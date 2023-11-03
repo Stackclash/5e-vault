@@ -84,6 +84,8 @@ Nothics are notorious for infiltrating arcane academies and other places rich in
 - "IDRotF"
 - "JttRC"
 - "KftGV"
+- "PaBTSO"
+- "ToFW"
 "image": "5. Mechanics/Bestiary/Aberration/token/nothic.png"
 ```
 ^statblock

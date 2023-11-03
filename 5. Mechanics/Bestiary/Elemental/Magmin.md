@@ -16,7 +16,7 @@ A grinning, mischievous magmin resembles a stumpy humanoid sculpted from a black
 
 ## Summoned Pyromaniacs
 
-Magmins are fire elemental spirits bound into physical forms by magic, and they appear in the Material Plane only when summoned. They view flammable objects as kindling for a grand conflagration, and only the magical control exerted by their summoners keeps them from setting everything they touch ablaze. Their propensity for fire and havoc makes them ideal for spreading chaos and destruction. A mob of magmins summoned inside a castle can reduce it to a burning shell within minutes. 
+Magmins are fire elemental spirits bound into physical forms by magic, and they appear in the Material Plane only when summoned. They view flammable objects as kindling for a grand conflagration, and only the magical control exerted by their summoners keeps them from setting everything they touch ablaze. Their propensity for fire and havoc makes them ideal for spreading chaos and destruction. A mob of magmins summoned inside a castle can reduce it to a burning shell within minutes.
 
 ### Fiery Destruction
 
@@ -69,6 +69,7 @@ If it has the opportunity while in service to its master, a magmin seeks out are
 - "ToA"
 - "BGDIA"
 - "WBtW"
+- "SatO"
 "image": "5. Mechanics/Bestiary/Elemental/token/magmin.png"
 ```
 ^statblock

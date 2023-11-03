@@ -119,6 +119,8 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 - "WDMM"
 - "IDRotF"
 - "DSotDQ"
+- "SatO"
+- "ToFW"
 "image": "compendium/bestiary/aberration/token/green-slaad.png"
 ```
 ^statblock

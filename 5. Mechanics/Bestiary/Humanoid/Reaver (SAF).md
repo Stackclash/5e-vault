@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/unknown
 - monster/size/medium
 - monster/type/humanoid/any-race
+statblock: inline
 aliases: ["Reaver"]
 ---
-# Reaver
+# [Reaver](compendium\bestiary\humanoid/reaver-saf.md)
 *Source: Strongholds and Followers p. 72*  
 
 ```statblock
-"name": "Reaver"
+"name": "Reaver (SaF)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "any race"
@@ -25,15 +28,15 @@ aliases: ["Reaver"]
 - !!int "14"
 "speed": "30 ft. (dependent on ancestry)"
 "saves":
-  "Charisma": "+3"
-  "Dexterity": "+3"
-  "Wisdom": "+3"
-  "Intelligence": "+3"
-  "Strength": "+6"
-  "Constitution": "+6"
+  "Charisma": !!int "3"
+  "Dexterity": !!int "3"
+  "Wisdom": !!int "3"
+  "Intelligence": !!int "3"
+  "Strength": !!int "6"
+  "Constitution": !!int "6"
 "skillsaves":
-  "Intimidation": "+5"
-  "Athletics": "+5"
+  "Intimidation": !!int "5"
+  "Athletics": !!int "5"
 "senses": "appropriate to ancestry, passive Perception 12"
 "languages": "appropriate to ancestry (usually Common)"
 "cr": "Unknown"

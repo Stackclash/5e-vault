@@ -46,7 +46,7 @@ If the demilich drops to 0 hit points, it is destroyed and turns to powder, leav
 
 > [!quote]- A quote from Epitaph of a demilich  
 > 
-> I, Achererak the Eternal, beckon you to you rdoom. Come, foolish ones, plunger my treasures, if you dare! Others have tried. All have failed! From your skin, tapestries shall be woven, and your bones will carpet my tomb. Only I am beyond Death's reach. Only I know the secret to true immortality!
+> I, Achererak the Eternal, beckon you to your doom. Come, foolish ones, plunger my treasures, if you dare! Others have tried. All have failed! From your skin, tapestries shall be woven, and your bones will carpet my tomb. Only I am beyond Death's reach. Only I know the secret to true immortality!
 
 
 ```statblock
@@ -131,6 +131,7 @@ If the demilich drops to 0 hit points, it is destroyed and turns to powder, leav
 - "EGW"
 - "IDRotF"
 - "JttRC"
+- "ToFW"
 "image": "5. Mechanics/Bestiary/Undead/token/demilich.png"
 ```
 ^statblock

@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/unknown
 - monster/size/medium
 - monster/type/humanoid/any-race
+statblock: inline
 aliases: ["Shadow Priest"]
 ---
-# Shadow Priest
+# [Shadow Priest](compendium\bestiary\humanoid/shadow-priest-saf.md)
 *Source: Strongholds and Followers p. 74*  
 
 ```statblock
-"name": "Shadow Priest"
+"name": "Shadow Priest (SaF)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "any race"
@@ -25,15 +28,15 @@ aliases: ["Shadow Priest"]
 - !!int "14"
 "speed": "30 ft. (dependant on ancestry)"
 "saves":
-  "Charisma": "+3"
-  "Dexterity": "+3"
-  "Wisdom": "+6"
-  "Intelligence": "+3"
-  "Strength": "+3"
-  "Constitution": "+3"
+  "Charisma": !!int "3"
+  "Dexterity": !!int "3"
+  "Wisdom": !!int "6"
+  "Intelligence": !!int "3"
+  "Strength": !!int "3"
+  "Constitution": !!int "3"
 "skillsaves":
-  "Deception": "+5"
-  "Stealth": "+5"
+  "Deception": !!int "5"
+  "Stealth": !!int "5"
 "senses": "appropriate to ancestry, passive Perception 14"
 "languages": "appropriate to ancestry (usually Common)"
 "cr": "Unknown"

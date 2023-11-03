@@ -93,6 +93,7 @@ Ettercaps are natural enemies of fey creatures. The foul creatures set web snare
 - "EGW"
 - "CM"
 - "WBtW"
+- "SatO"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/ettercap.png"
 ```
 ^statblock

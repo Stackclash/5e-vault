@@ -9,7 +9,7 @@ aliases: ["Dol Dorn"]
 ---
 # Dol Dorn
 *Source: Eberron: Rising from the Last War p. 141* 
-![[5. Mechanics/Deities/img/erlw-the-sovereign-host.png#symbol\|The Sovereign Host]]
+![[5. Mechanics/Deities/img/Erlw The Sovereign Host.webp#symbol\|The Sovereign Host]]
 
 - **Alignment**: Unaligned
 - **Category**: The Sovereign Host

@@ -69,6 +69,9 @@ Cultists swear allegiance to dark powers such as elemental princes, demon lords,
 - "CM"
 - "JttRC"
 - "KftGV"
+- "HftT"
+- "PaBTSO"
+- "AATM"
 "image": "5. Mechanics/Bestiary/Humanoid/token/cultist.png"
 ```
 ^statblock

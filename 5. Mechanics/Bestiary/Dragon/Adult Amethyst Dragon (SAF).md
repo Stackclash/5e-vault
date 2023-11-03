@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/16
 - monster/size/huge
 - monster/type/dragon
+statblock: inline
 aliases: ["Adult Amethyst Dragon"]
 ---
-# Adult Amethyst Dragon
+# [Adult Amethyst Dragon](compendium\bestiary\dragon/adult-amethyst-dragon-saf.md)
 *Source: Strongholds and Followers p. 220*  
 
 The renegades of the jeweled dragons, the amethyst dragons seek new knowledge and so manipulate mortals to do dangerous, even deadly things in order to push the boundary of the known.
@@ -18,7 +21,7 @@ The amethyst are sinister, manipulating, and scheming. They enjoy using the psio
 When encountered, they are often conciliatory, deferent. They want to put you at ease to catch you off guard. They are helpful, they love helping mortals, they love making mortals trust them, because it is a short path from trust to dependence. They cannot be trusted.
 
 ```statblock
-"name": "Adult Amethyst Dragon"
+"name": "Adult Amethyst Dragon (SaF)"
 "size": "Huge"
 "type": "dragon"
 "alignment": "Lawful Evil"
@@ -34,15 +37,15 @@ When encountered, they are often conciliatory, deferent. They want to put you at
 - !!int "20"
 "speed": "40 ft., fly 80 ft. (hover)"
 "saves":
-  "Charisma": "+10"
-  "Dexterity": "+10"
-  "Wisdom": "+8"
-  "Intelligence": "+10"
+  "Charisma": !!int "10"
+  "Dexterity": !!int "10"
+  "Wisdom": !!int "8"
+  "Intelligence": !!int "10"
 "skillsaves":
-  "Religion": "+10"
-  "Insight": "+8"
-  "Perception": "+8"
-  "Arcana": "+10"
+  "Religion": !!int "10"
+  "Insight": !!int "8"
+  "Perception": !!int "8"
+  "Arcana": !!int "10"
 "damage_vulnerabilities": "psychic"
 "damage_resistances": "bludgeoning, slashing, piercing from nonmagical weapons"
 "damage_immunities": "fire, lightning"

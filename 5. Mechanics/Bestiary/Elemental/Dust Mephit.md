@@ -76,6 +76,8 @@ Composed of earth and air, dust mephits are drawn to catacombs and find death mo
 - "MM"
 - "PotA"
 - "ToA"
+- "PaBTSO"
+- "SatO"
 "image": "compendium/bestiary/elemental/token/dust-mephit.png"
 ```
 ^statblock

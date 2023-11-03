@@ -13,6 +13,7 @@ aliases: ["Mind Sliver"]
 # Mind Sliver
 %%-- Embedded content starts on the next line. --%%
 *cantrip, Enchantment*  
+![[5. Mechanics/Spells/img/Mind Sliver.webp#right]]  
 
 - **Casting time:** 1 action
 - **Range:** 60 feet

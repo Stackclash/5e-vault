@@ -12,7 +12,7 @@ aliases:
 ---
 # Gulthias Staff
 *Staff, rare (requires attunement)*  
-![[5. Mechanics/Items/img/gulthias-staff.png#right]]  
+![[5. Mechanics/Items/img/Gulthias Staff.webp#right]]  
 
 - **Damage**:
   - One-handed: 1d6 B

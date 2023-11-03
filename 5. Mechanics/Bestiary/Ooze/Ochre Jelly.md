@@ -97,6 +97,8 @@ An ooze doesn't require sleep.
 - "RMBRE"
 - "CRCotN"
 - "JttRC"
+- "HftT"
+- "PaBTSO"
 "image": "compendium/bestiary/ooze/token/ochre-jelly.png"
 ```
 ^statblock

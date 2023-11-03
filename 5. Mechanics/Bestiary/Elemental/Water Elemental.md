@@ -103,6 +103,7 @@ An elemental doesn't require air, food, drink, or sleep.
 - "CM"
 - "JttRC"
 - "DSotDQ"
+- "PaBTSO"
 "image": "compendium/bestiary/elemental/token/water-elemental.png"
 ```
 ^statblock

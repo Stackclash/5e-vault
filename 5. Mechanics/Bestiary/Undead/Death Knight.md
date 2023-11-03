@@ -106,6 +106,8 @@ A death knight doesn't require air, food, drink, or sleep.
 - "TCE"
 - "CM"
 - "DSotDQ"
+- "AATM"
+- "SatO"
 "image": "compendium/bestiary/undead/token/death-knight.png"
 ```
 ^statblock

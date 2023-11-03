@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/21
 - monster/size/huge
 - monster/type/celestial
+statblock: inline
 aliases: ["The Phoenix"]
 ---
-# The Phoenix
+# [The Phoenix](compendium\bestiary\celestial/the-phoenix-saf.md)
 *Source: Strongholds and Followers p. 248*  
 
 ```statblock
-"name": "The Phoenix"
+"name": "The Phoenix (SaF)"
 "size": "Huge"
 "type": "celestial"
 "alignment": "Any Good alignment"
@@ -26,14 +29,15 @@ aliases: ["The Phoenix"]
 - !!int "29"
 "speed": "30 ft., fly 3450 ft. (hover ^[Yes, it can break the sound barrier.])"
 "saves":
-  "Charisma": "+16"
-  "Wisdom": "+14"
-  "Intelligence": "+14"
+  "Charisma": !!int "16"
+  "Wisdom": !!int "14"
+  "Intelligence": !!int "14"
 "skillsaves":
-  "Perception": "+14"
+  "Perception": !!int "14"
 "damage_resistances": "radiant; bludgeoning, piercing, slashing from nonmagical weapons"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "charmed, exhaustion, frightened, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "truesight 120 ft., passive Perception 24"
 "languages": "all, telepathy 120 ft."
 "cr": "21"

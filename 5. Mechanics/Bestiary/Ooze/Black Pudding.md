@@ -107,6 +107,8 @@ An ooze doesn't require sleep.
 - "JttRC"
 - "DSotDQ"
 - "KftGV"
+- "SatO"
+- "ToFW"
 "image": "compendium/bestiary/ooze/token/black-pudding.png"
 ```
 ^statblock

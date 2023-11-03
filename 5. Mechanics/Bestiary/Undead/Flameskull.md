@@ -109,6 +109,9 @@ A flameskull doesn't require air, food, drink, or sleep
 - "CRCotN"
 - "JttRC"
 - "DSotDQ"
+- "HftT"
+- "PaBTSO"
+- "SatO"
 "image": "5. Mechanics/Bestiary/Undead/token/flameskull.png"
 ```
 ^statblock

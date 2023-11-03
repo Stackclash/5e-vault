@@ -91,6 +91,8 @@ Unlike their fey cousins, the sprites, pixies abhor weapons and would sooner fle
 - "EGW"
 - "WBtW"
 - "KftGV"
+- "SatO"
+- "ToFW"
 "image": "5. Mechanics/Bestiary/Fey/token/pixie.png"
 ```
 ^statblock

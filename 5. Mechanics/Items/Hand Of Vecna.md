@@ -11,7 +11,7 @@ aliases:
 ---
 # Hand of Vecna
 *Wondrous Item, artifact (requires attunement)*  
-![[5. Mechanics/Items/img/hand-of-vecna.jpg#right]]  
+![[5. Mechanics/Items/img/Hand Of Vecna.webp#right]]  
 
 
 Seldom is the name of Vecna spoken except in a hushed voice. Vecna was, in his time, one of the mightiest of all wizards. Through dark magic and conquest, he forged a terrible empire. For all his power, Vecna couldn't escape his own mortality. He began to fear death and take steps to prevent his end from ever coming about.

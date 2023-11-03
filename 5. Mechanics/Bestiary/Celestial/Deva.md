@@ -104,6 +104,8 @@ Legend tells of angels that take mortal form for years, lending aid, hope, and c
 - "CRCotN"
 - "JttRC"
 - "KftGV"
+- "SatO"
+- "ToFW"
 "image": "5. Mechanics/Bestiary/Celestial/token/deva.png"
 ```
 ^statblock

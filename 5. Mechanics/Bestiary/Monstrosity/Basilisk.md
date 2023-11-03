@@ -79,6 +79,7 @@ Some alchemists are said to know how to process the basilisk's gullet and the fl
 - "MOT"
 - "IDRotF"
 - "PSZ"
+- "PaBTSO"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/basilisk.png"
 ```
 ^statblock

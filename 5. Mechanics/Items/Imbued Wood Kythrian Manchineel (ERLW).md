@@ -20,25 +20,4 @@ An imbued wood focus is a rod, staff, or wand cut from a tree infused with extra
 
 When you cast a damage-dealing spell using this item as your spellcasting focus, you gain a +1 bonus to one acid or poison damage roll of the spell.
 
-**Variants**:
-- [Kythrian Manchineel Rod](#Kythrian%20Manchineel%20Rod)
-- [Kythrian Manchineel Wand](#Kythrian%20Manchineel%20Wand)
-- [Kythrian Manchineel Staff](#Kythrian%20Manchineel%20Staff)
-
-### Kythrian Manchineel Rod
-
-- **Weight**: 2.0 lbs.
-
-### Kythrian Manchineel Wand
-
-- **Weight**: 1.0 lbs.
-
-### Kythrian Manchineel Staff
-
-- **Damage**:
-  - One-handed: 1d6 B
-  - Two-handed: 1d8 B
-- **Weight**: 4.0 lbs.
-
-
 *Source: Eberron: Rising from the Last War p. 277*

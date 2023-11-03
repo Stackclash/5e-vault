@@ -135,6 +135,9 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 - "BGDIA"
 - "TCE"
 - "KftGV"
+- "PaBTSO"
+- "SatO"
+- "ToFW"
 "image": "5. Mechanics/Bestiary/Fiend/token/nycaloth.png"
 ```
 ^statblock

@@ -11,7 +11,7 @@ aliases:
 ---
 # Wand of Orcus
 *Wand, artifact (requires attunement)*  
-![[5. Mechanics/Items/img/wand-of-orcus.jpg#right]]  
+![[5. Mechanics/Items/img/Wand Of Orcus.webp#right]]  
 
 - **Damage**: 1d6 B
 - **Weight**: 4.0 lbs.

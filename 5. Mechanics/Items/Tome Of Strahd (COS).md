@@ -9,7 +9,7 @@ aliases:
 ---
 # Tome of Strahd
 *Adventuring Gear*  
-![[5. Mechanics/Items/img/tome-of-strahd.jpg#right]]  
+![[5. Mechanics/Items/img/Tome Of Strahd.webp#right]]  
 
 - **Weight**: 5.0 lbs.
 

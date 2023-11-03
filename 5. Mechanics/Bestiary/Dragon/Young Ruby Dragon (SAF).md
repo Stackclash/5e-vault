@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/9
 - monster/size/large
 - monster/type/dragon
+statblock: inline
 aliases: ["Young Ruby Dragon"]
 ---
-# Young Ruby Dragon
+# [Young Ruby Dragon](compendium\bestiary\dragon/young-ruby-dragon-saf.md)
 *Source: Strongholds and Followers p. 205*  
 
 The rubies protect the knowledge of reality, which they call realitas, the essential thing that separates real things from illusion.
@@ -16,7 +19,7 @@ They alone understand the danger that illusionists present to the Mundane World,
 They are measured and formal, slow to give trust. They like seeing things done properly, traditions obeyed and upheld. If you approach one with respect and introduce yourself properly and do not saw the air too much with your hands, then they will listen and grant you the opportunity to impress them.
 
 ```statblock
-"name": "Young Ruby Dragon"
+"name": "Young Ruby Dragon (SaF)"
 "size": "Large"
 "type": "dragon"
 "alignment": "Lawful Neutral"
@@ -32,13 +35,13 @@ They are measured and formal, slow to give trust. They like seeing things done p
 - !!int "17"
 "speed": "40 ft., fly 80 ft. (hover)"
 "saves":
-  "Charisma": "+7"
-  "Dexterity": "+7"
-  "Wisdom": "+6"
-  "Intelligence": "+7"
+  "Charisma": !!int "7"
+  "Dexterity": !!int "7"
+  "Wisdom": !!int "6"
+  "Intelligence": !!int "7"
 "skillsaves":
-  "Insight": "+6"
-  "Perception": "+6"
+  "Insight": !!int "6"
+  "Perception": !!int "6"
 "damage_vulnerabilities": "psychic"
 "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 20"
 "languages": "Common, Draconic, telepathy 120 ft."

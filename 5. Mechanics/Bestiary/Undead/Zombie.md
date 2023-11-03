@@ -99,6 +99,11 @@ A zombie doesn't require air, food, drink, or sleep.
 - "DSotDQ"
 - "KftGV"
 - "PSI"
+- "HftT"
+- "PaBTSO"
+- "AATM"
+- "SatO"
+- "ToFW"
 "image": "5. Mechanics/Bestiary/Undead/token/zombie.png"
 ```
 ^statblock

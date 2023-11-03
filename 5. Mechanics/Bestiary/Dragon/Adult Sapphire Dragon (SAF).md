@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/17
 - monster/size/huge
 - monster/type/dragon
+statblock: inline
 aliases: ["Adult Sapphire Dragon"]
 ---
-# Adult Sapphire Dragon
+# [Adult Sapphire Dragon](compendium\bestiary\dragon/adult-sapphire-dragon-saf.md)
 *Source: Strongholds and Followers p. 214*  
 
 Eldest, first, the sapphire dragons inspire awe in any who see them. They guard the knowledge of past and future and the power that lets one shift between them. They approve of the dwarves, who imposed the rigid rules of causality on the world, and consider the remnant domains of the elves, the wodes, as a danger. Not a threat per se, because they know it is in the elves' nature to ignore past and future, but when mortals exploit this or discover the means to move through time, or summon creatures from the past and future, then the sapphire dragons get riled up.
@@ -16,7 +19,7 @@ Of course, because they guard this knowledge, they are also experts on it and th
 Being oldest, they are also the most reserved, taciturn. Even the young sapphires are aware of their species' place in history and expect to be treated with respect. They talk like old university professors who know they have tenure and expect everyone to hang on their every word.
 
 ```statblock
-"name": "Adult Sapphire Dragon"
+"name": "Adult Sapphire Dragon (SaF)"
 "size": "Huge"
 "type": "dragon"
 "alignment": "Neutral"
@@ -32,19 +35,19 @@ Being oldest, they are also the most reserved, taciturn. Even the young sapphire
 - !!int "22"
 "speed": "40 ft., fly 80 ft. (hover)"
 "saves":
-  "Charisma": "+12"
-  "Dexterity": "+12"
-  "Wisdom": "+9"
-  "Intelligence": "+12"
+  "Charisma": !!int "12"
+  "Dexterity": !!int "12"
+  "Wisdom": !!int "9"
+  "Intelligence": !!int "12"
 "skillsaves":
-  "Religion": "+12"
-  "Insight": "+9"
-  "Perception": "+9"
-  "Arcana": "+12"
+  "Religion": !!int "12"
+  "Insight": !!int "9"
+  "Perception": !!int "9"
+  "Arcana": !!int "12"
 "damage_vulnerabilities": "psychic"
 "damage_resistances": "bludgeoning, slashing, piercing from nonmagical weapons"
 "damage_immunities": "fire, lightning"
-"condition_immunities": "stunned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]"
 "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 25"
 "languages": "Common, Draconic, telepathy 120 ft."
 "cr": "17"

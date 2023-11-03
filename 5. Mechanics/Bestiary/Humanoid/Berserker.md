@@ -66,6 +66,8 @@ Hailing from uncivilized lands, unpredictable berserkers come together in war pa
 - "IDRotF"
 - "CM"
 - "CRCotN"
+- "PaBTSO"
+- "ToFW"
 "image": "5. Mechanics/Bestiary/Humanoid/token/berserker.png"
 ```
 ^statblock

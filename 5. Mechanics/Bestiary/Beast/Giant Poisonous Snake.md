@@ -54,6 +54,7 @@ aliases: ["Giant Poisonous Snake"]
 - "MOT"
 - "TCE"
 - "WBtW"
+- "PaBTSO"
 "image": "compendium/bestiary/beast/token/giant-poisonous-snake.png"
 ```
 ^statblock

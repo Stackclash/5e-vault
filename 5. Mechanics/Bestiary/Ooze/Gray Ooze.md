@@ -93,6 +93,7 @@ An ooze doesn't require sleep.
 - "WDH"
 - "GoS"
 - "KftGV"
+- "PaBTSO"
 "image": "compendium/bestiary/ooze/token/gray-ooze.png"
 ```
 ^statblock

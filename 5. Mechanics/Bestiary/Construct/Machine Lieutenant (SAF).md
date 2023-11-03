@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/4
 - monster/size/medium
 - monster/type/construct
+statblock: inline
 aliases: ["Machine Lieutenant"]
 ---
-# Machine Lieutenant
+# [Machine Lieutenant](compendium\bestiary\construct/machine-lieutenant-saf.md)
 *Source: Strongholds and Followers p. 252*  
 
 ```statblock
-"name": "Machine Lieutenant"
+"name": "Machine Lieutenant (SaF)"
 "size": "Medium"
 "type": "construct"
 "alignment": "Neutral"
@@ -26,12 +29,14 @@ aliases: ["Machine Lieutenant"]
 - !!int "10"
 "speed": "40 ft."
 "skillsaves":
-  "Perception": "+4"
+  "Perception": !!int "4"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical weapons that\
   \ aren't adamantine"
 "damage_immunities": "force, necrotic, poison"
-"condition_immunities": "blinded, charmed, deafened, frightened, paralyzed, petrified,\
-  \ poisoned, stunned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 14"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "4"

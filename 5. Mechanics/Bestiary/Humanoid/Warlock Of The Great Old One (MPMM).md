@@ -59,7 +59,7 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
     \ [[5. Mechanics/Spells/True Seeing.md|true seeing]]"
   "name": "spells"
 - "desc": "At the start of each of the warlock's turns, each creature of its choice\
-    \ within 5 feet of it must succeed on a DC 15 Wisdom saving throw or take dice:\
+    \ within 10 feet of it must succeed on a DC 15 Wisdom saving throw or take dice:\
     \ 3d6|avg (3d6) psychic damage, provided that the warlock isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
   "name": "Whispering Aura"
 "actions":

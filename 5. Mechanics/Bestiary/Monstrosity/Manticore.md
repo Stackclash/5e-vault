@@ -86,6 +86,7 @@ The manticores' greatest territorial rivals include chimeras, griffons, perytons
 - "MOT"
 - "JttRC"
 - "DSotDQ"
+- "SatO"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/manticore.png"
 ```
 ^statblock

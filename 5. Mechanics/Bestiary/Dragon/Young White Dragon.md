@@ -148,6 +148,8 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "TftYP"
 - "DIP"
 - "IDRotF"
+- "LK"
+- "ToFW"
 "image": "compendium/bestiary/dragon/token/young-white-dragon.png"
 ```
 ^statblock

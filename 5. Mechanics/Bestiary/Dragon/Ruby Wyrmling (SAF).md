@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/3
 - monster/size/medium
 - monster/type/dragon
+statblock: inline
 aliases: ["Ruby Wyrmling"]
 ---
-# Ruby Wyrmling
+# [Ruby Wyrmling](compendium\bestiary\dragon/ruby-wyrmling-saf.md)
 *Source: Strongholds and Followers p. 205*  
 
 The rubies protect the knowledge of reality, which they call realitas, the essential thing that separates real things from illusion.
@@ -16,7 +19,7 @@ They alone understand the danger that illusionists present to the Mundane World,
 They are measured and formal, slow to give trust. They like seeing things done properly, traditions obeyed and upheld. If you approach one with respect and introduce yourself properly and do not saw the air too much with your hands, then they will listen and grant you the opportunity to impress them.
 
 ```statblock
-"name": "Ruby Wyrmling"
+"name": "Ruby Wyrmling (SaF)"
 "size": "Medium"
 "type": "dragon"
 "alignment": "Lawful Neutral"
@@ -32,13 +35,13 @@ They are measured and formal, slow to give trust. They like seeing things done p
 - !!int "14"
 "speed": "30 ft., fly 60 ft. (hover)"
 "saves":
-  "Charisma": "+4"
-  "Dexterity": "+4"
-  "Wisdom": "+4"
-  "Intelligence": "+4"
+  "Charisma": !!int "4"
+  "Dexterity": !!int "4"
+  "Wisdom": !!int "4"
+  "Intelligence": !!int "4"
 "skillsaves":
-  "Insight": "+4"
-  "Perception": "+4"
+  "Insight": !!int "4"
+  "Perception": !!int "4"
 "damage_vulnerabilities": "psychic"
 "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 16"
 "languages": "Common, Draconic"

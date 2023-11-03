@@ -5,13 +5,12 @@ tags:
 - compendium/src/5e/saf
 - item/gear/requires-installation
 - item/rarity/rare
-aliases: ["Velorin's Laboratory"]
+aliases: 
+- "Velorin's Laboratory"
 ---
 # Velorin's Laboratory
 *requires installation, rare*  
 
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 Wondrous item, rare, requires installation This elaborate laboratory contains everything a magic-user needs to research new spells. The inks, papers, flasks, pipettes, tinctures, and rare ingredients are worth 10,000 gp and can be packed into two large trunks.
 

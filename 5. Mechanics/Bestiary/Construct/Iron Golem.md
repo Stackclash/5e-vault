@@ -105,6 +105,7 @@ A golem doesn't require air, food, drink, or sleep.
 - "EGW"
 - "MOT"
 - "IDRotF"
+- "SatO"
 "image": "compendium/bestiary/construct/token/iron-golem.png"
 ```
 ^statblock

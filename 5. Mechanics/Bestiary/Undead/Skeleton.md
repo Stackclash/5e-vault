@@ -92,6 +92,11 @@ A skeleton doesn't require air, food, drink, or sleep.
 - "JttRC"
 - "DSotDQ"
 - "KftGV"
+- "HftT"
+- "PaBTSO"
+- "AATM"
+- "SatO"
+- "ToFW"
 "image": "5. Mechanics/Bestiary/Undead/token/skeleton.png"
 ```
 ^statblock

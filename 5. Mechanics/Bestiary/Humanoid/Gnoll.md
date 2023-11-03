@@ -78,6 +78,8 @@ No goodness or compassion resides in the heart of a gnoll. Like a demon, it lack
 - "ERLW"
 - "EGW"
 - "IDRotF"
+- "SatO"
+- "ToFW"
 "image": "5. Mechanics/Bestiary/Humanoid/token/gnoll.png"
 ```
 ^statblock

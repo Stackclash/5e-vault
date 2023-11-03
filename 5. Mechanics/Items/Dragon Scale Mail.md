@@ -12,7 +12,7 @@ aliases:
 ---
 # Dragon Scale Mail
 *Medium Armor, major, very rare (requires attunement)*  
-![[5. Mechanics/Items/img/dragon-scale-mail.jpg#right]]  
+![[5. Mechanics/Items/img/Dragon Scale Mail.webp#right]]  
 
 - **Armor Class**: 14 + DEX (max of +2)
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.

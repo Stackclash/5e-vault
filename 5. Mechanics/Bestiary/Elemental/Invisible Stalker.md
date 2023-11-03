@@ -88,6 +88,7 @@ An invisible stalker requires no air, food, drink, or sleep.
 - "WBtW"
 - "CRCotN"
 - "KftGV"
+- "PaBTSO"
 "image": "compendium/bestiary/elemental/token/invisible-stalker.png"
 ```
 ^statblock

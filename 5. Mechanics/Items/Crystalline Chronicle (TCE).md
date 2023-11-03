@@ -11,7 +11,7 @@ aliases:
 ---
 # Crystalline Chronicle
 *Wondrous Item, very rare (requires attunement by a wizard)*  
-![[5. Mechanics/Items/img/crystalline-chronicle.png#right]]  
+![[5. Mechanics/Items/img/Crystalline Chronicle.webp#right]]  
 
 - **Weight**: 3.0 lbs.
 

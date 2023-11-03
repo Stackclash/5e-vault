@@ -12,7 +12,7 @@ aliases:
 ---
 # Robe of the Archmagi
 *Wondrous Item, major, legendary (requires attunement by a sorcerer, warlock, or wizard)*  
-![[5. Mechanics/Items/img/robe-of-the-archmagi.jpg#right]]  
+![[5. Mechanics/Items/img/Robe Of The Archmagi.webp#right]]  
 
 
 This elegant garment is made from exquisite cloth of white, gray, or black and adorned with silvery runes. The robe's color corresponds to the alignment for which the item was created. A white robe was made for good, gray for neutral, and black for evil. You can't attune to a robe of the archmagi that doesn't correspond to your alignment.

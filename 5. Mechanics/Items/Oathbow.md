@@ -16,7 +16,7 @@ aliases:
 ---
 # Oathbow
 *Ranged Weapon, major, very rare (requires attunement)*  
-![[5. Mechanics/Items/img/oathbow.jpg#right]]  
+![[5. Mechanics/Items/img/Oathbow.webp#right]]  
 
 - **Damage**: 1d8 P
 - **Range**: 150/600

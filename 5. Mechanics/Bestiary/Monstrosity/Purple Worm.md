@@ -84,6 +84,8 @@ A burrowing purple worm constantly creates new tunnels throughout the Underdark,
 - "LoX"
 - "DSotDQ"
 - "PSI"
+- "PaBTSO"
+- "ToFW"
 "image": "compendium/bestiary/monstrosity/token/purple-worm.png"
 ```
 ^statblock

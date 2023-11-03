@@ -11,7 +11,7 @@ aliases:
 ---
 # Efreeti Bottle
 *Wondrous Item, major, very rare*  
-![[5. Mechanics/Items/img/efreeti-bottle.jpg#right]]  
+![[5. Mechanics/Items/img/Efreeti Bottle.webp#right]]  
 
 - **Weight**: 1.0 lbs.
 

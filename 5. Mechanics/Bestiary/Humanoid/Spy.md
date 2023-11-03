@@ -84,6 +84,8 @@ Rulers, nobles, merchants, guildmasters, and other wealthy individuals use spies
 - "CRCotN"
 - "JttRC"
 - "KftGV"
+- "SatO"
+- "ToFW"
 "image": "5. Mechanics/Bestiary/Humanoid/token/spy.png"
 ```
 ^statblock

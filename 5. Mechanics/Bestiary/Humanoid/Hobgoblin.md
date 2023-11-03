@@ -122,6 +122,7 @@ Hobgoblins worship Maglubiyet the Mighty One, the greater god of goblinoids. As 
 - "EGW"
 - "WBtW"
 - "DSotDQ"
+- "PaBTSO"
 "image": "5. Mechanics/Bestiary/Humanoid/token/hobgoblin.png"
 ```
 ^statblock

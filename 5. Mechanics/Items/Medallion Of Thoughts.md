@@ -12,7 +12,7 @@ aliases:
 ---
 # Medallion of Thoughts
 *Wondrous Item, major, uncommon (requires attunement)*  
-![[5. Mechanics/Items/img/medallion-of-thoughts.jpg#right]]  
+![[5. Mechanics/Items/img/Medallion Of Thoughts.webp#right]]  
 
 - **Weight**: 1.0 lbs.
 

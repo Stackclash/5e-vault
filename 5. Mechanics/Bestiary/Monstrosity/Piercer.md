@@ -64,6 +64,7 @@ Piercers gather in colonies to maximize the effectiveness of their attacks, drop
 - "TftYP"
 - "WDMM"
 - "IDRotF"
+- "ToFW"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/piercer.png"
 ```
 ^statblock

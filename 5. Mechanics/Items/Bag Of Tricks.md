@@ -11,7 +11,7 @@ aliases:
 ---
 # Bag of Tricks
 *Wondrous Item, major, uncommon*  
-![[5. Mechanics/Items/img/bag-of-tricks.jpg#right]]  
+![[5. Mechanics/Items/img/Bag Of Tricks.webp#right]]  
 
 - **Weight**: 0.5 lbs.
 

@@ -12,7 +12,7 @@ aliases:
 ---
 # Robe of Stars
 *Wondrous Item, major, very rare (requires attunement)*  
-![[5. Mechanics/Items/img/robe-of-stars.jpg#right]]  
+![[5. Mechanics/Items/img/Robe Of Stars.webp#right]]  
 
 
 This black or dark blue robe is embroidered with small white or silver stars. You gain a +1 bonus to saving throws while you wear it.

@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/10
 - monster/size/large
 - monster/type/construct
+statblock: inline
 aliases: ["Nature"]
 ---
-# Nature
+# [Nature](compendium\bestiary\construct/nature-saf.md)
 *Source: Strongholds and Followers p. 232*  
 
 Chief amongst the Knights of Axiom is Nature. The Law of Nature states that all actions must proceed according to the fundamental axioms of the universe.. Magic is a tool used by those who would bypass those laws and act on the world using their will alone. This cannot be permitted. Nature can reflexively attempt to counter a spell as it's being cast, pointing at the caster and bellowing, "OBEY!" or "CONFORM!"
@@ -18,7 +21,7 @@ Nature has no particular interest in the local phenomenon humans call "nature." 
 Nature's counterspell reaction has a range of 60 feet, so Nature can pummel easy-to-reach enemies while keeping tabs on enemy wizards and denying them their spells. Nature also abhors creatures who travel to other planes under their own power, especially fiends and members of the Court of All Flesh, whom the Inexorables hate above all others.
 
 ```statblock
-"name": "Nature"
+"name": "Nature (SaF)"
 "size": "Large"
 "type": "construct"
 "alignment": "Lawful"
@@ -34,12 +37,14 @@ Nature's counterspell reaction has a range of 60 feet, so Nature can pummel easy
 - !!int "20"
 "speed": "40 ft."
 "saves":
-  "Charisma": "+9"
-  "Dexterity": "+4"
-  "Wisdom": "+8"
-  "Strength": "+9"
-  "Constitution": "+8"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
+  "Charisma": !!int "9"
+  "Dexterity": !!int "4"
+  "Wisdom": !!int "8"
+  "Strength": !!int "9"
+  "Constitution": !!int "8"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "truesight 60 ft., passive Perception 14"
 "languages": "all those of the creature who summoned it"
 "cr": "10"

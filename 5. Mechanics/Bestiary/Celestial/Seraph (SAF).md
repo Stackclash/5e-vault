@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/10
 - monster/size/large
 - monster/type/celestial
+statblock: inline
 aliases: ["Seraph"]
 ---
-# Seraph
+# [Seraph](compendium\bestiary\celestial/seraph-saf.md)
 *Source: Strongholds and Followers p. 165*  
 
 And you thought the Throne was weird! You were right about that, by the way.
@@ -20,7 +23,7 @@ It has the same telepathy the rest of the Celestial Court have, but it rarely us
 In spite of not having like...a face, or eyes, the Seraph cannot be flanked or surprised. It can use each weapon twice, so you decide if it needs to be in melee or not, and then either make two bow shots each from Alpha and Omega, or two mace attacks each from Good and Law. Alpha heals allies next to enemies it damages, which will help you choose which enemies to get next to.
 
 ```statblock
-"name": "Seraph"
+"name": "Seraph (SaF)"
 "size": "Large"
 "type": "celestial"
 "alignment": "Any Good alignment"
@@ -36,13 +39,14 @@ In spite of not having like...a face, or eyes, the Seraph cannot be flanked or s
 - !!int "20"
 "speed": "30 ft."
 "saves":
-  "Charisma": "+9"
-  "Wisdom": "+9"
-  "Strength": "+8"
-  "Constitution": "+9"
+  "Charisma": !!int "9"
+  "Wisdom": !!int "9"
+  "Strength": !!int "8"
+  "Constitution": !!int "9"
 "damage_resistances": "radiant; bludgeoning, piercing, slashing from nonmagical weapons"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "charmed, exhaustion, frightened, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "truesight, passive Perception 23"
 "languages": "all, telepathy 60 ft."
 "cr": "10"

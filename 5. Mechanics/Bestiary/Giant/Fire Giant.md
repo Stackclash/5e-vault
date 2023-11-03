@@ -129,6 +129,7 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 - "MOT"
 - "JttRC"
 - "GotSF"
+- "SatO"
 "image": "compendium/bestiary/giant/token/fire-giant.png"
 ```
 ^statblock

@@ -63,6 +63,7 @@ A death dog is an ugly two-headed hound that roams plains, deserts, and the Unde
 - "WDMM"
 - "MOT"
 - "LoX"
+- "AATM"
 "image": "compendium/bestiary/monstrosity/token/death-dog.png"
 ```
 ^statblock

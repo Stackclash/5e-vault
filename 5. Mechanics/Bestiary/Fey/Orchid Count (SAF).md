@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/6
 - monster/size/medium
 - monster/type/fey
+statblock: inline
 aliases: ["Orchid Count"]
 ---
-# Orchid Count
+# [Orchid Count](compendium\bestiary\fey/orchid-count-saf.md)
 *Source: Strongholds and Followers p. 180*  
 
 The dashing archer-sorcerer of the Court, the Count is often seen flanked by two Mantis Knights, dueling and carousing their way through Alloy, the City of Four Elements, known in some realms as the City of Brass.
@@ -22,7 +25,7 @@ Val counts on the Count, the renegade of the Arcadians, to disobey him. He can b
 The Count relies on his Now You See Me... Now You Don't... combo to get in and out of danger. He uses blur to avoid attacks and Tactical Advantage to maximize damage. He enjoys harrying spellcasters and using misty step to get behind enemy lines and attack whomever the enemy is trying to protect.
 
 ```statblock
-"name": "Orchid Count"
+"name": "Orchid Count (SaF)"
 "size": "Medium"
 "type": "fey"
 "alignment": "Chaotic"
@@ -38,14 +41,14 @@ The Count relies on his Now You See Me... Now You Don't... combo to get in and o
 - !!int "15"
 "speed": "30 ft."
 "saves":
-  "Dexterity": "+7"
-  "Constitution": "+6"
+  "Dexterity": !!int "7"
+  "Constitution": !!int "6"
 "skillsaves":
-  "Intimidation": "+5"
-  "Athletics": "+4"
-  "Perception": "+6"
-  "Acrobatics": "+7"
-  "Survival": "+3"
+  "Intimidation": !!int "5"
+  "Athletics": !!int "4"
+  "Perception": !!int "6"
+  "Acrobatics": !!int "7"
+  "Survival": !!int "3"
 "senses": "passive Perception 16"
 "languages": "Common, Elvish, Sylvan"
 "cr": "6"

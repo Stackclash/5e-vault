@@ -96,6 +96,7 @@ A zombie doesn't require air, food, drink, or sleep.
 - "MM"
 - "WDH"
 - "WDMM"
+- "ToFW"
 "image": "compendium/bestiary/undead/token/beholder-zombie.png"
 ```
 ^statblock

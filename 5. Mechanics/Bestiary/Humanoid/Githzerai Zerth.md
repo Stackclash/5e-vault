@@ -109,6 +109,8 @@ Whether these tall, gaunt creatures were peaceful or savage, cultured or primiti
 "source":
 - "MM"
 - "WDMM"
+- "SatO"
+- "ToFW"
 "image": "compendium/bestiary/humanoid/token/githzerai-zerth.png"
 ```
 ^statblock

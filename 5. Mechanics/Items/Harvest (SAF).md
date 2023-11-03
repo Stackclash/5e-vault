@@ -7,15 +7,15 @@ tags:
 - item/property/light
 - item/rarity/very-rare
 - item/weapon/simple/melee
-aliases: ["Harvest"]
+aliases: 
+- "Harvest"
 ---
 # Harvest
 *Melee Weapon, very rare (requires attunement by an evil creature)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/harvest.jpg#right)  
 
 - **Damage**: 1d4 S
-- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], Requires Attunement
-- **Cost**: ⏤
+- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]
 - **Weight**: 2.0 lbs.
 
 If you are a neutral character, this reaping tool functions as a normal weapon with no bonus or special properties. If you are good, touching Harvest deals `dice: 2d8|avg` (`2d8`) necrotic damage to you. If you are an evil character, you can use this sickle as a magic weapon with the following properties.

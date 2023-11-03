@@ -141,6 +141,8 @@ The death tyrant can't repeat an effect until all three have been used, and it c
 - "MM"
 - "WDMM"
 - "CM"
+- "AATM"
+- "SatO"
 "image": "compendium/bestiary/undead/token/death-tyrant.png"
 ```
 ^statblock

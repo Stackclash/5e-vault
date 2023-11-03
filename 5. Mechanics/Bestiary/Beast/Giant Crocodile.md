@@ -58,6 +58,7 @@ aliases: ["Giant Crocodile"]
 - "DIP"
 - "SLW"
 - "JttRC"
+- "ToFW"
 "image": "compendium/bestiary/beast/token/giant-crocodile.png"
 ```
 ^statblock

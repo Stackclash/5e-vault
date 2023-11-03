@@ -175,6 +175,8 @@ A mummy lord watches over an ancient temple or tomb that is protected by lesser 
 - "SKT"
 - "TCE"
 - "CM"
+- "AATM"
+- "SatO"
 "image": "compendium/bestiary/undead/token/mummy-lord.png"
 ```
 ^statblock

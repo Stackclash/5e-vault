@@ -87,6 +87,8 @@ To snare its prey, a giant spider spins elaborate webs or shoots sticky strands 
 - "CRCotN"
 - "DSotDQ"
 - "PSX"
+- "HftT"
+- "PaBTSO"
 "image": "compendium/bestiary/beast/token/giant-spider.png"
 ```
 ^statblock

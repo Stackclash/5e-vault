@@ -58,7 +58,7 @@ When you place a template, follow all the rules in the "Player's Handbook" for p
 
 Diagrams 2.1 and 2.2 show the template method in action.
 
-![[/5. Mechanics/Rules/Variant Rules/img/xge-001.png#center]]
+![[/5. Mechanics/Rules/Variant Rules/img/Xge-001.webp#center]]
 
 ### Token Method
 
@@ -72,9 +72,9 @@ Every 5-foot square of an area of effect becomes a die or other token that you p
 
 Diagrams 2.3 through 2.6 show this method in action, using dice as the tokens.
 
-![[/5. Mechanics/Rules/Variant Rules/img/xge-002.png#center]]
+![[/5. Mechanics/Rules/Variant Rules/img/Xge-002.webp#center]]
 
-![[/5. Mechanics/Rules/Variant Rules/img/xge-003.png#center]]
+![[/5. Mechanics/Rules/Variant Rules/img/Xge-003.webp#center]]
 
 #### Circles
 

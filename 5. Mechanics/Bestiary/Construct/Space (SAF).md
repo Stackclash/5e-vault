@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/5
 - monster/size/medium
 - monster/type/construct
+statblock: inline
 aliases: ["Space"]
 ---
-# Space
+# [Space](compendium\bestiary\construct/space-saf.md)
 *Source: Strongholds and Followers p. 227*  
 
 The Inexorable limitations of Space forbid anyone from moving from point A to point Z without passing through the rest of the alphabet. Certainly nothing as vulgar as teleportation is allowed on Axiom.
@@ -20,7 +23,7 @@ Space allows a second attack, or a second use of an item, because those are in t
 Space is the light infantry of the Inexorables, and pretty easy to use in combat. Fast like all the Knights of Axiom, Space uses its 40 feet of movement to get where it needs to be, to bludgeon its enemies. It prefers to focus on spellcasters but obeys the commands of the creature who summoned it.
 
 ```statblock
-"name": "Space"
+"name": "Space (SaF)"
 "size": "Medium"
 "type": "construct"
 "alignment": "Lawful"
@@ -35,7 +38,9 @@ Space is the light infantry of the Inexorables, and pretty easy to use in combat
 - !!int "16"
 - !!int "14"
 "speed": "40 ft."
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "truesight 60 ft., passive Perception 16"
 "languages": "all those of the creature who summoned it"
 "cr": "5"

@@ -72,6 +72,7 @@ Thugs are ruthless enforcers skilled at intimidation and violence. They work for
 - "JttRC"
 - "LoX"
 - "KftGV"
+- "ToFW"
 "image": "5. Mechanics/Bestiary/Humanoid/token/thug.png"
 ```
 ^statblock

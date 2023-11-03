@@ -13,7 +13,7 @@ aliases:
 ---
 # Sword of Kas
 *Melee Weapon, artifact (requires attunement)*  
-![[5. Mechanics/Items/img/sword-of-kas.jpg#right]]  
+![[5. Mechanics/Items/img/Sword Of Kas.webp#right]]  
 
 - **Damage**:
   - One-handed: 1d8 S

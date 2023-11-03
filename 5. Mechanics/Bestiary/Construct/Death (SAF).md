@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/6
 - monster/size/medium
 - monster/type/construct
+statblock: inline
 aliases: ["Death"]
 ---
-# Death
+# [Death](compendium\bestiary\construct/death-saf.md)
 *Source: Strongholds and Followers p. 228*  
 
 > [!quote]-  
@@ -24,7 +27,7 @@ It also has the power to prevent a creature from meeting its end before its time
 This thing is powerful, but not hard to run. Its Law of Death radiates damage to undead, and its Death to Undeath ability has an obvious use. But if there aren't any undead around, it'll happily wade into combat for you, just smashing things with its hammer-like fists.
 
 ```statblock
-"name": "Death"
+"name": "Death (SaF)"
 "size": "Medium"
 "type": "construct"
 "alignment": "Lawful"
@@ -39,7 +42,9 @@ This thing is powerful, but not hard to run. Its Law of Death radiates damage to
 - !!int "14"
 - !!int "15"
 "speed": "40 ft."
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "truesight 60 ft., passive Perception 15"
 "languages": "all those of the creature who summoned it"
 "cr": "6"

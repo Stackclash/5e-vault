@@ -11,7 +11,7 @@ aliases:
 ---
 # Dust of Sneezing and Choking
 *Wondrous Item, minor, uncommon*  
-![[5. Mechanics/Items/img/dust-of-sneezing-and-choking.jpg#right]]  
+![[5. Mechanics/Items/img/Dust Of Sneezing And Choking.webp#right]]  
 
 
 Found in a small container, this powder resembles very fine sand. It appears to be [[5. Mechanics/Items/Dust Of Disappearance.md\|dust of disappearance]], and an [[5. Mechanics/Spells/Identify.md\|identify]] spell reveals it to be such. There is enough of it for one use.

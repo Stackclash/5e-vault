@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/8
 - monster/size/large
 - monster/type/dragon
+statblock: inline
 aliases: ["Young Emerald Dragon"]
 ---
-# Young Emerald Dragon
+# [Young Emerald Dragon](compendium\bestiary\dragon/young-emerald-dragon-saf.md)
 *Source: Strongholds and Followers p. 201*  
 
 One of the oldest species of gemstone dragons, the emeralds studied the lore of the sea and the unique, chaotic boundary between sea and land. It was the tide pools and estuaries that fascinated them, and they developed a theory of the timescape based on this intermingling. The Estuarial Hypothesis holds that the Mundane World lies on an interspace boundary between the worlds, and for this reason good, evil, chaos, and law all intermingle here.
@@ -18,7 +21,7 @@ Water dampens the dragon's mindspeech and as a result their psionics has evolved
 Their interest in our world and its relation to others makes them experts on the planes. Rumors speak of emerald dragons whose wings propel them naturally through the Sea of Stars that separates worlds, allowing them to travel at will to any plane. But this behavior has never been witnessed by mortals.
 
 ```statblock
-"name": "Young Emerald Dragon"
+"name": "Young Emerald Dragon (SaF)"
 "size": "Large"
 "type": "dragon"
 "alignment": "Chaotic Neutral"
@@ -34,13 +37,13 @@ Their interest in our world and its relation to others makes them experts on the
 - !!int "16"
 "speed": "40 ft., fly 80 ft. (hover), swim 40 ft."
 "saves":
-  "Charisma": "+6"
-  "Dexterity": "+6"
-  "Wisdom": "+5"
-  "Intelligence": "+6"
+  "Charisma": !!int "6"
+  "Dexterity": !!int "6"
+  "Wisdom": !!int "5"
+  "Intelligence": !!int "6"
 "skillsaves":
-  "Insight": "+5"
-  "Perception": "+5"
+  "Insight": !!int "5"
+  "Perception": !!int "5"
 "damage_vulnerabilities": "psychic"
 "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 18"
 "languages": "Common, Draconic, telepathy 120 ft."

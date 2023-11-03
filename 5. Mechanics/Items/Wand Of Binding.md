@@ -12,7 +12,7 @@ aliases:
 ---
 # Wand of Binding
 *Wand, major, rare (requires attunement by a spellcaster)*  
-![[5. Mechanics/Items/img/wand-of-binding.jpg#right]]  
+![[5. Mechanics/Items/img/Wand Of Binding.webp#right]]  
 
 - **Weight**: 1.0 lbs.
 

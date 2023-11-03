@@ -12,7 +12,7 @@ aliases:
 ---
 # Amulet of the Planes
 *Wondrous Item, major, very rare (requires attunement)*  
-![[5. Mechanics/Items/img/amulet-of-the-planes.jpg#right]]  
+![[5. Mechanics/Items/img/Amulet Of The Planes.webp#right]]  
 
 - **Weight**: 1.0 lbs.
 

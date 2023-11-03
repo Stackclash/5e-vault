@@ -22,7 +22,7 @@ aliases: ["Body Horror Monsters"]
 | 4 | [[5. Mechanics/Bestiary/Monstrosity/Strigoi (VRGR).md\|Strigoi]] | VGR |
 | 5 | [[5. Mechanics/Bestiary/Construct/Flesh Golem.md\|Flesh golem]] | "MM" |
 | 5 | [[5. Mechanics/Bestiary/Aberration/Red Slaad.md\|Red slaad]] | "MM" |
-| 6 | Medusa | "MM" |
+| 6 | [[5. Mechanics/Bestiary/Monstrosity/Medusa.md\|Medusa]] | "MM" |
 | 6 | [[5. Mechanics/Bestiary/Undead/Zombie Clot (VRGR).md\|Zombie clot]] | VGR |
 | 8 | [[5. Mechanics/Bestiary/Fiend/Chain Devil.md\|Chain devil]] | "MM" |
 | 10 | [[5. Mechanics/Bestiary/Aberration/Aboleth.md\|Aboleth]] | "MM" |

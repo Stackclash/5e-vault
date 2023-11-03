@@ -61,9 +61,10 @@ Zybilna was intrigued enough by the shadar-kai to let Isolde go, but not without
   "name": "innate"
 - "desc": "The AC of Isolde includes her Charisma bonus."
   "name": "Fiendish Blessing"
-- "desc": "While holding Nepenthe, Isolde creates an aura in a 10-foot radius around\
-    \ her. While this aura is active, Isolde and all creatures friendly to her in\
-    \ the aura have advantage on saving throws against spells and other magical effects."
+- "desc": "While holding [[5. Mechanics/Items/Nepenthe (VRGR).md|Nepenthe]], Isolde creates\
+    \ an aura in a 10-foot radius around her. While this aura is active, Isolde and\
+    \ all creatures friendly to her in the aura have advantage on saving throws against\
+    \ spells and other magical effects."
   "name": "Magic Resistance Aura"
 "actions":
 - "desc": "Isolde makes two melee attacks or uses its Fire Ray twice."

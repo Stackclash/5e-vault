@@ -67,6 +67,7 @@ Hook horrors live in extended family groups or clans. Each clan is ruled by the 
 - "WDMM"
 - "LoX"
 - "KftGV"
+- "PaBTSO"
 "image": "compendium/bestiary/monstrosity/token/hook-horror.png"
 ```
 ^statblock

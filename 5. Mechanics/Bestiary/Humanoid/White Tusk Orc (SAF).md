@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/1
 - monster/size/medium
 - monster/type/humanoid/orc
+statblock: inline
 aliases: ["White Tusk Orc"]
 ---
-# White Tusk Orc
+# [White Tusk Orc](compendium\bestiary\humanoid/white-tusk-orc-saf.md)
 *Source: Strongholds and Followers p. 137*  
 
 The rank and file of the White Tusk clan pride themselves on being larger and, thanks to Bonebreaker Dorokor's leadership since the investiture of Castle Rend, more devastating in combat than normal orcs.
@@ -14,7 +17,7 @@ The rank and file of the White Tusk clan pride themselves on being larger and, t
 They are a chaotic evil tribe who care only for strength and the subjugation of their enemies. They delight in cruelty. But Bonebreaker Dorokor is lawful, and has led them to triumph over the humanoids of the forest. So they obey her...for now.
 
 ```statblock
-"name": "White Tusk Orc"
+"name": "White Tusk Orc (SaF)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "orc"
@@ -31,9 +34,9 @@ They are a chaotic evil tribe who care only for strength and the subjugation of 
 - !!int "10"
 "speed": "30 ft."
 "saves":
-  "Dexterity": "+2"
+  "Dexterity": !!int "2"
 "skillsaves":
-  "Intimidation": "+2"
+  "Intimidation": !!int "2"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Orc"
 "cr": "1"

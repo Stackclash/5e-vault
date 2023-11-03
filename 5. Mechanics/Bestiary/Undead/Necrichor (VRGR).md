@@ -88,6 +88,7 @@ Necrichors prove exceptionally difficult to destroy, since they leave a trace of
   "name": "Blood Puppeteering (Recharge 6)"
 "source":
 - "VRGR"
+- "AATM"
 "image": "5. Mechanics/Bestiary/Undead/token/necrichor.png"
 ```
 ^statblock

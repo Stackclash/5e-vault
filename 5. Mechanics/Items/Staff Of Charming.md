@@ -13,7 +13,7 @@ aliases:
 ---
 # Staff of Charming
 *Staff, major, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)*  
-![[5. Mechanics/Items/img/staff-of-charming.jpg#right]]  
+![[5. Mechanics/Items/img/Staff Of Charming.webp#right]]  
 
 - **Damage**:
   - One-handed: 1d6 B

@@ -14,6 +14,7 @@ aliases:
 ---
 # Blackrazor
 *Melee Weapon, legendary (requires attunement by a creature of non-lawful alignment)*  
+![[5. Mechanics/Items/img/Blackrazor.webp#right]]  
 
 - **Damage**: 2d6 S
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], Martial, [[/5. Mechanics/Rules/Item Properties.md#Two-handed\|Two-handed]]

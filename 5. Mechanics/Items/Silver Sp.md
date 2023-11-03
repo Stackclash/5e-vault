@@ -10,7 +10,7 @@ cost: 1 sp
 ---
 # Silver (sp)
 *Treasure*  
-![[5. Mechanics/Items/img/silver-sp.jpg#right]]  
+![[5. Mechanics/Items/img/Silver Sp.webp#right]]  
 
 - **Cost**: 1 sp
 - **Weight**: 0.02 lbs.

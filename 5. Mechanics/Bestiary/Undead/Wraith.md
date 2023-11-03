@@ -106,6 +106,9 @@ A wraith doesn't require air, food, drink, or sleep.
 - "DSotDQ"
 - "KftGV"
 - "PSI"
+- "PaBTSO"
+- "AATM"
+- "SatO"
 "image": "5. Mechanics/Bestiary/Undead/token/wraith.png"
 ```
 ^statblock

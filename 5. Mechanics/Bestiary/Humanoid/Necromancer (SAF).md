@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/unknown
 - monster/size/medium
 - monster/type/humanoid/any-race
+statblock: inline
 aliases: ["Necromancer"]
 ---
-# Necromancer
+# [Necromancer](compendium\bestiary\humanoid/necromancer-saf.md)
 *Source: Strongholds and Followers p. 81*  
 
 ```statblock
-"name": "Necromancer"
+"name": "Necromancer (SaF)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "any race"
@@ -25,15 +28,15 @@ aliases: ["Necromancer"]
 - !!int "14"
 "speed": "30 ft. (dependant on ancestry)"
 "saves":
-  "Charisma": "+3"
-  "Dexterity": "+3"
-  "Wisdom": "+6"
-  "Intelligence": "+6"
-  "Strength": "+3"
-  "Constitution": "+3"
+  "Charisma": !!int "3"
+  "Dexterity": !!int "3"
+  "Wisdom": !!int "6"
+  "Intelligence": !!int "6"
+  "Strength": !!int "3"
+  "Constitution": !!int "3"
 "skillsaves":
-  "Intimidation": "+5"
-  "Religion": "+5"
+  "Intimidation": !!int "5"
+  "Religion": !!int "5"
 "senses": "appropriate to ancestry, passive Perception 12"
 "languages": "appropriate to ancestry (usually Common)"
 "cr": "Unknown"

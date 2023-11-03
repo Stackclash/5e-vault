@@ -111,6 +111,7 @@ Marids are champion tale-tellers, whose favorite legends emphasize the prowess o
 - "TCE"
 - "JttRC"
 - "DSotDQ"
+- "SatO"
 "image": "5. Mechanics/Bestiary/Elemental/token/marid.png"
 ```
 ^statblock

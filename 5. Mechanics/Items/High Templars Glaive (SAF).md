@@ -9,15 +9,15 @@ tags:
 - item/property/two-handed
 - item/rarity/very-rare
 - item/weapon/simple/melee
-aliases: ["High Templar's Glaive"]
+aliases: 
+- "High Templar's Glaive"
 ---
 # High Templar's Glaive
 *Melee Weapon, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/high-templar-glaive.jpg#right)  
 
 - **Damage**: 1d10 S
-- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]], Requires Attunement, [[/5. Mechanics/Rules/Item Properties.md#Two-handed\|Two-handed]]
-- **Cost**: ⏤
+- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]], [[/5. Mechanics/Rules/Item Properties.md#Two-handed\|Two-handed]]
 - **Weight**: 6.0 lbs.
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon. Each time you attack, you choose whether it deals fire, cold, lightning, or slashing damage.

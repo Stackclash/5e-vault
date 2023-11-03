@@ -28,7 +28,7 @@ Any event that causes the infected creature great stress—including entering co
 
 On a failed save, the creature takes `dice: 1d10|avg` (`1d10`) psychic damage and becomes [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]] with mad laughter for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the mad laughter and the [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]] condition on a success. Any humanoid creature that starts its turn within 10 feet of an infected creature in the throes of mad laughter must succeed on a DC 10 Constitution saving throw or also become infected with the disease. Once a creature succeeds on this save, it is immune to the mad laughter of that particular infected creature for 24 hours.
 
-At the end of each long rest, an infected creature can make a DC 13 Constitution saving throw. On a successful save, the DC for this save and for the save to avoid an attack of mad laughter drops by `dice: 1d6|avg` (`1d6`). When the saving throw DC drops to 0, the creature recovers from the disease. A creature that fails three of these saving throws gains a randomly determined form of indefinite madness.
+At the end of each long rest, an infected creature can make a DC 13 Constitution saving throw. On a successful save, the DC for this save and for the save to avoid an attack of mad laughter drops by `dice: 1d6|avg` (`1d6`). When the saving throw DC drops to 0, the creature recovers from the disease. A creature that fails three of these saving throws gains a randomly determined form of [[/5. Mechanics/Rules/Variant Rules/Madness.md\|Madness]].
 
 ## Filth Fever
 _Source: Player's Handbook p. 227_

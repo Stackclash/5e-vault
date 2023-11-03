@@ -12,7 +12,7 @@ aliases:
 ---
 # Wand of Lightning Bolts
 *Wand, major, rare (requires attunement by a spellcaster)*  
-![[5. Mechanics/Items/img/wand-of-lightning-bolts.jpg#right]]  
+![[5. Mechanics/Items/img/Wand Of Lightning Bolts.webp#right]]  
 
 - **Weight**: 1.0 lbs.
 

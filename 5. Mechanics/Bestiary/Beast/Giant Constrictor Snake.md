@@ -56,6 +56,7 @@ aliases: ["Giant Constrictor Snake"]
 - "SLW"
 - "EGW"
 - "WBtW"
+- "PaBTSO"
 "image": "compendium/bestiary/beast/token/giant-constrictor-snake.png"
 ```
 ^statblock

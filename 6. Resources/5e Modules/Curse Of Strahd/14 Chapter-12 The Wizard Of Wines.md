@@ -16,7 +16,7 @@ The Wizard of Wines was founded by a mage whose name is buried in the annals of 
 
 Strahd bequeathed the winery and vineyard to the noble Krezkov family as a reward for the family's loyalty. Later, an arranged marriage between the Krezkovs and the Martikov family led to the land being taken over by a Martikov descendant. The winery and vineyard have been tended by the Martikovs ever since. At some point, the Martikov family became infected with widespread lycanthropy. The current patriarch, [[5. Mechanics/Bestiary/Npc/Davian Martikov (COS).md\|Davian Martikov]], is a wereraven, as are his children and grandchildren.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/110-cos12-01.png#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/110 Cos12-01.webp#center]]
 
 The wereravens provide the wine to Barovian taverns for free, knowing the good it brings to the Barovian people.
 
@@ -197,7 +197,7 @@ Unless they have been drawn outside, twenty-four [[5. Mechanics/Bestiary/Plant/T
 
 The four containers are fermentation vats, where grape juice is mixed with other ingredients and turned into wine. The easternmost cask has split in the back, creating a 6-inch-wide, 6-foot-high opening through which the twig blights can pass. All twenty-four twig blights are hidden in the cask, ready to emerge and attack when commanded to do so. While inside the cask, they have total cover against attacks that originate outside the cask.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/113-cos12-03.png#center\|Twig Blight]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/113 Cos12-03.webp#center\|Twig Blight]]
 
 The druid is poisoning the fermentation vats. The three westernmost vats contain poisoned wine, enough to fill a total of twenty barrels. Drinking the poisoned wine has the same effect as drinking a [[5. Mechanics/Items/Potion Of Poison.md\|potion of poison]]. Pouring antitoxin into a vat neutralizes the poison, but it also spoils the taste of the wine. Casting a [[5. Mechanics/Spells/Purify Food And Drink.md\|purify food and drink]] spell on a vat neutralizes the poison without spoiling the wine.
 
@@ -306,7 +306,7 @@ This bedroom normally belongs to [[5. Mechanics/Bestiary/Npc/Davian Martikov (CO
 > This room contains a four-poster bed, its headboard carved in the likeness of a giant raven. A soft black rug covers the floor between the bed and the door. In the corners of the south wall stand two slender wardrobes with a tapestry of a church hanging on the wall between them. Beneath the tapestry sits a handsomely carved rocking cradle. To the north, under a window, is a plain desk and chair. Other furnishings include a wooden chest and a freestanding mirror in a wooden frame.
 ^5bf
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/114-cos12-04.png#center\|Davian Martikov]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/114 Cos12-04.webp#center\|Davian Martikov]]
 
 One of the wardrobes contains Stefania's clothes, and the other contains Dag's. The desk holds manifests recording wine shipments for the past century. A cursory examination of recent records reveals that almost all shipments are made to the following locations:
 
@@ -393,4 +393,4 @@ The Martikovs narrowly escape the carnage and flee to the Blue Water Inn in Vall
 
 Three days after Wintersplinter's attack, [[5. Mechanics/Bestiary/Npc/Baba Lysaga (COS).md\|Baba Lysaga]] (see chapter 10, area U3) dispatches the seven [[5. Mechanics/Bestiary/Construct/Scarecrow.md\|scarecrows]] from Berez and orders them to take up positions in the vineyard, to discourage the wereravens from returning. These scarecrows attack anyone who crosses the vineyard or approaches the ruined winery.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/115-cos12-05.png#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/115 Cos12-05.webp#center]]

@@ -6,15 +6,14 @@ tags:
 - item/attunement/required
 - item/rarity/very-rare
 - item/weapon/simple/melee
-aliases: ["Glory"]
+aliases: 
+- "Glory"
 ---
 # Glory
 *Melee Weapon, very rare (requires attunement by a good creature)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/glory.jpg#right)  
 
 - **Damage**: 1d6 B
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
 - **Weight**: 4.0 lbs.
 
 If you are a neutral character, this steel mace functions as a normal weapon with no bonus or special properties. If you are evil, touching this weapon deals `dice: 2d8|avg` (`2d8`) radiant damage to you. If you are a good character, you can use Glory as a magic weapon with the following properties.

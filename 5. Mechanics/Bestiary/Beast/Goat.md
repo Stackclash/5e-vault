@@ -60,6 +60,7 @@ aliases: ["Goat"]
 - "BGDIA"
 - "IDRotF"
 - "WBtW"
+- "PaBTSO"
 "image": "5. Mechanics/Bestiary/Beast/token/goat.png"
 ```
 ^statblock

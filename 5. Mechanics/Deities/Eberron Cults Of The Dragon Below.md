@@ -9,7 +9,7 @@ aliases: ["Cults of the Dragon Below"]
 ---
 # Cults of the Dragon Below
 *Source: Eberron: Rising from the Last War p. 141* 
-![[5. Mechanics/Deities/img/erlw-cults-of-khyber.png#symbol]]
+![[5. Mechanics/Deities/img/Erlw Cults Of Khyber.webp#symbol]]
 
 - **Alignment**: Unaligned
 - **Category**: Other Faiths of Eberron

@@ -11,6 +11,7 @@ aliases: ["Find Greater Steed"]
 # Find Greater Steed
 %%-- Embedded content starts on the next line. --%%
 *4th-level, Conjuration*  
+![[5. Mechanics/Spells/img/Find Greater Steed.webp#right]]  
 
 - **Casting time:** 10 minute
 - **Range:** 30 feet

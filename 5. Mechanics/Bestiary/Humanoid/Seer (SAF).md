@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/unknown
 - monster/size/medium
 - monster/type/humanoid/any-race
+statblock: inline
 aliases: ["Seer"]
 ---
-# Seer
+# [Seer](compendium\bestiary\humanoid/seer-saf.md)
 *Source: Strongholds and Followers p. 81*  
 
 ```statblock
-"name": "Seer"
+"name": "Seer (SaF)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "any race"
@@ -25,15 +28,15 @@ aliases: ["Seer"]
 - !!int "14"
 "speed": "30 ft. (dependant on ancestry)"
 "saves":
-  "Charisma": "+3"
-  "Dexterity": "+3"
-  "Wisdom": "+6"
-  "Intelligence": "+6"
-  "Strength": "+3"
-  "Constitution": "+3"
+  "Charisma": !!int "3"
+  "Dexterity": !!int "3"
+  "Wisdom": !!int "6"
+  "Intelligence": !!int "6"
+  "Strength": !!int "3"
+  "Constitution": !!int "3"
 "skillsaves":
-  "Investigation": "+5"
-  "Insight": "+5"
+  "Investigation": !!int "5"
+  "Insight": !!int "5"
 "senses": "appropriate to ancestry, passive Perception 12"
 "languages": "appropriate to ancestry (usually Common)"
 "cr": "Unknown"

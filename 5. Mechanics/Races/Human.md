@@ -8,6 +8,7 @@ aliases: ["Human"]
 ---
 # Human
 *Source: Player's Handbook p. 29. Available in the SRD and the Basic Rules.*  
+![[5. Mechanics/Races/img/Human.webp#right]]  
 
 - **Ability Scores**: None
 - **Type**: race

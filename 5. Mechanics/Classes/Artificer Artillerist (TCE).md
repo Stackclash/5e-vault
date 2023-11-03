@@ -52,9 +52,9 @@ When you create the cannon, you determine its appearance and whether it has legs
 
 | Cannon | Activation |
 |--------|------------|
-| Flamethrower | The cannon exhales fire in an adjacent 15-foot cone that you designate. Each creature in that area must make a Dexterity saving throw against your spell save DC, taking `dice: 2d8\|avg` (`2d8`) fire damage on a failed save or half as much damage on a successful one. The fire ignites any flammable objects in the area that aren't being worn or carried. |
-| Force Ballista | Make a ranged spell attack, originating from the cannon, at one creature or object within 120 feet of it. On a hit, the target takes `dice: 2d8\|avg` (`2d8`) force damage, and if the target is a creature, it is pushed up to 5 feet away from the cannon. |
-| Protector | The cannon emits a burst of positive energy that grants itself and each creature of your choice within 10 feet of it a number of temporary hit points equal to `dice: 1d8\|avg` (`1d8`) + your Intelligence modifier (minimum of +1). |
+| [[5. Mechanics/Objects/Eldritch Cannon Flamethrower (TCE).md\|Flamethrower]] | The cannon exhales fire in an adjacent 15-foot cone that you designate. Each creature in that area must make a Dexterity saving throw against your spell save DC, taking `dice: 2d8\|avg` (`2d8`) fire damage on a failed save or half as much damage on a successful one. The fire ignites any flammable objects in the area that aren't being worn or carried. |
+| [[5. Mechanics/Objects/Eldritch Cannon Force Ballista (TCE).md\|Force Ballista]] | Make a ranged spell attack, originating from the cannon, at one creature or object within 120 feet of it. On a hit, the target takes `dice: 2d8\|avg` (`2d8`) force damage, and if the target is a creature, it is pushed up to 5 feet away from the cannon. |
+| [[5. Mechanics/Objects/Eldritch Cannon Protector (TCE).md\|Protector]] | The cannon emits a burst of positive energy that grants itself and each creature of your choice within 10 feet of it a number of temporary hit points equal to `dice: 1d8\|avg` (`1d8`) + your Intelligence modifier (minimum of +1). |
 ^eldritch-cannons
 
 ### Arcane Firearm (Level 5)

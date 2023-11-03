@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/9
 - monster/size/medium
 - monster/type/fey
+statblock: inline
 aliases: ["Ash Marshal"]
 ---
-# Ash Marshal
+# [Ash Marshal](compendium\bestiary\fey/ash-marshal-saf.md)
 *Source: Strongholds and Followers p. 183*  
 
 Tasked with defending and escorting guests to Arcadia, the Ash Marshal is also the only member of the Court to be regularly sent seeking across the planes, dispatched by Val to bring those who would harm his creation ^[The elves.] to justice. He is Val's timescape ^["Timescape" is the sages' term for the multiverse, or space-time.] hunter and as such carries much deep lore about the multiverse.
@@ -20,7 +23,7 @@ The Marshal assumes that if Val has sent him to aid the concordant, then things 
 His spells are almost all offensive, but he is always ready with counterspell to thwart enemy spellcasters as well as banishment in case the enemy has summoned any members of the Court of All Flesh.
 
 ```statblock
-"name": "Ash Marshal"
+"name": "Ash Marshal (SaF)"
 "size": "Medium"
 "type": "fey"
 "alignment": "Chaotic"
@@ -36,17 +39,17 @@ His spells are almost all offensive, but he is always ready with counterspell to
 - !!int "16"
 "speed": "30 ft."
 "saves":
-  "Charisma": "+7"
-  "Wisdom": "+7"
-  "Strength": "+9"
-  "Constitution": "+9"
+  "Charisma": !!int "7"
+  "Wisdom": !!int "7"
+  "Strength": !!int "9"
+  "Constitution": !!int "9"
 "skillsaves":
-  "Nature": "+6"
-  "Intimidation": "+7"
-  "Athletics": "+9"
-  "Religion": "+6"
-  "Insight": "+7"
-  "Perception": "+8"
+  "Nature": !!int "6"
+  "Intimidation": !!int "7"
+  "Athletics": !!int "9"
+  "Religion": !!int "6"
+  "Insight": !!int "7"
+  "Perception": !!int "8"
 "damage_resistances": "fire, lightning"
 "senses": "passive Perception 21"
 "languages": "Common, Elvish, Sylvan"
@@ -62,15 +65,15 @@ His spells are almost all offensive, but he is always ready with counterspell to
     \ has the following spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]],\
     \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]],\
     \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n1st level (4\
-    \ 1st-level slots): [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Identify.md|identify]],\
-    \ [[5. Mechanics/Spells/Magic Missile.md|magic missile]]\n\n2nd level (3 2nd-level\
-    \ slots): [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[5. Mechanics/Spells/Mirror Image.md|mirror image]],\
+    \ slots): [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Identify.md|identify]],\
+    \ [[5. Mechanics/Spells/Magic Missile.md|magic missile]]\n\n2nd level (3 slots):\
+    \ [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[5. Mechanics/Spells/Mirror Image.md|mirror image]],\
     \ [[5. Mechanics/Spells/Gust Of Wind.md|gust of wind]], [[5. Mechanics/Spells/Misty Step.md|misty step]]\n\
-    \n3rd level (3 3rd-level slots): [[5. Mechanics/Spells/Counterspell.md|counterspell]],\
+    \n3rd level (3 slots): [[5. Mechanics/Spells/Counterspell.md|counterspell]],\
     \ [[5. Mechanics/Spells/Fly.md|fly]], [[5. Mechanics/Spells/Fireball.md|fireball]]\n\
-    \n4th level (3 4th-level slots): [[5. Mechanics/Spells/Banishment.md|banishment]],\
-    \ [[5. Mechanics/Spells/Dimension Door.md|dimension door]]\n\n5th level (1 5th-level\
-    \ slots): [[5. Mechanics/Spells/Cone Of Cold.md|cone of cold]], [[5. Mechanics/Spells/Hold Monster.md|hold monster]]"
+    \n4th level (3 slots): [[5. Mechanics/Spells/Banishment.md|banishment]], [dimension\
+    \ door](compendium/spells/dimension-door.md)\n\n5th level (1 slots): [cone\
+    \ of cold](compendium/spells/cone-of-cold.md), [[5. Mechanics/Spells/Hold Monster.md|hold monster]]"
   "name": "spells"
 - "desc": "Magic cannot put the marshal to sleep."
   "name": "Fey Ancestry"

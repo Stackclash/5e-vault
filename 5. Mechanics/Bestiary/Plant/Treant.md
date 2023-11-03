@@ -92,6 +92,7 @@ Woodcutters who avoid culling healthy living trees and hunters who take only wha
 - "LoX"
 - "DSotDQ"
 - "PSI"
+- "SatO"
 "image": "5. Mechanics/Bestiary/Plant/token/treant.png"
 ```
 ^statblock

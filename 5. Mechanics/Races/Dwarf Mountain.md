@@ -8,6 +8,7 @@ aliases: ["Dwarf (Mountain)"]
 ---
 # Dwarf (Mountain)
 *Source: Player's Handbook p. 20. Available in the Basic Rules.*  
+![[5. Mechanics/Races/img/Dwarf.webp#right]]  
 
 - **Ability Scores**: Strength +2
 - **Type**: subrace

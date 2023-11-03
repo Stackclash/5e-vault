@@ -92,6 +92,8 @@ When a spectator has fulfilled its service, it is free to do as it pleases. Many
 - "IDRotF"
 - "SjA"
 - "KftGV"
+- "PaBTSO"
+- "ToFW"
 "image": "5. Mechanics/Bestiary/Aberration/token/spectator.png"
 ```
 ^statblock

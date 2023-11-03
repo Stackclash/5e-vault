@@ -12,7 +12,7 @@ aliases:
 ---
 # Instrument of the Bards, Mac-Fuirmidh Cittern
 *Instrument, major, uncommon (requires attunement by a bard)*  
-![[5. Mechanics/Items/img/instrument-of-the-bards-mac-fuirmidh-cittern.jpg#right]]  
+![[5. Mechanics/Items/img/Instrument Of The Bards Mac Fuirmidh Cittern.webp#right]]  
 
 - **Weight**: 2.0 lbs.
 

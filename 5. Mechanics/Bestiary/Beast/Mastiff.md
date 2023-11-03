@@ -58,6 +58,7 @@ Mastiffs are impressive hounds prized by humanoids for their loyalty and keen se
 - "EGW"
 - "DSotDQ"
 - "KftGV"
+- "ToFW"
 "image": "5. Mechanics/Bestiary/Beast/token/mastiff.png"
 ```
 ^statblock

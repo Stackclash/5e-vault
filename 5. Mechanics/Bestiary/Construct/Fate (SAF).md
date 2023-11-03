@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/8
 - monster/size/medium
 - monster/type/construct
+statblock: inline
 aliases: ["Fate"]
 ---
-# Fate
+# [Fate](compendium\bestiary\construct/fate-saf.md)
 *Source: Strongholds and Followers p. 230*  
 
 The Law of Fate forces events to have predetermined outcomes whether you like it or not. There is no chance when Fate is present. All things proceed as the universe intends, and neither good nor bad luck is possible.
@@ -24,7 +27,7 @@ The Destiny Light makes an enemy always do average damage if they fail their sav
 Because Fate does not use dice (see The Law of Fate, below) there may be enemies Fate simply cannot hit. Fate is not omniscient though and won't know that until it tests an enemy. Once it fails to hit, it won't attack the same enemy again.
 
 ```statblock
-"name": "Fate"
+"name": "Fate (SaF)"
 "size": "Medium"
 "type": "construct"
 "alignment": "Lawful"
@@ -39,7 +42,9 @@ Because Fate does not use dice (see The Law of Fate, below) there may be enemies
 - !!int "14"
 - !!int "10"
 "speed": "40 ft., fly 30 ft. (hover)"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "truesight 60 ft., passive Perception 15"
 "languages": "all those of the creature who summoned it"
 "cr": "8"

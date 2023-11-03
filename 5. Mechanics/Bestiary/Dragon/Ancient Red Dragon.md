@@ -164,6 +164,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "SKT"
 - "MOT"
 - "TCE"
+- "SatO"
 "image": "compendium/bestiary/dragon/token/ancient-red-dragon.png"
 ```
 ^statblock

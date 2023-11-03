@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/7
 - monster/size/large
 - monster/type/elemental
+statblock: inline
 aliases: ["Pillar of Water"]
 ---
-# Pillar of Water
+# [Pillar of Water](compendium\bestiary\elemental/pillar-of-water-saf.md)
 *Source: Strongholds and Followers p. 189*  
 
 If the Sources are watchmen of Alloy, the Pillars are the jailors. They spring from the ground, imprisoning those caught violating the law of the Lady. Like the Sources, they have an attitude, but not much actual personality.
@@ -24,7 +27,7 @@ During the Battle at the Doors of Morning, when the Lady of Brass lost her great
 The Pillar can imprison up to four creatures, but it doesn't have to. If there's one enemy causing a lot of problems, especially one with low Dexterity, drop the Pillar on them. Remember to use Reform to get the Pillar where it needs to be. The Pillar can also proactively defend allies by using Constant Flood to prevent enemies from getting into melee.
 
 ```statblock
-"name": "Pillar of Water"
+"name": "Pillar of Water (SaF)"
 "size": "Large"
 "type": "elemental"
 "alignment": "Neutral"
@@ -40,11 +43,13 @@ The Pillar can imprison up to four creatures, but it doesn't have to. If there's
 - !!int "11"
 "speed": "30 ft."
 "saves":
-  "Strength": "+7"
-  "Constitution": "+9"
+  "Strength": !!int "7"
+  "Constitution": !!int "9"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical weapons"
 "damage_immunities": "poison"
-"condition_immunities": "exhaustion, paralyzed, petrified, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "Aquan"
 "cr": "7"

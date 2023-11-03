@@ -12,7 +12,7 @@ aliases:
 ---
 # Rod of Absorption
 *Rod, major, very rare (requires attunement)*  
-![[5. Mechanics/Items/img/rod-of-absorption.jpg#right]]  
+![[5. Mechanics/Items/img/Rod Of Absorption.webp#right]]  
 
 - **Weight**: 2.0 lbs.
 

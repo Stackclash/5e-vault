@@ -79,6 +79,7 @@ A wyvern can be tamed for use as a mount, but doing so presents a difficult and 
 - "BGDIA"
 - "CM"
 - "JttRC"
+- "ToFW"
 "image": "5. Mechanics/Bestiary/Dragon/token/wyvern.png"
 ```
 ^statblock

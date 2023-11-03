@@ -11,7 +11,7 @@ aliases:
 ---
 # Mace of Smiting
 *Melee Weapon, major, rare*  
-![[5. Mechanics/Items/img/mace-of-smiting.jpg#right]]  
+![[5. Mechanics/Items/img/Mace Of Smiting.webp#right]]  
 
 - **Damage**: 1d6 B
 - **Weight**: 4.0 lbs.

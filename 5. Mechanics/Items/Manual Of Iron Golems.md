@@ -11,7 +11,7 @@ aliases:
 ---
 # Manual of Iron Golems
 *Wondrous Item, major, very rare*  
-![[5. Mechanics/Items/img/manual-of-iron-golems.jpg#right]]  
+![[5. Mechanics/Items/img/Manual Of Iron Golems.webp#right]]  
 
 - **Weight**: 5.0 lbs.
 

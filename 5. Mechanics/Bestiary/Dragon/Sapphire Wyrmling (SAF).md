@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/4
 - monster/size/medium
 - monster/type/dragon
+statblock: inline
 aliases: ["Sapphire Wyrmling"]
 ---
-# Sapphire Wyrmling
+# [Sapphire Wyrmling](compendium\bestiary\dragon/sapphire-wyrmling-saf.md)
 *Source: Strongholds and Followers p. 215*  
 
 Eldest, first, the sapphire dragons inspire awe in any who see them. They guard the knowledge of past and future and the power that lets one shift between them. They approve of the dwarves, who imposed the rigid rules of causality on the world, and consider the remnant domains of the elves, the wodes, as a danger. Not a threat per se, because they know it is in the elves' nature to ignore past and future, but when mortals exploit this or discover the means to move through time, or summon creatures from the past and future, then the sapphire dragons get riled up.
@@ -16,7 +19,7 @@ Of course, because they guard this knowledge, they are also experts on it and th
 Being oldest, they are also the most reserved, taciturn. Even the young sapphires are aware of their species' place in history and expect to be treated with respect. They talk like old university professors who know they have tenure and expect everyone to hang on their every word.
 
 ```statblock
-"name": "Sapphire Wyrmling"
+"name": "Sapphire Wyrmling (SaF)"
 "size": "Medium"
 "type": "dragon"
 "alignment": "Neutral"
@@ -32,13 +35,13 @@ Being oldest, they are also the most reserved, taciturn. Even the young sapphire
 - !!int "15"
 "speed": "30 ft., fly 60 ft. (hover)"
 "saves":
-  "Charisma": "+4"
-  "Dexterity": "+4"
-  "Wisdom": "+4"
-  "Intelligence": "+4"
+  "Charisma": !!int "4"
+  "Dexterity": !!int "4"
+  "Wisdom": !!int "4"
+  "Intelligence": !!int "4"
 "skillsaves":
-  "Insight": "+4"
-  "Perception": "+4"
+  "Insight": !!int "4"
+  "Perception": !!int "4"
 "damage_vulnerabilities": "psychic"
 "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 16"
 "languages": "Common, Draconic"

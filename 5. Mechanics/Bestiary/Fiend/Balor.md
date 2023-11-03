@@ -253,6 +253,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - "EGW"
 - "TCE"
 - "CRCotN"
+- "ToFW"
 "image": "5. Mechanics/Bestiary/Fiend/token/balor.png"
 ```
 ^statblock

@@ -12,7 +12,7 @@ aliases:
 ---
 # Spellguard Shield
 *Shield, major, very rare (requires attunement)*  
-![[5. Mechanics/Items/img/spellguard-shield.jpg#right]]  
+![[5. Mechanics/Items/img/Spellguard Shield.webp#right]]  
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.

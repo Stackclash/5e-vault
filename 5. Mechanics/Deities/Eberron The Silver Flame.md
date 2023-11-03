@@ -11,7 +11,7 @@ aliases: ["The Silver Flame"]
 ---
 # The Silver Flame
 *Source: Eberron: Rising from the Last War p. 141* 
-![[5. Mechanics/Deities/img/erlw-the-silver-flame.png#symbol]]
+![[5. Mechanics/Deities/img/Erlw The Silver Flame.webp#symbol]]
 
 - **Alignment**: Unaligned
 - **Category**: Other Faiths of Eberron

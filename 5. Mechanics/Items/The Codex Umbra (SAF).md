@@ -6,15 +6,13 @@ tags:
 - item/attunement/required
 - item/rarity/artifact
 - item/wondrous
-aliases: ["The Codex Umbra"]
+aliases: 
+- "The Codex Umbra"
 ---
 # The Codex Umbra
 *Wondrous Item, artifact (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/codex-umbra.jpg#right)  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 Kālidāsa Dhar, writing in the codex umbra in the second century of Wonder, gives us our only glimpse into scholarly thought regarding the essence of shadow magic before the Ganarajyan Empire. It is surprisingly similar to our own modern notions.
 

@@ -12,7 +12,7 @@ aliases:
 ---
 # Periapt of Wound Closure
 *Wondrous Item, major, uncommon (requires attunement)*  
-![[5. Mechanics/Items/img/periapt-of-wound-closure.jpg#right]]  
+![[5. Mechanics/Items/img/Periapt Of Wound Closure.webp#right]]  
 
 - **Weight**: 1.0 lbs.
 

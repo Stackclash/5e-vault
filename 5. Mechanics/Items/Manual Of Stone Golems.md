@@ -11,7 +11,7 @@ aliases:
 ---
 # Manual of Stone Golems
 *Wondrous Item, major, very rare*  
-![[5. Mechanics/Items/img/manual-of-stone-golems.png#right]]  
+![[5. Mechanics/Items/img/Manual Of Stone Golems.webp#right]]  
 
 - **Weight**: 5.0 lbs.
 

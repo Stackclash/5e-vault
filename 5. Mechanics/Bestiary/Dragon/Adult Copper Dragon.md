@@ -158,6 +158,8 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "MM"
 - "GoS"
 - "CM"
+- "SatO"
+- "ToFW"
 "image": "compendium/bestiary/dragon/token/adult-copper-dragon.png"
 ```
 ^statblock

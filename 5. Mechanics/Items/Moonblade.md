@@ -13,7 +13,7 @@ aliases:
 ---
 # Moonblade
 *Melee Weapon, legendary (requires attunement by an elf or half-elf of neutral good alignment)*  
-![[5. Mechanics/Items/img/moonblade.jpg#right]]  
+![[5. Mechanics/Items/img/Moonblade.webp#right]]  
 
 - **Damage**:
   - One-handed: 1d8 S

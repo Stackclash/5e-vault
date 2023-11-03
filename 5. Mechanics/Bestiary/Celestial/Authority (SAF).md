@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/6
 - monster/size/medium
 - monster/type/celestial
+statblock: inline
 aliases: ["Authority"]
 ---
-# Authority
+# [Authority](compendium\bestiary\celestial/authority-saf.md)
 *Source: Strongholds and Followers p. 157*  
 
 Pretty much what you'd expect from an angelic being called an Authority. It is the knight of the Celestial Court. What paladins would like to be when they grow up. The Authority arrives on our plane in heavy armor, armed with the Brightsword and looking for evil to smash. It is responsible for maintaining celestial order, and while it's still absolutely committed to smashing evil, it tends to smash chaotic evil a little more than other evils.
@@ -22,7 +25,7 @@ If Dar's record describes the Authority, then there is reason to believe the Aut
 Well, it finds the biggest, most evil thing and bashes the hell out of it (perhaps literally) with the Brightsword. This thing does `dice: 3d6 + 4d8 + 4|avg` (`3d6 + 4d8 + 4`) damage to evil creatures, which is like 32 damage on average, and it can do this three times per turn. And it has wings and a fly speed of 40 feet, so it can get where it needs to, to do what it must.
 
 ```statblock
-"name": "Authority"
+"name": "Authority (SaF)"
 "size": "Medium"
 "type": "celestial"
 "alignment": "Any Good alignment"
@@ -38,11 +41,12 @@ Well, it finds the biggest, most evil thing and bashes the hell out of it (perha
 - !!int "16"
 "speed": "40 ft., fly 40 ft."
 "saves":
-  "Dexterity": "+5"
-  "Constitution": "+6"
+  "Dexterity": !!int "5"
+  "Constitution": !!int "6"
 "damage_resistances": "radiant; bludgeoning, piercing, slashing from nonmagical weapons"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "charmed, exhaustion, frightened, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "truesight, passive Perception 19"
 "languages": "all, telepathy 60 ft."
 "cr": "6"

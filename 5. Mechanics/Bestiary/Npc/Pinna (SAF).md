@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/1
 - monster/size/medium
 - monster/type/humanoid/human
+statblock: inline
 aliases: ["Pinna"]
 ---
-# Pinna
+# [Pinna](compendium\bestiary\npc/pinna-saf.md)
 *Source: Strongholds and Followers p. 145*  
 
 Pinna is a young woman of seventeen who lives in the village of Gravesford, at the edge of the Forest Rend. She is easily recognizable by her tall, pointed straw hat, curly red hair, and crystal necklace—her arcane focus. Pinna is a country hedge mage, well respected by the people of Gravesford.
@@ -14,7 +17,7 @@ Pinna is a young woman of seventeen who lives in the village of Gravesford, at t
 Pinna is described in more detail in Major NPCs (page 101).
 
 ```statblock
-"name": "Pinna"
+"name": "Pinna (SaF)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "human"
@@ -31,10 +34,10 @@ Pinna is described in more detail in Major NPCs (page 101).
 - !!int "15"
 "speed": "30 ft."
 "saves":
-  "Wisdom": "+2"
-  "Intelligence": "+6"
+  "Wisdom": !!int "2"
+  "Intelligence": !!int "6"
 "skillsaves":
-  "Arcana": "+6"
+  "Arcana": !!int "6"
 "senses": "passive Perception 11"
 "languages": "Common"
 "cr": "1"
@@ -43,10 +46,10 @@ Pinna is described in more detail in Major NPCs (page 101).
     \ (spell save DC 13, dice: d20+5 (+5 to hit) with spell attacks). Pinna has\
     \ the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]],\
     \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]],\
-    \ [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]]\n\n1st level (4 1st-level slots):\
-    \ [[5. Mechanics/Spells/Color Spray.md|color spray]], [[5. Mechanics/Spells/Silent Image.md|silent image]],\
+    \ [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]]\n\n1st level (4 slots): [color\
+    \ spray](compendium/spells/color-spray.md), [[5. Mechanics/Spells/Silent Image.md|silent image]],\
     \ [[5. Mechanics/Spells/Identify.md|identify]], [[5. Mechanics/Spells/Magic Missile.md|magic missile]]\n\
-    \n2nd level (2 2nd-level slots): [[5. Mechanics/Spells/Blur.md|blur]], [[5. Mechanics/Spells/Web.md|web]]"
+    \n2nd level (2 slots): [[5. Mechanics/Spells/Blur.md|blur]], [[5. Mechanics/Spells/Web.md|web]]"
   "name": "spells"
 "actions":
 - "desc": "Melee or Ranged Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft.\

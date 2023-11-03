@@ -106,6 +106,7 @@ Dryads can speak with plants and animals. They can teleport from one tree to ano
 - "JttRC"
 - "KftGV"
 - "PSI"
+- "ToFW"
 "image": "5. Mechanics/Bestiary/Fey/token/dryad.png"
 ```
 ^statblock

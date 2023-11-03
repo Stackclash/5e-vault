@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/8
 - monster/size/large
 - monster/type/dragon
+statblock: inline
 aliases: ["Oleander Dragon"]
 ---
-# Oleander Dragon
+# [Oleander Dragon](compendium\bestiary\dragon/oleander-dragon-saf.md)
 *Source: Strongholds and Followers p. 182*  
 
 Nerium the Petal Dragon, known also as the Oleander Dragon, is one of the prize pets of Val and normally slumbers decoratively in one of the courtyards. Its disguise is so perfect, newcomers to the Court often fail to recognize it's not actually a flowering topiary shrub in the shape of a sleeping dragon.
@@ -22,7 +25,7 @@ Unlike any other dragon...and most creatures, the Oleander Dragon has no physica
 Lacking physical attacks, Nerium relies on Implant Nightmare to overwhelm her enemies with fear. She opens combat with the spores from her Pollen Breath, then sings the song of cestilani, which can end a battle all by itself.
 
 ```statblock
-"name": "Oleander Dragon"
+"name": "Oleander Dragon (SaF)"
 "size": "Large"
 "type": "dragon"
 "alignment": "Chaotic"
@@ -38,16 +41,16 @@ Lacking physical attacks, Nerium relies on Implant Nightmare to overwhelm her en
 - !!int "16"
 "speed": "40 ft., fly 40 ft."
 "saves":
-  "Charisma": "+6"
-  "Dexterity": "+6"
-  "Wisdom": "+8"
-  "Intelligence": "+6"
+  "Charisma": !!int "6"
+  "Dexterity": !!int "6"
+  "Wisdom": !!int "8"
+  "Intelligence": !!int "6"
 "skillsaves":
-  "Nature": "+6"
-  "Stealth": "+6"
-  "Insight": "+8"
-  "Perception": "+8"
-  "Arcana": "+6"
+  "Nature": !!int "6"
+  "Stealth": !!int "6"
+  "Insight": !!int "8"
+  "Perception": !!int "8"
+  "Arcana": !!int "6"
 "damage_resistances": "poison, psychic"
 "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 23"
 "languages": "Draconic, Elvish, Sylvan"

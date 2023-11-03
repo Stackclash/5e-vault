@@ -11,7 +11,7 @@ aliases:
 ---
 # Iron Flask
 *Wondrous Item, major, legendary*  
-![[5. Mechanics/Items/img/iron-flask.jpg#right]]  
+![[5. Mechanics/Items/img/Iron Flask.webp#right]]  
 
 - **Weight**: 1.0 lbs.
 

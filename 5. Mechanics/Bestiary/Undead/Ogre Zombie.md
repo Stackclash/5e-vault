@@ -83,6 +83,7 @@ A zombie doesn't require air, food, drink, or sleep.
 - "SDW"
 - "IDRotF"
 - "LoX"
+- "PaBTSO"
 "image": "compendium/bestiary/undead/token/ogre-zombie.png"
 ```
 ^statblock

@@ -19,6 +19,7 @@ aliases: ["Burning Hands"]
 # Burning Hands
 %%-- Embedded content starts on the next line. --%%
 *1st-level, Evocation*  
+![[5. Mechanics/Spells/img/Burning Hands.webp#right]]  
 
 - **Casting time:** 1 action
 - **Range:** Self (15-feet cone)

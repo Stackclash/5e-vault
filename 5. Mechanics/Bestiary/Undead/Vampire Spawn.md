@@ -133,6 +133,7 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
 - "SLW"
 - "EGW"
 - "TCE"
+- "AATM"
 "image": "compendium/bestiary/undead/token/vampire-spawn.png"
 ```
 ^statblock

@@ -150,6 +150,8 @@ A lich encountered in its lair has a challenge rating of 22 (41,000 XP).
 - "IDRotF"
 - "TCE"
 - "PSI"
+- "SatO"
+- "ToFW"
 "image": "5. Mechanics/Bestiary/Undead/token/lich.png"
 ```
 ^statblock

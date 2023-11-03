@@ -72,6 +72,7 @@ aliases: ["Swarm of Bats"]
 - "EGW"
 - "CM"
 - "WBtW"
+- "AATM"
 "image": "compendium/bestiary/beast/token/swarm-of-bats.png"
 ```
 ^statblock

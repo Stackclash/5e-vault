@@ -84,6 +84,8 @@ Many survivors of an umber hulk encounter recollect little about the attack, bec
 - "IMR"
 - "IDRotF"
 - "LoX"
+- "PaBTSO"
+- "SatO"
 "image": "compendium/bestiary/monstrosity/token/umber-hulk.png"
 ```
 ^statblock

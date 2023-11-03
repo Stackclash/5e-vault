@@ -75,6 +75,7 @@ Generations of hunting venomous subterranean creatures and perpetual exposure to
 - "WDMM"
 - "IDRotF"
 - "LoX"
+- "PaBTSO"
 "image": "5. Mechanics/Bestiary/Humanoid/token/quaggoth.png"
 ```
 ^statblock

@@ -99,6 +99,7 @@ The sahuagin put the malenti to good use as spies and assassins in aquatic elf c
 - "WDMM"
 - "GoS"
 - "JttRC"
+- "SatO"
 "image": "compendium/bestiary/humanoid/token/sahuagin-baron.png"
 ```
 ^statblock

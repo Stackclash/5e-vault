@@ -11,6 +11,7 @@ aliases: ["Mighty Fortress"]
 # Mighty Fortress
 %%-- Embedded content starts on the next line. --%%
 *8th-level, Conjuration*  
+![[5. Mechanics/Spells/img/Mighty Fortress.webp#right]]  
 
 - **Casting time:** 1 minute
 - **Range:** 1 miles

@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/6
 - monster/size/medium
 - monster/type/aberration
+statblock: inline
 aliases: ["Korsoth Vastikan"]
 ---
-# Korsoth Vastikan
+# [Korsoth Vastikan](compendium\bestiary\npc/korsoth-vastikan-saf.md)
 *Source: Strongholds and Followers p. 168*  
 
 Once a rival to Maladar Dictum, then-Duke Vastikan was brought low by a mob of ratcatchers. He returned to the Sea of Eternal Change, licked his wounds, and conferred with the ghosts of forgotten sages chasing the lore of formkilling.
@@ -22,7 +25,7 @@ But if they fail, the results are interesting. According to the rules, the chang
 For extra spice, consider using the original 1970s reincarnation rules. 2% chance of turning into a raccoon! 4% chance of turning into a hawk! 3% chance you're a badger ^[Badger? We ain't got no badger. We don't need no badgers. I don't have to show you any stinkin' badgers!]!
 
 ```statblock
-"name": "Korsoth Vastikan"
+"name": "Korsoth Vastikan (SaF)"
 "size": "Medium"
 "type": "aberration"
 "alignment": "Chaotic"
@@ -38,17 +41,17 @@ For extra spice, consider using the original 1970s reincarnation rules. 2% chanc
 - !!int "12"
 "speed": "40 ft."
 "saves":
-  "Dexterity": "+7"
-  "Wisdom": "+4"
+  "Dexterity": !!int "7"
+  "Wisdom": !!int "4"
 "skillsaves":
-  "Deception": "+4"
-  "Stealth": "+7"
-  "Investigation": "+3"
-  "Perception": "+4"
-  "Acrobatics": "+7"
-  "Survival": "+4"
+  "Deception": !!int "4"
+  "Stealth": !!int "7"
+  "Investigation": !!int "3"
+  "Perception": !!int "4"
+  "Acrobatics": !!int "7"
+  "Survival": !!int "4"
 "damage_resistances": "psychic"
-"condition_immunities": "charmed, petrified"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]]"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Deep Speech, Primordial"
 "cr": "6"

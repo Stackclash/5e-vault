@@ -12,7 +12,7 @@ aliases:
 ---
 # Rod of Resurrection
 *Rod, major, legendary (requires attunement by a cleric, druid, or paladin)*  
-![[5. Mechanics/Items/img/rod-of-resurrection.jpg#right]]  
+![[5. Mechanics/Items/img/Rod Of Resurrection.webp#right]]  
 
 - **Weight**: 2.0 lbs.
 

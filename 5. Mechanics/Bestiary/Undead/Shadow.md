@@ -90,6 +90,7 @@ A shadow doesn't require air, food, drink, or sleep
 - "WBtW"
 - "SjA"
 - "PSI"
+- "SatO"
 "image": "5. Mechanics/Bestiary/Undead/token/shadow.png"
 ```
 ^statblock

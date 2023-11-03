@@ -252,6 +252,8 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - "CRCotN"
 - "JttRC"
 - "KftGV"
+- "AATM"
+- "SatO"
 "image": "compendium/bestiary/fiend/token/shadow-demon.png"
 ```
 ^statblock

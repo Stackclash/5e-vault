@@ -82,6 +82,8 @@ No goodness or compassion resides in the heart of a gnoll. Like a demon, it lack
 - "MM"
 - "BGDIA"
 - "IDRotF"
+- "SatO"
+- "ToFW"
 "image": "compendium/bestiary/fiend/token/gnoll-fang-of-yeenoghu.png"
 ```
 ^statblock

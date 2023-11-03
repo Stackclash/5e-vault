@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/5
 - monster/size/medium
 - monster/type/aberration
+statblock: inline
 aliases: ["Baron Malgas"]
 ---
-# Baron Malgas
+# [Baron Malgas](compendium\bestiary\npc/baron-malgas-saf.md)
 *Source: Strongholds and Followers p. 167*  
 
 The newest lord of chaos, Malgas clawed and scraped his way into the lowest rank of the Court and is only getting started. His barely disguised contempt for Maladar Dictum doesn't prevent him from coming when called, though. Malgas is no fool.
@@ -22,7 +25,7 @@ Malgas enjoys boasting and taunting his enemies. He is a theatrical character, n
 Malgas is a melee bruiser and enjoys inflicting pain, preferring to match himself against the enemy's melee warriors. But, like all servitors, he will follow the orders of his summoner. He prefers to use his Melt Flesh ability on his immediate enemy, but will deploy it tactically to force a powerful enemy spellcaster to cease casting, or a fighter to drop their weapon, even if he's not currently fighting that character.
 
 ```statblock
-"name": "Baron Malgas"
+"name": "Baron Malgas (SaF)"
 "size": "Medium"
 "type": "aberration"
 "alignment": "Chaotic"
@@ -38,14 +41,14 @@ Malgas is a melee bruiser and enjoys inflicting pain, preferring to match himsel
 - !!int "10"
 "speed": "30 ft."
 "saves":
-  "Strength": "+6"
-  "Constitution": "+5"
+  "Strength": !!int "6"
+  "Constitution": !!int "5"
 "skillsaves":
-  "Athletics": "+6"
-  "Deception": "+3"
-  "Perception": "+5"
+  "Athletics": !!int "6"
+  "Deception": !!int "3"
+  "Perception": !!int "5"
 "damage_resistances": "psychic"
-"condition_immunities": "charmed, petrified"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]]"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "Deep Speech, Primordial"
 "cr": "5"

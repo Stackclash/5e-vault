@@ -12,7 +12,7 @@ aliases:
 ---
 # Necklace of Adaptation
 *Wondrous Item, major, uncommon (requires attunement)*  
-![[5. Mechanics/Items/img/necklace-of-adaptation.jpg#right]]  
+![[5. Mechanics/Items/img/Necklace Of Adaptation.webp#right]]  
 
 - **Weight**: 1.0 lbs.
 

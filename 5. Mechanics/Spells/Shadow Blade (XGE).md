@@ -15,6 +15,7 @@ aliases: ["Shadow Blade"]
 # Shadow Blade
 %%-- Embedded content starts on the next line. --%%
 *2nd-level, Illusion*  
+![[5. Mechanics/Spells/img/Shadow Blade.webp#right]]  
 
 - **Casting time:** 1 bonus
 - **Range:** Self

@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/14
 - monster/size/huge
 - monster/type/dragon
+statblock: inline
 aliases: ["Adult Topaz Dragon"]
 ---
-# Adult Topaz Dragon
+# [Adult Topaz Dragon](compendium\bestiary\dragon/adult-topaz-dragon-saf.md)
 *Source: Strongholds and Followers p. 218*  
 
 The youngest species, the most enthusiastic about the world, the one you're most likely to meet, topaz dragons study magic obsessively, and their older kin consider this juvenile. When you're older you'll realize magic is just ambient interference from overlapping manifolds constrained by oblique functions. Well, poo on that, look, I made a fireball!
@@ -18,7 +21,7 @@ They all seem like absentminded professors. They accumulate so much lore that th
 They're approachable and easy to talk to as long as you don't mind never getting a straight answer. You'd think they'd be experts on everything, considering how many books they have, but the opposite is true. They can imagine anything and defend it with references, many of which contradict each other.
 
 ```statblock
-"name": "Adult Topaz Dragon"
+"name": "Adult Topaz Dragon (SaF)"
 "size": "Huge"
 "type": "dragon"
 "alignment": "Neutral Good"
@@ -34,15 +37,15 @@ They're approachable and easy to talk to as long as you don't mind never getting
 - !!int "18"
 "speed": "40 ft., fly 80 ft. (hover)"
 "saves":
-  "Charisma": "+9"
-  "Dexterity": "+10"
-  "Wisdom": "+7"
-  "Intelligence": "+9"
+  "Charisma": !!int "9"
+  "Dexterity": !!int "10"
+  "Wisdom": !!int "7"
+  "Intelligence": !!int "9"
 "skillsaves":
-  "Religion": "+9"
-  "Insight": "+7"
-  "Perception": "+7"
-  "Arcana": "+9"
+  "Religion": !!int "9"
+  "Insight": !!int "7"
+  "Perception": !!int "7"
+  "Arcana": !!int "9"
 "damage_vulnerabilities": "psychic"
 "damage_resistances": "bludgeoning, slashing, piercing from nonmagical weapons"
 "damage_immunities": "fire, lightning"

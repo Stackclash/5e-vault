@@ -8,6 +8,7 @@ aliases: ["Haunted One"]
 ---
 # Haunted One
 *Source: Van Richten's Guide to Ravenloft p. 34, Curse of Strahd p. 209*  
+![[5. Mechanics/Backgrounds/img/Haunted One.webp#right]]  
 
 - **Skill Proficiencies.** Choose two from among [[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]], [[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]], [[/5. Mechanics/Rules/Skills.md#Religion\|Religion]], or [[/5. Mechanics/Rules/Skills.md#Survival\|Survival]]  
 - **Languages.** Choose two, one of which must be Abyssal, Celestial, Deep Speech, Draconic, Infernal, Primordial, Sylvan, or Undercommon  

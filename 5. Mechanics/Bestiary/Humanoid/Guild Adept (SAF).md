@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/unknown
 - monster/size/medium
 - monster/type/humanoid/any-race
+statblock: inline
 aliases: ["Guild Adept"]
 ---
-# Guild Adept
+# [Guild Adept](compendium\bestiary\humanoid/guild-adept-saf.md)
 *Source: Strongholds and Followers p. 78*  
 
 ```statblock
-"name": "Guild Adept"
+"name": "Guild Adept (SaF)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "any race"
@@ -25,17 +28,17 @@ aliases: ["Guild Adept"]
 - !!int "14"
 "speed": "30 ft. (dependant on ancestry)"
 "saves":
-  "Charisma": "+3"
-  "Dexterity": "+6"
-  "Wisdom": "+3"
-  "Intelligence": "+6"
-  "Strength": "+3"
-  "Constitution": "+3"
+  "Charisma": !!int "3"
+  "Dexterity": !!int "6"
+  "Wisdom": !!int "3"
+  "Intelligence": !!int "6"
+  "Strength": !!int "3"
+  "Constitution": !!int "3"
 "skillsaves":
-  "Deception": "+5"
-  "Stealth": "+5"
-  "Acrobatics": "+5"
-  "Arcana": "+5"
+  "Deception": !!int "5"
+  "Stealth": !!int "5"
+  "Acrobatics": !!int "5"
+  "Arcana": !!int "5"
 "senses": "appropriate to ancestry, passive Perception 12"
 "languages": "appropriate to ancestry (usually Common)"
 "cr": "Unknown"

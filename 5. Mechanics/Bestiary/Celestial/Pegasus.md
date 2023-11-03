@@ -69,6 +69,7 @@ Pegasi mate for life, build their nests in hard-to-reach locations, and give bir
 - "MOT"
 - "WBtW"
 - "JttRC"
+- "SatO"
 "image": "5. Mechanics/Bestiary/Celestial/token/pegasus.png"
 ```
 ^statblock

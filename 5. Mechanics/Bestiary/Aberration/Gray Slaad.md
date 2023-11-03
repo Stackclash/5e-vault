@@ -120,6 +120,8 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 - "WDMM"
 - "WBtW"
 - "KftGV"
+- "PaBTSO"
+- "ToFW"
 "image": "compendium/bestiary/aberration/token/gray-slaad.png"
 ```
 ^statblock

@@ -12,7 +12,7 @@ aliases:
 ---
 # Instrument of the Bards, Anstruth Harp
 *Instrument, major, very rare (requires attunement by a bard)*  
-![[5. Mechanics/Items/img/instrument-of-the-bards-anstruth-harp.jpg#right]]  
+![[5. Mechanics/Items/img/Instrument Of The Bards Anstruth Harp.webp#right]]  
 
 - **Weight**: 2.0 lbs.
 

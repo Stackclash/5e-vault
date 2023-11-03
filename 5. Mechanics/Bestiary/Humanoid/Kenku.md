@@ -86,6 +86,7 @@ All kenku pine for the ability to fly, and thus the punishments they mete out to
 - "ERLW"
 - "CM"
 - "JttRC"
+- "ToFW"
 "image": "5. Mechanics/Bestiary/Humanoid/token/kenku.png"
 ```
 ^statblock

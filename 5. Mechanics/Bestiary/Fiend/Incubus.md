@@ -111,6 +111,7 @@ Succubi and incubi can reproduce with one another to spawn more of their kind. L
 - "WBtW"
 - "CRCotN"
 - "KftGV"
+- "ToFW"
 "image": "5. Mechanics/Bestiary/Fiend/token/incubus.png"
 ```
 ^statblock

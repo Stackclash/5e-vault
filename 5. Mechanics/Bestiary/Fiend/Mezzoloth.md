@@ -125,6 +125,8 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 - "ToA"
 - "WDMM"
 - "BGDIA"
+- "PaBTSO"
+- "ToFW"
 "image": "5. Mechanics/Bestiary/Fiend/token/mezzoloth.png"
 ```
 ^statblock

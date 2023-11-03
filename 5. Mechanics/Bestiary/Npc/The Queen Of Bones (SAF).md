@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/7
 - monster/size/medium
 - monster/type/aberration
+statblock: inline
 aliases: ["The Queen of Bones"]
 ---
-# The Queen of Bones
+# [The Queen of Bones](compendium\bestiary\npc/the-queen-of-bones-saf.md)
 *Source: Strongholds and Followers p. 169*  
 
 Rival and sometimes companion to Maladar Dictum, the Queen of Bones is the Chaos Priest of the Court of All Flesh. She was once the White Queen, but her husband, the King of Blood, was annihilated in the Battle of Kalas Mithral by the Knights of Axiom under the leadership of the Inexorable Will.
@@ -26,7 +29,7 @@ And of course she has many standard offensive spells, including banishment for t
 The Queen's favorite offensive tactic, of course, is her Ossuary. By taking control of a target's skeleton, she can freeze them in place, imprisoning them with their own bones. On average this is only going to last two rounds, if it works, but that's still two rounds of an enemy doing nothing. Since its DC is Constitution-based, she tends to target spellcasters and glass cannons.
 
 ```statblock
-"name": "The Queen of Bones"
+"name": "The Queen of Bones (SaF)"
 "size": "Medium"
 "type": "aberration"
 "alignment": "Chaotic"
@@ -42,16 +45,16 @@ The Queen's favorite offensive tactic, of course, is her Ossuary. By taking cont
 - !!int "12"
 "speed": "30 ft."
 "saves":
-  "Charisma": "+4"
-  "Wisdom": "+8"
-  "Constitution": "+4"
+  "Charisma": !!int "4"
+  "Wisdom": !!int "8"
+  "Constitution": !!int "4"
 "skillsaves":
-  "Intimidation": "+4"
-  "Religion": "+4"
-  "Insight": "+8"
-  "Perception": "+8"
+  "Intimidation": !!int "4"
+  "Religion": !!int "4"
+  "Insight": !!int "8"
+  "Perception": !!int "8"
 "damage_resistances": "psychic"
-"condition_immunities": "charmed, petrified"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]]"
 "senses": "darkvision 60 ft., passive Perception 18"
 "languages": "Common, Deep Speech, Primordial"
 "cr": "7"
@@ -60,20 +63,19 @@ The Queen's favorite offensive tactic, of course, is her Ossuary. By taking cont
     \ (spell save DC 16, dice: d20+8 (+8 to hit) with spell attacks). She has the\
     \ following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Guidance.md|guidance]],\
     \ [[5. Mechanics/Spells/Mending.md|mending]], [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]],\
-    \ [[5. Mechanics/Spells/Spare The Dying.md|spare the dying]]\n\n1st level (4 1st-level\
-    \ slots): [[5. Mechanics/Spells/Bane.md|bane]], [[5. Mechanics/Spells/Inflict Wounds.md|inflict wounds]],\
+    \ [[5. Mechanics/Spells/Spare The Dying.md|spare the dying]]\n\n1st level (4 slots):\
+    \ [[5. Mechanics/Spells/Bane.md|bane]], [[5. Mechanics/Spells/Inflict Wounds.md|inflict wounds]],\
     \ [[5. Mechanics/Spells/Healing Word.md|healing word]], [[5. Mechanics/Spells/Shield Of Faith.md|shield of faith]]\n\
-    \n2nd level (3 2nd-level slots): [[5. Mechanics/Spells/Hold Person.md|hold person]],\
-    \ [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]], [[5. Mechanics/Spells/Magic Weapon.md|magic weapon]],\
+    \n2nd level (3 slots): [[5. Mechanics/Spells/Hold Person.md|hold person]], [lesser\
+    \ restoration](compendium/spells/lesser-restoration.md), [[5. Mechanics/Spells/Magic Weapon.md|magic weapon]],\
     \ [[5. Mechanics/Spells/Silence.md|silence]], [[5. Mechanics/Spells/Spiritual Weapon.md|spiritual weapon]]\n\
-    \n3rd level (3 3rd-level slots): [[5. Mechanics/Spells/Animate Dead.md|animate dead]],\
-    \ [[5. Mechanics/Spells/Bestow Curse.md|bestow curse]], {@spell }\n\n4th level\
-    \ (3 4th-level slots): [[5. Mechanics/Spells/Banishment.md|banishment]], [death\
-    \ ward](compendium/spells/death-ward.md), [[5. Mechanics/Spells/Freedom Of Movement.md|freedom of movement]],\
-    \ [[5. Mechanics/Spells/Stoneskin.md|stoneskin]]\n\n5th level (1 5th-level slots):\
-    \ [[5. Mechanics/Spells/Contagion.md|contagion]], [[5. Mechanics/Spells/Flame Strike.md|flame strike]],\
-    \ [[5. Mechanics/Spells/Insect Plague.md|insect plague]]\ndispel magic, protection\
-    \ from energy, revivify, water walk"
+    \n3rd level (3 slots): [[5. Mechanics/Spells/Animate Dead.md|animate dead]],\
+    \ [[5. Mechanics/Spells/Bestow Curse.md|bestow curse]], \n\n4th level (3 slots):\
+    \ [[5. Mechanics/Spells/Banishment.md|banishment]], [[5. Mechanics/Spells/Death Ward.md|death ward]],\
+    \ [[5. Mechanics/Spells/Freedom Of Movement.md|freedom of movement]], [[5. Mechanics/Spells/Stoneskin.md|stoneskin]]\n\
+    \n5th level (1 slots): [[5. Mechanics/Spells/Contagion.md|contagion]], [flame\
+    \ strike](compendium/spells/flame-strike.md), [[5. Mechanics/Spells/Insect Plague.md|insect plague]]\n\
+    \ndispel magic, protection from energy, revivify, water walk"
   "name": "spells"
 - "desc": "The Court of All Flesh are beings of pure chaos. Because their minds are\
     \ pure disorder, they cannot be driven mad or [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\

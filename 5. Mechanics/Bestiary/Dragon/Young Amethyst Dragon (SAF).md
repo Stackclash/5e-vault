@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/9
 - monster/size/large
 - monster/type/dragon
+statblock: inline
 aliases: ["Young Amethyst Dragon"]
 ---
-# Young Amethyst Dragon
+# [Young Amethyst Dragon](compendium\bestiary\dragon/young-amethyst-dragon-saf.md)
 *Source: Strongholds and Followers p. 223*  
 
 The renegades of the jeweled dragons, the amethyst dragons seek new knowledge and so manipulate mortals to do dangerous, even deadly things in order to push the boundary of the known.
@@ -18,7 +21,7 @@ The amethyst are sinister, manipulating, and scheming. They enjoy using the psio
 When encountered, they are often conciliatory, deferent. They want to put you at ease to catch you off guard. They are helpful, they love helping mortals, they love making mortals trust them, because it is a short path from trust to dependence. They cannot be trusted.
 
 ```statblock
-"name": "Young Amethyst Dragon"
+"name": "Young Amethyst Dragon (SaF)"
 "size": "Large"
 "type": "dragon"
 "alignment": "Lawful Evil"
@@ -34,13 +37,13 @@ When encountered, they are often conciliatory, deferent. They want to put you at
 - !!int "17"
 "speed": "40 ft., fly 80 ft. (hover)"
 "saves":
-  "Charisma": "+7"
-  "Dexterity": "+7"
-  "Wisdom": "+6"
-  "Intelligence": "+7"
+  "Charisma": !!int "7"
+  "Dexterity": !!int "7"
+  "Wisdom": !!int "6"
+  "Intelligence": !!int "7"
 "skillsaves":
-  "Insight": "+6"
-  "Perception": "+6"
+  "Insight": !!int "6"
+  "Perception": !!int "6"
 "damage_vulnerabilities": "psychic"
 "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 20"
 "languages": "Common, Draconic, telepathy 120 ft."

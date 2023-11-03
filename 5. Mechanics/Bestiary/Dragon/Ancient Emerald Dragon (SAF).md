@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/21
 - monster/size/gargantuan
 - monster/type/dragon
+statblock: inline
 aliases: ["Ancient Emerald Dragon"]
 ---
-# Ancient Emerald Dragon
+# [Ancient Emerald Dragon](compendium\bestiary\dragon/ancient-emerald-dragon-saf.md)
 *Source: Strongholds and Followers p. 199*  
 
 One of the oldest species of gemstone dragons, the emeralds studied the lore of the sea and the unique, chaotic boundary between sea and land. It was the tide pools and estuaries that fascinated them, and they developed a theory of the timescape based on this intermingling. The Estuarial Hypothesis holds that the Mundane World lies on an interspace boundary between the worlds, and for this reason good, evil, chaos, and law all intermingle here.
@@ -18,7 +21,7 @@ Water dampens the dragon's mindspeech and as a result their psionics has evolved
 Their interest in our world and its relation to others makes them experts on the planes. Rumors speak of emerald dragons whose wings propel them naturally through the Sea of Stars that separates worlds, allowing them to travel at will to any plane. But this behavior has never been witnessed by mortals.
 
 ```statblock
-"name": "Ancient Emerald Dragon"
+"name": "Ancient Emerald Dragon (SaF)"
 "size": "Gargantuan"
 "type": "dragon"
 "alignment": "Chaotic Neutral"
@@ -34,15 +37,15 @@ Their interest in our world and its relation to others makes them experts on the
 - !!int "22"
 "speed": "40 ft., fly 80 ft. (hover), swim 40 ft."
 "saves":
-  "Charisma": "+13"
-  "Dexterity": "+14"
-  "Wisdom": "+10"
-  "Intelligence": "+14"
+  "Charisma": !!int "13"
+  "Dexterity": !!int "14"
+  "Wisdom": !!int "10"
+  "Intelligence": !!int "14"
 "skillsaves":
-  "Religion": "+14"
-  "Insight": "+10"
-  "Perception": "+10"
-  "Arcana": "+14"
+  "Religion": !!int "14"
+  "Insight": !!int "10"
+  "Perception": !!int "10"
+  "Arcana": !!int "14"
 "damage_vulnerabilities": "psychic"
 "damage_resistances": "bludgeoning, slashing, piercing from nonmagical weapons"
 "damage_immunities": "fire, lightning"

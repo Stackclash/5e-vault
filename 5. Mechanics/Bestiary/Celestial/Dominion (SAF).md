@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/8
 - monster/size/large
 - monster/type/celestial
+statblock: inline
 aliases: ["Dominion"]
 ---
-# Dominion
+# [Dominion](compendium\bestiary\celestial/dominion-saf.md)
 *Source: Strongholds and Followers p. 161*  
 
 Now, see? This looks more like a regular angel thing. Why can't they all look like this—why do they have to be wheels and wings and mouths and hands?
@@ -26,7 +29,7 @@ The great thing about the Dominion is that you don't have to choose whether to a
 Obviously it should focus on those enemies adjacent to one or more of your allies! But it doesn't have to, if a well-placed bolt of light from its scepter would make a difference.
 
 ```statblock
-"name": "Dominion"
+"name": "Dominion (SaF)"
 "size": "Large"
 "type": "celestial"
 "alignment": "Any Good alignment"
@@ -42,11 +45,12 @@ Obviously it should focus on those enemies adjacent to one or more of your allie
 - !!int "17"
 "speed": "40 ft., fly 40 ft."
 "saves":
-  "Charisma": "+6"
-  "Dexterity": "+7"
+  "Charisma": !!int "6"
+  "Dexterity": !!int "7"
 "damage_resistances": "radiant; bludgeoning, piercing, slashing from nonmagical weapons"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "charmed, exhaustion, frightened, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "truesight, passive Perception 20"
 "languages": "all, telepathy 60 ft."
 "cr": "8"

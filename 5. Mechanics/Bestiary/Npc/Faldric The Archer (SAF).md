@@ -1,18 +1,21 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/3
 - monster/size/medium
 - monster/type/humanoid/human
+statblock: inline
 aliases: ["Faldric the Archer"]
 ---
-# Faldric the Archer
+# [Faldric the Archer](compendium\bestiary\npc/faldric-the-archer-saf.md)
 *Source: Strongholds and Followers p. 145*  
 
 Faldric is a cruel opportunist who rose through the town guard in Bedegar until he attracted Saxton's attention. The former Baron of Bedegar would never have promoted a man like Faldric, but the old Baron is dead, and the new regent has use of a man willing to say "yes" to any order.
 
 ```statblock
-"name": "Faldric the Archer"
+"name": "Faldric the Archer (SaF)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "human"
@@ -29,10 +32,10 @@ Faldric is a cruel opportunist who rose through the town guard in Bedegar until 
 - !!int "13"
 "speed": "30 ft."
 "saves":
-  "Dexterity": "+4"
+  "Dexterity": !!int "4"
 "skillsaves":
-  "Perception": "+3"
-  "Acrobatics": "+5"
+  "Perception": !!int "3"
+  "Acrobatics": !!int "5"
 "senses": "passive Perception 13"
 "languages": "Common"
 "cr": "3"

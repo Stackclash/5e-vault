@@ -77,6 +77,7 @@ Grimlocks still venerate the mind flayers, serving them whenever possible. Griml
 "source":
 - "MM"
 - "WDMM"
+- "PaBTSO"
 "image": "5. Mechanics/Bestiary/Humanoid/token/grimlock.png"
 ```
 ^statblock

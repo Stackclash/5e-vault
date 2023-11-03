@@ -74,6 +74,7 @@ Composed of fire and water, steam mephits leave trails of hot water wherever the
 - "TftYP"
 - "ToA"
 - "EGW"
+- "ToFW"
 "image": "compendium/bestiary/elemental/token/steam-mephit.png"
 ```
 ^statblock

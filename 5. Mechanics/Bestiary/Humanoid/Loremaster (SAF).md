@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/unknown
 - monster/size/medium
 - monster/type/humanoid/any-race
+statblock: inline
 aliases: ["Loremaster"]
 ---
-# Loremaster
+# [Loremaster](compendium\bestiary\humanoid/loremaster-saf.md)
 *Source: Strongholds and Followers p. 73*  
 
 ```statblock
-"name": "Loremaster"
+"name": "Loremaster (SaF)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "any race"
@@ -25,16 +28,16 @@ aliases: ["Loremaster"]
 - !!int "18"
 "speed": "30 ft. (dependant on ancestry)"
 "saves":
-  "Charisma": "+6"
-  "Dexterity": "+6"
-  "Wisdom": "+3"
-  "Intelligence": "+3"
-  "Strength": "+3"
-  "Constitution": "+3"
+  "Charisma": !!int "6"
+  "Dexterity": !!int "6"
+  "Wisdom": !!int "3"
+  "Intelligence": !!int "3"
+  "Strength": !!int "3"
+  "Constitution": !!int "3"
 "skillsaves":
-  "History": "+5"
-  "Performance": "+5"
-  "Arcana": "+5"
+  "History": !!int "5"
+  "Performance": !!int "5"
+  "Arcana": !!int "5"
 "senses": "appropriate to ancestry, passive Perception 12"
 "languages": "appropriate to ancestry (usually Common)"
 "cr": "Unknown"

@@ -133,7 +133,7 @@ Strahd imbued his automaton with a sliver of his being, bequeathing unto his arm
 
 The armor understands Common but obeys only the commands of its master.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/143-636623960253938131.png#center\|Strahd's Animated Armor]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/143-636623960253938131.webp#center\|Strahd's Animated Armor]]
 
 ### Baba Lysaga
 
@@ -175,7 +175,7 @@ The goddess Mother Night has bestowed magical gifts on [[5. Mechanics/Bestiary/N
 
 "I will not rest until the last of my son's enemies are destroyed."
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/144-636379873620950408.png#center\|Baba Lysaga]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/144-636379873620950408.webp#center\|Baba Lysaga]]
 
 ### Barovian Witch
 
@@ -191,7 +191,7 @@ Barovian witches are obsessive collectors, each believing that almost anything f
 
 Barovian witches use the [[5. Mechanics/Spells/Find Familiar.md\|find familiar]] spell to call forth familiars. They are particularly fond of cats, though snakes and toads are also common. These animals lurk amid the clutter of the witches' lairs, seldom wandering far from their vile masters.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/145-636379876850421049.png#center\|Barovian Witch]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/145-636379876850421049.webp#center\|Barovian Witch]]
 
 ### Blight, Tree
 
@@ -249,7 +249,7 @@ Ezmerelda keeps a [[5. Mechanics/Decks/Tarokka Deck (COS).md\|deck of tarokka ca
 
 "I go where angels fear to tread."
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/146-636623997177812461.png#center\|Ezmerelda d'Avenir]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/146-636623997177812461.webp#center\|Ezmerelda d'Avenir]]
 
 ## Creatures (I-Q)
 
@@ -291,7 +291,7 @@ Izek has dreams of Ireena. If he spots her, he tries to take her by force to the
 
 "I would do anything, kill anything, to find my sister."
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/147-636623996907006468.png#center\|Izek Strazni]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/147-636623996907006468.webp#center\|Izek Strazni]]
 
 ### Kasimir Velikov
 
@@ -390,7 +390,7 @@ It's possible to restore a mongrelfolk to its original form using a [[5. Mechani
 
 Mongrelfolk can breed with other humanoids, but nearly all children born to such parents are mongrelfolk. (About one child in every hundred is born looking like its non-mongrelfolk parent.)
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/148-636985373100391611.jpg#center\|Mongrelfolk]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/148-636985373100391611.webp#center\|Mongrelfolk]]
 
 ### Phantom Warrior
 
@@ -412,7 +412,7 @@ Although they are incorporeal, phantom warriors can harness the energy around th
 
 A phantom warrior doesn't require air, food, drink, or sleep.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/149-636623996440271782.png#center\|Phantom Warrior]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/149-636623996440271782.webp#center\|Phantom Warrior]]
 
 ### Pidlwick II
 
@@ -450,7 +450,7 @@ After the deaths of Sergei and Tatyana, the castle became virtually abandoned, a
 
 "When I'm upset, I do bad things."
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/150-636623996229835683.png#center\|Pidlwick II]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/150-636623996229835683.webp#center\|Pidlwick II]]
 
 ## Creatures (R-Z)
 
@@ -496,7 +496,7 @@ So dreadful a creature is [[5. Mechanics/Bestiary/Npc/Rahadin (COS).md\|Rahadin]
 
 "I have slain thousands of men. I will slaughter thousands more to preserve the von Zarovich legacy."
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/151-636623996027511661.png#center\|Rahadin]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/151-636623996027511661.webp#center\|Rahadin]]
 
 ### Rictavio
 
@@ -530,7 +530,7 @@ Van Richten works alone. A curse placed on him long ago by a Vistani seer brings
 
 "I am cursed. Thus, I will never have peace."
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/152-636623995708971736.png#center\|Rictavio]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/152-636623995708971736.webp#center\|Rictavio]]
 
 ### Strahd von Zarovich
 
@@ -588,7 +588,7 @@ On initiative count 20 (losing initiative ties), Strahd can take one of the foll
 - Strahd summons the angry spirit of one who has died in the castle. The apparition appears next to a hostile creature that Strahd can see, makes an attack against that creature, and then disappears. The apparition has the statistics of a [[5. Mechanics/Bestiary/Undead/Specter.md\|specter]].  
 - Strahd targets one Medium or smaller creature that casts a shadow. The target's shadow must be visible to Strahd and within 30 feet of him. If the target fails a DC 17 Charisma saving throw, its shadow detaches from it and becomes a [[5. Mechanics/Bestiary/Undead/Shadow.md\|shadow]] that obeys Strahd's commands, acting on initiative count 20. A [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell or a [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell cast on the target restores its natural shadow, but only if its undead shadow has been destroyed.  
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/153-636988936829621698.jpg#center\|Strahd von Zarovich]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/153-636988936829621698.webp#center\|Strahd von Zarovich]]
 
 ### Strahd Zombie
 
@@ -633,7 +633,7 @@ Were Vladimir to let go of his hatred, his spirit would find peace and could rem
 - Vladimir wields a [greatsword, +2](compendium/items/2-weapon.md) with a hilt sculpted to resemble silver dragon wings and a pommel shaped like a silver dragon's head clutching a black opal between its teeth. As an action, he can make two attacks with the sword (+9 to hit). It deals `dice: 4d6 + 6|avg` (`4d6 + 6`) slashing damage on a hit. Against Strahd, Vladimir deals an extra `dice: 4d6|avg` (`4d6`) slashing damage with the weapon.  
 - Vladimir has a challenge rating of 7 (2,900 XP).  
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/154-cos19-11.png#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/154 Cos19-11.webp#center]]
 
 #### Vladimir Horngaard's Traits
 
@@ -669,4 +669,4 @@ The "Monster Manual" has rules for characters afflicted with lycanthropy. The fo
 
 A character cursed with wereraven lycanthropy gains a Dexterity of 15 if his or her score isn't already higher. Attack and damage rolls for the wereraven's bite are based on whichever is higher of the character's Strength and Dexterity. The bite of a wereraven in raven form deals 1 piercing damage (no ability modifier applies to this damage) and carries the curse of lycanthropy; see the "Player Characters as Lycanthropes" sidebar in the lycanthropes entry in the "Monster Manual" for details.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/155-637515969684846750.png#center\|Wereraven]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/155-637515969684846750.webp#center\|Wereraven]]

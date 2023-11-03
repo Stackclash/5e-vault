@@ -12,7 +12,7 @@ aliases:
 ---
 # Instrument of the Bards, Canaith Mandolin
 *Instrument, major, rare (requires attunement by a bard)*  
-![[5. Mechanics/Items/img/instrument-of-the-bards-canaith-mandolin.jpg#right]]  
+![[5. Mechanics/Items/img/Instrument Of The Bards Canaith Mandolin.webp#right]]  
 
 - **Weight**: 2.0 lbs.
 

@@ -118,6 +118,7 @@ Some individuals see little point in fighting the curse and accept what they are
 - "ToA"
 - "EGW"
 - "JttRC"
+- "ToFW"
 "image": "5. Mechanics/Bestiary/Humanoid/token/weretiger.png"
 ```
 ^statblock

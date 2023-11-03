@@ -14,6 +14,7 @@ aliases:
 ---
 # Whelm
 *Melee Weapon, legendary (requires attunement by a dwarf)*  
+![[5. Mechanics/Items/img/Whelm.webp#right]]  
 
 - **Damage**:
   - One-handed: 1d8 B

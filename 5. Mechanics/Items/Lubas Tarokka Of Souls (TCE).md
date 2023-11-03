@@ -11,7 +11,7 @@ aliases:
 ---
 # Luba's Tarokka of Souls
 *Wondrous Item, artifact (requires attunement)*  
-![[5. Mechanics/Items/img/lubas-tarokka-of-souls.png#right]]  
+![[5. Mechanics/Items/img/Lubas Tarokka Of Souls.webp#right]]  
 
 
 Not all lingering spirits are tragic souls, lost on their way to the hereafter. Some languish as prisoners, souls so wicked mortals dare not free them upon an unsuspecting afterlife.

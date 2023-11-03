@@ -179,13 +179,13 @@ Four [[5. Mechanics/Bestiary/Humanoid/Orc.md\|orcs]] spar here.
 
 #### Treasure
 
-About two dozen sets of orcish armor and crude weapons are haphazardly stored along the perimeter of this room. A character that makes a successful DC 13 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check or takes 5 minutes to search the armor finds a well-kept suit of [[5. Mechanics/Items/Studded Leather Armor.md\|studded leather armor]] and a shining +1 rapier with the Bedegar coat of arms inscribed on the pommel.
+About two dozen sets of orcish armor and crude weapons are haphazardly stored along the perimeter of this room. A character that makes a successful DC 13 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check or takes 5 minutes to search the armor finds a well-kept suit of [[5. Mechanics/Items/Studded Leather Armor.md\|studded leather armor]] and a shining [+1 rapier](compendium/items/1-weapon.md) with the Bedegar coat of arms inscribed on the pommel.
 
 ### C6. Armory
 
 The Blue Dragonflight stored their weapons and armor here. None of the armor fits the orcs, and most of it is rusty and corroded by time and water. The crest of the dragon knights is still visible on the chest pieces of the plate armor, though.
 
-Twelve suits of plate armor stand around the walls of this room. Eleven are rusted and pitted, but one still seems to gleam silver, as if it had been polished mere moments ago. This suit of +1 plate belonged to Raizorojan, Captain of the Blue Dragon Phalanx, and fits a human with a broad, athletic build. Other creatures will need to have it refitted. Touching the suit of magical plate causes eight of the rusty suits of armor to creak to life as [[5. Mechanics/Bestiary/Construct/Animated Armor.md\|animated armor]] and attack the pillagers until they all leave the room. These enchanted suits of armor have 4|18|Strength Strength; their slam attacks have a +6|+6|Slam bonus to hit and deal 11 (2d6 + 4) bludgeoning damage on a hit. These changes increase their challenge rating to 2 (450 XP).
+Twelve suits of plate armor stand around the walls of this room. Eleven are rusted and pitted, but one still seems to gleam silver, as if it had been polished mere moments ago. This suit of [+1 plate](compendium/items/1-armor.md) belonged to Raizorojan, Captain of the Blue Dragon Phalanx, and fits a human with a broad, athletic build. Other creatures will need to have it refitted. Touching the suit of magical plate causes eight of the rusty suits of armor to creak to life as [[5. Mechanics/Bestiary/Construct/Animated Armor.md\|animated armor]] and attack the pillagers until they all leave the room. These enchanted suits of armor have 4|18|Strength Strength; their slam attacks have a +6|+6|Slam bonus to hit and deal 11 (2d6 + 4) bludgeoning damage on a hit. These changes increase their challenge rating to 2 (450 XP).
 
 ### C7. Coatroom
 
@@ -293,7 +293,7 @@ Two [[5. Mechanics/Bestiary/Humanoid/White Tusk Warspeaker (SAF).md\|White Tusk 
 
 #### Treasure
 
-Each warspeaker keeps a small chest containing 100 gp underneath their cot. Additionally, one has a stack of three stone tablets that function like spell scrolls. Only creatures that can read Orc can use these stone scrolls of [[5. Mechanics/Spells/Bestow Curse.md\|bestow curse]], [[5. Mechanics/Spells/Shield Of Faith.md\|shield of faith]], and [[5. Mechanics/Spells/Spiritual Weapon.md\|spiritual weapon]].
+Each warspeaker keeps a small chest containing 100 gp underneath their cot. Additionally, one has a stack of three stone tablets that function like [[5. Mechanics/Items/Spell Scroll.md\|spell scrolls]]. Only creatures that can read Orc can use these stone scrolls of [[5. Mechanics/Spells/Bestow Curse.md\|bestow curse]], [[5. Mechanics/Spells/Shield Of Faith.md\|shield of faith]], and [[5. Mechanics/Spells/Spiritual Weapon.md\|spiritual weapon]].
 
 ### C18. Cauldron Room
 

@@ -11,7 +11,7 @@ aliases:
 ---
 # Orb of Dragonkind
 *Wondrous Item, artifact (requires attunement)*  
-![[5. Mechanics/Items/img/orb-of-dragonkind.jpg#right]]  
+![[5. Mechanics/Items/img/Orb Of Dragonkind.webp#right]]  
 
 - **Weight**: 3.0 lbs.
 

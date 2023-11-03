@@ -93,6 +93,7 @@ Unlike pixies, sprites rarely indulge in frivolous merriment and fun. They are f
 - "CM"
 - "WBtW"
 - "KftGV"
+- "SatO"
 "image": "5. Mechanics/Bestiary/Fey/token/sprite.png"
 ```
 ^statblock

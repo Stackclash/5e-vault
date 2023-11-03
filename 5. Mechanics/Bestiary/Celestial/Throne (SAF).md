@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/9
 - monster/size/large
 - monster/type/celestial
+statblock: inline
 aliases: ["Throne"]
 ---
-# Throne
+# [Throne](compendium\bestiary\celestial/throne-saf.md)
 *Source: Strongholds and Followers p. 163*  
 
 Wat. Okay, well...look, I don't make these things up, the gods do that, and who are we to question them?
@@ -26,7 +29,7 @@ Whether these are different places, the same place with different regions, or so
 It chooses the most evil enemy creature (by whatever metric you want) and attacks it. Once it is imprisoned, the Throne will obey its summoner and attack whomever they want, but not if it would free the evil trapped within.
 
 ```statblock
-"name": "Throne"
+"name": "Throne (SaF)"
 "size": "Large"
 "type": "celestial"
 "alignment": "Any Good alignment"
@@ -42,11 +45,12 @@ It chooses the most evil enemy creature (by whatever metric you want) and attack
 - !!int "18"
 "speed": "30 ft."
 "saves":
-  "Strength": "+7"
-  "Constitution": "+7"
+  "Strength": !!int "7"
+  "Constitution": !!int "7"
 "damage_resistances": "radiant; bludgeoning, piercing, slashing from nonmagical weapons"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "charmed, exhaustion, frightened, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "truesight, passive Perception 22"
 "languages": "all, telepathy 60 ft."
 "cr": "9"

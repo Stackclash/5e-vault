@@ -9,15 +9,15 @@ tags:
 - item/property/martial
 - item/rarity/very-rare
 - item/weapon/martial/melee
-aliases: ["The Tyrant's Twinblades, Vincere and Punire"]
+aliases: 
+- "The Tyrant's Twinblades, Vincere and Punire"
 ---
 # The Tyrant's Twinblades, Vincere and Punire
 *Melee Weapon, very rare (requires attunement by an evil creature)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tyrant-twinblades.jpg#right)  
 
 - **Damage**: 1d6 P
-- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], Martial, Requires Attunement
-- **Cost**: ⏤
+- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], Martial
 - **Weight**: 2.0 lbs.
 
 If you are a neutral character, these black iron shortswords function as normal weapons with no bonus or special properties. If you are good, touching either weapon deals `dice: 2d8|avg` (`2d8`) necrotic damage to you. If you are an evil character, you can use Vincere and Punire as magic weapons with the following properties.

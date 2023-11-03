@@ -8,7 +8,8 @@ tags:
 - item/property/versatile
 - item/rarity/very-rare
 - item/weapon/martial/melee
-aliases: ["Obey"]
+aliases: 
+- "Obey"
 ---
 # Obey
 *Melee Weapon, very rare (requires attunement by a lawful creature)*  
@@ -17,8 +18,7 @@ aliases: ["Obey"]
 - **Damage**:
   - One-handed: 1d8 S
   - Two-handed: 1d10 S
-- **Properties**: Martial, Requires Attunement, [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
-- **Cost**: ⏤
+- **Properties**: Martial, [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 3.0 lbs.
 
 You have a +1 bonus to attack and damage rolls made with this magic weapon. If it hits an object, the hit is automatically a critical hit, and it can deal bludgeoning or slashing damage to the object (your choice). Further, damage from nonmagical sources can't harm the weapon.

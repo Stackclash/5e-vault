@@ -90,6 +90,10 @@ Mages spend their lives in the study and practice of magic. Good-aligned mages o
 - "DSotDQ"
 - "KftGV"
 - "PSI"
+- "PaBTSO"
+- "AATM"
+- "SatO"
+- "ToFW"
 "image": "5. Mechanics/Bestiary/Humanoid/token/mage.png"
 ```
 ^statblock

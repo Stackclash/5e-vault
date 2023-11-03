@@ -12,7 +12,7 @@ aliases:
 ---
 # Wand of Web
 *Wand, major, uncommon (requires attunement by a spellcaster)*  
-![[5. Mechanics/Items/img/wand-of-web.jpg#right]]  
+![[5. Mechanics/Items/img/Wand Of Web.webp#right]]  
 
 - **Weight**: 1.0 lbs.
 

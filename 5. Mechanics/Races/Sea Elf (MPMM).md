@@ -8,6 +8,7 @@ aliases: ["Sea Elf"]
 ---
 # Sea Elf
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 30*  
+![[5. Mechanics/Races/img/Sea Elf.webp#right]]  
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Type**: race
@@ -55,3 +56,12 @@ Whenever you finish this trance, you can gain two proficiencies that you don't h
 Sea elves fell in love with the wild beauty of the ocean in the earliest days of the multiverse. While other elves traveled from realm to realm, sea elves navigated the currents and explored the waters of many worlds. Today these elves can be found wherever oceans exist, as well as in the Elemental Plane of Water.
 
 Like other elves, sea elves can live to be over 750 years old.
+
+> [!note] Elves of Many Realms
+> 
+> Created by the god Corellon, the first elves were Fey beings who cavorted on various planes of existence, changing their physical forms at will. Outside the glory of Arvandor, their favourite place was the feywild—a realm of unbridled passion. It was to that place of splendors that elves fled after they were exiled from Corellon's presence for plotting with their god's rival, Lolth. And it was there that they transformed from Fey creatures into Humanoids and lost their ability to shape-shift at will. Afterward, they often wept as they realized what they had lost, their sorrow made even deeper by the Feywild's influence. But in the Feywild, they also discovered the potential joys of being people of fixed forms, and they rediscovered hope once they renounced Lolth's treachery.
+> 
+> Most elves eventually spread from the Feywild to other worlds, as wanderlust and curiosity drove them to the far reaches of the multiverse. In those other worlds, elves developed the physical forms now associated with them. Because of their original mutable nature, each group of elves mystically took on characteristics of the environment with which they bonded, whether forests ([[5. Mechanics/Races/Elf Wood.md\|wood elves]]), fey crossings in the Material Plane ([[5. Mechanics/Races/Elf High.md\|high elves]]), the Underdark ([[5. Mechanics/Races/Elf Drow.md\|drow]]), the Shadowfell ([[5. Mechanics/Races/Shadar Kai (MPMM).md\|shadar-kai]]), the Feywild ([[5. Mechanics/Races/Eladrin (MPMM).md\|eladrin]]), or oceans ([[5. Mechanics/Races/Sea Elf (MPMM).md\|sea elves]]).
+> 
+> In some places, Corellon has passed from elves' memory, but the god's blood flows within them still, even if they know nothing of its source. That blood is what causes them to evolve after spending centuries connected to a particular environment, so it is only a matter of time before other kinds of elves emerge.
+^elves-of-many-realms

@@ -90,7 +90,7 @@ A medusa is subject to its own curse. By looking vainly on its reflection, it tu
 - "BGDIA"
 - "ERLW"
 - "IMR"
-- "MOT"
+- "CM"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/medusa.png"
 ```
 ^statblock

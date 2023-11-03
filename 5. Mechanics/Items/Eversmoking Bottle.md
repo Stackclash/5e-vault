@@ -11,7 +11,7 @@ aliases:
 ---
 # Eversmoking Bottle
 *Wondrous Item, major, uncommon*  
-![[5. Mechanics/Items/img/eversmoking-bottle.jpg#right]]  
+![[5. Mechanics/Items/img/Eversmoking Bottle.webp#right]]  
 
 - **Weight**: 1.0 lbs.
 

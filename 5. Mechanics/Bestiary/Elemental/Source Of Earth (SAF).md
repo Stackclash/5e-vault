@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/6
 - monster/size/medium
 - monster/type/elemental
+statblock: inline
 aliases: ["Source of Earth"]
 ---
-# Source of Earth
+# [Source of Earth](compendium\bestiary\elemental/source-of-earth-saf.md)
 *Source: Strongholds and Followers p. 187*  
 
 The Sources hover at the crossroads of Alloy pronouncing the Lady's law and reminding citizens of important dates. They can also be depended upon to grant aid to newcomers, including help as mundane as directions. The Sources of Earth seem most to enjoy helping visitors, and while their pronouncements are booming and melodramatic, they are enthusiastic about their task.
@@ -22,7 +25,7 @@ The Sources of Earth act as vigilant sentinels, stoning anyone seen committing a
 The Source of Earth hovers over the battlefield, with only 10 feet of movement. It buffs allies with Diamondskin and turns enemies to stone with Back to Earth. It uses Wall of Stone to change the shape of the battlefield, protecting allies or dividing enemies. It's mostly a support unit, but it can turn an enemy to stone, with a pretty beefy DC.
 
 ```statblock
-"name": "Source of Earth"
+"name": "Source of Earth (SaF)"
 "size": "Medium"
 "type": "elemental"
 "alignment": "Neutral"
@@ -38,10 +41,12 @@ The Source of Earth hovers over the battlefield, with only 10 feet of movement. 
 - !!int "10"
 "speed": "10 ft., fly 10 ft. (hover)"
 "saves":
-  "Strength": "+3"
-  "Constitution": "+8"
+  "Strength": !!int "3"
+  "Constitution": !!int "8"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical weapons"
-"condition_immunities": "exhaustion, paralyzed, petrified, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 17"
 "languages": "Aquan, Auran, Common, Ignan, Terran"
 "cr": "6"

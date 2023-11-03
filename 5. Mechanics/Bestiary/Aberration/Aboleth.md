@@ -122,6 +122,8 @@ Aboleths lair in subterranean lakes or the rocky depths of the ocean, often surr
 - "WDH"
 - "WDMM"
 - "JttRC"
+- "PaBTSO"
+- "SatO"
 "image": "5. Mechanics/Bestiary/Aberration/token/aboleth.png"
 ```
 ^statblock

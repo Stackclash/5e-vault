@@ -96,6 +96,7 @@ A shield guardian doesn't require air, food, drink, or sleep.
 - "IDRotF"
 - "CRCotN"
 - "KftGV"
+- "PaBTSO"
 "image": "compendium/bestiary/construct/token/shield-guardian.png"
 ```
 ^statblock

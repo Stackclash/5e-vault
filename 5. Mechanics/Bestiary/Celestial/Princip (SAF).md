@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/5
 - monster/size/medium
 - monster/type/celestial
+statblock: inline
 aliases: ["Princip"]
 ---
-# Princip
+# [Princip](compendium\bestiary\celestial/princip-saf.md)
 *Source: Strongholds and Followers p. 155*  
 
 Herald of the Righteous Power, the Princip arrives ready to crown an ally, bestowing on them a greater destiny, granting them immunity to spells that charm or dominate and raising one ability to god-like levels.
@@ -34,7 +37,7 @@ If the battle lasts long enough, or if the Princip is summoned again after using
 Um, what? The endless what now? Well, it tried. It probably means, "You're gonna do great!" Don't think too hard about it, it'll just give you a headache.
 
 ```statblock
-"name": "Princip"
+"name": "Princip (SaF)"
 "size": "Medium"
 "type": "celestial"
 "alignment": "Any Good alignment"
@@ -50,11 +53,12 @@ Um, what? The endless what now? Well, it tried. It probably means, "You're gonna
 - !!int "16"
 "speed": "40 ft."
 "saves":
-  "Charisma": "+6"
-  "Wisdom": "+6"
+  "Charisma": !!int "6"
+  "Wisdom": !!int "6"
 "damage_resistances": "radiant; bludgeoning, piercing, slashing from nonmagical weapons"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "charmed, exhaustion, frightened, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "truesight, passive Perception 19"
 "languages": "all, telepathy 60 ft."
 "cr": "5"

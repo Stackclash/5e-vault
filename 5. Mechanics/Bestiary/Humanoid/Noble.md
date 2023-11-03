@@ -75,6 +75,8 @@ The noble's statistics can also be used to represent courtiers who aren't of nob
 - "JttRC"
 - "DSotDQ"
 - "KftGV"
+- "SatO"
+- "ToFW"
 "image": "5. Mechanics/Bestiary/Humanoid/token/noble.png"
 ```
 ^statblock

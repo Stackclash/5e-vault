@@ -63,6 +63,9 @@ aliases: ["Wolf"]
 - "IDRotF"
 - "TCE"
 - "CM"
+- "HftT"
+- "PaBTSO"
+- "LK"
 "image": "5. Mechanics/Bestiary/Beast/token/wolf.png"
 ```
 ^statblock

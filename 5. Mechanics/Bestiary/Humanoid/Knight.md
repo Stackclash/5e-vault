@@ -83,6 +83,8 @@ Knights are warriors who pledge service to rulers, religious orders, and noble c
 - "DSotDQ"
 - "KftGV"
 - "GotSF"
+- "SatO"
+- "ToFW"
 "image": "5. Mechanics/Bestiary/Humanoid/token/knight.png"
 ```
 ^statblock

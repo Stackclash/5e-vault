@@ -82,6 +82,7 @@ No goodness or compassion resides in the heart of a gnoll. Like a demon, it lack
 - "PotA"
 - "GoS"
 - "BGDIA"
+- "ToFW"
 "image": "compendium/bestiary/humanoid/token/gnoll-pack-lord.png"
 ```
 ^statblock

@@ -87,6 +87,8 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 - "CM"
 - "DSotDQ"
 - "KftGV"
+- "PaBTSO"
+- "SatO"
 "image": "compendium/bestiary/aberration/token/slaad-tadpole.png"
 ```
 ^statblock

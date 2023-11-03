@@ -231,6 +231,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - "EGW"
 - "WBtW"
 - "PSI"
+- "SatO"
 "image": "5. Mechanics/Bestiary/Fiend/token/dretch.png"
 ```
 ^statblock

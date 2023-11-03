@@ -82,6 +82,7 @@ A helmed horror doesn't require air, food, drink, or sleep.
 - "IDRotF"
 - "JttRC"
 - "KftGV"
+- "PaBTSO"
 "image": "compendium/bestiary/construct/token/helmed-horror.png"
 ```
 ^statblock

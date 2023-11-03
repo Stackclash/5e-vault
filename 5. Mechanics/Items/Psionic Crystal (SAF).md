@@ -6,15 +6,13 @@ tags:
 - item/attunement/required
 - item/rarity/rare
 - item/wondrous
-aliases: ["Psionic Crystal"]
+aliases: 
+- "Psionic Crystal"
 ---
 # Psionic Crystal
 *Wondrous Item, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/psionic-crystal.jpg#right)  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 Chipped off the hide of a gemstone dragon, this crystal grants you psionic abilities depending on its size. It recharges upon completing a long rest. If you ever use the last charge, it turns into an inert precious stone.
 

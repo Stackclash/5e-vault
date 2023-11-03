@@ -5,13 +5,12 @@ tags:
 - compendium/src/5e/saf
 - item/gear/requires-installation
 - item/rarity/rare
-aliases: ["The Tapestry of Reweaving"]
+aliases: 
+- "The Tapestry of Reweaving"
 ---
 # The Tapestry of Reweaving
 *requires installation, rare*  
 
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 This magnificent tapestry at first appears to display a scene depicting life in the local area. The threads are expensively dyed, and real gold and silver are woven into it, giving it brilliant colors and incredibly fine detail. Expressions can be made out on the tiny faces of any people living nearby.
 

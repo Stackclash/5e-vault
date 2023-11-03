@@ -10,7 +10,7 @@ aliases:
 ---
 # Horn of Valhalla
 *Wondrous Item, varies*  
-![[5. Mechanics/Items/img/horn-of-valhalla.jpg#right]]  
+![[5. Mechanics/Items/img/Horn Of Valhalla.webp#right]]  
 
 
 *Source: Dungeon Master's Guide p. 175*

@@ -6,15 +6,13 @@ tags:
 - item/attunement/required
 - item/rarity/artifact
 - item/wondrous
-aliases: ["Codex Ignis"]
+aliases: 
+- "Codex Ignis"
 ---
 # Codex Ignis
 *Wondrous Item, artifact (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/codex-ignis.jpg#right)  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 Hu Tai was the last Magister of Fire, and like her contemporaries, the other four elemental magisters, she swore to bind her knowledge into a tome and thereby seal it away, ending the Century of Five Emperors and the wars that ensued as each emperor's elemental magister used their lore to warp and twist reality for their regent.
 

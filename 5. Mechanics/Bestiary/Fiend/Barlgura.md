@@ -244,6 +244,8 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - "IMR"
 - "CRCotN"
 - "KftGV"
+- "PaBTSO"
+- "SatO"
 "image": "5. Mechanics/Bestiary/Fiend/token/barlgura.png"
 ```
 ^statblock

@@ -8,6 +8,7 @@ aliases: ["Triton"]
 ---
 # Triton
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 35*  
+![[5. Mechanics/Races/img/Triton.webp#right]]  
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Type**: race

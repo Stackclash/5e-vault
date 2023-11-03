@@ -11,7 +11,7 @@ aliases:
 ---
 # Iron Bands of Bilarro
 *Wondrous Item, major, rare*  
-![[5. Mechanics/Items/img/iron-bands-of-bilarro.jpg#right]]  
+![[5. Mechanics/Items/img/Iron Bands Of Bilarro.webp#right]]  
 
 - **Weight**: 1.0 lbs.
 

@@ -1,18 +1,21 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/6
 - monster/size/medium
 - monster/type/humanoid/orc
+statblock: inline
 aliases: ["Bonebreaker Dorokor"]
 ---
-# Bonebreaker Dorokor
+# [Bonebreaker Dorokor](compendium\bestiary\npc/bonebreaker-dorokor-saf.md)
 *Source: Strongholds and Followers p. 143*  
 
 Bonebreaker Dorokor is the leader of the White Tusk orc clan, and complements her natural orcish strength with shrewd cunning. She is described in more detail in Major NPCs (page 101).
 
 ```statblock
-"name": "Bonebreaker Dorokor"
+"name": "Bonebreaker Dorokor (SaF)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "orc"
@@ -29,13 +32,13 @@ Bonebreaker Dorokor is the leader of the White Tusk orc clan, and complements he
 - !!int "17"
 "speed": "30 ft."
 "saves":
-  "Dexterity": "+5"
-  "Wisdom": "+6"
-  "Strength": "+7"
+  "Dexterity": !!int "5"
+  "Wisdom": !!int "6"
+  "Strength": !!int "7"
 "skillsaves":
-  "Intimidation": "+6"
-  "Athletics": "+7"
-  "Persuasion": "+6"
+  "Intimidation": !!int "6"
+  "Athletics": !!int "7"
+  "Persuasion": !!int "6"
 "damage_resistances": "fire"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Common, Orc"

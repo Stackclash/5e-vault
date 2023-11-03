@@ -84,6 +84,7 @@ An elemental doesn't require air, food, drink, or sleep.
 - "MOT"
 - "TCE"
 - "CRCotN"
+- "PaBTSO"
 "image": "compendium/bestiary/elemental/token/earth-elemental.png"
 ```
 ^statblock

@@ -12,7 +12,7 @@ aliases:
 ---
 # Shield of Missile Attraction
 *Shield, major, rare (requires attunement)*  
-![[5. Mechanics/Items/img/shield-of-missile-attraction.jpg#right]]  
+![[5. Mechanics/Items/img/Shield Of Missile Attraction.webp#right]]  
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.

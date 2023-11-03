@@ -12,7 +12,7 @@ When Strahd drove his enemies into the valley long ago, determined to annihilate
 
 The dragon, who called himself Argynvost, had come to the valley years earlier in the guise of a nobleman named Lord Argynvost. The dragon didn't lair in the valley solely because of its idyllic beauty. He knew of a place called the Amber Temple—a repository of evil power guarded by the forces of good. Argynvost wanted to make sure that whatever was trapped inside the Amber Temple wouldn't be allowed to escape, so he built his fortified mansion, Argynvostholt, close by.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/075-cos07-01.png#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/075 Cos07-01.webp#center]]
 
 Like many silver dragons, Argynvost was extraordinarily wealthy, and he was comfortable living among humans while disguised as one of them. He used his resources to attract other champions of good, and valorous knights flocked to the valley to join Lord Argynvost's prestigious Order of the Silver Dragon. Only those who were initiated into the order were told of Lord Argynvost's true nature.
 
@@ -35,7 +35,7 @@ The vengeful revenants killed many of Strahd's soldiers, and whenever the undead
 
 When Strahd died and became a vampire, Vladimir's knights should have gone to their everlasting rest, but their spirits couldn't leave Strahd's domain. They marched to Castle Ravenloft and were confronted by the Vistani seer [[5. Mechanics/Bestiary/Npc/Madam Eva (COS).md\|Madam Eva]], who told them Strahd had died, only to become a prisoner in his own land, tormented by the death of his beloved Tatyana and the murder of his brother Sergei.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/076-cos07-02.png#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/076 Cos07-02.webp#center]]
 
 After receiving that news, Vladimir ceased his advance and led his knights back to Argynvostholt. He realized that Strahd had already died and been damned to a hell of his own creation. With nowhere else to go and nothing else to do, Vladimir set his knights to killing Strahd's agents and anyone else who might help to ease Strahd's torment. Consumed by hatred, the knights have lost their honor and nobility. Their redemption hinges on whether Vladimir can set aside that hatred. The undead knight can be found brooding in the ruins of Argynvostholt.
 
@@ -588,7 +588,7 @@ Characters who inspect the fireplace notice a shield-shaped patch on the wall ab
 
 #### Development
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/081-cos07-05.png#center\|Sir Godfrey Gwilym]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/081 Cos07-05.webp#center\|Sir Godfrey Gwilym]]
 
 Sir Godfrey can sense that the spirit of Argynvost isn't at rest and isn't happy that the order has been reduced to such a state. If the characters petition the revenants for aid, Sir Godfrey (speaking in a scratchy voice) relates all the information presented at the start of the chapter concerning Argynvost and the rise and fall of the Order of the Silver Dragon. Neither he nor the other revenants can help the characters in any meaningful way, however, because of the oaths they have sworn to [[5. Mechanics/Bestiary/Npc/Vladimir Horngaard (COS).md\|Vladimir Horngaard]].
 

@@ -11,7 +11,7 @@ aliases:
 ---
 # Manual of Bodily Health
 *Wondrous Item, major, very rare*  
-![[5. Mechanics/Items/img/manual-of-bodily-health.jpg#right]]  
+![[5. Mechanics/Items/img/Manual Of Bodily Health.webp#right]]  
 
 - **Weight**: 5.0 lbs.
 

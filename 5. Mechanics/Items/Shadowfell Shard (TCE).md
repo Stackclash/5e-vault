@@ -11,7 +11,7 @@ aliases:
 ---
 # Shadowfell Shard
 *Wondrous Item, rare (requires attunement by a sorcerer)*  
-![[5. Mechanics/Items/img/shadowfell-shard.png#right]]  
+![[5. Mechanics/Items/img/Shadowfell Shard.webp#right]]  
 
 - **Weight**: 1.0 lbs.
 

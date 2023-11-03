@@ -11,7 +11,7 @@ aliases:
 ---
 # Unbreakable Arrow
 *Ammunition, minor, common*  
-![[5. Mechanics/Items/img/unbreakable-arrow.png#right]]  
+![[5. Mechanics/Items/img/Unbreakable Arrow.webp#right]]  
 
 
 This arrow can't be broken, except when it is within an [[5. Mechanics/Spells/Antimagic Field.md\|antimagic field]].

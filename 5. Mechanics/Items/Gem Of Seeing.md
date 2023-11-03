@@ -12,7 +12,7 @@ aliases:
 ---
 # Gem of Seeing
 *Wondrous Item, major, rare (requires attunement)*  
-![[5. Mechanics/Items/img/gem-of-seeing.jpg#right]]  
+![[5. Mechanics/Items/img/Gem Of Seeing.webp#right]]  
 
 - **Weight**: 1.0 lbs.
 

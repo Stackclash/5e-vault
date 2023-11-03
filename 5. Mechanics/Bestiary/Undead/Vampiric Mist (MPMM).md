@@ -85,6 +85,7 @@ Like sharks in water, vampiric mists can scent blood from up to a mile away. Any
 "source":
 - "MPMM"
 - "MTF"
+- "AATM"
 "image": "compendium/bestiary/undead/token/vampiric-mist.png"
 ```
 ^statblock

@@ -11,7 +11,7 @@ aliases:
 ---
 # Elemental Gem
 *Wondrous Item, minor, uncommon*  
-![[5. Mechanics/Items/img/elemental-gem.jpg#right]]  
+![[5. Mechanics/Items/img/Elemental Gem.webp#right]]  
 
 
 *Source: Dungeon Master's Guide p. 167*

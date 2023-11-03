@@ -105,6 +105,9 @@ Whenever possible, ogres gang up with other monsters to bully or prey on creatur
 - "DSotDQ"
 - "KftGV"
 - "PSZ"
+- "HftT"
+- "PaBTSO"
+- "SatO"
 "image": "5. Mechanics/Bestiary/Giant/token/ogre.png"
 ```
 ^statblock

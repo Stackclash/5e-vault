@@ -109,6 +109,7 @@ Cloakers prefer isolation, but they sometimes convene with other cloakers for de
 - "CRCotN"
 - "JttRC"
 - "KftGV"
+- "PaBTSO"
 "image": "5. Mechanics/Bestiary/Aberration/token/cloaker.png"
 ```
 ^statblock

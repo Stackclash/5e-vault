@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/unknown
 - monster/size/medium
 - monster/type/humanoid/any-race
+statblock: inline
 aliases: ["Acolyte of the Way"]
 ---
-# Acolyte of the Way
+# [Acolyte of the Way](compendium\bestiary\humanoid/acolyte-of-the-way-saf.md)
 *Source: Strongholds and Followers p. 76*  
 
 ```statblock
-"name": "Acolyte of the Way"
+"name": "Acolyte of the Way (SaF)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "any race"
@@ -25,15 +28,15 @@ aliases: ["Acolyte of the Way"]
 - !!int "14"
 "speed": "30 ft. (dependant on ancestry)"
 "saves":
-  "Charisma": "+3"
-  "Dexterity": "+6"
-  "Wisdom": "+3"
-  "Intelligence": "+3"
-  "Strength": "+6"
-  "Constitution": "+3"
+  "Charisma": !!int "3"
+  "Dexterity": !!int "6"
+  "Wisdom": !!int "3"
+  "Intelligence": !!int "3"
+  "Strength": !!int "6"
+  "Constitution": !!int "3"
 "skillsaves":
-  "Athletics": "+5"
-  "Acrobatics": "+5"
+  "Athletics": !!int "5"
+  "Acrobatics": !!int "5"
 "senses": "appropriate to ancestry, passive Perception 14"
 "languages": "appropriate to ancestry (usually Common)"
 "cr": "Unknown"

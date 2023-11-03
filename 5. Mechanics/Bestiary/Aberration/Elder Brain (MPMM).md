@@ -137,6 +137,7 @@ An elder brain's ambitions are always tempered by its relative immobility. Altho
 "source":
 - "MPMM"
 - "VGM"
+- "PaBTSO"
 "image": "compendium/bestiary/aberration/token/elder-brain.png"
 ```
 ^statblock

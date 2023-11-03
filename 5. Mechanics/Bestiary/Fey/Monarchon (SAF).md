@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/7
 - monster/size/medium
 - monster/type/fey
+statblock: inline
 aliases: ["Monarchon"]
 ---
-# Monarchon
+# [Monarchon](compendium\bestiary\fey/monarchon-saf.md)
 *Source: Strongholds and Followers p. 179*  
 
 The Monarchon is the embodiment of youth and death, spring and fall. It is gay and sprightly and a harbinger of doom. Once, mortals knew that to gaze upon the death's-head skull of the Monarchon spelled the end. Now, it's been so long since last the Arcadians lived in the Mundane World that mortals must learn these lessons all over again.
@@ -36,7 +39,7 @@ The Monarchon can fly—I mean, of course she can, look at those wings. She pref
 Finally, if she is attacked or otherwise there is great need, she will land and use her Withering Touch. This is something of a last resort—she prefers to use this ability on enemies close to death.
 
 ```statblock
-"name": "Monarchon"
+"name": "Monarchon (SaF)"
 "size": "Medium"
 "type": "fey"
 "alignment": "Chaotic"
@@ -52,15 +55,15 @@ Finally, if she is attacked or otherwise there is great need, she will land and 
 - !!int "14"
 "speed": "30 ft., fly 30 ft. (hover)"
 "saves":
-  "Charisma": "+5"
-  "Wisdom": "+7"
+  "Charisma": !!int "5"
+  "Wisdom": !!int "7"
 "skillsaves":
-  "Medicine": "+7"
-  "Nature": "+4"
-  "Religion": "+4"
-  "Insight": "+7"
-  "Perception": "6"
-  "History": "+4"
+  "Medicine": !!int "7"
+  "Nature": !!int "4"
+  "Religion": !!int "4"
+  "Insight": !!int "7"
+  "Perception": !!int "6"
+  "History": !!int "4"
 "senses": "passive Perception 20"
 "languages": "Common, Elvish, Sylvan"
 "cr": "7"
@@ -72,13 +75,13 @@ Finally, if she is attacked or otherwise there is great need, she will land and 
 - "desc": "The Monarchon is a 7th-level spellcaster. Her spellcasting ability is Wisdom\
     \ (spell save DC 15, dice: d20+7 (+7 to hit) with spell attacks). The Monarchon\
     \ has the following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Guidance.md|guidance]],\
-    \ [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]]\n\n1st level (4 1st-level\
-    \ slots): [[5. Mechanics/Spells/Bane.md|bane]], [[5. Mechanics/Spells/Bless.md|bless]],\
-    \ [[5. Mechanics/Spells/Command.md|command]]\n\n2nd level (3 2nd-level slots):\
-    \ [[5. Mechanics/Spells/Hold Person.md|hold person]], [[5. Mechanics/Spells/Zone Of Truth.md|zone of truth]]\n\
-    \n3rd level (3 3rd-level slots): [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
-    \ [[5. Mechanics/Spells/Revivify.md|revivify]]\n\n4th level (1 4th-level slots):\
-    \ [[5. Mechanics/Spells/Banishment.md|banishment]], [[5. Mechanics/Spells/Death Ward.md|death ward]]"
+    \ [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]]\n\n1st level (4 slots):\
+    \ [[5. Mechanics/Spells/Bane.md|bane]], [[5. Mechanics/Spells/Bless.md|bless]], [[5. Mechanics/Spells/Command.md|command]]\n\
+    \n2nd level (3 slots): [[5. Mechanics/Spells/Hold Person.md|hold person]], [zone\
+    \ of truth](compendium/spells/zone-of-truth.md)\n\n3rd level (3 slots): [dispel\
+    \ magic](compendium/spells/dispel-magic.md), [[5. Mechanics/Spells/Revivify.md|revivify]]\n\
+    \n4th level (1 slots): [[5. Mechanics/Spells/Banishment.md|banishment]], [death\
+    \ ward](compendium/spells/death-ward.md)"
   "name": "spells"
 - "desc": "Magic cannot put the Monarchon to sleep."
   "name": "Fey Ancestry"

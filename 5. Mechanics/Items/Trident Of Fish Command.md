@@ -15,7 +15,7 @@ aliases:
 ---
 # Trident of Fish Command
 *Melee Weapon, major, uncommon (requires attunement)*  
-![[5. Mechanics/Items/img/trident-of-fish-command.jpg#right]]  
+![[5. Mechanics/Items/img/Trident Of Fish Command.webp#right]]  
 
 - **Damage**:
   - One-handed: 1d6 P

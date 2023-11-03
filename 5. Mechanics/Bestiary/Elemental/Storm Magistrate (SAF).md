@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/9
 - monster/size/large
 - monster/type/elemental
+statblock: inline
 aliases: ["Storm Magistrate"]
 ---
-# Storm Magistrate
+# [Storm Magistrate](compendium\bestiary\elemental/storm-magistrate-saf.md)
 *Source: Strongholds and Followers p. 191*  
 
 The Magistrates of the Burning City are the priests and judges of the Lady of Fire. The motes, sources, and knights are diagnosticians. They identify and evaluate the problem. The Lords of Storm cure it.
@@ -24,7 +27,7 @@ The Magistrates know that when they are called to the Mundane World, it is to ai
 The Magistrate's deadliest weapon is Storm Strike, which combines chain lightning with some radiant damage. Use this as soon as the Magistrate arrives to maximize the number of rolls you'll get on the recharge, increasing the likelihood you'll get to use it again.
 
 ```statblock
-"name": "Storm Magistrate"
+"name": "Storm Magistrate (SaF)"
 "size": "Large"
 "type": "elemental"
 "alignment": "Neutral"
@@ -40,12 +43,14 @@ The Magistrate's deadliest weapon is Storm Strike, which combines chain lightnin
 - !!int "16"
 "speed": "30 ft."
 "saves":
-  "Charisma": "+7"
-  "Wisdom": "+9"
-  "Intelligence": "+6"
+  "Charisma": !!int "7"
+  "Wisdom": !!int "9"
+  "Intelligence": !!int "6"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical weapons"
 "damage_immunities": "fire, lightning"
-"condition_immunities": "exhaustion, paralyzed, petrified, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 19"
 "languages": "Auran, Common, Ignan"
 "cr": "9"
@@ -58,19 +63,18 @@ The Magistrate's deadliest weapon is Storm Strike, which combines chain lightnin
 - "desc": "The magistrate has the following cleric spells prepared:\n\nCantrips\
     \ (at will): [[5. Mechanics/Spells/Light.md|light]], [[5. Mechanics/Spells/Guidance.md|guidance]],\
     \ [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]], [[5. Mechanics/Spells/Spare The Dying.md|spare the dying]]\n\
-    \n1st level (4 1st-level slots): [[5. Mechanics/Spells/Bane.md|bane]], [[5. Mechanics/Spells/Bless.md|bless]],\
+    \n1st level (4 slots): [[5. Mechanics/Spells/Bane.md|bane]], [[5. Mechanics/Spells/Bless.md|bless]],\
     \ [[5. Mechanics/Spells/Healing Word.md|healing word]], [[5. Mechanics/Spells/Shield Of Faith.md|shield of faith]]\n\
-    \n2nd level (3 2nd-level slots): [[5. Mechanics/Spells/Aid.md|aid]], [lesser\
-    \ restoration](compendium/spells/lesser-restoration.md), [[5. Mechanics/Spells/Magic Weapon.md|magic weapon]],\
-    \ [[5. Mechanics/Spells/Prayer Of Healing.md|prayer of healing]], [[5. Mechanics/Spells/Hold Person.md|hold person]]\n\
-    \n3rd level (3 3rd-level slots): [[5. Mechanics/Spells/Beacon Of Hope.md|beacon of hope]],\
-    \ [[5. Mechanics/Spells/Magic Circle.md|magic circle]], [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
-    \ [[5. Mechanics/Spells/Revivify.md|revivify]], [[5. Mechanics/Spells/Spirit Guardians.md|spirit guardians]],\
-    \ [[5. Mechanics/Spells/Mass Healing Word.md|mass healing word]]\n\n4th level (3\
-    \ 4th-level slots): [[5. Mechanics/Spells/Banishment.md|banishment]], [freedom\
+    \n2nd level (3 slots): [[5. Mechanics/Spells/Aid.md|aid]], [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]],\
+    \ [[5. Mechanics/Spells/Magic Weapon.md|magic weapon]], [[5. Mechanics/Spells/Prayer Of Healing.md|prayer of healing]],\
+    \ [[5. Mechanics/Spells/Hold Person.md|hold person]]\n\n3rd level (3 slots):\
+    \ [[5. Mechanics/Spells/Beacon Of Hope.md|beacon of hope]], [[5. Mechanics/Spells/Magic Circle.md|magic circle]],\
+    \ [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[5. Mechanics/Spells/Revivify.md|revivify]],\
+    \ [[5. Mechanics/Spells/Spirit Guardians.md|spirit guardians]], [[5. Mechanics/Spells/Mass Healing Word.md|mass healing word]]\n\
+    \n4th level (3 slots): [[5. Mechanics/Spells/Banishment.md|banishment]], [freedom\
     \ of movement](compendium/spells/freedom-of-movement.md), [[5. Mechanics/Spells/Guardian Of Faith.md|guardian of faith]],\
-    \ [[5. Mechanics/Spells/Stoneskin.md|stoneskin]]\n\n5th level (1 5th-level slots):\
-    \ [[5. Mechanics/Spells/Flame Strike.md|flame strike]], [[5. Mechanics/Spells/Mass Cure Wounds.md|mass cure wounds]],\
+    \ [[5. Mechanics/Spells/Stoneskin.md|stoneskin]]\n\n5th level (1 slots): [flame\
+    \ strike](compendium/spells/flame-strike.md), [[5. Mechanics/Spells/Mass Cure Wounds.md|mass cure wounds]],\
     \ [[5. Mechanics/Spells/Hold Monster.md|hold monster]]"
   "name": "spells"
 "actions":

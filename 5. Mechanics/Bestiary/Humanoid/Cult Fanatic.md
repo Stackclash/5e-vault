@@ -84,6 +84,8 @@ Fanatics are often part of a cult's leadership, using their charisma and dogma t
 - "LoX"
 - "KftGV"
 - "PSI"
+- "PaBTSO"
+- "ToFW"
 "image": "compendium/bestiary/humanoid/token/cult-fanatic.png"
 ```
 ^statblock

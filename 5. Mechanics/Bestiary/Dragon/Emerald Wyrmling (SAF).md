@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/3
 - monster/size/medium
 - monster/type/dragon
+statblock: inline
 aliases: ["Emerald Wyrmling"]
 ---
-# Emerald Wyrmling
+# [Emerald Wyrmling](compendium\bestiary\dragon/emerald-wyrmling-saf.md)
 *Source: Strongholds and Followers p. 201*  
 
 One of the oldest species of gemstone dragons, the emeralds studied the lore of the sea and the unique, chaotic boundary between sea and land. It was the tide pools and estuaries that fascinated them, and they developed a theory of the timescape based on this intermingling. The Estuarial Hypothesis holds that the Mundane World lies on an interspace boundary between the worlds, and for this reason good, evil, chaos, and law all intermingle here.
@@ -18,7 +21,7 @@ Water dampens the dragon's mindspeech and as a result their psionics has evolved
 Their interest in our world and its relation to others makes them experts on the planes. Rumors speak of emerald dragons whose wings propel them naturally through the Sea of Stars that separates worlds, allowing them to travel at will to any plane. But this behavior has never been witnessed by mortals.
 
 ```statblock
-"name": "Emerald Wyrmling"
+"name": "Emerald Wyrmling (SaF)"
 "size": "Medium"
 "type": "dragon"
 "alignment": "Chaotic Neutral"
@@ -34,13 +37,13 @@ Their interest in our world and its relation to others makes them experts on the
 - !!int "12"
 "speed": "30 ft., fly 60 ft. (hover), swim 30 ft."
 "saves":
-  "Charisma": "+3"
-  "Dexterity": "+4"
-  "Wisdom": "+3"
-  "Intelligence": "+4"
+  "Charisma": !!int "3"
+  "Dexterity": !!int "4"
+  "Wisdom": !!int "3"
+  "Intelligence": !!int "4"
 "skillsaves":
-  "Insight": "+3"
-  "Perception": "+3"
+  "Insight": !!int "3"
+  "Perception": !!int "3"
 "damage_vulnerabilities": "psychic"
 "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 15"
 "languages": "Common, Draconic"

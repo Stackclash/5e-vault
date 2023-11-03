@@ -83,6 +83,7 @@ Although the aboleths' ancient empire fell long ago, the psychic bonds between t
 - "WDMM"
 - "GoS"
 - "CRCotN"
+- "PaBTSO"
 "image": "5. Mechanics/Bestiary/Aberration/token/chuul.png"
 ```
 ^statblock

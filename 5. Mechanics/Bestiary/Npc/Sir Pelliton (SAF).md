@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/5
 - monster/size/medium
 - monster/type/humanoid/human
+statblock: inline
 aliases: ["Sir Pelliton"]
 ---
-# Sir Pelliton
+# [Sir Pelliton](compendium\bestiary\npc/sir-pelliton-saf.md)
 *Source: Strongholds and Followers p. 144*  
 
 Sir Pelliton, the Star Knight, is one of the frightful Knights of the Three Roses. Before being knighted by Lord Saxton, Pelliton and his Three Roses were a cruel, selfish band of mercenaries known as the Thorns. Knighthood has only magnified his sadism and self-importance.
@@ -14,7 +17,7 @@ Sir Pelliton, the Star Knight, is one of the frightful Knights of the Three Rose
 His pact with an entity of the stars has granted his body strange resistances and imparted upon him the power to wield uncanny magic. In battle, Pelliton often rides a jet-black warhorse named Penumbra. Pelliton is described in more detail in Major NPCs (page 101).
 
 ```statblock
-"name": "Sir Pelliton"
+"name": "Sir Pelliton (SaF)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "human"
@@ -31,14 +34,14 @@ His pact with an entity of the stars has granted his body strange resistances an
 - !!int "18"
 "speed": "30 ft."
 "saves":
-  "Dexterity": "+3"
-  "Intelligence": "+5"
+  "Dexterity": !!int "3"
+  "Intelligence": !!int "5"
 "skillsaves":
-  "Intimidation": "+8"
-  "Animal Handling": "+6"
-  "Arcana": "+5"
+  "Intimidation": !!int "8"
+  "Animal Handling": !!int "6"
+  "Arcana": !!int "5"
 "damage_resistances": "cold, fire, lightning, psychic"
-"condition_immunities": "blinded, deafened"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]]"
 "senses": "passive Perception 12"
 "languages": "Common"
 "cr": "5"

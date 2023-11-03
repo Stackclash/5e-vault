@@ -155,6 +155,7 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
 - "WBtW"
 - "JttRC"
 - "PSI"
+- "SatO"
 "image": "compendium/bestiary/fey/token/green-hag.png"
 ```
 ^statblock

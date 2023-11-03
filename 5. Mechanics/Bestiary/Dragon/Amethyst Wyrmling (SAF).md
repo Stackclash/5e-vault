@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/3
 - monster/size/medium
 - monster/type/dragon
+statblock: inline
 aliases: ["Amethyst Wyrmling"]
 ---
-# Amethyst Wyrmling
+# [Amethyst Wyrmling](compendium\bestiary\dragon/amethyst-wyrmling-saf.md)
 *Source: Strongholds and Followers p. 223*  
 
 The renegades of the jeweled dragons, the amethyst dragons seek new knowledge and so manipulate mortals to do dangerous, even deadly things in order to push the boundary of the known.
@@ -18,7 +21,7 @@ The amethyst are sinister, manipulating, and scheming. They enjoy using the psio
 When encountered, they are often conciliatory, deferent. They want to put you at ease to catch you off guard. They are helpful, they love helping mortals, they love making mortals trust them, because it is a short path from trust to dependence. They cannot be trusted.
 
 ```statblock
-"name": "Amethyst Wyrmling"
+"name": "Amethyst Wyrmling (SaF)"
 "size": "Medium"
 "type": "dragon"
 "alignment": "Lawful Evil"
@@ -34,13 +37,13 @@ When encountered, they are often conciliatory, deferent. They want to put you at
 - !!int "13"
 "speed": "30 ft., fly 60 ft. (hover)"
 "saves":
-  "Charisma": "+3"
-  "Dexterity": "+4"
-  "Wisdom": "+3"
-  "Intelligence": "+4"
+  "Charisma": !!int "3"
+  "Dexterity": !!int "4"
+  "Wisdom": !!int "3"
+  "Intelligence": !!int "4"
 "skillsaves":
-  "Insight": "+3"
-  "Perception": "+3"
+  "Insight": !!int "3"
+  "Perception": !!int "3"
 "damage_vulnerabilities": "psychic"
 "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 15"
 "languages": "Common, Draconic"

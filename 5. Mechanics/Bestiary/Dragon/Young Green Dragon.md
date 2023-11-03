@@ -157,6 +157,9 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "WDMM"
 - "BGDIA"
 - "RMBRE"
+- "HftT"
+- "PaBTSO"
+- "LK"
 "image": "compendium/bestiary/dragon/token/young-green-dragon.png"
 ```
 ^statblock

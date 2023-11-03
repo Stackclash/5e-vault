@@ -102,6 +102,10 @@ A specter doesn't require air, food, drink, or sleep.
 - "JttRC"
 - "KftGV"
 - "PSI"
+- "PaBTSO"
+- "AATM"
+- "SatO"
+- "ToFW"
 "image": "5. Mechanics/Bestiary/Undead/token/specter.png"
 ```
 ^statblock

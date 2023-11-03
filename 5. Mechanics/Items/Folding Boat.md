@@ -11,7 +11,7 @@ aliases:
 ---
 # Folding Boat
 *Wondrous Item, minor, rare*  
-![[5. Mechanics/Items/img/folding-boat.jpg#right]]  
+![[5. Mechanics/Items/img/Folding Boat.webp#right]]  
 
 - **Weight**: 4.0 lbs.
 

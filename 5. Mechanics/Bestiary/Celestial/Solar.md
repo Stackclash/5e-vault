@@ -128,6 +128,7 @@ It is said that only twenty-four solars exist. The few solars that are known are
 - "CM"
 - "CRCotN"
 - "JttRC"
+- "SatO"
 "image": "5. Mechanics/Bestiary/Celestial/token/solar.png"
 ```
 ^statblock

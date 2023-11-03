@@ -86,6 +86,8 @@ Veterans are professional fighters that take up arms for pay or to protect somet
 - "LoX"
 - "DSotDQ"
 - "KftGV"
+- "SatO"
+- "ToFW"
 "image": "5. Mechanics/Bestiary/Humanoid/token/veteran.png"
 ```
 ^statblock

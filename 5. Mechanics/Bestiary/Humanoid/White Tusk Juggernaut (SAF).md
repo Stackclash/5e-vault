@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/4
 - monster/size/large
 - monster/type/humanoid/orc
+statblock: inline
 aliases: ["White Tusk Juggernaut"]
 ---
-# White Tusk Juggernaut
+# [White Tusk Juggernaut](compendium\bestiary\humanoid/white-tusk-juggernaut-saf.md)
 *Source: Strongholds and Followers p. 138*  
 
 The White Tusk orc clan named itself after its hulking warriors who, in addition to their massive bodies, possessed enormous white tusks. White Tusk juggernauts pride themselves not just in their battle prowess but also in the size and sharpness of their monstrous lower canines. Some juggernauts have their tusks pierced and display fearsome jewelry from their teeth, others decorate them with ink or paint, and those who can withstand the pain even have symbols or runes inscribed upon them.
@@ -14,7 +17,7 @@ The White Tusk orc clan named itself after its hulking warriors who, in addition
 A juggernaut's immense muscles allow them to wield oversized weapons worthy of their bloodlust, and they wear thick metal armor forged together in piecemeal from bits of plate armor scavenged from the corpses of their more knightly victims.
 
 ```statblock
-"name": "White Tusk Juggernaut"
+"name": "White Tusk Juggernaut (SaF)"
 "size": "Large"
 "type": "humanoid"
 "subtype": "orc"
@@ -31,11 +34,11 @@ A juggernaut's immense muscles allow them to wield oversized weapons worthy of t
 - !!int "8"
 "speed": "25 ft."
 "saves":
-  "Wisdom": "+3"
-  "Strength": "+6"
+  "Wisdom": !!int "3"
+  "Strength": !!int "6"
 "skillsaves":
-  "Intimidation": "+3"
-  "Athletics": "+7"
+  "Intimidation": !!int "3"
+  "Athletics": !!int "7"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Orc"
 "cr": "4"

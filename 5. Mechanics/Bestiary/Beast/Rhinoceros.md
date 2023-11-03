@@ -47,6 +47,7 @@ aliases: ["Rhinoceros"]
 - "ToA"
 - "WDH"
 - "IDRotF"
+- "ToFW"
 "image": "5. Mechanics/Bestiary/Beast/token/rhinoceros.png"
 ```
 ^statblock

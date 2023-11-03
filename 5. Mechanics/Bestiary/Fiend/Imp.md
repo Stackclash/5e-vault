@@ -208,6 +208,8 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - "CM"
 - "KftGV"
 - "PSI"
+- "SatO"
+- "ToFW"
 "image": "5. Mechanics/Bestiary/Fiend/token/imp.png"
 ```
 ^statblock

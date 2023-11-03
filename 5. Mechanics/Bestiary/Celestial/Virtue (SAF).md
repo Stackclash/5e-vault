@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/7
 - monster/size/medium
 - monster/type/celestial
+statblock: inline
 aliases: ["Virtue"]
 ---
-# Virtue
+# [Virtue](compendium\bestiary\celestial/virtue-saf.md)
 *Source: Strongholds and Followers p. 159*  
 
 A collection of mouths and hands that arrives and sings power, which is a totally normal thing to do. The Virtue is the Word of the Gods, and that word is death to evil. These songs are not spells, so magic resistance does not affect them. They are divine words spoken by a creature sent by the gods.
@@ -39,7 +42,7 @@ If the players ask about the words to these songs, I recommend looking up a rand
 See? Proper Celestial gibberish!
 
 ```statblock
-"name": "Virtue"
+"name": "Virtue (SaF)"
 "size": "Medium"
 "type": "celestial"
 "alignment": "Any Good alignment"
@@ -55,12 +58,13 @@ See? Proper Celestial gibberish!
 - !!int "20"
 "speed": "0 ft., fly 40 ft. (hover)"
 "saves":
-  "Charisma": "+8"
-  "Wisdom": "+6"
-  "Intelligence": "+6"
+  "Charisma": !!int "8"
+  "Wisdom": !!int "6"
+  "Intelligence": !!int "6"
 "damage_resistances": "radiant; bludgeoning, piercing, slashing from nonmagical weapons"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "charmed, exhaustion, frightened, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "truesight, passive Perception 19"
 "languages": "all, telepathy 60 ft."
 "cr": "7"

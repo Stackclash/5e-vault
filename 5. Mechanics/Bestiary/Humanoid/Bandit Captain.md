@@ -88,6 +88,8 @@ More than treasure, a bandit captain or pirate captain craves infamy. A prisoner
 - "LoX"
 - "DSotDQ"
 - "KftGV"
+- "SatO"
+- "ToFW"
 "image": "compendium/bestiary/humanoid/token/bandit-captain.png"
 ```
 ^statblock

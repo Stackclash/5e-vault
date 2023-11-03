@@ -11,7 +11,7 @@ aliases: ["The Traveler"]
 ---
 # The Traveler
 *Source: Eberron: Rising from the Last War p. 141* 
-![[5. Mechanics/Deities/img/erlw-the-dark-six.png#symbol\|The Dark Six]]
+![[5. Mechanics/Deities/img/Erlw The Dark Six.webp#symbol\|The Dark Six]]
 
 - **Alignment**: Unaligned
 - **Category**: The Dark Six

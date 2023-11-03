@@ -98,6 +98,10 @@ Doppelgangers are too lazy or self-interested to raise their young. They assume 
 - "IDRotF"
 - "JttRC"
 - "KftGV"
+- "HftT"
+- "PaBTSO"
+- "SatO"
+- "ToFW"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/doppelganger.png"
 ```
 ^statblock

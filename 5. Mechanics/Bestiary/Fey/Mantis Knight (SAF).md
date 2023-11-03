@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/5
 - monster/size/medium
 - monster/type/fey
+statblock: inline
 aliases: ["Mantis Knight"]
 ---
-# Mantis Knight
+# [Mantis Knight](compendium\bestiary\fey/mantis-knight-saf.md)
 *Source: Strongholds and Followers p. 176*  
 
 The swashbuckling adventurers of the Arcadians, the Mantis Knights love dueling and drinking and terrible poetry. The greatest of them, like Lady Eweshtleth, keep an air of grave dignity about them, because they have known battle across the Myriad Worlds. But most Mantis Knights just want to show up, do something dashing and acrobatic, spit an enemy upon their sword, and then go carousing with the mortals who summoned them.
@@ -18,7 +21,7 @@ Their armor makes them very hard to grapple, and they enjoy showing this off by 
 Otherwise, they enjoy dancing around the battlefield, laying into enemies with their twin rapiers. Simple pleasures.
 
 ```statblock
-"name": "Mantis Knight"
+"name": "Mantis Knight (SaF)"
 "size": "Medium"
 "type": "fey"
 "alignment": "Chaotic"
@@ -34,17 +37,17 @@ Otherwise, they enjoy dancing around the battlefield, laying into enemies with t
 - !!int "12"
 "speed": "30 ft."
 "saves":
-  "Charisma": "+4"
-  "Wisdom": "+4"
-  "Strength": "+6"
+  "Charisma": !!int "4"
+  "Wisdom": !!int "4"
+  "Strength": !!int "6"
 "skillsaves":
-  "Nature": "+3"
-  "Deception": "+4"
-  "Stealth": "+7"
-  "Perception": "+6"
-  "Acrobatics": "+7"
-  "Survival": "+4"
-  "Persuasion": "+4"
+  "Nature": !!int "3"
+  "Deception": !!int "4"
+  "Stealth": !!int "7"
+  "Perception": !!int "6"
+  "Acrobatics": !!int "7"
+  "Survival": !!int "4"
+  "Persuasion": !!int "4"
 "senses": "passive Perception 17"
 "languages": "Common, Elvish, Sylvan"
 "cr": "5"

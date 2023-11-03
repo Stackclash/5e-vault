@@ -11,7 +11,7 @@ aliases:
 ---
 # Manual of Clay Golems
 *Wondrous Item, major, very rare*  
-![[5. Mechanics/Items/img/manual-of-clay-golems.jpg#right]]  
+![[5. Mechanics/Items/img/Manual Of Clay Golems.webp#right]]  
 
 - **Weight**: 5.0 lbs.
 

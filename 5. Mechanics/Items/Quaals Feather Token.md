@@ -10,7 +10,7 @@ aliases:
 ---
 # Quaal's Feather Token
 *Wondrous Item, rare*  
-![[5. Mechanics/Items/img/quaals-feather-token.jpg#right]]  
+![[5. Mechanics/Items/img/Quaals Feather Token.webp#right]]  
 
 
 This tiny object looks like a feather. Different types of feather tokens exist, each with a different single-use effect. The DM chooses the kind of token or determines it randomly.

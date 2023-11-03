@@ -57,6 +57,7 @@ A blink dog takes its name from its ability to blink in and out of existence, a 
 - "MOT"
 - "TCE"
 - "WBtW"
+- "SatO"
 "image": "compendium/bestiary/fey/token/blink-dog.png"
 ```
 ^statblock

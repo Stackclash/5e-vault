@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/5
 - monster/size/medium
 - monster/type/humanoid/orc
+statblock: inline
 aliases: ["Oregg Steeltwister"]
 ---
-# Oregg Steeltwister
+# [Oregg Steeltwister](compendium\bestiary\npc/oregg-steeltwister-saf.md)
 *Source: Strongholds and Followers p. 142*  
 
 This orc, the only sorcerer in the White Tusk clan, is Bonebreaker Dorokor's lieutenant and master of discipline. He does not fully understand Dorokor's schemes and games of diplomacy, but follows her instructions dutifully, hoping one day to win not just her favor, but also her heart.
@@ -16,7 +19,7 @@ When Dorokor is not around, he grumbles about keeping the human boy Edmund hosta
 As master of discipline, Oregg's favorite way to get an orc to behave or torture prisoners is to lock them in their own armor and cast heat metal to sear their flesh. He has practiced this spell for years, bartering with the druids of other orc tribes to unlock its magical secrets.
 
 ```statblock
-"name": "Oregg Steeltwister"
+"name": "Oregg Steeltwister (SaF)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "orc"
@@ -33,11 +36,11 @@ As master of discipline, Oregg's favorite way to get an orc to behave or torture
 - !!int "18"
 "speed": "30 ft."
 "saves":
-  "Wisdom": "+3"
-  "Strength": "+5"
+  "Wisdom": !!int "3"
+  "Strength": !!int "5"
 "skillsaves":
-  "Athletics": "+5"
-  "Arcana": "+5"
+  "Athletics": !!int "5"
+  "Arcana": !!int "5"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Orc, Common"
 "cr": "5"
@@ -46,10 +49,10 @@ As master of discipline, Oregg's favorite way to get an orc to behave or torture
     \ modifier is\n\nCharisma (spell save DC 15, dice: d20+7 (+7 to hit) with spell\n\
     \nattacks). He has the following sorcerer spells prepared:\n\nCantrips (at will):\
     \ firebolt, [[5. Mechanics/Spells/Message.md|message]], [[5. Mechanics/Spells/Poison Spray.md|poison spray]],\
-    \ [[5. Mechanics/Spells/True Strike.md|true strike]]\n\n1st level (4 1st-level\
-    \ slots): [[5. Mechanics/Spells/Magic Missile.md|magic missile]], [[5. Mechanics/Spells/Shield.md|shield]]\n\
-    \n2nd level (3 2nd-level slots): [[5. Mechanics/Spells/Heat Metal.md|heat metal]]\n\
-    \n3rd level (2 3rd-level slots): [[5. Mechanics/Spells/Fly.md|fly]], [[5. Mechanics/Spells/Fireball.md|fireball]]"
+    \ [[5. Mechanics/Spells/True Strike.md|true strike]]\n\n1st level (4 slots):\
+    \ [[5. Mechanics/Spells/Magic Missile.md|magic missile]], [[5. Mechanics/Spells/Shield.md|shield]]\n\
+    \n2nd level (3 slots): [[5. Mechanics/Spells/Heat Metal.md|heat metal]]\n\n3rd\
+    \ level (2 slots): [[5. Mechanics/Spells/Fly.md|fly]], [[5. Mechanics/Spells/Fireball.md|fireball]]"
   "name": "spells"
 - "desc": "As a bonus action, the orc can move up to its speed toward a hostile creature\
     \ it can see."

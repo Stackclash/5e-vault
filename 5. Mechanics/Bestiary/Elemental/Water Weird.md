@@ -85,6 +85,8 @@ A water weird doesn't require air, food, drink, or sleep.
 - "CM"
 - "JttRC"
 - "DSotDQ"
+- "PaBTSO"
+- "LK"
 "image": "compendium/bestiary/elemental/token/water-weird.png"
 ```
 ^statblock

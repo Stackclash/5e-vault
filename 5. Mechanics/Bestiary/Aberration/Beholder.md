@@ -145,6 +145,9 @@ A beholder's central lair is typically a large, spacious cavern with high ceilin
 - "JttRC"
 - "LoX"
 - "KftGV"
+- "PaBTSO"
+- "SatO"
+- "ToFW"
 "image": "5. Mechanics/Bestiary/Aberration/token/beholder.png"
 ```
 ^statblock

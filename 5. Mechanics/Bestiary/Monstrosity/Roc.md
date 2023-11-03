@@ -86,6 +86,7 @@ Sometimes a roc's nest contains treasures from the caravans or ships they raid, 
 - "IDRotF"
 - "CM"
 - "WBtW"
+- "SatO"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/roc.png"
 ```
 ^statblock

@@ -84,6 +84,8 @@ Hydras are natural swimmers, dwelling in rivers, along lakeshores, in ocean shal
 - "JttRC"
 - "LoX"
 - "PSZ"
+- "PaBTSO"
+- "SatO"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/hydra.png"
 ```
 ^statblock

@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/8
 - monster/size/medium
 - monster/type/elemental
+statblock: inline
 aliases: ["Knight of Air"]
 ---
-# Knight of Air
+# [Knight of Air](compendium\bestiary\elemental/knight-of-air-saf.md)
 *Source: Strongholds and Followers p. 190*  
 
 The Knights of Alloy enjoy the privilege of being neutral in the conflicts that rage across the timescape. Because Alloy is neutral ground, the Knights are often seen in the company of visiting members of the Court of Arcadia (especially the Mantis Knights or the Orchid Count) or the Knights of Axiom. Even the unchanging changers from the Court of All Flesh are welcome. The Knights of Fire seem to enjoy the company of Korsoth Vastikan especially.
@@ -22,7 +25,7 @@ A Knight of Air is pretty straightforward, relying primarily on The Sword of Clo
 Otherwise, the Wind Lords use their high Armor Class and crazy-good movement to get where they need to engage enemies in melee, often blowing right past enemies, enduring attacks of opportunity, relying on their plate and shield to survive.
 
 ```statblock
-"name": "Knight of Air"
+"name": "Knight of Air (SaF)"
 "size": "Medium"
 "type": "elemental"
 "alignment": "Neutral"
@@ -38,14 +41,16 @@ Otherwise, the Wind Lords use their high Armor Class and crazy-good movement to 
 - !!int "16"
 "speed": "40 ft., fly 40 ft."
 "saves":
-  "Charisma": "+6"
-  "Dexterity": "+9"
+  "Charisma": !!int "6"
+  "Dexterity": !!int "9"
 "skillsaves":
-  "Stealth": "+9"
-  "Perception": "+5"
-  "Acrobatics": "+9"
+  "Stealth": !!int "9"
+  "Perception": !!int "5"
+  "Acrobatics": !!int "9"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical weapons"
-"condition_immunities": "exhaustion, paralyzed, petrified, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "Auran, Common"
 "cr": "8"

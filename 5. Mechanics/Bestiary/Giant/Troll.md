@@ -81,6 +81,7 @@ Their regenerative capabilities make trolls especially susceptible to mutation. 
 - "SLW"
 - "EGW"
 - "PSZ"
+- "SatO"
 "image": "5. Mechanics/Bestiary/Giant/token/troll.png"
 ```
 ^statblock

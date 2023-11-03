@@ -5,14 +5,13 @@ tags:
 - compendium/src/5e/saf
 - item/gear/requires-installation
 - item/rarity/rare
-aliases: ["Candles of Accord"]
+aliases: 
+- "Candles of Accord"
 ---
 # Candles of Accord
 *requires installation, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/candles-accord.jpg#right)  
 
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 This pair of red wax candles burn magically without consuming fuel, symbolizing the alliance between the two holders of the candles. If one candle is lit without the other, it merely provides normal candlelight indefinitely, and extinguishing it does not affect the other candle.
 

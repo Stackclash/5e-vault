@@ -11,7 +11,7 @@ aliases:
 ---
 # Necklace of Fireballs
 *Wondrous Item, minor, rare*  
-![[5. Mechanics/Items/img/necklace-of-fireballs.jpg#right]]  
+![[5. Mechanics/Items/img/Necklace Of Fireballs.webp#right]]  
 
 - **Weight**: 1.0 lbs.
 

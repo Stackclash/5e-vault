@@ -82,6 +82,7 @@ Hell hounds are smarter than mundane beasts, and their lawful nature makes them 
 - "CM"
 - "KftGV"
 - "PSI"
+- "SatO"
 "image": "compendium/bestiary/fiend/token/hell-hound.png"
 ```
 ^statblock

@@ -11,7 +11,7 @@ aliases:
 ---
 # Bag of Devouring
 *Wondrous Item, minor, very rare*  
-![[5. Mechanics/Items/img/bag-of-devouring.jpg#right]]  
+![[5. Mechanics/Items/img/Bag Of Devouring.webp#right]]  
 
 - **Weight**: 15.0 lbs.
 

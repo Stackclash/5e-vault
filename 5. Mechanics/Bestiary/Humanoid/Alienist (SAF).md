@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/unknown
 - monster/size/medium
 - monster/type/humanoid/any-race
+statblock: inline
 aliases: ["Alienist"]
 ---
-# Alienist
+# [Alienist](compendium\bestiary\humanoid/alienist-saf.md)
 *Source: Strongholds and Followers p. 80*  
 
 ```statblock
-"name": "Alienist"
+"name": "Alienist (SaF)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "any race"
@@ -25,15 +28,15 @@ aliases: ["Alienist"]
 - !!int "18"
 "speed": "30 ft. (dependant on ancestry)"
 "saves":
-  "Charisma": "+6"
-  "Dexterity": "+3"
-  "Wisdom": "+6"
-  "Intelligence": "+3"
-  "Strength": "+3"
-  "Constitution": "+3"
+  "Charisma": !!int "6"
+  "Dexterity": !!int "3"
+  "Wisdom": !!int "6"
+  "Intelligence": !!int "3"
+  "Strength": !!int "3"
+  "Constitution": !!int "3"
 "skillsaves":
-  "Investigation": "+5"
-  "Religion": "+5"
+  "Investigation": !!int "5"
+  "Religion": !!int "5"
 "senses": "appropriate to ancestry, passive Perception 12"
 "languages": "appropriate to ancestry (usually Common)"
 "cr": "Unknown"

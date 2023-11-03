@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/unknown
 - monster/size/medium
 - monster/type/humanoid/any-race
+statblock: inline
 aliases: ["Cutpurse"]
 ---
-# Cutpurse
+# [Cutpurse](compendium\bestiary\humanoid/cutpurse-saf.md)
 *Source: Strongholds and Followers p. 79*  
 
 ```statblock
-"name": "Cutpurse"
+"name": "Cutpurse (SaF)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "any race"
@@ -25,17 +28,17 @@ aliases: ["Cutpurse"]
 - !!int "14"
 "speed": "30 ft. (dependant on ancestry)"
 "saves":
-  "Charisma": "+3"
-  "Dexterity": "+6"
-  "Wisdom": "+3"
-  "Intelligence": "+6"
-  "Strength": "+3"
-  "Constitution": "+3"
+  "Charisma": !!int "3"
+  "Dexterity": !!int "6"
+  "Wisdom": !!int "3"
+  "Intelligence": !!int "6"
+  "Strength": !!int "3"
+  "Constitution": !!int "3"
 "skillsaves":
-  "Sleight of Hand": "+5"
-  "Deception": "+5"
-  "Stealth": "+5"
-  "Acrobatics": "+5"
+  "Sleight of Hand": !!int "5"
+  "Deception": !!int "5"
+  "Stealth": !!int "5"
+  "Acrobatics": !!int "5"
 "senses": "appropriate to ancestry, passive Perception 12"
 "languages": "appropriate to ancestry (usually Common)"
 "cr": "Unknown"

@@ -97,6 +97,8 @@ An archmage typically has one or more apprentice mages, and an archmage's abode 
 - "LoX"
 - "DSotDQ"
 - "KftGV"
+- "SatO"
+- "ToFW"
 "image": "5. Mechanics/Bestiary/Humanoid/token/archmage.png"
 ```
 ^statblock

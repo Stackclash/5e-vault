@@ -75,6 +75,8 @@ A stirge attacks by landing on a victim, finding a vulnerable spot, and plunging
 - "EGW"
 - "DoSI"
 - "KftGV"
+- "HftT"
+- "PaBTSO"
 "image": "5. Mechanics/Bestiary/Beast/token/stirge.png"
 ```
 ^statblock

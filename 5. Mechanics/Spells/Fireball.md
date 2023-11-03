@@ -18,6 +18,7 @@ aliases: ["Fireball"]
 # Fireball
 %%-- Embedded content starts on the next line. --%%
 *3rd-level, Evocation*  
+![[5. Mechanics/Spells/img/Fireball.webp#right]]  
 
 - **Casting time:** 1 action
 - **Range:** 150 feet

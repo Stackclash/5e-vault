@@ -138,6 +138,7 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
 - "SLW"
 - "IDRotF"
 - "CRCotN"
+- "PaBTSO"
 "image": "compendium/bestiary/humanoid/token/drow-elite-warrior.png"
 ```
 ^statblock

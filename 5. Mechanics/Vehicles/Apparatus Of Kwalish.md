@@ -12,6 +12,7 @@ aliases: ["Apparatus of Kwalish"]
 %%-- Embedded content starts on the next line. --%%
 *Source: Dungeon Master's Guide p. 151. Available in the SRD (as 'Apparatus of the Crab').*  
 
+
 ```ad-statblock
 title: Apparatus of Kwalish
 *Large vehicle; sea*

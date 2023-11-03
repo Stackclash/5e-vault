@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/4
 - monster/size/medium
 - monster/type/humanoid/orc
+statblock: inline
 aliases: ["White Tusk Bloodrager"]
 ---
-# White Tusk Bloodrager
+# [White Tusk Bloodrager](compendium\bestiary\humanoid/white-tusk-bloodrager-saf.md)
 *Source: Strongholds and Followers p. 139*  
 
 Bloodragers of the White Tusk clan practice the art of death and express their mastery with precise strokes of their dual falchions. They are the most disciplined orcs in the White Tusk clan, and train daily with Bonebreaker Dorokor to hone their Skills.
@@ -14,7 +17,7 @@ Bloodragers of the White Tusk clan practice the art of death and express their m
 Through constant training, orcish bloodragers have developed a state of pure focus. In this cold fury, their sword strokes rend flesh with preternatural ease and their powerful bodies simply refuse to die.
 
 ```statblock
-"name": "White Tusk Bloodrager"
+"name": "White Tusk Bloodrager (SaF)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "orc"
@@ -31,10 +34,10 @@ Through constant training, orcish bloodragers have developed a state of pure foc
 - !!int "9"
 "speed": "30 ft."
 "saves":
-  "Dexterity": "+4"
+  "Dexterity": !!int "4"
 "skillsaves":
-  "Athletics": "+5"
-  "Perception": "+3"
+  "Athletics": !!int "5"
+  "Perception": !!int "3"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Orc"
 "cr": "4"

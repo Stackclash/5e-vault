@@ -81,6 +81,8 @@ An animated object doesn't require air, food, drink, or sleep. The magic that an
 - "CM"
 - "WBtW"
 - "KftGV"
+- "PaBTSO"
+- "SatO"
 "image": "compendium/bestiary/construct/token/animated-armor.png"
 ```
 ^statblock

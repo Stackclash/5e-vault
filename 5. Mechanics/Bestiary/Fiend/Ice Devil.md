@@ -218,6 +218,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - "MM"
 - "BGDIA"
 - "TCE"
+- "SatO"
 "image": "compendium/bestiary/fiend/token/ice-devil.png"
 ```
 ^statblock

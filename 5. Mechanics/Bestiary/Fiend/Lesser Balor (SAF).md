@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/10
 - monster/size/large
 - monster/type/fiend/demon
+statblock: inline
 aliases: ["Lesser Balor"]
 ---
-# Lesser Balor
+# [Lesser Balor](compendium\bestiary\fiend/lesser-balor-saf.md)
 *Source: Strongholds and Followers p. 153*  
 
 ```statblock
-"name": "Lesser Balor"
+"name": "Lesser Balor (SaF)"
 "size": "Large"
 "type": "fiend"
 "subtype": "demon"
@@ -27,14 +30,14 @@ aliases: ["Lesser Balor"]
 - !!int "18"
 "speed": "40 ft., fly 80 ft."
 "saves":
-  "Charisma": "+8"
-  "Wisdom": "+6"
-  "Strength": "+9"
-  "Constitution": "+8"
+  "Charisma": !!int "8"
+  "Wisdom": !!int "6"
+  "Strength": !!int "9"
+  "Constitution": !!int "8"
 "damage_resistances": "cold; lightning; bludgeoning, piercing, slashing from nonmagical\
   \ weapons"
 "damage_immunities": "fire, poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "truesight 60 ft., passive Perception 13"
 "languages": "Abyssal, telepathy 60 ft."
 "cr": "10"

@@ -94,6 +94,7 @@ An intellect devourer consumes a creature's mind and memories, then turns the ho
 - "WDH"
 - "WDMM"
 - "ERLW"
+- "PaBTSO"
 "image": "compendium/bestiary/aberration/token/intellect-devourer.png"
 ```
 ^statblock

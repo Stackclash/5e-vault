@@ -12,7 +12,7 @@ aliases:
 ---
 # Pipes of the Sewers
 *Instrument, major, uncommon (requires attunement)*  
-![[5. Mechanics/Items/img/pipes-of-the-sewers.jpg#right]]  
+![[5. Mechanics/Items/img/Pipes Of The Sewers.webp#right]]  
 
 - **Weight**: 2.0 lbs.
 

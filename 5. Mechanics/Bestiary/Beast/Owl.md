@@ -53,6 +53,7 @@ aliases: ["Owl"]
 - "IMR"
 - "IDRotF"
 - "CM"
+- "ToFW"
 "image": "5. Mechanics/Bestiary/Beast/token/owl.png"
 ```
 ^statblock

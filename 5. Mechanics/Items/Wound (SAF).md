@@ -9,14 +9,14 @@ tags:
 - item/property/two-handed
 - item/rarity/rare
 - item/weapon/martial/melee
-aliases: ["Wound"]
+aliases: 
+- "Wound"
 ---
 # Wound
 *Melee Weapon, rare (requires attunement by a barbarian)*  
 
 - **Damage**: 1d12 S
-- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], Martial, Requires Attunement, [[/5. Mechanics/Rules/Item Properties.md#Two-handed\|Two-handed]]
-- **Cost**: ⏤
+- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], Martial, [[/5. Mechanics/Rules/Item Properties.md#Two-handed\|Two-handed]]
 - **Weight**: 7.0 lbs.
 
 The wicked edge of this serrated greataxe is permanently coated in dried blood.

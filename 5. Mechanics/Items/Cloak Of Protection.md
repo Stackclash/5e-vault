@@ -12,7 +12,7 @@ aliases:
 ---
 # Cloak of Protection
 *Wondrous Item, major, uncommon (requires attunement)*  
-![[5. Mechanics/Items/img/cloak-of-protection.jpg#right]]  
+![[5. Mechanics/Items/img/Cloak Of Protection.webp#right]]  
 
 
 You gain a +1 bonus to AC and saving throws while you wear this cloak.

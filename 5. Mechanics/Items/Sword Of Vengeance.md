@@ -30,45 +30,4 @@ In addition, while the sword is on your person, you must succeed on a DC 15 Wisd
 
 You can break the curse in the usual ways. Alternatively, casting [[5. Mechanics/Spells/Banishment.md\|banishment]] on the sword forces the vengeful spirit to leave it. The sword then becomes a +1 weapon with no other properties.
 
-**Variants**:
-- [Longsword of Vengeance](#Longsword%20of%20Vengeance)
-- [Double-Bladed Scimitar of Vengeance](#Double-Bladed%20Scimitar%20of%20Vengeance)
-- [Greatsword of Vengeance](#Greatsword%20of%20Vengeance)
-- [Rapier of Vengeance](#Rapier%20of%20Vengeance)
-- [Shortsword of Vengeance](#Shortsword%20of%20Vengeance)
-- [Scimitar of Vengeance](#Scimitar%20of%20Vengeance)
-
-### Longsword of Vengeance
-
-- **Damage**:
-  - One-handed: 1d8 S
-  - Two-handed: 1d10 S
-- **Weight**: 3.0 lbs.
-
-### Double-Bladed Scimitar of Vengeance
-
-- **Damage**: 2d4 S
-- **Weight**: 6.0 lbs.
-
-### Greatsword of Vengeance
-
-- **Damage**: 2d6 S
-- **Weight**: 6.0 lbs.
-
-### Rapier of Vengeance
-
-- **Damage**: 1d8 P
-- **Weight**: 2.0 lbs.
-
-### Shortsword of Vengeance
-
-- **Damage**: 1d6 P
-- **Weight**: 2.0 lbs.
-
-### Scimitar of Vengeance
-
-- **Damage**: 1d6 S
-- **Weight**: 3.0 lbs.
-
-
 *Source: Dungeon Master's Guide p. 206*

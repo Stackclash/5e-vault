@@ -8,6 +8,7 @@ aliases: ["Dwarf"]
 ---
 # Dwarf
 *Source: Player's Handbook p. 18. Available in the SRD and the Basic Rules.*  
+![[5. Mechanics/Races/img/Dwarf.webp#right]]  
 
 - **Ability Scores**: Constitution +2
 - **Type**: race

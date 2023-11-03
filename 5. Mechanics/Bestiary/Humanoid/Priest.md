@@ -86,6 +86,8 @@ Priests bring the teachings of their gods to the common folk. They are the spiri
 - "JttRC"
 - "DSotDQ"
 - "PSI"
+- "SatO"
+- "ToFW"
 "image": "5. Mechanics/Bestiary/Humanoid/token/priest.png"
 ```
 ^statblock

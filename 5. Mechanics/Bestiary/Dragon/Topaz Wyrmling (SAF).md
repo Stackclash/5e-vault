@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/2
 - monster/size/medium
 - monster/type/dragon
+statblock: inline
 aliases: ["Topaz Wyrmling"]
 ---
-# Topaz Wyrmling
+# [Topaz Wyrmling](compendium\bestiary\dragon/topaz-wyrmling-saf.md)
 *Source: Strongholds and Followers p. 219*  
 
 The youngest species, the most enthusiastic about the world, the one you're most likely to meet, topaz dragons study magic obsessively, and their older kin consider this juvenile. When you're older you'll realize magic is just ambient interference from overlapping manifolds constrained by oblique functions. Well, poo on that, look, I made a fireball!
@@ -18,7 +21,7 @@ They all seem like absentminded professors. They accumulate so much lore that th
 They're approachable and easy to talk to as long as you don't mind never getting a straight answer. You'd think they'd be experts on everything, considering how many books they have, but the opposite is true. They can imagine anything and defend it with references, many of which contradict each other.
 
 ```statblock
-"name": "Topaz Wyrmling"
+"name": "Topaz Wyrmling (SaF)"
 "size": "Medium"
 "type": "dragon"
 "alignment": "Neutral Good"
@@ -34,15 +37,15 @@ They're approachable and easy to talk to as long as you don't mind never getting
 - !!int "12"
 "speed": "30 ft., fly 60 ft. (hover)"
 "saves":
-  "Charisma": "+3"
-  "Dexterity": "+3"
-  "Wisdom": "+2"
-  "Intelligence": "+3"
+  "Charisma": !!int "3"
+  "Dexterity": !!int "3"
+  "Wisdom": !!int "2"
+  "Intelligence": !!int "3"
 "skillsaves":
-  "Religion": "+3"
-  "Insight": "+2"
-  "Perception": "+2"
-  "Arcana": "+3"
+  "Religion": !!int "3"
+  "Insight": !!int "2"
+  "Perception": !!int "2"
+  "Arcana": !!int "3"
 "damage_vulnerabilities": "psychic"
 "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 14"
 "languages": "Common, Draconic, telepathy 60 ft."

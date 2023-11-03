@@ -11,7 +11,7 @@ aliases:
 ---
 # Driftglobe
 *Wondrous Item, minor, uncommon*  
-![[5. Mechanics/Items/img/driftglobe.jpg#right]]  
+![[5. Mechanics/Items/img/Driftglobe.webp#right]]  
 
 - **Weight**: 1.0 lbs.
 

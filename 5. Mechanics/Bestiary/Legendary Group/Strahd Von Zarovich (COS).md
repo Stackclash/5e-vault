@@ -11,7 +11,7 @@ aliases: ["Strahd von Zarovich"]
 ## Lair actions
 _Source: Curse of Strahd_
 
-While Strahd is in Castle Ravenloft, he can take lair actions as long as he isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]. 
+While Strahd is in Castle Ravenloft, he can take lair actions as long as he isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]].
 
 On initiative count 20 (losing initiative ties), Strahd can take one of the following lair action options, or forgo using any of them in that round:
 

@@ -48,6 +48,7 @@ aliases: ["Eagle"]
 "source":
 - "MM"
 - "CM"
+- "ToFW"
 "image": "5. Mechanics/Bestiary/Beast/token/eagle.png"
 ```
 ^statblock

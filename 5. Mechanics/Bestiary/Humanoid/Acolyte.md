@@ -70,6 +70,7 @@ Acolytes are junior members of a clergy, usually answerable to a priest. They pe
 - "SjA"
 - "DSotDQ"
 - "PSI"
+- "PaBTSO"
 "image": "5. Mechanics/Bestiary/Humanoid/token/acolyte.png"
 ```
 ^statblock

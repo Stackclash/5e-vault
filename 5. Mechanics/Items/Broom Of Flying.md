@@ -11,7 +11,7 @@ aliases:
 ---
 # Broom of Flying
 *Wondrous Item, major, uncommon*  
-![[5. Mechanics/Items/img/broom-of-flying.jpg#right]]  
+![[5. Mechanics/Items/img/Broom Of Flying.webp#right]]  
 
 - **Weight**: 3.0 lbs.
 

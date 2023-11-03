@@ -16,12 +16,4 @@ aliases:
 
 You have a bonusWeaponAttack bonus to attack rolls made with this weapon.
 
-**Variants**:
-- [+2 Net](#+2%20Net)
-
-### +2 Net
-
-- **Weight**: 3.0 lbs.
-
-
 *Source: Dungeon Master's Guide p. 213*

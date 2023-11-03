@@ -92,6 +92,7 @@ A gibbering mouther leaves nothing of its prey behind. However, even as the last
 - "CRCotN"
 - "JttRC"
 - "KftGV"
+- "PaBTSO"
 "image": "compendium/bestiary/aberration/token/gibbering-mouther.png"
 ```
 ^statblock

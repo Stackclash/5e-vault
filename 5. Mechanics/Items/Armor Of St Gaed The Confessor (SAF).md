@@ -5,7 +5,8 @@ tags:
 - compendium/src/5e/saf
 - item/armor/heavy
 - item/rarity/unknown/magic
-aliases: ["Armor of St. Gaed the Confessor"]
+aliases: 
+- "Armor of St. Gaed the Confessor"
 ---
 # Armor of St. Gaed the Confessor
 *Heavy Armor, unknown (magic)*  
@@ -14,7 +15,6 @@ aliases: ["Armor of St. Gaed the Confessor"]
 - **Armor Class**: 18
 - **Strength**: Requires 15 STR.
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Cost**: ⏤
 - **Weight**: 65.0 lbs.
 
 This set of magic plate mail covered in silver filigree grants +1 Armor Class to the wearer. Also, once per month, the owner can summon the spirits of the Blue Dragon Phalanx to aid them in battle. The Phalanx serves for 1 hour or two battles, whichever happens first.

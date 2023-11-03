@@ -40,6 +40,7 @@ aliases: ["Pony"]
 - "MM"
 - "SKT"
 - "WBtW"
+- "SatO"
 "image": "5. Mechanics/Bestiary/Beast/token/pony.png"
 ```
 ^statblock

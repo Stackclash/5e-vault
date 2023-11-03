@@ -56,6 +56,7 @@ Smaller than a giant shark but larger and fiercer than a reef shark, a hunter sh
 - "DIP"
 - "EGW"
 - "PSX"
+- "SatO"
 "image": "compendium/bestiary/beast/token/hunter-shark.png"
 ```
 ^statblock

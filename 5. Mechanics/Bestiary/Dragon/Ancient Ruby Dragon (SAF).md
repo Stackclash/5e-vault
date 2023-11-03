@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/23
 - monster/size/gargantuan
 - monster/type/dragon
+statblock: inline
 aliases: ["Ancient Ruby Dragon"]
 ---
-# Ancient Ruby Dragon
+# [Ancient Ruby Dragon](compendium\bestiary\dragon/ancient-ruby-dragon-saf.md)
 *Source: Strongholds and Followers p. 203*  
 
 The rubies protect the knowledge of reality, which they call realitas, the essential thing that separates real things from illusion.
@@ -16,7 +19,7 @@ They alone understand the danger that illusionists present to the Mundane World,
 They are measured and formal, slow to give trust. They like seeing things done properly, traditions obeyed and upheld. If you approach one with respect and introduce yourself properly and do not saw the air too much with your hands, then they will listen and grant you the opportunity to impress them.
 
 ```statblock
-"name": "Ancient Ruby Dragon"
+"name": "Ancient Ruby Dragon (SaF)"
 "size": "Gargantuan"
 "type": "dragon"
 "alignment": "Lawful Neutral"
@@ -32,15 +35,15 @@ They are measured and formal, slow to give trust. They like seeing things done p
 - !!int "24"
 "speed": "40 ft., fly 80 ft. (hover)"
 "saves":
-  "Charisma": "+14"
-  "Dexterity": "+15"
-  "Wisdom": "+11"
-  "Intelligence": "+15"
+  "Charisma": !!int "14"
+  "Dexterity": !!int "15"
+  "Wisdom": !!int "11"
+  "Intelligence": !!int "15"
 "skillsaves":
-  "Religion": "+15"
-  "Insight": "+11"
-  "Perception": "+11"
-  "Arcana": "+15"
+  "Religion": !!int "15"
+  "Insight": !!int "11"
+  "Perception": !!int "11"
+  "Arcana": !!int "15"
 "damage_vulnerabilities": "psychic"
 "damage_resistances": "bludgeoning, slashing, piercing from nonmagical weapons"
 "damage_immunities": "fire, lightning"

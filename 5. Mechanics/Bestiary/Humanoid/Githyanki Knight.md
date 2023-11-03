@@ -102,6 +102,9 @@ Whether these tall, gaunt creatures were peaceful or savage, cultured or primiti
 - "MM"
 - "WDMM"
 - "LoX"
+- "PaBTSO"
+- "AATM"
+- "SatO"
 "image": "compendium/bestiary/humanoid/token/githyanki-knight.png"
 ```
 ^statblock

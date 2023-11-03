@@ -10,7 +10,7 @@ cost: 1 cp
 ---
 # Copper (cp)
 *Treasure*  
-![[5. Mechanics/Items/img/copper-cp.jpg#right]]  
+![[5. Mechanics/Items/img/Copper Cp.webp#right]]  
 
 - **Cost**: 1 cp
 - **Weight**: 0.02 lbs.

@@ -99,6 +99,8 @@ Planetars are muscular and hairless and have opalescent green skin and white-fea
 - "BGDIA"
 - "CRCotN"
 - "JttRC"
+- "AATM"
+- "SatO"
 "image": "5. Mechanics/Bestiary/Celestial/token/planetar.png"
 ```
 ^statblock

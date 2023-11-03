@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/3
 - monster/size/medium
 - monster/type/humanoid/orc
+statblock: inline
 aliases: ["White Tusk Warspeaker"]
 ---
-# White Tusk Warspeaker
+# [White Tusk Warspeaker](compendium\bestiary\humanoid/white-tusk-warspeaker-saf.md)
 *Source: Strongholds and Followers p. 140*  
 
 Priests of Grole, orcish god of war and slaughter, live for the chance to kill in the name of their bloodstained god. Dressed in war-robes of scavenged leather and mail, these priests bestow the blessing of pain upon their allies, goading them to die gloriously in combat in the name of Grole.
@@ -14,7 +17,7 @@ Priests of Grole, orcish god of war and slaughter, live for the chance to kill i
 Warspeakers seek conflict constantly, flying into a frothing rage at the slightest provocation. When their clan is at peace, they scheme and search for ways to trick or coerce their chieftain into attacking—and if they cannot, they scheme against their chieftain and convince a more aggressive orc into supplanting their "soft, peace-loving" leader.
 
 ```statblock
-"name": "White Tusk Warspeaker"
+"name": "White Tusk Warspeaker (SaF)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "orc"
@@ -31,10 +34,10 @@ Warspeakers seek conflict constantly, flying into a frothing rage at the slighte
 - !!int "12"
 "speed": "30 ft."
 "saves":
-  "Wisdom": "+5"
+  "Wisdom": !!int "5"
 "skillsaves":
-  "Religion": "+4"
-  "Persuasion": "+3"
+  "Religion": !!int "4"
+  "Persuasion": !!int "3"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Orc"
 "cr": "3"
@@ -43,12 +46,12 @@ Warspeakers seek conflict constantly, flying into a frothing rage at the slighte
     \ (spell save DC 13, dice: d20+5 (+5 to hit) with spell attacks). The orc has\
     \ the following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Resistance.md|resistance]],\
     \ [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
-    \n1st level (4 1st-level slots): [[5. Mechanics/Spells/Cure Wounds.md|cure wounds]],\
-    \ [[5. Mechanics/Spells/Guiding Bolt.md|guiding bolt]], [[5. Mechanics/Spells/Inflict Wounds.md|inflict wounds]]\n\
-    \n2nd level (3 2nd-level slots): [blindness/deafness](compendium/spells/blindness-deafness.md),\
+    \n1st level (4 slots): [[5. Mechanics/Spells/Cure Wounds.md|cure wounds]], [guiding\
+    \ bolt](compendium/spells/guiding-bolt.md), [[5. Mechanics/Spells/Inflict Wounds.md|inflict wounds]]\n\
+    \n2nd level (3 slots): [blindness/deafness](compendium/spells/blindness-deafness.md),\
     \ [[5. Mechanics/Spells/Spiritual Weapon.md|spiritual weapon]] (greataxe)\n\n3rd\
-    \ level (2 3rd-level slots): [[5. Mechanics/Spells/Bestow Curse.md|bestow curse]],\
-    \ [[5. Mechanics/Spells/Spirit Guardians.md|spirit guardians]]"
+    \ level (2 slots): [[5. Mechanics/Spells/Bestow Curse.md|bestow curse]], [spirit\
+    \ guardians](compendium/spells/spirit-guardians.md)"
   "name": "spells"
 - "desc": "As a bonus action, the orc can move up to its speed toward a hostile creature\
     \ it can see."

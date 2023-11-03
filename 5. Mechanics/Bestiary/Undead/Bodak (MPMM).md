@@ -85,6 +85,7 @@ A bodak retains vague impressions of its past life. It seeks out its former alli
 "source":
 - "MPMM"
 - "VGM"
+- "SatO"
 "image": "5. Mechanics/Bestiary/Undead/token/bodak.png"
 ```
 ^statblock

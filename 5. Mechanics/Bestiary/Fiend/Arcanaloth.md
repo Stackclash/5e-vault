@@ -151,6 +151,9 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 - "TCE"
 - "KftGV"
 - "PSI"
+- "PaBTSO"
+- "AATM"
+- "SatO"
 "image": "5. Mechanics/Bestiary/Fiend/token/arcanaloth.png"
 ```
 ^statblock

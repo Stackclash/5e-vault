@@ -57,6 +57,8 @@ aliases: ["Dire Wolf"]
 - "GoS"
 - "IDRotF"
 - "JttRC"
+- "PaBTSO"
+- "ToFW"
 "image": "compendium/bestiary/beast/token/dire-wolf.png"
 ```
 ^statblock

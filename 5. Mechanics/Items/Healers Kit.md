@@ -10,7 +10,7 @@ cost: 5 gp
 ---
 # Healer's Kit
 *Adventuring Gear*  
-![[5. Mechanics/Items/img/healers-kit.jpg#right]]  
+![[5. Mechanics/Items/img/Healers Kit.webp#right]]  
 
 - **Cost**: 5 gp
 - **Weight**: 3.0 lbs.

@@ -77,6 +77,7 @@ A poltergeist is the confused, invisible spirit of an individual with no sense o
 - "CM"
 - "KftGV"
 - "PSI"
+- "ToFW"
 "image": "5. Mechanics/Bestiary/Undead/token/poltergeist.png"
 ```
 ^statblock

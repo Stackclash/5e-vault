@@ -259,6 +259,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - "WDMM"
 - "EGW"
 - "CRCotN"
+- "PaBTSO"
 "image": "5. Mechanics/Bestiary/Fiend/token/yochlol.png"
 ```
 ^statblock

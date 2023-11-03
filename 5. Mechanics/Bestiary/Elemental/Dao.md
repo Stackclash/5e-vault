@@ -124,6 +124,7 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
 - "BGDIA"
 - "TCE"
 - "CM"
+- "SatO"
 "image": "5. Mechanics/Bestiary/Elemental/token/dao.png"
 ```
 ^statblock

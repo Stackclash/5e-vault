@@ -68,6 +68,7 @@ Any creature that comes into contact with a single rot grub must succeed on a DC
 "source":
 - "MPMM"
 - "VGM"
+- "AATM"
 "image": "compendium/bestiary/beast/token/swarm-of-rot-grubs.png"
 ```
 ^statblock

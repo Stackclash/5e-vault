@@ -6,15 +6,13 @@ tags:
 - item/attunement/required
 - item/rarity/artifact
 - item/wondrous
-aliases: ["Codex Miror"]
+aliases: 
+- "Codex Miror"
 ---
 # Codex Miror
 *Wondrous Item, artifact (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/codex-miror.jpg#right)  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 Written by Durthara, the Empress's Archmage, the Book of Wonder is the first recorded codex and gave the Age of Wonder its name. In those days, the Ganarajyan Empire's word for "magic" translated as "wonder" or "marvel." Magic, then, was newly discovered by Men and seemed a limitless resource. Spells were invented, made fashionable, and forgotten before anyone knew they could be written down.
 

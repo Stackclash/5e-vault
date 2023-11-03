@@ -122,6 +122,7 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 - "GoS"
 - "ERLW"
 - "EGW"
+- "SatO"
 "image": "compendium/bestiary/giant/token/hill-giant.png"
 ```
 ^statblock

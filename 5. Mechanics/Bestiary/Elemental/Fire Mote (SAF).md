@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/5
 - monster/size/small
 - monster/type/elemental
+statblock: inline
 aliases: ["Fire Mote"]
 ---
-# Fire Mote
+# [Fire Mote](compendium\bestiary\elemental/fire-mote-saf.md)
 *Source: Strongholds and Followers p. 186*  
 
 The motes are elemental sprites, tricksters, mischievous imps who enjoy sticking their noses into other people's business, harassing anyone who looks suspicious until the more puissant authorities arrive.
@@ -18,7 +21,7 @@ The fire motes in particular enjoy tormenting spellcasters, teasing them, trying
 The fire mote has an instinctive awareness of which enemies on the battlefield rely on concentration spells and move into their space, making their life as annoying as possible.
 
 ```statblock
-"name": "Fire Mote"
+"name": "Fire Mote (SaF)"
 "size": "Small"
 "type": "elemental"
 "alignment": "Neutral"
@@ -34,10 +37,12 @@ The fire mote has an instinctive awareness of which enemies on the battlefield r
 - !!int "12"
 "speed": "40 ft."
 "saves":
-  "Dexterity": "+6"
+  "Dexterity": !!int "6"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical weapons"
 "damage_immunities": "fire"
-"condition_immunities": "exhaustion, paralyzed, petrified, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Common, Ignan"
 "cr": "5"

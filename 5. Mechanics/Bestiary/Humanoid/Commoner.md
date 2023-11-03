@@ -76,6 +76,10 @@ Commoners include peasants, serfs, slaves, servants, pilgrims, merchants, artisa
 - "DSotDQ"
 - "KftGV"
 - "GotSF"
+- "PaBTSO"
+- "AATM"
+- "SatO"
+- "ToFW"
 "image": "5. Mechanics/Bestiary/Humanoid/token/commoner.png"
 ```
 ^statblock

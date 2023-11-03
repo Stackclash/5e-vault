@@ -103,6 +103,8 @@ A will-o'-wisp doesn't require air, drink, or sleep.
 - "JttRC"
 - "LoX"
 - "PSI"
+- "AATM"
+- "SatO"
 "image": "compendium/bestiary/undead/token/will-o-wisp.png"
 ```
 ^statblock

@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/5
 - monster/size/medium
 - monster/type/fiend/demon
+statblock: inline
 aliases: ["Lesser Marilith"]
 ---
-# Lesser Marilith
+# [Lesser Marilith](compendium\bestiary\fiend/lesser-marilith-saf.md)
 *Source: Strongholds and Followers p. 151*  
 
 ```statblock
-"name": "Lesser Marilith"
+"name": "Lesser Marilith (SaF)"
 "size": "Medium"
 "type": "fiend"
 "subtype": "demon"
@@ -27,12 +30,12 @@ aliases: ["Lesser Marilith"]
 - !!int "17"
 "speed": "40 ft."
 "saves":
-  "Charisma": "+6"
-  "Wisdom": "+5"
+  "Charisma": !!int "6"
+  "Wisdom": !!int "5"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical weapons"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "truesight 60 ft., passive Perception 13"
 "languages": "Abyssal, telepathy 60 ft."
 "cr": "5"

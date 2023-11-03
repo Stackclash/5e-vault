@@ -12,7 +12,7 @@ aliases:
 ---
 # Amulet of Health
 *Wondrous Item, major, rare (requires attunement)*  
-![[5. Mechanics/Items/img/amulet-of-health.jpg#right]]  
+![[5. Mechanics/Items/img/Amulet Of Health.webp#right]]  
 
 - **Weight**: 1.0 lbs.
 

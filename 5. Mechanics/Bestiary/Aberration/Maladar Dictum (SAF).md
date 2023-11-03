@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/10
 - monster/size/huge
 - monster/type/aberration
+statblock: inline
 aliases: ["Maladar Dictum"]
 ---
-# Maladar Dictum
+# [Maladar Dictum](compendium\bestiary\aberration/maladar-dictum-saf.md)
 *Source: Strongholds and Followers p. 175*  
 
 Currently one of the Dukes of Chaos, Lord Dictum serves the Red Queen. He is ambitious and plans to replace both the King and Queen...but so do all the Dukes and Duchesses of Chaos. For now, Dictum bides his time and waits.
@@ -24,7 +27,7 @@ This dude...you really don't want to damage this guy, it's only going to make th
 If you really want to see things get out of control very quickly, watch Maladar summon Korsoth Vastikan and stand back as the Duke of Chaos orders his ranger to fire four arrows from Formkiller into him. Boom! Instant four extra attacks per round oh my god. Whose idea was this? Madness!
 
 ```statblock
-"name": "Maladar Dictum"
+"name": "Maladar Dictum (SaF)"
 "size": "Huge"
 "type": "aberration"
 "alignment": "Chaotic"
@@ -40,18 +43,18 @@ If you really want to see things get out of control very quickly, watch Maladar 
 - !!int "16"
 "speed": "30 ft."
 "saves":
-  "Charisma": "+7"
-  "Dexterity": "+6"
-  "Wisdom": "+4"
-  "Strength": "+9"
-  "Constitution": "+8"
+  "Charisma": !!int "7"
+  "Dexterity": !!int "6"
+  "Wisdom": !!int "4"
+  "Strength": !!int "9"
+  "Constitution": !!int "8"
 "skillsaves":
-  "Intimidation": "+7"
-  "Athletics": "+9"
-  "Deception": "+7"
-  "Insight": "+4"
+  "Intimidation": !!int "7"
+  "Athletics": !!int "9"
+  "Deception": !!int "7"
+  "Insight": !!int "4"
 "damage_resistances": "psychic"
-"condition_immunities": "charmed, petrified"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]]"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Common, Deep Speech, Primordial"
 "cr": "10"

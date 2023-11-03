@@ -8,7 +8,8 @@ tags:
 - item/property/versatile
 - item/rarity/very-rare
 - item/weapon/martial/melee
-aliases: ["Disruptor"]
+aliases: 
+- "Disruptor"
 ---
 # Disruptor
 *Melee Weapon, very rare (requires attunement by a chaotic creature)*  
@@ -17,8 +18,7 @@ aliases: ["Disruptor"]
 - **Damage**:
   - One-handed: 1d8 S
   - Two-handed: 1d10 S
-- **Properties**: Martial, Requires Attunement, [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
-- **Cost**: ⏤
+- **Properties**: Martial, [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 3.0 lbs.
 
 If you are a neutral character, this dull grey longsword functions as a normal weapon with no bonus or special properties. If you are lawful, touching Disruptor deals `dice: 2d8|avg` (`2d8`) necrotic damage to you. If you are a chaotic character, you can use Disruptor as a magic weapon with the following properties.

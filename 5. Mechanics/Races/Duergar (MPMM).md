@@ -8,6 +8,7 @@ aliases: ["Duergar"]
 ---
 # Duergar
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 12*  
+![[5. Mechanics/Races/img/Duergar.webp#right]]  
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Type**: race

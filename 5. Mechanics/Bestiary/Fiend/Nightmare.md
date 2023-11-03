@@ -63,6 +63,8 @@ Nightmares don't appear naturally in the multiverse. They must be created from p
 - "MOT"
 - "CoS"
 - "CRCotN"
+- "AATM"
+- "SatO"
 "image": "5. Mechanics/Bestiary/Fiend/token/nightmare.png"
 ```
 ^statblock

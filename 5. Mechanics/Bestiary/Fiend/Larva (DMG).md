@@ -38,6 +38,8 @@ aliases: ["Larva (DMG)"]
 "source":
 - "DMG"
 - "BGDIA"
+- "SatO"
+- "ToFW"
 "image": "5. Mechanics/Bestiary/Fiend/token/larva.png"
 ```
 ^statblock

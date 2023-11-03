@@ -123,6 +123,7 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
 - "TCE"
 - "JttRC"
 - "KftGV"
+- "SatO"
 "image": "5. Mechanics/Bestiary/Elemental/token/efreeti.png"
 ```
 ^statblock

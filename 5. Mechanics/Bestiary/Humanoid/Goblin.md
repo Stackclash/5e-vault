@@ -99,6 +99,9 @@ Maglubiyet the Mighty One, the Lord of Depths and Darkness, is the greater god o
 - "WBtW"
 - "CRCotN"
 - "DSotDQ"
+- "HftT"
+- "PaBTSO"
+- "SatO"
 "image": "5. Mechanics/Bestiary/Humanoid/token/goblin.png"
 ```
 ^statblock

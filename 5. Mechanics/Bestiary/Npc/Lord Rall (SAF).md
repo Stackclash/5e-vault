@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/8
 - monster/size/medium
 - monster/type/aberration
+statblock: inline
 aliases: ["Lord Rall"]
 ---
-# Lord Rall
+# [Lord Rall](compendium\bestiary\npc/lord-rall-saf.md)
 *Source: Strongholds and Followers p. 171*  
 
 The Vizier of the Court, Lord Rall is Maladar's personal wizard. Once Lord Rall had a more conventional form, but he forgot it somewhere and never seemed to notice. As he demonstrates in battle, he can reform himself out of any old organs you may have lying around.
@@ -22,7 +25,7 @@ Rall is a potent wizard. Unlike the Queen of Bone, Rall is not particularly inte
 Lord Rall channels his power through The Staff of Changing ^[Like all the servitor items, it possesses no magic of its own, so the players don't suddenly come into possession of a powerful artifact if they kill Lord Rall.], molding enemies to suit his terrible whims. Because of his deep understanding of form and changing, he does not need to concentrate on this. He fully expects to be able to turn every enemy in the battle into slimy things, given time.
 
 ```statblock
-"name": "Lord Rall"
+"name": "Lord Rall (SaF)"
 "size": "Medium"
 "type": "aberration"
 "alignment": "Chaotic"
@@ -38,16 +41,16 @@ Lord Rall channels his power through The Staff of Changing ^[Like all the servit
 - !!int "16"
 "speed": "30 ft., fly 10 ft. (hover)"
 "saves":
-  "Charisma": "+6"
-  "Wisdom": "+5"
-  "Intelligence": "+8"
+  "Charisma": !!int "6"
+  "Wisdom": !!int "5"
+  "Intelligence": !!int "8"
 "skillsaves":
-  "Deception": "+6"
-  "Insight": "+5"
-  "History": "+8"
-  "Arcana": "+8"
+  "Deception": !!int "6"
+  "Insight": !!int "5"
+  "History": !!int "8"
+  "Arcana": !!int "8"
 "damage_resistances": "psychic"
-"condition_immunities": "charmed, petrified"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]]"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "Common, Deep Speech, Primordial"
 "cr": "8"
@@ -56,13 +59,13 @@ Lord Rall channels his power through The Staff of Changing ^[Like all the servit
     \ (spell save DC 16, dice: d20+8 (+8 to hit) with spell attacks). He has the\
     \ following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
     \ [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]], [[5. Mechanics/Spells/Ray Of Frost.md|ray of frost]]\n\
-    \n1st level (4 1st-level slots): [[5. Mechanics/Spells/Mage Armor.md|mage armor]],\
-    \ [[5. Mechanics/Spells/Magic Missile.md|magic missile]], [[5. Mechanics/Spells/Sleep.md|sleep]]\n\
-    \n2nd level (3 2nd-level slots): [[5. Mechanics/Spells/Ray Of Enfeeblement.md|ray of enfeeblement]],\
-    \ [[5. Mechanics/Spells/Mirror Image.md|mirror image]]\n\n3rd level (3 3rd-level\
-    \ slots): [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]], [[5. Mechanics/Spells/Haste.md|haste]]\n\
-    \n4th level (3 4th-level slots): black tentacles, [[5. Mechanics/Spells/Blight.md|blight]]\n\
-    \n5th level (2 5th-level slots): [[5. Mechanics/Spells/Cloudkill.md|cloudkill]]"
+    \n1st level (4 slots): [[5. Mechanics/Spells/Mage Armor.md|mage armor]], [magic\
+    \ missile](compendium/spells/magic-missile.md), [[5. Mechanics/Spells/Sleep.md|sleep]]\n\
+    \n2nd level (3 slots): [[5. Mechanics/Spells/Ray Of Enfeeblement.md|ray of enfeeblement]],\
+    \ [[5. Mechanics/Spells/Mirror Image.md|mirror image]]\n\n3rd level (3 slots):\
+    \ [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]], [[5. Mechanics/Spells/Haste.md|haste]]\n\
+    \n4th level (3 slots): black tentacles, [[5. Mechanics/Spells/Blight.md|blight]]\n\
+    \n5th level (2 slots): [[5. Mechanics/Spells/Cloudkill.md|cloudkill]]"
   "name": "spells"
 - "desc": "The Court of All Flesh are beings of pure chaos. Because their minds are\
     \ pure disorder, they cannot be driven mad or [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\

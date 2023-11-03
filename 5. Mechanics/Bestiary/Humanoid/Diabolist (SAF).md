@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/unknown
 - monster/size/medium
 - monster/type/humanoid/any-race
+statblock: inline
 aliases: ["Diabolist"]
 ---
-# Diabolist
+# [Diabolist](compendium\bestiary\humanoid/diabolist-saf.md)
 *Source: Strongholds and Followers p. 80*  
 
 ```statblock
-"name": "Diabolist"
+"name": "Diabolist (SaF)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "any race"
@@ -25,15 +28,15 @@ aliases: ["Diabolist"]
 - !!int "18"
 "speed": "30 ft. (dependant on ancestry)"
 "saves":
-  "Charisma": "+6"
-  "Dexterity": "+3"
-  "Wisdom": "+6"
-  "Intelligence": "+3"
-  "Strength": "+3"
-  "Constitution": "+3"
+  "Charisma": !!int "6"
+  "Dexterity": !!int "3"
+  "Wisdom": !!int "6"
+  "Intelligence": !!int "3"
+  "Strength": !!int "3"
+  "Constitution": !!int "3"
 "skillsaves":
-  "Intimidation": "+5"
-  "Deception": "+5"
+  "Intimidation": !!int "5"
+  "Deception": !!int "5"
 "senses": "appropriate to ancestry, passive Perception 12"
 "languages": "appropriate to ancestry (usually Common)"
 "cr": "Unknown"

@@ -12,7 +12,7 @@ aliases:
 ---
 # Javelin of Lightning
 *Melee Weapon, major, uncommon*  
-![[5. Mechanics/Items/img/javelin-of-lightning.jpg#right]]  
+![[5. Mechanics/Items/img/Javelin Of Lightning.webp#right]]  
 
 - **Damage**: 1d6 P
 - **Range**: 30/120

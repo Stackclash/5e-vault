@@ -8,6 +8,7 @@ aliases: ["Hexblood"]
 ---
 # Hexblood
 *Source: Van Richten's Guide to Ravenloft p. 18*  
+![[5. Mechanics/Races/img/Hexblood.webp#right]]  
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Type**: race

@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/unknown
 - monster/size/medium
 - monster/type/humanoid/any-race
+statblock: inline
 aliases: ["Warden"]
 ---
-# Warden
+# [Warden](compendium\bestiary\humanoid/warden-saf.md)
 *Source: Strongholds and Followers p. 74*  
 
 ```statblock
-"name": "Warden"
+"name": "Warden (SaF)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "any race"
@@ -25,15 +28,15 @@ aliases: ["Warden"]
 - !!int "14"
 "speed": "30 ft. (dependant on ancestry)"
 "saves":
-  "Charisma": "+3"
-  "Dexterity": "+3"
-  "Wisdom": "+6"
-  "Intelligence": "+3"
-  "Strength": "+3"
-  "Constitution": "+3"
+  "Charisma": !!int "3"
+  "Dexterity": !!int "3"
+  "Wisdom": !!int "6"
+  "Intelligence": !!int "3"
+  "Strength": !!int "3"
+  "Constitution": !!int "3"
 "skillsaves":
-  "Medicine": "+5"
-  "History": "+5"
+  "Medicine": !!int "5"
+  "History": !!int "5"
 "senses": "appropriate to ancestry, passive Perception 14"
 "languages": "appropriate to ancestry (usually Common)"
 "cr": "Unknown"

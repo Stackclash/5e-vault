@@ -11,7 +11,7 @@ aliases:
 ---
 # Stone of Controlling Earth Elementals
 *Wondrous Item, major, rare*  
-![[5. Mechanics/Items/img/stone-of-controlling-earth-elementals.jpg#right]]  
+![[5. Mechanics/Items/img/Stone Of Controlling Earth Elementals.webp#right]]  
 
 - **Weight**: 5.0 lbs.
 

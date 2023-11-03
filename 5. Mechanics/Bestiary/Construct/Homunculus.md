@@ -62,6 +62,7 @@ A homunculus knows everything its creator knows, including all the languages the
 - "IMR"
 - "MOT"
 - "CM"
+- "PaBTSO"
 "image": "5. Mechanics/Bestiary/Construct/token/homunculus.png"
 ```
 ^statblock

@@ -54,6 +54,8 @@ aliases: ["Black Bear"]
 - "WDMM"
 - "GoS"
 - "IMR"
+- "SatO"
+- "ToFW"
 "image": "compendium/bestiary/beast/token/black-bear.png"
 ```
 ^statblock

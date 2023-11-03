@@ -106,6 +106,7 @@ Whether these tall, gaunt creatures were peaceful or savage, cultured or primiti
   "name": "Unarmed Strike"
 "source":
 - "MM"
+- "SatO"
 "image": "compendium/bestiary/humanoid/token/githzerai-monk.png"
 ```
 ^statblock

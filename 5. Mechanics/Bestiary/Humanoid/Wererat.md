@@ -113,6 +113,7 @@ Some individuals see little point in fighting the curse and accept what they are
 - "IMR"
 - "EGW"
 - "CM"
+- "SatO"
 "image": "5. Mechanics/Bestiary/Humanoid/token/wererat.png"
 ```
 ^statblock

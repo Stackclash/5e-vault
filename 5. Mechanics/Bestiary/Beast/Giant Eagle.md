@@ -56,6 +56,8 @@ A giant eagle is a noble creature that speaks its own language and understands s
 - "MM"
 - "GoS"
 - "WBtW"
+- "SatO"
+- "ToFW"
 "image": "compendium/bestiary/beast/token/giant-eagle.png"
 ```
 ^statblock

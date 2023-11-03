@@ -13,7 +13,7 @@ aliases:
 ---
 # Staff of Thunder and Lightning
 *Staff, major, very rare (requires attunement)*  
-![[5. Mechanics/Items/img/staff-of-thunder-and-lightning.jpg#right]]  
+![[5. Mechanics/Items/img/Staff Of Thunder And Lightning.webp#right]]  
 
 - **Damage**:
   - One-handed: 1d6 B

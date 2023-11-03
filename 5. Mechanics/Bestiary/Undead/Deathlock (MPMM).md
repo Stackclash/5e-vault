@@ -79,6 +79,7 @@ An powerful necromancer might also discover the wicked methods of creating a dea
 "source":
 - "MPMM"
 - "MTF"
+- "AATM"
 "image": "5. Mechanics/Bestiary/Undead/token/deathlock.png"
 ```
 ^statblock

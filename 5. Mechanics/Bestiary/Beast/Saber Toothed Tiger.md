@@ -60,6 +60,8 @@ aliases: ["Saber-Toothed Tiger"]
 - "IDRotF"
 - "CoS"
 - "JttRC"
+- "SatO"
+- "ToFW"
 "image": "compendium/bestiary/beast/token/saber-toothed-tiger.png"
 ```
 ^statblock

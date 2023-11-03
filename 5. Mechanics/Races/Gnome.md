@@ -8,6 +8,7 @@ aliases: ["Gnome"]
 ---
 # Gnome
 *Source: Player's Handbook p. 35. Available in the SRD.*  
+![[5. Mechanics/Races/img/Gnome.webp#right]]  
 
 - **Ability Scores**: Intelligence +2
 - **Type**: race

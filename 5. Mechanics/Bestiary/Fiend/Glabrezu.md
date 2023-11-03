@@ -243,6 +243,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - "BGDIA"
 - "EGW"
 - "CRCotN"
+- "SatO"
 "image": "5. Mechanics/Bestiary/Fiend/token/glabrezu.png"
 ```
 ^statblock

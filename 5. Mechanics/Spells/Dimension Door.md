@@ -19,6 +19,7 @@ aliases: ["Dimension Door"]
 # Dimension Door
 %%-- Embedded content starts on the next line. --%%
 *4th-level, Conjuration*  
+![[5. Mechanics/Spells/img/Dimension Door.webp#right]]  
 
 - **Casting time:** 1 action
 - **Range:** 500 feet

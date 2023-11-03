@@ -11,7 +11,7 @@ aliases:
 ---
 # Pipes of Haunting
 *Instrument, major, uncommon*  
-![[5. Mechanics/Items/img/pipes-of-haunting.jpg#right]]  
+![[5. Mechanics/Items/img/Pipes Of Haunting.webp#right]]  
 
 - **Weight**: 2.0 lbs.
 

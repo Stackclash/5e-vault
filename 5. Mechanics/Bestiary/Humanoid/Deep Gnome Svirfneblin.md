@@ -82,6 +82,7 @@ Deep gnomes are often encountered in the company of creatures from the Elemental
 - "WDH"
 - "WDMM"
 - "KftGV"
+- "PaBTSO"
 "image": "compendium/bestiary/humanoid/token/deep-gnome-svirfneblin.png"
 ```
 ^statblock

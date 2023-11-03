@@ -11,7 +11,7 @@ aliases:
 ---
 # Orb of Direction
 *Wondrous Item, minor, common*  
-![[5. Mechanics/Items/img/orb-of-direction.png#right]]  
+![[5. Mechanics/Items/img/Orb Of Direction.webp#right]]  
 
 - **Weight**: 3.0 lbs.
 

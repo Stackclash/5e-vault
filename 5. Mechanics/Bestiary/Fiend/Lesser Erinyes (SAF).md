@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/7
 - monster/size/medium
 - monster/type/fiend/devil
+statblock: inline
 aliases: ["Lesser Erinyes"]
 ---
-# Lesser Erinyes
+# [Lesser Erinyes](compendium\bestiary\fiend/lesser-erinyes-saf.md)
 *Source: Strongholds and Followers p. 153*  
 
 ```statblock
-"name": "Lesser Erinyes"
+"name": "Lesser Erinyes (SaF)"
 "size": "Medium"
 "type": "fiend"
 "subtype": "devil"
@@ -27,14 +30,14 @@ aliases: ["Lesser Erinyes"]
 - !!int "17"
 "speed": "30 ft., fly 60 ft."
 "saves":
-  "Charisma": "+6"
-  "Dexterity": "+5"
-  "Wisdom": "+4"
-  "Constitution": "+6"
+  "Charisma": !!int "6"
+  "Dexterity": !!int "5"
+  "Wisdom": !!int "4"
+  "Constitution": !!int "6"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical weapons\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "truesight 60 ft., passive Perception 12"
 "languages": "Infernal, telepathy 60 ft."
 "cr": "7"

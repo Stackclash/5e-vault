@@ -10,7 +10,7 @@ aliases: ["Kelemvor", "The Lord of the Dead", "The Judge of the Damned"]
 ---
 # Kelemvor
 *Source: Sword Coast Adventurer's Guide p. 21, Xanathar's Guide to Everything p. 19* 
-![[5. Mechanics/Deities/img/scag-symbol-of-kelemvor.jpg#symbol]]
+![[5. Mechanics/Deities/img/Scag Symbol Of Kelemvor.webp#symbol]]
 
 - **Alternate Names**: The Lord of the Dead, The Judge of the Damned
 - **Alignment**: Lawful Neutral

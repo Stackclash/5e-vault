@@ -43,6 +43,7 @@ aliases: ["Draft Horse"]
 - "WDH"
 - "GoS"
 - "BGDIA"
+- "PaBTSO"
 "image": "compendium/bestiary/beast/token/draft-horse.png"
 ```
 ^statblock

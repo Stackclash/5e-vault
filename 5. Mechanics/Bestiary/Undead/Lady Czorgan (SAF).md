@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/12
 - monster/size/medium
 - monster/type/undead
+statblock: inline
 aliases: ["Lady Czorgan"]
 ---
-# Lady Czorgan
+# [Lady Czorgan](compendium\bestiary\undead/lady-czorgan-saf.md)
 *Source: Strongholds and Followers p. 258*  
 
 ```statblock
-"name": "Lady Czorgan"
+"name": "Lady Czorgan (SaF)"
 "size": "Medium"
 "type": "undead"
 "alignment": "Chaotic Evil"
@@ -26,24 +29,24 @@ aliases: ["Lady Czorgan"]
 - !!int "16"
 "speed": "30 ft."
 "saves":
-  "Charisma": "+7"
-  "Dexterity": "+5"
-  "Wisdom": "+6"
+  "Charisma": !!int "7"
+  "Dexterity": !!int "5"
+  "Wisdom": !!int "6"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "exhaustion, frightened, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 11"
 "languages": "Abyssal, Common"
 "cr": "12"
 "traits":
 - "desc": "Lady Czorgan is a 13th-level spellcaster. Her spellcasting ability is Charisma\
     \ (spell save DC 15, dice: d20+8 (+8 to hit) with spell attacks). She has the\
-    \ following spells prepared:\n\n1st level (4 1st-level slots): [[5. Mechanics/Spells/Command.md|command]],\
+    \ following spells prepared:\n\n1st level (4 slots): [[5. Mechanics/Spells/Command.md|command]],\
     \ [[5. Mechanics/Spells/Hunters Mark.md|hunter's mark]], [[5. Mechanics/Spells/Inflict Wounds.md|inflict wounds]]\n\
-    \n2nd level (3 2nd-level slots): [[5. Mechanics/Spells/Hold Person.md|hold person]],\
-    \ [[5. Mechanics/Spells/Magic Weapon.md|magic weapon]]\n\n3rd level (3 3rd-level\
-    \ slots): [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[5. Mechanics/Spells/Vampiric Touch.md|vampiric touch]]\n\
-    \n4th level (1 4th-level slots): [[5. Mechanics/Spells/Banishment.md|banishment]],\
-    \ [[5. Mechanics/Spells/Blight.md|blight]]"
+    \n2nd level (3 slots): [[5. Mechanics/Spells/Hold Person.md|hold person]], [magic\
+    \ weapon](compendium/spells/magic-weapon.md)\n\n3rd level (3 slots): [dispel\
+    \ magic](compendium/spells/dispel-magic.md), [[5. Mechanics/Spells/Vampiric Touch.md|vampiric touch]]\n\
+    \n4th level (1 slots): [[5. Mechanics/Spells/Banishment.md|banishment]], [[5. Mechanics/Spells/Blight.md|blight]]"
   "name": "spells"
 - "desc": "Lady Czorgan has advantage on saving throws against spells and other magical\
     \ effects."

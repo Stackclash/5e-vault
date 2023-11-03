@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/3
 - monster/size/medium
 - monster/type/humanoid/orc
 - monster/type/humanoid/shapechanger
+statblock: inline
 aliases: ["White Tusk Shaman"]
 ---
-# White Tusk Shaman
+# [White Tusk Shaman](compendium\bestiary\humanoid/white-tusk-shaman-saf.md)
 *Source: Strongholds and Followers p. 141*  
 
 Most orc clans keep a shaman or two around to interpret the will of the natural world. These shamans enjoy a high status in their clan, even when a tribe such as the White Tusks possess warspeakers who manifest the will of the gods, for there are more powers in this world than that of the gods. The Mundane World itself possesses a sort of consciousness—the whispering of the wind, the babbling of running water, and the quiet grumbling of the mountains; these small gestures of nature are the world speaking to those who possess the skill to listen.
@@ -15,7 +18,7 @@ Most orc clans keep a shaman or two around to interpret the will of the natural 
 As part of their training, orcish shamans bond with a single animal, typically a dire wolf. When that animal dies, as all things must, the shaman takes that animal's spirit into their own body to make their bond eternal. A spirit-bonded shaman can take the shape of their bonded animal.
 
 ```statblock
-"name": "White Tusk Shaman"
+"name": "White Tusk Shaman (SaF)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "orc, shapechanger"
@@ -32,11 +35,11 @@ As part of their training, orcish shamans bond with a single animal, typically a
 - !!int "8"
 "speed": "30 ft."
 "saves":
-  "Dexterity": "+4"
-  "Wisdom": "+5"
+  "Dexterity": !!int "4"
+  "Wisdom": !!int "5"
 "skillsaves":
-  "Perception": "+5"
-  "Survival": "+5"
+  "Perception": !!int "5"
+  "Survival": !!int "5"
 "senses": "darkvision 60 ft., passive Perception 18"
 "languages": "Orc, Primordial"
 "cr": "3"

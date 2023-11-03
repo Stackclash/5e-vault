@@ -10,7 +10,7 @@ cost: 1 gp
 ---
 # Gold (gp)
 *Treasure*  
-![[5. Mechanics/Items/img/gold-gp.jpg#right]]  
+![[5. Mechanics/Items/img/Gold Gp.webp#right]]  
 
 - **Cost**: 1 gp
 - **Weight**: 0.02 lbs.

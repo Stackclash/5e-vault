@@ -12,7 +12,7 @@ aliases:
 ---
 # Demon Armor
 *Heavy Armor, major, very rare (requires attunement)*  
-![[5. Mechanics/Items/img/demon-armor.jpg#right]]  
+![[5. Mechanics/Items/img/Demon Armor.webp#right]]  
 
 - **Armor Class**: 18
 - **Strength**: Requires 15 STR.

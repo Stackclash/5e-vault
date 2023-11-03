@@ -10,7 +10,8 @@ tags:
 - item/property/two-handed
 - item/rarity/very-rare
 - item/weapon/martial/ranged
-aliases: ["Foxglove Bow"]
+aliases: 
+- "Foxglove Bow"
 ---
 # Foxglove Bow
 *Ranged Weapon, very rare (requires attunement by a chaotic creature)*  
@@ -18,8 +19,7 @@ aliases: ["Foxglove Bow"]
 
 - **Damage**: 1d8 P
 - **Range**: 150/600
-- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], Martial, Requires Attunement, [[/5. Mechanics/Rules/Item Properties.md#Two-handed\|Two-handed]]
-- **Cost**: ⏤
+- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], Martial, [[/5. Mechanics/Rules/Item Properties.md#Two-handed\|Two-handed]]
 - **Weight**: 2.0 lbs.
 
 If you are a neutral character, this ash longbow functions as a normal weapon with no bonus or magical properties. If you are lawful, touching this weapon deals `dice: 2d8|avg` (`2d8`) radiant damage to you. If you are chaotic, you can use the foxglove bow as a magic weapon with the following properties.

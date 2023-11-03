@@ -11,7 +11,7 @@ aliases:
 ---
 # Bowl of Commanding Water Elementals
 *Wondrous Item, major, rare*  
-![[5. Mechanics/Items/img/bowl-of-commanding-water-elementals.jpg#right]]  
+![[5. Mechanics/Items/img/Bowl Of Commanding Water Elementals.webp#right]]  
 
 - **Weight**: 3.0 lbs.
 

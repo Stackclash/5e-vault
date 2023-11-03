@@ -101,6 +101,8 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 - "MM"
 - "WDMM"
 - "IDRotF"
+- "PaBTSO"
+- "SatO"
 "image": "compendium/bestiary/aberration/token/blue-slaad.png"
 ```
 ^statblock

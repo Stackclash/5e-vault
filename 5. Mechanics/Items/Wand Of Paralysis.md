@@ -12,7 +12,7 @@ aliases:
 ---
 # Wand of Paralysis
 *Wand, major, rare (requires attunement by a spellcaster)*  
-![[5. Mechanics/Items/img/wand-of-paralysis.jpg#right]]  
+![[5. Mechanics/Items/img/Wand Of Paralysis.webp#right]]  
 
 - **Weight**: 1.0 lbs.
 

@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/9
 - monster/size/large
 - monster/type/aberration
+statblock: inline
 aliases: ["Uursovk"]
 ---
-# Uursovk
+# [Uursovk](compendium\bestiary\npc/uursovk-saf.md)
 *Source: Strongholds and Followers p. 172*  
 
 The Mad Oracle, the Madness-flesh, Uursovk may once have been a king or queen of Chaos itself. No one remembers that far back. Rumors are easy to come by, tales of things older than the Thrones themselves. Things of pure changing power, with no minds, no will except to remake the universe in their own terrible fluctuating imageless images.
@@ -28,7 +31,7 @@ Just the sight of Uursovk ignites its Madness Aura, which blocks enemies' minds 
 Uursovk's epic closer is Meld Flesh, which literally melts two adjacent enemies into one gestalt. Not as radical as it sounds, the gestalt creature can do anything the original two creatures could do, but it only gets one turn. This one prompts a Constitution saving throw, so it's a good option for hitting magic-users and glass cannons.
 
 ```statblock
-"name": "Uursovk"
+"name": "Uursovk (SaF)"
 "size": "Large"
 "type": "aberration"
 "alignment": "Chaotic"
@@ -44,12 +47,12 @@ Uursovk's epic closer is Meld Flesh, which literally melts two adjacent enemies 
 - !!int "15"
 "speed": "30 ft."
 "saves":
-  "Charisma": "+6"
-  "Wisdom": "+6"
-  "Strength": "+9"
-  "Constitution": "+9"
+  "Charisma": !!int "6"
+  "Wisdom": !!int "6"
+  "Strength": !!int "9"
+  "Constitution": !!int "9"
 "damage_resistances": "psychic"
-"condition_immunities": "charmed, petrified"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]]"
 "senses": "darkvision 60 ft., passive Perception 16"
 "languages": "Deep Speech, Primordial"
 "cr": "9"

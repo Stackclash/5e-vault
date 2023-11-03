@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/unknown
 - monster/size/medium
 - monster/type/humanoid/any-race
+statblock: inline
 aliases: ["Justicar"]
 ---
-# Justicar
+# [Justicar](compendium\bestiary\humanoid/justicar-saf.md)
 *Source: Strongholds and Followers p. 77*  
 
 ```statblock
-"name": "Justicar"
+"name": "Justicar (SaF)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "any race"
@@ -25,15 +28,15 @@ aliases: ["Justicar"]
 - !!int "18"
 "speed": "30 ft. (dependant on ancestry)"
 "saves":
-  "Charisma": "+6"
-  "Dexterity": "+3"
-  "Wisdom": "+6"
-  "Intelligence": "+3"
-  "Strength": "+6"
-  "Constitution": "+3"
+  "Charisma": !!int "6"
+  "Dexterity": !!int "3"
+  "Wisdom": !!int "6"
+  "Intelligence": !!int "3"
+  "Strength": !!int "6"
+  "Constitution": !!int "3"
 "skillsaves":
-  "Intimidation": "+5"
-  "Persuasion": "+5"
+  "Intimidation": !!int "5"
+  "Persuasion": !!int "5"
 "senses": "appropriate to ancestry, passive Perception 12"
 "languages": "appropriate to ancestry (usually Common)"
 "cr": "Unknown"

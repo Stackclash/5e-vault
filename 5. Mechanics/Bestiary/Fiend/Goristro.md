@@ -243,6 +243,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
   "name": "Gore"
 "source":
 - "MM"
+- "SatO"
 "image": "5. Mechanics/Bestiary/Fiend/token/goristro.png"
 ```
 ^statblock

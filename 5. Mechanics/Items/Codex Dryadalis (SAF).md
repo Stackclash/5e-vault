@@ -6,15 +6,13 @@ tags:
 - item/attunement/required
 - item/rarity/artifact
 - item/wondrous
-aliases: ["Codex Dryadalis"]
+aliases: 
+- "Codex Dryadalis"
 ---
 # Codex Dryadalis
 *Wondrous Item, artifact (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/codex-dryadalis.jpg#right)  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 A human adopted as an infant by elves, Irllyn Ffwllyg en Orrell ce Yth went on to become the Ganarajyan Empire's greatest authority on the fae, their magic, and their casual association with cause and effect.
 

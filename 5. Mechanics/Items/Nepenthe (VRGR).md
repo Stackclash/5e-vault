@@ -13,7 +13,7 @@ aliases:
 ---
 # Nepenthe
 *Melee Weapon, legendary (requires attunement by a paladin)*  
-![[5. Mechanics/Items/img/nepenthe.jpg#right]]  
+![[5. Mechanics/Items/img/Nepenthe.webp#right]]  
 
 - **Damage**:
   - One-handed: 1d8 S

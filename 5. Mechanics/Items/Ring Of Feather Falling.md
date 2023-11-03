@@ -12,7 +12,7 @@ aliases:
 ---
 # Ring of Feather Falling
 *Ring, major, rare (requires attunement)*  
-![[5. Mechanics/Items/img/ring-of-feather-falling.jpg#right]]  
+![[5. Mechanics/Items/img/Ring Of Feather Falling.webp#right]]  
 
 
 When you fall while wearing this ring, you descend 60 feet per round and take no damage from falling.

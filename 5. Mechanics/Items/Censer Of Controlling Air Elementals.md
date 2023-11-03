@@ -11,7 +11,7 @@ aliases:
 ---
 # Censer of Controlling Air Elementals
 *Wondrous Item, major, rare*  
-![[5. Mechanics/Items/img/censer-of-controlling-air-elementals.jpg#right]]  
+![[5. Mechanics/Items/img/Censer Of Controlling Air Elementals.webp#right]]  
 
 - **Weight**: 1.0 lbs.
 

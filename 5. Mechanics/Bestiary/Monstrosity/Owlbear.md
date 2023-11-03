@@ -94,6 +94,8 @@ Scholars have long debated the origins of the owlbear. The most common theory is
 - "WBtW"
 - "CRCotN"
 - "DoSI"
+- "HftT"
+- "PaBTSO"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/owlbear.png"
 ```
 ^statblock

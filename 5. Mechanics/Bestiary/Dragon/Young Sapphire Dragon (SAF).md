@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/10
 - monster/size/large
 - monster/type/dragon
+statblock: inline
 aliases: ["Young Sapphire Dragon"]
 ---
-# Young Sapphire Dragon
+# [Young Sapphire Dragon](compendium\bestiary\dragon/young-sapphire-dragon-saf.md)
 *Source: Strongholds and Followers p. 215*  
 
 Eldest, first, the sapphire dragons inspire awe in any who see them. They guard the knowledge of past and future and the power that lets one shift between them. They approve of the dwarves, who imposed the rigid rules of causality on the world, and consider the remnant domains of the elves, the wodes, as a danger. Not a threat per se, because they know it is in the elves' nature to ignore past and future, but when mortals exploit this or discover the means to move through time, or summon creatures from the past and future, then the sapphire dragons get riled up.
@@ -16,7 +19,7 @@ Of course, because they guard this knowledge, they are also experts on it and th
 Being oldest, they are also the most reserved, taciturn. Even the young sapphires are aware of their species' place in history and expect to be treated with respect. They talk like old university professors who know they have tenure and expect everyone to hang on their every word.
 
 ```statblock
-"name": "Young Sapphire Dragon"
+"name": "Young Sapphire Dragon (SaF)"
 "size": "Large"
 "type": "dragon"
 "alignment": "Neutral"
@@ -32,15 +35,15 @@ Being oldest, they are also the most reserved, taciturn. Even the young sapphire
 - !!int "17"
 "speed": "40 ft., fly 80 ft. (hover)"
 "saves":
-  "Charisma": "+7"
-  "Dexterity": "+7"
-  "Wisdom": "+7"
-  "Intelligence": "+8"
+  "Charisma": !!int "7"
+  "Dexterity": !!int "7"
+  "Wisdom": !!int "7"
+  "Intelligence": !!int "8"
 "skillsaves":
-  "Religion": "+8"
-  "Insight": "+7"
-  "Perception": "+7"
-  "Arcana": "+8"
+  "Religion": !!int "8"
+  "Insight": !!int "7"
+  "Perception": !!int "7"
+  "Arcana": !!int "8"
 "damage_vulnerabilities": "psychic"
 "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 21"
 "languages": "Common, Draconic, telepathy 120 ft."

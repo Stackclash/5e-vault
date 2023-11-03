@@ -181,6 +181,8 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
 - "CM"
 - "JttRC"
 - "KftGV"
+- "SatO"
+- "ToFW"
 "image": "compendium/bestiary/fiend/token/night-hag.png"
 ```
 ^statblock

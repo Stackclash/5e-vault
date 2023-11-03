@@ -1,18 +1,21 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/5
 - monster/size/large
 - monster/type/celestial
+statblock: inline
 aliases: ["Alicorn"]
 ---
-# Alicorn
+# [Alicorn](compendium\bestiary\celestial/alicorn-saf.md)
 *Source: Strongholds and Followers p. 55, Derived from *  
 
 Natives of Arcadia, the winged [[5. Mechanics/Bestiary/Celestial/Unicorn.md|unicorn]] (not to be confused with the horned [[5. Mechanics/Bestiary/Celestial/Pegasus.md|pegasus]]) can be summoned by a particularly devout paladin to serve as their mount. They do not particularly like the Mundane World, but they enjoy and find satisfaction in hunting evil and chaos. They will serve as mount and companion to a holy knight only so long as it brings the opportunity to smash evil, a sport they are denied on their home plane.
 
 ```statblock
-"name": "Alicorn"
+"name": "Alicorn (SaF)"
 "size": "Large"
 "type": "celestial"
 "alignment": "Lawful Good"
@@ -28,13 +31,14 @@ Natives of Arcadia, the winged [[5. Mechanics/Bestiary/Celestial/Unicorn.md|unic
 - !!int "16"
 "speed": "60 ft., fly 90 ft."
 "saves":
-  "Charisma": "+3"
-  "Dexterity": "+5"
-  "Wisdom": "+4"
+  "Charisma": !!int "3"
+  "Dexterity": !!int "5"
+  "Wisdom": !!int "4"
 "skillsaves":
-  "Perception": "+6"
+  "Perception": !!int "6"
 "damage_immunities": "poison"
-"condition_immunities": "charmed, paralyzed, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "truesight 60 ft., passive Perception 16"
 "languages": "Celestial, Elvish, Sylvan, telepathy 60 ft."
 "cr": "5"

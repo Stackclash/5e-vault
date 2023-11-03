@@ -80,6 +80,7 @@ A galeb duhr can become one with the earth around it, allowing it to imbue nearb
 - "TCE"
 - "WBtW"
 - "KftGV"
+- "PaBTSO"
 "image": "compendium/bestiary/elemental/token/galeb-duhr.png"
 ```
 ^statblock

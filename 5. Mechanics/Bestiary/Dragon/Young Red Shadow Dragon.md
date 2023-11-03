@@ -120,6 +120,7 @@ Any damage-dealing breath weapon possessed by the dragon deals necrotic damage i
   "name": "Shadow Breath (Recharge 5-6)"
 "source":
 - "MM"
+- "AATM"
 "image": "compendium/bestiary/dragon/token/young-red-shadow-dragon.png"
 ```
 ^statblock

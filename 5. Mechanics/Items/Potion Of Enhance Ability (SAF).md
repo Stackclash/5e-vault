@@ -5,13 +5,12 @@ tags:
 - compendium/src/5e/saf
 - item/rarity/uncommon
 - item/wondrous/potion
-aliases: ["Potion of Enhance Ability"]
+aliases: 
+- "Potion of Enhance Ability"
 ---
 # Potion of Enhance Ability
 *Potion, uncommon*  
 
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 Starts as a basic gray potion with no effect. However, if a material component is added, it gains one of the following effects:
 

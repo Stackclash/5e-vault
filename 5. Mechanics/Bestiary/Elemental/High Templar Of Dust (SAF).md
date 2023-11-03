@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/10
 - monster/size/large
 - monster/type/elemental
+statblock: inline
 aliases: ["High Templar of Dust"]
 ---
-# High Templar of Dust
+# [High Templar of Dust](compendium\bestiary\elemental/high-templar-of-dust-saf.md)
 *Source: Strongholds and Followers p. 192*  
 
 The High Templars serve the Lady of Brass, but unlike the rest of the Court of Elements they were not created by her. They were the original Elemental Lords who dwelled on the Plane of Quintessence before the arrival of the Lady. Before the construction of Alloy, the City of Brass, began. When Quintessence was a wasteland.
@@ -28,7 +31,7 @@ They are grim and taciturn. It appears they resent being summoned but do their d
 The High Templar of Dust focuses on movement, moving through enemies to use its Scour ability, damaging everyone standing around with Sandstorm, and generally wading into enemies. Its Armor Class isn't amazing, but it has a lot of hit points and should survive a few rounds of punishment. It tends to fire off Lightning and Fire before engaging in melee with its halberd.
 
 ```statblock
-"name": "High Templar of Dust"
+"name": "High Templar of Dust (SaF)"
 "size": "Large"
 "type": "elemental"
 "alignment": "Neutral"
@@ -44,14 +47,17 @@ The High Templar of Dust focuses on movement, moving through enemies to use its 
 - !!int "13"
 "speed": "30 ft."
 "saves":
-  "Charisma": "+5"
-  "Wisdom": "+7"
-  "Strength": "+9"
-  "Constitution": "+9"
+  "Charisma": !!int "5"
+  "Wisdom": !!int "7"
+  "Strength": !!int "9"
+  "Constitution": !!int "9"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical weapons"
 "damage_immunities": "fire, lightning, cold, poison"
-"condition_immunities": "exhaustion, grappled, paralyzed, petrified, poisoned, prone,\
-  \ restrained, unconscious"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]], [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]"
 "senses": "darkvision 60 ft., passive Perception 17"
 "languages": "Aquan, Auran, Common, Ignan, Terran"
 "cr": "10"

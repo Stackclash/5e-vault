@@ -11,7 +11,7 @@ aliases: ["The Undying Court"]
 ---
 # The Undying Court
 *Source: Eberron: Rising from the Last War p. 141* 
-![[5. Mechanics/Deities/img/erlw-the-undying-court.png#symbol]]
+![[5. Mechanics/Deities/img/Erlw The Undying Court.webp#symbol]]
 
 - **Alignment**: Unaligned
 - **Category**: Other Faiths of Eberron

@@ -112,6 +112,8 @@ A mummy doesn't require air, food, drink, or sleep.
 - "CM"
 - "DSotDQ"
 - "PSI"
+- "PaBTSO"
+- "AATM"
 "image": "5. Mechanics/Bestiary/Undead/token/mummy.png"
 ```
 ^statblock

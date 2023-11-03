@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/saf
+- monster/cr/9
 - monster/size/large
 - monster/type/construct
+statblock: inline
 aliases: ["Time"]
 ---
-# Time
+# [Time](compendium\bestiary\construct/time-saf.md)
 *Source: Strongholds and Followers p. 231*  
 
 Time is something of the hypocrite among the Inexorables, perfectly happy to speed things up for itself while denying that same ability to anyone else. Many of the Inexorables don't mind if their allies bend the rules so long as their enemies toe the line, and if this seems like commentary on the nature of law and how it tends to be applied, of course it is. Or is it? Maybe it's the opposite.
@@ -18,7 +21,7 @@ Time enforces the rules of causality and ensures the past remains firmly behind 
 Time prevents enemies from taking bonus actions or reactions, which is very useful for players who want to maneuver around enemies without suffering attacks of opportunity. Like most of the Knights of Axiom, Time lacks ranged weapons and thus is barely effective against flying enemies, but if its target is on the ground, it is going to pummel the thing into oblivion. Between Haste and Time Is Inexorable, Time can act many times, moving around enemies while denying them opportunity attacks, and it can attack seven times! Time prefers to focus on those enemies benefitting from Haste or who act on turns other than their own. And elves, of course.
 
 ```statblock
-"name": "Time"
+"name": "Time (SaF)"
 "size": "Large"
 "type": "construct"
 "alignment": "Lawful"
@@ -33,7 +36,9 @@ Time prevents enemies from taking bonus actions or reactions, which is very usef
 - !!int "11"
 - !!int "10"
 "speed": "40 ft."
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "truesight 60 ft., passive Perception 14"
 "languages": "all those of the creature who summoned it"
 "cr": "9"

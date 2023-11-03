@@ -97,6 +97,7 @@ A naga doesn't require air, food, drink, or sleep.
 - "EGW"
 - "MOT"
 - "JttRC"
+- "PaBTSO"
 "image": "compendium/bestiary/monstrosity/token/spirit-naga.png"
 ```
 ^statblock

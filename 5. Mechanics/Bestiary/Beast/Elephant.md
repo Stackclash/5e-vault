@@ -49,6 +49,8 @@ aliases: ["Elephant"]
 "source":
 - "MM"
 - "ToA"
+- "SatO"
+- "ToFW"
 "image": "5. Mechanics/Bestiary/Beast/token/elephant.png"
 ```
 ^statblock

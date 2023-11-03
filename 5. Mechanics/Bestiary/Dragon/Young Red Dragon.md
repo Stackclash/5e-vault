@@ -144,6 +144,8 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "LoX"
 - "DSotDQ"
 - "KftGV"
+- "LK"
+- "SatO"
 "image": "compendium/bestiary/dragon/token/young-red-dragon.png"
 ```
 ^statblock

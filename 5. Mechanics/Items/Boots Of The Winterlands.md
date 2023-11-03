@@ -12,7 +12,7 @@ aliases:
 ---
 # Boots of the Winterlands
 *Wondrous Item, major, uncommon (requires attunement)*  
-![[5. Mechanics/Items/img/boots-of-the-winterlands.jpg#right]]  
+![[5. Mechanics/Items/img/Boots Of The Winterlands.webp#right]]  
 
 
 These furred boots are snug and feel quite warm. While you wear them, you gain the following benefits:
