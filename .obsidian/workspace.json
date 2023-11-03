@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d2cefc68c44f6cfa",
+        "id": "8386275463c0f7ba",
         "type": "tabs",
         "children": [
           {
-            "id": "57f6715283185e52",
+            "id": "a8c2c74604e241bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md"
-              }
+              "state": {}
             }
           },
           {
@@ -190,8 +182,22 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "57f6715283185e52",
+  "active": "a88a1818b2c15bdd",
   "lastOpenFiles": [
+    "5. Mechanics/Bestiary/Celestial/Celestial.md",
+    "5. Mechanics/Bestiary/Celestial/Authority (SAF).md",
+    "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
+    "6. Resources/5e Modules/Curse Of Strahd/img/004 Cos02-01.webp",
+    "6. Resources/5e Modules/Curse Of Strahd/img/004-cos02-01.png",
+    "6. Resources/5e Modules/Curse Of Strahd/img/005-cos02-02.png",
+    "6. Resources/5e Modules/Curse Of Strahd/img/005 Cos02-02.webp",
+    "6. Resources/5e Modules/Curse Of Strahd/img/001-cos01-01a.png",
+    "6. Resources/5e Modules/Curse Of Strahd/img/002 Cos01-02.webp",
+    "6. Resources/5e Modules/Curse Of Strahd/img/002-cos01-02.png",
+    "6. Resources/5e Modules/Curse Of Strahd/img/003 Cos19-10.webp",
+    "6. Resources/5e Modules/Curse Of Strahd/img/003-cos19-10.png",
+    "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
+    "6. Resources/5e Modules/Curse Of Strahd/03 Chapter-1 Into The Mists.md",
     "4. World Almanac/Places of Interest/Places of Interest.md",
     "4. World Almanac/Regions/Regions.md",
     "4. World Almanac/Settlements/Settlements.md",
@@ -201,17 +207,7 @@
     "4. World Almanac/Worlds/Worlds.md",
     "4. World Almanac/Worlds/Eldoria.md",
     "1. DM Screen/Lookup Tables/Travel Time.md",
-    "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
     "compendium/bestiary/npc/img/005-cos02-02.png",
-    "compendium/bestiary/undead/token/poltergeist.png",
-    "compendium/bestiary/fiend/img/dybbuk.webp",
-    "compendium/bestiary/monstrosity/img/peryton.jpg",
-    "compendium/bestiary/humanoid/img/kobold-scale-sorcerer.webp",
-    "compendium/books/van-richtens-guide-to-ravenloft/img/091-03-030-wearing-a-mask.png",
-    "compendium/bestiary/humanoid/token/commoner.png",
-    "compendium/bestiary/fiend/token/nycaloth.png",
-    "compendium/items/img/horn-of-valhalla.jpg",
-    "compendium/bestiary/fiend/token/oinoloth.png",
     "compendium/vehicles/vehicles.md",
     "compendium/vehicles/apparatus-of-kwalish.md",
     "compendium/vehicles",
@@ -234,10 +230,6 @@
     "compendium/rules/variant-rules/skills-with-different-abilities.md",
     "compendium/rules/variant-rules/skill-variants.md",
     "compendium/rules/variant-rules/simultaneous-effects-xge.md",
-    "compendium/rules/variant-rules/scroll-mishaps.md",
-    "compendium/rules/variant-rules/sidekicks-tce.md",
-    "compendium/rules/variant-rules/shared-campaign-variant-rules-xge.md",
-    "compendium/rules/variant-rules/rest-variants.md",
     "Untitled.canvas"
   ]
 }
