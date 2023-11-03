@@ -11,11 +11,34 @@
             "id": "a8c2c74604e241bd",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ffc8f05569f58dc3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "6. Resources/Resources/A Guide to Curse of Strahd.pdf"
+              }
+            }
+          },
+          {
+            "id": "f4b4dc987502f78e",
+            "type": "leaf",
+            "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -182,10 +205,14 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "a88a1818b2c15bdd",
+  "active": "f4b4dc987502f78e",
   "lastOpenFiles": [
-    "6. Resources/5e Modules/Curse Of Strahd/img/000 Cos01-01.webp",
     "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
+    "6. Resources/Resources/A Guide to Curse of Strahd.pdf",
+    "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
+    "6. Resources/5e Modules/Curse Of Strahd/05 Chapter-3 The Village Of Barovia.md",
+    "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
+    "6. Resources/5e Modules/Curse Of Strahd/img/000 Cos01-01.webp",
     "4. World Almanac/NPCs/NPCs.md",
     "5. Mechanics/Bestiary/Celestial/Celestial.md",
     "5. Mechanics/Bestiary/Celestial/Authority (SAF).md",
@@ -198,7 +225,6 @@
     "6. Resources/5e Modules/Curse Of Strahd/img/002-cos01-02.png",
     "6. Resources/5e Modules/Curse Of Strahd/img/003 Cos19-10.webp",
     "6. Resources/5e Modules/Curse Of Strahd/img/003-cos19-10.png",
-    "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
     "6. Resources/5e Modules/Curse Of Strahd/03 Chapter-1 Into The Mists.md",
     "4. World Almanac/Places of Interest/Places of Interest.md",
     "4. World Almanac/Regions/Regions.md",
@@ -209,7 +235,6 @@
     "4. World Almanac/Worlds/Worlds.md",
     "4. World Almanac/Worlds/Eldoria.md",
     "1. DM Screen/Lookup Tables/Travel Time.md",
-    "compendium/bestiary/npc/img/005-cos02-02.png",
     "compendium/vehicles/vehicles.md",
     "compendium/vehicles/apparatus-of-kwalish.md",
     "compendium/vehicles",
@@ -220,8 +245,6 @@
     "compendium/bestiary/ooze/token",
     "compendium/bestiary/plant/token",
     "compendium/bestiary/beast/img",
-    "compendium/bestiary/plant/img",
-    "compendium/deities/img",
     "compendium/rules/variant-rules/wands-that-dont-recharge.md",
     "compendium/rules/variant-rules/tying-knots-xge.md",
     "compendium/rules/variant-rules/tool-proficiencies-xge.md",
@@ -229,7 +252,6 @@
     "compendium/rules/variant-rules/sleep-xge.md",
     "compendium/rules/variant-rules/spellcasting-xge.md",
     "compendium/rules/variant-rules/spell-points.md",
-    "compendium/rules/variant-rules/skills-with-different-abilities.md",
     "Untitled.canvas"
   ]
 }
