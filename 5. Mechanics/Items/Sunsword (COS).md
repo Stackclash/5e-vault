@@ -14,7 +14,7 @@ aliases:
 ---
 # Sunsword
 *Melee Weapon, legendary (requires attunement)*  
-![[5. Mechanics/Items/img/Sunsword.webp#right]]  
+![[5. Mechanics/Items/img/sunsword.webp#right]]  
 
 - **Damage**:
   - One-handed: 1d8 R

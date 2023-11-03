@@ -18,7 +18,7 @@ aliases:
 ---
 # Frost Brand
 *Generic Variant, major, very rare (requires attunement)*  
-![[5. Mechanics/Items/img/Frost Brand.webp#right]]  
+![[5. Mechanics/Items/img/frost-brand.webp#right]]  
 
 
 When you hit with an attack using this magic sword, the target takes an extra `dice: 1d6|avg` (`1d6`) cold damage. In addition, while you hold the sword, you have resistance to fire damage.

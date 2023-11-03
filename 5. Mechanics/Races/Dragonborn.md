@@ -8,7 +8,7 @@ aliases: ["Dragonborn"]
 ---
 # Dragonborn
 *Source: Player's Handbook p. 32. Available in the SRD.*  
-![[5. Mechanics/Races/img/Dragonborn.webp#right]]  
+![[5. Mechanics/Races/img/dragonborn.webp#right]]  
 
 - **Ability Scores**: Strength +2, Charisma +1
 - **Type**: race

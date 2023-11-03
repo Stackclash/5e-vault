@@ -17,7 +17,7 @@ aliases:
 ---
 # Dragon Slayer
 *Generic Variant, major, rare*  
-![[5. Mechanics/Items/img/Dragon Slayer.webp#right]]  
+![[5. Mechanics/Items/img/dragon-slayer.webp#right]]  
 
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon.

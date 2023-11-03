@@ -8,7 +8,7 @@ aliases: ["Shifter"]
 ---
 # Shifter
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 32*  
-![[5. Mechanics/Races/img/Shifter.webp#right]]  
+![[5. Mechanics/Races/img/shifter.webp#right]]  
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Type**: race

@@ -8,7 +8,7 @@ aliases: ["Warforged"]
 ---
 # Warforged
 *Source: Eberron: Rising from the Last War p. 35*  
-![[5. Mechanics/Races/img/Warforged.webp#right]]  
+![[5. Mechanics/Races/img/warforged.webp#right]]  
 
 - **Ability Scores**: Constitution +2, Apply +1 to one of Strength, Dexterity, Intelligence, Wisdom, Charisma
 - **Type**: race
@@ -111,4 +111,4 @@ Most warforged were assigned numerical designations for use in military service.
 **Warforged Names**: Anchor, Banner, Bastion, Blade, Blue, Bow, Cart, Church, Crunch, Crystal, Dagger, Dent, Five, Glaive, Hammer, Iron, Lucky, Mace, Oak, Onyx, Pants, Pierce, Red, Rod, Rusty, Scout, Seven, Shield, Slash, Smith, Spike, Temple, Vault, Wall
 
 
-![[5. Mechanics/Races/img/Warforged-001.webp#center]]
+![[5. Mechanics/Races/img/warforged-001.webp#center]]

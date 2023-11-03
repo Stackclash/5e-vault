@@ -11,7 +11,7 @@ aliases:
 ---
 # Bag of Holding
 *Wondrous Item, minor, uncommon*  
-![[5. Mechanics/Items/img/Bag Of Holding.webp#right]]  
+![[5. Mechanics/Items/img/bag-of-holding.webp#right]]  
 
 - **Weight**: 15.0 lbs.
 

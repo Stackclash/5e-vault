@@ -9,7 +9,7 @@ aliases: ["The Devourer"]
 ---
 # The Devourer
 *Source: Eberron: Rising from the Last War p. 141* 
-![[5. Mechanics/Deities/img/Erlw The Dark Six.webp#symbol\|The Dark Six]]
+![[5. Mechanics/Deities/img/erlw-the-dark-six.webp#symbol\|The Dark Six]]
 
 - **Alignment**: Unaligned
 - **Category**: The Dark Six

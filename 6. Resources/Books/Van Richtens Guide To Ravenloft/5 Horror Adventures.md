@@ -300,7 +300,7 @@ In cases where the curse arises from a creature, such as a dying villain's last 
 
 Most curses have three distinct components: pronouncement, burden, and resolution. Whatever form these take, at least one of them, especially the burden or resolution, should have an ironic connection to the action that triggered the curse.
 
-![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/108-04-004 A Dying Priest Of Ezra.webp#center\|A dying priest of Ezra curses his murderer]]
+![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/108-04-004-a-dying-priest-of-ezra.webp#center\|A dying priest of Ezra curses his murderer]]
 
 #### Pronouncement
 
@@ -412,7 +412,7 @@ The character is cursed with [[5. Mechanics/Bestiary/Monstrosity/Loup Garou (VRG
 
 This curse can't be broken until the character is reduced to 0 hit points by a silvered weapon. If the character survives, the curse can be broken as described in the ""Loup Garou Lycanthropy"" section of "chapter 5". Treat the character as a [[5. Mechanics/Bestiary/Humanoid/Werewolf.md\|werewolf]] whose loup garou progenitor has been killed.
 
-![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/109-04-005 Ancient Curse.webp#center\|"In Har'Akir, an ancient curse awakens the Children of Ankhtepot"]]
+![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/109-04-005-ancient-curse.webp#center\|"In Har'Akir, an ancient curse awakens the Children of Ankhtepot"]]
 
 ## Fear and Stress
 

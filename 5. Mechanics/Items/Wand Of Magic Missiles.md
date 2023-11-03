@@ -11,7 +11,7 @@ aliases:
 ---
 # Wand of Magic Missiles
 *Wand, major, uncommon*  
-![[5. Mechanics/Items/img/Wand Of Magic Missiles.webp#right]]  
+![[5. Mechanics/Items/img/wand-of-magic-missiles.webp#right]]  
 
 - **Weight**: 1.0 lbs.
 

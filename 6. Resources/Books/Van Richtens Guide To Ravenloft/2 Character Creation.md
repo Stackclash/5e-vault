@@ -36,7 +36,7 @@ Choose a fateful cast to your origins with optional features for any background.
 
 Learn what [[5. Mechanics/Items/Horror Trinket (VRGR).md\|creepy curio]] inspires or haunts your adventures.
 
-![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/008-01-001 Chapter One Intro.webp#center\|"Monster hunters Gennifer and Laurie Weathermay- Foxgrove corner the werewolf Natalia Vhorishkova"]]
+![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/008-01-001-chapter-one-intro.webp#center\|"Monster hunters Gennifer and Laurie Weathermay- Foxgrove corner the werewolf Natalia Vhorishkova"]]
 
 ## Haunted Heroes
 
@@ -79,7 +79,7 @@ This book assumes you're playing a character who pits themself against fearful f
 
 Playing horror adventures is similar to telling ghost stories around a fire. You and the game's other players are allies in creating a fun, safe, moody atmosphere for your game. Contribute to this by keeping the following elements in mind:
 
-![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/009-01-002 Orc Hero.webp#center\|"Despite a vampire's bite, an orc hero faces his fears"]]
+![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/009-01-002-orc-hero.webp#center\|"Despite a vampire's bite, an orc hero faces his fears"]]
 
 - **Focus on the Game.** Atmosphere requires attention. You're not embracing or contributing to the adventure's moody atmosphere when you're focused on something else.  
 - **Limit Comedy.** Be aware that comedy breaks tension. Nothing dispels an ominous atmosphere like jokes, be they in character or otherwise.  
@@ -144,7 +144,7 @@ The Kargat, this shattered domain's secret police, supposedly know the secret of
 
 At night, the starving city of I'Cath is overrun by vampiric [[5. Mechanics/Bestiary/Undead/Jiangshi (VRGR).md\|jiangshi]] (described in "chapter 5"). You were left with a cold hunger after an encounter with one of these unquiet ancestors.
 
-![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/011-01-004 Savra Sunstar.webp#center\|"The dhampir Savra Sunstar confronts her father, the vampire Jander Sunstar"]]
+![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/011-01-004-savra-sunstar.webp#center\|"The dhampir Savra Sunstar confronts her father, the vampire Jander Sunstar"]]
 
 ## Hexblood
 
@@ -166,7 +166,7 @@ Whimsical witches make their homes in the forests of Kartakass. They eagerly gra
 
 Many of the children in the town of Viktal are hexbloods who exhibit their supernatural natures from a young age. Each youngster is considered a gift from the town's patron deity, who is known as Mother.
 
-![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/013-01-006 Hexblood Cauldron.webp#center\|"Hexbloods infused with the magic of sea, green, and annis hags share a moment around the cauldron."]]
+![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/013-01-006-hexblood-cauldron.webp#center\|"Hexbloods infused with the magic of sea, green, and annis hags share a moment around the cauldron."]]
 
 ## Reborn
 
@@ -188,7 +188,7 @@ You awoke amid the bizarre experiments of an amoral scientist. They consider you
 
 You emerged from the mysterious device known as the Apparatus, your body a lifeless shell and your past a mystery.
 
-![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/015-01-008 Apparatus Of Mordent.webp#center\|"Wary and confused, a reborn emerges after the infamous Apparatus of Mordent malfunctions."]]
+![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/015-01-008-apparatus-of-mordent.webp#center\|"Wary and confused, a reborn emerges after the infamous Apparatus of Mordent malfunctions."]]
 
 ## Dark Gifts
 
@@ -198,7 +198,7 @@ A character can select a Dark Gift from the ""Dark Gifts Descriptions"" section.
 
 Dark Gifts are intended for starting characters, but characters who don't choose one might be presented with opportunities to gain a Dark Gift as their stories—and desperate circumstances—unfold.
 
-![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/016-01-009 Sinister Forces.webp#center\|"Sinister forces lurk in the shadows, enticing the unwary with Dark Gifts."]]
+![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/016-01-009-sinister-forces.webp#center\|"Sinister forces lurk in the shadows, enticing the unwary with Dark Gifts."]]
 
 ### Dark Bargains
 
@@ -231,9 +231,9 @@ This section presents a selection of Dark Gifts in alphabetical order.
 
 At 3rd level, a bard chooses a Bard College. At 1st level, a warlock chooses an Otherworldly Patron. This section offers the [[5. Mechanics/Classes/Bard College Of Spirits (VRGR).md\|College of Spirits]] for the bard and [[5. Mechanics/Classes/Warlock The Undead (VRGR).md\|The Undead]] Otherworldly Patron for the warlock, expanding their options for those choices.
 
-![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/018-01-011 Bard Of Spirits.webp#center\|"A human bard of spirits evokes a tale inspired by the Avenger tarokka card."]]
+![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/018-01-011-bard-of-spirits.webp#center\|"A human bard of spirits evokes a tale inspired by the Avenger tarokka card."]]
 
-![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/019-01-012 Wood Elf Warlock Of The Undead.webp#center\|Wood Elf Warlock of the Undead]]
+![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/019-01-012-wood-elf-warlock-of-the-undead.webp#center\|Wood Elf Warlock of the Undead]]
 
 ## Backgrounds
 
@@ -256,7 +256,7 @@ This section presents optional features for any background. You may replace the 
 > If you're interested in exploring this, the Inheritor background feature provides a token that might be passed on from a previous character. Perhaps it's a signature tool, a journal, or a dormant (or misplaced) magic item. Work with your DM to detail this inheritance and how it can factor into future adventures.
 ^generational-background-features
 
-![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/020-01-013 A Knight Of The Circle.webp#center\|"A knight of the Circle takes up her ancestors' sacred charge to challenge the dark."]]
+![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/020-01-013-a-knight-of-the-circle.webp#center\|"A knight of the Circle takes up her ancestors' sacred charge to challenge the dark."]]
 
 ### Horror Characteristics
 
@@ -336,6 +336,6 @@ Characters in a horror-focused campaign might have distinct motivations and char
 
 ### Horror Trinkets
 
-![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/023-01-016 Raven Letter.webp#center]]
+![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/023-01-016-raven-letter.webp#center]]
 
 Sinister deeds and festering evils take many forms, sometimes as stories and sometimes as physical scars. All manner of talismans, mementos, criminal evidence, mysterious devices, cursed relics, and physical impossibilities might embody just such scars—[[5. Mechanics/Items/Horror Trinket (VRGR).md\|summaries of terrors in material form]].

@@ -11,7 +11,7 @@ aliases:
 ---
 # Lantern of Revealing
 *Wondrous Item, minor, uncommon*  
-![[5. Mechanics/Items/img/Lantern Of Revealing.webp#right]]  
+![[5. Mechanics/Items/img/lantern-of-revealing.webp#right]]  
 
 - **Weight**: 2.0 lbs.
 

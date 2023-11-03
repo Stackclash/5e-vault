@@ -8,7 +8,7 @@ aliases: ["Chapter 13: The Amber Temple"]
 # Chapter 13: The Amber Temple
 *Source: Curse of Strahd, p. 181* 
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/116 Cos13-01.webp#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/116-cos13-01.webp#center]]
 
 A secret society of good-aligned wizards built the Amber Temple in the Balinok Mountains more than two thousand years ago. They needed a vault in which to contain the evil vestiges (remnants of dead, malevolent entities) they had captured and the hoard of forbidden knowledge they had amassed. They dedicated the temple to a god of secrets, whom they trusted to keep it hidden from the rest of the world until the end of time. Unfortunately for the wizards, even the will of a god couldn't prevent other evil creatures from learning the temple's location. The wizards were forced to guard the temple themselves, to keep its secrets from falling into villainous hands. The evil forces that were imprisoned within the temple eventually corrupted the wizards, turning them against one another.
 
@@ -218,7 +218,7 @@ The cracks in the floor were made by the golem in area X10. The arrow slits are 
 
 The hanging lanthorns have [[5. Mechanics/Spells/Continual Flame.md\|continual flame]] spells cast on them. The black slate slab once served as a chalkboard and has a few chalk marks on it.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/119 Cos13-03.webp#center\|Vilnius and Quasit]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/119-cos13-03.webp#center\|Vilnius and Quasit]]
 
 Hiding behind the lectern is [[5. Mechanics/Bestiary/Npc/Vilnius (COS).md\|Vilnius]] (NE male human [[5. Mechanics/Bestiary/Humanoid/Mage.md\|mage]]) and his [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]] [[5. Mechanics/Bestiary/Fiend/Quasit.md\|quasit]] familiar. Characters who have a passive Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) score of 17 or higher notice him. A character who actively searches the room for hidden occupants spots [[5. Mechanics/Bestiary/Npc/Vilnius (COS).md\|Vilnius]] with a successful DC 12 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check.
 
@@ -865,7 +865,7 @@ If the golem is visible, add:
 
 The ceiling here is 30 feet high and flat. The statue in the northern alcove is an [[5. Mechanics/Bestiary/Construct/Amber Golem (COS).md\|amber golem]] (use the stat block for the [[5. Mechanics/Bestiary/Construct/Stone Golem.md\|stone golem]] in the "Monster Manual"). It attacks any creature that disturbs the treasure. The golem can leave the room but can't leave the Amber Temple.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/122 Cos13-05.webp#center\|Amber Golem]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/122-cos13-05.webp#center\|Amber Golem]]
 
 See area X41 for a description of the cracks in the south wall.
 

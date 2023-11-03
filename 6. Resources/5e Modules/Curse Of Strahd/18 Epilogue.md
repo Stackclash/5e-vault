@@ -20,7 +20,7 @@ If Strahd prevails, he seals the characters in the catacombs (chapter 4, area K8
 
 With the characters out of the way, Strahd shifts his attention back to making [[5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md\|Ireena Kolyana]] his bride. If she is still alive and within his grasp, Ireena is turned into a vampire spawn and sealed in her crypt beneath Castle Ravenloft.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/131 Cos16-01.webp#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/131-cos16-01.webp#center]]
 
 ## Strahd Dies
 
@@ -101,4 +101,4 @@ Ezmerelda's suspicion proves justified. Strahd's destruction is temporary, for h
 
 After the mists reappear, [[5. Mechanics/Bestiary/Npc/Madam Eva (COS).md\|Madam Eva]] and her Vistani come back to the valley, the beasts of the land once more fall under Strahd's spell, and the burgomasters fortify their settlements, hoping against all hope that someone can save them from Strahd again.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/132 Cos16-02.webp#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/132-cos16-02.webp#center]]

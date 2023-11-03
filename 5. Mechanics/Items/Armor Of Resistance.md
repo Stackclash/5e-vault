@@ -12,7 +12,7 @@ aliases:
 ---
 # Armor of Resistance
 *Generic Variant, major, rare (requires attunement)*  
-![[5. Mechanics/Items/img/Armor Of Resistance.webp#right]]  
+![[5. Mechanics/Items/img/armor-of-resistance.webp#right]]  
 
 
 You have resistance to one type of damage while you wear this armor. The DM chooses the type or determines it randomly from the options below.

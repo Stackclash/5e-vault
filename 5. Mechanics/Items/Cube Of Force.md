@@ -12,7 +12,7 @@ aliases:
 ---
 # Cube of Force
 *Wondrous Item, major, rare (requires attunement)*  
-![[5. Mechanics/Items/img/Cube Of Force.webp#right]]  
+![[5. Mechanics/Items/img/cube-of-force.webp#right]]  
 
 
 This cube is about an inch across. Each face has a distinct marking on it that can be pressed. The cube starts with 36 charges, and it regains `dice: 1d20|avg` (`1d20`) expended charges daily at dawn.

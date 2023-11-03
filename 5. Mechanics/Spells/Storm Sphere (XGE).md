@@ -14,7 +14,7 @@ aliases: ["Storm Sphere"]
 # Storm Sphere
 %%-- Embedded content starts on the next line. --%%
 *4th-level, Evocation*  
-![[5. Mechanics/Spells/img/Storm Sphere.webp#right]]  
+![[5. Mechanics/Spells/img/storm-sphere.webp#right]]  
 
 - **Casting time:** 1 action
 - **Range:** 150 feet

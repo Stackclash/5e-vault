@@ -8,7 +8,7 @@ aliases: ["Chapter 4: Castle Ravenloft"]
 # Chapter 4: Castle Ravenloft
 *Source: Curse of Strahd, p. 49* 
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/023 Cos04-01.webp#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/023-cos04-01.webp#center]]
 
 Castle Ravenloft was built atop the ruin of an older fortress by artisans, wizards, and workers loyal to Strahd's family. Strahd rewarded the castle's genius architect, Artimus, with a crypt in the castle's catacombs. The castle was named after Strahd's mother, Ravenovia, who also lies entombed below.
 
@@ -490,7 +490,7 @@ The organ appears locked in place and immovable, but a character who makes a suc
 
 The food on the table is tasty, the wine delicious.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/026 Cos04-04.webp#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/026-cos04-04.webp#center]]
 
 ### K11. South Archers' Post
 
@@ -635,7 +635,7 @@ The tower, including the spiral staircase, is alive. When the characters set foo
 > As you step onto the spiral staircase, a reddish light flares high overhead, then settles into a dull, pulsing red glow. You now see the full immensity of this tower. The spiral staircase circles up the tower's full height. The tower, sixty feet wide at its base, becomes narrower as it climbs. At the pinnacle of the hollow tower, a large crystal heart pulsates with red light. Above the heart, the stairs continue upward.
 ^1d5
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/027 Cos04-05.webp#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/027-cos04-05.webp#center]]
 
 Have the characters and the Heart of Sorrow roll initiative. If the characters leave the tower and later return, they can reroll initiative, but the heart's initiative count doesn't change.
 
@@ -800,7 +800,7 @@ The staircase climbs from area K16 to area K28. It seems unstable but is sturdy.
 
 The figure is [[5. Mechanics/Bestiary/Npc/Lief Lipsiege (COS).md\|Lief Lipsiege]] (CE male human [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoner]]), an accountant. He is chained to the heavy wooden desk and has no interest in the characters or their concerns. Under no circumstances does he voluntarily leave the room. Lief pulls the rope the instant he feels threatened.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/029 Cos04-07.webp#center\|Lief Lipsiege]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/029-cos04-07.webp#center\|Lief Lipsiege]]
 
 Pulling the rope requires an action. When the rope is pulled, a tremendously loud gong sounds. One or more creatures arrive `dice: 1d6|avg` (`1d6`) rounds later, attacking any characters still in the room. Determine the creatures randomly by rolling a `dice: d4|avg` (`d4`):
 
@@ -988,7 +988,7 @@ The real treasure here is Strahd's collection of books—over one thousand uniqu
 
 Roll a `dice: d12|avg` (`d12`) and consult the following table to determine the subject matter of a randomly chosen book.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/031 Cos04-09.webp#center\|Tatyana]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/031-cos04-09.webp#center\|Tatyana]]
 
 | dice: d12 | Book |
 |-----------|------|
@@ -1103,7 +1103,7 @@ If your card reading indicates an encounter with [[5. Mechanics/Bestiary/Npc/Str
 > A large bed, canopied by silk curtains, sits with its headboard against the north wall. Carved into the headboard with great skill is a large "Z." Lying amid the velvet and satin sheets and bedclothes is a young woman in a nightgown. One of her dainty slippers has fallen to the floor at the bed's foot.
 ^219
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/032 Cos04-10.webp#center\|Gertruda]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/032-cos04-10.webp#center\|Gertruda]]
 
 Arched double doors lead from this room to the south and east.
 
@@ -1189,7 +1189,7 @@ Refer to maps 6 through 10 of Castle Ravenloft for areas K47 through K60.
 > An ornate, square rug covers the floor to the south. Set into the west wall is an ironbound wooden door with a wooden trapdoor set into the floor in front of it. Hanging on the north wall above the trapdoor is a framed portrait of a handsome, well-dressed man with a serene yet penetrating gaze.
 ^226
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/034 Cos04-11.webp#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/034-cos04-11.webp#center]]
 
 The ornate rug is actually a [[5. Mechanics/Bestiary/Construct/Rug Of Smothering.md\|rug of smothering]]. It attacks creatures, other than undead, that move across it or anyone who tries to move it or otherwise disturb it. Underneath the rug is a bare stone floor.
 
@@ -1217,7 +1217,7 @@ This stairway rises from area K47, past area K54, to area K57.
 
 The youthful man on the couch is [[5. Mechanics/Bestiary/Npc/Escher (COS).md\|Escher]], a dashing [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md\|vampire spawn]] to whom Strahd has shown favor in the past. [[5. Mechanics/Bestiary/Npc/Escher (COS).md\|Escher]] is feeling somewhat neglected of late and has retreated here until Strahd's mood improves. If attacked, he hurls himself out the window and lands like a cat on the roof of the keep (area K53). He leads pursuers right to Strahd, wherever the lord of the castle happens to be (and regardless of whether the characters are ready to face Strahd).
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/035 Cos04-20.webp#center\|Escher and the Three Brides]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/035-cos04-20.webp#center\|Escher and the Three Brides]]
 
 In conversation, [[5. Mechanics/Bestiary/Npc/Escher (COS).md\|Escher]] displays wit with a hint of melancholy. Beneath his arch mood is a dread that Strahd is growing bored of him and will lock him in the catacombs (area K84) with Strahd's other castoff consorts.
 
@@ -1405,7 +1405,7 @@ If the characters climb the stairs to this area, read:
 
 The ceiling here is 9 feet high. The manacles are rusted and can be easily torn from the walls. The trapdoor in the ceiling leads to the tower rooftop (area K60a).
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/037 Cos19-10.webp#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/037-cos19-10.webp#center]]
 
 #### Treasure
 
@@ -1488,7 +1488,7 @@ The figure approaching is [[5. Mechanics/Bestiary/Npc/Cyrus Belview (COS).md\|Cy
 
 The light in the hall comes from a lantern on the floor behind Cyrus. If the characters have their own light sources, Cyrus sees them, but he will not attack first. He wears a loop of twine around his neck, hanging from which is an iron key and a decorative wooden pendant fitted with a varnished human eyeball. The key unlocks the iron chest in area K60. The wooden pendant is a *hag eye* given to Cyrus by the [[5. Mechanics/Bestiary/Fiend/Night Hag.md\|night hag]] [[5. Mechanics/Bestiary/Npc/Morgantha (COS).md\|Morgantha]] (see chapter 6), so that she could spy on Strahd. Cyrus doesn't know that the necklace is magical. See the "Hag Covens" sidebar in the hags entry in the "Monster Manual" for information about the *hag eye*.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/041 Cos04-16.webp#center\|Cyrus Belview]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/041-cos04-16.webp#center\|Cyrus Belview]]
 
 Poor old Cyrus is obviously crazy. He has served the master for uncounted years and is devoted to him. Cyrus tries to get the characters to retire to their "room in the tower" (area K49). If the characters aren't sure what room he is talking about, he offers to lead them there.
 
@@ -1775,7 +1775,7 @@ The corridor is 40 feet long. Branching off it are eight cells, four along each 
 
 The man is [[5. Mechanics/Bestiary/Npc/Emil Toranescu (COS).md\|Emil Toranescu]], a [[5. Mechanics/Bestiary/Humanoid/Werewolf.md\|werewolf]] with 72 hit points. He claims to be a resident of Vallaki who was chased by dire wolves to the castle. He begs the characters to rescue him, offering to help them in exchange.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/043 Cos04-18.webp#center\|Emil Toranescu]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/043-cos04-18.webp#center\|Emil Toranescu]]
 
 In truth, Strahd locked Emil here as punishment for causing a schism in his werewolf pack (see chapter 15). Anxious to prove his worth to Strahd, Emil rewards the characters for freeing him by attacking them when a good opportunity arises. Emil doesn't turn against the characters if they claim to be allies of his wife, Zuleika (see chapter 15, area Z7). In that case, he tries to leave the castle and reunite with her, staying with the characters only until an opportunity to leave presents itself.
 
@@ -1839,7 +1839,7 @@ If the characters approach the "dark, low shapes" in the water, read:
 
 As soon as one or more characters move more than 10 feet into the room, six [[5. Mechanics/Bestiary/Undead/Strahd Zombie (COS).md\|Strahd zombies]] rise slowly out of the water, their slime-gray arms clawing upward through the water as they attack.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/044 Cos04-19.webp#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/044-cos04-19.webp#center]]
 
 ### K77. Observation Balcony
 
@@ -2699,7 +2699,7 @@ A creature of lawful good alignment that moves west to east through the curtain 
 > This tomb rests in hushed silence. Tall, stained glass windows dominate the eastern walls, allowing dim light to fall on two coffins resting atop white marble slabs. The one against the north wall is marked King Barov von Zarovich, and the one against the south wall is marked Queen Ravenovia van Roeyen. The vaulted ceiling thirty feet overhead is inlaid with a beautiful gold mosaic.
 ^323
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/045 Cos04-21.webp#center\|King Barov and Queen Ravenovia]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/045-cos04-21.webp#center\|King Barov and Queen Ravenovia]]
 
 The stained glass windows are so dirty on the outside as to be nearly opaque. The windows don't open, but they can be smashed easily. Anyone who looks upward through a window can see, 110 feet above, the castle's stone overlook (area K6). Anyone who falls out a window here plummets almost 900 feet to the base of the Pillarstone of Ravenloft.
 

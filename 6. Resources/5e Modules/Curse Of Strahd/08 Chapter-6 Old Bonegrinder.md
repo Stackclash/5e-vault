@@ -10,7 +10,7 @@ aliases: ["Chapter 6: Old Bonegrinder"]
 
 Once a grain mill that served Vallaki, this slouching windmill is now home to three night hags: [[5. Mechanics/Bestiary/Npc/Morgantha (COS).md\|Morgantha]] and her wretched daughters, Bella Sunbane and Offalia Wormwiggle. The hags are trapped in Barovia, but they like it here. Using their Change Shape action to look like Barovian women—a frumpy mother and her two homely daughters—the hags snatch children, devour them, and use the windmill's grindstone to crush their little bones into powder. This powder is a key ingredient in the hags' dream pastries, which they offer to Barovian adults who are desperate to escape Strahd's domain.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/070 Cos06-01.webp#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/070-cos06-01.webp#center]]
 
 Made with the bones of the innocent, the hags' dream pastries allow Barovians to enter a trance, wherein they can escape to heavenly places full of joy. When adults can no longer afford the hag's dream pastries, the hags offer to trade their pastries for the Barovians' children, thus preying on the adults' selfishness while acquiring the ingredients they need to make more pastries. This is how the hags sow corruption in Strahd's domain and why they don't take the children by force. The hags are interested only in children who have souls. They prick each child with a needle; if the child cries, that's a sign that the infant has a soul.
 
@@ -50,7 +50,7 @@ A character who succeeds on a DC 12 Wisdom ([[/5. Mechanics/Rules/Skills.md#Insi
 
 Beyond the windmill is the forest. Once atop the windmill's hill, the characters can see a ring of four squat megaliths at the forest's edge. Ravens can be seen circling in the air above the stones, which are described at the end of the chapter.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/071 Cos06-02.webp#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/071-cos06-02.webp#center]]
 
 ## Areas of the Windmill
 
@@ -139,7 +139,7 @@ Characters searching this space find a few old, abandoned bird's nests.
 
 If your card reading reveals that a treasure is here, it's easy to find, either tucked in a bird's nest or buried under some dirt in a corner.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/074 Cos06-04.webp#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/074-cos06-04.webp#center]]
 
 ## The Megaliths
 

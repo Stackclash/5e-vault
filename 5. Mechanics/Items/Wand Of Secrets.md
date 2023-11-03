@@ -11,7 +11,7 @@ aliases:
 ---
 # Wand of Secrets
 *Wand, minor, uncommon*  
-![[5. Mechanics/Items/img/Wand Of Secrets.webp#right]]  
+![[5. Mechanics/Items/img/wand-of-secrets.webp#right]]  
 
 - **Weight**: 1.0 lbs.
 

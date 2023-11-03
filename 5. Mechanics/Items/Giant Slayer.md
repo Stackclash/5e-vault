@@ -20,7 +20,7 @@ aliases:
 ---
 # Giant Slayer
 *Generic Variant, major, rare*  
-![[5. Mechanics/Items/img/Giant Slayer.webp#right]]  
+![[5. Mechanics/Items/img/giant-slayer.webp#right]]  
 
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon.

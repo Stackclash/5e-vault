@@ -11,7 +11,7 @@ aliases:
 ---
 # Deck of Many Things
 *Wondrous Item, major, legendary*  
-![[5. Mechanics/Items/img/Deck Of Many Things.webp#right]]  
+![[5. Mechanics/Items/img/deck-of-many-things.webp#right]]  
 
 
 Usually found in a box or pouch, this deck contains a number of cards made of ivory or vellum. Most (75% chance) of these decks have only thirteen cards, but the rest have twenty-two.

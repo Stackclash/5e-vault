@@ -11,7 +11,7 @@ aliases:
 ---
 # Icon of Ravenloft
 *Wondrous Item, legendary (requires attunement by a creature of good alignment)*  
-![[5. Mechanics/Items/img/Icon Of Ravenloft.webp#right]]  
+![[5. Mechanics/Items/img/icon-of-ravenloft.webp#right]]  
 
 - **Weight**: 10.0 lbs.
 

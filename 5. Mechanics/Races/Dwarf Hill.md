@@ -8,7 +8,7 @@ aliases: ["Dwarf (Hill)"]
 ---
 # Dwarf (Hill)
 *Source: Player's Handbook p. 20. Available in the SRD and the Basic Rules.*  
-![[5. Mechanics/Races/img/Dwarf.webp#right]]  
+![[5. Mechanics/Races/img/dwarf.webp#right]]  
 
 - **Ability Scores**: Wisdom +1
 - **Type**: subrace

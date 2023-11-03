@@ -34,7 +34,7 @@ aliases:
 ---
 # Armblade
 *Generic Variant, common (requires attunement by a warforged)*  
-![[5. Mechanics/Items/img/Armblade.webp#right]]  
+![[5. Mechanics/Items/img/armblade.webp#right]]  
 
 
 An armblade is a magic weapon that attaches to your arm, becoming inseparable from you as long as you're attuned to it. To attune to this item, you must hold it against your forearm for the entire attunement period.

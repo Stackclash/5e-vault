@@ -12,7 +12,7 @@ aliases:
 ---
 # Rod of Lordly Might
 *Rod, major, legendary (requires attunement)*  
-![[5. Mechanics/Items/img/Rod Of Lordly Might.webp#right]]  
+![[5. Mechanics/Items/img/rod-of-lordly-might.webp#right]]  
 
 - **Weight**: 2.0 lbs.
 

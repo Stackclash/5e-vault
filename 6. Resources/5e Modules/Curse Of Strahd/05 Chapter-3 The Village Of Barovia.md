@@ -8,7 +8,7 @@ aliases: ["Chapter 3: The Village of Barovia"]
 # Chapter 3: The Village of Barovia
 *Source: Curse of Strahd, p. 41* 
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/012 Cos03-01.webp#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/012-cos03-01.webp#center]]
 
 The village of Barovia is the saddest place in the land, its residents so terrified of Strahd that they rarely venture from their homes. The village lies in the shadow of Castle Ravenloft, buried under fog but still unable to hide from the vampire's sight.
 
@@ -89,7 +89,7 @@ The tavern building is about 60 feet square. Close inspection of the sign reveal
 
 #### Roleplaying Ismark
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/015 Cos03-03.webp#center\|Ismark the Lesser]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/015-cos03-03.webp#center\|Ismark the Lesser]]
 
 Ismark (LG male human [[5. Mechanics/Bestiary/Humanoid/Veteran.md\|veteran]]) is a young man who sits by himself at a corner table, sipping his wine. Other villagers call him "Ismark the Lesser" because he has lived in the shadow of his father for most of his life.
 
@@ -122,7 +122,7 @@ If the characters arrive in the company of other Vistani, the owners are much mo
 > A moaning sob floats through the still, gray streets, coloring your thoughts with sadness. The sounds flow from a dark, two-story townhouse.
 ^14d
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/016 Cos03-04.webp#center\|Mad Mary]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/016-cos03-04.webp#center\|Mad Mary]]
 
 The house, which is about 40 feet square, is boarded up and barricaded from the inside. [[5. Mechanics/Bestiary/Npc/Mad Mary (COS).md\|Mad Mary]] (CN female human [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoner]]) sits in the center of the floor in an upstairs bedroom, clutching a malformed doll. She is lost in her sorrow and despondency. She barely recognizes the presence of anyone in the room. She says nothing in the presence of anger, but she will talk, albeit haltingly, to someone who talks with her gently.
 
@@ -152,7 +152,7 @@ Ismark and Ireena made the coffin themselves.
 
 #### Roleplaying Ireena
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/017 Cos03-05.webp#center\|Ireena Kolyana]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/017-cos03-05.webp#center\|Ireena Kolyana]]
 
 Ireena, a striking young woman with auburn hair, has been bitten twice by Strahd. The villagers are afraid of her and avoid her. The characters are Ireena's best hope for protection, so she is willing to accompany them under certain conditions. Although she appears mild, she has a strong will, and she aids the party as best she can in saving herself. She doesn't remember her early past. She doesn't know how she came to Barovia or where she came from. Moreover, her encounters with Strahd are fuzzy memories, thanks to his vampiric charm, but she can recall clearly the blazing hunger in his eyes.
 
@@ -245,7 +245,7 @@ If the characters have not already entered the undercroft, add:
 > From beneath the chapel floor, you hear a young man's voice cry out, "Father! I'm starving!"
 ^161
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/020 Cos03-07.webp#center\|Donavich]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/020-cos03-07.webp#center\|Donavich]]
 
 [[5. Mechanics/Bestiary/Npc/Donavich (COS).md\|Donavich]] (LG male human [[5. Mechanics/Bestiary/Humanoid/Acolyte.md\|acolyte]]) has been praying throughout the night. His voice is hoarse and weak. He is, in a word, insane. A little more than a year ago, his twenty-year-old son [[5. Mechanics/Bestiary/Npc/Doru (COS).md\|Doru]] and several other villagers stormed Castle Ravenloft in revolt, having been lured there by a wizard in black robes who came to Barovia from a faraway land (see chapter 2, area M, for more information on the wizard). By all accounts, the wizard died by Strahd's hand, and so too did [[5. Mechanics/Bestiary/Npc/Doru (COS).md\|Doru]], who returned to his father as a vampire spawn. [[5. Mechanics/Bestiary/Npc/Donavich (COS).md\|Donavich]] was able to trap his son in the church's undercroft, where he remains to this day.
 
@@ -269,7 +269,7 @@ Once Kolyan is put in the ground, [[5. Mechanics/Bestiary/Npc/Donavich (COS).md\
 > The church's undercroft has rough-hewn walls and a floor made of damp clay and earth. Rotting wooden pillars strain under the weight of the wooden ceiling. Candlelight from the chapel above slips though the cracks, allowing you to glimpse a gaunt shape in the far corner.
 ^164
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/021 Cos03-08.webp#center\|Doru]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/021-cos03-08.webp#center\|Doru]]
 
 The shape is [[5. Mechanics/Bestiary/Npc/Doru (COS).md\|Doru]], a [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md\|vampire spawn]] sent by Strahd to torment [[5. Mechanics/Bestiary/Npc/Donavich (COS).md\|Donavich]] and cast down the church. [[5. Mechanics/Bestiary/Npc/Doru (COS).md\|Doru]] is starved for blood and brave enough to attack a lone character. If the characters approach as a group, he does his best to avoid them while hissing, "I can smell your blood!" If they cut off his escape, he lunges forth and attacks.
 
@@ -327,4 +327,4 @@ This event occurs as the characters make their way through the village.
 - Strahd has undead enemies in Barovia, namely the fallen knights of the Order of the Silver Dragon. These revenants can be found in a ruined mansion west of Vallaki (see chapter 7, "Argynvostholt").  
 - Strahd's most carefully guarded secret is a temple of forbidden lore hidden in the mountains (see chapter 13, "The Amber Temple"). The temple can be reached by following the long and winding Tsolenka Pass (see chapter 9).  
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/022 Cos03-09.webp#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/022-cos03-09.webp#center]]

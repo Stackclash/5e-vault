@@ -14,7 +14,7 @@ aliases:
 ---
 # Dagger of Venom
 *Melee Weapon, major, rare*  
-![[5. Mechanics/Items/img/Dagger Of Venom.webp#right]]  
+![[5. Mechanics/Items/img/dagger-of-venom.webp#right]]  
 
 - **Damage**: 1d4 P
 - **Range**: 20/60

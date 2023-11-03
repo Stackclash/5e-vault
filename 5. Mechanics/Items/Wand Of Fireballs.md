@@ -12,7 +12,7 @@ aliases:
 ---
 # Wand of Fireballs
 *Wand, major, rare (requires attunement by a spellcaster)*  
-![[5. Mechanics/Items/img/Wand Of Fireballs.webp#right]]  
+![[5. Mechanics/Items/img/wand-of-fireballs.webp#right]]  
 
 - **Weight**: 1.0 lbs.
 

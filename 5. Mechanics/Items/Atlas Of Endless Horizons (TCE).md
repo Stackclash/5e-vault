@@ -11,7 +11,7 @@ aliases:
 ---
 # Atlas of Endless Horizons
 *Wondrous Item, rare (requires attunement by a wizard)*  
-![[5. Mechanics/Items/img/Atlas Of Endless Horizons.webp#right]]  
+![[5. Mechanics/Items/img/atlas-of-endless-horizons.webp#right]]  
 
 - **Weight**: 3.0 lbs.
 

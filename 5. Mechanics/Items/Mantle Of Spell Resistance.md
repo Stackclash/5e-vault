@@ -12,7 +12,7 @@ aliases:
 ---
 # Mantle of Spell Resistance
 *Wondrous Item, major, rare (requires attunement)*  
-![[5. Mechanics/Items/img/Mantle Of Spell Resistance.webp#right]]  
+![[5. Mechanics/Items/img/mantle-of-spell-resistance.webp#right]]  
 
 
 You have advantage on saving throws against spells while you wear this cloak.

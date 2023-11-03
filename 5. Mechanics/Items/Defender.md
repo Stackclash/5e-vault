@@ -18,7 +18,7 @@ aliases:
 ---
 # Defender
 *Generic Variant, major, legendary (requires attunement)*  
-![[5. Mechanics/Items/img/Defender.webp#right]]  
+![[5. Mechanics/Items/img/defender.webp#right]]  
 
 
 You gain a +3 bonus to attack and damage rolls made with this magic weapon.

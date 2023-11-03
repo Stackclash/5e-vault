@@ -12,7 +12,7 @@ aliases:
 ---
 # Scarab of Protection
 *Wondrous Item, major, legendary (requires attunement)*  
-![[5. Mechanics/Items/img/Scarab Of Protection.webp#right]]  
+![[5. Mechanics/Items/img/scarab-of-protection.webp#right]]  
 
 
 If you hold this beetle-shaped medallion in your hand for 1 round, an inscription appears on its surface revealing its magical nature. It provides two benefits while it is on your person:

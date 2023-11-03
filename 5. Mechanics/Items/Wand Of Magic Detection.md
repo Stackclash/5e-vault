@@ -11,7 +11,7 @@ aliases:
 ---
 # Wand of Magic Detection
 *Wand, minor, uncommon*  
-![[5. Mechanics/Items/img/Wand Of Magic Detection.webp#right]]  
+![[5. Mechanics/Items/img/wand-of-magic-detection.webp#right]]  
 
 - **Weight**: 1.0 lbs.
 

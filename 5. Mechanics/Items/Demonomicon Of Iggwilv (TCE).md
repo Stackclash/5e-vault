@@ -11,7 +11,7 @@ aliases:
 ---
 # Demonomicon of Iggwilv
 *Wondrous Item, artifact (requires attunement)*  
-![[5. Mechanics/Items/img/Demonomicon Of Iggwilv.webp#right]]  
+![[5. Mechanics/Items/img/demonomicon-of-iggwilv.webp#right]]  
 
 
 An expansive treatise documenting the Abyss's infinite layers and inhabitants, the Demonomicon of Iggwilv is the most thorough and blasphemous tome of demonology in the multiverse. The tome recounts both the oldest and most current profanities of the Abyss and demons. Demons have attempted to censor the text, and while sections have been ripped from the book's spine, the general chapters remain, ever revealing demonic secrets. And the book holds more than blasphemies. Caged behind lines of script roils a secret piece of the Abyss itself, which keeps the book up-to-date, no matter how many pages are removed, and it longs to be more than mere reference material.

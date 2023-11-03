@@ -12,7 +12,7 @@ The idyllic valley nestled in the Balinok Mountains was a slice of heaven to tho
 
 The land now called Barovia is no longer part of the world that Strahd once tried to conquer. It now exists within a demiplane formed by Strahd's consciousness and surrounded by a deadly fog. No creature can leave without Strahd's permission, and those that try become lost in the mist.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/004 Cos02-01.webp#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/004-cos02-01.webp#center]]
 
 Strahd allows the Vistani to come and go as they please because he admires their lust for life and their willingness to serve him when he needs them. He also owes an ancient debt to the Vistani people. As a soldier centuries ago, he suffered a grievous injury in battle, and the Vistani tended his wounds and returned him safely to his family without making any demand for payment. The Vistani claim to possess potions that allow them to leave Strahd's domain, but the potions are false concoctions with no magical power. Nevertheless, the Vistani are willing to sell them for a hefty price.
 
@@ -99,7 +99,7 @@ Barovians are deeply invested in their homes and their traditions. They are wary
 
 Barovians were a happy people once, but their history and current conditions aren't pleasant. If one manages to win the trust of a Barovian, one has a friend for life and a stalwart ally.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/005 Cos02-02.webp#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/005-cos02-02.webp#center]]
 
 Barovian children aren't happy children. They are raised in a culture of fear and told time and again not to wander too far from their homes or enter the woods. They experience little hope or joy, and they are taught to fear the devil Strahd above all.
 
@@ -187,7 +187,7 @@ Barovians have deep-rooted religious beliefs and superstitions that they pass do
 
 The Vistani (singular: Vistana) are wanderers, traveling about in horse-drawn, barrel-topped wagons, which they build themselves. Compared to Barovians, they are flamboyant, dressing in bright clothes and laughing often. As much as they feel at home in Strahd's dreary land, they know they can leave it whenever they please and aren't damned to spend eternity there.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/006 Cos02-03.webp#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/006-cos02-03.webp#center]]
 
 Vistani are silversmiths, coppersmiths, haberdashers, cooks, weavers, musicians, entertainers, storytellers, toolmakers, and horse traders. They also earn money by telling fortunes and selling information. They spend whatever they earn to support a lavish lifestyle, display their wealth openly as a sign of prosperity, and share their good fortune with family and friends.
 
@@ -676,7 +676,7 @@ Two sets of these gates exist: one west of the village of Barovia and one east o
 > The fog spills out of the forest to swallow up the road behind you. Ahead, jutting from the impenetrable woods on both sides of the road, are high stone buttresses looming gray in the fog. Huge iron gates hang on the stonework. Dew clings with cold tenacity to the rusted bars. Two headless statues of armed guardians flank the gate, their heads now lying among the weeds at their feet. They greet you only with silence.
 ^0fc
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/009 Cos02-04.webp#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/009-cos02-04.webp#center]]
 
 If the characters are traveling on foot, the gates swing open as they approach, screeching as the hinges move. The gates close behind the characters after they pass through. If the characters are riding in Vistani wagons, the gates open in front of the lead wagon and close when the rear one has entered.
 

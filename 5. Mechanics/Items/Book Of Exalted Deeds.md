@@ -11,7 +11,7 @@ aliases:
 ---
 # Book of Exalted Deeds
 *Wondrous Item, artifact (requires attunement by a creature of good alignment)*  
-![[5. Mechanics/Items/img/Book Of Exalted Deeds.webp#right]]  
+![[5. Mechanics/Items/img/book-of-exalted-deeds.webp#right]]  
 
 - **Weight**: 5.0 lbs.
 

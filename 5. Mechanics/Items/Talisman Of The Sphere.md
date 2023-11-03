@@ -12,7 +12,7 @@ aliases:
 ---
 # Talisman of the Sphere
 *Wondrous Item, major, legendary (requires attunement)*  
-![[5. Mechanics/Items/img/Talisman Of The Sphere.webp#right]]  
+![[5. Mechanics/Items/img/talisman-of-the-sphere.webp#right]]  
 
 - **Weight**: 1.0 lbs.
 

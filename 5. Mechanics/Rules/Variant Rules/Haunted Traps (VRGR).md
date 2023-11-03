@@ -42,7 +42,7 @@ While the phantom performer plays, any creature within the haunted trap's area c
 
 This haunted trap affects a 15-foot-cube in front of an ornate mirror hanging on a wall. When a visible creature enters the area, the trap's emanation manifests as the creature's distorted reflection in the mirror. If that creature is still in the area at the start of its next turn, it must succeed on a DC 12 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]], [[/5. Mechanics/Rules/Conditions.md#deafened\|deafened]], and rendered unable to speak for 1 minute. Additionally, an illusion makes it appear that the creature has had its face erased. The [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell ends this effect, as does destroying the mirror. The mirror has AC 12, 10 hit points, vulnerability to bludgeoning damage, and immunity to poison and psychic damage. After a creature fails its saving throw against the trap, the trap won't activate again for 24 hours.
 
-![[/5. Mechanics/Rules/Variant Rules/img/Vrgr-110-04-006 Faceless Malice.webp#center\|The faceless malice haunted trap claims a victim]]
+![[/5. Mechanics/Rules/Variant Rules/img/vrgr-110-04-006-faceless-malice.webp#center\|The faceless malice haunted trap claims a victim]]
 
 ### Icon of the Lower Aerial Kingdoms
 

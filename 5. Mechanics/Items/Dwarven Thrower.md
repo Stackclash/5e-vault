@@ -15,7 +15,7 @@ aliases:
 ---
 # Dwarven Thrower
 *Melee Weapon, major, very rare (requires attunement by a dwarf)*  
-![[5. Mechanics/Items/img/Dwarven Thrower.webp#right]]  
+![[5. Mechanics/Items/img/dwarven-thrower.webp#right]]  
 
 - **Damage**:
   - One-handed: 1d8 B

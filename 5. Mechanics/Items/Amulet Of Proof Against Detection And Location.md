@@ -12,7 +12,7 @@ aliases:
 ---
 # Amulet of Proof against Detection and Location
 *Wondrous Item, major, uncommon (requires attunement)*  
-![[5. Mechanics/Items/img/Amulet Of Proof Against Detection And Location.webp#right]]  
+![[5. Mechanics/Items/img/amulet-of-proof-against-detection-and-location.webp#right]]  
 
 - **Weight**: 1.0 lbs.
 

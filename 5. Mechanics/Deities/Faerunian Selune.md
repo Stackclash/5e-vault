@@ -11,7 +11,7 @@ aliases: ["Selûne", "Our Lady of Silver", "The Moonmaiden", "The Night White La
 ---
 # Selûne
 *Source: Sword Coast Adventurer's Guide p. 21, Tasha's Cauldron of Everything p. 34* 
-![[5. Mechanics/Deities/img/Scag Symbol Of Selune.webp#symbol]]
+![[5. Mechanics/Deities/img/scag-symbol-of-selune.webp#symbol]]
 
 - **Alternate Names**: Our Lady of Silver, The Moonmaiden, The Night White Lady
 - **Alignment**: Chaotic Good

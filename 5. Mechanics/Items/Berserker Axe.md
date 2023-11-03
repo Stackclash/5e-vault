@@ -15,7 +15,7 @@ aliases:
 ---
 # Berserker Axe
 *Generic Variant, major, rare (requires attunement)*  
-![[5. Mechanics/Items/img/Berserker Axe.webp#right]]  
+![[5. Mechanics/Items/img/berserker-axe.webp#right]]  
 
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon. In addition, while you are attuned to this weapon, your hit point maximum increases by 1 for each level you have attained.

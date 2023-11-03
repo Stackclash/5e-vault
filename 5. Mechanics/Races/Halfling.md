@@ -8,7 +8,7 @@ aliases: ["Halfling"]
 ---
 # Halfling
 *Source: Player's Handbook p. 26. Available in the SRD and the Basic Rules.*  
-![[5. Mechanics/Races/img/Halfling.webp#right]]  
+![[5. Mechanics/Races/img/halfling.webp#right]]  
 
 - **Ability Scores**: Dexterity +2
 - **Type**: race

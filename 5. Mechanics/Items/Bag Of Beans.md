@@ -11,7 +11,7 @@ aliases:
 ---
 # Bag of Beans
 *Wondrous Item, minor, rare*  
-![[5. Mechanics/Items/img/Bag Of Beans.webp#right]]  
+![[5. Mechanics/Items/img/bag-of-beans.webp#right]]  
 
 - **Weight**: 0.5 lbs.
 

@@ -8,7 +8,7 @@ aliases: ["Deep Gnome"]
 ---
 # Deep Gnome
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 11*  
-![[5. Mechanics/Races/img/Deep Gnome.webp#right]]  
+![[5. Mechanics/Races/img/deep-gnome.webp#right]]  
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Type**: race

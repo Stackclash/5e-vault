@@ -11,7 +11,7 @@ aliases:
 ---
 # Heward's Handy Haversack
 *Wondrous Item, minor, rare*  
-![[5. Mechanics/Items/img/Hewards Handy Haversack.webp#right]]  
+![[5. Mechanics/Items/img/hewards-handy-haversack.webp#right]]  
 
 - **Weight**: 5.0 lbs.
 

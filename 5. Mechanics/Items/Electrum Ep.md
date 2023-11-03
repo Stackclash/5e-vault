@@ -10,7 +10,7 @@ cost: 5 sp
 ---
 # Electrum (ep)
 *Treasure*  
-![[5. Mechanics/Items/img/Electrum Ep.webp#right]]  
+![[5. Mechanics/Items/img/electrum-ep.webp#right]]  
 
 - **Cost**: 5 sp
 - **Weight**: 0.02 lbs.

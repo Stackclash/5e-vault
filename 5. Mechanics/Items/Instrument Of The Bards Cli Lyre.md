@@ -12,7 +12,7 @@ aliases:
 ---
 # Instrument of the Bards, Cli Lyre
 *Instrument, major, rare (requires attunement by a bard)*  
-![[5. Mechanics/Items/img/Instrument Of The Bards Cli Lyre.webp#right]]  
+![[5. Mechanics/Items/img/instrument-of-the-bards-cli-lyre.webp#right]]  
 
 - **Weight**: 2.0 lbs.
 

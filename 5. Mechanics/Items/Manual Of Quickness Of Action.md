@@ -11,7 +11,7 @@ aliases:
 ---
 # Manual of Quickness of Action
 *Wondrous Item, major, very rare*  
-![[5. Mechanics/Items/img/Manual Of Quickness Of Action.webp#right]]  
+![[5. Mechanics/Items/img/manual-of-quickness-of-action.webp#right]]  
 
 - **Weight**: 5.0 lbs.
 

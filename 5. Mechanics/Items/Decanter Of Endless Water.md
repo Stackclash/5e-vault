@@ -11,7 +11,7 @@ aliases:
 ---
 # Decanter of Endless Water
 *Wondrous Item, minor, uncommon*  
-![[5. Mechanics/Items/img/Decanter Of Endless Water.webp#right]]  
+![[5. Mechanics/Items/img/decanter-of-endless-water.webp#right]]  
 
 - **Weight**: 2.0 lbs.
 

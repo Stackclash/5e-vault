@@ -11,7 +11,7 @@ aliases:
 ---
 # Tome of Clear Thought
 *Wondrous Item, major, very rare*  
-![[5. Mechanics/Items/img/Tome Of Clear Thought.webp#right]]  
+![[5. Mechanics/Items/img/tome-of-clear-thought.webp#right]]  
 
 - **Weight**: 5.0 lbs.
 

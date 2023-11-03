@@ -11,7 +11,7 @@ aliases:
 ---
 # Gem of Brightness
 *Wondrous Item, major, uncommon*  
-![[5. Mechanics/Items/img/Gem Of Brightness.webp#right]]  
+![[5. Mechanics/Items/img/gem-of-brightness.webp#right]]  
 
 - **Weight**: 1.0 lbs.
 

@@ -10,7 +10,7 @@ aliases: ["Ilmater", "The Crying God", "The Rack-Broken Lord", "He Who Endures"]
 ---
 # Ilmater
 *Source: Sword Coast Adventurer's Guide p. 21, Tasha's Cauldron of Everything p. 34* 
-![[5. Mechanics/Deities/img/Scag Symbol Of Ilmater.webp#symbol]]
+![[5. Mechanics/Deities/img/scag-symbol-of-ilmater.webp#symbol]]
 
 - **Alternate Names**: The Crying God, The Rack-Broken Lord, He Who Endures
 - **Alignment**: Lawful Good

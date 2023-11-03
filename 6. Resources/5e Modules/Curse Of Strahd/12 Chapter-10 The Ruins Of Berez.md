@@ -12,7 +12,7 @@ Long before [[5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md\|Ireena Kolyana]
 
 The vampire Strahd first met Marina in this small village on the shore of the Luna River. Marina bore a striking resemblance to Strahd's beloved Tatyana, both in appearance and manner, and she became Strahd's obsession. He seduced her in the dead of night and feasted on her blood, but before she could be turned into a vampire, the burgomaster of Berez, Lazlo Ulrich, with the aid of a local priest named Brother Grigor, killed Marina to save her soul from damnation. Enraged, Strahd slew the priest and the burgomaster, then used his power over the land to swell the river, flooding the village and forcing the residents to flee. Later the marsh crept in, preventing the villagers from returning. Berez has remained mostly abandoned since.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/098 Cos10-01.webp#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/098-cos10-01.webp#center]]
 
 The ruins of Berez are now home to [[5. Mechanics/Bestiary/Npc/Baba Lysaga (COS).md\|Baba Lysaga]] (see appendix D), an almost mythic figure tied to Strahd's ancient past. A hermit, she spends most of her time crafting and animating scarecrows to hunt down and kill the ravens and the wereravens that infest Strahd's domain. When she isn't working evil magic, [[5. Mechanics/Bestiary/Npc/Baba Lysaga (COS).md\|Baba Lysaga]] sacrifices beasts to Mother Night and collects their blood, then bathes in the blood on nights of the new moon in a ritual to stave off the effects of extreme old age.
 
@@ -254,4 +254,4 @@ If the characters have not yet explored Argynvostholt (chapter 7), add:
 
 The dragon, like the soldiers, is a harmless phantom. The mansion that the characters see is Argynvostholt.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/103 Cos10-04.webp#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/103-cos10-04.webp#center]]

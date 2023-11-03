@@ -11,7 +11,7 @@ aliases:
 ---
 # Horn of Blasting
 *Wondrous Item, major, rare*  
-![[5. Mechanics/Items/img/Horn Of Blasting.webp#right]]  
+![[5. Mechanics/Items/img/horn-of-blasting.webp#right]]  
 
 - **Weight**: 2.0 lbs.
 

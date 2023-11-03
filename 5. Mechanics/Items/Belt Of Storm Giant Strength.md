@@ -12,7 +12,7 @@ aliases:
 ---
 # Belt of Storm Giant Strength
 *Wondrous Item, major, legendary (requires attunement)*  
-![[5. Mechanics/Items/img/Belt Of Storm Giant Strength.webp#right]]  
+![[5. Mechanics/Items/img/belt-of-storm-giant-strength.webp#right]]  
 
 
 While wearing this belt, your Strength score changes to 29. The item has no effect on you if your Strength without the belt is equal to or greater than the belt's score.

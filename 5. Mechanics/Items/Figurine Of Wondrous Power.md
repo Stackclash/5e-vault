@@ -10,7 +10,7 @@ aliases:
 ---
 # Figurine of Wondrous Power
 *Wondrous Item, varies*  
-![[5. Mechanics/Items/img/Figurine Of Wondrous Power.webp#right]]  
+![[5. Mechanics/Items/img/figurine-of-wondrous-power.webp#right]]  
 
 
 *Source: Dungeon Master's Guide p. 169*

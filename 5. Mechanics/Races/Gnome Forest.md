@@ -8,7 +8,7 @@ aliases: ["Gnome (Forest)"]
 ---
 # Gnome (Forest)
 *Source: Player's Handbook p. 37*  
-![[5. Mechanics/Races/img/Gnome.webp#right]]  
+![[5. Mechanics/Races/img/gnome.webp#right]]  
 
 - **Ability Scores**: Dexterity +1
 - **Type**: subrace

@@ -11,7 +11,7 @@ aliases:
 ---
 # Manual of Flesh Golems
 *Wondrous Item, major, very rare*  
-![[5. Mechanics/Items/img/Manual Of Flesh Golems.webp#right]]  
+![[5. Mechanics/Items/img/manual-of-flesh-golems.webp#right]]  
 
 - **Weight**: 5.0 lbs.
 

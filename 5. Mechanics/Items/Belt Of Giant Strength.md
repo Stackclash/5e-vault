@@ -11,7 +11,7 @@ aliases:
 ---
 # Belt of Giant Strength
 *Wondrous Item, varies (requires attunement)*  
-![[5. Mechanics/Items/img/Belt Of Giant Strength.webp#right]]  
+![[5. Mechanics/Items/img/belt-of-giant-strength.webp#right]]  
 
 
 *Source: Dungeon Master's Guide p. 155*

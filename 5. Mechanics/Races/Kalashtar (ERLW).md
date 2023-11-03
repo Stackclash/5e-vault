@@ -8,7 +8,7 @@ aliases: ["Kalashtar"]
 ---
 # Kalashtar
 *Source: Eberron: Rising from the Last War p. 29*  
-![[5. Mechanics/Races/img/Kalashtar.webp#right]]  
+![[5. Mechanics/Races/img/kalashtar.webp#right]]  
 
 - **Ability Scores**: Wisdom +2, Charisma +1
 - **Type**: race
@@ -100,4 +100,4 @@ Kalashtar orphans are unlikely to know the name of their spirit and take names f
 **Kalashtar Names**: Coratash, Dalavash, Dolishara, Halakosh, Khoratari, Koratana, Lanhareth, Molavakri, Nevitash, Sorashana, Torashtai, Valakhad, Vishara
 
 
-![[5. Mechanics/Races/img/Kalashtar-001.webp#center]]
+![[5. Mechanics/Races/img/kalashtar-001.webp#center]]

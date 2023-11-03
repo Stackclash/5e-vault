@@ -8,7 +8,7 @@ aliases: ["Sea Elf"]
 ---
 # Sea Elf
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 30*  
-![[5. Mechanics/Races/img/Sea Elf.webp#right]]  
+![[5. Mechanics/Races/img/sea-elf.webp#right]]  
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Type**: race

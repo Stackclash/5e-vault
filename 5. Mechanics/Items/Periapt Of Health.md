@@ -11,7 +11,7 @@ aliases:
 ---
 # Periapt of Health
 *Wondrous Item, minor, uncommon*  
-![[5. Mechanics/Items/img/Periapt Of Health.webp#right]]  
+![[5. Mechanics/Items/img/periapt-of-health.webp#right]]  
 
 - **Weight**: 1.0 lbs.
 

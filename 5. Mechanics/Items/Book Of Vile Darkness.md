@@ -11,7 +11,7 @@ aliases:
 ---
 # Book of Vile Darkness
 *Wondrous Item, artifact (requires attunement)*  
-![[5. Mechanics/Items/img/Book Of Vile Darkness.webp#right]]  
+![[5. Mechanics/Items/img/book-of-vile-darkness.webp#right]]  
 
 - **Weight**: 5.0 lbs.
 

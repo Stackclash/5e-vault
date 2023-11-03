@@ -14,7 +14,7 @@ aliases:
 ---
 # Wave
 *Melee Weapon, legendary (requires attunement by a creature that worships a god of the sea)*  
-![[5. Mechanics/Items/img/Wave.webp#right]]  
+![[5. Mechanics/Items/img/wave.webp#right]]  
 
 - **Damage**:
   - One-handed: 1d6 P

@@ -18,7 +18,7 @@ aliases:
 ---
 # Nine Lives Stealer
 *Generic Variant, major, very rare (requires attunement)*  
-![[5. Mechanics/Items/img/Nine Lives Stealer.webp#right]]  
+![[5. Mechanics/Items/img/nine-lives-stealer.webp#right]]  
 
 
 You gain a +2 bonus to attack and damage rolls made with this magic weapon.

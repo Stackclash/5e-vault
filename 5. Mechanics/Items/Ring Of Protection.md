@@ -12,7 +12,7 @@ aliases:
 ---
 # Ring of Protection
 *Ring, major, rare (requires attunement)*  
-![[5. Mechanics/Items/img/Ring Of Protection.webp#right]]  
+![[5. Mechanics/Items/img/ring-of-protection.webp#right]]  
 
 
 You gain a +1 bonus to AC and saving throws while wearing this ring.

@@ -11,7 +11,7 @@ aliases:
 ---
 # Brazier of Commanding Fire Elementals
 *Wondrous Item, major, rare*  
-![[5. Mechanics/Items/img/Brazier Of Commanding Fire Elementals.webp#right]]  
+![[5. Mechanics/Items/img/brazier-of-commanding-fire-elementals.webp#right]]  
 
 - **Weight**: 5.0 lbs.
 

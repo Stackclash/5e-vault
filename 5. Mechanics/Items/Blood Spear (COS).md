@@ -13,7 +13,7 @@ aliases:
 ---
 # Blood Spear
 *Melee Weapon, uncommon (requires attunement)*  
-![[5. Mechanics/Items/img/Blood Spear.webp#right]]  
+![[5. Mechanics/Items/img/blood-spear.webp#right]]  
 
 - **Damage**:
   - One-handed: 1d6 P

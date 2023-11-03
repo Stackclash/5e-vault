@@ -10,7 +10,7 @@ cost: 25 gp
 ---
 # Thieves' Tools
 *Tools*  
-![[5. Mechanics/Items/img/Thieves Tools.webp#right]]  
+![[5. Mechanics/Items/img/thieves-tools.webp#right]]  
 
 - **Cost**: 25 gp
 - **Weight**: 1.0 lbs.

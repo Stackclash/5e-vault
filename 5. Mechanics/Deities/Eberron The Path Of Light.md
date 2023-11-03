@@ -10,7 +10,7 @@ aliases: ["The Path of Light"]
 ---
 # The Path of Light
 *Source: Eberron: Rising from the Last War p. 141* 
-![[5. Mechanics/Deities/img/Erlw The Path Of Light.webp#symbol]]
+![[5. Mechanics/Deities/img/erlw-the-path-of-light.webp#symbol]]
 
 - **Alignment**: Unaligned
 - **Category**: Other Faiths of Eberron

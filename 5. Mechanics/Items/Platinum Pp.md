@@ -10,7 +10,7 @@ cost: 10 gp
 ---
 # Platinum (pp)
 *Treasure*  
-![[5. Mechanics/Items/img/Platinum Pp.webp#right]]  
+![[5. Mechanics/Items/img/platinum-pp.webp#right]]  
 
 - **Cost**: 10 gp
 - **Weight**: 0.02 lbs.

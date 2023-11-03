@@ -12,7 +12,7 @@ aliases:
 ---
 # Mace of Terror
 *Melee Weapon, major, rare (requires attunement)*  
-![[5. Mechanics/Items/img/Mace Of Terror.webp#right]]  
+![[5. Mechanics/Items/img/mace-of-terror.webp#right]]  
 
 - **Damage**: 1d6 B
 - **Weight**: 4.0 lbs.

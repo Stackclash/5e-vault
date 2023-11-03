@@ -12,7 +12,7 @@ aliases:
 ---
 # Ring of Mind Shielding
 *Ring, major, uncommon (requires attunement)*  
-![[5. Mechanics/Items/img/Ring Of Mind Shielding.webp#right]]  
+![[5. Mechanics/Items/img/ring-of-mind-shielding.webp#right]]  
 
 
 While wearing this ring, you are immune to magic that allows other creatures to read your thoughts, determine whether you are lying, know your alignment, or know your creature type. Creatures can telepathically communicate with you only if you allow it.

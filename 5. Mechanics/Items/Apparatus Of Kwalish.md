@@ -11,7 +11,7 @@ aliases:
 ---
 # Apparatus of Kwalish
 *Wondrous Item, major, legendary*  
-![[5. Mechanics/Items/img/Apparatus Of Kwalish.webp#right]]  
+![[5. Mechanics/Items/img/apparatus-of-kwalish.webp#right]]  
 
 - **Weight**: 500.0 lbs.
 

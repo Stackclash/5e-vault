@@ -12,7 +12,7 @@ aliases:
 ---
 # Wand of Polymorph
 *Wand, major, very rare (requires attunement by a spellcaster)*  
-![[5. Mechanics/Items/img/Wand Of Polymorph.webp#right]]  
+![[5. Mechanics/Items/img/wand-of-polymorph.webp#right]]  
 
 - **Weight**: 1.0 lbs.
 

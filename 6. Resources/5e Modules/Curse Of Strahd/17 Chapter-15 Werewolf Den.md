@@ -14,7 +14,7 @@ The werewolves call themselves the Children of Mother Night, because they all wo
 
 Kiril would arm the children with weapons and force them to fight each other to the death until only one child was left standing. The winner would then be turned into a werewolf, ensuring what Kiril called "the strength and purity of the pack." Emil advocated keeping all the children alive and turning them into werewolves, thus increasing the pack's size. Emil believed that a larger pack would ensure the werewolves' survival, whereas Kiril saw a larger pack as too difficult to control and feed.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/126 Cos15-01.webp#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/126-cos15-01.webp#center]]
 
 This ideological divide couldn't be reconciled and led to many disagreements. The other werewolves were split between the two camps, and it seemed likely that either Kiril or Emil would die before the conflict could be resolved.
 
@@ -148,7 +148,7 @@ Behind the ghastly curtain of stitched flesh is a 10-foot-high, 10-foot-wide tun
 
 The ceiling here is 20 feet high. The statue is a crude depiction of Mother Night. Kneeling before it is a [[5. Mechanics/Bestiary/Humanoid/Werewolf.md\|werewolf]] in human form named [[5. Mechanics/Bestiary/Npc/Zuleika Toranescu (COS).md\|Zuleika Toranescu]], who is the wife of Emil (see chapter 4, area K75a). Believing her mate to be dead by Strahd's hand, she prays to Mother Night for guidance, hoping that the goddess might hold enough sway over Strahd to persuade him to free her beloved.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/129 Cos15-03.webp#center\|Zuleika Toranescu]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/129-cos15-03.webp#center\|Zuleika Toranescu]]
 
 Kiril has ordered Zuleika to guard the prisoners. If the characters rescue Emil and return him safely to Zuleika, she gladly releases the children. If the characters confirm that Emil is truly dead, either by their hand or Strahd's, she still might let the prisoners go if the characters help her deal with [[5. Mechanics/Bestiary/Npc/Kiril Stoyanovich (COS).md\|Kiril Stoyanovich]], whom she blames above all. Zuleika sees the characters as the answer to her prayers and asks them to kill Kiril when he returns from his latest hunt (see "Leader of the Pack" in the "Special Events" section below).
 
@@ -195,7 +195,7 @@ You can use one or both of the following special events while the characters are
 
 This event doesn't occur if the characters previously encountered and defeated Kiril's hunting pack (see "Pack Attack" in the "Special Events" section in chapter 11).
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/130 Cos15-04.webp#center\|Kiril Stoyanovich]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/130-cos15-04.webp#center\|Kiril Stoyanovich]]
 
 Every hour the characters spend inside the werewolf den, roll a `dice: d20|avg` (`d20`). On a roll of 18 or higher, the werewolf hunting party returns, dragging a dead mountain goat. It's a meager feast, at best. The party consists of [[5. Mechanics/Bestiary/Npc/Kiril Stoyanovich (COS).md\|Kiril Stoyanovich]] (a [[5. Mechanics/Bestiary/Humanoid/Werewolf.md\|werewolf]] with 90 hit points), six normal [[5. Mechanics/Bestiary/Humanoid/Werewolf.md\|werewolves]], and nine [[5. Mechanics/Bestiary/Beast/Wolf.md\|wolves]]. All the werewolves arrive in wolf form.
 

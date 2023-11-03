@@ -36,7 +36,7 @@ Make sure your players know how long you plan to use survivors and that they'll 
 
 ### What's Old Is New
 
-![[/5. Mechanics/Rules/Variant Rules/img/Vrgr-111-04-007 For Survivors.webp#center\|"For survivors, any foe might become the focus of its own horror adventure"]]
+![[/5. Mechanics/Rules/Variant Rules/img/vrgr-111-04-007-for-survivors.webp#center\|"For survivors, any foe might become the focus of its own horror adventure"]]
 
 Dwindling resources contribute to terrifying situations. When a group runs out of hit points, spells, food, or other vital reserves, tension and dread increase. High-level characters, though, have such resources in spades. By running an adventure using survivors, you can recapture some of the same tension adventurers experience early in their careers, encouraging players to use their wits and make desperate choices powerful characters can avoid.
 
@@ -89,7 +89,7 @@ At the start of your turn, you can choose one creature you can see within 30 fee
 
 Whenever you make a saving throw, you can summon your desire to live into a desperate scream. You gain advantage on the saving throw, and the scream is audible up to 100 feet away. You can scream in this way twice, and you regain all expended uses when you finish a long rest.
 
-![[/5. Mechanics/Rules/Variant Rules/img/Vrgr-112-04-008 Survivors.webp#center\|"Survivors are everyday people thrown into terrifying situations"]]
+![[/5. Mechanics/Rules/Variant Rules/img/vrgr-112-04-008-survivors.webp#center\|"Survivors are everyday people thrown into terrifying situations"]]
 
 ### Divine Guidance
 

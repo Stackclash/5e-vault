@@ -8,7 +8,7 @@ aliases: ["Reborn"]
 ---
 # Reborn
 *Source: Van Richten's Guide to Ravenloft p. 20*  
-![[5. Mechanics/Races/img/Reborn.webp#right]]  
+![[5. Mechanics/Races/img/reborn.webp#right]]  
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Type**: race

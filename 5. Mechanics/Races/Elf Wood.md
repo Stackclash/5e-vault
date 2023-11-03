@@ -8,7 +8,7 @@ aliases: ["Elf (Wood)"]
 ---
 # Elf (Wood)
 *Source: Player's Handbook p. 24. Available in the Basic Rules.*  
-![[5. Mechanics/Races/img/Elf.webp#right]]  
+![[5. Mechanics/Races/img/elf.webp#right]]  
 
 - **Ability Scores**: Wisdom +1
 - **Type**: subrace

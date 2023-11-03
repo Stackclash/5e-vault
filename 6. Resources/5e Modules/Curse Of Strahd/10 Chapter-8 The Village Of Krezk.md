@@ -10,7 +10,7 @@ aliases: ["Chapter 8: The Village of Krezk"]
 
 The fortified village of Krezk lies near the edge of Strahd's domain, and the wall of mist that marks the border is clearly visible above the treeline. Yet even here there is no escaping the vampire. In fact, the villagers are so terrified of Strahd and his wolves that they never venture away from the village. Within their walls, they grow trees that provide ample wood to keep them warm on cold nights, and they draw water from a blessed pool. They have chickens, hares, and small pigs, as well as gardens of beets and turnips. The only thing they depend on from the outside world is wine. The burgomaster, Dmitri Krezkov, comes from a noble family and regularly has wine delivered from the nearby winery, the Wizard of Wines (chapter 12), to keep the locals' bellies warm and their spirits up.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/082 Cos08-01.webp#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/082-cos08-01.webp#center]]
 
 Looming high above Krezk is the Abbey of Saint Markovia, once a convent and hospital, now a madhouse overrun with wickedness. After Saint Markovia and her followers failed to overthrow Strahd, the abbey became a fortress closed off from the rest of the world. Strahd ruthlessly preyed on the fears of the clerics and nuns holed up inside, but ultimately it was their isolation and greed that doomed them. The clergy began fighting over food and wine. By the time their supplies ran out, they had either been killed by each other's hands or driven hopelessly insane by Strahd's acts of terror against them. For years afterward, the villagers of Krezk avoided the place, fearing that the abbey was cursed, haunted, or both.
 
@@ -93,7 +93,7 @@ A typical cottage is only 200 square feet yet contains `dice: 1d4|avg` (`1d4`) a
 
 Every cottage has its own graveyard where family members are interred. All the caskets planted in the past decade are now empty, thanks to [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|the Abbot]]'s sneaky mongrelfolk gravediggers (see area S6).
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/085 Cos08-03.webp#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/085-cos08-03.webp#center]]
 
 #### Krezk Lore
 
@@ -159,7 +159,7 @@ The iron gates are unlocked but squeal loudly when someone opens them.
 
 Two gate guards are on duty, but they aren't awake when the characters arrive (see below). Characters who succeed on a DC 12 Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) check can climb over the low outer wall without waking them. If one or more characters fail the check, or if the characters open the gates, the guards rouse themselves and stumble forth to confront the trespassers.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/088 Cos08-04.webp#center\|Otto Belview]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/088-cos08-04.webp#center\|Otto Belview]]
 
 The gate guards are Otto and [[5. Mechanics/Bestiary/Npc/Zygfrek Belview (COS).md\|Zygfrek Belview]], two lawful evil [[5. Mechanics/Bestiary/Humanoid/Mongrelfolk (COS).md\|mongrelfolk]] (see appendix D). They sleep under piles of musty animal furs. Both are loyal servants of [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|the Abbot]], yet not so good at guarding. If the characters seem friendly, the mongrelfolk escort them to the courtyard (area S12) and ask the characters to wait there while they fetch [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|the Abbot]] (area S13). If the characters seem hostile, the mongrelfolk let them enter but don't accompany them willingly.
 
@@ -169,7 +169,7 @@ Hanging on the inside wall of each guard post is a net woven from twigs and pine
 
 Use the information below to roleplay the mongrelfolk guards, Otto and Zygfrek.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/089 Cos08-05.webp#center\|Zygfrek Belview]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/089-cos08-05.webp#center\|Zygfrek Belview]]
 
 ##### Otto Belview
 
@@ -509,7 +509,7 @@ This loft is where [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|the Abbot]] c
 
 If anyone rings the bell, a cacophony erupts from the courtyard and the east wing as the mongrelfolk cry out, "Food!" The cries last until the creatures are fed.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/092 Cos08-07.webp#center\|Clovin Belview]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/092-cos08-07.webp#center\|Clovin Belview]]
 
 [[5. Mechanics/Bestiary/Npc/Clovin Belview (COS).md\|Clovin Belview]], [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|the Abbot]]'s manservant, a two-headed neutral evil [[5. Mechanics/Bestiary/Humanoid/Mongrelfolk (COS).md\|mongrelfolk]] (see appendix D), resides here. He plays the viol beautifully when he is drunk, and the music help puts his half-formed head to sleep. Hidden under the furs of his cot are three bottles of Purple Grapemash No. 3. Several empty wine bottles are strewn about the floor around the cot.
 
@@ -663,7 +663,7 @@ Kretyana was raised to believe that newborns are soulless if they don't cry, and
 
 No one in Krezk can fashion such a gown, leaving the burgomaster with no choice but to look elsewhere. His wife, Anna, says she should personally lead a well-armed group of Krezkites to the east to Vallaki.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/093 Cos08-08.webp#center\|Baron Krezkov]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/093-cos08-08.webp#center\|Baron Krezkov]]
 
 Anna Krezkova (LG female human [[5. Mechanics/Bestiary/Humanoid/Noble.md\|noble]]) bids her husband farewell and leaves with two [[5. Mechanics/Bestiary/Humanoid/Guard.md\|guards]], four [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoners]], and a [[5. Mechanics/Bestiary/Beast/Mule.md\|mule]] laden with provisions. If the characters are present, the burgomaster urges them to provide escort. If they agree, check for random encounters as they make their way along the Old Svalich Road, as normal. If the guards at Vallaki's gates can be convinced to let them in, Anna and the characters can begin searching for a bridal gown or a dressmaker. Local dressmakers are willing to fashion a gown for 50 gp, but Anna can't afford it, and the dress won't be finished in time. The dressmakers are quick to point out that Baroness Lydia Petrovna, the wife of Vallaki's burgomaster, owns a beautiful white bridal gown (see chapter 5, area N3p). The baroness, eager to please, is willing to give up her dress for a good cause, although her husband won't allow it and could care less about Krezk's problems.
 

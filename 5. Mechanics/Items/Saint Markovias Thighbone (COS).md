@@ -11,7 +11,7 @@ aliases:
 ---
 # Saint Markovia's Thighbone
 *Melee Weapon, rare (requires attunement)*  
-![[5. Mechanics/Items/img/Saint Markovias Thighbone.webp#right]]  
+![[5. Mechanics/Items/img/saint-markovias-thighbone.webp#right]]  
 
 - **Damage**: 1d6 B
 - **Weight**: 4.0 lbs.

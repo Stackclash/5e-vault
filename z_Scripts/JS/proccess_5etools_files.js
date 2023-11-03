@@ -29,7 +29,7 @@ const config = {
             enabled: true,
             name: 'Update File Name',
             ignore: function(file) {
-                return ['.jpg', '.jpeg', '.png'].includes(file.fileExtension)
+                return ['.jpg', '.jpeg', '.png', '.webp'].includes(file.fileExtension)
             },
             target: 'fileName',
             process: function(file) {
@@ -46,7 +46,7 @@ const config = {
             enabled: true,
             name: 'Update Content Links',
             ignore: function(file) {
-                return ['.jpg', '.jpeg', '.png'].includes(file.fileExtension)
+                return ['.jpg', '.jpeg', '.png', '.webp'].includes(file.fileExtension)
             },
             target: 'content',
             regex: /\[([\w\s\d,:'\.\(\)\-]*?)\]\(([\w\s\d\/\.\-%\d]+)(#{0,1}\^{0,1}[\-\w%]*)\s{0,1}"{0,1}([\w\d\s:&,'\.\(\)\-]*?)"{0,1}\)/g,
@@ -79,7 +79,7 @@ const config = {
             enabled: true,
             name: 'Create Folder Index Page',
             ignore: function(file) {
-                return ['.jpg', '.jpeg', '.png'].includes(file.fileExtension)
+                return ['.jpg', '.jpeg', '.png', '.webp'].includes(file.fileExtension)
             },
             target: 'content',
             process: function(file) {
@@ -97,7 +97,7 @@ const config = {
             enabled: true,
             name: 'Update Token Path for Bestiary',
             ignore: function(file) {
-                return !/bestiary/i.test(file.path) || ['.jpg', '.jpeg', '.png'].includes(file.fileExtension)
+                return !/bestiary/i.test(file.path) || ['.jpg', '.jpeg', '.png', '.webp'].includes(file.fileExtension)
             },
             target: 'content',
             regex: /"image": "([\w\/]+)(\/[img|token]+\/[\w]+\.[\w]+)"/g,
@@ -121,7 +121,7 @@ class CompendiumFile {
     constructor(filePath) {
         this.#oldPath = filePath
         this.path = this.#oldPath
-        this.#oldContent = !['.jpg', '.jpeg', '.png'].includes(path.parse(filePath).ext) ? fs.readFileSync(filePath, 'utf-8') : fs.readFileSync(filePath)
+        this.#oldContent = !['.jpg', '.jpeg', '.png', '.webp'].includes(path.parse(filePath).ext) ? fs.readFileSync(filePath, 'utf-8') : fs.readFileSync(filePath)
         this.content = this.#oldContent
         this.execute = () => {
             fs.mkdirSync(path.parse(this.path).dir, {recursive: true})

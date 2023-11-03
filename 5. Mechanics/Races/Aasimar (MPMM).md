@@ -8,7 +8,7 @@ aliases: ["Aasimar"]
 ---
 # Aasimar
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 7*  
-![[5. Mechanics/Races/img/Aasimar.webp#right]]  
+![[5. Mechanics/Races/img/aasimar.webp#right]]  
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Type**: race

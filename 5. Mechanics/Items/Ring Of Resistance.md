@@ -12,7 +12,7 @@ aliases:
 ---
 # Ring of Resistance
 *Ring, major, rare (requires attunement)*  
-![[5. Mechanics/Items/img/Ring Of Resistance.webp#right]]  
+![[5. Mechanics/Items/img/ring-of-resistance.webp#right]]  
 
 
 You have resistance to one damage type while wearing this ring. The gem in the ring indicates the type, which the DM chooses or determines randomly.

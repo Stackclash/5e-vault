@@ -8,7 +8,7 @@ aliases: ["Elf"]
 ---
 # Elf
 *Source: Player's Handbook p. 21. Available in the SRD and the Basic Rules.*  
-![[5. Mechanics/Races/img/Elf.webp#right]]  
+![[5. Mechanics/Races/img/elf.webp#right]]  
 
 - **Ability Scores**: Dexterity +2
 - **Type**: race

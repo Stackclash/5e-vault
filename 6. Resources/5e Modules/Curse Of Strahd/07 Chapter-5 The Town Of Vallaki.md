@@ -10,7 +10,7 @@ aliases: ["Chapter 5: The Town of Vallaki"]
 
 Located close to the shores of Lake Zarovich, the town of Vallaki (pronounced vah-*lah*-key) seems like a safe haven against the evils of the Svalich Woods, if not Strahd himself. The town lies beyond the sight of Castle Ravenloft and doesn't, at first blush, seem as depressed (or oppressed) as the village of Barovia farther east. Characters who spend time in Vallaki, however, quickly realize that there is no happiness here, only false hope—which Strahd himself cultivates.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/046 Cos05-01.webp#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/046-cos05-01.webp#center]]
 
 Vallaki was founded not long after Strahd's armies conquered the valley by an ancestor of the town's current burgomaster, [[5. Mechanics/Bestiary/Npc/Baron Vargas Vallakovich (COS).md\|Baron Vargas Vallakovich]]. The Vallakoviches have royal blood in their veins and have long believed themselves superior to the Zarovich line. Baron Vallakovich has deluded himself into believing that hope and happiness are the keys to Vallaki's salvation. If he can make everyone in Vallaki happy, the burgomaster thinks that the town will somehow escape Strahd's grasp and return to the forgotten world whence it came. He stages one festival after another to bolster the spirits of the townsfolk, but most Vallakians consider these festivals to be pointless, meaningless affairs more likely to incur Strahd's wrath than to provide any hope for the future.
 
@@ -112,7 +112,7 @@ Father Lucian Petrovich (LG male human [[5. Mechanics/Bestiary/Humanoid/Priest.m
 
 At night, the church is packed with `dice: 2d6 + 6|avg` (`2d6 + 6`) [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] Vallakian adults (male and female human [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoners]]) and `dice: 2d6|avg` (`2d6`) equally terrified Vallakian children (male and female human noncombatants). Father Lucian offers his nightly congregation his prayers and the promise of St. Andral's protection. Among Father Lucian's nightly flock is a sad old woman named Willemina Rikalova. Her son, the shoemaker Udo Lukovich, has been imprisoned for speaking out against the burgomaster (see area N3m). She prays that her son will be set free.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/049 Cos05-03.webp#center\|Milivoj]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/049-cos05-03.webp#center\|Milivoj]]
 
 [[5. Mechanics/Bestiary/Npc/Milivoj (COS).md\|Milivoj]] (N male human [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoner]]) is rarely seen without a shovel, which he wields like a club. Modify his statistics as follows:
 
@@ -205,8 +205,8 @@ These two are dour fellows, but they seldom pass up an opportunity to earn coin.
 On rare occasions when he has something to say, Szoldar speaks brusquely, while Yevgeni usually parrots his friend in not so many words. Szoldar has a notch in his bow for every wolf he's killed, while Yevgeni adds a new swatch to his wolfskin cloak every time he makes a kill. Both men have families but spend most of their time together, either drowning their sorrows or hunting in the woods. Most of the wolf heads that adorn the tavern walls are the result of their handiwork.
 
 > [!gallery]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/052 Cos05-05.webp#gallery\|Szoldar Szoldarovich]]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/053 Cos05-06.webp#gallery\|Yevgeni Krushkin]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/052-cos05-05.webp#gallery\|Szoldar Szoldarovich]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/053-cos05-06.webp#gallery\|Yevgeni Krushkin]]
 
 ##### Wachter Brothers
 
@@ -369,7 +369,7 @@ Brom and Bray Martikova don't spend much time in this room. The toy box contains
 
 A hidden trapdoor in the 8-foot-high ceiling opens into a secret attic (area N2q).
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/054 Cos05-07.webp#center\|The Martikov Family]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/054-cos05-07.webp#center\|The Martikov Family]]
 
 #### N2p. Master Bedroom
 
@@ -434,7 +434,7 @@ If the characters get on his bad side, the baron accuses them of being "spies of
 
 If the characters get on his good side, he insists that they join him in the next festival as special guests and asks that they tell everyone that all will, indeed, be well.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/057 Cos05-09.webp#center\|The Baroness and Baron]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/057-cos05-09.webp#center\|The Baroness and Baron]]
 
 Two members of the baron's household staff have vanished in the past week: the butler and the baroness's lady-in-waiting. The baron has charged Izek with finding out what happened to them, but investigation isn't Izek's forte. Searches have been organized, to no avail.
 
@@ -788,7 +788,7 @@ Fiona conspired to wed her young daughter, Stella, to the baron's son, Victor, a
 
 Lady Wachter's latest scheme to gain control of Vallaki is far more diabolical. She has started a cult based on devil worship and has written a manifesto that she reads to her "book club," which is made up of the most fanatical group members. Inspired by her words, these zealots have created smaller cults of their own. Once her cult has enough members, Fiona plans to take the town by force. To reward her most loyal followers, she has her pet imp stand invisibly in the center of a pentagram, then performs a false ritual that calls upon "princes of darkness" to lavish their appreciation upon the cultists. The imp then sprinkles onto the floor a few electrum coins, which Lady Wachter allows the cultists to keep.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/060 Cos05-11.webp#center\|Fiona Wachter and Majesto]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/060-cos05-11.webp#center\|Fiona Wachter and Majesto]]
 
 Another secret of Fiona's is that she sleeps with the corpse of her dead husband, Nikolai, who died of sickness nearly three years ago and whom Fiona cherished. Lady Wachter casts [[5. Mechanics/Spells/Gentle Repose.md\|gentle repose]] spells on the corpse to keep it from deteriorating.
 
@@ -1073,7 +1073,7 @@ The wagon also contains the torn-up remains of a doll. A character who makes a s
 
 If the tiger is released, it begins stalking through the streets until its keen sense of smell locates either [[5. Mechanics/Bestiary/Npc/Rictavio (COS).md\|Rictavio]] (area N2) or [[5. Mechanics/Bestiary/Npc/Piccolo (COS).md\|Piccolo]] (area N7). The tiger doesn't attack anyone who isn't a Vistana except in self-defense. It attacks Vistani on sight. [[5. Mechanics/Bestiary/Npc/Rictavio (COS).md\|Rictavio]] can make the tiger break off its attack and lure it back into the wagon.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/061 Cos05-12.webp#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/061-cos05-12.webp#center]]
 
 #### Treasure
 
@@ -1101,7 +1101,7 @@ If your card reading reveals that a treasure is here, it is hidden with the othe
 
 [[5. Mechanics/Bestiary/Npc/Henrik Van Der Voort (COS).md\|Henrik van der Voort]] (LE male human [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoner]]) is a mediocre carpenter and a troubled, lonely man. He profits from the deaths of others, and no one desires his company, because of the ghastly nature of his handiwork. One night several months ago, Strahd visited Henrik in the guise of an imposing, well-dressed nobleman named Vasili von Holtz and promised the coffin maker "good business" in exchange for his help. Since then, Henrik's workshop has become the lair of a pack of vampire spawn—former adventurers who were turned by Strahd. These vampires are lying low for the time being.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/062 Cos05-14.webp#center\|Henrik Van Der Voort]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/062-cos05-14.webp#center\|Henrik Van Der Voort]]
 
 The vampires plan to attack St. Andral's church (see "St. Andral's Feast" in the "Special Events" section at the end of this chapter). When Henrik learned about the sacred bones buried under the church, the vampire spawn ordered him to steal the bones, which Henrik paid [[5. Mechanics/Bestiary/Npc/Milivoj (COS).md\|Milivoj]] the gravedigger (see area N1) to do.
 
@@ -1186,7 +1186,7 @@ Characters who teleport to this location from area K78 in Castle Ravenloft arriv
 
 Vallaki's toymaker, [[5. Mechanics/Bestiary/Npc/Gadof Blinsky (COS).md\|Gadof Blinsky]] (CG male human [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoner]]), calls himself "a wizard of tiny wonders," but he has been consumed by despair lately because no one seems to like him or want his toys. His fascination for eerie playthings causes most other locals to avoid him. The burgomaster enables Blinsky to stay in business by giving him a couple of gold pieces a month to make festival decorations.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/065 Cos05-15.webp#center\|Gadof Blinsky and Piccolo]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/065-cos05-15.webp#center\|Gadof Blinsky and Piccolo]]
 
 Blinsky is a heavyset man who wears a moth-eaten jester's cap during store hours, more out of habit than to humor visitors. In the past six months, the only paying customer who has set foot in the store is a visitor from a faraway land named [[5. Mechanics/Bestiary/Npc/Rictavio (COS).md\|Rictavio]] (see area N2), who came in two weeks ago and bought a stuffed Vistana doll. Realizing that the toymaker was lonely, [[5. Mechanics/Bestiary/Npc/Rictavio (COS).md\|Rictavio]] gave Blinsky his pet monkey, [[5. Mechanics/Bestiary/Npc/Piccolo (COS).md\|Piccolo]] (use the [[5. Mechanics/Bestiary/Beast/Baboon.md\|baboon]] stat block in the "Monster Manual"). Overjoyed, Blinsky has begun training the monkey to fetch toys from hard-to-reach shelves. The toymaker has also fitted [[5. Mechanics/Bestiary/Npc/Piccolo (COS).md\|Piccolo]] with a custom-tailored ballerina tutu.
 
@@ -1302,8 +1302,8 @@ The dusk elves reside in small homes built into the hillside and are mostly self
 There are no women or children among the dusk elves. Strahd had all the female dusk elves put to death around four centuries ago as a punishment for Patrina's murder. Thus, the remaining elves can't procreate. A broken people, they are aware of the vampire's absolute hold over the land of Barovia. They keep a low profile and have no desire to incur Strahd's wrath again.
 
 > [!gallery]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/068 Cos05-18.webp#gallery\|Luvash]]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/069 Cos05-17.webp#gallery\|Arrigal]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/068-cos05-18.webp#gallery\|Luvash]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/069-cos05-17.webp#gallery\|Arrigal]]
 
 #### N9a. Kasimir's Hovel
 

@@ -11,7 +11,7 @@ aliases:
 ---
 # Mirror of Life Trapping
 *Wondrous Item, major, very rare*  
-![[5. Mechanics/Items/img/Mirror Of Life Trapping.webp#right]]  
+![[5. Mechanics/Items/img/mirror-of-life-trapping.webp#right]]  
 
 - **Weight**: 50.0 lbs.
 

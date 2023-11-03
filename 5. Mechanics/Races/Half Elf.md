@@ -8,7 +8,7 @@ aliases: ["Half-Elf"]
 ---
 # Half-Elf
 *Source: Player's Handbook p. 38. Available in the SRD.*  
-![[5. Mechanics/Races/img/Half Elf.webp#right]]  
+![[5. Mechanics/Races/img/half-elf.webp#right]]  
 
 - **Ability Scores**: Charisma +2, Apply +1 to 2 (distinct) of Strength, Dexterity, Constitution, Intelligence, Wisdom
 - **Type**: race

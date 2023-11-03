@@ -8,7 +8,7 @@ aliases: ["Bugbear"]
 ---
 # Bugbear
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 8*  
-![[5. Mechanics/Races/img/Bugbear.webp#right]]  
+![[5. Mechanics/Races/img/bugbear.webp#right]]  
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Type**: race

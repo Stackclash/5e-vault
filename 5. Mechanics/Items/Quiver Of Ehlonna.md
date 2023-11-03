@@ -11,7 +11,7 @@ aliases:
 ---
 # Quiver of Ehlonna
 *Wondrous Item, major, uncommon*  
-![[5. Mechanics/Items/img/Quiver Of Ehlonna.webp#right]]  
+![[5. Mechanics/Items/img/quiver-of-ehlonna.webp#right]]  
 
 - **Weight**: 2.0 lbs.
 

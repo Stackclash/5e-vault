@@ -16,7 +16,7 @@ aliases:
 ---
 # Vorpal Sword
 *Generic Variant, major, legendary (requires attunement)*  
-![[5. Mechanics/Items/img/Vorpal Sword.webp#right]]  
+![[5. Mechanics/Items/img/vorpal-sword.webp#right]]  
 
 
 You gain a +3 bonus to attack and damage rolls made with this magic weapon. In addition, the weapon ignores resistance to slashing damage.

@@ -11,7 +11,7 @@ aliases:
 ---
 # Chime of Opening
 *Wondrous Item, minor, rare*  
-![[5. Mechanics/Items/img/Chime Of Opening.webp#right]]  
+![[5. Mechanics/Items/img/chime-of-opening.webp#right]]  
 
 - **Weight**: 1.0 lbs.
 

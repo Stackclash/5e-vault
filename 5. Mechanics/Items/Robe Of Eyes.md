@@ -12,7 +12,7 @@ aliases:
 ---
 # Robe of Eyes
 *Wondrous Item, major, rare (requires attunement)*  
-![[5. Mechanics/Items/img/Robe Of Eyes.webp#right]]  
+![[5. Mechanics/Items/img/robe-of-eyes.webp#right]]  
 
 
 This robe is adorned with eyelike patterns. While you wear the robe, you gain the following benefits:

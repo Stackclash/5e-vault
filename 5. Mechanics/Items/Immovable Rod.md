@@ -11,7 +11,7 @@ aliases:
 ---
 # Immovable Rod
 *Rod, minor, uncommon*  
-![[5. Mechanics/Items/img/Immovable Rod.webp#right]]  
+![[5. Mechanics/Items/img/immovable-rod.webp#right]]  
 
 - **Weight**: 2.0 lbs.
 

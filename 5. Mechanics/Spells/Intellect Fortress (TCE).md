@@ -13,7 +13,7 @@ aliases: ["Intellect Fortress"]
 # Intellect Fortress
 %%-- Embedded content starts on the next line. --%%
 *3rd-level, Abjuration*  
-![[5. Mechanics/Spells/img/Intellect Fortress.webp#right]]  
+![[5. Mechanics/Spells/img/intellect-fortress.webp#right]]  
 
 - **Casting time:** 1 action
 - **Range:** 30 feet

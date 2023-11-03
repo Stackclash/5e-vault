@@ -49,297 +49,297 @@ This suit symbolizes faith, spirituality, and inner strength. It is the suit of 
 ## Cards
 
 ### Artifact
-![[5. Mechanics/Decks/img/156 Dnd_tarokka_artifact.webp#card]]
+![[5. Mechanics/Decks/img/156-dnd_tarokka_artifact.webp#card]]
 The importance of some physical object that must be obtained, protected, or destroyed at all costs
 
 ### Beast
-![[5. Mechanics/Decks/img/157 Dnd_tarokka_beast.webp#card]]
+![[5. Mechanics/Decks/img/157-dnd_tarokka_beast.webp#card]]
 Great rage or passion; something bestial or malevolent hiding in plain sight or lurking just below the surface
 
 ### Broken One
-![[5. Mechanics/Decks/img/158 Dnd_tarokka_brokenone.webp#card]]
+![[5. Mechanics/Decks/img/158-dnd_tarokka_brokenone.webp#card]]
 Defeat, failure, and despair; the loss of something or someone important, without which one feels incomplete
 
 ### Darklord
-![[5. Mechanics/Decks/img/159 Dnd_tarokka_darklord.webp#card]]
+![[5. Mechanics/Decks/img/159-dnd_tarokka_darklord.webp#card]]
 A single, powerful individual of an evil nature, one whose goals have enormous and far-reaching consequences
 
 ### Donjon
-![[5. Mechanics/Decks/img/160 Dnd_tarokka_donjon.webp#card]]
+![[5. Mechanics/Decks/img/160-dnd_tarokka_donjon.webp#card]]
 Isolation and imprisonment; being so conservative in thinking as to be a prisoner of one's own beliefs
 
 ### Ghost
-![[5. Mechanics/Decks/img/161 Dnd_tarokka_ghost.webp#card]]
+![[5. Mechanics/Decks/img/161-dnd_tarokka_ghost.webp#card]]
 The looming past; the return of an old enemy or the discovery of a secret buried long ago
 
 ### Executioner
-![[5. Mechanics/Decks/img/162 Dnd_tarokka_executioner.webp#card]]
+![[5. Mechanics/Decks/img/162-dnd_tarokka_executioner.webp#card]]
 The imminent death of one rightly or wrongly convicted of a crime; false accusations and unjust prosecution
 
 ### Horseman
-![[5. Mechanics/Decks/img/163 Dnd_tarokka_horseman.webp#card]]
+![[5. Mechanics/Decks/img/163-dnd_tarokka_horseman.webp#card]]
 Death; disaster in the form of the loss of wealth or property, a horrible defeat, or the end of a bloodline
 
 ### Innocent
-![[5. Mechanics/Decks/img/164 Dnd_tarokka_innocent.webp#card]]
+![[5. Mechanics/Decks/img/164-dnd_tarokka_innocent.webp#card]]
 A being of great importance whose life is in danger (who might be helpless or simply unaware of the peril)
 
 ### Marionette
-![[5. Mechanics/Decks/img/165 Dnd_tarokka_marionette.webp#card]]
+![[5. Mechanics/Decks/img/165-dnd_tarokka_marionette.webp#card]]
 The presence of a spy or a minion of some greater power; an encounter with a puppet or an underling
 
 ### Mists
-![[5. Mechanics/Decks/img/166 Dnd_tarokka_mists.webp#card]]
+![[5. Mechanics/Decks/img/166-dnd_tarokka_mists.webp#card]]
 Something unexpected or mysterious that can't be avoided; a great quest or journey that will try one's spirit
 
 ### Raven
-![[5. Mechanics/Decks/img/167 Dnd_tarokka_raven.webp#card]]
+![[5. Mechanics/Decks/img/167-dnd_tarokka_raven.webp#card]]
 A hidden source of information; a fortunate turn of events; a secret potential for good
 
 ### Seer
-![[5. Mechanics/Decks/img/168 Dnd_tarokka_seer.webp#card]]
+![[5. Mechanics/Decks/img/168-dnd_tarokka_seer.webp#card]]
 Inspiration and keen intellect; a future event, the outcome of which will hinge on a clever mind
 
 ### Tempter
-![[5. Mechanics/Decks/img/169 Dnd_tarokka_tempter.webp#card]]
+![[5. Mechanics/Decks/img/169-dnd_tarokka_tempter.webp#card]]
 One who has been compromised or led astray by temptation or foolishness; one who tempts others for evil ends
 
 ### Warrior
-![[5. Mechanics/Decks/img/170 Dnd_tarokka_warrior.webp#card]]
+![[5. Mechanics/Decks/img/170-dnd_tarokka_warrior.webp#card]]
 *Master of Swords*
 
 Strength and force personified; violence; those who use force to accomplish their goals
 
 ### Avenger
-![[5. Mechanics/Decks/img/171 Dnd_tarokka_avenger.webp#card]]
+![[5. Mechanics/Decks/img/171-dnd_tarokka_avenger.webp#card]]
 *One of Swords*
 
 Justice and revenge for great wrongs; those on a quest to rid the world of great evil
 
 ### Paladin
-![[5. Mechanics/Decks/img/172 Dnd_tarokka_paladin.webp#card]]
+![[5. Mechanics/Decks/img/172-dnd_tarokka_paladin.webp#card]]
 *Two of Swords*
 
 Just and noble warriors; those who live by a code of honor and integrity
 
 ### Soldier
-![[5. Mechanics/Decks/img/173 Dnd_tarokka_soldier.webp#card]]
+![[5. Mechanics/Decks/img/173-dnd_tarokka_soldier.webp#card]]
 *Three of Swords*
 
 War and sacrifice; the stamina to endure great hardship
 
 ### Mercenary
-![[5. Mechanics/Decks/img/174 Dnd_tarokka_mercenary.webp#card]]
+![[5. Mechanics/Decks/img/174-dnd_tarokka_mercenary.webp#card]]
 *Four of Swords*
 
 Inner strength and fortitude; those who fight for power or wealth
 
 ### Myrmidon
-![[5. Mechanics/Decks/img/175 Dnd_tarokka_myrmidon.webp#card]]
+![[5. Mechanics/Decks/img/175-dnd_tarokka_myrmidon.webp#card]]
 *Five of Swords*
 
 Great heroes; a sudden reversal of fate; the triumph of the underdog over a mighty enemy
 
 ### Berserker
-![[5. Mechanics/Decks/img/176 Dnd_tarokka_berserker.webp#card]]
+![[5. Mechanics/Decks/img/176-dnd_tarokka_berserker.webp#card]]
 *Six of Swords*
 
 The brutal and barbaric side of warfare; bloodlust; those with a bestial nature
 
 ### Hooded One
-![[5. Mechanics/Decks/img/177 Dnd_tarokka_hoodedone.webp#card]]
+![[5. Mechanics/Decks/img/177-dnd_tarokka_hoodedone.webp#card]]
 *Seven of Swords*
 
 Bigotry, intolerance, and xenophobia; a mysterious presence or newcomer
 
 ### Dictator
-![[5. Mechanics/Decks/img/178 Dnd_tarokka_dictator.webp#card]]
+![[5. Mechanics/Decks/img/178-dnd_tarokka_dictator.webp#card]]
 *Eight of Swords*
 
 All that is wrong with government and leadership; those who rule through fear and violence
 
 ### Torturer
-![[5. Mechanics/Decks/img/179 Dnd_tarokka_torturer.webp#card]]
+![[5. Mechanics/Decks/img/179-dnd_tarokka_torturer.webp#card]]
 *Nine of Swords*
 
 The coming of suffering or merciless cruelty; one who is irredeemably evil or sadistic
 
 ### Wizard
-![[5. Mechanics/Decks/img/180 Dnd_tarokka_wizard.webp#card]]
+![[5. Mechanics/Decks/img/180-dnd_tarokka_wizard.webp#card]]
 *Master of Stars*
 
 Mystery and riddles; the unknown; those who crave magical power and great knowledge
 
 ### Transmuter
-![[5. Mechanics/Decks/img/181 Dnd_tarokka_transmuter.webp#card]]
+![[5. Mechanics/Decks/img/181-dnd_tarokka_transmuter.webp#card]]
 *One of Stars*
 
 A new discovery; the coming of unexpected things; unforeseen consequences and chaos
 
 ### Diviner
-![[5. Mechanics/Decks/img/182 Dnd_tarokka_diviner.webp#card]]
+![[5. Mechanics/Decks/img/182-dnd_tarokka_diviner.webp#card]]
 *Two of Stars*
 
 The pursuit of knowledge tempered by wisdom; truth and honesty; sages and prophecy
 
 ### Enchanter
-![[5. Mechanics/Decks/img/183 Dnd_tarokka_enchanter.webp#card]]
+![[5. Mechanics/Decks/img/183-dnd_tarokka_enchanter.webp#card]]
 *Three of Stars*
 
 Inner turmoil that comes from confusion, fear of failure, or false information
 
 ### Abjurer
-![[5. Mechanics/Decks/img/184 Dnd_tarokka_abjurer.webp#card]]
+![[5. Mechanics/Decks/img/184-dnd_tarokka_abjurer.webp#card]]
 *Four of Stars*
 
 Those guided by logic and reasoning; warns of an overlooked clue or piece of information
 
 ### Elementalist
-![[5. Mechanics/Decks/img/185 Dnd_tarokka_elementalist.webp#card]]
+![[5. Mechanics/Decks/img/185-dnd_tarokka_elementalist.webp#card]]
 *Five of Stars*
 
 The triumph of nature over civilization; natural disasters and bountiful harvests
 
 ### Evoker
-![[5. Mechanics/Decks/img/186 Dnd_tarokka_evoker.webp#card]]
+![[5. Mechanics/Decks/img/186-dnd_tarokka_evoker.webp#card]]
 *Six of Stars*
 
 Magical or supernatural power that can't be controlled; magic for destructive ends
 
 ### Illusionist
-![[5. Mechanics/Decks/img/187 Dnd_tarokka_illusionist.webp#card]]
+![[5. Mechanics/Decks/img/187-dnd_tarokka_illusionist.webp#card]]
 *Seven of Stars*
 
 Lies and deceit; grand conspiracies; secret societies; the presence of a dupe or a saboteur
 
 ### Necromancer
-![[5. Mechanics/Decks/img/188 Dnd_tarokka_necromancer.webp#card]]
+![[5. Mechanics/Decks/img/188-dnd_tarokka_necromancer.webp#card]]
 *Eight of Stars*
 
 Unnatural events and unhealthy obsessions; those who follow a destructive path
 
 ### Conjurer
-![[5. Mechanics/Decks/img/189 Dnd_tarokka_conjurer.webp#card]]
+![[5. Mechanics/Decks/img/189-dnd_tarokka_conjurer.webp#card]]
 *Nine of Stars*
 
 The coming of an unexpected supernatural threat; those who think of themselves as gods
 
 ### Rogue
-![[5. Mechanics/Decks/img/190 Dnd_tarokka_rogue.webp#card]]
+![[5. Mechanics/Decks/img/190-dnd_tarokka_rogue.webp#card]]
 *Master of Coins*
 
 Anyone for whom money is important; those who believe money is the key to their success
 
 ### Swashbuckler
-![[5. Mechanics/Decks/img/191 Dnd_tarokka_swashbuckler.webp#card]]
+![[5. Mechanics/Decks/img/191-dnd_tarokka_swashbuckler.webp#card]]
 *One of Coins*
 
 Those who like money yet give it up freely; likable rogues and rapscallions
 
 ### Philanthropist
-![[5. Mechanics/Decks/img/192 Dnd_tarokka_philanth.webp#card]]
+![[5. Mechanics/Decks/img/192-dnd_tarokka_philanth.webp#card]]
 *Two of Coins*
 
 Charity and giving on a grand scale; those who use wealth to fight evil and sickness
 
 ### Trader
-![[5. Mechanics/Decks/img/193 Dnd_tarokka_trader.webp#card]]
+![[5. Mechanics/Decks/img/193-dnd_tarokka_trader.webp#card]]
 *Three of Coins*
 
 Commerce; smuggling and black markets; fair and equitable trades
 
 ### Merchant
-![[5. Mechanics/Decks/img/194 Dnd_tarokka_merchant.webp#card]]
+![[5. Mechanics/Decks/img/194-dnd_tarokka_merchant.webp#card]]
 *Four of Coins*
 
 A rare commodity or business opportunity; deceitful or dangerous business transactions
 
 ### Guild Member
-![[5. Mechanics/Decks/img/195 Dnd_tarokka_guildmember.webp#card]]
+![[5. Mechanics/Decks/img/195-dnd_tarokka_guildmember.webp#card]]
 *Five of Coins*
 
 Like-minded individuals joined together in a common goal; pride in one's work
 
 ### Beggar
-![[5. Mechanics/Decks/img/196 Dnd_tarokka_beggar.webp#card]]
+![[5. Mechanics/Decks/img/196-dnd_tarokka_beggar.webp#card]]
 *Six of Coins*
 
 Sudden change in economic status or fortune
 
 ### Thief
-![[5. Mechanics/Decks/img/197 Dnd_tarokka_thief.webp#card]]
+![[5. Mechanics/Decks/img/197-dnd_tarokka_thief.webp#card]]
 *Seven of Coins*
 
 Those who steal or burgle; a loss of property, beauty, innocence, friendship, or reputation
 
 ### Tax Collector
-![[5. Mechanics/Decks/img/198 Dnd_tarokka_taxcollector.webp#card]]
+![[5. Mechanics/Decks/img/198-dnd_tarokka_taxcollector.webp#card]]
 *Eight of Coins*
 
 Corruption; honesty in an otherwise corrupt government or organization
 
 ### Miser
-![[5. Mechanics/Decks/img/199 Dnd_tarokka_miser.webp#card]]
+![[5. Mechanics/Decks/img/199-dnd_tarokka_miser.webp#card]]
 *Nine of Coins*
 
 Hoarded wealth; those who are irreversibly unhappy or who think money is meaningless
 
 ### Priest
-![[5. Mechanics/Decks/img/200 Dnd_tarokka_priest.webp#card]]
+![[5. Mechanics/Decks/img/200-dnd_tarokka_priest.webp#card]]
 *Master of Glyphs*
 
 Enlightenment; those who follow a deity, a system of values, or a higher purpose
 
 ### Monk
-![[5. Mechanics/Decks/img/201 Dnd_tarokka_monk.webp#card]]
+![[5. Mechanics/Decks/img/201-dnd_tarokka_monk.webp#card]]
 *One of Glyphs*
 
 Serenity; inner strength and self-reliance; supreme confidence bereft of arrogance
 
 ### Missionary
-![[5. Mechanics/Decks/img/202 Dnd_tarokka_missionary.webp#card]]
+![[5. Mechanics/Decks/img/202-dnd_tarokka_missionary.webp#card]]
 *Two of Glyphs*
 
 Those who spread wisdom and faith to others; warnings of the spread of fear and ignorance
 
 ### Healer
-![[5. Mechanics/Decks/img/203 Dnd_tarokka_healer.webp#card]]
+![[5. Mechanics/Decks/img/203-dnd_tarokka_healer.webp#card]]
 *Three of Glyphs*
 
 Healing; a contagious illness, disease, or curse; those who practice the healing arts
 
 ### Shepherd
-![[5. Mechanics/Decks/img/204 Dnd_tarokka_shepherd.webp#card]]
+![[5. Mechanics/Decks/img/204-dnd_tarokka_shepherd.webp#card]]
 *Four of Glyphs*
 
 Those who protect others; one who bears a burden far too great to be shouldered alone
 
 ### Druid
-![[5. Mechanics/Decks/img/205 Dnd_tarokka_druid.webp#card]]
+![[5. Mechanics/Decks/img/205-dnd_tarokka_druid.webp#card]]
 *Five of Glyphs*
 
 The ambivalence and cruelty of nature and those who feel drawn to it; inner turmoil
 
 ### Anarchist
-![[5. Mechanics/Decks/img/206 Dnd_tarokka_anarchist.webp#card]]
+![[5. Mechanics/Decks/img/206-dnd_tarokka_anarchist.webp#card]]
 *Six of Glyphs*
 
 A fundamental change brought on by one whose beliefs are being put to the test
 
 ### Charlatan
-![[5. Mechanics/Decks/img/207 Dnd_tarokka_charlatan.webp#card]]
+![[5. Mechanics/Decks/img/207-dnd_tarokka_charlatan.webp#card]]
 *Seven of Glyphs*
 
 Liars; those who profess to believe one thing but actually believe another
 
 ### Bishop
-![[5. Mechanics/Decks/img/208 Dnd_tarokka_bishop.webp#card]]
+![[5. Mechanics/Decks/img/208-dnd_tarokka_bishop.webp#card]]
 *Eight of Glyphs*
 
 Strict adherence to a code or a belief; those who plot, plan, and scheme
 
 ### Traitor
-![[5. Mechanics/Decks/img/209 Dnd_tarokka_traitor.webp#card]]
+![[5. Mechanics/Decks/img/209-dnd_tarokka_traitor.webp#card]]
 *Nine of Glyphs*
 
 Betrayal by someone close and trusted; a weakening or loss of faith

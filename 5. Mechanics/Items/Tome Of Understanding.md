@@ -11,7 +11,7 @@ aliases:
 ---
 # Tome of Understanding
 *Wondrous Item, major, very rare*  
-![[5. Mechanics/Items/img/Tome Of Understanding.webp#right]]  
+![[5. Mechanics/Items/img/tome-of-understanding.webp#right]]  
 
 - **Weight**: 5.0 lbs.
 

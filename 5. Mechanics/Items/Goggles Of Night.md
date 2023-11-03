@@ -11,7 +11,7 @@ aliases:
 ---
 # Goggles of Night
 *Wondrous Item, minor, uncommon*  
-![[5. Mechanics/Items/img/Goggles Of Night.webp#right]]  
+![[5. Mechanics/Items/img/goggles-of-night.webp#right]]  
 
 
 While wearing these dark lenses, you have [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]] out to a range of 60 feet. If you already have [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]], wearing the goggles increases its range by 60 feet.

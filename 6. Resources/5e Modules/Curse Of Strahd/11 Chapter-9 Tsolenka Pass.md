@@ -8,7 +8,7 @@ aliases: ["Chapter 9: Tsolenka Pass"]
 # Chapter 9: Tsolenka Pass
 *Source: Curse of Strahd, p. 157* 
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/094 Cos09-01.webp#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/094-cos09-01.webp#center]]
 
 Tsolenka Pass is a gravel road that hugs Mount Ghakis, climbing to great heights. The road starts at the Raven River crossroads (chapter 2, area R) and travels seven miles to a gatehouse (areas T1–T3) and a guard tower (areas T4–T6), as well as a stone bridge (areas T7–T9) that spans the Luna River. Wind and snow make the journey treacherous. Without some way to keep warm, characters who aren't dressed for cold weather suffer the effects of extreme cold at night (see ""Weather"" in chapter 5, "Adventure Environments," of the "Dungeon Master's Guide").
 
@@ -150,7 +150,7 @@ When the Roc of Mount Ghakis appears, read:
 
 The roc attacks a random creature on the bridge, snatching up a horse or a mule, if one is available. Otherwise, it attacks a party member. It can't reach characters who hide in the guard posts at either end of the bridge. If it has nothing to attack on its turn, the roc lets loose a horrible shriek and flies back to its nest.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/097 Cos09-03.webp#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/097-cos09-03.webp#center]]
 
 ### Bloodhorn's Charge
 

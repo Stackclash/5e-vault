@@ -11,7 +11,7 @@ aliases:
 ---
 # Boots of Elvenkind
 *Wondrous Item, major, uncommon*  
-![[5. Mechanics/Items/img/Boots Of Elvenkind.webp#right]]  
+![[5. Mechanics/Items/img/boots-of-elvenkind.webp#right]]  
 
 
 While you wear these boots, your steps make no sound, regardless of the surface you are moving across. You also have advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks that rely on moving silently.
