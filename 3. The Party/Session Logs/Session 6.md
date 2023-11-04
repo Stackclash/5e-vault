@@ -18,6 +18,7 @@ Things I need to get ready before the session:
 High story beats, main things I want to happen this session.
 - The characters should meet the following people before everything goes down
 	- [[Gadof Blinksy]] 
+		- Have Father Lucian send the party to Blinksy's to 
 	- Rudolph van Richen aka Rictavio
 - [ ] Dinner with [[Vargas Vallakovich]] 
 	- [ ] Vargas invites the party to his house for dinner
@@ -30,7 +31,7 @@ High story beats, main things I want to happen this session.
 	- [ ] Ernst Larnak begins shadowing the characters (detected if passive perception is 14 or higher)
 	- [ ] If the characters show that they may not support what is happening in Vallaki or they say something at the festival they are invited to dinner
 		- [ ] If they refuse the Wachter seeks to destroy them by giving the Vistani camp outside money to kill the party
-	- [ ] 
+	- [ ] During the dinner Fiona is called away for a bit possibly allowing the party to explore
 - [ ] Retrieving St. Andral's Bones
 - [ ] [[Strahd von Zarovich]] 's Attack (St. Andral's Feast)
 - [ ] Festival of the Blazing Sun
