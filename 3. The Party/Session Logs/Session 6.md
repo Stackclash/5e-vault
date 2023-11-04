@@ -20,7 +20,7 @@ High story beats, main things I want to happen this session.
 	- [[Gadof Blinksy]] 
 	- Rudolph van Richen aka Rictavio
 - [ ] Festival of the Blazing Sun
-	- [ ] 
+	- [ ] Lars Kjurls - guard 
 - [ ] Dinner with [[Lady Fiona Wachter (COS)]] 
 - [ ] Dinner with [[Vargas Vallakovich]] 
 - [ ] Retrieving St. Andral's Bones
