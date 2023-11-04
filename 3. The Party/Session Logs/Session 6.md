@@ -8,17 +8,21 @@ Things I need to get ready before the session:
 	- [ ] Pronunciation
 	- [ ] Position and goals
 - [ ] Figure out how to handle the following:
-	- [ ] St. Andral's Feast
-	- [ ] Strahd's Attack
+	- [ ] Festival of the Blazing Sun
+	- [ ] Strahd's Attack (St. Andral's Feast)
 	- [ ] Retrieving St. Andral's Bones
-	- [ ] Dinner with Lady Wachter
+	- [ ] Dinner with [[Lady Fiona Wachter (COS)]] 
 	- [ ] Dinner with [[Vargas Vallakovich]] 
 
 ## Plan
 High story beats, main things I want to happen this session.
 - [ ] St. Andral's Feast
 	- [ ] 
-- [ ] 
+- [ ] Dinner with [[Lady Fiona Wachter (COS)]] 
+- [ ] Dinner with [[Vargas Vallakovich]] 
+- [ ] Retrieving St. Andral's Bones
+- [ ] Strahd's Attack (St. Andral's Feast)
+- [ ] Festival of the Blazing Sun
 
 # Session
 ## Start
