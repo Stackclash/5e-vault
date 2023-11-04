@@ -18,8 +18,9 @@ Things I need to get ready before the session:
 High story beats, main things I want to happen this session.
 - The characters should meet the following people before everything goes down
 	- [[Gadof Blinksy]] 
-		- Have Father Lucian send the party to Blinksy's to 
+		- Have Father Lucian send the party to Blinksy's to get a toy for Yeska (Lucian's young assistant)
 	- Rudolph van Richen aka Rictavio
+		- Have Nikolai and Karl Wachter bother Rictavio to urge the party to intervene and meet him
 - [ ] Dinner with [[Vargas Vallakovich]] 
 	- [ ] Vargas invites the party to his house for dinner
 	- [ ] He suggests that because Ireena is the adoptive daughter of the burgomaster of the town of Barovia that she should marry his son [[Victor Vallakovich]] 
@@ -33,6 +34,7 @@ High story beats, main things I want to happen this session.
 		- [ ] If they refuse the Wachter seeks to destroy them by giving the Vistani camp outside money to kill the party
 	- [ ] During the dinner Fiona is called away for a bit possibly allowing the party to explore
 - [ ] Retrieving St. Andral's Bones
+	- [ ] 
 - [ ] [[Strahd von Zarovich]] 's Attack (St. Andral's Feast)
 - [ ] Festival of the Blazing Sun
 
