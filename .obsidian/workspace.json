@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
+                "file": "6. Resources/5e Modules/Curse Of Strahd/05 Chapter-3 The Village Of Barovia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
+                "file": "6. Resources/5e Modules/Curse Of Strahd/05 Chapter-3 The Village Of Barovia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf"
+                "file": "6. Resources/5e Modules/Curse Of Strahd/05 Chapter-3 The Village Of Barovia.md"
               }
             }
           },
@@ -247,8 +247,10 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "c710baef1a4c2f03",
+  "active": "a88a1818b2c15bdd",
   "lastOpenFiles": [
+    "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
+    "6. Resources/5e Modules/Curse Of Strahd/03 Chapter-1 Into The Mists.md",
     "6. Resources/Resources/A Guide to Curse of Strahd.pdf",
     "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
     "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
@@ -264,7 +266,6 @@
     "3. The Party/Session Logs/Session Logs.md",
     "4. World Almanac/NPCs/NPCs.md",
     "6. Resources/5e Modules/Curse Of Strahd/05 Chapter-3 The Village Of Barovia.md",
-    "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
     "6. Resources/5e Modules/Curse Of Strahd/img/000 Cos01-01.webp",
     "5. Mechanics/Bestiary/Celestial/Celestial.md",
     "5. Mechanics/Bestiary/Celestial/Authority (SAF).md",
@@ -277,7 +278,6 @@
     "6. Resources/5e Modules/Curse Of Strahd/img/002-cos01-02.png",
     "6. Resources/5e Modules/Curse Of Strahd/img/003 Cos19-10.webp",
     "6. Resources/5e Modules/Curse Of Strahd/img/003-cos19-10.png",
-    "6. Resources/5e Modules/Curse Of Strahd/03 Chapter-1 Into The Mists.md",
     "4. World Almanac/Places of Interest/Places of Interest.md",
     "4. World Almanac/Regions/Regions.md",
     "4. World Almanac/Settlements/Settlements.md",
