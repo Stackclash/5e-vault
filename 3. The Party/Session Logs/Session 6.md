@@ -55,7 +55,7 @@ Loot, rewards and purchases.
 
 ## Keep in Mind
 - [[Victor Vallakovich]]  has been visiting Gertruda
-- 
+- [[Izek Strazni]] wants to kidnap Ireena
 
 ## Events
 What transpired over the course of the session? Update this during the session!
