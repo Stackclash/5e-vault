@@ -11,13 +11,14 @@ Things I need to get ready before the session:
 	- [ ] St. Andral's Feast
 	- [ ] Strahd's Attack
 	- [ ] Retrieving St. Andral's Bones
+	- [ ] Dinner with Lady Wachter
+	- [ ] Dinner with [[Vargas Vallakovich]] 
 
 ## Plan
 High story beats, main things I want to happen this session.
-- [ ] Point 1
-    - [ ] Sub Point 1
-- [ ] Point 2
-    - [ ] Sub Point 1
+- [ ] St. Andral's Feast
+	- [ ] 
+- [ ] 
 
 # Session
 ## Start
@@ -25,8 +26,7 @@ Intro, set the tone.
 
 ## Loot, Rewards & Purchases
 Loot, rewards and purchases.
-- [ ] Thing 1
-- [ ] Thing 2
+- [ ] [[Alchemy Jug]] 
 
 ## Keep in Mind
 Things to keep in mind during the session, from items to important details
