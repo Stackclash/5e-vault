@@ -54,7 +54,8 @@ Loot, rewards and purchases.
 - [ ] [[Alchemy Jug]] 
 
 ## Keep in Mind
-Things to keep in mind during the session, from items to important details
+- [[Victor Vallakovich]]  has been visiting Gertruda
+- 
 
 ## Events
 What transpired over the course of the session? Update this during the session!
