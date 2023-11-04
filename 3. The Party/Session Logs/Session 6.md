@@ -4,7 +4,11 @@ obsidianUIMode: preview
 # `=this.file.name`
 ## Session Prep:
 Things I need to get ready before the session:
-- [ ] Have a list of NPCs 
+- [ ] Have Vallaki NPCs prepared
+	- [ ] Pronunciation
+	- [ ] Position and goals
+- [ ] Figure out how to handle the following:
+	- [ ] 
 
 ## Plan
 High story beats, main things I want to happen this session.
@@ -40,4 +44,4 @@ New Locations Discovered.
 - Example 2
 
 ## End of Session Notes
-Anything to take note of as the session has come to a 
+Anything to take note of as the session has come to a close.
