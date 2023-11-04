@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/Session Logs/Session 6.md",
+                "file": "6. Resources/Resources/A Guide to Curse of Strahd.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/Session Logs/Session 6.md",
+                "file": "6. Resources/Resources/A Guide to Curse of Strahd.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/Session Logs/Session 6.md"
+                "file": "6. Resources/Resources/A Guide to Curse of Strahd.pdf"
               }
             }
           },
@@ -245,12 +245,12 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "f4b4dc987502f78e",
+  "active": "ffc8f05569f58dc3",
   "lastOpenFiles": [
+    "3. The Party/Session Logs/Session 6.md",
     "4. World Almanac/NPCs/NPCs.md",
     "3. The Party/Parties/Curse of Strahd.md",
     "4. World Almanac/Settlements/Vallaki.md",
-    "3. The Party/Session Logs/Session 6.md",
     "4. World Almanac/NPCs/Bray Martikov.md",
     "4. World Almanac/Settlements/Settlements.md",
     "3. The Party/Session Logs/Knowing the Road.md",
