@@ -28,6 +28,8 @@ High story beats, main things I want to happen this session.
 	- [ ] After a while Vargas comes and talks to them asking them to not get in the way and releases them if they are cooperative
 - [ ] Dinner with [[Lady Fiona Wachter (COS)]] 
 	- [ ] Ernst Larnak begins shadowing the characters (detected if passive perception is 14 or higher)
+	- [ ] If the characters show that they may not support what is happening in Vallaki or they say something at the festival they are invited to dinner
+		- [ ] If they refuse the Wachter seeks to destroy them by giving the Vistani camp outside money to kill the party
 	- [ ] 
 - [ ] Retrieving St. Andral's Bones
 - [ ] [[Strahd von Zarovich]] 's Attack (St. Andral's Feast)
