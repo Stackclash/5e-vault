@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Resources/Resources/A Guide to Curse of Strahd.pdf",
+                "file": "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Resources/Resources/A Guide to Curse of Strahd.pdf",
+                "file": "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Resources/Resources/A Guide to Curse of Strahd.pdf"
+                "file": "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf"
               }
             }
           },
@@ -245,9 +245,11 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "ffc8f05569f58dc3",
+  "active": "c710baef1a4c2f03",
   "lastOpenFiles": [
+    "6. Resources/Resources/A Guide to Curse of Strahd.pdf",
     "3. The Party/Session Logs/Session 6.md",
+    "5. Mechanics/Items/Ring Of Mind Shielding.md",
     "4. World Almanac/NPCs/NPCs.md",
     "3. The Party/Parties/Curse of Strahd.md",
     "4. World Almanac/Settlements/Vallaki.md",
@@ -261,7 +263,6 @@
     "6. Resources/5e Modules/Curse Of Strahd/05 Chapter-3 The Village Of Barovia.md",
     "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
     "6. Resources/5e Modules/Curse Of Strahd/03 Chapter-1 Into The Mists.md",
-    "6. Resources/Resources/A Guide to Curse of Strahd.pdf",
     "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
     "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
     "3. The Party/Session Logs/Never Trust a Hunter.md",
@@ -283,8 +284,6 @@
     "6. Resources/5e Modules/Curse Of Strahd/img/003 Cos19-10.webp",
     "6. Resources/5e Modules/Curse Of Strahd/img/003-cos19-10.png",
     "4. World Almanac/Places of Interest/Places of Interest.md",
-    "4. World Almanac/Regions/Regions.md",
-    "3. The Party/Players/Players.md",
     "compendium/vehicles",
     "compendium/objects/token",
     "compendium/bestiary/celestial/token",
