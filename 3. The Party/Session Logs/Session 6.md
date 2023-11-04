@@ -8,7 +8,9 @@ Things I need to get ready before the session:
 	- [ ] Pronunciation
 	- [ ] Position and goals
 - [ ] Figure out how to handle the following:
-	- [ ] 
+	- [ ] St. Andral's Feast
+	- [ ] Strahd's Attack
+	- [ ] Retrieving St. Andral's Bones
 
 ## Plan
 High story beats, main things I want to happen this session.
