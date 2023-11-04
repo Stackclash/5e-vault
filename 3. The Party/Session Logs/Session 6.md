@@ -4,12 +4,7 @@ obsidianUIMode: preview
 # `=this.file.name`
 ## Session Prep:
 Things I need to get ready before the session:
-- [ ] **Example 1**
-      Description.
-    - [ ] Sub-Point 1
-- [ ] **Example 2**
-      Description.
-    - [ ] Sub-Point 2
+- [ ] Have a list of NPCs 
 
 ## Plan
 High story beats, main things I want to happen this session.
@@ -45,4 +40,4 @@ New Locations Discovered.
 - Example 2
 
 ## End of Session Notes
-Anything to take note of as the session has come to a close.
+Anything to take note of as the session has come to a 
