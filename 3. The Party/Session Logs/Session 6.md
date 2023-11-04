@@ -7,10 +7,10 @@ Things I need to get ready before the session:
 - [ ] Have Vallaki NPCs prepared
 	- [ ] Pronunciation
 	- [ ] Position and goals
-- [ ] Figure out how to handle the following:
-	- [ ] Festival of the Blazing Sun
-	- [ ] Strahd's Attack (St. Andral's Feast)
-	- [ ] Retrieving St. Andral's Bones
+- [x] Figure out how to handle the following:
+	- [x] Festival of the Blazing Sun
+	- [x] Strahd's Attack (St. Andral's Feast)
+	- [x] Retrieving St. Andral's Bones
 	- [x] Dinner with [[Lady Fiona Wachter (COS)]] 
 	- [x] Dinner with [[Vargas Vallakovich]] 
 
@@ -42,8 +42,8 @@ High story beats, main things I want to happen this session.
 		- [ ] Strahd brings out Father Lucian telling everyone how he lied to his congregation
 	- [ ] If the bones are not retrieved 
 		- [ ] Strahd tells everyone how the burgomaster has tried to hide behind his festivals and giving everyone lies
-	- [ ] Strahd invites Ireena with him, saying that all humans are liers and killers
-- [ ] Festival of the Blazing Sun
+	- [ ] Strahd invites Ireena with him, saying that all humans are liers and killers.
+	- [ ] Strahd tells Ireena that next time he'll be forced to take her by force
 
 # Session
 ## Start

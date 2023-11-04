@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/Session Logs/Session 6.md",
+                "file": "4. World Almanac/Settlements/Vallaki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/Session Logs/Session 6.md",
+                "file": "4. World Almanac/Settlements/Vallaki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/Session Logs/Session 6.md"
+                "file": "4. World Almanac/Settlements/Vallaki.md"
               }
             }
           },
@@ -259,14 +259,14 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "f4b4dc987502f78e",
+  "active": "36a91fb421e2c7ac",
   "lastOpenFiles": [
+    "3. The Party/Session Logs/Session 6.md",
     "4. World Almanac/Settlements/Vallaki.md",
     "4. World Almanac/NPCs/NPCs.md",
     "4. World Almanac/NPCs/Bray Martikov.md",
     "4. World Almanac/Settlements/Settlements.md",
     "3. The Party/Session Logs/Knowing the Road.md",
-    "3. The Party/Session Logs/Session 6.md",
     "4. World Almanac/NPCs/Vargas Vallakovich.md",
     "1. DM Screen/Tools/Barovian Names.md",
     "1. DM Screen/1. DM Screen.md",
