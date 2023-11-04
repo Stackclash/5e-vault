@@ -16,12 +16,15 @@ Things I need to get ready before the session:
 
 ## Plan
 High story beats, main things I want to happen this session.
-- [ ] St. Andral's Feast
+- The characters should meet the following people before everything goes down
+	- [[Gadof Blinksy]] 
+	- Rudolph van Richen aka Rictavio
+- [ ] Festival of the Blazing Sun
 	- [ ] 
 - [ ] Dinner with [[Lady Fiona Wachter (COS)]] 
 - [ ] Dinner with [[Vargas Vallakovich]] 
 - [ ] Retrieving St. Andral's Bones
-- [ ] Strahd's Attack (St. Andral's Feast)
+- [ ] [[Strahd von Zarovich]] 's Attack (St. Andral's Feast)
 - [ ] Festival of the Blazing Sun
 
 # Session
