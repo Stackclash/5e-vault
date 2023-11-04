@@ -35,7 +35,8 @@ High story beats, main things I want to happen this session.
 	- [ ] During the dinner Fiona is called away for a bit possibly allowing the party to explore
 - [ ] Retrieving St. Andral's Bones
 	- [ ] Milivoj took the bones to . He can be convinced to tell where he brought them to Henrik van der Voort (coffin maker) for money to feed his younger sisters and brothers
-	- [ ] 
+	- [ ] Henrik refuses to tell where the bones are unless force is used. During the day he'll retrieve them, but during the night he doesn't dare retrieve them.
+	- [ ] If guards are called he 
 - [ ] [[Strahd von Zarovich]] 's Attack (St. Andral's Feast)
 - [ ] Festival of the Blazing Sun
 
