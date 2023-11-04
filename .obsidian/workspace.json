@@ -69,8 +69,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. The Party/Session Logs/Session 6.md",
-                "mode": "preview",
+                "file": "3. The Party/Session Logs/Secrets in the Dark.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/05 Chapter-3 The Village Of Barovia.md",
+                "file": "3. The Party/Session Logs/Secrets in the Dark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/05 Chapter-3 The Village Of Barovia.md",
+                "file": "3. The Party/Session Logs/Secrets in the Dark.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/05 Chapter-3 The Village Of Barovia.md"
+                "file": "3. The Party/Session Logs/Secrets in the Dark.md"
               }
             }
           },
@@ -247,8 +247,9 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "a88a1818b2c15bdd",
+  "active": "f4b4dc987502f78e",
   "lastOpenFiles": [
+    "6. Resources/5e Modules/Curse Of Strahd/05 Chapter-3 The Village Of Barovia.md",
     "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
     "6. Resources/5e Modules/Curse Of Strahd/03 Chapter-1 Into The Mists.md",
     "6. Resources/Resources/A Guide to Curse of Strahd.pdf",
@@ -265,7 +266,6 @@
     "3. The Party/Session Logs/Campaign Preparation.md",
     "3. The Party/Session Logs/Session Logs.md",
     "4. World Almanac/NPCs/NPCs.md",
-    "6. Resources/5e Modules/Curse Of Strahd/05 Chapter-3 The Village Of Barovia.md",
     "6. Resources/5e Modules/Curse Of Strahd/img/000 Cos01-01.webp",
     "5. Mechanics/Bestiary/Celestial/Celestial.md",
     "5. Mechanics/Bestiary/Celestial/Authority (SAF).md",
