@@ -1,3 +1,4 @@
 ---
 condition: Healthy
+location: Vallaki
 ---

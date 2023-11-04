@@ -330,6 +330,7 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    width: 153
     config:
       enable_media_view: true
       link_alias_enabled: true

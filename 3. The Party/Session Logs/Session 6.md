@@ -27,6 +27,8 @@ High story beats, main things I want to happen this session.
 	- [ ] If the characters challenge Vargas he has the guards arrest them and lock them up
 	- [ ] After a while Vargas comes and talks to them asking them to not get in the way and releases them if they are cooperative
 - [ ] Dinner with [[Lady Fiona Wachter (COS)]] 
+	- [ ] Ernst Larnak begins shadowing the characters (detected if passive perception is 14 or higher)
+	- [ ] 
 - [ ] Retrieving St. Andral's Bones
 - [ ] [[Strahd von Zarovich]] 's Attack (St. Andral's Feast)
 - [ ] Festival of the Blazing Sun

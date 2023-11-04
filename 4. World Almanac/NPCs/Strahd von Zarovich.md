@@ -9,7 +9,7 @@ condition: Healthy
 occupation: 
 group: 
 religion: 
-location: 
+location: Castle Ravenloft
 personality: 
 ideal: 
 bond: 
