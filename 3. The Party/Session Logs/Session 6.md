@@ -36,8 +36,13 @@ High story beats, main things I want to happen this session.
 - [ ] Retrieving St. Andral's Bones
 	- [ ] Milivoj took the bones to . He can be convinced to tell where he brought them to Henrik van der Voort (coffin maker) for money to feed his younger sisters and brothers
 	- [ ] Henrik refuses to tell where the bones are unless force is used. During the day he'll retrieve them, but during the night he doesn't dare retrieve them.
-	- [ ] If guards are called he 
+	- [ ] If guards are called he confesses that the vampire spawn forced him to steal the bones
 - [ ] [[Strahd von Zarovich]] 's Attack (St. Andral's Feast)
+	- [ ] If the bones are retrieved
+		- [ ] Strahd brings out Father Lucian telling everyone how he lied to his congregation
+	- [ ] If the bones are not retrieved 
+		- [ ] Strahd tells everyone how the burgomaster has tried to hide behind his festivals and giving everyone lies
+	- [ ] Strahd invites Ireena with him, saying that all humans are liers and killers
 - [ ] Festival of the Blazing Sun
 
 # Session
