@@ -57,8 +57,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. The Party/Session Logs/Knowing the Road.md",
-                "mode": "source",
+                "file": "4. World Almanac/NPCs/Bray Martikov.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/Session Logs/Session 6.md",
+                "file": "4. World Almanac/NPCs/Bray Martikov.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/Session Logs/Session 6.md",
+                "file": "4. World Almanac/NPCs/Bray Martikov.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/Session Logs/Session 6.md"
+                "file": "4. World Almanac/NPCs/Bray Martikov.md"
               }
             }
           },
@@ -259,10 +259,13 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "f4b4dc987502f78e",
+  "active": "36a91fb421e2c7ac",
   "lastOpenFiles": [
-    "4. World Almanac/NPCs/Vargas Vallakovich.md",
+    "4. World Almanac/Settlements/Settlements.md",
+    "4. World Almanac/NPCs/NPCs.md",
+    "3. The Party/Session Logs/Knowing the Road.md",
     "3. The Party/Session Logs/Session 6.md",
+    "4. World Almanac/NPCs/Vargas Vallakovich.md",
     "1. DM Screen/Tools/Barovian Names.md",
     "1. DM Screen/1. DM Screen.md",
     "3. The Party/Session Logs/Secrets in the Dark.md",
@@ -273,14 +276,12 @@
     "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
     "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
     "3. The Party/Parties/Curse of Strahd.md",
-    "3. The Party/Session Logs/Knowing the Road.md",
     "3. The Party/Session Logs/Never Trust a Hunter.md",
     "3. The Party/Parties/Parties.md",
     "3. The Party/Session Logs/Welcome to Barovia.md",
     "3. The Party/Session Logs/The Look of Desperation.md",
     "3. The Party/Session Logs/Campaign Preparation.md",
     "3. The Party/Session Logs/Session Logs.md",
-    "4. World Almanac/NPCs/NPCs.md",
     "6. Resources/5e Modules/Curse Of Strahd/img/000 Cos01-01.webp",
     "5. Mechanics/Bestiary/Celestial/Celestial.md",
     "5. Mechanics/Bestiary/Celestial/Authority (SAF).md",
@@ -295,7 +296,6 @@
     "6. Resources/5e Modules/Curse Of Strahd/img/003-cos19-10.png",
     "4. World Almanac/Places of Interest/Places of Interest.md",
     "4. World Almanac/Regions/Regions.md",
-    "4. World Almanac/Settlements/Settlements.md",
     "3. The Party/Players/Players.md",
     "4. World Almanac/Worlds/Worlds.md",
     "4. World Almanac/Worlds/Eldoria.md",

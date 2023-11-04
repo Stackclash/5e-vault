@@ -19,10 +19,14 @@ High story beats, main things I want to happen this session.
 - The characters should meet the following people before everything goes down
 	- [[Gadof Blinksy]] 
 	- Rudolph van Richen aka Rictavio
-- [ ] Festival of the Blazing Sun
-	- [ ] Lars Kjurls - guard 
-- [ ] Dinner with [[Lady Fiona Wachter (COS)]] 
 - [ ] Dinner with [[Vargas Vallakovich]] 
+	- [ ] Vargas invites the party to his house for dinner
+	- [ ] He suggests that because Ireena is the adoptive daughter of the burgomaster of the town of Barovia that she should marry his son [[Victor Vallakovich]] 
+- [ ] Festival of the Blazing Sun
+	- [ ] Lars Kjurls - guard is the one who laughs
+	- [ ] If the characters challenge Vargas he has the guards arrest them and lock them up
+	- [ ] After a while Vargas comes and talks to them asking them to not get in the way and releases them if they are cooperative
+- [ ] Dinner with [[Lady Fiona Wachter (COS)]] 
 - [ ] Retrieving St. Andral's Bones
 - [ ] [[Strahd von Zarovich]] 's Attack (St. Andral's Feast)
 - [ ] Festival of the Blazing Sun
