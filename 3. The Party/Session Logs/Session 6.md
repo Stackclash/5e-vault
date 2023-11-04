@@ -11,8 +11,8 @@ Things I need to get ready before the session:
 	- [ ] Festival of the Blazing Sun
 	- [ ] Strahd's Attack (St. Andral's Feast)
 	- [ ] Retrieving St. Andral's Bones
-	- [ ] Dinner with [[Lady Fiona Wachter (COS)]] 
-	- [ ] Dinner with [[Vargas Vallakovich]] 
+	- [x] Dinner with [[Lady Fiona Wachter (COS)]] 
+	- [x] Dinner with [[Vargas Vallakovich]] 
 
 ## Plan
 High story beats, main things I want to happen this session.
@@ -34,6 +34,7 @@ High story beats, main things I want to happen this session.
 		- [ ] If they refuse the Wachter seeks to destroy them by giving the Vistani camp outside money to kill the party
 	- [ ] During the dinner Fiona is called away for a bit possibly allowing the party to explore
 - [ ] Retrieving St. Andral's Bones
+	- [ ] Milivoj took the bones to . He can be convinced to tell where he brought them to Henrik van der Voort (coffin maker) for money to feed his younger sisters and brothers
 	- [ ] 
 - [ ] [[Strahd von Zarovich]] 's Attack (St. Andral's Feast)
 - [ ] Festival of the Blazing Sun
