@@ -60,7 +60,7 @@ Loot, rewards and purchases.
 ```encounter-table
 name: Strahd
 monsters:
-- 1: Strahd Von Zarovich (COS)
+- 1: [[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS)|Strahd Von Zarovich (COS)]] 
 ```
 
 ## Events
