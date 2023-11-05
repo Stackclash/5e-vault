@@ -62,6 +62,7 @@ name: Strahd
 creatures:
 - "1": Strahd von Zarovich (CoS)
 - 4: [[Vampire Spawn]] 
+- 1: [[Ireena Kolyana (COS)]] 
 ---
 name: Town
 creatures:
@@ -69,6 +70,7 @@ creatures:
 - 30: [[Commoner]]
 - 8: [[Cultist]]
 - 3: [[Cult Fanatic]] 
+- 1: [[Ireena Kolyana (COS)]] 
 ```
 
 ## Events
