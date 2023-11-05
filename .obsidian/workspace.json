@@ -57,7 +57,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "6. Resources/Resources/A Guide to Curse of Strahd.pdf"
+                "file": "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Adventure_-_The_Interactive_Tome_of_Strahd_v2_Printer_Friendly_(updated_04_21_21).pdf"
               }
             }
           }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Resources/Resources/A Guide to Curse of Strahd.pdf",
+                "file": "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Adventure_-_The_Interactive_Tome_of_Strahd_v2_Printer_Friendly_(updated_04_21_21).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Resources/Resources/A Guide to Curse of Strahd.pdf",
+                "file": "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Adventure_-_The_Interactive_Tome_of_Strahd_v2_Printer_Friendly_(updated_04_21_21).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Resources/Resources/A Guide to Curse of Strahd.pdf"
+                "file": "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Adventure_-_The_Interactive_Tome_of_Strahd_v2_Printer_Friendly_(updated_04_21_21).pdf"
               }
             }
           },
@@ -249,6 +249,7 @@
   },
   "active": "f4b4dc987502f78e",
   "lastOpenFiles": [
+    "6. Resources/Resources/A Guide to Curse of Strahd.pdf",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Sanctum.png",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Overlook.png",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Order of the Guardians Monastery - Full Map (Player).png",
@@ -261,7 +262,6 @@
     "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Handout_-_Epilogue_-_A_Lords_Rest_(updated_04_28_21).png",
     "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Adventure_-_The_Interactive_Tome_of_Strahd_v3_-_Color.pdf",
     "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Adventure_-_The_Interactive_Tome_of_Strahd_v2_Printer_Friendly_(updated_04_21_21).pdf",
-    "6. Resources/Resources/A Guide to Curse of Strahd.pdf",
     "6. Resources/Resources/Curse of Strahd NPC Map.pdf",
     "3. The Party/Session Logs/Session 6.md",
     "5. Mechanics/Rules/Actions.md",
@@ -289,7 +289,6 @@
     "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
     "3. The Party/Parties/Parties.md",
     "3. The Party/Session Logs/Welcome to Barovia.md",
-    "6. Resources/5e Modules/Curse Of Strahd/img/000 Cos01-01.webp",
     "compendium/vehicles",
     "compendium/objects/token",
     "compendium/bestiary/celestial/token",
