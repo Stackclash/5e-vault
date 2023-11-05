@@ -59,8 +59,16 @@ Loot, rewards and purchases.
 - Ireena has dyed her hair
 ```encounter-table
 name: Strahd
-monsters:
-- 1: [[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS)|Strahd Von Zarovich (COS)]] 
+creatures:
+- "1": Strahd von Zarovich (CoS)
+- 4: [[Vampire Spawn]] 
+---
+name: Town
+creatures:
+- 12: [[Guard]]
+- 30: [[Commoner]]
+- 8: [[Cultist]]
+- 3: [[Cult Fanatic]] 
 ```
 
 ## Events

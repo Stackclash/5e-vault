@@ -58,7 +58,7 @@
               "type": "markdown",
               "state": {
                 "file": "3. The Party/Session Logs/Session 6.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -340,24 +340,11 @@
           }
         ],
         "currentTab": 8
-      },
-      {
-        "id": "bb28a7b93c7fc3b8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "99caaac76ce9f8a7",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 369.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -378,17 +365,17 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "f4b4dc987502f78e",
+  "active": "a935de75015b7bf2",
   "lastOpenFiles": [
+    "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
+    "3. The Party/Session Logs/Session 6.md",
     "3. The Party/Session Logs/Knowing the Road.md",
     "3. The Party/Session Logs/Never Trust a Hunter.md",
-    "3. The Party/Session Logs/Session 6.md",
     "5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md",
     "3. The Party/Session Logs/Session Logs.md",
     "5. Mechanics/Items/Pipes Of Haunting.md",
     "1. DM Screen/Tools/Barovian Names.md",
     "4. World Almanac/NPCs/NPCs.md",
-    "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
     "3. The Party/Parties/Curse of Strahd.md",
     "6. Resources/Resources/A Guide to Curse of Strahd.pdf",
     "5. Mechanics/Items/Ring Of Mind Shielding.md",
@@ -408,7 +395,6 @@
     "3. The Party/Session Logs/Campaign Preparation.md",
     "6. Resources/5e Modules/Curse Of Strahd/img/000 Cos01-01.webp",
     "5. Mechanics/Bestiary/Celestial/Celestial.md",
-    "5. Mechanics/Bestiary/Celestial/Authority (SAF).md",
     "6. Resources/5e Modules/Curse Of Strahd/img/004 Cos02-01.webp",
     "6. Resources/5e Modules/Curse Of Strahd/img/004-cos02-01.png",
     "6. Resources/5e Modules/Curse Of Strahd/img/005-cos02-02.png",
