@@ -57,6 +57,11 @@ Loot, rewards and purchases.
 - [[Victor Vallakovich]]  has been visiting Gertruda
 - [[Izek Strazni]] wants to kidnap Ireena
 - Ireena has dyed her hair
+```encounter-table
+name: Strahd
+monsters:
+- 1: Strahd Von Zarovich (COS)
+```
 
 ## Events
 What transpired over the course of the session? Update this during the session!

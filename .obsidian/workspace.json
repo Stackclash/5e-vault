@@ -58,9 +58,17 @@
               "type": "markdown",
               "state": {
                 "file": "3. The Party/Session Logs/Session 6.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "669afba93a36001a",
+            "type": "leaf",
+            "state": {
+              "type": "intiative-tracker-encounter-builder",
+              "state": []
             }
           },
           {
@@ -76,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
+                "file": "3. The Party/Session Logs/Session 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
+                "file": "3. The Party/Session Logs/Session 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf"
+                "file": "3. The Party/Session Logs/Session 6.md"
               }
             }
           },
@@ -221,12 +229,25 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
+      },
+      {
+        "id": "bb28a7b93c7fc3b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99caaac76ce9f8a7",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 369.5,
-    "collapsed": true
+    "width": 369.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -247,32 +268,34 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "c710baef1a4c2f03",
+  "active": "669afba93a36001a",
   "lastOpenFiles": [
+    "5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md",
     "3. The Party/Session Logs/Session 6.md",
+    "3. The Party/Session Logs/Session Logs.md",
+    "3. The Party/Session Logs/Never Trust a Hunter.md",
+    "3. The Party/Session Logs/Knowing the Road.md",
+    "5. Mechanics/Items/Pipes Of Haunting.md",
+    "1. DM Screen/Tools/Barovian Names.md",
+    "4. World Almanac/NPCs/NPCs.md",
+    "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
     "3. The Party/Parties/Curse of Strahd.md",
     "6. Resources/Resources/A Guide to Curse of Strahd.pdf",
-    "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
-    "4. World Almanac/NPCs/NPCs.md",
     "5. Mechanics/Items/Ring Of Mind Shielding.md",
     "4. World Almanac/Settlements/Vallaki.md",
     "4. World Almanac/NPCs/Bray Martikov.md",
     "4. World Almanac/Settlements/Settlements.md",
-    "3. The Party/Session Logs/Knowing the Road.md",
     "4. World Almanac/NPCs/Vargas Vallakovich.md",
-    "1. DM Screen/Tools/Barovian Names.md",
     "1. DM Screen/1. DM Screen.md",
     "3. The Party/Session Logs/Secrets in the Dark.md",
     "6. Resources/5e Modules/Curse Of Strahd/05 Chapter-3 The Village Of Barovia.md",
     "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
     "6. Resources/5e Modules/Curse Of Strahd/03 Chapter-1 Into The Mists.md",
     "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
-    "3. The Party/Session Logs/Never Trust a Hunter.md",
     "3. The Party/Parties/Parties.md",
     "3. The Party/Session Logs/Welcome to Barovia.md",
     "3. The Party/Session Logs/The Look of Desperation.md",
     "3. The Party/Session Logs/Campaign Preparation.md",
-    "3. The Party/Session Logs/Session Logs.md",
     "6. Resources/5e Modules/Curse Of Strahd/img/000 Cos01-01.webp",
     "5. Mechanics/Bestiary/Celestial/Celestial.md",
     "5. Mechanics/Bestiary/Celestial/Authority (SAF).md",
@@ -285,7 +308,6 @@
     "6. Resources/5e Modules/Curse Of Strahd/img/002-cos01-02.png",
     "6. Resources/5e Modules/Curse Of Strahd/img/003 Cos19-10.webp",
     "6. Resources/5e Modules/Curse Of Strahd/img/003-cos19-10.png",
-    "4. World Almanac/Places of Interest/Places of Interest.md",
     "compendium/vehicles",
     "compendium/objects/token",
     "compendium/bestiary/celestial/token",
