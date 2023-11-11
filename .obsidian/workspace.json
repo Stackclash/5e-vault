@@ -42,27 +42,19 @@
             }
           },
           {
-            "id": "20ce9f98f85bb0dc",
+            "id": "4813e86a6178c657",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "4. World Almanac/NPCs/NPCs.md"
-              }
-            }
-          },
-          {
-            "id": "f4b4dc987502f78e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Adventure_-_The_Interactive_Tome_of_Strahd_v2_Printer_Friendly_(updated_04_21_21).pdf"
+                "file": "3. The Party/Session Logs/Session 6.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Adventure_-_The_Interactive_Tome_of_Strahd_v2_Printer_Friendly_(updated_04_21_21).pdf",
+                "file": "3. The Party/Session Logs/Session 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Adventure_-_The_Interactive_Tome_of_Strahd_v2_Printer_Friendly_(updated_04_21_21).pdf",
+                "file": "3. The Party/Session Logs/Session 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Adventure_-_The_Interactive_Tome_of_Strahd_v2_Printer_Friendly_(updated_04_21_21).pdf"
+                "file": "3. The Party/Session Logs/Session 6.md"
               }
             }
           },
@@ -247,8 +239,14 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "f4b4dc987502f78e",
+  "active": "4813e86a6178c657",
   "lastOpenFiles": [
+    "3. The Party/Session Logs/Session Logs.md",
+    "3. The Party/Parties/Curse of Strahd.md",
+    "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
+    "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
+    "1. DM Screen/1. DM Screen.md",
+    "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Adventure_-_The_Interactive_Tome_of_Strahd_v2_Printer_Friendly_(updated_04_21_21).pdf",
     "6. Resources/Resources/A Guide to Curse of Strahd.pdf",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Sanctum.png",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Overlook.png",
@@ -261,7 +259,6 @@
     "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Item_Card_-_Tome_of_Strahd.png",
     "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Handout_-_Epilogue_-_A_Lords_Rest_(updated_04_28_21).png",
     "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Adventure_-_The_Interactive_Tome_of_Strahd_v3_-_Color.pdf",
-    "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Adventure_-_The_Interactive_Tome_of_Strahd_v2_Printer_Friendly_(updated_04_21_21).pdf",
     "6. Resources/Resources/Curse of Strahd NPC Map.pdf",
     "3. The Party/Session Logs/Session 6.md",
     "5. Mechanics/Rules/Actions.md",
@@ -269,24 +266,19 @@
     "5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md",
     "1. DM Screen/Tools/Barovian Names.md",
     "4. World Almanac/NPCs/NPCs.md",
-    "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
     "3. The Party/Session Logs/Knowing the Road.md",
     "3. The Party/Session Logs/Never Trust a Hunter.md",
     "5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md",
-    "3. The Party/Session Logs/Session Logs.md",
     "5. Mechanics/Items/Pipes Of Haunting.md",
-    "3. The Party/Parties/Curse of Strahd.md",
     "5. Mechanics/Items/Ring Of Mind Shielding.md",
     "4. World Almanac/Settlements/Vallaki.md",
     "4. World Almanac/NPCs/Bray Martikov.md",
     "4. World Almanac/Settlements/Settlements.md",
     "4. World Almanac/NPCs/Vargas Vallakovich.md",
-    "1. DM Screen/1. DM Screen.md",
     "3. The Party/Session Logs/Secrets in the Dark.md",
     "6. Resources/5e Modules/Curse Of Strahd/05 Chapter-3 The Village Of Barovia.md",
     "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
     "6. Resources/5e Modules/Curse Of Strahd/03 Chapter-1 Into The Mists.md",
-    "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
     "3. The Party/Parties/Parties.md",
     "3. The Party/Session Logs/Welcome to Barovia.md",
     "compendium/vehicles",
