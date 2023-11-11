@@ -74,7 +74,13 @@ creatures:
 ```
 
 ## Events
-What transpired over the course of the session? Update this during the session!
+- Party finds [[Milivoj]]  at his house and convinces him to tell them where the bones were taken
+- They go to the [[Coffin Maker's Shop]] and find Henrik van der Voort 
+	- They strong arm him into revealing the location of the bones
+	- Henrik reveals that [[Strahd von Zarovich]] made him take them
+- The party fights off a group of vampire spawn
+- [[Yevelda Ovak]] throws Henrik at a [[Vampire Spawn]]  which breaks one of his legs.
+- One spawn tries to escape with the bones but is stopped
 
 # Summary
 ## New NPCs
