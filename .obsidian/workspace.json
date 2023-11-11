@@ -48,13 +48,23 @@
               "type": "markdown",
               "state": {
                 "file": "3. The Party/Session Logs/Session 6.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "4d1398d928c3dc7a",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "4. World Almanac/NPCs/NPCs.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -112,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/Session Logs/Session 6.md",
+                "file": "4. World Almanac/NPCs/NPCs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/Session Logs/Session 6.md",
+                "file": "4. World Almanac/NPCs/NPCs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/Session Logs/Session 6.md"
+                "file": "4. World Almanac/NPCs/NPCs.md"
               }
             }
           },
@@ -239,8 +249,9 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "4813e86a6178c657",
+  "active": "4d1398d928c3dc7a",
   "lastOpenFiles": [
+    "3. The Party/Session Logs/Session 6.md",
     "3. The Party/Session Logs/Session Logs.md",
     "3. The Party/Parties/Curse of Strahd.md",
     "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
@@ -260,7 +271,6 @@
     "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Handout_-_Epilogue_-_A_Lords_Rest_(updated_04_28_21).png",
     "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Adventure_-_The_Interactive_Tome_of_Strahd_v3_-_Color.pdf",
     "6. Resources/Resources/Curse of Strahd NPC Map.pdf",
-    "3. The Party/Session Logs/Session 6.md",
     "5. Mechanics/Rules/Actions.md",
     "5. Mechanics/Bestiary/Npc/Npc.md",
     "5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md",
