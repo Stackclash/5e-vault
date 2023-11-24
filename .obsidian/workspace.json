@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f15c0fc324e17c6b",
+        "id": "8da378f70e634a8f",
         "type": "tabs",
         "children": [
           {
-            "id": "98d96fd9c41540d3",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
-            "id": "5d1f5f12ddc81c2d",
+            "id": "0d96a3581fc4b4bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. The Party/Session Logs/Making Friends with the Necromancer.md",
-                "mode": "source",
+                "file": "3. The Party/Players/Faerah Duskrane.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/Session Logs/Making Friends with the Necromancer.md",
+                "file": "3. The Party/Players/Faerah Duskrane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/Session Logs/Making Friends with the Necromancer.md",
+                "file": "3. The Party/Players/Faerah Duskrane.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/Session Logs/Making Friends with the Necromancer.md"
+                "file": "3. The Party/Players/Faerah Duskrane.md"
               }
             }
           },
@@ -199,13 +190,17 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "5d1f5f12ddc81c2d",
+  "active": "0d96a3581fc4b4bc",
   "lastOpenFiles": [
+    "3. The Party/Players/Players.md",
+    "5. Mechanics/Bestiary/Humanoid/Werewolf.md",
+    "5. Mechanics/Bestiary/Humanoid/Humanoid.md",
+    "5. Mechanics/Bestiary/Beast/Beast.md",
+    "3. The Party/Session Logs/Making Friends with the Necromancer.md",
     "3. The Party/Parties/Curse of Strahd.md",
     "3. The Party/Parties/Parties.md",
     "3. The Party/Session Logs/Best Weapon against Vampires are Old Men.md",
     "3. The Party/Session Logs/Session Logs.md",
-    "3. The Party/Session Logs/Making Friends with the Necromancer.md",
     "3. The Party/Session Logs/Knowing the Road.md",
     "3. The Party/Session Logs/Campaign Preparation.md",
     "3. The Party/Session Logs/Never Trust a Hunter.md",
@@ -238,9 +233,6 @@
     "1. DM Screen/Tools/Barovian Names.md",
     "5. Mechanics/Items/Pipes Of Haunting.md",
     "5. Mechanics/Items/Ring Of Mind Shielding.md",
-    "4. World Almanac/Settlements/Vallaki.md",
-    "4. World Almanac/NPCs/Bray Martikov.md",
-    "4. World Almanac/Settlements/Settlements.md",
     "compendium/vehicles",
     "compendium/objects/token",
     "compendium/bestiary/celestial/token",
