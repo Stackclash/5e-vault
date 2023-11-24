@@ -1,10 +1,9 @@
-<%*
-await tp.file.move('3. The Party/Session Logs/' + tp.file.title)
-let date = await tp.system.prompt("What date is this session supposed to happen? (MM-DD-YYYY)")
--%>
+---
+party: Curse of Strahd
+---
 ---
 obsidianUIMode: preview
-date: <% moment(date, "MM-DD-YYYY").format() %>
+date: 2023-11-25T00:00:00-06:00
 summary:
 fc-date:
 timelines:
