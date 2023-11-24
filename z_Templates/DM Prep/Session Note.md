@@ -1,5 +1,12 @@
 ---
 obsidianUIMode: preview
+date:
+summary:
+fc-date:
+timelines:
+aat-render-enabled: true
+fc-category: Session
+party:
 ---  
 # `=this.file.name`
 ## Session Prep:

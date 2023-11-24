@@ -2,10 +2,9 @@
 const path = require('path')
 const dv = app.plugins.getPlugin("dataview").api
 
-let title = tp.file.title
 await tp.file.move('3. The Party/Players/' + tp.file.title)
 if (tp.config.run_mode === 0) {
-    title = await tp.system.prompt("What is the name of the character?")
+    let title = await tp.system.prompt("What is the name of the character?")
     await tp.file.rename(title)
 }
 
