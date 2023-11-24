@@ -1,6 +1,10 @@
+<%*
+await tp.file.move('3. The Party/Session Logs/' + tp.file.title)
+let date = await tp.system.prompt("What date is this session supposed to happen")
+-%>
 ---
 obsidianUIMode: preview
-date:
+date: <% date %>
 summary:
 fc-date:
 timelines:

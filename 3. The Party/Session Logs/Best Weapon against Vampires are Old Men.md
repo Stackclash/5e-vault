@@ -84,9 +84,8 @@ creatures:
 
 # Summary
 ## New NPCs
-New NPC Met.
-- Example 1
-- Example 2
+- [[Milivoj]] 
+- Henrik van der Voort
 
 ## New Locations
 New Locations Discovered.
