@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. The Party/Players/Marin.md",
+                "file": "3. The Party/Players/Redgrave.md",
                 "mode": "preview",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/Players/Marin.md",
+                "file": "3. The Party/Players/Redgrave.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/Players/Marin.md",
+                "file": "3. The Party/Players/Redgrave.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/Players/Marin.md"
+                "file": "3. The Party/Players/Redgrave.md"
               }
             }
           },
@@ -192,8 +192,8 @@
   },
   "active": "0d96a3581fc4b4bc",
   "lastOpenFiles": [
-    "3. The Party/Players/Faerah Duskrane.md",
     "3. The Party/Players/Marin.md",
+    "3. The Party/Players/Faerah Duskrane.md",
     "3. The Party/Players/Players.md",
     "5. Mechanics/Bestiary/Humanoid/Werewolf.md",
     "5. Mechanics/Bestiary/Humanoid/Humanoid.md",
