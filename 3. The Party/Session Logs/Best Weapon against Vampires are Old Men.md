@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 date: 2023-11-04T00:00:00.000-05:00
-summary: 
+summary: The party discovers where St. Andral's Bones are kept by talking the Milvoj. The bones are protected by a nest of vampire spawn in the house of
 fc-date: 973-2-14
 timelines: 
 aat-render-enabled: true
