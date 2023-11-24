@@ -1,6 +1,15 @@
 ---
 obsidianUIMode: preview
----  
+date: 2023-11-04T00:00:00.000-05:00
+summary: 
+fc-date: 973-2-14
+timelines: 
+aat-render-enabled: true
+fc-category: Session
+party: Curse of Strahd
+fc-end: 973-2-14
+---
+
 # `=this.file.name`
 ## Session Prep:
 Things I need to get ready before the session:
