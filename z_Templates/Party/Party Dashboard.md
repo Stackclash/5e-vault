@@ -1,8 +1,8 @@
 <%*
 const path = require('path')
 
-let title = tp.file.title
-await tp.file.move('3. The Party/0. Party Hubs/' + tp.file.title)
+let title = tp.file.title // need to handle case where title isn't available
+await tp.file.move('3. The Party/Parties/' + tp.file.title)
 if (tp.config.run_mode === 0) {
     title = await tp.system.prompt("What is the name of the party?")
     await tp.file.rename(title)
