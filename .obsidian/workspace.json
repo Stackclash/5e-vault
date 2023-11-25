@@ -30,9 +30,17 @@
               "type": "FANTASY_CALENDAR",
               "state": {}
             }
+          },
+          {
+            "id": "382b02636112e12b",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -199,17 +207,17 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "659d30f9b5d374bb",
+  "active": "382b02636112e12b",
   "lastOpenFiles": [
+    "3. The Party/Session Logs/Campaign Preparation.md",
+    "3. The Party/Session Logs/Knowing the Road.md",
+    "3. The Party/Session Logs/Best Weapon against Vampires are Old Men.md",
     "3. The Party/Session Logs/Welcome to Barovia.md",
     "3. The Party/Session Logs/The Look of Desperation.md",
     "3. The Party/Session Logs/Session Logs.md",
     "3. The Party/Session Logs/Secrets in the Dark.md",
     "3. The Party/Session Logs/Never Trust a Hunter.md",
     "3. The Party/Session Logs/Making Friends with the Necromancer.md",
-    "3. The Party/Session Logs/Knowing the Road.md",
-    "3. The Party/Session Logs/Campaign Preparation.md",
-    "3. The Party/Session Logs/Best Weapon against Vampires are Old Men.md",
     "5. Mechanics/Bestiary/Npc/Npc.md",
     "5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md",
     "5. Mechanics/Bestiary/Ooze/Ooze.md",
