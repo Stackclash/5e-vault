@@ -4,43 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ba68c630c9d06bf3",
+        "id": "474624cd29b158bc",
         "type": "tabs",
         "children": [
           {
-            "id": "6682cebcc60db382",
+            "id": "1aa3f0e3ec472e25",
             "type": "leaf",
             "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
-            "id": "b7283d785276a8c6",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
-            "id": "659d30f9b5d374bb",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
-            "id": "382b02636112e12b",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
+              "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,7 +182,7 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "382b02636112e12b",
+  "active": "1aa3f0e3ec472e25",
   "lastOpenFiles": [
     "3. The Party/Session Logs/Campaign Preparation.md",
     "3. The Party/Session Logs/Knowing the Road.md",
