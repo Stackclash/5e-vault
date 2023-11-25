@@ -11,12 +11,8 @@
             "id": "0d96a3581fc4b4bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "FANTASY_CALENDAR",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md"
-              }
+              "state": {}
             }
           },
           {
@@ -192,6 +184,7 @@
   },
   "active": "0d96a3581fc4b4bc",
   "lastOpenFiles": [
+    "5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md",
     "5. Mechanics/Bestiary/Npc/Npc.md",
     "5. Mechanics/Bestiary/Ooze/Ooze.md",
     "5. Mechanics/Bestiary/Humanoid/Humanoid.md",
@@ -217,7 +210,6 @@
     "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
     "5. Mechanics/Bestiary/Npc/Urwin Martikov (COS).md",
     "4. World Almanac/NPCs/NPCs.md",
-    "5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md",
     "1. DM Screen/1. DM Screen.md",
     "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Adventure_-_The_Interactive_Tome_of_Strahd_v2_Printer_Friendly_(updated_04_21_21).pdf",
     "6. Resources/Resources/A Guide to Curse of Strahd.pdf",
