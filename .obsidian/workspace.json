@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "8da378f70e634a8f",
+        "id": "ba68c630c9d06bf3",
         "type": "tabs",
         "children": [
           {
-            "id": "0d96a3581fc4b4bc",
+            "id": "6682cebcc60db382",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "b7283d785276a8c6",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "659d30f9b5d374bb",
             "type": "leaf",
             "state": {
               "type": "FANTASY_CALENDAR",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -182,10 +199,19 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "0d96a3581fc4b4bc",
+  "active": "659d30f9b5d374bb",
   "lastOpenFiles": [
-    "5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md",
+    "3. The Party/Session Logs/Welcome to Barovia.md",
+    "3. The Party/Session Logs/The Look of Desperation.md",
+    "3. The Party/Session Logs/Session Logs.md",
+    "3. The Party/Session Logs/Secrets in the Dark.md",
+    "3. The Party/Session Logs/Never Trust a Hunter.md",
+    "3. The Party/Session Logs/Making Friends with the Necromancer.md",
+    "3. The Party/Session Logs/Knowing the Road.md",
+    "3. The Party/Session Logs/Campaign Preparation.md",
+    "3. The Party/Session Logs/Best Weapon against Vampires are Old Men.md",
     "5. Mechanics/Bestiary/Npc/Npc.md",
+    "5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md",
     "5. Mechanics/Bestiary/Ooze/Ooze.md",
     "5. Mechanics/Bestiary/Humanoid/Humanoid.md",
     "3. The Party/Players/Yevelda Ovak.md",
@@ -196,21 +222,12 @@
     "3. The Party/Players/Players.md",
     "5. Mechanics/Bestiary/Humanoid/Werewolf.md",
     "5. Mechanics/Bestiary/Beast/Beast.md",
-    "3. The Party/Session Logs/Making Friends with the Necromancer.md",
     "3. The Party/Parties/Curse of Strahd.md",
     "3. The Party/Parties/Parties.md",
-    "3. The Party/Session Logs/Best Weapon against Vampires are Old Men.md",
-    "3. The Party/Session Logs/Session Logs.md",
-    "3. The Party/Session Logs/Knowing the Road.md",
-    "3. The Party/Session Logs/Campaign Preparation.md",
-    "3. The Party/Session Logs/Never Trust a Hunter.md",
     "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
     "z_Templates/Party/Session Log.md",
-    "3. The Party/Session Logs/Secrets in the Dark.md",
     "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
     "5. Mechanics/Bestiary/Npc/Urwin Martikov (COS).md",
-    "4. World Almanac/NPCs/NPCs.md",
-    "1. DM Screen/1. DM Screen.md",
     "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Adventure_-_The_Interactive_Tome_of_Strahd_v2_Printer_Friendly_(updated_04_21_21).pdf",
     "6. Resources/Resources/A Guide to Curse of Strahd.pdf",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Sanctum.png",
