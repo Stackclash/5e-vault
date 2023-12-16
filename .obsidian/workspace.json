@@ -88,9 +88,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8e8b443616c716dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -148,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/Players/Yevelda Ovak.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/Players/Yevelda Ovak.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/Players/Yevelda Ovak.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -274,8 +286,10 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "f90cbc71c274b571",
+  "active": "8e8b443616c716dd",
   "lastOpenFiles": [
+    "3. The Party/Players/Yevelda Ovak.md",
+    "conflict-files-obsidian-git.md",
     "3. The Party/Players/Players.md",
     "5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md",
     "1. DM Screen/1. DM Screen.md",
@@ -297,13 +311,11 @@
     "5. Mechanics/Backgrounds/Backgrounds.md",
     "5. Mechanics/Bestiary/Npc/Rictavio (COS).md",
     "Untitled.md",
-    "3. The Party/Players/Yevelda Ovak.md",
     "3. The Party/Session Logs/Making Friends with the Necromancer.md",
     "3. The Party/Players/Redgrave.md",
     "4. World Almanac/Regions/Regions.md",
     "3. The Party/Parties/Parties.md",
     "3. The Party/Session Logs/Welcome to Barovia.md",
-    "3. The Party/Session Logs/Knowing the Road.md",
     "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Adventure_-_The_Interactive_Tome_of_Strahd_v2_Printer_Friendly_(updated_04_21_21).pdf",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Sanctum.png",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Overlook.png",

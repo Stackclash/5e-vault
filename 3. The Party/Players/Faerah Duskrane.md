@@ -1,19 +1,19 @@
 ---
 obsidianUIMode: preview
 statblock: true
-level: 4
+level: 5
 race: Elf Drow
 class: Rogue
-hp: 24
+hp: 38
 stats:
   - "8"
-  - "17"
+  - "18"
   - "14"
   - "10"
   - "12"
   - "14"
-ac: 15
-modifier: 5
+ac: 16
+modifier: 6
 alignment: 
 ideal: 
 bond: 
