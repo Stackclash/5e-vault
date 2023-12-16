@@ -14,15 +14,13 @@ party:
 Things I need to get ready before the session:
 - [ ] After math of Strahd attack
 - [ ] New direction?
+	- [ ] Wizard of Wines
+	- [ ] Amber Temple
 - [ ] Invitation to Strahd's Castle
-- [ ] 
 
 ## Plan
 High story beats, main things I want to happen this session.
-- [ ] Point 1
-    - [ ] Sub Point 1
-- [ ] Point 2
-    - [ ] Sub Point 1
+- [ ] Things get too st
 
 # Session
 ## Start
