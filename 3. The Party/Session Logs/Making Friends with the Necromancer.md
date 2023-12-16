@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
 date: 2023-11-10T00:00:00-06:00
-summary: 
+summary: Everyone is invited to a dinner at Baron Vargas' home. The Baron makes the proposition to have Ireena marry their son, Victor. He doesn't want to and goes to his room. The party to trying to talk to him discover that he is a self taught necromancer and befriend him.
 fc-date: 973-2-14
 fc-end: 973-2-14
 aat-render-enabled: true
-timelines: 
+timelines:
+  - COS
 fc-category: Session
 party: Curse of Strahd
 ---

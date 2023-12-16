@@ -2,6 +2,11 @@
 party: Curse of Strahd
 fc-date: 973-2-15
 fc-end: 973-2-15
+aat-render-enabled: true
+timelines:
+  - COS
+fc-category: Session
+date: 2023-11-25T00:00:00.000-06:00
 ---
 
 # `=this.file.name`
