@@ -7,6 +7,7 @@ timelines:
   - COS
 fc-category: Session
 date: 2023-11-25T00:00:00.000-06:00
+summary: The party attends the Festival of the Blazing Sun and when it ultimately falls apart a guard laughs at the misfortune. The Baron has him arrested. Yevelda stands up for the guard and is arrested as well. During a sermon given by Father Lucian, the bones of St. Andral are secretly stolen and Strahd shows up with a hoard of vampire spawn and starts killing everyone. Faerah is able to intercept the bones and return them casting Strahd and his hoard out of the church.
 ---
 
 # `=this.file.name`
