@@ -1,10 +1,10 @@
 ---
 obsidianUIMode: preview
 statblock: true
-level: 4
+level: 5
 race: Human
 class: Barbarian
-hp: 51
+hp: 65
 stats:
   - "18"
   - "14"
@@ -23,7 +23,8 @@ dislikes:
 art: Yevelda Ovak.jpeg
 condition: Healthy
 location: Vallaki
-party_player: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
+party_player:
+  - "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
 exhaustion: 0
 ---
 > [!infobox|right]

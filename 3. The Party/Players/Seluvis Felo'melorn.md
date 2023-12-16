@@ -1,10 +1,10 @@
 ---
 obsidianUIMode: preview
 statblock: true
-level: 4
+level: 5
 race: Elf High
 class: Artificer (TCE)
-hp: 27
+hp: 33
 stats:
   - "8"
   - "16"
@@ -12,7 +12,7 @@ stats:
   - "18"
   - "12"
   - "10"
-ac: 13
+ac: 15
 modifier: 3
 alignment: 
 ideal: 
@@ -23,7 +23,8 @@ dislikes:
 art: Seluvis Felo'melorn.jpeg
 condition: Healthy
 location: Vallaki
-party_player: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
+party_player:
+  - "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
 exhaustion: 0
 ---
 > [!infobox|right]

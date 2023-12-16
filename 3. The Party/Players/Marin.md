@@ -1,10 +1,10 @@
 ---
 obsidianUIMode: preview
 statblock: true
-level: 4
+level: 5
 race: Half Elf
 class: Warlock
-hp: 35
+hp: 43
 stats:
   - "7"
   - "16"
@@ -23,7 +23,8 @@ dislikes:
 art: Marin.jpeg
 condition: Healthy
 location: Vallaki
-party_player: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
+party_player:
+  - "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
 exhaustion: 0
 ---
 > [!infobox|right]

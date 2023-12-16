@@ -1,10 +1,10 @@
 ---
 obsidianUIMode: preview
 statblock: true
-level: 4
+level: 5
 race: Warforged (ERLW)
 class: Cleric
-hp: 31
+hp: 38
 stats:
   - "15"
   - "8"
@@ -12,7 +12,7 @@ stats:
   - "12"
   - "18"
   - "10"
-ac: 21
+ac: 22
 modifier: -1
 alignment: 
 ideal: 
@@ -23,7 +23,8 @@ dislikes:
 art: Redgrave.jpeg
 condition: Healthy
 location: Vallaki
-party_player: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
+party_player:
+  - "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
 exhaustion: 0
 ---
 > [!infobox|right]
