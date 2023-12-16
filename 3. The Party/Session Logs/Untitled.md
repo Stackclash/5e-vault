@@ -12,6 +12,9 @@ party:
 # `=this.file.name`
 ## Session Prep:
 Things I need to get ready before the session:
+- [ ] After math of Strahd attack
+- [ ] New direction?
+- [ ] Invitation to Strahd's Castle
 - [ ] 
 
 ## Plan
