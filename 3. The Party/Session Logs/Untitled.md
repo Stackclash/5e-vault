@@ -20,7 +20,7 @@ Things I need to get ready before the session:
 
 ## Plan
 High story beats, main things I want to happen this session.
-- [ ] Things get too st
+- [ ] Things get too stressful in Vallaki that the party feels like they need to leave
 
 # Session
 ## Start
