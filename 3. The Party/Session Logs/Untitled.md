@@ -1,10 +1,6 @@
-<%*
-await tp.file.move('3. The Party/Session Logs/' + tp.file.title)
-let date = await tp.system.prompt("What date is this session supposed to happen? (MM-DD-YYYY)")
--%>
 ---
 obsidianUIMode: preview
-date: <% moment(date, "MM-DD-YYYY").format() %>
+date: 2023-12-16T00:00:00-06:00
 summary:
 fc-date:
 timelines:
@@ -16,12 +12,7 @@ party:
 # `=this.file.name`
 ## Session Prep:
 Things I need to get ready before the session:
-- [ ] **Example 1**
-      Description.
-    - [ ] Sub-Point 1
-- [ ] **Example 2**
-      Description.
-    - [ ] Sub-Point 2
+- [ ] 
 
 ## Plan
 High story beats, main things I want to happen this session.
