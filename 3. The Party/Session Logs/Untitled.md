@@ -45,7 +45,7 @@ What transpired over the course of the session? Update this during the session!
 # Summary
 ## New NPCs
 New NPC Met.
-- Example 1
+- [[Fiona Wachter]] 
 - Example 2
 
 ## New Locations
