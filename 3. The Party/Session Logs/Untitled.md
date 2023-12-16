@@ -24,7 +24,7 @@ High story beats, main things I want to happen this session.
 
 # Session
 ## Start
-As the ominous bell tolls above you marking the end of the Festival of the Blazing Sun, the village of Barovia stands eerily quiet under the pale light of the moon. The air is thick with tension, and the aftermath of the recent chaos echoes through the empty streets. The once serene and sacred grounds of St. Andral's church now bear the scars of a horrific struggle.
+The village of Barovia stands eerily quiet under the pale light of the moon. The air is thick with tension, and the aftermath of the recent chaos echoes through the empty streets. The once serene and sacred grounds of St. Andral's church now bear the scars of a horrific struggle.
 The party stands within the dimly lit interior of the church, surrounded by the traumatized and grieving villagers who sought refuge within its walls. Father Lucian, though grateful for the party's intervention, wears a somber expression. The air is filled with a sense of dread as the cries of the wounded and the mourning echo through the village.
 The stained glass windows cast fractured beams of light across the worn pews and creaky wooden floors. The atmosphere is heavy, and the scent of incense mixes with the metallic tang of blood. The bones of St. Andral, now restored to their rightful place, rest in the crypt below the church.
 Outside, the night is filled with haunting whispers and the distant howls of wolves. You know that you have bought a brief respite, but the shadow of Strahd looms large over Barovia. The surviving villagers look to the party with a mix of gratitude and fear, their eyes pleading for guidance and assurance.
