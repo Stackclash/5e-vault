@@ -23,9 +23,11 @@
             "id": "0b34b02f1438739a",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "4. World Almanac/NPCs/NPCs.md"
+                "file": "5. Mechanics/Spells/Clairvoyance.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -88,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/NPCs/NPCs.md",
+                "file": "5. Mechanics/Spells/Clairvoyance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/NPCs/NPCs.md",
+                "file": "5. Mechanics/Spells/Clairvoyance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/NPCs/NPCs.md"
+                "file": "5. Mechanics/Spells/Clairvoyance.md"
               }
             }
           },
@@ -203,8 +205,9 @@
   },
   "active": "0b34b02f1438739a",
   "lastOpenFiles": [
-    "3. The Party/Session Logs/Untitled.md",
+    "5. Mechanics/Spells/Spells.md",
     "4. World Almanac/NPCs/NPCs.md",
+    "3. The Party/Session Logs/Untitled.md",
     "3. The Party/Session Logs/Session Logs.md",
     "3. The Party/Players/Players.md",
     "conflict-files-obsidian-git.md",
@@ -212,7 +215,6 @@
     "3. The Party/Session Logs/Meeting Strahd.md",
     "5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md",
     "1. DM Screen/1. DM Screen.md",
-    "5. Mechanics/Spells/Spells.md",
     "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
     "6. Resources/Resources/A Guide to Curse of Strahd.pdf",
     "5. Mechanics/Spells/Sanctuary.md",
