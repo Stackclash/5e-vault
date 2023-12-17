@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Mechanics/Spells/Command.md",
-                "mode": "preview",
+                "file": "Untitled.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/Session Logs/Untitled.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/Session Logs/Untitled.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/Session Logs/Untitled.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -202,12 +203,12 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "c016f01c40248c9f",
+  "active": "23207ad383e989dd",
   "lastOpenFiles": [
-    "5. Mechanics/Spells/Command.md",
-    "5. Mechanics/Bestiary/Npc/Izek Strazni (COS).md",
-    "3. The Party/Session Logs/Untitled.md",
     "5. Mechanics/Spells/Spells.md",
+    "5. Mechanics/Spells/Command.md",
+    "3. The Party/Session Logs/Untitled.md",
+    "5. Mechanics/Bestiary/Npc/Izek Strazni (COS).md",
     "Untitled.md",
     "5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md",
     "4. World Almanac/NPCs/Izek Strazni.md",
