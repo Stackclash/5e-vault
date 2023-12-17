@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "3. The Party/Session Logs/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "3. The Party/Session Logs/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "3. The Party/Session Logs/Untitled.md"
               }
             }
           },
@@ -203,13 +202,13 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "23207ad383e989dd",
+  "active": "c016f01c40248c9f",
   "lastOpenFiles": [
+    "Untitled.md",
     "5. Mechanics/Spells/Spells.md",
     "5. Mechanics/Spells/Command.md",
     "3. The Party/Session Logs/Untitled.md",
     "5. Mechanics/Bestiary/Npc/Izek Strazni (COS).md",
-    "Untitled.md",
     "5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md",
     "4. World Almanac/NPCs/Izek Strazni.md",
     "4. World Almanac/NPCs/NPCs.md",
