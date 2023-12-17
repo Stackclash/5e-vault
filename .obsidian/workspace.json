@@ -30,21 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "52c244867c11924c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Mechanics/Bestiary/Npc/Izek Strazni (COS).md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Mechanics/Bestiary/Npc/Izek Strazni (COS).md",
+                "file": "3. The Party/Session Logs/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Mechanics/Bestiary/Npc/Izek Strazni (COS).md",
+                "file": "3. The Party/Session Logs/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Mechanics/Bestiary/Npc/Izek Strazni (COS).md"
+                "file": "3. The Party/Session Logs/Untitled.md"
               }
             }
           },
@@ -215,11 +202,11 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "52c244867c11924c",
+  "active": "c016f01c40248c9f",
   "lastOpenFiles": [
-    "3. The Party/Session Logs/Untitled.md",
-    "5. Mechanics/Bestiary/Npc/Izek Strazni (COS).md",
     "5. Mechanics/Spells/Command.md",
+    "5. Mechanics/Bestiary/Npc/Izek Strazni (COS).md",
+    "3. The Party/Session Logs/Untitled.md",
     "5. Mechanics/Spells/Spells.md",
     "Untitled.md",
     "5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md",
