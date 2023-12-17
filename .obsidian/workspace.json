@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c2e7047a5c389f96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. The Party/Players/Yevelda Ovak.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/Session Logs/Untitled.md",
+                "file": "3. The Party/Players/Yevelda Ovak.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/Session Logs/Untitled.md",
+                "file": "3. The Party/Players/Yevelda Ovak.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/Session Logs/Untitled.md"
+                "file": "3. The Party/Players/Yevelda Ovak.md"
               }
             }
           },
@@ -190,14 +203,19 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "c016f01c40248c9f",
+  "active": "c2e7047a5c389f96",
   "lastOpenFiles": [
+    "3. The Party/Players/Seluvis Felo'melorn.md",
+    "3. The Party/Players/Redgrave.md",
+    "3. The Party/Players/Marin.md",
+    "3. The Party/Players/Faerah Duskrane.md",
+    "3. The Party/Players/Players.md",
+    "3. The Party/Parties/Parties.md",
+    "3. The Party/Session Logs/Untitled.md",
     "5. Mechanics/Spells/Clairvoyance.md",
     "5. Mechanics/Spells/Spells.md",
     "4. World Almanac/NPCs/NPCs.md",
-    "3. The Party/Session Logs/Untitled.md",
     "3. The Party/Session Logs/Session Logs.md",
-    "3. The Party/Players/Players.md",
     "conflict-files-obsidian-git.md",
     "3. The Party/Players/Yevelda Ovak.md",
     "3. The Party/Session Logs/Meeting Strahd.md",
@@ -209,17 +227,12 @@
     "5. Mechanics/Bestiary/Npc/Arrigal (COS).md",
     "5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md",
     "5. Mechanics/Bestiary/Npc/Npc.md",
-    "3. The Party/Players/Marin.md",
     "5. Mechanics/Bestiary/Npc/Izek Strazni (COS).md",
     "3. The Party/Session Logs/The Look of Desperation.md",
     "3. The Party/Session Logs/Secrets in the Dark.md",
     "3. The Party/Session Logs/Never Trust a Hunter.md",
     "3. The Party/Session Logs/Best Weapon against Vampires are Old Men.md",
     "5. Mechanics/Backgrounds/Backgrounds.md",
-    "5. Mechanics/Bestiary/Npc/Rictavio (COS).md",
-    "Untitled.md",
-    "3. The Party/Session Logs/Making Friends with the Necromancer.md",
-    "3. The Party/Players/Redgrave.md",
     "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Adventure_-_The_Interactive_Tome_of_Strahd_v2_Printer_Friendly_(updated_04_21_21).pdf",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Sanctum.png",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Overlook.png",
