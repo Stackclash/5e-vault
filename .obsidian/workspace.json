@@ -23,8 +23,12 @@
             "id": "23207ad383e989dd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "5. Mechanics/Spells/Command.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           },
           {
@@ -213,9 +217,11 @@
   },
   "active": "52c244867c11924c",
   "lastOpenFiles": [
+    "5. Mechanics/Spells/Command.md",
+    "5. Mechanics/Spells/Spells.md",
+    "5. Mechanics/Bestiary/Npc/Izek Strazni (COS).md",
     "Untitled.md",
     "5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md",
-    "5. Mechanics/Bestiary/Npc/Izek Strazni (COS).md",
     "3. The Party/Session Logs/Untitled.md",
     "4. World Almanac/NPCs/Izek Strazni.md",
     "4. World Almanac/NPCs/NPCs.md",
@@ -227,7 +233,6 @@
     "3. The Party/Players/Players.md",
     "3. The Party/Parties/Parties.md",
     "5. Mechanics/Spells/Clairvoyance.md",
-    "5. Mechanics/Spells/Spells.md",
     "3. The Party/Session Logs/Session Logs.md",
     "conflict-files-obsidian-git.md",
     "3. The Party/Session Logs/Meeting Strahd.md",
@@ -240,7 +245,6 @@
     "5. Mechanics/Bestiary/Npc/Npc.md",
     "3. The Party/Session Logs/The Look of Desperation.md",
     "3. The Party/Session Logs/Secrets in the Dark.md",
-    "3. The Party/Session Logs/Never Trust a Hunter.md",
     "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Adventure_-_The_Interactive_Tome_of_Strahd_v2_Printer_Friendly_(updated_04_21_21).pdf",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Sanctum.png",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Overlook.png",
