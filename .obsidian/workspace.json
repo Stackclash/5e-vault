@@ -23,11 +23,9 @@
             "id": "c2e7047a5c389f96",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "3. The Party/Players/Yevelda Ovak.md",
-                "mode": "preview",
-                "source": false
+                "file": "4. World Almanac/NPCs/NPCs.md"
               }
             }
           }
@@ -90,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/Players/Yevelda Ovak.md",
+                "file": "4. World Almanac/NPCs/NPCs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/Players/Yevelda Ovak.md",
+                "file": "4. World Almanac/NPCs/NPCs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/Players/Yevelda Ovak.md"
+                "file": "4. World Almanac/NPCs/NPCs.md"
               }
             }
           },
@@ -205,6 +203,7 @@
   },
   "active": "c2e7047a5c389f96",
   "lastOpenFiles": [
+    "3. The Party/Players/Yevelda Ovak.md",
     "3. The Party/Players/Seluvis Felo'melorn.md",
     "3. The Party/Players/Redgrave.md",
     "3. The Party/Players/Marin.md",
@@ -217,7 +216,6 @@
     "4. World Almanac/NPCs/NPCs.md",
     "3. The Party/Session Logs/Session Logs.md",
     "conflict-files-obsidian-git.md",
-    "3. The Party/Players/Yevelda Ovak.md",
     "3. The Party/Session Logs/Meeting Strahd.md",
     "5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md",
     "1. DM Screen/1. DM Screen.md",
