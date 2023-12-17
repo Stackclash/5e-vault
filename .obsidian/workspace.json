@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0b34b02f1438739a",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "4. World Almanac/NPCs/NPCs.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/Session Logs/Untitled.md",
+                "file": "4. World Almanac/NPCs/NPCs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/Session Logs/Untitled.md",
+                "file": "4. World Almanac/NPCs/NPCs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/Session Logs/Untitled.md"
+                "file": "4. World Almanac/NPCs/NPCs.md"
               }
             }
           },
@@ -190,10 +201,10 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "c016f01c40248c9f",
+  "active": "0b34b02f1438739a",
   "lastOpenFiles": [
-    "4. World Almanac/NPCs/NPCs.md",
     "3. The Party/Session Logs/Untitled.md",
+    "4. World Almanac/NPCs/NPCs.md",
     "3. The Party/Session Logs/Session Logs.md",
     "3. The Party/Players/Players.md",
     "conflict-files-obsidian-git.md",
