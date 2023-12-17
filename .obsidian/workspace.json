@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0b34b02f1438739a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Mechanics/Spells/Clairvoyance.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Mechanics/Spells/Clairvoyance.md",
+                "file": "3. The Party/Session Logs/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Mechanics/Spells/Clairvoyance.md",
+                "file": "3. The Party/Session Logs/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Mechanics/Spells/Clairvoyance.md"
+                "file": "3. The Party/Session Logs/Untitled.md"
               }
             }
           },
@@ -203,8 +190,9 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "0b34b02f1438739a",
+  "active": "c016f01c40248c9f",
   "lastOpenFiles": [
+    "5. Mechanics/Spells/Clairvoyance.md",
     "5. Mechanics/Spells/Spells.md",
     "4. World Almanac/NPCs/NPCs.md",
     "3. The Party/Session Logs/Untitled.md",
@@ -232,7 +220,6 @@
     "Untitled.md",
     "3. The Party/Session Logs/Making Friends with the Necromancer.md",
     "3. The Party/Players/Redgrave.md",
-    "4. World Almanac/Regions/Regions.md",
     "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Adventure_-_The_Interactive_Tome_of_Strahd_v2_Printer_Friendly_(updated_04_21_21).pdf",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Sanctum.png",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Overlook.png",
