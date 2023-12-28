@@ -4,22 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "c2259c574b790bad",
+        "id": "5d4a7c9ef4010c9d",
         "type": "tabs",
         "children": [
           {
-            "id": "e6f89f6dabcf86e3",
+            "id": "c016f01c40248c9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. The Party/Players/Redgrave.md",
-                "mode": "source",
+                "file": "3. The Party/Session Logs/Untitled.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b274fa486831eeef",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
+          },
+          {
+            "id": "23207ad383e989dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Mechanics/Spells/Spirit Guardians.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "117c01eaaae98582",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf"
+              }
+            }
+          },
+          {
+            "id": "94b073020934cfef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. The Party/Players/Yevelda Ovak.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:strahd von",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -77,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/Players/Redgrave.md",
+                "file": "5. Mechanics/Spells/Spirit Guardians.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/Players/Redgrave.md",
+                "file": "5. Mechanics/Spells/Spirit Guardians.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/Players/Redgrave.md"
+                "file": "5. Mechanics/Spells/Spirit Guardians.md"
               }
             }
           },
@@ -159,12 +204,14 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -190,38 +237,32 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "e6f89f6dabcf86e3",
+  "active": "b274fa486831eeef",
   "lastOpenFiles": [
-    "3. The Party/Players/Players.md",
-    "3. The Party/Session Logs/Untitled.md",
-    "3. The Party/Session Logs/Session Logs.md",
-    "3. The Party/Session Logs/Knowing the Road.md",
+    "Untitled.md",
+    "5. Mechanics/Bestiary/Npc/Izek Strazni (COS).md",
+    "5. Mechanics/Bestiary/Humanoid/Priest.md",
     "4. World Almanac/NPCs/Fiona Wachter.md",
     "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
-    "3. The Party/Session Logs/Meeting Strahd.md",
-    "3. The Party/Session Logs/Best Weapon against Vampires are Old Men.md",
-    "3. The Party/Session Logs/The Look of Desperation.md",
-    "3. The Party/Session Logs/Making Friends with the Necromancer.md",
-    "4. World Almanac/NPCs/NPCs.md",
-    "3. The Party/Session Logs/Never Trust a Hunter.md",
-    "3. The Party/Session Logs/Secrets in the Dark.md",
-    "3. The Party/Session Logs/Campaign Preparation.md",
-    "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - B&W Printer Friendly.pdf",
-    "4. World Almanac/Places of Interest/Coffin Maker's Shop.md",
-    "4. World Almanac/Worlds/Worlds.md",
-    "4. World Almanac/Shops/Shops.md",
-    "4. World Almanac/Shops/Blinksy Toys.md",
-    "4. World Almanac/Places of Interest/Places of Interest.md",
-    "5. Mechanics/Bestiary/Npc/Bray Martikov (COS).md",
-    "5. Mechanics/Bestiary/Npc/Npc.md",
-    "4. World Almanac/NPCs/Bray Martikov.md",
-    "3. The Party/Players/Faerah Duskrane.md",
+    "3. The Party/Session Logs/Untitled.md",
     "3. The Party/Players/Yevelda Ovak.md",
     "3. The Party/Players/Seluvis Felo'melorn.md",
     "3. The Party/Players/Redgrave.md",
     "3. The Party/Players/Marin.md",
-    "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Adventure_-_The_Interactive_Tome_of_Strahd_v2_Printer_Friendly_(updated_04_21_21).pdf",
+    "3. The Party/Players/Faerah Duskrane.md",
+    "3. The Party/Players/Players.md",
+    "3. The Party/Parties/Parties.md",
+    "5. Mechanics/Spells/Clairvoyance.md",
+    "3. The Party/Session Logs/Session Logs.md",
+    "conflict-files-obsidian-git.md",
+    "3. The Party/Session Logs/Meeting Strahd.md",
+    "1. DM Screen/1. DM Screen.md",
     "6. Resources/Resources/A Guide to Curse of Strahd.pdf",
+    "5. Mechanics/Spells/Sanctuary.md",
+    "5. Mechanics/Bestiary/Npc/Arrigal (COS).md",
+    "5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md",
+    "5. Mechanics/Bestiary/Npc/Npc.md",
+    "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Adventure_-_The_Interactive_Tome_of_Strahd_v2_Printer_Friendly_(updated_04_21_21).pdf",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Sanctum.png",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Overlook.png",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Order of the Guardians Monastery - Full Map (Player).png",
@@ -238,6 +279,7 @@
     "compendium/objects/token",
     "compendium/bestiary/celestial/token",
     "compendium/backgrounds/img",
+    "compendium/bestiary/giant/img",
     "Untitled.canvas"
   ]
 }
