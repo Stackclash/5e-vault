@@ -8,3 +8,8 @@
 .clickable-icon.side-dock-ribbon-action:has(> .svg-icon.lucide-shield) {
     display: none;
 }
+
+/* Fixes Cards displaying correctly */
+.callout[data-callout~=cards] > .callout-title {
+    display: none;
+}

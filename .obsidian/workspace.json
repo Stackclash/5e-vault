@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a2980cf5d661c76b",
+        "id": "e9be34179e439e4f",
         "type": "tabs",
         "children": [
           {
-            "id": "f2f37867bf47625d",
+            "id": "011282159847b156",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d52bf1b6192a1dc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. The Party/Parties/Curse of Strahd.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,11 +192,11 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "d52bf1b6192a1dc8",
+  "active": "011282159847b156",
   "lastOpenFiles": [
+    "3. The Party/Parties/Curse of Strahd.md",
     "3. The Party/Parties/Parties.md",
     "3. The Party/Players/Faerah Duskrane.md",
-    "3. The Party/Parties/Curse of Strahd.md",
     "Untitled.md",
     "3. The Party/Players/Players.md",
     "3. The Party/Players/Yevelda Ovak.md",
