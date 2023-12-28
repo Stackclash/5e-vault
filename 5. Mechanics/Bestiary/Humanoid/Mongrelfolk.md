@@ -70,6 +70,6 @@ aliases: ["Mongrelfolk"]
   "name": "Dagger"
 "source":
 - "CoS"
-"image": "compendium/bestiary/humanoid/token/mongrelfolk.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/mongrelfolk.png"
 ```
 ^statblock
