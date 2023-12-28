@@ -12040,10 +12040,10 @@ var z = /* @__PURE__ */ Object.freeze({
 });
 
 // src/utils/zod.ts
-var import_obsidian2 = require("obsidian");
+var import_obsidian3 = require("obsidian");
 
 // src/utils/file-handling.ts
-var import_obsidian = require("obsidian");
+var import_obsidian2 = require("obsidian");
 
 // src/utils/results-handling.ts
 function success(result, processedFilepath) {
@@ -12066,6 +12066,10 @@ function isCommunityPluginEnabled(pluginID) {
 }
 function getEnabledCommunityPlugin(pluginID) {
   return isCommunityPluginEnabled(pluginID) ? success(window.app.plugins.getPlugin(pluginID)) : failure(404, `Community plugin ${pluginID} is not enabled.`);
+}
+function isCorePluginEnabled(pluginID) {
+  var _a;
+  return !!((_a = window.app.internalPlugins) == null ? void 0 : _a.getEnabledPluginById(pluginID));
 }
 function getEnabledCorePlugin(pluginID) {
   var _a;
@@ -12129,6 +12133,42 @@ async function pause(milliseconds) {
   });
 }
 
+// src/utils/ui.ts
+var import_obsidian = require("obsidian");
+function showBrandedNotice(msg) {
+  new import_obsidian.Notice(`[Actions URI] ${msg}`);
+}
+function logToConsole(...data) {
+  console.log("[Actions URI]", ...data);
+}
+function logErrorToConsole(...data) {
+  console.error("[Actions URI]", ...data);
+}
+function focusLeafWithFile(filepath) {
+  const { workspace } = window.app;
+  const leaf = workspace.getLeavesOfType("markdown").find((leaf2) => {
+    var _a;
+    return ((_a = leaf2.view.file) == null ? void 0 : _a.path) === filepath;
+  });
+  if (!leaf) {
+    return failure(405, "File currently not open");
+  }
+  workspace.setActiveLeaf(leaf, { focus: true });
+  return success("Open file found and focussed");
+}
+async function focusOrOpenNote(filepath) {
+  const res = focusLeafWithFile(filepath);
+  if (res.isSuccess) {
+    return res;
+  }
+  const res1 = await getNoteFile(filepath);
+  if (res1.isSuccess) {
+    window.app.workspace.getLeaf(true).openFile(res1.result);
+    return success(STRINGS.note_opened);
+  }
+  return failure(404, STRINGS.note_not_found);
+}
+
 // src/utils/file-handling.ts
 function activeVault() {
   return window.app.vault;
@@ -12137,7 +12177,7 @@ async function createNote(filepath, content) {
   filepath = sanitizeFilePath(filepath);
   const vault = activeVault();
   let file = vault.getAbstractFileByPath(filepath);
-  let doesFileExist = file instanceof import_obsidian.TFile;
+  let doesFileExist = file instanceof import_obsidian2.TFile;
   if (doesFileExist) {
     const currentNumSuffix = filepath.match(/( (\d+))?\.md$/)[2];
     let numSuffix = currentNumSuffix ? +currentNumSuffix : 0;
@@ -12145,19 +12185,19 @@ async function createNote(filepath, content) {
       numSuffix++;
       filepath = filepath.replace(/( \d+)?\.md$/, ` ${numSuffix}.md`);
       file = vault.getAbstractFileByPath(filepath);
-      doesFileExist = file instanceof import_obsidian.TFile;
+      doesFileExist = file instanceof import_obsidian2.TFile;
     } while (doesFileExist);
   }
   await createFolderIfNecessary(dirname(filepath));
   await createAndPause(filepath, content);
   const newFile = vault.getAbstractFileByPath(filepath);
-  return newFile instanceof import_obsidian.TFile ? success(newFile) : failure(400, STRINGS.unable_to_write_note);
+  return newFile instanceof import_obsidian2.TFile ? success(newFile) : failure(400, STRINGS.unable_to_write_note);
 }
 async function createOrOverwriteNote(filepath, content) {
   filepath = sanitizeFilePath(filepath);
   const vault = activeVault();
   const file = vault.getAbstractFileByPath(filepath);
-  if (file instanceof import_obsidian.TFile) {
+  if (file instanceof import_obsidian2.TFile) {
     await pause(500);
     await vault.modify(file, content);
     return success(vault.getAbstractFileByPath(filepath));
@@ -12165,7 +12205,7 @@ async function createOrOverwriteNote(filepath, content) {
   await createFolderIfNecessary(dirname(filepath));
   await createAndPause(filepath, content);
   const newFile = vault.getAbstractFileByPath(filepath);
-  return newFile instanceof import_obsidian.TFile ? success(newFile) : failure(400, STRINGS.unable_to_write_note);
+  return newFile instanceof import_obsidian2.TFile ? success(newFile) : failure(400, STRINGS.unable_to_write_note);
 }
 async function getNoteContent(filepath) {
   const vault = activeVault();
@@ -12198,7 +12238,7 @@ async function getNoteDetails(filepath) {
 }
 function sanitizeFilePath(filename, isFolder = false) {
   filename = filename.replace(/[:#^[]|]/g, "-");
-  filename = (0, import_obsidian.normalizePath)(filename).split("/").map((seg) => seg.trim()).join("/").replace(/^[\/\.]+/g, "");
+  filename = (0, import_obsidian2.normalizePath)(filename).split("/").map((seg) => seg.trim()).join("/").replace(/^[\/\.]+/g, "");
   return isFolder || /\.(md|canvas)/i.test(extname(filename)) ? filename : `${filename}.md`;
 }
 async function updateNote(filepath, newFrontMatter, newBody) {
@@ -12324,7 +12364,32 @@ function getFileMap() {
 async function getNoteFile(filepath) {
   const vault = activeVault();
   const file = vault.getAbstractFileByPath(sanitizeFilePath(filepath));
-  return file instanceof import_obsidian.TFile ? success(file) : failure(404, STRINGS.note_not_found);
+  return file instanceof import_obsidian2.TFile ? success(file) : failure(404, STRINGS.note_not_found);
+}
+async function applyCorePluginTemplate(templateFile, note) {
+  const { app: app2 } = window;
+  const pluginRes = getEnabledCorePlugin("templates");
+  if (!pluginRes.isSuccess)
+    return pluginRes;
+  const pluginInstance = pluginRes.result;
+  await focusOrOpenNote(note.path);
+  try {
+    const activeView = app2.workspace.getActiveViewOfType(import_obsidian2.MarkdownView);
+    if (activeView && (activeView == null ? void 0 : activeView.getMode()) !== "source") {
+      await activeView.setState(
+        { ...activeView.getState(), mode: "source" },
+        { history: false }
+      );
+    }
+  } catch (error) {
+    const msg = error.message;
+    showBrandedNotice(msg);
+    logErrorToConsole(msg);
+    return failure(500, msg);
+  }
+  await pause(200);
+  await pluginInstance.insertTemplate(templateFile);
+  return success(true);
 }
 async function trashFilepath(filepath, deleteImmediately = false) {
   var _a;
@@ -12363,7 +12428,7 @@ async function createFolderIfNecessary(folder) {
   folder = sanitizeFilePath(folder, true);
   if (folder === "" || folder === ".")
     return;
-  if (vault.getAbstractFileByPath(folder) instanceof import_obsidian.TFolder)
+  if (vault.getAbstractFileByPath(folder) instanceof import_obsidian2.TFolder)
     return;
   await vault.createFolder(folder);
 }
@@ -12373,16 +12438,16 @@ function propertiesForFile(file) {
 }
 async function createAndPause(filepath, content) {
   await activeVault().create(filepath, content);
-  if (isCommunityPluginEnabled("templater-obsidian")) {
-    await pause(500);
+  if (isCorePluginEnabled("templates") || isCommunityPluginEnabled("templater-obsidian")) {
+    await pause(300);
   }
 }
 function dirname(path) {
-  path = (0, import_obsidian.normalizePath)(path);
+  path = (0, import_obsidian2.normalizePath)(path);
   return path.indexOf("/") === -1 ? "." : path.replace(/\/[^/]*$/, "");
 }
 function extname(path) {
-  const filename = (0, import_obsidian.normalizePath)(path).split("/").pop() || "";
+  const filename = (0, import_obsidian2.normalizePath)(path).split("/").pop() || "";
   return filename.includes(".") ? `.${filename.split(".").pop()}` : "";
 }
 
@@ -12434,11 +12499,11 @@ var zodJsonPropertiesObject = z.string().refine((str) => {
 var zodCommaSeparatedStrings = z.string().min(1, { message: "can't be empty" }).transform((str) => str.split(",").map((item) => item.trim()));
 var zodExistingFilePath = z.preprocess(
   lookupAbstractFileForPath,
-  z.instanceof(import_obsidian2.TFile, { message: "File doesn't exist" })
+  z.instanceof(import_obsidian3.TFile, { message: "File doesn't exist" })
 );
 var zodExistingFolderPath = z.preprocess(
   lookupAbstractFolderForPath,
-  z.instanceof(import_obsidian2.TFolder, { message: "Folder doesn't exist" })
+  z.instanceof(import_obsidian3.TFolder, { message: "Folder doesn't exist" })
 );
 var zodAlwaysFalse = z.preprocess(
   (param) => false,
@@ -12471,42 +12536,6 @@ var incomingBaseParams = z.object({
   "x-success": z.string().url().optional(),
   "x-source": z.string().optional()
 });
-
-// src/utils/ui.ts
-var import_obsidian3 = require("obsidian");
-function showBrandedNotice(msg) {
-  new import_obsidian3.Notice(`[Actions URI] ${msg}`);
-}
-function logToConsole(...data) {
-  console.log("[Actions URI]", ...data);
-}
-function logErrorToConsole(...data) {
-  console.error("[Actions URI]", ...data);
-}
-function focusLeafWithFile(filepath) {
-  const { workspace } = window.app;
-  const leaf = workspace.getLeavesOfType("markdown").find((leaf2) => {
-    var _a;
-    return ((_a = leaf2.view.file) == null ? void 0 : _a.path) === filepath;
-  });
-  if (!leaf) {
-    return failure(405, "File currently not open");
-  }
-  workspace.setActiveLeaf(leaf, { focus: true });
-  return success("Open file found and focussed");
-}
-async function focusOrOpenNote(filepath) {
-  const res = focusLeafWithFile(filepath);
-  if (res.isSuccess) {
-    return res;
-  }
-  const res1 = await getNoteFile(filepath);
-  if (res1.isSuccess) {
-    window.app.workspace.getLeaf(true).openFile(res1.result);
-    return success(STRINGS.note_opened);
-  }
-  return failure(404, STRINGS.note_not_found);
-}
 
 // src/utils/routing.ts
 function helloRoute(path = "/") {
@@ -12679,8 +12708,8 @@ var import_obsidian5 = require("obsidian");
 
 // src/plugin-info.ts
 var PLUGIN_INFO = {
-  "pluginVersion": "1.4.0",
-  "pluginReleasedAt": "2023-11-22T09:48:44+0100"
+  "pluginVersion": "1.4.2",
+  "pluginReleasedAt": "2023-12-12T18:03:44+0100"
 };
 
 // src/routes/info.ts
@@ -12820,18 +12849,23 @@ async function handleList3(incomingParams) {
   });
 }
 async function handleGet(incomingParams) {
-  const params = incomingParams;
-  return await getNoteDetails(params.file);
+  const { file, silent } = incomingParams;
+  const shouldFocusNote = !silent;
+  const res = await getNoteDetails(file);
+  if (res.isSuccess && shouldFocusNote)
+    await focusOrOpenNote(file);
+  return res;
 }
 async function handleOpen(incomingParams) {
-  const params = incomingParams;
-  const res = await getNoteFile(params.file.path);
+  const { file } = incomingParams;
+  const res = await getNoteFile(file.path);
   return res.isSuccess ? success({ message: STRINGS.note_opened }, res.result.path) : res;
 }
 async function handleCreate2(incomingParams) {
   const params = incomingParams;
-  const { apply, file } = params;
+  const { apply, file, silent } = params;
   const ifExists = params["if-exists"];
+  const shouldFocusNote = !silent;
   const templateFile = apply === "templater" || apply === "templates" ? params["template-file"] : void 0;
   const content = apply === "content" ? params.content || "" : "";
   var pluginInstance;
@@ -12849,98 +12883,131 @@ async function handleCreate2(incomingParams) {
   const res = await getNoteFile(file);
   const noteExists = res.isSuccess;
   if (noteExists && ifExists === "skip") {
+    if (shouldFocusNote)
+      await focusOrOpenNote(file);
     return await getNoteDetails(file);
   }
   const res2 = noteExists && ifExists === "overwrite" ? await createOrOverwriteNote(file, content) : await createNote(file, content);
-  if (!res2.isSuccess) {
+  if (!res2.isSuccess)
     return res2;
-  }
   const newNote = res2.result;
   switch (apply) {
     case "templater":
       await pluginInstance.write_template_to_file(templateFile, newNote);
       break;
     case "templates":
-      await focusOrOpenNote(newNote.path);
-      await pause(100);
-      await pluginInstance.insertTemplate(templateFile);
+      await applyCorePluginTemplate(templateFile, newNote);
       break;
   }
+  if (shouldFocusNote)
+    await focusOrOpenNote(newNote.path);
   return await getNoteDetails(newNote.path);
 }
 async function handleAppend(incomingParams) {
   const params = incomingParams;
-  const { file, content } = params;
+  const { file, content, silent } = params;
   const belowHeadline = params["below-headline"];
-  const createIfNotFound = params["create-if-not-found"];
-  const ensureNewline = params["ensure-newline"];
+  const shouldCreateNote = params["create-if-not-found"];
+  const shouldEnsureNewline = params["ensure-newline"];
+  const shouldFocusNote = !silent;
   async function appendAsRequested() {
     if (belowHeadline) {
       return await appendNoteBelowHeadline(file, belowHeadline, content);
     }
-    return await appendNote(file, content, ensureNewline);
+    return await appendNote(file, content, shouldEnsureNewline);
   }
   const res = await getNoteFile(file);
   if (res.isSuccess) {
     const res1 = await appendAsRequested();
-    return res1.isSuccess ? success({ message: res1.result }, file) : res1;
-  } else if (!createIfNotFound) {
+    if (res1.isSuccess) {
+      if (shouldFocusNote)
+        await focusOrOpenNote(file);
+      return success({ message: res1.result }, file);
+    }
+    return res1;
+  } else if (!shouldCreateNote) {
     return res;
   }
   const res2 = await createNote(file, "");
-  if (!res2.isSuccess) {
+  if (!res2.isSuccess)
     return res2;
-  }
   const res3 = await appendAsRequested();
-  return res3.isSuccess ? success({ message: res3.result }, file) : res3;
+  if (!res3.isSuccess)
+    return res3;
+  if (shouldFocusNote)
+    await focusOrOpenNote(file);
+  return success({ message: res3.result }, file);
 }
 async function handlePrepend(incomingParams) {
   const params = incomingParams;
-  const { file, content } = params;
+  const { file, content, silent } = params;
   const belowHeadline = params["below-headline"];
-  const createIfNotFound = params["create-if-not-found"];
-  const ensureNewline = params["ensure-newline"];
-  const ignoreFrontMatter = params["ignore-front-matter"];
+  const shouldCreateNote = params["create-if-not-found"];
+  const shouldEnsureNewline = params["ensure-newline"];
+  const shouldFocusNote = !silent;
+  const shouldIgnoreFrontMatter = params["ignore-front-matter"];
   async function prependAsRequested() {
     if (belowHeadline) {
       return await prependNoteBelowHeadline(
         file,
         belowHeadline,
         content,
-        ensureNewline
+        shouldEnsureNewline
       );
     }
-    return await prependNote(file, content, ensureNewline, ignoreFrontMatter);
+    return await prependNote(
+      file,
+      content,
+      shouldEnsureNewline,
+      shouldIgnoreFrontMatter
+    );
   }
   const res = await getNoteFile(file);
   if (res.isSuccess) {
     const res1 = await prependAsRequested();
-    return res1.isSuccess ? success({ message: res1.result }, file) : res1;
-  } else if (!createIfNotFound) {
+    if (res1.isSuccess) {
+      if (shouldFocusNote)
+        await focusOrOpenNote(file);
+      return success({ message: res1.result }, file);
+    }
+    return res1;
+  } else if (!shouldCreateNote) {
     return res;
   }
   const res2 = await createNote(file, "");
-  if (!res2.isSuccess) {
+  if (!res2.isSuccess)
     return res2;
-  }
   const res3 = await prependAsRequested();
-  return res3.isSuccess ? success({ message: res3.result }, file) : res3;
+  if (!res3.isSuccess)
+    return res3;
+  if (shouldFocusNote)
+    await focusOrOpenNote(file);
+  return success({ message: res3.result }, file);
 }
 async function handleSearchStringAndReplace(incomingParams) {
-  const { search, file, replace } = incomingParams;
+  const { search, file, replace, silent } = incomingParams;
   const filepath = file.path;
+  const shouldFocusNote = !silent;
   const res = await searchAndReplaceInNote(filepath, search, replace);
-  return res.isSuccess ? success({ message: res.result }, filepath) : res;
+  if (!res.isSuccess)
+    return res;
+  if (shouldFocusNote)
+    await focusOrOpenNote(filepath);
+  return success({ message: res.result }, filepath);
 }
 async function handleSearchRegexAndReplace(incomingParams) {
-  const { search, file, replace } = incomingParams;
+  const { search, file, replace, silent } = incomingParams;
   const filepath = file.path;
+  const shouldFocusNote = !silent;
   const resSir = parseStringIntoRegex(search);
-  if (!resSir.isSuccess) {
+  if (!resSir.isSuccess)
     return resSir;
-  }
   const res = await searchAndReplaceInNote(filepath, resSir.result, replace);
-  return res.isSuccess ? success({ message: res.result }, filepath) : res;
+  if (!res.isSuccess)
+    return res;
+  if (shouldFocusNote)
+    await focusOrOpenNote(filepath);
+  return success({ message: res.result }, filepath);
 }
 async function handleDelete2(incomingParams) {
   const { file } = incomingParams;
@@ -12956,8 +13023,7 @@ async function handleTrash2(incomingParams) {
 }
 async function handleRename2(incomingParams) {
   const params = incomingParams;
-  const { file } = params;
-  const filepath = file.path;
+  const filepath = params.file.path;
   const res = await renameFilepath(filepath, params["new-filename"]);
   return res.isSuccess ? success({ message: res.result }, filepath) : res;
 }
@@ -13199,14 +13265,28 @@ function getHandleList(periodID) {
 }
 function getHandleGetCurrent(periodID) {
   return async function handleGetCurrent(incomingParams) {
+    const { silent } = incomingParams;
+    const shouldFocusNote = !silent;
     const res = getPeriodNotePathIfPluginIsAvailable(periodID);
-    return res.isSuccess ? await getNoteDetails(res.result) : res;
+    if (!res.isSuccess)
+      return res;
+    const filepath = res.result;
+    if (shouldFocusNote)
+      await focusOrOpenNote(filepath);
+    return await getNoteDetails(filepath);
   };
 }
 function getHandleGetMostRecent(periodID) {
   return async function handleGetMostRecent(incomingParams) {
+    const { silent } = incomingParams;
+    const shouldFocusNote = !silent;
     const res = await getMostRecentPeriodNote(periodID);
-    return res.isSuccess ? await getNoteDetails(res.result.path) : res;
+    if (!res.isSuccess)
+      return res;
+    const filepath = res.result.path;
+    if (shouldFocusNote)
+      await focusOrOpenNote(filepath);
+    return await getNoteDetails(filepath);
   };
 }
 function getHandleOpenCurrent(periodID) {
@@ -13224,8 +13304,9 @@ function getHandleOpenMostRecent(periodID) {
 function getHandleCreate(periodID) {
   return async function handleCreate3(incomingParams) {
     const params = incomingParams;
-    const { apply } = params;
+    const { apply, silent } = params;
     const ifExists = params["if-exists"];
+    const shouldFocusNote = !silent;
     const templateFile = apply === "templater" || apply === "templates" ? params["template-file"] : void 0;
     const content = apply === "content" ? params.content || "" : "";
     var pluginInstance;
@@ -13247,6 +13328,8 @@ function getHandleCreate(periodID) {
     if (pNote instanceof import_obsidian7.TFile) {
       switch (ifExists) {
         case "skip":
+          if (shouldFocusNote)
+            await focusOrOpenNote(pNote.path);
           return await getNoteDetails(pNote.path);
         case "overwrite":
           await activeVault().trash(pNote, false);
@@ -13263,7 +13346,7 @@ function getHandleCreate(periodID) {
       return failure(400, STRINGS.unable_to_write_note);
     }
     const filepath = newNote.path;
-    await pause(100);
+    await pause(200);
     switch (apply) {
       case "content":
         if (content !== "") {
@@ -13274,22 +13357,22 @@ function getHandleCreate(periodID) {
         await pluginInstance.write_template_to_file(templateFile, newNote);
         break;
       case "templates":
-        await createOrOverwriteNote(filepath, "");
-        await focusOrOpenNote(filepath);
-        await pause(100);
-        await pluginInstance.insertTemplate(templateFile);
+        await applyCorePluginTemplate(templateFile, newNote);
         break;
     }
+    if (shouldFocusNote)
+      await focusOrOpenNote(filepath);
     return await getNoteDetails(filepath);
   };
 }
 function getHandleAppend(periodID) {
   return async function handleAppend2(incomingParams) {
     const params = incomingParams;
-    const { content } = params;
+    const { content, silent } = params;
     const belowHeadline = params["below-headline"];
-    const createIfNotFound = params["create-if-not-found"];
-    const ensureNewline = params["ensure-newline"];
+    const shouldCreateNote = params["create-if-not-found"];
+    const shouldEnsureNewline = params["ensure-newline"];
+    const shouldFocusNote = !silent;
     async function appendAsRequested(filepath) {
       if (belowHeadline) {
         return await appendNoteBelowHeadline(
@@ -13298,24 +13381,30 @@ function getHandleAppend(periodID) {
           content
         );
       }
-      return await appendNote(filepath, content, ensureNewline);
+      return await appendNote(filepath, content, shouldEnsureNewline);
     }
     const resDNP = getPeriodNotePathIfPluginIsAvailable(periodID);
     if (resDNP.isSuccess) {
       const filepath = resDNP.result;
       const res = await appendAsRequested(filepath);
-      return res.isSuccess ? success({ message: res.result }, filepath) : res;
+      if (!res.isSuccess)
+        return res;
+      if (shouldFocusNote)
+        await focusOrOpenNote(filepath);
+      return success({ message: res.result }, filepath);
     }
-    if (resDNP.errorCode !== 404) {
+    if (resDNP.errorCode !== 404)
       return resDNP;
-    }
-    if (!createIfNotFound) {
+    if (!shouldCreateNote)
       return resDNP;
-    }
     const newNote = await createPeriodNote(periodID);
     if (newNote instanceof import_obsidian7.TFile) {
       const res = await appendAsRequested(newNote.path);
-      return res.isSuccess ? success({ message: res.result }, newNote.path) : res;
+      if (!res.isSuccess)
+        return res;
+      if (shouldFocusNote)
+        await focusOrOpenNote(newNote.path);
+      return success({ message: res.result }, newNote.path);
     }
     return failure(400, STRINGS.unable_to_write_note);
   };
@@ -13323,78 +13412,87 @@ function getHandleAppend(periodID) {
 function getHandlePrepend(periodID) {
   return async function handlePrepend2(incomingParams) {
     const params = incomingParams;
-    const { content } = params;
+    const { content, silent } = params;
     const belowHeadline = params["below-headline"];
-    const createIfNotFound = params["create-if-not-found"];
-    const ensureNewline = params["ensure-newline"];
-    const ignoreFrontMatter = params["ignore-front-matter"];
+    const shouldCreateNote = params["create-if-not-found"];
+    const shouldEnsureNewline = params["ensure-newline"];
+    const shouldFocusNote = !silent;
+    const shouldIgnoreFrontMatter = params["ignore-front-matter"];
     async function prependAsRequested(filepath) {
       if (belowHeadline) {
         return await prependNoteBelowHeadline(
           filepath,
           belowHeadline,
           content,
-          ensureNewline
+          shouldEnsureNewline
         );
       }
       return await prependNote(
         filepath,
         content,
-        ensureNewline,
-        ignoreFrontMatter
+        shouldEnsureNewline,
+        shouldIgnoreFrontMatter
       );
     }
     const resDNP = getPeriodNotePathIfPluginIsAvailable(periodID);
     if (resDNP.isSuccess) {
       const filepath = resDNP.result;
       const res = await prependAsRequested(filepath);
-      return res.isSuccess ? success({ message: res.result }, filepath) : res;
+      if (!res.isSuccess)
+        return res;
+      if (shouldFocusNote)
+        await focusOrOpenNote(filepath);
+      return success({ message: res.result }, filepath);
     }
-    if (resDNP.errorCode !== 404) {
+    if (resDNP.errorCode !== 404)
       return resDNP;
-    }
-    if (!createIfNotFound) {
+    if (!shouldCreateNote)
       return resDNP;
-    }
     const newNote = await createPeriodNote(periodID);
     if (newNote instanceof import_obsidian7.TFile) {
       const res = await prependAsRequested(newNote.path);
-      return res.isSuccess ? success({ message: res.result }, newNote.path) : res;
+      if (!res.isSuccess)
+        return res;
+      if (shouldFocusNote)
+        await focusOrOpenNote(newNote.path);
+      return success({ message: res.result }, newNote.path);
     }
     return failure(400, STRINGS.unable_to_write_note);
   };
 }
 function getHandleSearchStringAndReplace(periodID) {
   return async function handleSearchStringAndReplace2(incomingParams) {
-    const params = incomingParams;
+    const { search, replace, silent } = incomingParams;
+    const shouldFocusNote = !silent;
     const resDNP = getPeriodNotePathIfPluginIsAvailable(periodID);
-    if (!resDNP.isSuccess) {
+    if (!resDNP.isSuccess)
       return resDNP;
-    }
     const filepath = resDNP.result;
-    const { search, replace } = params;
     const res = await searchAndReplaceInNote(filepath, search, replace);
-    return res.isSuccess ? success({ message: res.result }, filepath) : res;
+    if (!res.isSuccess)
+      return res;
+    if (shouldFocusNote)
+      await focusOrOpenNote(filepath);
+    return success({ message: res.result }, filepath);
   };
 }
 function getHandleSearchRegexAndReplace(periodID) {
   return async function handleSearchRegexAndReplace2(incomingParams) {
-    const params = incomingParams;
+    const { search, replace, silent } = incomingParams;
+    const shouldFocusNote = !silent;
     const resDNP = getPeriodNotePathIfPluginIsAvailable(periodID);
-    if (!resDNP.isSuccess) {
+    if (!resDNP.isSuccess)
       return resDNP;
-    }
-    const resSir = parseStringIntoRegex(params.search);
-    if (!resSir.isSuccess) {
-      return resSir;
-    }
     const filepath = resDNP.result;
-    const res = await searchAndReplaceInNote(
-      filepath,
-      resSir.result,
-      params.replace
-    );
-    return res.isSuccess ? success({ message: res.result }, filepath) : res;
+    const resSir = parseStringIntoRegex(search);
+    if (!resSir.isSuccess)
+      return resSir;
+    const res = await searchAndReplaceInNote(filepath, resSir.result, replace);
+    if (!res.isSuccess)
+      return res;
+    if (shouldFocusNote)
+      await focusOrOpenNote(filepath);
+    return success({ message: res.result }, filepath);
   };
 }
 function appHasPeriodPluginLoaded(periodID) {

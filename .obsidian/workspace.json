@@ -20,16 +20,6 @@
             }
           },
           {
-            "id": "b274fa486831eeef",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
-          },
-          {
             "id": "23207ad383e989dd",
             "type": "leaf",
             "state": {
@@ -63,8 +53,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Mechanics/Spells/Spirit Guardians.md",
+                "file": "3. The Party/Session Logs/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Mechanics/Spells/Spirit Guardians.md",
+                "file": "3. The Party/Session Logs/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Mechanics/Spells/Spirit Guardians.md"
+                "file": "3. The Party/Session Logs/Untitled.md"
               }
             }
           },
@@ -230,14 +219,14 @@
       "dbfolder:Create a new database table": false,
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-5e-statblocks:Open Creature Pane": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b274fa486831eeef",
+  "active": "c016f01c40248c9f",
   "lastOpenFiles": [
     "Untitled.md",
     "5. Mechanics/Bestiary/Npc/Izek Strazni (COS).md",
