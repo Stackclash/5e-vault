@@ -16,14 +16,14 @@ speed: normal
 # `=this.file.name`
 ## **Characters**
 ### **[[Players|Edit Players]]**
->	[!cards|dataview 5]
->	```dataview
->	TABLE WITHOUT ID
->	link(file.path, name) AS "Name",
->	embed(link(art)) AS "Art",
->	race AS "Race",
->	condition AS "Condition",
->	location AS "Location"
+> [!cards|dataview 5]
+> ```dataview
+> TABLE WITHOUT ID
+> link(file.path, name) AS "Name",
+> embed(link(art)) AS "Art",
+> race AS "Race",
+> condition AS "Condition",
+> location AS "Location"
 > FROM "3. The Party/Players"
 > WHERE contains(file.frontmatter.party_player, this.file.name)
 > SORT file.name asc
