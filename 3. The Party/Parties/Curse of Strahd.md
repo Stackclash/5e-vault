@@ -18,7 +18,7 @@ speed: normal
 ### **[[Players|Edit Players]]**
 > [!cards|dataview 5]
 >```dataview
-TABLE WITHOUT ID
+>	TABLE WITHOUT ID
 >	link(file.path, name) AS "Name",
 >	embed(link(art)) AS "Art",
 >	race AS "Race",
@@ -26,7 +26,7 @@ TABLE WITHOUT ID
 >	location AS "Location"
 >	FROM "3. The Party/Players"
 >	WHERE contains(file.frontmatter.party_player, this.file.name)
->SORT file.name asc
+>	SORT file.name asc
 >```
 
 ## **Session Log**
@@ -78,3 +78,16 @@ COS
 	- Ruins of Berez in Baba Lysaga's Creeping Hut
 - [[Holy Symbol Of Ravenkind (COS)]] 
 	- Amber Temple
+
+
+```dataview
+TABLE WITHOUT ID
+link(file.path, name) AS "Name",
+embed(link(art)) AS "Art",
+race AS "Race",
+condition AS "Condition",
+location AS "Location"
+FROM "3. The Party/Players"
+WHERE contains(file.frontmatter.party_player, this.file.name)
+SORT file.name asc
+```
