@@ -17,6 +17,7 @@ const config = {
                 let newRelativePath = file.relativePath
 
                 newRelativePath = newRelativePath
+                    .replace(/compendium([\\\/])bestiary([\\\/])npc/, (oldText, separator) => `4. World Almanac${separator}NPCs`)
                     .replace(/compendium([\\\/])adventures/, (oldText, separator) => `6. Resources${separator}5e Modules`)
                     .replace(/compendium([\\\/])books/, (oldText, separator) => `6. Resources${separator}Books`)
                     .replace(/compendium/, () => '5. Mechanics')

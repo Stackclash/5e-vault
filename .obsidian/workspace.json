@@ -11,9 +11,11 @@
             "id": "011282159847b156",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "4. World Almanac/NPCs/NPCs.md"
+                "file": "3. The Party/Parties/Curse of Strahd.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -75,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/NPCs/NPCs.md",
+                "file": "3. The Party/Parties/Curse of Strahd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/NPCs/NPCs.md",
+                "file": "3. The Party/Parties/Curse of Strahd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/NPCs/NPCs.md"
+                "file": "3. The Party/Parties/Curse of Strahd.md"
               }
             }
           },
@@ -192,52 +194,52 @@
   },
   "active": "011282159847b156",
   "lastOpenFiles": [
-    "compendium/bestiary/undead/token/strahd-zombie.png",
-    "compendium/bestiary/undead/token/snow-maiden.png",
-    "compendium/bestiary/undead/token/phantom-warrior.png",
-    "compendium/bestiary/undead/token/phantom-warrior-archer.png",
-    "compendium/bestiary/undead/token/knight-of-the-order.png",
+    "4. World Almanac/NPCs/token/zygfrek-belview.png",
+    "4. World Almanac/NPCs/token/zuleika-toranescu.png",
+    "4. World Almanac/NPCs/token/yevgeni-krushkin.png",
+    "4. World Almanac/NPCs/token/volenta-popofsky.png",
+    "4. World Almanac/NPCs/token/vladimir-horngaard.png",
+    "4. World Almanac/NPCs/token/vilnius.png",
+    "4. World Almanac/NPCs/token/victor-vallakovich.png",
+    "4. World Almanac/NPCs/token/vasilka.png",
+    "4. World Almanac/NPCs/token/urwin-martikov.png",
+    "4. World Almanac/NPCs/token/thornboldt-thorn-durst.png",
+    "4. World Almanac/NPCs/token/the-mad-mage-of-mount-baratok.png",
+    "4. World Almanac/NPCs/token",
+    "4. World Almanac/NPCs/Sir Godfrey Gwilym (COS).md",
+    "4. World Almanac/NPCs/Savid (COS).md",
+    "4. World Almanac/NPCs/Sangzor (COS).md",
+    "4. World Almanac/NPCs/Rosavalda Rose Durst (COS).md",
+    "4. World Almanac/NPCs/Rictavio (COS).md",
+    "4. World Almanac/NPCs/Rahadin (COS).md",
+    "4. World Almanac/NPCs/Pidlwick Ii (COS).md",
+    "4. World Almanac/NPCs/Piccolo (COS).md",
+    "4. World Almanac/NPCs/Patrina Velikovna (COS).md",
+    "4. World Almanac/NPCs/Parriwimple (COS).md",
+    "4. World Almanac/NPCs/Otto Belview (COS).md",
+    "4. World Almanac/NPCs/Npc.md",
+    "4. World Almanac/NPCs/Nikolai Wachter (COS).md",
+    "4. World Almanac/NPCs/Morgantha (COS).md",
+    "4. World Almanac/NPCs/Mishka Belview (COS).md",
+    "4. World Almanac/NPCs/Milivoj (COS).md",
+    "4. World Almanac/NPCs/Marzena Belview (COS).md",
+    "4. World Almanac/NPCs/Izek Strazni (COS).md",
+    "4. World Almanac/NPCs/Ismark Kolyanovich (COS).md",
+    "4. World Almanac/NPCs/Ireena Kolyana (COS).md",
+    "4. World Almanac/NPCs/Henrik Van Der Voort (COS).md",
+    "4. World Almanac/NPCs/Helga Ruvak (COS).md",
+    "4. World Almanac/NPCs/Gertruda (COS).md",
+    "4. World Almanac/NPCs/Gadof Blinsky (COS).md",
+    "4. World Almanac/NPCs/Ezmerelda Davenir (COS).md",
     "compendium/bestiary/undead/token",
-    "compendium/bestiary/plant/token/tree-blight.png",
     "compendium/bestiary/plant/token",
-    "compendium/bestiary/npc/token/zygfrek-belview.png",
-    "compendium/bestiary/npc/token/zuleika-toranescu.png",
-    "compendium/bestiary/npc/token/yevgeni-krushkin.png",
-    "compendium/bestiary/npc/token/volenta-popofsky.png",
-    "compendium/bestiary/npc/token/vladimir-horngaard.png",
     "compendium/bestiary/npc/token",
     "compendium/bestiary/humanoid/token",
     "compendium/bestiary/construct/token",
     "compendium/bestiary/beast/token",
-    "compendium/bestiary/beast/beast.md",
-    "compendium/bestiary/beast/armored-saber-toothed-tiger-cos.md",
     "compendium/bestiary/beast",
-    "compendium/bestiary/humanoid/vistana-thug-cos.md",
-    "compendium/bestiary/npc/ismark-kolyanovich-cos.md",
-    "compendium/bestiary/npc/izek-strazni-cos.md",
-    "compendium/bestiary/npc/cyrus-belview-cos.md",
-    "compendium/bestiary/npc/lady-fiona-wachter-cos.md",
-    "compendium/bestiary/undead/strahd-zombie-cos.md",
-    "compendium/bestiary/undead/snow-maiden-cos.md",
-    "compendium/bestiary/undead/knight-of-the-order-cos.md",
-    "compendium/bestiary/npc/zygfrek-belview-cos.md",
-    "compendium/bestiary/npc/yevgeni-krushkin-cos.md",
-    "compendium/bestiary/plant/tree-blight-cos.md",
-    "compendium/bestiary/npc/volenta-popofsky-cos.md",
-    "compendium/bestiary/npc/urwin-martikov-cos.md",
-    "compendium/bestiary/npc/sangzor-cos.md",
-    "compendium/bestiary/npc/rosavalda-rose-durst-cos.md",
-    "compendium/bestiary/npc/piccolo-cos.md",
-    "compendium/bestiary/npc/parriwimple-cos.md",
-    "compendium/bestiary/npc/morgantha-cos.md",
-    "compendium/bestiary/npc/marzena-belview-cos.md",
-    "compendium/bestiary/npc/ludmilla-vilisevic-cos.md",
-    "compendium/bestiary/npc/lady-lydia-petrovna-cos.md",
-    "compendium/bestiary/npc/kiril-stoyanovich-cos.md",
-    "compendium/bestiary/npc/gadof-blinsky-cos.md",
     "compendium/bestiary/undead",
     "compendium/bestiary/plant",
-    "compendium/bestiary/npc",
     "Untitled.canvas"
   ]
 }

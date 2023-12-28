@@ -1,75 +1,89 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
-tags:
-- compendium/src/5e/cos
-- monster/cr/8
-- monster/size/medium
-- monster/type/humanoid/any-race
-statblock: inline
-aliases: ["Vistana Assassin"]
+pronounced: 
+race: 
+sex: 
+age: 
+alignment: 
+condition: healthy
+occupation: 
+group: 
+religion: 
+location: 
+personality: 
+ideal: 
+bond: 
+flaw: 
+goals: 
+likes: 
+dislikes:
 ---
-# [Vistana Assassin](compendium\bestiary\humanoid/vistana-assassin-cos.md)
-*Source: Curse of Strahd p. 28, Derived from *  
 
-```statblock
-"name": "Vistana Assassin (CoS)"
-"size": "Medium"
-"type": "humanoid"
-"subtype": "any race"
-"alignment": "Any Non-Good alignment"
-"ac": !!int "15"
-"hp": !!int "78"
-"hit_dice": "12d8 + 24"
-"stats":
-- !!int "11"
-- !!int "16"
-- !!int "14"
-- !!int "13"
-- !!int "11"
-- !!int "10"
-"speed": "30 ft."
-"saves":
-  "Dexterity": !!int "6"
-  "Intelligence": !!int "4"
-"skillsaves":
-  "Deception": !!int "3"
-  "Stealth": !!int "9"
-  "Perception": !!int "3"
-  "Acrobatics": !!int "6"
-"damage_resistances": "poison"
-"senses": "passive Perception 13"
-"languages": "Thieves' cant plus any two languages"
-"cr": "8"
-"traits":
-- "desc": "During its first turn, the assassin has advantage on attack rolls against\
-    \ any creature that hasn't taken a turn. Any hit the assassin scores against a\
-    \ surprised creature is a critical hit."
-  "name": "Assassinate"
-- "desc": "If the assassin is subjected to an effect that allows it to make a Dexterity\
-    \ saving throw to take only half damage, the assassin instead takes no damage\
-    \ if it succeeds on the saving throw, and only half damage if it fails."
-  "name": "Evasion"
-- "desc": "The assassin deals an extra dice: 4d6|avg (4d6) damage when it hits\
-    \ a target with a weapon attack and has advantage on the attack roll, or when\
-    \ the target is within 5 feet of an ally of the assassin that isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
-    \ and the assassin doesn't have disadvantage on the attack roll."
-  "name": "Sneak Attack (1/Turn)"
-"actions":
-- "desc": "The assassin makes two shortsword attacks."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage, and the target must\
-    \ make a DC 15 Constitution saving throw, taking dice: 7d6|avg (7d6) poison\
-    \ damage on a failed save, or half as much damage on a successful one."
-  "name": "Shortsword"
-- "desc": "Ranged Weapon Attack: dice: d20+6 (+6 to hit), range 80/320 ft., one\
-    \ target. Hit: dice: 1d8 + 3|avg (1d8 + 3) piercing damage, and the target\
-    \ must make a DC 15 Constitution saving throw, taking dice: 7d6|avg (7d6)\
-    \ poison damage on a failed save, or half as much damage on a successful one."
-  "name": "Light Crossbow"
-"source":
-- "CoS"
-"image": "compendium/bestiary/humanoid/token/vistana-assassin.png"
-```
-^statblock
+> [!infobox]
+> # `=this.file.name`
+> **Pronounced:**  "`=this.pronounced`"
+> ![[PlaceholderImage.png|cover hm-sm]]
+> ###### Bio
+>  |
+> ---|---|
+> **Race** | `=this.race` |
+> **Sex** | `=this.gender` |
+> **Age** | `=this.age` |
+> **Sexuality** | `=this.sexuality` |
+> **Alignment** | `=this.alignment` |
+> **Condition** | `=this.condition` |
+> ###### Info
+>  |
+> ---|---|
+> **Alias(es)** | `=this.alias` |
+> **Occupation(s)** | `=this.occupation` |
+> **Group(s)** | `=link(this.AssociatedGroup)` |
+> **Religion(s)** | `=link(this.AssociatedReligion)` |
+> **Current Location** | `=link(this.location)` |
+
+# **`=this.file.name`**
+> [!info|bg-c-purple]- Overview
+TBD
+
+> [!column] Traits
+>> [!metadata|text-Center bg-c-gray] Personality
+>> `=this.personality`
+>
+>> [!metadata|text-Center bg-c-gray] Ideal
+>> `=this.ideal`
+>
+>> [!metadata|text-Center bg-c-gray] Bond
+>> `=this.Bond`
+>
+>> [!metadata|text-Center bg-c-gray] Flaw
+>> `=this.flaw`
+>
+>> [!metadata|text-Center bg-c-green] Likes
+>> `=this.likes`
+>
+>> [!metadata|text-Center bg-c-red] Dislikes
+>> `=this.dislikes`
+
+> [!column|dataview] Goals
+>> `=this.goals`
+
+## Acquaintances
+> [!column|dataview] Acquaintances
+>> [!metadata|text-Center bg-c-green]- Friends & Family
+>> TBD
+>
+>> [!metadata|text-Center bg-c-red]- Rivals
+>> TBD
+>
+
+## History
+TBD
+
+## DM Notes
+### Plot Hooks
+
+
+### Hidden Details
+
+
+### General Notes
