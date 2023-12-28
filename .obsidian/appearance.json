@@ -3,13 +3,13 @@
   "enabledCssSnippets": [
     "custom_callouts",
     "initiative-tracker-fix",
-    "supercharged-links-gen",
-    "Custom Styles",
-    "Folder Icons",
     "ITS - Encoded Fonts",
     "ITS - Encoded Icons",
     "CSS Links",
-    "CSS External Links"
+    "supercharged-links-gen",
+    "Custom Styles",
+    "CSS External Links",
+    "Folder Icons"
   ],
   "theme": "moonstone",
   "cssTheme": "ITS Theme",
