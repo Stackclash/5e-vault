@@ -38,7 +38,13 @@ const config = {
 
                 newFileName = newFileName
                     .replaceAll(/(^|[\/\\\-])([a-z])(?!mg[\/\\]|oken[\/\\])/g, (oldText, separator, letter) => separator === '-' ? ' '+letter.toUpperCase() : separator+letter.toUpperCase())
-                    .replace(/\s*(HB|DMG|MM|VRGR|XGE|VGM|TCE|MPMM|MTF|CoS|SaF|ERLW)$/i, (oldText, source) => '')//' (' + source.toUpperCase() + ')')
+                    .replace(/\s*(HB|DMG|MM|VRGR|XGE|VGM|TCE|MPMM|MTF|CoS|SaF|ERLW)$/i, (oldText, source) => {
+                        if (/bestiary[\/\\]npc/.test(file.oldPath)) {
+                            return ''
+                        } else {
+                            return ' (' + source.toUpperCase() + ')'
+                        }
+                    })
                 
                 return newFileName
             }
@@ -114,20 +120,20 @@ const config = {
 }
 
 class CompendiumFile {
-    #oldContent
-    #oldPath
+    oldContent
+    oldPath
     path
     content
 
     constructor(filePath) {
-        this.#oldPath = filePath
-        this.path = this.#oldPath
-        this.#oldContent = !['.jpg', '.jpeg', '.png', '.webp'].includes(path.parse(filePath).ext) ? fs.readFileSync(filePath, 'utf-8') : fs.readFileSync(filePath)
-        this.content = this.#oldContent
+        this.oldPath = filePath
+        this.path = this.oldPath
+        this.oldContent = !['.jpg', '.jpeg', '.png', '.webp'].includes(path.parse(filePath).ext) ? fs.readFileSync(filePath, 'utf-8') : fs.readFileSync(filePath)
+        this.content = this.oldContent
         this.execute = () => {
             fs.mkdirSync(path.parse(this.path).dir, {recursive: true})
             fs.writeFileSync(this.path, this.content)
-            fs.unlinkSync(this.#oldPath)
+            fs.unlinkSync(this.oldPath)
         }
     }
 
