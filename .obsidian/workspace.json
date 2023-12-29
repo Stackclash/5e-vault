@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. The Party/Parties/Curse of Strahd.md",
+                "file": "5. Mechanics/Classes/Artificer (TCE).md",
                 "mode": "preview",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/Parties/Curse of Strahd.md",
+                "file": "5. Mechanics/Classes/Artificer (TCE).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/Parties/Curse of Strahd.md",
+                "file": "5. Mechanics/Classes/Artificer (TCE).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/Parties/Curse of Strahd.md"
+                "file": "5. Mechanics/Classes/Artificer (TCE).md"
               }
             }
           },
@@ -194,6 +194,11 @@
   },
   "active": "011282159847b156",
   "lastOpenFiles": [
+    "5. Mechanics/Classes/Classes.md",
+    "5. Mechanics/Bestiary/Aberration/Aberration.md",
+    "3. The Party/Parties/Parties.md",
+    "3. The Party/Players/Players.md",
+    "3. The Party/Parties/Curse of Strahd.md",
     "4. World Almanac/NPCs/token/zygfrek-belview.png",
     "4. World Almanac/NPCs/token/zuleika-toranescu.png",
     "4. World Almanac/NPCs/token/yevgeni-krushkin.png",
@@ -204,7 +209,6 @@
     "4. World Almanac/NPCs/token/vasilka.png",
     "4. World Almanac/NPCs/token/urwin-martikov.png",
     "4. World Almanac/NPCs/token/thornboldt-thorn-durst.png",
-    "4. World Almanac/NPCs/token/the-mad-mage-of-mount-baratok.png",
     "4. World Almanac/NPCs/token",
     "4. World Almanac/NPCs/Stella Wachter.md",
     "4. World Almanac/NPCs/Stanimir.md",
@@ -227,10 +231,6 @@
     "4. World Almanac/NPCs/Gertruda.md",
     "4. World Almanac/NPCs/Gadof Blinsky.md",
     "4. World Almanac/NPCs/Ezmerelda Davenir.md",
-    "4. World Almanac/NPCs/Exethanter.md",
-    "4. World Almanac/NPCs/Escher.md",
-    "4. World Almanac/NPCs/Emil Toranescu.md",
-    "4. World Almanac/NPCs/Doru.md",
     "compendium/bestiary/undead/token",
     "compendium/bestiary/plant/token",
     "compendium/bestiary/npc/token",
