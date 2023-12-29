@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/NPCs/Cyrus Belview.md",
-                "mode": "preview",
+                "file": "4. World Almanac/NPCs/Untitled.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/NPCs/Cyrus Belview.md",
+                "file": "4. World Almanac/NPCs/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/NPCs/Cyrus Belview.md",
+                "file": "4. World Almanac/NPCs/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/NPCs/Cyrus Belview.md"
+                "file": "4. World Almanac/NPCs/Untitled.md"
               }
             }
           },
@@ -194,13 +194,17 @@
   },
   "active": "011282159847b156",
   "lastOpenFiles": [
+    "4. World Almanac/NPCs/Titivilus.md",
+    "4. World Almanac/NPCs/Untitled.md",
+    "4. World Almanac/NPCs/Urwin Martikov.md",
+    "4. World Almanac/NPCs/Beucephalus.md",
+    "4. World Almanac/NPCs/Brom Martikov.md",
+    "4. World Almanac/NPCs/Cyrus Belview.md",
     "4. World Almanac/NPCs/Corrin Delmaco.md",
     "4. World Almanac/NPCs/Clovin Belview.md",
     "4. World Almanac/NPCs/Bray Martikov.md",
-    "4. World Almanac/NPCs/Brom Martikov.md",
     "4. World Almanac/NPCs/Bonebreaker Dorokor.md",
     "4. World Almanac/NPCs/Bluto Krogarov.md",
-    "4. World Almanac/NPCs/Beucephalus.md",
     "4. World Almanac/NPCs/Belashyrra.md",
     "4. World Almanac/NPCs/Baron Vargas Vallakovich.md",
     "4. World Almanac/NPCs/Baron Malgas.md",
@@ -216,10 +220,6 @@
     "5. Mechanics/Bestiary/Construct/Animated Halberd (COS).md",
     "5. Mechanics/Bestiary/Construct/Animated Armor.md",
     "5. Mechanics/Bestiary/Construct/Amber Golem (COS).md",
-    "5. Mechanics/Classes/Classes.md",
-    "5. Mechanics/Classes/Artificer Alchemist (TCE).md",
-    "5. Mechanics/Classes/Artificer (TCE).md",
-    "5. Mechanics/Bestiary/Aberration/Aberration.md",
     "4. World Almanac/NPCs/token/zygfrek-belview.png",
     "4. World Almanac/NPCs/token/zuleika-toranescu.png",
     "4. World Almanac/NPCs/token/yevgeni-krushkin.png",
