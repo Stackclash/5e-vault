@@ -196,6 +196,7 @@ columns:
     options:
       - { label: "Healthy", value: "Healthy", color: "hsl(83,100%,43%)"}
       - { label: "Dead", value: "Dead", color: "hsl(0,100%,47%)"}
+      - { label: "healthy", value: "healthy", color: "hsl(232, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
