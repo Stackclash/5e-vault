@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Young Amethyst Dragon"]
 ---
-# [Young Amethyst Dragon](compendium\bestiary\dragon/young-amethyst-dragon-saf.md)
+# [[5. Mechanics\Bestiary\Dragon\Young Amethyst Dragon (SAF).md|Young Amethyst Dragon]]
 *Source: Strongholds and Followers p. 223*  
 
 The renegades of the jeweled dragons, the amethyst dragons seek new knowledge and so manipulate mortals to do dangerous, even deadly things in order to push the boundary of the known.

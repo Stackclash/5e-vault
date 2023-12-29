@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Giff"]
 ---
-# [Giff](compendium\bestiary\humanoid/giff-mpmm.md)
+# [[5. Mechanics\Bestiary\Humanoid\Giff (MPMM).md|Giff]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 138*  
 
 > [!quote]- A quote from Mordenkainen  

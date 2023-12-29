@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Dybbuk"]
 ---
-# [Dybbuk](compendium\bestiary\fiend/dybbuk-mpmm.md)
+# [[5. Mechanics\Bestiary\Fiend\Dybbuk (MPMM).md|Dybbuk]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 113*  
 
 Dybbuks are demons that terrorize mortals on the Material Plane by possessing corpses and giving them a semblance of life, after which the demons use them to engage in a range of sordid activities.

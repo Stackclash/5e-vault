@@ -13,7 +13,7 @@ tags:
 statblock: inline
 aliases: ["Wastrilith"]
 ---
-# [Wastrilith](compendium\bestiary\fiend/wastrilith-mpmm.md)
+# [[5. Mechanics\Bestiary\Fiend\Wastrilith (MPMM).md|Wastrilith]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 258*  
 
 Found in the waters of the Abyss and other bodies of water contaminated by that plane's fell influence, wastriliths establish themselves as lords of the deep and rule their dominions with cruelty.

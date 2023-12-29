@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/paladin/oathbreaker
 - compendium/src/5e/dmg
+- subclass/paladin/oathbreaker
 aliases: ["Oathbreaker"]
 ---
 # Oathbreaker

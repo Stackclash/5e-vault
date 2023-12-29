@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Adult Silver Dragon"]
 ---
-# [Adult Silver Dragon](compendium\bestiary\dragon/adult-silver-dragon.md)
+# [[5. Mechanics\Bestiary\Dragon\Adult Silver Dragon.md|Adult Silver Dragon]]
 *Source: Monster Manual p. 117. Available in the SRD.*  
 
 The friendliest and most social of the metallic dragons, silver dragons cheerfully assist good creatures in need.

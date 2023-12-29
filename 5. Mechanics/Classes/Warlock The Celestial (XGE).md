@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/warlock/celestial
 - compendium/src/5e/xge
+- subclass/warlock/celestial
 aliases: ["The Celestial"]
 ---
 # The Celestial

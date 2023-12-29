@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Bulezau"]
 ---
-# [Bulezau](compendium\bestiary\fiend/bulezau-mpmm.md)
+# [[5. Mechanics\Bestiary\Fiend\Bulezau (MPMM).md|Bulezau]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 67*  
 
 > [!quote]- A quote from Tasha  

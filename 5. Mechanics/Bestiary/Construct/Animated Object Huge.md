@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Animated Object (Huge)"]
 ---
-# [Animated Object (Huge)](compendium\bestiary\construct/animated-object-huge.md)
+# [[5. Mechanics\Bestiary\Construct\Animated Object Huge.md|Animated Object (Huge)]]
 *Source: Player's Handbook p. 213*  
 
 ```statblock

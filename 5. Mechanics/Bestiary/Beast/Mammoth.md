@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Mammoth"]
 ---
-# [Mammoth](compendium\bestiary\beast/mammoth.md)
+# [[5. Mechanics\Bestiary\Beast\Mammoth.md|Mammoth]]
 *Source: Monster Manual p. 332. Available in the SRD and the Basic Rules.*  
 
 A mammoth is an elephantine creature with thick fur and long tusks. Stockier and fiercer than normal elephants, mammoths inhabit a wide range of climes, from subarctic to subtropical.

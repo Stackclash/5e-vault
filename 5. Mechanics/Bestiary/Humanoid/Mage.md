@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Mage"]
 ---
-# [Mage](compendium\bestiary\humanoid/mage.md)
+# [[5. Mechanics\Bestiary\Humanoid\Mage.md|Mage]]
 *Source: Monster Manual p. 347, Curse of Strahd, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 Mages spend their lives in the study and practice of magic. Good-aligned mages offer counsel to nobles and others in power, while evil mages dwell in isolated sites to perform unspeakable experiments without interference.

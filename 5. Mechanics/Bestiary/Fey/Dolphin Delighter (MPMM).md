@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Dolphin Delighter"]
 ---
-# [Dolphin Delighter](compendium\bestiary\fey/dolphin-delighter-mpmm.md)
+# [[5. Mechanics\Bestiary\Fey\Dolphin Delighter (MPMM).md|Dolphin Delighter]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 97*  
 
 In the Feywild, dolphin delighters brighten the moods of those who travel the seas of the Domains of Delight. Telepathically singing sea chanteys, these dolphins leap and teleport through the luminous waters of Faerie and the Material Plane, and they are faithful allies to any who battle the forces of gloom and brutality under the waves.

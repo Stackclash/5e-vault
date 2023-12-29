@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Baboon"]
 ---
-# [Baboon](compendium\bestiary\beast/baboon.md)
+# [[5. Mechanics\Bestiary\Beast\Baboon.md|Baboon]]
 *Source: Monster Manual p. 318, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 ```statblock

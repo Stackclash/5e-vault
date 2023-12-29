@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Dolphin"]
 ---
-# [Dolphin](compendium\bestiary\beast/dolphin-mpmm.md)
+# [[5. Mechanics\Bestiary\Beast\Dolphin (MPMM).md|Dolphin]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 97*  
 
 Dolphins are symbols of wisdom and playfulness among the sea folk of many worlds. Found in oceans and in the Elemental Plane of Water, dolphins are befriended by druids and rangers, and many tales speak of dolphins that appeared out of nowhere to protect swimmers from sharks and other aquatic predators.

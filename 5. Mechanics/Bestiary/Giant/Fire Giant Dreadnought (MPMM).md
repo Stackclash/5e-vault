@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Fire Giant Dreadnought"]
 ---
-# [Fire Giant Dreadnought](compendium\bestiary\giant/fire-giant-dreadnought-mpmm.md)
+# [[5. Mechanics\Bestiary\Giant\Fire Giant Dreadnought (MPMM).md|Fire Giant Dreadnought]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 124*  
 
 > [!quote]- A quote from Mordenkainen  

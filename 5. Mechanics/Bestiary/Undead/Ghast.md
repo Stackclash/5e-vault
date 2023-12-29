@@ -12,7 +12,7 @@ tags:
 statblock: inline
 aliases: ["Ghast"]
 ---
-# [Ghast](compendium\bestiary\undead/ghast.md)
+# [[5. Mechanics\Bestiary\Undead\Ghast.md|Ghast]]
 *Source: Monster Manual p. 148, Curse of Strahd. Available in the SRD.*  
 
 Ghouls roam the night in packs, driven by an insatiable hunger for humanoid flesh.

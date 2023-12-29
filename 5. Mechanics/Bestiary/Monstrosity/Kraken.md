@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Kraken"]
 ---
-# [Kraken](compendium\bestiary\monstrosity/kraken.md)
+# [[5. Mechanics\Bestiary\Monstrosity\Kraken.md|Kraken]]
 *Source: Monster Manual p. 197. Available in the SRD.*  
 
 Beneath the waves, the kraken sleeps for untold ages, awaiting some fell sign or calling. Land-born mortals who sail the open sea forget the reasons their ancestors dreaded the ocean, even as the races of the deep ignore strange gaps in their histories when their civilizations nearly vanished after the appearance of the tentacled horror.

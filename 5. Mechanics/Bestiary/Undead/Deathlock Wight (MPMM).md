@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Deathlock Wight"]
 ---
-# [Deathlock Wight](compendium\bestiary\undead/deathlock-wight-mpmm.md)
+# [[5. Mechanics\Bestiary\Undead\Deathlock Wight (MPMM).md|Deathlock Wight]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 87*  
 
 Deprived of much of its magic as a special punishment, a deathlock wight lingers between the warlock it was and the wretched existence of a wight.

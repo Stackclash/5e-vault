@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Cavalier"]
 ---
-# [Cavalier](compendium\bestiary\humanoid/cavalier-saf.md)
+# [[5. Mechanics\Bestiary\Humanoid\Cavalier (SAF).md|Cavalier]]
 *Source: Strongholds and Followers p. 77*  
 
 ```statblock

@@ -13,7 +13,7 @@ tags:
 statblock: inline
 aliases: ["Hyena"]
 ---
-# [Hyena](compendium\bestiary\beast/hyena.md)
+# [[5. Mechanics\Bestiary\Beast\Hyena.md|Hyena]]
 *Source: Monster Manual p. 331. Available in the SRD and the Basic Rules.*  
 
 ```statblock

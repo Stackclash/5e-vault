@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Gynosphinx"]
 ---
-# [Gynosphinx](compendium\bestiary\monstrosity/gynosphinx.md)
+# [[5. Mechanics\Bestiary\Monstrosity\Gynosphinx.md|Gynosphinx]]
 *Source: Monster Manual p. 282. Available in the SRD.*  
 
 A gynosphinx bears the head of a humanoid female. Many have the regal countenances of worldly queens, but some are marked with wild, leonine features. A gynosphinx's eyes see beyond the present time and place, and penetrate veils of invisibility and magic.

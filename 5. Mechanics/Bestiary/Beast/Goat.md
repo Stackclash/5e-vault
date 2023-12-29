@@ -13,7 +13,7 @@ tags:
 statblock: inline
 aliases: ["Goat"]
 ---
-# [Goat](compendium\bestiary\beast/goat.md)
+# [[5. Mechanics\Bestiary\Beast\Goat.md|Goat]]
 *Source: Monster Manual p. 330, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 ```statblock

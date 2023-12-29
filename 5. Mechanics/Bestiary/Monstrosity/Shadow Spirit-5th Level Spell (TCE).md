@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Shadow Spirit (5th-level Spell)"]
 ---
-# [Shadow Spirit (5th-level Spell)](compendium\bestiary\monstrosity/shadow-spirit-5th-level-spell-tce.md)
+# [[5. Mechanics\Bestiary\Monstrosity\Shadow Spirit-5th Level Spell (TCE).md|Shadow Spirit (5th-level Spell)]]
 *Source: Tasha's Cauldron of Everything p. 114*  
 
 ```statblock

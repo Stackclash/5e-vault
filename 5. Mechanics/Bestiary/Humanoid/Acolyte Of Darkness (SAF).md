@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Acolyte of Darkness"]
 ---
-# [Acolyte of Darkness](compendium\bestiary\humanoid/acolyte-of-darkness-saf.md)
+# [[5. Mechanics\Bestiary\Humanoid\Acolyte Of Darkness (SAF).md|Acolyte of Darkness]]
 *Source: Strongholds and Followers p. 76*  
 
 ```statblock

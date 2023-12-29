@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Phoenix"]
 ---
-# [Phoenix](compendium\bestiary\elemental/phoenix-mpmm.md)
+# [[5. Mechanics\Bestiary\Elemental\Phoenix (MPMM).md|Phoenix]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 206*  
 
 > [!quote]- A quote from Mordenkainen  

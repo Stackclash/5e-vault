@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/fighter/arcane-archer
 - compendium/src/5e/xge
+- subclass/fighter/arcane-archer
 aliases: ["Arcane Archer"]
 ---
 # Arcane Archer

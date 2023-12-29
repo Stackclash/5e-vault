@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/cleric/nature
 - compendium/src/5e/phb
 - domain/nature
+- subclass/cleric/nature
 aliases: ["Nature Domain"]
 ---
 # Nature Domain

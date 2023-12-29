@@ -12,7 +12,7 @@ tags:
 statblock: inline
 aliases: ["Canoloth"]
 ---
-# [Canoloth](compendium\bestiary\fiend/canoloth-mpmm.md)
+# [[5. Mechanics\Bestiary\Fiend\Canoloth (MPMM).md|Canoloth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 69*  
 
 > [!quote]- A quote from Mordenkainen  

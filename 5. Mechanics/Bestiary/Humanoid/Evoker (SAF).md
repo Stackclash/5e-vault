@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Evoker"]
 ---
-# [Evoker](compendium\bestiary\humanoid/evoker-saf.md)
+# [[5. Mechanics\Bestiary\Humanoid\Evoker (SAF).md|Evoker]]
 *Source: Strongholds and Followers p. 80*  
 
 ```statblock

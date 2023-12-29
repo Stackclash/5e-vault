@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Young Gold Dragon"]
 ---
-# [Young Gold Dragon](compendium\bestiary\dragon/young-gold-dragon.md)
+# [[5. Mechanics\Bestiary\Dragon\Young Gold Dragon.md|Young Gold Dragon]]
 *Source: Monster Manual p. 115. Available in the SRD.*  
 
 The most powerful and majestic of the metallic dragons, gold dragons are dedicated foes of evil.

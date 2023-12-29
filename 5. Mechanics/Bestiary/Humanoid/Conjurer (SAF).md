@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Conjurer"]
 ---
-# [Conjurer](compendium\bestiary\humanoid/conjurer-saf.md)
+# [[5. Mechanics\Bestiary\Humanoid\Conjurer (SAF).md|Conjurer]]
 *Source: Strongholds and Followers p. 80*  
 
 ```statblock

@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Owlbear"]
 ---
-# [Owlbear](compendium\bestiary\monstrosity/owlbear.md)
+# [[5. Mechanics\Bestiary\Monstrosity\Owlbear.md|Owlbear]]
 *Source: Monster Manual p. 249. Available in the SRD and the Basic Rules.*  
 
 An owlbear's screech echoes through dark valleys and benighted forests, piercing the quiet night to announce the death of its prey. Feathers cover the thick, shaggy coat of its bearlike body, and the limpid pupils of its great round eyes stare furiously from its owlish head.

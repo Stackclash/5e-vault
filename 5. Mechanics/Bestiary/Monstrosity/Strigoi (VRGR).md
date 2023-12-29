@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Strigoi"]
 ---
-# [Strigoi](compendium\bestiary\monstrosity/strigoi-vrgr.md)
+# [[5. Mechanics\Bestiary\Monstrosity\Strigoi (VRGR).md|Strigoi]]
 *Source: Van Richten's Guide to Ravenloft p. 246*  
 
 The first strigoi were created by spellcasters who subjected swarms of stirges to transmutation spells. Other strigoi have emerged as the results of similar spellcraft, as the byproducts of outlandish scientific experiments, and from stirges draining well-fed vampires. When a strigoi arises, the unnatural creature is overwhelmed by instinctual hunger that drives it to undertake bloodthirsty rampages along with swarms of emboldened, bloodsucking pests.

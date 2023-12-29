@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Yeti"]
 ---
-# [Yeti](compendium\bestiary\monstrosity/yeti.md)
+# [[5. Mechanics\Bestiary\Monstrosity\Yeti.md|Yeti]]
 *Source: Monster Manual p. 305. Available in the Basic Rules.*  
 
 A yeti's windborne howl sounds out across remote mountains, striking fear into the hearts of the scattered miners and herders that dwell there. These hulking creatures stalk alpine peaks in a ceaseless hunt for food. Their snow-white fur lets them move like ghosts against the frozen landscape. A yeti's icy simian eyes can freeze its prey in place.

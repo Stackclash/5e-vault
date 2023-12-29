@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Barlgura"]
 ---
-# [Barlgura](compendium\bestiary\fiend/barlgura.md)
+# [[5. Mechanics\Bestiary\Fiend\Barlgura.md|Barlgura]]
 *Source: Monster Manual p. 56*  
 
 The barlgura represents the savagery and brutality of the Abyss. Barlguras gather in packs to take down tougher foes, keep gruesome trophies from their victories, and decorate their territory with such objects.

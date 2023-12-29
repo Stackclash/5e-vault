@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Bestial Spirit (Water, 6th-Level Spell)"]
 ---
-# [Bestial Spirit (Water, 6th-Level Spell)](compendium\bestiary\beast/bestial-spirit-water-6th-level-spell-tce.md)
+# [[5. Mechanics\Bestiary\Beast\Bestial Spirit Water-6th Level Spell (TCE).md|Bestial Spirit (Water, 6th-Level Spell)]]
 *Source: Tasha's Cauldron of Everything p. 109*  
 
 ```statblock

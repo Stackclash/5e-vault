@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/bard/spirits
 - compendium/src/5e/vrgr
+- subclass/bard/spirits
 aliases: ["College of Spirits"]
 ---
 # College of Spirits

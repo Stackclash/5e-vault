@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Death Knight"]
 ---
-# [Death Knight](compendium\bestiary\undead/death-knight.md)
+# [[5. Mechanics\Bestiary\Undead\Death Knight.md|Death Knight]]
 *Source: Monster Manual p. 47, Tasha's Cauldron of Everything*  
 
 When a paladin that falls from grace dies without seeking atonement, dark powers can transform the once-mortal knight into a hateful undead creature. A death knight is a skeletal warrior clad in fearsome plate armor. Beneath its helmet, one can see the knight's skull with malevolent pinpoints of light burning in its eye sockets.

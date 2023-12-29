@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Scorpion"]
 ---
-# [Scorpion](compendium\bestiary\beast/scorpion.md)
+# [[5. Mechanics\Bestiary\Beast\Scorpion.md|Scorpion]]
 *Source: Monster Manual p. 337. Available in the SRD and the Basic Rules.*  
 
 ```statblock

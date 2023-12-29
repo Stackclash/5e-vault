@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Weasel"]
 ---
-# [Weasel](compendium\bestiary\beast/weasel.md)
+# [[5. Mechanics\Bestiary\Beast\Weasel.md|Weasel]]
 *Source: Monster Manual p. 340. Available in the SRD and the Basic Rules.*  
 
 ```statblock

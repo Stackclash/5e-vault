@@ -9,7 +9,7 @@ aliases: ["Gift of the Depths"]
 # Gift of the Depths
 *Source: Xanathar's Guide to Everything p. 57*  
 
-***Prerequisites*** 5th-level Warlock
+***Prerequisites*** 5th-level
 
 You can breathe underwater, and you gain a swimming speed equal to your walking speed.
 

@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Velociraptor"]
 ---
-# [Velociraptor](compendium\bestiary\beast/velociraptor-mpmm.md)
+# [[5. Mechanics\Bestiary\Beast\Velociraptor (MPMM).md|Velociraptor]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 96*  
 
 This feathered dinosaur is about the size of a large turkey. It is an aggressive predator and often hunts in packs to bring down larger prey.

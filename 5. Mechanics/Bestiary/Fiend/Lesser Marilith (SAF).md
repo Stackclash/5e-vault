@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Lesser Marilith"]
 ---
-# [Lesser Marilith](compendium\bestiary\fiend/lesser-marilith-saf.md)
+# [[5. Mechanics\Bestiary\Fiend\Lesser Marilith (SAF).md|Lesser Marilith]]
 *Source: Strongholds and Followers p. 151*  
 
 ```statblock

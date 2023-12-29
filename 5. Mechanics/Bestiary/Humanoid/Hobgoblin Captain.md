@@ -14,7 +14,7 @@ tags:
 statblock: inline
 aliases: ["Hobgoblin Captain"]
 ---
-# [Hobgoblin Captain](compendium\bestiary\humanoid/hobgoblin-captain.md)
+# [[5. Mechanics\Bestiary\Humanoid\Hobgoblin Captain.md|Hobgoblin Captain]]
 *Source: Monster Manual p. 186*  
 
 War horns sound, stones fly from catapults, and the thunder of a thousand booted feet echoes across the land as hobgoblins march to battle. Across the borderlands of civilization, settlements and settlers must contend with these aggressive humanoids, whose thirst for conquest is never satisfied.

@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Tridrone"]
 ---
-# [Tridrone](compendium\bestiary\construct/tridrone.md)
+# [[5. Mechanics\Bestiary\Construct\Tridrone.md|Tridrone]]
 *Source: Monster Manual p. 225*  
 
 Tridrones are shaped like inverted pyramids. They lead lesser modrons in battle.

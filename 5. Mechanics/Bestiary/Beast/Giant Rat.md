@@ -13,7 +13,7 @@ tags:
 statblock: inline
 aliases: ["Giant Rat"]
 ---
-# [Giant Rat](compendium\bestiary\beast/giant-rat.md)
+# [[5. Mechanics\Bestiary\Beast\Giant Rat.md|Giant Rat]]
 *Source: Monster Manual p. 327. Available in the SRD and the Basic Rules.*  
 
 ```statblock

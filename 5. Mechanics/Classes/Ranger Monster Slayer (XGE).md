@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/ranger/monster-slayer
 - compendium/src/5e/xge
+- subclass/ranger/monster-slayer
 aliases: ["Monster Slayer"]
 ---
 # Monster Slayer

@@ -9,6 +9,6 @@ aliases: ["Sign of Ill Omen"]
 # Sign of Ill Omen
 *Source: Player's Handbook p. 111. Available in the SRD.*  
 
-***Prerequisites*** 5th-level Warlock
+***Prerequisites*** 5th-level
 
 You can cast [[5. Mechanics/Spells/Bestow Curse.md\|bestow curse]] once using a warlock spell slot. You can't do so again until you finish a long rest.

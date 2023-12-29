@@ -11,7 +11,7 @@ aliases: ["Half-Elf"]
 ![[5. Mechanics/Races/img/half-elf.webp#right]]  
 
 - **Ability Scores**: Charisma +2, Apply +1 to 2 (distinct) of Strength, Dexterity, Constitution, Intelligence, Wisdom
-- **Type**: race
+- **Type**: subrace
 - **Size**: Medium
 - **Speed**: 30 ft.
 

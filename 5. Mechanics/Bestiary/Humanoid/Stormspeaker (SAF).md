@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Stormspeaker"]
 ---
-# [Stormspeaker](compendium\bestiary\humanoid/stormspeaker-saf.md)
+# [[5. Mechanics\Bestiary\Humanoid\Stormspeaker (SAF).md|Stormspeaker]]
 *Source: Strongholds and Followers p. 74*  
 
 ```statblock

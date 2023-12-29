@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Camel"]
 ---
-# [Camel](compendium\bestiary\beast/camel.md)
+# [[5. Mechanics\Bestiary\Beast\Camel.md|Camel]]
 *Source: Monster Manual p. 320. Available in the SRD and the Basic Rules.*  
 
 ```statblock

@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Iron Defender"]
 ---
-# [Iron Defender](compendium\bestiary\construct/iron-defender-erlw.md)
+# [[5. Mechanics\Bestiary\Construct\Iron Defender (ERLW).md|Iron Defender]]
 *Source: Eberron: Rising from the Last War p. 293*  
 
 An iron defender fights for its creator. They come in many shapes and are often crafted in the form of animals. More creative artificers craft iron defenders in the shape of hybrid animals or other fantastical creatures.

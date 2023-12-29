@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Wood Woad"]
 ---
-# [Wood Woad](compendium\bestiary\plant/wood-woad-mpmm.md)
+# [[5. Mechanics\Bestiary\Plant\Wood Woad (MPMM).md|Wood Woad]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 266*  
 
 A wood woad is a powerful bipedal Plant invested with the soul of someone who gave up life to become an everlasting guardian.

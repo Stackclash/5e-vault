@@ -7,7 +7,7 @@ tags:
 aliases: ["Entertainer (Gladiator) (Variant)"]
 ---
 # Entertainer (Gladiator) (Variant)
-*Source: Player's Handbook p. 131, Derived from *  
+*Source: Player's Handbook p. 131*  
 
 - **Skill Proficiencies.** [[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]], [[/5. Mechanics/Rules/Skills.md#Performance\|Performance]]  
 - **Tool Proficiencies.** [[5. Mechanics/Items/Disguise Kit.md\|Disguise kit]], one type of musical instrument  

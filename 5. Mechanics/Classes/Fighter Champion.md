@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/fighter/champion
 - compendium/src/5e/phb
+- subclass/fighter/champion
 aliases: ["Champion"]
 ---
 # Champion

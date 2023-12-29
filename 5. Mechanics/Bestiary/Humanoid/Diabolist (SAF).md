@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Diabolist"]
 ---
-# [Diabolist](compendium\bestiary\humanoid/diabolist-saf.md)
+# [[5. Mechanics\Bestiary\Humanoid\Diabolist (SAF).md|Diabolist]]
 *Source: Strongholds and Followers p. 80*  
 
 ```statblock

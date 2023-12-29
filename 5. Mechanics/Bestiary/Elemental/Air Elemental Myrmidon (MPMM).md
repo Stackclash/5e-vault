@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Air Elemental Myrmidon"]
 ---
-# [Air Elemental Myrmidon](compendium\bestiary\elemental/air-elemental-myrmidon-mpmm.md)
+# [[5. Mechanics\Bestiary\Elemental\Air Elemental Myrmidon (MPMM).md|Air Elemental Myrmidon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 122*  
 
 ## Elemental Myrmidons

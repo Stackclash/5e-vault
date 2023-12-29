@@ -92,17 +92,4 @@ Inflict casualties. Distribute the casualties you suffered among your units acco
 
 Determine retreats. If an army loses all their infantry, they immediately retreat. If both sides retreat, neither side wins objectives ^[Determined by the GM—for example, why was Lady Mandrake attacking the necromancer?]. Either side can, at this point, choose to retreat and quit the field, granting the opposing side a victory and yielding any objectives. If either side retreats, the battle is over. Otherwise, return to step one, and fight another battle.
 
-**Simple Combat Resolution**
-
-| Degree of Victory | Result | Victory Rolls Dice from These Units | Vanquished Rolls Dice from These Units |
-|-------------------|--------|-------------------------------------|----------------------------------------|
-| 0–10% | Pyrrhic Victory | Levies + Infantry | Levies |
-| 11–50% | Minor Victory | Levies + Infantry + Archers | Infantry |
-| 51–100% | Clear Victory | All Units | Archers + Cavalry + Flying |
-| 101–200% | Major Victory | All Units + Archers twice | Archers |
-| 201%+ | Rout | All Units + Levies twice, Infantry twice, Archers twice | Cavalry & Flying |
-^simple-combat-resolution
-
-* Does not stack with the bonus above it.
-
-** That is, surprised by an enemy who are themselves not surprised.
+![Simple Warfare; Simple Combat Resolution](compendium/tables/simple-warfare-simple-combat-resolution-saf.md)

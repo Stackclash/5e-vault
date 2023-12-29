@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Necromancer"]
 ---
-# [Necromancer](compendium\bestiary\humanoid/necromancer-saf.md)
+# [[5. Mechanics\Bestiary\Humanoid\Necromancer (SAF).md|Necromancer]]
 *Source: Strongholds and Followers p. 81*  
 
 ```statblock

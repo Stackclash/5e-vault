@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Thaumaturgist"]
 ---
-# [Thaumaturgist](compendium\bestiary\humanoid/thaumaturgist-saf.md)
+# [[5. Mechanics\Bestiary\Humanoid\Thaumaturgist (SAF).md|Thaumaturgist]]
 *Source: Strongholds and Followers p. 79*  
 
 ```statblock

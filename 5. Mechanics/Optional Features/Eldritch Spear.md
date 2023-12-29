@@ -9,6 +9,6 @@ aliases: ["Eldritch Spear"]
 # Eldritch Spear
 *Source: Player's Handbook p. 111. Available in the SRD.*  
 
-***Prerequisites*** [[5. Mechanics/Spells/Eldritch Blast.md\|Eldritch Blast]]
+***Prerequisites*** [[5. Mechanics/Spells/Eldritch Blast.md\|eldritch blast]] cantrip
 
 When you cast [[5. Mechanics/Spells/Eldritch Blast.md\|eldritch blast]], its range is 300 feet.

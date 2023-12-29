@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/wizard/war
 - compendium/src/5e/xge
+- subclass/wizard/war
 aliases: ["War Magic"]
 ---
 # War Magic

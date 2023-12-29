@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Executioner"]
 ---
-# [Executioner](compendium\bestiary\humanoid/executioner-saf.md)
+# [[5. Mechanics\Bestiary\Humanoid\Executioner (SAF).md|Executioner]]
 *Source: Strongholds and Followers p. 78*  
 
 ```statblock

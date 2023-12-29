@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/monk/shadow
 - compendium/src/5e/phb
+- subclass/monk/shadow
 aliases: ["Way of Shadow"]
 ---
 # Way of Shadow

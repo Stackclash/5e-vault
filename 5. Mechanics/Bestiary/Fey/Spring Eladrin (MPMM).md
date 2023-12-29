@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Spring Eladrin"]
 ---
-# [Spring Eladrin](compendium\bestiary\fey/spring-eladrin-mpmm.md)
+# [[5. Mechanics\Bestiary\Fey\Spring Eladrin (MPMM).md|Spring Eladrin]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 116*  
 
 Their hearts filled with joy, spring eladrin cavort through their sylvan realms, their songs and laughter filling the air. These playful eladrin beguile other creatures to fill them with the joy of spring. Their antics can lead other creatures into danger and make mischief for them.

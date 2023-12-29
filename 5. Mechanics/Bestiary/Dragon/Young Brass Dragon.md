@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Young Brass Dragon"]
 ---
-# [Young Brass Dragon](compendium\bestiary\dragon/young-brass-dragon.md)
+# [[5. Mechanics\Bestiary\Dragon\Young Brass Dragon.md|Young Brass Dragon]]
 *Source: Monster Manual p. 105. Available in the SRD.*  
 
 The most gregarious of the true dragons, brass dragons crave conversation, sunlight, and hot, dry climates.

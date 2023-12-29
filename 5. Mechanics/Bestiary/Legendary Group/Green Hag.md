@@ -37,14 +37,4 @@ A powerful green hag creates one or more of the following additional regional ef
 
 - Illusory duplicates of the hag appear in random places at random times (but never more than one in any given location). An illusory duplicate has no substance, but it looks, sounds, and moves like the hag. The hag can sense when one or more creatures are within 60 feet of her duplicate and can interact with them as if she were present and standing in the duplicate's space. If the illusory duplicate takes any damage, it disappears.  
 - The region takes twice as long as normal to traverse, since the plants grow thick and twisted, and the swamps are thick with reeking mud.  
-- Trees transform into awakened trees and attack when hostile intruders are near.  
-
-## Is copy
-_Source: Monster Manual_
-
-true
-
-## _copied from
-_Source: Monster Manual_
-
-Hag (VGM)
+- Trees transform into awakened trees and attack when hostile intruders are near.

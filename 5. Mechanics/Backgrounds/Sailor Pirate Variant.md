@@ -7,7 +7,7 @@ tags:
 aliases: ["Sailor (Pirate) (Variant)"]
 ---
 # Sailor (Pirate) (Variant)
-*Source: Player's Handbook p. 139, Derived from *  
+*Source: Player's Handbook p. 139*  
 
 - **Skill Proficiencies.** [[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]], [[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]  
 - **Tool Proficiencies.** [[5. Mechanics/Items/Navigators Tools.md\|Navigator's tools]], vehicles (water)  

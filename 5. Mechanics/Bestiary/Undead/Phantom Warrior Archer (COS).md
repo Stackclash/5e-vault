@@ -1,89 +1,73 @@
 ---
 obsidianUIMode: preview
-pronounced: 
-race: 
-sex: 
-age: 
-alignment: 
-condition: healthy
-occupation: 
-group: 
-religion: 
-location: 
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes:
+cssclasses: json5e-monster
+tags:
+- compendium/src/5e/cos
+- monster/cr/3
+- monster/size/medium
+- monster/type/undead
+statblock: inline
+aliases: ["Phantom Warrior (Archer)"]
 ---
+# [[5. Mechanics\Bestiary\Undead\Phantom Warrior Archer (COS).md|Phantom Warrior (Archer)]]
+*Source: Curse of Strahd p. 142*  
 
-> [!infobox]
-> # `=this.file.name`
-> **Pronounced:**  "`=this.pronounced`"
-> ![[PlaceholderImage.png|cover hm-sm]]
-> ###### Bio
->  |
-> ---|---|
-> **Race** | `=this.race` |
-> **Sex** | `=this.gender` |
-> **Age** | `=this.age` |
-> **Sexuality** | `=this.sexuality` |
-> **Alignment** | `=this.alignment` |
-> **Condition** | `=this.condition` |
-> ###### Info
->  |
-> ---|---|
-> **Alias(es)** | `=this.alias` |
-> **Occupation(s)** | `=this.occupation` |
-> **Group(s)** | `=link(this.AssociatedGroup)` |
-> **Religion(s)** | `=link(this.AssociatedReligion)` |
-> **Current Location** | `=link(this.location)` |
-
-# **`=this.file.name`**
-> [!info|bg-c-purple]- Overview
-TBD
-
-> [!column] Traits
->> [!metadata|text-Center bg-c-gray] Personality
->> `=this.personality`
->
->> [!metadata|text-Center bg-c-gray] Ideal
->> `=this.ideal`
->
->> [!metadata|text-Center bg-c-gray] Bond
->> `=this.Bond`
->
->> [!metadata|text-Center bg-c-gray] Flaw
->> `=this.flaw`
->
->> [!metadata|text-Center bg-c-green] Likes
->> `=this.likes`
->
->> [!metadata|text-Center bg-c-red] Dislikes
->> `=this.dislikes`
-
-> [!column|dataview] Goals
->> `=this.goals`
-
-## Acquaintances
-> [!column|dataview] Acquaintances
->> [!metadata|text-Center bg-c-green]- Friends & Family
->> TBD
->
->> [!metadata|text-Center bg-c-red]- Rivals
->> TBD
->
-
-## History
-TBD
-
-## DM Notes
-### Plot Hooks
-
-
-### Hidden Details
-
-
-### General Notes
+```statblock
+"name": "Phantom Warrior (Archer) (CoS)"
+"size": "Medium"
+"type": "undead"
+"alignment": "Any alignment"
+"ac": !!int "16"
+"hp": !!int "45"
+"hit_dice": "6d8 + 18"
+"stats":
+- !!int "16"
+- !!int "11"
+- !!int "16"
+- !!int "8"
+- !!int "10"
+- !!int "15"
+"speed": "30 ft."
+"skillsaves":
+  "Stealth": !!int "4"
+  "Perception": !!int "2"
+"damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
+"damage_immunities": "cold, necrotic, poison"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]"
+"senses": "darkvision 60 ft., passive Perception 12"
+"languages": "any languages it knew in life"
+"cr": "3"
+"traits":
+- "desc": "The phantom warrior can see 60 feet into the Ethereal Plane when it is\
+    \ on the Material Plane, and vice versa."
+  "name": "Ethereal Sight"
+- "desc": "The phantom warrior can move through other creatures and objects as if\
+    \ they were difficult terrain. It takes dice: 1d10|avg (1d10) force damage\
+    \ if it ends its turn inside an object."
+  "name": "Incorporeal Movement"
+- "desc": "The phantom warrior's AC accounts for its spectral armor and shield."
+  "name": "Spectral Armor and Shield"
+"actions":
+- "desc": "The phantom warrior makes two attacks with its spectral longsword or spectral\
+    \ longbow."
+  "name": "Multiattack"
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) force damage."
+  "name": "Spectral Longsword"
+- "desc": "The phantom warrior enters the Ethereal Plane from the Material Plane,\
+    \ or vice versa. It is visible on the Material Plane while it is in the Border\
+    \ Ethereal, and vice versa, yet it can't affect or be affected by anything on\
+    \ the other plane."
+  "name": "Etherealness"
+- "desc": "Ranged Weapon Attack: dice: d20+2 (+2 to hit), range 150/600 ft., one\
+    \ target. Hit: dice: 1d8|avg (1d8) force damage."
+  "name": "Spectral Longbow"
+"source":
+- "CoS"
+"image": "compendium/bestiary/undead/token/phantom-warrior-archer.png"
+```
+^statblock

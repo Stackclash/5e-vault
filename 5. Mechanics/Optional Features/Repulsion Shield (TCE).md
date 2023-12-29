@@ -9,7 +9,7 @@ aliases: ["Repulsion Shield"]
 # Repulsion Shield
 *Source: Tasha's Cauldron of Everything p. 23, Eberron: Rising from the Last War p. 63*  
 
-***Prerequisites*** 6th-level Artificer, A shield (requires attunement)
+***Prerequisites*** 6th-level
 
 A creature gains a +1 bonus to Armor Class while wielding this shield.
 

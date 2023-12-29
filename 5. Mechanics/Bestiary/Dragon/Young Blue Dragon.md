@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Young Blue Dragon"]
 ---
-# [Young Blue Dragon](compendium\bestiary\dragon/young-blue-dragon.md)
+# [[5. Mechanics\Bestiary\Dragon\Young Blue Dragon.md|Young Blue Dragon]]
 *Source: Monster Manual p. 91, Curse of Strahd. Available in the SRD.*  
 
 Vain and territorial, blue dragons soar through the skies over deserts, preying on caravans and plundering herds and settlements in the verdant lands beyond the desert's reach. These dragons can also be found in dry steppes, searing badlands, and rocky coasts. They guard their territories against all potential competitors, especially brass dragons.

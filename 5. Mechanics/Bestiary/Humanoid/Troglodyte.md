@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Troglodyte"]
 ---
-# [Troglodyte](compendium\bestiary\humanoid/troglodyte.md)
+# [[5. Mechanics\Bestiary\Humanoid\Troglodyte.md|Troglodyte]]
 *Source: Monster Manual p. 290*  
 
 The savage, degenerate troglodytes squat in the shallow depths of the Underdark in a constant state of war against their neighbors and one another. They mark the borders of their territories with cracked bones and skulls, or with pictographs painted in blood or dung.

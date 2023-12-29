@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/warlock/fiend
 - compendium/src/5e/phb
+- subclass/warlock/fiend
 aliases: ["The Fiend"]
 ---
 # The Fiend

@@ -9,8 +9,8 @@ tags:
 statblock: inline
 aliases: ["The Bagman"]
 ---
-# [The Bagman](compendium\bestiary\giant/the-bagman-vrgr.md)
-*Source: Van Richten's Guide to Ravenloft p. 225, Derived from *  
+# [[5. Mechanics\Bestiary\Giant\The Bagman (VRGR).md|The Bagman]]
+*Source: Van Richten's Guide to Ravenloft p. 225*  
 
 ## Beware the Bagman
 

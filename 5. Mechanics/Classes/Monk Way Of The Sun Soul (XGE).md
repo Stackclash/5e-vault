@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/monk/sun-soul
 - compendium/src/5e/xge
+- subclass/monk/sun-soul
 aliases: ["Way of the Sun Soul"]
 ---
 # Way of the Sun Soul

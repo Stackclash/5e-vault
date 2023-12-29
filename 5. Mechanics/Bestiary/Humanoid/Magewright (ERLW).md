@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Magewright"]
 ---
-# [Magewright](compendium\bestiary\humanoid/magewright-erlw.md)
+# [[5. Mechanics\Bestiary\Humanoid\Magewright (ERLW).md|Magewright]]
 *Source: Eberron: Rising from the Last War p. 318*  
 
 In Khorvaire, magic is part of everyday life. A chef might use [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]] to heat and season food, while a blacksmith uses [[5. Mechanics/Spells/Mending.md|mending]] to perform minor repairs and [[5. Mechanics/Spells/Guidance.md|guidance]] to help inspire their work. Those who work minor magic into their labors are called magewrights.

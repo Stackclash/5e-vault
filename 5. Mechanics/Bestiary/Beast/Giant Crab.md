@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Giant Crab"]
 ---
-# [Giant Crab](compendium\bestiary\beast/giant-crab.md)
+# [[5. Mechanics\Bestiary\Beast\Giant Crab.md|Giant Crab]]
 *Source: Monster Manual p. 324. Available in the SRD and the Basic Rules.*  
 
 ```statblock

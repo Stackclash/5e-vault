@@ -13,7 +13,7 @@ tags:
 statblock: inline
 aliases: ["Eagle"]
 ---
-# [Eagle](compendium\bestiary\beast/eagle.md)
+# [[5. Mechanics\Bestiary\Beast\Eagle.md|Eagle]]
 *Source: Monster Manual p. 322. Available in the SRD and the Basic Rules.*  
 
 ```statblock

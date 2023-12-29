@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Giant Frog"]
 ---
-# [Giant Frog](compendium\bestiary\beast/giant-frog.md)
+# [[5. Mechanics\Bestiary\Beast\Giant Frog.md|Giant Frog]]
 *Source: Monster Manual p. 325. Available in the SRD and the Basic Rules.*  
 
 ```statblock

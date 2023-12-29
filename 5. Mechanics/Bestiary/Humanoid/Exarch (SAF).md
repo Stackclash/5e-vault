@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Exarch"]
 ---
-# [Exarch](compendium\bestiary\humanoid/exarch-saf.md)
+# [[5. Mechanics\Bestiary\Humanoid\Exarch (SAF).md|Exarch]]
 *Source: Strongholds and Followers p. 80*  
 
 ```statblock

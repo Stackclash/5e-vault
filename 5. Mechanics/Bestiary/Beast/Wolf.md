@@ -12,7 +12,7 @@ tags:
 statblock: inline
 aliases: ["Wolf"]
 ---
-# [Wolf](compendium\bestiary\beast/wolf.md)
+# [[5. Mechanics\Bestiary\Beast\Wolf.md|Wolf]]
 *Source: Monster Manual p. 341, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 ```statblock

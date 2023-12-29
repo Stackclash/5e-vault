@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/wizard/necromancy
 - compendium/src/5e/phb
+- subclass/wizard/necromancy
 aliases: ["School of Necromancy"]
 ---
 # School of Necromancy

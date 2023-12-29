@@ -12,7 +12,7 @@ tags:
 statblock: inline
 aliases: ["Giant Strider"]
 ---
-# [Giant Strider](compendium\bestiary\elemental/giant-strider-mpmm.md)
+# [[5. Mechanics\Bestiary\Elemental\Giant Strider (MPMM).md|Giant Strider]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 137*  
 
 > [!quote]- A quote from Mordenkainen  

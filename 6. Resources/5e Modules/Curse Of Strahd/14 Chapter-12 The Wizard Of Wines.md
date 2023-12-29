@@ -14,21 +14,21 @@ Although the Vistani often bring wine from distant lands, they share it infreque
 
 The Wizard of Wines was founded by a mage whose name is buried in the annals of history. The wizard fashioned three magic gems, each one as big as a pinecone, and planted them in the rich valley soil. These "seeds" gave rise to healthy grapevines, which produced sweet, plump grapes. Even after Strahd's curse settled over Barovia, the gems kept the vines and their grapes from succumbing to the darkness.
 
-Strahd bequeathed the winery and vineyard to the noble Krezkov family as a reward for the family's loyalty. Later, an arranged marriage between the Krezkovs and the Martikov family led to the land being taken over by a Martikov descendant. The winery and vineyard have been tended by the Martikovs ever since. At some point, the Martikov family became infected with widespread lycanthropy. The current patriarch, [[5. Mechanics/Bestiary/Npc/Davian Martikov (COS).md\|Davian Martikov]], is a wereraven, as are his children and grandchildren.
+Strahd bequeathed the winery and vineyard to the noble Krezkov family as a reward for the family's loyalty. Later, an arranged marriage between the Krezkovs and the Martikov family led to the land being taken over by a Martikov descendant. The winery and vineyard have been tended by the Martikovs ever since. At some point, the Martikov family became infected with widespread lycanthropy. The current patriarch, [[4. World Almanac/NPCs/Davian Martikov (COS).md\|Davian Martikov]], is a wereraven, as are his children and grandchildren.
 
 ![[6. Resources/5e Modules/Curse Of Strahd/img/110-cos12-01.webp#center]]
 
 The wereravens provide the wine to Barovian taverns for free, knowing the good it brings to the Barovian people.
 
-> [!quote]- A quote from [[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]]  
+> [!quote]- A quote from [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]]  
 > 
 > Why, it is nothing to become an animal, for that is the true nature of every man. We are not meant to wear crowns and drink from goblets.
 
-The winery is known for three wines: the unremarkable Purple Grapemash No. 3, the slightly more tantalizing Red Dragon Crush, and the rich Champagne du le Stomp. Ten years ago, one of the vineyard's magic gems was dug up and stolen, and as a result, the winery stopped producing its best vintage, the champagne. No one knows what happened to the gem. [[5. Mechanics/Bestiary/Npc/Davian Martikov (COS).md\|Davian Martikov]] blames his middle son, Urwin (see chapter 5, area N2), for the loss because Urwin was on watch the night the gem was taken. Davian is convinced that Urwin shirked his duty to spend time with his betrothed, and the two men have been at odds ever since. To this day, Urwin steadfastly denies his father's accusation.
+The winery is known for three wines: the unremarkable Purple Grapemash No. 3, the slightly more tantalizing Red Dragon Crush, and the rich Champagne du le Stomp. Ten years ago, one of the vineyard's magic gems was dug up and stolen, and as a result, the winery stopped producing its best vintage, the champagne. No one knows what happened to the gem. [[4. World Almanac/NPCs/Davian Martikov (COS).md\|Davian Martikov]] blames his middle son, Urwin (see chapter 5, area N2), for the loss because Urwin was on watch the night the gem was taken. Davian is convinced that Urwin shirked his duty to spend time with his betrothed, and the two men have been at odds ever since. To this day, Urwin steadfastly denies his father's accusation.
 
-Adding to Davian's misery, the wereravens have been fending off frequent attacks by [[5. Mechanics/Bestiary/Npc/Baba Lysaga (COS).md\|Baba Lysaga]]'s scarecrow constructs. Three weeks ago, during one such attack, another gem was found, dug up, and taken. Davian believes that it is in the possession of [[5. Mechanics/Bestiary/Npc/Baba Lysaga (COS).md\|Baba Lysaga]] (see chapter 10, area U3).
+Adding to Davian's misery, the wereravens have been fending off frequent attacks by [[4. World Almanac/NPCs/Baba Lysaga (COS).md\|Baba Lysaga]]'s scarecrow constructs. Three weeks ago, during one such attack, another gem was found, dug up, and taken. Davian believes that it is in the possession of [[4. World Almanac/NPCs/Baba Lysaga (COS).md\|Baba Lysaga]] (see chapter 10, area U3).
 
-Davian's belief is correct. The gem was a lucky find for [[5. Mechanics/Bestiary/Npc/Baba Lysaga (COS).md\|Baba Lysaga]], who had previously suspected that magic was the root of the vineyard's health but knew nothing of its source. Even after this great discovery, [[5. Mechanics/Bestiary/Npc/Baba Lysaga (COS).md\|Baba Lysaga]] continues to send her scarecrows against the winery, antagonizing the wereravens like a bad neighbor.
+Davian's belief is correct. The gem was a lucky find for [[4. World Almanac/NPCs/Baba Lysaga (COS).md\|Baba Lysaga]], who had previously suspected that magic was the root of the vineyard's health but knew nothing of its source. Even after this great discovery, [[4. World Almanac/NPCs/Baba Lysaga (COS).md\|Baba Lysaga]] continues to send her scarecrows against the winery, antagonizing the wereravens like a bad neighbor.
 
 Five days ago, evil druids stole the third and final gem and bore it to Yester Hill (chapter 14). The wereravens launched a counterattack on Yester Hill, hoping to get it back, but to no avail. The druids and their blights proved more than a match for the lycanthropes.
 
@@ -58,7 +58,7 @@ The beckoning figure is one of nine [[5. Mechanics/Bestiary/Humanoid/Wereraven (
 
 If the characters head toward the cloaked figure, the other wereravens emerge from the stand of trees and greet them in human form. They wear dark leather rain cloaks and cowls.
 
-One of them is the current owner of the winery and vineyard, [[5. Mechanics/Bestiary/Npc/Davian Martikov (COS).md\|Davian Martikov]], who is an old and suspicious man. Until he trusts the characters, he says nothing about the stolen gems but tells them that evil druids and blights have attacked the winery and forced his family to take refuge in the woods.
+One of them is the current owner of the winery and vineyard, [[4. World Almanac/NPCs/Davian Martikov (COS).md\|Davian Martikov]], who is an old and suspicious man. Until he trusts the characters, he says nothing about the stolen gems but tells them that evil druids and blights have attacked the winery and forced his family to take refuge in the woods.
 
 If the characters rid the winery of its invaders, Davian is grateful. Only then does he tell them that the vineyard's three magic "seeds" have been stolen. He describes them as gems the size and shape of pinecones, each one containing a glowing green light as bright as a torch. For the good of all Barovia, he urges the characters to travel to Berez (area U) and Yester Hill (area Y) to retrieve two of them. He has no idea what happened to the third gem.
 
@@ -299,7 +299,7 @@ The druid wields a [[5. Mechanics/Items/Gulthias Staff (COS).md\|Gulthias staff]
 
 ### W17. Master Bedroom
 
-This bedroom normally belongs to [[5. Mechanics/Bestiary/Npc/Davian Martikov (COS).md\|Davian Martikov]] but is currently being used by his daughter, Stefania, and son-in-law, Dag, while they raise their baby daughter.
+This bedroom normally belongs to [[4. World Almanac/NPCs/Davian Martikov (COS).md\|Davian Martikov]] but is currently being used by his daughter, Stefania, and son-in-law, Dag, while they raise their baby daughter.
 
 > [!readaloud] 
 > 
@@ -323,7 +323,7 @@ A secret door in the north corner of the east wall can be pushed open to gain ac
 
 #### Treasure
 
-Inside the chest are 50 gp, 270 ep (each electrum coin stamped with the profiled visage of [[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]]), and 350 sp. A secret compartment in the lid can be found with a successful DC 15 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check. It holds a gold locket (worth 25 gp) containing a painted portrait of a beautiful woman (Davian's deceased wife, Angelika), as well as a pouch containing five 50 gp gemstones.
+Inside the chest are 50 gp, 270 ep (each electrum coin stamped with the profiled visage of [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]]), and 350 sp. A secret compartment in the lid can be found with a successful DC 15 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check. It holds a gold locket (worth 25 gp) containing a painted portrait of a beautiful woman (Davian's deceased wife, Angelika), as well as a pouch containing five 50 gp gemstones.
 
 ### W18. Kitchen and Dining Room
 
@@ -341,7 +341,7 @@ The cupboard holds dishware and eating utensils. The pantry holds cooking ingred
 > Two pairs of bunk beds occupy this room. Against the west wall rest four identical footlockers.
 ^5c4
 
-Davian, Adrian, and Elvir sleep in the westernmost room. Claudiu and his two younger brothers sleep in the easternmost room, where a few toys are scattered about. One of the toys seems to resemble a child's wooden rocking horse, except that the horse is black with wild eyes and has painted orange flames where its mane, tail, and hooves should be. Carved into the wooden nightmare is the name "[[5. Mechanics/Bestiary/Npc/Beucephalus (COS).md\|Beucephalus]]" and, in smaller lettering, the slogan "Is No Fun, Is No Blinsky!"
+Davian, Adrian, and Elvir sleep in the westernmost room. Claudiu and his two younger brothers sleep in the easternmost room, where a few toys are scattered about. One of the toys seems to resemble a child's wooden rocking horse, except that the horse is black with wild eyes and has painted orange flames where its mane, tail, and hooves should be. Carved into the wooden nightmare is the name "[[4. World Almanac/NPCs/Beucephalus (COS).md\|Beucephalus]]" and, in smaller lettering, the slogan "Is No Fun, Is No Blinsky!"
 
 The footlockers contain clothing and personal belongings, but nothing of value.
 
@@ -365,7 +365,7 @@ The druid and the vine blights fight to the death.
 
 Inside the cabinet is a key hanging on a loop of twine. The key unlocks the padlock on the sliding doors between the veranda (area W5) and the fermentation vats (area W9).
 
-The contraption standing near the north wall is a printing press, which [[5. Mechanics/Bestiary/Npc/Davian Martikov (COS).md\|Davian Martikov]] uses to make wine bottle labels. The ink is made from wine and stored in bottles in the cabinet, along with pieces of parchment and jars of glue.
+The contraption standing near the north wall is a printing press, which [[4. World Almanac/NPCs/Davian Martikov (COS).md\|Davian Martikov]] uses to make wine bottle labels. The ink is made from wine and stored in bottles in the cabinet, along with pieces of parchment and jars of glue.
 
 ## Special Events
 
@@ -373,7 +373,7 @@ You can use one or both of the following special events after the characters hav
 
 ### Wine Delivery
 
-After restoring the Martikovs to their rightful positions, the characters might ask them to deliver wine to the Blue Water Inn (chapter 5, area N2), the Vistani in the camp outside Vallaki (chapter 5, area N9), or the burgomaster of Krezk (chapter 8, area S2). A grateful Davian sets his sons to the task immediately. Adrian Martikov brings the three remaining wine barrels up from the cellar and sets them on the wagon while Elvir Martikov secures the horses. Adrian and Elvir make the delivery themselves, but they welcome the party's escort. If the characters don't volunteer for guard duty, [[5. Mechanics/Bestiary/Npc/Davian Martikov (COS).md\|Davian Martikov]] suggests they go along with the wine wagon to ensure its safety.
+After restoring the Martikovs to their rightful positions, the characters might ask them to deliver wine to the Blue Water Inn (chapter 5, area N2), the Vistani in the camp outside Vallaki (chapter 5, area N9), or the burgomaster of Krezk (chapter 8, area S2). A grateful Davian sets his sons to the task immediately. Adrian Martikov brings the three remaining wine barrels up from the cellar and sets them on the wagon while Elvir Martikov secures the horses. Adrian and Elvir make the delivery themselves, but they welcome the party's escort. If the characters don't volunteer for guard duty, [[4. World Almanac/NPCs/Davian Martikov (COS).md\|Davian Martikov]] suggests they go along with the wine wagon to ensure its safety.
 
 If the characters escort the wagon, check for a random encounter once for each mile traveled. The wagon is also watched over by two [[5. Mechanics/Bestiary/Beast/Swarm Of Ravens.md\|swarms of ravens]] that swoop down to attack anything that threatens the wagon or the characters.
 
@@ -387,10 +387,10 @@ If the characters leave the winery and return at a later time before dealing wit
 
 The characters arrive to find the grapevines trampled and the winery in ruins. Wintersplinter's tracks are clearly visible on the trail to the south. Characters who follow the tracks catch up with Wintersplinter as the blight slowly makes its way back to Yester Hill.
 
-The Martikovs narrowly escape the carnage and flee to the Blue Water Inn in Vallaki (chapter 5, area N2). [[5. Mechanics/Bestiary/Npc/Davian Martikov (COS).md\|Davian Martikov]] is crushed by the loss of the winery, and morale in Vallaki sinks to an all-time low as word of the winery's destruction spreads through town.
+The Martikovs narrowly escape the carnage and flee to the Blue Water Inn in Vallaki (chapter 5, area N2). [[4. World Almanac/NPCs/Davian Martikov (COS).md\|Davian Martikov]] is crushed by the loss of the winery, and morale in Vallaki sinks to an all-time low as word of the winery's destruction spreads through town.
 
 #### Development
 
-Three days after Wintersplinter's attack, [[5. Mechanics/Bestiary/Npc/Baba Lysaga (COS).md\|Baba Lysaga]] (see chapter 10, area U3) dispatches the seven [[5. Mechanics/Bestiary/Construct/Scarecrow.md\|scarecrows]] from Berez and orders them to take up positions in the vineyard, to discourage the wereravens from returning. These scarecrows attack anyone who crosses the vineyard or approaches the ruined winery.
+Three days after Wintersplinter's attack, [[4. World Almanac/NPCs/Baba Lysaga (COS).md\|Baba Lysaga]] (see chapter 10, area U3) dispatches the seven [[5. Mechanics/Bestiary/Construct/Scarecrow.md\|scarecrows]] from Berez and orders them to take up positions in the vineyard, to discourage the wereravens from returning. These scarecrows attack anyone who crosses the vineyard or approaches the ruined winery.
 
 ![[6. Resources/5e Modules/Curse Of Strahd/img/115-cos12-05.webp#center]]

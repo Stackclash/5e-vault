@@ -22,7 +22,7 @@ dislikes:
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  "`=this.pronounced`"
-> ![[PlaceholderImage.png|cover hm-sm]]
+> ![[4. World Almanac/NPCs/img/005-cos02-02.webp|cover hm-sm]] 
 > ###### Bio
 >  |
 > ---|---|

@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/monk/mercy
 - compendium/src/5e/tce
+- subclass/monk/mercy
 aliases: ["Way of Mercy"]
 ---
 # Way of Mercy

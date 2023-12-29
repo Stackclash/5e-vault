@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Tiger"]
 ---
-# [Tiger](compendium\bestiary\beast/tiger.md)
+# [[5. Mechanics\Bestiary\Beast\Tiger.md|Tiger]]
 *Source: Monster Manual p. 339. Available in the SRD and the Basic Rules.*  
 
 ```statblock

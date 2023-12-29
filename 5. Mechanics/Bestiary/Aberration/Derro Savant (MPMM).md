@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Derro Savant"]
 ---
-# [Derro Savant](compendium\bestiary\aberration/derro-savant-mpmm.md)
+# [[5. Mechanics\Bestiary\Aberration\Derro Savant (MPMM).md|Derro Savant]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 92*  
 
 > [!quote]- A quote from Mordenkainen  

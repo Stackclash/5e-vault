@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/druid/moon
 - compendium/src/5e/phb
+- subclass/druid/moon
 aliases: ["Circle of the Moon"]
 ---
 # Circle of the Moon

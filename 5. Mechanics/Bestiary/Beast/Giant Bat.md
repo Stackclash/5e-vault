@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Giant Bat"]
 ---
-# [Giant Bat](compendium\bestiary\beast/giant-bat.md)
+# [[5. Mechanics\Bestiary\Beast\Giant Bat.md|Giant Bat]]
 *Source: Monster Manual p. 323, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 ```statblock

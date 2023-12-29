@@ -8,7 +8,7 @@ aliases: ["Appendix C: Treasures"]
 # Appendix C: Treasures
 *Source: Curse of Strahd, p. 221* 
 
-Scattered throughout Barovia are ancient treasures that can be brought to bear against [[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]] and his fell servants. The locations of three of them—the [[5. Mechanics/Items/Tome Of Strahd (COS).md\|Tome of Strahd]], the [[5. Mechanics/Items/Holy Symbol Of Ravenkind (COS).md\|Holy Symbol of Ravenkind]], and the [[5. Mechanics/Items/Sunsword (COS).md\|Sunsword]]—are determined by the results of the card reading in chapter 1. The other items can be acquired as characters discover their whereabouts during the course of the adventure.
+Scattered throughout Barovia are ancient treasures that can be brought to bear against [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]] and his fell servants. The locations of three of them—the [[5. Mechanics/Items/Tome Of Strahd (COS).md\|Tome of Strahd]], the [[5. Mechanics/Items/Holy Symbol Of Ravenkind (COS).md\|Holy Symbol of Ravenkind]], and the [[5. Mechanics/Items/Sunsword (COS).md\|Sunsword]]—are determined by the results of the card reading in chapter 1. The other items can be acquired as characters discover their whereabouts during the course of the adventure.
 
 ## Tome of Strahd
 

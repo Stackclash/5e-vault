@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Animated Object (Medium)"]
 ---
-# [Animated Object (Medium)](compendium\bestiary\construct/animated-object-medium.md)
+# [[5. Mechanics\Bestiary\Construct\Animated Object Medium.md|Animated Object (Medium)]]
 *Source: Player's Handbook p. 213*  
 
 ```statblock

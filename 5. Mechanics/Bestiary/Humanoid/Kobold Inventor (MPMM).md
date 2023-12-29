@@ -14,7 +14,7 @@ tags:
 statblock: inline
 aliases: ["Kobold Inventor"]
 ---
-# [Kobold Inventor](compendium\bestiary\humanoid/kobold-inventor-mpmm.md)
+# [[5. Mechanics\Bestiary\Humanoid\Kobold Inventor (MPMM).md|Kobold Inventor]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 164*  
 
 A kobold inventor builds improvised weapons to gain an advantage in combat. These weapons last for only one or two attacks before they break and typically work only for the inventor, but they might be surprisingly effective in the meantime. The weapons don't have to be lethal—often one serves its purpose if it distracts, scares, or confuses a creature long enough for the inventor to kill that foe.

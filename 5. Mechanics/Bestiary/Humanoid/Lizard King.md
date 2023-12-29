@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Lizard King"]
 ---
-# [Lizard King](compendium\bestiary\humanoid/lizard-king.md)
+# [[5. Mechanics\Bestiary\Humanoid\Lizard King.md|Lizard King]]
 *Source: Monster Manual p. 205, Tasha's Cauldron of Everything*  
 
 Lizardfolk are primitive reptilian humanoids that lurk in the swamps and jungles of the world. Their hut villages thrive in forbidding grottos, half-sunken ruins, and watery caverns.

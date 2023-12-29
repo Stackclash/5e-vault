@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/rogue/swashbuckler
 - compendium/src/5e/xge
+- subclass/rogue/swashbuckler
 aliases: ["Swashbuckler"]
 ---
 # Swashbuckler

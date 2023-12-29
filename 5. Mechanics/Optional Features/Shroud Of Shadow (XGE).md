@@ -9,6 +9,6 @@ aliases: ["Shroud of Shadow"]
 # Shroud of Shadow
 *Source: Xanathar's Guide to Everything p. 57*  
 
-***Prerequisites*** 15th-level Warlock
+***Prerequisites*** 15th-level
 
 You can cast [[5. Mechanics/Spells/Invisibility.md\|invisibility]] at will, without expending a spell slot.

@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Hezrou"]
 ---
-# [Hezrou](compendium\bestiary\fiend/hezrou.md)
+# [[5. Mechanics\Bestiary\Fiend\Hezrou.md|Hezrou]]
 *Source: Monster Manual p. 60. Available in the SRD.*  
 
 Hezrous serve as foot soldiers in the demonic hordes of the Abyss. Although physically powerful, they are weak-minded and hezrous can easily be duped into sacrificing themselves by more powerful demons. As they press their attacks into the heart of an enemy's forces, their foul stench can sicken even the toughest foes.

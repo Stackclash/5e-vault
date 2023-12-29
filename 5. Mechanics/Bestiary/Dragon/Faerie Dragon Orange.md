@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Faerie Dragon (Orange)"]
 ---
-# [Faerie Dragon (Orange)](compendium\bestiary\dragon/faerie-dragon-orange.md)
+# [[5. Mechanics\Bestiary\Dragon\Faerie Dragon Orange.md|Faerie Dragon (Orange)]]
 *Source: Monster Manual p. 133*  
 
 A faerie dragon is a cat-sized dragon with butterfly wings. It wears a sharp-toothed grin and expresses its delight by the twitching of its tail, its merriment fading only if it is attacked.

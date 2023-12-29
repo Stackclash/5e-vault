@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/warlock/hexblade
 - compendium/src/5e/xge
+- subclass/warlock/hexblade
 aliases: ["The Hexblade"]
 ---
 # The Hexblade

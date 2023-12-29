@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/druid/wildfire
 - compendium/src/5e/tce
+- subclass/druid/wildfire
 aliases: ["Circle of Wildfire"]
 ---
 # Circle of Wildfire

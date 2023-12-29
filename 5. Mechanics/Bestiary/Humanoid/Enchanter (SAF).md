@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Enchanter"]
 ---
-# [Enchanter](compendium\bestiary\humanoid/enchanter-saf.md)
+# [[5. Mechanics\Bestiary\Humanoid\Enchanter (SAF).md|Enchanter]]
 *Source: Strongholds and Followers p. 80*  
 
 ```statblock
@@ -48,7 +48,7 @@ aliases: ["Enchanter"]
     \ cantrip (dice: d20+6 (+6 to hit)).\n\nAt 7th level, retainers can take two\
     \ signature attacks per round."
   "name": "Signature Attack"
-- "desc": "Prerequisite: 3rd-level retainer\n\nThe enchanter casts the acid arrow\
+- "desc": "Prerequisite: 3rd-level retainer\n\nThe enchanter casts the [[5. Mechanics/Spells/Melfs Acid Arrow.md|acid arrow]]\
     \ spell (dice: d20+6 (+6 to hit))."
   "name": "Acid Arrow (3/Day)"
 - "desc": "Prerequisite: 5th-level retainer\n\nThe enchanter casts the [[5. Mechanics/Spells/Fireball.md|fireball]]\

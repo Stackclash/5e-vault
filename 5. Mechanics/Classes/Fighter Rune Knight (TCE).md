@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/fighter/rune-knight
 - compendium/src/5e/tce
+- subclass/fighter/rune-knight
 aliases: ["Rune Knight"]
 ---
 # Rune Knight

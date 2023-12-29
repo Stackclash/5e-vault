@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Babau"]
 ---
-# [Babau](compendium\bestiary\fiend/babau-mpmm.md)
+# [[5. Mechanics\Bestiary\Fiend\Babau (MPMM).md|Babau]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 52*  
 
 > [!quote]- A quote from Mordenkainen  

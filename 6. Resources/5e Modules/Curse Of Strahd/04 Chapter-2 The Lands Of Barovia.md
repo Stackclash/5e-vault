@@ -120,13 +120,13 @@ Barovians live within a closed ecosystem. Every Barovian adult is expected to le
 
 Barovians are made of flesh and blood. They are born, they live, they age, and they die. But not all of them—only about one in every ten—have souls.
 
-When a being with a soul dies in Barovia, that soul remains trapped in Strahd's domain until it is reincarnated in a newborn. It can take decades for a bodiless soul to find a host, and Barovians who share the same soul over generations tend to look alike. That is why [[5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md\|Ireena Kolyana]] looks exactly like Strahd's beloved Tatyana—both women were born with the same soul.
+When a being with a soul dies in Barovia, that soul remains trapped in Strahd's domain until it is reincarnated in a newborn. It can take decades for a bodiless soul to find a host, and Barovians who share the same soul over generations tend to look alike. That is why [[4. World Almanac/NPCs/Ireena Kolyana (COS).md\|Ireena Kolyana]] looks exactly like Strahd's beloved Tatyana—both women were born with the same soul.
 
 Strahd needs loyal subjects to feed his ego. Barovians without souls are empty shells created by his consciousness to fill out the local population. Although they are physically indistinguishable from Barovians with souls, they tend to be bereft of charm and imagination and to be more compliant and depressed than the others. They dress in drab clothing, whereas Barovians who have souls wear clothes with a splash of color or individuality.
 
 A Barovian woman, soulless or not, can give birth. A child born in Barovia might have a soul even if one or both parents do not. Conversely, the child of two parents with souls isn't certain to have a soul of its own. Barovians without souls are maudlin folk who experience fear but neither laugh nor cry.
 
-[[5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md\|Ireena Kolyana]] and her brother Ismark both have souls, as do all Vistani. Which Barovians have souls and which don't is left up to you.
+[[4. World Almanac/NPCs/Ireena Kolyana (COS).md\|Ireena Kolyana]] and her brother Ismark both have souls, as do all Vistani. Which Barovians have souls and which don't is left up to you.
 
 Strahd periodically feeds on the blood of Barovians who have souls, but he can't draw nourishment from the blood of the soulless. He can tell at a glance whether a Barovian has a soul or is merely a shell.
 
@@ -146,7 +146,7 @@ Typical Barovians know certain facts, or have certain beliefs, about their exist
 
 About Strahd and vampires, the Barovians believe the following:
 
-- [[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]] is a vampire, and he dwells in Castle Ravenloft. No one is welcome at the castle.  
+- [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]] is a vampire, and he dwells in Castle Ravenloft. No one is welcome at the castle.  
 - The devil Strahd is a curse placed on the land because of a forgotten sin of the Barovians' ancestors. (This is untrue, but Barovians believe it nonetheless.)  
 - A vampire must rest in its coffin during the day. At night, it can summon wolves and vermin to do its bidding. A vampire can transform into a bat, a wolf, or a cloud of mist. In its humanoid form, it can dominate you with its powerful gaze.  
 - A vampire can't enter a residence without an invitation from one of the occupants.  
@@ -160,7 +160,7 @@ Barovians know the following facts about their homeland:
 - Many strangers have been drawn to Barovia over the years, but they all die or disappear before long.  
 - Wolves, dire wolves, and werewolves prowl the Svalich Woods, and hungry bats fill the skies at night.  
 - The village of Barovia sits at the east end of the valley. Its burgomaster is named Kolyan Indirovich.  
-- The town of Vallaki lies in the heart of the valley. Its burgomaster is named [[5. Mechanics/Bestiary/Npc/Baron Vargas Vallakovich (COS).md\|Baron Vargas Vallakovich]].  
+- The town of Vallaki lies in the heart of the valley. Its burgomaster is named [[4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md\|Baron Vargas Vallakovich]].  
 - The fortified village of Krezk lies at the west end of the valley and is built around an old abbey. The village burgomaster is named Dmitri Krezkov.  
 - Wine is the lifeblood of Barovia—for some, it is the only reason to keep living. Barovian taverns get their wine from the Wizard of Wines winery near Krezk.  
 - A mad wizard of great power haunts the foothills of Mount Baratok. He is an outsider and no friend of the vampire's.  
@@ -232,7 +232,7 @@ Vistani know the following facts about Barovia and Barovians:
 The Vistani have deep-rooted beliefs and superstitions that they pass down from one generation to the next:
 
 - The souls of those who die in Barovia can't escape to the afterlife. They are prisoners in Strahd's domain.  
-- Some Vistani women are blessed with prescience. Of all the great Vistani fortune-tellers, none compares to [[5. Mechanics/Bestiary/Npc/Madam Eva (COS).md\|Madam Eva]]. If knowledge of the future is what you seek, [[5. Mechanics/Bestiary/Npc/Madam Eva (COS).md\|Madam Eva]] will tell you your fate.  
+- Some Vistani women are blessed with prescience. Of all the great Vistani fortune-tellers, none compares to [[4. World Almanac/NPCs/Madam Eva (COS).md\|Madam Eva]]. If knowledge of the future is what you seek, [[4. World Almanac/NPCs/Madam Eva (COS).md\|Madam Eva]] will tell you your fate.  
 - A prescient Vistana can't see her own future or the future of another Vistana. It is the burden of the Vistani's great gift that their own fates can't be divined.  
 - Vistani curses are potent, but they are invoked with great caution. Vistani know that to curse one who is undeserving of such punishment can have grave consequences for the one who utters such a curse.  
 - Ravens carry lost souls within them, so killing one is bad luck. (The ravens don't carry souls within.)  
@@ -483,7 +483,7 @@ The revenant was a [[5. Mechanics/Bestiary/Undead/Knight Of The Order (COS).md\|
 
 As an action, the revenant can attack twice with its longsword, wielding the weapon with both hands and dealing `dice: 2d10 + 4|avg` (`2d10 + 4`) slashing damage on each hit.
 
-If the characters present themselves as enemies of Strahd, the revenant urges them to travel to Argynvostholt (chapter 7) and convince [[5. Mechanics/Bestiary/Npc/Vladimir Horngaard (COS).md\|Vladimir Horngaard]], the leader of the Order of the Silver Dragon, to help them. The revenant would like nothing more than to kill Strahd, but it will not venture to Castle Ravenloft unless it receives orders to do so from Vladimir. If the characters ask the revenant to lead them to Horngaard in Argynvostholt, it does so while avoiding contact with Barovian settlements.
+If the characters present themselves as enemies of Strahd, the revenant urges them to travel to Argynvostholt (chapter 7) and convince [[4. World Almanac/NPCs/Vladimir Horngaard (COS).md\|Vladimir Horngaard]], the leader of the Order of the Silver Dragon, to help them. The revenant would like nothing more than to kill Strahd, but it will not venture to Castle Ravenloft unless it receives orders to do so from Vladimir. If the characters ask the revenant to lead them to Horngaard in Argynvostholt, it does so while avoiding contact with Barovian settlements.
 
 ### Scarecrows
 
@@ -496,7 +496,7 @@ If at least one character has a passive Wisdom ([[/5. Mechanics/Rules/Skills.md#
 
 If more than one [[5. Mechanics/Bestiary/Construct/Scarecrow.md\|scarecrow]] is present, the others are close by. If none of the characters has a passive Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) score of 11 or higher, the scarecrows catch the party by surprise.
 
-[[5. Mechanics/Bestiary/Npc/Baba Lysaga (COS).md\|Baba Lysaga]] (see chapter 10, area U3) crafted these scarecrows to hunt down and kill ravens and wereravens. The scarecrows are imbued with evil spirits and delight in murdering anyone they encounter.
+[[4. World Almanac/NPCs/Baba Lysaga (COS).md\|Baba Lysaga]] (see chapter 10, area U3) crafted these scarecrows to hunt down and kill ravens and wereravens. The scarecrows are imbued with evil spirits and delight in murdering anyone they encounter.
 
 ### Skeletal Rider
 
@@ -792,7 +792,7 @@ Twelve Vistani (male and female human [[5. Mechanics/Bestiary/Humanoid/Vistana B
 
 Although the Vistani in this camp are in league with Strahd, they attack only if the characters provoke them with threats or insults. Otherwise, the characters are offered flasks of wine and invited to join the reverie.
 
-If the characters linger at the camp, continue with "A Vistana's Tale" below. If they seem in a hurry to leave, one of the Vistani tells them, "It was fated that you would visit our humble camp. [[5. Mechanics/Bestiary/Npc/Madam Eva (COS).md\|Madam Eva]] foretold your coming. She awaits you." The Vistana then points to the largest tent. If the characters head that way, continue with "[[5. Mechanics/Bestiary/Npc/Madam Eva (COS).md\|Madam Eva]]'s Tent."
+If the characters linger at the camp, continue with "A Vistana's Tale" below. If they seem in a hurry to leave, one of the Vistani tells them, "It was fated that you would visit our humble camp. [[4. World Almanac/NPCs/Madam Eva (COS).md\|Madam Eva]] foretold your coming. She awaits you." The Vistana then points to the largest tent. If the characters head that way, continue with "[[4. World Almanac/NPCs/Madam Eva (COS).md\|Madam Eva]]'s Tent."
 
 > [!gallery]
 > ![[6. Resources/5e Modules/Curse Of Strahd/img/010-cos02-06.jpg#gallery\|Map 2.2: Tser Pool Encampment]]
@@ -809,20 +809,20 @@ If the characters linger by the fire, one of the Vistani recounts the following 
 > "The wizard and the vampire cast spells at each other. Their battle flew from the courtyards of Ravenloft to a precipice overlooking the falls. I saw the battle with my own eyes. Thunder shook the mountainside, and great rocks tumbled down upon the wizard, yet by his magic he survived. Lightning from the heavens struck the wizard, and again he stood his ground. But when the devil Strahd fell upon him, the wizard's magic couldn't save him. I saw him thrown a thousand feet to his death. I climbed down to the river to search for the wizard's body, to see if, you know, he had anything of value, but the River Ivlis had already spirited him away."
 ^111
 
-The Vistana storyteller doesn't remember the wizard's name, but recalls that it sounded important. If the characters haven't spoken with [[5. Mechanics/Bestiary/Npc/Madam Eva (COS).md\|Madam Eva]], the storyteller urges them to do so.
+The Vistana storyteller doesn't remember the wizard's name, but recalls that it sounded important. If the characters haven't spoken with [[4. World Almanac/NPCs/Madam Eva (COS).md\|Madam Eva]], the storyteller urges them to do so.
 
 #### Madam Eva's Tent
 
-If the characters decide to see [[5. Mechanics/Bestiary/Npc/Madam Eva (COS).md\|Madam Eva]], read:
+If the characters decide to see [[4. World Almanac/NPCs/Madam Eva (COS).md\|Madam Eva]], read:
 
 > [!readaloud] 
 > 
 > Magic flames cast a reddish glow over the interior of this tent, revealing a low table covered in a black velvet cloth. Glints of light seem to flash from a crystal ball on the table as a hunched figure peers into its depths. As the crone speaks, her voice crackles like dry weeds. "At last you have arrived!" Cackling laughter bursts like mad lightning from her withered lips.
 ^113
 
-[[5. Mechanics/Bestiary/Npc/Madam Eva (COS).md\|Madam Eva]] (see appendix D) speaks the name of each party member and makes some reference to that individual's past deeds. She then asks the characters if they want their fortunes read. If they say yes, [[5. Mechanics/Bestiary/Npc/Madam Eva (COS).md\|Madam Eva]] produces a worn deck of cards and proceeds with the sequence outlined in chapter 1. (If the characters don't want a reading of their fates, continue play using the card reading you performed before starting the adventure.)
+[[4. World Almanac/NPCs/Madam Eva (COS).md\|Madam Eva]] (see appendix D) speaks the name of each party member and makes some reference to that individual's past deeds. She then asks the characters if they want their fortunes read. If they say yes, [[4. World Almanac/NPCs/Madam Eva (COS).md\|Madam Eva]] produces a worn deck of cards and proceeds with the sequence outlined in chapter 1. (If the characters don't want a reading of their fates, continue play using the card reading you performed before starting the adventure.)
 
-[[5. Mechanics/Bestiary/Npc/Madam Eva (COS).md\|Madam Eva]] might seem mad, but she is, in fact, cunning and sharp of mind. She has met a good many adventurers in her time and knows they can't be fully trusted. She wants to free the land of Barovia from its curse, and her fate is interwoven with Strahd's (see appendix D for details). She does the vampire's bidding when called upon and does nothing to anger Strahd or bring harm to the Vistani. She never gives aid and never asks for any.
+[[4. World Almanac/NPCs/Madam Eva (COS).md\|Madam Eva]] might seem mad, but she is, in fact, cunning and sharp of mind. She has met a good many adventurers in her time and knows they can't be fully trusted. She wants to free the land of Barovia from its curse, and her fate is interwoven with Strahd's (see appendix D for details). She does the vampire's bidding when called upon and does nothing to anger Strahd or bring harm to the Vistani. She never gives aid and never asks for any.
 
 #### Treasure
 
@@ -839,7 +839,7 @@ For each Vistani tent or wagon that the characters search, roll once on the foll
 
 #### Fortunes of Ravenloft
 
-If your card reading reveals that a treasure is here, it is hidden in one of the Vistani wagons. [[5. Mechanics/Bestiary/Npc/Madam Eva (COS).md\|Madam Eva]] grants the characters permission to search the wagons if they ask, and any such search yields the treasure.
+If your card reading reveals that a treasure is here, it is hidden in one of the Vistani wagons. [[4. World Almanac/NPCs/Madam Eva (COS).md\|Madam Eva]] grants the characters permission to search the wagons if they ask, and any such search yields the treasure.
 
 ### H. Tser Falls
 
@@ -900,7 +900,7 @@ A patch of [[5. Mechanics/Traps Hazards/Green Slime.md\|green slime]] (see ""Dun
 
 ### K. Castle Ravenloft
 
-Chapter 4 explores Castle Ravenloft, lair of the vampire [[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]].
+Chapter 4 explores Castle Ravenloft, lair of the vampire [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]].
 
 ### L. Lake Zarovich
 
@@ -916,11 +916,11 @@ If the characters arrive along the shore north of Vallaki in the daytime, add:
 > Pulled up along the south shore are three small rowboats. A fourth boat can be seen in the middle of the lake, with a lone figure sitting in it, fishing pole in hand.
 ^123
 
-Each rowboat can safely hold five people. The person fishing on the lake is [[5. Mechanics/Bestiary/Npc/Bluto Krogarov (COS).md\|Bluto Krogarov]] (NE male human [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoner]]), a resident of Vallaki. He is in a trance and doesn't respond to anything or anyone unless attacked. His boat is 400 feet from the nearest shore. Tied up in the boat is a seven-year-old Vistana named [[5. Mechanics/Bestiary/Npc/Arabelle (COS).md\|Arabelle]] (LN female human [[5. Mechanics/Bestiary/Humanoid/Vistana Commoner (COS).md\|commoner]] with 2 hit points and no effective attacks). She is bound with hempen rope, wrapped in a burlap sack, and lying [[/5. Mechanics/Rules/Conditions.md#prone\|prone]] so that she can't be seen or heard from the shore.
+Each rowboat can safely hold five people. The person fishing on the lake is [[4. World Almanac/NPCs/Bluto Krogarov (COS).md\|Bluto Krogarov]] (NE male human [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoner]]), a resident of Vallaki. He is in a trance and doesn't respond to anything or anyone unless attacked. His boat is 400 feet from the nearest shore. Tied up in the boat is a seven-year-old Vistana named [[4. World Almanac/NPCs/Arabelle (COS).md\|Arabelle]] (LN female human [[5. Mechanics/Bestiary/Humanoid/Vistana Commoner (COS).md\|commoner]] with 2 hit points and no effective attacks). She is bound with hempen rope, wrapped in a burlap sack, and lying [[/5. Mechanics/Rules/Conditions.md#prone\|prone]] so that she can't be seen or heard from the shore.
 
 #### Roleplaying Bluto
 
-[[5. Mechanics/Bestiary/Npc/Bluto Krogarov (COS).md\|Bluto Krogarov]] is a destitute drunkard. He's desperate to catch some fish and trade them for wine at the Blue Water Inn. After he was unable to catch a single fish for a week, he kidnapped [[5. Mechanics/Bestiary/Npc/Arabelle (COS).md\|Arabelle]], believing that Vistani are lucky. He intends to sacrifice her to the lake, hoping it will give up some of its fish in return.
+[[4. World Almanac/NPCs/Bluto Krogarov (COS).md\|Bluto Krogarov]] is a destitute drunkard. He's desperate to catch some fish and trade them for wine at the Blue Water Inn. After he was unable to catch a single fish for a week, he kidnapped [[4. World Almanac/NPCs/Arabelle (COS).md\|Arabelle]], believing that Vistani are lucky. He intends to sacrifice her to the lake, hoping it will give up some of its fish in return.
 
 If the characters watch Bluto from the shore for several minutes, or if they row out into the lake to greet him, he tosses the burlap sack into the water, watches it sink, and waits with fishing pole in hand for his reward.
 
@@ -928,11 +928,11 @@ Bluto is a hollow shell of a man, barely able to understand his own actions. He 
 
 #### Roleplaying Arabelle
 
-Characters who act quickly can save [[5. Mechanics/Bestiary/Npc/Arabelle (COS).md\|Arabelle]] before she drowns. A character on the shore must succeed on a DC 15 Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) check to reach her in time. The DC is 10 for characters who took a rowboat out onto the lake.
+Characters who act quickly can save [[4. World Almanac/NPCs/Arabelle (COS).md\|Arabelle]] before she drowns. A character on the shore must succeed on a DC 15 Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) check to reach her in time. The DC is 10 for characters who took a rowboat out onto the lake.
 
-[[5. Mechanics/Bestiary/Npc/Arabelle (COS).md\|Arabelle]] has alabaster-white skin and raven-black hair. If rescued, she demands to be returned to her family's camp outside Vallaki (chapter 5, area N9). She is certain that her father, [[5. Mechanics/Bestiary/Npc/Luvash (COS).md\|Luvash]], will give the characters a reward for doing so.
+[[4. World Almanac/NPCs/Arabelle (COS).md\|Arabelle]] has alabaster-white skin and raven-black hair. If rescued, she demands to be returned to her family's camp outside Vallaki (chapter 5, area N9). She is certain that her father, [[4. World Almanac/NPCs/Luvash (COS).md\|Luvash]], will give the characters a reward for doing so.
 
-A descendant of [[5. Mechanics/Bestiary/Npc/Madam Eva (COS).md\|Madam Eva]] with the blood of Barovian royalty in her veins, [[5. Mechanics/Bestiary/Npc/Arabelle (COS).md\|Arabelle]] is unaware of her connection to Strahd. She acts more like an adult than a child. Despite her recent misadventure, she believes that a great destiny awaits her.
+A descendant of [[4. World Almanac/NPCs/Madam Eva (COS).md\|Madam Eva]] with the blood of Barovian royalty in her veins, [[4. World Almanac/NPCs/Arabelle (COS).md\|Arabelle]] is unaware of her connection to Strahd. She acts more like an adult than a child. Despite her recent misadventure, she believes that a great destiny awaits her.
 
 ### M. Mad Mage of Mount Baratok
 
@@ -945,7 +945,7 @@ This encounter can occur anywhere along the base of Mount Baratok.
 > You see an elk standing on a rocky spur about sixty feet away. Suddenly, it assumes the form of a man in tattered black robes. His hair and beard are long, black, and streaked with gray, and his eyes crackle with eldritch power.
 ^127
 
-[[5. Mechanics/Bestiary/Npc/The Mad Mage Of Mount Baratok (COS).md\|The Mad Mage of Mount Baratok]] (CN male human [[5. Mechanics/Bestiary/Humanoid/Archmage.md\|archmage]]) came to Barovia more than a year ago to free its people from Strahd's tyranny, but he underestimated Strahd's hold over the land and the creatures in it. After a battle between the two in Castle Ravenloft, Strahd drove the Mad Mage to the mountains and sent the wizard hurling over Tser Falls (area H). The wizard, his staff and spellbook lost, survived the fall and retreated into the mountains, hoping to regain his power, only to be driven mad by the realization that he no longer has any hope of defeating Strahd or freeing the people of the vampire's damned realm.
+[[4. World Almanac/NPCs/The Mad Mage Of Mount Baratok (COS).md\|The Mad Mage of Mount Baratok]] (CN male human [[5. Mechanics/Bestiary/Humanoid/Archmage.md\|archmage]]) came to Barovia more than a year ago to free its people from Strahd's tyranny, but he underestimated Strahd's hold over the land and the creatures in it. After a battle between the two in Castle Ravenloft, Strahd drove the Mad Mage to the mountains and sent the wizard hurling over Tser Falls (area H). The wizard, his staff and spellbook lost, survived the fall and retreated into the mountains, hoping to regain his power, only to be driven mad by the realization that he no longer has any hope of defeating Strahd or freeing the people of the vampire's damned realm.
 
 The Mad Mage has forgotten his name and the world whence he came. In fact, he doesn't remember anything that happened before the madness. He suffers from the paranoia that powerful enemies are hunting him, and that their evil agents are everywhere and watching him.
 
@@ -984,7 +984,7 @@ If the characters rescue the [[5. Mechanics/Bestiary/Humanoid/Archmage.md\|archm
 
 Mordenkainen is familiar with worlds beyond his own. For example, if the characters come from the Forgotten Realms and mention this fact to Mordenkainen, he asks them if they know his old friend Elminster of Shadowdale.
 
-If Mordenkainen isn't the party's ally as foretold in [[5. Mechanics/Bestiary/Npc/Madam Eva (COS).md\|Madam Eva]]'s card reading (see chapter 1), he declines to join them if asked. With his wits restored, he sets out to find his missing staff and spellbook, leaving the characters on their own. He doesn't allow them to help him, for he fears they might be tempted to steal either his staff or his spellbook. (Being an adventurer himself, he knows how the lure of powerful magic can bring out the worst in adventurers.) Before he leaves, as a parting gift, the [[5. Mechanics/Bestiary/Humanoid/Archmage.md\|archmage]] imbues each character with a *charm of heroism* (see ""Supernatural Gifts"" in chapter 7 of the "Dungeon Master's Guide").
+If Mordenkainen isn't the party's ally as foretold in [[4. World Almanac/NPCs/Madam Eva (COS).md\|Madam Eva]]'s card reading (see chapter 1), he declines to join them if asked. With his wits restored, he sets out to find his missing staff and spellbook, leaving the characters on their own. He doesn't allow them to help him, for he fears they might be tempted to steal either his staff or his spellbook. (Being an adventurer himself, he knows how the lure of powerful magic can bring out the worst in adventurers.) Before he leaves, as a parting gift, the [[5. Mechanics/Bestiary/Humanoid/Archmage.md\|archmage]] imbues each character with a *charm of heroism* (see ""Supernatural Gifts"" in chapter 7 of the "Dungeon Master's Guide").
 
 #### Fortunes of Ravenloft
 
@@ -992,7 +992,7 @@ If your card reading reveals that the Mad Mage is the party's ally in the battle
 
 With his sanity restored, Mordenkainen can be stubborn and difficult even with his friends, and doesn't suffer fools. He normally spends more time listening than talking, but when he does speak, his pronouncements are authoritative and not to be questioned.
 
-The [[5. Mechanics/Bestiary/Humanoid/Archmage.md\|archmage]] has never had his fortune read by [[5. Mechanics/Bestiary/Npc/Madam Eva (COS).md\|Madam Eva]] and doesn't care to, but if he is told about the [[5. Mechanics/Items/Holy Symbol Of Ravenkind (COS).md\|Holy Symbol of Ravenkind]], the [[5. Mechanics/Items/Tome Of Strahd (COS).md\|Tome of Strahd]], and the [[5. Mechanics/Items/Sunsword (COS).md\|Sunsword]], he insists that these items be recovered before he and the party confront Strahd. If Strahd is defeated and Mordenkainen survives, the archmage gladly accompanies the characters back to their world if they invite him, if only not to disappoint them.
+The [[5. Mechanics/Bestiary/Humanoid/Archmage.md\|archmage]] has never had his fortune read by [[4. World Almanac/NPCs/Madam Eva (COS).md\|Madam Eva]] and doesn't care to, but if he is told about the [[5. Mechanics/Items/Holy Symbol Of Ravenkind (COS).md\|Holy Symbol of Ravenkind]], the [[5. Mechanics/Items/Tome Of Strahd (COS).md\|Tome of Strahd]], and the [[5. Mechanics/Items/Sunsword (COS).md\|Sunsword]], he insists that these items be recovered before he and the party confront Strahd. If Strahd is defeated and Mordenkainen survives, the archmage gladly accompanies the characters back to their world if they invite him, if only not to disappoint them.
 
 ### N. Town of Vallaki
 
@@ -1044,7 +1044,7 @@ Chapter 9 explores the Tsolenka Pass, which hugs the side of Mount Ghakis.
 
 ### U. Ruins of Berez
 
-Chapter 10 describes the ruins of Berez, a riverside village that is now home to the hag [[5. Mechanics/Bestiary/Npc/Baba Lysaga (COS).md\|Baba Lysaga]].
+Chapter 10 describes the ruins of Berez, a riverside village that is now home to the hag [[4. World Almanac/NPCs/Baba Lysaga (COS).md\|Baba Lysaga]].
 
 ### V. Van Richten's Tower
 

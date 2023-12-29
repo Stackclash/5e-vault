@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Lady Czorgan"]
 ---
-# [Lady Czorgan](compendium\bestiary\undead/lady-czorgan-saf.md)
+# [[5. Mechanics\Bestiary\Undead\Lady Czorgan (SAF).md|Lady Czorgan]]
 *Source: Strongholds and Followers p. 258*  
 
 ```statblock

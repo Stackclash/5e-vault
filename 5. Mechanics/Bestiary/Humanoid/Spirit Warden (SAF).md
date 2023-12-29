@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Spirit Warden"]
 ---
-# [Spirit Warden](compendium\bestiary\humanoid/spirit-warden-saf.md)
+# [[5. Mechanics\Bestiary\Humanoid\Spirit Warden (SAF).md|Spirit Warden]]
 *Source: Strongholds and Followers p. 72*  
 
 ```statblock

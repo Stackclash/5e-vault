@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/fighter/samurai
 - compendium/src/5e/xge
+- subclass/fighter/samurai
 aliases: ["Samurai"]
 ---
 # Samurai

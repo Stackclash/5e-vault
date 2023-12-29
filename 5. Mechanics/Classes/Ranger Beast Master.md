@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/ranger/beast-master
 - compendium/src/5e/phb
+- subclass/ranger/beast-master
 aliases: ["Beast Master"]
 ---
 # Beast Master

@@ -18,15 +18,7 @@ Performing a job requires one workweek of effort.
 
 To determine how much money a character earns, the character makes an ability check: Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]), Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]]), Intelligence using a set of tools, Charisma ([[/5. Mechanics/Rules/Skills.md#Performance\|Performance]]), or Charisma using a [[5. Mechanics/Items/Musical Instrument.md\|musical instrument]]. Consult the Wages table to see how much money is generated according to the total of the check.
 
-**Wages**
-
-| Check Total | Earnings |
-|-------------|----------|
-| 9 or lower | Poor lifestyle for the week |
-| 10–14 | Modest lifestyle for the week |
-| 15–20 | Comfortable lifestyle for the week |
-| 21+ | Comfortable lifestyle for the week + 25 gp |
-^wages
+![Resolution; Wages](compendium/tables/resolution-wages-xge.md)
 
 ## Complications
 

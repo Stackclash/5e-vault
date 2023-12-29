@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Young Bronze Dragon"]
 ---
-# [Young Bronze Dragon](compendium\bestiary\dragon/young-bronze-dragon.md)
+# [[5. Mechanics\Bestiary\Dragon\Young Bronze Dragon.md|Young Bronze Dragon]]
 *Source: Monster Manual p. 108. Available in the SRD.*  
 
 Bronze dragons are coastal dwellers that feed primarily on aquatic plants and fish. They take the forms of friendly animals to observe other creatures of interest. They are also fascinated by warfare and eagerly join armies fighting for a just cause.

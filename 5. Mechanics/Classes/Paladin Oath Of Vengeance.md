@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/paladin/vengeance
 - compendium/src/5e/phb
+- subclass/paladin/vengeance
 aliases: ["Oath of Vengeance"]
 ---
 # Oath of Vengeance

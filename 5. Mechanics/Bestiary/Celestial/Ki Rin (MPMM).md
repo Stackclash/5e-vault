@@ -13,7 +13,7 @@ tags:
 statblock: inline
 aliases: ["Ki-rin"]
 ---
-# [Ki-rin](compendium\bestiary\celestial/ki-rin-mpmm.md)
+# [[5. Mechanics\Bestiary\Celestial\Ki Rin (MPMM).md|Ki-rin]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 162*  
 
 Ki-rins are noble, celestial creatures. In the Outer Planes, ki-rins in service to benevolent deities take a direct role in the eternal struggle between good and evil. In the mortal world, ki-rins are celebrated far and wide as harbingers of destiny, guardians of the sacred, and counterbalances to the forces of evil.

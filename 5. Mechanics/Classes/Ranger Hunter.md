@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/ranger/hunter
 - compendium/src/5e/phb
+- subclass/ranger/hunter
 aliases: ["Hunter"]
 ---
 # Hunter

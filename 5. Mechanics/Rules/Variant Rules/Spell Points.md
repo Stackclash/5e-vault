@@ -22,43 +22,6 @@ The Spell Points by Level table applies to [[5. Mechanics/Classes/Bard.md\|bards
 
 This system can be applied to monsters that cast spells using spell slots, but it isn't recommended that you do so. Tracking spell point expenditures for a monster can be a hassle.
 
-**Spell Point Cost**
+![Variant: Spell Points; Spell Point Cost](compendium/tables/variant-spell-points-spell-point-cost.md)
 
-| Spell Level | Point Cost |
-|-------------|------------|
-| 1st | 2 |
-| 2nd | 3 |
-| 3rd | 5 |
-| 4th | 6 |
-| 5th | 7 |
-| 6th | 9 |
-| 7th | 10 |
-| 8th | 11 |
-| 9th | 13 |
-^spell-point-cost
-
-**Spell Points by Level**
-
-| Class Level | Spell Points | Max Spell Level |
-|-------------|--------------|-----------------|
-| 1st | 4 | 1st |
-| 2nd | 6 | 1st |
-| 3rd | 14 | 2nd |
-| 4th | 17 | 2nd |
-| 5th | 27 | 3rd |
-| 6th | 32 | 3rd |
-| 7th | 38 | 4th |
-| 8th | 44 | 4th |
-| 9th | 57 | 5th |
-| 10th | 64 | 5th |
-| 11th | 73 | 6th |
-| 12th | 73 | 6th |
-| 13th | 83 | 7th |
-| 14th | 83 | 7th |
-| 15th | 94 | 8th |
-| 16th | 94 | 8th |
-| 17th | 107 | 9th |
-| 18th | 114 | 9th |
-| 19th | 123 | 9th |
-| 20th | 133 | 9th |
-^spell-points-by-level
+![Variant: Spell Points; Spell Points by Level](compendium/tables/variant-spell-points-spell-points-by-level.md)

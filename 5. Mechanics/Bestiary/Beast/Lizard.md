@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Lizard"]
 ---
-# [Lizard](compendium\bestiary\beast/lizard.md)
+# [[5. Mechanics\Bestiary\Beast\Lizard.md|Lizard]]
 *Source: Monster Manual p. 332. Available in the SRD and the Basic Rules.*  
 
 ```statblock

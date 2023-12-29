@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Githyanki Knight"]
 ---
-# [Githyanki Knight](compendium\bestiary\humanoid/githyanki-knight.md)
+# [[5. Mechanics\Bestiary\Humanoid\Githyanki Knight.md|Githyanki Knight]]
 *Source: Monster Manual p. 160*  
 
 The githyanki plunder countless worlds from the decks of their astral vessels and the backs of red dragons. Feathers, beads, gems, and precious metals decorate their armor and weapons-the legendary silver swords with which they cut through their foes. Since winning their freedom from the mind flayers, the githyanki have become ruthless conquerors under the rulership of their dread lich-queen, Vlaakith.

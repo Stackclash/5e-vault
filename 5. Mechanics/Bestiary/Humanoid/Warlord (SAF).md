@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Warlord"]
 ---
-# [Warlord](compendium\bestiary\humanoid/warlord-saf.md)
+# [[5. Mechanics\Bestiary\Humanoid\Warlord (SAF).md|Warlord]]
 *Source: Strongholds and Followers p. 76*  
 
 ```statblock

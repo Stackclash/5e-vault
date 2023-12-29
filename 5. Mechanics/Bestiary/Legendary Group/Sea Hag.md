@@ -38,14 +38,4 @@ A powerful sea hag creates one or more of the following additional regional effe
 
 - Most surfaces are covered by a thin film of slime, which is slick and sticks to anything that touches it.  
 - Currents and tides are exceptionally strong and treacherous. Any ability check made to safely navigate or control a vessel moving through these waters has disadvantage.  
-- Shores are littered with dead, rotting fish. The hag can sense when one of the fish is handled and cause it to speak with her voice.  
-
-## Is copy
-_Source: Monster Manual_
-
-true
-
-## _copied from
-_Source: Monster Manual_
-
-Hag (VGM)
+- Shores are littered with dead, rotting fish. The hag can sense when one of the fish is handled and cause it to speak with her voice.

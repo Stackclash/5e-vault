@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Death"]
 ---
-# [Death](compendium\bestiary\construct/death-saf.md)
+# [[5. Mechanics\Bestiary\Construct\Death (SAF).md|Death]]
 *Source: Strongholds and Followers p. 228*  
 
 > [!quote]-  

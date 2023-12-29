@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Pentadrone"]
 ---
-# [Pentadrone](compendium\bestiary\construct/pentadrone.md)
+# [[5. Mechanics\Bestiary\Construct\Pentadrone.md|Pentadrone]]
 *Source: Monster Manual p. 226*  
 
 Pentadrones oversee Mechanus's worker populace and can improvise in response to new situations.

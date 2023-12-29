@@ -9,7 +9,7 @@ aliases: ["Hill Rune"]
 # Hill Rune
 *Source: Tasha's Cauldron of Everything p. 45*  
 
-***Prerequisites*** 7th-level Fighter
+***Prerequisites*** 7th-level
 
 This rune's magic bestows a resilience reminiscent of a hill giant. While wearing or carrying an object that bears this rune, you have advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]], and you have resistance against poison damage.
 

@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["The Phoenix"]
 ---
-# [The Phoenix](compendium\bestiary\celestial/the-phoenix-saf.md)
+# [[5. Mechanics\Bestiary\Celestial\The Phoenix (SAF).md|The Phoenix]]
 *Source: Strongholds and Followers p. 248*  
 
 ```statblock

@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/fighter/cavalier
 - compendium/src/5e/xge
+- subclass/fighter/cavalier
 aliases: ["Cavalier"]
 ---
 # Cavalier

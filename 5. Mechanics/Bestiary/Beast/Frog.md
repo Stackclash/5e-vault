@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Frog"]
 ---
-# [Frog](compendium\bestiary\beast/frog.md)
+# [[5. Mechanics\Bestiary\Beast\Frog.md|Frog]]
 *Source: Monster Manual p. 322, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 A frog has no effective attacks. It feeds on small insects and typically dwells near water, in trees, or underground. The frog's statistics can also be used to represent a toad.

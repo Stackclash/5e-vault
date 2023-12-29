@@ -149,7 +149,7 @@ A treasure chest has been slid against the south wall of this chamber. It is sur
 
 #### Developments
 
-This room is connected to many others, so creating a disturbance here causes the orcs in adjacent rooms to investigate. If it is sundown, Bonebreaker Dorokor, Oregg Steeltwister, Pinna, and Edmund Bedegar are likely dining in the Great Hall (C8). [[5. Mechanics/Bestiary/Npc/Bonebreaker Dorokor (SAF).md\|Bonebreaker Dorokor]] and [[5. Mechanics/Bestiary/Npc/Oregg Steeltwister (SAF).md\|Oregg Steeltwister]] (page 135) attack on sight, suspecting that the characters are Lord Saxton's thugs. Pinna and Edmund hold back and come to investigate on the second round of combat, but if Pinna recognizes the characters from Gravesford, she screams for both sides to stop fighting. See the Negotiating with Orcs event (page 125).
+This room is connected to many others, so creating a disturbance here causes the orcs in adjacent rooms to investigate. If it is sundown, Bonebreaker Dorokor, Oregg Steeltwister, Pinna, and Edmund Bedegar are likely dining in the Great Hall (C8). [[4. World Almanac/NPCs/Bonebreaker Dorokor (SAF).md\|Bonebreaker Dorokor]] and [[4. World Almanac/NPCs/Oregg Steeltwister (SAF).md\|Oregg Steeltwister]] (page 135) attack on sight, suspecting that the characters are Lord Saxton's thugs. Pinna and Edmund hold back and come to investigate on the second round of combat, but if Pinna recognizes the characters from Gravesford, she screams for both sides to stop fighting. See the Negotiating with Orcs event (page 125).
 
 #### Treasure
 
@@ -199,7 +199,7 @@ Digging through the mold and muck for 5 minutes will yield gold buttons, lapis l
 
 A stately marble dining table stands before a cold hearth in the center of the great hall. Twelve stone chairs are assembled around it, though all have been chipped, covered with plants, or knocked over. Every night at sunset, Bonebreaker Dorokor sups here with her lieutenant, Oregg Steeltwister, as well as Edmund Bedegar and Pinna. Lately, they have been planning how best to conduct negotiations with the people of Gravesford.
 
-If the PCs interrupt this meal, [[5. Mechanics/Bestiary/Npc/Bonebreaker Dorokor (SAF).md\|Bonebreaker Dorokor]] and [[5. Mechanics/Bestiary/Npc/Oregg Steeltwister (SAF).md\|Oregg Steeltwister]] (page 135) both leap over the table and attack instantly, suspecting that the PCs are assassins sent by Lord Saxton. If Pinna recognizes them from Gravesford, she instantly calls for everyone to stop fighting. See the Negotiating with Orcs event (page 125).
+If the PCs interrupt this meal, [[4. World Almanac/NPCs/Bonebreaker Dorokor (SAF).md\|Bonebreaker Dorokor]] and [[4. World Almanac/NPCs/Oregg Steeltwister (SAF).md\|Oregg Steeltwister]] (page 135) both leap over the table and attack instantly, suspecting that the PCs are assassins sent by Lord Saxton. If Pinna recognizes them from Gravesford, she instantly calls for everyone to stop fighting. See the Negotiating with Orcs event (page 125).
 
 At other times of day, this chamber is usually empty. Orcs can pass through it to get from the barracks to the watchtower when changing guard shifts (see C13).
 
@@ -207,7 +207,7 @@ At other times of day, this chamber is usually empty. Orcs can pass through it t
 
 The orcs have repurposed the Blue Dragonflight's barracks as their own. Areas 9a, 9b, and 9c each contain four bunks. Area 9d has been converted into a holding chamber for Edmund Bedegar and, more recently, Pinna. Young Lord Bedegar has helped soothe the hedge mage's nerves after being kidnapped.
 
-Area 9e belongs to Bonebreaker Dorokor, and its door is decorated with an ornate crest of snapped bones, with an eagle's skull in the center. Her large chamber contains items unusual for an orc, such as a washbasin, parchment, and charcoal. Dorokor has no use for human fineries, and everything within her chamber is worthless by human standards, save for her magical greataxe, [[5. Mechanics/Items/Wound (SAF).md\|Wound]] (see [[5. Mechanics/Bestiary/Npc/Bonebreaker Dorokor (SAF).md\|Bonebreaker Dorokor]], page 141). She keeps this mighty weapon on her person at all times, and rests it at the foot of her cot while she sleeps.
+Area 9e belongs to Bonebreaker Dorokor, and its door is decorated with an ornate crest of snapped bones, with an eagle's skull in the center. Her large chamber contains items unusual for an orc, such as a washbasin, parchment, and charcoal. Dorokor has no use for human fineries, and everything within her chamber is worthless by human standards, save for her magical greataxe, [[5. Mechanics/Items/Wound (SAF).md\|Wound]] (see [[4. World Almanac/NPCs/Bonebreaker Dorokor (SAF).md\|Bonebreaker Dorokor]], page 141). She keeps this mighty weapon on her person at all times, and rests it at the foot of her cot while she sleeps.
 
 Area 9f belongs to Oregg Steeltwister, second-in-command of the White Tusk clan. He possesses none of Dorokor's cunning or subtlety, but he is madly in love with her. He follows her every order and pretends to understand her schemes in order to win her favor.
 
@@ -357,7 +357,7 @@ These stairs lead upward to the collapsed tower (C14).
 
 ## Castle Rend Event: Negotiating with Orcs
 
-When the PCs meet with [[5. Mechanics/Bestiary/Npc/Bonebreaker Dorokor (SAF).md\|Bonebreaker Dorokor]], she announces: "I am Bonebreaker Dorokor, Bloodchief of the White Tusk. I hold [[5. Mechanics/Items/Wound (SAF).md\|Wound]]. If you are servants of the human Saxton, you will die quickly and painfully."
+When the PCs meet with [[4. World Almanac/NPCs/Bonebreaker Dorokor (SAF).md\|Bonebreaker Dorokor]], she announces: "I am Bonebreaker Dorokor, Bloodchief of the White Tusk. I hold [[5. Mechanics/Items/Wound (SAF).md\|Wound]]. If you are servants of the human Saxton, you will die quickly and painfully."
 
 Facing an orc with two humans hostage, the heroes may just attack. Typical. But if they negotiate with her, she agrees to parley. She demands that the PCs set down their arms and join her at the table. She snarls at Edmund and Pinna to not speak out of turn, and the two meekly oblige. Edmund sits on Dorokor's left, Pinna sits on Edmund's left, and Oregg Steeltwister sits on Dorokor's right.
 

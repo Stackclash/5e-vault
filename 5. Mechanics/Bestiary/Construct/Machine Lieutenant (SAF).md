@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Machine Lieutenant"]
 ---
-# [Machine Lieutenant](compendium\bestiary\construct/machine-lieutenant-saf.md)
+# [[5. Mechanics\Bestiary\Construct\Machine Lieutenant (SAF).md|Machine Lieutenant]]
 *Source: Strongholds and Followers p. 252*  
 
 ```statblock

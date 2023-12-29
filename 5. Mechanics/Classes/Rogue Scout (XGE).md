@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/rogue/scout
 - compendium/src/5e/xge
+- subclass/rogue/scout
 aliases: ["Scout"]
 ---
 # Scout

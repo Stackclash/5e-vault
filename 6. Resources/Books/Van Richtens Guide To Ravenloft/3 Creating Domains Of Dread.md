@@ -57,21 +57,7 @@ Detailing the Darklord's personality gives them a unique identity that will help
 - **Bond.** In one sentence, describe a person, place, or object that the Darklord desires. Avoid a bond that is simply about power; power isn't an end in itself—power is a means to obtain a bond.  
 - **Flaws.** In one sentence, describe how the Darklord's personality causes them to act against their own best interests, especially in their quest to win their bonds and desires. Flaws are often a negative emotion or destructive behavior—such as fear, hatred, insecurity, jealousy, mayhem, obsession, selfishness, shame—that drives an irrational habit causing the Darklord or others harm. Alternatively, you can choose or randomly determine a flaw from the Fatal Flaws table.  
 
-**Fatal Flaws**
-
-| dice: d10 | Flaw |
-|-----------|------|
-| 1 | Once someone questions me, I won't stop until I befriend them and then betray them. |
-| 2 | Others' concerns bore me, and I would rather have my lessers handle everything possible. |
-| 3 | I am always right, and anyone who doesn't agree with me is cut out of my life. |
-| 4 | When someone loves me, I will do anything for them, no matter whom they hurt. |
-| 5 | I've given up resisting my habits and indulge myself whenever possible. |
-| 6 | I would rather be righteously angry at problems than solve them. |
-| 7 | I assume everyone is lying to me, even my most trusted allies, and constantly test their loyalty. |
-| 8 | I don't know love, only domineering obsession, and I chain objects of my affection to pedestals. |
-| 9 | When I see something priceless or rare, I sacrifice all of my beliefs and loyalties to possess it. |
-| 10 | I'm distrustful of anyone who seems pure of heart and will prove to all their admirers how secretly ugly they are. |
-^fatal-flaws
+![Wicked Personality; Fatal Flaws](compendium/tables/wicked-personality-fatal-flaws-vrgr.md)
 
 ### Corrupt Beyond Redemption
 
@@ -204,33 +190,9 @@ The story of a Darklord and their domain is one and the same. Once you know your
 - **Entangling the Heroes.** The Darklord might instantly sense visitors entering their domain, while the heroes have no reliable means of identifying the Darklord. Describe why the Darklord is interested in the characters. The Darklord Connections table provides examples of such connections.  
 - **Interactions with the Darklord.** Imagine situations that allow the players' characters and the Darklord to socialize without the encounter immediately spiraling into violence. For inspiration, consider the circumstances on the Darklord Interactions table.  
 
-**Darklord Connections**
+![Adventures; Darklord Connections](compendium/tables/adventures-darklord-connections-vrgr.md)
 
-| dice: d8 | Connection |
-|----------|------------|
-| 1 | An adventurer reminds the Darklord of their bond, desire, or loved one. |
-| 2 | An adventurer shares a Darklord's flaw. |
-| 3 | The Darklord and an adventurer share camaraderie over a mutual ideal. |
-| 4 | The Darklord believes they can teach an adventurer, making them their apprentice or inheritor. |
-| 5 | An adventurer is a reincarnated version of the Darklord's beloved or their murderer. |
-| 6 | The Darklord is convinced that an adventurer is the key to finally attaining their desire. |
-| 7 | The Darklord immediately looks up to an adventurer and seeks to emulate them to grim extremes. |
-| 8 | An adventurer is a reincarnated younger version of the Darklord before they became irredeemable. |
-^darklord-connections
-
-**Darklord Interactions**
-
-| dice: d8 | Encounter |
-|----------|-----------|
-| 1 | The Darklord promises to give the adventurers what they want if they join the Darklord for dinner. |
-| 2 | The Darklord contacts the adventurers via letters or dreams. |
-| 3 | The Darklord meets the adventurers disguised as a nonthreatening inhabitant or animal. |
-| 4 | The Darklord meets the adventurers at a ceremony, funeral, or wedding where violence is discouraged. |
-| 5 | The Darklord meets the adventurers at a public market, festival, temple, or library, surrounded by a crowd of innocents. |
-| 6 | The Darklord possesses the body of someone the adventurers care about. |
-| 7 | The Darklord possesses the body of one of the adventurers. |
-| 8 | The Darklord invites the adventurers to a negotiation, promising nonviolent solutions to a conflict. |
-^darklord-interactions
+![Adventures; Darklord Interactions](compendium/tables/adventures-darklord-interactions-vrgr.md)
 
 ### The Domain's Downfall
 

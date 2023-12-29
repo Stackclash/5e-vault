@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Duodrone"]
 ---
-# [Duodrone](compendium\bestiary\construct/duodrone.md)
+# [[5. Mechanics\Bestiary\Construct\Duodrone.md|Duodrone]]
 *Source: Monster Manual p. 225*  
 
 The blocky duodrones supervise units of monodrones and can perform up to two tasks at a time.

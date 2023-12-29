@@ -9,7 +9,7 @@ aliases: ["Radiant Weapon"]
 # Radiant Weapon
 *Source: Tasha's Cauldron of Everything p. 22, Eberron: Rising from the Last War p. 62*  
 
-***Prerequisites*** 6th-level Artificer, A simple or martial weapon (requires attunement)
+***Prerequisites*** 6th-level
 
 This magic weapon grants a +1 bonus to attack and damage rolls made with it. While holding it, the wielder can take a bonus action to cause it to shed bright light in a 30-foot radius and dim light for an additional 30 feet. The wielder can extinguish the light as a bonus action.
 

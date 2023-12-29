@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/barbarian/zealot
 - compendium/src/5e/xge
+- subclass/barbarian/zealot
 aliases: ["Path of the Zealot"]
 ---
 # Path of the Zealot

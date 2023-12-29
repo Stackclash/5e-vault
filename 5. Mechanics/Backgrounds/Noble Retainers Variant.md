@@ -7,7 +7,7 @@ tags:
 aliases: ["Noble (Retainers) (Variant)"]
 ---
 # Noble (Retainers) (Variant)
-*Source: Player's Handbook p. 136, Derived from *  
+*Source: Player's Handbook p. 136*  
 
 - **Skill Proficiencies.** [[/5. Mechanics/Rules/Skills.md#History\|History]], [[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]  
 - **Tool Proficiencies.** One type of gaming set  

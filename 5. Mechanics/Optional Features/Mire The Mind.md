@@ -9,6 +9,6 @@ aliases: ["Mire the Mind"]
 # Mire the Mind
 *Source: Player's Handbook p. 111. Available in the SRD.*  
 
-***Prerequisites*** 5th-level Warlock
+***Prerequisites*** 5th-level
 
 You can cast [[5. Mechanics/Spells/Slow.md\|slow]] once using a warlock spell slot. You can't do so again until you finish a long rest.

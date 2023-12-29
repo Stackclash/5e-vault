@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/cleric/order
 - compendium/src/5e/tce
 - domain/order
+- subclass/cleric/order
 aliases: ["Order Domain"]
 ---
 # Order Domain

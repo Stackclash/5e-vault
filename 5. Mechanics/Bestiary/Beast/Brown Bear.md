@@ -12,7 +12,7 @@ tags:
 statblock: inline
 aliases: ["Brown Bear"]
 ---
-# [Brown Bear](compendium\bestiary\beast/brown-bear.md)
+# [[5. Mechanics\Bestiary\Beast\Brown Bear.md|Brown Bear]]
 *Source: Monster Manual p. 319. Available in the SRD and the Basic Rules.*  
 
 ```statblock

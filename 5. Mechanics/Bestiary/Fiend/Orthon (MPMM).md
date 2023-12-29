@@ -12,7 +12,7 @@ tags:
 statblock: inline
 aliases: ["Orthon"]
 ---
-# [Orthon](compendium\bestiary\fiend/orthon-mpmm.md)
+# [[5. Mechanics\Bestiary\Fiend\Orthon (MPMM).md|Orthon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 205*  
 
 When an archduke of the Nine Hells needs a creature tracked, found, and either done away with or captured, the task usually falls to an orthon. These devils are infernal bounty hunters, tireless in their pursuit of their quarry across the multiverse.

@@ -17,7 +17,7 @@ tags:
 statblock: inline
 aliases: ["Vampiric Mist"]
 ---
-# [Vampiric Mist](compendium\bestiary\undead/vampiric-mist-mpmm.md)
+# [[5. Mechanics\Bestiary\Undead\Vampiric Mist (MPMM).md|Vampiric Mist]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 250*  
 
 In billowing clouds of fog lurk vampiric mists, the wretched remnants of [[5. Mechanics/Bestiary/Undead/Vampire.md|vampires]] that were prevented from finding rest. Indistinguishable from the mists they lurk within, they strike unseen and undetected to bleed their victims dry.

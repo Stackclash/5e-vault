@@ -12,7 +12,7 @@ tags:
 statblock: inline
 aliases: ["Boneclaw"]
 ---
-# [Boneclaw](compendium\bestiary\undead/boneclaw-mpmm.md)
+# [[5. Mechanics\Bestiary\Undead\Boneclaw (MPMM).md|Boneclaw]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 66*  
 
 A wizard who tries to become a lich but fails might become a boneclaw instead. These hideous, cackling monsters share a few of liches' attributes, but while liches are immortal masters of the arcane, boneclaws are thralls to evil, hatred, and pain.

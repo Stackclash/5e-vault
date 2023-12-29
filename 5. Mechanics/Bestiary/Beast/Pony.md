@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Pony"]
 ---
-# [Pony](compendium\bestiary\beast/pony.md)
+# [[5. Mechanics\Bestiary\Beast\Pony.md|Pony]]
 *Source: Monster Manual p. 335. Available in the SRD and the Basic Rules.*  
 
 ```statblock

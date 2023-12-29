@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Homunculus"]
 ---
-# [Homunculus](compendium\bestiary\construct/homunculus.md)
+# [[5. Mechanics\Bestiary\Construct\Homunculus.md|Homunculus]]
 *Source: Monster Manual p. 188, Eberron: Rising from the Last War. Available in the SRD.*  
 
 Shaping a mixture of clay, ash, mandrake root, and blood, one can channel rare ritual magic to create a faithful, squirrel-sized companion.

@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Dryad"]
 ---
-# [Dryad](compendium\bestiary\fey/dryad.md)
+# [[5. Mechanics\Bestiary\Fey\Dryad.md|Dryad]]
 *Source: Monster Manual p. 121. Available in the SRD.*  
 
 Travelers entering a forest might catch a glimpse of a feminine form flitting through the trees. Warm laughter hangs on the air, drawing those who hear it deeper into the emerald shadows.

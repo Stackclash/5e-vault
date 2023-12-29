@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Animated Object (Tiny)"]
 ---
-# [Animated Object (Tiny)](compendium\bestiary\construct/animated-object-tiny.md)
+# [[5. Mechanics\Bestiary\Construct\Animated Object Tiny.md|Animated Object (Tiny)]]
 *Source: Player's Handbook p. 213*  
 
 ```statblock

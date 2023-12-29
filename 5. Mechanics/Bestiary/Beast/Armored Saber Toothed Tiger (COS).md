@@ -1,89 +1,58 @@
 ---
 obsidianUIMode: preview
-pronounced: 
-race: 
-sex: 
-age: 
-alignment: 
-condition: healthy
-occupation: 
-group: 
-religion: 
-location: 
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes:
+cssclasses: json5e-monster
+tags:
+- compendium/src/5e/cos
+- monster/cr/3
+- monster/size/large
+- monster/type/beast
+statblock: inline
+aliases: ["Armored Saber-Toothed Tiger"]
 ---
+# [[5. Mechanics\Bestiary\Beast\Armored Saber Toothed Tiger (COS).md|Armored Saber-Toothed Tiger]]
+*Source: Curse of Strahd p. 115*  
 
-> [!infobox]
-> # `=this.file.name`
-> **Pronounced:**  "`=this.pronounced`"
-> ![[PlaceholderImage.png|cover hm-sm]]
-> ###### Bio
->  |
-> ---|---|
-> **Race** | `=this.race` |
-> **Sex** | `=this.gender` |
-> **Age** | `=this.age` |
-> **Sexuality** | `=this.sexuality` |
-> **Alignment** | `=this.alignment` |
-> **Condition** | `=this.condition` |
-> ###### Info
->  |
-> ---|---|
-> **Alias(es)** | `=this.alias` |
-> **Occupation(s)** | `=this.occupation` |
-> **Group(s)** | `=link(this.AssociatedGroup)` |
-> **Religion(s)** | `=link(this.AssociatedReligion)` |
-> **Current Location** | `=link(this.location)` |
-
-# **`=this.file.name`**
-> [!info|bg-c-purple]- Overview
-TBD
-
-> [!column] Traits
->> [!metadata|text-Center bg-c-gray] Personality
->> `=this.personality`
->
->> [!metadata|text-Center bg-c-gray] Ideal
->> `=this.ideal`
->
->> [!metadata|text-Center bg-c-gray] Bond
->> `=this.Bond`
->
->> [!metadata|text-Center bg-c-gray] Flaw
->> `=this.flaw`
->
->> [!metadata|text-Center bg-c-green] Likes
->> `=this.likes`
->
->> [!metadata|text-Center bg-c-red] Dislikes
->> `=this.dislikes`
-
-> [!column|dataview] Goals
->> `=this.goals`
-
-## Acquaintances
-> [!column|dataview] Acquaintances
->> [!metadata|text-Center bg-c-green]- Friends & Family
->> TBD
->
->> [!metadata|text-Center bg-c-red]- Rivals
->> TBD
->
-
-## History
-TBD
-
-## DM Notes
-### Plot Hooks
-
-
-### Hidden Details
-
-
-### General Notes
+```statblock
+"name": "Armored Saber-Toothed Tiger (CoS)"
+"size": "Large"
+"type": "beast"
+"alignment": "Unaligned"
+"ac": !!int "17"
+"hp": !!int "84"
+"hit_dice": "7d10 + 14"
+"stats":
+- !!int "18"
+- !!int "14"
+- !!int "15"
+- !!int "3"
+- !!int "12"
+- !!int "8"
+"speed": "40 ft."
+"skillsaves":
+  "Stealth": !!int "6"
+  "Perception": !!int "3"
+"senses": "passive Perception 13"
+"languages": ""
+"cr": "3"
+"traits":
+- "desc": "The tiger has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+    \ checks that rely on smell."
+  "name": "Keen Smell"
+- "desc": "If the tiger moves at least 20 feet straight toward a creature and then\
+    \ hits it with a claw attack on the same turn, that target must succeed on a DC\
+    \ 14 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
+    \ If the target is [[/5. Mechanics/Rules/Conditions.md#prone|prone]], the tiger can\
+    \ make one bite attack against it as a bonus action."
+  "name": "Pounce"
+"actions":
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 1d10 + 5|avg (1d10 + 5) piercing damage."
+  "name": "Bite"
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 2d6 + 5|avg (2d6 + 5) slashing damage."
+  "name": "Claw"
+"source":
+- "CoS"
+"image": "compendium/bestiary/beast/token/armored-saber-toothed-tiger.png"
+```
+^statblock

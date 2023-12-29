@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Tarkanan Assassin"]
 ---
-# [Tarkanan Assassin](compendium\bestiary\humanoid/tarkanan-assassin-erlw.md)
+# [[5. Mechanics\Bestiary\Humanoid\Tarkanan Assassin (ERLW).md|Tarkanan Assassin]]
 *Source: Eberron: Rising from the Last War p. 320*  
 
 Tarkanan assassins are the elite killers, spies, and thieves who work for House Tarkanan, a criminal organization specializing in theft and assassination. In addition to their deadly skill, a Tarkanan assassin possesses an aberrant dragonmark—a twisted sigil that provides them with magical power. House Tarkanan actively seeks and recruits people with aberrant dragonmarks.

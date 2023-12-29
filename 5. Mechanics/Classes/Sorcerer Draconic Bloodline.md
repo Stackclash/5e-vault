@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/sorcerer/draconic
 - compendium/src/5e/phb
+- subclass/sorcerer/draconic
 aliases: ["Draconic Bloodline"]
 ---
 # Draconic Bloodline

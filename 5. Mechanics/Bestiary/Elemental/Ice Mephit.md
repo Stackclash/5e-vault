@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Ice Mephit"]
 ---
-# [Ice Mephit](compendium\bestiary\elemental/ice-mephit.md)
+# [[5. Mechanics\Bestiary\Elemental\Ice Mephit.md|Ice Mephit]]
 *Source: Monster Manual p. 215. Available in the SRD.*  
 
 ## Mephits

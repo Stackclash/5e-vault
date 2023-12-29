@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Theurgist"]
 ---
-# [Theurgist](compendium\bestiary\humanoid/theurgist-saf.md)
+# [[5. Mechanics\Bestiary\Humanoid\Theurgist (SAF).md|Theurgist]]
 *Source: Strongholds and Followers p. 81*  
 
 ```statblock

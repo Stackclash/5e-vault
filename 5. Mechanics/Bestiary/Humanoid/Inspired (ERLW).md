@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Inspired"]
 ---
-# [Inspired](compendium\bestiary\humanoid/inspired-erlw.md)
+# [[5. Mechanics\Bestiary\Humanoid\Inspired (ERLW).md|Inspired]]
 *Source: Eberron: Rising from the Last War p. 294*  
 
 The rulers of distant Sarlona are known as the Inspired. These noble families are said to be bound to celestial spirits that guide and empower them, but the truth is far darker. The Inspired are the mortal hosts of the nightmare spirits of Dal Quor, and they carry out the foul agenda of the Dreaming Dark.
