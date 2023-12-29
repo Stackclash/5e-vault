@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Mechanics/Backgrounds/Backgrounds.md",
+                "file": "4. World Almanac/NPCs/Cyrus Belview.md",
                 "mode": "preview",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Mechanics/Backgrounds/Backgrounds.md",
+                "file": "4. World Almanac/NPCs/Cyrus Belview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Mechanics/Backgrounds/Backgrounds.md",
+                "file": "4. World Almanac/NPCs/Cyrus Belview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Mechanics/Backgrounds/Backgrounds.md"
+                "file": "4. World Almanac/NPCs/Cyrus Belview.md"
               }
             }
           },
@@ -194,6 +194,23 @@
   },
   "active": "011282159847b156",
   "lastOpenFiles": [
+    "4. World Almanac/NPCs/Corrin Delmaco.md",
+    "4. World Almanac/NPCs/Clovin Belview.md",
+    "4. World Almanac/NPCs/Bray Martikov.md",
+    "4. World Almanac/NPCs/Brom Martikov.md",
+    "4. World Almanac/NPCs/Bonebreaker Dorokor.md",
+    "4. World Almanac/NPCs/Bluto Krogarov.md",
+    "4. World Almanac/NPCs/Beucephalus.md",
+    "4. World Almanac/NPCs/Belashyrra.md",
+    "4. World Almanac/NPCs/Baron Vargas Vallakovich.md",
+    "4. World Almanac/NPCs/Baron Malgas.md",
+    "4. World Almanac/NPCs/Baphomet.md",
+    "4. World Almanac/NPCs/Baba Lysagas Creeping Hut.md",
+    "4. World Almanac/NPCs/Baba Lysaga.md",
+    "4. World Almanac/NPCs/Arabelle.md",
+    "5. Mechanics/Deities/Deities.md",
+    "5. Mechanics/Deities/Celtic Arawn.md",
+    "5. Mechanics/Backgrounds/Backgrounds.md",
     "5. Mechanics/Bestiary/Construct/Construct.md",
     "5. Mechanics/Bestiary/Construct/Animated Halberd.md",
     "5. Mechanics/Bestiary/Construct/Animated Halberd (COS).md",
@@ -203,9 +220,6 @@
     "5. Mechanics/Classes/Artificer Alchemist (TCE).md",
     "5. Mechanics/Classes/Artificer (TCE).md",
     "5. Mechanics/Bestiary/Aberration/Aberration.md",
-    "3. The Party/Parties/Parties.md",
-    "3. The Party/Players/Players.md",
-    "3. The Party/Parties/Curse of Strahd.md",
     "4. World Almanac/NPCs/token/zygfrek-belview.png",
     "4. World Almanac/NPCs/token/zuleika-toranescu.png",
     "4. World Almanac/NPCs/token/yevgeni-krushkin.png",
@@ -217,20 +231,6 @@
     "4. World Almanac/NPCs/token/urwin-martikov.png",
     "4. World Almanac/NPCs/token/thornboldt-thorn-durst.png",
     "4. World Almanac/NPCs/token",
-    "4. World Almanac/NPCs/Stella Wachter.md",
-    "4. World Almanac/NPCs/Stanimir.md",
-    "4. World Almanac/NPCs/Sir Godfrey Gwilym.md",
-    "4. World Almanac/NPCs/Savid.md",
-    "4. World Almanac/NPCs/Sangzor.md",
-    "4. World Almanac/NPCs/Rosavalda Rose Durst.md",
-    "4. World Almanac/NPCs/Rictavio.md",
-    "4. World Almanac/NPCs/Rahadin.md",
-    "4. World Almanac/NPCs/Lief Lipsiege.md",
-    "4. World Almanac/NPCs/Lady Lydia Petrovna.md",
-    "4. World Almanac/NPCs/Lady Fiona Wachter.md",
-    "4. World Almanac/NPCs/Kiril Stoyanovich.md",
-    "4. World Almanac/NPCs/Kasimir Velikov.md",
-    "4. World Almanac/NPCs/Izek Strazni.md",
     "compendium/bestiary/undead/token",
     "compendium/bestiary/plant/token",
     "compendium/bestiary/npc/token",
