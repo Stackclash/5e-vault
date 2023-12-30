@@ -28,10 +28,10 @@ High story beats, main things I want to happen this session.
 
 # Session
 ## Start
-Weary from restoring order within the church, you found the town marinating in silent fury. The Baron's residence, an ominous silhouette against the night, stood silent and guarded, its once-vocal occupants mysteriously absent.
+Weary from restoring order within the church, you found the town marinating in silent fury. The Baron's residence, an ominous silhouette against the night, stood silent and guarded, its once-vocal occupants mysteriously absent from the aftermath of the chaos that ensued.
 Anger simmered beneath the surface, whispered grievances and furious murmurs building a tempest of resentment. In the cold light of morning, a transformed village revealed itself. A makeshift gallows stood defiantly in the square, a grim testament to the pent-up rage within every soul. Fiona Watcher, a spectral puppeteer orchestrating chaos, reveled in the twisted dance of the mob.
-As the silent march of the accused began, Baron Vargas Vallakovich and his wife were held up in their house under guard. The mob hungered for justice, or perhaps just an outlet for their suffering.
-In the eleventh hour, you emerged like specters from the gloom, confronting the madness. A desperate struggle ensued in the dawn's pale light to save the Baron and his wife from the noose. Amidst the chaos, a chilling realization took hold: Victor Vallakovich, the Baron's son, was nowhere to be found.
+As the silent march of the accused began, Baron Vargas Vallakovich and his wife stood condemned before accusing eyes. The mob hungered for justice, or perhaps just an outlet for their suffering.
+In the eleventh hour, you emerged like beacons from the shadows, confronting the madness. A desperate struggle ensued in the dawn's pale light to save the Baron and his wife from the noose. Amidst the chaos, a chilling realization took hold: Victor Vallakovich, the Baron's son, was nowhere to be found.
 As the tumult subsided, a lingering question hung like a ghostly wail: Where was Victor Vallakovich, lost in the shadows of that cursed night? The village, scarred by its own demons, awaited an answer, and you navigated Barovia's twisted labyrinth to unveil the secrets hidden in the folds of darkness.
 
 ## Loot, Rewards & Purchases
