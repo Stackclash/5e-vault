@@ -40,18 +40,15 @@ Loot, rewards and purchases.
 Things to keep in mind during the session, from items to important details
 
 ## Events
-What transpired over the course of the session? Update this during the session!
+The party having stayed off Strahd's ad
 
 # Summary
 ## New NPCs
 New NPC Met.
-- [[Fiona Wachter]] 
-- Example 2
+- [[Fiona Wachter]]
 
 ## New Locations
-New Locations Discovered.
-- Example 1
-- Example 2
+
 
 ## End of Session Notes
-Anything to take note of as the session has come to a close.
+While the party was able to save [[Baron Vargas Vallakovich]] and his wife. [[Victor Vallakovich]] is still missing.
