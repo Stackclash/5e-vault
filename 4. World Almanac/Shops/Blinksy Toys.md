@@ -1,10 +1,11 @@
 ---
 obsidianUIMode: preview
-owners: 
+owners: "[[Gadof Blinsky]]"
 staff: 
 cost_modifier: 
-settlement_shop: "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
-items: []
+settlement_shop:
+  - "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
+items: 
 location: "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
 ---
 > [!infobox]
