@@ -21,8 +21,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. The Party/Session Logs/The Mob of Vallaki.md",
-                "mode": "preview",
+                "file": "3. The Party/Session Logs/Untitled.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/Session Logs/The Mob of Vallaki.md",
+                "file": "3. The Party/Session Logs/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/Session Logs/The Mob of Vallaki.md",
+                "file": "3. The Party/Session Logs/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/Session Logs/The Mob of Vallaki.md"
+                "file": "3. The Party/Session Logs/Untitled.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3. The Party/Session Logs/The Mob of Vallaki.md"
+                "file": "3. The Party/Session Logs/Untitled.md"
               }
             }
           }
@@ -213,10 +213,10 @@
   },
   "active": "4b7ee235544733f2",
   "lastOpenFiles": [
+    "3. The Party/Session Logs/The Mob of Vallaki.md",
     "3. The Party/Session Logs/Session Logs.md",
     "3. The Party/Session Logs/Untitled.md",
     "3. The Party/Session Logs/Never Trust a Hunter.md",
-    "3. The Party/Session Logs/The Mob of Vallaki.md",
     "4. World Almanac/Shops/Shops.md",
     "4. World Almanac/Settlements/Settlements.md",
     "4. World Almanac/Regions/Regions.md",
