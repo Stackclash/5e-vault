@@ -59,14 +59,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/NPCs/Gertruda.md",
+                "file": "3. The Party/Players/Seluvis Felo'melorn.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/06 Chapter-4 Castle Ravenloft.md",
+                "file": "3. The Party/Players/Seluvis Felo'melorn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/06 Chapter-4 Castle Ravenloft.md",
+                "file": "3. The Party/Players/Seluvis Felo'melorn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/06 Chapter-4 Castle Ravenloft.md"
+                "file": "3. The Party/Players/Seluvis Felo'melorn.md"
               }
             }
           },
@@ -239,14 +239,16 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "a82611029df95310",
+  "active": "a2b14982bcec2603",
   "lastOpenFiles": [
+    "3. The Party/Players/Redgrave.md",
+    "3. The Party/Players/Marin.md",
+    "3. The Party/Players/Faerah Duskrane.md",
+    "4. World Almanac/NPCs/Gertruda.md",
     "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
     "6. Resources/5e Modules/Curse Of Strahd/06 Chapter-4 Castle Ravenloft.md",
     "3. The Party/Session Logs/New Session.md",
     "1. DM Screen/Tools/Barovian Names.md",
-    "4. World Almanac/NPCs/Gertruda.md",
-    "3. The Party/Players/Faerah Duskrane.md",
     "3. The Party/Players/Players.md",
     "3. The Party/Session Logs/Session Logs.md",
     "3. The Party/Players/Yevelda Ovak.md",
@@ -278,7 +280,6 @@
     "4. World Almanac/NPCs/Stella Wachter.md",
     "4. World Almanac/NPCs/Stanimir.md",
     "4. World Almanac/NPCs/Sir Godfrey Gwilym.md",
-    "4. World Almanac/NPCs/Savid.md",
     "6. Resources/Resources/A Guide to Curse of Strahd.pdf",
     "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Adventure_-_The_Interactive_Tome_of_Strahd_v2_Printer_Friendly_(updated_04_21_21).pdf",
     "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Adventure_-_The_Interactive_Tome_of_Strahd_v3_-_Color.pdf",
