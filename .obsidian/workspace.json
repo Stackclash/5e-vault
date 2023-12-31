@@ -11,12 +11,8 @@
             "id": "0d3640a761a229ad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. The Party/Session Logs/New Session.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "FANTASY_CALENDAR",
+              "state": {}
             }
           },
           {
@@ -111,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/Session Logs/New Session.md",
+                "file": "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/Session Logs/New Session.md",
+                "file": "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/Session Logs/New Session.md"
+                "file": "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf"
               }
             }
           },
@@ -228,8 +224,8 @@
   },
   "active": "0d3640a761a229ad",
   "lastOpenFiles": [
-    "5. Mechanics/Races/Races.md",
     "3. The Party/Session Logs/New Session.md",
+    "5. Mechanics/Races/Races.md",
     "5. Mechanics/Races/Half Elf.md",
     "5. Mechanics/Races/Elf.md",
     "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
