@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
+                "file": "5. Mechanics/Spells/Glyph Of Warding.md",
                 "mode": "preview",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
+                "file": "5. Mechanics/Spells/Glyph Of Warding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
+                "file": "5. Mechanics/Spells/Glyph Of Warding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md"
+                "file": "5. Mechanics/Spells/Glyph Of Warding.md"
               }
             }
           },
@@ -229,6 +229,8 @@
   },
   "active": "922ee9dbb9743645",
   "lastOpenFiles": [
+    "5. Mechanics/Spells/Spells.md",
+    "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
     "3. The Party/Players/Redgrave.md",
     "3. The Party/Players/Seluvis Felo'melorn.md",
     "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
@@ -240,7 +242,6 @@
     "5. Mechanics/Races/Races.md",
     "5. Mechanics/Races/Half Elf.md",
     "5. Mechanics/Races/Elf.md",
-    "5. Mechanics/Spells/Spells.md",
     "5. Mechanics/Spells/Lesser Restoration.md",
     "5. Mechanics/Spells/Greater Restoration.md",
     "5. Mechanics/Spells/Animate Dead.md",
