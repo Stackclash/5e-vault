@@ -52,8 +52,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cce312256fe164b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Mechanics/Spells/Spells.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -111,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/Session Logs/New Session.md",
+                "file": "5. Mechanics/Spells/Spells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/Session Logs/New Session.md",
+                "file": "5. Mechanics/Spells/Spells.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/Session Logs/New Session.md"
+                "file": "5. Mechanics/Spells/Spells.md"
               }
             }
           },
@@ -226,12 +239,12 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "0d3640a761a229ad",
+  "active": "cce312256fe164b9",
   "lastOpenFiles": [
+    "3. The Party/Session Logs/New Session.md",
     "5. Mechanics/Spells/Spells.md",
     "5. Mechanics/Spells/Animate Dead.md",
     "5. Mechanics/Spells/Resurrection.md",
-    "3. The Party/Session Logs/New Session.md",
     "1. DM Screen/Tools/Barovian Names.md",
     "6. Resources/5e Modules/Curse Of Strahd/06 Chapter-4 Castle Ravenloft.md",
     "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
