@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "3. The Party/Session Logs/New Session.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/06 Chapter-4 Castle Ravenloft.md",
+                "file": "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/06 Chapter-4 Castle Ravenloft.md",
+                "file": "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/06 Chapter-4 Castle Ravenloft.md"
+                "file": "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf"
               }
             }
           },
@@ -214,7 +214,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/06 Chapter-4 Castle Ravenloft.md"
+                "file": "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf"
               }
             }
           }
@@ -245,15 +245,15 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "0b95d70a735ea9cc",
+  "active": "4b7ee235544733f2",
   "lastOpenFiles": [
-    "6. Resources/5e Modules/Curse Of Strahd/img/028-007.jpg",
     "6. Resources/5e Modules/Curse Of Strahd/06 Chapter-4 Castle Ravenloft.md",
     "6. Resources/5e Modules/Curse Of Strahd/img/025-006.jpg",
+    "6. Resources/5e Modules/Curse Of Strahd/img/028-007.jpg",
+    "3. The Party/Session Logs/New Session.md",
     "6. Resources/5e Modules/Curse Of Strahd/img/006-cos02-03.webp",
     "6. Resources/5e Modules/Curse Of Strahd/img/008-cos201.jpg",
     "6. Resources/5e Modules/Curse Of Strahd/img/009-cos02-04.webp",
-    "3. The Party/Session Logs/New Session.md",
     "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
     "3. The Party/Session Logs/The Mob of Vallaki.md",
     "3. The Party/Session Logs/Session Logs.md",
