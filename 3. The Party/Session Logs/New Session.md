@@ -41,7 +41,7 @@ Loot, rewards and purchases.
 Things to keep in mind during the session, from items to important details
 
 ## Events
-What transpired over the course of the session? Update this during the session!
+- The party goes through Victor's teleportation 
 
 # Summary
 ## New NPCs
