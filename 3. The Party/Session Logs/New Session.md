@@ -41,7 +41,10 @@ Loot, rewards and purchases.
 Things to keep in mind during the session, from items to important details
 
 ## Events
-- The party goes through Victor's teleportation circle and 
+- The party goes through Victor's teleportation circle and end up in the [[Village of Barovia]] 
+- They try to find [[Gertruda]]. They find letters from Victor.
+- When they try to take the teleportation circle back they end up in Strahd's Castle
+- 
 
 # Summary
 ## New NPCs

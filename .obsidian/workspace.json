@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. The Party/Session Logs/New Session.md",
-                "mode": "source",
+                "file": "5. Mechanics/Spells/Animate Dead.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/Session Logs/New Session.md",
+                "file": "5. Mechanics/Spells/Animate Dead.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/Session Logs/New Session.md",
+                "file": "5. Mechanics/Spells/Animate Dead.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/Session Logs/New Session.md"
+                "file": "5. Mechanics/Spells/Animate Dead.md"
               }
             }
           },
@@ -228,6 +228,9 @@
   },
   "active": "0d3640a761a229ad",
   "lastOpenFiles": [
+    "5. Mechanics/Spells/Spells.md",
+    "5. Mechanics/Spells/Resurrection.md",
+    "3. The Party/Session Logs/New Session.md",
     "1. DM Screen/Tools/Barovian Names.md",
     "6. Resources/5e Modules/Curse Of Strahd/06 Chapter-4 Castle Ravenloft.md",
     "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
@@ -237,7 +240,6 @@
     "3. The Party/Players/Marin.md",
     "3. The Party/Players/Faerah Duskrane.md",
     "4. World Almanac/NPCs/Gertruda.md",
-    "3. The Party/Session Logs/New Session.md",
     "3. The Party/Players/Players.md",
     "3. The Party/Session Logs/Session Logs.md",
     "5. Mechanics/Spells/Spirit Guardians.md",
@@ -265,7 +267,6 @@
     "4. World Almanac/NPCs/The Abbot.md",
     "4. World Almanac/NPCs/Strahds Animated Armor.md",
     "4. World Almanac/NPCs/Strahd Von Zarovich.md",
-    "4. World Almanac/NPCs/Stella Wachter.md",
     "6. Resources/Resources/A Guide to Curse of Strahd.pdf",
     "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Adventure_-_The_Interactive_Tome_of_Strahd_v2_Printer_Friendly_(updated_04_21_21).pdf",
     "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Adventure_-_The_Interactive_Tome_of_Strahd_v3_-_Color.pdf",
