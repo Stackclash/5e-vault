@@ -29,8 +29,8 @@ High story beats, main things I want to happen this session.
 ## Start
 Weary from restoring order within the church, you found the town marinating in silent fury. The Baron's residence, an ominous silhouette against the night, stood silent and guarded, its once-vocal occupants mysteriously absent from the aftermath of the chaos that ensued.
 Anger simmered beneath the surface, whispered grievances and furious murmurs building a tempest of resentment. In the cold light of morning, a transformed village revealed itself. A makeshift gallows stood defiantly in the square, a grim testament to the pent-up rage within every soul. Fiona Watcher, a spectral puppeteer orchestrating chaos, reveled in the twisted dance of the mob.
-As the silent march of the accused began, Baron Vargas Vallakovich and his wife stood condemned before accusing eyes. The mob hungered for justice, or perhaps just an outlet for their suffering.
-In the eleventh hour, you emerged like beacons from the shadows, confronting the madness. The air crackled with tension as you fiercely interceded to prevent the execution of Baron Vargas Vallakovich and his wife. Amidst the chaos, a chilling realization took hold: Victor Vallakovich, the Baron's son, was nowhere to be found.
+As the march of the accused began, Baron Vargas Vallakovich and his wife stood condemned before accusing eyes. The mob hungered for justice, or perhaps just an outlet for their suffering.
+In the eleventh hour, you emerged like beacons from the shadows, confronting the madness. The air crackled with tension as you fiercely interceded to prevent the execution of Baron Vargas Vallakovich and his wife. With divine radiance you show the villagers a better way. Though the anger, pain, and misery still boils beneath the surface they amenable for the time being, trusting in the town's saviors. Amidst the chaos, a chilling realization took hold: Victor Vallakovich, the Baron's son, is nowhere to be found.
 
 ## Loot, Rewards & Purchases
 Loot, rewards and purchases.
