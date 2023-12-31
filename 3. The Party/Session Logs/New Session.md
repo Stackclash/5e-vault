@@ -21,10 +21,8 @@ Things I need to get ready before the session:
 
 ## Plan
 High story beats, main things I want to happen this session.
-- [ ] Point 1
-    - [ ] Sub Point 1
-- [ ] Point 2
-    - [ ] Sub Point 1
+- [ ] Victor took his teleportation circle to [[Gertruda]] 
+- [ ] 
 
 # Session
 ## Start
@@ -47,13 +45,11 @@ What transpired over the course of the session? Update this during the session!
 # Summary
 ## New NPCs
 New NPC Met.
-- Example 1
-- Example 2
+
 
 ## New Locations
 New Locations Discovered.
-- Example 1
-- Example 2
+
 
 ## End of Session Notes
 Anything to take note of as the session has come to a close.
