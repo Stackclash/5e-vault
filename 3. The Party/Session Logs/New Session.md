@@ -41,7 +41,7 @@ Loot, rewards and purchases.
 Things to keep in mind during the session, from items to important details
 
 ## Events
-- The party goes through Victor's teleportation 
+- The party goes through Victor's teleportation circle and 
 
 # Summary
 ## New NPCs

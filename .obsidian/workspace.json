@@ -53,8 +53,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/06 Chapter-4 Castle Ravenloft.md",
+                "file": "3. The Party/Session Logs/New Session.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/06 Chapter-4 Castle Ravenloft.md",
+                "file": "3. The Party/Session Logs/New Session.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/06 Chapter-4 Castle Ravenloft.md"
+                "file": "3. The Party/Session Logs/New Session.md"
               }
             }
           },
@@ -227,17 +226,17 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "a82611029df95310",
+  "active": "0d3640a761a229ad",
   "lastOpenFiles": [
-    "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
     "1. DM Screen/Tools/Barovian Names.md",
+    "6. Resources/5e Modules/Curse Of Strahd/06 Chapter-4 Castle Ravenloft.md",
+    "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
     "3. The Party/Players/Yevelda Ovak.md",
     "3. The Party/Players/Seluvis Felo'melorn.md",
     "3. The Party/Players/Redgrave.md",
     "3. The Party/Players/Marin.md",
     "3. The Party/Players/Faerah Duskrane.md",
     "4. World Almanac/NPCs/Gertruda.md",
-    "6. Resources/5e Modules/Curse Of Strahd/06 Chapter-4 Castle Ravenloft.md",
     "3. The Party/Session Logs/New Session.md",
     "3. The Party/Players/Players.md",
     "3. The Party/Session Logs/Session Logs.md",
