@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Fate"]
 ---
-# [Fate](compendium\bestiary\construct/fate-saf.md)
+# [[5. Mechanics\Bestiary\Construct\Fate (SAF).md|Fate]]
 *Source: Strongholds and Followers p. 230*  
 
 The Law of Fate forces events to have predetermined outcomes whether you like it or not. There is no chance when Fate is present. All things proceed as the universe intends, and neither good nor bad luck is possible.

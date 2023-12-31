@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Cave Bear"]
 ---
-# [Cave Bear](compendium\bestiary\beast/cave-bear.md)
+# [[5. Mechanics\Bestiary\Beast\Cave Bear.md|Cave Bear]]
 *Source: Monster Manual p. 334*  
 
 ```statblock

@@ -9,8 +9,8 @@ tags:
 statblock: inline
 aliases: ["Barovian Commoner"]
 ---
-# [Barovian Commoner](compendium\bestiary\humanoid/barovian-commoner-cos.md)
-*Source: Curse of Strahd p. 29, Derived from *  
+# [[5. Mechanics\Bestiary\Humanoid\Barovian Commoner (COS).md|Barovian Commoner]]
+*Source: Curse of Strahd p. 29*  
 
 ```statblock
 "name": "Barovian Commoner (CoS)"

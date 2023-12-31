@@ -14,7 +14,7 @@ tags:
 statblock: inline
 aliases: ["Giant Constrictor Snake"]
 ---
-# [Giant Constrictor Snake](compendium\bestiary\beast/giant-constrictor-snake.md)
+# [[5. Mechanics\Bestiary\Beast\Giant Constrictor Snake.md|Giant Constrictor Snake]]
 *Source: Monster Manual p. 324. Available in the SRD and the Basic Rules.*  
 
 ```statblock

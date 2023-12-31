@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Illusionist"]
 ---
-# [Illusionist](compendium\bestiary\humanoid/illusionist-saf.md)
+# [[5. Mechanics\Bestiary\Humanoid\Illusionist (SAF).md|Illusionist]]
 *Source: Strongholds and Followers p. 81*  
 
 ```statblock

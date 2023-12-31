@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/cleric/knowledge
 - compendium/src/5e/phb
 - domain/knowledge
+- subclass/cleric/knowledge
 aliases: ["Knowledge Domain"]
 ---
 # Knowledge Domain

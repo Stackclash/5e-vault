@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/bard/swords
 - compendium/src/5e/xge
+- subclass/bard/swords
 aliases: ["College of Swords"]
 ---
 # College of Swords

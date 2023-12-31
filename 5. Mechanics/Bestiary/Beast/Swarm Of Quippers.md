@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Swarm of Quippers"]
 ---
-# [Swarm of Quippers](compendium\bestiary\beast/swarm-of-quippers.md)
+# [[5. Mechanics\Bestiary\Beast\Swarm Of Quippers.md|Swarm of Quippers]]
 *Source: Monster Manual p. 338. Available in the SRD and the Basic Rules.*  
 
 > [!note] The Nature of Swarms

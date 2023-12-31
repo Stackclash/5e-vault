@@ -6,7 +6,7 @@ tags:
 aliases: ["Deck of Many Things (13 Cards)"]
 ---
 # Deck of Many Things (13 Cards)
-*Source: Dungeon Master's Guide p. 162, Derived from . Available in the SRD.*  
+*Source: Dungeon Master's Guide p. 162. Available in the SRD.*  
 
 Usually found in a box or pouch, this deck contains a number of cards made of ivory or vellum. Most (75% chance) of these decks have only thirteen cards, but the rest have twenty-two.
 

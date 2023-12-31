@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/sorcerer/clockwork-soul
 - compendium/src/5e/tce
+- subclass/sorcerer/clockwork-soul
 aliases: ["Clockwork Soul"]
 ---
 # Clockwork Soul

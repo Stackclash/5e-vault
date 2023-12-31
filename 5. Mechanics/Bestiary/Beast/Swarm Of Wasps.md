@@ -16,7 +16,7 @@ tags:
 statblock: inline
 aliases: ["Swarm of Wasps"]
 ---
-# [Swarm of Wasps](compendium\bestiary\beast/swarm-of-wasps.md)
+# [[5. Mechanics\Bestiary\Beast\Swarm Of Wasps.md|Swarm of Wasps]]
 *Source: Monster Manual p. 338, Curse of Strahd. Available in the SRD.*  
 
 > [!note] The Nature of Swarms

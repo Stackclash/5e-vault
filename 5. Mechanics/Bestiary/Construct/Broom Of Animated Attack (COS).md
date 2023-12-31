@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Broom of Animated Attack"]
 ---
-# [Broom of Animated Attack](compendium\bestiary\construct/broom-of-animated-attack-cos.md)
+# [[5. Mechanics\Bestiary\Construct\Broom Of Animated Attack (COS).md|Broom of Animated Attack]]
 *Source: Curse of Strahd p. 226*  
 
 A broom of animated attack is easily mistaken for a broom of flying. It attacks any creature that grabs it or tries to ride it.

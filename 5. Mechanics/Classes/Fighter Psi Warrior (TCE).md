@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/fighter/psi-warrior
 - compendium/src/5e/tce
+- subclass/fighter/psi-warrior
 aliases: ["Psi Warrior"]
 ---
 # Psi Warrior

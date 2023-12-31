@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Elemental Acolyte"]
 ---
-# [Elemental Acolyte](compendium\bestiary\humanoid/elemental-acolyte-saf.md)
+# [[5. Mechanics\Bestiary\Humanoid\Elemental Acolyte (SAF).md|Elemental Acolyte]]
 *Source: Strongholds and Followers p. 76*  
 
 ```statblock

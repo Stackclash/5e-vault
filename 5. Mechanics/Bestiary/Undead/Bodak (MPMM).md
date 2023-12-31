@@ -12,7 +12,7 @@ tags:
 statblock: inline
 aliases: ["Bodak"]
 ---
-# [Bodak](compendium\bestiary\undead/bodak-mpmm.md)
+# [[5. Mechanics\Bestiary\Undead\Bodak (MPMM).md|Bodak]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 64*  
 
 A bodak is the undying remains of someone who revered Orcus. Devoid of life and soul, it exists only to cause death.

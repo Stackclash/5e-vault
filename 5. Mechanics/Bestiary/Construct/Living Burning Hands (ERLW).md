@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Living Burning Hands"]
 ---
-# [Living Burning Hands](compendium\bestiary\construct/living-burning-hands-erlw.md)
+# [[5. Mechanics\Bestiary\Construct\Living Burning Hands (ERLW).md|Living Burning Hands]]
 *Source: Eberron: Rising from the Last War p. 298*  
 
 ## Constructed Nature

@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Ulitharid"]
 ---
-# [Ulitharid](compendium\bestiary\aberration/ulitharid-mpmm.md)
+# [[5. Mechanics\Bestiary\Aberration\Ulitharid (MPMM).md|Ulitharid]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 249*  
 
 Very rarely, when a tadpole from the brine pool of an [[5. Mechanics/Bestiary/Aberration/Elder Brain (MPMM).md|elder brain]] is implanted into a creature, that creature transforms into an ulitharid: a larger and more potent [[5. Mechanics/Bestiary/Aberration/Mind Flayer.md|mind flayer]] with six tentacles. Illithids innately recognize that an ulitharid's survival is more important than their own. An [[5. Mechanics/Bestiary/Aberration/Elder Brain (MPMM).md|elder brain's]] reaction to the rise of an ulitharid varies. In most colonies, the ulitharid becomes an elder brain's most favored servant, invested with power and authority. In others, the [[5. Mechanics/Bestiary/Aberration/Elder Brain (MPMM).md|elder brain]] perceives an ulitharid as a potential rival and manipulates or quashes the ulitharid's ambitions accordingly.

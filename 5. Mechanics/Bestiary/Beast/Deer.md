@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Deer"]
 ---
-# [Deer](compendium\bestiary\beast/deer.md)
+# [[5. Mechanics\Bestiary\Beast\Deer.md|Deer]]
 *Source: Monster Manual p. 321. Available in the SRD and the Basic Rules.*  
 
 ```statblock

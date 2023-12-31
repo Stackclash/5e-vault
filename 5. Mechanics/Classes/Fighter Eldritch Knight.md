@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/fighter/eldritch-knight
 - compendium/src/5e/phb
+- subclass/fighter/eldritch-knight
 aliases: ["Eldritch Knight"]
 ---
 # Eldritch Knight

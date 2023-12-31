@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/warlock/genie
 - compendium/src/5e/tce
+- subclass/warlock/genie
 aliases: ["The Genie"]
 ---
 # The Genie

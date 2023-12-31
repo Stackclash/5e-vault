@@ -17,6 +17,7 @@ const config = {
                 let newRelativePath = file.relativePath
 
                 newRelativePath = newRelativePath
+                    .replace(/compendium([\\\/])bestiary([\\\/])npc/, (oldText, separator) => `4. World Almanac${separator}NPCs`)
                     .replace(/compendium([\\\/])adventures/, (oldText, separator) => `6. Resources${separator}5e Modules`)
                     .replace(/compendium([\\\/])books/, (oldText, separator) => `6. Resources${separator}Books`)
                     .replace(/compendium/, () => '5. Mechanics')
@@ -37,7 +38,13 @@ const config = {
 
                 newFileName = newFileName
                     .replaceAll(/(^|[\/\\\-])([a-z])(?!mg[\/\\]|oken[\/\\])/g, (oldText, separator, letter) => separator === '-' ? ' '+letter.toUpperCase() : separator+letter.toUpperCase())
-                    .replace(/(HB|DMG|MM|VRGR|XGE|VGM|TCE|MPMM|MTF|CoS|SaF|ERLW)$/i, (oldText, source) => '(' + source.toUpperCase() + ')')
+                    .replace(/\s*(HB|DMG|MM|VRGR|XGE|VGM|TCE|MPMM|MTF|CoS|SaF|ERLW)$/i, (oldText, source) => {
+                        if (/bestiary[\/\\]npc/.test(file.oldPath)) {
+                            return ''
+                        } else {
+                            return ' (' + source.toUpperCase() + ')'
+                        }
+                    })
                 
                 return newFileName
             }
@@ -49,7 +56,7 @@ const config = {
                 return ['.jpg', '.jpeg', '.png', '.webp'].includes(file.fileExtension)
             },
             target: 'content',
-            regex: /\[([\w\s\d,:'\.\(\)\-]*?)\]\(([\w\s\d\/\.\-%\d]+)(#{0,1}\^{0,1}[\-\w%]*)\s{0,1}"{0,1}([\w\d\s:&,'\.\(\)\-]*?)"{0,1}\)/g,
+            regex: /\[([\w\s\d,:'\.\(\)\-]*?)\]\(([\w\s\d\/\\\.\-%\d]+)(#{0,1}\^{0,1}[\-\w%]*)\s{0,1}"{0,1}([\w\d\s:&,'\.\(\)\-]*?)"{0,1}\)/g,
             process: function(file, oldLink, displayText, linkPath, section, title) {
                 let filePath = path.parse(linkPath).dir
                 let fileName = path.parse(linkPath).name
@@ -113,20 +120,20 @@ const config = {
 }
 
 class CompendiumFile {
-    #oldContent
-    #oldPath
+    oldContent
+    oldPath
     path
     content
 
     constructor(filePath) {
-        this.#oldPath = filePath
-        this.path = this.#oldPath
-        this.#oldContent = !['.jpg', '.jpeg', '.png', '.webp'].includes(path.parse(filePath).ext) ? fs.readFileSync(filePath, 'utf-8') : fs.readFileSync(filePath)
-        this.content = this.#oldContent
+        this.oldPath = filePath
+        this.path = this.oldPath
+        this.oldContent = !['.jpg', '.jpeg', '.png', '.webp'].includes(path.parse(filePath).ext) ? fs.readFileSync(filePath, 'utf-8') : fs.readFileSync(filePath)
+        this.content = this.oldContent
         this.execute = () => {
             fs.mkdirSync(path.parse(this.path).dir, {recursive: true})
             fs.writeFileSync(this.path, this.content)
-            fs.unlinkSync(this.#oldPath)
+            fs.unlinkSync(this.oldPath)
         }
     }
 

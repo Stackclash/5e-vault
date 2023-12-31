@@ -13,7 +13,7 @@ tags:
 statblock: inline
 aliases: ["Gnoll Witherling"]
 ---
-# [Gnoll Witherling](compendium\bestiary\undead/gnoll-witherling-mpmm.md)
+# [[5. Mechanics\Bestiary\Undead\Gnoll Witherling (MPMM).md|Gnoll Witherling]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 145*  
 
 > [!quote]- A quote from Mordenkainen  

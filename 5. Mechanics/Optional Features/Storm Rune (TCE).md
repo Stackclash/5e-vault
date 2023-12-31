@@ -9,7 +9,7 @@ aliases: ["Storm Rune"]
 # Storm Rune
 *Source: Tasha's Cauldron of Everything p. 45*  
 
-***Prerequisites*** 7th-level Fighter
+***Prerequisites*** 7th-level
 
 Using this rune, you can glimpse the future like a storm giant seer. While wearing or carrying an object inscribed with this rune, you have advantage on Intelligence ([[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]]) checks, and you can't be surprised as long as you aren't [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]].
 

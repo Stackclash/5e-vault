@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["White Tusk Bloodrager"]
 ---
-# [White Tusk Bloodrager](compendium\bestiary\humanoid/white-tusk-bloodrager-saf.md)
+# [[5. Mechanics\Bestiary\Humanoid\White Tusk Bloodrager (SAF).md|White Tusk Bloodrager]]
 *Source: Strongholds and Followers p. 139*  
 
 Bloodragers of the White Tusk clan practice the art of death and express their mastery with precise strokes of their dual falchions. They are the most disciplined orcs in the White Tusk clan, and train daily with Bonebreaker Dorokor to hone their Skills.

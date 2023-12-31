@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Shadow Priest"]
 ---
-# [Shadow Priest](compendium\bestiary\humanoid/shadow-priest-saf.md)
+# [[5. Mechanics\Bestiary\Humanoid\Shadow Priest (SAF).md|Shadow Priest]]
 *Source: Strongholds and Followers p. 74*  
 
 ```statblock

@@ -38,14 +38,4 @@ A powerful night hag creates one or more of the following additional regional ef
 
 - Shadows seem abnormally gaunt and sometimes move on their own as though alive.  
 - Creatures are transported to a harmless but eerie demiplane filled with shadowy forms, waxy corpses, and cackling. The creatures are trapped there for a minute or two, and then returned to the place where they vanished from.  
-- Intelligent creatures see hallucinations of dead friends, family members, and even themselves littering the hag's realm. Any attempt to interact with a hallucinatory image causes it to disappear.  
-
-## Is copy
-_Source: Monster Manual_
-
-true
-
-## _copied from
-_Source: Monster Manual_
-
-Hag (VGM)
+- Intelligent creatures see hallucinations of dead friends, family members, and even themselves littering the hag's realm. Any attempt to interact with a hallucinatory image causes it to disappear.

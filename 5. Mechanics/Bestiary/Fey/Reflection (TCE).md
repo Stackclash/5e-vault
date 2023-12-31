@@ -9,8 +9,8 @@ tags:
 statblock: inline
 aliases: ["Reflection"]
 ---
-# [Reflection](compendium\bestiary\fey/reflection-tce.md)
-*Source: Tasha's Cauldron of Everything p. 158, Derived from *  
+# [[5. Mechanics\Bestiary\Fey\Reflection (TCE).md|Reflection]]
+*Source: Tasha's Cauldron of Everything p. 158*  
 
 ```statblock
 "name": "Reflection (TCE)"

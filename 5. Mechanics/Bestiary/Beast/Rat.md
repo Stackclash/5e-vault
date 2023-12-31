@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Rat"]
 ---
-# [Rat](compendium\bestiary\beast/rat.md)
+# [[5. Mechanics\Bestiary\Beast\Rat.md|Rat]]
 *Source: Monster Manual p. 335. Available in the SRD and the Basic Rules.*  
 
 ```statblock

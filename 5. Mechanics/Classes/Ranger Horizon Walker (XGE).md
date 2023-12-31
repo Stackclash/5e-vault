@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/ranger/horizon-walker
 - compendium/src/5e/xge
+- subclass/ranger/horizon-walker
 aliases: ["Horizon Walker"]
 ---
 # Horizon Walker

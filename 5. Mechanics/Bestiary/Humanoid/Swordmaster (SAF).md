@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Swordmaster"]
 ---
-# [Swordmaster](compendium\bestiary\humanoid/swordmaster-saf.md)
+# [[5. Mechanics\Bestiary\Humanoid\Swordmaster (SAF).md|Swordmaster]]
 *Source: Strongholds and Followers p. 75*  
 
 ```statblock

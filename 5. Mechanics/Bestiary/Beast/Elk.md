@@ -12,7 +12,7 @@ tags:
 statblock: inline
 aliases: ["Elk"]
 ---
-# [Elk](compendium\bestiary\beast/elk.md)
+# [[5. Mechanics\Bestiary\Beast\Elk.md|Elk]]
 *Source: Monster Manual p. 322. Available in the SRD and the Basic Rules.*  
 
 ```statblock

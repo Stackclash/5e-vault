@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Male Steeder"]
 ---
-# [Male Steeder](compendium\bestiary\monstrosity/male-steeder-mpmm.md)
+# [[5. Mechanics\Bestiary\Monstrosity\Male Steeder (MPMM).md|Male Steeder]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 231*  
 
 ## Steeders

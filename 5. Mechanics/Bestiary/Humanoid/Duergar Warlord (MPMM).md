@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Duergar Warlord"]
 ---
-# [Duergar Warlord](compendium\bestiary\humanoid/duergar-warlord-mpmm.md)
+# [[5. Mechanics\Bestiary\Humanoid\Duergar Warlord (MPMM).md|Duergar Warlord]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 111*  
 
 A warlord is cunning, inspiring, and merciless in equal parts. A skilled leader in battle, the warlord can use spikes of psionic energy to compel the warriors they command to fight harder.

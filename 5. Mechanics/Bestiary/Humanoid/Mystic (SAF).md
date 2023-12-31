@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Mystic"]
 ---
-# [Mystic](compendium\bestiary\humanoid/mystic-saf.md)
+# [[5. Mechanics\Bestiary\Humanoid\Mystic (SAF).md|Mystic]]
 *Source: Strongholds and Followers p. 74*  
 
 ```statblock

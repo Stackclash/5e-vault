@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/rogue/soulknife
 - compendium/src/5e/tce
+- subclass/rogue/soulknife
 aliases: ["Soulknife"]
 ---
 # Soulknife

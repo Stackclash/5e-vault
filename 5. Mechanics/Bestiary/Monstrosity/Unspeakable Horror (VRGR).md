@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Unspeakable Horror"]
 ---
-# [Unspeakable Horror](compendium\bestiary\monstrosity/unspeakable-horror-vrgr.md)
+# [[5. Mechanics\Bestiary\Monstrosity\Unspeakable Horror (VRGR).md|Unspeakable Horror]]
 *Source: Van Richten's Guide to Ravenloft p. 250*  
 
 Untold, half-formed evils lurk amid the Mists, the yet-to-be-realized imaginings of the Dark Powers and the remnants of ruined domains. While such nightmares typically manifest as nothing more than impressions, whispers, or vaporous visions amid the fog, mysterious eddies in the Mists sometimes gather such evils, forcing them into unique, misshapen bodies untethered from the laws of reason or reality. Such unspeakable horrors might continue to haunt the misty netherworld between the Domains of Dread, or they might slink forth into other realms to slake unnameable hungers.

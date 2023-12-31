@@ -26,6 +26,10 @@ You are Medium or Small. You choose the size when you select this race.
 
 You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray.
 
+### Languages
+
+You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character.
+
 ### Unending Breath
 
 You can hold your breath indefinitely while you're not [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]].

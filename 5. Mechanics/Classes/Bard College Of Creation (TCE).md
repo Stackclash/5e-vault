@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/bard/creation
 - compendium/src/5e/tce
+- subclass/bard/creation
 aliases: ["College of Creation"]
 ---
 # College of Creation

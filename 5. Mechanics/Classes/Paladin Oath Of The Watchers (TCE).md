@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/paladin/watchers
 - compendium/src/5e/tce
+- subclass/paladin/watchers
 aliases: ["Oath of the Watchers"]
 ---
 # Oath of the Watchers

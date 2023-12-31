@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Kuo-toa Archpriest"]
 ---
-# [Kuo-toa Archpriest](compendium\bestiary\humanoid/kuo-toa-archpriest.md)
+# [[5. Mechanics\Bestiary\Humanoid\Kuo Toa Archpriest.md|Kuo-toa Archpriest]]
 *Source: Monster Manual p. 200*  
 
 Kuo-toa are degenerate fishlike humanoids that once inhabited the shores and islands of the surface world. Long ago humans and their ilk drove the kuo-toa underground, where they dwell in madness and everlasting night. Kuo-toa can no longer abide daylight.

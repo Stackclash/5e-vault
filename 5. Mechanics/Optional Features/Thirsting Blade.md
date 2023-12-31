@@ -9,6 +9,6 @@ aliases: ["Thirsting Blade"]
 # Thirsting Blade
 *Source: Player's Handbook p. 111. Available in the SRD.*  
 
-***Prerequisites*** 5th-level Warlock, Pact of the Blade
+***Prerequisites*** 5th-level, Pact of the Blade
 
 You can attack with your pact weapon twice, instead of once, whenever you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action on your turn.

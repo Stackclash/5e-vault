@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Swarm of Gremishkas"]
 ---
-# [Swarm of Gremishkas](compendium\bestiary\monstrosity/swarm-of-gremishkas-vrgr.md)
+# [[5. Mechanics\Bestiary\Monstrosity\Swarm Of Gremishkas (VRGR).md|Swarm of Gremishkas]]
 *Source: Van Richten's Guide to Ravenloft p. 235*  
 
 Gremishkas are the vicious products of mistakes made by novice spellcasters seeking to create life. The results are cat-sized, magically unstable creatures with a taste for the trappings of magic—particularly spellbooks, spell components, familiars, and the like. Gremishkas delight in tormenting magic-users, holding vicious grudges against those who gave them life as they infest the walls of spellcasters' homes or the surrounding lands.

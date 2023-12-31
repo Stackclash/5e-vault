@@ -1,18 +1,6 @@
 {
   "ITS-AT@@select": "wotc-beyond",
   "ITS-AT@@slrvb-b": false,
-  "ITS@@select": "wotc-beyond",
-  "ITS@@paper": true,
-  "ITS@@writing": false,
-  "ITS@@titlebar-colors": true,
-  "ITS@@titlebar-bubbles": false,
-  "ITS@@tab-widths": "none",
-  "ITS@@navbar-bottom": false,
-  "ITS@@ITS-Sidebar-Styling": "none",
-  "ITS@@ITS-Sidebar-Ribbon-Float": "none",
-  "ITS@@td@@light": "#A351584F",
-  "ITS@@ITS-Sizes": "sizing-readable",
-  "ITS@@default-statblock": true,
   "supercharged-links@@5b00-5324-before": "☠️",
   "supercharged-links@@bf11-4f75-before": "⚒️",
   "supercharged-links@@8cd7-82fe-before": "🧝🏻",
@@ -21,5 +9,6 @@
   "supercharged-links@@65a7-afcb-before": "⚔️",
   "supercharged-links@@4a6f-4872-before": "⌛",
   "supercharged-links@@9934-88e3-before": "🏔️",
-  "supercharged-links@@a3ec-73d2-before": "🛡️"
+  "supercharged-links@@a3ec-73d2-before": "🛡️",
+  "ITS@@select": "wotc-beyond"
 }

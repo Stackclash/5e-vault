@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Carrion Stalker"]
 ---
-# [Carrion Stalker](compendium\bestiary\monstrosity/carrion-stalker-vrgr.md)
+# [[5. Mechanics\Bestiary\Monstrosity\Carrion Stalker (VRGR).md|Carrion Stalker]]
 *Source: Van Richten's Guide to Ravenloft p. 230*  
 
 A carrion stalker begins life as a pale larva that infests a corpse. Over the course of weeks, this grub burrows, feeds, and grows, ultimately developing into a chitinous mass of pincers and tentacles. When an adult carrion stalker detects movement, it bursts from its corpse-cradle to attack, intent on implanting its young into the living and starting its species' life cycle anew.

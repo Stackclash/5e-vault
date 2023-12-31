@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Duergar Despot"]
 ---
-# [Duergar Despot](compendium\bestiary\humanoid/duergar-despot-mpmm.md)
+# [[5. Mechanics\Bestiary\Humanoid\Duergar Despot (MPMM).md|Duergar Despot]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 107*  
 
 Duergar despots replace parts of their bodies with mechanical devices that they control through their psionic abilities.

@@ -9,8 +9,8 @@ tags:
 statblock: inline
 aliases: ["Snow Maiden"]
 ---
-# [Snow Maiden](compendium\bestiary\undead/snow-maiden-cos.md)
-*Source: Curse of Strahd p. 159, Derived from *  
+# [[5. Mechanics\Bestiary\Undead\Snow Maiden (COS).md|Snow Maiden]]
+*Source: Curse of Strahd p. 159*  
 
 ```statblock
 "name": "Snow Maiden (CoS)"

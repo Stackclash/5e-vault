@@ -12,7 +12,7 @@ tags:
 statblock: inline
 aliases: ["Vulture"]
 ---
-# [Vulture](compendium\bestiary\beast/vulture.md)
+# [[5. Mechanics\Bestiary\Beast\Vulture.md|Vulture]]
 *Source: Monster Manual p. 339. Available in the SRD and the Basic Rules.*  
 
 ```statblock

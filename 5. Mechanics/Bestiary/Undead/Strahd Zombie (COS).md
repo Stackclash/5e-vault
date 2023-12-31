@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Strahd Zombie"]
 ---
-# [Strahd Zombie](compendium\bestiary\undead/strahd-zombie-cos.md)
+# [[5. Mechanics\Bestiary\Undead\Strahd Zombie (COS).md|Strahd Zombie]]
 *Source: Curse of Strahd p. 241*  
 
 Strahd zombies are undead that serve the vampire Strahd von Zarovich. Created from the long-dead guards of Castle Ravenloft, they were called into being through dark magic by Strahd himself.

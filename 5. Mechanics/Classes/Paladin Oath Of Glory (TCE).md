@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/paladin/glory
 - compendium/src/5e/tce
+- subclass/paladin/glory
 aliases: ["Oath of Glory"]
 ---
 # Oath of Glory

@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Grick Alpha"]
 ---
-# [Grick Alpha](compendium\bestiary\monstrosity/grick-alpha.md)
+# [[5. Mechanics\Bestiary\Monstrosity\Grick Alpha.md|Grick Alpha]]
 *Source: Monster Manual p. 173*  
 
 The wormlike grick waits unseen, blending in with the rock of the caves and caverns it haunts. Only when prey comes near does it rear up, its four barbed tentacles unfurling to reveal its hungry, snapping beak.

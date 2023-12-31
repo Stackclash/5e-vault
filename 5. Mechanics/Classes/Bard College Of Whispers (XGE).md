@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/bard/whispers
 - compendium/src/5e/xge
+- subclass/bard/whispers
 aliases: ["College of Whispers"]
 ---
 # College of Whispers

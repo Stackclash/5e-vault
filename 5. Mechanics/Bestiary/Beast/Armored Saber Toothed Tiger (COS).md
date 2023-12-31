@@ -9,8 +9,8 @@ tags:
 statblock: inline
 aliases: ["Armored Saber-Toothed Tiger"]
 ---
-# [Armored Saber-Toothed Tiger](compendium\bestiary\beast/armored-saber-toothed-tiger-cos.md)
-*Source: Curse of Strahd p. 115, Derived from *  
+# [[5. Mechanics\Bestiary\Beast\Armored Saber Toothed Tiger (COS).md|Armored Saber-Toothed Tiger]]
+*Source: Curse of Strahd p. 115*  
 
 ```statblock
 "name": "Armored Saber-Toothed Tiger (CoS)"

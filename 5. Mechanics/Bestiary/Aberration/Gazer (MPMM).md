@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Gazer"]
 ---
-# [Gazer](compendium\bestiary\aberration/gazer-mpmm.md)
+# [[5. Mechanics\Bestiary\Aberration\Gazer (MPMM).md|Gazer]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 134*  
 
 A gazer is a tiny manifestation of the dreams of a beholder. It resembles the beholder who dreamed it into existence, but its body is only 8 inches wide and it has only four eyestalks. It follows its creator like a devoted, aggressive puppy, and sometimes small packs of these creatures patrol their master's lair for vermin to kill and lone creatures to harass.

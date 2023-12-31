@@ -28,7 +28,7 @@ The wealthy family that built the house practiced the dark arts. Through seducti
 
 The cult tried to summon malevolent extraplanar entities with no success. The cultists also preyed on visitors, sacrificed them in bizarre rituals, and hosted morbid banquets to feast on their corpses. When nothing came of these ritualized murders, the cultists' activities became thinly disguised excuses to indulge their lurid fantasies. The ranks of the cult thinned as members began to lose interest in the debacle.
 
-Then [[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]] arrived.
+Then [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]] arrived.
 
 The cultists regarded Strahd as a messiah sent to them by the Dark Powers. Drawn to Strahd like moths to a flame, they pledged their devotion for a promise of immortality, but Strahd turned them away, deeming the cult and its leaders unworthy of his attention. The cultists withdrew to Death House in despair.
 
@@ -176,7 +176,7 @@ This secret room contains bookshelves packed with tomes describing fiend-summoni
 
 A heavy wooden chest with clawed iron feet stands against the south wall, its lid half-closed. Sticking out of the chest is a skeleton in leather armor. Close inspection reveals that the skeleton belongs to a human who triggered a poisoned dart trap. Three darts are stuck in the dead adventurer's armor and ribcage. The dart-firing mechanism inside the chest no longer functions.
 
-Clutched in the skeleton's left hand is a letter bearing the seal of [[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]], which the adventurer tried to remove from the chest. Written in flowing script, the letter reads as follows:
+Clutched in the skeleton's left hand is a letter bearing the seal of [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]], which the adventurer tried to remove from the chest. Written in flowing script, the letter reads as follows:
 
 > [!note] 
 > 
@@ -188,7 +188,7 @@ Clutched in the skeleton's left hand is a letter bearing the seal of [[5. Mechan
 > 
 > Your dread lord and master,
 > 
-> [[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]]
+> [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]]
 ^6e5
 
 #### Treasure
@@ -284,13 +284,13 @@ The door to this room is locked from the outside (see area 16 for details).
 > This room contains a bricked-up window flanked by two dusty, wood-framed beds sized for children. Closer to the door is a toy chest with windmills painted on its sides and a dollhouse that's a perfect replica of the dreary edifice in which you stand. These furnishings are draped in cobwebs. Lying in the middle of the floor are two small skeletons wearing tattered but familiar clothing. The smaller of the two cradles a stuffed doll that you also recognize.
 ^6f9
 
-The Durst children, [[5. Mechanics/Bestiary/Npc/Rosavalda Rose Durst (COS).md\|Rose]] and [[5. Mechanics/Bestiary/Npc/Thornboldt Thorn Durst (COS).md\|Thorn]], were neglected by their parents and locked in this room until they starved to death. Their small skeletons lie in the middle of the floor, plain as day, wearing tattered clothing that the characters recognize as belonging to the children. Thorn's skeleton cradles the boy's stuffed doll.
+The Durst children, [[4. World Almanac/NPCs/Rosavalda Rose Durst (COS).md\|Rose]] and [[4. World Almanac/NPCs/Thornboldt Thorn Durst (COS).md\|Thorn]], were neglected by their parents and locked in this room until they starved to death. Their small skeletons lie in the middle of the floor, plain as day, wearing tattered clothing that the characters recognize as belonging to the children. Thorn's skeleton cradles the boy's stuffed doll.
 
 The toy chest contains an assortment of stuffed animals and toys. Characters who search the dollhouse and succeed on a DC 15 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check find all of the house's secret doors, including one in the attic that leads to a spiral staircase (a miniature replica of area 21).
 
 #### Rose and Thorn
 
-If either the dollhouse or the chest is disturbed, the ghosts of [[5. Mechanics/Bestiary/Npc/Rosavalda Rose Durst (COS).md\|Rose]] and [[5. Mechanics/Bestiary/Npc/Thornboldt Thorn Durst (COS).md\|Thorn]] appear in the middle of the room. Use the [[5. Mechanics/Bestiary/Undead/Ghost.md\|ghost]] statistics in the "Monster Manual", with the following modifications:
+If either the dollhouse or the chest is disturbed, the ghosts of [[4. World Almanac/NPCs/Rosavalda Rose Durst (COS).md\|Rose]] and [[4. World Almanac/NPCs/Thornboldt Thorn Durst (COS).md\|Thorn]] appear in the middle of the room. Use the [[5. Mechanics/Bestiary/Undead/Ghost.md\|ghost]] statistics in the "Monster Manual", with the following modifications:
 
 - The ghosts are Small and lawful good.  
 - They have `dice: 10d6|avg` (`10d6`) hit points each.  
@@ -362,13 +362,13 @@ The stone slab is etched with the name Elisabeth Durst. The crypt contains a sto
 
 The stone slab is etched with the name Rosavalda Durst. The chamber beyond contains an empty coffin on a stone bier.
 
-If Rose's skeletal remains (see area 20) are placed in the coffin, the child's ghost finds peace and disappears forever. A character possessed by [[5. Mechanics/Bestiary/Npc/Rosavalda Rose Durst (COS).md\|Rose's ghost]] when this occurs is no longer possessed (see also the "Development" section in area 20).
+If Rose's skeletal remains (see area 20) are placed in the coffin, the child's ghost finds peace and disappears forever. A character possessed by [[4. World Almanac/NPCs/Rosavalda Rose Durst (COS).md\|Rose's ghost]] when this occurs is no longer possessed (see also the "Development" section in area 20).
 
 #### 23F. Thorn's Crypt
 
 The stone slab is etched with the name Thornboldt Durst. The chamber beyond contains an empty coffin on a stone bier.
 
-If Thorn's skeletal remains (see area 20) are placed in the coffin, the child's ghost finds peace and disappears forever. A character possessed by [[5. Mechanics/Bestiary/Npc/Thornboldt Thorn Durst (COS).md\|Thorn's ghost]] when this occurs is no longer possessed (see also the "Development" section in area 20).
+If Thorn's skeletal remains (see area 20) are placed in the coffin, the child's ghost finds peace and disappears forever. A character possessed by [[4. World Almanac/NPCs/Thornboldt Thorn Durst (COS).md\|Thorn's ghost]] when this occurs is no longer possessed (see also the "Development" section in area 20).
 
 ### 24. Cult Initiates' Quarters
 

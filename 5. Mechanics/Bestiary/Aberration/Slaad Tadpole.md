@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Slaad Tadpole"]
 ---
-# [Slaad Tadpole](compendium\bestiary\aberration/slaad-tadpole.md)
+# [[5. Mechanics\Bestiary\Aberration\Slaad Tadpole.md|Slaad Tadpole]]
 *Source: Monster Manual p. 276*  
 
 ## Slaadi

@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Autumn Eladrin"]
 ---
-# [Autumn Eladrin](compendium\bestiary\fey/autumn-eladrin-mpmm.md)
+# [[5. Mechanics\Bestiary\Fey\Autumn Eladrin (MPMM).md|Autumn Eladrin]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 115*  
 
 Eladrin often enter the autumn season when they are overcome by feelings of goodwill. In this aspect, they defuse conflicts and alleviate suffering by using their magic to relieve any ailments that afflict the people who come to them for aid. They tolerate no violence in their presence and move quickly to settle disputes, to ensure that peace continues to reign.

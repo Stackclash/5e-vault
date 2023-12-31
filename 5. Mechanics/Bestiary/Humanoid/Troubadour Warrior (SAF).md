@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Troubadour-warrior"]
 ---
-# [Troubadour-warrior](compendium\bestiary\humanoid/troubadour-warrior-saf.md)
+# [[5. Mechanics\Bestiary\Humanoid\Troubadour Warrior (SAF).md|Troubadour-warrior]]
 *Source: Strongholds and Followers p. 73*  
 
 ```statblock

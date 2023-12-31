@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Jackal"]
 ---
-# [Jackal](compendium\bestiary\beast/jackal.md)
+# [[5. Mechanics\Bestiary\Beast\Jackal.md|Jackal]]
 *Source: Monster Manual p. 331. Available in the SRD and the Basic Rules.*  
 
 ```statblock

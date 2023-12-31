@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Mimic"]
 ---
-# [Mimic](compendium\bestiary\monstrosity/mimic.md)
+# [[5. Mechanics\Bestiary\Monstrosity\Mimic.md|Mimic]]
 *Source: Monster Manual p. 220, Curse of Strahd. Available in the SRD.*  
 
 Mimics are shapeshifting predators able to take on the form of inanimate objects to lure creatures to their doom. In dungeons, these cunning creatures most often take the form of doors and chests, having learned that such forms attract a steady stream of prey.

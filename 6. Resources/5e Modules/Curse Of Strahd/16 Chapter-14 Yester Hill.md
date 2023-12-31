@@ -12,7 +12,7 @@ aliases: ["Chapter 14: Yester Hill"]
 
 The druids who worship Strahd as lord of the land and master of the weather convene here, atop Yester Hill, on the very edge of Strahd's domain. This hill is also where the evil blights that walk the Svalich Woods are born, and where Strahd comes on occasion to glimpse his ancestral home.
 
-> [!quote]- A quote from [[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]] in I, Strahd: The Memoirs of a Vampire  
+> [!quote]- A quote from [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]] in I, Strahd: The Memoirs of a Vampire  
 > 
 > By day or night, stretching up to the limits of vision, the edges of my realm are marked by a great wall of mist. I was there at its birth.
 
@@ -53,7 +53,7 @@ The ring of boulders that surrounds the field is 250 feet in diameter and ranges
 
 #### Wooden Statue
 
-The giant statue bears an eerie resemblance to [[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]]. Close inspection reveals roots sprouting from the ground around its base. These roots are part of the Gulthias tree in area Y4. They wrap around the statue, providing added support and durability. The roots not only prevent the statue from being toppled but also allow the effigy to serve as a component in a ritual to create a tree blight (see "Druids' Ritual" in the "Special Events" section below). Planted in the "heart" of this wooden effigy is a magic gem stolen from the Wizard of Wines vineyard (chapter 12).
+The giant statue bears an eerie resemblance to [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]]. Close inspection reveals roots sprouting from the ground around its base. These roots are part of the Gulthias tree in area Y4. They wrap around the statue, providing added support and durability. The roots not only prevent the statue from being toppled but also allow the effigy to serve as a component in a ritual to create a tree blight (see "Druids' Ritual" in the "Special Events" section below). Planted in the "heart" of this wooden effigy is a magic gem stolen from the Wizard of Wines vineyard (chapter 12).
 
 The statue has AC 10, 50 hit points, and immunity to poison and psychic damage. If the statue takes fire damage after being splashed with oil, it catches fire, taking `dice: 2d6|avg` (`2d6`) fire damage each round. If the statue is reduced to 0 hit points, it collapses, and the magic gem tumbles onto the field, glowing with a bright green light.
 
@@ -115,7 +115,7 @@ You can use one or both of the following special events while the characters exp
 
 You can allow this event to unfold regardless of whether the characters have visited Yester Hill. Even if the characters don't experience this event as it happens, they can still deal with the aftermath (see "Wintersplinter Attacks" in the "Special Events" section in chapter 12).
 
-[[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md\|Strahd]] travels to Yester Hill, arriving astride his [[5. Mechanics/Bestiary/Fiend/Nightmare.md\|nightmare]], [[5. Mechanics/Bestiary/Npc/Beucephalus (COS).md\|Beucephalus]] (assuming the characters didn't kill it in the catacombs of Castle Ravenloft), or in bat form.
+[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd]] travels to Yester Hill, arriving astride his [[5. Mechanics/Bestiary/Fiend/Nightmare.md\|nightmare]], [[4. World Almanac/NPCs/Beucephalus (COS).md\|Beucephalus]] (assuming the characters didn't kill it in the catacombs of Castle Ravenloft), or in bat form.
 
 Strahd's arrival prompts the druids in area Y3 to rise from their "graves" and begin their ritual. When the ritual begins, the druids use their actions to chant and dance about. To complete the ritual, the druids must chant for 10 consecutive rounds, with at least one of them chanting each round. If a round goes by and none of the druids are able to chant on their turn, the ritual is ruined and must be started anew. If the Gulthias tree (area Y4) has been reduced to 0 hit points, the ritual won't work. Druids who realize that the tree has been destroyed know enough not to attempt the ritual.
 

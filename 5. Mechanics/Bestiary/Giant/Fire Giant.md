@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Fire Giant"]
 ---
-# [Fire Giant](compendium\bestiary\giant/fire-giant.md)
+# [[5. Mechanics\Bestiary\Giant\Fire Giant.md|Fire Giant]]
 *Source: Monster Manual p. 154. Available in the SRD and the Basic Rules.*  
 
 Master crafters and organized warriors, fire giants dwell among volcanoes, lava floes, and rocky mountains. They are ruthless militaristic brutes whose mastery of metalwork is legendary.

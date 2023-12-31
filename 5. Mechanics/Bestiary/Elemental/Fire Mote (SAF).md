@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Fire Mote"]
 ---
-# [Fire Mote](compendium\bestiary\elemental/fire-mote-saf.md)
+# [[5. Mechanics\Bestiary\Elemental\Fire Mote (SAF).md|Fire Mote]]
 *Source: Strongholds and Followers p. 186*  
 
 The motes are elemental sprites, tricksters, mischievous imps who enjoy sticking their noses into other people's business, harassing anyone who looks suspicious until the more puissant authorities arrive.

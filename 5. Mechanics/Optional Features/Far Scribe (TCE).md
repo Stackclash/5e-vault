@@ -9,7 +9,7 @@ aliases: ["Far Scribe"]
 # Far Scribe
 *Source: Tasha's Cauldron of Everything p. 71*  
 
-***Prerequisites*** 5th-level Warlock, Pact of the Tome
+***Prerequisites*** 5th-level, Pact of the Tome
 
 A new page appears in your Book of Shadows. With your permission, a creature can use its action to write its name on that page, which can contain a number of names equal to your proficiency bonus.
 

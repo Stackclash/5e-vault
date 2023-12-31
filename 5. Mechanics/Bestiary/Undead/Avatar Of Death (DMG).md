@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Avatar of Death (DMG)"]
 ---
-# [Avatar of Death (DMG)](compendium\bestiary\undead/avatar-of-death-dmg.md)
+# [[5. Mechanics\Bestiary\Undead\Avatar Of Death (DMG).md|Avatar of Death (DMG)]]
 *Source: Dungeon Master's Guide p. 164, Tasha's Cauldron of Everything. Available in the SRD.*  
 
 Summoned by the "Skull" card from the [[5. Mechanics/Items/Deck Of Many Things.md|Deck of Many Things]].

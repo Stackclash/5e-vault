@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Drow Mage"]
 ---
-# [Drow Mage](compendium\bestiary\humanoid/drow-mage.md)
+# [[5. Mechanics\Bestiary\Humanoid\Drow Mage.md|Drow Mage]]
 *Source: Monster Manual p. 129*  
 
 ## Drow

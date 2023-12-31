@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Drow Elite Warrior"]
 ---
-# [Drow Elite Warrior](compendium\bestiary\humanoid/drow-elite-warrior.md)
+# [[5. Mechanics\Bestiary\Humanoid\Drow Elite Warrior.md|Drow Elite Warrior]]
 *Source: Monster Manual p. 128*  
 
 ## Drow

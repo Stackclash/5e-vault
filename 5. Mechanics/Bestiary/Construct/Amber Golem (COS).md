@@ -9,8 +9,8 @@ tags:
 statblock: inline
 aliases: ["Amber Golem"]
 ---
-# [Amber Golem](compendium\bestiary\construct/amber-golem-cos.md)
-*Source: Curse of Strahd p. 186, Derived from *  
+# [[5. Mechanics\Bestiary\Construct\Amber Golem (COS).md|Amber Golem]]
+*Source: Curse of Strahd p. 186*  
 
 ```statblock
 "name": "Amber Golem (CoS)"

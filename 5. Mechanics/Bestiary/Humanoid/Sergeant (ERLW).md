@@ -9,8 +9,8 @@ tags:
 statblock: inline
 aliases: ["Sergeant"]
 ---
-# [Sergeant](compendium\bestiary\humanoid/sergeant-erlw.md)
-*Source: Eberron: Rising from the Last War p. 197, Derived from *  
+# [[5. Mechanics\Bestiary\Humanoid\Sergeant (ERLW).md|Sergeant]]
+*Source: Eberron: Rising from the Last War p. 197*  
 
 ```statblock
 "name": "Sergeant (ERLW)"

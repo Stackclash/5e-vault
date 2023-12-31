@@ -9,8 +9,8 @@ tags:
 statblock: inline
 aliases: ["Adult Red Dracolich"]
 ---
-# [Adult Red Dracolich](compendium\bestiary\undead/adult-red-dracolich-tce.md)
-*Source: Tasha's Cauldron of Everything p. 137, Derived from *  
+# [[5. Mechanics\Bestiary\Undead\Adult Red Dracolich (TCE).md|Adult Red Dracolich]]
+*Source: Tasha's Cauldron of Everything p. 137*  
 
 ```statblock
 "name": "Adult Red Dracolich (TCE)"

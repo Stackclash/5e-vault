@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Dolgrim"]
 ---
-# [Dolgrim](compendium\bestiary\aberration/dolgrim-erlw.md)
+# [[5. Mechanics\Bestiary\Aberration\Dolgrim (ERLW).md|Dolgrim]]
 *Source: Eberron: Rising from the Last War p. 291*  
 
 Dolgrims are squat, deformed things. Warped by the daelkyr, a dolgrim is essentially two goblins crushed into one creature, their misshapen body boasting four arms and a pair of twisted mouths that gibber and slather at the front of a headless torso. The two mouths of a dolgrim sometimes carry on demented conversations with one another. However, a dolgrim has only a single personality—sadistic, bloodthirsty, and brutally dedicated to serving itself.

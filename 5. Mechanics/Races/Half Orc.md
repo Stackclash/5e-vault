@@ -11,7 +11,7 @@ aliases: ["Half-Orc"]
 ![[5. Mechanics/Races/img/half-orc.webp#right]]  
 
 - **Ability Scores**: Strength +2, Constitution +1
-- **Type**: race
+- **Type**: subrace
 - **Size**: Medium
 - **Speed**: 30 ft.
 

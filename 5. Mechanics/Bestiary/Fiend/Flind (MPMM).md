@@ -13,7 +13,7 @@ tags:
 statblock: inline
 aliases: ["Flind"]
 ---
-# [Flind](compendium\bestiary\fiend/flind-mpmm.md)
+# [[5. Mechanics\Bestiary\Fiend\Flind (MPMM).md|Flind]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 127*  
 
 When the demon lord Yeenoghu wants to create a particularly fearsome war band leader, he transforms an excep tionally strong and vicious gnoll into a demonic warrior known as a flind.

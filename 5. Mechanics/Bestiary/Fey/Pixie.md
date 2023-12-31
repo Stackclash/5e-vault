@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Pixie"]
 ---
-# [Pixie](compendium\bestiary\fey/pixie.md)
+# [[5. Mechanics\Bestiary\Fey\Pixie.md|Pixie]]
 *Source: Monster Manual p. 253, Eberron: Rising from the Last War*  
 
 Standing barely a foot tall, pixies resemble diminutive elves with gossamer wings like those of dragonflies or butterflies, bright as the clear dawn and as luminous as the full moonrise.

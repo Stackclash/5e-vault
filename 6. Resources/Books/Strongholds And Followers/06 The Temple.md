@@ -30,19 +30,7 @@ The gods consider it your responsibility to know right from wrong. If you are tr
 
 Here are some examples of deeds that would add to or subtract from your current concordance.
 
-| Circumstance | Bonus |
-|--------------|-------|
-| Petitioning Your Deity | −15 |
-| Desecrated an enemy altar | +10 |
-| Thwarted an enemy priest | +5 |
-| Converted a follower | +5 |
-| Converted an enemy priest | +15 |
-| Thwarted an enemy minion | +1 |
-| Consecrated an altar | +10 |
-| Left an enemy altar intact | −15 |
-| Failed to uphold the tenets of the deity | −5 |
-| Aided an enemy priest | −10 |
-^circumstance-bonus
+![[5. Mechanics/Tables/Gaining Or Losing Concordance (SAF).md\|Gaining or Losing Concordance]]
 
 > [!note] Divine Intervention
 > 

@@ -13,7 +13,7 @@ tags:
 statblock: inline
 aliases: ["Swarm of Bats"]
 ---
-# [Swarm of Bats](compendium\bestiary\beast/swarm-of-bats.md)
+# [[5. Mechanics\Bestiary\Beast\Swarm Of Bats.md|Swarm of Bats]]
 *Source: Monster Manual p. 337, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 > [!note] The Nature of Swarms

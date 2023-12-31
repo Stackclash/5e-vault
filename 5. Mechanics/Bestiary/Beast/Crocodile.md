@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Crocodile"]
 ---
-# [Crocodile](compendium\bestiary\beast/crocodile.md)
+# [[5. Mechanics\Bestiary\Beast\Crocodile.md|Crocodile]]
 *Source: Monster Manual p. 320. Available in the SRD and the Basic Rules.*  
 
 ```statblock

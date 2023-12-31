@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Leviathan"]
 ---
-# [Leviathan](compendium\bestiary\elemental/leviathan-mpmm.md)
+# [[5. Mechanics\Bestiary\Elemental\Leviathan (MPMM).md|Leviathan]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 171*  
 
 A leviathan is an immense creature that acts as a force of nature, dragging ships down to the ocean's depths and washing away coastal settlements. When called forth, a leviathan arises from a large body of water and takes on the form of a gigantic serpent.

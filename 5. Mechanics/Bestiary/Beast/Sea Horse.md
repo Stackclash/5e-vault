@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Sea Horse"]
 ---
-# [Sea Horse](compendium\bestiary\beast/sea-horse.md)
+# [[5. Mechanics\Bestiary\Beast\Sea Horse.md|Sea Horse]]
 *Source: Monster Manual p. 337. Available in the SRD and the Basic Rules.*  
 
 ```statblock

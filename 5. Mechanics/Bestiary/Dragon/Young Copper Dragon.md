@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Young Copper Dragon"]
 ---
-# [Young Copper Dragon](compendium\bestiary\dragon/young-copper-dragon.md)
+# [[5. Mechanics\Bestiary\Dragon\Young Copper Dragon.md|Young Copper Dragon]]
 *Source: Monster Manual p. 112. Available in the SRD.*  
 
 Copper dragons are incorrigible pranksters, joke tellers, and riddlers that live in hills and rocky uplands. Despite their gregarious and even-tempered natures, they possess a covetous, miserly streak, and can become dangerous when their hoards are threatened.

@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/paladin/ancients
 - compendium/src/5e/phb
+- subclass/paladin/ancients
 aliases: ["Oath of the Ancients"]
 ---
 # Oath of the Ancients

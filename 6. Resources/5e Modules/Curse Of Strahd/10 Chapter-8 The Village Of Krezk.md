@@ -14,9 +14,9 @@ The fortified village of Krezk lies near the edge of Strahd's domain, and the wa
 
 Looming high above Krezk is the Abbey of Saint Markovia, once a convent and hospital, now a madhouse overrun with wickedness. After Saint Markovia and her followers failed to overthrow Strahd, the abbey became a fortress closed off from the rest of the world. Strahd ruthlessly preyed on the fears of the clerics and nuns holed up inside, but ultimately it was their isolation and greed that doomed them. The clergy began fighting over food and wine. By the time their supplies ran out, they had either been killed by each other's hands or driven hopelessly insane by Strahd's acts of terror against them. For years afterward, the villagers of Krezk avoided the place, fearing that the abbey was cursed, haunted, or both.
 
-Then, over a century ago, a pilgrim from a distant land came to Krezk and insisted that he be allowed to reopen the abbey. The nameless man was strikingly handsome and extremely persuasive, and the villagers couldn't help but do as he commanded. Eternally young, he presides over the abbey to this day, and locals refer to him simply as [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|the Abbot]]. Many villagers suspect that [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|the Abbot]] is Strahd in disguise, for they've heard stories about Strahd appearing in other guises. The truth, however, is even more disturbing.
+Then, over a century ago, a pilgrim from a distant land came to Krezk and insisted that he be allowed to reopen the abbey. The nameless man was strikingly handsome and extremely persuasive, and the villagers couldn't help but do as he commanded. Eternally young, he presides over the abbey to this day, and locals refer to him simply as [[4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]]. Many villagers suspect that [[4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]] is Strahd in disguise, for they've heard stories about Strahd appearing in other guises. The truth, however, is even more disturbing.
 
-> [!quote]- A quote from [[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]]  
+> [!quote]- A quote from [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]]  
 > 
 > The gleam in her eyes was like warm sunlight on a still pond. That light is gone forever. When I try to imagine those eyes, all I see is a mad abyss.
 
@@ -85,13 +85,13 @@ Krezk's residences are single-story pine cottages with stone chimneys and thatch
 
 The building closest to the outer gate is the burgomaster's cottage—the largest building in town but still a modest dwelling. Dmitri Krezkov and his fearless wife Anna (LG female human [[5. Mechanics/Bestiary/Humanoid/Noble.md\|noble]]) have no living children. The last of their four children, Ilya, died of an illness seven days ago at the age of fourteen. Given their age, the Krezkovs are unlikely to have more children—a source of great consternation to everyone in the village, since that means the end of the Krezkov bloodline.
 
-The burgomaster's cottage has a wine cellar (currently empty) and lots of space for pigpens and chicken coops. Behind the cottage is a graveyard where deceased members of the Krezkov family are interred. Dmitri and Anna's four children, all of whom died of illness, are buried here. Several of the family caskets are empty, their contents stolen in the night by [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|the Abbot]]'s mongrelfolk gravediggers (see area S6). Ilya's plot is fresh and undisturbed, since he was interred only four days ago.
+The burgomaster's cottage has a wine cellar (currently empty) and lots of space for pigpens and chicken coops. Behind the cottage is a graveyard where deceased members of the Krezkov family are interred. Dmitri and Anna's four children, all of whom died of illness, are buried here. Several of the family caskets are empty, their contents stolen in the night by [[4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]]'s mongrelfolk gravediggers (see area S6). Ilya's plot is fresh and undisturbed, since he was interred only four days ago.
 
 ##### Commoner Cottages
 
 A typical cottage is only 200 square feet yet contains `dice: 1d4|avg` (`1d4`) adults (male and female human [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoners]]), `dice: 1d4|avg` (`1d4`)−1 children (male and female human noncombatants), plus the family's pigs, hares, and chickens.
 
-Every cottage has its own graveyard where family members are interred. All the caskets planted in the past decade are now empty, thanks to [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|the Abbot]]'s sneaky mongrelfolk gravediggers (see area S6).
+Every cottage has its own graveyard where family members are interred. All the caskets planted in the past decade are now empty, thanks to [[4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]]'s sneaky mongrelfolk gravediggers (see area S6).
 
 ![[6. Resources/5e Modules/Curse Of Strahd/img/085-cos08-03.webp#center]]
 
@@ -105,7 +105,7 @@ In addition to the information known to all Barovians (see "Barovian Lore" in ch
 - A pool at the north end of the village provides fresh water throughout the year. Next to the pool, the village's ancestors built a shrine to the Morninglord in a gazebo. It's known as the Shrine of the White Sun.  
 - The Abbey of Saint Markovia is named after a priest of the Morninglord who took a stand against the devil Strahd. After a fierce uprising, Markovia and her most loyal followers stormed Castle Ravenloft, only to be destroyed.  
 - The abbey was once a hospital and a convent, but it fell on hard times after the land was swallowed up by the mists. Some of the clergy fell prey to Strahd, while others went mad and either starved themselves to death or turned to cannibalism.  
-- The head of the abbey, called simply [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|the Abbot]], arrived over a century ago and hasn't aged a day since. He occasionally visits the Shrine of the White Sun but doesn't talk much, and he demands tribute in the form of wine. No one knows his true name or where he came from, and many believe he's Strahd's servant or the vampire himself in disguise.  
+- The head of the abbey, called simply [[4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]], arrived over a century ago and hasn't aged a day since. He occasionally visits the Shrine of the White Sun but doesn't talk much, and he demands tribute in the form of wine. No one knows his true name or where he came from, and many believe he's Strahd's servant or the vampire himself in disguise.  
 - No one from the village visits the abbey anymore. The abbey's bell rings at odd times, day and night, and the place is filled with baleful screams and horrible, inhuman laughter that can be heard throughout the village.  
 
 ### S4. Pool and Shrine
@@ -140,9 +140,9 @@ The mongrelfolk that infest the abbey are all descendants of one family—the Be
 > ![[6. Resources/5e Modules/Curse Of Strahd/img/086-023.jpg#gallery\|Map 8.2: Abbey of Saint Markovia - Ground Floor]]
 > ![[6. Resources/5e Modules/Curse Of Strahd/img/087-cos802.jpg#gallery\|Player Version]]
 
-Most of the mongrelfolk in the abbey are locked up because they can't be trusted to wander about unsupervised. The only mongrelfolk who are free to move about are [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|the Abbot]]'s gravediggers, Otto and Zygfrek, and his faithful, two-headed manservant, Clovin.
+Most of the mongrelfolk in the abbey are locked up because they can't be trusted to wander about unsupervised. The only mongrelfolk who are free to move about are [[4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]]'s gravediggers, Otto and Zygfrek, and his faithful, two-headed manservant, Clovin.
 
-[[5. Mechanics/Bestiary/Npc/Clovin Belview (COS).md\|Clovin Belview]] rings the abbey's bell (area S17) when [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|the Abbot]] decides it's time for dinner. The toll of the bell causes all the other mongrelfolk in the abbey to hoot and holler with excitement as they wait to be fed.
+[[4. World Almanac/NPCs/Clovin Belview (COS).md\|Clovin Belview]] rings the abbey's bell (area S17) when [[4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]] decides it's time for dinner. The toll of the bell causes all the other mongrelfolk in the abbey to hoot and holler with excitement as they wait to be fed.
 
 The windows of the north wing are made of leaded glass that is translucent—good for letting in light but not good for seeing through. The windows of the east wing are broken outward and have damaged shutters.
 
@@ -161,7 +161,7 @@ Two gate guards are on duty, but they aren't awake when the characters arrive (s
 
 ![[6. Resources/5e Modules/Curse Of Strahd/img/088-cos08-04.webp#center\|Otto Belview]]
 
-The gate guards are Otto and [[5. Mechanics/Bestiary/Npc/Zygfrek Belview (COS).md\|Zygfrek Belview]], two lawful evil [[5. Mechanics/Bestiary/Humanoid/Mongrelfolk (COS).md\|mongrelfolk]] (see appendix D). They sleep under piles of musty animal furs. Both are loyal servants of [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|the Abbot]], yet not so good at guarding. If the characters seem friendly, the mongrelfolk escort them to the courtyard (area S12) and ask the characters to wait there while they fetch [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|the Abbot]] (area S13). If the characters seem hostile, the mongrelfolk let them enter but don't accompany them willingly.
+The gate guards are Otto and [[4. World Almanac/NPCs/Zygfrek Belview (COS).md\|Zygfrek Belview]], two lawful evil [[5. Mechanics/Bestiary/Humanoid/Mongrelfolk (COS).md\|mongrelfolk]] (see appendix D). They sleep under piles of musty animal furs. Both are loyal servants of [[4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]], yet not so good at guarding. If the characters seem friendly, the mongrelfolk escort them to the courtyard (area S12) and ask the characters to wait there while they fetch [[4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]] (area S13). If the characters seem hostile, the mongrelfolk let them enter but don't accompany them willingly.
 
 Hanging on the inside wall of each guard post is a net woven from twigs and pine needles, as well as a shovel. Otto and Zygfrek cover themselves with the nets when they skulk through the village at night in search of fresh graves to dig up.
 
@@ -266,11 +266,11 @@ These two empty buildings help support the curtain wall (area S18) that encloses
 > The quiet is shattered by horrible screams coming from the sheds.
 ^4e2
 
-If the characters are escorted here by Otto and [[5. Mechanics/Bestiary/Npc/Zygfrek Belview (COS).md\|Zygfrek Belview]] (area S6), they are asked to wait in the courtyard while the mongrelfolk fetch [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|the Abbot]] from area S13.
+If the characters are escorted here by Otto and [[4. World Almanac/NPCs/Zygfrek Belview (COS).md\|Zygfrek Belview]] (area S6), they are asked to wait in the courtyard while the mongrelfolk fetch [[4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]] from area S13.
 
 #### S12a. Well
 
-The well is 80 feet deep. Hiding 20 feet down is a chaotic evil [[5. Mechanics/Bestiary/Humanoid/Mongrelfolk (COS).md\|mongrelfolk]] (see appendix D) named [[5. Mechanics/Bestiary/Npc/Mishka Belview (COS).md\|Mishka Belview]]. He clings to the wall of the shaft and scuttles up to attack anyone who shines a light down on him.
+The well is 80 feet deep. Hiding 20 feet down is a chaotic evil [[5. Mechanics/Bestiary/Humanoid/Mongrelfolk (COS).md\|mongrelfolk]] (see appendix D) named [[4. World Almanac/NPCs/Mishka Belview (COS).md\|Mishka Belview]]. He clings to the wall of the shaft and scuttles up to attack anyone who shines a light down on him.
 
 ##### Mishka Belview
 
@@ -284,7 +284,7 @@ These three horse troughs are badly rotted and fall apart if handled or jostled.
 
 #### S12c. Chicken Sheds
 
-Each of these sheds is fitted with an iron padlock. [[5. Mechanics/Bestiary/Npc/Clovin Belview (COS).md\|Clovin Belview]] (area S17) carries the keys to these locks.
+Each of these sheds is fitted with an iron padlock. [[4. World Almanac/NPCs/Clovin Belview (COS).md\|Clovin Belview]] (area S17) carries the keys to these locks.
 
 If the characters open a shed, read:
 
@@ -297,7 +297,7 @@ There are nine of these sheds, each one containing a howling or mewling [[5. Mec
 
 #### S12d. Tethering Posts
 
-Iron rings bolted to these wooden posts were once used to secure horses. Chained to one post is a chaotic neutral [[5. Mechanics/Bestiary/Humanoid/Mongrelfolk (COS).md\|mongrelfolk]] (see appendix D) named [[5. Mechanics/Bestiary/Npc/Marzena Belview (COS).md\|Marzena Belview]], the older sister of [[5. Mechanics/Bestiary/Npc/Mishka Belview (COS).md\|Mishka Belview]] (see area S12a).
+Iron rings bolted to these wooden posts were once used to secure horses. Chained to one post is a chaotic neutral [[5. Mechanics/Bestiary/Humanoid/Mongrelfolk (COS).md\|mongrelfolk]] (see appendix D) named [[4. World Almanac/NPCs/Marzena Belview (COS).md\|Marzena Belview]], the older sister of [[4. World Almanac/NPCs/Mishka Belview (COS).md\|Mishka Belview]] (see area S12a).
 
 If the characters approach Marzena, read:
 
@@ -306,7 +306,7 @@ If the characters approach Marzena, read:
 > The creature chained to the post flaps its leathery wings and takes to the air, but doesn't get far before its chains go taut. She flutters about madly, screaming nonsense.
 ^4e9
 
-[[5. Mechanics/Bestiary/Npc/Marzena Belview (COS).md\|Marzena Belview]] is skittish and afraid of everyone and everything except for [[5. Mechanics/Bestiary/Npc/Clovin Belview (COS).md\|Clovin Belview]] (area S17), whom she allows to come close enough to feed her.
+[[4. World Almanac/NPCs/Marzena Belview (COS).md\|Marzena Belview]] is skittish and afraid of everyone and everything except for [[4. World Almanac/NPCs/Clovin Belview (COS).md\|Clovin Belview]] (area S17), whom she allows to come close enough to feed her.
 
 ##### Marzena Belview
 
@@ -325,20 +325,20 @@ Marzena has the Flight feature (see the [[5. Mechanics/Bestiary/Humanoid/Mongrel
 > Several chairs surround a wooden table that stretches nearly the length of the room. Wooden dishware and gold candelabras are neatly arranged on the table, standing behind which is a young woman with alabaster skin dressed in a torn and soiled red gown. Her auburn hair is neatly bundled so as not to touch her soft shoulders. She seems lost in her own thoughts.
 ^4ed
 
-[[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|The Abbot]] is normally here. If he is here, add:
+[[4. World Almanac/NPCs/The Abbot (COS).md\|The Abbot]] is normally here. If he is here, add:
 
 > [!readaloud] 
 > 
 > A handsome young man in a brown monk's robe gently takes the woman by her hand. A painted wooden holy symbol that depicts the sun hangs from a chain around his neck. He moves with the grace of a saint.
 ^4ee
 
-[[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|The Abbot]] is a [[5. Mechanics/Bestiary/Celestial/Deva.md\|deva]] in disguise (see appendix D, as well as "Something Old" in the "Special Events" section at the end of this chapter). He wears a holy symbol of the Morninglord around his neck. The woman in the tattered red gown is [[5. Mechanics/Bestiary/Npc/Vasilka (COS).md\|Vasilka]], a [[5. Mechanics/Bestiary/Construct/Flesh Golem.md\|flesh golem]] that has been exquisitely put together to serve as Strahd's bride. Characters within 5 feet of [[5. Mechanics/Bestiary/Npc/Vasilka (COS).md\|Vasilka]] can see the seams in her powdered skin where disparate body parts stolen from Krezkite graves have been carefully stitched together.
+[[4. World Almanac/NPCs/The Abbot (COS).md\|The Abbot]] is a [[5. Mechanics/Bestiary/Celestial/Deva.md\|deva]] in disguise (see appendix D, as well as "Something Old" in the "Special Events" section at the end of this chapter). He wears a holy symbol of the Morninglord around his neck. The woman in the tattered red gown is [[4. World Almanac/NPCs/Vasilka (COS).md\|Vasilka]], a [[5. Mechanics/Bestiary/Construct/Flesh Golem.md\|flesh golem]] that has been exquisitely put together to serve as Strahd's bride. Characters within 5 feet of [[4. World Almanac/NPCs/Vasilka (COS).md\|Vasilka]] can see the seams in her powdered skin where disparate body parts stolen from Krezkite graves have been carefully stitched together.
 
-[[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|The Abbot]] is teaching [[5. Mechanics/Bestiary/Npc/Vasilka (COS).md\|Vasilka]] the finer points of etiquette. He also intends to teach her how to dance. [[5. Mechanics/Bestiary/Npc/Vasilka (COS).md\|Vasilka]] obeys his every command. She can't speak but lets loose an unholy scream if harmed. If driven berserk, she fights until [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|the Abbot]] reasserts control or until she is destroyed. She has the supernatural strength of a typical flesh golem despite her smaller size.
+[[4. World Almanac/NPCs/The Abbot (COS).md\|The Abbot]] is teaching [[4. World Almanac/NPCs/Vasilka (COS).md\|Vasilka]] the finer points of etiquette. He also intends to teach her how to dance. [[4. World Almanac/NPCs/Vasilka (COS).md\|Vasilka]] obeys his every command. She can't speak but lets loose an unholy scream if harmed. If driven berserk, she fights until [[4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]] reasserts control or until she is destroyed. She has the supernatural strength of a typical flesh golem despite her smaller size.
 
-[[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|The Abbot]] has no desire to harm the characters. He knows that Strahd has brought them to Barovia for a reason and doesn't want to thwart Strahd's plans for them. His calm, pleasant demeanor changes if they become hostile or if they threaten [[5. Mechanics/Bestiary/Npc/Vasilka (COS).md\|Vasilka]]. He sheds his disguise and assumes his true angelic form, hoping that sight is enough to make them back down.
+[[4. World Almanac/NPCs/The Abbot (COS).md\|The Abbot]] has no desire to harm the characters. He knows that Strahd has brought them to Barovia for a reason and doesn't want to thwart Strahd's plans for them. His calm, pleasant demeanor changes if they become hostile or if they threaten [[4. World Almanac/NPCs/Vasilka (COS).md\|Vasilka]]. He sheds his disguise and assumes his true angelic form, hoping that sight is enough to make them back down.
 
-[[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|The Abbot]] would like to find a proper bridal gown for [[5. Mechanics/Bestiary/Npc/Vasilka (COS).md\|Vasilka]]. If the characters seem friendly, he asks them for help in locating one. In exchange, he offers his magic, agreeing to cast [[5. Mechanics/Spells/Raise Dead.md\|raise dead]] up to three times on their behalf, or give them each the benefit of his healing touch. If they decline to help or behave rudely, he orders them to leave the abbey at once, attacking them if they refuse and doing his utmost to keep [[5. Mechanics/Bestiary/Npc/Vasilka (COS).md\|Vasilka]] safe.
+[[4. World Almanac/NPCs/The Abbot (COS).md\|The Abbot]] would like to find a proper bridal gown for [[4. World Almanac/NPCs/Vasilka (COS).md\|Vasilka]]. If the characters seem friendly, he asks them for help in locating one. In exchange, he offers his magic, agreeing to cast [[5. Mechanics/Spells/Raise Dead.md\|raise dead]] up to three times on their behalf, or give them each the benefit of his healing touch. If they decline to help or behave rudely, he orders them to leave the abbey at once, attacking them if they refuse and doing his utmost to keep [[4. World Almanac/NPCs/Vasilka (COS).md\|Vasilka]] safe.
 
 The music comes from upstairs (area S17). The stone staircase leads down to the wine cellar (area S16). The wooden stairs climb to the loft and belfry (area S17).
 
@@ -346,9 +346,9 @@ The stew pot in the fireplace contains several gallons of hot turnip and rabbit 
 
 #### Roleplaying the Abbot
 
-[[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|The Abbot]] believes he is righteous. He regrets transforming the Belviews into horrid mongrelfolk, and he considers their imprisonment to be necessary, to contain their madness. With regard to Strahd's bride, he believes that she is the key to freeing the land from its curse. The insane Abbot can't be convinced otherwise.
+[[4. World Almanac/NPCs/The Abbot (COS).md\|The Abbot]] believes he is righteous. He regrets transforming the Belviews into horrid mongrelfolk, and he considers their imprisonment to be necessary, to contain their madness. With regard to Strahd's bride, he believes that she is the key to freeing the land from its curse. The insane Abbot can't be convinced otherwise.
 
-[[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|The Abbot]] shares his beliefs openly, claiming that his decisions are based on the Morninglord's guidance. He will give visitors a tour of the abbey if they seem friendly, but he turns hostile if they threaten him or his charges.
+[[4. World Almanac/NPCs/The Abbot (COS).md\|The Abbot]] shares his beliefs openly, claiming that his decisions are based on the Morninglord's guidance. He will give visitors a tour of the abbey if they seem friendly, but he turns hostile if they threaten him or his charges.
 
 #### Treasure
 
@@ -376,18 +376,18 @@ If the characters enter this area making noise or carrying light sources, the go
 > This lightless corridor has multiple doors behind which lie creatures that shatter the quiet with their mad cackles and whispered curses. The stench is overpowering.
 ^4f5
 
-Before he set out to create a bride for Strahd, [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|the Abbot]] tried his hand at creating a more rudimentary golem. This creature paces the hall, tirelessly guarding the abbey's madhouse and making sure no mongrelfolk escape. When the characters first see the golem, read:
+Before he set out to create a bride for Strahd, [[4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]] tried his hand at creating a more rudimentary golem. This creature paces the hall, tirelessly guarding the abbey's madhouse and making sure no mongrelfolk escape. When the characters first see the golem, read:
 
 > [!readaloud] 
 > 
 > Even in the gloom, you can make out a monstrous shape lumbering down the hall. When the darkness can no longer hide its true nature, your eyes are treated to a terrifying, 7-foot-tall assemblage of human body parts.
 ^4f6
 
-This [[5. Mechanics/Bestiary/Construct/Flesh Golem.md\|flesh golem]] attacks anyone who isn't in the company of [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|the Abbot]] or [[5. Mechanics/Bestiary/Npc/Clovin Belview (COS).md\|Clovin Belview]].
+This [[5. Mechanics/Bestiary/Construct/Flesh Golem.md\|flesh golem]] attacks anyone who isn't in the company of [[4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]] or [[4. World Almanac/NPCs/Clovin Belview (COS).md\|Clovin Belview]].
 
 None of the doors leading from the hall are locked. If the characters open any and look inside, they see that the rooms on each side of the hall are dimly lit by natural light that filters through dirty, shuttered windows. The door at the east end of the hall leads outside and can be pulled open to reveal the gardens (area S9).
 
-The sixty [[5. Mechanics/Bestiary/Humanoid/Mongrelfolk (COS).md\|mongrelfolk]] confined here are fed at irregular intervals by [[5. Mechanics/Bestiary/Npc/Clovin Belview (COS).md\|Clovin Belview]]. Dinner is foretold by the ringing of the abbey bell (area S17). These mongrelfolk aren't [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]], but they refuse to leave their rooms for fear of being killed by the golem or cast out of the abbey and forced to fend for themselves. In addition to a dagger, each mongrelfolk has its own wooden soup bowl.
+The sixty [[5. Mechanics/Bestiary/Humanoid/Mongrelfolk (COS).md\|mongrelfolk]] confined here are fed at irregular intervals by [[4. World Almanac/NPCs/Clovin Belview (COS).md\|Clovin Belview]]. Dinner is foretold by the ringing of the abbey bell (area S17). These mongrelfolk aren't [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]], but they refuse to leave their rooms for fear of being killed by the golem or cast out of the abbey and forced to fend for themselves. In addition to a dagger, each mongrelfolk has its own wooden soup bowl.
 
 #### S15a. Fearful Mongrelfolk
 
@@ -505,19 +505,19 @@ Anyone on the curtain wall (area S18) who listens at this room's door hear the s
 > A cot heaped with furs rests in the northeast corner, surrounded by empty wine bottles. An oil lamp burns atop a table nearby, silhouetting a squat creature that has two heads. It sits on the edge of the cot with a viol between its legs. With a crustacean, clawlike appendage, it grasps the neck of the instrument while running a bow gently across its strings with its human hand.
 ^50c
 
-This loft is where [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|the Abbot]] creates his flesh golems. Needles, thread, saws, and other tools lie on a small table in the northwest corner.
+This loft is where [[4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]] creates his flesh golems. Needles, thread, saws, and other tools lie on a small table in the northwest corner.
 
 If anyone rings the bell, a cacophony erupts from the courtyard and the east wing as the mongrelfolk cry out, "Food!" The cries last until the creatures are fed.
 
 ![[6. Resources/5e Modules/Curse Of Strahd/img/092-cos08-07.webp#center\|Clovin Belview]]
 
-[[5. Mechanics/Bestiary/Npc/Clovin Belview (COS).md\|Clovin Belview]], [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|the Abbot]]'s manservant, a two-headed neutral evil [[5. Mechanics/Bestiary/Humanoid/Mongrelfolk (COS).md\|mongrelfolk]] (see appendix D), resides here. He plays the viol beautifully when he is drunk, and the music help puts his half-formed head to sleep. Hidden under the furs of his cot are three bottles of Purple Grapemash No. 3. Several empty wine bottles are strewn about the floor around the cot.
+[[4. World Almanac/NPCs/Clovin Belview (COS).md\|Clovin Belview]], [[4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]]'s manservant, a two-headed neutral evil [[5. Mechanics/Bestiary/Humanoid/Mongrelfolk (COS).md\|mongrelfolk]] (see appendix D), resides here. He plays the viol beautifully when he is drunk, and the music help puts his half-formed head to sleep. Hidden under the furs of his cot are three bottles of Purple Grapemash No. 3. Several empty wine bottles are strewn about the floor around the cot.
 
 #### Roleplaying Clovin
 
 Clovin stands 4 feet, 7 inches tall and has a barrel-like shape. His right head is fully formed and combines the features of a patchy-haired man with those of a goat, complete with stubby horns. His left head is about half normal size and has a soft, cherubic face partly covered with crocodilian hide. Clovin has a crab's pincer in place of his left hand and a bear's paw where his right foot should be. He wears an ill-fitting monk's robe with a belt made of hempen rope.
 
-Clovin is [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|the Abbot]]'s faithful martinet, but he is despised by the other mongrelfolk, who accuse him of hoarding food and slowly starving them to death. He would let them starve, but [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|the Abbot]] has forbidden it.
+Clovin is [[4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]]'s faithful martinet, but he is despised by the other mongrelfolk, who accuse him of hoarding food and slowly starving them to death. He would let them starve, but [[4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]] has forbidden it.
 
 Clovin has the Two-Headed feature (see the [[5. Mechanics/Bestiary/Humanoid/Mongrelfolk (COS).md\|mongrelfolk]] stat block in appendix D). His madness is embodied in the following statement: "Being drunk keeps me sane." He is drunk most of the time, but not to the extent that it impedes his combat ability, and his musical performance improves when he is inebriated.
 
@@ -543,7 +543,7 @@ The creature on the table appears to be made from the body parts of the characte
 > Your eyes play tricks, for what truly lies atop the table are chopped-up body parts, all of them taken from cold, gray, lifeless women, all of them waiting to be stitched together into something horrid.
 ^511
 
-The body parts were plundered from graves in Krezk. They are leftovers—pieces [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|the Abbot]] didn't use in the creation of Strahd's bride (see area S13).
+The body parts were plundered from graves in Krezk. They are leftovers—pieces [[4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]] didn't use in the creation of Strahd's bride (see area S13).
 
 ### S18. Curtain Wall
 
@@ -567,11 +567,11 @@ Long ago, the abbey employed guards to defend its walls, and they were quartered
 
 #### Ezmerelda d'Avenir
 
-If the characters have not already encountered her elsewhere, the vampire hunter [[5. Mechanics/Bestiary/Npc/Ezmerelda Davenir (COS).md\|Ezmerelda d'Avenir]] (see appendix D) is here, plotting her next move.
+If the characters have not already encountered her elsewhere, the vampire hunter [[4. World Almanac/NPCs/Ezmerelda Davenir (COS).md\|Ezmerelda d'Avenir]] (see appendix D) is here, plotting her next move.
 
-Ezmerelda crept into Krezk unseen under cover of darkness and made her way to the abbey, in the hope of gaining knowledge about Strahd and his domain from the residents there. Having met [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|the Abbot]] and Strahd's "bride" (area S13), Ezmerelda realizes [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|the Abbot]] is insane. [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|The Abbot]] told her that he is expecting Strahd to visit his bride-to-be. Ezmerelda has decided to wait for the vampire to come, so that she can destroy him away from Castle Ravenloft, far from his resting place. She is planning to create a magic circle in this room as an added precaution.
+Ezmerelda crept into Krezk unseen under cover of darkness and made her way to the abbey, in the hope of gaining knowledge about Strahd and his domain from the residents there. Having met [[4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]] and Strahd's "bride" (area S13), Ezmerelda realizes [[4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]] is insane. [[4. World Almanac/NPCs/The Abbot (COS).md\|The Abbot]] told her that he is expecting Strahd to visit his bride-to-be. Ezmerelda has decided to wait for the vampire to come, so that she can destroy him away from Castle Ravenloft, far from his resting place. She is planning to create a magic circle in this room as an added precaution.
 
-As [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|the Abbot]]'s guest, Ezmerelda is free to come and go as she pleases. If the characters seem committed to fighting Strahd, she abandons her plan and offers to join forces with them.
+As [[4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]]'s guest, Ezmerelda is free to come and go as she pleases. If the characters seem committed to fighting Strahd, she abandons her plan and offers to join forces with them.
 
 ### S20. Upstairs Office
 
@@ -641,13 +641,13 @@ You can use one or more of the following special events while the characters exp
 
 This event can occur if the characters don't or can't raise the burgomaster's son, Ilya, from the dead.
 
-If alive, [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|the Abbot]] learns that Ilya died recently and, in his human guise, visits the burgomaster's cottage. If one or more characters are staying there, they hear a knock at the door. Without bothering to introduce himself, [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|the Abbot]] tells the burgomaster and his wife that he wants to raise their son from the dead. He claims that the "gods of light" want the Krezkov bloodline restored.
+If alive, [[4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]] learns that Ilya died recently and, in his human guise, visits the burgomaster's cottage. If one or more characters are staying there, they hear a knock at the door. Without bothering to introduce himself, [[4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]] tells the burgomaster and his wife that he wants to raise their son from the dead. He claims that the "gods of light" want the Krezkov bloodline restored.
 
-The characters can try to interfere in the raising of Ilya Krezkov. Otherwise, the burgomaster digs up his son's corpse. Without needing the requisite material components, [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|the Abbot]] casts a [[5. Mechanics/Spells/Raise Dead.md\|raise dead]], returning Ilya to life with 1 hit point. Anna Krezkova praises [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|the Abbot]] and Saint Markovia for this generous act before tending to her son. The burgomaster, his grief dispelled, fears that he has misjudged [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|the Abbot]] and has no way to repay him for this supreme act of kindness.
+The characters can try to interfere in the raising of Ilya Krezkov. Otherwise, the burgomaster digs up his son's corpse. Without needing the requisite material components, [[4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]] casts a [[5. Mechanics/Spells/Raise Dead.md\|raise dead]], returning Ilya to life with 1 hit point. Anna Krezkova praises [[4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]] and Saint Markovia for this generous act before tending to her son. The burgomaster, his grief dispelled, fears that he has misjudged [[4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]] and has no way to repay him for this supreme act of kindness.
 
 #### Development
 
-Ilya Krezkov returns to life with a random form of indefinite madness (see ""Madness Effects"" in chapter 8, "Running the Game," of the "Dungeon Master's Guide"). [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|The Abbot]] uses the raising of Ilya as leverage to get the burgomaster to undertake an unusual quest (see "Something Borrowed" below).
+Ilya Krezkov returns to life with a random form of indefinite madness (see ""Madness Effects"" in chapter 8, "Running the Game," of the "Dungeon Master's Guide"). [[4. World Almanac/NPCs/The Abbot (COS).md\|The Abbot]] uses the raising of Ilya as leverage to get the burgomaster to undertake an unusual quest (see "Something Borrowed" below).
 
 ### Something New
 
@@ -659,7 +659,7 @@ Kretyana was raised to believe that newborns are soulless if they don't cry, and
 
 ### Something Borrowed
 
-[[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|The Abbot]] needs a bridal gown. He doesn't trust the mongrelfolk to find one, so he pays a visit to Burgomaster Krezkov and instructs him to obtain a gown within a month, either as compensation for raising his dead son (see "Something Old" above) or on pain of death.
+[[4. World Almanac/NPCs/The Abbot (COS).md\|The Abbot]] needs a bridal gown. He doesn't trust the mongrelfolk to find one, so he pays a visit to Burgomaster Krezkov and instructs him to obtain a gown within a month, either as compensation for raising his dead son (see "Something Old" above) or on pain of death.
 
 No one in Krezk can fashion such a gown, leaving the burgomaster with no choice but to look elsewhere. His wife, Anna, says she should personally lead a well-armed group of Krezkites to the east to Vallaki.
 
@@ -667,19 +667,19 @@ No one in Krezk can fashion such a gown, leaving the burgomaster with no choice 
 
 Anna Krezkova (LG female human [[5. Mechanics/Bestiary/Humanoid/Noble.md\|noble]]) bids her husband farewell and leaves with two [[5. Mechanics/Bestiary/Humanoid/Guard.md\|guards]], four [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoners]], and a [[5. Mechanics/Bestiary/Beast/Mule.md\|mule]] laden with provisions. If the characters are present, the burgomaster urges them to provide escort. If they agree, check for random encounters as they make their way along the Old Svalich Road, as normal. If the guards at Vallaki's gates can be convinced to let them in, Anna and the characters can begin searching for a bridal gown or a dressmaker. Local dressmakers are willing to fashion a gown for 50 gp, but Anna can't afford it, and the dress won't be finished in time. The dressmakers are quick to point out that Baroness Lydia Petrovna, the wife of Vallaki's burgomaster, owns a beautiful white bridal gown (see chapter 5, area N3p). The baroness, eager to please, is willing to give up her dress for a good cause, although her husband won't allow it and could care less about Krezk's problems.
 
-If the characters don't accompany Anna on her quest, her expedition falls prey to the perils of the wilderness and never returns. Krezkov sends more villagers to find them, and these villagers are also lost. Unwilling to risk any more lives, Krezkov visits the abbey for the first time in his life and makes a desperate plea to [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|the Abbot]], who ignores the plea. Characters can escort the burgomaster to the abbey or eavesdrop on the burgomaster's conversation with [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|the Abbot]]. If they do, they hear [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|the Abbot]] promise "divine retribution" as punishment.
+If the characters don't accompany Anna on her quest, her expedition falls prey to the perils of the wilderness and never returns. Krezkov sends more villagers to find them, and these villagers are also lost. Unwilling to risk any more lives, Krezkov visits the abbey for the first time in his life and makes a desperate plea to [[4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]], who ignores the plea. Characters can escort the burgomaster to the abbey or eavesdrop on the burgomaster's conversation with [[4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]]. If they do, they hear [[4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]] promise "divine retribution" as punishment.
 
-The evening after the burgomaster's visit, [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|the Abbot]] releases all the mongrelfolk in the abbey's madhouse (area S15) and sets them on the village. They steal pigs, chickens, and anything else that's edible. None of the villagers are harmed, but their food supplies are depleted, and `dice: 2d6|avg` (`2d6`) mongrelfolk are killed. The surviving mongrelfolk return to the abbey with their plunder. The burgomaster is so distraught that he hangs himself from the rafters of his cottage a few days later.
+The evening after the burgomaster's visit, [[4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]] releases all the mongrelfolk in the abbey's madhouse (area S15) and sets them on the village. They steal pigs, chickens, and anything else that's edible. None of the villagers are harmed, but their food supplies are depleted, and `dice: 2d6|avg` (`2d6`) mongrelfolk are killed. The surviving mongrelfolk return to the abbey with their plunder. The burgomaster is so distraught that he hangs himself from the rafters of his cottage a few days later.
 
-The characters can stop all this from happening by delivering the dress to [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|the Abbot]]. They can also stop the mayhem by halting the mongrelfolk as they descend from the abbey or by killing [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|the Abbot]] beforehand.
+The characters can stop all this from happening by delivering the dress to [[4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]]. They can also stop the mayhem by halting the mongrelfolk as they descend from the abbey or by killing [[4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]] beforehand.
 
 #### Development
 
-If Lydia Petrovna's bridal gown is delivered to [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|the Abbot]], he honors whatever deal he made with the characters. If the characters resort to magical trickery (for example, creating an illusory dress), [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|the Abbot]] becomes hostile toward them once the deception is revealed.
+If Lydia Petrovna's bridal gown is delivered to [[4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]], he honors whatever deal he made with the characters. If the characters resort to magical trickery (for example, creating an illusory dress), [[4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]] becomes hostile toward them once the deception is revealed.
 
 ### Something Blue
 
-This encounter occurs if the characters bring [[5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md\|Ireena Kolyana]] to Krezk, as the priest [[5. Mechanics/Bestiary/Npc/Donavich (COS).md\|Donavich]] suggested (see chapter 3, area E5f).
+This encounter occurs if the characters bring [[4. World Almanac/NPCs/Ireena Kolyana (COS).md\|Ireena Kolyana]] to Krezk, as the priest [[4. World Almanac/NPCs/Donavich (COS).md\|Donavich]] suggested (see chapter 3, area E5f).
 
 Ireena hears a gentle voice calling to her. It leads her to the edge of the blessed pool (area S4). If the characters follow her, read:
 

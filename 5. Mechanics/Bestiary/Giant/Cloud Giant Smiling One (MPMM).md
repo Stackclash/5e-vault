@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Cloud Giant Smiling One"]
 ---
-# [Cloud Giant Smiling One](compendium\bestiary\giant/cloud-giant-smiling-one-mpmm.md)
+# [[5. Mechanics\Bestiary\Giant\Cloud Giant Smiling One (MPMM).md|Cloud Giant Smiling One]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 81*  
 
 Smiling ones are cloud giants who honor and emulate the craftiness and deceit of the deity Memnor above all else. They are tricksters supreme who use sleight of hand, deception, misdirection, and magic in their pursuit of wealth. They also possess a flair for unpredictability and a wicked sense of humor. Smiling ones overstep all bounds of decorum with their behavior, doing and saying things that even other knavish folk consider beneath their dignity.

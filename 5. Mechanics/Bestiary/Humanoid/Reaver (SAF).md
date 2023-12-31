@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Reaver"]
 ---
-# [Reaver](compendium\bestiary\humanoid/reaver-saf.md)
+# [[5. Mechanics\Bestiary\Humanoid\Reaver (SAF).md|Reaver]]
 *Source: Strongholds and Followers p. 72*  
 
 ```statblock

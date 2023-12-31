@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Treant"]
 ---
-# [Treant](compendium\bestiary\plant/treant.md)
+# [[5. Mechanics\Bestiary\Plant\Treant.md|Treant]]
 *Source: Monster Manual p. 289, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD.*  
 
 Treants are awakened trees that dwell in ancient forests. Although treants prefer to while away the days, months, and years in quiet contemplation, they fiercely protect their woodland demesnes from outside threats.

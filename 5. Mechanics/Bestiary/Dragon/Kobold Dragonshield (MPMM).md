@@ -13,7 +13,7 @@ tags:
 statblock: inline
 aliases: ["Kobold Dragonshield"]
 ---
-# [Kobold Dragonshield](compendium\bestiary\dragon/kobold-dragonshield-mpmm.md)
+# [[5. Mechanics\Bestiary\Dragon\Kobold Dragonshield (MPMM).md|Kobold Dragonshield]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 163*  
 
 > [!quote]- A quote from Mordenkainen  

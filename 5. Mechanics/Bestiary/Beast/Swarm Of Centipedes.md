@@ -16,7 +16,7 @@ tags:
 statblock: inline
 aliases: ["Swarm of Centipedes"]
 ---
-# [Swarm of Centipedes](compendium\bestiary\beast/swarm-of-centipedes.md)
+# [[5. Mechanics\Bestiary\Beast\Swarm Of Centipedes.md|Swarm of Centipedes]]
 *Source: Monster Manual p. 338, Curse of Strahd. Available in the SRD.*  
 
 > [!note] The Nature of Swarms

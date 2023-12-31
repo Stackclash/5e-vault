@@ -9,8 +9,8 @@ tags:
 statblock: inline
 aliases: ["Distended Corpse"]
 ---
-# [Distended Corpse](compendium\bestiary\humanoid/distended-corpse-cos.md)
-*Source: Curse of Strahd p. 165, Derived from *  
+# [[5. Mechanics\Bestiary\Humanoid\Distended Corpse (COS).md|Distended Corpse]]
+*Source: Curse of Strahd p. 165*  
 
 ```statblock
 "name": "Distended Corpse (CoS)"

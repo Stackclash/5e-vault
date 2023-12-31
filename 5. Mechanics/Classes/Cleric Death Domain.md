@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/cleric/death
 - compendium/src/5e/dmg
 - domain/death
+- subclass/cleric/death
 aliases: ["Death Domain"]
 ---
 # Death Domain

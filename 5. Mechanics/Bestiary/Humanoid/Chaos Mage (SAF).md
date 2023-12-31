@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Chaos Mage"]
 ---
-# [Chaos Mage](compendium\bestiary\humanoid/chaos-mage-saf.md)
+# [[5. Mechanics\Bestiary\Humanoid\Chaos Mage (SAF).md|Chaos Mage]]
 *Source: Strongholds and Followers p. 79*  
 
 ```statblock

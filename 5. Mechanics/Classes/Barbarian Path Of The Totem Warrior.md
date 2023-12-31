@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/barbarian/totem-warrior
 - compendium/src/5e/phb
+- subclass/barbarian/totem-warrior
 aliases: ["Path of the Totem Warrior"]
 ---
 # Path of the Totem Warrior

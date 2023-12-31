@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Draft Horse"]
 ---
-# [Draft Horse](compendium\bestiary\beast/draft-horse.md)
+# [[5. Mechanics\Bestiary\Beast\Draft Horse.md|Draft Horse]]
 *Source: Monster Manual p. 321, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 ```statblock

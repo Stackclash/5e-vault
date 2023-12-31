@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Aberrant Spirit (5th-level Spell)"]
 ---
-# [Aberrant Spirit (5th-level Spell)](compendium\bestiary\aberration/aberrant-spirit-5th-level-spell-tce.md)
+# [[5. Mechanics\Bestiary\Aberration\Aberrant Spirit-5th Level Spell (TCE).md|Aberrant Spirit (5th-level Spell)]]
 *Source: Tasha's Cauldron of Everything p. 109*  
 
 ```statblock

@@ -2,26 +2,27 @@
 obsidianUIMode: preview
 pronounced: 
 race: 
-gender: 
+sex: 
 age: 
 alignment: 
-condition: Healthy
+condition: healthy
 occupation: 
 group: 
 religion: 
-location: Vallaki
+location: 
 personality: 
 ideal: 
 bond: 
 flaw: 
 goals: 
 likes: 
-dislikes: 
+dislikes:
 ---
+
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  "`=this.pronounced`"
-> ![[PlaceholderImage.png|cover hm-sm]]
+> ![[4. World Almanac/NPCs/img/brom-martikov.webp|cover hm-sm]] 
 > ###### Bio
 >  |
 > ---|---|

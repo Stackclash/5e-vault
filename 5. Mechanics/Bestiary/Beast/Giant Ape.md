@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Giant Ape"]
 ---
-# [Giant Ape](compendium\bestiary\beast/giant-ape.md)
+# [[5. Mechanics\Bestiary\Beast\Giant Ape.md|Giant Ape]]
 *Source: Monster Manual p. 323. Available in the SRD and the Basic Rules.*  
 
 ```statblock

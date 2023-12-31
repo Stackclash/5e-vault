@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Cutpurse"]
 ---
-# [Cutpurse](compendium\bestiary\humanoid/cutpurse-saf.md)
+# [[5. Mechanics\Bestiary\Humanoid\Cutpurse (SAF).md|Cutpurse]]
 *Source: Strongholds and Followers p. 79*  
 
 ```statblock

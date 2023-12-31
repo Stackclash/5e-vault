@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Juvenile Mimic"]
 ---
-# [Juvenile Mimic](compendium\bestiary\monstrosity/juvenile-mimic-tce.md)
+# [[5. Mechanics\Bestiary\Monstrosity\Juvenile Mimic (TCE).md|Juvenile Mimic]]
 *Source: Tasha's Cauldron of Everything p. 167*  
 
 ```statblock

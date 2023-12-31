@@ -10,10 +10,10 @@ tags:
 statblock: inline
 aliases: ["Devourer"]
 ---
-# [Devourer](compendium\bestiary\undead/devourer-mpmm.md)
+# [[5. Mechanics\Bestiary\Undead\Devourer (MPMM).md|Devourer]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 93*  
 
-Of all the abominations unleashed by [[5. Mechanics/Bestiary/Npc/Orcus (MPMM).md|Orcus]], devourers are among the most feared. These tall, mummy-like Undead wander the planes, consuming souls and spreading Orcus's creed of replacing all life with everlasting death.
+Of all the abominations unleashed by [[4. World Almanac/NPCs/Orcus (MPMM).md|Orcus]], devourers are among the most feared. These tall, mummy-like Undead wander the planes, consuming souls and spreading Orcus's creed of replacing all life with everlasting death.
 
 A lesser demon that proves itself to Orcus might be granted the privilege of becoming a devourer. The Prince of Undeath transforms such a demon into an 8-foot-tall, desiccated biped with a hollowed-out ribcage, then fills the new creature with a hunger for souls. Orcus grants each new devourer the essence of a less fortunate demon to power the devourer's first foray into the planes. Most devourers remain in the Abyss or on the Astral or Ethereal Plane, pursuing Orcus's schemes and interests in those realms. When Orcus sends devourers to the Material Plane, he often sets them on a mission to create, control, and lead a plague of Undead. [[5. Mechanics/Bestiary/Undead/Skeleton.md|Skeletons]], [[5. Mechanics/Bestiary/Undead/Zombie.md|zombies]], [[5. Mechanics/Bestiary/Undead/Ghoul.md|ghouls]], [[5. Mechanics/Bestiary/Undead/Ghast.md|ghasts]], and [[5. Mechanics/Bestiary/Undead/Shadow.md|shadows]] are particularly attracted to the presence of a devourer.
 

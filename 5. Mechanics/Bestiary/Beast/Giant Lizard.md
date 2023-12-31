@@ -14,7 +14,7 @@ tags:
 statblock: inline
 aliases: ["Giant Lizard"]
 ---
-# [Giant Lizard](compendium\bestiary\beast/giant-lizard.md)
+# [[5. Mechanics\Bestiary\Beast\Giant Lizard.md|Giant Lizard]]
 *Source: Monster Manual p. 326. Available in the SRD and the Basic Rules.*  
 
 A giant lizard can be ridden or used as a draft animal. Lizardfolk also keep them as pets, and subterranean giant lizards are used as mounts and pack animals by drow, duergar, and other Underdark dwellers.

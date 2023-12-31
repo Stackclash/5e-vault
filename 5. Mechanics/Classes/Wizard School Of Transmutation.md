@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/wizard/transmutation
 - compendium/src/5e/phb
+- subclass/wizard/transmutation
 aliases: ["School of Transmutation"]
 ---
 # School of Transmutation

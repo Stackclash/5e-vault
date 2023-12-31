@@ -9,8 +9,8 @@ tags:
 statblock: inline
 aliases: ["Phantom Warrior (Archer)"]
 ---
-# [Phantom Warrior (Archer)](compendium\bestiary\undead/phantom-warrior-archer-cos.md)
-*Source: Curse of Strahd p. 142, Derived from *  
+# [[5. Mechanics\Bestiary\Undead\Phantom Warrior Archer (COS).md|Phantom Warrior (Archer)]]
+*Source: Curse of Strahd p. 142*  
 
 ```statblock
 "name": "Phantom Warrior (Archer) (CoS)"

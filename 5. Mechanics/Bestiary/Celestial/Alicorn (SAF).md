@@ -9,8 +9,8 @@ tags:
 statblock: inline
 aliases: ["Alicorn"]
 ---
-# [Alicorn](compendium\bestiary\celestial/alicorn-saf.md)
-*Source: Strongholds and Followers p. 55, Derived from *  
+# [[5. Mechanics\Bestiary\Celestial\Alicorn (SAF).md|Alicorn]]
+*Source: Strongholds and Followers p. 55*  
 
 Natives of Arcadia, the winged [[5. Mechanics/Bestiary/Celestial/Unicorn.md|unicorn]] (not to be confused with the horned [[5. Mechanics/Bestiary/Celestial/Pegasus.md|pegasus]]) can be summoned by a particularly devout paladin to serve as their mount. They do not particularly like the Mundane World, but they enjoy and find satisfaction in hunting evil and chaos. They will serve as mount and companion to a holy knight only so long as it brings the opportunity to smash evil, a sport they are denied on their home plane.
 

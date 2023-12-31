@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Animated Armor"]
 ---
-# [Animated Armor](compendium\bestiary\construct/animated-armor.md)
+# [[5. Mechanics\Bestiary\Construct\Animated Armor.md|Animated Armor]]
 *Source: Monster Manual p. 19, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 This empty steel shell clamors as it moves, heavy plates banging and grinding against one another like the vengeful spirit of a fallen knight. Ponderous but persistent, this magical guardian is almost always a suit of plate armor.

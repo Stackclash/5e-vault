@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Kuo-toa"]
 ---
-# [Kuo-toa](compendium\bestiary\humanoid/kuo-toa.md)
+# [[5. Mechanics\Bestiary\Humanoid\Kuo Toa.md|Kuo-toa]]
 *Source: Monster Manual p. 199*  
 
 Kuo-toa are degenerate fishlike humanoids that once inhabited the shores and islands of the surface world. Long ago humans and their ilk drove the kuo-toa underground, where they dwell in madness and everlasting night. Kuo-toa can no longer abide daylight.

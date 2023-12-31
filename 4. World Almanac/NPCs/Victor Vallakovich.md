@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 pronounced: 
 race: 
-gender: 
+sex: 
 age: 
 alignment: 
-condition: ""
+condition: healthy
 occupation: 
 group: 
 religion: 
@@ -16,12 +16,13 @@ bond:
 flaw: 
 goals: 
 likes: 
-dislikes: 
+dislikes:
 ---
+
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  "`=this.pronounced`"
-> ![[PlaceholderImage.png|cover hm-sm]]
+> ![[4. World Almanac/NPCs/img/005-cos02-02.webp|cover hm-sm]] 
 > ###### Bio
 >  |
 > ---|---|

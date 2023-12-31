@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/wizard/bladesinging
 - compendium/src/5e/tce
+- subclass/wizard/bladesinging
 aliases: ["Bladesinging"]
 ---
 # Bladesinging

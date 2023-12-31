@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Ancient Ruby Dragon"]
 ---
-# [Ancient Ruby Dragon](compendium\bestiary\dragon/ancient-ruby-dragon-saf.md)
+# [[5. Mechanics\Bestiary\Dragon\Ancient Ruby Dragon (SAF).md|Ancient Ruby Dragon]]
 *Source: Strongholds and Followers p. 203*  
 
 The rubies protect the knowledge of reality, which they call realitas, the essential thing that separates real things from illusion.

@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Half-Red Dragon Veteran"]
 ---
-# [Half-Red Dragon Veteran](compendium\bestiary\humanoid/half-red-dragon-veteran.md)
+# [[5. Mechanics\Bestiary\Humanoid\Half Red Dragon Veteran.md|Half-Red Dragon Veteran]]
 *Source: Monster Manual p. 180. Available in the SRD.*  
 
 When a dragon in polymorphed form mates with another creature, the union sometimes produces half dragon offspring. A creature might also transform into a half-dragon as a result of a mad wizard's spell or a ritual bath in dragon's blood. In all these cases, the result is a creature that combines the essence of a dragon with the form of its original race. Regardless of their origins, all half-dragons have similar features and appearance, gaining special senses, resistance to destructive energy, and a breath weapon.
@@ -36,14 +36,7 @@ The half-dragon gains [[/5. Mechanics/Rules/Senses.md#blindsight|blindsight]] wi
 
 The half-dragon gains resistance to a type of damage based on its color.
 
-| Color | Damage Resistance |
-|-------|-------------------|
-| Black or copper | Acid |
-| Blue or bronze | Lightning |
-| Brass, gold, or red | Fire |
-| Green | Poison |
-| Silver or white | Cold |
-^color-damage-resistance
+![[5. Mechanics/Tables/Resistances.md|Resistances]]
 
 ### Languages
 
@@ -53,12 +46,7 @@ The half-dragon speaks Draconic in addition to any other languages it knows.
 
 The half-dragon has the breath weapon of its dragon half. The half-dragon's size determines how this action functions.
 
-| Size | Breath Weapon | Optional Prerequisite |
-|------|---------------|-----------------------|
-| Large or smaller | As a wyrmling | Challenge 2 or higher |
-| Huge | As a young dragon | Challenge 7 or higher |
-| Gargantuan | As an adult dragon | Challenge 8 or higher |
-^size-breath-weapon-optional-prerequisite
+![[5. Mechanics/Tables/New Action Breath Weapon.md|New Action: Breath Weapon]]
 
 ### Sample Half-Dragon
 

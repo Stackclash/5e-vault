@@ -9,8 +9,6 @@ aliases: ["Armor of Magical Strength"]
 # Armor of Magical Strength
 *Source: Tasha's Cauldron of Everything p. 20*  
 
-***Prerequisites*** A suit of armor (requires attunement)
-
 This armor has 6 charges. The wearer can expend the armor's charges in the following ways:
 
 - When the wearer makes a Strength check or a Strength saving throw, it can expend 1 charge to add a bonus to the roll equal to its Intelligence modifier.  

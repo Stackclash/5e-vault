@@ -16,7 +16,7 @@ tags:
 statblock: inline
 aliases: ["Orc"]
 ---
-# [Orc](compendium\bestiary\humanoid/orc.md)
+# [[5. Mechanics\Bestiary\Humanoid\Orc.md|Orc]]
 *Source: Monster Manual p. 246, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  
 
 Orcs are savage raiders and pillagers with stooped postures, low foreheads, and piggish faces with prominent lower canines that resemble tusks.

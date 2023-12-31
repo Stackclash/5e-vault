@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Magma Mephit"]
 ---
-# [Magma Mephit](compendium\bestiary\elemental/magma-mephit.md)
+# [[5. Mechanics\Bestiary\Elemental\Magma Mephit.md|Magma Mephit]]
 *Source: Monster Manual p. 216. Available in the SRD.*  
 
 ## Mephits

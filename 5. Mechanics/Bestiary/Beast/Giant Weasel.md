@@ -12,7 +12,7 @@ tags:
 statblock: inline
 aliases: ["Giant Weasel"]
 ---
-# [Giant Weasel](compendium\bestiary\beast/giant-weasel.md)
+# [[5. Mechanics\Bestiary\Beast\Giant Weasel.md|Giant Weasel]]
 *Source: Monster Manual p. 329. Available in the SRD and the Basic Rules.*  
 
 ```statblock

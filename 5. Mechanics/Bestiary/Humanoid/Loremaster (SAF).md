@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Loremaster"]
 ---
-# [Loremaster](compendium\bestiary\humanoid/loremaster-saf.md)
+# [[5. Mechanics\Bestiary\Humanoid\Loremaster (SAF).md|Loremaster]]
 *Source: Strongholds and Followers p. 73*  
 
 ```statblock

@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Water Elemental Myrmidon"]
 ---
-# [Water Elemental Myrmidon](compendium\bestiary\elemental/water-elemental-myrmidon-mpmm.md)
+# [[5. Mechanics\Bestiary\Elemental\Water Elemental Myrmidon (MPMM).md|Water Elemental Myrmidon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 123*  
 
 ## Elemental Myrmidons

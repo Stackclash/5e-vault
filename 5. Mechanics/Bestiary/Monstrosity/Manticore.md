@@ -14,7 +14,7 @@ tags:
 statblock: inline
 aliases: ["Manticore"]
 ---
-# [Manticore](compendium\bestiary\monstrosity/manticore.md)
+# [[5. Mechanics\Bestiary\Monstrosity\Manticore.md|Manticore]]
 *Source: Monster Manual p. 213. Available in the SRD and the Basic Rules.*  
 
 A monster in every sense of the word, a manticore has a vaguely humanoid head, the body of a lion, and the wings of a dragon. A bristling mane stretches down the creature's back, and its long tail ends in a cluster of deadly spikes that can impale prey at impressive range.

@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Shrieker"]
 ---
-# [Shrieker](compendium\bestiary\plant/shrieker.md)
+# [[5. Mechanics\Bestiary\Plant\Shrieker.md|Shrieker]]
 *Source: Monster Manual p. 138. Available in the SRD.*  
 
 A shrieker is a human-sized mushroom that emits a piercing screech to drive off creatures that disturb it. Other creatures use the fungi as an alarm to signal the approach of prey, and various intelligent races of the Underdark cultivate shriekers on the outskirts of their communities to discourage trespassers.

@@ -9,8 +9,8 @@ tags:
 statblock: inline
 aliases: ["Walking Corpse"]
 ---
-# [Walking Corpse](compendium\bestiary\humanoid/walking-corpse-cos.md)
-*Source: Curse of Strahd p. 165, Derived from *  
+# [[5. Mechanics\Bestiary\Humanoid\Walking Corpse (COS).md|Walking Corpse]]
+*Source: Curse of Strahd p. 165*  
 
 ```statblock
 "name": "Walking Corpse (CoS)"

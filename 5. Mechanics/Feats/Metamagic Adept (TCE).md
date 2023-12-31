@@ -9,6 +9,8 @@ aliases: ["Metamagic Adept"]
 # Metamagic Adept
 *Source: Tasha's Cauldron of Everything p. 80*  
 
+***Prerequisites*** Spellcasting or Pact Magic feature
+
 You've learned how to exert your will on your spells to alter how they function:
 
 - You learn two [[5. Mechanics/Optional Features/List Metamagic.md\|Metamagic]] options of your choice from the sorcerer class. You can use only one Metamagic option on a spell when you cast it, unless the option says otherwise. Whenever you reach a level that grants the Ability Score Improvement feature, you can replace one of these Metamagic options with another one from the sorcerer class.  

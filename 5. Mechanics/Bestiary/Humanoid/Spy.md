@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Spy"]
 ---
-# [Spy](compendium\bestiary\humanoid/spy.md)
+# [[5. Mechanics\Bestiary\Humanoid\Spy.md|Spy]]
 *Source: Monster Manual p. 349, Curse of Strahd, Eberron: Rising from the Last War. Available in the SRD.*  
 
 Rulers, nobles, merchants, guildmasters, and other wealthy individuals use spies to gain the upper hand in a world of cutthroat politics. A spy is trained to secretly gather information. Loyal spies would rather die than divulge information that could compromise them or their employers.

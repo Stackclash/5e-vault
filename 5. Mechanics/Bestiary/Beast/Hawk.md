@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Hawk"]
 ---
-# [Hawk](compendium\bestiary\beast/hawk.md)
+# [[5. Mechanics\Bestiary\Beast\Hawk.md|Hawk]]
 *Source: Monster Manual p. 330. Available in the SRD and the Basic Rules.*  
 
 ```statblock

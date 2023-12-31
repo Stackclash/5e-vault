@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Healer"]
 ---
-# [Healer](compendium\bestiary\humanoid/healer-saf.md)
+# [[5. Mechanics\Bestiary\Humanoid\Healer (SAF).md|Healer]]
 *Source: Strongholds and Followers p. 73*  
 
 ```statblock

@@ -12,7 +12,7 @@ tags:
 statblock: inline
 aliases: ["Ogre Chain Brute"]
 ---
-# [Ogre Chain Brute](compendium\bestiary\giant/ogre-chain-brute-mpmm.md)
+# [[5. Mechanics\Bestiary\Giant\Ogre Chain Brute (MPMM).md|Ogre Chain Brute]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 201*  
 
 An ogre chain brute wields a great spiked chain, swinging it with both hands in a wide circle to knock foes off their feet. Alternatively, the ogre can swing the chain in a crushing overhead smash.

@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/rogue/phantom
 - compendium/src/5e/tce
+- subclass/rogue/phantom
 aliases: ["Phantom"]
 ---
 # Phantom

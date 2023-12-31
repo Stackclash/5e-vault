@@ -3,6 +3,6 @@
   "promptDelete": false,
   "attachmentFolderPath": "z_Assets",
   "alwaysUpdateLinks": true,
-  "propertiesInDocument": "visible",
+  "propertiesInDocument": "hidden",
   "showUnsupportedFiles": true
 }

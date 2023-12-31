@@ -12,16 +12,16 @@ aliases: ["Chapter 13: The Amber Temple"]
 
 A secret society of good-aligned wizards built the Amber Temple in the Balinok Mountains more than two thousand years ago. They needed a vault in which to contain the evil vestiges (remnants of dead, malevolent entities) they had captured and the hoard of forbidden knowledge they had amassed. They dedicated the temple to a god of secrets, whom they trusted to keep it hidden from the rest of the world until the end of time. Unfortunately for the wizards, even the will of a god couldn't prevent other evil creatures from learning the temple's location. The wizards were forced to guard the temple themselves, to keep its secrets from falling into villainous hands. The evil forces that were imprisoned within the temple eventually corrupted the wizards, turning them against one another.
 
-The wizards were dead and gone by the time an evil archmage named [[5. Mechanics/Bestiary/Npc/Exethanter (COS).md\|Exethanter]] arrived at the temple. He breached the temple's wards, spoke to a vestige trapped in amber, and discovered the secret to becoming a lich. After his transformation, the lich [[5. Mechanics/Bestiary/Npc/Exethanter (COS).md\|Exethanter]] took over the temple and turned the skulls of it previous defenders into flameskulls under his command. [[5. Mechanics/Bestiary/Npc/Exethanter (COS).md\|Exethanter]] then took it upon himself to watch over the temple, not to hoard its evil secrets but to share them openly. Meanwhile, the evils within the temple fed on each other, growing in power.
+The wizards were dead and gone by the time an evil archmage named [[4. World Almanac/NPCs/Exethanter (COS).md\|Exethanter]] arrived at the temple. He breached the temple's wards, spoke to a vestige trapped in amber, and discovered the secret to becoming a lich. After his transformation, the lich [[4. World Almanac/NPCs/Exethanter (COS).md\|Exethanter]] took over the temple and turned the skulls of it previous defenders into flameskulls under his command. [[4. World Almanac/NPCs/Exethanter (COS).md\|Exethanter]] then took it upon himself to watch over the temple, not to hoard its evil secrets but to share them openly. Meanwhile, the evils within the temple fed on each other, growing in power.
 
 > [!note] Extreme Cold
 > 
-> The Amber Temple is a cold, dark place carved out of the snowy slope of Mount Ghakis. The temperature throughout the complex is −10 degrees Fahrenheit (−23 degrees Celsius). Characters who don't have heat sources, cold weather gear, or magic to protect them are subject to the effects of extreme cold, as described in the ""Weather"" section in chapter 5, "Adventure Environments," of the "Dungeon Master's Guide". If [[5. Mechanics/Bestiary/Npc/Kasimir Velikov (COS).md\|Kasimir Velikov]] (see chapter 5, area N9a) is with the party, his [[5. Mechanics/Items/Ring Of Warmth.md\|ring of warmth]] protects him from the effects of the extreme cold.
+> The Amber Temple is a cold, dark place carved out of the snowy slope of Mount Ghakis. The temperature throughout the complex is −10 degrees Fahrenheit (−23 degrees Celsius). Characters who don't have heat sources, cold weather gear, or magic to protect them are subject to the effects of extreme cold, as described in the ""Weather"" section in chapter 5, "Adventure Environments," of the "Dungeon Master's Guide". If [[4. World Almanac/NPCs/Kasimir Velikov (COS).md\|Kasimir Velikov]] (see chapter 5, area N9a) is with the party, his [[5. Mechanics/Items/Ring Of Warmth.md\|ring of warmth]] protects him from the effects of the extreme cold.
 ^extreme-cold
 
-When Strahd came to the temple seeking immortality, [[5. Mechanics/Bestiary/Npc/Exethanter (COS).md\|Exethanter]] sensed that he was a man of destiny. The evil powers in the temple felt something much stronger: a darkness that eclipsed their own. Strahd communed with these evil vestiges and forged a pact with them. When Strahd later murdered his brother Sergei, that pact was sealed with blood. Strahd transformed into a vampire, and the Dark Powers turned his land into a prison.
+When Strahd came to the temple seeking immortality, [[4. World Almanac/NPCs/Exethanter (COS).md\|Exethanter]] sensed that he was a man of destiny. The evil powers in the temple felt something much stronger: a darkness that eclipsed their own. Strahd communed with these evil vestiges and forged a pact with them. When Strahd later murdered his brother Sergei, that pact was sealed with blood. Strahd transformed into a vampire, and the Dark Powers turned his land into a prison.
 
-Strahd has returned to the temple several times to learn new magic and to find a means of escaping his fate, but the Dark Powers have no intention of giving him up. These recent years have been difficult for [[5. Mechanics/Bestiary/Npc/Exethanter (COS).md\|Exethanter]], whose body and mind have been falling apart. The lich has grown weak and forgetful. He no longer remembers his name or his spells. He knows only that the Dark Powers that created Strahd's domain were born in the temple, and that these entities feed on the evil that Strahd represents. Strahd is the darkness that sustains them.
+Strahd has returned to the temple several times to learn new magic and to find a means of escaping his fate, but the Dark Powers have no intention of giving him up. These recent years have been difficult for [[4. World Almanac/NPCs/Exethanter (COS).md\|Exethanter]], whose body and mind have been falling apart. The lich has grown weak and forgetful. He no longer remembers his name or his spells. He knows only that the Dark Powers that created Strahd's domain were born in the temple, and that these entities feed on the evil that Strahd represents. Strahd is the darkness that sustains them.
 
 Characters who visit the temple can sense the presence of great evil. The dark vestiges imprisoned within the temple will try to corrupt them, offering them secrets and gifts in exchange for a taste of the evil that lurks within their true hearts.
 
@@ -220,11 +220,11 @@ The hanging lanthorns have [[5. Mechanics/Spells/Continual Flame.md\|continual f
 
 ![[6. Resources/5e Modules/Curse Of Strahd/img/119-cos13-03.webp#center\|Vilnius and Quasit]]
 
-Hiding behind the lectern is [[5. Mechanics/Bestiary/Npc/Vilnius (COS).md\|Vilnius]] (NE male human [[5. Mechanics/Bestiary/Humanoid/Mage.md\|mage]]) and his [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]] [[5. Mechanics/Bestiary/Fiend/Quasit.md\|quasit]] familiar. Characters who have a passive Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) score of 17 or higher notice him. A character who actively searches the room for hidden occupants spots [[5. Mechanics/Bestiary/Npc/Vilnius (COS).md\|Vilnius]] with a successful DC 12 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check.
+Hiding behind the lectern is [[4. World Almanac/NPCs/Vilnius (COS).md\|Vilnius]] (NE male human [[5. Mechanics/Bestiary/Humanoid/Mage.md\|mage]]) and his [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]] [[5. Mechanics/Bestiary/Fiend/Quasit.md\|quasit]] familiar. Characters who have a passive Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) score of 17 or higher notice him. A character who actively searches the room for hidden occupants spots [[4. World Almanac/NPCs/Vilnius (COS).md\|Vilnius]] with a successful DC 12 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check.
 
-[[5. Mechanics/Bestiary/Npc/Vilnius (COS).md\|Vilnius]] wears scorched robes, his unkempt hair is half burned away, and his face and arms are covered with blisters from magic fire. He is the apprentice of Jakarion, the dead wizard in area X17. After the flameskulls there incinerated his master, the wounded [[5. Mechanics/Bestiary/Npc/Vilnius (COS).md\|Vilnius]] retreated here. He eats vermin to survive. The [[5. Mechanics/Bestiary/Construct/Amber Golem (COS).md\|amber golem]] has been patrolling the hallway outside (area X8), and [[5. Mechanics/Bestiary/Npc/Vilnius (COS).md\|Vilnius]] won't leave this room until he knows the golem has been destroyed.
+[[4. World Almanac/NPCs/Vilnius (COS).md\|Vilnius]] wears scorched robes, his unkempt hair is half burned away, and his face and arms are covered with blisters from magic fire. He is the apprentice of Jakarion, the dead wizard in area X17. After the flameskulls there incinerated his master, the wounded [[4. World Almanac/NPCs/Vilnius (COS).md\|Vilnius]] retreated here. He eats vermin to survive. The [[5. Mechanics/Bestiary/Construct/Amber Golem (COS).md\|amber golem]] has been patrolling the hallway outside (area X8), and [[4. World Almanac/NPCs/Vilnius (COS).md\|Vilnius]] won't leave this room until he knows the golem has been destroyed.
 
-[[5. Mechanics/Bestiary/Npc/Vilnius (COS).md\|Vilnius]] is a greedy, treacherous coward. He curses his dead master for leading them to this wretched land. If the characters try to befriend him, he is suspicious of their intentions. He would like to retrieve his dead master's staff and spellbook, but otherwise he has no interest in exploring more of the Amber Temple. He knows the following information about the place:
+[[4. World Almanac/NPCs/Vilnius (COS).md\|Vilnius]] is a greedy, treacherous coward. He curses his dead master for leading them to this wretched land. If the characters try to befriend him, he is suspicious of their intentions. He would like to retrieve his dead master's staff and spellbook, but otherwise he has no interest in exploring more of the Amber Temple. He knows the following information about the place:
 
 - The temple is a haven for forbidden knowledge.  
 - Flameskulls—constructs made from the remains of dead wizards—guard the temple.  
@@ -232,9 +232,9 @@ Hiding behind the lectern is [[5. Mechanics/Bestiary/Npc/Vilnius (COS).md\|Vilni
 
 #### Treasure
 
-[[5. Mechanics/Bestiary/Npc/Vilnius (COS).md\|Vilnius]] carries his spellbook, which contains all the spells he has prepared. He also has a gold amulet shaped like an upside-down V hidden under his robes. Of exquisite design, the amulet is worth 1,000 gp. It is the [[5. Mechanics/Items/Masters Amulet.md\|control amulet]] for the [[5. Mechanics/Bestiary/Construct/Shield Guardian.md\|shield guardian]] in area X35.
+[[4. World Almanac/NPCs/Vilnius (COS).md\|Vilnius]] carries his spellbook, which contains all the spells he has prepared. He also has a gold amulet shaped like an upside-down V hidden under his robes. Of exquisite design, the amulet is worth 1,000 gp. It is the [[5. Mechanics/Items/Masters Amulet.md\|control amulet]] for the [[5. Mechanics/Bestiary/Construct/Shield Guardian.md\|shield guardian]] in area X35.
 
-Although he can tell that the amulet is magical, he doesn't know its purpose. The amulet thrums when it comes within 10 feet of the shield guardian. If [[5. Mechanics/Bestiary/Npc/Vilnius (COS).md\|Vilnius]] realizes what the amulet does, he won't part with it.
+Although he can tell that the amulet is magical, he doesn't know its purpose. The amulet thrums when it comes within 10 feet of the shield guardian. If [[4. World Almanac/NPCs/Vilnius (COS).md\|Vilnius]] realizes what the amulet does, he won't part with it.
 
 ### X10. Northeast Annex
 
@@ -468,7 +468,7 @@ The iron chest is empty.
 > Red pinpoints of light burn in the skeleton's eye sockets. "Do I know you?" it asks.
 ^61e
 
-The [[5. Mechanics/Bestiary/Undead/Lich.md\|lich]] has fewer hit points than normal (99 hit points), doesn't remember its name ([[5. Mechanics/Bestiary/Npc/Exethanter (COS).md\|Exethanter]]), and has forgotten all of its prepared spells. It does know its cantrips. In its current condition, the lich has a challenge rating of 10 (5,900 XP). A [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell restores the lich's memory and all of its spells. Another casting of the spell restores its normal hit point maximum (135).
+The [[5. Mechanics/Bestiary/Undead/Lich.md\|lich]] has fewer hit points than normal (99 hit points), doesn't remember its name ([[4. World Almanac/NPCs/Exethanter (COS).md\|Exethanter]]), and has forgotten all of its prepared spells. It does know its cantrips. In its current condition, the lich has a challenge rating of 10 (5,900 XP). A [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell restores the lich's memory and all of its spells. Another casting of the spell restores its normal hit point maximum (135).
 
 If the characters restore its memory, the lich gives them the passwords to all the locked doors in the Amber Temple (with the exception of the door into area X28, where its phylactery is hidden). It also provides all the information pertaining to Strahd and the temple presented at the start of this chapter. If the characters think to ask, it provides them with the command words for any of the books in the library (area K30).
 
@@ -480,7 +480,7 @@ The lich assumes that the characters have come seeking knowledge and power. If i
 
 The furnishings here are in poor condition and fall apart easily.
 
-There are three secret doors in this room. The secret door to area X28 has an [[5. Mechanics/Spells/Arcane Lock.md\|arcane lock]] spell cast on it. The password to suppress the spell is "[[5. Mechanics/Bestiary/Npc/Exethanter (COS).md\|Exethanter]]."
+There are three secret doors in this room. The secret door to area X28 has an [[5. Mechanics/Spells/Arcane Lock.md\|arcane lock]] spell cast on it. The password to suppress the spell is "[[4. World Almanac/NPCs/Exethanter (COS).md\|Exethanter]]."
 
 #### Treasure
 
@@ -495,7 +495,7 @@ The secret door to this room has an [[5. Mechanics/Spells/Arcane Lock.md\|arcane
 > Behind the secret door is a small, dusty room. Rising from the floor in the eastern half of the room is a scaly arm and claw clutching a small box made of bone.
 ^621
 
-The scaly arm is merely a carved pedestal. The bone box is [[5. Mechanics/Bestiary/Npc/Exethanter (COS).md\|Exethanter]]'s phylactery. If it takes 20 or more radiant damage from a single source, the phylactery is destroyed.
+The scaly arm is merely a carved pedestal. The bone box is [[4. World Almanac/NPCs/Exethanter (COS).md\|Exethanter]]'s phylactery. If it takes 20 or more radiant damage from a single source, the phylactery is destroyed.
 
 ### X29. Secret Room
 
@@ -986,20 +986,20 @@ Two dusk elves are drawn to the Amber Temple for different reasons. You can use 
 
 ### Rahadin's Prayer
 
-Strahd's loyal chamberlain, [[5. Mechanics/Bestiary/Npc/Rahadin (COS).md\|Rahadin]] (see appendix D), believes that his master forged a pact with the nameless god of secrets to whom the Amber Temple is dedicated. The dusk elf comes to the temple on occasion to petition the dark god into releasing his master from his torment.
+Strahd's loyal chamberlain, [[4. World Almanac/NPCs/Rahadin (COS).md\|Rahadin]] (see appendix D), believes that his master forged a pact with the nameless god of secrets to whom the Amber Temple is dedicated. The dusk elf comes to the temple on occasion to petition the dark god into releasing his master from his torment.
 
-[[5. Mechanics/Bestiary/Npc/Rahadin (COS).md\|Rahadin]] rides a [[5. Mechanics/Spells/Phantom Steed.md\|phantom steed]] along Tsolenka Pass to the Amber Temple and kneels before the great statue in area X5. (The arcanaloth that guards the temple knows [[5. Mechanics/Bestiary/Npc/Rahadin (COS).md\|Rahadin]] and doesn't harm him. The arcanaloth and the flameskulls don't attack other visitors until [[5. Mechanics/Bestiary/Npc/Rahadin (COS).md\|Rahadin]] is killed or leaves.) [[5. Mechanics/Bestiary/Npc/Rahadin (COS).md\|Rahadin]] then pulls out a live toad, swallows it whole as a sacrifice, and offers a gesture of supplication to the secret god.
+[[4. World Almanac/NPCs/Rahadin (COS).md\|Rahadin]] rides a [[5. Mechanics/Spells/Phantom Steed.md\|phantom steed]] along Tsolenka Pass to the Amber Temple and kneels before the great statue in area X5. (The arcanaloth that guards the temple knows [[4. World Almanac/NPCs/Rahadin (COS).md\|Rahadin]] and doesn't harm him. The arcanaloth and the flameskulls don't attack other visitors until [[4. World Almanac/NPCs/Rahadin (COS).md\|Rahadin]] is killed or leaves.) [[4. World Almanac/NPCs/Rahadin (COS).md\|Rahadin]] then pulls out a live toad, swallows it whole as a sacrifice, and offers a gesture of supplication to the secret god.
 
 #### Development
 
-[[5. Mechanics/Bestiary/Npc/Rahadin (COS).md\|Rahadin]] knows that Strahd will deal with the characters when he sees fit. If the characters confront the dusk elf, he defends himself but won't cause them any permanent harm. Strahd's chamberlain would sooner die than allow himself to be captured. [[5. Mechanics/Bestiary/Npc/Rahadin (COS).md\|Rahadin]] doesn't divulge his reason for visiting the temple, or even who is he or what role he serves. Left to his own devices, he rides back to Castle Ravenloft.
+[[4. World Almanac/NPCs/Rahadin (COS).md\|Rahadin]] knows that Strahd will deal with the characters when he sees fit. If the characters confront the dusk elf, he defends himself but won't cause them any permanent harm. Strahd's chamberlain would sooner die than allow himself to be captured. [[4. World Almanac/NPCs/Rahadin (COS).md\|Rahadin]] doesn't divulge his reason for visiting the temple, or even who is he or what role he serves. Left to his own devices, he rides back to Castle Ravenloft.
 
 ### Kasimir's Dark Gift
 
-If [[5. Mechanics/Bestiary/Npc/Kasimir Velikov (COS).md\|Kasimir Velikov]] (see appendix D and chapter 5, area N9a) finds his way to area X42 and accepts the dark gift of Zhudun, he then asks the characters to accompany him to the catacombs of Castle Ravenloft so that he can restore the life of his centuries-dead sister, [[5. Mechanics/Bestiary/Npc/Patrina Velikovna (COS).md\|Patrina Velikovna]] (see chapter 4, area K84, crypt 21).
+If [[4. World Almanac/NPCs/Kasimir Velikov (COS).md\|Kasimir Velikov]] (see appendix D and chapter 5, area N9a) finds his way to area X42 and accepts the dark gift of Zhudun, he then asks the characters to accompany him to the catacombs of Castle Ravenloft so that he can restore the life of his centuries-dead sister, [[4. World Almanac/NPCs/Patrina Velikovna (COS).md\|Patrina Velikovna]] (see chapter 4, area K84, crypt 21).
 
 #### Development
 
-If Kasimir succeeds in his quest, the newly resurrected Patrina (NE female dusk elf [[5. Mechanics/Bestiary/Humanoid/Archmage.md\|archmage]]) feigns repentance until she regains her strength and her spells, whereupon she travels to Castle Ravenloft and attempts to return to Strahd, seeking to become his vampire bride at last. The mutilation of her brother at the hands of [[5. Mechanics/Bestiary/Npc/Rahadin (COS).md\|Rahadin]], Strahd's chamberlain, doesn't sit well with her. She hopes to avenge her brother and distract the characters by setting them on a path to killing [[5. Mechanics/Bestiary/Npc/Rahadin (COS).md\|Rahadin]], who has long opposed her marriage to Strahd.
+If Kasimir succeeds in his quest, the newly resurrected Patrina (NE female dusk elf [[5. Mechanics/Bestiary/Humanoid/Archmage.md\|archmage]]) feigns repentance until she regains her strength and her spells, whereupon she travels to Castle Ravenloft and attempts to return to Strahd, seeking to become his vampire bride at last. The mutilation of her brother at the hands of [[4. World Almanac/NPCs/Rahadin (COS).md\|Rahadin]], Strahd's chamberlain, doesn't sit well with her. She hopes to avenge her brother and distract the characters by setting them on a path to killing [[4. World Almanac/NPCs/Rahadin (COS).md\|Rahadin]], who has long opposed her marriage to Strahd.
 
 Strahd has lost interest in Patrina as a consort. Given the chance, he turns her into a [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md\|vampire spawn]] and puts her back in her crypt—a fate she would do everything in her power to prevent. Her attraction to Strahd is outmatched by a desire to increase her own power. She is no one's plaything.

@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Owl"]
 ---
-# [Owl](compendium\bestiary\beast/owl.md)
+# [[5. Mechanics\Bestiary\Beast\Owl.md|Owl]]
 *Source: Monster Manual p. 333. Available in the SRD and the Basic Rules.*  
 
 ```statblock

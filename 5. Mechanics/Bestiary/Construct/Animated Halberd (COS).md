@@ -9,8 +9,8 @@ tags:
 statblock: inline
 aliases: ["Animated Halberd"]
 ---
-# [Animated Halberd](compendium\bestiary\construct/animated-halberd-cos.md)
-*Source: Curse of Strahd p. 59, Derived from *  
+# [[5. Mechanics\Bestiary\Construct\Animated Halberd (COS).md|Animated Halberd]]
+*Source: Curse of Strahd p. 59*  
 
 ```statblock
 "name": "Animated Halberd (CoS)"

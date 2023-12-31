@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Guardian Portrait"]
 ---
-# [Guardian Portrait](compendium\bestiary\construct/guardian-portrait-cos.md)
+# [[5. Mechanics\Bestiary\Construct\Guardian Portrait (COS).md|Guardian Portrait]]
 *Source: Curse of Strahd p. 227*  
 
 A guardian portrait looks like a finely rendered and beautifully framed work of art, usually depicting someone important in a realistic manner. The picture and its frame are bound with powerful magic and are inseparable.

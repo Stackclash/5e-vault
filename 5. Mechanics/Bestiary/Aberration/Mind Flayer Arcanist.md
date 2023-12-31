@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Mind Flayer Arcanist"]
 ---
-# [Mind Flayer Arcanist](compendium\bestiary\aberration/mind-flayer-arcanist.md)
+# [[5. Mechanics\Bestiary\Aberration\Mind Flayer Arcanist.md|Mind Flayer Arcanist]]
 *Source: Monster Manual p. 222*  
 
 A few mind flayers supplement their psionic power with arcane spells. However, they are regarded as deviants by their illithid peers and usually shunned.

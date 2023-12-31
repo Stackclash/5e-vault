@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Rhinoceros"]
 ---
-# [Rhinoceros](compendium\bestiary\beast/rhinoceros.md)
+# [[5. Mechanics\Bestiary\Beast\Rhinoceros.md|Rhinoceros]]
 *Source: Monster Manual p. 336. Available in the SRD and the Basic Rules.*  
 
 ```statblock

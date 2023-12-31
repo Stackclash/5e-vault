@@ -9,8 +9,8 @@ tags:
 statblock: inline
 aliases: ["Barovian Scout"]
 ---
-# [Barovian Scout](compendium\bestiary\humanoid/barovian-scout-cos.md)
-*Source: Curse of Strahd p. 29, Derived from *  
+# [[5. Mechanics\Bestiary\Humanoid\Barovian Scout (COS).md|Barovian Scout]]
+*Source: Curse of Strahd p. 29*  
 
 ```statblock
 "name": "Barovian Scout (CoS)"

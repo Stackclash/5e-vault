@@ -16,7 +16,7 @@ tags:
 statblock: inline
 aliases: ["Swarm of Insects"]
 ---
-# [Swarm of Insects](compendium\bestiary\beast/swarm-of-insects.md)
+# [[5. Mechanics\Bestiary\Beast\Swarm Of Insects.md|Swarm of Insects]]
 *Source: Monster Manual p. 338, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 > [!note] The Nature of Swarms

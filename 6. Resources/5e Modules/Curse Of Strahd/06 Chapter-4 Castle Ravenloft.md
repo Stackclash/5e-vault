@@ -28,8 +28,8 @@ In most circumstances, a random encounter occurs on a roll of 18 or higher on a 
 
 | dice: d12 + d8 | Encounter |
 |----------------|-----------|
-| 2 | [[5. Mechanics/Bestiary/Npc/Ezmerelda Davenir (COS).md\|Ezmerelda d'Avenir]] (see appendix D) |
-| 3 | [[5. Mechanics/Bestiary/Npc/Rahadin (COS).md\|Rahadin]] (see appendix D) |
+| 2 | [[4. World Almanac/NPCs/Ezmerelda Davenir (COS).md\|Ezmerelda d'Avenir]] (see appendix D) |
+| 3 | [[4. World Almanac/NPCs/Rahadin (COS).md\|Rahadin]] (see appendix D) |
 | 4 | 1 black [[5. Mechanics/Bestiary/Beast/Cat.md\|cat]] |
 | 5 | 1 [[5. Mechanics/Bestiary/Construct/Broom Of Animated Attack (COS).md\|broom of animated attack]] (see appendix D) |
 | 6 | `dice: 1d4 + 1\|avg` (`1d4 + 1`) [[5. Mechanics/Bestiary/Construct/Flying Sword.md\|flying swords]] |
@@ -46,7 +46,7 @@ In most circumstances, a random encounter occurs on a roll of 18 or higher on a 
 | 17 | Giant spider cocoon |
 | 18 | 1 [[5. Mechanics/Bestiary/Humanoid/Barovian Witch (COS).md\|Barovian witch]] (see appendix D) |
 | 19 | `dice: 1d4 + 1\|avg` (`1d4 + 1`) [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md\|vampire spawn]] |
-| 20 | [[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]] (see appendix D) |
+| 20 | [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]] (see appendix D) |
 ^random-encounters-in-castle-ravenloft
 
 Use the descriptions that follow to run each encounter.
@@ -138,7 +138,7 @@ If the characters are moving quietly and not using light sources, they can try t
 
 #### Ezmerelda d'Avenir
 
-[[5. Mechanics/Bestiary/Npc/Ezmerelda Davenir (COS).md\|Ezmerelda]] has cast a [[5. Mechanics/Spells/Greater Invisibility.md\|greater invisibility]] spell on herself and is stealthily exploring the castle. Choose one character in the back rank of the party's marching order, and read the following text to that character's player:
+[[4. World Almanac/NPCs/Ezmerelda Davenir (COS).md\|Ezmerelda]] has cast a [[5. Mechanics/Spells/Greater Invisibility.md\|greater invisibility]] spell on herself and is stealthily exploring the castle. Choose one character in the back rank of the party's marching order, and read the following text to that character's player:
 
 > [!readaloud] 
 > 
@@ -183,14 +183,14 @@ A giant spider made this cocoon. Characters who can reach it can cut it open to 
 
 #### Rahadin
 
-If [[5. Mechanics/Bestiary/Npc/Rahadin (COS).md\|Rahadin]] was killed or captured in a previous encounter, this encounter doesn't occur. Otherwise, Strahd's mysterious chamberlain approaches quietly. A character whose passive Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) score meets or exceeds [[5. Mechanics/Bestiary/Npc/Rahadin (COS).md\|Rahadin]]'s Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) check hear him.
+If [[4. World Almanac/NPCs/Rahadin (COS).md\|Rahadin]] was killed or captured in a previous encounter, this encounter doesn't occur. Otherwise, Strahd's mysterious chamberlain approaches quietly. A character whose passive Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) score meets or exceeds [[4. World Almanac/NPCs/Rahadin (COS).md\|Rahadin]]'s Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) check hear him.
 
 > [!readaloud] 
 > 
 > "The master wishes to see you," intones a grim voice in the darkness.
 ^18a
 
-[[5. Mechanics/Bestiary/Npc/Rahadin (COS).md\|Rahadin]] directs the characters to a random location in the castle, determined by rolling a `dice: d6|avg` (`d6`):
+[[4. World Almanac/NPCs/Rahadin (COS).md\|Rahadin]] directs the characters to a random location in the castle, determined by rolling a `dice: d6|avg` (`d6`):
 
 | dice: d6 | Location |
 |----------|----------|
@@ -204,7 +204,7 @@ If [[5. Mechanics/Bestiary/Npc/Rahadin (COS).md\|Rahadin]] was killed or capture
 
 Strahd isn't actually at that location unless the card reading (see chapter 1) indicates that he is.
 
-If the characters ask [[5. Mechanics/Bestiary/Npc/Rahadin (COS).md\|Rahadin]] to lead the way, he declines. If the characters ask for directions, he tells them whether they need to ascend, descend, or remain on the level they're at. If they attack him, he fights to the death. Otherwise, he doesn't leave until after they do.
+If the characters ask [[4. World Almanac/NPCs/Rahadin (COS).md\|Rahadin]] to lead the way, he declines. If the characters ask for directions, he tells them whether they need to ascend, descend, or remain on the level they're at. If they attack him, he fights to the death. Otherwise, he doesn't leave until after they do.
 
 #### Shadows
 
@@ -219,7 +219,7 @@ If more than one [[5. Mechanics/Bestiary/Undead/Shadow.md\|shadow]] is present, 
 
 #### Strahd von Zarovich
 
-[[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md\|Strahd]] makes a surprise appearance.
+[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd]] makes a surprise appearance.
 
 > [!readaloud] 
 > 
@@ -302,7 +302,7 @@ If the characters are moving quietly and not carrying light sources, they can tr
 
 ##### Treasure
 
-The wights carry longswords that have the crest of Barovia worked into their cross guards. Each wight also carries a pouch holding `dice: 2d20|avg` (`2d20`) ep, each coin of Barovian mintage and featuring the profiled visage of [[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]].
+The wights carry longswords that have the crest of Barovia worked into their cross guards. Each wight also carries a pouch holding `dice: 2d20|avg` (`2d20`) ep, each coin of Barovian mintage and featuring the profiled visage of [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]].
 
 ## Walls of Ravenloft
 
@@ -340,7 +340,7 @@ Two gates, one north of the keep and one to the south, prevent easy access to wh
 > A massive wall juts out to connect the outer walls of the castle with the keep. A twenty-foot-wide, twenty-foot-tall archway offers passage through the connecting wall but is blocked by a rusting iron portcullis.
 ^1a3
 
-The portcullis is unlocked and can be lifted with a successful DC 15 Strength check. It can also be opened with a command word that only Strahd and [[5. Mechanics/Bestiary/Npc/Cyrus Belview (COS).md\|Cyrus Belview]] (area K62) know. Unless the portcullis is wedged or propped open, it falls back into place once it is let go.
+The portcullis is unlocked and can be lifted with a successful DC 15 Strength check. It can also be opened with a command word that only Strahd and [[4. World Almanac/NPCs/Cyrus Belview (COS).md\|Cyrus Belview]] (area K62) know. Unless the portcullis is wedged or propped open, it falls back into place once it is let go.
 
 ### K3. Servants' Courtyard
 
@@ -396,7 +396,7 @@ Anyone who falls from the overlook plummets 1,000 feet.
 
 #### Fortunes of Ravenloft
 
-If your card reading indicates an encounter with [[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md\|Strahd]] in this area, he is looking out over the balcony.
+If your card reading indicates an encounter with [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd]] in this area, he is looking out over the balcony.
 
 ## Main Floor
 
@@ -454,7 +454,7 @@ If the characters are here by invitation, add the following:
 > An elf with brown skin and long black hair descends the wide staircase, quiet as a cat. He wears a gray cloak over black studded leather armor and has a polished scimitar hanging from his belt. "My master is expecting you," he says.
 ^1b7
 
-The elf is [[5. Mechanics/Bestiary/Npc/Rahadin (COS).md\|Rahadin]], the castle chamberlain (see appendix D). He fights only if attacked. Otherwise, he leads the characters to the dining hall (area K10), points them inside, pulls the doors shut behind them, and withdraws to area K72 by way of the South Tower Stair (area K21).
+The elf is [[4. World Almanac/NPCs/Rahadin (COS).md\|Rahadin]], the castle chamberlain (see appendix D). He fights only if attacked. Otherwise, he leads the characters to the dining hall (area K10), points them inside, pulls the doors shut behind them, and withdraws to area K72 by way of the South Tower Stair (area K21).
 
 #### Development
 
@@ -553,7 +553,7 @@ Gustav's corpse wears a handsome, fur-lined black cloak embroidered with golden 
 
 If your card reading reveals that a treasure is here, it lies on the floor behind the altar.
 
-If your card reading indicates an encounter with [[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md\|Strahd]] in this area, he is among the bats fluttering below the ceiling or he is standing at one end of the chapel—a dark shape in the vast hall.
+If your card reading indicates an encounter with [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd]] in this area, he is among the bats fluttering below the ceiling or he is standing at one end of the chapel—a dark shape in the vast hall.
 
 ### K16. North Chapel Access
 
@@ -684,7 +684,7 @@ Each arrow slit is 2½ feet tall and 4 inches wide.
 > Dim light filters in through a dust-caked window in the east wall. A door next to the window leads to the castle's northeast courtyard.Everything in this room is coated with dust, including a large, heavy table in the center of the floor. A thick book lies open on a desk, with an inkwell and a quill next to it. There is a broken door in the north wall, and a staircase in the south wall plunges into darkness. On each side of the staircase, a skeletal figure draped in gleaming chain mail stands sagging at attention, holding a rusty halberd.
 ^1de
 
-The skeletons, which were assembled by [[5. Mechanics/Bestiary/Npc/Cyrus Belview (COS).md\|Cyrus Belview]] (see area K62), are held together with wire frames and hung on pegs. They pose no threat.
+The skeletons, which were assembled by [[4. World Almanac/NPCs/Cyrus Belview (COS).md\|Cyrus Belview]] (see area K62), are held together with wire frames and hung on pegs. They pose no threat.
 
 The staircase descends to area K62. The east door leading to the courtyard is swollen in its frame and requires a successful DC 10 Strength check to force open. The north door is cracked and hangs loose on its hinges; beyond it lies another dust-filled chamber (area K24).
 
@@ -724,7 +724,7 @@ Both staircases in the north wall lead down to area K19. The eastern double door
 
 If your card reading reveals that a treasure is here, it lies on the marble dais, just behind the throne.
 
-If your card reading indicates an encounter with [[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md\|Strahd]] in this area, he is sitting on the wooden throne.
+If your card reading indicates an encounter with [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd]] in this area, he is sitting on the wooden throne.
 
 ### K26. Guards' Post
 
@@ -735,7 +735,7 @@ If the characters enter this hall through either set of double doors, read:
 > The doors open to reveal another set of double doors ten feet ahead. Between these doors, a ten-foot-wide corridor stretches north to south. At each end of the hall, floating in the darkness, is a human skeleton clad in the rusted armor and tattered livery of a castle guard.
 ^1e6
 
-The "floating" skeletons hang from pegs on the north and south walls. The skeletons, which were assembled by [[5. Mechanics/Bestiary/Npc/Cyrus Belview (COS).md\|Cyrus Belview]] (see area K62), are held together with wire and are harmless. Behind the skeleton on the north wall is a secret door that can be pushed open into area K33.
+The "floating" skeletons hang from pegs on the north and south walls. The skeletons, which were assembled by [[4. World Almanac/NPCs/Cyrus Belview (COS).md\|Cyrus Belview]] (see area K62), are held together with wire and are harmless. Behind the skeleton on the north wall is a secret door that can be pushed open into area K33.
 
 If the characters enter this hall by way of the secret door that adjoins area K33, they see the skeleton hanging on the inside of the secret door as soon as they pull it open, and, with a light source or [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]], can see the skeleton at the south end of the hall as well.
 
@@ -798,7 +798,7 @@ The staircase climbs from area K16 to area K28. It seems unstable but is sturdy.
 > In the center of this clutter stands a great black desk. A figure crouches atop a tall stool, scratching on a seemingly endless scroll of paper with a dry quill pen. Nearby a tasseled rope hangs from a hole in the ceiling.
 ^1f0
 
-The figure is [[5. Mechanics/Bestiary/Npc/Lief Lipsiege (COS).md\|Lief Lipsiege]] (CE male human [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoner]]), an accountant. He is chained to the heavy wooden desk and has no interest in the characters or their concerns. Under no circumstances does he voluntarily leave the room. Lief pulls the rope the instant he feels threatened.
+The figure is [[4. World Almanac/NPCs/Lief Lipsiege (COS).md\|Lief Lipsiege]] (CE male human [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoner]]), an accountant. He is chained to the heavy wooden desk and has no interest in the characters or their concerns. Under no circumstances does he voluntarily leave the room. Lief pulls the rope the instant he feels threatened.
 
 ![[6. Resources/5e Modules/Curse Of Strahd/img/029-cos04-07.webp#center\|Lief Lipsiege]]
 
@@ -874,7 +874,7 @@ A door in the north wall is easy to spot from this side (no ability check requir
 > Oil lamps illuminate this long, rectangular chamber with oak-paneled walls. Stained, yellowed lace hangs neatly from eight canopied beds. The figure of a woman moves lithely about the room, dusting furniture and humming quietly. Around her pale, slender neck is a gold necklace with a ruby pendant.
 ^1f9
 
-The maid, [[5. Mechanics/Bestiary/Npc/Helga Ruvak (COS).md\|Helga Ruvak]], is a [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md\|vampire spawn]] who claims to be the daughter of the village bootmaker, kidnapped and forced into service by Strahd. She pleads, on her hands and knees if necessary, to be saved from this awful place.
+The maid, [[4. World Almanac/NPCs/Helga Ruvak (COS).md\|Helga Ruvak]], is a [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md\|vampire spawn]] who claims to be the daughter of the village bootmaker, kidnapped and forced into service by Strahd. She pleads, on her hands and knees if necessary, to be saved from this awful place.
 
 Helga will join the party if the characters ask her along. She intends to attack the characters but does so only if she senses an opportunity that doesn't involve having to fight the entire party. She also attacks if commanded to do so by Strahd.
 
@@ -959,7 +959,7 @@ The room has wooden doors in the north and west walls, and an ornate steel door 
 
 The harp stands 6½ feet tall, weighs close to 300 pounds, and is fashioned of dark, stained wood carved with images of harts and roses. Its taut strings are made of gut.
 
-A character who plays the harp and succeeds on a DC 15 Charisma ([[/5. Mechanics/Rules/Skills.md#Performance\|Performance]]) check does well enough to summon the ghost of Pidlwick, a short little man dressed as a fool, with a tiny jingling bell at the end of his pointy dunce cap. He asks, "Why have you summoned me from beyond the grave?" Regardless of the answer, he commends the character for playing well and says, "In my crypt below the castle, thou shalt find a treasure worthy of one so talented as thee! May it help thee set this troubled place to rest." If the characters think to ask him who he is, the fool replies, "Pidlwick." If asked how he died, he replies humorlessly, "I fell down the stairs." If [[5. Mechanics/Bestiary/Npc/Pidlwick Ii (COS).md\|Pidlwick II]] (see area K59) is with the party, the ghost points at the clockwork effigy and says, "He pushed me down the stairs."
+A character who plays the harp and succeeds on a DC 15 Charisma ([[/5. Mechanics/Rules/Skills.md#Performance\|Performance]]) check does well enough to summon the ghost of Pidlwick, a short little man dressed as a fool, with a tiny jingling bell at the end of his pointy dunce cap. He asks, "Why have you summoned me from beyond the grave?" Regardless of the answer, he commends the character for playing well and says, "In my crypt below the castle, thou shalt find a treasure worthy of one so talented as thee! May it help thee set this troubled place to rest." If the characters think to ask him who he is, the fool replies, "Pidlwick." If asked how he died, he replies humorlessly, "I fell down the stairs." If [[4. World Almanac/NPCs/Pidlwick Ii (COS).md\|Pidlwick II]] (see area K59) is with the party, the ghost points at the clockwork effigy and says, "He pushed me down the stairs."
 
 With nothing more to add, the ghost of Pidlwick fades away and doesn't appear again. If the characters attack the ghost, it attacks them in turn.
 
@@ -971,12 +971,12 @@ The lute, though old and covered in dust, has survived the passage of time. It i
 
 > [!readaloud] 
 > 
-> A blazing hearth fire fills this room with rolling waves of red and amber light. The walls are lined with ancient books and tomes, their leather covers well oiled and preserved through careful use. All is in order here. The stone floor is concealed beneath a thick, luxurious rug. In the center of the room is a large, low table, waxed and polished to a mirrored finish. Even the poker in its stand next to the blazing fireplace is polished. Large, overstuffed divans and couches are arranged about the room. Two chairs of burgundy-colored wood with padded leather seats and back cushions face the hearth. A huge painting hangs over the mantelpiece in a heavy, gilded frame. The rolling firelight illuminates the carefully rendered portrait. It is an exact likeness of [[5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md\|Ireena Kolyana]].
+> A blazing hearth fire fills this room with rolling waves of red and amber light. The walls are lined with ancient books and tomes, their leather covers well oiled and preserved through careful use. All is in order here. The stone floor is concealed beneath a thick, luxurious rug. In the center of the room is a large, low table, waxed and polished to a mirrored finish. Even the poker in its stand next to the blazing fireplace is polished. Large, overstuffed divans and couches are arranged about the room. Two chairs of burgundy-colored wood with padded leather seats and back cushions face the hearth. A huge painting hangs over the mantelpiece in a heavy, gilded frame. The rolling firelight illuminates the carefully rendered portrait. It is an exact likeness of [[4. World Almanac/NPCs/Ireena Kolyana (COS).md\|Ireena Kolyana]].
 ^208
 
 This chamber has several exits, including a large set of double doors in the west wall, a door at each end of the north wall, and a door to the south.
 
-The painting above the fireplace depicts Tatyana, a beautiful young woman with auburn hair. Strahd commissioned the painting over four centuries ago to impress his beloved. The fact that [[5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md\|Ireena Kolyana]] looks exactly like Tatyana is proof to Strahd that both women were born with the same soul.
+The painting above the fireplace depicts Tatyana, a beautiful young woman with auburn hair. Strahd commissioned the painting over four centuries ago to impress his beloved. The fact that [[4. World Almanac/NPCs/Ireena Kolyana (COS).md\|Ireena Kolyana]] looks exactly like Tatyana is proof to Strahd that both women were born with the same soul.
 
 The back wall of the fireplace contains a secret door, which is opened by lifting the poker from its stand. The fire must be extinguished in order for anyone to reach the secret door safely. Otherwise, a creature that enters the fireplace for the first time on a turn or starts its turn there takes `dice: 1d10|avg` (`1d10`) fire damage and catches fire. Until someone takes an action to douse the flames on the creature, it takes `dice: 1d10|avg` (`1d10`) fire damage at the start of each of its turns. (This fire damage is cumulative with the damage from standing in the fireplace.)
 
@@ -1014,7 +1014,7 @@ Characters who teleport to this location from area K78 arrive in front of the pa
 
 If your card reading reveals that a treasure is here, it is resting on the mantelpiece under the portrait of Tatyana.
 
-If your card reading indicates an encounter with [[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md\|Strahd]] in this area, he is sitting back in one of the overstuffed chairs, staring into the fire.
+If your card reading indicates an encounter with [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd]] in this area, he is sitting back in one of the overstuffed chairs, staring into the fire.
 
 ### K38. False Treasury
 
@@ -1092,7 +1092,7 @@ The upper floor of the tower contains 10 pieces of jewelry (250 gp each) in a re
 
 If your card reading reveals that a treasure is here, it is lying atop the coins on the ground floor inside the tower.
 
-If your card reading indicates an encounter with [[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md\|Strahd]] in this area, he is perched atop the tower.
+If your card reading indicates an encounter with [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd]] in this area, he is perched atop the tower.
 
 ### K42. King's Bedchamber
 
@@ -1109,11 +1109,11 @@ Arched double doors lead from this room to the south and east.
 
 The window is divided into four tall panes of glass, each enclosed by a lead framework. The two outermost sections have small iron hinges built into them so that they can be opened, as well as iron latches to lock them in place when they're closed. The window looks out onto the parapet (area K46).
 
-The figure on the bed is [[5. Mechanics/Bestiary/Npc/Gertruda (COS).md\|Gertruda]] (NG female human [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoner]]), the daughter of [[5. Mechanics/Bestiary/Npc/Mad Mary (COS).md\|Mad Mary]] (see chapter 3, area E3). [[5. Mechanics/Bestiary/Npc/Gertruda (COS).md\|Gertruda]] is oblivious to any danger to herself—especially from Strahd, who has [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] her. Sheltered by her mother, she was never allowed to leave home as a child. She finally slipped away and made her way to the castle, drawn by its majesty.
+The figure on the bed is [[4. World Almanac/NPCs/Gertruda (COS).md\|Gertruda]] (NG female human [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoner]]), the daughter of [[4. World Almanac/NPCs/Mad Mary (COS).md\|Mad Mary]] (see chapter 3, area E3). [[4. World Almanac/NPCs/Gertruda (COS).md\|Gertruda]] is oblivious to any danger to herself—especially from Strahd, who has [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] her. Sheltered by her mother, she was never allowed to leave home as a child. She finally slipped away and made her way to the castle, drawn by its majesty.
 
-[[5. Mechanics/Bestiary/Npc/Gertruda (COS).md\|Gertruda]] is innocent, and years spent as a shut-in have twisted her sense of reality. Consequently, she maintains a fairy-tale view of life. When faced with a decision, she almost always makes the most simplistic choice. She is naive to the point of being a danger to herself and others. Fortunately for her, Strahd has not yet bitten her, though he intends to. (If he can do so while the characters look on helplessly, so much the better.)
+[[4. World Almanac/NPCs/Gertruda (COS).md\|Gertruda]] is innocent, and years spent as a shut-in have twisted her sense of reality. Consequently, she maintains a fairy-tale view of life. When faced with a decision, she almost always makes the most simplistic choice. She is naive to the point of being a danger to herself and others. Fortunately for her, Strahd has not yet bitten her, though he intends to. (If he can do so while the characters look on helplessly, so much the better.)
 
-Next to the bed, set into the north wall, is a secret door. It can be pushed open to reveal a dusty hall that ends at a similar secret door in the back of an alcove (see area K45 for details). [[5. Mechanics/Bestiary/Npc/Gertruda (COS).md\|Gertruda]] doesn't know that this secret door exists.
+Next to the bed, set into the north wall, is a secret door. It can be pushed open to reveal a dusty hall that ends at a similar secret door in the back of an alcove (see area K45 for details). [[4. World Almanac/NPCs/Gertruda (COS).md\|Gertruda]] doesn't know that this secret door exists.
 
 ### K43. Bath Chamber
 
@@ -1168,7 +1168,7 @@ The stairs at the west end of the hall descend 40 feet to area K33. An open arch
 
 The walkway runs around the front of the upper portion of the keep. Battlemented walkways extend from the keep north, south, and east to the outer walls of the castle as well. (See map 2 for the length and location of the castle walls.) All the windows leading from this area into the keep are shut and locked, but can easily be broken.
 
-If the characters loiter on the parapets or atop the castle walls for more than 5 minutes, they encounter [[5. Mechanics/Bestiary/Npc/Strahds Animated Armor (COS).md\|Strahd's animated armor]] (see appendix D) making the rounds. It patrols the parapets and the outer walls of Ravenloft day and night. Under a darkened sky, characters without [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]] are more likely to hear the clatter of the armor approaching before they can see it.
+If the characters loiter on the parapets or atop the castle walls for more than 5 minutes, they encounter [[4. World Almanac/NPCs/Strahds Animated Armor (COS).md\|Strahd's animated armor]] (see appendix D) making the rounds. It patrols the parapets and the outer walls of Ravenloft day and night. Under a darkened sky, characters without [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]] are more likely to hear the clatter of the armor approaching before they can see it.
 
 The armor can't be salvaged if it is reduced to 0 hit points.
 
@@ -1195,7 +1195,7 @@ The ornate rug is actually a [[5. Mechanics/Bestiary/Construct/Rug Of Smothering
 
 The wooden, square trapdoor is 4 feet on a side and as thick as the floor, with recessed iron hinges and an iron ring built into the side opposite the hinges. Pulling up on the ring opens the door. Below the trapdoor, characters see one of two things: either a 170-foot-deep shaft (area K31a) or, if the elevator trap has been activated (see area K61), a stone elevator compartment with a secret hatch in its top.
 
-The portrait on the wall depicts [[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]] before he became a vampire. Even in life, he was pale. The eyes of the portrait seem to watch and follow the characters as they explore the area. The picture frame is bolted to the wall and can't be removed without destroying it.
+The portrait on the wall depicts [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]] before he became a vampire. Even in life, he was pale. The eyes of the portrait seem to watch and follow the characters as they explore the area. The picture frame is bolted to the wall and can't be removed without destroying it.
 
 If the characters attack the rug or the picture, or if they attempt to remove either item, the [[5. Mechanics/Bestiary/Construct/Guardian Portrait (COS).md\|guardian portrait]] (see appendix D) attacks.
 
@@ -1215,11 +1215,11 @@ This stairway rises from area K47, past area K54, to area K57.
 > As thunder shakes the tower, heavy beams groan under the weight of the ceiling. Three ornate lanterns hang by chains from these beams, each casting a dim glow. The curved west wall is fitted with three windows of leaded glass in steel latticework. A bookcase sits on the east wall between two doors. Plush, overstuffed chairs and couches are placed about the room. The fabric has faded with age, and the patterns it depicts are nearly gone. Lounging on one couch is a handsome young man whose attire, while elegant, is worn and faded.
 ^22a
 
-The youthful man on the couch is [[5. Mechanics/Bestiary/Npc/Escher (COS).md\|Escher]], a dashing [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md\|vampire spawn]] to whom Strahd has shown favor in the past. [[5. Mechanics/Bestiary/Npc/Escher (COS).md\|Escher]] is feeling somewhat neglected of late and has retreated here until Strahd's mood improves. If attacked, he hurls himself out the window and lands like a cat on the roof of the keep (area K53). He leads pursuers right to Strahd, wherever the lord of the castle happens to be (and regardless of whether the characters are ready to face Strahd).
+The youthful man on the couch is [[4. World Almanac/NPCs/Escher (COS).md\|Escher]], a dashing [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md\|vampire spawn]] to whom Strahd has shown favor in the past. [[4. World Almanac/NPCs/Escher (COS).md\|Escher]] is feeling somewhat neglected of late and has retreated here until Strahd's mood improves. If attacked, he hurls himself out the window and lands like a cat on the roof of the keep (area K53). He leads pursuers right to Strahd, wherever the lord of the castle happens to be (and regardless of whether the characters are ready to face Strahd).
 
 ![[6. Resources/5e Modules/Curse Of Strahd/img/035-cos04-20.webp#center\|Escher and the Three Brides]]
 
-In conversation, [[5. Mechanics/Bestiary/Npc/Escher (COS).md\|Escher]] displays wit with a hint of melancholy. Beneath his arch mood is a dread that Strahd is growing bored of him and will lock him in the catacombs (area K84) with Strahd's other castoff consorts.
+In conversation, [[4. World Almanac/NPCs/Escher (COS).md\|Escher]] displays wit with a hint of melancholy. Beneath his arch mood is a dread that Strahd is growing bored of him and will lock him in the catacombs (area K84) with Strahd's other castoff consorts.
 
 The leaded windows are fitted with iron hinges and can be opened. They can be locked from the inside, though they are currently unlocked. The leaded glass doesn't allow for much of a view. If a character opens a window and leaves it open, there's a 50% chance chance that a [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md\|vampire spawn]] crawling around the outside wall of the tower notices the open window and investigates.
 
@@ -1227,7 +1227,7 @@ The books in the bookcase have no value and aren't much help to the characters. 
 
 #### Treasure
 
-On the third finger of his left hand, [[5. Mechanics/Bestiary/Npc/Escher (COS).md\|Escher]] wears a platinum ring engraved with tiny roses and thorns (worth 150 gp). Around his neck, he wears a gold and ruby pendant (worth 750 gp).
+On the third finger of his left hand, [[4. World Almanac/NPCs/Escher (COS).md\|Escher]] wears a platinum ring engraved with tiny roses and thorns (worth 150 gp). Around his neck, he wears a gold and ruby pendant (worth 750 gp).
 
 ### K50. Guest Room
 
@@ -1370,27 +1370,27 @@ The hole in the floor forms the mouth of an enclosed shaft (area K18a) that desc
 
 #### Pidlwick II
 
-Hiding in the rafters is [[5. Mechanics/Bestiary/Npc/Pidlwick Ii (COS).md\|Pidlwick II]] (see appendix D). A character spots [[5. Mechanics/Bestiary/Npc/Pidlwick Ii (COS).md\|Pidlwick II]] with a passive Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) score that meets or exceeds its Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) check. If [[5. Mechanics/Bestiary/Npc/Pidlwick Ii (COS).md\|Pidlwick II]] is spotted, read:
+Hiding in the rafters is [[4. World Almanac/NPCs/Pidlwick Ii (COS).md\|Pidlwick II]] (see appendix D). A character spots [[4. World Almanac/NPCs/Pidlwick Ii (COS).md\|Pidlwick II]] with a passive Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) score that meets or exceeds its Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) check. If [[4. World Almanac/NPCs/Pidlwick Ii (COS).md\|Pidlwick II]] is spotted, read:
 
 > [!readaloud] 
 > 
 > Something lurks among the rafters—a small, spindly man not much larger than a child. A flash of lightning illuminates his face, which is painted like a grinning jack-o'-lantern.
 ^245
 
-Although he appears to be a petite man wearing face paint and a fool's costume, [[5. Mechanics/Bestiary/Npc/Pidlwick Ii (COS).md\|Pidlwick II]] is actually a clockwork effigy of the real-life Pidlwick, who lies entombed in the catacombs. The dark paint on his face is soot.
+Although he appears to be a petite man wearing face paint and a fool's costume, [[4. World Almanac/NPCs/Pidlwick Ii (COS).md\|Pidlwick II]] is actually a clockwork effigy of the real-life Pidlwick, who lies entombed in the catacombs. The dark paint on his face is soot.
 
-If the characters see [[5. Mechanics/Bestiary/Npc/Pidlwick Ii (COS).md\|Pidlwick II]] in bright light, read:
+If the characters see [[4. World Almanac/NPCs/Pidlwick Ii (COS).md\|Pidlwick II]] in bright light, read:
 
 > [!readaloud] 
 > 
 > It's obvious that you're looking not at a small man, but a mockery of one. This thing is not a creature of flesh and bone, but a construct made of dyed leather stitched and tightly wrapped over an articulated frame. You hear the soft tumbling and clicking of gears.
 ^246
 
-[[5. Mechanics/Bestiary/Npc/Pidlwick Ii (COS).md\|Pidlwick II]] can't speak and doesn't have an expressive face, so he relies mostly on hand gestures and simple diagrams to communicate. He understands Common but can't read or write.
+[[4. World Almanac/NPCs/Pidlwick Ii (COS).md\|Pidlwick II]] can't speak and doesn't have an expressive face, so he relies mostly on hand gestures and simple diagrams to communicate. He understands Common but can't read or write.
 
 If the characters show kindness to the clockwork effigy, it accompanies them and tries its best to be helpful and entertaining. It knows its way around the castle and can serve as a silent guide.
 
-If one or more characters are mean toward [[5. Mechanics/Bestiary/Npc/Pidlwick Ii (COS).md\|Pidlwick II]], its quiet resentment of them grows, and at some point when the group is at the top of a staircase, it pushes one of the offending party members down the stairs. The target must succeed on a DC 10 Dexterity saving throw or tumble to the bottom of the staircase, taking `dice: 1d6|avg` (`1d6`) bludgeoning damage per 10 feet fallen.
+If one or more characters are mean toward [[4. World Almanac/NPCs/Pidlwick Ii (COS).md\|Pidlwick II]], its quiet resentment of them grows, and at some point when the group is at the top of a staircase, it pushes one of the offending party members down the stairs. The target must succeed on a DC 10 Dexterity saving throw or tumble to the bottom of the staircase, taking `dice: 1d6|avg` (`1d6`) bludgeoning damage per 10 feet fallen.
 
 ### K60. North Tower Peak
 
@@ -1409,7 +1409,7 @@ The ceiling here is 9 feet high. The manacles are rusted and can be easily torn 
 
 #### Treasure
 
-The iron chest is locked, and its key is with [[5. Mechanics/Bestiary/Npc/Cyrus Belview (COS).md\|Cyrus Belview]] in area K62.
+The iron chest is locked, and its key is with [[4. World Almanac/NPCs/Cyrus Belview (COS).md\|Cyrus Belview]] in area K62.
 
 The chest contains a bejeweled gold crown (worth 2,500 gp) resting on a silk pillow.
 
@@ -1421,7 +1421,7 @@ Characters who teleport to this location from area K78 arrive in the middle of t
 
 If your card reading reveals that a treasure is here, it is inside the iron chest.
 
-If your card reading indicates an encounter with [[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md\|Strahd]] in this area, he is standing next to the iron chest.
+If your card reading indicates an encounter with [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd]] in this area, he is standing next to the iron chest.
 
 ### K60a. North Tower Rooftop
 
@@ -1484,9 +1484,9 @@ The sound of the elevator moving can be heard throughout the castle. Characters 
 > This hall stands in deadly silence. Heavy beams support a sagging, ten-foot-high ceiling. Fog clings to the floor, obscuring everything that lies less than three feet above it. A giant shadow lurches across the ceiling as a dark figure shuffles purposefully down the corridor toward you.
 ^253
 
-The figure approaching is [[5. Mechanics/Bestiary/Npc/Cyrus Belview (COS).md\|Cyrus Belview]], a [[5. Mechanics/Bestiary/Humanoid/Mongrelfolk (COS).md\|mongrelfolk]] (see appendix D) and Strahd's faithful servant. He stands 4 feet, 9 inches tall but appears shorter because of his hunched posture. He has the Keen Hearing and Smell feature. The left side his face is covered with lizard scales, and he has the ears of a panther. His left foot looks like a duck's webbed foot, and his arms have patches of black dog fur.
+The figure approaching is [[4. World Almanac/NPCs/Cyrus Belview (COS).md\|Cyrus Belview]], a [[5. Mechanics/Bestiary/Humanoid/Mongrelfolk (COS).md\|mongrelfolk]] (see appendix D) and Strahd's faithful servant. He stands 4 feet, 9 inches tall but appears shorter because of his hunched posture. He has the Keen Hearing and Smell feature. The left side his face is covered with lizard scales, and he has the ears of a panther. His left foot looks like a duck's webbed foot, and his arms have patches of black dog fur.
 
-The light in the hall comes from a lantern on the floor behind Cyrus. If the characters have their own light sources, Cyrus sees them, but he will not attack first. He wears a loop of twine around his neck, hanging from which is an iron key and a decorative wooden pendant fitted with a varnished human eyeball. The key unlocks the iron chest in area K60. The wooden pendant is a *hag eye* given to Cyrus by the [[5. Mechanics/Bestiary/Fiend/Night Hag.md\|night hag]] [[5. Mechanics/Bestiary/Npc/Morgantha (COS).md\|Morgantha]] (see chapter 6), so that she could spy on Strahd. Cyrus doesn't know that the necklace is magical. See the "Hag Covens" sidebar in the hags entry in the "Monster Manual" for information about the *hag eye*.
+The light in the hall comes from a lantern on the floor behind Cyrus. If the characters have their own light sources, Cyrus sees them, but he will not attack first. He wears a loop of twine around his neck, hanging from which is an iron key and a decorative wooden pendant fitted with a varnished human eyeball. The key unlocks the iron chest in area K60. The wooden pendant is a *hag eye* given to Cyrus by the [[5. Mechanics/Bestiary/Fiend/Night Hag.md\|night hag]] [[4. World Almanac/NPCs/Morgantha (COS).md\|Morgantha]] (see chapter 6), so that she could spy on Strahd. Cyrus doesn't know that the necklace is magical. See the "Hag Covens" sidebar in the hags entry in the "Monster Manual" for information about the *hag eye*.
 
 ![[6. Resources/5e Modules/Curse Of Strahd/img/041-cos04-16.webp#center\|Cyrus Belview]]
 
@@ -1511,7 +1511,7 @@ The double doors at the west end of the hall are made of heavy planks banded wit
 > Arched frames of stone form a low, wet ceiling over this wine cellar. Great casks line the walls, their bands rusting and their contents long since spilled onto the floor. A few hungry rats make their home here, but upon your sudden arrival, they retreat to the shadows.
 ^255
 
-The rats are harmless. [[5. Mechanics/Bestiary/Npc/Cyrus Belview (COS).md\|Cyrus Belview]] (see area K62) treats them like pets.
+The rats are harmless. [[4. World Almanac/NPCs/Cyrus Belview (COS).md\|Cyrus Belview]] (see area K62) treats them like pets.
 
 Characters who search the room find a crack at the southern end of the west wall. The crack is half an inch wide, 5 inches tall, and 12 inches deep; it leads to area K18.
 
@@ -1533,7 +1533,7 @@ Two of these casks are rotted and empty. The wine name burned on each is Purple 
 
 #### Fortunes of Ravenloft
 
-If your card reading reveals that a treasure is here, it is inside one of the empty casks along the north wall, hidden there by [[5. Mechanics/Bestiary/Npc/Cyrus Belview (COS).md\|Cyrus Belview]].
+If your card reading reveals that a treasure is here, it is inside one of the empty casks along the north wall, hidden there by [[4. World Almanac/NPCs/Cyrus Belview (COS).md\|Cyrus Belview]].
 
 ### K64. Guards' Stair
 
@@ -1551,7 +1551,7 @@ The stairway starts at area K68 and goes up past area K13 to area K46.
 > A horrible odor of decay fills this steaming hot room. A huge pot bubbles over a blazing fire pit in the center of the room, its green, muddy contents churning. The far wall is lined with pegs, hanging from which are numerous large cooking implements—some of which could easily double as implements of torture.
 ^25e
 
-If a character looks into the pot, three human [[5. Mechanics/Bestiary/Undead/Zombie.md\|zombies]] rise up from the bubbling depths and attack. The zombies are slowly being boiled to death, and each has only 13 hit points remaining. If [[5. Mechanics/Bestiary/Npc/Cyrus Belview (COS).md\|Cyrus Belview]] (see area K62) is present when the zombies attack, he grabs a heavy club and tries to beat them back into the pot. Cyrus explains that he just isn't the cook he used to be, and his meals tend to get out of hand these days.
+If a character looks into the pot, three human [[5. Mechanics/Bestiary/Undead/Zombie.md\|zombies]] rise up from the bubbling depths and attack. The zombies are slowly being boiled to death, and each has only 13 hit points remaining. If [[4. World Almanac/NPCs/Cyrus Belview (COS).md\|Cyrus Belview]] (see area K62) is present when the zombies attack, he grabs a heavy club and tries to beat them back into the pot. Cyrus explains that he just isn't the cook he used to be, and his meals tend to get out of hand these days.
 
 ### K66. Butler's Quarters
 
@@ -1560,7 +1560,7 @@ If a character looks into the pot, three human [[5. Mechanics/Bestiary/Undead/Zo
 > This twenty-foot-square room is filled wall to wall with clutter. A long, sagging bed sits to one side under a huge faded tapestry that depicts Castle Ravenloft. Dusty lanterns sit in various places, and bright curtains are draped haphazardly about the room. Thousands of pieces of junk cover the floor. Broken swords, crumpled shields, and helmets lie in piles all about.
 ^260
 
-[[5. Mechanics/Bestiary/Npc/Cyrus Belview (COS).md\|Cyrus Belview]] (see area K62) uses this room as his lair. There is nothing of value here.
+[[4. World Almanac/NPCs/Cyrus Belview (COS).md\|Cyrus Belview]] (see area K62) uses this room as his lair. There is nothing of value here.
 
 If Cyrus is with the party, the characters notice that he is caressing their equipment and chuckling to himself. Cyrus has been salvaging equipment from dead adventurers for years. He looks forward to adding to his collection after Strahd gets through with the characters.
 
@@ -1577,7 +1577,7 @@ Once a mess hall for the castle guards, this room is now [[5. Mechanics/Traps Ha
 > The doors to the north and south are sheathed in bone, but the steel-banded double doors in the center of the east wall are not. Above these eastern doors is mounted the skull of a dragon.
 ^262
 
-[[5. Mechanics/Bestiary/Npc/Cyrus Belview (COS).md\|Cyrus Belview]] (see area K62) created this enormous work of art out of the bones of dead servants and slain adventurers. It has taken him many years to complete it. The bones and skulls are held together with gray mortar and white paste. The dark stains on the floor are old bloodstains, caused here when Strahd hunted down and killed the remainder of his castle guards.
+[[4. World Almanac/NPCs/Cyrus Belview (COS).md\|Cyrus Belview]] (see area K62) created this enormous work of art out of the bones of dead servants and slain adventurers. It has taken him many years to complete it. The bones and skulls are held together with gray mortar and white paste. The dark stains on the floor are old bloodstains, caused here when Strahd hunted down and killed the remainder of his castle guards.
 
 The dragon skull mounted above the eastern doors belonged to Argynvost (see chapter 7), a silver dragon that was killed in the valley by Strahd and his army before the founding of Castle Ravenloft. The skull weighs 250 pounds.
 
@@ -1585,7 +1585,7 @@ The dragon skull mounted above the eastern doors belonged to Argynvost (see chap
 
 If your card reading reveals that a treasure is here, it is lying on the bone table.
 
-If your card reading indicates an encounter with [[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md\|Strahd]] in this area, he is sitting comfortably at one end of the table, holding the skull of a long-dead foe.
+If your card reading indicates an encounter with [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd]] in this area, he is sitting comfortably at one end of the table, holding the skull of a long-dead foe.
 
 ### K68. Guards' Run
 
@@ -1627,7 +1627,7 @@ The yellow lichen is harmless. Beyond the archway to the west is area K70. The s
 
 #### Treasure
 
-Three of the alcoves contain nothing of value. A loose flagstone in the southeast alcove covers a hidden cubbyhole in the floor, in which is hidden a moldy sack containing 150 ep. The coins have the profiled visage of [[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]] stamped on them. A character who searches the alcove can find the loose flagstone with a successful DC 10 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check.
+Three of the alcoves contain nothing of value. A loose flagstone in the southeast alcove covers a hidden cubbyhole in the floor, in which is hidden a moldy sack containing 150 ep. The coins have the profiled visage of [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]] stamped on them. A character who searches the alcove can find the loose flagstone with a successful DC 10 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check.
 
 ### K72. Chamberlain's Office
 
@@ -1636,9 +1636,9 @@ Three of the alcoves contain nothing of value. A loose flagstone in the southeas
 > This shadowy room is in perfect order. A great table stands here with its chair, inkwell, and quill set carefully in place. Lances, swords, and shields that bear the Barovian crest are hung neatly on the dark, oak-paneled walls.
 ^26e
 
-If he has not been defeated elsewhere, [[5. Mechanics/Bestiary/Npc/Rahadin (COS).md\|Rahadin]] (see appendix D) is here, waiting for the characters to arrive so he can kill them.
+If he has not been defeated elsewhere, [[4. World Almanac/NPCs/Rahadin (COS).md\|Rahadin]] (see appendix D) is here, waiting for the characters to arrive so he can kill them.
 
-A [[5. Mechanics/Bestiary/Fiend/Shadow Demon.md\|shadow demon]] also haunts this room. In the round after the characters engage [[5. Mechanics/Bestiary/Npc/Rahadin (COS).md\|Rahadin]], the demon leaps out and attacks the nearest character from behind. The character doesn't notice the demon, unless the character's passive Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) score meets or exceeds the demon's Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) check. Both [[5. Mechanics/Bestiary/Npc/Rahadin (COS).md\|Rahadin]] and the shadow demon fight until slain.
+A [[5. Mechanics/Bestiary/Fiend/Shadow Demon.md\|shadow demon]] also haunts this room. In the round after the characters engage [[4. World Almanac/NPCs/Rahadin (COS).md\|Rahadin]], the demon leaps out and attacks the nearest character from behind. The character doesn't notice the demon, unless the character's passive Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) score meets or exceeds the demon's Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) check. Both [[4. World Almanac/NPCs/Rahadin (COS).md\|Rahadin]] and the shadow demon fight until slain.
 
 A secret door is set into the north end of the west wall. It can be pulled open to reveal a dusty, web-choked staircase of ancient, worn stone (area K79) that descends into darkness.
 
@@ -1688,7 +1688,7 @@ This cell is linked to a teleport trap in area K73. Characters who enter the cel
 
 ##### Treasure
 
-Scattered across the floor of this cell are 3,000 ep. The coins have the profiled visage of [[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]] stamped on them. A character can scoop up one hundred coins every minute.
+Scattered across the floor of this cell are 3,000 ep. The coins have the profiled visage of [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]] stamped on them. A character can scoop up one hundred coins every minute.
 
 #### K74b. Forgotten Treasure
 
@@ -1701,7 +1701,7 @@ Characters who enter the cell can feel coins shifting beneath their feet.
 
 ##### Treasure
 
-Scattered across the floor of this cell are 300 pp. The coins have the profiled visage of [[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]] stamped on them. A character can scoop up one hundred coins every minute.
+Scattered across the floor of this cell are 300 pp. The coins have the profiled visage of [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]] stamped on them. A character can scoop up one hundred coins every minute.
 
 #### K74c. Rotting Corpse
 
@@ -1773,7 +1773,7 @@ The corridor is 40 feet long. Branching off it are eight cells, four along each 
 > A strong young man clutches the bars of his cell while struggling to keep his teeth from chattering. His clothes are shredded, and he is soaked from head to toe.
 ^287
 
-The man is [[5. Mechanics/Bestiary/Npc/Emil Toranescu (COS).md\|Emil Toranescu]], a [[5. Mechanics/Bestiary/Humanoid/Werewolf.md\|werewolf]] with 72 hit points. He claims to be a resident of Vallaki who was chased by dire wolves to the castle. He begs the characters to rescue him, offering to help them in exchange.
+The man is [[4. World Almanac/NPCs/Emil Toranescu (COS).md\|Emil Toranescu]], a [[5. Mechanics/Bestiary/Humanoid/Werewolf.md\|werewolf]] with 72 hit points. He claims to be a resident of Vallaki who was chased by dire wolves to the castle. He begs the characters to rescue him, offering to help them in exchange.
 
 ![[6. Resources/5e Modules/Curse Of Strahd/img/043-cos04-18.webp#center\|Emil Toranescu]]
 
@@ -1785,7 +1785,7 @@ Characters who enter the cell can feel coins shifting beneath their feet.
 
 ##### Treasure
 
-Scattered across the floor of this cell are 2,100 ep. The coins have the profiled visage of [[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]] stamped on them. A character can scoop up one hundred coins every minute.
+Scattered across the floor of this cell are 2,100 ep. The coins have the profiled visage of [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]] stamped on them. A character can scoop up one hundred coins every minute.
 
 #### K75c. Empty Cell
 
@@ -1918,7 +1918,7 @@ The stairs rise at a 45-degree angle for a distance of 40 feet horizontally, lea
 
 Inscribed on the landing, hidden under years of dust, is a [[5. Mechanics/Spells/Glyph Of Warding.md\|glyph of warding]]. If the characters brush away the dust, someone can spot the glyph with a successful DC 15 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check.
 
-The glyph triggers the first time a living creature passes over it. Triggering it activates a [[5. Mechanics/Spells/Major Image.md\|major image]] spell, conjuring an illusion of [[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]] that appears either halfway up the stairs leading to area K72 or halfway down the stairs leading to area K78, so that the vampire appears in front of the triggering character. When "Strahd" appears, read:
+The glyph triggers the first time a living creature passes over it. Triggering it activates a [[5. Mechanics/Spells/Major Image.md\|major image]] spell, conjuring an illusion of [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]] that appears either halfway up the stairs leading to area K72 or halfway down the stairs leading to area K78, so that the vampire appears in front of the triggering character. When "Strahd" appears, read:
 
 > [!readaloud] 
 > 
@@ -2137,7 +2137,7 @@ The quilt is magically preserved but not valuable.
 > A small skeleton wearing the remains of a fool's costume lies atop a stumpy marble slab in the center of the crypt.
 ^2c2
 
-If [[5. Mechanics/Bestiary/Npc/Pidlwick Ii (COS).md\|Pidlwick II]] (see area K59) is with the party, it refuses to enter the crypt. The slab in this crypt is 4 feet long (instead of the usual 6 feet long). The bones atop the slab belong to the fool servant of Duchess Dorfniya Dilisnya (see crypt 8).
+If [[4. World Almanac/NPCs/Pidlwick Ii (COS).md\|Pidlwick II]] (see area K59) is with the party, it refuses to enter the crypt. The slab in this crypt is 4 feet long (instead of the usual 6 feet long). The bones atop the slab belong to the fool servant of Duchess Dorfniya Dilisnya (see crypt 8).
 
 ##### Treasure
 
@@ -2290,7 +2290,7 @@ The coins are made of clay painted gold and are worthless. The funeral barge, wh
 
 #### Crypt 18
 
-The stone door of this crypt has been carefully laid to one side. Through the swirly mists of the perpetual fog, freshly engraved letters spell out the words "[[5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md\|Ireena Kolyana]]: Wife."
+The stone door of this crypt has been carefully laid to one side. Through the swirly mists of the perpetual fog, freshly engraved letters spell out the words "[[4. World Almanac/NPCs/Ireena Kolyana (COS).md\|Ireena Kolyana]]: Wife."
 
 The crypt is empty and has been swept clean. This is where Strahd intends to keep Ireena once he turns her into a vampire spawn.
 
@@ -2333,7 +2333,7 @@ The creature inside this crypt attacks as soon as the door is opened.
 
 The spectral elf is a [[5. Mechanics/Bestiary/Undead/Banshee.md\|banshee]] that attacks the characters on sight, using her wail immediately. Once awakened, the banshee is free to roam Castle Ravenloft, but she can't travel more than 5 miles from this crypt.
 
-In life, [[5. Mechanics/Bestiary/Npc/Patrina Velikovna (COS).md\|Patrina Velikovna]] was a dusk elf who, having learned a great deal about the black arts, was nearly a match for Strahd's powers. She felt a great bond with him and asked to solemnize that bond in a dark marriage. Drawn to her knowledge and power, Strahd consented, but before he could drain all life from Patrina, her own people stoned her to death in an act of mercy to thwart Strahd's plans. Strahd demanded, and got, Patrina's body. She then became the banshee trapped here.
+In life, [[4. World Almanac/NPCs/Patrina Velikovna (COS).md\|Patrina Velikovna]] was a dusk elf who, having learned a great deal about the black arts, was nearly a match for Strahd's powers. She felt a great bond with him and asked to solemnize that bond in a dark marriage. Drawn to her knowledge and power, Strahd consented, but before he could drain all life from Patrina, her own people stoned her to death in an act of mercy to thwart Strahd's plans. Strahd demanded, and got, Patrina's body. She then became the banshee trapped here.
 
 Reducing the banshee to 0 hit points causes it to discorporate. Patrina's spirit can't rest, however, until she is formally wed to Strahd; the banshee re-forms in her crypt 24 hours later. Casting a [[5. Mechanics/Spells/Hallow.md\|hallow]] spell on the crypt prevents the banshee from returning for as long as the spell lasts.
 
@@ -2604,7 +2604,7 @@ The door to this crypt is larger than all the others, 6 feet wide by 8 feet tall
 > Dry, hot air and smoke billow from the crypt as a black horse with a flaming mane and fiery hooves emerges. Smoke billows from its nostrils as it rears up to attack.
 ^314
 
-The [[5. Mechanics/Bestiary/Fiend/Nightmare.md\|nightmare]], [[5. Mechanics/Bestiary/Npc/Beucephalus (COS).md\|Beucephalus]], is Strahd's steed. It has 104 hit points. If the characters slay it, Strahd hunts them down mercilessly. When the steed wants to leave the castle, it flies up the central shaft of the high tower (area K18a), exiting through the gash in the tower roof (area K59).
+The [[5. Mechanics/Bestiary/Fiend/Nightmare.md\|nightmare]], [[4. World Almanac/NPCs/Beucephalus (COS).md\|Beucephalus]], is Strahd's steed. It has 104 hit points. If the characters slay it, Strahd hunts them down mercilessly. When the steed wants to leave the castle, it flies up the central shaft of the high tower (area K18a), exiting through the gash in the tower roof (area K59).
 
 #### Crypt 40
 
@@ -2640,7 +2640,7 @@ Sergei's embalmed body is clothed in shining [+2 plate armor](compendium/items/2
 
 If your card reading reveals that a treasure is here, it is inside the coffin next to Sergei's body.
 
-If your card reading indicates an encounter with [[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md\|Strahd]] in this area, he is lying across Sergei's coffin, weeping.
+If your card reading indicates an encounter with [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd]] in this area, he is lying across Sergei's coffin, weeping.
 
 ### K86. Strahd's Tomb
 
@@ -2663,11 +2663,11 @@ Creatures that enter the western alcove are instantly teleported to the western 
 
 Strahd lavished many fine gifts on his three brides.
 
-[[5. Mechanics/Bestiary/Npc/Ludmilla Vilisevic (COS).md\|Ludmilla Vilisevic]] wears a soiled white wedding gown, a gold tiara (worth 750 gp), and ten gold bracelets (worth 100 gp each).
+[[4. World Almanac/NPCs/Ludmilla Vilisevic (COS).md\|Ludmilla Vilisevic]] wears a soiled white wedding gown, a gold tiara (worth 750 gp), and ten gold bracelets (worth 100 gp each).
 
-[[5. Mechanics/Bestiary/Npc/Anastrasya Karelova (COS).md\|Anastrasya Karelova]] wears a stained and tattered red wedding gown, a black and crimson silk head scarf sewn with precious jewels (worth 750 gp), and a platinum necklace with a black opal pendant (worth 1,500 gp).
+[[4. World Almanac/NPCs/Anastrasya Karelova (COS).md\|Anastrasya Karelova]] wears a stained and tattered red wedding gown, a black and crimson silk head scarf sewn with precious jewels (worth 750 gp), and a platinum necklace with a black opal pendant (worth 1,500 gp).
 
-[[5. Mechanics/Bestiary/Npc/Volenta Popofsky (COS).md\|Volenta Popofsky]] wears a faded gold wedding gown, a platinum mask shaped vaguely like a skull (750 gp), and ten platinum rings set with gemstones (worth 250 gp each).
+[[4. World Almanac/NPCs/Volenta Popofsky (COS).md\|Volenta Popofsky]] wears a faded gold wedding gown, a platinum mask shaped vaguely like a skull (750 gp), and ten platinum rings set with gemstones (worth 250 gp each).
 
 #### Teleport Destination
 
@@ -2677,7 +2677,7 @@ Characters who teleport to this location from area K78 arrive at the bottom of t
 
 If your card reading reveals that a treasure is here, it lies in the center alcove.
 
-If your card reading indicates an encounter with [[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md\|Strahd]] in this area, he is in his coffin, ready to attack anyone who opens the lid.
+If your card reading indicates an encounter with [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd]] in this area, he is in his coffin, ready to attack anyone who opens the lid.
 
 ### K87. Guardians
 
@@ -2713,4 +2713,4 @@ The south coffin holds the skeleton of Strahd's mother, Queen Ravenovia. (The ma
 
 If your card reading reveals that a treasure is here, it lies atop Queen Ravenovia's coffin.
 
-If your card reading indicates an encounter with [[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md\|Strahd]] in this area, he is in a frenzy of rage and despair.
+If your card reading indicates an encounter with [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd]] in this area, he is in a frenzy of rage and despair.

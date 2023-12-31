@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Dhergoloth"]
 ---
-# [Dhergoloth](compendium\bestiary\fiend/dhergoloth-mpmm.md)
+# [[5. Mechanics\Bestiary\Fiend\Dhergoloth (MPMM).md|Dhergoloth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 94*  
 
 > [!quote]- A quote from Mordenkainen  

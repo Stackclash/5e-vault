@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Noble"]
 ---
-# [Noble](compendium\bestiary\humanoid/noble.md)
+# [[5. Mechanics\Bestiary\Humanoid\Noble.md|Noble]]
 *Source: Monster Manual p. 348, Curse of Strahd, Eberron: Rising from the Last War. Available in the SRD.*  
 
 Nobles wield great authority and influence as members of the upper class, possessing wealth and connections that can make them as powerful as monarchs and generals. A noble often travels in the company of guards, as well as servants who are commoners.

@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Kenku"]
 ---
-# [Kenku](compendium\bestiary\humanoid/kenku.md)
+# [[5. Mechanics\Bestiary\Humanoid\Kenku.md|Kenku]]
 *Source: Monster Manual p. 194, Eberron: Rising from the Last War*  
 
 Kenku are feathered humanoids that wander the world as vagabonds, driven by greed. They can perfectly imitate any sound they hear.

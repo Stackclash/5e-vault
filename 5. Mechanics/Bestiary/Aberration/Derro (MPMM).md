@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Derro"]
 ---
-# [Derro](compendium\bestiary\aberration/derro-mpmm.md)
+# [[5. Mechanics\Bestiary\Aberration\Derro (MPMM).md|Derro]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 91*  
 
 > [!quote]- A quote from Mordenkainen  

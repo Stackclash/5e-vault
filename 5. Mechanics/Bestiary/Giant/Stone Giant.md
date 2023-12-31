@@ -12,7 +12,7 @@ tags:
 statblock: inline
 aliases: ["Stone Giant"]
 ---
-# [Stone Giant](compendium\bestiary\giant/stone-giant.md)
+# [[5. Mechanics\Bestiary\Giant\Stone Giant.md|Stone Giant]]
 *Source: Monster Manual p. 156. Available in the SRD.*  
 
 Stone giants are reclusive, quiet, and peaceful as long as they are left alone. Their granite-gray skin, gaunt features, and black, sunken eyes endow stone giants with a stern countenance. They are private creatures, hiding their lives and art away from the world.

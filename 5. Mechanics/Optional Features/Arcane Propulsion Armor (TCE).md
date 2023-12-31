@@ -9,7 +9,7 @@ aliases: ["Arcane Propulsion Armor"]
 # Arcane Propulsion Armor
 *Source: Tasha's Cauldron of Everything p. 20*  
 
-***Prerequisites*** 14th-level Artificer, A suit of armor (requires attunement)
+***Prerequisites*** 14th-level
 
 The wearer of this armor gains these benefits:
 

@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Deathlock Mastermind"]
 ---
-# [Deathlock Mastermind](compendium\bestiary\undead/deathlock-mastermind-mpmm.md)
+# [[5. Mechanics\Bestiary\Undead\Deathlock Mastermind (MPMM).md|Deathlock Mastermind]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 87*  
 
 Though deathlocks exist to serve their patrons, they retain some freedom when it comes to devising tactics and carrying out plans. Powerful deathlocks recruit lesser creatures to help them carry out their missions, becoming the masterminds behind vast conspiracies and intrigues that culminate in the accomplishment of great acts of evil.

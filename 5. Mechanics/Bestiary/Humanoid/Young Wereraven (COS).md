@@ -10,8 +10,8 @@ tags:
 statblock: inline
 aliases: ["Young Wereraven"]
 ---
-# [Young Wereraven](compendium\bestiary\humanoid/young-wereraven-cos.md)
-*Source: Curse of Strahd p. 98, Derived from *  
+# [[5. Mechanics\Bestiary\Humanoid\Young Wereraven (COS).md|Young Wereraven]]
+*Source: Curse of Strahd p. 98*  
 
 ```statblock
 "name": "Young Wereraven (CoS)"

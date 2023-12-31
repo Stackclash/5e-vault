@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Evoker Wizard"]
 ---
-# [Evoker Wizard](compendium\bestiary\humanoid/evoker-wizard-mpmm.md)
+# [[5. Mechanics\Bestiary\Humanoid\Evoker Wizard (MPMM).md|Evoker Wizard]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 262*  
 
 Evokers harness arcane energy to destroy. Many armies employ evokers to rain destruction down on enemy forces.

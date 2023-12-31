@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Swarm of Cranium Rats"]
 ---
-# [Swarm of Cranium Rats](compendium\bestiary\aberration/swarm-of-cranium-rats-mpmm.md)
+# [[5. Mechanics\Bestiary\Aberration\Swarm Of Cranium Rats (MPMM).md|Swarm of Cranium Rats]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 83*  
 
 ## Cranium Rat

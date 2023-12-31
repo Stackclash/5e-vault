@@ -12,7 +12,7 @@ tags:
 statblock: inline
 aliases: ["Vargouille"]
 ---
-# [Vargouille](compendium\bestiary\fiend/vargouille-mpmm.md)
+# [[5. Mechanics\Bestiary\Fiend\Vargouille (MPMM).md|Vargouille]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 251*  
 
 Shrieking, flapping, and hideous to behold—with a body like a severed head and wings in place of ears—vargouilles boil out of the Abyss to infest other planes of existence, such as Carceri, where they are a menace. Each vargouille carries a disease that creates more of its kind; a flock of vargouilles on the wing is a plague of chaos and evil.

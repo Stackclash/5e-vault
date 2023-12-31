@@ -9,7 +9,7 @@ aliases: ["Fighting Initiate"]
 # Fighting Initiate
 *Source: Tasha's Cauldron of Everything p. 80*  
 
-***Prerequisites*** Proficiency with martial weapons
+***Prerequisites*** Proficiency with a martial weapon
 
 Your martial training has helped you develop a particular style of fighting. As a result, you learn one [[5. Mechanics/Optional Features/List Fighting Style Fighter.md\|Fighting Style]] option of your choice from the fighter class. If you already have a style, the one you choose must be different.
 

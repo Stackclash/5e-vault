@@ -9,8 +9,8 @@ tags:
 statblock: inline
 aliases: ["Knight of the Order"]
 ---
-# [Knight of the Order](compendium\bestiary\undead/knight-of-the-order-cos.md)
-*Source: Curse of Strahd p. 139, Derived from *  
+# [[5. Mechanics\Bestiary\Undead\Knight Of The Order (COS).md|Knight of the Order]]
+*Source: Curse of Strahd p. 139*  
 
 ```statblock
 "name": "Knight of the Order (CoS)"

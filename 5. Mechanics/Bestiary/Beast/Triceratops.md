@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Triceratops"]
 ---
-# [Triceratops](compendium\bestiary\beast/triceratops.md)
+# [[5. Mechanics\Bestiary\Beast\Triceratops.md|Triceratops]]
 *Source: Monster Manual p. 80. Available in the SRD and the Basic Rules.*  
 
 One of the most aggressive of the herbivorous dinosaurs, a triceratops has a skull that flares out to form a protective plate of bone. With its great horns and formidable speed, a triceratops gores and tramples would-be predators to death.

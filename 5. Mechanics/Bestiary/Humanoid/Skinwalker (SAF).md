@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Skinwalker"]
 ---
-# [Skinwalker](compendium\bestiary\humanoid/skinwalker-saf.md)
+# [[5. Mechanics\Bestiary\Humanoid\Skinwalker (SAF).md|Skinwalker]]
 *Source: Strongholds and Followers p. 75*  
 
 ```statblock

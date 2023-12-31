@@ -12,7 +12,7 @@ tags:
 statblock: inline
 aliases: ["Will-o'-Wisp"]
 ---
-# [Will-o'-Wisp](compendium\bestiary\undead/will-o-wisp.md)
+# [[5. Mechanics\Bestiary\Undead\Will O Wisp.md|Will-o'-Wisp]]
 *Source: Monster Manual p. 301, Curse of Strahd. Available in the SRD.*  
 
 Will-o'-wisps are malevolent, wispy balls of light that haunt lonely places and battlefields, bound by dark fate or dark magic to feed on fear and despair.
