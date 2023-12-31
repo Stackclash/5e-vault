@@ -9,6 +9,16 @@
       "level": 5,
       "modifier": 6,
       "player": true
+    },
+    {
+      "note": "Redgrave",
+      "path": "3. The Party/Players/Redgrave.md",
+      "name": "Redgrave",
+      "ac": 22,
+      "hp": 38,
+      "level": 5,
+      "modifier": -1,
+      "player": true
     }
   ],
   "parties": [],
