@@ -54,87 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ef0cf2b0b3a7a592",
-            "type": "leaf",
-            "state": {
-              "type": "intiative-tracker-encounter-builder",
-              "state": [
-                [
-                  {
-                    "name": "Skeleton",
-                    "size": "Medium",
-                    "type": "undead",
-                    "alignment": "Lawful Evil",
-                    "ac": 13,
-                    "hp": 13,
-                    "hit_dice": "2d8 + 4",
-                    "stats": [
-                      10,
-                      14,
-                      15,
-                      6,
-                      8,
-                      5
-                    ],
-                    "speed": "30 ft.",
-                    "damage_vulnerabilities": "bludgeoning",
-                    "damage_immunities": "poison",
-                    "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]",
-                    "senses": "darkvision 60 ft., passive Perception 9",
-                    "languages": "understands all languages it spoke in life but can't speak",
-                    "cr": "1/4",
-                    "actions": [
-                      {
-                        "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage.",
-                        "name": "Shortsword"
-                      },
-                      {
-                        "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 80/320 ft., one target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage.",
-                        "name": "Shortbow"
-                      }
-                    ],
-                    "source": [
-                      "MM",
-                      "CoS",
-                      "LMoP",
-                      "PotA",
-                      "SKT",
-                      "TftYP",
-                      "ToA",
-                      "WDH",
-                      "WDMM",
-                      "GoS",
-                      "DC",
-                      "DIP",
-                      "SDW",
-                      "BGDIA",
-                      "RMBRE",
-                      "IMR",
-                      "TCE",
-                      "WBtW",
-                      "CRCotN",
-                      "JttRC",
-                      "DSotDQ",
-                      "KftGV",
-                      "HftT",
-                      "PaBTSO",
-                      "AATM",
-                      "SatO",
-                      "ToFW"
-                    ],
-                    "image": "5. Mechanics/Bestiary/Undead/token/skeleton.png",
-                    "note": "5. Mechanics/Bestiary/Undead/Skeleton.md",
-                    "mtime": 1703989746547
-                  },
-                  8
-                ]
-              ]
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -192,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/Players/Faerah Duskrane.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/Players/Faerah Duskrane.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/Players/Faerah Duskrane.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -320,13 +242,15 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "0114026520b82c76",
+  "active": "af893f85459dd4b7",
   "lastOpenFiles": [
+    "1. DM Screen/Tools/Barovian Names.md",
+    "3. The Party/Players/Faerah Duskrane.md",
+    "5. Mechanics/Bestiary/Undead/token/skeleton.png",
     "5. Mechanics/Bestiary/Undead/Undead.md",
     "5. Mechanics/Spells/Spells.md",
     "Untitled.md",
     "5. Mechanics/Bestiary/Undead/Skeleton.md",
-    "1. DM Screen/Tools/Barovian Names.md",
     "3. The Party/Session Logs/New Year Session.md",
     "3. The Party/Session Logs/Session Logs.md",
     "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
@@ -346,9 +270,7 @@
     "5. Mechanics/Spells/Resurrection.md",
     "3. The Party/Players/Yevelda Ovak.md",
     "3. The Party/Players/Marin.md",
-    "3. The Party/Players/Faerah Duskrane.md",
     "4. World Almanac/NPCs/Gertruda.md",
-    "5. Mechanics/Spells/Spirit Guardians.md",
     "4. World Almanac/NPCs/token/zygfrek-belview.png",
     "4. World Almanac/NPCs/token/zuleika-toranescu.png",
     "4. World Almanac/NPCs/token/yevgeni-krushkin.png",
@@ -358,7 +280,6 @@
     "4. World Almanac/NPCs/token/victor-vallakovich.png",
     "4. World Almanac/NPCs/token/vasilka.png",
     "4. World Almanac/NPCs/token/urwin-martikov.png",
-    "4. World Almanac/NPCs/token/thornboldt-thorn-durst.png",
     "4. World Almanac/NPCs/token",
     "4. World Almanac/NPCs/img",
     "6. Resources/Resources/A Guide to Curse of Strahd.pdf",

@@ -131,7 +131,7 @@
         "tempHP": 0,
         "status": [],
         "enabled": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
@@ -146,7 +146,7 @@
         "tempHP": 0,
         "status": [],
         "enabled": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       },
@@ -275,9 +275,11 @@
         "currentAC": 13,
         "note": "5. Mechanics/Bestiary/Undead/Skeleton.md",
         "id": "ID_ebf89a89e8d8",
-        "currentHP": 1,
+        "currentHP": 0,
         "tempHP": 0,
-        "status": [],
+        "status": [
+          "Unconscious"
+        ],
         "enabled": true,
         "active": false,
         "hidden": false,
