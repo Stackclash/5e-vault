@@ -23,9 +23,11 @@
             "id": "907d5c0f31d32694",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "z_Assets/Barovia.jpg"
+                "file": "6. Resources/5e Modules/Curse Of Strahd/13 Chapter-11 Van Richtens Tower.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -88,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Assets/Barovia.jpg",
+                "file": "6. Resources/5e Modules/Curse Of Strahd/13 Chapter-11 Van Richtens Tower.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Assets/Barovia.jpg",
+                "file": "6. Resources/5e Modules/Curse Of Strahd/13 Chapter-11 Van Richtens Tower.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Assets/Barovia.jpg"
+                "file": "6. Resources/5e Modules/Curse Of Strahd/13 Chapter-11 Van Richtens Tower.md"
               }
             }
           },
@@ -205,9 +207,10 @@
   },
   "active": "907d5c0f31d32694",
   "lastOpenFiles": [
+    "3. The Party/Session Logs/Session Logs.md",
+    "z_Assets/Barovia.jpg",
     "4. World Almanac/Regions/Barovia.md",
     "3. The Party/Session Logs/Knowing the Road.md",
-    "3. The Party/Session Logs/Session Logs.md",
     "3. The Party/Parties/Parties.md",
     "3. The Party/Parties/Curse of Strahd.md",
     "3. The Party/Session Logs/Welcome to Barovia.md",
@@ -232,7 +235,6 @@
     "5. Mechanics/Bestiary/Undead/Undead.md",
     "5. Mechanics/Spells/Spells.md",
     "5. Mechanics/Bestiary/Undead/Skeleton.md",
-    "3. The Party/Session Logs/New Session.md",
     "4. World Almanac/NPCs/token/zygfrek-belview.png",
     "4. World Almanac/NPCs/token/zuleika-toranescu.png",
     "4. World Almanac/NPCs/token/yevgeni-krushkin.png",
@@ -241,7 +243,6 @@
     "4. World Almanac/NPCs/token/vilnius.png",
     "4. World Almanac/NPCs/token/victor-vallakovich.png",
     "4. World Almanac/NPCs/token/vasilka.png",
-    "4. World Almanac/NPCs/token/urwin-martikov.png",
     "4. World Almanac/NPCs/token",
     "4. World Almanac/NPCs/img",
     "6. Resources/Resources/A Guide to Curse of Strahd.pdf",
