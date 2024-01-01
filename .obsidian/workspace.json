@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. The Party/Session Logs/Campaign Preparation.md",
-                "mode": "source",
+                "file": "4. World Almanac/Regions/Barovia.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/Session Logs/Campaign Preparation.md",
+                "file": "4. World Almanac/Regions/Barovia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/Session Logs/Campaign Preparation.md",
+                "file": "4. World Almanac/Regions/Barovia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/Session Logs/Campaign Preparation.md"
+                "file": "4. World Almanac/Regions/Barovia.md"
               }
             }
           },
@@ -174,11 +174,12 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 369.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,9 +202,12 @@
   },
   "active": "0d3640a761a229ad",
   "lastOpenFiles": [
-    "3. The Party/Parties/Curse of Strahd.md",
-    "3. The Party/Parties/Parties.md",
     "3. The Party/Session Logs/Session Logs.md",
+    "3. The Party/Parties/Parties.md",
+    "3. The Party/Parties/Curse of Strahd.md",
+    "3. The Party/Session Logs/Welcome to Barovia.md",
+    "3. The Party/Session Logs/Campaign Preparation.md",
+    "3. The Party/Session Logs/Knowing the Road.md",
     "4. World Almanac/Regions/Barovia.md",
     "4. World Almanac/Regions/Regions.md",
     "3. The Party/Session Logs/New Year Session.md",
@@ -226,9 +230,6 @@
     "5. Mechanics/Spells/Spells.md",
     "5. Mechanics/Bestiary/Undead/Skeleton.md",
     "3. The Party/Session Logs/New Session.md",
-    "5. Mechanics/Spells/Glyph Of Warding.md",
-    "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
-    "3. The Party/Players/Redgrave.md",
     "4. World Almanac/NPCs/token/zygfrek-belview.png",
     "4. World Almanac/NPCs/token/zuleika-toranescu.png",
     "4. World Almanac/NPCs/token/yevgeni-krushkin.png",
