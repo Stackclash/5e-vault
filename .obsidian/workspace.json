@@ -42,8 +42,111 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "af893f85459dd4b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef0cf2b0b3a7a592",
+            "type": "leaf",
+            "state": {
+              "type": "intiative-tracker-encounter-builder",
+              "state": [
+                [
+                  {
+                    "name": "Skeleton",
+                    "size": "Medium",
+                    "type": "undead",
+                    "alignment": "Lawful Evil",
+                    "ac": 13,
+                    "hp": 13,
+                    "hit_dice": "2d8 + 4",
+                    "stats": [
+                      10,
+                      14,
+                      15,
+                      6,
+                      8,
+                      5
+                    ],
+                    "speed": "30 ft.",
+                    "damage_vulnerabilities": "bludgeoning",
+                    "damage_immunities": "poison",
+                    "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]",
+                    "senses": "darkvision 60 ft., passive Perception 9",
+                    "languages": "understands all languages it spoke in life but can't speak",
+                    "cr": "1/4",
+                    "actions": [
+                      {
+                        "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage.",
+                        "name": "Shortsword"
+                      },
+                      {
+                        "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 80/320 ft., one target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage.",
+                        "name": "Shortbow"
+                      }
+                    ],
+                    "source": [
+                      "MM",
+                      "CoS",
+                      "LMoP",
+                      "PotA",
+                      "SKT",
+                      "TftYP",
+                      "ToA",
+                      "WDH",
+                      "WDMM",
+                      "GoS",
+                      "DC",
+                      "DIP",
+                      "SDW",
+                      "BGDIA",
+                      "RMBRE",
+                      "IMR",
+                      "TCE",
+                      "WBtW",
+                      "CRCotN",
+                      "JttRC",
+                      "DSotDQ",
+                      "KftGV",
+                      "HftT",
+                      "PaBTSO",
+                      "AATM",
+                      "SatO",
+                      "ToFW"
+                    ],
+                    "image": "5. Mechanics/Bestiary/Undead/token/skeleton.png",
+                    "note": "5. Mechanics/Bestiary/Undead/Skeleton.md",
+                    "mtime": 1703989746547
+                  },
+                  8
+                ]
+              ]
+            }
+          },
+          {
+            "id": "3afdeda01c7e6fd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Mechanics/Bestiary/Undead/Skeleton.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -101,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/Session Logs/New Year Session.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/Session Logs/New Year Session.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/Session Logs/New Year Session.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -190,12 +293,25 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
+      },
+      {
+        "id": "4a1071f6ebbf1dc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cdfc18f4d3897b7b",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 369.5,
-    "collapsed": true
+    "width": 369.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,13 +332,16 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "0d3640a761a229ad",
+  "active": "83229f1d68f598e7",
   "lastOpenFiles": [
+    "5. Mechanics/Bestiary/Undead/Skeleton.md",
+    "Untitled.md",
+    "1. DM Screen/Tools/Barovian Names.md",
+    "5. Mechanics/Bestiary/Undead/Undead.md",
+    "3. The Party/Session Logs/New Year Session.md",
     "5. Mechanics/Spells/Spells.md",
     "3. The Party/Session Logs/Session Logs.md",
     "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
-    "1. DM Screen/Tools/Barovian Names.md",
-    "3. The Party/Session Logs/New Year Session.md",
     "3. The Party/Session Logs/New Session.md",
     "5. Mechanics/Spells/Glyph Of Warding.md",
     "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
@@ -242,7 +361,6 @@
     "3. The Party/Players/Faerah Duskrane.md",
     "4. World Almanac/NPCs/Gertruda.md",
     "5. Mechanics/Spells/Spirit Guardians.md",
-    "conflict-files-obsidian-git.md",
     "4. World Almanac/NPCs/token/zygfrek-belview.png",
     "4. World Almanac/NPCs/token/zuleika-toranescu.png",
     "4. World Almanac/NPCs/token/yevgeni-krushkin.png",
@@ -255,7 +373,6 @@
     "4. World Almanac/NPCs/token/thornboldt-thorn-durst.png",
     "4. World Almanac/NPCs/token",
     "4. World Almanac/NPCs/img",
-    "4. World Almanac/NPCs/Zygfrek Belview.md",
     "6. Resources/Resources/A Guide to Curse of Strahd.pdf",
     "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Adventure_-_The_Interactive_Tome_of_Strahd_v2_Printer_Friendly_(updated_04_21_21).pdf",
     "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Adventure_-_The_Interactive_Tome_of_Strahd_v3_-_Color.pdf",
