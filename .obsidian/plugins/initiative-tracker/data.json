@@ -146,7 +146,7 @@
         "tempHP": 0,
         "status": [],
         "enabled": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
@@ -162,9 +162,11 @@
         "currentAC": 13,
         "note": "5. Mechanics/Bestiary/Undead/Skeleton.md",
         "id": "ID_9a896a3bfad9",
-        "currentHP": 13,
+        "currentHP": 0,
         "tempHP": 0,
-        "status": [],
+        "status": [
+          "Unconscious"
+        ],
         "enabled": true,
         "active": false,
         "hidden": false,
@@ -319,7 +321,7 @@
         "hit_dice": "2d8 + 4"
       }
     ],
-    "state": false,
+    "state": true,
     "name": "Encounter",
     "round": 1,
     "logFile": "",

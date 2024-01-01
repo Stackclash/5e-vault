@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Mechanics/Spells/Spells.md",
+                "file": "3. The Party/Players/Faerah Duskrane.md",
                 "mode": "preview",
                 "source": false
               }
@@ -134,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "3. The Party/Players/Faerah Duskrane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "3. The Party/Players/Faerah Duskrane.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "3. The Party/Players/Faerah Duskrane.md"
               }
             }
           },
@@ -320,14 +320,14 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "ef0cf2b0b3a7a592",
+  "active": "0114026520b82c76",
   "lastOpenFiles": [
-    "5. Mechanics/Bestiary/Undead/Skeleton.md",
-    "Untitled.md",
-    "1. DM Screen/Tools/Barovian Names.md",
     "5. Mechanics/Bestiary/Undead/Undead.md",
-    "3. The Party/Session Logs/New Year Session.md",
     "5. Mechanics/Spells/Spells.md",
+    "Untitled.md",
+    "5. Mechanics/Bestiary/Undead/Skeleton.md",
+    "1. DM Screen/Tools/Barovian Names.md",
+    "3. The Party/Session Logs/New Year Session.md",
     "3. The Party/Session Logs/Session Logs.md",
     "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
     "3. The Party/Session Logs/New Session.md",
