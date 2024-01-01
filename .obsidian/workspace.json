@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Mechanics/Bestiary/Humanoid/Priest.md",
+                "file": "3. The Party/Players/Faerah Duskrane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Mechanics/Bestiary/Humanoid/Priest.md",
+                "file": "3. The Party/Players/Faerah Duskrane.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Mechanics/Bestiary/Humanoid/Priest.md"
+                "file": "3. The Party/Players/Faerah Duskrane.md"
               }
             }
           },
@@ -231,8 +231,9 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "73daec7171f4934c",
+  "active": "0114026520b82c76",
   "lastOpenFiles": [
+    "5. Mechanics/Bestiary/Humanoid/Priest.md",
     "Untitled.md",
     "4. World Almanac/Groups/Groups.md",
     "1. DM Screen/Tools/Barovian Names.md",
@@ -260,7 +261,6 @@
     "5. Mechanics/Spells/Greater Restoration.md",
     "5. Mechanics/Spells/Animate Dead.md",
     "5. Mechanics/Spells/Resurrection.md",
-    "3. The Party/Players/Yevelda Ovak.md",
     "4. World Almanac/NPCs/token/zygfrek-belview.png",
     "4. World Almanac/NPCs/token/zuleika-toranescu.png",
     "4. World Almanac/NPCs/token/yevgeni-krushkin.png",
