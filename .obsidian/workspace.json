@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Barovia names",
+                "query": "the land",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -82,7 +82,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -231,7 +232,7 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "0114026520b82c76",
+  "active": "3629b92bcb84e179",
   "lastOpenFiles": [
     "5. Mechanics/Bestiary/Humanoid/Priest.md",
     "Untitled.md",
