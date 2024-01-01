@@ -20,16 +20,6 @@
             }
           },
           {
-            "id": "ee08144046867d33",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf"
-              }
-            }
-          },
-          {
             "id": "2e0321034f726042",
             "type": "leaf",
             "state": {
@@ -37,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
+                "file": "3. The Party/Session Logs/New Year Session.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
+                "file": "3. The Party/Session Logs/New Year Session.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf"
+                "file": "3. The Party/Session Logs/New Year Session.md"
               }
             }
           },
@@ -210,10 +199,10 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "ee08144046867d33",
+  "active": "0d3640a761a229ad",
   "lastOpenFiles": [
-    "6. Resources/5e Modules/Curse Of Strahd/06 Chapter-4 Castle Ravenloft.md",
     "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
+    "6. Resources/5e Modules/Curse Of Strahd/06 Chapter-4 Castle Ravenloft.md",
     "Untitled.md",
     "4. World Almanac/NPCs/Anastrasya Karelova.md",
     "4. World Almanac/NPCs/Npc.md",
