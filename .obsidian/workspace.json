@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "3. The Party/Session Logs/New Year Session.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "3. The Party/Session Logs/New Year Session.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "3. The Party/Session Logs/New Year Session.md"
               }
             }
           },
@@ -242,14 +241,14 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "af893f85459dd4b7",
+  "active": "0d3640a761a229ad",
   "lastOpenFiles": [
+    "Untitled.md",
     "1. DM Screen/Tools/Barovian Names.md",
     "3. The Party/Players/Faerah Duskrane.md",
     "5. Mechanics/Bestiary/Undead/token/skeleton.png",
     "5. Mechanics/Bestiary/Undead/Undead.md",
     "5. Mechanics/Spells/Spells.md",
-    "Untitled.md",
     "5. Mechanics/Bestiary/Undead/Skeleton.md",
     "3. The Party/Session Logs/New Year Session.md",
     "3. The Party/Session Logs/Session Logs.md",
