@@ -206,7 +206,7 @@
         "currentAC": 13,
         "note": "5. Mechanics/Bestiary/Undead/Skeleton.md",
         "id": "ID_2a39f979ab68",
-        "currentHP": 13,
+        "currentHP": 7,
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -323,7 +323,7 @@
     ],
     "state": true,
     "name": "Encounter",
-    "round": 1,
+    "round": 2,
     "logFile": "",
     "rollHP": false
   },
