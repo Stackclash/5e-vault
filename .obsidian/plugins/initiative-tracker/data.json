@@ -131,7 +131,7 @@
         "tempHP": 0,
         "status": [],
         "enabled": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
@@ -212,7 +212,7 @@
         "tempHP": 0,
         "status": [],
         "enabled": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false,
         "hit_dice": "2d8 + 4"
@@ -229,9 +229,11 @@
         "currentAC": 13,
         "note": "5. Mechanics/Bestiary/Undead/Skeleton.md",
         "id": "ID_3bc8fb582989",
-        "currentHP": 10,
+        "currentHP": 0,
         "tempHP": 0,
-        "status": [],
+        "status": [
+          "Unconscious"
+        ],
         "enabled": true,
         "active": false,
         "hidden": false,
@@ -271,7 +273,7 @@
         "currentAC": 13,
         "note": "5. Mechanics/Bestiary/Undead/Skeleton.md",
         "id": "ID_ebf89a89e8d8",
-        "currentHP": 13,
+        "currentHP": 7,
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -327,7 +329,7 @@
     ],
     "state": true,
     "name": "Encounter",
-    "round": 2,
+    "round": 3,
     "logFile": "",
     "rollHP": false
   },
