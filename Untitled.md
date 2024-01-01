@@ -1,5 +1,5 @@
 ```encounter
-monsters:
-8: Skeleton
+creatures:
+- 4: [[Cult Fanatic]]
+- 1: [[Priest]]
 ```
-[[Priest]]

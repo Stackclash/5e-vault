@@ -204,25 +204,10 @@
           }
         ],
         "currentTab": 7
-      },
-      {
-        "id": "b52b906a64cb1c7b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dae668703548b802",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 369.5,
-    "collapsed": true
+    "width": 369.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,9 +230,12 @@
   },
   "active": "39da7947c94c0aae",
   "lastOpenFiles": [
+    "3. The Party/Players/Players.md",
+    "3. The Party/Session Logs/Session Logs.md",
+    "3. The Party/Session Logs/Best Weapon against Vampires are Old Men.md",
+    "Untitled.md",
     "5. Mechanics/Bestiary/Humanoid/Priest.md",
     "3. The Party/Players/Faerah Duskrane.md",
-    "Untitled.md",
     "4. World Almanac/Groups/Groups.md",
     "1. DM Screen/Tools/Barovian Names.md",
     "4. World Almanac/NPCs/Lady Fiona Wachter.md",
@@ -257,14 +245,12 @@
     "5. Mechanics/Bestiary/Undead/Undead.md",
     "5. Mechanics/Spells/Spells.md",
     "5. Mechanics/Bestiary/Undead/Skeleton.md",
-    "3. The Party/Session Logs/Session Logs.md",
     "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
     "3. The Party/Session Logs/New Session.md",
     "5. Mechanics/Spells/Glyph Of Warding.md",
     "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
     "3. The Party/Players/Redgrave.md",
     "3. The Party/Players/Seluvis Felo'melorn.md",
-    "3. The Party/Players/Players.md",
     "6. Resources/5e Modules/Curse Of Strahd/06 Chapter-4 Castle Ravenloft.md",
     "5. Mechanics/Races/Races.md",
     "5. Mechanics/Races/Half Elf.md",
@@ -272,7 +258,6 @@
     "5. Mechanics/Spells/Lesser Restoration.md",
     "5. Mechanics/Spells/Greater Restoration.md",
     "5. Mechanics/Spells/Animate Dead.md",
-    "5. Mechanics/Spells/Resurrection.md",
     "4. World Almanac/NPCs/token/zygfrek-belview.png",
     "4. World Almanac/NPCs/token/zuleika-toranescu.png",
     "4. World Almanac/NPCs/token/yevgeni-krushkin.png",
