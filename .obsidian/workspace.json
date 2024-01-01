@@ -132,18 +132,6 @@
                 ]
               ]
             }
-          },
-          {
-            "id": "3afdeda01c7e6fd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Mechanics/Bestiary/Undead/Skeleton.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 4
@@ -296,11 +284,11 @@
         "currentTab": 7
       },
       {
-        "id": "4a1071f6ebbf1dc9",
+        "id": "b52b906a64cb1c7b",
         "type": "tabs",
         "children": [
           {
-            "id": "cdfc18f4d3897b7b",
+            "id": "dae668703548b802",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-creature-view",
@@ -332,7 +320,7 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "83229f1d68f598e7",
+  "active": "ef0cf2b0b3a7a592",
   "lastOpenFiles": [
     "5. Mechanics/Bestiary/Undead/Skeleton.md",
     "Untitled.md",
