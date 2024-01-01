@@ -333,7 +333,7 @@
         "hit_dice": "2d8 + 4"
       }
     ],
-    "state": true,
+    "state": false,
     "name": "Encounter",
     "round": 4,
     "logFile": "",

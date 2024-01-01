@@ -220,7 +220,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 369.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,7 +242,7 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "0d3640a761a229ad",
+  "active": "83229f1d68f598e7",
   "lastOpenFiles": [
     "Untitled.md",
     "1. DM Screen/Tools/Barovian Names.md",
