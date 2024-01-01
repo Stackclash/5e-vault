@@ -35,14 +35,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
+                "file": "6. Resources/5e Modules/Curse Of Strahd/06 Chapter-4 Castle Ravenloft.md",
+                "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "31ca73dcb038b8fb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -71,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "the land",
+                "query": "Cyrus Belview",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -80,7 +88,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -100,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +125,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -214,13 +219,15 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "ee08144046867d33",
+  "active": "31ca73dcb038b8fb",
   "lastOpenFiles": [
-    "3. The Party/Players/Faerah Duskrane.md",
     "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
+    "6. Resources/5e Modules/Curse Of Strahd/06 Chapter-4 Castle Ravenloft.md",
+    "4. World Almanac/NPCs/Cyrus Belview.md",
+    "Untitled.md",
+    "3. The Party/Players/Faerah Duskrane.md",
     "3. The Party/Session Logs/New Year Session.md",
     "5. Mechanics/Bestiary/Humanoid/Priest.md",
-    "Untitled.md",
     "3. The Party/Players/Players.md",
     "3. The Party/Session Logs/Session Logs.md",
     "3. The Party/Session Logs/Best Weapon against Vampires are Old Men.md",
@@ -237,12 +244,10 @@
     "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
     "3. The Party/Players/Redgrave.md",
     "3. The Party/Players/Seluvis Felo'melorn.md",
-    "6. Resources/5e Modules/Curse Of Strahd/06 Chapter-4 Castle Ravenloft.md",
     "5. Mechanics/Races/Races.md",
     "5. Mechanics/Races/Half Elf.md",
     "5. Mechanics/Races/Elf.md",
     "5. Mechanics/Spells/Lesser Restoration.md",
-    "5. Mechanics/Spells/Greater Restoration.md",
     "4. World Almanac/NPCs/token/zygfrek-belview.png",
     "4. World Almanac/NPCs/token/zuleika-toranescu.png",
     "4. World Almanac/NPCs/token/yevgeni-krushkin.png",
