@@ -19,6 +19,26 @@
       "level": 5,
       "modifier": -1,
       "player": true
+    },
+    {
+      "note": "Marin",
+      "path": "3. The Party/Players/Marin.md",
+      "name": "Marin",
+      "ac": 15,
+      "hp": 43,
+      "level": 5,
+      "modifier": 3,
+      "player": true
+    },
+    {
+      "note": "Yevelda Ovak",
+      "path": "3. The Party/Players/Yevelda Ovak.md",
+      "name": "Yevelda Ovak",
+      "ac": 15,
+      "hp": 65,
+      "level": 5,
+      "modifier": 2,
+      "player": true
     }
   ],
   "parties": [],

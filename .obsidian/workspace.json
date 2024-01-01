@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "39da7947c94c0aae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -82,8 +94,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -103,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/Players/Faerah Duskrane.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/Players/Faerah Duskrane.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/Players/Faerah Duskrane.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -232,16 +243,16 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "3629b92bcb84e179",
+  "active": "39da7947c94c0aae",
   "lastOpenFiles": [
     "5. Mechanics/Bestiary/Humanoid/Priest.md",
+    "3. The Party/Players/Faerah Duskrane.md",
     "Untitled.md",
     "4. World Almanac/Groups/Groups.md",
     "1. DM Screen/Tools/Barovian Names.md",
     "4. World Almanac/NPCs/Lady Fiona Wachter.md",
     "Fiona Wachter.md",
     "3. The Party/Session Logs/New Year Session.md",
-    "3. The Party/Players/Faerah Duskrane.md",
     "5. Mechanics/Bestiary/Undead/token/skeleton.png",
     "5. Mechanics/Bestiary/Undead/Undead.md",
     "5. Mechanics/Spells/Spells.md",
