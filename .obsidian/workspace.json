@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "737cd60ed38dbe06",
+        "id": "4d5d8d1ccc10534a",
         "type": "tabs",
         "children": [
           {
-            "id": "655921815f20964e",
+            "id": "8c3a49895f8a380f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "3. The Party/Session Logs/New Session.md",
-                "mode": "preview",
-                "source": false
+                "file": "3. The Party/Session Logs/Session Logs.md"
               }
             }
           }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/Session Logs/New Session.md",
+                "file": "3. The Party/Session Logs/Session Logs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/Session Logs/New Session.md",
+                "file": "3. The Party/Session Logs/Session Logs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/Session Logs/New Session.md"
+                "file": "3. The Party/Session Logs/Session Logs.md"
               }
             }
           },
@@ -171,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3. The Party/Session Logs/New Session.md"
+                "file": "3. The Party/Session Logs/Session Logs.md"
               }
             }
           }
@@ -202,8 +200,14 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "655921815f20964e",
+  "active": "8c3a49895f8a380f",
   "lastOpenFiles": [
+    "3. The Party/Session Logs/Best Weapon against Vampires are Old Men.md",
+    "3. The Party/Session Logs/Session Logs.md",
+    "4. World Almanac/Regions/Regions.md",
+    "4. World Almanac/Groups/Groups.md",
+    "3. The Party/Session Logs/New Session.md",
+    "3. The Party/Quests/Quests.md",
     "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
     "conflict-files-obsidian-git.md",
     "Untitled.md",
@@ -211,16 +215,13 @@
     "6. Resources/5e Modules/Curse Of Strahd/06 Chapter-4 Castle Ravenloft.md",
     "6. Resources/5e Modules/Curse Of Strahd/img/025-006.jpg",
     "6. Resources/5e Modules/Curse Of Strahd/img/028-007.jpg",
-    "3. The Party/Session Logs/New Session.md",
     "6. Resources/5e Modules/Curse Of Strahd/img/006-cos02-03.webp",
     "6. Resources/5e Modules/Curse Of Strahd/img/008-cos201.jpg",
     "6. Resources/5e Modules/Curse Of Strahd/img/009-cos02-04.webp",
     "3. The Party/Session Logs/The Mob of Vallaki.md",
-    "3. The Party/Session Logs/Session Logs.md",
     "3. The Party/Session Logs/Never Trust a Hunter.md",
     "4. World Almanac/Shops/Shops.md",
     "4. World Almanac/Settlements/Settlements.md",
-    "4. World Almanac/Regions/Regions.md",
     "4. World Almanac/NPCs/The Mad Mage Of Mount Baratok.md",
     "4. World Almanac/NPCs/Baba Lysaga.md",
     "4. World Almanac/NPCs/Arrigal.md",
@@ -233,8 +234,6 @@
     "4. World Almanac/NPCs/Faldric The Archer.md",
     "4. World Almanac/NPCs/Ezmerelda Davenir.md",
     "4. World Almanac/NPCs/Exethanter.md",
-    "4. World Almanac/NPCs/Escher.md",
-    "4. World Almanac/NPCs/Emil Toranescu.md",
     "4. World Almanac/NPCs/token/zygfrek-belview.png",
     "4. World Almanac/NPCs/token/zuleika-toranescu.png",
     "4. World Almanac/NPCs/token/yevgeni-krushkin.png",

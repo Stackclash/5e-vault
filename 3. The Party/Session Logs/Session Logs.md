@@ -133,6 +133,63 @@ columns:
       footer_type: none
       persist_changes: false
       option_source: manual
+  aat-render-enabled:
+    input: checkbox
+    accessorKey: aat-render-enabled
+    key: aat-render-enabled
+    id: aat-render-enabled
+    label: aat-render-enabled
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  fc-category:
+    input: text
+    accessorKey: fc-category
+    key: fc-category
+    id: fc-category
+    label: fc-category
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  timelines:
+    input: tags
+    accessorKey: timelines
+    key: timelines
+    id: timelines
+    label: timelines
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
 config:
   remove_field_when_delete_column: false
   cell_size: normal
