@@ -11,9 +11,11 @@
             "id": "8c3a49895f8a380f",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "3. The Party/Session Logs/Session Logs.md"
+                "file": "4. World Almanac/NPCs/Bluto Krogarov.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -75,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/Session Logs/Session Logs.md",
+                "file": "4. World Almanac/NPCs/Bluto Krogarov.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/Session Logs/Session Logs.md",
+                "file": "4. World Almanac/NPCs/Bluto Krogarov.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/Session Logs/Session Logs.md"
+                "file": "4. World Almanac/NPCs/Bluto Krogarov.md"
               }
             }
           },
@@ -169,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3. The Party/Session Logs/Session Logs.md"
+                "file": "4. World Almanac/NPCs/Bluto Krogarov.md"
               }
             }
           }
@@ -202,16 +204,21 @@
   },
   "active": "8c3a49895f8a380f",
   "lastOpenFiles": [
-    "3. The Party/Session Logs/Best Weapon against Vampires are Old Men.md",
+    "5. Mechanics/Bestiary/Elemental/Elemental.md",
+    "5. Mechanics/Bestiary/Elemental/Water Elemental Myrmidon (MPMM).md",
+    "5. Mechanics/Bestiary/Elemental/Air Elemental Myrmidon (MPMM).md",
+    "5. Mechanics/Spells/Spells.md",
+    "5. Mechanics/Spells/Arcane Eye.md",
+    "3. The Party/Session Logs/Deal with the Devil.md",
     "3. The Party/Session Logs/Session Logs.md",
+    "3. The Party/Session Logs/Finding Victor.md",
+    "3. The Party/Session Logs/Best Weapon against Vampires are Old Men.md",
     "4. World Almanac/Regions/Regions.md",
     "4. World Almanac/Groups/Groups.md",
-    "3. The Party/Session Logs/New Session.md",
     "3. The Party/Quests/Quests.md",
     "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
     "conflict-files-obsidian-git.md",
     "Untitled.md",
-    "3. The Party/Session Logs/New Year Session.md",
     "6. Resources/5e Modules/Curse Of Strahd/06 Chapter-4 Castle Ravenloft.md",
     "6. Resources/5e Modules/Curse Of Strahd/img/025-006.jpg",
     "6. Resources/5e Modules/Curse Of Strahd/img/028-007.jpg",
@@ -229,11 +236,6 @@
     "4. World Almanac/NPCs/Anastrasya Karelova.md",
     "4. World Almanac/NPCs/Gertruda.md",
     "4. World Almanac/NPCs/Garra.md",
-    "4. World Almanac/NPCs/Gadof Blinsky.md",
-    "4. World Almanac/NPCs/Fraz Urbluu.md",
-    "4. World Almanac/NPCs/Faldric The Archer.md",
-    "4. World Almanac/NPCs/Ezmerelda Davenir.md",
-    "4. World Almanac/NPCs/Exethanter.md",
     "4. World Almanac/NPCs/token/zygfrek-belview.png",
     "4. World Almanac/NPCs/token/zuleika-toranescu.png",
     "4. World Almanac/NPCs/token/yevgeni-krushkin.png",

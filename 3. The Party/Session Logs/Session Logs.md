@@ -181,6 +181,8 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    options:
+      - { label: "COS", value: "COS", color: "hsl(192, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
