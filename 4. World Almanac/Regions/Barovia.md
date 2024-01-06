@@ -3,7 +3,7 @@ obsidianUIMode: preview
 government: Monarchy
 rulers:
   - "[[4. World Almanac/NPCs/Strahd von Zarovich.md|Strahd von Zarovich]]"
-world: "[[[4. World Almanac/Regions/Barovia.md|Barovia]]]"
+world: "[[Eldoria]]"
 ---
 
 

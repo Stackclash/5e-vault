@@ -250,7 +250,7 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: true
-      formula_query: "${db.dataview.pages('\"4. World Almanac/Worlds\"').where(p => p.file.name != \"Worlds\").regions}"
+      formula_query: ${row.page.file.name}
       formula_persist_type: text
 config:
   enable_show_state: false
