@@ -16,8 +16,21 @@
                 "file": "4. World Almanac/Regions/Regions.md"
               }
             }
+          },
+          {
+            "id": "f9f2cd8dae9d7418",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. World Almanac/Worlds/Eldoria.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/Regions/Regions.md",
+                "file": "4. World Almanac/Worlds/Eldoria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/Regions/Regions.md",
+                "file": "4. World Almanac/Worlds/Eldoria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/Regions/Regions.md"
+                "file": "4. World Almanac/Worlds/Eldoria.md"
               }
             }
           },
@@ -169,7 +182,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "4. World Almanac/Regions/Regions.md"
+                "file": "4. World Almanac/Worlds/Eldoria.md"
               }
             }
           }
@@ -200,16 +213,16 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "45924cb562e2e20a",
+  "active": "f9f2cd8dae9d7418",
   "lastOpenFiles": [
-    "4. World Almanac/Regions/Barovia.md",
+    "Untitled.md",
     "4. World Almanac/Regions/Regions.md",
+    "4. World Almanac/Regions/Barovia.md",
     "4. World Almanac/Worlds/Worlds.md",
     "3. The Party/Session Logs/Session Logs.md",
     "4. World Almanac/Worlds/Eldoria.md",
     "4. World Almanac/Places of Interest/Places of Interest.md",
     "5. Mechanics/Items/Items.md",
-    "Untitled.md",
     "5. Mechanics/Bestiary/Humanoid/Humanoid.md",
     "3. The Party/Parties/Parties.md",
     "3. The Party/Players/Players.md",
