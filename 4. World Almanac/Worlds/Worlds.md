@@ -76,8 +76,8 @@ columns:
     input: relation
     accessorKey: regions
     key: regions
-    id: world_region
-    label: Region Relationship
+    id: Regions
+    label: Regions
     position: 100
     skipPersist: false
     isHidden: false
@@ -92,8 +92,7 @@ columns:
       footer_type: none
       persist_changes: false
       related_note_path: 4. World Almanac/Regions/Regions.md
-      bidirectional_relation: true
-      relation_color: hsl(0,100%,60%)
+      relation_color: hsl(0,100%,50%)
 config:
   remove_field_when_delete_column: false
   cell_size: normal

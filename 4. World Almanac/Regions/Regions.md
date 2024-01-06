@@ -230,13 +230,13 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  region_settlement:
-    input: relation
-    accessorKey: region_settlement
-    key: region_settlement
-    id: region_settlement
-    label: Settlement Relationship
-    position: 8
+  world:
+    input: formula
+    accessorKey: world
+    key: world
+    id: world
+    label: World
+    position: 100
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -245,57 +245,10 @@ columns:
       link_alias_enabled: true
       media_width: 100
       media_height: 100
-      isInline: true
+      isInline: false
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-      related_note_path: 4. World Almanac/Settlements/Settlements.md
-      relation_color: hsl(0,100%,59%)
-      bidirectional_relation: true
-  region_PoI:
-    input: relation
-    accessorKey: region_PoI
-    key: region_PoI
-    id: region_PoI
-    label: PoI Relationship
-    position: 9
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: true
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-      related_note_path: 4. World Almanac/Places of Interest/Places of Interest.md
-      bidirectional_relation: true
-      relation_color: hsl(0,100%,59%)
-  regions:
-    input: relation
-    accessorKey: regions
-    key: regions
-    id: world_region
-    label: World Relationship
-    position: 10
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: true
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-      related_note_path: 4. World Almanac/Worlds/Worlds.md
-      bidirectional_relation: true
-      relation_color: hsl(0,100%,62%)
 config:
   enable_show_state: false
   group_folder_column: 

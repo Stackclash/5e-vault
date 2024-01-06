@@ -3,14 +3,8 @@ obsidianUIMode: preview
 government: Monarchy
 rulers:
   - "[[4. World Almanac/NPCs/Strahd von Zarovich.md|Strahd von Zarovich]]"
-world_region:
-  - "[[Eldoria]]"
-region_settlement:
-  - "[[Vallaki]]"
-  - "[[Village of Barovia]]"
-region_PoI:
-  - "[[Old BoneGrinder]]"
 ---
+
 
 > [!infobox]
 > # `=this.file.name`
