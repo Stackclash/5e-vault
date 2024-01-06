@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4f6fb72e6e2e732a",
+        "id": "0bffd680c19176ad",
         "type": "tabs",
         "children": [
           {
-            "id": "f9f2cd8dae9d7418",
+            "id": "008ac7627e93a815",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2024-01-06 08.34.45.excalidraw.md"
               }
             }
           }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Excalidraw/Drawing 2024-01-06 08.34.45.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Excalidraw/Drawing 2024-01-06 08.34.45.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Excalidraw/Drawing 2024-01-06 08.34.45.excalidraw.md"
               }
             }
           },
@@ -134,14 +132,6 @@
             "type": "leaf",
             "state": {
               "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
-            "id": "4fcd4472ac73fa9d",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
           },
@@ -171,12 +161,20 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Untitled.md"
+                "file": "Excalidraw/Drawing 2024-01-06 08.34.45.excalidraw.md"
               }
+            }
+          },
+          {
+            "id": "3d36ebc5feb01969",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -195,20 +193,23 @@
       "dbfolder:Create a new database table": false,
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-5e-statblocks:Open Creature Pane": false
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f9f2cd8dae9d7418",
+  "active": "008ac7627e93a815",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-01-06 08.34.45.excalidraw.md",
+    "Excalidraw",
+    "Untitled.md",
     "4. World Almanac/Regions/Regions.md",
     "Untitled-2.json",
     "4. World Almanac/Regions/Barovia.md",
     "4. World Almanac/Worlds/Eldoria.md",
-    "Untitled.md",
     "[4. World Almanac/Regions/Barovia.md",
     "[4. World Almanac/Regions",
     "[4. World Almanac",
@@ -248,7 +249,6 @@
     "compendium/bestiary/plant/token",
     "compendium/bestiary/npc/token",
     "compendium/bestiary/humanoid/token",
-    "compendium/bestiary/construct/token",
     "Untitled.canvas"
   ]
 }
