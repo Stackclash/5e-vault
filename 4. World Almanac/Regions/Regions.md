@@ -274,10 +274,10 @@ columns:
       related_note_path: 4. World Almanac/Places of Interest/Places of Interest.md
       bidirectional_relation: true
       relation_color: hsl(0,100%,59%)
-  world_region:
+  regions:
     input: relation
-    accessorKey: world_region
-    key: world_region
+    accessorKey: regions
+    key: regions
     id: world_region
     label: World Relationship
     position: 10

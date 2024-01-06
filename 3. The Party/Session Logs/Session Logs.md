@@ -141,7 +141,7 @@ columns:
     label: aat-render-enabled
     position: 100
     skipPersist: false
-    isHidden: false
+    isHidden: true
     sortIndex: -1
     config:
       enable_media_view: true

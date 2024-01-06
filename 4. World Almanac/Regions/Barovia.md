@@ -11,6 +11,7 @@ region_settlement:
 region_PoI:
   - "[[Old BoneGrinder]]"
 ---
+
 > [!infobox]
 > # `=this.file.name`
 > ![[PlaceholderImage.png|wm-tl]]

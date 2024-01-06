@@ -72,10 +72,10 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  world_region:
+  regions:
     input: relation
-    accessorKey: world_region
-    key: world_region
+    accessorKey: regions
+    key: regions
     id: world_region
     label: Region Relationship
     position: 100
