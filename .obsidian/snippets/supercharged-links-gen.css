@@ -39,22 +39,22 @@ div[data-id="7753-2134"] div.setting-item-description::before,
 }
 
 div[data-id="65a7-afcb"] div.setting-item-description::before,
-.data-link-icon[data-link-path^="3. The Party/1. Players" i]::before {
+.data-link-icon[data-link-path^="3. The Party/Players" i]::before {
     content: var(--65a7-afcb-before);
 }
 
 div[data-id="4a6f-4872"] div.setting-item-description::before,
-.data-link-icon[data-link-path^="3. The Party/2. Session Logs" i]::before {
+.data-link-icon[data-link-path^="3. The Party/Session Logs" i]::before {
     content: var(--4a6f-4872-before);
 }
 
 div[data-id="9934-88e3"] div.setting-item-description::before,
-.data-link-icon[data-link-path^="3. The Party/3. Quests" i]::before {
+.data-link-icon[data-link-path^="3. The Party/Quests" i]::before {
     content: var(--9934-88e3-before);
 }
 
 div[data-id="a3ec-73d2"] div.setting-item-description::before,
-.data-link-icon[data-link-path^="3. The Party/0. Party Hubs" i]::before {
+.data-link-icon[data-link-path^="3. The Party/Parties" i]::before {
     content: var(--a3ec-73d2-before);
 }
 /* @settings
@@ -133,7 +133,7 @@ settings:
         quotes: true
     - 
         id: 65a7-afcb
-        title: path is 3. The Party/1. Players
+        title: path is 3. The Party/Players
         description: Example note
         type: heading
         collapsed: true
@@ -147,7 +147,7 @@ settings:
         quotes: true
     - 
         id: 4a6f-4872
-        title: path is 3. The Party/2. Session Logs
+        title: path is 3. The Party/Session Logs
         description: Example note
         type: heading
         collapsed: true
@@ -161,7 +161,7 @@ settings:
         quotes: true
     - 
         id: 9934-88e3
-        title: path is 3. The Party/3. Quests
+        title: path is 3. The Party/Quests
         description: Example note
         type: heading
         collapsed: true
@@ -175,7 +175,7 @@ settings:
         quotes: true
     - 
         id: a3ec-73d2
-        title: path is 3. The Party/0. Party Hubs
+        title: path is 3. The Party/Parties
         description: Example note
         type: heading
         collapsed: true

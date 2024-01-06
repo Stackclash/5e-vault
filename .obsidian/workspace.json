@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/NPCs/Bluto Krogarov.md",
+                "file": "5. Mechanics/Items/Items.md",
                 "mode": "preview",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/NPCs/Bluto Krogarov.md",
+                "file": "5. Mechanics/Items/Items.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/NPCs/Bluto Krogarov.md",
+                "file": "5. Mechanics/Items/Items.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/NPCs/Bluto Krogarov.md"
+                "file": "5. Mechanics/Items/Items.md"
               }
             }
           },
@@ -171,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "4. World Almanac/NPCs/Bluto Krogarov.md"
+                "file": "5. Mechanics/Items/Items.md"
               }
             }
           }
@@ -202,20 +202,26 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "8c3a49895f8a380f",
+  "active": "a88a1818b2c15bdd",
   "lastOpenFiles": [
+    "5. Mechanics/Bestiary/Humanoid/Humanoid.md",
+    "3. The Party/Session Logs/Session Logs.md",
+    "3. The Party/Parties/Parties.md",
+    "3. The Party/Players/Players.md",
+    "3. The Party/Quests/Quests.md",
+    "5. Mechanics/Bestiary/Aberration/Aberration.md",
+    "5. Mechanics/Bestiary/Beast/Beast.md",
+    "4. World Almanac/NPCs/Bluto Krogarov.md",
     "5. Mechanics/Bestiary/Elemental/Elemental.md",
     "5. Mechanics/Bestiary/Elemental/Water Elemental Myrmidon (MPMM).md",
     "5. Mechanics/Bestiary/Elemental/Air Elemental Myrmidon (MPMM).md",
     "5. Mechanics/Spells/Spells.md",
     "5. Mechanics/Spells/Arcane Eye.md",
     "3. The Party/Session Logs/Deal with the Devil.md",
-    "3. The Party/Session Logs/Session Logs.md",
     "3. The Party/Session Logs/Finding Victor.md",
     "3. The Party/Session Logs/Best Weapon against Vampires are Old Men.md",
     "4. World Almanac/Regions/Regions.md",
     "4. World Almanac/Groups/Groups.md",
-    "3. The Party/Quests/Quests.md",
     "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
     "conflict-files-obsidian-git.md",
     "Untitled.md",
@@ -230,12 +236,6 @@
     "4. World Almanac/Shops/Shops.md",
     "4. World Almanac/Settlements/Settlements.md",
     "4. World Almanac/NPCs/The Mad Mage Of Mount Baratok.md",
-    "4. World Almanac/NPCs/Baba Lysaga.md",
-    "4. World Almanac/NPCs/Arrigal.md",
-    "4. World Almanac/NPCs/Arabelle.md",
-    "4. World Almanac/NPCs/Anastrasya Karelova.md",
-    "4. World Almanac/NPCs/Gertruda.md",
-    "4. World Almanac/NPCs/Garra.md",
     "4. World Almanac/NPCs/token/zygfrek-belview.png",
     "4. World Almanac/NPCs/token/zuleika-toranescu.png",
     "4. World Almanac/NPCs/token/yevgeni-krushkin.png",

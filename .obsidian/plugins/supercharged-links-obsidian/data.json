@@ -73,7 +73,7 @@
     {
       "type": "path",
       "name": "",
-      "value": "3. The Party/1. Players",
+      "value": "3. The Party/Players",
       "matchCaseSensitive": false,
       "match": "startswith",
       "uid": "65a7-afcb",
@@ -85,7 +85,7 @@
     {
       "type": "path",
       "name": "",
-      "value": "3. The Party/2. Session Logs",
+      "value": "3. The Party/Session Logs",
       "matchCaseSensitive": false,
       "match": "startswith",
       "uid": "4a6f-4872",
@@ -97,7 +97,7 @@
     {
       "type": "path",
       "name": "",
-      "value": "3. The Party/3. Quests",
+      "value": "3. The Party/Quests",
       "matchCaseSensitive": false,
       "match": "startswith",
       "uid": "9934-88e3",
@@ -109,7 +109,7 @@
     {
       "type": "path",
       "name": "",
-      "value": "3. The Party/0. Party Hubs",
+      "value": "3. The Party/Parties",
       "matchCaseSensitive": false,
       "match": "startswith",
       "uid": "a3ec-73d2",
