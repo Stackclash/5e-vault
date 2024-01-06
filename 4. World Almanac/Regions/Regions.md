@@ -240,6 +240,7 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    width: 307
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -248,7 +249,9 @@ columns:
       isInline: false
       task_hide_completed: true
       footer_type: none
-      persist_changes: false
+      persist_changes: true
+      formula_query: "${db.dataview.pages(\"4. World Alma).file.name}"
+      formula_persist_type: text
 config:
   enable_show_state: false
   group_folder_column: 
@@ -284,4 +287,4 @@ config:
 filters:
   enabled: false
   conditions:
-```
+`
