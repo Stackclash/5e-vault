@@ -1,7 +1,69 @@
 {
-  "players": [],
-  "parties": [],
-  "defaultParty": null,
+  "players": [
+    {
+      "note": "Faerah Duskrane",
+      "path": "3. The Party/Players/Faerah Duskrane.md",
+      "name": "Faerah Duskrane",
+      "ac": 16,
+      "hp": 38,
+      "level": 5,
+      "modifier": 6,
+      "player": true
+    },
+    {
+      "note": "Redgrave",
+      "path": "3. The Party/Players/Redgrave.md",
+      "name": "Redgrave",
+      "ac": 22,
+      "hp": 38,
+      "level": 5,
+      "modifier": -1,
+      "player": true
+    },
+    {
+      "note": "Marin",
+      "path": "3. The Party/Players/Marin.md",
+      "name": "Marin",
+      "ac": 15,
+      "hp": 43,
+      "level": 5,
+      "modifier": 3,
+      "player": true
+    },
+    {
+      "note": "Yevelda Ovak",
+      "path": "3. The Party/Players/Yevelda Ovak.md",
+      "name": "Yevelda Ovak",
+      "ac": 15,
+      "hp": 65,
+      "level": 5,
+      "modifier": 2,
+      "player": true
+    },
+    {
+      "note": "Seluvis Felo'melorn",
+      "path": "3. The Party/Players/Seluvis Felo'melorn.md",
+      "name": "Seluvis Felo'melorn",
+      "ac": 15,
+      "hp": 33,
+      "level": 5,
+      "modifier": 3,
+      "player": true
+    }
+  ],
+  "parties": [
+    {
+      "name": "Curse of Strahd",
+      "players": [
+        "Faerah Duskrane",
+        "Redgrave",
+        "Marin",
+        "Yevelda Ovak",
+        "Seluvis Felo'melorn"
+      ]
+    }
+  ],
+  "defaultParty": "Curse of Strahd",
   "statuses": [
     {
       "name": "Blinded",
@@ -101,17 +163,44 @@
     "creatures": [
       {
         "name": "Faerah Duskrane",
-        "initiative": 20,
+        "initiative": 7,
         "static": false,
-        "modifier": 0,
-        "hp": 0,
-        "currentMaxHP": 24,
-        "currentAC": 15,
-        "id": "ID_2a09897948a8",
-        "currentHP": 24,
+        "modifier": 6,
+        "hp": 38,
+        "currentMaxHP": 38,
+        "ac": 16,
+        "currentAC": 16,
+        "note": "Faerah Duskrane",
+        "path": "3. The Party/Players/Faerah Duskrane.md",
+        "id": "ID_59aa2b5a7a5a",
+        "currentHP": 38,
         "tempHP": 0,
         "status": [],
-        "enabled": false,
+        "enabled": true,
+        "level": 5,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Redgrave",
+        "initiative": 5,
+        "static": false,
+        "modifier": -1,
+        "hp": 38,
+        "currentMaxHP": 38,
+        "ac": 22,
+        "currentAC": 22,
+        "note": "Redgrave",
+        "path": "3. The Party/Players/Redgrave.md",
+        "id": "ID_0afb482828fa",
+        "currentHP": 38,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 5,
+        "player": true,
         "active": false,
         "hidden": false,
         "friendly": false
@@ -120,203 +209,182 @@
         "name": "Marin",
         "initiative": 10,
         "static": false,
-        "modifier": 0,
-        "hp": 0,
-        "currentMaxHP": 21,
-        "currentAC": 9,
-        "id": "ID_ab48dabba889",
-        "currentHP": 14,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "active": false,
-        "hidden": false,
-        "friendly": false
-      },
-      {
-        "name": "Redgrave",
-        "initiative": 1,
-        "static": false,
-        "modifier": 0,
-        "hp": 0,
-        "currentMaxHP": 24,
-        "currentAC": 21,
-        "id": "ID_f9782b6bd80a",
-        "currentHP": 0,
-        "tempHP": 0,
-        "status": [
-          "Unconscious"
-        ],
-        "enabled": true,
-        "active": false,
-        "hidden": false,
-        "friendly": false
-      },
-      {
-        "name": "Seluvis Felo'melorn",
-        "initiative": 5,
-        "static": false,
-        "modifier": 0,
-        "hp": 0,
-        "currentMaxHP": 21,
+        "modifier": 3,
+        "hp": 43,
+        "currentMaxHP": 43,
+        "ac": 15,
         "currentAC": 15,
-        "id": "ID_b9cada2b6929",
-        "currentHP": 3,
+        "note": "Marin",
+        "path": "3. The Party/Players/Marin.md",
+        "id": "ID_4bfbf8aae879",
+        "currentHP": 43,
         "tempHP": 0,
         "status": [],
         "enabled": true,
+        "level": 5,
+        "player": true,
         "active": false,
         "hidden": false,
         "friendly": false
       },
       {
         "name": "Yevelda Ovak",
-        "initiative": 5,
+        "initiative": 6,
         "static": false,
-        "modifier": 0,
-        "hp": 0,
-        "currentMaxHP": 21,
+        "modifier": 2,
+        "hp": 65,
+        "currentMaxHP": 65,
+        "ac": 15,
         "currentAC": 15,
-        "id": "ID_eac9baa82b7b",
-        "currentHP": 16,
+        "note": "Yevelda Ovak",
+        "path": "3. The Party/Players/Yevelda Ovak.md",
+        "id": "ID_aadb19685a0a",
+        "currentHP": 65,
         "tempHP": 0,
         "status": [],
         "enabled": true,
+        "level": 5,
+        "player": true,
         "active": false,
         "hidden": false,
         "friendly": false
       },
       {
-        "name": "Strahd von Zarovich (CoS)",
+        "name": "Seluvis Felo'melorn",
         "initiative": 18,
         "static": false,
-        "modifier": 4,
-        "hp": 149,
-        "currentMaxHP": 149,
-        "cr": "15",
-        "ac": 16,
-        "currentAC": 16,
-        "note": "5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md",
-        "id": "ID_08285baaf8ab",
-        "currentHP": 143,
+        "modifier": 3,
+        "hp": 33,
+        "currentMaxHP": 33,
+        "ac": 15,
+        "currentAC": 15,
+        "note": "Seluvis Felo'melorn",
+        "path": "3. The Party/Players/Seluvis Felo'melorn.md",
+        "id": "ID_1988bba99898",
+        "currentHP": 33,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 5,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Cult Fanatic",
+        "initiative": 9,
+        "static": false,
+        "modifier": 2,
+        "hp": 33,
+        "currentMaxHP": 33,
+        "cr": "2",
+        "ac": 13,
+        "currentAC": 13,
+        "note": "5. Mechanics/Bestiary/Humanoid/Cult Fanatic.md",
+        "id": "ID_e8da9b4ae8d8",
+        "currentHP": 33,
         "tempHP": 0,
         "status": [],
         "enabled": true,
         "active": false,
         "hidden": false,
         "friendly": false,
-        "hit_dice": "17d8 + 68",
-        "rollHP": true
+        "hit_dice": "6d8 + 6",
+        "rollHP": false
       },
       {
-        "name": "Vampire Spawn",
-        "initiative": 17,
+        "name": "Cult Fanatic",
+        "initiative": 7,
         "static": false,
-        "modifier": 3,
-        "hp": 83,
-        "currentMaxHP": 83,
-        "cr": "5",
-        "ac": 15,
-        "currentAC": 15,
-        "note": "5. Mechanics/Bestiary/Undead/Vampire Spawn.md",
-        "id": "ID_09fad8c9f8fa",
-        "currentHP": 83,
+        "modifier": 2,
+        "hp": 33,
+        "currentMaxHP": 33,
+        "cr": "2",
+        "ac": 13,
+        "currentAC": 13,
+        "note": "5. Mechanics/Bestiary/Humanoid/Cult Fanatic.md",
+        "id": "ID_39d84bb89afb",
+        "currentHP": 33,
         "tempHP": 0,
         "status": [],
         "enabled": true,
         "active": false,
         "hidden": false,
         "friendly": false,
-        "hit_dice": "11d8 + 33",
-        "rollHP": true
+        "hit_dice": "6d8 + 6",
+        "rollHP": false
       },
       {
-        "name": "Vampire Spawn",
-        "initiative": 8,
+        "name": "Cult Fanatic",
+        "initiative": 20,
         "static": false,
-        "modifier": 3,
-        "hp": 87,
-        "currentMaxHP": 87,
-        "cr": "5",
-        "ac": 15,
-        "currentAC": 15,
-        "note": "5. Mechanics/Bestiary/Undead/Vampire Spawn.md",
-        "id": "ID_19ebb90b8aa9",
-        "currentHP": 74,
+        "modifier": 2,
+        "hp": 33,
+        "currentMaxHP": 33,
+        "cr": "2",
+        "ac": 13,
+        "currentAC": 13,
+        "note": "5. Mechanics/Bestiary/Humanoid/Cult Fanatic.md",
+        "id": "ID_0beb0bd91aeb",
+        "currentHP": 33,
         "tempHP": 0,
         "status": [],
         "enabled": true,
         "active": false,
         "hidden": false,
         "friendly": false,
-        "hit_dice": "11d8 + 33",
-        "rollHP": true
+        "hit_dice": "6d8 + 6",
+        "rollHP": false
       },
       {
-        "name": "Vampire Spawn",
-        "initiative": 6,
+        "name": "Cult Fanatic",
+        "initiative": 12,
         "static": false,
-        "modifier": 3,
-        "hp": 91,
-        "currentMaxHP": 91,
-        "cr": "5",
-        "ac": 15,
-        "currentAC": 15,
-        "note": "5. Mechanics/Bestiary/Undead/Vampire Spawn.md",
-        "id": "ID_a99989e909c9",
-        "currentHP": 76,
+        "modifier": 2,
+        "hp": 33,
+        "currentMaxHP": 33,
+        "cr": "2",
+        "ac": 13,
+        "currentAC": 13,
+        "note": "5. Mechanics/Bestiary/Humanoid/Cult Fanatic.md",
+        "id": "ID_5b597a9b790b",
+        "currentHP": 33,
         "tempHP": 0,
         "status": [],
         "enabled": true,
         "active": false,
         "hidden": false,
         "friendly": false,
-        "hit_dice": "11d8 + 33",
-        "rollHP": true
+        "hit_dice": "6d8 + 6",
+        "rollHP": false
       },
       {
-        "name": "Vampire Spawn",
-        "initiative": 21,
-        "static": false,
-        "modifier": 3,
-        "hp": 81,
-        "currentMaxHP": 81,
-        "cr": "5",
-        "ac": 15,
-        "currentAC": 15,
-        "note": "5. Mechanics/Bestiary/Undead/Vampire Spawn.md",
-        "id": "ID_b9d9fb38d8ab",
-        "currentHP": 81,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "active": true,
-        "hidden": false,
-        "friendly": false,
-        "hit_dice": "11d8 + 33",
-        "rollHP": true
-      },
-      {
-        "name": "Ireena Kolyana (COS)",
-        "initiative": 14,
+        "name": "Priest",
+        "initiative": 15,
         "static": false,
         "modifier": 0,
-        "hp": 0,
-        "currentMaxHP": 0,
-        "id": "ID_db1bfa396969",
-        "currentHP": 0,
+        "hp": 27,
+        "currentMaxHP": 27,
+        "cr": "2",
+        "ac": 13,
+        "currentAC": 13,
+        "note": "5. Mechanics/Bestiary/Humanoid/Priest.md",
+        "id": "ID_eaa9983a882b",
+        "currentHP": 27,
         "tempHP": 0,
         "status": [],
         "enabled": true,
         "active": false,
         "hidden": false,
         "friendly": false,
-        "rollHP": true
+        "hit_dice": "5d8 + 5",
+        "rollHP": false
       }
     ],
     "state": false,
-    "name": "Strahd",
-    "round": 4,
+    "name": "Encounter",
+    "round": 1,
     "logFile": "",
     "rollHP": false
   },
@@ -345,9 +413,163 @@
   "rollHP": false,
   "descending": true,
   "builder": {
-    "showParty": true,
-    "showXP": true,
-    "sidebarIcon": true
+    "showParty": false,
+    "showXP": false,
+    "sidebarIcon": true,
+    "headers": [
+      {
+        "text": "CR",
+        "field": "cr",
+        "type": 1
+      },
+      {
+        "text": "Type",
+        "field": "type",
+        "type": 0
+      },
+      {
+        "text": "Size",
+        "field": "size",
+        "type": 0
+      },
+      {
+        "text": "Alignment",
+        "field": "alignment",
+        "type": 0
+      }
+    ],
+    "filters": {
+      "filters": [
+        {
+          "type": 0,
+          "text": "CR",
+          "fields": [
+            "cr"
+          ],
+          "options": [
+            0,
+            30
+          ],
+          "id": "ID_DEFAULT_CR_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Size",
+          "fields": [
+            "size"
+          ],
+          "options": [
+            "Large",
+            "Medium",
+            "Huge",
+            "Gargantuan",
+            "Small",
+            "Tiny"
+          ],
+          "id": "ID_DEFAULT_SIZE_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Type",
+          "fields": [
+            "type"
+          ],
+          "options": [
+            "aberration",
+            "humanoid",
+            "dragon",
+            "undead",
+            "elemental",
+            "monstrosity",
+            "construct",
+            "beast",
+            "plant",
+            "fiend",
+            "ooze",
+            "fey",
+            "giant",
+            "celestial"
+          ],
+          "id": "ID_DEFAULT_TYPE_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Alignment",
+          "fields": [
+            "alignment"
+          ],
+          "options": [
+            "Lawful Evil",
+            "Any alignment",
+            "Chaotic Evil",
+            "Chaotic Good",
+            "Lawful Good",
+            "Neutral",
+            "Lawful Neutral",
+            "Unaligned",
+            "Any Non-Good alignment",
+            "Any Non-Lawful alignment",
+            "Neutral Evil",
+            "Any Chaotic alignment",
+            "Neutral Good",
+            "Chaotic Neutral",
+            "Neutral Good or Neutral Evil",
+            "neutral",
+            "unaligned",
+            "Any Evil alignment",
+            "neutral evil",
+            "Typically  Neutral Evil",
+            "Typically  Chaotic Evil",
+            "Typically  Lawful Evil",
+            "Chaotic",
+            "Typically  Lawful Neutral",
+            "Any Good alignment",
+            "Chaotic Good or Neutral Evil",
+            "Typically  Lawful Good",
+            "Lawful",
+            "as the eidolon's alignment",
+            "Typically  Neutral",
+            "Typically  Chaotic Neutral",
+            "Typically  Chaotic Good"
+          ],
+          "id": "ID_DEFAULT_ALIGNMENT_FILTER",
+          "derive": true
+        }
+      ],
+      "layout": [
+        {
+          "nested": [
+            {
+              "id": "ID_DEFAULT_CR_FILTER",
+              "type": "filter"
+            }
+          ],
+          "id": "ID_DEFAULT_NESTED_CR",
+          "type": "nested"
+        },
+        {
+          "id": "ID_DEFAULT_NESTED_LAYOUT",
+          "type": "nested",
+          "nested": [
+            {
+              "id": "ID_DEFAULT_SIZE_FILTER",
+              "type": "filter"
+            },
+            {
+              "id": "ID_DEFAULT_TYPE_FILTER",
+              "type": "filter"
+            },
+            {
+              "id": "ID_DEFAULT_ALIGNMENT_FILTER",
+              "type": "filter"
+            }
+          ]
+        }
+      ]
+    }
   },
   "rollPlayerInitiatives": 0
 }

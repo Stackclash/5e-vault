@@ -41,7 +41,11 @@ Loot, rewards and purchases.
 Things to keep in mind during the session, from items to important details
 
 ## Events
-What transpired over the course of the session? Update this during the session!
+- The party goes through Victor's teleportation circle and end up in the [[Village of Barovia]] 
+- They try to find [[Gertruda]]. They find letters from Victor.
+- When they try to take the teleportation circle back they end up in Strahd's Castle
+- They choose the green stone and get teleported to the [[Coffin Maker's Shop]] 
+- 
 
 # Summary
 ## New NPCs

@@ -2661,7 +2661,7 @@ Creatures that enter the western alcove are instantly teleported to the western 
 
 #### Treasure
 
-Strahd lavished many fine gifts on his three brides.
+Strahd lavished many fine gifts on his three brides. ^5702e7
 
 [[4. World Almanac/NPCs/Ludmilla Vilisevic (COS).md\|Ludmilla Vilisevic]] wears a soiled white wedding gown, a gold tiara (worth 750 gp), and ten gold bracelets (worth 100 gp each).
 
