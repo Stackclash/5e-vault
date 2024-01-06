@@ -23,14 +23,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/Worlds/Eldoria.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/Worlds/Eldoria.md",
+                "file": "4. World Almanac/Regions/Regions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/Worlds/Eldoria.md",
+                "file": "4. World Almanac/Regions/Regions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/Worlds/Eldoria.md"
+                "file": "4. World Almanac/Regions/Regions.md"
               }
             }
           },
@@ -182,7 +181,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "4. World Almanac/Worlds/Eldoria.md"
+                "file": "4. World Almanac/Regions/Regions.md"
               }
             }
           }
@@ -213,14 +212,14 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "f9f2cd8dae9d7418",
+  "active": "45924cb562e2e20a",
   "lastOpenFiles": [
     "Untitled.md",
+    "4. World Almanac/Worlds/Eldoria.md",
     "4. World Almanac/Regions/Regions.md",
     "4. World Almanac/Regions/Barovia.md",
     "4. World Almanac/Worlds/Worlds.md",
     "3. The Party/Session Logs/Session Logs.md",
-    "4. World Almanac/Worlds/Eldoria.md",
     "4. World Almanac/Places of Interest/Places of Interest.md",
     "5. Mechanics/Items/Items.md",
     "5. Mechanics/Bestiary/Humanoid/Humanoid.md",
