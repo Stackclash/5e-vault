@@ -110,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "[4. World Almanac/Regions/Barovia.md"
+              }
             }
           },
           {
@@ -154,7 +156,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "[4. World Almanac/Regions/Barovia.md"
+              }
             }
           },
           {
@@ -193,7 +197,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f5c569c73c828620",
+  "active": "a88a1818b2c15bdd",
   "lastOpenFiles": [
     "4. World Almanac/NPCs/Milivoj.md",
     "4. World Almanac/NPCs/Marzena Belview.md",
