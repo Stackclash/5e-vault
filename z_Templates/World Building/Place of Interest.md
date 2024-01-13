@@ -3,8 +3,8 @@ obsidianUIMode: preview
 pronounced: 
 region: 
 settlement: 
-world:
 ---
+
 > [!infobox]
 > # `=this.file.name`
 > ![[PlaceholderImage.png|wm-tl]]
