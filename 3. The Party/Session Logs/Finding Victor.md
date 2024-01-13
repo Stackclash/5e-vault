@@ -55,8 +55,8 @@ New NPC Met.
 
 
 ## New Locations
-New Locations Discovered.
+- Strahd's Castle
 
 
 ## End of Session Notes
-Anything to take note of as the session has come to a close.
+The party sets out to find Victor. They discover that he may have used his teleportation sigil. 
