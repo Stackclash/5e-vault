@@ -11,11 +11,9 @@
             "id": "3397a09943689e2b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "1. DM Screen/Lookup Tables/Travel Time.md",
-                "mode": "source",
-                "source": false
+                "file": "4. World Almanac/Regions/Regions.md"
               }
             }
           }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. DM Screen/Lookup Tables/Travel Time.md",
+                "file": "4. World Almanac/Regions/Regions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. DM Screen/Lookup Tables/Travel Time.md",
+                "file": "4. World Almanac/Regions/Regions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DM Screen/Lookup Tables/Travel Time.md"
+                "file": "4. World Almanac/Regions/Regions.md"
               }
             }
           },
@@ -163,7 +161,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1. DM Screen/Lookup Tables/Travel Time.md"
+                "file": "4. World Almanac/Regions/Regions.md"
               }
             }
           },
@@ -205,15 +203,17 @@
   },
   "active": "3397a09943689e2b",
   "lastOpenFiles": [
+    "4. World Almanac/Places of Interest/Places of Interest.md",
+    "2. Scratch Notes/To-Do List.md",
+    "1. DM Screen/Lookup Tables/Travel Time.md",
+    "1. DM Screen/Tools/Barovian Names.md",
+    "4. World Almanac/NPCs/Beucephalus.md",
+    "1. DM Screen/1. DM Screen.md",
+    "1. DM Screen/Tools/Barovian Lore.md",
     "1. DM Screen/Tools/Encounter Generator.md",
     "1. DM Screen/Tools/Vistani Lore.md",
-    "1. DM Screen/Tools/Barovian Names.md",
-    "1. DM Screen/Tools/Barovian Lore.md",
-    "1. DM Screen/1. DM Screen.md",
-    "4. World Almanac/NPCs/Beucephalus.md",
     "4. World Almanac/Regions/Regions.md",
     "4. World Almanac/Regions/Barovia.md",
-    "2. Scratch Notes/To-Do List.md",
     "3. The Party/Session Logs/Finding Victor.md",
     "3. The Party/Session Logs/Deal with the Devil.md",
     "3. The Party/Session Logs/Session Logs.md",
@@ -239,8 +239,6 @@
     "5. Mechanics/Items/Items.md",
     "5. Mechanics/Items/Belt Of Stone Giant Strength.md",
     "5. Mechanics/Items/Belt Of Hill Giant Strength.md",
-    "5. Mechanics/Items/Arrows-20.md",
-    "5. Mechanics/Items/Axe Of The Dwarvish Lords.md",
     "6. Resources/5e Modules/Curse Of Strahd/img/025-006.jpg",
     "6. Resources/5e Modules/Curse Of Strahd/img/028-007.jpg",
     "6. Resources/5e Modules/Curse Of Strahd/img/006-cos02-03.webp",

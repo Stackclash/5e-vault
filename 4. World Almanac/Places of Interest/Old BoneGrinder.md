@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 region_PoI: "[[4. World Almanac/Regions/Barovia.md|Barovia]]"
-world: "[[4. World Almanac/Worlds/Eldoria.md|Eldoria]]"
+world: ""
 ---
 > [!infobox]
 > # `=this.file.name`

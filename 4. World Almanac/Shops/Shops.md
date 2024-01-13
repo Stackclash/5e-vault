@@ -109,28 +109,6 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  PoI_shop:
-    input: relation
-    accessorKey: PoI_shop
-    key: PoI_shop
-    id: PoI_shop
-    label: PoI_shop
-    position: 100
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: true
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-      related_note_path: 4. World Almanac/Places of Interest/Places of Interest.md
-      bidirectional_relation: true
-      relation_color: hsl(0,99%,61%)
   settlement_shop:
     input: relation
     accessorKey: settlement_shop
