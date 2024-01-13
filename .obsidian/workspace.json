@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a517354309400a31",
+        "id": "fcf34933ba3e9801",
         "type": "tabs",
         "children": [
           {
-            "id": "f5c569c73c828620",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. The Party/Session Logs/Finding Victor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c680448d1800f838",
+            "id": "3397a09943689e2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6e8760d43622afdc",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - B&W Printer Friendly.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,15 +203,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c680448d1800f838",
+  "active": "3397a09943689e2b",
   "lastOpenFiles": [
-    "3. The Party/Session Logs/Session Logs.md",
-    "3. The Party/Quests/Quests.md",
-    "2. Scratch Notes/To-Do List.md",
-    "4. World Almanac/NPCs/Baba Lysaga.md",
     "3. The Party/Session Logs/Finding Victor.md",
-    "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - B&W Printer Friendly.pdf",
     "3. The Party/Session Logs/Deal with the Devil.md",
+    "3. The Party/Session Logs/Session Logs.md",
+    "2. Scratch Notes/To-Do List.md",
+    "3. The Party/Quests/Quests.md",
+    "4. World Almanac/NPCs/Baba Lysaga.md",
+    "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - B&W Printer Friendly.pdf",
     "z_Extra/ttrpg-convert/templates/vehicle.txt",
     "z_Extra/ttrpg-convert/templates/subclass.txt",
     "z_Extra/ttrpg-convert/templates/spell.txt",
