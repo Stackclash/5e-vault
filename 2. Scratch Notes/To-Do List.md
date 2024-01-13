@@ -13,4 +13,11 @@
 - [ ] Fill out information for all:
 	- [ ] Regions
 	- [ ] Places of Interest
-	- [ ] 
+	- [ ] Settlements
+	- [ ] Shops
+	- [ ] NPCs
+	- [ ] Groups
+- [ ] Create maps for:
+	- [ ] Worlds
+	- [ ] Regions
+	- [ ] Settlements
