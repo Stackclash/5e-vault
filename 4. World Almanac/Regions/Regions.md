@@ -230,28 +230,6 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  world:
-    input: formula
-    accessorKey: world
-    key: world
-    id: world
-    label: World
-    position: 100
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    width: 307
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: true
-      formula_query: "[${db.dataview.pages('\"4. World Almanac/Worlds\"').where(p => p.file.name != \"Worlds\" && p.metadata.regions.includes(row.__note__.page.file.name)).file.name}]"
-      formula_persist_type: text
 config:
   enable_show_state: false
   group_folder_column: 
