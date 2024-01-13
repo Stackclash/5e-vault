@@ -1,8 +1,8 @@
 ---
 obsidianUIMode: preview
+aliases: 
 pronounced: 
-region: 
-settlement: 
+parent_location:
 ---
 
 > [!infobox]
@@ -49,16 +49,6 @@ TBD
 > scale: 1  
 > darkMode: false  
 > ```
-
-## Notable Locations
-**[[Settlements|Add New Settlement]]**
-**[[Places of Interest|Add New Place of Interest]]**
-> ```dataview
->  TABLE link(file.name) AS "Name", file.frontmatter.pronounced as "Pronounced"
->  FROM "4. World Almanac/Places of Interest" OR "4. World Almanac/Settlements"
->  WHERE contains(file.frontmatter.region_PoI, this.file.name) OR contains(file.frontmatter.settlement_PoI, this.file.name)
-> ```
-
 
 ## History
 TBD
