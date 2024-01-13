@@ -2,7 +2,9 @@
 obsidianUIMode: preview
 settlement_PoI:
   - "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
-world: "[[4. World Almanac/Worlds/Eldoria.md|Eldoria]]"
+world:
+  - "[[4. World Almanac/Worlds/Eldoria.md|Eldoria]]"
+parent_location: Barovia
 ---
 > [!infobox]
 > # `=this.file.name`
