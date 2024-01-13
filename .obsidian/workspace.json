@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "3. The Party/Session Logs/Finding Victor.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - B&W Printer Friendly.pdf",
+                "file": "3. The Party/Session Logs/Finding Victor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - B&W Printer Friendly.pdf",
+                "file": "3. The Party/Session Logs/Finding Victor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - B&W Printer Friendly.pdf"
+                "file": "3. The Party/Session Logs/Finding Victor.md"
               }
             }
           },
@@ -174,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - B&W Printer Friendly.pdf"
+                "file": "3. The Party/Session Logs/Finding Victor.md"
               }
             }
           },
@@ -214,10 +213,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6e8760d43622afdc",
+  "active": "f5c569c73c828620",
   "lastOpenFiles": [
-    "3. The Party/Session Logs/Finding Victor.md",
     "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - B&W Printer Friendly.pdf",
+    "3. The Party/Session Logs/Finding Victor.md",
     "3. The Party/Session Logs/Session Logs.md",
     "3. The Party/Session Logs/Deal with the Devil.md",
     "2. Scratch Notes/To-Do List.md",

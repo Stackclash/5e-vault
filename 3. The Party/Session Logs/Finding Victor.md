@@ -59,4 +59,4 @@ New NPC Met.
 
 
 ## End of Session Notes
-The party sets out to find Victor. They discover that he may have used his teleportation sigil. 
+The party sets out to find Victor. They discover that he may have used his teleportation sigil to visit [[Gertruda]]. The teleportation circle takes them to the [[Village of Barovia]]. Having got there they talk the [[Mad Mary]] and [[Ismark Kolyanovich]]. Finding out that Gertruda has been missing for about a week they take the teleportation circle to get back to [[Vallaki]], however it ends up teleporting them to Castle Ravenloft. They decipher the trick to the teleportation system and make it to the 
