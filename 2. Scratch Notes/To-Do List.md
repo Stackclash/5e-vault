@@ -1,2 +1,5 @@
 - [ ] Finalize location relationships
-- [ ] 
+- [ ] Create script to take world economic field to adjust prices in shop template
+- [ ] Create selection dropdowns for alignment and other fields for NPCs
+- [ ] Update import script to correctly point to new NPC location
+- [ ] Finalize Monster ttrpg-convert-cli template to populate 
