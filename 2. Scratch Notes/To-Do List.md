@@ -1,0 +1,2 @@
+- [ ] Finalize location relationships
+- [ ] 

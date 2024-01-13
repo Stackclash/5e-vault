@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Mechanics/Items/Astral Shard (TCE).md",
-                "mode": "preview",
+                "file": "2. Scratch Notes/To-Do List.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Mechanics/Items/Astral Shard (TCE).md",
+                "file": "2. Scratch Notes/To-Do List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Mechanics/Items/Astral Shard (TCE).md",
+                "file": "2. Scratch Notes/To-Do List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Mechanics/Items/Astral Shard (TCE).md"
+                "file": "2. Scratch Notes/To-Do List.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "5. Mechanics/Items/Astral Shard (TCE).md"
+                "file": "2. Scratch Notes/To-Do List.md"
               }
             }
           },
@@ -205,37 +205,42 @@
   },
   "active": "f5c569c73c828620",
   "lastOpenFiles": [
+    "z_Templates/ttrpg-convert/templates/vehicle.txt",
+    "z_Templates/ttrpg-convert/templates/subclass.txt",
+    "z_Templates/ttrpg-convert/templates/spell.txt",
+    "z_Templates/ttrpg-convert/templates/reward.txt",
+    "z_Templates/ttrpg-convert/templates/race.txt",
+    "z_Templates/ttrpg-convert/templates/psionic.txt",
+    "z_Templates/ttrpg-convert/templates/object.txt",
+    "z_Templates/ttrpg-convert/templates/note.txt",
+    "z_Templates/ttrpg-convert/templates/monster.txt",
+    "z_Templates/ttrpg-convert/templates/item.txt",
+    "z_Templates/ttrpg-convert/templates/hazard.txt",
+    "2. Scratch Notes/Fields for NPCs.md",
+    "2. Scratch Notes/To-Do List.md",
+    "2. Scratch Notes/Fields for Locations.md",
+    "2. Scratch Notes/D&D Ideas.md",
+    "4. World Almanac/Worlds/Worlds.md",
+    "2. Scratch Notes/1693025245103 - Test.md",
+    "4. World Almanac/Shops/Shops.md",
+    "4. World Almanac/Settlements/Settlements.md",
+    "5. Mechanics/Items/Items.md",
+    "5. Mechanics/Items/Belt Of Stone Giant Strength.md",
+    "5. Mechanics/Items/Belt Of Hill Giant Strength.md",
+    "5. Mechanics/Items/Arrows-20.md",
+    "5. Mechanics/Items/Axe Of The Dwarvish Lords.md",
+    "5. Mechanics/Items/Backpack.md",
+    "5. Mechanics/Items/Astral Shard (TCE).md",
     "5. Mechanics/Items/Armor Of Vulnerability Slashing.md",
     "5. Mechanics/Items/Armor Of Lightning Resistance.md",
     "5. Mechanics/Items/Arcane Focus.md",
-    "5. Mechanics/Items/Items.md",
-    "4. World Almanac/Shops/Shops.md",
     "4. World Almanac/Shops/Blue Water Inn.md",
     "4. World Almanac/Shops/Blinksy Toys.md",
     "4. World Almanac/Worlds/Eldoria.md",
     "4. World Almanac/Settlements/Vallaki.md",
-    "4. World Almanac/Settlements/Settlements.md",
     "[4. World Almanac/Regions/Barovia.md",
     "4. World Almanac/NPCs/Milivoj.md",
     "4. World Almanac/NPCs/Marzena Belview.md",
-    "4. World Almanac/NPCs/Majesto.md",
-    "4. World Almanac/NPCs/Baron Vargas Vallakovich.md",
-    "Excalidraw/Drawing 2024-01-06 08.34.45.excalidraw.md",
-    "Excalidraw",
-    "Untitled.md",
-    "4. World Almanac/Regions/Regions.md",
-    "Untitled-2.json",
-    "4. World Almanac/Regions/Barovia.md",
-    "[4. World Almanac/Regions",
-    "[4. World Almanac",
-    "4. World Almanac/Worlds/Worlds.md",
-    "3. The Party/Session Logs/Session Logs.md",
-    "4. World Almanac/Places of Interest/Places of Interest.md",
-    "5. Mechanics/Bestiary/Humanoid/Humanoid.md",
-    "3. The Party/Parties/Parties.md",
-    "3. The Party/Players/Players.md",
-    "3. The Party/Quests/Quests.md",
-    "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
     "6. Resources/5e Modules/Curse Of Strahd/img/025-006.jpg",
     "6. Resources/5e Modules/Curse Of Strahd/img/028-007.jpg",
     "6. Resources/5e Modules/Curse Of Strahd/img/006-cos02-03.webp",
@@ -246,11 +251,6 @@
     "4. World Almanac/NPCs/token/yevgeni-krushkin.png",
     "4. World Almanac/NPCs/token/volenta-popofsky.png",
     "4. World Almanac/NPCs/token/vladimir-horngaard.png",
-    "4. World Almanac/NPCs/token",
-    "compendium/bestiary/undead/token",
-    "compendium/bestiary/plant/token",
-    "compendium/bestiary/npc/token",
-    "compendium/bestiary/humanoid/token",
     "Untitled.canvas"
   ]
 }

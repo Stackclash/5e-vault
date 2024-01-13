@@ -1,0 +1,47 @@
+{
+    "from": [
+        "PHB",
+        "MM",
+        "DMG",
+        "MPMM",
+        "CoS",
+        "VRGR",
+        "XGE",
+        "TCE",
+        "SaF",
+        "ERLW"
+    ],
+    "paths": {
+        "rules": "/compendium/rules/"
+    },
+    "useDiceRoller": true,
+    "excludePattern": [],
+    "exclude": [],
+    "include": [],
+    "template": {
+        "background": "ttrpg-convert/templates/background.txt",
+        "class": "ttrpg-convert/templates/class.txt",
+        "deity": "ttrpg-convert/templates/deity.txt",
+        "feat": "ttrpg-convert/templates/feat.txt",
+        "hazard": "ttrpg-convert/templates/hazard.txt",
+        "item": "ttrpg-convert/templates/item.txt",
+        "monster": "ttrpg-convert/templates/monster.txt",
+        "note": "ttrpg-convert/templates/note.txt",
+        "object": "ttrpg-convert/templates/object.txt",
+        "psionic": "ttrpg-convert/templates/psionic.txt",
+        "race": "ttrpg-convert/templates/race.txt",
+        "reward": "ttrpg-convert/templates/reward.txt",
+        "spell": "ttrpg-convert/templates/spell.txt",
+        "subclass": "ttrpg-convert/templates/subclass.txt",
+        "vehicle": "ttrpg-convert/templates/vehicle.txt"
+    },
+    "full-source": {
+        "adventure": [
+            "CoS"
+        ],
+        "book": [
+            "VRGR",
+            "SaF"
+        ]
+    }
+}
