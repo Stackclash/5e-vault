@@ -49,28 +49,6 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  settlement_PoI:
-    input: relation
-    accessorKey: settlement_PoI
-    key: settlement_PoI
-    id: settlement_PoI
-    label: Settlement Relationship
-    position: 100
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: true
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-      related_note_path: 4. World Almanac/Settlements/Settlements.md
-      bidirectional_relation: true
-      relation_color: hsl(0,100%,61%)
 config:
   remove_field_when_delete_column: false
   cell_size: normal
