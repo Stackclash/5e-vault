@@ -25,9 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DM Screen/Lookup Tables/Travel.md",
-                "mode": "preview",
-                "source": true
+                "file": "4. World Almanac/NPCs/Arabelle.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. DM Screen/Lookup Tables/Travel.md",
+                "file": "4. World Almanac/NPCs/Arabelle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. DM Screen/Lookup Tables/Travel.md",
+                "file": "4. World Almanac/NPCs/Arabelle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DM Screen/Lookup Tables/Travel.md"
+                "file": "4. World Almanac/NPCs/Arabelle.md"
               }
             }
           },
@@ -207,9 +207,10 @@
   },
   "active": "907d5c0f31d32694",
   "lastOpenFiles": [
+    "3. The Party/Parties/Parties.md",
+    "1. DM Screen/Lookup Tables/Travel.md",
     "1. DM Screen/Lookup Tables/Travel Time.md",
     "1. DM Screen/Lookup Tables/Currency.md",
-    "1. DM Screen/Lookup Tables/Travel.md",
     "3. The Party/Parties/Curse of Strahd.md",
     "1. DM Screen/1. DM Screen.md",
     "6. Resources/5e Modules/Curse Of Strahd/13 Chapter-11 Van Richtens Tower.md",
@@ -231,7 +232,6 @@
     "z_Assets/Barovia.jpg",
     "4. World Almanac/Regions/Barovia.md",
     "3. The Party/Session Logs/Knowing the Road.md",
-    "3. The Party/Parties/Parties.md",
     "3. The Party/Session Logs/Welcome to Barovia.md",
     "3. The Party/Session Logs/Campaign Preparation.md",
     "4. World Almanac/Regions/Regions.md",

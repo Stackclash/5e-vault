@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 obsidianEditingMode: source
-BaseSpeed: 30.001
+BaseSpeed: 90.001
 SpeedMultiplier: 1
 AdditionalBonus: 0
 Encumbered: false
@@ -9,7 +9,7 @@ HorseshoesofSpeed: false
 HoursPerDay: 8
 MinutesPerMile: 20
 ExhaustionLevel: 0
-TravelDistance: 88
+TravelDistance: 100
 varMins: 60
 ShipCostPerM: 5
 MessengerCostPerM: 5
@@ -19,7 +19,7 @@ DangerLevel: 3
 FamiliarRoute: true
 PartyMembers: 6
 LifestyleCostSP: 1
-IncludeMeals: true
+IncludeMeals: false
 TravelCalc: 53.331542281923944
 ---
 
