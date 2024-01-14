@@ -6,7 +6,7 @@ sex: male
 age: 
 alignment: 
 condition: healthy
-occupation: 
+occupation: []
 group: 
 religion: 
 location: 
@@ -17,6 +17,7 @@ flaw:
 goals: 
 likes: 
 dislikes: 
+aliases: []
 ---
 
 > [!infobox]
@@ -34,8 +35,8 @@ dislikes:
 > ###### Info
 >  |
 >  ---|---|
-> **Alias(es)** | `INPUT[text:aliases]` |
-> **Occupation(s)** | `=this.occupation` |
+> **Alias(es)** | `INPUT[inlineList:aliases]` |
+> **Occupation(s)** | `INPUT[inlineList:occupation]` |
 > **Group(s)** | `=link(this.AssociatedGroup)` |
 > **Religion(s)** | `=link(this.AssociatedReligion)` |
 > **Current Location** | `=link(this.location)` |
