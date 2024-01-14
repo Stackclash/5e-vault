@@ -30,11 +30,11 @@ dislikes:
 > **Sex** | `INPUT[inlineSelect(option(male),option(female)):sex]` |
 > **Age** | `INPUT[number:age]` |
 > **Alignment** | `INPUT[inlineSelect(option(lawful good),option(neutral good),option(chaotic good),option(lawful neutral),option(neutral),option(chaotic neutral),option(lawful evil),option(netural evil),option(chaotic evil)):alignment]` |
-> **Condition** | `INPUT[inlineSelect(option()):condition]` |
+> **Condition** | `INPUT[inlineSelect(option(healthy),option(injured),option(dead)):condition]` |
 > ###### Info
 >  |
 >  ---|---|
-> **Alias(es)** | `=this.alias` |
+> **Alias(es)** | `INPUT[text:aliases]` |
 > **Occupation(s)** | `=this.occupation` |
 > **Group(s)** | `=link(this.AssociatedGroup)` |
 > **Religion(s)** | `=link(this.AssociatedReligion)` |
