@@ -25,7 +25,7 @@ dislikes:
 > ###### Bio
 >  |
 > ---|---|
-> **Race** | `=this.race` |
+> **Race** | `INPUT[inlineListSuggester(optionQuery('')):race]` |
 > **Sex** | `=this.gender` |
 > **Age** | `=this.age` |
 > **Sexuality** | `=this.sexuality` |
@@ -46,22 +46,22 @@ TBD
 
 > [!column] Traits
 >> [!metadata|text-Center bg-c-gray] Personality
->> `INPUT[textArea:personality]`
+>> `INPUT[text:personality]`
 >
 >> [!metadata|text-Center bg-c-gray] Ideal
->> `=this.ideal`
+>> `INPUT[text:ideal]`
 >
 >> [!metadata|text-Center bg-c-gray] Bond
->> `=this.Bond`
+>> `INPUT[text:bond]`
 >
 >> [!metadata|text-Center bg-c-gray] Flaw
->> `=this.flaw`
+>> `INPUT[text:flaw]`
 >
 >> [!metadata|text-Center bg-c-green] Likes
->> `=this.likes`
+>> `INPUT[text:likes]`
 >
 >> [!metadata|text-Center bg-c-red] Dislikes
->> `=this.dislikes`
+>> `INPUT[text:dislikes]`
 
 > [!column|dataview] Goals
 >> `=this.goals`
