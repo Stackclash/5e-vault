@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2192da7db38a5897",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/13 Chapter-11 Van Richtens Tower.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/13 Chapter-11 Van Richtens Tower.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/13 Chapter-11 Van Richtens Tower.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -205,8 +217,23 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "907d5c0f31d32694",
+  "active": "2192da7db38a5897",
   "lastOpenFiles": [
+    "6. Resources/5e Modules/Curse Of Strahd/13 Chapter-11 Van Richtens Tower.md",
+    "conflict-files-obsidian-git.md",
+    "z_Scripts/Dataview/poi_and_settlements.js",
+    "z_Extra/ttrpg-convert/templates/vehicle.txt",
+    "z_Extra/ttrpg-convert/templates/subclass.txt",
+    "z_Extra/ttrpg-convert/templates/spell.txt",
+    "z_Extra/ttrpg-convert/templates/reward.txt",
+    "z_Extra/ttrpg-convert/templates/race.txt",
+    "z_Extra/ttrpg-convert/templates/psionic.txt",
+    "z_Extra/ttrpg-convert/templates/note.txt",
+    "z_Extra/ttrpg-convert/templates/object.txt",
+    "z_Extra/ttrpg-convert/templates/monster.txt",
+    "3. The Party/Session Logs/Finding Victor.md",
+    "3. The Party/Session Logs/Deal with the Devil.md",
+    "2. Scratch Notes/To-Do List.md",
     "3. The Party/Session Logs/Session Logs.md",
     "z_Assets/Barovia.jpg",
     "4. World Almanac/Regions/Barovia.md",
@@ -217,7 +244,6 @@
     "3. The Party/Session Logs/Campaign Preparation.md",
     "4. World Almanac/Regions/Regions.md",
     "3. The Party/Session Logs/New Year Session.md",
-    "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
     "6. Resources/5e Modules/Curse Of Strahd/06 Chapter-4 Castle Ravenloft.md",
     "Untitled.md",
     "4. World Almanac/NPCs/Anastrasya Karelova.md",
@@ -230,11 +256,7 @@
     "4. World Almanac/Groups/Groups.md",
     "1. DM Screen/Tools/Barovian Names.md",
     "4. World Almanac/NPCs/Lady Fiona Wachter.md",
-    "Fiona Wachter.md",
     "5. Mechanics/Bestiary/Undead/token/skeleton.png",
-    "5. Mechanics/Bestiary/Undead/Undead.md",
-    "5. Mechanics/Spells/Spells.md",
-    "5. Mechanics/Bestiary/Undead/Skeleton.md",
     "4. World Almanac/NPCs/token/zygfrek-belview.png",
     "4. World Almanac/NPCs/token/zuleika-toranescu.png",
     "4. World Almanac/NPCs/token/yevgeni-krushkin.png",
@@ -243,15 +265,6 @@
     "4. World Almanac/NPCs/token/vilnius.png",
     "4. World Almanac/NPCs/token/victor-vallakovich.png",
     "4. World Almanac/NPCs/token/vasilka.png",
-    "4. World Almanac/NPCs/token",
-    "4. World Almanac/NPCs/img",
-    "6. Resources/Resources/A Guide to Curse of Strahd.pdf",
-    "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Adventure_-_The_Interactive_Tome_of_Strahd_v2_Printer_Friendly_(updated_04_21_21).pdf",
-    "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Adventure_-_The_Interactive_Tome_of_Strahd_v3_-_Color.pdf",
-    "6. Resources/Resources/Curse of Strahd NPC Map.pdf",
-    "compendium/vehicles",
-    "compendium/objects/token",
-    "compendium/bestiary/celestial/token",
     "Untitled.canvas"
   ]
 }

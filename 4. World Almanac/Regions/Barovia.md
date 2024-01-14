@@ -3,14 +3,10 @@ obsidianUIMode: preview
 government: Monarchy
 rulers:
   - "[[4. World Almanac/NPCs/Strahd von Zarovich.md|Strahd von Zarovich]]"
-world_region:
-  - "[[Eldoria]]"
-region_settlement:
-  - "[[Vallaki]]"
-  - "[[Village of Barovia]]"
-region_PoI:
-  - "[[Old BoneGrinder]]"
+parent_location: Eldoria
 ---
+
+
 > [!infobox]
 > # `=this.file.name`
 > ![[PlaceholderImage.png|wm-tl]]
@@ -56,7 +52,7 @@ TBD
 **[[Settlements|Add New Settlement]]**
 **[[Places of Interest|Add New Place of Interest]]**
 > ```dataviewjs
-> await dv.view("z_Scripts/Dataview/Region/locations")
+> await dv.view("z_Scripts/Dataview/poi_and_settlements")
 > ```
 
 ## History
