@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 pronounced: 
-race: 
+race: "[[5. Mechanics/Races/Elf.md|Elf]]"
 sex: 
 age: 
 alignment: 
@@ -25,7 +25,7 @@ dislikes:
 > ###### Bio
 >  |
 > ---|---|
-> **Race** | `INPUT[inlineListSuggester(optionQuery('')):race]` |
+> **Race** | `INPUT[suggester(optionQuery("5. Mechanics/Races")):race]` |
 > **Sex** | `=this.gender` |
 > **Age** | `=this.age` |
 > **Sexuality** | `=this.sexuality` |
