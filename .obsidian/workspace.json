@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/NPCs/Arabelle.md",
-                "mode": "preview",
+                "file": "z_Templates/World Building/NPC.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -70,8 +70,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -91,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/NPCs/Arabelle.md",
+                "file": "z_Templates/World Building/NPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/NPCs/Arabelle.md",
+                "file": "z_Templates/World Building/NPC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/NPCs/Arabelle.md"
+                "file": "z_Templates/World Building/NPC.md"
               }
             }
           },
@@ -208,8 +207,11 @@
   },
   "active": "907d5c0f31d32694",
   "lastOpenFiles": [
-    "5. Mechanics/Tables/Dungeon Creator Npc Alignment.md",
+    "z_Templates/World Building/Leaflet Map.md",
+    "z_Templates/World Building/NPC.md",
+    "z_Templates/World Building/NPC.md",
     "4. World Almanac/NPCs/Arabelle.md",
+    "5. Mechanics/Tables/Dungeon Creator Npc Alignment.md",
     "5. Mechanics/Races/Elf.md",
     "4. World Almanac/NPCs/Arrigal.md",
     "3. The Party/Parties/Parties.md",
@@ -242,9 +244,6 @@
     "4. World Almanac/Regions/Regions.md",
     "3. The Party/Session Logs/New Year Session.md",
     "6. Resources/5e Modules/Curse Of Strahd/06 Chapter-4 Castle Ravenloft.md",
-    "Untitled.md",
-    "4. World Almanac/NPCs/Anastrasya Karelova.md",
-    "4. World Almanac/NPCs/Npc.md",
     "5. Mechanics/Bestiary/Undead/token/skeleton.png",
     "4. World Almanac/NPCs/token/zygfrek-belview.png",
     "4. World Almanac/NPCs/token/zuleika-toranescu.png",

@@ -10,7 +10,7 @@ occupation:
 group: 
 religion: 
 location: 
-personality: 
+personality: ""
 ideal: 
 bond: 
 flaw: 
@@ -21,16 +21,15 @@ dislikes:
 
 > [!infobox]
 > # `=this.file.name`
-> **Pronounced:**  "`=this.pronounced`"
-> ![[PlaceholderImage.png|cover hm-sm]]
+> **Pronounced:**  "`INPUT[text:pronounced]`"
+> ![[PlaceholderImage.png|cover hm-sm]] 
 > ###### Bio
 >  |
 > ---|---|
-> **Race** | `=this.race` |
-> **Sex** | `=this.gender` |
-> **Age** | `=this.age` |
-> **Sexuality** | `=this.sexuality` |
-> **Alignment** | `=this.alignment` |
+> **Race** | `INPUT[suggester(optionQuery("5. Mechanics/Races")):race]` |
+> **Sex** | `INPUT[inlineSelect(option(male),option(female)):sex]` |
+> **Age** | `INPUT[number:age]` |
+> **Alignment** | `INPUT[inlineSelect(option(lawful good),option(neutral good),option(chaotic good),option(lawful neutral),option(neutral),option(chaotic neutral),option(lawful evil),option(netural evil),option(chaotic evil)):alignment]` |
 > **Condition** | `=this.condition` |
 > ###### Info
 >  |
@@ -47,25 +46,25 @@ TBD
 
 > [!column] Traits
 >> [!metadata|text-Center bg-c-gray] Personality
->> `=this.personality`
+>> `INPUT[text:personality]`
 >
 >> [!metadata|text-Center bg-c-gray] Ideal
->> `=this.ideal`
+>> `INPUT[text:ideal]`
 >
 >> [!metadata|text-Center bg-c-gray] Bond
->> `=this.Bond`
+>> `INPUT[text:bond]`
 >
 >> [!metadata|text-Center bg-c-gray] Flaw
->> `=this.flaw`
+>> `INPUT[text:flaw]`
 >
 >> [!metadata|text-Center bg-c-green] Likes
->> `=this.likes`
+>> `INPUT[text:likes]`
 >
 >> [!metadata|text-Center bg-c-red] Dislikes
->> `=this.dislikes`
+>> `INPUT[text:dislikes]`
 
 > [!column|dataview] Goals
->> `=this.goals`
+>> `INPUT[textArea:goals]`
 
 ## Acquaintances
 > [!column|dataview] Acquaintances
