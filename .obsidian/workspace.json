@@ -25,9 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DM Screen/Lookup Tables/Currency.md",
+                "file": "1. DM Screen/Lookup Tables/Travel.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               }
             }
           }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. DM Screen/Lookup Tables/Currency.md",
+                "file": "1. DM Screen/Lookup Tables/Travel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. DM Screen/Lookup Tables/Currency.md",
+                "file": "1. DM Screen/Lookup Tables/Travel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DM Screen/Lookup Tables/Currency.md"
+                "file": "1. DM Screen/Lookup Tables/Travel.md"
               }
             }
           },
@@ -207,9 +207,9 @@
   },
   "active": "907d5c0f31d32694",
   "lastOpenFiles": [
-    "1. DM Screen/Lookup Tables/Travel.md",
-    "1. DM Screen/Lookup Tables/Currency.md",
     "1. DM Screen/Lookup Tables/Travel Time.md",
+    "1. DM Screen/Lookup Tables/Currency.md",
+    "1. DM Screen/Lookup Tables/Travel.md",
     "3. The Party/Parties/Curse of Strahd.md",
     "1. DM Screen/1. DM Screen.md",
     "6. Resources/5e Modules/Curse Of Strahd/13 Chapter-11 Van Richtens Tower.md",
