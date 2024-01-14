@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 pronounced: 
 race: 
-sex: 
+sex: male
 age: 
 alignment: 
 condition: healthy
@@ -16,7 +16,7 @@ bond:
 flaw: 
 goals: 
 likes: 
-dislikes:
+dislikes: 
 ---
 
 > [!infobox]
@@ -25,15 +25,15 @@ dislikes:
 > ![[PlaceholderImage.png|cover hm-sm]] 
 > ###### Bio
 >  |
-> ---|---|
+>  ---|---|
 > **Race** | `INPUT[suggester(optionQuery("5. Mechanics/Races")):race]` |
 > **Sex** | `INPUT[inlineSelect(option(male),option(female)):sex]` |
 > **Age** | `INPUT[number:age]` |
 > **Alignment** | `INPUT[inlineSelect(option(lawful good),option(neutral good),option(chaotic good),option(lawful neutral),option(neutral),option(chaotic neutral),option(lawful evil),option(netural evil),option(chaotic evil)):alignment]` |
-> **Condition** | `=this.condition` |
+> **Condition** | `INPUT[inlineSelect(option()):condition]` |
 > ###### Info
 >  |
-> ---|---|
+>  ---|---|
 > **Alias(es)** | `=this.alias` |
 > **Occupation(s)** | `=this.occupation` |
 > **Group(s)** | `=link(this.AssociatedGroup)` |
