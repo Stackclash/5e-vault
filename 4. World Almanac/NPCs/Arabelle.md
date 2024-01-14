@@ -10,13 +10,13 @@ occupation:
 group: 
 religion: 
 location: 
-personality: 
+personality: ""
 ideal: 
 bond: 
 flaw: 
 goals: 
 likes: 
-dislikes:
+dislikes: 
 ---
 
 > [!infobox]
@@ -46,7 +46,7 @@ TBD
 
 > [!column] Traits
 >> [!metadata|text-Center bg-c-gray] Personality
->> `=this.personality`
+>> `INPUT[textArea:personality]`
 >
 >> [!metadata|text-Center bg-c-gray] Ideal
 >> `=this.ideal`
