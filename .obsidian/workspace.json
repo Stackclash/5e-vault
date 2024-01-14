@@ -26,8 +26,8 @@
               "type": "markdown",
               "state": {
                 "file": "1. DM Screen/Lookup Tables/Test.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -151,22 +151,6 @@
             }
           },
           {
-            "id": "4fcd4472ac73fa9d",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
-            }
-          },
-          {
-            "id": "83229f1d68f598e7",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {}
-            }
-          },
-          {
             "id": "0a4dd7129e56918f",
             "type": "leaf",
             "state": {
@@ -177,9 +161,25 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "3b624cfe5db73259",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "08d7b81d50b12258",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -199,8 +199,8 @@
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "templater-obsidian:Templater": false,
       "obsidian-5e-statblocks:Open Creature Pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
