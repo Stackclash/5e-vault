@@ -1,8 +1,8 @@
 ---
 obsidianUIMode: preview
 pronounced: 
-race: "[[5. Mechanics/Races/Elf.md|Elf]]"
-sex: 
+race: 
+sex: male
 age: 
 alignment: 
 condition: healthy
@@ -21,15 +21,14 @@ dislikes:
 
 > [!infobox]
 > # `=this.file.name`
-> **Pronounced:**  "`=this.pronounced`"
+> **Pronounced:**  "`INPUT[text:pronounced]`"
 > ###### Bio
 >  |
 > ---|---|
 > **Race** | `INPUT[suggester(optionQuery("5. Mechanics/Races")):race]` |
-> **Sex** | `=this.gender` |
-> **Age** | `=this.age` |
-> **Sexuality** | `=this.sexuality` |
-> **Alignment** | `=this.alignment` |
+> **Sex** | `INPUT[inlineSelect(option(male),option(female)):sex]` |
+> **Age** | `INPUT[number:age]` |
+> **Alignment** | `I` |
 > **Condition** | `=this.condition` |
 > ###### Info
 >  |
@@ -64,7 +63,7 @@ TBD
 >> `INPUT[text:dislikes]`
 
 > [!column|dataview] Goals
->> `=this.goals`
+>> `INPUT[textArea:goals]`
 
 ## Acquaintances
 > [!column|dataview] Acquaintances
