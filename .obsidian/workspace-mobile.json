@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DM Screen/Lookup Tables/Currency.md",
+                "file": "2. Scratch Notes/House Rule Ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1. DM Screen/Lookup Tables/Currency.md",
+            "file": "2. Scratch Notes/House Rule Ideas.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "1. DM Screen/Lookup Tables/Currency.md",
+            "file": "2. Scratch Notes/House Rule Ideas.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -141,7 +141,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "1. DM Screen/Lookup Tables/Currency.md"
+            "file": "2. Scratch Notes/House Rule Ideas.md"
           }
         }
       },
@@ -182,7 +182,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
       "fantasy-content-generator:Fantasy Generators": false,
       "templater-obsidian:Templater": false,
@@ -195,13 +194,13 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "9a3ba51afed60fc3",
+  "active": "dcf21775c503bf2b",
   "lastOpenFiles": [
+    "1. DM Screen/Lookup Tables/Currency.md",
+    "2. Scratch Notes/Fields for Locations.md",
     "1. DM Screen/Lookup Tables/Travel Time.md",
     "Untitled.md",
-    "1. DM Screen/Lookup Tables/Currency.md",
     "2. Scratch Notes/To-Do List.md",
-    "2. Scratch Notes/Fields for Locations.md",
     "2. Scratch Notes/D&D Ideas.md",
     "4. World Almanac/Places of Interest/Burgomaster's Mansion.md",
     "1. DM Screen/Lookup Tables",
