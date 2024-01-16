@@ -11,20 +11,8 @@ tags:
 statblock: inline
 aliases: ["Shadow"]
 ---
-# [[5. Mechanics\Bestiary\Undead\Shadow.md|Shadow]]
-*Source: Monster Manual p. 269, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD.*  
-
-Shadows are undead that resemble dark exaggerations of humanoid shadows.
-
-## Dark Disposition
-
-From the darkness, the shadow reaches out to feed on living creatures' vitality. They can consume any living creature, but they are especially drawn to creatures untainted by evil. A creature that lives a life of goodness and piety consigns its basest impulses and strongest temptations to the darkness where the shadows hunger. As a shadow drains its victim's strength and physical form, the victim's shadow darkens and begins to move of its own volition. In death, the creature's shadow breaks free, becoming a new undead shadow hungry for more life to consume.
-
-If a creature from which a shadow has been created somehow returns to life, its undead shadow senses the return. The shadow might seek its "parent" to vex or slay. Whether the shadow pursues its living counterpart, the creature that birthed the shadow no longer casts one until the monster is destroyed.
-
-## Undead Nature
-
-A shadow doesn't require air, food, drink, or sleep
+# [[5. Mechanics/Bestiary/Undead/Shadow.md|Shadow]]
+*Source: Monster Manual p. 269, Curse of Strahd. Available in the SRD.*  
 
 ```statblock
 "name": "Shadow"
@@ -48,11 +36,8 @@ A shadow doesn't require air, food, drink, or sleep
 "damage_resistances": "acid; cold; fire; lightning; thunder; bludgeoning, piercing,\
   \ slashing from nonmagical attacks"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]"
+"condition_immunities": "exhaustion, frightened, grappled, paralyzed, petrified, poisoned,\
+  \ prone, restrained"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": ""
 "cr": "1/2"
@@ -91,6 +76,9 @@ A shadow doesn't require air, food, drink, or sleep
 - "SjA"
 - "PSI"
 - "SatO"
+- "BMT"
+- "GHLoE"
+- "DoDk"
 "image": "5. Mechanics/Bestiary/Undead/token/shadow.png"
 ```
 ^statblock

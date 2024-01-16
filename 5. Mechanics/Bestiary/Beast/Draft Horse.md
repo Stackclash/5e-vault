@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Draft Horse"]
 ---
-# [[5. Mechanics\Bestiary\Beast\Draft Horse.md|Draft Horse]]
+# [[5. Mechanics/Bestiary/Beast/Draft Horse.md|Draft Horse]]
 *Source: Monster Manual p. 321, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -44,6 +44,7 @@ aliases: ["Draft Horse"]
 - "GoS"
 - "BGDIA"
 - "PaBTSO"
+- "DoDk"
 "image": "compendium/bestiary/beast/token/draft-horse.png"
 ```
 ^statblock

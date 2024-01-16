@@ -13,8 +13,8 @@ tags:
 statblock: inline
 aliases: ["Cat"]
 ---
-# [[5. Mechanics\Bestiary\Beast\Cat.md|Cat]]
-*Source: Monster Manual p. 320, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
+# [[5. Mechanics/Bestiary/Beast/Cat.md|Cat]]
+*Source: Monster Manual p. 320, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 ```statblock
 "name": "Cat"
@@ -39,8 +39,7 @@ aliases: ["Cat"]
 "languages": ""
 "cr": "0"
 "traits":
-- "desc": "The cat has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
-    \ checks that rely on smell."
+- "desc": "The cat has advantage on Wisdom (Perception) checks that rely on smell."
   "name": "Keen Smell"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+0 (+0 to hit), reach 5 ft., one target.\
@@ -59,6 +58,7 @@ aliases: ["Cat"]
 - "CM"
 - "WBtW"
 - "JttRC"
+- "DoDk"
 "image": "5. Mechanics/Bestiary/Beast/token/cat.png"
 ```
 ^statblock

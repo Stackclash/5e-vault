@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Barovian Scout"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Barovian Scout (COS).md|Barovian Scout]]
+# [[5. Mechanics/Bestiary/Humanoid/Barovian Scout (COS).md|Barovian Scout]]
 *Source: Curse of Strahd p. 29*  
 
 ```statblock
@@ -38,8 +38,8 @@ aliases: ["Barovian Scout"]
 "languages": "any one language (usually Common)"
 "cr": "1/2"
 "traits":
-- "desc": "The scout has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
-    \ checks that rely on hearing or sight."
+- "desc": "The scout has advantage on Wisdom (Perception) checks that rely on hearing\
+    \ or sight."
   "name": "Keen Hearing and Sight"
 "actions":
 - "desc": "The scout makes two melee attacks or two ranged attacks."

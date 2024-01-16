@@ -12,11 +12,11 @@ Located close to the shores of Lake Zarovich, the town of Vallaki (pronounced va
 
 ![[6. Resources/5e Modules/Curse Of Strahd/img/046-cos05-01.webp#center]]
 
-Vallaki was founded not long after Strahd's armies conquered the valley by an ancestor of the town's current burgomaster, [[4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md\|Baron Vargas Vallakovich]]. The Vallakoviches have royal blood in their veins and have long believed themselves superior to the Zarovich line. Baron Vallakovich has deluded himself into believing that hope and happiness are the keys to Vallaki's salvation. If he can make everyone in Vallaki happy, the burgomaster thinks that the town will somehow escape Strahd's grasp and return to the forgotten world whence it came. He stages one festival after another to bolster the spirits of the townsfolk, but most Vallakians consider these festivals to be pointless, meaningless affairs more likely to incur Strahd's wrath than to provide any hope for the future.
+Vallaki was founded not long after Strahd's armies conquered the valley by an ancestor of the town's current burgomaster, [[4. World Almanac/NPCs/Baron Vargas Vallakovich.md\|Baron Vargas Vallakovich]]. The Vallakoviches have royal blood in their veins and have long believed themselves superior to the Zarovich line. Baron Vallakovich has deluded himself into believing that hope and happiness are the keys to Vallaki's salvation. If he can make everyone in Vallaki happy, the burgomaster thinks that the town will somehow escape Strahd's grasp and return to the forgotten world whence it came. He stages one festival after another to bolster the spirits of the townsfolk, but most Vallakians consider these festivals to be pointless, meaningless affairs more likely to incur Strahd's wrath than to provide any hope for the future.
 
 In the last festival, Baron Vallakovich had townsfolk parade through the streets with the severed heads of wolves on pikes. His next event, which the burgomaster has dubbed the Festival of the Blazing Sun, is soon to get under way (see the "Special Events" section at the end of this chapter). Weatherworn garlands from previous festivals still hang from the eaves of Vallaki's buildings, and work has begun on a large wicker sun, to be set ablaze in the town square on the day of the festival. In the days leading up to the festival, Baron Vallakovich has begun arresting local malcontents and throwing them in the stocks so that his efforts aren't ruined by "those of little hope or faith."
 
-> [!quote]- A quote from [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]]  
+> [!quote]- A quote from [[4. World Almanac/NPCs/Strahd Von Zarovich.md\|Strahd von Zarovich]]  
 > 
 > There is no light in the eyes of the men that feed off this land. They are as dead as the dead.
 
@@ -47,7 +47,7 @@ Three tall gates made of iron bars lead into town:
 
 Heavy iron chains with iron padlocks keep the gates shut at night. During the day, the gates are closed but not typically locked.
 
-Two town [[5. Mechanics/Bestiary/Humanoid/Guard.md\|guards]] (LG male and female humans) stand just inside each gate. Instead of spears, they carry pikes (reach 10 ft., `dice: 1d10 + 1|avg` (`1d10 + 1`) piercing damage on a hit). These weapons are long enough to stab creatures through the bars of the gate. The guards greet all visitors with suspicion, particularly those who arrive at night. If the characters arrive at night, one or more of them must succeed on a DC 20 Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]) check to convince the guards to unlock the gate and let them enter.
+Two town [[5. Mechanics/Bestiary/Humanoid/Guard.md\|guards]] (LG male and female humans) stand just inside each gate. Instead of spears, they carry pikes (reach 10 ft., `dice: 1d10 + 1|avg` (`1d10 + 1`) piercing damage on a hit). These weapons are long enough to stab creatures through the bars of the gate. The guards greet all visitors with suspicion, particularly those who arrive at night. If the characters arrive at night, one or more of them must succeed on a DC 20 Charisma (Persuasion) check to convince the guards to unlock the gate and let them enter.
 
 If trouble breaks out at one of the gates, the guards there cry out, "To arms!" Their shouts are echoed across Vallaki, putting the entire town on alert within minutes. Vallaki has twenty-four human [[5. Mechanics/Bestiary/Humanoid/Guard.md\|guards]], half of whom are on duty at any given time (six stand watch at the gates, six patrol the walls). The town can also muster a militia of fifty able-bodied human [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoners]] armed with clubs, daggers, and torches.
 
@@ -73,22 +73,22 @@ A house of Vallakian townsfolk contains `dice: 1d4|avg` (`1d4`) adults (male and
 
 #### Cultists
 
-A cult haven contains `dice: 2d4|avg` (`2d4`) Vallakian adults (LE male and female [[5. Mechanics/Bestiary/Humanoid/Cultist.md\|cultists]]) and one [[5. Mechanics/Bestiary/Humanoid/Cult Fanatic.md\|cult fanatic]] (LE male or female) who leads them in prayer or orchestrates ritual sacrifices. These cultists worship devils and consider [[4. World Almanac/NPCs/Lady Fiona Wachter (COS).md\|Lady Fiona Wachter]] (see area N4) to be their spiritual leader.
+A cult haven contains `dice: 2d4|avg` (`2d4`) Vallakian adults (LE male and female [[5. Mechanics/Bestiary/Humanoid/Cultist.md\|cultists]]) and one [[5. Mechanics/Bestiary/Humanoid/Cult Fanatic.md\|cult fanatic]] (LE male or female) who leads them in prayer or orchestrates ritual sacrifices. These cultists worship devils and consider [[4. World Almanac/NPCs/Lady Fiona Wachter.md\|Lady Fiona Wachter]] (see area N4) to be their spiritual leader.
 
 ### Vallaki Lore
 
 In addition to the information known to all Barovians (see "Barovian Lore" in chapter 2), Vallakians know the following bits of local lore:
 
 - The Blue Water Inn (area N2) offers food, wine, and shelter to visitors. A stranger with pointed ears is staying there. He came to Barovia from a distant land, riding into town on a carnival wagon.  
-- The burgomaster, [[4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md\|Baron Vargas Vallakovich]], has decreed that the Festival of the Blazing Sun will be held in the town square (area N8) in three days. The previous festival, which he called the Wolf's Head Jamboree, was less than a week ago.  
+- The burgomaster, [[4. World Almanac/NPCs/Baron Vargas Vallakovich.md\|Baron Vargas Vallakovich]], has decreed that the Festival of the Blazing Sun will be held in the town square (area N8) in three days. The previous festival, which he called the Wolf's Head Jamboree, was less than a week ago.  
 - Vallaki has endured at least one festival every week for the past several years. Some Vallakians believe that the festivals keep the devil Strahd at bay. Others think they provide no protection or benefit whatsoever. Most consider them dismal affairs.  
 - Those who speak ill of the festivals are declared by the burgomaster to be in league with the devil Strahd and arrested. Some are thrown in the stocks (area N8), while others are taken to the burgomaster's mansion so that the baron can purge them of their evil.  
-- The burgomaster's henchman, [[4. World Almanac/NPCs/Izek Strazni (COS).md\|Izek Strazni]], has a history of violence as well as a fiendish deformity: a monstrous arm with which he can conjure fire. Fear of Izek keeps the baron's enemies at bay.  
-- No one hates the burgomaster more than [[4. World Almanac/NPCs/Lady Fiona Wachter (COS).md\|Lady Fiona Wachter]], who is often quoted as saying, "I'd rather serve the devil than a madman." She owns an old house in town (area N4) but rarely leaves her estate. Her two adult sons, Nikolai and Karl, are local troublemakers. Lady Wachter also has a mad daughter whom she keeps locked away. The burgomaster doesn't confront Fiona or her offspring because he is afraid of Lady Wachter, whose family has old ties to Strahd.  
+- The burgomaster's henchman, [[4. World Almanac/NPCs/Izek Strazni.md\|Izek Strazni]], has a history of violence as well as a fiendish deformity: a monstrous arm with which he can conjure fire. Fear of Izek keeps the baron's enemies at bay.  
+- No one hates the burgomaster more than [[4. World Almanac/NPCs/Lady Fiona Wachter.md\|Lady Fiona Wachter]], who is often quoted as saying, "I'd rather serve the devil than a madman." She owns an old house in town (area N4) but rarely leaves her estate. Her two adult sons, Nikolai and Karl, are local troublemakers. Lady Wachter also has a mad daughter whom she keeps locked away. The burgomaster doesn't confront Fiona or her offspring because he is afraid of Lady Wachter, whose family has old ties to Strahd.  
 - Purple flashes of light have been seen emanating from the attic of the burgomaster's mansion.  
 - Wolves and dire wolves prowl the woods and aren't afraid to attack travelers on the Old Svalich Road. Well-armed groups of hunters and trappers have managed to kill several of the wolves, but more keep coming.  
-- It's too dangerous to go fishing on Lake Zarovich (chapter 2, area L), but the threat of Strahd's wolves hasn't stopped [[4. World Almanac/NPCs/Bluto Krogarov (COS).md\|Bluto Krogarov]], the town drunk, from trying. He sets out each morning and returns every evening, but hasn't caught any fish in a while.  
-- There have been no recent sightings of [[4. World Almanac/NPCs/The Mad Mage Of Mount Baratok (COS).md\|the Mad Mage of Mount Baratok]] (chapter 2, area M). Folks used to see him skulking along the north shore of Lake Zarovich, shooting lightning bolts into the water to kill the fish. (If the characters seem interested in meeting this wizard, locals recommend that they use the fishing boats on the south shore to cross the lake, because it's shorter and a lot less dangerous than walking around the lake.)  
+- It's too dangerous to go fishing on Lake Zarovich (chapter 2, area L), but the threat of Strahd's wolves hasn't stopped [[4. World Almanac/NPCs/Bluto Krogarov.md\|Bluto Krogarov]], the town drunk, from trying. He sets out each morning and returns every evening, but hasn't caught any fish in a while.  
+- There have been no recent sightings of [[4. World Almanac/NPCs/The Mad Mage Of Mount Baratok.md\|the Mad Mage of Mount Baratok]] (chapter 2, area M). Folks used to see him skulking along the north shore of Lake Zarovich, shooting lightning bolts into the water to kill the fish. (If the characters seem interested in meeting this wizard, locals recommend that they use the fishing boats on the south shore to cross the lake, because it's shorter and a lot less dangerous than walking around the lake.)  
 - There's a Vistani camp in the woods southwest of town (area N9). The Vistani there aren't very friendly. Vistani aren't welcome in Vallaki.  
 - West of town is a haunted mansion (see chapter 7, "Argynvostholt"). Legend has it that a dragon died there long, long ago.  
 - South of town is a village that has been abandoned for decades. Its burgomaster committed some terrible offense and incurred the wrath of Strahd.  
@@ -108,28 +108,28 @@ No map of the church is provided. If one becomes necessary, assume that this chu
 
 This church is dedicated to the Morninglord and named after St. Andral, whose bones once rested under the altar (see the "Bones of St. Andral" section).
 
-Father Lucian Petrovich (LG male human [[5. Mechanics/Bestiary/Humanoid/Priest.md\|priest]]) oversees the church and does his best to raise spirits. Assisting him is an orphan and altar boy named Yeska (LG male human noncombatant). A brawny lad with a perpetually furrowed brow named [[4. World Almanac/NPCs/Milivoj (COS).md\|Milivoj]] (see below) tends the grounds and digs graves.
+Father Lucian Petrovich (LG male human [[5. Mechanics/Bestiary/Humanoid/Priest.md\|priest]]) oversees the church and does his best to raise spirits. Assisting him is an orphan and altar boy named Yeska (LG male human noncombatant). A brawny lad with a perpetually furrowed brow named [[4. World Almanac/NPCs/Milivoj.md\|Milivoj]] (see below) tends the grounds and digs graves.
 
-At night, the church is packed with `dice: 2d6 + 6|avg` (`2d6 + 6`) [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] Vallakian adults (male and female human [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoners]]) and `dice: 2d6|avg` (`2d6`) equally terrified Vallakian children (male and female human noncombatants). Father Lucian offers his nightly congregation his prayers and the promise of St. Andral's protection. Among Father Lucian's nightly flock is a sad old woman named Willemina Rikalova. Her son, the shoemaker Udo Lukovich, has been imprisoned for speaking out against the burgomaster (see area N3m). She prays that her son will be set free.
+At night, the church is packed with `dice: 2d6 + 6|avg` (`2d6 + 6`) frightened Vallakian adults (male and female human [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoners]]) and `dice: 2d6|avg` (`2d6`) equally terrified Vallakian children (male and female human noncombatants). Father Lucian offers his nightly congregation his prayers and the promise of St. Andral's protection. Among Father Lucian's nightly flock is a sad old woman named Willemina Rikalova. Her son, the shoemaker Udo Lukovich, has been imprisoned for speaking out against the burgomaster (see area N3m). She prays that her son will be set free.
 
 ![[6. Resources/5e Modules/Curse Of Strahd/img/049-cos05-03.webp#center\|Milivoj]]
 
-[[4. World Almanac/NPCs/Milivoj (COS).md\|Milivoj]] (N male human [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoner]]) is rarely seen without a shovel, which he wields like a club. Modify his statistics as follows:
+[[4. World Almanac/NPCs/Milivoj.md\|Milivoj]] (N male human [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoner]]) is rarely seen without a shovel, which he wields like a club. Modify his statistics as follows:
 
 - His Strength is 15 (+2).  
 - His melee weapon attack bonus is +4, and he deals `dice: 1d4 + 2|avg` (`1d4 + 2`) bludgeoning damage when he hits with the blunt head of his shovel.  
 
-[[4. World Almanac/NPCs/Milivoj (COS).md\|Milivoj]] rejects the burgomaster's proclamation that "All will be well!" and is frustrated that he can't protect his younger siblings. He wants to be free of Barovia's curse but sees no hope of escape.
+[[4. World Almanac/NPCs/Milivoj.md\|Milivoj]] rejects the burgomaster's proclamation that "All will be well!" and is frustrated that he can't protect his younger siblings. He wants to be free of Barovia's curse but sees no hope of escape.
 
 #### Bones of St. Andral
 
 Until recently, the church was protected from Strahd's depredations by the bones of St. Andral, which were sealed in a crypt beneath the church's main altar. But now the church is at risk because someone broke into the crypt a few nights ago and stole the bones. Until recently, Father Lucian was the only person in Vallaki who knew about the bones, but he recalls mentioning them to Yeska over a month ago to put the fearful boy at ease. After the bones were stolen, Father Lucian asked Yeska if he told anyone else about the bones. The boy nodded but wouldn't divulge a name.
 
-The culprit is [[4. World Almanac/NPCs/Milivoj (COS).md\|Milivoj]], whom Father Lucian correctly suspects. But the priest has been reluctant to confront [[4. World Almanac/NPCs/Milivoj (COS).md\|Milivoj]] because the lad is so temperamental. Father Lucian has not reported the theft for fear of the distress that the news might cause, and he doesn't want to ruin the burgomaster's festival. If the party includes a good-aligned cleric or paladin, Father Lucian mentions the theft in the hope that the characters can provide assistance.
+The culprit is [[4. World Almanac/NPCs/Milivoj.md\|Milivoj]], whom Father Lucian correctly suspects. But the priest has been reluctant to confront [[4. World Almanac/NPCs/Milivoj.md\|Milivoj]] because the lad is so temperamental. Father Lucian has not reported the theft for fear of the distress that the news might cause, and he doesn't want to ruin the burgomaster's festival. If the party includes a good-aligned cleric or paladin, Father Lucian mentions the theft in the hope that the characters can provide assistance.
 
-St. Andral's crypt is a 10-foot-square, 5-foot high chamber beneath the chapel. To reach the crypt, [[4. World Almanac/NPCs/Milivoj (COS).md\|Milivoj]] used his shovel to pry up the chapel floorboards. (The boards have since been replaced.) If one of the characters confronts [[4. World Almanac/NPCs/Milivoj (COS).md\|Milivoj]] and succeeds on a DC 10 Charisma ([[/5. Mechanics/Rules/Skills.md#Intimidation\|Intimidation]]) check, he admits that Yeska told him about the bones. He also admits to passing along the information to [[4. World Almanac/NPCs/Henrik Van Der Voort (COS).md\|Henrik van der Voort]], the local coffin maker (area N6), and to stealing the bones for Henrik in return for money to help feed his younger sisters and brothers.
+St. Andral's crypt is a 10-foot-square, 5-foot high chamber beneath the chapel. To reach the crypt, [[4. World Almanac/NPCs/Milivoj.md\|Milivoj]] used his shovel to pry up the chapel floorboards. (The boards have since been replaced.) If one of the characters confronts [[4. World Almanac/NPCs/Milivoj.md\|Milivoj]] and succeeds on a DC 10 Charisma (Intimidation) check, he admits that Yeska told him about the bones. He also admits to passing along the information to [[4. World Almanac/NPCs/Henrik Van Der Voort.md\|Henrik van der Voort]], the local coffin maker (area N6), and to stealing the bones for Henrik in return for money to help feed his younger sisters and brothers.
 
-The theft of the bones has left the church vulnerable to attack by Strahd's minions (see "St. Andral's Feast" in the "Special Events" section at the end of this chapter). If the bones are returned to their resting place, St. Andral's church once again becomes hallowed ground, as though the building was protected by a [[5. Mechanics/Spells/Hallow.md\|hallow]] spell.
+The theft of the bones has left the church vulnerable to attack by Strahd's minions (see "St. Andral's Feast" in the "Special Events" section at the end of this chapter). If the bones are returned to their resting place, St. Andral's church once again becomes hallowed ground, as though the building was protected by a hallow spell.
 
 ### N2. Blue Water Inn
 
@@ -138,7 +138,7 @@ The theft of the bones has left the church vulnerable to attack by Strahd's mini
 > Gray smoke issues from the chimney of this large, two-story wooden building with a stone foundation and sagging tile roof, upon which several ravens have perched. A painted wooden sign hanging above the main entrance depicts a blue waterfall.
 ^334
 
-The Blue Water Inn is Vallaki's main gathering place for locals, especially at night. The innkeeper, [[4. World Almanac/NPCs/Urwin Martikov (COS).md\|Urwin Martikov]], considers the inn a sanctuary from the evils of this land. In the event of trouble, the windows and doors can all be barred shut from within.
+The Blue Water Inn is Vallaki's main gathering place for locals, especially at night. The innkeeper, [[4. World Almanac/NPCs/Urwin Martikov.md\|Urwin Martikov]], considers the inn a sanctuary from the evils of this land. In the event of trouble, the windows and doors can all be barred shut from within.
 
 A bed for the night costs 1 ep. Characters looking for something to eat are fed hot beet soup and fresh bread at no additional charge. A cooked wolf steak costs 1 ep.
 
@@ -152,7 +152,7 @@ The inn's wine supply is almost depleted, and the latest delivery from the Wizar
 
 #### Keepers of the Feather
 
-[[4. World Almanac/NPCs/Urwin Martikov (COS).md\|Urwin Martikov]] (LG male human) is a [[5. Mechanics/Bestiary/Humanoid/Wereraven (VRGR).md\|wereraven]] (see appendix D) and a high-ranking member of the Keepers of the Feather, a secret society of wereravens that opposes Strahd. Urwin's wife and business partner, [[4. World Almanac/NPCs/Danika Dorakova (COS).md\|Danika Dorakova]] (LG female human), is also a [[5. Mechanics/Bestiary/Humanoid/Wereraven (VRGR).md\|wereraven]], as are their two sons, Brom and Bray. The boys have only 7 hit points each and, at ages eleven and nine, are too young to be effective combatants.
+[[4. World Almanac/NPCs/Urwin Martikov.md\|Urwin Martikov]] (LG male human) is a [[5. Mechanics/Bestiary/Humanoid/Wereraven (VRGR).md\|wereraven]] (see appendix D) and a high-ranking member of the Keepers of the Feather, a secret society of wereravens that opposes Strahd. Urwin's wife and business partner, [[4. World Almanac/NPCs/Danika Dorakova.md\|Danika Dorakova]] (LG female human), is also a [[5. Mechanics/Bestiary/Humanoid/Wereraven (VRGR).md\|wereraven]], as are their two sons, Brom and Bray. The boys have only 7 hit points each and, at ages eleven and nine, are too young to be effective combatants.
 
 At any given time, another `dice: 1d4|avg` (`1d4`) [[5. Mechanics/Bestiary/Humanoid/Wereraven (VRGR).md\|wereravens]] (members of the Keepers of the Feather) are present at the inn, either perched on the rooftop in raven form or huddled inside in human form. These wereravens are loyal friends of the Martikovs and help protect the inn.
 
@@ -167,7 +167,7 @@ If your card reading reveals that a treasure is hidden at the inn, the Keepers o
 > Urwin takes you aside and keeps his voice low. "My supply of wine is nearly gone, and the next shipment is overdue. I'll give you what you seek if you bring me my wine. The vineyard and winery is a few miles west of here. Just follow the Old Svalich Road and the signs."
 ^337
 
-Urwin fails to mention that his cantankerous father, [[4. World Almanac/NPCs/Davian Martikov (COS).md\|Davian Martikov]], owns the local winery and vineyard, the Wizard of Wines (chapter 12). There's bad blood between Urwin and his father (whom Urwin and Danika refer to as "the old crow"). Although Urwin could easily visit the winery himself, he considers dealing with his father to be a worthy test of the characters' competence, and he makes good on his promise if they complete the quest and return with his wine shipment.
+Urwin fails to mention that his cantankerous father, [[4. World Almanac/NPCs/Davian Martikov.md\|Davian Martikov]], owns the local winery and vineyard, the Wizard of Wines (chapter 12). There's bad blood between Urwin and his father (whom Urwin and Danika refer to as "the old crow"). Although Urwin could easily visit the winery himself, he considers dealing with his father to be a worthy test of the characters' competence, and he makes good on his promise if they complete the quest and return with his wine shipment.
 
 Urwin sends a [[5. Mechanics/Bestiary/Humanoid/Wereraven (VRGR).md\|wereraven]] in raven form to observe the party's progress from a distance. If the characters get in trouble, the wereraven reports to Urwin at once.
 
@@ -198,7 +198,7 @@ From noon to dusk, the taproom holds `dice: 2d4|avg` (`2d4`) local patrons (male
 
 ##### Wolf Hunters
 
-[[4. World Almanac/NPCs/Szoldar Szoldarovich (COS).md\|Szoldar Szoldarovich]] and [[4. World Almanac/NPCs/Yevgeni Krushkin (COS).md\|Yevgeni Krushkin]] (N male human [[5. Mechanics/Bestiary/Humanoid/Scout.md\|scouts]]) are local hunters who frequent the Blue Water Inn. They kill wolves and sell the meat for a living, and their work is dangerous and bloody. Both men are grim and have haunted looks in their eyes.
+[[4. World Almanac/NPCs/Szoldar Szoldarovich.md\|Szoldar Szoldarovich]] and [[4. World Almanac/NPCs/Yevgeni Krushkin.md\|Yevgeni Krushkin]] (N male human [[5. Mechanics/Bestiary/Humanoid/Scout.md\|scouts]]) are local hunters who frequent the Blue Water Inn. They kill wolves and sell the meat for a living, and their work is dangerous and bloody. Both men are grim and have haunted looks in their eyes.
 
 These two are dour fellows, but they seldom pass up an opportunity to earn coin. If the characters are looking for guides or information about the land of Barovia, Szoldar and Yevgeni can be of service. They aren't afraid to venture beyond Vallaki's walls during the day, and they know the woods and valley well. They're willing to serve as guides for 5 gp per day, or to provide directions to important landmarks in exchange for free drinks. They think it's foolish to travel "this cursed realm" at night and won't do so unless their payment is exorbitant (100 gp or more).
 
@@ -214,13 +214,13 @@ Nikolai and Karl Wachter (N male human [[5. Mechanics/Bestiary/Humanoid/Noble.md
 
 ##### Rictavio
 
-The lone guest of the Blue Water Inn at present is a colorfully dressed half-elf bard who goes by the name [[4. World Almanac/NPCs/Rictavio (COS).md\|Rictavio]]—a false identity adopted by the legendary vampire hunter Rudolph van Richten (see appendix D). He regales tavern patrons with stories so outrageous as to be hardly believable, yet he asserts they are true indeed. [[4. World Almanac/NPCs/Rictavio (COS).md\|Rictavio]] claims to be a carnival ringmaster from a distant land. He's been staying at the inn for almost a month, taking advantage of [[4. World Almanac/NPCs/Urwin Martikov (COS).md\|Urwin Martikov]]'s generosity and good nature. When he arrived, he was accompanied by a monkey named [[4. World Almanac/NPCs/Piccolo (COS).md\|Piccolo]]. The monkey wasn't welcome at the inn, so [[4. World Almanac/NPCs/Rictavio (COS).md\|Rictavio]] gave it to the local toymaker (see area N7).
+The lone guest of the Blue Water Inn at present is a colorfully dressed half-elf bard who goes by the name [[4. World Almanac/NPCs/Rictavio.md\|Rictavio]]—a false identity adopted by the legendary vampire hunter Rudolph van Richten (see appendix D). He regales tavern patrons with stories so outrageous as to be hardly believable, yet he asserts they are true indeed. [[4. World Almanac/NPCs/Rictavio.md\|Rictavio]] claims to be a carnival ringmaster from a distant land. He's been staying at the inn for almost a month, taking advantage of [[4. World Almanac/NPCs/Urwin Martikov.md\|Urwin Martikov]]'s generosity and good nature. When he arrived, he was accompanied by a monkey named [[4. World Almanac/NPCs/Piccolo.md\|Piccolo]]. The monkey wasn't welcome at the inn, so [[4. World Almanac/NPCs/Rictavio.md\|Rictavio]] gave it to the local toymaker (see area N7).
 
-[[4. World Almanac/NPCs/Rictavio (COS).md\|Rictavio]] admits to having no musical talent but manages to entertain locals nonetheless with his stories of faraway places. Twice each day, at dawn and again at dusk, he leaves the inn with a couple of apples and a cooked wolf steak wrapped in a handkerchief. He claims the food is for his portly friend, "the destitute toymaker" (area N7) and his pet monkey. In fact, the apples are for his horse Drusilla (area N2f), and the steak is for his captured saber-toothed tiger (area N5).
+[[4. World Almanac/NPCs/Rictavio.md\|Rictavio]] admits to having no musical talent but manages to entertain locals nonetheless with his stories of faraway places. Twice each day, at dawn and again at dusk, he leaves the inn with a couple of apples and a cooked wolf steak wrapped in a handkerchief. He claims the food is for his portly friend, "the destitute toymaker" (area N7) and his pet monkey. In fact, the apples are for his horse Drusilla (area N2f), and the steak is for his captured saber-toothed tiger (area N5).
 
-During his stay at the inn, [[4. World Almanac/NPCs/Rictavio (COS).md\|Rictavio]] is quietly gathering information on the Keepers of the Feather, trying to figure out the identities of all the wereravens in town. He's also trying to learn as much as he can about the Vistani, particularly the ones living in the camp just outside town (area N9). Once he concludes that they are in league with Strahd, [[4. World Almanac/NPCs/Rictavio (COS).md\|Rictavio]] plans to unleash his trained saber-toothed tiger upon them, with or without the support of the wereravens.
+During his stay at the inn, [[4. World Almanac/NPCs/Rictavio.md\|Rictavio]] is quietly gathering information on the Keepers of the Feather, trying to figure out the identities of all the wereravens in town. He's also trying to learn as much as he can about the Vistani, particularly the ones living in the camp just outside town (area N9). Once he concludes that they are in league with Strahd, [[4. World Almanac/NPCs/Rictavio.md\|Rictavio]] plans to unleash his trained saber-toothed tiger upon them, with or without the support of the wereravens.
 
-[[4. World Almanac/NPCs/Rictavio (COS).md\|Rictavio]] wears a [[5. Mechanics/Items/Hat Of Disguise.md\|hat of disguise]] and a [[5. Mechanics/Items/Ring Of Mind Shielding.md\|ring of mind shielding]] to conceal his identity. He carries an iron key that unlocks the door to his carnival wagon (area N5).
+[[4. World Almanac/NPCs/Rictavio.md\|Rictavio]] wears a hat of disguise and a ring of mind shielding to conceal his identity. He carries an iron key that unlocks the door to his carnival wagon (area N5).
 
 #### N2d. Wine Storage
 
@@ -242,7 +242,7 @@ The double doors that lead outside can be barred shut from within.
 > This room looks like the kitchen of someone who loves to cook. It has piles of pots, walls lined with utensils and shelves of ingredients, and all manner of pleasant odors. Two lanterns hang above a sturdy pine worktable in the middle of the clutter. A pot of soup bubbles on the hearth.
 ^342
 
-[[4. World Almanac/NPCs/Urwin Martikov (COS).md\|Urwin Martikov]], who prepares most of the meals, is found here throughout the day. He occasionally receives help from his two boys, but they are easily distracted. A cupboard against the east wall holds most of the inn's supply of cutlery and dishware, none of it valuable. A door in the west wall leads outside and is usually barred from the inside.
+[[4. World Almanac/NPCs/Urwin Martikov.md\|Urwin Martikov]], who prepares most of the meals, is found here throughout the day. He occasionally receives help from his two boys, but they are easily distracted. A cupboard against the east wall holds most of the inn's supply of cutlery and dishware, none of it valuable. A door in the west wall leads outside and is usually barred from the inside.
 
 A secret door at the west end of the south wall can be pushed open to reveal a wooden staircase that leads up to area N2i.
 
@@ -255,7 +255,7 @@ The sliding wooden doors on the west wall of this room are held shut by an iron 
 > You hear the squawking of birds and the plaintive whinny of a horse as you peer inside this stable. The stalls are clean and well maintained. One of them contains a gray mare. A small door is set into the east wall, and a wooden ladder gives access to a loft overhead. Perched on the wooden railing that encloses the loft are dozens of ravens.
 ^344
 
-Any character who has a horse can keep it here for 1 sp per night. The gray mare is a [[5. Mechanics/Bestiary/Beast/Draft Horse.md\|draft horse]] named Drusilla, and she likes apples. The horse belongs to [[4. World Almanac/NPCs/Rictavio (COS).md\|Rictavio]] (see area N2c).
+Any character who has a horse can keep it here for 1 sp per night. The gray mare is a [[5. Mechanics/Bestiary/Beast/Draft Horse.md\|draft horse]] named Drusilla, and she likes apples. The horse belongs to [[4. World Almanac/NPCs/Rictavio.md\|Rictavio]] (see area N2c).
 
 The small door in the east wall can be pulled open to reveal area N2g. The loft is described in area N2h.
 
@@ -270,13 +270,13 @@ This small room lies under a wooden staircase (area N2i). Hanging from wooden pe
 > Dim light spilling in through a pair of dirt-encrusted windows reveals piles of hay with pitchforks sticking out of them. Ravens rule this roost—you can see hundreds of them.
 ^347
 
-Characters who search the loft thoroughly find three pitchforks and a locked wooden chest buried under a pile of hay (see "Treasure" below), next to a secret door. If the characters tamper with the chest, the ravens gather into four [[5. Mechanics/Bestiary/Beast/Swarm Of Ravens.md\|swarms of ravens]] and attack. If two swarms are killed, the others flee. Otherwise, they cease their attacks if the characters leave the chest alone. If the fighting continues for more than 3 rounds, [[4. World Almanac/NPCs/Urwin Martikov (COS).md\|Urwin Martikov]] and two other wereravens hear the ruckus and investigate (in human form).
+Characters who search the loft thoroughly find three pitchforks and a locked wooden chest buried under a pile of hay (see "Treasure" below), next to a secret door. If the characters tamper with the chest, the ravens gather into four [[5. Mechanics/Bestiary/Beast/Swarm Of Ravens.md\|swarms of ravens]] and attack. If two swarms are killed, the others flee. Otherwise, they cease their attacks if the characters leave the chest alone. If the fighting continues for more than 3 rounds, [[4. World Almanac/NPCs/Urwin Martikov.md\|Urwin Martikov]] and two other wereravens hear the ruckus and investigate (in human form).
 
 A secret door in the back of the loft can be pushed open to reveal a bedchamber (area N2p) beyond. No ability check is required to spot the secret door, because light in the room beyond slips through the door's cracks.
 
 ##### Treasure
 
-Inside the locked chest are 140 ep, 70 pp, two [[5. Mechanics/Items/Elixir Of Health.md\|elixirs of health]], three [[5. Mechanics/Items/Potion Of Healing.md\|potions of healing]], and a [[5. Mechanics/Items/Bag Of Tricks Gray.md\|gray bag of tricks]]. The coins are embossed with the profiled likeness of [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]].
+Inside the locked chest are 140 ep, 70 pp, two elixirs of health, three potions of healing, and a gray bag of tricks. The coins are embossed with the profiled likeness of [[4. World Almanac/NPCs/Strahd Von Zarovich.md\|Strahd von Zarovich]].
 
 #### N2i. Secret Stairs and Hall
 
@@ -285,7 +285,7 @@ Inside the locked chest are 140 ep, 70 pp, two [[5. Mechanics/Items/Elixir Of He
 > A wooden staircase to the north descends fifteen feet to a landing. A window dimly illuminates a short, wood-paneled hallway that runs west to east.
 ^34a
 
-Guests aren't told about the inn's secret hallway. [[4. World Almanac/NPCs/Rictavio (COS).md\|Rictavio]] knows of its existence because he has heard the Martikov boys opening and closing the secret door closest to his room (area N2n).
+Guests aren't told about the inn's secret hallway. [[4. World Almanac/NPCs/Rictavio.md\|Rictavio]] knows of its existence because he has heard the Martikov boys opening and closing the secret door closest to his room (area N2n).
 
 At each end of this area is a secret door, each of which is easy to spot from inside the hallway (no ability check required). The northern secret door, at the bottom of the staircase, can be pulled open to reveal the kitchen (area N2e) beyond. The eastern secret door can be pulled open to reveal a balcony (area N2j) that overlooks the taproom.
 
@@ -331,20 +331,20 @@ The door to this room can be locked from the inside, and each guest receives a k
 
 #### N2n. Private Guest Room
 
-[[4. World Almanac/NPCs/Rictavio (COS).md\|Rictavio]] has a key to this room, which is locked at all times. Urwin and Danika carry spare keys. The door's lock can be picked, but discretion is called for because the door is in plain view of the taproom below.
+[[4. World Almanac/NPCs/Rictavio.md\|Rictavio]] has a key to this room, which is locked at all times. Urwin and Danika carry spare keys. The door's lock can be picked, but discretion is called for because the door is in plain view of the taproom below.
 
 > [!readaloud] 
 > 
 > This small guest room contains a bed heaped with wolf furs, a footlocker, a tall wardrobe, and a writing desk with matching chair. An oil lamp rests atop the desk near a journal bound in a red leather jacket.
 ^354
 
-[[4. World Almanac/NPCs/Rictavio (COS).md\|Rictavio]] sleeps here between midnight and dawn. At dawn, he leaves to check on his horse (area N2f) and his wagon (area N5), returning to the inn around noon. Between noon and dusk, there's a 40% chance chance he is here; otherwise, he's in the taproom (area N2c). At dusk, he leaves the inn to tend to his horse and his wagon again, then returns to his room to retire for the night.
+[[4. World Almanac/NPCs/Rictavio.md\|Rictavio]] sleeps here between midnight and dawn. At dawn, he leaves to check on his horse (area N2f) and his wagon (area N5), returning to the inn around noon. Between noon and dusk, there's a 40% chance chance he is here; otherwise, he's in the taproom (area N2c). At dusk, he leaves the inn to tend to his horse and his wagon again, then returns to his room to retire for the night.
 
-[[4. World Almanac/NPCs/Rictavio (COS).md\|Rictavio]] is too clever to leave anything valuable or incriminating in his room. The footlocker and the wardrobe contain nothing but common clothes and travel wear.
+[[4. World Almanac/NPCs/Rictavio.md\|Rictavio]] is too clever to leave anything valuable or incriminating in his room. The footlocker and the wardrobe contain nothing but common clothes and travel wear.
 
 ##### Rictavio's Journal
 
-The journal on the desk is a bit of artifice that [[4. World Almanac/NPCs/Rictavio (COS).md\|Rictavio]] created to perpetuate the illusion that he is an entertainer in search of new acts for his traveling carnival. His writing makes frequent mention of conversations with Drusilla (which the journal fails to mention is the name of [[4. World Almanac/NPCs/Rictavio (COS).md\|Rictavio]]'s horse) and recounts many long and tedious journeys by wagon. [[4. World Almanac/NPCs/Rictavio (COS).md\|Rictavio]] has also written about various "oddities" he has seen in his travels, including the following:
+The journal on the desk is a bit of artifice that [[4. World Almanac/NPCs/Rictavio.md\|Rictavio]] created to perpetuate the illusion that he is an entertainer in search of new acts for his traveling carnival. His writing makes frequent mention of conversations with Drusilla (which the journal fails to mention is the name of [[4. World Almanac/NPCs/Rictavio.md\|Rictavio]]'s horse) and recounts many long and tedious journeys by wagon. [[4. World Almanac/NPCs/Rictavio.md\|Rictavio]] has also written about various "oddities" he has seen in his travels, including the following:
 
 - A "werehare" child (a boy who transforms into a rabbit on nights of the full moon)  
 - A half-orc woman named Gorabacha who could chew through iron chains  
@@ -399,7 +399,7 @@ Two trapdoors, clearly visible on the floor, can be pulled open to reveal the be
 
 ##### Treasure
 
-Urwin carries the key to the locked iron strongbox. The lock can be picked with thieves' tools and a successful DC 20 Dexterity check. The box contains a sack of 150 ep (each coin bearing the profiled visage of [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]]), six pieces of jewelry (worth 250 gp each), and three [[5. Mechanics/Items/Potion Of Healing.md\|potions of healing]].
+Urwin carries the key to the locked iron strongbox. The lock can be picked with thieves' tools and a successful DC 20 Dexterity check. The box contains a sack of 150 ep (each coin bearing the profiled visage of [[4. World Almanac/NPCs/Strahd Von Zarovich.md\|Strahd von Zarovich]]), six pieces of jewelry (worth 250 gp each), and three potions of healing.
 
 #### Fortunes of Ravenloft
 
@@ -426,9 +426,9 @@ Use the following information to roleplay the burgomaster and his family.
 
 ##### The Baron
 
-The burgomaster, [[4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md\|Baron Vargas Vallakovich]] (NE male human [[5. Mechanics/Bestiary/Humanoid/Noble.md\|noble]]), is a ruthless heel who prides himself on his good breeding and finely honed leadership skills. He stages repeated celebrations to foster happiness, and his "All will be well!" catchphrase has become a sad and tiresome punchline. Baron Vallakovich has convinced himself that if he can make everyone in Vallaki happy, the town will slip free of Strahd's dark grasp.
+The burgomaster, [[4. World Almanac/NPCs/Baron Vargas Vallakovich.md\|Baron Vargas Vallakovich]] (NE male human [[5. Mechanics/Bestiary/Humanoid/Noble.md\|noble]]), is a ruthless heel who prides himself on his good breeding and finely honed leadership skills. He stages repeated celebrations to foster happiness, and his "All will be well!" catchphrase has become a sad and tiresome punchline. Baron Vallakovich has convinced himself that if he can make everyone in Vallaki happy, the town will slip free of Strahd's dark grasp.
 
-The baron has a brittle ego, and he lashes out at anyone who pokes fun at his festivals or treats him disrespectfully. He has two pet mastiffs that follow him everywhere, as well as a murderous and deformed henchman named [[4. World Almanac/NPCs/Izek Strazni (COS).md\|Izek Strazni]] (see appendix D). In addition to his weapons, Izek carries an iron ring of keys that unlock the stocks in the town square (area N8).
+The baron has a brittle ego, and he lashes out at anyone who pokes fun at his festivals or treats him disrespectfully. He has two pet mastiffs that follow him everywhere, as well as a murderous and deformed henchman named [[4. World Almanac/NPCs/Izek Strazni.md\|Izek Strazni]] (see appendix D). In addition to his weapons, Izek carries an iron ring of keys that unlock the stocks in the town square (area N8).
 
 If the characters get on his bad side, the baron accuses them of being "spies of the devil Strahd" and sends twelve [[5. Mechanics/Bestiary/Humanoid/Guard.md\|guards]] to arrest them, seize their weapons, and run them out of town. If the guards fail in their duty, the baron sends Izek to rally a mob of thirty [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoners]] to lynch the party. If the commoners also fail, the baron summons the twelve remaining guards to defend his mansion, giving characters the run of the town.
 
@@ -444,7 +444,7 @@ At the risk of sacrificing her sanity, the baron's wife, Lydia Petrovna (LG fema
 
 ##### The Baronet
 
-The baron's miserable son, [[4. World Almanac/NPCs/Victor Vallakovich (COS).md\|Victor Vallakovich]] (NE male human [[5. Mechanics/Bestiary/Humanoid/Mage.md\|mage]]), has confined himself to the attic (area N3t), where he is content to avoid the unwanted attention of his mother and the disapproving glares of his father. Years ago, Victor found an old spellbook in the mansion's library and used it to teach himself magic. He has been busy constructing a [[5. Mechanics/Spells/Teleportation Circle.md\|teleportation circle]] in the hope of escaping Barovia and leaving his parents to their doom.
+The baron's miserable son, [[4. World Almanac/NPCs/Victor Vallakovich.md\|Victor Vallakovich]] (NE male human [[5. Mechanics/Bestiary/Humanoid/Mage.md\|mage]]), has confined himself to the attic (area N3t), where he is content to avoid the unwanted attention of his mother and the disapproving glares of his father. Years ago, Victor found an old spellbook in the mansion's library and used it to teach himself magic. He has been busy constructing a teleportation circle in the hope of escaping Barovia and leaving his parents to their doom.
 
 #### N3a. Entrance Hall and Vestibule
 
@@ -507,7 +507,7 @@ Characters who ask to see the burgomaster are brought here.
 > Padded chairs and couches line the walls of this cozy, carpeted den. The room reeks of pipe smoke, and mounted on the east wall is the head of an angry-looking brown bear.
 ^36e
 
-The mounted bear's head is meant to unnerve visitors. It serves as a subtle warning not to antagonize the burgomaster, who spends most of his time in the library (area N3l). Although the burgomaster claims that his father killed the bear, the head was actually a gift given to his family by the late Szoldar Grygorovich, father of the wolf hunter [[4. World Almanac/NPCs/Szoldar Szoldarovich (COS).md\|Szoldar Szoldarovich]] (area N2).
+The mounted bear's head is meant to unnerve visitors. It serves as a subtle warning not to antagonize the burgomaster, who spends most of his time in the library (area N3l). Although the burgomaster claims that his father killed the bear, the head was actually a gift given to his family by the late Szoldar Grygorovich, father of the wolf hunter [[4. World Almanac/NPCs/Szoldar Szoldarovich.md\|Szoldar Szoldarovich]] (area N2).
 
 #### N3f. Servants' Quarters
 
@@ -554,22 +554,22 @@ If the characters arrive here from the kitchen (area N3g), read:
 
 #### N3j. Izek's Bedroom
 
-The door to this room is locked. [[4. World Almanac/NPCs/Izek Strazni (COS).md\|Izek Strazni]] carries the only key.
+The door to this room is locked. [[4. World Almanac/NPCs/Izek Strazni.md\|Izek Strazni]] carries the only key.
 
-The following description assumes the characters have met [[4. World Almanac/NPCs/Ireena Kolyana (COS).md\|Ireena Kolyana]] (see chapter 3, area E4). If the characters haven't met her, don't read the last sentence.
+The following description assumes the characters have met [[4. World Almanac/NPCs/Ireena Kolyana.md\|Ireena Kolyana]] (see chapter 3, area E4). If the characters haven't met her, don't read the last sentence.
 
 > [!readaloud] 
 > 
-> Dolls. This room is full of pretty little dolls with powder-white skin and auburn hair, some of them dressed beautifully, others plainly. Some of the dolls fill a long bookshelf, and others are arranged in neat rows on wall-mounted shelves. Still others are piled atop a bed and a heavy wooden chest. What's most odd is that all of the dolls, apart from their clothing, look the same. They all look like [[4. World Almanac/NPCs/Ireena Kolyana (COS).md\|Ireena Kolyana]].
+> Dolls. This room is full of pretty little dolls with powder-white skin and auburn hair, some of them dressed beautifully, others plainly. Some of the dolls fill a long bookshelf, and others are arranged in neat rows on wall-mounted shelves. Still others are piled atop a bed and a heavy wooden chest. What's most odd is that all of the dolls, apart from their clothing, look the same. They all look like [[4. World Almanac/NPCs/Ireena Kolyana.md\|Ireena Kolyana]].
 ^379
 
-The burgomaster's monstrous henchman, [[4. World Almanac/NPCs/Izek Strazni (COS).md\|Izek Strazni]] (see appendix D), sleeps here at night. During the day, he is in town taking care of his master's business. Izek's chest is unlocked and contains a heap of wrinkled clothes, under which is a nonmagical shortsword.
+The burgomaster's monstrous henchman, [[4. World Almanac/NPCs/Izek Strazni.md\|Izek Strazni]] (see appendix D), sleeps here at night. During the day, he is in town taking care of his master's business. Izek's chest is unlocked and contains a heap of wrinkled clothes, under which is a nonmagical shortsword.
 
 A thorough search of the room reveals a few empty wine bottles under the bed. The label on each bears the winery's name, the Wizard of Wines, and wine's name, Purple Grapemash No. 3.
 
 ##### Izek's Doll Collection
 
-Each doll has a small tag stitched into its clothing that reads "Is No Fun, Is No Blinsky!" Izek had the local toymaker, [[4. World Almanac/NPCs/Gadof Blinsky (COS).md\|Gadof Blinsky]] (area N7), craft the dolls in Ireena's likeness.
+Each doll has a small tag stitched into its clothing that reads "Is No Fun, Is No Blinsky!" Izek had the local toymaker, [[4. World Almanac/NPCs/Gadof Blinsky.md\|Gadof Blinsky]] (area N7), craft the dolls in Ireena's likeness.
 
 #### N3k. Victor's Bedroom
 
@@ -594,9 +594,9 @@ If the burgomaster has not been drawn elsewhere, he is here. Add:
 > Standing behind the chair, holding an open book, is a bear of a man. His breastplate, rapier, silk tunic, and greasy beard glisten in the lamplight. Resting on small rugs to his left and right are a pair of black mastiffs.
 ^37f
 
-[[4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md\|Baron Vargas Vallakovich]] never goes anywhere without his two [[5. Mechanics/Bestiary/Beast/Mastiff.md\|mastiffs]]. A paranoid man, he wears his breastplate and rapier even while relaxing in his library. Two of his servants, the butler and his wife's lady-in-waiting, have vanished without a trace in the past week, so he has good cause to be worried.
+[[4. World Almanac/NPCs/Baron Vargas Vallakovich.md\|Baron Vargas Vallakovich]] never goes anywhere without his two [[5. Mechanics/Bestiary/Beast/Mastiff.md\|mastiffs]]. A paranoid man, he wears his breastplate and rapier even while relaxing in his library. Two of his servants, the butler and his wife's lady-in-waiting, have vanished without a trace in the past week, so he has good cause to be worried.
 
-The baron believes that everyone else is beneath him, and those who question his word or challenge his authority must be humbled. He won't pick a fight with well-armed strangers, however. If he can't make the characters yield to his authority, he swallows his pride until he can circle around with [[4. World Almanac/NPCs/Izek Strazni (COS).md\|Izek Strazni]] and assemble his guards to run them out of town.
+The baron believes that everyone else is beneath him, and those who question his word or challenge his authority must be humbled. He won't pick a fight with well-armed strangers, however. If he can't make the characters yield to his authority, he swallows his pride until he can circle around with [[4. World Almanac/NPCs/Izek Strazni.md\|Izek Strazni]] and assemble his guards to run them out of town.
 
 The baron's desk contains three drawers stuffed with blank sheets of parchment, jars of ink, and writing quills. It also holds thick books of tax records dating back to the times of the baron's father, grandfather, and great-grandfather.
 
@@ -654,7 +654,7 @@ The white gown stored here belongs to the baroness. It reminds her of happier ti
 
 ##### Magic Mirror
 
-A [[5. Mechanics/Spells/Detect Magic.md\|detect magic]] spell reveals that the gilded mirror on the wall radiates an aura of conjuration magic. None of the mansion's current occupants are aware of this fact, because the mirror's magic hasn't been used in generations. Casting an [[5. Mechanics/Spells/Identify.md\|identify]] spell on the mirror reveals that an assassin's ghost is magically bound to it. The spell also reveals the forgotten rhyme needed to summon the ghost:
+A detect magic spell reveals that the gilded mirror on the wall radiates an aura of conjuration magic. None of the mansion's current occupants are aware of this fact, because the mirror's magic hasn't been used in generations. Casting an identify spell on the mirror reveals that an assassin's ghost is magically bound to it. The spell also reveals the forgotten rhyme needed to summon the ghost:
 
 > [!note] 
 > 
@@ -679,7 +679,7 @@ Once the power of the mirror is used, the mirror becomes dormant until the next 
 
 The mirror corrupts those who use it to do evil. Summoning the assassin isn't evil, but using him to commit murder is. Each time a creature uses the mirror for this purpose, there is a cumulative 25% chance chance that the creature's alignment shifts to neutral evil.
 
-If a character touches the mirror and speaks Strahd's name, there is a 50% chance chance that Strahd takes notice and appears on the mirror's surface. In this form, the vampire can't be harmed. He tries to charm one humanoid he can see within 30 feet of the mirror. Whether the target resists the effect or not, Strahd's smiling visage invites the characters to dine at Castle Ravenloft, then fades away. A creature [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] by Strahd feels compelled to accept the vampire's invitation.
+If a character touches the mirror and speaks Strahd's name, there is a 50% chance chance that Strahd takes notice and appears on the mirror's surface. In this form, the vampire can't be harmed. He tries to charm one humanoid he can see within 30 feet of the mirror. Whether the target resists the effect or not, Strahd's smiling visage invites the characters to dine at Castle Ravenloft, then fades away. A creature charmed by Strahd feels compelled to accept the vampire's invitation.
 
 #### N3q. Bathroom
 
@@ -723,9 +723,9 @@ Victor spends most of his time here, leaving only when he needs food or spell co
 > Someone has carved a large skull into this door. Hanging from the doorknob is a wooden sign that reads "ALL IS NOT WELL!" You hear a young man's voice beyond.
 ^395
 
-Anyone who inspects the carving and succeeds on a DC 14 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check notices a small, nearly invisible glyph etched into the skull's forehead. This is a [[5. Mechanics/Spells/Glyph Of Warding.md\|glyph of warding]] (`dice: 5d8|avg` (`5d8`) lightning damage) that triggers if anyone other than Victor opens the door.
+Anyone who inspects the carving and succeeds on a DC 14 Intelligence (Investigation) check notices a small, nearly invisible glyph etched into the skull's forehead. This is a glyph of warding (`dice: 5d8|avg` (`5d8`) lightning damage) that triggers if anyone other than Victor opens the door.
 
-The voice belongs to Victor. He is reading aloud from his spellbook. Anyone who listens at the door and succeeds on a DC 14 Intelligence ([[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]]) check can tell he's badly pronouncing some kind of teleportation spell.
+The voice belongs to Victor. He is reading aloud from his spellbook. Anyone who listens at the door and succeeds on a DC 14 Intelligence (Arcana) check can tell he's badly pronouncing some kind of teleportation spell.
 
 If the characters open the door, read:
 
@@ -734,7 +734,7 @@ If the characters open the door, read:
 > Someone has taken old, mismatched furniture and created a study is this dusty, lamplit chamber. Tables are strewn with pieces of parchment, on which strange diagrams are drawn, and a freestanding bookshelf holds a collection of bones. A dusty rug covers the floor in front of a pine box, on which lounges a skeletal cat. Several more skeletal cats skulk about. Most unnerving of all is the sight of three small children standing with their backs to you in the northeast corner of the room.
 ^396
 
-If the characters trigger the [[5. Mechanics/Spells/Glyph Of Warding.md\|glyph of warding]] or otherwise announce their arrival, Victor casts a [[5. Mechanics/Spells/Greater Invisibility.md\|greater invisibility]] spell on himself and hides in a corner. Otherwise, he's visible. If the characters can see Victor, read:
+If the characters trigger the glyph of warding or otherwise announce their arrival, Victor casts a greater invisibility spell on himself and hides in a corner. Otherwise, he's visible. If the characters can see Victor, read:
 
 > [!readaloud] 
 > 
@@ -743,25 +743,25 @@ If the characters trigger the [[5. Mechanics/Spells/Glyph Of Warding.md\|glyph o
 
 Victor found a spellbook in his father's library and is using it to teach himself the art of spellcasting. Only recently has he been able to decipher some of its high-level spells. He's a weird, awkward, and off-putting fellow who is dangerous only if threatened.
 
-For practice and for fun, Victor dug up some old cat bones behind the Wachter estate (see area N4) and animated them, creating six cat skeletons (use the [[5. Mechanics/Bestiary/Beast/Cat.md\|cat]] stat block, but give them [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]] out to a range of 60 feet and immunity to poison damage, [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]], and the [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] condition). The skeletons attack only when Victor commands them to.
+For practice and for fun, Victor dug up some old cat bones behind the Wachter estate (see area N4) and animated them, creating six cat skeletons (use the [[5. Mechanics/Bestiary/Beast/Cat.md\|cat]] stat block, but give them darkvision out to a range of 60 feet and immunity to poison damage, exhaustion, and the poisoned condition). The skeletons attack only when Victor commands them to.
 
 The "children" standing in the corner are painted wooden dolls dressed in clothing that Victor wore as a child. He pretends they are his disobedient pupils.
 
-The sheets of parchment are covered with elaborate diagrams of teleportation circles. Victor drew them in an effort to learn the [[5. Mechanics/Spells/Teleportation Circle.md\|teleportation circle]] spell, which he's still trying to master (see "Teleportation Circle" below).
+The sheets of parchment are covered with elaborate diagrams of teleportation circles. Victor drew them in an effort to learn the teleportation circle spell, which he's still trying to master (see "Teleportation Circle" below).
 
 The trunk contains several bolts of silk cloth, needles and thread, and a half-finished wizard's robe. Victor started to make the robe for himself but found the work tedious and stopped.
 
 ##### Teleportation Circle
 
-Victor's spellbook contains incomplete text for a [[5. Mechanics/Spells/Teleportation Circle.md\|teleportation circle]] spell, along with the sigil sequences of three permanent teleportation circles, the locations of which aren't described. There's not enough text to prepare the spell properly, but that hasn't stopped Victor from trying to learn to cast it.
+Victor's spellbook contains incomplete text for a teleportation circle spell, along with the sigil sequences of three permanent teleportation circles, the locations of which aren't described. There's not enough text to prepare the spell properly, but that hasn't stopped Victor from trying to learn to cast it.
 
-Victor recently inscribed his own version of a teleportation circle on the floor. It's hidden under the rug so that his parents don't find it. In the past couple of weeks, Victor has managed to imbue the circle with magic, but he failed to account for several factors. His circle doesn't fade after use, nor does it function like the [[5. Mechanics/Spells/Teleportation Circle.md\|teleportation circle]] spell. If the circle is used in the casting of a [[5. Mechanics/Spells/Teleportation Circle.md\|teleportation circle]] spell, whether the actual spell or Victor's version of it, any creature standing on the circle when the spell is cast takes `dice: 3d10|avg` (`3d10`) force damage and isn't teleported anywhere. If this damage reduces the creature to 0 hit points, the creature is disintegrated. Any character who studies the circle and succeeds on a DC 15 Intelligence ([[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]]) check realizes that Victor's circle is horribly flawed and potentially deadly when used.
+Victor recently inscribed his own version of a teleportation circle on the floor. It's hidden under the rug so that his parents don't find it. In the past couple of weeks, Victor has managed to imbue the circle with magic, but he failed to account for several factors. His circle doesn't fade after use, nor does it function like the teleportation circle spell. If the circle is used in the casting of a teleportation circle spell, whether the actual spell or Victor's version of it, any creature standing on the circle when the spell is cast takes `dice: 3d10|avg` (`3d10`) force damage and isn't teleported anywhere. If this damage reduces the creature to 0 hit points, the creature is disintegrated. Any character who studies the circle and succeeds on a DC 15 Intelligence (Arcana) check realizes that Victor's circle is horribly flawed and potentially deadly when used.
 
-Victor has tested his circle on two reluctant servants (compelled by his [[5. Mechanics/Spells/Suggestion.md\|suggestion]] spell), in both cases linking his circle to one of the other circles whose sigils are in his spellbook. Each servant was torn apart before Victor's eyes before vanishing in a flash of purple light. Victor doesn't know how to fix the circle but plans to make more modifications to it before testing it again.
+Victor has tested his circle on two reluctant servants (compelled by his suggestion spell), in both cases linking his circle to one of the other circles whose sigils are in his spellbook. Each servant was torn apart before Victor's eyes before vanishing in a flash of purple light. Victor doesn't know how to fix the circle but plans to make more modifications to it before testing it again.
 
 ##### Treasure
 
-Victor's spellbook contains all the spells Victor has prepared (see the [[5. Mechanics/Bestiary/Humanoid/Mage.md\|mage]] stat block in the "Monster Manual") as well as the following spells: [[5. Mechanics/Spells/Animate Dead.md\|animate dead]], [[5. Mechanics/Spells/Blight.md\|blight]], [[5. Mechanics/Spells/Cloudkill.md\|cloudkill]], [[5. Mechanics/Spells/Darkvision.md\|darkvision]], [[5. Mechanics/Spells/Glyph Of Warding.md\|glyph of warding]], [[5. Mechanics/Spells/Levitate.md\|levitate]], [[5. Mechanics/Spells/Remove Curse.md\|remove curse]], and [[5. Mechanics/Spells/Thunderwave.md\|thunderwave]].
+Victor's spellbook contains all the spells Victor has prepared (see the [[5. Mechanics/Bestiary/Humanoid/Mage.md\|mage]] stat block in the "Monster Manual") as well as the following spells: animate dead, blight, cloudkill, darkvision, glyph of warding, levitate, remove curse, and thunderwave.
 
 ### N4. Wachterhaus
 
@@ -782,7 +782,7 @@ Use the following information to roleplay Lady Wachter, her family, and her asso
 
 ##### Lady of the House
 
-[[4. World Almanac/NPCs/Lady Fiona Wachter (COS).md\|Lady Fiona Wachter]] (LE female human [[5. Mechanics/Bestiary/Humanoid/Priest.md\|priest]] with AC 10 and no armor) makes no secret of her family's long-standing loyalty to the von Zarovich line. She believes that [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]] is no tyrant but, at worst, a negligent landlord. She would happily serve Strahd as burgomaster of Vallaki, but she knows that [[4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md\|Baron Vargas Vallakovich]] won't give up his birthright without a fight.
+[[4. World Almanac/NPCs/Lady Fiona Wachter.md\|Lady Fiona Wachter]] (LE female human [[5. Mechanics/Bestiary/Humanoid/Priest.md\|priest]] with AC 10 and no armor) makes no secret of her family's long-standing loyalty to the von Zarovich line. She believes that [[4. World Almanac/NPCs/Strahd Von Zarovich.md\|Strahd von Zarovich]] is no tyrant but, at worst, a negligent landlord. She would happily serve Strahd as burgomaster of Vallaki, but she knows that [[4. World Almanac/NPCs/Baron Vargas Vallakovich.md\|Baron Vargas Vallakovich]] won't give up his birthright without a fight.
 
 Fiona conspired to wed her young daughter, Stella, to the baron's son, Victor, as part of a plot to gain a foothold in the baron's mansion, but Stella found Victor to be demented, and he showed no interest in Stella whatsoever. In fact, he spoke such unkind words to Stella that she went mad, and Fiona had to lock her daughter away (see area N4n).
 
@@ -790,18 +790,18 @@ Lady Wachter's latest scheme to gain control of Vallaki is far more diabolical. 
 
 ![[6. Resources/5e Modules/Curse Of Strahd/img/060-cos05-11.webp#center\|Fiona Wachter and Majesto]]
 
-Another secret of Fiona's is that she sleeps with the corpse of her dead husband, Nikolai, who died of sickness nearly three years ago and whom Fiona cherished. Lady Wachter casts [[5. Mechanics/Spells/Gentle Repose.md\|gentle repose]] spells on the corpse to keep it from deteriorating.
+Another secret of Fiona's is that she sleeps with the corpse of her dead husband, Nikolai, who died of sickness nearly three years ago and whom Fiona cherished. Lady Wachter casts gentle repose spells on the corpse to keep it from deteriorating.
 
-If the characters come to Wachterhaus looking for help to overthrow the burgomaster, Lady Wachter is all ears and suggests they start by killing the baron's evil henchman, [[4. World Almanac/NPCs/Izek Strazni (COS).md\|Izek Strazni]]. She's happy to take care of the rest. If they come looking for a way to defeat Strahd, Lady Wachter turns them away, stating in no uncertain terms that she is not, nor ever will be, Strahd's enemy.
+If the characters come to Wachterhaus looking for help to overthrow the burgomaster, Lady Wachter is all ears and suggests they start by killing the baron's evil henchman, [[4. World Almanac/NPCs/Izek Strazni.md\|Izek Strazni]]. She's happy to take care of the rest. If they come looking for a way to defeat Strahd, Lady Wachter turns them away, stating in no uncertain terms that she is not, nor ever will be, Strahd's enemy.
 
 Lady Wachter has a different list of prepared spells from that of the [[5. Mechanics/Bestiary/Humanoid/Priest.md\|priest]] in the "Monster Manual":
 
 > [!note] 
 > 
-> - Cantrips (at will): [[5. Mechanics/Spells/Light.md\|light]], [[5. Mechanics/Spells/Mending.md\|mending]], [[5. Mechanics/Spells/Thaumaturgy.md\|thaumaturgy]]  
-> - 1st level (4 slots): [[5. Mechanics/Spells/Command.md\|command]], [[5. Mechanics/Spells/Purify Food And Drink.md\|purify food and drink]], [[5. Mechanics/Spells/Sanctuary.md\|sanctuary]]  
-> - 2nd level (3 slots): [[5. Mechanics/Spells/Augury.md\|augury]], [[5. Mechanics/Spells/Gentle Repose.md\|gentle repose]], [[5. Mechanics/Spells/Hold Person.md\|hold person]]  
-> - 3rd level (2 slots): [[5. Mechanics/Spells/Animate Dead.md\|animate dead]], [[5. Mechanics/Spells/Create Food And Water.md\|create food and water]]  
+> - Cantrips (at will): light, mending, thaumaturgy  
+> - 1st level (4 slots): command, purify food and drink, sanctuary  
+> - 2nd level (3 slots): augury, gentle repose, hold person  
+> - 3rd level (2 slots): animate dead, create food and water  
 ^39e
 
 ##### Fiona's Sons
@@ -855,7 +855,7 @@ The back door is locked and similar to the front door (area N4a) in every respec
 > Servants' coats and aprons hang from hooks in this room, and boots are neatly lined up against the wall.
 ^3a9
 
-Anyone who searches the closet and makes a successful DC 10 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check finds a secret door in the south wall. The door can be pulled open to reveal a stone staircase (area N4g) that leads to the cellar.
+Anyone who searches the closet and makes a successful DC 10 Wisdom (Perception) check finds a secret door in the south wall. The door can be pulled open to reveal a stone staircase (area N4g) that leads to the cellar.
 
 #### N4g. Secret Staircase
 
@@ -884,7 +884,7 @@ Lady Wachter greets her guests here, under the watchful eyes of her dead husband
 > Here three elegant couches surround an oval table made of black glass. All are set in front of a blazing hearth, above which hangs the portrait of a smirking nobleman sporting a broken nose and a tangle of hair graying at the temples. Several smaller portraits hang on the north wall.
 ^3af
 
-The portrait above the mantel depicts Lord [[4. World Almanac/NPCs/Nikolai Wachter (COS).md\|Nikolai Wachter]], Fiona's late husband (of whom his sons are the spitting image). The other portraits depict Lady Wachter, her sons, her daughter, and various deceased family members.
+The portrait above the mantel depicts Lord [[4. World Almanac/NPCs/Nikolai Wachter.md\|Nikolai Wachter]], Fiona's late husband (of whom his sons are the spitting image). The other portraits depict Lady Wachter, her sons, her daughter, and various deceased family members.
 
 The parlor shares the fireplace with the den (area N4k). Ernst Larnak lurks in the den and eavesdrops on any conversation that Lady Wachter has with the characters, so that he can advise her after they depart.
 
@@ -939,7 +939,7 @@ The door to this room is locked from both sides, and only Lady Wachter has a key
 > Scurrying away from you on all fours is a young woman in a soiled nightgown. She leaps onto the bed and hisses like a cat. "Little kitty doesn't know you!" she shouts. "Little kitty doesn't like the smell of you!"
 ^3ba
 
-The young woman is [[4. World Almanac/NPCs/Stella Wachter (COS).md\|Stella Wachter]] (CG female human [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoner]]), Lady Wachter's insane daughter. A [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell rids her of the madness that makes her think she's a cat. If she is cured of her madness, she blames her mother for treating her horribly and using her as a pawn to seize control of the town. Stella knows none of her mother's secrets, apart from her mother's desire to overthrow the burgomaster. Stella has nothing kind to say about the burgomaster or his son, Victor, whose very name makes her cringe. With her wits restored, Stella feels she has no one in Vallaki she can count on. She latches onto any character who is kind to her. If the party takes her to St. Andral's church (area N1), Father Lucian offers to look after her, and she agrees to stay with him.
+The young woman is [[4. World Almanac/NPCs/Stella Wachter.md\|Stella Wachter]] (CG female human [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoner]]), Lady Wachter's insane daughter. A greater restoration spell rids her of the madness that makes her think she's a cat. If she is cured of her madness, she blames her mother for treating her horribly and using her as a pawn to seize control of the town. Stella knows none of her mother's secrets, apart from her mother's desire to overthrow the burgomaster. Stella has nothing kind to say about the burgomaster or his son, Victor, whose very name makes her cringe. With her wits restored, Stella feels she has no one in Vallaki she can count on. She latches onto any character who is kind to her. If the party takes her to St. Andral's church (area N1), Father Lucian offers to look after her, and she agrees to stay with him.
 
 #### N4o. Master Bedroom
 
@@ -952,9 +952,9 @@ The door to this room is locked. Lady Wachter and her servants carry keys. A gha
 > Wood paneling covers the walls of the room. A closet and a framed mirror flank a curtained window to the south. To the north, a wide, canopied bed lies pinned between matching end tables with oil lamps. Stretched out on one side of the bed is a man dressed in black, his eyes each covered with a copper piece. He bears a striking resemblance to the father in the painting.
 ^3bc
 
-Lady Wachter's husband, Nikolai, lies in his bed, impeccably dressed, quite deceased, and under the effect of the [[5. Mechanics/Spells/Gentle Repose.md\|gentle repose]] spell. Nothing of value is on him.
+Lady Wachter's husband, Nikolai, lies in his bed, impeccably dressed, quite deceased, and under the effect of the gentle repose spell. Nothing of value is on him.
 
-The closet contains shelves of fancy footwear and many fine garments, including a black ceremonial robe with a hood (similar to the ones worn by the cult fanatics in area N4t). On a high shelf rests a locked iron chest. Lady Wachter hides the key to the chest on a tiny hook in the fireplace, under the mantel. A character who takes a minute to search the fireplace finds the key with a successful DC 10 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check. Use of the key disables a poison needle trap hidden in the lock (see ""Sample Traps"" in chapter 5, "Adventure Environments," of the "Dungeon Master's Guide"). A creature that triggers the trap and fails the saving throw against the needle's poison falls [[/5. Mechanics/Rules/Conditions.md#unconscious\|unconscious]] for 1 hour instead of being [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] for 1 hour.
+The closet contains shelves of fancy footwear and many fine garments, including a black ceremonial robe with a hood (similar to the ones worn by the cult fanatics in area N4t). On a high shelf rests a locked iron chest. Lady Wachter hides the key to the chest on a tiny hook in the fireplace, under the mantel. A character who takes a minute to search the fireplace finds the key with a successful DC 10 Wisdom (Perception) check. Use of the key disables a poison needle trap hidden in the lock (see ""Sample Traps"" in chapter 5, "Adventure Environments," of the "Dungeon Master's Guide"). A creature that triggers the trap and fails the saving throw against the needle's poison falls unconscious for 1 hour instead of being poisoned for 1 hour.
 
 The iron chest is lined with thin sheets of lead and contains the bones of Leo Dilisnya, an enemy of the Wachter family. Leo was one of the soldiers who betrayed and murdered Strahd on the day of Sergei and Tatyana's wedding. He escaped from Castle Ravenloft, only to be hunted down and killed by the vampire Strahd. The Wachters keep his bones under lock and key so that Leo can't be raised from the dead.
 
@@ -971,7 +971,7 @@ The double doors to this room are locked. Lady Wachter and her servants carry ke
 > This room is crawling with cats. Bookshelves hug the walls, but most of the shelves are bare. Other furnishings include a desk, a chair, a table, and a wine cabinet. The room has an irregular shape, and none of its angles seem quite right, as though the shifting of the house has set the whole place on edge.
 ^3bf
 
-Eight [[5. Mechanics/Bestiary/Beast/Cat.md\|cats]] have the run of the library. These family pets have vicious dispositions, attacking anyone who tries to pick them up. Characters who have a passive Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) score of 10 or higher notice that one cat has a small key hanging from its collar. The key opens the locked chest in area N4q.
+Eight [[5. Mechanics/Bestiary/Beast/Cat.md\|cats]] have the run of the library. These family pets have vicious dispositions, attacking anyone who tries to pick them up. Characters who have a passive Wisdom (Perception) score of 10 or higher notice that one cat has a small key hanging from its collar. The key opens the locked chest in area N4q.
 
 There is a 25% chance chance that one of the maids is here, dusting the bookshelves.
 
@@ -997,8 +997,8 @@ The iron chest contains several items:
 - A silk bag containing 180 ep, each coin bearing Strahd's stern visage in profile  
 - A leather bag containing 110 gp  
 - A wooden pipe that has been passed down through many generations of Wachter patriarchs  
-- Five scrolls—notarized deeds for parcels of land given to the Wachter family by Count [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]] nearly four centuries ago  
-- A supple leather case containing an unbound manuscript titled *The Devil We Know*—a poetic manifesto written by [[4. World Almanac/NPCs/Lady Fiona Wachter (COS).md\|Lady Fiona Wachter]] attesting that the worship of devils can bring happiness, success, freedom, wealth, and longevity  
+- Five scrolls—notarized deeds for parcels of land given to the Wachter family by Count [[4. World Almanac/NPCs/Strahd Von Zarovich.md\|Strahd von Zarovich]] nearly four centuries ago  
+- A supple leather case containing an unbound manuscript titled *The Devil We Know*—a poetic manifesto written by [[4. World Almanac/NPCs/Lady Fiona Wachter.md\|Lady Fiona Wachter]] attesting that the worship of devils can bring happiness, success, freedom, wealth, and longevity  
 - A blasphemous treatise bound in black leather titled *The Grimoire of the Four Quarters*, written by the infamous diabolist Devostas, who was drawn and quartered for his fell practices yet did not die (this is a forgery; the actual grimoire would drive a reader mad)  
 - A very old letter to Lady Lovina Wachter (an ancestor) from one Lord Vasili von Holtz, thanking Lovina for her hospitality, loyalty, and friendship over the years  
 
@@ -1035,7 +1035,7 @@ The footprints in the dirt give away the location of a secret door in the center
 > Flickering candles in iron holders fill this room with light and shadows. This room has a ten-foot-high ceiling and a large black pentagram inscribed on the stone floor. At each point of the pentagram rests a wooden chair. Seated in four of the five chairs are men and women in black robes with hoods: a young man who has the face of an angel; a balding hulk of a man; a squat, middle-aged woman; and a taller, younger woman with an unsettling glare. They rise to confront you.
 ^3c8
 
-The four people are town residents (LE male and female human [[5. Mechanics/Bestiary/Humanoid/Cult Fanatic.md\|cult fanatics]]) whom Lady Wachter has seduced with promises of power, wealth, and long life. They are members of her "book club," eagerly waiting for Lady Wachter to join them, read passages from her manifesto (see area N4q), and maybe conjure up a few coins. Resting on the fifth chair, quietly eavesdropping on the cultists, is the lady's [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]] [[5. Mechanics/Bestiary/Fiend/Imp.md\|imp]], [[4. World Almanac/NPCs/Majesto (COS).md\|Majesto]].
+The four people are town residents (LE male and female human [[5. Mechanics/Bestiary/Humanoid/Cult Fanatic.md\|cult fanatics]]) whom Lady Wachter has seduced with promises of power, wealth, and long life. They are members of her "book club," eagerly waiting for Lady Wachter to join them, read passages from her manifesto (see area N4q), and maybe conjure up a few coins. Resting on the fifth chair, quietly eavesdropping on the cultists, is the lady's invisible [[5. Mechanics/Bestiary/Fiend/Imp.md\|imp]], [[4. World Almanac/NPCs/Majesto.md\|Majesto]].
 
 The cultists are gathered here in secret and attack the characters to protect their identities. They are evil Vallakians of no great importance who are tired of living in fear and poverty. Use the "Barovian Names" sidebar in chapter 2 to generate names for them, if needed.
 
@@ -1049,44 +1049,44 @@ The pentagram is a nonmagical decoration, though Lady Wachter would have her cul
 > 
 > This large stockyard has several locked sheds along its periphery and lies adjacent to a roomy warehouse. A wooden sign above the front gate reads "Arasek Stockyard."
 > 
-> Parked at the south end of the stockyard is a sturdy carnival wagon, its colorful paint peeling off. Faded lettering on its sides spells out the words "[[4. World Almanac/NPCs/Rictavio (COS).md\|Rictavio]]'s Carnival of Wonders." A heavy padlock secures the back door.
+> Parked at the south end of the stockyard is a sturdy carnival wagon, its colorful paint peeling off. Faded lettering on its sides spells out the words "[[4. World Almanac/NPCs/Rictavio.md\|Rictavio]]'s Carnival of Wonders." A heavy padlock secures the back door.
 ^3ca
 
 The stockyard is a general store and a facility where storage sheds can be rented. It is owned by a middle-aged married couple, Gunther and Yelena Arasek (LG male and female [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoners]]). They sell items from the "Adventuring Gear" table in the "Player's Handbook" that have a price of 25 gp or less, but at five times the price.
 
 #### Rictavio's Carnival Wagon
 
-The colorful half-elf bard [[4. World Almanac/NPCs/Rictavio (COS).md\|Rictavio]] (see area N2 and appendix D) paid Gunther and Yelena a generous amount of gold to watch his carnival wagon, no questions asked. If the characters approach the wagon, read:
+The colorful half-elf bard [[4. World Almanac/NPCs/Rictavio.md\|Rictavio]] (see area N2 and appendix D) paid Gunther and Yelena a generous amount of gold to watch his carnival wagon, no questions asked. If the characters approach the wagon, read:
 
 > [!readaloud] 
 > 
 > The wagon suddenly lurches, as though something big has thrown itself against the inside wall. You hear the cracking of wood, the scraping of metal, and the snarl of something inhuman. Upon closer inspection, you see that the sides of the wagon are spattered with dry blood. You also see an inscription on the wagon's door frame that reads, "I bring you from Shadow into Light!"
 ^3cc
 
-[[4. World Almanac/NPCs/Rictavio (COS).md\|Rictavio]] carries the key to the wagon door. The lock can be picked but is rigged with a poison needle trap (see ""Sample Traps"" in chapter 5, "Adventure Environments," of the "Dungeon Master's Guide").
+[[4. World Almanac/NPCs/Rictavio.md\|Rictavio]] carries the key to the wagon door. The lock can be picked but is rigged with a poison needle trap (see ""Sample Traps"" in chapter 5, "Adventure Environments," of the "Dungeon Master's Guide").
 
 Inside the wagon is a [[5. Mechanics/Bestiary/Beast/Saber Toothed Tiger.md\|saber-toothed tiger]] with 84 hit points. It is clad in specially fitted half plate (AC 17) and has been trained to hunt Strahd's Vistani servants.
 
-The wagon also contains the torn-up remains of a doll. A character who makes a successful DC 10 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check discovers that the doll was once a colorfully dressed Vistani effigy. Stitched into its tattered pants is a slogan: "Is No Fun, Is No Blinsky!"
+The wagon also contains the torn-up remains of a doll. A character who makes a successful DC 10 Intelligence (Investigation) check discovers that the doll was once a colorfully dressed Vistani effigy. Stitched into its tattered pants is a slogan: "Is No Fun, Is No Blinsky!"
 
-[[4. World Almanac/NPCs/Rictavio (COS).md\|Rictavio]] isn't ready to unleash the tiger on the Vistani just yet. He feeds it by dropping wolf steaks down a 1-foot-square hatch in the wagon's roof. A character who climbs atop the wagon can spot the hatch without needing to make an ability check.
+[[4. World Almanac/NPCs/Rictavio.md\|Rictavio]] isn't ready to unleash the tiger on the Vistani just yet. He feeds it by dropping wolf steaks down a 1-foot-square hatch in the wagon's roof. A character who climbs atop the wagon can spot the hatch without needing to make an ability check.
 
-If the tiger is released, it begins stalking through the streets until its keen sense of smell locates either [[4. World Almanac/NPCs/Rictavio (COS).md\|Rictavio]] (area N2) or [[4. World Almanac/NPCs/Piccolo (COS).md\|Piccolo]] (area N7). The tiger doesn't attack anyone who isn't a Vistana except in self-defense. It attacks Vistani on sight. [[4. World Almanac/NPCs/Rictavio (COS).md\|Rictavio]] can make the tiger break off its attack and lure it back into the wagon.
+If the tiger is released, it begins stalking through the streets until its keen sense of smell locates either [[4. World Almanac/NPCs/Rictavio.md\|Rictavio]] (area N2) or [[4. World Almanac/NPCs/Piccolo.md\|Piccolo]] (area N7). The tiger doesn't attack anyone who isn't a Vistana except in self-defense. It attacks Vistani on sight. [[4. World Almanac/NPCs/Rictavio.md\|Rictavio]] can make the tiger break off its attack and lure it back into the wagon.
 
 ![[6. Resources/5e Modules/Curse Of Strahd/img/061-cos05-12.webp#center]]
 
 #### Treasure
 
-The front seat of the wagon conceals a secret compartment that requires a successful DC 15 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check to find and open. The compartment holds several items:
+The front seat of the wagon conceals a secret compartment that requires a successful DC 15 Wisdom (Perception) check to find and open. The compartment holds several items:
 
 - An unlocked wooden coffer containing 50 ep bearing Strahd's profile and six gemstones (worth 100 gp each)  
 - A small prayer book (worth 50 gp) with a green leather cover and indecipherable notes in the margins  
-- A [[5. Mechanics/Items/Healers Kit.md\|healer's kit]]  
-- Three wooden [[5. Mechanics/Items/Holy Symbol.md\|holy symbols]] inlaid with silver and in the shape of a sunburst (worth 50 gp each)  
-- A silvered [[5. Mechanics/Items/Shortsword.md\|shortsword]]  
-- A [[5. Mechanics/Items/Hand Crossbow.md\|hand crossbow]] inlaid with mother-of-pearl (worth 250 gp)  
-- A bundle of twenty silvered [[5. Mechanics/Items/Crossbow Bolts-20.md\|crossbow bolts]]  
-- A worn leather case with gold buckles (worth 100 gp) containing three sharpened wooden stakes, a sack of garlic, a jar of salt, a box of holy wafers, six [[5. Mechanics/Items/Holy Water Flask.md\|vials of holy water]], a polished steel mirror, and a bone scroll tube with a silver stopper and chain (worth 25 gp). The tube contains a [[5. Mechanics/Items/Scroll Of Protection.md\|spell scroll of protection from fiends]] and a [[5. Mechanics/Items/Scroll Of Protection.md\|spell scroll of protection from undead]].  
+- A healer's kit  
+- Three wooden holy symbols inlaid with silver and in the shape of a sunburst (worth 50 gp each)  
+- A silvered shortsword  
+- A hand crossbow inlaid with mother-of-pearl (worth 250 gp)  
+- A bundle of twenty silvered crossbow bolts  
+- A worn leather case with gold buckles (worth 100 gp) containing three sharpened wooden stakes, a sack of garlic, a jar of salt, a box of holy wafers, six vials of holy water, a polished steel mirror, and a bone scroll tube with a silver stopper and chain (worth 25 gp). The tube contains a spell scroll of protection from fiends and a spell scroll of protection from undead.  
 
 #### Fortunes of Ravenloft
 
@@ -1099,11 +1099,11 @@ If your card reading reveals that a treasure is here, it is hidden with the othe
 > This uninviting shop is two stories tall and has a sign shaped like a coffin above the front door. All of the window shutters are closed up tight, and a deathly silence surrounds the establishment.
 ^3d0
 
-[[4. World Almanac/NPCs/Henrik Van Der Voort (COS).md\|Henrik van der Voort]] (LE male human [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoner]]) is a mediocre carpenter and a troubled, lonely man. He profits from the deaths of others, and no one desires his company, because of the ghastly nature of his handiwork. One night several months ago, Strahd visited Henrik in the guise of an imposing, well-dressed nobleman named Vasili von Holtz and promised the coffin maker "good business" in exchange for his help. Since then, Henrik's workshop has become the lair of a pack of vampire spawn—former adventurers who were turned by Strahd. These vampires are lying low for the time being.
+[[4. World Almanac/NPCs/Henrik Van Der Voort.md\|Henrik van der Voort]] (LE male human [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoner]]) is a mediocre carpenter and a troubled, lonely man. He profits from the deaths of others, and no one desires his company, because of the ghastly nature of his handiwork. One night several months ago, Strahd visited Henrik in the guise of an imposing, well-dressed nobleman named Vasili von Holtz and promised the coffin maker "good business" in exchange for his help. Since then, Henrik's workshop has become the lair of a pack of vampire spawn—former adventurers who were turned by Strahd. These vampires are lying low for the time being.
 
 ![[6. Resources/5e Modules/Curse Of Strahd/img/062-cos05-14.webp#center\|Henrik Van Der Voort]]
 
-The vampires plan to attack St. Andral's church (see "St. Andral's Feast" in the "Special Events" section at the end of this chapter). When Henrik learned about the sacred bones buried under the church, the vampire spawn ordered him to steal the bones, which Henrik paid [[4. World Almanac/NPCs/Milivoj (COS).md\|Milivoj]] the gravedigger (see area N1) to do.
+The vampires plan to attack St. Andral's church (see "St. Andral's Feast" in the "Special Events" section at the end of this chapter). When Henrik learned about the sacred bones buried under the church, the vampire spawn ordered him to steal the bones, which Henrik paid [[4. World Almanac/NPCs/Milivoj.md\|Milivoj]] the gravedigger (see area N1) to do.
 
 Every window of Henrik's shop is a latticework of iron fitted with squares of frosted glass and locked from the inside. The outside doors of the shop are barred shut from within. If the characters knock on one of them, Henrik shouts, "We're closed! Go away!" without opening the door. If the characters accuse Henrik of stealing the bones of St. Andral, he shouts again, "Go away! Leave me alone!"
 
@@ -1162,7 +1162,7 @@ Henrik sleeps here, at night and well into the morning. The bookshelf contains a
 
 ##### Treasure
 
-The wardrobe in the southeast corner has a secret compartment in its base, requiring a successful DC 15 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check to find. Inside the compartment are two sacks—a large one containing the bones of St. Andral and a small one containing 30 sp and 12 ep. All of the coins bear the profiled visage of [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]].
+The wardrobe in the southeast corner has a secret compartment in its base, requiring a successful DC 15 Wisdom (Perception) check to find. Inside the compartment are two sacks—a large one containing the bones of St. Andral and a small one containing 30 sp and 12 ep. All of the coins bear the profiled visage of [[4. World Almanac/NPCs/Strahd Von Zarovich.md\|Strahd von Zarovich]].
 
 #### N6f. Vampire Nest
 
@@ -1184,11 +1184,11 @@ Characters who teleport to this location from area K78 in Castle Ravenloft arriv
 > This cramped shop has a dark entrance portico, above which hangs a wooden sign shaped like a rocking horse, with a "B" engraved on both sides. Flanking the entrance are two arched, lead-framed windows. Through the dirty glass, you see jumbled displays of toys and hanging placards bearing the slogan "Is No Fun, Is No Blinsky!"
 ^3e0
 
-Vallaki's toymaker, [[4. World Almanac/NPCs/Gadof Blinsky (COS).md\|Gadof Blinsky]] (CG male human [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoner]]), calls himself "a wizard of tiny wonders," but he has been consumed by despair lately because no one seems to like him or want his toys. His fascination for eerie playthings causes most other locals to avoid him. The burgomaster enables Blinsky to stay in business by giving him a couple of gold pieces a month to make festival decorations.
+Vallaki's toymaker, [[4. World Almanac/NPCs/Gadof Blinsky.md\|Gadof Blinsky]] (CG male human [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoner]]), calls himself "a wizard of tiny wonders," but he has been consumed by despair lately because no one seems to like him or want his toys. His fascination for eerie playthings causes most other locals to avoid him. The burgomaster enables Blinsky to stay in business by giving him a couple of gold pieces a month to make festival decorations.
 
 ![[6. Resources/5e Modules/Curse Of Strahd/img/065-cos05-15.webp#center\|Gadof Blinsky and Piccolo]]
 
-Blinsky is a heavyset man who wears a moth-eaten jester's cap during store hours, more out of habit than to humor visitors. In the past six months, the only paying customer who has set foot in the store is a visitor from a faraway land named [[4. World Almanac/NPCs/Rictavio (COS).md\|Rictavio]] (see area N2), who came in two weeks ago and bought a stuffed Vistana doll. Realizing that the toymaker was lonely, [[4. World Almanac/NPCs/Rictavio (COS).md\|Rictavio]] gave Blinsky his pet monkey, [[4. World Almanac/NPCs/Piccolo (COS).md\|Piccolo]] (use the [[5. Mechanics/Bestiary/Beast/Baboon.md\|baboon]] stat block in the "Monster Manual"). Overjoyed, Blinsky has begun training the monkey to fetch toys from hard-to-reach shelves. The toymaker has also fitted [[4. World Almanac/NPCs/Piccolo (COS).md\|Piccolo]] with a custom-tailored ballerina tutu.
+Blinsky is a heavyset man who wears a moth-eaten jester's cap during store hours, more out of habit than to humor visitors. In the past six months, the only paying customer who has set foot in the store is a visitor from a faraway land named [[4. World Almanac/NPCs/Rictavio.md\|Rictavio]] (see area N2), who came in two weeks ago and bought a stuffed Vistana doll. Realizing that the toymaker was lonely, [[4. World Almanac/NPCs/Rictavio.md\|Rictavio]] gave Blinsky his pet monkey, [[4. World Almanac/NPCs/Piccolo.md\|Piccolo]] (use the [[5. Mechanics/Bestiary/Beast/Baboon.md\|baboon]] stat block in the "Monster Manual"). Overjoyed, Blinsky has begun training the monkey to fetch toys from hard-to-reach shelves. The toymaker has also fitted [[4. World Almanac/NPCs/Piccolo.md\|Piccolo]] with a custom-tailored ballerina tutu.
 
 When he meets new customers, Blinsky recites a well-rehearsed greeting: "Wyelcome, friends, to the House of Blinsky, where hyappiness and smiles can be bought at bargain prices. Perhaps you know a leetle child in need of joy? A leetle toy for a girl or boy?"
 
@@ -1201,12 +1201,12 @@ Blinsky believes the burgomaster is right—that the only way to escape from Bar
 - A set of wooden nesting dolls; the smaller each one gets, the older it gets, until the innermost doll is a mummified corpse (price 9 cp)  
 - A wood-and-string mobile of hanging bats with flapping wings (price 9 cp)  
 - A wind-up musical merry-go-round with figures of snarling wolves chasing children in place of prancing horses (price 9 sp)  
-- A ventriloquist's dummy that looks like [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]] (price 9 sp)  
-- A doll that looks remarkably like [[4. World Almanac/NPCs/Ireena Kolyana (COS).md\|Ireena Kolyana]] (not for sale; see below)  
+- A ventriloquist's dummy that looks like [[4. World Almanac/NPCs/Strahd Von Zarovich.md\|Strahd von Zarovich]] (price 9 sp)  
+- A doll that looks remarkably like [[4. World Almanac/NPCs/Ireena Kolyana.md\|Ireena Kolyana]] (not for sale; see below)  
 
 ##### Ireena Kolyana Dolls
 
-Blinsky makes special dolls for the burgomaster's henchman, [[4. World Almanac/NPCs/Izek Strazni (COS).md\|Izek Strazni]] (see area N3 and appendix D). Izek doesn't pay for the dolls but instead threatens to burn down Blinsky's shop unless the toymaker delivers a new doll every month. Every doll is modeled on a description given to Blinsky by Izek, and each doll has been closer to capturing Ireena's likeness than the last. Blinsky doesn't know that the doll is meant to be modeled after anyone in particular. If Ireena is with the party, however, Blinsky realizes that she is the inspiration for Izek's dolls.
+Blinsky makes special dolls for the burgomaster's henchman, [[4. World Almanac/NPCs/Izek Strazni.md\|Izek Strazni]] (see area N3 and appendix D). Izek doesn't pay for the dolls but instead threatens to burn down Blinsky's shop unless the toymaker delivers a new doll every month. Every doll is modeled on a description given to Blinsky by Izek, and each doll has been closer to capturing Ireena's likeness than the last. Blinsky doesn't know that the doll is meant to be modeled after anyone in particular. If Ireena is with the party, however, Blinsky realizes that she is the inspiration for Izek's dolls.
 
 ##### Von Weerg's Masterpiece
 
@@ -1235,7 +1235,7 @@ Blinsky considers himself a student of a great inventor and toymaker named Fritz
 > —The Baron—
 ^3e5
 
-The Wolf's Head Jamboree has already occurred, making the square's proclamations out of date. If the characters linger, they see the burgomaster's henchman, [[4. World Almanac/NPCs/Izek Strazni (COS).md\|Izek Strazni]] (see appendix D), arrive with two town [[5. Mechanics/Bestiary/Humanoid/Guard.md\|guards]]. Izek orders one guard to tear down all of the old proclamations while the other posts the following new one:
+The Wolf's Head Jamboree has already occurred, making the square's proclamations out of date. If the characters linger, they see the burgomaster's henchman, [[4. World Almanac/NPCs/Izek Strazni.md\|Izek Strazni]] (see appendix D), arrive with two town [[5. Mechanics/Bestiary/Humanoid/Guard.md\|guards]]. Izek orders one guard to tear down all of the old proclamations while the other posts the following new one:
 
 > [!readaloud] 
 > 
@@ -1258,7 +1258,7 @@ Most Vallakians have no idea whom the statue in the square represents. The burgo
 
 #### Donkey-Headed Criminals
 
-The townsfolk in the stocks were arrested for "malicious unhappiness" (spreading negative opinions about the upcoming festival). An iron padlock secures each set of stocks, and [[4. World Almanac/NPCs/Izek Strazni (COS).md\|Izek Strazni]] carries the keys on an iron ring.
+The townsfolk in the stocks were arrested for "malicious unhappiness" (spreading negative opinions about the upcoming festival). An iron padlock secures each set of stocks, and [[4. World Almanac/NPCs/Izek Strazni.md\|Izek Strazni]] carries the keys on an iron ring.
 
 Three men, two women, and two boys are trapped in the stocks—all of them tired, wet, and famished. The five adults have the statistics of human [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoners]], and the children are noncombatants. The plaster donkey heads they wear are meant to encourage ridicule.
 
@@ -1289,15 +1289,15 @@ Use the following information to roleplay the Vistani and the dusk elves that oc
 
 ##### Vistani
 
-The Vistani in this camp all serve Strahd. The elders have died, leaving a pair of brothers named [[4. World Almanac/NPCs/Luvash (COS).md\|Luvash]] and [[4. World Almanac/NPCs/Arrigal (COS).md\|Arrigal]] in charge. Both men are evil and willing to do whatever Strahd demands of them.
+The Vistani in this camp all serve Strahd. The elders have died, leaving a pair of brothers named [[4. World Almanac/NPCs/Luvash.md\|Luvash]] and [[4. World Almanac/NPCs/Arrigal.md\|Arrigal]] in charge. Both men are evil and willing to do whatever Strahd demands of them.
 
-These Vistani have two problems. First, [[4. World Almanac/NPCs/Luvash (COS).md\|Luvash]]'s seven-year-old daughter, [[4. World Almanac/NPCs/Arabelle (COS).md\|Arabelle]], recently disappeared from the camp. Consequently, half of the Vistani are out searching for her when the characters arrive. Second, the Vistani have exhausted their supply of wine and are eager to obtain more. Characters who help them with either problem earn the Vistani's respect.
+These Vistani have two problems. First, [[4. World Almanac/NPCs/Luvash.md\|Luvash]]'s seven-year-old daughter, [[4. World Almanac/NPCs/Arabelle.md\|Arabelle]], recently disappeared from the camp. Consequently, half of the Vistani are out searching for her when the characters arrive. Second, the Vistani have exhausted their supply of wine and are eager to obtain more. Characters who help them with either problem earn the Vistani's respect.
 
 ##### Dusk Elves
 
-The dusk elf race is all but forgotten, and the few survivors live in secret places such as this. They have dark skin and hair, but otherwise they are similar to [[5. Mechanics/Races/Elf Wood.md\|wood elves]] (as described in the "Player's Handbook"). One of Strahd's old brides, [[4. World Almanac/NPCs/Patrina Velikovna (COS).md\|Patrina Velikovna]], used to live here. Her brother, [[4. World Almanac/NPCs/Kasimir Velikov (COS).md\|Kasimir Velikov]], still does.
+The dusk elf race is all but forgotten, and the few survivors live in secret places such as this. They have dark skin and hair, but otherwise they are similar to wood elves (as described in the "Player's Handbook"). One of Strahd's old brides, [[4. World Almanac/NPCs/Patrina Velikovna.md\|Patrina Velikovna]], used to live here. Her brother, [[4. World Almanac/NPCs/Kasimir Velikov.md\|Kasimir Velikov]], still does.
 
-The dusk elves reside in small homes built into the hillside and are mostly self-sufficient. They are skilled trackers, and many of them are away from camp when the characters arrive, helping the Vistani search for [[4. World Almanac/NPCs/Arabelle (COS).md\|Arabelle]]. Strahd has tasked the Vistani with keeping an eye on the dusk elves, and the dusk elves know they aren't safe in Barovia without the Vistani's "protection." Strahd has also forbidden the Vistani from helping the dusk elves escape his domain.
+The dusk elves reside in small homes built into the hillside and are mostly self-sufficient. They are skilled trackers, and many of them are away from camp when the characters arrive, helping the Vistani search for [[4. World Almanac/NPCs/Arabelle.md\|Arabelle]]. Strahd has tasked the Vistani with keeping an eye on the dusk elves, and the dusk elves know they aren't safe in Barovia without the Vistani's "protection." Strahd has also forbidden the Vistani from helping the dusk elves escape his domain.
 
 There are no women or children among the dusk elves. Strahd had all the female dusk elves put to death around four centuries ago as a punishment for Patrina's murder. Thus, the remaining elves can't procreate. A broken people, they are aware of the vampire's absolute hold over the land of Barovia. They keep a low profile and have no desire to incur Strahd's wrath again.
 
@@ -1316,15 +1316,15 @@ If the characters approach the house at the base of the hill on the eastern peri
 
 The cloaked figures are three [[5. Mechanics/Bestiary/Humanoid/Guard.md\|guards]] (N male dusk elves). If the characters seem friendly and are looking for someone to talk to, the guards direct them inside to Kasimir or point them toward the Vistani camp on the hilltop.
 
-[[4. World Almanac/NPCs/Kasimir Velikov (COS).md\|Kasimir Velikov]] (see appendix D) is the leader of the dusk elves. His hovel has a decorated vestibule and a comfortable room beyond with a fireplace. Wooden statuettes of elven deities stand in cubbyholes along one wall. A tapestry of a forest hangs on the opposite wall.
+[[4. World Almanac/NPCs/Kasimir Velikov.md\|Kasimir Velikov]] (see appendix D) is the leader of the dusk elves. His hovel has a decorated vestibule and a comfortable room beyond with a fireplace. Wooden statuettes of elven deities stand in cubbyholes along one wall. A tapestry of a forest hangs on the opposite wall.
 
-Kasimir confesses that he is burdened by dreams sent to him by his dead sister, [[4. World Almanac/NPCs/Patrina Velikovna (COS).md\|Patrina Velikovna]], whose spirit has languished in the catacombs below Castle Ravenloft for centuries. Kasimir believes that Patrina has repented for her many sins, and he yearns not only to free her but also to restore her to life.
+Kasimir confesses that he is burdened by dreams sent to him by his dead sister, [[4. World Almanac/NPCs/Patrina Velikovna.md\|Patrina Velikovna]], whose spirit has languished in the catacombs below Castle Ravenloft for centuries. Kasimir believes that Patrina has repented for her many sins, and he yearns not only to free her but also to restore her to life.
 
 If the characters seem intent on destroying Strahd, Kasimir tells them about the Amber Temple. Without divulging too much of the dreams sent to him by Patrina, Kasimir informs the characters that the secret to breaking Strahd's pact and freeing Barovia from its curse might be hidden there. Kasimir doesn't know whether this claim is true or not, but he states it as a way of persuading the characters to accompany him to the temple; his main objective, he says, is to find something there that he can use to bring Patrina back from the dead.
 
 ##### Treasure
 
-Kasimir wears a [[5. Mechanics/Items/Ring Of Warmth.md\|ring of warmth]] and has a leather-bound spellbook containing all the spells he has prepared (see appendix D) plus the following spells: [[5. Mechanics/Spells/Arcane Lock.md\|arcane lock]], [[5. Mechanics/Spells/Comprehend Languages.md\|comprehend languages]], [[5. Mechanics/Spells/Hold Person.md\|hold person]], [[5. Mechanics/Spells/Identify.md\|identify]], [[5. Mechanics/Spells/Locate Object.md\|locate object]], [[5. Mechanics/Spells/Nondetection.md\|nondetection]], [[5. Mechanics/Spells/Polymorph.md\|polymorph]], [[5. Mechanics/Spells/Protection From Evil And Good.md\|protection from evil and good]], and [[5. Mechanics/Spells/Wall Of Stone.md\|wall of stone]].
+Kasimir wears a ring of warmth and has a leather-bound spellbook containing all the spells he has prepared (see appendix D) plus the following spells: arcane lock, comprehend languages, hold person, identify, locate object, nondetection, polymorph, protection from evil and good, and wall of stone.
 
 #### Fortunes of Ravenloft
 
@@ -1341,7 +1341,7 @@ Six simple houses ring the base of the hill, three protruding from the north sid
 
 The cloaked figure is a [[5. Mechanics/Bestiary/Humanoid/Guard.md\|guard]] (N male dusk elf). If the characters appear friendly and are looking for someone to talk to, the guard directs them to Kasimir's hovel (area N9a). Under no circumstances does the guard willingly allow strangers to enter the house he protects.
 
-Each hovel is configured similarly to Kasimir's hovel. All are currently unoccupied. (Except for the nine guards left behind to watch the homes, the dusk elves are out searching for [[4. World Almanac/NPCs/Arabelle (COS).md\|Arabelle]].)
+Each hovel is configured similarly to Kasimir's hovel. All are currently unoccupied. (Except for the nine guards left behind to watch the homes, the dusk elves are out searching for [[4. World Almanac/NPCs/Arabelle.md\|Arabelle]].)
 
 #### N9c. Vistani Tent
 
@@ -1350,27 +1350,27 @@ Each hovel is configured similarly to Kasimir's hovel. All are currently unoccup
 > Piled outside the wagon are several empty casks of wine. From inside the tent comes the crack of a whip followed by the howls of a young man. Three sputtering campfires fill the tent with smoke, and through the haze you see six Vistani passed out in various places on the dead grass. A barely conscious and shirtless teenager hugs the central tent pole, his wrists bound with rope and his back streaked with blood. An older, larger man in studded leather armor lashes the young man with a horsewhip, causing him to scream again. Standing in the bigger man's shadow is a third man also clad in studded leather. "Easy, brother," he says to the whip-wielding brute. "I think Alexei has learned his lesson."
 ^3f4
 
-The two men in studded leather armor are the leaders of the Vistani camp—the brothers [[4. World Almanac/NPCs/Luvash (COS).md\|Luvash]] (CE male human [[5. Mechanics/Bestiary/Humanoid/Vistana Bandit Captain (COS).md\|bandit captain]]) and [[4. World Almanac/NPCs/Arrigal (COS).md\|Arrigal]] (NE male human [[5. Mechanics/Bestiary/Humanoid/Assassin.md\|assassin]]). If you used the "Plea for Help" adventure hook, the characters have already met [[4. World Almanac/NPCs/Arrigal (COS).md\|Arrigal]]. [[4. World Almanac/NPCs/Luvash (COS).md\|Luvash]] is the older of the two and the brother whom the other Vistani fear most. Each brother carries a key that unlocks one of the padlocks of the treasure wagon (area N9i).
+The two men in studded leather armor are the leaders of the Vistani camp—the brothers [[4. World Almanac/NPCs/Luvash.md\|Luvash]] (CE male human [[5. Mechanics/Bestiary/Humanoid/Vistana Bandit Captain (COS).md\|bandit captain]]) and [[4. World Almanac/NPCs/Arrigal.md\|Arrigal]] (NE male human [[5. Mechanics/Bestiary/Humanoid/Assassin.md\|assassin]]). If you used the "Plea for Help" adventure hook, the characters have already met [[4. World Almanac/NPCs/Arrigal.md\|Arrigal]]. [[4. World Almanac/NPCs/Luvash.md\|Luvash]] is the older of the two and the brother whom the other Vistani fear most. Each brother carries a key that unlocks one of the padlocks of the treasure wagon (area N9i).
 
-[[4. World Almanac/NPCs/Luvash (COS).md\|Luvash]] is punishing a Vistana named Alexei (CN male human [[5. Mechanics/Bestiary/Humanoid/Vistana Bandit (COS).md\|bandit]] with 3 hit points remaining) for failing to keep a watchful eye on his daughter. The characters' arrival distracts [[4. World Almanac/NPCs/Luvash (COS).md\|Luvash]], and he forgets about Alexei long enough to play the role of host—until such time as the characters become tiresome or threatening. Alexei blames himself for not watching the little brat more closely and has accepted his punishment. If the characters try to rescue him, he screams at them to stop, not wanting to appear weak in front of [[4. World Almanac/NPCs/Luvash (COS).md\|Luvash]] and [[4. World Almanac/NPCs/Arrigal (COS).md\|Arrigal]].
+[[4. World Almanac/NPCs/Luvash.md\|Luvash]] is punishing a Vistana named Alexei (CN male human [[5. Mechanics/Bestiary/Humanoid/Vistana Bandit (COS).md\|bandit]] with 3 hit points remaining) for failing to keep a watchful eye on his daughter. The characters' arrival distracts [[4. World Almanac/NPCs/Luvash.md\|Luvash]], and he forgets about Alexei long enough to play the role of host—until such time as the characters become tiresome or threatening. Alexei blames himself for not watching the little brat more closely and has accepted his punishment. If the characters try to rescue him, he screams at them to stop, not wanting to appear weak in front of [[4. World Almanac/NPCs/Luvash.md\|Luvash]] and [[4. World Almanac/NPCs/Arrigal.md\|Arrigal]].
 
-In addition to [[4. World Almanac/NPCs/Luvash (COS).md\|Luvash]], [[4. World Almanac/NPCs/Arrigal (COS).md\|Arrigal]], and Alexei, there are six intoxicated Vistani (CN male and female human [[5. Mechanics/Bestiary/Humanoid/Vistana Bandit (COS).md\|bandits]]) lying [[/5. Mechanics/Rules/Conditions.md#unconscious\|unconscious]] in the tent. A drunk Vistana awakens only if the Vistana takes 5 damage or more and has at least 1 hit point remaining afterward.
+In addition to [[4. World Almanac/NPCs/Luvash.md\|Luvash]], [[4. World Almanac/NPCs/Arrigal.md\|Arrigal]], and Alexei, there are six intoxicated Vistani (CN male and female human [[5. Mechanics/Bestiary/Humanoid/Vistana Bandit (COS).md\|bandits]]) lying unconscious in the tent. A drunk Vistana awakens only if the Vistana takes 5 damage or more and has at least 1 hit point remaining afterward.
 
 ##### Dealing with Luvash
 
-[[4. World Almanac/NPCs/Luvash (COS).md\|Luvash]] is unhappy because his seven-year-old daughter, [[4. World Almanac/NPCs/Arabelle (COS).md\|Arabelle]], has vanished. She's been gone for a little more than a day. Because everyone in the camp was drunk and [[4. World Almanac/NPCs/Arrigal (COS).md\|Arrigal]] was away, no one remembers seeing or hearing anything strange. [[4. World Almanac/NPCs/Luvash (COS).md\|Luvash]] is determined to find her, no matter what the cost, and most of his camp is out scouring the woods when the characters arrive. (Missing from the camp are twelve [[5. Mechanics/Bestiary/Humanoid/Vistana Bandit (COS).md\|bandits]]. Each hour that passes, `dice: 1d4|avg` (`1d4`) of them return to camp with no news on [[4. World Almanac/NPCs/Arabelle (COS).md\|Arabelle]]'s whereabouts.)
+[[4. World Almanac/NPCs/Luvash.md\|Luvash]] is unhappy because his seven-year-old daughter, [[4. World Almanac/NPCs/Arabelle.md\|Arabelle]], has vanished. She's been gone for a little more than a day. Because everyone in the camp was drunk and [[4. World Almanac/NPCs/Arrigal.md\|Arrigal]] was away, no one remembers seeing or hearing anything strange. [[4. World Almanac/NPCs/Luvash.md\|Luvash]] is determined to find her, no matter what the cost, and most of his camp is out scouring the woods when the characters arrive. (Missing from the camp are twelve [[5. Mechanics/Bestiary/Humanoid/Vistana Bandit (COS).md\|bandits]]. Each hour that passes, `dice: 1d4|avg` (`1d4`) of them return to camp with no news on [[4. World Almanac/NPCs/Arabelle.md\|Arabelle]]'s whereabouts.)
 
 If an alarm is sounded, nine Vistani [[5. Mechanics/Bestiary/Humanoid/Vistana Bandit (COS).md\|bandits]] (NE male and female humans) emerge from three of the surrounding wagons (area N9g) and arrive at the tent with weapons drawn in 2 rounds.
 
-[[4. World Almanac/NPCs/Luvash (COS).md\|Luvash]] won't meddle in the characters' affairs without Strahd's consent, and he is quite content to let the vampire deal with them. For a hefty price, he offers to sell the characters potions that allow safe passage through the deadly fog that surrounds the valley; he keeps them in the treasure wagon (area N9i). The potions don't work, of course.
+[[4. World Almanac/NPCs/Luvash.md\|Luvash]] won't meddle in the characters' affairs without Strahd's consent, and he is quite content to let the vampire deal with them. For a hefty price, he offers to sell the characters potions that allow safe passage through the deadly fog that surrounds the valley; he keeps them in the treasure wagon (area N9i). The potions don't work, of course.
 
-If the characters rescue [[4. World Almanac/NPCs/Arabelle (COS).md\|Arabelle]] from Lake Zarovich (chapter 2, area L) and see her safely returned to camp, [[4. World Almanac/NPCs/Luvash (COS).md\|Luvash]] is overjoyed and offers to repay the favor. He doesn't sell them the fake potions. ("Um, they aren't as potent as they could be.") Instead, he lets them choose a treasure from the Vistani treasure wagon (area N9i).
+If the characters rescue [[4. World Almanac/NPCs/Arabelle.md\|Arabelle]] from Lake Zarovich (chapter 2, area L) and see her safely returned to camp, [[4. World Almanac/NPCs/Luvash.md\|Luvash]] is overjoyed and offers to repay the favor. He doesn't sell them the fake potions. ("Um, they aren't as potent as they could be.") Instead, he lets them choose a treasure from the Vistani treasure wagon (area N9i).
 
-If the characters ask something of the Vistani but have not earned [[4. World Almanac/NPCs/Luvash (COS).md\|Luvash]]'s goodwill, he agrees to do business with them if they accomplish one of two tasks: either find his missing daughter or procure six barrels of wine and bring them to the camp. [[4. World Almanac/NPCs/Luvash (COS).md\|Luvash]] suggests they can get the wine in Vallaki, or go straight to the source—the Wizard of Wines winery. He isn't picky when it comes to the quality of the wine.
+If the characters ask something of the Vistani but have not earned [[4. World Almanac/NPCs/Luvash.md\|Luvash]]'s goodwill, he agrees to do business with them if they accomplish one of two tasks: either find his missing daughter or procure six barrels of wine and bring them to the camp. [[4. World Almanac/NPCs/Luvash.md\|Luvash]] suggests they can get the wine in Vallaki, or go straight to the source—the Wizard of Wines winery. He isn't picky when it comes to the quality of the wine.
 
 ##### Dealing with Arrigal
 
-[[4. World Almanac/NPCs/Arrigal (COS).md\|Arrigal]] is a much more dangerous creature than his brute of a brother. If the characters have something in their possession that is either useful or harmful to Strahd and [[4. World Almanac/NPCs/Arrigal (COS).md\|Arrigal]] becomes aware of it, he tries to deprive the characters of this item, stalking them if necessary and going as far as to kill one or more of them if he thinks he can escape with the item in his possession. If he succeeds, he takes one of the riding horses (area N9d) and delivers the item to Strahd at Castle Ravenloft.
+[[4. World Almanac/NPCs/Arrigal.md\|Arrigal]] is a much more dangerous creature than his brute of a brother. If the characters have something in their possession that is either useful or harmful to Strahd and [[4. World Almanac/NPCs/Arrigal.md\|Arrigal]] becomes aware of it, he tries to deprive the characters of this item, stalking them if necessary and going as far as to kill one or more of them if he thinks he can escape with the item in his possession. If he succeeds, he takes one of the riding horses (area N9d) and delivers the item to Strahd at Castle Ravenloft.
 
 #### N9d. Horses
 
@@ -1388,7 +1388,7 @@ Twenty-four [[5. Mechanics/Bestiary/Beast/Draft Horse.md\|draft horses]] and six
 > This barrel-topped wagon is nicer that the others. Drapes of golden silk hang in the windows, and the wheels have gold, sun-shaped hubcaps. An iron chimney pipe protrudes from the roof.
 ^3fa
 
-[[4. World Almanac/NPCs/Luvash (COS).md\|Luvash]]'s wagon is a mess inside. Empty wineskins, dirty clothes, and mangy furs are strewn about. A small hammock strung across the width of the wagon under the driver's seat serves as [[4. World Almanac/NPCs/Arabelle (COS).md\|Arabelle]]'s bed. A burlap doll with button eyes lies in the hammock; [[4. World Almanac/NPCs/Arabelle (COS).md\|Arabelle]] has no other possessions.
+[[4. World Almanac/NPCs/Luvash.md\|Luvash]]'s wagon is a mess inside. Empty wineskins, dirty clothes, and mangy furs are strewn about. A small hammock strung across the width of the wagon under the driver's seat serves as [[4. World Almanac/NPCs/Arabelle.md\|Arabelle]]'s bed. A burlap doll with button eyes lies in the hammock; [[4. World Almanac/NPCs/Arabelle.md\|Arabelle]] has no other possessions.
 
 A small iron stove in the middle of the wagon keeps the interior warm.
 
@@ -1436,7 +1436,7 @@ Each of these wagons contains one Vistani adult (male or female human [[5. Mecha
 > Two iron padlocks secure the door of this barrel-topped wagon.
 ^403
 
-The Vistani keep all their treasure in this wagon. The door to the wagon has two locks, each of which requires a different key. [[4. World Almanac/NPCs/Luvash (COS).md\|Luvash]] carries one key, [[4. World Almanac/NPCs/Arrigal (COS).md\|Arrigal]] the other. Each lock is rigged with a poison needle trap (see ""Sample Traps"" in chapter 5, "Adventure Environments," of the "Dungeon Master's Guide").
+The Vistani keep all their treasure in this wagon. The door to the wagon has two locks, each of which requires a different key. [[4. World Almanac/NPCs/Luvash.md\|Luvash]] carries one key, [[4. World Almanac/NPCs/Arrigal.md\|Arrigal]] the other. Each lock is rigged with a poison needle trap (see ""Sample Traps"" in chapter 5, "Adventure Environments," of the "Dungeon Master's Guide").
 
 ##### Treasure
 
@@ -1444,7 +1444,7 @@ The wagon contains the following items:
 
 - A wooden chest containing 1,200 ep (each coin stamped with the profiled visage of Strahd)  
 - An iron chest containing 650 gp  
-- An onyx jewelry box with gold filigree (worth 250 gp) containing six pieces of cheap jewelry (worth 50 gp each) and a [[5. Mechanics/Items/Potion Of Poison.md\|potion of poison]] in an unlabeled crystal vial (worth 100 gp)  
+- An onyx jewelry box with gold filigree (worth 250 gp) containing six pieces of cheap jewelry (worth 50 gp each) and a potion of poison in an unlabeled crystal vial (worth 100 gp)  
 - A wooden throne with gold inlay and decorative stones (worth 750 gp)  
 - A rolled-up 10-foot-square rug with an exquisite unicorn motif (worth 750 gp)  
 - A small wooden box containing twelve fake potions in stoppered gourds (the Vistani sell these nonmagical elixirs to naive strangers, claiming that they protect against the deadly fog surrounding Barovia)  
@@ -1480,19 +1480,19 @@ If the guards fail in their duty, the burgomaster retreats to his mansion and th
 
 ### Tyger, Tyger
 
-Karl and [[4. World Almanac/NPCs/Nikolai Wachter (COS).md\|Nikolai Wachter]] (see areas N2 and N4) are young, foolish men from a proud noble family. The drunken brothers sneak into Arasek's Stockyard (area N5) while everyone else is attending the festival in the town square. On a dare, one of them rocks the wagon. The saber-toothed tiger locked inside becomes enraged and smashes through the wagon door. The characters and everyone else in town hear the screams of the young men as the tiger escapes. The tiger flees the stockyard without harming the Wachters and begins to prowl the streets, looking for an escape. Reports of a tiger running loose in the streets ruin the festival and send townsfolk scurrying for their homes.
+Karl and [[4. World Almanac/NPCs/Nikolai Wachter.md\|Nikolai Wachter]] (see areas N2 and N4) are young, foolish men from a proud noble family. The drunken brothers sneak into Arasek's Stockyard (area N5) while everyone else is attending the festival in the town square. On a dare, one of them rocks the wagon. The saber-toothed tiger locked inside becomes enraged and smashes through the wagon door. The characters and everyone else in town hear the screams of the young men as the tiger escapes. The tiger flees the stockyard without harming the Wachters and begins to prowl the streets, looking for an escape. Reports of a tiger running loose in the streets ruin the festival and send townsfolk scurrying for their homes.
 
-The saber-toothed tiger doesn't harm anyone until it takes damage, whereupon it attacks the perceived source of the damage. If he is still alive, [[4. World Almanac/NPCs/Izek Strazni (COS).md\|Izek Strazni]] gathers six town guards and hunts down the beast with the intention of killing it. Meanwhile, [[4. World Almanac/NPCs/Rictavio (COS).md\|Rictavio]] does his best to lure the beast back to his wagon while assuring townsfolk that it won't harm them.
+The saber-toothed tiger doesn't harm anyone until it takes damage, whereupon it attacks the perceived source of the damage. If he is still alive, [[4. World Almanac/NPCs/Izek Strazni.md\|Izek Strazni]] gathers six town guards and hunts down the beast with the intention of killing it. Meanwhile, [[4. World Almanac/NPCs/Rictavio.md\|Rictavio]] does his best to lure the beast back to his wagon while assuring townsfolk that it won't harm them.
 
 #### Development
 
 If he's still in power, the burgomaster conducts an investigation to find out where the tiger came from. Guards and local witnesses are questioned. The Wachter boys feign innocence, insisting that they were at the festival, but Gunther and Yelena Arasek (area N5) admit to hearing "evil growls" and scratching sounds coming from inside the carnival wagon parked in their stockyard. When pressed, the Araseks admit to seeing the wagon's "weird owner" routinely drop food into the wagon through a hatch in the roof. They also confess that the half-elf paid them for their silence.
 
-After the burgomaster learns that the tiger belongs to [[4. World Almanac/NPCs/Rictavio (COS).md\|Rictavio]], he commands his guards to arrest the mysterious bard. If [[4. World Almanac/NPCs/Rictavio (COS).md\|Rictavio]] thinks the characters can help him, he asks them to distract the burgomaster and the guards while he gathers his horse, wagon, and tiger (in that order). If the characters ask [[4. World Almanac/NPCs/Rictavio (COS).md\|Rictavio]] where he plans to go, he tells them about an old tower to the west where he can lie low (see chapter 11, "Van Richten's Tower").
+After the burgomaster learns that the tiger belongs to [[4. World Almanac/NPCs/Rictavio.md\|Rictavio]], he commands his guards to arrest the mysterious bard. If [[4. World Almanac/NPCs/Rictavio.md\|Rictavio]] thinks the characters can help him, he asks them to distract the burgomaster and the guards while he gathers his horse, wagon, and tiger (in that order). If the characters ask [[4. World Almanac/NPCs/Rictavio.md\|Rictavio]] where he plans to go, he tells them about an old tower to the west where he can lie low (see chapter 11, "Van Richten's Tower").
 
 ### Lady Wachter's Wish
 
-Ernst Larnak (see area N4) begins shadowing the characters. Characters who have a passive Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) score of 14 or higher notice him doing so. If they confront him, he claims that he keeps a watchful eye on all strangers, though he doesn't mention the name of his employer. If the characters threaten him, he backs off and reports to Lady Wachter after he believes he's not being watched or pursued.
+Ernst Larnak (see area N4) begins shadowing the characters. Characters who have a passive Wisdom (Perception) score of 14 or higher notice him doing so. If they confront him, he claims that he keeps a watchful eye on all strangers, though he doesn't mention the name of his employer. If the characters threaten him, he backs off and reports to Lady Wachter after he believes he's not being watched or pursued.
 
 Lady Wachter is looking for powerful allies to help her oust the burgomaster. If Ernst tells her that he thinks the characters fit the bill, Lady Wachter has Ernst or her sons invite the characters to a private dinner at Wachterhaus. During the dinner, Lady Wachter determines whether the characters have the ability and the resolve to crush the baron.
 
@@ -1502,22 +1502,22 @@ If the characters refuse her invitation, or if they profess to be enemies of Str
 
 Once she determines that the characters are her enemies, Lady Wachter hands Ernst a bag of 100 gp (taken from area N4q) and instructs him to deliver it to the Vistani camp outside town (area N9), along with a letter from her that asks the Vistani to dispose of the characters once they have left town. The Vistani burn the letter after reading it, as per Lady Wachter's request.
 
-If the characters have rescued [[4. World Almanac/NPCs/Arabelle (COS).md\|Arabelle]] (see chapter 2, area L), the Vistani return Lady Wachter's gold to Ernst and do nothing.
+If the characters have rescued [[4. World Almanac/NPCs/Arabelle.md\|Arabelle]] (see chapter 2, area L), the Vistani return Lady Wachter's gold to Ernst and do nothing.
 
-Otherwise, a [[5. Mechanics/Bestiary/Humanoid/Vistana Bandit (COS).md\|Vistana bandit]] watches the road east of Vallaki and reports back to camp if the characters are sighted leaving. The Vistani, worried that the characters might be more than a match for them, send one emissary on horseback to race ahead of the characters and inform Strahd. If [[4. World Almanac/NPCs/Arrigal (COS).md\|Arrigal]] is alive, he makes the ride himself. Otherwise, the rider is a young [[5. Mechanics/Bestiary/Humanoid/Vistana Bandit (COS).md\|Vistana bandit]] named Alexei (see area N9c).
+Otherwise, a [[5. Mechanics/Bestiary/Humanoid/Vistana Bandit (COS).md\|Vistana bandit]] watches the road east of Vallaki and reports back to camp if the characters are sighted leaving. The Vistani, worried that the characters might be more than a match for them, send one emissary on horseback to race ahead of the characters and inform Strahd. If [[4. World Almanac/NPCs/Arrigal.md\|Arrigal]] is alive, he makes the ride himself. Otherwise, the rider is a young [[5. Mechanics/Bestiary/Humanoid/Vistana Bandit (COS).md\|Vistana bandit]] named Alexei (see area N9c).
 
 ### St. Andral's Feast
 
-The characters can prevent this special event from occurring by returning the bones of St. Andral to the church (area N1) or by destroying the vampire spawn hiding in the coffin maker's shop (area N6). If the characters stay in Vallaki for three days or more and don't retrieve the bones or destroy the vampire spawn, [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd]] visits the coffin maker's shop the following evening and orchestrates an attack on the church.
+The characters can prevent this special event from occurring by returning the bones of St. Andral to the church (area N1) or by destroying the vampire spawn hiding in the coffin maker's shop (area N6). If the characters stay in Vallaki for three days or more and don't retrieve the bones or destroy the vampire spawn, [[4. World Almanac/NPCs/Strahd Von Zarovich.md\|Strahd]] visits the coffin maker's shop the following evening and orchestrates an attack on the church.
 
 The vampire spawn begin the attack that night. They cling to the outer walls and roof of St. Andral's church while four [[5. Mechanics/Bestiary/Beast/Swarm Of Bats.md\|swarms of bats]] enter the church through the belfry and terrify the congregation. As the townsfolk flee the church, the vampire spawn leap down and attack them.
 
 During the chaos, Strahd enters the church in bat form, then reverts to vampire form and attacks Father Lucian. Unless the characters intervene, Strahd kills the priest before returning to Castle Ravenloft.
 
-If Father Lucian dies, locals bury his body in the church cemetery, whereupon it rises the following night as a [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md\|vampire spawn]] under Strahd's control. If [[4. World Almanac/NPCs/Rictavio (COS).md\|Rictavio]] (area N2) learns of the priest's death, he suggests that the characters burn the priest's body to ensure that it doesn't rise from the dead.
+If Father Lucian dies, locals bury his body in the church cemetery, whereupon it rises the following night as a [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md\|vampire spawn]] under Strahd's control. If [[4. World Almanac/NPCs/Rictavio.md\|Rictavio]] (area N2) learns of the priest's death, he suggests that the characters burn the priest's body to ensure that it doesn't rise from the dead.
 
 #### Development
 
-The attack on St. Andral's church terrorizes and demoralizes the town. After a few days, fear turns to misdirected rage as townsfolk blame the burgomaster. Baron Vallakovich's "All will be well!" mantra can't protect him from their wrath. Barring intervention by the characters, the burgomaster's mansion is set ablaze, and the baron, his wife, and his son are dragged to the town square, thrown in the stocks, and stoned to death. If he is alive, [[4. World Almanac/NPCs/Izek Strazni (COS).md\|Izek Strazni]] flees the town to avoid a similar fate. Where he hides is up to you, but likely locations include Old Bonegrinder (chapter 6), Argynvostholt (chapter 7), or the ruins of Berez (chapter 10).
+The attack on St. Andral's church terrorizes and demoralizes the town. After a few days, fear turns to misdirected rage as townsfolk blame the burgomaster. Baron Vallakovich's "All will be well!" mantra can't protect him from their wrath. Barring intervention by the characters, the burgomaster's mansion is set ablaze, and the baron, his wife, and his son are dragged to the town square, thrown in the stocks, and stoned to death. If he is alive, [[4. World Almanac/NPCs/Izek Strazni.md\|Izek Strazni]] flees the town to avoid a similar fate. Where he hides is up to you, but likely locations include Old Bonegrinder (chapter 6), Argynvostholt (chapter 7), or the ruins of Berez (chapter 10).
 
 If the characters thwart the attack on the church and protect Father Lucian, Strahd pays a visit to Wachterhaus (area N4) and there composes a letter, which he asks Lady Wachter to deliver to the characters. The letter is written in Strahd's hand and extends an invitation to the characters to come to Castle Ravenloft. Lady Wachter orders her spy, Ernst Larnak, or one of her sons to take the letter to the characters. If the characters open and read it, show the players "Strahd's Invitation" in appendix F. If the characters head toward the castle, they have no threatening random encounters on the way.

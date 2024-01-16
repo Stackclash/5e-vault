@@ -17,7 +17,7 @@ aliases:
 - **Damage**:
   - One-handed: 1d6 B
   - Two-handed: 1d8 B
-- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
+- **Properties**: Versatile
 - **Weight**: 4.0 lbs.
 
 Made from the branch of a Gulthias tree (see the [[5. Mechanics/Bestiary/Plant/Twig Blight.md\|blights]] entry of the Monster Manual), a Gulthias staff is a spongy, black length of wood. Its evil makes beasts visibly uncomfortable while within 30 feet of it. The staff has 10 charges and regains `dice: 1d6 + 4|avg` (`1d6 + 4`) of its expended charges daily at dusk.
@@ -26,7 +26,7 @@ If the staff is broken or burned to ashes, its wood releases a terrible, inhuman
 
 ## Vampiric Strike
 
-The staff can be wielded as a magic quarterstaff. On a hit, it deals damage as a normal quarterstaff, and you can expend 1 charge to regain a number of hit points equal to the damage dealt by the weapon. Each time a charge is spent, red blood oozes from the staff's pores, and you must succeed on a DC 12 Wisdom saving throw or be afflicted with [[5. Mechanics/Tables/Short Term Madness.md\|short term madness]] (see "[[/5. Mechanics/Rules/Variant Rules/Madness.md\|Madness]]" in chapter 8 of the Dungeon Master's Guide).
+The staff can be wielded as a magic quarterstaff. On a hit, it deals damage as a normal quarterstaff, and you can expend 1 charge to regain a number of hit points equal to the damage dealt by the weapon. Each time a charge is spent, red blood oozes from the staff's pores, and you must succeed on a DC 12 Wisdom saving throw or be afflicted with short term madness (see "Madness|DMG from Dungeon Master's Guide" in chapter 8 of the Dungeon Master's Guide).
 
 ## Blight Bane
 

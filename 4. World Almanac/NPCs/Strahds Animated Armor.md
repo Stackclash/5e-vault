@@ -1,71 +1,139 @@
 ---
 obsidianUIMode: preview
+statblock: inline
 pronounced: 
 race: 
-sex: 
+sex: male
 age: 
 alignment: 
 condition: healthy
 occupation: 
 group: 
-religion: 
+religions: 
 location: 
-personality: 
+personality: ""
 ideal: 
 bond: 
 flaw: 
 goals: 
 likes: 
-dislikes:
+dislikes: 
+tags:
+- compendium/src/5e/cos
+- monster/cr/6
+- monster/size/medium
+- monster/type/construct
+aliases: ["Strahd's Animated Armor"]
 ---
 
 > [!infobox]
 > # `=this.file.name`
-> **Pronounced:**  "`=this.pronounced`"
-> ![[4. World Almanac/NPCs/img/strahds-animated-armor.webp|cover hm-sm]] 
+> **Pronounced:**  "`INPUT[text:pronounced]`"
+> ![[compendium/bestiary/npc/img/strahds-animated-armor.webp|cover hm-sm]] 
 > ###### Bio
 >  |
-> ---|---|
-> **Race** | `=this.race` |
-> **Sex** | `=this.gender` |
-> **Age** | `=this.age` |
-> **Sexuality** | `=this.sexuality` |
-> **Alignment** | `=this.alignment` |
-> **Condition** | `=this.condition` |
+>  ---|---|
+> **Race** | `INPUT[suggester(optionQuery("5. Mechanics/Races")):race]` |
+> **Sex** | `INPUT[inlineSelect(option(male),option(female)):sex]` |
+> **Age** | `INPUT[number:age]` |
+> **Alignment** | `INPUT[inlineSelect(option(lawful good),option(neutral good),option(chaotic good),option(lawful neutral),option(neutral),option(chaotic neutral),option(lawful evil),option(netural evil),option(chaotic evil)):alignment]` |
+> **Condition** | `INPUT[inlineSelect(option(healthy),option(injured),option(dead)):condition]` |
 > ###### Info
 >  |
-> ---|---|
-> **Alias(es)** | `=this.alias` |
-> **Occupation(s)** | `=this.occupation` |
-> **Group(s)** | `=link(this.AssociatedGroup)` |
-> **Religion(s)** | `=link(this.AssociatedReligion)` |
-> **Current Location** | `=link(this.location)` |
+>  ---|---|
+> **Alias(es)** | `INPUT[inlineList:aliases]` |
+> **Occupation(s)** | `INPUT[inlineList:occupation]` |
+> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Religion(s)** | `INPUT[inlineList:religions]` |
+> **Current Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 # **`=this.file.name`**
 > [!info|bg-c-purple]- Overview
-TBD
+The armor that Strahd wore into battle when he was alive lives on today as a headless, animated suit of plate armor. The armor is painted burgundy and adorned with golden angelic motifs.
+
+## Thing of Evil
+
+Strahd imbued his automaton with a sliver of his being, bequeathing unto his armor a malevolence not found in most animated objects. He also fortified his armor and placed a number of permanent spell effects on it to make the armor a better castle defender.
+
+The armor understands Common but obeys only the commands of its master.
 
 > [!column] Traits
 >> [!metadata|text-Center bg-c-gray] Personality
->> `=this.personality`
+>> `INPUT[text:personality]`
 >
 >> [!metadata|text-Center bg-c-gray] Ideal
->> `=this.ideal`
+>> `INPUT[text:ideal]`
 >
 >> [!metadata|text-Center bg-c-gray] Bond
->> `=this.Bond`
+>> `INPUT[text:bond]`
 >
 >> [!metadata|text-Center bg-c-gray] Flaw
->> `=this.flaw`
+>> `INPUT[text:flaw]`
 >
 >> [!metadata|text-Center bg-c-green] Likes
->> `=this.likes`
+>> `INPUT[text:likes]`
 >
 >> [!metadata|text-Center bg-c-red] Dislikes
->> `=this.dislikes`
+>> `INPUT[text:dislikes]`
 
 > [!column|dataview] Goals
->> `=this.goals`
+>> `INPUT[textArea:goals]`
+
+## Stats
+```statblock
+"name": "Strahd's Animated Armor (CoS)"
+"size": "Medium"
+"type": "construct"
+"alignment": "Lawful Evil"
+"ac": !!int "21"
+"hp": !!int "112"
+"hit_dice": "15d8 + 45"
+"stats":
+- !!int "17"
+- !!int "13"
+- !!int "16"
+- !!int "9"
+- !!int "10"
+- !!int "9"
+"speed": "30 ft."
+"skillsaves":
+  "Perception": !!int "3"
+"damage_resistances": "cold, fire"
+"damage_immunities": "lightning, poison"
+"condition_immunities": "blinded, charmed, deafened, exhaustion, frightened, paralyzed,\
+  \ petrified, poisoned"
+"senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 13"
+"languages": "understands Common but can't speak"
+"cr": "6"
+"traits":
+- "desc": "An animated object doesn't require air, food, drink, or sleep.\n\nThe magic\
+    \ that animates an object is dispelled when the construct drops to 0 hit points.\
+    \ An animated object reduced to 0 hit points becomes inanimate and is too damaged\
+    \ to be of much use or value to anyone."
+  "name": "Constructed Nature"
+- "desc": "The armor is incapacitated while in the area of an antimagic field. If\
+    \ targeted by dispel magic, the armor must succeed on a Constitution saving throw\
+    \ against the caster's spell save DC or fall unconscious for 1 minute."
+  "name": "Antimagic Susceptibility"
+- "desc": "While the armor remains motionless, it is indistinguishable from a normal\
+    \ suit of armor."
+  "name": "False Appearance"
+"actions":
+- "desc": "The armor makes two melee attacks or uses Shocking Bolt twice."
+  "name": "Multiattack"
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) slashing damage plus dice: 1d6|avg\
+    \ (1d6) lightning damage."
+  "name": "Greatsword"
+- "desc": "Ranged Spell Attack: dice: d20+4 (+4 to hit) (with advantage on the\
+    \ attack roll if the target is wearing armor made of metal), range 60 ft., one\
+    \ target. Hit: dice: 3d6|avg (3d6) lightning damage."
+  "name": "Shocking Bolt"
+"source":
+- "CoS"
+"image": "compendium/bestiary/npc/token/strahds-animated-armor.png"
+```
+^statblock
 
 ## Acquaintances
 > [!column|dataview] Acquaintances

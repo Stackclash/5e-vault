@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Riding Horse"]
 ---
-# [[5. Mechanics\Bestiary\Beast\Riding Horse.md|Riding Horse]]
+# [[5. Mechanics/Bestiary/Beast/Riding Horse.md|Riding Horse]]
 *Source: Monster Manual p. 336, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -49,6 +49,8 @@ aliases: ["Riding Horse"]
 - "CRCotN"
 - "JttRC"
 - "KftGV"
+- "GHLoE"
+- "DoDk"
 "image": "compendium/bestiary/beast/token/riding-horse.png"
 ```
 ^statblock

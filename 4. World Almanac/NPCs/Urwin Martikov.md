@@ -1,44 +1,51 @@
 ---
 obsidianUIMode: preview
+statblock: inline
 pronounced: 
 race: 
-sex: 
+sex: male
 age: 
 alignment: 
 condition: healthy
 occupation: 
 group: 
-religion: 
+religions: 
 location: 
-personality: 
+personality: ""
 ideal: 
 bond: 
 flaw: 
 goals: 
 likes: 
-dislikes:
+dislikes: 
+tags:
+- compendium/src/5e/cos
+- monster/cr/2
+- monster/size/medium
+- monster/type/humanoid/human
+- monster/type/humanoid/shapechanger
+aliases: ["Urwin Martikov"]
 ---
 
 > [!infobox]
 > # `=this.file.name`
-> **Pronounced:**  "`=this.pronounced`"
+> **Pronounced:**  "`INPUT[text:pronounced]`"
 > ###### Bio
 >  |
-> ---|---|
-> **Race** | `=this.race` |
-> **Sex** | `=this.gender` |
-> **Age** | `=this.age` |
-> **Sexuality** | `=this.sexuality` |
-> **Alignment** | `=this.alignment` |
-> **Condition** | `=this.condition` |
+>  ---|---|
+> **Race** | `INPUT[suggester(optionQuery("5. Mechanics/Races")):race]` |
+> **Sex** | `INPUT[inlineSelect(option(male),option(female)):sex]` |
+> **Age** | `INPUT[number:age]` |
+> **Alignment** | `INPUT[inlineSelect(option(lawful good),option(neutral good),option(chaotic good),option(lawful neutral),option(neutral),option(chaotic neutral),option(lawful evil),option(netural evil),option(chaotic evil)):alignment]` |
+> **Condition** | `INPUT[inlineSelect(option(healthy),option(injured),option(dead)):condition]` |
 > ###### Info
 >  |
-> ---|---|
-> **Alias(es)** | `=this.alias` |
-> **Occupation(s)** | `=this.occupation` |
-> **Group(s)** | `=link(this.AssociatedGroup)` |
-> **Religion(s)** | `=link(this.AssociatedReligion)` |
-> **Current Location** | `=link(this.location)` |
+>  ---|---|
+> **Alias(es)** | `INPUT[inlineList:aliases]` |
+> **Occupation(s)** | `INPUT[inlineList:occupation]` |
+> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Religion(s)** | `INPUT[inlineList:religions]` |
+> **Current Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 # **`=this.file.name`**
 > [!info|bg-c-purple]- Overview
@@ -46,25 +53,84 @@ TBD
 
 > [!column] Traits
 >> [!metadata|text-Center bg-c-gray] Personality
->> `=this.personality`
+>> `INPUT[text:personality]`
 >
 >> [!metadata|text-Center bg-c-gray] Ideal
->> `=this.ideal`
+>> `INPUT[text:ideal]`
 >
 >> [!metadata|text-Center bg-c-gray] Bond
->> `=this.Bond`
+>> `INPUT[text:bond]`
 >
 >> [!metadata|text-Center bg-c-gray] Flaw
->> `=this.flaw`
+>> `INPUT[text:flaw]`
 >
 >> [!metadata|text-Center bg-c-green] Likes
->> `=this.likes`
+>> `INPUT[text:likes]`
 >
 >> [!metadata|text-Center bg-c-red] Dislikes
->> `=this.dislikes`
+>> `INPUT[text:dislikes]`
 
 > [!column|dataview] Goals
->> `=this.goals`
+>> `INPUT[textArea:goals]`
+
+## Stats
+```statblock
+"name": "Urwin Martikov (CoS)"
+"size": "Medium"
+"type": "humanoid"
+"subtype": "human, shapechanger"
+"alignment": "Lawful Good"
+"ac": !!int "12"
+"hp": !!int "31"
+"hit_dice": "7d8"
+"stats":
+- !!int "10"
+- !!int "15"
+- !!int "11"
+- !!int "13"
+- !!int "15"
+- !!int "14"
+"speed": "30 ft. (fly 50 ft. in raven and hybrid forms)"
+"skillsaves":
+  "Insight": !!int "4"
+  "Perception": !!int "6"
+"senses": "passive Perception 16"
+"languages": "Common (can't speak in raven form)"
+"cr": "2"
+"traits":
+- "desc": "Urwin can use its action to polymorph into a raven-humanoid hybrid or into\
+    \ a raven, or back into its human form. Its statistics, other than its size, are\
+    \ the same in each form. Any equipment it is wearing or carrying isn't transformed.\
+    \ It reverts to its human form if it dies."
+  "name": "Shapechanger"
+- "desc": "Urwin can mimic simple sounds it has heard, such as a person whispering,\
+    \ a baby crying, or an animal chittering. A creature that hears the sounds can\
+    \ tell they are imitations with a successful DC 10 Wisdom (Insight) check."
+  "name": "Mimicry"
+- "desc": "Urwin regains 10 hit points at the start of its turn. If Urwin takes damage\
+    \ from a silvered weapon or a spell, this trait doesn't function at the start\
+    \ of Urwin's next turn. Urwin dies only if it starts its turn with 0 hit points\
+    \ and doesn't regenerate."
+  "name": "Regeneration"
+"actions":
+- "desc": "Urwin makes two weapon attacks, one of which can be with its hand crossbow."
+  "name": "Multiattack (Human or Hybrid Form Only)"
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 1 piercing damage in raven form, or dice: 1d4 + 2|avg (1d4 + 2) piercing\
+    \ damage in hybrid form. If the target is humanoid, it must succeed on a DC 10\
+    \ Constitution saving throw or be cursed with wereraven lycanthropy."
+  "name": "Beak (Raven or Hybrid Form Only)"
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage."
+  "name": "Shortsword (Human or Hybrid Form Only)"
+- "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 30/120 ft., one\
+    \ target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage."
+  "name": "Hand Crossbow (Human or Hybrid Form Only)"
+"source":
+- "CoS"
+"image": "compendium/bestiary/npc/token/urwin-martikov.png"
+```
+^statblock
 
 ## Acquaintances
 > [!column|dataview] Acquaintances

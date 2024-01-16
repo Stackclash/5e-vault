@@ -1,5 +1,6 @@
 ---
 obsidianUIMode: preview
+statblock: inline
 pronounced: 
 race: 
 sex: male
@@ -8,7 +9,7 @@ alignment:
 condition: healthy
 occupation: 
 group: 
-religion: 
+religions: 
 location: 
 personality: ""
 ideal: 
@@ -17,6 +18,12 @@ flaw:
 goals: 
 likes: 
 dislikes: 
+tags:
+- compendium/src/5e/cos
+- monster/cr/0
+- monster/size/medium
+- monster/type/humanoid/human
+aliases: ["Arabelle"]
 ---
 
 > [!infobox]
@@ -24,20 +31,20 @@ dislikes:
 > **Pronounced:**  "`INPUT[text:pronounced]`"
 > ###### Bio
 >  |
-> ---|---|
+>  ---|---|
 > **Race** | `INPUT[suggester(optionQuery("5. Mechanics/Races")):race]` |
 > **Sex** | `INPUT[inlineSelect(option(male),option(female)):sex]` |
 > **Age** | `INPUT[number:age]` |
 > **Alignment** | `INPUT[inlineSelect(option(lawful good),option(neutral good),option(chaotic good),option(lawful neutral),option(neutral),option(chaotic neutral),option(lawful evil),option(netural evil),option(chaotic evil)):alignment]` |
-> **Condition** | `=this.condition` |
+> **Condition** | `INPUT[inlineSelect(option(healthy),option(injured),option(dead)):condition]` |
 > ###### Info
 >  |
-> ---|---|
-> **Alias(es)** | `=this.alias` |
-> **Occupation(s)** | `=this.occupation` |
-> **Group(s)** | `=link(this.AssociatedGroup)` |
-> **Religion(s)** | `=link(this.AssociatedReligion)` |
-> **Current Location** | `=link(this.location)` |
+>  ---|---|
+> **Alias(es)** | `INPUT[inlineList:aliases]` |
+> **Occupation(s)** | `INPUT[inlineList:occupation]` |
+> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Religion(s)** | `INPUT[inlineList:religions]` |
+> **Current Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 # **`=this.file.name`**
 > [!info|bg-c-purple]- Overview
@@ -64,6 +71,33 @@ TBD
 
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
+
+## Stats
+```statblock
+"name": "Arabelle (CoS)"
+"size": "Medium"
+"type": "humanoid"
+"subtype": "human"
+"alignment": "Lawful Neutral"
+"ac": !!int "10"
+"hp": !!int "2"
+"hit_dice": "1d8"
+"stats":
+- !!int "10"
+- !!int "10"
+- !!int "10"
+- !!int "10"
+- !!int "10"
+- !!int "10"
+"speed": "30 ft."
+"senses": "passive Perception 10"
+"languages": "any one language (usually Common)"
+"cr": "0"
+"source":
+- "CoS"
+"image": "compendium/bestiary/npc/token/arabelle.png"
+```
+^statblock
 
 ## Acquaintances
 > [!column|dataview] Acquaintances

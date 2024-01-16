@@ -41,29 +41,29 @@ The monsters and NPCs are presented in alphabetical order.
 
 ### The Abbot
 
-No creature in Barovia is older than the master of the Abbey of Saint Markovia in Krezk. This nameless holy figure, whom others call [[4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]], was drawn to the abbey after Saint Markovia died by Strahd's hand. He sought to restore the abbey after it fell to corruption, but was himself corrupted.
+No creature in Barovia is older than the master of the Abbey of Saint Markovia in Krezk. This nameless holy figure, whom others call [[4. World Almanac/NPCs/The Abbot.md\|the Abbot]], was drawn to the abbey after Saint Markovia died by Strahd's hand. He sought to restore the abbey after it fell to corruption, but was himself corrupted.
 
 #### Angel in Disguise
 
-[[4. World Almanac/NPCs/The Abbot (COS).md\|The Abbot]] is a deva that has lived for millennia. He typically assumes the form of a strikingly handsome human priest in his late twenties or early thirties. More than a hundred years ago, the deva was sent from the Upper Planes to honor the legacy of Saint Markovia. He reopened the abbey and began tending to the physically and mentally ill. In so doing, he hoped to bring some much-needed light to Barovia. His efforts worked for a while, but then the Dark Powers began to corrupt him.
+[[4. World Almanac/NPCs/The Abbot.md\|The Abbot]] is a deva that has lived for millennia. He typically assumes the form of a strikingly handsome human priest in his late twenties or early thirties. More than a hundred years ago, the deva was sent from the Upper Planes to honor the legacy of Saint Markovia. He reopened the abbey and began tending to the physically and mentally ill. In so doing, he hoped to bring some much-needed light to Barovia. His efforts worked for a while, but then the Dark Powers began to corrupt him.
 
 #### Imperfections
 
-[[4. World Almanac/NPCs/The Abbot (COS).md\|The Abbot]]'s fall from grace started when the Belviews—a family of sickly, inbred lepers—came to the abbey seeking salvation. The deva rid them of their diseases, an act for which they were eternally grateful, but could not cure them of certain human defects that had been present since birth. [[4. World Almanac/NPCs/The Abbot (COS).md\|The Abbot]] became consumed with a prideful, obsessive desire to rid the poor Belviews of their lingering imperfections. The Belview family, however, had strange ideas of what it meant to be perfect. They didn't want to be ordinary humans. They wanted the eyes of a cat, wings to fly like a bat, the strength of a mule, and the guile of a snake. In short, they craved bestial traits, and [[4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]], taking pity on them, yielded to their mad desires.
+[[4. World Almanac/NPCs/The Abbot.md\|The Abbot]]'s fall from grace started when the Belviews—a family of sickly, inbred lepers—came to the abbey seeking salvation. The deva rid them of their diseases, an act for which they were eternally grateful, but could not cure them of certain human defects that had been present since birth. [[4. World Almanac/NPCs/The Abbot.md\|The Abbot]] became consumed with a prideful, obsessive desire to rid the poor Belviews of their lingering imperfections. The Belview family, however, had strange ideas of what it meant to be perfect. They didn't want to be ordinary humans. They wanted the eyes of a cat, wings to fly like a bat, the strength of a mule, and the guile of a snake. In short, they craved bestial traits, and [[4. World Almanac/NPCs/The Abbot.md\|the Abbot]], taking pity on them, yielded to their mad desires.
 
 #### Enter Vasili von Holtz
 
-[[4. World Almanac/NPCs/The Abbot (COS).md\|The Abbot]]'s early experiments proved fatal to their subjects, but the Belviews insisted that he keep trying. One day, a Barovian lord named Vasili von Holtz visited the abbey. [[4. World Almanac/NPCs/The Abbot (COS).md\|The Abbot]] knew at once that the man was evil, but von Holtz stressed that he only wanted to help. He furnished [[4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]] with forbidden lore plucked from the Amber Temple (chapter 13), then helped [[4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]] transform the Belviews into mongrelfolk—maniacal humans with bestial deformities and traits. The Belviews were happy, albeit insane. Only then did von Holtz reveal himself to be [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]]. Somehow the deva realized that any attempt to slay Strahd would be futile—that the ancient curse upon the land meant that the vampire could never truly die, at least not in Barovia.
+[[4. World Almanac/NPCs/The Abbot.md\|The Abbot]]'s early experiments proved fatal to their subjects, but the Belviews insisted that he keep trying. One day, a Barovian lord named Vasili von Holtz visited the abbey. [[4. World Almanac/NPCs/The Abbot.md\|The Abbot]] knew at once that the man was evil, but von Holtz stressed that he only wanted to help. He furnished [[4. World Almanac/NPCs/The Abbot.md\|the Abbot]] with forbidden lore plucked from the Amber Temple (chapter 13), then helped [[4. World Almanac/NPCs/The Abbot.md\|the Abbot]] transform the Belviews into mongrelfolk—maniacal humans with bestial deformities and traits. The Belviews were happy, albeit insane. Only then did von Holtz reveal himself to be [[4. World Almanac/NPCs/Strahd Von Zarovich.md\|Strahd von Zarovich]]. Somehow the deva realized that any attempt to slay Strahd would be futile—that the ancient curse upon the land meant that the vampire could never truly die, at least not in Barovia.
 
 #### Bride of Strahd
 
-Strahd confided in [[4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]], lamenting his curse and telling the deva that he wished nothing more than to escape Barovia. His performance garnered the deva's sympathy, and [[4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]], playing into Strahd's hands, set for himself the goal of finding a cure for Strahd's "malady." [[4. World Almanac/NPCs/The Abbot (COS).md\|The Abbot]] is now convinced that the cure lies in reuniting Strahd with his lost love and, in so doing, ending Barovia's curse. [[4. World Almanac/NPCs/The Abbot (COS).md\|The Abbot]] has recently completed work on a flesh golem bride made from the body parts of dead women. While the Belviews languish in the abbey's madhouse, [[4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]] is giving his creation lessons in etiquette and ladylike conduct so that "she" can be formally presented to Strahd and win his love.
+Strahd confided in [[4. World Almanac/NPCs/The Abbot.md\|the Abbot]], lamenting his curse and telling the deva that he wished nothing more than to escape Barovia. His performance garnered the deva's sympathy, and [[4. World Almanac/NPCs/The Abbot.md\|the Abbot]], playing into Strahd's hands, set for himself the goal of finding a cure for Strahd's "malady." [[4. World Almanac/NPCs/The Abbot.md\|The Abbot]] is now convinced that the cure lies in reuniting Strahd with his lost love and, in so doing, ending Barovia's curse. [[4. World Almanac/NPCs/The Abbot.md\|The Abbot]] has recently completed work on a flesh golem bride made from the body parts of dead women. While the Belviews languish in the abbey's madhouse, [[4. World Almanac/NPCs/The Abbot.md\|the Abbot]] is giving his creation lessons in etiquette and ladylike conduct so that "she" can be formally presented to Strahd and win his love.
 
-Strahd has no interest in a flesh golem bride, but he enjoys corrupting this once angelic being and driving [[4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]] to commit further acts of depravity.
+Strahd has no interest in a flesh golem bride, but he enjoys corrupting this once angelic being and driving [[4. World Almanac/NPCs/The Abbot.md\|the Abbot]] to commit further acts of depravity.
 
 #### Statistics
 
-Use the [[5. Mechanics/Bestiary/Celestial/Deva.md\|deva]] stat block in the "Monster Manual", but change [[4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot's]] alignment to lawful evil.
+Use the [[5. Mechanics/Bestiary/Celestial/Deva.md\|deva]] stat block in the "Monster Manual", but change [[4. World Almanac/NPCs/The Abbot.md\|the Abbot's]] alignment to lawful evil.
 
 #### The Abbot's Traits
 
@@ -91,7 +91,7 @@ The magic that animates an object is dispelled when the construct drops to 0 hit
 
 #### Baba Lysaga's Creeping Hut
 
-[[4. World Almanac/NPCs/Baba Lysaga (COS).md\|Baba Lysaga]] built a [[4. World Almanac/NPCs/Baba Lysagas Creeping Hut (COS).md\|hut]] atop the rotting stump of a giant tree that was felled long ago. It was only after she embedded a magic gemstone in the hut that the whole thing was imbued with a semblance of life. When she wills it to do so, the hut pulls its gigantic roots free of the earth and shambles around like a spidery behemoth, shaking the ground with every step. The hut attacks with its flailing and stomping roots. It can also use its roots to fling large rocks.
+[[4. World Almanac/NPCs/Baba Lysaga.md\|Baba Lysaga]] built a [[4. World Almanac/NPCs/Baba Lysagas Creeping Hut.md\|hut]] atop the rotting stump of a giant tree that was felled long ago. It was only after she embedded a magic gemstone in the hut that the whole thing was imbued with a semblance of life. When she wills it to do so, the hut pulls its gigantic roots free of the earth and shambles around like a spidery behemoth, shaking the ground with every step. The hut attacks with its flailing and stomping roots. It can also use its roots to fling large rocks.
 
 ##### Hut Interior
 
@@ -99,17 +99,17 @@ The hut is a 15-foot-square, ramshackle wooden building with a gently sloping th
 
 ##### Heart of the Hut
 
-The gemstone that has given life to [[4. World Almanac/NPCs/Baba Lysaga (COS).md\|Baba Lysaga]]'s hut was previously buried in the Wizard of Wines vineyard. The gem was one of three imbued with life-giving magic that made the grapevines in the vineyard healthier, guaranteeing the finest wines. [[4. World Almanac/NPCs/Baba Lysaga (COS).md\|Baba Lysaga]] stole one of the gems and perverted its magic, using it instead to animate her wooden hut.
+The gemstone that has given life to [[4. World Almanac/NPCs/Baba Lysaga.md\|Baba Lysaga]]'s hut was previously buried in the Wizard of Wines vineyard. The gem was one of three imbued with life-giving magic that made the grapevines in the vineyard healthier, guaranteeing the finest wines. [[4. World Almanac/NPCs/Baba Lysaga.md\|Baba Lysaga]] stole one of the gems and perverted its magic, using it instead to animate her wooden hut.
 
-Removing the gem from the hut renders the hut [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]. That task is easier said than done, however. The glowing green gem is contained in a cavity in the stump, beneath the rotted floorboards of the hut. The floorboards can be ripped up with a successful DC 14 Strength check or smashed by dealing 10 damage to them. Once the floorboards are out of the way, a creature can reach into the cavity and snatch the gem. But if someone attempts this while the hut is alive, the cavity sprouts wooden teeth, becoming a mouth that bites anything that tries to remove the gem; a creature trying to remove the gem must make a DC 20 Dexterity saving throw. On a successful save, the creature claims the stone without getting bitten. On a failed save, the creature is bitten for `dice: 3d6|avg` (`3d6`) piercing damage and fails to obtain the gem.
+Removing the gem from the hut renders the hut incapacitated. That task is easier said than done, however. The glowing green gem is contained in a cavity in the stump, beneath the rotted floorboards of the hut. The floorboards can be ripped up with a successful DC 14 Strength check or smashed by dealing 10 damage to them. Once the floorboards are out of the way, a creature can reach into the cavity and snatch the gem. But if someone attempts this while the hut is alive, the cavity sprouts wooden teeth, becoming a mouth that bites anything that tries to remove the gem; a creature trying to remove the gem must make a DC 20 Dexterity saving throw. On a successful save, the creature claims the stone without getting bitten. On a failed save, the creature is bitten for `dice: 3d6|avg` (`3d6`) piercing damage and fails to obtain the gem.
 
 #### Broom of Animated Attack
 
-A broom of animated attack is easily mistaken for a [[5. Mechanics/Items/Broom Of Flying.md\|broom of flying]]. It attacks any creature that grabs it or tries to ride it.
+A broom of animated attack is easily mistaken for a broom of flying. It attacks any creature that grabs it or tries to ride it.
 
 ##### Flying Broom
 
-Some [[5. Mechanics/Bestiary/Construct/Broom Of Animated Attack (COS).md\|brooms of animated attack]] allow their creators to ride them, in which case they behave like typical [[5. Mechanics/Items/Broom Of Flying.md\|brooms of flying]]. A broom of animated attack, however, can carry only half the weight that a [[5. Mechanics/Items/Broom Of Flying.md\|broom of flying]] can (see chapter 7, ""Treasure"," of the "Dungeon Master's Guide").
+Some [[5. Mechanics/Bestiary/Construct/Broom Of Animated Attack (COS).md\|brooms of animated attack]] allow their creators to ride them, in which case they behave like typical brooms of flying. A broom of animated attack, however, can carry only half the weight that a broom of flying can (see chapter 7, ""Treasure"," of the "Dungeon Master's Guide").
 
 #### Guardian Portrait
 
@@ -117,7 +117,7 @@ A [[5. Mechanics/Bestiary/Construct/Guardian Portrait (COS).md\|guardian portrai
 
 ##### Living Image
 
-The eyes of the figure depicted in the painting are imbued with [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]], and they appear to follow creatures that move in front of them.
+The eyes of the figure depicted in the painting are imbued with darkvision, and they appear to follow creatures that move in front of them.
 
 ##### Innate Spells
 
@@ -125,7 +125,7 @@ When a [[5. Mechanics/Bestiary/Construct/Guardian Portrait (COS).md\|guardian po
 
 #### Strahd's Animated Armor
 
-The [[4. World Almanac/NPCs/Strahds Animated Armor (COS).md\|armor]] that Strahd wore into battle when he was alive lives on today as a headless, animated suit of plate armor. The armor is painted burgundy and adorned with golden angelic motifs.
+The [[4. World Almanac/NPCs/Strahds Animated Armor.md\|armor]] that Strahd wore into battle when he was alive lives on today as a headless, animated suit of plate armor. The armor is painted burgundy and adorned with golden angelic motifs.
 
 ##### Thing of Evil
 
@@ -137,29 +137,29 @@ The armor understands Common but obeys only the commands of its master.
 
 ### Baba Lysaga
 
-Two women gave life to [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]]. The first was Queen Ravenovia van Roeyen, Strahd's biological mother. The second was the queen's midwife, a devout follower of Mother Night named [[4. World Almanac/NPCs/Baba Lysaga (COS).md\|Baba Lysaga]]. Although it was the former who raised Strahd and enabled him to follow in his father's footsteps, it was the latter who sensed a potential for greatness and darkness in Strahd surpassing that of any other mortal. Lysaga believed then, as she believes now, that she is Strahd's true mother.
+Two women gave life to [[4. World Almanac/NPCs/Strahd Von Zarovich.md\|Strahd von Zarovich]]. The first was Queen Ravenovia van Roeyen, Strahd's biological mother. The second was the queen's midwife, a devout follower of Mother Night named [[4. World Almanac/NPCs/Baba Lysaga.md\|Baba Lysaga]]. Although it was the former who raised Strahd and enabled him to follow in his father's footsteps, it was the latter who sensed a potential for greatness and darkness in Strahd surpassing that of any other mortal. Lysaga believed then, as she believes now, that she is Strahd's true mother.
 
 #### Other Mother
 
-When Strahd was still a baby in his crib, [[4. World Almanac/NPCs/Baba Lysaga (COS).md\|Baba Lysaga]] cast protective spells on him and crept into his nursery on stormy nights to sing magical rhymes to him. She also placed the "spark of magic" in him, ensuring that he would become a spellcaster.
+When Strahd was still a baby in his crib, [[4. World Almanac/NPCs/Baba Lysaga.md\|Baba Lysaga]] cast protective spells on him and crept into his nursery on stormy nights to sing magical rhymes to him. She also placed the "spark of magic" in him, ensuring that he would become a spellcaster.
 
-[[4. World Almanac/NPCs/Baba Lysaga (COS).md\|Baba Lysaga]]'s unhealthy attachment to the baby Strahd did not go unnoticed. After she received several disturbing reports, Queen Ravenovia was forced to banish the midwife from the kingdom. Lysaga never saw Strahd again, but she has succeeded in staying alive to witness the triumphs of her beloved boy, who, in her mind, is eternally blessed. Despite the horrors Strahd has wrought, Lysaga still envisions him as the perfect child she delivered into the world. Strahd is the only thing in her life that matters to her.
+[[4. World Almanac/NPCs/Baba Lysaga.md\|Baba Lysaga]]'s unhealthy attachment to the baby Strahd did not go unnoticed. After she received several disturbing reports, Queen Ravenovia was forced to banish the midwife from the kingdom. Lysaga never saw Strahd again, but she has succeeded in staying alive to witness the triumphs of her beloved boy, who, in her mind, is eternally blessed. Despite the horrors Strahd has wrought, Lysaga still envisions him as the perfect child she delivered into the world. Strahd is the only thing in her life that matters to her.
 
 #### Mother Nearest
 
-During her exile, [[4. World Almanac/NPCs/Baba Lysaga (COS).md\|Baba Lysaga]] made countless sacrifices to Mother Night, pleading with the goddess to afflict Queen Ravenovia with ill health and visit death upon her. Lysaga eventually got her wish, and after Strahd settled in the valley of Barovia, Lysaga moved as close to him as she dared to.
+During her exile, [[4. World Almanac/NPCs/Baba Lysaga.md\|Baba Lysaga]] made countless sacrifices to Mother Night, pleading with the goddess to afflict Queen Ravenovia with ill health and visit death upon her. Lysaga eventually got her wish, and after Strahd settled in the valley of Barovia, Lysaga moved as close to him as she dared to.
 
 In the filth-ridden depths of her heart, Lysaga knows that Strahd would never accept her as his true mother, nor could she bear his rejection. As a result, she has never confronted him. She would rather exist in perpetual denial, whiling away the days, months, and years practicing fell magic and looking for ways to help her "son."
 
 #### Raven Bane
 
-[[4. World Almanac/NPCs/Baba Lysaga (COS).md\|Baba Lysaga]] has allies in Castle Ravenloft—a coven of witches. Through the aid of these witches, Lysaga recently uncovered a potential threat to Strahd: a secret society of wereravens called the Keepers of the Feather, a group that uses ordinary ravens as their spies.
+[[4. World Almanac/NPCs/Baba Lysaga.md\|Baba Lysaga]] has allies in Castle Ravenloft—a coven of witches. Through the aid of these witches, Lysaga recently uncovered a potential threat to Strahd: a secret society of wereravens called the Keepers of the Feather, a group that uses ordinary ravens as their spies.
 
 Strahd doesn't consider the wereravens a serious threat, but Lysaga has chosen to make them the bane of her existence. After much searching and scrying, she discovered a wereraven refuge at the Wizard of Wines winery (chapter 12), and she has begun to wage war against it. In addition, she has forged an alliance with the mad druids that haunt Yester Hill (chapter 14), convincing them that she gave birth to Strahd, whom the druids consider a god. With the druids on her side, she expects to rid Barovia of its wereraven menace.
 
 #### Gifts of Mother Night
 
-The goddess Mother Night has bestowed magical gifts on [[4. World Almanac/NPCs/Baba Lysaga (COS).md\|Baba Lysaga]] as rewards for her ceaseless devotion to Strahd. Her skin has the resilience of stone, she is resistant to harmful magic, and she is shielded against divination magic. Mother Night has also imparted to Lysaga the secret of longevity, which requires her to bathe in the blood of beasts on nights of the new moon. Failure to do so causes Lysaga to age rapidly, becoming mere dust and bones in a matter of seconds.
+The goddess Mother Night has bestowed magical gifts on [[4. World Almanac/NPCs/Baba Lysaga.md\|Baba Lysaga]] as rewards for her ceaseless devotion to Strahd. Her skin has the resilience of stone, she is resistant to harmful magic, and she is shielded against divination magic. Mother Night has also imparted to Lysaga the secret of longevity, which requires her to bathe in the blood of beasts on nights of the new moon. Failure to do so causes Lysaga to age rapidly, becoming mere dust and bones in a matter of seconds.
 
 #### Baba Lysaga's Traits
 
@@ -179,7 +179,7 @@ The goddess Mother Night has bestowed magical gifts on [[4. World Almanac/NPCs/B
 
 ### Barovian Witch
 
-The mad women and men known as [[5. Mechanics/Bestiary/Humanoid/Barovian Witch (COS).md\|Barovian witches]] forge pacts with Strahd and the Dark Powers of Ravenloft in exchange for magic and longevity. They prefer to live in the shadows and can see in the dark. When traveling in the open, they use [[5. Mechanics/Spells/Alter Self.md\|alter self]] spells to assume less conspicuous forms. They also use these spells to grow long, sharp claws with which they can attack.
+The mad women and men known as [[5. Mechanics/Bestiary/Humanoid/Barovian Witch (COS).md\|Barovian witches]] forge pacts with Strahd and the Dark Powers of Ravenloft in exchange for magic and longevity. They prefer to live in the shadows and can see in the dark. When traveling in the open, they use alter self spells to assume less conspicuous forms. They also use these spells to grow long, sharp claws with which they can attack.
 
 #### Brothers and Sisters of Strahd
 
@@ -189,7 +189,7 @@ Barovian witches have no scruples. They will deal with anyone in return for powe
 
 Barovian witches are obsessive collectors, each believing that almost anything found—a piece of broken bone, a dead rodent, a handful of dust, or some other worthless item or substance—could be valuable or useful as a spell component, a ritual object, or a potion ingredient.
 
-Barovian witches use the [[5. Mechanics/Spells/Find Familiar.md\|find familiar]] spell to call forth familiars. They are particularly fond of cats, though snakes and toads are also common. These animals lurk amid the clutter of the witches' lairs, seldom wandering far from their vile masters.
+Barovian witches use the find familiar spell to call forth familiars. They are particularly fond of cats, though snakes and toads are also common. These animals lurk amid the clutter of the witches' lairs, seldom wandering far from their vile masters.
 
 ![[6. Resources/5e Modules/Curse Of Strahd/img/145-636379876850421049.webp#center\|Barovian Witch]]
 
@@ -207,7 +207,7 @@ A [[5. Mechanics/Bestiary/Plant/Tree Blight (COS).md\|tree blight]] will often f
 
 ### Ezmerelda d'Avenir
 
-[[4. World Almanac/NPCs/Ezmerelda Davenir (COS).md\|Ezmerelda d'Avenir]], a Vistana, is the protégé of Rudolph van Richten—despite the fact that her first encounter with the vampire hunter was anything but pleasant.
+[[4. World Almanac/NPCs/Ezmerelda Davenir.md\|Ezmerelda d'Avenir]], a Vistana, is the protégé of Rudolph van Richten—despite the fact that her first encounter with the vampire hunter was anything but pleasant.
 
 #### Witness to Tragedy
 
@@ -233,7 +233,7 @@ While in the company of a Vistani caravan, Ezmerelda heard a rumor that Rudolph 
 
 #### Tarokka Deck
 
-Ezmerelda keeps a [[5. Mechanics/Decks/Tarokka Deck (COS).md\|deck of tarokka cards]] in her wagon (chapter 11, area V1). Although the cards aren't magical, Ezmerelda can use them to perform a card reading for the characters (see chapter 1), like the one that can be performed by [[4. World Almanac/NPCs/Madam Eva (COS).md\|Madam Eva]].
+Ezmerelda keeps a [[5. Mechanics/Decks/Tarokka Deck (COS).md\|deck of tarokka cards]] in her wagon (chapter 11, area V1). Although the cards aren't magical, Ezmerelda can use them to perform a card reading for the characters (see chapter 1), like the one that can be performed by [[4. World Almanac/NPCs/Madam Eva.md\|Madam Eva]].
 
 #### Ezmerelda d'Avenir's Traits
 
@@ -255,7 +255,7 @@ Ezmerelda keeps a [[5. Mechanics/Decks/Tarokka Deck (COS).md\|deck of tarokka ca
 
 ### Izek Strazni
 
-[[4. World Almanac/NPCs/Izek Strazni (COS).md\|Izek]] and his sister were born in Vallaki. One morning, their father and their uncle took them fishing on Lake Zarovich. On the way back to town, a dire wolf attacked Izek and bit off his right arm. His father carried Izek back to town while his uncle distracted the beast. His sister ran and hid in the woods and was never seen again.
+[[4. World Almanac/NPCs/Izek Strazni.md\|Izek]] and his sister were born in Vallaki. One morning, their father and their uncle took them fishing on Lake Zarovich. On the way back to town, a dire wolf attacked Izek and bit off his right arm. His father carried Izek back to town while his uncle distracted the beast. His sister ran and hid in the woods and was never seen again.
 
 Unlike his sister, Izek was born without a soul. As time wore on, he forgot his lost sister and learned to cope with his disability.
 
@@ -271,7 +271,7 @@ The new appendage has barbed spines, elongated fingers, and long nails. He can c
 
 #### Doll Collector
 
-Perhaps more disturbing than his fiendish arm and his murderous nature is Izek's collection of dolls, which he keeps in his bedroom in the burgomaster's mansion. Izek often has dreams of a beautiful young woman, and for years he has forced a local toymaker named [[4. World Almanac/NPCs/Gadof Blinsky (COS).md\|Gadof Blinsky]] to craft dolls in her likeness. The woman is [[4. World Almanac/NPCs/Ireena Kolyana (COS).md\|Ireena Kolyana]], although Izek doesn't know her name.
+Perhaps more disturbing than his fiendish arm and his murderous nature is Izek's collection of dolls, which he keeps in his bedroom in the burgomaster's mansion. Izek often has dreams of a beautiful young woman, and for years he has forced a local toymaker named [[4. World Almanac/NPCs/Gadof Blinsky.md\|Gadof Blinsky]] to craft dolls in her likeness. The woman is [[4. World Almanac/NPCs/Ireena Kolyana.md\|Ireena Kolyana]], although Izek doesn't know her name.
 
 #### Family Is Forever
 
@@ -295,7 +295,7 @@ Izek has dreams of Ireena. If he spots her, he tries to take her by force to the
 
 ### Kasimir Velikov
 
-[[4. World Almanac/NPCs/Kasimir Velikov (COS).md\|Kasimir]], a mutiliated and grief-stricken dusk elf, has been trapped in Barovia for centuries. His people were on the verge of being annihilated by Strahd's armies when they surrendered. Strahd left the few survivors to the mercy of the Vistani, who bore them to the valley of Barovia, where they have lived ever since.
+[[4. World Almanac/NPCs/Kasimir Velikov.md\|Kasimir]], a mutiliated and grief-stricken dusk elf, has been trapped in Barovia for centuries. His people were on the verge of being annihilated by Strahd's armies when they surrendered. Strahd left the few survivors to the mercy of the Vistani, who bore them to the valley of Barovia, where they have lived ever since.
 
 #### Old Friends
 
@@ -303,7 +303,7 @@ Kasimir's allegiance to the Vistani is so strong that he adopted the name of the
 
 #### Dreams of the Damned
 
-Kasimir's sister, [[4. World Almanac/NPCs/Patrina Velikovna (COS).md\|Patrina Velikovna]], is sealed in the catacombs below Castle Ravenloft. Convinced that she was the concubine of the devil Strahd, Kasimir and his fellow dusk elves stoned Patrina to death. As punishment for depriving him of his bride, Strahd butchered all the women in the dusk elf tribe, and Kasimir's ears were cut off to punish him for instigating the stoning. He wears a cowl to conceal his mutilation.
+Kasimir's sister, [[4. World Almanac/NPCs/Patrina Velikovna.md\|Patrina Velikovna]], is sealed in the catacombs below Castle Ravenloft. Convinced that she was the concubine of the devil Strahd, Kasimir and his fellow dusk elves stoned Patrina to death. As punishment for depriving him of his bride, Strahd butchered all the women in the dusk elf tribe, and Kasimir's ears were cut off to punish him for instigating the stoning. He wears a cowl to conceal his mutilation.
 
 Kasimir's feeling of loss is tinged with simmering rage. Patrina now speaks to her brother in dreams, telling him how years of guilt and regret have dispelled all evil thoughts from her mind and cleansed her tortured soul. But Kasimir remains unconvinced by her assertions, because he knows that Strahd has corrupted Patrina and led her down a path of evil and deceit. For that reason, Kasimir wants to see the vampire destroyed so that his sister can be rescued from her eternal damnation.
 
@@ -318,9 +318,9 @@ With the characters' help, Kasimir thinks he might be able to find out how to re
 Use the [[5. Mechanics/Bestiary/Humanoid/Mage.md\|mage]] stat block in the "Monster Manual", with the following adjustments:
 
 - Kasimir's alignment is neutral.  
-- Kasimir has [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]] out to a range of 60 feet.  
-- Kasimir has the Fey Ancestry feature, which means he has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]], and magic can't put him to sleep.  
-- Kasimir wears a [[5. Mechanics/Items/Ring Of Warmth.md\|ring of warmth]] and carries a spellbook (see chapter 5, area N9a, for a list of the spells it holds in addition to his prepared spells).  
+- Kasimir has darkvision out to a range of 60 feet.  
+- Kasimir has the Fey Ancestry feature, which means he has advantage on saving throws against being charmed, and magic can't put him to sleep.  
+- Kasimir wears a ring of warmth and carries a spellbook (see chapter 5, area N9a, for a list of the spells it holds in addition to his prepared spells).  
 
 #### Kasimir Velikov's Traits
 
@@ -338,21 +338,21 @@ Use the [[5. Mechanics/Bestiary/Humanoid/Mage.md\|mage]] stat block in the "Mons
 
 ### Madam Eva
 
-The fortune-teller [[4. World Almanac/NPCs/Madam Eva (COS).md\|Madam Eva]] lives among the Vistani but isn't truly one of them. She appears to be in her seventies, but she is, in fact, much older.
+The fortune-teller [[4. World Almanac/NPCs/Madam Eva.md\|Madam Eva]] lives among the Vistani but isn't truly one of them. She appears to be in her seventies, but she is, in fact, much older.
 
 #### Royal Blood
 
-[[4. World Almanac/NPCs/Madam Eva (COS).md\|Madam Eva]] is Strahd's half-sister, though Strahd is unaware of this fact. Her real name is Katarina, and she is the daughter of a Vistani woman whom King Barov, Strahd's father, took to his bed during one of his many crusades. [[4. World Almanac/NPCs/Madam Eva (COS).md\|Madam Eva]] knows she is Strahd's half-sister but has told no one of the royal blood flowing through her veins.
+[[4. World Almanac/NPCs/Madam Eva.md\|Madam Eva]] is Strahd's half-sister, though Strahd is unaware of this fact. Her real name is Katarina, and she is the daughter of a Vistani woman whom King Barov, Strahd's father, took to his bed during one of his many crusades. [[4. World Almanac/NPCs/Madam Eva.md\|Madam Eva]] knows she is Strahd's half-sister but has told no one of the royal blood flowing through her veins.
 
 #### Mother Night
 
-Over four hundred years ago, Katarina came to Barovia and insinuated herself into Strahd's court, working as a maid in Castle Ravenloft. She came to know the castle like the back of her hand, and she was present for the wedding of Sergei and Tatyana. After Strahd went mad and murdered his brother, she fled the castle and took refuge with the Vistani. Later, she forged a pact with the goddess Mother Night, trading her youth for the power to undo the evil that Strahd had wrought. Mother Night transformed Katarina into an ageless crone gifted with the power of magical foresight. In the guise of [[4. World Almanac/NPCs/Madam Eva (COS).md\|Madam Eva]], she uses this ability to help Strahd. She can send her Vistani out in their wagons to visit other worlds and bring adventurers to Strahd's domain, in hopes that they will find a way to destroy the vampire or set Strahd free.
+Over four hundred years ago, Katarina came to Barovia and insinuated herself into Strahd's court, working as a maid in Castle Ravenloft. She came to know the castle like the back of her hand, and she was present for the wedding of Sergei and Tatyana. After Strahd went mad and murdered his brother, she fled the castle and took refuge with the Vistani. Later, she forged a pact with the goddess Mother Night, trading her youth for the power to undo the evil that Strahd had wrought. Mother Night transformed Katarina into an ageless crone gifted with the power of magical foresight. In the guise of [[4. World Almanac/NPCs/Madam Eva.md\|Madam Eva]], she uses this ability to help Strahd. She can send her Vistani out in their wagons to visit other worlds and bring adventurers to Strahd's domain, in hopes that they will find a way to destroy the vampire or set Strahd free.
 
 #### For the Love of Strahd
 
-The Dark Powers of Ravenloft would consider [[4. World Almanac/NPCs/Madam Eva (COS).md\|Madam Eva]] a worthy choice to replace Strahd as the master of Ravenloft, but she has all the power she desires and doesn't seek to supplant him. She would rather help Strahd find someone else to succeed him, although she has grave doubts about her ability to locate such an individual.
+The Dark Powers of Ravenloft would consider [[4. World Almanac/NPCs/Madam Eva.md\|Madam Eva]] a worthy choice to replace Strahd as the master of Ravenloft, but she has all the power she desires and doesn't seek to supplant him. She would rather help Strahd find someone else to succeed him, although she has grave doubts about her ability to locate such an individual.
 
-None of [[4. World Almanac/NPCs/Madam Eva (COS).md\|Madam Eva]]'s Vistani kin know her true identity or purpose. They puzzle over her desire to remain in Barovia.
+None of [[4. World Almanac/NPCs/Madam Eva.md\|Madam Eva]]'s Vistani kin know her true identity or purpose. They puzzle over her desire to remain in Barovia.
 
 #### Madam Eva's Traits
 
@@ -382,11 +382,11 @@ Mongrelfolk are seldom welcome in other humanoid societies, where they are abuse
 
 #### Camouflage Experts
 
-Mongrelfolk often hide their deformities under cloaks and cowls. In this way, they can sometimes pass as stout humans or thin dwarves. They are fond of camouflage, attaching leaves and twigs to their cloaks, making brown paint to cover their skin, and weaving grass nets under which they can hide. They use such camouflage while hunting in the wild or while standing guard outside their lairs. Until it is seen, a camouflaged mongrelfolk has advantage on [[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]] checks made to hide.
+Mongrelfolk often hide their deformities under cloaks and cowls. In this way, they can sometimes pass as stout humans or thin dwarves. They are fond of camouflage, attaching leaves and twigs to their cloaks, making brown paint to cover their skin, and weaving grass nets under which they can hide. They use such camouflage while hunting in the wild or while standing guard outside their lairs. Until it is seen, a camouflaged mongrelfolk has advantage on Stealth checks made to hide.
 
 #### Horrific Offspring
 
-It's possible to restore a mongrelfolk to its original form using a [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell, but the same can't be said for a mongrelfolk's offspring. Only mongrelfolk that are made by magic can be restored to their original forms. Mongrelfolk that are born are true mongrelfolk and not the subjects of a spell or an effect that can be undone.
+It's possible to restore a mongrelfolk to its original form using a greater restoration spell, but the same can't be said for a mongrelfolk's offspring. Only mongrelfolk that are made by magic can be restored to their original forms. Mongrelfolk that are born are true mongrelfolk and not the subjects of a spell or an effect that can be undone.
 
 Mongrelfolk can breed with other humanoids, but nearly all children born to such parents are mongrelfolk. (About one child in every hundred is born looking like its non-mongrelfolk parent.)
 
@@ -416,7 +416,7 @@ A phantom warrior doesn't require air, food, drink, or sleep.
 
 ### Pidlwick II
 
-After her husband died in battle, Duchess Dorfniya Dilisnya set her sights on becoming Count [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]]'s bride, but she failed to win his love. Her visits to the castle were nonetheless frequent, and she never traveled without her fool, the delightful Pidlwick. The little man was like a ray of sunshine in Castle Ravenloft, and though he failed to amuse Strahd, he delighted Tatyana and Sergei with his jokes and gambols. As a result, Strahd didn't object whenever Pidlwick and the duchess came to visit.
+After her husband died in battle, Duchess Dorfniya Dilisnya set her sights on becoming Count [[4. World Almanac/NPCs/Strahd Von Zarovich.md\|Strahd von Zarovich]]'s bride, but she failed to win his love. Her visits to the castle were nonetheless frequent, and she never traveled without her fool, the delightful Pidlwick. The little man was like a ray of sunshine in Castle Ravenloft, and though he failed to amuse Strahd, he delighted Tatyana and Sergei with his jokes and gambols. As a result, Strahd didn't object whenever Pidlwick and the duchess came to visit.
 
 Eager to please and desiring to return the courtesy, the duchess commissioned the legendary toymaker Fritz von Weerg to build a clockwork effigy of Pidlwick as a gift for Strahd's family. Although the duchess's heart was in the right place, the effigy didn't have Pidlwick's abilities, and it failed to entertain anyone. Even though Pidlwick himself had spent months training it, the effigy couldn't speak, and its movements were more awkward than amusing.
 
@@ -424,17 +424,17 @@ A harsh winter trapped the duchess, her fool, and her fool's effigy in Castle Ra
 
 #### One Pidlwick Too Many
 
-Von Weerg was no ordinary toymaker, and he put a little of himself into all his creations, which is to say his works had a touch of their creator's madness. [[4. World Almanac/NPCs/Pidlwick Ii (COS).md\|Pidlwick II]] knew that it had no purpose as long as Pidlwick remained in Castle Ravenloft, so it pushed Pidlwick down a long flight of stairs, killing him. Everyone else thought it was an accident. In the days that followed, [[4. World Almanac/NPCs/Pidlwick Ii (COS).md\|Pidlwick II]] tried its best to fill its namesake's shoes, but the effigy's mere presence was upsetting to Tatyana, and it was never called on to perform. Eventually, it was shut away like a discarded toy.
+Von Weerg was no ordinary toymaker, and he put a little of himself into all his creations, which is to say his works had a touch of their creator's madness. [[4. World Almanac/NPCs/Pidlwick Ii.md\|Pidlwick II]] knew that it had no purpose as long as Pidlwick remained in Castle Ravenloft, so it pushed Pidlwick down a long flight of stairs, killing him. Everyone else thought it was an accident. In the days that followed, [[4. World Almanac/NPCs/Pidlwick Ii.md\|Pidlwick II]] tried its best to fill its namesake's shoes, but the effigy's mere presence was upsetting to Tatyana, and it was never called on to perform. Eventually, it was shut away like a discarded toy.
 
 #### Evil Toy
 
-[[4. World Almanac/NPCs/Pidlwick Ii (COS).md\|Pidlwick II]] was kept in a small closet adjacent to one of the guest bedrooms. On rare occasions when someone stayed there, Pidlwick would sneak out of the closet in the middle of the night, smother the guest with a pillow, and then retreat back to the closet. The castle staff never considered that the effigy might be responsible, instead assuming that the guests had died in their sleep.
+[[4. World Almanac/NPCs/Pidlwick Ii.md\|Pidlwick II]] was kept in a small closet adjacent to one of the guest bedrooms. On rare occasions when someone stayed there, Pidlwick would sneak out of the closet in the middle of the night, smother the guest with a pillow, and then retreat back to the closet. The castle staff never considered that the effigy might be responsible, instead assuming that the guests had died in their sleep.
 
-But Strahd was not fooled. He came to realize fairly quickly that the clockwork effigy had begun to display a murderous nature. Rather than have [[4. World Almanac/NPCs/Pidlwick Ii (COS).md\|Pidlwick II]] destroyed, Strahd kept the fool around to dispose of irksome guests from time to time.
+But Strahd was not fooled. He came to realize fairly quickly that the clockwork effigy had begun to display a murderous nature. Rather than have [[4. World Almanac/NPCs/Pidlwick Ii.md\|Pidlwick II]] destroyed, Strahd kept the fool around to dispose of irksome guests from time to time.
 
-After the deaths of Sergei and Tatyana, the castle became virtually abandoned, and there were no more guests for [[4. World Almanac/NPCs/Pidlwick Ii (COS).md\|Pidlwick II]] to "entertain." The clockwork effigy emerged from its closet and found new places to hide. It fears Strahd and eagerly follows anyone who gives it the attention it craves.
+After the deaths of Sergei and Tatyana, the castle became virtually abandoned, and there were no more guests for [[4. World Almanac/NPCs/Pidlwick Ii.md\|Pidlwick II]] to "entertain." The clockwork effigy emerged from its closet and found new places to hide. It fears Strahd and eagerly follows anyone who gives it the attention it craves.
 
-[[4. World Almanac/NPCs/Pidlwick Ii (COS).md\|Pidlwick II]] is basically an oversized toy—a 4-foot-tall mechanism stuffed with gears, springs, and other components expertly fitted together to impart a semblance of life to it. Its skin is made of stitched leather pulled taut over an articulated wooden frame. [[4. World Almanac/NPCs/Pidlwick Ii (COS).md\|Pidlwick II]] has rubbed soot around its eyes and mouth, giving it the triangular eyes and jagged grin of a jack-o'-lantern.
+[[4. World Almanac/NPCs/Pidlwick Ii.md\|Pidlwick II]] is basically an oversized toy—a 4-foot-tall mechanism stuffed with gears, springs, and other components expertly fitted together to impart a semblance of life to it. Its skin is made of stitched leather pulled taut over an articulated wooden frame. [[4. World Almanac/NPCs/Pidlwick Ii.md\|Pidlwick II]] has rubbed soot around its eyes and mouth, giving it the triangular eyes and jagged grin of a jack-o'-lantern.
 
 #### Pidlwick II's Traits
 
@@ -456,31 +456,31 @@ After the deaths of Sergei and Tatyana, the castle became virtually abandoned, a
 
 ### Rahadin
 
-[[4. World Almanac/NPCs/Rahadin (COS).md\|Rahadin]], the dusk elf chamberlain of Castle Ravenloft, has served Strahd's family faithfully for nearly five hundred years. He is Strahd's eternal servant, a longtime comrade-in-arms, and a ruthless warrior who has killed thousands in his lifetime.
+[[4. World Almanac/NPCs/Rahadin.md\|Rahadin]], the dusk elf chamberlain of Castle Ravenloft, has served Strahd's family faithfully for nearly five hundred years. He is Strahd's eternal servant, a longtime comrade-in-arms, and a ruthless warrior who has killed thousands in his lifetime.
 
 #### Exile
 
-[[4. World Almanac/NPCs/Rahadin (COS).md\|Rahadin]] was exiled for refusing to bow down to a dusk elf prince whom he considered weak and corrupt. When the dusk elves later declined to pay fealty to King Barov, [[4. World Almanac/NPCs/Rahadin (COS).md\|Rahadin]] helped Barov conquer them. The elf kingdom's royal line was obliterated, the dusk elves hunted like rabbits. The few that survived were either subjugated or forced to live among the Vistani. So pleased was Barov with [[4. World Almanac/NPCs/Rahadin (COS).md\|Rahadin]] that the king made the dusk elf an honorary member of his family.
+[[4. World Almanac/NPCs/Rahadin.md\|Rahadin]] was exiled for refusing to bow down to a dusk elf prince whom he considered weak and corrupt. When the dusk elves later declined to pay fealty to King Barov, [[4. World Almanac/NPCs/Rahadin.md\|Rahadin]] helped Barov conquer them. The elf kingdom's royal line was obliterated, the dusk elves hunted like rabbits. The few that survived were either subjugated or forced to live among the Vistani. So pleased was Barov with [[4. World Almanac/NPCs/Rahadin.md\|Rahadin]] that the king made the dusk elf an honorary member of his family.
 
 #### Chamberlain
 
-After Barov died, [[4. World Almanac/NPCs/Rahadin (COS).md\|Rahadin]] continued to fight as one of Strahd's generals. When the wars ended and Strahd turned his attention to building Castle Ravenloft, [[4. World Almanac/NPCs/Rahadin (COS).md\|Rahadin]] saw to it that wizards and artisans were brought to Barovia. Years later, Strahd appointed [[4. World Almanac/NPCs/Rahadin (COS).md\|Rahadin]] his castle chamberlain. [[4. World Almanac/NPCs/Rahadin (COS).md\|Rahadin]] was pleased to do whatever Strahd asked of him, and he instilled terror in the castle staff by routinely flogging those who didn't perform their duties to his exacting standards.
+After Barov died, [[4. World Almanac/NPCs/Rahadin.md\|Rahadin]] continued to fight as one of Strahd's generals. When the wars ended and Strahd turned his attention to building Castle Ravenloft, [[4. World Almanac/NPCs/Rahadin.md\|Rahadin]] saw to it that wizards and artisans were brought to Barovia. Years later, Strahd appointed [[4. World Almanac/NPCs/Rahadin.md\|Rahadin]] his castle chamberlain. [[4. World Almanac/NPCs/Rahadin.md\|Rahadin]] was pleased to do whatever Strahd asked of him, and he instilled terror in the castle staff by routinely flogging those who didn't perform their duties to his exacting standards.
 
-When a dusk elf named [[4. World Almanac/NPCs/Patrina Velikovna (COS).md\|Patrina Velikovna]] came knocking on Strahd's door, [[4. World Almanac/NPCs/Rahadin (COS).md\|Rahadin]] could see that she intrigued Strahd, but [[4. World Almanac/NPCs/Rahadin (COS).md\|Rahadin]] was suspicious of her motives. Patrina tried to seduce Strahd with the prospect of immortality—something Strahd desired above all. She told him of a vault of forbidden lore called the Amber Temple, where the secret of gaining immortality was hidden. While Strahd was off exploring the temple, [[4. World Almanac/NPCs/Rahadin (COS).md\|Rahadin]] handled all of his master's affairs and began searching for a woman who could tear Strahd away from [[4. World Almanac/NPCs/Patrina Velikovna (COS).md\|Patrina Velikovna]]. In this task, he failed. His goal was fulfilled, however, when Sergei, Strahd's brother, found Tatyana.
+When a dusk elf named [[4. World Almanac/NPCs/Patrina Velikovna.md\|Patrina Velikovna]] came knocking on Strahd's door, [[4. World Almanac/NPCs/Rahadin.md\|Rahadin]] could see that she intrigued Strahd, but [[4. World Almanac/NPCs/Rahadin.md\|Rahadin]] was suspicious of her motives. Patrina tried to seduce Strahd with the prospect of immortality—something Strahd desired above all. She told him of a vault of forbidden lore called the Amber Temple, where the secret of gaining immortality was hidden. While Strahd was off exploring the temple, [[4. World Almanac/NPCs/Rahadin.md\|Rahadin]] handled all of his master's affairs and began searching for a woman who could tear Strahd away from [[4. World Almanac/NPCs/Patrina Velikovna.md\|Patrina Velikovna]]. In this task, he failed. His goal was fulfilled, however, when Sergei, Strahd's brother, found Tatyana.
 
-Tatyana was Strahd's type—a woman of exquisite beauty and gentle manner. When Strahd returned to Ravenloft, the young woman instantly caught his eye, and [[4. World Almanac/NPCs/Rahadin (COS).md\|Rahadin]] had the pleasure of informing Patrina that her presence at the castle was no longer desired.
+Tatyana was Strahd's type—a woman of exquisite beauty and gentle manner. When Strahd returned to Ravenloft, the young woman instantly caught his eye, and [[4. World Almanac/NPCs/Rahadin.md\|Rahadin]] had the pleasure of informing Patrina that her presence at the castle was no longer desired.
 
-[[4. World Almanac/NPCs/Rahadin (COS).md\|Rahadin]]'s loyalty didn't waver after Tatyana died and Strahd became a vampire. [[4. World Almanac/NPCs/Rahadin (COS).md\|Rahadin]] continued to do his master's bidding. Eager to put Tatyana out of his mind, Strahd lured more women to the castle, taking several of them as brides before draining their lives and turning them into vampire spawn. [[4. World Almanac/NPCs/Rahadin (COS).md\|Rahadin]] would see to it that these women were lavished with jewels and fine clothes, and made comfortable during their stay in Ravenloft.
+[[4. World Almanac/NPCs/Rahadin.md\|Rahadin]]'s loyalty didn't waver after Tatyana died and Strahd became a vampire. [[4. World Almanac/NPCs/Rahadin.md\|Rahadin]] continued to do his master's bidding. Eager to put Tatyana out of his mind, Strahd lured more women to the castle, taking several of them as brides before draining their lives and turning them into vampire spawn. [[4. World Almanac/NPCs/Rahadin.md\|Rahadin]] would see to it that these women were lavished with jewels and fine clothes, and made comfortable during their stay in Ravenloft.
 
 #### Executioner
 
-[[4. World Almanac/NPCs/Patrina Velikovna (COS).md\|Patrina Velikovna]] and her people were living among the Vistani when they heard of Tatyana's death and Strahd's curse. The ageless Patrina returned to Ravenloft in the hope of winning Strahd's love. This time, it was clear that Patrina craved Strahd's power and that Strahd would never love her. [[4. World Almanac/NPCs/Rahadin (COS).md\|Rahadin]] assumed that Patrina would suffer the same fate as those women who had come before her. He was proven wrong when Patrina's own people stoned her to death to keep Strahd from claiming her as his wife.
+[[4. World Almanac/NPCs/Patrina Velikovna.md\|Patrina Velikovna]] and her people were living among the Vistani when they heard of Tatyana's death and Strahd's curse. The ageless Patrina returned to Ravenloft in the hope of winning Strahd's love. This time, it was clear that Patrina craved Strahd's power and that Strahd would never love her. [[4. World Almanac/NPCs/Rahadin.md\|Rahadin]] assumed that Patrina would suffer the same fate as those women who had come before her. He was proven wrong when Patrina's own people stoned her to death to keep Strahd from claiming her as his wife.
 
-Strahd was upset that the dusk elves had taken Patrina from him. After securing her body and entombing it in the catacombs of Ravenloft, Strahd sent [[4. World Almanac/NPCs/Rahadin (COS).md\|Rahadin]] to punish the dusk elves. [[4. World Almanac/NPCs/Rahadin (COS).md\|Rahadin]] slew the female elves so that the males couldn't breed. He also sliced off the ears of Patrina's brother, Kasimir, who had orchestrated the stoning.
+Strahd was upset that the dusk elves had taken Patrina from him. After securing her body and entombing it in the catacombs of Ravenloft, Strahd sent [[4. World Almanac/NPCs/Rahadin.md\|Rahadin]] to punish the dusk elves. [[4. World Almanac/NPCs/Rahadin.md\|Rahadin]] slew the female elves so that the males couldn't breed. He also sliced off the ears of Patrina's brother, Kasimir, who had orchestrated the stoning.
 
 #### Screams of the Dead
 
-So dreadful a creature is [[4. World Almanac/NPCs/Rahadin (COS).md\|Rahadin]] that anyone who stands within 10 feet of him can hear the howling screams of the countless men and women he has killed in his lifetime. [[4. World Almanac/NPCs/Rahadin (COS).md\|Rahadin]] can't hear them, nor would he be haunted by them if he could. The only thing he cares about is [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]], for whom he would gladly give his life.
+So dreadful a creature is [[4. World Almanac/NPCs/Rahadin.md\|Rahadin]] that anyone who stands within 10 feet of him can hear the howling screams of the countless men and women he has killed in his lifetime. [[4. World Almanac/NPCs/Rahadin.md\|Rahadin]] can't hear them, nor would he be haunted by them if he could. The only thing he cares about is [[4. World Almanac/NPCs/Strahd Von Zarovich.md\|Strahd von Zarovich]], for whom he would gladly give his life.
 
 #### Rahadin's Traits
 
@@ -500,7 +500,7 @@ So dreadful a creature is [[4. World Almanac/NPCs/Rahadin (COS).md\|Rahadin]] th
 
 ### Rictavio
 
-Several months ago, a [[4. World Almanac/NPCs/Rictavio (COS).md\|colorfully dressed half-elf bard]] came to Barovia in a carnival wagon, with a pet monkey on his shoulder. He took over an abandoned tower on Lake Baratok before rolling into the town of Vallaki several months later. Claiming to be a carnival ringmaster in search of new actors, he began regaling locals with tales of distant lands.
+Several months ago, a [[4. World Almanac/NPCs/Rictavio.md\|colorfully dressed half-elf bard]] came to Barovia in a carnival wagon, with a pet monkey on his shoulder. He took over an abandoned tower on Lake Baratok before rolling into the town of Vallaki several months later. Claiming to be a carnival ringmaster in search of new actors, he began regaling locals with tales of distant lands.
 
 #### Monster Hunter
 
@@ -508,11 +508,11 @@ The half-elf ringmaster is, in fact, a legendary human vampire hunter named Rudo
 
 #### The Waiting Game
 
-Van Richten isn't a young man anymore. He knows his road is coming to an end, but his work isn't done. He has come to Barovia to kill [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]], the greatest vampire of them all. Van Richten has studied Strahd for years and knows he can't hope to best the vampire in a straight-up confrontation: he must wait for the right moment to strike. He has good evidence to suggest that Strahd periodically hibernates in his coffin, sometimes for years, when all is quiet in the realm. While he bides his time, van Richten hides in plain sight with the aid of a [[5. Mechanics/Items/Hat Of Disguise.md\|hat of disguise]], his thoughts protected by a [[5. Mechanics/Items/Ring Of Mind Shielding.md\|ring of mind shielding]]. He is trying to learn more about the Keepers of the Feather—a society of wereravens that oppose Strahd—while trying not to expose the secret society to their mutual enemy. He thinks the wereravens might prove helpful when the time comes. Van Richten also wants to take out as many of Strahd's spies as he can, starting with evil Vistani.
+Van Richten isn't a young man anymore. He knows his road is coming to an end, but his work isn't done. He has come to Barovia to kill [[4. World Almanac/NPCs/Strahd Von Zarovich.md\|Strahd von Zarovich]], the greatest vampire of them all. Van Richten has studied Strahd for years and knows he can't hope to best the vampire in a straight-up confrontation: he must wait for the right moment to strike. He has good evidence to suggest that Strahd periodically hibernates in his coffin, sometimes for years, when all is quiet in the realm. While he bides his time, van Richten hides in plain sight with the aid of a hat of disguise, his thoughts protected by a ring of mind shielding. He is trying to learn more about the Keepers of the Feather—a society of wereravens that oppose Strahd—while trying not to expose the secret society to their mutual enemy. He thinks the wereravens might prove helpful when the time comes. Van Richten also wants to take out as many of Strahd's spies as he can, starting with evil Vistani.
 
 #### Man with a Plan
 
-Van Richten doesn't know that his former protégé, a good-aligned Vistana named [[4. World Almanac/NPCs/Ezmerelda Davenir (COS).md\|Ezmerelda d'Avenir]], has come to Barovia looking for him. He taught her many of his monster-hunting techniques, but she doesn't know all of his tricks and disguises. So far, their paths haven't crossed. In the event that van Richten becomes aware of Ezmerelda's presence, he does his utmost to protect her without putting his own plans in jeopardy. If he can manipulate a party of adventurers into keeping an eye on her, he will do so.
+Van Richten doesn't know that his former protégé, a good-aligned Vistana named [[4. World Almanac/NPCs/Ezmerelda Davenir.md\|Ezmerelda d'Avenir]], has come to Barovia looking for him. He taught her many of his monster-hunting techniques, but she doesn't know all of his tricks and disguises. So far, their paths haven't crossed. In the event that van Richten becomes aware of Ezmerelda's presence, he does his utmost to protect her without putting his own plans in jeopardy. If he can manipulate a party of adventurers into keeping an eye on her, he will do so.
 
 Van Richten works alone. A curse placed on him long ago by a Vistani seer brings doom to those he befriends. Furthermore, he believes too much is at stake to risk exposure. Consequently, if he thinks he's in danger of being unmasked, he retreats to his tower (see chapter 11) or some other quiet corner of Strahd's domain.
 
@@ -534,7 +534,7 @@ Van Richten works alone. A curse placed on him long ago by a Vistani seer brings
 
 ### Strahd von Zarovich
 
-With his mind sharp and his heart dark, [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]] is a formidable foe. Courage and lives beyond measure have been lost to him. Reread chapter 1, "Into the Mists," to understand his personality and goals.
+With his mind sharp and his heart dark, [[4. World Almanac/NPCs/Strahd Von Zarovich.md\|Strahd von Zarovich]] is a formidable foe. Courage and lives beyond measure have been lost to him. Reread chapter 1, "Into the Mists," to understand his personality and goals.
 
 Although Strahd can be encountered almost anywhere in his domain, the vampire is always encountered in the place indicated by the card reading in chapter 1, unless he has been forced into his tomb in the catacombs of Castle Ravenloft.
 
@@ -546,7 +546,7 @@ When you run an encounter with Strahd, keep the following facts in mind:
 
 - Strahd attacks at the most advantageous moment and from the most advantageous position.  
 - Strahd knows when he's in over his head. If he begins taking more damage than he can regenerate, he moves beyond the reach of melee combatants and spellcasters, or he flies away (using summoned [[5. Mechanics/Bestiary/Beast/Wolf.md\|wolves]] or [[5. Mechanics/Bestiary/Beast/Swarm Of Bats.md\|swarms of bats]] or [[5. Mechanics/Bestiary/Beast/Swarm Of Rats.md\|rats]] to guard his retreat).  
-- Strahd observes the characters to see who among them are most easily swayed, then tries to charm characters who have low Wisdom scores and use them as thralls. At the very least, he can order a [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] character to guard him against other members of the adventuring party.  
+- Strahd observes the characters to see who among them are most easily swayed, then tries to charm characters who have low Wisdom scores and use them as thralls. At the very least, he can order a charmed character to guard him against other members of the adventuring party.  
 
 #### The Vampire's Minions
 
@@ -575,24 +575,24 @@ Any damage that Strahd takes is transferred to the Heart of Sorrow (see chapter 
 
 The effect of the protection afforded by the Heart of Sorrow can be chilling to behold, as damage to Strahd is quickly undone. For example, a critical hit might dislocate Strahd's jaw, but only for a moment; then the vampire's jaw quickly resets itself.
 
-The ability of the Heart of Sorrow to absorb damage is suppressed if it or Strahd is fully within an [[5. Mechanics/Spells/Antimagic Field.md\|antimagic field]].
+The ability of the Heart of Sorrow to absorb damage is suppressed if it or Strahd is fully within an antimagic field.
 
 #### Lair Actions
 
-While Strahd is in Castle Ravenloft, he can take lair actions as long as he isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]].
+While Strahd is in Castle Ravenloft, he can take lair actions as long as he isn't incapacitated.
 
 On initiative count 20 (losing initiative ties), Strahd can take one of the following lair action options, or forgo using any of them in that round:
 
 - Until initiative count 20 of the next round, Strahd can pass through solid walls, doors, ceilings, and floors as if they weren't there.  
 - Strahd targets any number of doors and windows that he can see, causing each one to either open or close as he wishes. Closed doors can be magically locked (needing a successful DC 20 Strength check to force open) until Strahd chooses to end the effect, or until Strahd uses this lair action again.  
 - Strahd summons the angry spirit of one who has died in the castle. The apparition appears next to a hostile creature that Strahd can see, makes an attack against that creature, and then disappears. The apparition has the statistics of a [[5. Mechanics/Bestiary/Undead/Specter.md\|specter]].  
-- Strahd targets one Medium or smaller creature that casts a shadow. The target's shadow must be visible to Strahd and within 30 feet of him. If the target fails a DC 17 Charisma saving throw, its shadow detaches from it and becomes a [[5. Mechanics/Bestiary/Undead/Shadow.md\|shadow]] that obeys Strahd's commands, acting on initiative count 20. A [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell or a [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell cast on the target restores its natural shadow, but only if its undead shadow has been destroyed.  
+- Strahd targets one Medium or smaller creature that casts a shadow. The target's shadow must be visible to Strahd and within 30 feet of him. If the target fails a DC 17 Charisma saving throw, its shadow detaches from it and becomes a [[5. Mechanics/Bestiary/Undead/Shadow.md\|shadow]] that obeys Strahd's commands, acting on initiative count 20. A greater restoration spell or a remove curse spell cast on the target restores its natural shadow, but only if its undead shadow has been destroyed.  
 
 ![[6. Resources/5e Modules/Curse Of Strahd/img/153-636988936829621698.webp#center\|Strahd von Zarovich]]
 
 ### Strahd Zombie
 
-[[5. Mechanics/Bestiary/Undead/Strahd Zombie (COS).md\|Strahd zombies]] are undead that serve the vampire [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]]. Created from the long-dead guards of Castle Ravenloft, they were called into being through dark magic by Strahd himself.
+[[5. Mechanics/Bestiary/Undead/Strahd Zombie (COS).md\|Strahd zombies]] are undead that serve the vampire [[4. World Almanac/NPCs/Strahd Von Zarovich.md\|Strahd von Zarovich]]. Created from the long-dead guards of Castle Ravenloft, they were called into being through dark magic by Strahd himself.
 
 #### Loathsome Limbs
 
@@ -604,11 +604,11 @@ A Strahd zombie doesn't require air or sleep.
 
 ### Vladimir Horngaard
 
-[[4. World Almanac/NPCs/Vladimir Horngaard (COS).md\|Vladimir Horngaard]] joined the Order of the Silver Dragon at a young age and quickly earned the friendship of its founder, the silver dragon Argynvost. When he became a [[5. Mechanics/Bestiary/Undead/Knight Of The Order (COS).md\|knight of the order]], he traveled to distant lands to wage war against the forces of evil. The dragon stayed home and, in the guise of a human noble named Lord Argynvost, brought new initiates into the order.
+[[4. World Almanac/NPCs/Vladimir Horngaard.md\|Vladimir Horngaard]] joined the Order of the Silver Dragon at a young age and quickly earned the friendship of its founder, the silver dragon Argynvost. When he became a [[5. Mechanics/Bestiary/Undead/Knight Of The Order (COS).md\|knight of the order]], he traveled to distant lands to wage war against the forces of evil. The dragon stayed home and, in the guise of a human noble named Lord Argynvost, brought new initiates into the order.
 
 #### Enemies of Strahd
 
-Vladimir found himself fighting Strahd's armies time and again as they swept across the land. When it became clear that Strahd couldn't be stopped, the knights of the order led hundreds of refugees to Argynvost's valley, but Strahd tracked them to their sanctuary and overwhelmed them with a vast force. Vladimir, whom Argynvost had made a field commander, couldn't hold back the evil tide and was killed, only after the heartbreak of witnessing Strahd himself slay Vladimir's beloved, his fellow knight [[4. World Almanac/NPCs/Sir Godfrey Gwilym (COS).md\|Sir Godfrey Gwilym]]. With the battle won, Strahd surrounded Argynvostholt. Rather than cower in his lair, Argynvost emerged and battled Strahd's armies to the bitter end.
+Vladimir found himself fighting Strahd's armies time and again as they swept across the land. When it became clear that Strahd couldn't be stopped, the knights of the order led hundreds of refugees to Argynvost's valley, but Strahd tracked them to their sanctuary and overwhelmed them with a vast force. Vladimir, whom Argynvost had made a field commander, couldn't hold back the evil tide and was killed, only after the heartbreak of witnessing Strahd himself slay Vladimir's beloved, his fellow knight [[4. World Almanac/NPCs/Sir Godfrey Gwilym.md\|Sir Godfrey Gwilym]]. With the battle won, Strahd surrounded Argynvostholt. Rather than cower in his lair, Argynvost emerged and battled Strahd's armies to the bitter end.
 
 #### Deadly Vengeance
 
@@ -624,13 +624,13 @@ Were Vladimir to let go of his hatred, his spirit would find peace and could rem
 
 #### Statistics
 
-[[4. World Almanac/NPCs/Vladimir Horngaard (COS).md\|Vladimir Horngaard]] has the statistics of a [[5. Mechanics/Bestiary/Undead/Revenant.md\|revenant]] with the following modifications:
+[[4. World Almanac/NPCs/Vladimir Horngaard.md\|Vladimir Horngaard]] has the statistics of a [[5. Mechanics/Bestiary/Undead/Revenant.md\|revenant]] with the following modifications:
 
 - Vladimir's alignment is lawful evil.  
 - His Armor Class is 17 (half plate).  
 - He has 192 hit points.  
 - He speaks Common and Draconic.  
-- Vladimir wields a [greatsword, +2](compendium/items/2-weapon.md) with a hilt sculpted to resemble silver dragon wings and a pommel shaped like a silver dragon's head clutching a black opal between its teeth. As an action, he can make two attacks with the sword (+9 to hit). It deals `dice: 4d6 + 6|avg` (`4d6 + 6`) slashing damage on a hit. Against Strahd, Vladimir deals an extra `dice: 4d6|avg` (`4d6`) slashing damage with the weapon.  
+- Vladimir wields a greatsword, +2 with a hilt sculpted to resemble silver dragon wings and a pommel shaped like a silver dragon's head clutching a black opal between its teeth. As an action, he can make two attacks with the sword (+9 to hit). It deals `dice: 4d6 + 6|avg` (`4d6 + 6`) slashing damage on a hit. Against Strahd, Vladimir deals an extra `dice: 4d6|avg` (`4d6`) slashing damage with the weapon.  
 - Vladimir has a challenge rating of 7 (2,900 XP).  
 
 ![[6. Resources/5e Modules/Curse Of Strahd/img/154-cos19-11.webp#center]]

@@ -1,44 +1,50 @@
 ---
 obsidianUIMode: preview
+statblock: inline
 pronounced: 
 race: 
-sex: 
+sex: male
 age: 
 alignment: 
 condition: healthy
 occupation: 
 group: 
-religion: 
+religions: 
 location: 
-personality: 
+personality: ""
 ideal: 
 bond: 
 flaw: 
 goals: 
 likes: 
-dislikes:
+dislikes: 
+tags:
+- compendium/src/5e/cos
+- monster/cr/0
+- monster/size/medium
+- monster/type/humanoid/human
+aliases: ["Lief Lipsiege"]
 ---
 
 > [!infobox]
 > # `=this.file.name`
-> **Pronounced:**  "`=this.pronounced`"
+> **Pronounced:**  "`INPUT[text:pronounced]`"
 > ###### Bio
 >  |
-> ---|---|
-> **Race** | `=this.race` |
-> **Sex** | `=this.gender` |
-> **Age** | `=this.age` |
-> **Sexuality** | `=this.sexuality` |
-> **Alignment** | `=this.alignment` |
-> **Condition** | `=this.condition` |
+>  ---|---|
+> **Race** | `INPUT[suggester(optionQuery("5. Mechanics/Races")):race]` |
+> **Sex** | `INPUT[inlineSelect(option(male),option(female)):sex]` |
+> **Age** | `INPUT[number:age]` |
+> **Alignment** | `INPUT[inlineSelect(option(lawful good),option(neutral good),option(chaotic good),option(lawful neutral),option(neutral),option(chaotic neutral),option(lawful evil),option(netural evil),option(chaotic evil)):alignment]` |
+> **Condition** | `INPUT[inlineSelect(option(healthy),option(injured),option(dead)):condition]` |
 > ###### Info
 >  |
-> ---|---|
-> **Alias(es)** | `=this.alias` |
-> **Occupation(s)** | `=this.occupation` |
-> **Group(s)** | `=link(this.AssociatedGroup)` |
-> **Religion(s)** | `=link(this.AssociatedReligion)` |
-> **Current Location** | `=link(this.location)` |
+>  ---|---|
+> **Alias(es)** | `INPUT[inlineList:aliases]` |
+> **Occupation(s)** | `INPUT[inlineList:occupation]` |
+> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Religion(s)** | `INPUT[inlineList:religions]` |
+> **Current Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 # **`=this.file.name`**
 > [!info|bg-c-purple]- Overview
@@ -46,25 +52,56 @@ TBD
 
 > [!column] Traits
 >> [!metadata|text-Center bg-c-gray] Personality
->> `=this.personality`
+>> `INPUT[text:personality]`
 >
 >> [!metadata|text-Center bg-c-gray] Ideal
->> `=this.ideal`
+>> `INPUT[text:ideal]`
 >
 >> [!metadata|text-Center bg-c-gray] Bond
->> `=this.Bond`
+>> `INPUT[text:bond]`
 >
 >> [!metadata|text-Center bg-c-gray] Flaw
->> `=this.flaw`
+>> `INPUT[text:flaw]`
 >
 >> [!metadata|text-Center bg-c-green] Likes
->> `=this.likes`
+>> `INPUT[text:likes]`
 >
 >> [!metadata|text-Center bg-c-red] Dislikes
->> `=this.dislikes`
+>> `INPUT[text:dislikes]`
 
 > [!column|dataview] Goals
->> `=this.goals`
+>> `INPUT[textArea:goals]`
+
+## Stats
+```statblock
+"name": "Lief Lipsiege (CoS)"
+"size": "Medium"
+"type": "humanoid"
+"subtype": "human"
+"alignment": "Chaotic Evil"
+"ac": !!int "10"
+"hp": !!int "4"
+"hit_dice": "1d8"
+"stats":
+- !!int "10"
+- !!int "10"
+- !!int "10"
+- !!int "10"
+- !!int "10"
+- !!int "10"
+"speed": "30 ft."
+"senses": "passive Perception 10"
+"languages": "any one language (usually Common)"
+"cr": "0"
+"actions":
+- "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 1d4|avg (1d4) bludgeoning damage."
+  "name": "Club"
+"source":
+- "CoS"
+"image": "compendium/bestiary/npc/token/lief-lipsiege.png"
+```
+^statblock
 
 ## Acquaintances
 > [!column|dataview] Acquaintances

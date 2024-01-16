@@ -41,7 +41,7 @@ When you make your character, you can roll once on the Trinkets table to gain a 
 | 43-44 | A jar of pickled ghouls' tongues |
 | 45-46 | The wooden hand of a notorious pirate |
 | 47-48 | An urn with the ashes of a dead relative |
-| 49-50 | A hand mirror backed with a bronze depiction of a [[5. Mechanics/Bestiary/Monstrosity/Medusa.md\|medusa]] |
+| 49-50 | A hand mirror backed with a bronze depiction of a medusa |
 | 51-52 | Pallid leather gloves crafted with ivory fingernails |
 | 53-54 | Dice made from the knuckles of a notorious charlatan |
 | 55-56 | A ring of keys for forgotten locks |

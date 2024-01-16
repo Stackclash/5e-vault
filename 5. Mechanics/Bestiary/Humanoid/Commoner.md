@@ -16,10 +16,8 @@ tags:
 statblock: inline
 aliases: ["Commoner"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Commoner.md|Commoner]]
-*Source: Monster Manual p. 345, Curse of Strahd, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
-
-Commoners include peasants, serfs, slaves, servants, pilgrims, merchants, artisans, and hermits.
+# [[5. Mechanics/Bestiary/Humanoid/Commoner.md|Commoner]]
+*Source: Monster Manual p. 345, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 ```statblock
 "name": "Commoner"
@@ -80,6 +78,10 @@ Commoners include peasants, serfs, slaves, servants, pilgrims, merchants, artisa
 - "AATM"
 - "SatO"
 - "ToFW"
+- "BMT"
+- "HFStCM"
+- "GHLoE"
+- "DoDk"
 "image": "5. Mechanics/Bestiary/Humanoid/token/commoner.png"
 ```
 ^statblock

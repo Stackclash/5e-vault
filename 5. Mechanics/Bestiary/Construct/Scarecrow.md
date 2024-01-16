@@ -10,14 +10,8 @@ tags:
 statblock: inline
 aliases: ["Scarecrow"]
 ---
-# [[5. Mechanics\Bestiary\Construct\Scarecrow.md|Scarecrow]]
+# [[5. Mechanics/Bestiary/Construct/Scarecrow.md|Scarecrow]]
 *Source: Monster Manual p. 268, Curse of Strahd*  
-
-At harvest time, when death revisits the twilit world and summer's blossoms bow their withered heads, eerie scarecrows loom in silent vigil over empty fields. With immortal patience, these stoic sentinels hold their posts through wind, storm, and flood, bound to their master's command, eager to terrify prey with its sackcloth visage and rend victims with its razor-sharp claws.
-
-## Spirit-Powered Constructs
-
-A scarecrow is animated by the bound spirit of a slain evil creature, granting it purpose and mobility. It is this uncanny presence from beyond death that allows a scarecrow to inspire fear in those it gazes upon. Hags and witches often bind scarecrows with the spirits of demons, but any evil spirit will do. Although aspects of the spirit's personality might surface, a scarecrow's spirit doesn't recall the memories it had as a creature, and its will is focused solely on serving its creator. If its creator dies, the spirit inhabiting a scarecrow either continues to follow its last commands, seeks revenge for its creator's death, or destroys itself.
 
 ```statblock
 "name": "Scarecrow"
@@ -38,9 +32,7 @@ A scarecrow is animated by the bound spirit of a slain evil creature, granting i
 "damage_vulnerabilities": "fire"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]"
+"condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned, unconscious"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "1"
@@ -53,14 +45,13 @@ A scarecrow is animated by the bound spirit of a slain evil creature, granting i
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
     \ Hit: dice: 2d4 + 1|avg (2d4 + 1) slashing damage. If the target is a creature,\
-    \ it must succeed on a DC 11 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
-    \ until the end of the scarecrow's next turn."
+    \ it must succeed on a DC 11 Wisdom saving throw or be frightened until the end\
+    \ of the scarecrow's next turn."
   "name": "Claw"
 - "desc": "The scarecrow targets one creature it can see within 30 feet of it. If\
     \ the target can see the scarecrow, the target must succeed on a DC 11 Wisdom\
-    \ saving throw or be magically [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
-    \ until the end of the scarecrow's next turn. The [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
-    \ target is [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]."
+    \ saving throw or be magically frightened until the end of the scarecrow's next\
+    \ turn. The frightened target is paralyzed."
   "name": "Terrifying Glare"
 "source":
 - "MM"

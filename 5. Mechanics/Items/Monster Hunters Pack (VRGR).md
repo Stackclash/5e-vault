@@ -16,16 +16,16 @@ cost: 33 gp
 
 Includes:
 
-- a [[5. Mechanics/Items/Chest.md\|chest]]  
-- a [[5. Mechanics/Items/Crowbar.md\|crowbar]]  
-- a [[5. Mechanics/Items/Hammer.md\|hammer]]  
+- a chest  
+- a crowbar  
+- a hammer  
 - three wooden stakes  
-- a [[5. Mechanics/Items/Holy Symbol.md\|holy symbol]]  
-- a [[5. Mechanics/Items/Holy Water Flask.md\|flask of holy water]]  
-- a set of [[5. Mechanics/Items/Manacles.md\|manacles]]  
-- a [[5. Mechanics/Items/Steel Mirror.md\|steel mirror]]  
-- a [[5. Mechanics/Items/Oil Flask.md\|flask of oil]]  
-- a [[5. Mechanics/Items/Tinderbox.md\|tinderbox]]  
-- 3 [[5. Mechanics/Items/Torch.md\|torches]]  
+- a holy symbol  
+- a flask of holy water  
+- a set of manacles  
+- a steel mirror  
+- a flask of oil  
+- a tinderbox  
+- 3 torches  
 
 *Source: Van Richten's Guide to Ravenloft p. 34, Curse of Strahd p. 209*

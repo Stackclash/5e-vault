@@ -14,10 +14,8 @@ tags:
 statblock: inline
 aliases: ["Giant Wolf Spider"]
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Wolf Spider.md|Giant Wolf Spider]]
-*Source: Monster Manual p. 330, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
-
-Smaller than a giant spider, a giant wolf spider hunts prey across open ground or hides in a burrow or crevice, or in a hidden cavity beneath debris.
+# [[5. Mechanics/Bestiary/Beast/Giant Wolf Spider.md|Giant Wolf Spider]]
+*Source: Monster Manual p. 330, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 ```statblock
 "name": "Giant Wolf Spider"
@@ -55,9 +53,9 @@ Smaller than a giant spider, a giant wolf spider hunts prey across open ground o
     \ Hit: dice: 1d6 + 1|avg (1d6 + 1) piercing damage, and the target must\
     \ make a DC 11 Constitution saving throw, taking dice: 2d6|avg (2d6) poison\
     \ damage on a failed save, or half as much damage on a successful one. If the\
-    \ poison damage reduces the target to 0 hit points, the target is stable but [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
-    \ for 1 hour, even after regaining hit points, and is [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
-    \ while [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in this way."
+    \ poison damage reduces the target to 0 hit points, the target is stable but poisoned\
+    \ for 1 hour, even after regaining hit points, and is paralyzed while poisoned\
+    \ in this way."
   "name": "Bite"
 "source":
 - "MM"

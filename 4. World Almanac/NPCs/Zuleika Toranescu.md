@@ -1,45 +1,52 @@
 ---
 obsidianUIMode: preview
+statblock: inline
 pronounced: 
 race: 
-sex: 
+sex: male
 age: 
 alignment: 
 condition: healthy
 occupation: 
 group: 
-religion: 
+religions: 
 location: 
-personality: 
+personality: ""
 ideal: 
 bond: 
 flaw: 
 goals: 
 likes: 
-dislikes:
+dislikes: 
+tags:
+- compendium/src/5e/cos
+- monster/cr/3
+- monster/size/medium
+- monster/type/humanoid/human
+- monster/type/humanoid/shapechanger
+aliases: ["Zuleika Toranescu"]
 ---
 
 > [!infobox]
 > # `=this.file.name`
-> **Pronounced:**  "`=this.pronounced`"
-> ![[4. World Almanac/NPCs/img/zuleika-toranescu.webp|cover hm-sm]] 
+> **Pronounced:**  "`INPUT[text:pronounced]`"
+> ![[compendium/bestiary/npc/img/zuleika-toranescu.webp|cover hm-sm]] 
 > ###### Bio
 >  |
-> ---|---|
-> **Race** | `=this.race` |
-> **Sex** | `=this.gender` |
-> **Age** | `=this.age` |
-> **Sexuality** | `=this.sexuality` |
-> **Alignment** | `=this.alignment` |
-> **Condition** | `=this.condition` |
+>  ---|---|
+> **Race** | `INPUT[suggester(optionQuery("5. Mechanics/Races")):race]` |
+> **Sex** | `INPUT[inlineSelect(option(male),option(female)):sex]` |
+> **Age** | `INPUT[number:age]` |
+> **Alignment** | `INPUT[inlineSelect(option(lawful good),option(neutral good),option(chaotic good),option(lawful neutral),option(neutral),option(chaotic neutral),option(lawful evil),option(netural evil),option(chaotic evil)):alignment]` |
+> **Condition** | `INPUT[inlineSelect(option(healthy),option(injured),option(dead)):condition]` |
 > ###### Info
 >  |
-> ---|---|
-> **Alias(es)** | `=this.alias` |
-> **Occupation(s)** | `=this.occupation` |
-> **Group(s)** | `=link(this.AssociatedGroup)` |
-> **Religion(s)** | `=link(this.AssociatedReligion)` |
-> **Current Location** | `=link(this.location)` |
+>  ---|---|
+> **Alias(es)** | `INPUT[inlineList:aliases]` |
+> **Occupation(s)** | `INPUT[inlineList:occupation]` |
+> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Religion(s)** | `INPUT[inlineList:religions]` |
+> **Current Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 # **`=this.file.name`**
 > [!info|bg-c-purple]- Overview
@@ -47,25 +54,83 @@ TBD
 
 > [!column] Traits
 >> [!metadata|text-Center bg-c-gray] Personality
->> `=this.personality`
+>> `INPUT[text:personality]`
 >
 >> [!metadata|text-Center bg-c-gray] Ideal
->> `=this.ideal`
+>> `INPUT[text:ideal]`
 >
 >> [!metadata|text-Center bg-c-gray] Bond
->> `=this.Bond`
+>> `INPUT[text:bond]`
 >
 >> [!metadata|text-Center bg-c-gray] Flaw
->> `=this.flaw`
+>> `INPUT[text:flaw]`
 >
 >> [!metadata|text-Center bg-c-green] Likes
->> `=this.likes`
+>> `INPUT[text:likes]`
 >
 >> [!metadata|text-Center bg-c-red] Dislikes
->> `=this.dislikes`
+>> `INPUT[text:dislikes]`
 
 > [!column|dataview] Goals
->> `=this.goals`
+>> `INPUT[textArea:goals]`
+
+## Stats
+```statblock
+"name": "Zuleika Toranescu (CoS)"
+"size": "Medium"
+"type": "humanoid"
+"subtype": "human, shapechanger"
+"alignment": "Chaotic Evil"
+"ac": !!int "11"
+"hp": !!int "58"
+"hit_dice": "9d8 + 18"
+"stats":
+- !!int "15"
+- !!int "13"
+- !!int "14"
+- !!int "10"
+- !!int "11"
+- !!int "10"
+"speed": "30 ft. (40 ft. in wolf form)"
+"skillsaves":
+  "Stealth": !!int "3"
+  "Perception": !!int "4"
+"damage_immunities": "bludgeoning, piercing, slashing from nonmagical attacks that\
+  \ aren't silvered"
+"senses": "passive Perception 14"
+"languages": "Common (can't speak in wolf form)"
+"cr": "3"
+"traits":
+- "desc": "Zuleika can use its action to polymorph into a wolf-humanoid hybrid or\
+    \ into a wolf, or back into its true form, which is humanoid. Its statistics,\
+    \ other than its AC, are the same in each form. Any equipment it is wearing or\
+    \ carrying isn't transformed. It reverts to its true form if it dies."
+  "name": "Shapechanger"
+- "desc": "Zuleika has advantage on Wisdom (Perception) checks that rely on hearing\
+    \ or smell."
+  "name": "Keen Hearing and Smell"
+"actions":
+- "desc": "Zuleika makes two attacks: two with its spear (humanoid form) or one with\
+    \ its bite and one with its claws (hybrid form)."
+  "name": "Multiattack (Humanoid or Hybrid Form Only)"
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 1d8 + 2|avg (1d8 + 2) piercing damage. If the target is a humanoid,\
+    \ it must succeed on a DC 12 Constitution saving throw or be cursed with werewolf\
+    \ lycanthropy."
+  "name": "Bite (Wolf or Hybrid Form Only)"
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
+    \ Hit: dice: 2d4 + 2|avg (2d4 + 2) slashing damage."
+  "name": "Claws (Hybrid Form Only)"
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft.\
+    \ or range 20/60 ft., one creature. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing\
+    \ damage, or dice: 1d8 + 2|avg (1d8 + 2) piercing damage if used with two\
+    \ hands to make a melee attack."
+  "name": "Spear (Humanoid Form Only)"
+"source":
+- "CoS"
+"image": "compendium/bestiary/npc/token/zuleika-toranescu.png"
+```
+^statblock
 
 ## Acquaintances
 > [!column|dataview] Acquaintances

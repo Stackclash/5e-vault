@@ -1,44 +1,50 @@
 ---
 obsidianUIMode: preview
+statblock: inline
 pronounced: 
 race: 
-sex: 
+sex: male
 age: 
 alignment: 
 condition: healthy
 occupation: 
 group: 
-religion: 
+religions: 
 location: 
-personality: 
+personality: ""
 ideal: 
 bond: 
 flaw: 
 goals: 
 likes: 
-dislikes:
+dislikes: 
+tags:
+- compendium/src/5e/cos
+- monster/cr/1-4
+- monster/size/medium
+- monster/type/humanoid/mongrelfolk
+aliases: ["Mishka Belview"]
 ---
 
 > [!infobox]
 > # `=this.file.name`
-> **Pronounced:**  "`=this.pronounced`"
+> **Pronounced:**  "`INPUT[text:pronounced]`"
 > ###### Bio
 >  |
-> ---|---|
-> **Race** | `=this.race` |
-> **Sex** | `=this.gender` |
-> **Age** | `=this.age` |
-> **Sexuality** | `=this.sexuality` |
-> **Alignment** | `=this.alignment` |
-> **Condition** | `=this.condition` |
+>  ---|---|
+> **Race** | `INPUT[suggester(optionQuery("5. Mechanics/Races")):race]` |
+> **Sex** | `INPUT[inlineSelect(option(male),option(female)):sex]` |
+> **Age** | `INPUT[number:age]` |
+> **Alignment** | `INPUT[inlineSelect(option(lawful good),option(neutral good),option(chaotic good),option(lawful neutral),option(neutral),option(chaotic neutral),option(lawful evil),option(netural evil),option(chaotic evil)):alignment]` |
+> **Condition** | `INPUT[inlineSelect(option(healthy),option(injured),option(dead)):condition]` |
 > ###### Info
 >  |
-> ---|---|
-> **Alias(es)** | `=this.alias` |
-> **Occupation(s)** | `=this.occupation` |
-> **Group(s)** | `=link(this.AssociatedGroup)` |
-> **Religion(s)** | `=link(this.AssociatedReligion)` |
-> **Current Location** | `=link(this.location)` |
+>  ---|---|
+> **Alias(es)** | `INPUT[inlineList:aliases]` |
+> **Occupation(s)** | `INPUT[inlineList:occupation]` |
+> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Religion(s)** | `INPUT[inlineList:religions]` |
+> **Current Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 # **`=this.file.name`**
 > [!info|bg-c-purple]- Overview
@@ -46,25 +52,77 @@ TBD
 
 > [!column] Traits
 >> [!metadata|text-Center bg-c-gray] Personality
->> `=this.personality`
+>> `INPUT[text:personality]`
 >
 >> [!metadata|text-Center bg-c-gray] Ideal
->> `=this.ideal`
+>> `INPUT[text:ideal]`
 >
 >> [!metadata|text-Center bg-c-gray] Bond
->> `=this.Bond`
+>> `INPUT[text:bond]`
 >
 >> [!metadata|text-Center bg-c-gray] Flaw
->> `=this.flaw`
+>> `INPUT[text:flaw]`
 >
 >> [!metadata|text-Center bg-c-green] Likes
->> `=this.likes`
+>> `INPUT[text:likes]`
 >
 >> [!metadata|text-Center bg-c-red] Dislikes
->> `=this.dislikes`
+>> `INPUT[text:dislikes]`
 
 > [!column|dataview] Goals
->> `=this.goals`
+>> `INPUT[textArea:goals]`
+
+## Stats
+```statblock
+"name": "Mishka Belview (CoS)"
+"size": "Medium"
+"type": "humanoid"
+"subtype": "mongrelfolk"
+"alignment": "Chaotic Evil"
+"ac": !!int "11"
+"hp": !!int "26"
+"hit_dice": "4d8 + 8"
+"stats":
+- !!int "12"
+- !!int "9"
+- !!int "15"
+- !!int "9"
+- !!int "10"
+- !!int "6"
+"speed": "20 ft."
+"skillsaves":
+  "Deception": !!int "2"
+  "Stealth": !!int "3"
+  "Perception": !!int "2"
+"senses": "passive Perception 12"
+"languages": "Common"
+"cr": "1/4"
+"traits":
+- "desc": "The mongrelfolk can climb difficult surfaces, including upside down on\
+    \ ceilings, without needing to make an ability check."
+  "name": "Spider Climb"
+- "desc": "Mishka can mimic any sounds it has heard, including voices. A creature\
+    \ that hears the sounds can tell they are imitations with a successful DC 12 Wisdom\
+    \ (Insight) check."
+  "name": "Mimicry"
+"actions":
+- "desc": "Mishka makes two attacks: one with its bite and one with its claw or dagger."
+  "name": "Multiattack"
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 1d4 + 1|avg (1d4 + 1) piercing damage."
+  "name": "Bite"
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 1d4 + 1|avg (1d4 + 1) slashing damage."
+  "name": "Claw"
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: dice: 1d4 + 1|avg (1d4 + 1) piercing\
+    \ damage."
+  "name": "Dagger"
+"source":
+- "CoS"
+"image": "compendium/bestiary/npc/token/mishka-belview.png"
+```
+^statblock
 
 ## Acquaintances
 > [!column|dataview] Acquaintances

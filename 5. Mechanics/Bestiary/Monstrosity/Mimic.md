@@ -11,25 +11,8 @@ tags:
 statblock: inline
 aliases: ["Mimic"]
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Mimic.md|Mimic]]
+# [[5. Mechanics/Bestiary/Monstrosity/Mimic.md|Mimic]]
 *Source: Monster Manual p. 220, Curse of Strahd. Available in the SRD.*  
-
-Mimics are shapeshifting predators able to take on the form of inanimate objects to lure creatures to their doom. In dungeons, these cunning creatures most often take the form of doors and chests, having learned that such forms attract a steady stream of prey.
-
-## Imitative Predators
-
-Mimics can alter their outward texture to resemble wood, stone, and other basic materials, and they have evolved to assume the appearance of objects that other creatures are likely to come into contact with. A mimic in its altered form is nearly unrecognizable until potential prey blunders into its reach, whereupon the monster sprouts pseudopods and attacks.
-
-When it changes shape, a mimic excretes an adhesive that helps it seize prey and weapons that touch it. The adhesive is absorbed when the mimic assumes its amorphous form and on parts the mimic uses to move itself.
-
-## Cunning Hunters
-
-Mimics live and hunt alone, though they occasionally share their feeding grounds with other creatures. Although most mimics have only predatory intelligence, a rare few evolve greater cunning and the ability to carry on simple conversations in Common or Undercommon. Such mimics might allow safe passage through their domains or provide useful information in exchange for food.
-
-> [!quote]- A quote from X the Mystic's 3rd rule of dungeon survival  
-> 
-> Sometimes a chest is just a chest, but don't bet on it.
-
 
 ```statblock
 "name": "Mimic"
@@ -51,7 +34,7 @@ Mimics live and hunt alone, though they occasionally share their feeding grounds
 "skillsaves":
   "Stealth": !!int "5"
 "damage_immunities": "acid"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#prone|prone]]"
+"condition_immunities": "prone"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": ""
 "cr": "2"
@@ -62,14 +45,14 @@ Mimics live and hunt alone, though they occasionally share their feeding grounds
     \ it dies."
   "name": "Shapechanger"
 - "desc": "The mimic adheres to anything that touches it. A Huge or smaller creature\
-    \ adhered to the mimic is also [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ by it (escape DC 13). Ability checks made to escape this grapple have disadvantage."
+    \ adhered to the mimic is also grappled by it (escape DC 13). Ability checks made\
+    \ to escape this grapple have disadvantage."
   "name": "Adhesive (Object Form Only)"
 - "desc": "While the mimic remains motionless, it is indistinguishable from an ordinary\
     \ object."
   "name": "False Appearance (Object Form Only)"
-- "desc": "The mimic has advantage on attack rolls against any creature [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ by it."
+- "desc": "The mimic has advantage on attack rolls against any creature grappled by\
+    \ it."
   "name": "Grappler"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
@@ -96,6 +79,8 @@ Mimics live and hunt alone, though they occasionally share their feeding grounds
 - "WBtW"
 - "KftGV"
 - "SatO"
+- "BMT"
+- "DoDk"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/mimic.png"
 ```
 ^statblock
