@@ -39,7 +39,7 @@ const config = {
                 newFileName = newFileName
                     .replaceAll(/(^|[\/\\\-])([a-z])(?!mg[\/\\]|oken[\/\\])/g, (oldText, separator, letter) => separator === '-' ? ' '+letter.toUpperCase() : separator+letter.toUpperCase())
                     .replace(/\s*(HB|DMG|MM|VRGR|XGE|VGM|TCE|MPMM|MTF|CoS|SaF|ERLW)$/i, (oldText, source) => {
-                        if (/bestiary[\/\\]npc/.test(file.oldPath)) {
+                        if (/npc/i.test(file.path)) {
                             return ''
                         } else {
                             return ' (' + source.toUpperCase() + ')'
@@ -67,7 +67,7 @@ const config = {
                 let fileNameRule = config.rules.filter(rule => rule.name === 'Update File Name')[0]
 
                 filePath = filePathRule.process({relativePath: filePath})
-                fileName = fileNameRule.ignore({fileExtension: path.parse(linkPath).ext}) ? fileName : fileNameRule.process({fileName: fileName})
+                fileName = fileNameRule.ignore({fileExtension: path.parse(linkPath).ext}) ? fileName : fileNameRule.process({fileName: fileName, path: filePath})
 
                 linkPath = `${filePath ? filePath+separator : ''}${fileName}${path.parse(linkPath).ext}`
 
@@ -120,20 +120,20 @@ const config = {
 }
 
 class CompendiumFile {
-    oldContent
-    oldPath
+    _oldContent
+    _oldPath
     path
     content
 
     constructor(filePath) {
-        this.oldPath = filePath
-        this.path = this.oldPath
-        this.oldContent = !['.jpg', '.jpeg', '.png', '.webp'].includes(path.parse(filePath).ext) ? fs.readFileSync(filePath, 'utf-8') : fs.readFileSync(filePath)
-        this.content = this.oldContent
+        this._oldPath = filePath
+        this.path = this._oldPath
+        this._oldContent = !['.jpg', '.jpeg', '.png', '.webp'].includes(path.parse(filePath).ext) ? fs.readFileSync(filePath, 'utf-8') : fs.readFileSync(filePath)
+        this.content = this._oldContent
         this.execute = () => {
             fs.mkdirSync(path.parse(this.path).dir, {recursive: true})
             fs.writeFileSync(this.path, this.content)
-            fs.unlinkSync(this.oldPath)
+            fs.unlinkSync(this._oldPath)
         }
     }
 
