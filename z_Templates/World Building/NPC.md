@@ -67,7 +67,8 @@ TBD
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
 ## Stats
-
+```statblock
+```
 ## Acquaintances
 > [!column|dataview] Acquaintances
 >> [!metadata|text-Center bg-c-green]- Friends & Family
