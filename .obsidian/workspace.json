@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/World Building/NPC.md",
+                "file": "2. Scratch Notes/To-Do List.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "283b176cf3bea212",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. World Almanac/NPCs/Strahd Von Zarovich.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Templates/World Building/NPC.md",
+                "file": "4. World Almanac/NPCs/Strahd Von Zarovich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Templates/World Building/NPC.md",
+                "file": "4. World Almanac/NPCs/Strahd Von Zarovich.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Templates/World Building/NPC.md"
+                "file": "4. World Almanac/NPCs/Strahd Von Zarovich.md"
               }
             }
           },
@@ -192,8 +205,11 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "0d3640a761a229ad",
+  "active": "a88a1818b2c15bdd",
   "lastOpenFiles": [
+    "4. World Almanac/NPCs/Doru.md",
+    "2. Scratch Notes/To-Do List.md",
+    "4. World Almanac/NPCs/Urwin Martikov.md",
     "2. Scratch Notes/House Rule Ideas.md",
     "4. World Almanac/Regions/Barovia.md",
     "z_Templates/World Building/NPC.md",
@@ -222,15 +238,12 @@
     "z_Extra/ttrpg-convert/templates/monster.txt",
     "3. The Party/Session Logs/Finding Victor.md",
     "3. The Party/Session Logs/Deal with the Devil.md",
-    "2. Scratch Notes/To-Do List.md",
     "3. The Party/Session Logs/Session Logs.md",
     "z_Assets/Barovia.jpg",
     "3. The Party/Session Logs/Knowing the Road.md",
     "3. The Party/Session Logs/Welcome to Barovia.md",
     "3. The Party/Session Logs/Campaign Preparation.md",
     "4. World Almanac/Regions/Regions.md",
-    "3. The Party/Session Logs/New Year Session.md",
-    "6. Resources/5e Modules/Curse Of Strahd/06 Chapter-4 Castle Ravenloft.md",
     "5. Mechanics/Bestiary/Undead/token/skeleton.png",
     "4. World Almanac/NPCs/token/zygfrek-belview.png",
     "4. World Almanac/NPCs/token/zuleika-toranescu.png",

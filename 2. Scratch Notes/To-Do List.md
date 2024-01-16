@@ -1,8 +1,9 @@
 - [ ] Finalize location relationships
 - [ ] Create script to take world economic field to adjust prices in shop template
-- [ ] Create selection dropdowns for alignment and other fields for NPCs (watch [video](https://www.youtube.com/watch?v=iAYS0254a7I))
-- [ ] Update import script to correctly point to new NPC location
+- [x] Create selection dropdowns for alignment and other fields for NPCs (watch [video](https://www.youtube.com/watch?v=iAYS0254a7I))
+- [x] Update import script to correctly point to new NPC location
 - [ ] Finalize Monster ttrpg-convert-cli template to populate information as well as statblock
+	- [ ] Move aquantences 
 - [ ] Create flowchart of campaign (watch [video]())
 - [ ] Optimize syncing vault to github (watch [video](https://www.youtube.com/watch?v=gOdh8wdbxm4))
 - [ ] Insert travel times into Settlements template (watch [video](https://www.youtube.com/watch?v=X6AT9G0uV-Y&t=1805s))
