@@ -100,7 +100,7 @@ TBD
   "name": "Shovel"
 "source":
 - "CoS"
-"image": "compendium/bestiary/npc/token/milivoj.png"
+"image": "4. World Almanac/NPCs/token/milivoj.png"
 ```
 ^statblock
 
