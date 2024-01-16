@@ -66,6 +66,7 @@ TBD
 
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
+## Stats
 
 ## Acquaintances
 > [!column|dataview] Acquaintances
