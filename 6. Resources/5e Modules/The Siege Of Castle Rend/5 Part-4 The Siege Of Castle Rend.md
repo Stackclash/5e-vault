@@ -216,10 +216,10 @@ This encounter takes place either inside the courtyard or on the battlements. Wh
 
 Sir Pelliton arrives with his wizard Curor and six other allies in the flash of a [[5. Mechanics/Spells/Teleport.md\|teleport]] spell read from a scroll. The PCs can see the scroll in Curor's hand turning to dust as the magic is expended. He's casting the spell from a scroll because he is not high enough level to know the spell. Here are the enemies in the encounter:
 
-- [[4. World Almanac/NPCs/Sir Pelliton (SAF).md\|Sir Pelliton]] (page 142)  
+- [[4. World Almanac/NPCs/Sir Pelliton.md\|Sir Pelliton]] (page 142)  
 - Curor, his wizard (as a [[5. Mechanics/Bestiary/Humanoid/Mage.md\|mage]])  
 - Riddel, an evil cleric (as a [[5. Mechanics/Bestiary/Humanoid/Priest.md\|priest]])  
-- [[4. World Almanac/NPCs/Faldric The Archer (SAF).md\|Faldric]], an archer (page 143)  
+- [[4. World Almanac/NPCs/Faldric The Archer.md\|Faldric]], an archer (page 143)  
 - Four knights (as a [[5. Mechanics/Bestiary/Humanoid/Knight.md\|knight]])  
 
 The players may want to ignore the encounter and, for instance, try to go outside and take out the catapults themselves.

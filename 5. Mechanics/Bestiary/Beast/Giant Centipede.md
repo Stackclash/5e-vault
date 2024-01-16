@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Giant Centipede"]
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Centipede.md|Giant Centipede]]
+# [[5. Mechanics/Bestiary/Beast/Giant Centipede.md|Giant Centipede]]
 *Source: Monster Manual p. 323, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 ```statblock

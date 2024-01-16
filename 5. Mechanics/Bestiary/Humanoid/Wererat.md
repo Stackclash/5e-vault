@@ -12,7 +12,7 @@ tags:
 statblock: inline
 aliases: ["Wererat"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Wererat.md|Wererat]]
+# [[5. Mechanics/Bestiary/Humanoid/Wererat.md|Wererat]]
 *Source: Monster Manual p. 209. Available in the SRD.*  
 
 Wererats are cunning lycanthropes with sly, avaricious personalities. They are wiry and twitchy in humanoid form, with thin hair and darting eyes. In their humanoid and hybrid forms, wererats prefer light weapons and use ambush tactics rather than fighting as a pack. Although a wererat can deliver a nasty bite in its rat form, it favors that form for stealthy infiltration and escape rather than combat.
@@ -114,6 +114,7 @@ Some individuals see little point in fighting the curse and accept what they are
 - "EGW"
 - "CM"
 - "SatO"
+- "BMT"
 "image": "5. Mechanics/Bestiary/Humanoid/token/wererat.png"
 ```
 ^statblock

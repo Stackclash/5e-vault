@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Crab"]
 ---
-# [[5. Mechanics\Bestiary\Beast\Crab.md|Crab]]
+# [[5. Mechanics/Bestiary/Beast/Crab.md|Crab]]
 *Source: Monster Manual p. 320. Available in the SRD and the Basic Rules.*  
 
 ```statblock

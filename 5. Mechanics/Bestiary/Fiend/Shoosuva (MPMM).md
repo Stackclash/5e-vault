@@ -13,7 +13,7 @@ tags:
 statblock: inline
 aliases: ["Shoosuva"]
 ---
-# [[5. Mechanics\Bestiary\Fiend\Shoosuva (MPMM).md|Shoosuva]]
+# [[5. Mechanics/Bestiary/Fiend/Shoosuva (MPMM).md|Shoosuva]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 216*  
 
 > [!quote]- A quote from Mordenkainen  
@@ -24,7 +24,7 @@ aliases: ["Shoosuva"]
 > 
 > Trust Mordenkainen to look down on any sort of companionship—even the slavering, venomous, demonic puppy kind.
 
-A shoosuva is a hyena-demon gifted by [[4. World Almanac/NPCs/Yeenoghu (MPMM).md|Yeenoghu]] to an especially powerful worshiper (typically a [[5. Mechanics/Bestiary/Fiend/Gnoll Fang Of Yeenoghu.md|fang of Yeenoghu]]). A shoosuva manifests shortly after a Yeenoghu-worshiping war band achieves a great victory, emerging from a billowing, fetid cloud of smoke as it arrives from the Abyss. In battle, the demon wraps its slavering jaws around one victim while lashing out with the poisonous stinger on its tail to bring down another. A creature immobilized by the poison becomes easy pickings for any nearby members of the war band.
+A shoosuva is a hyena-demon gifted by [[4. World Almanac/NPCs/Yeenoghu.md|Yeenoghu]] to an especially powerful worshiper (typically a [[5. Mechanics/Bestiary/Fiend/Gnoll Fang Of Yeenoghu.md|fang of Yeenoghu]]). A shoosuva manifests shortly after a Yeenoghu-worshiping war band achieves a great victory, emerging from a billowing, fetid cloud of smoke as it arrives from the Abyss. In battle, the demon wraps its slavering jaws around one victim while lashing out with the poisonous stinger on its tail to bring down another. A creature immobilized by the poison becomes easy pickings for any nearby members of the war band.
 
 Each shoosuva is bonded to a particular worshiper of Yeenoghu and fights alongside its master. A gnoll that has been gifted with a shoosuva is second only to a flind in status within a war band dedicated to Yeenoghu.
 
@@ -77,6 +77,7 @@ Each shoosuva is bonded to a particular worshiper of Yeenoghu and fights alongsi
 "source":
 - "MPMM"
 - "VGM"
+- "BMT"
 "image": "5. Mechanics/Bestiary/Fiend/token/shoosuva.png"
 ```
 ^statblock

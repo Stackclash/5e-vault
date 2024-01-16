@@ -13,7 +13,7 @@ tags:
 statblock: inline
 aliases: ["Lion"]
 ---
-# [[5. Mechanics\Bestiary\Beast\Lion.md|Lion]]
+# [[5. Mechanics/Bestiary/Beast/Lion.md|Lion]]
 *Source: Monster Manual p. 331. Available in the SRD and the Basic Rules.*  
 
 ```statblock

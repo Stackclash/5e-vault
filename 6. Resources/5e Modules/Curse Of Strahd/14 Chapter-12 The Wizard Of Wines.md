@@ -199,7 +199,7 @@ The four containers are fermentation vats, where grape juice is mixed with other
 
 ![[6. Resources/5e Modules/Curse Of Strahd/img/113-cos12-03.webp#center\|Twig Blight]]
 
-The druid is poisoning the fermentation vats. The three westernmost vats contain poisoned wine, enough to fill a total of twenty barrels. Drinking the poisoned wine has the same effect as drinking a potion of poison. Pouring antitoxin into a vat neutralizes the poison, but it also spoils the taste of the wine. Casting a purify food and drink spell on a vat neutralizes the poison without spoiling the wine.
+The druid is poisoning the fermentation vats. The three westernmost vats contain poisoned wine, enough to fill a total of twenty barrels. Drinking the poisoned wine has the same effect as drinking a [[5. Mechanics/Items/Potion Of Poison.md\|potion of poison]]. Pouring antitoxin into a vat neutralizes the poison, but it also spoils the taste of the wine. Casting a [[5. Mechanics/Spells/Purify Food And Drink.md\|purify food and drink]] spell on a vat neutralizes the poison without spoiling the wine.
 
 In addition to her animal skin gown and horned headdress, the druid wears necklaces of human teeth. If the characters attack the druid, she calls forth her twig blights. When that happens, the swarms of ravens descend from the rafters and begin attacking the blights. Each swarm tears apart one twig blight on each of its turns.
 
@@ -263,7 +263,7 @@ Unless they have been drawn outside, five [[5. Mechanics/Bestiary/Plant/Needle B
 > Something moves behind the eastern wine rack. Through the holes, you glimpse a half dozen humanoid figures, one with a full rack of antlers. You hear a gravelly voice mutter the words of a spell.
 ^5b7
 
-On his first turn, from behind the wine rack, the druid casts a thunderwave spell, which shatters `dice: 1d20 + 10|avg` (`1d20 + 10`) of the wine bottles as it resounds throughout the cellar. The druid then orders the needle blights to attack.
+On his first turn, from behind the wine rack, the druid casts a [[5. Mechanics/Spells/Thunderwave.md\|thunderwave]] spell, which shatters `dice: 1d20 + 10|avg` (`1d20 + 10`) of the wine bottles as it resounds throughout the cellar. The druid then orders the needle blights to attack.
 
 The cellar gets markedly colder the closer one gets to the north wall. Against that wall in the eastern portion of the cellar rest three frosty barrels containing Purple Grapemash No. 3, a fact that is emblazoned on each barrel's side. A single bottle of Purple Grapemash No. 3 lies on the flagstone floor in the western half of the cellar.
 
@@ -280,7 +280,7 @@ If the characters open the secret door, read:
 > It takes some effort to push open the secret door, and you are greeted by a blast of cold air. A dark tunnel stretches for fifteen feet, ending at an archway beyond which lies a shallow cave.
 ^5b9
 
-Characters who have a light source can see brown mold covering the walls, floor, and ceiling around the archway and the cave beyond. Growing throughout this area, keeping the wine cellar cool, are ten patches of brown mold (see ""Dungeon Hazards"" in chapter 5, "Adventure Environments," of the "Dungeon Master's Guide"). The characters are safe from the mold as long as they keep their distance.
+Characters who have a light source can see brown mold covering the walls, floor, and ceiling around the archway and the cave beyond. Growing throughout this area, keeping the wine cellar cool, are ten patches of [[5. Mechanics/Traps Hazards/Brown Mold.md\|brown mold]] (see ""Dungeon Hazards"" in chapter 5, "Adventure Environments," of the "Dungeon Master's Guide"). The characters are safe from the mold as long as they keep their distance.
 
 ### W16. Loading Winch
 
@@ -323,7 +323,7 @@ A secret door in the north corner of the east wall can be pushed open to gain ac
 
 #### Treasure
 
-Inside the chest are 50 gp, 270 ep (each electrum coin stamped with the profiled visage of [[4. World Almanac/NPCs/Strahd Von Zarovich.md\|Strahd von Zarovich]]), and 350 sp. A secret compartment in the lid can be found with a successful DC 15 Wisdom (Perception) check. It holds a gold locket (worth 25 gp) containing a painted portrait of a beautiful woman (Davian's deceased wife, Angelika), as well as a pouch containing five 50 gp gemstones.
+Inside the chest are 50 gp, 270 ep (each electrum coin stamped with the profiled visage of [[4. World Almanac/NPCs/Strahd Von Zarovich.md\|Strahd von Zarovich]]), and 350 sp. A secret compartment in the lid can be found with a successful DC 15 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check. It holds a gold locket (worth 25 gp) containing a painted portrait of a beautiful woman (Davian's deceased wife, Angelika), as well as a pouch containing five 50 gp gemstones.
 
 ### W18. Kitchen and Dining Room
 

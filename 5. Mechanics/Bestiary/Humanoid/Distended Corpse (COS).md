@@ -29,7 +29,7 @@ aliases: ["Distended Corpse"]
 - !!int "10"
 - !!int "10"
 "speed": "20 ft."
-"condition_immunities": "charmed, frightened"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]"
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "0"

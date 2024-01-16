@@ -101,15 +101,15 @@ The hut is a 15-foot-square, ramshackle wooden building with a gently sloping th
 
 The gemstone that has given life to [[4. World Almanac/NPCs/Baba Lysaga.md\|Baba Lysaga]]'s hut was previously buried in the Wizard of Wines vineyard. The gem was one of three imbued with life-giving magic that made the grapevines in the vineyard healthier, guaranteeing the finest wines. [[4. World Almanac/NPCs/Baba Lysaga.md\|Baba Lysaga]] stole one of the gems and perverted its magic, using it instead to animate her wooden hut.
 
-Removing the gem from the hut renders the hut incapacitated. That task is easier said than done, however. The glowing green gem is contained in a cavity in the stump, beneath the rotted floorboards of the hut. The floorboards can be ripped up with a successful DC 14 Strength check or smashed by dealing 10 damage to them. Once the floorboards are out of the way, a creature can reach into the cavity and snatch the gem. But if someone attempts this while the hut is alive, the cavity sprouts wooden teeth, becoming a mouth that bites anything that tries to remove the gem; a creature trying to remove the gem must make a DC 20 Dexterity saving throw. On a successful save, the creature claims the stone without getting bitten. On a failed save, the creature is bitten for `dice: 3d6|avg` (`3d6`) piercing damage and fails to obtain the gem.
+Removing the gem from the hut renders the hut [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]. That task is easier said than done, however. The glowing green gem is contained in a cavity in the stump, beneath the rotted floorboards of the hut. The floorboards can be ripped up with a successful DC 14 Strength check or smashed by dealing 10 damage to them. Once the floorboards are out of the way, a creature can reach into the cavity and snatch the gem. But if someone attempts this while the hut is alive, the cavity sprouts wooden teeth, becoming a mouth that bites anything that tries to remove the gem; a creature trying to remove the gem must make a DC 20 Dexterity saving throw. On a successful save, the creature claims the stone without getting bitten. On a failed save, the creature is bitten for `dice: 3d6|avg` (`3d6`) piercing damage and fails to obtain the gem.
 
 #### Broom of Animated Attack
 
-A broom of animated attack is easily mistaken for a broom of flying. It attacks any creature that grabs it or tries to ride it.
+A broom of animated attack is easily mistaken for a [[5. Mechanics/Items/Broom Of Flying.md\|broom of flying]]. It attacks any creature that grabs it or tries to ride it.
 
 ##### Flying Broom
 
-Some [[5. Mechanics/Bestiary/Construct/Broom Of Animated Attack (COS).md\|brooms of animated attack]] allow their creators to ride them, in which case they behave like typical brooms of flying. A broom of animated attack, however, can carry only half the weight that a broom of flying can (see chapter 7, ""Treasure"," of the "Dungeon Master's Guide").
+Some [[5. Mechanics/Bestiary/Construct/Broom Of Animated Attack (COS).md\|brooms of animated attack]] allow their creators to ride them, in which case they behave like typical [[5. Mechanics/Items/Broom Of Flying.md\|brooms of flying]]. A broom of animated attack, however, can carry only half the weight that a [[5. Mechanics/Items/Broom Of Flying.md\|broom of flying]] can (see chapter 7, ""Treasure"," of the "Dungeon Master's Guide").
 
 #### Guardian Portrait
 
@@ -117,7 +117,7 @@ A [[5. Mechanics/Bestiary/Construct/Guardian Portrait (COS).md\|guardian portrai
 
 ##### Living Image
 
-The eyes of the figure depicted in the painting are imbued with darkvision, and they appear to follow creatures that move in front of them.
+The eyes of the figure depicted in the painting are imbued with [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]], and they appear to follow creatures that move in front of them.
 
 ##### Innate Spells
 
@@ -179,7 +179,7 @@ The goddess Mother Night has bestowed magical gifts on [[4. World Almanac/NPCs/B
 
 ### Barovian Witch
 
-The mad women and men known as [[5. Mechanics/Bestiary/Humanoid/Barovian Witch (COS).md\|Barovian witches]] forge pacts with Strahd and the Dark Powers of Ravenloft in exchange for magic and longevity. They prefer to live in the shadows and can see in the dark. When traveling in the open, they use alter self spells to assume less conspicuous forms. They also use these spells to grow long, sharp claws with which they can attack.
+The mad women and men known as [[5. Mechanics/Bestiary/Humanoid/Barovian Witch (COS).md\|Barovian witches]] forge pacts with Strahd and the Dark Powers of Ravenloft in exchange for magic and longevity. They prefer to live in the shadows and can see in the dark. When traveling in the open, they use [[5. Mechanics/Spells/Alter Self.md\|alter self]] spells to assume less conspicuous forms. They also use these spells to grow long, sharp claws with which they can attack.
 
 #### Brothers and Sisters of Strahd
 
@@ -189,7 +189,7 @@ Barovian witches have no scruples. They will deal with anyone in return for powe
 
 Barovian witches are obsessive collectors, each believing that almost anything found—a piece of broken bone, a dead rodent, a handful of dust, or some other worthless item or substance—could be valuable or useful as a spell component, a ritual object, or a potion ingredient.
 
-Barovian witches use the find familiar spell to call forth familiars. They are particularly fond of cats, though snakes and toads are also common. These animals lurk amid the clutter of the witches' lairs, seldom wandering far from their vile masters.
+Barovian witches use the [[5. Mechanics/Spells/Find Familiar.md\|find familiar]] spell to call forth familiars. They are particularly fond of cats, though snakes and toads are also common. These animals lurk amid the clutter of the witches' lairs, seldom wandering far from their vile masters.
 
 ![[6. Resources/5e Modules/Curse Of Strahd/img/145-636379876850421049.webp#center\|Barovian Witch]]
 
@@ -318,9 +318,9 @@ With the characters' help, Kasimir thinks he might be able to find out how to re
 Use the [[5. Mechanics/Bestiary/Humanoid/Mage.md\|mage]] stat block in the "Monster Manual", with the following adjustments:
 
 - Kasimir's alignment is neutral.  
-- Kasimir has darkvision out to a range of 60 feet.  
-- Kasimir has the Fey Ancestry feature, which means he has advantage on saving throws against being charmed, and magic can't put him to sleep.  
-- Kasimir wears a ring of warmth and carries a spellbook (see chapter 5, area N9a, for a list of the spells it holds in addition to his prepared spells).  
+- Kasimir has [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]] out to a range of 60 feet.  
+- Kasimir has the Fey Ancestry feature, which means he has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]], and magic can't put him to sleep.  
+- Kasimir wears a [[5. Mechanics/Items/Ring Of Warmth.md\|ring of warmth]] and carries a spellbook (see chapter 5, area N9a, for a list of the spells it holds in addition to his prepared spells).  
 
 #### Kasimir Velikov's Traits
 
@@ -382,11 +382,11 @@ Mongrelfolk are seldom welcome in other humanoid societies, where they are abuse
 
 #### Camouflage Experts
 
-Mongrelfolk often hide their deformities under cloaks and cowls. In this way, they can sometimes pass as stout humans or thin dwarves. They are fond of camouflage, attaching leaves and twigs to their cloaks, making brown paint to cover their skin, and weaving grass nets under which they can hide. They use such camouflage while hunting in the wild or while standing guard outside their lairs. Until it is seen, a camouflaged mongrelfolk has advantage on Stealth checks made to hide.
+Mongrelfolk often hide their deformities under cloaks and cowls. In this way, they can sometimes pass as stout humans or thin dwarves. They are fond of camouflage, attaching leaves and twigs to their cloaks, making brown paint to cover their skin, and weaving grass nets under which they can hide. They use such camouflage while hunting in the wild or while standing guard outside their lairs. Until it is seen, a camouflaged mongrelfolk has advantage on [[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]] checks made to hide.
 
 #### Horrific Offspring
 
-It's possible to restore a mongrelfolk to its original form using a greater restoration spell, but the same can't be said for a mongrelfolk's offspring. Only mongrelfolk that are made by magic can be restored to their original forms. Mongrelfolk that are born are true mongrelfolk and not the subjects of a spell or an effect that can be undone.
+It's possible to restore a mongrelfolk to its original form using a [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell, but the same can't be said for a mongrelfolk's offspring. Only mongrelfolk that are made by magic can be restored to their original forms. Mongrelfolk that are born are true mongrelfolk and not the subjects of a spell or an effect that can be undone.
 
 Mongrelfolk can breed with other humanoids, but nearly all children born to such parents are mongrelfolk. (About one child in every hundred is born looking like its non-mongrelfolk parent.)
 
@@ -508,7 +508,7 @@ The half-elf ringmaster is, in fact, a legendary human vampire hunter named Rudo
 
 #### The Waiting Game
 
-Van Richten isn't a young man anymore. He knows his road is coming to an end, but his work isn't done. He has come to Barovia to kill [[4. World Almanac/NPCs/Strahd Von Zarovich.md\|Strahd von Zarovich]], the greatest vampire of them all. Van Richten has studied Strahd for years and knows he can't hope to best the vampire in a straight-up confrontation: he must wait for the right moment to strike. He has good evidence to suggest that Strahd periodically hibernates in his coffin, sometimes for years, when all is quiet in the realm. While he bides his time, van Richten hides in plain sight with the aid of a hat of disguise, his thoughts protected by a ring of mind shielding. He is trying to learn more about the Keepers of the Feather—a society of wereravens that oppose Strahd—while trying not to expose the secret society to their mutual enemy. He thinks the wereravens might prove helpful when the time comes. Van Richten also wants to take out as many of Strahd's spies as he can, starting with evil Vistani.
+Van Richten isn't a young man anymore. He knows his road is coming to an end, but his work isn't done. He has come to Barovia to kill [[4. World Almanac/NPCs/Strahd Von Zarovich.md\|Strahd von Zarovich]], the greatest vampire of them all. Van Richten has studied Strahd for years and knows he can't hope to best the vampire in a straight-up confrontation: he must wait for the right moment to strike. He has good evidence to suggest that Strahd periodically hibernates in his coffin, sometimes for years, when all is quiet in the realm. While he bides his time, van Richten hides in plain sight with the aid of a [[5. Mechanics/Items/Hat Of Disguise.md\|hat of disguise]], his thoughts protected by a [[5. Mechanics/Items/Ring Of Mind Shielding.md\|ring of mind shielding]]. He is trying to learn more about the Keepers of the Feather—a society of wereravens that oppose Strahd—while trying not to expose the secret society to their mutual enemy. He thinks the wereravens might prove helpful when the time comes. Van Richten also wants to take out as many of Strahd's spies as he can, starting with evil Vistani.
 
 #### Man with a Plan
 
@@ -546,7 +546,7 @@ When you run an encounter with Strahd, keep the following facts in mind:
 
 - Strahd attacks at the most advantageous moment and from the most advantageous position.  
 - Strahd knows when he's in over his head. If he begins taking more damage than he can regenerate, he moves beyond the reach of melee combatants and spellcasters, or he flies away (using summoned [[5. Mechanics/Bestiary/Beast/Wolf.md\|wolves]] or [[5. Mechanics/Bestiary/Beast/Swarm Of Bats.md\|swarms of bats]] or [[5. Mechanics/Bestiary/Beast/Swarm Of Rats.md\|rats]] to guard his retreat).  
-- Strahd observes the characters to see who among them are most easily swayed, then tries to charm characters who have low Wisdom scores and use them as thralls. At the very least, he can order a charmed character to guard him against other members of the adventuring party.  
+- Strahd observes the characters to see who among them are most easily swayed, then tries to charm characters who have low Wisdom scores and use them as thralls. At the very least, he can order a [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] character to guard him against other members of the adventuring party.  
 
 #### The Vampire's Minions
 
@@ -575,18 +575,18 @@ Any damage that Strahd takes is transferred to the Heart of Sorrow (see chapter 
 
 The effect of the protection afforded by the Heart of Sorrow can be chilling to behold, as damage to Strahd is quickly undone. For example, a critical hit might dislocate Strahd's jaw, but only for a moment; then the vampire's jaw quickly resets itself.
 
-The ability of the Heart of Sorrow to absorb damage is suppressed if it or Strahd is fully within an antimagic field.
+The ability of the Heart of Sorrow to absorb damage is suppressed if it or Strahd is fully within an [[5. Mechanics/Spells/Antimagic Field.md\|antimagic field]].
 
 #### Lair Actions
 
-While Strahd is in Castle Ravenloft, he can take lair actions as long as he isn't incapacitated.
+While Strahd is in Castle Ravenloft, he can take lair actions as long as he isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]].
 
 On initiative count 20 (losing initiative ties), Strahd can take one of the following lair action options, or forgo using any of them in that round:
 
 - Until initiative count 20 of the next round, Strahd can pass through solid walls, doors, ceilings, and floors as if they weren't there.  
 - Strahd targets any number of doors and windows that he can see, causing each one to either open or close as he wishes. Closed doors can be magically locked (needing a successful DC 20 Strength check to force open) until Strahd chooses to end the effect, or until Strahd uses this lair action again.  
 - Strahd summons the angry spirit of one who has died in the castle. The apparition appears next to a hostile creature that Strahd can see, makes an attack against that creature, and then disappears. The apparition has the statistics of a [[5. Mechanics/Bestiary/Undead/Specter.md\|specter]].  
-- Strahd targets one Medium or smaller creature that casts a shadow. The target's shadow must be visible to Strahd and within 30 feet of him. If the target fails a DC 17 Charisma saving throw, its shadow detaches from it and becomes a [[5. Mechanics/Bestiary/Undead/Shadow.md\|shadow]] that obeys Strahd's commands, acting on initiative count 20. A greater restoration spell or a remove curse spell cast on the target restores its natural shadow, but only if its undead shadow has been destroyed.  
+- Strahd targets one Medium or smaller creature that casts a shadow. The target's shadow must be visible to Strahd and within 30 feet of him. If the target fails a DC 17 Charisma saving throw, its shadow detaches from it and becomes a [[5. Mechanics/Bestiary/Undead/Shadow.md\|shadow]] that obeys Strahd's commands, acting on initiative count 20. A [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell or a [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell cast on the target restores its natural shadow, but only if its undead shadow has been destroyed.  
 
 ![[6. Resources/5e Modules/Curse Of Strahd/img/153-636988936829621698.webp#center\|Strahd von Zarovich]]
 
@@ -630,7 +630,7 @@ Were Vladimir to let go of his hatred, his spirit would find peace and could rem
 - His Armor Class is 17 (half plate).  
 - He has 192 hit points.  
 - He speaks Common and Draconic.  
-- Vladimir wields a greatsword, +2 with a hilt sculpted to resemble silver dragon wings and a pommel shaped like a silver dragon's head clutching a black opal between its teeth. As an action, he can make two attacks with the sword (+9 to hit). It deals `dice: 4d6 + 6|avg` (`4d6 + 6`) slashing damage on a hit. Against Strahd, Vladimir deals an extra `dice: 4d6|avg` (`4d6`) slashing damage with the weapon.  
+- Vladimir wields a [greatsword, +2](compendium/items/2-weapon.md) with a hilt sculpted to resemble silver dragon wings and a pommel shaped like a silver dragon's head clutching a black opal between its teeth. As an action, he can make two attacks with the sword (+9 to hit). It deals `dice: 4d6 + 6|avg` (`4d6 + 6`) slashing damage on a hit. Against Strahd, Vladimir deals an extra `dice: 4d6|avg` (`4d6`) slashing damage with the weapon.  
 - Vladimir has a challenge rating of 7 (2,900 XP).  
 
 ![[6. Resources/5e Modules/Curse Of Strahd/img/154-cos19-11.webp#center]]

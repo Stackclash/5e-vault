@@ -14,7 +14,7 @@ tags:
 statblock: inline
 aliases: ["Warlock of the Archfey"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Warlock Of The Archfey (MPMM).md|Warlock of the Archfey]]
+# [[5. Mechanics/Bestiary/Humanoid/Warlock Of The Archfey (MPMM).md|Warlock of the Archfey]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 255*  
 
 Warlocks of the Archfey gain their powers through magical pacts forged with lords of the Feywild. These warlocks commonly associate with lesser Fey creatures such as [[5. Mechanics/Bestiary/Fey/Boggle (MPMM).md|boggles]], [[5. Mechanics/Bestiary/Fey/Quickling (MPMM).md|quicklings]], and [[5. Mechanics/Bestiary/Fey/Redcap (MPMM).md|redcaps]] (all appear in "this book") or even [[5. Mechanics/Bestiary/Fey/Satyr.md|satyrs]] and [[5. Mechanics/Bestiary/Fey/Sprite.md|sprites]].

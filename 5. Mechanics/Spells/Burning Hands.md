@@ -17,7 +17,6 @@ tags:
 aliases: ["Burning Hands"]
 ---
 # Burning Hands
-%%-- Embedded content starts on the next line. --%%
 *1st-level, Evocation*  
 ![[5. Mechanics/Spells/img/burning-hands.webp#right]]  
 

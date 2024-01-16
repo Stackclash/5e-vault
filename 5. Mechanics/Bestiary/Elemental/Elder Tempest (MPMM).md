@@ -14,7 +14,7 @@ tags:
 statblock: inline
 aliases: ["Elder Tempest"]
 ---
-# [[5. Mechanics\Bestiary\Elemental\Elder Tempest (MPMM).md|Elder Tempest]]
+# [[5. Mechanics/Bestiary/Elemental/Elder Tempest (MPMM).md|Elder Tempest]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 121*  
 
 Terrifying storms manifest in the bodies of elder tempests. Beings carved from clouds, wind, rain, and lightning, elder tempests assume the shape of serpents that slither through the sky. They drown the land beneath them with rain and stab the earth with lances of lightning. Punishing winds scream around them as they fly, feeding the chaos they create.

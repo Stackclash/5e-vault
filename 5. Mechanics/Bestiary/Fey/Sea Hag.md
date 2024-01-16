@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Sea Hag"]
 ---
-# [[5. Mechanics\Bestiary\Fey\Sea Hag.md|Sea Hag]]
+# [[5. Mechanics/Bestiary/Fey/Sea Hag.md|Sea Hag]]
 *Source: Monster Manual p. 179. Available in the SRD.*  
 
 Sea hags live in dismal and polluted underwater lairs, surrounded by merrow and other aquatic monsters.
@@ -153,6 +153,7 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
 - "IDRotF"
 - "JttRC"
 - "SatO"
+- "DoDk"
 "image": "compendium/bestiary/fey/token/sea-hag.png"
 ```
 ^statblock

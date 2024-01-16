@@ -99,8 +99,8 @@ TBD
 "languages": "Common"
 "cr": "1/4"
 "traits":
-- "desc": "The mongrelfolk has advantage on Wisdom (Perception) checks that rely on\
-    \ hearing or smell."
+- "desc": "The mongrelfolk has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
+    \ checks that rely on hearing or smell."
   "name": "Keen Hearing and Smell"
 - "desc": "Cyrus can mimic any sounds it has heard, including voices. A creature that\
     \ hears the sounds can tell they are imitations with a successful DC 12 Wisdom\

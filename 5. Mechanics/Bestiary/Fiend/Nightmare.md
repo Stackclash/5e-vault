@@ -12,6 +12,16 @@ aliases: ["Nightmare"]
 # [[5. Mechanics/Bestiary/Fiend/Nightmare.md|Nightmare]]
 *Source: Monster Manual p. 235, Curse of Strahd. Available in the SRD.*  
 
+A nightmare appears in a cloud of roiling smoke, its mane, tail, and hooves wreathed in flame. The creature's unearthly black form moves with supernatural speed, vanishing in a cloud of brimstone as quickly as it appeared.
+
+## Dread Steed
+
+Also called a "demon horse" or "hell horse," the nightmare serves as a steed for creatures of exceptional evil, carrying demons, devils, death knights, liches, night hags, and other vile monsters. It resembles a fiendish horse, and a nightmare's fiery red eyes betray its malevolent intelligence. A nightmare can be summoned from the Lower Planes, but unless a worthy sacrifice is offered to it as food upon its arrival, the nightmare displays no special loyalty to the creature it serves.
+
+## Creating a Nightmare
+
+Nightmares don't appear naturally in the multiverse. They must be created from pegasi. The ritual that creates a nightmare requires the torturous removal of a pegasus's wings, driving that noble creature to evil as it is transformed by dark magic.
+
 ```statblock
 "name": "Nightmare"
 "size": "Large"

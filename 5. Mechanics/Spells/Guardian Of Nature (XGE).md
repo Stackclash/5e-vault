@@ -10,7 +10,6 @@ tags:
 aliases: ["Guardian of Nature"]
 ---
 # Guardian of Nature
-%%-- Embedded content starts on the next line. --%%
 *4th-level, Transmutation*  
 
 - **Casting time:** 1 bonus

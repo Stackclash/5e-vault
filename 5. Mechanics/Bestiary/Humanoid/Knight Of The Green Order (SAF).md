@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Knight of the Green Order"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Knight Of The Green Order (SAF).md|Knight of the Green Order]]
+# [[5. Mechanics/Bestiary/Humanoid/Knight Of The Green Order (SAF).md|Knight of the Green Order]]
 *Source: Strongholds and Followers p. 77*  
 
 ```statblock

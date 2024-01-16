@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Gold Dragon Wyrmling"]
 ---
-# [[5. Mechanics\Bestiary\Dragon\Gold Dragon Wyrmling.md|Gold Dragon Wyrmling]]
+# [[5. Mechanics/Bestiary/Dragon/Gold Dragon Wyrmling.md|Gold Dragon Wyrmling]]
 *Source: Monster Manual p. 115. Available in the SRD.*  
 
 The most powerful and majestic of the metallic dragons, gold dragons are dedicated foes of evil.
@@ -127,6 +127,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   "name": "Breath Weapons (Recharge 5-6)"
 "source":
 - "MM"
+- "BMT"
 "image": "compendium/bestiary/dragon/token/gold-dragon-wyrmling.png"
 ```
 ^statblock

@@ -9,7 +9,6 @@ tags:
 aliases: ["Lightning Arrow"]
 ---
 # Lightning Arrow
-%%-- Embedded content starts on the next line. --%%
 *3rd-level, Transmutation*  
 
 - **Casting time:** 1 bonus

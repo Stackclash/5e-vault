@@ -89,7 +89,7 @@ The following areas correspond to labels on the maps of Argynvostholt below.
 
 The fog makes it hard to see the dragon's features from a distance, but close inspection reveals that it's a silver dragon of noble bearing, its spiny frill cracked and broken in many places. The statue is 10 feet tall but looks much more imposing perched on the granite block.
 
-If scrutinized with a detect magic spell, the statue radiates an aura of evocation magic. The dragon statue used to breathe a cone of cold as part of a magic trap, but the trap no longer works (see area Q2).
+If scrutinized with a [[5. Mechanics/Spells/Detect Magic.md\|detect magic]] spell, the statue radiates an aura of evocation magic. The dragon statue used to breathe a cone of cold as part of a magic trap, but the trap no longer works (see area Q2).
 
 ### Q2. Main Entrance
 
@@ -238,7 +238,7 @@ A secret door at the north end of the west wall can be pulled open to reveal a d
 > Five sets of wooden doors lead to this hall. The doors in the northeast corner hang open. A pair of leaded glass doors, their panes cracked and broken, stand open between panels of stained glass set into the east wall. These panels depict silver dragons in flight. Beyond the glass doors lies a dark, misty room that appears to be a chapel.
 ^447
 
-A continual flame spell was cast on the crystal chandelier long ago and has never been dispelled. The knight statues are lifelike but inanimate.
+A [[5. Mechanics/Spells/Continual Flame.md\|continual flame]] spell was cast on the crystal chandelier long ago and has never been dispelled. The knight statues are lifelike but inanimate.
 
 ### Q13. Chapel of Morning
 
@@ -258,7 +258,7 @@ The figures are three [[5. Mechanics/Bestiary/Undead/Revenant.md\|revenants]] cl
 
 The revenants, if still active, are blinded by their hate and attack the characters on sight, seeking to drive them out of Argynvostholt. As an action, a revenant attacks twice with its longsword, wielding the weapon with both hands and dealing `dice: 2d10 + 4|avg` (`2d10 + 4`) slashing damage on a hit.
 
-Characters who study the room's iconography and orientation (the fact that it draws light from the east) can determine, with a successful DC 10 Intelligence (Religion) check, that the chapel is dedicated to a god of the dawn. Anyone familiar with Barovian religion can conclude that the god in question is the Morninglord.
+Characters who study the room's iconography and orientation (the fact that it draws light from the east) can determine, with a successful DC 10 Intelligence ([[/5. Mechanics/Rules/Skills.md#Religion\|Religion]]) check, that the chapel is dedicated to a god of the dawn. Anyone familiar with Barovian religion can conclude that the god in question is the Morninglord.
 
 The balcony (area Q24) is 20 feet high and can be reached by climbing either spiral staircase (area Q14).
 
@@ -293,7 +293,7 @@ The strange man watches the characters through the southeast window of area Q42.
 
 The mausoleum is described in area Q16.
 
-The thick fog obscures the fact that five of the graves have been dug up. Closer inspection and a successful DC 10 Wisdom (Perception) check reveals that the corpses buried there crawled out of the earth. Of the missing corpses there is no sign, but the surrounding fence is intact, which suggests that no one got into the cemetery from outside. (These corpses were animated by the spirits of revenants and clawed their way out.)
+The thick fog obscures the fact that five of the graves have been dug up. Closer inspection and a successful DC 10 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check reveals that the corpses buried there crawled out of the earth. Of the missing corpses there is no sign, but the surrounding fence is intact, which suggests that no one got into the cemetery from outside. (These corpses were animated by the spirits of revenants and clawed their way out.)
 
 A stone staircase curls up the outside of a turret to a flagstone landing in front of a sturdy wooden door. The door is barred from the inside and opens into the chapel (area Q13).
 
@@ -414,9 +414,9 @@ The doors behind the throne lead to areas Q20 and Q21. A wooden railing surround
 > This T-shaped hallway has branches to the west, east, and south. Three arched windows in the north wall look out over the foggy grounds.
 ^468
 
-The ceiling in the hall is 20 feet high. The wooden doors to areas Q27 and Q28 are locked, requiring a successful DC 20 Strength check to break down. The 10-foot squares in front of the doors (marked T on the map) are trapped. When a character enters one of these squares, a floor-to-ceiling wall of stone (created by the spell of the same name) magically appears across the opening on the south wall. At the same time, the [[5. Mechanics/Bestiary/Undead/Phantom Warrior (COS).md\|phantom warriors]] in areas Q27 and Q28 rush through the doors (which can be freely opened from their side) and attack.
+The ceiling in the hall is 20 feet high. The wooden doors to areas Q27 and Q28 are locked, requiring a successful DC 20 Strength check to break down. The 10-foot squares in front of the doors (marked T on the map) are trapped. When a character enters one of these squares, a floor-to-ceiling [[5. Mechanics/Spells/Wall Of Stone.md\|wall of stone]] (created by the spell of the same name) magically appears across the opening on the south wall. At the same time, the [[5. Mechanics/Bestiary/Undead/Phantom Warrior (COS).md\|phantom warriors]] in areas Q27 and Q28 rush through the doors (which can be freely opened from their side) and attack.
 
-The wall of stone vanishes after 10 minutes, at which time the trap resets. Characters who cast a detect magic spell in the hall can perceive hazy auras of evocation magic in front of the doors.
+The wall of stone vanishes after 10 minutes, at which time the trap resets. Characters who cast a [[5. Mechanics/Spells/Detect Magic.md\|detect magic]] spell in the hall can perceive hazy auras of evocation magic in front of the doors.
 
 ### Q26. Northeast Guest Room
 
@@ -460,7 +460,7 @@ Three [[5. Mechanics/Bestiary/Undead/Phantom Warrior (COS).md\|phantom warriors]
 
 #### Treasure
 
-Buried under the wreckage is a small wooden coffer containing four potions of invulnerability. A search of the room yields this lost cache.
+Buried under the wreckage is a small wooden coffer containing four [[5. Mechanics/Items/Potion Of Invulnerability.md\|potions of invulnerability]]. A search of the room yields this lost cache.
 
 ### Q29. Northwest Guest Room
 
@@ -543,7 +543,7 @@ Hatred so clouds Vladimir's mind that he can't remember that Sir Godfrey (area Q
 
 #### Treasure
 
-[[4. World Almanac/NPCs/Vladimir Horngaard.md\|Vladimir Horngaard]] wields a +2 greatsword.
+[[4. World Almanac/NPCs/Vladimir Horngaard.md\|Vladimir Horngaard]] wields a [+2 greatsword](compendium/items/2-weapon.md).
 
 Vladimir wears a platinum holy symbol of the Morninglord (worth 250 gp) around his neck, underneath his half plate armor.
 
@@ -575,13 +575,13 @@ One of the revenants, [[4. World Almanac/NPCs/Sir Godfrey Gwilym.md\|Sir Godfrey
 > 
 > **Spellcasting.** Sir Godfrey is a 16th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 14). Sir Godfrey has the following paladin spells prepared:
 > 
-> 1st level (4 slots): command, divine favor, thunderous smite
+> 1st level (4 slots): [[5. Mechanics/Spells/Command.md\|command]], [[5. Mechanics/Spells/Divine Favor.md\|divine favor]], [[5. Mechanics/Spells/Thunderous Smite.md\|thunderous smite]]
 > 
-> 2nd level (3 slots): branding smite, magic weapon
+> 2nd level (3 slots): [[5. Mechanics/Spells/Branding Smite.md\|branding smite]], [[5. Mechanics/Spells/Magic Weapon.md\|magic weapon]]
 > 
-> 3rd level (3 slots): blinding smite, dispel magic
+> 3rd level (3 slots): [[5. Mechanics/Spells/Blinding Smite.md\|blinding smite]], [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]]
 > 
-> 4th level (2 slots): staggering smite
+> 4th level (2 slots): [[5. Mechanics/Spells/Staggering Smite.md\|staggering smite]]
 ^487
 
 Characters who inspect the fireplace notice a shield-shaped patch on the wall above the mantelpiece. A magic shield once hung above the fireplace, but it was taken when Strahd's soldiers plundered the mansion. It now rests in Castle Ravenloft's treasury (chapter 4, area K41).
@@ -647,7 +647,7 @@ If the characters study the whole picture above the mantelpiece, read:
 > The picture shows the mansion in better days, under clear winter skies with snow-capped mountains in the background. The top of the chapel tower glows like a silver beacon.
 ^494
 
-The picture radiates an aura of transmutation magic under the scrutiny of a detect magic spell, but the aura is weak. If the characters repair the picture using a mending cantrip, read:
+The picture radiates an aura of transmutation magic under the scrutiny of a [[5. Mechanics/Spells/Detect Magic.md\|detect magic]] spell, but the aura is weak. If the characters repair the picture using a [[5. Mechanics/Spells/Mending.md\|mending]] cantrip, read:
 
 > [!readaloud] 
 > 
@@ -678,7 +678,7 @@ Argynvost preferred to sleep in his dragon form. Thus, there is no furniture her
 
 ### Q43. Hole in Roof
 
-This 20-foot-diameter hole in the mansion's roof is directly above area Q33, the floor of which is 20 feet below. The rubble on the roof surrounding the hole is difficult terrain. The roof is sloped and covered with cracked stone tiles. Climbing the tiled roof requires a successful DC 10 Strength (Athletics) check. A failure by 5 or more causes the climber to slide down to the parapet, landing prone but taking no damage.
+This 20-foot-diameter hole in the mansion's roof is directly above area Q33, the floor of which is 20 feet below. The rubble on the roof surrounding the hole is difficult terrain. The roof is sloped and covered with cracked stone tiles. Climbing the tiled roof requires a successful DC 10 Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) check. A failure by 5 or more causes the climber to slide down to the parapet, landing [[/5. Mechanics/Rules/Conditions.md#prone\|prone]] but taking no damage.
 
 ### Q44. Dragon Gargoyle
 
@@ -687,7 +687,7 @@ This 20-foot-diameter hole in the mansion's roof is directly above area Q33, the
 > Perched on the rooftop overlooking the parapet is a silver-plated gargoyle shaped like a dragon wyrmling.
 ^49c
 
-The silver dragon wyrmling statue is 10 feet above the parapet and has a magic mouth spell cast on it. When a character passes in front of it, the spell is activated, and the wyrmling whispers the following short verse in the Common tongue:
+The silver dragon wyrmling statue is 10 feet above the parapet and has a [[5. Mechanics/Spells/Magic Mouth.md\|magic mouth]] spell cast on it. When a character passes in front of it, the spell is activated, and the wyrmling whispers the following short verse in the Common tongue:
 
 *When the dragon dreams its dream*
 
@@ -820,7 +820,7 @@ You can use one or both of the following events as the characters explore Argynv
 
 ### Special Delivery
 
-This encounter occurs while the characters are inside Argynvostholt. Those who have a passive Wisdom (Perception) score of 11 or higher hear the clopping of horse hooves and the crunch of wagon wheels on gravel.
+This encounter occurs while the characters are inside Argynvostholt. Those who have a passive Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) score of 11 or higher hear the clopping of horse hooves and the crunch of wagon wheels on gravel.
 
 A cart pulled by a [[5. Mechanics/Bestiary/Beast/Draft Horse.md\|draft horse]] and driven by a mad Vistana named Kolya (CN male human [[5. Mechanics/Bestiary/Humanoid/Vistana Bandit (COS).md\|bandit]]) stops in front of the mansion. After relieving himself on the statue of Argynvost (area Q1), Kolya untethers the horse and rides back to the Vistani camp outside Vallaki (chapter 5, area N9), leaving the cart and its cargo: a plain wooden coffin.
 
@@ -832,6 +832,6 @@ The coffin was made in Vallaki by the local coffin maker, [[4. World Almanac/NPC
 
 Once she arrives, Ezmerelda releases the horse (which flees back to its camp) and quietly makes her way through the mansion until she reaches the characters.
 
-Hot on Ezmerelda's trail are the Vistani leader [[4. World Almanac/NPCs/Arrigal.md\|Arrigal]] (NE male human [[5. Mechanics/Bestiary/Humanoid/Assassin.md\|assassin]]) and two Vistani bodyguards (CE female [[5. Mechanics/Bestiary/Humanoid/Vistana Bandit (COS).md\|bandits]]). [[4. World Almanac/NPCs/Arrigal.md\|Arrigal]] rides a black [[5. Mechanics/Bestiary/Beast/Riding Horse.md\|riding horse]], while the bandits ride two [[5. Mechanics/Bestiary/Beast/Dire Wolf.md\|dire wolves]]. These dire wolves are servants of Strahd and can't be charmed or frightened.
+Hot on Ezmerelda's trail are the Vistani leader [[4. World Almanac/NPCs/Arrigal.md\|Arrigal]] (NE male human [[5. Mechanics/Bestiary/Humanoid/Assassin.md\|assassin]]) and two Vistani bodyguards (CE female [[5. Mechanics/Bestiary/Humanoid/Vistana Bandit (COS).md\|bandits]]). [[4. World Almanac/NPCs/Arrigal.md\|Arrigal]] rides a black [[5. Mechanics/Bestiary/Beast/Riding Horse.md\|riding horse]], while the bandits ride two [[5. Mechanics/Bestiary/Beast/Dire Wolf.md\|dire wolves]]. These dire wolves are servants of Strahd and can't be [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] or [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]].
 
 [[4. World Almanac/NPCs/Arrigal.md\|Arrigal]] is determined to capture Ezmerelda and haul her back to the Vistani camp to face punishment for horse theft. He does nothing to antagonize the characters, however, and returns to the Vistani camp if he can't convince them to give up Ezmerelda. For more information on [[4. World Almanac/NPCs/Arrigal.md\|Arrigal]], see chapter 5, area N9c.

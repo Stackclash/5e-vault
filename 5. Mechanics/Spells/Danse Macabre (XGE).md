@@ -10,7 +10,6 @@ tags:
 aliases: ["Danse Macabre"]
 ---
 # Danse Macabre
-%%-- Embedded content starts on the next line. --%%
 *5th-level, Necromancy*  
 ![[5. Mechanics/Spells/img/danse-macabre.webp#right]]  
 

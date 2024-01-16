@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Drow"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Drow.md|Drow]]
+# [[5. Mechanics/Bestiary/Humanoid/Drow.md|Drow]]
 *Source: Monster Manual p. 128. Available in the SRD.*  
 
 ## Drow
@@ -127,6 +127,7 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
 - "CM"
 - "CRCotN"
 - "PaBTSO"
+- "BMT"
 "image": "5. Mechanics/Bestiary/Humanoid/token/drow.png"
 ```
 ^statblock

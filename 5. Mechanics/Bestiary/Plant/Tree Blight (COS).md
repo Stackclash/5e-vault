@@ -38,7 +38,7 @@ A tree blight will often fight alongside other kinds of blights, but it hates ot
 - !!int "10"
 - !!int "3"
 "speed": "30 ft."
-"condition_immunities": "blinded, deafened"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]]"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 10"
 "languages": "understands Common and Druidic but doesn't speak"
 "cr": "7"
@@ -55,15 +55,17 @@ A tree blight will often fight alongside other kinds of blights, but it hates ot
     \ Hit: dice: 3d6 + 6|avg (3d6 + 6) bludgeoning damage."
   "name": "Branch"
 - "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 15 ft., one creature\
-    \ not grappled by the blight. Hit: The target is grappled (escape DC 15). Until\
-    \ the grapple ends, the target takes dice: 1d6 + 6|avg (1d6 + 6) bludgeoning\
-    \ damage at the start of each of its turns. The root has AC 15 and can be severed\
-    \ by dealing 6 slashing damage or more to it at once. Cutting the root doesn't\
-    \ hurt the blight, but ends the grapple."
+    \ not [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] by the blight. Hit:\
+    \ The target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC\
+    \ 15). Until the grapple ends, the target takes dice: 1d6 + 6|avg (1d6 + 6)\
+    \ bludgeoning damage at the start of each of its turns. The root has AC 15 and\
+    \ can be severed by dealing 6 slashing damage or more to it at once. Cutting the\
+    \ root doesn't hurt the blight, but ends the grapple."
   "name": "Grasping Root"
 "bonus_actions":
 - "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one creature\
-    \ grappled by the blight. Hit: dice: 3d8 + 6|avg (3d8 + 6) piercing damage."
+    \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] by the blight. Hit: dice:\
+    \ 3d8 + 6|avg (3d8 + 6) piercing damage."
   "name": "Bite"
 "source":
 - "CoS"

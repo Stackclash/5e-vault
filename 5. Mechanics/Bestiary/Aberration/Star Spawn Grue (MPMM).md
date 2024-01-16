@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Star Spawn Grue"]
 ---
-# [[5. Mechanics\Bestiary\Aberration\Star Spawn Grue (MPMM).md|Star Spawn Grue]]
+# [[5. Mechanics/Bestiary/Aberration/Star Spawn Grue (MPMM).md|Star Spawn Grue]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 227*  
 
 Fanged and lipless, the ever-grinning, eerily staring grue lopes about on spindly legs and long arms. Bristles and spines project from odd patches of its grayish skin, and its long fingers end in broken and dirty nails. Grues are the weakest of the star spawn. A host of writhing, scrambling grues typically accompanies more powerful star spawn. Their constant chittering and shrieking produce discordant psychic energy that disrupts thought patterns in other creatures, which experience flashing colors, hallucinations, disorientation, and waves of hopelessness.
@@ -74,6 +74,7 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 "source":
 - "MPMM"
 - "MTF"
+- "BMT"
 "image": "compendium/bestiary/aberration/token/star-spawn-grue.png"
 ```
 ^statblock

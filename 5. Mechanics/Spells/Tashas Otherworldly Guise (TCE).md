@@ -8,7 +8,6 @@ tags:
 aliases: ["Tasha's Otherworldly Guise"]
 ---
 # Tasha's Otherworldly Guise
-%%-- Embedded content starts on the next line. --%%
 *6th-level, Transmutation*  
 
 - **Casting time:** 1 bonus

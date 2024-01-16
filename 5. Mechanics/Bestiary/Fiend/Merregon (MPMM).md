@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Merregon"]
 ---
-# [[5. Mechanics\Bestiary\Fiend\Merregon (MPMM).md|Merregon]]
+# [[5. Mechanics/Bestiary/Fiend/Merregon (MPMM).md|Merregon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 179*  
 
 The souls of fallen soldiers, mercenaries, and bodyguards who served evil without reservation often find everlasting servitude in the Nine Hells as merregons. These faceless foot soldiers are the Hells' legionnaires, tasked with protecting their infernal plane and its rulers against intruders.

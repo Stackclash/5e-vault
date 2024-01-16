@@ -13,7 +13,7 @@ tags:
 statblock: inline
 aliases: ["Couatl"]
 ---
-# [[5. Mechanics\Bestiary\Celestial\Couatl.md|Couatl]]
+# [[5. Mechanics/Bestiary/Celestial/Couatl.md|Couatl]]
 *Source: Monster Manual p. 43. Available in the SRD.*  
 
 Couatls are benevolent serpentine beings of great intellect and insight. Their brilliantly colored wings and gentle manner speak to their celestial origins.
@@ -106,6 +106,7 @@ The mating ritual of couatls is a beautiful and elaborate dance of magic and lig
 - "EGW"
 - "IDRotF"
 - "PSX"
+- "BMT"
 "image": "5. Mechanics/Bestiary/Celestial/token/couatl.png"
 ```
 ^statblock

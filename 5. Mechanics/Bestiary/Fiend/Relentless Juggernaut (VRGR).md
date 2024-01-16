@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Relentless Juggernaut"]
 ---
-# [[5. Mechanics\Bestiary\Fiend\Relentless Juggernaut (VRGR).md|Relentless Juggernaut]]
+# [[5. Mechanics/Bestiary/Fiend/Relentless Juggernaut (VRGR).md|Relentless Juggernaut]]
 *Source: Van Richten's Guide to Ravenloft p. 243*  
 
 Relentless juggernauts are massive brutes that thirst for carnage. Their presence twists the world around them, allowing them to create weapons with which they can slaughter prey. Sharp iron fences, crushing stalagmites and blades of glass all conveniently appear in order to aid a juggernaut's brutality. Every juggernaut considers a certain area its territory and visits destruction upon all trespassers.

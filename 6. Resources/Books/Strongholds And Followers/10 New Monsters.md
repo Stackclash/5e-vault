@@ -58,10 +58,10 @@ Members of the Court are beings of pure chaos. Any attempt to force them to chan
 
 The Changing Ones are not evil. Indeed, they arrive in the Mundane World committed to helping the character who summoned them, even dying for them. They care not for good, nor evil—they are opposed to law, to tyranny, to any force that attempts to slow or stifle change.
 
-- [[4. World Almanac/NPCs/Baron Malgas (SAF).md\|Baron Malgas]]  
-- [[4. World Almanac/NPCs/The Queen Of Bones (SAF).md\|The Queen of Bones]]  
-- [[4. World Almanac/NPCs/Lord Rall (SAF).md\|Lord Rall]]  
-- [[4. World Almanac/NPCs/Uursovk (SAF).md\|Uursovk]]  
+- [[4. World Almanac/NPCs/Baron Malgas.md\|Baron Malgas]]  
+- [[4. World Almanac/NPCs/The Queen Of Bones.md\|The Queen of Bones]]  
+- [[4. World Almanac/NPCs/Lord Rall.md\|Lord Rall]]  
+- [[4. World Almanac/NPCs/Uursovk.md\|Uursovk]]  
 - [[5. Mechanics/Bestiary/Aberration/Maladar Dictum (SAF).md\|Maladar Dictum]]  
 
 ## The Court of Arcadia

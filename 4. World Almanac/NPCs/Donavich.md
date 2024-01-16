@@ -100,8 +100,10 @@ TBD
 "traits":
 - "desc": "Donavich is a 1st-level spellcaster. Its spellcasting ability is Wisdom\
     \ (spell save DC 12, dice: d20+4 (+4 to hit) with spell attacks). Donavich has\
-    \ following cleric spells prepared:\n\nCantrips (at will): light, sacred flame,\
-    \ thaumaturgy\n\n1st level (3 slots): bless, cure wounds, sanctuary"
+    \ following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Light.md\|light]],\
+    \ [[5. Mechanics/Spells/Sacred Flame.md\|sacred flame]], [[5. Mechanics/Spells/Thaumaturgy.md\|thaumaturgy]]\n\
+    \n1st level (3 slots): [[5. Mechanics/Spells/Bless.md\|bless]], [[5. Mechanics/Spells/Cure Wounds.md\|cure wounds]],\
+    \ [[5. Mechanics/Spells/Sanctuary.md\|sanctuary]]"
   "name": "spells"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\

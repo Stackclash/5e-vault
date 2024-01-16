@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Dryad"]
 ---
-# [[5. Mechanics\Bestiary\Fey\Dryad.md|Dryad]]
+# [[5. Mechanics/Bestiary/Fey/Dryad.md|Dryad]]
 *Source: Monster Manual p. 121. Available in the SRD.*  
 
 Travelers entering a forest might catch a glimpse of a feminine form flitting through the trees. Warm laughter hangs on the air, drawing those who hear it deeper into the emerald shadows.
@@ -107,6 +107,9 @@ Dryads can speak with plants and animals. They can teleport from one tree to ano
 - "KftGV"
 - "PSI"
 - "ToFW"
+- "BMT"
+- "GHLoE"
+- "DoDk"
 "image": "5. Mechanics/Bestiary/Fey/token/dryad.png"
 ```
 ^statblock

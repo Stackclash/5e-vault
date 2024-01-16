@@ -11,7 +11,6 @@ tags:
 aliases: ["Primal Savagery"]
 ---
 # Primal Savagery
-%%-- Embedded content starts on the next line. --%%
 *cantrip, Transmutation*  
 
 - **Casting time:** 1 action

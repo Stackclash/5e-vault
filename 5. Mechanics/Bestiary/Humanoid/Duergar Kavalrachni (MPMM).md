@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Duergar Kavalrachni"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Duergar Kavalrachni (MPMM).md|Duergar Kavalrachni]]
+# [[5. Mechanics/Bestiary/Humanoid/Duergar Kavalrachni (MPMM).md|Duergar Kavalrachni]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 107*  
 
 Kavalrachni are duergar cavalry trained to fight while riding [[5. Mechanics/Bestiary/Monstrosity/Female Steeder (MPMM).md|female steeders]] (in this book) or other Underdark creatures as mounts.

@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Drow Matron Mother"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Drow Matron Mother (MPMM).md|Drow Matron Mother]]
+# [[5. Mechanics/Bestiary/Humanoid/Drow Matron Mother (MPMM).md|Drow Matron Mother]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 104*  
 
 Among drow followers of Lolth, each noble house is led by a matron mother, an influential priestess of Lolth charged with carrying out the god's will while also advancing the interests of the family. Matron mothers embody the scheming and treachery associated with the Queen of Spiders. Each stands at the center of a vast conspiratorial web, with demons, spiders, and conscripted soldiers positioned between them and their enemies. Although matron mothers command great power, that power depends on maintaining the Spider Queen's favor, and the goddess sometimes capriciously takes back what she has given. The stat block here represents a matron mother at the height of her power.

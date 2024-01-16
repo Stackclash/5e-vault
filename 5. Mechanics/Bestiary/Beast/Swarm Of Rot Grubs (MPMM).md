@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Swarm of Rot Grubs"]
 ---
-# [[5. Mechanics\Bestiary\Beast\Swarm Of Rot Grubs (MPMM).md|Swarm of Rot Grubs]]
+# [[5. Mechanics/Bestiary/Beast/Swarm Of Rot Grubs (MPMM).md|Swarm of Rot Grubs]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 237*  
 
 Rot grubs are finger-sized maggots that eat living and dead creatures, although they can survive on vegetation. They infest corpses and piles of decaying matter and attack anyone that disturbs them. After burrowing into a creature, rot grubs instinctively chew their way toward vital parts.

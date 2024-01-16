@@ -153,7 +153,7 @@ Ascribing human characteristics to an inanimate thing is one way to turn somethi
 In a horror story, there's no telling where danger might be lurking. A leering gargoyle might be a monster in disguise, or merely a fiendish sculpture. A mirror hanging on a wall might have the power to transfix all who gaze into it, or it might be nothing out of the ordinary. In a horror story, taking the time to describe an object in detail draws attention to it, makes one suspicious of it, and might distract from the real danger. Here are a couple of tricks you can use:
 
 - In a given encounter area, choose one object or feature to describe in some detail. It need not be important to the story.  
-- Allow the character who has the highest passive Wisdom (Perception) score to see, hear, or smell something that no one else can perceive.  
+- Allow the character who has the highest passive Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) score to see, hear, or smell something that no one else can perceive.  
 
 ### Humor
 

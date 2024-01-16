@@ -22,17 +22,17 @@ Made with the bones of the innocent, the hags' dream pastries allow Barovians to
 
 The [[5. Mechanics/Bestiary/Fiend/Night Hag.md\|hags]] possess the shared spellcasting abilities of a coven (see the "Hag Covens" sidebar in the hags entry in the "Monster Manual"). If one or more hags die, the coven is broken. [[4. World Almanac/NPCs/Morgantha.md\|Morgantha]] tolerates her daughters only because they help her complete the coven. If one of them dies, [[4. World Almanac/NPCs/Morgantha.md\|Morgantha]] sets out to abduct and consume a human child so that she can give birth to a new daughter (as described in the "Monster Manual").
 
-[[4. World Almanac/NPCs/Morgantha.md\|Morgantha]] gave her coven's hag eye to [[4. World Almanac/NPCs/Cyrus Belview.md\|Cyrus Belview]], Strahd's disfigured manservant (see chapter 4, area K62), so that she could spy on Castle Ravenloft and keep an eye on the vampire. The hags are fearful of Strahd and respect his dominion over this land. For more information on the *hag eye*, see the hags entry in the Monster Manual.
+[[4. World Almanac/NPCs/Morgantha.md\|Morgantha]] gave her coven's [[5. Mechanics/Items/Hag Eye.md\|hag eye]] to [[4. World Almanac/NPCs/Cyrus Belview.md\|Cyrus Belview]], Strahd's disfigured manservant (see chapter 4, area K62), so that she could spy on Castle Ravenloft and keep an eye on the vampire. The hags are fearful of Strahd and respect his dominion over this land. For more information on the *hag eye*, see the hags entry in the Monster Manual.
 
 ## Dream Pastries
 
-These pastries look and taste like small mincemeat pies. A creature that eats one in its entirety must succeed on a DC 16 Constitution saving throw or fall into a trance that lasts for `dice: 1d4 + 4|avg` (`1d4 + 4`) hours, during which time the creature is incapacitated and has a speed of 0 feet. The trance ends if the affected creature takes any damage or if someone else uses an action to shake the creature out of its stupor.
+These pastries look and taste like small mincemeat pies. A creature that eats one in its entirety must succeed on a DC 16 Constitution saving throw or fall into a trance that lasts for `dice: 1d4 + 4|avg` (`1d4 + 4`) hours, during which time the creature is [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]] and has a speed of 0 feet. The trance ends if the affected creature takes any damage or if someone else uses an action to shake the creature out of its stupor.
 
 While in the trance, the creature dreams of being in some joyous place, far removed from the evils of the world. The places and characters in the dream are vivid and believable, and when the dream ends, the affected creature experiences a longing to return to the place.
 
 ## Approaching the Windmill
 
-The windmill's stone walls are easily climbed. Wooden floors separate the various levels. There are no lights within, since the hags have darkvision.
+The windmill's stone walls are easily climbed. Wooden floors separate the various levels. There are no lights within, since the hags have [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]].
 
 > [!readaloud] 
 > 
@@ -46,7 +46,7 @@ Closer investigation of the windmill yields a few more details:
 > The onion-domed edifice leans forward and to one side, as though trying to turn away from the stormy gray sky. You see gray brick walls and dirt-covered windows on the upper floors. A decrepit wooden platform encircles the windmill above a flimsy doorway leading to the building's interior. Perched on a wooden beam above the door is a raven. It hops about and squawks at you, seemingly agitated.
 ^416
 
-A character who succeeds on a DC 12 Wisdom (Insight) check senses that the [[5. Mechanics/Bestiary/Beast/Raven.md\|raven]] is trying to warn the party. After delivering its message, the raven flies off toward Vallaki, the town in the valley below (see chapter 5).
+A character who succeeds on a DC 12 Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight\|Insight]]) check senses that the [[5. Mechanics/Bestiary/Beast/Raven.md\|raven]] is trying to warn the party. After delivering its message, the raven flies off toward Vallaki, the town in the valley below (see chapter 5).
 
 Beyond the windmill is the forest. Once atop the windmill's hill, the characters can see a ring of four squat megaliths at the forest's edge. Ravens can be seen circling in the air above the stones, which are described at the end of the chapter.
 
@@ -76,9 +76,9 @@ The ceiling here is 8 feet high. If the characters explore the room, read:
 
 Baking in the oven are a dozen dream pastries. [[4. World Almanac/NPCs/Morgantha.md\|Morgantha]] checks on them every 10 minutes. The staircase curls up to area O2.
 
-The barrel holds glistening, greenish-black demon ichor. [[4. World Almanac/NPCs/Morgantha.md\|Morgantha]] can use the barrel as a font for a scrying spell. She can also knock on the barrel three times as an action to summon a [[5. Mechanics/Bestiary/Fiend/Dretch.md\|dretch]]. The demon crawls out of the barrel at the end of [[4. World Almanac/NPCs/Morgantha.md\|Morgantha]]'s turn and obeys the night hag's commands for 1 hour, after which it dissolves into a pool of ichor. [[4. World Almanac/NPCs/Morgantha.md\|Morgantha]] can summon up to nine dretches in this manner before the ichor is gone.
+The barrel holds glistening, greenish-black demon ichor. [[4. World Almanac/NPCs/Morgantha.md\|Morgantha]] can use the barrel as a font for a [[5. Mechanics/Spells/Scrying.md\|scrying]] spell. She can also knock on the barrel three times as an action to summon a [[5. Mechanics/Bestiary/Fiend/Dretch.md\|dretch]]. The demon crawls out of the barrel at the end of [[4. World Almanac/NPCs/Morgantha.md\|Morgantha]]'s turn and obeys the night hag's commands for 1 hour, after which it dissolves into a pool of ichor. [[4. World Almanac/NPCs/Morgantha.md\|Morgantha]] can summon up to nine dretches in this manner before the ichor is gone.
 
-[[4. World Almanac/NPCs/Morgantha.md\|Morgantha]]'s cabinet contains wooden bowls full of herbs and baking ingredients, including flour, sugar, and several gourds of powdered bone. Hanging on the inside of the cabinet doors are a dozen locks of hair. Amid various concoctions are three small, labeled containers that hold elixirs. The first elixir, labeled "Youth," is a golden syrup that magically makes the imbiber appear younger and more attractive for 24 hours. The second elixir, labeled "Laughter," is a nonmagical red tea that infects the imbiber with cackle fever (see ""Diseases"" in chapter 8, "Running the Game," of the "Dungeon Master's Guide"). The third elixir, a greenish milky liquid labeled "Mother's Milk," is actually a dose of pale tincture (see ""Poisons"" in chapter 8 of the "Dungeon Master's Guide").
+[[4. World Almanac/NPCs/Morgantha.md\|Morgantha]]'s cabinet contains wooden bowls full of herbs and baking ingredients, including flour, sugar, and several gourds of powdered bone. Hanging on the inside of the cabinet doors are a dozen locks of hair. Amid various concoctions are three small, labeled containers that hold elixirs. The first elixir, labeled "Youth," is a golden syrup that magically makes the imbiber appear younger and more attractive for 24 hours. The second elixir, labeled "Laughter," is a nonmagical red tea that infects the imbiber with cackle fever (see ""Diseases"" in chapter 8, "Running the Game," of the "Dungeon Master's Guide"). The third elixir, a greenish milky liquid labeled "Mother's Milk," is actually a dose of [[5. Mechanics/Items/Pale Tincture.md\|pale tincture]] (see ""Poisons"" in chapter 8 of the "Dungeon Master's Guide").
 
 The chicken coop contains three chickens, a rooster, and a few laid eggs.
 

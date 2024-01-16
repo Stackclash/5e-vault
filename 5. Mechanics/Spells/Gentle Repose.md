@@ -16,7 +16,6 @@ tags:
 aliases: ["Gentle Repose"]
 ---
 # Gentle Repose
-%%-- Embedded content starts on the next line. --%%
 *2nd-level, Necromancy (ritual)*  
 
 - **Casting time:** 1 action unless cast as a ritual

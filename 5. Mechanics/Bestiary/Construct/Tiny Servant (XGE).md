@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Tiny Servant"]
 ---
-# [[5. Mechanics\Bestiary\Construct\Tiny Servant (XGE).md|Tiny Servant]]
+# [[5. Mechanics/Bestiary/Construct/Tiny Servant (XGE).md|Tiny Servant]]
 *Source: Xanathar's Guide to Everything p. 169*  
 
 ```statblock

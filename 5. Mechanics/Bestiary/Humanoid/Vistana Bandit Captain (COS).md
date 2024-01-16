@@ -67,11 +67,13 @@ aliases: ["Vistana Bandit Captain"]
     \ ends, the Vistana takes dice: 3d6|avg (3d6) psychic damage.  \n- The target's\
     \ attunement to one magic item (chosen by the DM) ends, and the target can't attune\
     \ to the chosen item until the curse ends. When this curse ends, the Vistana takes\
-    \ dice: 5d6|avg (5d6) psychic damage.  \n- The target is blinded, deafened,\
-    \ or both. When this curse ends, the Vistana takes dice: 5d6|avg (5d6) psychic\
-    \ damage.  \n\nThe curse lasts until ended with a greater restoration spell, a\
-    \ remove curse spell, or similar magic. It doesn't end when the target dies. If\
-    \ a cursed target is returned to life, the curse remains in effect."
+    \ dice: 5d6|avg (5d6) psychic damage.  \n- The target is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]],\
+    \ [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]], or both. When this curse\
+    \ ends, the Vistana takes dice: 5d6|avg (5d6) psychic damage.  \n\nThe curse\
+    \ lasts until ended with a [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
+    \ spell, a [[5. Mechanics/Spells/Remove Curse.md|remove curse]] spell, or similar\
+    \ magic. It doesn't end when the target dies. If a cursed target is returned to\
+    \ life, the curse remains in effect."
   "name": "Curse (Recharges After a Long Rest)"
 - "desc": "12\n\nA Vistana who uses Evil Eye can't use it again before finishing a\
     \ short or long rest. Once a target succeeds on a saving throw against a Vistana's\

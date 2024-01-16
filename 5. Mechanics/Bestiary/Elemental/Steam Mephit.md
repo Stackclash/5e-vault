@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Steam Mephit"]
 ---
-# [[5. Mechanics\Bestiary\Elemental\Steam Mephit.md|Steam Mephit]]
+# [[5. Mechanics/Bestiary/Elemental/Steam Mephit.md|Steam Mephit]]
 *Source: Monster Manual p. 217. Available in the SRD.*  
 
 ## Mephits
@@ -75,6 +75,7 @@ Composed of fire and water, steam mephits leave trails of hot water wherever the
 - "ToA"
 - "EGW"
 - "ToFW"
+- "DoDk"
 "image": "compendium/bestiary/elemental/token/steam-mephit.png"
 ```
 ^statblock

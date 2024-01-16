@@ -10,7 +10,6 @@ tags:
 aliases: ["Prismatic Spray"]
 ---
 # Prismatic Spray
-%%-- Embedded content starts on the next line. --%%
 *7th-level, Evocation*  
 ![[5. Mechanics/Spells/img/prismatic-spray.webp#right]]  
 

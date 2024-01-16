@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Dust Mephit"]
 ---
-# [[5. Mechanics\Bestiary\Elemental\Dust Mephit.md|Dust Mephit]]
+# [[5. Mechanics/Bestiary/Elemental/Dust Mephit.md|Dust Mephit]]
 *Source: Monster Manual p. 215. Available in the SRD.*  
 
 ## Mephits
@@ -78,6 +78,7 @@ Composed of earth and air, dust mephits are drawn to catacombs and find death mo
 - "ToA"
 - "PaBTSO"
 - "SatO"
+- "DoDk"
 "image": "compendium/bestiary/elemental/token/dust-mephit.png"
 ```
 ^statblock

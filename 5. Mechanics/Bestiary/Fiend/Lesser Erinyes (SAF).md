@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Lesser Erinyes"]
 ---
-# [[5. Mechanics\Bestiary\Fiend\Lesser Erinyes (SAF).md|Lesser Erinyes]]
+# [[5. Mechanics/Bestiary/Fiend/Lesser Erinyes (SAF).md|Lesser Erinyes]]
 *Source: Strongholds and Followers p. 153*  
 
 ```statblock

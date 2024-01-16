@@ -13,6 +13,20 @@ aliases: ["Nothic"]
 # [[5. Mechanics/Bestiary/Aberration/Nothic.md|Nothic]]
 *Source: Monster Manual p. 236, Curse of Strahd. Available in the Basic Rules.*  
 
+A baleful eye peers out from the darkness, its gleam hinting at a weird intelligence and unnerving malevolence. Most times, a nothic is content to watch, weighing and assessing the creatures it encounters. When driven to violence, it uses its horrific gaze to rot the flesh from its enemies' bones.
+
+## Cursed Arcanists
+
+Rather than gaining the godlike supremacy they crave, some wizards who devote their lives to unearthing arcane secrets are reduced to creeping, tormented monsters by a dark curse left behind by Vecna, a powerful lich who, in some worlds, has transcended his undead existence to become a god of secrets. Nothics retain no awareness of their former selves, skulking amid the shadows and haunting places rich in magical knowledge, drawn by memories and impulses they can't quite understand.
+
+## Dark Oracles
+
+Nothics possess a strange magical insight that allows them to extract knowledge from other creatures. This grants them unique understanding of secret and forbidden lore, which they share for a price. A nothic covets magic items, greedily accepting such gifts from creatures that seek out its knowledge.
+
+### Lurkers in Magical Places
+
+Nothics are notorious for infiltrating arcane academies and other places rich in magical learning. They are driven by the vague knowledge that there exists a method to reverse their condition. This isn't a clear sense of purpose, but rather an obsessive tug at the end of the mind. Some nothics are clever enough to realize that this is merely part of the strange lesson for their folly, a false hope to drive them to seek out more arcane secrets.
+
 ```statblock
 "name": "Nothic"
 "size": "Medium"
@@ -38,7 +52,8 @@ aliases: ["Nothic"]
 "languages": "Undercommon"
 "cr": "2"
 "traits":
-- "desc": "The nothic has advantage on Wisdom (Perception) checks that rely on sight."
+- "desc": "The nothic has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+    \ checks that rely on sight."
   "name": "Keen Sight"
 "actions":
 - "desc": "The nothic makes two claw attacks."
@@ -53,7 +68,7 @@ aliases: ["Nothic"]
 - "desc": "The nothic targets one creature it can see within 30 feet of it. The target\
     \ must contest its Charisma (Deception) check against the nothic's Wisdom (Insight)\
     \ check. If the nothic wins, it magically learns one fact or secret about the\
-    \ target. The target automatically wins if it is immune to being charmed."
+    \ target. The target automatically wins if it is immune to being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]."
   "name": "Weird Insight"
 "source":
 - "MM"

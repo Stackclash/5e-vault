@@ -13,7 +13,7 @@ tags:
 statblock: inline
 aliases: ["Giant Rat"]
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Rat.md|Giant Rat]]
+# [[5. Mechanics/Bestiary/Beast/Giant Rat.md|Giant Rat]]
 *Source: Monster Manual p. 327. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -60,6 +60,8 @@ aliases: ["Giant Rat"]
 - "IDRotF"
 - "CM"
 - "WBtW"
+- "GHLoE"
+- "DoDk"
 "image": "compendium/bestiary/beast/token/giant-rat.png"
 ```
 ^statblock

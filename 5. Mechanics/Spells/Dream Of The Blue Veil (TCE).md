@@ -8,7 +8,6 @@ tags:
 aliases: ["Dream of the Blue Veil"]
 ---
 # Dream of the Blue Veil
-%%-- Embedded content starts on the next line. --%%
 *7th-level, Conjuration*  
 
 - **Casting time:** 10 minute

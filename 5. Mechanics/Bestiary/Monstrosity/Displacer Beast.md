@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Displacer Beast"]
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Displacer Beast.md|Displacer Beast]]
+# [[5. Mechanics/Bestiary/Monstrosity/Displacer Beast.md|Displacer Beast]]
 *Source: Monster Manual p. 81, Eberron: Rising from the Last War*  
 
 This monstrous predator takes its name from its ability to displace light so that it appears to be several feet away from its actual location. A displacer beast resembles a sleek great cat covered in blue-black fur.
@@ -77,6 +77,7 @@ Displacer beasts hunt alone or in small prides that demonstrate skill at setting
 - "JttRC"
 - "KftGV"
 - "SatO"
+- "BMT"
 "image": "compendium/bestiary/monstrosity/token/displacer-beast.png"
 ```
 ^statblock

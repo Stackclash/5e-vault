@@ -14,7 +14,7 @@ tags:
 statblock: inline
 aliases: ["Skulk"]
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Skulk (MPMM).md|Skulk]]
+# [[5. Mechanics/Bestiary/Monstrosity/Skulk (MPMM).md|Skulk]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 219*  
 
 > [!quote]- A quote from Mordenkainen  

@@ -112,7 +112,7 @@ The crates on the eastern ledge contain heaps of adult-sized clothing.
 > A maze of torchlit tunnels and caves expands in front of you. Bones lie strewn upon the floor.
 ^69d
 
-The ceiling here is 10 feet high. The bones on the floor are a warning system. They crunch loudly underfoot, and creatures have disadvantage on Dexterity (Stealth) checks made to move silently through this area.
+The ceiling here is 10 feet high. The bones on the floor are a warning system. They crunch loudly underfoot, and creatures have disadvantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks made to move silently through this area.
 
 #### Z5a. South Cave
 
@@ -124,7 +124,7 @@ Wensencia, a [[5. Mechanics/Bestiary/Humanoid/Werewolf.md\|werewolf]] in wolf fo
 
 When an alarm sounds, Wencensia takes Kellen to area Z7, locks him in one of the empty cages, and tells him to take human form, which he does. She then joins her fellow werewolves in the den's defense.
 
-Kellen was kidnapped from his home in Liam's Hold, a hamlet near the Misty Forest in the Forgotten Realms setting. He was afflicted with werewolf lycanthropy after winning one of Kiril's despicable contests. Wencensia has been tasked with training this newest member of Kiril's pack. Casting a greater restoration spell or a remove curse spell on Kellen ends his lycanthropy.
+Kellen was kidnapped from his home in Liam's Hold, a hamlet near the Misty Forest in the Forgotten Realms setting. He was afflicted with werewolf lycanthropy after winning one of Kiril's despicable contests. Wencensia has been tasked with training this newest member of Kiril's pack. Casting a [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell or a [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell on Kellen ends his lycanthropy.
 
 ### Z6. Kiril's Cave
 
@@ -170,7 +170,7 @@ Anyone who steals from Mother Night is cursed. The werewolves know this, and thu
 
 Any creature that takes treasure from this pile is haunted by horrible dreams every night lasting from dusk until dawn. The curse affects only the creature that did the pilfering and isn't passed on to anyone else who might come into possession of the item. Returning a stolen item to the treasure pile doesn't end the curse.
 
-A creature cursed in this way gains no benefit from finishing a short or long rest at night (resting during the day works normally, since the curse is dormant from dawn to dusk). A greater restoration or a remove curse spell cast on the creature ends the curse on it. The curse on the creature also ends if it leaves Barovia.
+A creature cursed in this way gains no benefit from finishing a short or long rest at night (resting during the day works normally, since the curse is dormant from dawn to dusk). A [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] or a [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell cast on the creature ends the curse on it. The curse on the creature also ends if it leaves Barovia.
 
 #### Fortunes of Ravenloft
 
@@ -215,6 +215,6 @@ If the characters get the children away from the den while Kiril is alive, Kiril
 
 If the characters aren't sure where to take the children, a [[5. Mechanics/Bestiary/Humanoid/Wereraven (VRGR).md\|wereraven]] (see appendix D) that has been spying on the den in raven form assumes hybrid form and suggests that they take refuge in the nearby village of Krezk (chapter 8). If the characters head that way, the wereraven scouts from overhead until the characters reach the village, whereupon it flies south to the Wizard of Wines winery (chapter 12) and reports what has happened to [[4. World Almanac/NPCs/Davian Martikov.md\|Davian Martikov]].
 
-The children are understandably traumatized by their imprisonment in the werewolf den. They cry and scream the whole time they're with the characters. A calm emotions spell quells their anguish for the duration of the spell (no saving throws required). A character can try to silence the children for a longer period of time using intimidation, or by offering them hope (real or otherwise). The character must make a DC 15 Charisma (Intimidation, Persuasion, or Deception) check, as appropriate. If the check succeeds, the children remain silent until something happens to frighten them.
+The children are understandably traumatized by their imprisonment in the werewolf den. They cry and scream the whole time they're with the characters. A [[5. Mechanics/Spells/Calm Emotions.md\|calm emotions]] spell quells their anguish for the duration of the spell (no saving throws required). A character can try to silence the children for a longer period of time using intimidation, or by offering them hope (real or otherwise). The character must make a DC 15 Charisma ([[/5. Mechanics/Rules/Skills.md#Intimidation\|Intimidation]], [[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]], or [[/5. Mechanics/Rules/Skills.md#Deception\|Deception]]) check, as appropriate. If the check succeeds, the children remain silent until something happens to frighten them.
 
 If the characters take the children to Krezk, the villagers there look after the children and see that they are fed and properly clothed. If the characters take them to Vallaki instead, the Martikovs allow the children to stay at the Blue Water Inn until the characters return to collect them.

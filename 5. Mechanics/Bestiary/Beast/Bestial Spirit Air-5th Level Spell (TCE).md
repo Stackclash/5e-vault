@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Bestial Spirit (Air, 5th-Level Spell)"]
 ---
-# [[5. Mechanics\Bestiary\Beast\Bestial Spirit Air-5th Level Spell (TCE).md|Bestial Spirit (Air, 5th-Level Spell)]]
+# [[5. Mechanics/Bestiary/Beast/Bestial Spirit Air-5th Level Spell (TCE).md|Bestial Spirit (Air, 5th-Level Spell)]]
 *Source: Tasha's Cauldron of Everything p. 109*  
 
 ```statblock

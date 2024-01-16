@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Knight of Air"]
 ---
-# [[5. Mechanics\Bestiary\Elemental\Knight Of Air (SAF).md|Knight of Air]]
+# [[5. Mechanics/Bestiary/Elemental/Knight Of Air (SAF).md|Knight of Air]]
 *Source: Strongholds and Followers p. 190*  
 
 The Knights of Alloy enjoy the privilege of being neutral in the conflicts that rage across the timescape. Because Alloy is neutral ground, the Knights are often seen in the company of visiting members of the Court of Arcadia (especially the Mantis Knights or the Orchid Count) or the Knights of Axiom. Even the unchanging changers from the Court of All Flesh are welcome. The Knights of Fire seem to enjoy the company of Korsoth Vastikan especially.

@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Spined Devil"]
 ---
-# [[5. Mechanics\Bestiary\Fiend\Spined Devil.md|Spined Devil]]
+# [[5. Mechanics/Bestiary/Fiend/Spined Devil.md|Spined Devil]]
 *Source: Monster Manual p. 78*  
 
 Smaller than most other devils, spinagons act as messengers and spies for greater devils and archdevils. They are the eyes and ears of the Nine Hells, and even fiends that despise a spined devil's weakness treat it with a modicum of respect. A spined devil's body and tail bristle with spines, and it can fling its tail spines as ranged weapons. The spines burst into flame on impact.

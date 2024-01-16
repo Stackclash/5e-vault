@@ -99,7 +99,7 @@ TBD
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ not made with silvered weapons"
 "damage_immunities": "fire, poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 11"
 "languages": "Infernal, Common"
 "cr": "1"
@@ -121,9 +121,10 @@ TBD
     \ make a DC 11 Constitution saving throw, taking dice: 3d6|avg (3d6) poison\
     \ damage on a failed save, or half as much damage on a successful one."
   "name": "Sting (Bite in Beast Form)"
-- "desc": "Majesto magically turns invisible until it attacks, or until its concentration\
+- "desc": "Majesto magically turns [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]]\
+    \ until it attacks, or until its [[/5. Mechanics/Rules/Conditions.md#concentration\|concentration]]\
     \ ends (as if concentrating on a spell). Any equipment Majesto wears or carries\
-    \ is invisible with it."
+    \ is [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]] with it."
   "name": "Invisibility"
 "source":
 - "CoS"

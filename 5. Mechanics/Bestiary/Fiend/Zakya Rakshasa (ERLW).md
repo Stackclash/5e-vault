@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Zakya Rakshasa"]
 ---
-# [[5. Mechanics\Bestiary\Fiend\Zakya Rakshasa (ERLW).md|Zakya Rakshasa]]
+# [[5. Mechanics/Bestiary/Fiend/Zakya Rakshasa (ERLW).md|Zakya Rakshasa]]
 *Source: Eberron: Rising from the Last War p. 309*  
 
 Millions of years before the rise of the humanoid races, the rakshasas of Eberron ruled a civilization that spanned Khorvaire. Masters of combat, the rakshasas of Eberron wield their weapons with demonic fury, rushing into battle seeking vengeance against those who bound their fiendish masters.

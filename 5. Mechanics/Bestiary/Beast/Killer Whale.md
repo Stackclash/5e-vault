@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Killer Whale"]
 ---
-# [[5. Mechanics\Bestiary\Beast\Killer Whale.md|Killer Whale]]
+# [[5. Mechanics/Bestiary/Beast/Killer Whale.md|Killer Whale]]
 *Source: Monster Manual p. 331. Available in the SRD and the Basic Rules.*  
 
 ```statblock

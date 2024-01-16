@@ -34,7 +34,7 @@ In most circumstances, a random encounter occurs on a roll of 18 or higher on a 
 | 5 | 1 [[5. Mechanics/Bestiary/Construct/Broom Of Animated Attack (COS).md\|broom of animated attack]] (see appendix D) |
 | 6 | `dice: 1d4 + 1\|avg` (`1d4 + 1`) [[5. Mechanics/Bestiary/Construct/Flying Sword.md\|flying swords]] |
 | 7 | Blinsky toy |
-| 8 | Unseen servant |
+| 8 | [[5. Mechanics/Spells/Unseen Servant.md\|Unseen servant]] |
 | 9 | `dice: 1d4\|avg` (`1d4`) [[5. Mechanics/Bestiary/Humanoid/Barovian Commoner (COS).md\|commoners]] |
 | 10 | `dice: 2d6\|avg` (`2d6`) [[5. Mechanics/Bestiary/Undead/Crawling Claw.md\|crawling claws]] |
 | 11 | `dice: 1d6\|avg` (`1d6`) [[5. Mechanics/Bestiary/Undead/Shadow.md\|shadows]] |
@@ -71,7 +71,7 @@ Angry [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|villagers]] who have entered
 > Through the darkness comes a crone wearing a pointed black hat and a burlap gown stained with soot.
 ^177
 
-Characters can try to hide from the witch (who has darkvision) or catch her by surprise. This [[5. Mechanics/Bestiary/Humanoid/Barovian Witch (COS).md\|Barovian witch]] is one of the servants of Strahd dwelling in area K56. She is calling out the name of her black cat familiar, which has gone missing. If the characters confront her, the old bat spits at them and begins casting a spell.
+Characters can try to hide from the witch (who has [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]]) or catch her by surprise. This [[5. Mechanics/Bestiary/Humanoid/Barovian Witch (COS).md\|Barovian witch]] is one of the servants of Strahd dwelling in area K56. She is calling out the name of her black cat familiar, which has gone missing. If the characters confront her, the old bat spits at them and begins casting a spell.
 
 This encounter happens only once. If this result comes up again, treat it as no encounter.
 
@@ -123,7 +123,7 @@ When it gets within 5 feet of a party member, the [[5. Mechanics/Bestiary/Constr
 > A mob of severed hands, their mummified flesh black with soot, skitters out of the darkness across the dusty floor.
 ^17f
 
-The [[5. Mechanics/Bestiary/Undead/Crawling Claw.md\|crawling claws]] gang up on one party member. During the confusion, one of the claws tries to crawl into the character's backpack and hide there. It makes a Dexterity (Stealth) check contested by the character's passive Wisdom (Perception) score. If the claw loses the contest, the character sees the claw enter the backpack. If the claw wins the contest, it waits until the character takes a long rest before scuttling out to attack.
+The [[5. Mechanics/Bestiary/Undead/Crawling Claw.md\|crawling claws]] gang up on one party member. During the confusion, one of the claws tries to crawl into the character's backpack and hide there. It makes a Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) check contested by the character's passive Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) score. If the claw loses the contest, the character sees the claw enter the backpack. If the claw wins the contest, it waits until the character takes a long rest before scuttling out to attack.
 
 #### Crawling Strahd Zombie
 
@@ -138,7 +138,7 @@ If the characters are moving quietly and not using light sources, they can try t
 
 #### Ezmerelda d'Avenir
 
-[[4. World Almanac/NPCs/Ezmerelda Davenir.md\|Ezmerelda]] has cast a greater invisibility spell on herself and is stealthily exploring the castle. Choose one character in the back rank of the party's marching order, and read the following text to that character's player:
+[[4. World Almanac/NPCs/Ezmerelda Davenir.md\|Ezmerelda]] has cast a [[5. Mechanics/Spells/Greater Invisibility.md\|greater invisibility]] spell on herself and is stealthily exploring the castle. Choose one character in the back rank of the party's marching order, and read the following text to that character's player:
 
 > [!readaloud] 
 > 
@@ -158,7 +158,7 @@ This random encounter happens only once. If this result comes up again, treat it
 > Out of the gloom flies a rusty blade, followed by another!
 ^186
 
-If more than two [[5. Mechanics/Bestiary/Construct/Flying Sword.md\|flying swords]] are encountered, the others aren't far behind. These weapons drift about the castle and attack intruders within range of their blindsight.
+If more than two [[5. Mechanics/Bestiary/Construct/Flying Sword.md\|flying swords]] are encountered, the others aren't far behind. These weapons drift about the castle and attack intruders within range of their [[/5. Mechanics/Rules/Senses.md#blindsight\|blindsight]].
 
 #### Giant Spider Cocoon
 
@@ -176,14 +176,14 @@ A giant spider made this cocoon. Characters who can reach it can cut it open to 
 | 1 | A wooden mannequin wearing a gown. |
 | 2 | A [[5. Mechanics/Bestiary/Humanoid/Barovian Witch (COS).md\|Barovian witch]] (see appendix D). She screams like a wild animal and begins casting spells. |
 | 3 | A [[5. Mechanics/Bestiary/Undead/Strahd Zombie (COS).md\|Strahd zombie]] (see appendix D). It fights until killed. |
-| 4 | A Barovian lunatic (CN male [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoner]]). If freed, he cackles until silenced or until a calm emotions spell is cast on him. A lesser restoration spell cures his madness, at which point he tries to flee the castle. |
+| 4 | A Barovian lunatic (CN male [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoner]]). If freed, he cackles until silenced or until a [[5. Mechanics/Spells/Calm Emotions.md\|calm emotions]] spell is cast on him. A [[5. Mechanics/Spells/Lesser Restoration.md\|lesser restoration]] spell cures his madness, at which point he tries to flee the castle. |
 | 5 | A dead Barovian that serves as host to a [[5. Mechanics/Bestiary/Beast/Swarm Of Spiders.md\|swarm of insects (spiders)]]. The baby giant spiders (each one the size of a tarantula) crawl out of the Barovian's gaping mouth or burst forth from its distended belly. |
 | 6 | A [[5. Mechanics/Bestiary/Humanoid/Vistana Bandit (COS).md\|Vistana bandit]] (CN male or female). The Vistana knows the castle's layout and helps the characters until Strahd or more Vistani appear, at which point the treacherous Vistana turns on the characters. |
 ^cocoons-contents
 
 #### Rahadin
 
-If [[4. World Almanac/NPCs/Rahadin.md\|Rahadin]] was killed or captured in a previous encounter, this encounter doesn't occur. Otherwise, Strahd's mysterious chamberlain approaches quietly. A character whose passive Wisdom (Perception) score meets or exceeds [[4. World Almanac/NPCs/Rahadin.md\|Rahadin]]'s Dexterity (Stealth) check hear him.
+If [[4. World Almanac/NPCs/Rahadin.md\|Rahadin]] was killed or captured in a previous encounter, this encounter doesn't occur. Otherwise, Strahd's mysterious chamberlain approaches quietly. A character whose passive Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) score meets or exceeds [[4. World Almanac/NPCs/Rahadin.md\|Rahadin]]'s Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) check hear him.
 
 > [!readaloud] 
 > 
@@ -208,7 +208,7 @@ If the characters ask [[4. World Almanac/NPCs/Rahadin.md\|Rahadin]] to lead the 
 
 #### Shadows
 
-If one or more characters have a passive Wisdom (Perception) score of 16 or higher, read:
+If one or more characters have a passive Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) score of 16 or higher, read:
 
 > [!readaloud] 
 > 
@@ -226,7 +226,7 @@ If more than one [[5. Mechanics/Bestiary/Undead/Shadow.md\|shadow]] is present, 
 > A crack of thunder shakes the castle, stirring the dust and cobwebs. You hear a voice: "Good evening."
 ^18e
 
-Any character who has a passive Wisdom (Perception) score lower than 19 is surprised as Strahd appears seemingly out of nowhere. The vampire prefers to attack a surprised character, choosing the one closest to him. Otherwise, see appendix D for the vampire's tactics.
+Any character who has a passive Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) score lower than 19 is surprised as Strahd appears seemingly out of nowhere. The vampire prefers to attack a surprised character, choosing the one closest to him. Otherwise, see appendix D for the vampire's tactics.
 
 #### Swarms of Bats
 
@@ -255,12 +255,12 @@ To determine what the character finds, roll on the [[5. Mechanics/Items/Trinket 
 > A curious object drifts into view, as though held aloft by an invisible force.
 ^195
 
-This unseen servant was created by Strahd and is permanent until destroyed (see the unseen servant spell in the "Player's Handbook"). Roll a `dice: d6|avg` (`d6`) to determine what the servant is carrying, or choose one of the options below.
+This unseen servant was created by Strahd and is permanent until destroyed (see the [[5. Mechanics/Spells/Unseen Servant.md\|unseen servant]] spell in the "Player's Handbook"). Roll a `dice: d6|avg` (`d6`) to determine what the servant is carrying, or choose one of the options below.
 
 | dice: d6 | Items |
 |----------|-------|
 | 1 | A tarnished silver platter with a lid (worth 25 gp). If a character comes within 5 feet of the servant, it lifts the lid, revealing a bunch of moldy scones. The first character to eat a scone gains inspiration. On later occurrences of this encounter, the platter holds a [[5. Mechanics/Bestiary/Undead/Crawling Claw.md\|crawling claw]] that attacks the nearest character. |
-| 2 | A silver goblet (worth 50 gp) filled to the brim with wine. A character who drinks the wine must make a DC 15 Constitution saving throw, taking 44 (`dice: 8d10\|avg` (`8d10`)) poison damage on a failed save, or half as much damage on a successful one. On future occurrences of this encounter, the wine acts as a potion of healing. |
+| 2 | A silver goblet (worth 50 gp) filled to the brim with wine. A character who drinks the wine must make a DC 15 Constitution saving throw, taking 44 (`dice: 8d10\|avg` (`8d10`)) poison damage on a failed save, or half as much damage on a successful one. On future occurrences of this encounter, the wine acts as a [[5. Mechanics/Items/Potion Of Healing.md\|potion of healing]]. |
 | 3 | A gold candelabrum (worth 150 gp) with three branches, each one holding an unlit candle. |
 | 4 | A purple silk handkerchief with white ruffled edges (worth 1 gp). On future occurrences of this encounter, the handkerchief is smeared with fresh blood. |
 | 5 | A crystal dinner bell (worth 25 gp). The unseen servant rings the bell if the characters come within 10 feet of it. The sound attracts `dice: 1d4\|avg` (`1d4`) hungry [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md\|vampire spawn]] (see below), which arrive in `dice: 1d4 + 1\|avg` (`1d4 + 1`) rounds. |
@@ -269,7 +269,7 @@ This unseen servant was created by Strahd and is permanent until destroyed (see 
 
 #### Vampire Spawn
 
-If any character has a passive Wisdom (Perception) score of 16 or higher, the party isn't surprised. In that case, read:
+If any character has a passive Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) score of 16 or higher, the party isn't surprised. In that case, read:
 
 > [!readaloud] 
 > 
@@ -329,7 +329,7 @@ The open main doors to the keep lead to area K7. The large, shattered window ove
 
 Each outer gate tower has an ironbound door with a built-in lock.
 
-Characters who enter a gate tower find themselves on a flagstone floor with a hollow tower stretching high above them. The mechanisms for raising and lowering the drawbridge and portcullis fill both gate towers. The latch mechanism in each tower is magically activated by a word that only Strahd knows. It can also be activated with a successful casting of dispel magic (DC 14). Neither the drawbridge nor the portcullis will move until both latches are activated.
+Characters who enter a gate tower find themselves on a flagstone floor with a hollow tower stretching high above them. The mechanisms for raising and lowering the drawbridge and portcullis fill both gate towers. The latch mechanism in each tower is magically activated by a word that only Strahd knows. It can also be activated with a successful casting of [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] (DC 14). Neither the drawbridge nor the portcullis will move until both latches are activated.
 
 ### K2. Center Court Gate
 
@@ -383,7 +383,7 @@ If a character peers over the balcony, read:
 > A flash of lightning illuminates the dismal village of Barovia, its rooftops visible above a smothering blanket of fog one thousand feet below.
 ^1ac
 
-If a character who has a passive Wisdom (Perception) score of 15 or higher peers over the wall, add:
+If a character who has a passive Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) score of 15 or higher peers over the wall, add:
 
 > [!readaloud] 
 > 
@@ -486,7 +486,7 @@ The figure is an illusion of Strahd. It welcomes the characters and invites them
 
 The moment the figure disappears, a fierce, bone-chilling wind rises up and roars through the hall, putting out all open flames. The characters hear the screech of ancient hinges and the solid thud of many heavy doors slamming shut, one after another, into the distance. They also hear the portcullis clang shut and the tired groan of the aged drawbridge pulling up. Finally, unless the doors to this room are being held open, they slam shut (but do not lock). If the characters open the doors, they see that all the torches in areas K7, K8, and K9 have gone out.
 
-The organ appears locked in place and immovable, but a character who makes a successful DC 20 Wisdom (Perception) check notices scratch marks on the floor that suggest that the organ can be slid outward. A character who tries pushing various keys and pedals discovers that one of the pedals, when depressed, causes the organ to slide outward about 2 feet, allowing access to a secret door in the back wall that swings open into area K11. Because this secret door is hidden behind the organ, it can't be found and opened until the organ is moved out of the way.
+The organ appears locked in place and immovable, but a character who makes a successful DC 20 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check notices scratch marks on the floor that suggest that the organ can be slid outward. A character who tries pushing various keys and pedals discovers that one of the pedals, when depressed, causes the organ to slide outward about 2 feet, allowing access to a secret door in the back wall that swings open into area K11. Because this secret door is hidden behind the organ, it can't be found and opened until the organ is moved out of the way.
 
 The food on the table is tasty, the wine delicious.
 
@@ -547,7 +547,7 @@ A sculpted stone railing cordons off the upstairs balcony, which is described in
 
 The statuette on the altar is an artifact called the [[5. Mechanics/Items/Icon Of Ravenloft (COS).md\|Icon of Ravenloft]] (see appendix C). Any evil creature that touches the statuette must make a DC 17 Constitution saving throw, taking `dice: 16d10|avg` (`16d10`) radiant damage on a failed save, or half as much damage on a successful one. The statuette is safe for all creatures to handle once it is no longer in contact with the altar.
 
-Gustav's corpse wears a handsome, fur-lined black cloak embroidered with golden thread (worth 250 gp) and a suit of chain mail, both nonmagical. Gustav's black mace is a mace of terror.
+Gustav's corpse wears a handsome, fur-lined black cloak embroidered with golden thread (worth 250 gp) and a suit of [[5. Mechanics/Items/Chain Mail.md\|chain mail]], both nonmagical. Gustav's black mace is a [[5. Mechanics/Items/Mace Of Terror.md\|mace of terror]].
 
 #### Fortunes of Ravenloft
 
@@ -582,7 +582,7 @@ The statues are harmless. The vast chamber to the east is the chapel (area K15).
 
 The staircase starts at area K84 and spirals upward around a central shaft (area K18a), climbing 300 feet to the top of the high tower (area K59).
 
-A recently constructed masonry wall blocks the staircase 10 feet below the landing west of area K17. A chink in this wall allows gas (or a vampire in gaseous form) to pass from one side of the wall to the other. A character who inspects the wall closely can spot the chink with a successful DC 10 Wisdom (Perception) check. The wall is too sturdy for characters to knock down, but they can create a hole wide enough to crawl through in 1 hour, or reduce the entire wall to a pile of masonry bricks and rubble in 2 hours.
+A recently constructed masonry wall blocks the staircase 10 feet below the landing west of area K17. A chink in this wall allows gas (or a vampire in gaseous form) to pass from one side of the wall to the other. A character who inspects the wall closely can spot the chink with a successful DC 10 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check. The wall is too sturdy for characters to knock down, but they can create a hole wide enough to crawl through in 1 hour, or reduce the entire wall to a pile of masonry bricks and rubble in 2 hours.
 
 Thirty feet below the masonry wall and 50 feet above the foot of the steps, a small crack has formed in the outer wall of the stairwell. The crack is 1/2 inch wide, 5 inches tall, and 12 inches deep; it leads to the castle's wine cellar (area K63). Characters can notice the crack automatically as they climb or descend the stairs. Widening the crack enough to squeeze through the wall requires major excavation and would take several days.
 
@@ -607,7 +607,7 @@ The bats in the catacombs (area K84) fly up the shaft at night, exiting Castle R
 
 Both staircases on the south wall climb to area K25. The massive stairs lead down to area K8. Anyone who crosses in front of the alcoves along the south wall activates the suits of armor.
 
-Both suits of armor are mechanical traps, each one activated by a pressure plate hidden in the floor in front of its alcove. A character who searches for traps in one of these locations notices both pressure plates with a successful DC 15 Wisdom (Perception) check.
+Both suits of armor are mechanical traps, each one activated by a pressure plate hidden in the floor in front of its alcove. A character who searches for traps in one of these locations notices both pressure plates with a successful DC 15 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check.
 
 When 40 or more pounds of weight are placed on a pressure plate, the suit of armor nearest to that plate springs forward, flailing its arms and wielding its mace. Any creature standing on a pressure plate when its trap triggers must succeed on a DC 14 Dexterity saving throw or take `dice: 2d6|avg` (`2d6`) bludgeoning damage from the flailing armor. After leaping out and attacking, the armor retracts. The pressure plate resets after 1 minute, after which its armor trap can be triggered again.
 
@@ -639,13 +639,13 @@ The tower, including the spiral staircase, is alive. When the characters set foo
 
 Have the characters and the Heart of Sorrow roll initiative. If the characters leave the tower and later return, they can reroll initiative, but the heart's initiative count doesn't change.
 
-The awakened tower shakes and pitches on the Heart of Sorrow's initiative count. Any creature on the stairs or hanging on a tower wall at the start of the heart's turn must succeed on a DC 10 Dexterity saving throw or fall to the base of the tower. Characters who are crawling on the staircase or who lie prone on the stairs succeed automatically.
+The awakened tower shakes and pitches on the Heart of Sorrow's initiative count. Any creature on the stairs or hanging on a tower wall at the start of the heart's turn must succeed on a DC 10 Dexterity saving throw or fall to the base of the tower. Characters who are crawling on the staircase or who lie [[/5. Mechanics/Rules/Conditions.md#prone\|prone]] on the stairs succeed automatically.
 
 The Heart of Sorrow is a 10-foot-diameter red crystal heart that floats near the top of the tower. Characters standing on the nearby stairs can make melee attacks against the heart, provided their weapons have a reach of at least 10 feet. The glass heart has AC 15 and 50 hit points. If the heart is reduced to 0 hit points, it shatters, and its crystal shards transform into blood, which rains down on the tower interior and staircase. The destruction of the Heart of Sorrow causes the tower to stop shuddering, and the interior of the tower becomes dark. Destroying the heart earns the characters 1,500 XP.
 
 Strahd and the Heart of Sorrow are connected, such that any damage Strahd takes is transferred to the heart. If the heart absorbs damage that drops it to 0 hit points, it is destroyed, and Strahd takes any leftover damage. The Heart of Sorrow regains all its hit points at dawn if it has at least 1 hit point remaining.
 
-The Heart of Sorrow is held aloft by the will of Strahd. Casting dispel magic on it has no effect.
+The Heart of Sorrow is held aloft by the will of Strahd. Casting [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] on it has no effect.
 
 ##### Animated Halberds
 
@@ -716,7 +716,7 @@ Refer to map 4 of the castle for areas K25 through K34.
 > At the far southern end of the hall, a large wooden throne stands atop a marble dais. The high-backed throne faces south, away from most of the room.
 ^1e3
 
-A secret door in the south wall leads to area K13. It is hidden by dust and cobwebs, and requires a successful DC 16 Wisdom (Perception) check to find.
+A secret door in the south wall leads to area K13. It is hidden by dust and cobwebs, and requires a successful DC 16 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check to find.
 
 Both staircases in the north wall lead down to area K19. The eastern double doors can be pulled open to reveal area K26 beyond. The single door in the east wall opens into area K30.
 
@@ -737,7 +737,7 @@ If the characters enter this hall through either set of double doors, read:
 
 The "floating" skeletons hang from pegs on the north and south walls. The skeletons, which were assembled by [[4. World Almanac/NPCs/Cyrus Belview.md\|Cyrus Belview]] (see area K62), are held together with wire and are harmless. Behind the skeleton on the north wall is a secret door that can be pushed open into area K33.
 
-If the characters enter this hall by way of the secret door that adjoins area K33, they see the skeleton hanging on the inside of the secret door as soon as they pull it open, and, with a light source or darkvision, can see the skeleton at the south end of the hall as well.
+If the characters enter this hall by way of the secret door that adjoins area K33, they see the skeleton hanging on the inside of the secret door as soon as they pull it open, and, with a light source or [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]], can see the skeleton at the south end of the hall as well.
 
 ### K27. King's Hall
 
@@ -748,7 +748,7 @@ If the characters enter this hall by way of the secret door that adjoins area K3
 
 The moaning is only the wind.
 
-Characters who examine the ceiling can, with a successful DC 20 Wisdom (Perception) check, spot pulleys and a rope that run the full length of the corridor along the ceiling, well hidden by the cobwebs. These items are explained in "Flight of the Vampire" below.
+Characters who examine the ceiling can, with a successful DC 20 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check, spot pulleys and a rope that run the full length of the corridor along the ceiling, well hidden by the cobwebs. These items are explained in "Flight of the Vampire" below.
 
 Halfway down the hall on the south side is a narrow secret door that can be pulled open to reveal area K31.
 
@@ -763,7 +763,7 @@ When one or more characters reach the midpoint of the hall from either direction
 > You hear a scraping sound of stone against stone, followed by the squeaking of a bat. In the direction of the noise, you see the fanged visage, outstretched claws, and flapping black cape of a vampire bearing down on you from above! A deep, throaty chuckle fills the hall.
 ^1ea
 
-The scraping noise is the sound of the hidden compartment opening, and the squeaking is the sound of the pulleys supporting the weight of the mannequin as it glides through the air. The chuckling is a harmless magical effect similar to that created by a prestidigitation cantrip.
+The scraping noise is the sound of the hidden compartment opening, and the squeaking is the sound of the pulleys supporting the weight of the mannequin as it glides through the air. The chuckling is a harmless magical effect similar to that created by a [[5. Mechanics/Spells/Prestidigitation.md\|prestidigitation]] cantrip.
 
 Have the players roll initiative, and run this as a combat encounter with the "vampire" acting on initiative count 5. On its turn, the mannequin flies over the characters, 10 feet above the floor, and doesn't stop until it reaches the east end of the hall. On its next turn, it reverses direction and flies back to its compartment. The trap resets after 1 minute.
 
@@ -820,9 +820,9 @@ The western door leads to area K25. The eastern door provides access to a stairc
 
 #### Treasure
 
-The room contains hundreds of worthless books and scrolls describing accounting procedures. The first character who spends at least 10 minutes searching the room and succeeds on a DC 15 Intelligence (Investigation) check finds a book with a bloodstained leather cover. The pages of this book have been hollowed out, creating a hole in which Lief has hidden the iron key that unlocks the four wooden chests in this room.
+The room contains hundreds of worthless books and scrolls describing accounting procedures. The first character who spends at least 10 minutes searching the room and succeeds on a DC 15 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check finds a book with a bloodstained leather cover. The pages of this book have been hollowed out, creating a hole in which Lief has hidden the iron key that unlocks the four wooden chests in this room.
 
-Two of the locked chests contain 10,000 cp each. A third chest contains 1,000 gp. The fourth chest holds 500 pp, hidden under which is a manual of bodily health.
+Two of the locked chests contain 10,000 cp each. A third chest contains 1,000 gp. The fourth chest holds 500 pp, hidden under which is a [[5. Mechanics/Items/Manual Of Bodily Health.md\|manual of bodily health]].
 
 ### K31. Trapworks
 
@@ -941,7 +941,7 @@ The steel door is engraved with images of a human king in armor astride a horse,
 > Dust assaults your lungs. A sweet yet pungent smell of decay fills this room, in the center of which stands a long oak table. A blanket of dust covers the tabletop and its fine china and silverware. In the center of the table, a large, tiered cake leans heavily to one side. The once white frosting has turned green with age. Cobwebs hang like dusty lace down every side of the cake. A single doll figure of a well-dressed woman adorns the crest of the cake. Suspended above is a web-shrouded chandelier of forged iron. An arched window in the south wall is draped with heavy curtains. Resting in a wooden stand by the window is a dusty lute, and standing quietly in the southwest corner is a tall harp shrouded in cobwebs.
 ^204
 
-The wedding cake is over four centuries old, kept in its current rotten state by the will of Strahd. The toy figure of the groom from the top of the cake was cast on the floor long ago. A character who searches the dusty floor finds the figurine with a successful DC 10 Wisdom (Perception) check.
+The wedding cake is over four centuries old, kept in its current rotten state by the will of Strahd. The toy figure of the groom from the top of the cake was cast on the floor long ago. A character who searches the dusty floor finds the figurine with a successful DC 10 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check.
 
 If the characters take the groom figurine out of the room, read the following if they return to the room at a later time:
 
@@ -959,13 +959,13 @@ The room has wooden doors in the north and west walls, and an ornate steel door 
 
 The harp stands 6½ feet tall, weighs close to 300 pounds, and is fashioned of dark, stained wood carved with images of harts and roses. Its taut strings are made of gut.
 
-A character who plays the harp and succeeds on a DC 15 Charisma (Performance) check does well enough to summon the ghost of Pidlwick, a short little man dressed as a fool, with a tiny jingling bell at the end of his pointy dunce cap. He asks, "Why have you summoned me from beyond the grave?" Regardless of the answer, he commends the character for playing well and says, "In my crypt below the castle, thou shalt find a treasure worthy of one so talented as thee! May it help thee set this troubled place to rest." If the characters think to ask him who he is, the fool replies, "Pidlwick." If asked how he died, he replies humorlessly, "I fell down the stairs." If [[4. World Almanac/NPCs/Pidlwick Ii.md\|Pidlwick II]] (see area K59) is with the party, the ghost points at the clockwork effigy and says, "He pushed me down the stairs."
+A character who plays the harp and succeeds on a DC 15 Charisma ([[/5. Mechanics/Rules/Skills.md#Performance\|Performance]]) check does well enough to summon the ghost of Pidlwick, a short little man dressed as a fool, with a tiny jingling bell at the end of his pointy dunce cap. He asks, "Why have you summoned me from beyond the grave?" Regardless of the answer, he commends the character for playing well and says, "In my crypt below the castle, thou shalt find a treasure worthy of one so talented as thee! May it help thee set this troubled place to rest." If the characters think to ask him who he is, the fool replies, "Pidlwick." If asked how he died, he replies humorlessly, "I fell down the stairs." If [[4. World Almanac/NPCs/Pidlwick Ii.md\|Pidlwick II]] (see area K59) is with the party, the ghost points at the clockwork effigy and says, "He pushed me down the stairs."
 
 With nothing more to add, the ghost of Pidlwick fades away and doesn't appear again. If the characters attack the ghost, it attacks them in turn.
 
 #### Treasure
 
-The lute, though old and covered in dust, has survived the passage of time. It is a magic instrument of the bards called a Doss lute.
+The lute, though old and covered in dust, has survived the passage of time. It is a magic [[5. Mechanics/Items/Instrument Of The Bards.md\|instrument of the bards]] called a [[5. Mechanics/Items/Instrument Of The Bards Doss Lute.md\|Doss lute]].
 
 ### K37. Study
 
@@ -1025,7 +1025,7 @@ If your card reading indicates an encounter with [[4. World Almanac/NPCs/Strahd 
 > Attached to the east wall are two torch sconces. The southernmost one holds a torch with an intricate metal base. The other is empty. A skeleton in broken plate armor lies against the wall. The skeleton's right hand is on its throat, and its left hand holds the matching torch from the empty sconce.
 ^20d
 
-The coins scattered around the trapped chest total 50 gp, 100 sp, and 2,000 cp. The chest weighs 40 pounds and is unlocked. When opened, it releases a cloud of sleeping gas that fills the room. Any creature in the room must succeed on a DC 18 Constitution saving throw or be paralyzed for 4 hours. If all the characters succumb to the gas, they are found by the witches who lair in area K56 and dragged to area K50, then left there unharmed. If even one character resists the effect of the gas, the witches do not appear.
+The coins scattered around the trapped chest total 50 gp, 100 sp, and 2,000 cp. The chest weighs 40 pounds and is unlocked. When opened, it releases a cloud of sleeping gas that fills the room. Any creature in the room must succeed on a DC 18 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]] for 4 hours. If all the characters succumb to the gas, they are found by the witches who lair in area K56 and dragged to area K50, then left there unharmed. If even one character resists the effect of the gas, the witches do not appear.
 
 The armored skeleton on the floor is all that remains of an adventurer. His corpse has nothing of value.
 
@@ -1033,9 +1033,9 @@ The armored skeleton on the floor is all that remains of an adventurer. His corp
 
 This room is concealed behind two secret doors.
 
-The secret door to the west is set into the back wall of the fireplace (area K37) and can be pulled open from within this room by lifting a simple locking mechanism (which is connected to the poker in the study). It's possible that a character might open this secret door inadvertently by lifting the poker in area K37. Characters can otherwise locate the secret door normally, but a successful check doesn't reveal the mechanism to open it. That can be found only through trial and error, or the characters can bypass the mechanism with a knock spell or similar magic.
+The secret door to the west is set into the back wall of the fireplace (area K37) and can be pulled open from within this room by lifting a simple locking mechanism (which is connected to the poker in the study). It's possible that a character might open this secret door inadvertently by lifting the poker in area K37. Characters can otherwise locate the secret door normally, but a successful check doesn't reveal the mechanism to open it. That can be found only through trial and error, or the characters can bypass the mechanism with a [[5. Mechanics/Spells/Knock.md\|knock]] spell or similar magic.
 
-The secret door at the northern end of the east wall is sealed shut. If the torch is taken from the skeleton's hand and placed back in the empty sconce, the secret door swings inward, revealing area K39 beyond. Removing the torch from its sconce at any time causes the secret door to close and lock shut, becoming sealed as before. Characters can locate this secret door normally, but a successful check doesn't reveal the mechanism to open it. That can be found only through trial and error, or the characters can bypass the mechanism with a knock spell or similar magic.
+The secret door at the northern end of the east wall is sealed shut. If the torch is taken from the skeleton's hand and placed back in the empty sconce, the secret door swings inward, revealing area K39 beyond. Removing the torch from its sconce at any time causes the secret door to close and lock shut, becoming sealed as before. Characters can locate this secret door normally, but a successful check doesn't reveal the mechanism to open it. That can be found only through trial and error, or the characters can bypass the mechanism with a [[5. Mechanics/Spells/Knock.md\|knock]] spell or similar magic.
 
 ### K39. Hall of Webs
 
@@ -1046,15 +1046,15 @@ The secret door at the northern end of the east wall is sealed shut. If the torc
 
 The hall has an arched ceiling 20 feet overhead, hidden behind thick webbing. At the eastern end are a pair of arched bronze doors of ornate design. These doors can be pulled open to reveal area K40 beyond.
 
-Most of the hall is full of giant spider webs (see ""Dungeon Hazards"" in chapter 5, "Adventure Environments," of the "Dungeon Master's Guide"). Characters who stray from the unobstructed path through the webs risk becoming stuck.
+Most of the hall is full of giant spider [[5. Mechanics/Traps Hazards/Webs.md\|webs]] (see ""Dungeon Hazards"" in chapter 5, "Adventure Environments," of the "Dungeon Master's Guide"). Characters who stray from the unobstructed path through the webs risk becoming stuck.
 
 #### Secret Doors
 
 At the west end of the hall are two secret doors.
 
-The secret door on the west wall can't be opened from this side, except by magic (such as a knock spell). See area K38 for more information on this secret door. If the characters pass through this door coming from area K38, it closes and locks behind them if they don't take measures to prop it open.
+The secret door on the west wall can't be opened from this side, except by magic (such as a [[5. Mechanics/Spells/Knock.md\|knock]] spell). See area K38 for more information on this secret door. If the characters pass through this door coming from area K38, it closes and locks behind them if they don't take measures to prop it open.
 
-A narrow secret door at the western end of the south wall is hidden behind a mass of webs. If these webs are cleared away, characters can search for the secret door, finding it with a successful DC 15 Wisdom (Perception) check. The door can be pulled open to reveal area K31b.
+A narrow secret door at the western end of the south wall is hidden behind a mass of webs. If these webs are cleared away, characters can search for the secret door, finding it with a successful DC 15 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check. The door can be pulled open to reveal area K31b.
 
 ### K40. Belfry
 
@@ -1065,7 +1065,7 @@ A narrow secret door at the western end of the south wall is hidden behind a mas
 
 The rope is attached to a great bell mounted in a wooden framework 50 feet overhead. Pulling the rope or attempting to climb it brings forth a loud, long "GONG." That sound causes five [[5. Mechanics/Bestiary/Beast/Giant Spider.md\|giant spiders]] to drop from their webs and attack. The spiders attack only if they are attacked or if the bell is sounded.
 
-Most of the belfry is filled with giant spider webs (see ""Dungeon Hazards"" in chapter 5, "Adventure Environments," of the "Dungeon Master's Guide"). Characters who blunder into them risk becoming stuck.
+Most of the belfry is filled with giant spider [[5. Mechanics/Traps Hazards/Webs.md\|webs]] (see ""Dungeon Hazards"" in chapter 5, "Adventure Environments," of the "Dungeon Master's Guide"). Characters who blunder into them risk becoming stuck.
 
 At the west end of the north wall, behind thick webs, is a secret door that opens into area K41.
 
@@ -1078,15 +1078,15 @@ At the west end of the north wall, behind thick webs, is a secret door that open
 
 The domed ceiling is coated with dry pitch. The "stars" are shards of glowing crystal embedded in the pitch, each one as bright as a candle flame. Thanks to the starry "night sky," the vault is dimly lit.
 
-The plundered riches of Strahd's secret hoard lie within this adamantine tower, which is actually a Daern's instant fortress (see chapter 7, "Treasure," of the "Dungeon Master's Guide"). Only Strahd knows the command word to alter its shape and size, which can't be done until every bit of treasure inside it is removed. Only Strahd can open the two means of entry: a sealed adamantine door set into the base of the tower on the north side, and an adamantine trapdoor on the roof.
+The plundered riches of Strahd's secret hoard lie within this adamantine tower, which is actually a [[5. Mechanics/Items/Daerns Instant Fortress.md\|Daern's instant fortress]] (see chapter 7, "Treasure," of the "Dungeon Master's Guide"). Only Strahd knows the command word to alter its shape and size, which can't be done until every bit of treasure inside it is removed. Only Strahd can open the two means of entry: a sealed adamantine door set into the base of the tower on the north side, and an adamantine trapdoor on the roof.
 
 The arrow slits of the tower are 4 inches wide and 2 feet tall, and the walls of the fortress are 3 inches thick. Characters who are able to reduce their size or assume gaseous form can enter the tower through these slits.
 
 #### Treasure
 
-The ground floor of the Daern's instant fortress contains 50,000 cp, 10,000 sp, 10,000 gp, 1,000 pp, 15 assorted gems (100 gp each), and a +2 shield emblazoned with a stylized silver dragon that is the emblem of the Order of the Silver Dragon (see chapter 7). The shield whispers warnings to its bearer, granting a +2 bonus to initiative if the bearer isn't incapacitated.
+The ground floor of the [[5. Mechanics/Items/Daerns Instant Fortress.md\|Daern's instant fortress]] contains 50,000 cp, 10,000 sp, 10,000 gp, 1,000 pp, 15 assorted gems (100 gp each), and a [+2 shield](compendium/items/2-shield.md) emblazoned with a stylized silver dragon that is the emblem of the Order of the Silver Dragon (see chapter 7). The shield whispers warnings to its bearer, granting a +2 bonus to initiative if the bearer isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]].
 
-The upper floor of the tower contains 10 pieces of jewelry (250 gp each) in a red velvet sack, an alchemy jug, a helm of brilliance, a rod of the pact keeper, +1, and an unlocked wooden coffer with four compartments, each one containing a potion of greater healing.
+The upper floor of the tower contains 10 pieces of jewelry (250 gp each) in a red velvet sack, an [[5. Mechanics/Items/Alchemy Jug.md\|alchemy jug]], a [[5. Mechanics/Items/Helm Of Brilliance.md\|helm of brilliance]], a [rod of the pact keeper, +1](compendium/items/1-rod-of-the-pact-keeper.md), and an unlocked wooden coffer with four compartments, each one containing a [[5. Mechanics/Items/Potion Of Greater Healing.md\|potion of greater healing]].
 
 #### Fortunes of Ravenloft
 
@@ -1109,7 +1109,7 @@ Arched double doors lead from this room to the south and east.
 
 The window is divided into four tall panes of glass, each enclosed by a lead framework. The two outermost sections have small iron hinges built into them so that they can be opened, as well as iron latches to lock them in place when they're closed. The window looks out onto the parapet (area K46).
 
-The figure on the bed is [[4. World Almanac/NPCs/Gertruda.md\|Gertruda]] (NG female human [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoner]]), the daughter of [[4. World Almanac/NPCs/Mad Mary.md\|Mad Mary]] (see chapter 3, area E3). [[4. World Almanac/NPCs/Gertruda.md\|Gertruda]] is oblivious to any danger to herself—especially from Strahd, who has charmed her. Sheltered by her mother, she was never allowed to leave home as a child. She finally slipped away and made her way to the castle, drawn by its majesty.
+The figure on the bed is [[4. World Almanac/NPCs/Gertruda.md\|Gertruda]] (NG female human [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoner]]), the daughter of [[4. World Almanac/NPCs/Mad Mary.md\|Mad Mary]] (see chapter 3, area E3). [[4. World Almanac/NPCs/Gertruda.md\|Gertruda]] is oblivious to any danger to herself—especially from Strahd, who has [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] her. Sheltered by her mother, she was never allowed to leave home as a child. She finally slipped away and made her way to the castle, drawn by its majesty.
 
 [[4. World Almanac/NPCs/Gertruda.md\|Gertruda]] is innocent, and years spent as a shut-in have twisted her sense of reality. Consequently, she maintains a fairy-tale view of life. When faced with a decision, she almost always makes the most simplistic choice. She is naive to the point of being a danger to herself and others. Fortunately for her, Strahd has not yet bitten her, though he intends to. (If he can do so while the characters look on helplessly, so much the better.)
 
@@ -1168,7 +1168,7 @@ The stairs at the west end of the hall descend 40 feet to area K33. An open arch
 
 The walkway runs around the front of the upper portion of the keep. Battlemented walkways extend from the keep north, south, and east to the outer walls of the castle as well. (See map 2 for the length and location of the castle walls.) All the windows leading from this area into the keep are shut and locked, but can easily be broken.
 
-If the characters loiter on the parapets or atop the castle walls for more than 5 minutes, they encounter [[4. World Almanac/NPCs/Strahds Animated Armor.md\|Strahd's animated armor]] (see appendix D) making the rounds. It patrols the parapets and the outer walls of Ravenloft day and night. Under a darkened sky, characters without darkvision are more likely to hear the clatter of the armor approaching before they can see it.
+If the characters loiter on the parapets or atop the castle walls for more than 5 minutes, they encounter [[4. World Almanac/NPCs/Strahds Animated Armor.md\|Strahd's animated armor]] (see appendix D) making the rounds. It patrols the parapets and the outer walls of Ravenloft day and night. Under a darkened sky, characters without [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]] are more likely to hear the clatter of the armor approaching before they can see it.
 
 The armor can't be salvaged if it is reduced to 0 hit points.
 
@@ -1236,7 +1236,7 @@ On the third finger of his left hand, [[4. World Almanac/NPCs/Escher.md\|Escher]
 > A large bed sits in the center of this room, its four corner posts supporting a black canopy trimmed with gold tassels. Several comfortable divans are placed about the room. There is a banded door in the west wall and a smaller unbanded door in the east wall.
 ^22d
 
-There is no danger in this area during the day. But if the characters try to take a short rest here during the night, the rest is interrupted by the arrival of `dice: 1d4|avg` (`1d4`) [[5. Mechanics/Bestiary/Humanoid/Barovian Witch (COS).md\|Barovian witches]] from area K56. They try to subdue the party with sleep spells. A witch retreats to area K56 if wounded.
+There is no danger in this area during the day. But if the characters try to take a short rest here during the night, the rest is interrupted by the arrival of `dice: 1d4|avg` (`1d4`) [[5. Mechanics/Bestiary/Humanoid/Barovian Witch (COS).md\|Barovian witches]] from area K56. They try to subdue the party with [[5. Mechanics/Spells/Sleep.md\|sleep]] spells. A witch retreats to area K56 if wounded.
 
 ### K51. Closet
 
@@ -1247,7 +1247,7 @@ There is no danger in this area during the day. But if the characters try to tak
 
 The cloak is ordinary. The witches in area K56 placed it here to help them remember which hook opens the secret trapdoor in the ceiling.
 
-The trapdoor can be found after a search of the room and a successful DC 13 Wisdom (Perception) check. Locating the trapdoor doesn't enable someone to discover its opening mechanism. The door has a hidden lock and can be opened by pulling down on the hook from which the black cloak hangs. Once it has been found, the trapdoor can be opened by pulling on the hook, or it can be unlocked by someone using thieves' tools, a knock spell, or similar magic. It swings down when unlocked.
+The trapdoor can be found after a search of the room and a successful DC 13 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check. Locating the trapdoor doesn't enable someone to discover its opening mechanism. The door has a hidden lock and can be opened by pulling down on the hook from which the black cloak hangs. Once it has been found, the trapdoor can be opened by pulling on the hook, or it can be unlocked by someone using thieves' tools, a [[5. Mechanics/Spells/Knock.md\|knock]] spell, or similar magic. It swings down when unlocked.
 
 ### K52. Smokestack
 
@@ -1272,7 +1272,7 @@ If a character tries to traverse the rooftop, read:
 > Some of the ancient roof tiles slide easily underfoot, easily dropping into the fog-shrouded darkness. Each falling tile resounds with a hollow click as it hits the flagstones of the parapet or courtyard below.
 ^234
 
-A character must succeed on a DC 15 Dexterity (Acrobatics) check to traverse the roof. The check succeeds automatically if the character crawls. If the check fails by 5 or more, the character slides off the edge of the roof ans falls 40 feet to the castle parapet (area K46).
+A character must succeed on a DC 15 Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]]) check to traverse the roof. The check succeeds automatically if the character crawls. If the check fails by 5 or more, the character slides off the edge of the roof ans falls 40 feet to the castle parapet (area K46).
 
 ### K54. Familiar Room
 
@@ -1296,7 +1296,7 @@ The leaded windows are fitted with iron hinges and can be opened. They are curre
 
 Characters who search the room spot numerous boot prints in the dust, as well as a short trail in the dust on the floor, leading from the northeast corner of the room to the easternmost door. It looks like something heavy was dragged across the floor toward the doorway.
 
-There is a secret trapdoor in the northeast corner of the floor. Because of the trail through the dust, the trapdoor can be found without an ability check. Tapping or knocking on the trapdoor three times releases a hidden latch, causing the trapdoor to swing down. Area K51 lies below. (There's no ability check that will let the characters figure out the trick to opening the door. They can get that information from the witches, or perhaps by using a divination spell or similar magic.)
+There is a secret trapdoor in the northeast corner of the floor. Because of the trail through the dust, the trapdoor can be found without an ability check. Tapping or knocking on the trapdoor three times releases a hidden latch, causing the trapdoor to swing down. Area K51 lies below. (There's no ability check that will let the characters figure out the trick to opening the door. They can get that information from the witches, or perhaps by using a [[5. Mechanics/Spells/Divination.md\|divination]] spell or similar magic.)
 
 ### K56. Cauldron
 
@@ -1320,7 +1320,7 @@ If the witches know the characters are coming, read the following text instead:
 > Green-glowing wisps of steam bubble up from a fat, black cauldron in the center of this dark, oppressive room. Surrounding the cauldron are seven tall wooden stools.
 ^23b
 
-The [[5. Mechanics/Bestiary/Humanoid/Barovian Witch (COS).md\|Barovian witches]] (see appendix D) that dwell in this area have sworn themselves to Strahd's service in exchange for arcane power. Seven witches are present when the characters arrive, minus any that might have been encountered and defeated in area K50. If the witches are expecting the characters, they cast invisibility spells and stand quietly in the corners of the room, hoping that the cauldron draws their prey inside. Although they prefer to attack at range with their spells, they can grow magic claws using alter self.
+The [[5. Mechanics/Bestiary/Humanoid/Barovian Witch (COS).md\|Barovian witches]] (see appendix D) that dwell in this area have sworn themselves to Strahd's service in exchange for arcane power. Seven witches are present when the characters arrive, minus any that might have been encountered and defeated in area K50. If the witches are expecting the characters, they cast [[5. Mechanics/Spells/Invisibility.md\|invisibility]] spells and stand quietly in the corners of the room, hoping that the cauldron draws their prey inside. Although they prefer to attack at range with their spells, they can grow magic claws using [[5. Mechanics/Spells/Alter Self.md\|alter self]].
 
 When the cauldron is touched by someone who also speaks the proper command word ("Gorah!"), it magically heats any liquid placed inside it and remains hot for 3 hours, or until the command word is spoken again by someone within 5 feet of the cauldron. Once the cauldron's property has been used, the cauldron can't be activated again until the next dawn.
 
@@ -1328,15 +1328,15 @@ Captured witches will trade information in exchange for their lives and freedom,
 
 #### Treasure
 
-Each witch carries a potion of healing that she made herself. There is a 30% chance chance that a potion has "gone bad," in which case it's actually a potion of poison.
+Each witch carries a [[5. Mechanics/Items/Potion Of Healing.md\|potion of healing]] that she made herself. There is a 30% chance chance that a potion has "gone bad," in which case it's actually a [[5. Mechanics/Items/Potion Of Poison.md\|potion of poison]].
 
 Not visible from the entrance is a small table behind the cauldron on which sits an opened spellbook, seemingly on the verge of falling apart. The book is evil. Any non-evil creature that touches it or starts its turn with the book in its possession takes `dice: 1d10|avg` (`1d10`) psychic damage. The book contains the following spells:
 
 > [!note] 
 > 
-> 1st level: burning hands, charm person, detect magic, find familiar, fog cloud, mage armor, protection from evil and good, ray of sickness, sleep, Tasha's hideous laughter, unseen servant, witch bolt
+> 1st level: [[5. Mechanics/Spells/Burning Hands.md\|burning hands]], [[5. Mechanics/Spells/Charm Person.md\|charm person]], [[5. Mechanics/Spells/Detect Magic.md\|detect magic]], [[5. Mechanics/Spells/Find Familiar.md\|find familiar]], [[5. Mechanics/Spells/Fog Cloud.md\|fog cloud]], [[5. Mechanics/Spells/Mage Armor.md\|mage armor]], [[5. Mechanics/Spells/Protection From Evil And Good.md\|protection from evil and good]], [[5. Mechanics/Spells/Ray Of Sickness.md\|ray of sickness]], [[5. Mechanics/Spells/Sleep.md\|sleep]], [[5. Mechanics/Spells/Tashas Hideous Laughter.md\|Tasha's hideous laughter]], [[5. Mechanics/Spells/Unseen Servant.md\|unseen servant]], [[5. Mechanics/Spells/Witch Bolt.md\|witch bolt]]
 > 
-> 2nd level: alter self, arcane lock, cloud of daggers, darkness, enlarge/reduce, invisibility, knock, misty step
+> 2nd level: [[5. Mechanics/Spells/Alter Self.md\|alter self]], [[5. Mechanics/Spells/Arcane Lock.md\|arcane lock]], [[5. Mechanics/Spells/Cloud Of Daggers.md\|cloud of daggers]], [[5. Mechanics/Spells/Darkness.md\|darkness]], [enlarge/reduce](compendium/spells/enlarge-reduce.md), [[5. Mechanics/Spells/Invisibility.md\|invisibility]], [[5. Mechanics/Spells/Knock.md\|knock]], [[5. Mechanics/Spells/Misty Step.md\|misty step]]
 ^23d
 
 ### K57. Tower Roof
@@ -1370,7 +1370,7 @@ The hole in the floor forms the mouth of an enclosed shaft (area K18a) that desc
 
 #### Pidlwick II
 
-Hiding in the rafters is [[4. World Almanac/NPCs/Pidlwick Ii.md\|Pidlwick II]] (see appendix D). A character spots [[4. World Almanac/NPCs/Pidlwick Ii.md\|Pidlwick II]] with a passive Wisdom (Perception) score that meets or exceeds its Dexterity (Stealth) check. If [[4. World Almanac/NPCs/Pidlwick Ii.md\|Pidlwick II]] is spotted, read:
+Hiding in the rafters is [[4. World Almanac/NPCs/Pidlwick Ii.md\|Pidlwick II]] (see appendix D). A character spots [[4. World Almanac/NPCs/Pidlwick Ii.md\|Pidlwick II]] with a passive Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) score that meets or exceeds its Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) check. If [[4. World Almanac/NPCs/Pidlwick Ii.md\|Pidlwick II]] is spotted, read:
 
 > [!readaloud] 
 > 
@@ -1457,17 +1457,17 @@ See area K31 and the accompanying Elevator Trap diagram before running this enco
 
 This hallway contains an elevator trap, triggered when at least 400 pounds of pressure is applied to the 10-foot-square section of floor in the center of the hall (marked T on the map), or when the lever in area K31 is raised. A party of adventurers moving in close formation down the hall is certainly heavy enough to trigger the trap.
 
-A character who searches for traps while crossing the hall and succeeds on a DC 15 Wisdom (Perception) check detects seams in the floor, walls, and ceiling that suggest that the middle section isn't attached to the rest of the hall. A character who makes a successful DC 15 Intelligence (Investigation) check discerns that the trap can't be disarmed from this location.
+A character who searches for traps while crossing the hall and succeeds on a DC 15 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check detects seams in the floor, walls, and ceiling that suggest that the middle section isn't attached to the rest of the hall. A character who makes a successful DC 15 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check discerns that the trap can't be disarmed from this location.
 
-The middle 10-foot section of the hall is a cleverly hidden elevator compartment, open to the north and south so that it appears to be part of the passageway. When the trap is sprung, two steel portcullises drop from the ceiling at lightning speed to seal off the compartment, trapping within those creatures that triggered the trap. An instant later, the closed-off elevator is propelled up the western half of a 20-foot-wide, 170-foot-tall shaft (area K31a) to the sounds of turning gears and rattling chains. Magic sleep gas fills the compartment as it rises, and a creature trapped inside must succeed on a DC 15 Constitution saving throw or fall unconscious as though affected by a sleep spell.
+The middle 10-foot section of the hall is a cleverly hidden elevator compartment, open to the north and south so that it appears to be part of the passageway. When the trap is sprung, two steel portcullises drop from the ceiling at lightning speed to seal off the compartment, trapping within those creatures that triggered the trap. An instant later, the closed-off elevator is propelled up the western half of a 20-foot-wide, 170-foot-tall shaft (area K31a) to the sounds of turning gears and rattling chains. Magic sleep gas fills the compartment as it rises, and a creature trapped inside must succeed on a DC 15 Constitution saving throw or fall [[/5. Mechanics/Rules/Conditions.md#unconscious\|unconscious]] as though affected by a [[5. Mechanics/Spells/Sleep.md\|sleep]] spell.
 
 At the same time the elevator rises, a 10-foot cube of granite suspended from heavy chains descends in the eastern half of the shaft, acting as a counterweight. The massive block lands gently at the bottom of the shaft, filling the previously open 10-foot-by-10-foot space adjacent to where the elevator stood. The block weighs thousands of tons and pulverizes anything in the space where it comes to rest.
 
 Once the elevator starts rising, its portcullises are locked in place and can't be lifted. The walls of the shaft are nearly flush with the elevator compartment; only a few inches of space exist between the portcullises and the shaft walls.
 
-All creatures trapped inside the elevator (including unconscious ones) must roll initiative. The compartment takes 1 round to reach the top of the shaft, stopping just beneath area K47. Each creature inside has one turn to act before the compartment comes to a dead stop. Their initiative rolls determine the order in which the occupants act. Conscious party members can take whatever actions they like. They might search for a way out, wake sleeping party members, cast spells, or take other actions. Unconscious ones can do nothing.
+All creatures trapped inside the elevator (including [[/5. Mechanics/Rules/Conditions.md#unconscious\|unconscious]] ones) must roll initiative. The compartment takes 1 round to reach the top of the shaft, stopping just beneath area K47. Each creature inside has one turn to act before the compartment comes to a dead stop. Their initiative rolls determine the order in which the occupants act. Conscious party members can take whatever actions they like. They might search for a way out, wake sleeping party members, cast spells, or take other actions. [[/5. Mechanics/Rules/Conditions.md#Unconscious\|Unconscious]] ones can do nothing.
 
-A character who uses an action to search the ceiling of the elevator finds a secret trapdoor with a successful DC 10 Wisdom (Perception) check. The trapdoor opens downward.
+A character who uses an action to search the ceiling of the elevator finds a secret trapdoor with a successful DC 10 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check. The trapdoor opens downward.
 
 Any creature on top of the elevator when it reaches the top of the shaft must make a successful DC 15 Dexterity saving throw to avoid being crushed against the ceiling of the shaft. The character takes `dice: 8d10|avg` (`8d10`) bludgeoning damage on a failed save, or half as much damage on a successful one. When the elevator comes to a stop, its portcullises retract.
 
@@ -1492,9 +1492,9 @@ The light in the hall comes from a lantern on the floor behind Cyrus. If the cha
 
 Poor old Cyrus is obviously crazy. He has served the master for uncounted years and is devoted to him. Cyrus tries to get the characters to retire to their "room in the tower" (area K49). If the characters aren't sure what room he is talking about, he offers to lead them there.
 
-If the characters follow Cyrus, he tells them to stay close to him as he leads them through the south door to area K61 and deliberately sets off the elevator trap there. Cyrus tries his best not to succumb to the sleeping gas as the elevator compartment climbs the shaft (area K31), and he has advantage on the saving throw. Assuming he's still conscious when the elevator compartment reaches the top of the shaft, Cyrus opens the trapdoor to area K47 and either leads the characters to area K49 or, if they're unconscious, drags them there. After assuring characters who are conscious that "the master will be along shortly," Cyrus then makes his way back downstairs to the kitchen (area K65).
+If the characters follow Cyrus, he tells them to stay close to him as he leads them through the south door to area K61 and deliberately sets off the elevator trap there. Cyrus tries his best not to succumb to the sleeping gas as the elevator compartment climbs the shaft (area K31), and he has advantage on the saving throw. Assuming he's still conscious when the elevator compartment reaches the top of the shaft, Cyrus opens the trapdoor to area K47 and either leads the characters to area K49 or, if they're [[/5. Mechanics/Rules/Conditions.md#unconscious\|unconscious]], drags them there. After assuring characters who are conscious that "the master will be along shortly," Cyrus then makes his way back downstairs to the kitchen (area K65).
 
-If the characters don't go to their room, Cyrus shakes his head and returns to the work of preparing his dinner in area K65. If the characters take his key, he screams, "The master will not be pleased!" and begins to moan and slap his head, obviously upset. A successful DC 10 Charisma (Intimidation) check is enough to make him divulge the key's purpose, the location of the iron chest, and the chest's contents.
+If the characters don't go to their room, Cyrus shakes his head and returns to the work of preparing his dinner in area K65. If the characters take his key, he screams, "The master will not be pleased!" and begins to moan and slap his head, obviously upset. A successful DC 10 Charisma ([[/5. Mechanics/Rules/Skills.md#Intimidation\|Intimidation]]) check is enough to make him divulge the key's purpose, the location of the iron chest, and the chest's contents.
 
 When he isn't being threatened, Cyrus giggles to himself from time to time for no clear reason. He also likes to tell poor jokes at the most inopportune moments.
 
@@ -1525,7 +1525,7 @@ All three of these casks are rotted and empty. The wine's name is Champagne du l
 
 ##### Eastern Casks
 
-Five of these casks are rotted and empty. The wine name burned on each is Red Dragon Crush. Lining the interior of the sixth one is a patch of yellow mold (see ""Dungeon Hazards"" in chapter 5, "Adventure Environments," of the "Dungeon Master's Guide"). A character who inspects the cask closely and succeeds on a DC 13 Wisdom (Perception) check sees yellow mold in the cracks between the planks of the cask. If this cask is smashed open, the yellow mold releases a cloud of spores.
+Five of these casks are rotted and empty. The wine name burned on each is Red Dragon Crush. Lining the interior of the sixth one is a patch of [[5. Mechanics/Traps Hazards/Yellow Mold.md\|yellow mold]] (see ""Dungeon Hazards"" in chapter 5, "Adventure Environments," of the "Dungeon Master's Guide"). A character who inspects the cask closely and succeeds on a DC 13 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check sees yellow mold in the cracks between the planks of the cask. If this cask is smashed open, the yellow mold releases a cloud of spores.
 
 ##### Southern Casks
 
@@ -1566,7 +1566,7 @@ If Cyrus is with the party, the characters notice that he is caressing their equ
 
 ### K67. Hall of Bones
 
-Once a mess hall for the castle guards, this room is now desecrated ground (see ""Wilderness Hazards"" in chapter 5, "Adventure Environments," of the "Dungeon Master's Guide").
+Once a mess hall for the castle guards, this room is now [[5. Mechanics/Traps Hazards/Desecrated Ground.md\|desecrated ground]] (see ""Wilderness Hazards"" in chapter 5, "Adventure Environments," of the "Dungeon Master's Guide").
 
 > [!readaloud] 
 > 
@@ -1627,7 +1627,7 @@ The yellow lichen is harmless. Beyond the archway to the west is area K70. The s
 
 #### Treasure
 
-Three of the alcoves contain nothing of value. A loose flagstone in the southeast alcove covers a hidden cubbyhole in the floor, in which is hidden a moldy sack containing 150 ep. The coins have the profiled visage of [[4. World Almanac/NPCs/Strahd Von Zarovich.md\|Strahd von Zarovich]] stamped on them. A character who searches the alcove can find the loose flagstone with a successful DC 10 Wisdom (Perception) check.
+Three of the alcoves contain nothing of value. A loose flagstone in the southeast alcove covers a hidden cubbyhole in the floor, in which is hidden a moldy sack containing 150 ep. The coins have the profiled visage of [[4. World Almanac/NPCs/Strahd Von Zarovich.md\|Strahd von Zarovich]] stamped on them. A character who searches the alcove can find the loose flagstone with a successful DC 10 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check.
 
 ### K72. Chamberlain's Office
 
@@ -1638,7 +1638,7 @@ Three of the alcoves contain nothing of value. A loose flagstone in the southeas
 
 If he has not been defeated elsewhere, [[4. World Almanac/NPCs/Rahadin.md\|Rahadin]] (see appendix D) is here, waiting for the characters to arrive so he can kill them.
 
-A [[5. Mechanics/Bestiary/Fiend/Shadow Demon.md\|shadow demon]] also haunts this room. In the round after the characters engage [[4. World Almanac/NPCs/Rahadin.md\|Rahadin]], the demon leaps out and attacks the nearest character from behind. The character doesn't notice the demon, unless the character's passive Wisdom (Perception) score meets or exceeds the demon's Dexterity (Stealth) check. Both [[4. World Almanac/NPCs/Rahadin.md\|Rahadin]] and the shadow demon fight until slain.
+A [[5. Mechanics/Bestiary/Fiend/Shadow Demon.md\|shadow demon]] also haunts this room. In the round after the characters engage [[4. World Almanac/NPCs/Rahadin.md\|Rahadin]], the demon leaps out and attacks the nearest character from behind. The character doesn't notice the demon, unless the character's passive Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) score meets or exceeds the demon's Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) check. Both [[4. World Almanac/NPCs/Rahadin.md\|Rahadin]] and the shadow demon fight until slain.
 
 A secret door is set into the north end of the west wall. It can be pulled open to reveal a dusty, web-choked staircase of ancient, worn stone (area K79) that descends into darkness.
 
@@ -1667,7 +1667,7 @@ Characters who fall victim to the teleport traps are transported to dungeon cell
 
 ### K74. North Dungeon
 
-The rusty iron door connecting this hall to area K73 is submerged in 5 feet of water and requires a successful DC 10 Strength (Athletics) check to open.
+The rusty iron door connecting this hall to area K73 is submerged in 5 feet of water and requires a successful DC 10 Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) check to open.
 
 > [!readaloud] 
 > 
@@ -1714,7 +1714,7 @@ This cell is linked to a teleport trap in area K73.
 
 ##### Treasure
 
-A search of the corpse yields a sheathed longsword and two belt pouches, one containing five gemstones (50 gp each) and the other containing a potion of heroism.
+A search of the corpse yields a sheathed [[5. Mechanics/Items/Longsword.md\|longsword]] and two belt pouches, one containing five gemstones (50 gp each) and the other containing a [[5. Mechanics/Items/Potion Of Heroism.md\|potion of heroism]].
 
 #### K74d. Empty Cell
 
@@ -1726,7 +1726,7 @@ This cell is linked to a teleport trap in area K73.
 
 ##### Secret Door
 
-A secret door is 5 feet up from the floor on the north wall of this cell. The secret door can't be opened from this side without the use of a knock spell or similar magic. Behind the secret door is a chute of polished black marble that slants upward (area K82).
+A secret door is 5 feet up from the floor on the north wall of this cell. The secret door can't be opened from this side without the use of a [[5. Mechanics/Spells/Knock.md\|knock]] spell or similar magic. Behind the secret door is a chute of polished black marble that slants upward (area K82).
 
 #### K74f. Empty Cell
 
@@ -1734,7 +1734,7 @@ This cell contains nothing of interest.
 
 #### K74g. Gray Ooze
 
-Clinging to the floor of this cell is a [[5. Mechanics/Bestiary/Ooze/Gray Ooze.md\|gray ooze]] that attacks anything that enters. While underwater, the ooze is effectively invisible.
+Clinging to the floor of this cell is a [[5. Mechanics/Bestiary/Ooze/Gray Ooze.md\|gray ooze]] that attacks anything that enters. While underwater, the ooze is effectively [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]].
 
 #### K74h. Lost Sword
 
@@ -1747,17 +1747,17 @@ This cell is linked to a teleport trap in area K73.
 
 ##### Treasure
 
-The source of the underwater glow is a sentient lawful good +1 shortsword (Intelligence 11, Wisdom 13, Charisma 13). It has hearing and normal vision out to a range of 120 feet. It communicates by transmitting emotion to the creature carrying or wielding it.
+The source of the underwater glow is a sentient lawful good [+1 shortsword](compendium/items/1-weapon.md) (Intelligence 11, Wisdom 13, Charisma 13). It has hearing and normal vision out to a range of 120 feet. It communicates by transmitting emotion to the creature carrying or wielding it.
 
 The sword's purpose is to fight evil. The sword has the following additional properties:
 
 - The sword continually sheds bright light in a 15-foot radius and dim light for an additional 15 feet. Only by destroying the sword can this light be extinguished.  
 - A lawful good creature can attune itself to the sword in 1 minute.  
-- While attuned to the weapon, the sword's wielder can use the sword to cast the crusader's mantle spell. Once used, this property of the sword can't be used again until the next dawn.  
+- While attuned to the weapon, the sword's wielder can use the sword to cast the [[5. Mechanics/Spells/Crusaders Mantle.md\|crusader's mantle]] spell. Once used, this property of the sword can't be used again until the next dawn.  
 
 ### K75. South Dungeon
 
-The rusty iron door connecting this hall to area K73 is submerged in 5 feet of water and requires a successful DC 10 Strength (Athletics) check to open.
+The rusty iron door connecting this hall to area K73 is submerged in 5 feet of water and requires a successful DC 10 Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) check to open.
 
 > [!readaloud] 
 > 
@@ -1793,7 +1793,7 @@ This cell contains nothing of interest.
 
 #### K75d. Dead Dwarf
 
-This cell is linked to a teleport trap in area K73. The skeletal remains of a dwarf fighter lie at the bottom of the cell, enclosed in rusted plate armor. The dwarf's nonmagical but usable battleaxe lies nearby.
+This cell is linked to a teleport trap in area K73. The skeletal remains of a dwarf fighter lie at the bottom of the cell, enclosed in rusted plate armor. The dwarf's nonmagical but usable [[5. Mechanics/Items/Battleaxe.md\|battleaxe]] lies nearby.
 
 #### K75e. Empty Cell
 
@@ -1884,7 +1884,7 @@ The hourglass has AC 12, 20 hit points, immunity to poison and psychic damage, a
 > *Yellow to the master's tomb*
 ^299
 
-The brazier's flame is magical and sheds no warmth. A successful casting of dispel magic (DC 16) extinguishes the flame for 1 hour. The fire is permanently extinguished if the brazier is destroyed. The brazier has AC 17, 25 hit points, immunity to poison and psychic damage, and resistance to all other damage.
+The brazier's flame is magical and sheds no warmth. A successful casting of [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] (DC 16) extinguishes the flame for 1 hour. The fire is permanently extinguished if the brazier is destroyed. The brazier has AC 17, 25 hit points, immunity to poison and psychic damage, and resistance to all other damage.
 
 The stones set into the brazier's rim are colored red, orange, yellow, green, blue, indigo, and violet, respectively. Tossing one into the brazier causes its flame to change from white to the color of the stone, and the sand begins falling through the hourglass. Any creature that touches the colored flame is teleported to a location within Strahd's domain, as determined by the color:
 
@@ -1903,7 +1903,7 @@ After 5 rounds, the sand runs out, and the color of the flame returns to white. 
 
 #### Development
 
-If the brazier, the hourglass, or either [[5. Mechanics/Bestiary/Construct/Iron Golem.md\|golem]] is attacked, the doors of the room magically slam shut and lock (unless they are being held or wedged open), and the golems animate and attack. On the first round, the golems fill the room with their poison breath, which issues from the horses' mouths. (Each creature in the room must make two saving throws, one for each breath weapon.) On subsequent rounds, each golem makes one attack with its sword and one slam attack with its hoof. When there are no creatures left to fight in the room, the golems return to their alcoves, and the doors unlock. Forcing open a locked door requires a successful DC 25 Strength (Athletics) check. Each door has AC 15, 25 hit points, and immunity to poison and psychic damage.
+If the brazier, the hourglass, or either [[5. Mechanics/Bestiary/Construct/Iron Golem.md\|golem]] is attacked, the doors of the room magically slam shut and lock (unless they are being held or wedged open), and the golems animate and attack. On the first round, the golems fill the room with their poison breath, which issues from the horses' mouths. (Each creature in the room must make two saving throws, one for each breath weapon.) On subsequent rounds, each golem makes one attack with its sword and one slam attack with its hoof. When there are no creatures left to fight in the room, the golems return to their alcoves, and the doors unlock. Forcing open a locked door requires a successful DC 25 Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) check. Each door has AC 15, 25 hit points, and immunity to poison and psychic damage.
 
 ### K79. Western Stair
 
@@ -1916,9 +1916,9 @@ The stairs rise at a 45-degree angle for a distance of 40 feet horizontally, lea
 
 #### Landing
 
-Inscribed on the landing, hidden under years of dust, is a glyph of warding. If the characters brush away the dust, someone can spot the glyph with a successful DC 15 Intelligence (Investigation) check.
+Inscribed on the landing, hidden under years of dust, is a [[5. Mechanics/Spells/Glyph Of Warding.md\|glyph of warding]]. If the characters brush away the dust, someone can spot the glyph with a successful DC 15 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check.
 
-The glyph triggers the first time a living creature passes over it. Triggering it activates a major image spell, conjuring an illusion of [[4. World Almanac/NPCs/Strahd Von Zarovich.md\|Strahd von Zarovich]] that appears either halfway up the stairs leading to area K72 or halfway down the stairs leading to area K78, so that the vampire appears in front of the triggering character. When "Strahd" appears, read:
+The glyph triggers the first time a living creature passes over it. Triggering it activates a [[5. Mechanics/Spells/Major Image.md\|major image]] spell, conjuring an illusion of [[4. World Almanac/NPCs/Strahd Von Zarovich.md\|Strahd von Zarovich]] that appears either halfway up the stairs leading to area K72 or halfway down the stairs leading to area K78, so that the vampire appears in front of the triggering character. When "Strahd" appears, read:
 
 > [!readaloud] 
 > 
@@ -1954,7 +1954,7 @@ The stairs slope at a 45-degree angle for a distance of 20 feet horizontally, co
 
 Characters who have knowledge of stonecutting can tell that this passage is a relatively new construction compared to other areas of Ravenloft. The tunnel is 120 feet long, with a stone door at its eastern end.
 
-Near the midpoint of the tunnel is a trapdoor hidden under a layer of fog. Characters can't spot the trapdoor passively, but an active search accompanied by a successful DC 20 Wisdom (Perception) check locates it. Unless the trapdoor is fastened shut with an iron spike or by some other means, it opens when 100 pounds of weight or more is placed on it. When the trapdoor opens, everyone who is standing on it slides into the marble chute below (area K82). The trapdoor then resets.
+Near the midpoint of the tunnel is a trapdoor hidden under a layer of fog. Characters can't spot the trapdoor passively, but an active search accompanied by a successful DC 20 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check locates it. Unless the trapdoor is fastened shut with an iron spike or by some other means, it opens when 100 pounds of weight or more is placed on it. When the trapdoor opens, everyone who is standing on it slides into the marble chute below (area K82). The trapdoor then resets.
 
 ### K82. Marble Slide
 
@@ -2016,7 +2016,7 @@ The catacombs are home to tens of thousands of bats. The bats hang here during d
 
 #### Teleport Traps
 
-Invisible teleport traps are located between crypts 37 and 38, between crypt 37 and the wall south of it, and between crypt 38 and the wall south of it. The traps can't be perceived except with a detect magic spell, which reveals an aura of conjuration magic in the trapped areas. Although the traps can't be disarmed, a successful casting of dispel magic (DC 16) on a trap suppresses its magic for 1 minute, allowing characters to move safely through its area. A trap is also suppressed while wholly or partly in the area of an antimagic field.
+Invisible teleport traps are located between crypts 37 and 38, between crypt 37 and the wall south of it, and between crypt 38 and the wall south of it. The traps can't be perceived except with a [[5. Mechanics/Spells/Detect Magic.md\|detect magic]] spell, which reveals an aura of conjuration magic in the trapped areas. Although the traps can't be disarmed, a successful casting of [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] (DC 16) on a trap suppresses its magic for 1 minute, allowing characters to move safely through its area. A trap is also suppressed while wholly or partly in the area of an [[5. Mechanics/Spells/Antimagic Field.md\|antimagic field]].
 
 These teleport traps form a protective ring around the entrance to Strahd's tomb (area K86). Any creature that enters one of these 10-foot-square spaces is instantly teleported away, switching places with one of the [[5. Mechanics/Bestiary/Undead/Wight.md\|wights]] in crypt 14. The wight materializes in the creature's previous location and attacks any living creature it sees.
 
@@ -2098,7 +2098,7 @@ If the characters disturb Saint Markovia's remains, add:
 
 ##### Treasure
 
-A detect magic spell reveals that the thighbone radiates an aura of evocation magic. See appendix C for more information on [[5. Mechanics/Items/Saint Markovias Thighbone (COS).md\|Saint Markovia's thighbone]].
+A [[5. Mechanics/Spells/Detect Magic.md\|detect magic]] spell reveals that the thighbone radiates an aura of evocation magic. See appendix C for more information on [[5. Mechanics/Items/Saint Markovias Thighbone (COS).md\|Saint Markovia's thighbone]].
 
 #### Crypt 7
 
@@ -2141,7 +2141,7 @@ If [[4. World Almanac/NPCs/Pidlwick Ii.md\|Pidlwick II]] (see area K59) is with 
 
 ##### Treasure
 
-If the characters explore this crypt after summoning the ghost of Pidlwick in area K36, they find a small, flat wooden box on the marble slab next to Pidlwick's bones. The box contains a full deck of illusions.
+If the characters explore this crypt after summoning the ghost of Pidlwick in area K36, they find a small, flat wooden box on the marble slab next to Pidlwick's bones. The box contains a full [[5. Mechanics/Items/Deck Of Illusions.md\|deck of illusions]].
 
 #### Crypt 10
 
@@ -2191,7 +2191,7 @@ The message refers to a gravestone in the Abbey of Saint Markovia (chapter 8, ar
 
 The helm has three evenly spaced visors crafted to look like human faces—one sad, one happy, and one angry. Only the angry visage is visible from the crypt's doorway. King Troisky wore this three-faced helm in battle, earning him the moniker of Three-Faced King. The helm is nonmagical and weighs 10 pounds.
 
-The slab upon which the helm rests is weight-sensitive. If the helm is removed from the slab without 10 pounds of weight immediately being added, poisonous gas pours out of the slab's hollow interior and fills the crypt. A character who searches the slab for traps and succeeds on a DC 12 Wisdom (Perception) check spots tiny holes bored into the slab's marble base. It's from these holes that the gas spews forth.
+The slab upon which the helm rests is weight-sensitive. If the helm is removed from the slab without 10 pounds of weight immediately being added, poisonous gas pours out of the slab's hollow interior and fills the crypt. A character who searches the slab for traps and succeeds on a DC 12 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check spots tiny holes bored into the slab's marble base. It's from these holes that the gas spews forth.
 
 A creature in the crypt when the gas is released must make a DC 14 Constitution saving throw, taking `dice: 4d10|avg` (`4d10`) poison damage on a failed save, or half as much damage on a successful one.
 
@@ -2204,7 +2204,7 @@ A creature in the crypt when the gas is released must make a DC 14 Constitution 
 > A skeleton draped in rags lies atop a marble slab in the center of the crypt. Lying amid the bones is a stoppered drinking horn, a fat pouch, and a weird-looking scepter made of metal and wood. Above the bones, hanging from the domed ceiling by wires, is a wooden flying contraption that looks like a set of folding dragon wings fitted with leather straps, metal buckles, and taut leather wing flaps.
 ^2ce
 
-The stoppered drinking horn is a water-resistant powder horn loaded with gunpowder, and the "weird-looking scepter" is a musket. The fat pouch contains 20 silver marbles (silvered bullets for the musket). For more information on firearms and explosives, see chapter 9, ""Dungeon Master's Workshop"," of the "Dungeon Master's Guide".
+The stoppered drinking horn is a water-resistant [[5. Mechanics/Items/Gunpowder Horn.md\|powder horn]] loaded with gunpowder, and the "weird-looking scepter" is a [[5. Mechanics/Items/Musket.md\|musket]]. The fat pouch contains 20 silver marbles (silvered bullets for the musket). For more information on firearms and explosives, see chapter 9, ""Dungeon Master's Workshop"," of the "Dungeon Master's Guide".
 
 ##### Glider
 
@@ -2212,7 +2212,7 @@ Any Small or Medium humanoid can wear the dragon-wing glider. (It takes 1 minute
 
 If its wearer is light enough (accounting for gear), the apparatus can be used to glide, but only in wide-open spaces where there is room to maneuver. The wearer can become airborne by stepping or jumping off a high place, or by performing a high jump to take off from level ground. While aloft, the wearer gains a flying speed equal to its walking speed, with the following limitations: except in a significant updraft, the wearer can't use the glider to gain altitude, and the glider descends 1 foot for every 10 feet of horizontal distance covered. At the end of the flight, the wearer lands on its feet and the glider is intact. If the wearer tries to accelerate the rate of descent, the glider breaks, and the wearer falls.
 
-The glider has AC 12, 1 hit point, and a 15-foot wingspan. Any damage causes it to break and become inoperable. A mending cantrip can repair the damage, provided all the broken pieces are present.
+The glider has AC 12, 1 hit point, and a 15-foot wingspan. Any damage causes it to break and become inoperable. A [[5. Mechanics/Spells/Mending.md\|mending]] cantrip can repair the damage, provided all the broken pieces are present.
 
 #### Crypt 14
 
@@ -2225,7 +2225,7 @@ If the characters open the door to this crypt, read:
 > A ten-foot-square shaft plunges into darkness. The sound of slowly dripping water echoes up the shaft.
 ^2d1
 
-Characters who have darkvision or a sufficient light source can see that the shaft descends 40 feet to some kind of vault deep in the Pillarstone of Ravenloft. Stones protrude from the shaft at regular intervals, offering handholds and footholds. The stones are slippery, however, so a character who tries to scale the wall without the aid of magic or the use of a climber's kit must make a successful DC 10 Strength (Athletics) check.
+Characters who have [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]] or a sufficient light source can see that the shaft descends 40 feet to some kind of vault deep in the Pillarstone of Ravenloft. Stones protrude from the shaft at regular intervals, offering handholds and footholds. The stones are slippery, however, so a character who tries to scale the wall without the aid of magic or the use of a climber's kit must make a successful DC 10 Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) check.
 
 ##### Vault
 
@@ -2262,9 +2262,9 @@ Khazan was a powerful archmage who unlocked the secrets of lichdom, then later t
 
 ##### Treasure
 
-The skull's black opal eye-gems are worth 1,000 gp apiece. The skull also has eight amber teeth worth 100 gp each.
+The skull's [[5. Mechanics/Items/Black Opal.md\|black opal eye-gems]] are worth 1,000 gp apiece. The skull also has eight amber teeth worth 100 gp each.
 
-Any creature that stands inside the crypt and boldly speaks the name "Khazan" causes the Pillarstone of Ravenloft to tremble as a staff of power materializes above the marble slab and hovers in place. The first creature to grab hold of the staff must make a DC 17 Constitution saving throw, taking `dice: 8d10|avg` (`8d10`) lightning damage on a failed save, or half as much damage on a successful one. Afterward, the staff of power can be held and used normally. If no one grabs the staff within 1 round of its appearance, it vanishes, never to return.
+Any creature that stands inside the crypt and boldly speaks the name "Khazan" causes the Pillarstone of Ravenloft to tremble as a [[5. Mechanics/Items/Staff Of Power.md\|staff of power]] materializes above the marble slab and hovers in place. The first creature to grab hold of the staff must make a DC 17 Constitution saving throw, taking `dice: 8d10|avg` (`8d10`) lightning damage on a failed save, or half as much damage on a successful one. Afterward, the [[5. Mechanics/Items/Staff Of Power.md\|staff of power]] can be held and used normally. If no one grabs the staff within 1 round of its appearance, it vanishes, never to return.
 
 #### Crypt 16
 
@@ -2335,7 +2335,7 @@ The spectral elf is a [[5. Mechanics/Bestiary/Undead/Banshee.md\|banshee]] that 
 
 In life, [[4. World Almanac/NPCs/Patrina Velikovna.md\|Patrina Velikovna]] was a dusk elf who, having learned a great deal about the black arts, was nearly a match for Strahd's powers. She felt a great bond with him and asked to solemnize that bond in a dark marriage. Drawn to her knowledge and power, Strahd consented, but before he could drain all life from Patrina, her own people stoned her to death in an act of mercy to thwart Strahd's plans. Strahd demanded, and got, Patrina's body. She then became the banshee trapped here.
 
-Reducing the banshee to 0 hit points causes it to discorporate. Patrina's spirit can't rest, however, until she is formally wed to Strahd; the banshee re-forms in her crypt 24 hours later. Casting a hallow spell on the crypt prevents the banshee from returning for as long as the spell lasts.
+Reducing the banshee to 0 hit points causes it to discorporate. Patrina's spirit can't rest, however, until she is formally wed to Strahd; the banshee re-forms in her crypt 24 hours later. Casting a [[5. Mechanics/Spells/Hallow.md\|hallow]] spell on the crypt prevents the banshee from returning for as long as the spell lasts.
 
 ##### Treasure
 
@@ -2391,7 +2391,7 @@ This crypt contains nothing of interest.
 > A skeleton draped in rags lies atop a marble slab in the center of the crypt. Most of the bones appear dusty and neglected, but the skull is well polished.
 ^2ed
 
-A detect magic spell cast here reveals that Stefan's skull radiates a faint aura of necromancy magic. As long as the skull remains in the crypt, it will answer up to five questions put to it, as though a speak with dead spell had been cast on it. This property recharges each day at dawn. In life, Stefan was neither observant nor well informed. If the skull is questioned about Strahd or Castle Ravenloft, all the information it provides is untrue.
+A [[5. Mechanics/Spells/Detect Magic.md\|detect magic]] spell cast here reveals that Stefan's skull radiates a faint aura of necromancy magic. As long as the skull remains in the crypt, it will answer up to five questions put to it, as though a [[5. Mechanics/Spells/Speak With Dead.md\|speak with dead]] spell had been cast on it. This property recharges each day at dawn. In life, Stefan was neither observant nor well informed. If the skull is questioned about Strahd or Castle Ravenloft, all the information it provides is untrue.
 
 #### Crypt 26
 
@@ -2402,7 +2402,7 @@ A detect magic spell cast here reveals that Stefan's skull radiates a faint aura
 > A skeleton draped in rags lies atop a marble slab in the center of the crypt. Most of the bones appear dusty and neglected, but the skull is well polished.
 ^2ef
 
-A detect magic spell cast here reveals that Intree's skull radiates a faint aura of necromancy magic. As long as the skull remains in the crypt, it will answer up to five questions put to it, as though a speak with dead spell had been cast on it. This property recharges each day at dawn. Unlike Stefan Gregorovich in crypt 25, Intree was well educated and astute. If the skull is questioned about Strahd or the castle, the information it provides is true.
+A [[5. Mechanics/Spells/Detect Magic.md\|detect magic]] spell cast here reveals that Intree's skull radiates a faint aura of necromancy magic. As long as the skull remains in the crypt, it will answer up to five questions put to it, as though a [[5. Mechanics/Spells/Speak With Dead.md\|speak with dead]] spell had been cast on it. This property recharges each day at dawn. Unlike Stefan Gregorovich in crypt 25, Intree was well educated and astute. If the skull is questioned about Strahd or the castle, the information it provides is true.
 
 #### Crypt 27
 
@@ -2437,13 +2437,13 @@ Tucked under the chef's hat is an electrum spork with a bejeweled handle (worth 
 > Opening the door causes the air around you to turn as cold as the coldest hell you can imagine. Every surface inside the crypt is covered with thick, brownish mold.
 ^2f6
 
-A patch of brown mold (see ""Dungeon Hazards"" in chapter 5, "Adventure Environments," of the "Dungeon Master's Guide") fills the crypt. Characters within 5 feet of the crypt's open doorway are affected.
+A patch of [[5. Mechanics/Traps Hazards/Brown Mold.md\|brown mold]] (see ""Dungeon Hazards"" in chapter 5, "Adventure Environments," of the "Dungeon Master's Guide") fills the crypt. Characters within 5 feet of the crypt's open doorway are affected.
 
 If the brown mold is killed off, characters can dig through the moldy crust to find the bones of Baron Drüf lying atop a marble slab.
 
 ##### Treasure
 
-Hidden under the brown mold next to the baron's bones is a luck blade with one wish remaining. If a creature uses the wish to try to escape from Barovia, the spell fails. If a creature uses the sword to wish for Strahd's destruction, the wish doesn't destroy Strahd but rather teleports him to within 5 feet of the sword.
+Hidden under the brown mold next to the baron's bones is a [[5. Mechanics/Items/Luck Blade.md\|luck blade]] with one wish remaining. If a creature uses the wish to try to escape from Barovia, the spell fails. If a creature uses the sword to wish for Strahd's destruction, the wish doesn't destroy Strahd but rather teleports him to within 5 feet of the sword.
 
 #### Crypt 30
 
@@ -2469,11 +2469,11 @@ The prefect's gold holy symbol is festooned with tiny gemstones and is worth 750
 > This crypt is empty. Its walls are painted to depict mountains of gold coins.
 ^2fc
 
-The floor of the crypt is actually the cover of a 30-foot-deep spiked pit. The cover opens if 100 pounds of weight or more are placed on it. It splits down the middle, east to west, and its doors are spring-loaded. After a victim or victims fall into the pit, its doors snap shut. (See ""Sample Traps"" in chapter 5, "Adventure Environments," of the "Dungeon Master's Guide" the rules on locking pits and spiked pits.) The spikes at the bottom of the pit are made of iron but aren't poisoned.
+The floor of the crypt is actually the cover of a 30-foot-deep spiked pit. The cover opens if 100 pounds of weight or more are placed on it. It splits down the middle, east to west, and its doors are spring-loaded. After a victim or victims fall into the pit, its doors snap shut. (See ""Sample Traps"" in chapter 5, "Adventure Environments," of the "Dungeon Master's Guide" the rules on locking pits and spiked pits.) The spikes at the bottom of the pit are made of iron but aren't [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]].
 
 ##### Treasure
 
-A human skeleton (the remains of a dead adventurer) wrapped in bits of studded leather armor lies amid the spikes at the bottom of the pit. A shattered lantern and a rusty crowbar lie nearby. Tied to the corpse's leather belt is a 50-foot coil of hempen rope, a dagger in a worn scabbard, a pouch containing 25 pp, and a stoppered wooden tube containing a spell scroll of magic circle.
+A human skeleton (the remains of a dead adventurer) wrapped in bits of studded leather armor lies amid the spikes at the bottom of the pit. A shattered lantern and a rusty [[5. Mechanics/Items/Crowbar.md\|crowbar]] lie nearby. Tied to the corpse's leather belt is a [[5. Mechanics/Items/Hempen Rope-50 Feet.md\|50-foot coil of hempen rope]], a [[5. Mechanics/Items/Dagger.md\|dagger]] in a worn scabbard, a pouch containing 25 pp, and a stoppered wooden tube containing a [[5. Mechanics/Items/Spell Scroll.md\|spell scroll]] of [[5. Mechanics/Spells/Magic Circle.md\|magic circle]].
 
 #### Fortunes of Ravenloft
 
@@ -2488,7 +2488,7 @@ The door to this crypt has no name or epitaph on it.
 > This crypt is empty except for two alcoves in the back wall. Above the alcoves are carved the following words: Pass Not These Portals Ye Foolish Mortals
 ^300
 
-A detect magic spell reveals that both alcoves radiate strong auras of conjuration magic.
+A [[5. Mechanics/Spells/Detect Magic.md\|detect magic]] spell reveals that both alcoves radiate strong auras of conjuration magic.
 
 Creatures that enter the eastern alcove of this crypt are teleported to the eastern alcove of Strahd's tomb (area K86). Stepping into the western alcove of this crypt has no effect, but any creature that teleports from the western alcove of area K86 appears here.
 
@@ -2516,7 +2516,7 @@ If the sword is pulled from the armor, Sir Klutz appears as a [[5. Mechanics/Bes
 
 King Dostron was an ancient ruler of this land, long before the arrival of Strahd. He claimed descent from a duke of the Nine Hells, and his deeds did justice to this ancestry. His sarcophagus is made of beaten lead and encased in gold (see "Treasure" below). Its lid can be pried open with a crowbar or similar tool, revealing nothing but dust within. The stuffed owlbear is a late addition to the crypt's decor—a gift given to Strahd that wound up here. It looks almost alive but is harmless.
 
-An invisible [[5. Mechanics/Bestiary/Fiend/Imp.md\|imp]] is perched atop the owlbear. If someone tries to open the sarcophagus, the imp says in Common, "I wouldn't do that if I were you!" The imp is magically bound to King Dostron's remains and must watch over them for several more centuries before its contract are fulfilled. It isn't obligated to protect the contents of the crypt (so it will not attack), and it delights in telling lies and engaging in mischief. For instance, it warns the characters that the sarcophagus is trapped, and that opening the lid will free a pit fiend bound within.
+An [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]] [[5. Mechanics/Bestiary/Fiend/Imp.md\|imp]] is perched atop the owlbear. If someone tries to open the sarcophagus, the imp says in Common, "I wouldn't do that if I were you!" The imp is magically bound to King Dostron's remains and must watch over them for several more centuries before its contract are fulfilled. It isn't obligated to protect the contents of the crypt (so it will not attack), and it delights in telling lies and engaging in mischief. For instance, it warns the characters that the sarcophagus is trapped, and that opening the lid will free a pit fiend bound within.
 
 ##### Treasure
 
@@ -2531,11 +2531,11 @@ Characters who take the time to pry the gold from the sarcophagus can amass 500 
 > A charnel stench fills this empty crypt.
 ^307
 
-The floor here is an illusion that hides a 20-foot-deep pit. The sides of the pit are polished smooth; a creature without a climbing speed can't move along them without the aid of magic or a climber's kit. At the bottom of the pit are six starving [[5. Mechanics/Bestiary/Undead/Ghoul.md\|ghouls]]. A permanent silence spell suppresses sound in the pit. The silence can be dispelled, as can the illusory floor (DC 14 for both).
+The floor here is an illusion that hides a 20-foot-deep pit. The sides of the pit are polished smooth; a creature without a climbing speed can't move along them without the aid of magic or a climber's kit. At the bottom of the pit are six starving [[5. Mechanics/Bestiary/Undead/Ghoul.md\|ghouls]]. A permanent [[5. Mechanics/Spells/Silence.md\|silence]] spell suppresses sound in the pit. The silence can be dispelled, as can the illusory floor (DC 14 for both).
 
 ##### Treasure
 
-Sir Jarnwald was "entombed" here, so far as he was pushed into the crypt and devoured by the ghouls. What remains of him lies scattered on the pit floor: a few scraps of clothing, a handful of teeth, and a signet ring that bears a stylized "J" (worth 25 gp).
+Sir Jarnwald was "entombed" here, so far as he was pushed into the crypt and devoured by the ghouls. What remains of him lies scattered on the pit floor: a few scraps of clothing, a handful of teeth, and a [[5. Mechanics/Items/Signet Ring.md\|signet ring]] that bears a stylized "J" (worth 25 gp).
 
 #### Crypt 36
 
@@ -2563,7 +2563,7 @@ Inspection of the marble slab reveals a shallow, concave recess at one end. If t
 
 ##### Treasure
 
-The compartment under the slab holds a small, black leather case containing three spell scrolls (cone of cold, fireball, and lightning bolt).
+The compartment under the slab holds a small, black leather case containing three [[5. Mechanics/Items/Spell Scroll.md\|spell scrolls]] ([[5. Mechanics/Spells/Cone Of Cold.md\|cone of cold]], [[5. Mechanics/Spells/Fireball.md\|fireball]], and [[5. Mechanics/Spells/Lightning Bolt.md\|lightning bolt]]).
 
 #### Fortunes of Ravenloft
 
@@ -2587,7 +2587,7 @@ Three [[5. Mechanics/Bestiary/Fiend/Hell Hound.md\|hell hounds]] lunge forth and
 > Bits of incinerated bone lie strewn atop a marble slab in the center of the crypt. Lying amid the bones are fragments of a shattered spear with a silvered head. The walls and domed ceiling of the crypt are covered with scorched murals that depict legions of infantry and cavalry clashing on battlefields.
 ^311
 
-A mending cantrip can repair the spear, which is broken into three pieces of roughly equal length. If repaired, it can be wielded as a silvered, nonmagical spear.
+A [[5. Mechanics/Spells/Mending.md\|mending]] cantrip can repair the spear, which is broken into three pieces of roughly equal length. If repaired, it can be wielded as a silvered, nonmagical spear.
 
 #### Fortunes of Ravenloft
 
@@ -2634,7 +2634,7 @@ The coffin opens easily to the touch of a lawful good creature. Otherwise, openi
 
 #### Treasure
 
-Sergei's embalmed body is clothed in shining +2 plate armor.
+Sergei's embalmed body is clothed in shining [+2 plate armor](compendium/items/2-armor.md).
 
 #### Fortunes of Ravenloft
 
@@ -2655,7 +2655,7 @@ Raising the lever lifts the portcullis at the top of the stairs. Pulling it down
 
 Lying under the earth near the east wall of the tomb are three [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md\|vampire spawn]] brides dressed in soiled gowns and wearing dirt-encrusted jewelry (see "Treasure" below). They rise to attack anyone who approaches Strahd's coffin.
 
-A detect magic spell reveals that the western and eastern alcoves radiate strong auras of conjuration magic. The central alcove is nonmagical.
+A [[5. Mechanics/Spells/Detect Magic.md\|detect magic]] spell reveals that the western and eastern alcoves radiate strong auras of conjuration magic. The central alcove is nonmagical.
 
 Creatures that enter the western alcove are instantly teleported to the western alcove of crypt 32 in area K84. Stepping into the eastern alcove has no effect, but any creature that teleports from the eastern alcove of crypt 32 appears here.
 

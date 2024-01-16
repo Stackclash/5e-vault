@@ -14,6 +14,18 @@ aliases: ["Hell Hound"]
 # [[5. Mechanics/Bestiary/Fiend/Hell Hound.md|Hell Hound]]
 *Source: Monster Manual p. 182, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
+Monstrous, fire-breathing fiends that take the form of powerful dogs, hell hounds are found on the battlefields of Acheron and throughout the Lower Planes. On the Material Plane, hell hounds are most commonly seen in service to devils, fire giants, and other evil creatures that use them as guard animals and companions.
+
+## Burning Hunger
+
+Hell hounds hunt in packs, feeding on any creature that appears edible. They avoid potentially dangerous foes in favor of targeting the weakest prey with their savage bite and fiery breath, demonstrating a relentless determination as they pursue that prey to the bitter end.
+
+When hell hounds feed, the flesh they consume stokes the infernal fires that burn within them. When a hell hound dies, that fire consumes the creature's remains in a billowing eruption of smoke and blazing embers, leaving nothing behind but scorched tufts of black fur.
+
+## Evil to the Core
+
+Hell hounds are smarter than mundane beasts, and their lawful nature makes them good at following orders. However, a hell hound's evil disposition means that the creature can't be trained to be anything other than a ruthless killer. If a hell hound isn't allowed to indulge its malevolent hunger, it quickly abandons or turns against its master.
+
 ```statblock
 "name": "Hell Hound"
 "size": "Medium"
@@ -37,12 +49,12 @@ aliases: ["Hell Hound"]
 "languages": "understands Infernal but can't speak it"
 "cr": "3"
 "traits":
-- "desc": "The hound has advantage on Wisdom (Perception) checks that rely on hearing\
-    \ or smell."
+- "desc": "The hound has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+    \ checks that rely on hearing or smell."
   "name": "Keen Hearing and Smell"
 - "desc": "The hound has advantage on an attack roll against a creature if at least\
     \ one of the hound's allies is within 5 feet of the creature and the ally isn't\
-    \ incapacitated."
+    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
   "name": "Pack Tactics"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\

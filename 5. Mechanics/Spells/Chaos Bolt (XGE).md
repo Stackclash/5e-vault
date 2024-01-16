@@ -9,7 +9,6 @@ tags:
 aliases: ["Chaos Bolt"]
 ---
 # Chaos Bolt
-%%-- Embedded content starts on the next line. --%%
 *1st-level, Evocation*  
 
 - **Casting time:** 1 action

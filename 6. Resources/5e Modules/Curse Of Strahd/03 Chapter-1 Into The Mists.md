@@ -657,7 +657,7 @@ This card refers to [[4. World Almanac/NPCs/Kasimir Velikov.md\|Kasimir Velikov]
 > I see a fallen paladin of a fallen order of knights. He lingers like a ghost in a dead dragon's lair.
 ^064
 
-This card refers to the revenant [[4. World Almanac/NPCs/Sir Godfrey Gwilym.md\|Sir Godfrey Gwilym]] (see chapter 7, area Q37). Although initially unwilling to accompany the characters, he will do so if the characters convince him that the honor of the Order of the Silver Dragon can be restored with his help. Doing this requires a successful DC 15 Charisma (Persuasion) check.
+This card refers to the revenant [[4. World Almanac/NPCs/Sir Godfrey Gwilym.md\|Sir Godfrey Gwilym]] (see chapter 7, area Q37). Although initially unwilling to accompany the characters, he will do so if the characters convince him that the honor of the Order of the Silver Dragon can be restored with his help. Doing this requires a successful DC 15 Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]) check.
 
 > [!readaloud] 
 > 
@@ -684,9 +684,9 @@ This card refers to [[4. World Almanac/NPCs/Ismark Kolyanovich.md\|Ismark Kolyan
 > I see a dead man of noble birth, guarded by his widow. Return life to the dead man's corpse, and he will be your staunch ally.
 ^067
 
-This card refers to [[4. World Almanac/NPCs/Nikolai Wachter.md\|Nikolai Wachter]] the elder, who is dead (see chapter 5, area N4o). If the characters cast a raise dead spell or a resurrection spell on his preserved corpse, Nikolai (LN male human [[5. Mechanics/Bestiary/Humanoid/Noble.md\|noble]]) agrees to help the characters once he feels well enough, despite his wife's protests. Although his family has long supported Strahd, Nikolai came to realize toward the end of his life that Strahd must be destroyed to save Barovia.
+This card refers to [[4. World Almanac/NPCs/Nikolai Wachter.md\|Nikolai Wachter]] the elder, who is dead (see chapter 5, area N4o). If the characters cast a [[5. Mechanics/Spells/Raise Dead.md\|raise dead]] spell or a [[5. Mechanics/Spells/Resurrection.md\|resurrection]] spell on his preserved corpse, Nikolai (LN male human [[5. Mechanics/Bestiary/Humanoid/Noble.md\|noble]]) agrees to help the characters once he feels well enough, despite his wife's protests. Although his family has long supported Strahd, Nikolai came to realize toward the end of his life that Strahd must be destroyed to save Barovia.
 
-If the characters don't have the means to raise Nikolai from the dead, [[4. World Almanac/NPCs/Rictavio.md\|Rictavio]] (see appendix D) gives them a spell scroll of raise dead if he learns of their need. If they're staying at the Blue Water Inn, he leaves the scroll in one of their rooms.
+If the characters don't have the means to raise Nikolai from the dead, [[4. World Almanac/NPCs/Rictavio.md\|Rictavio]] (see appendix D) gives them a [[5. Mechanics/Items/Spell Scroll.md\|spell scroll]] of [[5. Mechanics/Spells/Raise Dead.md\|raise dead]] if he learns of their need. If they're staying at the Blue Water Inn, he leaves the scroll in one of their rooms.
 
 > [!readaloud] 
 > 
@@ -976,12 +976,12 @@ The leader of this group is [[4. World Almanac/NPCs/Stanimir.md\|Stanimir]] (CN 
 
 > [!note] 
 > 
-> - Cantrips (at will): friends, light, mage hand, prestidigitation  
-> - 1st level (4 slots): charm person, mage armor, shield, sleep  
-> - 2nd level (3 slots): misty step, suggestion  
-> - 3rd level (3 slots): bestow curse, phantom steed, vampiric touch  
-> - 4th level (3 slots): greater invisibility, stoneskin  
-> - 5th level (1 slot): dominate person  
+> - Cantrips (at will): [[5. Mechanics/Spells/Friends.md\|friends]], [[5. Mechanics/Spells/Light.md\|light]], [[5. Mechanics/Spells/Mage Hand.md\|mage hand]], [[5. Mechanics/Spells/Prestidigitation.md\|prestidigitation]]  
+> - 1st level (4 slots): [[5. Mechanics/Spells/Charm Person.md\|charm person]], [[5. Mechanics/Spells/Mage Armor.md\|mage armor]], [[5. Mechanics/Spells/Shield.md\|shield]], [[5. Mechanics/Spells/Sleep.md\|sleep]]  
+> - 2nd level (3 slots): [[5. Mechanics/Spells/Misty Step.md\|misty step]], [[5. Mechanics/Spells/Suggestion.md\|suggestion]]  
+> - 3rd level (3 slots): [[5. Mechanics/Spells/Bestow Curse.md\|bestow curse]], [[5. Mechanics/Spells/Phantom Steed.md\|phantom steed]], [[5. Mechanics/Spells/Vampiric Touch.md\|vampiric touch]]  
+> - 4th level (3 slots): [[5. Mechanics/Spells/Greater Invisibility.md\|greater invisibility]], [[5. Mechanics/Spells/Stoneskin.md\|stoneskin]]  
+> - 5th level (1 slot): [[5. Mechanics/Spells/Dominate Person.md\|dominate person]]  
 ^086
 
 [[4. World Almanac/NPCs/Stanimir.md\|Stanimir]] is joined by his daughter, Damia (CN female human [[5. Mechanics/Bestiary/Humanoid/Vistana Spy (COS).md\|spy]]), and his son, Ratka (CN male human [[5. Mechanics/Bestiary/Humanoid/Vistana Bandit Captain (COS).md\|bandit captain]]). Nine other Vistani (male and female [[5. Mechanics/Bestiary/Humanoid/Vistana Bandit (COS).md\|bandits]]) heed Ratka's commands. The six [[5. Mechanics/Bestiary/Beast/Draft Horse.md\|draft horses]] are used to pull the Vistani wagons, which contain their belongings but nothing of value.
@@ -1044,7 +1044,7 @@ The Misty Forest lies thirty miles east of Daggerford. Before the characters emb
 
 Zelraun Roaringhorn (LN male human [[5. Mechanics/Bestiary/Humanoid/Mage.md\|mage]]) has come to Daggerford to meet with its ruler, Duchess Morwen, and offer the Harpers' support.
 
-Zelraun gives each Harper character a spell scroll of remove curse. He has also made arrangements with a metalsmith in Waterdeep to sheathe the characters' weapons in silver. The party can have up to six weapons silvered in this manner. Twenty pieces of ammunition count as one weapon for this purpose.
+Zelraun gives each Harper character a [[5. Mechanics/Items/Spell Scroll.md\|spell scroll]] of [[5. Mechanics/Spells/Remove Curse.md\|remove curse]]. He has also made arrangements with a metalsmith in Waterdeep to sheathe the characters' weapons in silver. The party can have up to six weapons silvered in this manner. Twenty pieces of ammunition count as one weapon for this purpose.
 
 ##### About the Harpers
 
@@ -1057,7 +1057,7 @@ The Harpers is a network of spellcasters and spies who advocate equality and who
 > You met with the heads of the Order of the Gauntlet chapter house in Waterdeep. They've stationed members of the order at various inns and homesteads east of Daggerford, so that locals need not fear the night. Now they're counting on you to find the werewolves' lair in the Misty Forest. Only then can the order mount an organized assault. As you prepare to depart, a [[5. Mechanics/Bestiary/Undead/Knight Of The Order (COS).md\|knight of the order]] named Lanniver Strayl offers you his blessing.
 ^091
 
-Lanniver Strayl (LG male human [[5. Mechanics/Bestiary/Humanoid/Knight.md\|knight]]), a devout follower of Tyr recently arrived in Daggerford, gives a potion of heroism to each member of the order in the party.
+Lanniver Strayl (LG male human [[5. Mechanics/Bestiary/Humanoid/Knight.md\|knight]]), a devout follower of Tyr recently arrived in Daggerford, gives a [[5. Mechanics/Items/Potion Of Heroism.md\|potion of heroism]] to each member of the order in the party.
 
 ##### About the Order of the Gauntlet
 
@@ -1092,7 +1092,7 @@ Eravien Haund (LN male half-elf [[5. Mechanics/Bestiary/Humanoid/Noble.md\|noble
 - The werewolves worship a deity called Mother Night.  
 - The werewolves leave and return to Barovia through some kind of ancient portal. (This is a deduction on Eravien's part, based on the werewolf prisoner's vague description of how the pack gets to and from Barovia.)  
 
-Eravien believes that he can gain prestige within the Lords' Alliance if he learns the whereabouts of the "ancient portal" that the werewolves are using and destroys it. He is convinced that the portal represents a danger not only to Daggerford but also to Waterdeep. Any Lords' Alliance character who agrees to destroy it is given a spell scroll of magic weapon. Eravien also promises to furnish the character with a letter of recommendation (see ""Marks of Prestige"" in chapter 7 of the "Dungeon Master's Guide") once the portal is destroyed.
+Eravien believes that he can gain prestige within the Lords' Alliance if he learns the whereabouts of the "ancient portal" that the werewolves are using and destroys it. He is convinced that the portal represents a danger not only to Daggerford but also to Waterdeep. Any Lords' Alliance character who agrees to destroy it is given a [[5. Mechanics/Items/Spell Scroll.md\|spell scroll]] of [[5. Mechanics/Spells/Magic Weapon.md\|magic weapon]]. Eravien also promises to furnish the character with a letter of recommendation (see ""Marks of Prestige"" in chapter 7 of the "Dungeon Master's Guide") once the portal is destroyed.
 
 ##### About the Lords' Alliance
 

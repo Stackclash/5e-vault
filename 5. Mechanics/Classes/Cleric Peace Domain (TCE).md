@@ -29,7 +29,7 @@ Clerics of the Peace Domain preside over the signing of treaties, and they are o
 | Boldrei | Eberron |
 | Cyrrollalee | Halfling |
 | Eldath | Forgotten Realms |
-| Gaerdal | Ironhand Gnomish |
+| Gaerdal Ironhand | Gnomish |
 | Paladine | Dragonlance |
 | Rao | Greyhawk |
 ^peace-deities

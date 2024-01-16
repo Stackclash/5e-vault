@@ -41,17 +41,17 @@ If the characters approach within 10 feet of the portcullis, it shrieks with the
 
 ### T2. Demon Statues
 
-These statues are actually two petrified [[5. Mechanics/Bestiary/Fiend/Vrock.md\|vrocks]]. If they are attacked, or if the characters bypass the gatehouse, the vrocks revert to flesh and attack, pursuing prey that flees and fighting until slain.
+These statues are actually two [[/5. Mechanics/Rules/Conditions.md#petrified\|petrified]] [[5. Mechanics/Bestiary/Fiend/Vrock.md\|vrocks]]. If they are attacked, or if the characters bypass the gatehouse, the vrocks revert to flesh and attack, pursuing prey that flees and fighting until slain.
 
 ### T3. Curtain of Green Flame
 
 A curtain of green flame fills the eastern archway of the gatehouse. Any creature that enters the curtain for the first time on a turn or starts its turn in the green flame takes `dice: 6d10|avg` (`6d10`) fire damage.
 
-A successful casting of dispel magic (DC 16) suppresses the curtain for 1 minute. The curtain is also suppressed within an antimagic field.
+A successful casting of [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] (DC 16) suppresses the curtain for 1 minute. The curtain is also suppressed within an [[5. Mechanics/Spells/Antimagic Field.md\|antimagic field]].
 
 ### T4. Guard Tower, Ground Floor
 
-The tower door is made of ironbound wood and barred from within. A character can force open the door with a successful DC 22 Strength (Athletics) check.
+The tower door is made of ironbound wood and barred from within. A character can force open the door with a successful DC 22 Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) check.
 
 > [!readaloud] 
 > 
@@ -161,7 +161,7 @@ As the characters make their way along Tsolenka Pass, they encounter a beast tha
 > The road ahead is cut out of the mountainside, rising steeply to one side and falling away on the other. Mist and snow greatly reduce visibility, and the howling wind cuts through you like a knife.
 ^549
 
-If no character has a passive Wisdom (Perception) score of 16 or higher, the party is surprised. Otherwise, read:
+If no character has a passive Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) score of 16 or higher, the party is surprised. Otherwise, read:
 
 > [!readaloud] 
 > 

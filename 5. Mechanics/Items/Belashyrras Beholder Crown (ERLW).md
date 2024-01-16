@@ -27,6 +27,6 @@ The crown regains `dice: 1d6 + 3|avg` (`1d6 + 3`) expended charges daily at dawn
 
 The crown can't be removed from you while you're attuned to it, and you can't voluntarily end your attunement to it. If you're targeted by a spell that ends a curse, your attunement to the crown ends, and it detaches from you.
 
-The daelkyr [[4. World Almanac/NPCs/Belashyrra (ERLW).md\|Belashyrra]] made these crowns. While on the same plane of existence as the crown, Belashyrra can see through its eyestalks.
+The daelkyr [[4. World Almanac/NPCs/Belashyrra.md\|Belashyrra]] made these crowns. While on the same plane of existence as the crown, Belashyrra can see through its eyestalks.
 
 *Source: Eberron: Rising from the Last War p. 276*

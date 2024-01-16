@@ -16,7 +16,6 @@ tags:
 aliases: ["Insect Plague"]
 ---
 # Insect Plague
-%%-- Embedded content starts on the next line. --%%
 *5th-level, Conjuration*  
 ![[5. Mechanics/Spells/img/insect-plague.webp#right]]  
 

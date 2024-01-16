@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Allosaurus"]
 ---
-# [[5. Mechanics\Bestiary\Beast\Allosaurus.md|Allosaurus]]
+# [[5. Mechanics/Bestiary/Beast/Allosaurus.md|Allosaurus]]
 *Source: Monster Manual p. 79. Available in the Basic Rules.*  
 
 The allosaurus is a predator possessing great size, strength, and speed. It can run down almost any prey over open ground, pouncing to pull creatures down with its wicked claws.

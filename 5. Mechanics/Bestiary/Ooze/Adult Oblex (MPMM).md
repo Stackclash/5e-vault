@@ -12,7 +12,7 @@ tags:
 statblock: inline
 aliases: ["Adult Oblex"]
 ---
-# [[5. Mechanics\Bestiary\Ooze\Adult Oblex (MPMM).md|Adult Oblex]]
+# [[5. Mechanics/Bestiary/Ooze/Adult Oblex (MPMM).md|Adult Oblex]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 198*  
 
 Older oblexes, called adults and elders, have eaten so many memories that they can form duplicates of the creatures they have devoured from the substance of their bodies, sending these copies off to lure prey into their clutches while remaining tethered to the slime by long tendrils of goo. These duplicated creatures are indistinguishable from their victims except for a faint sulfurous smell. Oblexes use these duplicates to lead prey into danger or to infiltrate settlements so they can feed on superior victims.

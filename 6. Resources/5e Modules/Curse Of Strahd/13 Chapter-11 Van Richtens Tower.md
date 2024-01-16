@@ -39,7 +39,7 @@ The mossy griffons atop the buttresses are nothing more than decorative statues.
 
 ### Khazan's Spell Drain
 
-Khazan warded his tower so that he alone could cast spells near or within it. The effect is identical to an antimagic field centered on the tower and extending 5 feet from it in all directions. The effect doesn't apply to magic traps and constructs created by Khazan, including the trap on the tower door in area V2, the golems in areas V4, and the animated suit of armor in area V7.
+Khazan warded his tower so that he alone could cast spells near or within it. The effect is identical to an [[5. Mechanics/Spells/Antimagic Field.md\|antimagic field]] centered on the tower and extending 5 feet from it in all directions. The effect doesn't apply to magic traps and constructs created by Khazan, including the trap on the tower door in area V2, the golems in areas V4, and the animated suit of armor in area V7.
 
 ## Areas of the Tower
 
@@ -54,7 +54,7 @@ Ezmerelda's wagon is parked in front of the tower. If the characters investigate
 > Under layers of mud, this wagon sports a fresh coat of purple paint, and its wheels have fancy gold trim. A brass lantern hangs from each corner, and red drapes cover a tombstone-shaped window on each side. A steel padlock secures the back door, hanging from which is a cheap wooden sign that reads, "Keep out!"
 ^579
 
-The wagon radiates an aura of conjuration magic if it is scrutinized with a detect magic spell. A character who casts an identify spell on the wagon learns the command words needed to operate it.
+The wagon radiates an aura of conjuration magic if it is scrutinized with a [[5. Mechanics/Spells/Detect Magic.md\|detect magic]] spell. A character who casts an [[5. Mechanics/Spells/Identify.md\|identify]] spell on the wagon learns the command words needed to operate it.
 
 > [!gallery]
 > ![[6. Resources/5e Modules/Curse Of Strahd/img/105-027.jpg#gallery\|Map 11.1: Van Richten's Tower (Area V)]]
@@ -62,7 +62,7 @@ The wagon radiates an aura of conjuration magic if it is scrutinized with a dete
 
 Anyone who sits in the driver's seat and speaks its command word ("Drovash") summons a pair of quasi-real draft horses, which are magically tethered to the wagon and can't be separated from it. The horses and wagon have a speed of 30 feet, and the horses heed the driver's simple commands. The driver can dismiss the horses with a second command word ("Arvesh"). The horses can be dispelled (DC 15) but not harmed.
 
-The wagon has a hidden trapdoor in its underbelly that can be detected by a character who scuttles under the wagon and succeeds on a DC 13 Wisdom (Perception) check. The trapdoor opens into the wagon and is the only safe way inside.
+The wagon has a hidden trapdoor in its underbelly that can be detected by a character who scuttles under the wagon and succeeds on a DC 13 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check. The trapdoor opens into the wagon and is the only safe way inside.
 
 #### Booby Trap
 
@@ -74,17 +74,17 @@ A character inside the wagon spots the trap automatically (no ability check requ
 
 The interior of the wagon contains the following items:
 
-- A wooden trunk covered with claw marks that holds a battleaxe, a flail, a morningstar, a light crossbow, and 10 silvered crossbow bolts  
-- A narrow wardrobe containing three sets of fine clothes, two sets of traveler's clothes, several pairs of shoes, a harlequin mask, and three wigs  
-- A climber's kit, a disguise kit, a healer's kit, and a poisoner's kit  
+- A wooden trunk covered with claw marks that holds a [[5. Mechanics/Items/Battleaxe.md\|battleaxe]], a [[5. Mechanics/Items/Flail.md\|flail]], a [[5. Mechanics/Items/Morningstar.md\|morningstar]], a [[5. Mechanics/Items/Light Crossbow.md\|light crossbow]], and 10 silvered crossbow bolts  
+- A narrow wardrobe containing three sets of [[5. Mechanics/Items/Fine Clothes.md\|fine clothes]], two sets of [[5. Mechanics/Items/Travelers Clothes.md\|traveler's clothes]], several pairs of shoes, a harlequin mask, and three wigs  
+- A [[5. Mechanics/Items/Climbers Kit.md\|climber's kit]], a [[5. Mechanics/Items/Disguise Kit.md\|disguise kit]], a [[5. Mechanics/Items/Healers Kit.md\|healer's kit]], and a [[5. Mechanics/Items/Poisoners Kit.md\|poisoner's kit]]  
 - A lyre with golden strings (worth 50 gp)  
 - A sculpted wooden cage holding a chicken and a silver ewer (worth 100 gp) with five chicken eggs in it  
 - A tiny wooden box containing a [[5. Mechanics/Decks/Tarokka Deck (COS).md\|deck of tarokka cards]] (see appendix E) wrapped in silk  
 - A set of copper pots and pans (worth 50 gp)  
-- Three sets of manacles  
-- A shovel  
-- A wooden chest containing a gold holy symbol of the Morninglord (worth 100 gp), three vials of holy water, three vials of perfume, two vials of antitoxin, a 50-foot coil of hempen rope, a tinderbox, a steel mirror, a sharpened wooden stake, and a spyglass  
-- Two spell scrolls (major image and remove curse)  
+- Three sets of [[5. Mechanics/Items/Manacles.md\|manacles]]  
+- A [[5. Mechanics/Items/Shovel.md\|shovel]]  
+- A wooden chest containing a gold [[5. Mechanics/Items/Holy Symbol.md\|holy symbol]] of the Morninglord (worth 100 gp), three [[5. Mechanics/Items/Holy Water Flask.md\|vials of holy water]], three vials of perfume, two vials of [[5. Mechanics/Items/Antitoxin Vial.md\|antitoxin]], a [[5. Mechanics/Items/Hempen Rope-50 Feet.md\|50-foot coil of hempen rope]], a [[5. Mechanics/Items/Tinderbox.md\|tinderbox]], a [[5. Mechanics/Items/Steel Mirror.md\|steel mirror]], a sharpened wooden stake, and a [[5. Mechanics/Items/Spyglass.md\|spyglass]]  
+- Two [[5. Mechanics/Items/Spell Scroll.md\|spell scrolls]] ([[5. Mechanics/Spells/Major Image.md\|major image]] and [[5. Mechanics/Spells/Remove Curse.md\|remove curse]])  
 - A map of Barovia (showing all the locations marked on this adventure's map of Barovia)  
 - A charred page from van Richten's journal (show the players "Journal of Rudolph van Richten" in appendix F).  
 
@@ -168,11 +168,11 @@ In the middle of the room is a 5-foot-square hole in the floor and ceiling, with
 
 Van Richten spent several months in this room, reviewing a lifetime's worth of research on [[4. World Almanac/NPCs/Strahd Von Zarovich.md\|Strahd von Zarovich]]—notes that, once he committed them to memory, he burned in the stove. He also burned his journals. Ezmerelda searched the room, hoping to find a clue to her mentor's plan or whereabouts. Among the things she found here was a rolled-up map of Barovia and a burned page from van Richten's journal, which she took and hid in her wagon (area V1).
 
-The standing armor is a suit of [[5. Mechanics/Bestiary/Construct/Animated Armor.md\|animated armor]]. It is incapacitated until someone speaks the command word ("Khazan") within 10 feet of it, whereupon the armor follows the commands of the one who activated it. If 24 hours pass without its receiving a new instruction from its controller, the animated armor becomes incapacitated until someone reactivates it. If it is reduced to 0 hit points, the armor falls to pieces and is destroyed.
+The standing armor is a suit of [[5. Mechanics/Bestiary/Construct/Animated Armor.md\|animated armor]]. It is [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]] until someone speaks the command word ("Khazan") within 10 feet of it, whereupon the armor follows the commands of the one who activated it. If 24 hours pass without its receiving a new instruction from its controller, the animated armor becomes [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]] until someone reactivates it. If it is reduced to 0 hit points, the armor falls to pieces and is destroyed.
 
-A lavender aroma emanates from the wooden chest, which is unlocked and safe to open. It contains the severed head of a human Vistana named Yan. Its flesh has a waxy complexion and has been embalmed with magic oils. If a speak with dead spell is cast on his head (which would need to be taken somewhere away from the tower's *spell drain effect*), Yan reveals that he was banished from his clan for stealing. A half-elf bard named [[4. World Almanac/NPCs/Rictavio.md\|Rictavio]] offered Yan a ride in his carnival wagon. The two traveled together for several days, but their time together was tense. When it was clear that [[4. World Almanac/NPCs/Rictavio.md\|Rictavio]] was looking for a road to Barovia, Yan tried to steal the wagon as well as [[4. World Almanac/NPCs/Rictavio.md\|Rictavio]]'s pet monkey, but [[4. World Almanac/NPCs/Rictavio.md\|Rictavio]] got the better of him and drove a sword through his gullet.
+A lavender aroma emanates from the wooden chest, which is unlocked and safe to open. It contains the severed head of a human Vistana named Yan. Its flesh has a waxy complexion and has been embalmed with magic oils. If a [[5. Mechanics/Spells/Speak With Dead.md\|speak with dead]] spell is cast on his head (which would need to be taken somewhere away from the tower's *spell drain effect*), Yan reveals that he was banished from his clan for stealing. A half-elf bard named [[4. World Almanac/NPCs/Rictavio.md\|Rictavio]] offered Yan a ride in his carnival wagon. The two traveled together for several days, but their time together was tense. When it was clear that [[4. World Almanac/NPCs/Rictavio.md\|Rictavio]] was looking for a road to Barovia, Yan tried to steal the wagon as well as [[4. World Almanac/NPCs/Rictavio.md\|Rictavio]]'s pet monkey, but [[4. World Almanac/NPCs/Rictavio.md\|Rictavio]] got the better of him and drove a sword through his gullet.
 
-The magic oils preserving Yan's head allow it to remember conversations it has while under the effect of speak with dead. [[4. World Almanac/NPCs/Rictavio.md\|Rictavio]] has cast speak with dead on the head twice to ask questions about the Vistani of Barovia. Yan believes that the half-elf plans to cause great harm to the Vistani and begs the characters to warn his people. He doesn't know where his body is.
+The magic oils preserving Yan's head allow it to remember conversations it has while under the effect of [[5. Mechanics/Spells/Speak With Dead.md\|speak with dead]]. [[4. World Almanac/NPCs/Rictavio.md\|Rictavio]] has cast [[5. Mechanics/Spells/Speak With Dead.md\|speak with dead]] on the head twice to ask questions about the Vistani of Barovia. Yan believes that the half-elf plans to cause great harm to the Vistani and begs the characters to warn his people. He doesn't know where his body is.
 
 #### Fortunes of Ravenloft
 

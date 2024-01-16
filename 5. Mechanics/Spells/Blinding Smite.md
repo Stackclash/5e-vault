@@ -9,7 +9,6 @@ tags:
 aliases: ["Blinding Smite"]
 ---
 # Blinding Smite
-%%-- Embedded content starts on the next line. --%%
 *3rd-level, Evocation*  
 
 - **Casting time:** 1 bonus

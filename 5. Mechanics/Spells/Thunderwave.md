@@ -19,7 +19,6 @@ tags:
 aliases: ["Thunderwave"]
 ---
 # Thunderwave
-%%-- Embedded content starts on the next line. --%%
 *1st-level, Evocation*  
 
 - **Casting time:** 1 action

@@ -13,7 +13,7 @@ tags:
 statblock: inline
 aliases: ["Goblin"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Goblin.md|Goblin]]
+# [[5. Mechanics/Bestiary/Humanoid/Goblin.md|Goblin]]
 *Source: Monster Manual p. 166, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 Goblins are small, black-hearted, selfish humanoids that lair in caves, abandoned mines, despoiled dungeons, and other dismal settings. Individually weak, goblins gather in large-sometimes overwhelming-numbers. They crave power and regularly abuse whatever authority they obtain.
@@ -102,6 +102,8 @@ Maglubiyet the Mighty One, the Lord of Depths and Darkness, is the greater god o
 - "HftT"
 - "PaBTSO"
 - "SatO"
+- "BMT"
+- "GHLoE"
 "image": "5. Mechanics/Bestiary/Humanoid/token/goblin.png"
 ```
 ^statblock

@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Fire Elemental"]
 ---
-# [[5. Mechanics\Bestiary\Elemental\Fire Elemental.md|Fire Elemental]]
+# [[5. Mechanics/Bestiary/Elemental/Fire Elemental.md|Fire Elemental]]
 *Source: Monster Manual p. 125, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 A faint humanoid shape threads through the core of this wild, moving flame. A fire elemental is a force of capricious devastation. Wherever it moves, it sets its surroundings ablaze, turning the world to ash, smoke, and cinders. Water can halt its destructive progress, causing the fire elemental to shrink back, hissing and smoking in pain and rage.
@@ -101,6 +101,8 @@ An elemental doesn't require air, food, drink, or sleep.
 - "CM"
 - "WBtW"
 - "PSI"
+- "BMT"
+- "DoDk"
 "image": "compendium/bestiary/elemental/token/fire-elemental.png"
 ```
 ^statblock

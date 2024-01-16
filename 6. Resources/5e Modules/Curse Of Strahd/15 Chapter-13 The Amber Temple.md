@@ -16,7 +16,7 @@ The wizards were dead and gone by the time an evil archmage named [[4. World Alm
 
 > [!note] Extreme Cold
 > 
-> The Amber Temple is a cold, dark place carved out of the snowy slope of Mount Ghakis. The temperature throughout the complex is −10 degrees Fahrenheit (−23 degrees Celsius). Characters who don't have heat sources, cold weather gear, or magic to protect them are subject to the effects of extreme cold, as described in the ""Weather"" section in chapter 5, "Adventure Environments," of the "Dungeon Master's Guide". If [[4. World Almanac/NPCs/Kasimir Velikov.md\|Kasimir Velikov]] (see chapter 5, area N9a) is with the party, his ring of warmth protects him from the effects of the extreme cold.
+> The Amber Temple is a cold, dark place carved out of the snowy slope of Mount Ghakis. The temperature throughout the complex is −10 degrees Fahrenheit (−23 degrees Celsius). Characters who don't have heat sources, cold weather gear, or magic to protect them are subject to the effects of extreme cold, as described in the ""Weather"" section in chapter 5, "Adventure Environments," of the "Dungeon Master's Guide". If [[4. World Almanac/NPCs/Kasimir Velikov.md\|Kasimir Velikov]] (see chapter 5, area N9a) is with the party, his [[5. Mechanics/Items/Ring Of Warmth.md\|ring of warmth]] protects him from the effects of the extreme cold.
 ^extreme-cold
 
 When Strahd came to the temple seeking immortality, [[4. World Almanac/NPCs/Exethanter.md\|Exethanter]] sensed that he was a man of destiny. The evil powers in the temple felt something much stronger: a darkness that eclipsed their own. Strahd communed with these evil vestiges and forged a pact with them. When Strahd later murdered his brother Sergei, that pact was sealed with blood. Strahd transformed into a vampire, and the Dark Powers turned his land into a prison.
@@ -87,7 +87,7 @@ The skeleton is all that remains of a wizard who froze to death. It poses no thr
 
 #### Treasure
 
-The skeleton clutches a wand of secrets.
+The skeleton clutches a [[5. Mechanics/Items/Wand Of Secrets.md\|wand of secrets]].
 
 ### X3. Empty Barracks
 
@@ -107,7 +107,7 @@ A secret door set in one wall of each room can be pulled open to reveal area X2a
 > A twenty-foot-wide balcony of black marble with a shattered railing overlooks a vast temple. Black marble staircases at each end of the balcony descend thirty feet to the temple floor. The vaulted ceiling is thirty feet above the balcony. The walls and ceiling are covered in an amber glaze, lending the gloom a golden sheen. A set of amber doors stands closed at the west end of the balcony. A similar pair stands open to the east.
 ^5de
 
-Anyone with a passive Wisdom (Perception) score of 12 or higher notice arrow slits in the walls overlooking the temple (see areas X8 and X17 for more information on these arrow slits). If the characters' light source or vision extends 90 feet or more, they can see a large, faceless statue at the far end of the temple (area X5a).
+Anyone with a passive Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) score of 12 or higher notice arrow slits in the walls overlooking the temple (see areas X8 and X17 for more information on these arrow slits). If the characters' light source or vision extends 90 feet or more, they can see a large, faceless statue at the far end of the temple (area X5a).
 
 The open doorway to the east leads to area X6. The double doors to the west open into area X15. Characters who listen at the western doors hear gruff humanoid voices beyond, but can't discern what's being said.
 
@@ -118,19 +118,19 @@ The open doorway to the east leads to area X6. The double doors to the west open
 > Four black marble columns support the vaulted ceiling of the temple, at the north end of which stands a forty-foot-tall statue of a cowled figure in flowing robes. The statue's stony hands are outstretched as if in the midst of casting a spell. Its face is a void of utter blackness. The ominous statue stands between two black marble balconies, one of which has partially collapsed and fallen on the temple's black marble floor, in front of an open doorway. The walls of the temple are sheathed in amber, and the doors leading from it are made of amber as well. Arched hallways coated with amber lead away from the temple to the west and east. Flanking these exits are alcoves that hold white marble statues of robed human wizards with pointed hats and golden staffs. One of them has toppled over and lies shattered on the floor. 
 ^5e0
 
-An [[5. Mechanics/Bestiary/Fiend/Arcanaloth.md\|arcanaloth]] named Neferon guards this temple from within the hollow head of the great statue (area X5a) and attacks characters on sight with its longer-ranged spells. Thanks to its truesight, the arcanaloth can see the invisible and can see through magical darkness. Characters can't see Neferon unless they can penetrate the magical darkness that envelops the statue's face and head.
+An [[5. Mechanics/Bestiary/Fiend/Arcanaloth.md\|arcanaloth]] named Neferon guards this temple from within the hollow head of the great statue (area X5a) and attacks characters on sight with its longer-ranged spells. Thanks to its [[/5. Mechanics/Rules/Senses.md#truesight\|truesight]], the arcanaloth can see the [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]] and can see through magical darkness. Characters can't see Neferon unless they can penetrate the magical darkness that envelops the statue's face and head.
 
-Once the arcanaloth begins casting spells, the three [[5. Mechanics/Bestiary/Undead/Flameskull.md\|flameskulls]] in area X17 take up positions behind the arrow slits that overlook the temple and cast magic missile and fireball spells at characters they can see.
+Once the arcanaloth begins casting spells, the three [[5. Mechanics/Bestiary/Undead/Flameskull.md\|flameskulls]] in area X17 take up positions behind the arrow slits that overlook the temple and cast [[5. Mechanics/Spells/Magic Missile.md\|magic missile]] and [[5. Mechanics/Spells/Fireball.md\|fireball]] spells at characters they can see.
 
 The temple ceiling is 60 feet high. Wide, black marble staircases ascend 30 feet to the southern balcony (area X4). The balconies that flank the statue (areas X11 and X23) are 30 feet high as well.
 
-Arrow slits cut into the walls of the upper galleries (areas X8 and X17) and archer posts (areas X13 and X25) look down on the temple. The amber glaze that covers the temple walls makes these arrow slits difficult to spot. Characters who have a passive Wisdom (Perception) score of 12 or higher notice them. Creatures behind the arrow slits gain three-quarters cover.
+Arrow slits cut into the walls of the upper galleries (areas X8 and X17) and archer posts (areas X13 and X25) look down on the temple. The amber glaze that covers the temple walls makes these arrow slits difficult to spot. Characters who have a passive Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) score of 12 or higher notice them. Creatures behind the arrow slits gain three-quarters cover.
 
 The marble wizard statues stand 8 feet tall. Their 9-foot-tall golden staffs are made of wrought iron coated in peeling gold paint. The northeast statue fell over when an earth tremor collapsed the wall of its alcove.
 
 ### X5a. God of Secrets
 
-This 40-foot-tall statue, carved out of granite, depicts a faceless god of secrets. At the base of the statue, in the back, is a secret door that can be found with a successful DC 20 Wisdom (Perception) check. It can be pulled open to reveal a spiral staircase that climbs to a stone trapdoor set into the floor of the statue's hollow head.
+This 40-foot-tall statue, carved out of granite, depicts a faceless god of secrets. At the base of the statue, in the back, is a secret door that can be found with a successful DC 20 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check. It can be pulled open to reveal a spiral staircase that climbs to a stone trapdoor set into the floor of the statue's hollow head.
 
 #### Statue's Head
 
@@ -138,20 +138,20 @@ Neferon the [[5. Mechanics/Bestiary/Fiend/Arcanaloth.md\|arcanaloth]] lairs insi
 
 A pair of 2-foot-wide eyeholes provides an unobstructed view of the temple floor south of the statue, as well as the southern balcony (area X4). Looking through the eyes, one can't see the northern balconies (areas X11 and X23), the areas beneath them, or anywhere behind or directly above the statue. The eyeholes grant the arcanaloth three-quarters cover against attacks that originate outside the head.
 
-Neferon wears gold spectacles and a magic robe (see "Treasure" below). It uses its alter self spell and Deception skill to pass itself off as an old human wizard with a long white beard named Heinrich Stolt. "Heinrich" feigns confusion. If the characters ask him why he attacked, he claims that he was guarding the temple. If the arcanaloth loses more than half of its hit points, it teleports to the temple floor, turns invisible, and flees by the safest route, attacking the characters again when it's safe to do so. The arcanaloth will not, under any circumstances, leave the Amber Temple.
+Neferon wears gold spectacles and a magic robe (see "Treasure" below). It uses its [[5. Mechanics/Spells/Alter Self.md\|alter self]] spell and [[/5. Mechanics/Rules/Skills.md#Deception\|Deception]] skill to pass itself off as an old human wizard with a long white beard named Heinrich Stolt. "Heinrich" feigns confusion. If the characters ask him why he attacked, he claims that he was guarding the temple. If the arcanaloth loses more than half of its hit points, it teleports to the temple floor, turns [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]], and flees by the safest route, attacking the characters again when it's safe to do so. The arcanaloth will not, under any circumstances, leave the Amber Temple.
 
 #### Treasure
 
-The arcanaloth carries a spellbook containing the wizard spells it has prepared (see its stat block in the Monster Manual). It wears small gold spectacles with pink crystal lenses (worth 250 gp) and a robe of useful items with the following eight patches remaining:
+The arcanaloth carries a spellbook containing the wizard spells it has prepared (see its stat block in the Monster Manual). It wears small gold spectacles with pink crystal lenses (worth 250 gp) and a [[5. Mechanics/Items/Robe Of Useful Items.md\|robe of useful items]] with the following eight patches remaining:
 
 - Bag of 100 gp  
 - Iron door  
-- Wooden ladder  
-- Riding horse  
+- [[5. Mechanics/Items/Ladder-10 Foot.md\|Wooden ladder]]  
+- [[5. Mechanics/Items/Riding Horse.md\|Riding horse]]  
 - Pit  
-- Rowboat  
-- Spell scroll (moonbeam)  
-- Mastiffs  
+- [[5. Mechanics/Items/Rowboat.md\|Rowboat]]  
+- [[5. Mechanics/Items/Spell Scroll.md\|Spell scroll]] ([[5. Mechanics/Spells/Moonbeam.md\|moonbeam]])  
+- [[5. Mechanics/Items/Mastiff.md\|Mastiffs]]  
 
 See the robe's description in the "Dungeon Master's Guide" for more information on each patch.
 
@@ -161,11 +161,11 @@ If your card reading reveals that a treasure is here, it's lying on the floor in
 
 ### X5b. Secret Door
 
-Set into the middle of the temple's north wall is a secret door. A character who searches the wall for secret doors and succeeds on a DC 20 Wisdom (Perception) check detects seams in the amber glaze that covers the wall, hinting at the presence of the door. It is warded by an arcane lock spell that prevents it from being opened, but knocking on the door three times causes it to swing open for 1 minute, revealing a dusty stone staircase. The stairs climb 30 feet to another secret door that swings open automatically when a creature moves within 5 feet of it. The stairs lead to area X30.
+Set into the middle of the temple's north wall is a secret door. A character who searches the wall for secret doors and succeeds on a DC 20 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check detects seams in the amber glaze that covers the wall, hinting at the presence of the door. It is warded by an [[5. Mechanics/Spells/Arcane Lock.md\|arcane lock]] spell that prevents it from being opened, but knocking on the door three times causes it to swing open for 1 minute, revealing a dusty stone staircase. The stairs climb 30 feet to another secret door that swings open automatically when a creature moves within 5 feet of it. The stairs lead to area X30.
 
 ### X5c. Locked Doors
 
-These amber doors are sealed with an arcane lock spell. The password to suppress it is "Etherna." A character can push open the doors with a successful DC 25 Strength check. The doors (AC 15, 60 hit points) can also be smashed. If they are reduced to 0 hit points, necrotic energy fills the 30-foot cube directly north of the them. A creature in that area takes `dice: 4d10|avg` (`4d10`) necrotic damage, turning to dust if reduced to 0 hit points. Beyond the doors lie the temple catacombs (area X31).
+These amber doors are sealed with an [[5. Mechanics/Spells/Arcane Lock.md\|arcane lock]] spell. The password to suppress it is "Etherna." A character can push open the doors with a successful DC 25 Strength check. The doors (AC 15, 60 hit points) can also be smashed. If they are reduced to 0 hit points, necrotic energy fills the 30-foot cube directly north of the them. A creature in that area takes `dice: 4d10|avg` (`4d10`) necrotic damage, turning to dust if reduced to 0 hit points. Beyond the doors lie the temple catacombs (area X31).
 
 ### X5d. Amber Reflections
 
@@ -216,11 +216,11 @@ The cracks in the floor were made by the golem in area X10. The arrow slits are 
 > This chamber is brightly lit by red copper lanthorns that hang from the ceiling. The walls are sheathed in amber that has been shaped into bas-reliefs of wizards with spellbooks. Stairs to the north and south descend twenty feet to an obsidian lectern, behind which a slab of black slate hangs from chains. Between the stairs are descending rows of red marble benches. 
 ^5f1
 
-The hanging lanthorns have continual flame spells cast on them. The black slate slab once served as a chalkboard and has a few chalk marks on it.
+The hanging lanthorns have [[5. Mechanics/Spells/Continual Flame.md\|continual flame]] spells cast on them. The black slate slab once served as a chalkboard and has a few chalk marks on it.
 
 ![[6. Resources/5e Modules/Curse Of Strahd/img/119-cos13-03.webp#center\|Vilnius and Quasit]]
 
-Hiding behind the lectern is [[4. World Almanac/NPCs/Vilnius.md\|Vilnius]] (NE male human [[5. Mechanics/Bestiary/Humanoid/Mage.md\|mage]]) and his invisible [[5. Mechanics/Bestiary/Fiend/Quasit.md\|quasit]] familiar. Characters who have a passive Wisdom (Perception) score of 17 or higher notice him. A character who actively searches the room for hidden occupants spots [[4. World Almanac/NPCs/Vilnius.md\|Vilnius]] with a successful DC 12 Wisdom (Perception) check.
+Hiding behind the lectern is [[4. World Almanac/NPCs/Vilnius.md\|Vilnius]] (NE male human [[5. Mechanics/Bestiary/Humanoid/Mage.md\|mage]]) and his [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]] [[5. Mechanics/Bestiary/Fiend/Quasit.md\|quasit]] familiar. Characters who have a passive Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) score of 17 or higher notice him. A character who actively searches the room for hidden occupants spots [[4. World Almanac/NPCs/Vilnius.md\|Vilnius]] with a successful DC 12 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check.
 
 [[4. World Almanac/NPCs/Vilnius.md\|Vilnius]] wears scorched robes, his unkempt hair is half burned away, and his face and arms are covered with blisters from magic fire. He is the apprentice of Jakarion, the dead wizard in area X17. After the flameskulls there incinerated his master, the wounded [[4. World Almanac/NPCs/Vilnius.md\|Vilnius]] retreated here. He eats vermin to survive. The [[5. Mechanics/Bestiary/Construct/Amber Golem (COS).md\|amber golem]] has been patrolling the hallway outside (area X8), and [[4. World Almanac/NPCs/Vilnius.md\|Vilnius]] won't leave this room until he knows the golem has been destroyed.
 
@@ -232,7 +232,7 @@ Hiding behind the lectern is [[4. World Almanac/NPCs/Vilnius.md\|Vilnius]] (NE m
 
 #### Treasure
 
-[[4. World Almanac/NPCs/Vilnius.md\|Vilnius]] carries his spellbook, which contains all the spells he has prepared. He also has a gold amulet shaped like an upside-down V hidden under his robes. Of exquisite design, the amulet is worth 1,000 gp. It is the control amulet for the [[5. Mechanics/Bestiary/Construct/Shield Guardian.md\|shield guardian]] in area X35.
+[[4. World Almanac/NPCs/Vilnius.md\|Vilnius]] carries his spellbook, which contains all the spells he has prepared. He also has a gold amulet shaped like an upside-down V hidden under his robes. Of exquisite design, the amulet is worth 1,000 gp. It is the [[5. Mechanics/Items/Masters Amulet.md\|control amulet]] for the [[5. Mechanics/Bestiary/Construct/Shield Guardian.md\|shield guardian]] in area X35.
 
 Although he can tell that the amulet is magical, he doesn't know its purpose. The amulet thrums when it comes within 10 feet of the shield guardian. If [[4. World Almanac/NPCs/Vilnius.md\|Vilnius]] realizes what the amulet does, he won't part with it.
 
@@ -300,7 +300,7 @@ Unless the characters douse their light sources and move quietly, the creatures 
 
 ### X15. Southwest Annex
 
-This room contains a [[5. Mechanics/Bestiary/Humanoid/Gladiator.md\|gladiator]] (CE female human), five [[5. Mechanics/Bestiary/Humanoid/Berserker.md\|berserkers]] (CE male and female humans), and one [[5. Mechanics/Bestiary/Beast/Dire Wolf.md\|dire wolf]]. The gladiator and the berserkers are bloodthirsty mountain folk, the dire wolf a servant of Strahd. The dire wolf can't be charmed or frightened.
+This room contains a [[5. Mechanics/Bestiary/Humanoid/Gladiator.md\|gladiator]] (CE female human), five [[5. Mechanics/Bestiary/Humanoid/Berserker.md\|berserkers]] (CE male and female humans), and one [[5. Mechanics/Bestiary/Beast/Dire Wolf.md\|dire wolf]]. The gladiator and the berserkers are bloodthirsty mountain folk, the dire wolf a servant of Strahd. The dire wolf can't be [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] or [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]].
 
 When they aren't expecting trouble, the gladiator and the berserkers sit on the floor, sharpening their weapons, while the dire wolf sleeps in the middle of the room. The gladiator and the berserkers fight to the death. The dire wolf flees the temple (heading east, through areas X4 and X2) if reduced to fewer than half its hit points.
 
@@ -338,7 +338,7 @@ The arrow slits look down on the temple (area X5).
 
 #### Treasure
 
-Although the dead wizard's spellbook didn't survive, his staff did. It is a staff of frost. Imprinted on it is a fragment of the wizard's personality. The first character who touches the staff gains the following flaw: "I crave power above all else, and will do anything to obtain more of it." This flaw trumps any conflicting personality trait.
+Although the dead wizard's spellbook didn't survive, his staff did. It is a [[5. Mechanics/Items/Staff Of Frost.md\|staff of frost]]. Imprinted on it is a fragment of the wizard's personality. The first character who touches the staff gains the following flaw: "I crave power above all else, and will do anything to obtain more of it." This flaw trumps any conflicting personality trait.
 
 ### X18. Hallway
 
@@ -373,7 +373,7 @@ The ceiling here is 15 feet high. A secret door in the south wall can be pulled 
 
 #### Treasure
 
-The wooden chest contains an old map case in which Artimus kept floor plans of Castle Ravenloft, but the maps were lost long ago. The chest has a false bottom that can be found with a successful DC 10 Wisdom (Perception) check. Inside the hidden compartment is a tome of understanding.
+The wooden chest contains an old map case in which Artimus kept floor plans of Castle Ravenloft, but the maps were lost long ago. The chest has a false bottom that can be found with a successful DC 10 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check. Inside the hidden compartment is a [[5. Mechanics/Items/Tome Of Understanding.md\|tome of understanding]].
 
 #### Fortunes of Ravenloft
 
@@ -396,9 +396,9 @@ When one of the doors to this room is opened, read:
 
 The ceiling here is 20 feet high. Amber doors lead south to a hallway (area X18) and east to a shattered balcony (area X23).
 
-The table is real, but the torches, the feast, and the chairs are illusions created by a programmed illusion spell that triggers when a door to the room is opened. The illusion can be dispelled (DC 17).
+The table is real, but the torches, the feast, and the chairs are illusions created by a [[5. Mechanics/Spells/Programmed Illusion.md\|programmed illusion]] spell that triggers when a door to the room is opened. The illusion can be dispelled (DC 17).
 
-Hidden in plain sight amid the feast on the table is a green copper ewer embossed with images of dancing bears, elks, and wolves. The ewer, like the table, isn't illusory. A detect magic spell reveals an aura of transmutation magic around the ewer. If a character picks up the ewer, the illusions fade away (including the torches and their light), and seven [[5. Mechanics/Bestiary/Undead/Specter.md\|specters]] materialize and attack whoever has the ewer.
+Hidden in plain sight amid the feast on the table is a green copper ewer embossed with images of dancing bears, elks, and wolves. The ewer, like the table, isn't illusory. A [[5. Mechanics/Spells/Detect Magic.md\|detect magic]] spell reveals an aura of transmutation magic around the ewer. If a character picks up the ewer, the illusions fade away (including the torches and their light), and seven [[5. Mechanics/Bestiary/Undead/Specter.md\|specters]] materialize and attack whoever has the ewer.
 
 #### Treasure
 
@@ -424,7 +424,7 @@ Characters can see an arrow slit east of the northern set of doors (see area X25
 > This bare stone room consists of a foyer to the east and a shrine to the west. Candlesticks draped in cobwebs stand in the four corners of the foyer. In the shrine, a faceless obsidian statue stands in a raised alcove at the western end of the chamber. Slumped before the statue are two desiccated corpses in tattered garments. Two pairs of alcoves line the north and south walls of the shrine.
 ^616
 
-The obsidian statue is 4 feet tall, weighs 250 pounds, and depicts the same nameless god that stands watch in the main temple (area X5). Any living creature that enters this room must succeed on a DC 16 Wisdom saving throw or be drawn to the statue as though affected by the sympathy effect of an antipathy/sympathy spell. The corpses lying in front of the statue are the remains of two human wizards who came here separately, failed their saving throws, and starved to death while under the spell's effect. The lich in area X27 destroyed the wizards' spellbooks and other possessions. Covering the statue or removing it from this shrine suppresses its magic and ends its sympathy effect on anyone.
+The obsidian statue is 4 feet tall, weighs 250 pounds, and depicts the same nameless god that stands watch in the main temple (area X5). Any living creature that enters this room must succeed on a DC 16 Wisdom saving throw or be drawn to the statue as though affected by the sympathy effect of an [antipathy/sympathy](compendium/spells/antipathy-sympathy.md) spell. The corpses lying in front of the statue are the remains of two human wizards who came here separately, failed their saving throws, and starved to death while under the spell's effect. The lich in area X27 destroyed the wizards' spellbooks and other possessions. Covering the statue or removing it from this shrine suppresses its magic and ends its sympathy effect on anyone.
 
 A pair of amber doors in the east wall open into area X25. A secret door is set in the back of one of the northern alcoves. Pulling it open releases hundreds of skulls (see area X26).
 
@@ -453,9 +453,9 @@ This room has a 30-foot-high ceiling and is packed floor to ceiling with human s
 > Attached to the thirty-foot-high ceiling of this dark sepulcher is an upside-down iron chest with a barrel-shaped lid.
 ^61c
 
-The iron chest on the ceiling is held in place with sovereign glue, and its lid is sealed with an arcane lock spell. The chest is impervious to weapon damage. Prying it open requires a successful DC 25 Strength check, assuming the characters can reach it. The inside of the chest is lined with lead.
+The iron chest on the ceiling is held in place with [[5. Mechanics/Items/Sovereign Glue.md\|sovereign glue]], and its lid is sealed with an [[5. Mechanics/Spells/Arcane Lock.md\|arcane lock]] spell. The chest is impervious to weapon damage. Prying it open requires a successful DC 25 Strength check, assuming the characters can reach it. The inside of the chest is lined with lead.
 
-If the chest's lid is opened, the floor of this room disappears (as if affected by a disintegrate spell), creating a 10-foot-square hole above area X39. Creatures standing on the floor when it disappears fall 30 feet, landing in the northwest corner of area X39.
+If the chest's lid is opened, the floor of this room disappears (as if affected by a [[5. Mechanics/Spells/Disintegrate.md\|disintegrate]] spell), creating a 10-foot-square hole above area X39. Creatures standing on the floor when it disappears fall 30 feet, landing in the northwest corner of area X39.
 
 The iron chest is empty.
 
@@ -468,7 +468,7 @@ The iron chest is empty.
 > Red pinpoints of light burn in the skeleton's eye sockets. "Do I know you?" it asks.
 ^61e
 
-The [[5. Mechanics/Bestiary/Undead/Lich.md\|lich]] has fewer hit points than normal (99 hit points), doesn't remember its name ([[4. World Almanac/NPCs/Exethanter.md\|Exethanter]]), and has forgotten all of its prepared spells. It does know its cantrips. In its current condition, the lich has a challenge rating of 10 (5,900 XP). A greater restoration spell restores the lich's memory and all of its spells. Another casting of the spell restores its normal hit point maximum (135).
+The [[5. Mechanics/Bestiary/Undead/Lich.md\|lich]] has fewer hit points than normal (99 hit points), doesn't remember its name ([[4. World Almanac/NPCs/Exethanter.md\|Exethanter]]), and has forgotten all of its prepared spells. It does know its cantrips. In its current condition, the lich has a challenge rating of 10 (5,900 XP). A [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell restores the lich's memory and all of its spells. Another casting of the spell restores its normal hit point maximum (135).
 
 If the characters restore its memory, the lich gives them the passwords to all the locked doors in the Amber Temple (with the exception of the door into area X28, where its phylactery is hidden). It also provides all the information pertaining to Strahd and the temple presented at the start of this chapter. If the characters think to ask, it provides them with the command words for any of the books in the library (area K30).
 
@@ -480,7 +480,7 @@ The lich assumes that the characters have come seeking knowledge and power. If i
 
 The furnishings here are in poor condition and fall apart easily.
 
-There are three secret doors in this room. The secret door to area X28 has an arcane lock spell cast on it. The password to suppress the spell is "[[4. World Almanac/NPCs/Exethanter.md\|Exethanter]]."
+There are three secret doors in this room. The secret door to area X28 has an [[5. Mechanics/Spells/Arcane Lock.md\|arcane lock]] spell cast on it. The password to suppress the spell is "[[4. World Almanac/NPCs/Exethanter.md\|Exethanter]]."
 
 #### Treasure
 
@@ -488,7 +488,7 @@ The lich's ancient, bronze-covered spellbook sits on a rotted divan, in plain vi
 
 ### X28. Hidden Phylactery
 
-The secret door to this room has an arcane lock spell cast on it (see area X27 for details).
+The secret door to this room has an [[5. Mechanics/Spells/Arcane Lock.md\|arcane lock]] spell cast on it (see area X27 for details).
 
 > [!readaloud] 
 > 
@@ -515,7 +515,7 @@ The ceiling here is 10 feet high.
 
 The spiral staircase descends 30 feet to area X42. Peering over the railing reveals crates in that area.
 
-There are no ladders here to reach the high bookshelves. (The wizards who built this place used mage hand spells.) All the books appear to have blank covers and empty pages. Holding a book while speaking its secret command word causes the book's text to magically appear. Only the lich in area X27 knows the command word for each book, and only if its memory is restored. A true seeing spell also allows one to see the magically obfuscated text. The tomes mostly contain vile, forbidden lore. Many spellbooks are hidden here, collectively holding every wizard spell in the "Player's Handbook".
+There are no ladders here to reach the high bookshelves. (The wizards who built this place used [[5. Mechanics/Spells/Mage Hand.md\|mage hand]] spells.) All the books appear to have blank covers and empty pages. Holding a book while speaking its secret command word causes the book's text to magically appear. Only the lich in area X27 knows the command word for each book, and only if its memory is restored. A [[5. Mechanics/Spells/True Seeing.md\|true seeing]] spell also allows one to see the magically obfuscated text. The tomes mostly contain vile, forbidden lore. Many spellbooks are hidden here, collectively holding every wizard spell in the "Player's Handbook".
 
 A book that is taken from the library disintegrates as the magic that preserves it is dispelled. The room's furnishings, which are also magically preserved, deteriorate and become brittle if taken from the room.
 
@@ -572,7 +572,7 @@ An earth tremor collapsed the northern part of the hall. Three [[5. Mechanics/Be
 
 #### Development
 
-If two of the witches are killed or incapacitated, the surviving witch attempts to escape by flying away on her broom. Only the witches can use the brooms of animated attack in this fashion.
+If two of the witches are killed or [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]], the surviving witch attempts to escape by flying away on her broom. Only the witches can use the brooms of animated attack in this fashion.
 
 > [!note] Amber Sarcophagi
 > 
@@ -580,11 +580,11 @@ If two of the witches are killed or incapacitated, the surviving witch attempts 
 > 
 > An amber sarcophagus has AC 16, 80 hit points, and immunity to poison and psychic damage. Destroying one causes the vestige trapped within it to disappear, leaving no trace. You choose whether it is banished or destroyed.
 > 
-> A creature that touches the amber sarcophagus forms a telepathic link with the vestige inside. The vestige offers the creature a dark gift. The creature must willingly accept the gift to gain its benefits. A dark gift is described to the creature in general terms; its precise game effect isn't revealed until the creature accepts the gift. For example, a creature that touches Fekre's sarcophagus in area X33a is offered the power to spread disease. That the gift grants the ability to cast the contagion spell is not articulated.
+> A creature that touches the amber sarcophagus forms a telepathic link with the vestige inside. The vestige offers the creature a dark gift. The creature must willingly accept the gift to gain its benefits. A dark gift is described to the creature in general terms; its precise game effect isn't revealed until the creature accepts the gift. For example, a creature that touches Fekre's sarcophagus in area X33a is offered the power to spread disease. That the gift grants the ability to cast the [[5. Mechanics/Spells/Contagion.md\|contagion]] spell is not articulated.
 > 
 > A dark gift functions like a charm (see ""Supernatural Gifts"" in chapter 7, "Treasure," of the "Dungeon Master's Guide"). A creature doesn't receive a dark gift if it is being manipulated or coerced, or if it declines the gift. Once it receives a dark gift, a creature can never receive that same dark gift again.
 > 
-> The instant a dark gift is bestowed, the creature receiving it undergoes a transformation, gaining a sinister physical trait or flaw, or one of each. Unless the text states otherwise, a trait or a flaw that accompanies this gift can't be removed by anything short of a wish spell or divine intervention.
+> The instant a dark gift is bestowed, the creature receiving it undergoes a transformation, gaining a sinister physical trait or flaw, or one of each. Unless the text states otherwise, a trait or a flaw that accompanies this gift can't be removed by anything short of a [[5. Mechanics/Spells/Wish.md\|wish]] spell or divine intervention.
 > 
 > Each time a non-evil creature accepts a dark gift, it must make a DC 12 Charisma saving throw. If the saving throw fails, the creature's alignment changes to evil. A character who turns evil becomes an NPC under the Dungeon Master's control, although the DM can allow the player to continue playing the evil character.
 ^amber-sarcophagi
@@ -595,7 +595,7 @@ Several of these amber-glazed rooms are located along the periphery of the compl
 
 #### X33a. Vault of Shalx
 
-The amber door to this room is sealed with an arcane lock spell. The password to suppress the spell is "Shalx." A character can push open the doors with a successful DC 25 Strength check. The door (AC 15, 30 hit points) can also be smashed. If the door is reduced to 0 hit points, necrotic energy fills the 30-foot cube directly in front of it. A creature in the area takes `dice: 4d10|avg` (`4d10`) necrotic damage, turning to dust and bones if reduced to 0 hit points.
+The amber door to this room is sealed with an [[5. Mechanics/Spells/Arcane Lock.md\|arcane lock]] spell. The password to suppress the spell is "Shalx." A character can push open the doors with a successful DC 25 Strength check. The door (AC 15, 30 hit points) can also be smashed. If the door is reduced to 0 hit points, necrotic energy fills the 30-foot cube directly in front of it. A creature in the area takes `dice: 4d10|avg` (`4d10`) necrotic damage, turning to dust and bones if reduced to 0 hit points.
 
 Adjust the following text if the creatures in this room have already been encountered and destroyed.
 
@@ -612,25 +612,25 @@ Characters who touch the amber sarcophagi are offered dark gifts by the evil ves
 
 ##### West Sarcophagus
 
-The vestige within this sarcophagus offers the dark gift of Fekre, Queen of Poxes. Fekre's gift is the power of spreading disease. This dark gift allows its beneficiary to cast the contagion spell as an action. After it has been used three times, the dark gift vanishes.
+The vestige within this sarcophagus offers the dark gift of Fekre, Queen of Poxes. Fekre's gift is the power of spreading disease. This dark gift allows its beneficiary to cast the [[5. Mechanics/Spells/Contagion.md\|contagion]] spell as an action. After it has been used three times, the dark gift vanishes.
 
 The beneficiary of this dark gift reeks of filth.
 
 ##### South Sarcophagus
 
-The vestige within this sarcophagus offers the dark gift of Zrin-Hala, the Howling Storm. Zrin-Hala's gift is the power to create lightning. This dark gift allows its beneficiary to cast the lightning bolt spell as an action. After it has been used three times, the dark gift vanishes.
+The vestige within this sarcophagus offers the dark gift of Zrin-Hala, the Howling Storm. Zrin-Hala's gift is the power to create lightning. This dark gift allows its beneficiary to cast the [[5. Mechanics/Spells/Lightning Bolt.md\|lightning bolt]] spell as an action. After it has been used three times, the dark gift vanishes.
 
 As soon as this dark gift is received, one side of the beneficiary's face sags and loses all feeling.
 
 ##### East Sarcophagus
 
-The vestige within this sarcophagus offers the dark gift of Sykane, the Soul Hungerer. Sykane's gift is the power to raise the recently deceased. This dark gift allows its beneficiary to cast the raise dead spell as an action. After it has been used three times, the dark gift vanishes.
+The vestige within this sarcophagus offers the dark gift of Sykane, the Soul Hungerer. Sykane's gift is the power to raise the recently deceased. This dark gift allows its beneficiary to cast the [[5. Mechanics/Spells/Raise Dead.md\|raise dead]] spell as an action. After it has been used three times, the dark gift vanishes.
 
 As soon as this dark gift is received, the beneficiary's eyes glow a sickly yellow until the dark gift vanishes. The beneficiary also gains the following flaw: "If I help someone, I expect payment in return."
 
 #### X33b. Vault of Maverus
 
-The amber door to this room is sealed with an arcane lock spell. The password to suppress the spell is "Maverus." The door is otherwise identical to the door of area X33a.
+The amber door to this room is sealed with an [[5. Mechanics/Spells/Arcane Lock.md\|arcane lock]] spell. The password to suppress the spell is "Maverus." The door is otherwise identical to the door of area X33a.
 
 > [!readaloud] 
 > 
@@ -641,7 +641,7 @@ The ceiling here is 10 feet high. Characters who touch the amber sarcophagi are 
 
 ##### North Sarcophagus
 
-The vestige within this sarcophagus offers the dark gift of Savnok the Inscrutible. Savnok's gift is the power to shield the mind. This dark gift takes the form of a mind blank spell cast on the beneficiary. The spell has an extended duration of 1 year, after which the dark gift vanishes.
+The vestige within this sarcophagus offers the dark gift of Savnok the Inscrutible. Savnok's gift is the power to shield the mind. This dark gift takes the form of a [[5. Mechanics/Spells/Mind Blank.md\|mind blank]] spell cast on the beneficiary. The spell has an extended duration of 1 year, after which the dark gift vanishes.
 
 The beneficiary's eyes melt away upon receiving this dark gift, leaving empty sockets that can still see.
 
@@ -653,7 +653,7 @@ The beneficiary of this dark gift must eat bones or grave dirt to survive. At da
 
 ##### South Sarcophagus
 
-The vestige within this sarcophagus offers the dark gift of Shami-Amourae, the Lady of Delights. Shami-Amourae's gift is the power of persuasion. This dark gift allows its beneficiary to cast the suggestion spell as an action, and saving throws against the spell have disadvantage. After it has been used three times, the dark gift vanishes.
+The vestige within this sarcophagus offers the dark gift of Shami-Amourae, the Lady of Delights. Shami-Amourae's gift is the power of persuasion. This dark gift allows its beneficiary to cast the [[5. Mechanics/Spells/Suggestion.md\|suggestion]] spell as an action, and saving throws against the spell have disadvantage. After it has been used three times, the dark gift vanishes.
 
 The beneficiary of this dark gift gains an extra finger on each hand, as well as the following flaw: "I can't get enough pleasure. I desire others to create beauty for me at all times."
 
@@ -682,7 +682,7 @@ The beneficiary of this dark gift grows an extra eye somewhere on its body. The 
 
 ##### East Sarcophagus
 
-The vestige within this sarcophagus offers the dark gift of Dahlver-Nar, He of the Many Teeth. Dahlver-Nar's gift is the power to live many lives. Upon receiving this dark gift, the beneficiary instantly reincarnates when it dies, as though it was the target of a reincarnate spell. The new body appears within 10 feet of the old one. After it has been used three times, the dark gift vanishes.
+The vestige within this sarcophagus offers the dark gift of Dahlver-Nar, He of the Many Teeth. Dahlver-Nar's gift is the power to live many lives. Upon receiving this dark gift, the beneficiary instantly reincarnates when it dies, as though it was the target of a [[5. Mechanics/Spells/Reincarnate.md\|reincarnate]] spell. The new body appears within 10 feet of the old one. After it has been used three times, the dark gift vanishes.
 
 The beneficiary of this dark gift loses all of its teeth until it reincarnates for the third and final time.
 
@@ -707,7 +707,7 @@ Characters who touch the amber sarcophagi are offered dark gifts by the evil ves
 
 ##### West Sarcophagus
 
-The vestige within this sarcophagus offers the dark gift of Delban, the Star of Ice and Hate. Delban's gift is the power to unleash deadly cold. This dark gift allows its beneficiary to cast the cone of cold spell as an action. After it has been used seven times, the dark gift vanishes. Until it vanishes, the beneficiary also gains the benefits of a ring of warmth.
+The vestige within this sarcophagus offers the dark gift of Delban, the Star of Ice and Hate. Delban's gift is the power to unleash deadly cold. This dark gift allows its beneficiary to cast the [[5. Mechanics/Spells/Cone Of Cold.md\|cone of cold]] spell as an action. After it has been used seven times, the dark gift vanishes. Until it vanishes, the beneficiary also gains the benefits of a [[5. Mechanics/Items/Ring Of Warmth.md\|ring of warmth]].
 
 The beneficiary of this dark gift gains the following flaw: "Fire terrifies me."
 
@@ -717,32 +717,32 @@ This sarcophagus has been shattered in a way that suggests the vestige inside it
 
 ##### East Sarcophagus
 
-The vestige within this sarcophagus offers the dark gift of Khirad, the Star of Secrets. Khirad's gift is the power of divination. This gift allows its beneficiary to cast the scrying spell as an action. After it has been used three times, the dark gift vanishes.
+The vestige within this sarcophagus offers the dark gift of Khirad, the Star of Secrets. Khirad's gift is the power of divination. This gift allows its beneficiary to cast the [[5. Mechanics/Spells/Scrying.md\|scrying]] spell as an action. After it has been used three times, the dark gift vanishes.
 
 The beneficiary's voice becomes a low whisper, and its smile becomes cruel and evil.
 
 #### X33e. Vault of Harkotha
 
-The amber door to this room is sealed with an arcane lock spell. The password to suppress the spell is "Harkotha." The door is otherwise identical to the door of area X33a.
+The amber door to this room is sealed with an [[5. Mechanics/Spells/Arcane Lock.md\|arcane lock]] spell. The password to suppress the spell is "Harkotha." The door is otherwise identical to the door of area X33a.
 
 > [!readaloud] 
 > 
 > This room has amber-glazed walls, a black marble floor with red veins, and three amber sarcophagi standing in alcoves.
 ^649
 
-In the center of the room, a [[5. Mechanics/Bestiary/Aberration/Death Slaad.md\|death slaad]] has cast invisibility on itself and stands ready with its greatsword in hand. The slaad attacks anyone who enters the room, fighting until slain. It can't leave the Amber Temple.
+In the center of the room, a [[5. Mechanics/Bestiary/Aberration/Death Slaad.md\|death slaad]] has cast [[5. Mechanics/Spells/Invisibility.md\|invisibility]] on itself and stands ready with its greatsword in hand. The slaad attacks anyone who enters the room, fighting until slain. It can't leave the Amber Temple.
 
 Characters who touch the amber sarcophagi are offered dark gifts by the evil vestiges contained within them (see the "Amber Sarcophagi" sidebar).
 
 ##### North Sarcophagus
 
-The vestige within this sarcophagus offers the dark gift of Yrrga, the Eye of Shadows. Yrrga's gift is the power of true seeing. This dark gift grants its beneficiary the benefits of truesight out to a range of 60 feet. These benefits last for 30 days, after which the dark gift vanishes.
+The vestige within this sarcophagus offers the dark gift of Yrrga, the Eye of Shadows. Yrrga's gift is the power of true seeing. This dark gift grants its beneficiary the benefits of [[/5. Mechanics/Rules/Senses.md#truesight\|truesight]] out to a range of 60 feet. These benefits last for 30 days, after which the dark gift vanishes.
 
 The eyes of the beneficiary become starry voids until the dark gift vanishes. The beneficiary of this dark gift also gains the following flaw: "I believe that all life is pointless and look forward to death when it finally comes."
 
 ##### West Sarcophagus
 
-The vestige within this sarcophagus offers the dark gift of Great Taar Haak, the Five-Headed Destroyer. Taar Haak's gift is great strength. This dark gift grants its beneficiary the benefit of a belt of fire giant strength. This benefit lasts for 10 days, after which the dark giftvanishes.
+The vestige within this sarcophagus offers the dark gift of Great Taar Haak, the Five-Headed Destroyer. Taar Haak's gift is great strength. This dark gift grants its beneficiary the benefit of a [[5. Mechanics/Items/Belt Of Fire Giant Strength.md\|belt of fire giant strength]]. This benefit lasts for 10 days, after which the dark giftvanishes.
 
 The beneficiary of this dark gift the following flaw: "I like to bully others and make them feel weak and inferior."
 
@@ -754,7 +754,7 @@ Oily black fur covers the beneficiary's face and body.
 
 #### X33f. Vault of Thangob
 
-The amber door to this room is sealed with an arcane lock spell. The password to suppress the spell is "Thangob." The door is otherwise identical to the door of area X33a.
+The amber door to this room is sealed with an [[5. Mechanics/Spells/Arcane Lock.md\|arcane lock]] spell. The password to suppress the spell is "Thangob." The door is otherwise identical to the door of area X33a.
 
 > [!readaloud] 
 > 
@@ -765,13 +765,13 @@ Characters who touch the amber sarcophagi are offered dark gifts by the evil ves
 
 ##### West Sarcophagus
 
-The vestige within this sarcophagus offers the dark gift of Norganas, the Finger of Oblivion. Norganas's gift is the power to turn life into undeath. This dark gift allows its beneficiary to cast the finger of death spell as an action. After it has been used three times, the dark gift vanishes. When it vanishes, the beneficiary must succeed on a DC 15 Constitution saving throw or drop to 0 hit points.
+The vestige within this sarcophagus offers the dark gift of Norganas, the Finger of Oblivion. Norganas's gift is the power to turn life into undeath. This dark gift allows its beneficiary to cast the [[5. Mechanics/Spells/Finger Of Death.md\|finger of death]] spell as an action. After it has been used three times, the dark gift vanishes. When it vanishes, the beneficiary must succeed on a DC 15 Constitution saving throw or drop to 0 hit points.
 
 This dark gift turns the beneficiary's blood pitch black and viscid, like tar.
 
 ##### South Sarcophagus
 
-The vestige within this sarcophagus offers the dark gift of Vaund the Evasive. Vaund's gift is the power of evasion. This dark gift grants its beneficiary the benefits of an amulet of proof against detection and location and a ring of evasion. These benefits last for 10 days, after which the dark gift vanishes.
+The vestige within this sarcophagus offers the dark gift of Vaund the Evasive. Vaund's gift is the power of evasion. This dark gift grants its beneficiary the benefits of an [[5. Mechanics/Items/Amulet Of Proof Against Detection And Location.md\|amulet of proof against detection and location]] and a [[5. Mechanics/Items/Ring Of Evasion.md\|ring of evasion]]. These benefits last for 10 days, after which the dark gift vanishes.
 
 The beneficiary of this dark gift becomes twitchy and nervous, and also gains the following flaw: "I can't give a straight answer to any question put to me."
 
@@ -801,7 +801,7 @@ The four golden hawks are worth 250 gp each.
 > The furnishings of this bare stone room have succumbed to decrepitude. Standing in the center of the room, its head scraping the ten-foot-high ceiling, is a vaguely man-shaped construct made of dark wood and riveted iron. Its helmed head stares blindly in your direction. Cobwebs stretch from this terrible artifice to the wrecked furniture that surrounds it.
 ^656
 
-This room was once a wizard's bedchamber. The construct is an incapacitated [[5. Mechanics/Bestiary/Construct/Shield Guardian.md\|shield guardian]]. Its control amulet can be found in area X9.
+This room was once a wizard's bedchamber. The construct is an [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]] [[5. Mechanics/Bestiary/Construct/Shield Guardian.md\|shield guardian]]. Its control amulet can be found in area X9.
 
 ### X36. Lower West Hall
 
@@ -832,7 +832,7 @@ The ceiling here is 10 feet high. A [[5. Mechanics/Bestiary/Undead/Poltergeist.m
 
 #### Treasure
 
-A search of the room yields a wooden scroll tube containing an intact spell scroll of wall of fire.
+A search of the room yields a wooden scroll tube containing an intact [[5. Mechanics/Items/Spell Scroll.md\|spell scroll]] of [[5. Mechanics/Spells/Wall Of Fire.md\|wall of fire]].
 
 ### X39. Plundered Treasury
 
@@ -849,7 +849,7 @@ Not all of the thieves escaped, and the pulverized remains of those who died her
 
 ### X40. Sealed Treasury
 
-The amber doors to the south are sealed with an arcane lock spell. The password to suppress the spell is "Dhaviton." A character can push open the doors with a successful DC 25 Strength check. The doors (AC 15, 60 hit points) can also be smashed. If the doors are reduced to 0 hit points, a greater invisibility spell is cast on the [[5. Mechanics/Bestiary/Construct/Amber Golem (COS).md\|amber golem]] in this room. The spell lasts for 1 minute.
+The amber doors to the south are sealed with an [[5. Mechanics/Spells/Arcane Lock.md\|arcane lock]] spell. The password to suppress the spell is "Dhaviton." A character can push open the doors with a successful DC 25 Strength check. The doors (AC 15, 60 hit points) can also be smashed. If the doors are reduced to 0 hit points, a [[5. Mechanics/Spells/Greater Invisibility.md\|greater invisibility]] spell is cast on the [[5. Mechanics/Bestiary/Construct/Amber Golem (COS).md\|amber golem]] in this room. The spell lasts for 1 minute.
 
 > [!readaloud] 
 > 
@@ -885,7 +885,7 @@ Six piles of treasure are numbered on the map.
 
 - 12,000 sp (loose)  
 - Five rusted suits of ring mail and six rusted breastplates (worthless)  
-- A silvered rapier with a pink glass hilt  
+- A silvered [[5. Mechanics/Items/Rapier.md\|rapier]] with a pink glass hilt  
 - Four rusted greatswords (worthless)  
 - A gilded chariot (worth 750 gp)  
 
@@ -900,10 +900,10 @@ Six piles of treasure are numbered on the map.
 **Pile 4**
 
 - A pile of iron ingots (worth 250 gp total and weighing 2,500 pounds)  
-- Thirty holy symbols (worth 5 gp each) of gods from various worlds  
+- Thirty [[5. Mechanics/Items/Holy Symbol.md\|holy symbols]] (worth 5 gp each) of gods from various worlds  
 - A set of twelve copper chalices with silver filigree (worth 25 gp each)  
 - A gilded skull with red garnets in its eye sockets (worth 250 gp)  
-- Eight warhammers and six war picks  
+- Eight [[5. Mechanics/Items/Warhammer.md\|warhammers]] and six [[5. Mechanics/Items/War Pick.md\|war picks]]  
 
 **Pile 5**
 
@@ -976,7 +976,7 @@ The beneficiary of this dark gift gains the following flaw: "All I care about is
 
 ##### East Sarcophagus
 
-The vestige within this sarcophagus offers the dark gift of Zhudun, the Corpse Star. Zhudun's gift is the power to raise the ancient dead. As an action, the beneficiary of this dark gift can touch the remains of a dead creature and restore it to life. The effect is identical to that of the resurrection spell, except that it works regardless of how long the creature has been dead. After it has been used once, the dark gift vanishes.
+The vestige within this sarcophagus offers the dark gift of Zhudun, the Corpse Star. Zhudun's gift is the power to raise the ancient dead. As an action, the beneficiary of this dark gift can touch the remains of a dead creature and restore it to life. The effect is identical to that of the [[5. Mechanics/Spells/Resurrection.md\|resurrection]] spell, except that it works regardless of how long the creature has been dead. After it has been used once, the dark gift vanishes.
 
 The beneficiary of this dark gift takes on a corpselike appearance and is easily mistaken for an undead.
 
@@ -988,7 +988,7 @@ Two dusk elves are drawn to the Amber Temple for different reasons. You can use 
 
 Strahd's loyal chamberlain, [[4. World Almanac/NPCs/Rahadin.md\|Rahadin]] (see appendix D), believes that his master forged a pact with the nameless god of secrets to whom the Amber Temple is dedicated. The dusk elf comes to the temple on occasion to petition the dark god into releasing his master from his torment.
 
-[[4. World Almanac/NPCs/Rahadin.md\|Rahadin]] rides a phantom steed along Tsolenka Pass to the Amber Temple and kneels before the great statue in area X5. (The arcanaloth that guards the temple knows [[4. World Almanac/NPCs/Rahadin.md\|Rahadin]] and doesn't harm him. The arcanaloth and the flameskulls don't attack other visitors until [[4. World Almanac/NPCs/Rahadin.md\|Rahadin]] is killed or leaves.) [[4. World Almanac/NPCs/Rahadin.md\|Rahadin]] then pulls out a live toad, swallows it whole as a sacrifice, and offers a gesture of supplication to the secret god.
+[[4. World Almanac/NPCs/Rahadin.md\|Rahadin]] rides a [[5. Mechanics/Spells/Phantom Steed.md\|phantom steed]] along Tsolenka Pass to the Amber Temple and kneels before the great statue in area X5. (The arcanaloth that guards the temple knows [[4. World Almanac/NPCs/Rahadin.md\|Rahadin]] and doesn't harm him. The arcanaloth and the flameskulls don't attack other visitors until [[4. World Almanac/NPCs/Rahadin.md\|Rahadin]] is killed or leaves.) [[4. World Almanac/NPCs/Rahadin.md\|Rahadin]] then pulls out a live toad, swallows it whole as a sacrifice, and offers a gesture of supplication to the secret god.
 
 #### Development
 

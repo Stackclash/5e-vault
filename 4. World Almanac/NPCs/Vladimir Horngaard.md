@@ -154,7 +154,9 @@ A revenant doesn't require air, food, drink, or sleep.
   "Constitution": !!int "7"
 "damage_resistances": "necrotic, psychic"
 "damage_immunities": "poison"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned, stunned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]], [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]]"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Common, Draconic"
 "cr": "7"
@@ -166,8 +168,8 @@ A revenant doesn't require air, food, drink, or sleep.
   "name": "Regeneration"
 - "desc": "When Vladimir's body is destroyed, his soul lingers. After 24 hours, the\
     \ soul inhabits and animates another corpse on the same plane of existence and\
-    \ regains all its hit points. While the soul is bodiless, a wish spell can be\
-    \ used to force the soul to go to the afterlife and not return."
+    \ regains all its hit points. While the soul is bodiless, a [[5. Mechanics/Spells/Wish.md\|wish]]\
+    \ spell can be used to force the soul to go to the afterlife and not return."
   "name": "Rejuvenation"
 - "desc": "Vladimir wields a +2 greatsword with a hilt sculpted to resemble silver\
     \ dragon wings and a pommel shaped like a silver dragon's head clutching a black\
@@ -193,11 +195,12 @@ A revenant doesn't require air, food, drink, or sleep.
     \ deals an extra dice: 4d6|avg (4d6) slashing damage with this weapon."
   "name": "Greatsword +2"
 - "desc": "Vladimir can target Strahd within 30 feet provided he can see Strahd. Strahd\
-    \ must make a DC 15 Wisdom saving throw. One a failure, Strahd is paralyzed until\
-    \ Vladimir deals damage to him, or until the end of Vladimir's next turn. When\
-    \ the paralysis ends, Strahd is frightened of Vladimir for 1 minute. Strahd can\
-    \ repeat the saving throw at the end of each of his turns, with disadvantage if\
-    \ he can see Vladimir, ending the frightened condition on itself on a success."
+    \ must make a DC 15 Wisdom saving throw. One a failure, Strahd is [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]]\
+    \ until Vladimir deals damage to him, or until the end of Vladimir's next turn.\
+    \ When the paralysis ends, Strahd is [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
+    \ of Vladimir for 1 minute. Strahd can repeat the saving throw at the end of each\
+    \ of his turns, with disadvantage if he can see Vladimir, ending the [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
+    \ condition on itself on a success."
   "name": "Vengeful Glare"
 "source":
 - "CoS"

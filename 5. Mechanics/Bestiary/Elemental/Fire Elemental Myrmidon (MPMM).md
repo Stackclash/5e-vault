@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Fire Elemental Myrmidon"]
 ---
-# [[5. Mechanics\Bestiary\Elemental\Fire Elemental Myrmidon (MPMM).md|Fire Elemental Myrmidon]]
+# [[5. Mechanics/Bestiary/Elemental/Fire Elemental Myrmidon (MPMM).md|Fire Elemental Myrmidon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 123*  
 
 ## Elemental Myrmidons
@@ -58,6 +58,7 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 "source":
 - "MPMM"
 - "MTF"
+- "BMT"
 "image": "compendium/bestiary/elemental/token/fire-elemental-myrmidon.png"
 ```
 ^statblock

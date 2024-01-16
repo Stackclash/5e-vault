@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Wildfire Spirit"]
 ---
-# [[5. Mechanics\Bestiary\Elemental\Wildfire Spirit (TCE).md|Wildfire Spirit]]
+# [[5. Mechanics/Bestiary/Elemental/Wildfire Spirit (TCE).md|Wildfire Spirit]]
 *Source: Tasha's Cauldron of Everything p. 40*  
 
 ```statblock

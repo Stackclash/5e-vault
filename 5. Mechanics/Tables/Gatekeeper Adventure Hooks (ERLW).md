@@ -21,5 +21,5 @@ aliases: ["Gatekeeper Adventure Hooks"]
 | 5 | The characters discover evidence suggesting that the rituals performed by the local Gatekeepers are weakening their seal, not empowering it. |
 | 6 | Pilgrims traveling through a forest draw the attention of Gatekeepers, who think they are spies sent to sabotage the nearby seal. |
 | 7 | One of the kidnapped victims who was rescued from a marauding band of aberrations turns out to be a Gatekeeper initiate. |
-| 8 | The adventurers are sent to the Mror Holds to investigate the activity of [[4. World Almanac/NPCs/Dyrrn (ERLW).md\|Dyrrn]] the Corruptor and uncover a daelkyr cult among the dwarves. |
+| 8 | The adventurers are sent to the Mror Holds to investigate the activity of [[4. World Almanac/NPCs/Dyrrn.md\|Dyrrn]] the Corruptor and uncover a daelkyr cult among the dwarves. |
 ^gatekeeper-adventure-hooks

@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Necromancer Wizard"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Necromancer Wizard (MPMM).md|Necromancer Wizard]]
+# [[5. Mechanics/Bestiary/Humanoid/Necromancer Wizard (MPMM).md|Necromancer Wizard]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 264*  
 
 Necromancers study the interaction of life, death, and undeath. Some necromancers dig up or purchase corpses to create Undead servitors. A few instead use their powers for good, hunting Undead.

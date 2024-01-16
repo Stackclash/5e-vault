@@ -775,14 +775,14 @@ Those familiar with the Carnival know the following facts:
 > 
 > **Do you perform**? Have you devised a way to profit from your circumstances? Are you proud of your performances? Do you have a show mentor or partner? Or do you earn your way in the Carnival as a laborer, as a vendor, or in another role?
 > 
-> **How did you join the Carnival?** Did you run away to join? Were you an outcast who found a home with the Carnival? Did [[4. World Almanac/NPCs/Isolde (VRGR).md\|Isolde]] or a trouper save you from danger?
+> **How did you join the Carnival?** Did you run away to join? Were you an outcast who found a home with the Carnival? Did [[4. World Almanac/NPCs/Isolde.md\|Isolde]] or a trouper save you from danger?
 ^carnival-characters
 
 ### Settlements and Sites
 
 This small domain encompasses only a few hundred square yards. A handful of horses and exotic pack animals transport the Carnival's two dozen wagons from site to site.
 
-One of the Carnival's oldest performers, Hermos the Half-Giant, handles the Carnival's day-to-day operations. Hermos is a mountain of muscle half again as tall as most human adults. His deliberate manner and coolheaded demeanor earn him the respect of the Carnival's troupers. Other senior or charismatic figures hold influence over cliquish groups of performers, but few dare openly contradict Hermos since he's favored by the Carnival's leader, [[4. World Almanac/NPCs/Isolde (VRGR).md\|Isolde]].
+One of the Carnival's oldest performers, Hermos the Half-Giant, handles the Carnival's day-to-day operations. Hermos is a mountain of muscle half again as tall as most human adults. His deliberate manner and coolheaded demeanor earn him the respect of the Carnival's troupers. Other senior or charismatic figures hold influence over cliquish groups of performers, but few dare openly contradict Hermos since he's favored by the Carnival's leader, [[4. World Almanac/NPCs/Isolde.md\|Isolde]].
 
 The Carnival's arrangement varies depending on where it sets up, but always includes a thoroughfare of games, food, and sideshow stalls leading from the ticketing gate to the Big Top.
 
@@ -803,7 +803,7 @@ Lurid banners with exaggerated art and the calls of barkers advertise the Carniv
 
 #### Hall of Horrors
 
-A severe, bespectacled academic, Professor Pacali runs the Carnival's Hall of Horrors. This sizable, sinister tent contains a maze of taxidermic creatures, cabinets of curiosity, peculiar specimens in jars, and the occasional true wonder. Pacali hides a personal unsettling secret. During his time as a researcher at the Brautslava Institute in Darkon, Pacali was cursed: his worst impulses now grow from his body as terrible creatures. He bottles these murderous homunculi and touts them as "Professor Pacali's Pickled Punks," but every now and then one "escapes." Pacali persistently criticizes Hermos and [[4. World Almanac/NPCs/Isolde (VRGR).md\|Isolde]], but rarely acts against them directly.
+A severe, bespectacled academic, Professor Pacali runs the Carnival's Hall of Horrors. This sizable, sinister tent contains a maze of taxidermic creatures, cabinets of curiosity, peculiar specimens in jars, and the occasional true wonder. Pacali hides a personal unsettling secret. During his time as a researcher at the Brautslava Institute in Darkon, Pacali was cursed: his worst impulses now grow from his body as terrible creatures. He bottles these murderous homunculi and touts them as "Professor Pacali's Pickled Punks," but every now and then one "escapes." Pacali persistently criticizes Hermos and [[4. World Almanac/NPCs/Isolde.md\|Isolde]], but rarely acts against them directly.
 
 #### Litwick Market
 
@@ -811,53 +811,53 @@ The Carnival doesn't travel alone. Wherever it goes, fey creatures chase after i
 
 ### Isolde and Nepenthe
 
-[[4. World Almanac/NPCs/Isolde (VRGR).md\|Isolde]], the Carnival's leader, is an eladrin (an elf native to the Feywild). She is a Fey who otherwise uses the [[5. Mechanics/Bestiary/Fiend/Cambion.md\|cambion]] stat block. She is never seen without her [[5. Mechanics/Items/Holy Avenger.md\|holy avenger]] longsword, [[5. Mechanics/Items/Nepenthe (VRGR).md\|Nepenthe]], which glows red with hate. Nepenthe, not [[4. World Almanac/NPCs/Isolde (VRGR).md\|Isolde]], is the Carnival's Darklord.
+[[4. World Almanac/NPCs/Isolde.md\|Isolde]], the Carnival's leader, is an eladrin (an elf native to the Feywild). She is a Fey who otherwise uses the [[5. Mechanics/Bestiary/Fiend/Cambion.md\|cambion]] stat block. She is never seen without her [[5. Mechanics/Items/Holy Avenger.md\|holy avenger]] longsword, [[5. Mechanics/Items/Nepenthe (VRGR).md\|Nepenthe]], which glows red with hate. Nepenthe, not [[4. World Almanac/NPCs/Isolde.md\|Isolde]], is the Carnival's Darklord.
 
 #### Isolde
 
 ![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/051-03-010-isolde-with-the-sword-nepenthe.webp#center\|Isolde with the sword Nepenthe]]
 
-[[4. World Almanac/NPCs/Isolde (VRGR).md\|Isolde]] was a holy warrior devoted to a pantheon of elven deities called the Seldarine. In this role, she defended the Feywild against dragons, demons, and other threats. In time, her heroics caught the eye of an archfey named Zybilna, who had forged secret pacts with some of the fiends [[4. World Almanac/NPCs/Isolde (VRGR).md\|Isolde]] and her companions had slain. Rather than be angry at [[4. World Almanac/NPCs/Isolde (VRGR).md\|Isolde]], Zybilna was impressed by her. She enlisted a powerful fiend known only as "the Caller" to corrupt and slay all of [[4. World Almanac/NPCs/Isolde (VRGR).md\|Isolde]]'s companions, leaving [[4. World Almanac/NPCs/Isolde (VRGR).md\|Isolde]] alone, bitter, and vulnerable. The insidious archfey then befriended [[4. World Almanac/NPCs/Isolde (VRGR).md\|Isolde]] and offered to help her forget her terrible losses. [[4. World Almanac/NPCs/Isolde (VRGR).md\|Isolde]] became the master of a traveling fey carnival that served as a gateway to Zybilna's domain. The carnival did what Zybilna hoped it would do: it brought comfort to [[4. World Almanac/NPCs/Isolde (VRGR).md\|Isolde]] and quelled her thirst for vengeance.
+[[4. World Almanac/NPCs/Isolde.md\|Isolde]] was a holy warrior devoted to a pantheon of elven deities called the Seldarine. In this role, she defended the Feywild against dragons, demons, and other threats. In time, her heroics caught the eye of an archfey named Zybilna, who had forged secret pacts with some of the fiends [[4. World Almanac/NPCs/Isolde.md\|Isolde]] and her companions had slain. Rather than be angry at [[4. World Almanac/NPCs/Isolde.md\|Isolde]], Zybilna was impressed by her. She enlisted a powerful fiend known only as "the Caller" to corrupt and slay all of [[4. World Almanac/NPCs/Isolde.md\|Isolde]]'s companions, leaving [[4. World Almanac/NPCs/Isolde.md\|Isolde]] alone, bitter, and vulnerable. The insidious archfey then befriended [[4. World Almanac/NPCs/Isolde.md\|Isolde]] and offered to help her forget her terrible losses. [[4. World Almanac/NPCs/Isolde.md\|Isolde]] became the master of a traveling fey carnival that served as a gateway to Zybilna's domain. The carnival did what Zybilna hoped it would do: it brought comfort to [[4. World Almanac/NPCs/Isolde.md\|Isolde]] and quelled her thirst for vengeance.
 
-Zybilna and [[4. World Almanac/NPCs/Isolde (VRGR).md\|Isolde]] enjoyed a strong partnership for years, but as time wore on, they grew distant until their relationship finally soured. Eladrin crave change, yet [[4. World Almanac/NPCs/Isolde (VRGR).md\|Isolde]] felt like she was frozen in time. She wished to leave the fey carnival and pursue other dreams, but Zybilna wouldn't hear of it and secretly used [[5. Mechanics/Spells/Wish.md\|wish]] spells to make [[4. World Almanac/NPCs/Isolde (VRGR).md\|Isolde]] place her devotion to the carnival above her desire to leave it.
+Zybilna and [[4. World Almanac/NPCs/Isolde.md\|Isolde]] enjoyed a strong partnership for years, but as time wore on, they grew distant until their relationship finally soured. Eladrin crave change, yet [[4. World Almanac/NPCs/Isolde.md\|Isolde]] felt like she was frozen in time. She wished to leave the fey carnival and pursue other dreams, but Zybilna wouldn't hear of it and secretly used [[5. Mechanics/Spells/Wish.md\|wish]] spells to make [[4. World Almanac/NPCs/Isolde.md\|Isolde]] place her devotion to the carnival above her desire to leave it.
 
-When [[4. World Almanac/NPCs/Isolde (VRGR).md\|Isolde]]'s fey carnival crossed paths with another carnival from the Shadowfell, the eladrin found the escape she longed for. [[4. World Almanac/NPCs/Isolde (VRGR).md\|Isolde]] orchestrated a trade with the other carnival's owners, a pair of shadar-kai (elves native to the Shadowfell). [[4. World Almanac/NPCs/Isolde (VRGR).md\|Isolde]] would become the master of their carnival, and they would become the masters of hers. To appease Zybilna, this arrangement would remain in place only until the two carnivals crossed paths again.
+When [[4. World Almanac/NPCs/Isolde.md\|Isolde]]'s fey carnival crossed paths with another carnival from the Shadowfell, the eladrin found the escape she longed for. [[4. World Almanac/NPCs/Isolde.md\|Isolde]] orchestrated a trade with the other carnival's owners, a pair of shadar-kai (elves native to the Shadowfell). [[4. World Almanac/NPCs/Isolde.md\|Isolde]] would become the master of their carnival, and they would become the masters of hers. To appease Zybilna, this arrangement would remain in place only until the two carnivals crossed paths again.
 
-Zybilna was intrigued enough by the shadar-kai to let [[4. World Almanac/NPCs/Isolde (VRGR).md\|Isolde]] go, but not without casting a spell that made [[4. World Almanac/NPCs/Isolde (VRGR).md\|Isolde]] forget about Zybilna and her Feywild domain, thus preventing the eladrin from divulging the archfey's secrets. As a further punishment, Zybilna sent malevolent fey creatures to hound [[4. World Almanac/NPCs/Isolde (VRGR).md\|Isolde]] and her Shadowfell carnival. [[4. World Almanac/NPCs/Isolde (VRGR).md\|Isolde]] doesn't know who is behind this petty torment, nor does she care. Her hunt for the Caller and her thirst for vengeance have become all-consuming.
+Zybilna was intrigued enough by the shadar-kai to let [[4. World Almanac/NPCs/Isolde.md\|Isolde]] go, but not without casting a spell that made [[4. World Almanac/NPCs/Isolde.md\|Isolde]] forget about Zybilna and her Feywild domain, thus preventing the eladrin from divulging the archfey's secrets. As a further punishment, Zybilna sent malevolent fey creatures to hound [[4. World Almanac/NPCs/Isolde.md\|Isolde]] and her Shadowfell carnival. [[4. World Almanac/NPCs/Isolde.md\|Isolde]] doesn't know who is behind this petty torment, nor does she care. Her hunt for the Caller and her thirst for vengeance have become all-consuming.
 
 #### Nepenthe
 
 The [[5. Mechanics/Items/Holy Avenger.md\|holy avenger]] named [[5. Mechanics/Items/Nepenthe (VRGR).md\|Nepenthe]] was crafted by shadar-kai to mete out justice as an executioner's weapon. In its lifetime, the sword has beheaded thousands of criminals, not all of whom were guilty of the crimes for which they were convicted. The sword cannot distinguish the guilty from the innocent. With each beheading, it hungers for more justice and blood.
 
-Nepenthe came to the Carnival in the hands of a retired half-ogre who moonlighted as a sword-swallower. When the half-ogre died of old age, the sword was deemed the property of the Carnival. It was given to [[4. World Almanac/NPCs/Isolde (VRGR).md\|Isolde]] by the Carnival's previous owners, who claimed that the sword would help her protect the Carnival against any threat.
+Nepenthe came to the Carnival in the hands of a retired half-ogre who moonlighted as a sword-swallower. When the half-ogre died of old age, the sword was deemed the property of the Carnival. It was given to [[4. World Almanac/NPCs/Isolde.md\|Isolde]] by the Carnival's previous owners, who claimed that the sword would help her protect the Carnival against any threat.
 
-In [[4. World Almanac/NPCs/Isolde (VRGR).md\|Isolde]], the sword found a partner who shared its blind malice toward the guilty. [[4. World Almanac/NPCs/Isolde (VRGR).md\|Isolde]] uses Nepenthe to behead anyone found guilty of stealing from the Carnival or inflicting harm upon it.
+In [[4. World Almanac/NPCs/Isolde.md\|Isolde]], the sword found a partner who shared its blind malice toward the guilty. [[4. World Almanac/NPCs/Isolde.md\|Isolde]] uses Nepenthe to behead anyone found guilty of stealing from the Carnival or inflicting harm upon it.
 
-As soon as [[4. World Almanac/NPCs/Isolde (VRGR).md\|Isolde]] took up the blade, it rekindled the grief and fury she had suppressed for so long, awakening the desire to avenge her long-dead companions by slaying the fiend she knows as "the Caller" (see ""Mist Wanderers"" later in this chapter for details). [[4. World Almanac/NPCs/Isolde (VRGR).md\|Isolde]] always chooses the Carnival's stops based on her predictions of the Caller's next steps, and if her pursuit forces the Carnival into danger, so be it. Only by ridding [[4. World Almanac/NPCs/Isolde (VRGR).md\|Isolde]] of Nepenthe can she truly escape the Dark Powers' clutches. But [[4. World Almanac/NPCs/Isolde (VRGR).md\|Isolde]] will never part with the blade willingly, and if it is taken from the Carnival, the sword will always find its way back.
+As soon as [[4. World Almanac/NPCs/Isolde.md\|Isolde]] took up the blade, it rekindled the grief and fury she had suppressed for so long, awakening the desire to avenge her long-dead companions by slaying the fiend she knows as "the Caller" (see ""Mist Wanderers"" later in this chapter for details). [[4. World Almanac/NPCs/Isolde.md\|Isolde]] always chooses the Carnival's stops based on her predictions of the Caller's next steps, and if her pursuit forces the Carnival into danger, so be it. Only by ridding [[4. World Almanac/NPCs/Isolde.md\|Isolde]] of Nepenthe can she truly escape the Dark Powers' clutches. But [[4. World Almanac/NPCs/Isolde.md\|Isolde]] will never part with the blade willingly, and if it is taken from the Carnival, the sword will always find its way back.
 
-In addition to having the properties of a [[5. Mechanics/Items/Holy Avenger.md\|holy avenger]], Nepenthe is a sentient, neutral evil weapon with an Intelligence of 10, a Wisdom of 8, and a Charisma of 18. It has hearing and [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]] out to a range of 60 feet. It can read and understand Elvish. It can also speak Elvish, but only through the voice of its wielder, with whom the sword can communicate telepathically. When using its telepathy to speak to [[4. World Almanac/NPCs/Isolde (VRGR).md\|Isolde]], the sword can mimic the voices of [[4. World Almanac/NPCs/Isolde (VRGR).md\|Isolde]]'s fallen companions as it drives her to catch their fiendish killer. Unlike [[4. World Almanac/NPCs/Isolde (VRGR).md\|Isolde]], whose motives are good, the sword is corrupt and irredeemable.
+In addition to having the properties of a [[5. Mechanics/Items/Holy Avenger.md\|holy avenger]], Nepenthe is a sentient, neutral evil weapon with an Intelligence of 10, a Wisdom of 8, and a Charisma of 18. It has hearing and [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]] out to a range of 60 feet. It can read and understand Elvish. It can also speak Elvish, but only through the voice of its wielder, with whom the sword can communicate telepathically. When using its telepathy to speak to [[4. World Almanac/NPCs/Isolde.md\|Isolde]], the sword can mimic the voices of [[4. World Almanac/NPCs/Isolde.md\|Isolde]]'s fallen companions as it drives her to catch their fiendish killer. Unlike [[4. World Almanac/NPCs/Isolde.md\|Isolde]], whose motives are good, the sword is corrupt and irredeemable.
 
 #### Freedom of the Mists
 
-The Carnival travels through the Mists and between other Domains of Dread as [[4. World Almanac/NPCs/Isolde (VRGR).md\|Isolde]] pleases—though the Dark Powers occasionally send it off course. The Carnival provides one of the few means of escaping from another Darklord's domain, since it ignores the closed borders of other domains. Other Darklords cannot travel with the Carnival to escape their own domains, however.
+The Carnival travels through the Mists and between other Domains of Dread as [[4. World Almanac/NPCs/Isolde.md\|Isolde]] pleases—though the Dark Powers occasionally send it off course. The Carnival provides one of the few means of escaping from another Darklord's domain, since it ignores the closed borders of other domains. Other Darklords cannot travel with the Carnival to escape their own domains, however.
 
 #### Closing the Borders
 
-Nepenthe can close the borders of its domain, as detailed in ""The Mists"" at the start of this chapter. With the sword's consent, [[4. World Almanac/NPCs/Isolde (VRGR).md\|Isolde]] can do the same. When the Carnival's borders close, the Mists are filled with eerie, colorful lights and distant music, echoing memories of past carnivals.
+Nepenthe can close the borders of its domain, as detailed in ""The Mists"" at the start of this chapter. With the sword's consent, [[4. World Almanac/NPCs/Isolde.md\|Isolde]] can do the same. When the Carnival's borders close, the Mists are filled with eerie, colorful lights and distant music, echoing memories of past carnivals.
 
 #### Isolde's Torment
 
-[[4. World Almanac/NPCs/Isolde (VRGR).md\|Isolde]] is both protector and prisoner of the Carnival.
+[[4. World Almanac/NPCs/Isolde.md\|Isolde]] is both protector and prisoner of the Carnival.
 
 The following truths endlessly weigh upon her:
 
-- The Carnival constantly grows, bringing additional souls dependent on [[4. World Almanac/NPCs/Isolde (VRGR).md\|Isolde]]'s guardianship. She's tortured by her obligation toward the Carnival's troupers and her vow to avenge her murdered companions.  
-- [[4. World Almanac/NPCs/Isolde (VRGR).md\|Isolde]] obsessively plots the perfect confrontation with her immortal quarry, the Caller. But the small concerns of the Carnival nag at her ceaselessly, exacerbated by the fey interlopers drawn to her presence. Her burdens drive her to seek seclusion to keep her legendary temper in check.  
-- [[4. World Almanac/NPCs/Isolde (VRGR).md\|Isolde]] dreads the day when the Carnival crosses paths with its fey counterpart for a second time. Were that to happen, [[4. World Almanac/NPCs/Isolde (VRGR).md\|Isolde]] would be forced to relinquish the Carnival to its true shadar-kai masters, and Nepenthe along with it.  
+- The Carnival constantly grows, bringing additional souls dependent on [[4. World Almanac/NPCs/Isolde.md\|Isolde]]'s guardianship. She's tortured by her obligation toward the Carnival's troupers and her vow to avenge her murdered companions.  
+- [[4. World Almanac/NPCs/Isolde.md\|Isolde]] obsessively plots the perfect confrontation with her immortal quarry, the Caller. But the small concerns of the Carnival nag at her ceaselessly, exacerbated by the fey interlopers drawn to her presence. Her burdens drive her to seek seclusion to keep her legendary temper in check.  
+- [[4. World Almanac/NPCs/Isolde.md\|Isolde]] dreads the day when the Carnival crosses paths with its fey counterpart for a second time. Were that to happen, [[4. World Almanac/NPCs/Isolde.md\|Isolde]] would be forced to relinquish the Carnival to its true shadar-kai masters, and Nepenthe along with it.  
 
 #### Roleplaying Isolde
 
-The Carnival is the closest thing [[4. World Almanac/NPCs/Isolde (VRGR).md\|Isolde]] has to a family and a home, and she expects everyone who works for her to carry their weight. She endlessly overburdens herself, struggling to protect those around her as her hate for the Caller drives her forward at any cost.
+The Carnival is the closest thing [[4. World Almanac/NPCs/Isolde.md\|Isolde]] has to a family and a home, and she expects everyone who works for her to carry their weight. She endlessly overburdens herself, struggling to protect those around her as her hate for the Caller drives her forward at any cost.
 
 ##### Personality Trait
 
@@ -877,7 +877,7 @@ The Carnival is the closest thing [[4. World Almanac/NPCs/Isolde (VRGR).md\|Isol
 
 ### Adventures in the Carnival
 
-The Carnival deals in fabricated spectacles and cheap surprises, but it disguises actual marvels of a far deadlier sort. Even as the Carnival's troupers astonish their visitors with amazing performances, a surreal world of outlandish beings, dangerous bargains, and deadly tricks encroaches on the festivities, threatening performers and audiences alike. The Carnival provides a safe place for a time, but the longer it lingers, the greater the danger grows—whether from intolerant common folk, jaded troupers, dangerous fey, or [[4. World Almanac/NPCs/Isolde (VRGR).md\|Isolde]]'s tireless quest.
+The Carnival deals in fabricated spectacles and cheap surprises, but it disguises actual marvels of a far deadlier sort. Even as the Carnival's troupers astonish their visitors with amazing performances, a surreal world of outlandish beings, dangerous bargains, and deadly tricks encroaches on the festivities, threatening performers and audiences alike. The Carnival provides a safe place for a time, but the longer it lingers, the greater the danger grows—whether from intolerant common folk, jaded troupers, dangerous fey, or [[4. World Almanac/NPCs/Isolde.md\|Isolde]]'s tireless quest.
 
 Consider the plots on the Carnival Adventures table when planning adventures in this domain.
 
@@ -2491,13 +2491,13 @@ A child prodigy from a minor noble family, the brilliant Viktra Mordenheim becam
 
 ![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/082-03-026-baron-rudolph.webp#center\|"The brain of Baron Rudolph von Aubrecker constructs a new body"]]
 
-Eventually, Dr. Mordenheim became convinced that she could do more than create life—she could defeat death! She wished to breathe sentience into dead flesh and produce sturdier shells than the bodies of fragile, temporary mortals. She added corpse theft to her repertoire, employing thieves to procure specimens for her tests. This was how she met [[4. World Almanac/NPCs/Elise (VRGR).md\|Elise]], a beautiful but reckless body snatcher who was charmed by the doctor's aloofness and whose spontaneity entranced the methodical surgeon.
+Eventually, Dr. Mordenheim became convinced that she could do more than create life—she could defeat death! She wished to breathe sentience into dead flesh and produce sturdier shells than the bodies of fragile, temporary mortals. She added corpse theft to her repertoire, employing thieves to procure specimens for her tests. This was how she met [[4. World Almanac/NPCs/Elise.md\|Elise]], a beautiful but reckless body snatcher who was charmed by the doctor's aloofness and whose spontaneity entranced the methodical surgeon.
 
-When [[4. World Almanac/NPCs/Elise (VRGR).md\|Elise]] began showing signs of an incurable wasting disease, it was the first time either woman had felt the pangs of despair. In the months that followed, Dr. Mordenheim desperately hastened her experiments, employing anyone who would bring her bodies—both newly dead and still living. On her operating table, victims were killed, returned to life, and died again as Mordenheim sought to glimpse the secrets hidden in the instant of death.
+When [[4. World Almanac/NPCs/Elise.md\|Elise]] began showing signs of an incurable wasting disease, it was the first time either woman had felt the pangs of despair. In the months that followed, Dr. Mordenheim desperately hastened her experiments, employing anyone who would bring her bodies—both newly dead and still living. On her operating table, victims were killed, returned to life, and died again as Mordenheim sought to glimpse the secrets hidden in the instant of death.
 
-One moonless night, [[4. World Almanac/NPCs/Elise (VRGR).md\|Elise]] fell into a sleep from which she wouldn't wake. Bringing [[4. World Almanac/NPCs/Elise (VRGR).md\|Elise]] to her lab, Dr. Mordenheim worked feverishly for days to save her, pouring what she'd learned from a thousand deaths into saving one life. [[4. World Almanac/NPCs/Elise (VRGR).md\|Elise]] became the recipient of the doctor's masterpiece, the end to disease and death: an artificial organ Mordenheim called the Unbreakable Heart. But as she stitched the miraculous device into place, constables burst into the lab and accused the doctor of facilitating numerous murders. As Dr. Mordenheim struggled against arrest, smoking chemicals and arcing electricity filled the laboratory. Before she lost consciousness, she saw [[4. World Almanac/NPCs/Elise (VRGR).md\|Elise]] rise from the table, the Unbreakable Heart glowing within her behind golden stitches.
+One moonless night, [[4. World Almanac/NPCs/Elise.md\|Elise]] fell into a sleep from which she wouldn't wake. Bringing [[4. World Almanac/NPCs/Elise.md\|Elise]] to her lab, Dr. Mordenheim worked feverishly for days to save her, pouring what she'd learned from a thousand deaths into saving one life. [[4. World Almanac/NPCs/Elise.md\|Elise]] became the recipient of the doctor's masterpiece, the end to disease and death: an artificial organ Mordenheim called the Unbreakable Heart. But as she stitched the miraculous device into place, constables burst into the lab and accused the doctor of facilitating numerous murders. As Dr. Mordenheim struggled against arrest, smoking chemicals and arcing electricity filled the laboratory. Before she lost consciousness, she saw [[4. World Almanac/NPCs/Elise.md\|Elise]] rise from the table, the Unbreakable Heart glowing within her behind golden stitches.
 
-Dr. Mordenheim awoke in Lamordia, an unfamiliar land where her genius was celebrated. [[4. World Almanac/NPCs/Elise (VRGR).md\|Elise]] and the Unbreakable Heart were nowhere to be found, but the doctor soon heard rumors of a glowing woman wandering in the icy wastes. Since then, Mordenheim has continued her experiments on the dead and living, striving to recreate her successes and failing every time. Between disappointments she searches the hinterlands, hoping to find [[4. World Almanac/NPCs/Elise (VRGR).md\|Elise]]—and with her, the miracle of the Unbreakable Heart.
+Dr. Mordenheim awoke in Lamordia, an unfamiliar land where her genius was celebrated. [[4. World Almanac/NPCs/Elise.md\|Elise]] and the Unbreakable Heart were nowhere to be found, but the doctor soon heard rumors of a glowing woman wandering in the icy wastes. Since then, Mordenheim has continued her experiments on the dead and living, striving to recreate her successes and failing every time. Between disappointments she searches the hinterlands, hoping to find [[4. World Almanac/NPCs/Elise.md\|Elise]]—and with her, the miracle of the Unbreakable Heart.
 
 #### Mordenheim's Powers and Dominion
 
@@ -2521,7 +2521,7 @@ When Dr. Mordenheim closes Lamordia's borders, temperatures across the domain dr
 Although Dr. Mordenheim doesn't show her emotions, she's vexed by the following circumstances:
 
 - Mordenheim cannot remake the miracle of scientific immortality embodied by the Unbreakable Heart. She relentlessly tries to understand and repeat the circumstances of its creation, but fails every time.  
-- [[4. World Almanac/NPCs/Elise (VRGR).md\|Elise]] evades Mordenheim's attempts to find her.  
+- [[4. World Almanac/NPCs/Elise.md\|Elise]] evades Mordenheim's attempts to find her.  
 - The people of Lamordia view Mordenheim as a luminary and savior. She does not understand why and loathes the distractions they create.  
 
 #### Roleplaying Mordenheim
@@ -2558,20 +2558,20 @@ Beyond these possibilities, consider the plots on the Lamordia Adventures table 
 
 ### Mordenheim's Monsters
 
-The horror at Lamordia's heart is Dr. Mordenheim's bizarre experiments and ceaseless search for [[4. World Almanac/NPCs/Elise (VRGR).md\|Elise]].
+The horror at Lamordia's heart is Dr. Mordenheim's bizarre experiments and ceaseless search for [[4. World Almanac/NPCs/Elise.md\|Elise]].
 
 #### Elise and the Unbreakable Heart
 
-Above all else, Dr. Mordenheim's objectives are finding [[4. World Almanac/NPCs/Elise (VRGR).md\|Elise]] and recovering or re-creating the Unbreakable Heart.
+Above all else, Dr. Mordenheim's objectives are finding [[4. World Almanac/NPCs/Elise.md\|Elise]] and recovering or re-creating the Unbreakable Heart.
 
 ##### Elise
 
-Dr. Mordenheim's supposed beloved and greatest achievement, [[4. World Almanac/NPCs/Elise (VRGR).md\|Elise]] is a confused, frustrated soul who never wished for her current circumstances. She's now a [[5. Mechanics/Bestiary/Construct/Flesh Golem.md\|flesh golem]] with the following adjustments:
+Dr. Mordenheim's supposed beloved and greatest achievement, [[4. World Almanac/NPCs/Elise.md\|Elise]] is a confused, frustrated soul who never wished for her current circumstances. She's now a [[5. Mechanics/Bestiary/Construct/Flesh Golem.md\|flesh golem]] with the following adjustments:
 
-- [[4. World Almanac/NPCs/Elise (VRGR).md\|Elise]] does not have the Berserk or Aversion of Fire traits.  
+- [[4. World Almanac/NPCs/Elise.md\|Elise]] does not have the Berserk or Aversion of Fire traits.  
 - She has immunity to cold damage.  
 
-[[4. World Almanac/NPCs/Elise (VRGR).md\|Elise]]'s heart has been replaced with the Unbreakable Heart. If this device is removed, [[4. World Almanac/NPCs/Elise (VRGR).md\|Elise]] dies, even if it is replaced with another heart. [[4. World Almanac/NPCs/Elise (VRGR).md\|Elise]] is horrified by what Dr. Mordenheim did to her and tries to avoid the doctor and all strangers, fearing they might kill her to learn the Unbreakable Heart's secrets. She roams without destination but keeps a hidden sanctuary at Hope's Heart on the Isles of Agony. Although she has tried to leave Lamordia, the Mists prevent her from doing so.
+[[4. World Almanac/NPCs/Elise.md\|Elise]]'s heart has been replaced with the Unbreakable Heart. If this device is removed, [[4. World Almanac/NPCs/Elise.md\|Elise]] dies, even if it is replaced with another heart. [[4. World Almanac/NPCs/Elise.md\|Elise]] is horrified by what Dr. Mordenheim did to her and tries to avoid the doctor and all strangers, fearing they might kill her to learn the Unbreakable Heart's secrets. She roams without destination but keeps a hidden sanctuary at Hope's Heart on the Isles of Agony. Although she has tried to leave Lamordia, the Mists prevent her from doing so.
 
 ##### The Unbreakable Heart
 
@@ -3741,7 +3741,7 @@ The Caller uses statistics similar to a [[5. Mechanics/Bestiary/Fiend/Succubus.m
 
 - One of the characters' allies requests they check in on the ally's brother. This pious or artistic soul has been convinced by a charming peer (the Caller in disguise) to attend a retreat that is secretly a meeting of the priests of Osybus.  
 - An old friend reappears in a character's life. Likable and knowledgeable but shy, this friend assists the character without recompense. Eventually, the friend (actually the Caller) gets into trouble and needs the character to do them a number of increasingly unscrupulous favors.  
-- A powerful individual such as "Firan Zal'honan" (see below), [[4. World Almanac/NPCs/Isolde (VRGR).md\|Isolde]] (see ""The Carnival"" earlier in this chapter), or a domain's Darklord summons the party and requests they hunt down the Caller. This figure provides their agents with a device that allows the bearers to travel to whatever domain the Caller is currently in.  
+- A powerful individual such as "Firan Zal'honan" (see below), [[4. World Almanac/NPCs/Isolde.md\|Isolde]] (see ""The Carnival"" earlier in this chapter), or a domain's Darklord summons the party and requests they hunt down the Caller. This figure provides their agents with a device that allows the bearers to travel to whatever domain the Caller is currently in.  
 
 #### Erasmus van Richten
 
@@ -3783,7 +3783,7 @@ Since then, Ez has changed much, learning the ways of the Mists and replacing he
 
 ##### Adventures with Ez d'Avenir
 
-Use the statistics of an [[5. Mechanics/Bestiary/Humanoid/Assassin.md\|assassin]] to represent Ez, or you can use her [[4. World Almanac/NPCs/Ezmerelda Davenir (COS).md\|stat block]] from Curse of Strahd. Consider the following plots when featuring Ez in an adventure:
+Use the statistics of an [[5. Mechanics/Bestiary/Humanoid/Assassin.md\|assassin]] to represent Ez, or you can use her [[4. World Almanac/NPCs/Ezmerelda Davenir.md\|stat block]] from Curse of Strahd. Consider the following plots when featuring Ez in an adventure:
 
 - Ez discovers an incarnation of the tragic soul Tatyana (detailed in the ""Barovia"" domain). While investigating ways to keep her safe, she accidentally alerts Strahd's agents to her existence.  
 - From a cell in "Il Aluk", Ez's mother Irena Radanavich manipulates a web of lies to bring her daughter back into the family.  
@@ -3865,7 +3865,7 @@ In the decades since, van Richten has hunted monsters and armed others with the 
 
 ##### Adventures with Rudolph van Richten
 
-Van Richten readily provides mentorship to characters devoted to fighting the creatures of the night. To represent him, use the stat block for a [[5. Mechanics/Bestiary/Humanoid/Priest.md\|priest]] from the "Monster Manual" or [[4. World Almanac/NPCs/Rictavio (COS).md\|Rictavio]] from Curse of Strahd. Consider the following plots when featuring van Richten in an adventure:
+Van Richten readily provides mentorship to characters devoted to fighting the creatures of the night. To represent him, use the stat block for a [[5. Mechanics/Bestiary/Humanoid/Priest.md\|priest]] from the "Monster Manual" or [[4. World Almanac/NPCs/Rictavio.md\|Rictavio]] from Curse of Strahd. Consider the following plots when featuring van Richten in an adventure:
 
 - Long ago, van Richten slew a supernatural villain who terrorized a community, but now that evil has returned. The party must seek out the doctor, since only he knows the secret of defeating the creature—hopefully for good this time.  
 - One of van Richten's foes captures the doctor and uses his name to correspond with adventurers, luring those who would learn his secrets into a deadly trap.  

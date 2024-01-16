@@ -125,7 +125,8 @@ Pidlwick II is basically an oversized toy - a 4-foot-tall mechanism stuffed with
 "skillsaves":
   "Performance": !!int "2"
 "damage_immunities": "poison"
-"condition_immunities": "paralyzed, petrified, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#petrified\|petrified]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]"
 "senses": "passive Perception 11"
 "languages": "understands Common but doesn't speak and can't read or write"
 "cr": "1/4"

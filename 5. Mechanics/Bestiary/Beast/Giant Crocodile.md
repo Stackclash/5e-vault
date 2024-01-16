@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Giant Crocodile"]
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Crocodile.md|Giant Crocodile]]
+# [[5. Mechanics/Bestiary/Beast/Giant Crocodile.md|Giant Crocodile]]
 *Source: Monster Manual p. 324. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -59,6 +59,8 @@ aliases: ["Giant Crocodile"]
 - "SLW"
 - "JttRC"
 - "ToFW"
+- "GHLoE"
+- "DoDk"
 "image": "compendium/bestiary/beast/token/giant-crocodile.png"
 ```
 ^statblock

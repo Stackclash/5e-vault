@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Hadrosaurus"]
 ---
-# [[5. Mechanics\Bestiary\Beast\Hadrosaurus (MPMM).md|Hadrosaurus]]
+# [[5. Mechanics/Bestiary/Beast/Hadrosaurus (MPMM).md|Hadrosaurus]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 96*  
 
 A hadrosaurus is a semi-quadrupedal herbivore with bony head crests. If raised from a hatchling, it can be trained to carry a rider.

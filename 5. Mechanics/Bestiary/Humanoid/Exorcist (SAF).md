@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Exorcist"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Exorcist (SAF).md|Exorcist]]
+# [[5. Mechanics/Bestiary/Humanoid/Exorcist (SAF).md|Exorcist]]
 *Source: Strongholds and Followers p. 73*  
 
 ```statblock

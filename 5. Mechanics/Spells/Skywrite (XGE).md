@@ -15,7 +15,6 @@ tags:
 aliases: ["Skywrite"]
 ---
 # Skywrite
-%%-- Embedded content starts on the next line. --%%
 *2nd-level, Transmutation (ritual)*  
 
 - **Casting time:** 1 action unless cast as a ritual

@@ -17,7 +17,6 @@ tags:
 aliases: ["Daylight"]
 ---
 # Daylight
-%%-- Embedded content starts on the next line. --%%
 *3rd-level, Evocation*  
 
 - **Casting time:** 1 action

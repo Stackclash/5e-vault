@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Cadaver Collector"]
 ---
-# [[5. Mechanics\Bestiary\Construct\Cadaver Collector (MPMM).md|Cadaver Collector]]
+# [[5. Mechanics/Bestiary/Construct/Cadaver Collector (MPMM).md|Cadaver Collector]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 68*  
 
 The ancient war machines known as cadaver collectors lumber aimlessly across the blasted plains of Acheron until they are called upon by a necromancer to bolster the ranks of a conquering army on the Material Plane. These fearsome Constructs obey their summoners until they are dismissed back to Acheron, but if a summoner comes to a bad end, a cadaver collector might wander the Material Plane for centuries, collecting corpses while searching for a way to return home.

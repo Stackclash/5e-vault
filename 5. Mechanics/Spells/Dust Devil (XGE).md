@@ -13,7 +13,6 @@ tags:
 aliases: ["Dust Devil"]
 ---
 # Dust Devil
-%%-- Embedded content starts on the next line. --%%
 *2nd-level, Conjuration*  
 
 - **Casting time:** 1 action

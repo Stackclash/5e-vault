@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Giant Badger"]
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Badger.md|Giant Badger]]
+# [[5. Mechanics/Bestiary/Beast/Giant Badger.md|Giant Badger]]
 *Source: Monster Manual p. 323. Available in the SRD and the Basic Rules.*  
 
 ```statblock

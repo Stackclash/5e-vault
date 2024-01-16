@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Octopus"]
 ---
-# [[5. Mechanics\Bestiary\Beast\Octopus.md|Octopus]]
+# [[5. Mechanics/Bestiary/Beast/Octopus.md|Octopus]]
 *Source: Monster Manual p. 333. Available in the SRD and the Basic Rules.*  
 
 ```statblock

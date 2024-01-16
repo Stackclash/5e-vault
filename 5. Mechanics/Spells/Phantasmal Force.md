@@ -17,7 +17,6 @@ tags:
 aliases: ["Phantasmal Force"]
 ---
 # Phantasmal Force
-%%-- Embedded content starts on the next line. --%%
 *2nd-level, Illusion*  
 
 - **Casting time:** 1 action

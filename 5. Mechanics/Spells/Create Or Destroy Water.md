@@ -12,7 +12,6 @@ tags:
 aliases: ["Create or Destroy Water"]
 ---
 # Create or Destroy Water
-%%-- Embedded content starts on the next line. --%%
 *1st-level, Transmutation*  
 
 - **Casting time:** 1 action

@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Rutterkin"]
 ---
-# [[5. Mechanics\Bestiary\Fiend\Rutterkin (MPMM).md|Rutterkin]]
+# [[5. Mechanics/Bestiary/Fiend/Rutterkin (MPMM).md|Rutterkin]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 210*  
 
 > [!quote]- A quote from Tasha  

@@ -14,7 +14,6 @@ tags:
 aliases: ["Divination"]
 ---
 # Divination
-%%-- Embedded content starts on the next line. --%%
 *4th-level, Divination (ritual)*  
 
 - **Casting time:** 1 action unless cast as a ritual

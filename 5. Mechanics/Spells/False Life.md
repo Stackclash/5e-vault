@@ -16,7 +16,6 @@ tags:
 aliases: ["False Life"]
 ---
 # False Life
-%%-- Embedded content starts on the next line. --%%
 *1st-level, Necromancy*  
 
 - **Casting time:** 1 action

@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Bone Naga (Spirit)"]
 ---
-# [[5. Mechanics\Bestiary\Undead\Bone Naga Spirit.md|Bone Naga (Spirit)]]
+# [[5. Mechanics/Bestiary/Undead/Bone Naga Spirit.md|Bone Naga (Spirit)]]
 *Source: Monster Manual p. 233*  
 
 In response to the long history of conflict between the yuan-ti and the nagas, yuan-ti created a necromantic ritual that could halt a naga's resurrection by transforming the living naga into a skeletal undead servitor. A bone naga retains only a few of the spells it knew in life.
@@ -76,6 +76,7 @@ A naga doesn't require air, food, drink, or sleep.
 "source":
 - "MM"
 - "DSotDQ"
+- "BMT"
 "image": "compendium/bestiary/undead/token/bone-naga-spirit.png"
 ```
 ^statblock

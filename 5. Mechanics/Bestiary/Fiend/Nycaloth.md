@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Nycaloth"]
 ---
-# [[5. Mechanics\Bestiary\Fiend\Nycaloth.md|Nycaloth]]
+# [[5. Mechanics/Bestiary/Fiend/Nycaloth.md|Nycaloth]]
 *Source: Monster Manual p. 314, Tasha's Cauldron of Everything*  
 
 The elite airborne shock troops of the yugoloths, nycaloths look like muscular gargoyles. Powerful bat wings bear them swiftly aloft in battle, and the razorsharp claws of their hands and feet cut through flesh and bone with ease. A nightmarish foe, a nycaloth strikes hard and fast without warning, then teleports away. It uses its innate magic to turn [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]] or create illusory doubles of itself, further confounding its enemies.

@@ -14,6 +14,8 @@ aliases: ["Poltergeist"]
 # [[5. Mechanics/Bestiary/Undead/Poltergeist.md|Poltergeist]]
 *Source: Monster Manual p. 279, Curse of Strahd*  
 
+A poltergeist is the confused, invisible spirit of an individual with no sense of how he or she died. A poltergeist expresses its rage by hurling creatures and objects using the power of its shattered psyche.
+
 ```statblock
 "name": "Poltergeist"
 "size": "Medium"
@@ -33,8 +35,11 @@ aliases: ["Poltergeist"]
 "damage_resistances": "acid; cold; fire; lightning; thunder; bludgeoning, piercing,\
   \ slashing from nonmagical attacks"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "charmed, exhaustion, grappled, paralyzed, petrified, poisoned,\
-  \ prone, restrained, unconscious"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]], [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "understands all languages it knew in life but can't speak"
 "cr": "2"
@@ -44,9 +49,10 @@ aliases: ["Poltergeist"]
     \ ends its turn inside an object."
   "name": "Incorporeal Movement"
 - "desc": "While in sunlight, the poltergeist has disadvantage on attack rolls, as\
-    \ well as on Wisdom (Perception) checks that rely on sight."
+    \ well as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks\
+    \ that rely on sight."
   "name": "Sunlight Sensitivity"
-- "desc": "The poltergeist is invisible."
+- "desc": "The poltergeist is [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]]."
   "name": "Invisibility"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\

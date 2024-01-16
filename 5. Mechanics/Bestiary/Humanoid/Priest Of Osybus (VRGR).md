@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Priest of Osybus"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Priest Of Osybus (VRGR).md|Priest of Osybus]]
+# [[5. Mechanics/Bestiary/Humanoid/Priest Of Osybus (VRGR).md|Priest of Osybus]]
 *Source: Van Richten's Guide to Ravenloft p. 241*  
 
 Necromancers of deep evil, the priests of Osybus steal the souls of others to fuel the priests' malevolent magic. Using this soul power, each priest can defy death and become an undead creature, potentially cheating the grave over and over.

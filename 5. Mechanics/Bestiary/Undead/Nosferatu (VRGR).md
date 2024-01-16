@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Nosferatu"]
 ---
-# [[5. Mechanics\Bestiary\Undead\Nosferatu (VRGR).md|Nosferatu]]
+# [[5. Mechanics/Bestiary/Undead/Nosferatu (VRGR).md|Nosferatu]]
 *Source: Van Richten's Guide to Ravenloft p. 239*  
 
 Vicious, undead hunters, nosferatu possess the endless thirst of vampires but none of their grace. For them, existence is nothing more than an everlasting string of cold, desperate nights punctuated by crimson splashes of momentary warmth and lucidity. These joys are fleeting, as their blood addiction can never be quelled.

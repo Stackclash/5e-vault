@@ -15,7 +15,7 @@ tags:
 statblock: inline
 aliases: ["Eidolon"]
 ---
-# [[5. Mechanics\Bestiary\Undead\Eidolon (MPMM).md|Eidolon]]
+# [[5. Mechanics/Bestiary/Undead/Eidolon (MPMM).md|Eidolon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 114*  
 
 To protect sites they deem holy, gods often rely on eidolons, ghostly spirits bound to safeguard a sacred place. Forged from the souls of those with unwavering devotion, eidolons stalk temples and vaults to ensure that no enemy defiles, damages, or plunders these sites. If an enemy sets foot inside a warded location, the [[5. Mechanics/Bestiary/Undead/Eidolon (MPMM).md|eidolon]] plunges into a [[5. Mechanics/Bestiary/Construct/Sacred Statue (MPMM).md|statue]] specially prepared to house its soul; it then animates this effigy and uses the statue to drive out the intruders.

@@ -9,7 +9,6 @@ tags:
 aliases: ["Find Greater Steed"]
 ---
 # Find Greater Steed
-%%-- Embedded content starts on the next line. --%%
 *4th-level, Conjuration*  
 ![[5. Mechanics/Spells/img/find-greater-steed.webp#right]]  
 

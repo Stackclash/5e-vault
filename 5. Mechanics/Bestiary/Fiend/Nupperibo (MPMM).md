@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Nupperibo"]
 ---
-# [[5. Mechanics\Bestiary\Fiend\Nupperibo (MPMM).md|Nupperibo]]
+# [[5. Mechanics/Bestiary/Fiend/Nupperibo (MPMM).md|Nupperibo]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 196*  
 
 > [!quote]- A quote from Mordenkainen  

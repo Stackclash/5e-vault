@@ -17,7 +17,6 @@ tags:
 aliases: ["Create Bonfire"]
 ---
 # Create Bonfire
-%%-- Embedded content starts on the next line. --%%
 *cantrip, Conjuration*  
 
 - **Casting time:** 1 action

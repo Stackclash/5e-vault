@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Beast Lord"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Beast Lord (SAF).md|Beast Lord]]
+# [[5. Mechanics/Bestiary/Humanoid/Beast Lord (SAF).md|Beast Lord]]
 *Source: Strongholds and Followers p. 78*  
 
 ```statblock

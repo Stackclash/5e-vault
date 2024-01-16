@@ -106,8 +106,8 @@ TBD
     \ other than its AC, are the same in each form. Any equipment it is wearing or\
     \ carrying isn't transformed. It reverts to its true form if it dies."
   "name": "Shapechanger"
-- "desc": "Zuleika has advantage on Wisdom (Perception) checks that rely on hearing\
-    \ or smell."
+- "desc": "Zuleika has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
+    \ checks that rely on hearing or smell."
   "name": "Keen Hearing and Smell"
 "actions":
 - "desc": "Zuleika makes two attacks: two with its spear (humanoid form) or one with\

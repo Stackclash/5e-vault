@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Knight-Sorcerer"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Knight Sorcerer (SAF).md|Knight-Sorcerer]]
+# [[5. Mechanics/Bestiary/Humanoid/Knight Sorcerer (SAF).md|Knight-Sorcerer]]
 *Source: Strongholds and Followers p. 75*  
 
 ```statblock

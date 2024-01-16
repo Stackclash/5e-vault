@@ -20,7 +20,6 @@ tags:
 aliases: ["Stoneskin"]
 ---
 # Stoneskin
-%%-- Embedded content starts on the next line. --%%
 *4th-level, Abjuration*  
 
 - **Casting time:** 1 action

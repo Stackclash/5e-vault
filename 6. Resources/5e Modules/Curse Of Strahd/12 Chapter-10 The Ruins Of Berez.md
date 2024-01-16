@@ -118,7 +118,7 @@ There is no gate in the fence, and [[4. World Almanac/NPCs/Baba Lysaga.md\|Baba 
 
 [[4. World Almanac/NPCs/Baba Lysaga.md\|Baba Lysaga]] (see appendix D) is inside her hut unless she has been drawn forth by activity elsewhere. The squawks of the birds are music to her ears, but the noise makes it impossible for her to hear anyone approaching. Only the howling of the skulls in area U2 or sounds of combat nearby are loud enough to be heard over the squawking.
 
-Inside each cage is a [[5. Mechanics/Bestiary/Beast/Swarm Of Ravens.md\|swarm of ravens]] that fiercely attacks [[4. World Almanac/NPCs/Baba Lysaga.md\|Baba Lysaga]] and her [[5. Mechanics/Bestiary/Construct/Scarecrow.md\|scarecrows]] if released. Each cage is held shut by one of [[4. World Almanac/NPCs/Baba Lysaga.md\|Baba Lysaga]]'s arcane lock spells, and opening it requires a knock spell or a successful DC 20 Strength check. A character can also pick the lock with thieves' tools and a successful DC 20 Dexterity check.
+Inside each cage is a [[5. Mechanics/Bestiary/Beast/Swarm Of Ravens.md\|swarm of ravens]] that fiercely attacks [[4. World Almanac/NPCs/Baba Lysaga.md\|Baba Lysaga]] and her [[5. Mechanics/Bestiary/Construct/Scarecrow.md\|scarecrows]] if released. Each cage is held shut by one of [[4. World Almanac/NPCs/Baba Lysaga.md\|Baba Lysaga]]'s [[5. Mechanics/Spells/Arcane Lock.md\|arcane lock]] spells, and opening it requires a [[5. Mechanics/Spells/Knock.md\|knock]] spell or a successful DC 20 Strength check. A character can also pick the lock with thieves' tools and a successful DC 20 Dexterity check.
 
 #### Giant Skull
 
@@ -131,23 +131,23 @@ The upside-down skull that floats next to the hut is a hill giant's skull that [
 > The hut is fifteen feet on a side and packed with old furniture, including a wooden cot, a wicker cabinet, a slender wardrobe, a wooden table, a stool, a barrel-topped wooden chest reinforced with brass bands, and an iron tub stained with blood. In the middle of the room is a ghastly wooden crib with a small, angelic child sitting in it. All the furnishings except for the crib are bolted to the floor. Beneath the crib, green light seeps up through cracks between the rotting floorboards.
 ^560
 
-The child and the crib are illusions created by [[4. World Almanac/NPCs/Baba Lysaga.md\|Baba Lysaga]] using a programmed illusion spell. [[4. World Almanac/NPCs/Baba Lysaga.md\|Baba Lysaga]] refers to the child as "Strahd" and created the illusion out of madness, because she considers herself a protective mother.
+The child and the crib are illusions created by [[4. World Almanac/NPCs/Baba Lysaga.md\|Baba Lysaga]] using a [[5. Mechanics/Spells/Programmed Illusion.md\|programmed illusion]] spell. [[4. World Almanac/NPCs/Baba Lysaga.md\|Baba Lysaga]] refers to the child as "Strahd" and created the illusion out of madness, because she considers herself a protective mother.
 
-Beneath the hut's rotting floorboards is a 3-foot-deep cavity containing the magic, green-glowing gem that [[4. World Almanac/NPCs/Baba Lysaga.md\|Baba Lysaga]] took from the Wizard of the Wines winery. This gem animates the hut (see "The Creeping Hut" in the "Special Events" section below). The floorboards can be ripped up or smashed with a successful DC 14 Strength check. Characters can also break through the floor by dealing 10 damage to it. The hut doesn't give up the gemstone easily, however (see "Baba Lysaga's Creeping Hut" in appendix D). If the gem is destroyed or removed from the cavity, the hut becomes incapacitated.
+Beneath the hut's rotting floorboards is a 3-foot-deep cavity containing the magic, green-glowing gem that [[4. World Almanac/NPCs/Baba Lysaga.md\|Baba Lysaga]] took from the Wizard of the Wines winery. This gem animates the hut (see "The Creeping Hut" in the "Special Events" section below). The floorboards can be ripped up or smashed with a successful DC 14 Strength check. Characters can also break through the floor by dealing 10 damage to it. The hut doesn't give up the gemstone easily, however (see "Baba Lysaga's Creeping Hut" in appendix D). If the gem is destroyed or removed from the cavity, the hut becomes [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]].
 
 [[4. World Almanac/NPCs/Baba Lysaga.md\|Baba Lysaga]] keeps soiled robes in the wardrobe and assorted spell components in the wicker cabinet. The tub is where she ritually bathes in blood to prevent aging (see "Gifts of Mother Night" in the "[[4. World Almanac/NPCs/Baba Lysaga.md\|Baba Lysaga]]" section in appendix D). If the characters approach the hut at an appropriate time without being noticed, they can see [[4. World Almanac/NPCs/Baba Lysaga.md\|Baba Lysaga]] bathing.
 
 #### Treasure
 
-The wooden chest in the hut is protected by a glyph of warding that requires a successful DC 17 Intelligence (Investigation) check to find. The glyph deals `dice: 5d8|avg` (`5d8`) thunder damage when triggered. Opening the lid releases four [[5. Mechanics/Bestiary/Undead/Crawling Claw.md\|crawling claws]] that fight until destroyed. Also contained in the chest are various items that [[4. World Almanac/NPCs/Baba Lysaga.md\|Baba Lysaga]] has taken from dead adventurers over the years:
+The wooden chest in the hut is protected by a [[5. Mechanics/Spells/Glyph Of Warding.md\|glyph of warding]] that requires a successful DC 17 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check to find. The glyph deals `dice: 5d8|avg` (`5d8`) thunder damage when triggered. Opening the lid releases four [[5. Mechanics/Bestiary/Undead/Crawling Claw.md\|crawling claws]] that fight until destroyed. Also contained in the chest are various items that [[4. World Almanac/NPCs/Baba Lysaga.md\|Baba Lysaga]] has taken from dead adventurers over the years:
 
 - 1,300 gp  
 - Five 500 gp gemstones  
-- A vial containing oil of sharpness  
-- Two spell scrolls (mass cure wounds and revivify)  
-- A pouch containing ten +1 sling bullets  
-- A set of pipes of haunting  
-- A stone of good luck (luckstone)  
+- A vial containing [[5. Mechanics/Items/Oil Of Sharpness.md\|oil of sharpness]]  
+- Two [[5. Mechanics/Items/Spell Scroll.md\|spell scrolls]] ([[5. Mechanics/Spells/Mass Cure Wounds.md\|mass cure wounds]] and [[5. Mechanics/Spells/Revivify.md\|revivify]])  
+- A pouch containing ten [+1 sling bullets](compendium/items/1-ammunition.md)  
+- A set of [[5. Mechanics/Items/Pipes Of Haunting.md\|pipes of haunting]]  
+- A [[5. Mechanics/Items/Stone Of Good Luck.md\|stone of good luck (luckstone)]]  
 
 #### Fortunes of Ravenloft
 
@@ -164,7 +164,7 @@ Rotted coffins and moldy bones are buried in the graveyard. Characters who explo
 
 ### U5. Marina's Monument
 
-Strahd had this monument erected after Marina's death. The monument is hidden in the marsh, and the characters aren't likely to find it on their own unless they scour the area thoroughly. If they lay Burgomaster Ulrich's spirit to rest (see area U2), it points them to this location before fading away. Without Ulrich's guidance, the characters must enter the square in which the monument is located and search that area. A character who searches the area for 10 minutes can make a DC 15 Wisdom (Perception) check, finding the monument on a success. If the monument isn't found, the check can be repeated after another 10 minutes of searching.
+Strahd had this monument erected after Marina's death. The monument is hidden in the marsh, and the characters aren't likely to find it on their own unless they scour the area thoroughly. If they lay Burgomaster Ulrich's spirit to rest (see area U2), it points them to this location before fading away. Without Ulrich's guidance, the characters must enter the square in which the monument is located and search that area. A character who searches the area for 10 minutes can make a DC 15 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check, finding the monument on a success. If the monument isn't found, the check can be repeated after another 10 minutes of searching.
 
 The following boxed text assumes that the characters have met [[4. World Almanac/NPCs/Ireena Kolyana.md\|Ireena Kolyana]]. If they have not, don't read the sentence that mentions her.
 
@@ -186,7 +186,7 @@ If the characters disturb the monument, read:
 > The croaking frogs and chirping crickets fall silent, and the stench of decay grows strong. You hear the trudge of heavy footsteps through mud and water as bloated gray shapes shamble out of the fog.
 ^568
 
-Seven distended human corpses have risen from the mire west of the monument. These [[5. Mechanics/Bestiary/Humanoid/Walking Corpse (COS).md\|walking corpses]] are 60 feet away when first seen. Use the [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoner]] statistics for the corpses, but reduce their walking speed to 20 feet and give them immunity to the charmed and frightened conditions. When a corpse is reduced to 0 hit points, it splits open, disgorging a [[5. Mechanics/Bestiary/Beast/Swarm Of Poisonous Snakes.md\|swarm of poisonous snakes]]. The snakes are hungry and fight until slain.
+Seven distended human corpses have risen from the mire west of the monument. These [[5. Mechanics/Bestiary/Humanoid/Walking Corpse (COS).md\|walking corpses]] are 60 feet away when first seen. Use the [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoner]] statistics for the corpses, but reduce their walking speed to 20 feet and give them immunity to the [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] and [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] conditions. When a corpse is reduced to 0 hit points, it splits open, disgorging a [[5. Mechanics/Bestiary/Beast/Swarm Of Poisonous Snakes.md\|swarm of poisonous snakes]]. The snakes are hungry and fight until slain.
 
 Characters can take the treasure and flee, easily outpacing the snake-swollen corpses.
 
@@ -232,7 +232,7 @@ You can use one or both of the following special events while the characters are
 > The giant roots beneath the hut come to life and pull themselves up out of the mire. The hut and the roots lurch and groan, becoming a lumbering mass that cracks as it walks, crushing all in its path.
 ^56e
 
-[[4. World Almanac/NPCs/Baba Lysagas Creeping Hut.md\|Baba Lysaga's creeping hut]] (see appendix D) is a ponderous construct that heeds [[4. World Almanac/NPCs/Baba Lysaga.md\|Baba Lysaga]]'s instructions and no one else's. It fights until destroyed or until the gemstone that animates it is removed or destroyed. [[4. World Almanac/NPCs/Baba Lysaga.md\|Baba Lysaga]] does everything she can to keep the characters from obtaining the gemstone, without which the hut is incapacitated.
+[[4. World Almanac/NPCs/Baba Lysagas Creeping Hut.md\|Baba Lysaga's creeping hut]] (see appendix D) is a ponderous construct that heeds [[4. World Almanac/NPCs/Baba Lysaga.md\|Baba Lysaga]]'s instructions and no one else's. It fights until destroyed or until the gemstone that animates it is removed or destroyed. [[4. World Almanac/NPCs/Baba Lysaga.md\|Baba Lysaga]] does everything she can to keep the characters from obtaining the gemstone, without which the hut is [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]].
 
 ### Lost Battlefield
 
