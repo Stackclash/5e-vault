@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "4. World Almanac/NPCs/Milivoj.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -204,8 +204,10 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "0d3640a761a229ad",
+  "active": "a88a1818b2c15bdd",
   "lastOpenFiles": [
+    "4. World Almanac/NPCs/Danika Dorakova.md",
+    "4. World Almanac/NPCs/Milivoj.md",
     "2. Scratch Notes/To-Do List.md",
     "4. World Almanac/NPCs/Strahd Von Zarovich.md",
     "4. World Almanac/NPCs/Doru.md",
@@ -241,8 +243,6 @@
     "3. The Party/Session Logs/Session Logs.md",
     "z_Assets/Barovia.jpg",
     "3. The Party/Session Logs/Knowing the Road.md",
-    "3. The Party/Session Logs/Welcome to Barovia.md",
-    "3. The Party/Session Logs/Campaign Preparation.md",
     "5. Mechanics/Bestiary/Undead/token/skeleton.png",
     "4. World Almanac/NPCs/token/zygfrek-belview.png",
     "4. World Almanac/NPCs/token/zuleika-toranescu.png",

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 statblock: inline
 pronounced: 
-race: 
+race: "[[5. Mechanics/Races/Human.md|Human]]"
 sex: 
 age: 
 alignment: 
@@ -10,7 +10,7 @@ condition: healthy
 occupation: 
 group: 
 religions: 
-location: 
+location: "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
 personality: 
 ideal: 
 bond: 
@@ -19,17 +19,18 @@ goals:
 likes: 
 dislikes: 
 tags:
-- compendium/src/5e/cos
-- monster/cr/0
-- monster/size/medium
-- monster/type/humanoid/human
-aliases: ["Milivoj"]
+  - compendium/src/5e/cos
+  - monster/cr/0
+  - monster/size/medium
+  - monster/type/humanoid/human
+aliases:
+  - Milivoj
 ---
 
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  "`INPUT[text:pronounced]`"
-> ![[compendium/bestiary/npc/img/milivoj.webp|cover hm-sm]] 
+> ![[4. World Almanac/NPCs/img/milivoj.webp|cover hm-sm]] 
 > ###### Bio
 >  |
 >  ---|---|
