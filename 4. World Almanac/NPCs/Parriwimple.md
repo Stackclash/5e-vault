@@ -3,7 +3,7 @@ obsidianUIMode: preview
 statblock: inline
 pronounced: 
 race: 
-sex: male
+sex: 
 age: 
 alignment: 
 condition: healthy
@@ -11,7 +11,7 @@ occupation:
 group: 
 religions: 
 location: 
-personality: ""
+personality: 
 ideal: 
 bond: 
 flaw: 
