@@ -3,9 +3,13 @@
 - [x] Create selection dropdowns for alignment and other fields for NPCs (watch [video](https://www.youtube.com/watch?v=iAYS0254a7I))
 - [x] Update import script to correctly point to new NPC location
 - [ ] Finalize Monster ttrpg-convert-cli template to populate information as well as statblock
-	- [ ] Move aquantences 
+	- [ ] Move Acquaintances above statblock
+	- [ ] Fix image being correct for NPCs
+	- [ ] Fix Overview to include multiple lines
+	- [ ] Fix statblock sometimes not showing up
 - [ ] Create flowchart of campaign (watch [video]())
 - [ ] Optimize syncing vault to github (watch [video](https://www.youtube.com/watch?v=gOdh8wdbxm4))
+	- [ ] Maybe exclude config json from github
 - [ ] Insert travel times into Settlements template (watch [video](https://www.youtube.com/watch?v=X6AT9G0uV-Y&t=1805s))
 - [ ] Look into weather generation (watch [video](https://www.youtube.com/watch?v=mDSHjLJyyTs&t=222s))
 - [ ] Look into using AI for generating notes (watch [Obsidian - Create Random Notes with ChatGPT Templates](https://www.youtube.com/watch?v=X9tlAZC6DSU&t=111s), [Obsidian - Creating TTRPG Calculators with DataviewJS and ChatGPT](https://www.youtube.com/watch?v=LgljhGhNWCA))

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Scratch Notes/To-Do List.md",
-                "mode": "source",
+                "file": "4. World Almanac/NPCs/Milivoj.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/NPCs/Strahd Von Zarovich.md",
+                "file": "4. World Almanac/NPCs/Milivoj.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/NPCs/Strahd Von Zarovich.md",
+                "file": "4. World Almanac/NPCs/Milivoj.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/NPCs/Strahd Von Zarovich.md"
+                "file": "4. World Almanac/NPCs/Milivoj.md"
               }
             }
           },
@@ -205,10 +204,11 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "a88a1818b2c15bdd",
+  "active": "0d3640a761a229ad",
   "lastOpenFiles": [
-    "4. World Almanac/NPCs/Doru.md",
     "2. Scratch Notes/To-Do List.md",
+    "4. World Almanac/NPCs/Strahd Von Zarovich.md",
+    "4. World Almanac/NPCs/Doru.md",
     "4. World Almanac/NPCs/Urwin Martikov.md",
     "2. Scratch Notes/House Rule Ideas.md",
     "4. World Almanac/Regions/Barovia.md",
@@ -243,7 +243,6 @@
     "3. The Party/Session Logs/Knowing the Road.md",
     "3. The Party/Session Logs/Welcome to Barovia.md",
     "3. The Party/Session Logs/Campaign Preparation.md",
-    "4. World Almanac/Regions/Regions.md",
     "5. Mechanics/Bestiary/Undead/token/skeleton.png",
     "4. World Almanac/NPCs/token/zygfrek-belview.png",
     "4. World Almanac/NPCs/token/zuleika-toranescu.png",
