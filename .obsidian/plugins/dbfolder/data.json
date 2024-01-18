@@ -5,7 +5,7 @@
     "enable_row_shadow": true,
     "enable_auto_update": true,
     "show_search_bar_by_default": false,
-    "logger_level_info": "error",
+    "logger_level_info": "debug",
     "csv_file_header_key": "File",
     "media_settings": {
       "link_alias_enabled": true,

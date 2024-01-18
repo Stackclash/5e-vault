@@ -4,23 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a7886239a5225643",
+        "id": "56a16109198314f7",
         "type": "tabs",
         "children": [
           {
-            "id": "283b176cf3bea212",
+            "id": "d354e36cb162d861",
             "type": "leaf",
             "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
-            "id": "fbbe29c5bf8dd53d",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
+              "type": "database-plugin",
+              "state": {
+                "file": "4. World Almanac/Places of Interest/Places of Interest.md"
+              }
             }
           }
         ]
@@ -134,14 +128,6 @@
             }
           },
           {
-            "id": "92118adc8da6f9c6",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
             "id": "0a4dd7129e56918f",
             "type": "leaf",
             "state": {
@@ -170,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -181,7 +167,6 @@
     "hiddenItems": {
       "obsidian-custom-frames:Open DnDBBriana": false,
       "obsidian-custom-frames:Open DnDBHolly": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false,
       "fantasy-content-generator:Fantasy Generators": false,
       "obsidian-custom-frames:Open DnDBGeorge": false,
       "obsidian-custom-frames:Open DnDBTim": false,
@@ -196,10 +181,10 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "283b176cf3bea212",
+  "active": "d354e36cb162d861",
   "lastOpenFiles": [
-    "4. World Almanac/Places of Interest/Coffin Maker's Shop.md",
     "4. World Almanac/Places of Interest/Places of Interest.md",
+    "4. World Almanac/Places of Interest/Coffin Maker's Shop.md",
     "z_Scripts/DB Folder/locationsByType.js",
     "z_Scripts/DB Folder/location-relationships.js",
     "z_Scripts/DB Folder",
