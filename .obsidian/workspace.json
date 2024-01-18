@@ -171,21 +171,23 @@
       "obsidian-custom-frames:Open DnDBGeorge": false,
       "obsidian-custom-frames:Open DnDBTim": false,
       "obsidian-custom-frames:Open DnDBShi": false,
-      "dbfolder:Create a new database table": false,
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "templater-obsidian:Templater": false,
       "obsidian-5e-statblocks:Open Creature Pane": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "dbfolder:Create a new database table": false
     }
   },
   "active": "d354e36cb162d861",
   "lastOpenFiles": [
+    "4. World Almanac/Places of Interest/Burgomaster's Mansion.md",
+    "4. World Almanac/Places of Interest/Places of Interest.md",
+    "4. World Almanac/Places of Interest/Old BoneGrinder.md",
     "js/locationsByType.js",
     "js",
-    "4. World Almanac/Places of Interest/Places of Interest.md",
     "4. World Almanac/Places of Interest/Coffin Maker's Shop.md",
     "z_Scripts/DB Folder/locationsByType.js",
     "z_Scripts/DB Folder/location-relationships.js",
@@ -214,7 +216,6 @@
     "compendium/bestiary/celestial/img",
     "compendium/deities/img",
     "compendium/spells/img",
-    "compendium/bestiary/plant/token",
     "compendium/rules/variant-rules/tying-knots-xge.md",
     "compendium/rules/variant-rules/wands-that-dont-recharge.md",
     "compendium/rules/variant-rules/tool-proficiencies-xge.md",
@@ -228,7 +229,6 @@
     "compendium/rules/variant-rules/sidekicks-tce.md",
     "compendium/rules/variant-rules/shared-campaign-variant-rules-xge.md",
     "compendium/rules/variant-rules/scroll-mishaps.md",
-    "compendium/rules/variant-rules/rest-variants.md",
     "Untitled.canvas"
   ]
 }
