@@ -68,7 +68,7 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-      formula_query: db.js
+      formula_query: ${db.js.locationsByType(db.dataview, ['Regions'])}
 config:
   remove_field_when_delete_column: false
   cell_size: normal

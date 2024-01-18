@@ -1,8 +1,16 @@
-function locationRelationship(dv, locations) {
+function locationsByType(dv, locations) {
     const files = []
     for (location of locations) {
         files.concat(dv.pages(`4. World Almanac/${location}`))
     }
+
+    console.log(files.map(f => {
+        return {
+            value: f.file.name,
+            label: f.file.name,
+            color: 'red'
+        }
+    }))
 
     return files.map(f => {
         return {
@@ -13,4 +21,4 @@ function locationRelationship(dv, locations) {
     })
 }
 
-module.exports = locationRelationship
+module.exports = locationsByType
