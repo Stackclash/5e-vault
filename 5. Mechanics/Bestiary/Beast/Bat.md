@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Bat"]
 ---
-# [[5. Mechanics/Bestiary/Beast/Bat.md|Bat]]
+# [[5. Mechanics\Bestiary\Beast\Bat.md|Bat]]
 *Source: Monster Manual p. 318, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -32,10 +32,9 @@ aliases: ["Bat"]
 "languages": ""
 "cr": "0"
 "traits":
-- "desc": "The bat can't use its blindsight while [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]]."
+- "desc": "The bat can't use its blindsight while deafened."
   "name": "Echolocation"
-- "desc": "The bat has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
-    \ checks that rely on hearing."
+- "desc": "The bat has advantage on Wisdom (Perception) checks that rely on hearing."
   "name": "Keen Hearing"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+0 (+0 to hit), reach 5 ft., one creature.\
@@ -50,6 +49,6 @@ aliases: ["Bat"]
 - "WBtW"
 - "PSX"
 - "DoDk"
-"image": "5. Mechanics/Bestiary/Beast/token/bat.png"
+"image": "compendium/bestiary/beast/token/bat.png"
 ```
 ^statblock

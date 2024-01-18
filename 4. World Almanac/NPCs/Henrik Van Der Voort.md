@@ -29,7 +29,7 @@ aliases: ["Henrik van der Voort"]
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  "`INPUT[text:pronounced]`"
-> ![[compendium/bestiary/npc/img/henrik-van-der-voort.webp|cover hm-sm]] 
+> ![[4. World Almanac/NPCs/img/henrik-van-der-voort.webp|cover hm-sm]] 
 > ###### Bio
 >  |
 >  ---|---|
@@ -73,6 +73,15 @@ TBD
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
 
+## Acquaintances
+> [!column|dataview] Acquaintances
+>> [!metadata|text-Center bg-c-green]- Friends & Family
+>> TBD
+>
+>> [!metadata|text-Center bg-c-red]- Rivals
+>> TBD
+>
+
 ## Stats
 ```statblock
 "name": "Henrik van der Voort (CoS)"
@@ -100,18 +109,9 @@ TBD
   "name": "Club"
 "source":
 - "CoS"
-"image": "compendium/bestiary/npc/token/henrik-van-der-voort.png"
+"image": "4. World Almanac/NPCs/token/henrik-van-der-voort.png"
 ```
 ^statblock
-
-## Acquaintances
-> [!column|dataview] Acquaintances
->> [!metadata|text-Center bg-c-green]- Friends & Family
->> TBD
->
->> [!metadata|text-Center bg-c-red]- Rivals
->> TBD
->
 
 ## History
 TBD

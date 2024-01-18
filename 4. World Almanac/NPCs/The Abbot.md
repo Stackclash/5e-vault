@@ -72,6 +72,15 @@ TBD
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
 
+## Acquaintances
+> [!column|dataview] Acquaintances
+>> [!metadata|text-Center bg-c-green]- Friends & Family
+>> TBD
+>
+>> [!metadata|text-Center bg-c-red]- Rivals
+>> TBD
+>
+
 ## Stats
 ```statblock
 "name": "The Abbot (CoS)"
@@ -96,16 +105,14 @@ TBD
   "Insight": !!int "9"
   "Perception": !!int "9"
 "damage_resistances": "radiant; bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]"
+"condition_immunities": "charmed, exhaustion, frightened"
 "senses": "darkvision 120 ft., passive Perception 19"
 "languages": "all, telepathy 120 ft."
 "cr": "10"
 "traits":
 - "desc": "The Abbot's spellcasting ability is Charisma (spell save DC 17). The Abbot\
     \ can innately cast the following spells, requiring only verbal components:\n\n\
-    At will: [[5. Mechanics/Spells/Detect Evil And Good.md\|detect evil and good]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Commune.md\|commune]], [[5. Mechanics/Spells/Raise Dead.md\|raise dead]]"
+    At will: detect evil and good\n\n1/day each: commune, raise dead"
   "name": "innate"
 - "desc": "The Abbot's weapon attacks are magical. When The Abbot hits with any weapon,\
     \ the weapon deals an extra dice: 4d8|avg (4d8) radiant damage (included in\
@@ -136,18 +143,9 @@ TBD
   "name": "Change Shape"
 "source":
 - "CoS"
-"image": "compendium/bestiary/npc/token/the-abbot.png"
+"image": "4. World Almanac/NPCs/token/the-abbot.png"
 ```
 ^statblock
-
-## Acquaintances
-> [!column|dataview] Acquaintances
->> [!metadata|text-Center bg-c-green]- Friends & Family
->> TBD
->
->> [!metadata|text-Center bg-c-red]- Rivals
->> TBD
->
 
 ## History
 TBD

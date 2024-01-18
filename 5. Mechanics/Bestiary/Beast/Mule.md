@@ -12,7 +12,7 @@ tags:
 statblock: inline
 aliases: ["Mule"]
 ---
-# [[5. Mechanics/Bestiary/Beast/Mule.md|Mule]]
+# [[5. Mechanics\Bestiary\Beast\Mule.md|Mule]]
 *Source: Monster Manual p. 333, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -39,7 +39,7 @@ aliases: ["Mule"]
     \ its carrying capacity."
   "name": "Beast of Burden"
 - "desc": "The mule has advantage on Strength and Dexterity saving throws made against\
-    \ effects that would knock it [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ effects that would knock it prone."
   "name": "Sure-Footed"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
@@ -52,7 +52,7 @@ aliases: ["Mule"]
 - "GoS"
 - "KftGV"
 - "DoDk"
-"image": "5. Mechanics/Bestiary/Beast/token/mule.png"
+"image": "compendium/bestiary/beast/token/mule.png"
 ```
 ^statblock
 

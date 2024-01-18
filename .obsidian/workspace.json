@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/NPCs/Milivoj.md",
-                "mode": "preview",
+                "file": "4. World Almanac/NPCs/Strahd Von Zarovich.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/NPCs/Milivoj.md",
+                "file": "4. World Almanac/NPCs/Strahd Von Zarovich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/NPCs/Milivoj.md",
+                "file": "4. World Almanac/NPCs/Strahd Von Zarovich.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/NPCs/Milivoj.md"
+                "file": "4. World Almanac/NPCs/Strahd Von Zarovich.md"
               }
             }
           },
@@ -204,12 +204,13 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "a88a1818b2c15bdd",
+  "active": "0d3640a761a229ad",
   "lastOpenFiles": [
-    "4. World Almanac/NPCs/Danika Dorakova.md",
-    "4. World Almanac/NPCs/Milivoj.md",
-    "2. Scratch Notes/To-Do List.md",
+    "4. World Almanac/NPCs/Strahds Animated Armor.md",
     "4. World Almanac/NPCs/Strahd Von Zarovich.md",
+    "4. World Almanac/NPCs/Milivoj.md",
+    "4. World Almanac/NPCs/Danika Dorakova.md",
+    "2. Scratch Notes/To-Do List.md",
     "4. World Almanac/NPCs/Doru.md",
     "4. World Almanac/NPCs/Urwin Martikov.md",
     "2. Scratch Notes/House Rule Ideas.md",
@@ -242,7 +243,6 @@
     "3. The Party/Session Logs/Deal with the Devil.md",
     "3. The Party/Session Logs/Session Logs.md",
     "z_Assets/Barovia.jpg",
-    "3. The Party/Session Logs/Knowing the Road.md",
     "5. Mechanics/Bestiary/Undead/token/skeleton.png",
     "4. World Almanac/NPCs/token/zygfrek-belview.png",
     "4. World Almanac/NPCs/token/zuleika-toranescu.png",

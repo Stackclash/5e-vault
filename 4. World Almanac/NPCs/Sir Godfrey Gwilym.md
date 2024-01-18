@@ -29,7 +29,7 @@ aliases: ["Sir Godfrey Gwilym"]
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  "`INPUT[text:pronounced]`"
-> ![[compendium/bestiary/npc/img/sir-godfrey-gwilym.webp|cover hm-sm]] 
+> ![[4. World Almanac/NPCs/img/sir-godfrey-gwilym.webp|cover hm-sm]] 
 > ###### Bio
 >  |
 >  ---|---|
@@ -73,6 +73,15 @@ TBD
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
 
+## Acquaintances
+> [!column|dataview] Acquaintances
+>> [!metadata|text-Center bg-c-green]- Friends & Family
+>> TBD
+>
+>> [!metadata|text-Center bg-c-red]- Rivals
+>> TBD
+>
+
 ## Stats
 ```statblock
 "name": "Sir Godfrey Gwilym (CoS)"
@@ -97,21 +106,17 @@ TBD
   "Constitution": !!int "7"
 "damage_resistances": "necrotic, psychic"
 "damage_immunities": "poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]], [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]]"
+"condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned, stunned"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "the languages it knew in life"
 "cr": "6"
 "traits":
 - "desc": "Sir Godfrey is a 16th-level spellcaster. His spellcasting ability is Wisdom\
     \ (spell save DC 14, dice: d20+6 (+6 to hit) with spell attacks). He has the\
-    \ following paladin spells prepared:\n\n1st level (4 slots): [[5. Mechanics/Spells/Command.md\|command]],\
-    \ [[5. Mechanics/Spells/Divine Favor.md\|divine favor]], [[5. Mechanics/Spells/Thunderous Smite.md\|thunderous smite]]\n\
-    \n2nd level (3 slots): [[5. Mechanics/Spells/Branding Smite.md\|branding smite]],\
-    \ [[5. Mechanics/Spells/Magic Weapon.md\|magic weapon]]\n\n3rd level (3 slots):\
-    \ [[5. Mechanics/Spells/Blinding Smite.md\|blinding smite]], [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]]\n\
-    \n4th level (2 slots): [[5. Mechanics/Spells/Staggering Smite.md\|staggering smite]]"
+    \ following paladin spells prepared:\n\n1st level (4 slots): command, divine\
+    \ favor, thunderous smite\n\n2nd level (3 slots): branding smite, magic weapon\n\
+    \n3rd level (3 slots): blinding smite, dispel magic\n\n4th level (2 slots):\
+    \ staggering smite"
   "name": "spells"
 - "desc": "The knight regains 10 hit points at the start of its turn. If the knight\
     \ takes fire or radiant damage, this trait doesn't function at the start of the\
@@ -120,7 +125,7 @@ TBD
   "name": "Regeneration"
 - "desc": "When the knight's body is destroyed, its soul lingers. After 24 hours,\
     \ the soul inhabits and animates another humanoid corpse on the same plane of\
-    \ existence and regains all its hit points. While the soul is bodiless, a [[5. Mechanics/Spells/Wish.md\|wish]]\
+    \ existence and regains all its hit points. While the soul is bodiless, a wish\
     \ spell can be used to force the soul to go to the afterlife and not return."
   "name": "Rejuvenation"
 - "desc": "The knight is immune to effects that turn undead."
@@ -147,28 +152,17 @@ TBD
   "name": "Fist"
 - "desc": "The knight targets one creature it can see within 30 feet of it and against\
     \ which it has sworn vengeance. The target must make a DC 15 Wisdom saving throw.\
-    \ On a failure, the target is [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]]\
-    \ until the knight deals damage to it, or until the end of the knight's next turn.\
-    \ When the paralysis ends, the target is [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
-    \ of the knight for 1 minute. The [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
-    \ target can repeat the saving throw at the end of each of its turns, with disadvantage\
-    \ if it can see the knight, ending the [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
-    \ condition on itself on a success."
+    \ On a failure, the target is paralyzed until the knight deals damage to it, or\
+    \ until the end of the knight's next turn. When the paralysis ends, the target\
+    \ is frightened of the knight for 1 minute. The frightened target can repeat the\
+    \ saving throw at the end of each of its turns, with disadvantage if it can see\
+    \ the knight, ending the frightened condition on itself on a success."
   "name": "Vengeful Glare"
 "source":
 - "CoS"
-"image": "compendium/bestiary/npc/token/sir-godfrey-gwilym.png"
+"image": "4. World Almanac/NPCs/token/sir-godfrey-gwilym.png"
 ```
 ^statblock
-
-## Acquaintances
-> [!column|dataview] Acquaintances
->> [!metadata|text-Center bg-c-green]- Friends & Family
->> TBD
->
->> [!metadata|text-Center bg-c-red]- Rivals
->> TBD
->
 
 ## History
 TBD

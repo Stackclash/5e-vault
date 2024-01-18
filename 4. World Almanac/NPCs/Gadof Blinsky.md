@@ -29,7 +29,7 @@ aliases: ["Gadof Blinsky"]
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  "`INPUT[text:pronounced]`"
-> ![[compendium/bestiary/npc/img/gadof-blinsky.webp|cover hm-sm]] 
+> ![[4. World Almanac/NPCs/img/gadof-blinsky.webp|cover hm-sm]] 
 > ###### Bio
 >  |
 >  ---|---|
@@ -73,6 +73,15 @@ TBD
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
 
+## Acquaintances
+> [!column|dataview] Acquaintances
+>> [!metadata|text-Center bg-c-green]- Friends & Family
+>> TBD
+>
+>> [!metadata|text-Center bg-c-red]- Rivals
+>> TBD
+>
+
 ## Stats
 ```statblock
 "name": "Gadof Blinsky (CoS)"
@@ -100,18 +109,9 @@ TBD
   "name": "Club"
 "source":
 - "CoS"
-"image": "compendium/bestiary/npc/token/gadof-blinsky.png"
+"image": "4. World Almanac/NPCs/token/gadof-blinsky.png"
 ```
 ^statblock
-
-## Acquaintances
-> [!column|dataview] Acquaintances
->> [!metadata|text-Center bg-c-green]- Friends & Family
->> TBD
->
->> [!metadata|text-Center bg-c-red]- Rivals
->> TBD
->
 
 ## History
 TBD

@@ -29,7 +29,7 @@ aliases: ["Mad Mary"]
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  "`INPUT[text:pronounced]`"
-> ![[compendium/bestiary/npc/img/016-cos03-04.webp|cover hm-sm]] 
+> ![[4. World Almanac/NPCs/img/016-cos03-04.webp|cover hm-sm]] 
 > ###### Bio
 >  |
 >  ---|---|
@@ -73,6 +73,15 @@ TBD
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
 
+## Acquaintances
+> [!column|dataview] Acquaintances
+>> [!metadata|text-Center bg-c-green]- Friends & Family
+>> TBD
+>
+>> [!metadata|text-Center bg-c-red]- Rivals
+>> TBD
+>
+
 ## Stats
 ```statblock
 "name": "Mad Mary (CoS)"
@@ -100,18 +109,9 @@ TBD
   "name": "Club"
 "source":
 - "CoS"
-"image": "compendium/bestiary/npc/token/mad-mary.png"
+"image": "4. World Almanac/NPCs/token/mad-mary.png"
 ```
 ^statblock
-
-## Acquaintances
-> [!column|dataview] Acquaintances
->> [!metadata|text-Center bg-c-green]- Friends & Family
->> TBD
->
->> [!metadata|text-Center bg-c-red]- Rivals
->> TBD
->
 
 ## History
 TBD

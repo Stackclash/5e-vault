@@ -72,6 +72,15 @@ TBD
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
 
+## Acquaintances
+> [!column|dataview] Acquaintances
+>> [!metadata|text-Center bg-c-green]- Friends & Family
+>> TBD
+>
+>> [!metadata|text-Center bg-c-red]- Rivals
+>> TBD
+>
+
 ## Stats
 ```statblock
 "name": "Marzena Belview (CoS)"
@@ -119,18 +128,9 @@ TBD
   "name": "Dagger"
 "source":
 - "CoS"
-"image": "compendium/bestiary/npc/token/marzena-belview.png"
+"image": "4. World Almanac/NPCs/token/marzena-belview.png"
 ```
 ^statblock
-
-## Acquaintances
-> [!column|dataview] Acquaintances
->> [!metadata|text-Center bg-c-green]- Friends & Family
->> TBD
->
->> [!metadata|text-Center bg-c-red]- Rivals
->> TBD
->
 
 ## History
 TBD

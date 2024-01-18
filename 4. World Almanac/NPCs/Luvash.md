@@ -29,7 +29,7 @@ aliases: ["Luvash"]
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  "`INPUT[text:pronounced]`"
-> ![[compendium/bestiary/npc/img/luvash.webp|cover hm-sm]] 
+> ![[4. World Almanac/NPCs/img/luvash.webp|cover hm-sm]] 
 > ###### Bio
 >  |
 >  ---|---|
@@ -72,6 +72,15 @@ TBD
 
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
+
+## Acquaintances
+> [!column|dataview] Acquaintances
+>> [!metadata|text-Center bg-c-green]- Friends & Family
+>> TBD
+>
+>> [!metadata|text-Center bg-c-red]- Rivals
+>> TBD
+>
 
 ## Stats
 ```statblock
@@ -118,18 +127,9 @@ TBD
   "name": "Parry"
 "source":
 - "CoS"
-"image": "compendium/bestiary/npc/token/luvash.png"
+"image": "4. World Almanac/NPCs/token/luvash.png"
 ```
 ^statblock
-
-## Acquaintances
-> [!column|dataview] Acquaintances
->> [!metadata|text-Center bg-c-green]- Friends & Family
->> TBD
->
->> [!metadata|text-Center bg-c-red]- Rivals
->> TBD
->
 
 ## History
 TBD

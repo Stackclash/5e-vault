@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Broom of Animated Attack"]
 ---
-# [[5. Mechanics/Bestiary/Construct/Broom Of Animated Attack (COS).md|Broom of Animated Attack]]
+# [[5. Mechanics\Bestiary\Construct\Broom Of Animated Attack (COS).md|Broom of Animated Attack]]
 *Source: Curse of Strahd p. 226*  
 
 A broom of animated attack is easily mistaken for a broom of flying. It attacks any creature that grabs it or tries to ride it.
@@ -35,11 +35,8 @@ Some brooms of animated attack allow their creators to ride them, in which case 
 - !!int "1"
 "speed": "0 ft., fly 50 ft. (hover)"
 "damage_immunities": "poison, psychic"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]]"
+"condition_immunities": "blinded, charmed, deafened, exhaustion, frightened, paralyzed,\
+  \ petrified, poisoned, prone"
 "senses": "blindsight 30 ft. (blind beyond this radius), passive Perception 7"
 "languages": ""
 "cr": "1/4"
@@ -49,12 +46,9 @@ Some brooms of animated attack allow their creators to ride them, in which case 
     \ An animated object reduced to 0 hit points becomes inanimate and is too damaged\
     \ to be of much use or value to anyone."
   "name": "Constructed Nature"
-- "desc": "The broom is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
-    \ while in the area of an [[5. Mechanics/Spells/Antimagic Field.md|antimagic field]].\
-    \ If targeted by [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], the broom\
-    \ must succeed on a Constitution saving throw against the caster's spell save\
-    \ DC or fall [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]] for 1\
-    \ minute."
+- "desc": "The broom is incapacitated while in the area of an antimagic field. If\
+    \ targeted by dispel magic, the broom must succeed on a Constitution saving throw\
+    \ against the caster's spell save DC or fall unconscious for 1 minute."
   "name": "Antimagic Susceptibility"
 - "desc": "While the broom remains motionless and isn't flying, it is indistinguishable\
     \ from a normal broom."

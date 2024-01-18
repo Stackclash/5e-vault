@@ -29,7 +29,7 @@ aliases: ["Donavich"]
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  "`INPUT[text:pronounced]`"
-> ![[compendium/bestiary/npc/img/donavich.webp|cover hm-sm]] 
+> ![[4. World Almanac/NPCs/img/donavich.webp|cover hm-sm]] 
 > ###### Bio
 >  |
 >  ---|---|
@@ -73,6 +73,15 @@ TBD
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
 
+## Acquaintances
+> [!column|dataview] Acquaintances
+>> [!metadata|text-Center bg-c-green]- Friends & Family
+>> TBD
+>
+>> [!metadata|text-Center bg-c-red]- Rivals
+>> TBD
+>
+
 ## Stats
 ```statblock
 "name": "Donavich (CoS)"
@@ -100,10 +109,8 @@ TBD
 "traits":
 - "desc": "Donavich is a 1st-level spellcaster. Its spellcasting ability is Wisdom\
     \ (spell save DC 12, dice: d20+4 (+4 to hit) with spell attacks). Donavich has\
-    \ following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Light.md\|light]],\
-    \ [[5. Mechanics/Spells/Sacred Flame.md\|sacred flame]], [[5. Mechanics/Spells/Thaumaturgy.md\|thaumaturgy]]\n\
-    \n1st level (3 slots): [[5. Mechanics/Spells/Bless.md\|bless]], [[5. Mechanics/Spells/Cure Wounds.md\|cure wounds]],\
-    \ [[5. Mechanics/Spells/Sanctuary.md\|sanctuary]]"
+    \ following cleric spells prepared:\n\nCantrips (at will): light, sacred flame,\
+    \ thaumaturgy\n\n1st level (3 slots): bless, cure wounds, sanctuary"
   "name": "spells"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
@@ -111,18 +118,9 @@ TBD
   "name": "Club"
 "source":
 - "CoS"
-"image": "compendium/bestiary/npc/token/donavich.png"
+"image": "4. World Almanac/NPCs/token/donavich.png"
 ```
 ^statblock
-
-## Acquaintances
-> [!column|dataview] Acquaintances
->> [!metadata|text-Center bg-c-green]- Friends & Family
->> TBD
->
->> [!metadata|text-Center bg-c-red]- Rivals
->> TBD
->
 
 ## History
 TBD

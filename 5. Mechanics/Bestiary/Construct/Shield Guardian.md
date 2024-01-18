@@ -10,26 +10,8 @@ tags:
 statblock: inline
 aliases: ["Shield Guardian"]
 ---
-# [[5. Mechanics/Bestiary/Construct/Shield Guardian.md|Shield Guardian]]
+# [[5. Mechanics\Bestiary\Construct\Shield Guardian.md|Shield Guardian]]
 *Source: Monster Manual p. 271, Curse of Strahd. Available in the SRD.*  
-
-Wizards and other spellcasters create shield guardians for protection. A shield guardian treads beside its master, absorbing damage to keep its master alive as long as possible.
-
-## Master's Amulet
-
-Every shield guardian has an amulet magically linked to it. A shield guardian can have only one corresponding amulet, and if that amulet is destroyed, the shield guardian is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] until a replacement amulet is created. A shield guardian's amulet is subject to direct attack if it isn't being worn or carried. It has AC 10, 10 hit points, and immunity to poison and psychic damage. Crafting an amulet requires 1 week and costs 1,000 gp in components.
-
-A shield guardian's solitary focus is to protect the amulet's wearer. The amulet's wearer can command the guardian to attack its enemies or to guard the wielder against attack. If an attack threatens to injure the wearer, the construct can magically absorb the blow into its own body, even at a distance.
-
-A spellcaster can store a single spell within a shield guardian, which can then cast the spell on command or under specific conditions. Many a wizard has been rendered helpless by enemies, only to surprise those foes when its shield guardian unleashes potent magical power.
-
-## Magnificent Treasure
-
-Because a shield guardian's ownership can be transferred by giving its matching amulet to another creature, some wizards collect exorbitant sums from princes, nobles, and crime lords to create shield guardians for them. At the same time, a shield guardian makes a mighty prize for anyone who slays its master and claims its amulet.
-
-## Construct Nature
-
-A shield guardian doesn't require air, food, drink, or sleep.
 
 ```statblock
 "name": "Shield Guardian"
@@ -48,9 +30,7 @@ A shield guardian doesn't require air, food, drink, or sleep.
 - !!int "3"
 "speed": "30 ft."
 "damage_immunities": "poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
+"condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned"
 "senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 10"
 "languages": "understands commands given in any language but can't speak"
 "cr": "7"

@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Phantom Warrior (Archer)"]
 ---
-# [[5. Mechanics/Bestiary/Undead/Phantom Warrior Archer (COS).md|Phantom Warrior (Archer)]]
+# [[5. Mechanics\Bestiary\Undead\Phantom Warrior Archer (COS).md|Phantom Warrior (Archer)]]
 *Source: Curse of Strahd p. 142*  
 
 ```statblock
@@ -33,11 +33,8 @@ aliases: ["Phantom Warrior (Archer)"]
   "Perception": !!int "2"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "cold, necrotic, poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]"
+"condition_immunities": "charmed, exhaustion, frightened, grappled, paralyzed, petrified,\
+  \ poisoned, prone, restrained"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "any languages it knew in life"
 "cr": "3"

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 statblock: inline
 pronounced: 
-race: "[[5. Mechanics/Races/Human.md|Human]]"
+race: 
 sex: 
 age: 
 alignment: 
@@ -10,7 +10,7 @@ condition: healthy
 occupation: 
 group: 
 religions: 
-location: "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
+location: 
 personality: 
 ideal: 
 bond: 
@@ -19,12 +19,11 @@ goals:
 likes: 
 dislikes: 
 tags:
-  - compendium/src/5e/cos
-  - monster/cr/0
-  - monster/size/medium
-  - monster/type/humanoid/human
-aliases:
-  - Milivoj
+- compendium/src/5e/cos
+- monster/cr/0
+- monster/size/medium
+- monster/type/humanoid/human
+aliases: ["Milivoj"]
 ---
 
 > [!infobox]
@@ -74,6 +73,15 @@ TBD
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
 
+## Acquaintances
+> [!column|dataview] Acquaintances
+>> [!metadata|text-Center bg-c-green]- Friends & Family
+>> TBD
+>
+>> [!metadata|text-Center bg-c-red]- Rivals
+>> TBD
+>
+
 ## Stats
 ```statblock
 "name": "Milivoj (CoS)"
@@ -104,15 +112,6 @@ TBD
 "image": "4. World Almanac/NPCs/token/milivoj.png"
 ```
 ^statblock
-
-## Acquaintances
-> [!column|dataview] Acquaintances
->> [!metadata|text-Center bg-c-green]- Friends & Family
->> TBD
->
->> [!metadata|text-Center bg-c-red]- Rivals
->> TBD
->
 
 ## History
 TBD

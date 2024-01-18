@@ -72,6 +72,15 @@ TBD
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
 
+## Acquaintances
+> [!column|dataview] Acquaintances
+>> [!metadata|text-Center bg-c-green]- Friends & Family
+>> TBD
+>
+>> [!metadata|text-Center bg-c-red]- Rivals
+>> TBD
+>
+
 ## Stats
 ```statblock
 "name": "Lief Lipsiege (CoS)"
@@ -99,18 +108,9 @@ TBD
   "name": "Club"
 "source":
 - "CoS"
-"image": "compendium/bestiary/npc/token/lief-lipsiege.png"
+"image": "4. World Almanac/NPCs/token/lief-lipsiege.png"
 ```
 ^statblock
-
-## Acquaintances
-> [!column|dataview] Acquaintances
->> [!metadata|text-Center bg-c-green]- Friends & Family
->> TBD
->
->> [!metadata|text-Center bg-c-red]- Rivals
->> TBD
->
 
 ## History
 TBD

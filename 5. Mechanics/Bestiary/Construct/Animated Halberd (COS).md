@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Animated Halberd"]
 ---
-# [[5. Mechanics/Bestiary/Construct/Animated Halberd (COS).md|Animated Halberd]]
+# [[5. Mechanics\Bestiary\Construct\Animated Halberd (COS).md|Animated Halberd]]
 *Source: Curse of Strahd p. 59*  
 
 ```statblock
@@ -31,20 +31,15 @@ aliases: ["Animated Halberd"]
 "saves":
   "Dexterity": !!int "4"
 "damage_immunities": "poison, psychic"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
+"condition_immunities": "blinded, charmed, deafened, frightened, paralyzed, petrified,\
+  \ poisoned"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 7"
 "languages": ""
 "cr": "1/4"
 "traits":
-- "desc": "The sword is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
-    \ while in the area of an [[5. Mechanics/Spells/Antimagic Field.md|antimagic field]].\
-    \ If targeted by [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], the sword\
-    \ must succeed on a Constitution saving throw against the caster's spell save\
-    \ DC or fall [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]] for 1\
-    \ minute."
+- "desc": "The sword is incapacitated while in the area of an antimagic field. If\
+    \ targeted by dispel magic, the sword must succeed on a Constitution saving throw\
+    \ against the caster's spell save DC or fall unconscious for 1 minute."
   "name": "Antimagic Susceptibility"
 - "desc": "While the sword remains motionless and isn't flying, it is indistinguishable\
     \ from a normal sword."

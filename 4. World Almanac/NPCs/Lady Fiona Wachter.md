@@ -72,6 +72,15 @@ TBD
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
 
+## Acquaintances
+> [!column|dataview] Acquaintances
+>> [!metadata|text-Center bg-c-green]- Friends & Family
+>> TBD
+>
+>> [!metadata|text-Center bg-c-red]- Rivals
+>> TBD
+>
+
 ## Stats
 ```statblock
 "name": "Lady Fiona Wachter (CoS)"
@@ -100,13 +109,10 @@ TBD
 "traits":
 - "desc": "Fiona is a 5th-level spellcaster. Her spellcasting ability is Wisdom (spell\
     \ save DC 13, dice: d20+5 (+5 to hit) with spell attacks). Fiona has the following\
-    \ cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Light.md\|light]],\
-    \ [[5. Mechanics/Spells/Mending.md\|mending]], [[5. Mechanics/Spells/Thaumaturgy.md\|thaumaturgy]]\n\
-    \n1st level (4 slots): [[5. Mechanics/Spells/Command.md\|command]], [purify food\
-    \ and drink](compendium/spells/purify-food-and-drink.md), [[5. Mechanics/Spells/Sanctuary.md\|sanctuary]]\n\
-    \n2nd level (3 slots): [[5. Mechanics/Spells/Augury.md\|augury]], [[5. Mechanics/Spells/Gentle Repose.md\|gentle repose]],\
-    \ [[5. Mechanics/Spells/Hold Person.md\|hold person]]\n\n3rd level (2 slots):\
-    \ [[5. Mechanics/Spells/Animate Dead.md\|animate dead]], [[5. Mechanics/Spells/Create Food And Water.md\|create food and water]]"
+    \ cleric spells prepared:\n\nCantrips (at will): light, mending, thaumaturgy\n\
+    \n1st level (4 slots): command, purify food and drink, sanctuary\n\n2nd\
+    \ level (3 slots): augury, gentle repose, hold person\n\n3rd level (2 slots):\
+    \ animate dead, create food and water"
   "name": "spells"
 - "desc": "As a bonus action, Fiona can expend a spell slot to cause its melee weapon\
     \ attacks to magically deal an extra dice: 3d6|avg (3d6) radiant damage to\
@@ -120,18 +126,9 @@ TBD
   "name": "Mace"
 "source":
 - "CoS"
-"image": "compendium/bestiary/npc/token/lady-fiona-wachter.png"
+"image": "4. World Almanac/NPCs/token/lady-fiona-wachter.png"
 ```
 ^statblock
-
-## Acquaintances
-> [!column|dataview] Acquaintances
->> [!metadata|text-Center bg-c-green]- Friends & Family
->> TBD
->
->> [!metadata|text-Center bg-c-red]- Rivals
->> TBD
->
 
 ## History
 TBD

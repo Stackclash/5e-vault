@@ -29,7 +29,7 @@ aliases: ["Zygfrek Belview"]
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  "`INPUT[text:pronounced]`"
-> ![[compendium/bestiary/npc/img/zygfrek-belview.webp|cover hm-sm]] 
+> ![[4. World Almanac/NPCs/img/zygfrek-belview.webp|cover hm-sm]] 
 > ###### Bio
 >  |
 >  ---|---|
@@ -72,6 +72,15 @@ TBD
 
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
+
+## Acquaintances
+> [!column|dataview] Acquaintances
+>> [!metadata|text-Center bg-c-green]- Friends & Family
+>> TBD
+>
+>> [!metadata|text-Center bg-c-red]- Rivals
+>> TBD
+>
 
 ## Stats
 ```statblock
@@ -120,18 +129,9 @@ TBD
   "name": "Dagger"
 "source":
 - "CoS"
-"image": "compendium/bestiary/npc/token/zygfrek-belview.png"
+"image": "4. World Almanac/NPCs/token/zygfrek-belview.png"
 ```
 ^statblock
-
-## Acquaintances
-> [!column|dataview] Acquaintances
->> [!metadata|text-Center bg-c-green]- Friends & Family
->> TBD
->
->> [!metadata|text-Center bg-c-red]- Rivals
->> TBD
->
 
 ## History
 TBD

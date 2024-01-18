@@ -73,6 +73,15 @@ TBD
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
 
+## Acquaintances
+> [!column|dataview] Acquaintances
+>> [!metadata|text-Center bg-c-green]- Friends & Family
+>> TBD
+>
+>> [!metadata|text-Center bg-c-red]- Rivals
+>> TBD
+>
+
 ## Stats
 ```statblock
 "name": "Urwin Martikov (CoS)"
@@ -128,18 +137,9 @@ TBD
   "name": "Hand Crossbow (Human or Hybrid Form Only)"
 "source":
 - "CoS"
-"image": "compendium/bestiary/npc/token/urwin-martikov.png"
+"image": "4. World Almanac/NPCs/token/urwin-martikov.png"
 ```
 ^statblock
-
-## Acquaintances
-> [!column|dataview] Acquaintances
->> [!metadata|text-Center bg-c-green]- Friends & Family
->> TBD
->
->> [!metadata|text-Center bg-c-red]- Rivals
->> TBD
->
 
 ## History
 TBD

@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Armored Saber-Toothed Tiger"]
 ---
-# [[5. Mechanics/Bestiary/Beast/Armored Saber Toothed Tiger (COS).md|Armored Saber-Toothed Tiger]]
+# [[5. Mechanics\Bestiary\Beast\Armored Saber Toothed Tiger (COS).md|Armored Saber-Toothed Tiger]]
 *Source: Curse of Strahd p. 115*  
 
 ```statblock
@@ -35,14 +35,12 @@ aliases: ["Armored Saber-Toothed Tiger"]
 "languages": ""
 "cr": "3"
 "traits":
-- "desc": "The tiger has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
-    \ checks that rely on smell."
+- "desc": "The tiger has advantage on Wisdom (Perception) checks that rely on smell."
   "name": "Keen Smell"
 - "desc": "If the tiger moves at least 20 feet straight toward a creature and then\
     \ hits it with a claw attack on the same turn, that target must succeed on a DC\
-    \ 14 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
-    \ If the target is [[/5. Mechanics/Rules/Conditions.md#prone|prone]], the tiger can\
-    \ make one bite attack against it as a bonus action."
+    \ 14 Strength saving throw or be knocked prone. If the target is prone, the tiger\
+    \ can make one bite attack against it as a bonus action."
   "name": "Pounce"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\

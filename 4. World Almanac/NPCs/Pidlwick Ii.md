@@ -29,7 +29,7 @@ aliases: ["Pidlwick II"]
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  "`INPUT[text:pronounced]`"
-> ![[compendium/bestiary/npc/img/pidlwick-ii.webp|cover hm-sm]] 
+> ![[4. World Almanac/NPCs/img/pidlwick-ii.webp|cover hm-sm]] 
 > ###### Bio
 >  |
 >  ---|---|
@@ -105,6 +105,15 @@ Pidlwick II is basically an oversized toy - a 4-foot-tall mechanism stuffed with
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
 
+## Acquaintances
+> [!column|dataview] Acquaintances
+>> [!metadata|text-Center bg-c-green]- Friends & Family
+>> TBD
+>
+>> [!metadata|text-Center bg-c-red]- Rivals
+>> TBD
+>
+
 ## Stats
 ```statblock
 "name": "Pidlwick II (CoS)"
@@ -125,8 +134,7 @@ Pidlwick II is basically an oversized toy - a 4-foot-tall mechanism stuffed with
 "skillsaves":
   "Performance": !!int "2"
 "damage_immunities": "poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#petrified\|petrified]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]"
+"condition_immunities": "paralyzed, petrified, poisoned"
 "senses": "passive Perception 11"
 "languages": "understands Common but doesn't speak and can't read or write"
 "cr": "1/4"
@@ -143,18 +151,9 @@ Pidlwick II is basically an oversized toy - a 4-foot-tall mechanism stuffed with
   "name": "Dart"
 "source":
 - "CoS"
-"image": "compendium/bestiary/npc/token/pidlwick-ii.png"
+"image": "4. World Almanac/NPCs/token/pidlwick-ii.png"
 ```
 ^statblock
-
-## Acquaintances
-> [!column|dataview] Acquaintances
->> [!metadata|text-Center bg-c-green]- Friends & Family
->> TBD
->
->> [!metadata|text-Center bg-c-red]- Rivals
->> TBD
->
 
 ## History
 TBD

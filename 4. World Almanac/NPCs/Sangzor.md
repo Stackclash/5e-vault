@@ -72,6 +72,15 @@ TBD
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
 
+## Acquaintances
+> [!column|dataview] Acquaintances
+>> [!metadata|text-Center bg-c-green]- Friends & Family
+>> TBD
+>
+>> [!metadata|text-Center bg-c-red]- Rivals
+>> TBD
+>
+
 ## Stats
 ```statblock
 "name": "Sangzor (CoS)"
@@ -97,10 +106,10 @@ TBD
 - "desc": "If Sangzor moves at least 20 feet straight toward a target and then hits\
     \ it with a ram attack on the same turn, the target takes an extra dice: 2d4|avg\
     \ (2d4) bludgeoning damage. If the target is a creature, it must succeed on\
-    \ a DC 13 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]."
+    \ a DC 13 Strength saving throw or be knocked prone."
   "name": "Charge"
 - "desc": "Sangzor has advantage on Strength and Dexterity saving throws made against\
-    \ effects that would knock it [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]."
+    \ effects that would knock it prone."
   "name": "Sure-Footed"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
@@ -108,18 +117,9 @@ TBD
   "name": "Ram"
 "source":
 - "CoS"
-"image": "compendium/bestiary/npc/token/sangzor.png"
+"image": "4. World Almanac/NPCs/token/sangzor.png"
 ```
 ^statblock
-
-## Acquaintances
-> [!column|dataview] Acquaintances
->> [!metadata|text-Center bg-c-green]- Friends & Family
->> TBD
->
->> [!metadata|text-Center bg-c-red]- Rivals
->> TBD
->
 
 ## History
 TBD

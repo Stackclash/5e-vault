@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Walking Corpse"]
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Walking Corpse (COS).md|Walking Corpse]]
+# [[5. Mechanics\Bestiary\Humanoid\Walking Corpse (COS).md|Walking Corpse]]
 *Source: Curse of Strahd p. 165*  
 
 ```statblock
@@ -29,7 +29,7 @@ aliases: ["Walking Corpse"]
 - !!int "10"
 - !!int "10"
 "speed": "20 ft."
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]"
+"condition_immunities": "charmed, frightened"
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "0"

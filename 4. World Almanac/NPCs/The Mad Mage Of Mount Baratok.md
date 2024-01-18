@@ -72,6 +72,15 @@ TBD
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
 
+## Acquaintances
+> [!column|dataview] Acquaintances
+>> [!metadata|text-Center bg-c-green]- Friends & Family
+>> TBD
+>
+>> [!metadata|text-Center bg-c-red]- Rivals
+>> TBD
+>
+
 ## Stats
 ```statblock
 "name": "The Mad Mage of Mount Baratok (CoS)"
@@ -104,26 +113,16 @@ TBD
 "traits":
 - "desc": "The mad mage is an 18th-level spellcaster. His spellcasting ability is\
     \ Intelligence (spell save DC 17, dice: d20+9 (+9 to hit) with spell attacks).\
-    \ He can cast [[5. Mechanics/Spells/Disguise Self.md\|disguise self]] and [[5. Mechanics/Spells/Invisibility.md\|invisibility]]\
-    \ at will and has the following wizard spells prepared:\n\nAt will: [disguise\
-    \ self](compendium/spells/disguise-self.md), [[5. Mechanics/Spells/Invisibility.md\|invisibility]]\n\
-    \nCantrips (at will): [[5. Mechanics/Spells/Fire Bolt.md\|fire bolt]], [[5. Mechanics/Spells/Light.md\|light]],\
-    \ [[5. Mechanics/Spells/Mage Hand.md\|mage hand]], [[5. Mechanics/Spells/Prestidigitation.md\|prestidigitation]],\
-    \ [[5. Mechanics/Spells/Shocking Grasp.md\|shocking grasp]]\n\n1st level (4 slots):\
-    \ [[5. Mechanics/Spells/Detect Magic.md\|detect magic]], [[5. Mechanics/Spells/Mage Armor.md\|mage armor]],\
-    \ [[5. Mechanics/Spells/Magic Missile.md\|magic missile]], [[5. Mechanics/Spells/Shield.md\|shield]]\n\
-    \n2nd level (3 slots): [[5. Mechanics/Spells/Mirror Image.md\|mirror image]],\
-    \ [[5. Mechanics/Spells/Misty Step.md\|misty step]], [[5. Mechanics/Spells/Web.md\|web]]\n\
-    \n3rd level (3 slots): [[5. Mechanics/Spells/Counterspell.md\|counterspell]],\
-    \ [[5. Mechanics/Spells/Fly.md\|fly]], [[5. Mechanics/Spells/Lightning Bolt.md\|lightning bolt]]\n\
-    \n4th level (3 slots): [[5. Mechanics/Spells/Mordenkainens Faithful Hound.md\|Mordenkainen's faithful hound]],\
-    \ [[5. Mechanics/Spells/Polymorph.md\|polymorph]], [[5. Mechanics/Spells/Stoneskin.md\|stoneskin]]\n\
-    \n5th level (3 slots): [[5. Mechanics/Spells/Bigbys Hand.md\|Bigby's hand]], [cone\
-    \ of cold](compendium/spells/cone-of-cold.md), [[5. Mechanics/Spells/Scrying.md\|scrying]]\n\
-    \n6th level (1 slots): [[5. Mechanics/Spells/True Seeing.md\|true seeing]]\n\n\
-    7th level (1 slots): [[5. Mechanics/Spells/Mordenkainens Magnificent Mansion.md\|Mordenkainen's magnificent mansion]]\n\
-    \n8th level (1 slots): [[5. Mechanics/Spells/Mind Blank.md\|mind blank]]\n\n9th\
-    \ level (1 slots): [[5. Mechanics/Spells/Time Stop.md\|time stop]]"
+    \ He can cast disguise self and invisibility at will and has the following wizard\
+    \ spells prepared:\n\nAt will: disguise self, invisibility\n\nCantrips (at\
+    \ will): fire bolt, light, mage hand, prestidigitation, shocking grasp\n\n1st\
+    \ level (4 slots): detect magic, mage armor, magic missile, shield\n\n2nd\
+    \ level (3 slots): mirror image, misty step, web\n\n3rd level (3 slots):\
+    \ counterspell, fly, lightning bolt\n\n4th level (3 slots): Mordenkainen's\
+    \ faithful hound, polymorph, stoneskin\n\n5th level (3 slots): Bigby's hand,\
+    \ cone of cold, scrying\n\n6th level (1 slots): true seeing\n\n7th level\
+    \ (1 slots): Mordenkainen's magnificent mansion\n\n8th level (1 slots):\
+    \ mind blank\n\n9th level (1 slots): time stop"
   "name": "spells"
 - "desc": "The Mad Mage has advantage on saving throws against spells and other magical\
     \ effects."
@@ -135,18 +134,9 @@ TBD
   "name": "Dagger"
 "source":
 - "CoS"
-"image": "compendium/bestiary/npc/token/the-mad-mage-of-mount-baratok.png"
+"image": "4. World Almanac/NPCs/token/the-mad-mage-of-mount-baratok.png"
 ```
 ^statblock
-
-## Acquaintances
-> [!column|dataview] Acquaintances
->> [!metadata|text-Center bg-c-green]- Friends & Family
->> TBD
->
->> [!metadata|text-Center bg-c-red]- Rivals
->> TBD
->
 
 ## History
 TBD

@@ -29,7 +29,7 @@ aliases: ["Izek Strazni"]
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  "`INPUT[text:pronounced]`"
-> ![[compendium/bestiary/npc/img/izek-strazni.webp|cover hm-sm]] 
+> ![[4. World Almanac/NPCs/img/izek-strazni.webp|cover hm-sm]] 
 > ###### Bio
 >  |
 >  ---|---|
@@ -107,6 +107,15 @@ Izek has dreams of Ireena. If he spots her, he tries to take her by force to the
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
 
+## Acquaintances
+> [!column|dataview] Acquaintances
+>> [!metadata|text-Center bg-c-green]- Friends & Family
+>> TBD
+>
+>> [!metadata|text-Center bg-c-red]- Rivals
+>> TBD
+>
+
 ## Stats
 ```statblock
 "name": "Izek Strazni (CoS)"
@@ -148,18 +157,9 @@ Izek has dreams of Ireena. If he spots her, he tries to take her by force to the
   "name": "Hurl Flame"
 "source":
 - "CoS"
-"image": "compendium/bestiary/npc/token/izek-strazni.png"
+"image": "4. World Almanac/NPCs/token/izek-strazni.png"
 ```
 ^statblock
-
-## Acquaintances
-> [!column|dataview] Acquaintances
->> [!metadata|text-Center bg-c-green]- Friends & Family
->> TBD
->
->> [!metadata|text-Center bg-c-red]- Rivals
->> TBD
->
 
 ## History
 TBD

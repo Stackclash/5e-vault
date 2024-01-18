@@ -104,7 +104,7 @@ const config = {
             enabled: true,
             name: 'Update Token Path for Bestiary',
             ignore: function(file) {
-                return !/bestiary/i.test(file.path) || ['.jpg', '.jpeg', '.png', '.webp'].includes(file.fileExtension)
+                return !/bestiary/i.test(file.path) || !/npc/i.test(file.path) || ['.jpg', '.jpeg', '.png', '.webp'].includes(file.fileExtension)
             },
             target: 'content',
             regex: /"image": "([\w\/]+)(\/[img|token]+\/[\w]+\.[\w]+)"/g,
@@ -114,6 +114,18 @@ const config = {
                 imagePath = filePathRule.process({relativePath: imagePath})
 
                 return `"image": "${imagePath}${restOfPath}"`
+            }
+        },
+        {
+            enabled: true,
+            name: 'Update NPC image',
+            ignore: function(file) {
+                return !/npc/i.test(file.path) || ['.jpg', '.jpeg', '.png', '.webp'].includes(file.fileExtension)
+            },
+            target: 'content',
+            regex: /compendium([\\\/])bestiary([\\\/])npc/g,
+            process: function(file, oldText, separator) {
+                return `4. World Almanac${separator}NPCs`
             }
         }
     ]

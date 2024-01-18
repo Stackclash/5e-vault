@@ -29,7 +29,7 @@ aliases: ["Baron Vargas Vallakovich"]
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  "`INPUT[text:pronounced]`"
-> ![[compendium/bestiary/npc/img/baron-vargas-vallakovich.webp|cover hm-sm]] 
+> ![[4. World Almanac/NPCs/img/baron-vargas-vallakovich.webp|cover hm-sm]] 
 > ###### Bio
 >  |
 >  ---|---|
@@ -73,6 +73,15 @@ TBD
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
 
+## Acquaintances
+> [!column|dataview] Acquaintances
+>> [!metadata|text-Center bg-c-green]- Friends & Family
+>> TBD
+>
+>> [!metadata|text-Center bg-c-red]- Rivals
+>> TBD
+>
+
 ## Stats
 ```statblock
 "name": "Baron Vargas Vallakovich (CoS)"
@@ -108,18 +117,9 @@ TBD
   "name": "Parry"
 "source":
 - "CoS"
-"image": "compendium/bestiary/npc/token/baron-vargas-vallakovich.png"
+"image": "4. World Almanac/NPCs/token/baron-vargas-vallakovich.png"
 ```
 ^statblock
-
-## Acquaintances
-> [!column|dataview] Acquaintances
->> [!metadata|text-Center bg-c-green]- Friends & Family
->> TBD
->
->> [!metadata|text-Center bg-c-red]- Rivals
->> TBD
->
 
 ## History
 TBD

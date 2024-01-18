@@ -10,10 +10,8 @@ tags:
 statblock: inline
 aliases: ["Cultist"]
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Cultist.md|Cultist]]
+# [[5. Mechanics\Bestiary\Humanoid\Cultist.md|Cultist]]
 *Source: Monster Manual p. 345, Curse of Strahd. Available in the SRD and the Basic Rules.*  
-
-Cultists swear allegiance to dark powers such as elemental princes, demon lords, or archdevils. Most conceal their loyalties to avoid being ostracized, imprisoned, or executed for their beliefs. Unlike evil acolytes, cultists often show signs of insanity in their beliefs and practices.
 
 ```statblock
 "name": "Cultist"
@@ -39,8 +37,7 @@ Cultists swear allegiance to dark powers such as elemental princes, demon lords,
 "languages": "any one language (usually Common)"
 "cr": "1/8"
 "traits":
-- "desc": "The cultist has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
-    \ or [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]."
+- "desc": "The cultist has advantage on saving throws against being charmed or frightened."
   "name": "Dark Devotion"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one creature.\
@@ -75,7 +72,7 @@ Cultists swear allegiance to dark powers such as elemental princes, demon lords,
 - "BMT"
 - "GHLoE"
 - "DoDk"
-"image": "5. Mechanics/Bestiary/Humanoid/token/cultist.png"
+"image": "compendium/bestiary/humanoid/token/cultist.png"
 ```
 ^statblock
 

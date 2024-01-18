@@ -30,7 +30,7 @@ aliases: ["Brom Martikov"]
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  "`INPUT[text:pronounced]`"
-> ![[compendium/bestiary/npc/img/brom-martikov.webp|cover hm-sm]] 
+> ![[4. World Almanac/NPCs/img/brom-martikov.webp|cover hm-sm]] 
 > ###### Bio
 >  |
 >  ---|---|
@@ -73,6 +73,15 @@ TBD
 
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
+
+## Acquaintances
+> [!column|dataview] Acquaintances
+>> [!metadata|text-Center bg-c-green]- Friends & Family
+>> TBD
+>
+>> [!metadata|text-Center bg-c-red]- Rivals
+>> TBD
+>
 
 ## Stats
 ```statblock
@@ -129,18 +138,9 @@ TBD
   "name": "Hand Crossbow (Human or Hybrid Form Only)"
 "source":
 - "CoS"
-"image": "compendium/bestiary/npc/token/brom-martikov.png"
+"image": "4. World Almanac/NPCs/token/brom-martikov.png"
 ```
 ^statblock
-
-## Acquaintances
-> [!column|dataview] Acquaintances
->> [!metadata|text-Center bg-c-green]- Friends & Family
->> TBD
->
->> [!metadata|text-Center bg-c-red]- Rivals
->> TBD
->
 
 ## History
 TBD

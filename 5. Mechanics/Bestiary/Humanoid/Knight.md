@@ -10,10 +10,8 @@ tags:
 statblock: inline
 aliases: ["Knight"]
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Knight.md|Knight]]
+# [[5. Mechanics\Bestiary\Humanoid\Knight.md|Knight]]
 *Source: Monster Manual p. 347, Curse of Strahd. Available in the SRD and the Basic Rules.*  
-
-Knights are warriors who pledge service to rulers, religious orders, and noble causes. A knight's alignment determines the extent to which a pledge is honored. Whether undertaking a quest or patrolling a realm, a knight often travels with an entourage that includes squires and hirelings who are commoners.
 
 ```statblock
 "name": "Knight"
@@ -39,7 +37,7 @@ Knights are warriors who pledge service to rulers, religious orders, and noble c
 "languages": "any one language (usually Common)"
 "cr": "3"
 "traits":
-- "desc": "The knight has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]."
+- "desc": "The knight has advantage on saving throws against being frightened."
   "name": "Brave"
 "actions":
 - "desc": "The knight makes two melee attacks."
@@ -54,7 +52,7 @@ Knights are warriors who pledge service to rulers, religious orders, and noble c
     \ a nonhostile creature that it can see within 30 feet of it makes an attack roll\
     \ or a saving throw. The creature can add a dice: d4|avg (d4) to its roll\
     \ provided it can hear and understand the knight. A creature can benefit from\
-    \ only one Leadership die at a time. This effect ends if the knight is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ only one Leadership die at a time. This effect ends if the knight is incapacitated."
   "name": "Leadership (Recharges after a Short or Long Rest)"
 "reactions":
 - "desc": "The knight adds 2 to its AC against one melee attack that would hit it.\
@@ -87,7 +85,7 @@ Knights are warriors who pledge service to rulers, religious orders, and noble c
 - "ToFW"
 - "BMT"
 - "DoDk"
-"image": "5. Mechanics/Bestiary/Humanoid/token/knight.png"
+"image": "compendium/bestiary/humanoid/token/knight.png"
 ```
 ^statblock
 

@@ -30,7 +30,7 @@ aliases: ["Kiril Stoyanovich"]
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  "`INPUT[text:pronounced]`"
-> ![[compendium/bestiary/npc/img/kiril-stoyanovich.webp|cover hm-sm]] 
+> ![[4. World Almanac/NPCs/img/kiril-stoyanovich.webp|cover hm-sm]] 
 > ###### Bio
 >  |
 >  ---|---|
@@ -74,6 +74,15 @@ TBD
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
 
+## Acquaintances
+> [!column|dataview] Acquaintances
+>> [!metadata|text-Center bg-c-green]- Friends & Family
+>> TBD
+>
+>> [!metadata|text-Center bg-c-red]- Rivals
+>> TBD
+>
+
 ## Stats
 ```statblock
 "name": "Kiril Stoyanovich (CoS)"
@@ -106,8 +115,8 @@ TBD
     \ than its AC, are the same in each form. Any equipment it is wearing or carrying\
     \ isn't transformed. It reverts to its true form if it dies."
   "name": "Shapechanger"
-- "desc": "Kiril has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
-    \ checks that rely on hearing or smell."
+- "desc": "Kiril has advantage on Wisdom (Perception) checks that rely on hearing\
+    \ or smell."
   "name": "Keen Hearing and Smell"
 "actions":
 - "desc": "Kiril makes two attacks: two with its spear (humanoid form) or one with\
@@ -128,18 +137,9 @@ TBD
   "name": "Spear (Humanoid Form Only)"
 "source":
 - "CoS"
-"image": "compendium/bestiary/npc/token/kiril-stoyanovich.png"
+"image": "4. World Almanac/NPCs/token/kiril-stoyanovich.png"
 ```
 ^statblock
-
-## Acquaintances
-> [!column|dataview] Acquaintances
->> [!metadata|text-Center bg-c-green]- Friends & Family
->> TBD
->
->> [!metadata|text-Center bg-c-red]- Rivals
->> TBD
->
 
 ## History
 TBD

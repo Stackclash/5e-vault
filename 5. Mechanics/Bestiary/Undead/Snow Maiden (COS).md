@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Snow Maiden"]
 ---
-# [[5. Mechanics/Bestiary/Undead/Snow Maiden (COS).md|Snow Maiden]]
+# [[5. Mechanics\Bestiary\Undead\Snow Maiden (COS).md|Snow Maiden]]
 *Source: Curse of Strahd p. 159*  
 
 ```statblock
@@ -31,11 +31,8 @@ aliases: ["Snow Maiden"]
 "damage_resistances": "acid; cold; fire; lightning; thunder; bludgeoning, piercing,\
   \ slashing from nonmagical attacks"
 "damage_immunities": "cold, necrotic, poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]], [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]"
+"condition_immunities": "charmed, exhaustion, grappled, paralyzed, petrified, poisoned,\
+  \ prone, restrained, unconscious"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "understands all languages it knew in life but can't speak"
 "cr": "1"
@@ -45,8 +42,7 @@ aliases: ["Snow Maiden"]
     \ its turn inside an object."
   "name": "Incorporeal Movement"
 - "desc": "While in sunlight, the specter has disadvantage on attack rolls, as well\
-    \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that\
-    \ rely on sight."
+    \ as on Wisdom (Perception) checks that rely on sight."
   "name": "Sunlight Sensitivity"
 "actions":
 - "desc": "Melee Spell Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\

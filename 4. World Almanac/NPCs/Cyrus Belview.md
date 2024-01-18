@@ -29,7 +29,7 @@ aliases: ["Cyrus Belview"]
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  "`INPUT[text:pronounced]`"
-> ![[compendium/bestiary/npc/img/cyrus-belview.webp|cover hm-sm]] 
+> ![[4. World Almanac/NPCs/img/cyrus-belview.webp|cover hm-sm]] 
 > ###### Bio
 >  |
 >  ---|---|
@@ -73,6 +73,15 @@ TBD
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
 
+## Acquaintances
+> [!column|dataview] Acquaintances
+>> [!metadata|text-Center bg-c-green]- Friends & Family
+>> TBD
+>
+>> [!metadata|text-Center bg-c-red]- Rivals
+>> TBD
+>
+
 ## Stats
 ```statblock
 "name": "Cyrus Belview (CoS)"
@@ -99,8 +108,8 @@ TBD
 "languages": "Common"
 "cr": "1/4"
 "traits":
-- "desc": "The mongrelfolk has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
-    \ checks that rely on hearing or smell."
+- "desc": "The mongrelfolk has advantage on Wisdom (Perception) checks that rely on\
+    \ hearing or smell."
   "name": "Keen Hearing and Smell"
 - "desc": "Cyrus can mimic any sounds it has heard, including voices. A creature that\
     \ hears the sounds can tell they are imitations with a successful DC 12 Wisdom\
@@ -121,18 +130,9 @@ TBD
   "name": "Dagger"
 "source":
 - "CoS"
-"image": "compendium/bestiary/npc/token/cyrus-belview.png"
+"image": "4. World Almanac/NPCs/token/cyrus-belview.png"
 ```
 ^statblock
-
-## Acquaintances
-> [!column|dataview] Acquaintances
->> [!metadata|text-Center bg-c-green]- Friends & Family
->> TBD
->
->> [!metadata|text-Center bg-c-red]- Rivals
->> TBD
->
 
 ## History
 TBD
