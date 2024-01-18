@@ -1,7 +1,7 @@
-function locationsByType(db, locations) {
+async function locationsByType(db, locations) {
     const files = []
     for (location of locations) {
-        files.concat(db.dataview.pages(`4. World Almanac/${location}`))
+        files.concat(await db.dataview.pages(`4. World Almanac/${location}`))
     }
 
     return files.map(f => {

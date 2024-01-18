@@ -92,8 +92,8 @@ config:
   current_row_template: 
   pagination_size: 10
   font_size: 16
-  enable_js_formulas: false
-  formula_folder_path: /
+  enable_js_formulas: true
+  formula_folder_path: z_Scripts/DB Folder
   inline_default: false
   inline_new_position: last_field
   date_format: yyyy-MM-dd
