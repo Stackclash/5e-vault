@@ -157,7 +157,7 @@ The goddess Mother Night has bestowed magical gifts on Baba Lysaga as rewards fo
     \ (1 slots): programmed illusion, true seeing\n\n7th level (1 slots): finger\
     \ of death, mirage arcane\n\n8th level (1 slots): power word stun"
   "name": "spells"
-- "desc": "Baba Lysaga can use an action to polymorph into a [[5. Mechanics/Bestiary/Beast/Swarm Of Insects.md\|swarm of insects]]\
+- "desc": "Baba Lysaga can use an action to polymorph into a [[5. Mechanics/Bestiary/Beast/Swarm Of Insects.md|swarm of insects]]\
     \ (flies), or back into her true form. While in swarm form, she has a walking\
     \ speed of 5 feet and a flying speed of 30 feet. Anything she is wearing transforms\
     \ with her, but nothing she is carrying does."

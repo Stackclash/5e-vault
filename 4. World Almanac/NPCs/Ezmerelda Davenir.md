@@ -75,7 +75,7 @@ While in the company of a Vistani caravan, Ezmerelda heard a rumor that Rudolph 
 
 ## Tarokka Deck
 
-Ezmerelda keeps a [[5. Mechanics/Decks/Tarokka Deck (COS).md\|deck of tarokka cards]] in her wagon (chapter 11, area V1). Although the cards aren't magical, Ezmerelda can use them to perform a card reading for the characters (see chapter 1), like the one that can be performed by Madam Eva.
+Ezmerelda keeps a [[5. Mechanics/Decks/Tarokka Deck (COS).md|deck of tarokka cards]] in her wagon (chapter 11, area V1). Although the cards aren't magical, Ezmerelda can use them to perform a card reading for the characters (see chapter 1), like the one that can be performed by Madam Eva.
 
 ## Ezmerelda d'Avenir's Traits
 

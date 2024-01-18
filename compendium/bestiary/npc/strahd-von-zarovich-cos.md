@@ -1,3 +1,129 @@
+---
+obsidianUIMode: preview
+statblock: inline
+pronounced: 
+race: 
+sex: 
+age: 
+alignment: 
+condition: healthy
+occupation: 
+group: 
+religions: 
+location: 
+personality: 
+ideal: 
+bond: 
+flaw: 
+goals: 
+likes: 
+dislikes: 
+tags:
+- compendium/src/5e/cos
+- monster/cr/15
+- monster/size/medium
+- monster/type/undead/shapechanger
+aliases: ["Strahd von Zarovich"]
+---
+
+> [!infobox]
+> # `=this.file.name`
+> **Pronounced:**  "`INPUT[text:pronounced]`"
+> ![[compendium/bestiary/npc/img/153-636988936829621698.webp|cover hm-sm]] 
+> ###### Bio
+>  |
+>  ---|---|
+> **Race** | `INPUT[suggester(optionQuery("5. Mechanics/Races")):race]` |
+> **Sex** | `INPUT[inlineSelect(option(male),option(female)):sex]` |
+> **Age** | `INPUT[number:age]` |
+> **Alignment** | `INPUT[inlineSelect(option(lawful good),option(neutral good),option(chaotic good),option(lawful neutral),option(neutral),option(chaotic neutral),option(lawful evil),option(netural evil),option(chaotic evil)):alignment]` |
+> **Condition** | `INPUT[inlineSelect(option(healthy),option(injured),option(dead)):condition]` |
+> ###### Info
+>  |
+>  ---|---|
+> **Alias(es)** | `INPUT[inlineList:aliases]` |
+> **Occupation(s)** | `INPUT[inlineList:occupation]` |
+> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Religion(s)** | `INPUT[inlineList:religions]` |
+> **Current Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
+
+# **`=this.file.name`**
+With his mind sharp and his heart dark, Strahd von Zarovich is a formidable foe. Courage and lives beyond measure have been lost to him. Reread chapter 1, "Into the Mists," to understand his personality and goals.
+
+Although Strahd can be encountered almost anywhere in his domain, the vampire is always encountered in the place indicated by the card reading in chapter 1, unless he has been forced into his tomb in the catacombs of Castle Ravenloft.
+
+## Strahd's Tactics
+
+Because the entire adventure revolves around Strahd, you must play him intelligently and do everything you can to make him a terrifying and cunning adversary for the player characters.
+
+When you run an encounter with Strahd, keep the following facts in mind:
+
+- Strahd attacks at the most advantageous moment and from the most advantageous position.  
+- Strahd knows when he's in over his head. If he begins taking more damage than he can regenerate, he moves beyond the reach of melee combatants and spellcasters, or he flies away (using summoned wolves or swarms of bats or rats to guard his retreat).  
+- Strahd observes the characters to see who among them are most easily swayed, then tries to charm characters who have low Wisdom scores and use them as thralls. At the very least, he can order a charmed character to guard him against other members of the adventuring party.  
+
+## The Vampire's Minions
+
+Whenever Strahd appears in a location other than his tomb or the place indicated by the card reading, roll a `dice: d20|avg` (`d20`) and consult the Strahd's Minions table to determine what creatures he brings with him, if any.
+
+## Strahd's Minions
+
+| dice: d20 | Creatures |
+|-----------|-----------|
+| 1–3 | `dice: 1d4 + 2\|avg` (`1d4 + 2`) [dire wolves](compendium/bestiary/beast/dire-wolf.md) |
+| 4–6 | `dice: 1d6 + 3\|avg` (`1d6 + 3`) [ghouls](compendium/bestiary/undead/ghoul.md) |
+| 7–9 | `dice: 1d4 + 2\|avg` (`1d4 + 2`) [Strahd zombies](compendium/bestiary/undead/strahd-zombie-cos.md) (in this appendix) |
+| 10–12 | `dice: 2d4\|avg` (`2d4`) [swarms of bats](compendium/bestiary/beast/swarm-of-bats.md) |
+| 13–15 | `dice: 1d4 + 1\|avg` (`1d4 + 1`) [vampire spawn](compendium/bestiary/undead/vampire-spawn.md) |
+| 16–18 | `dice: 3d6\|avg` (`3d6`) [wolves](compendium/bestiary/beast/wolf.md) |
+| 19–20 | None |
+^creatures
+
+If the characters are in a residence, Strahd's creatures break through doors and windows to reach them, or crawl up through the earth, or swoop down the chimney. The vampire spawn (all that's left of a party of adventurers that Strahd defeated long ago) can't enter the characters' location unless invited.
+
+## Heart of Sorrow
+
+Strahd can afford to be bold in his tactics, for he has additional protection in the form of a giant crystal heart hidden inside Castle Ravenloft.
+
+Any damage that Strahd takes is transferred to the Heart of Sorrow (see chapter 4, area K20). If the heart absorbs damage that reduces it to 0 hit points, it is destroyed, and Strahd takes any leftover damage. The Heart of Sorrow has 50 hit points and is restored to that number of hit points each dawn, provided it has at least 1 hit point remaining. Strahd can, as a bonus action on his turn, break his link to the Heart of Sorrow so that it no longer absorbs damage dealt to him. Strahd can reestablish his link to the Heart of Sorrow as a bonus action on his turn, but only while in Castle Ravenloft.
+
+The effect of the protection afforded by the Heart of Sorrow can be chilling to behold, as damage to Strahd is quickly undone. For example, a critical hit might dislocate Strahd's jaw, but only for a moment; then the vampire's jaw quickly resets itself.
+
+The ability of the Heart of Sorrow to absorb damage is suppressed if it or Strahd is fully within an antimagic field.
+
+## Traits/Goals
+> [!column] Traits
+>> [!metadata|text-Center bg-c-gray] Personality
+>> `INPUT[text:personality]`
+>
+>> [!metadata|text-Center bg-c-gray] Ideal
+>> `INPUT[text:ideal]`
+>
+>> [!metadata|text-Center bg-c-gray] Bond
+>> `INPUT[text:bond]`
+>
+>> [!metadata|text-Center bg-c-gray] Flaw
+>> `INPUT[text:flaw]`
+>
+>> [!metadata|text-Center bg-c-green] Likes
+>> `INPUT[text:likes]`
+>
+>> [!metadata|text-Center bg-c-red] Dislikes
+>> `INPUT[text:dislikes]`
+
+> [!column|dataview] Goals
+>> `INPUT[textArea:goals]`
+
+## Acquaintances
+> [!column|dataview] Acquaintances
+>> [!metadata|text-Center bg-c-green]- Friends & Family
+>> TBD
+>
+>> [!metadata|text-Center bg-c-red]- Rivals
+>> TBD
+>
+
+## Stats
 ```statblock
 "name": "Strahd von Zarovich (CoS)"
 "size": "Medium"
@@ -95,7 +221,7 @@
     \ equal to the necrotic damage taken, and Strahd regains hit points equal to that\
     \ amount. The reduction lasts until the target finishes a long rest. The target\
     \ dies if its hit point maximum is reduced to 0. A humanoid slain in this way\
-    \ and then buried in the ground rises the following night as a [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md|vampire spawn]]\
+    \ and then buried in the ground rises the following night as a [vampire spawn](compendium/bestiary/undead/vampire-spawn.md)\
     \ under Strahd's control."
   "name": "Bite"
 - "desc": "Strahd targets one humanoid he can see within 30 feet of him. If the target\
@@ -108,9 +234,9 @@
     \ the effect lasts 24 hours or until Strahd is destroyed, is on a different plane\
     \ of existence than the target, or takes a bonus action to end the effect."
   "name": "Charm"
-- "desc": "Strahd magically calls dice: 2d4|avg (2d4) [[5. Mechanics/Bestiary/Beast/Swarm Of Bats.md|swarms of bats]]\
-    \ or [[5. Mechanics/Bestiary/Beast/Swarm Of Rats.md|swarms of rats]], provided that\
-    \ the sun isn't up. While outdoors, Strahd can call dice: 3d6|avg (3d6) [[5. Mechanics/Bestiary/Beast/Wolf.md|wolves]]\
+- "desc": "Strahd magically calls dice: 2d4|avg (2d4) [swarms of bats](compendium/bestiary/beast/swarm-of-bats.md)\
+    \ or [swarms of rats](compendium/bestiary/beast/swarm-of-rats.md), provided that\
+    \ the sun isn't up. While outdoors, Strahd can call dice: 3d6|avg (3d6) [wolves](compendium/bestiary/beast/wolf.md)\
     \ instead. The called creatures arrive in dice: 1d4|avg (1d4) rounds, acting\
     \ as allies of Strahd and obeying his spoken commands. The beasts remain for 1\
     \ hour, until Strahd dies, or until he dismisses them as a bonus action."
@@ -124,6 +250,18 @@
   "name": "Bite (Costs 2 Actions)"
 "source":
 - "CoS"
-"image": "4. World Almanac/NPCs/token/strahd-von-zarovich.png"
+"image": "compendium/bestiary/npc/token/strahd-von-zarovich.png"
 ```
 ^statblock
+
+## History
+TBD
+
+## DM Notes
+### Plot Hooks
+
+
+### Hidden Details
+
+
+### General Notes

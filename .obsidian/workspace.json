@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0d3640a761a229ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "283b176cf3bea212",
             "type": "leaf",
             "state": {
@@ -89,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "untitled.md",
+                "file": "5. Mechanics/Bestiary/Beast/Ankylosaurus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "untitled.md",
+                "file": "5. Mechanics/Bestiary/Beast/Ankylosaurus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "untitled.md"
+                "file": "5. Mechanics/Bestiary/Beast/Ankylosaurus.md"
               }
             }
           },
@@ -204,54 +192,54 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "0d3640a761a229ad",
+  "active": "a88a1818b2c15bdd",
   "lastOpenFiles": [
-    "5. Mechanics/Bestiary/Beast/Ankylosaurus.md",
-    "5. Mechanics/Bestiary/Beast/Beast.md",
-    "untitled.md",
-    "4. World Almanac/NPCs/Strahd Von Zarovich.md",
-    "4. World Almanac/NPCs/Strahds Animated Armor.md",
-    "4. World Almanac/NPCs/Milivoj.md",
-    "4. World Almanac/NPCs/Danika Dorakova.md",
-    "2. Scratch Notes/To-Do List.md",
-    "4. World Almanac/NPCs/Doru.md",
-    "4. World Almanac/NPCs/Urwin Martikov.md",
-    "2. Scratch Notes/House Rule Ideas.md",
-    "4. World Almanac/Regions/Barovia.md",
-    "z_Templates/World Building/NPC.md",
-    "z_Templates/World Building/Leaflet Map.md",
-    "4. World Almanac/NPCs/Arabelle.md",
-    "5. Mechanics/Tables/Dungeon Creator Npc Alignment.md",
-    "5. Mechanics/Races/Elf.md",
-    "4. World Almanac/NPCs/Arrigal.md",
-    "3. The Party/Parties/Parties.md",
-    "1. DM Screen/Lookup Tables/Travel.md",
-    "1. DM Screen/Lookup Tables/Travel Time.md",
-    "1. DM Screen/Lookup Tables/Currency.md",
-    "3. The Party/Parties/Curse of Strahd.md",
-    "1. DM Screen/1. DM Screen.md",
-    "6. Resources/5e Modules/Curse Of Strahd/13 Chapter-11 Van Richtens Tower.md",
-    "conflict-files-obsidian-git.md",
+    "compendium/rules/variant-rules/player-characters-as-lycanthropes.md",
+    "compendium/rules/variant-rules",
+    "compendium/rules",
+    "compendium/bestiary/undead/token/poltergeist.png",
+    "compendium/bestiary/construct/token/rug-of-smothering.png",
+    "compendium/bestiary/npc/img/arrigal.webp",
+    "compendium/decks/img/201-dnd_tarokka_monk.webp",
+    "compendium/decks/img/157-dnd_tarokka_beast.webp",
+    "compendium/bestiary/humanoid/token/commoner.png",
+    "compendium/bestiary/npc/token/rahadin.png",
+    "compendium/bestiary/npc/img/sir-godfrey-gwilym.webp",
+    "compendium/bestiary/npc/token/lady-fiona-wachter.png",
+    "compendium/bestiary/npc/token/ismark-kolyanovich.png",
+    "compendium/items/img",
+    "compendium/decks/img",
+    "compendium/decks/tarokka-deck-cos.md",
+    "compendium/decks/decks.md",
+    "compendium/decks",
+    "compendium/bestiary/npc/strahds-animated-armor-cos.md",
+    "compendium/bestiary/construct/clay-golem.md",
+    "compendium/bestiary/fiend/nightmare.md",
+    "compendium/bestiary/npc/zuleika-toranescu-cos.md",
+    "compendium/bestiary/humanoid/noble.md",
+    "compendium/backgrounds/haunted-one-vrgr.md",
+    "compendium/backgrounds/backgrounds.md",
+    "compendium/backgrounds",
+    "compendium/bestiary/beast/giant-poisonous-snake.md",
+    "compendium/bestiary/npc/otto-belview-cos.md",
+    "compendium/bestiary/npc/stanimir-cos.md",
+    "compendium/bestiary/construct/amber-golem-cos.md",
+    "compendium/bestiary/humanoid/bandit-captain.md",
+    "compendium/bestiary/humanoid/assassin.md",
+    "compendium/bestiary/humanoid/commoner.md",
+    "compendium/bestiary/npc/bray-martikov-cos.md",
+    "compendium/bestiary/npc/donavich-cos.md",
+    "compendium/bestiary/humanoid/vistana-thug-cos.md",
+    "compendium/bestiary/npc/cyrus-belview-cos.md",
+    "compendium/bestiary/npc/lady-fiona-wachter-cos.md",
+    "compendium/bestiary/beast/bat.md",
+    "compendium/bestiary/npc/parriwimple-cos.md",
+    "compendium/rewards/rewards.md",
+    "compendium/rewards/dark-gift-of-zrin-hala-the-howling-storm-cos.md",
+    "compendium/rewards",
+    "compendium/items",
     "z_Scripts/Dataview/poi_and_settlements.js",
     "z_Extra/ttrpg-convert/templates/vehicle.txt",
-    "z_Extra/ttrpg-convert/templates/subclass.txt",
-    "z_Extra/ttrpg-convert/templates/spell.txt",
-    "z_Extra/ttrpg-convert/templates/reward.txt",
-    "z_Extra/ttrpg-convert/templates/race.txt",
-    "z_Extra/ttrpg-convert/templates/psionic.txt",
-    "z_Extra/ttrpg-convert/templates/note.txt",
-    "z_Extra/ttrpg-convert/templates/object.txt",
-    "z_Extra/ttrpg-convert/templates/monster.txt",
-    "z_Assets/Barovia.jpg",
-    "5. Mechanics/Bestiary/Undead/token/skeleton.png",
-    "4. World Almanac/NPCs/token/zygfrek-belview.png",
-    "4. World Almanac/NPCs/token/zuleika-toranescu.png",
-    "4. World Almanac/NPCs/token/yevgeni-krushkin.png",
-    "4. World Almanac/NPCs/token/volenta-popofsky.png",
-    "4. World Almanac/NPCs/token/vladimir-horngaard.png",
-    "4. World Almanac/NPCs/token/vilnius.png",
-    "4. World Almanac/NPCs/token/victor-vallakovich.png",
-    "4. World Almanac/NPCs/token/vasilka.png",
     "Untitled.canvas"
   ]
 }

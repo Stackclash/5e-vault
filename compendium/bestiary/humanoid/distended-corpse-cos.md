@@ -1,0 +1,49 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-monster
+tags:
+- compendium/src/5e/cos
+- monster/cr/0
+- monster/size/medium
+- monster/type/humanoid/any-race
+statblock: inline
+aliases: ["Distended Corpse"]
+---
+# [Distended Corpse](compendium\bestiary\humanoid/distended-corpse-cos.md)
+*Source: Curse of Strahd p. 165*  
+
+```statblock
+"name": "Distended Corpse (CoS)"
+"size": "Medium"
+"type": "humanoid"
+"subtype": "any race"
+"alignment": "Any alignment"
+"ac": !!int "10"
+"hp": !!int "4"
+"hit_dice": "1d8"
+"stats":
+- !!int "10"
+- !!int "10"
+- !!int "10"
+- !!int "10"
+- !!int "10"
+- !!int "10"
+"speed": "20 ft."
+"condition_immunities": "charmed, frightened"
+"senses": "passive Perception 10"
+"languages": "any one language (usually Common)"
+"cr": "0"
+"traits":
+- "desc": "When a corpse is reduced to 0 hit points, it splits open, disgorging a\
+    \ [swarm of poisonous snakes](compendium/bestiary/beast/swarm-of-poisonous-snakes.md).\
+    \ The snakes are hungry and fight until slain."
+  "name": "Snake-Swollen"
+"actions":
+- "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 1d4|avg (1d4) bludgeoning damage."
+  "name": "Club"
+"source":
+- "CoS"
+"image": "compendium/bestiary/humanoid/token/distended-corpse.png"
+```
+^statblock

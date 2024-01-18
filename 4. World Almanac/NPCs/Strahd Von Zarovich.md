@@ -48,10 +48,11 @@ aliases: ["Strahd von Zarovich"]
 > **Current Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 # **`=this.file.name`**
+> [!info|bg-c-purple]- Overview
 With his mind sharp and his heart dark, Strahd von Zarovich is a formidable foe. Courage and lives beyond measure have been lost to him. Reread chapter 1, "Into the Mists," to understand his personality and goals.
 
 Although Strahd can be encountered almost anywhere in his domain, the vampire is always encountered in the place indicated by the card reading in chapter 1, unless he has been forced into his tomb in the catacombs of Castle Ravenloft.
->
+
 ## Strahd's Tactics
 
 Because the entire adventure revolves around Strahd, you must play him intelligently and do everything you can to make him a terrifying and cunning adversary for the player characters.
@@ -70,12 +71,12 @@ Whenever Strahd appears in a location other than his tomb or the place indicated
 
 | dice: d20 | Creatures |
 |-----------|-----------|
-| 1–3 | `dice: 1d4 + 2\|avg` (`1d4 + 2`) [[5. Mechanics/Bestiary/Beast/Dire Wolf.md\|dire wolves]] |
-| 4–6 | `dice: 1d6 + 3\|avg` (`1d6 + 3`) [[5. Mechanics/Bestiary/Undead/Ghoul.md\|ghouls]] |
-| 7–9 | `dice: 1d4 + 2\|avg` (`1d4 + 2`) [[5. Mechanics/Bestiary/Undead/Strahd Zombie (COS).md\|Strahd zombies]] (in this appendix) |
-| 10–12 | `dice: 2d4\|avg` (`2d4`) [[5. Mechanics/Bestiary/Beast/Swarm Of Bats.md\|swarms of bats]] |
-| 13–15 | `dice: 1d4 + 1\|avg` (`1d4 + 1`) [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md\|vampire spawn]] |
-| 16–18 | `dice: 3d6\|avg` (`3d6`) [[5. Mechanics/Bestiary/Beast/Wolf.md\|wolves]] |
+| 1–3 | `dice: 1d4 + 2\|avg` (`1d4 + 2`) [[5. Mechanics/Bestiary/Beast/Dire Wolf.md|dire wolves]] |
+| 4–6 | `dice: 1d6 + 3\|avg` (`1d6 + 3`) [[5. Mechanics/Bestiary/Undead/Ghoul.md|ghouls]] |
+| 7–9 | `dice: 1d4 + 2\|avg` (`1d4 + 2`) [[5. Mechanics/Bestiary/Undead/Strahd Zombie (COS).md|Strahd zombies]] (in this appendix) |
+| 10–12 | `dice: 2d4\|avg` (`2d4`) [[5. Mechanics/Bestiary/Beast/Swarm Of Bats.md|swarms of bats]] |
+| 13–15 | `dice: 1d4 + 1\|avg` (`1d4 + 1`) [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md|vampire spawn]] |
+| 16–18 | `dice: 3d6\|avg` (`3d6`) [[5. Mechanics/Bestiary/Beast/Wolf.md|wolves]] |
 | 19–20 | None |
 ^creatures
 
@@ -123,7 +124,6 @@ The ability of the Heart of Sorrow to absorb damage is suppressed if it or Strah
 >
 
 ## Stats
-
 ```statblock
 "name": "Strahd von Zarovich (CoS)"
 "size": "Medium"
@@ -221,7 +221,7 @@ The ability of the Heart of Sorrow to absorb damage is suppressed if it or Strah
     \ equal to the necrotic damage taken, and Strahd regains hit points equal to that\
     \ amount. The reduction lasts until the target finishes a long rest. The target\
     \ dies if its hit point maximum is reduced to 0. A humanoid slain in this way\
-    \ and then buried in the ground rises the following night as a [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md\|vampire spawn]]\
+    \ and then buried in the ground rises the following night as a [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md|vampire spawn]]\
     \ under Strahd's control."
   "name": "Bite"
 - "desc": "Strahd targets one humanoid he can see within 30 feet of him. If the target\
@@ -234,9 +234,9 @@ The ability of the Heart of Sorrow to absorb damage is suppressed if it or Strah
     \ the effect lasts 24 hours or until Strahd is destroyed, is on a different plane\
     \ of existence than the target, or takes a bonus action to end the effect."
   "name": "Charm"
-- "desc": "Strahd magically calls dice: 2d4|avg (2d4) [[5. Mechanics/Bestiary/Beast/Swarm Of Bats.md\|swarms of bats]]\
-    \ or [[5. Mechanics/Bestiary/Beast/Swarm Of Rats.md\|swarms of rats]], provided that\
-    \ the sun isn't up. While outdoors, Strahd can call dice: 3d6|avg (3d6) [[5. Mechanics/Bestiary/Beast/Wolf.md\|wolves]]\
+- "desc": "Strahd magically calls dice: 2d4|avg (2d4) [[5. Mechanics/Bestiary/Beast/Swarm Of Bats.md|swarms of bats]]\
+    \ or [[5. Mechanics/Bestiary/Beast/Swarm Of Rats.md|swarms of rats]], provided that\
+    \ the sun isn't up. While outdoors, Strahd can call dice: 3d6|avg (3d6) [[5. Mechanics/Bestiary/Beast/Wolf.md|wolves]]\
     \ instead. The called creatures arrive in dice: 1d4|avg (1d4) rounds, acting\
     \ as allies of Strahd and obeying his spoken commands. The beasts remain for 1\
     \ hour, until Strahd dies, or until he dismisses them as a bonus action."

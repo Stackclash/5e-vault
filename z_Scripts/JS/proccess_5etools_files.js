@@ -61,7 +61,7 @@ const config = {
                 let filePath = path.parse(linkPath).dir
                 let fileName = path.parse(linkPath).name
                 let separator = filePath.match(/[\/\\]/)
-                let linkPipe = /bestiary/i.test(file.path) ? '|' : '\\|'
+                let linkPipe = /bestiary|npc/i.test(file.path) ? '|' : '\\|' // Prevents breaking statblocks
 
                 let filePathRule = config.rules.filter(rule => rule.name === 'Update File Path')[0]
                 let fileNameRule = config.rules.filter(rule => rule.name === 'Update File Name')[0]
