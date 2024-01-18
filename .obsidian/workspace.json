@@ -11,11 +11,9 @@
             "id": "283b176cf3bea212",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "2. Scratch Notes/To-Do List.md",
-                "mode": "source",
-                "source": false
+                "file": "4. World Almanac/Shops/Shops.md"
               }
             }
           }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Scratch Notes/To-Do List.md",
+                "file": "4. World Almanac/Shops/Shops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Scratch Notes/To-Do List.md",
+                "file": "4. World Almanac/Shops/Shops.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Scratch Notes/To-Do List.md"
+                "file": "4. World Almanac/Shops/Shops.md"
               }
             }
           },
@@ -194,6 +192,9 @@
   },
   "active": "283b176cf3bea212",
   "lastOpenFiles": [
+    "4. World Almanac/Settlements/Settlements.md",
+    "4. World Almanac/Settlements/Vallaki.md",
+    "2. Scratch Notes/To-Do List.md",
     "5. Mechanics/Bestiary/Beast/Beast.md",
     "4. World Almanac/Places of Interest/Places of Interest.md",
     "4. World Almanac/NPCs/Npc.md",
@@ -237,9 +238,6 @@
     "compendium/rules/variant-rules/renown.md",
     "compendium/rules/variant-rules/proficiency-dice.md",
     "compendium/rules/variant-rules/plot-points.md",
-    "compendium/rules/variant-rules/playing-on-a-grid.md",
-    "compendium/rules/variant-rules/player-characters-as-vampires.md",
-    "compendium/rules/variant-rules/player-characters-as-lycanthropes.md",
     "Untitled.canvas"
   ]
 }
