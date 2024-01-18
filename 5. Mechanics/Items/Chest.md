@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Chest"
-cost: 5 gp
+cost: 500
 ---
 # Chest
 *Adventuring Gear*  

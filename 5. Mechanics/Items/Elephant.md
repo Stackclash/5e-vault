@@ -6,7 +6,7 @@ tags:
 - item/gear/mount
 aliases: 
 - "Elephant"
-cost: 200 gp
+cost: 20000
 ---
 # Elephant
 *Mount*  

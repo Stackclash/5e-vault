@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Pair of engraved bone dice"
-cost: 25 gp
+cost: 2500
 ---
 # Pair of engraved bone dice
 *Treasure*  

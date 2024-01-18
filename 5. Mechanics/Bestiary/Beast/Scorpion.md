@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Scorpion"]
 ---
-# [[5. Mechanics/Bestiary/Beast/Scorpion.md|Scorpion]]
+# [[5. Mechanics\Bestiary\Beast\Scorpion.md|Scorpion]]
 *Source: Monster Manual p. 337. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -42,7 +42,7 @@ aliases: ["Scorpion"]
 - "MM"
 - "WDMM"
 - "PSX"
-"image": "5. Mechanics/Bestiary/Beast/token/scorpion.png"
+"image": "compendium/bestiary/beast/token/scorpion.png"
 ```
 ^statblock
 

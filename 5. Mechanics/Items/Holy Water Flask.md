@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Holy Water (flask)"
-cost: 25 gp
+cost: 2500
 ---
 # Holy Water (flask)
 *Adventuring Gear*  

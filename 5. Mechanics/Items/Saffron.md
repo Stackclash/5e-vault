@@ -6,7 +6,7 @@ tags:
 - item/gear/trade-good
 aliases: 
 - "Saffron"
-cost: 15 gp
+cost: 1500
 ---
 # Saffron
 *Trade Good*  

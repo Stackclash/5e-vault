@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Trapper"]
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Trapper (MPMM).md|Trapper]]
+# [[5. Mechanics\Bestiary\Monstrosity\Trapper (MPMM).md|Trapper]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 245*  
 
 A trapper is a manta-like creature that usually lurks in subterranean environments. It can change the color and texture of its tough, outward-facing side to help it blend in with its surroundings, while its soft, inward-facing side clings to the floor, wall, or ceiling in its hunting territory. It remains motionless as it waits for prey to come close. When a target is within its reach, it peels itself away from the surface and wraps around its prey, crushing, smothering, and then digesting it. Only a scattering of bones, metal, treasure, and other indigestible bits is left behind.
@@ -65,7 +65,7 @@ A trapper needs to eat a [[5. Mechanics/Races/Halfling.md|halfling]]-sized meal 
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/trapper.png"
+"image": "compendium/bestiary/monstrosity/token/trapper.png"
 ```
 ^statblock
 

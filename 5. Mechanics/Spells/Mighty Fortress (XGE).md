@@ -9,6 +9,7 @@ tags:
 aliases: ["Mighty Fortress"]
 ---
 # Mighty Fortress
+%%-- Embedded content starts on the next line. --%%
 *8th-level, Conjuration*  
 ![[5. Mechanics/Spells/img/mighty-fortress.webp#right]]  
 

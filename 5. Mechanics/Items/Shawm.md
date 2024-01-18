@@ -6,7 +6,7 @@ tags:
 - item/gear/instrument
 aliases: 
 - "Shawm"
-cost: 2 gp
+cost: 200
 ---
 # Shawm
 *Instrument*  

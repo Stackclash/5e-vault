@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Tankard"
-cost: 2 cp
+cost: 2
 ---
 # Tankard
 *Adventuring Gear*  

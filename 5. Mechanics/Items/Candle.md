@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Candle"
-cost: 1 cp
+cost: 1
 ---
 # Candle
 *Adventuring Gear*  

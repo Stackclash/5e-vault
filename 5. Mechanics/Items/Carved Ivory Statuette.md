@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Carved ivory statuette"
-cost: 250 gp
+cost: 25000
 ---
 # Carved ivory statuette
 *Treasure*  

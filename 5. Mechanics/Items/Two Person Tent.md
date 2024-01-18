@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Two-Person Tent"
-cost: 2 gp
+cost: 200
 ---
 # Two-Person Tent
 *Adventuring Gear*  

@@ -6,7 +6,7 @@ tags:
 - item/weapon/ammunition
 aliases: 
 - "Crossbow Bolts (20)"
-cost: 1 gp
+cost: 100
 ---
 # Crossbow Bolts (20)
 *Ammunition*  

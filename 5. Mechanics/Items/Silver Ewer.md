@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Silver ewer"
-cost: 25 gp
+cost: 2500
 ---
 # Silver ewer
 *Treasure*  

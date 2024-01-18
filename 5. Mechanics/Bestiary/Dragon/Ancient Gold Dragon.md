@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Ancient Gold Dragon"]
 ---
-# [[5. Mechanics/Bestiary/Dragon/Ancient Gold Dragon.md|Ancient Gold Dragon]]
+# [[5. Mechanics\Bestiary\Dragon\Ancient Gold Dragon.md|Ancient Gold Dragon]]
 *Source: Monster Manual p. 113. Available in the SRD.*  
 
 The most powerful and majestic of the metallic dragons, gold dragons are dedicated foes of evil.

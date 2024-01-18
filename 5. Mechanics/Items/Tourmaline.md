@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Tourmaline"
-cost: 100 gp
+cost: 10000
 ---
 # Tourmaline
 *Treasure*  

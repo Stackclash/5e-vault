@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Badger"]
 ---
-# [[5. Mechanics/Bestiary/Beast/Badger.md|Badger]]
+# [[5. Mechanics\Bestiary\Beast\Badger.md|Badger]]
 *Source: Monster Manual p. 318. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -43,7 +43,7 @@ aliases: ["Badger"]
 "source":
 - "MM"
 - "WBtW"
-"image": "5. Mechanics/Bestiary/Beast/token/badger.png"
+"image": "compendium/bestiary/beast/token/badger.png"
 ```
 ^statblock
 

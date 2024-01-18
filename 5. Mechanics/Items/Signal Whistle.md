@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Signal Whistle"
-cost: 5 cp
+cost: 5
 ---
 # Signal Whistle
 *Adventuring Gear*  

@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Earth Elemental Myrmidon"]
 ---
-# [[5. Mechanics/Bestiary/Elemental/Earth Elemental Myrmidon (MPMM).md|Earth Elemental Myrmidon]]
+# [[5. Mechanics\Bestiary\Elemental\Earth Elemental Myrmidon (MPMM).md|Earth Elemental Myrmidon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 122*  
 
 ## Elemental Myrmidons

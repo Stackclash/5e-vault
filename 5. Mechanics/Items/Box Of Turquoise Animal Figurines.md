@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Box of turquoise animal figurines"
-cost: 250 gp
+cost: 25000
 ---
 # Box of turquoise animal figurines
 *Treasure*  

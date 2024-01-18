@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Soap"
-cost: 2 cp
+cost: 2
 ---
 # Soap
 *Adventuring Gear*  

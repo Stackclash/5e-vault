@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Gold locket with a painted portrait inside"
-cost: 25 gp
+cost: 2500
 ---
 # Gold locket with a painted portrait inside
 *Treasure*  

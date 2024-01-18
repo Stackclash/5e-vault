@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Climber's Kit"
-cost: 25 gp
+cost: 2500
 ---
 # Climber's Kit
 *Adventuring Gear*  

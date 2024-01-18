@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Obsidian statuette with gold fittings and inlay"
-cost: 750 gp
+cost: 75000
 ---
 # Obsidian statuette with gold fittings and inlay
 *Treasure*  

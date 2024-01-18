@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Tiger Eye"
-cost: 10 gp
+cost: 1000
 ---
 # Tiger Eye
 *Treasure*  

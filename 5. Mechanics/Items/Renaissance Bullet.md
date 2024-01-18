@@ -6,7 +6,7 @@ tags:
 - item/weapon/ammunition/firearm
 aliases: 
 - "Renaissance Bullet"
-cost: 3 sp
+cost: 30
 ---
 # Renaissance Bullet
 *Ammunition (Firearm)*  

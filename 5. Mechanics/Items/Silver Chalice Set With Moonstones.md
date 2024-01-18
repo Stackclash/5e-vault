@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Silver chalice set with moonstones"
-cost: 750 gp
+cost: 75000
 ---
 # Silver chalice set with moonstones
 *Treasure*  

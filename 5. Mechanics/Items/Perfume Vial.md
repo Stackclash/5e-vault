@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Perfume (vial)"
-cost: 5 gp
+cost: 500
 ---
 # Perfume (vial)
 *Adventuring Gear*  

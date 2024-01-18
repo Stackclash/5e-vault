@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Adult Red Dragon"]
 ---
-# [[5. Mechanics/Bestiary/Dragon/Adult Red Dragon.md|Adult Red Dragon]]
+# [[5. Mechanics\Bestiary\Dragon\Adult Red Dragon.md|Adult Red Dragon]]
 *Source: Monster Manual p. 98. Available in the SRD and the Basic Rules.*  
 
 The most covetous of the true dragons, red dragons tirelessly seek to increase their treasure hoards. They are exceptionally vain, even for dragons, and their conceit is reflected in their proud bearing and their disdain for other creatures. The odor of sulfur and pumice surrounds a red dragon, whose swept-back horns and spinal frill define its silhouette. Its beaked snout vents smoke at all times, and its eyes dance with flame when it is angry. Its wings are the longest of any chromatic dragon, and have a blue-black tint along the trailing edge that resembles metal burned blue by fire.

@@ -6,7 +6,7 @@ tags:
 - item/gear/gaming-set
 aliases: 
 - "Three-Dragon Ante Set"
-cost: 1 gp
+cost: 100
 ---
 # Three-Dragon Ante Set
 *Gaming Set*  

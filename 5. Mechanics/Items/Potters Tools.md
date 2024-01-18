@@ -6,7 +6,7 @@ tags:
 - item/gear/artisans-tools
 aliases: 
 - "Potter's Tools"
-cost: 10 gp
+cost: 1000
 ---
 # Potter's Tools
 *Artisan's Tools*  

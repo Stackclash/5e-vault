@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Pitcher"
-cost: 2 cp
+cost: 2
 ---
 # Pitcher
 *Adventuring Gear*  

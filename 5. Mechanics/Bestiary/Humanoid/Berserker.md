@@ -18,6 +18,8 @@ aliases: ["Berserker"]
 # [[5. Mechanics\Bestiary\Humanoid\Berserker.md|Berserker]]
 *Source: Monster Manual p. 344, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
+Hailing from uncivilized lands, unpredictable berserkers come together in war parties and seek conflict wherever they can find it.
+
 ```statblock
 "name": "Berserker"
 "size": "Medium"

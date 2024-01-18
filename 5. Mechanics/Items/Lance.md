@@ -9,7 +9,7 @@ tags:
 - item/weapon/martial/melee
 aliases: 
 - "Lance"
-cost: 10 gp
+cost: 1000
 ---
 # Lance
 *Melee Weapon*  

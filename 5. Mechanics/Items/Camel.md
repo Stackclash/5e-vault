@@ -6,7 +6,7 @@ tags:
 - item/gear/mount
 aliases: 
 - "Camel"
-cost: 50 gp
+cost: 5000
 ---
 # Camel
 *Mount*  

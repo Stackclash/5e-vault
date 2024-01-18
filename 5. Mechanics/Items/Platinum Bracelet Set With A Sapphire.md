@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Platinum bracelet set with a sapphire"
-cost: 2,500 gp
+cost: 250000
 ---
 # Platinum bracelet set with a sapphire
 *Treasure*  

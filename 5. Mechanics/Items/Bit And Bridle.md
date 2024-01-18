@@ -6,7 +6,7 @@ tags:
 - item/gear/tack-and-harness
 aliases: 
 - "Bit and bridle"
-cost: 2 gp
+cost: 200
 ---
 # Bit and bridle
 *Tack and Harness*  

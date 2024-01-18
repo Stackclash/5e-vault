@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Signet Ring"
-cost: 5 gp
+cost: 500
 ---
 # Signet Ring
 *Adventuring Gear*  

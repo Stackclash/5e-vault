@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Basilisk"]
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Basilisk.md|Basilisk]]
+# [[5. Mechanics\Bestiary\Monstrosity\Basilisk.md|Basilisk]]
 *Source: Monster Manual p. 24. Available in the SRD and the Basic Rules.*  
 
 Travelers sometimes find objects that look like pieces of remarkably lifelike stone carvings of wildlife. Missing parts appear to have been bitten off. Seasoned explorers regard such relics as warnings, knowing that the basilisk that created them is likely to be nearby.
@@ -80,7 +80,7 @@ Some alchemists are said to know how to process the basilisk's gullet and the fl
 - "IDRotF"
 - "PSZ"
 - "PaBTSO"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/basilisk.png"
+"image": "compendium/bestiary/monstrosity/token/basilisk.png"
 ```
 ^statblock
 

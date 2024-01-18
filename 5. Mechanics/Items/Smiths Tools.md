@@ -6,7 +6,7 @@ tags:
 - item/gear/artisans-tools
 aliases: 
 - "Smith's Tools"
-cost: 20 gp
+cost: 2000
 ---
 # Smith's Tools
 *Artisan's Tools*  

@@ -6,7 +6,7 @@ tags:
 - item/armor/medium
 aliases: 
 - "Half Plate Armor"
-cost: 750 gp
+cost: 75000
 ---
 # Half Plate Armor
 *Medium Armor*  

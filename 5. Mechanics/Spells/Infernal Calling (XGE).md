@@ -10,6 +10,7 @@ tags:
 aliases: ["Infernal Calling"]
 ---
 # Infernal Calling
+%%-- Embedded content starts on the next line. --%%
 *5th-level, Conjuration*  
 ![[5. Mechanics/Spells/img/infernal-calling.webp#right]]  
 

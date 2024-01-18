@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Centaur"]
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Centaur.md|Centaur]]
+# [[5. Mechanics\Bestiary\Monstrosity\Centaur.md|Centaur]]
 *Source: Monster Manual p. 38. Available in the SRD and the Basic Rules.*  
 
 > [!quote]- A quote from Batley Summerfoot, a halfling adventurer who never read HOOVES OF FURY, by Iryil Grayborn of Sundown  
@@ -86,7 +86,7 @@ Despite their reclusive nature, centaurs trade with elves and with the caravans 
 - "DIP"
 - "MOT"
 - "WBtW"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/centaur.png"
+"image": "compendium/bestiary/monstrosity/token/centaur.png"
 ```
 ^statblock
 

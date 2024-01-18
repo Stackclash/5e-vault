@@ -6,7 +6,7 @@ tags:
 - item/armor/medium
 aliases: 
 - "Hide Armor"
-cost: 10 gp
+cost: 1000
 ---
 # Hide Armor
 *Medium Armor*  

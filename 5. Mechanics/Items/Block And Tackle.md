@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Block and Tackle"
-cost: 1 gp
+cost: 100
 ---
 # Block and Tackle
 *Adventuring Gear*  

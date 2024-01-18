@@ -12,6 +12,7 @@ tags:
 aliases: ["Antilife Shell"]
 ---
 # Antilife Shell
+%%-- Embedded content starts on the next line. --%%
 *5th-level, Abjuration*  
 
 - **Casting time:** 1 action

@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Maurezhi"]
 ---
-# [[5. Mechanics/Bestiary/Fiend/Maurezhi (MPMM).md|Maurezhi]]
+# [[5. Mechanics\Bestiary\Fiend\Maurezhi (MPMM).md|Maurezhi]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 175*  
 
 When Doresain, the King of Ghouls, corrupted a society of elves, he created a new sort of demon—the maurezhi—to lead packs of [[5. Mechanics/Bestiary/Undead/Ghoul.md|ghouls]] and [[5. Mechanics/Bestiary/Undead/Ghast.md|ghasts]] on the Material Plane.
@@ -79,7 +79,7 @@ A maurezhi is contagion incarnate. Its bite can drain a victim's sense of self. 
 "source":
 - "MPMM"
 - "MTF"
-"image": "5. Mechanics/Bestiary/Fiend/token/maurezhi.png"
+"image": "compendium/bestiary/fiend/token/maurezhi.png"
 ```
 ^statblock
 

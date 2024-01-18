@@ -6,7 +6,7 @@ tags:
 - item/weapon/ammunition
 aliases: 
 - "Sling Bullets (20)"
-cost: 4 cp
+cost: 4
 ---
 # Sling Bullets (20)
 *Ammunition*  

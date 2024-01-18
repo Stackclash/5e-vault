@@ -10,6 +10,7 @@ tags:
 aliases: ["Prayer of Healing"]
 ---
 # Prayer of Healing
+%%-- Embedded content starts on the next line. --%%
 *2nd-level, Evocation*  
 
 - **Casting time:** 10 minute

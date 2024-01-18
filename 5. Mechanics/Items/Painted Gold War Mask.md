@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Painted gold war mask"
-cost: 750 gp
+cost: 75000
 ---
 # Painted gold war mask
 *Treasure*  

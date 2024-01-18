@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Old masterpiece painting"
-cost: 2,500 gp
+cost: 250000
 ---
 # Old masterpiece painting
 *Treasure*  

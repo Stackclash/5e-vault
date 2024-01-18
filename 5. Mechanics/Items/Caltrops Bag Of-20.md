@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Caltrops (bag of 20)"
-cost: 1 gp
+cost: 100
 ---
 # Caltrops (bag of 20)
 *Adventuring Gear*  

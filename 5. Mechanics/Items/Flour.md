@@ -6,7 +6,7 @@ tags:
 - item/gear/trade-good
 aliases: 
 - "Flour"
-cost: 2 cp
+cost: 2
 ---
 # Flour
 *Trade Good*  

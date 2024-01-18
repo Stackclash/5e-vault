@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Brass mug with jade inlay"
-cost: 250 gp
+cost: 25000
 ---
 # Brass mug with jade inlay
 *Treasure*  

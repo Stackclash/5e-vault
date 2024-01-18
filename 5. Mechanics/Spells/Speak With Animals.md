@@ -15,6 +15,7 @@ tags:
 aliases: ["Speak with Animals"]
 ---
 # Speak with Animals
+%%-- Embedded content starts on the next line. --%%
 *1st-level, Divination (ritual)*  
 
 - **Casting time:** 1 action unless cast as a ritual

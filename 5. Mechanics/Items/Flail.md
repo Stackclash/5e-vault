@@ -7,7 +7,7 @@ tags:
 - item/weapon/martial/melee
 aliases: 
 - "Flail"
-cost: 10 gp
+cost: 1000
 ---
 # Flail
 *Melee Weapon*  

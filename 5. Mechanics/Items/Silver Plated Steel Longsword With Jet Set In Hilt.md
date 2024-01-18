@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Silver-plated steel longsword with jet set in hilt"
-cost: 750 gp
+cost: 75000
 ---
 # Silver-plated steel longsword with jet set in hilt
 *Treasure*  

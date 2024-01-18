@@ -6,7 +6,7 @@ tags:
 - item/weapon/explosive
 aliases: 
 - "Gunpowder Horn"
-cost: 35 gp
+cost: 3500
 ---
 # Gunpowder Horn
 *Explosive*  

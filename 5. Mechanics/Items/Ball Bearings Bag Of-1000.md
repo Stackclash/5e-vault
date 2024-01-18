@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Ball Bearings (bag of 1,000)"
-cost: 1 gp
+cost: 100
 ---
 # Ball Bearings (bag of 1,000)
 *Adventuring Gear*  

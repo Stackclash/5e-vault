@@ -6,7 +6,7 @@ tags:
 - item/weapon/ammunition
 aliases: 
 - "Crossbow Bolt"
-cost: 5 cp
+cost: 5
 ---
 # Crossbow Bolt
 *Ammunition*  

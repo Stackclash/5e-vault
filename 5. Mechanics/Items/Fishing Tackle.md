@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Fishing Tackle"
-cost: 1 gp
+cost: 100
 ---
 # Fishing Tackle
 *Adventuring Gear*  

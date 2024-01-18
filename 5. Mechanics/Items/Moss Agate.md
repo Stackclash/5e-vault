@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Moss Agate"
-cost: 10 gp
+cost: 1000
 ---
 # Moss Agate
 *Treasure*  

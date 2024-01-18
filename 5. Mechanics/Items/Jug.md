@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Jug"
-cost: 2 cp
+cost: 2
 ---
 # Jug
 *Adventuring Gear*  

@@ -6,7 +6,7 @@ tags:
 - item/gear/food-and-drink
 aliases: 
 - "Hunk of Cheese"
-cost: 1 sp
+cost: 10
 ---
 # Hunk of Cheese
 *Food and Drink*  

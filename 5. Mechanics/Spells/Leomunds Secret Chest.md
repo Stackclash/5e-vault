@@ -12,6 +12,7 @@ tags:
 aliases: ["Leomund's Secret Chest"]
 ---
 # Leomund's Secret Chest
+%%-- Embedded content starts on the next line. --%%
 *4th-level, Conjuration*  
 
 - **Casting time:** 1 action

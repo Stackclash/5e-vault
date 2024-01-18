@@ -6,7 +6,7 @@ tags:
 - item/gear/trade-good
 aliases: 
 - "Salt"
-cost: 5 cp
+cost: 5
 ---
 # Salt
 *Trade Good*  

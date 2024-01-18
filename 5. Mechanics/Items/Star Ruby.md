@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Star Ruby"
-cost: 1,000 gp
+cost: 100000
 ---
 # Star Ruby
 *Treasure*  

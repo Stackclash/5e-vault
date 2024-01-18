@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Slithering Tracker"]
 ---
-# [[5. Mechanics/Bestiary/Ooze/Slithering Tracker (MPMM).md|Slithering Tracker]]
+# [[5. Mechanics\Bestiary\Ooze\Slithering Tracker (MPMM).md|Slithering Tracker]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 221*  
 
 The quest for revenge sometimes leads those terribly aggrieved to undergo a ritual whereby they transform into bodies of semiliquid sentience known as slithering trackers. Innocuous and insidious at the same time, a slithering tracker flows into places where a normal creature can't go and brings its own brand of watery death down on its quarry.

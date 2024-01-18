@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Bejeweled ivory drinking horn with gold filigree"
-cost: 7,500 gp
+cost: 750000
 ---
 # Bejeweled ivory drinking horn with gold filigree
 *Treasure*  

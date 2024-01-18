@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Pony"]
 ---
-# [[5. Mechanics/Bestiary/Beast/Pony.md|Pony]]
+# [[5. Mechanics\Bestiary\Beast\Pony.md|Pony]]
 *Source: Monster Manual p. 335. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -41,7 +41,7 @@ aliases: ["Pony"]
 - "SKT"
 - "WBtW"
 - "SatO"
-"image": "5. Mechanics/Bestiary/Beast/token/pony.png"
+"image": "compendium/bestiary/beast/token/pony.png"
 ```
 ^statblock
 

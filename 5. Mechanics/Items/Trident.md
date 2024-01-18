@@ -9,7 +9,7 @@ tags:
 - item/weapon/martial/melee
 aliases: 
 - "Trident"
-cost: 5 gp
+cost: 500
 ---
 # Trident
 *Melee Weapon*  

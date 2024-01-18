@@ -7,7 +7,7 @@ tags:
 - item/wondrous/wondrous-item
 aliases: 
 - "Statuette of Saint Markovia"
-cost: 250 gp
+cost: 25000
 ---
 # Statuette of Saint Markovia
 *Other, unknown (magic)*  

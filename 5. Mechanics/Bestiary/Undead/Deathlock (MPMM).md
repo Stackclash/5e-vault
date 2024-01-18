@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Deathlock"]
 ---
-# [[5. Mechanics/Bestiary/Undead/Deathlock (MPMM).md|Deathlock]]
+# [[5. Mechanics\Bestiary\Undead\Deathlock (MPMM).md|Deathlock]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 86*  
 
 An overpowering urge to serve consumes the mind of a newly awakened deathlock. Any goals and ambitions it had in life that don't please its patron fall away as its master's desires become the purpose that drives it. The deathlock immediately resumes work on its patron's behalf.
@@ -81,7 +81,7 @@ An powerful necromancer might also discover the wicked methods of creating a dea
 - "MTF"
 - "AATM"
 - "BMT"
-"image": "5. Mechanics/Bestiary/Undead/token/deathlock.png"
+"image": "compendium/bestiary/undead/token/deathlock.png"
 ```
 ^statblock
 

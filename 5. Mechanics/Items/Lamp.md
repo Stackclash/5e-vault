@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Lamp"
-cost: 5 sp
+cost: 50
 ---
 # Lamp
 *Adventuring Gear*  

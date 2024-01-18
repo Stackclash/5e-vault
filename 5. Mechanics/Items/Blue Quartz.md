@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Blue Quartz"
-cost: 10 gp
+cost: 1000
 ---
 # Blue Quartz
 *Treasure*  

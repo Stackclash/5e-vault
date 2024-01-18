@@ -6,7 +6,7 @@ tags:
 - item/gear/artisans-tools
 aliases: 
 - "Calligrapher's Supplies"
-cost: 10 gp
+cost: 1000
 ---
 # Calligrapher's Supplies
 *Artisan's Tools*  

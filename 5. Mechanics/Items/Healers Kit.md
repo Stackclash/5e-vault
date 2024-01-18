@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Healer's Kit"
-cost: 5 gp
+cost: 500
 ---
 # Healer's Kit
 *Adventuring Gear*  

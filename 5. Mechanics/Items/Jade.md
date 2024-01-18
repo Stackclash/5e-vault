@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Jade"
-cost: 100 gp
+cost: 10000
 ---
 # Jade
 *Treasure*  

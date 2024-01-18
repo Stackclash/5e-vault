@@ -7,7 +7,7 @@ tags:
 - item/property/poison
 aliases: 
 - "Purple Worm Poison"
-cost: 2,000 gp
+cost: 200000
 ---
 # Purple Worm Poison
 *Adventuring Gear, poison*  

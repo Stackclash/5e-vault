@@ -7,7 +7,7 @@ tags:
 - item/property/poison
 aliases: 
 - "Truth Serum"
-cost: 150 gp
+cost: 15000
 ---
 # Truth Serum
 *Adventuring Gear, poison*  

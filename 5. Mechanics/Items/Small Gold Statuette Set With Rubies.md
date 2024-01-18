@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Small gold statuette set with rubies"
-cost: 7,500 gp
+cost: 750000
 ---
 # Small gold statuette set with rubies
 *Treasure*  

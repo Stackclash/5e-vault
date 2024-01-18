@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Fine gold chain set with a fire opal"
-cost: 2,500 gp
+cost: 250000
 ---
 # Fine gold chain set with a fire opal
 *Treasure*  

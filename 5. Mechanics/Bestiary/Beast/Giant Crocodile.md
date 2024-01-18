@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Giant Crocodile"]
 ---
-# [[5. Mechanics/Bestiary/Beast/Giant Crocodile.md|Giant Crocodile]]
+# [[5. Mechanics\Bestiary\Beast\Giant Crocodile.md|Giant Crocodile]]
 *Source: Monster Manual p. 324. Available in the SRD and the Basic Rules.*  
 
 ```statblock

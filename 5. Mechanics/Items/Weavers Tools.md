@@ -6,7 +6,7 @@ tags:
 - item/gear/artisans-tools
 aliases: 
 - "Weaver's Tools"
-cost: 1 gp
+cost: 100
 ---
 # Weaver's Tools
 *Artisan's Tools*  

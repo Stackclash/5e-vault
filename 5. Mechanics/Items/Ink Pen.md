@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Ink Pen"
-cost: 2 cp
+cost: 2
 ---
 # Ink Pen
 *Adventuring Gear*  

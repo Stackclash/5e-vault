@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Obsidian"
-cost: 10 gp
+cost: 1000
 ---
 # Obsidian
 *Treasure*  

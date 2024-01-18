@@ -6,7 +6,7 @@ tags:
 - item/gear/mount
 aliases: 
 - "Draft Horse"
-cost: 50 gp
+cost: 5000
 ---
 # Draft Horse
 *Mount*  

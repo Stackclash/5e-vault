@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Cranium Rat"]
 ---
-# [[5. Mechanics/Bestiary/Aberration/Cranium Rat (MPMM).md|Cranium Rat]]
+# [[5. Mechanics\Bestiary\Aberration\Cranium Rat (MPMM).md|Cranium Rat]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 83*  
 
 ## Cranium Rat

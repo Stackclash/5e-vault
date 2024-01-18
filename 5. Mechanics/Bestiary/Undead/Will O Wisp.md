@@ -15,6 +15,26 @@ aliases: ["Will-o'-Wisp"]
 # [[5. Mechanics\Bestiary\Undead\Will O Wisp.md|Will-o'-Wisp]]
 *Source: Monster Manual p. 301, Curse of Strahd. Available in the SRD.*  
 
+Will-o'-wisps are malevolent, wispy balls of light that haunt lonely places and battlefields, bound by dark fate or dark magic to feed on fear and despair.
+
+## Hope and Doom
+
+Will-o'-wisps look like bobbing lantern lights in the distance, although they can choose to alter their colors, or wink out completely. When they activate their lights, will-o'-wisps offer hope, hinting of safety to creatures that follow them.
+
+Will-o'-wisps lure unwary creatures into quicksand pits, monster lairs, and other dangerous places so that they can feed on the suffering of their prey and revel in their death screams. An evil being that falls prey to a will-o'-wisp might become a wisp itself, its woeful spirit coalescing above its lifeless corpse like a flickering flame.
+
+### Consumed by Despair
+
+Will-o'-wisps are the souls of evil beings that perished in anguish or misery as they wandered forsaken lands permeated with powerful magic. They thrive in swampy bogs and bone-strewn battlefields where the oppressive weight of sorrow stoops even heavier than the low-hanging mist and fog. Trapped in these desolate places of lost hope and memory, will-o'-wisps lure other creatures toward dismal fates and feed on their misery.
+
+## Agents of Evil
+
+Will-o'-wisps rarely speak, but when they do, their voices sound like faint or distant whispers. In the miserable domains they haunt, will-o'-wisps sometimes form symbiotic relationships with their wicked neighbors. Hags, oni, black dragons, and evil cultists work with will-o'-wisps to draw creatures into ambush. As their evil allies surround and slaughter creatures, the wisps hover above them, drinking the agony of a last breath and savoring the sensation as the light of life goes out in a creature's eyes.
+
+## Undead Nature
+
+A will-o'-wisp doesn't require air, drink, or sleep.
+
 ```statblock
 "name": "Will-o'-Wisp"
 "size": "Tiny"
@@ -34,8 +54,10 @@ aliases: ["Will-o'-Wisp"]
 "damage_resistances": "acid; cold; fire; necrotic; thunder; bludgeoning, piercing,\
   \ slashing from nonmagical attacks"
 "damage_immunities": "lightning, poison"
-"condition_immunities": "exhaustion, grappled, paralyzed, poisoned, prone, restrained,\
-  \ unconscious"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]], [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]"
 "senses": "darkvision 120 ft., passive Perception 12"
 "languages": "the languages it knew in life"
 "cr": "2"
@@ -59,9 +81,9 @@ aliases: ["Will-o'-Wisp"]
 - "desc": "Melee Spell Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
     \ Hit: dice: 2d8|avg (2d8) lightning damage."
   "name": "Shock"
-- "desc": "The will-o'-wisp and its light magically become invisible until it attacks\
-    \ or uses its Consume Life, or until its concentration ends (as if concentrating\
-    \ on a spell)."
+- "desc": "The will-o'-wisp and its light magically become [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]]\
+    \ until it attacks or uses its Consume Life, or until its [[/5. Mechanics/Rules/Conditions.md#concentration|concentration]]\
+    \ ends (as if concentrating on a spell)."
   "name": "Invisibility"
 "source":
 - "MM"

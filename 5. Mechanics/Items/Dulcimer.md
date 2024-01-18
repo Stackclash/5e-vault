@@ -6,7 +6,7 @@ tags:
 - item/gear/instrument
 aliases: 
 - "Dulcimer"
-cost: 25 gp
+cost: 2500
 ---
 # Dulcimer
 *Instrument*  

@@ -6,7 +6,7 @@ tags:
 - item/vehicle
 aliases: 
 - "Wagon"
-cost: 35 gp
+cost: 3500
 ---
 # Wagon
 *Vehicle (land)*  

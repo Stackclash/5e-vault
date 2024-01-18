@@ -6,7 +6,7 @@ tags:
 - item/gear/food-and-drink
 aliases: 
 - "Chunk of Meat"
-cost: 3 sp
+cost: 30
 ---
 # Chunk of Meat
 *Food and Drink*  

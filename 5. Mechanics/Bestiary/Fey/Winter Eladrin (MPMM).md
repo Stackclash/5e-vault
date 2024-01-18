@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Winter Eladrin"]
 ---
-# [[5. Mechanics/Bestiary/Fey/Winter Eladrin (MPMM).md|Winter Eladrin]]
+# [[5. Mechanics\Bestiary\Fey\Winter Eladrin (MPMM).md|Winter Eladrin]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 117*  
 
 When sorrow distresses eladrin, they enter the winter season, becoming figures of melancholy. Frozen tears drop from their cheeks, and their palpable sadness emanates from them as icy cold.

@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Shadow Spirit (8th-level Spell)"]
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Shadow Spirit-8th Level Spell (TCE).md|Shadow Spirit (8th-level Spell)]]
+# [[5. Mechanics\Bestiary\Monstrosity\Shadow Spirit-8th Level Spell (TCE).md|Shadow Spirit (8th-level Spell)]]
 *Source: Tasha's Cauldron of Everything p. 114*  
 
 ```statblock

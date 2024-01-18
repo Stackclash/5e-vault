@@ -6,7 +6,7 @@ tags:
 - item/vehicle/ship
 aliases: 
 - "Galley"
-cost: 30,000 gp
+cost: 3000000
 ---
 # Galley
 *Ship, Vehicle (water)*  

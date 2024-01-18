@@ -6,7 +6,7 @@ tags:
 - item/gear/trade-good
 aliases: 
 - "Linen (1 sq. yd.)"
-cost: 5 gp
+cost: 500
 ---
 # Linen (1 sq. yd.)
 *Trade Good*  

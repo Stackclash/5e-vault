@@ -12,7 +12,7 @@ tags:
 statblock: inline
 aliases: ["Elk"]
 ---
-# [[5. Mechanics/Bestiary/Beast/Elk.md|Elk]]
+# [[5. Mechanics\Bestiary\Beast\Elk.md|Elk]]
 *Source: Monster Manual p. 322. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -54,7 +54,7 @@ aliases: ["Elk"]
 - "SKT"
 - "EGW"
 - "IDRotF"
-"image": "5. Mechanics/Bestiary/Beast/token/elk.png"
+"image": "compendium/bestiary/beast/token/elk.png"
 ```
 ^statblock
 

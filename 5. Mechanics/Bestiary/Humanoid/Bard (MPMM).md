@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Bard"]
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Bard (MPMM).md|Bard]]
+# [[5. Mechanics\Bestiary\Humanoid\Bard (MPMM).md|Bard]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 59*  
 
 Bards are gifted poets, storytellers, and entertainers who travel far and wide. They're commonly found in taverns or in the company of jolly bands of adventurers, rough-and-tumble mercenaries, and wealthy patrons.
@@ -91,7 +91,7 @@ Each bard is a master of at least one type of performance. You may choose a bard
 - "MPMM"
 - "VGM"
 - "AATM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/bard.png"
+"image": "compendium/bestiary/humanoid/token/bard.png"
 ```
 ^statblock
 

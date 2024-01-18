@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Tinderbox"
-cost: 5 sp
+cost: 50
 ---
 # Tinderbox
 *Adventuring Gear*  

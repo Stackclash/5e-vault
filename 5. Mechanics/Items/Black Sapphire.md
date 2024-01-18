@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Black Sapphire"
-cost: 5,000 gp
+cost: 500000
 ---
 # Black Sapphire
 *Treasure*  

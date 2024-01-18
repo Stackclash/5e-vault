@@ -6,7 +6,7 @@ tags:
 - item/gear/mount
 aliases: 
 - "Riding Horse"
-cost: 75 gp
+cost: 7500
 ---
 # Riding Horse
 *Mount*  

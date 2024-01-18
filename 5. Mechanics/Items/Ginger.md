@@ -6,7 +6,7 @@ tags:
 - item/gear/trade-good
 aliases: 
 - "Ginger"
-cost: 1 gp
+cost: 100
 ---
 # Ginger
 *Trade Good*  

@@ -6,7 +6,7 @@ tags:
 - item/weapon/ammunition
 aliases: 
 - "Arrow"
-cost: 5 cp
+cost: 5
 ---
 # Arrow
 *Ammunition*  

@@ -7,7 +7,7 @@ tags:
 - item/property/poison
 aliases: 
 - "Pale Tincture"
-cost: 250 gp
+cost: 25000
 ---
 # Pale Tincture
 *Adventuring Gear, poison*  

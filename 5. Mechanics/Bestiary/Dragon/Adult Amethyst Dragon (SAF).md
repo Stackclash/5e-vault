@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Adult Amethyst Dragon"]
 ---
-# [[5. Mechanics/Bestiary/Dragon/Adult Amethyst Dragon (SAF).md|Adult Amethyst Dragon]]
+# [[5. Mechanics\Bestiary\Dragon\Adult Amethyst Dragon (SAF).md|Adult Amethyst Dragon]]
 *Source: Strongholds and Followers p. 220*  
 
 The renegades of the jeweled dragons, the amethyst dragons seek new knowledge and so manipulate mortals to do dangerous, even deadly things in order to push the boundary of the known.

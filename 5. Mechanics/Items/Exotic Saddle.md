@@ -6,7 +6,7 @@ tags:
 - item/gear/tack-and-harness
 aliases: 
 - "Exotic Saddle"
-cost: 60 gp
+cost: 6000
 ---
 # Exotic Saddle
 *Tack and Harness*  

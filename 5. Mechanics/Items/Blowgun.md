@@ -9,7 +9,7 @@ tags:
 - item/weapon/martial/ranged
 aliases: 
 - "Blowgun"
-cost: 10 gp
+cost: 1000
 ---
 # Blowgun
 *Ranged Weapon*  

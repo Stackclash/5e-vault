@@ -7,7 +7,7 @@ tags:
 - item/weapon/simple/melee
 aliases: 
 - "Greatclub"
-cost: 2 sp
+cost: 20
 ---
 # Greatclub
 *Melee Weapon*  

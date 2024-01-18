@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Ladder (10-foot)"
-cost: 1 sp
+cost: 10
 ---
 # Ladder (10-foot)
 *Adventuring Gear*  

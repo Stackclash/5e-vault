@@ -9,7 +9,7 @@ tags:
 - item/weapon/martial/ranged
 aliases: 
 - "Pistol"
-cost: 250 gp
+cost: 25000
 ---
 # Pistol
 *Ranged Weapon*  

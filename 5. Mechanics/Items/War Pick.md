@@ -7,7 +7,7 @@ tags:
 - item/weapon/martial/melee
 aliases: 
 - "War Pick"
-cost: 5 gp
+cost: 500
 ---
 # War Pick
 *Melee Weapon*  

@@ -6,7 +6,7 @@ tags:
 - item/gear/food-and-drink
 aliases: 
 - "Fine Wine (Bottle)"
-cost: 10 gp
+cost: 1000
 ---
 # Fine Wine (Bottle)
 *Food and Drink*  

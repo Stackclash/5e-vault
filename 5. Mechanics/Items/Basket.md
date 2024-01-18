@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Basket"
-cost: 4 sp
+cost: 40
 ---
 # Basket
 *Adventuring Gear*  

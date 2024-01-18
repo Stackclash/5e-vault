@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Entertainer's Pack"
-cost: 40 gp
+cost: 4000
 ---
 # Entertainer's Pack
 *Adventuring Gear*  

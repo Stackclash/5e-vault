@@ -13,7 +13,7 @@ tags:
 statblock: inline
 aliases: ["Werebear"]
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Werebear.md|Werebear]]
+# [[5. Mechanics\Bestiary\Humanoid\Werebear.md|Werebear]]
 *Source: Monster Manual p. 208. Available in the SRD.*  
 
 Werebears are powerful lycanthropes with the ability to temper their monstrous natures and reject their violent impulses. In humanoid form, they are large, muscular, and covered in hair matching the color of their ursine form's fur. A werebear is a loner by nature, fearing what might happen to innocent creatures around it when its bestial nature takes over.
@@ -109,7 +109,7 @@ Some individuals see little point in fighting the curse and accept what they are
 - "GoS"
 - "EGW"
 - "KftGV"
-"image": "5. Mechanics/Bestiary/Humanoid/token/werebear.png"
+"image": "compendium/bestiary/humanoid/token/werebear.png"
 ```
 ^statblock
 

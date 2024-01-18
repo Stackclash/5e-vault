@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Shovel"
-cost: 2 gp
+cost: 200
 ---
 # Shovel
 *Adventuring Gear*  

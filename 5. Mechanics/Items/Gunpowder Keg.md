@@ -6,7 +6,7 @@ tags:
 - item/weapon/explosive
 aliases: 
 - "Gunpowder Keg"
-cost: 250 gp
+cost: 25000
 ---
 # Gunpowder Keg
 *Explosive*  

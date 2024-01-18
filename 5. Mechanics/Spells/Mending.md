@@ -19,6 +19,7 @@ tags:
 aliases: ["Mending"]
 ---
 # Mending
+%%-- Embedded content starts on the next line. --%%
 *cantrip, Transmutation*  
 
 - **Casting time:** 1 minute

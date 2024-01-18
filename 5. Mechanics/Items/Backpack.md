@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Backpack"
-cost: 2 gp
+cost: 200
 ---
 # Backpack
 *Adventuring Gear*  

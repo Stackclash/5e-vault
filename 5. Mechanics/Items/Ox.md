@@ -6,7 +6,7 @@ tags:
 - item/gear/trade-good
 aliases: 
 - "Ox"
-cost: 15 gp
+cost: 1500
 ---
 # Ox
 *Trade Good*  

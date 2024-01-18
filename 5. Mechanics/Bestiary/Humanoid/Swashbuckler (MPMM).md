@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Swashbuckler"]
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Swashbuckler (MPMM).md|Swashbuckler]]
+# [[5. Mechanics\Bestiary\Humanoid\Swashbuckler (MPMM).md|Swashbuckler]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 238*  
 
 Swashbucklers are charming ne'er-do-wells who live by their own codes of honor. They crave notoriety, often indulge in romantic trysts, and eke out livings as pirates and corsairs, rarely staying in one place for too long.
@@ -76,7 +76,7 @@ Many swashbucklers have a signature flourish with which they embellish their act
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/swashbuckler.png"
+"image": "compendium/bestiary/humanoid/token/swashbuckler.png"
 ```
 ^statblock
 

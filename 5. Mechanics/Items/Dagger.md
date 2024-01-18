@@ -9,7 +9,7 @@ tags:
 - item/weapon/simple/melee
 aliases: 
 - "Dagger"
-cost: 2 gp
+cost: 200
 ---
 # Dagger
 *Melee Weapon*  

@@ -6,7 +6,7 @@ tags:
 - item/gear/tack-and-harness
 aliases: 
 - "Saddlebags"
-cost: 4 gp
+cost: 400
 ---
 # Saddlebags
 *Tack and Harness*  

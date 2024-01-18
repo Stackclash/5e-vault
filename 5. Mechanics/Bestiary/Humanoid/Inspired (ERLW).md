@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Inspired"]
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Inspired (ERLW).md|Inspired]]
+# [[5. Mechanics\Bestiary\Humanoid\Inspired (ERLW).md|Inspired]]
 *Source: Eberron: Rising from the Last War p. 294*  
 
 The rulers of distant Sarlona are known as the Inspired. These noble families are said to be bound to celestial spirits that guide and empower them, but the truth is far darker. The Inspired are the mortal hosts of the nightmare spirits of Dal Quor, and they carry out the foul agenda of the Dreaming Dark.
@@ -73,6 +73,6 @@ Most of the people of the Five Nations have heard of the Inspired lords in Riedr
   "name": "Vicious Mockery (Cantrip)"
 "source":
 - "ERLW"
-"image": "5. Mechanics/Bestiary/Humanoid/token/inspired.png"
+"image": "compendium/bestiary/humanoid/token/inspired.png"
 ```
 ^statblock

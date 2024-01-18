@@ -6,7 +6,7 @@ tags:
 - item/gear/spellcasting-focus
 aliases: 
 - "Orb"
-cost: 20 gp
+cost: 2000
 ---
 # Orb
 *Spellcasting Focus*  

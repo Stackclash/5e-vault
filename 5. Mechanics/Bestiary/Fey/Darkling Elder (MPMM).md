@@ -13,7 +13,7 @@ tags:
 statblock: inline
 aliases: ["Darkling Elder"]
 ---
-# [[5. Mechanics/Bestiary/Fey/Darkling Elder (MPMM).md|Darkling Elder]]
+# [[5. Mechanics\Bestiary\Fey\Darkling Elder (MPMM).md|Darkling Elder]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 84*  
 
 A wise and respected darkling can undergo a ritual to become an elder. Other elders mark the supplicant with glowing tattoos, channeling away some of the darkling's absorbed light. If the ritual succeeds, the darkling grows into a taller, elf-like form. The darkling perishes if the ritual fails.

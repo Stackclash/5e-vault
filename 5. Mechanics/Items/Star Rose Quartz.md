@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Star rose quartz"
-cost: 50 gp
+cost: 5000
 ---
 # Star rose quartz
 *Treasure*  

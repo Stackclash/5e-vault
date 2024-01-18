@@ -8,7 +8,7 @@ tags:
 - item/weapon/simple/melee
 aliases: 
 - "Handaxe"
-cost: 5 gp
+cost: 500
 ---
 # Handaxe
 *Melee Weapon*  

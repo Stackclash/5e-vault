@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Monster Hunter's Pack"
-cost: 33 gp
+cost: 3300
 ---
 # Monster Hunter's Pack
 *Adventuring Gear*  

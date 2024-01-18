@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Goristro"]
 ---
-# [[5. Mechanics/Bestiary/Fiend/Goristro.md|Goristro]]
+# [[5. Mechanics\Bestiary\Fiend\Goristro.md|Goristro]]
 *Source: Monster Manual p. 59*  
 
 The goristro resembles a fiendish minotaur towering more than twenty feet tall. When controlled by a demon lord, goristros make formidable living siege engines and prized pets. Goristros possess preternatural cunning when navigating labyrinthine passages and shifting corridors, pursuing foes in a terrifying hunt.
@@ -244,6 +244,6 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "source":
 - "MM"
 - "SatO"
-"image": "5. Mechanics/Bestiary/Fiend/token/goristro.png"
+"image": "compendium/bestiary/fiend/token/goristro.png"
 ```
 ^statblock

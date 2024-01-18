@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Glass Bottle"
-cost: 2 gp
+cost: 200
 ---
 # Glass Bottle
 *Adventuring Gear*  

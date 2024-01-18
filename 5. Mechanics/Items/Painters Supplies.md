@@ -6,7 +6,7 @@ tags:
 - item/gear/artisans-tools
 aliases: 
 - "Painter's Supplies"
-cost: 10 gp
+cost: 1000
 ---
 # Painter's Supplies
 *Artisan's Tools*  

@@ -6,7 +6,7 @@ tags:
 - item/gear/artisans-tools
 aliases: 
 - "Cook's Utensils"
-cost: 1 gp
+cost: 100
 ---
 # Cook's Utensils
 *Artisan's Tools*  

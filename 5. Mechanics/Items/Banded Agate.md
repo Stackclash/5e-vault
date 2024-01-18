@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Banded Agate"
-cost: 10 gp
+cost: 1000
 ---
 # Banded Agate
 *Treasure*  

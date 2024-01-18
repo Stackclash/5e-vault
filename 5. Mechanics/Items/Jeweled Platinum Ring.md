@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Jeweled platinum ring"
-cost: 7,500 gp
+cost: 750000
 ---
 # Jeweled platinum ring
 *Treasure*  

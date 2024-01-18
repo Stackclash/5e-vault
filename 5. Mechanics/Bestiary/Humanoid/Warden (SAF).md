@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Warden"]
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Warden (SAF).md|Warden]]
+# [[5. Mechanics\Bestiary\Humanoid\Warden (SAF).md|Warden]]
 *Source: Strongholds and Followers p. 74*  
 
 ```statblock

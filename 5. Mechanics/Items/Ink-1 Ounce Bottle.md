@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Ink (1-ounce bottle)"
-cost: 10 gp
+cost: 1000
 ---
 # Ink (1-ounce bottle)
 *Adventuring Gear*  

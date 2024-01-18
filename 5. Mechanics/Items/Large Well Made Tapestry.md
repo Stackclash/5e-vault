@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Large well-made tapestry"
-cost: 250 gp
+cost: 25000
 ---
 # Large well-made tapestry
 *Treasure*  

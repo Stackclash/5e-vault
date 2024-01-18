@@ -7,7 +7,7 @@ tags:
 - item/property/poison
 aliases: 
 - "Drow Poison"
-cost: 200 gp
+cost: 20000
 ---
 # Drow Poison
 *Adventuring Gear, poison*  

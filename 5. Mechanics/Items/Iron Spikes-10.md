@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Iron Spikes (10)"
-cost: 1 gp
+cost: 100
 ---
 # Iron Spikes (10)
 *Adventuring Gear*  

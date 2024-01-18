@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Aquamarine"
-cost: 500 gp
+cost: 50000
 ---
 # Aquamarine
 *Treasure*  

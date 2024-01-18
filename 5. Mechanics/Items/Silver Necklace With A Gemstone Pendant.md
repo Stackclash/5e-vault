@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Silver necklace with a gemstone pendant"
-cost: 250 gp
+cost: 25000
 ---
 # Silver necklace with a gemstone pendant
 *Treasure*  

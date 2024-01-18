@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Gold ring set with bloodstones"
-cost: 250 gp
+cost: 25000
 ---
 # Gold ring set with bloodstones
 *Treasure*  

@@ -6,7 +6,7 @@ tags:
 - item/gear/trade-good
 aliases: 
 - "Iron"
-cost: 1 sp
+cost: 10
 ---
 # Iron
 *Trade Good*  

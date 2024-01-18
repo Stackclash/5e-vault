@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Derro"]
 ---
-# [[5. Mechanics/Bestiary/Aberration/Derro (MPMM).md|Derro]]
+# [[5. Mechanics\Bestiary\Aberration\Derro (MPMM).md|Derro]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 91*  
 
 > [!quote]- A quote from Mordenkainen  
@@ -68,7 +68,7 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
 "source":
 - "MPMM"
 - "MTF"
-"image": "5. Mechanics/Bestiary/Aberration/token/derro.png"
+"image": "compendium/bestiary/aberration/token/derro.png"
 ```
 ^statblock
 

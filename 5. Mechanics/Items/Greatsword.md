@@ -9,7 +9,7 @@ tags:
 - item/weapon/martial/melee
 aliases: 
 - "Greatsword"
-cost: 50 gp
+cost: 5000
 ---
 # Greatsword
 *Melee Weapon*  

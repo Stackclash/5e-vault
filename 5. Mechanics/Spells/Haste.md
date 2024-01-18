@@ -17,6 +17,7 @@ tags:
 aliases: ["Haste"]
 ---
 # Haste
+%%-- Embedded content starts on the next line. --%%
 *3rd-level, Transmutation*  
 
 - **Casting time:** 1 action

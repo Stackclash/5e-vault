@@ -6,7 +6,7 @@ tags:
 - item/weapon/ammunition
 aliases: 
 - "Blowgun Needles (50)"
-cost: 1 gp
+cost: 100
 ---
 # Blowgun Needles (50)
 *Ammunition*  

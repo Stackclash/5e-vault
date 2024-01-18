@@ -6,7 +6,7 @@ tags:
 - item/gear/tack-and-harness
 aliases: 
 - "Stabling (per day)"
-cost: 5 sp
+cost: 50
 ---
 # Stabling (per day)
 *Tack and Harness*  

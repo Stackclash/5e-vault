@@ -9,7 +9,7 @@ tags:
 - item/weapon/martial/melee
 aliases: 
 - "Shortsword"
-cost: 10 gp
+cost: 1000
 ---
 # Shortsword
 *Melee Weapon*  

@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Jeweled gold crown"
-cost: 7,500 gp
+cost: 750000
 ---
 # Jeweled gold crown
 *Treasure*  

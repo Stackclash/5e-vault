@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Greater Star Spawn Emissary"]
 ---
-# [[5. Mechanics/Bestiary/Aberration/Greater Star Spawn Emissary (VRGR).md|Greater Star Spawn Emissary]]
+# [[5. Mechanics\Bestiary\Aberration\Greater Star Spawn Emissary (VRGR).md|Greater Star Spawn Emissary]]
 *Source: Van Richten's Guide to Ravenloft p. 245*  
 
 An emissary's greater form sheds all pretense of being part of a plane's reality and openly mocks it. A destructive titan, this form rises in a 25-foot-tall pillar of violent flesh amalgamating the meat and voices of every form the emissary has ever mimicked. Manifestations of alien hunger erupt from this horror in waves of ravenous organs and mind-breaking psychic assaults.

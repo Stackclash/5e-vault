@@ -6,7 +6,7 @@ tags:
 - item/gear/spellcasting-focus
 aliases: 
 - "Totem"
-cost: 1 gp
+cost: 100
 ---
 # Totem
 *Spellcasting Focus*  

@@ -11,6 +11,7 @@ tags:
 aliases: ["Mind Sliver"]
 ---
 # Mind Sliver
+%%-- Embedded content starts on the next line. --%%
 *cantrip, Enchantment*  
 ![[5. Mechanics/Spells/img/mind-sliver.webp#right]]  
 

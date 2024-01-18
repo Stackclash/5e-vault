@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Babau"]
 ---
-# [[5. Mechanics/Bestiary/Fiend/Babau (MPMM).md|Babau]]
+# [[5. Mechanics\Bestiary\Fiend\Babau (MPMM).md|Babau]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 52*  
 
 > [!quote]- A quote from Mordenkainen  
@@ -73,7 +73,7 @@ A babau demon has the cunning of a devil and the bloodthirstiness of a demon. It
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Fiend/token/babau.png"
+"image": "compendium/bestiary/fiend/token/babau.png"
 ```
 ^statblock
 

@@ -13,6 +13,7 @@ tags:
 aliases: ["Shocking Grasp"]
 ---
 # Shocking Grasp
+%%-- Embedded content starts on the next line. --%%
 *cantrip, Evocation*  
 
 - **Casting time:** 1 action

@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Hammer"
-cost: 1 gp
+cost: 100
 ---
 # Hammer
 *Adventuring Gear*  

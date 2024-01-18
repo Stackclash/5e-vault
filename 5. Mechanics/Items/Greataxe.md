@@ -9,7 +9,7 @@ tags:
 - item/weapon/martial/melee
 aliases: 
 - "Greataxe"
-cost: 30 gp
+cost: 3000
 ---
 # Greataxe
 *Melee Weapon*  

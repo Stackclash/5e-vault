@@ -11,7 +11,11 @@ statblock: inline
 aliases: ["Archmage"]
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Archmage.md|Archmage]]
-*Source: Monster Manual p. 342, Curse of Strahd. Available in the SRD.*  
+*Source: Monster Manual p. 342, Curse of Strahd, Eberron: Rising from the Last War. Available in the SRD.*  
+
+Archmages are powerful (and usually quite old) spellcasters dedicated to the study of the arcane arts. Benevolent ones counsel kings and queens, while evil ones rule as tyrants and pursue lichdom. Those who are neither good nor evil sequester themselves in remote towers to practice their magic without interruption.
+
+An archmage typically has one or more apprentice mages, and an archmage's abode has numerous magical wards and guardians to discourage interlopers.
 
 ```statblock
 "name": "Archmage"
@@ -44,17 +48,28 @@ aliases: ["Archmage"]
 "traits":
 - "desc": "The archmage is an 18th-level spellcaster. Its spellcasting ability is\
     \ Intelligence (spell save DC 17, dice: d20+9 (+9 to hit) with spell attacks).\
-    \ The archmage can cast disguise self and invisibility at will and has the following\
-    \ wizard spells prepared:\n\nAt will: disguise self, invisibility\n\nCantrips\
-    \ (at will): fire bolt, light, mage hand, prestidigitation, shocking grasp\n\
-    \n1st level (4 slots): detect magic, identify, mage armor, magic missile\n\
-    \n2nd level (3 slots): detect thoughts, mirror image, misty step\n\n3rd\
-    \ level (3 slots): counterspell, fly, lightning bolt\n\n4th level (3 slots):\
-    \ banishment, fire shield, stoneskin\n\n5th level (3 slots): cone of cold,\
-    \ scrying, wall of force\n\n6th level (1 slots): globe of invulnerability\n\
-    \n7th level (1 slots): teleport\n\n8th level (1 slots): mind blank\n\n\
-    9th level (1 slots): time stop\n\nThe archmage casts these spells on itself\
-    \ before combat."
+    \ The archmage can cast [[5. Mechanics/Spells/Disguise Self.md|disguise self]] and\
+    \ [[5. Mechanics/Spells/Invisibility.md|invisibility]] at will and has the following\
+    \ wizard spells prepared:\n\nAt will: [[5. Mechanics/Spells/Disguise Self.md|disguise self]],\
+    \ [[5. Mechanics/Spells/Invisibility.md|invisibility]]\n\nCantrips (at will):\
+    \ [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]], [[5. Mechanics/Spells/Light.md|light]],\
+    \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]],\
+    \ [[5. Mechanics/Spells/Shocking Grasp.md|shocking grasp]]\n\n1st level (4 slots):\
+    \ [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Identify.md|identify]],\
+    \ [[5. Mechanics/Spells/Mage Armor.md|mage armor]], [[5. Mechanics/Spells/Magic Missile.md|magic missile]]\n\
+    \n2nd level (3 slots): [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
+    \ [[5. Mechanics/Spells/Mirror Image.md|mirror image]], [[5. Mechanics/Spells/Misty Step.md|misty step]]\n\
+    \n3rd level (3 slots): [[5. Mechanics/Spells/Counterspell.md|counterspell]],\
+    \ [[5. Mechanics/Spells/Fly.md|fly]], [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]]\n\
+    \n4th level (3 slots): [[5. Mechanics/Spells/Banishment.md|banishment]], [fire\
+    \ shield](compendium/spells/fire-shield.md), [[5. Mechanics/Spells/Stoneskin.md|stoneskin]]\n\
+    \n5th level (3 slots): [[5. Mechanics/Spells/Cone Of Cold.md|cone of cold]],\
+    \ [[5. Mechanics/Spells/Scrying.md|scrying]], [[5. Mechanics/Spells/Wall Of Force.md|wall of force]]\n\
+    \n6th level (1 slots): [[5. Mechanics/Spells/Globe Of Invulnerability.md|globe of invulnerability]]\n\
+    \n7th level (1 slots): [[5. Mechanics/Spells/Teleport.md|teleport]]\n\n8th\
+    \ level (1 slots): [[5. Mechanics/Spells/Mind Blank.md|mind blank]]\n\n9th level\
+    \ (1 slots): [[5. Mechanics/Spells/Time Stop.md|time stop]]\n\nThe archmage casts\
+    \ these spells on itself before combat."
   "name": "spells"
 - "desc": "The archmage has advantage on saving throws against spells and other magical\
     \ effects."

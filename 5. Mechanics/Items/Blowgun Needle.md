@@ -6,7 +6,7 @@ tags:
 - item/weapon/ammunition
 aliases: 
 - "Blowgun Needle"
-cost: 2 cp
+cost: 2
 ---
 # Blowgun Needle
 *Ammunition*  

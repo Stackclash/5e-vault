@@ -6,7 +6,7 @@ tags:
 - item/armor/heavy
 aliases: 
 - "Plate Armor"
-cost: 1,500 gp
+cost: 150000
 ---
 # Plate Armor
 *Heavy Armor*  

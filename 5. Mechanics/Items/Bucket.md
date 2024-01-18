@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Bucket"
-cost: 5 cp
+cost: 5
 ---
 # Bucket
 *Adventuring Gear*  

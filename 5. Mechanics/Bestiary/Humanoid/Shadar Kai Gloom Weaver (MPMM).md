@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Shadar-kai Gloom Weaver"]
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Shadar Kai Gloom Weaver (MPMM).md|Shadar-kai Gloom Weaver]]
+# [[5. Mechanics\Bestiary\Humanoid\Shadar Kai Gloom Weaver (MPMM).md|Shadar-kai Gloom Weaver]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 213*  
 
 Although they're formidable warriors, gloom weavers are often content to hide in the shadows, watching as their very presence affects their victims. Their bleak energy weighs down the heart, causing those nearby to feel the approach of death. If detected, gloom weavers use their shadow magic to reduce enemies to ghastly corpses.

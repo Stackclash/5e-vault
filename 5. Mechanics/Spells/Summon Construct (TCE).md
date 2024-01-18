@@ -12,6 +12,7 @@ tags:
 aliases: ["Summon Construct"]
 ---
 # Summon Construct
+%%-- Embedded content starts on the next line. --%%
 *4th-level, Conjuration*  
 
 - **Casting time:** 1 action

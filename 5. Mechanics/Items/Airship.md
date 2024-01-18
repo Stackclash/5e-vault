@@ -6,7 +6,7 @@ tags:
 - item/vehicle/airship
 aliases: 
 - "Airship"
-cost: 20,000 gp
+cost: 2000000
 ---
 # Airship
 *Airship, Vehicle (air)*  

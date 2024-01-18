@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Bottle stopper cork embossed with gold leaf and set with amethysts"
-cost: 750 gp
+cost: 75000
 ---
 # Bottle stopper cork embossed with gold leaf and set with amethysts
 *Treasure*  

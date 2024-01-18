@@ -6,7 +6,7 @@ tags:
 - item/gear/artisans-tools
 aliases: 
 - "Jeweler's Tools"
-cost: 25 gp
+cost: 2500
 ---
 # Jeweler's Tools
 *Artisan's Tools*  

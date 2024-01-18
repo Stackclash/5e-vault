@@ -7,7 +7,7 @@ tags:
 - item/property/poison
 aliases: 
 - "Burnt Othur Fumes"
-cost: 500 gp
+cost: 50000
 ---
 # Burnt Othur Fumes
 *Adventuring Gear, poison*  

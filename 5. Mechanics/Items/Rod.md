@@ -6,7 +6,7 @@ tags:
 - item/gear/spellcasting-focus
 aliases: 
 - "Rod"
-cost: 10 gp
+cost: 1000
 ---
 # Rod
 *Spellcasting Focus*  

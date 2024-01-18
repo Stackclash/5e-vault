@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Dungeoneer's Pack"
-cost: 12 gp
+cost: 1200
 ---
 # Dungeoneer's Pack
 *Adventuring Gear*  

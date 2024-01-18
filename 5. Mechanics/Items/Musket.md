@@ -10,7 +10,7 @@ tags:
 - item/weapon/martial/ranged
 aliases: 
 - "Musket"
-cost: 500 gp
+cost: 50000
 ---
 # Musket
 *Ranged Weapon*  

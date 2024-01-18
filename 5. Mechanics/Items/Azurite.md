@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Azurite"
-cost: 10 gp
+cost: 1000
 ---
 # Azurite
 *Treasure*  

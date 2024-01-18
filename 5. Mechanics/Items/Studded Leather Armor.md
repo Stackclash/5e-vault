@@ -6,7 +6,7 @@ tags:
 - item/armor/light
 aliases: 
 - "Studded Leather Armor"
-cost: 45 gp
+cost: 4500
 ---
 # Studded Leather Armor
 *Light Armor*  

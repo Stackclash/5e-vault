@@ -6,7 +6,7 @@ tags:
 - item/gear/trade-good
 aliases: 
 - "Cloves"
-cost: 3 gp
+cost: 300
 ---
 # Cloves
 *Trade Good*  

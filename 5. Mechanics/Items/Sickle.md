@@ -7,7 +7,7 @@ tags:
 - item/weapon/simple/melee
 aliases: 
 - "Sickle"
-cost: 1 gp
+cost: 100
 ---
 # Sickle
 *Melee Weapon*  

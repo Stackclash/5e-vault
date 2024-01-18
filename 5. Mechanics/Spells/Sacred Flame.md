@@ -11,6 +11,7 @@ tags:
 aliases: ["Sacred Flame"]
 ---
 # Sacred Flame
+%%-- Embedded content starts on the next line. --%%
 *cantrip, Evocation*  
 ![[5. Mechanics/Spells/img/sacred-flame.webp#right]]  
 

@@ -6,7 +6,7 @@ tags:
 - item/gear/artisans-tools
 aliases: 
 - "Cartographer's Tools"
-cost: 15 gp
+cost: 1500
 ---
 # Cartographer's Tools
 *Artisan's Tools*  

@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Silk robe with gold embroidery"
-cost: 250 gp
+cost: 25000
 ---
 # Silk robe with gold embroidery
 *Treasure*  

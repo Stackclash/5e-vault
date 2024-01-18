@@ -6,7 +6,7 @@ tags:
 - item/armor/light
 aliases: 
 - "Leather Armor"
-cost: 10 gp
+cost: 1000
 ---
 # Leather Armor
 *Light Armor*  

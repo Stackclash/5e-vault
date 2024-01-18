@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Mezzoloth"]
 ---
-# [[5. Mechanics/Bestiary/Fiend/Mezzoloth.md|Mezzoloth]]
+# [[5. Mechanics\Bestiary\Fiend\Mezzoloth.md|Mezzoloth]]
 *Source: Monster Manual p. 313*  
 
 The bulk of the yugoloth population is made up of mezzoloths, which are human-sized insect creatures covered in dense chitinous plates. Mezzoloths serve as foot soldiers in yugoloth armies, their wide-set eyes glowing red as the mezzoloths bear down on their foes.
@@ -127,6 +127,6 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 - "BGDIA"
 - "PaBTSO"
 - "ToFW"
-"image": "5. Mechanics/Bestiary/Fiend/token/mezzoloth.png"
+"image": "compendium/bestiary/fiend/token/mezzoloth.png"
 ```
 ^statblock

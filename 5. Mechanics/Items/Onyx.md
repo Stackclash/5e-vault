@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Onyx"
-cost: 50 gp
+cost: 5000
 ---
 # Onyx
 *Treasure*  

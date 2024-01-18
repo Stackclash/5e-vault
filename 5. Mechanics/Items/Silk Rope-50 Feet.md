@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Silk Rope (50 feet)"
-cost: 10 gp
+cost: 1000
 ---
 # Silk Rope (50 feet)
 *Adventuring Gear*  

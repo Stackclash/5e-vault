@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Merchant's Scale"
-cost: 5 gp
+cost: 500
 ---
 # Merchant's Scale
 *Adventuring Gear*  

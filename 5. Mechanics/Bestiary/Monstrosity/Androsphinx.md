@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Androsphinx"]
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Androsphinx.md|Androsphinx]]
+# [[5. Mechanics\Bestiary\Monstrosity\Androsphinx.md|Androsphinx]]
 *Source: Monster Manual p. 281. Available in the SRD.*  
 
 An androsphinx bears the head of a humanoid male on its lion's body. Outwardly gruff and downcast, it often begins conversations with insults or negative observations. Beneath this gruff exterior, however, an androsphinx has a noble heart. It has no wish to lie or deceive, but it doesn't give away information readily, choosing its words as wisely as it guards its secrets.
@@ -146,7 +146,7 @@ A sphinx presides over an ancient temple, sepulcher, or vault, within which are 
 - "MOT"
 - "CM"
 - "SatO"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/androsphinx.png"
+"image": "compendium/bestiary/monstrosity/token/androsphinx.png"
 ```
 ^statblock
 

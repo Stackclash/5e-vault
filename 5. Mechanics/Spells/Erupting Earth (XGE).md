@@ -13,6 +13,7 @@ tags:
 aliases: ["Erupting Earth"]
 ---
 # Erupting Earth
+%%-- Embedded content starts on the next line. --%%
 *3rd-level, Transmutation*  
 ![[5. Mechanics/Spells/img/erupting-earth.webp#right]]  
 

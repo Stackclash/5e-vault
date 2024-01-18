@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Diplomat's Pack"
-cost: 39 gp
+cost: 3900
 ---
 # Diplomat's Pack
 *Adventuring Gear*  

@@ -12,7 +12,7 @@ tags:
 statblock: inline
 aliases: ["Meenlock"]
 ---
-# [[5. Mechanics/Bestiary/Fey/Meenlock (MPMM).md|Meenlock]]
+# [[5. Mechanics\Bestiary\Fey\Meenlock (MPMM).md|Meenlock]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 178*  
 
 Meenlocks are Fey that invoke terror and seek to destroy all that is good, innocent, and beautiful. These bipeds have the heads and claws of crustaceans, and they primarily live in forests, although they adapt well to urban and subterranean settings.
@@ -73,7 +73,7 @@ Up to four meenlocks can telepathically torment one [[/5. Mechanics/Rules/Condit
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Fey/token/meenlock.png"
+"image": "compendium/bestiary/fey/token/meenlock.png"
 ```
 ^statblock
 

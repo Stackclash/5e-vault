@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Chuul"]
 ---
-# [[5. Mechanics/Bestiary/Aberration/Chuul.md|Chuul]]
+# [[5. Mechanics\Bestiary\Aberration\Chuul.md|Chuul]]
 *Source: Monster Manual p. 40. Available in the SRD.*  
 
 Survivors of the ancient aboleth empire, chuuls are crustaceans the aboleths modified and endowed with sentience. They follow the ingrained directives of their creators, as they have done since the dawn of time.
@@ -85,7 +85,7 @@ Although the aboleths' ancient empire fell long ago, the psychic bonds between t
 - "CRCotN"
 - "PaBTSO"
 - "DoDk"
-"image": "5. Mechanics/Bestiary/Aberration/token/chuul.png"
+"image": "compendium/bestiary/aberration/token/chuul.png"
 ```
 ^statblock
 

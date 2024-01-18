@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Black Pearl"
-cost: 500 gp
+cost: 50000
 ---
 # Black Pearl
 *Treasure*  

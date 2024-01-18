@@ -6,7 +6,7 @@ tags:
 - item/gear/tools
 aliases: 
 - "Navigator's Tools"
-cost: 25 gp
+cost: 2500
 ---
 # Navigator's Tools
 *Tools*  

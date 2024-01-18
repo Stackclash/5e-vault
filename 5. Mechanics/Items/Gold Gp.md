@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Gold (gp)"
-cost: 1 gp
+cost: 100
 ---
 # Gold (gp)
 *Treasure*  

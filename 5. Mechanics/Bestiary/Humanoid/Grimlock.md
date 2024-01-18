@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Grimlock"]
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Grimlock.md|Grimlock]]
+# [[5. Mechanics\Bestiary\Humanoid\Grimlock.md|Grimlock]]
 *Source: Monster Manual p. 175. Available in the SRD.*  
 
 The degenerate subterranean grimlocks were once human, but their worship of the mind flayers over generations of prowling the Underdark transformed them into blind, monstrous cannibals long ago.
@@ -79,7 +79,7 @@ Grimlocks still venerate the mind flayers, serving them whenever possible. Griml
 - "WDMM"
 - "PaBTSO"
 - "GHLoE"
-"image": "5. Mechanics/Bestiary/Humanoid/token/grimlock.png"
+"image": "compendium/bestiary/humanoid/token/grimlock.png"
 ```
 ^statblock
 

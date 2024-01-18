@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Diamond"
-cost: 5,000 gp
+cost: 500000
 ---
 # Diamond
 *Treasure*  

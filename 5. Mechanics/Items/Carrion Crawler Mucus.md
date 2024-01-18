@@ -7,7 +7,7 @@ tags:
 - item/property/poison
 aliases: 
 - "Carrion Crawler Mucus"
-cost: 200 gp
+cost: 20000
 ---
 # Carrion Crawler Mucus
 *Adventuring Gear, poison*  

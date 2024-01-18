@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Garnet"
-cost: 100 gp
+cost: 10000
 ---
 # Garnet
 *Treasure*  

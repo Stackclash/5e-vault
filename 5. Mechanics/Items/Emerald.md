@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Emerald"
-cost: 1,000 gp
+cost: 100000
 ---
 # Emerald
 *Treasure*  

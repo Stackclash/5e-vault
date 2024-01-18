@@ -6,7 +6,7 @@ tags:
 - item/weapon/ammunition
 aliases: 
 - "Arrows (20)"
-cost: 1 gp
+cost: 100
 ---
 # Arrows (20)
 *Ammunition*  

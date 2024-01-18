@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Chrysoberyl"
-cost: 100 gp
+cost: 10000
 ---
 # Chrysoberyl
 *Treasure*  

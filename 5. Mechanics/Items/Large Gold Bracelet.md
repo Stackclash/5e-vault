@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Large gold bracelet"
-cost: 250 gp
+cost: 25000
 ---
 # Large gold bracelet
 *Treasure*  

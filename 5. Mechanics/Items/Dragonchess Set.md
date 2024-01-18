@@ -6,7 +6,7 @@ tags:
 - item/gear/gaming-set
 aliases: 
 - "Dragonchess Set"
-cost: 1 gp
+cost: 100
 ---
 # Dragonchess Set
 *Gaming Set*  

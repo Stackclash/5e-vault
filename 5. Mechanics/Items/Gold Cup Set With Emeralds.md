@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Gold cup set with emeralds"
-cost: 7,500 gp
+cost: 750000
 ---
 # Gold cup set with emeralds
 *Treasure*  

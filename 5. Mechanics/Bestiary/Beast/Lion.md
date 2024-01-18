@@ -13,7 +13,7 @@ tags:
 statblock: inline
 aliases: ["Lion"]
 ---
-# [[5. Mechanics/Bestiary/Beast/Lion.md|Lion]]
+# [[5. Mechanics\Bestiary\Beast\Lion.md|Lion]]
 *Source: Monster Manual p. 331. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -66,7 +66,7 @@ aliases: ["Lion"]
 - "TftYP"
 - "ToA"
 - "KftGV"
-"image": "5. Mechanics/Bestiary/Beast/token/lion.png"
+"image": "compendium/bestiary/beast/token/lion.png"
 ```
 ^statblock
 

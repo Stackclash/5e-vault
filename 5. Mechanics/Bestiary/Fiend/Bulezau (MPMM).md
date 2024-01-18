@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Bulezau"]
 ---
-# [[5. Mechanics/Bestiary/Fiend/Bulezau (MPMM).md|Bulezau]]
+# [[5. Mechanics\Bestiary\Fiend\Bulezau (MPMM).md|Bulezau]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 67*  
 
 > [!quote]- A quote from Tasha  
@@ -74,6 +74,6 @@ Disfiguring ailments plague bulezaus: crusted eyes, maggots wriggling in open so
 "source":
 - "MPMM"
 - "MTF"
-"image": "5. Mechanics/Bestiary/Fiend/token/bulezau.png"
+"image": "compendium/bestiary/fiend/token/bulezau.png"
 ```
 ^statblock

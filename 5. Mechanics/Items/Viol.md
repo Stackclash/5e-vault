@@ -6,7 +6,7 @@ tags:
 - item/gear/instrument
 aliases: 
 - "Viol"
-cost: 30 gp
+cost: 3000
 ---
 # Viol
 *Instrument*  

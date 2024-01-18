@@ -39,7 +39,7 @@ aliases: ["Mule"]
     \ its carrying capacity."
   "name": "Beast of Burden"
 - "desc": "The mule has advantage on Strength and Dexterity saving throws made against\
-    \ effects that would knock it prone."
+    \ effects that would knock it [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Sure-Footed"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\

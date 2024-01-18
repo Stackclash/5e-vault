@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Morkoth"]
 ---
-# [[5. Mechanics/Bestiary/Aberration/Morkoth (MPMM).md|Morkoth]]
+# [[5. Mechanics\Bestiary\Aberration\Morkoth (MPMM).md|Morkoth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 186*  
 
 Ancient and devious, morkoths are voracious collectors. Each one floats through the planes on a strange, mobile island, amassing the valuables, oddities, and castoffs of the multiverse in a massive, ever-growing collection.
@@ -107,7 +107,7 @@ A morkoth encountered in its lair has a challenge rating of 12 (8,400 XP).
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Aberration/token/morkoth.png"
+"image": "compendium/bestiary/aberration/token/morkoth.png"
 ```
 ^statblock
 

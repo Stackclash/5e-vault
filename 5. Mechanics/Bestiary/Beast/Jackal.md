@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Jackal"]
 ---
-# [[5. Mechanics/Bestiary/Beast/Jackal.md|Jackal]]
+# [[5. Mechanics\Bestiary\Beast\Jackal.md|Jackal]]
 *Source: Monster Manual p. 331. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -50,7 +50,7 @@ aliases: ["Jackal"]
 "source":
 - "MM"
 - "GoS"
-"image": "5. Mechanics/Bestiary/Beast/token/jackal.png"
+"image": "compendium/bestiary/beast/token/jackal.png"
 ```
 ^statblock
 

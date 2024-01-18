@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Dhergoloth"]
 ---
-# [[5. Mechanics/Bestiary/Fiend/Dhergoloth (MPMM).md|Dhergoloth]]
+# [[5. Mechanics\Bestiary\Fiend\Dhergoloth (MPMM).md|Dhergoloth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 94*  
 
 > [!quote]- A quote from Mordenkainen  
@@ -74,7 +74,7 @@ Since dhergoloths are little more than brutes, employers must use caution when i
 "source":
 - "MPMM"
 - "MTF"
-"image": "5. Mechanics/Bestiary/Fiend/token/dhergoloth.png"
+"image": "compendium/bestiary/fiend/token/dhergoloth.png"
 ```
 ^statblock
 

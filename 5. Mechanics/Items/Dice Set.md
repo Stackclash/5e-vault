@@ -6,7 +6,7 @@ tags:
 - item/gear/gaming-set
 aliases: 
 - "Dice Set"
-cost: 1 sp
+cost: 10
 ---
 # Dice Set
 *Gaming Set*  

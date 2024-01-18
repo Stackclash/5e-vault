@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Gold dragon comb set with red garnets as eyes"
-cost: 750 gp
+cost: 75000
 ---
 # Gold dragon comb set with red garnets as eyes
 *Treasure*  

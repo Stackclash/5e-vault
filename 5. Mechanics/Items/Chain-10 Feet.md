@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Chain (10 feet)"
-cost: 5 gp
+cost: 500
 ---
 # Chain (10 feet)
 *Adventuring Gear*  

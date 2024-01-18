@@ -11,6 +11,7 @@ tags:
 aliases: ["Reverse Gravity"]
 ---
 # Reverse Gravity
+%%-- Embedded content starts on the next line. --%%
 *7th-level, Transmutation*  
 
 - **Casting time:** 1 action

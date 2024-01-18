@@ -7,7 +7,7 @@ tags:
 - item/property/poison
 aliases: 
 - "Malice"
-cost: 250 gp
+cost: 25000
 ---
 # Malice
 *Adventuring Gear, poison*  

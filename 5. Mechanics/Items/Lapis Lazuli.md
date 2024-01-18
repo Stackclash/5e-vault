@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Lapis Lazuli"
-cost: 10 gp
+cost: 1000
 ---
 # Lapis Lazuli
 *Treasure*  

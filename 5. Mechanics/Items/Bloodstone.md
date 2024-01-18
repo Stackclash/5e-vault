@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Bloodstone"
-cost: 50 gp
+cost: 5000
 ---
 # Bloodstone
 *Treasure*  

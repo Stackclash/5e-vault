@@ -9,7 +9,7 @@ tags:
 - item/weapon/martial/ranged
 aliases: 
 - "Net"
-cost: 1 gp
+cost: 100
 ---
 # Net
 *Ranged Weapon*  

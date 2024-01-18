@@ -7,7 +7,7 @@ tags:
 - item/property/poison
 aliases: 
 - "Basic Poison (vial)"
-cost: 100 gp
+cost: 10000
 ---
 # Basic Poison (vial)
 *Adventuring Gear, poison*  

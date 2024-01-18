@@ -24,7 +24,7 @@ A phantom warrior retains the alignment and personality it had before it died, a
 
 ## Forceful Presence
 
-Although they are incorporeal, phantom warriors can harness the energy around them to deflect incoming attacks and strike with great force. An invisible sheath of energy surrounds a phantom warrior's ghostly armor, shields, and weapons, which become as hard as steel yet don't impede the warrior's ability to move through walls and other solid objects.
+Although they are incorporeal, phantom warriors can harness the energy around them to deflect incoming attacks and strike with great force. An [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]] sheath of energy surrounds a phantom warrior's ghostly armor, shields, and weapons, which become as hard as steel yet don't impede the warrior's ability to move through walls and other solid objects.
 
 ## Undead Nature
 
@@ -51,8 +51,11 @@ A phantom warrior doesn't require air, food, drink, or sleep.
   "Perception": !!int "2"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "cold, necrotic, poison"
-"condition_immunities": "charmed, exhaustion, frightened, grappled, paralyzed, petrified,\
-  \ poisoned, prone, restrained"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "any languages it knew in life"
 "cr": "3"

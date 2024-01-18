@@ -8,7 +8,7 @@ tags:
 - item/weapon/martial/melee
 aliases: 
 - "Warhammer"
-cost: 15 gp
+cost: 1500
 ---
 # Warhammer
 *Melee Weapon*  

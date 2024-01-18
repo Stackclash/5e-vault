@@ -13,6 +13,7 @@ tags:
 aliases: ["Planar Binding"]
 ---
 # Planar Binding
+%%-- Embedded content starts on the next line. --%%
 *5th-level, Abjuration*  
 
 - **Casting time:** 1 hour

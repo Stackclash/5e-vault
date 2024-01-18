@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Portable Ram"
-cost: 4 gp
+cost: 400
 ---
 # Portable Ram
 *Adventuring Gear*  

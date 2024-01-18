@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Spellbook"
-cost: 50 gp
+cost: 5000
 ---
 # Spellbook
 *Adventuring Gear*  

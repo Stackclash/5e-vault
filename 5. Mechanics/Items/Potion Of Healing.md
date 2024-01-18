@@ -8,7 +8,7 @@ tags:
 - item/wondrous/potion
 aliases: 
 - "Potion of Healing"
-cost: 50 gp
+cost: 5000
 ---
 # Potion of Healing
 *Potion, minor, common*  

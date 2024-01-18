@@ -11,7 +11,7 @@ tags:
 - item/weapon/martial/ranged
 aliases: 
 - "Heavy Crossbow"
-cost: 50 gp
+cost: 5000
 ---
 # Heavy Crossbow
 *Ranged Weapon*  

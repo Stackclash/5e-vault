@@ -21,6 +21,8 @@ aliases: ["Scout"]
 # [[5. Mechanics\Bestiary\Humanoid\Scout.md|Scout]]
 *Source: Monster Manual p. 349, Curse of Strahd. Available in the SRD.*  
 
+Scouts are skilled hunters and trackers who offer their services for a fee. Most hunt wild game, but a few work as bounty hunters, serve as guides, or provide military reconnaissance.
+
 ```statblock
 "name": "Scout"
 "size": "Medium"
@@ -47,8 +49,8 @@ aliases: ["Scout"]
 "languages": "any one language (usually Common)"
 "cr": "1/2"
 "traits":
-- "desc": "The scout has advantage on Wisdom (Perception) checks that rely on hearing\
-    \ or sight."
+- "desc": "The scout has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+    \ checks that rely on hearing or sight."
   "name": "Keen Hearing and Sight"
 "actions":
 - "desc": "The scout makes two melee attacks or two ranged attacks."
