@@ -47,7 +47,6 @@ aliases: ["Madam Eva"]
 > **Current Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 # **`=this.file.name`**
-> [!info|bg-c-purple]- Overview
 The fortune-teller Madam Eva lives among the Vistani but isn't truly one of them. She appears to be in her seventies, but she is, in fact, much older.
 
 ## Royal Blood
@@ -78,6 +77,7 @@ None of Madam Eva's Vistani kin know her true identity or purpose. They puzzle o
 
 "The people whose fates I divine aren't important. They are but the means to an end."
 
+## Traits/Goals
 > [!column] Traits
 >> [!metadata|text-Center bg-c-gray] Personality
 >> `INPUT[text:personality]`

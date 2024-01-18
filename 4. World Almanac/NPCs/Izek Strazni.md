@@ -48,7 +48,6 @@ aliases: ["Izek Strazni"]
 > **Current Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 # **`=this.file.name`**
-> [!info|bg-c-purple]- Overview
 Izek and his sister were born in Vallaki. One morning, their father and their uncle took them fishing on Lake Zarovich. On the way back to town, a dire wolf attacked Izek and bit off his right arm. His father carried Izek back to town while his uncle distracted the beast. His sister ran and hid in the woods and was never seen again.
 
 Unlike his sister, Izek was born without a soul. As time wore on, he forgot his lost sister and learned to cope with his disability.
@@ -85,6 +84,7 @@ Izek has dreams of Ireena. If he spots her, he tries to take her by force to the
 
 "I would do anything, kill anything, to find my sister."
 
+## Traits/Goals
 > [!column] Traits
 >> [!metadata|text-Center bg-c-gray] Personality
 >> `INPUT[text:personality]`

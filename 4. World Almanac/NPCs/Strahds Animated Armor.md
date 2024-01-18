@@ -48,7 +48,6 @@ aliases: ["Strahd's Animated Armor"]
 > **Current Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 # **`=this.file.name`**
-> [!info|bg-c-purple]- Overview
 The armor that Strahd wore into battle when he was alive lives on today as a headless, animated suit of plate armor. The armor is painted burgundy and adorned with golden angelic motifs.
 
 ## Thing of Evil
@@ -57,6 +56,7 @@ Strahd imbued his automaton with a sliver of his being, bequeathing unto his arm
 
 The armor understands Common but obeys only the commands of its master.
 
+## Traits/Goals
 > [!column] Traits
 >> [!metadata|text-Center bg-c-gray] Personality
 >> `INPUT[text:personality]`

@@ -48,7 +48,6 @@ aliases: ["Vladimir Horngaard"]
 > **Current Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 # **`=this.file.name`**
-> [!info|bg-c-purple]- Overview
 Vladimir Horngaard joined the Order of the Silver Dragon at a young age and quickly earned the friendship of its founder, the silver dragon Argynvost. When he became a knight of the order, he traveled to distant lands to wage war against the forces of evil. The dragon stayed home and, in the guise of a human noble named Lord Argynvost, brought new initiates into the order.
 
 ## Enemies of Strahd
@@ -108,6 +107,7 @@ No magic can hide a creature pursued by a revenant, which always knows the direc
 
 A revenant doesn't require air, food, drink, or sleep.
 
+## Traits/Goals
 > [!column] Traits
 >> [!metadata|text-Center bg-c-gray] Personality
 >> `INPUT[text:personality]`

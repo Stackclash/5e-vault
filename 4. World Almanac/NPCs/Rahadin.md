@@ -48,7 +48,6 @@ aliases: ["Rahadin"]
 > **Current Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 # **`=this.file.name`**
-> [!info|bg-c-purple]- Overview
 Rahadin, the dusk elf chamberlain of Castle Ravenloft, has served Strahd's family faithfully for nearly five hundred years. He is Strahd's eternal servant, a longtime comrade-in-arms, and a ruthless warrior who has killed thousands in his lifetime.
 
 ## Exile
@@ -89,6 +88,7 @@ So dreadful a creature is Rahadin that anyone who stands within 10 feet of him c
 
 "I have slain thousands of men. I will slaughter thousands more to preserve the von Zarovich legacy."
 
+## Traits/Goals
 > [!column] Traits
 >> [!metadata|text-Center bg-c-gray] Personality
 >> `INPUT[text:personality]`
