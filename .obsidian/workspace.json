@@ -183,6 +183,8 @@
   },
   "active": "d354e36cb162d861",
   "lastOpenFiles": [
+    "js/locationsByType.js",
+    "js",
     "4. World Almanac/Places of Interest/Places of Interest.md",
     "4. World Almanac/Places of Interest/Coffin Maker's Shop.md",
     "z_Scripts/DB Folder/locationsByType.js",
@@ -213,7 +215,6 @@
     "compendium/deities/img",
     "compendium/spells/img",
     "compendium/bestiary/plant/token",
-    "compendium/bestiary/celestial/token",
     "compendium/rules/variant-rules/tying-knots-xge.md",
     "compendium/rules/variant-rules/wands-that-dont-recharge.md",
     "compendium/rules/variant-rules/tool-proficiencies-xge.md",
@@ -228,7 +229,6 @@
     "compendium/rules/variant-rules/shared-campaign-variant-rules-xge.md",
     "compendium/rules/variant-rules/scroll-mishaps.md",
     "compendium/rules/variant-rules/rest-variants.md",
-    "compendium/rules/variant-rules/renown.md",
     "Untitled.canvas"
   ]
 }

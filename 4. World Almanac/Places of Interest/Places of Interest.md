@@ -70,6 +70,7 @@ columns:
       footer_type: none
       persist_changes: false
       option_source: formula
+      formula_option_source: console.log(JSON.stringify(db.js))
 config:
   remove_field_when_delete_column: false
   cell_size: normal
