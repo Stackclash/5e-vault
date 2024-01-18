@@ -31,7 +31,7 @@
     "source_data": "current_folder",
     "source_form_result": "",
     "source_destination_path": "/",
-    "row_templates_folder": "/",
+    "row_templates_folder": "z_Scripts/DB Folder",
     "current_row_template": "",
     "pagination_size": 10,
     "font_size": 16,

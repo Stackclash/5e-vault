@@ -192,6 +192,7 @@
   },
   "active": "283b176cf3bea212",
   "lastOpenFiles": [
+    "z_Scripts/DB Folder/location-relationships.js",
     "z_Scripts/DB Folder",
     "4. World Almanac/Shops/Shops.md",
     "4. World Almanac/Settlements/Settlements.md",
@@ -222,7 +223,6 @@
     "compendium/bestiary/celestial/token",
     "compendium/objects/token",
     "compendium/bestiary/ooze/token",
-    "compendium/races/img",
     "compendium/rules/variant-rules/tying-knots-xge.md",
     "compendium/rules/variant-rules/wands-that-dont-recharge.md",
     "compendium/rules/variant-rules/tool-proficiencies-xge.md",
