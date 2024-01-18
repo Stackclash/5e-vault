@@ -1,15 +1,5 @@
 ---
 obsidianUIMode: preview
-region_settlement:
-  - "[[Barovia]]"
-world: "[[4. World Almanac/Worlds/Eldoria.md|Eldoria]]"
-settlement_PoI:
-  - "[[Burgomaster's Mansion]]"
-  - "[[Coffin Maker's Shop]]"
-  - "[[Wachterhaus]]"
-settlement_shop:
-  - "[[Blinksy Toys]]"
-  - "[[Blue Water Inn]]"
 ---
 > [!infobox]
 > # `=this.file.name`

@@ -13,7 +13,7 @@
             "state": {
               "type": "database-plugin",
               "state": {
-                "file": "4. World Almanac/Shops/Shops.md"
+                "file": "4. World Almanac/Places of Interest/Places of Interest.md"
               }
             }
           }
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/Shops/Shops.md",
+                "file": "4. World Almanac/Places of Interest/Places of Interest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/Shops/Shops.md",
+                "file": "4. World Almanac/Places of Interest/Places of Interest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/Shops/Shops.md"
+                "file": "4. World Almanac/Places of Interest/Places of Interest.md"
               }
             }
           },
@@ -192,6 +192,8 @@
   },
   "active": "283b176cf3bea212",
   "lastOpenFiles": [
+    "z_Scripts/DB Folder",
+    "4. World Almanac/Shops/Shops.md",
     "4. World Almanac/Settlements/Settlements.md",
     "4. World Almanac/Settlements/Vallaki.md",
     "2. Scratch Notes/To-Do List.md",
@@ -236,8 +238,6 @@
     "compendium/rules/variant-rules/scroll-mishaps.md",
     "compendium/rules/variant-rules/rest-variants.md",
     "compendium/rules/variant-rules/renown.md",
-    "compendium/rules/variant-rules/proficiency-dice.md",
-    "compendium/rules/variant-rules/plot-points.md",
     "Untitled.canvas"
   ]
 }
