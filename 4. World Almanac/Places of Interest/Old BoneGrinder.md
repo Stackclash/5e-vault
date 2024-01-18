@@ -1,5 +1,6 @@
 ---
 obsidianUIMode: preview
+location: ""
 ---
 > [!infobox]
 > # `=this.file.name`

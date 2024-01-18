@@ -50,7 +50,7 @@ columns:
       footer_type: none
       persist_changes: false
   location:
-    input: formula
+    input: select
     accessorKey: location
     key: location
     id: location
@@ -59,6 +59,7 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    options:
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -68,7 +69,7 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-      formula_query: ${db.js.locationsByType(db, ['Regions'])}
+      option_source: formula
 config:
   remove_field_when_delete_column: false
   cell_size: normal
