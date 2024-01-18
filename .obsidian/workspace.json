@@ -11,10 +11,16 @@
             "id": "283b176cf3bea212",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "4. World Almanac/Places of Interest/Places of Interest.md"
-              }
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "fbbe29c5bf8dd53d",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
             }
           }
         ]
@@ -192,6 +198,8 @@
   },
   "active": "283b176cf3bea212",
   "lastOpenFiles": [
+    "4. World Almanac/Places of Interest/Coffin Maker's Shop.md",
+    "4. World Almanac/Places of Interest/Places of Interest.md",
     "z_Scripts/DB Folder/locationsByType.js",
     "z_Scripts/DB Folder/location-relationships.js",
     "z_Scripts/DB Folder",
@@ -200,7 +208,6 @@
     "4. World Almanac/Settlements/Vallaki.md",
     "2. Scratch Notes/To-Do List.md",
     "5. Mechanics/Bestiary/Beast/Beast.md",
-    "4. World Almanac/Places of Interest/Places of Interest.md",
     "4. World Almanac/NPCs/Npc.md",
     "4. World Almanac/NPCs/Strahd Von Zarovich.md",
     "4. World Almanac/NPCs/Stella Wachter.md",
@@ -222,7 +229,6 @@
     "compendium/spells/img",
     "compendium/bestiary/plant/token",
     "compendium/bestiary/celestial/token",
-    "compendium/objects/token",
     "compendium/rules/variant-rules/tying-knots-xge.md",
     "compendium/rules/variant-rules/wands-that-dont-recharge.md",
     "compendium/rules/variant-rules/tool-proficiencies-xge.md",
