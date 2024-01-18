@@ -95,7 +95,7 @@
     \ equal to the necrotic damage taken, and Strahd regains hit points equal to that\
     \ amount. The reduction lasts until the target finishes a long rest. The target\
     \ dies if its hit point maximum is reduced to 0. A humanoid slain in this way\
-    \ and then buried in the ground rises the following night as a [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md\|vampire spawn]]\
+    \ and then buried in the ground rises the following night as a [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md|vampire spawn]]\
     \ under Strahd's control."
   "name": "Bite"
 - "desc": "Strahd targets one humanoid he can see within 30 feet of him. If the target\
@@ -108,9 +108,9 @@
     \ the effect lasts 24 hours or until Strahd is destroyed, is on a different plane\
     \ of existence than the target, or takes a bonus action to end the effect."
   "name": "Charm"
-- "desc": "Strahd magically calls dice: 2d4|avg (2d4) [[5. Mechanics/Bestiary/Beast/Swarm Of Bats.md\|swarms of bats]]\
-    \ or [[5. Mechanics/Bestiary/Beast/Swarm Of Rats.md\|swarms of rats]], provided that\
-    \ the sun isn't up. While outdoors, Strahd can call dice: 3d6|avg (3d6) [[5. Mechanics/Bestiary/Beast/Wolf.md\|wolves]]\
+- "desc": "Strahd magically calls dice: 2d4|avg (2d4) [[5. Mechanics/Bestiary/Beast/Swarm Of Bats.md|swarms of bats]]\
+    \ or [[5. Mechanics/Bestiary/Beast/Swarm Of Rats.md|swarms of rats]], provided that\
+    \ the sun isn't up. While outdoors, Strahd can call dice: 3d6|avg (3d6) [[5. Mechanics/Bestiary/Beast/Wolf.md|wolves]]\
     \ instead. The called creatures arrive in dice: 1d4|avg (1d4) rounds, acting\
     \ as allies of Strahd and obeying his spoken commands. The beasts remain for 1\
     \ hour, until Strahd dies, or until he dismisses them as a bonus action."
