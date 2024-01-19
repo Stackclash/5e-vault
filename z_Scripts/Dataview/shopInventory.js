@@ -17,6 +17,6 @@ function costDisplay(cp) {
 let items = input.current.items
 if (!Array.isArray(items)) items = [items]
 items = items.map(item => {
-    return [item, costDisplay(dv.page(item).cost || 0) * dv.page(dv.page("Configuration").active_world.path).economic_scale * input.current.cost_modifier]
+    return [item, costDisplay((dv.page(item).cost || 0) * dv.page(dv.page("Configuration").active_world.path).economic_scale * input.current.cost_modifier)]
 })
 dv.table(["Item", "Cost"], items)
