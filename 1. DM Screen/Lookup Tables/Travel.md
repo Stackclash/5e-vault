@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 obsidianEditingMode: source
-BaseSpeed: 90.001
+BaseSpeed: 60.001
 SpeedMultiplier: 1
 AdditionalBonus: 0
 Encumbered: false
@@ -14,7 +14,7 @@ varMins: 60
 ShipCostPerM: 5
 MessengerCostPerM: 5
 CoachCost: 2
-CoachCostPerM: 5
+CoachCostPerM: 100
 DangerLevel: 3
 FamiliarRoute: true
 PartyMembers: 6

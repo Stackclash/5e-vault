@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DM Screen/Configuration.md",
-                "mode": "preview",
+                "file": "4. World Almanac/Worlds/Eldoria.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -25,35 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/Shops/Blinksy Toys.md",
-                "mode": "preview",
+                "file": "2. Scratch Notes/To-Do List.md",
+                "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "7ca26a10d3af3a3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Mechanics/Items/Longbow.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8bec6881a0d6211f",
-            "type": "leaf",
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "4. World Almanac/Worlds/Worlds.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. DM Screen/Configuration.md",
+                "file": "2. Scratch Notes/To-Do List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. DM Screen/Configuration.md",
+                "file": "2. Scratch Notes/To-Do List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DM Screen/Configuration.md"
+                "file": "2. Scratch Notes/To-Do List.md"
               }
             }
           },
@@ -226,20 +205,22 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "0d3640a761a229ad",
+  "active": "283b176cf3bea212",
   "lastOpenFiles": [
-    "4. World Almanac/NPCs/Milivoj.md",
     "4. World Almanac/Shops/Blinksy Toys.md",
-    "4. World Almanac/Worlds/Worlds.md",
     "5. Mechanics/Items/Longbow.md",
+    "4. World Almanac/Worlds/Eldoria.md",
     "1. DM Screen/Configuration.md",
+    "1. DM Screen/Lookup Tables/Travel.md",
+    "4. World Almanac/Worlds/Worlds.md",
+    "4. World Almanac/Settlements/Vallaki.md",
+    "4. World Almanac/NPCs/Milivoj.md",
     "1. DM Screen/Lookup Tables/Currency.md",
     "3. The Party/Parties/Curse of Strahd.md",
     "1. DM Screen/1. DM Screen.md",
     "z_Templates/World Building/Settlement.md",
     "z_Scripts/Dataview/shopInventory.js",
     "z_Templates/World Building/Shop.md",
-    "4. World Almanac/Settlements/Vallaki.md",
     "4. World Almanac/Places of Interest/Burgomaster's Mansion.md",
     "z_Scripts/Dataview/locations.js",
     "4. World Almanac/Places of Interest/Places of Interest.md",
@@ -258,8 +239,6 @@
     "z_Scripts/DB Folder",
     "js/locationsByType.js",
     "js",
-    "5. Mechanics/Tables/Order Of The Emerald Claw Npcs Emerald Claw Npcs.md",
-    "5. Mechanics/Tables/Lords Of Dust Npcs.md",
     "z_Scripts/Dataview/poi_and_settlements.js",
     "z_Extra/ttrpg-convert/templates/vehicle.txt",
     "z_Extra/ttrpg-convert/templates/subclass.txt",
