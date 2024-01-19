@@ -1,8 +1,8 @@
 ---
 obsidianUIMode: preview
 pronounced: 
-region: 
-places_of_interest: 
+location: 
+rulers: 
 population: 
 terrain: 
 government: 
@@ -10,20 +10,21 @@ religions:
 defences: 
 exports: 
 imports:
+aliases: 
 ---
 > [!infobox]
 > # `=this.file.name`
 > ![[PlaceholderImage.png|wm-tl]]
-> **Pronounced:**  "`=this.Pronounced`"
+> **Pronounced:**  "`INPUT[text:pronounced]`"
 > ###### Info
 >  |
 > ---|---|
-> **Alias** | `=this.alias` |
-> **Population** | `=this.population` |
+> **Alias** | `INPUT[inlineList:aliases]` |
+> **Population** | `INPUT[number:population]` |
 > ###### Politics
 >  |
 > ---|---|
-> **Ruler(s)** | `=link(this.rulers)` |
+> **Ruler(s)** | `INPUT[inlineListSuggester(optionQuery("4. World Almanac/NPCs")):rulers]` |
 > **Govt Type** | `=this.government` |
 > **Army** | `=this.army` |
 
