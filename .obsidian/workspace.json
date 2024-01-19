@@ -11,11 +11,9 @@
             "id": "fb8ff88d298cf983",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "4. World Almanac/Places of Interest/Argynvostholt.md",
-                "mode": "preview",
-                "source": false
+                "file": "4. World Almanac/Shops/Shops.md"
               }
             }
           }
@@ -81,6 +79,73 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "612e8c00a3cb2370",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "4. World Almanac/Shops/Shops.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "23190ad53fc3a400",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "4. World Almanac/Shops/Shops.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cf275da61aa5a892",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "3cde19f0863edea8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "4. World Almanac/Shops/Shops.md"
+              }
+            }
+          },
+          {
+            "id": "a147abca95b10d1b",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "d950a8794ce726e6",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -109,7 +174,11 @@
   },
   "active": "fb8ff88d298cf983",
   "lastOpenFiles": [
+    "Untitled.md",
+    "4. World Almanac/Shops/Test.md",
+    "4. World Almanac/Shops/Shops.md",
     "4. World Almanac/Shops/Bildrath's Mercantile.md",
+    "4. World Almanac/Places of Interest/Argynvostholt.md",
     "4. World Almanac/Regions/Barovia.md",
     "4. World Almanac/Settlements/Krezk.md",
     "4. World Almanac/Worlds/Eldoria.md",
@@ -120,7 +189,6 @@
     "4. World Almanac/Places of Interest/Van Richten's Tower.md",
     "4. World Almanac/Places of Interest/Ruins of Berez.md",
     "4. World Almanac/Places of Interest/Tsolenka Pass.md",
-    "4. World Almanac/Places of Interest/Argynvostholt.md",
     "4. World Almanac/Places of Interest/Old Bonegrinder.md",
     "4. World Almanac/Places of Interest/Castle Ravenloft.md",
     "4. World Almanac/Places of Interest/Places of Interest.md",
@@ -130,11 +198,6 @@
     "3. The Party/Players/Test.md",
     "4. World Almanac/Settlements/Settlements.md",
     "3. The Party/Parties/Parties.md",
-    "4. World Almanac/Regions/Regions.md",
-    "Village of Barovia.md",
-    "z_Templates/World Building/Leaflet Bounds Calculator.md",
-    "4. World Almanac/Worlds/Worlds.md",
-    "4. World Almanac/Shops/Shops.md",
     "z_Scripts/Dataview/locationBreadcrumbs.js",
     "z_Scripts/Dataview/shopInventory.js",
     "z_Scripts/Dataview/locations.js",
