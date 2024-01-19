@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 owners: "[[Gadof Blinsky]]"
 staff: 
-cost_modifier: 
-items: "[[Longbow]]"
+cost_modifier: 1
+items:
+  - "[[Longbow]]"
 location: "[[Vallaki]]"
 ---
 > [!infobox]
