@@ -1,3 +1,10 @@
+<%*
+await tp.file.move('4. World Almanac/Shops/' + tp.file.title)
+if (tp.config.run_mode === 0) {
+    let title = await tp.system.prompt("What is the name of the shop?")
+    await tp.file.rename(title)
+}
+-%>
 ---
 obsidianUIMode: preview
 owners: 

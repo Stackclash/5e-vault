@@ -1,3 +1,10 @@
+<%*
+await tp.file.move('4. World Almanac/Settlements/' + tp.file.title)
+if (tp.config.run_mode === 0) {
+    let title = await tp.system.prompt("What is the name of the settlement?")
+    await tp.file.rename(title)
+}
+-%>
 ---
 obsidianUIMode: preview
 location: 
