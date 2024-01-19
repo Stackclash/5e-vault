@@ -100,6 +100,7 @@ columns:
     isHidden: false
     sortIndex: -1
     options:
+      - { label: "[[5. Mechanics/Items/Longbow.md|Longbow]]", value: "[[5. Mechanics/Items/Longbow.md|Longbow]]", color: "hsl(24, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
