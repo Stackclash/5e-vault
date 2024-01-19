@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a7886239a5225643",
+        "id": "d8ca8f33d6b164ba",
         "type": "tabs",
         "children": [
           {
-            "id": "0d3640a761a229ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. World Almanac/Worlds/Eldoria.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10092a9a21bbaf42",
+            "id": "fe5358fd1bdb7e92",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,17 +191,16 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "10092a9a21bbaf42",
+  "active": "fe5358fd1bdb7e92",
   "lastOpenFiles": [
+    "4. World Almanac/Settlements/Settlements.md",
+    "4. World Almanac/Settlements/Test.md",
     "4. World Almanac/Worlds/Eldoria.md",
-    "Untitled.md",
-    "z_Templates/World Building/NPC.md",
-    "z_Templates/World Building/Location.md",
-    "z_Templates/World Building/Settlement.md",
     "z_Templates/World Building/Shop.md",
-    "4. World Almanac/Shops/Blue Water Inn.md",
-    "4. World Almanac/Shops/Blinksy Toys.md",
+    "z_Templates/World Building/Location.md",
+    "Untitled.md",
     "2. Scratch Notes/To-Do List.md",
+    "4. World Almanac/Shops/Blinksy Toys.md",
     "5. Mechanics/Items/Longbow.md",
     "1. DM Screen/Configuration.md",
     "1. DM Screen/Lookup Tables/Travel.md",
@@ -224,13 +210,14 @@
     "1. DM Screen/Lookup Tables/Currency.md",
     "3. The Party/Parties/Curse of Strahd.md",
     "1. DM Screen/1. DM Screen.md",
+    "z_Templates/World Building/Settlement.md",
     "z_Scripts/Dataview/shopInventory.js",
     "4. World Almanac/Places of Interest/Burgomaster's Mansion.md",
     "z_Scripts/Dataview/locations.js",
     "4. World Almanac/Places of Interest/Places of Interest.md",
+    "4. World Almanac/Shops/Blue Water Inn.md",
     "4. World Almanac/Shops/Shops.md",
     "4. World Almanac/Settlements/Village of Barovia.md",
-    "4. World Almanac/Settlements/Settlements.md",
     "4. World Almanac/Regions/Barovia.md",
     "4. World Almanac/Regions/Regions.md",
     "4. World Almanac/Places of Interest/Wachterhaus.md",
