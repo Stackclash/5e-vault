@@ -4,6 +4,7 @@ owners: "[[Gadof Blinsky]]"
 staff: 
 cost_modifier: 
 items: 
+location: "[[Vallaki]]"
 ---
 > [!infobox]
 > # `=this.file.name`

@@ -1,5 +1,6 @@
 ---
 obsidianUIMode: preview
+location: "[[Barovia]]"
 ---
 > [!infobox]
 > # `=this.file.name`

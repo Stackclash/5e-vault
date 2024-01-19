@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-location: ""
+location: "[[Vallaki]]"
 ---
 > [!infobox]
 > # `=this.file.name`

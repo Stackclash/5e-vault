@@ -50,7 +50,7 @@ columns:
       footer_type: none
       persist_changes: false
   location:
-    input: select
+    input: text
     accessorKey: location
     key: location
     id: location
@@ -59,7 +59,6 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
-    options:
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -69,8 +68,6 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-      option_source: formula
-      formula_option_source: "db.dataview.pages('\"4. World Almanac\"')"
 config:
   remove_field_when_delete_column: false
   cell_size: normal

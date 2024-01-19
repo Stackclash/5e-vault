@@ -3,7 +3,8 @@ obsidianUIMode: preview
 owners: 
 staff: 
 cost_modifier: 
-items: []
+items: 
+location: "[[Vallaki]]"
 ---
 > [!infobox]
 > # `=this.file.name`
