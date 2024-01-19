@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 location: "[[4. World Almanac/Regions/Barovia.md|Barovia]]"
-image: z_Assets\Vallaki.jpg
+image: z_Assets\Barovia.jpg
 pronounced: 
 resources: 
 population: 

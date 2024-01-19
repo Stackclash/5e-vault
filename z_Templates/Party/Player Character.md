@@ -37,7 +37,7 @@ flaw:
 likes: 
 dislikes: 
 party: "[[<% selectedParty.join('|') %>]]"
-image: "<% selectedImage %>"
+image: <% selectedImage %>
 condition:
 location:
 ---
