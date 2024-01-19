@@ -207,6 +207,7 @@
   },
   "active": "283b176cf3bea212",
   "lastOpenFiles": [
+    "z_Templates/World Building/Location.md",
     "z_Templates/World Building/Settlement.md",
     "z_Templates/World Building/Shop.md",
     "4. World Almanac/Shops/Blue Water Inn.md",
@@ -234,7 +235,6 @@
     "4. World Almanac/Regions/Regions.md",
     "4. World Almanac/Places of Interest/Wachterhaus.md",
     "4. World Almanac/Places of Interest/Old BoneGrinder.md",
-    "4. World Almanac/Places of Interest/Coffin Maker's Shop.md",
     "z_Scripts/DB Folder/locationsByType.js",
     "z_Scripts/DB Folder",
     "js/locationsByType.js",
