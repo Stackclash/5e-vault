@@ -3,16 +3,16 @@ obsidianUIMode: preview
 location: "[[4. World Almanac/Regions/Barovia.md|Barovia]]"
 image: z_Assets/PlaceholderImage.png
 pronounced: 
-resources: 
+resources: []
 population: 
 terrain: 
-rulers: 
+rulers: []
 government: 
 army: 
-religions: 
-imports:
-exports: 
-aliases: 
+religions: []
+imports: []
+exports: []
+aliases: []
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -36,7 +36,7 @@ aliases:
 > **Ruler(s):** | `INPUT[inlineListSuggester(optionQuery("4. World Almanac/NPCs")):rulers]` |
 > **Govt Type:** | `INPUT[text:government]` |
 > **Army:** | `INPUT[text:army]` |
-> **Religions:** | `INPUT[inlineList:relgions]` |
+> **Religions:** | `INPUT[inlineList:religions]` |
 > ###### Logistics
 >  |
 > ---|---|

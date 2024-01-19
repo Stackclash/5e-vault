@@ -22,16 +22,16 @@ obsidianUIMode: preview
 location: "[[<% selectedLocation.join('|') %>]]"
 image: <% selectedImage %>
 pronounced: 
-resources: 
+resources: []
 population: 
 terrain: 
-rulers: 
+rulers: []
 government: 
 army: 
-religions: 
-imports:
-exports: 
-aliases: 
+religions: []
+imports: []
+exports: []
+aliases: []
 ---
 > [!infobox]
 > # `=this.file.name`
