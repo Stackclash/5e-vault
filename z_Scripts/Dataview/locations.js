@@ -7,5 +7,5 @@ for (let group of pages) {
     dv.header(3, group.key)
     dv.table(["Name", "Pronounced"],
         group.rows.map(p => [p.file.link, p.pronounced])
-    )
+    ).sort(p => p.file.name)
 }
