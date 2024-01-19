@@ -207,6 +207,7 @@
   },
   "active": "283b176cf3bea212",
   "lastOpenFiles": [
+    "z_Scripts/Dataview/locations.js",
     "4. World Almanac/Places of Interest/Places of Interest.md",
     "4. World Almanac/Places of Interest/Burgomaster's Mansion.md",
     "4. World Almanac/Settlements/Vallaki.md",
@@ -236,7 +237,6 @@
     "5. Mechanics/Tables/Dreaming Dark Npcs.md",
     "5. Mechanics/Tables/Dragonmarked Npcs.md",
     "5. Mechanics/Tables/Cults Of The Dragon Below Npcs Cult Npcs.md",
-    "5. Mechanics/Tables/Chamber Npcs.md",
     "z_Scripts/Dataview/poi_and_settlements.js",
     "z_Extra/ttrpg-convert/templates/vehicle.txt",
     "z_Extra/ttrpg-convert/templates/subclass.txt",

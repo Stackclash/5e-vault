@@ -1,4 +1,4 @@
-const pages = dv.pages('"4. World Almanac/Places of Interest" or "4. World Almanac/Settlements"').groupBy(p => p.folder)
+const pages = dv.pages('"4. World Almanac"').where(p => p.location.includes(input.name)).groupBy(p => p.folder.split('/').slice(-1))
 console.log(pages.length)
 for (let group of pages) {
     console.log(group)

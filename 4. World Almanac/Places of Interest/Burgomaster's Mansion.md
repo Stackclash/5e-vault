@@ -51,7 +51,7 @@ TBD
 **[[Settlements|Add New Settlement]]**
 **[[Places of Interest|Add New Place of Interest]]**
 ```dataviewjs
-await dv.view()
+await dv.view('locations', {name: dv.current().file.name})
 ```
 
 ## History
