@@ -7,7 +7,7 @@ staff:
 cost_modifier: 1
 items: 
 resources:
-  - "[[6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md|Blinsky Toys]]"
+  - "[[07 Chapter-5 The Town Of Vallaki#N7. Blinsky Toys|Blinsky Toys]]"
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -29,4 +29,4 @@ resources:
 ```dataviewjs
 await dv.view("shopInventory", {current: dv.current()})
 ```
-[[07 Chapter-5 The Town Of Vallaki|Chapter 5: The Town of Vallaki#^N7. Blinsky Toys|Blinsky Toys]]
+

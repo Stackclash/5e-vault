@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
+                "file": "2. Scratch Notes/To-Do List.md",
                 "mode": "preview",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/Shops/Blinsky Toys.md",
-                "mode": "source",
+                "file": "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/Shops/Blinsky Toys.md",
+                "file": "2. Scratch Notes/To-Do List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/Shops/Blinsky Toys.md",
+                "file": "2. Scratch Notes/To-Do List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/Shops/Blinsky Toys.md"
+                "file": "2. Scratch Notes/To-Do List.md"
               }
             }
           },
@@ -187,12 +186,12 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "c4e55273adfb99a5",
+  "active": "9942a99821634b35",
   "lastOpenFiles": [
-    "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
     "4. World Almanac/Shops/Blinsky Toys.md",
-    "6. Resources/5e Modules/Curse Of Strahd/05 Chapter-3 The Village Of Barovia.md",
     "4. World Almanac/Shops/Bildrath's Mercantile.md",
+    "6. Resources/5e Modules/Curse Of Strahd/05 Chapter-3 The Village Of Barovia.md",
+    "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
     "4. World Almanac/Places of Interest/Places of Interest.md",
     "4. World Almanac/Shops/Blue Water Inn.md",
     "4. World Almanac/Shops/Blood of the Vine Tavern.md",
