@@ -1,15 +1,15 @@
 ---
 obsidianUIMode: preview
-pronounced: 
 location: 
-rulers: 
+pronounced: 
 population: 
 terrain: 
+rulers: 
 government: 
+army: 
 religions: 
-defences: 
-exports: 
 imports:
+exports: 
 aliases: 
 ---
 > [!infobox]
@@ -21,12 +21,19 @@ aliases:
 > ---|---|
 > **Alias** | `INPUT[inlineList:aliases]` |
 > **Population** | `INPUT[number:population]` |
+> **Terrain** | `INPUT[text:terrain]`
 > ###### Politics
 >  |
 > ---|---|
 > **Ruler(s)** | `INPUT[inlineListSuggester(optionQuery("4. World Almanac/NPCs")):rulers]` |
-> **Govt Type** | `=this.government` |
-> **Army** | `=this.army` |
+> **Govt Type** | `INPUT[text:government]` |
+> **Army** | `INPUT[text:army]` |
+> **Relgions** | `INPUT[inlineList:relgions]` |
+> ###### Logistics
+>  |
+> ---|---|
+> **Imports** | `INPUT[inlineList:imports]` |
+> **Exports** | `INPUT[inlineList:exports]` |
 
 # **`=this.file.name`**
 > [!info|bg-c-purple]- Overview
