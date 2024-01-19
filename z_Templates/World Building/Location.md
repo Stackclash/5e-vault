@@ -30,8 +30,7 @@ aliases:
 >  |
 > ---|---|
 > **Pronounced:** | `INPUT[text:pronounced]` |
-> **Breadcrumb:** | `$= await dv.view("locationBreadcrumbs", {current: dv.current()})` |
-> **Location:** |  |
+> **Location:** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Regions"),optionQuery("4. World Almanac/Settlements")):location]` |
 > ###### Info
 >  |
 > ---|---|
@@ -51,6 +50,7 @@ aliases:
 > **Imports:** | `INPUT[inlineList:imports]` |
 > **Exports:** | `INPUT[inlineList:exports]` |
 
+`$= await dv.view("locationBreadcrumbs", {current: dv.current()})`
 # **`=this.file.name`**
 > [!info|bg-c-purple]- Overview
 TBD
