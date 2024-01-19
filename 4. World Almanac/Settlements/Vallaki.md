@@ -1,7 +1,8 @@
 ---
 obsidianUIMode: preview
 location: "[[Barovia]]"
-image: z_Assets/PlaceholderImage.png
+image: z_Assets/Marin.jpeg
+population: 100000
 ---
 > [!infobox]
 > # `=this.file.name`
