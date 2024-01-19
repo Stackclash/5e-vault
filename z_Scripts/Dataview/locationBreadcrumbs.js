@@ -10,4 +10,7 @@ while (currentPage) {
     }
 }
 
-dv.span(breadcrumbs.map(b => `[[${b.file.path}|${b.file.name}]]`).join(' > '))
+breadcrumbs = breadcrumbs.map(b => `[[${b.file.path}|${b.file.name}]]`).join(' > ')
+console.log(typeof breadcrumbs)
+
+dv.span(breadcrumbs)
