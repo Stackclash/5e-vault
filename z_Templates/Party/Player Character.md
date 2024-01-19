@@ -58,11 +58,11 @@ location:
 > | | | |
 > | ---- | ---- | ---- |
 > | Strength | `INPUT[number:stats.str]` | `$=Math.floor((parseInt(dv.current().stats.str)-10)/2)` |
-> | Dexterity | `=this.stats.dex` | `$=Math.floor((parseInt(dv.current().stats.dex)-10)/2)` |
-> | Constitution | `=this.stats.con` | `$=Math.floor((parseInt(dv.current().stats.con)-10)/2)` |
-> | Intelligence | `=this.stats.int` | `$=Math.floor((parseInt(dv.current().stats.int)-10)/2)` |
-> | Wisdom | `=this.stats.wis` | `$=Math.floor((parseInt(dv.current().stats.wis)-10)/2)` |
-> | Charisma | `=this.stats.cha` | `$=Math.floor((parseInt(dv.current().stats.cha)-10)/2)` |
+> | Dexterity | `INPUT[number:stats.dex]` | `$=Math.floor((parseInt(dv.current().stats.dex)-10)/2)` |
+> | Constitution | `INPUT[number:stats.con]` | `$=Math.floor((parseInt(dv.current().stats.con)-10)/2)` |
+> | Intelligence | `INPUT[number:stats.int]` | `$=Math.floor((parseInt(dv.current().stats.int)-10)/2)` |
+> | Wisdom | `INPUT[number:stats.wis]` | `$=Math.floor((parseInt(dv.current().stats.wis)-10)/2)` |
+> | Charisma | `INPUT[number:stats.cha]` | `$=Math.floor((parseInt(dv.current().stats.cha)-10)/2)` |
 # DnD Beyond Character Sheet
 ```custom-frames
 frame: 

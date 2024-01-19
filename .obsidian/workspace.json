@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/Party/Player Character.md",
+                "file": "3. The Party/Players/Test.md",
                 "mode": "preview",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Templates/Party/Player Character.md",
+                "file": "3. The Party/Players/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Templates/Party/Player Character.md",
+                "file": "3. The Party/Players/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Templates/Party/Player Character.md"
+                "file": "3. The Party/Players/Test.md"
               }
             }
           },
@@ -216,6 +216,8 @@
   },
   "active": "8f85041b9d80759f",
   "lastOpenFiles": [
+    "z_Templates/Party/Player Character.md",
+    "3. The Party/Players/Test.md",
     "4. World Almanac/Shops/Shops.md",
     "4. World Almanac/Shops/Blinksy Toys.md",
     "4. World Almanac/NPCs/Doru.md",
@@ -241,10 +243,8 @@
     "1. DM Screen/Lookup Tables/Currency.md",
     "3. The Party/Parties/Curse of Strahd.md",
     "1. DM Screen/1. DM Screen.md",
-    "z_Templates/World Building/Settlement.md",
     "z_Scripts/Dataview/shopInventory.js",
     "z_Scripts/Dataview/locations.js",
-    "4. World Almanac/Shops/Blue Water Inn.md",
     "z_Scripts/DB Folder/locationsByType.js",
     "z_Scripts/DB Folder",
     "js/locationsByType.js",
