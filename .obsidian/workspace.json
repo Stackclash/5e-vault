@@ -23,11 +23,9 @@
             "id": "8f85041b9d80759f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "3. The Party/Players/Test.md",
-                "mode": "preview",
-                "source": false
+                "file": "3. The Party/Players/Players.md"
               }
             }
           },
@@ -100,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/Players/Test.md",
+                "file": "3. The Party/Players/Players.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/Players/Test.md",
+                "file": "3. The Party/Players/Players.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/Players/Test.md"
+                "file": "3. The Party/Players/Players.md"
               }
             }
           },
@@ -214,10 +212,12 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "8f85041b9d80759f",
+  "active": "a88a1818b2c15bdd",
   "lastOpenFiles": [
-    "z_Templates/Party/Player Character.md",
     "3. The Party/Players/Test.md",
+    "3. The Party/Players/Test.md",
+    "3. The Party/Players/Test.md",
+    "z_Templates/Party/Player Character.md",
     "4. World Almanac/Shops/Shops.md",
     "4. World Almanac/Shops/Blinksy Toys.md",
     "4. World Almanac/NPCs/Doru.md",
@@ -241,8 +241,6 @@
     "4. World Almanac/Worlds/Worlds.md",
     "4. World Almanac/NPCs/Milivoj.md",
     "1. DM Screen/Lookup Tables/Currency.md",
-    "3. The Party/Parties/Curse of Strahd.md",
-    "1. DM Screen/1. DM Screen.md",
     "z_Scripts/Dataview/shopInventory.js",
     "z_Scripts/Dataview/locations.js",
     "z_Scripts/DB Folder/locationsByType.js",
