@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/World Building/Shop.md",
-                "mode": "preview",
+                "file": "z_Templates/World Building/NPC.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Templates/World Building/Shop.md",
+                "file": "z_Templates/World Building/NPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Templates/World Building/Shop.md",
+                "file": "z_Templates/World Building/NPC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Templates/World Building/Shop.md"
+                "file": "z_Templates/World Building/NPC.md"
               }
             }
           },
@@ -207,8 +207,12 @@
   },
   "active": "283b176cf3bea212",
   "lastOpenFiles": [
-    "2. Scratch Notes/To-Do List.md",
+    "z_Templates/World Building/Settlement.md",
+    "z_Templates/World Building/Shop.md",
+    "4. World Almanac/Shops/Blue Water Inn.md",
     "4. World Almanac/Shops/Blinksy Toys.md",
+    "z_Templates/World Building/NPC.md",
+    "2. Scratch Notes/To-Do List.md",
     "5. Mechanics/Items/Longbow.md",
     "4. World Almanac/Worlds/Eldoria.md",
     "1. DM Screen/Configuration.md",
@@ -219,13 +223,10 @@
     "1. DM Screen/Lookup Tables/Currency.md",
     "3. The Party/Parties/Curse of Strahd.md",
     "1. DM Screen/1. DM Screen.md",
-    "z_Templates/World Building/Settlement.md",
     "z_Scripts/Dataview/shopInventory.js",
-    "z_Templates/World Building/Shop.md",
     "4. World Almanac/Places of Interest/Burgomaster's Mansion.md",
     "z_Scripts/Dataview/locations.js",
     "4. World Almanac/Places of Interest/Places of Interest.md",
-    "4. World Almanac/Shops/Blue Water Inn.md",
     "4. World Almanac/Shops/Shops.md",
     "4. World Almanac/Settlements/Village of Barovia.md",
     "4. World Almanac/Settlements/Settlements.md",
@@ -234,7 +235,6 @@
     "4. World Almanac/Places of Interest/Wachterhaus.md",
     "4. World Almanac/Places of Interest/Old BoneGrinder.md",
     "4. World Almanac/Places of Interest/Coffin Maker's Shop.md",
-    "4. World Almanac/NPCs/Strahd Von Zarovich.md",
     "z_Scripts/DB Folder/locationsByType.js",
     "z_Scripts/DB Folder",
     "js/locationsByType.js",

@@ -18,21 +18,14 @@ flaw:
 goals: 
 likes: 
 dislikes: 
-{#if resource.tags }
-tags:
-{#for tag in resource.tags}
-- {tag}
-{/for}
-{/if}
-aliases: ["{resource.name}"]
+tags: 
+aliases: []
 ---
 
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  "`INPUT[text:pronounced]`"
-{#if resource.fluffImages && resource.fluffImages.size > 0 }{#let first=resource.fluffImages.get(0)}
 > ![[PlaceholderImage.png|cover hm-sm]] 
-{/let}{/if}
 > ###### Bio
 >  |
 >  ---|---|

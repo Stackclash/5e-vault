@@ -1,14 +1,10 @@
 ---
 obsidianUIMode: preview
-owners:
-  - "[[4. World Almanac/NPCs/Arabelle.md|Arabelle]]"
-  - "[[4. World Almanac/NPCs/Clovin Belview.md|Clovin Belview]]"
-staff:
-  - "[[4. World Almanac/NPCs/Bray Martikov.md|Bray Martikov]]"
+owners: 
+staff: 
 cost_modifier: 1
-items:
-  - "[[5. Mechanics/Items/Ale Mug.md|Ale Mug]]"
-location: "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
+items: 
+location:
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -17,7 +13,7 @@ location: "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
 > | Owner(s) | `INPUT[inlineListSuggester(optionQuery("4. World Almanac/NPCs")):owners]` |
 > | Staff | `INPUT[inlineListSuggester(optionQuery("4. World Almanac/NPCs")):staff]` |
 > | Location | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
-> ###### Shop Info
+> ###### Inventory Info
 > |||
 > |---|---|
 > | Cost Modifier | `INPUT[number:cost_modifier]` |
