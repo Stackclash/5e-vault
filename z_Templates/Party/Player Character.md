@@ -36,21 +36,23 @@ flaw:
 likes: 
 dislikes: 
 party: <% selectedParty %>
-art: <% selectedImage %>
+image: <% selectedImage %>
 condition:
 location:
 ---
 > [!infobox|right]
 > # `=this.file.name`
-> `$=dv.container='<img src="'+app.vault.getResourcePath(dv.fileLink("z_Assets/"+dv.current().art))+'"/>'`
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```
 > ## Info
 > | | |
 > | ---- | ---- |
-> | Level | `=this.level` |
+> | Level | `INPUT[slider(minValue(1),maxValue(20))]` |
 > | Class | `$=dv.span(dv.pages().where(p => p.file.name === this.class || p.aliases.includes(this.class)).link)` |
 > | Race | `=link(this.race)` |
-> | HP | `=this.hp` |
-> | AC | `=this.ac` |
+> | HP | `INPUT[number:hp]` |
+> | AC | `INPUT[number:ac]` |
 > | Initiative Mod | `=this.modifier` |
 > ## Stats
 > | | | |
