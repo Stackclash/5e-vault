@@ -11,11 +11,9 @@
             "id": "fe5358fd1bdb7e92",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "4. World Almanac/Settlements/Settlements.md"
               }
             }
           }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "4. World Almanac/Settlements/Settlements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "4. World Almanac/Settlements/Settlements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "4. World Almanac/Settlements/Settlements.md"
               }
             }
           },
@@ -193,12 +191,12 @@
   },
   "active": "fe5358fd1bdb7e92",
   "lastOpenFiles": [
+    "Untitled.md",
     "4. World Almanac/Settlements/Settlements.md",
     "4. World Almanac/Settlements/Test.md",
     "4. World Almanac/Worlds/Eldoria.md",
     "z_Templates/World Building/Shop.md",
     "z_Templates/World Building/Location.md",
-    "Untitled.md",
     "2. Scratch Notes/To-Do List.md",
     "4. World Almanac/Shops/Blinksy Toys.md",
     "5. Mechanics/Items/Longbow.md",
