@@ -1,4 +1,6 @@
 <%*
+const dv = app.plugins.getPlugin("dataview").api
+
 let selectedType = await tp.system.suggester(['Region', 'Settlement', 'Place of Interest'], ['Regions', 'Settlements', 'Places of Interest'], false, "What type of location is this?")
 
 await tp.file.move(`4. World Almanac/${selectedType}/` + tp.file.title)
@@ -6,12 +8,15 @@ if (tp.config.run_mode === 0) {
     let title = await tp.system.prompt("What is the name of the location?")
     await tp.file.rename(title)
 }
+
+console.log(dv.pages('"4. World Almanac/Worlds" or "4. World Almanac/Regions"'))
 -%>
 ---
 obsidianUIMode: preview
 location: 
 image: z_Assets/PlaceholderImage.png 
 pronounced: 
+resources: 
 population: 
 terrain: 
 rulers: 
@@ -31,7 +36,7 @@ aliases:
 > ---|---|
 > **Pronounced:** | `INPUT[text:pronounced]` |
 > **Location:** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Regions"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Worlds")):location]` |
-> **Resource(s):** | `INPUT[inlineListSuggester(optionQuery("6. Resources"))]`
+> **Resource(s):** | `INPUT[inlineListSuggester(optionQuery("6. Resources")):resources]` |
 > ###### Info
 >  |
 > ---|---|
