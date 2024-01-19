@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
-location: 
-image: z_Assets/PlaceholderImage.png 
+location: "[[Vallaki]]"
+image: z_Assets/PlaceholderImage.png
 pronounced: 
 population: 
 terrain: 
@@ -9,9 +9,9 @@ rulers:
 government: 
 army: 
 religions: 
-imports:
+imports: 
 exports: 
-aliases: 
+aliases:
 ---
 > [!infobox]
 > # `=this.file.name`

@@ -3,10 +3,11 @@ breadcrumbs = [currentPage]
 
 while (currentPage) {
     if (currentPage.location) {
-        breadcrumbs.unshift(currentPage.location)
-        currentPage = currentPage.location
-        console.log(currentPage)
+        currentPage = dv.page(currentPage.location.path)
+        breadcrumbs.unshift(currentPage)
     } else {
         currentPage = false
     }
 }
+
+console.log(breadcrumbs)
