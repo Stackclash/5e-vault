@@ -28,7 +28,7 @@ aliases:
 > ---|---|
 > **Alias** | `INPUT[inlineList:aliases]` |
 > **Population** | `INPUT[number:population]` |
-> **Terrain** | `INPUT[text:terrain]`
+> **Terrain** | `INPUT[text:terrain]` |
 > ###### Politics
 >  |
 > ---|---|
