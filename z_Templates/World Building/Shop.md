@@ -32,9 +32,14 @@ while (selectMoreStaff) {
         selectedStaff.push(choice)
     }
 }
+
+let parentLocations = dv.pages('"4. World Almanac/Worlds" or "4. World Almanac/Regions" or "4. World Almanac/Settlements" or "4. World Almanac/Places of Interest"')
+
+let selectedLocation = await tp.system.suggester(parentLocations.map(p => p.file.name), parentLocations.map(p => [p.file.path, p.file.name]), false, "Where is this shop located?")
 -%>
 ---
 obsidianUIMode: preview
+location: "[[<% selectedLocation.join('|') %>]]"
 owners: <%* if (selectedOwners.length == 0) { %>[]<%* } %>
 <%* for (owner of selectedOwners) { -%>
   - "[[<% owner.join('|') %>]]"
@@ -45,7 +50,6 @@ staff: <%* if (selectedStaff.length == 0) { %>[]<%* } %>
 <%* } -%>
 cost_modifier: 1
 items: []
-location:
 ---
 > [!infobox]
 > # `=this.file.name`
