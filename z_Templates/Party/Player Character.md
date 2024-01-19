@@ -1,5 +1,5 @@
 <%*
-<!-- const dv = app.plugins.getPlugin("dataview").api -->
+const dv = app.plugins.getPlugin("dataview").api
 
 await tp.file.move('3. The Party/Players/' + tp.file.title)
 if (tp.config.run_mode === 0) {
@@ -9,8 +9,10 @@ if (tp.config.run_mode === 0) {
 
 let images = tp.user.get_all_files(app.vault.adapter.getBasePath(), "z_Assets")
 let selectedImage = await tp.system.suggester(images.map(i => i.name), images.map(i => i.path), false, "What image to use?")
-let parties = dv.pages('"3. The Party/Parties"').file.name
-let selectedParty = await tp.system.suggester(parties, parties, false, "What party is the character a part of?")
+if (!selectedImage) selectedImage = "z_Assets/PlaceholderImage.png"
+
+let parties = dv.pages('"3. The Party/Parties"')
+let selectedParty = await tp.system.suggester(parties.map(p => p.file.name), parties.map(p => [p.file.path, p.file.name]), false, "What party is the character a part of?")
 -%>
 ---
 obsidianUIMode: preview
@@ -34,8 +36,8 @@ bond:
 flaw: 
 likes: 
 dislikes: 
-party: <% selectedParty %>
-image: <% selectedImage %>
+party: "[[<% selectedParty.join('|') %>]]"
+image: "<% selectedImage %>"
 condition:
 location:
 ---

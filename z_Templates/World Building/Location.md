@@ -12,11 +12,15 @@ if (tp.config.run_mode === 0) {
 let parentLocations = dv.pages('"4. World Almanac/Worlds" or "4. World Almanac/Regions" or "4. World Almanac/Settlements"')
 
 let selectedLocation = await tp.system.suggester(parentLocations.map(p => p.file.name), parentLocations.map(p => [p.file.path, p.file.name]), false, "Where is this place located?")
+
+let images = tp.user.get_all_files(app.vault.adapter.getBasePath(), "z_Assets")
+let selectedImage = await tp.system.suggester(images.map(i => i.name), images.map(i => i.path), false, "What image to use?")
+if (!selectedImage) selectedImage = "z_Assets/PlaceholderImage.png"
 -%>
 ---
 obsidianUIMode: preview
 location: "[[<% selectedLocation.join('|') %>]]"
-image: z_Assets/PlaceholderImage.png 
+image: <% selectedImage %>
 pronounced: 
 resources: 
 population: 
