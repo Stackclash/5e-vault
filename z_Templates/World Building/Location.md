@@ -27,25 +27,29 @@ aliases:
 > ```meta-bind
 > INPUT[imageSuggester(optionQuery("z_Assets")):image]
 > ```
-> **Pronounced:**  "`INPUT[text:pronounced]`"
+>  |
+> ---|---|
+> **Pronounced:** | `INPUT[text:pronounced]` |
+> **Breadcrumb:** |  |
+> **Location:** |  |
 > ###### Info
 >  |
 > ---|---|
-> **Alias** | `INPUT[inlineList:aliases]` |
-> **Population** | `INPUT[number:population]` |
-> **Terrain** | `INPUT[text:terrain]` |
+> **Alias:** | `INPUT[inlineList:aliases]` |
+> **Population:** | `INPUT[number:population]` |
+> **Terrain:** | `INPUT[text:terrain]` |
 > ###### Politics
 >  |
 > ---|---|
-> **Ruler(s)** | `INPUT[inlineListSuggester(optionQuery("4. World Almanac/NPCs")):rulers]` |
-> **Govt Type** | `INPUT[text:government]` |
-> **Army** | `INPUT[text:army]` |
-> **Relgions** | `INPUT[inlineList:relgions]` |
+> **Ruler(s):** | `INPUT[inlineListSuggester(optionQuery("4. World Almanac/NPCs")):rulers]` |
+> **Govt Type:** | `INPUT[text:government]` |
+> **Army:** | `INPUT[text:army]` |
+> **Relgions:** | `INPUT[inlineList:relgions]` |
 > ###### Logistics
 >  |
 > ---|---|
-> **Imports** | `INPUT[inlineList:imports]` |
-> **Exports** | `INPUT[inlineList:exports]` |
+> **Imports:** | `INPUT[inlineList:imports]` |
+> **Exports:** | `INPUT[inlineList:exports]` |
 
 # **`=this.file.name`**
 > [!info|bg-c-purple]- Overview
