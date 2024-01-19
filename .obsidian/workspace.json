@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "1. DM Screen/Configuration.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -207,8 +207,9 @@
   },
   "active": "283b176cf3bea212",
   "lastOpenFiles": [
-    "1. DM Screen/Lookup Tables/Currency.md",
+    "3. The Party/Parties/Curse of Strahd.md",
     "1. DM Screen/Configuration.md",
+    "1. DM Screen/Lookup Tables/Currency.md",
     "1. DM Screen/1. DM Screen.md",
     "4. World Almanac/Shops/Blinksy Toys.md",
     "5. Mechanics/Items/Longbow.md",
@@ -238,7 +239,6 @@
     "5. Mechanics/Tables/Order Of The Emerald Claw Npcs Emerald Claw Npcs.md",
     "5. Mechanics/Tables/Lords Of Dust Npcs.md",
     "5. Mechanics/Tables/Lord Of Blades Npcs.md",
-    "5. Mechanics/Tables/Goblinoid Npcs.md",
     "z_Scripts/Dataview/poi_and_settlements.js",
     "z_Extra/ttrpg-convert/templates/vehicle.txt",
     "z_Extra/ttrpg-convert/templates/subclass.txt",
