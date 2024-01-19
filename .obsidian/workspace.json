@@ -23,9 +23,11 @@
             "id": "283b176cf3bea212",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "4. World Almanac/Places of Interest/Places of Interest.md"
+                "file": "4. World Almanac/Places of Interest/Burgomaster's Mansion.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -88,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/Places of Interest/Places of Interest.md",
+                "file": "4. World Almanac/Places of Interest/Burgomaster's Mansion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/Places of Interest/Places of Interest.md",
+                "file": "4. World Almanac/Places of Interest/Burgomaster's Mansion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/Places of Interest/Places of Interest.md"
+                "file": "4. World Almanac/Places of Interest/Burgomaster's Mansion.md"
               }
             }
           },
@@ -205,8 +207,8 @@
   },
   "active": "283b176cf3bea212",
   "lastOpenFiles": [
-    "4. World Almanac/Places of Interest/Burgomaster's Mansion.md",
     "4. World Almanac/Places of Interest/Places of Interest.md",
+    "4. World Almanac/Places of Interest/Burgomaster's Mansion.md",
     "4. World Almanac/Settlements/Vallaki.md",
     "4. World Almanac/Shops/Blue Water Inn.md",
     "4. World Almanac/Shops/Blinksy Toys.md",
