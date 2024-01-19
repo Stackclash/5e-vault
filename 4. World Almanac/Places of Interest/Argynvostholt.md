@@ -10,9 +10,10 @@ rulers:
 government: 
 army: 
 religions: 
-imports:
+imports: 
 exports: 
 aliases: 
+relgions:
 ---
 > [!infobox]
 > # `=this.file.name`
