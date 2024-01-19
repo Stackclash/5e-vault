@@ -64,6 +64,7 @@ items: []
 > | **Cost Modifier** | `INPUT[number:cost_modifier]` |
 > | **Items** | `INPUT[inlineListSuggester(optionQuery("5. Mechanics/Items")):items]` |
 
+`$= await dv.view("locationBreadcrumbs", {current: dv.current()})`
 # `=this.file.name`
 ## Inventory
 ```dataviewjs

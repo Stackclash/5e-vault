@@ -1,14 +1,11 @@
 ---
 obsidianUIMode: preview
 location: "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
-owners:
-  - "[[4. World Almanac/NPCs/Urwin Martikov.md|Urwin Martikov]]"
-  - "[[4. World Almanac/NPCs/Danika Dorakova.md|Danika Dorakova]]"
-staff:
-  - "[[4. World Almanac/NPCs/Brom Martikov.md|Brom Martikov]]"
-  - "[[4. World Almanac/NPCs/Bray Martikov.md|Bray Martikov]]"
+owners: 
+  - "[[4. World Almanac/NPCs/Gadof Blinsky.md|Gadof Blinsky]]"
+staff: []
 cost_modifier: 1
-items:
+items: []
 ---
 > [!infobox]
 > # `=this.file.name`
