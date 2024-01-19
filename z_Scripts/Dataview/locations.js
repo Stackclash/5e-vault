@@ -4,7 +4,7 @@ const pages = dv.pages('"4. World Almanac"').where(p => {
 }).groupBy(p => p.file.folder.split('/').slice(-1))
 for (let group of pages) {
     dv.header(3, group.key)
-    // dv.table(["Name", "Pronounced"],
-    //     group.rows.map(p => p.name, p.pronounced)
-    // )
+    dv.table(["Name", "Pronounced"],
+        group.rows.map(p => [p.file.link, p.pronounced])
+    )
 }

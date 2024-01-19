@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/Settlements/Vallaki.md",
-                "mode": "source",
+                "file": "z_Templates/World Building/Settlement.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/Settlements/Vallaki.md",
+                "file": "z_Templates/World Building/Settlement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/Settlements/Vallaki.md",
+                "file": "z_Templates/World Building/Settlement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/Settlements/Vallaki.md"
+                "file": "z_Templates/World Building/Settlement.md"
               }
             }
           },
@@ -207,10 +207,11 @@
   },
   "active": "283b176cf3bea212",
   "lastOpenFiles": [
+    "z_Templates/World Building/Shop.md",
+    "4. World Almanac/Settlements/Vallaki.md",
     "4. World Almanac/Places of Interest/Burgomaster's Mansion.md",
     "z_Scripts/Dataview/locations.js",
     "4. World Almanac/Places of Interest/Places of Interest.md",
-    "4. World Almanac/Settlements/Vallaki.md",
     "4. World Almanac/Shops/Blue Water Inn.md",
     "4. World Almanac/Shops/Blinksy Toys.md",
     "4. World Almanac/Shops/Shops.md",

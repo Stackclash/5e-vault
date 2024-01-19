@@ -68,12 +68,6 @@ TBD
 await dv.view("locations", {current: dv.current()})
 ```
 
-## Shops
-**[[Shops|Add New Shop]]**
-> ```dataviewjs
-> await dv.view("z_Scripts/Dataview/Settlement/shops")
-> ```
-
 ## History
 TBD
 

@@ -3,7 +3,8 @@ obsidianUIMode: preview
 owners: 
 staff: 
 cost_modifier: 
-items: []
+items: 
+location:
 ---
 > [!infobox]
 > # `=this.file.name`
