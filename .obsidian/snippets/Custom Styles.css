@@ -10,6 +10,11 @@
 }
 
 /* Fixes Cards displaying correctly */
-.callout[data-callout~=cards] > .callout-title {
+/* .callout[data-callout~=cards] > .callout-title {
     display: none;
+} */
+
+/* Hides File Name in Meta Bind Image Suggester */
+.mb-image-suggest-footer-text {
+    display: none !important;
 }

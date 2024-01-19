@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/Settlements/Vallaki.md",
+                "file": "z_Templates/World Building/Location.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f85041b9d80759f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. World Almanac/Regions/Barovia.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3aa3dd8fbd050fe6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/Settlements/Vallaki.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/Settlements/Vallaki.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/Settlements/Vallaki.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -191,16 +216,18 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "fe5358fd1bdb7e92",
+  "active": "3aa3dd8fbd050fe6",
   "lastOpenFiles": [
-    "4. World Almanac/Settlements/Village of Barovia.md",
-    "4. World Almanac/Settlements/Vallaki.md",
-    "4. World Almanac/Settlements/Settlements.md",
+    "4. World Almanac/Regions/Barovia.md",
     "Untitled.md",
+    "4. World Almanac/Regions/Regions.md",
+    "z_Templates/World Building/Location.md",
+    "4. World Almanac/Settlements/Vallaki.md",
+    "4. World Almanac/Settlements/Village of Barovia.md",
+    "4. World Almanac/Settlements/Settlements.md",
     "4. World Almanac/Settlements/Test.md",
     "4. World Almanac/Worlds/Eldoria.md",
     "z_Templates/World Building/Shop.md",
-    "z_Templates/World Building/Location.md",
     "2. Scratch Notes/To-Do List.md",
     "4. World Almanac/Shops/Blinksy Toys.md",
     "5. Mechanics/Items/Longbow.md",
@@ -218,8 +245,6 @@
     "4. World Almanac/Places of Interest/Places of Interest.md",
     "4. World Almanac/Shops/Blue Water Inn.md",
     "4. World Almanac/Shops/Shops.md",
-    "4. World Almanac/Regions/Barovia.md",
-    "4. World Almanac/Regions/Regions.md",
     "4. World Almanac/Places of Interest/Wachterhaus.md",
     "z_Scripts/DB Folder/locationsByType.js",
     "z_Scripts/DB Folder",

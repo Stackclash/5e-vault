@@ -1,5 +1,5 @@
 <%*
-let selectedType = await tp.system.suggester(['Region', 'Settlement', 'Place of Interest'], ['Regions', 'Settlements', 'Places of Interest'], false, "What image to use?")
+let selectedType = await tp.system.suggester(['Region', 'Settlement', 'Place of Interest'], ['Regions', 'Settlements', 'Places of Interest'], false, "What type of location is this?")
 
 await tp.file.move(`4. World Almanac/${selectedType}/` + tp.file.title)
 if (tp.config.run_mode === 0) {
@@ -10,6 +10,7 @@ if (tp.config.run_mode === 0) {
 ---
 obsidianUIMode: preview
 location: 
+image: z_Assets/PlaceholderImage.png 
 pronounced: 
 population: 
 terrain: 
@@ -23,7 +24,9 @@ aliases:
 ---
 > [!infobox]
 > # `=this.file.name`
-> ![[PlaceholderImage.png|wm-tl]]
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```
 > **Pronounced:**  "`INPUT[text:pronounced]`"
 > ###### Info
 >  |
