@@ -1,10 +1,13 @@
 ---
 obsidianUIMode: preview
 location: "[[Barovia]]"
+image: z_Assets/PlaceholderImage.png
 ---
 > [!infobox]
 > # `=this.file.name`
-> ![[PlaceholderImage.png|wm-tl]]
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```
 > **Pronounced:**  "`=this.Pronounced`"
 > ###### Info
 >  |
