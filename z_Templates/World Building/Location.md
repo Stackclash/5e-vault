@@ -31,6 +31,7 @@ aliases:
 > ---|---|
 > **Pronounced:** | `INPUT[text:pronounced]` |
 > **Location:** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Regions"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Worlds")):location]` |
+> **Resource(s):** | `INPUT[inlineListSuggester(optionQuery("6. Resources"))]`
 > ###### Info
 >  |
 > ---|---|
