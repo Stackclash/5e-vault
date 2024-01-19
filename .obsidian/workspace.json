@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:alignment",
+                "query": "tag:#feat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -72,35 +72,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c029466a8cc9cd4d",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "4. World Almanac/Settlements/Krezk.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "b7a316b990ff2b76",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "4. World Almanac/Settlements/Krezk.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "ff3e6272d6c6b24b",
             "type": "leaf",
             "state": {
@@ -110,81 +81,13 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "332abb4ace240687",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "4. World Almanac/Settlements/Krezk.md"
-              }
-            }
-          },
-          {
-            "id": "023d7a7d526b0d1d",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "92118adc8da6f9c6",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
-            "id": "0a4dd7129e56918f",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              }
-            }
-          },
-          {
-            "id": "3b624cfe5db73259",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
-            }
-          },
-          {
-            "id": "08d7b81d50b12258",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 6
-      },
-      {
-        "id": "107f7e03237b4bad",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "356ababdafcf0eb1",
-            "type": "leaf",
-            "state": {
-              "type": "fantasy-statblocks-creature-pane",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 555.5
+    "width": 335.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,7 +107,7 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "fb8ff88d298cf983",
+  "active": "a88a1818b2c15bdd",
   "lastOpenFiles": [
     "4. World Almanac/Settlements/Village of Barovia.md",
     "4. World Almanac/Settlements/Krezk.md",
