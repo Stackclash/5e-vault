@@ -10,4 +10,4 @@ while (currentPage) {
     }
 }
 
-console.log(breadcrumbs)
+dv.span(breadcrumbs.map(b => `[[${b.file.path}|${b.file.name}]]`).join(' > '))
