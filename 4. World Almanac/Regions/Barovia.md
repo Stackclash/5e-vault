@@ -1,26 +1,18 @@
-<%*
-let selectedType = await tp.system.suggester(['Region', 'Settlement', 'Place of Interest'], ['Regions', 'Settlements', 'Places of Interest'], false, "What type of location is this?")
-
-await tp.file.move(`4. World Almanac/${selectedType}/` + tp.file.title)
-if (tp.config.run_mode === 0) {
-    let title = await tp.system.prompt("What is the name of the location?")
-    await tp.file.rename(title)
-}
--%>
 ---
 obsidianUIMode: preview
-location: 
-image: z_Assets/PlaceholderImage.png 
-pronounced: 
+location: "[[4. World Almanac/Worlds/Eldoria.md|Eldoria]]"
+image: z_Assets/Barovia_Banner.webp
+pronounced: Bar - o - via
 population: 
 terrain: 
-rulers: 
+rulers:
+  - "[[4. World Almanac/NPCs/Strahd Von Zarovich.md|Strahd Von Zarovich]]"
 government: 
 army: 
 religions: 
-imports:
+imports: 
 exports: 
-aliases: 
+aliases: []
 ---
 > [!infobox]
 > # `=this.file.name`
