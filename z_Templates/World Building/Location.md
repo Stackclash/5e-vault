@@ -9,11 +9,13 @@ if (tp.config.run_mode === 0) {
     await tp.file.rename(title)
 }
 
-console.log(dv.pages('"4. World Almanac/Worlds" or "4. World Almanac/Regions"'))
+let parentLocations = dv.pages('"4. World Almanac/Worlds" or "4. World Almanac/Regions" or "4. World Almanac/Settlements"')
+
+let selectedLocation = await tp.system.suggester(parentLocations.map(p => p.file.name), parentLocations.map(p => [p.file.path, p.file.name]), false, "Where is this place located?")
 -%>
 ---
 obsidianUIMode: preview
-location: 
+location: "[[<% selectedLocation.join('|') %>]]"
 image: z_Assets/PlaceholderImage.png 
 pronounced: 
 resources: 
