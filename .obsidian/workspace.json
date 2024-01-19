@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/World Building/Settlement.md",
-                "mode": "preview",
+                "file": "4. World Almanac/Shops/Blinksy Toys.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Templates/World Building/Settlement.md",
+                "file": "4. World Almanac/Shops/Blinksy Toys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Templates/World Building/Settlement.md",
+                "file": "4. World Almanac/Shops/Blinksy Toys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Templates/World Building/Settlement.md"
+                "file": "4. World Almanac/Shops/Blinksy Toys.md"
               }
             }
           },
@@ -207,6 +207,7 @@
   },
   "active": "283b176cf3bea212",
   "lastOpenFiles": [
+    "z_Templates/World Building/Settlement.md",
     "z_Scripts/Dataview/shopInventory.js",
     "z_Templates/World Building/Shop.md",
     "4. World Almanac/Settlements/Vallaki.md",
@@ -242,7 +243,6 @@
     "z_Extra/ttrpg-convert/templates/vehicle.txt",
     "z_Extra/ttrpg-convert/templates/subclass.txt",
     "z_Extra/ttrpg-convert/templates/spell.txt",
-    "z_Extra/ttrpg-convert/templates/reward.txt",
     "z_Assets/Barovia.jpg",
     "5. Mechanics/Bestiary/Undead/token/skeleton.png",
     "4. World Almanac/NPCs/token/zygfrek-belview.png",

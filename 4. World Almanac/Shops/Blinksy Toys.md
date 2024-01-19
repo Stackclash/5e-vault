@@ -3,7 +3,7 @@ obsidianUIMode: preview
 owners: "[[Gadof Blinsky]]"
 staff: 
 cost_modifier: 
-items: 
+items: "[[Longbow]]"
 location: "[[Vallaki]]"
 ---
 > [!infobox]
@@ -17,5 +17,5 @@ location: "[[Vallaki]]"
 
 ## Inventory
 ```dataviewjs
-await dv.view("z_Scripts/Dataview/Shop/inventory")
+await dv.view("shopInventory", {current: dv.current()})
 ```

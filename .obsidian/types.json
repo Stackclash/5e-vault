@@ -22,6 +22,7 @@
     "region_PoI": "multitext",
     "region_PoI:": "multitext",
     "settlement_shop": "multitext",
-    "party_player": "multitext"
+    "party_player": "multitext",
+    "items": "multitext"
   }
 }
