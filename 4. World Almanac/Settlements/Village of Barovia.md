@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 location: "[[4. World Almanac/Regions/Barovia.md|Barovia]]"
-image: z_Assets/Barovia.jpg
+image: z_Assets/PlaceholderImage.png
 pronounced: 
 resources: 
 population: 
@@ -10,9 +10,9 @@ rulers:
 government: 
 army: 
 religions: 
-imports: 
+imports:
 exports: 
-aliases:
+aliases: 
 ---
 > [!infobox]
 > # `=this.file.name`

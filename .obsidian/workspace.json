@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/Settlements/Vallaki.md",
+                "file": "4. World Almanac/Settlements/Village of Barovia.md",
                 "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "a098f11dabda275a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "4. World Almanac/Settlements/Village of Barovia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "4. World Almanac/Settlements/Village of Barovia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "4. World Almanac/Settlements/Village of Barovia.md"
               }
             }
           },
@@ -204,10 +191,10 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "a098f11dabda275a",
+  "active": "fb8ff88d298cf983",
   "lastOpenFiles": [
     "4. World Almanac/Settlements/Vallaki.md",
-    "Untitled.md",
+    "4. World Almanac/Settlements/Village of Barovia.md",
     "3. The Party/Players/Players.md",
     "3. The Party/Players/Test.md",
     "4. World Almanac/Settlements/Village of Barovia.md",
