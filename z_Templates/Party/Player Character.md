@@ -21,12 +21,12 @@ race:
 class:
 hp: 1
 stats:
-  - "10"
-  - "10"
-  - "10"
-  - "10"
-  - "10"
-  - "10"
+  str: 10
+  dex: 10
+  con: 10
+  int: 10
+  wis: 10
+  cha: 10
 ac: 10
 modifier:
 alignment: 
@@ -48,21 +48,21 @@ location:
 > ## Info
 > | | |
 > | ---- | ---- |
-> | Level | `INPUT[slider(minValue(1),maxValue(20))]` |
-> | Class | `$=dv.span(dv.pages().where(p => p.file.name === this.class || p.aliases.includes(this.class)).link)` |
-> | Race | `=link(this.race)` |
+> | Level | `INPUT[inlineSelect(option(1),option(2),option(3),option(4),option(5),option(6),option(7),option(8),option(9),option(10),option(11),option(12),option(13),option(14),option(15),option(16),option(17),option(18),option(19),option(20)):level]` |
+> | Class | `INPUT[suggester(optionQuery("5. Mechanics/Classes")):class]` |
+> | Race | `INPUT[suggester(optionQuery("5. Mechanics/Races")):race]` |
 > | HP | `INPUT[number:hp]` |
 > | AC | `INPUT[number:ac]` |
-> | Initiative Mod | `=this.modifier` |
+> | Initiative Mod | `INPUT[number:modifier]` |
 > ## Stats
 > | | | |
 > | ---- | ---- | ---- |
-> | Strength | `=this.stats[0]` | `$=Math.floor((parseInt(dv.current().stats[0])-10)/2)` |
-> | Dexterity | `=this.stats[1]` | `$=Math.floor((parseInt(dv.current().stats[1])-10)/2)` |
-> | Constitution | `=this.stats[2]` | `$=Math.floor((parseInt(dv.current().stats[2])-10)/2)` |
-> | Intelligence | `=this.stats[3]` | `$=Math.floor((parseInt(dv.current().stats[3])-10)/2)` |
-> | Wisdom | `=this.stats[4]` | `$=Math.floor((parseInt(dv.current().stats[4])-10)/2)` |
-> | Charisma | `=this.stats[5]` | `$=Math.floor((parseInt(dv.current().stats[5])-10)/2)` |
+> | Strength | `INPUT[number:stats.str]` | `$=Math.floor((parseInt(dv.current().stats.str)-10)/2)` |
+> | Dexterity | `=this.stats.dex` | `$=Math.floor((parseInt(dv.current().stats.dex)-10)/2)` |
+> | Constitution | `=this.stats.con` | `$=Math.floor((parseInt(dv.current().stats.con)-10)/2)` |
+> | Intelligence | `=this.stats.int` | `$=Math.floor((parseInt(dv.current().stats.int)-10)/2)` |
+> | Wisdom | `=this.stats.wis` | `$=Math.floor((parseInt(dv.current().stats.wis)-10)/2)` |
+> | Charisma | `=this.stats.cha` | `$=Math.floor((parseInt(dv.current().stats.cha)-10)/2)` |
 # DnD Beyond Character Sheet
 ```custom-frames
 frame: 
