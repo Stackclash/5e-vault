@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bafe14c141e9c9d0",
+        "id": "ee0ea00d635aac0c",
         "type": "tabs",
         "children": [
           {
-            "id": "ca611f61a6d09089",
+            "id": "68a0b878b90f5543",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/Settlements/Village of Barovia.md",
+                "file": "4. World Almanac/Regions/Barovia.md",
                 "mode": "preview",
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/Settlements/Village of Barovia.md",
+                "file": "4. World Almanac/Regions/Barovia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/Settlements/Village of Barovia.md",
+                "file": "4. World Almanac/Regions/Barovia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/Settlements/Village of Barovia.md"
+                "file": "4. World Almanac/Regions/Barovia.md"
               }
             }
           },
@@ -174,19 +174,9 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "ca611f61a6d09089",
+  "active": "68a0b878b90f5543",
   "lastOpenFiles": [
-    "4. World Almanac/Shops/Test.md",
-    "4. World Almanac/Settlements/Village of Barovia.md",
-    "4. World Almanac/Settlements/Krezk.md",
-    "4. World Almanac/Settlements/Vallaki.md",
-    "3. The Party/Players/Players.md",
-    "4. World Almanac/Places of Interest/Argynvostholt.md",
-    "4. World Almanac/Regions/Test.md",
-    "4. World Almanac/Shops/Shops.md",
     "4. World Almanac/Shops/Bildrath's Mercantile.md",
-    "4. World Almanac/Regions/Barovia.md",
-    "4. World Almanac/Worlds/Eldoria.md",
     "4. World Almanac/Places of Interest/Werewolf Den.md",
     "4. World Almanac/Places of Interest/Yester Hill.md",
     "4. World Almanac/Places of Interest/The Amber Temple.md",
@@ -195,11 +185,22 @@
     "4. World Almanac/Places of Interest/Ruins of Berez.md",
     "4. World Almanac/Places of Interest/Tsolenka Pass.md",
     "4. World Almanac/Places of Interest/Old Bonegrinder.md",
+    "4. World Almanac/Places of Interest/Argynvostholt.md",
+    "4. World Almanac/Worlds/Worlds.md",
+    "4. World Almanac/Shops/Shops.md",
+    "4. World Almanac/Places of Interest/Castle Ravenloft.md",
+    "4. World Almanac/Shops/Test.md",
+    "4. World Almanac/Settlements/Village of Barovia.md",
+    "4. World Almanac/Settlements/Krezk.md",
+    "4. World Almanac/Settlements/Vallaki.md",
+    "3. The Party/Players/Players.md",
+    "4. World Almanac/Regions/Test.md",
+    "4. World Almanac/Shops/Bildrath's Mercantile.md",
+    "4. World Almanac/Regions/Barovia.md",
+    "4. World Almanac/Worlds/Eldoria.md",
     "4. World Almanac/Places of Interest/Castle Ravenloft.md",
     "4. World Almanac/Places of Interest/Places of Interest.md",
     "3. The Party/Players/Test.md",
-    "4. World Almanac/Settlements/Settlements.md",
-    "3. The Party/Parties/Parties.md",
     "z_Scripts/Dataview/locationBreadcrumbs.js",
     "z_Scripts/Dataview/shopInventory.js",
     "z_Scripts/Dataview/locations.js",
