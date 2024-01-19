@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/World Building/Location.md",
+                "file": "4. World Almanac/Settlements/Test.md",
                 "mode": "preview",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Templates/World Building/Location.md",
+                "file": "4. World Almanac/Settlements/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Templates/World Building/Location.md",
+                "file": "4. World Almanac/Settlements/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Templates/World Building/Location.md"
+                "file": "4. World Almanac/Settlements/Test.md"
               }
             }
           },
@@ -218,11 +218,12 @@
   },
   "active": "3aa3dd8fbd050fe6",
   "lastOpenFiles": [
+    "z_Templates/World Building/Location.md",
+    "4. World Almanac/Settlements/Test.md",
     "z_Scripts/Dataview/locationBreadcrumbs.js",
     "Untitled.md",
     "4. World Almanac/Regions/Barovia.md",
     "4. World Almanac/Regions/Regions.md",
-    "z_Templates/World Building/Location.md",
     "4. World Almanac/Settlements/Vallaki.md",
     "4. World Almanac/Settlements/Village of Barovia.md",
     "4. World Almanac/Settlements/Settlements.md",
@@ -253,7 +254,6 @@
     "z_Scripts/Dataview/poi_and_settlements.js",
     "z_Extra/ttrpg-convert/templates/vehicle.txt",
     "z_Extra/ttrpg-convert/templates/subclass.txt",
-    "z_Extra/ttrpg-convert/templates/spell.txt",
     "z_Assets/Barovia.jpg",
     "5. Mechanics/Bestiary/Undead/token/skeleton.png",
     "4. World Almanac/NPCs/token/zygfrek-belview.png",

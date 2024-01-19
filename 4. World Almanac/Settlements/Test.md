@@ -1,12 +1,3 @@
-<%*
-let selectedType = await tp.system.suggester(['Region', 'Settlement', 'Place of Interest'], ['Regions', 'Settlements', 'Places of Interest'], false, "What type of location is this?")
-
-await tp.file.move(`4. World Almanac/${selectedType}/` + tp.file.title)
-if (tp.config.run_mode === 0) {
-    let title = await tp.system.prompt("What is the name of the location?")
-    await tp.file.rename(title)
-}
--%>
 ---
 obsidianUIMode: preview
 location: 
