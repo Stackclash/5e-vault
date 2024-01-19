@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "283b176cf3bea212",
+            "id": "10092a9a21bbaf42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/World Building/NPC.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Templates/World Building/NPC.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Templates/World Building/NPC.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Templates/World Building/NPC.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -205,17 +205,18 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "283b176cf3bea212",
+  "active": "10092a9a21bbaf42",
   "lastOpenFiles": [
+    "4. World Almanac/Worlds/Eldoria.md",
+    "Untitled.md",
+    "z_Templates/World Building/NPC.md",
     "z_Templates/World Building/Location.md",
     "z_Templates/World Building/Settlement.md",
     "z_Templates/World Building/Shop.md",
     "4. World Almanac/Shops/Blue Water Inn.md",
     "4. World Almanac/Shops/Blinksy Toys.md",
-    "z_Templates/World Building/NPC.md",
     "2. Scratch Notes/To-Do List.md",
     "5. Mechanics/Items/Longbow.md",
-    "4. World Almanac/Worlds/Eldoria.md",
     "1. DM Screen/Configuration.md",
     "1. DM Screen/Lookup Tables/Travel.md",
     "4. World Almanac/Worlds/Worlds.md",
@@ -234,7 +235,6 @@
     "4. World Almanac/Regions/Barovia.md",
     "4. World Almanac/Regions/Regions.md",
     "4. World Almanac/Places of Interest/Wachterhaus.md",
-    "4. World Almanac/Places of Interest/Old BoneGrinder.md",
     "z_Scripts/DB Folder/locationsByType.js",
     "z_Scripts/DB Folder",
     "js/locationsByType.js",
