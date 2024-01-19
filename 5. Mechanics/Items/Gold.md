@@ -6,7 +6,7 @@ tags:
 - item/gear/trade-good
 aliases: 
 - "Gold"
-cost: 50 gp
+cost: 5000
 ---
 # Gold
 *Trade Good*  

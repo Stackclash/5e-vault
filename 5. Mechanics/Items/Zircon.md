@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Zircon"
-cost: 50 gp
+cost: 5000
 ---
 # Zircon
 *Treasure*  

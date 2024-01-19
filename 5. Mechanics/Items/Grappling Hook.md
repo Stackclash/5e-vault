@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Grappling Hook"
-cost: 2 gp
+cost: 200
 ---
 # Grappling Hook
 *Adventuring Gear*  

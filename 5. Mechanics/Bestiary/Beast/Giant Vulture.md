@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Giant Vulture"]
 ---
-# [[5. Mechanics/Bestiary/Beast/Giant Vulture.md|Giant Vulture]]
+# [[5. Mechanics\Bestiary\Beast\Giant Vulture.md|Giant Vulture]]
 *Source: Monster Manual p. 329. Available in the SRD and the Basic Rules.*  
 
 A giant vulture has advanced intelligence and a malevolent bent. Unlike its smaller kin, it will attack a wounded creature to hasten its end. Giant vultures have been known to haunt a thirsty, starving creature for days to enjoy its suffering.

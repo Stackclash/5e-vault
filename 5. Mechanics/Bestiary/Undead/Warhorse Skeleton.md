@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Warhorse Skeleton"]
 ---
-# [[5. Mechanics/Bestiary/Undead/Warhorse Skeleton.md|Warhorse Skeleton]]
+# [[5. Mechanics\Bestiary\Undead\Warhorse Skeleton.md|Warhorse Skeleton]]
 *Source: Monster Manual p. 273, Curse of Strahd. Available in the SRD.*  
 
 Skeletons arise when animated by dark magic. They heed the summons of spellcasters who call them from their stony tombs and ancient battlefields, or rise of their own accord in places saturated with death and loss, awakened by stirrings of necromantic energy or the presence of corrupting evil.

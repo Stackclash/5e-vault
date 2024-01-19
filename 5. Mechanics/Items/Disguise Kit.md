@@ -6,7 +6,7 @@ tags:
 - item/gear/tools
 aliases: 
 - "Disguise Kit"
-cost: 25 gp
+cost: 2500
 ---
 # Disguise Kit
 *Tools*  

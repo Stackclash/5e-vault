@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Carved harp of exotic wood with ivory inlay and zircon gems"
-cost: 750 gp
+cost: 75000
 ---
 # Carved harp of exotic wood with ivory inlay and zircon gems
 *Treasure*  

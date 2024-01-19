@@ -6,7 +6,7 @@ tags:
 - item/gear/spellcasting-focus
 aliases: 
 - "Sprig of Mistletoe"
-cost: 1 gp
+cost: 100
 ---
 # Sprig of Mistletoe
 *Spellcasting Focus*  

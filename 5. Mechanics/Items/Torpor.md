@@ -7,7 +7,7 @@ tags:
 - item/property/poison
 aliases: 
 - "Torpor"
-cost: 600 gp
+cost: 60000
 ---
 # Torpor
 *Adventuring Gear, poison*  

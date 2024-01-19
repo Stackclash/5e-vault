@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Small mirror set in a painted wooden frame"
-cost: 25 gp
+cost: 2500
 ---
 # Small mirror set in a painted wooden frame
 *Treasure*  

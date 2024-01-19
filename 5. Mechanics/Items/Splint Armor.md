@@ -6,7 +6,7 @@ tags:
 - item/armor/heavy
 aliases: 
 - "Splint Armor"
-cost: 200 gp
+cost: 20000
 ---
 # Splint Armor
 *Heavy Armor*  

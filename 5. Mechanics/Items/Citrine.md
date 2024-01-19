@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Citrine"
-cost: 50 gp
+cost: 5000
 ---
 # Citrine
 *Treasure*  

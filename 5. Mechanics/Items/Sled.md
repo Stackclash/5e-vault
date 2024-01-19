@@ -6,7 +6,7 @@ tags:
 - item/vehicle
 aliases: 
 - "Sled"
-cost: 20 gp
+cost: 2000
 ---
 # Sled
 *Vehicle (land)*  

@@ -2,11 +2,11 @@
 - [ ] Create script to take world economic field to adjust prices in shop template
 - [x] Create selection dropdowns for alignment and other fields for NPCs (watch [video](https://www.youtube.com/watch?v=iAYS0254a7I))
 - [x] Update import script to correctly point to new NPC location
-- [ ] Finalize Monster ttrpg-convert-cli template to populate information as well as statblock
-	- [ ] Move Acquaintances above statblock
-	- [ ] Fix image being correct for NPCs
-	- [ ] Fix Overview to include multiple lines
-	- [ ] Fix statblock sometimes not showing up
+- [x] Finalize Monster ttrpg-convert-cli template to populate information as well as statblock
+	- [x] Move Acquaintances above statblock
+	- [x] Fix image being correct for NPCs
+	- [x] Fix Overview to include multiple lines
+	- [x] Fix statblock sometimes not showing up
 - [ ] Create flowchart of campaign (watch [video]())
 - [ ] Optimize syncing vault to github (watch [video](https://www.youtube.com/watch?v=gOdh8wdbxm4))
 	- [ ] Maybe exclude config json from github

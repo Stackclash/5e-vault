@@ -7,7 +7,7 @@ tags:
 - item/property/poison
 aliases: 
 - "Assassin's Blood"
-cost: 150 gp
+cost: 15000
 ---
 # Assassin's Blood
 *Adventuring Gear, poison*  

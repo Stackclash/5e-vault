@@ -6,7 +6,7 @@ tags:
 - item/gear/artisans-tools
 aliases: 
 - "Glassblower's Tools"
-cost: 30 gp
+cost: 3000
 ---
 # Glassblower's Tools
 *Artisan's Tools*  

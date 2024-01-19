@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Larva (DMG)"]
 ---
-# [[5. Mechanics/Bestiary/Fiend/Larva (DMG).md|Larva (DMG)]]
+# [[5. Mechanics\Bestiary\Fiend\Larva (DMG).md|Larva (DMG)]]
 *Source: Dungeon Master's Guide p. 63*  
 
 ```statblock
@@ -40,6 +40,6 @@ aliases: ["Larva (DMG)"]
 - "BGDIA"
 - "SatO"
 - "ToFW"
-"image": "5. Mechanics/Bestiary/Fiend/token/larva.png"
+"image": "compendium/bestiary/fiend/token/larva.png"
 ```
 ^statblock

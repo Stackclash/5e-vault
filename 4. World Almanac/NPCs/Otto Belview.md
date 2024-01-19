@@ -29,7 +29,7 @@ aliases: ["Otto Belview"]
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  "`INPUT[text:pronounced]`"
-> ![[compendium/bestiary/npc/img/otto-belview.webp|cover hm-sm]] 
+> ![[4. World Almanac/NPCs/img/otto-belview.webp|cover hm-sm]] 
 > ###### Bio
 >  |
 >  ---|---|
@@ -48,9 +48,9 @@ aliases: ["Otto Belview"]
 > **Current Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 # **`=this.file.name`**
-> [!info|bg-c-purple]- Overview
 TBD
 
+## Traits/Goals
 > [!column] Traits
 >> [!metadata|text-Center bg-c-gray] Personality
 >> `INPUT[text:personality]`
@@ -72,6 +72,15 @@ TBD
 
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
+
+## Acquaintances
+> [!column|dataview] Acquaintances
+>> [!metadata|text-Center bg-c-green]- Friends & Family
+>> TBD
+>
+>> [!metadata|text-Center bg-c-red]- Rivals
+>> TBD
+>
 
 ## Stats
 ```statblock
@@ -121,18 +130,9 @@ TBD
   "name": "Dagger"
 "source":
 - "CoS"
-"image": "compendium/bestiary/npc/token/otto-belview.png"
+"image": "4. World Almanac/NPCs/token/otto-belview.png"
 ```
 ^statblock
-
-## Acquaintances
-> [!column|dataview] Acquaintances
->> [!metadata|text-Center bg-c-green]- Friends & Family
->> TBD
->
->> [!metadata|text-Center bg-c-red]- Rivals
->> TBD
->
 
 ## History
 TBD

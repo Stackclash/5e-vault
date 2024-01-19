@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Rhodochrosite"
-cost: 10 gp
+cost: 1000
 ---
 # Rhodochrosite
 *Treasure*  

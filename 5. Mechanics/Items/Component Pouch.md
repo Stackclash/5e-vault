@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Component Pouch"
-cost: 25 gp
+cost: 2500
 ---
 # Component Pouch
 *Adventuring Gear*  

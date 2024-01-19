@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Bedroll"
-cost: 1 gp
+cost: 100
 ---
 # Bedroll
 *Adventuring Gear*  

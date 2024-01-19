@@ -13,7 +13,7 @@ tags:
 statblock: inline
 aliases: ["Wight"]
 ---
-# [[5. Mechanics/Bestiary/Undead/Wight.md|Wight]]
+# [[5. Mechanics\Bestiary\Undead\Wight.md|Wight]]
 *Source: Monster Manual p. 300, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 The word "wight" meant "person" in days of yore, but the name now refers to evil undead who were once mortals driven by dark desire and great vanity. When death stills such a creature's heart and snuffs its living breath, its spirit cries out to the demon lord Orcus or some vile god of the underworld for a reprieve: undeath in return for eternal war on the living. If a dark power answers the call, the spirit is granted undeath so that it can pursue its own malevolent agenda.
@@ -112,7 +112,7 @@ A wight doesn't require air, food, drink, or sleep.
 - "SatO"
 - "BMT"
 - "DoDk"
-"image": "5. Mechanics/Bestiary/Undead/token/wight.png"
+"image": "compendium/bestiary/undead/token/wight.png"
 ```
 ^statblock
 

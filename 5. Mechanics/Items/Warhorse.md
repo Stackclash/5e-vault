@@ -6,7 +6,7 @@ tags:
 - item/gear/mount
 aliases: 
 - "Warhorse"
-cost: 400 gp
+cost: 40000
 ---
 # Warhorse
 *Mount*  

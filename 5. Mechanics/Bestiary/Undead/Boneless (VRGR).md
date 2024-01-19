@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Boneless"]
 ---
-# [[5. Mechanics/Bestiary/Undead/Boneless (VRGR).md|Boneless]]
+# [[5. Mechanics\Bestiary\Undead\Boneless (VRGR).md|Boneless]]
 *Source: Van Richten's Guide to Ravenloft p. 228*  
 
 Not all animate corpses shamble from their graves. Boneless are undead remains devoid of skeletons. Most rise from the bodies of those who've suffered brutal ends, such as deliberate skinning or crushing. Deathless malice infuses what remains, their husks flopping and slithering in pursuit of vengeance or at the whims of sinister masters. Slipping through cracks and under doors, these stealthy undead seek to adorn living frames once more, wrapping themselves around their victims and wringing them to death in their full-body grip.
@@ -70,6 +70,6 @@ Whether through accident or depraved genius, some villains use one corpse to cre
   "name": "Crushing Embrace"
 "source":
 - "VRGR"
-"image": "5. Mechanics/Bestiary/Undead/token/boneless.png"
+"image": "compendium/bestiary/undead/token/boneless.png"
 ```
 ^statblock

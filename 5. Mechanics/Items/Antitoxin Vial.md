@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Antitoxin (vial)"
-cost: 50 gp
+cost: 5000
 ---
 # Antitoxin (vial)
 *Adventuring Gear*  

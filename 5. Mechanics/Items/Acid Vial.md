@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Acid (vial)"
-cost: 25 gp
+cost: 2500
 ---
 # Acid (vial)
 *Adventuring Gear*  

@@ -6,7 +6,7 @@ tags:
 - item/weapon/explosive
 aliases: 
 - "Bomb"
-cost: 150 gp
+cost: 15000
 ---
 # Bomb
 *Explosive*  

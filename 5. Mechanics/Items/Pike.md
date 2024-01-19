@@ -10,7 +10,7 @@ tags:
 - item/weapon/martial/melee
 aliases: 
 - "Pike"
-cost: 5 gp
+cost: 500
 ---
 # Pike
 *Melee Weapon*  

@@ -7,7 +7,7 @@ tags:
 - item/weapon/simple/melee
 aliases: 
 - "Club"
-cost: 1 sp
+cost: 10
 ---
 # Club
 *Melee Weapon*  

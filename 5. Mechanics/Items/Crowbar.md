@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Crowbar"
-cost: 2 gp
+cost: 200
 ---
 # Crowbar
 *Adventuring Gear*  

@@ -8,7 +8,7 @@ tags:
 - item/weapon/simple/ranged
 aliases: 
 - "Shortbow"
-cost: 25 gp
+cost: 2500
 ---
 # Shortbow
 *Ranged Weapon*  

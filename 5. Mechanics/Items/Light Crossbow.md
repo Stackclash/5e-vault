@@ -9,7 +9,7 @@ tags:
 - item/weapon/simple/ranged
 aliases: 
 - "Light Crossbow"
-cost: 25 gp
+cost: 2500
 ---
 # Light Crossbow
 *Ranged Weapon*  

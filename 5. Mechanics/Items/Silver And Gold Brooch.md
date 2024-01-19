@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Silver and gold brooch"
-cost: 750 gp
+cost: 75000
 ---
 # Silver and gold brooch
 *Treasure*  

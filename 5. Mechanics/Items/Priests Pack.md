@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Priest's Pack"
-cost: 19 gp
+cost: 1900
 ---
 # Priest's Pack
 *Adventuring Gear*  

@@ -6,7 +6,7 @@ tags:
 - item/gear/instrument
 aliases: 
 - "Lute"
-cost: 35 gp
+cost: 3500
 ---
 # Lute
 *Instrument*  

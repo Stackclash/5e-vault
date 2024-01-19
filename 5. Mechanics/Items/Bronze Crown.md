@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Bronze crown"
-cost: 250 gp
+cost: 25000
 ---
 # Bronze crown
 *Treasure*  

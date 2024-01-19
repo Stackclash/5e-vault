@@ -6,7 +6,7 @@ tags:
 - item/gear/trade-good
 aliases: 
 - "Silver"
-cost: 5 gp
+cost: 500
 ---
 # Silver
 *Trade Good*  

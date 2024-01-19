@@ -18,7 +18,7 @@ tags:
 statblock: inline
 aliases: ["Stirge"]
 ---
-# [[5. Mechanics/Bestiary/Beast/Stirge.md|Stirge]]
+# [[5. Mechanics\Bestiary\Beast\Stirge.md|Stirge]]
 *Source: Monster Manual p. 284. Available in the SRD and the Basic Rules.*  
 
 This horrid flying creature looks like a cross between a large bat and an oversized mosquito. Its legs end in sharp pincers, and its long, needle-like proboscis slashes the air as it seeks its next meal.
@@ -77,7 +77,7 @@ A stirge attacks by landing on a victim, finding a vulnerable spot, and plunging
 - "KftGV"
 - "HftT"
 - "PaBTSO"
-"image": "5. Mechanics/Bestiary/Beast/token/stirge.png"
+"image": "compendium/bestiary/beast/token/stirge.png"
 ```
 ^statblock
 

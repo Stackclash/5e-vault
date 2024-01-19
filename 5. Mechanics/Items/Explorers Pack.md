@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Explorer's Pack"
-cost: 10 gp
+cost: 1000
 ---
 # Explorer's Pack
 *Adventuring Gear*  

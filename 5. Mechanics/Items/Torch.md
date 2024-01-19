@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Torch"
-cost: 1 cp
+cost: 1
 ---
 # Torch
 *Adventuring Gear*  

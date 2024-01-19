@@ -6,7 +6,7 @@ tags:
 - item/gear/instrument
 aliases: 
 - "Horn"
-cost: 3 gp
+cost: 300
 ---
 # Horn
 *Instrument*  

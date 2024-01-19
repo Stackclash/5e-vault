@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Cambion"]
 ---
-# [[5. Mechanics/Bestiary/Fiend/Cambion.md|Cambion]]
+# [[5. Mechanics\Bestiary\Fiend\Cambion.md|Cambion]]
 *Source: Monster Manual p. 36*  
 
 A cambion is the offspring of a fiend (usually a succubus or incubus) and a humanoid (usually a human). Cambions inherit aspects of both parents, but their horns, leathery wings, and sinewy tails are hallmarks of their otherworldly parentage.
@@ -99,7 +99,7 @@ The demon lord Graz'zt is fond of procreating with humanoids who have made pacts
 - "CM"
 - "KftGV"
 - "ToFW"
-"image": "5. Mechanics/Bestiary/Fiend/token/cambion.png"
+"image": "compendium/bestiary/fiend/token/cambion.png"
 ```
 ^statblock
 

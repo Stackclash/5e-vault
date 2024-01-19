@@ -10,7 +10,7 @@ tags:
 - item/weapon/martial/ranged
 aliases: 
 - "Longbow"
-cost: 50 gp
+cost: 5000
 ---
 # Longbow
 *Ranged Weapon*  

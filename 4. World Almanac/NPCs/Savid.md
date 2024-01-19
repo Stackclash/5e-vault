@@ -47,9 +47,9 @@ aliases: ["Savid"]
 > **Current Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 # **`=this.file.name`**
-> [!info|bg-c-purple]- Overview
 TBD
 
+## Traits/Goals
 > [!column] Traits
 >> [!metadata|text-Center bg-c-gray] Personality
 >> `INPUT[text:personality]`
@@ -71,6 +71,15 @@ TBD
 
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
+
+## Acquaintances
+> [!column|dataview] Acquaintances
+>> [!metadata|text-Center bg-c-green]- Friends & Family
+>> TBD
+>
+>> [!metadata|text-Center bg-c-red]- Rivals
+>> TBD
+>
 
 ## Stats
 ```statblock
@@ -99,8 +108,8 @@ TBD
 "languages": "any one language (usually Common)"
 "cr": "1/2"
 "traits":
-- "desc": "Savid has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
-    \ checks that rely on hearing or sight."
+- "desc": "Savid has advantage on Wisdom (Perception) checks that rely on hearing\
+    \ or sight."
   "name": "Keen Hearing and Sight"
 "actions":
 - "desc": "Savid makes two melee attacks or two ranged attacks."
@@ -113,18 +122,9 @@ TBD
   "name": "Longbow"
 "source":
 - "CoS"
-"image": "compendium/bestiary/npc/token/savid.png"
+"image": "4. World Almanac/NPCs/token/savid.png"
 ```
 ^statblock
-
-## Acquaintances
-> [!column|dataview] Acquaintances
->> [!metadata|text-Center bg-c-green]- Friends & Family
->> TBD
->
->> [!metadata|text-Center bg-c-red]- Rivals
->> TBD
->
 
 ## History
 TBD

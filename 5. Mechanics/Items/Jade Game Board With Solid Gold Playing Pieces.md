@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Jade game board with solid gold playing pieces"
-cost: 7,500 gp
+cost: 750000
 ---
 # Jade game board with solid gold playing pieces
 *Treasure*  

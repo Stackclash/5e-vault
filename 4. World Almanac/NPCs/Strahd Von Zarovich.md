@@ -29,7 +29,7 @@ aliases: ["Strahd von Zarovich"]
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  "`INPUT[text:pronounced]`"
-> ![[compendium/bestiary/npc/img/153-636988936829621698.webp|cover hm-sm]] 
+> ![[4. World Almanac/NPCs/img/153-636988936829621698.webp|cover hm-sm]] 
 > ###### Bio
 >  |
 >  ---|---|
@@ -48,7 +48,6 @@ aliases: ["Strahd von Zarovich"]
 > **Current Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 # **`=this.file.name`**
-> [!info|bg-c-purple]- Overview
 With his mind sharp and his heart dark, Strahd von Zarovich is a formidable foe. Courage and lives beyond measure have been lost to him. Reread chapter 1, "Into the Mists," to understand his personality and goals.
 
 Although Strahd can be encountered almost anywhere in his domain, the vampire is always encountered in the place indicated by the card reading in chapter 1, unless he has been forced into his tomb in the catacombs of Castle Ravenloft.
@@ -61,7 +60,7 @@ When you run an encounter with Strahd, keep the following facts in mind:
 
 - Strahd attacks at the most advantageous moment and from the most advantageous position.  
 - Strahd knows when he's in over his head. If he begins taking more damage than he can regenerate, he moves beyond the reach of melee combatants and spellcasters, or he flies away (using summoned wolves or swarms of bats or rats to guard his retreat).  
-- Strahd observes the characters to see who among them are most easily swayed, then tries to charm characters who have low Wisdom scores and use them as thralls. At the very least, he can order a [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] character to guard him against other members of the adventuring party.  
+- Strahd observes the characters to see who among them are most easily swayed, then tries to charm characters who have low Wisdom scores and use them as thralls. At the very least, he can order a charmed character to guard him against other members of the adventuring party.  
 
 ## The Vampire's Minions
 
@@ -69,15 +68,15 @@ Whenever Strahd appears in a location other than his tomb or the place indicated
 
 ## Strahd's Minions
 
-| dice: d20 | Creatures |
-|-----------|-----------|
-| 1–3 | `dice: 1d4 + 2\|avg` (`1d4 + 2`) [[5. Mechanics/Bestiary/Beast/Dire Wolf.md\|dire wolves]] |
-| 4–6 | `dice: 1d6 + 3\|avg` (`1d6 + 3`) [[5. Mechanics/Bestiary/Undead/Ghoul.md\|ghouls]] |
-| 7–9 | `dice: 1d4 + 2\|avg` (`1d4 + 2`) [[5. Mechanics/Bestiary/Undead/Strahd Zombie (COS).md\|Strahd zombies]] (in this appendix) |
-| 10–12 | `dice: 2d4\|avg` (`2d4`) [[5. Mechanics/Bestiary/Beast/Swarm Of Bats.md\|swarms of bats]] |
-| 13–15 | `dice: 1d4 + 1\|avg` (`1d4 + 1`) [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md\|vampire spawn]] |
-| 16–18 | `dice: 3d6\|avg` (`3d6`) [[5. Mechanics/Bestiary/Beast/Wolf.md\|wolves]] |
-| 19–20 | None |
+| dice: d20 | Creatures |  |
+| ---- | ---- | ---- |
+| 1–3 | `dice: 1d4 + 2\|avg` (`1d4 + 2`) [[5. Mechanics/Bestiary/Beast/Dire Wolf.md | dire wolves]] |
+| 4–6 | `dice: 1d6 + 3\|avg` (`1d6 + 3`) [[5. Mechanics/Bestiary/Undead/Ghoul.md | ghouls]] |
+| 7–9 | `dice: 1d4 + 2\|avg` (`1d4 + 2`) [[5. Mechanics/Bestiary/Undead/Strahd Zombie (COS).md | Strahd zombies]] (in this appendix) |
+| 10–12 | `dice: 2d4\|avg` (`2d4`) [[5. Mechanics/Bestiary/Beast/Swarm Of Bats.md | swarms of bats]] |
+| 13–15 | `dice: 1d4 + 1\|avg` (`1d4 + 1`) [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md | vampire spawn]] |
+| 16–18 | `dice: 3d6\|avg` (`3d6`) [[5. Mechanics/Bestiary/Beast/Wolf.md | wolves]] |
+| 19–20 | None |  |
 ^creatures
 
 If the characters are in a residence, Strahd's creatures break through doors and windows to reach them, or crawl up through the earth, or swoop down the chimney. The vampire spawn (all that's left of a party of adventurers that Strahd defeated long ago) can't enter the characters' location unless invited.
@@ -90,8 +89,9 @@ Any damage that Strahd takes is transferred to the Heart of Sorrow (see chapter 
 
 The effect of the protection afforded by the Heart of Sorrow can be chilling to behold, as damage to Strahd is quickly undone. For example, a critical hit might dislocate Strahd's jaw, but only for a moment; then the vampire's jaw quickly resets itself.
 
-The ability of the Heart of Sorrow to absorb damage is suppressed if it or Strahd is fully within an [[5. Mechanics/Spells/Antimagic Field.md\|antimagic field]].
+The ability of the Heart of Sorrow to absorb damage is suppressed if it or Strahd is fully within an antimagic field.
 
+## Traits/Goals
 > [!column] Traits
 >> [!metadata|text-Center bg-c-gray] Personality
 >> `INPUT[text:personality]`
@@ -113,6 +113,15 @@ The ability of the Heart of Sorrow to absorb damage is suppressed if it or Strah
 
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
+
+## Acquaintances
+> [!column|dataview] Acquaintances
+>> [!metadata|text-Center bg-c-green]- Friends & Family
+>> TBD
+>
+>> [!metadata|text-Center bg-c-red]- Rivals
+>> TBD
+>
 
 ## Stats
 ```statblock
@@ -148,17 +157,12 @@ The ability of the Heart of Sorrow to absorb damage is suppressed if it or Strah
 "traits":
 - "desc": "Strahd is a 9th-level spellcaster. His spellcasting ability is Intelligence\
     \ (spell save DC 18, dice: d20+10 (+10 to hit) with spell attacks). He has the\
-    \ following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Mage Hand.md\|mage hand]],\
-    \ [[5. Mechanics/Spells/Prestidigitation.md\|prestidigitation]], [[5. Mechanics/Spells/Ray Of Frost.md\|ray of frost]]\n\
-    \n1st level (4 slots): [[5. Mechanics/Spells/Comprehend Languages.md\|comprehend languages]],\
-    \ [[5. Mechanics/Spells/Fog Cloud.md\|fog cloud]], [[5. Mechanics/Spells/Sleep.md\|sleep]]\n\
-    \n2nd level (3 slots): [[5. Mechanics/Spells/Detect Thoughts.md\|detect thoughts]],\
-    \ [[5. Mechanics/Spells/Gust Of Wind.md\|gust of wind]], [[5. Mechanics/Spells/Mirror Image.md\|mirror image]]\n\
-    \n3rd level (3 slots): [[5. Mechanics/Spells/Animate Dead.md\|animate dead]],\
-    \ [[5. Mechanics/Spells/Fireball.md\|fireball]], [[5. Mechanics/Spells/Nondetection.md\|nondetection]]\n\
-    \n4th level (3 slots): [[5. Mechanics/Spells/Blight.md\|blight]], [[5. Mechanics/Spells/Greater Invisibility.md\|greater invisibility]],\
-    \ [[5. Mechanics/Spells/Polymorph.md\|polymorph]]\n\n5th level (1 slots): [animate\
-    \ objects](compendium/spells/animate-objects.md), [[5. Mechanics/Spells/Scrying.md\|scrying]]"
+    \ following wizard spells prepared:\n\nCantrips (at will): mage hand, prestidigitation,\
+    \ ray of frost\n\n1st level (4 slots): comprehend languages, fog cloud, sleep\n\
+    \n2nd level (3 slots): detect thoughts, gust of wind, mirror image\n\n3rd\
+    \ level (3 slots): animate dead, fireball, nondetection\n\n4th level (3 slots):\
+    \ blight, greater invisibility, polymorph\n\n5th level (1 slots): animate\
+    \ objects, scrying"
   "name": "spells"
 - "desc": "If Strahd isn't in running water or sunlight, he can use his action to\
     \ polymorph into a Tiny bat, a Medium wolf, or a Medium cloud of mist, or back\
@@ -177,13 +181,13 @@ The ability of the Heart of Sorrow to absorb damage is suppressed if it or Strah
 - "desc": "If Strahd fails a saving throw, he can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
 - "desc": "When Strahd drops to 0 hit points outside his coffin, he transforms into\
-    \ a cloud of mist (as in the Shapechanger trait) instead of falling [[/5. Mechanics/Rules/Conditions.md#unconscious\|unconscious]],\
+    \ a cloud of mist (as in the Shapechanger trait) instead of falling unconscious,\
     \ provided that he isn't in running water or sunlight. If he can't transform,\
     \ he is destroyed.\n\nWhile he has 0 hit points in mist form, he can't revert\
     \ to his vampire form, and he must reach his coffin within 2 hours or be destroyed.\
-    \ Once in his coffin, he reverts to his vampire form. He is then [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]]\
-    \ until he regains at least 1 hit point. After 1 hour in his coffin with 0 hit\
-    \ points, he regains 1 hit point."
+    \ Once in his coffin, he reverts to his vampire form. He is then paralyzed until\
+    \ he regains at least 1 hit point. After 1 hour in his coffin with 0 hit points,\
+    \ he regains 1 hit point."
   "name": "Misty Escape"
 - "desc": "Strahd regains 20 hit points at the start of his turn if he has at least\
     \ 1 hit point and isn't in running water or sunlight. If he takes radiant damage\
@@ -197,11 +201,10 @@ The ability of the Heart of Sorrow to absorb damage is suppressed if it or Strah
     \ without an invitation from one of the occupants.\n\nHarmed by Running Water.\
     \ He takes 20 acid damage if he ends his turn in running water.\n\nStake to the\
     \ Heart. If a piercing weapon made of wood is driven into his heart while he\
-    \ is [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]] in his coffin,\
-    \ he is [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]] until the stake\
-    \ is removed.\n\nSunlight Hypersensitivity. While in sunlight, Strahd takes\
-    \ 20 radiant damage at the start of his turn, and he has disadvantage on attack\
-    \ rolls and ability checks."
+    \ is incapacitated in his coffin, he is paralyzed until the stake is removed.\n\
+    \nSunlight Hypersensitivity. While in sunlight, Strahd takes 20 radiant damage\
+    \ at the start of his turn, and he has disadvantage on attack rolls and ability\
+    \ checks."
   "name": "Vampire Weaknesses"
 "actions":
 - "desc": "Strahd makes two attacks, only one of which can be a bite attack."
@@ -212,31 +215,28 @@ The ability of the Heart of Sorrow to absorb damage is suppressed if it or Strah
     \ (escape DC 18) instead of dealing the slashing damage."
   "name": "Unarmed Strike (Vampire or Wolf Form Only)"
 - "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one willing\
-    \ creature, or a creature that is [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]]\
-    \ by Strahd, [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]], or\
-    \ [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]]. Hit: dice: 1d6\
-    \ + 4|avg (1d6 + 4) piercing damage plus dice: 3d6|avg (3d6) necrotic damage.\
-    \ The target's hit point maximum is reduced by an amount equal to the necrotic\
-    \ damage taken, and Strahd regains hit points equal to that amount. The reduction\
-    \ lasts until the target finishes a long rest. The target dies if its hit point\
-    \ maximum is reduced to 0. A humanoid slain in this way and then buried in the\
-    \ ground rises the following night as a [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md\|vampire spawn]]\
+    \ creature, or a creature that is grappled by Strahd, incapacitated, or restrained.\
+    \ Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing damage plus dice: 3d6|avg\
+    \ (3d6) necrotic damage. The target's hit point maximum is reduced by an amount\
+    \ equal to the necrotic damage taken, and Strahd regains hit points equal to that\
+    \ amount. The reduction lasts until the target finishes a long rest. The target\
+    \ dies if its hit point maximum is reduced to 0. A humanoid slain in this way\
+    \ and then buried in the ground rises the following night as a [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md|vampire spawn]]\
     \ under Strahd's control."
   "name": "Bite"
 - "desc": "Strahd targets one humanoid he can see within 30 feet of him. If the target\
     \ can see Strahd, the target must succeed on a DC 17 Wisdom saving throw against\
-    \ this magic or be [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]]. The [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]]\
-    \ target regards Strahd as a trusted friend to be heeded and protected. The target\
-    \ isn't under Strahd's control, but it takes Strahd's requests and actions in\
-    \ the most favorable way and lets Strahd bite it.\n\nEach time Strahd or his companions\
-    \ do anything harmful to the target, it can repeat the saving throw, ending the\
-    \ effect on itself on a success. Otherwise, the effect lasts 24 hours or until\
-    \ Strahd is destroyed, is on a different plane of existence than the target, or\
-    \ takes a bonus action to end the effect."
+    \ this magic or be charmed. The charmed target regards Strahd as a trusted friend\
+    \ to be heeded and protected. The target isn't under Strahd's control, but it\
+    \ takes Strahd's requests and actions in the most favorable way and lets Strahd\
+    \ bite it.\n\nEach time Strahd or his companions do anything harmful to the target,\
+    \ it can repeat the saving throw, ending the effect on itself on a success. Otherwise,\
+    \ the effect lasts 24 hours or until Strahd is destroyed, is on a different plane\
+    \ of existence than the target, or takes a bonus action to end the effect."
   "name": "Charm"
-- "desc": "Strahd magically calls dice: 2d4|avg (2d4) [[5. Mechanics/Bestiary/Beast/Swarm Of Bats.md\|swarms of bats]]\
-    \ or [[5. Mechanics/Bestiary/Beast/Swarm Of Rats.md\|swarms of rats]], provided that\
-    \ the sun isn't up. While outdoors, Strahd can call dice: 3d6|avg (3d6) [[5. Mechanics/Bestiary/Beast/Wolf.md\|wolves]]\
+- "desc": "Strahd magically calls dice: 2d4|avg (2d4) [[5. Mechanics/Bestiary/Beast/Swarm Of Bats.md|swarms of bats]]\
+    \ or [[5. Mechanics/Bestiary/Beast/Swarm Of Rats.md|swarms of rats]], provided that\
+    \ the sun isn't up. While outdoors, Strahd can call dice: 3d6|avg (3d6) [[5. Mechanics/Bestiary/Beast/Wolf.md|wolves]]\
     \ instead. The called creatures arrive in dice: 1d4|avg (1d4) rounds, acting\
     \ as allies of Strahd and obeying his spoken commands. The beasts remain for 1\
     \ hour, until Strahd dies, or until he dismisses them as a bonus action."
@@ -250,18 +250,9 @@ The ability of the Heart of Sorrow to absorb damage is suppressed if it or Strah
   "name": "Bite (Costs 2 Actions)"
 "source":
 - "CoS"
-"image": "compendium/bestiary/npc/token/strahd-von-zarovich.png"
+"image": "4. World Almanac/NPCs/token/strahd-von-zarovich.png"
 ```
 ^statblock
-
-## Acquaintances
-> [!column|dataview] Acquaintances
->> [!metadata|text-Center bg-c-green]- Friends & Family
->> TBD
->
->> [!metadata|text-Center bg-c-red]- Rivals
->> TBD
->
 
 ## History
 TBD

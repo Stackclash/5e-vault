@@ -7,7 +7,7 @@ tags:
 - item/weapon/simple/ranged
 aliases: 
 - "Sling"
-cost: 1 sp
+cost: 10
 ---
 # Sling
 *Ranged Weapon*  

@@ -13,7 +13,7 @@ tags:
 statblock: inline
 aliases: ["Goat"]
 ---
-# [[5. Mechanics/Bestiary/Beast/Goat.md|Goat]]
+# [[5. Mechanics\Bestiary\Beast\Goat.md|Goat]]
 *Source: Monster Manual p. 330, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -61,7 +61,7 @@ aliases: ["Goat"]
 - "IDRotF"
 - "WBtW"
 - "PaBTSO"
-"image": "5. Mechanics/Bestiary/Beast/token/goat.png"
+"image": "compendium/bestiary/beast/token/goat.png"
 ```
 ^statblock
 

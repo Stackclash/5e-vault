@@ -7,7 +7,7 @@ tags:
 - item/property/versatile
 aliases: 
 - "Staff"
-cost: 5 gp
+cost: 500
 ---
 # Staff
 *Spellcasting Focus*  

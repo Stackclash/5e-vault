@@ -7,7 +7,7 @@ tags:
 - item/property/poison
 aliases: 
 - "Wyvern Poison"
-cost: 1,200 gp
+cost: 120000
 ---
 # Wyvern Poison
 *Adventuring Gear, poison*  

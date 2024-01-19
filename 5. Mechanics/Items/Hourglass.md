@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Hourglass"
-cost: 25 gp
+cost: 2500
 ---
 # Hourglass
 *Adventuring Gear*  

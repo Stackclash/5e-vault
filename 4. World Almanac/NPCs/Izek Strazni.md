@@ -29,7 +29,7 @@ aliases: ["Izek Strazni"]
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  "`INPUT[text:pronounced]`"
-> ![[compendium/bestiary/npc/img/izek-strazni.webp|cover hm-sm]] 
+> ![[4. World Almanac/NPCs/img/izek-strazni.webp|cover hm-sm]] 
 > ###### Bio
 >  |
 >  ---|---|
@@ -48,7 +48,6 @@ aliases: ["Izek Strazni"]
 > **Current Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 # **`=this.file.name`**
-> [!info|bg-c-purple]- Overview
 Izek and his sister were born in Vallaki. One morning, their father and their uncle took them fishing on Lake Zarovich. On the way back to town, a dire wolf attacked Izek and bit off his right arm. His father carried Izek back to town while his uncle distracted the beast. His sister ran and hid in the woods and was never seen again.
 
 Unlike his sister, Izek was born without a soul. As time wore on, he forgot his lost sister and learned to cope with his disability.
@@ -85,6 +84,7 @@ Izek has dreams of Ireena. If he spots her, he tries to take her by force to the
 
 "I would do anything, kill anything, to find my sister."
 
+## Traits/Goals
 > [!column] Traits
 >> [!metadata|text-Center bg-c-gray] Personality
 >> `INPUT[text:personality]`
@@ -106,6 +106,15 @@ Izek has dreams of Ireena. If he spots her, he tries to take her by force to the
 
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
+
+## Acquaintances
+> [!column|dataview] Acquaintances
+>> [!metadata|text-Center bg-c-green]- Friends & Family
+>> TBD
+>
+>> [!metadata|text-Center bg-c-red]- Rivals
+>> TBD
+>
 
 ## Stats
 ```statblock
@@ -148,18 +157,9 @@ Izek has dreams of Ireena. If he spots her, he tries to take her by force to the
   "name": "Hurl Flame"
 "source":
 - "CoS"
-"image": "compendium/bestiary/npc/token/izek-strazni.png"
+"image": "4. World Almanac/NPCs/token/izek-strazni.png"
 ```
 ^statblock
-
-## Acquaintances
-> [!column|dataview] Acquaintances
->> [!metadata|text-Center bg-c-green]- Friends & Family
->> TBD
->
->> [!metadata|text-Center bg-c-red]- Rivals
->> TBD
->
 
 ## History
 TBD

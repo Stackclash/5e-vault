@@ -12,7 +12,7 @@ tags:
 statblock: inline
 aliases: ["Wolf"]
 ---
-# [[5. Mechanics/Bestiary/Beast/Wolf.md|Wolf]]
+# [[5. Mechanics\Bestiary\Beast\Wolf.md|Wolf]]
 *Source: Monster Manual p. 341, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -68,7 +68,7 @@ aliases: ["Wolf"]
 - "LK"
 - "BMT"
 - "GHLoE"
-"image": "5. Mechanics/Bestiary/Beast/token/wolf.png"
+"image": "compendium/bestiary/beast/token/wolf.png"
 ```
 ^statblock
 

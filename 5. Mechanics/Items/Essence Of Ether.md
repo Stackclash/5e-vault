@@ -7,7 +7,7 @@ tags:
 - item/property/poison
 aliases: 
 - "Essence of Ether"
-cost: 300 gp
+cost: 30000
 ---
 # Essence of Ether
 *Adventuring Gear, poison*  

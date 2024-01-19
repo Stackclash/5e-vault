@@ -29,7 +29,7 @@ aliases: ["Strahd's Animated Armor"]
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  "`INPUT[text:pronounced]`"
-> ![[compendium/bestiary/npc/img/strahds-animated-armor.webp|cover hm-sm]] 
+> ![[4. World Almanac/NPCs/img/strahds-animated-armor.webp|cover hm-sm]] 
 > ###### Bio
 >  |
 >  ---|---|
@@ -48,7 +48,6 @@ aliases: ["Strahd's Animated Armor"]
 > **Current Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 # **`=this.file.name`**
-> [!info|bg-c-purple]- Overview
 The armor that Strahd wore into battle when he was alive lives on today as a headless, animated suit of plate armor. The armor is painted burgundy and adorned with golden angelic motifs.
 
 ## Thing of Evil
@@ -57,6 +56,7 @@ Strahd imbued his automaton with a sliver of his being, bequeathing unto his arm
 
 The armor understands Common but obeys only the commands of its master.
 
+## Traits/Goals
 > [!column] Traits
 >> [!metadata|text-Center bg-c-gray] Personality
 >> `INPUT[text:personality]`
@@ -79,6 +79,15 @@ The armor understands Common but obeys only the commands of its master.
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
 
+## Acquaintances
+> [!column|dataview] Acquaintances
+>> [!metadata|text-Center bg-c-green]- Friends & Family
+>> TBD
+>
+>> [!metadata|text-Center bg-c-red]- Rivals
+>> TBD
+>
+
 ## Stats
 ```statblock
 "name": "Strahd's Animated Armor (CoS)"
@@ -100,10 +109,8 @@ The armor understands Common but obeys only the commands of its master.
   "Perception": !!int "3"
 "damage_resistances": "cold, fire"
 "damage_immunities": "lightning, poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]], [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#deafened\|deafened]], [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#petrified\|petrified]], [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]"
+"condition_immunities": "blinded, charmed, deafened, exhaustion, frightened, paralyzed,\
+  \ petrified, poisoned"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 13"
 "languages": "understands Common but can't speak"
 "cr": "6"
@@ -113,12 +120,9 @@ The armor understands Common but obeys only the commands of its master.
     \ An animated object reduced to 0 hit points becomes inanimate and is too damaged\
     \ to be of much use or value to anyone."
   "name": "Constructed Nature"
-- "desc": "The armor is [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]\
-    \ while in the area of an [[5. Mechanics/Spells/Antimagic Field.md\|antimagic field]].\
-    \ If targeted by [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]], the armor\
-    \ must succeed on a Constitution saving throw against the caster's spell save\
-    \ DC or fall [[/5. Mechanics/Rules/Conditions.md#unconscious\|unconscious]] for 1\
-    \ minute."
+- "desc": "The armor is incapacitated while in the area of an antimagic field. If\
+    \ targeted by dispel magic, the armor must succeed on a Constitution saving throw\
+    \ against the caster's spell save DC or fall unconscious for 1 minute."
   "name": "Antimagic Susceptibility"
 - "desc": "While the armor remains motionless, it is indistinguishable from a normal\
     \ suit of armor."
@@ -136,18 +140,9 @@ The armor understands Common but obeys only the commands of its master.
   "name": "Shocking Bolt"
 "source":
 - "CoS"
-"image": "compendium/bestiary/npc/token/strahds-animated-armor.png"
+"image": "4. World Almanac/NPCs/token/strahds-animated-armor.png"
 ```
 ^statblock
-
-## Acquaintances
-> [!column|dataview] Acquaintances
->> [!metadata|text-Center bg-c-green]- Friends & Family
->> TBD
->
->> [!metadata|text-Center bg-c-red]- Rivals
->> TBD
->
 
 ## History
 TBD

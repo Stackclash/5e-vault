@@ -12,7 +12,7 @@ tags:
 statblock: inline
 aliases: ["Mule"]
 ---
-# [[5. Mechanics/Bestiary/Beast/Mule.md|Mule]]
+# [[5. Mechanics\Bestiary\Beast\Mule.md|Mule]]
 *Source: Monster Manual p. 333, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -52,7 +52,7 @@ aliases: ["Mule"]
 - "GoS"
 - "KftGV"
 - "DoDk"
-"image": "5. Mechanics/Bestiary/Beast/token/mule.png"
+"image": "compendium/bestiary/beast/token/mule.png"
 ```
 ^statblock
 

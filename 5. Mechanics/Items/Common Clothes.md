@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Common Clothes"
-cost: 5 sp
+cost: 50
 ---
 # Common Clothes
 *Adventuring Gear*  

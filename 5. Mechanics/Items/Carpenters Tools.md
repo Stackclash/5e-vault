@@ -6,7 +6,7 @@ tags:
 - item/gear/artisans-tools
 aliases: 
 - "Carpenter's Tools"
-cost: 8 gp
+cost: 800
 ---
 # Carpenter's Tools
 *Artisan's Tools*  

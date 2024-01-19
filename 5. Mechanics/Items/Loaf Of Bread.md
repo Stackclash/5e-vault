@@ -6,7 +6,7 @@ tags:
 - item/gear/food-and-drink
 aliases: 
 - "Loaf of Bread"
-cost: 2 cp
+cost: 2
 ---
 # Loaf of Bread
 *Food and Drink*  

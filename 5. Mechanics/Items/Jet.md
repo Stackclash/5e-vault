@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Jet"
-cost: 100 gp
+cost: 10000
 ---
 # Jet
 *Treasure*  

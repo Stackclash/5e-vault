@@ -13,7 +13,7 @@ tags:
 statblock: inline
 aliases: ["Shoosuva"]
 ---
-# [[5. Mechanics/Bestiary/Fiend/Shoosuva (MPMM).md|Shoosuva]]
+# [[5. Mechanics\Bestiary\Fiend\Shoosuva (MPMM).md|Shoosuva]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 216*  
 
 > [!quote]- A quote from Mordenkainen  
@@ -78,7 +78,7 @@ Each shoosuva is bonded to a particular worshiper of Yeenoghu and fights alongsi
 - "MPMM"
 - "VGM"
 - "BMT"
-"image": "5. Mechanics/Bestiary/Fiend/token/shoosuva.png"
+"image": "compendium/bestiary/fiend/token/shoosuva.png"
 ```
 ^statblock
 

@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Gold circlet set with four aquamarines"
-cost: 2,500 gp
+cost: 250000
 ---
 # Gold circlet set with four aquamarines
 *Treasure*  

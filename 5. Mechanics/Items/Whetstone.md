@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Whetstone"
-cost: 1 cp
+cost: 1
 ---
 # Whetstone
 *Adventuring Gear*  

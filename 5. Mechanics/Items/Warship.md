@@ -6,7 +6,7 @@ tags:
 - item/vehicle/ship
 aliases: 
 - "Warship"
-cost: 25,000 gp
+cost: 2500000
 ---
 # Warship
 *Ship, Vehicle (water)*  

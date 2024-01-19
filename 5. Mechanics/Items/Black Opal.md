@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Black Opal"
-cost: 1,000 gp
+cost: 100000
 ---
 # Black Opal
 *Treasure*  

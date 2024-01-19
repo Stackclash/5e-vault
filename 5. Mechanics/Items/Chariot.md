@@ -6,7 +6,7 @@ tags:
 - item/vehicle
 aliases: 
 - "Chariot"
-cost: 250 gp
+cost: 25000
 ---
 # Chariot
 *Vehicle (land)*  

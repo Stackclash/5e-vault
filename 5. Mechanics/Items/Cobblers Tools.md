@@ -6,7 +6,7 @@ tags:
 - item/gear/artisans-tools
 aliases: 
 - "Cobbler's Tools"
-cost: 5 gp
+cost: 500
 ---
 # Cobbler's Tools
 *Artisan's Tools*  

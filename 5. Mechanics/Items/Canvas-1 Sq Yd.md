@@ -6,7 +6,7 @@ tags:
 - item/gear/trade-good
 aliases: 
 - "Canvas (1 sq. yd.)"
-cost: 1 sp
+cost: 10
 ---
 # Canvas (1 sq. yd.)
 *Trade Good*  

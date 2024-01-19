@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Dust Mephit"]
 ---
-# [[5. Mechanics/Bestiary/Elemental/Dust Mephit.md|Dust Mephit]]
+# [[5. Mechanics\Bestiary\Elemental\Dust Mephit.md|Dust Mephit]]
 *Source: Monster Manual p. 215. Available in the SRD.*  
 
 ## Mephits

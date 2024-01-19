@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Map or Scroll Case"
-cost: 1 gp
+cost: 100
 ---
 # Map or Scroll Case
 *Adventuring Gear*  

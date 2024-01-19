@@ -8,7 +8,7 @@ tags:
 - item/weapon/martial/melee
 aliases: 
 - "Longsword"
-cost: 15 gp
+cost: 1500
 ---
 # Longsword
 *Melee Weapon*  

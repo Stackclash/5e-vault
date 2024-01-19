@@ -6,7 +6,7 @@ tags:
 - item/gear/trade-good
 aliases: 
 - "Silk (1 sq. yd.)"
-cost: 10 gp
+cost: 1000
 ---
 # Silk (1 sq. yd.)
 *Trade Good*  

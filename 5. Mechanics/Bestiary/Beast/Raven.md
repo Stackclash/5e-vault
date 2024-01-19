@@ -12,7 +12,7 @@ tags:
 statblock: inline
 aliases: ["Raven"]
 ---
-# [[5. Mechanics/Bestiary/Beast/Raven.md|Raven]]
+# [[5. Mechanics\Bestiary\Beast\Raven.md|Raven]]
 *Source: Monster Manual p. 335, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -52,7 +52,7 @@ aliases: ["Raven"]
 - "CM"
 - "WBtW"
 - "KftGV"
-"image": "5. Mechanics/Bestiary/Beast/token/raven.png"
+"image": "compendium/bestiary/beast/token/raven.png"
 ```
 ^statblock
 

@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Small gold bracelet"
-cost: 25 gp
+cost: 2500
 ---
 # Small gold bracelet
 *Treasure*  

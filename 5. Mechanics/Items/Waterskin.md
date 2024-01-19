@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Waterskin"
-cost: 2 sp
+cost: 20
 ---
 # Waterskin
 *Adventuring Gear*  

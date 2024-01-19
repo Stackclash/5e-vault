@@ -6,7 +6,7 @@ tags:
 - item/gear/artisans-tools
 aliases: 
 - "Alchemist's Supplies"
-cost: 50 gp
+cost: 5000
 ---
 # Alchemist's Supplies
 *Artisan's Tools*  

@@ -13,7 +13,7 @@ tags:
 statblock: inline
 aliases: ["Archdruid"]
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Archdruid (MPMM).md|Archdruid]]
+# [[5. Mechanics\Bestiary\Humanoid\Archdruid (MPMM).md|Archdruid]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 48*  
 
 Archdruids watch over the natural wonders of their domains. They seldom interact with folk away from their druid groves and shrines, unless there is a great threat to the natural order or to a nearby community. An archdruid typically has one or more pupils who are [[5. Mechanics/Bestiary/Humanoid/Druid.md|druids]], and the archdruid's lair is usually guarded by loyal Beasts and Fey creatures.
@@ -99,7 +99,7 @@ When an archdruid uses their Change Shape action, you may choose the creature th
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/archdruid.png"
+"image": "compendium/bestiary/humanoid/token/archdruid.png"
 ```
 ^statblock
 

@@ -6,7 +6,7 @@ tags:
 - item/vehicle
 aliases: 
 - "Cart"
-cost: 15 gp
+cost: 1500
 ---
 # Cart
 *Vehicle (land)*  

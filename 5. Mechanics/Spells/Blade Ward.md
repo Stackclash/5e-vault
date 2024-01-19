@@ -14,6 +14,7 @@ tags:
 aliases: ["Blade Ward"]
 ---
 # Blade Ward
+%%-- Embedded content starts on the next line. --%%
 *cantrip, Abjuration*  
 
 - **Casting time:** 1 action

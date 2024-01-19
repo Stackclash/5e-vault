@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Hempen Rope (50 feet)"
-cost: 1 gp
+cost: 100
 ---
 # Hempen Rope (50 feet)
 *Adventuring Gear*  

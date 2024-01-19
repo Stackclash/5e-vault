@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Lock"
-cost: 10 gp
+cost: 1000
 ---
 # Lock
 *Adventuring Gear*  

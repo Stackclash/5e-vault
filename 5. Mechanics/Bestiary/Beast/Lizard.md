@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Lizard"]
 ---
-# [[5. Mechanics/Bestiary/Beast/Lizard.md|Lizard]]
+# [[5. Mechanics\Bestiary\Beast\Lizard.md|Lizard]]
 *Source: Monster Manual p. 332. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -40,6 +40,6 @@ aliases: ["Lizard"]
 - "ToA"
 - "JttRC"
 - "KftGV"
-"image": "5. Mechanics/Bestiary/Beast/token/lizard.png"
+"image": "compendium/bestiary/beast/token/lizard.png"
 ```
 ^statblock

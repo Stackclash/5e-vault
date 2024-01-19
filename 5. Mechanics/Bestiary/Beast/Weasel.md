@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Weasel"]
 ---
-# [[5. Mechanics/Bestiary/Beast/Weasel.md|Weasel]]
+# [[5. Mechanics\Bestiary\Beast\Weasel.md|Weasel]]
 *Source: Monster Manual p. 340. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -47,6 +47,6 @@ aliases: ["Weasel"]
 - "IDRotF"
 - "WBtW"
 - "PaBTSO"
-"image": "5. Mechanics/Bestiary/Beast/token/weasel.png"
+"image": "compendium/bestiary/beast/token/weasel.png"
 ```
 ^statblock

@@ -47,9 +47,9 @@ aliases: ["Stanimir"]
 > **Current Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 # **`=this.file.name`**
-> [!info|bg-c-purple]- Overview
 TBD
 
+## Traits/Goals
 > [!column] Traits
 >> [!metadata|text-Center bg-c-gray] Personality
 >> `INPUT[text:personality]`
@@ -71,6 +71,15 @@ TBD
 
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
+
+## Acquaintances
+> [!column|dataview] Acquaintances
+>> [!metadata|text-Center bg-c-green]- Friends & Family
+>> TBD
+>
+>> [!metadata|text-Center bg-c-red]- Rivals
+>> TBD
+>
 
 ## Stats
 ```statblock
@@ -102,17 +111,11 @@ TBD
 "traits":
 - "desc": "Stanimir is a 9th-level spellcaster. Its spellcasting ability is Intelligence\
     \ (spell save DC 14, dice: d20+6 (+6 to hit) with spell attacks). Stanimir has\
-    \ the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Friends.md\|friends]],\
-    \ [[5. Mechanics/Spells/Light.md\|light]], [[5. Mechanics/Spells/Mage Hand.md\|mage hand]],\
-    \ [[5. Mechanics/Spells/Prestidigitation.md\|prestidigitation]]\n\n1st level (4\
-    \ slots): [[5. Mechanics/Spells/Charm Person.md\|charm person]], [[5. Mechanics/Spells/Mage Armor.md\|mage armor]],\
-    \ [[5. Mechanics/Spells/Shield.md\|shield]], [[5. Mechanics/Spells/Sleep.md\|sleep]]\n\
-    \n2nd level (3 slots): [[5. Mechanics/Spells/Misty Step.md\|misty step]], [[5. Mechanics/Spells/Suggestion.md\|suggestion]]\n\
-    \n3rd level (3 slots): [[5. Mechanics/Spells/Bestow Curse.md\|bestow curse]],\
-    \ [[5. Mechanics/Spells/Phantom Steed.md\|phantom steed]], [[5. Mechanics/Spells/Vampiric Touch.md\|vampiric touch]]\n\
-    \n4th level (3 slots): [[5. Mechanics/Spells/Greater Invisibility.md\|greater invisibility]],\
-    \ [[5. Mechanics/Spells/Stoneskin.md\|stoneskin]]\n\n5th level (1 slots): [dominate\
-    \ person](compendium/spells/dominate-person.md)"
+    \ the following wizard spells prepared:\n\nCantrips (at will): friends, light,\
+    \ mage hand, prestidigitation\n\n1st level (4 slots): charm person, mage armor,\
+    \ shield, sleep\n\n2nd level (3 slots): misty step, suggestion\n\n3rd level\
+    \ (3 slots): bestow curse, phantom steed, vampiric touch\n\n4th level (3 slots):\
+    \ greater invisibility, stoneskin\n\n5th level (1 slots): dominate person"
   "name": "spells"
 "actions":
 - "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft.\
@@ -121,18 +124,9 @@ TBD
   "name": "Dagger"
 "source":
 - "CoS"
-"image": "compendium/bestiary/npc/token/stanimir.png"
+"image": "4. World Almanac/NPCs/token/stanimir.png"
 ```
 ^statblock
-
-## Acquaintances
-> [!column|dataview] Acquaintances
->> [!metadata|text-Center bg-c-green]- Friends & Family
->> TBD
->
->> [!metadata|text-Center bg-c-red]- Rivals
->> TBD
->
 
 ## History
 TBD

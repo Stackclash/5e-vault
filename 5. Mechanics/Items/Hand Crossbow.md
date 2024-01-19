@@ -10,7 +10,7 @@ tags:
 - item/weapon/martial/ranged
 aliases: 
 - "Hand Crossbow"
-cost: 75 gp
+cost: 7500
 ---
 # Hand Crossbow
 *Ranged Weapon*  

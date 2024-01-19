@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Tiger"]
 ---
-# [[5. Mechanics/Bestiary/Beast/Tiger.md|Tiger]]
+# [[5. Mechanics\Bestiary\Beast\Tiger.md|Tiger]]
 *Source: Monster Manual p. 339. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -60,7 +60,7 @@ aliases: ["Tiger"]
 - "WDH"
 - "GoS"
 - "MOT"
-"image": "5. Mechanics/Bestiary/Beast/token/tiger.png"
+"image": "compendium/bestiary/beast/token/tiger.png"
 ```
 ^statblock
 

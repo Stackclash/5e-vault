@@ -6,7 +6,7 @@ tags:
 - item/vehicle/ship
 aliases: 
 - "Rowboat"
-cost: 50 gp
+cost: 5000
 ---
 # Rowboat
 *Ship, Vehicle (water)*  

@@ -29,7 +29,7 @@ aliases: ["Vladimir Horngaard"]
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  "`INPUT[text:pronounced]`"
-> ![[compendium/bestiary/npc/img/vladimir-horngaard.webp|cover hm-sm]] 
+> ![[4. World Almanac/NPCs/img/vladimir-horngaard.webp|cover hm-sm]] 
 > ###### Bio
 >  |
 >  ---|---|
@@ -48,7 +48,6 @@ aliases: ["Vladimir Horngaard"]
 > **Current Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 # **`=this.file.name`**
-> [!info|bg-c-purple]- Overview
 Vladimir Horngaard joined the Order of the Silver Dragon at a young age and quickly earned the friendship of its founder, the silver dragon Argynvost. When he became a knight of the order, he traveled to distant lands to wage war against the forces of evil. The dragon stayed home and, in the guise of a human noble named Lord Argynvost, brought new initiates into the order.
 
 ## Enemies of Strahd
@@ -108,6 +107,7 @@ No magic can hide a creature pursued by a revenant, which always knows the direc
 
 A revenant doesn't require air, food, drink, or sleep.
 
+## Traits/Goals
 > [!column] Traits
 >> [!metadata|text-Center bg-c-gray] Personality
 >> `INPUT[text:personality]`
@@ -129,6 +129,15 @@ A revenant doesn't require air, food, drink, or sleep.
 
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
+
+## Acquaintances
+> [!column|dataview] Acquaintances
+>> [!metadata|text-Center bg-c-green]- Friends & Family
+>> TBD
+>
+>> [!metadata|text-Center bg-c-red]- Rivals
+>> TBD
+>
 
 ## Stats
 ```statblock
@@ -154,9 +163,7 @@ A revenant doesn't require air, food, drink, or sleep.
   "Constitution": !!int "7"
 "damage_resistances": "necrotic, psychic"
 "damage_immunities": "poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]], [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]]"
+"condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned, stunned"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Common, Draconic"
 "cr": "7"
@@ -168,8 +175,8 @@ A revenant doesn't require air, food, drink, or sleep.
   "name": "Regeneration"
 - "desc": "When Vladimir's body is destroyed, his soul lingers. After 24 hours, the\
     \ soul inhabits and animates another corpse on the same plane of existence and\
-    \ regains all its hit points. While the soul is bodiless, a [[5. Mechanics/Spells/Wish.md\|wish]]\
-    \ spell can be used to force the soul to go to the afterlife and not return."
+    \ regains all its hit points. While the soul is bodiless, a wish spell can be\
+    \ used to force the soul to go to the afterlife and not return."
   "name": "Rejuvenation"
 - "desc": "Vladimir wields a +2 greatsword with a hilt sculpted to resemble silver\
     \ dragon wings and a pommel shaped like a silver dragon's head clutching a black\
@@ -195,27 +202,17 @@ A revenant doesn't require air, food, drink, or sleep.
     \ deals an extra dice: 4d6|avg (4d6) slashing damage with this weapon."
   "name": "Greatsword +2"
 - "desc": "Vladimir can target Strahd within 30 feet provided he can see Strahd. Strahd\
-    \ must make a DC 15 Wisdom saving throw. One a failure, Strahd is [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]]\
-    \ until Vladimir deals damage to him, or until the end of Vladimir's next turn.\
-    \ When the paralysis ends, Strahd is [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
-    \ of Vladimir for 1 minute. Strahd can repeat the saving throw at the end of each\
-    \ of his turns, with disadvantage if he can see Vladimir, ending the [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
-    \ condition on itself on a success."
+    \ must make a DC 15 Wisdom saving throw. One a failure, Strahd is paralyzed until\
+    \ Vladimir deals damage to him, or until the end of Vladimir's next turn. When\
+    \ the paralysis ends, Strahd is frightened of Vladimir for 1 minute. Strahd can\
+    \ repeat the saving throw at the end of each of his turns, with disadvantage if\
+    \ he can see Vladimir, ending the frightened condition on itself on a success."
   "name": "Vengeful Glare"
 "source":
 - "CoS"
-"image": "compendium/bestiary/npc/token/vladimir-horngaard.png"
+"image": "4. World Almanac/NPCs/token/vladimir-horngaard.png"
 ```
 ^statblock
-
-## Acquaintances
-> [!column|dataview] Acquaintances
->> [!metadata|text-Center bg-c-green]- Friends & Family
->> TBD
->
->> [!metadata|text-Center bg-c-red]- Rivals
->> TBD
->
 
 ## History
 TBD

@@ -6,7 +6,7 @@ tags:
 - item/gear/tools
 aliases: 
 - "Thieves' Tools"
-cost: 25 gp
+cost: 2500
 ---
 # Thieves' Tools
 *Tools*  

@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Manacles"
-cost: 2 gp
+cost: 200
 ---
 # Manacles
 *Adventuring Gear*  

@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Rations (1 day)"
-cost: 5 sp
+cost: 50
 ---
 # Rations (1 day)
 *Adventuring Gear*  

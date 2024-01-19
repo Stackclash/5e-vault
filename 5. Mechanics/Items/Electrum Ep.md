@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Electrum (ep)"
-cost: 5 sp
+cost: 50
 ---
 # Electrum (ep)
 *Treasure*  

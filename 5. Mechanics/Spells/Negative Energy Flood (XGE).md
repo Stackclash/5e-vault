@@ -10,6 +10,7 @@ tags:
 aliases: ["Negative Energy Flood"]
 ---
 # Negative Energy Flood
+%%-- Embedded content starts on the next line. --%%
 *5th-level, Necromancy*  
 
 - **Casting time:** 1 action

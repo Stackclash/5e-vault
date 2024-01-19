@@ -7,7 +7,7 @@ tags:
 - item/weapon/simple/melee
 aliases: 
 - "Quarterstaff"
-cost: 2 sp
+cost: 20
 ---
 # Quarterstaff
 *Melee Weapon*  

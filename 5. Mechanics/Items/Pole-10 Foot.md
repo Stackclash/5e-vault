@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Pole (10-foot)"
-cost: 5 cp
+cost: 5
 ---
 # Pole (10-foot)
 *Adventuring Gear*  

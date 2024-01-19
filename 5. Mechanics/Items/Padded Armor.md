@@ -6,7 +6,7 @@ tags:
 - item/armor/light
 aliases: 
 - "Padded Armor"
-cost: 5 gp
+cost: 500
 ---
 # Padded Armor
 *Light Armor*  

@@ -11,6 +11,7 @@ tags:
 aliases: ["Resurrection"]
 ---
 # Resurrection
+%%-- Embedded content starts on the next line. --%%
 *7th-level, Necromancy*  
 
 - **Casting time:** 1 hour

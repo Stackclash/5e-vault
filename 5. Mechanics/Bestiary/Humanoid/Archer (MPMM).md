@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Archer"]
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Archer (MPMM).md|Archer]]
+# [[5. Mechanics\Bestiary\Humanoid\Archer (MPMM).md|Archer]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 49*  
 
 Archers defend castles, hunt wild game on the fringes of civilization, serve as artillery in military units, and occasionally make good coin as brigands or caravan guards.
@@ -75,7 +75,7 @@ Some renowned archers and groups of archers are known for the special fletching 
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/archer.png"
+"image": "compendium/bestiary/humanoid/token/archer.png"
 ```
 ^statblock
 

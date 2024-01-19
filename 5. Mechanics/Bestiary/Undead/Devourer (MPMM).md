@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Devourer"]
 ---
-# [[5. Mechanics/Bestiary/Undead/Devourer (MPMM).md|Devourer]]
+# [[5. Mechanics\Bestiary\Undead\Devourer (MPMM).md|Devourer]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 93*  
 
 Of all the abominations unleashed by [[4. World Almanac/NPCs/Orcus.md|Orcus]], devourers are among the most feared. These tall, mummy-like Undead wander the planes, consuming souls and spreading Orcus's creed of replacing all life with everlasting death.
@@ -72,7 +72,7 @@ Devourers hunt Humanoids with the intent of consuming them body and soul. After 
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Undead/token/devourer.png"
+"image": "compendium/bestiary/undead/token/devourer.png"
 ```
 ^statblock
 

@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Cloth-of-gold vestments"
-cost: 25 gp
+cost: 2500
 ---
 # Cloth-of-gold vestments
 *Treasure*  

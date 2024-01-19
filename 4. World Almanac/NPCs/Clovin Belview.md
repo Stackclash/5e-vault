@@ -29,7 +29,7 @@ aliases: ["Clovin Belview"]
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  "`INPUT[text:pronounced]`"
-> ![[compendium/bestiary/npc/img/clovin-belview.webp|cover hm-sm]] 
+> ![[4. World Almanac/NPCs/img/clovin-belview.webp|cover hm-sm]] 
 > ###### Bio
 >  |
 >  ---|---|
@@ -48,9 +48,9 @@ aliases: ["Clovin Belview"]
 > **Current Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 # **`=this.file.name`**
-> [!info|bg-c-purple]- Overview
 TBD
 
+## Traits/Goals
 > [!column] Traits
 >> [!metadata|text-Center bg-c-gray] Personality
 >> `INPUT[text:personality]`
@@ -72,6 +72,15 @@ TBD
 
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
+
+## Acquaintances
+> [!column|dataview] Acquaintances
+>> [!metadata|text-Center bg-c-green]- Friends & Family
+>> TBD
+>
+>> [!metadata|text-Center bg-c-red]- Rivals
+>> TBD
+>
 
 ## Stats
 ```statblock
@@ -99,11 +108,9 @@ TBD
 "languages": "Common"
 "cr": "1/4"
 "traits":
-- "desc": "The mongrelfolk has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
-    \ checks and on saving throws against being [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]],\
-    \ [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]], [[/5. Mechanics/Rules/Conditions.md#deafened\|deafened]],\
-    \ [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]], [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]],\
-    \ or knocked [[/5. Mechanics/Rules/Conditions.md#unconscious\|unconscious]]."
+- "desc": "The mongrelfolk has advantage on Wisdom (Perception) checks and on saving\
+    \ throws against being blinded, charmed, deafened, frightened, stunned, or knocked\
+    \ unconscious."
   "name": "Two-Headed"
 - "desc": "Clovin can mimic any sounds it has heard, including voices. A creature\
     \ that hears the sounds can tell they are imitations with a successful DC 12 Wisdom\
@@ -124,18 +131,9 @@ TBD
   "name": "Dagger"
 "source":
 - "CoS"
-"image": "compendium/bestiary/npc/token/clovin-belview.png"
+"image": "4. World Almanac/NPCs/token/clovin-belview.png"
 ```
 ^statblock
-
-## Acquaintances
-> [!column|dataview] Acquaintances
->> [!metadata|text-Center bg-c-green]- Friends & Family
->> TBD
->
->> [!metadata|text-Center bg-c-red]- Rivals
->> TBD
->
 
 ## History
 TBD

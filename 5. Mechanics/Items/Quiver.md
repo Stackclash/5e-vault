@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Quiver"
-cost: 1 gp
+cost: 100
 ---
 # Quiver
 *Adventuring Gear*  

@@ -6,7 +6,7 @@ tags:
 - item/gear/tack-and-harness
 aliases: 
 - "Feed (per day)"
-cost: 5 cp
+cost: 5
 ---
 # Feed (per day)
 *Tack and Harness*  

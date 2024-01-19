@@ -6,7 +6,7 @@ tags:
 - item/gear/artisans-tools
 aliases: 
 - "Brewer's Supplies"
-cost: 20 gp
+cost: 2000
 ---
 # Brewer's Supplies
 *Artisan's Tools*  

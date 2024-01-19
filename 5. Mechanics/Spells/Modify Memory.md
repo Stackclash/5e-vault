@@ -11,6 +11,7 @@ tags:
 aliases: ["Modify Memory"]
 ---
 # Modify Memory
+%%-- Embedded content starts on the next line. --%%
 *5th-level, Enchantment*  
 
 - **Casting time:** 1 action

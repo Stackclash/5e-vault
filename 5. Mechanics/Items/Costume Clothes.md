@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Costume Clothes"
-cost: 5 gp
+cost: 500
 ---
 # Costume Clothes
 *Adventuring Gear*  

@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Swarm of Rats"]
 ---
-# [[5. Mechanics/Bestiary/Beast/Swarm Of Rats.md|Swarm of Rats]]
+# [[5. Mechanics\Bestiary\Beast\Swarm Of Rats.md|Swarm of Rats]]
 *Source: Monster Manual p. 339, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 > [!note] The Nature of Swarms

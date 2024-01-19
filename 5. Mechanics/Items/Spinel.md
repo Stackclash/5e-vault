@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Spinel"
-cost: 100 gp
+cost: 10000
 ---
 # Spinel
 *Treasure*  

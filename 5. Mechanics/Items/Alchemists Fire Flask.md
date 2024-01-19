@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Alchemist's Fire (flask)"
-cost: 50 gp
+cost: 5000
 ---
 # Alchemist's Fire (flask)
 *Adventuring Gear*  

@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Blue Spinel"
-cost: 500 gp
+cost: 50000
 ---
 # Blue Spinel
 *Treasure*  

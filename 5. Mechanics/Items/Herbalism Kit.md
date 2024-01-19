@@ -6,7 +6,7 @@ tags:
 - item/gear/tools
 aliases: 
 - "Herbalism Kit"
-cost: 5 gp
+cost: 500
 ---
 # Herbalism Kit
 *Tools*  

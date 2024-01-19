@@ -6,7 +6,7 @@ tags:
 - item/gear/trade-good
 aliases: 
 - "Platinum"
-cost: 500 gp
+cost: 50000
 ---
 # Platinum
 *Trade Good*  

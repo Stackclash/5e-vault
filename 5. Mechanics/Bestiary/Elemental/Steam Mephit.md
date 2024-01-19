@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Steam Mephit"]
 ---
-# [[5. Mechanics/Bestiary/Elemental/Steam Mephit.md|Steam Mephit]]
+# [[5. Mechanics\Bestiary\Elemental\Steam Mephit.md|Steam Mephit]]
 *Source: Monster Manual p. 217. Available in the SRD.*  
 
 ## Mephits

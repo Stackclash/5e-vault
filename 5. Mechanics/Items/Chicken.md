@@ -6,7 +6,7 @@ tags:
 - item/gear/trade-good
 aliases: 
 - "Chicken"
-cost: 2 cp
+cost: 2
 ---
 # Chicken
 *Trade Good*  

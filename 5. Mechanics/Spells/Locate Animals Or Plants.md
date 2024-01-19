@@ -12,6 +12,7 @@ tags:
 aliases: ["Locate Animals or Plants"]
 ---
 # Locate Animals or Plants
+%%-- Embedded content starts on the next line. --%%
 *2nd-level, Divination (ritual)*  
 
 - **Casting time:** 1 action unless cast as a ritual

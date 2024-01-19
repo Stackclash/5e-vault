@@ -29,7 +29,7 @@ aliases: ["Rahadin"]
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  "`INPUT[text:pronounced]`"
-> ![[compendium/bestiary/npc/img/rahadin.webp|cover hm-sm]] 
+> ![[4. World Almanac/NPCs/img/rahadin.webp|cover hm-sm]] 
 > ###### Bio
 >  |
 >  ---|---|
@@ -48,7 +48,6 @@ aliases: ["Rahadin"]
 > **Current Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 # **`=this.file.name`**
-> [!info|bg-c-purple]- Overview
 Rahadin, the dusk elf chamberlain of Castle Ravenloft, has served Strahd's family faithfully for nearly five hundred years. He is Strahd's eternal servant, a longtime comrade-in-arms, and a ruthless warrior who has killed thousands in his lifetime.
 
 ## Exile
@@ -89,6 +88,7 @@ So dreadful a creature is Rahadin that anyone who stands within 10 feet of him c
 
 "I have slain thousands of men. I will slaughter thousands more to preserve the von Zarovich legacy."
 
+## Traits/Goals
 > [!column] Traits
 >> [!metadata|text-Center bg-c-gray] Personality
 >> `INPUT[text:personality]`
@@ -110,6 +110,15 @@ So dreadful a creature is Rahadin that anyone who stands within 10 feet of him c
 
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
+
+## Acquaintances
+> [!column|dataview] Acquaintances
+>> [!metadata|text-Center bg-c-green]- Friends & Family
+>> TBD
+>
+>> [!metadata|text-Center bg-c-red]- Rivals
+>> TBD
+>
 
 ## Stats
 ```statblock
@@ -143,25 +152,23 @@ So dreadful a creature is Rahadin that anyone who stands within 10 feet of him c
 "cr": "10"
 "traits":
 - "desc": "Rahadin's innate spellcasting ability is Intelligence. He can innately\
-    \ cast the following spells, requiring no components:\n\n1/day: [[5. Mechanics/Spells/Magic Weapon.md\|magic weapon]],\
-    \ [[5. Mechanics/Spells/Nondetection.md\|nondetection]]\n\n3/day: [[5. Mechanics/Spells/Misty Step.md\|misty step]],\
-    \ [[5. Mechanics/Spells/Phantom Steed.md\|phantom steed]]"
+    \ cast the following spells, requiring no components:\n\n1/day: magic weapon,\
+    \ nondetection\n\n3/day: misty step, phantom steed"
   "name": "innate"
-- "desc": "Any creature within 10 feet of Rahadin that isn't protected by a [mind\
-    \ blank](compendium/spells/mind-blank.md) spell hears in its mind the screams\
-    \ of the thousands of people Rahadin has killed. As a bonus action, Rahadin can\
-    \ force all creatures that can hear the screams to make a DC 16 Wisdom saving\
-    \ throw. Each creature takes dice: 3d10|avg (3d10) psychic damage on a failed\
-    \ save, or half as much damage on a successful one."
+- "desc": "Any creature within 10 feet of Rahadin that isn't protected by a mind blank\
+    \ spell hears in its mind the screams of the thousands of people Rahadin has killed.\
+    \ As a bonus action, Rahadin can force all creatures that can hear the screams\
+    \ to make a DC 16 Wisdom saving throw. Each creature takes dice: 3d10|avg (3d10)\
+    \ psychic damage on a failed save, or half as much damage on a successful one."
   "name": "Deathly Choir"
-- "desc": "Rahadin has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]],\
-    \ and magic can't put him to sleep."
+- "desc": "Rahadin has advantage on saving throws against being charmed, and magic\
+    \ can't put him to sleep."
   "name": "Fey Ancestry"
 - "desc": "Rahadin can attempt to hide even when he is only lightly obscured by foliage,\
     \ heavy rain, falling snow, mist, and other natural phenomena."
   "name": "Mask of the Wild"
 "actions":
-- "desc": "Rahadin attacks three times with his scimitar, or twice with his [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]\
+- "desc": "Rahadin attacks three times with his scimitar, or twice with his poisoned\
     \ darts."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
@@ -173,18 +180,9 @@ So dreadful a creature is Rahadin that anyone who stands within 10 feet of him c
   "name": "Poisoned Dart"
 "source":
 - "CoS"
-"image": "compendium/bestiary/npc/token/rahadin.png"
+"image": "4. World Almanac/NPCs/token/rahadin.png"
 ```
 ^statblock
-
-## Acquaintances
-> [!column|dataview] Acquaintances
->> [!metadata|text-Center bg-c-green]- Friends & Family
->> TBD
->
->> [!metadata|text-Center bg-c-red]- Rivals
->> TBD
->
 
 ## History
 TBD

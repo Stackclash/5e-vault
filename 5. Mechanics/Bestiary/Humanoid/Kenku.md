@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Kenku"]
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Kenku.md|Kenku]]
+# [[5. Mechanics\Bestiary\Humanoid\Kenku.md|Kenku]]
 *Source: Monster Manual p. 194, Eberron: Rising from the Last War*  
 
 Kenku are feathered humanoids that wander the world as vagabonds, driven by greed. They can perfectly imitate any sound they hear.
@@ -87,7 +87,7 @@ All kenku pine for the ability to fly, and thus the punishments they mete out to
 - "CM"
 - "JttRC"
 - "ToFW"
-"image": "5. Mechanics/Bestiary/Humanoid/token/kenku.png"
+"image": "compendium/bestiary/humanoid/token/kenku.png"
 ```
 ^statblock
 

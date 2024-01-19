@@ -6,7 +6,7 @@ tags:
 - item/gear/spellcasting-focus
 aliases: 
 - "Reliquary"
-cost: 5 gp
+cost: 500
 ---
 # Reliquary
 *Spellcasting Focus*  

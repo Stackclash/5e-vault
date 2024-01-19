@@ -14,6 +14,7 @@ tags:
 aliases: ["Continual Flame"]
 ---
 # Continual Flame
+%%-- Embedded content starts on the next line. --%%
 *2nd-level, Evocation*  
 
 - **Casting time:** 1 action

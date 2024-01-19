@@ -3,9 +3,7 @@ obsidianUIMode: preview
 owners: 
 staff: 
 cost_modifier: 
-settlement_shop: "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
 items: []
-location: "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
 ---
 > [!infobox]
 > # `=this.file.name`

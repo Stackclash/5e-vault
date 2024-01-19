@@ -18,7 +18,7 @@ tags:
 statblock: inline
 aliases: ["Scout"]
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Scout.md|Scout]]
+# [[5. Mechanics\Bestiary\Humanoid\Scout.md|Scout]]
 *Source: Monster Manual p. 349, Curse of Strahd. Available in the SRD.*  
 
 Scouts are skilled hunters and trackers who offer their services for a fee. Most hunt wild game, but a few work as bounty hunters, serve as guides, or provide military reconnaissance.
@@ -88,7 +88,7 @@ Scouts are skilled hunters and trackers who offer their services for a fee. Most
 - "SatO"
 - "GHLoE"
 - "DoDk"
-"image": "5. Mechanics/Bestiary/Humanoid/token/scout.png"
+"image": "compendium/bestiary/humanoid/token/scout.png"
 ```
 ^statblock
 

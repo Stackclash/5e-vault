@@ -6,7 +6,7 @@ tags:
 - item/gear/tools
 aliases: 
 - "Poisoner's Kit"
-cost: 50 gp
+cost: 5000
 ---
 # Poisoner's Kit
 *Tools*  

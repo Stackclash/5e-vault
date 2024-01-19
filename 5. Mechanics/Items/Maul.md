@@ -9,7 +9,7 @@ tags:
 - item/weapon/martial/melee
 aliases: 
 - "Maul"
-cost: 10 gp
+cost: 1000
 ---
 # Maul
 *Melee Weapon*  

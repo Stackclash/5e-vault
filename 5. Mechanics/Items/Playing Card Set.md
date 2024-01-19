@@ -6,7 +6,7 @@ tags:
 - item/gear/gaming-set
 aliases: 
 - "Playing Card Set"
-cost: 5 sp
+cost: 50
 ---
 # Playing Card Set
 *Gaming Set*  

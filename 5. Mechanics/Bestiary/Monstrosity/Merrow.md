@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Merrow"]
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Merrow.md|Merrow]]
+# [[5. Mechanics\Bestiary\Monstrosity\Merrow.md|Merrow]]
 *Source: Monster Manual p. 219. Available in the SRD.*  
 
 Merrow haunt coastal waters, preying on fisherfolk, merfolk, and any other edible creature that crosses their path. These savage monsters snatch and devour unwary prey, hauling drowned corpses back to their underwater grottoes to feed.
@@ -77,7 +77,7 @@ Merrow dwell in undersea caves filled with treasures and trophies, taken from th
 - "WBtW"
 - "DSotDQ"
 - "DoDk"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/merrow.png"
+"image": "compendium/bestiary/monstrosity/token/merrow.png"
 ```
 ^statblock
 

@@ -11,6 +11,7 @@ tags:
 aliases: ["Whirlwind"]
 ---
 # Whirlwind
+%%-- Embedded content starts on the next line. --%%
 *7th-level, Evocation*  
 ![[5. Mechanics/Spells/img/whirlwind.webp#right]]  
 

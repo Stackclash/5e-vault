@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Dire Wolf"]
 ---
-# [[5. Mechanics/Bestiary/Beast/Dire Wolf.md|Dire Wolf]]
+# [[5. Mechanics\Bestiary\Beast\Dire Wolf.md|Dire Wolf]]
 *Source: Monster Manual p. 321, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 ```statblock

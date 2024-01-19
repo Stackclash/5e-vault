@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Mess Kit"
-cost: 2 sp
+cost: 20
 ---
 # Mess Kit
 *Adventuring Gear*  

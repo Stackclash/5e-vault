@@ -12,7 +12,7 @@ tags:
 statblock: inline
 aliases: ["Nilbog"]
 ---
-# [[5. Mechanics/Bestiary/Fey/Nilbog (MPMM).md|Nilbog]]
+# [[5. Mechanics\Bestiary\Fey\Nilbog (MPMM).md|Nilbog]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 195*  
 
 When Maglubiyet conquered the goblin gods, a trickster deity was determined to get the last laugh. Although Maglubiyet shattered its essence, this trickster god survives in a splintered form as possessing spirits that cause disorder unless they are appeased. Goblins have no name for this deity and dare not give it one, lest Maglubiyet use its name to ensnare and crush it as he did their other deities. They call the possessing spirit, as well as the goblin possessed by it, a nilbog ("goblin" spelled backward), and they revel in the chaos a nilbog sows.
@@ -83,7 +83,7 @@ If its host is killed or the possession is ended by a spell such as hallow, magi
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Fey/token/nilbog.png"
+"image": "compendium/bestiary/fey/token/nilbog.png"
 ```
 ^statblock
 

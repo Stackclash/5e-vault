@@ -6,7 +6,7 @@ tags:
 - item/armor/heavy
 aliases: 
 - "Ring Mail"
-cost: 30 gp
+cost: 3000
 ---
 # Ring Mail
 *Heavy Armor*  

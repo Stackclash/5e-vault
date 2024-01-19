@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Sack"
-cost: 1 cp
+cost: 1
 ---
 # Sack
 *Adventuring Gear*  

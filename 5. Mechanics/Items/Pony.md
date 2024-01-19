@@ -6,7 +6,7 @@ tags:
 - item/gear/mount
 aliases: 
 - "Pony"
-cost: 30 gp
+cost: 3000
 ---
 # Pony
 *Mount*  

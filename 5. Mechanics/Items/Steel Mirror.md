@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Steel Mirror"
-cost: 5 gp
+cost: 500
 ---
 # Steel Mirror
 *Adventuring Gear*  

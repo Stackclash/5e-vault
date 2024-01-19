@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Roper"]
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Roper.md|Roper]]
+# [[5. Mechanics\Bestiary\Monstrosity\Roper.md|Roper]]
 *Source: Monster Manual p. 261. Available in the SRD.*  
 
 Living in caves and caverns throughout the Underdark, voracious ropers feast on whatever they can catch and seize. A roper eats any creature, from Underdark beasts to adventurers and their gear.
@@ -91,7 +91,7 @@ A roper has six nubs set along its body, through which it extrudes sticky tendri
 - "ToFW"
 - "BMT"
 - "DoDk"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/roper.png"
+"image": "compendium/bestiary/monstrosity/token/roper.png"
 ```
 ^statblock
 

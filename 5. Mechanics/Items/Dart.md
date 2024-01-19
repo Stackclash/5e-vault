@@ -8,7 +8,7 @@ tags:
 - item/weapon/simple/ranged
 aliases: 
 - "Dart"
-cost: 5 cp
+cost: 5
 ---
 # Dart
 *Ranged Weapon*  

@@ -6,7 +6,7 @@ tags:
 - item/gear/food-and-drink
 aliases: 
 - "Ale (Mug)"
-cost: 4 cp
+cost: 4
 ---
 # Ale (Mug)
 *Food and Drink*  

@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Flask"
-cost: 2 cp
+cost: 2
 ---
 # Flask
 *Adventuring Gear*  

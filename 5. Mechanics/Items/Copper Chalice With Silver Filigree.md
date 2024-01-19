@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Copper chalice with silver filigree"
-cost: 25 gp
+cost: 2500
 ---
 # Copper chalice with silver filigree
 *Treasure*  

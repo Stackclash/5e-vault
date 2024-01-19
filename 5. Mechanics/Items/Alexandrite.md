@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Alexandrite"
-cost: 500 gp
+cost: 50000
 ---
 # Alexandrite
 *Treasure*  

@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Carved bone statuette"
-cost: 25 gp
+cost: 2500
 ---
 # Carved bone statuette
 *Treasure*  

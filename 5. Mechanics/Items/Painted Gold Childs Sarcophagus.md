@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Painted gold child's sarcophagus"
-cost: 7,500 gp
+cost: 750000
 ---
 # Painted gold child's sarcophagus
 *Treasure*  

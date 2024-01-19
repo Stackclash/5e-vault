@@ -12,7 +12,7 @@ tags:
 statblock: inline
 aliases: ["Mastiff"]
 ---
-# [[5. Mechanics/Bestiary/Beast/Mastiff.md|Mastiff]]
+# [[5. Mechanics\Bestiary\Beast\Mastiff.md|Mastiff]]
 *Source: Monster Manual p. 332, Curse of Strahd, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  
 
 Mastiffs are impressive hounds prized by humanoids for their loyalty and keen senses. Mastiffs can be trained as guard dogs, hunting dogs, and war dogs. Halflings and other Small humanoids ride them as mounts.
@@ -60,7 +60,7 @@ Mastiffs are impressive hounds prized by humanoids for their loyalty and keen se
 - "KftGV"
 - "ToFW"
 - "BMT"
-"image": "5. Mechanics/Bestiary/Beast/token/mastiff.png"
+"image": "compendium/bestiary/beast/token/mastiff.png"
 ```
 ^statblock
 

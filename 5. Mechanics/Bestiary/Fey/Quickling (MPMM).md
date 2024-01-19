@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Quickling"]
 ---
-# [[5. Mechanics/Bestiary/Fey/Quickling (MPMM).md|Quickling]]
+# [[5. Mechanics\Bestiary\Fey\Quickling (MPMM).md|Quickling]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 207*  
 
 Quicklings rocket through twisted forests where the unseelie fey hold sway, both in the Feywild and in the world. These slender Fey resemble miniature elves with feral features and cold eyes that gleam like jewels. Racing faster than the eye can track, they appear as little more than blurry waverings in the air.
@@ -67,7 +67,7 @@ Tricks of that sort are hardly the limit of quicklings' artful malice, however. 
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Fey/token/quickling.png"
+"image": "compendium/bestiary/fey/token/quickling.png"
 ```
 ^statblock
 

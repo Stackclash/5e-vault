@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Throne"]
 ---
-# [[5. Mechanics/Bestiary/Celestial/Throne (SAF).md|Throne]]
+# [[5. Mechanics\Bestiary\Celestial\Throne (SAF).md|Throne]]
 *Source: Strongholds and Followers p. 163*  
 
 Wat. Okay, well...look, I don't make these things up, the gods do that, and who are we to question them?

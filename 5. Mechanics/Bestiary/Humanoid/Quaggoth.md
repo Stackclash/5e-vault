@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Quaggoth"]
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Quaggoth.md|Quaggoth]]
+# [[5. Mechanics\Bestiary\Humanoid\Quaggoth.md|Quaggoth]]
 *Source: Monster Manual p. 256*  
 
 Savage and territorial, quaggoths climb the chasms of the Underdark. They maul their foes in a frenzy, becoming even more murderous in the face of death.
@@ -76,7 +76,7 @@ Generations of hunting venomous subterranean creatures and perpetual exposure to
 - "IDRotF"
 - "LoX"
 - "PaBTSO"
-"image": "5. Mechanics/Bestiary/Humanoid/token/quaggoth.png"
+"image": "compendium/bestiary/humanoid/token/quaggoth.png"
 ```
 ^statblock
 

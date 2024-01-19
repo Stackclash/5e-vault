@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Chrysoprase"
-cost: 50 gp
+cost: 5000
 ---
 # Chrysoprase
 *Treasure*  

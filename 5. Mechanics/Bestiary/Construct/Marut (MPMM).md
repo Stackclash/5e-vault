@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Marut"]
 ---
-# [[5. Mechanics/Bestiary/Construct/Marut (MPMM).md|Marut]]
+# [[5. Mechanics\Bestiary\Construct\Marut (MPMM).md|Marut]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 173*  
 
 The nigh-unstoppable inevitables serve a singular purpose: they enforce contracts forged in the Hall of Concordance in the city of Sigil. Primus, the leader of the modrons, created maruts and other inevitables to bring order to dealings between planar folk. A wide array of disparate creatures, including yugoloths, will enter into a contract with inevitables if asked.
@@ -85,6 +85,6 @@ Inevitables care nothing for the spirit of an agreement, only the letter. A maru
 - "MPMM"
 - "MTF"
 - "SatO"
-"image": "5. Mechanics/Bestiary/Construct/token/marut.png"
+"image": "compendium/bestiary/construct/token/marut.png"
 ```
 ^statblock

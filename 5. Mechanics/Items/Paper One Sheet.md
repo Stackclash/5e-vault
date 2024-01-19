@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Paper (one sheet)"
-cost: 2 sp
+cost: 20
 ---
 # Paper (one sheet)
 *Adventuring Gear*  

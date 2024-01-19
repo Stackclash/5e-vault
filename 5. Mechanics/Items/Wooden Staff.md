@@ -7,7 +7,7 @@ tags:
 - item/property/versatile
 aliases: 
 - "Wooden Staff"
-cost: 5 gp
+cost: 500
 ---
 # Wooden Staff
 *Spellcasting Focus*  

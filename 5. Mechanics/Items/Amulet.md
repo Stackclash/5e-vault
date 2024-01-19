@@ -6,7 +6,7 @@ tags:
 - item/gear/spellcasting-focus
 aliases: 
 - "Amulet"
-cost: 5 gp
+cost: 500
 ---
 # Amulet
 *Spellcasting Focus*  

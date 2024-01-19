@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Reflection"]
 ---
-# [[5. Mechanics/Bestiary/Fey/Reflection (TCE).md|Reflection]]
+# [[5. Mechanics\Bestiary\Fey\Reflection (TCE).md|Reflection]]
 *Source: Tasha's Cauldron of Everything p. 158*  
 
 ```statblock
@@ -62,6 +62,6 @@ aliases: ["Reflection"]
   "name": "Strength Drain"
 "source":
 - "TCE"
-"image": "5. Mechanics/Bestiary/Fey/token/reflection.png"
+"image": "compendium/bestiary/fey/token/reflection.png"
 ```
 ^statblock

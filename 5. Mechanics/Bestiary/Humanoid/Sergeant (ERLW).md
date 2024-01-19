@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Sergeant"]
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Sergeant (ERLW).md|Sergeant]]
+# [[5. Mechanics\Bestiary\Humanoid\Sergeant (ERLW).md|Sergeant]]
 *Source: Eberron: Rising from the Last War p. 197*  
 
 ```statblock
@@ -42,6 +42,6 @@ aliases: ["Sergeant"]
   "name": "Spear"
 "source":
 - "ERLW"
-"image": "5. Mechanics/Bestiary/Humanoid/token/sergeant.png"
+"image": "compendium/bestiary/humanoid/token/sergeant.png"
 ```
 ^statblock

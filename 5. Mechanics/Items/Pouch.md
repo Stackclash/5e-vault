@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Pouch"
-cost: 5 sp
+cost: 50
 ---
 # Pouch
 *Adventuring Gear*  

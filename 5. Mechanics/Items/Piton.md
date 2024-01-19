@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Piton"
-cost: 5 cp
+cost: 5
 ---
 # Piton
 *Adventuring Gear*  

@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Caltrop"
-cost: 5 cp
+cost: 5
 ---
 # Caltrop
 *Adventuring Gear*  

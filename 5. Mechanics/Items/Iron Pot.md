@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Iron Pot"
-cost: 2 gp
+cost: 200
 ---
 # Iron Pot
 *Adventuring Gear*  

@@ -10,7 +10,7 @@ tags:
 - item/weapon/martial/melee
 aliases: 
 - "Halberd"
-cost: 20 gp
+cost: 2000
 ---
 # Halberd
 *Melee Weapon*  

@@ -6,7 +6,7 @@ tags:
 - item/vehicle/ship
 aliases: 
 - "Sailing Ship"
-cost: 10,000 gp
+cost: 1000000
 ---
 # Sailing Ship
 *Ship, Vehicle (water)*  

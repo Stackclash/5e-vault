@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Aberrant Spirit (4th-level Spell)"]
 ---
-# [[5. Mechanics/Bestiary/Aberration/Aberrant Spirit-4th Level Spell (TCE).md|Aberrant Spirit (4th-level Spell)]]
+# [[5. Mechanics\Bestiary\Aberration\Aberrant Spirit-4th Level Spell (TCE).md|Aberrant Spirit (4th-level Spell)]]
 *Source: Tasha's Cauldron of Everything p. 109*  
 
 ```statblock

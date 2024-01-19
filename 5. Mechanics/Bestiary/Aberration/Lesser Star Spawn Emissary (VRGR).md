@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Lesser Star Spawn Emissary"]
 ---
-# [[5. Mechanics/Bestiary/Aberration/Lesser Star Spawn Emissary (VRGR).md|Lesser Star Spawn Emissary]]
+# [[5. Mechanics\Bestiary\Aberration\Lesser Star Spawn Emissary (VRGR).md|Lesser Star Spawn Emissary]]
 *Source: Van Richten's Guide to Ravenloft p. 245*  
 
 A star spawn emissary's lesser form allows it to appear as any creature. Emissaries have no misplaced pride and just as readily appear as people, animals, or other creatures—the more unassuming, the better. Should it reveal its true form, an emissary appears as a roughly bipedal mass of agitated organs, self-cannibalizing alien orifices, and appendages suggestive of forms it has previously assumed.

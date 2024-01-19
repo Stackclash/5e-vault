@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Thug"]
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Thug.md|Thug]]
+# [[5. Mechanics\Bestiary\Humanoid\Thug.md|Thug]]
 *Source: Monster Manual p. 350, Tasha's Cauldron of Everything, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 Thugs are ruthless enforcers skilled at intimidation and violence. They work for money and have few scruples.
@@ -76,7 +76,7 @@ Thugs are ruthless enforcers skilled at intimidation and violence. They work for
 - "BMT"
 - "GHLoE"
 - "DoDk"
-"image": "5. Mechanics/Bestiary/Humanoid/token/thug.png"
+"image": "compendium/bestiary/humanoid/token/thug.png"
 ```
 ^statblock
 

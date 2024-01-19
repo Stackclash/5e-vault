@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Amethyst"
-cost: 100 gp
+cost: 10000
 ---
 # Amethyst
 *Treasure*  

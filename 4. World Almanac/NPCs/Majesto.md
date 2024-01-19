@@ -29,7 +29,7 @@ aliases: ["Majesto"]
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  "`INPUT[text:pronounced]`"
-> ![[compendium/bestiary/npc/img/060-cos05-11.webp|cover hm-sm]] 
+> ![[4. World Almanac/NPCs/img/060-cos05-11.webp|cover hm-sm]] 
 > ###### Bio
 >  |
 >  ---|---|
@@ -48,9 +48,9 @@ aliases: ["Majesto"]
 > **Current Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 # **`=this.file.name`**
-> [!info|bg-c-purple]- Overview
 TBD
 
+## Traits/Goals
 > [!column] Traits
 >> [!metadata|text-Center bg-c-gray] Personality
 >> `INPUT[text:personality]`
@@ -72,6 +72,15 @@ TBD
 
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
+
+## Acquaintances
+> [!column|dataview] Acquaintances
+>> [!metadata|text-Center bg-c-green]- Friends & Family
+>> TBD
+>
+>> [!metadata|text-Center bg-c-red]- Rivals
+>> TBD
+>
 
 ## Stats
 ```statblock
@@ -99,7 +108,7 @@ TBD
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ not made with silvered weapons"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]"
+"condition_immunities": "poisoned"
 "senses": "darkvision 120 ft., passive Perception 11"
 "languages": "Infernal, Common"
 "cr": "1"
@@ -121,25 +130,15 @@ TBD
     \ make a DC 11 Constitution saving throw, taking dice: 3d6|avg (3d6) poison\
     \ damage on a failed save, or half as much damage on a successful one."
   "name": "Sting (Bite in Beast Form)"
-- "desc": "Majesto magically turns [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]]\
-    \ until it attacks, or until its [[/5. Mechanics/Rules/Conditions.md#concentration\|concentration]]\
+- "desc": "Majesto magically turns invisible until it attacks, or until its concentration\
     \ ends (as if concentrating on a spell). Any equipment Majesto wears or carries\
-    \ is [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]] with it."
+    \ is invisible with it."
   "name": "Invisibility"
 "source":
 - "CoS"
-"image": "compendium/bestiary/npc/token/majesto.png"
+"image": "4. World Almanac/NPCs/token/majesto.png"
 ```
 ^statblock
-
-## Acquaintances
-> [!column|dataview] Acquaintances
->> [!metadata|text-Center bg-c-green]- Friends & Family
->> TBD
->
->> [!metadata|text-Center bg-c-red]- Rivals
->> TBD
->
 
 ## History
 TBD

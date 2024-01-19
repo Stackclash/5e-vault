@@ -7,7 +7,7 @@ tags:
 - item/weapon/simple/melee
 aliases: 
 - "Javelin"
-cost: 5 sp
+cost: 50
 ---
 # Javelin
 *Melee Weapon*  

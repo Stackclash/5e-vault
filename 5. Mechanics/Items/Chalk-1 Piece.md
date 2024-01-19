@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Chalk (1 piece)"
-cost: 1 cp
+cost: 1
 ---
 # Chalk (1 piece)
 *Adventuring Gear*  

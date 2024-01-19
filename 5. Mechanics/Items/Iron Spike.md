@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Iron Spike"
-cost: 1 sp
+cost: 10
 ---
 # Iron Spike
 *Adventuring Gear*  

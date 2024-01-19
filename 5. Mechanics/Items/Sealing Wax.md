@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Sealing Wax"
-cost: 5 sp
+cost: 50
 ---
 # Sealing Wax
 *Adventuring Gear*  

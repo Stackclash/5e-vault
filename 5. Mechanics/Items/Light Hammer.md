@@ -8,7 +8,7 @@ tags:
 - item/weapon/simple/melee
 aliases: 
 - "Light Hammer"
-cost: 2 gp
+cost: 200
 ---
 # Light Hammer
 *Melee Weapon*  

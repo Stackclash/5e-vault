@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Miner's Pick"
-cost: 2 gp
+cost: 200
 ---
 # Miner's Pick
 *Adventuring Gear*  

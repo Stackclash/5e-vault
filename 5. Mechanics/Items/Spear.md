@@ -8,7 +8,7 @@ tags:
 - item/weapon/simple/melee
 aliases: 
 - "Spear"
-cost: 1 gp
+cost: 100
 ---
 # Spear
 *Melee Weapon*  

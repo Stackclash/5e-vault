@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Kraken Priest"]
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Kraken Priest (MPMM).md|Kraken Priest]]
+# [[5. Mechanics\Bestiary\Monstrosity\Kraken Priest (MPMM).md|Kraken Priest]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 167*  
 
 A kraken can seem godlike to folk who have faced its fury. Those who mistake its might for divine power and those who seek to appease the monster through veneration are sometimes rewarded with power, to serve thereafter as kraken priests.

@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Black Abishai"]
 ---
-# [[5. Mechanics/Bestiary/Fiend/Black Abishai (MPMM).md|Black Abishai]]
+# [[5. Mechanics\Bestiary\Fiend\Black Abishai (MPMM).md|Black Abishai]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 38*  
 
 Expert assassins and infiltrators, black abishais can weave shadows to mask their presence, allowing them to reach a location where they can deliver a fatal strike to their targets.

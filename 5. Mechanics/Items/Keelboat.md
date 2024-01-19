@@ -6,7 +6,7 @@ tags:
 - item/vehicle/ship
 aliases: 
 - "Keelboat"
-cost: 3,000 gp
+cost: 300000
 ---
 # Keelboat
 *Ship, Vehicle (water)*  

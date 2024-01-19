@@ -12,7 +12,7 @@ tags:
 statblock: inline
 aliases: ["Water Elemental"]
 ---
-# [[5. Mechanics/Bestiary/Elemental/Water Elemental.md|Water Elemental]]
+# [[5. Mechanics\Bestiary\Elemental\Water Elemental.md|Water Elemental]]
 *Source: Monster Manual p. 125, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 A water elemental is a cresting wave that rolls across the ground, becoming nearly invisible at it courses through a larger body of water. It engulfs creatures that stand against it, filling their mouths and lungs as easily as it smothers flame.

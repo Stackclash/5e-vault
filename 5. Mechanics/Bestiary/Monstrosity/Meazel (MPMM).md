@@ -17,7 +17,7 @@ tags:
 statblock: inline
 aliases: ["Meazel"]
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Meazel (MPMM).md|Meazel]]
+# [[5. Mechanics\Bestiary\Monstrosity\Meazel (MPMM).md|Meazel]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 177*  
 
 Meazels are malicious hermits who fled to the Shadowfell to escape their mortal existence and contemplate their misery. There the shadows transformed them, and their bitterness made them twisted and cruel. Now hate burns in their hearts, and they resent any intrusion into their suffering, waylaying travelers who venture too close to their lairs.
@@ -80,7 +80,7 @@ Any creatures meazels draw through the shadows are cursed by the meazels' balefu
 "source":
 - "MPMM"
 - "MTF"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/meazel.png"
+"image": "compendium/bestiary/monstrosity/token/meazel.png"
 ```
 ^statblock
 

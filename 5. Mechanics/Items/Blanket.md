@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Blanket"
-cost: 5 sp
+cost: 50
 ---
 # Blanket
 *Adventuring Gear*  

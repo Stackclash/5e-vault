@@ -6,7 +6,7 @@ tags:
 - item/weapon/simple/melee
 aliases: 
 - "Mace"
-cost: 5 gp
+cost: 500
 ---
 # Mace
 *Melee Weapon*  

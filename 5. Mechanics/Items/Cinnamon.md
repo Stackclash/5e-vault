@@ -6,7 +6,7 @@ tags:
 - item/gear/trade-good
 aliases: 
 - "Cinnamon"
-cost: 2 gp
+cost: 200
 ---
 # Cinnamon
 *Trade Good*  

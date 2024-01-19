@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Grick"]
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Grick.md|Grick]]
+# [[5. Mechanics\Bestiary\Monstrosity\Grick.md|Grick]]
 *Source: Monster Manual p. 173, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 The wormlike grick waits unseen, blending in with the rock of the caves and caverns it haunts. Only when prey comes near does it rear up, its four barbed tentacles unfurling to reveal its hungry, snapping beak.
@@ -73,7 +73,7 @@ Over time, grick lairs accumulate the cast-off possessions of intelligent prey, 
 - "DSotDQ"
 - "KftGV"
 - "PaBTSO"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/grick.png"
+"image": "compendium/bestiary/monstrosity/token/grick.png"
 ```
 ^statblock
 

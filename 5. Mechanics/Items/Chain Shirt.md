@@ -6,7 +6,7 @@ tags:
 - item/armor/medium
 aliases: 
 - "Chain Shirt"
-cost: 50 gp
+cost: 5000
 ---
 # Chain Shirt
 *Medium Armor*  

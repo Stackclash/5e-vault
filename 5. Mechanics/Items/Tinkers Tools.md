@@ -6,7 +6,7 @@ tags:
 - item/gear/artisans-tools
 aliases: 
 - "Tinker's Tools"
-cost: 50 gp
+cost: 5000
 ---
 # Tinker's Tools
 *Artisan's Tools*  

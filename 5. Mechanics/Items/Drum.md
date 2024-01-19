@@ -6,7 +6,7 @@ tags:
 - item/gear/instrument
 aliases: 
 - "Drum"
-cost: 6 gp
+cost: 600
 ---
 # Drum
 *Instrument*  

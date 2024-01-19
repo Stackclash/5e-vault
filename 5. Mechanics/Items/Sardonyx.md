@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Sardonyx"
-cost: 50 gp
+cost: 5000
 ---
 # Sardonyx
 *Treasure*  

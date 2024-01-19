@@ -6,7 +6,7 @@ tags:
 - item/gear/instrument
 aliases: 
 - "Bagpipes"
-cost: 30 gp
+cost: 3000
 ---
 # Bagpipes
 *Instrument*  

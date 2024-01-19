@@ -15,7 +15,7 @@ tags:
 statblock: inline
 aliases: ["Bandit"]
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Bandit.md|Bandit]]
+# [[5. Mechanics\Bestiary\Humanoid\Bandit.md|Bandit]]
 *Source: Monster Manual p. 343, Eberron: Rising from the Last War, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 Bandits rove in gangs and are sometimes led by thugs, veterans, or spellcasters. Not all bandits are evil. Oppression, drought, disease, or famine can often drive otherwise honest folk to a life of banditry.
@@ -77,7 +77,7 @@ Pirates are bandits of the high seas. They might be freebooters interested only 
 - "SatO"
 - "BMT"
 - "DoDk"
-"image": "5. Mechanics/Bestiary/Humanoid/token/bandit.png"
+"image": "compendium/bestiary/humanoid/token/bandit.png"
 ```
 ^statblock
 

@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Robes"
-cost: 1 gp
+cost: 100
 ---
 # Robes
 *Adventuring Gear*  

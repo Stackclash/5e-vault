@@ -6,7 +6,7 @@ tags:
 - item/gear/spellcasting-focus
 aliases: 
 - "Crystal"
-cost: 10 gp
+cost: 1000
 ---
 # Crystal
 *Spellcasting Focus*  

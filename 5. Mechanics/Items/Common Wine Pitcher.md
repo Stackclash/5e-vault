@@ -6,7 +6,7 @@ tags:
 - item/gear/food-and-drink
 aliases: 
 - "Common Wine (Pitcher)"
-cost: 2 sp
+cost: 20
 ---
 # Common Wine (Pitcher)
 *Food and Drink*  

@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Rhinoceros"]
 ---
-# [[5. Mechanics/Bestiary/Beast/Rhinoceros.md|Rhinoceros]]
+# [[5. Mechanics\Bestiary\Beast\Rhinoceros.md|Rhinoceros]]
 *Source: Monster Manual p. 336. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -48,7 +48,7 @@ aliases: ["Rhinoceros"]
 - "WDH"
 - "IDRotF"
 - "ToFW"
-"image": "5. Mechanics/Bestiary/Beast/token/rhinoceros.png"
+"image": "compendium/bestiary/beast/token/rhinoceros.png"
 ```
 ^statblock
 

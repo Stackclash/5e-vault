@@ -6,7 +6,7 @@ tags:
 - item/gear/mount
 aliases: 
 - "Mule"
-cost: 8 gp
+cost: 800
 ---
 # Mule
 *Mount*  

@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Vistana Bandit Captain"]
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Vistana Bandit Captain (COS).md|Vistana Bandit Captain]]
+# [[5. Mechanics\Bestiary\Humanoid\Vistana Bandit Captain (COS).md|Vistana Bandit Captain]]
 *Source: Curse of Strahd p. 28*  
 
 ```statblock

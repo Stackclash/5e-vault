@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Embroidered silk handkerchief"
-cost: 25 gp
+cost: 2500
 ---
 # Embroidered silk handkerchief
 *Treasure*  

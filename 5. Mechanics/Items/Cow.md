@@ -6,7 +6,7 @@ tags:
 - item/gear/trade-good
 aliases: 
 - "Cow"
-cost: 10 gp
+cost: 1000
 ---
 # Cow
 *Trade Good*  

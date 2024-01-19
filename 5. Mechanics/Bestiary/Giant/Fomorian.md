@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Fomorian"]
 ---
-# [[5. Mechanics/Bestiary/Giant/Fomorian.md|Fomorian]]
+# [[5. Mechanics\Bestiary\Giant\Fomorian.md|Fomorian]]
 *Source: Monster Manual p. 136*  
 
 The most hideous and wicked of all giantkind are the godless fomorians, whose deformed bodies reflect their vile demeanors. Some have facial features randomly distributed around their misshapen, warty heads. Others have limbs of grossly different sizes and shapes, or emit terrible howls each time they draw breath through misshapen mouths. Their wretched appearance rarely evokes sympathy, however, for the fomorians brought their doom upon themselves with the evil that rules their hearts and minds.
@@ -81,7 +81,7 @@ Fomorians can pass their curse onto others using a power called the evil eye-a l
 - "PaBTSO"
 - "SatO"
 - "ToFW"
-"image": "5. Mechanics/Bestiary/Giant/token/fomorian.png"
+"image": "compendium/bestiary/giant/token/fomorian.png"
 ```
 ^statblock
 

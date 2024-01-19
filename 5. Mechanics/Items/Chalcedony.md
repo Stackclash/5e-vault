@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Chalcedony"
-cost: 50 gp
+cost: 5000
 ---
 # Chalcedony
 *Treasure*  

@@ -6,7 +6,7 @@ tags:
 - item/gear/spellcasting-focus
 aliases: 
 - "Wand"
-cost: 10 gp
+cost: 1000
 ---
 # Wand
 *Spellcasting Focus*  

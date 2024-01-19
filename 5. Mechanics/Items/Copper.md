@@ -6,7 +6,7 @@ tags:
 - item/gear/trade-good
 aliases: 
 - "Copper"
-cost: 5 sp
+cost: 50
 ---
 # Copper
 *Trade Good*  

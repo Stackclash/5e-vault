@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Bell"
-cost: 1 gp
+cost: 100
 ---
 # Bell
 *Adventuring Gear*  

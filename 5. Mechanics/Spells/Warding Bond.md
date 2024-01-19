@@ -12,6 +12,7 @@ tags:
 aliases: ["Warding Bond"]
 ---
 # Warding Bond
+%%-- Embedded content starts on the next line. --%%
 *2nd-level, Abjuration*  
 
 - **Casting time:** 1 action

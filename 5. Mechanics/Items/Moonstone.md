@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Moonstone"
-cost: 50 gp
+cost: 5000
 ---
 # Moonstone
 *Treasure*  

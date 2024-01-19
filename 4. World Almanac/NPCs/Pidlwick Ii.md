@@ -29,7 +29,7 @@ aliases: ["Pidlwick II"]
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  "`INPUT[text:pronounced]`"
-> ![[compendium/bestiary/npc/img/pidlwick-ii.webp|cover hm-sm]] 
+> ![[4. World Almanac/NPCs/img/pidlwick-ii.webp|cover hm-sm]] 
 > ###### Bio
 >  |
 >  ---|---|
@@ -48,7 +48,6 @@ aliases: ["Pidlwick II"]
 > **Current Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 # **`=this.file.name`**
-> [!info|bg-c-purple]- Overview
 After her husband died in battle, Duchess Dorfniya Dilisnya set her sights on becoming Count Strahd von Zarovich's bride, but she failed to win his love. Her visits to the castle were nonetheless frequent, and she never traveled without her fool, the delightful Pidlwick. The little man was like a ray of sunshine in Castle Ravenloft, and though he failed to amuse Strahd, he delighted Tatyana and Sergei with his jokes and gambols. As a result, Strahd didn't object whenever Pidlwick and the duchess came to visit.
 
 Eager to please and desiring to return the courtesy, the duchess commissioned the legendary toymaker Fritz von Weerg to build a clockwork effigy of Pidlwick as a gift for Strahd's family. Although the duchess's heart was in the right place, the effigy didn't have Pidlwick's abilities, and it failed to entertain anyone. Even though Pidlwick himself had spent months training it, the effigy couldn't speak, and its movements were more awkward than amusing.
@@ -83,6 +82,7 @@ Pidlwick II is basically an oversized toy - a 4-foot-tall mechanism stuffed with
 
 "When I'm upset, I do bad things."
 
+## Traits/Goals
 > [!column] Traits
 >> [!metadata|text-Center bg-c-gray] Personality
 >> `INPUT[text:personality]`
@@ -105,6 +105,15 @@ Pidlwick II is basically an oversized toy - a 4-foot-tall mechanism stuffed with
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
 
+## Acquaintances
+> [!column|dataview] Acquaintances
+>> [!metadata|text-Center bg-c-green]- Friends & Family
+>> TBD
+>
+>> [!metadata|text-Center bg-c-red]- Rivals
+>> TBD
+>
+
 ## Stats
 ```statblock
 "name": "Pidlwick II (CoS)"
@@ -125,8 +134,7 @@ Pidlwick II is basically an oversized toy - a 4-foot-tall mechanism stuffed with
 "skillsaves":
   "Performance": !!int "2"
 "damage_immunities": "poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#petrified\|petrified]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]"
+"condition_immunities": "paralyzed, petrified, poisoned"
 "senses": "passive Perception 11"
 "languages": "understands Common but doesn't speak and can't read or write"
 "cr": "1/4"
@@ -143,18 +151,9 @@ Pidlwick II is basically an oversized toy - a 4-foot-tall mechanism stuffed with
   "name": "Dart"
 "source":
 - "CoS"
-"image": "compendium/bestiary/npc/token/pidlwick-ii.png"
+"image": "4. World Almanac/NPCs/token/pidlwick-ii.png"
 ```
 ^statblock
-
-## Acquaintances
-> [!column|dataview] Acquaintances
->> [!metadata|text-Center bg-c-green]- Friends & Family
->> TBD
->
->> [!metadata|text-Center bg-c-red]- Rivals
->> TBD
->
 
 ## History
 TBD

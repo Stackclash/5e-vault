@@ -12,6 +12,7 @@ tags:
 aliases: ["Mass Healing Word"]
 ---
 # Mass Healing Word
+%%-- Embedded content starts on the next line. --%%
 *3rd-level, Evocation*  
 
 - **Casting time:** 1 bonus

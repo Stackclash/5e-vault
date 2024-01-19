@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Camel"]
 ---
-# [[5. Mechanics/Bestiary/Beast/Camel.md|Camel]]
+# [[5. Mechanics\Bestiary\Beast\Camel.md|Camel]]
 *Source: Monster Manual p. 320. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -40,7 +40,7 @@ aliases: ["Camel"]
 - "MM"
 - "GoS"
 - "CM"
-"image": "5. Mechanics/Bestiary/Beast/token/camel.png"
+"image": "compendium/bestiary/beast/token/camel.png"
 ```
 ^statblock
 

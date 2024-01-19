@@ -15,7 +15,7 @@ tags:
 statblock: inline
 aliases: ["Poisonous Snake"]
 ---
-# [[5. Mechanics/Bestiary/Beast/Poisonous Snake.md|Poisonous Snake]]
+# [[5. Mechanics\Bestiary\Beast\Poisonous Snake.md|Poisonous Snake]]
 *Source: Monster Manual p. 334. Available in the SRD and the Basic Rules.*  
 
 ```statblock

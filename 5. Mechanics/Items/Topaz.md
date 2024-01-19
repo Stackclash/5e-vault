@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Topaz"
-cost: 500 gp
+cost: 50000
 ---
 # Topaz
 *Treasure*  

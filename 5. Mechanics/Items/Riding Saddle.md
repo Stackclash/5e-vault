@@ -6,7 +6,7 @@ tags:
 - item/gear/tack-and-harness
 aliases: 
 - "Riding Saddle"
-cost: 10 gp
+cost: 1000
 ---
 # Riding Saddle
 *Tack and Harness*  

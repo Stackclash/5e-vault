@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Oil (flask)"
-cost: 1 sp
+cost: 10
 ---
 # Oil (flask)
 *Adventuring Gear*  

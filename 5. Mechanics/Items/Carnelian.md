@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Carnelian"
-cost: 50 gp
+cost: 5000
 ---
 # Carnelian
 *Treasure*  

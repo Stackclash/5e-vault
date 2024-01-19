@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Embroidered glove set with jewel chips"
-cost: 2,500 gp
+cost: 250000
 ---
 # Embroidered glove set with jewel chips
 *Treasure*  

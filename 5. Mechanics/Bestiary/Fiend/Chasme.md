@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Chasme"]
 ---
-# [[5. Mechanics/Bestiary/Fiend/Chasme.md|Chasme]]
+# [[5. Mechanics\Bestiary\Fiend\Chasme.md|Chasme]]
 *Source: Monster Manual p. 57*  
 
 This loathsome demon resembles an unspeakable crossing of humanoid and fly. A chasme shuffles about on four spindly legs that can find purchase on walls and ceilings. A droning sound precedes the approach of a chasme, inflicting foes with a terrible lethargy that leaves them open to attack.
@@ -242,6 +242,6 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - "BGDIA"
 - "CRCotN"
 - "KftGV"
-"image": "5. Mechanics/Bestiary/Fiend/token/chasme.png"
+"image": "compendium/bestiary/fiend/token/chasme.png"
 ```
 ^statblock

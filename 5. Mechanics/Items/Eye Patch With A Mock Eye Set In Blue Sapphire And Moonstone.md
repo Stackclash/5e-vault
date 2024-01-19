@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Eye patch with a mock eye set in blue sapphire and moonstone"
-cost: 2,500 gp
+cost: 250000
 ---
 # Eye patch with a mock eye set in blue sapphire and moonstone
 *Treasure*  

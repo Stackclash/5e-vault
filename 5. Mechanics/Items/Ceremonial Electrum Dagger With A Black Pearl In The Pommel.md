@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Ceremonial electrum dagger with a black pearl in the pommel"
-cost: 750 gp
+cost: 75000
 ---
 # Ceremonial electrum dagger with a black pearl in the pommel
 *Treasure*  

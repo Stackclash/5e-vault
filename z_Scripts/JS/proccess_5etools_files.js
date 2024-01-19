@@ -61,7 +61,7 @@ const config = {
                 let filePath = path.parse(linkPath).dir
                 let fileName = path.parse(linkPath).name
                 let separator = filePath.match(/[\/\\]/)
-                let linkPipe = /bestiary/i.test(file.path) ? '|' : '\\|'
+                let linkPipe = /bestiary|npc/i.test(file.path) ? '|' : '\\|' // Prevents breaking statblocks
 
                 let filePathRule = config.rules.filter(rule => rule.name === 'Update File Path')[0]
                 let fileNameRule = config.rules.filter(rule => rule.name === 'Update File Name')[0]
@@ -104,7 +104,7 @@ const config = {
             enabled: true,
             name: 'Update Token Path for Bestiary',
             ignore: function(file) {
-                return !/bestiary/i.test(file.path) || ['.jpg', '.jpeg', '.png', '.webp'].includes(file.fileExtension)
+                return !/bestiary/i.test(file.path) || !/npc/i.test(file.path) || ['.jpg', '.jpeg', '.png', '.webp'].includes(file.fileExtension)
             },
             target: 'content',
             regex: /"image": "([\w\/]+)(\/[img|token]+\/[\w]+\.[\w]+)"/g,
@@ -114,6 +114,18 @@ const config = {
                 imagePath = filePathRule.process({relativePath: imagePath})
 
                 return `"image": "${imagePath}${restOfPath}"`
+            }
+        },
+        {
+            enabled: true,
+            name: 'Update NPC image',
+            ignore: function(file) {
+                return !/npc/i.test(file.path) || ['.jpg', '.jpeg', '.png', '.webp'].includes(file.fileExtension)
+            },
+            target: 'content',
+            regex: /compendium([\\\/])bestiary([\\\/])npc/g,
+            process: function(file, oldText, separator) {
+                return `4. World Almanac${separator}NPCs`
             }
         }
     ]

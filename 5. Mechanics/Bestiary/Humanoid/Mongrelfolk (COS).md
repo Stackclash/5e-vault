@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Mongrelfolk"]
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Mongrelfolk (COS).md|Mongrelfolk]]
+# [[5. Mechanics\Bestiary\Humanoid\Mongrelfolk (COS).md|Mongrelfolk]]
 *Source: Curse of Strahd p. 234*  
 
 Mongrelfolk are humanoids that have undergone, or whose ancestors underwent, horrific magical transformations, to the extent that they retain only a fraction of their original being. Their humanoid bodies incorporate the features of various beasts. For example, one mongrelfolk might have the basic body shape of a dwarf with a head that combines the features of a cat and a lizard, one arm that ends in a crab's pincer, and one leg that ends in a cloven hoof. Another might have the skin and horns of a cow, the eyes of a spider, frog's legs, and a scaly lizard's tail. Each mongrelfolk's mad combination of humanoid and animal forms results in its having a slow, awkward gait.
@@ -93,6 +93,6 @@ Mongrelfolk can breed with other humanoids, but nearly all children born to such
   "name": "Dagger"
 "source":
 - "CoS"
-"image": "5. Mechanics/Bestiary/Humanoid/token/mongrelfolk.png"
+"image": "compendium/bestiary/humanoid/token/mongrelfolk.png"
 ```
 ^statblock

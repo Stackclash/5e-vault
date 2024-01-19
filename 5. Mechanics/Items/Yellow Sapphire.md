@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Yellow Sapphire"
-cost: 1,000 gp
+cost: 100000
 ---
 # Yellow Sapphire
 *Treasure*  

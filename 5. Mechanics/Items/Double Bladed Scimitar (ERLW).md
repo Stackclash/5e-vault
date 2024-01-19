@@ -9,7 +9,7 @@ tags:
 - item/weapon/martial/melee
 aliases: 
 - "Double-Bladed Scimitar"
-cost: 100 gp
+cost: 10000
 ---
 # Double-Bladed Scimitar
 *Melee Weapon*  

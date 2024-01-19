@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Peridot"
-cost: 500 gp
+cost: 50000
 ---
 # Peridot
 *Treasure*  

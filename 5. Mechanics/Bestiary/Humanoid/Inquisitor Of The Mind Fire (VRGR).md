@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Inquisitor of the Mind Fire"]
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Inquisitor Of The Mind Fire (VRGR).md|Inquisitor of the Mind Fire]]
+# [[5. Mechanics\Bestiary\Humanoid\Inquisitor Of The Mind Fire (VRGR).md|Inquisitor of the Mind Fire]]
 *Source: Van Richten's Guide to Ravenloft p. 248*  
 
 "Evil lurks everywhere. With our minds, we will unearth it, we will plumb its depths, and we will annihilate it." With those words, the psychically gifted priest Ulmed founded the Ulmist Inquisition, an order of psionic inquisitors that seeks to discover the wickedness hiding in people's souls.

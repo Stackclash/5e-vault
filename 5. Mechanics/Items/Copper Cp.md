@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Copper (cp)"
-cost: 1 cp
+cost: 1
 ---
 # Copper (cp)
 *Treasure*  

@@ -6,7 +6,7 @@ tags:
 - item/gear/artisans-tools
 aliases: 
 - "Leatherworker's Tools"
-cost: 5 gp
+cost: 500
 ---
 # Leatherworker's Tools
 *Artisan's Tools*  

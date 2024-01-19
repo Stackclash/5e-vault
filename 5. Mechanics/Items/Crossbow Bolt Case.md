@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Crossbow Bolt Case"
-cost: 1 gp
+cost: 100
 ---
 # Crossbow Bolt Case
 *Adventuring Gear*  

@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Scholar's Pack"
-cost: 40 gp
+cost: 4000
 ---
 # Scholar's Pack
 *Adventuring Gear*  

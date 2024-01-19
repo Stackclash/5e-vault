@@ -17,7 +17,7 @@ tags:
 statblock: inline
 aliases: ["Veteran"]
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Veteran.md|Veteran]]
+# [[5. Mechanics\Bestiary\Humanoid\Veteran.md|Veteran]]
 *Source: Monster Manual p. 350, Curse of Strahd, Eberron: Rising from the Last War. Available in the SRD.*  
 
 Veterans are professional fighters that take up arms for pay or to protect something they believe in or value. Their ranks include soldiers retired from long service and warriors who never served anyone but themselves.
@@ -90,7 +90,7 @@ Veterans are professional fighters that take up arms for pay or to protect somet
 - "ToFW"
 - "BMT"
 - "DoDk"
-"image": "5. Mechanics/Bestiary/Humanoid/token/veteran.png"
+"image": "compendium/bestiary/humanoid/token/veteran.png"
 ```
 ^statblock
 

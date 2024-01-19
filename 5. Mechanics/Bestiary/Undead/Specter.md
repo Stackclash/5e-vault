@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Specter"]
 ---
-# [[5. Mechanics/Bestiary/Undead/Specter.md|Specter]]
+# [[5. Mechanics\Bestiary\Undead\Specter.md|Specter]]
 *Source: Monster Manual p. 279, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD.*  
 
 A specter is the angry, unfettered spirit of a humanoid that has been prevented from passing to the afterlife. Specters no longer possess connections to who or what they were, yet are condemned to walk the world forever. Some are spawned when dark magic or the touch of a wraith rips a soul from a living body.
@@ -107,7 +107,7 @@ A specter doesn't require air, food, drink, or sleep.
 - "SatO"
 - "ToFW"
 - "BMT"
-"image": "5. Mechanics/Bestiary/Undead/token/specter.png"
+"image": "compendium/bestiary/undead/token/specter.png"
 ```
 ^statblock
 

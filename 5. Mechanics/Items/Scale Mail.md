@@ -6,7 +6,7 @@ tags:
 - item/armor/medium
 aliases: 
 - "Scale Mail"
-cost: 50 gp
+cost: 5000
 ---
 # Scale Mail
 *Medium Armor*  

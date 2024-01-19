@@ -9,7 +9,7 @@ tags:
 - item/weapon/martial/melee
 aliases: 
 - "Whip"
-cost: 2 gp
+cost: 200
 ---
 # Whip
 *Melee Weapon*  

@@ -8,7 +8,7 @@ tags:
 - item/weapon/martial/melee
 aliases: 
 - "Rapier"
-cost: 25 gp
+cost: 2500
 ---
 # Rapier
 *Melee Weapon*  

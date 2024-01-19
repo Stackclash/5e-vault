@@ -6,7 +6,7 @@ tags:
 - item/armor/heavy
 aliases: 
 - "Chain Mail"
-cost: 75 gp
+cost: 7500
 ---
 # Chain Mail
 *Heavy Armor*  

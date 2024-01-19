@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Quipper"]
 ---
-# [[5. Mechanics/Bestiary/Beast/Quipper.md|Quipper]]
+# [[5. Mechanics\Bestiary\Beast\Quipper.md|Quipper]]
 *Source: Monster Manual p. 335. Available in the SRD and the Basic Rules.*  
 
 A quipper is a carnivorous fish with sharp teeth.
@@ -56,7 +56,7 @@ Quippers can adapt to any aquatic environment, including cold subterranean lakes
 - "CRCotN"
 - "PSA"
 - "ToFW"
-"image": "5. Mechanics/Bestiary/Beast/token/quipper.png"
+"image": "compendium/bestiary/beast/token/quipper.png"
 ```
 ^statblock
 

@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Fine Clothes"
-cost: 15 gp
+cost: 1500
 ---
 # Fine Clothes
 *Adventuring Gear*  

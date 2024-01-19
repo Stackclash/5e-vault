@@ -13,15 +13,14 @@
   "folder-note-plugin",
   "obsidian-custom-frames",
   "obsidian-git",
-  "dbfolder",
   "image-window",
   "obsidian-image-toolkit",
   "table-editor-obsidian",
   "supercharged-links-obsidian",
   "obsidian-kanban",
-  "fantasy-calendar",
   "actions-uri",
   "aprils-automatic-timelines",
   "buttons",
-  "obsidian-meta-bind-plugin"
+  "obsidian-meta-bind-plugin",
+  "dbfolder"
 ]

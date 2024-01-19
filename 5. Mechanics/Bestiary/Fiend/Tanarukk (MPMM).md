@@ -12,7 +12,7 @@ tags:
 statblock: inline
 aliases: ["Tanarukk"]
 ---
-# [[5. Mechanics/Bestiary/Fiend/Tanarukk (MPMM).md|Tanarukk]]
+# [[5. Mechanics\Bestiary\Fiend\Tanarukk (MPMM).md|Tanarukk]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 240*  
 
 > [!quote]- A quote from Tasha  
@@ -72,7 +72,7 @@ Although tanarukks are valued as fearsome fighters, they are a threat to their a
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Fiend/token/tanarukk.png"
+"image": "compendium/bestiary/fiend/token/tanarukk.png"
 ```
 ^statblock
 

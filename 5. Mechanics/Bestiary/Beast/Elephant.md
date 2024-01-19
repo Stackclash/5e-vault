@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Elephant"]
 ---
-# [[5. Mechanics/Bestiary/Beast/Elephant.md|Elephant]]
+# [[5. Mechanics\Bestiary\Beast\Elephant.md|Elephant]]
 *Source: Monster Manual p. 322. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -51,7 +51,7 @@ aliases: ["Elephant"]
 - "ToA"
 - "SatO"
 - "ToFW"
-"image": "5. Mechanics/Bestiary/Beast/token/elephant.png"
+"image": "compendium/bestiary/beast/token/elephant.png"
 ```
 ^statblock
 

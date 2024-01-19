@@ -6,7 +6,7 @@ tags:
 - item/vehicle
 aliases: 
 - "Carriage"
-cost: 100 gp
+cost: 10000
 ---
 # Carriage
 *Vehicle (land)*  

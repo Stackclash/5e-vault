@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Traveler's Clothes"
-cost: 2 gp
+cost: 200
 ---
 # Traveler's Clothes
 *Adventuring Gear*  

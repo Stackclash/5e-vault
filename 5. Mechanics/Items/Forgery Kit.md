@@ -6,7 +6,7 @@ tags:
 - item/gear/tools
 aliases: 
 - "Forgery Kit"
-cost: 15 gp
+cost: 1500
 ---
 # Forgery Kit
 *Tools*  

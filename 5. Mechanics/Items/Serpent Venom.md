@@ -7,7 +7,7 @@ tags:
 - item/property/poison
 aliases: 
 - "Serpent Venom"
-cost: 200 gp
+cost: 20000
 ---
 # Serpent Venom
 *Adventuring Gear, poison*  

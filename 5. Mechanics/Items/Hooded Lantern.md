@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Hooded Lantern"
-cost: 5 gp
+cost: 500
 ---
 # Hooded Lantern
 *Adventuring Gear*  

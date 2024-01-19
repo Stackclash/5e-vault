@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Eye Agate"
-cost: 10 gp
+cost: 1000
 ---
 # Eye Agate
 *Treasure*  

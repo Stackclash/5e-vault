@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 statblock: inline
 pronounced: 
-race: "[[5. Mechanics/Races/Human.md|Human]]"
+race: 
 sex: 
 age: 
 alignment: 
@@ -10,7 +10,7 @@ condition: healthy
 occupation: 
 group: 
 religions: 
-location: "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
+location: 
 personality: 
 ideal: 
 bond: 
@@ -19,12 +19,11 @@ goals:
 likes: 
 dislikes: 
 tags:
-  - compendium/src/5e/cos
-  - monster/cr/0
-  - monster/size/medium
-  - monster/type/humanoid/human
-aliases:
-  - Milivoj
+- compendium/src/5e/cos
+- monster/cr/0
+- monster/size/medium
+- monster/type/humanoid/human
+aliases: ["Milivoj"]
 ---
 
 > [!infobox]
@@ -49,9 +48,9 @@ aliases:
 > **Current Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 # **`=this.file.name`**
-> [!info|bg-c-purple]- Overview
 TBD
 
+## Traits/Goals
 > [!column] Traits
 >> [!metadata|text-Center bg-c-gray] Personality
 >> `INPUT[text:personality]`
@@ -73,6 +72,15 @@ TBD
 
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
+
+## Acquaintances
+> [!column|dataview] Acquaintances
+>> [!metadata|text-Center bg-c-green]- Friends & Family
+>> TBD
+>
+>> [!metadata|text-Center bg-c-red]- Rivals
+>> TBD
+>
 
 ## Stats
 ```statblock
@@ -104,15 +112,6 @@ TBD
 "image": "4. World Almanac/NPCs/token/milivoj.png"
 ```
 ^statblock
-
-## Acquaintances
-> [!column|dataview] Acquaintances
->> [!metadata|text-Center bg-c-green]- Friends & Family
->> TBD
->
->> [!metadata|text-Center bg-c-red]- Rivals
->> TBD
->
 
 ## History
 TBD

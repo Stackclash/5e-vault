@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Barrel"
-cost: 2 gp
+cost: 200
 ---
 # Barrel
 *Adventuring Gear*  

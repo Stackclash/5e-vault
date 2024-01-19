@@ -6,7 +6,7 @@ tags:
 - item/armor/medium
 aliases: 
 - "Breastplate"
-cost: 400 gp
+cost: 40000
 ---
 # Breastplate
 *Medium Armor*  

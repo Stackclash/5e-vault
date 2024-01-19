@@ -15,6 +15,7 @@ tags:
 aliases: ["Mass Cure Wounds"]
 ---
 # Mass Cure Wounds
+%%-- Embedded content starts on the next line. --%%
 *5th-level, Evocation*  
 
 - **Casting time:** 1 action

@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Otyugh"]
 ---
-# [[5. Mechanics/Bestiary/Aberration/Otyugh.md|Otyugh]]
+# [[5. Mechanics\Bestiary\Aberration\Otyugh.md|Otyugh]]
 *Source: Monster Manual p. 248. Available in the SRD.*  
 
 An otyugh is a grotesque, bulbous creature borne along on three sturdy legs, its eyes and nose set along a vine-like stalk that snakes from the top of its bloated body. Two rubbery tentacles end in spiky, leaf-like appendages that the otyugh uses to shovel food into its gaping maw.
@@ -95,7 +95,7 @@ Sentient subterranean beings can coexist with otyughs, employing them as garbage
 - "PaBTSO"
 - "ToFW"
 - "DoDk"
-"image": "5. Mechanics/Bestiary/Aberration/token/otyugh.png"
+"image": "compendium/bestiary/aberration/token/otyugh.png"
 ```
 ^statblock
 

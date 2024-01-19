@@ -7,7 +7,7 @@ tags:
 - item/property/poison
 aliases: 
 - "Oil of Taggit"
-cost: 400 gp
+cost: 40000
 ---
 # Oil of Taggit
 *Adventuring Gear, poison*  

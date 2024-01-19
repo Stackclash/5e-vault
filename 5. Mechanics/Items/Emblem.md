@@ -6,7 +6,7 @@ tags:
 - item/gear/spellcasting-focus
 aliases: 
 - "Emblem"
-cost: 5 gp
+cost: 500
 ---
 # Emblem
 *Spellcasting Focus*  

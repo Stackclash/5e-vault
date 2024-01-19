@@ -6,7 +6,7 @@ tags:
 - item/gear/mount
 aliases: 
 - "Mastiff"
-cost: 25 gp
+cost: 2500
 ---
 # Mastiff
 *Mount*  

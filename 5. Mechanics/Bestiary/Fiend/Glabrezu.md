@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Glabrezu"]
 ---
-# [[5. Mechanics/Bestiary/Fiend/Glabrezu.md|Glabrezu]]
+# [[5. Mechanics\Bestiary\Fiend\Glabrezu.md|Glabrezu]]
 *Source: Monster Manual p. 58. Available in the SRD.*  
 
 A glabrezu takes great pleasure in destroying mortals through temptation, and these creatures are among the few demons to offer their service to creatures foolish enough to summon them.
@@ -246,6 +246,6 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - "SatO"
 - "BMT"
 - "DoDk"
-"image": "5. Mechanics/Bestiary/Fiend/token/glabrezu.png"
+"image": "compendium/bestiary/fiend/token/glabrezu.png"
 ```
 ^statblock

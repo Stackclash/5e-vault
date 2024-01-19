@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Vistana Thug"]
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Vistana Thug (COS).md|Vistana Thug]]
+# [[5. Mechanics\Bestiary\Humanoid\Vistana Thug (COS).md|Vistana Thug]]
 *Source: Curse of Strahd p. 28*  
 
 ```statblock

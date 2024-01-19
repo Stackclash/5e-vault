@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Necklace string of small pink pearls"
-cost: 2,500 gp
+cost: 250000
 ---
 # Necklace string of small pink pearls
 *Treasure*  

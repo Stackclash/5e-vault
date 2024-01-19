@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Bullseye Lantern"
-cost: 10 gp
+cost: 1000
 ---
 # Bullseye Lantern
 *Adventuring Gear*  

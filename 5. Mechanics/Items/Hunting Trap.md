@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Hunting Trap"
-cost: 5 gp
+cost: 500
 ---
 # Hunting Trap
 *Adventuring Gear*  

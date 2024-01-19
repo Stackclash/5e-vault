@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Black velvet mask stitched with silver thread"
-cost: 25 gp
+cost: 2500
 ---
 # Black velvet mask stitched with silver thread
 *Treasure*  

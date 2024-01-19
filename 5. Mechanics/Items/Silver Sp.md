@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Silver (sp)"
-cost: 1 sp
+cost: 10
 ---
 # Silver (sp)
 *Treasure*  

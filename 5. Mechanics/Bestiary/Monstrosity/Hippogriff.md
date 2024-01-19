@@ -12,7 +12,7 @@ tags:
 statblock: inline
 aliases: ["Hippogriff"]
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Hippogriff.md|Hippogriff]]
+# [[5. Mechanics\Bestiary\Monstrosity\Hippogriff.md|Hippogriff]]
 *Source: Monster Manual p. 184, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  
 
 A beast whose magical origins are lost to history, a hippogriff possesses the wings and forelimbs of an eagle, the hindquarters of a horse, and a head that combines the features of both animals.
@@ -66,7 +66,7 @@ A hippogriff raised in captivity can be trained to be a faithful companion and m
 - "WDH"
 - "ERLW"
 - "EGW"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/hippogriff.png"
+"image": "compendium/bestiary/monstrosity/token/hippogriff.png"
 ```
 ^statblock
 

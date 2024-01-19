@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Cave Fisher"]
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Cave Fisher (MPMM).md|Cave Fisher]]
+# [[5. Mechanics\Bestiary\Monstrosity\Cave Fisher (MPMM).md|Cave Fisher]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 73*  
 
 A cave fisher is a subterranean arachnid with a long snout that houses spinnerets, enabling the creature to produce sticky filaments, much like the strands of a spider's webbing, which the creature uses to snag prey.

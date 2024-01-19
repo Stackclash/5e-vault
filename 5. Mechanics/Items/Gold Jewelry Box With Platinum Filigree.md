@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Gold jewelry box with platinum filigree"
-cost: 7,500 gp
+cost: 750000
 ---
 # Gold jewelry box with platinum filigree
 *Treasure*  

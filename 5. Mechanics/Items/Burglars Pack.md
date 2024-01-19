@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Burglar's Pack"
-cost: 16 gp
+cost: 1600
 ---
 # Burglar's Pack
 *Adventuring Gear*  

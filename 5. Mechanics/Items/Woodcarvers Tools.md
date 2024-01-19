@@ -6,7 +6,7 @@ tags:
 - item/gear/artisans-tools
 aliases: 
 - "Woodcarver's Tools"
-cost: 1 gp
+cost: 100
 ---
 # Woodcarver's Tools
 *Artisan's Tools*  

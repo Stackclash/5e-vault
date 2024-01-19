@@ -10,7 +10,7 @@ tags:
 - item/weapon/martial/melee
 aliases: 
 - "Glaive"
-cost: 20 gp
+cost: 2000
 ---
 # Glaive
 *Melee Weapon*  

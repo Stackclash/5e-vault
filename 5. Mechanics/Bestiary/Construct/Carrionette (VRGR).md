@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Carrionette"]
 ---
-# [[5. Mechanics/Bestiary/Construct/Carrionette (VRGR).md|Carrionette]]
+# [[5. Mechanics\Bestiary\Construct\Carrionette (VRGR).md|Carrionette]]
 *Source: Van Richten's Guide to Ravenloft p. 231*  
 
 Carrionettes arise from innocent intentions. Heartfelt wishes breathe life into a beloved toy and, for a time, a creator might feel blessed by their new companion. But carrionettes aren't content to live as toys and seek to escape the confines of their diminutive bodies.
@@ -74,6 +74,6 @@ Carrionettes might appear as any type of toy or piece of art. While marionettes 
   "name": "Soul Swap"
 "source":
 - "VRGR"
-"image": "5. Mechanics/Bestiary/Construct/token/carrionette.png"
+"image": "compendium/bestiary/construct/token/carrionette.png"
 ```
 ^statblock

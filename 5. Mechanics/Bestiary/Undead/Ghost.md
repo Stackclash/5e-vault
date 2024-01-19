@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Ghost"]
 ---
-# [[5. Mechanics/Bestiary/Undead/Ghost.md|Ghost]]
+# [[5. Mechanics\Bestiary\Undead\Ghost.md|Ghost]]
 *Source: Monster Manual p. 147, Curse of Strahd, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 A ghost is the soul of a once-living creature, bound to haunt a specific location, creature, or object that held significance to it in its life.
@@ -130,7 +130,7 @@ A ghost doesn't require air, food, drink, or sleep.
 - "ToFW"
 - "BMT"
 - "DoDk"
-"image": "5. Mechanics/Bestiary/Undead/token/ghost.png"
+"image": "compendium/bestiary/undead/token/ghost.png"
 ```
 ^statblock
 

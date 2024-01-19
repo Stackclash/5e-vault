@@ -12,6 +12,7 @@ tags:
 aliases: ["Find Traps"]
 ---
 # Find Traps
+%%-- Embedded content starts on the next line. --%%
 *2nd-level, Divination*  
 
 - **Casting time:** 1 action

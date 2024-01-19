@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Small gold idol"
-cost: 750 gp
+cost: 75000
 ---
 # Small gold idol
 *Treasure*  

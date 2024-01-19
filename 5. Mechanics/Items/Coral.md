@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Coral"
-cost: 100 gp
+cost: 10000
 ---
 # Coral
 *Treasure*  

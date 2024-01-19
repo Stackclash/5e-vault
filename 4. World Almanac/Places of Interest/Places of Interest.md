@@ -49,6 +49,28 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+  location:
+    input: select
+    accessorKey: location
+    key: location
+    id: location
+    label: location
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    options:
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      option_source: formula
+      formula_option_source: "db.dataview.pages('\"4. World Almanac\"')"
 config:
   remove_field_when_delete_column: false
   cell_size: normal
@@ -70,8 +92,8 @@ config:
   current_row_template: 
   pagination_size: 10
   font_size: 16
-  enable_js_formulas: false
-  formula_folder_path: /
+  enable_js_formulas: true
+  formula_folder_path: z_Scripts/DB Folder
   inline_default: false
   inline_new_position: last_field
   date_format: yyyy-MM-dd

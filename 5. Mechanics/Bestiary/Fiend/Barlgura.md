@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Barlgura"]
 ---
-# [[5. Mechanics/Bestiary/Fiend/Barlgura.md|Barlgura]]
+# [[5. Mechanics\Bestiary\Fiend\Barlgura.md|Barlgura]]
 *Source: Monster Manual p. 56*  
 
 The barlgura represents the savagery and brutality of the Abyss. Barlguras gather in packs to take down tougher foes, keep gruesome trophies from their victories, and decorate their territory with such objects.
@@ -247,6 +247,6 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - "PaBTSO"
 - "SatO"
 - "BMT"
-"image": "5. Mechanics/Bestiary/Fiend/token/barlgura.png"
+"image": "compendium/bestiary/fiend/token/barlgura.png"
 ```
 ^statblock

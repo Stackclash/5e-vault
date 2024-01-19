@@ -6,7 +6,7 @@ tags:
 - item/wealth
 aliases: 
 - "Embroidered silk and velvet mantle set with numerous moonstones"
-cost: 2,500 gp
+cost: 250000
 ---
 # Embroidered silk and velvet mantle set with numerous moonstones
 *Treasure*  

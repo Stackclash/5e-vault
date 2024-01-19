@@ -7,7 +7,7 @@ tags:
 - item/weapon/martial/melee
 aliases: 
 - "Morningstar"
-cost: 15 gp
+cost: 1500
 ---
 # Morningstar
 *Melee Weapon*  

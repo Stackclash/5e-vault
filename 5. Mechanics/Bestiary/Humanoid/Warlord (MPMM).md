@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Warlord"]
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Warlord (MPMM).md|Warlord]]
+# [[5. Mechanics\Bestiary\Humanoid\Warlord (MPMM).md|Warlord]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 257*  
 
 Warlords are legendary battlefield commanders, whose names are spoken with awe. After a string of decisive victories, a warlord could easily take on the role of monarch or general and attract followers willing to die for the warlord's banner.
@@ -89,7 +89,7 @@ Warlords urge their troops into the fray with shouted exhortations. You can roll
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/warlord.png"
+"image": "compendium/bestiary/humanoid/token/warlord.png"
 ```
 ^statblock
 

@@ -6,7 +6,7 @@ tags:
 - item/gear
 aliases: 
 - "Book"
-cost: 25 gp
+cost: 2500
 ---
 # Book
 *Adventuring Gear*  

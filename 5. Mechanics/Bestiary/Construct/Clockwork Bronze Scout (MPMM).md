@@ -13,7 +13,7 @@ tags:
 statblock: inline
 aliases: ["Clockwork Bronze Scout"]
 ---
-# [[5. Mechanics/Bestiary/Construct/Clockwork Bronze Scout (MPMM).md|Clockwork Bronze Scout]]
+# [[5. Mechanics\Bestiary\Construct\Clockwork Bronze Scout (MPMM).md|Clockwork Bronze Scout]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 79*  
 
 A bronze scout seldom emerges from underground. Its telescoping eyestalks observe foes at close range while most of its segmented body remains buried. If detected, it sends electrical shocks through the ground toward pursuers while it retreats.

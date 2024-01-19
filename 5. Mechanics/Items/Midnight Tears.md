@@ -7,7 +7,7 @@ tags:
 - item/property/poison
 aliases: 
 - "Midnight Tears"
-cost: 1,500 gp
+cost: 150000
 ---
 # Midnight Tears
 *Adventuring Gear, poison*  

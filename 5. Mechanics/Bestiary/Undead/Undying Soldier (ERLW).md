@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Undying Soldier"]
 ---
-# [[5. Mechanics/Bestiary/Undead/Undying Soldier (ERLW).md|Undying Soldier]]
+# [[5. Mechanics\Bestiary\Undead\Undying Soldier (ERLW).md|Undying Soldier]]
 *Source: Eberron: Rising from the Last War p. 311*  
 
 Undying soldiers make up the army of Aerenal's City of the Dead. They guard the temples of the Undying Court and the mansions of the noble lines of Aerenal, and Aereni ambassadors are often accompanied by undead bodyguards. Undying soldiers wear heirloom armor and wield ornate weaponry.

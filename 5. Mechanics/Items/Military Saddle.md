@@ -6,7 +6,7 @@ tags:
 - item/gear/tack-and-harness
 aliases: 
 - "Military Saddle"
-cost: 20 gp
+cost: 2000
 ---
 # Military Saddle
 *Tack and Harness*  

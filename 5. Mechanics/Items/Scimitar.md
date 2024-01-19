@@ -9,7 +9,7 @@ tags:
 - item/weapon/martial/melee
 aliases: 
 - "Scimitar"
-cost: 25 gp
+cost: 2500
 ---
 # Scimitar
 *Melee Weapon*  
