@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DM Screen/Configuration.md",
-                "mode": "preview",
+                "file": "1. DM Screen/Lookup Tables/Currency.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. DM Screen/Configuration.md",
+                "file": "1. DM Screen/Lookup Tables/Currency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. DM Screen/Configuration.md",
+                "file": "1. DM Screen/Lookup Tables/Currency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DM Screen/Configuration.md"
+                "file": "1. DM Screen/Lookup Tables/Currency.md"
               }
             }
           },
@@ -207,11 +207,11 @@
   },
   "active": "283b176cf3bea212",
   "lastOpenFiles": [
-    "3. The Party/Parties/Curse of Strahd.md",
+    "4. World Almanac/Shops/Blinksy Toys.md",
     "1. DM Screen/Configuration.md",
+    "3. The Party/Parties/Curse of Strahd.md",
     "1. DM Screen/Lookup Tables/Currency.md",
     "1. DM Screen/1. DM Screen.md",
-    "4. World Almanac/Shops/Blinksy Toys.md",
     "5. Mechanics/Items/Longbow.md",
     "z_Templates/World Building/Settlement.md",
     "z_Scripts/Dataview/shopInventory.js",
