@@ -55,7 +55,7 @@ aliases:
 > **Ruler(s):** | `INPUT[inlineListSuggester(optionQuery("4. World Almanac/NPCs")):rulers]` |
 > **Govt Type:** | `INPUT[text:government]` |
 > **Army:** | `INPUT[text:army]` |
-> **Religions:** | `INPUT[inlineList:relgions]` |
+> **Religions:** | `INPUT[inlineList:religions]` |
 > ###### Logistics
 >  |
 > ---|---|

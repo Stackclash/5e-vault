@@ -6,14 +6,14 @@ pronounced:
 resources: 
 population: 
 terrain: 
-rulers: 
+rulers: []
 government: 
 army: 
 religions: 
 imports: 
 exports: 
 aliases: 
-relgions:
+relgions: []
 ---
 > [!infobox]
 > # `=this.file.name`

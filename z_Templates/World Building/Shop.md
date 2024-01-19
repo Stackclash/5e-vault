@@ -36,13 +36,13 @@ while (selectMoreStaff) {
 ---
 obsidianUIMode: preview
 owners: 
-<%*- for (owner of selectedOwners) {%>
-    - [[<% owner.join('|') %>]]
-<%*- } %>
+<%* for (owner of selectedOwners) { -%>
+  - [[<% owner.join('|') %>]]
+<%* } -%>
 staff: 
-<%*- for (staff of selectedStaff) {%>
-    - [[<% staff.join('|') %>]]
-<%*- } %>
+<%* for (staff of selectedStaff) { -%>
+  - [[<% staff.join('|') %>]]
+<%* } -%>
 cost_modifier: 1
 items: 
 location:
