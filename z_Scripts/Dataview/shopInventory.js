@@ -1,6 +1,8 @@
 function costDisplay(cp) {
     let display = []
     let sp = gp = 0
+
+    if (cp <= 0) return '1 cp'
     
     gp = Math.floor(cp / 100)
     cp = cp % 100
@@ -17,6 +19,8 @@ function costDisplay(cp) {
 let items = input.current.items
 if (!Array.isArray(items)) items = [items]
 items = items.map(item => {
-    return [item, costDisplay((dv.page(item).cost || 0) * dv.page(dv.page("Configuration").active_world.path).economic_scale * input.current.cost_modifier)]
+    let finalCost = (dv.page(item || "").cost || 0) * dv.page(dv.page("Configuration").active_world.path).economic_scale * input.current.cost_modifier
+
+    return [item, costDisplay(finalCost)]
 })
 dv.table(["Item", "Cost"], items)

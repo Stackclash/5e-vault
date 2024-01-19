@@ -1,31 +1,46 @@
+<%*
+await tp.file.move('4. World Almanac/Settlements/' + tp.file.title)
+if (tp.config.run_mode === 0) {
+    let title = await tp.system.prompt("What is the name of the settlement?")
+    await tp.file.rename(title)
+}
+-%>
 ---
 obsidianUIMode: preview
+location: 
 pronounced: 
-region: 
-places_of_interest: 
 population: 
 terrain: 
+rulers: 
 government: 
+army: 
 religions: 
-defences: 
-exports: 
 imports:
+exports: 
+aliases: 
 ---
 > [!infobox]
 > # `=this.file.name`
 > ![[PlaceholderImage.png|wm-tl]]
-> **Pronounced:**  "`=this.Pronounced`"
+> **Pronounced:**  "`INPUT[text:pronounced]`"
 > ###### Info
 >  |
 > ---|---|
-> **Alias** | `=this.alias` |
-> **Population** | `=this.population` |
+> **Alias** | `INPUT[inlineList:aliases]` |
+> **Population** | `INPUT[number:population]` |
+> **Terrain** | `INPUT[text:terrain]` |
 > ###### Politics
 >  |
 > ---|---|
-> **Ruler(s)** | `=link(this.rulers)` |
-> **Govt Type** | `=this.government` |
-> **Army** | `=this.army` |
+> **Ruler(s)** | `INPUT[inlineListSuggester(optionQuery("4. World Almanac/NPCs")):rulers]` |
+> **Govt Type** | `INPUT[text:government]` |
+> **Army** | `INPUT[text:army]` |
+> **Relgions** | `INPUT[inlineList:relgions]` |
+> ###### Logistics
+>  |
+> ---|---|
+> **Imports** | `INPUT[inlineList:imports]` |
+> **Exports** | `INPUT[inlineList:exports]` |
 
 # **`=this.file.name`**
 > [!info|bg-c-purple]- Overview

@@ -1,7 +1,9 @@
 <%*
-await tp.file.move('4. World Almanac/Regions/' + tp.file.title)
+let selectedType = await tp.system.suggester(['Region', 'Settlement', 'Place of Interest'], ['Regions', 'Settlements', 'Places of Interest'], false, "What image to use?")
+
+await tp.file.move(`4. World Almanac/${selectedType}/` + tp.file.title)
 if (tp.config.run_mode === 0) {
-    let title = await tp.system.prompt("What is the name of the region?")
+    let title = await tp.system.prompt("What is the name of the location?")
     await tp.file.rename(title)
 }
 -%>
@@ -10,28 +12,37 @@ obsidianUIMode: preview
 location: 
 pronounced: 
 population: 
+terrain: 
 rulers: 
-population: 
 government: 
 army: 
+religions: 
+imports:
+exports: 
 aliases: 
 ---
 > [!infobox]
 > # `=this.file.name`
 > ![[PlaceholderImage.png|wm-tl]]
-> **Pronounced:**  "`=this.Pronounced`"
+> **Pronounced:**  "`INPUT[text:pronounced]`"
 > ###### Info
 >  |
 > ---|---|
-> **Alias** | `=this.alias` |
-> **Population** | `=this.population` |
+> **Alias** | `INPUT[inlineList:aliases]` |
+> **Population** | `INPUT[number:population]` |
 > **Terrain** | `INPUT[text:terrain]` |
 > ###### Politics
 >  |
 > ---|---|
-> **Ruler(s)** | `=link(this.rulers)` |
-> **Govt Type** | `=this.government` |
-> **Army** | `=this.army` |
+> **Ruler(s)** | `INPUT[inlineListSuggester(optionQuery("4. World Almanac/NPCs")):rulers]` |
+> **Govt Type** | `INPUT[text:government]` |
+> **Army** | `INPUT[text:army]` |
+> **Relgions** | `INPUT[inlineList:relgions]` |
+> ###### Logistics
+>  |
+> ---|---|
+> **Imports** | `INPUT[inlineList:imports]` |
+> **Exports** | `INPUT[inlineList:exports]` |
 
 # **`=this.file.name`**
 > [!info|bg-c-purple]- Overview
@@ -74,8 +85,8 @@ TBD
 > ```
 
 ## Notable Locations
-**[[Settlements|Add New Settlement]]**
 **[[Places of Interest|Add New Place of Interest]]**
+**[[Shops|Add New Shop]]**
 > ```dataviewjs
 >  await dv.view("locations", {current: dv.current()})
 > ```
