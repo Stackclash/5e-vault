@@ -67,12 +67,9 @@ TBD
 ## Notable Locations
 **[[Settlements|Add New Settlement]]**
 **[[Places of Interest|Add New Place of Interest]]**
-> ```dataview
->  TABLE WITHOUT ID link(file.name) AS "Name", file.frontmatter.pronounced as "Pronounced"
->  FROM "4. World Almanac/Places of Interest" OR "4. World Almanac/Settlements"
->  WHERE contains(file.frontmatter.parent_location, this.file.name)
+> ```dataviewjs
+>  await dv.view("locations", {current: dv.current()})
 > ```
-
 
 ## History
 TBD

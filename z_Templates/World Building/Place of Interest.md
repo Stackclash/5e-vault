@@ -50,6 +50,12 @@ TBD
 > darkMode: false  
 > ```
 
+## Notable Locations
+**[[Shops|Add New Shop]]**
+> ```dataviewjs
+>  await dv.view("locations", {current: dv.current()})
+> ```
+
 ## History
 TBD
 
