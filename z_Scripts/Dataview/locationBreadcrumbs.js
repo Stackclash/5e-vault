@@ -11,6 +11,5 @@ while (currentPage) {
 }
 
 breadcrumbs = breadcrumbs.map(b => `[[${b.file.path}|${b.file.name}]]`).join(' > ')
-console.log(breadcrumbs)
 
-dv.paragraph(breadcrumbs)
+dv.span(breadcrumbs)

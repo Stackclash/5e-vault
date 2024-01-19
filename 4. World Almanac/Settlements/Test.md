@@ -21,8 +21,7 @@ aliases:
 >  |
 > ---|---|
 > **Pronounced:** | `INPUT[text:pronounced]` |
-> **Breadcrumb:** | `$= await dv.view("locationBreadcrumbs", {current: dv.current()})` |
-> **Location:** |  |
+> **Location:** | `INPUT[inlineSuggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Regions"),optionQuery("4. World Almanac/Settlements"))]` |
 > ###### Info
 >  |
 > ---|---|
