@@ -7,9 +7,8 @@ if (tp.config.run_mode === 0) {
     let title = await tp.system.prompt("What is the name of the character?")
     await tp.file.rename(title)
 }
-// app.vault.adapter.getBasePath() - Base Path of vault
 
-let images = tp.user.get_all_files(dv, "z_Assets")
+let images = tp.user.get_all_files(app.vault.adapter.getBasePath(), "z_Assets")
 let selectedImage = await tp.system.suggester(images.map(i => i.name), images.map(i => i.path), false, "What image to use?")
 let parties = dv.pages('"3. The Party/Parties"').file.name
 let selectedParty = await tp.system.suggester(parties, parties, false, "What party is the character a part of?")

@@ -212,11 +212,13 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "a88a1818b2c15bdd",
+  "active": "8f85041b9d80759f",
   "lastOpenFiles": [
     "3. The Party/Players/Test.md",
     "3. The Party/Players/Test.md",
     "3. The Party/Players/Test.md",
+    "3. The Party/Players/Test.md",
+    "3. The Party/Players/Players.md",
     "z_Templates/Party/Player Character.md",
     "4. World Almanac/Shops/Shops.md",
     "4. World Almanac/Shops/Blinksy Toys.md",
@@ -239,8 +241,6 @@
     "1. DM Screen/Configuration.md",
     "1. DM Screen/Lookup Tables/Travel.md",
     "4. World Almanac/Worlds/Worlds.md",
-    "4. World Almanac/NPCs/Milivoj.md",
-    "1. DM Screen/Lookup Tables/Currency.md",
     "z_Scripts/Dataview/shopInventory.js",
     "z_Scripts/Dataview/locations.js",
     "z_Scripts/DB Folder/locationsByType.js",
