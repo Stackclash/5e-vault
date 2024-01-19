@@ -40,6 +40,7 @@ let selectedLocation = await tp.system.suggester(parentLocations.map(p => p.file
 ---
 obsidianUIMode: preview
 location: "[[<% selectedLocation.join('|') %>]]"
+resources: []
 owners: <%* if (selectedOwners.length == 0) { %>[]<%* } %>
 <%* for (owner of selectedOwners) { -%>
   - "[[<% owner.join('|') %>]]"
@@ -58,6 +59,7 @@ items: []
 > | **Owner(s)** | `INPUT[inlineListSuggester(optionQuery("4. World Almanac/NPCs")):owners]` |
 > | **Staff** | `INPUT[inlineListSuggester(optionQuery("4. World Almanac/NPCs")):staff]` |
 > | **Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
+> | **Resource(s):** | `INPUT[inlineListSuggester(optionQuery("6. Resources")):resources]` |
 > ###### Inventory Info
 > |||
 > |---|---|
