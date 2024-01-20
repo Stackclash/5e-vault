@@ -3,13 +3,13 @@ obsidianUIMode: preview
 statblock: inline
 pronounced: 
 race: 
-sex: 
-age: 
-alignment: 
+sex: male
+age: 541
+alignment: lawful evil
 condition: healthy
-occupation: 
+occupation: []
 group: 
-religions: 
+religions: []
 location: "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]"
 personality: 
 ideal: 
@@ -69,15 +69,15 @@ Whenever Strahd appears in a location other than his tomb or the place indicated
 
 ## Strahd's Minions
 
-| dice: d20 | Creatures |  |
-| ---- | ---- | ---- |
-| 1–3 | `dice: 1d4 + 2\|avg` (`1d4 + 2`) [[5. Mechanics/Bestiary/Beast/Dire Wolf.md | dire wolves]] |
-| 4–6 | `dice: 1d6 + 3\|avg` (`1d6 + 3`) [[5. Mechanics/Bestiary/Undead/Ghoul.md | ghouls]] |
-| 7–9 | `dice: 1d4 + 2\|avg` (`1d4 + 2`) [[5. Mechanics/Bestiary/Undead/Strahd Zombie (COS).md | Strahd zombies]] (in this appendix) |
-| 10–12 | `dice: 2d4\|avg` (`2d4`) [[5. Mechanics/Bestiary/Beast/Swarm Of Bats.md | swarms of bats]] |
-| 13–15 | `dice: 1d4 + 1\|avg` (`1d4 + 1`) [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md\ | vampire spawn]] |
-| 16–18 | `dice: 3d6\|avg` (`3d6`) [[5. Mechanics/Bestiary/Beast/Wolf.md | wolves]] |
-| 19–20 | None |  |
+| dice: d20 | Creatures |
+| ---- | ---- |
+| 1–3 | `dice: 1d4 + 2\|avg` (`1d4 + 2`) [[5. Mechanics/Bestiary/Beast/Dire Wolf.md\|dire wolves]] |
+| 4–6 | `dice: 1d6 + 3\|avg` (`1d6 + 3`) [[5. Mechanics/Bestiary/Undead/Ghoul.md\|ghouls]] |
+| 7–9 | `dice: 1d4 + 2\|avg` (`1d4 + 2`) [[5. Mechanics/Bestiary/Undead/Strahd Zombie (COS).md\|Strahd zombies]] (in this appendix) |
+| 10–12 | `dice: 2d4\|avg` (`2d4`) [[5. Mechanics/Bestiary/Beast/Swarm Of Bats.md\|swarms of bats]] |
+| 13–15 | `dice: 1d4 + 1\|avg` (`1d4 + 1`) [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md\|vampire spawn]] |
+| 16–18 | `dice: 3d6\|avg` (`3d6`) [[5. Mechanics/Bestiary/Beast/Wolf.md\|wolves]] |
+| 19–20 | None |
 ^creatures
 
 If the characters are in a residence, Strahd's creatures break through doors and windows to reach them, or crawl up through the earth, or swoop down the chimney. The vampire spawn (all that's left of a party of adventurers that Strahd defeated long ago) can't enter the characters' location unless invited.
