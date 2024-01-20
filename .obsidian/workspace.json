@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Mechanics/Bestiary/Plant/Needle Blight.md",
-                "mode": "preview",
+                "file": "4. World Almanac/NPCs/Strahd Von Zarovich.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -105,8 +105,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -137,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Mechanics/Bestiary/Plant/Needle Blight.md",
+                "file": "4. World Almanac/NPCs/Strahd Von Zarovich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Mechanics/Bestiary/Plant/Needle Blight.md",
+                "file": "4. World Almanac/NPCs/Strahd Von Zarovich.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Mechanics/Bestiary/Plant/Needle Blight.md"
+                "file": "4. World Almanac/NPCs/Strahd Von Zarovich.md"
               }
             }
           },
@@ -223,8 +222,12 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "3629b92bcb84e179",
+  "active": "9942a99821634b35",
   "lastOpenFiles": [
+    "5. Mechanics/Bestiary/Legendary Group/Strahd Von Zarovich (COS).md",
+    "4. World Almanac/Places of Interest/Castle Ravenloft.md",
+    "Untitled.md",
+    "5. Mechanics/Bestiary/Plant/Needle Blight.md",
     "4. World Almanac/Places of Interest/The Wizard of Wines.md",
     "4. World Almanac/Places of Interest/Van Richten's Tower.md",
     "4. World Almanac/Places of Interest/Places of Interest.md",
@@ -233,7 +236,6 @@
     "3. The Party/Session Logs/Best Weapon against Vampires are Old Men.md",
     "3. The Party/Session Logs/Campaign Preparation.md",
     "3. The Party/Session Logs/Session Logs.md",
-    "Untitled.md",
     "3. The Party/Session Logs/Finding Victor.md",
     "6. Resources/5e Modules/Curse Of Strahd/13 Chapter-11 Van Richtens Tower.md",
     "4. World Almanac/NPCs/Ezmerelda Davenir.md",
@@ -249,9 +251,6 @@
     "4. World Almanac/Shops/Bildrath's Mercantile.md",
     "6. Resources/5e Modules/Curse Of Strahd/05 Chapter-3 The Village Of Barovia.md",
     "4. World Almanac/Shops/Blue Water Inn.md",
-    "4. World Almanac/Shops/Blood of the Vine Tavern.md",
-    "4. World Almanac/Settlements/Krezk.md",
-    "4. World Almanac/Settlements/Vallaki.md",
     "z_Scripts/Dataview/locationBreadcrumbs.js",
     "z_Scripts/Dataview/shopInventory.js",
     "z_Scripts/Dataview/locations.js",

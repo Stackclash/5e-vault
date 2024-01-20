@@ -3,16 +3,17 @@ obsidianUIMode: preview
 location: "[[4. World Almanac/Regions/Barovia.md|Barovia]]"
 image: z_Assets/PlaceholderImage.png
 pronounced: 
-resources: []
+resources:
+  - "[[06 Chapter-4 Castle Ravenloft|Castle Ravenloft]]"
 population: 
 terrain: 
-rulers: []
+rulers: 
 government: 
 army: 
-religions: []
-imports: []
-exports: []
-aliases: []
+religions: 
+imports: 
+exports: 
+aliases:
 ---
 > [!infobox]
 > # `=this.file.name`

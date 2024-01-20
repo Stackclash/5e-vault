@@ -10,7 +10,7 @@ condition: healthy
 occupation: 
 group: 
 religions: 
-location: 
+location: "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]"
 personality: 
 ideal: 
 bond: 
@@ -19,11 +19,12 @@ goals:
 likes: 
 dislikes: 
 tags:
-- compendium/src/5e/cos
-- monster/cr/15
-- monster/size/medium
-- monster/type/undead/shapechanger
-aliases: ["Strahd von Zarovich"]
+  - compendium/src/5e/cos
+  - monster/cr/15
+  - monster/size/medium
+  - monster/type/undead/shapechanger
+aliases:
+  - Strahd von Zarovich
 ---
 
 > [!infobox]
@@ -74,7 +75,7 @@ Whenever Strahd appears in a location other than his tomb or the place indicated
 | 4–6 | `dice: 1d6 + 3\|avg` (`1d6 + 3`) [[5. Mechanics/Bestiary/Undead/Ghoul.md | ghouls]] |
 | 7–9 | `dice: 1d4 + 2\|avg` (`1d4 + 2`) [[5. Mechanics/Bestiary/Undead/Strahd Zombie (COS).md | Strahd zombies]] (in this appendix) |
 | 10–12 | `dice: 2d4\|avg` (`2d4`) [[5. Mechanics/Bestiary/Beast/Swarm Of Bats.md | swarms of bats]] |
-| 13–15 | `dice: 1d4 + 1\|avg` (`1d4 + 1`) [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md | vampire spawn]] |
+| 13–15 | `dice: 1d4 + 1\|avg` (`1d4 + 1`) [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md\ | vampire spawn]] |
 | 16–18 | `dice: 3d6\|avg` (`3d6`) [[5. Mechanics/Bestiary/Beast/Wolf.md | wolves]] |
 | 19–20 | None |  |
 ^creatures

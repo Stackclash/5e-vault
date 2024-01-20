@@ -1,1 +1,1 @@
-[[13 Chapter-11 Van Richtens Tower|Van Richten's Tower]]
+[[06 Chapter-4 Castle Ravenloft|Castle Ravenloft]]
