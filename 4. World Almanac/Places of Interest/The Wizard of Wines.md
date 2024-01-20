@@ -3,16 +3,17 @@ obsidianUIMode: preview
 location: "[[4. World Almanac/Regions/Barovia.md|Barovia]]"
 image: z_Assets/PlaceholderImage.png
 pronounced: 
-resources: []
+resources:
+  - "[[14 Chapter-12 The Wizard Of Wines|The Wizard of Wines]]"
 population: 
 terrain: 
-rulers: []
+rulers: 
 government: 
 army: 
-religions: []
-imports: []
-exports: []
-aliases: []
+religions: 
+imports: 
+exports: 
+aliases:
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -89,6 +90,11 @@ TBD
 **[[Shops|Add New Shop]]**
 > ```dataviewjs
 >  await dv.view("locations", {current: dv.current()})
+> ```
+
+## Notable NPCs
+> ```dataviewjs
+>  await dv.view("npcs", {current: dv.current()})
 > ```
 
 ## History

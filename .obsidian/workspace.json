@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f93b5390945a32b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. World Almanac/Places of Interest/The Wizard of Wines.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "4. World Almanac/Places of Interest/The Wizard of Wines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "4. World Almanac/Places of Interest/The Wizard of Wines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "4. World Almanac/Places of Interest/The Wizard of Wines.md"
               }
             }
           },
@@ -174,12 +187,13 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "9942a99821634b35",
+  "active": "f93b5390945a32b5",
   "lastOpenFiles": [
+    "z_Scripts/Dataview/npcs.js",
+    "Untitled.md",
     "Untitled 1.md",
     "4. World Almanac/Places of Interest/The Wizard of Wines.md",
     "2. Scratch Notes/To-Do List.md",
-    "Untitled.md",
     "4. World Almanac/Places of Interest/Places of Interest.md",
     "4. World Almanac/Regions/Regions.md",
     "z_Templates/World Building/Leaflet Bounds Calculator.md",
@@ -201,7 +215,6 @@
     "4. World Almanac/Places of Interest/Werewolf Den.md",
     "4. World Almanac/Places of Interest/Yester Hill.md",
     "4. World Almanac/Places of Interest/The Amber Temple.md",
-    "4. World Almanac/Places of Interest/Van Richten's Tower.md",
     "z_Scripts/Dataview/locationBreadcrumbs.js",
     "z_Scripts/Dataview/shopInventory.js",
     "z_Scripts/Dataview/locations.js",

@@ -1,1 +1,1 @@
-[[14 Chapter-12 The Wizard Of Wines]]
+[[14 Chapter-12 The Wizard Of Wines|The Wizard of Wines]]
