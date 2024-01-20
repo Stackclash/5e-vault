@@ -19,7 +19,7 @@ img = document.querySelector(".mb-image-suggest-image"),
 height = parseFloat(img.naturalHeight/(measure/units)).toFixed(2),
 width = parseFloat(img.naturalWidth/(measure/units)).toFixed(2)
 
-dv.paragraph(`bounds: [[0,0], [${height},${width}`)
+dv.paragraph(`bounds: [\\[0,0], [${height},${width}\\]]`)
 dv.paragraph(`lat: ${height/2}`)
 dv.paragraph(`long: ${width/2}`)
 ```

@@ -13,25 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/World Building/Leaflet Bounds Calculator.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "0bc2954ac2594b5f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c4e55273adfb99a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. World Almanac/Regions/Barovia.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Templates/World Building/Leaflet Bounds Calculator.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Templates/World Building/Leaflet Bounds Calculator.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Templates/World Building/Leaflet Bounds Calculator.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -194,12 +176,15 @@
   },
   "active": "9942a99821634b35",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "4. World Almanac/Places of Interest/The Wizard of Wines.md",
+    "2. Scratch Notes/To-Do List.md",
+    "Untitled.md",
+    "4. World Almanac/Places of Interest/Places of Interest.md",
+    "4. World Almanac/Regions/Regions.md",
+    "z_Templates/World Building/Leaflet Bounds Calculator.md",
     "4. World Almanac/Regions/Barovia.md",
     "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
-    "z_Templates/World Building/Leaflet Bounds Calculator.md",
-    "4. World Almanac/Regions/Regions.md",
-    "4. World Almanac/Places of Interest/Places of Interest.md",
-    "2. Scratch Notes/To-Do List.md",
     "4. World Almanac/Shops/Blinsky Toys.md",
     "4. World Almanac/Shops/Bildrath's Mercantile.md",
     "6. Resources/5e Modules/Curse Of Strahd/05 Chapter-3 The Village Of Barovia.md",
@@ -216,10 +201,7 @@
     "4. World Almanac/Places of Interest/Werewolf Den.md",
     "4. World Almanac/Places of Interest/Yester Hill.md",
     "4. World Almanac/Places of Interest/The Amber Temple.md",
-    "4. World Almanac/Places of Interest/The Wizard of Wines.md",
     "4. World Almanac/Places of Interest/Van Richten's Tower.md",
-    "4. World Almanac/Places of Interest/Ruins of Berez.md",
-    "4. World Almanac/Places of Interest/Tsolenka Pass.md",
     "z_Scripts/Dataview/locationBreadcrumbs.js",
     "z_Scripts/Dataview/shopInventory.js",
     "z_Scripts/Dataview/locations.js",

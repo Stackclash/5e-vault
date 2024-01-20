@@ -26,3 +26,4 @@
 	- [ ] Worlds
 	- [ ] Regions
 	- [ ] Settlements
+- [ ] Create note to appear as new note screen
