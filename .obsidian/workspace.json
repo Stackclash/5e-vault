@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "39dc0caf1719ae3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Resources/5e Modules/Curse Of Strahd/13 Chapter-11 Van Richtens Tower.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c478855aa4638fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. World Almanac/NPCs/Ezmerelda Davenir.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "486a028afd6177d8",
             "type": "leaf",
             "state": {
@@ -43,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "4. World Almanac/Places of Interest/Van Richten's Tower.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "4. World Almanac/Places of Interest/Van Richten's Tower.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "4. World Almanac/Places of Interest/Van Richten's Tower.md"
               }
             }
           },
@@ -198,14 +223,16 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "9942a99821634b35",
+  "active": "f93b5390945a32b5",
   "lastOpenFiles": [
+    "4. World Almanac/NPCs/Ezmerelda Davenir.md",
+    "6. Resources/5e Modules/Curse Of Strahd/13 Chapter-11 Van Richtens Tower.md",
     "4. World Almanac/Places of Interest/Van Richten's Tower.md",
+    "Untitled.md",
     "4. World Almanac/Places of Interest/The Wizard of Wines.md",
     "4. World Almanac/Places of Interest/Tsolenka Pass.md",
     "4. World Almanac/NPCs/Davian Martikov.md",
     "z_Scripts/Dataview/npcs.js",
-    "Untitled.md",
     "Untitled 1.md",
     "2. Scratch Notes/To-Do List.md",
     "4. World Almanac/Places of Interest/Places of Interest.md",
@@ -225,8 +252,6 @@
     "4. World Almanac/Places of Interest/St. Andral's Church.md",
     "4. World Almanac/Places of Interest/Argynvostholt.md",
     "4. World Almanac/Settlements/Village of Barovia.md",
-    "4. World Almanac/Shops/Shops.md",
-    "4. World Almanac/Places of Interest/Werewolf Den.md",
     "z_Scripts/Dataview/locationBreadcrumbs.js",
     "z_Scripts/Dataview/shopInventory.js",
     "z_Scripts/Dataview/locations.js",

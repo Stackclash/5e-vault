@@ -5,12 +5,12 @@ pronounced:
 race: 
 sex: 
 age: 
-alignment: 
+alignment: chaotic good
 condition: healthy
 occupation: 
 group: 
 religions: 
-location: 
+location: "[[4. World Almanac/Places of Interest/Van Richten's Tower.md|Van Richten's Tower]]"
 personality: 
 ideal: 
 bond: 
@@ -19,11 +19,12 @@ goals:
 likes: 
 dislikes: 
 tags:
-- compendium/src/5e/cos
-- monster/cr/8
-- monster/size/medium
-- monster/type/humanoid/human
-aliases: ["Ezmerelda d'Avenir"]
+  - compendium/src/5e/cos
+  - monster/cr/8
+  - monster/size/medium
+  - monster/type/humanoid/human
+aliases:
+  - Ezmerelda d'Avenir
 ---
 
 > [!infobox]

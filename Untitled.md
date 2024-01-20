@@ -1,1 +1,1 @@
-[[Van R
+[[13 Chapter-11 Van Richtens Tower|Van Richten's Tower]]
