@@ -1,6 +1,7 @@
 ![[Barovia.jpg]]
 ```dataviewjs
-const img = document.querySelecto
+const img = document.querySelector('.media-embed.image-embed > img')
+console.log('natural:')
 ```
 
 
