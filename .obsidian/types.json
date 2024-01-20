@@ -26,6 +26,8 @@
     "items": "multitext",
     "cost_modifier": "number",
     "owners": "multitext",
-    "staff": "multitext"
+    "staff": "multitext",
+    "distance_measure": "number",
+    "units": "number"
   }
 }

@@ -18,7 +18,13 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "0bc2954ac2594b5f",
+        "type": "tabs",
+        "children": [
           {
             "id": "c4e55273adfb99a5",
             "type": "leaf",
