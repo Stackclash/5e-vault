@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#feat",
+                "query": "fane",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -105,7 +105,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -222,7 +223,7 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "9942a99821634b35",
+  "active": "3629b92bcb84e179",
   "lastOpenFiles": [
     "4. World Almanac/Places of Interest/The Wizard of Wines.md",
     "4. World Almanac/Places of Interest/Van Richten's Tower.md",
