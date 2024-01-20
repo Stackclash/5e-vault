@@ -11,11 +11,9 @@
             "id": "9942a99821634b35",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "2. Scratch Notes/To-Do List.md",
-                "mode": "preview",
-                "source": false
+                "file": "4. World Almanac/Places of Interest/Places of Interest.md"
               }
             }
           },
@@ -100,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Scratch Notes/To-Do List.md",
+                "file": "4. World Almanac/Places of Interest/Places of Interest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Scratch Notes/To-Do List.md",
+                "file": "4. World Almanac/Places of Interest/Places of Interest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Scratch Notes/To-Do List.md"
+                "file": "4. World Almanac/Places of Interest/Places of Interest.md"
               }
             }
           },
@@ -188,6 +186,7 @@
   },
   "active": "9942a99821634b35",
   "lastOpenFiles": [
+    "2. Scratch Notes/To-Do List.md",
     "4. World Almanac/Shops/Blinsky Toys.md",
     "4. World Almanac/Shops/Bildrath's Mercantile.md",
     "6. Resources/5e Modules/Curse Of Strahd/05 Chapter-3 The Village Of Barovia.md",
@@ -213,7 +212,6 @@
     "4. World Almanac/Places of Interest/Tsolenka Pass.md",
     "4. World Almanac/Places of Interest/Old Bonegrinder.md",
     "4. World Almanac/Worlds/Worlds.md",
-    "4. World Almanac/Places of Interest/Castle Ravenloft.md",
     "z_Scripts/Dataview/locationBreadcrumbs.js",
     "z_Scripts/Dataview/shopInventory.js",
     "z_Scripts/Dataview/locations.js",
