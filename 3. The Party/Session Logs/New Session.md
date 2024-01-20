@@ -34,7 +34,7 @@ A tense negotiation unfolds, and Lady Fiona Wachter, revealing a political acume
 
 Despite Lady Fiona's overtly malevolent inclinations and the whispers of her alliance with Strahd, the party reluctantly agrees to her proposal. Vallaki, a town on the precipice of anarchy, now bears the weight of Lady Wachter's ambitions. The party, unsettled by the uneasy pact, finds themselves dismissed by Lady Fiona, her cold gaze lingering as a harbinger of unsettling alliances and the shifting tides within the cursed land of Barovia.
 
-With the moon overhead you prepare to finally leave this, leaving behind a town ensnared in the tendrils of political intrigue and the ever-present specter of darkness. The journey continues, and the choices made within the shadows of Vallaki will surely reverberate through the twisted corridors of Barovia.
+With the moon overhead you prepare to finally leave this town ensnared in the tendrils of political intrigue and the ever-present specter of darkness behind. The journey continues, and the choices made within the shadows of Vallaki will surely reverberate through the twisted corridors of Barovia.
 
 ## Loot, Rewards & Purchases
 Loot, rewards and purchases.
