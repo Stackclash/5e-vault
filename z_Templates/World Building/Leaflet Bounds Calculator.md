@@ -1,7 +1,8 @@
-![[Barovia.jpg]]
+`INPUT[imageSuggester(optionQuery(""))]`
 ```dataviewjs
 const img = document.querySelector('.media-embed.image-embed > img')
-console.log('natural:')
+dv.paragraph(`Width: ${img.naturalWidth}`)
+dv.paragraph(`Height: ${img.naturalHeight}`)
 ```
 
 
