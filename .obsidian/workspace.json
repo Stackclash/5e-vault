@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/Places of Interest/Van Richten's Tower.md",
+                "file": "3. The Party/Session Logs/Finding Victor.md",
                 "mode": "preview",
                 "source": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/Places of Interest/Van Richten's Tower.md",
+                "file": "3. The Party/Session Logs/Finding Victor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/Places of Interest/Van Richten's Tower.md",
+                "file": "3. The Party/Session Logs/Finding Victor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/Places of Interest/Van Richten's Tower.md"
+                "file": "3. The Party/Session Logs/Finding Victor.md"
               }
             }
           },
@@ -225,9 +225,12 @@
   },
   "active": "f93b5390945a32b5",
   "lastOpenFiles": [
+    "3. The Party/Session Logs/Session Logs.md",
+    "3. The Party/Session Logs/Deal with the Devil.md",
+    "4. World Almanac/Places of Interest/Places of Interest.md",
+    "4. World Almanac/Places of Interest/Van Richten's Tower.md",
     "4. World Almanac/NPCs/Ezmerelda Davenir.md",
     "6. Resources/5e Modules/Curse Of Strahd/13 Chapter-11 Van Richtens Tower.md",
-    "4. World Almanac/Places of Interest/Van Richten's Tower.md",
     "Untitled.md",
     "4. World Almanac/Places of Interest/The Wizard of Wines.md",
     "4. World Almanac/Places of Interest/Tsolenka Pass.md",
@@ -235,7 +238,6 @@
     "z_Scripts/Dataview/npcs.js",
     "Untitled 1.md",
     "2. Scratch Notes/To-Do List.md",
-    "4. World Almanac/Places of Interest/Places of Interest.md",
     "4. World Almanac/Regions/Regions.md",
     "z_Templates/World Building/Leaflet Bounds Calculator.md",
     "4. World Almanac/Regions/Barovia.md",
@@ -250,8 +252,6 @@
     "4. World Almanac/Places of Interest/Coffin Maker's Shop.md",
     "4. World Almanac/Places of Interest/Wachterhaus.md",
     "4. World Almanac/Places of Interest/St. Andral's Church.md",
-    "4. World Almanac/Places of Interest/Argynvostholt.md",
-    "4. World Almanac/Settlements/Village of Barovia.md",
     "z_Scripts/Dataview/locationBreadcrumbs.js",
     "z_Scripts/Dataview/shopInventory.js",
     "z_Scripts/Dataview/locations.js",
