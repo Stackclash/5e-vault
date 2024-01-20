@@ -1,8 +1,14 @@
-`INPUT[imageSuggester(optionQuery(""))]`
+---
+image: z_Assets/Barovia.jpg
+---
+
+
+```meta-bind
+INPUT[imageSuggester(optionQuery("z_Assets")):image]
+```
+
 ```dataviewjs
-const img = document.querySelector('.media-embed.image-embed > img')
-dv.paragraph(`Width: ${img.naturalWidth}`)
-dv.paragraph(`Height: ${img.naturalHeight}`)
+const img = document.querySelector("")
 ```
 
 
