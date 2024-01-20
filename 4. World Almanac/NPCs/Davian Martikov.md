@@ -5,12 +5,12 @@ pronounced:
 race: 
 sex: 
 age: 
-alignment: 
+alignment: lawful good
 condition: healthy
-occupation: 
+occupation: []
 group: 
-religions: 
-location: 
+religions: []
+location: "[[4. World Almanac/Places of Interest/The Wizard of Wines.md|The Wizard of Wines]]"
 personality: 
 ideal: 
 bond: 
@@ -19,12 +19,13 @@ goals:
 likes: 
 dislikes: 
 tags:
-- compendium/src/5e/cos
-- monster/cr/2
-- monster/size/medium
-- monster/type/humanoid/human
-- monster/type/humanoid/shapechanger
-aliases: ["Davian Martikov"]
+  - compendium/src/5e/cos
+  - monster/cr/2
+  - monster/size/medium
+  - monster/type/humanoid/human
+  - monster/type/humanoid/shapechanger
+aliases:
+  - Davian Martikov
 ---
 
 > [!infobox]

@@ -110,6 +110,11 @@ TBD
 >  await dv.view("locations", {current: dv.current()})
 > ```
 
+## Notable NPCs
+> ```dataviewjs
+>  await dv.view("npcs", {current: dv.current()})
+> ```
+
 ## History
 TBD
 
