@@ -28,7 +28,13 @@ High story beats, main things I want to happen this session.
 
 # Session
 ## Start
-Intro, set the tone.
+The night falls over Vallaki, casting long shadows that stretch across the cobblestone streets like skeletal fingers. 
+
+A tense negotiation unfolds, and Lady Fiona Wachter, revealing a political acumen as sharp as a dagger's edge, extends an offer. With the Vallakovich family hidden away in the Village of Barovia, she proposes a seemingly pragmatic solution: allow her to rule Vallaki. Her argument hinges on the claim that she alone can rally the people, preventing the descent into chaos that would inevitably follow if Vallaki were left leaderless.
+
+Despite Lady Fiona's overtly malevolent inclinations and the whispers of her alliance with Strahd, the party reluctantly agrees to her proposal. Vallaki, a town on the precipice of anarchy, now bears the weight of Lady Wachter's ambitions. The party, unsettled by the uneasy pact, finds themselves dismissed by Lady Fiona, her cold gaze lingering as a harbinger of unsettling alliances and the shifting tides within the cursed land of Barovia.
+
+With the moon overhead you prepare to finally leave this, leaving behind a town ensnared in the tendrils of political intrigue and the ever-present specter of darkness. The journey continues, and the choices made within the shadows of Vallaki will surely reverberate through the twisted corridors of Barovia.
 
 ## Loot, Rewards & Purchases
 Loot, rewards and purchases.
