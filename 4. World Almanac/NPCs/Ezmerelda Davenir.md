@@ -12,9 +12,9 @@ group:
 religions: 
 location: "[[4. World Almanac/Places of Interest/Van Richten's Tower.md|Van Richten's Tower]]"
 personality: 
-ideal: 
-bond: 
-flaw: 
+ideal: Evil that feeds on the innocent is the worst of all evils and must be destroyed.
+bond: My mentor and teacher, Dr. Rudolph van Richten, is like a father to me.
+flaw: I go where angels fear to tread.
 goals: 
 likes: 
 dislikes: 
