@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "3. The Party/Session Logs/New Session.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -65,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/Session Logs/New Session.md",
+                "file": "6. Resources/Resources/The Interactive Tome of Strahd.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/Session Logs/New Session.md",
+                "file": "6. Resources/Resources/The Interactive Tome of Strahd.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/Session Logs/New Session.md"
+                "file": "6. Resources/Resources/The Interactive Tome of Strahd.pdf"
               }
             }
           },
@@ -221,8 +222,9 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "f811f333a99d05ac",
+  "active": "78ab8e5193a0ebb4",
   "lastOpenFiles": [
+    "3. The Party/Session Logs/New Session.md",
     "6. Resources/Resources/The Interactive Tome of Strahd.pdf",
     "4. World Almanac/Regions/Barovia.md",
     "3. The Party/Parties/Curse of Strahd.md",
@@ -230,7 +232,6 @@
     "6. Resources/5e Modules/Curse Of Strahd/13 Chapter-11 Van Richtens Tower.md",
     "4. World Almanac/Places of Interest/Van Richten's Tower.md",
     "5. Mechanics/Bestiary/Construct/Clay Golem.md",
-    "3. The Party/Session Logs/New Session.md",
     "4. World Almanac/NPCs/Ezmerelda Davenir.md",
     "6. Resources/5e Modules/Curse Of Strahd/24 Appendix F Handouts.md",
     "6. Resources/5e Modules/Curse Of Strahd/25 Poster Map.md",
