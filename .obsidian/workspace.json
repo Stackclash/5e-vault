@@ -61,13 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. The Party/Players/Marin.md",
+                "file": "4. World Almanac/Shops/Blue Water Inn.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -136,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/Session Logs/New Session.md",
+                "file": "1. DM Screen/Tools/Barovian Names.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/Session Logs/New Session.md",
+                "file": "1. DM Screen/Tools/Barovian Names.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/Session Logs/New Session.md"
+                "file": "1. DM Screen/Tools/Barovian Names.md"
               }
             }
           },
@@ -223,8 +224,10 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "f811f333a99d05ac",
+  "active": "29ce53a3ac610829",
   "lastOpenFiles": [
+    "4. World Almanac/Regions/Barovia.md",
+    "4. World Almanac/Shops/Blue Water Inn.md",
     "3. The Party/Players/Marin.md",
     "1. DM Screen/Tools/Barovian Names.md",
     "3. The Party/Session Logs/New Session.md",
@@ -232,11 +235,9 @@
     "4. World Almanac/Worlds/Eldoria.md",
     "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
     "4. World Almanac/Shops/Blinsky Toys.md",
-    "4. World Almanac/Regions/Barovia.md",
     "1. DM Screen/Configuration.md",
     "5. Mechanics/Items/Docent (ERLW).md",
     "1. DM Screen/1. DM Screen.md",
-    "4. World Almanac/Shops/Blue Water Inn.md",
     "5. Mechanics/Items/Elven Chain.md",
     "5. Mechanics/Items/Potion Of Greater Healing.md",
     "5. Mechanics/Tables/Poisons.md",
