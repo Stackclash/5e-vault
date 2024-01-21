@@ -30,6 +30,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1407648eeec7e069",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. World Almanac/Shops/Blue Water Inn.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -190,6 +202,8 @@
   },
   "active": "2c23777ac06a613f",
   "lastOpenFiles": [
+    "4. World Almanac/Shops/Blue Water Inn.md",
+    "4. World Almanac/Regions/Barovia.md",
     "3. The Party/Session Logs/New Session.md",
     "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
     "5. Mechanics/Items/Docent (ERLW).md",
@@ -215,8 +229,6 @@
     "4. World Almanac/NPCs/Ezmerelda Davenir.md",
     "6. Resources/5e Modules/Curse Of Strahd/13 Chapter-11 Van Richtens Tower.md",
     "4. World Almanac/NPCs/Strahd Von Zarovich.md",
-    "3. The Party/Session Logs/Finding Victor.md",
-    "5. Mechanics/Bestiary/Legendary Group/Strahd Von Zarovich (COS).md",
     "z_Scripts/Dataview/npcs.js",
     "z_Scripts/Dataview/locationBreadcrumbs.js",
     "z_Scripts/Dataview/shopInventory.js",
