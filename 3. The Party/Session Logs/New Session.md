@@ -41,7 +41,7 @@ Loot, rewards and purchases.
 - [x] [[Cloak Of Elvenkind]] ([[Szoldar Szoldarovich]] and [[Yevgeni Krushkin]] )
 - [x] [[Boots Of Striding And Springing]] ([[Urwin Martikov]])
 - [ ] [[Immovable Rod]] 
-- [ ] [[Elven Chain]] ([[Szoldar Szoldarovich]] and [[Yevgeni Krushkin]] )
+- [x] [[Elven Chain]] ([[Szoldar Szoldarovich]] and [[Yevgeni Krushkin]] )
 - [ ] [[Docent (ERLW)]] ([[Gadof Blinsky]])
 - [ ] [[Eyes Of Minute Seeing]] ([[Gadof Blinsky]])
 
@@ -52,7 +52,7 @@ Things to keep in mind during the session, from items to important details
 - [[Marin]] buys a vial of [[Assassins Blood]] for 2gp
 - The party buys healing potion:
 	- 8x [[Potion Of Greater Healing]] @ 5gp
-	- 2x [[Potion Of Healing]] @ 2gp (They have lessers)
+	- 2x [[Potion Of Healing]] @ 2gp (They have 3 already)
 
 # Summary
 ## New NPCs
