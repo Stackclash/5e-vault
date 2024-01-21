@@ -42,6 +42,7 @@ Loot, rewards and purchases.
 - [ ] [[Boots Of Striding And Springing]] 
 - [ ] [[Immovable Rod]] 
 - [ ] [[Elven Chain]] 
+- [ ] [[Docent (ERLW)]] 
 
 ## Keep in Mind
 Things to keep in mind during the session, from items to important details
