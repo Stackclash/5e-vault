@@ -42,8 +42,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e964f7c24f3b90a6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -112,7 +121,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/Session Logs/New Session.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +137,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/Session Logs/New Session.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,9 +159,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "3. The Party/Session Logs/New Session.md"
-              }
+              "state": {}
             }
           },
           {
@@ -199,12 +204,12 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "f811f333a99d05ac",
+  "active": "e964f7c24f3b90a6",
   "lastOpenFiles": [
+    "3. The Party/Session Logs/New Session.md",
     "4. World Almanac/Regions/Barovia.md",
     "2. Scratch Notes/To-Do List.md",
     "4. World Almanac/Shops/Blue Water Inn.md",
-    "3. The Party/Session Logs/New Session.md",
     "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
     "5. Mechanics/Items/Docent (ERLW).md",
     "5. Mechanics/Items/Eyes Of Minute Seeing.md",

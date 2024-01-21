@@ -38,8 +38,8 @@ With the moon overhead you prepare to finally leave this town ensnared in the te
 
 ## Loot, Rewards & Purchases
 Loot, rewards and purchases.
-- [ ] [[Cloak Of Elvenkind]] ([[Szoldar Szoldarovich]] and [[Yevgeni Krushkin]] )
-- [ ] [[Boots Of Striding And Springing]] ([[Urwin Martikov]])
+- [x] [[Cloak Of Elvenkind]] ([[Szoldar Szoldarovich]] and [[Yevgeni Krushkin]] )
+- [x] [[Boots Of Striding And Springing]] ([[Urwin Martikov]])
 - [ ] [[Immovable Rod]] 
 - [ ] [[Elven Chain]] ([[Szoldar Szoldarovich]] and [[Yevgeni Krushkin]] )
 - [ ] [[Docent (ERLW)]] ([[Gadof Blinsky]])
