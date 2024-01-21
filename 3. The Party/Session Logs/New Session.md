@@ -38,8 +38,10 @@ With the moon overhead you prepare to finally leave this town ensnared in the te
 
 ## Loot, Rewards & Purchases
 Loot, rewards and purchases.
-- [ ] Thing 1
-- [ ] Thing 2
+- [ ] [[Cloak Of Elvenkind]] 
+- [ ] [[Boots Of Striding And Springing]] 
+- [ ] [[Immovable Rod]] 
+- [ ] [[Elven Chain]] 
 
 ## Keep in Mind
 Things to keep in mind during the session, from items to important details
