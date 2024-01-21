@@ -5,6 +5,7 @@ image: z_Assets/PlaceholderImage.png
 pronounced: 
 resources:
   - "[[06 Chapter-4 Castle Ravenloft|Castle Ravenloft]]"
+  - "[[CoS Companion - Digital - Lite.pdf#page=82|To Dine at Castle Ravenloft]]"
 population: 
 terrain: 
 rulers: 
