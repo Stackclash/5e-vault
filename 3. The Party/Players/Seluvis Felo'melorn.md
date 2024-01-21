@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 statblock: true
 level: 5
-race: Elf High
-class: Artificer (TCE)
+race: "[[5. Mechanics/Races/Elf High.md|Elf High]]"
+class: "[[5. Mechanics/Classes/Artificer Armorer (TCE).md|Artificer Armorer (TCE)]]"
 hp: 33
 stats:
   str: 8

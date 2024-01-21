@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. The Party/Parties/Curse of Strahd.md",
-                "mode": "source",
+                "file": "3. The Party/Players/Redgrave.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/Parties/Curse of Strahd.md",
+                "file": "3. The Party/Players/Redgrave.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/Parties/Curse of Strahd.md",
+                "file": "3. The Party/Players/Redgrave.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/Parties/Curse of Strahd.md"
+                "file": "3. The Party/Players/Redgrave.md"
               }
             }
           },
@@ -177,13 +177,14 @@
   },
   "active": "b2c608465ca16709",
   "lastOpenFiles": [
+    "3. The Party/Players/Marin.md",
+    "3. The Party/Players/Redgrave.md",
+    "3. The Party/Players/Seluvis Felo'melorn.md",
+    "3. The Party/Players/Faerah Duskrane.md",
+    "3. The Party/Parties/Curse of Strahd.md",
     "3. The Party/Parties/Parties.md",
     "3. The Party/Players/Yevelda Ovak.md",
     "3. The Party/Players/Test.md",
-    "3. The Party/Players/Seluvis Felo'melorn.md",
-    "3. The Party/Players/Redgrave.md",
-    "3. The Party/Players/Marin.md",
-    "3. The Party/Players/Faerah Duskrane.md",
     "3. The Party/Players/Players.md",
     "z_Templates/DM Prep/Lazy DM Prep Notes.md",
     "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
@@ -202,7 +203,6 @@
     "4. World Almanac/NPCs/The Mad Mage Of Mount Baratok.md",
     "4. World Almanac/NPCs/Szoldar Szoldarovich.md",
     "4. World Almanac/NPCs/Strahds Animated Armor.md",
-    "4. World Almanac/NPCs/Strahd Von Zarovich.md",
     "6. Resources/Resources/The Interactive Tome of Strahd.pdf",
     "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
     "z_Scripts/Dataview/npcs.js",

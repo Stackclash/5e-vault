@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 statblock: true
 level: 5
-race: Half Elf
-class: Warlock
+race: "[[5. Mechanics/Races/Half Elf.md|Half Elf]]"
+class: "[[5. Mechanics/Classes/Warlock The Hexblade (XGE).md|Warlock The Hexblade (XGE)]]"
 hp: 43
 stats:
   str: 7
@@ -20,7 +20,7 @@ bond:
 flaw: 
 likes: 
 dislikes: 
-image: z_Assets/Marin.jpeg
+image: 
 condition: Healthy
 location: Vallaki
 party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"

@@ -20,7 +20,7 @@ speed: normal
 > ```dataview
 > TABLE WITHOUT ID
 > link(file.path, name) AS "Name",
-> embed(link(img)) AS "Art",
+> embed(link(image)) AS "Art",
 > race AS "Race",
 > condition AS "Condition",
 > location AS "Location"

@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 statblock: true
 level: 5
-race: Elf Drow
-class: Rogue
+race: "[[5. Mechanics/Races/Elf Drow.md|Elf Drow]]"
+class: "[[5. Mechanics/Classes/Rogue Swashbuckler (XGE).md|Rogue Swashbuckler (XGE)]]"
 hp: 38
 stats:
   str: 8

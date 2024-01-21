@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 statblock: true
 level: 5
-race: Warforged (ERLW)
-class: Cleric
+race: "[[5. Mechanics/Races/Warforged (ERLW).md|Warforged (ERLW)]]"
+class: "[[5. Mechanics/Classes/Cleric Forge Domain (XGE).md|Cleric Forge Domain (XGE)]]"
 hp: 38
 stats:
   str: 15
@@ -20,7 +20,7 @@ bond:
 flaw: 
 likes: 
 dislikes: 
-image: z_Assets/Redgrave.jpeg
+image: 
 condition: Healthy
 location: Vallaki
 party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
