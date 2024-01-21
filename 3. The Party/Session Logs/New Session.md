@@ -49,11 +49,15 @@ Loot, rewards and purchases.
 Things to keep in mind during the session, from items to important details
 
 ## Events
+- [[Urwin Martikov]] gives [[Boots Of Striding And Springing]] to party
 - [[Marin]] buys a vial of [[Assassins Blood]] for 2gp
+- [[Szoldar Szoldarovich]] and [[Yevgeni Krushkin]] gives [[Elven Chain]] and [[Cloak Of Elvenkind]] to party
 - The party buys healing potion:
 	- 8x [[Potion Of Greater Healing]] @ 5gp
 	- 2x [[Potion Of Healing]] @ 2gp (They have 3 already)
-- Party buys 2 draft h
+- [[Gadof Blinsky]] tinkers with Nyxia and upgrades her with [[Docent (ERLW)]] qualities
+- [[Gadof Blinsky]] gives his [[Eyes Of Minute Seeing]] to the party
+- Party buys 2 [[5. Mechanics/Items/Draft Horse|draft horses]] and a [[Wagon|wagon]] @ 15gp
 
 # Summary
 ## New NPCs

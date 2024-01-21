@@ -20,78 +20,19 @@
             }
           },
           {
-            "id": "b6e4076b3aefe6ed",
+            "id": "cecc729830b77db0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Mechanics/Items/Docent (ERLW).md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c23777ac06a613f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. World Almanac/Regions/Barovia.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29ce53a3ac610829",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. DM Screen/Tools/Barovian Names.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff6a0a779e69de1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. World Almanac/Shops/Blue Water Inn.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd140efad5720404",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. DM Screen/Lookup Tables/Travel.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2d6591adbb5667d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. World Almanac/Worlds/Eldoria.md",
+                "file": "4. World Almanac/Places of Interest/Van Richten's Tower.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/Session Logs/New Session.md",
+                "file": "4. World Almanac/Places of Interest/Van Richten's Tower.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/Session Logs/New Session.md",
+                "file": "4. World Almanac/Places of Interest/Van Richten's Tower.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/Session Logs/New Session.md"
+                "file": "4. World Almanac/Places of Interest/Van Richten's Tower.md"
               }
             }
           },
@@ -247,15 +188,15 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "f811f333a99d05ac",
+  "active": "cecc729830b77db0",
   "lastOpenFiles": [
+    "3. The Party/Session Logs/New Session.md",
     "1. DM Screen/Lookup Tables/Travel.md",
     "4. World Almanac/Shops/Blue Water Inn.md",
     "4. World Almanac/Worlds/Eldoria.md",
     "4. World Almanac/Regions/Barovia.md",
     "1. DM Screen/Tools/Barovian Names.md",
     "3. The Party/Players/Marin.md",
-    "3. The Party/Session Logs/New Session.md",
     "5. Mechanics/Items/Eyes Of Minute Seeing.md",
     "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
     "4. World Almanac/Shops/Blinsky Toys.md",
