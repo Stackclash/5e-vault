@@ -6,12 +6,12 @@ race: Warforged (ERLW)
 class: Cleric
 hp: 38
 stats:
-  - "15"
-  - "8"
-  - "14"
-  - "12"
-  - "18"
-  - "10"
+  str: 15
+  dex: 8
+  con: 14
+  int: 12
+  wis: 18
+  cha: 10
 ac: 22
 modifier: -1
 alignment: 

@@ -6,12 +6,12 @@ race: Elf High
 class: Artificer (TCE)
 hp: 33
 stats:
-  - "8"
-  - "16"
-  - "13"
-  - "18"
-  - "12"
-  - "10"
+  str: 8
+  dex: 16
+  con: 13
+  int: 18
+  wis: 12
+  cha: 10
 ac: 15
 modifier: 3
 alignment: 

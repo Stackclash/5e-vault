@@ -6,12 +6,12 @@ race: Half Elf
 class: Warlock
 hp: 43
 stats:
-  - "7"
-  - "16"
-  - "16"
-  - "11"
-  - "13"
-  - "20"
+  str: 7
+  dex: 16
+  con: 16
+  int: 11
+  wis: 13
+  cha: 20
 ac: 15
 modifier: 3
 alignment: 

@@ -6,12 +6,12 @@ race: Human
 class: Barbarian
 hp: 65
 stats:
-  - "18"
-  - "14"
-  - "16"
-  - "10"
-  - "13"
-  - "12"
+  str: 18
+  dex: 14
+  con: 16
+  int: 10
+  wis: 13
+  cha: 12
 ac: 15
 modifier: 2
 alignment: 
