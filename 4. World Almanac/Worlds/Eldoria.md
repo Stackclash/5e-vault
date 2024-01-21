@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-economic_scale: 0.015
+economic_scale: 0.15
 ---
 
 ## Notable Locations
