@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. The Party/Players/Redgrave.md",
+                "file": "5. Mechanics/Tables/Adventuring Gear.md",
                 "mode": "preview",
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/Players/Redgrave.md",
+                "file": "5. Mechanics/Tables/Adventuring Gear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/Players/Redgrave.md",
+                "file": "5. Mechanics/Tables/Adventuring Gear.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/Players/Redgrave.md"
+                "file": "5. Mechanics/Tables/Adventuring Gear.md"
               }
             }
           },
@@ -177,32 +177,32 @@
   },
   "active": "b2c608465ca16709",
   "lastOpenFiles": [
-    "3. The Party/Players/Marin.md",
-    "3. The Party/Players/Redgrave.md",
-    "3. The Party/Players/Seluvis Felo'melorn.md",
-    "3. The Party/Players/Faerah Duskrane.md",
-    "3. The Party/Parties/Curse of Strahd.md",
+    "5. Mechanics/Tables/Adventuring Gear Container Capacity.md",
+    "5. Mechanics/Tables/Adventuring Options Firearms.md",
+    "5. Mechanics/Tables/Ancient Being Operative Roles (TCE).md",
+    "5. Mechanics/Tables/Ancient Being (TCE).md",
+    "5. Mechanics/Tables/250 Gp Art Objects.md",
+    "5. Mechanics/Tables/100 Gp Gemstones.md",
+    "5. Mechanics/Tables/50 Gp Gemstones.md",
+    "5. Mechanics/Tables/25 Gp Art Objects.md",
+    "5. Mechanics/Tables/10 Gp Gemstones.md",
+    "5. Mechanics/Optional Features/Optional Features.md",
+    "5. Mechanics/Items/Items.md",
+    "5. Mechanics/Feats/Feats.md",
+    "5. Mechanics/Classes/Classes.md",
+    "5. Mechanics/Classes/Barbarian.md",
+    "5. Mechanics/Decks/Decks.md",
+    "5. Mechanics/Decks/Deck Of Many Things.md",
     "3. The Party/Parties/Parties.md",
-    "3. The Party/Players/Yevelda Ovak.md",
-    "3. The Party/Players/Test.md",
+    "4. World Almanac/Settlements/Vallaki.md",
+    "4. World Almanac/Places of Interest/Places of Interest.md",
+    "2. Scratch Notes/To-Do List.md",
+    "3. The Party/Parties/Curse of Strahd.md",
     "3. The Party/Players/Players.md",
-    "z_Templates/DM Prep/Lazy DM Prep Notes.md",
-    "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
-    "z_Templates/World Building/Place of Interest.md",
-    "4. World Almanac/Shops/Blue Water Inn.md",
-    "4. World Almanac/NPCs/Zygfrek Belview.md",
-    "4. World Almanac/NPCs/Zuleika Toranescu.md",
-    "4. World Almanac/NPCs/Yevgeni Krushkin.md",
-    "4. World Almanac/NPCs/Volenta Popofsky.md",
-    "4. World Almanac/NPCs/Vladimir Horngaard.md",
-    "4. World Almanac/NPCs/Vilnius.md",
-    "4. World Almanac/NPCs/Victor Vallakovich.md",
-    "4. World Almanac/NPCs/Vasilka.md",
-    "4. World Almanac/NPCs/Urwin Martikov.md",
-    "4. World Almanac/NPCs/Thornboldt Thorn Durst.md",
-    "4. World Almanac/NPCs/The Mad Mage Of Mount Baratok.md",
-    "4. World Almanac/NPCs/Szoldar Szoldarovich.md",
-    "4. World Almanac/NPCs/Strahds Animated Armor.md",
+    "3. The Party/Players/Yevelda Ovak.md",
+    "3. The Party/Players/Seluvis Felo'melorn.md",
+    "3. The Party/Players/Redgrave.md",
+    "3. The Party/Players/Marin.md",
     "6. Resources/Resources/The Interactive Tome of Strahd.pdf",
     "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
     "z_Scripts/Dataview/npcs.js",

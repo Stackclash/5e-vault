@@ -165,6 +165,10 @@ columns:
       - { label: "Warforged (ERLW)", value: "Warforged (ERLW)", color: "hsl(84, 95%, 90%)"}
       - { label: "High Elf", value: "High Elf", color: "hsl(95, 95%, 90%)"}
       - { label: "Elf High", value: "Elf High", color: "hsl(237, 95%, 90%)"}
+      - { label: "[[5. Mechanics/Races/Elf Drow.md|Elf Drow]]", value: "[[5. Mechanics/Races/Elf Drow.md|Elf Drow]]", color: "hsl(178, 95%, 90%)"}
+      - { label: "[[5. Mechanics/Races/Half Elf.md|Half Elf]]", value: "[[5. Mechanics/Races/Half Elf.md|Half Elf]]", color: "hsl(288, 95%, 90%)"}
+      - { label: "[[5. Mechanics/Races/Warforged (ERLW).md|Warforged (ERLW)]]", value: "[[5. Mechanics/Races/Warforged (ERLW).md|Warforged (ERLW)]]", color: "hsl(61, 95%, 90%)"}
+      - { label: "[[5. Mechanics/Races/Elf High.md|Elf High]]", value: "[[5. Mechanics/Races/Elf High.md|Elf High]]", color: "hsl(69, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -236,6 +240,10 @@ columns:
       - { label: "Artificer", value: "Artificer", color: "hsl(193, 95%, 90%)"}
       - { label: "Barbarian", value: "Barbarian", color: "hsl(137, 95%, 90%)"}
       - { label: "Artificer (TCE)", value: "Artificer (TCE)", color: "hsl(133, 95%, 90%)"}
+      - { label: "[[5. Mechanics/Classes/Rogue Swashbuckler (XGE).md|Rogue Swashbuckler (XGE)]]", value: "[[5. Mechanics/Classes/Rogue Swashbuckler (XGE).md|Rogue Swashbuckler (XGE)]]", color: "hsl(109, 95%, 90%)"}
+      - { label: "[[5. Mechanics/Classes/Warlock The Hexblade (XGE).md|Warlock The Hexblade (XGE)]]", value: "[[5. Mechanics/Classes/Warlock The Hexblade (XGE).md|Warlock The Hexblade (XGE)]]", color: "hsl(251, 95%, 90%)"}
+      - { label: "[[5. Mechanics/Classes/Cleric Forge Domain (XGE).md|Cleric Forge Domain (XGE)]]", value: "[[5. Mechanics/Classes/Cleric Forge Domain (XGE).md|Cleric Forge Domain (XGE)]]", color: "hsl(211, 95%, 90%)"}
+      - { label: "[[5. Mechanics/Classes/Artificer Armorer (TCE).md|Artificer Armorer (TCE)]]", value: "[[5. Mechanics/Classes/Artificer Armorer (TCE).md|Artificer Armorer (TCE)]]", color: "hsl(150, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
