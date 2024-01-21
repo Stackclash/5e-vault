@@ -53,6 +53,7 @@ Things to keep in mind during the session, from items to important details
 - The party buys healing potion:
 	- 8x [[Potion Of Greater Healing]] @ 5gp
 	- 2x [[Potion Of Healing]] @ 2gp (They have 3 already)
+- Party buys 2 draft h
 
 # Summary
 ## New NPCs
