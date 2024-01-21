@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/Regions/Barovia.md",
+                "file": "3. The Party/Session Logs/New Session.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/Regions/Barovia.md",
+                "file": "3. The Party/Session Logs/New Session.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/Regions/Barovia.md"
+                "file": "3. The Party/Session Logs/New Session.md"
               }
             }
           },
@@ -200,10 +199,11 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "2c23777ac06a613f",
+  "active": "f811f333a99d05ac",
   "lastOpenFiles": [
-    "4. World Almanac/Shops/Blue Water Inn.md",
     "4. World Almanac/Regions/Barovia.md",
+    "2. Scratch Notes/To-Do List.md",
+    "4. World Almanac/Shops/Blue Water Inn.md",
     "3. The Party/Session Logs/New Session.md",
     "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
     "5. Mechanics/Items/Docent (ERLW).md",
@@ -228,7 +228,6 @@
     "4. World Almanac/NPCs/Davian Martikov.md",
     "4. World Almanac/NPCs/Ezmerelda Davenir.md",
     "6. Resources/5e Modules/Curse Of Strahd/13 Chapter-11 Van Richtens Tower.md",
-    "4. World Almanac/NPCs/Strahd Von Zarovich.md",
     "z_Scripts/Dataview/npcs.js",
     "z_Scripts/Dataview/locationBreadcrumbs.js",
     "z_Scripts/Dataview/shopInventory.js",

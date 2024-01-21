@@ -27,3 +27,4 @@
 	- [ ] Regions
 	- [ ] Settlements
 - [ ] Create note to appear as new note screen
+- [ ] Fix location NPCs table to include child locations
