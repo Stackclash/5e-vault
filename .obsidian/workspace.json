@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Mechanics/Tables/Adventuring Gear.md",
-                "mode": "preview",
+                "file": "5. Mechanics/Tables/Human Names Slavic Female (XGE).md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Mechanics/Tables/Adventuring Gear.md",
+                "file": "5. Mechanics/Tables/Human Names Slavic Female (XGE).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Mechanics/Tables/Adventuring Gear.md",
+                "file": "5. Mechanics/Tables/Human Names Slavic Female (XGE).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Mechanics/Tables/Adventuring Gear.md"
+                "file": "5. Mechanics/Tables/Human Names Slavic Female (XGE).md"
               }
             }
           },
@@ -177,6 +177,12 @@
   },
   "active": "b2c608465ca16709",
   "lastOpenFiles": [
+    "5. Mechanics/Tables/Dark Fantasy Settings (VRGR).md",
+    "5. Mechanics/Tables/Dark Fantasy Monsters (VRGR).md",
+    "5. Mechanics/Tables/Dark Fantasy Adventure Sites (VRGR).md",
+    "5. Mechanics/Tables/Creating Your Own Units Unit Equipment (SAF).md",
+    "5. Mechanics/Tables/Creating Common Magic Items (ERLW).md",
+    "5. Mechanics/Tables/Adventuring Gear.md",
     "5. Mechanics/Tables/Adventuring Gear Container Capacity.md",
     "5. Mechanics/Tables/Adventuring Options Firearms.md",
     "5. Mechanics/Tables/Ancient Being Operative Roles (TCE).md",
@@ -197,12 +203,6 @@
     "4. World Almanac/Settlements/Vallaki.md",
     "4. World Almanac/Places of Interest/Places of Interest.md",
     "2. Scratch Notes/To-Do List.md",
-    "3. The Party/Parties/Curse of Strahd.md",
-    "3. The Party/Players/Players.md",
-    "3. The Party/Players/Yevelda Ovak.md",
-    "3. The Party/Players/Seluvis Felo'melorn.md",
-    "3. The Party/Players/Redgrave.md",
-    "3. The Party/Players/Marin.md",
     "6. Resources/Resources/The Interactive Tome of Strahd.pdf",
     "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
     "z_Scripts/Dataview/npcs.js",
