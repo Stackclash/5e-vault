@@ -40,7 +40,6 @@ With the moon overhead you prepare to finally leave this town ensnared in the te
 Loot, rewards and purchases.
 - [x] [[Cloak Of Elvenkind]] ([[Szoldar Szoldarovich]] and [[Yevgeni Krushkin]] )
 - [x] [[Boots Of Striding And Springing]] ([[Urwin Martikov]])
-- [ ] [[Immovable Rod]] 
 - [x] [[Elven Chain]] ([[Szoldar Szoldarovich]] and [[Yevgeni Krushkin]] )
 - [x] [[Docent (ERLW)]] ([[Gadof Blinsky]])
 - [x] [[Eyes Of Minute Seeing]] ([[Gadof Blinsky]])
@@ -58,6 +57,8 @@ Things to keep in mind during the session, from items to important details
 - [[Gadof Blinsky]] tinkers with Nyxia and upgrades her with [[Docent (ERLW)]] qualities
 - [[Gadof Blinsky]] gives his [[Eyes Of Minute Seeing]] to the party
 - Party buys 2 [[5. Mechanics/Items/Draft Horse|draft horses]] and a [[Wagon|wagon]] @ 15gp
+- Party gets to [[Van Richten's Tower]] 
+- They find the [[Tome Of Strahd (COS)]] 
 
 # Summary
 ## New NPCs
