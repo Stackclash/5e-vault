@@ -1,34 +1,35 @@
 ---
 obsidianUIMode: preview
 statblock: true
-level: 5
-race: Human
-class: Barbarian
-hp: 65
+level: 1
+race:
+class:
+hp: 1
 stats:
-  - "18"
-  - "14"
-  - "16"
-  - "10"
-  - "13"
-  - "12"
-ac: 15
-modifier: 2
+  str: 10
+  dex: 10
+  con: 10
+  int: 10
+  wis: 10
+  cha: 10
+ac: 10
+modifier:
 alignment: 
 ideal: 
 bond: 
 flaw: 
 likes: 
 dislikes: 
-image: z_Assets/Yevelda Ovak.jpeg
-condition: Healthy
-location: Vallaki
 party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
-exhaustion: 0
+image: z_Assets/Barovia.jpg
+condition:
+location:
 ---
 > [!infobox|right]
 > # `=this.file.name`
-> `$=dv.container='<img src="'+app.vault.getResourcePath(dv.fileLink("z_Assets/"+dv.current().art))+'"/>'`
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```
 > ## Info
 > | | |
 > | ---- | ---- |
@@ -49,7 +50,7 @@ exhaustion: 0
 > | Charisma | `INPUT[number:stats.cha]` | `$=Math.floor((parseInt(dv.current().stats.cha)-10)/2)` |
 # DnD Beyond Character Sheet
 ```custom-frames
-frame: DnDBShi
+frame: 
 ```
 
 # Personality

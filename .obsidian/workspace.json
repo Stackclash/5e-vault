@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/DM Prep/Lazy DM Prep Notes.md",
-                "mode": "source",
+                "file": "3. The Party/Players/Test.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Templates/DM Prep/Lazy DM Prep Notes.md",
+                "file": "3. The Party/Players/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Templates/DM Prep/Lazy DM Prep Notes.md",
+                "file": "3. The Party/Players/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Templates/DM Prep/Lazy DM Prep Notes.md"
+                "file": "3. The Party/Players/Test.md"
               }
             }
           },
@@ -199,10 +199,12 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "a88a1818b2c15bdd",
+  "active": "97ec1f575b35db98",
   "lastOpenFiles": [
+    "z_Templates/DM Prep/Lazy DM Prep Notes.md",
+    "3. The Party/Players/Test.md",
+    "3. The Party/Players/Test.md",
     "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
-    "Untitled.md",
     "z_Templates/World Building/Place of Interest.md",
     "4. World Almanac/Shops/Blue Water Inn.md",
     "4. World Almanac/NPCs/Zygfrek Belview.md",
@@ -225,8 +227,6 @@
     "4. World Almanac/NPCs/Lady Fiona Wachter.md",
     "4. World Almanac/NPCs/Savid.md",
     "4. World Almanac/NPCs/Sangzor.md",
-    "4. World Almanac/NPCs/Rosavalda Rose Durst.md",
-    "4. World Almanac/Places of Interest/Death House.md",
     "6. Resources/Resources/The Interactive Tome of Strahd.pdf",
     "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
     "z_Scripts/Dataview/npcs.js",

@@ -20,11 +20,10 @@ bond:
 flaw: 
 likes: 
 dislikes: 
-art: Redgrave.jpeg
+image: z_Assets/Redgrave.jpeg
 condition: Healthy
 location: Vallaki
-party_player:
-  - "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
+party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
 exhaustion: 0
 ---
 > [!infobox|right]
@@ -33,21 +32,21 @@ exhaustion: 0
 > ## Info
 > | | |
 > | ---- | ---- |
-> | Level | `=this.level` |
-> | Class | `=link(this.class)` |
-> | Race | `=link(this.race)` |
-> | HP | `=this.hp` |
-> | AC | `=this.ac` |
-> | Initiative Mod | `=this.modifier` |
+> | Level | `INPUT[inlineSelect(option(1),option(2),option(3),option(4),option(5),option(6),option(7),option(8),option(9),option(10),option(11),option(12),option(13),option(14),option(15),option(16),option(17),option(18),option(19),option(20)):level]` |
+> | Class | `INPUT[suggester(optionQuery("5. Mechanics/Classes")):class]` |
+> | Race | `INPUT[suggester(optionQuery("5. Mechanics/Races")):race]` |
+> | HP | `INPUT[number:hp]` |
+> | AC | `INPUT[number:ac]` |
+> | Initiative Mod | `INPUT[number:modifier]` |
 > ## Stats
 > | | | |
 > | ---- | ---- | ---- |
-> | Strength | `=this.stats[0]` | `$=Math.floor((parseInt(dv.current().stats[0])-10)/2)` |
-> | Dexterity | `=this.stats[1]` | `$=Math.floor((parseInt(dv.current().stats[1])-10)/2)` |
-> | Constitution | `=this.stats[2]` | `$=Math.floor((parseInt(dv.current().stats[2])-10)/2)` |
-> | Intelligence | `=this.stats[3]` | `$=Math.floor((parseInt(dv.current().stats[3])-10)/2)` |
-> | Wisdom | `=this.stats[4]` | `$=Math.floor((parseInt(dv.current().stats[4])-10)/2)` |
-> | Charisma | `=this.stats[5]` | `$=Math.floor((parseInt(dv.current().stats[5])-10)/2)` |
+> | Strength | `INPUT[number:stats.str]` | `$=Math.floor((parseInt(dv.current().stats.str)-10)/2)` |
+> | Dexterity | `INPUT[number:stats.dex]` | `$=Math.floor((parseInt(dv.current().stats.dex)-10)/2)` |
+> | Constitution | `INPUT[number:stats.con]` | `$=Math.floor((parseInt(dv.current().stats.con)-10)/2)` |
+> | Intelligence | `INPUT[number:stats.int]` | `$=Math.floor((parseInt(dv.current().stats.int)-10)/2)` |
+> | Wisdom | `INPUT[number:stats.wis]` | `$=Math.floor((parseInt(dv.current().stats.wis)-10)/2)` |
+> | Charisma | `INPUT[number:stats.cha]` | `$=Math.floor((parseInt(dv.current().stats.cha)-10)/2)` |
 # DnD Beyond Character Sheet
 ```custom-frames
 frame: DnDBGeorge
