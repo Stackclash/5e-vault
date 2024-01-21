@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "3. The Party/Session Logs/New Session.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/Regions/Barovia.md",
+                "file": "6. Resources/5e Modules/Curse Of Strahd/13 Chapter-11 Van Richtens Tower.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/Regions/Barovia.md",
+                "file": "6. Resources/5e Modules/Curse Of Strahd/13 Chapter-11 Van Richtens Tower.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/Regions/Barovia.md"
+                "file": "6. Resources/5e Modules/Curse Of Strahd/13 Chapter-11 Van Richtens Tower.md"
               }
             }
           },
@@ -212,15 +212,15 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "78ab8e5193a0ebb4",
+  "active": "d8c75d7fca6b8884",
   "lastOpenFiles": [
-    "6. Resources/5e Modules/Curse Of Strahd/13 Chapter-11 Van Richtens Tower.md",
     "4. World Almanac/Places of Interest/Van Richten's Tower.md",
     "3. The Party/Session Logs/New Session.md",
+    "6. Resources/5e Modules/Curse Of Strahd/13 Chapter-11 Van Richtens Tower.md",
+    "4. World Almanac/Regions/Barovia.md",
     "1. DM Screen/Lookup Tables/Travel.md",
     "4. World Almanac/Shops/Blue Water Inn.md",
     "4. World Almanac/Worlds/Eldoria.md",
-    "4. World Almanac/Regions/Barovia.md",
     "1. DM Screen/Tools/Barovian Names.md",
     "3. The Party/Players/Marin.md",
     "5. Mechanics/Items/Eyes Of Minute Seeing.md",

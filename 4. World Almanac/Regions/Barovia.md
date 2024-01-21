@@ -11,8 +11,8 @@ rulers:
 government: 
 army: 
 religions: 
-imports: 
-exports: 
+imports: []
+exports: []
 aliases: []
 ---
 > [!infobox]
