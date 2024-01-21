@@ -103,8 +103,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Mechanics/Items/Docent (ERLW).md",
+                "file": "3. The Party/Session Logs/New Session.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Mechanics/Items/Docent (ERLW).md",
+                "file": "3. The Party/Session Logs/New Session.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Mechanics/Items/Docent (ERLW).md"
+                "file": "3. The Party/Session Logs/New Session.md"
               }
             }
           },
@@ -260,8 +259,9 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "b6e4076b3aefe6ed",
+  "active": "f811f333a99d05ac",
   "lastOpenFiles": [
+    "5. Mechanics/Items/Docent (ERLW).md",
     "3. The Party/Session Logs/New Session.md",
     "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
     "4. World Almanac/Shops/Blinsky Toys.md",
@@ -275,7 +275,6 @@
     "5. Mechanics/Items/Potion Of Greater Healing.md",
     "5. Mechanics/Tables/Poisons.md",
     "2. Scratch Notes/To-Do List.md",
-    "5. Mechanics/Items/Docent (ERLW).md",
     "5. Mechanics/Items/Eyes Of Minute Seeing.md",
     "5. Mechanics/Spells/Detect Evil And Good.md",
     "3. The Party/Players/Redgrave.md",

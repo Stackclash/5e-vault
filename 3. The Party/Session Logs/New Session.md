@@ -42,8 +42,8 @@ Loot, rewards and purchases.
 - [x] [[Boots Of Striding And Springing]] ([[Urwin Martikov]])
 - [ ] [[Immovable Rod]] 
 - [x] [[Elven Chain]] ([[Szoldar Szoldarovich]] and [[Yevgeni Krushkin]] )
-- [ ] [[Docent (ERLW)]] ([[Gadof Blinsky]])
-- [ ] [[Eyes Of Minute Seeing]] ([[Gadof Blinsky]])
+- [x] [[Docent (ERLW)]] ([[Gadof Blinsky]])
+- [x] [[Eyes Of Minute Seeing]] ([[Gadof Blinsky]])
 
 ## Keep in Mind
 Things to keep in mind during the session, from items to important details
