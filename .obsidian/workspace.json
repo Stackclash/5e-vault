@@ -13,13 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/NPCs/Piccolo.md",
+                "file": "4. World Almanac/NPCs/Zygfrek Belview.md",
                 "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "b67beaa402f26fb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. World Almanac/Shops/Blue Water Inn.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97ec1f575b35db98",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -88,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/NPCs/Piccolo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +125,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/NPCs/Piccolo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +147,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "4. World Almanac/NPCs/Piccolo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,34 +192,34 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "465cb0c6ebf8bfbd",
+  "active": "97ec1f575b35db98",
   "lastOpenFiles": [
-    "4. World Almanac/NPCs/Patrina Velikovna.md",
-    "4. World Almanac/NPCs/Parriwimple.md",
-    "4. World Almanac/NPCs/Otto Belview.md",
-    "4. World Almanac/NPCs/Nikolai Wachter.md",
-    "4. World Almanac/NPCs/Morgantha.md",
-    "4. World Almanac/NPCs/Mishka Belview.md",
-    "4. World Almanac/NPCs/Milivoj.md",
-    "4. World Almanac/NPCs/Madam Eva.md",
-    "4. World Almanac/NPCs/Majesto.md",
-    "4. World Almanac/NPCs/Mad Mary.md",
-    "4. World Almanac/NPCs/Ludmilla Vilisevic.md",
-    "4. World Almanac/NPCs/Lief Lipsiege.md",
-    "4. World Almanac/NPCs/Lady Lydia Petrovna.md",
+    "4. World Almanac/Shops/Blue Water Inn.md",
+    "4. World Almanac/NPCs/Zygfrek Belview.md",
+    "4. World Almanac/NPCs/Zuleika Toranescu.md",
+    "4. World Almanac/NPCs/Yevgeni Krushkin.md",
+    "4. World Almanac/NPCs/Volenta Popofsky.md",
+    "4. World Almanac/NPCs/Vladimir Horngaard.md",
+    "4. World Almanac/NPCs/Vilnius.md",
+    "4. World Almanac/NPCs/Victor Vallakovich.md",
+    "4. World Almanac/NPCs/Vasilka.md",
+    "4. World Almanac/NPCs/Urwin Martikov.md",
+    "4. World Almanac/NPCs/Thornboldt Thorn Durst.md",
+    "4. World Almanac/NPCs/The Mad Mage Of Mount Baratok.md",
+    "4. World Almanac/NPCs/Szoldar Szoldarovich.md",
+    "4. World Almanac/NPCs/Strahds Animated Armor.md",
+    "4. World Almanac/NPCs/Strahd Von Zarovich.md",
+    "4. World Almanac/NPCs/Stella Wachter.md",
+    "4. World Almanac/NPCs/Stanimir.md",
+    "4. World Almanac/NPCs/Sir Godfrey Gwilym.md",
     "4. World Almanac/NPCs/Lady Fiona Wachter.md",
-    "4. World Almanac/NPCs/Kiril Stoyanovich.md",
-    "4. World Almanac/NPCs/Kasimir Velikov.md",
-    "4. World Almanac/NPCs/Izek Strazni.md",
-    "4. World Almanac/NPCs/Ismark Kolyanovich.md",
-    "4. World Almanac/NPCs/Ireena Kolyana.md",
-    "4. World Almanac/NPCs/Henrik Van Der Voort.md",
-    "4. World Almanac/NPCs/Gertruda.md",
-    "4. World Almanac/NPCs/Gadof Blinsky.md",
-    "4. World Almanac/NPCs/Ezmerelda Davenir.md",
-    "4. World Almanac/NPCs/Exethanter.md",
-    "4. World Almanac/NPCs/Escher.md",
-    "4. World Almanac/NPCs/Doru.md",
+    "4. World Almanac/NPCs/Savid.md",
+    "4. World Almanac/NPCs/Sangzor.md",
+    "4. World Almanac/NPCs/Rosavalda Rose Durst.md",
+    "4. World Almanac/Places of Interest/Death House.md",
+    "Untitled.md",
+    "4. World Almanac/NPCs/Rictavio.md",
+    "4. World Almanac/NPCs/Rahadin.md",
     "6. Resources/Resources/The Interactive Tome of Strahd.pdf",
     "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
     "z_Scripts/Dataview/npcs.js",

@@ -10,7 +10,7 @@ condition: healthy
 occupation: 
 group: 
 religions: 
-location: "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
+location: "[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]"
 personality: 
 ideal: 
 bond: 

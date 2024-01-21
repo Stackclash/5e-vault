@@ -10,7 +10,7 @@ condition: healthy
 occupation: 
 group: 
 religions: 
-location: 
+location: "[[4. World Almanac/Places of Interest/Death House.md|Death House]]"
 personality: 
 ideal: 
 bond: 
@@ -19,11 +19,12 @@ goals:
 likes: 
 dislikes: 
 tags:
-- compendium/src/5e/cos
-- monster/cr/3
-- monster/size/small
-- monster/type/undead
-aliases: ["Rosavalda "Rose" Durst"]
+  - compendium/src/5e/cos
+  - monster/cr/3
+  - monster/size/small
+  - monster/type/undead
+aliases:
+  - Rosavalda "Rose" Durst
 ---
 
 > [!infobox]

@@ -54616,48 +54616,6 @@
       }
     ],
     [
-      "Piccolo (CoS)",
-      {
-        "name": "Piccolo (CoS)",
-        "size": "Small",
-        "type": "beast",
-        "alignment": "Unaligned",
-        "ac": 12,
-        "hp": 3,
-        "hit_dice": "1d6",
-        "stats": [
-          8,
-          14,
-          11,
-          4,
-          12,
-          6
-        ],
-        "speed": "30 ft., climb 30 ft.",
-        "senses": "passive Perception 11",
-        "languages": "",
-        "cr": "0",
-        "traits": [
-          {
-            "desc": "Piccolo has advantage on an attack roll against a creature if at least one of Piccolo's allies is within 5 feet of the creature and the ally isn't incapacitated.",
-            "name": "Pack Tactics"
-          }
-        ],
-        "actions": [
-          {
-            "desc": "Melee Weapon Attack: dice: d20+1 (+1 to hit), reach 5 ft., one target. Hit: dice: 1d4 - 1|avg (1d4 - 1) piercing damage.",
-            "name": "Bite"
-          }
-        ],
-        "source": [
-          "CoS"
-        ],
-        "image": "4. World Almanac/NPCs/token/piccolo.png",
-        "note": "4. World Almanac/NPCs/Piccolo.md",
-        "mtime": 1705623226680
-      }
-    ],
-    [
       "Pidlwick II (CoS)",
       {
         "name": "Pidlwick II (CoS)",
@@ -54705,80 +54663,6 @@
         ],
         "image": "4. World Almanac/NPCs/token/pidlwick-ii.png",
         "note": "4. World Almanac/NPCs/Pidlwick Ii.md",
-        "mtime": 1705623226680
-      }
-    ],
-    [
-      "Rahadin (CoS)",
-      {
-        "name": "Rahadin (CoS)",
-        "size": "Medium",
-        "type": "humanoid",
-        "subtype": "elf",
-        "alignment": "Lawful Evil",
-        "ac": 18,
-        "hp": 135,
-        "hit_dice": "18d8 + 54",
-        "stats": [
-          14,
-          22,
-          17,
-          15,
-          16,
-          18
-        ],
-        "speed": "35 ft.",
-        "saves": {
-          "Wisdom": 7,
-          "Constitution": 7
-        },
-        "skillsaves": {
-          "Intimidation": 12,
-          "Deception": 8,
-          "Stealth": 14,
-          "Insight": 7,
-          "Perception": 11
-        },
-        "senses": "darkvision 60 ft., passive Perception 21",
-        "languages": "Common, Elvish",
-        "cr": "10",
-        "traits": [
-          {
-            "desc": "Rahadin's innate spellcasting ability is Intelligence. He can innately cast the following spells, requiring no components:\n\n1/day: magic weapon, nondetection\n\n3/day: misty step, phantom steed",
-            "name": "innate"
-          },
-          {
-            "desc": "Any creature within 10 feet of Rahadin that isn't protected by a mind blank spell hears in its mind the screams of the thousands of people Rahadin has killed. As a bonus action, Rahadin can force all creatures that can hear the screams to make a DC 16 Wisdom saving throw. Each creature takes dice: 3d10|avg (3d10) psychic damage on a failed save, or half as much damage on a successful one.",
-            "name": "Deathly Choir"
-          },
-          {
-            "desc": "Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.",
-            "name": "Fey Ancestry"
-          },
-          {
-            "desc": "Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.",
-            "name": "Mask of the Wild"
-          }
-        ],
-        "actions": [
-          {
-            "desc": "Rahadin attacks three times with his scimitar, or twice with his poisoned darts.",
-            "name": "Multiattack"
-          },
-          {
-            "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target. Hit: dice: 1d6 + 6|avg (1d6 + 6) slashing damage.",
-            "name": "Scimitar"
-          },
-          {
-            "desc": "Ranged Weapon Attack: dice: d20+10 (+10 to hit), range 20/60 ft., one target. Hit: dice: 1d4 + 6|avg (1d4 + 6) piercing damage plus dice: 2d4|avg (2d4) poison damage.",
-            "name": "Poisoned Dart"
-          }
-        ],
-        "source": [
-          "CoS"
-        ],
-        "image": "4. World Almanac/NPCs/token/rahadin.png",
-        "note": "4. World Almanac/NPCs/Rahadin.md",
         "mtime": 1705623226680
       }
     ],
@@ -55137,43 +55021,6 @@
       }
     ],
     [
-      "Stella Wachter (CoS)",
-      {
-        "name": "Stella Wachter (CoS)",
-        "size": "Medium",
-        "type": "humanoid",
-        "subtype": "human",
-        "alignment": "Chaotic Good",
-        "ac": 10,
-        "hp": 4,
-        "hit_dice": "1d8",
-        "stats": [
-          10,
-          10,
-          10,
-          10,
-          10,
-          10
-        ],
-        "speed": "30 ft.",
-        "senses": "passive Perception 10",
-        "languages": "any one language (usually Common)",
-        "cr": "0",
-        "actions": [
-          {
-            "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target. Hit: dice: 1d4|avg (1d4) bludgeoning damage.",
-            "name": "Club"
-          }
-        ],
-        "source": [
-          "CoS"
-        ],
-        "image": "4. World Almanac/NPCs/token/stella-wachter.png",
-        "note": "4. World Almanac/NPCs/Stella Wachter.md",
-        "mtime": 1705623226681
-      }
-    ],
-    [
       "Lesser Balor (SaF)",
       {
         "name": "Lesser Balor (SaF)",
@@ -55429,73 +55276,6 @@
         ],
         "note": "5. Mechanics/Bestiary/Fiend/Lesser Marilith (SAF).md",
         "mtime": 1705623226755
-      }
-    ],
-    [
-      "Urwin Martikov (CoS)",
-      {
-        "name": "Urwin Martikov (CoS)",
-        "size": "Medium",
-        "type": "humanoid",
-        "subtype": "human, shapechanger",
-        "alignment": "Lawful Good",
-        "ac": 12,
-        "hp": 31,
-        "hit_dice": "7d8",
-        "stats": [
-          10,
-          15,
-          11,
-          13,
-          15,
-          14
-        ],
-        "speed": "30 ft. (fly 50 ft. in raven and hybrid forms)",
-        "skillsaves": {
-          "Insight": 4,
-          "Perception": 6
-        },
-        "senses": "passive Perception 16",
-        "languages": "Common (can't speak in raven form)",
-        "cr": "2",
-        "traits": [
-          {
-            "desc": "Urwin can use its action to polymorph into a raven-humanoid hybrid or into a raven, or back into its human form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its human form if it dies.",
-            "name": "Shapechanger"
-          },
-          {
-            "desc": "Urwin can mimic simple sounds it has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.",
-            "name": "Mimicry"
-          },
-          {
-            "desc": "Urwin regains 10 hit points at the start of its turn. If Urwin takes damage from a silvered weapon or a spell, this trait doesn't function at the start of Urwin's next turn. Urwin dies only if it starts its turn with 0 hit points and doesn't regenerate.",
-            "name": "Regeneration"
-          }
-        ],
-        "actions": [
-          {
-            "desc": "Urwin makes two weapon attacks, one of which can be with its hand crossbow.",
-            "name": "Multiattack (Human or Hybrid Form Only)"
-          },
-          {
-            "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target. Hit: 1 piercing damage in raven form, or dice: 1d4 + 2|avg (1d4 + 2) piercing damage in hybrid form. If the target is humanoid, it must succeed on a DC 10 Constitution saving throw or be cursed with wereraven lycanthropy.",
-            "name": "Beak (Raven or Hybrid Form Only)"
-          },
-          {
-            "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage.",
-            "name": "Shortsword (Human or Hybrid Form Only)"
-          },
-          {
-            "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 30/120 ft., one target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage.",
-            "name": "Hand Crossbow (Human or Hybrid Form Only)"
-          }
-        ],
-        "source": [
-          "CoS"
-        ],
-        "image": "4. World Almanac/NPCs/token/urwin-martikov.png",
-        "note": "4. World Almanac/NPCs/Urwin Martikov.md",
-        "mtime": 1705623226682
       }
     ],
     [
@@ -55760,63 +55540,6 @@
         ],
         "image": "4. World Almanac/NPCs/token/volenta-popofsky.png",
         "note": "4. World Almanac/NPCs/Volenta Popofsky.md",
-        "mtime": 1705623226683
-      }
-    ],
-    [
-      "Yevgeni Krushkin (CoS)",
-      {
-        "name": "Yevgeni Krushkin (CoS)",
-        "size": "Medium",
-        "type": "humanoid",
-        "subtype": "human",
-        "alignment": "Neutral",
-        "ac": 13,
-        "hp": 16,
-        "hit_dice": "3d8 + 3",
-        "stats": [
-          11,
-          14,
-          12,
-          11,
-          13,
-          11
-        ],
-        "speed": "30 ft.",
-        "skillsaves": {
-          "Nature": 4,
-          "Stealth": 6,
-          "Perception": 5,
-          "Survival": 5
-        },
-        "senses": "passive Perception 15",
-        "languages": "any one language (usually Common)",
-        "cr": "1/2",
-        "traits": [
-          {
-            "desc": "Yevgeni has advantage on Wisdom (Perception) checks that rely on hearing or sight.",
-            "name": "Keen Hearing and Sight"
-          }
-        ],
-        "actions": [
-          {
-            "desc": "Yevgeni makes two melee attacks or two ranged attacks.",
-            "name": "Multiattack"
-          },
-          {
-            "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage.",
-            "name": "Shortsword"
-          },
-          {
-            "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), ranged 150/600 ft., one target. Hit: dice: 1d8 + 2|avg (1d8 + 2) piercing damage.",
-            "name": "Longbow"
-          }
-        ],
-        "source": [
-          "CoS"
-        ],
-        "image": "4. World Almanac/NPCs/token/yevgeni-krushkin.png",
-        "note": "4. World Almanac/NPCs/Yevgeni Krushkin.md",
         "mtime": 1705623226683
       }
     ],
@@ -63737,63 +63460,6 @@
       }
     ],
     [
-      "Szoldar Szoldarovich (CoS)",
-      {
-        "name": "Szoldar Szoldarovich (CoS)",
-        "size": "Medium",
-        "type": "humanoid",
-        "subtype": "human",
-        "alignment": "Neutral",
-        "ac": 13,
-        "hp": 16,
-        "hit_dice": "3d8 + 3",
-        "stats": [
-          11,
-          14,
-          12,
-          11,
-          13,
-          11
-        ],
-        "speed": "30 ft.",
-        "skillsaves": {
-          "Nature": 4,
-          "Stealth": 6,
-          "Perception": 5,
-          "Survival": 5
-        },
-        "senses": "passive Perception 15",
-        "languages": "any one language (usually Common)",
-        "cr": "1/2",
-        "traits": [
-          {
-            "desc": "Szoldar has advantage on Wisdom (Perception) checks that rely on hearing or sight.",
-            "name": "Keen Hearing and Sight"
-          }
-        ],
-        "actions": [
-          {
-            "desc": "Szoldar makes two melee attacks or two ranged attacks.",
-            "name": "Multiattack"
-          },
-          {
-            "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage.",
-            "name": "Shortsword"
-          },
-          {
-            "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), ranged 150/600 ft., one target. Hit: dice: 1d8 + 2|avg (1d8 + 2) piercing damage.",
-            "name": "Longbow"
-          }
-        ],
-        "source": [
-          "CoS"
-        ],
-        "image": "4. World Almanac/NPCs/token/szoldar-szoldarovich.png",
-        "note": "4. World Almanac/NPCs/Szoldar Szoldarovich.md",
-        "mtime": 1705623226682
-      }
-    ],
-    [
       "The Abbot (CoS)",
       {
         "name": "The Abbot (CoS)",
@@ -63863,57 +63529,6 @@
         "image": "4. World Almanac/NPCs/token/the-abbot.png",
         "note": "4. World Almanac/NPCs/The Abbot.md",
         "mtime": 1705623226682
-      }
-    ],
-    [
-      "Victor Vallakovich (CoS)",
-      {
-        "name": "Victor Vallakovich (CoS)",
-        "size": "Medium",
-        "type": "humanoid",
-        "subtype": "human",
-        "alignment": "Neutral Evil",
-        "ac": 12,
-        "hp": 40,
-        "hit_dice": "9d8",
-        "stats": [
-          9,
-          14,
-          11,
-          17,
-          12,
-          11
-        ],
-        "speed": "30 ft.",
-        "saves": {
-          "Wisdom": 4,
-          "Intelligence": 6
-        },
-        "skillsaves": {
-          "History": 6,
-          "Arcana": 6
-        },
-        "senses": "passive Perception 11",
-        "languages": "any four languages",
-        "cr": "6",
-        "traits": [
-          {
-            "desc": "Victor is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, dice: d20+6 (+6 to hit) with spell attacks). Victor has the following wizard spells prepared:\n\nCantrips (at will): fire bolt, light, mage hand, prestidigitation\n\n1st level (4 slots): detect magic, mage armor, magic missile, shield\n\n2nd level (3 slots): misty step, suggestion\n\n3rd level (3 slots): counterspell, fireball, fly\n\n4th level (3 slots): greater invisibility, ice storm\n\n5th level (1 slots): cone of cold",
-            "name": "spells"
-          }
-        ],
-        "actions": [
-          {
-            "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft. or range 20/60 ft., one target. Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage.",
-            "name": "Dagger"
-          }
-        ],
-        "source": [
-          "CoS"
-        ],
-        "image": "4. World Almanac/NPCs/token/victor-vallakovich.png",
-        "note": "4. World Almanac/NPCs/Victor Vallakovich.md",
-        "mtime": 1705623226683
       }
     ],
     [
@@ -64620,58 +64235,6 @@
       }
     ],
     [
-      "Lady Fiona Wachter (CoS)",
-      {
-        "name": "Lady Fiona Wachter (CoS)",
-        "size": "Medium",
-        "type": "humanoid",
-        "subtype": "human",
-        "alignment": "Lawful Evil",
-        "ac": 10,
-        "hp": 27,
-        "hit_dice": "5d8 + 5",
-        "stats": [
-          10,
-          10,
-          12,
-          13,
-          16,
-          13
-        ],
-        "speed": "30 ft.",
-        "skillsaves": {
-          "Medicine": 7,
-          "Religion": 5,
-          "Persuasion": 3
-        },
-        "senses": "passive Perception 13",
-        "languages": "any two languages",
-        "cr": "2",
-        "traits": [
-          {
-            "desc": "Fiona is a 5th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 13, dice: d20+5 (+5 to hit) with spell attacks). Fiona has the following cleric spells prepared:\n\nCantrips (at will): light, mending, thaumaturgy\n\n1st level (4 slots): command, purify food and drink, sanctuary\n\n2nd level (3 slots): augury, gentle repose, hold person\n\n3rd level (2 slots): animate dead, create food and water",
-            "name": "spells"
-          },
-          {
-            "desc": "As a bonus action, Fiona can expend a spell slot to cause its melee weapon attacks to magically deal an extra dice: 3d6|avg (3d6) radiant damage to a target on a hit. This benefit lasts until the end of the turn. If Fiona expends a spell slot of 2nd level or higher, the extra damage increases by dice: 1d6|avg (1d6) for each level above 1st.",
-            "name": "Divine Eminence"
-          }
-        ],
-        "actions": [
-          {
-            "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target. Hit: dice: 1d6|avg (1d6) bludgeoning damage.",
-            "name": "Mace"
-          }
-        ],
-        "source": [
-          "CoS"
-        ],
-        "image": "4. World Almanac/NPCs/token/lady-fiona-wachter.png",
-        "note": "4. World Almanac/NPCs/Lady Fiona Wachter.md",
-        "mtime": 1705820927033
-      }
-    ],
-    [
       "Lady Lydia Petrovna (CoS)",
       {
         "name": "Lady Lydia Petrovna (CoS)",
@@ -64892,6 +64455,570 @@
         "image": "4. World Almanac/NPCs/token/nikolai-wachter.png",
         "note": "4. World Almanac/NPCs/Nikolai Wachter.md",
         "mtime": 1705820982644
+      }
+    ],
+    [
+      "Parriwimple (CoS)",
+      {
+        "name": "Parriwimple (CoS)",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "human",
+        "alignment": "Lawful Good",
+        "ac": 14,
+        "hp": 112,
+        "hit_dice": "15d8 + 45",
+        "stats": [
+          18,
+          15,
+          16,
+          6,
+          12,
+          15
+        ],
+        "speed": "30 ft.",
+        "saves": {
+          "Dexterity": 5,
+          "Strength": 7,
+          "Constitution": 6
+        },
+        "skillsaves": {
+          "Intimidation": 5,
+          "Athletics": 10
+        },
+        "senses": "passive Perception 11",
+        "languages": "any one language (usually Common)",
+        "cr": "5",
+        "traits": [
+          {
+            "desc": "Parriwimple has advantage on saving throws against being frightened.",
+            "name": "Brave"
+          },
+          {
+            "desc": "A melee weapon deals one extra die of its damage when Parriwimple hits with it (included in the attack).",
+            "name": "Brute"
+          }
+        ],
+        "actions": [
+          {
+            "desc": "Parriwimple makes three melee attacks or two ranged attacks.",
+            "name": "Multiattack"
+          },
+          {
+            "desc": "Melee or Ranged Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft. and range 20/60 ft., one target. Hit: dice: 2d6 + 4|avg (2d6 + 4) piercing damage, or dice: 2d8 + 4|avg (2d8 + 4) piercing damage if used with two hands to make a melee attack.",
+            "name": "Spear"
+          },
+          {
+            "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one creature. Hit: dice: 2d4 + 4|avg (2d4 + 4) bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.",
+            "name": "Shield Bash"
+          }
+        ],
+        "reactions": [
+          {
+            "desc": "Parriwimple adds 3 to its AC against one melee attack that would hit it. To do so, Parriwimple must see the attacker and be wielding a melee weapon.",
+            "name": "Parry"
+          }
+        ],
+        "source": [
+          "CoS"
+        ],
+        "image": "4. World Almanac/NPCs/token/parriwimple.png",
+        "note": "4. World Almanac/NPCs/Parriwimple.md",
+        "mtime": 1705820994435
+      }
+    ],
+    [
+      "Piccolo (CoS)",
+      {
+        "name": "Piccolo (CoS)",
+        "size": "Small",
+        "type": "beast",
+        "alignment": "Unaligned",
+        "ac": 12,
+        "hp": 3,
+        "hit_dice": "1d6",
+        "stats": [
+          8,
+          14,
+          11,
+          4,
+          12,
+          6
+        ],
+        "speed": "30 ft., climb 30 ft.",
+        "senses": "passive Perception 11",
+        "languages": "",
+        "cr": "0",
+        "traits": [
+          {
+            "desc": "Piccolo has advantage on an attack roll against a creature if at least one of Piccolo's allies is within 5 feet of the creature and the ally isn't incapacitated.",
+            "name": "Pack Tactics"
+          }
+        ],
+        "actions": [
+          {
+            "desc": "Melee Weapon Attack: dice: d20+1 (+1 to hit), reach 5 ft., one target. Hit: dice: 1d4 - 1|avg (1d4 - 1) piercing damage.",
+            "name": "Bite"
+          }
+        ],
+        "source": [
+          "CoS"
+        ],
+        "image": "4. World Almanac/NPCs/token/piccolo.png",
+        "note": "4. World Almanac/NPCs/Piccolo.md",
+        "mtime": 1705821009231
+      }
+    ],
+    [
+      "Rahadin (CoS)",
+      {
+        "name": "Rahadin (CoS)",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "elf",
+        "alignment": "Lawful Evil",
+        "ac": 18,
+        "hp": 135,
+        "hit_dice": "18d8 + 54",
+        "stats": [
+          14,
+          22,
+          17,
+          15,
+          16,
+          18
+        ],
+        "speed": "35 ft.",
+        "saves": {
+          "Wisdom": 7,
+          "Constitution": 7
+        },
+        "skillsaves": {
+          "Intimidation": 12,
+          "Deception": 8,
+          "Stealth": 14,
+          "Insight": 7,
+          "Perception": 11
+        },
+        "senses": "darkvision 60 ft., passive Perception 21",
+        "languages": "Common, Elvish",
+        "cr": "10",
+        "traits": [
+          {
+            "desc": "Rahadin's innate spellcasting ability is Intelligence. He can innately cast the following spells, requiring no components:\n\n1/day: magic weapon, nondetection\n\n3/day: misty step, phantom steed",
+            "name": "innate"
+          },
+          {
+            "desc": "Any creature within 10 feet of Rahadin that isn't protected by a mind blank spell hears in its mind the screams of the thousands of people Rahadin has killed. As a bonus action, Rahadin can force all creatures that can hear the screams to make a DC 16 Wisdom saving throw. Each creature takes dice: 3d10|avg (3d10) psychic damage on a failed save, or half as much damage on a successful one.",
+            "name": "Deathly Choir"
+          },
+          {
+            "desc": "Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.",
+            "name": "Fey Ancestry"
+          },
+          {
+            "desc": "Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.",
+            "name": "Mask of the Wild"
+          }
+        ],
+        "actions": [
+          {
+            "desc": "Rahadin attacks three times with his scimitar, or twice with his poisoned darts.",
+            "name": "Multiattack"
+          },
+          {
+            "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target. Hit: dice: 1d6 + 6|avg (1d6 + 6) slashing damage.",
+            "name": "Scimitar"
+          },
+          {
+            "desc": "Ranged Weapon Attack: dice: d20+10 (+10 to hit), range 20/60 ft., one target. Hit: dice: 1d4 + 6|avg (1d4 + 6) piercing damage plus dice: 2d4|avg (2d4) poison damage.",
+            "name": "Poisoned Dart"
+          }
+        ],
+        "source": [
+          "CoS"
+        ],
+        "image": "4. World Almanac/NPCs/token/rahadin.png",
+        "note": "4. World Almanac/NPCs/Rahadin.md",
+        "mtime": 1705821026232
+      }
+    ],
+    [
+      "Rosavalda \"Rose\" Durst (CoS)",
+      {
+        "name": "Rosavalda \"Rose\" Durst (CoS)",
+        "size": "Small",
+        "type": "undead",
+        "alignment": "Lawful Good",
+        "ac": 11,
+        "hp": 35,
+        "hit_dice": "10d6",
+        "stats": [
+          7,
+          13,
+          10,
+          10,
+          12,
+          17
+        ],
+        "speed": "0 ft., fly 40 ft. (hover)",
+        "damage_resistances": "acid; fire; lightning; thunder; bludgeoning, piercing, slashing from nonmagical attacks",
+        "damage_immunities": "cold, necrotic, poison",
+        "condition_immunities": "charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained",
+        "senses": "darkvision 60 ft., passive Perception 11",
+        "languages": "Common",
+        "cr": "3",
+        "traits": [
+          {
+            "desc": "Rose can see 60 feet into the Ethereal Plane when it is on the Material Plane, and vice versa.",
+            "name": "Ethereal Sight"
+          },
+          {
+            "desc": "Rose can move through other creatures and objects as if they were difficult terrain. It takes dice: 1d10|avg (1d10) force damage if it ends its turn inside an object.",
+            "name": "Incorporeal Movement"
+          }
+        ],
+        "actions": [
+          {
+            "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target. Hit: dice: 4d6 + 3|avg (4d6 + 3) necrotic damage.",
+            "name": "Withering Touch"
+          },
+          {
+            "desc": "Rose enters the Ethereal Plane from the Material Plane, or vice versa. It is visible on the Material Plane while it is in the Border Ethereal, and vice versa, yet it can't affect or be affected by anything on the other plane.",
+            "name": "Etherealness"
+          },
+          {
+            "desc": "One humanoid that Rose can see within 5 feet of it must succeed on a DC 13 Charisma saving throw or be possessed by Rose; Rose then disappears, and the target is incapacitated and loses control of its body. Rose now controls the body but doesn't deprive the target of awareness. Rose can't be targeted by any attack, spell, or other effect, except ones that turn undead, and it retains its alignment, Intelligence, Wisdom, Charisma, and immunity to being charmed and frightened. It otherwise uses the possessed target's statistics, but doesn't gain access to the target's knowledge, class features, or proficiencies.\n\nThe possession lasts until the body drops to 0 hit points, Rose ends it as a bonus action, or Rose is turned or forced out by an effect like the dispel evil and good spell. When the possession ends, Rose reappears in an unoccupied space within 5 feet of the body. The target is immune to this ghost's Possession for 24 hours after succeeding on the saving throw or after the possession ends.",
+            "name": "Possession (Recharge 6)"
+          }
+        ],
+        "source": [
+          "CoS"
+        ],
+        "image": "4. World Almanac/NPCs/token/rosavalda-rose-durst.png",
+        "note": "4. World Almanac/NPCs/Rosavalda Rose Durst.md",
+        "mtime": 1705821105833
+      }
+    ],
+    [
+      "Stella Wachter (CoS)",
+      {
+        "name": "Stella Wachter (CoS)",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "human",
+        "alignment": "Chaotic Good",
+        "ac": 10,
+        "hp": 4,
+        "hit_dice": "1d8",
+        "stats": [
+          10,
+          10,
+          10,
+          10,
+          10,
+          10
+        ],
+        "speed": "30 ft.",
+        "senses": "passive Perception 10",
+        "languages": "any one language (usually Common)",
+        "cr": "0",
+        "actions": [
+          {
+            "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target. Hit: dice: 1d4|avg (1d4) bludgeoning damage.",
+            "name": "Club"
+          }
+        ],
+        "source": [
+          "CoS"
+        ],
+        "image": "4. World Almanac/NPCs/token/stella-wachter.png",
+        "note": "4. World Almanac/NPCs/Stella Wachter.md",
+        "mtime": 1705821125433
+      }
+    ],
+    [
+      "Lady Fiona Wachter (CoS)",
+      {
+        "name": "Lady Fiona Wachter (CoS)",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "human",
+        "alignment": "Lawful Evil",
+        "ac": 10,
+        "hp": 27,
+        "hit_dice": "5d8 + 5",
+        "stats": [
+          10,
+          10,
+          12,
+          13,
+          16,
+          13
+        ],
+        "speed": "30 ft.",
+        "skillsaves": {
+          "Medicine": 7,
+          "Religion": 5,
+          "Persuasion": 3
+        },
+        "senses": "passive Perception 13",
+        "languages": "any two languages",
+        "cr": "2",
+        "traits": [
+          {
+            "desc": "Fiona is a 5th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 13, dice: d20+5 (+5 to hit) with spell attacks). Fiona has the following cleric spells prepared:\n\nCantrips (at will): light, mending, thaumaturgy\n\n1st level (4 slots): command, purify food and drink, sanctuary\n\n2nd level (3 slots): augury, gentle repose, hold person\n\n3rd level (2 slots): animate dead, create food and water",
+            "name": "spells"
+          },
+          {
+            "desc": "As a bonus action, Fiona can expend a spell slot to cause its melee weapon attacks to magically deal an extra dice: 3d6|avg (3d6) radiant damage to a target on a hit. This benefit lasts until the end of the turn. If Fiona expends a spell slot of 2nd level or higher, the extra damage increases by dice: 1d6|avg (1d6) for each level above 1st.",
+            "name": "Divine Eminence"
+          }
+        ],
+        "actions": [
+          {
+            "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target. Hit: dice: 1d6|avg (1d6) bludgeoning damage.",
+            "name": "Mace"
+          }
+        ],
+        "source": [
+          "CoS"
+        ],
+        "image": "4. World Almanac/NPCs/token/lady-fiona-wachter.png",
+        "note": "4. World Almanac/NPCs/Lady Fiona Wachter.md",
+        "mtime": 1705821141036
+      }
+    ],
+    [
+      "Szoldar Szoldarovich (CoS)",
+      {
+        "name": "Szoldar Szoldarovich (CoS)",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "human",
+        "alignment": "Neutral",
+        "ac": 13,
+        "hp": 16,
+        "hit_dice": "3d8 + 3",
+        "stats": [
+          11,
+          14,
+          12,
+          11,
+          13,
+          11
+        ],
+        "speed": "30 ft.",
+        "skillsaves": {
+          "Nature": 4,
+          "Stealth": 6,
+          "Perception": 5,
+          "Survival": 5
+        },
+        "senses": "passive Perception 15",
+        "languages": "any one language (usually Common)",
+        "cr": "1/2",
+        "traits": [
+          {
+            "desc": "Szoldar has advantage on Wisdom (Perception) checks that rely on hearing or sight.",
+            "name": "Keen Hearing and Sight"
+          }
+        ],
+        "actions": [
+          {
+            "desc": "Szoldar makes two melee attacks or two ranged attacks.",
+            "name": "Multiattack"
+          },
+          {
+            "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage.",
+            "name": "Shortsword"
+          },
+          {
+            "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), ranged 150/600 ft., one target. Hit: dice: 1d8 + 2|avg (1d8 + 2) piercing damage.",
+            "name": "Longbow"
+          }
+        ],
+        "source": [
+          "CoS"
+        ],
+        "image": "4. World Almanac/NPCs/token/szoldar-szoldarovich.png",
+        "note": "4. World Almanac/NPCs/Szoldar Szoldarovich.md",
+        "mtime": 1705821162836
+      }
+    ],
+    [
+      "Thornboldt \"Thorn\" Durst (CoS)",
+      {
+        "name": "Thornboldt \"Thorn\" Durst (CoS)",
+        "size": "Small",
+        "type": "undead",
+        "alignment": "Lawful Good",
+        "ac": 11,
+        "hp": 35,
+        "hit_dice": "10d6",
+        "stats": [
+          7,
+          13,
+          10,
+          10,
+          12,
+          17
+        ],
+        "speed": "0 ft., fly 40 ft. (hover)",
+        "damage_resistances": "acid; fire; lightning; thunder; bludgeoning, piercing, slashing from nonmagical attacks",
+        "damage_immunities": "cold, necrotic, poison",
+        "condition_immunities": "charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained",
+        "senses": "darkvision 60 ft., passive Perception 11",
+        "languages": "Common",
+        "cr": "3",
+        "traits": [
+          {
+            "desc": "Thorn can see 60 feet into the Ethereal Plane when it is on the Material Plane, and vice versa.",
+            "name": "Ethereal Sight"
+          },
+          {
+            "desc": "Thorn can move through other creatures and objects as if they were difficult terrain. It takes dice: 1d10|avg (1d10) force damage if it ends its turn inside an object.",
+            "name": "Incorporeal Movement"
+          }
+        ],
+        "actions": [
+          {
+            "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target. Hit: dice: 4d6 + 3|avg (4d6 + 3) necrotic damage.",
+            "name": "Withering Touch"
+          },
+          {
+            "desc": "Thorn enters the Ethereal Plane from the Material Plane, or vice versa. It is visible on the Material Plane while it is in the Border Ethereal, and vice versa, yet it can't affect or be affected by anything on the other plane.",
+            "name": "Etherealness"
+          },
+          {
+            "desc": "One humanoid that Thorn can see within 5 feet of it must succeed on a DC 13 Charisma saving throw or be possessed by Thorn; Thorn then disappears, and the target is incapacitated and loses control of its body. Thorn now controls the body but doesn't deprive the target of awareness. Thorn can't be targeted by any attack, spell, or other effect, except ones that turn undead, and it retains its alignment, Intelligence, Wisdom, Charisma, and immunity to being charmed and frightened. It otherwise uses the possessed target's statistics, but doesn't gain access to the target's knowledge, class features, or proficiencies.\n\nThe possession lasts until the body drops to 0 hit points, Thorn ends it as a bonus action, or Thorn is turned or forced out by an effect like the dispel evil and good spell. When the possession ends, Thorn reappears in an unoccupied space within 5 feet of the body. The target is immune to this ghost's Possession for 24 hours after succeeding on the saving throw or after the possession ends.",
+            "name": "Possession (Recharge 6)"
+          }
+        ],
+        "source": [
+          "CoS"
+        ],
+        "image": "4. World Almanac/NPCs/token/thornboldt-thorn-durst.png",
+        "note": "4. World Almanac/NPCs/Thornboldt Thorn Durst.md",
+        "mtime": 1705821188265
+      }
+    ],
+    [
+      "Urwin Martikov (CoS)",
+      {
+        "name": "Urwin Martikov (CoS)",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "human, shapechanger",
+        "alignment": "Lawful Good",
+        "ac": 12,
+        "hp": 31,
+        "hit_dice": "7d8",
+        "stats": [
+          10,
+          15,
+          11,
+          13,
+          15,
+          14
+        ],
+        "speed": "30 ft. (fly 50 ft. in raven and hybrid forms)",
+        "skillsaves": {
+          "Insight": 4,
+          "Perception": 6
+        },
+        "senses": "passive Perception 16",
+        "languages": "Common (can't speak in raven form)",
+        "cr": "2",
+        "traits": [
+          {
+            "desc": "Urwin can use its action to polymorph into a raven-humanoid hybrid or into a raven, or back into its human form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its human form if it dies.",
+            "name": "Shapechanger"
+          },
+          {
+            "desc": "Urwin can mimic simple sounds it has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.",
+            "name": "Mimicry"
+          },
+          {
+            "desc": "Urwin regains 10 hit points at the start of its turn. If Urwin takes damage from a silvered weapon or a spell, this trait doesn't function at the start of Urwin's next turn. Urwin dies only if it starts its turn with 0 hit points and doesn't regenerate.",
+            "name": "Regeneration"
+          }
+        ],
+        "actions": [
+          {
+            "desc": "Urwin makes two weapon attacks, one of which can be with its hand crossbow.",
+            "name": "Multiattack (Human or Hybrid Form Only)"
+          },
+          {
+            "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target. Hit: 1 piercing damage in raven form, or dice: 1d4 + 2|avg (1d4 + 2) piercing damage in hybrid form. If the target is humanoid, it must succeed on a DC 10 Constitution saving throw or be cursed with wereraven lycanthropy.",
+            "name": "Beak (Raven or Hybrid Form Only)"
+          },
+          {
+            "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage.",
+            "name": "Shortsword (Human or Hybrid Form Only)"
+          },
+          {
+            "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 30/120 ft., one target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage.",
+            "name": "Hand Crossbow (Human or Hybrid Form Only)"
+          }
+        ],
+        "source": [
+          "CoS"
+        ],
+        "image": "4. World Almanac/NPCs/token/urwin-martikov.png",
+        "note": "4. World Almanac/NPCs/Urwin Martikov.md",
+        "mtime": 1705821206659
+      }
+    ],
+    [
+      "Victor Vallakovich (CoS)",
+      {
+        "name": "Victor Vallakovich (CoS)",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "human",
+        "alignment": "Neutral Evil",
+        "ac": 12,
+        "hp": 40,
+        "hit_dice": "9d8",
+        "stats": [
+          9,
+          14,
+          11,
+          17,
+          12,
+          11
+        ],
+        "speed": "30 ft.",
+        "saves": {
+          "Wisdom": 4,
+          "Intelligence": 6
+        },
+        "skillsaves": {
+          "History": 6,
+          "Arcana": 6
+        },
+        "senses": "passive Perception 11",
+        "languages": "any four languages",
+        "cr": "6",
+        "traits": [
+          {
+            "desc": "Victor is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, dice: d20+6 (+6 to hit) with spell attacks). Victor has the following wizard spells prepared:\n\nCantrips (at will): fire bolt, light, mage hand, prestidigitation\n\n1st level (4 slots): detect magic, mage armor, magic missile, shield\n\n2nd level (3 slots): misty step, suggestion\n\n3rd level (3 slots): counterspell, fireball, fly\n\n4th level (3 slots): greater invisibility, ice storm\n\n5th level (1 slots): cone of cold",
+            "name": "spells"
+          }
+        ],
+        "actions": [
+          {
+            "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft. or range 20/60 ft., one target. Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage.",
+            "name": "Dagger"
+          }
+        ],
+        "source": [
+          "CoS"
+        ],
+        "image": "4. World Almanac/NPCs/token/victor-vallakovich.png",
+        "note": "4. World Almanac/NPCs/Victor Vallakovich.md",
+        "mtime": 1705821221030
       }
     ]
   ],
