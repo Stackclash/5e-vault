@@ -15,6 +15,8 @@ items:
   - "[[5. Mechanics/Items/Potion Of Healing Gv.md|Potion Of Healing Gv]]"
   - "[[5. Mechanics/Items/Potion Of Supreme Healing.md|Potion Of Supreme Healing]]"
   - "[[5. Mechanics/Items/Heavy Crossbow.md|Heavy Crossbow]]"
+  - "[[5. Mechanics/Items/Draft Horse.md|Draft Horse]]"
+  - "[[5. Mechanics/Items/Riding Horse.md|Riding Horse]]"
 ---
 > [!infobox]
 > # `=this.file.name`

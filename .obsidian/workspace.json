@@ -37,8 +37,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/Shops/Blue Water Inn.md",
+                "file": "1. DM Screen/Configuration.md",
                 "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29ce53a3ac610829",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. DM Screen/Tools/Barovian Names.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -68,15 +80,18 @@
             }
           },
           {
-            "id": "a36dc47a63b55052",
+            "id": "11d7d0df5fc85f3a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "4. World Almanac/Worlds/Eldoria.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,6 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3. The Party/Session Logs/New Session.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,6 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3. The Party/Session Logs/New Session.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +200,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "3. The Party/Session Logs/New Session.md"
+              }
             }
           },
           {
@@ -228,16 +247,19 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "a36dc47a63b55052",
+  "active": "f811f333a99d05ac",
   "lastOpenFiles": [
+    "1. DM Screen/Tools/Barovian Names.md",
+    "1. DM Screen/Configuration.md",
+    "1. DM Screen/1. DM Screen.md",
+    "4. World Almanac/Shops/Blue Water Inn.md",
+    "4. World Almanac/Shops/Blinsky Toys.md",
+    "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
+    "4. World Almanac/Worlds/Eldoria.md",
     "3. The Party/Session Logs/New Session.md",
     "5. Mechanics/Items/Elven Chain.md",
-    "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
-    "4. World Almanac/Shops/Blinsky Toys.md",
     "4. World Almanac/Regions/Barovia.md",
-    "4. World Almanac/Shops/Blue Water Inn.md",
     "5. Mechanics/Items/Potion Of Greater Healing.md",
-    "4. World Almanac/Worlds/Eldoria.md",
     "5. Mechanics/Tables/Poisons.md",
     "2. Scratch Notes/To-Do List.md",
     "5. Mechanics/Items/Docent (ERLW).md",
@@ -253,9 +275,6 @@
     "5. Mechanics/Items/Cloak Of Elvenkind.md",
     "3. The Party/Players/Players.md",
     "5. Mechanics/Items/Wand Sheath (ERLW).md",
-    "3. The Party/Session Logs/Session Logs.md",
-    "Untitled 1.md",
-    "4. World Almanac/Places of Interest/Castle Ravenloft.md",
     "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
     "z_Scripts/Dataview/npcs.js",
     "z_Scripts/Dataview/locationBreadcrumbs.js",
