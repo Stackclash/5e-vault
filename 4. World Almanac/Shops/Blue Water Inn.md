@@ -14,6 +14,7 @@ items:
   - "[[5. Mechanics/Items/Potion Of Greater Healing.md|Potion Of Greater Healing]]"
   - "[[5. Mechanics/Items/Potion Of Healing Gv.md|Potion Of Healing Gv]]"
   - "[[5. Mechanics/Items/Potion Of Supreme Healing.md|Potion Of Supreme Healing]]"
+  - "[[5. Mechanics/Items/Heavy Crossbow.md|Heavy Crossbow]]"
 ---
 > [!infobox]
 > # `=this.file.name`
