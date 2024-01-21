@@ -49,7 +49,8 @@ Loot, rewards and purchases.
 Things to keep in mind during the session, from items to important details
 
 ## Events
-What transpired over the course of the session? Update this during the session!
+- [[Marin]] buys a vial of [[Assassins Blood]] for 2gp
+- 
 
 # Summary
 ## New NPCs

@@ -9,6 +9,11 @@ staff:
   - "[[4. World Almanac/NPCs/Bray Martikov.md|Bray Martikov]]"
 cost_modifier: 1
 items:
+  - "[[Assassins Blood|Assassin's Blood]]"
+  - "[[5. Mechanics/Items/Potion Of Healing.md|Potion Of Healing]]"
+  - "[[5. Mechanics/Items/Potion Of Greater Healing.md|Potion Of Greater Healing]]"
+  - "[[5. Mechanics/Items/Potion Of Healing Gv.md|Potion Of Healing Gv]]"
+  - "[[5. Mechanics/Items/Potion Of Supreme Healing.md|Potion Of Supreme Healing]]"
 ---
 > [!infobox]
 > # `=this.file.name`
