@@ -66,8 +66,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a36dc47a63b55052",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -136,7 +145,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/Session Logs/New Session.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +161,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/Session Logs/New Session.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,9 +183,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "3. The Party/Session Logs/New Session.md"
-              }
+              "state": {}
             }
           },
           {
@@ -223,11 +228,12 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "f811f333a99d05ac",
+  "active": "a36dc47a63b55052",
   "lastOpenFiles": [
+    "3. The Party/Session Logs/New Session.md",
+    "5. Mechanics/Items/Elven Chain.md",
     "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
     "4. World Almanac/Shops/Blinsky Toys.md",
-    "3. The Party/Session Logs/New Session.md",
     "4. World Almanac/Regions/Barovia.md",
     "4. World Almanac/Shops/Blue Water Inn.md",
     "5. Mechanics/Items/Potion Of Greater Healing.md",
@@ -239,7 +245,6 @@
     "5. Mechanics/Spells/Detect Evil And Good.md",
     "3. The Party/Players/Redgrave.md",
     "3. The Party/Players/Marin.md",
-    "5. Mechanics/Items/Elven Chain.md",
     "3. The Party/Players/Seluvis Felo'melorn.md",
     "Untitled.md",
     "5. Mechanics/Items/Devotees Censer (TCE).md",
