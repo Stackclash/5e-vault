@@ -4,69 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "111fd2d9e2c4b0ca",
+        "id": "a254a54c4b77dbce",
         "type": "tabs",
         "children": [
           {
-            "id": "f811f333a99d05ac",
+            "id": "465cb0c6ebf8bfbd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. The Party/Session Logs/New Session.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cecc729830b77db0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. World Almanac/Places of Interest/Van Richten's Tower.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2876ec28773a7295",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. World Almanac/NPCs/Ezmerelda Davenir.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8c75d7fca6b8884",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. The Party/Parties/Curse of Strahd.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "78ab8e5193a0ebb4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "6. Resources/Resources/The Interactive Tome of Strahd.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Resources/Resources/The Interactive Tome of Strahd.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Resources/Resources/The Interactive Tome of Strahd.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Resources/Resources/The Interactive Tome of Strahd.pdf"
+                "file": "Untitled.md"
               }
             }
           },
@@ -222,10 +169,10 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "78ab8e5193a0ebb4",
+  "active": "a88a1818b2c15bdd",
   "lastOpenFiles": [
-    "3. The Party/Session Logs/New Session.md",
     "6. Resources/Resources/The Interactive Tome of Strahd.pdf",
+    "3. The Party/Session Logs/New Session.md",
     "4. World Almanac/Regions/Barovia.md",
     "3. The Party/Parties/Curse of Strahd.md",
     "3. The Party/Parties/Parties.md",
