@@ -50,7 +50,9 @@ Things to keep in mind during the session, from items to important details
 
 ## Events
 - [[Marin]] buys a vial of [[Assassins Blood]] for 2gp
-- 
+- The party buys healing potion:
+	- 8x [[Potion Of Greater Healing]] @ 5gp
+	- 2x [[Potion Of Healing]] @ 2gp (They have lessers)
 
 # Summary
 ## New NPCs
