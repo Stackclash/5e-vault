@@ -10,7 +10,7 @@ condition: healthy
 occupation: 
 group: 
 religions: 
-location: 
+location: "[[4. World Almanac/Places of Interest/Ruins of Berez.md|Ruins of Berez]]"
 personality: 
 ideal: 
 bond: 
@@ -19,11 +19,12 @@ goals:
 likes: 
 dislikes: 
 tags:
-- compendium/src/5e/cos
-- monster/cr/11
-- monster/size/gargantuan
-- monster/type/construct
-aliases: ["Baba Lysaga's Creeping Hut"]
+  - compendium/src/5e/cos
+  - monster/cr/11
+  - monster/size/gargantuan
+  - monster/type/construct
+aliases:
+  - Baba Lysaga's Creeping Hut
 ---
 
 > [!infobox]

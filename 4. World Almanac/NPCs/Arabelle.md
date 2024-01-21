@@ -9,7 +9,7 @@ alignment:
 condition: healthy
 occupation: 
 group: 
-religions: 
+religions: []
 location: 
 personality: 
 ideal: 
@@ -19,11 +19,12 @@ goals:
 likes: 
 dislikes: 
 tags:
-- compendium/src/5e/cos
-- monster/cr/0
-- monster/size/medium
-- monster/type/humanoid/human
-aliases: ["Arabelle"]
+  - compendium/src/5e/cos
+  - monster/cr/0
+  - monster/size/medium
+  - monster/type/humanoid/human
+aliases:
+  - Arabelle
 ---
 
 > [!infobox]

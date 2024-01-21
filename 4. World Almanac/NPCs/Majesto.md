@@ -10,7 +10,7 @@ condition: healthy
 occupation: 
 group: 
 religions: 
-location: 
+location: "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
 personality: 
 ideal: 
 bond: 
@@ -19,11 +19,12 @@ goals:
 likes: 
 dislikes: 
 tags:
-- compendium/src/5e/cos
-- monster/cr/1
-- monster/size/tiny
-- monster/type/fiend/devil
-aliases: ["Majesto"]
+  - compendium/src/5e/cos
+  - monster/cr/1
+  - monster/size/tiny
+  - monster/type/fiend/devil
+aliases:
+  - Majesto
 ---
 
 > [!infobox]

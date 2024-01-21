@@ -11,8 +11,12 @@
             "id": "465cb0c6ebf8bfbd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "4. World Almanac/NPCs/Piccolo.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -84,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "4. World Almanac/NPCs/Piccolo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "4. World Almanac/NPCs/Piccolo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "4. World Almanac/NPCs/Piccolo.md"
+              }
             }
           },
           {
@@ -167,34 +175,35 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "a88a1818b2c15bdd",
+  "active": "465cb0c6ebf8bfbd",
   "lastOpenFiles": [
-    "6. Resources/Resources/The Interactive Tome of Strahd.pdf",
-    "3. The Party/Session Logs/New Session.md",
-    "4. World Almanac/Regions/Barovia.md",
-    "3. The Party/Parties/Curse of Strahd.md",
-    "3. The Party/Parties/Parties.md",
-    "6. Resources/5e Modules/Curse Of Strahd/13 Chapter-11 Van Richtens Tower.md",
-    "4. World Almanac/Places of Interest/Van Richten's Tower.md",
-    "5. Mechanics/Bestiary/Construct/Clay Golem.md",
+    "4. World Almanac/NPCs/Patrina Velikovna.md",
+    "4. World Almanac/NPCs/Parriwimple.md",
+    "4. World Almanac/NPCs/Otto Belview.md",
+    "4. World Almanac/NPCs/Nikolai Wachter.md",
+    "4. World Almanac/NPCs/Morgantha.md",
+    "4. World Almanac/NPCs/Mishka Belview.md",
+    "4. World Almanac/NPCs/Milivoj.md",
+    "4. World Almanac/NPCs/Madam Eva.md",
+    "4. World Almanac/NPCs/Majesto.md",
+    "4. World Almanac/NPCs/Mad Mary.md",
+    "4. World Almanac/NPCs/Ludmilla Vilisevic.md",
+    "4. World Almanac/NPCs/Lief Lipsiege.md",
+    "4. World Almanac/NPCs/Lady Lydia Petrovna.md",
+    "4. World Almanac/NPCs/Lady Fiona Wachter.md",
+    "4. World Almanac/NPCs/Kiril Stoyanovich.md",
+    "4. World Almanac/NPCs/Kasimir Velikov.md",
+    "4. World Almanac/NPCs/Izek Strazni.md",
+    "4. World Almanac/NPCs/Ismark Kolyanovich.md",
+    "4. World Almanac/NPCs/Ireena Kolyana.md",
+    "4. World Almanac/NPCs/Henrik Van Der Voort.md",
+    "4. World Almanac/NPCs/Gertruda.md",
+    "4. World Almanac/NPCs/Gadof Blinsky.md",
     "4. World Almanac/NPCs/Ezmerelda Davenir.md",
-    "6. Resources/5e Modules/Curse Of Strahd/24 Appendix F Handouts.md",
-    "6. Resources/5e Modules/Curse Of Strahd/25 Poster Map.md",
-    "1. DM Screen/Lookup Tables/Travel.md",
-    "4. World Almanac/Shops/Blue Water Inn.md",
-    "4. World Almanac/Worlds/Eldoria.md",
-    "1. DM Screen/Tools/Barovian Names.md",
-    "3. The Party/Players/Marin.md",
-    "5. Mechanics/Items/Eyes Of Minute Seeing.md",
-    "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
-    "4. World Almanac/Shops/Blinsky Toys.md",
-    "1. DM Screen/Configuration.md",
-    "5. Mechanics/Items/Docent (ERLW).md",
-    "1. DM Screen/1. DM Screen.md",
-    "5. Mechanics/Items/Elven Chain.md",
-    "5. Mechanics/Items/Potion Of Greater Healing.md",
-    "5. Mechanics/Tables/Poisons.md",
-    "2. Scratch Notes/To-Do List.md",
+    "4. World Almanac/NPCs/Exethanter.md",
+    "4. World Almanac/NPCs/Escher.md",
+    "4. World Almanac/NPCs/Doru.md",
+    "6. Resources/Resources/The Interactive Tome of Strahd.pdf",
     "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
     "z_Scripts/Dataview/npcs.js",
     "z_Scripts/Dataview/locationBreadcrumbs.js",
