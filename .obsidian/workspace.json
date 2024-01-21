@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Mechanics/Items/Docent (ERLW).md",
+                "file": "5. Mechanics/Items/Armblade (ERLW).md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69a46ec0fa99b6a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. The Party/Players/Redgrave.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96032a28a1f99867",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Mechanics/Items/Cloak Of Elvenkind.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21b6daed030662cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. The Party/Players/Seluvis Felo'melorn.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Mechanics/Items/Docent (ERLW).md",
+                "file": "3. The Party/Players/Redgrave.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Mechanics/Items/Docent (ERLW).md",
+                "file": "3. The Party/Players/Redgrave.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Mechanics/Items/Docent (ERLW).md"
+                "file": "3. The Party/Players/Redgrave.md"
               }
             }
           },
@@ -174,8 +211,13 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "869834c38937793c",
+  "active": "69a46ec0fa99b6a0",
   "lastOpenFiles": [
+    "5. Mechanics/Items/Armblade (ERLW).md",
+    "5. Mechanics/Items/Docent (ERLW).md",
+    "5. Mechanics/Items/Cloak Of Elvenkind.md",
+    "3. The Party/Players/Seluvis Felo'melorn.md",
+    "3. The Party/Players/Players.md",
     "5. Mechanics/Items/Wand Sheath (ERLW).md",
     "3. The Party/Session Logs/Session Logs.md",
     "3. The Party/Session Logs/New Session.md",
@@ -199,11 +241,6 @@
     "4. World Almanac/Places of Interest/Tsolenka Pass.md",
     "z_Scripts/Dataview/npcs.js",
     "2. Scratch Notes/To-Do List.md",
-    "4. World Almanac/Regions/Regions.md",
-    "z_Templates/World Building/Leaflet Bounds Calculator.md",
-    "4. World Almanac/Regions/Barovia.md",
-    "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
-    "4. World Almanac/Shops/Blinsky Toys.md",
     "z_Scripts/Dataview/locationBreadcrumbs.js",
     "z_Scripts/Dataview/shopInventory.js",
     "z_Scripts/Dataview/locations.js",
