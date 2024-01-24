@@ -1,1 +1,0 @@
-[[06 Chapter-4 Castle Ravenloft|Castle Ravenloft]]
