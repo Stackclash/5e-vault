@@ -13,7 +13,7 @@ const backticks = "```"
 
 // 65 is unicode for A
 // 97 is unicode for a
-relationships = relationships.map((r, index) => ({...r, key: String.fromCharCode(65 + index+1)}))
+relationships = relationships.map((r, index) => ({name: r.split('|')[0], type: r.split('|')[1], key: String.fromCharCode(65 + index+1)}))
 
 relationships.forEach(r => {
     relationshipGraph += `A ${relationshipMapping[r.type]} ${r.key}[${r.name}]
