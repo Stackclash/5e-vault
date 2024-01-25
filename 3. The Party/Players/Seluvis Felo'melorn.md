@@ -28,7 +28,9 @@ exhaustion: 0
 ---
 > [!infobox|right]
 > # `=this.file.name`
-> `$=dv.container='<img src="'+app.vault.getResourcePath(dv.fileLink("z_Assets/"+dv.current().art))+'"/>'`
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```
 > ## Info
 > | | |
 > | ---- | ---- |

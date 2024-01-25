@@ -20,7 +20,7 @@ bond:
 flaw: 
 likes: 
 dislikes: 
-image: 
+image: z_Assets/Redgrave.jpeg
 condition: Healthy
 location: Vallaki
 party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
@@ -28,7 +28,9 @@ exhaustion: 0
 ---
 > [!infobox|right]
 > # `=this.file.name`
-> `$=dv.container='<img src="'+app.vault.getResourcePath(dv.fileLink("z_Assets/"+dv.current().art))+'"/>'`
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```
 > ## Info
 > | | |
 > | ---- | ---- |
