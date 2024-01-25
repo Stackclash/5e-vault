@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/NPCs/Davian Martikov.md",
+                "file": "4. World Almanac/Shops/Blue Water Inn.md",
                 "mode": "preview",
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/NPCs/Davian Martikov.md",
+                "file": "4. World Almanac/Shops/Blue Water Inn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/NPCs/Davian Martikov.md",
+                "file": "4. World Almanac/Shops/Blue Water Inn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/NPCs/Davian Martikov.md"
+                "file": "4. World Almanac/Shops/Blue Water Inn.md"
               }
             }
           },
@@ -185,6 +185,12 @@
   },
   "active": "bc8fc9602e9ad6f3",
   "lastOpenFiles": [
+    "4. World Almanac/NPCs/Bray Martikov.md",
+    "4. World Almanac/Settlements/Vallaki.md",
+    "4. World Almanac/Regions/Barovia.md",
+    "4. World Almanac/Settlements/Krezk.md",
+    "4. World Almanac/Regions/Regions.md",
+    "4. World Almanac/NPCs/Davian Martikov.md",
     "4. World Almanac/NPCs/Arrigal.md",
     "3. The Party/Session Logs/Welcome to Barovia.md",
     "3. The Party/Session Logs/Session Logs.md",
@@ -205,12 +211,6 @@
     "5. Mechanics/Tables/Adventuring Gear.md",
     "5. Mechanics/Tables/Adventuring Gear Container Capacity.md",
     "5. Mechanics/Tables/Adventuring Options Firearms.md",
-    "5. Mechanics/Tables/Ancient Being Operative Roles (TCE).md",
-    "5. Mechanics/Tables/Ancient Being (TCE).md",
-    "5. Mechanics/Tables/250 Gp Art Objects.md",
-    "5. Mechanics/Tables/100 Gp Gemstones.md",
-    "5. Mechanics/Tables/50 Gp Gemstones.md",
-    "5. Mechanics/Tables/25 Gp Art Objects.md",
     "6. Resources/Resources/The Interactive Tome of Strahd.pdf",
     "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
     "z_Scripts/Dataview/npcs.js",
