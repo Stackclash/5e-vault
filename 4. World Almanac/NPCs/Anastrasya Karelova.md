@@ -5,12 +5,12 @@ pronounced:
 race: 
 sex: 
 age: 
-alignment: 
+alignment: netural evil
 condition: healthy
-occupation: 
+occupation: []
 group: 
-religions: 
-location: 
+religions: []
+location: "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]"
 personality: 
 ideal: 
 bond: 
@@ -19,11 +19,12 @@ goals:
 likes: 
 dislikes: 
 tags:
-- compendium/src/5e/cos
-- monster/cr/5
-- monster/size/medium
-- monster/type/undead
-aliases: ["Anastrasya Karelova"]
+  - compendium/src/5e/cos
+  - monster/cr/5
+  - monster/size/medium
+  - monster/type/undead
+aliases:
+  - Anastrasya Karelova
 ---
 
 > [!infobox]

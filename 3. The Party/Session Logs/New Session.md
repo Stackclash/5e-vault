@@ -38,14 +38,27 @@ With the moon overhead you prepare to finally leave this town ensnared in the te
 
 ## Loot, Rewards & Purchases
 Loot, rewards and purchases.
-- [ ] Thing 1
-- [ ] Thing 2
+- [x] [[Cloak Of Elvenkind]] ([[Szoldar Szoldarovich]] and [[Yevgeni Krushkin]] )
+- [x] [[Boots Of Striding And Springing]] ([[Urwin Martikov]])
+- [x] [[Elven Chain]] ([[Szoldar Szoldarovich]] and [[Yevgeni Krushkin]] )
+- [x] [[Docent (ERLW)]] ([[Gadof Blinsky]])
+- [x] [[Eyes Of Minute Seeing]] ([[Gadof Blinsky]])
 
 ## Keep in Mind
 Things to keep in mind during the session, from items to important details
 
 ## Events
-What transpired over the course of the session? Update this during the session!
+- [[Urwin Martikov]] gives [[Boots Of Striding And Springing]] to party
+- [[Marin]] buys a vial of [[Assassins Blood]] for 2gp
+- [[Szoldar Szoldarovich]] and [[Yevgeni Krushkin]] gives [[Elven Chain]] and [[Cloak Of Elvenkind]] to party
+- The party buys healing potion:
+	- 8x [[Potion Of Greater Healing]] @ 5gp
+	- 2x [[Potion Of Healing]] @ 2gp (They have 3 already)
+- [[Gadof Blinsky]] tinkers with Nyxia and upgrades her with [[Docent (ERLW)]] qualities
+- [[Gadof Blinsky]] gives his [[Eyes Of Minute Seeing]] to the party
+- Party buys 2 [[5. Mechanics/Items/Draft Horse|draft horses]] and a [[Wagon|wagon]] @ 15gp
+- Party gets to [[Van Richten's Tower]] 
+- They find the [[Tome Of Strahd (COS)]] 
 
 # Summary
 ## New NPCs

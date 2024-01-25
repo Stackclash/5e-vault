@@ -4,63 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3a08b8d887e63c07",
+        "id": "8c7260f44d2b586e",
         "type": "tabs",
         "children": [
           {
-            "id": "9be8af00409c43b8",
+            "id": "b2c608465ca16709",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0255cee42a76e9cf",
-            "type": "leaf",
-            "state": {
-              "type": "rpg-manager-readme",
-              "state": {}
-            }
-          },
-          {
-            "id": "3fa7a635068b3056",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6575055dac158b3f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "e8da557af02ab638",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Curse of Strahd/Curse of Strahd.md",
+                "file": "5. Mechanics/Tables/Human Names Slavic Female (XGE).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curse of Strahd/Curse of Strahd.md",
+                "file": "5. Mechanics/Tables/Human Names Slavic Female (XGE).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curse of Strahd/Curse of Strahd.md",
+                "file": "5. Mechanics/Tables/Human Names Slavic Female (XGE).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curse of Strahd/Curse of Strahd.md"
+                "file": "5. Mechanics/Tables/Human Names Slavic Female (XGE).md"
               }
             }
           },
@@ -199,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -224,30 +183,36 @@
       "rpg-manager:RPG Manager": false
     }
   },
-  "active": "e8da557af02ab638",
+  "active": "b2c608465ca16709",
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "Curse of Strahd/Curse of Strahd.md",
-    "Curse of Strahd",
-    "Untitled.md",
-    "4. World Almanac/Places of Interest/Castle Ravenloft.md",
-    "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
+    "5. Mechanics/Tables/Dark Fantasy Settings (VRGR).md",
+    "5. Mechanics/Tables/Dark Fantasy Monsters (VRGR).md",
+    "5. Mechanics/Tables/Dark Fantasy Adventure Sites (VRGR).md",
+    "5. Mechanics/Tables/Creating Your Own Units Unit Equipment (SAF).md",
+    "5. Mechanics/Tables/Creating Common Magic Items (ERLW).md",
+    "5. Mechanics/Tables/Adventuring Gear.md",
+    "5. Mechanics/Tables/Adventuring Gear Container Capacity.md",
+    "5. Mechanics/Tables/Adventuring Options Firearms.md",
+    "5. Mechanics/Tables/Ancient Being Operative Roles (TCE).md",
+    "5. Mechanics/Tables/Ancient Being (TCE).md",
+    "5. Mechanics/Tables/250 Gp Art Objects.md",
+    "5. Mechanics/Tables/100 Gp Gemstones.md",
+    "5. Mechanics/Tables/50 Gp Gemstones.md",
+    "5. Mechanics/Tables/25 Gp Art Objects.md",
+    "5. Mechanics/Tables/10 Gp Gemstones.md",
+    "5. Mechanics/Optional Features/Optional Features.md",
+    "5. Mechanics/Items/Items.md",
+    "5. Mechanics/Feats/Feats.md",
+    "5. Mechanics/Classes/Classes.md",
+    "5. Mechanics/Classes/Barbarian.md",
+    "5. Mechanics/Decks/Decks.md",
+    "5. Mechanics/Decks/Deck Of Many Things.md",
+    "3. The Party/Parties/Parties.md",
+    "4. World Almanac/Settlements/Vallaki.md",
     "4. World Almanac/Places of Interest/Places of Interest.md",
-    "3. The Party/Session Logs/Session Logs.md",
-    "4. World Almanac/NPCs/Davian Martikov.md",
-    "4. World Almanac/NPCs/Ezmerelda Davenir.md",
-    "6. Resources/5e Modules/Curse Of Strahd/13 Chapter-11 Van Richtens Tower.md",
-    "4. World Almanac/NPCs/Strahd Von Zarovich.md",
-    "3. The Party/Session Logs/Finding Victor.md",
-    "5. Mechanics/Bestiary/Legendary Group/Strahd Von Zarovich (COS).md",
-    "5. Mechanics/Bestiary/Plant/Needle Blight.md",
-    "4. World Almanac/Places of Interest/The Wizard of Wines.md",
-    "4. World Almanac/Places of Interest/Van Richten's Tower.md",
-    "3. The Party/Session Logs/New Session.md",
-    "3. The Party/Session Logs/Deal with the Devil.md",
-    "3. The Party/Session Logs/Best Weapon against Vampires are Old Men.md",
-    "3. The Party/Session Logs/Campaign Preparation.md",
-    "4. World Almanac/Places of Interest/Tsolenka Pass.md",
+    "2. Scratch Notes/To-Do List.md",
+    "6. Resources/Resources/The Interactive Tome of Strahd.pdf",
+    "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
     "z_Scripts/Dataview/npcs.js",
     "2. Scratch Notes/To-Do List.md",
     "4. World Almanac/Regions/Regions.md",

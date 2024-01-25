@@ -10,7 +10,7 @@ condition: healthy
 occupation: 
 group: 
 religions: 
-location: 
+location: "[[4. World Almanac/Places of Interest/Ruins of Berez.md|Ruins of Berez]]"
 personality: 
 ideal: 
 bond: 
@@ -19,12 +19,13 @@ goals:
 likes: 
 dislikes: 
 tags:
-- compendium/src/5e/cos
-- monster/cr/11
-- monster/size/medium
-- monster/type/humanoid/human
-- monster/type/humanoid/shapechanger
-aliases: ["Baba Lysaga"]
+  - compendium/src/5e/cos
+  - monster/cr/11
+  - monster/size/medium
+  - monster/type/humanoid/human
+  - monster/type/humanoid/shapechanger
+aliases:
+  - Baba Lysaga
 ---
 
 > [!infobox]

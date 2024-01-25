@@ -10,7 +10,7 @@ condition: healthy
 occupation: 
 group: 
 religions: 
-location: 
+location: "[[4. World Almanac/Shops/Bildrath's Mercantile.md|Bildrath's Mercantile]]"
 personality: 
 ideal: 
 bond: 
@@ -19,11 +19,12 @@ goals:
 likes: 
 dislikes: 
 tags:
-- compendium/src/5e/cos
-- monster/cr/5
-- monster/size/medium
-- monster/type/humanoid/human
-aliases: ["Parriwimple"]
+  - compendium/src/5e/cos
+  - monster/cr/5
+  - monster/size/medium
+  - monster/type/humanoid/human
+aliases:
+  - Parriwimple
 ---
 
 > [!infobox]

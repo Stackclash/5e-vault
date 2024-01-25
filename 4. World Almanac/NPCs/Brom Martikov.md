@@ -10,7 +10,7 @@ condition: healthy
 occupation: 
 group: 
 religions: 
-location: 
+location: "[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]"
 personality: 
 ideal: 
 bond: 
@@ -19,12 +19,13 @@ goals:
 likes: 
 dislikes: 
 tags:
-- compendium/src/5e/cos
-- monster/cr/2
-- monster/size/small
-- monster/type/humanoid/human
-- monster/type/humanoid/shapechanger
-aliases: ["Brom Martikov"]
+  - compendium/src/5e/cos
+  - monster/cr/2
+  - monster/size/small
+  - monster/type/humanoid/human
+  - monster/type/humanoid/shapechanger
+aliases:
+  - Brom Martikov
 ---
 
 > [!infobox]

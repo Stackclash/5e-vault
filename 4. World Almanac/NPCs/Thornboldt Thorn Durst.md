@@ -23,7 +23,7 @@ tags:
 - monster/cr/3
 - monster/size/small
 - monster/type/undead
-aliases: ["Thornboldt "Thorn" Durst"]
+aliases: ["Thornboldt \"Thorn\" Durst"]
 ---
 
 > [!infobox]

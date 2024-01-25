@@ -1,38 +1,49 @@
-<%*
-await tp.file.move('4. World Almanac/Regions/' + tp.file.title)
-if (tp.config.run_mode === 0) {
-    let title = await tp.system.prompt("What is the name of the region?")
-    await tp.file.rename(title)
-}
--%>
 ---
 obsidianUIMode: preview
-location: 
+location: "[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]"
+image: z_Assets/PlaceholderImage.png
 pronounced: 
+resources: []
 population: 
-rulers: 
-population: 
+terrain: 
+rulers: []
 government: 
 army: 
-aliases: 
+religions: []
+imports: []
+exports: []
+aliases: []
 ---
 > [!infobox]
 > # `=this.file.name`
-> ![[PlaceholderImage.png|wm-tl]]
-> **Pronounced:**  "`=this.Pronounced`"
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```
+>  |
+> ---|---|
+> **Pronounced:** | `INPUT[text:pronounced]` |
+> **Location:** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Regions"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Worlds")):location]` |
+> **Resource(s):** | `INPUT[inlineListSuggester(optionQuery("6. Resources")):resources]` |
 > ###### Info
 >  |
 > ---|---|
-> **Alias** | `=this.alias` |
-> **Population** | `=this.population` |
-> **Terrain** | `INPUT[text:terrain]` |
+> **Alias:** | `INPUT[inlineList:aliases]` |
+> **Population:** | `INPUT[number:population]` |
+> **Terrain:** | `INPUT[text:terrain]` |
 > ###### Politics
 >  |
 > ---|---|
-> **Ruler(s)** | `=link(this.rulers)` |
-> **Govt Type** | `=this.government` |
-> **Army** | `=this.army` |
+> **Ruler(s):** | `INPUT[inlineListSuggester(optionQuery("4. World Almanac/NPCs")):rulers]` |
+> **Govt Type:** | `INPUT[text:government]` |
+> **Army:** | `INPUT[text:army]` |
+> **Religions:** | `INPUT[inlineList:religions]` |
+> ###### Logistics
+>  |
+> ---|---|
+> **Imports:** | `INPUT[inlineList:imports]` |
+> **Exports:** | `INPUT[inlineList:exports]` |
 
+`$= await dv.view("locationBreadcrumbs", {current: dv.current()})`
 # **`=this.file.name`**
 > [!info|bg-c-purple]- Overview
 TBD
@@ -74,10 +85,15 @@ TBD
 > ```
 
 ## Notable Locations
-**[[Settlements|Add New Settlement]]**
 **[[Places of Interest|Add New Place of Interest]]**
+**[[Shops|Add New Shop]]**
 > ```dataviewjs
 >  await dv.view("locations", {current: dv.current()})
+> ```
+
+## Notable NPCs
+> ```dataviewjs
+>  await dv.view("npcs", {current: dv.current()})
 > ```
 
 ## History

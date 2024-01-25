@@ -10,7 +10,7 @@ condition: healthy
 occupation: 
 group: 
 religions: 
-location: 
+location: "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]"
 personality: 
 ideal: 
 bond: 
@@ -19,11 +19,12 @@ goals:
 likes: 
 dislikes: 
 tags:
-- compendium/src/5e/cos
-- monster/cr/3
-- monster/size/large
-- monster/type/fiend
-aliases: ["Beucephalus"]
+  - compendium/src/5e/cos
+  - monster/cr/3
+  - monster/size/large
+  - monster/type/fiend
+aliases:
+  - Beucephalus
 ---
 
 > [!infobox]

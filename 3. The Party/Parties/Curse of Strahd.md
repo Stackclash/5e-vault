@@ -9,7 +9,7 @@ party_player:
   - "[[3. The Party/Players/Seluvis Felo'melorn.md|Seluvis Felo'melorn]]"
   - "[[3. The Party/Players/Redgrave.md|Redgrave]]"
   - "[[3. The Party/Players/Yevelda Ovak.md|Yevelda Ovak]]"
-exhaustion_level: 1
+exhaustion_level: 0
 movement: walking
 speed: normal
 ---
@@ -20,12 +20,12 @@ speed: normal
 > ```dataview
 > TABLE WITHOUT ID
 > link(file.path, name) AS "Name",
-> embed(link(art)) AS "Art",
+> embed(link(image)) AS "Art",
 > race AS "Race",
 > condition AS "Condition",
 > location AS "Location"
 > FROM "3. The Party/Players"
-> WHERE contains(file.frontmatter.party_player, this.file.name)
+> WHERE contains(file.frontmatter.party, this.file.name)
 > SORT file.name asc
 > ```
 

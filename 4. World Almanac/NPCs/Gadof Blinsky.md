@@ -10,7 +10,7 @@ condition: healthy
 occupation: 
 group: 
 religions: 
-location: 
+location: "[[4. World Almanac/Shops/Blinsky Toys.md|Blinsky Toys]]"
 personality: 
 ideal: 
 bond: 
@@ -19,11 +19,12 @@ goals:
 likes: 
 dislikes: 
 tags:
-- compendium/src/5e/cos
-- monster/cr/0
-- monster/size/medium
-- monster/type/humanoid/human
-aliases: ["Gadof Blinsky"]
+  - compendium/src/5e/cos
+  - monster/cr/0
+  - monster/size/medium
+  - monster/type/humanoid/human
+aliases:
+  - Gadof Blinsky
 ---
 
 > [!infobox]

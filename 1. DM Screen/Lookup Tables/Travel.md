@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 obsidianEditingMode: source
-BaseSpeed: 60.001
+BaseSpeed: 40.003
 SpeedMultiplier: 1
 AdditionalBonus: 0
 Encumbered: false
@@ -9,7 +9,7 @@ HorseshoesofSpeed: false
 HoursPerDay: 8
 MinutesPerMile: 20
 ExhaustionLevel: 0
-TravelDistance: 100
+TravelDistance: 12
 varMins: 60
 ShipCostPerM: 5
 MessengerCostPerM: 5
