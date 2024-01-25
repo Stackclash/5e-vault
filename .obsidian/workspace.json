@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "5. Mechanics/Tables/Human Names Slavic Female (XGE).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -162,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 335.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,11 +180,10 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "templater-obsidian:Templater": false,
       "obsidian-5e-statblocks:Open Creature Pane": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "rpg-manager:RPG Manager": false
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "b2c608465ca16709",
+  "active": "a88a1818b2c15bdd",
   "lastOpenFiles": [
     "5. Mechanics/Tables/Dark Fantasy Settings (VRGR).md",
     "5. Mechanics/Tables/Dark Fantasy Monsters (VRGR).md",
