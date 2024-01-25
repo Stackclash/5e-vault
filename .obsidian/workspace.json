@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/Regions/Barovia.md",
+                "file": "4. World Almanac/Settlements/Vallaki.md",
                 "mode": "preview",
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/Regions/Barovia.md",
+                "file": "4. World Almanac/Settlements/Vallaki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/Regions/Barovia.md",
+                "file": "4. World Almanac/Settlements/Vallaki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/Regions/Barovia.md"
+                "file": "4. World Almanac/Settlements/Vallaki.md"
               }
             }
           },
@@ -186,13 +186,13 @@
   "active": "bc8fc9602e9ad6f3",
   "lastOpenFiles": [
     "4. World Almanac/Settlements/Krezk.md",
+    "4. World Almanac/Settlements/Vallaki.md",
+    "4. World Almanac/Regions/Barovia.md",
     "z_Scripts/Dataview/npcsInLocation.js",
     "4. World Almanac/Settlements/Village of Barovia.md",
-    "4. World Almanac/Settlements/Vallaki.md",
     "4. World Almanac/Shops/Blue Water Inn.md",
     "4. World Almanac/NPCs/Bray Martikov.md",
     "4. World Almanac/Places of Interest/Wachterhaus.md",
-    "4. World Almanac/Regions/Barovia.md",
     "4. World Almanac/Regions/Regions.md",
     "4. World Almanac/NPCs/Davian Martikov.md",
     "4. World Almanac/NPCs/Arrigal.md",
