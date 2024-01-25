@@ -1,13 +1,30 @@
-let relationships = input.current
+// recursive through relationships?
+const relationshipMapping = {
+    son: '--Son -->',
+    daughter: '--Daughter -->',
+    father: '--Father -->',
+    mother: '--Mother -->'
+}
+
+let relationships = input.current.relationships
+let relationshipGraph = `A[${input.current.file.name}]
+`
 const backticks = "```"
 
-relationships = relationships.map((r, index) => ({...r, key: String.fromCharCode(65 + index)}))
+// 65 is unicode for A
+// 97 is unicode for a
+relationships = relationships.map((r, index) => ({...r, key: String.fromCharCode(65 + index+1)}))
 
-console.log(relationships)
+relationships.forEach(r => {
+    relationshipGraph += `A ${relationshipMapping[r.type]} ${r.key}[${r.name}]
+`
+})
 
 dv.paragraph(
   `${backticks}mermaid
 graph LR
-${relationships}
+${relationshipGraph}
+
+class A,${relationships.map(r => r.key).join(',')} internal-link;
 ${backticks}
 `)
