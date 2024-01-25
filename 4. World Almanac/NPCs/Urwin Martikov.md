@@ -158,5 +158,5 @@ TBD
 ### General Notes
 
 ```dataviewjs
-await dv.view("npcRelationships", { current: dv.current().relationships })
+await dv.view("npcRelationships", { current: dv.current() })
 ```
