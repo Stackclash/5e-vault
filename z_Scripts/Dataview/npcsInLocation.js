@@ -13,11 +13,11 @@ currentListLength = childLocationPathsList.length
 do {
     currentListLength = childLocationPathsList.length
 
-    childLocationPathsList = childLocationPathsList.flatMap(p => getChildLocationPaths(p))
+    console.log("CALL --->>>", childLocationPathsList)
+    childLocationPathsList = childLocationPathsList.concat(childLocationPathsList.flatMap(p => getChildLocationPaths(p)))
     //remove possible duplicates
     childLocationPathsList = childLocationPathsList.filter((p, index) => childLocationPathsList.indexOf(p) == index)
     
-    console.log("CALL --->>>", childLocationPathsList)
 
 } while (childLocationPathsList.length != currentListLength)
 
