@@ -6,6 +6,7 @@ condition: healthy
 relationships:
   - Bray Martikov|son
   - Brom Martikov|son
+  - Danika Dorakova|wife
 tags: 
 aliases: 
 pronounced: 
