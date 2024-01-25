@@ -23,7 +23,7 @@ gantt
     axisFormat  %B
     todaymarker off`
 
-console.log()
+console.log(mermaidConf)
 
 const te = await dv.queryMarkdown(prompt)
 const prefixedList = te.value
@@ -34,4 +34,17 @@ dv.paragraph(
   `${backticks}${mermaidConf}
 ${list}
 ${backticks} 
-`
+`,
+)
+
+```
+```dataview
+LIST WITHOUT ID 
+file.name + " :" + 
+started.day + "-" + started.month + "-" + started.year +
+", " + 
+read.day + "-" + read.month + "-" + read.year
+FROM #book
+WHERE date(read).year = 2022
+SORT read desc 
+```
