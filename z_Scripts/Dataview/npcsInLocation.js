@@ -1,4 +1,3 @@
-// This will only handle child locations one level down
 const currentPath = input.current.file.path
 
 function getChildLocationPaths(locationPath) {
@@ -13,7 +12,6 @@ currentListLength = childLocationPathsList.length
 do {
     currentListLength = childLocationPathsList.length
 
-    console.log("CALL --->>>", childLocationPathsList)
     childLocationPathsList = childLocationPathsList.concat(childLocationPathsList.flatMap(p => getChildLocationPaths(p)))
     //remove possible duplicates
     childLocationPathsList = childLocationPathsList.filter((p, index) => childLocationPathsList.indexOf(p) == index)
