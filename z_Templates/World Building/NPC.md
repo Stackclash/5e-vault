@@ -1,16 +1,19 @@
 ---
 obsidianUIMode: preview
 statblock: inline
+location: 
+condition: healthy
+relationships: []
+tags: 
+aliases: []
 pronounced: 
 race: 
 sex: 
 age: 
 alignment: 
-condition: healthy
 occupation: 
-group: 
-religions: 
-location: 
+groups: []
+religions: []
 personality: 
 ideal: 
 bond: 
@@ -18,8 +21,6 @@ flaw:
 goals: 
 likes: 
 dislikes: 
-tags: 
-aliases: []
 ---
 
 > [!infobox]
@@ -44,11 +45,6 @@ aliases: []
 > **Current Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 # **`=this.file.name`**
-{#if resource.description }
-{resource.description}
-{#else}
-TBD
-{/if}
 
 ## Traits/Goals
 > [!column] Traits
@@ -74,17 +70,13 @@ TBD
 >> `INPUT[textArea:goals]`
 
 ## Acquaintances
-> [!column|dataview] Acquaintances
->> [!metadata|text-Center bg-c-green]- Friends & Family
->> TBD
->
->> [!metadata|text-Center bg-c-red]- Rivals
->> TBD
->
+```dataviewjs
+
+```
 
 ## Stats
 ```statblock
-{resource.5eStatblockYaml}
+
 ```
 ^statblock
 
