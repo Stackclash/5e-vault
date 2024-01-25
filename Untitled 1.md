@@ -49,7 +49,7 @@ WHERE date(read).year = 2022
 SORT read desc 
 ```
 ```mermaid
-flowchart LR
+graph LR
     A[Urwin Martikov] --Father --> B[Bray Martikov]
-class A, B internal-link;
+class A,B internal-link;
 ```

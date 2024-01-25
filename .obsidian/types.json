@@ -28,6 +28,7 @@
     "owners": "multitext",
     "staff": "multitext",
     "distance_measure": "number",
-    "units": "number"
+    "units": "number",
+    "relationships": "multitext"
   }
 }
