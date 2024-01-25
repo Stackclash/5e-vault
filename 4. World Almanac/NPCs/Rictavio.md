@@ -1,16 +1,19 @@
 ---
 obsidianUIMode: preview
 statblock: inline
+location: 
+condition: healthy
+relationships: []
+tags: 
+aliases: []
 pronounced: 
 race: 
 sex: 
 age: 
 alignment: 
-condition: healthy
 occupation: 
-group: 
-religions: 
-location: 
+groups: []
+religions: []
 personality: 
 ideal: 
 bond: 
@@ -18,12 +21,6 @@ flaw:
 goals: 
 likes: 
 dislikes: 
-tags:
-- compendium/src/5e/cos
-- monster/cr/5
-- monster/size/medium
-- monster/type/humanoid/human
-aliases: ["Rictavio"]
 ---
 
 > [!infobox]
@@ -102,13 +99,9 @@ Van Richten works alone. A curse placed on him long ago by a Vistani seer brings
 >> `INPUT[textArea:goals]`
 
 ## Acquaintances
-> [!column|dataview] Acquaintances
->> [!metadata|text-Center bg-c-green]- Friends & Family
->> TBD
->
->> [!metadata|text-Center bg-c-red]- Rivals
->> TBD
->
+```dataviewjs
+await dv.view("npcRelationships", { current: dv.current() })
+```
 
 ## Stats
 ```statblock

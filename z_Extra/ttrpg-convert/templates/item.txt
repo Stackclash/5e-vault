@@ -12,8 +12,8 @@ aliases:
 {#if resource.variantAliases }
 {resource.variantAliases}
 {/if}
-{#if resource.cost}
-cost: {resource.cost}
+{#if resource.costCp}
+cost: {resource.costCp}
 {/if}
 ---
 # {resource.name}

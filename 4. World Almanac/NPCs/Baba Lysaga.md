@@ -1,16 +1,19 @@
 ---
 obsidianUIMode: preview
 statblock: inline
+location: 
+condition: healthy
+relationships: []
+tags: 
+aliases: []
 pronounced: 
 race: 
 sex: 
 age: 
 alignment: 
-condition: healthy
 occupation: 
-group: 
-religions: 
-location: "[[4. World Almanac/Places of Interest/Ruins of Berez.md|Ruins of Berez]]"
+groups: []
+religions: []
 personality: 
 ideal: 
 bond: 
@@ -18,14 +21,6 @@ flaw:
 goals: 
 likes: 
 dislikes: 
-tags:
-  - compendium/src/5e/cos
-  - monster/cr/11
-  - monster/size/medium
-  - monster/type/humanoid/human
-  - monster/type/humanoid/shapechanger
-aliases:
-  - Baba Lysaga
 ---
 
 > [!infobox]
@@ -112,13 +107,9 @@ The goddess Mother Night has bestowed magical gifts on Baba Lysaga as rewards fo
 >> `INPUT[textArea:goals]`
 
 ## Acquaintances
-> [!column|dataview] Acquaintances
->> [!metadata|text-Center bg-c-green]- Friends & Family
->> TBD
->
->> [!metadata|text-Center bg-c-red]- Rivals
->> TBD
->
+```dataviewjs
+await dv.view("npcRelationships", { current: dv.current() })
+```
 
 ## Stats
 ```statblock

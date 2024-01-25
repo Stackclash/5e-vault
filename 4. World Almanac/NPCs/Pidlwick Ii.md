@@ -1,16 +1,19 @@
 ---
 obsidianUIMode: preview
 statblock: inline
+location: 
+condition: healthy
+relationships: []
+tags: 
+aliases: []
 pronounced: 
 race: 
 sex: 
 age: 
 alignment: 
-condition: healthy
 occupation: 
-group: 
-religions: 
-location: 
+groups: []
+religions: []
 personality: 
 ideal: 
 bond: 
@@ -18,12 +21,6 @@ flaw:
 goals: 
 likes: 
 dislikes: 
-tags:
-- compendium/src/5e/cos
-- monster/cr/1-4
-- monster/size/small
-- monster/type/construct
-aliases: ["Pidlwick II"]
 ---
 
 > [!infobox]
@@ -106,13 +103,9 @@ Pidlwick II is basically an oversized toy - a 4-foot-tall mechanism stuffed with
 >> `INPUT[textArea:goals]`
 
 ## Acquaintances
-> [!column|dataview] Acquaintances
->> [!metadata|text-Center bg-c-green]- Friends & Family
->> TBD
->
->> [!metadata|text-Center bg-c-red]- Rivals
->> TBD
->
+```dataviewjs
+await dv.view("npcRelationships", { current: dv.current() })
+```
 
 ## Stats
 ```statblock

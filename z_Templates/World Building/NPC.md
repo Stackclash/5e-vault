@@ -71,7 +71,7 @@ dislikes:
 
 ## Acquaintances
 ```dataviewjs
-
+await dv.view("npcRelationships", { current: dv.current() })
 ```
 
 ## Stats

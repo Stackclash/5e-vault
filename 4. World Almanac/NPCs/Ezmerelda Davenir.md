@@ -1,30 +1,26 @@
 ---
 obsidianUIMode: preview
 statblock: inline
+location: 
+condition: healthy
+relationships: []
+tags: 
+aliases: []
 pronounced: 
 race: 
 sex: 
 age: 
-alignment: chaotic good
-condition: healthy
+alignment: 
 occupation: 
-group: 
-religions: 
-location: "[[4. World Almanac/Places of Interest/Van Richten's Tower.md|Van Richten's Tower]]"
+groups: []
+religions: []
 personality: 
-ideal: Evil that feeds on the innocent is the worst of all evils and must be destroyed.
-bond: My mentor and teacher, Dr. Rudolph van Richten, is like a father to me.
-flaw: I go where angels fear to tread.
+ideal: 
+bond: 
+flaw: 
 goals: 
 likes: 
 dislikes: 
-tags:
-  - compendium/src/5e/cos
-  - monster/cr/8
-  - monster/size/medium
-  - monster/type/humanoid/human
-aliases:
-  - Ezmerelda d'Avenir
 ---
 
 > [!infobox]
@@ -115,13 +111,9 @@ Ezmerelda keeps a [[5. Mechanics/Decks/Tarokka Deck (COS).md|deck of tarokka car
 >> `INPUT[textArea:goals]`
 
 ## Acquaintances
-> [!column|dataview] Acquaintances
->> [!metadata|text-Center bg-c-green]- Friends & Family
->> TBD
->
->> [!metadata|text-Center bg-c-red]- Rivals
->> TBD
->
+```dataviewjs
+await dv.view("npcRelationships", { current: dv.current() })
+```
 
 ## Stats
 ```statblock

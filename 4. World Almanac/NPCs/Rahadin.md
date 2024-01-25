@@ -1,16 +1,19 @@
 ---
 obsidianUIMode: preview
 statblock: inline
+location: 
+condition: healthy
+relationships: []
+tags: 
+aliases: []
 pronounced: 
 race: 
 sex: 
 age: 
 alignment: 
-condition: healthy
 occupation: 
-group: 
-religions: 
-location: "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]"
+groups: []
+religions: []
 personality: 
 ideal: 
 bond: 
@@ -18,13 +21,6 @@ flaw:
 goals: 
 likes: 
 dislikes: 
-tags:
-  - compendium/src/5e/cos
-  - monster/cr/10
-  - monster/size/medium
-  - monster/type/humanoid/elf
-aliases:
-  - Rahadin
 ---
 
 > [!infobox]
@@ -113,13 +109,9 @@ So dreadful a creature is Rahadin that anyone who stands within 10 feet of him c
 >> `INPUT[textArea:goals]`
 
 ## Acquaintances
-> [!column|dataview] Acquaintances
->> [!metadata|text-Center bg-c-green]- Friends & Family
->> TBD
->
->> [!metadata|text-Center bg-c-red]- Rivals
->> TBD
->
+```dataviewjs
+await dv.view("npcRelationships", { current: dv.current() })
+```
 
 ## Stats
 ```statblock
