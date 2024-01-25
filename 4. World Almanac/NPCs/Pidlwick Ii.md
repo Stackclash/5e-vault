@@ -102,7 +102,7 @@ Pidlwick II is basically an oversized toy - a 4-foot-tall mechanism stuffed with
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
 
-## Acquaintances
+## Relationships
 ```dataviewjs
 await dv.view("npcRelationships", { current: dv.current() })
 ```

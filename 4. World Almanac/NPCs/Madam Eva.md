@@ -97,7 +97,7 @@ None of Madam Eva's Vistani kin know her true identity or purpose. They puzzle o
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
 
-## Acquaintances
+## Relationships
 ```dataviewjs
 await dv.view("npcRelationships", { current: dv.current() })
 ```

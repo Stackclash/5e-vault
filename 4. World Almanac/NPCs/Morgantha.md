@@ -69,7 +69,7 @@ TBD
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
 
-## Acquaintances
+## Relationships
 ```dataviewjs
 await dv.view("npcRelationships", { current: dv.current() })
 ```

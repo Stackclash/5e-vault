@@ -111,7 +111,7 @@ The ability of the Heart of Sorrow to absorb damage is suppressed if it or Strah
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
 
-## Acquaintances
+## Relationships
 ```dataviewjs
 await dv.view("npcRelationships", { current: dv.current() })
 ```

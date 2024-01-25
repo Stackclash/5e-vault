@@ -108,7 +108,7 @@ So dreadful a creature is Rahadin that anyone who stands within 10 feet of him c
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
 
-## Acquaintances
+## Relationships
 ```dataviewjs
 await dv.view("npcRelationships", { current: dv.current() })
 ```

@@ -80,7 +80,7 @@ Removing the gem from the hut renders the hut incapacitated. That task is easier
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
 
-## Acquaintances
+## Relationships
 ```dataviewjs
 await dv.view("npcRelationships", { current: dv.current() })
 ```

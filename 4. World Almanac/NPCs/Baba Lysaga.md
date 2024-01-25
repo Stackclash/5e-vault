@@ -106,7 +106,7 @@ The goddess Mother Night has bestowed magical gifts on Baba Lysaga as rewards fo
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
 
-## Acquaintances
+## Relationships
 ```dataviewjs
 await dv.view("npcRelationships", { current: dv.current() })
 ```

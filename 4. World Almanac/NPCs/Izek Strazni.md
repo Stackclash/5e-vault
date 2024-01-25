@@ -104,7 +104,7 @@ Izek has dreams of Ireena. If he spots her, he tries to take her by force to the
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
 
-## Acquaintances
+## Relationships
 ```dataviewjs
 await dv.view("npcRelationships", { current: dv.current() })
 ```

@@ -28,6 +28,6 @@
 	- [ ] Settlements
 - [ ] Create note to appear as new note screen
 - [x] Fix location NPCs table to include child locations
-- [ ] Create NPC relationship graph in mermaid
+- [x] Create NPC relationship graph in mermaid
 - [ ] Fix metabind fields to take up necessary space
 - [ ] Make ttrpg-convert import script use existing metadata when file is replaced

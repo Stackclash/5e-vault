@@ -98,7 +98,7 @@ Van Richten works alone. A curse placed on him long ago by a Vistani seer brings
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
 
-## Acquaintances
+## Relationships
 ```dataviewjs
 await dv.view("npcRelationships", { current: dv.current() })
 ```
