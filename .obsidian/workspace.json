@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/Settlements/Vallaki.md",
+                "file": "4. World Almanac/Regions/Barovia.md",
                 "mode": "preview",
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/Settlements/Vallaki.md",
+                "file": "4. World Almanac/Regions/Barovia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/Settlements/Vallaki.md",
+                "file": "4. World Almanac/Regions/Barovia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/Settlements/Vallaki.md"
+                "file": "4. World Almanac/Regions/Barovia.md"
               }
             }
           },
@@ -186,6 +186,8 @@
   "active": "bc8fc9602e9ad6f3",
   "lastOpenFiles": [
     "4. World Almanac/Settlements/Krezk.md",
+    "z_Scripts/Dataview/npcsInLocation.js",
+    "4. World Almanac/Settlements/Village of Barovia.md",
     "4. World Almanac/Settlements/Vallaki.md",
     "4. World Almanac/Shops/Blue Water Inn.md",
     "4. World Almanac/NPCs/Bray Martikov.md",
@@ -209,8 +211,6 @@
     "5. Mechanics/Tables/Dark Fantasy Monsters (VRGR).md",
     "5. Mechanics/Tables/Dark Fantasy Adventure Sites (VRGR).md",
     "5. Mechanics/Tables/Creating Your Own Units Unit Equipment (SAF).md",
-    "5. Mechanics/Tables/Creating Common Magic Items (ERLW).md",
-    "5. Mechanics/Tables/Adventuring Gear.md",
     "6. Resources/Resources/The Interactive Tome of Strahd.pdf",
     "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
     "z_Scripts/Dataview/npcs.js",
@@ -220,7 +220,6 @@
     "z_Scripts/DB Folder/locationsByType.js",
     "z_Scripts/DB Folder",
     "js/locationsByType.js",
-    "js",
     "z_Assets/Barovia.jpg",
     "5. Mechanics/Bestiary/Undead/token/skeleton.png",
     "4. World Almanac/NPCs/token/zygfrek-belview.png",

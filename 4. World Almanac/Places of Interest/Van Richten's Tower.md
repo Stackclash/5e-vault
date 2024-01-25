@@ -94,7 +94,7 @@ TBD
 
 ## Notable NPCs
 > ```dataviewjs
->  await dv.view("npcs", {current: dv.current()})
+>  await dv.view("npcsInLocation", {current: dv.current()})
 > ```
 
 ## History
