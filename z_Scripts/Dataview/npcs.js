@@ -1,20 +1,17 @@
+// This will only handle child locations one level down
 let currentPath = input.current.file.path
 
-const pages = dv.pages('"4. World Almanac/NPCs"').where(p => {
+const childLocations = dv.pages('"4. World Almanac/Regions" or "4. World Almanac/Settlements" or "4. World Almanac/Places of Interest" or "4. World Almanac/Shops"').where(p => {
     return p.location && p.location.path ? p.location.path == currentPath : false
+})
+
+const childLocationPaths = childLocations.map(p => p.file.path)
+
+const pages = dv.pages('"4. World Almanac/NPCs"').where(p => {
+    return p.location && p.location.path ? childLocationPaths.includes(p.location.path) : false
 }).sort(p => p.file.name)
 
-pages.flatMap(p => {
-    let currentPage = p,
-    childLocations = [currentPage]
 
-    while (currentPage.location && currentPage.location.path) {
-        currentPage = dv.page(currentPage.location.path)
-        childLocations.concat(currentPage)
-    }
-
-    return childLocations
-})
 
 if (pages.length > 0) {
     dv.table(["Name", "Location"],
