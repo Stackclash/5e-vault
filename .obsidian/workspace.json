@@ -20,25 +20,13 @@
             }
           },
           {
-            "id": "1cc72f60a1778095",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Book.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "33277d8e226e3229",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
-                "mode": "source",
+                "file": "4. World Almanac/NPCs/Urwin Martikov.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -50,13 +38,13 @@
               "type": "markdown",
               "state": {
                 "file": "4. World Almanac/NPCs/Urwin Martikov.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,11 +208,11 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "f5e2dc85b511c59d",
+  "active": "33277d8e226e3229",
   "lastOpenFiles": [
     "Untitled 1.md",
-    "z_Scripts/Dataview/npcRelationships.js",
     "4. World Almanac/NPCs/Urwin Martikov.md",
+    "z_Scripts/Dataview/npcRelationships.js",
     "Book.md",
     "3. The Party/Players/Marin.md",
     "3. The Party/Players/Players.md",
