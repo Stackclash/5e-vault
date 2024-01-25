@@ -13,8 +13,6 @@ FROM #book
 WHERE date(read).year = ${targetYear}
 SORT read desc `
 
-console.log(prompt)
-
 // This is the Mermaid configuration.
 const mermaidConf = `mermaid
 gantt
@@ -38,18 +36,23 @@ ${backticks}
 )
 
 ```
-```dataview
-LIST WITHOUT ID 
-file.name + " :" + 
-started.day + "-" + started.month + "-" + started.year +
-", " + 
-read.day + "-" + read.month + "-" + read.year
-FROM #book
-WHERE date(read).year = 2022
-SORT read desc 
+
 ```
 ```mermaid
 graph LR
     A[Urwin Martikov] --Father --> B[Bray Martikov]
 class A,B internal-link;
+```
+
+```dataviewjs
+const list = await dv.queryMarkdown(prompt)
+const list = prefixedList.replaceAll(/^-\s/gm, "") // Dataview prefixes each list item with a hyphen. That would break Mermaid's render, so we remove it.
+const backticks = "```"
+
+dv.paragraph(
+  `${backticks}mermaid
+${list}
+${backticks} 
+`,
+)
 ```

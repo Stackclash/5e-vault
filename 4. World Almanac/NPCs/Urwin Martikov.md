@@ -27,6 +27,7 @@ tags:
 aliases:
   - Urwin Martikov
 relationships:
+  - '{"name": "[[Bray Martikov]]", type: "son"}'
 ---
 
 > [!infobox]
