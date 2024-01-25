@@ -9,7 +9,7 @@ const childLocationPaths = childLocations.map(p => p.file.path)
 
 const pages = dv.pages('"4. World Almanac/NPCs"').where(p => {
     return p.location && p.location.path ? childLocationPaths.includes(p.location.path) : false
-}).sort(p => p.file.name)
+}).sort(p => dv.page(p.location.path).file.name)
 
 
 
