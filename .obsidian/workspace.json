@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
-                "mode": "source",
+                "file": "3. The Party/Players/Marin.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "3. The Party/Players/Marin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "3. The Party/Players/Marin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "3. The Party/Players/Marin.md"
               }
             }
           },
@@ -210,8 +210,9 @@
   },
   "active": "33277d8e226e3229",
   "lastOpenFiles": [
-    "Book.md",
+    "3. The Party/Players/Players.md",
     "Untitled 1.md",
+    "Book.md",
     "2. Scratch Notes/To-Do List.md",
     "4. World Almanac/Regions/Regions.md",
     "4. World Almanac/Regions/Barovia.md",
@@ -228,7 +229,6 @@
     "3. The Party/Session Logs/Session Logs.md",
     "3. The Party/Quests/Take Ireena to Vallaki.md",
     "3. The Party/Quests/Quests.md",
-    "3. The Party/Players/Players.md",
     "3. The Party/Players/Yevelda Ovak.md",
     "3. The Party/Players/Seluvis Felo'melorn.md",
     "3. The Party/Players/Redgrave.md",
