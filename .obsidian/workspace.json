@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f5e2dc85b511c59d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. World Almanac/NPCs/Urwin Martikov.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -113,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "4. World Almanac/NPCs/Urwin Martikov.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "4. World Almanac/NPCs/Urwin Martikov.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "4. World Almanac/NPCs/Urwin Martikov.md"
               }
             }
           },
@@ -208,11 +220,11 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "33277d8e226e3229",
+  "active": "f5e2dc85b511c59d",
   "lastOpenFiles": [
+    "Untitled 1.md",
     "z_Scripts/Dataview/npcRelationships.js",
     "4. World Almanac/NPCs/Urwin Martikov.md",
-    "Untitled 1.md",
     "Book.md",
     "3. The Party/Players/Marin.md",
     "3. The Party/Players/Players.md",
@@ -245,7 +257,6 @@
     "z_Scripts/Dataview/locations.js",
     "z_Scripts/DB Folder/locationsByType.js",
     "z_Scripts/DB Folder",
-    "js/locationsByType.js",
     "z_Assets/Barovia.jpg",
     "5. Mechanics/Bestiary/Undead/token/skeleton.png",
     "4. World Almanac/NPCs/token/zygfrek-belview.png",
