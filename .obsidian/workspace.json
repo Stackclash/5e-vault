@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. The Party/Players/Marin.md",
-                "mode": "preview",
+                "file": "Untitled 1.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/Players/Marin.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/Players/Marin.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/Players/Marin.md"
+                "file": "Untitled 1.md"
               }
             }
           },
@@ -210,9 +210,10 @@
   },
   "active": "33277d8e226e3229",
   "lastOpenFiles": [
+    "Book.md",
+    "3. The Party/Players/Marin.md",
     "3. The Party/Players/Players.md",
     "Untitled 1.md",
-    "Book.md",
     "2. Scratch Notes/To-Do List.md",
     "4. World Almanac/Regions/Regions.md",
     "4. World Almanac/Regions/Barovia.md",
@@ -232,7 +233,6 @@
     "3. The Party/Players/Yevelda Ovak.md",
     "3. The Party/Players/Seluvis Felo'melorn.md",
     "3. The Party/Players/Redgrave.md",
-    "3. The Party/Players/Marin.md",
     "3. The Party/Players/Faerah Duskrane.md",
     "5. Mechanics/Tables/Human Names Slavic Female (XGE).md",
     "5. Mechanics/Tables/Dark Fantasy Settings (VRGR).md",
