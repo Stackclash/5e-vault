@@ -45,7 +45,7 @@ class A,B internal-link;
 ```
 
 ```dataviewjs
-const list = await dv.queryMarkdown(prompt)
+const list = dv.current
 const list = prefixedList.replaceAll(/^-\s/gm, "") // Dataview prefixes each list item with a hyphen. That would break Mermaid's render, so we remove it.
 const backticks = "```"
 
