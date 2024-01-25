@@ -29,6 +29,7 @@
     "staff": "multitext",
     "distance_measure": "number",
     "units": "number",
-    "relationships": "multitext"
+    "relationships": "multitext",
+    "statblock": "text"
   }
 }
