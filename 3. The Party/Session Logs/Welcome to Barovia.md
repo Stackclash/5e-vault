@@ -32,7 +32,7 @@ party: Curse of Strahd
 
 ### Locations
 #### [Bildrath's Mercantile](https://5etools.mysmarthome.space/adventure.html#cos,4,e1.%20bildrath's%20mercantile)
-- Bildrath Cantemir: Owner, won't bargin (If you want it badly enough, you'll pay for it)
+- Bildrath Cantemir: Owner, won't bargain (If you want it badly enough, you'll pay for it)
 - Parriwimple: Large stock boy, nephew to Bildrath
 #### [Blood of the Vine Tavern](https://5etools.mysmarthome.space/adventure.html#cos,4,e2.%20blood%20of%20the%20vine%20tavern,0)
 - Ismark Kolyanovich: Son of burgomaster, Kolyan Indrovich
