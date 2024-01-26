@@ -7,7 +7,6 @@ const relationshipMapping = {
     wife: '--Wife ---',
     husband: '--Husband ---'
 }
-console.log(typeof app.FileManager.processfrontmatter)
 
 let relationships = input.current.relationships
 let relationshipGraph = `A[${input.current.file.name}]
