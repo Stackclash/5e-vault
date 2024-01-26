@@ -1,13 +1,13 @@
 // recursive through relationships?
 const relationshipMapping = {
-    son: { string: '--Son -->', style: 'stroke:#00f'},
-    daughter: { string: '--Daughter -->', style: 'stroke:#00f'},
-    father: { string: '--Father -->', style: 'stroke:#00f'},
-    mother: { string: '--Mother -->', style: 'stroke:#00f'},
-    wife: { string: '--Wife ---', style: 'stroke:#00f'},
-    husband: { string: '--Husband ---', style: 'stroke:#00f'},
-    brother: { string: '--Brother ---', style: 'stroke:#00f'},
-    sister: { string: '--Sister ---', style: 'stroke:#00f'}
+    son: { string: '--Son -->', styleClass: 'family'},
+    daughter: { string: '--Daughter -->', styleClass: 'family'},
+    father: { string: '--Father -->', styleClass: 'family'},
+    mother: { string: '--Mother -->', styleClass: 'family'},
+    wife: { string: '--Wife ---', styleClass: 'family'},
+    husband: { string: '--Husband ---', styleClass: 'family'},
+    brother: { string: '--Brother ---', styleClass: 'family'},
+    sister: { string: '--Sister ---', styleClass: 'family'}
 }
 
 const backticks = "```"
@@ -21,7 +21,8 @@ function buildRelationshipKeys(page, charIndex=0, keys=[]) {
   const initialLength = keys.length
 
   keys = keys.concat(page.relationships?.map(r => {
-    const name = r.split('|')[0]
+    const name = r.split('|')[0],
+    styleClass = relationshipMapping[r.split('|')[1]].styleClass
     if (!keys.find(k => k.name === name)) {
       // 65 is unicode for A
       // 97 is unicode for a
@@ -30,7 +31,8 @@ function buildRelationshipKeys(page, charIndex=0, keys=[]) {
 
       return {
         name,
-        key
+        key,
+        class: styleClass
       }
     } else {
       return undefined
@@ -75,13 +77,13 @@ function buildRelationshipArray(page, keys, relationships=[]) {
       console.log('ADDING', {
         from: page.file.name,
         to: name,
-        string: `${getKey(page.file.name, keys)} ${relationshipMapping[type]} ${getKey(name, keys)}
+        string: `${getKey(page.file.name, keys)} ${relationshipMapping[type].string} ${getKey(name, keys)}
 `
       })
       relationships.push({
         from: page.file.name,
         to: name,
-        string: `${getKey(page.file.name, keys)} ${relationshipMapping[type]} ${getKey(name, keys)}
+        string: `${getKey(page.file.name, keys)} ${relationshipMapping[type].string} ${getKey(name, keys)}
 `
       })
     }
@@ -107,15 +109,15 @@ function buildRelationshipArray(page, keys, relationships=[]) {
 }
 
 const keys = buildRelationshipKeys(input.current)[0]
+console.log(keys)
 const relationshipString = buildRelationshipArray(input.current, keys).map(i => i.string).join('')
 
 console.log(`${backticks}mermaid
 graph LR
-${keys.map(k => `${k.key}[${k.name}]
+${keys.map(k => `${k.key}[${k.name}]${k.class ? `:::${k.class}` : ''}
 `).join('')}
-
 ${relationshipString}
-
+classDef family stroke:#0f0
 class ${keys.map(r => r.key).join(',')} internal-link;
 ${backticks}
 `)
@@ -123,11 +125,12 @@ ${backticks}
 dv.paragraph(
   `${backticks}mermaid
 graph LR
-${keys.map(k => `${k.key}[${k.name}]
+${keys.map(k => `${k.key}[${k.name}]:::${k.styleClass}
 `).join('')}
 
 ${relationshipString}
 
+classDef family stroke:#00f
 class ${keys.map(r => r.key).join(',')} internal-link;
 ${backticks}
 `)
