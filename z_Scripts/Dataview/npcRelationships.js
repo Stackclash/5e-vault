@@ -76,7 +76,7 @@ function buildRelationshipArray(page, keys, relationships=[]) {
       relationships.push({
         from: page.file.name,
         to: name,
-        string: `${getKey(page.file.name, keys)} ${conditional ? '' : relationshipMapping[type].string} ${getKey(name, keys)}
+        string: `${getKey(page.file.name, keys)} ${conditional ? relationshipMapping[type].string.replace(/(\w)\s/, `$&, ${conditional} `) : relationshipMapping[type].string} ${getKey(name, keys)}
 `
       })
     }
@@ -99,6 +99,8 @@ function buildRelationshipArray(page, keys, relationships=[]) {
 
 const keys = buildRelationshipKeys(input.current)[0]
 const relationshipString = buildRelationshipArray(input.current, keys).map(i => i.string).join('')
+
+console.log(relationshipString)
 
 dv.paragraph(
   `${backticks}mermaid
