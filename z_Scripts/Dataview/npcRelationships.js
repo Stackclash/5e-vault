@@ -16,9 +16,14 @@ let relationshipGraph = `A[${input.current.file.name}]
 const backticks = "```"
 
 function buildRelationshipKeys(page, charIndex=0, keys=[]) {
+  if (!keys.find(k => k.name === page.file.name)) {
+    keys.push({name: page.file.name, key: String.fromCharCode(65 + charIndex)})
+    charIndex++
+  }
+
   const initialLength = keys.length
 
-  return keys.concat(page.relationships?.map(r => {
+  keys = keys.concat(page.relationships?.map(r => {
     const name = r.split('|')[0]
     if (!keys.find(k => k.name === name)) {
       const key = String.fromCharCode(65 + charIndex)
@@ -30,6 +35,16 @@ function buildRelationshipKeys(page, charIndex=0, keys=[]) {
       }
     }
   }))
+
+  if (initialLength !== keys) {
+    return keys.concat(page.relationships.flatMap(r => {
+      const relationshipPage = dv.page(r.split('|')[0])
+
+      return buildRelationshipKeys(relationshipPage, charIndex, keys)
+    }))
+  } else {
+    return keys
+  }
 }
 
 function buildRelationshipArray(page, relationships=[]) {
