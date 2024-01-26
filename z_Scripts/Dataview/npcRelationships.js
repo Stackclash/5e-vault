@@ -33,10 +33,12 @@ function buildRelationshipKeys(page, charIndex=0, keys=[]) {
         name,
         key
       }
+    } else {
+      return undefined
     }
-  }))
+  }).filter( Boolean ))
 
-  if (initialLength !== keys) {
+  if (initialLength !== keys.length) {
     return keys.concat(page.relationships.flatMap(r => {
       const relationshipPage = dv.page(r.split('|')[0])
 
