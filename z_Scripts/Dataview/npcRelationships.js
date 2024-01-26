@@ -50,7 +50,6 @@ function buildRelationshipKeys(page, charIndex=0, keys=[]) {
   
         return results[0].filter(r => !keys.map(k => k.name).includes(r.name))
       } else {
-        console.log(`ERROR: Could not find page for: ${r.split('|')[0]}`)
         return []
       }
     }))
@@ -67,19 +66,12 @@ function getKey(name, keys) {
 
 function buildRelationshipArray(page, keys, relationships=[]) {
   const initialLength = relationships.length
-  console.log('START', page.file.name, page.relationships, relationships)
 
   page.relationships?.forEach((r) => {
     const name = r.split('|')[0],
     type = r.split('|')[1]
     
     if (!relationships.find(r => (r.from === page.file.name && r.to === name) || (r.to === page.file.name && r.from === name))) {
-      console.log('ADDING', {
-        from: page.file.name,
-        to: name,
-        string: `${getKey(page.file.name, keys)} ${relationshipMapping[type].string} ${getKey(name, keys)}
-`
-      })
       relationships.push({
         from: page.file.name,
         to: name,
@@ -94,43 +86,37 @@ function buildRelationshipArray(page, keys, relationships=[]) {
       const relationshipPage = dv.page(r.split('|')[0])
 
       if (relationshipPage) {
-        console.log(`CALLING ${page.file.name} ${i}`, relationships)
         relationships = buildRelationshipArray(relationshipPage, keys, relationships)
-        console.log(`DONE ${page.file.name} ${i}`, relationships)
       }
     })
 
-    console.log("ENDING - CALL", page.file.name, relationships)
     return relationships
   } else {
-    console.log("ENDING", page.file.name, relationships)
     return relationships
   }
 }
 
 const keys = buildRelationshipKeys(input.current)[0]
-console.log(keys)
 const relationshipString = buildRelationshipArray(input.current, keys).map(i => i.string).join('')
 
-console.log(`${backticks}mermaid
-graph LR
-${keys.map(k => `${k.key}[${k.name}]${k.class ? `:::${k.class}` : ''}
-`).join('')}
-${relationshipString}
-classDef family stroke:#0f0
-class ${keys.map(r => r.key).join(',')} internal-link;
-${backticks}
-`)
+// dv.paragraph(
+//   `${backticks}mermaid
+// graph LR
+// ${keys.map(k => `${k.key}[${k.name}]:::${k.class}
+// `).join('')}
 
-dv.paragraph(
-  `${backticks}mermaid
-graph LR
-${keys.map(k => `${k.key}[${k.name}]:::${k.styleClass}
+// ${relationshipString}
+
+// classDef family stroke:#00f
+// class ${keys.map(r => r.key).join(',')} internal-link;
+// ${backticks}
+// `)
+
+dv.paragraph(`graph LR
+${keys.map(k => `${k.key}[${k.name}]:::${k.class}
 `).join('')}
 
 ${relationshipString}
 
 classDef family stroke:#00f
-class ${keys.map(r => r.key).join(',')} internal-link;
-${backticks}
-`)
+class ${keys.map(r => r.key).join(',')} internal-link;`)
