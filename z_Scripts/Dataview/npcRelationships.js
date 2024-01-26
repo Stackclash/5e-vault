@@ -15,28 +15,59 @@ let relationshipGraph = `A[${input.current.file.name}]
 `
 const backticks = "```"
 
-function buildRelationshipArray(page, charIndex=0) {
-  const relationships = []
+function buildRelationshipArray(page, charIndex=0, relationships=[]) {
+  const initialRelationshipLength = relationships.length
+  console.log("START", page, relationships)
 
   // 65 is unicode for A
   // 97 is unicode for a
-  relationships = page.relationships?.map((r, i) => ({name: r.split('|')[0], type: r.split('|')[1], key: String.fromCharCode(65 + i + charIndex)}))
+  relationships.concat(page.relationships?.map((r, i) => {
+    const name = r.split('|')[0],
+    type = r.split('|')[1]
+    
+    if (!relationships.find(r => r.from === page.file.name && r.to === name)) {
+      const char = String.fromCharCode(65 + i + charIndex)
+      charIndex++
+      console.log({
+        from: page.file.name,
+        to: name,
+        type,
+        key: char
+      })
+      
+      return {
+        from: page.file.name,
+        to: name,
+        type,
+        key: char
+      }
+    } else {
+      return undefined
+    }
+  }))
 
+  if (initialRelationshipLength !== relationships.length) {
+    return relationships.flatMap(r => buildRelationshipArray(dv.page(r.to), charIndex, relationships))
+  } else {
+    return relationships
+  }
 }
 
+console.log("DONE", buildRelationshipArray(input.current))
 
-relationships.forEach(r => {
-  if (relationshipMapping[r.type]) {
-    relationshipGraph += `A ${relationshipMapping[r.type]} ${r.key}[${r.name}]
-`
-  }
-})
 
-dv.paragraph(
-  `${backticks}mermaid
-graph LR
-${relationshipGraph}
+// relationships.forEach(r => {
+//   if (relationshipMapping[r.type]) {
+//     relationshipGraph += `A ${relationshipMapping[r.type]} ${r.key}[${r.name}]
+// `
+//   }
+// })
 
-class A,${relationships.map(r => r.key).join(',')} internal-link;
-${backticks}
-`)
+// dv.paragraph(
+//   `${backticks}mermaid
+// graph LR
+// ${relationshipGraph}
+
+// class A,${relationships.map(r => r.key).join(',')} internal-link;
+// ${backticks}
+// `)
