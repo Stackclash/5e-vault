@@ -65,23 +65,27 @@ function getKey(name, keys) {
 
 function buildRelationshipArray(page, keys, relationships=[]) {
   const initialLength = relationships.length
-  console.log('START', page.file.name, relationships, page.relationships)
+  console.log('START', page.file.name, page.relationships, relationships)
 
-  relationships = relationships.concat(page.relationships?.map((r) => {
+  page.relationships?.forEach((r) => {
     const name = r.split('|')[0],
     type = r.split('|')[1]
     
     if (!relationships.find(r => r.from === page.file.name && r.to === name)) {
-      return {
+      console.log('ADDING', {
         from: page.file.name,
         to: name,
         string: `${getKey(page.file.name, keys)} ${relationshipMapping[type]} ${getKey(name, keys)}
 `
-      }
-    } else {
-      return undefined
+      })
+      relationships.push({
+        from: page.file.name,
+        to: name,
+        string: `${getKey(page.file.name, keys)} ${relationshipMapping[type]} ${getKey(name, keys)}
+`
+      })
     }
-  }).filter( Boolean ))
+  })
 
   if (initialLength !== relationships.length) {
     page.relationships.forEach(r => {
@@ -94,8 +98,10 @@ function buildRelationshipArray(page, keys, relationships=[]) {
       }
     })
 
+    console.log("ENDING - CALL", page.file.name, relationships)
     return relationships
   } else {
+    console.log("ENDING", page.file.name, relationships)
     return relationships
   }
 }
