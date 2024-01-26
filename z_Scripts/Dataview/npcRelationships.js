@@ -71,7 +71,7 @@ function buildRelationshipArray(page, keys, relationships=[]) {
     const name = r.split('|')[0],
     type = r.split('|')[1]
     
-    if (!relationships.find(r => r.from === page.file.name && r.to === name)) {
+    if (!relationships.find(r => (r.from === page.file.name && r.to === name) || (r.to === page.file.name && r.from === name))) {
       console.log('ADDING', {
         from: page.file.name,
         to: name,
@@ -88,13 +88,13 @@ function buildRelationshipArray(page, keys, relationships=[]) {
   })
 
   if (initialLength !== relationships.length) {
-    page.relationships.forEach(r => {
+    page.relationships.forEach((r, i) => {
       const relationshipPage = dv.page(r.split('|')[0])
 
       if (relationshipPage) {
-        relationships = relationships.concat(buildRelationshipArray(relationshipPage, keys, relationships))
-      } else {
-        return []
+        console.log(`CALLING ${page.file.name} ${i}`, relationships)
+        relationships = buildRelationshipArray(relationshipPage, keys, relationships)
+        console.log(`DONE ${page.file.name} ${i}`, relationships)
       }
     })
 
