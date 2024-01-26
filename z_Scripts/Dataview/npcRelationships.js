@@ -23,6 +23,8 @@ function buildRelationshipKeys(page, charIndex=0, keys=[]) {
   keys = keys.concat(page.relationships?.map(r => {
     const name = r.split('|')[0]
     if (!keys.find(k => k.name === name)) {
+      // 65 is unicode for A
+      // 97 is unicode for a
       const key = String.fromCharCode(65 + charIndex)
       charIndex++
 
@@ -61,52 +63,61 @@ function getKey(name, keys) {
   return keys.find(k => k.name === name).key
 }
 
-function buildRelationshipArray(keys, relationships=[]) {
+function buildRelationshipArray(page, keys, relationships=[]) {
   const initialLength = relationships.length
-  console.log("START", page, relationships)
 
-  // 65 is unicode for A
-  // 97 is unicode for a
-  relationships.concat(page.relationships?.map((r) => {
+  relationships = relationships.concat(page.relationships?.map((r) => {
     const name = r.split('|')[0],
     type = r.split('|')[1]
     
     if (!relationships.find(r => r.from === page.file.name && r.to === name)) {
-      const char = String.fromCharCode(65 + charIndex)
-      charIndex++
-      console.log({
-        from: page.file.name,
-        to: name,
-        type,
-        key: char
-      })
-      
       return {
         from: page.file.name,
         to: name,
-        type,
-        key: char
+        string: `${getKey(page.file.name, keys)} ${relationshipMapping[type]} ${getKey(name, keys)}
+`
       }
     } else {
       return undefined
     }
-  }))
+  }).filter( Boolean ))
 
-  if (initialRelationshipLength !== relationships.length) {
-    return relationships.flatMap(r => buildRelationshipArray(dv.page(r.to), charIndex, relationships))
+  if (initialLength !== relationships.length) {
+    return relationships.flatMap(r => {
+      const relationshipPage = dv.page(r.to)
+
+      if (relationshipPage) {
+        return buildRelationshipArray(relationshipPage, keys, relationships)
+      } else {
+        return []
+      }
+    })
   } else {
     return relationships
   }
 }
 
 const keys = buildRelationshipKeys(input.current)[0]
-// const relationshipMap = buildRelationshipArray(keys)
+const relationshipString = buildRelationshipArray(input.current, keys).map(i => i.string).join('')
+
+console.log(`${backticks}mermaid
+graph LR
+${keys.map(k => `${k.key}[${k.name}]
+`).join('')}
+
+${relationshipString}
+
+class ${keys.map(r => r.key).join(',')} internal-link;
+${backticks}
+`)
 
 dv.paragraph(
   `${backticks}mermaid
 graph LR
 ${keys.map(k => `${k.key}[${k.name}]
 `).join('')}
+
+${relationshipString}
 
 class ${keys.map(r => r.key).join(',')} internal-link;
 ${backticks}
