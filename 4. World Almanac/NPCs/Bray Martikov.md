@@ -7,6 +7,7 @@ relationships:
   - Urwin Martikov|father
   - Brom Martikov|brother
   - Strahd Von Zarovich|brother
+  - blah|brother
 tags: 
 aliases: 
 pronounced: 

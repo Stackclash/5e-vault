@@ -10,8 +10,6 @@ const relationshipMapping = {
     sister: '--Sister --o'
 }
 
-let relationships = input.current.relationships
-let relationshipGraph = ''
 const backticks = "```"
 
 function buildRelationshipKeys(page, charIndex=0, keys=[]) {
@@ -42,16 +40,25 @@ function buildRelationshipKeys(page, charIndex=0, keys=[]) {
     keys = keys.concat(page.relationships.filter(r => r.name !== page.file.name).flatMap(r => {
       const relationshipPage = dv.page(r.split('|')[0])
 
-      const results = buildRelationshipKeys(relationshipPage, charIndex, keys)
-      charIndex = results[1]
-
-      return results[0].filter(r => !keys.map(k => k.name).includes(r.name))
+      if (relationshipPage) {
+        const results = buildRelationshipKeys(relationshipPage, charIndex, keys)
+        charIndex = results[1]
+  
+        return results[0].filter(r => !keys.map(k => k.name).includes(r.name))
+      } else {
+        console.log(`ERROR: Could not find page for: ${r.split('|')[0]}`)
+        return []
+      }
     }))
 
     return [keys, charIndex]
   } else {
     return [keys, charIndex]
   }
+}
+
+function getKey(name, keys) {
+  return keys.find()
 }
 
 function buildRelationshipArray(keys, relationships=[]) {
@@ -93,7 +100,6 @@ function buildRelationshipArray(keys, relationships=[]) {
 }
 
 const keys = buildRelationshipKeys(input.current)[0]
-console.log(keys)
 // const relationshipMap = buildRelationshipArray(keys)
 
 dv.paragraph(
