@@ -7,7 +7,7 @@ relationships:
   - Danika Dorakova|wife
   - Bray Martikov|son
   - Brom Martikov|son
-  - Davin Martikov|father,fighting
+  - Davian Martikov|father,fighting
 tags: 
 aliases: 
 pronounced: 
