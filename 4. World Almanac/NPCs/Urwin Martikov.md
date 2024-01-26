@@ -74,6 +74,11 @@ TBD
 >> `INPUT[textArea:goals]`
 
 ## Relationships
+```meta-bind-button
+style: primary
+label: Add Relationship
+action:
+```
 ```dataviewjs
 await dv.view("npcRelationships", { current: dv.current() })
 ```

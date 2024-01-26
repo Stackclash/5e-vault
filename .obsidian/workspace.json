@@ -210,6 +210,7 @@
   },
   "active": "0941aa36ae6b7c26",
   "lastOpenFiles": [
+    "z_Scripts/Templater/addRelationship.js",
     "4. World Almanac/NPCs/Davian Martikov.md",
     "4. World Almanac/NPCs/Urwin Martikov.md",
     "Untitled.md",
@@ -255,7 +256,6 @@
     "compendium/bestiary/elemental/smoke-mephit.md",
     "compendium/bestiary/elemental/invisible-stalker.md",
     "compendium/bestiary/elemental/gargoyle.md",
-    "compendium/bestiary/elemental/elemental.md",
     "Untitled.canvas"
   ]
 }
