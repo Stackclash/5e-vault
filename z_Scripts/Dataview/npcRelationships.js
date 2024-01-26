@@ -15,35 +15,27 @@ let relationshipGraph = `A[${input.current.file.name}]
 `
 const backticks = "```"
 
-function buildRelationshipArray(page, charIndex=0, relationships=[]) {
+function buildRelationshipKeys(page, charIndex=0, keys=[]) {
+  const initialLength = keys.length
+
+  return keys.concat(page.relationships?.map(r => {
+    const name = r.split('|')[0]
+    if (!keys.find(k => k.name === name)) {
+      const key = String.fromCharCode(65 + charIndex)
+      charIndex++
+
+      return {
+        name,
+        key
+      }
+    }
+  }))
+}
+
+function buildRelationshipArray(page, relationships=[]) {
   const initialRelationshipLength = relationships.length
   console.log("START", page, relationships)
 
-
-  console.log(page.relationships?.map((r) => {
-    const name = r.split('|')[0],
-    type = r.split('|')[1]
-    
-    if (!relationships.find(r => r.from === page.file.name && r.to === name)) {
-      const char = String.fromCharCode(65 + charIndex)
-      charIndex++
-      console.log({
-        from: page.file.name,
-        to: name,
-        type,
-        key: char
-      })
-      
-      return {
-        from: page.file.name,
-        to: name,
-        type,
-        key: char
-      }
-    } else {
-      return undefined
-    }
-  }))
   // 65 is unicode for A
   // 97 is unicode for a
   relationships.concat(page.relationships?.map((r) => {
@@ -78,7 +70,7 @@ function buildRelationshipArray(page, charIndex=0, relationships=[]) {
   }
 }
 
-console.log("DONE", buildRelationshipArray(input.current))
+console.log("DONE", buildRelationshipKeys(input.current))
 
 
 // relationships.forEach(r => {
