@@ -88,7 +88,7 @@ function buildRelationshipArray(page, keys, relationships=[]) {
       const relationshipPage = dv.page(r.split('|')[0])
 
       if (relationshipPage) {
-        return buildRelationshipArray(relationshipPage, keys, relationships)
+        relationships = relationships.concat(buildRelationshipArray(relationshipPage, keys, relationships))
       } else {
         return []
       }
