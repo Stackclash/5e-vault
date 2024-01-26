@@ -65,7 +65,7 @@ function getKey(name, keys) {
 
 function buildRelationshipArray(page, keys, relationships=[]) {
   const initialLength = relationships.length
-  console.log('START', page.file.name, relationships)
+  console.log('START', page.file.name, relationships, page.relationships)
 
   relationships = relationships.concat(page.relationships?.map((r) => {
     const name = r.split('|')[0],
@@ -84,8 +84,8 @@ function buildRelationshipArray(page, keys, relationships=[]) {
   }).filter( Boolean ))
 
   if (initialLength !== relationships.length) {
-    return relationships.flatMap(r => {
-      const relationshipPage = dv.page(r.to)
+    page.relationships.forEach(r => {
+      const relationshipPage = dv.page(r.split('|')[0])
 
       if (relationshipPage) {
         return buildRelationshipArray(relationshipPage, keys, relationships)
@@ -93,6 +93,8 @@ function buildRelationshipArray(page, keys, relationships=[]) {
         return []
       }
     })
+
+    return relationships
   } else {
     return relationships
   }
