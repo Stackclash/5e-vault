@@ -45,6 +45,7 @@ function buildRelationshipKeys(page, charIndex=0, keys=[]) {
 
       const results = buildRelationshipKeys(relationshipPage, charIndex, keys)
       charIndex = results[1]
+      console.log(relationshipPage.file.name, charIndex, results[0].filter(r => !keys.map(k => k.name).includes(r.name)), keys)
 
       return results[0].filter(r => !keys.map(k => k.name).includes(r.name))
     })
@@ -101,21 +102,23 @@ console.log("DONE", buildRelationshipKeys(input.current))
 //   }
 // })
 
+const keys = buildRelationshipKeys(input.current)[0]
+
 console.log(`${backticks}mermaid
 graph LR
-${buildRelationshipKeys(input.current).map(k => `${k.key}[k.name]
+${keys.map(k => `${k.key}[k.name]
 `)}
 
-class A,${relationships.map(r => r.key).join(',')} internal-link;
+class A,${keys.map(r => r.key).join(',')} internal-link;
 ${backticks}
 `)
 
 dv.paragraph(
   `${backticks}mermaid
 graph LR
-${buildRelationshipKeys(input.current).map(k => `${k.key}[k.name]
-`)}
+${keys.map(k => `${k.key}[k.name]
+`).join()}
 
-class A,${relationships.map(r => r.key).join(',')} internal-link;
+class A,${keys.map(r => r.key).join(',')} internal-link;
 ${backticks}
 `)
