@@ -1,1 +1,5 @@
-console.log('here')
+function addRelationship() {
+    console.log('here')
+}
+
+module.exports = addRelationship

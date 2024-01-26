@@ -185,12 +185,13 @@
   },
   "active": "a644f8985ac04b16",
   "lastOpenFiles": [
+    "z_Scripts/Templater/addRelationship.js",
+    "z_Scripts/Templater/ad3dRelationship.js",
     "z_Templates/World Building/Add Relationship.md",
     "4. World Almanac/NPCs/Bray Martikov.md",
     "Untitled.md",
     "4. World Almanac/NPCs/Davian Martikov.md",
     "4. World Almanac/NPCs/Urwin Martikov.md",
-    "z_Scripts/Templater/addRelationship.js",
     "4. World Almanac/NPCs/Bluto Krogarov.md",
     "4. World Almanac/NPCs/Arabelle.md",
     "4. World Almanac/NPCs/Anastrasya Karelova.md",
@@ -230,7 +231,6 @@
     "compendium/bestiary/celestial/celestial.md",
     "compendium/bestiary/elemental/smoke-mephit.md",
     "compendium/bestiary/elemental/invisible-stalker.md",
-    "compendium/bestiary/elemental/gargoyle.md",
     "Untitled.canvas"
   ]
 }
