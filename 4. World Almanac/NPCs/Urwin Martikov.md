@@ -3,10 +3,7 @@ obsidianUIMode: preview
 statblock: inline
 location: 
 condition: healthy
-relationships:
-  - Bray Martikov|son
-  - Brom Martikov|son
-  - Danika Dorakova|wife
+relationships: []
 tags: 
 aliases: 
 pronounced: 

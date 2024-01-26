@@ -1,13 +1,13 @@
 // recursive through relationships?
 const relationshipMapping = {
-    son: '--Son -->',
-    daughter: '--Daughter -->',
-    father: '--Father -->',
-    mother: '--Mother -->',
-    wife: '--Wife ---',
-    husband: '--Husband ---',
-    brother: '--Brother --o',
-    sister: '--Sister --o'
+    son: { string: '--Son -->', style: 'stroke:#00f'},
+    daughter: { string: '--Daughter -->', style: 'stroke:#00f'},
+    father: { string: '--Father -->', style: 'stroke:#00f'},
+    mother: { string: '--Mother -->', style: 'stroke:#00f'},
+    wife: { string: '--Wife ---', style: 'stroke:#00f'},
+    husband: { string: '--Husband ---', style: 'stroke:#00f'},
+    brother: { string: '--Brother ---', style: 'stroke:#00f'},
+    sister: { string: '--Sister ---', style: 'stroke:#00f'}
 }
 
 const backticks = "```"
