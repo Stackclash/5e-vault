@@ -3,6 +3,7 @@ obsidianUIMode: preview
 statblock: inline
 location: 
 condition: healthy
+image:
 relationships: []
 tags: 
 aliases: []
@@ -25,8 +26,10 @@ dislikes:
 
 > [!infobox]
 > # `=this.file.name`
-> **Pronounced:**  "`INPUT[text:pronounced]`"
-> ![[PlaceholderImage.png|cover hm-sm]] 
+> **Pronounced:**  `INPUT[text:pronounced]`
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```
 > ###### Bio
 >  |
 >  ---|---|
