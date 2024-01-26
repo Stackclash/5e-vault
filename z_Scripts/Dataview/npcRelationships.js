@@ -54,8 +54,8 @@ function buildRelationshipKeys(page, charIndex=0, keys=[]) {
   }
 }
 
-function buildRelationshipArray(page, relationships=[]) {
-  const initialRelationshipLength = relationships.length
+function buildRelationshipArray(keys, relationships=[]) {
+  const initialLength = relationships.length
   console.log("START", page, relationships)
 
   // 65 is unicode for A
@@ -92,26 +92,9 @@ function buildRelationshipArray(page, relationships=[]) {
   }
 }
 
-console.log("DONE", buildRelationshipKeys(input.current)[0])
-
-
-// relationships.forEach(r => {
-//   if (relationshipMapping[r.type]) {
-//     relationshipGraph += `A ${relationshipMapping[r.type]} ${r.key}[${r.name}]
-// `
-//   }
-// })
-
 const keys = buildRelationshipKeys(input.current)[0]
-
-console.log(`${backticks}mermaid
-graph LR
-${keys.map(k => `${k.key}[${k.name}]
-`).join('')}
-
-class ${keys.map(r => r.key).join(',')} internal-link;
-${backticks}
-`)
+console.log(keys)
+// const relationshipMap = buildRelationshipArray(keys)
 
 dv.paragraph(
   `${backticks}mermaid

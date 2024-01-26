@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "4. World Almanac/NPCs/Urwin Martikov.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/NPCs/Bray Martikov.md",
+                "file": "4. World Almanac/NPCs/Urwin Martikov.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/NPCs/Bray Martikov.md",
+                "file": "4. World Almanac/NPCs/Urwin Martikov.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/NPCs/Bray Martikov.md"
+                "file": "4. World Almanac/NPCs/Urwin Martikov.md"
               }
             }
           },
@@ -196,10 +195,10 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "a644f8985ac04b16",
+  "active": "c6f577439576a9d5",
   "lastOpenFiles": [
-    "4. World Almanac/NPCs/Urwin Martikov.md",
     "4. World Almanac/NPCs/Bray Martikov.md",
+    "4. World Almanac/NPCs/Urwin Martikov.md",
     "4. World Almanac/NPCs/Bluto Krogarov.md",
     "4. World Almanac/NPCs/Arabelle.md",
     "4. World Almanac/NPCs/Anastrasya Karelova.md",

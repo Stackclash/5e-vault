@@ -6,6 +6,7 @@ condition: healthy
 relationships:
   - Urwin Martikov|father
   - Brom Martikov|brother
+  - Strahd Von Zarovich|brother
 tags: 
 aliases: 
 pronounced: 
