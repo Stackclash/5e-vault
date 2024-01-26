@@ -106,19 +106,19 @@ const keys = buildRelationshipKeys(input.current)[0]
 
 console.log(`${backticks}mermaid
 graph LR
-${keys.map(k => `${k.key}[k.name]
-`)}
+${keys.map(k => `${k.key}[${k.name}]
+`).join('')}
 
-class A,${keys.map(r => r.key).join(',')} internal-link;
+class ${keys.map(r => r.key).join(',')} internal-link;
 ${backticks}
 `)
 
 dv.paragraph(
   `${backticks}mermaid
 graph LR
-${keys.map(k => `${k.key}[k.name]
-`).join()}
+${keys.map(k => `${k.key}[${k.name}]
+`).join('')}
 
-class A,${keys.map(r => r.key).join(',')} internal-link;
+class ${keys.map(r => r.key).join(',')} internal-link;
 ${backticks}
 `)
