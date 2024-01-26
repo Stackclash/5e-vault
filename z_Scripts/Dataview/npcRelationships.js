@@ -65,6 +65,7 @@ function getKey(name, keys) {
 
 function buildRelationshipArray(page, keys, relationships=[]) {
   const initialLength = relationships.length
+  console.log('START', page.file.name, relationships)
 
   relationships = relationships.concat(page.relationships?.map((r) => {
     const name = r.split('|')[0],
