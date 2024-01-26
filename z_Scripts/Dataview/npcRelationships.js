@@ -18,8 +18,10 @@ const backticks = "```"
 relationships = relationships.map((r, index) => ({name: r.split('|')[0], type: r.split('|')[1], key: String.fromCharCode(65 + index+1)}))
 
 relationships.forEach(r => {
+  if (relationshipMapping[r.type]) {
     relationshipGraph += `A ${relationshipMapping[r.type]} ${r.key}[${r.name}]
 `
+  }
 })
 
 dv.paragraph(
