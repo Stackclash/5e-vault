@@ -15,9 +15,15 @@ let relationshipGraph = `A[${input.current.file.name}]
 `
 const backticks = "```"
 
-// 65 is unicode for A
-// 97 is unicode for a
-relationships = relationships.map((r, index) => ({name: r.split('|')[0], type: r.split('|')[1], key: String.fromCharCode(65 + index+1)}))
+function buildRelationshipArray(page, charIndex=0) {
+  const relationships = []
+
+  // 65 is unicode for A
+  // 97 is unicode for a
+  relationships = page.relationships?.map((r, i) => ({name: r.split('|')[0], type: r.split('|')[1], key: String.fromCharCode(65 + i + charIndex)}))
+
+}
+
 
 relationships.forEach(r => {
   if (relationshipMapping[r.type]) {
