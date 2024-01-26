@@ -61319,73 +61319,6 @@
       }
     ],
     [
-      "Bray Martikov (CoS)",
-      {
-        "name": "Bray Martikov (CoS)",
-        "size": "Small",
-        "type": "humanoid",
-        "subtype": "human, shapechanger",
-        "alignment": "Lawful Good",
-        "ac": 12,
-        "hp": 7,
-        "hit_dice": "2d6",
-        "stats": [
-          10,
-          15,
-          11,
-          13,
-          15,
-          14
-        ],
-        "speed": "30 ft. (fly 50 ft. in raven and hybrid forms)",
-        "skillsaves": {
-          "Insight": 4,
-          "Perception": 6
-        },
-        "senses": "passive Perception 16",
-        "languages": "Common (can't speak in raven form)",
-        "cr": "2",
-        "traits": [
-          {
-            "desc": "Bray can use its action to polymorph into a raven-humanoid hybrid or into a raven, or back into its human form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its human form if it dies.",
-            "name": "Shapechanger"
-          },
-          {
-            "desc": "Bray can mimic simple sounds it has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.",
-            "name": "Mimicry"
-          },
-          {
-            "desc": "Bray regains 10 hit points at the start of its turn. If Bray takes damage from a silvered weapon or a spell, this trait doesn't function at the start of Bray's next turn. Bray dies only if it starts its turn with 0 hit points and doesn't regenerate.",
-            "name": "Regeneration"
-          }
-        ],
-        "actions": [
-          {
-            "desc": "Bray makes two weapon attacks, one of which can be with its hand crossbow.",
-            "name": "Multiattack (Human or Hybrid Form Only)"
-          },
-          {
-            "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target. Hit: 1 piercing damage in raven form, or dice: 1d4 + 2|avg (1d4 + 2) piercing damage in hybrid form. If the target is humanoid, it must succeed on a DC 10 Constitution saving throw or be cursed with wereraven lycanthropy.",
-            "name": "Beak (Raven or Hybrid Form Only)"
-          },
-          {
-            "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage.",
-            "name": "Shortsword (Human or Hybrid Form Only)"
-          },
-          {
-            "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 30/120 ft., one target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage.",
-            "name": "Hand Crossbow (Human or Hybrid Form Only)"
-          }
-        ],
-        "source": [
-          "CoS"
-        ],
-        "image": "4. World Almanac/NPCs/token/bray-martikov.png",
-        "note": "4. World Almanac/NPCs/Bray Martikov.md",
-        "mtime": 1706219848693
-      }
-    ],
-    [
       "Danika Dorakova (CoS)",
       {
         "name": "Danika Dorakova (CoS)",
@@ -62992,73 +62925,6 @@
         "image": "4. World Almanac/NPCs/token/stella-wachter.png",
         "note": "4. World Almanac/NPCs/Stella Wachter.md",
         "mtime": 1706219848688
-      }
-    ],
-    [
-      "Urwin Martikov (CoS)",
-      {
-        "name": "Urwin Martikov (CoS)",
-        "size": "Medium",
-        "type": "humanoid",
-        "subtype": "human, shapechanger",
-        "alignment": "Lawful Good",
-        "ac": 12,
-        "hp": 31,
-        "hit_dice": "7d8",
-        "stats": [
-          10,
-          15,
-          11,
-          13,
-          15,
-          14
-        ],
-        "speed": "30 ft. (fly 50 ft. in raven and hybrid forms)",
-        "skillsaves": {
-          "Insight": 4,
-          "Perception": 6
-        },
-        "senses": "passive Perception 16",
-        "languages": "Common (can't speak in raven form)",
-        "cr": "2",
-        "traits": [
-          {
-            "desc": "Urwin can use its action to polymorph into a raven-humanoid hybrid or into a raven, or back into its human form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its human form if it dies.",
-            "name": "Shapechanger"
-          },
-          {
-            "desc": "Urwin can mimic simple sounds it has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.",
-            "name": "Mimicry"
-          },
-          {
-            "desc": "Urwin regains 10 hit points at the start of its turn. If Urwin takes damage from a silvered weapon or a spell, this trait doesn't function at the start of Urwin's next turn. Urwin dies only if it starts its turn with 0 hit points and doesn't regenerate.",
-            "name": "Regeneration"
-          }
-        ],
-        "actions": [
-          {
-            "desc": "Urwin makes two weapon attacks, one of which can be with its hand crossbow.",
-            "name": "Multiattack (Human or Hybrid Form Only)"
-          },
-          {
-            "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target. Hit: 1 piercing damage in raven form, or dice: 1d4 + 2|avg (1d4 + 2) piercing damage in hybrid form. If the target is humanoid, it must succeed on a DC 10 Constitution saving throw or be cursed with wereraven lycanthropy.",
-            "name": "Beak (Raven or Hybrid Form Only)"
-          },
-          {
-            "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage.",
-            "name": "Shortsword (Human or Hybrid Form Only)"
-          },
-          {
-            "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 30/120 ft., one target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage.",
-            "name": "Hand Crossbow (Human or Hybrid Form Only)"
-          }
-        ],
-        "source": [
-          "CoS"
-        ],
-        "image": "4. World Almanac/NPCs/token/urwin-martikov.png",
-        "note": "4. World Almanac/NPCs/Urwin Martikov.md",
-        "mtime": 1706220217215
       }
     ],
     [
@@ -64720,6 +64586,429 @@
         "image": "4. World Almanac/NPCs/token/savid.png",
         "note": "4. World Almanac/NPCs/Savid.md",
         "mtime": 1706219848688
+      }
+    ],
+    [
+      "Henrik van der Voort (CoS)",
+      {
+        "name": "Henrik van der Voort (CoS)",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "human",
+        "alignment": "Lawful Evil",
+        "ac": 10,
+        "hp": 4,
+        "hit_dice": "1d8",
+        "stats": [
+          10,
+          10,
+          10,
+          10,
+          10,
+          10
+        ],
+        "speed": "30 ft.",
+        "senses": "passive Perception 10",
+        "languages": "any one language (usually Common)",
+        "cr": "0",
+        "actions": [
+          {
+            "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target. Hit: dice: 1d4|avg (1d4) bludgeoning damage.",
+            "name": "Club"
+          }
+        ],
+        "source": [
+          "CoS"
+        ],
+        "image": "4. World Almanac/NPCs/token/henrik-van-der-voort.png",
+        "note": "4. World Almanac/NPCs/Henrik Van Der Voort.md",
+        "mtime": 1706219848691
+      }
+    ],
+    [
+      "Ireena Kolyana (CoS)",
+      {
+        "name": "Ireena Kolyana (CoS)",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "human",
+        "alignment": "Lawful Good",
+        "ac": 15,
+        "hp": 14,
+        "hit_dice": "2d8",
+        "stats": [
+          11,
+          12,
+          11,
+          12,
+          14,
+          16
+        ],
+        "speed": "30 ft.",
+        "skillsaves": {
+          "Deception": 5,
+          "Insight": 4,
+          "Persuasion": 5
+        },
+        "senses": "passive Perception 12",
+        "languages": "any two languages",
+        "cr": "1/8",
+        "actions": [
+          {
+            "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target. Hit: dice: 1d8 + 1|avg (1d8 + 1) piercing damage.",
+            "name": "Rapier"
+          }
+        ],
+        "reactions": [
+          {
+            "desc": "Ireena adds 2 to its AC against one melee attack that would hit it. To do so, Ireena must see the attacker and be wielding a melee weapon.",
+            "name": "Parry"
+          }
+        ],
+        "source": [
+          "CoS"
+        ],
+        "image": "4. World Almanac/NPCs/token/ireena-kolyana.png",
+        "note": "4. World Almanac/NPCs/Ireena Kolyana.md",
+        "mtime": 1706219848691
+      }
+    ],
+    [
+      "Ismark Kolyanovich (CoS)",
+      {
+        "name": "Ismark Kolyanovich (CoS)",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "human",
+        "alignment": "Lawful Good",
+        "ac": 17,
+        "hp": 58,
+        "hit_dice": "9d8 + 18",
+        "stats": [
+          16,
+          13,
+          14,
+          10,
+          11,
+          10
+        ],
+        "speed": "30 ft.",
+        "skillsaves": {
+          "Athletics": 5,
+          "Perception": 2
+        },
+        "senses": "passive Perception 12",
+        "languages": "any one language (usually Common)",
+        "cr": "3",
+        "actions": [
+          {
+            "desc": "Ismark makes two longsword attacks. If it has a shortsword drawn, it can also make a shortsword attack.",
+            "name": "Multiattack"
+          },
+          {
+            "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target. Hit: dice: 1d8 + 3|avg (1d8 + 3) slashing damage, or dice: 1d10 + 3|avg (1d10 + 3) slashing damage if used with two hands.",
+            "name": "Longsword"
+          },
+          {
+            "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target. Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage.",
+            "name": "Shortsword"
+          },
+          {
+            "desc": "Ranged Weapon Attack: dice: d20+3 (+3 to hit), range 100/400 ft., one target. Hit: dice: 1d10 + 1|avg (1d10 + 1) piercing damage.",
+            "name": "Heavy Crossbow"
+          }
+        ],
+        "source": [
+          "CoS"
+        ],
+        "image": "4. World Almanac/NPCs/token/ismark-kolyanovich.png",
+        "note": "4. World Almanac/NPCs/Ismark Kolyanovich.md",
+        "mtime": 1706219848691
+      }
+    ],
+    [
+      "Izek Strazni (CoS)",
+      {
+        "name": "Izek Strazni (CoS)",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "human",
+        "alignment": "Neutral Evil",
+        "ac": 14,
+        "hp": 112,
+        "hit_dice": "15d8 + 45",
+        "stats": [
+          18,
+          15,
+          16,
+          10,
+          9,
+          15
+        ],
+        "speed": "30 ft.",
+        "skillsaves": {
+          "Intimidation": 8,
+          "Perception": 2
+        },
+        "senses": "passive Perception 12",
+        "languages": "Common",
+        "cr": "5",
+        "traits": [
+          {
+            "desc": "A melee weapon deals one extra die of its damage when Izek hits with it (included in the attack).",
+            "name": "Brute"
+          }
+        ],
+        "actions": [
+          {
+            "desc": "Izek makes two attacks with his battleaxe.",
+            "name": "Multiattack"
+          },
+          {
+            "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target. Hit: dice: 2d8 + 4|avg (2d8 + 4) slashing damage, or dice: 2d10 + 4|avg (2d10 + 4) when used with two hands.",
+            "name": "Battleaxe"
+          },
+          {
+            "desc": "Ranged Spell Attack: dice: d20+5 (+5 to hit), range 60 ft., one target. Hit: dice: 3d6|avg (3d6) fire damage. If the target is a flammable object that isn't being worn or carried, it catches fire.",
+            "name": "Hurl Flame"
+          }
+        ],
+        "source": [
+          "CoS"
+        ],
+        "image": "4. World Almanac/NPCs/token/izek-strazni.png",
+        "note": "4. World Almanac/NPCs/Izek Strazni.md",
+        "mtime": 1706219848691
+      }
+    ],
+    [
+      "Gertruda (CoS)",
+      {
+        "name": "Gertruda (CoS)",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "human",
+        "alignment": "Neutral Good",
+        "ac": 10,
+        "hp": 4,
+        "hit_dice": "1d8",
+        "stats": [
+          10,
+          10,
+          10,
+          10,
+          10,
+          10
+        ],
+        "speed": "30 ft.",
+        "senses": "passive Perception 10",
+        "languages": "any one language (usually Common)",
+        "cr": "0",
+        "actions": [
+          {
+            "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target. Hit: dice: 1d4|avg (1d4) bludgeoning damage.",
+            "name": "Club"
+          }
+        ],
+        "source": [
+          "CoS"
+        ],
+        "image": "4. World Almanac/NPCs/token/gertruda.png",
+        "note": "4. World Almanac/NPCs/Gertruda.md",
+        "mtime": 1706219848692
+      }
+    ],
+    [
+      "Helga Ruvak (CoS)",
+      {
+        "name": "Helga Ruvak (CoS)",
+        "size": "Medium",
+        "type": "undead",
+        "alignment": "Neutral Evil",
+        "ac": 15,
+        "hp": 82,
+        "hit_dice": "11d8 + 33",
+        "stats": [
+          16,
+          16,
+          16,
+          11,
+          10,
+          12
+        ],
+        "speed": "30 ft.",
+        "saves": {
+          "Dexterity": 6,
+          "Wisdom": 3
+        },
+        "skillsaves": {
+          "Stealth": 6,
+          "Perception": 3
+        },
+        "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks",
+        "senses": "darkvision 60 ft., passive Perception 13",
+        "languages": "the languages it knew in life",
+        "cr": "5",
+        "traits": [
+          {
+            "desc": "Helga regains 10 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If Helga takes radiant damage or damage from holy water, this trait doesn't function at the start of Helga's next turn.",
+            "name": "Regeneration"
+          },
+          {
+            "desc": "Helga can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+            "name": "Spider Climb"
+          },
+          {
+            "desc": "Helga has the following flaws:\n\nForbiddance. Helga can't enter a residence without an invitation from one of the occupants.\n\nHarmed by Running Water. Helga takes 20 acid damage when it ends its turn in running water.\n\nStake to the Heart. Helga is destroyed if a piercing weapon made of wood is driven into its heart while it is incapacitated in its resting place.\n\nSunlight Hypersensitivity. Helga takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.",
+            "name": "Vampire Weaknesses"
+          }
+        ],
+        "actions": [
+          {
+            "desc": "Helga makes two attacks, only one of which can be a bite attack.",
+            "name": "Multiattack"
+          },
+          {
+            "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one willing creature, or a creature that is grappled by Helga, incapacitated, or restrained. Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage plus dice: 2d6|avg (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Helga regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.",
+            "name": "Bite"
+          },
+          {
+            "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one creature. Hit: dice: 2d4 + 3|avg (2d4 + 3) slashing damage. Instead of dealing damage, Helga can grapple the target (escape DC 13).",
+            "name": "Claws"
+          }
+        ],
+        "source": [
+          "CoS"
+        ],
+        "image": "4. World Almanac/NPCs/token/helga-ruvak.png",
+        "note": "4. World Almanac/NPCs/Helga Ruvak.md",
+        "mtime": 1706219848692
+      }
+    ],
+    [
+      "Kasimir Velikov (CoS)",
+      {
+        "name": "Kasimir Velikov (CoS)",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "Dusk elf",
+        "alignment": "Neutral",
+        "ac": 12,
+        "hp": 40,
+        "hit_dice": "9d8",
+        "stats": [
+          9,
+          14,
+          11,
+          17,
+          12,
+          11
+        ],
+        "speed": "30 ft.",
+        "saves": {
+          "Wisdom": 4,
+          "Intelligence": 6
+        },
+        "skillsaves": {
+          "History": 6,
+          "Arcana": 6
+        },
+        "senses": "darkvision 60 ft., passive Perception 11",
+        "languages": "any four languages",
+        "cr": "6",
+        "traits": [
+          {
+            "desc": "Kasimir is a 9th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 14, dice: d20+6 (+6 to hit) with spell attacks). Kasimir has the following wizard spells prepared:\n\nCantrips (at will): fire bolt, light, mage hand, prestidigitation\n\n1st level (4 slots): detect magic, mage armor, magic missile, shield\n\n2nd level (3 slots): misty step, suggestion\n\n3rd level (3 slots): counterspell, fireball, fly\n\n4th level (3 slots): greater invisibility, ice storm\n\n5th level (1 slots): cone of cold",
+            "name": "spells"
+          },
+          {
+            "desc": "Kasimir has advantage on saving throws against being charmed, and magic can't put the him to sleep.",
+            "name": "Fey Ancestry"
+          },
+          {
+            "desc": "Kasimir wears a ring of warmth and carries a spellbook containing all the spells he has prepared plus the following spells: arcane lock, comprehend languages, hold person, identify, locate object, nondetection, polymorph, protection from evil and good, and wall of stone.",
+            "name": "Special Equipment"
+          }
+        ],
+        "actions": [
+          {
+            "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft. or range 20/60 ft., one target. Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage.",
+            "name": "Dagger"
+          }
+        ],
+        "source": [
+          "CoS"
+        ],
+        "image": "4. World Almanac/NPCs/token/kasimir-velikov.png",
+        "note": "4. World Almanac/NPCs/Kasimir Velikov.md",
+        "mtime": 1706219848691
+      }
+    ],
+    [
+      "Urwin Martikov (CoS)",
+      {
+        "name": "Urwin Martikov (CoS)",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "human, shapechanger",
+        "alignment": "Lawful Good",
+        "ac": 12,
+        "hp": 31,
+        "hit_dice": "7d8",
+        "stats": [
+          10,
+          15,
+          11,
+          13,
+          15,
+          14
+        ],
+        "speed": "30 ft. (fly 50 ft. in raven and hybrid forms)",
+        "skillsaves": {
+          "Insight": 4,
+          "Perception": 6
+        },
+        "senses": "passive Perception 16",
+        "languages": "Common (can't speak in raven form)",
+        "cr": "2",
+        "traits": [
+          {
+            "desc": "Urwin can use its action to polymorph into a raven-humanoid hybrid or into a raven, or back into its human form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its human form if it dies.",
+            "name": "Shapechanger"
+          },
+          {
+            "desc": "Urwin can mimic simple sounds it has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.",
+            "name": "Mimicry"
+          },
+          {
+            "desc": "Urwin regains 10 hit points at the start of its turn. If Urwin takes damage from a silvered weapon or a spell, this trait doesn't function at the start of Urwin's next turn. Urwin dies only if it starts its turn with 0 hit points and doesn't regenerate.",
+            "name": "Regeneration"
+          }
+        ],
+        "actions": [
+          {
+            "desc": "Urwin makes two weapon attacks, one of which can be with its hand crossbow.",
+            "name": "Multiattack (Human or Hybrid Form Only)"
+          },
+          {
+            "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target. Hit: 1 piercing damage in raven form, or dice: 1d4 + 2|avg (1d4 + 2) piercing damage in hybrid form. If the target is humanoid, it must succeed on a DC 10 Constitution saving throw or be cursed with wereraven lycanthropy.",
+            "name": "Beak (Raven or Hybrid Form Only)"
+          },
+          {
+            "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage.",
+            "name": "Shortsword (Human or Hybrid Form Only)"
+          },
+          {
+            "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 30/120 ft., one target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage.",
+            "name": "Hand Crossbow (Human or Hybrid Form Only)"
+          }
+        ],
+        "source": [
+          "CoS"
+        ],
+        "image": "4. World Almanac/NPCs/token/urwin-martikov.png",
+        "note": "4. World Almanac/NPCs/Urwin Martikov.md",
+        "mtime": 1706273564349
       }
     ]
   ],
