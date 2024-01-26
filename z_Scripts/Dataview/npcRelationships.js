@@ -11,8 +11,7 @@ const relationshipMapping = {
 }
 
 let relationships = input.current.relationships
-let relationshipGraph = `A[${input.current.file.name}]
-`
+let relationshipGraph = ''
 const backticks = "```"
 
 function buildRelationshipKeys(page, charIndex=0, keys=[]) {
@@ -40,15 +39,15 @@ function buildRelationshipKeys(page, charIndex=0, keys=[]) {
 
   if (initialLength !== keys.length) {
 
-    return page.relationships.filter(r => r.name !== page.file.name).flatMap(r => {
+    return keys.concat(page.relationships.filter(r => r.name !== page.file.name).flatMap(r => {
       const relationshipPage = dv.page(r.split('|')[0])
 
       const results = buildRelationshipKeys(relationshipPage, charIndex, keys)
       charIndex = results[1]
       console.log(relationshipPage.file.name, charIndex, results[0].filter(r => !keys.map(k => k.name).includes(r.name)), keys)
 
-      return results[0].filter(r => !keys.map(k => k.name).includes(r.name))
-    })
+      return [results[0].filter(r => !keys.map(k => k.name).includes(r.name)),charIndex]
+    }))
   } else {
     return [keys, charIndex]
   }
@@ -92,7 +91,7 @@ function buildRelationshipArray(page, relationships=[]) {
   }
 }
 
-console.log("DONE", buildRelationshipKeys(input.current))
+console.log("DONE", buildRelationshipKeys(input.current)[0])
 
 
 // relationships.forEach(r => {
