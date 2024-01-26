@@ -58,7 +58,7 @@ function buildRelationshipKeys(page, charIndex=0, keys=[]) {
 }
 
 function getKey(name, keys) {
-  return keys.find()
+  return keys.find(k => k.name === name).key
 }
 
 function buildRelationshipArray(keys, relationships=[]) {
