@@ -100,8 +100,6 @@ function buildRelationshipArray(page, keys, relationships=[]) {
 const keys = buildRelationshipKeys(input.current)[0]
 const relationshipString = buildRelationshipArray(input.current, keys).map(i => i.string).join('')
 
-console.log(app.commands.commands)
-
 dv.paragraph(
   `${backticks}mermaid
 graph LR

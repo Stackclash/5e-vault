@@ -77,9 +77,11 @@ TBD
 ```meta-bind-button
 style: primary
 label: Add Relationship
-action:
-  type: command
-  command: templater-obsidian:insert-templater
+actions:
+  - type: command
+    command: templater-obsidian:insert-templater
+  - type: input
+    str: relationship
 ```
 ```dataviewjs
 await dv.view("npcRelationships", { current: dv.current() })
