@@ -78,6 +78,8 @@ TBD
 style: primary
 label: Add Relationship
 action:
+  type: command
+  command: templater-obsidian:insert-templater
 ```
 ```dataviewjs
 await dv.view("npcRelationships", { current: dv.current() })

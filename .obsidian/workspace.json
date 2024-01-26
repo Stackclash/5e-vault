@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c6f577439576a9d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. World Almanac/NPCs/Davian Martikov.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0941aa36ae6b7c26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. World Almanac/NPCs/Urwin Martikov.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a644f8985ac04b16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/NPCs/Bray Martikov.md",
+                "file": "4. World Almanac/NPCs/Urwin Martikov.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,13 +183,13 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "0941aa36ae6b7c26",
+  "active": "a644f8985ac04b16",
   "lastOpenFiles": [
-    "z_Scripts/Templater/addRelationship.js",
+    "4. World Almanac/NPCs/Bray Martikov.md",
+    "Untitled.md",
     "4. World Almanac/NPCs/Davian Martikov.md",
     "4. World Almanac/NPCs/Urwin Martikov.md",
-    "Untitled.md",
-    "4. World Almanac/NPCs/Bray Martikov.md",
+    "z_Scripts/Templater/addRelationship.js",
     "4. World Almanac/NPCs/Bluto Krogarov.md",
     "4. World Almanac/NPCs/Arabelle.md",
     "4. World Almanac/NPCs/Anastrasya Karelova.md",
@@ -250,7 +225,6 @@
     "compendium/bestiary/dragon/young-blue-dragon.md",
     "compendium/bestiary/dragon/red-dragon-wyrmling.md",
     "compendium/bestiary/dragon/dragon.md",
-    "compendium/bestiary/dragon",
     "compendium/bestiary/celestial/deva.md",
     "compendium/bestiary/celestial/celestial.md",
     "compendium/bestiary/elemental/smoke-mephit.md",
