@@ -5,7 +5,7 @@ location:
 condition: healthy
 relationships:
   - Urwin Martikov|father
-  - Bray Martikov|brother
+  - Brom Martikov|brother
 tags: 
 aliases: 
 pronounced: 

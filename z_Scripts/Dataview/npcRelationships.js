@@ -5,7 +5,9 @@ const relationshipMapping = {
     father: '--Father -->',
     mother: '--Mother -->',
     wife: '--Wife ---',
-    husband: '--Husband ---'
+    husband: '--Husband ---',
+    brother: '--Brother --o',
+    sister: '--Sister --o'
 }
 
 let relationships = input.current.relationships
