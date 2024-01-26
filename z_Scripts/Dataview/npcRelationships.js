@@ -22,7 +22,7 @@ function buildRelationshipKeys(page, charIndex=0, keys=[]) {
 
   keys = keys.concat(page.relationships?.map(r => {
     const name = r.split('|')[0],
-    styleClass = relationshipMapping[r.split('|')[1]].styleClass
+    styleClass = relationshipMapping[r.split('|')[1].split(',')[0]].styleClass
     if (!keys.find(k => k.name === name)) {
       // 65 is unicode for A
       // 97 is unicode for a
@@ -69,13 +69,14 @@ function buildRelationshipArray(page, keys, relationships=[]) {
 
   page.relationships?.forEach((r) => {
     const name = r.split('|')[0],
-    type = r.split('|')[1]
+    type = r.split('|')[1].split(',')[0],
+    conditional = r.split('|')[1].split(',')[1]
     
     if (!relationships.find(r => (r.from === page.file.name && r.to === name) || (r.to === page.file.name && r.from === name))) {
       relationships.push({
         from: page.file.name,
         to: name,
-        string: `${getKey(page.file.name, keys)} ${relationshipMapping[type].string} ${getKey(name, keys)}
+        string: `${getKey(page.file.name, keys)} ${conditional ? '' : relationshipMapping[type].string} ${getKey(name, keys)}
 `
       })
     }
