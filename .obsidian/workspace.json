@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/NPCs/Urwin Martikov.md",
-                "mode": "source",
+                "file": "4. World Almanac/NPCs/Davian Martikov.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
+                "file": "4. World Almanac/NPCs/Urwin Martikov.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,9 +208,10 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "c6f577439576a9d5",
+  "active": "0941aa36ae6b7c26",
   "lastOpenFiles": [
     "Untitled.md",
+    "4. World Almanac/NPCs/Davian Martikov.md",
     "4. World Almanac/NPCs/Urwin Martikov.md",
     "4. World Almanac/NPCs/Bray Martikov.md",
     "4. World Almanac/NPCs/Bluto Krogarov.md",
@@ -254,7 +256,6 @@
     "compendium/bestiary/elemental/invisible-stalker.md",
     "compendium/bestiary/elemental/gargoyle.md",
     "compendium/bestiary/elemental/elemental.md",
-    "compendium/decks/tarokka-deck-cos.md",
     "Untitled.canvas"
   ]
 }

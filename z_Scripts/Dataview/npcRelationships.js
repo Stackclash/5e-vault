@@ -99,24 +99,15 @@ function buildRelationshipArray(page, keys, relationships=[]) {
 const keys = buildRelationshipKeys(input.current)[0]
 const relationshipString = buildRelationshipArray(input.current, keys).map(i => i.string).join('')
 
-// dv.paragraph(
-//   `${backticks}mermaid
-// graph LR
-// ${keys.map(k => `${k.key}[${k.name}]:::${k.class}
-// `).join('')}
-
-// ${relationshipString}
-
-// classDef family stroke:#00f
-// class ${keys.map(r => r.key).join(',')} internal-link;
-// ${backticks}
-// `)
-
-dv.paragraph(`graph LR
-${keys.map(k => `${k.key}[${k.name}]:::${k.class}
+dv.paragraph(
+  `${backticks}mermaid
+graph LR
+${keys.map(k => `${k.key}[${k.name}]${k.class ? `:::${k.class}` : ''}
 `).join('')}
 
 ${relationshipString}
 
-classDef family stroke:#00f
-class ${keys.map(r => r.key).join(',')} internal-link;`)
+classDef family stroke:#0f0
+class ${keys.map(r => r.key).join(',')} internal-link;
+${backticks}
+`)

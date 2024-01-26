@@ -5,6 +5,9 @@ location:
 condition: healthy
 relationships:
   - Danika Dorakova|wife
+  - Bray Martikov|son
+  - Brom Martikov|son
+  - Davin Martikov|father
 tags: 
 aliases: 
 pronounced: 
