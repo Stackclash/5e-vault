@@ -147,7 +147,3 @@ TBD
 
 
 ### General Notes
-
-```dataviewjs
-dv.page("Bray Martikov").relationships = ["Urwin Martikov|father"]
-```

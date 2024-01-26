@@ -64945,16 +64945,16 @@
       }
     ],
     [
-      "Urwin Martikov (CoS)",
+      "Bray Martikov (CoS)",
       {
-        "name": "Urwin Martikov (CoS)",
-        "size": "Medium",
+        "name": "Bray Martikov (CoS)",
+        "size": "Small",
         "type": "humanoid",
         "subtype": "human, shapechanger",
         "alignment": "Lawful Good",
         "ac": 12,
-        "hp": 31,
-        "hit_dice": "7d8",
+        "hp": 7,
+        "hit_dice": "2d6",
         "stats": [
           10,
           15,
@@ -64973,21 +64973,21 @@
         "cr": "2",
         "traits": [
           {
-            "desc": "Urwin can use its action to polymorph into a raven-humanoid hybrid or into a raven, or back into its human form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its human form if it dies.",
+            "desc": "Bray can use its action to polymorph into a raven-humanoid hybrid or into a raven, or back into its human form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its human form if it dies.",
             "name": "Shapechanger"
           },
           {
-            "desc": "Urwin can mimic simple sounds it has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.",
+            "desc": "Bray can mimic simple sounds it has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.",
             "name": "Mimicry"
           },
           {
-            "desc": "Urwin regains 10 hit points at the start of its turn. If Urwin takes damage from a silvered weapon or a spell, this trait doesn't function at the start of Urwin's next turn. Urwin dies only if it starts its turn with 0 hit points and doesn't regenerate.",
+            "desc": "Bray regains 10 hit points at the start of its turn. If Bray takes damage from a silvered weapon or a spell, this trait doesn't function at the start of Bray's next turn. Bray dies only if it starts its turn with 0 hit points and doesn't regenerate.",
             "name": "Regeneration"
           }
         ],
         "actions": [
           {
-            "desc": "Urwin makes two weapon attacks, one of which can be with its hand crossbow.",
+            "desc": "Bray makes two weapon attacks, one of which can be with its hand crossbow.",
             "name": "Multiattack (Human or Hybrid Form Only)"
           },
           {
@@ -65006,9 +65006,9 @@
         "source": [
           "CoS"
         ],
-        "image": "4. World Almanac/NPCs/token/urwin-martikov.png",
-        "note": "4. World Almanac/NPCs/Urwin Martikov.md",
-        "mtime": 1706273564349
+        "image": "4. World Almanac/NPCs/token/bray-martikov.png",
+        "note": "4. World Almanac/NPCs/Bray Martikov.md",
+        "mtime": 1706273582063
       }
     ]
   ],

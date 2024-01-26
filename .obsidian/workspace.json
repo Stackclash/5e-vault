@@ -26,13 +26,12 @@
               "type": "markdown",
               "state": {
                 "file": "4. World Almanac/NPCs/Bray Martikov.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/NPCs/Bray Martikov.md",
+                "file": "4. World Almanac/NPCs/Urwin Martikov.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/NPCs/Bray Martikov.md",
+                "file": "4. World Almanac/NPCs/Urwin Martikov.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/NPCs/Bray Martikov.md"
+                "file": "4. World Almanac/NPCs/Urwin Martikov.md"
               }
             }
           },
@@ -196,8 +195,9 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "3b4c7a71d49e05f2",
+  "active": "5111173a40d3a355",
   "lastOpenFiles": [
+    "4. World Almanac/NPCs/Bray Martikov.md",
     "4. World Almanac/NPCs/Urwin Martikov.md",
     "4. World Almanac/NPCs/Arabelle.md",
     "4. World Almanac/NPCs/Anastrasya Karelova.md",
@@ -243,7 +243,6 @@
     "compendium/decks/tarokka-deck-cos.md",
     "compendium/decks/decks.md",
     "compendium/bestiary/undead/vampire-spawn.md",
-    "compendium/bestiary/monstrosity/monstrosity.md",
     "Untitled.canvas"
   ]
 }
