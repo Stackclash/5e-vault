@@ -39,15 +39,16 @@ function buildRelationshipKeys(page, charIndex=0, keys=[]) {
 
   if (initialLength !== keys.length) {
 
-    return keys.concat(page.relationships.filter(r => r.name !== page.file.name).flatMap(r => {
+    keys = keys.concat(page.relationships.filter(r => r.name !== page.file.name).flatMap(r => {
       const relationshipPage = dv.page(r.split('|')[0])
 
       const results = buildRelationshipKeys(relationshipPage, charIndex, keys)
       charIndex = results[1]
-      console.log(relationshipPage.file.name, charIndex, results[0].filter(r => !keys.map(k => k.name).includes(r.name)), keys)
 
-      return [results[0].filter(r => !keys.map(k => k.name).includes(r.name)),charIndex]
+      return results[0].filter(r => !keys.map(k => k.name).includes(r.name))
     }))
+
+    return [keys, charIndex]
   } else {
     return [keys, charIndex]
   }
