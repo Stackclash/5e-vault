@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/NPCs/Dag Tomescu.md",
+                "file": "4. World Almanac/NPCs/Bray Martikov.md",
                 "mode": "preview",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/14 Chapter-12 The Wizard Of Wines.md",
+                "file": "4. World Almanac/NPCs/img/bray-martikov.webp",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/14 Chapter-12 The Wizard Of Wines.md",
+                "file": "4. World Almanac/NPCs/img/bray-martikov.webp",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/14 Chapter-12 The Wizard Of Wines.md"
+                "file": "4. World Almanac/NPCs/img/bray-martikov.webp"
               }
             }
           },
@@ -208,14 +207,51 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "a430bfeefdf44510",
+  "floating": {
+    "id": "c2a4ff04ce6ec7ec",
+    "type": "floating",
+    "children": [
+      {
+        "id": "7bb2374063ac478d",
+        "type": "window",
+        "children": [
+          {
+            "id": "f82815cf32829512",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5a880bc16eee1335",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "4. World Almanac/NPCs/img/bray-martikov.webp"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1360,
+        "y": 114,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "5a880bc16eee1335",
   "lastOpenFiles": [
+    "4. World Almanac/NPCs/Bray Martikov.md",
+    "4. World Almanac/NPCs/img/davian-martikov.webp",
+    "4. World Almanac/NPCs/Dag Tomescu.md",
     "4. World Almanac/NPCs/Davian Martikov.md",
+    "6. Resources/5e Modules/Curse Of Strahd/14 Chapter-12 The Wizard Of Wines.md",
     "4. World Almanac/NPCs/Adrian Martikov.md",
     "4. World Almanac/NPCs/Stefania Martikov.md",
-    "6. Resources/5e Modules/Curse Of Strahd/14 Chapter-12 The Wizard Of Wines.md",
     "4. World Almanac/NPCs/Elvir Martikov.md",
-    "4. World Almanac/NPCs/Dag Tomescu.md",
     "4. World Almanac/NPCs/Danika Dorakova.md",
     "4. World Almanac/NPCs/Anastrasya Karelova.md",
     "4. World Almanac/NPCs/Lady Fiona Wachter.md",
@@ -227,7 +263,6 @@
     "z_Templates/Functional",
     "4. World Almanac/NPCs/The Abbot.md",
     "4. World Almanac/NPCs/Stella Wachter.md",
-    "4. World Almanac/NPCs/Bray Martikov.md",
     "4. World Almanac/NPCs/Brom Martikov.md",
     "4. World Almanac/NPCs/Izek Strazni.md",
     "4. World Almanac/NPCs/Ireena Kolyana.md",
@@ -239,7 +274,6 @@
     "4. World Almanac/NPCs/Bluto Krogarov.md",
     "4. World Almanac/NPCs/Arabelle.md",
     "4. World Almanac/NPCs/Lief Lipsiege.md",
-    "4. World Almanac/NPCs/Arrigal.md",
     "z_Extra/ttrpg-convert/templates/background.txt",
     "compendium/rules/variant-rules",
     "compendium/rules",
@@ -254,7 +288,6 @@
     "compendium/bestiary/npc/token/rahadin.png",
     "compendium/bestiary/npc/img/sir-godfrey-gwilym.webp",
     "compendium/bestiary/npc/token/lady-fiona-wachter.png",
-    "compendium/bestiary/npc/token/ismark-kolyanovich.png",
     "compendium/bestiary/undead/img",
     "Untitled.canvas"
   ]
