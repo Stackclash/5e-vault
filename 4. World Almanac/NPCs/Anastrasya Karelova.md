@@ -3,17 +3,18 @@ obsidianUIMode: preview
 statblock: inline
 location: 
 condition: healthy
-relationships: []
+relationships:
+  - Urwin Martikov|[object Object]
 tags: 
-aliases: []
+aliases: 
 pronounced: 
 race: 
 sex: 
 age: 
 alignment: 
 occupation: 
-groups: []
-religions: []
+groups: 
+religions: 
 personality: 
 ideal: 
 bond: 

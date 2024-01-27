@@ -3,7 +3,8 @@ obsidianUIMode: preview
 statblock: inline
 location: 
 condition: healthy
-relationships: []
+relationships:
+  - Anastrasya Karelova|father
 tags: 
 aliases: 
 pronounced: 
@@ -20,7 +21,7 @@ bond:
 flaw: 
 goals: 
 likes: 
-dislikes:
+dislikes: 
 ---
 
 > [!infobox]

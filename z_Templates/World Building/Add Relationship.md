@@ -19,8 +19,8 @@ if (tp.config.run_mode !== 1) {
     selectedRelationship = await tp.system.suggester(relationshipMapping.map(r => r.to), relationshipMapping, false, `What relationship does ${tp.config.active_file.basename} have to ${selectedNpc}?`)
 
     let otherSelectedRelationship
-    if (Array.isArray(selectedRelationship.from)) {
-        otherSelectedRelationship = await tp.system.suggester(selectedRelationship, selectedRelationship, false, `What relationship does ${selectedNpc} have to ${tp.config.active_file.basename}?`)
+    if (typeof selectedRelationship.from === 'object' && !Array.isArray(selectedRelationship.from)) {
+        otherSelectedRelationship = await tp.system.suggester(Object.values(selectedRelationship.from), Object.values(selectedRelationship.from), false, `What relationship does ${selectedNpc} have to ${tp.config.active_file.basename}?`)
     } else {
         otherSelectedRelationship = selectedRelationship.from
     }
@@ -35,7 +35,9 @@ if (tp.config.run_mode !== 1) {
         let selectedNpcFile = tp.file.find_tfile(selectedNpc)
         if (selectedNpcFile) {
             app.fileManager.processFrontMatter(selectedNpcFile, (fm) => {
-                if (!fm.relationships.includes(`${tp.config.active_file.basename}|${otherSelectedRelationship}`))
+                if (!fm.relationships.includes(`${tp.config.active_file.basename}|${otherSelectedRelationship}`)) {
+                    fm.relationships.push(`${tp.config.active_file.basename}|${otherSelectedRelationship}`)
+                }
             })
         }
     }
