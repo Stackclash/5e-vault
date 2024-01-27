@@ -26,7 +26,6 @@ if (tp.config.run_mode !== 1) {
             otherSelectedRelationship = selectedRelationship.from[tp.frontmatter.gender]
         } else {
             otherSelectedRelationship = await tp.system.suggester(Object.values(selectedRelationship.from), Object.values(selectedRelationship.from), false, `What relationship does ${tp.config.active_file.basename} have to ${selectedNpc}?`)
-
         }
     } else {
         otherSelectedRelationship = selectedRelationship.from

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/NPCs/Stella Wachter.md",
+                "file": "4. World Almanac/NPCs/Nikolai Wachter.md",
                 "mode": "preview",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/NPCs/Stella Wachter.md",
+                "file": "4. World Almanac/NPCs/Nikolai Wachter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/NPCs/Stella Wachter.md",
+                "file": "4. World Almanac/NPCs/Nikolai Wachter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/NPCs/Stella Wachter.md"
+                "file": "4. World Almanac/NPCs/Nikolai Wachter.md"
               }
             }
           },
@@ -210,6 +210,8 @@
   },
   "active": "a430bfeefdf44510",
   "lastOpenFiles": [
+    "4. World Almanac/NPCs/Stella Wachter.md",
+    "4. World Almanac/NPCs/Lady Fiona Wachter.md",
     "4. World Almanac/NPCs/Bray Martikov.md",
     "4. World Almanac/NPCs/Urwin Martikov.md",
     "4. World Almanac/NPCs/Brom Martikov.md",
@@ -218,8 +220,6 @@
     "4. World Almanac/NPCs/Izek Strazni.md",
     "4. World Almanac/NPCs/Ireena Kolyana.md",
     "4. World Almanac/NPCs/Ismark Kolyanovich.md",
-    "4. World Almanac/NPCs/Lady Fiona Wachter.md",
-    "4. World Almanac/NPCs/Stella Wachter.md",
     "4. World Almanac/NPCs/Davian Martikov.md",
     "test.js",
     "z_Scripts/Templater/addRelationship.js",
