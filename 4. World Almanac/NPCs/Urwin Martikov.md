@@ -7,11 +7,12 @@ relationships:
   - Bray Martikov|son
   - Brom Martikov|son
   - Danika Dorakova|wife
+  - Davian Martikov|father
 tags: 
 aliases: 
 pronounced: 
 race: 
-gender: 
+gender: male
 age: 
 alignment: 
 occupation: 
