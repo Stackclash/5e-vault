@@ -4,10 +4,9 @@ statblock: inline
 location: 
 condition: healthy
 relationships:
-  - Danika Dorakova|wife
-  - Brom Martikov|son
   - Bray Martikov|son
-  - Davian Martikov|father
+  - Brom Martikov|son
+  - Danika Dorakova|wife
 tags: 
 aliases: 
 pronounced: 
@@ -24,7 +23,7 @@ bond:
 flaw: 
 goals: 
 likes: 
-dislikes:
+dislikes: 
 ---
 
 > [!infobox]

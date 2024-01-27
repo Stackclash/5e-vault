@@ -4,9 +4,7 @@ statblock: inline
 location: 
 condition: healthy
 relationships:
-  - Urwin Martikov|son
-  - Danika Dorakova|son
-  - Bray Martikov|brother
+  - Urwin Martikov|father
 tags: 
 aliases: 
 pronounced: 
@@ -23,7 +21,7 @@ bond:
 flaw: 
 goals: 
 likes: 
-dislikes:
+dislikes: 
 ---
 
 > [!infobox]

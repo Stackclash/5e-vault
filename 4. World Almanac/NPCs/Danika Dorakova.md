@@ -5,8 +5,6 @@ location:
 condition: healthy
 relationships:
   - Urwin Martikov|husband
-  - Brom Martikov|son
-  - Bray Martikov|son
 tags: 
 aliases: 
 pronounced: 
@@ -23,7 +21,7 @@ bond:
 flaw: 
 goals: 
 likes: 
-dislikes:
+dislikes: 
 ---
 
 > [!infobox]
