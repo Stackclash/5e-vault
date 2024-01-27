@@ -3,8 +3,10 @@ obsidianUIMode: preview
 statblock: inline
 location: 
 condition: healthy
-image:
-relationships: []
+image: 
+relationships:
+  - Davian Martikov|father
+  - Dag Tomescu|husband
 tags: 
 aliases: []
 pronounced: 

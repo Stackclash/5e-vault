@@ -5,7 +5,9 @@ location:
 condition: healthy
 relationships:
   - Urwin Martikov|son
+  - Stefania Martikov|daughter
   - Adrian Martikov|son
+  - Elvir Martikov|son
 tags: 
 aliases: 
 pronounced: 

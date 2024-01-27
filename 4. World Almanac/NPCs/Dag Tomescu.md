@@ -3,8 +3,9 @@ obsidianUIMode: preview
 statblock: inline
 location: 
 condition: healthy
-image:
-relationships: []
+image: 
+relationships:
+  - Stefania Martikov|wife
 tags: 
 aliases: []
 pronounced: 
