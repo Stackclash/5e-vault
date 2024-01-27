@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/NPCs/Davian Martikov.md",
+                "file": "4. World Almanac/NPCs/Urwin Martikov.md",
                 "mode": "preview",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/NPCs/Davian Martikov.md",
+                "file": "4. World Almanac/NPCs/Urwin Martikov.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/NPCs/Davian Martikov.md",
+                "file": "4. World Almanac/NPCs/Urwin Martikov.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/NPCs/Davian Martikov.md"
+                "file": "4. World Almanac/NPCs/Urwin Martikov.md"
               }
             }
           },
@@ -210,6 +210,7 @@
   },
   "active": "a56949355faddf61",
   "lastOpenFiles": [
+    "4. World Almanac/NPCs/Davian Martikov.md",
     "4. World Almanac/NPCs/Urwin Martikov.md",
     "4. World Almanac/NPCs/Danika Dorakova.md",
     "4. World Almanac/NPCs/Brom Martikov.md",
@@ -220,7 +221,6 @@
     "z_Scripts/Templater/ad3dRelationship.js",
     "z_Templates/World Building/Add Relationship.md",
     "Untitled.md",
-    "4. World Almanac/NPCs/Davian Martikov.md",
     "4. World Almanac/NPCs/Bluto Krogarov.md",
     "4. World Almanac/NPCs/Arabelle.md",
     "4. World Almanac/NPCs/Lief Lipsiege.md",
