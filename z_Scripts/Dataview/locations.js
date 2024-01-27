@@ -4,6 +4,8 @@ const pages = dv.pages('"4. World Almanac/Regions" or "4. World Almanac/Settleme
     return p.location && p.location.path ? p.location.path == currentPath : false
 }).sort(p => p.file.name).groupBy(p => p.file.folder.split('/').slice(-1))
 
+dv.header(2, "Notable Locations")
+
 for (let group of pages) {
     dv.header(3, group.key)
     dv.table(["Name", "Pronounced"],
