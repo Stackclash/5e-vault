@@ -3,24 +3,25 @@ obsidianUIMode: preview
 statblock: inline
 location: 
 condition: healthy
-relationships: []
+relationships:
+  - Ireena Kolyana|sister
 tags: 
-aliases: []
+aliases: 
 pronounced: 
 race: 
 sex: 
 age: 
 alignment: 
 occupation: 
-groups: []
-religions: []
+groups: 
+religions: 
 personality: 
 ideal: 
 bond: 
 flaw: 
 goals: 
 likes: 
-dislikes: 
+dislikes:
 ---
 
 > [!infobox]

@@ -3,7 +3,9 @@ obsidianUIMode: preview
 statblock: inline
 location: 
 condition: healthy
-relationships: []
+relationships:
+  - Ismark Kolyanovich|brother
+  - Izek Strazni|brother
 tags: 
 aliases: []
 pronounced: 
