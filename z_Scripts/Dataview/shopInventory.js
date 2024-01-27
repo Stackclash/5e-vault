@@ -9,9 +9,13 @@ function costDisplay(cp) {
     sp = Math.floor(cp / 10)
     cp = cp % 10
 
-    if (gp > 0) display.push(`${gp} gp`)
-    if (sp > 0) display.push(`${sp} sp`)
-    if (cp > 0) display.push(`${cp} cp`)
+    if (gp > 0) {
+        display.push(`${gp} gp`)
+    } else if (sp > 0) {
+        display.push(`${sp} sp`)
+    } else if (cp > 0) {
+        display.push(`${cp} cp`)
+    }
 
     return display.join(', ')
 }
