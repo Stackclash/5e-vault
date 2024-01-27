@@ -24,7 +24,7 @@ bond:
 flaw: 
 goals: 
 likes: 
-dislikes: 
+dislikes:
 ---
 
 > [!infobox]

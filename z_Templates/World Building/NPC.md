@@ -73,6 +73,15 @@ dislikes:
 >> `INPUT[textArea:goals]`
 
 ## Relationships
+```meta-bind-button
+style: primary
+label: Add Relationship
+actions:
+  - type: command
+    command: templater-obsidian:insert-templater
+  - type: input
+    str: relationship
+```
 ```dataviewjs
 await dv.view("npcRelationships", { current: dv.current() })
 ```

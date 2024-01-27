@@ -103,6 +103,15 @@ Pidlwick II is basically an oversized toy - a 4-foot-tall mechanism stuffed with
 >> `INPUT[textArea:goals]`
 
 ## Relationships
+```meta-bind-button
+style: primary
+label: Add Relationship
+actions:
+  - type: command
+    command: templater-obsidian:insert-templater
+  - type: input
+    str: relationship
+```
 ```dataviewjs
 await dv.view("npcRelationships", { current: dv.current() })
 ```

@@ -3,24 +3,26 @@ obsidianUIMode: preview
 statblock: inline
 location: 
 condition: healthy
-relationships: []
+relationships:
+  - Stella Wachter|daughter
+  - Nikolai Wachter|son
 tags: 
-aliases: []
+aliases: 
 pronounced: 
 race: 
 sex: 
 age: 
 alignment: 
 occupation: 
-groups: []
-religions: []
+groups: 
+religions: 
 personality: 
 ideal: 
 bond: 
 flaw: 
 goals: 
 likes: 
-dislikes: 
+dislikes:
 ---
 
 > [!infobox]
@@ -70,6 +72,15 @@ TBD
 >> `INPUT[textArea:goals]`
 
 ## Relationships
+```meta-bind-button
+style: primary
+label: Add Relationship
+actions:
+  - type: command
+    command: templater-obsidian:insert-templater
+  - type: input
+    str: relationship
+```
 ```dataviewjs
 await dv.view("npcRelationships", { current: dv.current() })
 ```

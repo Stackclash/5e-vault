@@ -16,11 +16,11 @@ if (tp.config.run_mode !== 1) {
     const currentNpcs = tp.frontmatter.relationships.map(r => r.split('|')[0]),
     npcs = dv.pages('"4. World Almanac/NPCs"').filter(n => !currentNpcs.includes(n.file.name)),
     selectedNpc = await tp.system.suggester(npcs.map(n => n.file.name), npcs.map(p => p.file.name), false, "What NPC should be used for the relationship?"),
-    selectedRelationship = await tp.system.suggester(relationshipMapping.map(r => r.to), relationshipMapping, false, `What relationship does ${tp.config.active_file.basename} have to ${selectedNpc}?`)
+    selectedRelationship = await tp.system.suggester(relationshipMapping.map(r => r.to), relationshipMapping, false, `What relationship does ${selectedNpc} have to ${tp.config.active_file.basename}?`)
 
     let otherSelectedRelationship
     if (typeof selectedRelationship.from === 'object' && !Array.isArray(selectedRelationship.from)) {
-        otherSelectedRelationship = await tp.system.suggester(Object.values(selectedRelationship.from), Object.values(selectedRelationship.from), false, `What relationship does ${selectedNpc} have to ${tp.config.active_file.basename}?`)
+        otherSelectedRelationship = await tp.system.suggester(Object.values(selectedRelationship.from), Object.values(selectedRelationship.from), false, `What relationship does ${tp.config.active_file.basename} have to ${selectedNpc}?`)
     } else {
         otherSelectedRelationship = selectedRelationship.from
     }
