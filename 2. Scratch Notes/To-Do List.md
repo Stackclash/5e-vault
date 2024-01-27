@@ -9,7 +9,7 @@
 	- [x] Fix statblock sometimes not showing up
 - [ ] Create flowchart of campaign (watch [video]())
 - [ ] Optimize syncing vault to github (watch [video](https://www.youtube.com/watch?v=gOdh8wdbxm4))
-	- [ ] Maybe exclude config json from github
+	- [ ] Maybe exclude workspace json from github
 - [ ] Insert travel times into Settlements template (watch [video](https://www.youtube.com/watch?v=X6AT9G0uV-Y&t=1805s))
 - [ ] Look into weather generation (watch [video](https://www.youtube.com/watch?v=mDSHjLJyyTs&t=222s))
 - [ ] Look into using AI for generating notes (watch [Obsidian - Create Random Notes with ChatGPT Templates](https://www.youtube.com/watch?v=X9tlAZC6DSU&t=111s), [Obsidian - Creating TTRPG Calculators with DataviewJS and ChatGPT](https://www.youtube.com/watch?v=LgljhGhNWCA))
@@ -29,5 +29,9 @@
 - [ ] Create note to appear as new note screen
 - [x] Fix location NPCs table to include child locations
 - [x] Create NPC relationship graph in mermaid
-- [ ] Fix metabind fields to take up necessary space
+- [ ] Fix meta-bind fields to take up necessary space
 - [ ] Make ttrpg-convert import script use existing metadata when file is replaced
+- [ ] Fix Relationships map on NPCs to be centered
+- [ ] Create "Remove Relationships" Templater template
+- [ ] Use meta-bind menu for Session Notes
+- [ ] Fix Inventory table on Shops to fit with ITS Theme info boxes
