@@ -5,6 +5,7 @@ location:
 condition: healthy
 relationships:
   - Urwin Martikov|father
+  - Urwin Martikov|son
 tags: 
 aliases: []
 pronounced: 
