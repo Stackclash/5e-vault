@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/NPCs/Nikolai Wachter.md",
+                "file": "4. World Almanac/Places of Interest/Wachterhaus.md",
                 "mode": "preview",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/NPCs/Nikolai Wachter.md",
+                "file": "4. World Almanac/Places of Interest/Wachterhaus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/NPCs/Nikolai Wachter.md",
+                "file": "4. World Almanac/Places of Interest/Wachterhaus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/NPCs/Nikolai Wachter.md"
+                "file": "4. World Almanac/Places of Interest/Wachterhaus.md"
               }
             }
           },
@@ -210,6 +210,10 @@
   },
   "active": "a430bfeefdf44510",
   "lastOpenFiles": [
+    "4. World Almanac/Settlements/Vallaki.md",
+    "4. World Almanac/Places of Interest/Wachterhaus.md",
+    "4. World Almanac/Settlements/Village of Barovia.md",
+    "4. World Almanac/NPCs/Nikolai Wachter.md",
     "4. World Almanac/NPCs/Stella Wachter.md",
     "4. World Almanac/NPCs/Lady Fiona Wachter.md",
     "4. World Almanac/NPCs/Bray Martikov.md",
@@ -252,10 +256,6 @@
     "compendium/bestiary/npc/token/ismark-kolyanovich.png",
     "compendium/bestiary/undead/img",
     "compendium/bestiary/aberration/token",
-    "compendium/bestiary/aberration/nothic.md",
-    "compendium/bestiary/aberration/death-slaad.md",
-    "compendium/bestiary/aberration/aberration.md",
-    "compendium/bestiary/dragon/young-blue-dragon.md",
     "Untitled.canvas"
   ]
 }
