@@ -42,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2a72c91b61cbc86c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "4. World Almanac/NPCs/Urwin Martikov.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "4. World Almanac/NPCs/Urwin Martikov.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "4. World Almanac/NPCs/Urwin Martikov.md"
               }
             }
           },
@@ -220,10 +208,13 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "2a72c91b61cbc86c",
+  "active": "a430bfeefdf44510",
   "lastOpenFiles": [
-    "4. World Almanac/NPCs/Urwin Martikov.md",
+    "z_Templates/Functional/Remove Relationship.md",
+    "z_Templates/Functional/Add Relationship.md",
+    "z_Templates/Functional",
     "conflict-files-obsidian-git.md",
+    "4. World Almanac/NPCs/Urwin Martikov.md",
     "4. World Almanac/NPCs/The Abbot.md",
     "Untitled.md",
     "4. World Almanac/NPCs/Stella Wachter.md",
@@ -265,9 +256,6 @@
     "compendium/bestiary/npc/token/lady-fiona-wachter.png",
     "compendium/bestiary/npc/token/ismark-kolyanovich.png",
     "compendium/bestiary/undead/img",
-    "compendium/bestiary/aberration/token",
-    "compendium/bestiary/aberration/nothic.md",
-    "compendium/bestiary/aberration/death-slaad.md",
     "Untitled.canvas"
   ]
 }
