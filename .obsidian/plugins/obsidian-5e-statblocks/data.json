@@ -60936,71 +60936,6 @@
       }
     ],
     [
-      "Baba Lysaga's Creeping Hut (CoS)",
-      {
-        "name": "Baba Lysaga's Creeping Hut (CoS)",
-        "size": "Gargantuan",
-        "type": "construct",
-        "alignment": "Unaligned",
-        "ac": 16,
-        "hp": 263,
-        "hit_dice": "17d20 + 85",
-        "stats": [
-          26,
-          7,
-          20,
-          1,
-          3,
-          3
-        ],
-        "speed": "30 ft.",
-        "saves": {
-          "Charisma": 0,
-          "Wisdom": 0,
-          "Constitution": 9
-        },
-        "damage_immunities": "poison, psychic",
-        "condition_immunities": "blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, prone",
-        "senses": "blindsight 120 ft. (blind beyond this radius), passive Perception 6",
-        "languages": "",
-        "cr": "11",
-        "traits": [
-          {
-            "desc": "An animated object doesn't require air, food, drink, or sleep.\n\nThe magic that animates an object is dispelled when the construct drops to 0 hit points. An animated object reduced to 0 hit points becomes inanimate and is too damaged to be of much use or value to anyone.",
-            "name": "Constructed Nature"
-          },
-          {
-            "desc": "The hut is incapacitated while the magic gem that animates it is in the area of an antimagic field. If targeted by dispel magic, the hut must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.",
-            "name": "Antimagic Susceptibility"
-          },
-          {
-            "desc": "The hut deals double damage to objects and structures.",
-            "name": "Siege Monster"
-          }
-        ],
-        "actions": [
-          {
-            "desc": "The hut makes three attacks with its roots. It can replace one of these attacks with a rock attack.",
-            "name": "Multiattack"
-          },
-          {
-            "desc": "Melee Weapon Attack: dice: d20+12 (+12 to hit), reach 60 ft., one target. Hit: dice: 4d10 + 8|avg (4d10 + 8) bludgeoning damage.",
-            "name": "Root"
-          },
-          {
-            "desc": "Ranged Weapon Attack: dice: d20+12 (+12 to hit), range 120 ft., one target. Hit: dice: 3d8 + 8|avg (3d8 + 8) bludgeoning damage.",
-            "name": "Rock"
-          }
-        ],
-        "source": [
-          "CoS"
-        ],
-        "image": "4. World Almanac/NPCs/token/baba-lysagas-creeping-hut.png",
-        "note": "4. World Almanac/NPCs/Baba Lysagas Creeping Hut.md",
-        "mtime": 1706375104221
-      }
-    ],
-    [
       "Brom Martikov (CoS)",
       {
         "name": "Brom Martikov (CoS)",
@@ -61068,84 +61003,6 @@
       }
     ],
     [
-      "Arrigal (CoS)",
-      {
-        "name": "Arrigal (CoS)",
-        "size": "Medium",
-        "type": "humanoid",
-        "subtype": "human",
-        "alignment": "Neutral Evil",
-        "ac": 15,
-        "hp": 78,
-        "hit_dice": "12d8 + 24",
-        "stats": [
-          11,
-          16,
-          14,
-          13,
-          11,
-          10
-        ],
-        "speed": "30 ft.",
-        "saves": {
-          "Dexterity": 6,
-          "Intelligence": 4
-        },
-        "skillsaves": {
-          "Deception": 3,
-          "Stealth": 9,
-          "Perception": 3,
-          "Acrobatics": 6
-        },
-        "damage_resistances": "poison",
-        "senses": "passive Perception 13",
-        "languages": "Thieves' cant plus any two languages",
-        "cr": "8",
-        "traits": [
-          {
-            "desc": "During its first turn, Arrigal has advantage on attack rolls against any creature that hasn't taken a turn. Any hit Arrigal scores against a surprised creature is a critical hit.",
-            "name": "Assassinate"
-          },
-          {
-            "desc": "If Arrigal is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, Arrigal instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.",
-            "name": "Evasion"
-          },
-          {
-            "desc": "Arrigal deals an extra dice: 4d6|avg (4d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of Arrigal that isn't incapacitated and Arrigal doesn't have disadvantage on the attack roll.",
-            "name": "Sneak Attack (1/Turn)"
-          }
-        ],
-        "actions": [
-          {
-            "desc": "Arrigal makes two shortsword attacks.",
-            "name": "Multiattack"
-          },
-          {
-            "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target. Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage, and the target must make a DC 15 Constitution saving throw, taking dice: 7d6|avg (7d6) poison damage on a failed save, or half as much damage on a successful one.",
-            "name": "Shortsword"
-          },
-          {
-            "desc": "Ranged Weapon Attack: dice: d20+6 (+6 to hit), range 80/320 ft., one target. Hit: dice: 1d8 + 3|avg (1d8 + 3) piercing damage, and the target must make a DC 15 Constitution saving throw, taking dice: 7d6|avg (7d6) poison damage on a failed save, or half as much damage on a successful one.",
-            "name": "Light Crossbow"
-          },
-          {
-            "desc": "11\n\n- The target is unable to perform a certain kind of act involving fine motor control, such as tying knots, writing, playing an instrument, sewing, or casting spells that have somatic components. When this curse ends, the Vistana takes dice: 1d6|avg (1d6) psychic damage.  \n- The target's appearance changes in a sinister yet purely cosmetic way. For example, the curse can place a scar on the target's face, turn the target's teeth into yellow fangs, or give the target bad breath. When this curse ends, the Vistana takes dice: 1d6|avg (1d6) psychic damage.  \n- A nonmagical item in the target's possession (chosen by the DM) disappears and can't be found until the curse ends. The lost item can weigh no more than 1 pound. When this curse ends, the Vistana takes dice: 1d6|avg (1d6) psychic damage.  \n- The target gains vulnerability to a damage type of the Vistana's choice. When this curse ends, the Vistana takes dice: 3d6|avg (3d6) psychic damage.  \n- The target has disadvantage on ability checks and saving throws tied to one ability score of the Vistana's choice. When this curse ends, the Vistana takes dice: 3d6|avg (3d6) psychic damage.  \n- The target's attunement to one magic item (chosen by the DM) ends, and the target can't attune to the chosen item until the curse ends. When this curse ends, the Vistana takes dice: 5d6|avg (5d6) psychic damage.  \n- The target is blinded, deafened, or both. When this curse ends, the Vistana takes dice: 5d6|avg (5d6) psychic damage.  \n\nThe curse lasts until ended with a greater restoration spell, a remove curse spell, or similar magic. It doesn't end when the target dies. If a cursed target is returned to life, the curse remains in effect.",
-            "name": "Curse (Recharges After a Long Rest)"
-          },
-          {
-            "desc": "11\n\nA Vistana who uses Evil Eye can't use it again before finishing a short or long rest. Once a target succeeds on a saving throw against a Vistana's Evil Eye, it is immune to the Evil Eye of all Vistani for 24 hours.",
-            "name": "Evil Eye (Recharges after a Short or Long Rest)"
-          }
-        ],
-        "source": [
-          "CoS"
-        ],
-        "image": "4. World Almanac/NPCs/token/arrigal.png",
-        "note": "4. World Almanac/NPCs/Arrigal.md",
-        "mtime": 1706375104221
-      }
-    ],
-    [
       "Bluto Krogarov (CoS)",
       {
         "name": "Bluto Krogarov (CoS)",
@@ -61180,73 +61037,6 @@
         "image": "4. World Almanac/NPCs/token/bluto-krogarov.png",
         "note": "4. World Almanac/NPCs/Bluto Krogarov.md",
         "mtime": 1706375104433
-      }
-    ],
-    [
-      "Anastrasya Karelova (CoS)",
-      {
-        "name": "Anastrasya Karelova (CoS)",
-        "size": "Medium",
-        "type": "undead",
-        "alignment": "Neutral Evil",
-        "ac": 15,
-        "hp": 82,
-        "hit_dice": "11d8 + 33",
-        "stats": [
-          16,
-          16,
-          16,
-          11,
-          10,
-          12
-        ],
-        "speed": "30 ft.",
-        "saves": {
-          "Dexterity": 6,
-          "Wisdom": 3
-        },
-        "skillsaves": {
-          "Stealth": 6,
-          "Perception": 3
-        },
-        "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks",
-        "senses": "darkvision 60 ft., passive Perception 13",
-        "languages": "the languages it knew in life",
-        "cr": "5",
-        "traits": [
-          {
-            "desc": "Anastrasya regains 10 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If Anastrasya takes radiant damage or damage from holy water, this trait doesn't function at the start of Anastrasya's next turn.",
-            "name": "Regeneration"
-          },
-          {
-            "desc": "Anastrasya can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
-            "name": "Spider Climb"
-          },
-          {
-            "desc": "Anastrasya has the following flaws:\n\nForbiddance. Anastrasya can't enter a residence without an invitation from one of the occupants.\n\nHarmed by Running Water. Anastrasya takes 20 acid damage when it ends its turn in running water.\n\nStake to the Heart. Anastrasya is destroyed if a piercing weapon made of wood is driven into its heart while it is incapacitated in its resting place.\n\nSunlight Hypersensitivity. Anastrasya takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.",
-            "name": "Vampire Weaknesses"
-          }
-        ],
-        "actions": [
-          {
-            "desc": "Anastrasya makes two attacks, only one of which can be a bite attack.",
-            "name": "Multiattack"
-          },
-          {
-            "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one willing creature, or a creature that is grappled by Anastrasya, incapacitated, or restrained. Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage plus dice: 2d6|avg (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Anastrasya regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.",
-            "name": "Bite"
-          },
-          {
-            "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one creature. Hit: dice: 2d4 + 3|avg (2d4 + 3) slashing damage. Instead of dealing damage, Anastrasya can grapple the target (escape DC 13).",
-            "name": "Claws"
-          }
-        ],
-        "source": [
-          "CoS"
-        ],
-        "image": "4. World Almanac/NPCs/token/anastrasya-karelova.png",
-        "note": "4. World Almanac/NPCs/Anastrasya Karelova.md",
-        "mtime": 1706375104221
       }
     ],
     [
@@ -61598,72 +61388,6 @@
         "image": "4. World Almanac/NPCs/token/davian-martikov.png",
         "note": "4. World Almanac/NPCs/Davian Martikov.md",
         "mtime": 1706375104589
-      }
-    ],
-    [
-      "Baba Lysaga (CoS)",
-      {
-        "name": "Baba Lysaga (CoS)",
-        "size": "Medium",
-        "type": "humanoid",
-        "subtype": "human, shapechanger",
-        "alignment": "Chaotic Evil",
-        "ac": 15,
-        "hp": 120,
-        "hit_dice": "16d8 + 48",
-        "stats": [
-          18,
-          10,
-          16,
-          20,
-          17,
-          13
-        ],
-        "speed": "30 ft.",
-        "saves": {
-          "Wisdom": 7
-        },
-        "skillsaves": {
-          "Religion": 13,
-          "Arcana": 13
-        },
-        "senses": "passive Perception 13",
-        "languages": "Abyssal, Common, Draconic, Dwarvish, Giant",
-        "cr": "11",
-        "traits": [
-          {
-            "desc": "Baba Lysaga is a 16th-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 17, dice: d20+9 (+9 to hit) with spell attacks). Baba Lysaga has the following wizard spells prepared:\n\nCantrips (at will): acid splash, fire bolt, light, mage hand, prestidigitation\n\n1st level (4 slots): detect magic, magic missile, sleep, witch bolt\n\n2nd level (3 slots): crown of madness, enlarge/reduce, misty step\n\n3rd level (3 slots): dispel magic, fireball, lightning bolt\n\n4th level (3 slots): blight, Evard's black tentacles, polymorph\n\n5th level (2 slots): cloudkill, geas, scrying\n\n6th level (1 slots): programmed illusion, true seeing\n\n7th level (1 slots): finger of death, mirage arcane\n\n8th level (1 slots): power word stun",
-            "name": "spells"
-          },
-          {
-            "desc": "Baba Lysaga can use an action to polymorph into a [[5. Mechanics/Bestiary/Beast/Swarm Of Insects.md|swarm of insects]] (flies), or back into her true form. While in swarm form, she has a walking speed of 5 feet and a flying speed of 30 feet. Anything she is wearing transforms with her, but nothing she is carrying does.",
-            "name": "Shapechanger"
-          },
-          {
-            "desc": "Baba Lysaga is shielded against divination magic, as though protected by a nondetection spell.",
-            "name": "Blessing of Mother Night"
-          }
-        ],
-        "actions": [
-          {
-            "desc": "Baba Lysaga makes three attacks with her quarterstaff.",
-            "name": "Multiattack"
-          },
-          {
-            "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target. Hit: dice: 1d6 + 4|avg (1d6 + 4) bludgeoning damage, or dice: 1d8 + 4|avg (1d8 + 4) bludgeoning damage if wielded with two hands.",
-            "name": "Quarterstaff"
-          },
-          {
-            "desc": "Baba Lysaga summons dice: 1d4|avg (1d4) swarms of insects. A summoned swarm appears in an unoccupied space within 60 feet of Baba Lysaga and acts as her ally. It remains until it dies or until Baba Lysaga dismisses it as an action.",
-            "name": "Summon Swarms of Insects (Recharges after a Short or Long Rest)"
-          }
-        ],
-        "source": [
-          "CoS"
-        ],
-        "image": "4. World Almanac/NPCs/token/baba-lysaga.png",
-        "note": "4. World Almanac/NPCs/Baba Lysaga.md",
-        "mtime": 1706375105243
       }
     ],
     [
@@ -62072,154 +61796,6 @@
       }
     ],
     [
-      "Lady Lydia Petrovna (CoS)",
-      {
-        "name": "Lady Lydia Petrovna (CoS)",
-        "size": "Medium",
-        "type": "humanoid",
-        "subtype": "human",
-        "alignment": "Lawful Good",
-        "ac": 10,
-        "hp": 4,
-        "hit_dice": "1d8",
-        "stats": [
-          10,
-          10,
-          10,
-          10,
-          10,
-          10
-        ],
-        "speed": "30 ft.",
-        "senses": "passive Perception 10",
-        "languages": "any one language (usually Common)",
-        "cr": "0",
-        "actions": [
-          {
-            "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target. Hit: dice: 1d4|avg (1d4) bludgeoning damage.",
-            "name": "Club"
-          }
-        ],
-        "source": [
-          "CoS"
-        ],
-        "image": "4. World Almanac/NPCs/token/lady-lydia-petrovna.png",
-        "note": "4. World Almanac/NPCs/Lady Lydia Petrovna.md",
-        "mtime": 1706375105241
-      }
-    ],
-    [
-      "Lady Fiona Wachter (CoS)",
-      {
-        "name": "Lady Fiona Wachter (CoS)",
-        "size": "Medium",
-        "type": "humanoid",
-        "subtype": "human",
-        "alignment": "Lawful Evil",
-        "ac": 10,
-        "hp": 27,
-        "hit_dice": "5d8 + 5",
-        "stats": [
-          10,
-          10,
-          12,
-          13,
-          16,
-          13
-        ],
-        "speed": "30 ft.",
-        "skillsaves": {
-          "Medicine": 7,
-          "Religion": 5,
-          "Persuasion": 3
-        },
-        "senses": "passive Perception 13",
-        "languages": "any two languages",
-        "cr": "2",
-        "traits": [
-          {
-            "desc": "Fiona is a 5th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 13, dice: d20+5 (+5 to hit) with spell attacks). Fiona has the following cleric spells prepared:\n\nCantrips (at will): light, mending, thaumaturgy\n\n1st level (4 slots): command, purify food and drink, sanctuary\n\n2nd level (3 slots): augury, gentle repose, hold person\n\n3rd level (2 slots): animate dead, create food and water",
-            "name": "spells"
-          },
-          {
-            "desc": "As a bonus action, Fiona can expend a spell slot to cause its melee weapon attacks to magically deal an extra dice: 3d6|avg (3d6) radiant damage to a target on a hit. This benefit lasts until the end of the turn. If Fiona expends a spell slot of 2nd level or higher, the extra damage increases by dice: 1d6|avg (1d6) for each level above 1st.",
-            "name": "Divine Eminence"
-          }
-        ],
-        "actions": [
-          {
-            "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target. Hit: dice: 1d6|avg (1d6) bludgeoning damage.",
-            "name": "Mace"
-          }
-        ],
-        "source": [
-          "CoS"
-        ],
-        "image": "4. World Almanac/NPCs/token/lady-fiona-wachter.png",
-        "note": "4. World Almanac/NPCs/Lady Fiona Wachter.md",
-        "mtime": 1706375105241
-      }
-    ],
-    [
-      "Kasimir Velikov (CoS)",
-      {
-        "name": "Kasimir Velikov (CoS)",
-        "size": "Medium",
-        "type": "humanoid",
-        "subtype": "Dusk elf",
-        "alignment": "Neutral",
-        "ac": 12,
-        "hp": 40,
-        "hit_dice": "9d8",
-        "stats": [
-          9,
-          14,
-          11,
-          17,
-          12,
-          11
-        ],
-        "speed": "30 ft.",
-        "saves": {
-          "Wisdom": 4,
-          "Intelligence": 6
-        },
-        "skillsaves": {
-          "History": 6,
-          "Arcana": 6
-        },
-        "senses": "darkvision 60 ft., passive Perception 11",
-        "languages": "any four languages",
-        "cr": "6",
-        "traits": [
-          {
-            "desc": "Kasimir is a 9th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 14, dice: d20+6 (+6 to hit) with spell attacks). Kasimir has the following wizard spells prepared:\n\nCantrips (at will): fire bolt, light, mage hand, prestidigitation\n\n1st level (4 slots): detect magic, mage armor, magic missile, shield\n\n2nd level (3 slots): misty step, suggestion\n\n3rd level (3 slots): counterspell, fireball, fly\n\n4th level (3 slots): greater invisibility, ice storm\n\n5th level (1 slots): cone of cold",
-            "name": "spells"
-          },
-          {
-            "desc": "Kasimir has advantage on saving throws against being charmed, and magic can't put the him to sleep.",
-            "name": "Fey Ancestry"
-          },
-          {
-            "desc": "Kasimir wears a ring of warmth and carries a spellbook containing all the spells he has prepared plus the following spells: arcane lock, comprehend languages, hold person, identify, locate object, nondetection, polymorph, protection from evil and good, and wall of stone.",
-            "name": "Special Equipment"
-          }
-        ],
-        "actions": [
-          {
-            "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft. or range 20/60 ft., one target. Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage.",
-            "name": "Dagger"
-          }
-        ],
-        "source": [
-          "CoS"
-        ],
-        "image": "4. World Almanac/NPCs/token/kasimir-velikov.png",
-        "note": "4. World Almanac/NPCs/Kasimir Velikov.md",
-        "mtime": 1706375105241
-      }
-    ],
-    [
       "Lief Lipsiege (CoS)",
       {
         "name": "Lief Lipsiege (CoS)",
@@ -62254,125 +61830,6 @@
         "image": "4. World Almanac/NPCs/token/lief-lipsiege.png",
         "note": "4. World Almanac/NPCs/Lief Lipsiege.md",
         "mtime": 1706375105241
-      }
-    ],
-    [
-      "Izek Strazni (CoS)",
-      {
-        "name": "Izek Strazni (CoS)",
-        "size": "Medium",
-        "type": "humanoid",
-        "subtype": "human",
-        "alignment": "Neutral Evil",
-        "ac": 14,
-        "hp": 112,
-        "hit_dice": "15d8 + 45",
-        "stats": [
-          18,
-          15,
-          16,
-          10,
-          9,
-          15
-        ],
-        "speed": "30 ft.",
-        "skillsaves": {
-          "Intimidation": 8,
-          "Perception": 2
-        },
-        "senses": "passive Perception 12",
-        "languages": "Common",
-        "cr": "5",
-        "traits": [
-          {
-            "desc": "A melee weapon deals one extra die of its damage when Izek hits with it (included in the attack).",
-            "name": "Brute"
-          }
-        ],
-        "actions": [
-          {
-            "desc": "Izek makes two attacks with his battleaxe.",
-            "name": "Multiattack"
-          },
-          {
-            "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target. Hit: dice: 2d8 + 4|avg (2d8 + 4) slashing damage, or dice: 2d10 + 4|avg (2d10 + 4) when used with two hands.",
-            "name": "Battleaxe"
-          },
-          {
-            "desc": "Ranged Spell Attack: dice: d20+5 (+5 to hit), range 60 ft., one target. Hit: dice: 3d6|avg (3d6) fire damage. If the target is a flammable object that isn't being worn or carried, it catches fire.",
-            "name": "Hurl Flame"
-          }
-        ],
-        "source": [
-          "CoS"
-        ],
-        "image": "4. World Almanac/NPCs/token/izek-strazni.png",
-        "note": "4. World Almanac/NPCs/Izek Strazni.md",
-        "mtime": 1706375105241
-      }
-    ],
-    [
-      "Kiril Stoyanovich (CoS)",
-      {
-        "name": "Kiril Stoyanovich (CoS)",
-        "size": "Medium",
-        "type": "humanoid",
-        "subtype": "human, shapechanger",
-        "alignment": "Chaotic Evil",
-        "ac": 11,
-        "hp": 90,
-        "hit_dice": "9d8 + 18",
-        "stats": [
-          15,
-          13,
-          14,
-          10,
-          11,
-          10
-        ],
-        "speed": "30 ft. (40 ft. in wolf form)",
-        "skillsaves": {
-          "Stealth": 3,
-          "Perception": 4
-        },
-        "damage_immunities": "bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered",
-        "senses": "passive Perception 14",
-        "languages": "Common (can't speak in wolf form)",
-        "cr": "3",
-        "traits": [
-          {
-            "desc": "Kiril can use its action to polymorph into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.",
-            "name": "Shapechanger"
-          },
-          {
-            "desc": "Kiril has advantage on Wisdom (Perception) checks that rely on hearing or smell.",
-            "name": "Keen Hearing and Smell"
-          }
-        ],
-        "actions": [
-          {
-            "desc": "Kiril makes two attacks: two with its spear (humanoid form) or one with its bite and one with its claws (hybrid form).",
-            "name": "Multiattack (Humanoid or Hybrid Form Only)"
-          },
-          {
-            "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target. Hit: dice: 1d8 + 2|avg (1d8 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with werewolf lycanthropy.",
-            "name": "Bite (Wolf or Hybrid Form Only)"
-          },
-          {
-            "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature. Hit: dice: 2d4 + 2|avg (2d4 + 2) slashing damage.",
-            "name": "Claws (Hybrid Form Only)"
-          },
-          {
-            "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft. or range 20/60 ft., one creature. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage, or dice: 1d8 + 2|avg (1d8 + 2) piercing damage if used with two hands to make a melee attack.",
-            "name": "Spear (Humanoid Form Only)"
-          }
-        ],
-        "source": [
-          "CoS"
-        ],
-        "image": "4. World Almanac/NPCs/token/kiril-stoyanovich.png",
-        "note": "4. World Almanac/NPCs/Kiril Stoyanovich.md",
-        "mtime": 1706375105243
       }
     ],
     [
@@ -62627,136 +62084,6 @@
       }
     ],
     [
-      "Patrina Velikovna (CoS)",
-      {
-        "name": "Patrina Velikovna (CoS)",
-        "size": "Medium",
-        "type": "humanoid",
-        "subtype": "Dusk elf",
-        "alignment": "Neutral Evil",
-        "ac": 12,
-        "hp": 99,
-        "hit_dice": "18d8 + 18",
-        "stats": [
-          10,
-          14,
-          12,
-          20,
-          15,
-          16
-        ],
-        "speed": "30 ft.",
-        "saves": {
-          "Wisdom": 6,
-          "Intelligence": 9
-        },
-        "skillsaves": {
-          "History": 13,
-          "Arcana": 13
-        },
-        "damage_resistances": "damage from spells; nonmagical bludgeoning, piercing, slashing (from stoneskin)",
-        "senses": "passive Perception 12",
-        "languages": "any six languages",
-        "cr": "12",
-        "traits": [
-          {
-            "desc": "Patrina is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, dice: d20+9 (+9 to hit) with spell attacks). Patrina can cast disguise self and invisibility at will and has the following wizard spells prepared:\n\nAt will: disguise self, invisibility\n\nCantrips (at will): fire bolt, light, mage hand, prestidigitation, shocking grasp\n\n1st level (4 slots): detect magic, identify, mage armor, magic missile\n\n2nd level (3 slots): detect thoughts, mirror image, misty step\n\n3rd level (3 slots): counterspell, fly, lightning bolt\n\n4th level (3 slots): banishment, fire shield, stoneskin\n\n5th level (3 slots): cone of cold, scrying, wall of force\n\n6th level (1 slots): globe of invulnerability\n\n7th level (1 slots): teleport\n\n8th level (1 slots): mind blank\n\n9th level (1 slots): time stop\n\nPatrina casts these spells on itself before combat.",
-            "name": "spells"
-          },
-          {
-            "desc": "Patrina has advantage on saving throws against spells and other magical effects.",
-            "name": "Magic Resistance"
-          }
-        ],
-        "actions": [
-          {
-            "desc": "Melee or Ranged Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft. or range 20/60 ft., one target. Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage.",
-            "name": "Dagger"
-          }
-        ],
-        "source": [
-          "CoS"
-        ],
-        "image": "4. World Almanac/NPCs/token/patrina-velikovna.png",
-        "note": "4. World Almanac/NPCs/Patrina Velikovna.md",
-        "mtime": 1706375105242
-      }
-    ],
-    [
-      "Rahadin (CoS)",
-      {
-        "name": "Rahadin (CoS)",
-        "size": "Medium",
-        "type": "humanoid",
-        "subtype": "elf",
-        "alignment": "Lawful Evil",
-        "ac": 18,
-        "hp": 135,
-        "hit_dice": "18d8 + 54",
-        "stats": [
-          14,
-          22,
-          17,
-          15,
-          16,
-          18
-        ],
-        "speed": "35 ft.",
-        "saves": {
-          "Wisdom": 7,
-          "Constitution": 7
-        },
-        "skillsaves": {
-          "Intimidation": 12,
-          "Deception": 8,
-          "Stealth": 14,
-          "Insight": 7,
-          "Perception": 11
-        },
-        "senses": "darkvision 60 ft., passive Perception 21",
-        "languages": "Common, Elvish",
-        "cr": "10",
-        "traits": [
-          {
-            "desc": "Rahadin's innate spellcasting ability is Intelligence. He can innately cast the following spells, requiring no components:\n\n1/day: magic weapon, nondetection\n\n3/day: misty step, phantom steed",
-            "name": "innate"
-          },
-          {
-            "desc": "Any creature within 10 feet of Rahadin that isn't protected by a mind blank spell hears in its mind the screams of the thousands of people Rahadin has killed. As a bonus action, Rahadin can force all creatures that can hear the screams to make a DC 16 Wisdom saving throw. Each creature takes dice: 3d10|avg (3d10) psychic damage on a failed save, or half as much damage on a successful one.",
-            "name": "Deathly Choir"
-          },
-          {
-            "desc": "Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.",
-            "name": "Fey Ancestry"
-          },
-          {
-            "desc": "Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.",
-            "name": "Mask of the Wild"
-          }
-        ],
-        "actions": [
-          {
-            "desc": "Rahadin attacks three times with his scimitar, or twice with his poisoned darts.",
-            "name": "Multiattack"
-          },
-          {
-            "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target. Hit: dice: 1d6 + 6|avg (1d6 + 6) slashing damage.",
-            "name": "Scimitar"
-          },
-          {
-            "desc": "Ranged Weapon Attack: dice: d20+10 (+10 to hit), range 20/60 ft., one target. Hit: dice: 1d4 + 6|avg (1d4 + 6) piercing damage plus dice: 2d4|avg (2d4) poison damage.",
-            "name": "Poisoned Dart"
-          }
-        ],
-        "source": [
-          "CoS"
-        ],
-        "image": "4. World Almanac/NPCs/token/rahadin.png",
-        "note": "4. World Almanac/NPCs/Rahadin.md",
-        "mtime": 1706375105242
-      }
-    ],
-    [
       "Ezmerelda d'Avenir (CoS)",
       {
         "name": "Ezmerelda d'Avenir (CoS)",
@@ -62900,73 +62227,6 @@
         "image": "4. World Almanac/NPCs/token/mishka-belview.png",
         "note": "4. World Almanac/NPCs/Mishka Belview.md",
         "mtime": 1706375105242
-      }
-    ],
-    [
-      "Danika Dorakova (CoS)",
-      {
-        "name": "Danika Dorakova (CoS)",
-        "size": "Medium",
-        "type": "humanoid",
-        "subtype": "human, shapechanger",
-        "alignment": "Lawful Good",
-        "ac": 12,
-        "hp": 31,
-        "hit_dice": "7d8",
-        "stats": [
-          10,
-          15,
-          11,
-          13,
-          15,
-          14
-        ],
-        "speed": "30 ft. (fly 50 ft. in raven and hybrid forms)",
-        "skillsaves": {
-          "Insight": 4,
-          "Perception": 6
-        },
-        "senses": "passive Perception 16",
-        "languages": "Common (can't speak in raven form)",
-        "cr": "2",
-        "traits": [
-          {
-            "desc": "Danika can use its action to polymorph into a raven-humanoid hybrid or into a raven, or back into its human form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its human form if it dies.",
-            "name": "Shapechanger"
-          },
-          {
-            "desc": "Danika can mimic simple sounds it has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.",
-            "name": "Mimicry"
-          },
-          {
-            "desc": "Danika regains 10 hit points at the start of its turn. If Danika takes damage from a silvered weapon or a spell, this trait doesn't function at the start of Danika's next turn. Danika dies only if it starts its turn with 0 hit points and doesn't regenerate.",
-            "name": "Regeneration"
-          }
-        ],
-        "actions": [
-          {
-            "desc": "Danika makes two weapon attacks, one of which can be with its hand crossbow.",
-            "name": "Multiattack (Human or Hybrid Form Only)"
-          },
-          {
-            "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target. Hit: 1 piercing damage in raven form, or dice: 1d4 + 2|avg (1d4 + 2) piercing damage in hybrid form. If the target is humanoid, it must succeed on a DC 10 Constitution saving throw or be cursed with wereraven lycanthropy.",
-            "name": "Beak (Raven or Hybrid Form Only)"
-          },
-          {
-            "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage.",
-            "name": "Shortsword (Human or Hybrid Form Only)"
-          },
-          {
-            "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 30/120 ft., one target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage.",
-            "name": "Hand Crossbow (Human or Hybrid Form Only)"
-          }
-        ],
-        "source": [
-          "CoS"
-        ],
-        "image": "4. World Almanac/NPCs/token/danika-dorakova.png",
-        "note": "4. World Almanac/NPCs/Danika Dorakova.md",
-        "mtime": 1706375104564
       }
     ],
     [
@@ -63319,105 +62579,6 @@
       }
     ],
     [
-      "Baron Vargas Vallakovich (CoS)",
-      {
-        "name": "Baron Vargas Vallakovich (CoS)",
-        "size": "Medium",
-        "type": "humanoid",
-        "subtype": "human",
-        "alignment": "Neutral Evil",
-        "ac": 15,
-        "hp": 9,
-        "hit_dice": "2d8",
-        "stats": [
-          11,
-          12,
-          11,
-          12,
-          14,
-          16
-        ],
-        "speed": "30 ft.",
-        "skillsaves": {
-          "Deception": 5,
-          "Insight": 4,
-          "Persuasion": 5
-        },
-        "senses": "passive Perception 12",
-        "languages": "any two languages",
-        "cr": "1/8",
-        "actions": [
-          {
-            "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target. Hit: dice: 1d8 + 1|avg (1d8 + 1) piercing damage.",
-            "name": "Rapier"
-          }
-        ],
-        "reactions": [
-          {
-            "desc": "Vargas adds 2 to its AC against one melee attack that would hit it. To do so, Vargas must see the attacker and be wielding a melee weapon.",
-            "name": "Parry"
-          }
-        ],
-        "source": [
-          "CoS"
-        ],
-        "image": "4. World Almanac/NPCs/token/baron-vargas-vallakovich.png",
-        "note": "4. World Almanac/NPCs/Baron Vargas Vallakovich.md",
-        "mtime": 1706375104433
-      }
-    ],
-    [
-      "Beucephalus (CoS)",
-      {
-        "name": "Beucephalus (CoS)",
-        "size": "Large",
-        "type": "fiend",
-        "alignment": "Neutral Evil",
-        "ac": 13,
-        "hp": 104,
-        "hit_dice": "8d10 + 24",
-        "stats": [
-          18,
-          15,
-          16,
-          10,
-          13,
-          15
-        ],
-        "speed": "60 ft., fly 90 ft.",
-        "damage_immunities": "fire",
-        "senses": "passive Perception 11",
-        "languages": "understands Abyssal, Common, and Infernal but can't speak ",
-        "cr": "3",
-        "traits": [
-          {
-            "desc": "Beucephalus can grant resistance to fire damage to anyone riding it.",
-            "name": "Confer Fire Resistance"
-          },
-          {
-            "desc": "Beucephalus sheds bright light in a 10-foot radius and dim light for an additional 10 feet.",
-            "name": "Illumination"
-          }
-        ],
-        "actions": [
-          {
-            "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target. Hit: dice: 2d8 + 4|avg (2d8 + 4) bludgeoning damage plus dice: 2d6|avg (2d6) fire damage.",
-            "name": "Hooves"
-          },
-          {
-            "desc": "Beucephalus and up to three willing creatures within 5 feet of it magically enter the Ethereal Plane from the Material Plane, or vice versa.",
-            "name": "Ethereal Stride"
-          }
-        ],
-        "source": [
-          "CoS"
-        ],
-        "image": "4. World Almanac/NPCs/token/beucephalus.png",
-        "note": "4. World Almanac/NPCs/Beucephalus.md",
-        "mtime": 1706375104433
-      }
-    ],
-    [
       "Gertruda (CoS)",
       {
         "name": "Gertruda (CoS)",
@@ -63627,48 +62788,6 @@
         ],
         "image": "4. World Almanac/NPCs/token/otto-belview.png",
         "note": "4. World Almanac/NPCs/Otto Belview.md",
-        "mtime": 1706375105242
-      }
-    ],
-    [
-      "Piccolo (CoS)",
-      {
-        "name": "Piccolo (CoS)",
-        "size": "Small",
-        "type": "beast",
-        "alignment": "Unaligned",
-        "ac": 12,
-        "hp": 3,
-        "hit_dice": "1d6",
-        "stats": [
-          8,
-          14,
-          11,
-          4,
-          12,
-          6
-        ],
-        "speed": "30 ft., climb 30 ft.",
-        "senses": "passive Perception 11",
-        "languages": "",
-        "cr": "0",
-        "traits": [
-          {
-            "desc": "Piccolo has advantage on an attack roll against a creature if at least one of Piccolo's allies is within 5 feet of the creature and the ally isn't incapacitated.",
-            "name": "Pack Tactics"
-          }
-        ],
-        "actions": [
-          {
-            "desc": "Melee Weapon Attack: dice: d20+1 (+1 to hit), reach 5 ft., one target. Hit: dice: 1d4 - 1|avg (1d4 - 1) piercing damage.",
-            "name": "Bite"
-          }
-        ],
-        "source": [
-          "CoS"
-        ],
-        "image": "4. World Almanac/NPCs/token/piccolo.png",
-        "note": "4. World Almanac/NPCs/Piccolo.md",
         "mtime": 1706375105242
       }
     ],
@@ -64624,6 +63743,1023 @@
       }
     ],
     [
+      "Vilnius (CoS)",
+      {
+        "name": "Vilnius (CoS)",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "human",
+        "alignment": "Neutral Evil",
+        "ac": 12,
+        "hp": 40,
+        "hit_dice": "9d8",
+        "stats": [
+          9,
+          14,
+          11,
+          17,
+          12,
+          11
+        ],
+        "speed": "30 ft.",
+        "saves": {
+          "Wisdom": 4,
+          "Intelligence": 6
+        },
+        "skillsaves": {
+          "History": 6,
+          "Arcana": 6
+        },
+        "senses": "passive Perception 11",
+        "languages": "any four languages",
+        "cr": "6",
+        "traits": [
+          {
+            "desc": "Vilnius is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, dice: d20+6 (+6 to hit) with spell attacks). Vilnius has the following wizard spells prepared:\n\nCantrips (at will): fire bolt, light, mage hand, prestidigitation\n\n1st level (4 slots): detect magic, mage armor, magic missile, shield\n\n2nd level (3 slots): misty step, suggestion\n\n3rd level (3 slots): counterspell, fireball, fly\n\n4th level (3 slots): greater invisibility, ice storm\n\n5th level (1 slots): cone of cold",
+            "name": "spells"
+          }
+        ],
+        "actions": [
+          {
+            "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft. or range 20/60 ft., one target. Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage.",
+            "name": "Dagger"
+          }
+        ],
+        "source": [
+          "CoS"
+        ],
+        "image": "4. World Almanac/NPCs/token/vilnius.png",
+        "note": "4. World Almanac/NPCs/Vilnius.md",
+        "mtime": 1706375105243
+      }
+    ],
+    [
+      "Anastrasya Karelova (CoS)",
+      {
+        "name": "Anastrasya Karelova (CoS)",
+        "size": "Medium",
+        "type": "undead",
+        "alignment": "Neutral Evil",
+        "ac": 15,
+        "hp": 82,
+        "hit_dice": "11d8 + 33",
+        "stats": [
+          16,
+          16,
+          16,
+          11,
+          10,
+          12
+        ],
+        "speed": "30 ft.",
+        "saves": {
+          "Dexterity": 6,
+          "Wisdom": 3
+        },
+        "skillsaves": {
+          "Stealth": 6,
+          "Perception": 3
+        },
+        "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks",
+        "senses": "darkvision 60 ft., passive Perception 13",
+        "languages": "the languages it knew in life",
+        "cr": "5",
+        "traits": [
+          {
+            "desc": "Anastrasya regains 10 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If Anastrasya takes radiant damage or damage from holy water, this trait doesn't function at the start of Anastrasya's next turn.",
+            "name": "Regeneration"
+          },
+          {
+            "desc": "Anastrasya can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+            "name": "Spider Climb"
+          },
+          {
+            "desc": "Anastrasya has the following flaws:\n\nForbiddance. Anastrasya can't enter a residence without an invitation from one of the occupants.\n\nHarmed by Running Water. Anastrasya takes 20 acid damage when it ends its turn in running water.\n\nStake to the Heart. Anastrasya is destroyed if a piercing weapon made of wood is driven into its heart while it is incapacitated in its resting place.\n\nSunlight Hypersensitivity. Anastrasya takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.",
+            "name": "Vampire Weaknesses"
+          }
+        ],
+        "actions": [
+          {
+            "desc": "Anastrasya makes two attacks, only one of which can be a bite attack.",
+            "name": "Multiattack"
+          },
+          {
+            "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one willing creature, or a creature that is grappled by Anastrasya, incapacitated, or restrained. Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage plus dice: 2d6|avg (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Anastrasya regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.",
+            "name": "Bite"
+          },
+          {
+            "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one creature. Hit: dice: 2d4 + 3|avg (2d4 + 3) slashing damage. Instead of dealing damage, Anastrasya can grapple the target (escape DC 13).",
+            "name": "Claws"
+          }
+        ],
+        "source": [
+          "CoS"
+        ],
+        "image": "4. World Almanac/NPCs/token/anastrasya-karelova.png",
+        "note": "4. World Almanac/NPCs/Anastrasya Karelova.md",
+        "mtime": 1706375177221
+      }
+    ],
+    [
+      "Arrigal (CoS)",
+      {
+        "name": "Arrigal (CoS)",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "human",
+        "alignment": "Neutral Evil",
+        "ac": 15,
+        "hp": 78,
+        "hit_dice": "12d8 + 24",
+        "stats": [
+          11,
+          16,
+          14,
+          13,
+          11,
+          10
+        ],
+        "speed": "30 ft.",
+        "saves": {
+          "Dexterity": 6,
+          "Intelligence": 4
+        },
+        "skillsaves": {
+          "Deception": 3,
+          "Stealth": 9,
+          "Perception": 3,
+          "Acrobatics": 6
+        },
+        "damage_resistances": "poison",
+        "senses": "passive Perception 13",
+        "languages": "Thieves' cant plus any two languages",
+        "cr": "8",
+        "traits": [
+          {
+            "desc": "During its first turn, Arrigal has advantage on attack rolls against any creature that hasn't taken a turn. Any hit Arrigal scores against a surprised creature is a critical hit.",
+            "name": "Assassinate"
+          },
+          {
+            "desc": "If Arrigal is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, Arrigal instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.",
+            "name": "Evasion"
+          },
+          {
+            "desc": "Arrigal deals an extra dice: 4d6|avg (4d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of Arrigal that isn't incapacitated and Arrigal doesn't have disadvantage on the attack roll.",
+            "name": "Sneak Attack (1/Turn)"
+          }
+        ],
+        "actions": [
+          {
+            "desc": "Arrigal makes two shortsword attacks.",
+            "name": "Multiattack"
+          },
+          {
+            "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target. Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage, and the target must make a DC 15 Constitution saving throw, taking dice: 7d6|avg (7d6) poison damage on a failed save, or half as much damage on a successful one.",
+            "name": "Shortsword"
+          },
+          {
+            "desc": "Ranged Weapon Attack: dice: d20+6 (+6 to hit), range 80/320 ft., one target. Hit: dice: 1d8 + 3|avg (1d8 + 3) piercing damage, and the target must make a DC 15 Constitution saving throw, taking dice: 7d6|avg (7d6) poison damage on a failed save, or half as much damage on a successful one.",
+            "name": "Light Crossbow"
+          },
+          {
+            "desc": "11\n\n- The target is unable to perform a certain kind of act involving fine motor control, such as tying knots, writing, playing an instrument, sewing, or casting spells that have somatic components. When this curse ends, the Vistana takes dice: 1d6|avg (1d6) psychic damage.  \n- The target's appearance changes in a sinister yet purely cosmetic way. For example, the curse can place a scar on the target's face, turn the target's teeth into yellow fangs, or give the target bad breath. When this curse ends, the Vistana takes dice: 1d6|avg (1d6) psychic damage.  \n- A nonmagical item in the target's possession (chosen by the DM) disappears and can't be found until the curse ends. The lost item can weigh no more than 1 pound. When this curse ends, the Vistana takes dice: 1d6|avg (1d6) psychic damage.  \n- The target gains vulnerability to a damage type of the Vistana's choice. When this curse ends, the Vistana takes dice: 3d6|avg (3d6) psychic damage.  \n- The target has disadvantage on ability checks and saving throws tied to one ability score of the Vistana's choice. When this curse ends, the Vistana takes dice: 3d6|avg (3d6) psychic damage.  \n- The target's attunement to one magic item (chosen by the DM) ends, and the target can't attune to the chosen item until the curse ends. When this curse ends, the Vistana takes dice: 5d6|avg (5d6) psychic damage.  \n- The target is blinded, deafened, or both. When this curse ends, the Vistana takes dice: 5d6|avg (5d6) psychic damage.  \n\nThe curse lasts until ended with a greater restoration spell, a remove curse spell, or similar magic. It doesn't end when the target dies. If a cursed target is returned to life, the curse remains in effect.",
+            "name": "Curse (Recharges After a Long Rest)"
+          },
+          {
+            "desc": "11\n\nA Vistana who uses Evil Eye can't use it again before finishing a short or long rest. Once a target succeeds on a saving throw against a Vistana's Evil Eye, it is immune to the Evil Eye of all Vistani for 24 hours.",
+            "name": "Evil Eye (Recharges after a Short or Long Rest)"
+          }
+        ],
+        "source": [
+          "CoS"
+        ],
+        "image": "4. World Almanac/NPCs/token/arrigal.png",
+        "note": "4. World Almanac/NPCs/Arrigal.md",
+        "mtime": 1706375177257
+      }
+    ],
+    [
+      "Arabelle (CoS)",
+      {
+        "name": "Arabelle (CoS)",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "human",
+        "alignment": "Lawful Neutral",
+        "ac": 10,
+        "hp": 2,
+        "hit_dice": "1d8",
+        "stats": [
+          10,
+          10,
+          10,
+          10,
+          10,
+          10
+        ],
+        "speed": "30 ft.",
+        "senses": "passive Perception 10",
+        "languages": "any one language (usually Common)",
+        "cr": "0",
+        "source": [
+          "CoS"
+        ],
+        "image": "4. World Almanac/NPCs/token/arabelle.png",
+        "note": "4. World Almanac/NPCs/Arabelle.md",
+        "mtime": 1706375177222
+      }
+    ],
+    [
+      "Baba Lysaga's Creeping Hut (CoS)",
+      {
+        "name": "Baba Lysaga's Creeping Hut (CoS)",
+        "size": "Gargantuan",
+        "type": "construct",
+        "alignment": "Unaligned",
+        "ac": 16,
+        "hp": 263,
+        "hit_dice": "17d20 + 85",
+        "stats": [
+          26,
+          7,
+          20,
+          1,
+          3,
+          3
+        ],
+        "speed": "30 ft.",
+        "saves": {
+          "Charisma": 0,
+          "Wisdom": 0,
+          "Constitution": 9
+        },
+        "damage_immunities": "poison, psychic",
+        "condition_immunities": "blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, prone",
+        "senses": "blindsight 120 ft. (blind beyond this radius), passive Perception 6",
+        "languages": "",
+        "cr": "11",
+        "traits": [
+          {
+            "desc": "An animated object doesn't require air, food, drink, or sleep.\n\nThe magic that animates an object is dispelled when the construct drops to 0 hit points. An animated object reduced to 0 hit points becomes inanimate and is too damaged to be of much use or value to anyone.",
+            "name": "Constructed Nature"
+          },
+          {
+            "desc": "The hut is incapacitated while the magic gem that animates it is in the area of an antimagic field. If targeted by dispel magic, the hut must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.",
+            "name": "Antimagic Susceptibility"
+          },
+          {
+            "desc": "The hut deals double damage to objects and structures.",
+            "name": "Siege Monster"
+          }
+        ],
+        "actions": [
+          {
+            "desc": "The hut makes three attacks with its roots. It can replace one of these attacks with a rock attack.",
+            "name": "Multiattack"
+          },
+          {
+            "desc": "Melee Weapon Attack: dice: d20+12 (+12 to hit), reach 60 ft., one target. Hit: dice: 4d10 + 8|avg (4d10 + 8) bludgeoning damage.",
+            "name": "Root"
+          },
+          {
+            "desc": "Ranged Weapon Attack: dice: d20+12 (+12 to hit), range 120 ft., one target. Hit: dice: 3d8 + 8|avg (3d8 + 8) bludgeoning damage.",
+            "name": "Rock"
+          }
+        ],
+        "source": [
+          "CoS"
+        ],
+        "image": "4. World Almanac/NPCs/token/baba-lysagas-creeping-hut.png",
+        "note": "4. World Almanac/NPCs/Baba Lysagas Creeping Hut.md",
+        "mtime": 1706375177259
+      }
+    ],
+    [
+      "Baba Lysaga (CoS)",
+      {
+        "name": "Baba Lysaga (CoS)",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "human, shapechanger",
+        "alignment": "Chaotic Evil",
+        "ac": 15,
+        "hp": 120,
+        "hit_dice": "16d8 + 48",
+        "stats": [
+          18,
+          10,
+          16,
+          20,
+          17,
+          13
+        ],
+        "speed": "30 ft.",
+        "saves": {
+          "Wisdom": 7
+        },
+        "skillsaves": {
+          "Religion": 13,
+          "Arcana": 13
+        },
+        "senses": "passive Perception 13",
+        "languages": "Abyssal, Common, Draconic, Dwarvish, Giant",
+        "cr": "11",
+        "traits": [
+          {
+            "desc": "Baba Lysaga is a 16th-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 17, dice: d20+9 (+9 to hit) with spell attacks). Baba Lysaga has the following wizard spells prepared:\n\nCantrips (at will): acid splash, fire bolt, light, mage hand, prestidigitation\n\n1st level (4 slots): detect magic, magic missile, sleep, witch bolt\n\n2nd level (3 slots): crown of madness, enlarge/reduce, misty step\n\n3rd level (3 slots): dispel magic, fireball, lightning bolt\n\n4th level (3 slots): blight, Evard's black tentacles, polymorph\n\n5th level (2 slots): cloudkill, geas, scrying\n\n6th level (1 slots): programmed illusion, true seeing\n\n7th level (1 slots): finger of death, mirage arcane\n\n8th level (1 slots): power word stun",
+            "name": "spells"
+          },
+          {
+            "desc": "Baba Lysaga can use an action to polymorph into a [[5. Mechanics/Bestiary/Beast/Swarm Of Insects.md|swarm of insects]] (flies), or back into her true form. While in swarm form, she has a walking speed of 5 feet and a flying speed of 30 feet. Anything she is wearing transforms with her, but nothing she is carrying does.",
+            "name": "Shapechanger"
+          },
+          {
+            "desc": "Baba Lysaga is shielded against divination magic, as though protected by a nondetection spell.",
+            "name": "Blessing of Mother Night"
+          }
+        ],
+        "actions": [
+          {
+            "desc": "Baba Lysaga makes three attacks with her quarterstaff.",
+            "name": "Multiattack"
+          },
+          {
+            "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target. Hit: dice: 1d6 + 4|avg (1d6 + 4) bludgeoning damage, or dice: 1d8 + 4|avg (1d8 + 4) bludgeoning damage if wielded with two hands.",
+            "name": "Quarterstaff"
+          },
+          {
+            "desc": "Baba Lysaga summons dice: 1d4|avg (1d4) swarms of insects. A summoned swarm appears in an unoccupied space within 60 feet of Baba Lysaga and acts as her ally. It remains until it dies or until Baba Lysaga dismisses it as an action.",
+            "name": "Summon Swarms of Insects (Recharges after a Short or Long Rest)"
+          }
+        ],
+        "source": [
+          "CoS"
+        ],
+        "image": "4. World Almanac/NPCs/token/baba-lysaga.png",
+        "note": "4. World Almanac/NPCs/Baba Lysaga.md",
+        "mtime": 1706375177258
+      }
+    ],
+    [
+      "Beucephalus (CoS)",
+      {
+        "name": "Beucephalus (CoS)",
+        "size": "Large",
+        "type": "fiend",
+        "alignment": "Neutral Evil",
+        "ac": 13,
+        "hp": 104,
+        "hit_dice": "8d10 + 24",
+        "stats": [
+          18,
+          15,
+          16,
+          10,
+          13,
+          15
+        ],
+        "speed": "60 ft., fly 90 ft.",
+        "damage_immunities": "fire",
+        "senses": "passive Perception 11",
+        "languages": "understands Abyssal, Common, and Infernal but can't speak ",
+        "cr": "3",
+        "traits": [
+          {
+            "desc": "Beucephalus can grant resistance to fire damage to anyone riding it.",
+            "name": "Confer Fire Resistance"
+          },
+          {
+            "desc": "Beucephalus sheds bright light in a 10-foot radius and dim light for an additional 10 feet.",
+            "name": "Illumination"
+          }
+        ],
+        "actions": [
+          {
+            "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target. Hit: dice: 2d8 + 4|avg (2d8 + 4) bludgeoning damage plus dice: 2d6|avg (2d6) fire damage.",
+            "name": "Hooves"
+          },
+          {
+            "desc": "Beucephalus and up to three willing creatures within 5 feet of it magically enter the Ethereal Plane from the Material Plane, or vice versa.",
+            "name": "Ethereal Stride"
+          }
+        ],
+        "source": [
+          "CoS"
+        ],
+        "image": "4. World Almanac/NPCs/token/beucephalus.png",
+        "note": "4. World Almanac/NPCs/Beucephalus.md",
+        "mtime": 1706375177260
+      }
+    ],
+    [
+      "Baron Vargas Vallakovich (CoS)",
+      {
+        "name": "Baron Vargas Vallakovich (CoS)",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "human",
+        "alignment": "Neutral Evil",
+        "ac": 15,
+        "hp": 9,
+        "hit_dice": "2d8",
+        "stats": [
+          11,
+          12,
+          11,
+          12,
+          14,
+          16
+        ],
+        "speed": "30 ft.",
+        "skillsaves": {
+          "Deception": 5,
+          "Insight": 4,
+          "Persuasion": 5
+        },
+        "senses": "passive Perception 12",
+        "languages": "any two languages",
+        "cr": "1/8",
+        "actions": [
+          {
+            "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target. Hit: dice: 1d8 + 1|avg (1d8 + 1) piercing damage.",
+            "name": "Rapier"
+          }
+        ],
+        "reactions": [
+          {
+            "desc": "Vargas adds 2 to its AC against one melee attack that would hit it. To do so, Vargas must see the attacker and be wielding a melee weapon.",
+            "name": "Parry"
+          }
+        ],
+        "source": [
+          "CoS"
+        ],
+        "image": "4. World Almanac/NPCs/token/baron-vargas-vallakovich.png",
+        "note": "4. World Almanac/NPCs/Baron Vargas Vallakovich.md",
+        "mtime": 1706375177260
+      }
+    ],
+    [
+      "Kasimir Velikov (CoS)",
+      {
+        "name": "Kasimir Velikov (CoS)",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "Dusk elf",
+        "alignment": "Neutral",
+        "ac": 12,
+        "hp": 40,
+        "hit_dice": "9d8",
+        "stats": [
+          9,
+          14,
+          11,
+          17,
+          12,
+          11
+        ],
+        "speed": "30 ft.",
+        "saves": {
+          "Wisdom": 4,
+          "Intelligence": 6
+        },
+        "skillsaves": {
+          "History": 6,
+          "Arcana": 6
+        },
+        "senses": "darkvision 60 ft., passive Perception 11",
+        "languages": "any four languages",
+        "cr": "6",
+        "traits": [
+          {
+            "desc": "Kasimir is a 9th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 14, dice: d20+6 (+6 to hit) with spell attacks). Kasimir has the following wizard spells prepared:\n\nCantrips (at will): fire bolt, light, mage hand, prestidigitation\n\n1st level (4 slots): detect magic, mage armor, magic missile, shield\n\n2nd level (3 slots): misty step, suggestion\n\n3rd level (3 slots): counterspell, fireball, fly\n\n4th level (3 slots): greater invisibility, ice storm\n\n5th level (1 slots): cone of cold",
+            "name": "spells"
+          },
+          {
+            "desc": "Kasimir has advantage on saving throws against being charmed, and magic can't put the him to sleep.",
+            "name": "Fey Ancestry"
+          },
+          {
+            "desc": "Kasimir wears a ring of warmth and carries a spellbook containing all the spells he has prepared plus the following spells: arcane lock, comprehend languages, hold person, identify, locate object, nondetection, polymorph, protection from evil and good, and wall of stone.",
+            "name": "Special Equipment"
+          }
+        ],
+        "actions": [
+          {
+            "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft. or range 20/60 ft., one target. Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage.",
+            "name": "Dagger"
+          }
+        ],
+        "source": [
+          "CoS"
+        ],
+        "image": "4. World Almanac/NPCs/token/kasimir-velikov.png",
+        "note": "4. World Almanac/NPCs/Kasimir Velikov.md",
+        "mtime": 1706375177278
+      }
+    ],
+    [
+      "Izek Strazni (CoS)",
+      {
+        "name": "Izek Strazni (CoS)",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "human",
+        "alignment": "Neutral Evil",
+        "ac": 14,
+        "hp": 112,
+        "hit_dice": "15d8 + 45",
+        "stats": [
+          18,
+          15,
+          16,
+          10,
+          9,
+          15
+        ],
+        "speed": "30 ft.",
+        "skillsaves": {
+          "Intimidation": 8,
+          "Perception": 2
+        },
+        "senses": "passive Perception 12",
+        "languages": "Common",
+        "cr": "5",
+        "traits": [
+          {
+            "desc": "A melee weapon deals one extra die of its damage when Izek hits with it (included in the attack).",
+            "name": "Brute"
+          }
+        ],
+        "actions": [
+          {
+            "desc": "Izek makes two attacks with his battleaxe.",
+            "name": "Multiattack"
+          },
+          {
+            "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target. Hit: dice: 2d8 + 4|avg (2d8 + 4) slashing damage, or dice: 2d10 + 4|avg (2d10 + 4) when used with two hands.",
+            "name": "Battleaxe"
+          },
+          {
+            "desc": "Ranged Spell Attack: dice: d20+5 (+5 to hit), range 60 ft., one target. Hit: dice: 3d6|avg (3d6) fire damage. If the target is a flammable object that isn't being worn or carried, it catches fire.",
+            "name": "Hurl Flame"
+          }
+        ],
+        "source": [
+          "CoS"
+        ],
+        "image": "4. World Almanac/NPCs/token/izek-strazni.png",
+        "note": "4. World Almanac/NPCs/Izek Strazni.md",
+        "mtime": 1706375177277
+      }
+    ],
+    [
+      "Lady Fiona Wachter (CoS)",
+      {
+        "name": "Lady Fiona Wachter (CoS)",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "human",
+        "alignment": "Lawful Evil",
+        "ac": 10,
+        "hp": 27,
+        "hit_dice": "5d8 + 5",
+        "stats": [
+          10,
+          10,
+          12,
+          13,
+          16,
+          13
+        ],
+        "speed": "30 ft.",
+        "skillsaves": {
+          "Medicine": 7,
+          "Religion": 5,
+          "Persuasion": 3
+        },
+        "senses": "passive Perception 13",
+        "languages": "any two languages",
+        "cr": "2",
+        "traits": [
+          {
+            "desc": "Fiona is a 5th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 13, dice: d20+5 (+5 to hit) with spell attacks). Fiona has the following cleric spells prepared:\n\nCantrips (at will): light, mending, thaumaturgy\n\n1st level (4 slots): command, purify food and drink, sanctuary\n\n2nd level (3 slots): augury, gentle repose, hold person\n\n3rd level (2 slots): animate dead, create food and water",
+            "name": "spells"
+          },
+          {
+            "desc": "As a bonus action, Fiona can expend a spell slot to cause its melee weapon attacks to magically deal an extra dice: 3d6|avg (3d6) radiant damage to a target on a hit. This benefit lasts until the end of the turn. If Fiona expends a spell slot of 2nd level or higher, the extra damage increases by dice: 1d6|avg (1d6) for each level above 1st.",
+            "name": "Divine Eminence"
+          }
+        ],
+        "actions": [
+          {
+            "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target. Hit: dice: 1d6|avg (1d6) bludgeoning damage.",
+            "name": "Mace"
+          }
+        ],
+        "source": [
+          "CoS"
+        ],
+        "image": "4. World Almanac/NPCs/token/lady-fiona-wachter.png",
+        "note": "4. World Almanac/NPCs/Lady Fiona Wachter.md",
+        "mtime": 1706375177279
+      }
+    ],
+    [
+      "Kiril Stoyanovich (CoS)",
+      {
+        "name": "Kiril Stoyanovich (CoS)",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "human, shapechanger",
+        "alignment": "Chaotic Evil",
+        "ac": 11,
+        "hp": 90,
+        "hit_dice": "9d8 + 18",
+        "stats": [
+          15,
+          13,
+          14,
+          10,
+          11,
+          10
+        ],
+        "speed": "30 ft. (40 ft. in wolf form)",
+        "skillsaves": {
+          "Stealth": 3,
+          "Perception": 4
+        },
+        "damage_immunities": "bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered",
+        "senses": "passive Perception 14",
+        "languages": "Common (can't speak in wolf form)",
+        "cr": "3",
+        "traits": [
+          {
+            "desc": "Kiril can use its action to polymorph into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.",
+            "name": "Shapechanger"
+          },
+          {
+            "desc": "Kiril has advantage on Wisdom (Perception) checks that rely on hearing or smell.",
+            "name": "Keen Hearing and Smell"
+          }
+        ],
+        "actions": [
+          {
+            "desc": "Kiril makes two attacks: two with its spear (humanoid form) or one with its bite and one with its claws (hybrid form).",
+            "name": "Multiattack (Humanoid or Hybrid Form Only)"
+          },
+          {
+            "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target. Hit: dice: 1d8 + 2|avg (1d8 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with werewolf lycanthropy.",
+            "name": "Bite (Wolf or Hybrid Form Only)"
+          },
+          {
+            "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature. Hit: dice: 2d4 + 2|avg (2d4 + 2) slashing damage.",
+            "name": "Claws (Hybrid Form Only)"
+          },
+          {
+            "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft. or range 20/60 ft., one creature. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage, or dice: 1d8 + 2|avg (1d8 + 2) piercing damage if used with two hands to make a melee attack.",
+            "name": "Spear (Humanoid Form Only)"
+          }
+        ],
+        "source": [
+          "CoS"
+        ],
+        "image": "4. World Almanac/NPCs/token/kiril-stoyanovich.png",
+        "note": "4. World Almanac/NPCs/Kiril Stoyanovich.md",
+        "mtime": 1706375177279
+      }
+    ],
+    [
+      "Parriwimple (CoS)",
+      {
+        "name": "Parriwimple (CoS)",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "human",
+        "alignment": "Lawful Good",
+        "ac": 14,
+        "hp": 112,
+        "hit_dice": "15d8 + 45",
+        "stats": [
+          18,
+          15,
+          16,
+          6,
+          12,
+          15
+        ],
+        "speed": "30 ft.",
+        "saves": {
+          "Dexterity": 5,
+          "Strength": 7,
+          "Constitution": 6
+        },
+        "skillsaves": {
+          "Intimidation": 5,
+          "Athletics": 10
+        },
+        "senses": "passive Perception 11",
+        "languages": "any one language (usually Common)",
+        "cr": "5",
+        "traits": [
+          {
+            "desc": "Parriwimple has advantage on saving throws against being frightened.",
+            "name": "Brave"
+          },
+          {
+            "desc": "A melee weapon deals one extra die of its damage when Parriwimple hits with it (included in the attack).",
+            "name": "Brute"
+          }
+        ],
+        "actions": [
+          {
+            "desc": "Parriwimple makes three melee attacks or two ranged attacks.",
+            "name": "Multiattack"
+          },
+          {
+            "desc": "Melee or Ranged Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft. and range 20/60 ft., one target. Hit: dice: 2d6 + 4|avg (2d6 + 4) piercing damage, or dice: 2d8 + 4|avg (2d8 + 4) piercing damage if used with two hands to make a melee attack.",
+            "name": "Spear"
+          },
+          {
+            "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one creature. Hit: dice: 2d4 + 4|avg (2d4 + 4) bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.",
+            "name": "Shield Bash"
+          }
+        ],
+        "reactions": [
+          {
+            "desc": "Parriwimple adds 3 to its AC against one melee attack that would hit it. To do so, Parriwimple must see the attacker and be wielding a melee weapon.",
+            "name": "Parry"
+          }
+        ],
+        "source": [
+          "CoS"
+        ],
+        "image": "4. World Almanac/NPCs/token/parriwimple.png",
+        "note": "4. World Almanac/NPCs/Parriwimple.md",
+        "mtime": 1706375177290
+      }
+    ],
+    [
+      "Lady Lydia Petrovna (CoS)",
+      {
+        "name": "Lady Lydia Petrovna (CoS)",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "human",
+        "alignment": "Lawful Good",
+        "ac": 10,
+        "hp": 4,
+        "hit_dice": "1d8",
+        "stats": [
+          10,
+          10,
+          10,
+          10,
+          10,
+          10
+        ],
+        "speed": "30 ft.",
+        "senses": "passive Perception 10",
+        "languages": "any one language (usually Common)",
+        "cr": "0",
+        "actions": [
+          {
+            "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target. Hit: dice: 1d4|avg (1d4) bludgeoning damage.",
+            "name": "Club"
+          }
+        ],
+        "source": [
+          "CoS"
+        ],
+        "image": "4. World Almanac/NPCs/token/lady-lydia-petrovna.png",
+        "note": "4. World Almanac/NPCs/Lady Lydia Petrovna.md",
+        "mtime": 1706375177280
+      }
+    ],
+    [
+      "Piccolo (CoS)",
+      {
+        "name": "Piccolo (CoS)",
+        "size": "Small",
+        "type": "beast",
+        "alignment": "Unaligned",
+        "ac": 12,
+        "hp": 3,
+        "hit_dice": "1d6",
+        "stats": [
+          8,
+          14,
+          11,
+          4,
+          12,
+          6
+        ],
+        "speed": "30 ft., climb 30 ft.",
+        "senses": "passive Perception 11",
+        "languages": "",
+        "cr": "0",
+        "traits": [
+          {
+            "desc": "Piccolo has advantage on an attack roll against a creature if at least one of Piccolo's allies is within 5 feet of the creature and the ally isn't incapacitated.",
+            "name": "Pack Tactics"
+          }
+        ],
+        "actions": [
+          {
+            "desc": "Melee Weapon Attack: dice: d20+1 (+1 to hit), reach 5 ft., one target. Hit: dice: 1d4 - 1|avg (1d4 - 1) piercing damage.",
+            "name": "Bite"
+          }
+        ],
+        "source": [
+          "CoS"
+        ],
+        "image": "4. World Almanac/NPCs/token/piccolo.png",
+        "note": "4. World Almanac/NPCs/Piccolo.md",
+        "mtime": 1706375177292
+      }
+    ],
+    [
+      "Patrina Velikovna (CoS)",
+      {
+        "name": "Patrina Velikovna (CoS)",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "Dusk elf",
+        "alignment": "Neutral Evil",
+        "ac": 12,
+        "hp": 99,
+        "hit_dice": "18d8 + 18",
+        "stats": [
+          10,
+          14,
+          12,
+          20,
+          15,
+          16
+        ],
+        "speed": "30 ft.",
+        "saves": {
+          "Wisdom": 6,
+          "Intelligence": 9
+        },
+        "skillsaves": {
+          "History": 13,
+          "Arcana": 13
+        },
+        "damage_resistances": "damage from spells; nonmagical bludgeoning, piercing, slashing (from stoneskin)",
+        "senses": "passive Perception 12",
+        "languages": "any six languages",
+        "cr": "12",
+        "traits": [
+          {
+            "desc": "Patrina is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, dice: d20+9 (+9 to hit) with spell attacks). Patrina can cast disguise self and invisibility at will and has the following wizard spells prepared:\n\nAt will: disguise self, invisibility\n\nCantrips (at will): fire bolt, light, mage hand, prestidigitation, shocking grasp\n\n1st level (4 slots): detect magic, identify, mage armor, magic missile\n\n2nd level (3 slots): detect thoughts, mirror image, misty step\n\n3rd level (3 slots): counterspell, fly, lightning bolt\n\n4th level (3 slots): banishment, fire shield, stoneskin\n\n5th level (3 slots): cone of cold, scrying, wall of force\n\n6th level (1 slots): globe of invulnerability\n\n7th level (1 slots): teleport\n\n8th level (1 slots): mind blank\n\n9th level (1 slots): time stop\n\nPatrina casts these spells on itself before combat.",
+            "name": "spells"
+          },
+          {
+            "desc": "Patrina has advantage on saving throws against spells and other magical effects.",
+            "name": "Magic Resistance"
+          }
+        ],
+        "actions": [
+          {
+            "desc": "Melee or Ranged Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft. or range 20/60 ft., one target. Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage.",
+            "name": "Dagger"
+          }
+        ],
+        "source": [
+          "CoS"
+        ],
+        "image": "4. World Almanac/NPCs/token/patrina-velikovna.png",
+        "note": "4. World Almanac/NPCs/Patrina Velikovna.md",
+        "mtime": 1706375177291
+      }
+    ],
+    [
+      "Rahadin (CoS)",
+      {
+        "name": "Rahadin (CoS)",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "elf",
+        "alignment": "Lawful Evil",
+        "ac": 18,
+        "hp": 135,
+        "hit_dice": "18d8 + 54",
+        "stats": [
+          14,
+          22,
+          17,
+          15,
+          16,
+          18
+        ],
+        "speed": "35 ft.",
+        "saves": {
+          "Wisdom": 7,
+          "Constitution": 7
+        },
+        "skillsaves": {
+          "Intimidation": 12,
+          "Deception": 8,
+          "Stealth": 14,
+          "Insight": 7,
+          "Perception": 11
+        },
+        "senses": "darkvision 60 ft., passive Perception 21",
+        "languages": "Common, Elvish",
+        "cr": "10",
+        "traits": [
+          {
+            "desc": "Rahadin's innate spellcasting ability is Intelligence. He can innately cast the following spells, requiring no components:\n\n1/day: magic weapon, nondetection\n\n3/day: misty step, phantom steed",
+            "name": "innate"
+          },
+          {
+            "desc": "Any creature within 10 feet of Rahadin that isn't protected by a mind blank spell hears in its mind the screams of the thousands of people Rahadin has killed. As a bonus action, Rahadin can force all creatures that can hear the screams to make a DC 16 Wisdom saving throw. Each creature takes dice: 3d10|avg (3d10) psychic damage on a failed save, or half as much damage on a successful one.",
+            "name": "Deathly Choir"
+          },
+          {
+            "desc": "Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.",
+            "name": "Fey Ancestry"
+          },
+          {
+            "desc": "Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.",
+            "name": "Mask of the Wild"
+          }
+        ],
+        "actions": [
+          {
+            "desc": "Rahadin attacks three times with his scimitar, or twice with his poisoned darts.",
+            "name": "Multiattack"
+          },
+          {
+            "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target. Hit: dice: 1d6 + 6|avg (1d6 + 6) slashing damage.",
+            "name": "Scimitar"
+          },
+          {
+            "desc": "Ranged Weapon Attack: dice: d20+10 (+10 to hit), range 20/60 ft., one target. Hit: dice: 1d4 + 6|avg (1d4 + 6) piercing damage plus dice: 2d4|avg (2d4) poison damage.",
+            "name": "Poisoned Dart"
+          }
+        ],
+        "source": [
+          "CoS"
+        ],
+        "image": "4. World Almanac/NPCs/token/rahadin.png",
+        "note": "4. World Almanac/NPCs/Rahadin.md",
+        "mtime": 1706375177293
+      }
+    ],
+    [
+      "Pidlwick II (CoS)",
+      {
+        "name": "Pidlwick II (CoS)",
+        "size": "Small",
+        "type": "construct",
+        "alignment": "Neutral Evil",
+        "ac": 14,
+        "hp": 10,
+        "hit_dice": "3d6",
+        "stats": [
+          10,
+          14,
+          11,
+          8,
+          13,
+          10
+        ],
+        "speed": "30 ft.",
+        "skillsaves": {
+          "Performance": 2
+        },
+        "damage_immunities": "poison",
+        "condition_immunities": "paralyzed, petrified, poisoned",
+        "senses": "passive Perception 11",
+        "languages": "understands Common but doesn't speak and can't read or write",
+        "cr": "1/4",
+        "traits": [
+          {
+            "desc": "During the first round of combat, Pidlwick II has advantage on attack rolls against any creature that hasn't had a turn yet.",
+            "name": "Ambusher"
+          }
+        ],
+        "actions": [
+          {
+            "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target. Hit: dice: 1d4|avg (1d4) bludgeoning damage.",
+            "name": "Club"
+          },
+          {
+            "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 20/60 ft., one target. Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage.",
+            "name": "Dart"
+          }
+        ],
+        "source": [
+          "CoS"
+        ],
+        "image": "4. World Almanac/NPCs/token/pidlwick-ii.png",
+        "note": "4. World Almanac/NPCs/Pidlwick Ii.md",
+        "mtime": 1706375177292
+      }
+    ],
+    [
       "Yevgeni Krushkin (CoS)",
       {
         "name": "Yevgeni Krushkin (CoS)",
@@ -64677,7 +64813,7 @@
         ],
         "image": "4. World Almanac/NPCs/token/yevgeni-krushkin.png",
         "note": "4. World Almanac/NPCs/Yevgeni Krushkin.md",
-        "mtime": 1706375105243
+        "mtime": 1706375177309
       }
     ],
     [
@@ -64744,7 +64880,7 @@
         ],
         "image": "4. World Almanac/NPCs/token/volenta-popofsky.png",
         "note": "4. World Almanac/NPCs/Volenta Popofsky.md",
-        "mtime": 1706375105243
+        "mtime": 1706375177309
       }
     ],
     [
@@ -64808,7 +64944,7 @@
         ],
         "image": "4. World Almanac/NPCs/token/zygfrek-belview.png",
         "note": "4. World Almanac/NPCs/Zygfrek Belview.md",
-        "mtime": 1706375105243
+        "mtime": 1706375177311
       }
     ],
     [
@@ -64872,109 +65008,7 @@
         ],
         "image": "4. World Almanac/NPCs/token/zuleika-toranescu.png",
         "note": "4. World Almanac/NPCs/Zuleika Toranescu.md",
-        "mtime": 1706375105243
-      }
-    ],
-    [
-      "Pidlwick II (CoS)",
-      {
-        "name": "Pidlwick II (CoS)",
-        "size": "Small",
-        "type": "construct",
-        "alignment": "Neutral Evil",
-        "ac": 14,
-        "hp": 10,
-        "hit_dice": "3d6",
-        "stats": [
-          10,
-          14,
-          11,
-          8,
-          13,
-          10
-        ],
-        "speed": "30 ft.",
-        "skillsaves": {
-          "Performance": 2
-        },
-        "damage_immunities": "poison",
-        "condition_immunities": "paralyzed, petrified, poisoned",
-        "senses": "passive Perception 11",
-        "languages": "understands Common but doesn't speak and can't read or write",
-        "cr": "1/4",
-        "traits": [
-          {
-            "desc": "During the first round of combat, Pidlwick II has advantage on attack rolls against any creature that hasn't had a turn yet.",
-            "name": "Ambusher"
-          }
-        ],
-        "actions": [
-          {
-            "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target. Hit: dice: 1d4|avg (1d4) bludgeoning damage.",
-            "name": "Club"
-          },
-          {
-            "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 20/60 ft., one target. Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage.",
-            "name": "Dart"
-          }
-        ],
-        "source": [
-          "CoS"
-        ],
-        "image": "4. World Almanac/NPCs/token/pidlwick-ii.png",
-        "note": "4. World Almanac/NPCs/Pidlwick Ii.md",
-        "mtime": 1706375105243
-      }
-    ],
-    [
-      "Vilnius (CoS)",
-      {
-        "name": "Vilnius (CoS)",
-        "size": "Medium",
-        "type": "humanoid",
-        "subtype": "human",
-        "alignment": "Neutral Evil",
-        "ac": 12,
-        "hp": 40,
-        "hit_dice": "9d8",
-        "stats": [
-          9,
-          14,
-          11,
-          17,
-          12,
-          11
-        ],
-        "speed": "30 ft.",
-        "saves": {
-          "Wisdom": 4,
-          "Intelligence": 6
-        },
-        "skillsaves": {
-          "History": 6,
-          "Arcana": 6
-        },
-        "senses": "passive Perception 11",
-        "languages": "any four languages",
-        "cr": "6",
-        "traits": [
-          {
-            "desc": "Vilnius is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, dice: d20+6 (+6 to hit) with spell attacks). Vilnius has the following wizard spells prepared:\n\nCantrips (at will): fire bolt, light, mage hand, prestidigitation\n\n1st level (4 slots): detect magic, mage armor, magic missile, shield\n\n2nd level (3 slots): misty step, suggestion\n\n3rd level (3 slots): counterspell, fireball, fly\n\n4th level (3 slots): greater invisibility, ice storm\n\n5th level (1 slots): cone of cold",
-            "name": "spells"
-          }
-        ],
-        "actions": [
-          {
-            "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft. or range 20/60 ft., one target. Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage.",
-            "name": "Dagger"
-          }
-        ],
-        "source": [
-          "CoS"
-        ],
-        "image": "4. World Almanac/NPCs/token/vilnius.png",
-        "note": "4. World Almanac/NPCs/Vilnius.md",
-        "mtime": 1706375105243
+        "mtime": 1706375177310
       }
     ]
   ],

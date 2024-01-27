@@ -87,17 +87,13 @@ TBD
 > - village, 4.5, 14.37, [[Village of Barovia]]
 > ```
 
-## Notable Locations
-**[[Places of Interest|Add New Place of Interest]]**
-**[[Shops|Add New Shop]]**
-> ```dataviewjs
->  await dv.view("locations", {current: dv.current()})
-> ```
+```dataviewjs
+ await dv.view("locations", {current: dv.current()})
+```
 
-## Notable NPCs
-> ```dataviewjs
->  await dv.view("npcsInLocation", {current: dv.current()})
-> ```
+```dataviewjs
+await dv.view("npcsInLocation", {current: dv.current()})
+```
 
 ## History
 TBD

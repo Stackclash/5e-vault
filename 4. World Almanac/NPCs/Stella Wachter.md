@@ -6,15 +6,15 @@ condition: healthy
 relationships:
   - Lady Fiona Wachter|mother
 tags: 
-aliases: []
+aliases: 
 pronounced: 
 race: 
-sex: 
+gender: female
 age: 
 alignment: 
 occupation: 
-groups: []
-religions: []
+groups: 
+religions: 
 personality: 
 ideal: 
 bond: 
@@ -31,7 +31,7 @@ dislikes:
 >  |
 >  ---|---|
 > **Race** | `INPUT[suggester(optionQuery("5. Mechanics/Races")):race]` |
-> **Sex** | `INPUT[inlineSelect(option(male),option(female)):sex]` |
+> **Sex** | `INPUT[inlineSelect(option(male),option(female)):gender]` |
 > **Age** | `INPUT[number:age]` |
 > **Alignment** | `INPUT[inlineSelect(option(lawful good),option(neutral good),option(chaotic good),option(lawful neutral),option(neutral),option(chaotic neutral),option(lawful evil),option(netural evil),option(chaotic evil)):alignment]` |
 > **Condition** | `INPUT[inlineSelect(option(healthy),option(injured),option(dead)):condition]` |

@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2a72c91b61cbc86c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -113,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/NPCs/Urwin Martikov.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/NPCs/Urwin Martikov.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/NPCs/Urwin Martikov.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -208,13 +220,14 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "a430bfeefdf44510",
+  "active": "2a72c91b61cbc86c",
   "lastOpenFiles": [
+    "4. World Almanac/NPCs/Urwin Martikov.md",
+    "conflict-files-obsidian-git.md",
     "4. World Almanac/NPCs/The Abbot.md",
     "Untitled.md",
     "4. World Almanac/NPCs/Stella Wachter.md",
     "4. World Almanac/NPCs/Bray Martikov.md",
-    "4. World Almanac/NPCs/Urwin Martikov.md",
     "4. World Almanac/NPCs/Brom Martikov.md",
     "4. World Almanac/NPCs/Danika Dorakova.md",
     "4. World Almanac/NPCs/Anastrasya Karelova.md",
@@ -255,7 +268,6 @@
     "compendium/bestiary/aberration/token",
     "compendium/bestiary/aberration/nothic.md",
     "compendium/bestiary/aberration/death-slaad.md",
-    "compendium/bestiary/aberration/aberration.md",
     "Untitled.canvas"
   ]
 }
