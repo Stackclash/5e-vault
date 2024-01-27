@@ -35,8 +35,8 @@ if (tp.config.run_mode !== 1) {
         let selectedNpcFile = tp.file.find_tfile(selectedNpc)
         if (selectedNpcFile) {
             app.fileManager.processFrontMatter(selectedNpcFile, (fm) => {
-                if (!fm.relationships.includes(`${tp.config.active_file.basename}|${otherSelectedRelationship}`)) {
-                    fm.relationships.push(`${tp.config.active_file.basename}|${otherSelectedRelationship}`)
+                if (!fm.relationships.includes(`${tp.config.active_file.basename}|${otherSelectedRelationship.toLowerCase()}`)) {
+                    fm.relationships.push(`${tp.config.active_file.basename}|${otherSelectedRelationship.toLowerCase()}`)
                 }
             })
         }

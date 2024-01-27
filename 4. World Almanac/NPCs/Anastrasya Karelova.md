@@ -3,8 +3,7 @@ obsidianUIMode: preview
 statblock: inline
 location: 
 condition: healthy
-relationships:
-  - Urwin Martikov|[object Object]
+relationships: []
 tags: 
 aliases: 
 pronounced: 
@@ -21,7 +20,7 @@ bond:
 flaw: 
 goals: 
 likes: 
-dislikes: 
+dislikes:
 ---
 
 > [!infobox]
