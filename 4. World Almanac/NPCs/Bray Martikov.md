@@ -5,6 +5,7 @@ location:
 condition: healthy
 relationships:
   - Urwin Martikov|father
+  - Danika Dorakova|son
 tags: 
 aliases: 
 pronounced: 

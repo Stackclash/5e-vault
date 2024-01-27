@@ -5,6 +5,8 @@ location:
 condition: healthy
 relationships:
   - Urwin Martikov|husband
+  - Brom Martikov|mother
+  - Bray Martikov|mother
 tags: 
 aliases: 
 pronounced: 
