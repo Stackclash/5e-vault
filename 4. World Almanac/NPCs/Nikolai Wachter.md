@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: "[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]"
 condition: healthy
 relationships:
   - Lady Fiona Wachter|mother
