@@ -14,12 +14,12 @@
           "maximized": false
         },
         "Office-PC": {
-          "x": -1360,
-          "y": 114,
-          "width": 1024,
-          "height": 800,
+          "x": -1928,
+          "y": -8,
+          "width": 1936,
+          "height": 1048,
           "fullscreen": false,
-          "maximized": false
+          "maximized": true
         }
       }
     },
