@@ -109,12 +109,30 @@ So dreadful a creature is Rahadin that anyone who stands within 10 feet of him c
 >> `INPUT[textArea:goals]`
 
 ## Relationships
+`BUTTON[add-relationship,remove-relationship]`
 ```meta-bind-button
 style: primary
 label: Add Relationship
+id: add-relationship
+hidden: true
 actions:
   - type: command
     command: templater-obsidian:insert-templater
+  - type: input
+    str: add
+  - type: input
+    str: relationship
+```
+```meta-bind-button
+style: primary
+label: Remove Relationship
+id: remove-relationship
+hidden: true
+actions:
+  - type: command
+    command: templater-obsidian:insert-templater
+  - type: input
+    str: remove
   - type: input
     str: relationship
 ```
