@@ -3,7 +3,9 @@ obsidianUIMode: preview
 statblock: inline
 location: 
 condition: healthy
-relationships: []
+relationships:
+  - Bray Martikov|father
+  - Brom Martikov|father
 tags: 
 aliases: 
 pronounced: 
@@ -20,7 +22,7 @@ bond:
 flaw: 
 goals: 
 likes: 
-dislikes:
+dislikes: 
 ---
 
 > [!infobox]

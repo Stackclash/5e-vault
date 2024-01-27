@@ -3,7 +3,8 @@ obsidianUIMode: preview
 statblock: inline
 location: 
 condition: healthy
-relationships: []
+relationships:
+  - Urwin Martikov|son
 tags: 
 aliases: []
 pronounced: 
