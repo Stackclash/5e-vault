@@ -3,26 +3,24 @@ obsidianUIMode: preview
 statblock: inline
 location: 
 condition: healthy
-relationships:
-  - Urwin Martikov|father
-  - Urwin Martikov|son
+relationships: []
 tags: 
-aliases: []
+aliases: 
 pronounced: 
 race: 
 gender: 
 age: 
 alignment: 
 occupation: 
-groups: []
-religions: []
+groups: 
+religions: 
 personality: 
 ideal: 
 bond: 
 flaw: 
 goals: 
 likes: 
-dislikes: 
+dislikes:
 ---
 
 > [!infobox]

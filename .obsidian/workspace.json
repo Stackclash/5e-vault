@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/NPCs/Urwin Martikov.md",
+                "file": "4. World Almanac/NPCs/Davian Martikov.md",
                 "mode": "preview",
                 "source": false
               }
@@ -210,8 +210,9 @@
   },
   "active": "a430bfeefdf44510",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "4. World Almanac/NPCs/Davian Martikov.md",
     "4. World Almanac/NPCs/Urwin Martikov.md",
+    "conflict-files-obsidian-git.md",
     "z_Templates/Functional/Remove Relationship.md",
     "z_Templates/Functional/Add Relationship.md",
     "z_Templates/Functional",
@@ -226,7 +227,6 @@
     "4. World Almanac/NPCs/Ireena Kolyana.md",
     "4. World Almanac/NPCs/Ismark Kolyanovich.md",
     "4. World Almanac/NPCs/Lady Fiona Wachter.md",
-    "4. World Almanac/NPCs/Davian Martikov.md",
     "test.js",
     "z_Scripts/Templater/addRelationship.js",
     "z_Scripts/Templater/ad3dRelationship.js",
