@@ -4,7 +4,7 @@ statblock: inline
 location: 
 condition: healthy
 relationships:
-  - Urwin Martikov|son
+  - Urwin Martikov|father
 tags: 
 aliases: 
 pronounced: 

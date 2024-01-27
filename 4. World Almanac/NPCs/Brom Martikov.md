@@ -4,17 +4,17 @@ statblock: inline
 location: 
 condition: healthy
 relationships:
-  - Urwin Martikov|son
+  - Urwin Martikov|father
 tags: 
-aliases: []
+aliases: 
 pronounced: 
 race: 
 sex: 
 age: 
 alignment: 
 occupation: 
-groups: []
-religions: []
+groups: 
+religions: 
 personality: 
 ideal: 
 bond: 
