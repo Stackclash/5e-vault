@@ -1,17 +1,11 @@
-<%*
-await tp.file.move('4. World Almanac/NPCs/' + tp.file.title)
-if (tp.config.run_mode === 0) {
-    let title = await tp.system.prompt("What is the name of the NPC?")
-    await tp.file.rename(title)
-}
--%>
 ---
 obsidianUIMode: preview
 statblock: inline
 location: 
 condition: healthy
-image:
-relationships: []
+image: 
+relationships:
+  - Davian Martikov|father
 tags: 
 aliases: []
 pronounced: 

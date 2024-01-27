@@ -5,6 +5,7 @@ location:
 condition: healthy
 relationships:
   - Urwin Martikov|son
+  - Adrian Martikov|son
 tags: 
 aliases: 
 pronounced: 
