@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/NPCs/Urwin Martikov.md",
+                "file": "6. Resources/5e Modules/Curse Of Strahd/14 Chapter-12 The Wizard Of Wines.md",
                 "mode": "preview",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/NPCs/Urwin Martikov.md",
+                "file": "6. Resources/5e Modules/Curse Of Strahd/14 Chapter-12 The Wizard Of Wines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/NPCs/Urwin Martikov.md",
+                "file": "6. Resources/5e Modules/Curse Of Strahd/14 Chapter-12 The Wizard Of Wines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/NPCs/Urwin Martikov.md"
+                "file": "6. Resources/5e Modules/Curse Of Strahd/14 Chapter-12 The Wizard Of Wines.md"
               }
             }
           },
@@ -208,17 +208,19 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "a88a1818b2c15bdd",
+  "active": "a430bfeefdf44510",
   "lastOpenFiles": [
-    "4. World Almanac/NPCs/Vasilka.md",
+    "Untitled.md",
+    "6. Resources/5e Modules/Curse Of Strahd/14 Chapter-12 The Wizard Of Wines.md",
+    "4. World Almanac/NPCs/Lady Fiona Wachter.md",
     "4. World Almanac/NPCs/Urwin Martikov.md",
+    "4. World Almanac/NPCs/Vasilka.md",
     "4. World Almanac/NPCs/Davian Martikov.md",
     "conflict-files-obsidian-git.md",
     "z_Templates/Functional/Remove Relationship.md",
     "z_Templates/Functional/Add Relationship.md",
     "z_Templates/Functional",
     "4. World Almanac/NPCs/The Abbot.md",
-    "Untitled.md",
     "4. World Almanac/NPCs/Stella Wachter.md",
     "4. World Almanac/NPCs/Bray Martikov.md",
     "4. World Almanac/NPCs/Brom Martikov.md",
@@ -227,7 +229,6 @@
     "4. World Almanac/NPCs/Izek Strazni.md",
     "4. World Almanac/NPCs/Ireena Kolyana.md",
     "4. World Almanac/NPCs/Ismark Kolyanovich.md",
-    "4. World Almanac/NPCs/Lady Fiona Wachter.md",
     "test.js",
     "z_Scripts/Templater/addRelationship.js",
     "z_Scripts/Templater/ad3dRelationship.js",
@@ -243,7 +244,6 @@
     "compendium/rules",
     "compendium/bestiary/legendary-group/strahd-von-zarovich-cos.md",
     "compendium/bestiary/legendary-group",
-    "compendium/backgrounds/haunted-one-vrgr.md",
     "compendium/backgrounds",
     "compendium/bestiary/undead/token/poltergeist.png",
     "compendium/bestiary/construct/token/rug-of-smothering.png",
