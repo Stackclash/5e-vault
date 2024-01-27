@@ -22,7 +22,12 @@ if (tp.config.run_mode !== 1) {
 
     let otherSelectedRelationship
     if (typeof selectedRelationship.from === 'object' && !Array.isArray(selectedRelationship.from)) {
-        otherSelectedRelationship = await tp.system.suggester(Object.values(selectedRelationship.from), Object.values(selectedRelationship.from), false, `What relationship does ${tp.config.active_file.basename} have to ${selectedNpc}?`)
+        if (tp.frontmatter.gender) {
+            otherSelectedRelationship = selectedRelationship.from[tp.frontmatter.gender]
+        } else {
+            otherSelectedRelationship = await tp.system.suggester(Object.values(selectedRelationship.from), Object.values(selectedRelationship.from), false, `What relationship does ${tp.config.active_file.basename} have to ${selectedNpc}?`)
+
+        }
     } else {
         otherSelectedRelationship = selectedRelationship.from
     }
