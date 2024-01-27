@@ -5,6 +5,8 @@ location:
 condition: healthy
 relationships:
   - Urwin Martikov|father
+  - Danika Dorakova|mother
+  - Bray Martikov|brother
 tags: 
 aliases: 
 pronounced: 
