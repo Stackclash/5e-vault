@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/Shops/Blue Water Inn.md",
+                "file": "5. Mechanics/Tables/Beyond-1st Level Character Advancement.md",
                 "mode": "preview",
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/Shops/Blue Water Inn.md",
+                "file": "5. Mechanics/Tables/Beyond-1st Level Character Advancement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/Shops/Blue Water Inn.md",
+                "file": "5. Mechanics/Tables/Beyond-1st Level Character Advancement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/Shops/Blue Water Inn.md"
+                "file": "5. Mechanics/Tables/Beyond-1st Level Character Advancement.md"
               }
             }
           },
@@ -185,8 +185,13 @@
   },
   "active": "fecd96b63c3e75d2",
   "lastOpenFiles": [
-    "4. World Almanac/Shops/Blood of the Vine Tavern.md",
+    "5. Mechanics/Tables/Arcane Workshop Adventures (ERLW).md",
+    "5. Mechanics/Tables/Ancient Being Quests (TCE).md",
+    "5. Mechanics/Tables/Ancient Being Operative Roles (TCE).md",
+    "5. Mechanics/Tables/Ancient Being Contact (TCE).md",
+    "5. Mechanics/Tables/Ancient Being (TCE).md",
     "4. World Almanac/Shops/Blue Water Inn.md",
+    "4. World Almanac/Shops/Blood of the Vine Tavern.md",
     "4. World Almanac/Shops/Blinsky Toys.md",
     "4. World Almanac/Shops/Bildrath's Mercantile.md",
     "4. World Almanac/Shops/Shops.md",
@@ -210,11 +215,6 @@
     "4. World Almanac/NPCs/Stefania Martikov.md",
     "4. World Almanac/NPCs/Elvir Martikov.md",
     "4. World Almanac/NPCs/Danika Dorakova.md",
-    "4. World Almanac/NPCs/Anastrasya Karelova.md",
-    "4. World Almanac/NPCs/Vasilka.md",
-    "conflict-files-obsidian-git.md",
-    "z_Templates/Functional/Remove Relationship.md",
-    "z_Templates/Functional/Add Relationship.md",
     "z_Templates/Functional",
     "test.js",
     "z_Scripts/Templater/addRelationship.js",
