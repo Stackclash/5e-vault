@@ -9,3 +9,6 @@ INPUT[suggester(title('Active World'),optionQuery("4. World Almanac/Worlds")):ac
 ```meta-bind
 INPUT[suggester(title('Active Party'),optionQuery("3. The Party/Parties")):active_party]
 ```
+> [!infobox]
+> | | |
+> 

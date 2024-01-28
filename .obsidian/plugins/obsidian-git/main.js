@@ -32997,7 +32997,7 @@ var LineAuthoringSubscriber = class {
   async notifyLineAuthoring(id, la) {
     if (this.view === void 0) {
       console.warn(
-        `Obsidian Git: View is not defined for editor cache key. Unforeseen situation. id: ${id}`
+        `Git: View is not defined for editor cache key. Unforeseen situation. id: ${id}`
       );
       return;
     }
@@ -33747,7 +33747,7 @@ var LineAuthorProvider = class {
   }
   async trackChanged(file) {
     this.trackChangedHelper(file).catch((reason) => {
-      console.warn("Obsidian Git: Error in trackChanged." + reason);
+      console.warn("Git: Error in trackChanged." + reason);
       return Promise.reject(reason);
     });
   }
@@ -33756,7 +33756,7 @@ var LineAuthorProvider = class {
       return;
     if (file.path === void 0) {
       console.warn(
-        "Obsidian Git: Attempted to track change of undefined filepath. Unforeseen situation."
+        "Git: Attempted to track change of undefined filepath. Unforeseen situation."
       );
       return;
     }
@@ -33813,7 +33813,7 @@ var LineAuthoringFeature = class {
       const file = obsView == null ? void 0 : obsView.file;
       if (!this.lineAuthorInfoProvider) {
         console.warn(
-          "Obsidian Git: undefined lineAuthorInfoProvider. Unexpected situation."
+          "Git: undefined lineAuthorInfoProvider. Unexpected situation."
         );
         return;
       }
@@ -33848,10 +33848,7 @@ var LineAuthoringFeature = class {
       this.activateCodeMirrorExtensions();
       console.log(this.plg.manifest.name + ": Enabled line authoring.");
     } catch (e) {
-      console.warn(
-        "Obsidian Git: Error while loading line authoring feature.",
-        e
-      );
+      console.warn("Git: Error while loading line authoring feature.", e);
       this.deactivateFeature();
     }
   }
@@ -43366,7 +43363,7 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
     const length = 1e4;
     if (this.manifest.id === "obsidian-git" && import_obsidian30.Platform.isDesktopApp && !this.settings.showedMobileNotice) {
       new import_obsidian30.Notice(
-        "Obsidian Git is now available on mobile! Please read the plugin's README for more information.",
+        "Git is now available on mobile! Please read the plugin's README for more information.",
         length
       );
       this.settings.showedMobileNotice = true;
@@ -43374,7 +43371,7 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
     }
     if (this.manifest.id === "obsidian-git-isomorphic") {
       new import_obsidian30.Notice(
-        "Obsidian Git Mobile is now deprecated. Please uninstall it and install Obsidian Git instead.",
+        "Git Mobile is now deprecated. Please uninstall it and install Git instead.",
         length
       );
     }
@@ -44170,7 +44167,7 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
     if (conflicted !== void 0) {
       lines = [
         "# Conflicts",
-        "Please resolve them and commit them using the commands `Obsidian Git: Commit all changes` followed by `Obsidian Git: Push`",
+        "Please resolve them and commit them using the commands `Git: Commit all changes` followed by `Git: Push`",
         "(This file will automatically be deleted before commit)",
         "[[#Additional Instructions]] available below file list",
         "",
