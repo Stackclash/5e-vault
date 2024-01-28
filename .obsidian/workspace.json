@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/NPCs/Urwin Martikov.md",
-                "mode": "source",
+                "file": "4. World Almanac/Shops/Blue Water Inn.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/NPCs/Urwin Martikov.md",
+                "file": "4. World Almanac/Shops/Blue Water Inn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/NPCs/Urwin Martikov.md",
+                "file": "4. World Almanac/Shops/Blue Water Inn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/NPCs/Urwin Martikov.md"
+                "file": "4. World Almanac/Shops/Blue Water Inn.md"
               }
             }
           },
@@ -185,8 +185,14 @@
   },
   "active": "fecd96b63c3e75d2",
   "lastOpenFiles": [
-    "z_Assets/Barovia_Banner.webp",
+    "4. World Almanac/Shops/Blood of the Vine Tavern.md",
+    "4. World Almanac/Shops/Blue Water Inn.md",
+    "4. World Almanac/Shops/Blinsky Toys.md",
+    "4. World Almanac/Shops/Bildrath's Mercantile.md",
+    "4. World Almanac/Shops/Shops.md",
+    "4. World Almanac/NPCs/Bray Martikov.md",
     "4. World Almanac/NPCs/Urwin Martikov.md",
+    "z_Assets/Barovia_Banner.webp",
     "4. World Almanac/Settlements/Vallaki.md",
     "4. World Almanac/NPCs/Stella Wachter.md",
     "4. World Almanac/NPCs/Lady Fiona Wachter.md",
@@ -197,7 +203,6 @@
     "4. World Almanac/Regions/Regions.md",
     "4. World Almanac/NPCs/Strahd Von Zarovich.md",
     "4. World Almanac/NPCs/img/153-636988936829621698.webp",
-    "4. World Almanac/NPCs/Bray Martikov.md",
     "4. World Almanac/NPCs/img/bray-martikov.webp",
     "4. World Almanac/NPCs/img/davian-martikov.webp",
     "4. World Almanac/NPCs/Dag Tomescu.md",
@@ -211,10 +216,6 @@
     "z_Templates/Functional/Remove Relationship.md",
     "z_Templates/Functional/Add Relationship.md",
     "z_Templates/Functional",
-    "4. World Almanac/NPCs/The Abbot.md",
-    "4. World Almanac/NPCs/Brom Martikov.md",
-    "4. World Almanac/NPCs/Izek Strazni.md",
-    "4. World Almanac/NPCs/Ireena Kolyana.md",
     "test.js",
     "z_Scripts/Templater/addRelationship.js",
     "z_Scripts/Templater/ad3dRelationship.js",

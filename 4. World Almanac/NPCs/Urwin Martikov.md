@@ -8,7 +8,6 @@ relationships:
   - Brom Martikov|son
   - Danika Dorakova|wife
   - Davian Martikov|father
-  - Stefania Martikov|sister
 tags: 
 aliases: 
 pronounced: 

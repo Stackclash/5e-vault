@@ -7,7 +7,6 @@ image:
 relationships:
   - Davian Martikov|father
   - Dag Tomescu|husband
-  - Urwin Martikov|brother
 tags: 
 aliases: []
 pronounced: 

@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-location: "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
+location: ""
 owners:
   - "[[4. World Almanac/NPCs/Gadof Blinsky.md|Gadof Blinsky]]"
 staff: 
