@@ -1,13 +1,14 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: "[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]"
 condition: healthy
 relationships:
   - Bray Martikov|son
   - Brom Martikov|son
   - Danika Dorakova|wife
   - Davian Martikov|father
+  - Stefania Martikov|sister
 tags: 
 aliases: 
 pronounced: 
