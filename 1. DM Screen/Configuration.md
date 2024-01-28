@@ -9,9 +9,11 @@ active_party: "[[Curse of Strahd]]"
 > | **Active World:** | `INPUT[suggester(optionQuery("4. World Almanac/Worlds")):active_world]` |
 > | **Active Party:** | `INPUT[suggester(optionQuery("3. The Party/Parties")):active_party]` | 
 # Dungeon Master Prep
-| |  |
+| World Building |  |
 | ---- | ---- |
 | `BUTTON[create-npc]` |  |
+| `BUTTON[create-location]` |  |
+
 ```meta-bind-button
 style: primary
 label: Create NPC
@@ -22,4 +24,15 @@ actions:
     command: templater-obsidian:create-new-note-from-template
   - type: input
     str: NPC
+```
+```meta-bind-button
+style: primary
+label: Create Location
+id: create-location
+hidden: true
+actions:
+  - type: command
+    command: templater-obsidian:create-new-note-from-template
+  - type: input
+    str: Location
 ```
