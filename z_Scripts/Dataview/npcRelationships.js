@@ -102,7 +102,7 @@ keys = keys.filter((key, i) => keys.findIndex(k => k.name === key.name) === i)
 
 const relationshipString = buildRelationshipArray(input.current, keys).map(i => i.string).join('')
 
-console.log(app.actions.actions)
+console.log(app)
 
 dv.paragraph(
   `${backticks}mermaid

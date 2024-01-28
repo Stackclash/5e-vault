@@ -26,13 +26,12 @@
               "type": "markdown",
               "state": {
                 "file": "4. World Almanac/NPCs/Urwin Martikov.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/NPCs/Urwin Martikov.md",
+                "file": "1. DM Screen/Configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/NPCs/Urwin Martikov.md",
+                "file": "1. DM Screen/Configuration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/NPCs/Urwin Martikov.md"
+                "file": "1. DM Screen/Configuration.md"
               }
             }
           },
@@ -196,10 +195,10 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "eeccffc2db472051",
+  "active": "c3f4e063dbac9c63",
   "lastOpenFiles": [
-    "1. DM Screen/Configuration.md",
     "4. World Almanac/NPCs/Urwin Martikov.md",
+    "1. DM Screen/Configuration.md",
     "Untitled.md",
     "1. DM Screen/1. DM Screen.md",
     "z_Extra/DM Toolbox.md",
