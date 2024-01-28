@@ -126,7 +126,7 @@ actions:
     str: relationship
 ```
 ```meta-bind-button
-style: primary
+style: destructive
 label: Remove Relationship
 id: remove-relationship
 hidden: true
