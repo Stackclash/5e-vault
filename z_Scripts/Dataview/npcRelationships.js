@@ -97,7 +97,14 @@ function buildRelationshipArray(page, keys, relationships=[]) {
   }
 }
 
-const keys = buildRelationshipKeys(input.current)[0]
+let keys = buildRelationshipKeys(input.current)[0]
+console.log('START', keys)
+keys = keys.filter((key, i) => {
+  console.log(key.name, keys.findIndex(k => k.name === key.name), i)
+  return keys.findIndex(k => k.name === key.name) === i
+})
+console.log('END', keys)
+
 const relationshipString = buildRelationshipArray(input.current, keys).map(i => i.string).join('')
 
 console.log(`graph LR
