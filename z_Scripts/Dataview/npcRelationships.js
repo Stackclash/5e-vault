@@ -98,23 +98,11 @@ function buildRelationshipArray(page, keys, relationships=[]) {
 }
 
 let keys = buildRelationshipKeys(input.current)[0]
-console.log('START', keys)
-keys = keys.filter((key, i) => {
-  console.log(key.name, keys.findIndex(k => k.name === key.name), i)
-  return keys.findIndex(k => k.name === key.name) === i
-})
-console.log('END', keys)
+keys = keys.filter((key, i) => keys.findIndex(k => k.name === key.name) === i)
 
 const relationshipString = buildRelationshipArray(input.current, keys).map(i => i.string).join('')
 
-console.log(`graph LR
-${keys.map(k => `${k.key}[${k.name}]${k.class ? `:::${k.class}` : ''}
-`).join('')}
-
-${relationshipString}
-
-classDef family stroke:#0f0
-class ${keys.map(r => r.key).join(',')} internal-link;`)
+console.log(app.actions.actions)
 
 dv.paragraph(
   `${backticks}mermaid
