@@ -37,9 +37,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DM Screen/Lookup Tables/Travel.md",
-                "mode": "preview",
-                "source": true
+                "file": "2. Scratch Notes/To-Do List.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. DM Screen/Lookup Tables/Travel.md",
+                "file": "2. Scratch Notes/To-Do List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. DM Screen/Lookup Tables/Travel.md",
+                "file": "2. Scratch Notes/To-Do List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DM Screen/Lookup Tables/Travel.md"
+                "file": "2. Scratch Notes/To-Do List.md"
               }
             }
           },
@@ -210,6 +210,7 @@
   },
   "active": "93ce79e9c157cb4d",
   "lastOpenFiles": [
+    "1. DM Screen/Lookup Tables/Travel.md",
     "1. DM Screen/Configuration.md",
     "1. DM Screen/Lookup Tables/Currency.md",
     "1. DM Screen/Tools/Vistani Lore.md",
@@ -236,7 +237,6 @@
     "4. World Almanac/NPCs/Lady Fiona Wachter.md",
     "4. World Almanac/NPCs/Nikolai Wachter.md",
     "6. Resources/5e Modules/Curse Of Strahd/14 Chapter-12 The Wizard Of Wines.md",
-    "4. World Almanac/NPCs/Davian Martikov.md",
     "4. World Almanac/NPCs/img/153-636988936829621698.webp",
     "4. World Almanac/NPCs/img/bray-martikov.webp",
     "4. World Almanac/NPCs/img/davian-martikov.webp",

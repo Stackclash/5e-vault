@@ -32,6 +32,6 @@
 - [ ] Fix meta-bind fields to take up necessary space
 - [ ] Make ttrpg-convert import script use existing metadata when file is replaced
 - [ ] Fix Relationships map on NPCs to be centered
-- [ ] Create "Remove Relationships" Templater template
+- [x] Create "Remove Relationships" Templater template
 - [ ] Use meta-bind menu for Session Notes
 - [ ] Fix Inventory table on Shops to fit with ITS Theme info boxes
