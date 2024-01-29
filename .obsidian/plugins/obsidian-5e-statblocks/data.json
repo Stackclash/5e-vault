@@ -64149,73 +64149,6 @@
       }
     ],
     [
-      "Bray Martikov (CoS)",
-      {
-        "name": "Bray Martikov (CoS)",
-        "size": "Small",
-        "type": "humanoid",
-        "subtype": "human, shapechanger",
-        "alignment": "Lawful Good",
-        "ac": 12,
-        "hp": 7,
-        "hit_dice": "2d6",
-        "stats": [
-          10,
-          15,
-          11,
-          13,
-          15,
-          14
-        ],
-        "speed": "30 ft. (fly 50 ft. in raven and hybrid forms)",
-        "skillsaves": {
-          "Insight": 4,
-          "Perception": 6
-        },
-        "senses": "passive Perception 16",
-        "languages": "Common (can't speak in raven form)",
-        "cr": "2",
-        "traits": [
-          {
-            "desc": "Bray can use its action to polymorph into a raven-humanoid hybrid or into a raven, or back into its human form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its human form if it dies.",
-            "name": "Shapechanger"
-          },
-          {
-            "desc": "Bray can mimic simple sounds it has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.",
-            "name": "Mimicry"
-          },
-          {
-            "desc": "Bray regains 10 hit points at the start of its turn. If Bray takes damage from a silvered weapon or a spell, this trait doesn't function at the start of Bray's next turn. Bray dies only if it starts its turn with 0 hit points and doesn't regenerate.",
-            "name": "Regeneration"
-          }
-        ],
-        "actions": [
-          {
-            "desc": "Bray makes two weapon attacks, one of which can be with its hand crossbow.",
-            "name": "Multiattack (Human or Hybrid Form Only)"
-          },
-          {
-            "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target. Hit: 1 piercing damage in raven form, or dice: 1d4 + 2|avg (1d4 + 2) piercing damage in hybrid form. If the target is humanoid, it must succeed on a DC 10 Constitution saving throw or be cursed with wereraven lycanthropy.",
-            "name": "Beak (Raven or Hybrid Form Only)"
-          },
-          {
-            "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage.",
-            "name": "Shortsword (Human or Hybrid Form Only)"
-          },
-          {
-            "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 30/120 ft., one target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage.",
-            "name": "Hand Crossbow (Human or Hybrid Form Only)"
-          }
-        ],
-        "source": [
-          "CoS"
-        ],
-        "image": "4. World Almanac/NPCs/token/bray-martikov.png",
-        "note": "4. World Almanac/NPCs/Bray Martikov.md",
-        "mtime": 1706456890632
-      }
-    ],
-    [
       "Volenta Popofsky (CoS)",
       {
         "name": "Volenta Popofsky (CoS)",
@@ -64669,73 +64602,6 @@
       }
     ],
     [
-      "Urwin Martikov (CoS)",
-      {
-        "name": "Urwin Martikov (CoS)",
-        "size": "Medium",
-        "type": "humanoid",
-        "subtype": "human, shapechanger",
-        "alignment": "Lawful Good",
-        "ac": 12,
-        "hp": 31,
-        "hit_dice": "7d8",
-        "stats": [
-          10,
-          15,
-          11,
-          13,
-          15,
-          14
-        ],
-        "speed": "30 ft. (fly 50 ft. in raven and hybrid forms)",
-        "skillsaves": {
-          "Insight": 4,
-          "Perception": 6
-        },
-        "senses": "passive Perception 16",
-        "languages": "Common (can't speak in raven form)",
-        "cr": "2",
-        "traits": [
-          {
-            "desc": "Urwin can use its action to polymorph into a raven-humanoid hybrid or into a raven, or back into its human form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its human form if it dies.",
-            "name": "Shapechanger"
-          },
-          {
-            "desc": "Urwin can mimic simple sounds it has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.",
-            "name": "Mimicry"
-          },
-          {
-            "desc": "Urwin regains 10 hit points at the start of its turn. If Urwin takes damage from a silvered weapon or a spell, this trait doesn't function at the start of Urwin's next turn. Urwin dies only if it starts its turn with 0 hit points and doesn't regenerate.",
-            "name": "Regeneration"
-          }
-        ],
-        "actions": [
-          {
-            "desc": "Urwin makes two weapon attacks, one of which can be with its hand crossbow.",
-            "name": "Multiattack (Human or Hybrid Form Only)"
-          },
-          {
-            "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target. Hit: 1 piercing damage in raven form, or dice: 1d4 + 2|avg (1d4 + 2) piercing damage in hybrid form. If the target is humanoid, it must succeed on a DC 10 Constitution saving throw or be cursed with wereraven lycanthropy.",
-            "name": "Beak (Raven or Hybrid Form Only)"
-          },
-          {
-            "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage.",
-            "name": "Shortsword (Human or Hybrid Form Only)"
-          },
-          {
-            "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 30/120 ft., one target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage.",
-            "name": "Hand Crossbow (Human or Hybrid Form Only)"
-          }
-        ],
-        "source": [
-          "CoS"
-        ],
-        "image": "4. World Almanac/NPCs/token/urwin-martikov.png",
-        "note": "4. World Almanac/NPCs/Urwin Martikov.md",
-        "mtime": 1706456890633
-      }
-    ],
-    [
       "Piccolo (CoS)",
       {
         "name": "Piccolo (CoS)",
@@ -64929,6 +64795,152 @@
         ],
         "image": "4. World Almanac/NPCs/token/sangzor.png",
         "note": "4. World Almanac/NPCs/Sangzor.md",
+        "mtime": 1706456890633
+      }
+    ],
+    [
+      "Vladimir Horngaard (CoS)",
+      {
+        "name": "Vladimir Horngaard (CoS)",
+        "size": "Medium",
+        "type": "undead",
+        "alignment": "Lawful Evil",
+        "ac": 17,
+        "hp": 192,
+        "hit_dice": "16d8 + 64",
+        "stats": [
+          18,
+          14,
+          18,
+          13,
+          16,
+          18
+        ],
+        "speed": "30 ft.",
+        "saves": {
+          "Charisma": 7,
+          "Wisdom": 6,
+          "Strength": 7,
+          "Constitution": 7
+        },
+        "damage_resistances": "necrotic, psychic",
+        "damage_immunities": "poison",
+        "condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned, stunned",
+        "senses": "darkvision 60 ft., passive Perception 13",
+        "languages": "Common, Draconic",
+        "cr": "7",
+        "traits": [
+          {
+            "desc": "Vladimir regains 10 hit points at the start of his turn. If he takes fire or radiant damage, this trait doesn't function at the start of his next turn. Vladimir's body is destroyed only if he starts his turn with 0 hit points and doesn't regenerate.",
+            "name": "Regeneration"
+          },
+          {
+            "desc": "When Vladimir's body is destroyed, his soul lingers. After 24 hours, the soul inhabits and animates another corpse on the same plane of existence and regains all its hit points. While the soul is bodiless, a wish spell can be used to force the soul to go to the afterlife and not return.",
+            "name": "Rejuvenation"
+          },
+          {
+            "desc": "Vladimir wields a +2 greatsword with a hilt sculpted to resemble silver dragon wings and a pommel shaped like a silver dragon's head clutching a black opal between its teeth. ",
+            "name": "Special Equipment"
+          },
+          {
+            "desc": "Vladimir is immune to effects that turn undead.",
+            "name": "Turn Immunity"
+          },
+          {
+            "desc": "Vladimir knows the distance to and direction of Strahd, even if Strahd and Vladimir are on different planes of existence. If Strahd is destroyed, Vladimir knows.",
+            "name": "Vengeful Tracker"
+          }
+        ],
+        "actions": [
+          {
+            "desc": "Vladimir makes two fist attacks or two attacks with his +2 Greatsword.",
+            "name": "Multiattack"
+          },
+          {
+            "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target. Hit: dice: 2d6 + 4|avg (2d6 + 4) bludgeoning damage. Strahd, the target of Vladimir's sworn vengeance, takes an extra dice: 4d6|avg (4d6) bludgeoning damage. Instead of dealing damage, Vladimir can grapple the target (escape DC 14) provided the target is Large or smaller.",
+            "name": "Fist"
+          },
+          {
+            "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target. Hit: dice: 4d6 + 6|avg (4d6 + 6) slashing damage. Against Strahd, Vladimir deals an extra dice: 4d6|avg (4d6) slashing damage with this weapon.",
+            "name": "Greatsword +2"
+          },
+          {
+            "desc": "Vladimir can target Strahd within 30 feet provided he can see Strahd. Strahd must make a DC 15 Wisdom saving throw. One a failure, Strahd is paralyzed until Vladimir deals damage to him, or until the end of Vladimir's next turn. When the paralysis ends, Strahd is frightened of Vladimir for 1 minute. Strahd can repeat the saving throw at the end of each of his turns, with disadvantage if he can see Vladimir, ending the frightened condition on itself on a success.",
+            "name": "Vengeful Glare"
+          }
+        ],
+        "source": [
+          "CoS"
+        ],
+        "image": "4. World Almanac/NPCs/token/vladimir-horngaard.png",
+        "note": "4. World Almanac/NPCs/Vladimir Horngaard.md",
+        "mtime": 1706456890633
+      }
+    ],
+    [
+      "Ludmilla Vilisevic (CoS)",
+      {
+        "name": "Ludmilla Vilisevic (CoS)",
+        "size": "Medium",
+        "type": "undead",
+        "alignment": "Neutral Evil",
+        "ac": 15,
+        "hp": 82,
+        "hit_dice": "11d8 + 33",
+        "stats": [
+          16,
+          16,
+          16,
+          11,
+          10,
+          12
+        ],
+        "speed": "30 ft.",
+        "saves": {
+          "Dexterity": 6,
+          "Wisdom": 3
+        },
+        "skillsaves": {
+          "Stealth": 6,
+          "Perception": 3
+        },
+        "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks",
+        "senses": "darkvision 60 ft., passive Perception 13",
+        "languages": "the languages it knew in life",
+        "cr": "5",
+        "traits": [
+          {
+            "desc": "Ludmilla regains 10 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If Ludmilla takes radiant damage or damage from holy water, this trait doesn't function at the start of Ludmilla's next turn.",
+            "name": "Regeneration"
+          },
+          {
+            "desc": "Ludmilla can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+            "name": "Spider Climb"
+          },
+          {
+            "desc": "Ludmilla has the following flaws:\n\nForbiddance. Ludmilla can't enter a residence without an invitation from one of the occupants.\n\nHarmed by Running Water. Ludmilla takes 20 acid damage when it ends its turn in running water.\n\nStake to the Heart. Ludmilla is destroyed if a piercing weapon made of wood is driven into its heart while it is incapacitated in its resting place.\n\nSunlight Hypersensitivity. Ludmilla takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.",
+            "name": "Vampire Weaknesses"
+          }
+        ],
+        "actions": [
+          {
+            "desc": "Ludmilla makes two attacks, only one of which can be a bite attack.",
+            "name": "Multiattack"
+          },
+          {
+            "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one willing creature, or a creature that is grappled by Ludmilla, incapacitated, or restrained. Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage plus dice: 2d6|avg (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Ludmilla regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.",
+            "name": "Bite"
+          },
+          {
+            "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one creature. Hit: dice: 2d4 + 3|avg (2d4 + 3) slashing damage. Instead of dealing damage, Ludmilla can grapple the target (escape DC 13).",
+            "name": "Claws"
+          }
+        ],
+        "source": [
+          "CoS"
+        ],
+        "image": "4. World Almanac/NPCs/token/ludmilla-vilisevic.png",
+        "note": "4. World Almanac/NPCs/Ludmilla Vilisevic.md",
         "mtime": 1706456890633
       }
     ]
