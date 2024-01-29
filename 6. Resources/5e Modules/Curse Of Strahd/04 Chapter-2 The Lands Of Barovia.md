@@ -656,7 +656,7 @@ The following areas correspond to labels on the map of Barovia below and on the 
 
 > [!gallery]
 > ![[6. Resources/5e Modules/Curse Of Strahd/img/007-001.jpg#gallery|Map 2.1: Barovia]]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/008-cos201.jpg|Player Version]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/008-cos201.jpg#gallery|Player Version]]
 
 ### A. Old Svalich Road
 

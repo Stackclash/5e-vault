@@ -99,7 +99,7 @@ body {
   font-size: 14px;
   text-align: center;
 }
-/* .json5e-background .callout[data-callout=gallery],
+.json5e-background .callout[data-callout=gallery],
 .json5e-class .callout[data-callout=gallery],
 .json5e-deck .callout[data-callout=gallery],
 .json5e-deity .callout[data-callout=gallery],
@@ -204,7 +204,7 @@ body {
 .json5e-spell .callout[data-callout=gallery] .callout-title,
 .json5e-vehicle .callout[data-callout=gallery] .callout-title {
   display: none;
-} */
+}
 
 body {
   --statblock-accent: 201,60,60;
