@@ -8,12 +8,10 @@ active_party: "[[Curse of Strahd]]"
 > |---|---|
 > | **Active World:** | `INPUT[suggester(optionQuery("4. World Almanac/Worlds")):active_world]` |
 > | **Active Party:** | `INPUT[suggester(optionQuery("3. The Party/Parties")):active_party]` | 
-# Recently Updated
+# DM Tools/Calculators
 ```dataview
-LIST WITHOUT ID file.name, mtime
-FROM "4. World Almanac"
-SORT mtime DESC
-LIMIT 10
+LIST WITHOUT ID file.link
+FROM "1. DM Screen/Lookup Tables"
 ```
 
 # Templates

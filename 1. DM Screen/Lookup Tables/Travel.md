@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 obsidianEditingMode: source
 BaseSpeed: 40.003
-SpeedMultiplier: 1
+SpeedMultiplier: 1.333333
 AdditionalBonus: 0
 Encumbered: false
 HorseshoesofSpeed: false
