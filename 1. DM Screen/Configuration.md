@@ -8,11 +8,12 @@ active_party: "[[Curse of Strahd]]"
 > |---|---|
 > | **Active World:** | `INPUT[suggester(optionQuery("4. World Almanac/Worlds")):active_world]` |
 > | **Active Party:** | `INPUT[suggester(optionQuery("3. The Party/Parties")):active_party]` | 
-# Dungeon Master Prep
+# Templates
 | World Building | Party |
 | ---- | ---- |
-| `BUTTON[create-npc]` |  |
-| `BUTTON[create-location]` |  |
+| `BUTTON[create-npc]` | `BUTTON[create-player-character]` |
+| `BUTTON[create-location]` | `BUTTON[create-session-log]` |
+| `BUTTON[create-shop]` |  |
 
 ```meta-bind-button
 style: primary
@@ -35,4 +36,39 @@ actions:
     command: templater-obsidian:create-new-note-from-template
   - type: input
     str: Location
+```
+```meta-bind-button
+style: primary
+label: Create Shop
+id: create-shop
+hidden: true
+actions:
+  - type: command
+    command: templater-obsidian:create-new-note-from-template
+  - type: input
+    str: Shop
+```
+```meta-bind-button
+style: primary
+label: Create Player Character
+id: create-player-character
+hidden: true
+actions:
+  - type: command
+    command: templater-obsidian:create-new-note-from-template
+  - type: input
+    str: Player
+  - type: input
+    str: Character
+```
+```meta-bind-button
+style: primary
+label: Create Session Log
+id: create-session-log
+hidden: true
+actions:
+  - type: command
+    command: templater-obsidian:create-new-note-from-template
+  - type: input
+    str: Session
 ```
