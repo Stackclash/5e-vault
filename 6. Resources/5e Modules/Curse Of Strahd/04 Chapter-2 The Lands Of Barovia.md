@@ -655,7 +655,6 @@ These unfortunate Barovians fell prey to the evils of the land and now shamble f
 The following areas correspond to labels on the map of Barovia below and on the poster map.
 
 > [!gallery]
-> 
 > ![[6. Resources/5e Modules/Curse Of Strahd/img/007-001.jpg#gallery|Map 2.1: Barovia]]
 > ![[6. Resources/5e Modules/Curse Of Strahd/img/008-cos201.jpg|Player Version]]
 
