@@ -8,6 +8,14 @@ active_party: "[[Curse of Strahd]]"
 > |---|---|
 > | **Active World:** | `INPUT[suggester(optionQuery("4. World Almanac/Worlds")):active_world]` |
 > | **Active Party:** | `INPUT[suggester(optionQuery("3. The Party/Parties")):active_party]` | 
+# Recently Updated
+```dataview
+LIST WITHOUT ID file.name, mtime
+FROM "4. World Almanac"
+SORT mtime DESC
+LIMIT 10
+```
+
 # Templates
 | World Building | Party |
 | ---- | ---- |
