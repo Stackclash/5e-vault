@@ -20,7 +20,7 @@ FamiliarRoute: true
 PartyMembers: 6
 LifestyleCostSP: 1
 IncludeMeals: false
-TravelCalc: 53.331542281923944
+TravelCalc: 19.998495112866536
 ---
 
 # Travel Speed
@@ -68,9 +68,9 @@ Each failure adds a level of [[conditions#Exhaustion|Exhaustion]].
 ##### Location Note Code
 Copy the code below into another note and change the `88` to match the distance between Town A and Town B. 
 
-`VIEW[round((88* {Party Configuration#TravelCalc}) / 60 / {Party Configuration#HoursPerDay}, 1)]`
+\`VIEW[round((88* {Travel#TravelCalc}) / 60 / {Travel#HoursPerDay}, 1)]\`
 
 > [!warning]- Back End Calc
 > This calculation is referenced in the travel calculation by external notes. 
-> **Travel Calc:** `VIEW[({Party Configuration#varMins}/(({Party Configuration#BaseSpeed} / ({Party Configuration#ExhaustionLevel} > 1 ? 2 : 1) + ({Party Configuration#Encumbered} ? -10 : 0) + ({Party Configuration#HorseshoesofSpeed} ? 30 : 0) + {Party Configuration#AdditionalBonus}) / 10) * {Party Configuration#SpeedMultiplier})][math:TravelCalc]`
+> **Travel Calc:** `VIEW[({Travel#varMins}/(({Travel#BaseSpeed} / ({Travel#ExhaustionLevel} > 1 ? 2 : 1) + ({Travel#Encumbered} ? -10 : 0) + ({Travel#HorseshoesofSpeed} ? 30 : 0) + {Travel#AdditionalBonus}) / 10) * {Travel#SpeedMultiplier})][math:TravelCalc]`
 
