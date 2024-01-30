@@ -18,10 +18,10 @@ religions:
 personality: 
 ideal: Fear is a powerful weapon. I use it to get what I want.
 bond: I am loyal to my master, Baron Vallakovich, for he brought me into his home. I owe him my life, but he isn't family.
-flaw: 
+flaw: I would do anything, kill anything, to find my sister.
 goals: 
-likes: 
-dislikes: 
+likes: ""
+dislikes:
 ---
 
 > [!infobox]
@@ -85,22 +85,22 @@ Izek has dreams of Ireena. If he spots her, he tries to take her by force to the
 ## Traits/Goals
 > [!column] Traits
 >> [!metadata|text-Center bg-c-gray] Personality
->> `INPUT[text:personality]`
+>> `INPUT[textArea:personality]`
 >
 >> [!metadata|text-Center bg-c-gray] Ideal
->> `INPUT[text:ideal]`
+>> `INPUT[textArea:ideal]`
 >
 >> [!metadata|text-Center bg-c-gray] Bond
->> `INPUT[text:bond]`
+>> `INPUT[textArea:bond]`
 >
 >> [!metadata|text-Center bg-c-gray] Flaw
->> `INPUT[text:flaw]`
+>> `INPUT[textArea:flaw]`
 >
 >> [!metadata|text-Center bg-c-green] Likes
->> `INPUT[text:likes]`
+>> `INPUT[textArea:likes]`
 >
 >> [!metadata|text-Center bg-c-red] Dislikes
->> `INPUT[text:dislikes]`
+>> `INPUT[textArea:dislikes]`
 
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`

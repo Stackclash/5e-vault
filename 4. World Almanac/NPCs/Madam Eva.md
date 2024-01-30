@@ -77,22 +77,22 @@ None of Madam Eva's Vistani kin know her true identity or purpose. They puzzle o
 ## Traits/Goals
 > [!column] Traits
 >> [!metadata|text-Center bg-c-gray] Personality
->> `INPUT[text:personality]`
+>> `INPUT[textArea:personality]`
 >
 >> [!metadata|text-Center bg-c-gray] Ideal
->> `INPUT[text:ideal]`
+>> `INPUT[textArea:ideal]`
 >
 >> [!metadata|text-Center bg-c-gray] Bond
->> `INPUT[text:bond]`
+>> `INPUT[textArea:bond]`
 >
 >> [!metadata|text-Center bg-c-gray] Flaw
->> `INPUT[text:flaw]`
+>> `INPUT[textArea:flaw]`
 >
 >> [!metadata|text-Center bg-c-green] Likes
->> `INPUT[text:likes]`
+>> `INPUT[textArea:likes]`
 >
 >> [!metadata|text-Center bg-c-red] Dislikes
->> `INPUT[text:dislikes]`
+>> `INPUT[textArea:dislikes]`
 
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
