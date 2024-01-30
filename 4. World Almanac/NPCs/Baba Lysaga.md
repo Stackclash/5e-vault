@@ -205,4 +205,11 @@ await dv.view("npcRelationships", { current: dv.current() })
 ## History
 TBD
 
-## DM Not
+## DM Notes
+### Plot Hooks
+
+
+### Hidden Details
+
+
+### General Notes

@@ -15,7 +15,7 @@ occupation:
 groups: []
 religions: []
 personality: 
-ideal: 
+ideal: Evil that feeds on the innocent is the worst of all evils and must be destroyed.
 bond: 
 flaw: 
 goals: 
