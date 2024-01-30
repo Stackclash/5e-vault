@@ -26,12 +26,12 @@
     "Second Window": {
       "hosts": {
         "Office-PC": {
-          "x": -1928,
-          "y": -8,
+          "x": -973,
+          "y": 104,
           "width": 1936,
           "height": 1048,
           "fullscreen": false,
-          "maximized": true
+          "maximized": false
         }
       }
     }

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "be54ad0f37d9c42f",
+        "id": "5fd2504ccf7f44a5",
         "type": "tabs",
         "children": [
           {
-            "id": "c3f4e063dbac9c63",
+            "id": "0561c42c192eba03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/06 Chapter-4 Castle Ravenloft.md",
+                "file": "1. DM Screen/Configuration.md",
                 "mode": "preview",
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/06 Chapter-4 Castle Ravenloft.md",
+                "file": "1. DM Screen/Configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/06 Chapter-4 Castle Ravenloft.md",
+                "file": "1. DM Screen/Configuration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/06 Chapter-4 Castle Ravenloft.md"
+                "file": "1. DM Screen/Configuration.md"
               }
             }
           },
@@ -183,8 +183,10 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "c3f4e063dbac9c63",
+  "active": "0561c42c192eba03",
   "lastOpenFiles": [
+    "6. Resources/5e Modules/Curse Of Strahd/06 Chapter-4 Castle Ravenloft.md",
+    "6. Resources/5e Modules/Curse Of Strahd/img/024-005.jpg",
     "1. DM Screen/Configuration.md",
     "6. Resources/5e Modules/Curse Of Strahd/09 Chapter-7 Argynvostholt.md",
     "6. Resources/5e Modules/Curse Of Strahd/03 Chapter-1 Into The Mists.md",
@@ -210,8 +212,6 @@
     "4. World Almanac/Shops/Blue Water Inn.md",
     "4. World Almanac/Shops/Blood of the Vine Tavern.md",
     "4. World Almanac/Shops/Blinsky Toys.md",
-    "4. World Almanac/Shops/Bildrath's Mercantile.md",
-    "4. World Almanac/Shops/Shops.md",
     "z_Assets/Barovia_Banner.webp",
     "4. World Almanac/NPCs/img/153-636988936829621698.webp",
     "4. World Almanac/NPCs/img/bray-martikov.webp",
@@ -229,7 +229,6 @@
     "compendium/bestiary/construct/token/rug-of-smothering.png",
     "compendium/bestiary/npc/img/arrigal.webp",
     "compendium/decks/img/201-dnd_tarokka_monk.webp",
-    "compendium/decks/img/157-dnd_tarokka_beast.webp",
     "compendium/bestiary/undead/img",
     "Untitled.canvas"
   ]
