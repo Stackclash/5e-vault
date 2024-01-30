@@ -26,7 +26,7 @@
 	- [ ] Worlds
 	- [ ] Regions
 	- [ ] Settlements
-- [ ] Create note to appear as new note screen
+- [x] Create note to appear as new note screen
 - [x] Fix location NPCs table to include child locations
 - [x] Create NPC relationship graph in mermaid
 - [ ] Fix meta-bind fields to take up necessary space
