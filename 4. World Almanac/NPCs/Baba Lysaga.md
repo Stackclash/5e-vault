@@ -15,9 +15,9 @@ occupation:
 groups: []
 religions: []
 personality: 
-ideal: 
-bond: 
-flaw: 
+ideal: No love is greater than a mother's love for her son.
+bond: I am the mother of Strahd. Anyone who disputes this fact can rot.
+flaw: I will not rest until the last of my son's enemies are destroyed.
 goals: 
 likes: 
 dislikes: 
@@ -205,11 +205,4 @@ await dv.view("npcRelationships", { current: dv.current() })
 ## History
 TBD
 
-## DM Notes
-### Plot Hooks
-
-
-### Hidden Details
-
-
-### General Notes
+## DM Not
