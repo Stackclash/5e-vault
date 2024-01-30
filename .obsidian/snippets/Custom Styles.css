@@ -9,10 +9,22 @@
     display: none;
 }
 
-/* Fixes Cards displaying correctly */
-/* .callout[data-callout~=cards] > .callout-title {
-    display: none;
-} */
+/* Fixes so that Meta-bind inputs take up available space */
+.mb-input-wrapper input[type="number"] {
+  width: 100%;
+}
+
+.mb-input-wrapper input[type="text"] {
+  width: 100%;
+}
+
+.mb-input-wrapper textarea {
+  width: 100%;
+}
+
+.mb-input-wrapper select {
+  width: 100%;
+}
 
 /* Hides File Name in Meta Bind Image Suggester */
 .mb-image-suggest-footer-text {
