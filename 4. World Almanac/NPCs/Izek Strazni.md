@@ -16,17 +16,17 @@ occupation:
 groups: 
 religions: 
 personality: 
-ideal: 
-bond: 
+ideal: Fear is a powerful weapon. I use it to get what I want.
+bond: I am loyal to my master, Baron Vallakovich, for he brought me into his home. I owe him my life, but he isn't family.
 flaw: 
 goals: 
 likes: 
-dislikes:
+dislikes: 
 ---
 
 > [!infobox]
 > # `=this.file.name`
-> **Pronounced:**  "`INPUT[text:pronounced]`"
+> **Pronounced:**  `INPUT[text:pronounced]`
 > ![[4. World Almanac/NPCs/img/izek-strazni.webp|cover hm-sm]] 
 > ###### Bio
 >  |

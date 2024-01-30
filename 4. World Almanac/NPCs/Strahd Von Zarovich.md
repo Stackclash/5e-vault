@@ -25,7 +25,7 @@ dislikes:
 
 > [!infobox]
 > # `=this.file.name`
-> **Pronounced:**  "`INPUT[text:pronounced]`"
+> **Pronounced:**  `INPUT[text:pronounced]`
 > ![[4. World Almanac/NPCs/img/153-636988936829621698.webp|cover hm-sm]] 
 > ###### Bio
 >  |

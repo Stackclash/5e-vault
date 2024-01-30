@@ -25,7 +25,7 @@ dislikes:
 
 > [!infobox]
 > # `=this.file.name`
-> **Pronounced:**  "`INPUT[text:pronounced]`"
+> **Pronounced:**  `INPUT[text:pronounced]`
 > ![[4. World Almanac/NPCs/img/gadof-blinsky.webp|cover hm-sm]] 
 > ###### Bio
 >  |
