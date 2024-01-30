@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DM Screen/Configuration.md",
+                "file": "6. Resources/5e Modules/Curse Of Strahd/06 Chapter-4 Castle Ravenloft.md",
                 "mode": "preview",
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. DM Screen/Configuration.md",
+                "file": "6. Resources/5e Modules/Curse Of Strahd/06 Chapter-4 Castle Ravenloft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. DM Screen/Configuration.md",
+                "file": "6. Resources/5e Modules/Curse Of Strahd/06 Chapter-4 Castle Ravenloft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DM Screen/Configuration.md"
+                "file": "6. Resources/5e Modules/Curse Of Strahd/06 Chapter-4 Castle Ravenloft.md"
               }
             }
           },
@@ -185,6 +185,7 @@
   },
   "active": "c3f4e063dbac9c63",
   "lastOpenFiles": [
+    "1. DM Screen/Configuration.md",
     "6. Resources/5e Modules/Curse Of Strahd/09 Chapter-7 Argynvostholt.md",
     "6. Resources/5e Modules/Curse Of Strahd/03 Chapter-1 Into The Mists.md",
     "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
@@ -192,7 +193,6 @@
     "6. Resources/5e Modules/Curse Of Strahd/20 Appendix B Death House.md",
     "2. Scratch Notes/To-Do List.md",
     "1. DM Screen/Lookup Tables/Travel.md",
-    "1. DM Screen/Configuration.md",
     "1. DM Screen/Lookup Tables/Currency.md",
     "1. DM Screen/Tools/Vistani Lore.md",
     "1. DM Screen/Tools/Barovian Lore.md",
