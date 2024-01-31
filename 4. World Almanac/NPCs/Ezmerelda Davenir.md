@@ -16,8 +16,8 @@ groups: []
 religions: []
 personality: 
 ideal: Evil that feeds on the innocent is the worst of all evils and must be destroyed.
-bond: 
-flaw: 
+bond: My mentor and teacher, Dr. Rudolph van Richten, is like a father to me.
+flaw: I go where angels fear to tread.
 goals: 
 likes: 
 dislikes: 

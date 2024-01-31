@@ -15,8 +15,8 @@ occupation:
 groups: []
 religions: []
 personality: 
-ideal: 
-bond: 
+ideal: Evil cannot go unchallenged.
+bond: To protect those I love, I must keep them distant and hidden from my enemies.
 flaw: 
 goals: 
 likes: 

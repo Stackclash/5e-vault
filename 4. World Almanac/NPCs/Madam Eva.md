@@ -15,9 +15,9 @@ occupation:
 groups: []
 religions: []
 personality: 
-ideal: 
-bond: 
-flaw: 
+ideal: I wish Strahd to be free of his curse.
+bond: The Vistani are my people now.
+flaw: The people whose fates I divine aren't important. They are but the means to an end.
 goals: 
 likes: 
 dislikes: 

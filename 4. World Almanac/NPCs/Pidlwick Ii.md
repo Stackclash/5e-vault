@@ -15,9 +15,9 @@ occupation:
 groups: []
 religions: []
 personality: 
-ideal: 
-bond: 
-flaw: 
+ideal: I wish I could make people happy.
+bond: I would like to find someone - anyone - who isn't afraid of me and who enjoys my company.
+flaw: When I'm upset, I do bad things.
 goals: 
 likes: 
 dislikes: 
