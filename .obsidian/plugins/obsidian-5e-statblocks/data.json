@@ -62194,85 +62194,6 @@
       }
     ],
     [
-      "Vladimir Horngaard (CoS)",
-      {
-        "name": "Vladimir Horngaard (CoS)",
-        "size": "Medium",
-        "type": "undead",
-        "alignment": "Lawful Evil",
-        "ac": 17,
-        "hp": 192,
-        "hit_dice": "16d8 + 64",
-        "stats": [
-          18,
-          14,
-          18,
-          13,
-          16,
-          18
-        ],
-        "speed": "30 ft.",
-        "saves": {
-          "Charisma": 7,
-          "Wisdom": 6,
-          "Strength": 7,
-          "Constitution": 7
-        },
-        "damage_resistances": "necrotic, psychic",
-        "damage_immunities": "poison",
-        "condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned, stunned",
-        "senses": "darkvision 60 ft., passive Perception 13",
-        "languages": "Common, Draconic",
-        "cr": "7",
-        "traits": [
-          {
-            "desc": "Vladimir regains 10 hit points at the start of his turn. If he takes fire or radiant damage, this trait doesn't function at the start of his next turn. Vladimir's body is destroyed only if he starts his turn with 0 hit points and doesn't regenerate.",
-            "name": "Regeneration"
-          },
-          {
-            "desc": "When Vladimir's body is destroyed, his soul lingers. After 24 hours, the soul inhabits and animates another corpse on the same plane of existence and regains all its hit points. While the soul is bodiless, a wish spell can be used to force the soul to go to the afterlife and not return.",
-            "name": "Rejuvenation"
-          },
-          {
-            "desc": "Vladimir wields a +2 greatsword with a hilt sculpted to resemble silver dragon wings and a pommel shaped like a silver dragon's head clutching a black opal between its teeth. ",
-            "name": "Special Equipment"
-          },
-          {
-            "desc": "Vladimir is immune to effects that turn undead.",
-            "name": "Turn Immunity"
-          },
-          {
-            "desc": "Vladimir knows the distance to and direction of Strahd, even if Strahd and Vladimir are on different planes of existence. If Strahd is destroyed, Vladimir knows.",
-            "name": "Vengeful Tracker"
-          }
-        ],
-        "actions": [
-          {
-            "desc": "Vladimir makes two fist attacks or two attacks with his +2 Greatsword.",
-            "name": "Multiattack"
-          },
-          {
-            "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target. Hit: dice: 2d6 + 4|avg (2d6 + 4) bludgeoning damage. Strahd, the target of Vladimir's sworn vengeance, takes an extra dice: 4d6|avg (4d6) bludgeoning damage. Instead of dealing damage, Vladimir can grapple the target (escape DC 14) provided the target is Large or smaller.",
-            "name": "Fist"
-          },
-          {
-            "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target. Hit: dice: 4d6 + 6|avg (4d6 + 6) slashing damage. Against Strahd, Vladimir deals an extra dice: 4d6|avg (4d6) slashing damage with this weapon.",
-            "name": "Greatsword +2"
-          },
-          {
-            "desc": "Vladimir can target Strahd within 30 feet provided he can see Strahd. Strahd must make a DC 15 Wisdom saving throw. One a failure, Strahd is paralyzed until Vladimir deals damage to him, or until the end of Vladimir's next turn. When the paralysis ends, Strahd is frightened of Vladimir for 1 minute. Strahd can repeat the saving throw at the end of each of his turns, with disadvantage if he can see Vladimir, ending the frightened condition on itself on a success.",
-            "name": "Vengeful Glare"
-          }
-        ],
-        "source": [
-          "CoS"
-        ],
-        "image": "4. World Almanac/NPCs/token/vladimir-horngaard.png",
-        "note": "4. World Almanac/NPCs/Vladimir Horngaard.md",
-        "mtime": 1706620317568
-      }
-    ],
-    [
       "Vilnius (CoS)",
       {
         "name": "Vilnius (CoS)",
@@ -65009,6 +64930,73 @@
         "image": "4. World Almanac/NPCs/token/rahadin.png",
         "note": "4. World Almanac/NPCs/Rahadin.md",
         "mtime": 1706666592053
+      }
+    ],
+    [
+      "Rictavio (CoS)",
+      {
+        "name": "Rictavio (CoS)",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "human",
+        "alignment": "Lawful Good",
+        "ac": 12,
+        "hp": 77,
+        "hit_dice": "14d8 + 14",
+        "stats": [
+          9,
+          12,
+          13,
+          16,
+          18,
+          16
+        ],
+        "speed": "30 ft.",
+        "saves": {
+          "Wisdom": 7,
+          "Constitution": 4
+        },
+        "skillsaves": {
+          "Medicine": 7,
+          "Sleight of Hand": 4,
+          "Religion": 6,
+          "Insight": 7,
+          "Perception": 7,
+          "Arcana": 9
+        },
+        "senses": "passive Perception 17",
+        "languages": "Abyssal, Common, Elvish, Infernal",
+        "cr": "5",
+        "traits": [
+          {
+            "desc": "Rictavio is a 9th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 15, dice: d20+7 (+7 to hit) with spell attacks). Rictavio has the following cleric spells prepared:\n\nCantrips (at will): guidance, light, mending, thaumaturgy\n\n1st level (4 slots): cure wounds, detect evil and good, protection from evil and good, sanctuary\n\n2nd level (3 slots): augury, lesser restoration, protection from poison\n\n3rd level (3 slots): magic circle, remove curse, speak with dead\n\n4th level (3 slots): death ward, freedom of movement\n\n5th level (1 slots): dispel evil and good",
+            "name": "spells"
+          },
+          {
+            "desc": "In addition to his sword cane, Rictavio wears a hat of disguise and a ring of mind shielding, and he carries a spell scroll of raise dead.",
+            "name": "Special Equipment"
+          },
+          {
+            "desc": "When Rictavio hits an undead with a weapon attack, the undead takes an extra dice: 3d6|avg (3d6) damage of the weapon's type.",
+            "name": "Undead Slayer"
+          }
+        ],
+        "actions": [
+          {
+            "desc": "Rictavio makes two attacks with his sword cane.",
+            "name": "Multiattack"
+          },
+          {
+            "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target. Hit: dice: 1d6 + 1|avg (1d6 + 1) bludgeoning damage (wooden cane) or piercing damage (silvered sword).",
+            "name": "Sword Cane"
+          }
+        ],
+        "source": [
+          "CoS"
+        ],
+        "image": "4. World Almanac/NPCs/token/rictavio.png",
+        "note": "4. World Almanac/NPCs/Rictavio.md",
+        "mtime": 1706666611052
       }
     ]
   ],

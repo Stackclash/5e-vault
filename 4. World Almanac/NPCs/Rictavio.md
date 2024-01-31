@@ -17,7 +17,7 @@ religions: []
 personality: 
 ideal: Evil cannot go unchallenged.
 bond: To protect those I love, I must keep them distant and hidden from my enemies.
-flaw: 
+flaw: I am cursed. Thus, I will never have peace.
 goals: 
 likes: 
 dislikes: 
