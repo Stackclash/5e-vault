@@ -10,7 +10,7 @@ pronounced:
 race: 
 gender: 
 age: 
-alignment: 
+alignment: lawful neutral
 occupation: 
 groups: 
 religions: 
@@ -20,7 +20,7 @@ bond:
 flaw: 
 goals: 
 likes: 
-dislikes:
+dislikes: 
 ---
 
 > [!infobox]

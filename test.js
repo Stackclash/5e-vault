@@ -21,5 +21,5 @@ const npcs = getAllFiles(__dirname, '4. World Almanac/NPCs')
 
 const content = fs.readFileSync(npcs[1].path).toString()
 
-console.log(content.match(/^"alignment": "([\w\s]+)"$/gm))
-console.log(content.match(/alignment: (.*)$/gm))
+console.log(content.match(/^"alignment": "([\w\s]+)"$/m)[1])
+console.log(content.replace(/alignment: (.*)$/m, `alignment: ${content.match(/^"alignment": "([\w\s]+)"$/m)[1]}`))

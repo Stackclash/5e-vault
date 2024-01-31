@@ -7,22 +7,22 @@ image:
 relationships:
   - Davian Martikov|father
 tags: 
-aliases: []
+aliases: 
 pronounced: 
 race: 
 gender: 
 age: 
 alignment: 
 occupation: 
-groups: []
-religions: []
+groups: 
+religions: 
 personality: 
 ideal: 
 bond: 
 flaw: 
 goals: 
 likes: 
-dislikes: 
+dislikes:
 ---
 
 > [!infobox]

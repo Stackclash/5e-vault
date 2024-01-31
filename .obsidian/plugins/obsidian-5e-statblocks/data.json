@@ -64445,73 +64445,6 @@
       }
     ],
     [
-      "Anastrasya Karelova (CoS)",
-      {
-        "name": "Anastrasya Karelova (CoS)",
-        "size": "Medium",
-        "type": "undead",
-        "alignment": "Neutral Evil",
-        "ac": 15,
-        "hp": 82,
-        "hit_dice": "11d8 + 33",
-        "stats": [
-          16,
-          16,
-          16,
-          11,
-          10,
-          12
-        ],
-        "speed": "30 ft.",
-        "saves": {
-          "Dexterity": 6,
-          "Wisdom": 3
-        },
-        "skillsaves": {
-          "Stealth": 6,
-          "Perception": 3
-        },
-        "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks",
-        "senses": "darkvision 60 ft., passive Perception 13",
-        "languages": "the languages it knew in life",
-        "cr": "5",
-        "traits": [
-          {
-            "desc": "Anastrasya regains 10 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If Anastrasya takes radiant damage or damage from holy water, this trait doesn't function at the start of Anastrasya's next turn.",
-            "name": "Regeneration"
-          },
-          {
-            "desc": "Anastrasya can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
-            "name": "Spider Climb"
-          },
-          {
-            "desc": "Anastrasya has the following flaws:\n\nForbiddance. Anastrasya can't enter a residence without an invitation from one of the occupants.\n\nHarmed by Running Water. Anastrasya takes 20 acid damage when it ends its turn in running water.\n\nStake to the Heart. Anastrasya is destroyed if a piercing weapon made of wood is driven into its heart while it is incapacitated in its resting place.\n\nSunlight Hypersensitivity. Anastrasya takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.",
-            "name": "Vampire Weaknesses"
-          }
-        ],
-        "actions": [
-          {
-            "desc": "Anastrasya makes two attacks, only one of which can be a bite attack.",
-            "name": "Multiattack"
-          },
-          {
-            "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one willing creature, or a creature that is grappled by Anastrasya, incapacitated, or restrained. Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage plus dice: 2d6|avg (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Anastrasya regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.",
-            "name": "Bite"
-          },
-          {
-            "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one creature. Hit: dice: 2d4 + 3|avg (2d4 + 3) slashing damage. Instead of dealing damage, Anastrasya can grapple the target (escape DC 13).",
-            "name": "Claws"
-          }
-        ],
-        "source": [
-          "CoS"
-        ],
-        "image": "4. World Almanac/NPCs/token/anastrasya-karelova.png",
-        "note": "4. World Almanac/NPCs/Anastrasya Karelova.md",
-        "mtime": 1706620317595
-      }
-    ],
-    [
       "Arabelle (CoS)",
       {
         "name": "Arabelle (CoS)",
@@ -65014,6 +64947,68 @@
         "image": "4. World Almanac/NPCs/token/vladimir-horngaard.png",
         "note": "4. World Almanac/NPCs/Vladimir Horngaard.md",
         "mtime": 1706666760826
+      }
+    ],
+    [
+      "Madam Eva (CoS)",
+      {
+        "name": "Madam Eva (CoS)",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "human",
+        "alignment": "Chaotic Neutral",
+        "ac": 10,
+        "hp": 88,
+        "hit_dice": "16d8 + 16",
+        "stats": [
+          8,
+          11,
+          12,
+          17,
+          20,
+          18
+        ],
+        "speed": "20 ft.",
+        "saves": {
+          "Constitution": 5
+        },
+        "skillsaves": {
+          "Intimidation": 8,
+          "Deception": 8,
+          "Religion": 7,
+          "Insight": 13,
+          "Perception": 9,
+          "Arcana": 7
+        },
+        "senses": "passive Perception 19",
+        "languages": "Abyssal, Common, Elvish, Infernal",
+        "cr": "10",
+        "traits": [
+          {
+            "desc": "Madam Eva is a 16th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 17, dice: d20+9 (+9 to hit) with spell attacks). Madam Eva has the following cleric spells prepared:\n\nCantrips (at will): light, mending, sacred flame, thaumaturgy\n\n1st level (4 slots): bane, command, detect evil and good, protection from evil and good\n\n2nd level (3 slots): lesser restoration, protection from poison, spiritual weapon\n\n3rd level (3 slots): create food and water, speak with dead, spirit guardians\n\n4th level (3 slots): divination, freedom of movement, guardian of faith\n\n5th level (2 slots): greater restoration, raise dead\n\n6th level (1 slots): find the path, harm, true seeing\n\n7th level (1 slots): fire storm, regenerate\n\n8th level (1 slots): earthquake",
+            "name": "spells"
+          }
+        ],
+        "actions": [
+          {
+            "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target. Hit: dice: 1d4|avg (1d4) piercing damage.",
+            "name": "Dagger"
+          },
+          {
+            "desc": "Madam Eva targets one creature that she can see within 30 feet of her. The target must succeed on a DC 17 Wisdom saving throw or be cursed. While cursed, the target is blinded and deafened. The curse lasts until ended with a greater restoration spell, a remove curse spell, or similar magic. When the curse ends, Madam Eva takes dice: 5d6|avg (5d6) psychic damage.",
+            "name": "Curse (Recharges after a Long Rest)"
+          },
+          {
+            "desc": "Madam Eva targets one creature that she can see within 10 feet of her and casts one of the following spells on the target (save DC 17), requiring neither somatic nor material components to do so: animal friendship, charm person, or hold person. If the target succeeds on the initial saving throw, Madam Eva is blinded until the end of her next turn. Once a target succeeds on a saving throw against this effect, it is immune to the Evil Eye power of all Vistani for 24 hours.",
+            "name": "Evil Eye (Recharges after a Short or Long Rest)"
+          }
+        ],
+        "source": [
+          "CoS"
+        ],
+        "image": "4. World Almanac/NPCs/token/madam-eva.png",
+        "note": "4. World Almanac/NPCs/Madam Eva.md",
+        "mtime": 1706716519811
       }
     ]
   ],
