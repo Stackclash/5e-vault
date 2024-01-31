@@ -47,7 +47,7 @@ dislikes:
 > **Race** | `INPUT[suggester(optionQuery("5. Mechanics/Races")):race]` |
 > **Gender** | `INPUT[inlineSelect(option(male),option(female)):gender]` |
 > **Age** | `INPUT[number:age]` |
-> **Alignment** | `INPUT[inlineSelect(option(Lawful Good),option(neutral Good),option(chaotic Good),option(Lawful Neutral),option(Neutral),option(chaotic Neutral),option(Lawful Evil),option(netural Evil),option(chaotic Evil)):alignment]` |
+> **Alignment** | `INPUT[inlineSelect(option(Lawful Good),option(Neutral Good),option(Chaotic Good),option(Lawful Neutral),option(Neutral),option(Chaotic Neutral),option(Lawful Evil),option(Neutral Evil),option(Chaotic Evil)):alignment]` |
 > **Condition** | `INPUT[inlineSelect(option(healthy),option(injured),option(dead)):condition]` |
 > ###### Info
 >  |

@@ -10,7 +10,7 @@ pronounced:
 race: 
 gender: 
 age: 
-alignment: 
+alignment: Lawful Evil
 occupation: 
 groups: []
 religions: []
@@ -33,7 +33,7 @@ dislikes:
 > **Race** | `INPUT[suggester(optionQuery("5. Mechanics/Races")):race]` |
 > **Gender** | `INPUT[inlineSelect(option(male),option(female)):gender]` |
 > **Age** | `INPUT[number:age]` |
-> **Alignment** | `INPUT[inlineSelect(option(lawful good),option(neutral good),option(chaotic good),option(lawful neutral),option(neutral),option(chaotic neutral),option(lawful evil),option(netural evil),option(chaotic evil)):alignment]` |
+> **Alignment** | `INPUT[inlineSelect(option(Lawful Good),option(Neutral Good),option(Chaotic Good),option(Lawful Neutral),option(Neutral),option(Chaotic Neutral),option(Lawful Evil),option(Neutral Evil),option(Chaotic Evil)):alignment]` |
 > **Condition** | `INPUT[inlineSelect(option(healthy),option(injured),option(dead)):condition]` |
 > ###### Info
 >  |
