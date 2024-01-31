@@ -7,7 +7,7 @@ relationships: []
 tags: 
 aliases: []
 pronounced: 
-race: 
+race: "[[5. Mechanics/Races/Human.md|Human]]"
 gender: 
 age: 
 alignment: Lawful Neutral

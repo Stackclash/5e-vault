@@ -84,9 +84,10 @@ TABLE WITHOUT ID
 	file.link as "Name",
   choice(!!race , "✅", "✘") as race,
 	choice(!!gender , "✅", "✘") as gender,
+	choice(!!age , "✅", "✘") as age,
 	choice(!!alignment , "✅", "✘") as alignment,
 	choice(!!location , "✅", "✘") as location
 FROM "4. World Almanac/NPCs" and !"4. World Almanac/NPCs/Npc"
-WHERE !gender or !alignment or !location
+WHERE !gender or !alignment or !location or !age
 SORT file.name
 ```
