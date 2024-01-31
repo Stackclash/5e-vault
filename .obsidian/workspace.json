@@ -14,12 +14,25 @@
               "type": "markdown",
               "state": {
                 "file": "1. DM Screen/Configuration.md",
-                "mode": "source",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef556b65b9568d4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. World Almanac/NPCs/Urwin Martikov.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. DM Screen/Configuration.md",
+                "file": "4. World Almanac/NPCs/Urwin Martikov.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. DM Screen/Configuration.md",
+                "file": "4. World Almanac/NPCs/Urwin Martikov.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DM Screen/Configuration.md"
+                "file": "4. World Almanac/NPCs/Urwin Martikov.md"
               }
             }
           },
@@ -183,8 +196,10 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "cf0228d4def18436",
+  "active": "ef556b65b9568d4b",
   "lastOpenFiles": [
+    "1. DM Screen/Configuration.md",
+    "4. World Almanac/NPCs/Urwin Martikov.md",
     "4. World Almanac/NPCs/Anastrasya Karelova.md",
     "4. World Almanac/NPCs/Adrian Martikov.md",
     "2. Scratch Notes/To-Do List.md",
@@ -201,7 +216,6 @@
     "4. World Almanac/NPCs/Arrigal.md",
     "4. World Almanac/NPCs/Arabelle.md",
     "4. World Almanac/NPCs/Doru.md",
-    "1. DM Screen/Configuration.md",
     "6. Resources/5e Modules/Curse Of Strahd/06 Chapter-4 Castle Ravenloft.md",
     "6. Resources/5e Modules/Curse Of Strahd/img/024-005.jpg",
     "6. Resources/5e Modules/Curse Of Strahd/09 Chapter-7 Argynvostholt.md",
@@ -213,7 +227,6 @@
     "1. DM Screen/Lookup Tables/Currency.md",
     "1. DM Screen/Tools/Vistani Lore.md",
     "1. DM Screen/Tools/Barovian Lore.md",
-    "4. World Almanac/NPCs/Bray Martikov.md",
     "z_Assets/Barovia_Banner.webp",
     "4. World Almanac/NPCs/img/153-636988936829621698.webp",
     "4. World Almanac/NPCs/img/bray-martikov.webp",

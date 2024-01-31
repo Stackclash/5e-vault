@@ -82,7 +82,11 @@ actions:
 ```dataview
 TABLE WITHOUT ID
 	file.link as "Name",
+  choice(!!race , "✅", "✘") as race,
+	choice(!!gender , "✅", "✘") as gender,
+	choice(!!alignment , "✅", "✘") as alignment,
 	choice(!!location , "✅", "✘") as location
-FROM "4. World Almanac/NPCs"
-WHERE !location or !alignment
+FROM "4. World Almanac/NPCs" and !"4. World Almanac/NPCs/Npc"
+WHERE !gender or !alignment or !location
+SORT file.name
 ```
