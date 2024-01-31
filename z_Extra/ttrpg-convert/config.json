@@ -9,7 +9,11 @@
         "XGE",
         "TCE",
         "SaF",
-        "ERLW"
+        "ERLW",
+        "HHHVI",
+        "HHHVII",
+        "HHHVIII",
+        "HHbH"
     ],
     "paths": {
         "rules": "/compendium/rules/"
@@ -41,7 +45,11 @@
         ],
         "book": [
             "VRGR",
-            "SaF"
+            "SaF",
+            "HHHVI",
+            "HHHVII",
+            "HHHVIII",
+            "HHbH"
         ]
     }
 }
