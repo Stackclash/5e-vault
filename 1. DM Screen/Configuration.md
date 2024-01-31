@@ -20,7 +20,6 @@ FROM "1. DM Screen/Lookup Tables"
 | `BUTTON[create-npc]` | `BUTTON[create-player-character]` |
 | `BUTTON[create-location]` | `BUTTON[create-session-log]` |
 | `BUTTON[create-shop]` |  |
-
 ```meta-bind-button
 style: primary
 label: Create NPC
@@ -77,4 +76,13 @@ actions:
     command: templater-obsidian:create-new-note-from-template
   - type: input
     str: Session
+```
+# Fix Notes
+## NPCs
+```dataview
+TABLE WITHOUT ID
+	file.link as "Name",
+	choice(!!location , "✅", "✘") as location
+FROM "4. World Almanac/NPCs"
+WHERE !location or !alignment
 ```

@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5fd2504ccf7f44a5",
+        "id": "c3fcbf1c55e7f049",
         "type": "tabs",
         "children": [
           {
-            "id": "e227f33d04b3468c",
+            "id": "cf0228d4def18436",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/NPCs/Anastrasya Karelova.md",
-                "mode": "preview",
+                "file": "1. DM Screen/Configuration.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/NPCs/Anastrasya Karelova.md",
+                "file": "1. DM Screen/Configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/NPCs/Anastrasya Karelova.md",
+                "file": "1. DM Screen/Configuration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/NPCs/Anastrasya Karelova.md"
+                "file": "1. DM Screen/Configuration.md"
               }
             }
           },
@@ -183,8 +183,9 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "e227f33d04b3468c",
+  "active": "cf0228d4def18436",
   "lastOpenFiles": [
+    "4. World Almanac/NPCs/Anastrasya Karelova.md",
     "4. World Almanac/NPCs/Adrian Martikov.md",
     "2. Scratch Notes/To-Do List.md",
     "4. World Almanac/NPCs/Madam Eva.md",
