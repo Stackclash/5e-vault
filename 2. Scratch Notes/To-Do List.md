@@ -35,3 +35,4 @@
 - [x] Create "Remove Relationships" Templater template
 - [ ] Use meta-bind menu for Session Notes
 - [ ] Fix Inventory table on Shops to fit with ITS Theme info boxes
+- [ ] get_all_files might not be working correctly
