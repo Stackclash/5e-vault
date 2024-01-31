@@ -19,4 +19,6 @@ function getAllFiles(basePath, folderPath, filesList=[]) {
 
 const npcs = getAllFiles(__dirname, '4. World Almanac/NPCs')
 
-console.log(npcs)
+const content = fs.readFileSync(npcs[1].path)
+
+console.log(npcs[1].name, content.toString(), content.toString().match(/"alignment": "([\w\s]+)"/))
