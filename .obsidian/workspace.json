@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Mechanics/Tables/Dracolich Hhhvi.md",
+                "file": "5. Mechanics/Tables/Annis Hag Hhhvii.md",
                 "mode": "preview",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#compendium/src/5e/hhhvi",
+                "query": "tag:#compendium/src/5e/hhhvii",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Mechanics/Tables/Dracolich Hhhvi.md",
+                "file": "5. Mechanics/Tables/Annis Hag Hhhvii.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Mechanics/Tables/Dracolich Hhhvi.md",
+                "file": "5. Mechanics/Tables/Annis Hag Hhhvii.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Mechanics/Tables/Dracolich Hhhvi.md"
+                "file": "5. Mechanics/Tables/Annis Hag Hhhvii.md"
               }
             }
           },
@@ -207,8 +207,21 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "3629b92bcb84e179",
+  "active": "c10735940ed10add",
   "lastOpenFiles": [
+    "5. Mechanics/Tables/Alhoon Hhhvii.md",
+    "5. Mechanics/Items/Amulet Of Dragonkin Hhhvii.md",
+    "5. Mechanics/Items/1 Mind Hook Hhhvii.md",
+    "5. Mechanics/Items/Hag Eye.md",
+    "5. Mechanics/Items/Drow-2 Weapon.md",
+    "5. Mechanics/Items/Drow-1 Armor.md",
+    "5. Mechanics/Items/Amber.md",
+    "5. Mechanics/Tables/Banshee Hhhvi.md",
+    "5. Mechanics/Tables/Allosaurus Hhhvi.md",
+    "5. Mechanics/Tables/Air Elemental Hhhvi.md",
+    "5. Mechanics/Items/1 Dragon Bolt Hhhvi.md",
+    "5. Mechanics/Items/1 Dragon Arrow Hhhvi.md",
+    "5. Mechanics/Tables/Dracolich Hhhvi.md",
     "5. Mechanics/Tables/Doppelganger Hhhvi.md",
     "5. Mechanics/Tables/Deities Of Dragonlance Evil.md",
     "6. Resources/Books/Hamunds Harvesting Handbook Volume I/4 Chapter-3 The Harvest Tables.md",
@@ -222,19 +235,6 @@
     "3. The Party/Session Logs/Never Trust a Hunter.md",
     "3. The Party/Session Logs/Meeting Strahd.md",
     "3. The Party/Session Logs/Making Friends with the Necromancer.md",
-    "3. The Party/Session Logs/Knowing the Road.md",
-    "3. The Party/Session Logs/Finding Victor.md",
-    "3. The Party/Session Logs/Deal with the Devil.md",
-    "3. The Party/Session Logs/Campaign Preparation.md",
-    "3. The Party/Session Logs/Best Weapon against Vampires are Old Men.md",
-    "3. The Party/Players/Players.md",
-    "3. The Party/Players/Faerah Duskrane.md",
-    "4. World Almanac/Settlements/Village of Barovia.md",
-    "4. World Almanac/Settlements/Vallaki.md",
-    "1. DM Screen/Configuration.md",
-    "4. World Almanac/Shops/Blinsky Toys.md",
-    "4. World Almanac/NPCs/Urwin Martikov.md",
-    "4. World Almanac/Settlements/Krezk.md",
     "test.js",
     "6. Resources/5e Modules/Curse Of Strahd/img/024-005.jpg",
     "6. Resources/5e Modules/Curse Of Strahd/img/008-cos201.jpg",
