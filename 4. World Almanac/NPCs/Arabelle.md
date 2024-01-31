@@ -8,7 +8,7 @@ tags:
 aliases: []
 pronounced: 
 race: "[[5. Mechanics/Races/Human.md|Human]]"
-gender: 
+gender: female
 age: 
 alignment: Lawful Neutral
 occupation: 
