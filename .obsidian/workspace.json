@@ -35,9 +35,11 @@
             "id": "c10735940ed10add",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "1. DM Screen/1. DM Screen.md"
+                "file": "5. Mechanics/Tables/Dracolich Hhhvi.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -71,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fane",
+                "query": "tag:#compendium/src/5e/hhhvi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -80,7 +82,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -111,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. DM Screen/1. DM Screen.md",
+                "file": "5. Mechanics/Tables/Dracolich Hhhvi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. DM Screen/1. DM Screen.md",
+                "file": "5. Mechanics/Tables/Dracolich Hhhvi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DM Screen/1. DM Screen.md"
+                "file": "5. Mechanics/Tables/Dracolich Hhhvi.md"
               }
             }
           },
@@ -180,13 +183,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 335.5,
-    "collapsed": true
+    "width": 335.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,8 +207,15 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "c10735940ed10add",
+  "active": "3629b92bcb84e179",
   "lastOpenFiles": [
+    "5. Mechanics/Tables/Doppelganger Hhhvi.md",
+    "5. Mechanics/Tables/Deities Of Dragonlance Evil.md",
+    "6. Resources/Books/Hamunds Harvesting Handbook Volume I/4 Chapter-3 The Harvest Tables.md",
+    "6. Resources/Books/Hamunds Harvesting Handbook Volume I/3 Chapter-2 How To Harvest.md",
+    "6. Resources/Books/Hamunds Harvesting Handbook Volume I/2 Chapter-1 Introduction.md",
+    "6. Resources/Books/Hamunds Harvesting Handbook Volume I/1 Hamunds Harvesting Handbook Volume I.md",
+    "1. DM Screen/1. DM Screen.md",
     "4. World Almanac/Shops/Blue Water Inn.md",
     "4. World Almanac/Shops/Shops.md",
     "3. The Party/Session Logs/Session Logs.md",
@@ -227,13 +235,6 @@
     "4. World Almanac/Shops/Blinsky Toys.md",
     "4. World Almanac/NPCs/Urwin Martikov.md",
     "4. World Almanac/Settlements/Krezk.md",
-    "4. World Almanac/Shops/Bildrath's Mercantile.md",
-    "4. World Almanac/NPCs/Arabelle.md",
-    "1. DM Screen/1. DM Screen.md",
-    "4. World Almanac/NPCs/Anastrasya Karelova.md",
-    "4. World Almanac/NPCs/Adrian Martikov.md",
-    "2. Scratch Notes/To-Do List.md",
-    "4. World Almanac/NPCs/Madam Eva.md",
     "test.js",
     "6. Resources/5e Modules/Curse Of Strahd/img/024-005.jpg",
     "6. Resources/5e Modules/Curse Of Strahd/img/008-cos201.jpg",
