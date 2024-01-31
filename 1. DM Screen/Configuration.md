@@ -82,11 +82,11 @@ actions:
 ```dataview
 TABLE WITHOUT ID
 	file.link as "NPC",
-  choice(!!race , "✅", "✘") as race,
-	choice(!!gender , "✅", "✘") as gender,
-	choice(!!age , "✅", "✘") as age,
-	choice(!!alignment , "✅", "✘") as alignment,
-	choice(!!location , "✅", "✘") as location
+  choice(!!race, "✅", "✘") as race,
+	choice(!!gender, "✅", "✘") as gender,
+	choice(!!age, "✅", "✘") as age,
+	choice(!!alignment, "✅", "✘") as alignment,
+	choice(!!location, "✅", "✘") as location
 FROM "4. World Almanac/NPCs"
 WHERE (!gender or !alignment or !location or !age)
 and file.name != "Npc"
@@ -97,8 +97,8 @@ SORT file.name
 ```dataview
 TABLE WITHOUT ID
   file.link as "Location",
-  choice(!!location , "✅", "✘") as location
+  choice(!!location, "✅", "✘") as location
 FROM "4. World Almanac/Places of Interest" or "4. World Almanac/Regions" or "4. World Almanac/Settlements" or "4. World Almanac/Shops"
-WHERE !location
-and !contains([Places of Interest, Regions], file.name)
+WHERE (!location)
+and !contains(list("Places of Interest", "Regions", "Settlements", "Shops"), file.name)
 ```
