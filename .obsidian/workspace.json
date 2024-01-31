@@ -18,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ef556b65b9568d4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. World Almanac/NPCs/Urwin Martikov.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c10735940ed10add",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Mechanics/Tables/Annis Hag Hhhvii.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +57,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -114,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Mechanics/Tables/Annis Hag Hhhvii.md",
+                "file": "4. World Almanac/Settlements/Krezk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Mechanics/Tables/Annis Hag Hhhvii.md",
+                "file": "4. World Almanac/Settlements/Krezk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Mechanics/Tables/Annis Hag Hhhvii.md"
+                "file": "4. World Almanac/Settlements/Krezk.md"
               }
             }
           },
@@ -187,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 335.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,8 +182,27 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "c10735940ed10add",
+  "active": "cf0228d4def18436",
   "lastOpenFiles": [
+    "4. World Almanac/NPCs/Urwin Martikov.md",
+    "5. Mechanics/Bestiary/Monstrosity/Yuan Ti Pit Master (MPMM).md",
+    "5. Mechanics/Bestiary/Humanoid/Yuan Ti Pureblood.md",
+    "5. Mechanics/Tables/Yuan Ti Pureblood Hhhvi.md",
+    "5. Mechanics/Tables/Swamp Encounters Levels-510 (XGE).md",
+    "5. Mechanics/Tables/Rare Swamp Herbs Hhbh.md",
+    "5. Mechanics/Tables/Rare Forest Herbs Hhbh.md",
+    "5. Mechanics/Tables/Rare Desert Herbs Hhbh.md",
+    "5. Mechanics/Tables/Random Buildings Residence.md",
+    "5. Mechanics/Tables/Random Buildings Religious Building.md",
+    "5. Mechanics/Tables/Random Buildings Building Type.md",
+    "5. Mechanics/Tables/Npc Talents.md",
+    "5. Mechanics/Tables/Npc Mannerisms.md",
+    "5. Mechanics/Tables/Npc Low Abilities.md",
+    "5. Mechanics/Tables/Nonhuman Deities.md",
+    "5. Mechanics/Tables/Npc Appearance.md",
+    "5. Mechanics/Tables/Npc Bonds.md",
+    "5. Mechanics/Tables/Devourer Hhhvii.md",
+    "5. Mechanics/Tables/Annis Hag Hhhvii.md",
     "5. Mechanics/Tables/Alhoon Hhhvii.md",
     "5. Mechanics/Items/Amulet Of Dragonkin Hhhvii.md",
     "5. Mechanics/Items/1 Mind Hook Hhhvii.md",
@@ -216,25 +210,6 @@
     "5. Mechanics/Items/Drow-2 Weapon.md",
     "5. Mechanics/Items/Drow-1 Armor.md",
     "5. Mechanics/Items/Amber.md",
-    "5. Mechanics/Tables/Banshee Hhhvi.md",
-    "5. Mechanics/Tables/Allosaurus Hhhvi.md",
-    "5. Mechanics/Tables/Air Elemental Hhhvi.md",
-    "5. Mechanics/Items/1 Dragon Bolt Hhhvi.md",
-    "5. Mechanics/Items/1 Dragon Arrow Hhhvi.md",
-    "5. Mechanics/Tables/Dracolich Hhhvi.md",
-    "5. Mechanics/Tables/Doppelganger Hhhvi.md",
-    "5. Mechanics/Tables/Deities Of Dragonlance Evil.md",
-    "6. Resources/Books/Hamunds Harvesting Handbook Volume I/4 Chapter-3 The Harvest Tables.md",
-    "6. Resources/Books/Hamunds Harvesting Handbook Volume I/3 Chapter-2 How To Harvest.md",
-    "6. Resources/Books/Hamunds Harvesting Handbook Volume I/2 Chapter-1 Introduction.md",
-    "6. Resources/Books/Hamunds Harvesting Handbook Volume I/1 Hamunds Harvesting Handbook Volume I.md",
-    "1. DM Screen/1. DM Screen.md",
-    "4. World Almanac/Shops/Blue Water Inn.md",
-    "4. World Almanac/Shops/Shops.md",
-    "3. The Party/Session Logs/Session Logs.md",
-    "3. The Party/Session Logs/Never Trust a Hunter.md",
-    "3. The Party/Session Logs/Meeting Strahd.md",
-    "3. The Party/Session Logs/Making Friends with the Necromancer.md",
     "test.js",
     "6. Resources/5e Modules/Curse Of Strahd/img/024-005.jpg",
     "6. Resources/5e Modules/Curse Of Strahd/img/008-cos201.jpg",
