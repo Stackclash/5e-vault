@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/Settlements/Krezk.md",
+                "file": "5. Mechanics/Bestiary/Celestial/Celestial.md",
                 "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "549e2d84b65f57b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vampire Spawn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/Settlements/Krezk.md",
+                "file": "Vampire Spawn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/Settlements/Krezk.md",
+                "file": "Vampire Spawn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/Settlements/Krezk.md"
+                "file": "Vampire Spawn.md"
               }
             }
           },
@@ -182,8 +195,11 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "cf0228d4def18436",
+  "active": "549e2d84b65f57b0",
   "lastOpenFiles": [
+    "5. Mechanics/Bestiary/Celestial/Celestial.md",
+    "Vampire Spawn.md",
+    "4. World Almanac/Settlements/Krezk.md",
     "4. World Almanac/NPCs/Urwin Martikov.md",
     "5. Mechanics/Bestiary/Monstrosity/Yuan Ti Pit Master (MPMM).md",
     "5. Mechanics/Bestiary/Humanoid/Yuan Ti Pureblood.md",
@@ -207,9 +223,6 @@
     "5. Mechanics/Items/Amulet Of Dragonkin Hhhvii.md",
     "5. Mechanics/Items/1 Mind Hook Hhhvii.md",
     "5. Mechanics/Items/Hag Eye.md",
-    "5. Mechanics/Items/Drow-2 Weapon.md",
-    "5. Mechanics/Items/Drow-1 Armor.md",
-    "5. Mechanics/Items/Amber.md",
     "test.js",
     "6. Resources/5e Modules/Curse Of Strahd/img/024-005.jpg",
     "6. Resources/5e Modules/Curse Of Strahd/img/008-cos201.jpg",
