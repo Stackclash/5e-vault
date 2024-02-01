@@ -21,4 +21,11 @@ function getAllFiles(basePath, folderPath, filesList=[]) {
 
 const monsters = getAllFiles(__dirname, '5. Mechanics/Bestiary').filter(m => path.extname(m.path) === '.md')
 
-console.log(monsters)
+monsters.forEach(m => {
+    let content = fs.readFileSync(m.path).toString()
+
+    const match = content.match('await dv.view("monsterHarvesterTable", {current: dv.current()})')
+
+    console.log(m.name, match)
+    process.exit(0)
+})
