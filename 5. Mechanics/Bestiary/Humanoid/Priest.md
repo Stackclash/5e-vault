@@ -97,7 +97,3 @@ Priests bring the teachings of their gods to the common folk. They are the spiri
 ## Environment
 
 urban
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

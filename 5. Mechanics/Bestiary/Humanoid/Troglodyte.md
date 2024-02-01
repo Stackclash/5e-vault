@@ -94,7 +94,3 @@ Some troglodytes venerate Laogzed, a demonic, monstrously fat toad-lizard that s
 ## Environment
 
 underdark
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

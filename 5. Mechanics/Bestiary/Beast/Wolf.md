@@ -75,7 +75,3 @@ aliases: ["Wolf"]
 ## Environment
 
 grassland, forest, hill
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

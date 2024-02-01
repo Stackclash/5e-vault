@@ -91,7 +91,3 @@ Thri-kreen don't require sleep and can rest while remaining alert and performing
 ## Environment
 
 grassland, desert
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

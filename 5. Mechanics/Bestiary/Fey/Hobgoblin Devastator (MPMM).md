@@ -83,7 +83,3 @@ In the Feywild, many archfey seek to bolster their armies' might with the servic
 ## Environment
 
 forest, grassland, hill
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

@@ -93,7 +93,3 @@ Despite their reclusive nature, centaurs trade with elves and with the caravans 
 ## Environment
 
 grassland, forest
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

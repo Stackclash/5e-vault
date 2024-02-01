@@ -74,7 +74,3 @@ Tricks of that sort are hardly the limit of quicklings' artful malice, however. 
 ## Environment
 
 forest
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

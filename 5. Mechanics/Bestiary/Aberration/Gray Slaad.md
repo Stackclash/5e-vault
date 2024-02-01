@@ -130,7 +130,3 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 ## Environment
 
 urban
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

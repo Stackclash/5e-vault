@@ -102,7 +102,3 @@ Ettercaps are natural enemies of fey creatures. The foul creatures set web snare
 ## Environment
 
 forest
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

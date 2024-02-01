@@ -88,7 +88,3 @@ Established settlements are attractive to perytons as a renewable food source. A
 ## Environment
 
 mountain, hill
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

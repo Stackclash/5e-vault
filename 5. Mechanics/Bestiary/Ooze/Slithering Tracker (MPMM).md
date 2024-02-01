@@ -92,7 +92,3 @@ Achieving revenge against its target doesn't end a slithering tracker's existenc
 ## Environment
 
 underdark, urban
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

@@ -75,7 +75,3 @@ Chitines resemble spiders, but they behave more like social insects such as ants
 ## Environment
 
 underdark
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

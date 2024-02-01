@@ -85,7 +85,3 @@ Each shoosuva is bonded to a particular worshiper of Yeenoghu and fights alongsi
 ## Environment
 
 coastal, forest, grassland, hill
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

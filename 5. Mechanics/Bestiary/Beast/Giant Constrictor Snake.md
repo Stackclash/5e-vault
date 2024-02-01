@@ -64,7 +64,3 @@ aliases: ["Giant Constrictor Snake"]
 ## Environment
 
 underwater, underdark, forest, swamp, desert
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

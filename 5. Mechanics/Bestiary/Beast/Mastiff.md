@@ -67,7 +67,3 @@ Mastiffs are impressive hounds prized by humanoids for their loyalty and keen se
 ## Environment
 
 forest, hill, urban
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

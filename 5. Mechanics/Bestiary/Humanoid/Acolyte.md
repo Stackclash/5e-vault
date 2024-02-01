@@ -79,7 +79,3 @@ Acolytes are junior members of a clergy, usually answerable to a priest. They pe
 ## Environment
 
 urban
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

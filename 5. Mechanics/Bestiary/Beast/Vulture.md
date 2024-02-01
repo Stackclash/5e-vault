@@ -63,7 +63,3 @@ aliases: ["Vulture"]
 ## Environment
 
 grassland, hill, desert
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

@@ -94,7 +94,3 @@ War priests typically adorn themselves with a symbol of their faith. You can rol
 ## Environment
 
 desert, urban
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

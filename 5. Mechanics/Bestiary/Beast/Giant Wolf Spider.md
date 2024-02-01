@@ -75,7 +75,3 @@ Smaller than a giant spider, a giant wolf spider hunts prey across open ground o
 ## Environment
 
 grassland, forest, hill, desert, coastal
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

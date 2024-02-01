@@ -90,7 +90,3 @@ The Gray Render Quirks table presents possible quirks for gray renders that can 
 ## Environment
 
 forest, hill
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

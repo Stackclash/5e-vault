@@ -94,7 +94,3 @@ Nothics are notorious for infiltrating arcane academies and other places rich in
 ## Environment
 
 underdark
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

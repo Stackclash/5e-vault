@@ -90,7 +90,3 @@ Spawn of Kyuss are expressions of Orcus's intent to replace all life with undeat
 ## Environment
 
 desert, underdark
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

@@ -69,7 +69,3 @@ aliases: ["Saber-Toothed Tiger"]
 ## Environment
 
 mountain, arctic
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

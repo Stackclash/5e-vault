@@ -77,7 +77,3 @@ Hailing from uncivilized lands, unpredictable berserkers come together in war pa
 ## Environment
 
 coastal, mountain, hill, arctic, forest, desert
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

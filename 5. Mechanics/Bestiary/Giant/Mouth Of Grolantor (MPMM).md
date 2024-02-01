@@ -79,7 +79,3 @@ A mouth of Grolantor is revered as a holy embodiment of Grolantor's aching hunge
 ## Environment
 
 grassland, hill
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

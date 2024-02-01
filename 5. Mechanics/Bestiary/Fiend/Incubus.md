@@ -120,7 +120,3 @@ Succubi and incubi can reproduce with one another to spawn more of their kind. L
 ## Environment
 
 urban
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

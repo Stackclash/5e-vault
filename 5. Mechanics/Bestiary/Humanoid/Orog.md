@@ -121,7 +121,3 @@ Mistrusted by orcs, some orogs form independent mercenary war bands that sell th
 ## Environment
 
 underdark, mountain, grassland, forest, hill, arctic
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

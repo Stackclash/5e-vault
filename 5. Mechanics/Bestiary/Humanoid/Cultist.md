@@ -82,7 +82,3 @@ Cultists swear allegiance to dark powers such as elemental princes, demon lords,
 ## Environment
 
 urban
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

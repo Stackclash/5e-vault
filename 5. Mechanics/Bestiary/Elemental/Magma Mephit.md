@@ -90,7 +90,3 @@ Composed of earth and fire, magma mephits glow a dull red color as they perspire
 ## Environment
 
 underdark
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

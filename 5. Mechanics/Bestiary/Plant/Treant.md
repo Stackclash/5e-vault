@@ -102,7 +102,3 @@ Woodcutters who avoid culling healthy living trees and hunters who take only wha
 ## Environment
 
 forest
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

@@ -184,7 +184,3 @@ A mummy lord watches over an ancient temple or tomb that is protected by lesser 
 ## Environment
 
 desert
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

@@ -63,7 +63,3 @@ aliases: ["Polar Bear"]
 ## Environment
 
 underdark, arctic
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

@@ -69,7 +69,3 @@ A giant vulture has advanced intelligence and a malevolent bent. Unlike its smal
 ## Environment
 
 grassland, desert
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

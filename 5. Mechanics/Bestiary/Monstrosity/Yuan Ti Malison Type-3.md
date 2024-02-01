@@ -137,7 +137,3 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
 ## Environment
 
 forest, swamp, desert
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

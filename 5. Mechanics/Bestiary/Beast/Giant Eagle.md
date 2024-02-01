@@ -65,7 +65,3 @@ A giant eagle is a noble creature that speaks its own language and understands s
 ## Environment
 
 mountain, grassland, hill, coastal
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

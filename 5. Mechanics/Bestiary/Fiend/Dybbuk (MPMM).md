@@ -99,7 +99,3 @@ In their natural form, dybbuks appear as translucent flying jellyfish, trailing 
 ## Environment
 
 desert, urban
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

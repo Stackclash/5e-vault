@@ -80,7 +80,3 @@ Most tortles like to see how other folk live. A tortle can spend decades away fr
 ## Environment
 
 coastal
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

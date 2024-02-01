@@ -49,7 +49,3 @@ aliases: ["Scorpion"]
 ## Environment
 
 desert
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

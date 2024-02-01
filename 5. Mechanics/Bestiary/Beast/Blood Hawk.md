@@ -67,7 +67,3 @@ Taking its name from its crimson feathers and aggressive nature, the blood hawk 
 ## Environment
 
 mountain, grassland, forest, hill, coastal, arctic
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

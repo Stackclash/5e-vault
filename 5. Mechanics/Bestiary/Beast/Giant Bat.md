@@ -57,7 +57,3 @@ aliases: ["Giant Bat"]
 ## Environment
 
 underdark, forest
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

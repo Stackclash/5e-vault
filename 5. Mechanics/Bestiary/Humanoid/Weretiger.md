@@ -126,7 +126,3 @@ Some individuals see little point in fighting the curse and accept what they are
 ## Environment
 
 grassland, forest, desert
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

@@ -77,7 +77,3 @@ As it burrows through earth, the ankheg leaves a narrow, partially collapsed tun
 ## Environment
 
 grassland, forest
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

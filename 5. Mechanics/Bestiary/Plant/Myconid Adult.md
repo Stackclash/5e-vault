@@ -82,7 +82,3 @@ Like other fungi, myconids reproduce by mundane sporing. They carefully control 
 ## Environment
 
 underdark
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

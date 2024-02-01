@@ -67,7 +67,3 @@ A newly hatched guard drake imprints upon the first creature that feeds it (usua
 ## Environment
 
 arctic, desert, forest, mountain, swamp, underdark, urban
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

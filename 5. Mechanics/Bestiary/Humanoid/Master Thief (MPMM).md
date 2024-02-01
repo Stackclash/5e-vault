@@ -96,7 +96,3 @@ When a master thief completes a challenging heist, they often leave behind a cal
 ## Environment
 
 urban
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

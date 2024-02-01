@@ -76,7 +76,3 @@ Any creature that comes into contact with a single rot grub must succeed on a DC
 ## Environment
 
 swamp, underdark
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

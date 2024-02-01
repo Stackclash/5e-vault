@@ -67,7 +67,3 @@ aliases: ["Cat"]
 ## Environment
 
 grassland, forest, urban, desert
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

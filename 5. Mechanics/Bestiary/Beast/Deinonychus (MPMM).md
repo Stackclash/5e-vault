@@ -65,7 +65,3 @@ This larger cousin of the velociraptor kills by gripping its target with its cla
 ## Environment
 
 forest, grassland, hill
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

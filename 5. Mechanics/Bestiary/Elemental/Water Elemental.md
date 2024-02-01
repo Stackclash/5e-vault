@@ -112,7 +112,3 @@ An elemental doesn't require air, food, drink, or sleep.
 ## Environment
 
 underwater, swamp, coastal
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

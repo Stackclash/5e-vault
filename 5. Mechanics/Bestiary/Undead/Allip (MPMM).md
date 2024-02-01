@@ -89,7 +89,3 @@ An allip might attempt to share its lore to escape its curse and enter the after
 ## Environment
 
 swamp, urban
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

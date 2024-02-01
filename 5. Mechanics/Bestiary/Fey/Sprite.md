@@ -102,7 +102,3 @@ Unlike pixies, sprites rarely indulge in frivolous merriment and fun. They are f
 ## Environment
 
 forest
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

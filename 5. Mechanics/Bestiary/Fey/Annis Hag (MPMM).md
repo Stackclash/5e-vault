@@ -86,7 +86,3 @@ A hag can have up to three iron tokens active at one time. As an action, the hag
 ## Environment
 
 hill, mountain
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

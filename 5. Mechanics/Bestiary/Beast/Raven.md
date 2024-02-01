@@ -59,7 +59,3 @@ aliases: ["Raven"]
 ## Environment
 
 swamp, hill, urban
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

@@ -96,7 +96,3 @@ Whatever the truth of the ettins' origin, orcs treat them as distant cousins, an
 ## Environment
 
 underdark, mountain, hill
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

@@ -58,7 +58,3 @@ aliases: ["Riding Horse"]
 ## Environment
 
 grassland, urban
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

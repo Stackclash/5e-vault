@@ -104,7 +104,3 @@ Releasing a phoenix from the Inner Planes creates an explosion of fire that spre
 ## Environment
 
 desert, mountain
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

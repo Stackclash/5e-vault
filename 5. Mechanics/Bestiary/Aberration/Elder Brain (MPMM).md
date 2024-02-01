@@ -145,7 +145,3 @@ An elder brain's ambitions are always tempered by its relative immobility. Altho
 ## Environment
 
 underdark
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

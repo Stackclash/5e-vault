@@ -83,7 +83,3 @@ The grim captains of the ferries on the River Styx, merrenoloths can navigate sa
 ## Environment
 
 coastal
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

@@ -64,7 +64,3 @@ A worg is an evil predator that delights in hunting and devouring creatures weak
 ## Environment
 
 grassland, forest, hill
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

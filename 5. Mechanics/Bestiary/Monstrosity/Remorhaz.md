@@ -86,7 +86,3 @@ Frost giant hunters scour the icy wastes for remorhaz nests and eggs. The giants
 ## Environment
 
 arctic
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

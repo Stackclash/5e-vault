@@ -69,7 +69,3 @@ A giant lizard can be ridden or used as a draft animal. Lizardfolk also keep the
 ## Environment
 
 underdark, forest, swamp, desert, coastal
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

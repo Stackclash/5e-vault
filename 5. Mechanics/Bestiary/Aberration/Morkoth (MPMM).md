@@ -114,7 +114,3 @@ A morkoth encountered in its lair has a challenge rating of 12 (8,400 XP).
 ## Environment
 
 coastal, underwater
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

@@ -78,7 +78,3 @@ Witherlings travel with their comrades and try to kill anything in their path. T
 ## Environment
 
 arctic, forest, grassland, hill
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

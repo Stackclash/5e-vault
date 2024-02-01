@@ -75,7 +75,3 @@ aliases: ["Swarm of Ravens"]
 ## Environment
 
 forest, swamp, hill, urban
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

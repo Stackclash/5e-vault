@@ -105,7 +105,3 @@ This process doesn't work on the brain of an ulitharid that dies a natural death
 ## Environment
 
 underdark
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

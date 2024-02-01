@@ -84,7 +84,3 @@ A stirge attacks by landing on a victim, finding a vulnerable spot, and plunging
 ## Environment
 
 grassland, forest, swamp, hill, urban, desert, coastal, mountain, underdark
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

@@ -76,7 +76,3 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
 ## Environment
 
 desert, forest, swamp, underdark
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

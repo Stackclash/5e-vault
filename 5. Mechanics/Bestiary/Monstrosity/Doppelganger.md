@@ -111,7 +111,3 @@ Doppelgangers are too lazy or self-interested to raise their young. They assume 
 ## Environment
 
 underdark, urban
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

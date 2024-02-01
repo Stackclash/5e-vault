@@ -74,7 +74,3 @@ The arctic-dwelling winter wolf is as large as a dire wolf but has snow-white fu
 ## Environment
 
 arctic
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

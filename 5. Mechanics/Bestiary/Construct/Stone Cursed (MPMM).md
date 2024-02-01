@@ -78,7 +78,3 @@ Even though a creature transformed into a stone cursed is long dead, a vague whi
 ## Environment
 
 desert, mountain, urban
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

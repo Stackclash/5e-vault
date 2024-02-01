@@ -58,7 +58,3 @@ aliases: ["Elephant"]
 ## Environment
 
 grassland
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

@@ -69,7 +69,3 @@ The first gnolls were hyenas transformed by magic. Many of them were then corrup
 ## Environment
 
 arctic, forest, grassland, hill
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

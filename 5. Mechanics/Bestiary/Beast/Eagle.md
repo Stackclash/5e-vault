@@ -56,7 +56,3 @@ aliases: ["Eagle"]
 ## Environment
 
 mountain, grassland, hill, coastal
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

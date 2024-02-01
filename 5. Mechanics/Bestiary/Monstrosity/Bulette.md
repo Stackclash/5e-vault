@@ -90,6 +90,3 @@ Some sages believe the bulette is the result of a mad wizard's experiments at cr
 
 mountain, grassland, hill
 
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

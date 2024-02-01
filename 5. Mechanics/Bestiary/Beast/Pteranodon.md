@@ -66,7 +66,3 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
 ## Environment
 
 mountain, grassland, coastal
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

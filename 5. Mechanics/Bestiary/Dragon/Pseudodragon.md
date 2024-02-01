@@ -107,7 +107,3 @@ The pseudodragon can serve another creature as a familiar, forming a magic, tele
 ## Environment
 
 mountain, forest, hill, urban, desert, coastal
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

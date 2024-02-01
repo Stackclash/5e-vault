@@ -87,7 +87,3 @@ While some folk hunt cave fishers to kill them to harvest their filaments, shell
 ## Environment
 
 underdark
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

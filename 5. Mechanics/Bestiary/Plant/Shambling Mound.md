@@ -111,7 +111,3 @@ If a shambling mound faces defeat before an overwhelming foe, the root-stem can 
 ## Environment
 
 forest, swamp
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

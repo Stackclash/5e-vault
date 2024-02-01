@@ -59,7 +59,3 @@ aliases: ["Mule"]
 ## Environment
 
 hill, urban, desert
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

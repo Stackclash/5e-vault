@@ -111,7 +111,3 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 ## Environment
 
 mountain, underdark
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

@@ -95,7 +95,3 @@ Simple concepts in the language are understandable to frogs and toads. Bullywugs
 ## Environment
 
 swamp
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

@@ -92,7 +92,3 @@ An powerful necromancer might also discover the wicked methods of creating a dea
 ## Environment
 
 urban
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

@@ -100,7 +100,3 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
 ## Environment
 
 desert, forest
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

@@ -90,7 +90,3 @@ Comprising frigid air and water, ice mephits are aloof and cold, surpassing all 
 ## Environment
 
 arctic
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

@@ -128,7 +128,3 @@ Some individuals see little point in fighting the curse and accept what they are
 ## Environment
 
 forest, hill
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

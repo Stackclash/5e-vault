@@ -66,7 +66,3 @@ Ogres love to rush headlong into battle, but with enough time and patience, some
 ## Environment
 
 grassland, hill, mountain
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

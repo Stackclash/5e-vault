@@ -57,7 +57,3 @@ The cockatrice looks like a hideous hybrid of lizard, bird, and bat, and it is i
 ## Environment
 
 grassland
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

@@ -62,7 +62,3 @@ aliases: ["Warhorse"]
 ## Environment
 
 urban
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

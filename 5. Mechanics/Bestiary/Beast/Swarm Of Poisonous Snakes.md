@@ -74,7 +74,3 @@ aliases: ["Swarm of Poisonous Snakes"]
 ## Environment
 
 forest, swamp
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

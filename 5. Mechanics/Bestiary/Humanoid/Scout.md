@@ -95,7 +95,3 @@ Scouts are skilled hunters and trackers who offer their services for a fee. Most
 ## Environment
 
 coastal, mountain, grassland, hill, arctic, forest, swamp, underdark, desert
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

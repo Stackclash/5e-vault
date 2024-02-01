@@ -156,7 +156,3 @@ A beholder's central lair is typically a large, spacious cavern with high ceilin
 ## Environment
 
 underdark
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

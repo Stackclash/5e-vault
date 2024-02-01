@@ -138,7 +138,3 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 ## Environment
 
 underdark, mountain, hill
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

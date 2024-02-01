@@ -133,7 +133,3 @@ Aboleths lair in subterranean lakes or the rocky depths of the ocean, often surr
 ## Environment
 
 underdark
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

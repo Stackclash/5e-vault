@@ -80,7 +80,3 @@ aliases: ["Swarm of Bats"]
 ## Environment
 
 underdark, mountain, hill, urban
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

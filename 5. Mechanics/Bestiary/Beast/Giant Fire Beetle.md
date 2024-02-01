@@ -55,7 +55,3 @@ A giant fire beetle is a nocturnal creature that takes its name from a pair of g
 ## Environment
 
 underdark
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

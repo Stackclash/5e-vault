@@ -100,7 +100,3 @@ In combat, a bheur hag also strives to inspire horror. When near a recently slai
 ## Environment
 
 arctic
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

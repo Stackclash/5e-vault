@@ -73,7 +73,3 @@ Originally from the Elemental Plane of Fire, firenewts can be found on the Mater
 ## Environment
 
 hill, mountain, underdark
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

@@ -62,7 +62,3 @@ The majestic giant elk is rare to the point that its appearance is often taken a
 ## Environment
 
 mountain, grassland, forest, hill
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

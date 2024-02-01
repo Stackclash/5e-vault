@@ -57,7 +57,3 @@ aliases: ["Giant Wasp"]
 ## Environment
 
 grassland, forest, urban
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

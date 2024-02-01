@@ -73,7 +73,3 @@ aliases: ["Giant Octopus"]
 ## Environment
 
 underwater
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

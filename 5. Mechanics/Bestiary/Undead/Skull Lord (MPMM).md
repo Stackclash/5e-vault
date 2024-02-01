@@ -103,7 +103,3 @@ Infighting and treachery brought skull lords into existence. The first of them a
 ## Environment
 
 desert, swamp, underdark
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

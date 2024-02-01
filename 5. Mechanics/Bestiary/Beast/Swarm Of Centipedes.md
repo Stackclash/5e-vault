@@ -74,7 +74,3 @@ aliases: ["Swarm of Centipedes"]
 ## Environment
 
 underdark, grassland, forest, swamp, hill, urban, desert
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

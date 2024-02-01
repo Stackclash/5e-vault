@@ -98,7 +98,3 @@ Creatures that ingest water corrupted by a wastrilith risk their very souls. Tho
 ## Environment
 
 coastal, swamp, underdark, underwater
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

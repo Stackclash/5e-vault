@@ -93,7 +93,3 @@ Some favored consorts work behind the scenes to undermine the evils encouraged b
 ## Environment
 
 underdark
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

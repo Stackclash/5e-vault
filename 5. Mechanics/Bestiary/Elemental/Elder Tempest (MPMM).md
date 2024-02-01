@@ -108,7 +108,3 @@ Terrifying storms manifest in the bodies of elder tempests. Beings carved from c
 ## Environment
 
 arctic, coastal, grassland, hill, mountain
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

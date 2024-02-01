@@ -103,7 +103,3 @@ Nightmare speakers revel in torturing others, keeping their victims in a constan
 ## Environment
 
 desert, forest, underdark
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

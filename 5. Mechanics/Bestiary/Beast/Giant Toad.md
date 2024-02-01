@@ -74,7 +74,3 @@ aliases: ["Giant Toad"]
 ## Environment
 
 underdark, forest, swamp, desert, coastal
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

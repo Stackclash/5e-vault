@@ -86,7 +86,3 @@ Composed of earth and air, dust mephits are drawn to catacombs and find death mo
 ## Environment
 
 desert
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

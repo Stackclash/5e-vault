@@ -96,7 +96,3 @@ A grell will sometimes allow adventurers to wage war on the other monstrous inha
 ## Environment
 
 underdark
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

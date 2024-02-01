@@ -56,7 +56,3 @@ aliases: ["Poisonous Snake"]
 ## Environment
 
 grassland, forest, swamp, hill, desert, coastal
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

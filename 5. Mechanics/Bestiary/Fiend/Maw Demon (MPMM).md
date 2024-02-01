@@ -80,7 +80,3 @@ Because maw demons are indiscriminate in their hunger, their stomachs contain al
 ## Environment
 
 underdark
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

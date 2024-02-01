@@ -81,7 +81,3 @@ Tlincallis rarely build cities, make clothing, or mine metals. Instead, they sca
 ## Environment
 
 desert
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

@@ -91,7 +91,3 @@ Commoners include peasants, serfs, slaves, servants, pilgrims, merchants, artisa
 ## Environment
 
 arctic, desert, coastal, grassland, hill, urban, forest
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

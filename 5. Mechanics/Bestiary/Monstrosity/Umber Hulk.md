@@ -94,7 +94,3 @@ Many survivors of an umber hulk encounter recollect little about the attack, bec
 ## Environment
 
 underdark
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

@@ -76,7 +76,3 @@ Chokers tend to set their ambushes alone, rather than working in concert, but wh
 ## Environment
 
 forest, mountain, underdark
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

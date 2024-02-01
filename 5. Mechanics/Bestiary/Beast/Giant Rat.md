@@ -69,7 +69,3 @@ aliases: ["Giant Rat"]
 ## Environment
 
 underdark, forest, swamp, urban
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

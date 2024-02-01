@@ -98,7 +98,3 @@ Each bard is a master of at least one type of performance. You may choose a bard
 ## Environment
 
 urban
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

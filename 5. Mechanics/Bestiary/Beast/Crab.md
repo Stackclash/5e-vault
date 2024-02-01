@@ -53,7 +53,3 @@ aliases: ["Crab"]
 ## Environment
 
 coastal
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

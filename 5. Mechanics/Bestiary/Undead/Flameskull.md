@@ -119,7 +119,3 @@ A flameskull doesn't require air, food, drink, or sleep
 ## Environment
 
 underdark
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

@@ -98,7 +98,3 @@ Any conflagration larger than its body acts as a gateway to Gehenna and banishes
 ## Environment
 
 forest, grassland, hill, mountain, underdark
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

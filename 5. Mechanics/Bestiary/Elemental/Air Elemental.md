@@ -117,7 +117,3 @@ An elemental doesn't require air, food, drink, or sleep.
 ## Environment
 
 mountain, desert
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

@@ -67,7 +67,3 @@ aliases: ["Brown Bear"]
 ## Environment
 
 forest, hill, arctic
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

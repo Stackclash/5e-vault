@@ -79,7 +79,3 @@ A death kiss lacks the combat finesse and intelligence of a true beholder. In mo
 ## Environment
 
 underdark
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

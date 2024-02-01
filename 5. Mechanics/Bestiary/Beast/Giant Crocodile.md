@@ -68,7 +68,3 @@ aliases: ["Giant Crocodile"]
 ## Environment
 
 swamp
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

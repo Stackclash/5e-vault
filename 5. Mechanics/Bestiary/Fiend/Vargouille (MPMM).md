@@ -80,7 +80,3 @@ Vargouilles that roam free on the Material Plane are a dire threat to all creatu
 ## Environment
 
 desert, swamp, underdark
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

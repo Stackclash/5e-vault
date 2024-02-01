@@ -106,7 +106,3 @@ A shield guardian doesn't require air, food, drink, or sleep.
 ## Environment
 
 urban
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

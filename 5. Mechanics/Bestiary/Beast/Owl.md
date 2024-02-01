@@ -62,7 +62,3 @@ aliases: ["Owl"]
 ## Environment
 
 forest, arctic
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

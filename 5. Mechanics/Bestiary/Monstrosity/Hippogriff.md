@@ -73,7 +73,3 @@ A hippogriff raised in captivity can be trained to be a faithful companion and m
 ## Environment
 
 mountain, grassland, hill
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

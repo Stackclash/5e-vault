@@ -64,7 +64,3 @@ Giant owls often befriend fey and other sylvan creatures and are guardians of th
 ## Environment
 
 forest, hill, arctic
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

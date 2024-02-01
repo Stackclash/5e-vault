@@ -110,7 +110,3 @@ Sibriexes can channel the power of the Abyss to create new demons from other cre
 ## Environment
 
 underdark
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

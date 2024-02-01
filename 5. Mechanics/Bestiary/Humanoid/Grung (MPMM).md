@@ -81,7 +81,3 @@ Born in a wide range of colors, grungs most often appear in shades of green, blu
 ## Environment
 
 forest
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

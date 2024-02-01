@@ -118,7 +118,3 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 ## Environment
 
 mountain, swamp, urban
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

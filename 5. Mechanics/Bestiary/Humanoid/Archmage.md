@@ -109,7 +109,3 @@ An archmage typically has one or more apprentice mages, and an archmage's abode 
 ## Environment
 
 urban
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

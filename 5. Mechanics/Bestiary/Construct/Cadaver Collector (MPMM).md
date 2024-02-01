@@ -80,7 +80,3 @@ Corpses that accumulate on a cadaver collector's shell aren't just grisly battle
 ## Environment
 
 grassland
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```

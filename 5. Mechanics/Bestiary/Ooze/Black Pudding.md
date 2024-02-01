@@ -117,7 +117,3 @@ An ooze doesn't require sleep.
 ## Environment
 
 underdark
-
-```dataviewjs
-await dv.view("monsterHarvesterTable", {current: dv.current()})
-```
