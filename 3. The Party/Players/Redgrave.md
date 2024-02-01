@@ -85,7 +85,19 @@ const logs = dv.pages('"3. The Party/Session Logs"').filter(p => p.file.outlinks
 
 const mentions = []
 
-const logsContent = await Promise.all(logs.map(l => dv.io.load(l.file.path).toString()))
-
-console.log(logsContent)
+await Promise.all(logs.map(l => dv.io.load(l.file.path)))
+  .then(logContents => {
+    logContents.forEach(lc => {
+      lc.split('/n').forEach(line => {
+        console.log(line)
+        if (new RegExp(dv.current().file.name).test(line)) {
+          mentions.push(line)
+        }
+      })
+    })
+    return
+  })
+  .then(() => {
+    dv.list(mentions)
+  })
 ```
