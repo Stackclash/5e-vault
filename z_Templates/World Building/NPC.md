@@ -13,7 +13,7 @@ condition: healthy
 image:
 relationships: []
 tags: 
-aliases: [<% tp.file.title %>]
+aliases: [<% title %>]
 pronounced: 
 race: 
 gender: 
