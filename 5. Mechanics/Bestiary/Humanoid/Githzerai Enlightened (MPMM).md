@@ -87,3 +87,8 @@ Githzerai are otherworldly folk with psionic powers who share an ancestral link 
 ## Environment
 
 desert, mountain, urban
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

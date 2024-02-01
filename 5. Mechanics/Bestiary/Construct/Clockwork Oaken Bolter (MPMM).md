@@ -122,3 +122,8 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
 ## Environment
 
 forest, grassland, hill, mountain
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

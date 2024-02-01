@@ -83,3 +83,8 @@ Composed of fire and water, steam mephits leave trails of hot water wherever the
 ## Environment
 
 underwater
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

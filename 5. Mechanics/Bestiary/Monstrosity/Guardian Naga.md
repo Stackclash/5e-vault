@@ -108,3 +108,8 @@ A naga doesn't require air, food, drink, or sleep.
 ## Environment
 
 forest, desert
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

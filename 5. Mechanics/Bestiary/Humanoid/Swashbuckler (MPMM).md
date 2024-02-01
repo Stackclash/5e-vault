@@ -83,3 +83,8 @@ Many swashbucklers have a signature flourish with which they embellish their act
 ## Environment
 
 coastal, urban
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

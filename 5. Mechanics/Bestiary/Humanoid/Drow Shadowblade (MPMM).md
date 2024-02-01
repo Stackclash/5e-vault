@@ -92,3 +92,8 @@ A shadowblade gains their powers over shadow via a ritual in which they kill a s
 ## Environment
 
 underdark
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

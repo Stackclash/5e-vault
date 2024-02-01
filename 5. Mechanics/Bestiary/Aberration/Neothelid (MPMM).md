@@ -88,3 +88,8 @@ Mind flayers consider neothelids dangerous abominations—normally they eat or d
 ## Environment
 
 underdark
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

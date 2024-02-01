@@ -120,3 +120,8 @@ Marids are champion tale-tellers, whose favorite legends emphasize the prowess o
 ## Environment
 
 underwater, coastal
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

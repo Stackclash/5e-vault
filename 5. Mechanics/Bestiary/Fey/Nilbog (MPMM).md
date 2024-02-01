@@ -90,3 +90,8 @@ If its host is killed or the possession is ended by a spell such as hallow, magi
 ## Environment
 
 forest, hill, underdark
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

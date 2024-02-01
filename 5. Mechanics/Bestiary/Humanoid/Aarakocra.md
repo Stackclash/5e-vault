@@ -95,3 +95,8 @@ The Wind Dukes of Aaqa come from a race of elemental beings called the vaati, wh
 ## Environment
 
 mountain
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

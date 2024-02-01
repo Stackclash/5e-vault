@@ -103,3 +103,8 @@ When viewed from the outside, a ki-rin's lair is indistinguishable from a natura
 ## Environment
 
 coastal, desert, grassland, mountain
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

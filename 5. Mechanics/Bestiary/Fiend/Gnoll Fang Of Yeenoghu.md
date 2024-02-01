@@ -92,3 +92,8 @@ No goodness or compassion resides in the heart of a gnoll. Like a demon, it lack
 ## Environment
 
 grassland, forest, hill, desert
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

@@ -72,3 +72,8 @@ A trapper needs to eat a [[5. Mechanics/Races/Halfling.md|halfling]]-sized meal 
 ## Environment
 
 underdark
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

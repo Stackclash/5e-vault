@@ -88,3 +88,8 @@ A galeb duhr can become one with the earth around it, allowing it to imbue nearb
 ## Environment
 
 mountain, hill
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

@@ -116,3 +116,8 @@ Whenever possible, ogres gang up with other monsters to bully or prey on creatur
 ## Environment
 
 grassland, forest, swamp, hill, desert, coastal, arctic, underdark, mountain
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

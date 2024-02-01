@@ -85,3 +85,8 @@ The knowledge that berbalangs accumulate makes them great sources of information
 ## Environment
 
 desert
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

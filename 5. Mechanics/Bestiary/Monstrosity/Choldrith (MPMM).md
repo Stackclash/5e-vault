@@ -96,3 +96,8 @@ Choldriths are born with a mystical connection to Lolth, which gives them divine
 ## Environment
 
 underdark
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

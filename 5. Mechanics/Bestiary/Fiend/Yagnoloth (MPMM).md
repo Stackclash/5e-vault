@@ -101,3 +101,8 @@ A yagnoloth has one arm of human size and one giant-sized arm. During negotiatio
 ## Environment
 
 urban
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

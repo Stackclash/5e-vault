@@ -85,3 +85,8 @@ A pack of yeth hounds can be created by powerful Fey such as the Queen of Air an
 ## Environment
 
 forest, grassland, hill
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

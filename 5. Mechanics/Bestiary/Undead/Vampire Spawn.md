@@ -142,3 +142,8 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
 ## Environment
 
 underdark, urban
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

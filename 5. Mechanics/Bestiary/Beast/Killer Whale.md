@@ -60,3 +60,8 @@ aliases: ["Killer Whale"]
 ## Environment
 
 underwater
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

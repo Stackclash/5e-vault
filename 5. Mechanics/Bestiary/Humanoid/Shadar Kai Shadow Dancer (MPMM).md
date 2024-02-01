@@ -93,3 +93,8 @@ Shadar-kai encountered outside the Shadowfell are often on quests to find the mo
 ## Environment
 
 forest, underdark, urban
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

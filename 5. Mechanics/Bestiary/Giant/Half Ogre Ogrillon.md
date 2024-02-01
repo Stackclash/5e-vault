@@ -103,3 +103,8 @@ The half-ogre offspring of an ogre and an orc is also called an ogrillon. An adu
 ## Environment
 
 underdark, mountain, forest, hill, urban, desert, arctic
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

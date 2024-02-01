@@ -59,3 +59,8 @@ aliases: ["Giant Centipede"]
 ## Environment
 
 underdark, urban
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

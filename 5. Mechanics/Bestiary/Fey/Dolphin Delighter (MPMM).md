@@ -77,3 +77,8 @@ Dolphins are clever, social marine mammals that feed on small fish and squid. An
 ## Environment
 
 coastal, underwater
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

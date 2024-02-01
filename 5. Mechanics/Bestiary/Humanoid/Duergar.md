@@ -104,3 +104,8 @@ Asmodeus, Lord of the Nine Hells, has been known to impersonate duergar gods in 
 ## Environment
 
 underdark
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

@@ -90,3 +90,8 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
 ## Environment
 
 arctic, desert, underdark, urban
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

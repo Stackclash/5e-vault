@@ -77,3 +77,8 @@ Every kraken priest undergoes a change in appearance that reflects the kraken's 
 ## Environment
 
 coastal, underwater
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

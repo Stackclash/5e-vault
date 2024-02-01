@@ -62,3 +62,8 @@ aliases: ["Giant Poisonous Snake"]
 ## Environment
 
 underdark, grassland, forest, swamp, urban, desert
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

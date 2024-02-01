@@ -77,3 +77,8 @@ Part of what makes armanites so fearsome is the number of weapons they have at t
 ## Environment
 
 underdark
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

@@ -61,3 +61,8 @@ aliases: ["Giant Goat"]
 ## Environment
 
 mountain, grassland, hill
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

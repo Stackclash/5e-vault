@@ -93,3 +93,8 @@ Hell hounds are smarter than mundane beasts, and their lawful nature makes them 
 ## Environment
 
 underdark, mountain
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

@@ -70,3 +70,8 @@ Merfolk defend their communities with spears crafted from whatever materials the
 ## Environment
 
 underwater, coastal
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

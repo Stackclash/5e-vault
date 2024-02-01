@@ -72,3 +72,8 @@ Girallons that are well treated might be willing to serve as guards, though they
 ## Environment
 
 forest
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

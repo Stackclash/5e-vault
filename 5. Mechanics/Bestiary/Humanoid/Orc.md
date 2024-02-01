@@ -107,3 +107,8 @@ Luthic, the orc goddess of fertility and wife of Gruumsh, demands that orcs proc
 ## Environment
 
 underdark, mountain, grassland, forest, swamp, hill, arctic
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

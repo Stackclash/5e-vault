@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Mechanics/Bestiary/Celestial/Celestial.md",
+                "file": "5. Mechanics/Bestiary/Celestial/Pegasus.md",
                 "mode": "preview",
                 "source": false
               }
@@ -100,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "5. Mechanics/Bestiary/Celestial/Pegasus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "5. Mechanics/Bestiary/Celestial/Pegasus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vampire Spawn.md"
+                "file": "5. Mechanics/Bestiary/Celestial/Pegasus.md"
               }
             }
           },
@@ -192,13 +194,13 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "a88a1818b2c15bdd",
+  "active": "cf0228d4def18436",
   "lastOpenFiles": [
+    "5. Mechanics/Bestiary/Celestial/Celestial.md",
+    "Vampire Spawn.md",
     "z_Scripts/Dataview/monsterHarvesterTable.js",
     "conflict-files-obsidian-git.md",
     "5. Mechanics/Tables/Vampire Spawn Hhhvi.md",
-    "Vampire Spawn.md",
-    "5. Mechanics/Bestiary/Celestial/Celestial.md",
     "4. World Almanac/Settlements/Krezk.md",
     "4. World Almanac/NPCs/Urwin Martikov.md",
     "5. Mechanics/Bestiary/Monstrosity/Yuan Ti Pit Master (MPMM).md",
@@ -239,7 +241,6 @@
     "compendium/bestiary/construct/token/rug-of-smothering.png",
     "compendium/bestiary/npc/img/arrigal.webp",
     "compendium/decks/img/201-dnd_tarokka_monk.webp",
-    "compendium/bestiary/undead/img",
     "Untitled.canvas"
   ]
 }

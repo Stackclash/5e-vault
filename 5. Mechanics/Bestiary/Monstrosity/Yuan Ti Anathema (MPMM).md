@@ -104,3 +104,8 @@ Anathemas don't age, allowing them to pursue their goals until the end of days. 
 ## Environment
 
 desert, forest, underdark
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

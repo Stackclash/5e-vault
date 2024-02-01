@@ -107,3 +107,8 @@ The sahuagin put the malenti to good use as spies and assassins in aquatic elf c
 ## Environment
 
 underwater, coastal
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

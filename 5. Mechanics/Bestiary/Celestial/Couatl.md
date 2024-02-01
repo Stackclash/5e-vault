@@ -114,3 +114,8 @@ The mating ritual of couatls is a beautiful and elaborate dance of magic and lig
 ## Environment
 
 grassland, forest, urban, desert
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

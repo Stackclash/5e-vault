@@ -123,3 +123,8 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
 ## Environment
 
 forest, swamp
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

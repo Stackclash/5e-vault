@@ -102,3 +102,8 @@ A gibbering mouther leaves nothing of its prey behind. However, even as the last
 ## Environment
 
 underdark
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

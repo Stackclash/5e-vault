@@ -134,3 +134,8 @@ A sphinx presides over an ancient temple, sepulcher, or vault, within which are 
 ## Environment
 
 desert
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

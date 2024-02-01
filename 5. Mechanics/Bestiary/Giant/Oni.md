@@ -122,3 +122,8 @@ Oni are sometimes called ogre mages because of their innate magical ability. Tho
 ## Environment
 
 forest, urban
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

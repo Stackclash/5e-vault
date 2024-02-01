@@ -60,3 +60,8 @@ Many kinds of cattle roam the multiverse, some of them domesticated and others f
 ## Environment
 
 grassland, urban
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

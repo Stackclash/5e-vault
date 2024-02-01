@@ -59,3 +59,8 @@ aliases: ["Cave Bear"]
 ## Environment
 
 forest, underdark
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

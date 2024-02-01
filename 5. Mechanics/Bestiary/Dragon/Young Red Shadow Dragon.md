@@ -128,3 +128,8 @@ Any damage-dealing breath weapon possessed by the dragon deals necrotic damage i
 ## Environment
 
 underdark
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

@@ -179,3 +179,8 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 ## Environment
 
 coastal
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

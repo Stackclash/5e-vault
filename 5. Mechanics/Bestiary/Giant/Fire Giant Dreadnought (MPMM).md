@@ -83,3 +83,8 @@ When not called on to fight, dreadnoughts maintain their strength by using their
 ## Environment
 
 mountain, underdark
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

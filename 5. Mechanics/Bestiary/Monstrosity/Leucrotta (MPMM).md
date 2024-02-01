@@ -81,3 +81,8 @@ A leucrotta's stench would normally warn away prey long before the creature coul
 ## Environment
 
 desert, grassland
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

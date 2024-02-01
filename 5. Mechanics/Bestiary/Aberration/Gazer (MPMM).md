@@ -85,3 +85,8 @@ A wild gazer (one living separately from a beholder) is territorial, eats bugs a
 ## Environment
 
 underdark
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

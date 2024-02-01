@@ -91,3 +91,8 @@ Dreamwalkers become divorced from reality by isolation, shame, and their unendin
 ## Environment
 
 coastal, hill, mountain
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

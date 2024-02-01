@@ -53,3 +53,8 @@ An axe beak is a tall flightless bird with strong legs and a heavy, wedge-shaped
 ## Environment
 
 grassland, hill
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

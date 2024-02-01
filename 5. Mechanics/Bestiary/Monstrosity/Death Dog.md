@@ -71,3 +71,8 @@ A death dog is an ugly two-headed hound that roams plains, deserts, and the Unde
 ## Environment
 
 desert
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

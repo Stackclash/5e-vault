@@ -90,3 +90,8 @@ Generally, a nightwalker on the Material Plane is attracted to elements of the w
 ## Environment
 
 arctic, desert, swamp, underdark
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

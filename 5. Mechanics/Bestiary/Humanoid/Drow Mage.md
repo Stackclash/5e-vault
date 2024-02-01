@@ -153,3 +153,8 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
 ## Environment
 
 underdark
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

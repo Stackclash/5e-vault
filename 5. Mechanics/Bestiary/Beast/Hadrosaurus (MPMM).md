@@ -52,3 +52,8 @@ A hadrosaurus is a semi-quadrupedal herbivore with bony head crests. If raised f
 ## Environment
 
 grassland, swamp
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

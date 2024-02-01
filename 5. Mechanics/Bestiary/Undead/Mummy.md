@@ -123,3 +123,8 @@ A mummy doesn't require air, food, drink, or sleep.
 ## Environment
 
 desert
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

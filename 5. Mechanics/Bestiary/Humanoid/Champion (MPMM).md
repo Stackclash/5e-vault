@@ -95,3 +95,8 @@ A typical champion bears a coat of arms, heraldry that is associated with the ch
 ## Environment
 
 desert, urban
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

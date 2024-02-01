@@ -87,3 +87,8 @@ With senses sharp enough to pinpoint the locations of nearby [[/5. Mechanics/Rul
 ## Environment
 
 coastal, underdark, urban
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

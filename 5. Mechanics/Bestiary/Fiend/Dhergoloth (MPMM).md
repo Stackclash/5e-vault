@@ -81,3 +81,8 @@ Since dhergoloths are little more than brutes, employers must use caution when i
 ## Environment
 
 underdark
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

@@ -50,3 +50,8 @@ aliases: ["Badger"]
 ## Environment
 
 forest
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

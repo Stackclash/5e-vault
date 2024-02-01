@@ -88,3 +88,8 @@ When a gorgon spots potential prey, it charges with a hideous clamor of metal on
 ## Environment
 
 grassland, forest, hill
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

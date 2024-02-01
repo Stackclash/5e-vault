@@ -102,3 +102,8 @@ Blackguards often adorn their armor and weapons with dread accoutrements or are 
 ## Environment
 
 underdark, urban
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

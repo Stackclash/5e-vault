@@ -84,3 +84,8 @@ When glory-obsessed warriors die in battle without honor, they might haunt the s
 ## Environment
 
 grassland, swamp
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

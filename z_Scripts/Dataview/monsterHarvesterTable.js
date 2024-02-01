@@ -3,4 +3,4 @@ let tablePage = dv.pages('"5. Mechanics/Tables"').filter(p => {
         p.aliases[0] == input.current.aliases[0]
 })[0]
 
-dv.paragraph(dv.blockLink(tablePage.file.path, "dc-item-description-value-weight-crafting", true))
+dv.paragraph(dv.blockLink(tablePage.file.path, "dc-item-description-value-weight-crafting", true, true))

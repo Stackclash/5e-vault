@@ -97,3 +97,8 @@ To snare its prey, a giant spider spins elaborate webs or shoots sticky strands 
 ## Environment
 
 underdark, forest, swamp, urban, desert
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

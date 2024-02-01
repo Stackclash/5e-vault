@@ -83,3 +83,8 @@ Guards include members of a city watch, sentries in a citadel or fortified town,
 ## Environment
 
 coastal, mountain, grassland, hill, urban, forest, desert
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

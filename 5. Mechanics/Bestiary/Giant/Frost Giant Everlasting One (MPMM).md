@@ -87,3 +87,8 @@ After devouring the troll sent by Vaprak, bones and all, a frost giant becomes a
 ## Environment
 
 coastal
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

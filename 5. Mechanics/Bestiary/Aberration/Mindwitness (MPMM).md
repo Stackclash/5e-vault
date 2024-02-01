@@ -101,3 +101,8 @@ If separated from its illithid masters, a mindwitness seeks out other telepathic
 ## Environment
 
 underdark
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

@@ -80,3 +80,8 @@ Howlers rely on speed, numbers, and their mind-numbing howling to corner prey be
 ## Environment
 
 desert, grassland, hill, underdark
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

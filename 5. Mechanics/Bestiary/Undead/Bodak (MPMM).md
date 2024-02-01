@@ -93,3 +93,8 @@ A bodak retains vague impressions of its past life. It seeks out its former alli
 ## Environment
 
 swamp, underdark, urban
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

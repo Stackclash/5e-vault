@@ -84,3 +84,8 @@ Mud mephits are slow, unctuous creatures of earth and water. They drone their co
 ## Environment
 
 swamp
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

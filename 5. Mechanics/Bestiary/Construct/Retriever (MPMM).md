@@ -93,3 +93,8 @@ Though retrievers were created to operate only in the Abyss, they are sometimes 
 ## Environment
 
 desert, forest, underdark
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

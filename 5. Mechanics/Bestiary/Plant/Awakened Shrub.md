@@ -61,3 +61,8 @@ An awakened shrub is an ordinary shrub given sentience and mobility by the [[5. 
 ## Environment
 
 forest
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

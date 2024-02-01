@@ -65,3 +65,8 @@ aliases: ["Crocodile"]
 ## Environment
 
 swamp, urban
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

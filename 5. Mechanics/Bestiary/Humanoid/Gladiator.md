@@ -91,3 +91,8 @@ Gladiators battle for the entertainment of raucous crowds. Some gladiators are b
 ## Environment
 
 urban
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

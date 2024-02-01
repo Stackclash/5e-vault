@@ -75,3 +75,8 @@ aliases: ["Giant Frog"]
 ## Environment
 
 forest, swamp
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

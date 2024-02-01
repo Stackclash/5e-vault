@@ -87,3 +87,8 @@ Some alchemists are said to know how to process the basilisk's gullet and the fl
 ## Environment
 
 mountain
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

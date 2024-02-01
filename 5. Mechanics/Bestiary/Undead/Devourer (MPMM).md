@@ -79,3 +79,8 @@ Devourers hunt Humanoids with the intent of consuming them body and soul. After 
 ## Environment
 
 underdark
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

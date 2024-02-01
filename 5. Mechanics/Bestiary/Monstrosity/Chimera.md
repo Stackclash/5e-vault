@@ -84,3 +84,8 @@ Though chimeras are far from cunning, their draconic ego makes them susceptible 
 ## Environment
 
 underdark, mountain, grassland, hill
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

@@ -118,3 +118,8 @@ Cloakers prefer isolation, but they sometimes convene with other cloakers for de
 ## Environment
 
 underdark
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

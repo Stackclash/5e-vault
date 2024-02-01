@@ -82,3 +82,8 @@ Whether in subterranean darkness or while hunting at night, light signals a pote
 ## Environment
 
 underdark
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

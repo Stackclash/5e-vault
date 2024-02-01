@@ -107,3 +107,8 @@ Harpies take shiny baubles, valuable objects, and other trophies from their vict
 ## Environment
 
 mountain, forest, hill, coastal
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

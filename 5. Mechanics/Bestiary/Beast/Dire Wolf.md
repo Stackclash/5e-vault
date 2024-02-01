@@ -66,3 +66,8 @@ aliases: ["Dire Wolf"]
 ## Environment
 
 forest, hill
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

@@ -82,3 +82,8 @@ Some renowned archers and groups of archers are known for the special fletching 
 ## Environment
 
 forest, urban
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

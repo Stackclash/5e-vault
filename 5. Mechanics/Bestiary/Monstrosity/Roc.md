@@ -94,3 +94,8 @@ Sometimes a roc's nest contains treasures from the caravans or ships they raid, 
 ## Environment
 
 mountain, hill, desert, coastal, arctic
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

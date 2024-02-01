@@ -87,3 +87,8 @@ Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and th
 ## Environment
 
 desert, mountain, underdark
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

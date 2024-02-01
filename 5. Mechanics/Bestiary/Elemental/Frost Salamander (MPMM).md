@@ -77,3 +77,8 @@ On rare occasions, [[5. Mechanics/Bestiary/Giant/Frost Giant.md|frost giants]] c
 ## Environment
 
 arctic
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

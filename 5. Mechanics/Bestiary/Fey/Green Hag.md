@@ -164,3 +164,8 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
 ## Environment
 
 forest, swamp, hill
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

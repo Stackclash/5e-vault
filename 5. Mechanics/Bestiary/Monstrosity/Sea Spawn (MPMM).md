@@ -81,3 +81,8 @@ Kraken priests (in this book) tend to the kraken's flock. Most of the priests ar
 ## Environment
 
 coastal, underwater
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

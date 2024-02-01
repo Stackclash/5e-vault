@@ -119,3 +119,8 @@ When a zaratan is summoned from the Elemental Plane of Earth, the ground rises u
 ## Environment
 
 desert, forest, grassland, hill, mountain, underdark
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

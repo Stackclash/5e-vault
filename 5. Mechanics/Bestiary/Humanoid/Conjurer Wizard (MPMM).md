@@ -83,3 +83,8 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 ## Environment
 
 urban
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

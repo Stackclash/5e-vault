@@ -99,3 +99,8 @@ A jackalwere might also use its gaze to incapacitate a deadly enemy long enough 
 ## Environment
 
 grassland, desert
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

@@ -116,3 +116,8 @@ Orthons value the challenge of the chase and the thrill of one-on-one combat abo
 ## Environment
 
 desert, underdark, urban
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

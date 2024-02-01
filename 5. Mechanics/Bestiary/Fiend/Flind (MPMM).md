@@ -86,3 +86,8 @@ Unlike other leaders who might skulk behind their minions, a flind leads the cha
 ## Environment
 
 coastal, forest, grassland, hill
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

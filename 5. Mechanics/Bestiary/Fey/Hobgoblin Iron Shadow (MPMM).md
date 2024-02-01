@@ -78,3 +78,8 @@ An iron shadow is usually recruited from the ranks of the Feywild's hobgoblin ar
 ## Environment
 
 forest, grassland, hill
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

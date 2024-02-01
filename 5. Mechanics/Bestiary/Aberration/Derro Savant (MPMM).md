@@ -82,3 +82,8 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
 ## Environment
 
 underdark
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

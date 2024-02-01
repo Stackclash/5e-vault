@@ -75,3 +75,8 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
 ## Environment
 
 coastal, desert, mountain, underdark, urban
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

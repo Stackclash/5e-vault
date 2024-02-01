@@ -101,3 +101,8 @@ A shadow doesn't require air, food, drink, or sleep
 ## Environment
 
 underdark, urban
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

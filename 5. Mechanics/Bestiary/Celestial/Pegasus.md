@@ -78,3 +78,8 @@ Pegasi mate for life, build their nests in hard-to-reach locations, and give bir
 ## Environment
 
 grassland, forest, hill
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

@@ -96,3 +96,8 @@ The manticores' greatest territorial rivals include chimeras, griffons, perytons
 ## Environment
 
 mountain, grassland, hill, coastal, arctic
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

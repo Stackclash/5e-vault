@@ -87,3 +87,8 @@ Smiling ones take their name from the strange two-faced masks they wear. The smi
 ## Environment
 
 mountain
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

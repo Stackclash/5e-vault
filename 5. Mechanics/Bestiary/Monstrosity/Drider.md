@@ -94,3 +94,8 @@ On rare occasion, a drider returns to the fringes of drow society despite its cu
 ## Environment
 
 underdark
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

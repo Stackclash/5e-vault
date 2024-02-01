@@ -95,3 +95,8 @@ Rulers, nobles, merchants, guildmasters, and other wealthy individuals use spies
 ## Environment
 
 urban
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

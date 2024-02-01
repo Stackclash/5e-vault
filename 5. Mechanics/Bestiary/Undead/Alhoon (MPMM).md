@@ -124,3 +124,8 @@ Destroying a periapt of mind trapping consigns those trapped within it to oblivi
 ## Environment
 
 underdark
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

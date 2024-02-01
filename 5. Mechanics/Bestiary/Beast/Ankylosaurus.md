@@ -56,3 +56,8 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
 ## Environment
 
 grassland
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

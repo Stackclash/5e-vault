@@ -66,3 +66,8 @@ A giant shark is 30 feet long and normally found in deep oceans. Utterly fearles
 ## Environment
 
 underwater
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

@@ -90,3 +90,8 @@ Korreds have hair all over their bodies, but the hair that grows from their head
 ## Environment
 
 forest
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

@@ -92,3 +92,8 @@ Druids dwell in forests and other secluded wilderness locations, where they prot
 ## Environment
 
 coastal, mountain, grassland, hill, arctic, forest, swamp, underdark, desert
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

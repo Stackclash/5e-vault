@@ -58,3 +58,8 @@ aliases: ["Elephant"]
 ## Environment
 
 grassland
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

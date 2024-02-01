@@ -89,3 +89,8 @@ Some sages believe the bulette is the result of a mad wizard's experiments at cr
 ## Environment
 
 mountain, grassland, hill
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

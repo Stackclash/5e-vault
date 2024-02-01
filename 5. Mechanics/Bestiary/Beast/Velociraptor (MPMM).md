@@ -62,3 +62,8 @@ This feathered dinosaur is about the size of a large turkey. It is an aggressive
 ## Environment
 
 forest, grassland
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

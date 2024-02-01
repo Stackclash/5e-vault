@@ -98,3 +98,8 @@ Hungry to claim more power despite the Raven Queen's curse, nagpas strive to bri
 ## Environment
 
 coastal, desert, forest, swamp, underdark, urban
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

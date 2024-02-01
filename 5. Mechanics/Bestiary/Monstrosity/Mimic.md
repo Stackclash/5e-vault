@@ -105,3 +105,8 @@ Mimics live and hunt alone, though they occasionally share their feeding grounds
 ## Environment
 
 underdark, urban
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

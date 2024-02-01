@@ -87,3 +87,8 @@ The training to which a deep scion is subjected rids it of empathy for those the
 ## Environment
 
 coastal, underwater
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

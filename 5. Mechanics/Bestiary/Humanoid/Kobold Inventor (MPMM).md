@@ -108,3 +108,8 @@ A kobold inventor builds improvised weapons to gain an advantage in combat. Thes
 ## Environment
 
 forest, hill, mountain, underdark, urban
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

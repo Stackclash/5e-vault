@@ -104,3 +104,8 @@ Mages spend their lives in the study and practice of magic. Good-aligned mages o
 ## Environment
 
 urban
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

@@ -113,3 +113,8 @@ If the orc plucks out one of its eyes, Gruumsh might grant the orc spellcasting 
 ## Environment
 
 underdark, mountain, grassland, forest, swamp, hill, arctic
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

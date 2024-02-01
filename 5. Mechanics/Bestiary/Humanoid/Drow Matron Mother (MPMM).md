@@ -139,3 +139,8 @@ Any temple of Lolth also functions as a matron mother's lair while she is inside
 ## Environment
 
 underdark
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

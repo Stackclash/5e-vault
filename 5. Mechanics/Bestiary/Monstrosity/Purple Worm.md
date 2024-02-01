@@ -94,3 +94,8 @@ A burrowing purple worm constantly creates new tunnels throughout the Underdark,
 ## Environment
 
 underdark, desert
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

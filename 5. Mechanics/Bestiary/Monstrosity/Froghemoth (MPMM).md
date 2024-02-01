@@ -93,3 +93,8 @@ If [[5. Mechanics/Bestiary/Humanoid/Bullywug.md|bullywugs]] come across a froghe
 ## Environment
 
 swamp, underdark
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```

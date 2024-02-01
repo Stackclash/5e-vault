@@ -100,3 +100,8 @@ Like devils, rakshasas killed in the Nine Hells are forever destroyed.
 ## Environment
 
 urban
+
+## Harvester Table
+```dataviewjs
+await dv.view("monsterHarvesterTable", {current: dv.current()})
+```
