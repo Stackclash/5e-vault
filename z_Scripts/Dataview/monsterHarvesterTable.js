@@ -9,5 +9,5 @@ if (tablePage) {
     console.log(dv.fileLink(tablePage.file.path, true))
 
     // dv.el('span', table)
-    dv.span(dv.fileLink(tablePage.file.path, true))
+    dv.span(dv.blockLink(tablePage.file.path, "dc-item-description-value-weight-crafting", true, input.current.aliases[0]))
 }
