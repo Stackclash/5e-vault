@@ -79,3 +79,8 @@ frame: DnDBGeorge
 ## Hidden Details
 
 ## Notes
+
+```dataview
+LIST FROM "3. The Party/Session Logs"
+WHERE contains(file.inlinks, this.file.link)
+```

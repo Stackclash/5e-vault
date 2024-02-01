@@ -124,8 +124,8 @@ Look for an entertaining man with a monkey. This man is more than he seems.
 Your enemy is a creature of darkness, whose powers are beyond mortality. This card will lead you to him!
 He haunts the tomb of the man he envied above all.
 
-- Redgrave buys 5lbs of iron for 20cp
-- Marin buys Potion of Growth for 75gp
+- [[Redgrave]] buys 5lbs of iron for 20cp
+- [[Marin]] buys Potion of Growth for 75gp
 - 5 x 5gp healing potion
 - 2 x 15gp greater potion
 - Sells 2 short swords
