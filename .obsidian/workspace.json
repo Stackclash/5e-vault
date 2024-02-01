@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Mechanics/Bestiary/Fey/Ash Marshal (SAF).md",
+                "file": "5. Mechanics/Bestiary/Fey/Dryad.md",
                 "mode": "preview",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Mechanics/Bestiary/Fey/Ash Marshal (SAF).md",
+                "file": "5. Mechanics/Bestiary/Fey/Dryad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Mechanics/Bestiary/Fey/Ash Marshal (SAF).md",
+                "file": "5. Mechanics/Bestiary/Fey/Dryad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Mechanics/Bestiary/Fey/Ash Marshal (SAF).md"
+                "file": "5. Mechanics/Bestiary/Fey/Dryad.md"
               }
             }
           },
@@ -197,7 +197,17 @@
   },
   "active": "aa9eb8a11dc14895",
   "lastOpenFiles": [
+    "5. Mechanics/Bestiary/Humanoid/Werewolf.md",
+    "5. Mechanics/Bestiary/Fey/Hobgoblin Iron Shadow (MPMM).md",
+    "5. Mechanics/Bestiary/Fey/Hobgoblin Devastator (MPMM).md",
+    "5. Mechanics/Bestiary/Fey/Green Hag.md",
+    "5. Mechanics/Bestiary/Fey/Dusk Hag (ERLW).md",
+    "5. Mechanics/Bestiary/Fey/Ash Marshal (SAF).md",
+    "5. Mechanics/Bestiary/Fey/Autumn Eladrin (MPMM).md",
+    "5. Mechanics/Bestiary/Fey/Bheur Hag (MPMM).md",
     "5. Mechanics/Bestiary/Fey/Fey.md",
+    "5. Mechanics/Bestiary/Fey/Dryad.md",
+    "5. Mechanics/Bestiary/Fey/Blink Dog.md",
     "1. DM Screen/Configuration.md",
     "4. World Almanac/Settlements/Vallaki.md",
     "1. DM Screen/1. DM Screen.md",
@@ -207,7 +217,6 @@
     "5. Mechanics/Bestiary/Beast/Axe Beak.md",
     "5. Mechanics/Bestiary/Monstrosity/Basilisk.md",
     "conflict-files-obsidian-git.md",
-    "5. Mechanics/Bestiary/Fey/Green Hag.md",
     "5. Mechanics/Bestiary/Monstrosity/Monstrosity.md",
     "5. Mechanics/Bestiary/Monstrosity/Bulette.md",
     "test.js",
@@ -215,16 +224,7 @@
     "5. Mechanics/Bestiary/Dragon/Dragon.md",
     "5. Mechanics/Bestiary/Dragon/Gold Dragon Wyrmling.md",
     "5. Mechanics/Bestiary/Dragon/Adult Red Dragon.md",
-    "5. Mechanics/Bestiary/Dragon/Adult Green Dragon.md",
-    "5. Mechanics/Tables/Vampire Spawn Hhhvi.md",
-    "5. Mechanics/Bestiary/Fey/Fey Spirit-9th Level Spell (TCE).md",
-    "5. Mechanics/Bestiary/Fey/Dryad.md",
-    "5. Mechanics/Bestiary/Fey/Dolphin Delighter (MPMM).md",
-    "5. Mechanics/Bestiary/Celestial/Pegasus.md",
-    "5. Mechanics/Bestiary/Celestial/Celestial.md",
-    "Vampire Spawn.md",
     "z_Scripts/Dataview/monsterHarvesterTable.js",
-    "4. World Almanac/Settlements/Krezk.md",
     "6. Resources/5e Modules/Curse Of Strahd/img/024-005.jpg",
     "6. Resources/5e Modules/Curse Of Strahd/img/008-cos201.jpg",
     "z_Assets/Barovia_Banner.webp",
