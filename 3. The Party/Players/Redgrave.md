@@ -80,7 +80,11 @@ frame: DnDBGeorge
 
 ## Notes
 
-```dataview
-LIST FROM "3. The Party/Session Logs"
-WHERE contains(file.inlinks, this.file.link)
+```dataviewjs
+const logs = dv.pages('"3. The Party/Session Logs"').filter(p => contains(p.outlinks, dv.current().file.link))
+
+const mentions = []
+logs.forEach(l => {
+	
+})
 ```
