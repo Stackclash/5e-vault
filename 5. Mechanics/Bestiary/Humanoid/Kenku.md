@@ -95,7 +95,6 @@ All kenku pine for the ability to fly, and thus the punishments they mete out to
 
 forest, urban
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

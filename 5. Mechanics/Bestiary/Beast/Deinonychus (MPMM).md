@@ -66,7 +66,6 @@ This larger cousin of the velociraptor kills by gripping its target with its cla
 
 forest, grassland, hill
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

@@ -119,7 +119,6 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 
 mountain, swamp, urban
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

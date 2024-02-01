@@ -70,7 +70,6 @@ A giant vulture has advanced intelligence and a malevolent bent. Unlike its smal
 
 grassland, desert
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

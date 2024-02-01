@@ -115,7 +115,6 @@ A will-o'-wisp doesn't require air, drink, or sleep.
 
 forest, swamp, urban
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

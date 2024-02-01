@@ -115,7 +115,6 @@ A zombie doesn't require air, food, drink, or sleep.
 
 urban
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

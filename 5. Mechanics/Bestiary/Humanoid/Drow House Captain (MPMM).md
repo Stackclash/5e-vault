@@ -101,7 +101,6 @@ Among Lolth's devotees in the city of Menzoberranzan in the Forgotten Realms, ea
 
 underdark
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

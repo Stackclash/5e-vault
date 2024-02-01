@@ -112,7 +112,6 @@ Doppelgangers are too lazy or self-interested to raise their young. They assume 
 
 underdark, urban
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

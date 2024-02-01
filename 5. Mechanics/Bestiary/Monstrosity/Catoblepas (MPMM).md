@@ -77,7 +77,6 @@ Sages say that gods of pestilence and rot created catoblepases as embodiments of
 
 swamp
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

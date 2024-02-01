@@ -65,7 +65,6 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
 
 underwater, coastal
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

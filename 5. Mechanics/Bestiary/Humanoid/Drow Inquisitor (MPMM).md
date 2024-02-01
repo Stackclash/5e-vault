@@ -95,7 +95,6 @@ Lolth's worshipers expect treachery—the Spider Queen encourages it, after all.
 
 underdark
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

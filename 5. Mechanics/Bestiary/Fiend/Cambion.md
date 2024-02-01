@@ -107,7 +107,6 @@ The demon lord Graz'zt is fond of procreating with humanoids who have made pacts
 
 urban
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

@@ -109,7 +109,6 @@ Inebriated on drink and pleasure, satyrs give no thought to the consequences of 
 
 forest
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

@@ -94,7 +94,6 @@ A gelatinous cube is all but transparent, making it hard to spot until it attack
 
 underdark
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

@@ -84,7 +84,6 @@ Generations of hunting venomous subterranean creatures and perpetual exposure to
 
 underdark
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

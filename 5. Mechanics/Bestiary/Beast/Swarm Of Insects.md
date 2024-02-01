@@ -79,7 +79,6 @@ aliases: ["Swarm of Insects"]
 
 underdark, grassland, forest, swamp, hill, urban, desert
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

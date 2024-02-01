@@ -121,7 +121,6 @@ A revenant doesn't require air, food, drink, or sleep.
 
 forest, swamp, hill, urban, desert, arctic
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

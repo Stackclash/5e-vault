@@ -95,7 +95,6 @@ Although they begin as creations of the Horned King, minotaurs can breed true wi
 
 underdark
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

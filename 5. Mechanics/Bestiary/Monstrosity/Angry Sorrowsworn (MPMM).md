@@ -72,7 +72,6 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
 
 underdark, urban
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

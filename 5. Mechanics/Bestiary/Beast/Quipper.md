@@ -64,7 +64,6 @@ Quippers can adapt to any aquatic environment, including cold subterranean lakes
 
 underwater
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

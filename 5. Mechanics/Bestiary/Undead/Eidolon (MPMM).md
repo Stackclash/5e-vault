@@ -91,7 +91,6 @@ To protect sites they deem holy, gods often rely on eidolons, ghostly spirits bo
 
 coastal, desert, forest, grassland, mountain, urban
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

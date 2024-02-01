@@ -72,7 +72,6 @@ Although they prefer to eat fresh meat, bone, and blood, vegepygmies can absorb 
 
 forest, swamp
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

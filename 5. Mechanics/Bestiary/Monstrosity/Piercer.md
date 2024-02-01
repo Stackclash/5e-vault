@@ -73,7 +73,6 @@ Piercers gather in colonies to maximize the effectiveness of their attacks, drop
 
 underdark
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

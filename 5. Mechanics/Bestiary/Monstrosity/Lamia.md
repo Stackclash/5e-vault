@@ -94,7 +94,6 @@ The demon lord Graz'zt creates lamias from his mortal servants, granting them im
 
 desert
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

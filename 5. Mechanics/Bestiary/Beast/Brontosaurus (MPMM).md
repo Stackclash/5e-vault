@@ -57,7 +57,6 @@ This massive four-legged dinosaur is large enough that most predators leave it a
 
 forest, grassland
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

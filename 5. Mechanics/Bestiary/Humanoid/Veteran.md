@@ -98,7 +98,6 @@ Veterans are professional fighters that take up arms for pay or to protect somet
 
 coastal, mountain, grassland, hill, arctic, urban, forest, underdark
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

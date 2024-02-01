@@ -93,7 +93,6 @@ Although the aboleths' ancient empire fell long ago, the psychic bonds between t
 
 underdark
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

@@ -120,7 +120,6 @@ A wight doesn't require air, food, drink, or sleep.
 
 underdark, swamp, urban, desert
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

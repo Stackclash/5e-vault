@@ -76,7 +76,6 @@ Ancient legends speak of a seelie fey who betrayed the Summer Queen. In the Summ
 
 forest, swamp, underdark, urban
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

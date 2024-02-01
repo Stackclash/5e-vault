@@ -52,7 +52,6 @@ This heavily built dinosaur has rows of plates on its back and a flexible, spike
 
 forest, grassland
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

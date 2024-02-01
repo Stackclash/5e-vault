@@ -95,7 +95,6 @@ Rust monsters are rarely found in large numbers, preferring to hunt alone or in 
 
 underdark
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

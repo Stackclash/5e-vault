@@ -85,7 +85,6 @@ Smoke mephits are crude, lazy creatures of air and fire that billow smoke consta
 
 urban
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

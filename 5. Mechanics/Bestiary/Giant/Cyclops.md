@@ -85,7 +85,6 @@ Cyclopes aren't great thinkers or strategists. Slow to learn and bound to their 
 
 underdark, mountain, grassland, hill, desert, coastal
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

@@ -107,7 +107,6 @@ Drow spellcasters who seek to devote themselves wholly to Lolth, the Spider Quee
 
 underdark
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

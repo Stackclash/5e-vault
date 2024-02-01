@@ -122,7 +122,6 @@ Mistrusted by orcs, some orogs form independent mercenary war bands that sell th
 
 underdark, mountain, grassland, forest, hill, arctic
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

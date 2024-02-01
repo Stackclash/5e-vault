@@ -99,7 +99,6 @@ Flumphs live in complex and organized groups called cloisters, within which each
 
 underdark
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

@@ -76,7 +76,6 @@ Although draegloths plays an important part in the plans of Lolth's cult, a drae
 
 underdark
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

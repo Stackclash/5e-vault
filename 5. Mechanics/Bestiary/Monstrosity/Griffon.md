@@ -92,7 +92,6 @@ Once trained, a griffon is a fierce and loyal steed. It bonds with one master fo
 
 mountain, grassland, hill, coastal, arctic
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

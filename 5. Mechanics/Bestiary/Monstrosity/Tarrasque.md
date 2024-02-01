@@ -132,7 +132,6 @@ Legends tell how the tarrasque slumbers in its secret lair beneath the earth, re
 
 urban
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

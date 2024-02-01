@@ -93,7 +93,6 @@ Pit masters are deeply involved in yuan-ti's longterm plan to take over Humanoid
 
 desert, forest, underdark
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

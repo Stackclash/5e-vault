@@ -103,7 +103,6 @@ Sentient subterranean beings can coexist with otyughs, employing them as garbage
 
 underdark
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

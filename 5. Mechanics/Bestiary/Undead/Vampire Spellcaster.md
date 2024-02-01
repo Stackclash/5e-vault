@@ -201,7 +201,6 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
 
 urban
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

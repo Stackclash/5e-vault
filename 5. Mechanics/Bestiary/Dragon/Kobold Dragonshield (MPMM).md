@@ -86,7 +86,6 @@ Dragonshields know they have a place of honor among those who venerate dragons, 
 
 forest, hill, mountain, underdark
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

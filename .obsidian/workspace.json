@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Mechanics/Bestiary/Celestial/Pegasus.md",
+                "file": "5. Mechanics/Bestiary/Fey/Green Hag.md",
                 "mode": "preview",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Mechanics/Tables/Vampire Spawn Hhhvi.md",
+                "file": "5. Mechanics/Bestiary/Monstrosity/Bulette.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Mechanics/Bestiary/Celestial/Pegasus.md",
+                "file": "5. Mechanics/Bestiary/Monstrosity/Bulette.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Mechanics/Bestiary/Celestial/Pegasus.md",
+                "file": "5. Mechanics/Bestiary/Monstrosity/Bulette.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Mechanics/Bestiary/Celestial/Pegasus.md"
+                "file": "5. Mechanics/Bestiary/Monstrosity/Bulette.md"
               }
             }
           },
@@ -194,13 +195,24 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "cf0228d4def18436",
+  "active": "76fd26345d08cd54",
   "lastOpenFiles": [
+    "5. Mechanics/Bestiary/Monstrosity/Monstrosity.md",
+    "5. Mechanics/Bestiary/Dragon/Dragon.md",
+    "5. Mechanics/Bestiary/Dragon/Gold Dragon Wyrmling.md",
+    "5. Mechanics/Bestiary/Dragon/Adult Red Dragon.md",
+    "5. Mechanics/Bestiary/Dragon/Adult Green Dragon.md",
+    "5. Mechanics/Bestiary/Fey/Fey.md",
+    "5. Mechanics/Tables/Vampire Spawn Hhhvi.md",
+    "5. Mechanics/Bestiary/Fey/Green Hag.md",
+    "5. Mechanics/Bestiary/Fey/Fey Spirit-9th Level Spell (TCE).md",
+    "5. Mechanics/Bestiary/Fey/Dryad.md",
+    "5. Mechanics/Bestiary/Fey/Dolphin Delighter (MPMM).md",
+    "5. Mechanics/Bestiary/Celestial/Pegasus.md",
     "5. Mechanics/Bestiary/Celestial/Celestial.md",
     "Vampire Spawn.md",
     "z_Scripts/Dataview/monsterHarvesterTable.js",
     "conflict-files-obsidian-git.md",
-    "5. Mechanics/Tables/Vampire Spawn Hhhvi.md",
     "4. World Almanac/Settlements/Krezk.md",
     "4. World Almanac/NPCs/Urwin Martikov.md",
     "5. Mechanics/Bestiary/Monstrosity/Yuan Ti Pit Master (MPMM).md",
@@ -212,16 +224,6 @@
     "5. Mechanics/Tables/Rare Desert Herbs Hhbh.md",
     "5. Mechanics/Tables/Random Buildings Residence.md",
     "5. Mechanics/Tables/Random Buildings Religious Building.md",
-    "5. Mechanics/Tables/Random Buildings Building Type.md",
-    "5. Mechanics/Tables/Npc Talents.md",
-    "5. Mechanics/Tables/Npc Mannerisms.md",
-    "5. Mechanics/Tables/Npc Low Abilities.md",
-    "5. Mechanics/Tables/Nonhuman Deities.md",
-    "5. Mechanics/Tables/Npc Appearance.md",
-    "5. Mechanics/Tables/Npc Bonds.md",
-    "5. Mechanics/Tables/Devourer Hhhvii.md",
-    "5. Mechanics/Tables/Annis Hag Hhhvii.md",
-    "5. Mechanics/Tables/Alhoon Hhhvii.md",
     "test.js",
     "6. Resources/5e Modules/Curse Of Strahd/img/024-005.jpg",
     "6. Resources/5e Modules/Curse Of Strahd/img/008-cos201.jpg",

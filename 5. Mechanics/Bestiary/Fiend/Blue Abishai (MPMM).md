@@ -92,7 +92,6 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
 
 coastal, urban
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

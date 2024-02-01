@@ -87,7 +87,6 @@ Every other keg of gunpowder within 20 feet of an exploding keg has a 50% chance
 
 urban
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

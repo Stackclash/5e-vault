@@ -96,7 +96,6 @@ If the servant has no other means of dealing damage, it can use its fists or lim
 
 underdark
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

@@ -89,7 +89,6 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
 
 arctic, forest, hill, mountain, underdark
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

@@ -86,7 +86,6 @@ In addition to the dragons they revere, kobolds worship a lesser god named Kurtu
 
 forest, swamp, hill, urban, desert, coastal, arctic, mountain, underdark
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

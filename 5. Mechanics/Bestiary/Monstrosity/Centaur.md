@@ -94,7 +94,6 @@ Despite their reclusive nature, centaurs trade with elves and with the caravans 
 
 grassland, forest
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

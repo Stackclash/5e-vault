@@ -97,7 +97,6 @@ Whenever magic pulls demons from the Abyss to the Material Plane, nabassus try t
 
 swamp, underdark, urban
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

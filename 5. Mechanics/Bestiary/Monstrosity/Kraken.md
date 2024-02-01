@@ -139,7 +139,6 @@ A kraken lives in dark depths, usually a sunken rift or a cavern filled with det
 
 underwater
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

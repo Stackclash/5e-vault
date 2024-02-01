@@ -105,7 +105,6 @@ This inherent heat is an asset to salamanders' skill as smiths, allowing them to
 
 underdark
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

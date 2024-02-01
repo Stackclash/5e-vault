@@ -131,7 +131,6 @@ Hobgoblins worship Maglubiyet the Mighty One, the greater god of goblinoids. As 
 
 underdark, grassland, forest, hill, desert
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

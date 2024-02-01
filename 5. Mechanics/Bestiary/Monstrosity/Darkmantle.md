@@ -85,7 +85,6 @@ Darkmantles are found throughout the Underdark, but they are equally common on t
 
 underdark
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

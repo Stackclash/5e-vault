@@ -89,7 +89,6 @@ Some martial artists adorn themselves with tattoos to honor inspirations or inst
 
 urban
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

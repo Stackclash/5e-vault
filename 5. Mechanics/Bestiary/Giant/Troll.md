@@ -91,7 +91,6 @@ Their regenerative capabilities make trolls especially susceptible to mutation. 
 
 underdark, mountain, forest, swamp, hill, arctic
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

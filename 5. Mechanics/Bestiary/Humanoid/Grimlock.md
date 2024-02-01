@@ -87,7 +87,6 @@ Grimlocks still venerate the mind flayers, serving them whenever possible. Griml
 
 underdark
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

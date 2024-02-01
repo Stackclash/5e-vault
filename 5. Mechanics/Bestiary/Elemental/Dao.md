@@ -133,7 +133,6 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
 
 underdark
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

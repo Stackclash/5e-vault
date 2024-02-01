@@ -76,7 +76,6 @@ Hook horrors live in extended family groups or clans. Each clan is ruled by the 
 
 underdark
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

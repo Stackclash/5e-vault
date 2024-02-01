@@ -95,7 +95,6 @@ Like sharks in water, vampiric mists can scent blood from up to a mile away. Any
 
 arctic, coastal, forest, grassland, mountain, swamp, underdark, urban
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

@@ -84,7 +84,6 @@ Thugs are ruthless enforcers skilled at intimidation and violence. They work for
 
 urban
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

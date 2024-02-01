@@ -105,7 +105,6 @@ An abominable yeti is larger than a normal yeti, standing three times as tall as
 
 arctic
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

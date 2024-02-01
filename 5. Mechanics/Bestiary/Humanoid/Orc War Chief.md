@@ -140,7 +140,6 @@ Gruumsh bestows special blessings upon war chiefs who prove themselves in battle
 
 underdark, mountain, grassland, forest, swamp, hill, arctic
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

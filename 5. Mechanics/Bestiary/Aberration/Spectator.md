@@ -102,7 +102,6 @@ When a spectator has fulfilled its service, it is free to do as it pleases. Many
 
 underdark
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

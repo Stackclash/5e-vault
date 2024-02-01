@@ -103,7 +103,6 @@ An intellect devourer consumes a creature's mind and memories, then turns the ho
 
 underdark
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

@@ -58,7 +58,6 @@ Like their smaller kin, giant sea horses are shy, colorful fish with elongated b
 
 underwater
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

@@ -77,7 +77,6 @@ Rather than spinning webs, steeders excrete a viscous substance from their legs.
 
 underdark
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

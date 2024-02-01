@@ -88,7 +88,6 @@ With or without corpses nested in its body, a corpse flower exudes a stench of d
 
 forest, swamp, urban
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

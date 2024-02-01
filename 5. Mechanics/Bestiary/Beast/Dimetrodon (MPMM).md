@@ -53,7 +53,6 @@ This sail-backed reptile is commonly found in areas where dinosaurs live. It hun
 
 coastal, swamp
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

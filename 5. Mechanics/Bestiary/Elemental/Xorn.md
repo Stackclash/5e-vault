@@ -82,7 +82,6 @@ Possessed of the power of elemental earth, a xorn glides through stone and dirt 
 
 underdark
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

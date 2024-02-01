@@ -75,7 +75,6 @@ aliases: ["Giant Toad"]
 
 underdark, forest, swamp, desert, coastal
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

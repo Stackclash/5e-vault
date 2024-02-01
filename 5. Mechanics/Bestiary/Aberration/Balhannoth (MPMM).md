@@ -85,7 +85,6 @@ In the Shadowfell, balhannoths make their lairs near places inhabited by creatur
 
 coastal, mountain, underdark
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

@@ -76,7 +76,6 @@ A scarecrow is animated by the bound spirit of a slain evil creature, granting i
 
 grassland
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

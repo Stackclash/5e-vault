@@ -94,7 +94,6 @@ Orcus sometimes infuses a ghoul with a stronger dose of abyssal energy, making a
 
 underdark, swamp, urban
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

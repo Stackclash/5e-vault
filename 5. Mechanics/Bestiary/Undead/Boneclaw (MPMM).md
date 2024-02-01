@@ -97,7 +97,6 @@ In service to its master, a boneclaw delights in causing horrific pain. It lurks
 
 arctic, desert, urban
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

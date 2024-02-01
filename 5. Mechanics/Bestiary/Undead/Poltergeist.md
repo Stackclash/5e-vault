@@ -86,7 +86,6 @@ A poltergeist is the confused, invisible spirit of an individual with no sense o
 
 underdark, urban
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

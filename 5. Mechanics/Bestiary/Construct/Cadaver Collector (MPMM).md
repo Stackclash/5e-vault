@@ -81,7 +81,6 @@ Corpses that accumulate on a cadaver collector's shell aren't just grisly battle
 
 grassland
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

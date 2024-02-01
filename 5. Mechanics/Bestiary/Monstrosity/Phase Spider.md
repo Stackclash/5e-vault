@@ -78,7 +78,6 @@ A phase spider possesses the magical ability to phase in and out of the Ethereal
 
 underdark, grassland, forest, hill, urban, desert
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

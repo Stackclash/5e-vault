@@ -78,7 +78,6 @@ Hailing from uncivilized lands, unpredictable berserkers come together in war pa
 
 coastal, mountain, hill, arctic, forest, desert
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

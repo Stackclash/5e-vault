@@ -88,7 +88,6 @@ Githyanki descend from an ancient people who were also the progenitors of githze
 
 desert, mountain, urban
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

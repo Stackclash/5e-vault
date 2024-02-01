@@ -59,7 +59,6 @@ aliases: ["Riding Horse"]
 
 grassland, urban
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

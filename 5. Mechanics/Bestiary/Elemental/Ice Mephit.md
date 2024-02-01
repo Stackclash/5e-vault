@@ -91,7 +91,6 @@ Comprising frigid air and water, ice mephits are aloof and cold, surpassing all 
 
 arctic
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

@@ -185,7 +185,6 @@ A mummy lord watches over an ancient temple or tomb that is protected by lesser 
 
 desert
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

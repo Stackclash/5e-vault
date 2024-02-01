@@ -70,7 +70,6 @@ A giant lizard can be ridden or used as a draft animal. Lizardfolk also keep the
 
 underdark, forest, swamp, desert, coastal
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

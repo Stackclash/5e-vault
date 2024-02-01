@@ -104,7 +104,6 @@ Nightmare speakers revel in torturing others, keeping their victims in a constan
 
 desert, forest, underdark
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

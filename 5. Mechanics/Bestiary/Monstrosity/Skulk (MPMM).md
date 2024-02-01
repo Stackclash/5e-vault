@@ -79,7 +79,6 @@ Cruel and chaotic, skulks carry out their orders in the most violent manner poss
 
 coastal, forest, swamp, underdark, urban
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

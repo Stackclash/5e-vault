@@ -77,7 +77,6 @@ In any case, if a redcap works with another being, the redcap demands to be paid
 
 forest, hill, swamp
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

@@ -85,7 +85,6 @@ Merrow dwell in undersea caves filled with treasures and trophies, taken from th
 
 underwater, coastal
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

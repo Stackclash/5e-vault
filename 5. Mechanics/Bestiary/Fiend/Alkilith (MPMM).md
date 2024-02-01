@@ -97,7 +97,6 @@ Alkiliths spring from cast-off bits of the hideous, shuddering body of Juiblex. 
 
 underdark, urban
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

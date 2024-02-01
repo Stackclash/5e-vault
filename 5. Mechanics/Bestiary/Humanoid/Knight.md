@@ -95,7 +95,6 @@ Knights are warriors who pledge service to rulers, religious orders, and noble c
 
 urban
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

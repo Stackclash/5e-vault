@@ -129,7 +129,6 @@ Some individuals see little point in fighting the curse and accept what they are
 
 forest, hill
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

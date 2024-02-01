@@ -60,7 +60,6 @@ aliases: ["Mule"]
 
 hill, urban, desert
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

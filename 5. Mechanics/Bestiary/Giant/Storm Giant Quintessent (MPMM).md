@@ -103,7 +103,6 @@ A storm giant quintessent has no need for castles or dungeon lairs. Their lair i
 
 coastal, desert, mountain, underwater
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

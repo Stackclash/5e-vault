@@ -66,7 +66,6 @@ A giant eagle is a noble creature that speaks its own language and understands s
 
 mountain, grassland, hill, coastal
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

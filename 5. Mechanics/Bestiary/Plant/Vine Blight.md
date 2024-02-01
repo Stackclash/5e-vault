@@ -95,7 +95,6 @@ Blights are independent creatures, but most act under a Gulthias tree's control,
 
 forest
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

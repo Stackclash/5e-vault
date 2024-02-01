@@ -152,7 +152,6 @@ The death tyrant can't repeat an effect until all three have been used, and it c
 
 underdark
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

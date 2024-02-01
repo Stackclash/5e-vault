@@ -110,7 +110,6 @@ A banshee doesn't require air, food, drink, or sleep.
 
 forest, coastal
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

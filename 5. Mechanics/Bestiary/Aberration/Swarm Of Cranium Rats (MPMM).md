@@ -81,7 +81,6 @@ A single cranium rat uses its natural telepathy to communicate hunger, fear, and
 
 underdark, urban
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

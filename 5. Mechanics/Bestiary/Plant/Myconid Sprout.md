@@ -76,7 +76,6 @@ Like other fungi, myconids reproduce by mundane sporing. They carefully control 
 
 underdark
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

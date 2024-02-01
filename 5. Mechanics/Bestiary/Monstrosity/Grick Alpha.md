@@ -80,7 +80,6 @@ Over time, grick lairs accumulate the cast-off possessions of intelligent prey, 
 
 underdark, forest
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

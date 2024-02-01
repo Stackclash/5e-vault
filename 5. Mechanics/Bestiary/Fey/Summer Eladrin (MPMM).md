@@ -101,7 +101,6 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
 
 desert, forest
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

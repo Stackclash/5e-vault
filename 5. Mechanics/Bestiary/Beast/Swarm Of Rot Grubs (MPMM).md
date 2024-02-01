@@ -77,7 +77,6 @@ Any creature that comes into contact with a single rot grub must succeed on a DC
 
 swamp, underdark
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

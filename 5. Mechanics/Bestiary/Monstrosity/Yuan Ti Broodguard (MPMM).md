@@ -78,7 +78,6 @@ Most broodguards are made from human captives forced to consume a magical brew t
 
 desert, forest, underdark
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

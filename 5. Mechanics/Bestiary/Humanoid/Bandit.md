@@ -85,7 +85,6 @@ Pirates are bandits of the high seas. They might be freebooters interested only 
 
 coastal, hill, arctic, urban, forest, desert
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

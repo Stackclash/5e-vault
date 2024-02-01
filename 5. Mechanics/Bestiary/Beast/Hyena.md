@@ -59,7 +59,6 @@ aliases: ["Hyena"]
 
 grassland, forest, hill, desert
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

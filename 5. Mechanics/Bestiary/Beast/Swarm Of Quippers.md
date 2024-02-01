@@ -82,7 +82,6 @@ aliases: ["Swarm of Quippers"]
 
 underwater
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

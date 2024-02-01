@@ -56,7 +56,6 @@ aliases: ["Rhinoceros"]
 
 grassland
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

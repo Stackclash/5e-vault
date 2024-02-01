@@ -97,7 +97,6 @@ When a master thief completes a challenging heist, they often leave behind a cal
 
 urban
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

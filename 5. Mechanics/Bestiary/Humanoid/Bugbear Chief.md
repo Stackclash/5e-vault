@@ -88,7 +88,6 @@ Despite their intimidating builds, bugbears move with surprising stealth. They a
 
 underdark, grassland, forest
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

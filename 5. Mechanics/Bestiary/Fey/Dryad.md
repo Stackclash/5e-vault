@@ -118,7 +118,6 @@ Dryads can speak with plants and animals. They can teleport from one tree to ano
 
 forest
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

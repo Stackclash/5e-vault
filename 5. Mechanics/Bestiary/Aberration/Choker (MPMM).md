@@ -77,7 +77,6 @@ Chokers tend to set their ambushes alone, rather than working in concert, but wh
 
 forest, mountain, underdark
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

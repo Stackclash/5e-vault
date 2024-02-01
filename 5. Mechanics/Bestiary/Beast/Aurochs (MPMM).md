@@ -60,7 +60,6 @@ Many kinds of cattle roam the multiverse, some of them domesticated and others f
 
 grassland, hill, mountain
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```

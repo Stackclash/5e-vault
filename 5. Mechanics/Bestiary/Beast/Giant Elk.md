@@ -63,7 +63,6 @@ The majestic giant elk is rare to the point that its appearance is often taken a
 
 mountain, grassland, forest, hill
 
-## Harvester Table
 ```dataviewjs
 await dv.view("monsterHarvesterTable", {current: dv.current()})
 ```
