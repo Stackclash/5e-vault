@@ -90,17 +90,6 @@ let groups = dv.pages().filter(p => {
         p.file.folder.includes('NPCs')) && !['Shops', 'Bestiary', 'Worlds', 'Regions', 'Settlements', 'Places of Interest'].includes(p.file.name)
 }).groupBy(p => p.file.folder.split('/')[1]).sort(g => g.key[0])
 
-// groups.forEach(g => {
-//   let existingGroupIndex = finalGroups.findIndex(fg => fg.key === g.key[0])
-
-//   console.log(g, finalGroups)
-//   if (existingGroupIndex) {
-//     finalGroups[existingGroupIndex] = { key: g.key[0], rows: finalGroups[existingGroupIndex].rows.concat(g.rows) }
-//   } else {
-//     finalGroups.concat({ key: g.key[0], rows: g.rows })
-//   }
-// })
-
 dv.table(['Type', 'Count'],
   groups.map(g => [g.key, g.rows.length]))
 ```

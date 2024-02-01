@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DM Screen/Configuration.md",
-                "mode": "source",
+                "file": "4. World Almanac/Regions/Barovia.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "665c0f2a657f350c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. World Almanac/NPCs/Strahd Von Zarovich.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. DM Screen/Configuration.md",
+                "file": "4. World Almanac/NPCs/Strahd Von Zarovich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. DM Screen/Configuration.md",
+                "file": "4. World Almanac/NPCs/Strahd Von Zarovich.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DM Screen/Configuration.md"
+                "file": "4. World Almanac/NPCs/Strahd Von Zarovich.md"
               }
             }
           },
@@ -182,8 +195,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d2631b9c646ef337",
+  "active": "665c0f2a657f350c",
   "lastOpenFiles": [
+    "5. Mechanics/Bestiary/Legendary Group/Strahd Von Zarovich (COS).md",
+    "4. World Almanac/NPCs/Urwin Martikov.md",
+    "1. DM Screen/Configuration.md",
+    "4. World Almanac/Regions/Barovia.md",
+    "4. World Almanac/Settlements/Vallaki.md",
     "5. Mechanics/Bestiary/Fey/Fey.md",
     "5. Mechanics/Bestiary/Fey/Dryad.md",
     "5. Mechanics/Bestiary/Humanoid/Werewolf.md",
@@ -195,8 +213,6 @@
     "5. Mechanics/Bestiary/Fey/Autumn Eladrin (MPMM).md",
     "5. Mechanics/Bestiary/Fey/Bheur Hag (MPMM).md",
     "5. Mechanics/Bestiary/Fey/Blink Dog.md",
-    "1. DM Screen/Configuration.md",
-    "4. World Almanac/Settlements/Vallaki.md",
     "1. DM Screen/1. DM Screen.md",
     "5. Mechanics/Bestiary/Beast/Beast.md",
     "5. Mechanics/Bestiary/Beast/Badger.md",
@@ -208,9 +224,6 @@
     "5. Mechanics/Bestiary/Monstrosity/Bulette.md",
     "test.js",
     "5. Mechanics/Bestiary/Monstrosity/Behir.md",
-    "5. Mechanics/Bestiary/Dragon/Dragon.md",
-    "5. Mechanics/Bestiary/Dragon/Gold Dragon Wyrmling.md",
-    "5. Mechanics/Bestiary/Dragon/Adult Red Dragon.md",
     "z_Scripts/Dataview/monsterHarvesterTable.js",
     "6. Resources/5e Modules/Curse Of Strahd/img/024-005.jpg",
     "6. Resources/5e Modules/Curse Of Strahd/img/008-cos201.jpg",
