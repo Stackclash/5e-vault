@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Topaz Wyrmling"]
 ---
-# [[5. Mechanics\Bestiary\Dragon\Topaz Wyrmling (SAF).md|Topaz Wyrmling]]
+# [[5. Mechanics/Bestiary/Dragon/Topaz Wyrmling (SAF).md|Topaz Wyrmling]]
 *Source: Strongholds and Followers p. 219*  
 
 The youngest species, the most enthusiastic about the world, the one you're most likely to meet, topaz dragons study magic obsessively, and their older kin consider this juvenile. When you're older you'll realize magic is just ambient interference from overlapping manifolds constrained by oblique functions. Well, poo on that, look, I made a fireball!
@@ -65,3 +65,7 @@ They're approachable and easy to talk to as long as you don't mind never getting
 "image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Medium%20Topaz%20Dragon.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

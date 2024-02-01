@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Ape"]
 ---
-# [[5. Mechanics\Bestiary\Beast\Ape.md|Ape]]
+# [[5. Mechanics/Bestiary/Beast/Ape.md|Ape]]
 *Source: Monster Manual p. 317. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -58,3 +58,7 @@ aliases: ["Ape"]
 ## Environment
 
 forest
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

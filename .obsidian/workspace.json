@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "448b6be5a2358739",
+        "id": "93a4c2b5dff8c308",
         "type": "tabs",
         "children": [
           {
-            "id": "3d3b71ac210e7cfd",
+            "id": "d2c9385460ae2325",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Mechanics/Bestiary/Monstrosity/Basilisk.md",
-                "mode": "source",
+                "file": "5. Mechanics/Bestiary/Beast/Baboon.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Mechanics/Bestiary/Monstrosity/Basilisk.md",
+                "file": "5. Mechanics/Bestiary/Beast/Baboon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Mechanics/Bestiary/Monstrosity/Basilisk.md",
+                "file": "5. Mechanics/Bestiary/Beast/Baboon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Mechanics/Bestiary/Monstrosity/Basilisk.md"
+                "file": "5. Mechanics/Bestiary/Beast/Baboon.md"
               }
             }
           },
@@ -182,10 +182,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3d3b71ac210e7cfd",
+  "active": "d2c9385460ae2325",
   "lastOpenFiles": [
-    "1. DM Screen/Configuration.md",
+    "5. Mechanics/Bestiary/Beast/Axe Beak.md",
+    "5. Mechanics/Bestiary/Beast/Beast.md",
     "5. Mechanics/Bestiary/Monstrosity/Basilisk.md",
+    "1. DM Screen/Configuration.md",
     "conflict-files-obsidian-git.md",
     "5. Mechanics/Bestiary/Fey/Green Hag.md",
     "5. Mechanics/Bestiary/Monstrosity/Monstrosity.md",
@@ -210,8 +212,6 @@
     "5. Mechanics/Bestiary/Monstrosity/Yuan Ti Pit Master (MPMM).md",
     "5. Mechanics/Bestiary/Humanoid/Yuan Ti Pureblood.md",
     "5. Mechanics/Tables/Yuan Ti Pureblood Hhhvi.md",
-    "5. Mechanics/Tables/Swamp Encounters Levels-510 (XGE).md",
-    "5. Mechanics/Tables/Rare Swamp Herbs Hhbh.md",
     "6. Resources/5e Modules/Curse Of Strahd/img/024-005.jpg",
     "6. Resources/5e Modules/Curse Of Strahd/img/008-cos201.jpg",
     "z_Assets/Barovia_Banner.webp",

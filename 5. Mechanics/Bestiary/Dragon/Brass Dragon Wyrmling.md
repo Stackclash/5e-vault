@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Brass Dragon Wyrmling"]
 ---
-# [[5. Mechanics\Bestiary\Dragon\Brass Dragon Wyrmling.md|Brass Dragon Wyrmling]]
+# [[5. Mechanics/Bestiary/Dragon/Brass Dragon Wyrmling.md|Brass Dragon Wyrmling]]
 *Source: Monster Manual p. 106. Available in the SRD.*  
 
 The most gregarious of the true dragons, brass dragons crave conversation, sunlight, and hot, dry climates.
@@ -125,3 +125,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 "image": "5. Mechanics/Bestiary/Dragon/token/brass-dragon-wyrmling.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

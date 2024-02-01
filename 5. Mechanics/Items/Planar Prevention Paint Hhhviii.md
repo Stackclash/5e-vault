@@ -14,7 +14,7 @@ aliases:
 
 - **Properties**: Crafted by
 
-An area that is enclosed by an outline of this viscous paint becomes magically sealed to teleportation and planar-based transportation. When viewed from another plane, the area appears to have a shimmering barrier of solid light that is impassable. Any travel into or out of the area by any method via a plane other than the one that the paint was used on is impossible. For example, you cannot walk through the barrier while you are in the Border Ethereal, nor can you succeed on a plane shift spell while inside the area.
+An area that is enclosed by an outline of this viscous paint becomes magically sealed to teleportation and planar-based transportation. When viewed from another plane, the area appears to have a shimmering barrier of solid light that is impassable. Any travel into or out of the area by any method via a plane other than the one that the paint was used on is impossible. For example, you cannot walk through the barrier while you are in the Border Ethereal, nor can you succeed on a [[5. Mechanics/Spells/Plane Shift.md\|plane shift]] spell while inside the area.
 
 Furthermore, any attempt at teleporting into or out of the area automatically fails. However, teleportation within the confines of the area is still possible.
 

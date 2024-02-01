@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Star Spawn Mangler"]
 ---
-# [[5. Mechanics\Bestiary\Aberration\Star Spawn Mangler (MPMM).md|Star Spawn Mangler]]
+# [[5. Mechanics/Bestiary/Aberration/Star Spawn Mangler (MPMM).md|Star Spawn Mangler]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 229*  
 
 > [!quote]- A quote from Mordenkainen  
@@ -96,3 +96,7 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 "image": "5. Mechanics/Bestiary/Aberration/token/star-spawn-mangler.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

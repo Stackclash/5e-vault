@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Scorpion"]
 ---
-# [[5. Mechanics\Bestiary\Beast\Scorpion.md|Scorpion]]
+# [[5. Mechanics/Bestiary/Beast/Scorpion.md|Scorpion]]
 *Source: Monster Manual p. 337. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -49,3 +49,7 @@ aliases: ["Scorpion"]
 ## Environment
 
 desert
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

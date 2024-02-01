@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Shadow Demon"]
 ---
-# [[5. Mechanics\Bestiary\Fiend\Shadow Demon.md|Shadow Demon]]
+# [[5. Mechanics/Bestiary/Fiend/Shadow Demon.md|Shadow Demon]]
 *Source: Monster Manual p. 64, Curse of Strahd*  
 
 When a demon's body is destroyed but the fiend is prevented from reforming in the Abyss, its essence sometimes takes on a vague physical form. These shadow demons exist outside the normal abyssal hierarchy, since their creation results most often from mortal magic, not from transformation or promotion.
@@ -258,3 +258,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "image": "5. Mechanics/Bestiary/Fiend/token/shadow-demon.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

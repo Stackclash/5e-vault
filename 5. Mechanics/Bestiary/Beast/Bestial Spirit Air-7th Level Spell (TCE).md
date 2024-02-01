@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Bestial Spirit (Air, 7th-Level Spell)"]
 ---
-# [[5. Mechanics\Bestiary\Beast\Bestial Spirit Air-7th Level Spell (TCE).md|Bestial Spirit (Air, 7th-Level Spell)]]
+# [[5. Mechanics/Bestiary/Beast/Bestial Spirit Air-7th Level Spell (TCE).md|Bestial Spirit (Air, 7th-Level Spell)]]
 *Source: Tasha's Cauldron of Everything p. 109*  
 
 ```statblock
@@ -52,3 +52,7 @@ aliases: ["Bestial Spirit (Air, 7th-Level Spell)"]
 "image": "5. Mechanics/Bestiary/Beast/token/bestial-spirit.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

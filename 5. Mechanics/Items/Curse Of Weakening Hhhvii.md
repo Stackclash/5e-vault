@@ -22,7 +22,7 @@ This scroll contains blasphemous words written in a dark ink, that when read alo
 > 
 > While attuned to this item you become cursed. While cursed, any weapon attack you make that uses Strength only deals half damage.
 > 
-> This curse ends permanently on both the item and you if the remove curse spell or similar magic is cast on either you or the cursed item.
+> This curse ends permanently on both the item and you if the [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell or similar magic is cast on either you or the cursed item.
 
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 57*

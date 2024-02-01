@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Reflection"]
 ---
-# [[5. Mechanics\Bestiary\Fey\Reflection (TCE).md|Reflection]]
+# [[5. Mechanics/Bestiary/Fey/Reflection (TCE).md|Reflection]]
 *Source: Tasha's Cauldron of Everything p. 158*  
 
 ```statblock
@@ -65,3 +65,7 @@ aliases: ["Reflection"]
 "image": "5. Mechanics/Bestiary/Fey/token/reflection.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

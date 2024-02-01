@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Lizard Queen"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Lizard Queen.md|Lizard Queen]]
+# [[5. Mechanics/Bestiary/Humanoid/Lizard Queen.md|Lizard Queen]]
 *Source: Monster Manual p. 205*  
 
 Lizardfolk are primitive reptilian humanoids that lurk in the swamps and jungles of the world. Their hut villages thrive in forbidding grottos, half-sunken ruins, and watery caverns.
@@ -110,3 +110,7 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
 ## Environment
 
 forest, swamp
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

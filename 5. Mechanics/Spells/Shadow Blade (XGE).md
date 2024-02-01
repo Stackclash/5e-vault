@@ -13,7 +13,6 @@ tags:
 aliases: ["Shadow Blade"]
 ---
 # Shadow Blade
-%%-- Embedded content starts on the next line. --%%
 *2nd-level, Illusion*  
 ![[5. Mechanics/Spells/img/shadow-blade.webp#right]]  
 

@@ -13,7 +13,7 @@ tags:
 statblock: inline
 aliases: ["Kobold Dragonshield"]
 ---
-# [[5. Mechanics\Bestiary\Dragon\Kobold Dragonshield (MPMM).md|Kobold Dragonshield]]
+# [[5. Mechanics/Bestiary/Dragon/Kobold Dragonshield (MPMM).md|Kobold Dragonshield]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 163*  
 
 > [!quote]- A quote from Mordenkainen  
@@ -85,3 +85,7 @@ Dragonshields know they have a place of honor among those who venerate dragons, 
 ## Environment
 
 forest, hill, mountain, underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Undying Councilor"]
 ---
-# [[5. Mechanics\Bestiary\Undead\Undying Councilor (ERLW).md|Undying Councilor]]
+# [[5. Mechanics/Bestiary/Undead/Undying Councilor (ERLW).md|Undying Councilor]]
 *Source: Eberron: Rising from the Last War p. 311*  
 
 Undying councilors guide and protect the people of Aerenal. They are the most powerful members of the Undying Court who still maintain their physical forms. While many undying councilors spend their days advising the living, some devote years projecting their consciousness into the Astral Plane, seeking new knowledge to share with their people. Still, not all minds are capable of assimilating immortality, and undying councilors sometimes buckle under the strain and go mad.
@@ -132,3 +132,7 @@ An undying doesn't require air, food, drink, or sleep.
 "image": "5. Mechanics/Bestiary/Undead/token/undying-councilor.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

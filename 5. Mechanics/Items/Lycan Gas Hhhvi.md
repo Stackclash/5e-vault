@@ -14,9 +14,9 @@ aliases:
 
 - **Properties**: Crafted by
 
-This vial of silvery white gas reacts strongly with air and expands to a 30-foot radius cloud as soon as the vial is opened. Any creature that starts their turn in the cloud must succeed on a Constitution saving throw or be cursed with Player Characters as Lycanthropes|MM|lycanthropy from Monster Manual. The type of lycanthropy and the DC depends on the type of lycan this gas was created from as outlined in the table below.
+This vial of silvery white gas reacts strongly with air and expands to a 30-foot radius cloud as soon as the vial is opened. Any creature that starts their turn in the cloud must succeed on a Constitution saving throw or be cursed with [[/5. Mechanics/Rules/Variant Rules/Player Characters As Lycanthropes.md\|Player Characters as Lycanthropes]]. The type of lycanthropy and the DC depends on the type of lycan this gas was created from as outlined in the table below.
 
-The gas cloud remains for 1 minute before dispersing naturally. It may be dispersed early by a strong wind such as that created by the gust of wind spell.
+The gas cloud remains for 1 minute before dispersing naturally. It may be dispersed early by a strong wind such as that created by the [[5. Mechanics/Spells/Gust Of Wind.md\|gust of wind]] spell.
 
 **Lycan Type and DC**
 

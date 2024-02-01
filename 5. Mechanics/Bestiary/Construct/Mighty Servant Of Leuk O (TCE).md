@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Mighty Servant of Leuk-o"]
 ---
-# [[5. Mechanics\Bestiary\Construct\Mighty Servant Of Leuk O (TCE).md|Mighty Servant of Leuk-o]]
+# [[5. Mechanics/Bestiary/Construct/Mighty Servant Of Leuk O (TCE).md|Mighty Servant of Leuk-o]]
 *Source: Tasha's Cauldron of Everything p. 131*  
 
 ```statblock
@@ -82,3 +82,7 @@ aliases: ["Mighty Servant of Leuk-o"]
 "image": "5. Mechanics/Bestiary/Construct/token/mighty-servant-of-leuk-o.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

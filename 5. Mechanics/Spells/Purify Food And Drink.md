@@ -14,7 +14,6 @@ tags:
 aliases: ["Purify Food and Drink"]
 ---
 # Purify Food and Drink
-%%-- Embedded content starts on the next line. --%%
 *1st-level, Transmutation (ritual)*  
 
 - **Casting time:** 1 action unless cast as a ritual

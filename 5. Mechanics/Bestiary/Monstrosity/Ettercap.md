@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Ettercap"]
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Ettercap.md|Ettercap]]
+# [[5. Mechanics/Bestiary/Monstrosity/Ettercap.md|Ettercap]]
 *Source: Monster Manual p. 131. Available in the SRD.*  
 
 Ettercaps are humanoid spiders that tend, feed, and watch over spiders the way a shepherd oversees a flock of sheep. They lair deep in remote forests.
@@ -102,3 +102,7 @@ Ettercaps are natural enemies of fey creatures. The foul creatures set web snare
 ## Environment
 
 forest
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

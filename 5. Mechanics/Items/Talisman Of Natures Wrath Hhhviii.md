@@ -15,7 +15,7 @@ aliases:
 
 - **Properties**: Crafted by
 
-This talisman has 4 charges and channels energy from the elemental plane, bolstering your magic with primal power. If you cast a spell that deals either fire, cold, lightning, or thunder damage, you may expend a charge in order to give that spell an additional effect as determined by its damage type:
+This talisman has 4 charges and channels energy from the elemental plane, bolstering your magic with primal power. If you [[/5. Mechanics/Rules/Actions.md#cast%20a%20spell\|cast a spell]] that deals either fire, cold, lightning, or thunder damage, you may expend a charge in order to give that spell an additional effect as determined by its damage type:
 
 ## Fire
 
@@ -27,11 +27,11 @@ Any creature that received cold damage from your spell must succeed on a Constit
 
 ## Lightning
 
-Any creature that received lightning damage from your spell must succeed on a Constitution saving throw or be stunned until the start of your next turn.
+Any creature that received lightning damage from your spell must succeed on a Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]] until the start of your next turn.
 
 ## Thunder
 
-Any creature that received thunder damage from your spell must succeed on a Strength saving throw or be knocked prone until the start of your next turn.
+Any creature that received thunder damage from your spell must succeed on a Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]] until the start of your next turn.
 
 This item regains all expended charges at dawn.
 

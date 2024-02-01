@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Theurgist"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Theurgist (SAF).md|Theurgist]]
+# [[5. Mechanics/Bestiary/Humanoid/Theurgist (SAF).md|Theurgist]]
 *Source: Strongholds and Followers p. 81*  
 
 ```statblock
@@ -61,3 +61,7 @@ aliases: ["Theurgist"]
 - "SaF"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

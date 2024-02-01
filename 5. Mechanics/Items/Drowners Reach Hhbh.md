@@ -22,6 +22,6 @@ A horrible variety of sargassum in which each leaf resembles the pale, twisted f
 
 ## Effect:
 
-While you have this herb wrapped around a free hand, you have advantage on any grapple checks made with that hand. Wrapping and unwrapping this herb around a free hand takes an action. Once this herb has been used in 5 successful grapple checks, it deteriorates and becomes useless.
+While you have this herb wrapped around a free hand, you have advantage on any [[/5. Mechanics/Rules/Actions.md#grapple\|grapple]] checks made with that hand. Wrapping and unwrapping this herb around a free hand takes an action. Once this herb has been used in 5 successful [[/5. Mechanics/Rules/Actions.md#grapple\|grapple]] checks, it deteriorates and becomes useless.
 
 *Source: Hamund's Herbalism Handbook p. 11*

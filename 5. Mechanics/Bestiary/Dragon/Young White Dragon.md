@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Young White Dragon"]
 ---
-# [[5. Mechanics\Bestiary\Dragon\Young White Dragon.md|Young White Dragon]]
+# [[5. Mechanics/Bestiary/Dragon/Young White Dragon.md|Young White Dragon]]
 *Source: Monster Manual p. 101. Available in the SRD.*  
 
 The smallest, least intelligent, and most animalistic of the chromatic dragons, white dragons dwell in frigid climes, favoring arctic areas or icy mountains. They are vicious, cruel reptiles driven by hunger and greed.
@@ -158,3 +158,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 ## Environment
 
 arctic
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

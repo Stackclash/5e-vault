@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Swarm of Scarabs"]
 ---
-# [[5. Mechanics\Bestiary\Beast\Swarm Of Scarabs (VRGR).md|Swarm of Scarabs]]
+# [[5. Mechanics/Bestiary/Beast/Swarm Of Scarabs (VRGR).md|Swarm of Scarabs]]
 *Source: Van Richten's Guide to Ravenloft p. 247*  
 
 Base creatures are among the first to respond to sinister forces at work in a land. As nefarious powers grip an area, populations of maggots, scarabs, and similar scavenging insects explode and become aggressive predators. Roll on the Swarm Behavior table to see how such swarms might manifest.
@@ -76,3 +76,7 @@ Base creatures are among the first to respond to sinister forces at work in a la
 "image": "5. Mechanics/Bestiary/Beast/token/swarm-of-scarabs.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Bone Devil"]
 ---
-# [[5. Mechanics\Bestiary\Fiend\Bone Devil.md|Bone Devil]]
+# [[5. Mechanics/Bestiary/Fiend/Bone Devil.md|Bone Devil]]
 *Source: Monster Manual p. 71. Available in the SRD.*  
 
 Driven by hate, lust, and envy, bone devils act as the cruel taskmasters of the Nine Hells. They set weaker devils to work, taking special delight in seeing fiends that defy them demoted. At the same time, they long for promotion and are bitterly envious of their superiors, attempting to curry favor though it irks them to do so.
@@ -201,3 +201,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 "image": "5. Mechanics/Bestiary/Fiend/token/bone-devil.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

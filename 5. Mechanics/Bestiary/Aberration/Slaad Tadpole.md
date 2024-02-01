@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Slaad Tadpole"]
 ---
-# [[5. Mechanics\Bestiary\Aberration\Slaad Tadpole.md|Slaad Tadpole]]
+# [[5. Mechanics/Bestiary/Aberration/Slaad Tadpole.md|Slaad Tadpole]]
 *Source: Monster Manual p. 276*  
 
 ## Slaadi
@@ -92,3 +92,7 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 "image": "5. Mechanics/Bestiary/Aberration/token/slaad-tadpole.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

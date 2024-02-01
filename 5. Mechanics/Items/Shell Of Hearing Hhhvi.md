@@ -14,6 +14,6 @@ aliases:
 
 - **Properties**: Crafted by
 
-While you have this shell next to your ear, you gain advantage on any Wisdom (Perception) checks that rely on hearing.
+While you have this shell next to your ear, you gain advantage on any Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks that rely on hearing.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 140*

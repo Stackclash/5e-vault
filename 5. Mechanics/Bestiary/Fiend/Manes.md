@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Manes"]
 ---
-# [[5. Mechanics\Bestiary\Fiend\Manes.md|Manes]]
+# [[5. Mechanics/Bestiary/Fiend/Manes.md|Manes]]
 *Source: Monster Manual p. 60*  
 
 Souls of evil creatures that descend to the Lower Planes are transformed into manes-the lowest form of demonkind. These wretched fiends attack any non-demon they see, and they are called to the Material Plane by those seeking to sow death and chaos.
@@ -228,3 +228,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "image": "5. Mechanics/Bestiary/Fiend/token/manes.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

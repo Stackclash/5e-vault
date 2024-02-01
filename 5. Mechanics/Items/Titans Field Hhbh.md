@@ -24,8 +24,8 @@ Cave-dwelling cultures across the land all share a similar myth—that of a slum
 
 For 8 hours after using this herb, you are connected to the mycelium network, granting you the following abilities:
 
-- You have a tremorsense out to 60 feet.  
-- You have advantage on Wisdom (Perception) and Wisdom (Insight) checks  
+- You have a [[/5. Mechanics/Rules/Senses.md#tremorsense\|tremorsense]] out to 60 feet.  
+- You have advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) and Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight\|Insight]]) checks  
 - You may use your action to teleport you and up to 6 willing creatures within 10 feet of you, to a cave location you have visited before. Once you have used this ability once, you cannot use it again until you finish a short or long rest.  
 - Whenever you take damage, you may use your reaction to reduce the damage taken by `dice: 1d12|avg` (`1d12`) by redirecting some of it into the mycelium network itself. Once you have used this ability 6 times, your connection to the mycelium network breaks, and the effect of this herb ends immediately.  
 

@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Tracker"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Tracker (SAF).md|Tracker]]
+# [[5. Mechanics/Bestiary/Humanoid/Tracker (SAF).md|Tracker]]
 *Source: Strongholds and Followers p. 78*  
 
 ```statblock
@@ -64,3 +64,7 @@ aliases: ["Tracker"]
 - "SaF"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

@@ -12,7 +12,7 @@ tags:
 statblock: inline
 aliases: ["Githzerai Enlightened"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Githzerai Enlightened (MPMM).md|Githzerai Enlightened]]
+# [[5. Mechanics/Bestiary/Humanoid/Githzerai Enlightened (MPMM).md|Githzerai Enlightened]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 143*  
 
 Some spiritual githzerai spend long hours in meditation to transcend the limits of their forms and to apprehend the nature of reality. Zerths who complete the next tier of their training become known as the enlightened.
@@ -87,3 +87,7 @@ Githzerai are otherworldly folk with psionic powers who share an ancestral link 
 ## Environment
 
 desert, mountain, urban
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

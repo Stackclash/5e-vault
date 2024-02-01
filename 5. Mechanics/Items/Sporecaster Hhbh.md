@@ -22,6 +22,6 @@ A brown fungus easily identified by the many small pores that dot its conical sh
 
 ## Effect:
 
-As part of using this herb, you tuck segments of this herb into specific segments of your clothes and armour. Whenever you are successfully hit by a melee weapon attack, you release a burst of spores in a 5-foot radius around you. Any creature other than you in this burst must make a DC 15 Constitution saving throw, becoming poisoned for 1 minute on a failure. Once you have released 4 bursts of spores, the fungi segments in your clothes and armour becomes empty and this effect ends.
+As part of using this herb, you tuck segments of this herb into specific segments of your clothes and armour. Whenever you are successfully hit by a melee weapon attack, you release a burst of spores in a 5-foot radius around you. Any creature other than you in this burst must make a DC 15 Constitution saving throw, becoming [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] for 1 minute on a failure. Once you have released 4 bursts of spores, the fungi segments in your clothes and armour becomes empty and this effect ends.
 
 *Source: Hamund's Herbalism Handbook p. 33*

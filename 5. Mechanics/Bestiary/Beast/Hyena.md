@@ -13,7 +13,7 @@ tags:
 statblock: inline
 aliases: ["Hyena"]
 ---
-# [[5. Mechanics\Bestiary\Beast\Hyena.md|Hyena]]
+# [[5. Mechanics/Bestiary/Beast/Hyena.md|Hyena]]
 *Source: Monster Manual p. 331. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -58,3 +58,7 @@ aliases: ["Hyena"]
 ## Environment
 
 grassland, forest, hill, desert
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

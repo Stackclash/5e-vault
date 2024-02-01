@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Monarchon"]
 ---
-# [[5. Mechanics\Bestiary\Fey\Monarchon (SAF).md|Monarchon]]
+# [[5. Mechanics/Bestiary/Fey/Monarchon (SAF).md|Monarchon]]
 *Source: Strongholds and Followers p. 179*  
 
 The Monarchon is the embodiment of youth and death, spring and fall. It is gay and sprightly and a harbinger of doom. Once, mortals knew that to gaze upon the death's-head skull of the Monarchon spelled the end. Now, it's been so long since last the Arcadians lived in the Mundane World that mortals must learn these lessons all over again.
@@ -109,3 +109,7 @@ Finally, if she is attacked or otherwise there is great need, she will land and 
 "image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Monarchon.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

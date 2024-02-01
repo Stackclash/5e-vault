@@ -19,6 +19,6 @@ Whenever you deal a lethal blow to a creature with this weapon, your maximum and
 
 ## Curse:
 
-The lingering hunger of this weapon compels you to not wield anything else, forcing you to only use this weapon when making weapon attacks against other creatures. Any time that you increase your hit point maximum beyond double its original amount using the ability of this weapon, you must make a DC 16 Wisdom saving throw. On a failure, you are wracked with extreme hunger, suffering 1 point of exhaustion until you consume at least 5 pounds of food.
+The lingering hunger of this weapon compels you to not wield anything else, forcing you to only use this weapon when making weapon attacks against other creatures. Any time that you increase your hit point maximum beyond double its original amount using the ability of this weapon, you must make a DC 16 Wisdom saving throw. On a failure, you are wracked with extreme hunger, suffering 1 point of [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]] until you consume at least 5 pounds of food.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 82*

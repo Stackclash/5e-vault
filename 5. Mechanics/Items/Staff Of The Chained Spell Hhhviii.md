@@ -17,7 +17,7 @@ aliases:
 - **Damage**:
   - One-handed: 1d6 B
   - Two-handed: 1d8 B
-- **Properties**: Crafted by, Versatile
+- **Properties**: Crafted by, [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
 
 While holding this three-headed staff, you may target up to 3 creatures you can see within 60 feet of you, forcing them to make a Wisdom saving throw against your spell save DC. A creature can choose to fail this saving throw if they wish. On a failure, a target becomes linked for the next 24 hours to any other creature that also failed this saving throw. Whenever you target a linked creature with a spell while holding this staff, all other linked creatures are targeted as well, duplicating the effect of the spell on them without requiring extra actions or spell slots. All regular rules for spell targeting still apply, e.g. they must be within range, within line of sight, etc. Linked creatures make all relevant saving throws and resolve effects independently of one another.

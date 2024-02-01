@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Juvenile Mimic"]
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Juvenile Mimic (TCE).md|Juvenile Mimic]]
+# [[5. Mechanics/Bestiary/Monstrosity/Juvenile Mimic (TCE).md|Juvenile Mimic]]
 *Source: Tasha's Cauldron of Everything p. 167*  
 
 ```statblock
@@ -56,3 +56,7 @@ aliases: ["Juvenile Mimic"]
 "image": "5. Mechanics/Bestiary/Monstrosity/token/juvenile-mimic.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Sword Wraith Commander"]
 ---
-# [[5. Mechanics\Bestiary\Undead\Sword Wraith Commander (MPMM).md|Sword Wraith Commander]]
+# [[5. Mechanics/Bestiary/Undead/Sword Wraith Commander (MPMM).md|Sword Wraith Commander]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 239*  
 
 Sword wraith commanders haunt battlefields, attacking anyone who questions their valor but looking kindly on those who sing their praises.
@@ -84,3 +84,7 @@ When glory-obsessed warriors die in battle without honor, they might haunt the s
 ## Environment
 
 grassland, swamp
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

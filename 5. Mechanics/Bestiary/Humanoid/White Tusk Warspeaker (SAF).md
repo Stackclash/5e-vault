@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["White Tusk Warspeaker"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\White Tusk Warspeaker (SAF).md|White Tusk Warspeaker]]
+# [[5. Mechanics/Bestiary/Humanoid/White Tusk Warspeaker (SAF).md|White Tusk Warspeaker]]
 *Source: Strongholds and Followers p. 140*  
 
 Priests of Grole, orcish god of war and slaughter, live for the chance to kill in the name of their bloodstained god. Dressed in war-robes of scavenged leather and mail, these priests bestow the blessing of pain upon their allies, goading them to die gloriously in combat in the name of Grole.
@@ -77,3 +77,7 @@ Warspeakers seek conflict constantly, flying into a frothing rage at the slighte
 "image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/White%20Tusk%20Warspeaker.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

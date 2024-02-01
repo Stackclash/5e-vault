@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Wood Woad"]
 ---
-# [[5. Mechanics\Bestiary\Plant\Wood Woad (MPMM).md|Wood Woad]]
+# [[5. Mechanics/Bestiary/Plant/Wood Woad (MPMM).md|Wood Woad]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 266*  
 
 A wood woad is a powerful bipedal Plant invested with the soul of someone who gave up life to become an everlasting guardian.
@@ -83,3 +83,7 @@ Wood woads are drawn to creatures that have close ties to nature and that protec
 ## Environment
 
 forest
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

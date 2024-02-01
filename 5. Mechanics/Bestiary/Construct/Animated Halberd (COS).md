@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Animated Halberd"]
 ---
-# [[5. Mechanics\Bestiary\Construct\Animated Halberd (COS).md|Animated Halberd]]
+# [[5. Mechanics/Bestiary/Construct/Animated Halberd (COS).md|Animated Halberd]]
 *Source: Curse of Strahd p. 59*  
 
 ```statblock
@@ -58,3 +58,7 @@ aliases: ["Animated Halberd"]
 "image": "5. Mechanics/Bestiary/Construct/token/animated-halberd.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

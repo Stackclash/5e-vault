@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Stormspeaker"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Stormspeaker (SAF).md|Stormspeaker]]
+# [[5. Mechanics/Bestiary/Humanoid/Stormspeaker (SAF).md|Stormspeaker]]
 *Source: Strongholds and Followers p. 74*  
 
 ```statblock
@@ -62,3 +62,7 @@ aliases: ["Stormspeaker"]
 - "SaF"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

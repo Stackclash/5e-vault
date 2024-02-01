@@ -21,9 +21,9 @@ aliases:
 
 While wearing and attuned to this armor, you gain the following abilities:
 
-- You have a tremorsense out to 60 ft.  
+- You have a [[/5. Mechanics/Rules/Senses.md#tremorsense\|tremorsense]] out to 60 ft.  
 - You have a burrow speed equal to your movement speed.  
 - You may burrow through nonmagical, unworked earth and stone. You do not disturb the material you move through.  
-- You have advantage on Dexterity (Stealth) checks made to hide in rocky terrain.  
+- You have advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks made to hide in rocky terrain.  
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 142, Hamund's Harvesting Handbook: Volume II p. 65*

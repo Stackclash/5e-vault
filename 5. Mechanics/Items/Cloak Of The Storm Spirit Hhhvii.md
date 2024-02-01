@@ -24,6 +24,6 @@ As a living storm, you lack a corporeal form and are instead a vague humanoid sh
 - You have a flying (hover) and swim speed equal to your walking speed.  
 - You may move through a space as narrow as 1 inch wide without squeezing. You may also enter a hostile creature's space and stop there. The first time you enter a creature's space on a turn, or if a creature starts their turn in a space occupied by you, that creature takes `dice: 2d6|avg` (`2d6`) lightning damage.  
 
-If you are in living storm form while in an area under the effect of the control weather spell or similar magic, you instantly revert to your true form. Once this item's ability has been used once, it cannot be used again until the next dawn.
+If you are in living storm form while in an area under the effect of the [[5. Mechanics/Spells/Control Weather.md\|control weather]] spell or similar magic, you instantly revert to your true form. Once this item's ability has been used once, it cannot be used again until the next dawn.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 55*

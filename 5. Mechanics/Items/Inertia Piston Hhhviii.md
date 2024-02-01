@@ -22,6 +22,6 @@ aliases:
 
 This item may be attached to any melee bludgeoning weapon. Attaching or removing this item from a weapon takes 10 minutes to complete. A weapon can only have one attachment at a time.
 
-If you score a critical hit with a weapon that has this item attached against a creature that is size Large or smaller, you may choose to also knock them prone or move them up to 5 feet away from you.
+If you score a critical hit with a weapon that has this item attached against a creature that is size Large or smaller, you may choose to also knock them [[/5. Mechanics/Rules/Conditions.md#prone\|prone]] or move them up to 5 feet away from you.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 91*

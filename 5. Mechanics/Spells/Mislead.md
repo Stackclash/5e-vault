@@ -12,7 +12,6 @@ tags:
 aliases: ["Mislead"]
 ---
 # Mislead
-%%-- Embedded content starts on the next line. --%%
 *5th-level, Illusion*  
 
 - **Casting time:** 1 action

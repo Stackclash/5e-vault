@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Storm Giant"]
 ---
-# [[5. Mechanics\Bestiary\Giant\Storm Giant.md|Storm Giant]]
+# [[5. Mechanics/Bestiary/Giant/Storm Giant.md|Storm Giant]]
 *Source: Monster Manual p. 156. Available in the SRD.*  
 
 Storm giants are contemplative seers that live in places far removed from mortal civilization. Most have pale purple-gray skin and hair, and glittering emerald eyes.
@@ -144,3 +144,7 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 ## Environment
 
 coastal, underwater
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

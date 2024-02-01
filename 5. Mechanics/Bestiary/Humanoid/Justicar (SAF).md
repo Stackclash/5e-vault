@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Justicar"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Justicar (SAF).md|Justicar]]
+# [[5. Mechanics/Bestiary/Humanoid/Justicar (SAF).md|Justicar]]
 *Source: Strongholds and Followers p. 77*  
 
 ```statblock
@@ -66,3 +66,7 @@ aliases: ["Justicar"]
 - "SaF"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

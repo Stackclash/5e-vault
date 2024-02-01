@@ -14,6 +14,6 @@ aliases:
 
 - **Properties**: Crafted by
 
-When you drink this potion, you become able to breathe in even the most polluted areas. You automatically succeed any Constitution saving throw provoked by breathing in a polluted, poisoned, or diseased air.
+When you drink this potion, you become able to breathe in even the most polluted areas. You automatically succeed any Constitution saving throw provoked by breathing in a polluted, [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]], or diseased air.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 137*

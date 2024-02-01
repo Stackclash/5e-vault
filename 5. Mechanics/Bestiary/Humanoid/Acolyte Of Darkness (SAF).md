@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Acolyte of Darkness"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Acolyte Of Darkness (SAF).md|Acolyte of Darkness]]
+# [[5. Mechanics/Bestiary/Humanoid/Acolyte Of Darkness (SAF).md|Acolyte of Darkness]]
 *Source: Strongholds and Followers p. 76*  
 
 ```statblock
@@ -62,3 +62,7 @@ aliases: ["Acolyte of Darkness"]
 - "SaF"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

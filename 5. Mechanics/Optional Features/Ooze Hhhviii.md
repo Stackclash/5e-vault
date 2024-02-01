@@ -11,4 +11,4 @@ aliases: ["Ooze"]
 
 ***Prerequisites*** 3rd-level Monk (Observed Form)
 
-Your flexible stance allows you to move through the battlefield unimpeded and with ease. While in this stance, you can move through spaces occupied by hostile creatures, and you have advantage on saving throws and ability checks against being grappled and being restrained.
+Your flexible stance allows you to move through the battlefield unimpeded and with ease. While in this stance, you can move through spaces occupied by hostile creatures, and you have advantage on saving throws and ability checks against being [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]] and being [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]].

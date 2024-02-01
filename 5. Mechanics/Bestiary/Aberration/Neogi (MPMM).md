@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Neogi"]
 ---
-# [[5. Mechanics\Bestiary\Aberration\Neogi (MPMM).md|Neogi]]
+# [[5. Mechanics/Bestiary/Aberration/Neogi (MPMM).md|Neogi]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 192*  
 
 The mentality of neogi is alien to many other peoples. Because adult neogi have the power to control minds, they consider doing so to be entirely appropriate. Their society makes no distinction between individuals, aside from the ability that a given creature has to control others, and they don't comprehend the emotional aspects of existence that humans and similar beings experience. To a neogi, hatred is as foreign a sensation as love, and showing loyalty in the absence of authority is foolishness.
@@ -91,3 +91,7 @@ Neogi usually dwell in far-flung locations on the Material Plane, as well as in 
 ## Environment
 
 hill, underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

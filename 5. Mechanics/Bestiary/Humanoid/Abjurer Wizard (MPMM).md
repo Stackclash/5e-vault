@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Abjurer Wizard"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Abjurer Wizard (MPMM).md|Abjurer Wizard]]
+# [[5. Mechanics/Bestiary/Humanoid/Abjurer Wizard (MPMM).md|Abjurer Wizard]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 260*  
 
 Abjurers specialize in creating protective magical wards. Monarchs, nobles, and other wealthy individuals commonly hire abjurers to provide protection.
@@ -83,3 +83,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 ## Environment
 
 urban
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

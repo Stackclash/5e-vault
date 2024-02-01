@@ -28,7 +28,8 @@ aliases: ["Haunted Figure"]
 - !!int "15"
 - !!int "14"
 "speed": "20 ft."
-"condition_immunities": "charmed, exhaustion, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "passive Perception 12"
 "languages": "understands the language of its owner but can't speak"
 "traits":
@@ -53,3 +54,7 @@ aliases: ["Haunted Figure"]
 - "HHHVIII"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

@@ -16,7 +16,6 @@ tags:
 aliases: ["Blur"]
 ---
 # Blur
-%%-- Embedded content starts on the next line. --%%
 *2nd-level, Illusion*  
 
 - **Casting time:** 1 action

@@ -20,6 +20,6 @@ This scroll contains blasphemous words written in a dark ink, that when read alo
 
 When you attune to this item you become cursed. As long as you remain cursed, you have a 80% chance  whenever you take a short or long rest to be wracked by terrible images and thoughts. When this occurs, you gain no benefit from finishing that short or long rest.
 
-This curse ends permanently on both the item and the afflicted creature if the remove curse spell or similar magic is cast on the cursed item.
+This curse ends permanently on both the item and the afflicted creature if the [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell or similar magic is cast on the cursed item.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 123*

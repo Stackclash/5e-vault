@@ -18,7 +18,7 @@ cost: 5000
 
 ## Description:
 
-An innocuous looking plant growing in frozen fields that is often overlooked by anyone unaccustomed to arctic survival. This small, bulby, white plant contains a special resin that it uses to insulate its interior against harsh arctic winds and survive till summer. This resin is in fact highly flammable, and also exceedingly sticky which makes it excellent as a makeshift tar. Arctic people have used it for everything from campfire fuel, to torch heads, to makeshift bombs with a simple application of a spark.
+An innocuous looking plant growing in frozen fields that is often overlooked by anyone unaccustomed to arctic survival. This small, bulby, white plant contains a special resin that it uses to insulate its interior against harsh arctic winds and survive till summer. This resin is in fact highly flammable, and also exceedingly sticky which makes it excellent as a makeshift tar. Arctic people have used it for everything from campfire fuel, to [[5. Mechanics/Items/Torch.md\|torch]] heads, to makeshift bombs with a simple application of a spark.
 
 ## Effect:
 

@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Blackguard"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Blackguard (MPMM).md|Blackguard]]
+# [[5. Mechanics/Bestiary/Humanoid/Blackguard (MPMM).md|Blackguard]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 63*  
 
 Blackguards are paladins who broke their sacred oaths and now indulge their own villainous ambitions. They consort with Fiends and Undead, and they reject many of the goodly things from their former lives.
@@ -102,3 +102,7 @@ Blackguards often adorn their armor and weapons with dread accoutrements or are 
 ## Environment
 
 underdark, urban
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

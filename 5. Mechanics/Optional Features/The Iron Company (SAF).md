@@ -11,7 +11,7 @@ aliases: ["The Iron Company"]
 
 |    |    |
 |----|----|
-| Iron golem regular heavy infantry | Cost: — |
+| Iron golem regular heavy infantry | Cost:— |
 
 |    |    |    |    |
 |----|----|----|----|

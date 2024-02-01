@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Warforged Soldier"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Warforged Soldier (ERLW).md|Warforged Soldier]]
+# [[5. Mechanics/Bestiary/Humanoid/Warforged Soldier (ERLW).md|Warforged Soldier]]
 *Source: Eberron: Rising from the Last War p. 320*  
 
 Warforged soldiers are humanoids formed from wood and steel, then magically imbued with life and sentience. The warforged were created to fight in the Last War, and in the aftermath of that conflict, they struggle to understand their place in the world.
@@ -65,3 +65,7 @@ Most warforged soldiers still serve their former masters, often guarding dragonm
 "image": "5. Mechanics/Bestiary/Humanoid/token/warforged-soldier.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

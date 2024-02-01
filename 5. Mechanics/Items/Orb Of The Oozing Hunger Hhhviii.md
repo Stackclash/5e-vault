@@ -16,7 +16,7 @@ aliases:
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20Artifact\|Crafted Artifact]]
 
-The worshippers of Juiblex are among the most pathetic and depraved of all demon cultists. So indoctrinated into their patron's mantra of consuming everything, Juiblex's worshippers make it their goal to be consumed by the Demon Lord themselves, joining it as one writhing mass for all eternity. In their quiet and meditative moments, these cultists report seeing a single orb made of writhing dark-green slime that seems to stare through their bodies and into their souls. This is the legendary Orb of the Oozing Hunger, a demonic artifact made from Juiblex's body that it intends as its final attempt at assimilating the world into its own mass. Many cultists believe that any defeat that Juiblex suffers is actually planned by them as a way to create this orb and spread its influence into corners of the multiverse that it would normally be unable to access.
+The worshippers of [[4. World Almanac/NPCs/Juiblex.md\|Juiblex]] are among the most pathetic and depraved of all demon cultists. So indoctrinated into their patron's mantra of consuming everything, Juiblex's worshippers make it their goal to be consumed by the Demon Lord themselves, joining it as one writhing mass for all eternity. In their quiet and meditative moments, these cultists report seeing a single orb made of writhing dark-green slime that seems to stare through their bodies and into their souls. This is the legendary Orb of the Oozing Hunger, a demonic artifact made from Juiblex's body that it intends as its final attempt at assimilating the world into its own mass. Many cultists believe that any defeat that [[4. World Almanac/NPCs/Juiblex.md\|Juiblex]] suffers is actually planned by them as a way to create this orb and spread its influence into corners of the multiverse that it would normally be unable to access.
 
 In order to attune to this item, you must fully dissolve the body of a Medium sized creature in acid. Then, while holding this item, you must submerge yourself into this acid pit, taking `dice: 6d6|avg` (`6d6`) acid damage as you do so. If this damage kills you, your soul is sent to the Slime Pits in the Abyss. If you survive, you become attuned to this item and your body takes on a distinct green hue. Your skin constantly drips a sticky mucus, and you exude a horrible odor reminiscent of rotting flesh. A creature that touches you or hits you with a melee attack while within 5 feet of you takes `dice: 1d8|avg` (`1d8`) acid damage. You are also immune to acid damage. When your attunement to this item ends, your body reverts to its original form.
 
@@ -26,13 +26,13 @@ If an ability of this item imposes a saving throw, the DC is calculated at 8 + y
 
 The Orb of the Oozing Hunger has the following random properties:
 
-- 1 major beneficial property  
-- 2 minor beneficial properties  
-- 2 minor detrimental properties  
+- 1 [[5. Mechanics/Tables/Artifact Properties Major Beneficial Properties.md\|major beneficial]] property  
+- 2 [[5. Mechanics/Tables/Artifact Properties Minor Beneficial Properties.md\|minor beneficial]] properties  
+- 2 [[5. Mechanics/Tables/Artifact Properties Minor Detrimental Properties.md\|minor detrimental]] properties  
 
 ## Spellcasting
 
-Using this item, you may cast the blight, contagion, and gaseous form spells once each per long rest. You do not require any components to cast these spells and you cast them at their lowest level.
+Using this item, you may cast the [[5. Mechanics/Spells/Blight.md\|blight]], [[5. Mechanics/Spells/Contagion.md\|contagion]], and [[5. Mechanics/Spells/Gaseous Form.md\|gaseous form]] spells once each per long rest. You do not require any components to cast these spells and you cast them at their lowest level.
 
 ## One With the Hunger
 
@@ -50,11 +50,11 @@ As an action, you target one creature you can see within 60 feet of you. The tar
 
 ## Spreading Corruption
 
-Whenever you kill a creature with acid damage, you can use your reaction to cause a gray ooze to rise from the corpse [...] ^[The following text has been removed with this homebrew: (your DM has the stats)]. The ochre jelly is loyal to you and acts directly after you on the initiative order. The ochre jelly remains until it is reduced to 0 hit points, after which it dissipates.
+Whenever you kill a creature with acid damage, you can use your reaction to cause a [[5. Mechanics/Bestiary/Ooze/Gray Ooze.md\|gray ooze]] to rise from the corpse [...] ^[The following text has been removed with this homebrew: (your DM has the stats)]. The [[5. Mechanics/Bestiary/Ooze/Ochre Jelly.md\|ochre jelly]] is loyal to you and acts directly after you on the initiative order. The [[5. Mechanics/Bestiary/Ooze/Ochre Jelly.md\|ochre jelly]] remains until it is reduced to 0 hit points, after which it dissipates.
 
 ## Curse
 
-When you become attuned to the orb, you become cursed. Whenever you finish a long rest while cursed in this way, you must roll on the Madness of Juiblex table* ^[See the info tab] and gain the corresponding flaw until you finish your next long rest. If you are targeted by an effect that removes a curse such as a greater restoration or remove curse spell, the user of that effect may choose to either end your attunement to this item and end the madness immediately, or they may choose to continue your attunement and simply end your current madness. If they choose the latter, you are still considered cursed and must roll on the table as usual at the end of your next long rest.
+When you become attuned to the orb, you become cursed. Whenever you finish a long rest while cursed in this way, you must roll on the [[4. World Almanac/NPCs/Juiblex.md\|Madness of Juiblex table]]* ^[See the info tab] and gain the corresponding flaw until you finish your next long rest. If you are targeted by an effect that removes a curse such as a [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] or [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell, the user of that effect may choose to either end your attunement to this item and end the madness immediately, or they may choose to continue your attunement and simply end your current madness. If they choose the latter, you are still considered cursed and must roll on the table as usual at the end of your next long rest.
 
 ## Destroying the Orb
 

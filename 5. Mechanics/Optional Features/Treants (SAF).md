@@ -11,7 +11,7 @@ aliases: ["Treants"]
 
 |    |    |
 |----|----|
-| Treant siege engine | Cost: — |
+| Treant siege engine | Cost:— |
 
 |    |    |    |    |
 |----|----|----|----|

@@ -22,14 +22,14 @@ A breed of amaranth with a sickly, pale-purple colouration. Unlike the more wide
 
 ## Effect:
 
-This herb has `dice: 1d4|avg` (`1d4`) charges. As an action, you may use a charge to toss a pinch of this herb's pollen ata creature you can see within 5 feet of you, forcing them to succeed on a DC 16 Constitution saving throw or become poisoned for 10 minutes. While poisoned in this way, the creature also suffers an additional random effect determined by rolling on the table below. The poisoned creature may attempt the saving throw again at the end of each of their turns, ending the effect on a success.
+This herb has `dice: 1d4|avg` (`1d4`) charges. As an action, you may use a charge to toss a pinch of this herb's pollen ata creature you can see within 5 feet of you, forcing them to succeed on a DC 16 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] for 10 minutes. While [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] in this way, the creature also suffers an additional random effect determined by rolling on the table below. The [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] creature may attempt the saving throw again at the end of each of their turns, ending the effect on a success.
 
 | dice: d6 | Effect |
 |----------|--------|
-| 1 | The creature's eyes swell shut, causing them to be blinded. |
-| 2 | The creature's ears swell shut, causing them to be deafened. |
-| 3 | The creature is overwhelmed with dizziness and vertigo, causing them to be stunned. |
-| 4 | The creature is overcome by anaphylactic shock, causing them to be paralyzed. |
+| 1 | The creature's eyes swell shut, causing them to be [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]]. |
+| 2 | The creature's ears swell shut, causing them to be [[/5. Mechanics/Rules/Conditions.md#deafened\|deafened]]. |
+| 3 | The creature is overwhelmed with dizziness and vertigo, causing them to be [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]]. |
+| 4 | The creature is overcome by anaphylactic shock, causing them to be [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]]. |
 | 5 | The creature is overwhelmed by sneezing and coughing, lowering their defences and causing all attacks against them to be made at advantage. |
 | 6 | The creature's motor functions are impaired, causing their movement speed to be reduced to 0. |
 ^effect

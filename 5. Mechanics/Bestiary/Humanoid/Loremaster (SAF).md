@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Loremaster"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Loremaster (SAF).md|Loremaster]]
+# [[5. Mechanics/Bestiary/Humanoid/Loremaster (SAF).md|Loremaster]]
 *Source: Strongholds and Followers p. 73*  
 
 ```statblock
@@ -67,3 +67,7 @@ aliases: ["Loremaster"]
 - "SaF"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

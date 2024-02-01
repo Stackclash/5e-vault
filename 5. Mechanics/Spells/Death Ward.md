@@ -16,7 +16,6 @@ tags:
 aliases: ["Death Ward"]
 ---
 # Death Ward
-%%-- Embedded content starts on the next line. --%%
 *4th-level, Abjuration*  
 
 - **Casting time:** 1 action

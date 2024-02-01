@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Spirit Warden"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Spirit Warden (SAF).md|Spirit Warden]]
+# [[5. Mechanics/Bestiary/Humanoid/Spirit Warden (SAF).md|Spirit Warden]]
 *Source: Strongholds and Followers p. 72*  
 
 ```statblock
@@ -62,3 +62,7 @@ aliases: ["Spirit Warden"]
 - "SaF"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

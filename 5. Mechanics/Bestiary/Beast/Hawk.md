@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Hawk"]
 ---
-# [[5. Mechanics\Bestiary\Beast\Hawk.md|Hawk]]
+# [[5. Mechanics/Bestiary/Beast/Hawk.md|Hawk]]
 *Source: Monster Manual p. 330. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -52,3 +52,7 @@ aliases: ["Hawk"]
 "image": "5. Mechanics/Bestiary/Beast/token/hawk.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Enchanter Wizard"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Enchanter Wizard (MPMM).md|Enchanter Wizard]]
+# [[5. Mechanics/Bestiary/Humanoid/Enchanter Wizard (MPMM).md|Enchanter Wizard]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 261*  
 
 Enchanters know how to magically influence minds. Benign enchanters use this magic to defuse violence and sow peace, while malevolent enchanters are some of the most evil of all spellcasters.
@@ -76,3 +76,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 ## Environment
 
 urban
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

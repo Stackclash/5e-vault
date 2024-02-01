@@ -12,7 +12,7 @@ aliases: ["Bullywug Trinket Table"]
 
 | dice: d8 | Item | Value | Weight |
 |----------|------|-------|--------|
-| 1 | `dice: 1d4\|avg` (`1d4`) days' worth of rations (swamp plants and critters) | 5 sp | 2 lb |
+| 1 | `dice: 1d4\|avg` (`1d4`) days' worth of [[5. Mechanics/Items/Rations-1 Day.md\|rations]] (swamp plants and critters) | 5 sp | 2 lb |
 | 2 | 1 pouch of grey mud (good for pores) | 1 sp | 2 lb |
 | 3 | `dice: 2d4\|avg` (`2d4`) shrunken critter carcasses on strings | 3 cp | 2 lb |
 | 4 | 1 tattered tunic | 1 sp | 2 lb |

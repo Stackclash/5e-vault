@@ -12,7 +12,7 @@ tags:
 statblock: inline
 aliases: ["Canoloth"]
 ---
-# [[5. Mechanics\Bestiary\Fiend\Canoloth (MPMM).md|Canoloth]]
+# [[5. Mechanics/Bestiary/Fiend/Canoloth (MPMM).md|Canoloth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 69*  
 
 > [!quote]- A quote from Mordenkainen  
@@ -87,3 +87,7 @@ With senses sharp enough to pinpoint the locations of nearby [[/5. Mechanics/Rul
 ## Environment
 
 coastal, underdark, urban
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

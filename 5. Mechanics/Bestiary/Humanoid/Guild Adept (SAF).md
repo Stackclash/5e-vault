@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Guild Adept"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Guild Adept (SAF).md|Guild Adept]]
+# [[5. Mechanics/Bestiary/Humanoid/Guild Adept (SAF).md|Guild Adept]]
 *Source: Strongholds and Followers p. 78*  
 
 ```statblock
@@ -65,3 +65,7 @@ aliases: ["Guild Adept"]
 - "SaF"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Maladar Dictum"]
 ---
-# [[5. Mechanics\Bestiary\Aberration\Maladar Dictum (SAF).md|Maladar Dictum]]
+# [[5. Mechanics/Bestiary/Aberration/Maladar Dictum (SAF).md|Maladar Dictum]]
 *Source: Strongholds and Followers p. 175*  
 
 Currently one of the Dukes of Chaos, Lord Dictum serves the Red Queen. He is ambitious and plans to replace both the King and Queen...but so do all the Dukes and Duchesses of Chaos. For now, Dictum bides his time and waits.
@@ -84,7 +84,7 @@ If you really want to see things get out of control very quickly, watch Maladar 
     \ consult the below chart. Each member of his court may only be summoned once\
     \ per day in this manner. If the same member is summoned twice, nothing happens.\n\
     \n| dice: d12 | Member Summoned |\n|-----------|-----------------|\n| 1-4 | [Baron\
-    \ Malgas](5. Mechanics/Bestiary/Npc/baron-malgas-saf.md) |\n| 5-7 | [[4. World Almanac/NPCs/Korsoth Vastikan.md|Korsoth Vastikan]]\
+    \ Malgas](compendium/bestiary/npc/baron-malgas-saf.md) |\n| 5-7 | [[4. World Almanac/NPCs/Korsoth Vastikan.md|Korsoth Vastikan]]\
     \ |\n| 8-9 | [[4. World Almanac/NPCs/The Queen Of Bones.md|The Queen of Bones]]\
     \ |\n| 10-11 | [[4. World Almanac/NPCs/Lord Rall.md|Lord Rall]] |\n| 12 |\
     \ [[4. World Almanac/NPCs/Uursovk.md|Uursovk]] |\n^member-summoned"
@@ -94,3 +94,7 @@ If you really want to see things get out of control very quickly, watch Maladar 
 "image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Maladar%20Dictum.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

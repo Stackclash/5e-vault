@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Dhergoloth"]
 ---
-# [[5. Mechanics\Bestiary\Fiend\Dhergoloth (MPMM).md|Dhergoloth]]
+# [[5. Mechanics/Bestiary/Fiend/Dhergoloth (MPMM).md|Dhergoloth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 94*  
 
 > [!quote]- A quote from Mordenkainen  
@@ -81,3 +81,7 @@ Since dhergoloths are little more than brutes, employers must use caution when i
 ## Environment
 
 underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

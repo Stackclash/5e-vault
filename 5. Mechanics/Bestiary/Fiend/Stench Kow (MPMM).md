@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Stench Kow"]
 ---
-# [[5. Mechanics\Bestiary\Fiend\Stench Kow (MPMM).md|Stench Kow]]
+# [[5. Mechanics/Bestiary/Fiend/Stench Kow (MPMM).md|Stench Kow]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 72*  
 
 Stench kows are misshapen bison native to the Lower Planes. These orange and green creatures defend themselves by exuding a miasma so hideous as to be toxic. Some mischievous and malevolent wizards have summoned stench kows to the Material Plane, disguised the creatures as oxen, and let the infernal bison loose on unsuspecting villages.
@@ -64,3 +64,7 @@ Many kinds of cattle roam the multiverse, some of them domesticated and others f
 ## Environment
 
 grassland, urban
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

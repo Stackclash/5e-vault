@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Rat"]
 ---
-# [[5. Mechanics\Bestiary\Beast\Rat.md|Rat]]
+# [[5. Mechanics/Bestiary/Beast/Rat.md|Rat]]
 *Source: Monster Manual p. 335. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -59,3 +59,7 @@ aliases: ["Rat"]
 ## Environment
 
 swamp, urban
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

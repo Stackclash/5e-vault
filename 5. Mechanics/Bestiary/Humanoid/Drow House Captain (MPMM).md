@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Drow House Captain"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Drow House Captain (MPMM).md|Drow House Captain]]
+# [[5. Mechanics/Bestiary/Humanoid/Drow House Captain (MPMM).md|Drow House Captain]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 101*  
 
 > [!quote]- A quote from Tasha  
@@ -100,3 +100,7 @@ Among Lolth's devotees in the city of Menzoberranzan in the Forgotten Realms, ea
 ## Environment
 
 underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

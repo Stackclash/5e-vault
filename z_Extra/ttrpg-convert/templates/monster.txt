@@ -160,6 +160,9 @@ aliases: ["{resource.name}"]
 ## Environment
 
 {resource.environment}
-
 {/if}
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```
 {/if}

@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Wereraven"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Wereraven (VRGR).md|Wereraven]]
+# [[5. Mechanics/Bestiary/Humanoid/Wereraven (VRGR).md|Wereraven]]
 *Source: Van Richten's Guide to Ravenloft p. 253, Curse of Strahd p. 242*  
 
 Wereravens are secretive and extraordinarily cautious lycanthropes that trust one another but are wary of just about everyone else. Although skilled at blending into society, they keep mostly to themselves, respect local laws, and strive to do good whenever possible.
@@ -91,3 +91,7 @@ A character cursed with wereraven lycanthropy gains a Dexterity of 15 if his or 
 "image": "5. Mechanics/Bestiary/Humanoid/token/wereraven.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

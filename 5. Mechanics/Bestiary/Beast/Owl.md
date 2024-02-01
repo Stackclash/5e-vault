@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Owl"]
 ---
-# [[5. Mechanics\Bestiary\Beast\Owl.md|Owl]]
+# [[5. Mechanics/Bestiary/Beast/Owl.md|Owl]]
 *Source: Monster Manual p. 333. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -62,3 +62,7 @@ aliases: ["Owl"]
 ## Environment
 
 forest, arctic
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

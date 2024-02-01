@@ -18,11 +18,11 @@ cost: 5000
 
 ## Description:
 
-A rather finicky herb in the same family as the venus flytrap and other carnivorous plants. The plant's large open red flower entices creatures into itself with a sweet smelling nectar, but as soon as the creature lands to drink, it becomes irreversibly trapped by an adhesive secretion on the petal's surface. This adhesive is adapted to catch even magical creatures by being breakable only through more powerful magic, and ancient recipe fragments have shown that this plant is actually one of the main ingredients to the powerful sovereign glue.
+A rather finicky herb in the same family as the venus flytrap and other carnivorous plants. The plant's large open red flower entices creatures into itself with a sweet smelling nectar, but as soon as the creature lands to drink, it becomes irreversibly trapped by an adhesive secretion on the petal's surface. This adhesive is adapted to catch even magical creatures by being breakable only through more powerful magic, and ancient recipe fragments have shown that this plant is actually one of the main ingredients to the powerful [[5. Mechanics/Items/Sovereign Glue.md\|sovereign glue]].
 
 ## Effect:
 
-This herb contains `dice: 1d4|avg` (`1d4`) ounces of an adhesive secretion that can form a permanent adhesive bond between any two objects. One ounce of the secretion can cover a 1-foot square surface. The secretion takes 1 minute to set. Once it has done so, the bond it creates can be broken only by the application of universal solvent or oil of etherealness, or with a dispel magic spell.
+This herb contains `dice: 1d4|avg` (`1d4`) ounces of an adhesive secretion that can form a permanent adhesive bond between any two objects. One ounce of the secretion can cover a 1-foot square surface. The secretion takes 1 minute to set. Once it has done so, the bond it creates can be broken only by the application of [[5. Mechanics/Items/Universal Solvent.md\|universal solvent]] or [[5. Mechanics/Items/Oil Of Etherealness.md\|oil of etherealness]], or with a [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] spell.
 
 > [!quote]- A quote from Hamund  
 > 

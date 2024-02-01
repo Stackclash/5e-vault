@@ -18,7 +18,7 @@ cost: 50000
 
 ## Description:
 
-A strain of gingko tree with leaves that shine as bright as gold and which always seems to have a holy radiance from within its branches. Archaeological findings have shown that these trees were once ubiquitous throughout the land. However, the constant coveting of their beauty and the medicinal value of their leaves led to their overharvesting. Today, only a handful remain in a few hard to reach places. Some believe that the trees were originally created by the ki-rin as a blessing to the world, and they in turn now protect the last of them by only revealing their location to those they deem worthy.
+A strain of gingko tree with leaves that shine as bright as gold and which always seems to have a holy radiance from within its branches. Archaeological findings have shown that these trees were once ubiquitous throughout the land. However, the constant coveting of their beauty and the medicinal value of their leaves led to their overharvesting. Today, only a handful remain in a few hard to reach places. Some believe that the trees were originally created by the [[5. Mechanics/Bestiary/Celestial/Ki Rin (MPMM).md\|ki-rin]] as a blessing to the world, and they in turn now protect the last of them by only revealing their location to those they deem worthy.
 
 ## Effect:
 

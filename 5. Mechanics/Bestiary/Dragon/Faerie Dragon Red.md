@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Faerie Dragon (Red)"]
 ---
-# [[5. Mechanics\Bestiary\Dragon\Faerie Dragon Red.md|Faerie Dragon (Red)]]
+# [[5. Mechanics/Bestiary/Dragon/Faerie Dragon Red.md|Faerie Dragon (Red)]]
 *Source: Monster Manual p. 133*  
 
 A faerie dragon is a cat-sized dragon with butterfly wings. It wears a sharp-toothed grin and expresses its delight by the twitching of its tail, its merriment fading only if it is attacked.
@@ -111,3 +111,7 @@ CR 1 (200 XP) For a red, orange, or yellow faerie dragon; 2 (450 XP) for a green
 ## Environment
 
 forest
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

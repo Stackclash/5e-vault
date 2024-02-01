@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Spider"]
 ---
-# [[5. Mechanics\Bestiary\Beast\Spider.md|Spider]]
+# [[5. Mechanics/Bestiary/Beast/Spider.md|Spider]]
 *Source: Monster Manual p. 337. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -56,3 +56,7 @@ aliases: ["Spider"]
 "image": "5. Mechanics/Bestiary/Beast/token/spider.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

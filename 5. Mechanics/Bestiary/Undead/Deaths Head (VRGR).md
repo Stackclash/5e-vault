@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Death's Head"]
 ---
-# [[5. Mechanics\Bestiary\Undead\Deaths Head (VRGR).md|Death's Head]]
+# [[5. Mechanics/Bestiary/Undead/Deaths Head (VRGR).md|Death's Head]]
 *Source: Van Richten's Guide to Ravenloft p. 232*  
 
 A death's head is a disembodied, flying head. The type of creature one of these grotesque undead originated from determines how it terrorizes it prey. A death's head that arises from a person or animal swoops down to rip apart victims with its gnashing teeth. One with the head of monster like a nothic or medusa, though, retains a measure of the power it had in life and can befuddle the minds or petrify the bodies of its victims.
@@ -68,3 +68,7 @@ In cursed wilds grow death's head trees, awakened trees from which `dice: 2d6|av
 "image": "5. Mechanics/Bestiary/Undead/token/deaths-head.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

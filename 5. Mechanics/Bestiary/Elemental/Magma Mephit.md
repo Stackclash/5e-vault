@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Magma Mephit"]
 ---
-# [[5. Mechanics\Bestiary\Elemental\Magma Mephit.md|Magma Mephit]]
+# [[5. Mechanics/Bestiary/Elemental/Magma Mephit.md|Magma Mephit]]
 *Source: Monster Manual p. 216. Available in the SRD.*  
 
 ## Mephits
@@ -90,3 +90,7 @@ Composed of earth and fire, magma mephits glow a dull red color as they perspire
 ## Environment
 
 underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

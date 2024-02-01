@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Unicorn"]
 ---
-# [[5. Mechanics\Bestiary\Celestial\Unicorn.md|Unicorn]]
+# [[5. Mechanics/Bestiary/Celestial/Unicorn.md|Unicorn]]
 *Source: Monster Manual p. 294, Tasha's Cauldron of Everything. Available in the SRD.*  
 
 Unicorns dwell in enchanted forests. Unrelated to the horses it resembles, a unicorn is a celestial creature that wanders sylvan realms, its white form glimmering like starlight.
@@ -134,3 +134,7 @@ A unicorn's lair might be an ancient ruin overgrown with vines, a misty clearing
 ## Environment
 
 forest
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

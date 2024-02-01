@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Skinwalker"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Skinwalker (SAF).md|Skinwalker]]
+# [[5. Mechanics/Bestiary/Humanoid/Skinwalker (SAF).md|Skinwalker]]
 *Source: Strongholds and Followers p. 75*  
 
 ```statblock
@@ -80,3 +80,7 @@ aliases: ["Skinwalker"]
 - "SaF"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

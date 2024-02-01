@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Gauth"]
 ---
-# [[5. Mechanics\Bestiary\Aberration\Gauth (MPMM).md|Gauth]]
+# [[5. Mechanics/Bestiary/Aberration/Gauth (MPMM).md|Gauth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 133*  
 
 A gauth is a hungry, tyrannical creature similar to a beholder that eats magic and tries to exact tribute from anything weaker than itself. Its body is about 4 feet in diameter, with six eyestalks, a central eye (sometimes surrounded by multiple smaller eyes), and four small grasping tentacles near its mouth. It has color and texture variations similar to a true beholder.
@@ -100,3 +100,7 @@ A [[5. Mechanics/Bestiary/Aberration/Beholder.md|beholder]] usually drives away 
 ## Environment
 
 underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

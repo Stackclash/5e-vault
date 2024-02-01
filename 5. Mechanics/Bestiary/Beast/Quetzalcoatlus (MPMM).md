@@ -12,7 +12,7 @@ tags:
 statblock: inline
 aliases: ["Quetzalcoatlus"]
 ---
-# [[5. Mechanics\Bestiary\Beast\Quetzalcoatlus (MPMM).md|Quetzalcoatlus]]
+# [[5. Mechanics/Bestiary/Beast/Quetzalcoatlus (MPMM).md|Quetzalcoatlus]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 96*  
 
 This giant relative of the pteranodon has a wingspan exceeding 30 feet. Although it can walk like a quadruped, it is more comfortable in the air.
@@ -59,3 +59,7 @@ This giant relative of the pteranodon has a wingspan exceeding 30 feet. Although
 ## Environment
 
 coastal, hill, mountain
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

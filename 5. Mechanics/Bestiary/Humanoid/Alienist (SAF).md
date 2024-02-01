@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Alienist"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Alienist (SAF).md|Alienist]]
+# [[5. Mechanics/Bestiary/Humanoid/Alienist (SAF).md|Alienist]]
 *Source: Strongholds and Followers p. 80*  
 
 ```statblock
@@ -61,3 +61,7 @@ aliases: ["Alienist"]
 - "SaF"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

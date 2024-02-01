@@ -14,9 +14,9 @@ aliases: ["Chapter 1: Introduction"]
 > 
 > Well, I am an adventurer at heart, a writer by passion, and a harvester at trade. I have travelled the many planes of the multiverse in search of adventure and story (for more of those stories, pick up any copy of "Hamund's Harrowing Histories I-XXXV").
 > 
-> Through my life I have fought and defeated just about every kind of creature you can imagine: I have tussled with treants, skirmished with sphinxes, and even engaged in fisticuffs with a fomorian or two. Never being one to let something go to waste, I always took my trusty hunting knife to these creatures and had a look to see what they had to offer. I have spent many years writing down my findings and anecdotes, and I now present them to you less seasoned adventurers so you may soak in my wisdom.
+> Through my life I have fought and defeated just about every kind of creature you can imagine: I have tussled with [[5. Mechanics/Bestiary/Plant/Treant.md\|treants]], skirmished with sphinxes, and even engaged in fisticuffs with a [[5. Mechanics/Bestiary/Giant/Fomorian.md\|fomorian]] or two. Never being one to let something go to waste, I always took my trusty hunting knife to these creatures and had a look to see what they had to offer. I have spent many years writing down my findings and anecdotes, and I now present them to you less seasoned adventurers so you may soak in my wisdom.
 > 
-> Yes, what you hold in your hands right now is a helpful guide to harvesting the creatures that a typical adventurer may face. You'll learn not just how valuable a roc's guts are, but also which way to twist your knife in order to extract them. The natural world is filled with riches just waiting for bold people like us to take them!
+> Yes, what you hold in your hands right now is a helpful guide to harvesting the creatures that a typical adventurer may face. You'll learn not just how valuable a [[5. Mechanics/Bestiary/Monstrosity/Roc.md\|roc's]] guts are, but also which way to twist your knife in order to extract them. The natural world is filled with riches just waiting for bold people like us to take them!
 > 
 > Good luck and good harvesting,
 

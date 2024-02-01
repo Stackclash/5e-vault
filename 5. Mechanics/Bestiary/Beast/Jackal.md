@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Jackal"]
 ---
-# [[5. Mechanics\Bestiary\Beast\Jackal.md|Jackal]]
+# [[5. Mechanics/Bestiary/Beast/Jackal.md|Jackal]]
 *Source: Monster Manual p. 331. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -57,3 +57,7 @@ aliases: ["Jackal"]
 ## Environment
 
 grassland, desert
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

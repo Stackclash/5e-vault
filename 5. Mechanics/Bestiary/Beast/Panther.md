@@ -12,7 +12,7 @@ tags:
 statblock: inline
 aliases: ["Panther"]
 ---
-# [[5. Mechanics\Bestiary\Beast\Panther.md|Panther]]
+# [[5. Mechanics/Bestiary/Beast/Panther.md|Panther]]
 *Source: Monster Manual p. 333. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -66,3 +66,7 @@ aliases: ["Panther"]
 ## Environment
 
 grassland, forest, hill
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

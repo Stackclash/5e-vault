@@ -15,6 +15,6 @@ aliases:
 
 - **Properties**: Crafted by
 
-This item has 10 charges. When you are subjected to a spell of 6th level or lower that you are aware of, you may spend your reaction to spend a number of charges equal to the level of that spell. If you do, you become immune to that spell's effects, including any lasting effects of the spell such as the fire created by the wall of fire spell. This item regains all spent charges daily at dawn.
+This item has 10 charges. When you are subjected to a spell of 6th level or lower that you are aware of, you may spend your reaction to spend a number of charges equal to the level of that spell. If you do, you become immune to that spell's effects, including any lasting effects of the spell such as the fire created by the [[5. Mechanics/Spells/Wall Of Fire.md\|wall of fire]] spell. This item regains all spent charges daily at dawn.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 122*

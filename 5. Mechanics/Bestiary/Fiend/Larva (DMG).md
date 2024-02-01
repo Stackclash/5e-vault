@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Larva (DMG)"]
 ---
-# [[5. Mechanics\Bestiary\Fiend\Larva (DMG).md|Larva (DMG)]]
+# [[5. Mechanics/Bestiary/Fiend/Larva (DMG).md|Larva (DMG)]]
 *Source: Dungeon Master's Guide p. 63*  
 
 ```statblock
@@ -43,3 +43,7 @@ aliases: ["Larva (DMG)"]
 "image": "5. Mechanics/Bestiary/Fiend/token/larva.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

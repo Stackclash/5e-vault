@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Water Elemental Myrmidon"]
 ---
-# [[5. Mechanics\Bestiary\Elemental\Water Elemental Myrmidon (MPMM).md|Water Elemental Myrmidon]]
+# [[5. Mechanics/Bestiary/Elemental/Water Elemental Myrmidon (MPMM).md|Water Elemental Myrmidon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 123*  
 
 ## Elemental Myrmidons
@@ -58,3 +58,7 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 "image": "5. Mechanics/Bestiary/Elemental/token/water-elemental-myrmidon.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

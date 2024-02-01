@@ -15,6 +15,6 @@ aliases:
 
 - **Properties**: Crafted by
 
-While holding this item, you may cast the fear spell, requiring no other components. Once this ability has been used once, it cannot be used again until the next dawn. Furthermore, anytime a creature within 30 feet of this skull makes a saving throw to avoid the fear condition, they make that save at disadvantage.
+While holding this item, you may cast the [[5. Mechanics/Spells/Fear.md\|fear]] spell, requiring no other components. Once this ability has been used once, it cannot be used again until the next dawn. Furthermore, anytime a creature within 30 feet of this skull makes a saving throw to avoid the [[/5. Mechanics/Rules/Conditions.md#frightened\|fear]] condition, they make that save at disadvantage.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 127*

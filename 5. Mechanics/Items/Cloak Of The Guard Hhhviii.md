@@ -14,6 +14,6 @@ aliases:
 
 - **Properties**: Crafted by
 
-While wearing this cloak, you cannot be surprised so long as you aren't incapacitated, and you may perform up to 4 hours of light activity during a long rest and still gain its benefits; this cloak must be worn during the entirety of the long rest in order for the latter ability to apply.
+While wearing this cloak, you cannot be surprised so long as you aren't [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]], and you may perform up to 4 hours of light activity during a long rest and still gain its benefits; this cloak must be worn during the entirety of the long rest in order for the latter ability to apply.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 84*

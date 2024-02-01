@@ -13,7 +13,7 @@ tags:
 statblock: inline
 aliases: ["Cat"]
 ---
-# [[5. Mechanics\Bestiary\Beast\Cat.md|Cat]]
+# [[5. Mechanics/Bestiary/Beast/Cat.md|Cat]]
 *Source: Monster Manual p. 320, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -67,3 +67,7 @@ aliases: ["Cat"]
 ## Environment
 
 grassland, forest, urban, desert
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

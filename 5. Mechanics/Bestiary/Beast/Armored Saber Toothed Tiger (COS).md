@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Armored Saber-Toothed Tiger"]
 ---
-# [[5. Mechanics\Bestiary\Beast\Armored Saber Toothed Tiger (COS).md|Armored Saber-Toothed Tiger]]
+# [[5. Mechanics/Bestiary/Beast/Armored Saber Toothed Tiger (COS).md|Armored Saber-Toothed Tiger]]
 *Source: Curse of Strahd p. 115*  
 
 ```statblock
@@ -56,3 +56,7 @@ aliases: ["Armored Saber-Toothed Tiger"]
 "image": "5. Mechanics/Bestiary/Beast/token/armored-saber-toothed-tiger.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

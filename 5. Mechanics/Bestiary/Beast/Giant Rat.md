@@ -13,7 +13,7 @@ tags:
 statblock: inline
 aliases: ["Giant Rat"]
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Rat.md|Giant Rat]]
+# [[5. Mechanics/Bestiary/Beast/Giant Rat.md|Giant Rat]]
 *Source: Monster Manual p. 327. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -69,3 +69,7 @@ aliases: ["Giant Rat"]
 ## Environment
 
 underdark, forest, swamp, urban
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

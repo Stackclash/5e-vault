@@ -12,7 +12,6 @@ tags:
 aliases: ["Grease"]
 ---
 # Grease
-%%-- Embedded content starts on the next line. --%%
 *1st-level, Conjuration*  
 
 - **Casting time:** 1 action

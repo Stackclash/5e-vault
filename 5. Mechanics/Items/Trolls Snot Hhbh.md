@@ -22,6 +22,6 @@ These hanging, pale-green vines grow in along, interconnected formation that res
 
 ## Effect:
 
-For 8 hours after using this herb, your hands exude a sticky substance that grants you advantage on Strength (Athletics) checks made to climb or grapple something, and you cannot be disarmed of an object in your hand involuntarily.
+For 8 hours after using this herb, your hands exude a sticky substance that grants you advantage on Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) checks made to climb or [[/5. Mechanics/Rules/Actions.md#grapple\|grapple]] something, and you cannot be disarmed of an object in your hand involuntarily.
 
 *Source: Hamund's Herbalism Handbook p. 36*

@@ -13,7 +13,7 @@ tags:
 statblock: inline
 aliases: ["Spirit Troll"]
 ---
-# [[5. Mechanics\Bestiary\Giant\Spirit Troll (MPMM).md|Spirit Troll]]
+# [[5. Mechanics/Bestiary/Giant/Spirit Troll (MPMM).md|Spirit Troll]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 247*  
 
 A troll blasted with psychic energy can take a non physical form upon regenerating. The troll's psyche survives, but the body is as insubstantial as shadow. The troll might be unaware of the transition—the creature still moves and attacks with teeth and claws as ever—but now the troll strikes at victims' minds.
@@ -88,3 +88,7 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
 ## Environment
 
 coastal, forest, swamp, underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

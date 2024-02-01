@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Cave Bear"]
 ---
-# [[5. Mechanics\Bestiary\Beast\Cave Bear.md|Cave Bear]]
+# [[5. Mechanics/Bestiary/Beast/Cave Bear.md|Cave Bear]]
 *Source: Monster Manual p. 334*  
 
 ```statblock
@@ -59,3 +59,7 @@ aliases: ["Cave Bear"]
 ## Environment
 
 forest, underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

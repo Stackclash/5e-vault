@@ -14,7 +14,7 @@ tags:
 statblock: inline
 aliases: ["Giant Toad"]
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Toad.md|Giant Toad]]
+# [[5. Mechanics/Bestiary/Beast/Giant Toad.md|Giant Toad]]
 *Source: Monster Manual p. 329, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -74,3 +74,7 @@ aliases: ["Giant Toad"]
 ## Environment
 
 underdark, forest, swamp, desert, coastal
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

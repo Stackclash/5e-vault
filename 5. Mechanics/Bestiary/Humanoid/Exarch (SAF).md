@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Exarch"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Exarch (SAF).md|Exarch]]
+# [[5. Mechanics/Bestiary/Humanoid/Exarch (SAF).md|Exarch]]
 *Source: Strongholds and Followers p. 80*  
 
 ```statblock
@@ -61,3 +61,7 @@ aliases: ["Exarch"]
 - "SaF"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

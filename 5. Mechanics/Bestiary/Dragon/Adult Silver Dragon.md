@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Adult Silver Dragon"]
 ---
-# [[5. Mechanics\Bestiary\Dragon\Adult Silver Dragon.md|Adult Silver Dragon]]
+# [[5. Mechanics/Bestiary/Dragon/Adult Silver Dragon.md|Adult Silver Dragon]]
 *Source: Monster Manual p. 117. Available in the SRD.*  
 
 The friendliest and most social of the metallic dragons, silver dragons cheerfully assist good creatures in need.
@@ -181,3 +181,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 ## Environment
 
 mountain, urban
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

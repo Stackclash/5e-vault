@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Neothelid"]
 ---
-# [[5. Mechanics\Bestiary\Aberration\Neothelid (MPMM).md|Neothelid]]
+# [[5. Mechanics/Bestiary/Aberration/Neothelid (MPMM).md|Neothelid]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 193*  
 
 A slime-covered worm of immense size, a neothelid is the result of the mind flayer reproductive cycle gone horribly wrong. When an illithid colony collapses, typically after an external assault, and the elder brain is killed, the colony's tadpoles are suddenly freed from their fate. They no longer serve as food—and are no longer fed by their caretakers. Driven by hunger, they turn to devouring one another. Only one tadpole survives out of the thousands in the colony's pool, and it emerges as a neothelid.
@@ -88,3 +88,7 @@ Mind flayers consider neothelids dangerous abominations—normally they eat or d
 ## Environment
 
 underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Ultroloth"]
 ---
-# [[5. Mechanics\Bestiary\Fiend\Ultroloth.md|Ultroloth]]
+# [[5. Mechanics/Bestiary/Fiend/Ultroloth.md|Ultroloth]]
 *Source: Monster Manual p. 314*  
 
 Ultroloths command the yugoloth armies of the Blood War. An ultroloth looks like a slender gray-skinned humanoid with an elongated head. Its face bears no features except for two ovoid eyes. These eyes can become sparkling pools of light that can transfix other creatures and leave them reeling and helpless.
@@ -141,3 +141,7 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 "image": "5. Mechanics/Bestiary/Fiend/token/ultroloth.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

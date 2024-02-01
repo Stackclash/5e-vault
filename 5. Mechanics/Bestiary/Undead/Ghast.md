@@ -12,7 +12,7 @@ tags:
 statblock: inline
 aliases: ["Ghast"]
 ---
-# [[5. Mechanics\Bestiary\Undead\Ghast.md|Ghast]]
+# [[5. Mechanics/Bestiary/Undead/Ghast.md|Ghast]]
 *Source: Monster Manual p. 148, Curse of Strahd. Available in the SRD.*  
 
 Ghouls roam the night in packs, driven by an insatiable hunger for humanoid flesh.
@@ -93,3 +93,7 @@ Orcus sometimes infuses a ghoul with a stronger dose of abyssal energy, making a
 ## Environment
 
 underdark, swamp, urban
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

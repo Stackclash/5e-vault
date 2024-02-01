@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Monodrone"]
 ---
-# [[5. Mechanics\Bestiary\Construct\Monodrone.md|Monodrone]]
+# [[5. Mechanics/Bestiary/Construct/Monodrone.md|Monodrone]]
 *Source: Monster Manual p. 224*  
 
 A monodrone can perform one simple task at a time and can relay a single message of up to forty-eight words.
@@ -90,3 +90,7 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
 "image": "5. Mechanics/Bestiary/Construct/token/monodrone.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

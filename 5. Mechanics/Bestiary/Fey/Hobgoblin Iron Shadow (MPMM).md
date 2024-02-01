@@ -12,7 +12,7 @@ tags:
 statblock: inline
 aliases: ["Hobgoblin Iron Shadow"]
 ---
-# [[5. Mechanics\Bestiary\Fey\Hobgoblin Iron Shadow (MPMM).md|Hobgoblin Iron Shadow]]
+# [[5. Mechanics/Bestiary/Fey/Hobgoblin Iron Shadow (MPMM).md|Hobgoblin Iron Shadow]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 154*  
 
 Iron shadows are hobgoblin martial artists who serve fey and mortal courts as secret police, scouts, and assassins. They spy to ferret out treachery, rebellion, and betrayal and deal with it ruthlessly. Iron shadows possess agility and stamina matched only by their ironclad commitment to the will of their masters. They wield a deadly combination of unarmed fighting techniques and shadow magic to deceive and defeat their foes. While on secret missions, they wear masks crafted to resemble monsters, both to conceal their identities and to strike fear into their foes.
@@ -78,3 +78,7 @@ An iron shadow is usually recruited from the ranks of the Feywild's hobgoblin ar
 ## Environment
 
 forest, grassland, hill
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

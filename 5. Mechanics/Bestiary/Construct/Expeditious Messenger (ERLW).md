@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Expeditious Messenger"]
 ---
-# [[5. Mechanics\Bestiary\Construct\Expeditious Messenger (ERLW).md|Expeditious Messenger]]
+# [[5. Mechanics/Bestiary/Construct/Expeditious Messenger (ERLW).md|Expeditious Messenger]]
 *Source: Eberron: Rising from the Last War p. 293*  
 
 An expeditious messenger is a speedy flier, designed to quickly carry messages for its creator. Their speedy and efficient attitude makes expeditious messengers quite chatty, and they natter on as fast as they move.
@@ -66,3 +66,7 @@ Each kind of homunculus has a body constructed from different kinds of materials
 "image": "5. Mechanics/Bestiary/Construct/token/expeditious-messenger.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

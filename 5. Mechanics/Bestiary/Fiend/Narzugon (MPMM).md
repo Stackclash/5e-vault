@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Narzugon"]
 ---
-# [[5. Mechanics\Bestiary\Fiend\Narzugon (MPMM).md|Narzugon]]
+# [[5. Mechanics/Bestiary/Fiend/Narzugon (MPMM).md|Narzugon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 190*  
 
 Paladins who make deals with devils and carry their twisted sense of honor into the afterlife are especially valuable to the archdukes of the Nine Hells. These narzugons act as horrific perversions of knights errant, carrying out their masters' will.
@@ -90,3 +90,7 @@ Each narzugon claims a [[5. Mechanics/Bestiary/Fiend/Nightmare.md|nightmare]] as
 "image": "5. Mechanics/Bestiary/Fiend/token/narzugon.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

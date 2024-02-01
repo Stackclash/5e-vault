@@ -15,7 +15,6 @@ tags:
 aliases: ["Toll the Dead"]
 ---
 # Toll the Dead
-%%-- Embedded content starts on the next line. --%%
 *cantrip, Necromancy*  
 
 - **Casting time:** 1 action

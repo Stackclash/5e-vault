@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Virtue"]
 ---
-# [[5. Mechanics\Bestiary\Celestial\Virtue (SAF).md|Virtue]]
+# [[5. Mechanics/Bestiary/Celestial/Virtue (SAF).md|Virtue]]
 *Source: Strongholds and Followers p. 159*  
 
 A collection of mouths and hands that arrives and sings power, which is a totally normal thing to do. The Virtue is the Word of the Gods, and that word is death to evil. These songs are not spells, so magic resistance does not affect them. They are divine words spoken by a creature sent by the gods.
@@ -106,3 +106,7 @@ See? Proper Celestial gibberish!
 "image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Virtue.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Sea Spawn"]
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Sea Spawn (MPMM).md|Sea Spawn]]
+# [[5. Mechanics/Bestiary/Monstrosity/Sea Spawn (MPMM).md|Sea Spawn]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 211*  
 
 Many of the stories sung as sea chanteys and recounted in dockside taverns tell of people lost to the sea—but not merely drowned and gone. Some unfortunates taken by the ocean live on as sea spawn, haunting the waves like tortured reflections of their former selves. Coral encrusts them. Barnacles cling to their cold skin. Lungs that once filled with air can now breathe in water as well.
@@ -81,3 +81,7 @@ Kraken priests (in this book) tend to the kraken's flock. Most of the priests ar
 ## Environment
 
 coastal, underwater
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

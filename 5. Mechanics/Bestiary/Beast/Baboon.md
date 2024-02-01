@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Baboon"]
 ---
-# [[5. Mechanics\Bestiary\Beast\Baboon.md|Baboon]]
+# [[5. Mechanics/Bestiary/Beast/Baboon.md|Baboon]]
 *Source: Monster Manual p. 318, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -57,3 +57,7 @@ aliases: ["Baboon"]
 ## Environment
 
 forest, hill
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

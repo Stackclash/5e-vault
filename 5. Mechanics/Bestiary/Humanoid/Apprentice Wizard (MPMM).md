@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Apprentice Wizard"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Apprentice Wizard (MPMM).md|Apprentice Wizard]]
+# [[5. Mechanics/Bestiary/Humanoid/Apprentice Wizard (MPMM).md|Apprentice Wizard]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 259*  
 
 Apprentices are novice arcane spellcasters who serve more experienced wizards or attend school. They perform menial work like cooking or cleaning in exchange for education in the ways of magic.
@@ -64,3 +64,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 ## Environment
 
 urban
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

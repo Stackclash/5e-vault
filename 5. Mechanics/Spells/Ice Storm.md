@@ -17,7 +17,6 @@ tags:
 aliases: ["Ice Storm"]
 ---
 # Ice Storm
-%%-- Embedded content starts on the next line. --%%
 *4th-level, Evocation*  
 
 - **Casting time:** 1 action

@@ -14,6 +14,6 @@ aliases:
 *Generic Variant, very rare*  
 
 
-You gain a +1 bonus to attack and damage rolls made with this weapon. Whenever you roll a 20 on an attack roll with this weapon, your target becomes stunned until the start of your next turn.
+You gain a +1 bonus to attack and damage rolls made with this weapon. Whenever you roll a 20 on an attack roll with this weapon, your target becomes [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]] until the start of your next turn.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 61*

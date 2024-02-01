@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Assassin"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Assassin.md|Assassin]]
+# [[5. Mechanics/Bestiary/Humanoid/Assassin.md|Assassin]]
 *Source: Monster Manual p. 343, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD.*  
 
 Trained in the use of poison, assassins are remorseless killers who work for nobles, guildmasters, sovereigns, and anyone else who can afford them.
@@ -103,3 +103,7 @@ Trained in the use of poison, assassins are remorseless killers who work for nob
 ## Environment
 
 urban
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

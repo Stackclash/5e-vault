@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Adult Brass Dragon"]
 ---
-# [[5. Mechanics\Bestiary\Dragon\Adult Brass Dragon.md|Adult Brass Dragon]]
+# [[5. Mechanics/Bestiary/Dragon/Adult Brass Dragon.md|Adult Brass Dragon]]
 *Source: Monster Manual p. 105. Available in the SRD.*  
 
 The most gregarious of the true dragons, brass dragons crave conversation, sunlight, and hot, dry climates.
@@ -163,3 +163,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 ## Environment
 
 desert
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

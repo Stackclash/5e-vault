@@ -18,7 +18,7 @@ cost: 10000
 
 ## Description:
 
-A beautiful pine with leaves tinged with the golden light of the sun rising over a powdery tundra. It is said that this pine was created by Baphomet himself as a gift to any that needed to strike down evil dragons. The resin tapped from its mighty trunk contains a special enzyme that reacts violently with the keratin of a dragon's scales, softening them and making their flesh easier to strike. As such, these trees are revered by the dragon hunters of the land, with many of them building their mighty fortresses inside golden pine forests.
+A beautiful pine with leaves tinged with the golden light of the sun rising over a powdery tundra. It is said that this pine was created by [[4. World Almanac/NPCs/Baphomet.md\|Baphomet]] himself as a gift to any that needed to strike down evil dragons. The resin tapped from its mighty trunk contains a special enzyme that reacts violently with the keratin of a dragon's scales, softening them and making their flesh easier to strike. As such, these trees are revered by the dragon hunters of the land, with many of them building their mighty fortresses inside golden pine forests.
 
 ## Effect:
 

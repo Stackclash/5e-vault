@@ -11,4 +11,4 @@ aliases: ["Construct"]
 
 ***Prerequisites*** 3rd-level Monk (Observed Form)
 
-Your sturdy stance makes you harder to knock down and to be moved around. While in this stance, you have advantage on saving throws and ability checks against being knocked prone or moved against your will.
+Your sturdy stance makes you harder to knock down and to be moved around. While in this stance, you have advantage on saving throws and ability checks against being knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]] or moved against your will.

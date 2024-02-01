@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Shadow Spirit (6th-level Spell)"]
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Shadow Spirit-6th Level Spell (TCE).md|Shadow Spirit (6th-level Spell)]]
+# [[5. Mechanics/Bestiary/Monstrosity/Shadow Spirit-6th Level Spell (TCE).md|Shadow Spirit (6th-level Spell)]]
 *Source: Tasha's Cauldron of Everything p. 114*  
 
 ```statblock
@@ -60,3 +60,7 @@ aliases: ["Shadow Spirit (6th-level Spell)"]
 "image": "5. Mechanics/Bestiary/Monstrosity/token/shadow-spirit.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

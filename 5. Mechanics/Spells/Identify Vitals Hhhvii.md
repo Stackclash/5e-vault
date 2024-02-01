@@ -3,6 +3,12 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
 - compendium/src/5e/hhhvii
+- spell/class/cleric
+- spell/class/druid
+- spell/class/paladin
+- spell/class/ranger
+- spell/class/warlock
+- spell/class/wizard
 - spell/level/1
 - spell/ritual
 - spell/school/enchantment
@@ -21,5 +27,7 @@ Target a creature within range that you can see. You gain knowledge of any damag
 If you target a dead creature with this spell, you also gain the benefits of a successful "Appraisal check" on that creature. The benefit of this "Appraisal check" is not lost after the duration of this spell.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st. The creatures must be within 60 feet of each other when you target them.
+
+**Classes**: [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Paladin.md\|Paladin]], [[5. Mechanics/Classes/Ranger.md\|Ranger]], [[5. Mechanics/Classes/Warlock.md\|Warlock]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 69*

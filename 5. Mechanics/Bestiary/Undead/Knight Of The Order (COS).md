@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Knight of the Order"]
 ---
-# [[5. Mechanics\Bestiary\Undead\Knight Of The Order (COS).md|Knight of the Order]]
+# [[5. Mechanics/Bestiary/Undead/Knight Of The Order (COS).md|Knight of the Order]]
 *Source: Curse of Strahd p. 139*  
 
 ```statblock
@@ -89,3 +89,7 @@ aliases: ["Knight of the Order"]
 "image": "5. Mechanics/Bestiary/Undead/token/knight-of-the-order.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

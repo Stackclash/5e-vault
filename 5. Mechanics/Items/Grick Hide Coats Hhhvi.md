@@ -16,7 +16,7 @@ aliases:
 - **Properties**: Crafted by
 - **Weight**: 13.0 lbs.
 
-While wearing this armor, you have advantage on Dexterity (Stealth) checks made to hide in rocky terrain and on Strength (Athletics) checks made to climb rocky terrain.
+While wearing this armor, you have advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks made to hide in rocky terrain and on Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) checks made to climb rocky terrain.
 
 If this is the rare version of this armor, you also gain a +1 bonus to AC while wearing this item.
 

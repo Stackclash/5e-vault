@@ -16,7 +16,7 @@ tags:
 statblock: inline
 aliases: ["Swarm of Wasps"]
 ---
-# [[5. Mechanics\Bestiary\Beast\Swarm Of Wasps.md|Swarm of Wasps]]
+# [[5. Mechanics/Bestiary/Beast/Swarm Of Wasps.md|Swarm of Wasps]]
 *Source: Monster Manual p. 338, Curse of Strahd. Available in the SRD.*  
 
 > [!note] The Nature of Swarms
@@ -72,3 +72,7 @@ aliases: ["Swarm of Wasps"]
 ## Environment
 
 underdark, grassland, forest, swamp, hill, urban, desert
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

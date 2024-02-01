@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Tortle Druid"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Tortle Druid (MPMM).md|Tortle Druid]]
+# [[5. Mechanics/Bestiary/Humanoid/Tortle Druid (MPMM).md|Tortle Druid]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 244*  
 
 Many tortles view the world as a place of wonder. They live for the chance to hear a soft wind blowing through trees, to watch a frog croaking on a lily pad, or to stand in a crowded marketplace. A tortle druid savors such things more than most, channeling the natural magic of the world around them.
@@ -80,3 +80,7 @@ Most tortles like to see how other folk live. A tortle can spend decades away fr
 ## Environment
 
 coastal
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

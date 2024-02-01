@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Pony"]
 ---
-# [[5. Mechanics\Bestiary\Beast\Pony.md|Pony]]
+# [[5. Mechanics/Bestiary/Beast/Pony.md|Pony]]
 *Source: Monster Manual p. 335. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -48,3 +48,7 @@ aliases: ["Pony"]
 ## Environment
 
 urban
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

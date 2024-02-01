@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Ancient Sapphire Dragon"]
 ---
-# [[5. Mechanics\Bestiary\Dragon\Ancient Sapphire Dragon (SAF).md|Ancient Sapphire Dragon]]
+# [[5. Mechanics/Bestiary/Dragon/Ancient Sapphire Dragon (SAF).md|Ancient Sapphire Dragon]]
 *Source: Strongholds and Followers p. 213*  
 
 Eldest, first, the sapphire dragons inspire awe in any who see them. They guard the knowledge of past and future and the power that lets one shift between them. They approve of the dwarves, who imposed the rigid rules of causality on the world, and consider the remnant domains of the elves, the wodes, as a danger. Not a threat per se, because they know it is in the elves' nature to ignore past and future, but when mortals exploit this or discover the means to move through time, or summon creatures from the past and future, then the sapphire dragons get riled up.
@@ -90,3 +90,7 @@ Being oldest, they are also the most reserved, taciturn. Even the young sapphire
 "image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Large%20Sapphire%20Dragon.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

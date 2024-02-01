@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Duergar Screamer"]
 ---
-# [[5. Mechanics\Bestiary\Construct\Duergar Screamer (MPMM).md|Duergar Screamer]]
+# [[5. Mechanics/Bestiary/Construct/Duergar Screamer (MPMM).md|Duergar Screamer]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 111*  
 
 A duergar screamer uses sonic energy to grind rock into dust and to hurl invaders to the ground.
@@ -70,3 +70,7 @@ These machines are deployed to assist with construction projects and war. Some d
 ## Environment
 
 mountain, underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

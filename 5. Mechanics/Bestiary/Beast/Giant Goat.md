@@ -12,7 +12,7 @@ tags:
 statblock: inline
 aliases: ["Giant Goat"]
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Goat.md|Giant Goat]]
+# [[5. Mechanics/Bestiary/Beast/Giant Goat.md|Giant Goat]]
 *Source: Monster Manual p. 326, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -61,3 +61,7 @@ aliases: ["Giant Goat"]
 ## Environment
 
 mountain, grassland, hill
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

@@ -13,7 +13,7 @@ tags:
 statblock: inline
 aliases: ["Clockwork Iron Cobra"]
 ---
-# [[5. Mechanics\Bestiary\Construct\Clockwork Iron Cobra (MPMM).md|Clockwork Iron Cobra]]
+# [[5. Mechanics/Bestiary/Construct/Clockwork Iron Cobra (MPMM).md|Clockwork Iron Cobra]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 79*  
 
 An iron cobra is exactly what its name implies: a metal snake with a poisonous bite. Gnomes load this clockwork with alchemical concoctions that can paralyze creatures and cloud the mind.
@@ -111,3 +111,7 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
 ## Environment
 
 forest, grassland, hill, mountain
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

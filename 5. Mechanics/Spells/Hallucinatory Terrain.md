@@ -15,7 +15,6 @@ tags:
 aliases: ["Hallucinatory Terrain"]
 ---
 # Hallucinatory Terrain
-%%-- Embedded content starts on the next line. --%%
 *4th-level, Illusion*  
 
 - **Casting time:** 10 minute

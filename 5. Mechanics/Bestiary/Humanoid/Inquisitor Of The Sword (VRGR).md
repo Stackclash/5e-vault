@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Inquisitor of the Sword"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Inquisitor Of The Sword (VRGR).md|Inquisitor of the Sword]]
+# [[5. Mechanics/Bestiary/Humanoid/Inquisitor Of The Sword (VRGR).md|Inquisitor of the Sword]]
 *Source: Van Richten's Guide to Ravenloft p. 249*  
 
 "Evil lurks everywhere. With our minds, we will unearth it, we will plumb its depths, and we will annihilate it." With those words, the psychically gifted priest Ulmed founded the Ulmist Inquisition, an order of psionic inquisitors that seeks to discover the wickedness hiding in people's souls.
@@ -78,3 +78,7 @@ Today the inquisition rules the city of Malitain, a vast city-state to the north
 "image": "5. Mechanics/Bestiary/Humanoid/token/inquisitor-of-the-sword.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

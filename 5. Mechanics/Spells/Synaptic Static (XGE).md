@@ -12,7 +12,6 @@ tags:
 aliases: ["Synaptic Static"]
 ---
 # Synaptic Static
-%%-- Embedded content starts on the next line. --%%
 *5th-level, Enchantment*  
 
 - **Casting time:** 1 action

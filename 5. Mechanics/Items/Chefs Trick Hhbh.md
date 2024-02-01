@@ -22,6 +22,6 @@ Swamps are not known for their wealth of appetising foodstuffs, but there is one
 
 ## Effect:
 
-As an action, you may crumble and sprinkle it over an edible item such as a meal or drink while thinking of a flavour. This flavour can range from something vague like 'sour' to something specific such as 'a roasted chicken seasoned with oregano.' If you do so, that item tastes like the flavour you were thinking of. A creature that consumes this item may make a DC 20 Wisdom (Perception) check to notice the artificial flavouring in it.
+As an action, you may crumble and sprinkle it over an edible item such as a meal or drink while thinking of a flavour. This flavour can range from something vague like 'sour' to something specific such as 'a roasted chicken seasoned with oregano.' If you do so, that item tastes like the flavour you were thinking of. A creature that consumes this item may make a DC 20 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check to notice the artificial flavouring in it.
 
 *Source: Hamund's Herbalism Handbook p. 9*

@@ -13,7 +13,7 @@ tags:
 statblock: inline
 aliases: ["Nightwalker"]
 ---
-# [[5. Mechanics\Bestiary\Undead\Nightwalker (MPMM).md|Nightwalker]]
+# [[5. Mechanics/Bestiary/Undead/Nightwalker (MPMM).md|Nightwalker]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 194*  
 
 The Negative Plane is a place of death, anathema to all living things. Yet there are some who would tap into its fell power and use its energy for sinister ends. Most individuals prove unequal to the task. Those not destroyed outright are sometimes drawn inside the plane and replaced by nightwalkers—terrifying Undead creatures that devour all life they encounter.
@@ -90,3 +90,7 @@ Generally, a nightwalker on the Material Plane is attracted to elements of the w
 ## Environment
 
 arctic, desert, swamp, underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

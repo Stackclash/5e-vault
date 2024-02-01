@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Ochre Jelly"]
 ---
-# [[5. Mechanics\Bestiary\Ooze\Ochre Jelly.md|Ochre Jelly]]
+# [[5. Mechanics/Bestiary/Ooze/Ochre Jelly.md|Ochre Jelly]]
 *Source: Monster Manual p. 243, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  
 
 Ochre jellies are yellowish blobs that can slide under doors and through narrow cracks in pursuit of creatures to devour. They have enough bestial cunning to avoid large groups of enemies.
@@ -108,3 +108,7 @@ An ooze doesn't require sleep.
 ## Environment
 
 underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

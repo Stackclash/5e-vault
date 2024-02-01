@@ -17,6 +17,6 @@ aliases:
 - **Strength**: Requires 15 STR.
 - **Weight**: 60.0 lbs.
 
-This flexible armor acts like regular splint but does not impose disadvantage on Dexterity (Stealth) checks.
+This flexible armor acts like regular splint but does not impose disadvantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 91*

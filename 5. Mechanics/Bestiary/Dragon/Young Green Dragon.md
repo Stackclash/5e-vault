@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Young Green Dragon"]
 ---
-# [[5. Mechanics\Bestiary\Dragon\Young Green Dragon.md|Young Green Dragon]]
+# [[5. Mechanics/Bestiary/Dragon/Young Green Dragon.md|Young Green Dragon]]
 *Source: Monster Manual p. 94. Available in the SRD and the Basic Rules.*  
 
 The most cunning and treacherous of true dragons, green dragons use misdirection and trickery to get the upper hand against their enemies. Nasty tempered and thoroughly evil, they take special pleasure in subverting and corrupting the good-hearted. In the ancient forests they roam, green dragons demonstrate an aggression that is often less about territory than it is about gaining power and wealth with as little effort as possible.
@@ -168,3 +168,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 ## Environment
 
 forest
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

@@ -15,7 +15,7 @@ tags:
 statblock: inline
 aliases: ["Cyclops"]
 ---
-# [[5. Mechanics\Bestiary\Giant\Cyclops.md|Cyclops]]
+# [[5. Mechanics/Bestiary/Giant/Cyclops.md|Cyclops]]
 *Source: Monster Manual p. 45. Available in the Basic Rules.*  
 
 Cyclopes are one-eyed giants that eke out a meager existence in wild lands. Isolationists by nature, they avoid contact with other races and try to drive away strangers in their territory.
@@ -84,3 +84,7 @@ Cyclopes aren't great thinkers or strategists. Slow to learn and bound to their 
 ## Environment
 
 underdark, mountain, grassland, hill, desert, coastal
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

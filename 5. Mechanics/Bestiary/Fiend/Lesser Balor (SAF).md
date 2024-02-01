@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Lesser Balor"]
 ---
-# [[5. Mechanics\Bestiary\Fiend\Lesser Balor (SAF).md|Lesser Balor]]
+# [[5. Mechanics/Bestiary/Fiend/Lesser Balor (SAF).md|Lesser Balor]]
 *Source: Strongholds and Followers p. 153*  
 
 ```statblock
@@ -75,3 +75,7 @@ aliases: ["Lesser Balor"]
 - "SaF"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

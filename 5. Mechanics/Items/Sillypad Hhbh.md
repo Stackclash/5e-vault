@@ -22,7 +22,7 @@ A magical type of lilypad that is indistinguishable from its mundane counterpart
 
 ## Effect:
 
-As an action you may rub this herb on your skin. If you do so, you undergo a random, harmless transformation determined by rolling on the table below. This effect lasts for 4 hours or until a lesser restoration spell or similar magic is cast on you, after which you revert back to your normal form.
+As an action you may rub this herb on your skin. If you do so, you undergo a random, harmless transformation determined by rolling on the table below. This effect lasts for 4 hours or until a [[5. Mechanics/Spells/Lesser Restoration.md\|lesser restoration]] spell or similar magic is cast on you, after which you revert back to your normal form.
 
 **Sillypad Effect Table**
 

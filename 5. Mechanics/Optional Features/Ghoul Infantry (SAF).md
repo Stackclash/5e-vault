@@ -11,7 +11,7 @@ aliases: ["Ghoul Infantry"]
 
 |    |    |
 |----|----|
-| Ghoul regular medium infantry | Cost: — |
+| Ghoul regular medium infantry | Cost:— |
 
 |    |    |    |    |
 |----|----|----|----|

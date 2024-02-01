@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Giant Frog"]
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Frog.md|Giant Frog]]
+# [[5. Mechanics/Bestiary/Beast/Giant Frog.md|Giant Frog]]
 *Source: Monster Manual p. 325. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -75,3 +75,7 @@ aliases: ["Giant Frog"]
 ## Environment
 
 forest, swamp
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

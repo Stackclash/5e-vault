@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Derro Savant"]
 ---
-# [[5. Mechanics\Bestiary\Aberration\Derro Savant (MPMM).md|Derro Savant]]
+# [[5. Mechanics/Bestiary/Aberration/Derro Savant (MPMM).md|Derro Savant]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 92*  
 
 > [!quote]- A quote from Mordenkainen  
@@ -82,3 +82,7 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
 ## Environment
 
 underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

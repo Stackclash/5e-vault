@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Barovian Scout"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Barovian Scout (COS).md|Barovian Scout]]
+# [[5. Mechanics/Bestiary/Humanoid/Barovian Scout (COS).md|Barovian Scout]]
 *Source: Curse of Strahd p. 29*  
 
 ```statblock
@@ -55,3 +55,7 @@ aliases: ["Barovian Scout"]
 "image": "5. Mechanics/Bestiary/Humanoid/token/barovian-scout.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

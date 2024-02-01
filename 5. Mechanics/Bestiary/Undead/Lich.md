@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Lich"]
 ---
-# [[5. Mechanics\Bestiary\Undead\Lich.md|Lich]]
+# [[5. Mechanics/Bestiary/Undead/Lich.md|Lich]]
 *Source: Monster Manual p. 202, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD.*  
 
 Liches are the remains of great wizards who embrace undeath as a means of preserving themselves. They further their own power at any cost, having no interest in the affairs of the living except where those affairs interfere with their own. Scheming and insane, they hunger for long-forgotten knowledge and the most terrible secrets. Because the shadow of death doesn't hang over them, they can conceive plans that take years, decades, or centuries to come to fruition.
@@ -156,3 +156,7 @@ A lich encountered in its lair has a challenge rating of 22 (41,000 XP).
 "image": "5. Mechanics/Bestiary/Undead/token/lich.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

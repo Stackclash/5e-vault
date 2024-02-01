@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Duergar Soulblade"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Duergar Soulblade (MPMM).md|Duergar Soulblade]]
+# [[5. Mechanics/Bestiary/Humanoid/Duergar Soulblade (MPMM).md|Duergar Soulblade]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 109*  
 
 Soulblades are duergar combatants whose mastery of psionics allows them to manifest blades of psychic energy to slice apart their foes.
@@ -95,3 +95,7 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 ## Environment
 
 mountain, underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Remorhaz"]
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Remorhaz.md|Remorhaz]]
+# [[5. Mechanics/Bestiary/Monstrosity/Remorhaz.md|Remorhaz]]
 *Source: Monster Manual p. 258. Available in the SRD.*  
 
 From beneath the snow and ice bursts a remorhaz in a cloud of steam, its body pulsing with internal fire. Wing like fins flare from the back of the creature's head, and its wide mouth brims with jagged teeth.
@@ -86,3 +86,7 @@ Frost giant hunters scour the icy wastes for remorhaz nests and eggs. The giants
 ## Environment
 
 arctic
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

@@ -14,6 +14,6 @@ aliases:
 
 - **Properties**: Crafted by
 
-You may spend an action to sprinkle some of this dust over yourself. If you do so, you magically turn invisible as if under the effect of the invisibility spell (no concentration required). This pouch contains enough dust for three sprinkles.
+You may spend an action to sprinkle some of this dust over yourself. If you do so, you magically turn [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]] as if under the effect of the invisibility spell (no concentration required). This pouch contains enough dust for three sprinkles.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 127*

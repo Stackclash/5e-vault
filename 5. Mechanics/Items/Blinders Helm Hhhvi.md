@@ -15,6 +15,6 @@ aliases:
 
 - **Properties**: Crafted by
 
-While wearing this helmet, you gain a blindsight out to a range of 60 feet, and are immune to the blinded, and deafened conditions.
+While wearing this helmet, you gain a [[/5. Mechanics/Rules/Senses.md#blindsight\|blindsight]] out to a range of 60 feet, and are immune to the [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]], and [[/5. Mechanics/Rules/Conditions.md#deafened\|deafened]] conditions.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 120*

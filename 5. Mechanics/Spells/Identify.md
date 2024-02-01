@@ -16,7 +16,6 @@ tags:
 aliases: ["Identify"]
 ---
 # Identify
-%%-- Embedded content starts on the next line. --%%
 *1st-level, Divination (ritual)*  
 
 - **Casting time:** 1 minute unless cast as a ritual

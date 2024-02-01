@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Orchid Count"]
 ---
-# [[5. Mechanics\Bestiary\Fey\Orchid Count (SAF).md|Orchid Count]]
+# [[5. Mechanics/Bestiary/Fey/Orchid Count (SAF).md|Orchid Count]]
 *Source: Strongholds and Followers p. 180*  
 
 The dashing archer-sorcerer of the Court, the Count is often seen flanked by two Mantis Knights, dueling and carousing their way through Alloy, the City of Four Elements, known in some realms as the City of Brass.
@@ -92,3 +92,7 @@ The Count relies on his Now You See Me... Now You Don't... combo to get in and o
 "image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Orchid%20Count.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

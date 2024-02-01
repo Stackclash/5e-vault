@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Balor"]
 ---
-# [[5. Mechanics\Bestiary\Fiend\Balor.md|Balor]]
+# [[5. Mechanics/Bestiary/Fiend/Balor.md|Balor]]
 *Source: Monster Manual p. 55, Tasha's Cauldron of Everything. Available in the SRD.*  
 
 Figures of ancient and terrible evil, balors rule as generals over demonic armies, yearning to seize power while destroying any creatures that oppose them.
@@ -258,3 +258,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "image": "5. Mechanics/Bestiary/Fiend/token/balor.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

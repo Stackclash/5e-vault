@@ -14,7 +14,7 @@ tags:
 statblock: inline
 aliases: ["Kobold Inventor"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Kobold Inventor (MPMM).md|Kobold Inventor]]
+# [[5. Mechanics/Bestiary/Humanoid/Kobold Inventor (MPMM).md|Kobold Inventor]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 164*  
 
 A kobold inventor builds improvised weapons to gain an advantage in combat. These weapons last for only one or two attacks before they break and typically work only for the inventor, but they might be surprisingly effective in the meantime. The weapons don't have to be lethal—often one serves its purpose if it distracts, scares, or confuses a creature long enough for the inventor to kill that foe.
@@ -66,7 +66,7 @@ A kobold inventor builds improvised weapons to gain an advantage in combat. Thes
     \ turns. The target can end this damage by using its action to make a DC 10 Dexterity\
     \ check to extinguish the flames.  \n- 3 Basket of Centipedes. The kobold\
     \ throws a small basket into a 5-foot-square space within 20 feet of it. A [swarm\
-    \ of insects (centipedes)](5. Mechanics/Bestiary/Beast/swarm-of-centipedes.md) with\
+    \ of insects (centipedes)](compendium/bestiary/beast/swarm-of-centipedes.md) with\
     \ 11 hit points emerges from the basket and rolls initiative. At the end of each\
     \ of the swarm's turns, there's a 50% chance chance that the swarm disperses.\
     \  \n- 4 Green Slime Pot. The kobold throws a clay pot full of green slime\
@@ -108,3 +108,7 @@ A kobold inventor builds improvised weapons to gain an advantage in combat. Thes
 ## Environment
 
 forest, hill, mountain, underdark, urban
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

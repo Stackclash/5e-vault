@@ -11,7 +11,7 @@ aliases:
 - "Mask of Clouds"
 ---
 # Mask of Clouds
-*Wondrous Item, very rare, Crafted by (requires attunement by a bard or Trickster Domain cleric)*  
+*Wondrous Item, very rare, Crafted by (requires attunement by a bard or [[5. Mechanics/Classes/Cleric Trickery Domain.md\|Trickster Domain]] cleric)*  
 
 - **Properties**: Crafted by
 

@@ -22,6 +22,6 @@ This algae takes the ominous form of small red clumps that resemble splotches of
 
 ## Effect:
 
-For 8 hours after using this herb, you are immune to poison damage and the poisoned condition.
+For 8 hours after using this herb, you are immune to poison damage and the [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] condition.
 
 *Source: Hamund's Herbalism Handbook p. 29*

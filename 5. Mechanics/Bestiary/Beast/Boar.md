@@ -12,7 +12,7 @@ tags:
 statblock: inline
 aliases: ["Boar"]
 ---
-# [[5. Mechanics\Bestiary\Beast\Boar.md|Boar]]
+# [[5. Mechanics/Bestiary/Beast/Boar.md|Boar]]
 *Source: Monster Manual p. 319. Available in the SRD.*  
 
 ```statblock
@@ -63,3 +63,7 @@ aliases: ["Boar"]
 ## Environment
 
 grassland, forest, hill
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

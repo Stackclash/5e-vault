@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Umber Hulk"]
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Umber Hulk.md|Umber Hulk]]
+# [[5. Mechanics/Bestiary/Monstrosity/Umber Hulk.md|Umber Hulk]]
 *Source: Monster Manual p. 292*  
 
 An abominable horror from deep beneath the earth, an umber hulk burrows into cave complexes, dungeons, or Underdark settlements in search of food. Those lucky enough to survive an umber hulk attack often remember precious little of the incident, thanks to the umber hulk's mind-scrambling gaze.
@@ -94,3 +94,7 @@ Many survivors of an umber hulk encounter recollect little about the attack, bec
 ## Environment
 
 underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

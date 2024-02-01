@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Swordmaster"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Swordmaster (SAF).md|Swordmaster]]
+# [[5. Mechanics/Bestiary/Humanoid/Swordmaster (SAF).md|Swordmaster]]
 *Source: Strongholds and Followers p. 75*  
 
 ```statblock
@@ -69,3 +69,7 @@ aliases: ["Swordmaster"]
 - "SaF"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

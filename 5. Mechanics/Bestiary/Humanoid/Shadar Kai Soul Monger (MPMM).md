@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Shadar-kai Soul Monger"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Shadar Kai Soul Monger (MPMM).md|Shadar-kai Soul Monger]]
+# [[5. Mechanics/Bestiary/Humanoid/Shadar Kai Soul Monger (MPMM).md|Shadar-kai Soul Monger]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 214*  
 
 Wracked with despair over the loss of memories of a brighter time, soul mongers crave the vitality of others. The aching void within a soul monger radiates outward, manifesting as an unbearable weight that drains the vigor of anyone unfortunate enough to be in their presence. Those who have escaped the onslaught of a soul monger can hardly shake the memory of the sound they make—the moan of a tortured soul, lost in a bottomless well of tragedy.
@@ -108,3 +108,7 @@ Shadar-kai encountered outside the Shadowfell are often on quests to find the mo
 ## Environment
 
 underdark, urban
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

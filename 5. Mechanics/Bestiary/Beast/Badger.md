@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Badger"]
 ---
-# [[5. Mechanics\Bestiary\Beast\Badger.md|Badger]]
+# [[5. Mechanics/Bestiary/Beast/Badger.md|Badger]]
 *Source: Monster Manual p. 318. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -50,3 +50,7 @@ aliases: ["Badger"]
 ## Environment
 
 forest
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

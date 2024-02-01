@@ -19,6 +19,6 @@ aliases:
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 65.0 lbs.
 
-While wearing this armor, you have a +1 bonus to AC. In addition, while wearing this armor in dim light or darkness, you may take the Hide action as a bonus action. If you take the Hide action in this way, you do not suffer the usual penalty that normally applies to Stealth (Dexterity) checks made in plate armor.
+While wearing this armor, you have a +1 bonus to AC. In addition, while wearing this armor in dim light or darkness, you may take the [[/5. Mechanics/Rules/Actions.md#Hide\|Hide]] action as a bonus action. If you take the [[/5. Mechanics/Rules/Actions.md#Hide\|Hide]] action in this way, you do not suffer the usual penalty that normally applies to Stealth (Dexterity) checks made in plate armor.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 126*

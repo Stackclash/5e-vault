@@ -22,6 +22,6 @@ A rather hardy type of grass that has adapted to the harsh desert winds by being
 
 ## Effect:
 
-The next time you are knocked prone involuntarily after using this herb, you may use your reaction to not be knocked prone instead. After this occurs, this herb breaks and becomes useless.
+The next time you are knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]] involuntarily after using this herb, you may use your reaction to not be knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]] instead. After this occurs, this herb breaks and becomes useless.
 
 *Source: Hamund's Herbalism Handbook p. 15*

@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Nupperibo"]
 ---
-# [[5. Mechanics\Bestiary\Fiend\Nupperibo (MPMM).md|Nupperibo]]
+# [[5. Mechanics/Bestiary/Fiend/Nupperibo (MPMM).md|Nupperibo]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 196*  
 
 > [!quote]- A quote from Mordenkainen  
@@ -74,3 +74,7 @@ Nupperibos unthinkingly obey any command they receive telepathically from anothe
 "image": "5. Mechanics/Bestiary/Fiend/token/nupperibo.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

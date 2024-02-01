@@ -18,7 +18,7 @@ aliases:
 
 - **Damage**: 1d4 P
 - **Range**: 20/60
-- **Properties**: Crafted by, Finesse, Light, Thrown
+- **Properties**: Crafted by, [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 1.0 lbs.
 
 When you attack a creature with this magic weapon and roll a 20 on the attack roll, that target takes an extra 5 necrotic damage if it isn't a construct or an undead. You also gain 5 temporary hit points.

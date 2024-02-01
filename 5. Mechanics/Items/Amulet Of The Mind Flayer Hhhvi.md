@@ -21,6 +21,6 @@ In addition, so long as you and at least one of your thralls are within 30 feet 
 
 ## Curse:
 
-Using this amulet is a dangerous proposition due to its vile origins. Attuning to this amulet curses you until you are targeted by the remove curse spell or similar magic. While cursed, you automatically fail on saving throws imposed by members of the illithid race, including elder brains and intellect devourers.
+Using this amulet is a dangerous proposition due to its vile origins. Attuning to this amulet curses you until you are targeted by the [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell or similar magic. While cursed, you automatically fail on saving throws imposed by members of the illithid race, including elder brains and intellect devourers.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 118, Hamund's Harvesting Handbook: Volume II p. 53*

@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Weasel"]
 ---
-# [[5. Mechanics\Bestiary\Beast\Weasel.md|Weasel]]
+# [[5. Mechanics/Bestiary/Beast/Weasel.md|Weasel]]
 *Source: Monster Manual p. 340. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -50,3 +50,7 @@ aliases: ["Weasel"]
 "image": "5. Mechanics/Bestiary/Beast/token/weasel.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

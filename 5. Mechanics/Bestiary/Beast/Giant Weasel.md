@@ -12,7 +12,7 @@ tags:
 statblock: inline
 aliases: ["Giant Weasel"]
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Weasel.md|Giant Weasel]]
+# [[5. Mechanics/Bestiary/Beast/Giant Weasel.md|Giant Weasel]]
 *Source: Monster Manual p. 329. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -56,3 +56,7 @@ aliases: ["Giant Weasel"]
 ## Environment
 
 grassland, forest, hill
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

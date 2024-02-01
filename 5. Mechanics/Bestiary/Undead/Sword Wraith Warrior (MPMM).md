@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Sword Wraith Warrior"]
 ---
-# [[5. Mechanics\Bestiary\Undead\Sword Wraith Warrior (MPMM).md|Sword Wraith Warrior]]
+# [[5. Mechanics/Bestiary/Undead/Sword Wraith Warrior (MPMM).md|Sword Wraith Warrior]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 239*  
 
 Sword wraith warriors are most often found on ancient battlefields where soldiers were hemmed in and slaughtered without quarter.
@@ -69,3 +69,7 @@ When glory-obsessed warriors die in battle without honor, they might haunt the s
 ## Environment
 
 grassland, swamp
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

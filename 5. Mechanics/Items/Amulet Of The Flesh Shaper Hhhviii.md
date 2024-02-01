@@ -19,7 +19,7 @@ This wrinkled, pale-pink amulet resembles the shriveled brain of a monstrous ent
 
 ## Spellcasting
 
-While wearing this amulet, you may use your action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC, or 8 + your Intelligence modifier if you do not have a spell save DC: alter self (2 charges), polymorph (4 charges), animal shapes (8 charges), shapechange (9 charges), or true polymorph (9 charges).
+While wearing this amulet, you may use your action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC, or 8 + your Intelligence modifier if you do not have a spell save DC: [[5. Mechanics/Spells/Alter Self.md\|alter self]] (2 charges), [[5. Mechanics/Spells/Polymorph.md\|polymorph]] (4 charges), [[5. Mechanics/Spells/Animal Shapes.md\|animal shapes]] (8 charges), [[5. Mechanics/Spells/Shapechange.md\|shapechange]] (9 charges), or [[5. Mechanics/Spells/True Polymorph.md\|true polymorph]] (9 charges).
 
 ## Twisted body
 
@@ -27,7 +27,7 @@ Using your action and expending 5 charges, you target a non-construct creature y
 
 ## Mutated Gift
 
-Using your action and expending 3 charges, you target a willing creature within 30 feet of you that you can see. If you do so, roll a percentile dice and consult the *Flesh Warping* table in the sibriex creature information section to determine a mutation that transpires to your target. This mutation lasts until the end of your target's next long rest. Alternatively, you may use this ability on your target again to end the effect early. There is no limit to how many mutations a creature can have.
+Using your action and expending 3 charges, you target a willing creature within 30 feet of you that you can see. If you do so, roll a percentile dice and consult the *Flesh Warping* table in the [[5. Mechanics/Bestiary/Fiend/Sibriex (MPMM).md\|sibriex]] creature information section to determine a mutation that transpires to your target. This mutation lasts until the end of your target's next long rest. Alternatively, you may use this ability on your target again to end the effect early. There is no limit to how many mutations a creature can have.
 
 The amulet regains `dice: 2d8 + 4|avg` (`2d8 + 4`) expended charges daily at dawn. If you expend the last charge, roll a `dice: d20|avg` (`d20`). On a 1, this amulet dissolves into a foul ichor and becomes worthless.
 

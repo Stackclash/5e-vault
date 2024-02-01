@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Conjurer Wizard"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Conjurer Wizard (MPMM).md|Conjurer Wizard]]
+# [[5. Mechanics/Bestiary/Humanoid/Conjurer Wizard (MPMM).md|Conjurer Wizard]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 260*  
 
 Conjurers summon creatures from other planes of existence and teleport themselves and others in the blink of an eye.
@@ -67,7 +67,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
   "name": "Benign Transportation (Recharge 4-6)"
 - "desc": "The conjurer magically summons an [[5. Mechanics/Bestiary/Elemental/Air Elemental.md|air elemental]],\
     \ an [[5. Mechanics/Bestiary/Elemental/Earth Elemental.md|earth elemental]], a [fire\
-    \ elemental](5. Mechanics/Bestiary/Elemental/fire-elemental.md), or a [[5. Mechanics/Bestiary/Elemental/Water Elemental.md|water elemental]].\
+    \ elemental](compendium/bestiary/elemental/fire-elemental.md), or a [[5. Mechanics/Bestiary/Elemental/Water Elemental.md|water elemental]].\
     \ The elemental appears in an unoccupied space within 60 feet of the conjurer,\
     \ whom it obeys. It takes its turn immediately after the conjurer. It lasts for\
     \ 1 hour, until it or the conjurer dies, or until the conjurer dismisses it as\
@@ -83,3 +83,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 ## Environment
 
 urban
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

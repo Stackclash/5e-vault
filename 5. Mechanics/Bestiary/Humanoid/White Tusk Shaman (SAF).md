@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["White Tusk Shaman"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\White Tusk Shaman (SAF).md|White Tusk Shaman]]
+# [[5. Mechanics/Bestiary/Humanoid/White Tusk Shaman (SAF).md|White Tusk Shaman]]
 *Source: Strongholds and Followers p. 141*  
 
 Most orc clans keep a shaman or two around to interpret the will of the natural world. These shamans enjoy a high status in their clan, even when a tribe such as the White Tusks possess warspeakers who manifest the will of the gods, for there are more powers in this world than that of the gods. The Mundane World itself possesses a sort of consciousness—the whispering of the wind, the babbling of running water, and the quiet grumbling of the mountains; these small gestures of nature are the world speaking to those who possess the skill to listen.
@@ -76,3 +76,7 @@ As part of their training, orcish shamans bond with a single animal, typically a
 "image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/White%20Tusk%20Shaman.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

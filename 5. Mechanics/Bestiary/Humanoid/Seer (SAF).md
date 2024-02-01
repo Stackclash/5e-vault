@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Seer"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Seer (SAF).md|Seer]]
+# [[5. Mechanics/Bestiary/Humanoid/Seer (SAF).md|Seer]]
 *Source: Strongholds and Followers p. 81*  
 
 ```statblock
@@ -61,3 +61,7 @@ aliases: ["Seer"]
 - "SaF"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

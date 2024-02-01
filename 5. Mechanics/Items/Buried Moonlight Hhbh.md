@@ -22,7 +22,7 @@ This herb is not a specific variety of plant, but rather it refers to a phenomen
 
 ## Effect:
 
-For the next 8 hours after using this herb, you glow with a pale light reminiscent of moonlight, even when invisible. While glowing in this way, you shed bright light in a 5-foot radius around you, and dim light for a further 10 feet beyond that. In addition, any creature that you touch or succeed in a melee weapon attack against also glows with this same light until the end of your next turn.
+For the next 8 hours after using this herb, you glow with a pale light reminiscent of moonlight, even when [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]]. While glowing in this way, you shed bright light in a 5-foot radius around you, and dim light for a further 10 feet beyond that. In addition, any creature that you touch or succeed in a melee weapon attack against also glows with this same light until the end of your next turn.
 
 > [!quote]- A quote from Hamund  
 > 

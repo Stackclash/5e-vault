@@ -15,7 +15,7 @@ tags:
 statblock: inline
 aliases: ["Nagpa"]
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Nagpa (MPMM).md|Nagpa]]
+# [[5. Mechanics/Bestiary/Monstrosity/Nagpa (MPMM).md|Nagpa]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 189*  
 
 Long ago, the Raven Queen cursed a cabal of powerful wizards for meddling in a ritual that would have helped avert a war between the gods. She transformed them into the scabrous, birdlike creatures known as nagpas and rendered them able to acquire new lore and magical power only from the ruins of fallen civilizations and great calamities.
@@ -98,3 +98,7 @@ Hungry to claim more power despite the Raven Queen's curse, nagpas strive to bri
 ## Environment
 
 coastal, desert, forest, swamp, underdark, urban
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

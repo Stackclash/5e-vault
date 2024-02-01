@@ -12,7 +12,7 @@ tags:
 statblock: inline
 aliases: ["Giant Strider"]
 ---
-# [[5. Mechanics\Bestiary\Elemental\Giant Strider (MPMM).md|Giant Strider]]
+# [[5. Mechanics/Bestiary/Elemental/Giant Strider (MPMM).md|Giant Strider]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 137*  
 
 > [!quote]- A quote from Mordenkainen  
@@ -72,3 +72,7 @@ Firenewts prize giant striders and seek to adopt them whenever possible. They pr
 ## Environment
 
 hill, mountain, underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

@@ -35,4 +35,4 @@ A: I felt that beasts were too mundane to include in the harvest table, and larg
 
 *Q: How come you didn't include any loot like weapons and armor?*
 
-A: Those items are largely context sensitive. After all, not every Hobgoblin walks around with a spear at all times, so I felt best to leave those out and up to the DM to decide based on context.
+A: Those items are largely context sensitive. After all, not every [[5. Mechanics/Bestiary/Humanoid/Hobgoblin.md\|Hobgoblin]] walks around with a [[5. Mechanics/Items/Spear.md\|spear]] at all times, so I felt best to leave those out and up to the DM to decide based on context.

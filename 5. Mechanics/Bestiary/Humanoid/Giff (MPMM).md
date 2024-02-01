@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Giff"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Giff (MPMM).md|Giff]]
+# [[5. Mechanics/Bestiary/Humanoid/Giff (MPMM).md|Giff]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 138*  
 
 > [!quote]- A quote from Mordenkainen  
@@ -86,3 +86,7 @@ Every other keg of gunpowder within 20 feet of an exploding keg has a 50% chance
 ## Environment
 
 urban
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

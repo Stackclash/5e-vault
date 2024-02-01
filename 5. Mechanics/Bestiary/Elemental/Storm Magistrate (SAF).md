@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Storm Magistrate"]
 ---
-# [[5. Mechanics\Bestiary\Elemental\Storm Magistrate (SAF).md|Storm Magistrate]]
+# [[5. Mechanics/Bestiary/Elemental/Storm Magistrate (SAF).md|Storm Magistrate]]
 *Source: Strongholds and Followers p. 191*  
 
 The Magistrates of the Burning City are the priests and judges of the Lady of Fire. The motes, sources, and knights are diagnosticians. They identify and evaluate the problem. The Lords of Storm cure it.
@@ -96,3 +96,7 @@ The Magistrate's deadliest weapon is Storm Strike, which combines chain lightnin
 "image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Storm%20Magistrate.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

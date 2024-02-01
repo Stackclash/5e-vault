@@ -13,7 +13,7 @@ tags:
 statblock: inline
 aliases: ["Yuan-ti Abomination"]
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Yuan Ti Abomination.md|Yuan-ti Abomination]]
+# [[5. Mechanics/Bestiary/Monstrosity/Yuan Ti Abomination.md|Yuan-ti Abomination]]
 *Source: Monster Manual p. 308*  
 
 Monstrous serpents with burly humanoid torsos and arms, abominations form the highest caste of yuan-ti society, and they most closely resemble the race as the serpent gods intended it. They mastermind elaborate schemes and perform dark rites in the hope of one day ruling the world.
@@ -134,3 +134,7 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
 ## Environment
 
 forest, swamp, desert
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

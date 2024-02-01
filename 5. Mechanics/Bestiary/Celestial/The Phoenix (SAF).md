@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["The Phoenix"]
 ---
-# [[5. Mechanics\Bestiary\Celestial\The Phoenix (SAF).md|The Phoenix]]
+# [[5. Mechanics/Bestiary/Celestial/The Phoenix (SAF).md|The Phoenix]]
 *Source: Strongholds and Followers p. 248*  
 
 ```statblock
@@ -80,3 +80,7 @@ aliases: ["The Phoenix"]
 - "SaF"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

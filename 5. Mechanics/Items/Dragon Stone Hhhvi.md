@@ -17,7 +17,7 @@ aliases:
 
 You may focus on this item for 1 minute while holding it in order to transform into a half-dragon version of yourself. In this form, you retain all your statistics with the following additions:
 
-- You gain a blindsight with a radius of 10 feet and darkvision with a radius of 60 feet.  
+- You gain a [[/5. Mechanics/Rules/Senses.md#blindsight\|blindsight]] with a radius of 10 feet and [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]] with a radius of 60 feet.  
 - You gain a resistance to the damage type corresponding to the dragon from whom this item was crafted.  
 - You can speak Draconic along with any other languages you already know.  
 - You may spend an action to perform the wyrmling breath weapon equivalent of the dragon from whom this item was crafted from (Recharge 6-6).  

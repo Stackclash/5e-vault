@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Half-Red Dragon Veteran"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Half Red Dragon Veteran.md|Half-Red Dragon Veteran]]
+# [[5. Mechanics/Bestiary/Humanoid/Half Red Dragon Veteran.md|Half-Red Dragon Veteran]]
 *Source: Monster Manual p. 180. Available in the SRD.*  
 
 When a dragon in polymorphed form mates with another creature, the union sometimes produces half dragon offspring. A creature might also transform into a half-dragon as a result of a mad wizard's spell or a ritual bath in dragon's blood. In all these cases, the result is a creature that combines the essence of a dragon with the form of its original race. Regardless of their origins, all half-dragons have similar features and appearance, gaining special senses, resistance to destructive energy, and a breath weapon.
@@ -103,3 +103,7 @@ Here the half-dragon template has been applied to a human [[5. Mechanics/Bestiar
 "image": "5. Mechanics/Bestiary/Humanoid/token/half-red-dragon-veteran.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

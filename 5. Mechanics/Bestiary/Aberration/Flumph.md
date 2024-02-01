@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Flumph"]
 ---
-# [[5. Mechanics\Bestiary\Aberration\Flumph.md|Flumph]]
+# [[5. Mechanics/Bestiary/Aberration/Flumph.md|Flumph]]
 *Source: Monster Manual p. 135*  
 
 The mysterious flumphs drift through the Underdark, propelled through the air by the jets whose sound gives them their name. A flumph glows faintly, reflecting its moods in its color. Soft pink means it is amused, deep blue is sadness, green expresses curiosity, and crimson is anger.
@@ -98,3 +98,7 @@ Flumphs live in complex and organized groups called cloisters, within which each
 ## Environment
 
 underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Duergar Hammerer"]
 ---
-# [[5. Mechanics\Bestiary\Construct\Duergar Hammerer (MPMM).md|Duergar Hammerer]]
+# [[5. Mechanics/Bestiary/Construct/Duergar Hammerer (MPMM).md|Duergar Hammerer]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 112*  
 
 The duergar hammerer is a digging machine and siege engine, used to dig tunnels and besiege enemy fortifications.
@@ -72,3 +72,7 @@ These machines are deployed to assist with construction projects and war. Some d
 ## Environment
 
 mountain, underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

@@ -14,6 +14,6 @@ aliases:
 
 - **Properties**: Crafted by
 
-While wearing this cloak, you have advantage on Wisdom (Survival) checks made to track the location of chimeras, griffons, perytons, wyverns, and dragons (true dragons only).
+While wearing this cloak, you have advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Survival\|Survival]]) checks made to track the location of chimeras, griffons, perytons, wyverns, and dragons (true dragons only).
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 134*

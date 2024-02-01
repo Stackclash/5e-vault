@@ -16,7 +16,7 @@ tags:
 statblock: inline
 aliases: ["Guard Drake"]
 ---
-# [[5. Mechanics\Bestiary\Dragon\Guard Drake (MPMM).md|Guard Drake]]
+# [[5. Mechanics/Bestiary/Dragon/Guard Drake (MPMM).md|Guard Drake]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 151*  
 
 A guard drake is a reptilian creature created out of dragon scales by means of a bizarre and grisly ritual. When trained properly, a drake is obedient and territorial, which makes it an excellent watch beast that can follow simple commands.
@@ -67,3 +67,7 @@ A newly hatched guard drake imprints upon the first creature that feeds it (usua
 ## Environment
 
 arctic, desert, forest, mountain, swamp, underdark, urban
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

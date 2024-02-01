@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Walking Corpse"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Walking Corpse (COS).md|Walking Corpse]]
+# [[5. Mechanics/Bestiary/Humanoid/Walking Corpse (COS).md|Walking Corpse]]
 *Source: Curse of Strahd p. 165*  
 
 ```statblock
@@ -47,3 +47,7 @@ aliases: ["Walking Corpse"]
 "image": "5. Mechanics/Bestiary/Humanoid/token/walking-corpse.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

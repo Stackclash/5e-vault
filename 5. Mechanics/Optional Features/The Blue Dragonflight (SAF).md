@@ -11,7 +11,7 @@ aliases: ["The Blue Dragonflight"]
 
 |    |    |
 |----|----|
-| Dragonborn super-elite super-heavy infantry | Cost: — |
+| Dragonborn super-elite super-heavy infantry | Cost:— |
 
 |    |    |    |    |
 |----|----|----|----|

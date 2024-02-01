@@ -23,6 +23,6 @@ While wearing this shield, you have advantage on saving throws against spells, a
 - **3-4.** No additional effect.  
 - **5-6.** The shield converts some of the spell's energy into a burst of destructive force. Each creature within 30 feet of you must make a DC 15 Constitution saving throw, taking `dice: 1d6|avg` (`1d6`) force damage per level of the spell on a failed save, or half as much damage on a successful one.  
 
-This shield loses all its magical properties 1 month after being crafted. After this point, the shield may be reused to create a spellguard shield, counting for 2,000 gp of the crafting cost.
+This shield loses all its magical properties 1 month after being crafted. After this point, the shield may be reused to create a [[5. Mechanics/Items/Spellguard Shield.md\|spellguard shield]], counting for 2,000 gp of the crafting cost.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 54*

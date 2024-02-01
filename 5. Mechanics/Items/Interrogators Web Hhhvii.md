@@ -15,7 +15,7 @@ aliases:
 # Interrogator's Web
 *Ranged Weapon, rare, Crafted by*  
 
-- **Properties**: Crafted by, Martial, Special, Thrown
+- **Properties**: Crafted by, Martial, [[/5. Mechanics/Rules/Item Properties.md#Special\|Special]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 3.0 lbs.
 
 This large net is composed of the web-like connective tissue of an elder brain. If there is a creature caught in this net, you may spend your action holding onto the net and focusing on that creature. If you do so, you gain one memory or fact from that creature's mind. The memory or fact may be one that you specifically search for, otherwise you gain a random one chosen by the DM.

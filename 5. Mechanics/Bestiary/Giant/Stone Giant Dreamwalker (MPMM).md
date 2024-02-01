@@ -12,7 +12,7 @@ tags:
 statblock: inline
 aliases: ["Stone Giant Dreamwalker"]
 ---
-# [[5. Mechanics\Bestiary\Giant\Stone Giant Dreamwalker (MPMM).md|Stone Giant Dreamwalker]]
+# [[5. Mechanics/Bestiary/Giant/Stone Giant Dreamwalker (MPMM).md|Stone Giant Dreamwalker]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 234*  
 
 The surface of the world is an alien realm to stone giants: fluctuating, temporary, exposed to gusting wind and sudden rain. It is as wildly changeable as a dream, and that's how they regard it—as a dream. Nothing there is permanent, so nothing there is real. What happens on the surface doesn't matter. Promises and bargains made there needn't be honored. Life and even art hold less value there.
@@ -91,3 +91,7 @@ Dreamwalkers become divorced from reality by isolation, shame, and their unendin
 ## Environment
 
 coastal, hill, mountain
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

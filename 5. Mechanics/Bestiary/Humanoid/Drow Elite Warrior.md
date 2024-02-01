@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Drow Elite Warrior"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Drow Elite Warrior.md|Drow Elite Warrior]]
+# [[5. Mechanics/Bestiary/Humanoid/Drow Elite Warrior.md|Drow Elite Warrior]]
 *Source: Monster Manual p. 128*  
 
 ## Drow
@@ -146,3 +146,7 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
 ## Environment
 
 underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

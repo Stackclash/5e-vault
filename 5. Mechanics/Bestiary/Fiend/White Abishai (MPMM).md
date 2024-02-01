@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["White Abishai"]
 ---
-# [[5. Mechanics\Bestiary\Fiend\White Abishai (MPMM).md|White Abishai]]
+# [[5. Mechanics/Bestiary/Fiend/White Abishai (MPMM).md|White Abishai]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 41*  
 
 White abishais fight with a reckless fury, making them ideally suited for bolstering the ranks of Tiamat's armies. White abishais fight without fear, becoming whirlwinds of destruction on the battlefield.
@@ -90,3 +90,7 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
 ## Environment
 
 urban
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

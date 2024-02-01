@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Necromancer"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Necromancer (SAF).md|Necromancer]]
+# [[5. Mechanics/Bestiary/Humanoid/Necromancer (SAF).md|Necromancer]]
 *Source: Strongholds and Followers p. 81*  
 
 ```statblock
@@ -61,3 +61,7 @@ aliases: ["Necromancer"]
 - "SaF"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

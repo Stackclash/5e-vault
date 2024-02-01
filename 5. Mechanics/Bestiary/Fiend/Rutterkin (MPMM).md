@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Rutterkin"]
 ---
-# [[5. Mechanics\Bestiary\Fiend\Rutterkin (MPMM).md|Rutterkin]]
+# [[5. Mechanics/Bestiary/Fiend/Rutterkin (MPMM).md|Rutterkin]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 210*  
 
 > [!quote]- A quote from Tasha  
@@ -76,3 +76,7 @@ Creatures bitten by rutterkins are exposed to a terrible disease that infects th
 "image": "5. Mechanics/Bestiary/Fiend/token/rutterkin.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

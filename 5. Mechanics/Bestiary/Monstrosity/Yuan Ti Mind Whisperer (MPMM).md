@@ -12,7 +12,7 @@ tags:
 statblock: inline
 aliases: ["Yuan-ti Mind Whisperer"]
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Yuan Ti Mind Whisperer (MPMM).md|Yuan-ti Mind Whisperer]]
+# [[5. Mechanics/Bestiary/Monstrosity/Yuan Ti Mind Whisperer (MPMM).md|Yuan-ti Mind Whisperer]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 274*  
 
 Mind whisperers are yuan-ti malison spellcasters who enter into a pact with the serpent god Sseth, the Sibilant Death. They use their abilities to convert others to their faith, increase their personal power, and befuddle the minds of their enemies.
@@ -92,3 +92,7 @@ Mind whisperers are elusive, manipulative, unpredictable, and willing to cheat o
 ## Environment
 
 desert, forest, underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

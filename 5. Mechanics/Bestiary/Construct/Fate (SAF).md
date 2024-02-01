@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Fate"]
 ---
-# [[5. Mechanics\Bestiary\Construct\Fate (SAF).md|Fate]]
+# [[5. Mechanics/Bestiary/Construct/Fate (SAF).md|Fate]]
 *Source: Strongholds and Followers p. 230*  
 
 The Law of Fate forces events to have predetermined outcomes whether you like it or not. There is no chance when Fate is present. All things proceed as the universe intends, and neither good nor bad luck is possible.
@@ -77,3 +77,7 @@ Because Fate does not use dice (see The Law of Fate, below) there may be enemies
 "image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Fate.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

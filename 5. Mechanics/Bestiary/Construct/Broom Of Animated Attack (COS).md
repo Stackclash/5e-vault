@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Broom of Animated Attack"]
 ---
-# [[5. Mechanics\Bestiary\Construct\Broom Of Animated Attack (COS).md|Broom of Animated Attack]]
+# [[5. Mechanics/Bestiary/Construct/Broom Of Animated Attack (COS).md|Broom of Animated Attack]]
 *Source: Curse of Strahd p. 226*  
 
 A broom of animated attack is easily mistaken for a broom of flying. It attacks any creature that grabs it or tries to ride it.
@@ -76,3 +76,7 @@ Some brooms of animated attack allow their creators to ride them, in which case 
 "image": "5. Mechanics/Bestiary/Construct/token/broom-of-animated-attack.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

@@ -22,6 +22,6 @@ This highly-sought after flower is not actually a distinct species of flower, bu
 
 ## Effect:
 
-As an action, you may crush this herb in your hand. For the next 10 minutes, anytime you cast a spell that expends a spell slot, it is considered to be cast using a spell slot that is 1 level higher than the one you actually used.
+As an action, you may crush this herb in your hand. For the next 10 minutes, anytime you [[/5. Mechanics/Rules/Actions.md#cast%20a%20spell\|cast a spell]] that expends a spell slot, it is considered to be cast using a spell slot that is 1 level higher than the one you actually used.
 
 *Source: Hamund's Herbalism Handbook p. 27*

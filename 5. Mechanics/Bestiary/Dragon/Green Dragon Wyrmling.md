@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Green Dragon Wyrmling"]
 ---
-# [[5. Mechanics\Bestiary\Dragon\Green Dragon Wyrmling.md|Green Dragon Wyrmling]]
+# [[5. Mechanics/Bestiary/Dragon/Green Dragon Wyrmling.md|Green Dragon Wyrmling]]
 *Source: Monster Manual p. 95. Available in the SRD.*  
 
 The most cunning and treacherous of true dragons, green dragons use misdirection and trickery to get the upper hand against their enemies. Nasty tempered and thoroughly evil, they take special pleasure in subverting and corrupting the good-hearted. In the ancient forests they roam, green dragons demonstrate an aggression that is often less about territory than it is about gaining power and wealth with as little effort as possible.
@@ -149,3 +149,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 "image": "5. Mechanics/Bestiary/Dragon/token/green-dragon-wyrmling.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

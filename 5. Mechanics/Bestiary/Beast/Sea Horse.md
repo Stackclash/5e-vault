@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Sea Horse"]
 ---
-# [[5. Mechanics\Bestiary\Beast\Sea Horse.md|Sea Horse]]
+# [[5. Mechanics/Bestiary/Beast/Sea Horse.md|Sea Horse]]
 *Source: Monster Manual p. 337. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -39,3 +39,7 @@ aliases: ["Sea Horse"]
 "image": "5. Mechanics/Bestiary/Beast/token/sea-horse.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

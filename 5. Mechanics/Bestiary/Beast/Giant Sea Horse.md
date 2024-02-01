@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Giant Sea Horse"]
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Sea Horse.md|Giant Sea Horse]]
+# [[5. Mechanics/Bestiary/Beast/Giant Sea Horse.md|Giant Sea Horse]]
 *Source: Monster Manual p. 328. Available in the SRD and the Basic Rules.*  
 
 Like their smaller kin, giant sea horses are shy, colorful fish with elongated bodies and curled tails. Aquatic elves train them as mounts.
@@ -57,3 +57,7 @@ Like their smaller kin, giant sea horses are shy, colorful fish with elongated b
 ## Environment
 
 underwater
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

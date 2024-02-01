@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Animated Object (Small)"]
 ---
-# [[5. Mechanics\Bestiary\Construct\Animated Object Small.md|Animated Object (Small)]]
+# [[5. Mechanics/Bestiary/Construct/Animated Object Small.md|Animated Object (Small)]]
 *Source: Player's Handbook p. 213*  
 
 ```statblock
@@ -47,3 +47,7 @@ aliases: ["Animated Object (Small)"]
 "image": "5. Mechanics/Bestiary/Construct/token/animated-object-small.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

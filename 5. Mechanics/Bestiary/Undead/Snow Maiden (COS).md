@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Snow Maiden"]
 ---
-# [[5. Mechanics\Bestiary\Undead\Snow Maiden (COS).md|Snow Maiden]]
+# [[5. Mechanics/Bestiary/Undead/Snow Maiden (COS).md|Snow Maiden]]
 *Source: Curse of Strahd p. 159*  
 
 ```statblock
@@ -61,3 +61,7 @@ aliases: ["Snow Maiden"]
 "image": "5. Mechanics/Bestiary/Undead/token/snow-maiden.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

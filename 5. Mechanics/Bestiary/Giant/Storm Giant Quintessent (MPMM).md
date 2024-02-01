@@ -13,7 +13,7 @@ tags:
 statblock: inline
 aliases: ["Storm Giant Quintessent"]
 ---
-# [[5. Mechanics\Bestiary\Giant\Storm Giant Quintessent (MPMM).md|Storm Giant Quintessent]]
+# [[5. Mechanics/Bestiary/Giant/Storm Giant Quintessent (MPMM).md|Storm Giant Quintessent]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 235*  
 
 To forestall the inevitable, some storm giants approaching the end of their natural life spans seek an escape from death. They plumb the depths of their powerful connection to the elements and disperse themselves into nature, transforming into semiconscious storms. The blizzard that rages unendingly around a mountain peak, the vortex that swirls around a remote island, or the thunderstorm that howls ceaselessly up and down a rugged coastline could, in fact, be the undying form of a storm giant clinging to existence.
@@ -102,3 +102,7 @@ A storm giant quintessent has no need for castles or dungeon lairs. Their lair i
 ## Environment
 
 coastal, desert, mountain, underwater
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

@@ -21,6 +21,6 @@ aliases:
 While wearing this armor, you gain a +3 bonus to your AC. In addition, you gain the following benefits:
 
 - You gain a swim speed equal to your move speed, are capable of breathing underwater, and are unaffected by water pressure while diving.  
-- You ignore difficult terrain, and magical effects can't reduce your speed or cause you to be restrained. You can spend 5 feet of movement to escape from nonmagical restraints or from being grappled.  
+- You ignore difficult terrain, and magical effects can't reduce your speed or cause you to be [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]]. You can spend 5 feet of movement to escape from nonmagical restraints or from being [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]].  
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 132*

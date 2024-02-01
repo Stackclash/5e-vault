@@ -22,6 +22,6 @@ I never thought that anger could be expressed in vegetable form, but I stand cor
 
 ## Effect:
 
-As an action you may eat this root. If you do so, you become immune to the stunned, fear, and charmed conditions for the next 10 minutes as you become filled with a manic rage.
+As an action you may eat this root. If you do so, you become immune to the [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]], [[/5. Mechanics/Rules/Conditions.md#frightened\|fear]], and [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] conditions for the next 10 minutes as you become filled with a manic rage.
 
 *Source: Hamund's Herbalism Handbook p. 28*

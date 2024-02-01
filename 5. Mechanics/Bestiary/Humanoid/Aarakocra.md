@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Aarakocra"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Aarakocra.md|Aarakocra]]
+# [[5. Mechanics/Bestiary/Humanoid/Aarakocra.md|Aarakocra]]
 *Source: Monster Manual p. 12*  
 
 Aarakocra range the Howling Gyre, an endless storm of mighty winds and lashing rains that surrounds the tranquil realm of Aaqa in the Elemental Plane of Air. Making aerial patrols, these birdlike humanoids guard the windy borders of their home against invaders from the Elemental Plane of Earth, such as gargoyles, their sworn enemies.
@@ -68,7 +68,7 @@ The Wind Dukes of Aaqa come from a race of elemental beings called the vaati, wh
     \ damage."
   "name": "Javelin"
 - "desc": "Five aarakocra within 30 feet of each other can magically summon an [air\
-    \ elemental](5. Mechanics/Bestiary/Elemental/air-elemental.md). Each of the five\
+    \ elemental](compendium/bestiary/elemental/air-elemental.md). Each of the five\
     \ must use its action and movement on three consecutive turns to perform an aerial\
     \ dance and must maintain [[/5. Mechanics/Rules/Conditions.md#concentration|concentration]]\
     \ while doing so (as if concentrating on a spell). When all five have finished\
@@ -95,3 +95,7 @@ The Wind Dukes of Aaqa come from a race of elemental beings called the vaati, wh
 ## Environment
 
 mountain
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

@@ -11,7 +11,7 @@ aliases: ["Wight Cavalry"]
 
 |    |    |
 |----|----|
-| Wight regular medium infantry | Cost: — |
+| Wight regular medium infantry | Cost:— |
 
 |    |    |    |    |
 |----|----|----|----|

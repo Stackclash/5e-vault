@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Ancient Blue Dragon"]
 ---
-# [[5. Mechanics\Bestiary\Dragon\Ancient Blue Dragon.md|Ancient Blue Dragon]]
+# [[5. Mechanics/Bestiary/Dragon/Ancient Blue Dragon.md|Ancient Blue Dragon]]
 *Source: Monster Manual p. 90, Tasha's Cauldron of Everything. Available in the SRD.*  
 
 Vain and territorial, blue dragons soar through the skies over deserts, preying on caravans and plundering herds and settlements in the verdant lands beyond the desert's reach. These dragons can also be found in dry steppes, searing badlands, and rocky coasts. They guard their territories against all potential competitors, especially brass dragons.
@@ -177,3 +177,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 ## Environment
 
 desert, coastal
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

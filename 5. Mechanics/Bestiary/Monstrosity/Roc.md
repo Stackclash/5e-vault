@@ -14,7 +14,7 @@ tags:
 statblock: inline
 aliases: ["Roc"]
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Roc.md|Roc]]
+# [[5. Mechanics/Bestiary/Monstrosity/Roc.md|Roc]]
 *Source: Monster Manual p. 260, Curse of Strahd. Available in the SRD.*  
 
 At first sight, a roc's silhouette looks much like any other bird of prey. As it descends, however, its unearthly size becomes terrifyingly clear. In flight, a roc's wingspan spreads two hundred feet or more. At rest, perched upon the mountain peaks that are its home, this monstrous bird rivals the oldest dragons in size.
@@ -94,3 +94,7 @@ Sometimes a roc's nest contains treasures from the caravans or ships they raid, 
 ## Environment
 
 mountain, hill, desert, coastal, arctic
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

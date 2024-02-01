@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Diabolist"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Diabolist (SAF).md|Diabolist]]
+# [[5. Mechanics/Bestiary/Humanoid/Diabolist (SAF).md|Diabolist]]
 *Source: Strongholds and Followers p. 80*  
 
 ```statblock
@@ -62,3 +62,7 @@ aliases: ["Diabolist"]
 - "SaF"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

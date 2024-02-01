@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Young Black Dragon"]
 ---
-# [[5. Mechanics\Bestiary\Dragon\Young Black Dragon.md|Young Black Dragon]]
+# [[5. Mechanics/Bestiary/Dragon/Young Black Dragon.md|Young Black Dragon]]
 *Source: Monster Manual p. 88. Available in the SRD.*  
 
 The most evil-tempered and vile of the chromatic dragons, black dragons collect the wreckage and treasures of fallen peoples. These dragons loathe seeing the weak prosper and revel in the collapse of humanoid kingdoms. They make their homes in fetid swamps and crumbling ruins where kingdoms once stood.
@@ -149,3 +149,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 ## Environment
 
 swamp
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

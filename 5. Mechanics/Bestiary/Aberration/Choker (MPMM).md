@@ -12,7 +12,7 @@ tags:
 statblock: inline
 aliases: ["Choker"]
 ---
-# [[5. Mechanics\Bestiary\Aberration\Choker (MPMM).md|Choker]]
+# [[5. Mechanics/Bestiary/Aberration/Choker (MPMM).md|Choker]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 76*  
 
 The choker is a subterranean predator far more dangerous than its small size and spindly, rubbery limbs would suggest.
@@ -76,3 +76,7 @@ Chokers tend to set their ambushes alone, rather than working in concert, but wh
 ## Environment
 
 forest, mountain, underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

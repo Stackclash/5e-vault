@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Tridrone"]
 ---
-# [[5. Mechanics\Bestiary\Construct\Tridrone.md|Tridrone]]
+# [[5. Mechanics/Bestiary/Construct/Tridrone.md|Tridrone]]
 *Source: Monster Manual p. 225*  
 
 Tridrones are shaped like inverted pyramids. They lead lesser modrons in battle.
@@ -90,3 +90,7 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
 "image": "5. Mechanics/Bestiary/Construct/token/tridrone.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

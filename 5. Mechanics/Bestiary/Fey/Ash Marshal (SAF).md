@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Ash Marshal"]
 ---
-# [[5. Mechanics\Bestiary\Fey\Ash Marshal (SAF).md|Ash Marshal]]
+# [[5. Mechanics/Bestiary/Fey/Ash Marshal (SAF).md|Ash Marshal]]
 *Source: Strongholds and Followers p. 183*  
 
 Tasked with defending and escorting guests to Arcadia, the Ash Marshal is also the only member of the Court to be regularly sent seeking across the planes, dispatched by Val to bring those who would harm his creation ^[The elves.] to justice. He is Val's timescape ^["Timescape" is the sages' term for the multiverse, or space-time.] hunter and as such carries much deep lore about the multiverse.
@@ -97,3 +97,7 @@ His spells are almost all offensive, but he is always ready with counterspell to
 "image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Ash%20Marshal.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

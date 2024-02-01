@@ -22,6 +22,6 @@ A rather whimsical fruit that resembles a bunch of green bananas if each fruit w
 
 ## Effect:
 
-This herb has `dice: 1d6|avg` (`1d6`) charges, with each charge corresponding to one of the fruits of the herb. As an action, you may expend one or more charges to burst the fruits, releasing pent up gas inside and creating a burst of wind that is 5 feet wide and has a length equal to 5 times the number of charges expended. This wind is powerful enough to snuff out open flames and knock over small objects, but not enough to knock a creature prone.
+This herb has `dice: 1d6|avg` (`1d6`) charges, with each charge corresponding to one of the fruits of the herb. As an action, you may expend one or more charges to burst the fruits, releasing pent up gas inside and creating a burst of wind that is 5 feet wide and has a length equal to 5 times the number of charges expended. This wind is powerful enough to snuff out open flames and knock over small objects, but not enough to knock a creature [[/5. Mechanics/Rules/Conditions.md#prone\|prone]].
 
 *Source: Hamund's Herbalism Handbook p. 13*

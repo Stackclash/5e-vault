@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Living Burning Hands"]
 ---
-# [[5. Mechanics\Bestiary\Construct\Living Burning Hands (ERLW).md|Living Burning Hands]]
+# [[5. Mechanics/Bestiary/Construct/Living Burning Hands (ERLW).md|Living Burning Hands]]
 *Source: Eberron: Rising from the Last War p. 298*  
 
 ## Constructed Nature
@@ -89,3 +89,7 @@ For example, if you turn [[5. Mechanics/Spells/Fireball.md|fireball]] (a 3rd-lev
 "image": "5. Mechanics/Bestiary/Construct/token/living-burning-hands.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

@@ -185,7 +185,7 @@ A repairable clockwork may be brought to any [[5. Mechanics/Optional Features/Ti
 
 Due to their abyssal nature, demons slain on the Material Plane cannot be harvested, as their carcass dissolves into a foul ichor instead. This ichor serves no purpose and is effectively useless. In order to properly harvest a demon, they must be killed in the Abyss.
 
-Furthermore, using parts harvested from a demon comes with certain risks, as their corrupting influence remains even after their death. When a player consumes or attunes to an item made from a demon part, roll a `dice: d20|avg` (`d20`). On a 10 or less, that player contracts a curse from using that item. The curse persists even after the normal effects of that item have finished and is only removed when the player is targeted by the remove curse spell or similar magic. If a character is cured of a curse caused by an attunement item, they are not allowed to attempt to attune to that item again. The DM may pick the curse themselves, or roll for it on the table below:
+Furthermore, using parts harvested from a demon comes with certain risks, as their corrupting influence remains even after their death. When a player consumes or attunes to an item made from a demon part, roll a `dice: d20|avg` (`d20`). On a 10 or less, that player contracts a curse from using that item. The curse persists even after the normal effects of that item have finished and is only removed when the player is targeted by the [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell or similar magic. If a character is cured of a curse caused by an attunement item, they are not allowed to attempt to attune to that item again. The DM may pick the curse themselves, or roll for it on the table below:
 
 If the curse came from a non-consumable item, there is an additional aspect of the curse that reads: "You have a constant need to be within reach of the cursed item and are unwilling to part from it. You feel a need to have it equipped whenever feasibly possible."
 
@@ -345,7 +345,7 @@ As part of harvesting Yeenoghu, you may also loot his weapon, The [[5. Mechanics
 
 Due to their fiendish nature, devils slain on the Material Plane cannot be harvested, as their carcass dissolves into a foul ichor or disappears into smoke instead. These serve no purpose and are effectively useless. In order to properly harvest a devil, they must be killed in the Nine Hells.
 
-Furthermore, using parts harvested from a devil comes with certain risks, as their corrupting influence remains even after their death. When a player consumes or attunes to an item made from a devil part, roll a `dice: d20|avg` (`d20`). On a 10 or less, that player contracts a curse from using that item. The curse persists even after the normal effects of that item have finished and is only removed when the player is targeted by the remove curse spell or similar magic. If a character is cured of a curse caused by an attunement item, they are not allowed to attempt to attune to that item again. The DM may pick the curse themselves, or roll for it on the table below:
+Furthermore, using parts harvested from a devil comes with certain risks, as their corrupting influence remains even after their death. When a player consumes or attunes to an item made from a devil part, roll a `dice: d20|avg` (`d20`). On a 10 or less, that player contracts a curse from using that item. The curse persists even after the normal effects of that item have finished and is only removed when the player is targeted by the [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell or similar magic. If a character is cured of a curse caused by an attunement item, they are not allowed to attempt to attune to that item again. The DM may pick the curse themselves, or roll for it on the table below:
 
 If the curse came from a non-consumable item, there is an additional aspect of the curse that reads: "you have a constant need to be within reach of the cursed item and are unwilling to part from it. You feel a need to have it equipped whenever feasibly possible."
 
@@ -597,7 +597,7 @@ Due to the unique and legendary nature of some archdevils, there is no associate
 
 #### Phoenix
 
-Due to the fiery death and rebirth trait, the Phoenix does not leave behind a usable corpse upon its death. Instead, it leaves ashes which may be harvested, while its entropy shard is blasted up to 150 feet away. In order to harvest a Phoenix's entropy shard, a harvester must first make a successful DC 15 Intelligence (Investigation) check to figure out where it landed.
+Due to the fiery death and rebirth trait, the Phoenix does not leave behind a usable corpse upon its death. Instead, it leaves ashes which may be harvested, while its entropy shard is blasted up to 150 feet away. In order to harvest a Phoenix's entropy shard, a harvester must first make a successful DC 15 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check to figure out where it landed.
 
 > [!embed-table]- Phoenix
 > ![[5. Mechanics/Tables/Phoenix Hhhviii.md\|Phoenix]]

@@ -118,7 +118,7 @@ A new harvesting based subclass has been provided for each of the 12 original cl
 
 #### Eldritch Invocations
 
-At 2nd level, a warlock gains the Eldritch Invocations feature. Here are 2 new options for that feature, in addition to the options in the Player's Handbook.
+At 2nd level, a warlock gains the [Eldritch Invocations](compendium/classes/warlock.md#Eldritch%20Invocations%20(Level%202)) feature. Here are 2 new options for that feature, in addition to the options in the Player's Handbook.
 
 > [!embed-optionalfeature]- Dark Deconstruction
 > ![[5. Mechanics/Optional Features/Dark Deconstruction Hhhviii.md\|Dark Deconstruction]]

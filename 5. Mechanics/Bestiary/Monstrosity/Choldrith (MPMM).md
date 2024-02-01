@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Choldrith"]
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Choldrith (MPMM).md|Choldrith]]
+# [[5. Mechanics/Bestiary/Monstrosity/Choldrith (MPMM).md|Choldrith]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 77*  
 
 Choldriths are monstrous spiderlike creatures originally created to serve Lolth. They rule colonies of chitines (in this book) and lead them into battle in Lolth's war against her enemies.
@@ -96,3 +96,7 @@ Choldriths are born with a mystical connection to Lolth, which gives them divine
 ## Environment
 
 underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

@@ -14,7 +14,6 @@ tags:
 aliases: ["Commune"]
 ---
 # Commune
-%%-- Embedded content starts on the next line. --%%
 *5th-level, Divination (ritual)*  
 
 - **Casting time:** 1 minute unless cast as a ritual

@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Living Cloudkill"]
 ---
-# [[5. Mechanics\Bestiary\Construct\Living Cloudkill (ERLW).md|Living Cloudkill]]
+# [[5. Mechanics/Bestiary/Construct/Living Cloudkill (ERLW).md|Living Cloudkill]]
 *Source: Eberron: Rising from the Last War p. 299*  
 
 ## Constructed Nature
@@ -96,3 +96,7 @@ For example, if you turn [[5. Mechanics/Spells/Fireball.md|fireball]] (a 3rd-lev
 "image": "5. Mechanics/Bestiary/Construct/token/living-cloudkill.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

@@ -22,6 +22,6 @@ Featuring two small bulbs growing from the top of its flat, wide cap, this mushr
 
 ## Effect:
 
-After using this herb, you gain a greater awareness and empathy for the people around you for the next 4 hours. During this time, you have advantage on Wisdom (Insight) checks to ascertain the emotional state of humanoids you interact with.
+After using this herb, you gain a greater awareness and empathy for the people around you for the next 4 hours. During this time, you have advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight\|Insight]]) checks to ascertain the emotional state of humanoids you interact with.
 
 *Source: Hamund's Herbalism Handbook p. 14*

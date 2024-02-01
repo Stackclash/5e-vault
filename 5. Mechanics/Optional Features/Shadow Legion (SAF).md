@@ -11,7 +11,7 @@ aliases: ["Shadow Legion"]
 
 |    |    |
 |----|----|
-| Shadow regular heavy infantry | Cost: — |
+| Shadow regular heavy infantry | Cost:— |
 
 |    |    |    |    |
 |----|----|----|----|

@@ -3,6 +3,10 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
 - compendium/src/5e/hhhvii
+- spell/class/cleric
+- spell/class/druid
+- spell/class/paladin
+- spell/class/wizard
 - spell/level/3
 - spell/ritual
 - spell/school/necromancy
@@ -19,5 +23,7 @@ aliases: ["Recomposition"]
 At the end of the casting time of this spell, you touch a dead creature. That creature's corpse undergoes a process of reverse decomposition, restoring it to pristine condition, and any injuries it may have had at the time of its death are repaired. This spell however cannot restore missing body parts unless those body parts are held to the corpse at the time of casting this spell, nor does this reset the time limitations that other spells have in raising the dead.
 
 If this spell has been cast on a dead creature that has been subjected to a failed "harvesting check", any unharvested materials become available again and may be subjected to another "harvesting check". A dead creature may only be subjected to this spell once; any subsequent attempts automatically fail.
+
+**Classes**: [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Paladin.md\|Paladin]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 69*

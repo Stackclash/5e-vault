@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Knight"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Knight.md|Knight]]
+# [[5. Mechanics/Bestiary/Humanoid/Knight.md|Knight]]
 *Source: Monster Manual p. 347, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 Knights are warriors who pledge service to rulers, religious orders, and noble causes. A knight's alignment determines the extent to which a pledge is honored. Whether undertaking a quest or patrolling a realm, a knight often travels with an entourage that includes squires and hirelings who are commoners.
@@ -94,3 +94,7 @@ Knights are warriors who pledge service to rulers, religious orders, and noble c
 ## Environment
 
 urban
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

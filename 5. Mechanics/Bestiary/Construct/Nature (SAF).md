@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Nature"]
 ---
-# [[5. Mechanics\Bestiary\Construct\Nature (SAF).md|Nature]]
+# [[5. Mechanics/Bestiary/Construct/Nature (SAF).md|Nature]]
 *Source: Strongholds and Followers p. 232*  
 
 Chief amongst the Knights of Axiom is Nature. The Law of Nature states that all actions must proceed according to the fundamental axioms of the universe.. Magic is a tool used by those who would bypass those laws and act on the world using their will alone. This cannot be permitted. Nature can reflexively attempt to counter a spell as it's being cast, pointing at the caster and bellowing, "OBEY!" or "CONFORM!"
@@ -73,3 +73,7 @@ Nature's counterspell reaction has a range of 60 feet, so Nature can pummel easy
 "image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Nature.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Piercer"]
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Piercer.md|Piercer]]
+# [[5. Mechanics/Bestiary/Monstrosity/Piercer.md|Piercer]]
 *Source: Monster Manual p. 252*  
 
 Clinging to the ceilings of caverns and large subterranean passages, piercers blend in perfectly with natural rock, dropping in silence to impale unsuspecting foes on the ground below.
@@ -72,3 +72,7 @@ Piercers gather in colonies to maximize the effectiveness of their attacks, drop
 ## Environment
 
 underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

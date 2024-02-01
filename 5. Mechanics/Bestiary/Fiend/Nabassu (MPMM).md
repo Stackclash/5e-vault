@@ -12,7 +12,7 @@ tags:
 statblock: inline
 aliases: ["Nabassu"]
 ---
-# [[5. Mechanics\Bestiary\Fiend\Nabassu (MPMM).md|Nabassu]]
+# [[5. Mechanics/Bestiary/Fiend/Nabassu (MPMM).md|Nabassu]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 188*  
 
 The insatiable nabassus prowl the multiverse in search of souls to devour. If they think they can kill a creature and consume its soul, they attack—even if that other creature is a demon, including another nabassu.
@@ -96,3 +96,7 @@ Whenever magic pulls demons from the Abyss to the Material Plane, nabassus try t
 ## Environment
 
 swamp, underdark, urban
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

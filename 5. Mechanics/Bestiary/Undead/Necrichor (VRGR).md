@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Necrichor"]
 ---
-# [[5. Mechanics\Bestiary\Undead\Necrichor (VRGR).md|Necrichor]]
+# [[5. Mechanics/Bestiary/Undead/Necrichor (VRGR).md|Necrichor]]
 *Source: Van Richten's Guide to Ravenloft p. 238*  
 
 A necrichor is a being of living blood, formed from the ichor of evil gods or the sludge in the crypts of failed liches. Despite the loss of a solid physical form, these foul creatures retain their terrible intellects and aspire to megalomaniacal goals—the first of which involves regaining a body. To do this, they seek servants to exact their will, coercing even the most stubborn potential minions by turning their own blood against them.
@@ -92,3 +92,7 @@ Necrichors prove exceptionally difficult to destroy, since they leave a trace of
 "image": "5. Mechanics/Bestiary/Undead/token/necrichor.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

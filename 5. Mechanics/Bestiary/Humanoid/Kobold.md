@@ -18,7 +18,7 @@ tags:
 statblock: inline
 aliases: ["Kobold"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Kobold.md|Kobold]]
+# [[5. Mechanics/Bestiary/Humanoid/Kobold.md|Kobold]]
 *Source: Monster Manual p. 195, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  
 
 Kobolds are craven reptilian humanoids that worship evil dragons as demigods and serve them as minions and toadies. Kobolds inhabit dragons' lairs when they can but more commonly infest dungeons, gathering treasures and trinkets to add to their own tiny hoards.
@@ -92,3 +92,7 @@ In addition to the dragons they revere, kobolds worship a lesser god named Kurtu
 ## Environment
 
 forest, swamp, hill, urban, desert, coastal, arctic, mountain, underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

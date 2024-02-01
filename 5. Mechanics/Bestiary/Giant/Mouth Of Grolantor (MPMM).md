@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Mouth of Grolantor"]
 ---
-# [[5. Mechanics\Bestiary\Giant\Mouth Of Grolantor (MPMM).md|Mouth of Grolantor]]
+# [[5. Mechanics/Bestiary/Giant/Mouth Of Grolantor (MPMM).md|Mouth of Grolantor]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 187*  
 
 Hill giants consume spoiled food and diseased carcasses with as much enthusiasm as children eating dessert and rarely suffer for such eating habits. When one of their kind becomes incapable of keeping down food, that giant is seen, among hill giant worshipers of the god Grolantor, as the vessel of a message from the deity.
@@ -79,3 +79,7 @@ A mouth of Grolantor is revered as a holy embodiment of Grolantor's aching hunge
 ## Environment
 
 grassland, hill
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

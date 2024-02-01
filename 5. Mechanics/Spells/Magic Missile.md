@@ -13,7 +13,6 @@ tags:
 aliases: ["Magic Missile"]
 ---
 # Magic Missile
-%%-- Embedded content starts on the next line. --%%
 *1st-level, Evocation*  
 ![[5. Mechanics/Spells/img/magic-missile.webp#right]]  
 

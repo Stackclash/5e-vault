@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Guardian Portrait"]
 ---
-# [[5. Mechanics\Bestiary\Construct\Guardian Portrait (COS).md|Guardian Portrait]]
+# [[5. Mechanics/Bestiary/Construct/Guardian Portrait (COS).md|Guardian Portrait]]
 *Source: Curse of Strahd p. 227*  
 
 A guardian portrait looks like a finely rendered and beautifully framed work of art, usually depicting someone important in a realistic manner. The picture and its frame are bound with powerful magic and are inseparable.
@@ -74,3 +74,7 @@ When a guardian portrait attacks, the figure in the painting animates and moves 
 "image": "5. Mechanics/Bestiary/Construct/token/guardian-portrait.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

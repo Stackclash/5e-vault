@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Night Hag"]
 ---
-# [[5. Mechanics\Bestiary\Fiend\Night Hag.md|Night Hag]]
+# [[5. Mechanics/Bestiary/Fiend/Night Hag.md|Night Hag]]
 *Source: Monster Manual p. 178, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD.*  
 
 Sly and subversive, night hags want to see the virtuous turn to villainy: love turned into obsession, kindness turned to hate, devotion to disregard, and generosity to selfishness. Night hags take perverse joy in corrupting mortals.
@@ -188,3 +188,7 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
 "image": "5. Mechanics/Bestiary/Fiend/token/night-hag.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Gladiator"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Gladiator.md|Gladiator]]
+# [[5. Mechanics/Bestiary/Humanoid/Gladiator.md|Gladiator]]
 *Source: Monster Manual p. 346, Curse of Strahd. Available in the SRD.*  
 
 Gladiators battle for the entertainment of raucous crowds. Some gladiators are brutal pit fighters who treat each match as a life-or-death struggle, while others are professional duelists who command huge fees but rarely fight to the death.
@@ -91,3 +91,7 @@ Gladiators battle for the entertainment of raucous crowds. Some gladiators are b
 ## Environment
 
 urban
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

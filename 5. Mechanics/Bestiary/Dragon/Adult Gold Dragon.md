@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Adult Gold Dragon"]
 ---
-# [[5. Mechanics\Bestiary\Dragon\Adult Gold Dragon.md|Adult Gold Dragon]]
+# [[5. Mechanics/Bestiary/Dragon/Adult Gold Dragon.md|Adult Gold Dragon]]
 *Source: Monster Manual p. 114. Available in the SRD.*  
 
 The most powerful and majestic of the metallic dragons, gold dragons are dedicated foes of evil.
@@ -180,3 +180,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 ## Environment
 
 grassland, forest
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

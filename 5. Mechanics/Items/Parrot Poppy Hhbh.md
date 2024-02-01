@@ -22,7 +22,7 @@ A bright flower that comes in a wide variety of red, blue, yellow, and green sha
 
 ## Effect:
 
-As an action, you may shake this herb, causing it to emit a sound that is audible up to 100 feet away. This sound is randomly determined by rolling a `dice: d6|avg` (`d6`) each dawn as shown in the table below. A creature hearing this sound may make a DC 12 Wisdom (Insight) check to determine if it is a mimicry or not.
+As an action, you may shake this herb, causing it to emit a sound that is audible up to 100 feet away. This sound is randomly determined by rolling a `dice: d6|avg` (`d6`) each dawn as shown in the table below. A creature hearing this sound may make a DC 12 Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight\|Insight]]) check to determine if it is a mimicry or not.
 
 **Parrot Poppy Sound Table**
 

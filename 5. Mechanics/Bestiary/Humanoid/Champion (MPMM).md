@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Champion"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Champion (MPMM).md|Champion]]
+# [[5. Mechanics/Bestiary/Humanoid/Champion (MPMM).md|Champion]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 74*  
 
 > [!quote]- A quote from Mordenkainen  
@@ -95,3 +95,7 @@ A typical champion bears a coat of arms, heraldry that is associated with the ch
 ## Environment
 
 desert, urban
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Blue Dragon Wyrmling"]
 ---
-# [[5. Mechanics\Bestiary\Dragon\Blue Dragon Wyrmling.md|Blue Dragon Wyrmling]]
+# [[5. Mechanics/Bestiary/Dragon/Blue Dragon Wyrmling.md|Blue Dragon Wyrmling]]
 *Source: Monster Manual p. 91. Available in the SRD.*  
 
 Vain and territorial, blue dragons soar through the skies over deserts, preying on caravans and plundering herds and settlements in the verdant lands beyond the desert's reach. These dragons can also be found in dry steppes, searing badlands, and rocky coasts. They guard their territories against all potential competitors, especially brass dragons.
@@ -141,3 +141,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 "image": "5. Mechanics/Bestiary/Dragon/token/blue-dragon-wyrmling.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

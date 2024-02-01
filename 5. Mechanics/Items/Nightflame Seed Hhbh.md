@@ -22,7 +22,7 @@ Scattered on the forest floor are walnut-sized seeds with a distinct purple hue.
 
 ## Effect:
 
-This seed may be thrown into a fire, causing it to turn a dim blue and mostly difficult to see at night without losing any output of heat, as well as preventing it from producing smoke. The flame only produces dim light in a 5-foot radius around it, and any creature attempting a Wisdom (Perception) check to find the flame does so at disadvantage.
+This seed may be thrown into a fire, causing it to turn a dim blue and mostly difficult to see at night without losing any output of heat, as well as preventing it from producing smoke. The flame only produces dim light in a 5-foot radius around it, and any creature attempting a Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check to find the flame does so at disadvantage.
 
 > [!quote]- A quote from Hamund  
 > 

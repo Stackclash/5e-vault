@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Drow Mage"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Drow Mage.md|Drow Mage]]
+# [[5. Mechanics/Bestiary/Humanoid/Drow Mage.md|Drow Mage]]
 *Source: Monster Manual p. 129*  
 
 ## Drow
@@ -153,3 +153,7 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
 ## Environment
 
 underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

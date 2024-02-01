@@ -16,7 +16,6 @@ tags:
 aliases: ["Hypnotic Pattern"]
 ---
 # Hypnotic Pattern
-%%-- Embedded content starts on the next line. --%%
 *3rd-level, Illusion*  
 
 - **Casting time:** 1 action

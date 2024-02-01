@@ -11,7 +11,7 @@ aliases: ["Legion of Hell"]
 
 |    |    |
 |----|----|
-| Barbed devil regular medium infantry | Cost: — |
+| Barbed devil regular medium infantry | Cost:— |
 
 |    |    |    |    |
 |----|----|----|----|

@@ -13,7 +13,7 @@ tags:
 statblock: inline
 aliases: ["Swarm of Ravens"]
 ---
-# [[5. Mechanics\Bestiary\Beast\Swarm Of Ravens.md|Swarm of Ravens]]
+# [[5. Mechanics/Bestiary/Beast/Swarm Of Ravens.md|Swarm of Ravens]]
 *Source: Monster Manual p. 339, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 > [!note] The Nature of Swarms
@@ -75,3 +75,7 @@ aliases: ["Swarm of Ravens"]
 ## Environment
 
 forest, swamp, hill, urban
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

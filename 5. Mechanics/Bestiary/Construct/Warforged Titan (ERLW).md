@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Warforged Titan"]
 ---
-# [[5. Mechanics\Bestiary\Construct\Warforged Titan (ERLW).md|Warforged Titan]]
+# [[5. Mechanics/Bestiary/Construct/Warforged Titan (ERLW).md|Warforged Titan]]
 *Source: Eberron: Rising from the Last War p. 315*  
 
 Warforged titans are hulking constructs built to wreak paths of destruction through enemy armies. Some of the most feared combatants of the Last War, warforged titans are barely sentient, with just enough intelligence to follow commands.
@@ -70,3 +70,7 @@ In the Age of Giants, giant artificers built mindless war golems to aid them in 
 "image": "5. Mechanics/Bestiary/Construct/token/warforged-titan.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

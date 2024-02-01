@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Swarm of Cranium Rats"]
 ---
-# [[5. Mechanics\Bestiary\Aberration\Swarm Of Cranium Rats (MPMM).md|Swarm of Cranium Rats]]
+# [[5. Mechanics/Bestiary/Aberration/Swarm Of Cranium Rats (MPMM).md|Swarm of Cranium Rats]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 83*  
 
 ## Cranium Rat
@@ -80,3 +80,7 @@ A single cranium rat uses its natural telepathy to communicate hunger, fear, and
 ## Environment
 
 underdark, urban
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

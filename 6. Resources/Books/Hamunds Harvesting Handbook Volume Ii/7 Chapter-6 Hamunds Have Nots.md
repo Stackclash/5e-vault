@@ -38,7 +38,7 @@ The name of the quest giver. Feel free to change the names to suit your own game
 
 ### Race
 
-The race of the quest giver. Most races chosen are from the "Player's Handbook", and especially from the "main" races of Human, Elf, Dwarf, and Halfling. This was in order to make them as adaptable to individual tables as possible. That said, some esoteric races also appear such as Tiefling, Goliath, Tabaxi, etc. If any of these contradict your own games, you are encouraged to adapt them to your own table. All included races appear in either the "Player's Handbook" or in "Volo's Guide to Monsters".
+The race of the quest giver. Most races chosen are from the "Player's Handbook", and especially from the "main" races of [[5. Mechanics/Races/Human.md\|Human]], [[5. Mechanics/Races/Elf.md\|Elf]], [[5. Mechanics/Races/Dwarf.md\|Dwarf]], and [[5. Mechanics/Races/Halfling.md\|Halfling]]. This was in order to make them as adaptable to individual tables as possible. That said, some esoteric races also appear such as [[5. Mechanics/Races/Tiefling.md\|Tiefling]], [[5. Mechanics/Races/Goliath (MPMM).md\|Goliath]], [[5. Mechanics/Races/Tabaxi (MPMM).md\|Tabaxi]], etc. If any of these contradict your own games, you are encouraged to adapt them to your own table. All included races appear in either the "Player's Handbook" or in "Volo's Guide to Monsters".
 
 ### Suggested Locations
 

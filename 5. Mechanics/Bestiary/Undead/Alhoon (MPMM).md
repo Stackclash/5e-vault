@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Alhoon"]
 ---
-# [[5. Mechanics\Bestiary\Undead\Alhoon (MPMM).md|Alhoon]]
+# [[5. Mechanics/Bestiary/Undead/Alhoon (MPMM).md|Alhoon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 43*  
 
 > [!quote]- A quote from Mordenkainen  
@@ -124,3 +124,7 @@ Destroying a periapt of mind trapping consigns those trapped within it to oblivi
 ## Environment
 
 underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

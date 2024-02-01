@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Mantis Knight"]
 ---
-# [[5. Mechanics\Bestiary\Fey\Mantis Knight (SAF).md|Mantis Knight]]
+# [[5. Mechanics/Bestiary/Fey/Mantis Knight (SAF).md|Mantis Knight]]
 *Source: Strongholds and Followers p. 176*  
 
 The swashbuckling adventurers of the Arcadians, the Mantis Knights love dueling and drinking and terrible poetry. The greatest of them, like Lady Eweshtleth, keep an air of grave dignity about them, because they have known battle across the Myriad Worlds. But most Mantis Knights just want to show up, do something dashing and acrobatic, spit an enemy upon their sword, and then go carousing with the mortals who summoned them.
@@ -79,3 +79,7 @@ Otherwise, they enjoy dancing around the battlefield, laying into enemies with t
 "image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Mantis%20Knight.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

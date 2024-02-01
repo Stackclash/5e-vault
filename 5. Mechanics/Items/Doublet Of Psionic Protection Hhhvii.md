@@ -17,6 +17,6 @@ aliases:
 - **Properties**: Crafted by
 - **Weight**: 13.0 lbs.
 
-While wearing this armor, you have resistance to psychic damage, and are immune to diviniation spells and any effect that would sense your emotions or read your thoughts. You also have advantage on saving throws against any effect that would impose the charm condition on you.
+While wearing this armor, you have resistance to psychic damage, and are immune to diviniation spells and any effect that would sense your emotions or read your thoughts. You also have advantage on saving throws against any effect that would impose the [[/5. Mechanics/Rules/Conditions.md#charmed\|charm]] condition on you.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 57*

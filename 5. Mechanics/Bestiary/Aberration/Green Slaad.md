@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Green Slaad"]
 ---
-# [[5. Mechanics\Bestiary\Aberration\Green Slaad.md|Green Slaad]]
+# [[5. Mechanics/Bestiary/Aberration/Green Slaad.md|Green Slaad]]
 *Source: Monster Manual p. 277*  
 
 Green slaadi are surprisingly intelligent and possess innate spellcasting ability. A green slaad can change its shape to appear as a humanoid. If it was born of a humanoid host, the slaad usually adopts its host's form.
@@ -125,3 +125,7 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 "image": "5. Mechanics/Bestiary/Aberration/token/green-slaad.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Death"]
 ---
-# [[5. Mechanics\Bestiary\Construct\Death (SAF).md|Death]]
+# [[5. Mechanics/Bestiary/Construct/Death (SAF).md|Death]]
 *Source: Strongholds and Followers p. 228*  
 
 > [!quote]-  
@@ -77,3 +77,7 @@ This thing is powerful, but not hard to run. Its Law of Death radiates damage to
 "image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Death.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

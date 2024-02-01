@@ -12,7 +12,7 @@ tags:
 statblock: inline
 aliases: ["Aurochs"]
 ---
-# [[5. Mechanics\Bestiary\Beast\Aurochs (MPMM).md|Aurochs]]
+# [[5. Mechanics/Bestiary/Beast/Aurochs (MPMM).md|Aurochs]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 71*  
 
 An aurochs is a large, fierce bovine with jutting horns. In many lands, herds of aurochs roam free, while elsewhere orcs and humans train them from an early age to carry riders into combat.
@@ -59,3 +59,7 @@ Many kinds of cattle roam the multiverse, some of them domesticated and others f
 ## Environment
 
 grassland, hill, mountain
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

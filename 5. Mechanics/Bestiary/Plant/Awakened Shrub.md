@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Awakened Shrub"]
 ---
-# [[5. Mechanics\Bestiary\Plant\Awakened Shrub.md|Awakened Shrub]]
+# [[5. Mechanics/Bestiary/Plant/Awakened Shrub.md|Awakened Shrub]]
 *Source: Monster Manual p. 317. Available in the SRD and the Basic Rules.*  
 
 An awakened shrub is an ordinary shrub given sentience and mobility by the [[5. Mechanics/Spells/Awaken.md|awaken]] spell or similar magic.
@@ -61,3 +61,7 @@ An awakened shrub is an ordinary shrub given sentience and mobility by the [[5. 
 ## Environment
 
 forest
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

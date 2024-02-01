@@ -18,7 +18,7 @@ aliases:
 - **Damage**:
   - One-handed: 1d6 B
   - Two-handed: 1d8 B
-- **Properties**: Crafted by, Versatile
+- **Properties**: Crafted by, [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
 
 If you hold this staff while casting a spell that would allow a creature to roll dice to recover hit points, any time that creature rolls the maximum value on one of those die rolls, they may roll an additional dice and add that to the amount of healing received. The amount of final dice rolled while under this effect may not exceed double the initial amount.

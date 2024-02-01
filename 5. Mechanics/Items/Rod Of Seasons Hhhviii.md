@@ -30,7 +30,7 @@ The aura becomes filled with the energizing heat of summer. Any creature that ma
 
 ## Winter's Rest
 
-The aura becomes filled with the slowing cold of winter. The space within the aura is considered difficult terrain, and any creature that ends their turn inside the aura must succeed on a DC 15 Constitution saving throw or gain one level of exhaustion. This exhaustion is removed once the creature leaves the aura. In addition, creatures in the aura have resistance to cold damage.
+The aura becomes filled with the slowing cold of winter. The space within the aura is considered difficult terrain, and any creature that ends their turn inside the aura must succeed on a DC 15 Constitution saving throw or gain one level of [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]]. This [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]] is removed once the creature leaves the aura. In addition, creatures in the aura have resistance to cold damage.
 
 If this rod is swung again before 10 minutes has passed, the user may expend another charge to change the aura's effect to a different season, ending the original one in the process and refreshing the duration. This rod regains all expended charges at dawn. If you use the last charge, there is a 75% chance chance that the rod crumbles into dust and becomes useless.
 

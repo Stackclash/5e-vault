@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Allip"]
 ---
-# [[5. Mechanics\Bestiary\Undead\Allip (MPMM).md|Allip]]
+# [[5. Mechanics/Bestiary/Undead/Allip (MPMM).md|Allip]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 45*  
 
 When a creature uncovers a secret that a powerful being has protected with a mighty curse, the result is often the creation of an allip. Secrets protected in this manner range in scope from a demon lord's true name to the hidden truths of the cosmic order. The creature acquires the secret, but the curse annihilates its body and leaves behind a spectral being composed of fragments from the victim's psyche and overwhelming psychic agony.
@@ -89,3 +89,7 @@ An allip might attempt to share its lore to escape its curse and enter the after
 ## Environment
 
 swamp, urban
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

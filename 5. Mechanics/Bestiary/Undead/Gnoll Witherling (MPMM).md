@@ -13,7 +13,7 @@ tags:
 statblock: inline
 aliases: ["Gnoll Witherling"]
 ---
-# [[5. Mechanics\Bestiary\Undead\Gnoll Witherling (MPMM).md|Gnoll Witherling]]
+# [[5. Mechanics/Bestiary/Undead/Gnoll Witherling (MPMM).md|Gnoll Witherling]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 145*  
 
 > [!quote]- A quote from Mordenkainen  
@@ -78,3 +78,7 @@ Witherlings travel with their comrades and try to kill anything in their path. T
 ## Environment
 
 arctic, forest, grassland, hill
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

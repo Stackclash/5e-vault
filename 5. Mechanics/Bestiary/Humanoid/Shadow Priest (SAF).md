@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Shadow Priest"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Shadow Priest (SAF).md|Shadow Priest]]
+# [[5. Mechanics/Bestiary/Humanoid/Shadow Priest (SAF).md|Shadow Priest]]
 *Source: Strongholds and Followers p. 74*  
 
 ```statblock
@@ -61,3 +61,7 @@ aliases: ["Shadow Priest"]
 - "SaF"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

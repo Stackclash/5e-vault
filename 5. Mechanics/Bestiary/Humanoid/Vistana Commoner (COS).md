@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Vistana Commoner"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Vistana Commoner (COS).md|Vistana Commoner]]
+# [[5. Mechanics/Bestiary/Humanoid/Vistana Commoner (COS).md|Vistana Commoner]]
 *Source: Curse of Strahd p. 28*  
 
 ```statblock
@@ -70,3 +70,7 @@ aliases: ["Vistana Commoner"]
 "image": "5. Mechanics/Bestiary/Humanoid/token/vistana-commoner.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

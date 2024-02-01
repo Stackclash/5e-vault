@@ -5,21 +5,9 @@ let tablePage = dv.pages('"5. Mechanics/Tables"').filter(p => {
 
 if (tablePage) {
     dv.header(2, "Harvester Table")
-    const blockLink = dv.blockLink(tablePage.file.path, "dc-item-description-value-weight-crafting", true, input.current.aliases[0])
-    const blockLinkString = blockLink.toString()
     const pageContent = await dv.io.load(tablePage.file.path)
-    const fileLink = dv.fileLink(tablePage.file.path)
-    const fileLinkString = dv.fileLink(tablePage.file.path).toString()
 
-    const table = pageContent.match(/\|(?:.*\n.*)+\|(?=\n\^dc-item-description-value-weight-crafting)/)
+    const table = pageContent.match(/\|(?:.*\n.*)+\|(?=\n\^dc-item-description-value-weight-crafting)/)[0]
 
-    console.log(table)
-
-    // console.log(blockLink)
-    // console.log(blockLinkString)
-    // console.log(pageContent)
-
-    // dv.paragraph(blockLink)
-    // dv.paragraph(blockLinkString)
-    // dv.paragraph(pageContent)
+    dv.paragraph(table)
 }

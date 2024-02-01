@@ -9,10 +9,10 @@ aliases: ["Harvester"]
 # Harvester
 *Source: Hamund's Harvesting Handbook: Volume I p. 146*  
 
-- **Skill Proficiencies.** Nature, Survival  
+- **Skill Proficiencies.** [[/5. Mechanics/Rules/Skills.md#Nature\|Nature]], [[/5. Mechanics/Rules/Skills.md#Survival\|Survival]]  
 - **Tool Proficiencies.** [[5. Mechanics/Items/Harvesting Kit Hhhvi.md\|Harvesting Kit]]  
 - **Languages.** One of your choice  
-- **Equipment.** A set of traveller's clothes, a hunting trap, [[5. Mechanics/Items/Harvesting Kit Hhhvi.md\|harvesting kit]], a cloak made from a creature you harvested, and a belt pouch containing 5 gp.  
+- **Equipment.** A set of traveller's clothes, a [[5. Mechanics/Items/Hunting Trap.md\|hunting trap]], [[5. Mechanics/Items/Harvesting Kit Hhhvi.md\|harvesting kit]], a cloak made from a creature you harvested, and a belt [[5. Mechanics/Items/Pouch.md\|pouch]] containing 5 gp.  
 
 Like a miner in their cave or a farmer in their field, you too make your living through reaping the riches of the natural world. Your resources, however, are the monsters and creatures that populate the multiverse. Although there are some who would scoff and call you a mere butcher, you understand the subtle complexities in the fantastical anatomies you find in your adventures, and only you are qualified enough to harvest them.
 

@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Ice Mephit"]
 ---
-# [[5. Mechanics\Bestiary\Elemental\Ice Mephit.md|Ice Mephit]]
+# [[5. Mechanics/Bestiary/Elemental/Ice Mephit.md|Ice Mephit]]
 *Source: Monster Manual p. 215. Available in the SRD.*  
 
 ## Mephits
@@ -90,3 +90,7 @@ Comprising frigid air and water, ice mephits are aloof and cold, surpassing all 
 ## Environment
 
 arctic
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

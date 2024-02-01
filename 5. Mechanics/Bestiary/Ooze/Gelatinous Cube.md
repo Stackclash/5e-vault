@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Gelatinous Cube"]
 ---
-# [[5. Mechanics\Bestiary\Ooze\Gelatinous Cube.md|Gelatinous Cube]]
+# [[5. Mechanics/Bestiary/Ooze/Gelatinous Cube.md|Gelatinous Cube]]
 *Source: Monster Manual p. 242, Eberron: Rising from the Last War. Available in the SRD.*  
 
 Gelatinous cubes scour dungeon passages in silent, predictable patterns, leaving perfectly clean paths in their wake. They consume living tissue while leaving bones and other materials undissolved.
@@ -93,3 +93,7 @@ A gelatinous cube is all but transparent, making it hard to spot until it attack
 ## Environment
 
 underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

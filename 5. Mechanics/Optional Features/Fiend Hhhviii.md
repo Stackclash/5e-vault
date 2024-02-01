@@ -11,4 +11,4 @@ aliases: ["Fiend"]
 
 ***Prerequisites*** 3rd-level Monk (Observed Form)
 
-Your vicious stance allows you to capitalise on your opponent's mistakes and punish them accordingly. Whenever you hit a creature with an opportunity attack while in this stance, you may immediately use your Flurry of Blows feature as a free action. You still need to spend 1 ki point to use it in this way.
+Your vicious stance allows you to capitalise on your opponent's mistakes and punish them accordingly. Whenever you hit a creature with an [[/5. Mechanics/Rules/Actions.md#opportunity%20attack\|opportunity attack]] while in this stance, you may immediately use your [Flurry of Blows](compendium/classes/monk.md#Flurry%20of%20Blows%20(Level%202)) feature as a free action. You still need to spend 1 ki point to use it in this way.

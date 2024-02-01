@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Tiger"]
 ---
-# [[5. Mechanics\Bestiary\Beast\Tiger.md|Tiger]]
+# [[5. Mechanics/Bestiary/Beast/Tiger.md|Tiger]]
 *Source: Monster Manual p. 339. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -67,3 +67,7 @@ aliases: ["Tiger"]
 ## Environment
 
 grassland, forest
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

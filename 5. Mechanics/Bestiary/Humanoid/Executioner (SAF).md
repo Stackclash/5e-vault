@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Executioner"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Executioner (SAF).md|Executioner]]
+# [[5. Mechanics/Bestiary/Humanoid/Executioner (SAF).md|Executioner]]
 *Source: Strongholds and Followers p. 78*  
 
 ```statblock
@@ -74,3 +74,7 @@ aliases: ["Executioner"]
 - "SaF"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

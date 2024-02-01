@@ -16,7 +16,7 @@ tags:
 statblock: inline
 aliases: ["Commoner"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Commoner.md|Commoner]]
+# [[5. Mechanics/Bestiary/Humanoid/Commoner.md|Commoner]]
 *Source: Monster Manual p. 345, Curse of Strahd, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 Commoners include peasants, serfs, slaves, servants, pilgrims, merchants, artisans, and hermits.
@@ -91,3 +91,7 @@ Commoners include peasants, serfs, slaves, servants, pilgrims, merchants, artisa
 ## Environment
 
 arctic, desert, coastal, grassland, hill, urban, forest
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

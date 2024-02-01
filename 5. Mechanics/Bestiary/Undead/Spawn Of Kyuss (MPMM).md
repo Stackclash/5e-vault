@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Spawn of Kyuss"]
 ---
-# [[5. Mechanics\Bestiary\Undead\Spawn Of Kyuss (MPMM).md|Spawn of Kyuss]]
+# [[5. Mechanics/Bestiary/Undead/Spawn Of Kyuss (MPMM).md|Spawn of Kyuss]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 225*  
 
 Kyuss was a high priest of Orcus who plundered corpses from necropolises to create the first spawn of Kyuss. Even centuries after Kyuss's death, his malign disciples continue performing the horrific rites he perfected.
@@ -90,3 +90,7 @@ Spawn of Kyuss are expressions of Orcus's intent to replace all life with undeat
 ## Environment
 
 desert, underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

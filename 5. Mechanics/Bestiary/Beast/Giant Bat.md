@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Giant Bat"]
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Bat.md|Giant Bat]]
+# [[5. Mechanics/Bestiary/Beast/Giant Bat.md|Giant Bat]]
 *Source: Monster Manual p. 323, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -57,3 +57,7 @@ aliases: ["Giant Bat"]
 ## Environment
 
 underdark, forest
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

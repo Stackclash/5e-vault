@@ -15,6 +15,6 @@ aliases:
 
 - **Properties**: Crafted by
 
-While holding this item, if you cast a spell that forces a creature to make a saving throw or be inflicted with the charmed condition, that creature makes that saving throw at disadvantage.
+While holding this item, if you cast a spell that forces a creature to make a saving throw or be inflicted with the [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] condition, that creature makes that saving throw at disadvantage.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 130*

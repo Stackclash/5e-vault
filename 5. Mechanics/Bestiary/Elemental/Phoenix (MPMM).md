@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Phoenix"]
 ---
-# [[5. Mechanics\Bestiary\Elemental\Phoenix (MPMM).md|Phoenix]]
+# [[5. Mechanics/Bestiary/Elemental/Phoenix (MPMM).md|Phoenix]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 206*  
 
 > [!quote]- A quote from Mordenkainen  
@@ -104,3 +104,7 @@ Releasing a phoenix from the Inner Planes creates an explosion of fire that spre
 ## Environment
 
 desert, mountain
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

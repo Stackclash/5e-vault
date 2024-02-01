@@ -15,6 +15,6 @@ aliases:
 
 - **Properties**: Crafted by
 
-When you drink this potion, your Intelligence score increases to 21 if it was lower than that before, and you gain proficiency in the History, Arcana, Nature, Religion, and Investigation skills if you were not proficient in them before. This effect lasts for 24 hours, after which you suffer 2 levels of exhaustion as your brain attempts to process the mental surge it just experienced. This potion is a dull grey color with chunks of partly solidified matter floating in it.
+When you drink this potion, your Intelligence score increases to 21 if it was lower than that before, and you gain proficiency in the [[/5. Mechanics/Rules/Skills.md#History\|History]], [[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]], [[/5. Mechanics/Rules/Skills.md#Nature\|Nature]], [[/5. Mechanics/Rules/Skills.md#Religion\|Religion]], and [[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]] skills if you were not proficient in them before. This effect lasts for 24 hours, after which you suffer 2 levels of [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]] as your brain attempts to process the mental surge it just experienced. This potion is a dull grey color with chunks of partly solidified matter floating in it.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 63*

@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Master Thief"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Master Thief (MPMM).md|Master Thief]]
+# [[5. Mechanics/Bestiary/Humanoid/Master Thief (MPMM).md|Master Thief]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 174*  
 
 Master thieves are known for perpetrating daring heists. They tend to develop a romanticized reputation. A master thief might "retire" from hands-on work to run a thieves' guild, spearhead some covert enterprise, or enjoy a quiet life of luxury.
@@ -96,3 +96,7 @@ When a master thief completes a challenging heist, they often leave behind a cal
 ## Environment
 
 urban
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

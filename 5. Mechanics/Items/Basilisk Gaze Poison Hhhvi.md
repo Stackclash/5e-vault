@@ -14,6 +14,6 @@ aliases:
 
 - **Properties**: Crafted by
 
-A creature that drinks this poison must succeed on a DC 12 Constitution saving throw or become poisoned for 24 hours. While poisoned in this way, a creature magically turns to stone and is petrified. A creature remains petrified like this until either the 24 hours have passed, or until freed by the greater restoration spell or similar magic.
+A creature that drinks this poison must succeed on a DC 12 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] for 24 hours. While [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] in this way, a creature magically turns to stone and is [[/5. Mechanics/Rules/Conditions.md#petrified\|petrified]]. A creature remains [[/5. Mechanics/Rules/Conditions.md#petrified\|petrified]] like this until either the 24 hours have passed, or until freed by the [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell or similar magic.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 120*

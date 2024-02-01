@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Lady Czorgan"]
 ---
-# [[5. Mechanics\Bestiary\Undead\Lady Czorgan (SAF).md|Lady Czorgan]]
+# [[5. Mechanics/Bestiary/Undead/Lady Czorgan (SAF).md|Lady Czorgan]]
 *Source: Strongholds and Followers p. 258*  
 
 ```statblock
@@ -73,3 +73,7 @@ aliases: ["Lady Czorgan"]
 - "SaF"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

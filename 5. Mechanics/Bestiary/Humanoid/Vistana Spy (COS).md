@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Vistana Spy"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Vistana Spy (COS).md|Vistana Spy]]
+# [[5. Mechanics/Bestiary/Humanoid/Vistana Spy (COS).md|Vistana Spy]]
 *Source: Curse of Strahd p. 28*  
 
 ```statblock
@@ -92,3 +92,7 @@ aliases: ["Vistana Spy"]
 "image": "5. Mechanics/Bestiary/Humanoid/token/vistana-spy.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

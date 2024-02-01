@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Annis Hag"]
 ---
-# [[5. Mechanics\Bestiary\Fey\Annis Hag (MPMM).md|Annis Hag]]
+# [[5. Mechanics/Bestiary/Fey/Annis Hag (MPMM).md|Annis Hag]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 47*  
 
 Annis hags lair in mountains or hills. These hunchbacked and hump-shouldered hags are the largest and most physically imposing of their kind, standing eight feet tall. They can easily tear a fully grown person apart, but they love hunting the young, preferring their flesh above all others.
@@ -86,3 +86,7 @@ A hag can have up to three iron tokens active at one time. As an action, the hag
 ## Environment
 
 hill, mountain
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

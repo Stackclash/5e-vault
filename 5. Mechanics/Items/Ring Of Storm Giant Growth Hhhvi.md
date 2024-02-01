@@ -15,7 +15,7 @@ aliases:
 
 - **Properties**: Crafted by
 
-While wearing this ring, you may speak the command word to grow to the size of a storm giant for 10 minutes. If there isn't enough space, this ability fails. Your weapons and carried equipment grow with you while you are under this effect. While under this effect, you are considered a Huge creature and gain the following benefits:
+While wearing this ring, you may speak the command word to grow to the size of a [[5. Mechanics/Bestiary/Giant/Storm Giant.md\|storm giant]] for 10 minutes. If there isn't enough space, this ability fails. Your weapons and carried equipment grow with you while you are under this effect. While under this effect, you are considered a Huge creature and gain the following benefits:
 
 - Your Strength score is considered 29.  
 - You gain temporary hit points equal to your Constitution modifier multiplied by your character level.  

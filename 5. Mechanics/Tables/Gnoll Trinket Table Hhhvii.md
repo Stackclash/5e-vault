@@ -13,9 +13,9 @@ aliases: ["Gnoll Trinket Table"]
 | dice: d8 | Item | Value | Weight |
 |----------|------|-------|--------|
 | 1 | 1 skin of heavily fermented alcohol | 5 sp | 3 lb |
-| 2 | 1 pouch of intoxicating herbs | 1 gp | 1 lb |
+| 2 | 1 [[5. Mechanics/Items/Pouch.md\|pouch]] of intoxicating herbs | 1 gp | 1 lb |
 | 3 | `dice: 2d6\|avg` (`2d6`) broken spearheads | 2 sp | 2 lb |
-| 4 | 1 pouch of greasy fur | 1 cp | 2 lb |
+| 4 | 1 [[5. Mechanics/Items/Pouch.md\|pouch]] of greasy fur | 1 cp | 2 lb |
 | 5 | `dice: 1d4\|avg` (`1d4`) shiny trinkets | 2 gp | 2 lb |
 | 6 | 1 worn whetsone | 1 cp | 1 lb |
 | 7 | 1 frayed tabard | 8 sp | 4 lb |

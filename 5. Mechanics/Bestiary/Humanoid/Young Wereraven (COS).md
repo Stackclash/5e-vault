@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Young Wereraven"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Young Wereraven (COS).md|Young Wereraven]]
+# [[5. Mechanics/Bestiary/Humanoid/Young Wereraven (COS).md|Young Wereraven]]
 *Source: Curse of Strahd p. 98*  
 
 ```statblock
@@ -71,3 +71,7 @@ aliases: ["Young Wereraven"]
 "image": "5. Mechanics/Bestiary/Humanoid/token/young-wereraven.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

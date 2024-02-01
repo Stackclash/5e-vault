@@ -13,7 +13,7 @@ tags:
 statblock: inline
 aliases: ["Howler"]
 ---
-# [[5. Mechanics\Bestiary\Fiend\Howler (MPMM).md|Howler]]
+# [[5. Mechanics/Bestiary/Fiend/Howler (MPMM).md|Howler]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 155*  
 
 > [!quote]- A quote from Mordenkainen  
@@ -80,3 +80,7 @@ Howlers rely on speed, numbers, and their mind-numbing howling to corner prey be
 ## Environment
 
 desert, grassland, hill, underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

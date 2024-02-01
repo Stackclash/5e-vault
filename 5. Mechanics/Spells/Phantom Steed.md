@@ -13,7 +13,6 @@ tags:
 aliases: ["Phantom Steed"]
 ---
 # Phantom Steed
-%%-- Embedded content starts on the next line. --%%
 *3rd-level, Illusion (ritual)*  
 
 - **Casting time:** 1 minute unless cast as a ritual

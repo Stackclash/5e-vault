@@ -20,6 +20,6 @@ This potion uses a sahuagin's blood as a base along with various seaweeds, seash
 - The ability to breathe in both air and water.  
 - Advantage on any melee attack rolls against any creature that doesn't have all its hit points.  
 
-When you drink this potion, you must also succeed on a DC 10 Constitution saving throw or undergo a permanent mutation into a sahuagin. As a sahuagin, you lose all of your previous racial traits and instead gain a swim speed of 40 ft., the blood frenzy, limited amphibiousness, and shark telepathy traits from the sahuagin's statblock, and your alignment changes to lawful evil. This mutation can only be cured by a greater restoration spell or similar magic.
+When you drink this potion, you must also succeed on a DC 10 Constitution saving throw or undergo a permanent mutation into a sahuagin. As a sahuagin, you lose all of your previous racial traits and instead gain a swim speed of 40 ft., the blood frenzy, limited amphibiousness, and shark telepathy traits from the sahuagin's statblock, and your alignment changes to lawful evil. This mutation can only be cured by a [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell or similar magic.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 138*

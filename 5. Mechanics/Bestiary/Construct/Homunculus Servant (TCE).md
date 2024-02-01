@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Homunculus Servant"]
 ---
-# [[5. Mechanics\Bestiary\Construct\Homunculus Servant (TCE).md|Homunculus Servant]]
+# [[5. Mechanics/Bestiary/Construct/Homunculus Servant (TCE).md|Homunculus Servant]]
 *Source: Tasha's Cauldron of Everything p. 22, Eberron: Rising from the Last War p. 62*  
 
 ```statblock
@@ -56,3 +56,7 @@ aliases: ["Homunculus Servant"]
 "image": "5. Mechanics/Bestiary/Construct/token/homunculus-servant.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

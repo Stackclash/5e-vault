@@ -22,6 +22,6 @@ A type of oleander easily identified by its yellow petals dappled with dark spot
 
 ## Effect:
 
-As an action, you may eat this herb, forcing you to succeed on a DC 15 Constitution saving throw or become poisoned for one hour. Regardless of the outcome, you also secrete a toxic slime from your skin for the next hour that forces any creature that touches you or who hits you with a melee weapon attack to succeed on a DC 15 Constitution saving throw or become poisoned.
+As an action, you may eat this herb, forcing you to succeed on a DC 15 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] for one hour. Regardless of the outcome, you also secrete a toxic slime from your skin for the next hour that forces any creature that touches you or who hits you with a melee weapon attack to succeed on a DC 15 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]].
 
 *Source: Hamund's Herbalism Handbook p. 35*

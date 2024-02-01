@@ -12,7 +12,7 @@ tags:
 statblock: inline
 aliases: ["Ogre Battering Ram"]
 ---
-# [[5. Mechanics\Bestiary\Giant\Ogre Battering Ram (MPMM).md|Ogre Battering Ram]]
+# [[5. Mechanics/Bestiary/Giant/Ogre Battering Ram (MPMM).md|Ogre Battering Ram]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 200*  
 
 An ogre battering ram carries an enormous club that's primarily used for bashing doors into kindling but also works well for smashing foes. These ogres are drilled in two simple tasks: rushing forward to shatter enemy fortifications and using their weapons to force an advancing enemy to halt.
@@ -65,3 +65,7 @@ Ogres love to rush headlong into battle, but with enough time and patience, some
 ## Environment
 
 grassland, hill, mountain
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

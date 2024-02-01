@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Berbalang"]
 ---
-# [[5. Mechanics\Bestiary\Aberration\Berbalang (MPMM).md|Berbalang]]
+# [[5. Mechanics/Bestiary/Aberration/Berbalang (MPMM).md|Berbalang]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 61*  
 
 Berbalangs creep across the [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]] remains of dead gods adrift on the Astral Plane. Obsessed with gathering secrets, both from the gods they inhabit and from the bones of dead creatures, they call forth the spirits of the dead and force them to divulge what they learned in life.
@@ -85,3 +85,7 @@ The knowledge that berbalangs accumulate makes them great sources of information
 ## Environment
 
 desert
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

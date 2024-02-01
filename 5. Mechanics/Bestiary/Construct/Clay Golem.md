@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Clay Golem"]
 ---
-# [[5. Mechanics\Bestiary\Construct\Clay Golem.md|Clay Golem]]
+# [[5. Mechanics/Bestiary/Construct/Clay Golem.md|Clay Golem]]
 *Source: Monster Manual p. 168, Curse of Strahd. Available in the SRD.*  
 
 Sculpted from clay, this bulky golem stands head and shoulders taller than most human-sized creatures. It is human shaped, but its proportions are off.
@@ -119,3 +119,7 @@ A golem doesn't require air, food, drink, or sleep.
 "image": "5. Mechanics/Bestiary/Construct/token/clay-golem.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

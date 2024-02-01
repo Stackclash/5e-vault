@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Gallows Speaker"]
 ---
-# [[5. Mechanics\Bestiary\Undead\Gallows Speaker (VRGR).md|Gallows Speaker]]
+# [[5. Mechanics/Bestiary/Undead/Gallows Speaker (VRGR).md|Gallows Speaker]]
 *Source: Van Richten's Guide to Ravenloft p. 234*  
 
 Gallows speakers arise from places of mass death or sites where creatures regularly meet their doom. Over time, pain-wracked phantoms and lingering souls combine into an entity that knows death in myriad forms. Such amalgamated spirits are tormented by their collective pain, endlessly moaning disjointed final thoughts as they lash out at the living. Having known untold deaths, gallows speakers can predict suffering, foreseeing dooms leveled against them and overwhelming their foes with visions of innumerable violent deaths.
@@ -75,3 +75,7 @@ Gallows speakers rarely speak coherently or communicate with the living, instead
 "image": "5. Mechanics/Bestiary/Undead/token/gallows-speaker.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

@@ -22,6 +22,6 @@ A pale white lichen resembling bone dust, found growing in dark areas of extreme
 
 ## Effect:
 
-After using this herb, any creatures with the undead creature type have disadvantage on Wisdom (Perception) checks made to detect you.
+After using this herb, any creatures with the undead creature type have disadvantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks made to detect you.
 
 *Source: Hamund's Herbalism Handbook p. 21*

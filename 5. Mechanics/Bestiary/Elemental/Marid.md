@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Marid"]
 ---
-# [[5. Mechanics\Bestiary\Elemental\Marid.md|Marid]]
+# [[5. Mechanics/Bestiary/Elemental/Marid.md|Marid]]
 *Source: Monster Manual p. 146, Tasha's Cauldron of Everything*  
 
 Hailing from the Elemental Plane of Water, the marids are the most wondrous of genie-kind. Although all genies wield great power, even the lowliest marid sees itself as clearly superior to the flighty djinn, the ground-hugging dao, and the fuming efreet. Large and piscine, marids are a strange sight to behold, particularly when clad in the finely stitched vests and colorful pantaloons they favor. They speak in voices as soft as the sea breeze or as sonorous as storm waves breaking against a rocky cliff. In flight, their lower bodies transform into columns of foamy water.
@@ -75,7 +75,7 @@ Marids are champion tale-tellers, whose favorite legends emphasize the prowess o
     \ [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Fog Cloud.md|fog cloud]],\
     \ [[5. Mechanics/Spells/Purify Food And Drink.md|purify food and drink]]\n\n1/day\
     \ each: [[5. Mechanics/Spells/Conjure Elemental.md|conjure elemental]] ([water\
-    \ elemental](5. Mechanics/Bestiary/Elemental/water-elemental.md) only), [control\
+    \ elemental](compendium/bestiary/elemental/water-elemental.md) only), [control\
     \ water](compendium/spells/control-water.md), [[5. Mechanics/Spells/Gaseous Form.md|gaseous form]],\
     \ [[5. Mechanics/Spells/Invisibility.md|invisibility]], [[5. Mechanics/Spells/Plane Shift.md|plane shift]]\n\
     \n3/day each: [[5. Mechanics/Spells/Tongues.md|tongues]], [[5. Mechanics/Spells/Water Breathing.md|water breathing]],\
@@ -120,3 +120,7 @@ Marids are champion tale-tellers, whose favorite legends emphasize the prowess o
 ## Environment
 
 underwater, coastal
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

@@ -22,6 +22,6 @@ Squirtwort is a series of bud-like plants connected by a stringy stem. Although 
 
 ## Effect:
 
-This herb contains `dice: 1d8|avg` (`1d8`) buds. As an action, you may throw one of these buds at a point on the ground within 30 feet of you, bursting the bud upon contact. After bursting, a bud releases a fountain of slippery fluid that covers a 5-foot square area around it. Any creature that enters the covered area must succeed on a DC 12 Dexterity saving throw or fall prone.
+This herb contains `dice: 1d8|avg` (`1d8`) buds. As an action, you may throw one of these buds at a point on the ground within 30 feet of you, bursting the bud upon contact. After bursting, a bud releases a fountain of slippery fluid that covers a 5-foot square area around it. Any creature that enters the covered area must succeed on a DC 12 Dexterity saving throw or fall [[/5. Mechanics/Rules/Conditions.md#prone\|prone]].
 
 *Source: Hamund's Herbalism Handbook p. 33*

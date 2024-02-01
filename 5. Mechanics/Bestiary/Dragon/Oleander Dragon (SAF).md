@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Oleander Dragon"]
 ---
-# [[5. Mechanics\Bestiary\Dragon\Oleander Dragon (SAF).md|Oleander Dragon]]
+# [[5. Mechanics/Bestiary/Dragon/Oleander Dragon (SAF).md|Oleander Dragon]]
 *Source: Strongholds and Followers p. 182*  
 
 Nerium the Petal Dragon, known also as the Oleander Dragon, is one of the prize pets of Val and normally slumbers decoratively in one of the courtyards. Its disguise is so perfect, newcomers to the Court often fail to recognize it's not actually a flowering topiary shrub in the shape of a sleeping dragon.
@@ -92,3 +92,7 @@ Lacking physical attacks, Nerium relies on Implant Nightmare to overwhelm her en
 "image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Oleander%20Dragon.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

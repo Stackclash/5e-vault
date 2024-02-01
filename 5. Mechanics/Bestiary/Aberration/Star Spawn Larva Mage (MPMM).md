@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Star Spawn Larva Mage"]
 ---
-# [[5. Mechanics\Bestiary\Aberration\Star Spawn Larva Mage (MPMM).md|Star Spawn Larva Mage]]
+# [[5. Mechanics/Bestiary/Aberration/Star Spawn Larva Mage (MPMM).md|Star Spawn Larva Mage]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 228*  
 
 A larva mage is a nightmarish combination of a mortal body and otherworldly substance. When a powerful cultist of a wormlike entity such as Kyuss or Kezef—usually a warlock or other spellcaster—contacts the comet-borne emissary of an Elder Evil, the emissary can merge with a mortal consciousness to create a larva mage. None of the original cultist's personality survives the transformation; what emerges is wholly alien.
@@ -77,7 +77,7 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
     \ monster](compendium/spells/dominate-monster.md)"
   "name": "spells"
 - "desc": "When the mage is reduced to 0 hit points, it breaks apart into a [swarm\
-    \ of insects](5. Mechanics/Bestiary/Beast/swarm-of-insects.md) in the same space.\
+    \ of insects](compendium/bestiary/beast/swarm-of-insects.md) in the same space.\
     \ Unless the swarm is destroyed, the mage reforms from it 24 hours later."
   "name": "Return to Worms"
 "actions":
@@ -123,3 +123,7 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 ## Environment
 
 mountain
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

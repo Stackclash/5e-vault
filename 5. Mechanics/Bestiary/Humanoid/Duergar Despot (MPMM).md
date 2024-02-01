@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Duergar Despot"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Duergar Despot (MPMM).md|Duergar Despot]]
+# [[5. Mechanics/Bestiary/Humanoid/Duergar Despot (MPMM).md|Duergar Despot]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 107*  
 
 Duergar despots replace parts of their bodies with mechanical devices that they control through their psionic abilities.
@@ -109,3 +109,7 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 ## Environment
 
 mountain, underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

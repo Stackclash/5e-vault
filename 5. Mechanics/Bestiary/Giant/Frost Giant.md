@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Frost Giant"]
 ---
-# [[5. Mechanics\Bestiary\Giant\Frost Giant.md|Frost Giant]]
+# [[5. Mechanics/Bestiary/Giant/Frost Giant.md|Frost Giant]]
 *Source: Monster Manual p. 155. Available in the SRD and the Basic Rules.*  
 
 Gigantic reavers from the freezing lands beyond civilization, frost giants are fierce, hardy warriors that survive on the spoils of their raids and pillaging. They respect only brute strength and skill in battle, demonstrating both with their scars and the grisly trophies they take from their enemies.
@@ -128,3 +128,7 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 ## Environment
 
 mountain, arctic
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

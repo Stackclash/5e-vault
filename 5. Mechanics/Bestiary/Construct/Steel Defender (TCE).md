@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Steel Defender"]
 ---
-# [[5. Mechanics\Bestiary\Construct\Steel Defender (TCE).md|Steel Defender]]
+# [[5. Mechanics/Bestiary/Construct/Steel Defender (TCE).md|Steel Defender]]
 *Source: Tasha's Cauldron of Everything p. 19, Eberron: Rising from the Last War p. 61*  
 
 ```statblock
@@ -58,3 +58,7 @@ aliases: ["Steel Defender"]
 "image": "5. Mechanics/Bestiary/Construct/token/steel-defender.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

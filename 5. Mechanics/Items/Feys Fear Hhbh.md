@@ -22,7 +22,7 @@ There are legends of a certain type of tree that all fey creatures fear—one cu
 
 ## Effect:
 
-You may use this herb as a weapon, treating it as a dagger. When you successfully hit a creature with this herb, you may choose to leave it embedded in their body, losing the herb in the process. A creature with this herb embedded in its body cannot teleport or enter a different plane of reality. That creature, or a creature adjacent to it, may use its action to remove the herb from their body, breaking it in the process and making it useless.
+You may use this herb as a weapon, treating it as a [[5. Mechanics/Items/Dagger.md\|dagger]]. When you successfully hit a creature with this herb, you may choose to leave it embedded in their body, losing the herb in the process. A creature with this herb embedded in its body cannot teleport or enter a different plane of reality. That creature, or a creature adjacent to it, may use its action to remove the herb from their body, breaking it in the process and making it useless.
 
 > [!quote]- A quote from Hamund  
 > 

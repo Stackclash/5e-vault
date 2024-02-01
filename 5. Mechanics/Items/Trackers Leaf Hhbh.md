@@ -22,7 +22,7 @@ A fairly common leaf found on bushes throughout grasslands, it has a strong smel
 
 ## Effect:
 
-As an action, you may crush this leaf and smell it. If you do so, your sense of smell improves drastically for the next 10 minutes, granting you advantage on any Wisdom (Perception) checks made that rely on smell.
+As an action, you may crush this leaf and smell it. If you do so, your sense of smell improves drastically for the next 10 minutes, granting you advantage on any Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks made that rely on smell.
 
 > [!quote]- A quote from Hamund  
 > 

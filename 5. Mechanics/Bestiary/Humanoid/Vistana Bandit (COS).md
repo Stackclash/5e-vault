@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Vistana Bandit"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Vistana Bandit (COS).md|Vistana Bandit]]
+# [[5. Mechanics/Bestiary/Humanoid/Vistana Bandit (COS).md|Vistana Bandit]]
 *Source: Curse of Strahd p. 28*  
 
 ```statblock
@@ -73,3 +73,7 @@ aliases: ["Vistana Bandit"]
 "image": "5. Mechanics/Bestiary/Humanoid/token/vistana-bandit.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

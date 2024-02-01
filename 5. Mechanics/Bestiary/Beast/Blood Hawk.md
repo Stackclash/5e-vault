@@ -15,7 +15,7 @@ tags:
 statblock: inline
 aliases: ["Blood Hawk"]
 ---
-# [[5. Mechanics\Bestiary\Beast\Blood Hawk.md|Blood Hawk]]
+# [[5. Mechanics/Bestiary/Beast/Blood Hawk.md|Blood Hawk]]
 *Source: Monster Manual p. 319. Available in the SRD and the Basic Rules.*  
 
 Taking its name from its crimson feathers and aggressive nature, the blood hawk fearlessly attacks almost any animal, stabbing it with its daggerlike beak. Blood hawks flock together in large numbers, attacking as a pack to take down prey.
@@ -67,3 +67,7 @@ Taking its name from its crimson feathers and aggressive nature, the blood hawk 
 ## Environment
 
 mountain, grassland, forest, hill, coastal, arctic
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

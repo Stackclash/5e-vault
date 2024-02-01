@@ -19,7 +19,7 @@ cost: 50000
 
 ## Description:
 
-It is theorised that this plant spawns from the tidewashed droppings of an aboleth, lodging itself in dark, damp corners of the coast and growing into an unpleasant herb that resembles the stalks of its creator in a vague Y-shape. The mucus that the plant secretes has a mind-altering effect, causing those that imbibe it to open themselves to telepathic communication with anyone else that has consumed it.
+It is theorised that this plant spawns from the tidewashed droppings of an [[5. Mechanics/Bestiary/Aberration/Aboleth.md\|aboleth]], lodging itself in dark, damp corners of the coast and growing into an unpleasant herb that resembles the stalks of its creator in a vague Y-shape. The mucus that the plant secretes has a mind-altering effect, causing those that imbibe it to open themselves to telepathic communication with anyone else that has consumed it.
 
 ## Effect:
 

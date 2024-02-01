@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Amber Golem"]
 ---
-# [[5. Mechanics\Bestiary\Construct\Amber Golem (COS).md|Amber Golem]]
+# [[5. Mechanics/Bestiary/Construct/Amber Golem (COS).md|Amber Golem]]
 *Source: Curse of Strahd p. 186*  
 
 ```statblock
@@ -63,3 +63,7 @@ aliases: ["Amber Golem"]
 "image": "5. Mechanics/Bestiary/Construct/token/amber-golem.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

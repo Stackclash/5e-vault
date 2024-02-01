@@ -23,7 +23,7 @@ This scroll contains blasphemous words written in a dark ink, that when read alo
 > 
 > While attuned to this item you become cursed. While cursed, any time you take damage in combat, you must succeed on a DC 15 Wisdom saving throw. On a failed save, you must attack the creature that damaged you until you drop to 0 hit points or it does, or until you can't reach the creature to make a melee attack against it.
 > 
-> This curse ends permanently on both the item and you if the remove curse spell or similar magic is cast on either you or the cursed item.
+> This curse ends permanently on both the item and you if the [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell or similar magic is cast on either you or the cursed item.
 
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 57*

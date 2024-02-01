@@ -16,7 +16,7 @@ tags:
 statblock: inline
 aliases: ["Half-Ogre (Ogrillon)"]
 ---
-# [[5. Mechanics\Bestiary\Giant\Half Ogre Ogrillon.md|Half-Ogre (Ogrillon)]]
+# [[5. Mechanics/Bestiary/Giant/Half Ogre Ogrillon.md|Half-Ogre (Ogrillon)]]
 *Source: Monster Manual p. 238, Eberron: Rising from the Last War*  
 
 Ogres are as lazy of mind as they are strong of body. They live by raiding, scavenging, and killing for food and pleasure. The average adult specimen stands between 9 and 10 feet tall and weighs close to a thousand pounds.
@@ -103,3 +103,7 @@ The half-ogre offspring of an ogre and an orc is also called an ogrillon. An adu
 ## Environment
 
 underdark, mountain, forest, hill, urban, desert, arctic
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

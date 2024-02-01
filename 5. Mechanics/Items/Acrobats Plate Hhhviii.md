@@ -16,6 +16,6 @@ aliases:
 - **Properties**: Crafted by
 - **Weight**: 65.0 lbs.
 
-While wearing this armor, you have advantage on Dexterity saving throws and Dexterity (Acrobatics) checks. In addition, due to its unique materials and design, this armor has no Strength requirement and does not impose disadvantage on Dexterity (Stealth) checks.
+While wearing this armor, you have advantage on Dexterity saving throws and Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]]) checks. In addition, due to its unique materials and design, this armor has no Strength requirement and does not impose disadvantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 80*

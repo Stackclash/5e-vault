@@ -9,10 +9,10 @@ aliases: ["Herbalist"]
 # Herbalist
 *Source: Hamund's Herbalism Handbook p. 40*  
 
-- **Skill Proficiencies.** Nature, Survival  
-- **Tool Proficiencies.** Herbalism Kit  
+- **Skill Proficiencies.** [[/5. Mechanics/Rules/Skills.md#Nature\|Nature]], [[/5. Mechanics/Rules/Skills.md#Survival\|Survival]]  
+- **Tool Proficiencies.** [[5. Mechanics/Items/Herbalism Kit.md\|Herbalism Kit]]  
 - **Languages.** One of your choice  
-- **Equipment.** A set of traveller's clothes, a herbalism kit, a piece of jewellery containing a dried flower, and a belt pouch containing 10 gp.  
+- **Equipment.** A set of [[5. Mechanics/Items/Travelers Clothes.md\|traveller's clothes]], a [[5. Mechanics/Items/Herbalism Kit.md\|herbalism kit]], a piece of jewellery containing a dried flower, and a belt [[5. Mechanics/Items/Pouch.md\|pouch]] containing 10 gp.  
 
 From even before the discovery of farming, society has relied on the gifts that nature grows from its soil and the herbalists that gather and harness those gifts.
 

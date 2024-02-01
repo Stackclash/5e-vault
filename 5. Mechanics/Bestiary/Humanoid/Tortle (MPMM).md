@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Tortle"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Tortle (MPMM).md|Tortle]]
+# [[5. Mechanics/Bestiary/Humanoid/Tortle (MPMM).md|Tortle]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 244*  
 
 The generic tortle stat block here represents a warrior, especially the sort who travels far and wide.
@@ -75,3 +75,7 @@ Most tortles like to see how other folk live. A tortle can spend decades away fr
 ## Environment
 
 coastal
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

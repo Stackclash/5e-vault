@@ -10,7 +10,7 @@ tags:
 statblock: inline
 aliases: ["Mud Mephit"]
 ---
-# [[5. Mechanics\Bestiary\Elemental\Mud Mephit.md|Mud Mephit]]
+# [[5. Mechanics/Bestiary/Elemental/Mud Mephit.md|Mud Mephit]]
 *Source: Monster Manual p. 216*  
 
 ## Mephits
@@ -84,3 +84,7 @@ Mud mephits are slow, unctuous creatures of earth and water. They drone their co
 ## Environment
 
 swamp
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

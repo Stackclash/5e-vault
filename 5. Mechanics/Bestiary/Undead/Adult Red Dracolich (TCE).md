@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Adult Red Dracolich"]
 ---
-# [[5. Mechanics\Bestiary\Undead\Adult Red Dracolich (TCE).md|Adult Red Dracolich]]
+# [[5. Mechanics/Bestiary/Undead/Adult Red Dracolich (TCE).md|Adult Red Dracolich]]
 *Source: Tasha's Cauldron of Everything p. 137*  
 
 ```statblock
@@ -92,3 +92,7 @@ aliases: ["Adult Red Dracolich"]
 "image": "5. Mechanics/Bestiary/Undead/token/adult-red-dracolich.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Earth Elemental Myrmidon"]
 ---
-# [[5. Mechanics\Bestiary\Elemental\Earth Elemental Myrmidon (MPMM).md|Earth Elemental Myrmidon]]
+# [[5. Mechanics/Bestiary/Elemental/Earth Elemental Myrmidon (MPMM).md|Earth Elemental Myrmidon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 122*  
 
 ## Elemental Myrmidons
@@ -55,3 +55,7 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 "image": "5. Mechanics/Bestiary/Elemental/token/earth-elemental-myrmidon.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

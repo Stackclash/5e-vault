@@ -14,6 +14,6 @@ aliases:
 
 - **Properties**: Crafted by
 
-While wearing this helmet, if you move at least 10 feet straight towards a target in a turn and then make a successful shove attack, you may choose to deal `dice: 2d8|avg` (`2d8`) piercing damage to your target in addition to the shove attack's regular results.
+While wearing this helmet, if you move at least 10 feet straight towards a target in a turn and then make a successful [[/5. Mechanics/Rules/Actions.md#shove\|shove]] attack, you may choose to deal `dice: 2d8|avg` (`2d8`) piercing damage to your target in addition to the [[/5. Mechanics/Rules/Actions.md#shove\|shove]] attack's regular results.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 130*

@@ -20,9 +20,9 @@ This scroll contains blasphemous words written in a dark ink, that when read alo
 
 > [!quote]-  
 > 
-> While attuned to this item you become cursed. While cursed in this way, you become paralyzed and banished to the Ethereal Plane whenever you start your turn in sunlight. This effect persists so long as sunlight continues to shine on the spot you once were. If the spot you were once in no longer is covered in sunlight, you return to that spot and you are no longer paralyzed.
+> While attuned to this item you become cursed. While cursed in this way, you become [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]] and banished to the Ethereal Plane whenever you start your turn in sunlight. This effect persists so long as sunlight continues to shine on the spot you once were. If the spot you were once in no longer is covered in sunlight, you return to that spot and you are no longer [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]].
 > 
-> This curse ends permanently on both the item and you if the remove curse spell or similar magic is cast on either you or the cursed item.
+> This curse ends permanently on both the item and you if the [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell or similar magic is cast on either you or the cursed item.
 
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 56*

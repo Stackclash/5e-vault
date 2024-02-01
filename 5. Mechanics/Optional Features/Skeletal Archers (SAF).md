@@ -11,7 +11,7 @@ aliases: ["Skeletal Archers"]
 
 |    |    |
 |----|----|
-| Skeleton regular medium archers | Cost: — |
+| Skeleton regular medium archers | Cost:— |
 
 |    |    |    |    |
 |----|----|----|----|

@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Ancient Silver Dragon"]
 ---
-# [[5. Mechanics\Bestiary\Dragon\Ancient Silver Dragon.md|Ancient Silver Dragon]]
+# [[5. Mechanics/Bestiary/Dragon/Ancient Silver Dragon.md|Ancient Silver Dragon]]
 *Source: Monster Manual p. 116. Available in the SRD.*  
 
 The friendliest and most social of the metallic dragons, silver dragons cheerfully assist good creatures in need.
@@ -180,3 +180,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 ## Environment
 
 mountain, urban
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

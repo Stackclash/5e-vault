@@ -17,7 +17,7 @@ aliases:
 
 - **Damage**: 1d4 F
 - **Range**: 20/60
-- **Properties**: Crafted by, Finesse, Light, Thrown
+- **Properties**: Crafted by, [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 1.0 lbs.
 
 This dagger continually radiates a dull heat that intensifies when sunk into exposed flesh. When you deal damage with this weapon, you may choose for the damage type to be either piercing or fire damage.

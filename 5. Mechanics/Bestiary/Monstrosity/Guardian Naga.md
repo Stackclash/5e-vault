@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Guardian Naga"]
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Guardian Naga.md|Guardian Naga]]
+# [[5. Mechanics/Bestiary/Monstrosity/Guardian Naga.md|Guardian Naga]]
 *Source: Monster Manual p. 234. Available in the SRD.*  
 
 Wise and good, the beautiful guardian nagas protect sacred places and items of magical power from falling into evil hands. In their hidden redoubts, they research spells and hatch convoluted plots to thwart the evil designs of their enemies.
@@ -108,3 +108,7 @@ A naga doesn't require air, food, drink, or sleep.
 ## Environment
 
 forest, desert
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

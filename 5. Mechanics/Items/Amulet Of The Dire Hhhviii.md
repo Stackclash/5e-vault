@@ -24,7 +24,7 @@ While enlarged in this way, you have advantage on Strength checks and Strength s
 | dice: d4 | Mutation |
 |----------|----------|
 | 1 | You gain the incredible regenerative abilities of the trolls. You regain 10 hit points at the start of each of your turns so long as you start with at least 1 hit point and you have not taken any acid or fire damage since the end of your last turn. |
-| 2 | You gain an extra head. You have advantage on saving throws against becoming blinded or deafened, and you can still function even if one of your heads is destroyed or removed from your body. |
+| 2 | You gain an extra head. You have advantage on saving throws against becoming [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]] or [[/5. Mechanics/Rules/Conditions.md#deafened\|deafened]], and you can still function even if one of your heads is destroyed or removed from your body. |
 | 3 | You gain an extra set of arms tipped with claws. As a bonus action, you may make an unarmed strike with them, dealing `dice: 1d6\|avg` (`1d6`) + your Strength modifier slashing damage on a successful hit. |
 | 4 | Your skin becomes green and tough, giving you a +2 bonus to AC. |
 ^trollish-mutation

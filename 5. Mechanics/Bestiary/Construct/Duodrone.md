@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Duodrone"]
 ---
-# [[5. Mechanics\Bestiary\Construct\Duodrone.md|Duodrone]]
+# [[5. Mechanics/Bestiary/Construct/Duodrone.md|Duodrone]]
 *Source: Monster Manual p. 225*  
 
 The blocky duodrones supervise units of monodrones and can perform up to two tasks at a time.
@@ -89,3 +89,7 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
 "image": "5. Mechanics/Bestiary/Construct/token/duodrone.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

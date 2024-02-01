@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Ancient Ruby Dragon"]
 ---
-# [[5. Mechanics\Bestiary\Dragon\Ancient Ruby Dragon (SAF).md|Ancient Ruby Dragon]]
+# [[5. Mechanics/Bestiary/Dragon/Ancient Ruby Dragon (SAF).md|Ancient Ruby Dragon]]
 *Source: Strongholds and Followers p. 203*  
 
 The rubies protect the knowledge of reality, which they call realitas, the essential thing that separates real things from illusion.
@@ -87,3 +87,7 @@ They are measured and formal, slow to give trust. They like seeing things done p
 "image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Large%20Ruby%20Dragon.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

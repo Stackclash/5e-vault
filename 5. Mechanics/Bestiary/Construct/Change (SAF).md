@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Change"]
 ---
-# [[5. Mechanics\Bestiary\Construct\Change (SAF).md|Change]]
+# [[5. Mechanics/Bestiary/Construct/Change (SAF).md|Change]]
 *Source: Strongholds and Followers p. 229*  
 
 A close cousin to the Inexorables of Death and Fate, the Law of Change states that what has been done cannot be undone. Change opposes any magical attempt to reverse what is done, such as using magical healing to close a wound. "You cannot rewrite the world."
@@ -66,3 +66,7 @@ Change is more versatile than its simpler cousins. Its javelin grants it facilit
 "image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Change.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

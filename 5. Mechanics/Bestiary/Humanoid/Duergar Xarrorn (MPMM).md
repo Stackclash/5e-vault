@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Duergar Xarrorn"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Duergar Xarrorn (MPMM).md|Duergar Xarrorn]]
+# [[5. Mechanics/Bestiary/Humanoid/Duergar Xarrorn (MPMM).md|Duergar Xarrorn]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 111*  
 
 Xarrorn are specialists who construct weapons using a mixture of alchemy and psionics.
@@ -101,3 +101,7 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 ## Environment
 
 mountain, underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

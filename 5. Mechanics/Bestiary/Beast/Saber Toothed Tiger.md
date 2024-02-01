@@ -11,7 +11,7 @@ tags:
 statblock: inline
 aliases: ["Saber-Toothed Tiger"]
 ---
-# [[5. Mechanics\Bestiary\Beast\Saber Toothed Tiger.md|Saber-Toothed Tiger]]
+# [[5. Mechanics/Bestiary/Beast/Saber Toothed Tiger.md|Saber-Toothed Tiger]]
 *Source: Monster Manual p. 336, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -69,3 +69,7 @@ aliases: ["Saber-Toothed Tiger"]
 ## Environment
 
 mountain, arctic
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

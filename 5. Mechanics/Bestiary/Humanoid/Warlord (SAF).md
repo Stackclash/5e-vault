@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Warlord"]
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Warlord (SAF).md|Warlord]]
+# [[5. Mechanics/Bestiary/Humanoid/Warlord (SAF).md|Warlord]]
 *Source: Strongholds and Followers p. 76*  
 
 ```statblock
@@ -64,3 +64,7 @@ aliases: ["Warlord"]
 - "SaF"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

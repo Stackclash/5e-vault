@@ -18,7 +18,7 @@ cost: 20000
 
 ## Description:
 
-A delicacy sought by nobles and wealthy merchants from across the world, the golden truffle is renowned for both its heady distinctive flavour as well as its purported medicinal properties. While it is possible to spend time and effort to find these buried treasures by oneself, enterprising farmers have learned how to train other creatures to sniff and seek them out.Reportedly, the best companion for the job is the ever-threatening owlbear, as their sharp sense of smell and unwillingness to eat the truffles themselves makes them perfect for the job—if you can train them not to try and eat you first.
+A delicacy sought by nobles and wealthy merchants from across the world, the golden truffle is renowned for both its heady distinctive flavour as well as its purported medicinal properties. While it is possible to spend time and effort to find these buried treasures by oneself, enterprising farmers have learned how to train other creatures to sniff and seek them out.Reportedly, the best companion for the job is the ever-threatening [[5. Mechanics/Bestiary/Monstrosity/Owlbear.md\|owlbear]], as their sharp sense of smell and unwillingness to eat the truffles themselves makes them perfect for the job—if you can train them not to try and eat you first.
 
 ## Effect:
 

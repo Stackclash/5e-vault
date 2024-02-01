@@ -13,7 +13,7 @@ tags:
 statblock: inline
 aliases: ["Constrictor Snake"]
 ---
-# [[5. Mechanics\Bestiary\Beast\Constrictor Snake.md|Constrictor Snake]]
+# [[5. Mechanics/Bestiary/Beast/Constrictor Snake.md|Constrictor Snake]]
 *Source: Monster Manual p. 320. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -57,3 +57,7 @@ aliases: ["Constrictor Snake"]
 ## Environment
 
 underwater, forest, swamp, desert
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

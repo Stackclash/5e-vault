@@ -9,7 +9,7 @@ tags:
 statblock: inline
 aliases: ["Princip"]
 ---
-# [[5. Mechanics\Bestiary\Celestial\Princip (SAF).md|Princip]]
+# [[5. Mechanics/Bestiary/Celestial/Princip (SAF).md|Princip]]
 *Source: Strongholds and Followers p. 155*  
 
 Herald of the Righteous Power, the Princip arrives ready to crown an ally, bestowing on them a greater destiny, granting them immunity to spells that charm or dominate and raising one ability to god-like levels.
@@ -103,3 +103,7 @@ Um, what? The endless what now? Well, it tried. It probably means, "You're gonna
 "image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Princip.png"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```
