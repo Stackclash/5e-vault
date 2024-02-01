@@ -5,6 +5,6 @@ let tablePage = dv.pages('"5. Mechanics/Tables"').filter(p => {
 
 if (tablePage) {
     dv.header(2, "Harvester Table")
-    console.log(dv.blockLink(tablePage.file.path, "dc-item-description-value-weight-crafting", true, input.current.aliases[0]).toString().replace(' > ', '#^'))
+    console.log(dv.blockLink(tablePage.file.path, "dc-item-description-value-weight-crafting", true, input.current.aliases[0]))
     dv.blockLink(tablePage.file.path, "dc-item-description-value-weight-crafting", true, input.current.aliases[0])
 }

@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DM Screen/Configuration.md",
-                "mode": "preview",
+                "file": "5. Mechanics/Bestiary/Monstrosity/Basilisk.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. DM Screen/Configuration.md",
+                "file": "5. Mechanics/Bestiary/Monstrosity/Basilisk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. DM Screen/Configuration.md",
+                "file": "5. Mechanics/Bestiary/Monstrosity/Basilisk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DM Screen/Configuration.md"
+                "file": "5. Mechanics/Bestiary/Monstrosity/Basilisk.md"
               }
             }
           },
@@ -197,11 +197,10 @@
   },
   "active": "76fd26345d08cd54",
   "lastOpenFiles": [
-    "1. DM Screen/1. DM Screen.md",
+    "5. Mechanics/Bestiary/Monstrosity/Monstrosity.md",
     "5. Mechanics/Bestiary/Monstrosity/Bulette.md",
     "test.js",
     "5. Mechanics/Bestiary/Monstrosity/Behir.md",
-    "5. Mechanics/Bestiary/Monstrosity/Monstrosity.md",
     "5. Mechanics/Bestiary/Dragon/Dragon.md",
     "5. Mechanics/Bestiary/Dragon/Gold Dragon Wyrmling.md",
     "5. Mechanics/Bestiary/Dragon/Adult Red Dragon.md",
