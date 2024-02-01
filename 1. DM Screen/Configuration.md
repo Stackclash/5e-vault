@@ -78,9 +78,17 @@ actions:
     str: Session
 ```
 # Stats
-```dataview
-TABLE WITHOUT ID rows
-GROUP BY split(file.folder, '/')[0]
+```dataviewjs
+const pages = dv.pages().filter(p => {
+    return p.file.folder.includes('Shops') ||
+        p.file.folder.includes('Settlements') ||
+        p.file.folder.includes('Regions') ||
+        p.file.folder.includes('Worlds') ||
+        p.file.folder.includes('Bestiary') ||
+        p.file.folder.includes('NPCs')
+})
+
+console.log(pages)
 ```
 # Fix Notes
 ## NPCs
