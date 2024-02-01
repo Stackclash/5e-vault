@@ -7,9 +7,13 @@ if (tablePage) {
     dv.header(2, "Harvester Table")
     const blockLink = dv.blockLink(tablePage.file.path, "dc-item-description-value-weight-crafting", true, input.current.aliases[0])
     const blockLinkString = blockLink.toString()
-    const pageContent = await dv.io.load(blockLink)
+    const pageContent = await dv.io.load(tablePage.file.path)
     const fileLink = dv.fileLink(tablePage.file.path)
     const fileLinkString = dv.fileLink(tablePage.file.path).toString()
+
+    const table = pageContent.match(/\|(?:.*\n.*)+\|(?=\n\^dc-item-description-value-weight-crafting)/)
+
+    console.log(table)
 
     // console.log(blockLink)
     // console.log(blockLinkString)
@@ -18,8 +22,4 @@ if (tablePage) {
     // dv.paragraph(blockLink)
     // dv.paragraph(blockLinkString)
     // dv.paragraph(pageContent)
-//     dv.paragraph(`\`\`\`expander
-// ${tablePage.file.name}
-// \`\`\``)
-    dv.span(`![[${tablePage.file.path}#^dc-item-description-value-weight-crafting]]`)
 }
