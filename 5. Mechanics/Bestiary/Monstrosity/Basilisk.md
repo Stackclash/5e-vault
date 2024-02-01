@@ -89,5 +89,5 @@ Some alchemists are said to know how to process the basilisk's gullet and the fl
 mountain
 
 ```dataviewjs
-await dv.view('monster')
+await dv.view('monsterHarvesterTable', {current: dv.current()})
 ```
