@@ -81,10 +81,20 @@ frame: DnDBGeorge
 ## Notes
 
 ```dataviewjs
-const logs = dv.pages('"3. The Party/Session Logs"').filter(p => contains(p.outlinks, dv.current().file.link))
+const logs = dv.pages('"3. The Party/Session Logs"').filter(p => p.file.outlinks.includes(dv.current().file.link))
 
 const mentions = []
-logs.forEach(l => {
-	
+console.log(logs)
+logs.forEach(async l => {
+	const content = await dv.io.load(l.file.path).toString()
+
+  content.split('/n').forEach(line => {
+    // console.log(line)
+    if (new RegExp(dv.current().file.name).test(line)) {
+      mentions.push(line)
+    }
+  })
 })
+
+dv.list(mentions)
 ```
