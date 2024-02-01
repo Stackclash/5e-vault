@@ -84,17 +84,8 @@ frame: DnDBGeorge
 const logs = dv.pages('"3. The Party/Session Logs"').filter(p => p.file.outlinks.includes(dv.current().file.link))
 
 const mentions = []
-console.log(logs)
-logs.forEach(async l => {
-	const content = await dv.io.load(l.file.path).toString()
 
-  content.split('/n').forEach(line => {
-    // console.log(line)
-    if (new RegExp(dv.current().file.name).test(line)) {
-      mentions.push(line)
-    }
-  })
-})
+const logsContent = await Promise.all(logs.map(l => dv.io.load(l.file.path).toString()))
 
-dv.list(mentions)
+console.log(logsContent)
 ```
