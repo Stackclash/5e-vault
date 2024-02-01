@@ -64393,58 +64393,6 @@
       }
     ],
     [
-      "Lady Fiona Wachter (CoS)",
-      {
-        "name": "Lady Fiona Wachter (CoS)",
-        "size": "Medium",
-        "type": "humanoid",
-        "subtype": "human",
-        "alignment": "Lawful Evil",
-        "ac": 10,
-        "hp": 27,
-        "hit_dice": "5d8 + 5",
-        "stats": [
-          10,
-          10,
-          12,
-          13,
-          16,
-          13
-        ],
-        "speed": "30 ft.",
-        "skillsaves": {
-          "Medicine": 7,
-          "Religion": 5,
-          "Persuasion": 3
-        },
-        "senses": "passive Perception 13",
-        "languages": "any two languages",
-        "cr": "2",
-        "traits": [
-          {
-            "desc": "Fiona is a 5th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 13, dice: d20+5 (+5 to hit) with spell attacks). Fiona has the following cleric spells prepared:\n\nCantrips (at will): light, mending, thaumaturgy\n\n1st level (4 slots): command, purify food and drink, sanctuary\n\n2nd level (3 slots): augury, gentle repose, hold person\n\n3rd level (2 slots): animate dead, create food and water",
-            "name": "spells"
-          },
-          {
-            "desc": "As a bonus action, Fiona can expend a spell slot to cause its melee weapon attacks to magically deal an extra dice: 3d6|avg (3d6) radiant damage to a target on a hit. This benefit lasts until the end of the turn. If Fiona expends a spell slot of 2nd level or higher, the extra damage increases by dice: 1d6|avg (1d6) for each level above 1st.",
-            "name": "Divine Eminence"
-          }
-        ],
-        "actions": [
-          {
-            "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target. Hit: dice: 1d6|avg (1d6) bludgeoning damage.",
-            "name": "Mace"
-          }
-        ],
-        "source": [
-          "CoS"
-        ],
-        "image": "4. World Almanac/NPCs/token/lady-fiona-wachter.png",
-        "note": "4. World Almanac/NPCs/Lady Fiona Wachter.md",
-        "mtime": 1706731856469
-      }
-    ],
-    [
       "Madam Eva (CoS)",
       {
         "name": "Madam Eva (CoS)",
@@ -65051,6 +64999,72 @@
         "image": "4. World Almanac/NPCs/token/zuleika-toranescu.png",
         "note": "4. World Almanac/NPCs/Zuleika Toranescu.md",
         "mtime": 1706731856474
+      }
+    ],
+    [
+      "Baba Lysaga (CoS)",
+      {
+        "name": "Baba Lysaga (CoS)",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "human, shapechanger",
+        "alignment": "Chaotic Evil",
+        "ac": 15,
+        "hp": 120,
+        "hit_dice": "16d8 + 48",
+        "stats": [
+          18,
+          10,
+          16,
+          20,
+          17,
+          13
+        ],
+        "speed": "30 ft.",
+        "saves": {
+          "Wisdom": 7
+        },
+        "skillsaves": {
+          "Religion": 13,
+          "Arcana": 13
+        },
+        "senses": "passive Perception 13",
+        "languages": "Abyssal, Common, Draconic, Dwarvish, Giant",
+        "cr": "11",
+        "traits": [
+          {
+            "desc": "Baba Lysaga is a 16th-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 17, dice: d20+9 (+9 to hit) with spell attacks). Baba Lysaga has the following wizard spells prepared:\n\nCantrips (at will): acid splash, fire bolt, light, mage hand, prestidigitation\n\n1st level (4 slots): detect magic, magic missile, sleep, witch bolt\n\n2nd level (3 slots): crown of madness, enlarge/reduce, misty step\n\n3rd level (3 slots): dispel magic, fireball, lightning bolt\n\n4th level (3 slots): blight, Evard's black tentacles, polymorph\n\n5th level (2 slots): cloudkill, geas, scrying\n\n6th level (1 slots): programmed illusion, true seeing\n\n7th level (1 slots): finger of death, mirage arcane\n\n8th level (1 slots): power word stun",
+            "name": "spells"
+          },
+          {
+            "desc": "Baba Lysaga can use an action to polymorph into a [[5. Mechanics/Bestiary/Beast/Swarm Of Insects.md|swarm of insects]] (flies), or back into her true form. While in swarm form, she has a walking speed of 5 feet and a flying speed of 30 feet. Anything she is wearing transforms with her, but nothing she is carrying does.",
+            "name": "Shapechanger"
+          },
+          {
+            "desc": "Baba Lysaga is shielded against divination magic, as though protected by a nondetection spell.",
+            "name": "Blessing of Mother Night"
+          }
+        ],
+        "actions": [
+          {
+            "desc": "Baba Lysaga makes three attacks with her quarterstaff.",
+            "name": "Multiattack"
+          },
+          {
+            "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target. Hit: dice: 1d6 + 4|avg (1d6 + 4) bludgeoning damage, or dice: 1d8 + 4|avg (1d8 + 4) bludgeoning damage if wielded with two hands.",
+            "name": "Quarterstaff"
+          },
+          {
+            "desc": "Baba Lysaga summons dice: 1d4|avg (1d4) swarms of insects. A summoned swarm appears in an unoccupied space within 60 feet of Baba Lysaga and acts as her ally. It remains until it dies or until Baba Lysaga dismisses it as an action.",
+            "name": "Summon Swarms of Insects (Recharges after a Short or Long Rest)"
+          }
+        ],
+        "source": [
+          "CoS"
+        ],
+        "image": "4. World Almanac/NPCs/token/baba-lysaga.png",
+        "note": "4. World Almanac/NPCs/Baba Lysaga.md",
+        "mtime": 1706816033017
       }
     ]
   ],
