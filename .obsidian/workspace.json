@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Resources/Books/Hamunds Herbalism Handbook/3 Chapter-2 Rules And Mechanics.md",
+                "file": "2. Scratch Notes/House Rule Ideas.md",
                 "mode": "preview",
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Resources/Books/Hamunds Herbalism Handbook/3 Chapter-2 Rules And Mechanics.md",
+                "file": "2. Scratch Notes/House Rule Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Resources/Books/Hamunds Herbalism Handbook/3 Chapter-2 Rules And Mechanics.md",
+                "file": "2. Scratch Notes/House Rule Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Resources/Books/Hamunds Herbalism Handbook/3 Chapter-2 Rules And Mechanics.md"
+                "file": "2. Scratch Notes/House Rule Ideas.md"
               }
             }
           },
@@ -185,8 +185,16 @@
   },
   "active": "460e326f33b6e7e9",
   "lastOpenFiles": [
-    "6. Resources/Books/Hamunds Herbalism Handbook/2 Chapter-1 Introduction.md",
+    "2. Scratch Notes/D&D Ideas.md",
+    "2. Scratch Notes/Fields for NPCs.md",
+    "2. Scratch Notes/Fields for Locations.md",
+    "2. Scratch Notes/To-Do List.md",
+    "6. Resources/5e Modules/Curse Of Strahd/09 Chapter-7 Argynvostholt.md",
+    "6. Resources/Books/Hamunds Herbalism Handbook/4 Chapter-3 The Herb Compendium.md",
+    "6. Resources/Books/Hamunds Herbalism Handbook/5 Chapter-4 Miscellaneous.md",
+    "5. Mechanics/Items/Golden Pine Hhbh.md",
     "6. Resources/Books/Hamunds Herbalism Handbook/3 Chapter-2 Rules And Mechanics.md",
+    "6. Resources/Books/Hamunds Herbalism Handbook/2 Chapter-1 Introduction.md",
     "6. Resources/Books/Hamunds Herbalism Handbook/1 Hamunds Herbalism Handbook.md",
     "5. Mechanics/Bestiary/Giant/Giant.md",
     "5. Mechanics/Bestiary/Giant/Frost Giant.md",
@@ -204,14 +212,6 @@
     "5. Mechanics/Bestiary/Fey/Fey.md",
     "5. Mechanics/Bestiary/Fey/Dryad.md",
     "5. Mechanics/Bestiary/Humanoid/Werewolf.md",
-    "5. Mechanics/Bestiary/Fey/Hobgoblin Iron Shadow (MPMM).md",
-    "5. Mechanics/Bestiary/Fey/Hobgoblin Devastator (MPMM).md",
-    "5. Mechanics/Bestiary/Fey/Green Hag.md",
-    "5. Mechanics/Bestiary/Fey/Dusk Hag (ERLW).md",
-    "5. Mechanics/Bestiary/Fey/Ash Marshal (SAF).md",
-    "5. Mechanics/Bestiary/Fey/Autumn Eladrin (MPMM).md",
-    "5. Mechanics/Bestiary/Fey/Bheur Hag (MPMM).md",
-    "5. Mechanics/Bestiary/Fey/Blink Dog.md",
     "test.js",
     "z_Scripts/Dataview/monsterHarvesterTable.js",
     "6. Resources/5e Modules/Curse Of Strahd/img/024-005.jpg",
