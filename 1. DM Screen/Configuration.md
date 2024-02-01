@@ -86,7 +86,7 @@ const pages = dv.pages().filter(p => {
         p.file.folder.includes('Worlds') ||
         p.file.folder.includes('Bestiary') ||
         p.file.folder.includes('NPCs')
-})
+}).groupBy(p => p.file.folder.split('/').slice(-1)).sort(g => g.key[0])
 
 console.log(pages)
 ```
