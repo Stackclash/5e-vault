@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Scratch Notes/House Rule Ideas.md",
+                "file": "5. Mechanics/Rules/Variant Rules/Diagonals.md",
                 "mode": "preview",
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Scratch Notes/House Rule Ideas.md",
+                "file": "5. Mechanics/Rules/Variant Rules/Diagonals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Scratch Notes/House Rule Ideas.md",
+                "file": "5. Mechanics/Rules/Variant Rules/Diagonals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Scratch Notes/House Rule Ideas.md"
+                "file": "5. Mechanics/Rules/Variant Rules/Diagonals.md"
               }
             }
           },
@@ -185,6 +185,9 @@
   },
   "active": "460e326f33b6e7e9",
   "lastOpenFiles": [
+    "5. Mechanics/Rules/Variant Rules/Action Options.md",
+    "5. Mechanics/Rules/Variant Rules/Alien Technology.md",
+    "2. Scratch Notes/House Rule Ideas.md",
     "2. Scratch Notes/D&D Ideas.md",
     "2. Scratch Notes/Fields for NPCs.md",
     "2. Scratch Notes/Fields for Locations.md",
@@ -209,9 +212,6 @@
     "4. World Almanac/Regions/Barovia.md",
     "5. Mechanics/Bestiary/Legendary Group/Strahd Von Zarovich (COS).md",
     "4. World Almanac/NPCs/Urwin Martikov.md",
-    "5. Mechanics/Bestiary/Fey/Fey.md",
-    "5. Mechanics/Bestiary/Fey/Dryad.md",
-    "5. Mechanics/Bestiary/Humanoid/Werewolf.md",
     "test.js",
     "z_Scripts/Dataview/monsterHarvesterTable.js",
     "6. Resources/5e Modules/Curse Of Strahd/img/024-005.jpg",
