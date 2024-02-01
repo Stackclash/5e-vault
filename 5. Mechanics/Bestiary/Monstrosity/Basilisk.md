@@ -91,3 +91,9 @@ mountain
 ```dataviewjs
 await dv.view('monsterHarvesterTable', {current: dv.current()})
 ```
+
+```dataview
+LIST FROM "5. Mechanics/Tables"
+WHERE contains(file.name, "Hhhvi")
+
+```
