@@ -49,7 +49,7 @@ aliases: ["Giant Weasel"]
 - "MM"
 - "TftYP"
 - "GoS"
-"image": "compendium/bestiary/beast/token/giant-weasel.png"
+"image": "5. Mechanics/Bestiary/Beast/token/giant-weasel.png"
 ```
 ^statblock
 

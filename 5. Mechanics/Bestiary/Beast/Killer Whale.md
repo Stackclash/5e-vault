@@ -53,7 +53,7 @@ aliases: ["Killer Whale"]
 - "EGW"
 - "MOT"
 - "IDRotF"
-"image": "compendium/bestiary/beast/token/killer-whale.png"
+"image": "5. Mechanics/Bestiary/Beast/token/killer-whale.png"
 ```
 ^statblock
 

@@ -54,7 +54,7 @@ An awakened shrub is an ordinary shrub given sentience and mobility by the [[5. 
 - "WBtW"
 - "PSI"
 - "DoDk"
-"image": "compendium/bestiary/plant/token/awakened-shrub.png"
+"image": "5. Mechanics/Bestiary/Plant/token/awakened-shrub.png"
 ```
 ^statblock
 

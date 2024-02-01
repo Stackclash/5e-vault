@@ -77,7 +77,7 @@ A naga doesn't require air, food, drink, or sleep.
 - "MM"
 - "DSotDQ"
 - "BMT"
-"image": "compendium/bestiary/undead/token/bone-naga-spirit.png"
+"image": "5. Mechanics/Bestiary/Undead/token/bone-naga-spirit.png"
 ```
 ^statblock
 

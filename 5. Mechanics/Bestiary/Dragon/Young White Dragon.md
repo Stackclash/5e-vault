@@ -151,7 +151,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "LK"
 - "ToFW"
 - "BMT"
-"image": "compendium/bestiary/dragon/token/young-white-dragon.png"
+"image": "5. Mechanics/Bestiary/Dragon/token/young-white-dragon.png"
 ```
 ^statblock
 

@@ -76,7 +76,7 @@ Guards include members of a city watch, sentries in a citadel or fortified town,
 - "SatO"
 - "ToFW"
 - "DoDk"
-"image": "compendium/bestiary/humanoid/token/guard.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/guard.png"
 ```
 ^statblock
 

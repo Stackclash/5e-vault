@@ -97,7 +97,7 @@ A gargoyle doesn't require air, food, drink, or sleep.
 - "JttRC"
 - "BMT"
 - "DoDk"
-"image": "compendium/bestiary/elemental/token/gargoyle.png"
+"image": "5. Mechanics/Bestiary/Elemental/token/gargoyle.png"
 ```
 ^statblock
 

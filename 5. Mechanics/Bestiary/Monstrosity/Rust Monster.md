@@ -87,7 +87,7 @@ Rust monsters are rarely found in large numbers, preferring to hunt alone or in 
 - "EGW"
 - "IDRotF"
 - "SatO"
-"image": "compendium/bestiary/monstrosity/token/rust-monster.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/rust-monster.png"
 ```
 ^statblock
 

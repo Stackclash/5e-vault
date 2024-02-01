@@ -88,7 +88,7 @@ Rulers, nobles, merchants, guildmasters, and other wealthy individuals use spies
 - "ToFW"
 - "BMT"
 - "DoDk"
-"image": "compendium/bestiary/humanoid/token/spy.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/spy.png"
 ```
 ^statblock
 

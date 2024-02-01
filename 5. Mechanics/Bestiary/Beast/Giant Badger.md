@@ -50,7 +50,7 @@ aliases: ["Giant Badger"]
 - "WDMM"
 - "JttRC"
 - "PaBTSO"
-"image": "compendium/bestiary/beast/token/giant-badger.png"
+"image": "5. Mechanics/Bestiary/Beast/token/giant-badger.png"
 ```
 ^statblock
 

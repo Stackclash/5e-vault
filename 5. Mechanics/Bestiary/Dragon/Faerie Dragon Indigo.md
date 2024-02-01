@@ -104,7 +104,7 @@ CR 1 (200 XP) For a red, orange, or yellow faerie dragon; 2 (450 XP) for a green
   "name": "Euphoria Breath (Recharge 5-6)"
 "source":
 - "MM"
-"image": "compendium/bestiary/dragon/token/faerie-dragon-indigo.png"
+"image": "5. Mechanics/Bestiary/Dragon/token/faerie-dragon-indigo.png"
 ```
 ^statblock
 

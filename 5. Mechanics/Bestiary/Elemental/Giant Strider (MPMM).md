@@ -65,7 +65,7 @@ Firenewts prize giant striders and seek to adopt them whenever possible. They pr
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/elemental/token/giant-strider.png"
+"image": "5. Mechanics/Bestiary/Elemental/token/giant-strider.png"
 ```
 ^statblock
 

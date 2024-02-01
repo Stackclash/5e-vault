@@ -84,6 +84,6 @@ Vampiric mind flayers are physically and mentally unstable beings. Ghoulish crea
   "name": "Disrupt Psyche (Recharge 5-6)"
 "source":
 - "VRGR"
-"image": "compendium/bestiary/undead/token/vampiric-mind-flayer.png"
+"image": "5. Mechanics/Bestiary/Undead/token/vampiric-mind-flayer.png"
 ```
 ^statblock

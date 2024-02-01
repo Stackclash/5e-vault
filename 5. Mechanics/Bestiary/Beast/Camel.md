@@ -40,7 +40,7 @@ aliases: ["Camel"]
 - "MM"
 - "GoS"
 - "CM"
-"image": "compendium/bestiary/beast/token/camel.png"
+"image": "5. Mechanics/Bestiary/Beast/token/camel.png"
 ```
 ^statblock
 

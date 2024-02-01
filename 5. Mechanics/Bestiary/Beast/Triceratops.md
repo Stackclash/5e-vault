@@ -58,7 +58,7 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
 - "MM"
 - "ToA"
 - "ToFW"
-"image": "compendium/bestiary/beast/token/triceratops.png"
+"image": "5. Mechanics/Bestiary/Beast/token/triceratops.png"
 ```
 ^statblock
 

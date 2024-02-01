@@ -71,7 +71,7 @@ An iron shadow is usually recruited from the ranks of the Feywild's hobgoblin ar
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/fey/token/hobgoblin-iron-shadow.png"
+"image": "5. Mechanics/Bestiary/Fey/token/hobgoblin-iron-shadow.png"
 ```
 ^statblock
 

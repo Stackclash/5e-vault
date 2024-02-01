@@ -60,7 +60,7 @@ Taking its name from its crimson feathers and aggressive nature, the blood hawk 
 - "GoS"
 - "EGW"
 - "CM"
-"image": "compendium/bestiary/beast/token/blood-hawk.png"
+"image": "5. Mechanics/Bestiary/Beast/token/blood-hawk.png"
 ```
 ^statblock
 

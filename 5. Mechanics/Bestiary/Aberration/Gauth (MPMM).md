@@ -93,7 +93,7 @@ A [[5. Mechanics/Bestiary/Aberration/Beholder.md|beholder]] usually drives away 
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/aberration/token/gauth.png"
+"image": "5. Mechanics/Bestiary/Aberration/token/gauth.png"
 ```
 ^statblock
 

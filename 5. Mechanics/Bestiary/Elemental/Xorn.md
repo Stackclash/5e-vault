@@ -74,7 +74,7 @@ Possessed of the power of elemental earth, a xorn glides through stone and dirt 
 - "WDMM"
 - "PaBTSO"
 - "SatO"
-"image": "compendium/bestiary/elemental/token/xorn.png"
+"image": "5. Mechanics/Bestiary/Elemental/token/xorn.png"
 ```
 ^statblock
 

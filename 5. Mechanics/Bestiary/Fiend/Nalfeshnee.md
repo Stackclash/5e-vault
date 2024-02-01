@@ -246,6 +246,6 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - "CM"
 - "BMT"
 - "DoDk"
-"image": "compendium/bestiary/fiend/token/nalfeshnee.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/nalfeshnee.png"
 ```
 ^statblock

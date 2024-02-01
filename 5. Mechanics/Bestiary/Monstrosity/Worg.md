@@ -57,7 +57,7 @@ A worg is an evil predator that delights in hunting and devouring creatures weak
 - "CM"
 - "BMT"
 - "DoDk"
-"image": "compendium/bestiary/monstrosity/token/worg.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/worg.png"
 ```
 ^statblock
 

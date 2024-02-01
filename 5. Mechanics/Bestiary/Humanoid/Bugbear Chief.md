@@ -80,7 +80,7 @@ Despite their intimidating builds, bugbears move with surprising stealth. They a
 - "MM"
 - "TftYP"
 - "CRCotN"
-"image": "compendium/bestiary/humanoid/token/bugbear-chief.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/bugbear-chief.png"
 ```
 ^statblock
 

@@ -146,7 +146,7 @@ A sphinx presides over an ancient temple, sepulcher, or vault, within which are 
 - "MOT"
 - "CM"
 - "SatO"
-"image": "compendium/bestiary/monstrosity/token/androsphinx.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/androsphinx.png"
 ```
 ^statblock
 

@@ -100,7 +100,7 @@ The pseudodragon can serve another creature as a familiar, forming a magic, tele
 - "EGW"
 - "IDRotF"
 - "DoDk"
-"image": "compendium/bestiary/dragon/token/pseudodragon.png"
+"image": "5. Mechanics/Bestiary/Dragon/token/pseudodragon.png"
 ```
 ^statblock
 

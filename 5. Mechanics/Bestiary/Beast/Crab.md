@@ -46,7 +46,7 @@ aliases: ["Crab"]
 - "ToA"
 - "GoS"
 - "BGDIA"
-"image": "compendium/bestiary/beast/token/crab.png"
+"image": "5. Mechanics/Bestiary/Beast/token/crab.png"
 ```
 ^statblock
 

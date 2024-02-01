@@ -65,7 +65,7 @@ aliases: ["Swarm of Wasps"]
 - "WDMM"
 - "GoS"
 - "WBtW"
-"image": "compendium/bestiary/beast/token/swarm-of-wasps.png"
+"image": "5. Mechanics/Bestiary/Beast/token/swarm-of-wasps.png"
 ```
 ^statblock
 

@@ -77,7 +77,7 @@ Darkmantles are found throughout the Underdark, but they are equally common on t
 - "WDMM"
 - "WBtW"
 - "KftGV"
-"image": "compendium/bestiary/monstrosity/token/darkmantle.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/darkmantle.png"
 ```
 ^statblock
 

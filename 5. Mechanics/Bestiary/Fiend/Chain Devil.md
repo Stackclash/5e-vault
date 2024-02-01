@@ -203,6 +203,6 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - "BGDIA"
 - "PaBTSO"
 - "BMT"
-"image": "compendium/bestiary/fiend/token/chain-devil.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/chain-devil.png"
 ```
 ^statblock

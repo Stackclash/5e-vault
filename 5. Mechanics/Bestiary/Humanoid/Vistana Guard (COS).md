@@ -71,6 +71,6 @@ aliases: ["Vistana Guard"]
   "name": "Evil Eye (Recharges after a Short or Long Rest)"
 "source":
 - "CoS"
-"image": "compendium/bestiary/humanoid/token/vistana-guard.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/vistana-guard.png"
 ```
 ^statblock

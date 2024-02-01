@@ -106,6 +106,6 @@ Whether these tall, gaunt creatures were peaceful or savage, cultured or primiti
 - "AATM"
 - "SatO"
 - "BMT"
-"image": "compendium/bestiary/humanoid/token/githyanki-knight.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/githyanki-knight.png"
 ```
 ^statblock

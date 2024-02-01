@@ -77,7 +77,7 @@ When glory-obsessed warriors die in battle without honor, they might haunt the s
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/undead/token/sword-wraith-commander.png"
+"image": "5. Mechanics/Bestiary/Undead/token/sword-wraith-commander.png"
 ```
 ^statblock
 

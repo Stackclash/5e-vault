@@ -74,6 +74,6 @@ Each Valenar animal can be customized with an ancestral gift, a supernatural tra
   "name": "Bite"
 "source":
 - "ERLW"
-"image": "compendium/bestiary/fey/token/valenar-hound.png"
+"image": "5. Mechanics/Bestiary/Fey/token/valenar-hound.png"
 ```
 ^statblock

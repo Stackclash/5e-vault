@@ -101,7 +101,7 @@ Shadar-kai encountered outside the Shadowfell are often on quests to find the mo
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/humanoid/token/shadar-kai-soul-monger.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/shadar-kai-soul-monger.png"
 ```
 ^statblock
 

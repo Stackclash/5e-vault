@@ -97,7 +97,7 @@ Asmodeus, Lord of the Nine Hells, has been known to impersonate duergar gods in 
 - "EGW"
 - "IDRotF"
 - "KftGV"
-"image": "compendium/bestiary/humanoid/token/duergar.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/duergar.png"
 ```
 ^statblock
 

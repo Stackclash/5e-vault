@@ -78,7 +78,7 @@ Githyanki descend from an ancient people who were also the progenitors of githze
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/humanoid/token/githyanki-kithrak.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/githyanki-kithrak.png"
 ```
 ^statblock
 

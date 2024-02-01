@@ -73,6 +73,6 @@ Some brooms of animated attack allow their creators to ride them, in which case 
   "name": "Animated Attack"
 "source":
 - "CoS"
-"image": "compendium/bestiary/construct/token/broom-of-animated-attack.png"
+"image": "5. Mechanics/Bestiary/Construct/token/broom-of-animated-attack.png"
 ```
 ^statblock

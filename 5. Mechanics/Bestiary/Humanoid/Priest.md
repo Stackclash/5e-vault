@@ -90,7 +90,7 @@ Priests bring the teachings of their gods to the common folk. They are the spiri
 - "ToFW"
 - "BMT"
 - "DoDk"
-"image": "compendium/bestiary/humanoid/token/priest.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/priest.png"
 ```
 ^statblock
 

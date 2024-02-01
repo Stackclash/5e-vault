@@ -65,6 +65,6 @@ In cursed wilds grow death's head trees, awakened trees from which `dice: 2d6|av
   "name": "Petrifying Bite (Petrifying Head Only)"
 "source":
 - "VRGR"
-"image": "compendium/bestiary/undead/token/deaths-head.png"
+"image": "5. Mechanics/Bestiary/Undead/token/deaths-head.png"
 ```
 ^statblock

@@ -76,7 +76,7 @@ Although they prefer to eat fresh meat, bone, and blood, vegepygmies can absorb 
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/plant/token/vegepygmy-chief.png"
+"image": "5. Mechanics/Bestiary/Plant/token/vegepygmy-chief.png"
 ```
 ^statblock
 

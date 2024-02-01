@@ -73,6 +73,6 @@ Creatures bitten by rutterkins are exposed to a terrible disease that infects th
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/fiend/token/rutterkin.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/rutterkin.png"
 ```
 ^statblock

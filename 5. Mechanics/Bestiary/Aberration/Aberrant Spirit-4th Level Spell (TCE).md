@@ -56,6 +56,6 @@ aliases: ["Aberrant Spirit (4th-level Spell)"]
   "name": "Psychic Slam (Star Spawn Only)"
 "source":
 - "TCE"
-"image": "compendium/bestiary/aberration/token/aberrant-spirit.png"
+"image": "5. Mechanics/Bestiary/Aberration/token/aberrant-spirit.png"
 ```
 ^statblock

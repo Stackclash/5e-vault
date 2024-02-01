@@ -120,7 +120,7 @@ An illithid experiences euphoria as it devours the brain of a humanoid, along wi
 - "MM"
 - "WDMM"
 - "SatO"
-"image": "compendium/bestiary/aberration/token/mind-flayer-arcanist.png"
+"image": "5. Mechanics/Bestiary/Aberration/token/mind-flayer-arcanist.png"
 ```
 ^statblock
 

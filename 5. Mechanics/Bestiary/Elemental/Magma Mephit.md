@@ -83,7 +83,7 @@ Composed of earth and fire, magma mephits glow a dull red color as they perspire
 - "EGW"
 - "SjA"
 - "DoDk"
-"image": "compendium/bestiary/elemental/token/magma-mephit.png"
+"image": "5. Mechanics/Bestiary/Elemental/token/magma-mephit.png"
 ```
 ^statblock
 

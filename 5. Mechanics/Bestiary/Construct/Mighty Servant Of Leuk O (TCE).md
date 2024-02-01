@@ -79,6 +79,6 @@ aliases: ["Mighty Servant of Leuk-o"]
   "name": "Crushing Leap"
 "source":
 - "TCE"
-"image": "compendium/bestiary/construct/token/mighty-servant-of-leuk-o.png"
+"image": "5. Mechanics/Bestiary/Construct/token/mighty-servant-of-leuk-o.png"
 ```
 ^statblock

@@ -82,7 +82,7 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/humanoid/token/warlock-of-the-archfey.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/warlock-of-the-archfey.png"
 ```
 ^statblock
 

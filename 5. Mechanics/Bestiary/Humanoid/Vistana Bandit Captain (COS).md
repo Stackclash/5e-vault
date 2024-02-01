@@ -85,6 +85,6 @@ aliases: ["Vistana Bandit Captain"]
   "name": "Parry"
 "source":
 - "CoS"
-"image": "compendium/bestiary/humanoid/token/vistana-bandit-captain.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/vistana-bandit-captain.png"
 ```
 ^statblock

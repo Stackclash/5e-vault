@@ -95,7 +95,7 @@ Blackguards often adorn their armor and weapons with dread accoutrements or are 
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/humanoid/token/blackguard.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/blackguard.png"
 ```
 ^statblock
 

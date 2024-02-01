@@ -107,7 +107,7 @@ A morkoth encountered in its lair has a challenge rating of 12 (8,400 XP).
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/aberration/token/morkoth.png"
+"image": "5. Mechanics/Bestiary/Aberration/token/morkoth.png"
 ```
 ^statblock
 

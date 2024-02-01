@@ -106,7 +106,7 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
 - "PotA"
 - "GoS"
 - "TCE"
-"image": "compendium/bestiary/humanoid/token/lizard-king.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/lizard-king.png"
 ```
 ^statblock
 

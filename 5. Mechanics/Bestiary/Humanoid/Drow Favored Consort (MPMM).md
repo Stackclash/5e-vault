@@ -86,7 +86,7 @@ Some favored consorts work behind the scenes to undermine the evils encouraged b
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/humanoid/token/drow-favored-consort.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/drow-favored-consort.png"
 ```
 ^statblock
 

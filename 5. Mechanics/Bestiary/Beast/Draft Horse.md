@@ -45,7 +45,7 @@ aliases: ["Draft Horse"]
 - "BGDIA"
 - "PaBTSO"
 - "DoDk"
-"image": "compendium/bestiary/beast/token/draft-horse.png"
+"image": "5. Mechanics/Bestiary/Beast/token/draft-horse.png"
 ```
 ^statblock
 

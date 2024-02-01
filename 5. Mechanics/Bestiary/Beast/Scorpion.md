@@ -42,7 +42,7 @@ aliases: ["Scorpion"]
 - "MM"
 - "WDMM"
 - "PSX"
-"image": "compendium/bestiary/beast/token/scorpion.png"
+"image": "5. Mechanics/Bestiary/Beast/token/scorpion.png"
 ```
 ^statblock
 

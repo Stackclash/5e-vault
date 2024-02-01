@@ -103,7 +103,7 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
   "name": "Trident"
 "source":
 - "MM"
-"image": "compendium/bestiary/humanoid/token/lizard-queen.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/lizard-queen.png"
 ```
 ^statblock
 

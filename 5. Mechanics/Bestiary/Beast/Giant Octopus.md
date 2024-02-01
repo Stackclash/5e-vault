@@ -66,7 +66,7 @@ aliases: ["Giant Octopus"]
 - "CRCotN"
 - "DSotDQ"
 - "PaBTSO"
-"image": "compendium/bestiary/beast/token/giant-octopus.png"
+"image": "5. Mechanics/Bestiary/Beast/token/giant-octopus.png"
 ```
 ^statblock
 

@@ -102,7 +102,7 @@ An archmage typically has one or more apprentice mages, and an archmage's abode 
 - "BMT"
 - "GHLoE"
 - "DoDk"
-"image": "compendium/bestiary/humanoid/token/archmage.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/archmage.png"
 ```
 ^statblock
 

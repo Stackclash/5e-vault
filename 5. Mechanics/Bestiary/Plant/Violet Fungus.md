@@ -60,7 +60,7 @@ Not needing sunlight or warmth to grow, fungi thrive in every corner and crevice
 - "PotA"
 - "GoS"
 - "DoSI"
-"image": "compendium/bestiary/plant/token/violet-fungus.png"
+"image": "5. Mechanics/Bestiary/Plant/token/violet-fungus.png"
 ```
 ^statblock
 

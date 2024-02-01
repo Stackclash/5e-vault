@@ -60,7 +60,7 @@ A newly hatched guard drake imprints upon the first creature that feeds it (usua
 "source":
 - "MPMM"
 - "HotDQ"
-"image": "compendium/bestiary/dragon/token/guard-drake.png"
+"image": "5. Mechanics/Bestiary/Dragon/token/guard-drake.png"
 ```
 ^statblock
 

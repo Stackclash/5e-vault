@@ -113,6 +113,6 @@ A golem doesn't require air, food, drink, or sleep.
 - "SatO"
 - "BMT"
 - "DoDk"
-"image": "compendium/bestiary/construct/token/stone-golem.png"
+"image": "5. Mechanics/Bestiary/Construct/token/stone-golem.png"
 ```
 ^statblock

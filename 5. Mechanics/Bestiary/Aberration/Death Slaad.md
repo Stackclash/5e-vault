@@ -127,6 +127,6 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 - "CM"
 - "DSotDQ"
 - "PSI"
-"image": "compendium/bestiary/aberration/token/death-slaad.png"
+"image": "5. Mechanics/Bestiary/Aberration/token/death-slaad.png"
 ```
 ^statblock

@@ -81,7 +81,7 @@ Some martial artists adorn themselves with tattoos to honor inspirations or inst
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/humanoid/token/martial-arts-adept.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/martial-arts-adept.png"
 ```
 ^statblock
 

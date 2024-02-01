@@ -59,7 +59,7 @@ aliases: ["Panther"]
 - "TftYP"
 - "ToA"
 - "WDH"
-"image": "compendium/bestiary/beast/token/panther.png"
+"image": "5. Mechanics/Bestiary/Beast/token/panther.png"
 ```
 ^statblock
 

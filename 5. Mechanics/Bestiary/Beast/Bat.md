@@ -50,6 +50,6 @@ aliases: ["Bat"]
 - "WBtW"
 - "PSX"
 - "DoDk"
-"image": "compendium/bestiary/beast/token/bat.png"
+"image": "5. Mechanics/Bestiary/Beast/token/bat.png"
 ```
 ^statblock

@@ -99,7 +99,7 @@ An abominable yeti is larger than a normal yeti, standing three times as tall as
 - "EGW"
 - "IDRotF"
 - "CM"
-"image": "compendium/bestiary/monstrosity/token/abominable-yeti.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/abominable-yeti.png"
 ```
 ^statblock
 

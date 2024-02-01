@@ -82,7 +82,7 @@ Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and th
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/monstrosity/token/kruthik-hive-lord.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/kruthik-hive-lord.png"
 ```
 ^statblock
 

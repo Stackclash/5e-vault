@@ -101,7 +101,7 @@ An ooze doesn't require sleep.
 - "PaBTSO"
 - "BMT"
 - "DoDk"
-"image": "compendium/bestiary/ooze/token/ochre-jelly.png"
+"image": "5. Mechanics/Bestiary/Ooze/token/ochre-jelly.png"
 ```
 ^statblock
 

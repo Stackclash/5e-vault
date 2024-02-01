@@ -56,7 +56,7 @@ aliases: ["Boar"]
 - "MOT"
 - "CM"
 - "WBtW"
-"image": "compendium/bestiary/beast/token/boar.png"
+"image": "5. Mechanics/Bestiary/Beast/token/boar.png"
 ```
 ^statblock
 

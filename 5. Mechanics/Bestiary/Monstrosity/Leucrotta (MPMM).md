@@ -74,7 +74,7 @@ A leucrotta's stench would normally warn away prey long before the creature coul
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/monstrosity/token/leucrotta.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/leucrotta.png"
 ```
 ^statblock
 

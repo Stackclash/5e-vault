@@ -67,7 +67,7 @@ aliases: ["Giant Toad"]
 - "TCE"
 - "WBtW"
 - "KftGV"
-"image": "compendium/bestiary/beast/token/giant-toad.png"
+"image": "5. Mechanics/Bestiary/Beast/token/giant-toad.png"
 ```
 ^statblock
 

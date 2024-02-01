@@ -90,6 +90,6 @@ Dusk hags resemble gnarled crones with shriveled orange skin, tangled gray hair,
   "name": "Dream Eater"
 "source":
 - "ERLW"
-"image": "compendium/bestiary/fey/token/dusk-hag.png"
+"image": "5. Mechanics/Bestiary/Fey/token/dusk-hag.png"
 ```
 ^statblock

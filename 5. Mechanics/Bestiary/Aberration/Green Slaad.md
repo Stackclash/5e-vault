@@ -122,6 +122,6 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 - "SatO"
 - "ToFW"
 - "BMT"
-"image": "compendium/bestiary/aberration/token/green-slaad.png"
+"image": "5. Mechanics/Bestiary/Aberration/token/green-slaad.png"
 ```
 ^statblock

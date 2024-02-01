@@ -81,7 +81,7 @@ Mind flayers consider neothelids dangerous abominations—normally they eat or d
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/aberration/token/neothelid.png"
+"image": "5. Mechanics/Bestiary/Aberration/token/neothelid.png"
 ```
 ^statblock
 

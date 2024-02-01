@@ -44,6 +44,6 @@ aliases: ["Animated Object (Large)"]
   "name": "Slam"
 "source":
 - "PHB"
-"image": "compendium/bestiary/construct/token/animated-object-large.png"
+"image": "5. Mechanics/Bestiary/Construct/token/animated-object-large.png"
 ```
 ^statblock

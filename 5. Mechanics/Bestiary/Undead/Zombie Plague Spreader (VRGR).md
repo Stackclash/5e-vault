@@ -81,6 +81,6 @@ Among the types of horror adventures detailed in "chapter 2", tales of uncontrol
   "name": "Virulent Miasma (1/Day)"
 "source":
 - "VRGR"
-"image": "compendium/bestiary/undead/token/zombie-plague-spreader.png"
+"image": "5. Mechanics/Bestiary/Undead/token/zombie-plague-spreader.png"
 ```
 ^statblock

@@ -44,6 +44,6 @@ aliases: ["Distended Corpse"]
   "name": "Club"
 "source":
 - "CoS"
-"image": "compendium/bestiary/humanoid/token/distended-corpse.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/distended-corpse.png"
 ```
 ^statblock

@@ -100,6 +100,6 @@ Here the half-dragon template has been applied to a human [[5. Mechanics/Bestiar
 - "GoS"
 - "SLW"
 - "IMR"
-"image": "compendium/bestiary/humanoid/token/half-red-dragon-veteran.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/half-red-dragon-veteran.png"
 ```
 ^statblock

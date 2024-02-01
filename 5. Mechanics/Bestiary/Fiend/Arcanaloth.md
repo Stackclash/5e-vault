@@ -154,6 +154,6 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 - "PaBTSO"
 - "AATM"
 - "SatO"
-"image": "compendium/bestiary/fiend/token/arcanaloth.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/arcanaloth.png"
 ```
 ^statblock

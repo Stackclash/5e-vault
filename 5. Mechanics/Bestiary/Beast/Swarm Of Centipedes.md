@@ -67,7 +67,7 @@ aliases: ["Swarm of Centipedes"]
 - "CoS"
 - "HotDQ"
 - "WDMM"
-"image": "compendium/bestiary/beast/token/swarm-of-centipedes.png"
+"image": "5. Mechanics/Bestiary/Beast/token/swarm-of-centipedes.png"
 ```
 ^statblock
 

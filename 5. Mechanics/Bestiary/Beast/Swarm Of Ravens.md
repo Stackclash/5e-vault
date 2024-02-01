@@ -68,7 +68,7 @@ aliases: ["Swarm of Ravens"]
 - "IDRotF"
 - "TCE"
 - "CM"
-"image": "compendium/bestiary/beast/token/swarm-of-ravens.png"
+"image": "5. Mechanics/Bestiary/Beast/token/swarm-of-ravens.png"
 ```
 ^statblock
 

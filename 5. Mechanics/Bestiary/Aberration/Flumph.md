@@ -91,7 +91,7 @@ Flumphs live in complex and organized groups called cloisters, within which each
 - "LoX"
 - "PaBTSO"
 - "BMT"
-"image": "compendium/bestiary/aberration/token/flumph.png"
+"image": "5. Mechanics/Bestiary/Aberration/token/flumph.png"
 ```
 ^statblock
 

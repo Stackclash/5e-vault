@@ -55,7 +55,7 @@ The majestic giant elk is rare to the point that its appearance is often taken a
 "source":
 - "MM"
 - "SKT"
-"image": "compendium/bestiary/beast/token/giant-elk.png"
+"image": "5. Mechanics/Bestiary/Beast/token/giant-elk.png"
 ```
 ^statblock
 

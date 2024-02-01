@@ -96,7 +96,7 @@ When viewed from the outside, a ki-rin's lair is indistinguishable from a natura
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/celestial/token/ki-rin.png"
+"image": "5. Mechanics/Bestiary/Celestial/token/ki-rin.png"
 ```
 ^statblock
 

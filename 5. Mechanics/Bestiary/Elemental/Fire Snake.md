@@ -85,7 +85,7 @@ This inherent heat is an asset to salamanders' skill as smiths, allowing them to
 - "ToA"
 - "JttRC"
 - "DoSI"
-"image": "compendium/bestiary/elemental/token/fire-snake.png"
+"image": "5. Mechanics/Bestiary/Elemental/token/fire-snake.png"
 ```
 ^statblock
 

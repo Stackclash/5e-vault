@@ -97,6 +97,6 @@ Dullahans are known for seeking their lost heads, giving rise to regional legend
   "name": "Head Hunt (Costs 3 Actions)"
 "source":
 - "VRGR"
-"image": "compendium/bestiary/undead/token/dullahan.png"
+"image": "5. Mechanics/Bestiary/Undead/token/dullahan.png"
 ```
 ^statblock

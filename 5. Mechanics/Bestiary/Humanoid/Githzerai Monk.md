@@ -107,6 +107,6 @@ Whether these tall, gaunt creatures were peaceful or savage, cultured or primiti
 "source":
 - "MM"
 - "SatO"
-"image": "compendium/bestiary/humanoid/token/githzerai-monk.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/githzerai-monk.png"
 ```
 ^statblock

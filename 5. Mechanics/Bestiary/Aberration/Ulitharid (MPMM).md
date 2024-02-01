@@ -98,7 +98,7 @@ This process doesn't work on the brain of an ulitharid that dies a natural death
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/aberration/token/ulitharid.png"
+"image": "5. Mechanics/Bestiary/Aberration/token/ulitharid.png"
 ```
 ^statblock
 

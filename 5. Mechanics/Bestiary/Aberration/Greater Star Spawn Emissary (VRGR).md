@@ -95,6 +95,6 @@ After finishing a long rest, a greater star spawn emissary regains its lesser fo
   "name": "Mind Cloud (Costs 3 Actions)"
 "source":
 - "VRGR"
-"image": "compendium/bestiary/aberration/token/greater-star-spawn-emissary.png"
+"image": "5. Mechanics/Bestiary/Aberration/token/greater-star-spawn-emissary.png"
 ```
 ^statblock

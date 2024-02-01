@@ -71,6 +71,6 @@ Base creatures are among the first to respond to sinister forces at work in a la
   "name": "Infestation"
 "source":
 - "VRGR"
-"image": "compendium/bestiary/beast/token/swarm-of-maggots.png"
+"image": "5. Mechanics/Bestiary/Beast/token/swarm-of-maggots.png"
 ```
 ^statblock

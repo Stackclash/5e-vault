@@ -247,6 +247,6 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - "PaBTSO"
 - "SatO"
 - "BMT"
-"image": "compendium/bestiary/fiend/token/barlgura.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/barlgura.png"
 ```
 ^statblock

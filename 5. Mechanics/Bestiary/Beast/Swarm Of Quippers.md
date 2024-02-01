@@ -74,7 +74,7 @@ aliases: ["Swarm of Quippers"]
 - "KftGV"
 - "PSA"
 - "GHLoE"
-"image": "compendium/bestiary/beast/token/swarm-of-quippers.png"
+"image": "5. Mechanics/Bestiary/Beast/token/swarm-of-quippers.png"
 ```
 ^statblock
 

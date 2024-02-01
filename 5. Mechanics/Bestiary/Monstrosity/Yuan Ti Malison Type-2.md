@@ -116,7 +116,7 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
 - "RoT"
 - "SKT"
 - "ToA"
-"image": "compendium/bestiary/monstrosity/token/yuan-ti-malison-type-2.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/yuan-ti-malison-type-2.png"
 ```
 ^statblock
 

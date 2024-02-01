@@ -93,6 +93,6 @@ Mongrelfolk can breed with other humanoids, but nearly all children born to such
   "name": "Dagger"
 "source":
 - "CoS"
-"image": "compendium/bestiary/humanoid/token/mongrelfolk.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/mongrelfolk.png"
 ```
 ^statblock

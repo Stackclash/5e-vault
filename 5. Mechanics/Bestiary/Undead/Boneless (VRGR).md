@@ -70,6 +70,6 @@ Whether through accident or depraved genius, some villains use one corpse to cre
   "name": "Crushing Embrace"
 "source":
 - "VRGR"
-"image": "compendium/bestiary/undead/token/boneless.png"
+"image": "5. Mechanics/Bestiary/Undead/token/boneless.png"
 ```
 ^statblock

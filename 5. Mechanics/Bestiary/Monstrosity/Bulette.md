@@ -82,7 +82,7 @@ Some sages believe the bulette is the result of a mad wizard's experiments at cr
 - "JttRC"
 - "LoX"
 - "DSotDQ"
-"image": "compendium/bestiary/monstrosity/token/bulette.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/bulette.png"
 ```
 ^statblock
 

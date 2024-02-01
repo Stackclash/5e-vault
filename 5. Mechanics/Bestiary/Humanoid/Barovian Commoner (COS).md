@@ -38,6 +38,6 @@ aliases: ["Barovian Commoner"]
   "name": "Pitchfork"
 "source":
 - "CoS"
-"image": "compendium/bestiary/humanoid/token/barovian-commoner.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/barovian-commoner.png"
 ```
 ^statblock

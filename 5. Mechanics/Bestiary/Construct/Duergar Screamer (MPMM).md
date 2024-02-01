@@ -63,7 +63,7 @@ These machines are deployed to assist with construction projects and war. Some d
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/construct/token/duergar-screamer.png"
+"image": "5. Mechanics/Bestiary/Construct/token/duergar-screamer.png"
 ```
 ^statblock
 

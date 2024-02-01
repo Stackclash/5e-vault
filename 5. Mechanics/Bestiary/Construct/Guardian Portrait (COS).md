@@ -71,6 +71,6 @@ When a guardian portrait attacks, the figure in the painting animates and moves 
   "name": "False Appearance"
 "source":
 - "CoS"
-"image": "compendium/bestiary/construct/token/guardian-portrait.png"
+"image": "5. Mechanics/Bestiary/Construct/token/guardian-portrait.png"
 ```
 ^statblock

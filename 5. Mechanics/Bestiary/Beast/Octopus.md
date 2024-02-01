@@ -60,6 +60,6 @@ aliases: ["Octopus"]
 - "IMR"
 - "IDRotF"
 - "WBtW"
-"image": "compendium/bestiary/beast/token/octopus.png"
+"image": "5. Mechanics/Bestiary/Beast/token/octopus.png"
 ```
 ^statblock

@@ -94,6 +94,6 @@ A molydeus's demon lord bestows on it a powerful weapon that dissolves if the mo
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/fiend/token/molydeus.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/molydeus.png"
 ```
 ^statblock

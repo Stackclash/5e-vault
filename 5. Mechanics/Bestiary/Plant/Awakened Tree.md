@@ -57,7 +57,7 @@ An awakened tree is an ordinary tree given sentience and mobility by the [[5. Me
 - "CM"
 - "WBtW"
 - "PSI"
-"image": "compendium/bestiary/plant/token/awakened-tree.png"
+"image": "5. Mechanics/Bestiary/Plant/token/awakened-tree.png"
 ```
 ^statblock
 

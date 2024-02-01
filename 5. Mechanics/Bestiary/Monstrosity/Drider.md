@@ -87,7 +87,7 @@ On rare occasion, a drider returns to the fringes of drow society despite its cu
 - "WDMM"
 - "CRCotN"
 - "SatO"
-"image": "compendium/bestiary/monstrosity/token/drider.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/drider.png"
 ```
 ^statblock
 

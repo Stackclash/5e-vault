@@ -95,7 +95,7 @@ Sentient subterranean beings can coexist with otyughs, employing them as garbage
 - "PaBTSO"
 - "ToFW"
 - "DoDk"
-"image": "compendium/bestiary/aberration/token/otyugh.png"
+"image": "5. Mechanics/Bestiary/Aberration/token/otyugh.png"
 ```
 ^statblock
 

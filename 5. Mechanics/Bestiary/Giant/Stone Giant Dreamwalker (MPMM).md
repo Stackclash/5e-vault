@@ -84,7 +84,7 @@ Dreamwalkers become divorced from reality by isolation, shame, and their unendin
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/giant/token/stone-giant-dreamwalker.png"
+"image": "5. Mechanics/Bestiary/Giant/token/stone-giant-dreamwalker.png"
 ```
 ^statblock
 

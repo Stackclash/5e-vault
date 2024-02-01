@@ -193,7 +193,7 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
 "source":
 - "MM"
 - "RoT"
-"image": "compendium/bestiary/undead/token/vampire-spellcaster.png"
+"image": "5. Mechanics/Bestiary/Undead/token/vampire-spellcaster.png"
 ```
 ^statblock
 

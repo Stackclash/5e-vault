@@ -72,7 +72,7 @@ Although tanarukks are valued as fearsome fighters, they are a threat to their a
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/fiend/token/tanarukk.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/tanarukk.png"
 ```
 ^statblock
 

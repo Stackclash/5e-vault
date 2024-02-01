@@ -89,7 +89,7 @@ A grell will sometimes allow adventurers to wage war on the other monstrous inha
 - "KftGV"
 - "PaBTSO"
 - "BMT"
-"image": "compendium/bestiary/aberration/token/grell.png"
+"image": "5. Mechanics/Bestiary/Aberration/token/grell.png"
 ```
 ^statblock
 

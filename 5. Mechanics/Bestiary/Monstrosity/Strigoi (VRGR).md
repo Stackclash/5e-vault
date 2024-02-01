@@ -71,6 +71,6 @@ Many strigoi seek ways to return to their former existence while being compelled
   "name": "Ravenous Children (1/Day)"
 "source":
 - "VRGR"
-"image": "compendium/bestiary/monstrosity/token/strigoi.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/strigoi.png"
 ```
 ^statblock

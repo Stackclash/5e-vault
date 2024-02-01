@@ -130,7 +130,7 @@ A ghost doesn't require air, food, drink, or sleep.
 - "ToFW"
 - "BMT"
 - "DoDk"
-"image": "compendium/bestiary/undead/token/ghost.png"
+"image": "5. Mechanics/Bestiary/Undead/token/ghost.png"
 ```
 ^statblock
 

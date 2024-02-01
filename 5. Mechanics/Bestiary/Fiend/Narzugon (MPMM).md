@@ -87,6 +87,6 @@ Each narzugon claims a [[5. Mechanics/Bestiary/Fiend/Nightmare.md|nightmare]] as
 - "MPMM"
 - "MTF"
 - "AATM"
-"image": "compendium/bestiary/fiend/token/narzugon.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/narzugon.png"
 ```
 ^statblock

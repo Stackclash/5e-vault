@@ -113,7 +113,7 @@ A revenant doesn't require air, food, drink, or sleep.
 - "PaBTSO"
 - "SatO"
 - "BMT"
-"image": "compendium/bestiary/undead/token/revenant.png"
+"image": "5. Mechanics/Bestiary/Undead/token/revenant.png"
 ```
 ^statblock
 

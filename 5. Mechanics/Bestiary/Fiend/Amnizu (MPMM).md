@@ -92,6 +92,6 @@ Some amnizus perform the critical task of watching over the River Styx from fort
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/fiend/token/amnizu.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/amnizu.png"
 ```
 ^statblock

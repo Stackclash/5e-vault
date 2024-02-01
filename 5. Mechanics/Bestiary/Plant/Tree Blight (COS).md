@@ -70,6 +70,6 @@ A tree blight will often fight alongside other kinds of blights, but it hates ot
 "source":
 - "CoS"
 - "WBtW"
-"image": "compendium/bestiary/plant/token/tree-blight.png"
+"image": "5. Mechanics/Bestiary/Plant/token/tree-blight.png"
 ```
 ^statblock

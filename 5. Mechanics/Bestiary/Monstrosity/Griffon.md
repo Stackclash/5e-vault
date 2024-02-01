@@ -84,7 +84,7 @@ Once trained, a griffon is a fierce and loyal steed. It bonds with one master fo
 - "IDRotF"
 - "JttRC"
 - "DoDk"
-"image": "compendium/bestiary/monstrosity/token/griffon.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/griffon.png"
 ```
 ^statblock
 

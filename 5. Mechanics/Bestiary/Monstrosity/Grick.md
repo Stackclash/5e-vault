@@ -73,7 +73,7 @@ Over time, grick lairs accumulate the cast-off possessions of intelligent prey, 
 - "DSotDQ"
 - "KftGV"
 - "PaBTSO"
-"image": "compendium/bestiary/monstrosity/token/grick.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/grick.png"
 ```
 ^statblock
 

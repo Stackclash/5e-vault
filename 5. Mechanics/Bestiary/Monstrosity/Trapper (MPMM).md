@@ -65,7 +65,7 @@ A trapper needs to eat a [[5. Mechanics/Races/Halfling.md|halfling]]-sized meal 
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/monstrosity/token/trapper.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/trapper.png"
 ```
 ^statblock
 

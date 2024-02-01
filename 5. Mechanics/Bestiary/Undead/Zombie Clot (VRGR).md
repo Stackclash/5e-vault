@@ -84,6 +84,6 @@ Among the types of horror adventures detailed in "chapter 2", tales of uncontrol
   "name": "Flesh Entomb (Recharge 5-6)"
 "source":
 - "VRGR"
-"image": "compendium/bestiary/undead/token/zombie-clot.png"
+"image": "5. Mechanics/Bestiary/Undead/token/zombie-clot.png"
 ```
 ^statblock

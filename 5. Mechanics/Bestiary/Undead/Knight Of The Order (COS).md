@@ -86,6 +86,6 @@ aliases: ["Knight of the Order"]
   "name": "Vengeful Glare"
 "source":
 - "CoS"
-"image": "compendium/bestiary/undead/token/knight-of-the-order.png"
+"image": "5. Mechanics/Bestiary/Undead/token/knight-of-the-order.png"
 ```
 ^statblock

@@ -85,6 +85,6 @@ The brain floats in a jar of solution, pulsating as it reacts to its surrounding
 "source":
 - "VRGR"
 - "IDRotF"
-"image": "compendium/bestiary/undead/token/brain-in-a-jar.png"
+"image": "5. Mechanics/Bestiary/Undead/token/brain-in-a-jar.png"
 ```
 ^statblock

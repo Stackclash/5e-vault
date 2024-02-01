@@ -129,6 +129,6 @@ An undying doesn't require air, food, drink, or sleep.
   "name": "Shimmering Aura (Costs 2 Actions)"
 "source":
 - "ERLW"
-"image": "compendium/bestiary/undead/token/undying-councilor.png"
+"image": "5. Mechanics/Bestiary/Undead/token/undying-councilor.png"
 ```
 ^statblock

@@ -86,7 +86,7 @@ A gelatinous cube is all but transparent, making it hard to spot until it attack
 - "WBtW"
 - "BMT"
 - "DoDk"
-"image": "compendium/bestiary/ooze/token/gelatinous-cube.png"
+"image": "5. Mechanics/Bestiary/Ooze/token/gelatinous-cube.png"
 ```
 ^statblock
 

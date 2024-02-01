@@ -97,7 +97,7 @@ Mages spend their lives in the study and practice of magic. Good-aligned mages o
 - "BMT"
 - "GHLoE"
 - "DoDk"
-"image": "compendium/bestiary/humanoid/token/mage.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/mage.png"
 ```
 ^statblock
 

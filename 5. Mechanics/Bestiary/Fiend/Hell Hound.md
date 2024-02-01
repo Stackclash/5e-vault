@@ -86,7 +86,7 @@ Hell hounds are smarter than mundane beasts, and their lawful nature makes them 
 - "BMT"
 - "HFStCM"
 - "DoDk"
-"image": "compendium/bestiary/fiend/token/hell-hound.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/hell-hound.png"
 ```
 ^statblock
 

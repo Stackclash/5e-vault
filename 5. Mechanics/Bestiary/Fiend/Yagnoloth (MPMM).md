@@ -94,7 +94,7 @@ A yagnoloth has one arm of human size and one giant-sized arm. During negotiatio
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/fiend/token/yagnoloth.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/yagnoloth.png"
 ```
 ^statblock
 

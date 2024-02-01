@@ -77,7 +77,7 @@ In the Shadowfell, balhannoths make their lairs near places inhabited by creatur
 - "MPMM"
 - "MTF"
 - "RtG"
-"image": "compendium/bestiary/aberration/token/balhannoth.png"
+"image": "5. Mechanics/Bestiary/Aberration/token/balhannoth.png"
 ```
 ^statblock
 

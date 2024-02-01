@@ -112,7 +112,7 @@ When a zaratan is summoned from the Elemental Plane of Earth, the ground rises u
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/elemental/token/zaratan.png"
+"image": "5. Mechanics/Bestiary/Elemental/token/zaratan.png"
 ```
 ^statblock
 

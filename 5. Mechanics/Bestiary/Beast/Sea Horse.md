@@ -36,6 +36,6 @@ aliases: ["Sea Horse"]
   "name": "Water Breathing"
 "source":
 - "MM"
-"image": "compendium/bestiary/beast/token/sea-horse.png"
+"image": "5. Mechanics/Bestiary/Beast/token/sea-horse.png"
 ```
 ^statblock

@@ -138,6 +138,6 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 - "BGDIA"
 - "EGW"
 - "JttRC"
-"image": "compendium/bestiary/fiend/token/ultroloth.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/ultroloth.png"
 ```
 ^statblock

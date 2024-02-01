@@ -75,7 +75,7 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/aberration/token/derro-savant.png"
+"image": "5. Mechanics/Bestiary/Aberration/token/derro-savant.png"
 ```
 ^statblock
 

@@ -91,7 +91,7 @@ A roper has six nubs set along its body, through which it extrudes sticky tendri
 - "ToFW"
 - "BMT"
 - "DoDk"
-"image": "compendium/bestiary/monstrosity/token/roper.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/roper.png"
 ```
 ^statblock
 

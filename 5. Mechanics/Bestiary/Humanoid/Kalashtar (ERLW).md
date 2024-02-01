@@ -53,6 +53,6 @@ The kalashtar have bonded with good-aligned quori spirits, which communicate wit
   "name": "Mind Thrust"
 "source":
 - "ERLW"
-"image": "compendium/bestiary/humanoid/token/kalashtar.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/kalashtar.png"
 ```
 ^statblock

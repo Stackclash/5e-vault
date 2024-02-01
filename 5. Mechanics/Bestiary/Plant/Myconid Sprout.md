@@ -68,7 +68,7 @@ Like other fungi, myconids reproduce by mundane sporing. They carefully control 
 - "WDMM"
 - "DoSI"
 - "BMT"
-"image": "compendium/bestiary/plant/token/myconid-sprout.png"
+"image": "5. Mechanics/Bestiary/Plant/token/myconid-sprout.png"
 ```
 ^statblock
 

@@ -49,6 +49,6 @@ aliases: ["Hawk"]
 - "CM"
 - "WBtW"
 - "JttRC"
-"image": "compendium/bestiary/beast/token/hawk.png"
+"image": "5. Mechanics/Bestiary/Beast/token/hawk.png"
 ```
 ^statblock

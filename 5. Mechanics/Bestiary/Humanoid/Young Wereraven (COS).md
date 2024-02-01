@@ -68,6 +68,6 @@ aliases: ["Young Wereraven"]
   "name": "Hand Crossbow (Human or Hybrid Form Only)"
 "source":
 - "CoS"
-"image": "compendium/bestiary/humanoid/token/young-wereraven.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/young-wereraven.png"
 ```
 ^statblock

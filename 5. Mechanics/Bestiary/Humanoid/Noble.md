@@ -80,7 +80,7 @@ The noble's statistics can also be used to represent courtiers who aren't of nob
 - "BMT"
 - "GHLoE"
 - "DoDk"
-"image": "compendium/bestiary/humanoid/token/noble.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/noble.png"
 ```
 ^statblock
 

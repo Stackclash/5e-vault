@@ -60,7 +60,7 @@ aliases: ["Brown Bear"]
 - "IDRotF"
 - "WBtW"
 - "BMT"
-"image": "compendium/bestiary/beast/token/brown-bear.png"
+"image": "5. Mechanics/Bestiary/Beast/token/brown-bear.png"
 ```
 ^statblock
 

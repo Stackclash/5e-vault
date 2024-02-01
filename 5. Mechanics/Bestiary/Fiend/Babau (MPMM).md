@@ -73,7 +73,7 @@ A babau demon has the cunning of a devil and the bloodthirstiness of a demon. It
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/fiend/token/babau.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/babau.png"
 ```
 ^statblock
 

@@ -68,6 +68,6 @@ aliases: ["Phantom Warrior (Archer)"]
   "name": "Spectral Longbow"
 "source":
 - "CoS"
-"image": "compendium/bestiary/undead/token/phantom-warrior-archer.png"
+"image": "5. Mechanics/Bestiary/Undead/token/phantom-warrior-archer.png"
 ```
 ^statblock

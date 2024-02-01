@@ -69,7 +69,7 @@ Sages say that gods of pestilence and rot created catoblepases as embodiments of
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/monstrosity/token/catoblepas.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/catoblepas.png"
 ```
 ^statblock
 

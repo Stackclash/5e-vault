@@ -48,7 +48,7 @@ aliases: ["Giant Ape"]
 - "MM"
 - "GoS"
 - "GHLoE"
-"image": "compendium/bestiary/beast/token/giant-ape.png"
+"image": "5. Mechanics/Bestiary/Beast/token/giant-ape.png"
 ```
 ^statblock
 

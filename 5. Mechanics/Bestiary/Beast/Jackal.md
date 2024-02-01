@@ -50,7 +50,7 @@ aliases: ["Jackal"]
 "source":
 - "MM"
 - "GoS"
-"image": "compendium/bestiary/beast/token/jackal.png"
+"image": "5. Mechanics/Bestiary/Beast/token/jackal.png"
 ```
 ^statblock
 

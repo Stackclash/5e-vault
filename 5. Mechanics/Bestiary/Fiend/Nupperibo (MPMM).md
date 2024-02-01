@@ -71,6 +71,6 @@ Nupperibos unthinkingly obey any command they receive telepathically from anothe
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/fiend/token/nupperibo.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/nupperibo.png"
 ```
 ^statblock

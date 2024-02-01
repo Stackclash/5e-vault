@@ -91,7 +91,7 @@ Any conflagration larger than its body acts as a gateway to Gehenna and banishes
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/fiend/token/barghest.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/barghest.png"
 ```
 ^statblock
 

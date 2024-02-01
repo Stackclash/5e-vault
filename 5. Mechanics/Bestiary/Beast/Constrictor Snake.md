@@ -50,7 +50,7 @@ aliases: ["Constrictor Snake"]
 - "TftYP"
 - "ToA"
 - "WDMM"
-"image": "compendium/bestiary/beast/token/constrictor-snake.png"
+"image": "5. Mechanics/Bestiary/Beast/token/constrictor-snake.png"
 ```
 ^statblock
 

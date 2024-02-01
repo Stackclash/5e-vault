@@ -177,6 +177,6 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - "WDH"
 - "BGDIA"
 - "PSI"
-"image": "compendium/bestiary/fiend/token/lemure.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/lemure.png"
 ```
 ^statblock

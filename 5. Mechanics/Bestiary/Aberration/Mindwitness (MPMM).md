@@ -94,7 +94,7 @@ If separated from its illithid masters, a mindwitness seeks out other telepathic
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/aberration/token/mindwitness.png"
+"image": "5. Mechanics/Bestiary/Aberration/token/mindwitness.png"
 ```
 ^statblock
 

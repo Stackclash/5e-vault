@@ -124,6 +124,6 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   "name": "Breath Weapons (Recharge 5-6)"
 "source":
 - "MM"
-"image": "compendium/bestiary/dragon/token/copper-dragon-wyrmling.png"
+"image": "5. Mechanics/Bestiary/Dragon/token/copper-dragon-wyrmling.png"
 ```
 ^statblock

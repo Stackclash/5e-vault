@@ -77,7 +77,7 @@ Mud mephits are slow, unctuous creatures of earth and water. They drone their co
 - "GoS"
 - "WBtW"
 - "JttRC"
-"image": "compendium/bestiary/elemental/token/mud-mephit.png"
+"image": "5. Mechanics/Bestiary/Elemental/token/mud-mephit.png"
 ```
 ^statblock
 

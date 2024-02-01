@@ -89,7 +89,7 @@ Warlords urge their troops into the fray with shouted exhortations. You can roll
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/humanoid/token/warlord.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/warlord.png"
 ```
 ^statblock
 

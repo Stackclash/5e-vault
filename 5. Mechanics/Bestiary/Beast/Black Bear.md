@@ -56,7 +56,7 @@ aliases: ["Black Bear"]
 - "IMR"
 - "SatO"
 - "ToFW"
-"image": "compendium/bestiary/beast/token/black-bear.png"
+"image": "5. Mechanics/Bestiary/Beast/token/black-bear.png"
 ```
 ^statblock
 

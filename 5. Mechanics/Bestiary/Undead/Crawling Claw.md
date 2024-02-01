@@ -88,6 +88,6 @@ A crawling claw doesn't require air, food, drink, or sleep.
 - "LoX"
 - "KftGV"
 - "BMT"
-"image": "compendium/bestiary/undead/token/crawling-claw.png"
+"image": "5. Mechanics/Bestiary/Undead/token/crawling-claw.png"
 ```
 ^statblock

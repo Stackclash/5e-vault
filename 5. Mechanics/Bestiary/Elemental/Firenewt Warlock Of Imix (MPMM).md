@@ -66,7 +66,7 @@ Originally from the Elemental Plane of Fire, firenewts can be found on the Mater
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/elemental/token/firenewt-warlock-of-imix.png"
+"image": "5. Mechanics/Bestiary/Elemental/token/firenewt-warlock-of-imix.png"
 ```
 ^statblock
 

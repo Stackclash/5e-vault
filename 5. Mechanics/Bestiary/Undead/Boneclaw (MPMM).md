@@ -89,7 +89,7 @@ In service to its master, a boneclaw delights in causing horrific pain. It lurks
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/undead/token/boneclaw.png"
+"image": "5. Mechanics/Bestiary/Undead/token/boneclaw.png"
 ```
 ^statblock
 

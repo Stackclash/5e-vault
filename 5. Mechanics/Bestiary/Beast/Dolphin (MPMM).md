@@ -53,7 +53,7 @@ Dolphins are clever, social marine mammals that feed on small fish and squid. An
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/beast/token/dolphin.png"
+"image": "5. Mechanics/Bestiary/Beast/token/dolphin.png"
 ```
 ^statblock
 

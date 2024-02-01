@@ -117,7 +117,7 @@ Destroying a periapt of mind trapping consigns those trapped within it to oblivi
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/undead/token/alhoon.png"
+"image": "5. Mechanics/Bestiary/Undead/token/alhoon.png"
 ```
 ^statblock
 

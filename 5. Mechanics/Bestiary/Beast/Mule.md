@@ -52,7 +52,7 @@ aliases: ["Mule"]
 - "GoS"
 - "KftGV"
 - "DoDk"
-"image": "compendium/bestiary/beast/token/mule.png"
+"image": "5. Mechanics/Bestiary/Beast/token/mule.png"
 ```
 ^statblock
 

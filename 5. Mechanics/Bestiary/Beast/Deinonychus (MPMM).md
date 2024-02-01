@@ -58,7 +58,7 @@ This larger cousin of the velociraptor kills by gripping its target with its cla
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/beast/token/deinonychus.png"
+"image": "5. Mechanics/Bestiary/Beast/token/deinonychus.png"
 ```
 ^statblock
 

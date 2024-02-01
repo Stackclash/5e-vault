@@ -85,6 +85,6 @@ For a few moments after feeding, nosferatu are lucid and capable of considering 
   "name": "Blood Disgorge (Recharge 5-6)"
 "source":
 - "VRGR"
-"image": "compendium/bestiary/undead/token/nosferatu.png"
+"image": "5. Mechanics/Bestiary/Undead/token/nosferatu.png"
 ```
 ^statblock

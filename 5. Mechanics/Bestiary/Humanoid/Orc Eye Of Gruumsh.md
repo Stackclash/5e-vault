@@ -106,7 +106,7 @@ If the orc plucks out one of its eyes, Gruumsh might grant the orc spellcasting 
 - "TftYP"
 - "EGW"
 - "IDRotF"
-"image": "compendium/bestiary/humanoid/token/orc-eye-of-gruumsh.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/orc-eye-of-gruumsh.png"
 ```
 ^statblock
 

@@ -104,6 +104,6 @@ When a priest of Osybus drops to 0 hit points, the priest might revive with a be
   "name": "Soul Tattoo (Recharge 5-6)"
 "source":
 - "VRGR"
-"image": "compendium/bestiary/humanoid/token/priest-of-osybus.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/priest-of-osybus.png"
 ```
 ^statblock

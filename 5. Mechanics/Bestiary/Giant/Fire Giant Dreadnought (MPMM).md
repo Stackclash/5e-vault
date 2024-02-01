@@ -76,7 +76,7 @@ When not called on to fight, dreadnoughts maintain their strength by using their
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/giant/token/fire-giant-dreadnought.png"
+"image": "5. Mechanics/Bestiary/Giant/token/fire-giant-dreadnought.png"
 ```
 ^statblock
 

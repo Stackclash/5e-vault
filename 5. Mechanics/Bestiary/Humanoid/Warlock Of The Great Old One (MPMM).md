@@ -80,7 +80,7 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
 - "MPMM"
 - "VGM"
 - "BMT"
-"image": "compendium/bestiary/humanoid/token/warlock-of-the-great-old-one.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/warlock-of-the-great-old-one.png"
 ```
 ^statblock
 

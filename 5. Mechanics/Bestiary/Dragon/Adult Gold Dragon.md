@@ -173,7 +173,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "GoS"
 - "EGW"
 - "JttRC"
-"image": "compendium/bestiary/dragon/token/adult-gold-dragon.png"
+"image": "5. Mechanics/Bestiary/Dragon/token/adult-gold-dragon.png"
 ```
 ^statblock
 

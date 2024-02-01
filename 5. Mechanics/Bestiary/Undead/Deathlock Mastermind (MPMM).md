@@ -85,7 +85,7 @@ An powerful necromancer might also discover the wicked methods of creating a dea
 - "MPMM"
 - "MTF"
 - "AATM"
-"image": "compendium/bestiary/undead/token/deathlock-mastermind.png"
+"image": "5. Mechanics/Bestiary/Undead/token/deathlock-mastermind.png"
 ```
 ^statblock
 

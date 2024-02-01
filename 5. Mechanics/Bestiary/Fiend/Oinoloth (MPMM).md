@@ -100,7 +100,7 @@ Oinoloths solve thorny problems by killing everyone involved. They are typically
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/fiend/token/oinoloth.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/oinoloth.png"
 ```
 ^statblock
 

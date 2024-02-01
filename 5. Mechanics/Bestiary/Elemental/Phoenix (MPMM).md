@@ -97,7 +97,7 @@ Releasing a phoenix from the Inner Planes creates an explosion of fire that spre
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/elemental/token/phoenix.png"
+"image": "5. Mechanics/Bestiary/Elemental/token/phoenix.png"
 ```
 ^statblock
 

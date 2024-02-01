@@ -52,7 +52,7 @@ aliases: ["Cave Bear"]
 - "MM"
 - "TftYP"
 - "WDMM"
-"image": "compendium/bestiary/beast/token/cave-bear.png"
+"image": "5. Mechanics/Bestiary/Beast/token/cave-bear.png"
 ```
 ^statblock
 

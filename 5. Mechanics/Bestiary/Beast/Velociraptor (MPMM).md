@@ -55,7 +55,7 @@ This feathered dinosaur is about the size of a large turkey. It is an aggressive
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/beast/token/velociraptor.png"
+"image": "5. Mechanics/Bestiary/Beast/token/velociraptor.png"
 ```
 ^statblock
 

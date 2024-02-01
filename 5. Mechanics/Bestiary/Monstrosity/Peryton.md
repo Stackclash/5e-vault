@@ -81,7 +81,7 @@ Established settlements are attractive to perytons as a renewable food source. A
 - "IDRotF"
 - "WBtW"
 - "JttRC"
-"image": "compendium/bestiary/monstrosity/token/peryton.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/peryton.png"
 ```
 ^statblock
 

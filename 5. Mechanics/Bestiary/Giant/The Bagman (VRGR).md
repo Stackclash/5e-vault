@@ -70,6 +70,6 @@ Any character might know the story of the Bagman. What the Bagman is and how you
   "name": "Claw"
 "source":
 - "VRGR"
-"image": "compendium/bestiary/giant/token/the-bagman.png"
+"image": "5. Mechanics/Bestiary/Giant/token/the-bagman.png"
 ```
 ^statblock

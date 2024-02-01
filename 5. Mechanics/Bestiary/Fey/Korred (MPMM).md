@@ -83,7 +83,7 @@ Korreds have hair all over their bodies, but the hair that grows from their head
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/fey/token/korred.png"
+"image": "5. Mechanics/Bestiary/Fey/token/korred.png"
 ```
 ^statblock
 

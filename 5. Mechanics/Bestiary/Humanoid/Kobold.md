@@ -85,7 +85,7 @@ In addition to the dragons they revere, kobolds worship a lesser god named Kurtu
 - "EGW"
 - "DoSI"
 - "GHLoE"
-"image": "compendium/bestiary/humanoid/token/kobold.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/kobold.png"
 ```
 ^statblock
 

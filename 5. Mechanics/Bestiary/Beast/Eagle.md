@@ -49,7 +49,7 @@ aliases: ["Eagle"]
 - "MM"
 - "CM"
 - "ToFW"
-"image": "compendium/bestiary/beast/token/eagle.png"
+"image": "5. Mechanics/Bestiary/Beast/token/eagle.png"
 ```
 ^statblock
 

@@ -90,6 +90,6 @@ After finishing a long rest, a greater star spawn emissary regains its lesser fo
   "name": "Psychic Lash (Costs 3 Actions)"
 "source":
 - "VRGR"
-"image": "compendium/bestiary/aberration/token/lesser-star-spawn-emissary.png"
+"image": "5. Mechanics/Bestiary/Aberration/token/lesser-star-spawn-emissary.png"
 ```
 ^statblock

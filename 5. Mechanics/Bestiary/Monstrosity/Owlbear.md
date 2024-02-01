@@ -97,7 +97,7 @@ Scholars have long debated the origins of the owlbear. The most common theory is
 - "HftT"
 - "PaBTSO"
 - "BMT"
-"image": "compendium/bestiary/monstrosity/token/owlbear.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/owlbear.png"
 ```
 ^statblock
 

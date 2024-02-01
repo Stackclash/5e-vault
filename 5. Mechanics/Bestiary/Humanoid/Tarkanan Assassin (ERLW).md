@@ -83,6 +83,6 @@ Tarkanan assassins are the elite killers, spies, and thieves who work for House 
   "name": "Chromatic Orb (1/Day)"
 "source":
 - "ERLW"
-"image": "compendium/bestiary/humanoid/token/tarkanan-assassin.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/tarkanan-assassin.png"
 ```
 ^statblock

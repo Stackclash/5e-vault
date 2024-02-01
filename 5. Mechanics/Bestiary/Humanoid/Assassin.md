@@ -96,7 +96,7 @@ Trained in the use of poison, assassins are remorseless killers who work for nob
 - "ToFW"
 - "GHLoE"
 - "DoDk"
-"image": "compendium/bestiary/humanoid/token/assassin.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/assassin.png"
 ```
 ^statblock
 

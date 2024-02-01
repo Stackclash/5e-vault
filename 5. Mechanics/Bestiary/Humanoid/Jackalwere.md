@@ -92,7 +92,7 @@ A jackalwere might also use its gaze to incapacitate a deadly enemy long enough 
 - "BGDIA"
 - "CM"
 - "JttRC"
-"image": "compendium/bestiary/humanoid/token/jackalwere.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/jackalwere.png"
 ```
 ^statblock
 

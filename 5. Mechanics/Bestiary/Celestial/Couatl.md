@@ -107,7 +107,7 @@ The mating ritual of couatls is a beautiful and elaborate dance of magic and lig
 - "IDRotF"
 - "PSX"
 - "BMT"
-"image": "compendium/bestiary/celestial/token/couatl.png"
+"image": "5. Mechanics/Bestiary/Celestial/token/couatl.png"
 ```
 ^statblock
 

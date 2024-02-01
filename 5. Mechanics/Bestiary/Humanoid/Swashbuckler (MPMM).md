@@ -76,7 +76,7 @@ Many swashbucklers have a signature flourish with which they embellish their act
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/humanoid/token/swashbuckler.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/swashbuckler.png"
 ```
 ^statblock
 

@@ -106,6 +106,6 @@ Mist horrors are bodiless spirits of dread, entities given form by the fears of 
   "name": "Hex Blast (Recharge 5-6)"
 "source":
 - "VRGR"
-"image": "compendium/bestiary/monstrosity/token/unspeakable-horror.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/unspeakable-horror.png"
 ```
 ^statblock

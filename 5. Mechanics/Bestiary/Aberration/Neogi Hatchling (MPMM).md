@@ -65,7 +65,7 @@ Neogi usually dwell in far-flung locations on the Material Plane, as well as in 
 - "MPMM"
 - "VGM"
 - "SjA"
-"image": "compendium/bestiary/aberration/token/neogi-hatchling.png"
+"image": "5. Mechanics/Bestiary/Aberration/token/neogi-hatchling.png"
 ```
 ^statblock
 

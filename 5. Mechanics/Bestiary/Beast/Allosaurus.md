@@ -62,7 +62,7 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
 - "WDH"
 - "JttRC"
 - "KftGV"
-"image": "compendium/bestiary/beast/token/allosaurus.png"
+"image": "5. Mechanics/Bestiary/Beast/token/allosaurus.png"
 ```
 ^statblock
 

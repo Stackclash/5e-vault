@@ -53,6 +53,6 @@ aliases: ["Armored Saber-Toothed Tiger"]
   "name": "Claw"
 "source":
 - "CoS"
-"image": "compendium/bestiary/beast/token/armored-saber-toothed-tiger.png"
+"image": "5. Mechanics/Bestiary/Beast/token/armored-saber-toothed-tiger.png"
 ```
 ^statblock

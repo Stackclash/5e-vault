@@ -92,6 +92,6 @@ For amphibious assaults or underwater conflicts, hydroloths have no equal among 
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/fiend/token/hydroloth.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/hydroloth.png"
 ```
 ^statblock

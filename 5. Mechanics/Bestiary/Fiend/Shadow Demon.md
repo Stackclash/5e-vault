@@ -255,6 +255,6 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - "AATM"
 - "SatO"
 - "BMT"
-"image": "compendium/bestiary/fiend/token/shadow-demon.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/shadow-demon.png"
 ```
 ^statblock

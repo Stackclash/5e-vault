@@ -74,7 +74,7 @@ Born in a wide range of colors, grungs most often appear in shades of green, blu
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/humanoid/token/grung.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/grung.png"
 ```
 ^statblock
 

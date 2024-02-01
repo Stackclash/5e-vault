@@ -93,7 +93,7 @@ In combat, a bheur hag also strives to inspire horror. When near a recently slai
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/fey/token/bheur-hag.png"
+"image": "5. Mechanics/Bestiary/Fey/token/bheur-hag.png"
 ```
 ^statblock
 

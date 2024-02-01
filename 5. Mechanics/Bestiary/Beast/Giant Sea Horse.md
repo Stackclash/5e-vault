@@ -50,7 +50,7 @@ Like their smaller kin, giant sea horses are shy, colorful fish with elongated b
 - "MM"
 - "GoS"
 - "JttRC"
-"image": "compendium/bestiary/beast/token/giant-sea-horse.png"
+"image": "5. Mechanics/Bestiary/Beast/token/giant-sea-horse.png"
 ```
 ^statblock
 

@@ -50,6 +50,6 @@ Summoned by the "Skull" card from the [[5. Mechanics/Items/Deck Of Many Things.m
 - "DMG"
 - "TCE"
 - "BMT"
-"image": "compendium/bestiary/undead/token/avatar-of-death.png"
+"image": "5. Mechanics/Bestiary/Undead/token/avatar-of-death.png"
 ```
 ^statblock

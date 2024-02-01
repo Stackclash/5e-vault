@@ -78,6 +78,6 @@ Today the inquisition rules the city of Malitain, a vast city-state to the north
   "name": "Inquisitor's Command (Recharge 5-6)"
 "source":
 - "VRGR"
-"image": "compendium/bestiary/humanoid/token/inquisitor-of-the-mind-fire.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/inquisitor-of-the-mind-fire.png"
 ```
 ^statblock

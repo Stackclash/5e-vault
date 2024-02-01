@@ -65,6 +65,6 @@ Gremishkas have an unstable relationship with magic. Spells cast near a gremishk
   "name": "Spell Redirection"
 "source":
 - "VRGR"
-"image": "compendium/bestiary/monstrosity/token/swarm-of-gremishkas.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/swarm-of-gremishkas.png"
 ```
 ^statblock

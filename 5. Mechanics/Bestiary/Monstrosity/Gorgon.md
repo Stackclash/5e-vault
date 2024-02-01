@@ -81,7 +81,7 @@ When a gorgon spots potential prey, it charges with a hideous clamor of metal on
 - "LoX"
 - "BMT"
 - "DoDk"
-"image": "compendium/bestiary/monstrosity/token/gorgon.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/gorgon.png"
 ```
 ^statblock
 

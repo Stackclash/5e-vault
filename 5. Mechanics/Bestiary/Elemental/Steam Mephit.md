@@ -76,7 +76,7 @@ Composed of fire and water, steam mephits leave trails of hot water wherever the
 - "EGW"
 - "ToFW"
 - "DoDk"
-"image": "compendium/bestiary/elemental/token/steam-mephit.png"
+"image": "5. Mechanics/Bestiary/Elemental/token/steam-mephit.png"
 ```
 ^statblock
 

@@ -67,7 +67,7 @@ aliases: ["Swarm of Poisonous Snakes"]
 - "EGW"
 - "MOT"
 - "JttRC"
-"image": "compendium/bestiary/beast/token/swarm-of-poisonous-snakes.png"
+"image": "5. Mechanics/Bestiary/Beast/token/swarm-of-poisonous-snakes.png"
 ```
 ^statblock
 

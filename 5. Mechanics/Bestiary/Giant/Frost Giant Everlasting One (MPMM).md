@@ -80,7 +80,7 @@ After devouring the troll sent by Vaprak, bones and all, a frost giant becomes a
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/giant/token/frost-giant-everlasting-one.png"
+"image": "5. Mechanics/Bestiary/Giant/token/frost-giant-everlasting-one.png"
 ```
 ^statblock
 

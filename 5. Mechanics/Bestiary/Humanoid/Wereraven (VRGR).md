@@ -88,6 +88,6 @@ A character cursed with wereraven lycanthropy gains a Dexterity of 15 if his or 
 - "VRGR"
 - "CM"
 - "CoS"
-"image": "compendium/bestiary/humanoid/token/wereraven.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/wereraven.png"
 ```
 ^statblock

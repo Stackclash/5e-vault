@@ -52,7 +52,7 @@ aliases: ["Rat"]
 - "IDRotF"
 - "BMT"
 - "DoDk"
-"image": "compendium/bestiary/beast/token/rat.png"
+"image": "5. Mechanics/Bestiary/Beast/token/rat.png"
 ```
 ^statblock
 

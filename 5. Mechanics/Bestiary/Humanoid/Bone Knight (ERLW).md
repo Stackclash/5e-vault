@@ -82,6 +82,6 @@ During the Last War, many bone knights took service with the Order of the Emeral
   "name": "Longbow"
 "source":
 - "ERLW"
-"image": "compendium/bestiary/humanoid/token/bone-knight.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/bone-knight.png"
 ```
 ^statblock

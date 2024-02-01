@@ -55,7 +55,7 @@ aliases: ["Owl"]
 - "CM"
 - "ToFW"
 - "DoDk"
-"image": "compendium/bestiary/beast/token/owl.png"
+"image": "5. Mechanics/Bestiary/Beast/token/owl.png"
 ```
 ^statblock
 

@@ -85,7 +85,7 @@ Achieving revenge against its target doesn't end a slithering tracker's existenc
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/ooze/token/slithering-tracker.png"
+"image": "5. Mechanics/Bestiary/Ooze/token/slithering-tracker.png"
 ```
 ^statblock
 

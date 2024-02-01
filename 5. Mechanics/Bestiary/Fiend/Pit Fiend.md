@@ -220,6 +220,6 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - "TCE"
 - "SatO"
 - "ToFW"
-"image": "compendium/bestiary/fiend/token/pit-fiend.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/pit-fiend.png"
 ```
 ^statblock

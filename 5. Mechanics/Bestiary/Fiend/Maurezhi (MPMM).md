@@ -79,7 +79,7 @@ A maurezhi is contagion incarnate. Its bite can drain a victim's sense of self. 
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/fiend/token/maurezhi.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/maurezhi.png"
 ```
 ^statblock
 

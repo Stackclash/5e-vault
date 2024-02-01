@@ -96,7 +96,7 @@ Infighting and treachery brought skull lords into existence. The first of them a
 - "MPMM"
 - "MTF"
 - "AATM"
-"image": "compendium/bestiary/undead/token/skull-lord.png"
+"image": "5. Mechanics/Bestiary/Undead/token/skull-lord.png"
 ```
 ^statblock
 

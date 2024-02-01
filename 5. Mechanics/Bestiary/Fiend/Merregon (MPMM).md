@@ -65,6 +65,6 @@ Because of their unshakable loyalty, merregons form the backbone of many devils'
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/fiend/token/merregon.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/merregon.png"
 ```
 ^statblock

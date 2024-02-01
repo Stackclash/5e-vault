@@ -69,7 +69,7 @@ Rather than spinning webs, steeders excrete a viscous substance from their legs.
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/monstrosity/token/male-steeder.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/male-steeder.png"
 ```
 ^statblock
 

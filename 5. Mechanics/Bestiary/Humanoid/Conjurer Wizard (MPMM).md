@@ -67,7 +67,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
   "name": "Benign Transportation (Recharge 4-6)"
 - "desc": "The conjurer magically summons an [[5. Mechanics/Bestiary/Elemental/Air Elemental.md|air elemental]],\
     \ an [[5. Mechanics/Bestiary/Elemental/Earth Elemental.md|earth elemental]], a [fire\
-    \ elemental](compendium/bestiary/elemental/fire-elemental.md), or a [[5. Mechanics/Bestiary/Elemental/Water Elemental.md|water elemental]].\
+    \ elemental](5. Mechanics/Bestiary/Elemental/fire-elemental.md), or a [[5. Mechanics/Bestiary/Elemental/Water Elemental.md|water elemental]].\
     \ The elemental appears in an unoccupied space within 60 feet of the conjurer,\
     \ whom it obeys. It takes its turn immediately after the conjurer. It lasts for\
     \ 1 hour, until it or the conjurer dies, or until the conjurer dismisses it as\
@@ -76,7 +76,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/humanoid/token/conjurer-wizard.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/conjurer-wizard.png"
 ```
 ^statblock
 

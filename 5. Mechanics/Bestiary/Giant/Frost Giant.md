@@ -121,7 +121,7 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 - "EGW"
 - "IDRotF"
 - "SatO"
-"image": "compendium/bestiary/giant/token/frost-giant.png"
+"image": "5. Mechanics/Bestiary/Giant/token/frost-giant.png"
 ```
 ^statblock
 

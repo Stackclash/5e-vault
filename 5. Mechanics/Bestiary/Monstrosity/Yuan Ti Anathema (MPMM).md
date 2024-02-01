@@ -97,7 +97,7 @@ Anathemas don't age, allowing them to pursue their goals until the end of days. 
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/monstrosity/token/yuan-ti-anathema.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/yuan-ti-anathema.png"
 ```
 ^statblock
 

@@ -99,7 +99,7 @@ The demon lord Graz'zt is fond of procreating with humanoids who have made pacts
 - "CM"
 - "KftGV"
 - "ToFW"
-"image": "compendium/bestiary/fiend/token/cambion.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/cambion.png"
 ```
 ^statblock
 

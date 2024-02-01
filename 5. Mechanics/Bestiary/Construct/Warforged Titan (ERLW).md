@@ -67,6 +67,6 @@ In the Age of Giants, giant artificers built mindless war golems to aid them in 
   "name": "Sweeping Axe (Recharge 6)"
 "source":
 - "ERLW"
-"image": "compendium/bestiary/construct/token/warforged-titan.png"
+"image": "5. Mechanics/Bestiary/Construct/token/warforged-titan.png"
 ```
 ^statblock

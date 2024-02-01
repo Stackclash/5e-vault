@@ -260,6 +260,6 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - "EGW"
 - "CRCotN"
 - "PaBTSO"
-"image": "compendium/bestiary/fiend/token/yochlol.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/yochlol.png"
 ```
 ^statblock

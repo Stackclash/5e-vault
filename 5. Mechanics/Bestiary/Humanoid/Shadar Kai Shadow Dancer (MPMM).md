@@ -86,7 +86,7 @@ Shadar-kai encountered outside the Shadowfell are often on quests to find the mo
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/humanoid/token/shadar-kai-shadow-dancer.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/shadar-kai-shadow-dancer.png"
 ```
 ^statblock
 

@@ -50,7 +50,7 @@ aliases: ["Giant Bat"]
 - "MOT"
 - "TCE"
 - "PSX"
-"image": "compendium/bestiary/beast/token/giant-bat.png"
+"image": "5. Mechanics/Bestiary/Beast/token/giant-bat.png"
 ```
 ^statblock
 

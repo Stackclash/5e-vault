@@ -84,7 +84,7 @@ Thri-kreen don't require sleep and can rest while remaining alert and performing
 - "MM"
 - "JttRC"
 - "LoX"
-"image": "compendium/bestiary/humanoid/token/thri-kreen.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/thri-kreen.png"
 ```
 ^statblock
 

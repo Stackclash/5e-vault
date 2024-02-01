@@ -86,6 +86,6 @@ An azer doesn't require food, drink, or sleep.
 - "WDMM"
 - "KftGV"
 - "DoDk"
-"image": "compendium/bestiary/elemental/token/azer.png"
+"image": "5. Mechanics/Bestiary/Elemental/token/azer.png"
 ```
 ^statblock

@@ -65,7 +65,7 @@ Ancient legends speak of a seelie fey who betrayed the Summer Queen. In the Summ
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/fey/token/darkling.png"
+"image": "5. Mechanics/Bestiary/Fey/token/darkling.png"
 ```
 ^statblock
 

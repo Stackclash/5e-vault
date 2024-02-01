@@ -49,6 +49,6 @@ A frog has no effective attacks. It feeds on small insects and typically dwells 
 - "WBtW"
 - "PSX"
 - "KftGV"
-"image": "compendium/bestiary/beast/token/frog.png"
+"image": "5. Mechanics/Bestiary/Beast/token/frog.png"
 ```
 ^statblock

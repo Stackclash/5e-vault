@@ -91,7 +91,7 @@ Hungry to claim more power despite the Raven Queen's curse, nagpas strive to bri
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/monstrosity/token/nagpa.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/nagpa.png"
 ```
 ^statblock
 

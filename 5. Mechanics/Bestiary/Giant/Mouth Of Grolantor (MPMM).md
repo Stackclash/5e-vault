@@ -72,7 +72,7 @@ A mouth of Grolantor is revered as a holy embodiment of Grolantor's aching hunge
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/giant/token/mouth-of-grolantor.png"
+"image": "5. Mechanics/Bestiary/Giant/token/mouth-of-grolantor.png"
 ```
 ^statblock
 

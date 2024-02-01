@@ -85,7 +85,7 @@ A shadowblade gains their powers over shadow via a ritual in which they kill a s
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/humanoid/token/drow-shadowblade.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/drow-shadowblade.png"
 ```
 ^statblock
 

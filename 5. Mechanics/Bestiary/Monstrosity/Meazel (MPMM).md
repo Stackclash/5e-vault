@@ -80,7 +80,7 @@ Any creatures meazels draw through the shadows are cursed by the meazels' balefu
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/monstrosity/token/meazel.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/meazel.png"
 ```
 ^statblock
 

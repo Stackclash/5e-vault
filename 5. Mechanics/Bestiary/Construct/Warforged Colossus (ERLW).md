@@ -108,6 +108,6 @@ A colossus might be filled with monsters and secrets, in addition to the corpses
   "name": "Incinerating Beam (Recharge 5-6)"
 "source":
 - "ERLW"
-"image": "compendium/bestiary/construct/token/warforged-colossus.png"
+"image": "5. Mechanics/Bestiary/Construct/token/warforged-colossus.png"
 ```
 ^statblock

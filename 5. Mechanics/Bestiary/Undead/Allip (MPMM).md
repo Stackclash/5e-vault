@@ -82,7 +82,7 @@ An allip might attempt to share its lore to escape its curse and enter the after
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/undead/token/allip.png"
+"image": "5. Mechanics/Bestiary/Undead/token/allip.png"
 ```
 ^statblock
 

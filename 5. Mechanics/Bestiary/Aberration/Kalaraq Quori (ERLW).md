@@ -119,6 +119,6 @@ Dal Quor is the plane of dreams and is currently dominated by a dark power known
   "name": "Possession (Recharge 6)"
 "source":
 - "ERLW"
-"image": "compendium/bestiary/aberration/token/kalaraq-quori.png"
+"image": "5. Mechanics/Bestiary/Aberration/token/kalaraq-quori.png"
 ```
 ^statblock

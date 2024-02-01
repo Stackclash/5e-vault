@@ -109,7 +109,7 @@ Orthons value the challenge of the chase and the thrill of one-on-one combat abo
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/fiend/token/orthon.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/orthon.png"
 ```
 ^statblock
 

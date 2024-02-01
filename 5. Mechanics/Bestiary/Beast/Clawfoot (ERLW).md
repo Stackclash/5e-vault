@@ -62,6 +62,6 @@ Dinosaurs are widespread on Eberron, particularly in Q'barra, the Talenta Plains
   "name": "Claws"
 "source":
 - "ERLW"
-"image": "compendium/bestiary/beast/token/clawfoot.png"
+"image": "5. Mechanics/Bestiary/Beast/token/clawfoot.png"
 ```
 ^statblock

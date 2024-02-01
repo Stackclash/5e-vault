@@ -115,7 +115,7 @@ Some individuals see little point in fighting the curse and accept what they are
 - "CM"
 - "SatO"
 - "BMT"
-"image": "compendium/bestiary/humanoid/token/wererat.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/wererat.png"
 ```
 ^statblock
 

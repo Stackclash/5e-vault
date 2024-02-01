@@ -55,7 +55,7 @@ aliases: ["Giant Scorpion"]
 - "JttRC"
 - "DSotDQ"
 - "PSA"
-"image": "compendium/bestiary/beast/token/giant-scorpion.png"
+"image": "5. Mechanics/Bestiary/Beast/token/giant-scorpion.png"
 ```
 ^statblock
 

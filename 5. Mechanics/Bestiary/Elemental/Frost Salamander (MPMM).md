@@ -70,7 +70,7 @@ On rare occasions, [[5. Mechanics/Bestiary/Giant/Frost Giant.md|frost giants]] c
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/elemental/token/frost-salamander.png"
+"image": "5. Mechanics/Bestiary/Elemental/token/frost-salamander.png"
 ```
 ^statblock
 

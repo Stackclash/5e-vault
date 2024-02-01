@@ -84,7 +84,7 @@ If all goes according to plan, a steel predator slays its target and then volunt
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/construct/token/steel-predator.png"
+"image": "5. Mechanics/Bestiary/Construct/token/steel-predator.png"
 ```
 ^statblock
 

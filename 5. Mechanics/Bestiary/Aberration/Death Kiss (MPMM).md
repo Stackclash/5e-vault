@@ -72,7 +72,7 @@ A death kiss lacks the combat finesse and intelligence of a true beholder. In mo
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/aberration/token/death-kiss.png"
+"image": "5. Mechanics/Bestiary/Aberration/token/death-kiss.png"
 ```
 ^statblock
 

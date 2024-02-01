@@ -87,6 +87,6 @@ Githzerai are otherworldly folk with psionic powers who share an ancestral link 
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/humanoid/token/githzerai-anarch.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/githzerai-anarch.png"
 ```
 ^statblock

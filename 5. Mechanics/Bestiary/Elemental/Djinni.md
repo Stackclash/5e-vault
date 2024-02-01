@@ -132,7 +132,7 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
 - "JttRC"
 - "SatO"
 - "DoDk"
-"image": "compendium/bestiary/elemental/token/djinni.png"
+"image": "5. Mechanics/Bestiary/Elemental/token/djinni.png"
 ```
 ^statblock
 

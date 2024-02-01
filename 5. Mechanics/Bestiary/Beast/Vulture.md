@@ -56,7 +56,7 @@ aliases: ["Vulture"]
 - "CM"
 - "WBtW"
 - "BMT"
-"image": "compendium/bestiary/beast/token/vulture.png"
+"image": "5. Mechanics/Bestiary/Beast/token/vulture.png"
 ```
 ^statblock
 

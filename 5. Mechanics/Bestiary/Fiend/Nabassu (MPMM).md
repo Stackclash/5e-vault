@@ -89,7 +89,7 @@ Whenever magic pulls demons from the Abyss to the Material Plane, nabassus try t
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/fiend/token/nabassu.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/nabassu.png"
 ```
 ^statblock
 

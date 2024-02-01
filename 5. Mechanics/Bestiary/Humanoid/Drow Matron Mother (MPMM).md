@@ -132,7 +132,7 @@ Any temple of Lolth also functions as a matron mother's lair while she is inside
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/humanoid/token/drow-matron-mother.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/drow-matron-mother.png"
 ```
 ^statblock
 

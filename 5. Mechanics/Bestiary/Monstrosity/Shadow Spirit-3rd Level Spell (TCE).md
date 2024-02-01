@@ -57,6 +57,6 @@ aliases: ["Shadow Spirit (3rd-level Spell)"]
   "name": "Shadow Stealth (Fear Only)"
 "source":
 - "TCE"
-"image": "compendium/bestiary/monstrosity/token/shadow-spirit.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/shadow-spirit.png"
 ```
 ^statblock

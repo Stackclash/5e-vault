@@ -58,6 +58,6 @@ aliases: ["Snow Maiden"]
   "name": "Life Drain"
 "source":
 - "CoS"
-"image": "compendium/bestiary/undead/token/snow-maiden.png"
+"image": "5. Mechanics/Bestiary/Undead/token/snow-maiden.png"
 ```
 ^statblock

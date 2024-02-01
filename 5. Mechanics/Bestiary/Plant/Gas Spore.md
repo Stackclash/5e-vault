@@ -84,7 +84,7 @@ Not needing sunlight or warmth to grow, fungi thrive in every corner and crevice
 - "TftYP"
 - "WDH"
 - "WDMM"
-"image": "compendium/bestiary/plant/token/gas-spore.png"
+"image": "5. Mechanics/Bestiary/Plant/token/gas-spore.png"
 ```
 ^statblock
 

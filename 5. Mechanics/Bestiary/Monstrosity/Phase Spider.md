@@ -70,7 +70,7 @@ A phase spider possesses the magical ability to phase in and out of the Ethereal
 - "PaBTSO"
 - "BMT"
 - "DoDk"
-"image": "compendium/bestiary/monstrosity/token/phase-spider.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/phase-spider.png"
 ```
 ^statblock
 

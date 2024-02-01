@@ -55,6 +55,6 @@ aliases: ["Steel Defender"]
 "source":
 - "TCE"
 - "ERLW"
-"image": "compendium/bestiary/construct/token/steel-defender.png"
+"image": "5. Mechanics/Bestiary/Construct/token/steel-defender.png"
 ```
 ^statblock

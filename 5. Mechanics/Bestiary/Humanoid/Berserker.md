@@ -70,7 +70,7 @@ Hailing from uncivilized lands, unpredictable berserkers come together in war pa
 - "ToFW"
 - "BMT"
 - "DoDk"
-"image": "compendium/bestiary/humanoid/token/berserker.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/berserker.png"
 ```
 ^statblock
 

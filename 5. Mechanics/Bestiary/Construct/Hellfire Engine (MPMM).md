@@ -100,6 +100,6 @@ Mortal creatures slain by hellfire engines are doomed to join the infernal legio
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/construct/token/hellfire-engine.png"
+"image": "5. Mechanics/Bestiary/Construct/token/hellfire-engine.png"
 ```
 ^statblock

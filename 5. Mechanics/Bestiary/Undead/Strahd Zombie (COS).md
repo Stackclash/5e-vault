@@ -76,6 +76,6 @@ A Strahd zombie doesn't require air or sleep.
   "name": "Claw"
 "source":
 - "CoS"
-"image": "compendium/bestiary/undead/token/strahd-zombie.png"
+"image": "5. Mechanics/Bestiary/Undead/token/strahd-zombie.png"
 ```
 ^statblock

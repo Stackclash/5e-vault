@@ -73,6 +73,6 @@ Most of the people of the Five Nations have heard of the Inspired lords in Riedr
   "name": "Vicious Mockery (Cantrip)"
 "source":
 - "ERLW"
-"image": "compendium/bestiary/humanoid/token/inspired.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/inspired.png"
 ```
 ^statblock

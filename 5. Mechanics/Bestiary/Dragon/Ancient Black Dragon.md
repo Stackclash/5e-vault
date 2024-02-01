@@ -161,7 +161,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   "name": "Wing Attack (Costs 2 Actions)"
 "source":
 - "MM"
-"image": "compendium/bestiary/dragon/token/ancient-black-dragon.png"
+"image": "5. Mechanics/Bestiary/Dragon/token/ancient-black-dragon.png"
 ```
 ^statblock
 

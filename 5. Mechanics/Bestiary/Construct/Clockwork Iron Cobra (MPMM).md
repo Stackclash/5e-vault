@@ -104,7 +104,7 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/construct/token/clockwork-iron-cobra.png"
+"image": "5. Mechanics/Bestiary/Construct/token/clockwork-iron-cobra.png"
 ```
 ^statblock
 

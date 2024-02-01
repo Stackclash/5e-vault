@@ -69,7 +69,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/humanoid/token/enchanter-wizard.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/enchanter-wizard.png"
 ```
 ^statblock
 

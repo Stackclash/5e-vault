@@ -59,7 +59,7 @@ aliases: ["Dire Wolf"]
 - "JttRC"
 - "PaBTSO"
 - "ToFW"
-"image": "compendium/bestiary/beast/token/dire-wolf.png"
+"image": "5. Mechanics/Bestiary/Beast/token/dire-wolf.png"
 ```
 ^statblock
 

@@ -87,7 +87,7 @@ Lolth's worshipers expect treachery—the Spider Queen encourages it, after all.
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/humanoid/token/drow-inquisitor.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/drow-inquisitor.png"
 ```
 ^statblock
 

@@ -130,6 +130,6 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "MM"
 - "SKT"
 - "IDRotF"
-"image": "compendium/bestiary/dragon/token/silver-dragon-wyrmling.png"
+"image": "5. Mechanics/Bestiary/Dragon/token/silver-dragon-wyrmling.png"
 ```
 ^statblock

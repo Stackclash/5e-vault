@@ -89,7 +89,7 @@ Alkiliths spring from cast-off bits of the hideous, shuddering body of Juiblex. 
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/fiend/token/alkilith.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/alkilith.png"
 ```
 ^statblock
 

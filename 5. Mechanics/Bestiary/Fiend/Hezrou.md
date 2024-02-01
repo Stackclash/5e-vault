@@ -237,6 +237,6 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - "WBtW"
 - "CRCotN"
 - "BMT"
-"image": "compendium/bestiary/fiend/token/hezrou.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/hezrou.png"
 ```
 ^statblock

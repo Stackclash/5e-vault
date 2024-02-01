@@ -54,6 +54,6 @@ Shifters are tied to primal spirits, which most of them refer to as the beast wi
   "name": "Bite"
 "source":
 - "ERLW"
-"image": "compendium/bestiary/humanoid/token/shifter.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/shifter.png"
 ```
 ^statblock

@@ -95,7 +95,7 @@ Woodcutters who avoid culling healthy living trees and hunters who take only wha
 - "SatO"
 - "BMT"
 - "DoDk"
-"image": "compendium/bestiary/plant/token/treant.png"
+"image": "5. Mechanics/Bestiary/Plant/token/treant.png"
 ```
 ^statblock
 

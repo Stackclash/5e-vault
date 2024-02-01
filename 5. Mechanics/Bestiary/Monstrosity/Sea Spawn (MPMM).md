@@ -74,7 +74,7 @@ Kraken priests (in this book) tend to the kraken's flock. Most of the priests ar
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/monstrosity/token/sea-spawn.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/sea-spawn.png"
 ```
 ^statblock
 

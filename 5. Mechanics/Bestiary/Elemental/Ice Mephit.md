@@ -83,7 +83,7 @@ Comprising frigid air and water, ice mephits are aloof and cold, surpassing all 
 - "IDRotF"
 - "CM"
 - "KftGV"
-"image": "compendium/bestiary/elemental/token/ice-mephit.png"
+"image": "5. Mechanics/Bestiary/Elemental/token/ice-mephit.png"
 ```
 ^statblock
 

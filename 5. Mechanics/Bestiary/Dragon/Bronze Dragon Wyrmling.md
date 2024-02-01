@@ -124,6 +124,6 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 "source":
 - "MM"
 - "DoSI"
-"image": "compendium/bestiary/dragon/token/bronze-dragon-wyrmling.png"
+"image": "5. Mechanics/Bestiary/Dragon/token/bronze-dragon-wyrmling.png"
 ```
 ^statblock

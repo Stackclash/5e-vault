@@ -104,7 +104,7 @@ Doppelgangers are too lazy or self-interested to raise their young. They assume 
 - "ToFW"
 - "BMT"
 - "DoDk"
-"image": "compendium/bestiary/monstrosity/token/doppelganger.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/doppelganger.png"
 ```
 ^statblock
 

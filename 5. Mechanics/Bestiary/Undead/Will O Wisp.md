@@ -107,7 +107,7 @@ A will-o'-wisp doesn't require air, drink, or sleep.
 - "SatO"
 - "BMT"
 - "DoDk"
-"image": "compendium/bestiary/undead/token/will-o-wisp.png"
+"image": "5. Mechanics/Bestiary/Undead/token/will-o-wisp.png"
 ```
 ^statblock
 

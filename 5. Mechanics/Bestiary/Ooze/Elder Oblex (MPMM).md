@@ -115,7 +115,7 @@ When oblexes feed on thoughts, they can form weird copies of their prey to use a
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/ooze/token/elder-oblex.png"
+"image": "5. Mechanics/Bestiary/Ooze/token/elder-oblex.png"
 ```
 ^statblock
 

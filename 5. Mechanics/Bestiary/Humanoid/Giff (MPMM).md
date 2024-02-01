@@ -79,7 +79,7 @@ Every other keg of gunpowder within 20 feet of an exploding keg has a 50% chance
 - "MPMM"
 - "MTF"
 - "SjA"
-"image": "compendium/bestiary/humanoid/token/giff.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/giff.png"
 ```
 ^statblock
 

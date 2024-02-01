@@ -81,7 +81,7 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/giant/token/dire-troll.png"
+"image": "5. Mechanics/Bestiary/Giant/token/dire-troll.png"
 ```
 ^statblock
 

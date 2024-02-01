@@ -84,6 +84,6 @@ A Karrnathi undead soldier doesn't require air, food, drink, or sleep.
   "name": "Parry"
 "source":
 - "ERLW"
-"image": "compendium/bestiary/undead/token/karrnathi-undead-soldier.png"
+"image": "5. Mechanics/Bestiary/Undead/token/karrnathi-undead-soldier.png"
 ```
 ^statblock

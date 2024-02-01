@@ -59,6 +59,6 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 - "MPMM"
 - "MTF"
 - "BMT"
-"image": "compendium/bestiary/elemental/token/fire-elemental-myrmidon.png"
+"image": "5. Mechanics/Bestiary/Elemental/token/fire-elemental-myrmidon.png"
 ```
 ^statblock

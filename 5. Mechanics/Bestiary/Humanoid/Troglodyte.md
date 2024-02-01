@@ -87,7 +87,7 @@ Some troglodytes venerate Laogzed, a demonic, monstrously fat toad-lizard that s
 - "PaBTSO"
 - "SatO"
 - "BMT"
-"image": "compendium/bestiary/humanoid/token/troglodyte.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/troglodyte.png"
 ```
 ^statblock
 

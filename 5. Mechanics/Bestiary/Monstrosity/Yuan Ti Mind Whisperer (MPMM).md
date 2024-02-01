@@ -85,7 +85,7 @@ Mind whisperers are elusive, manipulative, unpredictable, and willing to cheat o
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/monstrosity/token/yuan-ti-mind-whisperer.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/yuan-ti-mind-whisperer.png"
 ```
 ^statblock
 

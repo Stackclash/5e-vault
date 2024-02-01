@@ -136,7 +136,7 @@ The dracolich has advantage on saving throws against spells and other magical ef
 - "CM"
 - "JttRC"
 - "SatO"
-"image": "compendium/bestiary/undead/token/adult-blue-dracolich.png"
+"image": "5. Mechanics/Bestiary/Undead/token/adult-blue-dracolich.png"
 ```
 ^statblock
 

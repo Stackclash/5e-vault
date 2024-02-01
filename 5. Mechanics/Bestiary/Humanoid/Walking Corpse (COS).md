@@ -44,6 +44,6 @@ aliases: ["Walking Corpse"]
   "name": "Club"
 "source":
 - "CoS"
-"image": "compendium/bestiary/humanoid/token/walking-corpse.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/walking-corpse.png"
 ```
 ^statblock

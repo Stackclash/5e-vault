@@ -67,7 +67,7 @@ Tricks of that sort are hardly the limit of quicklings' artful malice, however. 
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/fey/token/quickling.png"
+"image": "5. Mechanics/Bestiary/Fey/token/quickling.png"
 ```
 ^statblock
 

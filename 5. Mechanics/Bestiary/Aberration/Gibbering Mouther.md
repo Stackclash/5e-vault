@@ -95,7 +95,7 @@ A gibbering mouther leaves nothing of its prey behind. However, even as the last
 - "PaBTSO"
 - "BMT"
 - "DoDk"
-"image": "compendium/bestiary/aberration/token/gibbering-mouther.png"
+"image": "5. Mechanics/Bestiary/Aberration/token/gibbering-mouther.png"
 ```
 ^statblock
 

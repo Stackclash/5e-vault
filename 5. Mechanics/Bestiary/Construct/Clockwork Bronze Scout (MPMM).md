@@ -103,7 +103,7 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
 - "MPMM"
 - "MTF"
 - "RtG"
-"image": "compendium/bestiary/construct/token/clockwork-bronze-scout.png"
+"image": "5. Mechanics/Bestiary/Construct/token/clockwork-bronze-scout.png"
 ```
 ^statblock
 

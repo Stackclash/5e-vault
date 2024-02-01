@@ -78,7 +78,7 @@ A pack of yeth hounds can be created by powerful Fey such as the Queen of Air an
 - "MPMM"
 - "VGM"
 - "BMT"
-"image": "compendium/bestiary/fey/token/yeth-hound.png"
+"image": "5. Mechanics/Bestiary/Fey/token/yeth-hound.png"
 ```
 ^statblock
 

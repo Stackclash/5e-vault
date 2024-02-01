@@ -32,6 +32,6 @@ aliases: ["Giant Fly (DMG)"]
 "languages": ""
 "source":
 - "DMG"
-"image": "compendium/bestiary/beast/token/giant-fly.png"
+"image": "5. Mechanics/Bestiary/Beast/token/giant-fly.png"
 ```
 ^statblock

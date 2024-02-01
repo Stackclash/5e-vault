@@ -84,7 +84,7 @@ If you really want to see things get out of control very quickly, watch Maladar 
     \ consult the below chart. Each member of his court may only be summoned once\
     \ per day in this manner. If the same member is summoned twice, nothing happens.\n\
     \n| dice: d12 | Member Summoned |\n|-----------|-----------------|\n| 1-4 | [Baron\
-    \ Malgas](compendium/bestiary/npc/baron-malgas-saf.md) |\n| 5-7 | [[4. World Almanac/NPCs/Korsoth Vastikan.md|Korsoth Vastikan]]\
+    \ Malgas](5. Mechanics/Bestiary/Npc/baron-malgas-saf.md) |\n| 5-7 | [[4. World Almanac/NPCs/Korsoth Vastikan.md|Korsoth Vastikan]]\
     \ |\n| 8-9 | [[4. World Almanac/NPCs/The Queen Of Bones.md|The Queen of Bones]]\
     \ |\n| 10-11 | [[4. World Almanac/NPCs/Lord Rall.md|Lord Rall]] |\n| 12 |\
     \ [[4. World Almanac/NPCs/Uursovk.md|Uursovk]] |\n^member-summoned"

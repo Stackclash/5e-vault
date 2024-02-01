@@ -92,6 +92,6 @@ A radiant idol doesn't require food, drink, or sleep.
   "name": "Radiant Strike (1/Day)"
 "source":
 - "ERLW"
-"image": "compendium/bestiary/celestial/token/radiant-idol.png"
+"image": "5. Mechanics/Bestiary/Celestial/token/radiant-idol.png"
 ```
 ^statblock

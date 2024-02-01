@@ -80,7 +80,7 @@ While some folk hunt cave fishers to kill them to harvest their filaments, shell
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/monstrosity/token/cave-fisher.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/cave-fisher.png"
 ```
 ^statblock
 

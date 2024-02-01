@@ -71,7 +71,7 @@ aliases: ["Swarm of Insects"]
 - "LoX"
 - "PSX"
 - "PSA"
-"image": "compendium/bestiary/beast/token/swarm-of-insects.png"
+"image": "5. Mechanics/Bestiary/Beast/token/swarm-of-insects.png"
 ```
 ^statblock
 

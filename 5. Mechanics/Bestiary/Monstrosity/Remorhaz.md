@@ -79,7 +79,7 @@ Frost giant hunters scour the icy wastes for remorhaz nests and eggs. The giants
 - "LoX"
 - "PaBTSO"
 - "BMT"
-"image": "compendium/bestiary/monstrosity/token/remorhaz.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/remorhaz.png"
 ```
 ^statblock
 

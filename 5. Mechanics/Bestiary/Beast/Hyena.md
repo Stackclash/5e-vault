@@ -51,7 +51,7 @@ aliases: ["Hyena"]
 - "PotA"
 - "CM"
 - "BMT"
-"image": "compendium/bestiary/beast/token/hyena.png"
+"image": "5. Mechanics/Bestiary/Beast/token/hyena.png"
 ```
 ^statblock
 

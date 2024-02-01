@@ -72,7 +72,7 @@ Devourers hunt Humanoids with the intent of consuming them body and soul. After 
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/undead/token/devourer.png"
+"image": "5. Mechanics/Bestiary/Undead/token/devourer.png"
 ```
 ^statblock
 

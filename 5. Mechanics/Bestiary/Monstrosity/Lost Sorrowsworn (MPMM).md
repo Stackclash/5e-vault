@@ -70,7 +70,7 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
 - "MPMM"
 - "MTF"
 - "AATM"
-"image": "compendium/bestiary/monstrosity/token/lost-sorrowsworn.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/lost-sorrowsworn.png"
 ```
 ^statblock
 

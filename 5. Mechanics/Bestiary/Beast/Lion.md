@@ -66,7 +66,7 @@ aliases: ["Lion"]
 - "TftYP"
 - "ToA"
 - "KftGV"
-"image": "compendium/bestiary/beast/token/lion.png"
+"image": "5. Mechanics/Bestiary/Beast/token/lion.png"
 ```
 ^statblock
 

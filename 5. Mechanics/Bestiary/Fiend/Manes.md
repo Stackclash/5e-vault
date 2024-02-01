@@ -225,6 +225,6 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - "CRCotN"
 - "PSI"
 - "BMT"
-"image": "compendium/bestiary/fiend/token/manes.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/manes.png"
 ```
 ^statblock

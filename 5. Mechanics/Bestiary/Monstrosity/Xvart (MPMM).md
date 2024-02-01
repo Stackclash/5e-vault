@@ -64,7 +64,7 @@ Raxivort spent centuries watching over the treasury of Graz'zt, and in time, Rax
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/monstrosity/token/xvart.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/xvart.png"
 ```
 ^statblock
 

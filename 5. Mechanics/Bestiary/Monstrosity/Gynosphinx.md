@@ -127,7 +127,7 @@ A sphinx presides over an ancient temple, sepulcher, or vault, within which are 
 - "IMR"
 - "MOT"
 - "JttRC"
-"image": "compendium/bestiary/monstrosity/token/gynosphinx.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/gynosphinx.png"
 ```
 ^statblock
 

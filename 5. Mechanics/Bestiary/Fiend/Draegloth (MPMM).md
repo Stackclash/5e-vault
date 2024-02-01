@@ -68,7 +68,7 @@ Although draegloths plays an important part in the plans of Lolth's cult, a drae
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/fiend/token/draegloth.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/draegloth.png"
 ```
 ^statblock
 

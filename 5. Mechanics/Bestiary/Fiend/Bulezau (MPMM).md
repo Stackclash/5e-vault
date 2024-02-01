@@ -74,6 +74,6 @@ Disfiguring ailments plague bulezaus: crusted eyes, maggots wriggling in open so
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/fiend/token/bulezau.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/bulezau.png"
 ```
 ^statblock

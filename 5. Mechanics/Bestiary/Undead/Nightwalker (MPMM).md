@@ -83,7 +83,7 @@ Generally, a nightwalker on the Material Plane is attracted to elements of the w
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/undead/token/nightwalker.png"
+"image": "5. Mechanics/Bestiary/Undead/token/nightwalker.png"
 ```
 ^statblock
 

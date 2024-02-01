@@ -67,7 +67,7 @@ The arctic-dwelling winter wolf is as large as a dire wolf but has snow-white fu
 - "IDRotF"
 - "KftGV"
 - "GHLoE"
-"image": "compendium/bestiary/monstrosity/token/winter-wolf.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/winter-wolf.png"
 ```
 ^statblock
 

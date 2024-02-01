@@ -54,7 +54,7 @@ aliases: ["Elk"]
 - "SKT"
 - "EGW"
 - "IDRotF"
-"image": "compendium/bestiary/beast/token/elk.png"
+"image": "5. Mechanics/Bestiary/Beast/token/elk.png"
 ```
 ^statblock
 

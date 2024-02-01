@@ -74,6 +74,6 @@ Zakya rakshasas are the bloodthirsty foot soldiers of the rakshasa horde. They a
   "name": "Javelin"
 "source":
 - "ERLW"
-"image": "compendium/bestiary/fiend/token/zakya-rakshasa.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/zakya-rakshasa.png"
 ```
 ^statblock

@@ -76,7 +76,7 @@ In the Feywild, many archfey seek to bolster their armies' might with the servic
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/fey/token/hobgoblin-devastator.png"
+"image": "5. Mechanics/Bestiary/Fey/token/hobgoblin-devastator.png"
 ```
 ^statblock
 

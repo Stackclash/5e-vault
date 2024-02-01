@@ -69,7 +69,7 @@ aliases: ["Swarm of Rats"]
 - "TCE"
 - "CM"
 - "DoDk"
-"image": "compendium/bestiary/beast/token/swarm-of-rats.png"
+"image": "5. Mechanics/Bestiary/Beast/token/swarm-of-rats.png"
 ```
 ^statblock
 

@@ -94,7 +94,7 @@ A shadow doesn't require air, food, drink, or sleep
 - "BMT"
 - "GHLoE"
 - "DoDk"
-"image": "compendium/bestiary/undead/token/shadow.png"
+"image": "5. Mechanics/Bestiary/Undead/token/shadow.png"
 ```
 ^statblock
 

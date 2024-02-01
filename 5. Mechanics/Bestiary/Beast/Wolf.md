@@ -68,7 +68,7 @@ aliases: ["Wolf"]
 - "LK"
 - "BMT"
 - "GHLoE"
-"image": "compendium/bestiary/beast/token/wolf.png"
+"image": "5. Mechanics/Bestiary/Beast/token/wolf.png"
 ```
 ^statblock
 

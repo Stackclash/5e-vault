@@ -86,7 +86,7 @@ Though retrievers were created to operate only in the Abyss, they are sometimes 
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/construct/token/retriever.png"
+"image": "5. Mechanics/Bestiary/Construct/token/retriever.png"
 ```
 ^statblock
 

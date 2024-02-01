@@ -68,7 +68,7 @@ Smaller than a giant spider, a giant wolf spider hunts prey across open ground o
 - "TCE"
 - "WBtW"
 - "PSX"
-"image": "compendium/bestiary/beast/token/giant-wolf-spider.png"
+"image": "5. Mechanics/Bestiary/Beast/token/giant-wolf-spider.png"
 ```
 ^statblock
 

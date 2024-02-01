@@ -49,7 +49,7 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
 - "MM"
 - "ToA"
 - "CRCotN"
-"image": "compendium/bestiary/beast/token/ankylosaurus.png"
+"image": "5. Mechanics/Bestiary/Beast/token/ankylosaurus.png"
 ```
 ^statblock
 

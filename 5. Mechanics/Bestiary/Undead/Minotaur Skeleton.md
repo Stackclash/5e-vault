@@ -89,7 +89,7 @@ A skeleton doesn't require air, food, drink, or sleep.
 - "DSotDQ"
 - "KftGV"
 - "AATM"
-"image": "compendium/bestiary/undead/token/minotaur-skeleton.png"
+"image": "5. Mechanics/Bestiary/Undead/token/minotaur-skeleton.png"
 ```
 ^statblock
 

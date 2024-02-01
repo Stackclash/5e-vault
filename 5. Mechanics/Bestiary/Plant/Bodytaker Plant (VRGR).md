@@ -78,6 +78,6 @@ A bodytaker plant roots deep, spreading near-invisible filaments through the soi
   "name": "Entrapping Pod"
 "source":
 - "VRGR"
-"image": "compendium/bestiary/plant/token/bodytaker-plant.png"
+"image": "5. Mechanics/Bestiary/Plant/token/bodytaker-plant.png"
 ```
 ^statblock

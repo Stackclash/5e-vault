@@ -83,7 +83,7 @@ Spawn of Kyuss are expressions of Orcus's intent to replace all life with undeat
 - "MPMM"
 - "VGM"
 - "AATM"
-"image": "compendium/bestiary/undead/token/spawn-of-kyuss.png"
+"image": "5. Mechanics/Bestiary/Undead/token/spawn-of-kyuss.png"
 ```
 ^statblock
 

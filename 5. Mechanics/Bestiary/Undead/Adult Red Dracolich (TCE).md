@@ -89,6 +89,6 @@ aliases: ["Adult Red Dracolich"]
   "name": "Wing Attack (Costs 2 Actions)"
 "source":
 - "TCE"
-"image": "compendium/bestiary/undead/token/adult-red-dracolich.png"
+"image": "5. Mechanics/Bestiary/Undead/token/adult-red-dracolich.png"
 ```
 ^statblock

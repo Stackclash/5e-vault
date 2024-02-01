@@ -68,7 +68,7 @@ A scarecrow is animated by the bound spirit of a slain evil creature, granting i
 - "WDH"
 - "CM"
 - "KftGV"
-"image": "compendium/bestiary/construct/token/scarecrow.png"
+"image": "5. Mechanics/Bestiary/Construct/token/scarecrow.png"
 ```
 ^statblock
 

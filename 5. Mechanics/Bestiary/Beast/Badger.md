@@ -43,7 +43,7 @@ aliases: ["Badger"]
 "source":
 - "MM"
 - "WBtW"
-"image": "compendium/bestiary/beast/token/badger.png"
+"image": "5. Mechanics/Bestiary/Beast/token/badger.png"
 ```
 ^statblock
 

@@ -115,7 +115,7 @@ Oni are sometimes called ogre mages because of their innate magical ability. Tho
 - "KftGV"
 - "PSZ"
 - "ToFW"
-"image": "compendium/bestiary/giant/token/oni.png"
+"image": "5. Mechanics/Bestiary/Giant/token/oni.png"
 ```
 ^statblock
 

@@ -55,7 +55,7 @@ aliases: ["Giant Boar"]
 - "MOT"
 - "PSI"
 - "BMT"
-"image": "compendium/bestiary/beast/token/giant-boar.png"
+"image": "5. Mechanics/Bestiary/Beast/token/giant-boar.png"
 ```
 ^statblock
 

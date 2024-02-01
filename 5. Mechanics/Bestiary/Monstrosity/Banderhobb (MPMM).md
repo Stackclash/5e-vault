@@ -88,7 +88,7 @@ A banderhobb fulfills its duties until its existence ends. When it expires, usua
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/monstrosity/token/banderhobb.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/banderhobb.png"
 ```
 ^statblock
 

@@ -94,7 +94,7 @@ An ooze doesn't require sleep.
 - "GoS"
 - "KftGV"
 - "PaBTSO"
-"image": "compendium/bestiary/ooze/token/gray-ooze.png"
+"image": "5. Mechanics/Bestiary/Ooze/token/gray-ooze.png"
 ```
 ^statblock
 

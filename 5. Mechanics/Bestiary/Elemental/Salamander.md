@@ -97,7 +97,7 @@ This inherent heat is an asset to salamanders' skill as smiths, allowing them to
 - "KftGV"
 - "GotSF"
 - "BMT"
-"image": "compendium/bestiary/elemental/token/salamander.png"
+"image": "5. Mechanics/Bestiary/Elemental/token/salamander.png"
 ```
 ^statblock
 

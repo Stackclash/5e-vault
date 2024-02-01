@@ -68,7 +68,7 @@ Chitines resemble spiders, but they behave more like social insects such as ants
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/monstrosity/token/chitine.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/chitine.png"
 ```
 ^statblock
 

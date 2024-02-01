@@ -76,7 +76,7 @@ Thugs are ruthless enforcers skilled at intimidation and violence. They work for
 - "BMT"
 - "GHLoE"
 - "DoDk"
-"image": "compendium/bestiary/humanoid/token/thug.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/thug.png"
 ```
 ^statblock
 

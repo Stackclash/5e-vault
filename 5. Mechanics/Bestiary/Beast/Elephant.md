@@ -51,7 +51,7 @@ aliases: ["Elephant"]
 - "ToA"
 - "SatO"
 - "ToFW"
-"image": "compendium/bestiary/beast/token/elephant.png"
+"image": "5. Mechanics/Bestiary/Beast/token/elephant.png"
 ```
 ^statblock
 

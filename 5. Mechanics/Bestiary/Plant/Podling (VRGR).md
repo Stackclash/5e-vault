@@ -66,6 +66,6 @@ Podlings are near-perfect mimics of the creatures they replace. Despite having t
   "name": "Slam"
 "source":
 - "VRGR"
-"image": "compendium/bestiary/plant/token/podling.png"
+"image": "5. Mechanics/Bestiary/Plant/token/podling.png"
 ```
 ^statblock

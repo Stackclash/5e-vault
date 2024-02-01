@@ -103,7 +103,7 @@ An elemental doesn't require air, food, drink, or sleep.
 - "PSI"
 - "BMT"
 - "DoDk"
-"image": "compendium/bestiary/elemental/token/fire-elemental.png"
+"image": "5. Mechanics/Bestiary/Elemental/token/fire-elemental.png"
 ```
 ^statblock
 

@@ -78,7 +78,7 @@ A wild gazer (one living separately from a beholder) is territorial, eats bugs a
 - "MPMM"
 - "VGM"
 - "SjA"
-"image": "compendium/bestiary/aberration/token/gazer.png"
+"image": "5. Mechanics/Bestiary/Aberration/token/gazer.png"
 ```
 ^statblock
 

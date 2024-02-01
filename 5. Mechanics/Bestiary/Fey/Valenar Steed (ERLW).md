@@ -70,6 +70,6 @@ Each Valenar animal can be customized with an ancestral gift, a supernatural tra
   "name": "Hooves"
 "source":
 - "ERLW"
-"image": "compendium/bestiary/fey/token/valenar-steed.png"
+"image": "5. Mechanics/Bestiary/Fey/token/valenar-steed.png"
 ```
 ^statblock

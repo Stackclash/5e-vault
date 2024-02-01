@@ -68,7 +68,7 @@ Most tortles like to see how other folk live. A tortle can spend decades away fr
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/humanoid/token/tortle.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/tortle.png"
 ```
 ^statblock
 

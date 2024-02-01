@@ -79,6 +79,6 @@ Among the types of horror adventures detailed in "chapter 2", tales of uncontrol
   "name": "Grasping Limbs"
 "source":
 - "VRGR"
-"image": "compendium/bestiary/undead/token/swarm-of-zombie-limbs.png"
+"image": "5. Mechanics/Bestiary/Undead/token/swarm-of-zombie-limbs.png"
 ```
 ^statblock

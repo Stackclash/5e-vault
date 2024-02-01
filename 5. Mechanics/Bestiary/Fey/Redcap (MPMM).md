@@ -69,7 +69,7 @@ In any case, if a redcap works with another being, the redcap demands to be paid
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/fey/token/redcap.png"
+"image": "5. Mechanics/Bestiary/Fey/token/redcap.png"
 ```
 ^statblock
 

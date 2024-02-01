@@ -68,7 +68,7 @@ aliases: ["Giant Frog"]
 - "EGW"
 - "WBtW"
 - "PSA"
-"image": "compendium/bestiary/beast/token/giant-frog.png"
+"image": "5. Mechanics/Bestiary/Beast/token/giant-frog.png"
 ```
 ^statblock
 

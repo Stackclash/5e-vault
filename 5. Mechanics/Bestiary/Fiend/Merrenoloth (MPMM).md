@@ -76,7 +76,7 @@ The grim captains of the ferries on the River Styx, merrenoloths can navigate sa
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/fiend/token/merrenoloth.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/merrenoloth.png"
 ```
 ^statblock
 

@@ -65,6 +65,6 @@ Barovian witches use the [[5. Mechanics/Spells/Find Familiar.md|find familiar]] 
   "name": "Dagger"
 "source":
 - "CoS"
-"image": "compendium/bestiary/humanoid/token/barovian-witch.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/barovian-witch.png"
 ```
 ^statblock

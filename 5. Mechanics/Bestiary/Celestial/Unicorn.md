@@ -127,7 +127,7 @@ A unicorn's lair might be an ancient ruin overgrown with vines, a misty clearing
 - "WBtW"
 - "KftGV"
 - "SatO"
-"image": "compendium/bestiary/celestial/token/unicorn.png"
+"image": "5. Mechanics/Bestiary/Celestial/token/unicorn.png"
 ```
 ^statblock
 

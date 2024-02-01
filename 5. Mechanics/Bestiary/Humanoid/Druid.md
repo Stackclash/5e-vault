@@ -85,7 +85,7 @@ Druids dwell in forests and other secluded wilderness locations, where they prot
 - "SatO"
 - "BMT"
 - "DoDk"
-"image": "compendium/bestiary/humanoid/token/druid.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/druid.png"
 ```
 ^statblock
 

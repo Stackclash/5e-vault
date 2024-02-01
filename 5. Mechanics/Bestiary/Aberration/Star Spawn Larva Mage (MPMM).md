@@ -77,7 +77,7 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
     \ monster](compendium/spells/dominate-monster.md)"
   "name": "spells"
 - "desc": "When the mage is reduced to 0 hit points, it breaks apart into a [swarm\
-    \ of insects](compendium/bestiary/beast/swarm-of-insects.md) in the same space.\
+    \ of insects](5. Mechanics/Bestiary/Beast/swarm-of-insects.md) in the same space.\
     \ Unless the swarm is destroyed, the mage reforms from it 24 hours later."
   "name": "Return to Worms"
 "actions":
@@ -116,7 +116,7 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 - "MPMM"
 - "MTF"
 - "BMT"
-"image": "compendium/bestiary/aberration/token/star-spawn-larva-mage.png"
+"image": "5. Mechanics/Bestiary/Aberration/token/star-spawn-larva-mage.png"
 ```
 ^statblock
 

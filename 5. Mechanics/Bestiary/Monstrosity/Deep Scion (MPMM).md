@@ -80,7 +80,7 @@ The training to which a deep scion is subjected rids it of empathy for those the
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/monstrosity/token/deep-scion.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/deep-scion.png"
 ```
 ^statblock
 

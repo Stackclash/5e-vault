@@ -92,7 +92,7 @@ In their natural form, dybbuks appear as translucent flying jellyfish, trailing 
 - "MPMM"
 - "MTF"
 - "AATM"
-"image": "compendium/bestiary/fiend/token/dybbuk.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/dybbuk.png"
 ```
 ^statblock
 

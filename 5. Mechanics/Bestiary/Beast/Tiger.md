@@ -60,7 +60,7 @@ aliases: ["Tiger"]
 - "WDH"
 - "GoS"
 - "MOT"
-"image": "compendium/bestiary/beast/token/tiger.png"
+"image": "5. Mechanics/Bestiary/Beast/token/tiger.png"
 ```
 ^statblock
 

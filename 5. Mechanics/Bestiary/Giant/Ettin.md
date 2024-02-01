@@ -89,7 +89,7 @@ Whatever the truth of the ettins' origin, orcs treat them as distant cousins, an
 - "WDMM"
 - "JttRC"
 - "ToFW"
-"image": "compendium/bestiary/giant/token/ettin.png"
+"image": "5. Mechanics/Bestiary/Giant/token/ettin.png"
 ```
 ^statblock
 

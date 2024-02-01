@@ -68,7 +68,7 @@ The Wind Dukes of Aaqa come from a race of elemental beings called the vaati, wh
     \ damage."
   "name": "Javelin"
 - "desc": "Five aarakocra within 30 feet of each other can magically summon an [air\
-    \ elemental](compendium/bestiary/elemental/air-elemental.md). Each of the five\
+    \ elemental](5. Mechanics/Bestiary/Elemental/air-elemental.md). Each of the five\
     \ must use its action and movement on three consecutive turns to perform an aerial\
     \ dance and must maintain [[/5. Mechanics/Rules/Conditions.md#concentration|concentration]]\
     \ while doing so (as if concentrating on a spell). When all five have finished\
@@ -88,7 +88,7 @@ The Wind Dukes of Aaqa come from a race of elemental beings called the vaati, wh
 - "IDRotF"
 - "CRCotN"
 - "LoX"
-"image": "compendium/bestiary/humanoid/token/aarakocra.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/aarakocra.png"
 ```
 ^statblock
 

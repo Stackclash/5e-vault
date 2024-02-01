@@ -70,7 +70,7 @@ Part of what makes armanites so fearsome is the number of weapons they have at t
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/fiend/token/armanite.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/armanite.png"
 ```
 ^statblock
 

@@ -89,7 +89,7 @@ Choldriths are born with a mystical connection to Lolth, which gives them divine
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/monstrosity/token/choldrith.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/choldrith.png"
 ```
 ^statblock
 

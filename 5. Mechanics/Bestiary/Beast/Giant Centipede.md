@@ -52,7 +52,7 @@ aliases: ["Giant Centipede"]
 - "TCE"
 - "PSX"
 - "PSA"
-"image": "compendium/bestiary/beast/token/giant-centipede.png"
+"image": "5. Mechanics/Bestiary/Beast/token/giant-centipede.png"
 ```
 ^statblock
 

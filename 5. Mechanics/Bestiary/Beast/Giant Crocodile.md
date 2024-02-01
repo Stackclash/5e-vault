@@ -61,7 +61,7 @@ aliases: ["Giant Crocodile"]
 - "ToFW"
 - "GHLoE"
 - "DoDk"
-"image": "compendium/bestiary/beast/token/giant-crocodile.png"
+"image": "5. Mechanics/Bestiary/Beast/token/giant-crocodile.png"
 ```
 ^statblock
 

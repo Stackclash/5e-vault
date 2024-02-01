@@ -84,7 +84,7 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/fiend/token/blue-abishai.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/blue-abishai.png"
 ```
 ^statblock
 

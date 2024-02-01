@@ -98,7 +98,7 @@ A behir never makes its lair in an area it knows to be inhabited by a dragon. If
 - "PaBTSO"
 - "ToFW"
 - "BMT"
-"image": "compendium/bestiary/monstrosity/token/behir.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/behir.png"
 ```
 ^statblock
 

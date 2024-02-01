@@ -89,7 +89,7 @@ When a master thief completes a challenging heist, they often leave behind a cal
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/humanoid/token/master-thief.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/master-thief.png"
 ```
 ^statblock
 

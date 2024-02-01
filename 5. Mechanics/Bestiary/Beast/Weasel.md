@@ -47,6 +47,6 @@ aliases: ["Weasel"]
 - "IDRotF"
 - "WBtW"
 - "PaBTSO"
-"image": "compendium/bestiary/beast/token/weasel.png"
+"image": "5. Mechanics/Bestiary/Beast/token/weasel.png"
 ```
 ^statblock

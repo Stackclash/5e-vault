@@ -86,7 +86,7 @@ If [[5. Mechanics/Bestiary/Humanoid/Bullywug.md|bullywugs]] come across a froghe
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/monstrosity/token/froghemoth.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/froghemoth.png"
 ```
 ^statblock
 

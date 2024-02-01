@@ -71,6 +71,6 @@ To protect sites they deem holy, gods often rely on eidolons, ghostly spirits bo
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/construct/token/sacred-statue.png"
+"image": "5. Mechanics/Bestiary/Construct/token/sacred-statue.png"
 ```
 ^statblock

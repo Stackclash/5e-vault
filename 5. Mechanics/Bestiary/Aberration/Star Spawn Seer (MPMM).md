@@ -111,7 +111,7 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 - "MPMM"
 - "MTF"
 - "BMT"
-"image": "compendium/bestiary/aberration/token/star-spawn-seer.png"
+"image": "5. Mechanics/Bestiary/Aberration/token/star-spawn-seer.png"
 ```
 ^statblock
 

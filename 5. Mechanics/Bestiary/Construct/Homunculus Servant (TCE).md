@@ -53,6 +53,6 @@ aliases: ["Homunculus Servant"]
 "source":
 - "TCE"
 - "ERLW"
-"image": "compendium/bestiary/construct/token/homunculus-servant.png"
+"image": "5. Mechanics/Bestiary/Construct/token/homunculus-servant.png"
 ```
 ^statblock

@@ -80,7 +80,7 @@ With or without corpses nested in its body, a corpse flower exudes a stench of d
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/plant/token/corpse-flower.png"
+"image": "5. Mechanics/Bestiary/Plant/token/corpse-flower.png"
 ```
 ^statblock
 

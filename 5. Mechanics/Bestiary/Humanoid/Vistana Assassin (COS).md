@@ -99,6 +99,6 @@ aliases: ["Vistana Assassin"]
   "name": "Evil Eye (Recharges after a Short or Long Rest)"
 "source":
 - "CoS"
-"image": "compendium/bestiary/humanoid/token/vistana-assassin.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/vistana-assassin.png"
 ```
 ^statblock

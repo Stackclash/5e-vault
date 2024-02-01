@@ -79,7 +79,7 @@ A hag can have up to three iron tokens active at one time. As an action, the hag
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/fey/token/annis-hag.png"
+"image": "5. Mechanics/Bestiary/Fey/token/annis-hag.png"
 ```
 ^statblock
 

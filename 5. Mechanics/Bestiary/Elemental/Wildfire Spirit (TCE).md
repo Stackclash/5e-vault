@@ -43,6 +43,6 @@ aliases: ["Wildfire Spirit"]
   "name": "Fiery Teleportation"
 "source":
 - "TCE"
-"image": "compendium/bestiary/elemental/token/wildfire-spirit.png"
+"image": "5. Mechanics/Bestiary/Elemental/token/wildfire-spirit.png"
 ```
 ^statblock

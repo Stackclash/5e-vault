@@ -65,7 +65,7 @@ Shadow mastiffs—hounds of the Shadowfell—move invisibly through the shadows,
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/monstrosity/token/shadow-mastiff.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/shadow-mastiff.png"
 ```
 ^statblock
 

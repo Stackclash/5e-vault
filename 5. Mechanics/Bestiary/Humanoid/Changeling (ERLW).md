@@ -61,6 +61,6 @@ Changelings are a humanoid race of shapechangers who conceal their true identiti
   "name": "Unsettling Visage (Recharges after a Short or Long Rest)"
 "source":
 - "ERLW"
-"image": "compendium/bestiary/humanoid/token/changeling.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/changeling.png"
 ```
 ^statblock

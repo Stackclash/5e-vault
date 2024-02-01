@@ -54,7 +54,7 @@ Smaller than giant sharks and hunter sharks, reef sharks inhabit shallow waters 
 - "EGW"
 - "CRCotN"
 - "JttRC"
-"image": "compendium/bestiary/beast/token/reef-shark.png"
+"image": "5. Mechanics/Bestiary/Beast/token/reef-shark.png"
 ```
 ^statblock
 

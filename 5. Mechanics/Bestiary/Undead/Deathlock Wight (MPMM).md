@@ -80,6 +80,6 @@ An powerful necromancer might also discover the wicked methods of creating a dea
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/undead/token/deathlock-wight.png"
+"image": "5. Mechanics/Bestiary/Undead/token/deathlock-wight.png"
 ```
 ^statblock

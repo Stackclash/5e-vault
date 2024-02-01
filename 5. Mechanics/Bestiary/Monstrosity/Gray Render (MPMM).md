@@ -83,7 +83,7 @@ The Gray Render Quirks table presents possible quirks for gray renders that can 
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/monstrosity/token/gray-render.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/gray-render.png"
 ```
 ^statblock
 

@@ -70,7 +70,7 @@ Every kraken priest undergoes a change in appearance that reflects the kraken's 
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/monstrosity/token/kraken-priest.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/kraken-priest.png"
 ```
 ^statblock
 

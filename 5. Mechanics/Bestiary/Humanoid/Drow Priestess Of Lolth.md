@@ -149,7 +149,7 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
 - "TftYP"
 - "WDMM"
 - "GoS"
-"image": "compendium/bestiary/humanoid/token/drow-priestess-of-lolth.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/drow-priestess-of-lolth.png"
 ```
 ^statblock
 

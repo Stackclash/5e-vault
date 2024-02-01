@@ -80,7 +80,7 @@ With senses sharp enough to pinpoint the locations of nearby [[/5. Mechanics/Rul
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/fiend/token/canoloth.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/canoloth.png"
 ```
 ^statblock
 

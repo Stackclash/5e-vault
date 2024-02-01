@@ -73,7 +73,7 @@ Corpses that accumulate on a cadaver collector's shell aren't just grisly battle
 - "MPMM"
 - "MTF"
 - "AATM"
-"image": "compendium/bestiary/construct/token/cadaver-collector.png"
+"image": "5. Mechanics/Bestiary/Construct/token/cadaver-collector.png"
 ```
 ^statblock
 

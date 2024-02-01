@@ -49,7 +49,7 @@ This massive four-legged dinosaur is large enough that most predators leave it a
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/beast/token/brontosaurus.png"
+"image": "5. Mechanics/Bestiary/Beast/token/brontosaurus.png"
 ```
 ^statblock
 

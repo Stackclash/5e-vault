@@ -121,7 +121,7 @@ Any damage-dealing breath weapon possessed by the dragon deals necrotic damage i
 "source":
 - "MM"
 - "AATM"
-"image": "compendium/bestiary/dragon/token/young-red-shadow-dragon.png"
+"image": "5. Mechanics/Bestiary/Dragon/token/young-red-shadow-dragon.png"
 ```
 ^statblock
 

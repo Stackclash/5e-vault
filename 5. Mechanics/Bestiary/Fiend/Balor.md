@@ -255,6 +255,6 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - "CRCotN"
 - "ToFW"
 - "DoDk"
-"image": "compendium/bestiary/fiend/token/balor.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/balor.png"
 ```
 ^statblock

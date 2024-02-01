@@ -184,7 +184,7 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
   "name": "Bite (Costs 2 Actions)"
 "source":
 - "MM"
-"image": "compendium/bestiary/undead/token/vampire-warrior.png"
+"image": "5. Mechanics/Bestiary/Undead/token/vampire-warrior.png"
 ```
 ^statblock
 

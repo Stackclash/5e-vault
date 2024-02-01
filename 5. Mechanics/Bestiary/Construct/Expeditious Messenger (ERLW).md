@@ -63,6 +63,6 @@ Each kind of homunculus has a body constructed from different kinds of materials
   "name": "Bite"
 "source":
 - "ERLW"
-"image": "compendium/bestiary/construct/token/expeditious-messenger.png"
+"image": "5. Mechanics/Bestiary/Construct/token/expeditious-messenger.png"
 ```
 ^statblock

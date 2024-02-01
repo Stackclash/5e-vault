@@ -121,7 +121,7 @@ Some individuals see little point in fighting the curse and accept what they are
 - "IDRotF"
 - "CM"
 - "BMT"
-"image": "compendium/bestiary/humanoid/token/werewolf.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/werewolf.png"
 ```
 ^statblock
 

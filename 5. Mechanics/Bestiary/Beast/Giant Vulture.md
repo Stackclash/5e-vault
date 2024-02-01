@@ -62,7 +62,7 @@ A giant vulture has advanced intelligence and a malevolent bent. Unlike its smal
 - "MOT"
 - "IDRotF"
 - "CRCotN"
-"image": "compendium/bestiary/beast/token/giant-vulture.png"
+"image": "5. Mechanics/Bestiary/Beast/token/giant-vulture.png"
 ```
 ^statblock
 

@@ -51,7 +51,7 @@ aliases: ["Giant Hyena"]
 - "TftYP"
 - "GoS"
 - "BGDIA"
-"image": "compendium/bestiary/beast/token/giant-hyena.png"
+"image": "5. Mechanics/Bestiary/Beast/token/giant-hyena.png"
 ```
 ^statblock
 

@@ -85,7 +85,7 @@ Pit masters are deeply involved in yuan-ti's longterm plan to take over Humanoid
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/monstrosity/token/yuan-ti-pit-master.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/yuan-ti-pit-master.png"
 ```
 ^statblock
 

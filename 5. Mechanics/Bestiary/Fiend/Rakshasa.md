@@ -93,7 +93,7 @@ Like devils, rakshasas killed in the Nine Hells are forever destroyed.
 - "ERLW"
 - "TCE"
 - "CM"
-"image": "compendium/bestiary/fiend/token/rakshasa.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/rakshasa.png"
 ```
 ^statblock
 

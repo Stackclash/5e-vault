@@ -78,7 +78,7 @@ Each shoosuva is bonded to a particular worshiper of Yeenoghu and fights alongsi
 - "MPMM"
 - "VGM"
 - "BMT"
-"image": "compendium/bestiary/fiend/token/shoosuva.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/shoosuva.png"
 ```
 ^statblock
 

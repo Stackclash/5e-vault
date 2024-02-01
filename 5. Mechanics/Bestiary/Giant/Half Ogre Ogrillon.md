@@ -96,7 +96,7 @@ The half-ogre offspring of an ogre and an orc is also called an ogrillon. An adu
 - "ERLW"
 - "IDRotF"
 - "DSotDQ"
-"image": "compendium/bestiary/giant/token/half-ogre-ogrillon.png"
+"image": "5. Mechanics/Bestiary/Giant/token/half-ogre-ogrillon.png"
 ```
 ^statblock
 

@@ -61,7 +61,7 @@ aliases: ["Swarm of Beetles"]
   "name": "Bites"
 "source":
 - "MM"
-"image": "compendium/bestiary/beast/token/swarm-of-beetles.png"
+"image": "5. Mechanics/Bestiary/Beast/token/swarm-of-beetles.png"
 ```
 ^statblock
 

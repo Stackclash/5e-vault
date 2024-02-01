@@ -90,7 +90,7 @@ A boggle can create magical openings to travel short distances or to pilfer item
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/fey/token/boggle.png"
+"image": "5. Mechanics/Bestiary/Fey/token/boggle.png"
 ```
 ^statblock
 

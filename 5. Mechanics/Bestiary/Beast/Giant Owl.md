@@ -57,7 +57,7 @@ Giant owls often befriend fey and other sylvan creatures and are guardians of th
 - "IMR"
 - "EGW"
 - "BMT"
-"image": "compendium/bestiary/beast/token/giant-owl.png"
+"image": "5. Mechanics/Bestiary/Beast/token/giant-owl.png"
 ```
 ^statblock
 

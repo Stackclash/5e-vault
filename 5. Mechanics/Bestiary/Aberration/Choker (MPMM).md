@@ -69,7 +69,7 @@ Chokers tend to set their ambushes alone, rather than working in concert, but wh
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/aberration/token/choker.png"
+"image": "5. Mechanics/Bestiary/Aberration/token/choker.png"
 ```
 ^statblock
 

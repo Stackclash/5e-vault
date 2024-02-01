@@ -71,7 +71,7 @@ Cruel and chaotic, skulks carry out their orders in the most violent manner poss
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/monstrosity/token/skulk.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/skulk.png"
 ```
 ^statblock
 

@@ -52,6 +52,6 @@ aliases: ["Barovian Scout"]
   "name": "Light Crossbows"
 "source":
 - "CoS"
-"image": "compendium/bestiary/humanoid/token/barovian-scout.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/barovian-scout.png"
 ```
 ^statblock

@@ -62,6 +62,6 @@ Most warforged soldiers still serve their former masters, often guarding dragonm
   "name": "Protection"
 "source":
 - "ERLW"
-"image": "compendium/bestiary/humanoid/token/warforged-soldier.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/warforged-soldier.png"
 ```
 ^statblock

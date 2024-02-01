@@ -110,7 +110,7 @@ An ooze doesn't require sleep.
 - "SatO"
 - "ToFW"
 - "DoDk"
-"image": "compendium/bestiary/ooze/token/black-pudding.png"
+"image": "5. Mechanics/Bestiary/Ooze/token/black-pudding.png"
 ```
 ^statblock
 

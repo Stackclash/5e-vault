@@ -101,7 +101,7 @@ Terrifying storms manifest in the bodies of elder tempests. Beings carved from c
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/elemental/token/elder-tempest.png"
+"image": "5. Mechanics/Bestiary/Elemental/token/elder-tempest.png"
 ```
 ^statblock
 

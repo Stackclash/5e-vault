@@ -104,7 +104,7 @@ If a shambling mound faces defeat before an overwhelming foe, the root-stem can 
 - "HFStCM"
 - "GHLoE"
 - "DoDk"
-"image": "compendium/bestiary/plant/token/shambling-mound.png"
+"image": "5. Mechanics/Bestiary/Plant/token/shambling-mound.png"
 ```
 ^statblock
 

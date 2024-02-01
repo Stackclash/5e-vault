@@ -144,7 +144,7 @@ The death tyrant can't repeat an effect until all three have been used, and it c
 - "AATM"
 - "SatO"
 - "BMT"
-"image": "compendium/bestiary/undead/token/death-tyrant.png"
+"image": "5. Mechanics/Bestiary/Undead/token/death-tyrant.png"
 ```
 ^statblock
 

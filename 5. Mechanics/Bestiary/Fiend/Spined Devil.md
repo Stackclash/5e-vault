@@ -197,6 +197,6 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - "BGDIA"
 - "KftGV"
 - "PSI"
-"image": "compendium/bestiary/fiend/token/spined-devil.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/spined-devil.png"
 ```
 ^statblock

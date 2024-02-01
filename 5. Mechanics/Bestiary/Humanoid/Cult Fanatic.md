@@ -88,7 +88,7 @@ Fanatics are often part of a cult's leadership, using their charisma and dogma t
 - "ToFW"
 - "BMT"
 - "DoDk"
-"image": "compendium/bestiary/humanoid/token/cult-fanatic.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/cult-fanatic.png"
 ```
 ^statblock
 

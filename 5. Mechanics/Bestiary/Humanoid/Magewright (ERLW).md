@@ -70,6 +70,6 @@ The magewright stat block provides the baseline statistics for a magewright. You
   "name": "Dagger"
 "source":
 - "ERLW"
-"image": "compendium/bestiary/humanoid/token/magewright.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/magewright.png"
 ```
 ^statblock

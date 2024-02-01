@@ -79,7 +79,7 @@ A flail snail shell can also be used to make a [[5. Mechanics/Items/Robe Of Scin
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/elemental/token/flail-snail.png"
+"image": "5. Mechanics/Bestiary/Elemental/token/flail-snail.png"
 ```
 ^statblock
 

@@ -100,7 +100,7 @@ Harpies take shiny baubles, valuable objects, and other trophies from their vict
 - "DoSI"
 - "BMT"
 - "DoDk"
-"image": "compendium/bestiary/monstrosity/token/harpy.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/harpy.png"
 ```
 ^statblock
 

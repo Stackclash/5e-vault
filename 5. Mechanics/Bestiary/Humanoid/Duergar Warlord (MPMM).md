@@ -106,7 +106,7 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/humanoid/token/duergar-warlord.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/duergar-warlord.png"
 ```
 ^statblock
 

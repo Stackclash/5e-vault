@@ -76,7 +76,7 @@ Wood woads are drawn to creatures that have close ties to nature and that protec
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/plant/token/wood-woad.png"
+"image": "5. Mechanics/Bestiary/Plant/token/wood-woad.png"
 ```
 ^statblock
 

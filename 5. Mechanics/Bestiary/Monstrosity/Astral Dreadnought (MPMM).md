@@ -102,6 +102,6 @@ Covered from head to tail in layers of thick, spiked plates, a dreadnought has t
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/monstrosity/token/astral-dreadnought.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/astral-dreadnought.png"
 ```
 ^statblock

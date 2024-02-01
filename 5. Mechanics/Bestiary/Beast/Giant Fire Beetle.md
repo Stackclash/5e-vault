@@ -48,7 +48,7 @@ A giant fire beetle is a nocturnal creature that takes its name from a pair of g
 - "WDH"
 - "WDMM"
 - "PSX"
-"image": "compendium/bestiary/beast/token/giant-fire-beetle.png"
+"image": "5. Mechanics/Bestiary/Beast/token/giant-fire-beetle.png"
 ```
 ^statblock
 

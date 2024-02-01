@@ -124,7 +124,7 @@ Legends tell how the tarrasque slumbers in its secret lair beneath the earth, re
 - "LoX"
 - "BMT"
 - "DoDk"
-"image": "compendium/bestiary/monstrosity/token/tarrasque.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/tarrasque.png"
 ```
 ^statblock
 

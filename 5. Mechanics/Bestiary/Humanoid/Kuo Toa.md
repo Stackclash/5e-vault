@@ -126,7 +126,7 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 - "EGW"
 - "PSI"
 - "SatO"
-"image": "compendium/bestiary/humanoid/token/kuo-toa.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/kuo-toa.png"
 ```
 ^statblock
 

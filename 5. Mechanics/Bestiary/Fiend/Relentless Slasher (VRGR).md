@@ -105,6 +105,6 @@ Relentless killers come into being and undertake their terrifying sprees for a s
   "name": "Vanishing Strike (Costs 3 Actions)"
 "source":
 - "VRGR"
-"image": "compendium/bestiary/fiend/token/relentless-slasher.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/relentless-slasher.png"
 ```
 ^statblock

@@ -87,7 +87,7 @@ Many survivors of an umber hulk encounter recollect little about the attack, bec
 - "PaBTSO"
 - "SatO"
 - "BMT"
-"image": "compendium/bestiary/monstrosity/token/umber-hulk.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/umber-hulk.png"
 ```
 ^statblock
 

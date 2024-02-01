@@ -86,7 +86,7 @@ An elemental doesn't require air, food, drink, or sleep.
 - "CRCotN"
 - "PaBTSO"
 - "DoDk"
-"image": "compendium/bestiary/elemental/token/earth-elemental.png"
+"image": "5. Mechanics/Bestiary/Elemental/token/earth-elemental.png"
 ```
 ^statblock
 

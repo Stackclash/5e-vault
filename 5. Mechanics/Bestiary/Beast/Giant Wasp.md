@@ -50,7 +50,7 @@ aliases: ["Giant Wasp"]
 - "EGW"
 - "PSX"
 - "PSA"
-"image": "compendium/bestiary/beast/token/giant-wasp.png"
+"image": "5. Mechanics/Bestiary/Beast/token/giant-wasp.png"
 ```
 ^statblock
 

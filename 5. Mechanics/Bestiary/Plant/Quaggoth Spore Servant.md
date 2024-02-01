@@ -88,7 +88,7 @@ If the servant has no other means of dealing damage, it can use its fists or lim
 - "MM"
 - "WDMM"
 - "IDRotF"
-"image": "compendium/bestiary/plant/token/quaggoth-spore-servant.png"
+"image": "5. Mechanics/Bestiary/Plant/token/quaggoth-spore-servant.png"
 ```
 ^statblock
 

@@ -98,7 +98,7 @@ Mimics live and hunt alone, though they occasionally share their feeding grounds
 - "SatO"
 - "BMT"
 - "DoDk"
-"image": "compendium/bestiary/monstrosity/token/mimic.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/mimic.png"
 ```
 ^statblock
 

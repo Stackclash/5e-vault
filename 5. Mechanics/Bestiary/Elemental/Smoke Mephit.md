@@ -77,7 +77,7 @@ Smoke mephits are crude, lazy creatures of air and fire that billow smoke consta
 - "WDMM"
 - "KftGV"
 - "ToFW"
-"image": "compendium/bestiary/elemental/token/smoke-mephit.png"
+"image": "5. Mechanics/Bestiary/Elemental/token/smoke-mephit.png"
 ```
 ^statblock
 

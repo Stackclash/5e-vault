@@ -78,7 +78,7 @@ The knowledge that berbalangs accumulate makes them great sources of information
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/aberration/token/berbalang.png"
+"image": "5. Mechanics/Bestiary/Aberration/token/berbalang.png"
 ```
 ^statblock
 

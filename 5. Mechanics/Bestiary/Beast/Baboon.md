@@ -50,7 +50,7 @@ aliases: ["Baboon"]
 - "CoS"
 - "WBtW"
 - "KftGV"
-"image": "compendium/bestiary/beast/token/baboon.png"
+"image": "5. Mechanics/Bestiary/Beast/token/baboon.png"
 ```
 ^statblock
 

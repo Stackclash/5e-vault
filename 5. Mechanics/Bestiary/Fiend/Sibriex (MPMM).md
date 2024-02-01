@@ -103,7 +103,7 @@ Sibriexes can channel the power of the Abyss to create new demons from other cre
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/fiend/token/sibriex.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/sibriex.png"
 ```
 ^statblock
 

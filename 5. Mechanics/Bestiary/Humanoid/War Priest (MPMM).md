@@ -87,7 +87,7 @@ War priests typically adorn themselves with a symbol of their faith. You can rol
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/humanoid/token/war-priest.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/war-priest.png"
 ```
 ^statblock
 

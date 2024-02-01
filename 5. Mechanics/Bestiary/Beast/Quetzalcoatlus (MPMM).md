@@ -52,7 +52,7 @@ This giant relative of the pteranodon has a wingspan exceeding 30 feet. Although
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/beast/token/quetzalcoatlus.png"
+"image": "5. Mechanics/Bestiary/Beast/token/quetzalcoatlus.png"
 ```
 ^statblock
 

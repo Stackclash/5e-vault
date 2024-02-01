@@ -42,6 +42,6 @@ aliases: ["Sergeant"]
   "name": "Spear"
 "source":
 - "ERLW"
-"image": "compendium/bestiary/humanoid/token/sergeant.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/sergeant.png"
 ```
 ^statblock

@@ -73,7 +73,7 @@ A scale sorcerer who resides in or near a dragon's lair may serve as that dragon
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/humanoid/token/kobold-scale-sorcerer.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/kobold-scale-sorcerer.png"
 ```
 ^statblock
 

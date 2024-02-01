@@ -66,7 +66,7 @@ A hippogriff raised in captivity can be trained to be a faithful companion and m
 - "WDH"
 - "ERLW"
 - "EGW"
-"image": "compendium/bestiary/monstrosity/token/hippogriff.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/hippogriff.png"
 ```
 ^statblock
 

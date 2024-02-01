@@ -91,7 +91,7 @@ Creatures that ingest water corrupted by a wastrilith risk their very souls. Tho
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/fiend/token/wastrilith.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/wastrilith.png"
 ```
 ^statblock
 

@@ -93,7 +93,7 @@ Among Lolth's devotees in the city of Menzoberranzan in the Forgotten Realms, ea
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/humanoid/token/drow-house-captain.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/drow-house-captain.png"
 ```
 ^statblock
 

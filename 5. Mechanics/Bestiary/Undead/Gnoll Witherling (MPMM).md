@@ -71,7 +71,7 @@ Witherlings travel with their comrades and try to kill anything in their path. T
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/undead/token/gnoll-witherling.png"
+"image": "5. Mechanics/Bestiary/Undead/token/gnoll-witherling.png"
 ```
 ^statblock
 

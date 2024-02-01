@@ -65,7 +65,7 @@ Tribal warriors live beyond civilization, most often subsisting on fishing and h
 - "EGW"
 - "MOT"
 - "IDRotF"
-"image": "compendium/bestiary/humanoid/token/tribal-warrior.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/tribal-warrior.png"
 ```
 ^statblock
 

@@ -54,7 +54,7 @@ aliases: ["Giant Goat"]
 - "IDRotF"
 - "CoS"
 - "WBtW"
-"image": "compendium/bestiary/beast/token/giant-goat.png"
+"image": "5. Mechanics/Bestiary/Beast/token/giant-goat.png"
 ```
 ^statblock
 

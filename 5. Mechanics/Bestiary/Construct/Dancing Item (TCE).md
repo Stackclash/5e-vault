@@ -44,6 +44,6 @@ aliases: ["Dancing Item"]
   "name": "Force-Empowered Slam"
 "source":
 - "TCE"
-"image": "compendium/bestiary/construct/token/dancing-item.png"
+"image": "5. Mechanics/Bestiary/Construct/token/dancing-item.png"
 ```
 ^statblock

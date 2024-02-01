@@ -91,7 +91,7 @@ Each bard is a master of at least one type of performance. You may choose a bard
 - "MPMM"
 - "VGM"
 - "AATM"
-"image": "compendium/bestiary/humanoid/token/bard.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/bard.png"
 ```
 ^statblock
 

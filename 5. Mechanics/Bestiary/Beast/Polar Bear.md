@@ -56,7 +56,7 @@ aliases: ["Polar Bear"]
 - "IMR"
 - "EGW"
 - "IDRotF"
-"image": "compendium/bestiary/beast/token/polar-bear.png"
+"image": "5. Mechanics/Bestiary/Beast/token/polar-bear.png"
 ```
 ^statblock
 

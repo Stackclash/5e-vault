@@ -80,7 +80,7 @@ Smiling ones take their name from the strange two-faced masks they wear. The smi
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/giant/token/cloud-giant-smiling-one.png"
+"image": "5. Mechanics/Bestiary/Giant/token/cloud-giant-smiling-one.png"
 ```
 ^statblock
 

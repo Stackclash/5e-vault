@@ -83,7 +83,7 @@ If its host is killed or the possession is ended by a spell such as hallow, magi
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/fey/token/nilbog.png"
+"image": "5. Mechanics/Bestiary/Fey/token/nilbog.png"
 ```
 ^statblock
 

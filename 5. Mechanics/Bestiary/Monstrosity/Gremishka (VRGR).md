@@ -55,6 +55,6 @@ Gremishkas have an unstable relationship with magic. Spells cast near a gremishk
   "name": "Magic Allergy (1/Day)"
 "source":
 - "VRGR"
-"image": "compendium/bestiary/monstrosity/token/gremishka.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/gremishka.png"
 ```
 ^statblock

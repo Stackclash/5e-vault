@@ -115,7 +115,7 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
 - "WDMM"
 - "CM"
 - "PSI"
-"image": "compendium/bestiary/humanoid/token/yuan-ti-pureblood.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/yuan-ti-pureblood.png"
 ```
 ^statblock
 

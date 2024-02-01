@@ -95,6 +95,6 @@ Once a loup garou is slain, a [[5. Mechanics/Spells/Remove Curse.md|remove curse
   "name": "Bite (Costs 3 Actions)"
 "source":
 - "VRGR"
-"image": "compendium/bestiary/monstrosity/token/loup-garou.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/loup-garou.png"
 ```
 ^statblock

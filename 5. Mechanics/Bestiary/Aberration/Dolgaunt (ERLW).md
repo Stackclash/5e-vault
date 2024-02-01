@@ -73,6 +73,6 @@ When the daelkyr were defeated, the dolgaunts descended into the depths of Khybe
   "name": "Vitality Drain"
 "source":
 - "ERLW"
-"image": "compendium/bestiary/aberration/token/dolgaunt.png"
+"image": "5. Mechanics/Bestiary/Aberration/token/dolgaunt.png"
 ```
 ^statblock

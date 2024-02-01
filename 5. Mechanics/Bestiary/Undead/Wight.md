@@ -112,7 +112,7 @@ A wight doesn't require air, food, drink, or sleep.
 - "SatO"
 - "BMT"
 - "DoDk"
-"image": "compendium/bestiary/undead/token/wight.png"
+"image": "5. Mechanics/Bestiary/Undead/token/wight.png"
 ```
 ^statblock
 

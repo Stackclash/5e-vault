@@ -203,6 +203,6 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - "IDRotF"
 - "TCE"
 - "GHLoE"
-"image": "compendium/bestiary/fiend/token/barbed-devil.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/barbed-devil.png"
 ```
 ^statblock

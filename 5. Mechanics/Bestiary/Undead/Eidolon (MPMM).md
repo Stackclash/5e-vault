@@ -83,7 +83,7 @@ To protect sites they deem holy, gods often rely on eidolons, ghostly spirits bo
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/undead/token/eidolon.png"
+"image": "5. Mechanics/Bestiary/Undead/token/eidolon.png"
 ```
 ^statblock
 

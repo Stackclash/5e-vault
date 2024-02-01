@@ -50,7 +50,7 @@ The cockatrice looks like a hideous hybrid of lizard, bird, and bat, and it is i
 - "ERLW"
 - "MOT"
 - "WBtW"
-"image": "compendium/bestiary/monstrosity/token/cockatrice.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/cockatrice.png"
 ```
 ^statblock
 

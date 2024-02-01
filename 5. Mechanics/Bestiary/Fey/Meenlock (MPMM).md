@@ -73,7 +73,7 @@ Up to four meenlocks can telepathically torment one [[/5. Mechanics/Rules/Condit
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/fey/token/meenlock.png"
+"image": "5. Mechanics/Bestiary/Fey/token/meenlock.png"
 ```
 ^statblock
 

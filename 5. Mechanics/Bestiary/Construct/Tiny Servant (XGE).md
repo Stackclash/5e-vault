@@ -41,6 +41,6 @@ aliases: ["Tiny Servant"]
   "name": "Slam"
 "source":
 - "XGE"
-"image": "compendium/bestiary/construct/token/tiny-servant.png"
+"image": "5. Mechanics/Bestiary/Construct/token/tiny-servant.png"
 ```
 ^statblock

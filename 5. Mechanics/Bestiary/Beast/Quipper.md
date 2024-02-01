@@ -56,7 +56,7 @@ Quippers can adapt to any aquatic environment, including cold subterranean lakes
 - "CRCotN"
 - "PSA"
 - "ToFW"
-"image": "compendium/bestiary/beast/token/quipper.png"
+"image": "5. Mechanics/Bestiary/Beast/token/quipper.png"
 ```
 ^statblock
 

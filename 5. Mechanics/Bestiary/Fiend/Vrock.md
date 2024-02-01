@@ -255,6 +255,6 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - "SatO"
 - "BMT"
 - "DoDk"
-"image": "compendium/bestiary/fiend/token/vrock.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/vrock.png"
 ```
 ^statblock

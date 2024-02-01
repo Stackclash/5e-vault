@@ -73,7 +73,7 @@ A single cranium rat uses its natural telepathy to communicate hunger, fear, and
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/aberration/token/swarm-of-cranium-rats.png"
+"image": "5. Mechanics/Bestiary/Aberration/token/swarm-of-cranium-rats.png"
 ```
 ^statblock
 

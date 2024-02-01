@@ -59,7 +59,7 @@ Ogres love to rush headlong into battle, but with enough time and patience, some
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/giant/token/ogre-chain-brute.png"
+"image": "5. Mechanics/Bestiary/Giant/token/ogre-chain-brute.png"
 ```
 ^statblock
 

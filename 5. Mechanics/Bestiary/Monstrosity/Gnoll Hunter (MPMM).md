@@ -68,7 +68,7 @@ The first gnolls were hyenas transformed by magic. Many of them were then corrup
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/monstrosity/token/gnoll-hunter.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/gnoll-hunter.png"
 ```
 ^statblock
 

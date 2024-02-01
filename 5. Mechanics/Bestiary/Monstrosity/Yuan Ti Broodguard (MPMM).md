@@ -70,7 +70,7 @@ Most broodguards are made from human captives forced to consume a magical brew t
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/monstrosity/token/yuan-ti-broodguard.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/yuan-ti-broodguard.png"
 ```
 ^statblock
 

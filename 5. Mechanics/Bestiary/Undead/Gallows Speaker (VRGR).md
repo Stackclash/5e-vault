@@ -72,6 +72,6 @@ Gallows speakers rarely speak coherently or communicate with the living, instead
   "name": "Suffering Echoes"
 "source":
 - "VRGR"
-"image": "compendium/bestiary/undead/token/gallows-speaker.png"
+"image": "5. Mechanics/Bestiary/Undead/token/gallows-speaker.png"
 ```
 ^statblock

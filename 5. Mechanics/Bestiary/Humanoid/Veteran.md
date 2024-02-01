@@ -90,7 +90,7 @@ Veterans are professional fighters that take up arms for pay or to protect somet
 - "ToFW"
 - "BMT"
 - "DoDk"
-"image": "compendium/bestiary/humanoid/token/veteran.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/veteran.png"
 ```
 ^statblock
 

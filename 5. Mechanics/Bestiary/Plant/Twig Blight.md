@@ -85,7 +85,7 @@ Blights are independent creatures, but most act under a Gulthias tree's control,
 - "HftT"
 - "PaBTSO"
 - "DIP"
-"image": "compendium/bestiary/plant/token/twig-blight.png"
+"image": "5. Mechanics/Bestiary/Plant/token/twig-blight.png"
 ```
 ^statblock
 

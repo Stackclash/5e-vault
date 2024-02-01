@@ -96,7 +96,7 @@ Nightmare speakers revel in torturing others, keeping their victims in a constan
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/monstrosity/token/yuan-ti-nightmare-speaker.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/yuan-ti-nightmare-speaker.png"
 ```
 ^statblock
 

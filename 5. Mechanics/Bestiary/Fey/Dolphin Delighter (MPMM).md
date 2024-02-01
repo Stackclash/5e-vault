@@ -70,7 +70,7 @@ Dolphins are clever, social marine mammals that feed on small fish and squid. An
   "name": "Fey Leap"
 "source":
 - "MPMM"
-"image": "compendium/bestiary/fey/token/dolphin-delighter.png"
+"image": "5. Mechanics/Bestiary/Fey/token/dolphin-delighter.png"
 ```
 ^statblock
 

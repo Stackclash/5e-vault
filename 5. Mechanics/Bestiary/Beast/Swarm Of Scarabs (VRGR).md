@@ -73,6 +73,6 @@ Base creatures are among the first to respond to sinister forces at work in a la
   "name": "Ravenous Bites"
 "source":
 - "VRGR"
-"image": "compendium/bestiary/beast/token/swarm-of-scarabs.png"
+"image": "5. Mechanics/Bestiary/Beast/token/swarm-of-scarabs.png"
 ```
 ^statblock

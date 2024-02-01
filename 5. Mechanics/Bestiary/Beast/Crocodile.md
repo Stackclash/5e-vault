@@ -58,7 +58,7 @@ aliases: ["Crocodile"]
 - "WBtW"
 - "PSX"
 - "PSA"
-"image": "compendium/bestiary/beast/token/crocodile.png"
+"image": "5. Mechanics/Bestiary/Beast/token/crocodile.png"
 ```
 ^statblock
 

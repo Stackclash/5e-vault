@@ -167,7 +167,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "MM"
 - "CRCotN"
 - "JttRC"
-"image": "compendium/bestiary/dragon/token/ancient-brass-dragon.png"
+"image": "5. Mechanics/Bestiary/Dragon/token/ancient-brass-dragon.png"
 ```
 ^statblock
 

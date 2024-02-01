@@ -46,7 +46,7 @@ An axe beak is a tall flightless bird with strong legs and a heavy, wedge-shaped
 - "WDH"
 - "GoS"
 - "IDRotF"
-"image": "compendium/bestiary/beast/token/axe-beak.png"
+"image": "5. Mechanics/Bestiary/Beast/token/axe-beak.png"
 ```
 ^statblock
 

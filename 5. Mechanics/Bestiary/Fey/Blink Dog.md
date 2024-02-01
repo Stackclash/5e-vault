@@ -59,7 +59,7 @@ A blink dog takes its name from its ability to blink in and out of existence, a 
 - "WBtW"
 - "SatO"
 - "BMT"
-"image": "compendium/bestiary/fey/token/blink-dog.png"
+"image": "5. Mechanics/Bestiary/Fey/token/blink-dog.png"
 ```
 ^statblock
 

@@ -84,7 +84,7 @@ Gladiators battle for the entertainment of raucous crowds. Some gladiators are b
 - "SatO"
 - "ToFW"
 - "DoDk"
-"image": "compendium/bestiary/humanoid/token/gladiator.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/gladiator.png"
 ```
 ^statblock
 

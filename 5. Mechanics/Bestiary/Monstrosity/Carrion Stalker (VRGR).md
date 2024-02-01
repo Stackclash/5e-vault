@@ -71,6 +71,6 @@ Carrion stalkers also enjoy symbiotic relationships with carrion crawlers. Carri
   "name": "Larval Burst (1/Day)"
 "source":
 - "VRGR"
-"image": "compendium/bestiary/monstrosity/token/carrion-stalker.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/carrion-stalker.png"
 ```
 ^statblock

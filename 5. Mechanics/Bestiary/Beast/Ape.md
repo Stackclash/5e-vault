@@ -51,7 +51,7 @@ aliases: ["Ape"]
 - "WDH"
 - "GoS"
 - "CM"
-"image": "compendium/bestiary/beast/token/ape.png"
+"image": "5. Mechanics/Bestiary/Beast/token/ape.png"
 ```
 ^statblock
 

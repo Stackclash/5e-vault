@@ -131,7 +131,7 @@ A kraken lives in dark depths, usually a sunken rift or a cavern filled with det
 - "PaBTSO"
 - "SatO"
 - "BMT"
-"image": "compendium/bestiary/monstrosity/token/kraken.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/kraken.png"
 ```
 ^statblock
 

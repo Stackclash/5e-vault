@@ -88,7 +88,7 @@ Usually found only on the Elemental Plane of Water, a leviathan sometimes swims 
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/elemental/token/leviathan.png"
+"image": "5. Mechanics/Bestiary/Elemental/token/leviathan.png"
 ```
 ^statblock
 

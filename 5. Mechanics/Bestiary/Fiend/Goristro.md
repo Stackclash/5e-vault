@@ -244,6 +244,6 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "source":
 - "MM"
 - "SatO"
-"image": "compendium/bestiary/fiend/token/goristro.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/goristro.png"
 ```
 ^statblock

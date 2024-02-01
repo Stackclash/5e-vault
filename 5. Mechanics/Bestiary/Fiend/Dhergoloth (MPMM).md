@@ -74,7 +74,7 @@ Since dhergoloths are little more than brutes, employers must use caution when i
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/fiend/token/dhergoloth.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/dhergoloth.png"
 ```
 ^statblock
 

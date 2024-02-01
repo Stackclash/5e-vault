@@ -195,7 +195,7 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
 - "SatO"
 - "ToFW"
 - "BMT"
-"image": "compendium/bestiary/undead/token/vampire.png"
+"image": "5. Mechanics/Bestiary/Undead/token/vampire.png"
 ```
 ^statblock
 

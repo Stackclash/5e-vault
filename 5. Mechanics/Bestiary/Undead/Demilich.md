@@ -132,6 +132,6 @@ If the demilich drops to 0 hit points, it is destroyed and turns to powder, leav
 - "IDRotF"
 - "JttRC"
 - "ToFW"
-"image": "compendium/bestiary/undead/token/demilich.png"
+"image": "5. Mechanics/Bestiary/Undead/token/demilich.png"
 ```
 ^statblock

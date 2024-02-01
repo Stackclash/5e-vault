@@ -87,6 +87,6 @@ An undying doesn't require air, food, drink, or sleep.
   "name": "Spear"
 "source":
 - "ERLW"
-"image": "compendium/bestiary/undead/token/undying-soldier.png"
+"image": "5. Mechanics/Bestiary/Undead/token/undying-soldier.png"
 ```
 ^statblock

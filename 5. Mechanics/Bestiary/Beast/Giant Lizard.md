@@ -62,7 +62,7 @@ A giant lizard can be ridden or used as a draft animal. Lizardfolk also keep the
 - "JttRC"
 - "KftGV"
 - "PSA"
-"image": "compendium/bestiary/beast/token/giant-lizard.png"
+"image": "5. Mechanics/Bestiary/Beast/token/giant-lizard.png"
 ```
 ^statblock
 

@@ -60,6 +60,6 @@ aliases: ["Amber Golem"]
   "name": "Slow (Recharge 5-6)"
 "source":
 - "CoS"
-"image": "compendium/bestiary/construct/token/amber-golem.png"
+"image": "5. Mechanics/Bestiary/Construct/token/amber-golem.png"
 ```
 ^statblock

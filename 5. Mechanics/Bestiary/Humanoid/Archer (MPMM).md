@@ -75,7 +75,7 @@ Some renowned archers and groups of archers are known for the special fletching 
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/humanoid/token/archer.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/archer.png"
 ```
 ^statblock
 

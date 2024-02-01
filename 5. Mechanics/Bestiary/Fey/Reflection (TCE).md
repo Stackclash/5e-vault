@@ -62,6 +62,6 @@ aliases: ["Reflection"]
   "name": "Strength Drain"
 "source":
 - "TCE"
-"image": "compendium/bestiary/fey/token/reflection.png"
+"image": "5. Mechanics/Bestiary/Fey/token/reflection.png"
 ```
 ^statblock

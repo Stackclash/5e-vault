@@ -113,7 +113,7 @@ Some individuals see little point in fighting the curse and accept what they are
 - "TCE"
 - "CM"
 - "BMT"
-"image": "compendium/bestiary/humanoid/token/wereboar.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/wereboar.png"
 ```
 ^statblock
 

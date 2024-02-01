@@ -78,7 +78,7 @@ Dragonshields know they have a place of honor among those who venerate dragons, 
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/dragon/token/kobold-dragonshield.png"
+"image": "5. Mechanics/Bestiary/Dragon/token/kobold-dragonshield.png"
 ```
 ^statblock
 

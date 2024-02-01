@@ -75,6 +75,6 @@ Today the inquisition rules the city of Malitain, a vast city-state to the north
   "name": "Blink Step"
 "source":
 - "VRGR"
-"image": "compendium/bestiary/humanoid/token/inquisitor-of-the-sword.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/inquisitor-of-the-sword.png"
 ```
 ^statblock

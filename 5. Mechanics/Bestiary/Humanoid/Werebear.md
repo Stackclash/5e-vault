@@ -109,7 +109,7 @@ Some individuals see little point in fighting the curse and accept what they are
 - "GoS"
 - "EGW"
 - "KftGV"
-"image": "compendium/bestiary/humanoid/token/werebear.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/werebear.png"
 ```
 ^statblock
 

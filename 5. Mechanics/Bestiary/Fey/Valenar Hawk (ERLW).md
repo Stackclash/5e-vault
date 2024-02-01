@@ -72,6 +72,6 @@ Each Valenar animal can be customized with an ancestral gift, a supernatural tra
   "name": "Talons"
 "source":
 - "ERLW"
-"image": "compendium/bestiary/fey/token/valenar-hawk.png"
+"image": "5. Mechanics/Bestiary/Fey/token/valenar-hawk.png"
 ```
 ^statblock

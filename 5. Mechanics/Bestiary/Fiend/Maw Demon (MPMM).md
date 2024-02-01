@@ -73,7 +73,7 @@ Because maw demons are indiscriminate in their hunger, their stomachs contain al
 - "MPMM"
 - "VGM"
 - "BMT"
-"image": "compendium/bestiary/fiend/token/maw-demon.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/maw-demon.png"
 ```
 ^statblock
 

@@ -116,7 +116,7 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
 - "GoS"
 - "IMR"
 - "EGW"
-"image": "compendium/bestiary/humanoid/token/lizardfolk-shaman.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/lizardfolk-shaman.png"
 ```
 ^statblock
 

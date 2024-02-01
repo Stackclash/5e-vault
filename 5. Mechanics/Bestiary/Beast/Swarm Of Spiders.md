@@ -77,7 +77,7 @@ aliases: ["Swarm of Spiders"]
 - "DIP"
 - "MOT"
 - "BMT"
-"image": "compendium/bestiary/beast/token/swarm-of-spiders.png"
+"image": "5. Mechanics/Bestiary/Beast/token/swarm-of-spiders.png"
 ```
 ^statblock
 

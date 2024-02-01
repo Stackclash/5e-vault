@@ -89,6 +89,6 @@ Necrichors prove exceptionally difficult to destroy, since they leave a trace of
 "source":
 - "VRGR"
 - "AATM"
-"image": "compendium/bestiary/undead/token/necrichor.png"
+"image": "5. Mechanics/Bestiary/Undead/token/necrichor.png"
 ```
 ^statblock

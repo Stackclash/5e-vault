@@ -119,7 +119,7 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 - "MM"
 - "PotA"
 - "WDMM"
-"image": "compendium/bestiary/humanoid/token/kuo-toa-archpriest.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/kuo-toa-archpriest.png"
 ```
 ^statblock
 

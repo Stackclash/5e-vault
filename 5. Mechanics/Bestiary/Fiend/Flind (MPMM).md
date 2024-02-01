@@ -79,7 +79,7 @@ Unlike other leaders who might skulk behind their minions, a flind leads the cha
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/fiend/token/flind.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/flind.png"
 ```
 ^statblock
 

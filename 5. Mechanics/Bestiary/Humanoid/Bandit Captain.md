@@ -92,7 +92,7 @@ More than treasure, a bandit captain or pirate captain craves infamy. A prisoner
 - "ToFW"
 - "BMT"
 - "DoDk"
-"image": "compendium/bestiary/humanoid/token/bandit-captain.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/bandit-captain.png"
 ```
 ^statblock
 

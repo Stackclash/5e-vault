@@ -95,7 +95,7 @@ A storm giant quintessent has no need for castles or dungeon lairs. Their lair i
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/giant/token/storm-giant-quintessent.png"
+"image": "5. Mechanics/Bestiary/Giant/token/storm-giant-quintessent.png"
 ```
 ^statblock
 

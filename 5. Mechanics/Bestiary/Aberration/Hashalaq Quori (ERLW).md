@@ -95,6 +95,6 @@ Dal Quor is the plane of dreams and is currently dominated by a dark power known
   "name": "Empathic Feedback"
 "source":
 - "ERLW"
-"image": "compendium/bestiary/aberration/token/hashalaq-quori.png"
+"image": "5. Mechanics/Bestiary/Aberration/token/hashalaq-quori.png"
 ```
 ^statblock

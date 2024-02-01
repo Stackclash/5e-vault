@@ -132,7 +132,7 @@ Gruumsh bestows special blessings upon war chiefs who prove themselves in battle
 - "IDRotF"
 - "WBtW"
 - "CRCotN"
-"image": "compendium/bestiary/humanoid/token/orc-war-chief.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/orc-war-chief.png"
 ```
 ^statblock
 

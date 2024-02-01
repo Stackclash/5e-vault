@@ -88,7 +88,7 @@ Despite their intimidating builds, bugbears move with surprising stealth. They a
 - "HftT"
 - "PaBTSO"
 - "DoDk"
-"image": "compendium/bestiary/humanoid/token/bugbear.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/bugbear.png"
 ```
 ^statblock
 

@@ -49,7 +49,7 @@ aliases: ["Poisonous Snake"]
 - "ToA"
 - "GoS"
 - "IMR"
-"image": "compendium/bestiary/beast/token/poisonous-snake.png"
+"image": "5. Mechanics/Bestiary/Beast/token/poisonous-snake.png"
 ```
 ^statblock
 

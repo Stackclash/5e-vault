@@ -61,7 +61,7 @@ aliases: ["Goat"]
 - "IDRotF"
 - "WBtW"
 - "PaBTSO"
-"image": "compendium/bestiary/beast/token/goat.png"
+"image": "5. Mechanics/Bestiary/Beast/token/goat.png"
 ```
 ^statblock
 

@@ -73,7 +73,7 @@ Howlers rely on speed, numbers, and their mind-numbing howling to corner prey be
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/fiend/token/howler.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/howler.png"
 ```
 ^statblock
 

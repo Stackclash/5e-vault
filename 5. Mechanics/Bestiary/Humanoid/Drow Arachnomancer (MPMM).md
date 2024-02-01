@@ -99,7 +99,7 @@ Drow spellcasters who seek to devote themselves wholly to Lolth, the Spider Quee
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/humanoid/token/drow-arachnomancer.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/drow-arachnomancer.png"
 ```
 ^statblock
 

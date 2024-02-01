@@ -82,6 +82,6 @@ A phantom warrior doesn't require air, food, drink, or sleep.
   "name": "Etherealness"
 "source":
 - "CoS"
-"image": "compendium/bestiary/undead/token/phantom-warrior.png"
+"image": "5. Mechanics/Bestiary/Undead/token/phantom-warrior.png"
 ```
 ^statblock

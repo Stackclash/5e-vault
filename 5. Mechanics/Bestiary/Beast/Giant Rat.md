@@ -62,7 +62,7 @@ aliases: ["Giant Rat"]
 - "WBtW"
 - "GHLoE"
 - "DoDk"
-"image": "compendium/bestiary/beast/token/giant-rat.png"
+"image": "5. Mechanics/Bestiary/Beast/token/giant-rat.png"
 ```
 ^statblock
 

@@ -57,7 +57,7 @@ Many kinds of cattle roam the multiverse, some of them domesticated and others f
 - "MPMM"
 - "VGM"
 - "AATM"
-"image": "compendium/bestiary/fiend/token/stench-kow.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/stench-kow.png"
 ```
 ^statblock
 

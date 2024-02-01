@@ -53,6 +53,6 @@ aliases: ["Juvenile Mimic"]
   "name": "Shape-Shift"
 "source":
 - "TCE"
-"image": "compendium/bestiary/monstrosity/token/juvenile-mimic.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/juvenile-mimic.png"
 ```
 ^statblock

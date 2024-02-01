@@ -57,6 +57,6 @@ Small numbers of these creatures sometimes make their way to the surface, often 
   "name": "Hand Crossbow"
 "source":
 - "ERLW"
-"image": "compendium/bestiary/aberration/token/dolgrim.png"
+"image": "5. Mechanics/Bestiary/Aberration/token/dolgrim.png"
 ```
 ^statblock

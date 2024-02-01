@@ -95,7 +95,7 @@ Unlike pixies, sprites rarely indulge in frivolous merriment and fun. They are f
 - "KftGV"
 - "SatO"
 - "BMT"
-"image": "compendium/bestiary/fey/token/sprite.png"
+"image": "5. Mechanics/Bestiary/Fey/token/sprite.png"
 ```
 ^statblock
 

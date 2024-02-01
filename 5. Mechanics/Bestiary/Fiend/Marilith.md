@@ -253,6 +253,6 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - "EGW"
 - "TCE"
 - "DoDk"
-"image": "compendium/bestiary/fiend/token/marilith.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/marilith.png"
 ```
 ^statblock

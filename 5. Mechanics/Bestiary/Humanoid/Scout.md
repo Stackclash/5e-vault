@@ -88,7 +88,7 @@ Scouts are skilled hunters and trackers who offer their services for a fee. Most
 - "SatO"
 - "GHLoE"
 - "DoDk"
-"image": "compendium/bestiary/humanoid/token/scout.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/scout.png"
 ```
 ^statblock
 

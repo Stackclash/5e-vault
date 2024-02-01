@@ -70,6 +70,6 @@ If it has the opportunity while in service to its master, a magmin seeks out are
 - "BGDIA"
 - "WBtW"
 - "SatO"
-"image": "compendium/bestiary/elemental/token/magmin.png"
+"image": "5. Mechanics/Bestiary/Elemental/token/magmin.png"
 ```
 ^statblock

@@ -139,7 +139,7 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
 - "IDRotF"
 - "CRCotN"
 - "PaBTSO"
-"image": "compendium/bestiary/humanoid/token/drow-elite-warrior.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/drow-elite-warrior.png"
 ```
 ^statblock
 

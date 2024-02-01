@@ -172,7 +172,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "MM"
 - "SatO"
 - "DoDk"
-"image": "compendium/bestiary/dragon/token/ancient-gold-dragon.png"
+"image": "5. Mechanics/Bestiary/Dragon/token/ancient-gold-dragon.png"
 ```
 ^statblock
 

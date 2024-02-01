@@ -49,6 +49,6 @@ aliases: ["Bestial Spirit (Air, 9th-Level Spell)"]
   "name": "Maul"
 "source":
 - "TCE"
-"image": "compendium/bestiary/beast/token/bestial-spirit.png"
+"image": "5. Mechanics/Bestiary/Beast/token/bestial-spirit.png"
 ```
 ^statblock

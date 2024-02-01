@@ -70,7 +70,7 @@ As it burrows through earth, the ankheg leaves a narrow, partially collapsed tun
 - "JttRC"
 - "KftGV"
 - "BMT"
-"image": "compendium/bestiary/monstrosity/token/ankheg.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/ankheg.png"
 ```
 ^statblock
 

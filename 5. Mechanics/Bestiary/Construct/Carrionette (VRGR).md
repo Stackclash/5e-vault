@@ -74,6 +74,6 @@ Carrionettes might appear as any type of toy or piece of art. While marionettes 
   "name": "Soul Swap"
 "source":
 - "VRGR"
-"image": "compendium/bestiary/construct/token/carrionette.png"
+"image": "5. Mechanics/Bestiary/Construct/token/carrionette.png"
 ```
 ^statblock

@@ -72,6 +72,6 @@ A skeleton doesn't require air, food, drink, or sleep.
 - "CM"
 - "DSotDQ"
 - "BMT"
-"image": "compendium/bestiary/undead/token/warhorse-skeleton.png"
+"image": "5. Mechanics/Bestiary/Undead/token/warhorse-skeleton.png"
 ```
 ^statblock

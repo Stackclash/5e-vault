@@ -95,7 +95,7 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/fey/token/spring-eladrin.png"
+"image": "5. Mechanics/Bestiary/Fey/token/spring-eladrin.png"
 ```
 ^statblock
 

@@ -73,7 +73,7 @@ Vargouilles that roam free on the Material Plane are a dire threat to all creatu
 - "MPMM"
 - "VGM"
 - "AATM"
-"image": "compendium/bestiary/fiend/token/vargouille.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/vargouille.png"
 ```
 ^statblock
 

@@ -107,7 +107,7 @@ A specter doesn't require air, food, drink, or sleep.
 - "SatO"
 - "ToFW"
 - "BMT"
-"image": "compendium/bestiary/undead/token/specter.png"
+"image": "5. Mechanics/Bestiary/Undead/token/specter.png"
 ```
 ^statblock
 

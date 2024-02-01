@@ -104,7 +104,7 @@ CR 1 (200 XP) For a red, orange, or yellow faerie dragon; 2 (450 XP) for a green
 "source":
 - "MM"
 - "ToA"
-"image": "compendium/bestiary/dragon/token/faerie-dragon-green.png"
+"image": "5. Mechanics/Bestiary/Dragon/token/faerie-dragon-green.png"
 ```
 ^statblock
 

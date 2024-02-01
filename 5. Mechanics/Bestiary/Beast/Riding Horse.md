@@ -51,7 +51,7 @@ aliases: ["Riding Horse"]
 - "KftGV"
 - "GHLoE"
 - "DoDk"
-"image": "compendium/bestiary/beast/token/riding-horse.png"
+"image": "5. Mechanics/Bestiary/Beast/token/riding-horse.png"
 ```
 ^statblock
 

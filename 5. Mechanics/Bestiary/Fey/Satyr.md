@@ -101,7 +101,7 @@ Inebriated on drink and pleasure, satyrs give no thought to the consequences of 
 - "SatO"
 - "ToFW"
 - "BMT"
-"image": "compendium/bestiary/fey/token/satyr.png"
+"image": "5. Mechanics/Bestiary/Fey/token/satyr.png"
 ```
 ^statblock
 

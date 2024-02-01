@@ -85,6 +85,6 @@ Inevitables care nothing for the spirit of an agreement, only the letter. A maru
 - "MPMM"
 - "MTF"
 - "SatO"
-"image": "compendium/bestiary/construct/token/marut.png"
+"image": "5. Mechanics/Bestiary/Construct/token/marut.png"
 ```
 ^statblock

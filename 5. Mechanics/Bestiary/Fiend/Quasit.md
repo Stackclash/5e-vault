@@ -253,6 +253,6 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - "PSI"
 - "PaBTSO"
 - "DoDk"
-"image": "compendium/bestiary/fiend/token/quasit.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/quasit.png"
 ```
 ^statblock

@@ -75,7 +75,7 @@ Whether in subterranean darkness or while hunting at night, light signals a pote
 - "BGDIA"
 - "IDRotF"
 - "BMT"
-"image": "compendium/bestiary/monstrosity/token/carrion-crawler.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/carrion-crawler.png"
 ```
 ^statblock
 

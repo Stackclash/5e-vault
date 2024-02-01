@@ -60,7 +60,7 @@ aliases: ["Cat"]
 - "WBtW"
 - "JttRC"
 - "DoDk"
-"image": "compendium/bestiary/beast/token/cat.png"
+"image": "5. Mechanics/Bestiary/Beast/token/cat.png"
 ```
 ^statblock
 

@@ -55,7 +55,7 @@ aliases: ["Giant Crab"]
 - "EGW"
 - "MOT"
 - "CM"
-"image": "compendium/bestiary/beast/token/giant-crab.png"
+"image": "5. Mechanics/Bestiary/Beast/token/giant-crab.png"
 ```
 ^statblock
 

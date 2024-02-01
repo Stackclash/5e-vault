@@ -71,7 +71,7 @@ Even though a creature transformed into a stone cursed is long dead, a vague whi
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/construct/token/stone-cursed.png"
+"image": "5. Mechanics/Bestiary/Construct/token/stone-cursed.png"
 ```
 ^statblock
 

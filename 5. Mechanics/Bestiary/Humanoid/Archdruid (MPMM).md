@@ -99,7 +99,7 @@ When an archdruid uses their Change Shape action, you may choose the creature th
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/humanoid/token/archdruid.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/archdruid.png"
 ```
 ^statblock
 

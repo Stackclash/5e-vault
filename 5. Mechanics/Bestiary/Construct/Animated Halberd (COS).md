@@ -55,6 +55,6 @@ aliases: ["Animated Halberd"]
   "name": "Halberd"
 "source":
 - "CoS"
-"image": "compendium/bestiary/construct/token/animated-halberd.png"
+"image": "5. Mechanics/Bestiary/Construct/token/animated-halberd.png"
 ```
 ^statblock

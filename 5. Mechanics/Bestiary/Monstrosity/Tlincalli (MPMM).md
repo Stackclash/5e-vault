@@ -74,7 +74,7 @@ Tlincallis rarely build cities, make clothing, or mine metals. Instead, they sca
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/monstrosity/token/tlincalli.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/tlincalli.png"
 ```
 ^statblock
 

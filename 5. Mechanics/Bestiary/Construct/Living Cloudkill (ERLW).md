@@ -93,6 +93,6 @@ For example, if you turn [[5. Mechanics/Spells/Fireball.md|fireball]] (a 3rd-lev
   "name": "Spell Mimicry (Recharge 5-6)"
 "source":
 - "ERLW"
-"image": "compendium/bestiary/construct/token/living-cloudkill.png"
+"image": "5. Mechanics/Bestiary/Construct/token/living-cloudkill.png"
 ```
 ^statblock

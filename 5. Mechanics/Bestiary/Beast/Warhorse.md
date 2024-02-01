@@ -55,7 +55,7 @@ aliases: ["Warhorse"]
 - "CRCotN"
 - "DSotDQ"
 - "DoDk"
-"image": "compendium/bestiary/beast/token/warhorse.png"
+"image": "5. Mechanics/Bestiary/Beast/token/warhorse.png"
 ```
 ^statblock
 
