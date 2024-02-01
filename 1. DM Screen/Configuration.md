@@ -77,6 +77,11 @@ actions:
   - type: input
     str: Session
 ```
+# Stats
+```dataview
+TABLE WITHOUT ID rows
+GROUP BY split(file.folder, '/')[0]
+```
 # Fix Notes
 ## NPCs
 ```dataview

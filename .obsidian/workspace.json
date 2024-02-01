@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "93a4c2b5dff8c308",
+        "id": "b0757cc574bd8b92",
         "type": "tabs",
         "children": [
           {
-            "id": "d2c9385460ae2325",
+            "id": "d2631b9c646ef337",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/Settlements/Vallaki.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa9eb8a11dc14895",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Mechanics/Bestiary/Fey/Dryad.md",
-                "mode": "preview",
+                "file": "1. DM Screen/Configuration.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Mechanics/Bestiary/Fey/Dryad.md",
+                "file": "1. DM Screen/Configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Mechanics/Bestiary/Fey/Dryad.md",
+                "file": "1. DM Screen/Configuration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Mechanics/Bestiary/Fey/Dryad.md"
+                "file": "1. DM Screen/Configuration.md"
               }
             }
           },
@@ -195,8 +182,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aa9eb8a11dc14895",
+  "active": "d2631b9c646ef337",
   "lastOpenFiles": [
+    "5. Mechanics/Bestiary/Fey/Fey.md",
+    "5. Mechanics/Bestiary/Fey/Dryad.md",
     "5. Mechanics/Bestiary/Humanoid/Werewolf.md",
     "5. Mechanics/Bestiary/Fey/Hobgoblin Iron Shadow (MPMM).md",
     "5. Mechanics/Bestiary/Fey/Hobgoblin Devastator (MPMM).md",
@@ -205,8 +194,6 @@
     "5. Mechanics/Bestiary/Fey/Ash Marshal (SAF).md",
     "5. Mechanics/Bestiary/Fey/Autumn Eladrin (MPMM).md",
     "5. Mechanics/Bestiary/Fey/Bheur Hag (MPMM).md",
-    "5. Mechanics/Bestiary/Fey/Fey.md",
-    "5. Mechanics/Bestiary/Fey/Dryad.md",
     "5. Mechanics/Bestiary/Fey/Blink Dog.md",
     "1. DM Screen/Configuration.md",
     "4. World Almanac/Settlements/Vallaki.md",
