@@ -92,9 +92,3 @@ mountain
 await dv.view('monsterHarvesterTable', {current: dv.current()})
 ```
 
-```dataview
-LIST WITHOUT ID file.link
-FROM "5. Mechanics/Tables"
-WHERE contains(file.name, "Hhhvi")
-AND aliases[0] = this.aliases[0]
-```
