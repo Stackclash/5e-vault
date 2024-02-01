@@ -10,8 +10,7 @@ function getAllFiles(basePath, folderPath, filesList=[]) {
         const fileInfo = fs.statSync(filePath)
 
         if (fileInfo.isDirectory()) {
-            console.log(folderPath)
-            filesList.concat(getAllFiles(filePath, null, filesList))
+            filesList.concat(getAllFiles(basePath, path.relative(basePath, filePath), filesList))
         } else {
             filesList.push({name: path.basename(filePath), path: path.relative(basePath, filePath)})
         }
@@ -20,6 +19,6 @@ function getAllFiles(basePath, folderPath, filesList=[]) {
     return filesList
 }
 
-const monsters = getAllFiles(__dirname, '5. Mechanics/Bestiary')
+const monsters = getAllFiles(__dirname, '5. Mechanics/Bestiary').filter(m => path.extname(m.path) === '.md')
 
 console.log(monsters)
