@@ -25,8 +25,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Vampire Spawn.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b98f3e206057373",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Mechanics/Tables/Adult Oblex Hhhviii.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -101,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Vampire Spawn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Vampire Spawn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Vampire Spawn.md"
               }
             }
           },
@@ -197,9 +209,10 @@
   },
   "active": "192f4eb83384c848",
   "lastOpenFiles": [
+    "5. Mechanics/Tables/Adult Oblex Hhhviii.md",
+    "Vampire Spawn.md",
     "5. Mechanics/Tables/Vampire Spawn Hhhvi.md",
     "6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/7 Chapter-6 Hamunds Have Nots.md",
-    "Untitled.md",
     "6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/4 Chapter-3 The Harvest Tables.md",
     "6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/3 Chapter-2 How To Harvest.md",
     "6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/2 Chapter-1 Introduction.md",
@@ -222,7 +235,6 @@
     "5. Mechanics/Tables/Npc Mannerisms.md",
     "5. Mechanics/Tables/Npc Low Abilities.md",
     "5. Mechanics/Tables/Nonhuman Deities.md",
-    "5. Mechanics/Tables/Npc Appearance.md",
     "test.js",
     "6. Resources/5e Modules/Curse Of Strahd/img/024-005.jpg",
     "6. Resources/5e Modules/Curse Of Strahd/img/008-cos201.jpg",
