@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c3fcbf1c55e7f049",
+        "id": "50a267b4192721dd",
         "type": "tabs",
         "children": [
           {
-            "id": "cf0228d4def18436",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Mechanics/Bestiary/Fey/Green Hag.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76fd26345d08cd54",
+            "id": "b27e819f3b0b2013",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "5. Mechanics/Bestiary/Monstrosity/Basilisk.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,8 +182,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "76fd26345d08cd54",
+  "active": "b27e819f3b0b2013",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "5. Mechanics/Bestiary/Monstrosity/Basilisk.md",
+    "1. DM Screen/Configuration.md",
+    "5. Mechanics/Bestiary/Fey/Green Hag.md",
     "5. Mechanics/Bestiary/Monstrosity/Monstrosity.md",
     "5. Mechanics/Bestiary/Monstrosity/Bulette.md",
     "test.js",
@@ -207,7 +198,6 @@
     "5. Mechanics/Bestiary/Dragon/Adult Green Dragon.md",
     "5. Mechanics/Bestiary/Fey/Fey.md",
     "5. Mechanics/Tables/Vampire Spawn Hhhvi.md",
-    "5. Mechanics/Bestiary/Fey/Green Hag.md",
     "5. Mechanics/Bestiary/Fey/Fey Spirit-9th Level Spell (TCE).md",
     "5. Mechanics/Bestiary/Fey/Dryad.md",
     "5. Mechanics/Bestiary/Fey/Dolphin Delighter (MPMM).md",
@@ -215,7 +205,6 @@
     "5. Mechanics/Bestiary/Celestial/Celestial.md",
     "Vampire Spawn.md",
     "z_Scripts/Dataview/monsterHarvesterTable.js",
-    "conflict-files-obsidian-git.md",
     "4. World Almanac/Settlements/Krezk.md",
     "4. World Almanac/NPCs/Urwin Martikov.md",
     "5. Mechanics/Bestiary/Monstrosity/Yuan Ti Pit Master (MPMM).md",
@@ -223,7 +212,6 @@
     "5. Mechanics/Tables/Yuan Ti Pureblood Hhhvi.md",
     "5. Mechanics/Tables/Swamp Encounters Levels-510 (XGE).md",
     "5. Mechanics/Tables/Rare Swamp Herbs Hhbh.md",
-    "5. Mechanics/Tables/Rare Forest Herbs Hhbh.md",
     "6. Resources/5e Modules/Curse Of Strahd/img/024-005.jpg",
     "6. Resources/5e Modules/Curse Of Strahd/img/008-cos201.jpg",
     "z_Assets/Barovia_Banner.webp",

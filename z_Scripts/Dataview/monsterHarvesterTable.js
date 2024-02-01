@@ -8,14 +8,18 @@ if (tablePage) {
     const blockLink = dv.blockLink(tablePage.file.path, "dc-item-description-value-weight-crafting", true, input.current.aliases[0])
     const blockLinkString = blockLink.toString()
     const pageContent = await dv.io.load(blockLink)
+    const fileLink = dv.fileLink(tablePage.file.path)
+    const fileLinkString = dv.fileLink(tablePage.file.path).toString()
 
-    console.log(blockLink)
-    console.log(blockLinkString)
-    console.log(pageContent)
+    // console.log(blockLink)
+    // console.log(blockLinkString)
+    // console.log(pageContent)
 
-    dv.paragraph(blockLink)
-    dv.paragraph(blockLinkString)
-    dv.paragraph(pageContent)
+    // dv.paragraph(blockLink)
+    // dv.paragraph(blockLinkString)
+    // dv.paragraph(pageContent)
+//     dv.paragraph(`\`\`\`expander
+// ${tablePage.file.name}
+// \`\`\``)
+    dv.span(`![[${tablePage.file.path}#^dc-item-description-value-weight-crafting]]`)
 }
-
-console.log(app)
