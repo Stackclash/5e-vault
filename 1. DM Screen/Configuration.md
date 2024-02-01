@@ -79,17 +79,29 @@ actions:
 ```
 # Stats
 ```dataviewjs
-const groups = dv.pages().filter(p => {
+let finalGroups = []
+let groups = dv.pages().filter(p => {
     return p.file.folder.includes('Shops') ||
         p.file.folder.includes('Settlements') ||
         p.file.folder.includes('Regions') ||
         p.file.folder.includes('Worlds') ||
         p.file.folder.includes('Bestiary') ||
         p.file.folder.includes('NPCs')
-}).groupBy(p => p.file.folder.split('/').slice(1)).flat(p => console.log(p)).sort(g => g.key[0])
+}).groupBy(p => p.file.folder.split('/').slice(1)).sort(g => g.key[0])
+
+groups.forEach(g => {
+  let existingGroupIndex = finalGroups.findIndex(fg => fg.key === g.key[0])
+
+  console.log(g, finalGroups)
+  if (existingGroupIndex) {
+    finalGroups[existingGroupIndex] = { key: g.key[0], rows: finalGroups[existingGroupIndex].rows.concat(g.rows) }
+  } else {
+    finalGroups.concat({ key: g.key[0], rows: g.rows })
+  }
+})
 
 dv.table(['Type', 'Count'],
-  groups.map(g => [g.key[0], g.rows.length]))
+  finalGroups.map(g => [g.key[0], g.rows.length]))
 ```
 
 # Fix Notes
