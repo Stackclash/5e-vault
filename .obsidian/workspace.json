@@ -4,40 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "b0757cc574bd8b92",
+        "id": "c3fcbf1c55e7f049",
         "type": "tabs",
         "children": [
           {
-            "id": "d2631b9c646ef337",
+            "id": "cf0228d4def18436",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/Settlements/Vallaki.md",
+                "file": "5. Mechanics/Bestiary/Fey/Green Hag.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "665c0f2a657f350c",
+            "id": "76fd26345d08cd54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/NPCs/Strahd Von Zarovich.md",
+                "file": "1. DM Screen/Configuration.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "b5011fa7c99f22ad",
+            "id": "47800dfb16d734eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/Shops/Bildrath's Mercantile.md",
+                "file": "4. World Almanac/NPCs/Baba Lysaga.md",
                 "mode": "preview",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/Shops/Bildrath's Mercantile.md",
+                "file": "4. World Almanac/NPCs/Baba Lysaga.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/Shops/Bildrath's Mercantile.md",
+                "file": "4. World Almanac/NPCs/Baba Lysaga.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/Shops/Bildrath's Mercantile.md"
+                "file": "4. World Almanac/NPCs/Baba Lysaga.md"
               }
             }
           },
@@ -200,43 +200,43 @@
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-5e-statblocks:Open Creature Pane": false,
-      "dbfolder:Create a new database table": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "dbfolder:Create a new database table": false
     }
   },
-  "active": "b5011fa7c99f22ad",
+  "active": "47800dfb16d734eb",
   "lastOpenFiles": [
     "1. DM Screen/Configuration.md",
-    "4. World Almanac/Settlements/Vallaki.md",
-    "4. World Almanac/Regions/Barovia.md",
-    "4. World Almanac/NPCs/Strahd Von Zarovich.md",
-    "5. Mechanics/Bestiary/Legendary Group/Strahd Von Zarovich (COS).md",
-    "4. World Almanac/NPCs/Urwin Martikov.md",
-    "5. Mechanics/Bestiary/Fey/Fey.md",
-    "5. Mechanics/Bestiary/Fey/Dryad.md",
-    "5. Mechanics/Bestiary/Humanoid/Werewolf.md",
-    "5. Mechanics/Bestiary/Fey/Hobgoblin Iron Shadow (MPMM).md",
-    "5. Mechanics/Bestiary/Fey/Hobgoblin Devastator (MPMM).md",
-    "5. Mechanics/Bestiary/Fey/Green Hag.md",
-    "5. Mechanics/Bestiary/Fey/Dusk Hag (ERLW).md",
-    "5. Mechanics/Bestiary/Fey/Ash Marshal (SAF).md",
-    "5. Mechanics/Bestiary/Fey/Autumn Eladrin (MPMM).md",
-    "5. Mechanics/Bestiary/Fey/Bheur Hag (MPMM).md",
-    "5. Mechanics/Bestiary/Fey/Blink Dog.md",
     "1. DM Screen/1. DM Screen.md",
-    "5. Mechanics/Bestiary/Beast/Beast.md",
-    "5. Mechanics/Bestiary/Beast/Badger.md",
-    "5. Mechanics/Bestiary/Beast/Baboon.md",
-    "5. Mechanics/Bestiary/Beast/Axe Beak.md",
-    "5. Mechanics/Bestiary/Monstrosity/Basilisk.md",
-    "conflict-files-obsidian-git.md",
-    "5. Mechanics/Bestiary/Monstrosity/Monstrosity.md",
     "5. Mechanics/Bestiary/Monstrosity/Bulette.md",
     "test.js",
+    "5. Mechanics/Bestiary/Monstrosity/Behir.md",
+    "5. Mechanics/Bestiary/Monstrosity/Monstrosity.md",
+    "5. Mechanics/Bestiary/Dragon/Dragon.md",
+    "5. Mechanics/Bestiary/Dragon/Gold Dragon Wyrmling.md",
+    "5. Mechanics/Bestiary/Dragon/Adult Red Dragon.md",
+    "5. Mechanics/Bestiary/Dragon/Adult Green Dragon.md",
+    "5. Mechanics/Bestiary/Fey/Fey.md",
+    "5. Mechanics/Tables/Vampire Spawn Hhhvi.md",
+    "5. Mechanics/Bestiary/Fey/Green Hag.md",
+    "5. Mechanics/Bestiary/Fey/Fey Spirit-9th Level Spell (TCE).md",
+    "5. Mechanics/Bestiary/Fey/Dryad.md",
+    "5. Mechanics/Bestiary/Fey/Dolphin Delighter (MPMM).md",
+    "5. Mechanics/Bestiary/Celestial/Pegasus.md",
+    "5. Mechanics/Bestiary/Celestial/Celestial.md",
+    "Vampire Spawn.md",
     "z_Scripts/Dataview/monsterHarvesterTable.js",
+    "conflict-files-obsidian-git.md",
+    "4. World Almanac/Settlements/Krezk.md",
+    "4. World Almanac/NPCs/Urwin Martikov.md",
+    "5. Mechanics/Bestiary/Monstrosity/Yuan Ti Pit Master (MPMM).md",
+    "5. Mechanics/Bestiary/Humanoid/Yuan Ti Pureblood.md",
+    "5. Mechanics/Tables/Yuan Ti Pureblood Hhhvi.md",
+    "5. Mechanics/Tables/Swamp Encounters Levels-510 (XGE).md",
+    "5. Mechanics/Tables/Rare Swamp Herbs Hhbh.md",
     "6. Resources/5e Modules/Curse Of Strahd/img/024-005.jpg",
     "6. Resources/5e Modules/Curse Of Strahd/img/008-cos201.jpg",
     "z_Assets/Barovia_Banner.webp",

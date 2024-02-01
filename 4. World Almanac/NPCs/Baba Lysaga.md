@@ -7,8 +7,8 @@ relationships: []
 tags: 
 aliases: []
 pronounced: 
-race: 
-gender: 
+race: "[[5. Mechanics/Races/Human.md|Human]]"
+gender: female
 age: 
 alignment: Chaotic Evil
 occupation: 
