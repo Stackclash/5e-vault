@@ -7,12 +7,6 @@ staff:
 cost_modifier: 1
 items: 
 ---
-`$= await dv.view("locationBreadcrumbs", {current: dv.current()})`
-# `=this.file.name`
-## Inventory
-```dataviewjs
-await dv.view("shopInventory", {current: dv.current()})
-```
 > [!infobox]
 > # `=this.file.name`
 > |||
@@ -26,3 +20,10 @@ await dv.view("shopInventory", {current: dv.current()})
 > |---|---|
 > | **Cost Modifier** | `INPUT[number:cost_modifier]` |
 > | **Items** | `INPUT[inlineListSuggester(optionQuery("5. Mechanics/Items")):items]` |
+
+`$= await dv.view("locationBreadcrumbs", {current: dv.current()})`
+# `=this.file.name`
+## Inventory
+```dataviewjs
+await dv.view("shopInventory", {current: dv.current()})
+```
