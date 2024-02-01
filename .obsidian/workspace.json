@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/Settlements/Krezk.md",
+                "file": "6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/4 Chapter-3 The Harvest Tables.md",
                 "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "192f4eb83384c848",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#compendium/src/5e/hhhvii",
+                "query": "tag:#compendium/src/5e/hhhvii vampire spawn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -88,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/Settlements/Krezk.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/Settlements/Krezk.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/Settlements/Krezk.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -182,8 +195,18 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "cf0228d4def18436",
+  "active": "192f4eb83384c848",
   "lastOpenFiles": [
+    "5. Mechanics/Tables/Vampire Spawn Hhhvi.md",
+    "6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/7 Chapter-6 Hamunds Have Nots.md",
+    "Untitled.md",
+    "6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/4 Chapter-3 The Harvest Tables.md",
+    "6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/3 Chapter-2 How To Harvest.md",
+    "6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/2 Chapter-1 Introduction.md",
+    "6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/1 Hamunds Harvesting Handbook Volume Ii.md",
+    "6. Resources/Books/Hamunds Harvesting Handbook Volume I/6 Chapter-5 Tools Other Additions.md",
+    "6. Resources/Books/Hamunds Harvesting Handbook Volume I/5 Chapter-4 Crafting.md",
+    "4. World Almanac/Settlements/Krezk.md",
     "4. World Almanac/NPCs/Urwin Martikov.md",
     "5. Mechanics/Bestiary/Monstrosity/Yuan Ti Pit Master (MPMM).md",
     "5. Mechanics/Bestiary/Humanoid/Yuan Ti Pureblood.md",
@@ -200,16 +223,6 @@
     "5. Mechanics/Tables/Npc Low Abilities.md",
     "5. Mechanics/Tables/Nonhuman Deities.md",
     "5. Mechanics/Tables/Npc Appearance.md",
-    "5. Mechanics/Tables/Npc Bonds.md",
-    "5. Mechanics/Tables/Devourer Hhhvii.md",
-    "5. Mechanics/Tables/Annis Hag Hhhvii.md",
-    "5. Mechanics/Tables/Alhoon Hhhvii.md",
-    "5. Mechanics/Items/Amulet Of Dragonkin Hhhvii.md",
-    "5. Mechanics/Items/1 Mind Hook Hhhvii.md",
-    "5. Mechanics/Items/Hag Eye.md",
-    "5. Mechanics/Items/Drow-2 Weapon.md",
-    "5. Mechanics/Items/Drow-1 Armor.md",
-    "5. Mechanics/Items/Amber.md",
     "test.js",
     "6. Resources/5e Modules/Curse Of Strahd/img/024-005.jpg",
     "6. Resources/5e Modules/Curse Of Strahd/img/008-cos201.jpg",
