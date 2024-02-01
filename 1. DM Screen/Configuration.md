@@ -115,8 +115,10 @@ SORT file.name
 TABLE WITHOUT ID
   file.link as "Location",
   choice(!!location, "✅", "✘") as location,
-  choice(!contains(file.path, "Shops") or length(items) > 0, "✅", "✘") as items
+  choice(!contains(file.path, "Shops") or length(items) > 0, "✅", "✘") as items,
+  choice(!!image or image != "z_Assets/PlaceholderImage.png", "✅", "✘") as image
 FROM "4. World Almanac/Places of Interest" or "4. World Almanac/Regions" or "4. World Almanac/Settlements" or "4. World Almanac/Shops"
 WHERE (!location or (contains(file.path, "Shops") and length(items) = 0))
+and (!image or image = "z_Assets/PlaceholderImage.png")
 and !contains(list("Places of Interest", "Regions", "Settlements", "Shops"), file.name)
 ```
