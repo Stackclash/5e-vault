@@ -33416,117 +33416,6 @@
       }
     ],
     [
-      "Vampire Warrior",
-      {
-        "name": "Vampire Warrior",
-        "size": "Medium",
-        "type": "undead",
-        "subtype": "shapechanger",
-        "alignment": "Lawful Evil",
-        "ac": 18,
-        "hp": 144,
-        "hit_dice": "17d8 + 68",
-        "stats": [
-          18,
-          18,
-          18,
-          17,
-          15,
-          18
-        ],
-        "speed": "30 ft.",
-        "saves": {
-          "Charisma": 9,
-          "Dexterity": 9,
-          "Wisdom": 7
-        },
-        "skillsaves": {
-          "Stealth": 9,
-          "Perception": 7
-        },
-        "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks",
-        "senses": "darkvision 120 ft., passive Perception 17",
-        "languages": "the languages it knew in life",
-        "cr": "15",
-        "traits": [
-          {
-            "desc": "If the vampire isn't in sunlight or running water, it can use its action to polymorph into a Tiny bat or a Medium cloud of mist, or back into its true form.\n\nWhile in bat form, the vampire can't speak, its walking speed is 5 feet, and it has a flying speed of 30 feet. Its statistics, other than its size and speed, are unchanged. Anything it is wearing transforms with it, but nothing it is carrying does. It reverts to its true form if it dies.\n\nWhile in mist form, the vampire can't take any actions, speak, or manipulate objects. It is weightless, has a flying speed of 20 feet, can hover, and can enter a hostile creature's space and stop there. In addition, if air can pass through a space, the mist can do so without squeezing, and it can't pass through water. It has advantage on Strength, Dexterity, and Constitution saving throws, and it is immune to all nonmagical damage, except the damage it takes from sunlight.",
-            "name": "Shapechanger"
-          },
-          {
-            "desc": "If the vampire fails a saving throw, it can choose to succeed instead.",
-            "name": "Legendary Resistance (3/Day)"
-          },
-          {
-            "desc": "When it drops to 0 hit points outside its resting place, the vampire transforms into a cloud of mist (as in the Shapechanger trait) instead of falling [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]], provided that it isn't in sunlight or running water. If it can't transform, it is destroyed.\n\nWhile it has 0 hit points in mist form, it can't revert to its vampire form, and it must reach its resting place within 2 hours or be destroyed. Once in its resting place, it reverts to its vampire form. It is then [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]] until it regains at least 1 hit point. After spending 1 hour in its resting place with 0 hit points, it regains 1 hit point.",
-            "name": "Misty Escape"
-          },
-          {
-            "desc": "The vampire regains 20 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.",
-            "name": "Regeneration"
-          },
-          {
-            "desc": "The vampire can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
-            "name": "Spider Climb"
-          },
-          {
-            "desc": "The vampire has the following flaws:\n\nForbiddance. The vampire can't enter a residence without an invitation from one of the occupants.\n\nHarmed by Running Water. The vampire takes 20 acid damage if it ends its turn in running water.\n\nStake to the Heart. If a piercing weapon made of wood is driven into the vampire's heart while the vampire is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] in its resting place, the vampire is [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]] until the stake is removed.\n\nSunlight Hypersensitivity. The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.",
-            "name": "Vampire Weaknesses"
-          }
-        ],
-        "actions": [
-          {
-            "desc": "The vampire makes two greatsword attacks.",
-            "name": "Multiattack"
-          },
-          {
-            "desc": "The vampire makes two attacks, only one of which can be a bite attack.",
-            "name": "Multiattack (Vampire Form Only)"
-          },
-          {
-            "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one creature. Hit: dice: 1d8 + 4|avg (1d8 + 4) bludgeoning damage. Instead of dealing damage, the vampire can grapple the target (escape DC 18).",
-            "name": "Unarmed Strike (Vampire Form Only)"
-          },
-          {
-            "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one creature. Hit: dice: 2d6 + 4|avg (2d6 + 4) slashing damage.",
-            "name": "Greatsword"
-          },
-          {
-            "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one willing creature, or a creature that is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] by the vampire, [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]], or [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]. Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing damage plus dice: 3d6|avg (3d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. A humanoid slain in this way and then buried in the ground rises the following night as a [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md|vampire spawn]] under the vampire's control.",
-            "name": "Bite (Bat or Vampire Form Only)"
-          },
-          {
-            "desc": "The vampire targets one humanoid it can see within 30 feet of it. If the target can see the vampire, the target must succeed on a DC 17 Wisdom saving throw against this magic or be [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] by the vampire. The [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] target regards the vampire as a trusted friend to be heeded and protected. Although the target isn't under the vampire's control, it takes the vampire's requests or actions in the most favorable way it can, and it is a willing target for the vampire's bite attack.\n\nEach time the vampire or the vampire's companions do anything harmful to the target, it can repeat the saving throw, ending the effect on itself on a success. Otherwise, the effect lasts 24 hours or until the vampire is destroyed, is on a different plane of existence than the target, or takes a bonus action to end the effect.",
-            "name": "Charm"
-          },
-          {
-            "desc": "The vampire magically calls dice: 2d4|avg (2d4) swarms of [[5. Mechanics/Bestiary/Beast/Swarm Of Bats.md|bats]] or [[5. Mechanics/Bestiary/Beast/Swarm Of Rats.md|rats]], provided that the sun isn't up. While outdoors, the vampire can call dice: 3d6|avg (3d6) [[5. Mechanics/Bestiary/Beast/Wolf.md|wolves]] instead. The called creatures arrive in dice: 1d4|avg (1d4) rounds, acting as allies of the vampire and obeying its spoken commands. The beasts remain for 1 hour, until the vampire dies, or until the vampire dismisses them as a bonus action.",
-            "name": "Children of the Night (1/Day)"
-          }
-        ],
-        "legendary_actions": [
-          {
-            "desc": "The vampire moves up to its speed without provoking opportunity attacks.",
-            "name": "Move"
-          },
-          {
-            "desc": "The vampire makes one unarmed strike.",
-            "name": "Unarmed Strike"
-          },
-          {
-            "desc": "The vampire makes one bite attack.",
-            "name": "Bite (Costs 2 Actions)"
-          }
-        ],
-        "source": [
-          "MM"
-        ],
-        "image": "compendium/bestiary/undead/token/vampire-warrior.png",
-        "note": "5. Mechanics/Bestiary/Undead/Vampire Warrior.md",
-        "mtime": 1706798099156
-      }
-    ],
-    [
       "Sword Wraith Warrior (MPMM)",
       {
         "name": "Sword Wraith Warrior (MPMM)",
@@ -57179,55 +57068,6 @@
       }
     ],
     [
-      "Basilisk",
-      {
-        "name": "Basilisk",
-        "size": "Medium",
-        "type": "monstrosity",
-        "alignment": "Unaligned",
-        "ac": 15,
-        "hp": 52,
-        "hit_dice": "8d8 + 16",
-        "stats": [
-          16,
-          8,
-          15,
-          2,
-          8,
-          7
-        ],
-        "speed": "20 ft.",
-        "senses": "darkvision 60 ft., passive Perception 9",
-        "languages": "",
-        "cr": "3",
-        "traits": [
-          {
-            "desc": "If a creature starts its turn within 30 feet of the basilisk and the two of them can see each other, the basilisk can force the creature to make a DC 12 Constitution saving throw if the basilisk isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]. On a failed save, the creature magically begins to turn to stone and is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]] until freed by the  [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]] spell or other magic.\n\nA creature that isn't surprised can avert its eyes to avoid the saving throw at the start of its turn. If it does so, it can't see the basilisk until the start of its next turn, when it can avert its eyes again. If it looks at the basilisk in the meantime, it must immediately make the save.\n\nIf the basilisk sees its reflection within 30 feet of it in bright light, it mistakes itself for a rival and targets itself with its gaze.",
-            "name": "Petrifying Gaze"
-          }
-        ],
-        "actions": [
-          {
-            "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target. Hit: dice: 2d6 + 3|avg (2d6 + 3) piercing damage plus dice: 2d6|avg (2d6) poison damage.",
-            "name": "Bite"
-          }
-        ],
-        "source": [
-          "MM",
-          "ToA",
-          "WDMM",
-          "BGDIA",
-          "MOT",
-          "IDRotF",
-          "PSZ",
-          "PaBTSO"
-        ],
-        "image": "compendium/bestiary/monstrosity/token/basilisk.png",
-        "note": "5. Mechanics/Bestiary/Monstrosity/Basilisk.md",
-        "mtime": 1706802735620
-      }
-    ],
-    [
       "Aberrant Spirit (4th-level Spell) (TCE)",
       {
         "name": "Aberrant Spirit (4th-level Spell) (TCE)",
@@ -64849,6 +64689,274 @@
         "image": "5. Mechanics/Bestiary/Monstrosity/token/tlincalli.png",
         "note": "5. Mechanics/Bestiary/Monstrosity/Tlincalli (MPMM).md",
         "mtime": 1706804673857
+      }
+    ],
+    [
+      "Vampire Spawn",
+      {
+        "name": "Vampire Spawn",
+        "size": "Medium",
+        "type": "undead",
+        "alignment": "Neutral Evil",
+        "ac": 15,
+        "hp": 82,
+        "hit_dice": "11d8 + 33",
+        "stats": [
+          16,
+          16,
+          16,
+          11,
+          10,
+          12
+        ],
+        "speed": "30 ft.",
+        "saves": {
+          "Dexterity": 6,
+          "Wisdom": 3
+        },
+        "skillsaves": {
+          "Stealth": 6,
+          "Perception": 3
+        },
+        "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks",
+        "senses": "darkvision 60 ft., passive Perception 13",
+        "languages": "the languages it knew in life",
+        "cr": "5",
+        "traits": [
+          {
+            "desc": "The vampire regains 10 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.",
+            "name": "Regeneration"
+          },
+          {
+            "desc": "The vampire can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+            "name": "Spider Climb"
+          },
+          {
+            "desc": "The vampire has the following flaws:\n\nForbiddance. The vampire can't enter a residence without an invitation from one of the occupants.\n\nHarmed by Running Water. The vampire takes 20 acid damage when it ends its turn in running water.\n\nStake to the Heart. The vampire is destroyed if a piercing weapon made of wood is driven into its heart while it is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] in its resting place.\n\nSunlight Hypersensitivity. The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.",
+            "name": "Vampire Weaknesses"
+          }
+        ],
+        "actions": [
+          {
+            "desc": "The vampire makes two attacks, only one of which can be a bite attack.",
+            "name": "Multiattack"
+          },
+          {
+            "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one willing creature, or a creature that is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] by the vampire, [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]], or [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]. Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage plus dice: 2d6|avg (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.",
+            "name": "Bite"
+          },
+          {
+            "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one creature. Hit: dice: 2d4 + 3|avg (2d4 + 3) slashing damage. Instead of dealing damage, the vampire can grapple the target (escape DC 13).",
+            "name": "Claws"
+          }
+        ],
+        "source": [
+          "MM",
+          "CoS",
+          "HotDQ",
+          "PotA",
+          "RoT",
+          "TftYP",
+          "WDMM",
+          "GoS",
+          "DIP",
+          "SLW",
+          "EGW",
+          "TCE",
+          "AATM",
+          "GHLoE"
+        ],
+        "image": "5. Mechanics/Bestiary/Undead/token/vampire-spawn.png",
+        "note": "5. Mechanics/Bestiary/Undead/Vampire Spawn.md",
+        "mtime": 1706804673917
+      }
+    ],
+    [
+      "Yuan-ti Anathema (MPMM)",
+      {
+        "name": "Yuan-ti Anathema (MPMM)",
+        "size": "Huge",
+        "type": "monstrosity",
+        "alignment": "Typically  Neutral Evil",
+        "ac": 16,
+        "hp": 189,
+        "hit_dice": "18d12 + 72",
+        "stats": [
+          23,
+          13,
+          19,
+          19,
+          17,
+          20
+        ],
+        "speed": "40 ft., climb 40 ft., swim 40 ft.",
+        "skillsaves": {
+          "Stealth": 5,
+          "Perception": 11
+        },
+        "damage_resistances": "acid, fire, lightning",
+        "damage_immunities": "poison",
+        "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]",
+        "senses": "blindsight 30 ft., darkvision 60 ft., passive Perception 21",
+        "languages": "Abyssal, Common, Draconic",
+        "cr": "12",
+        "traits": [
+          {
+            "desc": "The anathema casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 17):\n\nAt will: [[5. Mechanics/Spells/Animal Friendship.md|animal friendship]] (snakes only)\n\n3/day each: [[5. Mechanics/Spells/Darkness.md|darkness]], [[5. Mechanics/Spells/Entangle.md|entangle]], [[5. Mechanics/Spells/Fear.md|fear]], [[5. Mechanics/Spells/Polymorph.md|polymorph]], [[5. Mechanics/Spells/Suggestion.md|suggestion]]",
+            "name": "spells"
+          },
+          {
+            "desc": "The anathema has advantage on saving throws against spells and other magical effects.",
+            "name": "Magic Resistance"
+          },
+          {
+            "desc": "Any creature of the anathema's choice, other than a snake or a yuan-ti, that starts its turn within 30 feet of the anathema must succeed on a DC 17 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] of snakes and yuan-ti. A [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to this anathama's aura for the next 24 hours.",
+            "name": "Ophidiophobia Aura"
+          },
+          {
+            "desc": "The anathema has advantage on saves against being [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]], or knocked [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]].",
+            "name": "Six Heads"
+          }
+        ],
+        "actions": [
+          {
+            "desc": "The anathema makes two Claw attacks and one Flurry of Bites attack.",
+            "name": "Multiattack (Anathema Form Only)"
+          },
+          {
+            "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 10 ft., one target. Hit: dice: 2d6 + 6|avg (2d6 + 6) slashing damage.",
+            "name": "Claw (Anathema Form Only)"
+          },
+          {
+            "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 10 ft., one creature. Hit: dice: 6d6 + 6|avg (6d6 + 6) piercing damage plus dice: 4d6|avg (4d6) poison damage.",
+            "name": "Flurry of Bites (Anathema Form Only)"
+          },
+          {
+            "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 15 ft., one Large or smaller creature. Hit: dice: 3d6 + 6|avg (3d6 + 6) bludgeoning damage plus dice: 2d6|avg (2d6) acid damage, and the target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 16). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]], and it takes dice: 3d6 + 6|avg (3d6 + 6) bludgeoning damage plus dice: 2d6|avg (2d6) acid damage at the start of each of its turns. The anathema can constrict only one creature at a time.",
+            "name": "Constrict (Snake Form Only)"
+          }
+        ],
+        "bonus_actions": [
+          {
+            "desc": "The anathema transforms into a Huge constrictor snake or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed.",
+            "name": "Change Shape"
+          }
+        ],
+        "source": [
+          "MPMM",
+          "VGM"
+        ],
+        "image": "5. Mechanics/Bestiary/Monstrosity/token/yuan-ti-anathema.png",
+        "note": "5. Mechanics/Bestiary/Monstrosity/Yuan Ti Anathema (MPMM).md",
+        "mtime": 1706804673864
+      }
+    ],
+    [
+      "Vampire Spellcaster",
+      {
+        "name": "Vampire Spellcaster",
+        "size": "Medium",
+        "type": "undead",
+        "subtype": "shapechanger",
+        "alignment": "Lawful Evil",
+        "ac": 16,
+        "hp": 144,
+        "hit_dice": "17d8 + 68",
+        "stats": [
+          18,
+          18,
+          18,
+          17,
+          15,
+          18
+        ],
+        "speed": "30 ft.",
+        "saves": {
+          "Charisma": 9,
+          "Dexterity": 9,
+          "Wisdom": 7
+        },
+        "skillsaves": {
+          "Stealth": 9,
+          "Perception": 7
+        },
+        "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks",
+        "senses": "darkvision 120 ft., passive Perception 17",
+        "languages": "the languages it knew in life",
+        "cr": "15",
+        "traits": [
+          {
+            "desc": "The vampire is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 16, dice: d20+8 (+8 to hit) with spell attacks). The vampire has the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]], [[5. Mechanics/Spells/Ray Of Frost.md|ray of frost]]\n\n1st level (4 slots): [[5. Mechanics/Spells/Comprehend Languages.md|comprehend languages]], [[5. Mechanics/Spells/Fog Cloud.md|fog cloud]], [[5. Mechanics/Spells/Sleep.md|sleep]]\n\n2nd level (3 slots): [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[5. Mechanics/Spells/Gust Of Wind.md|gust of wind]], [[5. Mechanics/Spells/Mirror Image.md|mirror image]]\n\n3rd level (3 slots): [[5. Mechanics/Spells/Animate Dead.md|animate dead]], [[5. Mechanics/Spells/Bestow Curse.md|bestow curse]], [[5. Mechanics/Spells/Nondetection.md|nondetection]]\n\n4th level (3 slots): [[5. Mechanics/Spells/Blight.md|blight]], [[5. Mechanics/Spells/Greater Invisibility.md|greater invisibility]]\n\n5th level (1 slots): [[5. Mechanics/Spells/Dominate Person.md|dominate person]]",
+            "name": "spells"
+          },
+          {
+            "desc": "If the vampire isn't in sunlight or running water, it can use its action to polymorph into a Tiny bat or a Medium cloud of mist, or back into its true form.\n\nWhile in bat form, the vampire can't speak, its walking speed is 5 feet, and it has a flying speed of 30 feet. Its statistics, other than its size and speed, are unchanged. Anything it is wearing transforms with it, but nothing it is carrying does. It reverts to its true form if it dies.\n\nWhile in mist form, the vampire can't take any actions, speak, or manipulate objects. It is weightless, has a flying speed of 20 feet, can hover, and can enter a hostile creature's space and stop there. In addition, if air can pass through a space, the mist can do so without squeezing, and it can't pass through water. It has advantage on Strength, Dexterity, and Constitution saving throws, and it is immune to all nonmagical damage, except the damage it takes from sunlight.",
+            "name": "Shapechanger"
+          },
+          {
+            "desc": "If the vampire fails a saving throw, it can choose to succeed instead.",
+            "name": "Legendary Resistance (3/Day)"
+          },
+          {
+            "desc": "When it drops to 0 hit points outside its resting place, the vampire transforms into a cloud of mist (as in the Shapechanger trait) instead of falling [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]], provided that it isn't in sunlight or running water. If it can't transform, it is destroyed.\n\nWhile it has 0 hit points in mist form, it can't revert to its vampire form, and it must reach its resting place within 2 hours or be destroyed. Once in its resting place, it reverts to its vampire form. It is then [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]] until it regains at least 1 hit point. After spending 1 hour in its resting place with 0 hit points, it regains 1 hit point.",
+            "name": "Misty Escape"
+          },
+          {
+            "desc": "The vampire regains 20 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.",
+            "name": "Regeneration"
+          },
+          {
+            "desc": "The vampire can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+            "name": "Spider Climb"
+          },
+          {
+            "desc": "The vampire has the following flaws:\n\nForbiddance. The vampire can't enter a residence without an invitation from one of the occupants.\n\nHarmed by Running Water. The vampire takes 20 acid damage if it ends its turn in running water.\n\nStake to the Heart. If a piercing weapon made of wood is driven into the vampire's heart while the vampire is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] in its resting place, the vampire is [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]] until the stake is removed.\n\nSunlight Hypersensitivity. The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.",
+            "name": "Vampire Weaknesses"
+          }
+        ],
+        "actions": [
+          {
+            "desc": "The vampire makes two attacks, only one of which can be a bite attack.",
+            "name": "Multiattack (Vampire Form Only)"
+          },
+          {
+            "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one creature. Hit: dice: 1d8 + 4|avg (1d8 + 4) bludgeoning damage. Instead of dealing damage, the vampire can grapple the target (escape DC 18).",
+            "name": "Unarmed Strike (Vampire Form Only)"
+          },
+          {
+            "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one willing creature, or a creature that is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] by the vampire, [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]], or [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]. Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing damage plus dice: 3d6|avg (3d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. A humanoid slain in this way and then buried in the ground rises the following night as a [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md|vampire spawn]] under the vampire's control.",
+            "name": "Bite (Bat or Vampire Form Only)"
+          },
+          {
+            "desc": "The vampire targets one humanoid it can see within 30 feet of it. If the target can see the vampire, the target must succeed on a DC 17 Wisdom saving throw against this magic or be [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] by the vampire. The [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] target regards the vampire as a trusted friend to be heeded and protected. Although the target isn't under the vampire's control, it takes the vampire's requests or actions in the most favorable way it can, and it is a willing target for the vampire's bite attack.\n\nEach time the vampire or the vampire's companions do anything harmful to the target, it can repeat the saving throw, ending the effect on itself on a success. Otherwise, the effect lasts 24 hours or until the vampire is destroyed, is on a different plane of existence than the target, or takes a bonus action to end the effect.",
+            "name": "Charm"
+          },
+          {
+            "desc": "The vampire magically calls dice: 2d4|avg (2d4) swarms of [[5. Mechanics/Bestiary/Beast/Swarm Of Bats.md|bats]] or [[5. Mechanics/Bestiary/Beast/Swarm Of Rats.md|rats]], provided that the sun isn't up. While outdoors, the vampire can call dice: 3d6|avg (3d6) [[5. Mechanics/Bestiary/Beast/Wolf.md|wolves]] instead. The called creatures arrive in dice: 1d4|avg (1d4) rounds, acting as allies of the vampire and obeying its spoken commands. The beasts remain for 1 hour, until the vampire dies, or until the vampire dismisses them as a bonus action.",
+            "name": "Children of the Night (1/Day)"
+          }
+        ],
+        "legendary_actions": [
+          {
+            "desc": "The vampire moves up to its speed without provoking opportunity attacks.",
+            "name": "Move"
+          },
+          {
+            "desc": "The vampire makes one unarmed strike.",
+            "name": "Unarmed Strike"
+          },
+          {
+            "desc": "The vampire makes one bite attack.",
+            "name": "Bite (Costs 2 Actions)"
+          }
+        ],
+        "source": [
+          "MM",
+          "RoT"
+        ],
+        "image": "5. Mechanics/Bestiary/Undead/token/vampire-spellcaster.png",
+        "note": "5. Mechanics/Bestiary/Undead/Vampire Spellcaster.md",
+        "mtime": 1706804673918
       }
     ]
   ],
