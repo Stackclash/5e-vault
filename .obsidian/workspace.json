@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d2bba1a32e5f63ef",
+        "id": "c28029e4c5fc5297",
         "type": "tabs",
         "children": [
           {
-            "id": "d76f423cd9244504",
+            "id": "460e326f33b6e7e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DM Screen/Configuration.md",
+                "file": "6. Resources/Books/Hamunds Herbalism Handbook/3 Chapter-2 Rules And Mechanics.md",
                 "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "45dd596f59f1db62",
-            "type": "leaf",
-            "state": {
-              "type": "intiative-tracker-encounter-builder",
-              "state": []
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. DM Screen/Configuration.md",
+                "file": "6. Resources/Books/Hamunds Herbalism Handbook/3 Chapter-2 Rules And Mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. DM Screen/Configuration.md",
+                "file": "6. Resources/Books/Hamunds Herbalism Handbook/3 Chapter-2 Rules And Mechanics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DM Screen/Configuration.md"
+                "file": "6. Resources/Books/Hamunds Herbalism Handbook/3 Chapter-2 Rules And Mechanics.md"
               }
             }
           },
@@ -166,7 +157,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -191,10 +183,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d76f423cd9244504",
+  "active": "460e326f33b6e7e9",
   "lastOpenFiles": [
-    "4. World Almanac/Shops/Blinsky Toys.md",
+    "6. Resources/Books/Hamunds Herbalism Handbook/2 Chapter-1 Introduction.md",
+    "6. Resources/Books/Hamunds Herbalism Handbook/3 Chapter-2 Rules And Mechanics.md",
+    "6. Resources/Books/Hamunds Herbalism Handbook/1 Hamunds Herbalism Handbook.md",
+    "5. Mechanics/Bestiary/Giant/Giant.md",
+    "5. Mechanics/Bestiary/Giant/Frost Giant.md",
+    "5. Mechanics/Bestiary/Humanoid/Humanoid.md",
+    "5. Mechanics/Bestiary/Humanoid/Bandit.md",
     "1. DM Screen/Configuration.md",
+    "4. World Almanac/NPCs/token/strahd-von-zarovich.png",
+    "4. World Almanac/Shops/Blinsky Toys.md",
     "4. World Almanac/Settlements/Vallaki.md",
     "4. World Almanac/NPCs/Strahd Von Zarovich.md",
     "4. World Almanac/Shops/Bildrath's Mercantile.md",
@@ -212,13 +212,6 @@
     "5. Mechanics/Bestiary/Fey/Autumn Eladrin (MPMM).md",
     "5. Mechanics/Bestiary/Fey/Bheur Hag (MPMM).md",
     "5. Mechanics/Bestiary/Fey/Blink Dog.md",
-    "1. DM Screen/1. DM Screen.md",
-    "5. Mechanics/Bestiary/Beast/Beast.md",
-    "5. Mechanics/Bestiary/Beast/Badger.md",
-    "5. Mechanics/Bestiary/Beast/Baboon.md",
-    "5. Mechanics/Bestiary/Beast/Axe Beak.md",
-    "5. Mechanics/Bestiary/Monstrosity/Basilisk.md",
-    "conflict-files-obsidian-git.md",
     "test.js",
     "z_Scripts/Dataview/monsterHarvesterTable.js",
     "6. Resources/5e Modules/Curse Of Strahd/img/024-005.jpg",
@@ -238,7 +231,6 @@
     "compendium/bestiary/undead/token/poltergeist.png",
     "compendium/bestiary/construct/token/rug-of-smothering.png",
     "compendium/bestiary/npc/img/arrigal.webp",
-    "compendium/decks/img/201-dnd_tarokka_monk.webp",
     "Untitled.canvas"
   ]
 }
