@@ -1,10 +1,4 @@
-{#if resource.isNpc}<%*
-await tp.file.move('4. World Almanac/NPCs/' + tp.file.title)
-if (tp.config.run_mode === 0) {
-    let title = await tp.system.prompt("What is the name of the NPC?")
-    await tp.file.rename(title)
-}
--%>
+{#if resource.isNpc}
 ---
 obsidianUIMode: preview
 statblock: inline
@@ -17,7 +11,7 @@ image:
 {/if} 
 relationships: []
 tags: 
-aliases: []
+aliases: [{resource.name}]
 pronounced: 
 race: 
 gender: 
