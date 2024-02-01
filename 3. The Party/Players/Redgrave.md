@@ -88,7 +88,7 @@ const mentions = []
 await Promise.all(logs.map(l => dv.io.load(l.file.path)))
   .then(logContents => {
     logContents.forEach(lc => {
-      lc.split('/n').forEach(line => {
+      lc.split('\n').forEach(line => {
         console.log(line)
         if (new RegExp(dv.current().file.name).test(line)) {
           mentions.push(line)
