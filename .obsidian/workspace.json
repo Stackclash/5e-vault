@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Mechanics/Rules/Variant Rules/Diagonals.md",
+                "file": "3. The Party/Session Logs/Knowing the Road.md",
                 "mode": "preview",
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Mechanics/Rules/Variant Rules/Diagonals.md",
+                "file": "3. The Party/Session Logs/Knowing the Road.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Mechanics/Rules/Variant Rules/Diagonals.md",
+                "file": "3. The Party/Session Logs/Knowing the Road.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Mechanics/Rules/Variant Rules/Diagonals.md"
+                "file": "3. The Party/Session Logs/Knowing the Road.md"
               }
             }
           },
@@ -180,11 +180,20 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-5e-statblocks:Open Creature Pane": false,
       "dbfolder:Create a new database table": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "graph:Open graph view": false
     }
   },
   "active": "460e326f33b6e7e9",
   "lastOpenFiles": [
+    "Parriwimple (COS).md",
+    "5. Mechanics/Rules/Variant Rules/Injuries.md",
+    "5. Mechanics/Rules/Variant Rules/Flanking.md",
+    "5. Mechanics/Rules/Variant Rules/Downtime Activity Crafting.md",
+    "5. Mechanics/Rules/Variant Rules/Downtime Activity Crafting A Magic Item.md",
+    "5. Mechanics/Rules/Variant Rules/Downtime Activity Carousing (XGE).md",
+    "5. Mechanics/Rules/Variant Rules/Downtime Activity Carousing.md",
+    "5. Mechanics/Rules/Variant Rules/Diagonals.md",
     "5. Mechanics/Rules/Variant Rules/Action Options.md",
     "5. Mechanics/Rules/Variant Rules/Alien Technology.md",
     "2. Scratch Notes/House Rule Ideas.md",
@@ -203,15 +212,7 @@
     "5. Mechanics/Bestiary/Giant/Frost Giant.md",
     "5. Mechanics/Bestiary/Humanoid/Humanoid.md",
     "5. Mechanics/Bestiary/Humanoid/Bandit.md",
-    "1. DM Screen/Configuration.md",
     "4. World Almanac/NPCs/token/strahd-von-zarovich.png",
-    "4. World Almanac/Shops/Blinsky Toys.md",
-    "4. World Almanac/Settlements/Vallaki.md",
-    "4. World Almanac/NPCs/Strahd Von Zarovich.md",
-    "4. World Almanac/Shops/Bildrath's Mercantile.md",
-    "4. World Almanac/Regions/Barovia.md",
-    "5. Mechanics/Bestiary/Legendary Group/Strahd Von Zarovich (COS).md",
-    "4. World Almanac/NPCs/Urwin Martikov.md",
     "test.js",
     "z_Scripts/Dataview/monsterHarvesterTable.js",
     "6. Resources/5e Modules/Curse Of Strahd/img/024-005.jpg",
