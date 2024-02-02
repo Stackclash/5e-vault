@@ -11,11 +11,9 @@
             "id": "460e326f33b6e7e9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "3. The Party/Session Logs/Welcome to Barovia.md",
-                "mode": "source",
-                "source": false
+                "file": "3. The Party/Quests/Quests.md"
               }
             }
           }
@@ -88,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/Session Logs/Welcome to Barovia.md",
+                "file": "3. The Party/Quests/Quests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/Session Logs/Welcome to Barovia.md",
+                "file": "3. The Party/Quests/Quests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/Session Logs/Welcome to Barovia.md"
+                "file": "3. The Party/Quests/Quests.md"
               }
             }
           },
@@ -186,6 +184,7 @@
   },
   "active": "460e326f33b6e7e9",
   "lastOpenFiles": [
+    "3. The Party/Session Logs/Welcome to Barovia.md",
     "3. The Party/Session Logs/Session Logs.md",
     "3. The Party/Session Logs/Deal with the Devil.md",
     "3. The Party/Session Logs/Best Weapon against Vampires are Old Men.md",
@@ -211,7 +210,6 @@
     "6. Resources/Books/Hamunds Herbalism Handbook/4 Chapter-3 The Herb Compendium.md",
     "6. Resources/Books/Hamunds Herbalism Handbook/5 Chapter-4 Miscellaneous.md",
     "5. Mechanics/Items/Golden Pine Hhbh.md",
-    "6. Resources/Books/Hamunds Herbalism Handbook/3 Chapter-2 Rules And Mechanics.md",
     "4. World Almanac/NPCs/token/strahd-von-zarovich.png",
     "test.js",
     "z_Scripts/Dataview/monsterHarvesterTable.js",
