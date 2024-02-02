@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "3. The Party/Players/Redgrave.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -134,7 +134,15 @@
             }
           },
           {
-            "id": "a147abca95b10d1b",
+            "id": "300c2cb0e63360cb",
+            "type": "leaf",
+            "state": {
+              "type": "rpg-manager-options",
+              "state": {}
+            }
+          },
+          {
+            "id": "74e54569932a9896",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -142,23 +150,15 @@
             }
           },
           {
-            "id": "d950a8794ce726e6",
+            "id": "47217e426a1e3c1f",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
               "state": {}
             }
-          },
-          {
-            "id": "300c2cb0e63360cb",
-            "type": "leaf",
-            "state": {
-              "type": "rpg-manager-options",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -175,13 +175,13 @@
       "obsidian-custom-frames:Open DnDBShi": false,
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "templater-obsidian:Templater": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-5e-statblocks:Open Creature Pane": false,
       "dbfolder:Create a new database table": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "graph:Open graph view": false
+      "graph:Open graph view": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
   "active": "460e326f33b6e7e9",
