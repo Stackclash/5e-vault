@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. The Party/Players/Redgrave.md",
-                "mode": "source",
+                "file": "3. The Party/Session Logs/Best Weapon against Vampires are Old Men.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/Players/Redgrave.md",
+                "file": "3. The Party/Session Logs/Best Weapon against Vampires are Old Men.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/Players/Redgrave.md",
+                "file": "3. The Party/Session Logs/Best Weapon against Vampires are Old Men.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/Players/Redgrave.md"
+                "file": "3. The Party/Session Logs/Best Weapon against Vampires are Old Men.md"
               }
             }
           },
@@ -186,6 +186,8 @@
   },
   "active": "460e326f33b6e7e9",
   "lastOpenFiles": [
+    "3. The Party/Session Logs/Session Logs.md",
+    "3. The Party/Players/Redgrave.md",
     "3. The Party/Session Logs/Knowing the Road.md",
     "Untitled.md",
     "Parriwimple (COS).md",
@@ -210,8 +212,6 @@
     "6. Resources/Books/Hamunds Herbalism Handbook/3 Chapter-2 Rules And Mechanics.md",
     "6. Resources/Books/Hamunds Herbalism Handbook/2 Chapter-1 Introduction.md",
     "6. Resources/Books/Hamunds Herbalism Handbook/1 Hamunds Herbalism Handbook.md",
-    "5. Mechanics/Bestiary/Giant/Giant.md",
-    "5. Mechanics/Bestiary/Giant/Frost Giant.md",
     "4. World Almanac/NPCs/token/strahd-von-zarovich.png",
     "test.js",
     "z_Scripts/Dataview/monsterHarvesterTable.js",

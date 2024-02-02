@@ -91,7 +91,7 @@ await Promise.all(logs.map(l => dv.io.load(l.file.path)))
       lc.split('\n').forEach(line => {
         if (new RegExp(dv.current().file.name).test(line)) {
           console.log(`"${line}`)
-          mentions.push(line)
+          mentions.push(line.replace(/^\s*-*\s*/, ''))
         }
       })
     })
