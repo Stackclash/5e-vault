@@ -1,26 +1,29 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: "[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]"
 condition: healthy
-relationships: []
+relationships:
+  - Doru|son
 tags: 
 aliases: []
-pronounced: 
-race: 
-gender: 
-age: 
+pronounced: DON-a-vich
+race: "[[5. Mechanics/Races/Human.md|Human]]"
+gender: male
+age: 50
 alignment: Lawful Good
-occupation: 
+occupation:
+  - Priest
 groups: []
-religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+religions:
+  - Faith of the Morninglord
+personality: Devout, troubled, compassionate
+ideal: Through faith and perseverance, we can endure the darkest nights.
+bond: His congregation, his son
+flaw: His faith wavers in the face of his son's affliction.
+goals: To protect his flock, to cure his son
+likes: Dawn, prayer, community gatherings
+dislikes: Darkness, Strahd’s influence, seeing his parishioners suffer
 ---
 
 > [!infobox]

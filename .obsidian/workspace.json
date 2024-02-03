@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/NPCs/Madam Eva.md",
+                "file": "4. World Almanac/NPCs/Adrian Martikov.md",
                 "mode": "preview",
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/NPCs/Madam Eva.md",
+                "file": "4. World Almanac/NPCs/Adrian Martikov.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/NPCs/Madam Eva.md",
+                "file": "4. World Almanac/NPCs/Adrian Martikov.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/NPCs/Madam Eva.md"
+                "file": "4. World Almanac/NPCs/Adrian Martikov.md"
               }
             }
           },
@@ -162,8 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5,
-    "collapsed": true
+    "width": 335.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,12 +185,17 @@
   },
   "active": "460e326f33b6e7e9",
   "lastOpenFiles": [
-    "4. World Almanac/NPCs/Ismark Kolyanovich.md",
+    "6. Resources/5e Modules/Curse Of Strahd/05 Chapter-3 The Village Of Barovia.md",
+    "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
+    "4. World Almanac/NPCs/Donavich.md",
+    "4. World Almanac/NPCs/Doru.md",
+    "1. DM Screen/Configuration.md",
+    "1. DM Screen/1. DM Screen.md",
     "4. World Almanac/NPCs/Madam Eva.md",
+    "4. World Almanac/NPCs/Ismark Kolyanovich.md",
     "4. World Almanac/Places of Interest/Tser Pool.md",
     "4. World Almanac/NPCs/Adrian Martikov.md",
     "3. The Party/Session Logs/Session Logs.md",
-    "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
     "4. World Almanac/NPCs/Strahd Von Zarovich.md",
     "5. Mechanics/Bestiary/Undead/Strahd Zombie (COS).md",
     "3. The Party/Session Logs/Welcome to Barovia.md",
@@ -207,11 +211,6 @@
     "5. Mechanics/Rules/Variant Rules/Downtime Activity Crafting A Magic Item.md",
     "5. Mechanics/Rules/Variant Rules/Downtime Activity Carousing (XGE).md",
     "5. Mechanics/Rules/Variant Rules/Downtime Activity Carousing.md",
-    "5. Mechanics/Rules/Variant Rules/Diagonals.md",
-    "5. Mechanics/Rules/Variant Rules/Action Options.md",
-    "5. Mechanics/Rules/Variant Rules/Alien Technology.md",
-    "2. Scratch Notes/House Rule Ideas.md",
-    "2. Scratch Notes/D&D Ideas.md",
     "4. World Almanac/NPCs/token/strahd-von-zarovich.png",
     "test.js",
     "z_Scripts/Dataview/monsterHarvesterTable.js",
