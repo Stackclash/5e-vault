@@ -3,6 +3,7 @@ obsidianUIMode: preview
 statblock: inline
 location: "[[4. World Almanac/Places of Interest/Tser Pool.md|Tser Pool]]"
 condition: healthy
+image: z_Assets/Madam Eva.webp
 relationships: []
 tags: 
 aliases: []
@@ -29,6 +30,9 @@ dislikes: Those who disrespect the Vistani, closed-mindedness.
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```
 > ###### Bio
 >  |
 >  ---|---|

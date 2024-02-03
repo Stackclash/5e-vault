@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DM Screen/Configuration.md",
+                "file": "4. World Almanac/NPCs/Madam Eva.md",
                 "mode": "preview",
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. DM Screen/Configuration.md",
+                "file": "4. World Almanac/NPCs/Madam Eva.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. DM Screen/Configuration.md",
+                "file": "4. World Almanac/NPCs/Madam Eva.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DM Screen/Configuration.md"
+                "file": "4. World Almanac/NPCs/Madam Eva.md"
               }
             }
           },
@@ -184,8 +184,11 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "460e326f33b6e7e9",
+  "active": "a88a1818b2c15bdd",
   "lastOpenFiles": [
+    "z_Assets/Madam Eva.webp",
+    "4. World Almanac/NPCs/Baba Lysagas Creeping Hut.md",
+    "1. DM Screen/Configuration.md",
     "4. World Almanac/NPCs/Baba Lysaga.md",
     "4. World Almanac/NPCs/Arrigal.md",
     "4. World Almanac/NPCs/Arabelle.md",
@@ -201,7 +204,6 @@
     "6. Resources/5e Modules/Curse Of Strahd/05 Chapter-3 The Village Of Barovia.md",
     "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
     "4. World Almanac/NPCs/Doru.md",
-    "1. DM Screen/Configuration.md",
     "1. DM Screen/1. DM Screen.md",
     "4. World Almanac/Places of Interest/Tser Pool.md",
     "3. The Party/Session Logs/Session Logs.md",
@@ -210,8 +212,6 @@
     "3. The Party/Quests/Quests.md",
     "3. The Party/Session Logs/Deal with the Devil.md",
     "3. The Party/Session Logs/Best Weapon against Vampires are Old Men.md",
-    "3. The Party/Players/Redgrave.md",
-    "3. The Party/Session Logs/Knowing the Road.md",
     "4. World Almanac/NPCs/token/strahd-von-zarovich.png",
     "test.js",
     "z_Scripts/Dataview/monsterHarvesterTable.js",
