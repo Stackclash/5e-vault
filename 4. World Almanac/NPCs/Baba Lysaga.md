@@ -1,26 +1,26 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: "[[4. World Almanac/Places of Interest/Ruins of Berez.md|Ruins of Berez]]"
 condition: healthy
 relationships: []
 tags: 
 aliases: []
-pronounced: 
+pronounced: BAH-bah LEE-sah-gah
 race: "[[5. Mechanics/Races/Human.md|Human]]"
 gender: female
-age: 
+age: 532
 alignment: Chaotic Evil
-occupation: 
+occupation: []
 groups: []
 religions: []
-personality: 
+personality: Mad, obsessed, powerful
 ideal: No love is greater than a mother's love for her son.
 bond: I am the mother of Strahd. Anyone who disputes this fact can rot.
-flaw: I will not rest until the last of my son's enemies are destroyed.
-goals: 
-likes: 
-dislikes: 
+flaw: I will not rest until the last of my son's enemies are destroyed. Her obsession with Strahd blinds her to other threats
+goals: " To aid Strahd, to destroy his enemies, to gain more arcane power"
+likes: Magic, Strahd, her creeping hut
+dislikes: Intruders in Berez, those who oppose Strahd, the light
 ---
 
 > [!infobox]
