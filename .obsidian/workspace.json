@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/NPCs/Bluto Krogarov.md",
+                "file": "4. World Almanac/NPCs/Bray Martikov.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8dc7bf1008cf988d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. DM Screen/Configuration.md",
                 "mode": "preview",
                 "source": false
               }
@@ -101,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/NPCs/Bluto Krogarov.md",
+                "file": "4. World Almanac/NPCs/Bray Martikov.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/NPCs/Bluto Krogarov.md",
+                "file": "4. World Almanac/NPCs/Bray Martikov.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/NPCs/Bluto Krogarov.md"
+                "file": "4. World Almanac/NPCs/Bray Martikov.md"
               }
             }
           },
@@ -199,10 +211,11 @@
   },
   "active": "ef41359ce1b26f10",
   "lastOpenFiles": [
-    "4. World Almanac/NPCs/Beucephalus.md",
-    "4. World Almanac/NPCs/Baron Vargas Vallakovich.md",
     "1. DM Screen/Configuration.md",
+    "4. World Almanac/NPCs/Bray Martikov.md",
     "4. World Almanac/NPCs/Bluto Krogarov.md",
+    "4. World Almanac/NPCs/Baron Vargas Vallakovich.md",
+    "4. World Almanac/NPCs/Beucephalus.md",
     "Untitled.md",
     "4. World Almanac/NPCs/Baba Lysaga.md",
     "4. World Almanac/NPCs/Baba Lysagas Creeping Hut.md",
@@ -225,7 +238,6 @@
     "4. World Almanac/Places of Interest/Tser Pool.md",
     "3. The Party/Session Logs/Session Logs.md",
     "5. Mechanics/Bestiary/Undead/Strahd Zombie (COS).md",
-    "3. The Party/Session Logs/Welcome to Barovia.md",
     "4. World Almanac/NPCs/token/strahd-von-zarovich.png",
     "test.js",
     "z_Scripts/Dataview/monsterHarvesterTable.js",
