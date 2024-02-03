@@ -6,7 +6,7 @@ condition: healthy
 relationships: []
 tags: 
 aliases: []
-pronounced: 
+pronounced: BLOO-toh KRO-gah-rov
 race: 
 gender: 
 age: 

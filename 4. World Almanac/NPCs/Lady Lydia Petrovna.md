@@ -3,7 +3,8 @@ obsidianUIMode: preview
 statblock: inline
 location: 
 condition: healthy
-relationships: []
+relationships:
+  - Baron Vargas Vallakovich|husband
 tags: 
 aliases: []
 pronounced: 

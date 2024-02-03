@@ -1,26 +1,28 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: "[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]"
 condition: healthy
-relationships: []
+relationships:
+  - Lady Lydia Petrovna|wife
+  - Victor Vallakovich|son
 tags: 
 aliases: []
-pronounced: 
-race: 
-gender: 
-age: 
+pronounced: VAR-gas val-lah-KO-vich
+race: "[[5. Mechanics/Races/Human.md|Human]]"
+gender: male
+age: 43
 alignment: Neutral Evil
-occupation: 
+occupation: []
 groups: []
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+personality: Authoritarian, paranoid, obsessed with maintaining a façade of happiness
+ideal: All will be well if we just keep pretending it is.
+bond: His family's legacy of ruling Vallaki, his desperate need to keep the town safe from Strahd's influence
+flaw: His denial of Vallaki's real problems and his tyrannical methods of enforcing happiness
+goals: " To keep Vallaki free from Strahd's influence, to maintain order at all costs"
+likes: Obedience, festivals, public displays of happiness
+dislikes: Dissent, failure, anything that threatens his control or Vallaki's 'happiness'
 ---
 
 > [!infobox]
