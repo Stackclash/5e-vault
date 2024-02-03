@@ -6,5 +6,5 @@
   "maxTokens": 500,
   "replaceSelection": false,
   "imgFolder": "z_Assets",
-  "language": ""
+  "language": "en"
 }
