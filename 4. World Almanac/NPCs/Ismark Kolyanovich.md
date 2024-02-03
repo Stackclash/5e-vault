@@ -1,20 +1,22 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: "[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]"
 condition: healthy
 relationships:
   - Ireena Kolyana|sister
 tags: 
 aliases: []
-pronounced: 
+pronounced: IS-mark KOHL-yan-o-vich
 race: 
-gender: 
-age: 
+gender: male
+age: 25
 alignment: Lawful Good
-occupation: 
+occupation:
+  - Burgomaster
 groups: []
-religions: []
+religions:
+  - Faith of the Morninglord
 personality: 
 ideal: 
 bond: 
