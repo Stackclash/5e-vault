@@ -1,26 +1,29 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: "[[4. World Almanac/Places of Interest/Tser Pool.md|Tser Pool]]"
 condition: healthy
 relationships: []
 tags: 
 aliases: []
-pronounced: 
-race: 
-gender: 
-age: 
+pronounced: MAD-ame EE-vah
+race: "[[5. Mechanics/Races/Human.md|Human]]"
+gender: female
+age: 67
 alignment: Chaotic Neutral
-occupation: 
-groups: []
-religions: []
-personality: 
+occupation:
+  - Seer
+groups:
+  - Vistani
+religions:
+  - Old Ways of the Vistani
+personality: Mysterious, wise, enigmatic
 ideal: I wish Strahd to be free of his curse.
-bond: The Vistani are my people now.
-flaw: The people whose fates I divine aren't important. They are but the means to an end.
-goals: 
-likes: 
-dislikes: 
+bond: The Vistani are my people now. The welfare and freedom of the Vistani people.
+flaw: The people whose fates I divine aren't important. They are but the means to an end. Her cryptic nature can sometimes alienate others.
+goals: To guide the souls that come to her towards their destiny.
+likes: Reading fortunes, the respect of her people, the mystic arts.
+dislikes: Those who disrespect the Vistani, closed-mindedness.
 ---
 
 > [!infobox]

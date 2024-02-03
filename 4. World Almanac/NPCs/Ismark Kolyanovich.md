@@ -8,7 +8,7 @@ relationships:
 tags: 
 aliases: []
 pronounced: IS-mark KOHL-yan-o-vich
-race: 
+race: "[[5. Mechanics/Races/Human.md|Human]]"
 gender: male
 age: 25
 alignment: Lawful Good
@@ -17,13 +17,13 @@ occupation:
 groups: []
 religions:
   - Faith of the Morninglord
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+personality: Protective, responsible, deeply concerned for his sister's safety
+ideal: Duty above all, especially to family and those under my care.
+bond: His late father's legacy and his sister's safety
+flaw: Can be overly cautious and sometimes distrustful of strangers
+goals: To secure a safe place for Ireena, away from Strahd’s reach
+likes: Quiet moments of peace, strong leadership, loyalty
+dislikes: Threats to his family, Strahd's minions, chaos
 ---
 
 > [!infobox]
