@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/NPCs/Madam Eva.md",
+                "file": "4. World Almanac/NPCs/Baba Lysaga.md",
                 "mode": "preview",
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/NPCs/Madam Eva.md",
+                "file": "4. World Almanac/NPCs/Baba Lysaga.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/NPCs/Madam Eva.md",
+                "file": "4. World Almanac/NPCs/Baba Lysaga.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/NPCs/Madam Eva.md"
+                "file": "4. World Almanac/NPCs/Baba Lysaga.md"
               }
             }
           },
@@ -184,10 +184,11 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "a88a1818b2c15bdd",
+  "active": "460e326f33b6e7e9",
   "lastOpenFiles": [
-    "z_Assets/Madam Eva.webp",
     "4. World Almanac/NPCs/Baba Lysagas Creeping Hut.md",
+    "4. World Almanac/NPCs/Madam Eva.md",
+    "z_Assets/Madam Eva.webp",
     "1. DM Screen/Configuration.md",
     "4. World Almanac/NPCs/Baba Lysaga.md",
     "4. World Almanac/NPCs/Arrigal.md",
@@ -198,7 +199,6 @@
     "4. World Almanac/NPCs/Strahd Von Zarovich.md",
     "4. World Almanac/NPCs/Adrian Martikov.md",
     "4. World Almanac/NPCs/Donavich.md",
-    "4. World Almanac/NPCs/Madam Eva.md",
     "4. World Almanac/NPCs/Ismark Kolyanovich.md",
     "5. Mechanics/Bestiary/Humanoid/Wereraven (VRGR).md",
     "6. Resources/5e Modules/Curse Of Strahd/05 Chapter-3 The Village Of Barovia.md",
@@ -231,7 +231,6 @@
     "compendium/backgrounds",
     "compendium/bestiary/undead/token/poltergeist.png",
     "compendium/bestiary/construct/token/rug-of-smothering.png",
-    "compendium/bestiary/npc/img/arrigal.webp",
     "Untitled.canvas"
   ]
 }
