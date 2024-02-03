@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: "[[4. World Almanac/Places of Interest/Lake Zarovich.md|Lake Zarovich]]"
 condition: healthy
 relationships:
   - Luvash|father

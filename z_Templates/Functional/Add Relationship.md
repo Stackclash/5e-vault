@@ -10,7 +10,11 @@ const relationshipMapping = [
     {to: "Daughter", from: {male: "Father", female: "Mother"}},
     {to: "Sister", from: {male: "Brother", female: "Sister"}},
     {to: "Brother", from: {male: "Brother", female: "Sister"}},
-    {to: "Cousin", from: "Cousin"}
+    {to: "Cousin", from: "Cousin"},
+    {to: "Niece", from: {male: "Uncle", female: "Aunt"}},
+    {to: "Nephew", from: {male: "Uncle", female: "Aunt"}},
+    {to: "Uncle", from: {male: "Nephew", female: "Niece"}},
+    {to: "Aunt", from: {male: "Nephew", female: "Niece"}}
 ]
 
 if (tp.config.run_mode !== 1) {

@@ -5,6 +5,7 @@ location:
 condition: healthy
 relationships:
   - Arabelle|daughter
+  - Arrigal|brother
 tags: 
 aliases: []
 pronounced: 

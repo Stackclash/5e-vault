@@ -8,7 +8,11 @@ const relationshipMapping = {
     husband: { string: '--Husband ---', styleClass: 'family'},
     brother: { string: '--Brother ---', styleClass: 'family'},
     sister: { string: '--Sister ---', styleClass: 'family'},
-    cousin: { string: '--Cousin ---', styleClass: 'family' }
+    cousin: { string: '--Cousin ---', styleClass: 'family' },
+    uncle: { string: '--Uncle ---', styleClass: 'family' },
+    aunt: { string: '--Aunt ---', styleClass: 'family' },
+    nephew: { string: '--Nephew -->', styleClass: 'family' },
+    niece: { string: '--Niece -->', styleClass: 'family' }
 }
 
 const backticks = "```"
