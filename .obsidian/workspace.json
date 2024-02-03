@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
+                "file": "4. World Almanac/NPCs/Adrian Martikov.md",
                 "mode": "preview",
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
+                "file": "4. World Almanac/NPCs/Adrian Martikov.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
+                "file": "4. World Almanac/NPCs/Adrian Martikov.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md"
+                "file": "4. World Almanac/NPCs/Adrian Martikov.md"
               }
             }
           },
@@ -185,10 +185,11 @@
   },
   "active": "460e326f33b6e7e9",
   "lastOpenFiles": [
+    "3. The Party/Session Logs/Session Logs.md",
+    "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
     "4. World Almanac/NPCs/Strahd Von Zarovich.md",
     "5. Mechanics/Bestiary/Undead/Strahd Zombie (COS).md",
     "3. The Party/Session Logs/Welcome to Barovia.md",
-    "3. The Party/Session Logs/Session Logs.md",
     "3. The Party/Quests/Quests.md",
     "3. The Party/Session Logs/Deal with the Devil.md",
     "3. The Party/Session Logs/Best Weapon against Vampires are Old Men.md",
@@ -210,7 +211,6 @@
     "2. Scratch Notes/Fields for NPCs.md",
     "2. Scratch Notes/Fields for Locations.md",
     "2. Scratch Notes/To-Do List.md",
-    "6. Resources/5e Modules/Curse Of Strahd/09 Chapter-7 Argynvostholt.md",
     "4. World Almanac/NPCs/token/strahd-von-zarovich.png",
     "test.js",
     "z_Scripts/Dataview/monsterHarvesterTable.js",
