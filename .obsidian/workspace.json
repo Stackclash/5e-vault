@@ -162,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 335.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,16 +186,17 @@
   },
   "active": "460e326f33b6e7e9",
   "lastOpenFiles": [
+    "4. World Almanac/NPCs/Donavich.md",
+    "4. World Almanac/NPCs/Madam Eva.md",
+    "4. World Almanac/NPCs/Ismark Kolyanovich.md",
+    "4. World Almanac/NPCs/Adrian Martikov.md",
+    "5. Mechanics/Bestiary/Humanoid/Wereraven (VRGR).md",
     "6. Resources/5e Modules/Curse Of Strahd/05 Chapter-3 The Village Of Barovia.md",
     "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
-    "4. World Almanac/NPCs/Donavich.md",
     "4. World Almanac/NPCs/Doru.md",
     "1. DM Screen/Configuration.md",
     "1. DM Screen/1. DM Screen.md",
-    "4. World Almanac/NPCs/Madam Eva.md",
-    "4. World Almanac/NPCs/Ismark Kolyanovich.md",
     "4. World Almanac/Places of Interest/Tser Pool.md",
-    "4. World Almanac/NPCs/Adrian Martikov.md",
     "3. The Party/Session Logs/Session Logs.md",
     "4. World Almanac/NPCs/Strahd Von Zarovich.md",
     "5. Mechanics/Bestiary/Undead/Strahd Zombie (COS).md",
@@ -210,7 +212,6 @@
     "5. Mechanics/Rules/Variant Rules/Downtime Activity Crafting.md",
     "5. Mechanics/Rules/Variant Rules/Downtime Activity Crafting A Magic Item.md",
     "5. Mechanics/Rules/Variant Rules/Downtime Activity Carousing (XGE).md",
-    "5. Mechanics/Rules/Variant Rules/Downtime Activity Carousing.md",
     "4. World Almanac/NPCs/token/strahd-von-zarovich.png",
     "test.js",
     "z_Scripts/Dataview/monsterHarvesterTable.js",
