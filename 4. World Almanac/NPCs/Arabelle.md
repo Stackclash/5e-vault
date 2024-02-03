@@ -3,24 +3,26 @@ obsidianUIMode: preview
 statblock: inline
 location: 
 condition: healthy
-relationships: []
+relationships:
+  - Luvash|father
 tags: 
 aliases: []
 pronounced: 
 race: "[[5. Mechanics/Races/Human.md|Human]]"
 gender: female
-age: 
+age: 7
 alignment: Lawful Neutral
-occupation: 
-groups: []
+occupation: []
+groups:
+  - Vistani
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+personality: Curious, spirited, innocent
+ideal: The world is full of wonder and adventure.
+bond: Her family and the Vistani community
+flaw: Naïve and unaware of the dangers around her
+goals: To explore and experience new things, to someday become a great storyteller like her ancestors
+likes: Stories, animals, exploring
+dislikes: Being confined or restricted, cruelty
 ---
 
 > [!infobox]

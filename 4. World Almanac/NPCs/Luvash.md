@@ -3,7 +3,8 @@ obsidianUIMode: preview
 statblock: inline
 location: 
 condition: healthy
-relationships: []
+relationships:
+  - Arabelle|daughter
 tags: 
 aliases: []
 pronounced: 
