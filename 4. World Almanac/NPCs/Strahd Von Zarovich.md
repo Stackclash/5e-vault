@@ -3,7 +3,8 @@ obsidianUIMode: preview
 statblock: inline
 location: 
 condition: healthy
-relationships: []
+relationships:
+  - Anastrasya Karelova|cousin
 tags: 
 aliases: []
 pronounced: 

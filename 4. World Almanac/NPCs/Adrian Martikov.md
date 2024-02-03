@@ -21,10 +21,10 @@ religions: []
 personality: Hardworking, practical, deeply loyal to his family and cause
 ideal: We must protect our own and fight against the darkness that encroaches.
 bond: His family's legacy and the secret mission of the Keepers of the Feather.
-flaw: 
-goals: 
-likes: 
-dislikes: 
+flaw: Tends to prioritize the greater good over individual needs, which can sometimes alienate those close to him.
+goals: To restore the Wizard of Wines to full production, to aid in the fight against Strahd.
+likes: The craft of winemaking, birds, the quiet of nature.
+dislikes: Threats to his family and winery, Strahd and his minions, failure to protect his loved ones
 ---
 
 > [!infobox]

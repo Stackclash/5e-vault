@@ -1,19 +1,20 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]"
 condition: healthy
-relationships: []
+relationships:
+  - Strahd Von Zarovich|cousin
 tags: 
-aliases: 
+aliases: []
 pronounced: 
-race: 
-gender: 
-age: 
+race: "[[5. Mechanics/Races/Human.md|Human]]"
+gender: female
+age: 28
 alignment: Neutral Evil
-occupation: 
-groups: 
-religions: 
+occupation: []
+groups: []
+religions: []
 personality: 
 ideal: 
 bond: 
@@ -179,3 +180,4 @@ TBD
 
 
 ### General Notes
+She is a [[5. Mechanics/Bestiary/Undead/Vampire|Vampire]] 
