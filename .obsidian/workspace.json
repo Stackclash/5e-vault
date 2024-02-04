@@ -23,9 +23,9 @@
             "id": "ef41359ce1b26f10",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "image",
               "state": {
-                "file": "6. Resources/Resources/The Interactive Tome of Strahd.pdf"
+                "file": "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Item_Card_-_Tome_of_Strahd.png"
               }
             }
           }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Resources/Resources/The Interactive Tome of Strahd.pdf",
+                "file": "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Item_Card_-_Tome_of_Strahd.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Resources/Resources/The Interactive Tome of Strahd.pdf",
+                "file": "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Item_Card_-_Tome_of_Strahd.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Resources/Resources/The Interactive Tome of Strahd.pdf"
+                "file": "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Item_Card_-_Tome_of_Strahd.png"
               }
             }
           },
@@ -197,11 +197,11 @@
   },
   "active": "ef41359ce1b26f10",
   "lastOpenFiles": [
+    "6. Resources/Resources/The Interactive Tome of Strahd.pdf",
     "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Map_-_Forest_Fane_Hut.PNG",
     "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Item_Card_-_Tome_of_Strahd.png",
     "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Adventure_-_The_Interactive_Tome_of_Strahd_v3_-_Color.pdf",
     "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Adventure_-_The_Interactive_Tome_of_Strahd_v2_Printer_Friendly_(updated_04_21_21).pdf",
-    "6. Resources/Resources/The Interactive Tome of Strahd.pdf",
     "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Handout_-_News_of_ravenovias_death.png",
     "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Handout_-_Epilogue_-_A_Lords_Rest_(updated_04_28_21).png",
     "6. Resources/Resources/Curse of Strahd Companion/Handouts/Wedding at Ravenloft/Wedding at Ravenloft/Wedding Invitation.png",
@@ -212,7 +212,6 @@
     "6. Resources/Resources/Curse of Strahd Companion/Handouts/Krezk Handouts/Chapter 8 - Krezk/Gilded Portrait of Lugdana.jpeg",
     "6. Resources/5e Modules/Curse Of Strahd/14 Chapter-12 The Wizard Of Wines.md",
     "1. DM Screen/Configuration.md",
-    "z_Assets/Vallaki.jpg",
     "4. World Almanac/Regions/Barovia.md",
     "4. World Almanac/Regions/Regions.md",
     "4. World Almanac/Settlements/Krezk.md",
