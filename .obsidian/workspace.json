@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. The Party/Players/Redgrave.md",
+                "file": "3. The Party/Players/Seluvis Felo'melorn.md",
                 "mode": "preview",
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/Players/Redgrave.md",
+                "file": "3. The Party/Players/Seluvis Felo'melorn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/Players/Redgrave.md",
+                "file": "3. The Party/Players/Seluvis Felo'melorn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/Players/Redgrave.md"
+                "file": "3. The Party/Players/Seluvis Felo'melorn.md"
               }
             }
           },
@@ -186,10 +186,10 @@
   },
   "active": "ec84ee9ce869ef09",
   "lastOpenFiles": [
+    "3. The Party/Players/Redgrave.md",
     "z_Scripts/Dataview/pcSessionMentions.js",
     "3. The Party/Parties/Curse of Strahd.md",
     "3. The Party/Parties/Parties.md",
-    "3. The Party/Players/Redgrave.md",
     "3. The Party/Session Logs/Best Weapon against Vampires are Old Men.md",
     "3. The Party/Session Logs/Session Logs.md",
     "3. The Party/Players/Players.md",
@@ -231,7 +231,6 @@
     "z_Templates/Functional",
     "z_Scripts/Templater/addRelationship.js",
     "z_Scripts/Templater/ad3dRelationship.js",
-    "z_Extra/ttrpg-convert/templates/background.txt",
     "Untitled.canvas"
   ]
 }

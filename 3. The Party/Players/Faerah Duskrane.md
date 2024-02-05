@@ -78,3 +78,7 @@ frame: DnDBHolly
 ## Hidden Details
 
 ## Notes
+
+```dataviewjs
+await dv.view('pcSessionMentions', {current: dv.current()})
+```
