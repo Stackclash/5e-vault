@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. The Party/Session Logs/Best Weapon against Vampires are Old Men.md",
-                "mode": "preview",
+                "file": "3. The Party/Players/Redgrave.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/Session Logs/Best Weapon against Vampires are Old Men.md",
+                "file": "3. The Party/Players/Redgrave.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/Session Logs/Best Weapon against Vampires are Old Men.md",
+                "file": "3. The Party/Players/Redgrave.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/Session Logs/Best Weapon against Vampires are Old Men.md"
+                "file": "3. The Party/Players/Redgrave.md"
               }
             }
           },
@@ -186,6 +186,7 @@
   },
   "active": "ec84ee9ce869ef09",
   "lastOpenFiles": [
+    "3. The Party/Session Logs/Best Weapon against Vampires are Old Men.md",
     "3. The Party/Session Logs/Session Logs.md",
     "3. The Party/Players/Redgrave.md",
     "3. The Party/Players/Players.md",
@@ -225,7 +226,6 @@
     "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Adventure_-_The_Interactive_Tome_of_Strahd_v2_Printer_Friendly_(updated_04_21_21).pdf",
     "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Handout_-_News_of_ravenovias_death.png",
     "6. Resources/5e Modules/Curse Of Strahd/14 Chapter-12 The Wizard Of Wines.md",
-    "4. World Almanac/Regions/Barovia.md",
     "test.js",
     "z_Scripts/Dataview/monsterHarvesterTable.js",
     "z_Templates/Functional",

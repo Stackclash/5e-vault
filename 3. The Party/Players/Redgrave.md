@@ -84,7 +84,7 @@ frame: DnDBGeorge
 const logs = dv.pages('"3. The Party/Session Logs"').filter(p => p.file.outlinks.includes(dv.current().file.link))
 
 const mentions = []
-const logDetails = logs.map(l => {name: l.file.name, worldStartDate: l.['fc-date'], worldEndDate: l.['fc-end'], date: l.date})
+const logDetails = logs.map(l => ({name: l.file.name, worldStartDate: l['fc-date'], worldEndDate: l['fc-end'], date: l.date}))
 
 await Promise.all(logs.map(l => dv.io.load(l.file.path)))
   .then(logContents => {
@@ -97,7 +97,7 @@ await Promise.all(logs.map(l => dv.io.load(l.file.path)))
         }
       })
 
-    mentions.push({...logDetails[i], mentions: logMentions})
+      mentions.push({...logDetails[i], mentions: logMentions})
 
     })
     return
