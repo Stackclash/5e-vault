@@ -1,7 +1,7 @@
 const logs = dv.pages('"3. The Party/Session Logs"').filter(p => p.file.outlinks.includes(input.current.file.link))
 
 const mentions = []
-const logDetails = logs.map(l => ({name: l.file.name, worldStartDate: l['fc-date'], worldEndDate: l['fc-end'], date: l.date}))
+const logDetails = logs.map(l => ({name: l.file.name, path: l.file.path, worldStartDate: l['fc-date'], worldEndDate: l['fc-end'], date: l.date}))
 
 if (logDetails.length > 0) {
     dv.header(2, "Session Mentions")
@@ -24,7 +24,7 @@ await Promise.all(logs.map(l => dv.io.load(l.file.path)))
   })
   .then(() => {
     mentions.forEach(m => {
-      dv.header(3, `${m.name} - ${m.worldStartDate}`)
+      dv.header(3, dv.fileLink(m.path, false,`${m.name} - ${m.worldStartDate}`))
       dv.list(m.mentions)
     })
   })
