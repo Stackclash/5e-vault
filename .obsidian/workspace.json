@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DM Screen/Configuration.md",
+                "file": "4. World Almanac/NPCs/Adrian Martikov.md",
                 "mode": "preview",
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. DM Screen/Configuration.md",
+                "file": "4. World Almanac/NPCs/Adrian Martikov.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. DM Screen/Configuration.md",
+                "file": "4. World Almanac/NPCs/Adrian Martikov.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DM Screen/Configuration.md"
+                "file": "4. World Almanac/NPCs/Adrian Martikov.md"
               }
             }
           },
@@ -186,6 +186,18 @@
   },
   "active": "ec84ee9ce869ef09",
   "lastOpenFiles": [
+    "4. World Almanac/NPCs/Arabelle.md",
+    "4. World Almanac/NPCs/Anastrasya Karelova.md",
+    "4. World Almanac/NPCs/Adrian Martikov.md",
+    "5. Mechanics/Races/Races.md",
+    "5. Mechanics/Rewards/Rewards.md",
+    "5. Mechanics/Rewards/Boon Of Truesight.md",
+    "5. Mechanics/Rewards/Blessing Of Weapon Enhancement.md",
+    "5. Mechanics/Rewards/Blessing Of Valhalla.md",
+    "5. Mechanics/Rewards/Blessing Of Protection.md",
+    "5. Mechanics/Rewards/Blessing Of Magic Resistance.md",
+    "5. Mechanics/Rewards/Blessing Of Health.md",
+    "1. DM Screen/Configuration.md",
     "2. Scratch Notes/To-Do List.md",
     "6. Resources/5e Modules/Curse Of Strahd/17 Chapter-15 Werewolf Den.md",
     "6. Resources/5e Modules/Curse Of Strahd/16 Chapter-14 Yester Hill.md",
@@ -210,22 +222,10 @@
     "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Adventure_-_The_Interactive_Tome_of_Strahd_v2_Printer_Friendly_(updated_04_21_21).pdf",
     "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Handout_-_News_of_ravenovias_death.png",
     "6. Resources/5e Modules/Curse Of Strahd/14 Chapter-12 The Wizard Of Wines.md",
-    "1. DM Screen/Configuration.md",
     "4. World Almanac/Regions/Barovia.md",
     "4. World Almanac/Regions/Regions.md",
     "4. World Almanac/Settlements/Krezk.md",
     "4. World Almanac/NPCs/Brom Martikov.md",
-    "4. World Almanac/NPCs/Bray Martikov.md",
-    "4. World Almanac/NPCs/Bluto Krogarov.md",
-    "4. World Almanac/NPCs/Baron Vargas Vallakovich.md",
-    "4. World Almanac/NPCs/Beucephalus.md",
-    "Untitled.md",
-    "4. World Almanac/NPCs/Baba Lysaga.md",
-    "4. World Almanac/NPCs/Baba Lysagas Creeping Hut.md",
-    "4. World Almanac/NPCs/Madam Eva.md",
-    "4. World Almanac/NPCs/Arrigal.md",
-    "4. World Almanac/NPCs/Arabelle.md",
-    "4. World Almanac/Places of Interest/Lake Zarovich.md",
     "test.js",
     "z_Scripts/Dataview/monsterHarvesterTable.js",
     "z_Templates/Functional",
