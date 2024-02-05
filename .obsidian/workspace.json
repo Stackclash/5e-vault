@@ -23,9 +23,11 @@
             "id": "ef41359ce1b26f10",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Item_Card_-_Tome_of_Strahd.png"
+                "file": "6. Resources/5e Modules/Curse Of Strahd/17 Chapter-15 Werewolf Den.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -99,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Item_Card_-_Tome_of_Strahd.png",
+                "file": "6. Resources/5e Modules/Curse Of Strahd/17 Chapter-15 Werewolf Den.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Item_Card_-_Tome_of_Strahd.png",
+                "file": "6. Resources/5e Modules/Curse Of Strahd/17 Chapter-15 Werewolf Den.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Item_Card_-_Tome_of_Strahd.png"
+                "file": "6. Resources/5e Modules/Curse Of Strahd/17 Chapter-15 Werewolf Den.md"
               }
             }
           },
@@ -197,19 +199,28 @@
   },
   "active": "ef41359ce1b26f10",
   "lastOpenFiles": [
+    "6. Resources/5e Modules/Curse Of Strahd/16 Chapter-14 Yester Hill.md",
+    "6. Resources/5e Modules/Curse Of Strahd/17 Chapter-15 Werewolf Den.md",
+    "6. Resources/5e Modules/Curse Of Strahd/18 Epilogue.md",
+    "6. Resources/5e Modules/Curse Of Strahd/21 Appendix C Treasures.md",
+    "6. Resources/5e Modules/Curse Of Strahd/19 Appendix A Character Options.md",
+    "6. Resources/5e Modules/Curse Of Strahd/20 Appendix B Death House.md",
+    "6. Resources/5e Modules/Curse Of Strahd/25 Poster Map.md",
+    "6. Resources/5e Modules/Curse Of Strahd/24 Appendix F Handouts.md",
     "6. Resources/Resources/The Interactive Tome of Strahd.pdf",
+    "6. Resources/Resources/A Guide to Curse of Strahd.pdf",
     "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Map_-_Forest_Fane_Hut.PNG",
     "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Item_Card_-_Tome_of_Strahd.png",
+    "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Sanctum.png",
+    "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Overlook.png",
+    "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Order of the Guardians Monastery - Full Map (Player).png",
+    "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Order of the Guardians Monastery - Full Map (DM).png",
+    "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Leo_s_House.png",
+    "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Homes.png",
+    "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Exterior.png",
     "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Adventure_-_The_Interactive_Tome_of_Strahd_v3_-_Color.pdf",
     "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Adventure_-_The_Interactive_Tome_of_Strahd_v2_Printer_Friendly_(updated_04_21_21).pdf",
     "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Handout_-_News_of_ravenovias_death.png",
-    "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Handout_-_Epilogue_-_A_Lords_Rest_(updated_04_28_21).png",
-    "6. Resources/Resources/Curse of Strahd Companion/Handouts/Wedding at Ravenloft/Wedding at Ravenloft/Wedding Invitation.png",
-    "6. Resources/Resources/Curse of Strahd Companion/Handouts/Wedding at Ravenloft/Wedding at Ravenloft/Wedding Cereomony Seating Chart.png",
-    "6. Resources/Resources/Curse of Strahd Companion/Handouts/Krezk Handouts/Chapter 8 - Krezk/Wedding Invitation.png",
-    "6. Resources/Resources/Curse of Strahd Companion/Handouts/Krezk Handouts/Chapter 8 - Krezk/Stained Glass of Saint Markova.jpeg",
-    "6. Resources/Resources/Curse of Strahd Companion/Handouts/Krezk Handouts/Chapter 8 - Krezk/Gilded Portrait of the Abbot.jpeg",
-    "6. Resources/Resources/Curse of Strahd Companion/Handouts/Krezk Handouts/Chapter 8 - Krezk/Gilded Portrait of Lugdana.jpeg",
     "6. Resources/5e Modules/Curse Of Strahd/14 Chapter-12 The Wizard Of Wines.md",
     "1. DM Screen/Configuration.md",
     "4. World Almanac/Regions/Barovia.md",
@@ -228,20 +239,12 @@
     "4. World Almanac/NPCs/Arabelle.md",
     "4. World Almanac/Places of Interest/Lake Zarovich.md",
     "4. World Almanac/NPCs/Luvash.md",
-    "4. World Almanac/NPCs/Anastrasya Karelova.md",
-    "4. World Almanac/NPCs/Strahd Von Zarovich.md",
-    "4. World Almanac/NPCs/Adrian Martikov.md",
-    "4. World Almanac/NPCs/Donavich.md",
-    "4. World Almanac/NPCs/Ismark Kolyanovich.md",
-    "5. Mechanics/Bestiary/Humanoid/Wereraven (VRGR).md",
-    "6. Resources/5e Modules/Curse Of Strahd/05 Chapter-3 The Village Of Barovia.md",
     "test.js",
     "z_Scripts/Dataview/monsterHarvesterTable.js",
     "z_Templates/Functional",
     "z_Scripts/Templater/addRelationship.js",
     "z_Scripts/Templater/ad3dRelationship.js",
     "z_Extra/ttrpg-convert/templates/background.txt",
-    "compendium/rules/variant-rules",
     "Untitled.canvas"
   ]
 }
