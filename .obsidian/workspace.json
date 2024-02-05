@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/NPCs/Adrian Martikov.md",
+                "file": "3. The Party/Session Logs/Best Weapon against Vampires are Old Men.md",
                 "mode": "preview",
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/NPCs/Adrian Martikov.md",
+                "file": "3. The Party/Session Logs/Best Weapon against Vampires are Old Men.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/NPCs/Adrian Martikov.md",
+                "file": "3. The Party/Session Logs/Best Weapon against Vampires are Old Men.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/NPCs/Adrian Martikov.md"
+                "file": "3. The Party/Session Logs/Best Weapon against Vampires are Old Men.md"
               }
             }
           },
@@ -186,9 +186,12 @@
   },
   "active": "ec84ee9ce869ef09",
   "lastOpenFiles": [
+    "3. The Party/Session Logs/Session Logs.md",
+    "3. The Party/Players/Redgrave.md",
+    "3. The Party/Players/Players.md",
+    "4. World Almanac/NPCs/Adrian Martikov.md",
     "4. World Almanac/NPCs/Arabelle.md",
     "4. World Almanac/NPCs/Anastrasya Karelova.md",
-    "4. World Almanac/NPCs/Adrian Martikov.md",
     "5. Mechanics/Races/Races.md",
     "5. Mechanics/Rewards/Rewards.md",
     "5. Mechanics/Rewards/Boon Of Truesight.md",
@@ -223,9 +226,6 @@
     "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Handout_-_News_of_ravenovias_death.png",
     "6. Resources/5e Modules/Curse Of Strahd/14 Chapter-12 The Wizard Of Wines.md",
     "4. World Almanac/Regions/Barovia.md",
-    "4. World Almanac/Regions/Regions.md",
-    "4. World Almanac/Settlements/Krezk.md",
-    "4. World Almanac/NPCs/Brom Martikov.md",
     "test.js",
     "z_Scripts/Dataview/monsterHarvesterTable.js",
     "z_Templates/Functional",
