@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c28029e4c5fc5297",
+        "id": "b73c2d35c790cfdd",
         "type": "tabs",
         "children": [
           {
-            "id": "460e326f33b6e7e9",
+            "id": "61e0f2d40cce037e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. The Party/Players/Redgrave.md",
-                "mode": "source",
+                "file": "3. The Party/Session Logs/Best Weapon against Vampires are Old Men.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/Players/Redgrave.md",
+                "file": "3. The Party/Session Logs/Best Weapon against Vampires are Old Men.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/Players/Redgrave.md",
+                "file": "3. The Party/Session Logs/Best Weapon against Vampires are Old Men.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/Players/Redgrave.md"
+                "file": "3. The Party/Session Logs/Best Weapon against Vampires are Old Men.md"
               }
             }
           },
@@ -184,8 +184,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "460e326f33b6e7e9",
+  "active": "61e0f2d40cce037e",
   "lastOpenFiles": [
+    "3. The Party/Session Logs/Session Logs.md",
+    "1. DM Screen/Configuration.md",
+    "3. The Party/Players/Redgrave.md",
     "z_Scripts/Dataview/pcSessionMentions.js",
     "4. World Almanac/Places of Interest/Tser Pool.md",
     "4. World Almanac/Places of Interest/Lake Zarovich.md",
@@ -210,8 +213,6 @@
     "6. Resources/Books/Hamunds Herbalism Handbook/4 Chapter-3 The Herb Compendium.md",
     "6. Resources/Books/Hamunds Herbalism Handbook/5 Chapter-4 Miscellaneous.md",
     "5. Mechanics/Items/Golden Pine Hhbh.md",
-    "6. Resources/Books/Hamunds Herbalism Handbook/3 Chapter-2 Rules And Mechanics.md",
-    "6. Resources/Books/Hamunds Herbalism Handbook/2 Chapter-1 Introduction.md",
     "4. World Almanac/NPCs/token/strahd-von-zarovich.png",
     "test.js",
     "z_Scripts/Dataview/monsterHarvesterTable.js",
@@ -228,7 +229,6 @@
     "compendium/rules/variant-rules",
     "compendium/rules",
     "compendium/bestiary/legendary-group",
-    "compendium/backgrounds",
     "compendium/bestiary/undead/token/poltergeist.png",
     "compendium/bestiary/construct/token/rug-of-smothering.png",
     "compendium/bestiary/npc/img/arrigal.webp",
