@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. The Party/Players/Faerah Duskrane.md",
-                "mode": "source",
+                "file": "4. World Almanac/NPCs/Bray Martikov.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/Players/Faerah Duskrane.md",
+                "file": "4. World Almanac/NPCs/Bray Martikov.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/Players/Faerah Duskrane.md",
+                "file": "4. World Almanac/NPCs/Bray Martikov.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/Players/Faerah Duskrane.md"
+                "file": "4. World Almanac/NPCs/Bray Martikov.md"
               }
             }
           },
@@ -186,12 +186,13 @@
   },
   "active": "ec84ee9ce869ef09",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "3. The Party/Players/Faerah Duskrane.md",
+    "4. World Almanac/NPCs/Brom Martikov.md",
     "3. The Party/Players/Players.md",
-    "3. The Party/Players/Seluvis Felo'melorn.md",
-    "3. The Party/Players/Redgrave.md",
     "3. The Party/Players/Marin.md",
+    "3. The Party/Players/Redgrave.md",
+    "3. The Party/Players/Faerah Duskrane.md",
+    "conflict-files-obsidian-git.md",
+    "3. The Party/Players/Seluvis Felo'melorn.md",
     "3. The Party/Players/Yevelda Ovak.md",
     "z_Scripts/Dataview/pcSessionMentions.js",
     "3. The Party/Parties/Curse of Strahd.md",
@@ -212,7 +213,6 @@
     "1. DM Screen/Configuration.md",
     "2. Scratch Notes/To-Do List.md",
     "6. Resources/5e Modules/Curse Of Strahd/17 Chapter-15 Werewolf Den.md",
-    "6. Resources/5e Modules/Curse Of Strahd/16 Chapter-14 Yester Hill.md",
     "6. Resources/Resources/The Interactive Tome of Strahd.pdf",
     "6. Resources/Resources/A Guide to Curse of Strahd.pdf",
     "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Map_-_Forest_Fane_Hut.PNG",
