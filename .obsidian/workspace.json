@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b73c2d35c790cfdd",
+        "id": "8e3a1095e0577f68",
         "type": "tabs",
         "children": [
           {
-            "id": "61e0f2d40cce037e",
+            "id": "ec84ee9ce869ef09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. The Party/Session Logs/Best Weapon against Vampires are Old Men.md",
+                "file": "3. The Party/Players/Faerah Duskrane.md",
                 "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "82945b6ae0d4094c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/Session Logs/Best Weapon against Vampires are Old Men.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/Session Logs/Best Weapon against Vampires are Old Men.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,24 +142,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/Session Logs/Best Weapon against Vampires are Old Men.md"
+                "file": "conflict-files-obsidian-git.md"
               }
-            }
-          },
-          {
-            "id": "a147abca95b10d1b",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
-            }
-          },
-          {
-            "id": "d950a8794ce726e6",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {}
             }
           },
           {
@@ -156,9 +153,25 @@
               "type": "rpg-manager-options",
               "state": {}
             }
+          },
+          {
+            "id": "74e54569932a9896",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "47217e426a1e3c1f",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -175,63 +188,63 @@
       "obsidian-custom-frames:Open DnDBShi": false,
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "templater-obsidian:Templater": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-5e-statblocks:Open Creature Pane": false,
       "dbfolder:Create a new database table": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "graph:Open graph view": false
+      "graph:Open graph view": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "61e0f2d40cce037e",
+  "active": "82945b6ae0d4094c",
   "lastOpenFiles": [
-    "3. The Party/Session Logs/Session Logs.md",
-    "1. DM Screen/Configuration.md",
+    "conflict-files-obsidian-git.md",
+    "3. The Party/Players/Faerah Duskrane.md",
+    "3. The Party/Players/Players.md",
+    "3. The Party/Players/Seluvis Felo'melorn.md",
     "3. The Party/Players/Redgrave.md",
+    "3. The Party/Players/Marin.md",
+    "3. The Party/Players/Yevelda Ovak.md",
     "z_Scripts/Dataview/pcSessionMentions.js",
-    "4. World Almanac/Places of Interest/Tser Pool.md",
-    "4. World Almanac/Places of Interest/Lake Zarovich.md",
-    "3. The Party/Session Logs/Knowing the Road.md",
-    "Untitled.md",
-    "Parriwimple (COS).md",
-    "5. Mechanics/Rules/Variant Rules/Injuries.md",
-    "5. Mechanics/Rules/Variant Rules/Flanking.md",
-    "5. Mechanics/Rules/Variant Rules/Downtime Activity Crafting.md",
-    "5. Mechanics/Rules/Variant Rules/Downtime Activity Crafting A Magic Item.md",
-    "5. Mechanics/Rules/Variant Rules/Downtime Activity Carousing (XGE).md",
-    "5. Mechanics/Rules/Variant Rules/Downtime Activity Carousing.md",
-    "5. Mechanics/Rules/Variant Rules/Diagonals.md",
-    "5. Mechanics/Rules/Variant Rules/Action Options.md",
-    "5. Mechanics/Rules/Variant Rules/Alien Technology.md",
-    "2. Scratch Notes/House Rule Ideas.md",
-    "2. Scratch Notes/D&D Ideas.md",
-    "2. Scratch Notes/Fields for NPCs.md",
-    "2. Scratch Notes/Fields for Locations.md",
+    "3. The Party/Parties/Curse of Strahd.md",
+    "3. The Party/Parties/Parties.md",
+    "3. The Party/Session Logs/Best Weapon against Vampires are Old Men.md",
+    "3. The Party/Session Logs/Session Logs.md",
+    "4. World Almanac/NPCs/Adrian Martikov.md",
+    "4. World Almanac/NPCs/Arabelle.md",
+    "4. World Almanac/NPCs/Anastrasya Karelova.md",
+    "5. Mechanics/Races/Races.md",
+    "5. Mechanics/Rewards/Rewards.md",
+    "5. Mechanics/Rewards/Boon Of Truesight.md",
+    "5. Mechanics/Rewards/Blessing Of Weapon Enhancement.md",
+    "5. Mechanics/Rewards/Blessing Of Valhalla.md",
+    "5. Mechanics/Rewards/Blessing Of Protection.md",
+    "5. Mechanics/Rewards/Blessing Of Magic Resistance.md",
+    "5. Mechanics/Rewards/Blessing Of Health.md",
+    "1. DM Screen/Configuration.md",
     "2. Scratch Notes/To-Do List.md",
-    "6. Resources/5e Modules/Curse Of Strahd/09 Chapter-7 Argynvostholt.md",
-    "6. Resources/Books/Hamunds Herbalism Handbook/4 Chapter-3 The Herb Compendium.md",
-    "6. Resources/Books/Hamunds Herbalism Handbook/5 Chapter-4 Miscellaneous.md",
-    "5. Mechanics/Items/Golden Pine Hhbh.md",
-    "4. World Almanac/NPCs/token/strahd-von-zarovich.png",
+    "6. Resources/5e Modules/Curse Of Strahd/17 Chapter-15 Werewolf Den.md",
+    "6. Resources/5e Modules/Curse Of Strahd/16 Chapter-14 Yester Hill.md",
+    "6. Resources/Resources/The Interactive Tome of Strahd.pdf",
+    "6. Resources/Resources/A Guide to Curse of Strahd.pdf",
+    "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Map_-_Forest_Fane_Hut.PNG",
+    "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Item_Card_-_Tome_of_Strahd.png",
+    "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Sanctum.png",
+    "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Overlook.png",
+    "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Order of the Guardians Monastery - Full Map (Player).png",
+    "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Order of the Guardians Monastery - Full Map (DM).png",
+    "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Leo_s_House.png",
+    "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Homes.png",
+    "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Exterior.png",
+    "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Adventure_-_The_Interactive_Tome_of_Strahd_v3_-_Color.pdf",
+    "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Adventure_-_The_Interactive_Tome_of_Strahd_v2_Printer_Friendly_(updated_04_21_21).pdf",
+    "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Handout_-_News_of_ravenovias_death.png",
     "test.js",
     "z_Scripts/Dataview/monsterHarvesterTable.js",
-    "6. Resources/5e Modules/Curse Of Strahd/img/024-005.jpg",
-    "6. Resources/5e Modules/Curse Of Strahd/img/008-cos201.jpg",
-    "z_Assets/Barovia_Banner.webp",
-    "4. World Almanac/NPCs/img/153-636988936829621698.webp",
-    "4. World Almanac/NPCs/img/bray-martikov.webp",
-    "4. World Almanac/NPCs/img/davian-martikov.webp",
     "z_Templates/Functional",
     "z_Scripts/Templater/addRelationship.js",
     "z_Scripts/Templater/ad3dRelationship.js",
-    "z_Extra/ttrpg-convert/templates/background.txt",
-    "compendium/rules/variant-rules",
-    "compendium/rules",
-    "compendium/bestiary/legendary-group",
-    "compendium/bestiary/undead/token/poltergeist.png",
-    "compendium/bestiary/construct/token/rug-of-smothering.png",
-    "compendium/bestiary/npc/img/arrigal.webp",
     "Untitled.canvas"
   ]
 }
