@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: "[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]"
 condition: healthy
 relationships:
   - Urwin Martikov|father
@@ -11,10 +11,11 @@ tags:
 aliases: 
 pronounced: 
 race: 
-gender: 
-age: 
+gender: male
+age: 13
 alignment: Lawful Good
-occupation: 
+occupation:
+  - Bar Assistant
 groups: 
 religions: 
 personality: 
