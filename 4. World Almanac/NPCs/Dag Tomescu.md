@@ -1,28 +1,28 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: "[[4. World Almanac/Places of Interest/The Wizard of Wines.md|The Wizard of Wines]]"
 condition: healthy
 image: 
 relationships:
   - Stefania Martikov|wife
 tags: 
 aliases: []
-pronounced: 
-race: 
-gender: 
-age: 
-alignment: 
-occupation: [] 
+pronounced: DAG TOE-mes-cu
+race: "[[5. Mechanics/Races/Human.md|Human]]"
+gender: male
+age: 42
+alignment: Neutral Good
+occupation: []
 groups: []
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+personality: Down-to-earth, hardworking, community-minded
+ideal: Honest work and a strong community are the keys to surviving these dark times
+bond: His family and fellow villagers, the land he works
+flaw: Perhaps overly cautious or resistant to change due to the dangers of Barovia
+goals: To provide for his family, to maintain stability and safety in his community
+likes: The comfort of routine, the success of his crops or trade, a good tavern story
+dislikes: Threats to his village, the oppressive rule of Strahd, anything that disrupts peace and safety
 ---
 
 > [!infobox]
