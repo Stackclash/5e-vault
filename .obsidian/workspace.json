@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ec28f0c1c89f3e37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. DM Screen/Configuration.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. DM Screen/Configuration.md",
+                "file": "4. World Almanac/NPCs/Danika Dorakova.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. DM Screen/Configuration.md",
+                "file": "4. World Almanac/NPCs/Danika Dorakova.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DM Screen/Configuration.md"
+                "file": "4. World Almanac/NPCs/Danika Dorakova.md"
               }
             }
           },
@@ -143,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -170,11 +157,17 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "3cde19f0863edea8",
+  "active": "a88a1818b2c15bdd",
   "lastOpenFiles": [
-    "1. DM Screen/Configuration.md",
+    "z_Templates/Templater",
+    "z_Templates/Untitled.md",
     "4. World Almanac/NPCs/Danika Dorakova.md",
+    "4. World Almanac/NPCs/Gadof Blinsky.md",
+    "4. World Almanac/NPCs/Ezmerelda Davenir.md",
+    "4. World Almanac/NPCs/Donavich.md",
+    "4. World Almanac/NPCs/Davian Martikov.md",
     "4. World Almanac/NPCs/Dag Tomescu.md",
+    "1. DM Screen/Configuration.md",
     "4. World Almanac/NPCs/Cyrus Belview.md",
     "4. World Almanac/NPCs/Clovin Belview.md",
     "4. World Almanac/Places of Interest/Abbey of Saint Markovia.md",
@@ -193,12 +186,6 @@
     "3. The Party/Parties/Curse of Strahd.md",
     "3. The Party/Parties/Parties.md",
     "3. The Party/Session Logs/Best Weapon against Vampires are Old Men.md",
-    "3. The Party/Session Logs/Session Logs.md",
-    "4. World Almanac/NPCs/Adrian Martikov.md",
-    "4. World Almanac/NPCs/Arabelle.md",
-    "4. World Almanac/NPCs/Anastrasya Karelova.md",
-    "5. Mechanics/Races/Races.md",
-    "5. Mechanics/Rewards/Rewards.md",
     "6. Resources/Resources/The Interactive Tome of Strahd.pdf",
     "6. Resources/Resources/A Guide to Curse of Strahd.pdf",
     "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Map_-_Forest_Fane_Hut.PNG",
@@ -215,7 +202,7 @@
     "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Handout_-_News_of_ravenovias_death.png",
     "test.js",
     "z_Scripts/Dataview/monsterHarvesterTable.js",
-    "z_Templates/Functional",
+    "z_Templates/Templater/Functional",
     "z_Scripts/Templater/addRelationship.js",
     "z_Scripts/Templater/ad3dRelationship.js",
     "Untitled.canvas"
