@@ -9,7 +9,7 @@ relationships:
   - Urwin Martikov|father
 tags: 
 aliases: []
-pronounced: 
+pronounced: BRAY MAR-ti-kov
 race: 
 gender: male
 age: 15
