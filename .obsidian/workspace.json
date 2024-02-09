@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ec28f0c1c89f3e37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. DM Screen/Configuration.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/NPCs/Danika Dorakova.md",
+                "file": "1. DM Screen/Configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/NPCs/Danika Dorakova.md",
+                "file": "1. DM Screen/Configuration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/NPCs/Danika Dorakova.md"
+                "file": "1. DM Screen/Configuration.md"
               }
             }
           },
@@ -184,8 +197,9 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "ec84ee9ce869ef09",
+  "active": "ec28f0c1c89f3e37",
   "lastOpenFiles": [
+    "4. World Almanac/NPCs/Danika Dorakova.md",
     "4. World Almanac/NPCs/Dag Tomescu.md",
     "4. World Almanac/NPCs/Cyrus Belview.md",
     "4. World Almanac/NPCs/Clovin Belview.md",
@@ -212,7 +226,6 @@
     "5. Mechanics/Races/Races.md",
     "5. Mechanics/Rewards/Rewards.md",
     "5. Mechanics/Rewards/Boon Of Truesight.md",
-    "5. Mechanics/Rewards/Blessing Of Weapon Enhancement.md",
     "6. Resources/Resources/The Interactive Tome of Strahd.pdf",
     "6. Resources/Resources/A Guide to Curse of Strahd.pdf",
     "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Map_-_Forest_Fane_Hut.PNG",
