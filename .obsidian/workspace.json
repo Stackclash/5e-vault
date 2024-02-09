@@ -125,18 +125,6 @@
             }
           },
           {
-            "id": "cf275da61aa5a892",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              }
-            }
-          },
-          {
             "id": "3cde19f0863edea8",
             "type": "leaf",
             "state": {
@@ -144,22 +132,6 @@
               "state": {
                 "file": "1. DM Screen/Configuration.md"
               }
-            }
-          },
-          {
-            "id": "300c2cb0e63360cb",
-            "type": "leaf",
-            "state": {
-              "type": "rpg-manager-options",
-              "state": {}
-            }
-          },
-          {
-            "id": "74e54569932a9896",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
             }
           },
           {
@@ -171,12 +143,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 335.5,
-    "collapsed": true
+    "width": 335.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,11 +165,14 @@
       "graph:Open graph view": false,
       "templater-obsidian:Templater": false,
       "obsidian-5e-statblocks:Open Creature Pane": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "ec28f0c1c89f3e37",
+  "active": "3cde19f0863edea8",
   "lastOpenFiles": [
+    "1. DM Screen/Configuration.md",
     "4. World Almanac/NPCs/Danika Dorakova.md",
     "4. World Almanac/NPCs/Dag Tomescu.md",
     "4. World Almanac/NPCs/Cyrus Belview.md",
@@ -225,7 +199,6 @@
     "4. World Almanac/NPCs/Anastrasya Karelova.md",
     "5. Mechanics/Races/Races.md",
     "5. Mechanics/Rewards/Rewards.md",
-    "5. Mechanics/Rewards/Boon Of Truesight.md",
     "6. Resources/Resources/The Interactive Tome of Strahd.pdf",
     "6. Resources/Resources/A Guide to Curse of Strahd.pdf",
     "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Map_-_Forest_Fane_Hut.PNG",
