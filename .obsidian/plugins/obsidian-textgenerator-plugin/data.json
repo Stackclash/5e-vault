@@ -14,7 +14,7 @@
   "freeCursorOnStreaming": false,
   "allowJavascriptRun": false,
   "experiment": false,
-  "promptsPath": "textgenerator/prompts",
+  "promptsPath": "z_Templates/Text Generator",
   "prefix": "\n\n",
   "tgSelectionLimiter": "^\\*\\*\\*",
   "stream": true,

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/NPCs/Danika Dorakova.md",
-                "mode": "preview",
+                "file": "z_Templates/Text Generator/default/getIdeas.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/NPCs/Danika Dorakova.md",
+                "file": "z_Templates/Text Generator/default/getIdeas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/NPCs/Danika Dorakova.md",
+                "file": "z_Templates/Text Generator/default/getIdeas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/NPCs/Danika Dorakova.md"
+                "file": "z_Templates/Text Generator/default/getIdeas.md"
               }
             }
           },
@@ -157,35 +157,42 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "a88a1818b2c15bdd",
+  "active": "ec84ee9ce869ef09",
   "lastOpenFiles": [
-    "z_Templates/Templater",
-    "z_Templates/Untitled.md",
+    "z_Templates/Text Generator/default/getEmailNeg.md",
     "4. World Almanac/NPCs/Danika Dorakova.md",
-    "4. World Almanac/NPCs/Gadof Blinsky.md",
-    "4. World Almanac/NPCs/Ezmerelda Davenir.md",
-    "4. World Almanac/NPCs/Donavich.md",
-    "4. World Almanac/NPCs/Davian Martikov.md",
-    "4. World Almanac/NPCs/Dag Tomescu.md",
-    "1. DM Screen/Configuration.md",
-    "4. World Almanac/NPCs/Cyrus Belview.md",
-    "4. World Almanac/NPCs/Clovin Belview.md",
-    "4. World Almanac/Places of Interest/Abbey of Saint Markovia.md",
-    "4. World Almanac/Places of Interest/Places of Interest.md",
-    "4. World Almanac/NPCs/Brom Martikov.md",
-    "4. World Almanac/NPCs/Bray Martikov.md",
-    "4. World Almanac/NPCs/Bluto Krogarov.md",
-    "3. The Party/Players/Players.md",
-    "3. The Party/Players/Marin.md",
-    "3. The Party/Players/Redgrave.md",
-    "3. The Party/Players/Faerah Duskrane.md",
-    "conflict-files-obsidian-git.md",
-    "3. The Party/Players/Seluvis Felo'melorn.md",
-    "3. The Party/Players/Yevelda Ovak.md",
+    "z_Templates/Text Generator/default/summarizeLarge.md",
+    "z_Templates/Text Generator/default/summarize.md",
+    "z_Templates/Text Generator/default/simplify.md",
+    "z_Templates/Text Generator/default/rewrite.md",
+    "z_Templates/Text Generator/default/getTitles.md",
+    "z_Templates/Text Generator/default/getTags.md",
+    "z_Templates/Text Generator/default/getParagraph.md",
+    "z_Templates/Text Generator/default/getOutline.md",
+    "z_Templates/Text Generator/default/getIdeas.md",
+    "z_Templates/Text Generator/default/getEmailPos.md",
+    "z_Templates/Text Generator/default",
+    "z_Templates/Text Generator/trash/default/summarizeLarge.md",
+    "z_Templates/Text Generator/trash/default/summarize.md",
+    "z_Templates/Text Generator/trash/default/simplify.md",
+    "z_Templates/Text Generator/trash/default/rewrite.md",
+    "z_Templates/Text Generator/trash/default/getTitles.md",
+    "z_Templates/Text Generator/trash/default/getTags.md",
+    "z_Templates/Text Generator/trash/default/getParagraph.md",
+    "z_Templates/Text Generator/trash/default/getOutline.md",
+    "z_Templates/Text Generator/trash/default/getIdeas.md",
+    "z_Templates/Text Generator/trash/default/getEmailPos.md",
+    "z_Templates/Text Generator/trash/default/getEmailNeg.md",
+    "z_Templates/Text Generator/trash/default",
+    "z_Templates/Text Generator/dalle/getPhoto.md",
+    "z_Templates/Text Generator/dalle/qua15mm.md",
+    "z_Templates/Text Generator/dalle/modPhotorealistic.md",
+    "z_Templates/Text Generator/dalle",
+    "z_Templates/Text Generator/trash/huggingface",
+    "z_Templates/Text Generator/trash",
+    "z_Templates/Text Generator",
+    "z_Templates/Templater",
     "z_Scripts/Dataview/pcSessionMentions.js",
-    "3. The Party/Parties/Curse of Strahd.md",
-    "3. The Party/Parties/Parties.md",
-    "3. The Party/Session Logs/Best Weapon against Vampires are Old Men.md",
     "6. Resources/Resources/The Interactive Tome of Strahd.pdf",
     "6. Resources/Resources/A Guide to Curse of Strahd.pdf",
     "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Map_-_Forest_Fane_Hut.PNG",
@@ -197,14 +204,7 @@
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Leo_s_House.png",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Homes.png",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Exterior.png",
-    "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Adventure_-_The_Interactive_Tome_of_Strahd_v3_-_Color.pdf",
-    "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Adventure_-_The_Interactive_Tome_of_Strahd_v2_Printer_Friendly_(updated_04_21_21).pdf",
     "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Handout_-_News_of_ravenovias_death.png",
-    "test.js",
-    "z_Scripts/Dataview/monsterHarvesterTable.js",
-    "z_Templates/Templater/Functional",
-    "z_Scripts/Templater/addRelationship.js",
-    "z_Scripts/Templater/ad3dRelationship.js",
     "Untitled.canvas"
   ]
 }
