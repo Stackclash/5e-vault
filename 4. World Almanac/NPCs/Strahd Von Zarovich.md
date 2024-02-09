@@ -12,7 +12,7 @@ race:
 gender: 
 age: 
 alignment: Lawful Evil
-occupation: 
+occupation: [] 
 groups: []
 religions: []
 personality: 

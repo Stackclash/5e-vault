@@ -11,7 +11,7 @@ race:
 gender: 
 age: 
 alignment: Chaotic Neutral
-occupation: 
+occupation: [] 
 groups: []
 religions: []
 personality: 

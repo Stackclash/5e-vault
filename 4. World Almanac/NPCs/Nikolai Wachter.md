@@ -12,7 +12,7 @@ race:
 gender: male
 age: 
 alignment: Lawful Neutral
-occupation: 
+occupation: [] 
 groups: []
 religions: []
 personality: 

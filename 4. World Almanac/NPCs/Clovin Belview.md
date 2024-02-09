@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: "[[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of Saint Markovia]]"
 condition: healthy
 relationships: []
 tags: 

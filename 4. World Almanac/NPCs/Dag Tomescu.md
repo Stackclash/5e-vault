@@ -13,7 +13,7 @@ race:
 gender: 
 age: 
 alignment: 
-occupation: 
+occupation: [] 
 groups: []
 religions: []
 personality: 

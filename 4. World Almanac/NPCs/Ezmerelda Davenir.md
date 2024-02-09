@@ -11,7 +11,7 @@ race:
 gender: 
 age: 
 alignment: Chaotic Good
-occupation: 
+occupation: [] 
 groups: []
 religions: []
 personality: 

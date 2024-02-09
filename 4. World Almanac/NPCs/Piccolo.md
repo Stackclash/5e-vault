@@ -11,7 +11,7 @@ race:
 gender: 
 age: 
 alignment: Unaligned
-occupation: 
+occupation: [] 
 groups: []
 religions: []
 personality: 

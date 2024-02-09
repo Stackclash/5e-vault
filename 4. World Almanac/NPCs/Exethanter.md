@@ -11,7 +11,7 @@ race:
 gender: 
 age: 
 alignment: Any Evil alignment
-occupation: 
+occupation: [] 
 groups: []
 religions: []
 personality: 

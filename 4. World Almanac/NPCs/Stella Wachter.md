@@ -12,7 +12,7 @@ race:
 gender: female
 age: 
 alignment: Chaotic Good
-occupation: 
+occupation: [] 
 groups: 
 religions: 
 personality: 

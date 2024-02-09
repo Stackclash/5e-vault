@@ -13,7 +13,7 @@ race:
 gender: 
 age: 
 alignment: Chaotic Evil
-occupation: 
+occupation: [] 
 groups: []
 religions: []
 personality: 

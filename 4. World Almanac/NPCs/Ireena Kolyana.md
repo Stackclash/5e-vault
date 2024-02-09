@@ -13,7 +13,7 @@ race:
 gender: 
 age: 
 alignment: Lawful Good
-occupation: 
+occupation: [] 
 groups: []
 religions: []
 personality: 

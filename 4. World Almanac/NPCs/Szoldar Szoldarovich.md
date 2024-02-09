@@ -11,7 +11,7 @@ race:
 gender: 
 age: 
 alignment: Neutral
-occupation: 
+occupation: [] 
 groups: []
 religions: []
 personality: 

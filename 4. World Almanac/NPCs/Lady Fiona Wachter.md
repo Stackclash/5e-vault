@@ -13,7 +13,7 @@ race: "[[5. Mechanics/Races/Human.md|Human]]"
 gender: female
 age: 
 alignment: Lawful Evil
-occupation: 
+occupation: [] 
 groups: 
 religions: 
 personality: 
