@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8e3a1095e0577f68",
+        "id": "2ef106342e1de371",
         "type": "tabs",
         "children": [
           {
-            "id": "ec84ee9ce869ef09",
+            "id": "21738770bb89eb11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/Text Generator/default/getIdeas.md",
+                "file": "z_Templates/Text Generator/dalle/ligStudio.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Templates/Text Generator/default/getIdeas.md",
+                "file": "z_Templates/Text Generator/dalle/ligStudio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Templates/Text Generator/default/getIdeas.md",
+                "file": "z_Templates/Text Generator/dalle/ligStudio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Templates/Text Generator/default/getIdeas.md"
+                "file": "z_Templates/Text Generator/dalle/ligStudio.md"
               }
             }
           },
@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 335.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,19 +158,22 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "ec84ee9ce869ef09",
+  "active": "21738770bb89eb11",
   "lastOpenFiles": [
-    "z_Templates/Text Generator/default/getEmailNeg.md",
+    "z_Templates/Text Generator/dalle/dall-e-core.md",
     "4. World Almanac/NPCs/Danika Dorakova.md",
-    "z_Templates/Text Generator/default/summarizeLarge.md",
-    "z_Templates/Text Generator/default/summarize.md",
-    "z_Templates/Text Generator/default/simplify.md",
+    "1. DM Screen/Configuration.md",
+    "z_Templates/Text Generator/dalle/artPixel.md",
     "z_Templates/Text Generator/default/rewrite.md",
-    "z_Templates/Text Generator/default/getTitles.md",
     "z_Templates/Text Generator/default/getTags.md",
     "z_Templates/Text Generator/default/getParagraph.md",
     "z_Templates/Text Generator/default/getOutline.md",
     "z_Templates/Text Generator/default/getIdeas.md",
+    "z_Templates/Text Generator/default/getEmailNeg.md",
+    "z_Templates/Text Generator/default/summarizeLarge.md",
+    "z_Templates/Text Generator/default/summarize.md",
+    "z_Templates/Text Generator/default/simplify.md",
+    "z_Templates/Text Generator/default/getTitles.md",
     "z_Templates/Text Generator/default/getEmailPos.md",
     "z_Templates/Text Generator/default",
     "z_Templates/Text Generator/trash/default/summarizeLarge.md",
@@ -184,9 +188,6 @@
     "z_Templates/Text Generator/trash/default/getEmailPos.md",
     "z_Templates/Text Generator/trash/default/getEmailNeg.md",
     "z_Templates/Text Generator/trash/default",
-    "z_Templates/Text Generator/dalle/getPhoto.md",
-    "z_Templates/Text Generator/dalle/qua15mm.md",
-    "z_Templates/Text Generator/dalle/modPhotorealistic.md",
     "z_Templates/Text Generator/dalle",
     "z_Templates/Text Generator/trash/huggingface",
     "z_Templates/Text Generator/trash",
