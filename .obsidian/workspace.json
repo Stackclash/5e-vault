@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Mechanics/Traps Hazards/Sphere Of Annihilation.md",
-                "mode": "preview",
+                "file": "3. The Party/Session Logs/Welcome to Barovia.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Mechanics/Traps Hazards/Sphere Of Annihilation.md",
+                "file": "3. The Party/Session Logs/Welcome to Barovia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Mechanics/Traps Hazards/Sphere Of Annihilation.md",
+                "file": "3. The Party/Session Logs/Welcome to Barovia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Mechanics/Traps Hazards/Sphere Of Annihilation.md"
+                "file": "3. The Party/Session Logs/Welcome to Barovia.md"
               }
             }
           },
@@ -180,6 +180,18 @@
   },
   "active": "83c12e2ca29cfba2",
   "lastOpenFiles": [
+    "3. The Party/Session Logs/The Mob of Vallaki.md",
+    "3. The Party/Session Logs/The Look of Desperation.md",
+    "3. The Party/Session Logs/Welcome to Barovia.md",
+    "3. The Party/Session Logs/Session Logs.md",
+    "3. The Party/Session Logs/Campaign Preparation.md",
+    "5. Mechanics/Traps Hazards/Yellow Mold.md",
+    "5. Mechanics/Traps Hazards/Webs.md",
+    "5. Mechanics/Traps Hazards/Thryms Howl (TCE).md",
+    "5. Mechanics/Traps Hazards/Thin Ice.md",
+    "5. Mechanics/Traps Hazards/Strong Wind.md",
+    "5. Mechanics/Traps Hazards/Sphere Of Crushing Doom (XGE).md",
+    "5. Mechanics/Traps Hazards/Sphere Of Annihilation.md",
     "5. Mechanics/Traps Hazards/Necrotic Tempest (TCE).md",
     "5. Mechanics/Traps Hazards/Pits.md",
     "5. Mechanics/Traps Hazards/Pit Trap (XGE).md",
@@ -194,18 +206,6 @@
     "5. Mechanics/Tables/Star Spawn Seer Hhhviii.md",
     "5. Mechanics/Tables/Standard Languages.md",
     "5. Mechanics/Tables/Spellcasting Services Magewright Casting Fees (ERLW).md",
-    "5. Mechanics/Tables/Special Tools Hhhvi.md",
-    "5. Mechanics/Tables/Spectator Hhhvi.md",
-    "5. Mechanics/Tables/Specter Hhhvi.md",
-    "5. Mechanics/Tables/Red Slaad Hhhvi.md",
-    "5. Mechanics/Tables/Red Abishai Hhhviii.md",
-    "5. Mechanics/Tables/Recurring Expenses Maintenance Costs.md",
-    "5. Mechanics/Tables/Rare Swamp Herbs Hhbh.md",
-    "5. Mechanics/Tables/Random Traps Trap Trigger.md",
-    "5. Mechanics/Tables/Random Traps Trap Damage Severity.md",
-    "5. Mechanics/Tables/Random Encounters At Sea.md",
-    "5. Mechanics/Tables/Random Height And Weight.md",
-    "5. Mechanics/Tables/Random Obstacles Obstacles.md",
     "5. Mechanics/Bestiary/Fiend/token/draegloth.png",
     "z_Templates/Text Generator/default",
     "z_Templates/Text Generator/trash/default",
