@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4ea1e62b55341746",
+        "id": "4b3af8b06db18ef0",
         "type": "tabs",
         "children": [
           {
-            "id": "ab6dbbea4956a8dc",
+            "id": "83c12e2ca29cfba2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
+                "file": "5. Mechanics/Bestiary/Fiend/Draegloth (MPMM).md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "5. Mechanics/Bestiary/Fiend/Draegloth (MPMM).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "5. Mechanics/Bestiary/Fiend/Draegloth (MPMM).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "5. Mechanics/Bestiary/Fiend/Draegloth (MPMM).md"
               }
             }
           },
@@ -178,16 +178,27 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "a88a1818b2c15bdd",
+  "active": "83c12e2ca29cfba2",
   "lastOpenFiles": [
+    "5. Mechanics/Bestiary/Fiend/token/draegloth.png",
+    "5. Mechanics/Bestiary/Fiend/Draegloth (MPMM).md",
+    "5. Mechanics/Tables/Draegloth Hhhvii.md",
+    "5. Mechanics/Tables/Dracolich Hhhvi.md",
+    "5. Mechanics/Tables/Doppelganger Hhhvi.md",
+    "5. Mechanics/Tables/Doors Door Type.md",
+    "5. Mechanics/Tables/Doors Beyond A Door.md",
+    "5. Mechanics/Tables/Domains Of Ravenloft (VRGR).md",
+    "5. Mechanics/Bestiary/Giant/Dire Troll (MPMM).md",
+    "5. Mechanics/Tables/Dire Troll Hhhviii.md",
+    "5. Mechanics/Tables/Devourer Hhhvii.md",
+    "1. DM Screen/Configuration.md",
     "3. The Party/Players/Players.md",
+    "Untitled.md",
     "3. The Party/Session Logs/Session Logs.md",
     "3. The Party/Players/Yevelda Ovak.md",
     "3. The Party/Session Logs/Best Weapon against Vampires are Old Men.md",
-    "1. DM Screen/Configuration.md",
     "z_Templates/Text Generator/dalle/artCartoon.md",
     "z_Templates/Text Generator/dalle/modArtStation.md",
-    "Untitled.md",
     "z_Templates/Text Generator/dalle/artAnime.md",
     "z_Templates/Text Generator/dalle/qua200mm.md",
     "z_Templates/Text Generator/dalle/ligStudio.md",
@@ -195,18 +206,7 @@
     "4. World Almanac/NPCs/Danika Dorakova.md",
     "z_Templates/Text Generator/dalle/artPixel.md",
     "z_Templates/Text Generator/default/rewrite.md",
-    "z_Templates/Text Generator/default/getTags.md",
-    "z_Templates/Text Generator/default/getParagraph.md",
-    "z_Templates/Text Generator/default/getOutline.md",
-    "z_Templates/Text Generator/default/getIdeas.md",
-    "z_Templates/Text Generator/default/getEmailNeg.md",
-    "z_Templates/Text Generator/default/summarizeLarge.md",
-    "z_Templates/Text Generator/default/summarize.md",
-    "z_Templates/Text Generator/default/simplify.md",
-    "z_Templates/Text Generator/default/getTitles.md",
-    "z_Templates/Text Generator/default/getEmailPos.md",
     "z_Templates/Text Generator/default",
-    "z_Templates/Text Generator/trash/default/summarizeLarge.md",
     "z_Templates/Text Generator/trash/default",
     "z_Templates/Text Generator/dalle",
     "z_Templates/Text Generator/trash/huggingface",
