@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/Text Generator/dalle/modArtStation.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Templates/Text Generator/dalle/artCartoon.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Templates/Text Generator/dalle/artCartoon.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Templates/Text Generator/dalle/artCartoon.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -171,11 +170,12 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "3e8f6e65a9198599",
+  "active": "21738770bb89eb11",
   "lastOpenFiles": [
+    "z_Templates/Text Generator/dalle/modArtStation.md",
+    "z_Templates/Text Generator/dalle/artCartoon.md",
     "z_Templates/Text Generator/dalle/artAnime.md",
     "Untitled.md",
-    "z_Templates/Text Generator/dalle/modArtStation.md",
     "z_Templates/Text Generator/dalle/qua200mm.md",
     "z_Templates/Text Generator/dalle/ligStudio.md",
     "z_Templates/Text Generator/dalle/dall-e-core.md",
@@ -199,7 +199,6 @@
     "z_Templates/Text Generator/trash/default/simplify.md",
     "z_Templates/Text Generator/trash/default/rewrite.md",
     "z_Templates/Text Generator/trash/default/getTitles.md",
-    "z_Templates/Text Generator/trash/default/getTags.md",
     "z_Templates/Text Generator/trash/default",
     "z_Templates/Text Generator/dalle",
     "z_Templates/Text Generator/trash/huggingface",
