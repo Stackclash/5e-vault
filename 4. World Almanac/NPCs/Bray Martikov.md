@@ -10,7 +10,7 @@ relationships:
 tags: 
 aliases: []
 pronounced: BRAY MAR-ti-kov
-race: 
+race: "[[5. Mechanics/Races/Human.md|Human]]"
 gender: male
 age: 15
 alignment: Lawful Good

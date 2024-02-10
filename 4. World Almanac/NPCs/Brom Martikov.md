@@ -10,7 +10,7 @@ relationships:
 tags: 
 aliases: []
 pronounced: BROM MAR-ti-kov
-race: 
+race: "[[5. Mechanics/Races/Human.md|Human]]"
 gender: male
 age: 13
 alignment: Lawful Good
