@@ -1,4 +1,4 @@
-const logs = dv.pages('"3. The Party/Session Logs"').filter(p => p.file.outlinks.includes(input.current.file.link))
+const logs = dv.pages('"3. The Party/Session Logs"').filter(p => p.file.outlinks.includes(input.current.file.link)).sort(p => p.date)
 
 const mentions = []
 const logDetails = logs.map(l => ({name: l.file.name, path: l.file.path, worldStartDate: l['fc-date'], worldEndDate: l['fc-end'], date: l.date}))

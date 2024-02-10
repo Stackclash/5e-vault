@@ -4,29 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2ef106342e1de371",
+        "id": "4ea1e62b55341746",
         "type": "tabs",
         "children": [
           {
-            "id": "21738770bb89eb11",
+            "id": "ab6dbbea4956a8dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/Text Generator/dalle/modArtStation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e8f6e65a9198599",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "z_Templates/Text Generator/dalle/artCartoon.md",
-                "mode": "source",
+                "file": "3. The Party/Players/Yevelda Ovak.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -100,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Templates/Text Generator/dalle/modArtStation.md",
+                "file": "3. The Party/Players/Yevelda Ovak.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Templates/Text Generator/dalle/modArtStation.md",
+                "file": "3. The Party/Players/Yevelda Ovak.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Templates/Text Generator/dalle/modArtStation.md"
+                "file": "3. The Party/Players/Yevelda Ovak.md"
               }
             }
           },
@@ -190,17 +178,21 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "21738770bb89eb11",
+  "active": "ab6dbbea4956a8dc",
   "lastOpenFiles": [
-    "Untitled.md",
-    "z_Templates/Text Generator/dalle/modArtStation.md",
+    "3. The Party/Session Logs/Best Weapon against Vampires are Old Men.md",
+    "3. The Party/Session Logs/Session Logs.md",
+    "3. The Party/Players/Yevelda Ovak.md",
+    "3. The Party/Players/Players.md",
+    "1. DM Screen/Configuration.md",
     "z_Templates/Text Generator/dalle/artCartoon.md",
+    "z_Templates/Text Generator/dalle/modArtStation.md",
+    "Untitled.md",
     "z_Templates/Text Generator/dalle/artAnime.md",
     "z_Templates/Text Generator/dalle/qua200mm.md",
     "z_Templates/Text Generator/dalle/ligStudio.md",
     "z_Templates/Text Generator/dalle/dall-e-core.md",
     "4. World Almanac/NPCs/Danika Dorakova.md",
-    "1. DM Screen/Configuration.md",
     "z_Templates/Text Generator/dalle/artPixel.md",
     "z_Templates/Text Generator/default/rewrite.md",
     "z_Templates/Text Generator/default/getTags.md",
@@ -215,10 +207,6 @@
     "z_Templates/Text Generator/default/getEmailPos.md",
     "z_Templates/Text Generator/default",
     "z_Templates/Text Generator/trash/default/summarizeLarge.md",
-    "z_Templates/Text Generator/trash/default/summarize.md",
-    "z_Templates/Text Generator/trash/default/simplify.md",
-    "z_Templates/Text Generator/trash/default/rewrite.md",
-    "z_Templates/Text Generator/trash/default/getTitles.md",
     "z_Templates/Text Generator/trash/default",
     "z_Templates/Text Generator/dalle",
     "z_Templates/Text Generator/trash/huggingface",
