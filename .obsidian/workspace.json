@@ -140,6 +140,26 @@
               "type": "initiative-tracker-view",
               "state": {}
             }
+          },
+          {
+            "id": "6c25d8758f0b89cd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "53c702d8269e693a",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
