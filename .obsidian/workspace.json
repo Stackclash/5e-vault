@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Mechanics/Bestiary/Fiend/Draegloth (MPMM).md",
+                "file": "5. Mechanics/Tables/Passages Passage Width.md",
                 "mode": "preview",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#compendium/src/5e/hhhvii",
+                "query": "path:\"5. Mechanics/Deities\"  Moon ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Mechanics/Bestiary/Fiend/Draegloth (MPMM).md",
+                "file": "5. Mechanics/Tables/Passages Passage Width.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Mechanics/Bestiary/Fiend/Draegloth (MPMM).md",
+                "file": "5. Mechanics/Tables/Passages Passage Width.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Mechanics/Bestiary/Fiend/Draegloth (MPMM).md"
+                "file": "5. Mechanics/Tables/Passages Passage Width.md"
               }
             }
           },
@@ -180,32 +180,33 @@
   },
   "active": "83c12e2ca29cfba2",
   "lastOpenFiles": [
-    "5. Mechanics/Bestiary/Fiend/token/draegloth.png",
+    "5. Mechanics/Tables/Orog Hhhvi.md",
+    "5. Mechanics/Tables/Orcus Hhhviii.md",
+    "5. Mechanics/Tables/Orc Eye Of Gruumsh Hhhvi.md",
+    "5. Mechanics/Tables/Number Of Siblings (XGE).md",
+    "5. Mechanics/Tables/Npc Talents.md",
+    "5. Mechanics/Tables/Npc Mannerisms.md",
+    "5. Mechanics/Tables/Npc Low Abilities.md",
+    "5. Mechanics/Tables/Npc Appearance.md",
+    "5. Mechanics/Tables/Npc Bonds.md",
+    "5. Mechanics/Tables/Dragonborn Names Male (XGE).md",
     "5. Mechanics/Bestiary/Fiend/Draegloth (MPMM).md",
+    "5. Mechanics/Deities/Greek Hecate.md",
+    "5. Mechanics/Deities/Nonhuman Sehanine Moonbow.md",
+    "5. Mechanics/Deities/Dawn War Sehanine.md",
+    "5. Mechanics/Deities/Nonhuman Corellon Larethian.md",
+    "5. Mechanics/Deities/Greyhawk Pholtus.md",
+    "5. Mechanics/Deities/Faerunian Selune.md",
+    "5. Mechanics/Deities/Dawn War Lolth.md",
+    "5. Mechanics/Deities/Nonhuman Lolth.md",
+    "1. DM Screen/Configuration.md",
+    "5. Mechanics/Bestiary/Fiend/token/draegloth.png",
     "5. Mechanics/Tables/Draegloth Hhhvii.md",
     "5. Mechanics/Tables/Dracolich Hhhvi.md",
     "5. Mechanics/Tables/Doppelganger Hhhvi.md",
     "5. Mechanics/Tables/Doors Door Type.md",
     "5. Mechanics/Tables/Doors Beyond A Door.md",
     "5. Mechanics/Tables/Domains Of Ravenloft (VRGR).md",
-    "5. Mechanics/Bestiary/Giant/Dire Troll (MPMM).md",
-    "5. Mechanics/Tables/Dire Troll Hhhviii.md",
-    "5. Mechanics/Tables/Devourer Hhhvii.md",
-    "1. DM Screen/Configuration.md",
-    "3. The Party/Players/Players.md",
-    "Untitled.md",
-    "3. The Party/Session Logs/Session Logs.md",
-    "3. The Party/Players/Yevelda Ovak.md",
-    "3. The Party/Session Logs/Best Weapon against Vampires are Old Men.md",
-    "z_Templates/Text Generator/dalle/artCartoon.md",
-    "z_Templates/Text Generator/dalle/modArtStation.md",
-    "z_Templates/Text Generator/dalle/artAnime.md",
-    "z_Templates/Text Generator/dalle/qua200mm.md",
-    "z_Templates/Text Generator/dalle/ligStudio.md",
-    "z_Templates/Text Generator/dalle/dall-e-core.md",
-    "4. World Almanac/NPCs/Danika Dorakova.md",
-    "z_Templates/Text Generator/dalle/artPixel.md",
-    "z_Templates/Text Generator/default/rewrite.md",
     "z_Templates/Text Generator/default",
     "z_Templates/Text Generator/trash/default",
     "z_Templates/Text Generator/dalle",
@@ -225,7 +226,6 @@
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Leo_s_House.png",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Homes.png",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Exterior.png",
-    "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Handout_-_News_of_ravenovias_death.png",
     "Untitled.canvas"
   ]
 }
