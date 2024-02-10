@@ -11,9 +11,11 @@
             "id": "ab6dbbea4956a8dc",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "3. The Party/Players/Players.md"
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -86,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/Players/Players.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/Players/Players.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/Players/Players.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -178,10 +180,10 @@
   },
   "active": "a88a1818b2c15bdd",
   "lastOpenFiles": [
+    "3. The Party/Players/Players.md",
     "3. The Party/Session Logs/Session Logs.md",
     "3. The Party/Players/Yevelda Ovak.md",
     "3. The Party/Session Logs/Best Weapon against Vampires are Old Men.md",
-    "3. The Party/Players/Players.md",
     "1. DM Screen/Configuration.md",
     "z_Templates/Text Generator/dalle/artCartoon.md",
     "z_Templates/Text Generator/dalle/modArtStation.md",
