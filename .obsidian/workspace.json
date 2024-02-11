@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "2ef106342e1de371",
+        "id": "42a1aa1ad0a35fb3",
         "type": "tabs",
         "children": [
           {
@@ -13,63 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. The Party/Session Journals/Best Weapon against Vampires are Old Men.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "550f34518b9933f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. The Party/Session Journals/Meeting Strahd.md",
+                "file": "z_Templates/Templater/DM Prep/Session Journal.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8d941c30506312c9",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_6b2b79a86a39",
-                "ephemeral": {
-                  "viewing": {
-                    "day": 14,
-                    "month": 1,
-                    "year": 973
-                  },
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 14,
-                    "month": 1,
-                    "year": 973
-                  },
-                  "displayDayNumber": false,
-                  "displayMoons": true
-                }
-              }
-            }
-          },
-          {
-            "id": "a2d586f306c433da",
+            "id": "de71bfecc65a0123",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. The Party/Session Journals/Welcome to Barovia.md",
+                "file": "3. The Party/Session Journals/Welcome to Barovia1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/Session Journals/Welcome to Barovia.md",
+                "file": "z_Templates/Templater/DM Prep/Session Journal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/Session Journals/Welcome to Barovia.md",
+                "file": "z_Templates/Templater/DM Prep/Session Journal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/Session Journals/Welcome to Barovia.md"
+                "file": "z_Templates/Templater/DM Prep/Session Journal.md"
               }
             }
           },
@@ -196,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 335.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,18 +184,19 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "a2d586f306c433da",
+  "active": "3465d9b7d6d8adef",
   "lastOpenFiles": [
-    "Untitled.md",
     "3. The Party/Session Journals/Welcome to Barovia.md",
+    "3. The Party/Session Journals/Welcome to Barovia1.md",
+    "3. The Party/Session Journals/Best Weapon against Vampires are Old Men.md",
+    "3. The Party/Session Journals/Meeting Strahd.md",
+    "Untitled.md",
     "3. The Party/Session Journals/Finding Victor.md",
     "3. The Party/Session Journals/Deal with the Devil.md",
     "3. The Party/Session Journals/Campaign Preparation.md",
-    "3. The Party/Session Journals/Best Weapon against Vampires are Old Men.md",
     "3. The Party/Session Journals/Knowing the Road.md",
     "z_Templates/Templater/DM Prep/Session Journal.md",
     "3. The Party/Session Journals/Session Journals.md",
-    "3. The Party/Session Journals/Meeting Strahd.md",
     "3. The Party/Parties/Parties.md",
     "3. The Party/Session Journals/New Session.md",
     "3. The Party/Session Journals/Never Trust a Hunter.md",
@@ -251,7 +215,6 @@
     "4. World Almanac/Places of Interest/Places of Interest.md",
     "4. World Almanac/Worlds/Eldoria.md",
     "4. World Almanac/Regions/Barovia.md",
-    "4. World Almanac/Settlements/Village of Barovia.md",
     "z_Templates/Text Generator/default",
     "z_Templates/Text Generator/trash/default",
     "z_Templates/Text Generator/dalle",
