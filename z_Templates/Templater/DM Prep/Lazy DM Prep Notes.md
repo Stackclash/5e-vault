@@ -1,4 +1,4 @@
-****## Characters  
+## Characters  
 
   
 ## Strong Start  
