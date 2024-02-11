@@ -32,13 +32,13 @@ TABLE WITHOUT ID
 >```
 
 ## **Session Log**
-### **[[2. Session Logs|New Session Log]]**
+### **[[2. Session Journals|New Session Log]]**
 > [!cards|dataview 3]
 >```dataview
 TABLE WITHOUT ID
 >	link(file.path, name) AS "Name",
 >	summary
-> FROM "3. The Party/2. Session Logs"
+> FROM "3. The Party/2. Session Journals"
 > WHERE Party = this.file.name
 > SORT file.frontmatter.date DESC
 >```

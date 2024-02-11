@@ -58776,57 +58776,6 @@
       }
     ],
     [
-      "Victor Vallakovich (CoS)",
-      {
-        "name": "Victor Vallakovich (CoS)",
-        "size": "Medium",
-        "type": "humanoid",
-        "subtype": "human",
-        "alignment": "Neutral Evil",
-        "ac": 12,
-        "hp": 40,
-        "hit_dice": "9d8",
-        "stats": [
-          9,
-          14,
-          11,
-          17,
-          12,
-          11
-        ],
-        "speed": "30 ft.",
-        "saves": {
-          "Wisdom": 4,
-          "Intelligence": 6
-        },
-        "skillsaves": {
-          "History": 6,
-          "Arcana": 6
-        },
-        "senses": "passive Perception 11",
-        "languages": "any four languages",
-        "cr": "6",
-        "traits": [
-          {
-            "desc": "Victor is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, dice: d20+6 (+6 to hit) with spell attacks). Victor has the following wizard spells prepared:\n\nCantrips (at will): fire bolt, light, mage hand, prestidigitation\n\n1st level (4 slots): detect magic, mage armor, magic missile, shield\n\n2nd level (3 slots): misty step, suggestion\n\n3rd level (3 slots): counterspell, fireball, fly\n\n4th level (3 slots): greater invisibility, ice storm\n\n5th level (1 slots): cone of cold",
-            "name": "spells"
-          }
-        ],
-        "actions": [
-          {
-            "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft. or range 20/60 ft., one target. Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage.",
-            "name": "Dagger"
-          }
-        ],
-        "source": [
-          "CoS"
-        ],
-        "image": "4. World Almanac/NPCs/token/victor-vallakovich.png",
-        "note": "4. World Almanac/NPCs/Victor Vallakovich.md",
-        "mtime": 1706982101694
-      }
-    ],
-    [
       "Vilnius (CoS)",
       {
         "name": "Vilnius (CoS)",
@@ -58932,70 +58881,6 @@
         "image": "4. World Almanac/NPCs/token/yevgeni-krushkin.png",
         "note": "4. World Almanac/NPCs/Yevgeni Krushkin.md",
         "mtime": 1706747899358
-      }
-    ],
-    [
-      "Zygfrek Belview (CoS)",
-      {
-        "name": "Zygfrek Belview (CoS)",
-        "size": "Medium",
-        "type": "humanoid",
-        "subtype": "mongrelfolk",
-        "alignment": "Any alignment",
-        "ac": 11,
-        "hp": 26,
-        "hit_dice": "4d8 + 8",
-        "stats": [
-          12,
-          9,
-          15,
-          9,
-          10,
-          6
-        ],
-        "speed": "20 ft.",
-        "skillsaves": {
-          "Deception": 2,
-          "Stealth": 3,
-          "Perception": 2
-        },
-        "senses": "darkvision 60 ft., passive Perception 12",
-        "languages": "Common",
-        "cr": "1/4",
-        "traits": [
-          {
-            "desc": "The mongrelfolk has darkvision out to a range of 60 feet.",
-            "name": "Darkvision"
-          },
-          {
-            "desc": "Zygfrek can mimic any sounds it has heard, including voices. A creature that hears the sounds can tell they are imitations with a successful DC 12 Wisdom (Insight) check.",
-            "name": "Mimicry"
-          }
-        ],
-        "actions": [
-          {
-            "desc": "Zygfrek makes two attacks: one with its bite and one with its claw or dagger.",
-            "name": "Multiattack"
-          },
-          {
-            "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target. Hit: dice: 1d4 + 1|avg (1d4 + 1) piercing damage.",
-            "name": "Bite"
-          },
-          {
-            "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target. Hit: dice: 1d4 + 1|avg (1d4 + 1) slashing damage.",
-            "name": "Claw"
-          },
-          {
-            "desc": "Melee or Ranged Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft. or range 20/60 ft., one target. Hit: dice: 1d4 + 1|avg (1d4 + 1) piercing damage.",
-            "name": "Dagger"
-          }
-        ],
-        "source": [
-          "CoS"
-        ],
-        "image": "4. World Almanac/NPCs/token/zygfrek-belview.png",
-        "note": "4. World Almanac/NPCs/Zygfrek Belview.md",
-        "mtime": 1706747899360
       }
     ],
     [
@@ -62017,130 +61902,6 @@
       }
     ],
     [
-      "Rictavio (CoS)",
-      {
-        "name": "Rictavio (CoS)",
-        "size": "Medium",
-        "type": "humanoid",
-        "subtype": "human",
-        "alignment": "Lawful Good",
-        "ac": 12,
-        "hp": 77,
-        "hit_dice": "14d8 + 14",
-        "stats": [
-          9,
-          12,
-          13,
-          16,
-          18,
-          16
-        ],
-        "speed": "30 ft.",
-        "saves": {
-          "Wisdom": 7,
-          "Constitution": 4
-        },
-        "skillsaves": {
-          "Medicine": 7,
-          "Sleight of Hand": 4,
-          "Religion": 6,
-          "Insight": 7,
-          "Perception": 7,
-          "Arcana": 9
-        },
-        "senses": "passive Perception 17",
-        "languages": "Abyssal, Common, Elvish, Infernal",
-        "cr": "5",
-        "traits": [
-          {
-            "desc": "Rictavio is a 9th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 15, dice: d20+7 (+7 to hit) with spell attacks). Rictavio has the following cleric spells prepared:\n\nCantrips (at will): guidance, light, mending, thaumaturgy\n\n1st level (4 slots): cure wounds, detect evil and good, protection from evil and good, sanctuary\n\n2nd level (3 slots): augury, lesser restoration, protection from poison\n\n3rd level (3 slots): magic circle, remove curse, speak with dead\n\n4th level (3 slots): death ward, freedom of movement\n\n5th level (1 slots): dispel evil and good",
-            "name": "spells"
-          },
-          {
-            "desc": "In addition to his sword cane, Rictavio wears a hat of disguise and a ring of mind shielding, and he carries a spell scroll of raise dead.",
-            "name": "Special Equipment"
-          },
-          {
-            "desc": "When Rictavio hits an undead with a weapon attack, the undead takes an extra dice: 3d6|avg (3d6) damage of the weapon's type.",
-            "name": "Undead Slayer"
-          }
-        ],
-        "actions": [
-          {
-            "desc": "Rictavio makes two attacks with his sword cane.",
-            "name": "Multiattack"
-          },
-          {
-            "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target. Hit: dice: 1d6 + 1|avg (1d6 + 1) bludgeoning damage (wooden cane) or piercing damage (silvered sword).",
-            "name": "Sword Cane"
-          }
-        ],
-        "source": [
-          "CoS"
-        ],
-        "image": "4. World Almanac/NPCs/token/rictavio.png",
-        "note": "4. World Almanac/NPCs/Rictavio.md",
-        "mtime": 1706747899338
-      }
-    ],
-    [
-      "Rosavalda \"Rose\" Durst (CoS)",
-      {
-        "name": "Rosavalda \"Rose\" Durst (CoS)",
-        "size": "Small",
-        "type": "undead",
-        "alignment": "Lawful Good",
-        "ac": 11,
-        "hp": 35,
-        "hit_dice": "10d6",
-        "stats": [
-          7,
-          13,
-          10,
-          10,
-          12,
-          17
-        ],
-        "speed": "0 ft., fly 40 ft. (hover)",
-        "damage_resistances": "acid; fire; lightning; thunder; bludgeoning, piercing, slashing from nonmagical attacks",
-        "damage_immunities": "cold, necrotic, poison",
-        "condition_immunities": "charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained",
-        "senses": "darkvision 60 ft., passive Perception 11",
-        "languages": "Common",
-        "cr": "3",
-        "traits": [
-          {
-            "desc": "Rose can see 60 feet into the Ethereal Plane when it is on the Material Plane, and vice versa.",
-            "name": "Ethereal Sight"
-          },
-          {
-            "desc": "Rose can move through other creatures and objects as if they were difficult terrain. It takes dice: 1d10|avg (1d10) force damage if it ends its turn inside an object.",
-            "name": "Incorporeal Movement"
-          }
-        ],
-        "actions": [
-          {
-            "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target. Hit: dice: 4d6 + 3|avg (4d6 + 3) necrotic damage.",
-            "name": "Withering Touch"
-          },
-          {
-            "desc": "Rose enters the Ethereal Plane from the Material Plane, or vice versa. It is visible on the Material Plane while it is in the Border Ethereal, and vice versa, yet it can't affect or be affected by anything on the other plane.",
-            "name": "Etherealness"
-          },
-          {
-            "desc": "One humanoid that Rose can see within 5 feet of it must succeed on a DC 13 Charisma saving throw or be possessed by Rose; Rose then disappears, and the target is incapacitated and loses control of its body. Rose now controls the body but doesn't deprive the target of awareness. Rose can't be targeted by any attack, spell, or other effect, except ones that turn undead, and it retains its alignment, Intelligence, Wisdom, Charisma, and immunity to being charmed and frightened. It otherwise uses the possessed target's statistics, but doesn't gain access to the target's knowledge, class features, or proficiencies.\n\nThe possession lasts until the body drops to 0 hit points, Rose ends it as a bonus action, or Rose is turned or forced out by an effect like the dispel evil and good spell. When the possession ends, Rose reappears in an unoccupied space within 5 feet of the body. The target is immune to this ghost's Possession for 24 hours after succeeding on the saving throw or after the possession ends.",
-            "name": "Possession (Recharge 6)"
-          }
-        ],
-        "source": [
-          "CoS"
-        ],
-        "image": "4. World Almanac/NPCs/token/rosavalda-rose-durst.png",
-        "note": "4. World Almanac/NPCs/Rosavalda Rose Durst.md",
-        "mtime": 1706747899338
-      }
-    ],
-    [
       "Strahd's Animated Armor (CoS)",
       {
         "name": "Strahd's Animated Armor (CoS)",
@@ -65050,6 +64811,137 @@
         "image": "4. World Almanac/NPCs/token/brom-martikov.png",
         "note": "4. World Almanac/NPCs/Brom Martikov.md",
         "mtime": 1707605795122
+      }
+    ],
+    [
+      "Bray Martikov (CoS)",
+      {
+        "name": "Bray Martikov (CoS)",
+        "size": "Small",
+        "type": "humanoid",
+        "subtype": "human, shapechanger",
+        "alignment": "Lawful Good",
+        "ac": 12,
+        "hp": 7,
+        "hit_dice": "2d6",
+        "stats": [
+          10,
+          15,
+          11,
+          13,
+          15,
+          14
+        ],
+        "speed": "30 ft. (fly 50 ft. in raven and hybrid forms)",
+        "skillsaves": {
+          "Insight": 4,
+          "Perception": 6
+        },
+        "senses": "passive Perception 16",
+        "languages": "Common (can't speak in raven form)",
+        "cr": "2",
+        "traits": [
+          {
+            "desc": "Bray can use its action to polymorph into a raven-humanoid hybrid or into a raven, or back into its human form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its human form if it dies.",
+            "name": "Shapechanger"
+          },
+          {
+            "desc": "Bray can mimic simple sounds it has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.",
+            "name": "Mimicry"
+          },
+          {
+            "desc": "Bray regains 10 hit points at the start of its turn. If Bray takes damage from a silvered weapon or a spell, this trait doesn't function at the start of Bray's next turn. Bray dies only if it starts its turn with 0 hit points and doesn't regenerate.",
+            "name": "Regeneration"
+          }
+        ],
+        "actions": [
+          {
+            "desc": "Bray makes two weapon attacks, one of which can be with its hand crossbow.",
+            "name": "Multiattack (Human or Hybrid Form Only)"
+          },
+          {
+            "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target. Hit: 1 piercing damage in raven form, or dice: 1d4 + 2|avg (1d4 + 2) piercing damage in hybrid form. If the target is humanoid, it must succeed on a DC 10 Constitution saving throw or be cursed with wereraven lycanthropy.",
+            "name": "Beak (Raven or Hybrid Form Only)"
+          },
+          {
+            "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage.",
+            "name": "Shortsword (Human or Hybrid Form Only)"
+          },
+          {
+            "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 30/120 ft., one target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage.",
+            "name": "Hand Crossbow (Human or Hybrid Form Only)"
+          }
+        ],
+        "source": [
+          "CoS"
+        ],
+        "image": "4. World Almanac/NPCs/token/bray-martikov.png",
+        "note": "4. World Almanac/NPCs/Bray Martikov.md",
+        "mtime": 1707605803219
+      }
+    ],
+    [
+      "Zygfrek Belview (CoS)",
+      {
+        "name": "Zygfrek Belview (CoS)",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "mongrelfolk",
+        "alignment": "Any alignment",
+        "ac": 11,
+        "hp": 26,
+        "hit_dice": "4d8 + 8",
+        "stats": [
+          12,
+          9,
+          15,
+          9,
+          10,
+          6
+        ],
+        "speed": "20 ft.",
+        "skillsaves": {
+          "Deception": 2,
+          "Stealth": 3,
+          "Perception": 2
+        },
+        "senses": "darkvision 60 ft., passive Perception 12",
+        "languages": "Common",
+        "cr": "1/4",
+        "traits": [
+          {
+            "desc": "The mongrelfolk has darkvision out to a range of 60 feet.",
+            "name": "Darkvision"
+          },
+          {
+            "desc": "Zygfrek can mimic any sounds it has heard, including voices. A creature that hears the sounds can tell they are imitations with a successful DC 12 Wisdom (Insight) check.",
+            "name": "Mimicry"
+          }
+        ],
+        "actions": [
+          {
+            "desc": "Zygfrek makes two attacks: one with its bite and one with its claw or dagger.",
+            "name": "Multiattack"
+          },
+          {
+            "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target. Hit: dice: 1d4 + 1|avg (1d4 + 1) piercing damage.",
+            "name": "Bite"
+          },
+          {
+            "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target. Hit: dice: 1d4 + 1|avg (1d4 + 1) slashing damage.",
+            "name": "Claw"
+          },
+          {
+            "desc": "Melee or Ranged Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft. or range 20/60 ft., one target. Hit: dice: 1d4 + 1|avg (1d4 + 1) piercing damage.",
+            "name": "Dagger"
+          }
+        ],
+        "source": [
+          "CoS"
+        ],
+        "image": "4. World Almanac/NPCs/token/zygfrek-belview.png",
+        "note": "4. World Almanac/NPCs/Zygfrek Belview.md",
+        "mtime": 1707500372481
       }
     ]
   ],
