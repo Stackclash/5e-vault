@@ -4,34 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "42a1aa1ad0a35fb3",
+        "id": "2ef106342e1de371",
         "type": "tabs",
         "children": [
           {
-            "id": "3465d9b7d6d8adef",
+            "id": "21738770bb89eb11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/Templater/DM Prep/Session Journal.md",
+                "file": "4. World Almanac/Settlements/Vallaki.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e8f6e65a9198599",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Templates/Text Generator/dalle/artCartoon.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "de71bfecc65a0123",
+            "id": "3465d9b7d6d8adef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "3. The Party/Session Journals/Welcome to Barovia1.md",
-                "mode": "source",
-                "source": false
+                "file": "3. The Party/Session Journals/Session Journals.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Templates/Templater/DM Prep/Session Journal.md",
+                "file": "3. The Party/Session Journals/Session Journals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Templates/Templater/DM Prep/Session Journal.md",
+                "file": "3. The Party/Session Journals/Session Journals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Templates/Templater/DM Prep/Session Journal.md"
+                "file": "3. The Party/Session Journals/Session Journals.md"
               }
             }
           },
@@ -140,21 +151,9 @@
               "type": "initiative-tracker-view",
               "state": {}
             }
-          },
-          {
-            "id": "1687b851a414be45",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -175,38 +174,19 @@
       "dbfolder:Create a new database table": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "graph:Open graph view": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-5e-statblocks:Open Creature Pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "obsidian42-brat:BRAT": false,
-      "calendarium:Open Calendarium": false
+      "templater-obsidian:Templater": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
   "active": "3465d9b7d6d8adef",
   "lastOpenFiles": [
-    "3. The Party/Session Journals/Welcome to Barovia.md",
-    "3. The Party/Session Journals/Welcome to Barovia1.md",
-    "3. The Party/Session Journals/Best Weapon against Vampires are Old Men.md",
-    "3. The Party/Session Journals/Meeting Strahd.md",
-    "Untitled.md",
-    "3. The Party/Session Journals/Finding Victor.md",
-    "3. The Party/Session Journals/Deal with the Devil.md",
-    "3. The Party/Session Journals/Campaign Preparation.md",
-    "3. The Party/Session Journals/Knowing the Road.md",
     "z_Templates/Templater/DM Prep/Session Journal.md",
-    "3. The Party/Session Journals/Session Journals.md",
-    "3. The Party/Parties/Parties.md",
-    "3. The Party/Session Journals/New Session.md",
-    "3. The Party/Session Journals/Never Trust a Hunter.md",
-    "3. The Party/Session Journals/Making Friends with the Necromancer.md",
-    "z_Templates/Templater/DM Prep/Session Note.md",
-    "z_Templates/Templater/DM Prep/Lazy DM Prep Notes.md",
-    "3. The Party/Session Journals/The Mob of Vallaki.md",
-    "conflict-files-obsidian-git.md",
-    "3. The Party/Session Prep",
+    "3. The Party/Session Journals/Welcome to Barovia1.md",
     "1. DM Screen/1. DM Screen.md",
+    "3. The Party/Untitled",
     "4. World Almanac/Shops/Blue Water Inn.md",
     "1. DM Screen/Untitled",
     "3. The Party/Session Prep",
@@ -215,6 +195,23 @@
     "4. World Almanac/Places of Interest/Places of Interest.md",
     "4. World Almanac/Worlds/Eldoria.md",
     "4. World Almanac/Regions/Barovia.md",
+    "4. World Almanac/Settlements/Village of Barovia.md",
+    "4. World Almanac/Regions/Regions.md",
+    "4. World Almanac/NPCs/Baba Lysaga.md",
+    "z_Templates/Text Generator/dalle/modArtStation.md",
+    "Untitled.md",
+    "z_Templates/Text Generator/dalle/artCartoon.md",
+    "z_Templates/Text Generator/dalle/artAnime.md",
+    "z_Templates/Text Generator/dalle/qua200mm.md",
+    "z_Templates/Text Generator/dalle/ligStudio.md",
+    "z_Templates/Text Generator/dalle/dall-e-core.md",
+    "4. World Almanac/NPCs/Danika Dorakova.md",
+    "z_Templates/Text Generator/dalle/artPixel.md",
+    "z_Templates/Text Generator/default/rewrite.md",
+    "z_Templates/Text Generator/default/getTags.md",
+    "z_Templates/Text Generator/default/getParagraph.md",
+    "z_Templates/Text Generator/default/getOutline.md",
+    "z_Templates/Text Generator/default/getIdeas.md",
     "z_Templates/Text Generator/default",
     "z_Templates/Text Generator/trash/default",
     "z_Templates/Text Generator/dalle",
