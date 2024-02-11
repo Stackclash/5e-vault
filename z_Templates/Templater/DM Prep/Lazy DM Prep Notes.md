@@ -1,6 +1,3 @@
-## Characters  
-
-  
 ## Strong Start  
 
 

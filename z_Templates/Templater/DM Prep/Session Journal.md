@@ -1,0 +1,2 @@
+> [!infobox]
+> `INPUT[text:party]`

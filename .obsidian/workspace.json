@@ -8,43 +8,28 @@
         "type": "tabs",
         "children": [
           {
-            "id": "21738770bb89eb11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. World Almanac/Settlements/Vallaki.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e8f6e65a9198599",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "z_Templates/Text Generator/dalle/artCartoon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3465d9b7d6d8adef",
             "type": "leaf",
             "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "3. The Party/Parties/Parties.md"
+              }
+            }
+          },
+          {
+            "id": "550f34518b9933f3",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/Templater/DM Prep/Lazy DM Prep Notes.md",
+                "file": "3. The Party/Session Journals/Meeting Strahd.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Templates/Templater/DM Prep/Lazy DM Prep Notes.md",
+                "file": "3. The Party/Parties/Parties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Templates/Templater/DM Prep/Lazy DM Prep Notes.md",
+                "file": "3. The Party/Parties/Parties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Templates/Templater/DM Prep/Lazy DM Prep Notes.md"
+                "file": "3. The Party/Parties/Parties.md"
               }
             }
           },
@@ -205,6 +190,18 @@
   },
   "active": "3465d9b7d6d8adef",
   "lastOpenFiles": [
+    "z_Templates/Templater/DM Prep/Session Journal.md",
+    "3. The Party/Session Journals/Meeting Strahd.md",
+    "3. The Party/Session Journals/New Session.md",
+    "3. The Party/Session Journals/Never Trust a Hunter.md",
+    "3. The Party/Session Journals/Making Friends with the Necromancer.md",
+    "3. The Party/Session Journals/Knowing the Road.md",
+    "3. The Party/Session Journals/Finding Victor.md",
+    "3. The Party/Session Journals/Deal with the Devil.md",
+    "3. The Party/Session Journals/Campaign Preparation.md",
+    "3. The Party/Session Journals/Best Weapon against Vampires are Old Men.md",
+    "z_Templates/Templater/DM Prep/Session Note.md",
+    "z_Templates/Templater/DM Prep/Lazy DM Prep Notes.md",
     "3. The Party/Session Journals/The Mob of Vallaki.md",
     "3. The Party/Session Journals/Welcome to Barovia.md",
     "3. The Party/Session Journals/Session Journals.md",
@@ -222,18 +219,6 @@
     "4. World Almanac/Settlements/Village of Barovia.md",
     "4. World Almanac/Regions/Regions.md",
     "4. World Almanac/NPCs/Baba Lysaga.md",
-    "z_Templates/Text Generator/dalle/modArtStation.md",
-    "Untitled.md",
-    "z_Templates/Text Generator/dalle/artCartoon.md",
-    "z_Templates/Text Generator/dalle/artAnime.md",
-    "z_Templates/Text Generator/dalle/qua200mm.md",
-    "z_Templates/Text Generator/dalle/ligStudio.md",
-    "z_Templates/Text Generator/dalle/dall-e-core.md",
-    "4. World Almanac/NPCs/Danika Dorakova.md",
-    "z_Templates/Text Generator/dalle/artPixel.md",
-    "z_Templates/Text Generator/default/rewrite.md",
-    "z_Templates/Text Generator/default/getTags.md",
-    "z_Templates/Text Generator/default/getParagraph.md",
     "z_Templates/Text Generator/default",
     "z_Templates/Text Generator/trash/default",
     "z_Templates/Text Generator/dalle",
