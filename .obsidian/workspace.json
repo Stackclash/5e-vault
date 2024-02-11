@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/Templater/DM Prep/Session Journal.md",
-                "mode": "source",
+                "file": "3. The Party/Session Journals/Best Weapon against Vampires are Old Men.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -30,8 +30,46 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8d941c30506312c9",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_6b2b79a86a39",
+                "ephemeral": {
+                  "viewing": {
+                    "day": 14,
+                    "month": 1,
+                    "year": 973
+                  },
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 14,
+                    "month": 1,
+                    "year": 973
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                }
+              }
+            }
+          },
+          {
+            "id": "a2d586f306c433da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. The Party/Session Journals/Welcome to Barovia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -100,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Templates/Templater/DM Prep/Session Journal.md",
+                "file": "3. The Party/Session Journals/Welcome to Barovia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Templates/Templater/DM Prep/Session Journal.md",
+                "file": "3. The Party/Session Journals/Welcome to Barovia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Templates/Templater/DM Prep/Session Journal.md"
+                "file": "3. The Party/Session Journals/Welcome to Barovia.md"
               }
             }
           },
@@ -152,42 +190,13 @@
                 "searchQuery": ""
               }
             }
-          },
-          {
-            "id": "dfe6742bc573ed96",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
-            }
-          },
-          {
-            "id": "807a0e10d41994e2",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_6b2b79a86a39",
-                "ephemeral": {
-                  "viewState": 1,
-                  "displaying": {
-                    "year": 973,
-                    "month": 1,
-                    "day": 13
-                  },
-                  "displayDayNumber": false,
-                  "displayMoons": true
-                }
-              }
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 335.5,
-    "collapsed": true
+    "width": 335.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,24 +221,25 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "3465d9b7d6d8adef",
+  "active": "a2d586f306c433da",
   "lastOpenFiles": [
-    "3. The Party/Session Journals/Session Journals.md",
-    "3. The Party/Session Journals/Meeting Strahd.md",
-    "z_Templates/Templater/DM Prep/Session Journal.md",
-    "3. The Party/Parties/Parties.md",
-    "3. The Party/Session Journals/New Session.md",
-    "3. The Party/Session Journals/Never Trust a Hunter.md",
-    "3. The Party/Session Journals/Making Friends with the Necromancer.md",
-    "3. The Party/Session Journals/Knowing the Road.md",
+    "Untitled.md",
+    "3. The Party/Session Journals/Welcome to Barovia.md",
     "3. The Party/Session Journals/Finding Victor.md",
     "3. The Party/Session Journals/Deal with the Devil.md",
     "3. The Party/Session Journals/Campaign Preparation.md",
     "3. The Party/Session Journals/Best Weapon against Vampires are Old Men.md",
+    "3. The Party/Session Journals/Knowing the Road.md",
+    "z_Templates/Templater/DM Prep/Session Journal.md",
+    "3. The Party/Session Journals/Session Journals.md",
+    "3. The Party/Session Journals/Meeting Strahd.md",
+    "3. The Party/Parties/Parties.md",
+    "3. The Party/Session Journals/New Session.md",
+    "3. The Party/Session Journals/Never Trust a Hunter.md",
+    "3. The Party/Session Journals/Making Friends with the Necromancer.md",
     "z_Templates/Templater/DM Prep/Session Note.md",
     "z_Templates/Templater/DM Prep/Lazy DM Prep Notes.md",
     "3. The Party/Session Journals/The Mob of Vallaki.md",
-    "3. The Party/Session Journals/Welcome to Barovia.md",
     "conflict-files-obsidian-git.md",
     "3. The Party/Session Prep",
     "1. DM Screen/1. DM Screen.md",
@@ -242,7 +252,6 @@
     "4. World Almanac/Worlds/Eldoria.md",
     "4. World Almanac/Regions/Barovia.md",
     "4. World Almanac/Settlements/Village of Barovia.md",
-    "4. World Almanac/Regions/Regions.md",
     "z_Templates/Text Generator/default",
     "z_Templates/Text Generator/trash/default",
     "z_Templates/Text Generator/dalle",

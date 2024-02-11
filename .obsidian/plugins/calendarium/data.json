@@ -152,12 +152,18 @@
         "eras": []
       },
       "current": {
-        "year": 973,
+        "day": 13,
         "month": 1,
-        "day": 13
+        "year": 973
       },
       "events": [],
-      "categories": [],
+      "categories": [
+        {
+          "id": "ID_aa09aa3a09ab",
+          "color": "#0ff013",
+          "name": "Session"
+        }
+      ],
       "autoParse": false,
       "path": [
         "/"

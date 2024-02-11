@@ -8,7 +8,7 @@ aat-render-enabled: true
 fc-category: Session
 party: Curse of Strahd
 ---
-# Preparation
+˜˜# Preparation
 - How to get the players to the town of Barovia?
 
 ## Maps
