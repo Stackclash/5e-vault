@@ -62179,70 +62179,6 @@
       }
     ],
     [
-      "Zuleika Toranescu (CoS)",
-      {
-        "name": "Zuleika Toranescu (CoS)",
-        "size": "Medium",
-        "type": "humanoid",
-        "subtype": "human, shapechanger",
-        "alignment": "Chaotic Evil",
-        "ac": 11,
-        "hp": 58,
-        "hit_dice": "9d8 + 18",
-        "stats": [
-          15,
-          13,
-          14,
-          10,
-          11,
-          10
-        ],
-        "speed": "30 ft. (40 ft. in wolf form)",
-        "skillsaves": {
-          "Stealth": 3,
-          "Perception": 4
-        },
-        "damage_immunities": "bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered",
-        "senses": "passive Perception 14",
-        "languages": "Common (can't speak in wolf form)",
-        "cr": "3",
-        "traits": [
-          {
-            "desc": "Zuleika can use its action to polymorph into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.",
-            "name": "Shapechanger"
-          },
-          {
-            "desc": "Zuleika has advantage on Wisdom (Perception) checks that rely on hearing or smell.",
-            "name": "Keen Hearing and Smell"
-          }
-        ],
-        "actions": [
-          {
-            "desc": "Zuleika makes two attacks: two with its spear (humanoid form) or one with its bite and one with its claws (hybrid form).",
-            "name": "Multiattack (Humanoid or Hybrid Form Only)"
-          },
-          {
-            "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target. Hit: dice: 1d8 + 2|avg (1d8 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with werewolf lycanthropy.",
-            "name": "Bite (Wolf or Hybrid Form Only)"
-          },
-          {
-            "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature. Hit: dice: 2d4 + 2|avg (2d4 + 2) slashing damage.",
-            "name": "Claws (Hybrid Form Only)"
-          },
-          {
-            "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft. or range 20/60 ft., one creature. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage, or dice: 1d8 + 2|avg (1d8 + 2) piercing damage if used with two hands to make a melee attack.",
-            "name": "Spear (Humanoid Form Only)"
-          }
-        ],
-        "source": [
-          "CoS"
-        ],
-        "image": "4. World Almanac/NPCs/token/zuleika-toranescu.png",
-        "note": "4. World Almanac/NPCs/Zuleika Toranescu.md",
-        "mtime": 1706747899359
-      }
-    ],
-    [
       "Clovin Belview (CoS)",
       {
         "name": "Clovin Belview (CoS)",
@@ -64943,6 +64879,181 @@
         "note": "4. World Almanac/NPCs/Zygfrek Belview.md",
         "mtime": 1707500372481
       }
+    ],
+    [
+      "Rictavio (CoS)",
+      {
+        "name": "Rictavio (CoS)",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "human",
+        "alignment": "Lawful Good",
+        "ac": 12,
+        "hp": 77,
+        "hit_dice": "14d8 + 14",
+        "stats": [
+          9,
+          12,
+          13,
+          16,
+          18,
+          16
+        ],
+        "speed": "30 ft.",
+        "saves": {
+          "Wisdom": 7,
+          "Constitution": 4
+        },
+        "skillsaves": {
+          "Medicine": 7,
+          "Sleight of Hand": 4,
+          "Religion": 6,
+          "Insight": 7,
+          "Perception": 7,
+          "Arcana": 9
+        },
+        "senses": "passive Perception 17",
+        "languages": "Abyssal, Common, Elvish, Infernal",
+        "cr": "5",
+        "traits": [
+          {
+            "desc": "Rictavio is a 9th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 15, dice: d20+7 (+7 to hit) with spell attacks). Rictavio has the following cleric spells prepared:\n\nCantrips (at will): guidance, light, mending, thaumaturgy\n\n1st level (4 slots): cure wounds, detect evil and good, protection from evil and good, sanctuary\n\n2nd level (3 slots): augury, lesser restoration, protection from poison\n\n3rd level (3 slots): magic circle, remove curse, speak with dead\n\n4th level (3 slots): death ward, freedom of movement\n\n5th level (1 slots): dispel evil and good",
+            "name": "spells"
+          },
+          {
+            "desc": "In addition to his sword cane, Rictavio wears a hat of disguise and a ring of mind shielding, and he carries a spell scroll of raise dead.",
+            "name": "Special Equipment"
+          },
+          {
+            "desc": "When Rictavio hits an undead with a weapon attack, the undead takes an extra dice: 3d6|avg (3d6) damage of the weapon's type.",
+            "name": "Undead Slayer"
+          }
+        ],
+        "actions": [
+          {
+            "desc": "Rictavio makes two attacks with his sword cane.",
+            "name": "Multiattack"
+          },
+          {
+            "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target. Hit: dice: 1d6 + 1|avg (1d6 + 1) bludgeoning damage (wooden cane) or piercing damage (silvered sword).",
+            "name": "Sword Cane"
+          }
+        ],
+        "source": [
+          "CoS"
+        ],
+        "image": "4. World Almanac/NPCs/token/rictavio.png",
+        "note": "4. World Almanac/NPCs/Rictavio.md",
+        "mtime": 1707500372482
+      }
+    ],
+    [
+      "Rosavalda \"Rose\" Durst (CoS)",
+      {
+        "name": "Rosavalda \"Rose\" Durst (CoS)",
+        "size": "Small",
+        "type": "undead",
+        "alignment": "Lawful Good",
+        "ac": 11,
+        "hp": 35,
+        "hit_dice": "10d6",
+        "stats": [
+          7,
+          13,
+          10,
+          10,
+          12,
+          17
+        ],
+        "speed": "0 ft., fly 40 ft. (hover)",
+        "damage_resistances": "acid; fire; lightning; thunder; bludgeoning, piercing, slashing from nonmagical attacks",
+        "damage_immunities": "cold, necrotic, poison",
+        "condition_immunities": "charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained",
+        "senses": "darkvision 60 ft., passive Perception 11",
+        "languages": "Common",
+        "cr": "3",
+        "traits": [
+          {
+            "desc": "Rose can see 60 feet into the Ethereal Plane when it is on the Material Plane, and vice versa.",
+            "name": "Ethereal Sight"
+          },
+          {
+            "desc": "Rose can move through other creatures and objects as if they were difficult terrain. It takes dice: 1d10|avg (1d10) force damage if it ends its turn inside an object.",
+            "name": "Incorporeal Movement"
+          }
+        ],
+        "actions": [
+          {
+            "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target. Hit: dice: 4d6 + 3|avg (4d6 + 3) necrotic damage.",
+            "name": "Withering Touch"
+          },
+          {
+            "desc": "Rose enters the Ethereal Plane from the Material Plane, or vice versa. It is visible on the Material Plane while it is in the Border Ethereal, and vice versa, yet it can't affect or be affected by anything on the other plane.",
+            "name": "Etherealness"
+          },
+          {
+            "desc": "One humanoid that Rose can see within 5 feet of it must succeed on a DC 13 Charisma saving throw or be possessed by Rose; Rose then disappears, and the target is incapacitated and loses control of its body. Rose now controls the body but doesn't deprive the target of awareness. Rose can't be targeted by any attack, spell, or other effect, except ones that turn undead, and it retains its alignment, Intelligence, Wisdom, Charisma, and immunity to being charmed and frightened. It otherwise uses the possessed target's statistics, but doesn't gain access to the target's knowledge, class features, or proficiencies.\n\nThe possession lasts until the body drops to 0 hit points, Rose ends it as a bonus action, or Rose is turned or forced out by an effect like the dispel evil and good spell. When the possession ends, Rose reappears in an unoccupied space within 5 feet of the body. The target is immune to this ghost's Possession for 24 hours after succeeding on the saving throw or after the possession ends.",
+            "name": "Possession (Recharge 6)"
+          }
+        ],
+        "source": [
+          "CoS"
+        ],
+        "image": "4. World Almanac/NPCs/token/rosavalda-rose-durst.png",
+        "note": "4. World Almanac/NPCs/Rosavalda Rose Durst.md",
+        "mtime": 1707500372482
+      }
+    ],
+    [
+      "Victor Vallakovich (CoS)",
+      {
+        "name": "Victor Vallakovich (CoS)",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "human",
+        "alignment": "Neutral Evil",
+        "ac": 12,
+        "hp": 40,
+        "hit_dice": "9d8",
+        "stats": [
+          9,
+          14,
+          11,
+          17,
+          12,
+          11
+        ],
+        "speed": "30 ft.",
+        "saves": {
+          "Wisdom": 4,
+          "Intelligence": 6
+        },
+        "skillsaves": {
+          "History": 6,
+          "Arcana": 6
+        },
+        "senses": "passive Perception 11",
+        "languages": "any four languages",
+        "cr": "6",
+        "traits": [
+          {
+            "desc": "Victor is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, dice: d20+6 (+6 to hit) with spell attacks). Victor has the following wizard spells prepared:\n\nCantrips (at will): fire bolt, light, mage hand, prestidigitation\n\n1st level (4 slots): detect magic, mage armor, magic missile, shield\n\n2nd level (3 slots): misty step, suggestion\n\n3rd level (3 slots): counterspell, fireball, fly\n\n4th level (3 slots): greater invisibility, ice storm\n\n5th level (1 slots): cone of cold",
+            "name": "spells"
+          }
+        ],
+        "actions": [
+          {
+            "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft. or range 20/60 ft., one target. Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage.",
+            "name": "Dagger"
+          }
+        ],
+        "source": [
+          "CoS"
+        ],
+        "image": "4. World Almanac/NPCs/token/victor-vallakovich.png",
+        "note": "4. World Almanac/NPCs/Victor Vallakovich.md",
+        "mtime": 1707500372481
+      }
     ]
   ],
   "defaultLayouts": [
@@ -64950,13 +65061,13 @@
       "blocks": [
         {
           "type": "inline",
-          "id": "eb6bd9aa185b",
+          "id": "b9580aeba818",
           "properties": [],
           "hasRule": true,
           "nested": [
             {
               "type": "group",
-              "id": "6a38f9587988",
+              "id": "d819c88bd968",
               "properties": [
                 "name",
                 "size",
@@ -64967,13 +65078,13 @@
               "nested": [
                 {
                   "type": "inline",
-                  "id": "3a994b59ebb9",
+                  "id": "b8e84b8a699b",
                   "properties": [],
                   "hasRule": false,
                   "nested": [
                     {
                       "type": "heading",
-                      "id": "eb096ad9791b",
+                      "id": "9b28a90afa9a",
                       "properties": [
                         "name"
                       ],
@@ -64982,19 +65093,19 @@
                     },
                     {
                       "type": "inline",
-                      "id": "982a794828a8",
+                      "id": "cad9bafba8eb",
                       "properties": [],
                       "hasRule": false,
                       "nested": [
                         {
                           "type": "action",
-                          "id": "78eae979b95a",
+                          "id": "4aca09381bf8",
                           "icon": "sword",
                           "callback": "try { InitiativeTracker.newEncounter({creatures: [monster]}); } catch(e) {}"
                         },
                         {
                           "type": "action",
-                          "id": "6b5a980bb869",
+                          "id": "48585818590b",
                           "icon": "plus-with-circle",
                           "callback": "try { InitiativeTracker.addCreatures([monster]); } catch(e) {}"
                         }
@@ -65004,7 +65115,7 @@
                 },
                 {
                   "type": "subheading",
-                  "id": "eb0909e9994b",
+                  "id": "1b4aabb91a3b",
                   "properties": [
                     "size",
                     "type",
@@ -65019,7 +65130,7 @@
             },
             {
               "type": "image",
-              "id": "8918aa1bfa59",
+              "id": "285abb1a3b98",
               "properties": [
                 "image"
               ]
@@ -65028,7 +65139,7 @@
         },
         {
           "type": "group",
-          "id": "8ae9fb0a4829",
+          "id": "eb4bd9387ab9",
           "properties": [
             "ac",
             "hp",
@@ -65037,7 +65148,7 @@
           "nested": [
             {
               "type": "property",
-              "id": "187968e90848",
+              "id": "3bda2b1b5ab9",
               "properties": [
                 "ac"
               ],
@@ -65046,7 +65157,7 @@
             },
             {
               "type": "property",
-              "id": "39c9ca3a992b",
+              "id": "c808a9a94a99",
               "properties": [
                 "hp"
               ],
@@ -65059,7 +65170,7 @@
             },
             {
               "type": "property",
-              "id": "797a68b9992b",
+              "id": "69389b583bd9",
               "display": "Speed",
               "properties": [
                 "speed"
@@ -65072,7 +65183,7 @@
         },
         {
           "type": "table",
-          "id": "dbe9f9597aab",
+          "id": "782aeb699be9",
           "properties": [
             "stats"
           ],
@@ -65090,7 +65201,7 @@
         },
         {
           "type": "table",
-          "id": "ebebe839f88b",
+          "id": "7a0a4a7ab8ba",
           "properties": [
             "fage_stats"
           ],
@@ -65111,7 +65222,7 @@
         },
         {
           "type": "group",
-          "id": "c99a096b4a9b",
+          "id": "2b49bb183b18",
           "properties": [
             "saves",
             "skillsaves",
@@ -65126,7 +65237,7 @@
           "nested": [
             {
               "type": "saves",
-              "id": "998be9e8abdb",
+              "id": "cbdb699af838",
               "display": "Saves",
               "properties": [
                 "saves"
@@ -65135,7 +65246,7 @@
             },
             {
               "type": "saves",
-              "id": "3b49896b8868",
+              "id": "195988cbfa4b",
               "display": "Skills",
               "properties": [
                 "skillsaves"
@@ -65144,7 +65255,7 @@
             },
             {
               "type": "property",
-              "id": "7ad80b68d8c9",
+              "id": "19897bfb0999",
               "display": "Damage Resistances",
               "properties": [
                 "damage_resistances"
@@ -65153,7 +65264,7 @@
             },
             {
               "type": "property",
-              "id": "ea1aeb39da38",
+              "id": "b868eb3a39d8",
               "display": "Damage Immunities",
               "properties": [
                 "damage_immunities"
@@ -65162,7 +65273,7 @@
             },
             {
               "type": "property",
-              "id": "5a38db088948",
+              "id": "f959aaf89a08",
               "display": "Condition Immunities",
               "properties": [
                 "condition_immunities"
@@ -65171,7 +65282,7 @@
             },
             {
               "type": "property",
-              "id": "281a0a28d8ab",
+              "id": "28989b496b3a",
               "display": "Damage Vulnerabilities",
               "properties": [
                 "damage_vulnerabilities"
@@ -65180,7 +65291,7 @@
             },
             {
               "type": "property",
-              "id": "caeb59a90839",
+              "id": "3bc9589899d8",
               "display": "Senses",
               "properties": [
                 "senses"
@@ -65189,7 +65300,7 @@
             },
             {
               "type": "property",
-              "id": "59a9fa7a8aab",
+              "id": "097908a80ba9",
               "display": "Languages",
               "properties": [
                 "languages"
@@ -65198,13 +65309,13 @@
             },
             {
               "type": "inline",
-              "id": "682ba8bb8bbb",
+              "id": "994bfadbe80b",
               "properties": [],
               "conditioned": true,
               "nested": [
                 {
                   "type": "property",
-                  "id": "4b9b59189938",
+                  "id": "196979c8f8d8",
                   "display": "Challenge",
                   "properties": [
                     "cr"
@@ -65213,7 +65324,7 @@
                 },
                 {
                   "type": "property",
-                  "id": "c94bcb99eb08",
+                  "id": "5b5bfbea7af8",
                   "display": "Proficiency Bonus",
                   "properties": [
                     "cr"
@@ -65228,7 +65339,7 @@
         },
         {
           "type": "traits",
-          "id": "39a8fb7ac838",
+          "id": "7b3a5b980bfa",
           "properties": [
             "traits"
           ],
@@ -65237,7 +65348,7 @@
         },
         {
           "type": "spells",
-          "id": "1a29da2b78ba",
+          "id": "881ad81bfa39",
           "properties": [
             "spells"
           ],
@@ -65246,7 +65357,7 @@
         },
         {
           "type": "text",
-          "id": "8a7ac8697a39",
+          "id": "d8dbfb3aba69",
           "properties": [
             "spellsNotes"
           ],
@@ -65255,7 +65366,7 @@
         },
         {
           "type": "traits",
-          "id": "582858389969",
+          "id": "0ae8894859c8",
           "properties": [
             "actions"
           ],
@@ -65265,7 +65376,7 @@
         },
         {
           "type": "traits",
-          "id": "aa9b392b09aa",
+          "id": "8b1b7a6888f9",
           "properties": [
             "bonus_actions"
           ],
@@ -65275,7 +65386,7 @@
         },
         {
           "type": "group",
-          "id": "ebc918ea6b3b",
+          "id": "4a78c8da1a6b",
           "properties": [
             "legendary_description",
             "legendary_actions"
@@ -65284,7 +65395,7 @@
           "nested": [
             {
               "type": "text",
-              "id": "18f928ba2be8",
+              "id": "3868f9384899",
               "properties": [
                 "legendary_description"
               ],
@@ -65293,7 +65404,7 @@
             },
             {
               "type": "traits",
-              "id": "3bc8798aca38",
+              "id": "c94aca29f9b8",
               "properties": [
                 "legendary_actions"
               ],
@@ -65305,7 +65416,7 @@
         },
         {
           "type": "group",
-          "id": "09dab80b5b49",
+          "id": "292afb397bca",
           "properties": [
             "mythic_description",
             "mythic_actions"
@@ -65314,7 +65425,7 @@
           "nested": [
             {
               "type": "text",
-              "id": "4a29a9fbf98a",
+              "id": "c988684b9a3b",
               "properties": [
                 "mythic_description"
               ],
@@ -65323,7 +65434,7 @@
             },
             {
               "type": "traits",
-              "id": "5b583b18f929",
+              "id": "79399b1b5868",
               "properties": [
                 "mythic_actions"
               ],
@@ -65335,7 +65446,7 @@
         },
         {
           "type": "traits",
-          "id": "ab494a2ac8fa",
+          "id": "09fa08bb88db",
           "properties": [
             "reactions"
           ],
@@ -65345,7 +65456,7 @@
         },
         {
           "type": "traits",
-          "id": "b8fbd96a5bdb",
+          "id": "e9bbf83b0979",
           "properties": [
             "lair_actions"
           ],
@@ -66687,7 +66798,7 @@
   "version": {
     "major": 3,
     "minor": 18,
-    "patch": 0
+    "patch": 1
   },
   "paths": [
     "5. Mechanics/Bestiary",
