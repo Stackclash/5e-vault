@@ -11,9 +11,11 @@
             "id": "3465d9b7d6d8adef",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "3. The Party/Session Journals/Session Journals.md"
+                "file": "z_Templates/Templater/DM Prep/Session Journal.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -29,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/Session Journals/Meeting Strahd.md",
+                "file": "z_Templates/Templater/DM Prep/Session Journal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/Session Journals/Meeting Strahd.md",
+                "file": "z_Templates/Templater/DM Prep/Session Journal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/Session Journals/Meeting Strahd.md"
+                "file": "z_Templates/Templater/DM Prep/Session Journal.md"
               }
             }
           },
@@ -164,7 +165,20 @@
             "id": "807a0e10d41994e2",
             "type": "leaf",
             "state": {
-              "type": "CALENDARIUM"
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_6b2b79a86a39",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "year": 973,
+                    "month": 1,
+                    "day": 13
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                }
+              }
             }
           }
         ],
@@ -198,11 +212,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "550f34518b9933f3",
+  "active": "3465d9b7d6d8adef",
   "lastOpenFiles": [
     "3. The Party/Session Journals/Session Journals.md",
-    "z_Templates/Templater/DM Prep/Session Journal.md",
     "3. The Party/Session Journals/Meeting Strahd.md",
+    "z_Templates/Templater/DM Prep/Session Journal.md",
     "3. The Party/Parties/Parties.md",
     "3. The Party/Session Journals/New Session.md",
     "3. The Party/Session Journals/Never Trust a Hunter.md",
