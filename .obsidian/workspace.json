@@ -151,6 +151,26 @@
               "type": "initiative-tracker-view",
               "state": {}
             }
+          },
+          {
+            "id": "1687b851a414be45",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "dfe6742bc573ed96",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
@@ -181,10 +201,10 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "3465d9b7d6d8adef",
+  "active": "a88a1818b2c15bdd",
   "lastOpenFiles": [
+    "3. The Party/Session Prep",
     "1. DM Screen/1. DM Screen.md",
-    "3. The Party/Untitled",
     "4. World Almanac/Shops/Blue Water Inn.md",
     "1. DM Screen/Untitled",
     "3. The Party/Session Prep",
@@ -211,7 +231,6 @@
     "z_Templates/Text Generator/default/getOutline.md",
     "z_Templates/Text Generator/default/getIdeas.md",
     "z_Templates/Text Generator/default/getEmailNeg.md",
-    "z_Templates/Text Generator/default/summarizeLarge.md",
     "z_Templates/Text Generator/default",
     "z_Templates/Text Generator/trash/default",
     "z_Templates/Text Generator/dalle",
