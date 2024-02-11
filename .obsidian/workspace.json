@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "z_Templates/Templater/DM Prep/Session Journal.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Templates/Templater/DM Prep/Session Journal.md",
+                "file": "3. The Party/Session Journals/Meeting Strahd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Templates/Templater/DM Prep/Session Journal.md",
+                "file": "3. The Party/Session Journals/Meeting Strahd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Templates/Templater/DM Prep/Session Journal.md"
+                "file": "3. The Party/Session Journals/Meeting Strahd.md"
               }
             }
           },
@@ -190,10 +191,10 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "3465d9b7d6d8adef",
+  "active": "550f34518b9933f3",
   "lastOpenFiles": [
-    "3. The Party/Session Journals/Meeting Strahd.md",
     "z_Templates/Templater/DM Prep/Session Journal.md",
+    "3. The Party/Session Journals/Meeting Strahd.md",
     "3. The Party/Parties/Parties.md",
     "3. The Party/Session Journals/New Session.md",
     "3. The Party/Session Journals/Never Trust a Hunter.md",
