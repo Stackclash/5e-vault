@@ -161,9 +161,16 @@
               "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
+          },
+          {
+            "id": "807a0e10d41994e2",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -188,10 +195,12 @@
       "obsidian-5e-statblocks:Open Creature Pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "obsidian42-brat:BRAT": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "550f34518b9933f3",
+  "active": "807a0e10d41994e2",
   "lastOpenFiles": [
     "z_Templates/Templater/DM Prep/Session Journal.md",
     "3. The Party/Session Journals/Meeting Strahd.md",
