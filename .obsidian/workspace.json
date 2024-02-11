@@ -11,9 +11,11 @@
             "id": "3465d9b7d6d8adef",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "3. The Party/Parties/Parties.md"
+                "file": "z_Templates/Templater/DM Prep/Session Journal.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -98,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/Parties/Parties.md",
+                "file": "z_Templates/Templater/DM Prep/Session Journal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/Parties/Parties.md",
+                "file": "z_Templates/Templater/DM Prep/Session Journal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/Parties/Parties.md"
+                "file": "z_Templates/Templater/DM Prep/Session Journal.md"
               }
             }
           },
@@ -190,8 +192,9 @@
   },
   "active": "3465d9b7d6d8adef",
   "lastOpenFiles": [
-    "z_Templates/Templater/DM Prep/Session Journal.md",
     "3. The Party/Session Journals/Meeting Strahd.md",
+    "z_Templates/Templater/DM Prep/Session Journal.md",
+    "3. The Party/Parties/Parties.md",
     "3. The Party/Session Journals/New Session.md",
     "3. The Party/Session Journals/Never Trust a Hunter.md",
     "3. The Party/Session Journals/Making Friends with the Necromancer.md",
@@ -218,7 +221,6 @@
     "4. World Almanac/Regions/Barovia.md",
     "4. World Almanac/Settlements/Village of Barovia.md",
     "4. World Almanac/Regions/Regions.md",
-    "4. World Almanac/NPCs/Baba Lysaga.md",
     "z_Templates/Text Generator/default",
     "z_Templates/Text Generator/trash/default",
     "z_Templates/Text Generator/dalle",
