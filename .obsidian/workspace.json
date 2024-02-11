@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. The Party/Session Journals/Welcome to Barovia.md",
-                "mode": "source",
+                "file": "3. The Party/Session Journals/The Mob of Vallaki.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/Session Journals/Welcome to Barovia.md",
+                "file": "3. The Party/Session Journals/The Mob of Vallaki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/Session Journals/Welcome to Barovia.md",
+                "file": "3. The Party/Session Journals/The Mob of Vallaki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/Session Journals/Welcome to Barovia.md"
+                "file": "3. The Party/Session Journals/The Mob of Vallaki.md"
               }
             }
           },
@@ -205,6 +205,7 @@
   },
   "active": "3465d9b7d6d8adef",
   "lastOpenFiles": [
+    "3. The Party/Session Journals/Welcome to Barovia.md",
     "3. The Party/Session Journals/Session Journals.md",
     "conflict-files-obsidian-git.md",
     "3. The Party/Session Prep",
@@ -233,7 +234,6 @@
     "z_Templates/Text Generator/default/getTags.md",
     "z_Templates/Text Generator/default/getParagraph.md",
     "z_Templates/Text Generator/default/getOutline.md",
-    "z_Templates/Text Generator/default/getIdeas.md",
     "z_Templates/Text Generator/default",
     "z_Templates/Text Generator/trash/default",
     "z_Templates/Text Generator/dalle",
