@@ -10,7 +10,7 @@ statblock: inline
 aliases: ["Star Spawn Hulk"]
 ---
 # [[5. Mechanics/Bestiary/Aberration/Star Spawn Hulk (MPMM).md|Star Spawn Hulk]]
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 227*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 227, Mordenkainen's Tome of Foes p. 234*  
 
 The hulk is one of the largest of the known star spawn, with glistening, translucent skin. Pale and seemingly lidless eyes glare balefully from a face distorted by too many teeth and too little nose. Hulks are seldom encountered without a commanding star spawn seer (also in this book) nearby. A hulk appears to have little will of its own and is driven to protect its master.
 

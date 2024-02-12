@@ -10,7 +10,7 @@ statblock: inline
 aliases: ["Fire Elemental Myrmidon"]
 ---
 # [[5. Mechanics/Bestiary/Elemental/Fire Elemental Myrmidon (MPMM).md|Fire Elemental Myrmidon]]
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 123*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 123, Mordenkainen's Tome of Foes p. 203*  
 
 ## Elemental Myrmidons
 

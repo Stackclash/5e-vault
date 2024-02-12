@@ -11,7 +11,7 @@ statblock: inline
 aliases: ["Merrenoloth"]
 ---
 # [[5. Mechanics/Bestiary/Fiend/Merrenoloth (MPMM).md|Merrenoloth]]
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 180*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 180, Mordenkainen's Tome of Foes p. 250*  
 
 The grim captains of the ferries on the River Styx, merrenoloths can navigate safely through the worst storms and always stay on course. Wielding fiery oars, merrenoloths strike fear into anyone who forcefully boards their vessels.
 

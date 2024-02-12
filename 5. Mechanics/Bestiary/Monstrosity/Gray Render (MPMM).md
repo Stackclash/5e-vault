@@ -12,7 +12,7 @@ statblock: inline
 aliases: ["Gray Render"]
 ---
 # [[5. Mechanics/Bestiary/Monstrosity/Gray Render (MPMM).md|Gray Render]]
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 146*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 146, Mordenkainen's Tome of Foes p. 209*  
 
 A curious impulse drives the gray render. Despite its hulking form and terrible appetite, it wants most of all to bond with an intelligent creature and, once bonded, to give its life to protect that creature. Great strength and a ferocious nature make gray renders fierce guardians, but they lack a shred of cunning.
 

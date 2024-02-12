@@ -10,7 +10,7 @@ statblock: inline
 aliases: ["Githzerai Anarch"]
 ---
 # [[5. Mechanics/Bestiary/Humanoid/Githzerai Anarch (MPMM).md|Githzerai Anarch]]
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 142*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 142, Mordenkainen's Tome of Foes p. 207*  
 
 Anarchs are githzerai sages and mystics who lead communities and maintain the adamantine citadels that serve as strong points in Limbo and on other planes. They have formidable psionic capabilities and are able to manipulate the unformed substance of their adopted plane with a thought.
 

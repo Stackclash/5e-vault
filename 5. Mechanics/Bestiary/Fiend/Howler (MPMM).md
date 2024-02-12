@@ -14,7 +14,7 @@ statblock: inline
 aliases: ["Howler"]
 ---
 # [[5. Mechanics/Bestiary/Fiend/Howler (MPMM).md|Howler]]
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 155*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 155, Mordenkainen's Tome of Foes p. 210*  
 
 > [!quote]- A quote from Mordenkainen  
 > 

@@ -14,7 +14,7 @@ statblock: inline
 aliases: ["Rot Troll"]
 ---
 # [[5. Mechanics/Bestiary/Giant/Rot Troll (MPMM).md|Rot Troll]]
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 247*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 247, Mordenkainen's Tome of Foes p. 244*  
 
 A troll infused with waves of necrotic energy as it regenerates can develop a symbiotic relationship with that deathly power. The troll's body wither and the flesh falls away from the body as quickly, as it forms. Eventually a rot troll becomes unable to regenerate, though the troll still heals normally. The creature courses with necrotic energy; simply standing near a rot troll exposes other creatures to lethal emanations.
 

@@ -10,7 +10,7 @@ statblock: inline
 aliases: ["Star Spawn Mangler"]
 ---
 # [[5. Mechanics/Bestiary/Aberration/Star Spawn Mangler (MPMM).md|Star Spawn Mangler]]
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 229*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 229, Mordenkainen's Tome of Foes p. 236*  
 
 > [!quote]- A quote from Mordenkainen  
 > 

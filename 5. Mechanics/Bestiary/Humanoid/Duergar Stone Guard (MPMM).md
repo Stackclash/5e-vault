@@ -12,7 +12,7 @@ statblock: inline
 aliases: ["Duergar Stone Guard"]
 ---
 # [[5. Mechanics/Bestiary/Humanoid/Duergar Stone Guard (MPMM).md|Duergar Stone Guard]]
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 110*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 110, Mordenkainen's Tome of Foes p. 191*  
 
 Stone guards are elite troops deployed in small numbers to bolster war bands of regulars or organized into elite strike forces for specific missions.
 
