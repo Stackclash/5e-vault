@@ -28,11 +28,28 @@ prep-notes:
 Brief session overview.
 
 ## Key Learnings
-Description of any important information that the party learned.
-Who Did They Meet?
+- Cultists that lived in the Death House looked up to [[Strahd Von Zarovich]]
+- Thorn and Rose are ghosts of children that lived in the Death House
 
 ## Items Of Importance
-Description
+- Found in the secret door in the Library
+	- A deed to the death house
+	- A deed to a windmill
+	- A letter from [[Strahd Von Zarovich]]
+	- 3 blank black books (25gp each) - [[Marin]] 
+	- three spell scrolls ([bless](app://obsidian.md/5.%20Mechanics/Spells/Bless.md), [protection from poison](app://obsidian.md/5.%20Mechanics/Spells/Protection%20From%20Poison.md), and [spiritual weapon](app://obsidian.md/5.%20Mechanics/Spells/Spiritual%20Weapon.md)) - [[Marin]] 
 
 ## What Happened
-Small description.
+- The party finds themselves forced together by a creepy mystical fog
+- They come to the [[Village of Barovia]] and her a small boy crying
+- Thorn and Rose bring the party to the Death House.
+- The children beg them to save their small brother, Walter
+- The party goes in when the doors shut behind them.
+- They try to force the door open and eventually blast it open with fire.
+- When outside they decide to go back in for Walter
+- While exploring the house, [[Yevelda Ovak]] continuously looks for secrets under rugs.
+- The party has a short encounter with a enchanted armor
+- They make their way to the attic where they find the room that the children were kept.
+	- The party takes the bones of the children to put to rest
+- Guided by the ghost of Rose they find the secret door to the basement
+- In the basement they find the crypts of the family that owned the house.

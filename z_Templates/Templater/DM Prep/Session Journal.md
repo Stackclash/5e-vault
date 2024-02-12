@@ -39,5 +39,5 @@ Who Did They Meet?
 ## Items Of Importance
 Description
 
-## What Happe
+## What Happened
 Small description.
