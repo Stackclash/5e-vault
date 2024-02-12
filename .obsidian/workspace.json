@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "52beebea32192766",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "5350fdd0d673d361",
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Mechanics/Deities/Drow Eilistraee.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Mechanics/Deities/Drow Eilistraee.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Mechanics/Deities/Drow Eilistraee.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -218,8 +231,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "3465d9b7d6d8adef",
+  "active": "52beebea32192766",
   "lastOpenFiles": [
+    "5. Mechanics/Deities/Drow Eilistraee.md",
+    "conflict-files-obsidian-git.md",
     "5. Mechanics/Deities/Deities.md",
     "3. The Party/Session Journals/Session Journals.md",
     "3. The Party/Session Journals/Welcome to Barovia.md",
@@ -247,8 +262,6 @@
     "z_Templates/Text Generator/dalle/ligStudio.md",
     "z_Templates/Text Generator/dalle/dall-e-core.md",
     "4. World Almanac/NPCs/Danika Dorakova.md",
-    "z_Templates/Text Generator/dalle/artPixel.md",
-    "z_Templates/Text Generator/default/rewrite.md",
     "z_Templates/Text Generator/default",
     "z_Templates/Text Generator/trash/default",
     "z_Templates/Text Generator/dalle",
