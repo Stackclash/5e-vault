@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 date: 2023-07-08
-summary: 
+summary: Players were drawn together by mysterious fog and lured by the ghosts of two children into a haunted mansion.
 fc-date: 973-2-11
 timelines:
   - CoS
@@ -25,7 +25,7 @@ prep-notes:
 > | **Timelines:** | `INPUT[inlineList:timelines]` |
 # `=this.file.name`
 ## Session Overview
-Brief session overview.
+`INPUT[textArea:summary]`
 
 ## Key Learnings
 - Cultists that lived in the Death House looked up to [[Strahd Von Zarovich]]

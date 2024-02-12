@@ -41,7 +41,7 @@ columns:
     isHidden: false
     sortIndex: 1
     isSorted: true
-    isSortedDesc: true
+    isSortedDesc: false
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -123,6 +123,7 @@ columns:
     width: 190
     options:
       - { label: "Curse of Strahd", value: "Curse of Strahd", color: "hsl(222, 95%, 90%)"}
+      - { label: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]", value: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]", color: "hsl(18, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -183,6 +184,7 @@ columns:
     sortIndex: -1
     options:
       - { label: "COS", value: "COS", color: "hsl(192, 95%, 90%)"}
+      - { label: "CoS", value: "CoS", color: "hsl(228, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

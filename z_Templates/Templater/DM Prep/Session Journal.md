@@ -27,10 +27,8 @@ prep-notes:
 > | **End Date:** | `INPUT[text:fc-end]` |
 > | **Timelines:** | `INPUT[inlineList:timelines]` |
 # `=this.file.name`
-## Characters 
-
 ## Session Overview
-Brief session overview.
+`INPUT[textArea:summary]`
 
 ## Key Learnings
 Description of any important information that the party learned.
