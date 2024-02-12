@@ -13,7 +13,7 @@ aliases: ["Umber Hulk"]
 | DC | Item | Description | Value | Weight | Crafting |
 |----|------|-------------|-------|--------|----------|
 | 5 | Umber Hulk Guts | The guts of an umber hulk are a key ingredient in a dye often found in Underdark society known as "umber dusk". This smoky grey colour is usually used as a form of camouflage paint for Underdark denizens, but its captivating depth has gained some popularity on the surface as well. | 5 gp | 10 lb | — |
-| 10 | Umber Hulk Mandibles | The razor sharp mandibles of an umber hulk have been the end of many Underdark adventurers. They have been repurposed for many things in Underdark societies, including farming, saws, fishing hooks, and of course, weapons. | 11 gp | 6 lb | +1 Sickle |
-| 15 | Umber Hulk Carapace | Harder than steel, and yet flexible and breathable, an Umber Hulk's carapace makes for a useful armor. Underdark societies that lack access to fuel for smelting can often be found wearing plates of Umber Hulk carapace instead. | 25 gp | 70 lb | +1 Plate Armor |
+| 10 | Umber Hulk Mandibles | The razor sharp mandibles of an umber hulk have been the end of many Underdark adventurers. They have been repurposed for many things in Underdark societies, including farming, saws, fishing hooks, and of course, weapons. | 11 gp | 6 lb | [+1 Sickle](compendium/items/1-weapon.md) |
+| 15 | Umber Hulk Carapace | Harder than steel, and yet flexible and breathable, an Umber Hulk's carapace makes for a useful armor. Underdark societies that lack access to fuel for smelting can often be found wearing plates of Umber Hulk carapace instead. | 25 gp | 70 lb | [+1 Plate Armor](compendium/items/1-armor.md) |
 | 20 | Umber Hulk Eye (×2) | The notorious eyes of an Umber Hulk are filled with a bewitching magic that confuses even the most seasoned of adventurers. | 70 gp | 3 lb | [[5. Mechanics/Items/Wand Of Confusion Hhhvi.md\|Wand of Confusion]] |
 ^dc-item-description-value-weight-crafting

@@ -12,12 +12,12 @@ aliases: ["Goblin Trinket Table"]
 
 | dice: d8 | Item | Value | Weight |
 |----------|------|-------|--------|
-| 1 | `dice: 1d4\|avg` (`1d4`) days' worth of rations | 5 sp | 2 lb |
+| 1 | `dice: 1d4\|avg` (`1d4`) days' worth of [[5. Mechanics/Items/Rations-1 Day.md\|rations]] | 5 sp | 2 lb |
 | 2 | 1 wooden idol of Maglubiyet | 2 sp | 5 lb |
 | 3 | 1 rat on a stick | 2 cp | 2 lb |
 | 4 | `dice: 1d4\|avg` (`1d4`) string of animal trophies | 8 cp | 1 lb |
 | 5 | `dice: 1d4\|avg` (`1d4`) shiny trinkets | 2 sp | 2 lb |
-| 6 | 1 iron flask of cheap liquor | 5 sp | 2 lb |
+| 6 | 1 iron [[5. Mechanics/Items/Flask.md\|flask]] of cheap liquor | 5 sp | 2 lb |
 | 7 | 1 tattered children's toy | 2 sp | 2 lb |
-| 8 | `dice: 3d100\|avg` (`3d100`) copper pieces | Varies | Varies |
+| 8 | `dice: 3d100\|avg` (`3d100`) [[5. Mechanics/Items/Copper Cp.md\|copper pieces]] | Varies | Varies |
 ^item-value-weight

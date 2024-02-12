@@ -33,7 +33,7 @@ The manticores' greatest territorial rivals include chimeras, griffons, perytons
 
 > [!quote]- A quote from Marthok Uldarr, dwarf copper merchant  
 > 
-> Manticores love the taste of human flesh. That's why, on trips through the moutnains, I always travel with human guards.
+> Manticores love the taste of human flesh. That's why, on trips through the mountains, I always travel with human guards.
 
 
 ```statblock

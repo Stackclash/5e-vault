@@ -12,7 +12,7 @@ aliases: ["Kuo-Toa Trinket Table"]
 
 | dice: d8 | Item | Value | Weight |
 |----------|------|-------|--------|
-| 1 | `dice: 1d4\|avg` (`1d4`) days' worth of rations (dried fish and seaweed) | 5 sp | 2 lb |
+| 1 | `dice: 1d4\|avg` (`1d4`) days' worth of [[5. Mechanics/Items/Rations-1 Day.md\|rations]] (dried fish and seaweed) | 5 sp | 2 lb |
 | 2 | `dice: 2d4\|avg` (`2d4`) pieces of homemade jewelery | 1 sp | 1 lb |
 | 3 | 1 driftwood idol | 3 sp | 2 lb |
 | 4 | `dice: 1d4\|avg` (`1d4`) pieces of salvaged jewelery | 2 gp | 2 lb |

@@ -13,10 +13,10 @@ aliases: ["Harvester Domain Spells"]
 | Cleric Level | Spells |
 |--------------|--------|
 | 1st | [[5. Mechanics/Spells/Hamunds Harvesting Hands Hhhvii.md\|hamund's harvesting hands]]*, [[5. Mechanics/Spells/Identify Vitals Hhhvii.md\|identify vitals]]* |
-| 3rd | locate animals or plants, [[5. Mechanics/Spells/Transfusion Hhhvii.md\|transfusion]]* |
-| 5th | [[5. Mechanics/Spells/Recomposition Hhhvii.md\|recomposition]]*, slow |
-| 7th | [[5. Mechanics/Spells/Cold Storage Hhhvii.md\|cold storage]]*, locate creature |
-| 9th | [[5. Mechanics/Spells/Conjure Creature Hhhvii.md\|conjure creature]]*, hold monster |
+| 3rd | [[5. Mechanics/Spells/Locate Animals Or Plants.md\|locate animals or plants]], [[5. Mechanics/Spells/Transfusion Hhhvii.md\|transfusion]]* |
+| 5th | [[5. Mechanics/Spells/Recomposition Hhhvii.md\|recomposition]]*, [[5. Mechanics/Spells/Slow.md\|slow]] |
+| 7th | [[5. Mechanics/Spells/Cold Storage Hhhvii.md\|cold storage]]*, [[5. Mechanics/Spells/Locate Creature.md\|locate creature]] |
+| 9th | [[5. Mechanics/Spells/Conjure Creature Hhhvii.md\|conjure creature]]*, [[5. Mechanics/Spells/Hold Monster.md\|hold monster]] |
 ^cleric-level-spells
 
 > [!note]

@@ -13,10 +13,10 @@ aliases: ["Oath of Legacy Spells"]
 | Paladin Level | Spells |
 |---------------|--------|
 | 1st | [[5. Mechanics/Spells/Hamunds Harvesting Hands Hhhvii.md\|hamund's harvesting hands]]*, [[5. Mechanics/Spells/Identify Vitals Hhhvii.md\|identify vitals]]* |
-| 5th | gentle repose, [[5. Mechanics/Spells/Transfusion Hhhvii.md\|transfusion]]* |
+| 5th | [[5. Mechanics/Spells/Gentle Repose.md\|gentle repose]], [[5. Mechanics/Spells/Transfusion Hhhvii.md\|transfusion]]* |
 | 9th | life transference, [[5. Mechanics/Spells/Recomposition Hhhvii.md\|recomposition]]* |
-| 13th | death ward, divination |
-| 17th | [[5. Mechanics/Spells/Conjure Creature Hhhvii.md\|conjure creature]]*, legend lore |
+| 13th | [[5. Mechanics/Spells/Death Ward.md\|death ward]], [[5. Mechanics/Spells/Divination.md\|divination]] |
+| 17th | [[5. Mechanics/Spells/Conjure Creature Hhhvii.md\|conjure creature]]*, [[5. Mechanics/Spells/Legend Lore.md\|legend lore]] |
 ^paladin-level-spells
 
 > [!note]
