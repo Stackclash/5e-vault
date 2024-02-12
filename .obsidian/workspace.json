@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2ef106342e1de371",
+        "id": "5350fdd0d673d361",
         "type": "tabs",
         "children": [
           {
-            "id": "3465d9b7d6d8adef",
+            "id": "5aa876427148f367",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Mechanics/Deities/Drow Eilistraee.md",
+                "file": "3. The Party/Session Journals/Welcome to Barovia.md",
                 "mode": "preview",
                 "source": false
               }
@@ -22,11 +22,11 @@
         ]
       },
       {
-        "id": "5350fdd0d673d361",
+        "id": "34d520a1c221be48",
         "type": "tabs",
         "children": [
           {
-            "id": "5aa876427148f367",
+            "id": "13149eb3a980d82f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "68a7579a19bc6383",
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Mechanics/Deities/Drow Eilistraee.md",
+                "file": "3. The Party/Session Journals/Welcome to Barovia1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Mechanics/Deities/Drow Eilistraee.md",
+                "file": "3. The Party/Session Journals/Welcome to Barovia1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Mechanics/Deities/Drow Eilistraee.md"
+                "file": "3. The Party/Session Journals/Welcome to Barovia1.md"
               }
             }
           },
@@ -218,13 +219,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "3465d9b7d6d8adef",
+  "active": "13149eb3a980d82f",
   "lastOpenFiles": [
+    "3. The Party/Session Journals/Welcome to Barovia.md",
+    "3. The Party/Session Journals/Welcome to Barovia1.md",
+    "5. Mechanics/Deities/Drow Eilistraee.md",
     "5. Mechanics/Deities/Deities.md",
     "3. The Party/Session Journals/Session Journals.md",
-    "3. The Party/Session Journals/Welcome to Barovia.md",
     "3. The Party/Players/Players.md",
-    "3. The Party/Session Journals/Welcome to Barovia1.md",
     "z_Templates/Templater/DM Prep/Session Journal.md",
     "1. DM Screen/1. DM Screen.md",
     "3. The Party/Untitled",
@@ -248,7 +250,6 @@
     "z_Templates/Text Generator/dalle/dall-e-core.md",
     "4. World Almanac/NPCs/Danika Dorakova.md",
     "z_Templates/Text Generator/dalle/artPixel.md",
-    "z_Templates/Text Generator/default/rewrite.md",
     "z_Templates/Text Generator/default",
     "z_Templates/Text Generator/trash/default",
     "z_Templates/Text Generator/dalle",
