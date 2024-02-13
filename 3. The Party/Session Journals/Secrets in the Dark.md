@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 date: 2023-07-22T00:00:00-05:00
-summary: 
+summary: Exploring the basement of the mansion. They find dark ritual items and an altar made for sacrifices. After refusing to sacrifice something they battle a large monster.
 fc-date: 973-2-11
 timelines:
   - CoS
@@ -25,11 +25,10 @@ prep-notes:
 > | **Timelines:** | `INPUT[inlineList:timelines]` |
 # `=this.file.name`
 ## Session Overview
-Brief session overview.
+`INPUT[textArea:summary]`
 
 ## Key Learnings
-Description of any important information that the party learned.
-Who Did They Meet?
+
 
 ## Items Of Importance
 Description
