@@ -1,0 +1,122 @@
+{
+  "targetAttributes": [],
+  "targetTags": true,
+  "getFromInlineField": true,
+  "enableTabHeader": true,
+  "activateSnippet": true,
+  "enableEditor": true,
+  "enableFileList": true,
+  "enableBacklinks": true,
+  "enableQuickSwitcher": true,
+  "enableSuggestor": true,
+  "selectors": [
+    {
+      "type": "path",
+      "name": "NoteIcon",
+      "value": "5. Mechanics/Bestiary",
+      "matchCaseSensitive": false,
+      "match": "startswith",
+      "uid": "5b00-5324",
+      "selectText": false,
+      "selectAppend": false,
+      "selectPrepend": true,
+      "selectBackground": false
+    },
+    {
+      "type": "path",
+      "name": "NoteIcon",
+      "value": "5. Mechanics/Items",
+      "matchCaseSensitive": false,
+      "match": "startswith",
+      "uid": "bf11-4f75",
+      "selectText": false,
+      "selectAppend": false,
+      "selectPrepend": true,
+      "selectBackground": false
+    },
+    {
+      "type": "path",
+      "name": "NoteIcon",
+      "value": "5. Mechanics/Races",
+      "matchCaseSensitive": false,
+      "match": "startswith",
+      "uid": "8cd7-82fe",
+      "selectText": false,
+      "selectAppend": false,
+      "selectPrepend": true,
+      "selectBackground": false
+    },
+    {
+      "type": "path",
+      "name": "NoteIcon",
+      "value": "5. Mechanics/Tables",
+      "matchCaseSensitive": false,
+      "match": "startswith",
+      "uid": "68e0-6bd3",
+      "selectText": false,
+      "selectAppend": false,
+      "selectPrepend": true,
+      "selectBackground": false
+    },
+    {
+      "type": "path",
+      "name": "NoteIcon",
+      "value": "5. Mechanics/Spells",
+      "matchCaseSensitive": false,
+      "match": "startswith",
+      "uid": "7753-2134",
+      "selectText": false,
+      "selectAppend": false,
+      "selectPrepend": true,
+      "selectBackground": false
+    },
+    {
+      "type": "path",
+      "name": "",
+      "value": "3. The Party/Players",
+      "matchCaseSensitive": false,
+      "match": "startswith",
+      "uid": "65a7-afcb",
+      "selectText": false,
+      "selectAppend": false,
+      "selectPrepend": true,
+      "selectBackground": false
+    },
+    {
+      "type": "path",
+      "name": "",
+      "value": "3. The Party/Session Logs",
+      "matchCaseSensitive": false,
+      "match": "startswith",
+      "uid": "4a6f-4872",
+      "selectText": false,
+      "selectAppend": false,
+      "selectPrepend": true,
+      "selectBackground": false
+    },
+    {
+      "type": "path",
+      "name": "",
+      "value": "3. The Party/Quests",
+      "matchCaseSensitive": false,
+      "match": "startswith",
+      "uid": "9934-88e3",
+      "selectText": false,
+      "selectAppend": false,
+      "selectPrepend": true,
+      "selectBackground": false
+    },
+    {
+      "type": "path",
+      "name": "",
+      "value": "3. The Party/Parties",
+      "matchCaseSensitive": false,
+      "match": "startswith",
+      "uid": "a3ec-73d2",
+      "selectText": false,
+      "selectAppend": false,
+      "selectPrepend": true,
+      "selectBackground": false
+    }
+  ]
+}
