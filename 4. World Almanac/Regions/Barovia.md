@@ -84,7 +84,10 @@ TBD
 > scale: 1
 > darkMode: false
 > marker:
-> - village, 4.5, 14.37, [[Village of Barovia]]
+> - village, 4.43, 14.37, [[Village of Barovia]]
+> - village, 7.6, 7.2733, [[Vallaki]]
+> - village, 8, 2.0379, [[Krezk]]
+> - village, 
 > ```
 
 ```dataviewjs
