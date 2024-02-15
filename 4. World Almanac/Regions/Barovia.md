@@ -87,7 +87,9 @@ TBD
 > - village, 4.43, 14.37, [[Village of Barovia]]
 > - village, 7.6, 7.2733, [[Vallaki]]
 > - village, 8, 2.0379, [[Krezk]]
-> - village, 
+> - castle, 5.6302, 13.0019, [[Castle Ravenloft]]
+> - village, 6.2077, 2.0323, [[The Wizard of Wines]]
+> - village, 4.528, 11.9744, [[Tser Pool]]
 > ```
 
 ```dataviewjs
