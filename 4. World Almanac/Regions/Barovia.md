@@ -90,7 +90,7 @@ TBD
 > - castle, 5.6302, 13.0019, [[Castle Ravenloft]]
 > - village, 6.2077, 2.0323, [[The Wizard of Wines]]
 > - village, 4.528, 11.9744, [[Tser Pool]]
-> - village, 8.3729, 4.2887, [[Van Richten's Tower]]
+> - tower, 8.3729, 4.2887, [[Van Richten's Tower]]
 > - village, 8.6254, 7.7459, [[Lake Zarovich]]
 > ```
 
