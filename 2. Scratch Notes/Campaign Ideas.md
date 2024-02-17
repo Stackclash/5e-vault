@@ -4,4 +4,9 @@
 - [[Faerah Duskrane]]  is reached out to by [[Drow Eilistraee|Eilistraee]]. She gives her the task of freeing the people of Barovia
 - [[Yevelda Ovak]] is a member of a clan of Barbarians that used to live in Barovia.
 	- How to tie her dead parents to Barovia?
-- Selvi
+	- Clues?
+- [[Seluvis Felo'melorn]]???
+- Morally gray reason [[Strahd Von Zarovich]] kills and torments the people of Barovia?
+	- Trying to keep the entities of [[The Amber Temple]] trapped?
+	- Cursed with Vampirism out of revenge by the entities?
+		- Doesn't tie in well with him killing his brother.
