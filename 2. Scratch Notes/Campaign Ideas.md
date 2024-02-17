@@ -1,0 +1,7 @@
+- [[Redgrave|Redgrave's]] soul is a member of the Order of the Silver Dragon
+- [[Marin|Marin's]] patron is a trapped entity in the Amber Temple. It wants her help escaping
+	- Maybe visions of the Amber Temple?
+- [[Faerah Duskrane]]  is reached out to by [[Drow Eilistraee|Eilistraee]]. She gives her the task of freeing the people of Barovia
+- [[Yevelda Ovak]] is a member of a clan of Barbarians that used to live in Barovia.
+	- How to tie her dead parents to Barovia?
+- Selvi
