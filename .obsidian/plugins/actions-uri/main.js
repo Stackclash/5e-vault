@@ -8254,6 +8254,8 @@ var STRINGS = {
   dataview_dql_must_start_with_table: 'DQL must start with "TABLE"',
   dataview_plugin_not_available: "Dataview plugin is not active",
   delete_done: "Successfully deleted",
+  file_not_found: "File couldn't be found",
+  file_opened: "File opened",
   folder_created: "Folder created",
   global_search_feature_not_available: "Global Search plugin is not active",
   monthly_note: {
@@ -8282,6 +8284,7 @@ var STRINGS = {
   search_pattern_not_found: "Search pattern wasn't found, nothing replaced",
   search_pattern_unparseable: "Search pattern is not correctly formed",
   search_string_not_found: "Search string wasn't found, nothing replaced",
+  touch_done: "Successfully touched",
   trash_done: "Successfully moved to trash",
   unable_to_read_note: "Can't read note file",
   unable_to_write_note: "Can't write note file",
@@ -12135,6 +12138,13 @@ async function pause(milliseconds) {
 
 // src/utils/ui.ts
 var import_obsidian = require("obsidian");
+function allWorkspaceRootSplitLeaves() {
+  const allLeaves = [];
+  activeWorkspace().iterateRootLeaves((leaf) => {
+    allLeaves.push(leaf);
+  });
+  return allLeaves;
+}
 function showBrandedNotice(msg) {
   new import_obsidian.Notice(`[Actions URI] ${msg}`);
 }
@@ -12145,33 +12155,38 @@ function logErrorToConsole(...data) {
   console.error("[Actions URI]", ...data);
 }
 function focusLeafWithFile(filepath) {
-  const { workspace } = window.app;
-  const leaf = workspace.getLeavesOfType("markdown").find((leaf2) => {
+  const leaf = allWorkspaceRootSplitLeaves().find((leaf2) => {
     var _a;
     return ((_a = leaf2.view.file) == null ? void 0 : _a.path) === filepath;
   });
   if (!leaf) {
     return failure(405, "File currently not open");
   }
-  workspace.setActiveLeaf(leaf, { focus: true });
+  activeWorkspace().setActiveLeaf(leaf, { focus: true });
   return success("Open file found and focussed");
 }
-async function focusOrOpenNote(filepath) {
+async function focusOrOpenFile(filepath) {
   const res = focusLeafWithFile(filepath);
   if (res.isSuccess) {
     return res;
   }
-  const res1 = await getNoteFile(filepath);
+  const res1 = await getFile(filepath);
   if (res1.isSuccess) {
-    window.app.workspace.getLeaf(true).openFile(res1.result);
+    activeWorkspace().getLeaf(true).openFile(res1.result);
     return success(STRINGS.note_opened);
   }
   return failure(404, STRINGS.note_not_found);
 }
 
 // src/utils/file-handling.ts
+function app() {
+  return window.app;
+}
 function activeVault() {
-  return window.app.vault;
+  return app().vault;
+}
+function activeWorkspace() {
+  return app().workspace;
 }
 async function createNote(filepath, content) {
   filepath = sanitizeFilePath(filepath);
@@ -12209,7 +12224,7 @@ async function createOrOverwriteNote(filepath, content) {
 }
 async function getNoteContent(filepath) {
   const vault = activeVault();
-  const res = await getNoteFile(filepath);
+  const res = await getNote(filepath);
   if (!res.isSuccess) {
     return res;
   }
@@ -12217,7 +12232,7 @@ async function getNoteContent(filepath) {
   return typeof noteContent === "string" ? success(noteContent) : failure(400, STRINGS.unable_to_read_note);
 }
 async function getNoteDetails(filepath) {
-  const res = await getNoteFile(filepath);
+  const res = await getNote(filepath);
   if (!res.isSuccess) {
     return res;
   }
@@ -12236,13 +12251,13 @@ async function getNoteDetails(filepath) {
     properties: propertiesForFile(file)
   });
 }
-function sanitizeFilePath(filename, isFolder = false) {
+function sanitizeFilePath(filename, isNote = true) {
   filename = filename.replace(/[:#^[]|]/g, "-");
   filename = (0, import_obsidian2.normalizePath)(filename).split("/").map((seg) => seg.trim()).join("/").replace(/^[\/\.]+/g, "");
-  return isFolder || /\.(md|canvas)/i.test(extname(filename)) ? filename : `${filename}.md`;
+  return isNote && !/\.(md|canvas)/i.test(extname(filename)) ? `${filename}.md` : filename;
 }
 async function updateNote(filepath, newFrontMatter, newBody) {
-  const res = await getNoteFile(filepath);
+  const res = await getNote(filepath);
   if (!res.isSuccess) {
     return res;
   }
@@ -12268,6 +12283,16 @@ async function updateNote(filepath, newFrontMatter, newBody) {
     frontMatter,
     properties: propertiesForFile(file)
   });
+}
+async function touchNote(filepath) {
+  const res = await getNote(filepath);
+  if (!res.isSuccess)
+    return res;
+  const res2 = await getNoteDetails(filepath);
+  if (!res2.isSuccess)
+    return res2;
+  await activeVault().modify(res.result, res2.result.content);
+  return res;
 }
 async function searchAndReplaceInNote(filepath, searchTerm, replacement) {
   const res = await getNoteContent(filepath);
@@ -12300,13 +12325,13 @@ async function appendNoteBelowHeadline(filepath, belowHeadline, textToAppend) {
     return res;
   }
   const newContent = res.result.split(/(?=^#+ )/m).map((section) => {
+    var _a;
     if (!section.startsWith(belowHeadline)) {
       return section;
     }
-    if (!section.includes("\n")) {
-      section += "\n";
-    }
-    return endStringWithNewline(section + textToAppend);
+    return endStringWithNewline(
+      section.trim() + "\n" + textToAppend + ((_a = section.match(/\n+$/)) == null ? void 0 : _a[0]) || ""
+    );
   }).join("");
   const resFile = await createOrOverwriteNote(filepath, newContent);
   if (resFile.isSuccess) {
@@ -12361,20 +12386,24 @@ function getFileMap() {
   const { fileMap } = vault;
   return Object.values(fileMap);
 }
-async function getNoteFile(filepath) {
-  const vault = activeVault();
-  const file = vault.getAbstractFileByPath(sanitizeFilePath(filepath));
+async function getFile(filepath) {
+  const cleanPath = sanitizeFilePath(filepath, false);
+  const file = activeVault().getAbstractFileByPath(cleanPath);
+  return file instanceof import_obsidian2.TFile ? success(file) : failure(404, STRINGS.note_not_found);
+}
+async function getNote(filepath) {
+  const cleanPath = sanitizeFilePath(filepath);
+  const file = activeVault().getAbstractFileByPath(cleanPath);
   return file instanceof import_obsidian2.TFile ? success(file) : failure(404, STRINGS.note_not_found);
 }
 async function applyCorePluginTemplate(templateFile, note) {
-  const { app: app2 } = window;
   const pluginRes = getEnabledCorePlugin("templates");
   if (!pluginRes.isSuccess)
     return pluginRes;
   const pluginInstance = pluginRes.result;
-  await focusOrOpenNote(note.path);
+  await focusOrOpenFile(note.path);
   try {
-    const activeView = app2.workspace.getActiveViewOfType(import_obsidian2.MarkdownView);
+    const activeView = activeWorkspace().getActiveViewOfType(import_obsidian2.MarkdownView);
     if (activeView && (activeView == null ? void 0 : activeView.getMode()) !== "source") {
       await activeView.setState(
         { ...activeView.getState(), mode: "source" },
@@ -12425,7 +12454,7 @@ async function renameFilepath(filepath, newFilepath) {
 }
 async function createFolderIfNecessary(folder) {
   const vault = activeVault();
-  folder = sanitizeFilePath(folder, true);
+  folder = sanitizeFilePath(folder, false);
   if (folder === "" || folder === ".")
     return;
   if (vault.getAbstractFileByPath(folder) instanceof import_obsidian2.TFolder)
@@ -12434,7 +12463,7 @@ async function createFolderIfNecessary(folder) {
 }
 function propertiesForFile(file) {
   var _a;
-  return ((_a = app.metadataCache.getFileCache(file)) == null ? void 0 : _a.frontmatter) || {};
+  return ((_a = app().metadataCache.getFileCache(file)) == null ? void 0 : _a.frontmatter) || {};
 }
 async function createAndPause(filepath, content) {
   await activeVault().create(filepath, content);
@@ -12461,8 +12490,9 @@ var zodOptionalBoolean = z.preprocess(
   },
   z.boolean().optional()
 );
-var zodSanitizedFilePath = z.string().min(1, { message: "can't be empty" }).transform((file) => sanitizeFilePath(file));
-var zodSanitizedFolderPath = z.string().min(1, { message: "can't be empty" }).transform((file) => sanitizeFilePath(file, true));
+var zodSanitizedNotePath = z.string().min(1, { message: "can't be empty" }).transform((file) => sanitizeFilePath(file));
+var zodSanitizedFilePath = z.string().min(1, { message: "can't be empty" }).transform((file) => sanitizeFilePath(file, false));
+var zodSanitizedFolderPath = z.string().min(1, { message: "can't be empty" }).transform((file) => sanitizeFilePath(file, false));
 var zodJsonStringArray = z.string().refine((str) => {
   try {
     const value = JSON.parse(str);
@@ -12497,8 +12527,12 @@ var zodJsonPropertiesObject = z.string().refine((str) => {
   message: "Input must be a JSON-encoded object containing only values of type string, string array, number, boolean or null."
 }).transform((str) => JSON.parse(str));
 var zodCommaSeparatedStrings = z.string().min(1, { message: "can't be empty" }).transform((str) => str.split(",").map((item) => item.trim()));
+var zodExistingNotePath = z.preprocess(
+  lookupAbstractFileForNotePath,
+  z.instanceof(import_obsidian3.TFile, { message: "Note doesn't exist" })
+);
 var zodExistingFilePath = z.preprocess(
-  lookupAbstractFileForPath,
+  lookupAbstractFileForFilePath,
   z.instanceof(import_obsidian3.TFile, { message: "File doesn't exist" })
 );
 var zodExistingFolderPath = z.preprocess(
@@ -12511,11 +12545,18 @@ var zodAlwaysFalse = z.preprocess(
 );
 var zodUndefinedChangedToDefaultValue = (defaultValue) => z.undefined().refine((val) => val === void 0).transform(() => defaultValue);
 var zodEmptyStringChangedToDefaultString = (defaultString) => z.literal("").refine((val) => val === "").transform(() => defaultString);
-function lookupAbstractFileForPath(path) {
+function lookupAbstractFileForNotePath(path) {
   if (typeof path !== "string" || !path) {
     return null;
   }
   const filepath = sanitizeFilePath(path);
+  return activeVault().getAbstractFileByPath(filepath);
+}
+function lookupAbstractFileForFilePath(path) {
+  if (typeof path !== "string" || !path) {
+    return null;
+  }
+  const filepath = sanitizeFilePath(path, false);
   return activeVault().getAbstractFileByPath(filepath);
 }
 function lookupAbstractFolderForPath(path) {
@@ -12554,9 +12595,7 @@ var listParams = incomingBaseParams.extend({
 var executeParams = incomingBaseParams.extend({
   commands: zodCommaSeparatedStrings,
   "pause-in-secs": z.coerce.number().optional(),
-  silent: zodAlwaysFalse,
-  "x-error": z.string().url(),
-  "x-success": z.string().url()
+  silent: zodAlwaysFalse
 });
 var routePath = {
   "/command": [
@@ -12647,6 +12686,67 @@ function getArrayDimensions(input) {
   return dimensions;
 }
 
+// src/routes/file.ts
+var defaultParams = incomingBaseParams.extend({
+  "x-error": z.string().url(),
+  "x-success": z.string().url()
+});
+var openParams = incomingBaseParams.extend({
+  file: zodExistingFilePath,
+  silent: zodAlwaysFalse
+});
+var deleteParams = incomingBaseParams.extend({
+  file: zodExistingFilePath
+});
+var renameParams = incomingBaseParams.extend({
+  file: zodExistingFilePath,
+  "new-filename": zodSanitizedFilePath,
+  silent: zodOptionalBoolean
+});
+var routePath3 = {
+  "/file": [
+    helloRoute(),
+    { path: "/list", schema: defaultParams, handler: handleList2 },
+    { path: "/get-active", schema: defaultParams, handler: handleGetActive },
+    { path: "/open", schema: openParams, handler: handleOpen },
+    { path: "/delete", schema: deleteParams, handler: handleDelete },
+    { path: "/trash", schema: deleteParams, handler: handleTrash },
+    { path: "/rename", schema: renameParams, handler: handleRename }
+  ]
+};
+async function handleList2(incomingParams) {
+  return success({
+    paths: activeVault().getFiles().map((t) => t.path).sort()
+  });
+}
+async function handleGetActive(incomingParams) {
+  const res = activeWorkspace().getActiveFile();
+  return res ? success({ filepath: res.path }) : failure(404, "No active file");
+}
+async function handleOpen(incomingParams) {
+  const { file } = incomingParams;
+  const res = await getFile(file.path);
+  return res.isSuccess ? success({ message: STRINGS.file_opened }, file.path) : res;
+}
+async function handleDelete(incomingParams) {
+  const { file } = incomingParams;
+  const filepath = file.path;
+  const res = await trashFilepath(filepath, true);
+  return res.isSuccess ? success({ message: res.result }, filepath) : res;
+}
+async function handleTrash(incomingParams) {
+  const { file } = incomingParams;
+  const filepath = file.path;
+  const res = await trashFilepath(filepath);
+  return res.isSuccess ? success({ message: res.result }, filepath) : res;
+}
+async function handleRename(incomingParams) {
+  const params = incomingParams;
+  const filepath = params.file.path;
+  const res = await renameFilepath(filepath, params["new-filename"]);
+  return res.isSuccess ? success({ message: res.result }, filepath) : res;
+}
+
 // src/routes/folder.ts
 var import_obsidian4 = require("obsidian");
 var listParams2 = incomingBaseParams.extend({
@@ -12656,24 +12756,24 @@ var listParams2 = incomingBaseParams.extend({
 var createParams = incomingBaseParams.extend({
   folder: zodSanitizedFolderPath
 });
-var deleteParams = incomingBaseParams.extend({
+var deleteParams2 = incomingBaseParams.extend({
   folder: zodExistingFolderPath
 });
-var renameParams = incomingBaseParams.extend({
+var renameParams2 = incomingBaseParams.extend({
   folder: zodExistingFolderPath,
   "new-foldername": zodSanitizedFolderPath
 });
-var routePath3 = {
+var routePath4 = {
   "/folder": [
     helloRoute(),
-    { path: "/list", schema: listParams2, handler: handleList2 },
+    { path: "/list", schema: listParams2, handler: handleList3 },
     { path: "/create", schema: createParams, handler: handleCreate },
-    { path: "/rename", schema: renameParams, handler: handleRename },
-    { path: "/delete", schema: deleteParams, handler: handleDelete },
-    { path: "/trash", schema: deleteParams, handler: handleTrash }
+    { path: "/rename", schema: renameParams2, handler: handleRename2 },
+    { path: "/delete", schema: deleteParams2, handler: handleDelete2 },
+    { path: "/trash", schema: deleteParams2, handler: handleTrash2 }
   ]
 };
-async function handleList2(incomingParams) {
+async function handleList3(incomingParams) {
   const paths = getFileMap().filter((t) => t instanceof import_obsidian4.TFolder).map((t) => t.path.endsWith("/") ? t.path : `${t.path}/`).sort();
   return success({ paths });
 }
@@ -12683,20 +12783,20 @@ async function handleCreate(incomingParams) {
   await createFolderIfNecessary(folder);
   return success({ message: STRINGS.folder_created }, folder);
 }
-async function handleRename(incomingParams) {
+async function handleRename2(incomingParams) {
   const params = incomingParams;
   const { folder } = params;
   const folderpath = folder.path;
   const res = await renameFilepath(folderpath, params["new-foldername"]);
   return res.isSuccess ? success({ message: res.result }, folderpath) : res;
 }
-async function handleDelete(incomingParams) {
+async function handleDelete2(incomingParams) {
   const { folder } = incomingParams;
   const folderpath = folder.path;
   const res = await trashFilepath(folderpath, true);
   return res.isSuccess ? success({ message: res.result }, folderpath) : res;
 }
-async function handleTrash(incomingParams) {
+async function handleTrash2(incomingParams) {
   const { folder } = incomingParams;
   const folderpath = folder.path;
   const res = await trashFilepath(folderpath);
@@ -12708,18 +12808,18 @@ var import_obsidian5 = require("obsidian");
 
 // src/plugin-info.ts
 var PLUGIN_INFO = {
-  "pluginVersion": "1.4.2",
-  "pluginReleasedAt": "2023-12-12T18:03:44+0100"
+  "pluginVersion": "1.5.0",
+  "pluginReleasedAt": "2024-02-19T13:37:05+0100"
 };
 
 // src/routes/info.ts
-var defaultParams = incomingBaseParams.extend({
+var defaultParams2 = incomingBaseParams.extend({
   "x-error": z.string().url(),
   "x-success": z.string().url()
 });
-var routePath4 = {
+var routePath5 = {
   "/info": [
-    { path: "/", schema: defaultParams, handler: handleInfo }
+    { path: "/", schema: defaultParams2, handler: handleInfo }
   ]
 };
 async function handleInfo(incomingParams) {
@@ -12752,17 +12852,36 @@ var listParams3 = incomingBaseParams.extend({
   "x-success": z.string().url()
 });
 var readParams2 = incomingBaseParams.extend({
-  file: zodSanitizedFilePath,
+  file: zodSanitizedNotePath,
   silent: zodOptionalBoolean,
   "x-error": z.string().url(),
   "x-success": z.string().url()
 });
-var openParams = incomingBaseParams.extend({
-  file: zodExistingFilePath,
+var readActiveParams = incomingBaseParams.extend({
+  "x-error": z.string().url(),
+  "x-success": z.string().url()
+});
+var readNamedParams = incomingBaseParams.extend({
+  file: zodSanitizedNotePath,
+  "sort-by": z.enum([
+    "best-guess",
+    "path-asc",
+    "path-desc",
+    "ctime-asc",
+    "ctime-desc",
+    "mtime-asc",
+    "mtime-desc",
+    ""
+  ]).optional(),
+  "x-error": z.string().url(),
+  "x-success": z.string().url()
+});
+var openParams2 = incomingBaseParams.extend({
+  file: zodExistingNotePath,
   silent: zodAlwaysFalse
 });
 var createBaseParams = incomingBaseParams.extend({
-  file: zodSanitizedFilePath,
+  file: zodSanitizedNotePath,
   "if-exists": z.enum(["overwrite", "skip", ""]).optional(),
   silent: zodOptionalBoolean
 });
@@ -12773,11 +12892,11 @@ var createParams2 = z.discriminatedUnion("apply", [
   }),
   createBaseParams.extend({
     apply: z.literal("templater"),
-    "template-file": zodExistingFilePath
+    "template-file": zodExistingNotePath
   }),
   createBaseParams.extend({
     apply: z.literal("templates"),
-    "template-file": zodExistingFilePath
+    "template-file": zodExistingNotePath
   }),
   createBaseParams.extend({
     apply: zodEmptyStringChangedToDefaultString("content"),
@@ -12790,7 +12909,7 @@ var createParams2 = z.discriminatedUnion("apply", [
 ]);
 var appendParams = incomingBaseParams.extend({
   content: z.string(),
-  file: zodSanitizedFilePath,
+  file: zodSanitizedNotePath,
   silent: zodOptionalBoolean,
   "below-headline": z.string().optional(),
   "create-if-not-found": zodOptionalBoolean,
@@ -12798,39 +12917,50 @@ var appendParams = incomingBaseParams.extend({
 });
 var prependParams = incomingBaseParams.extend({
   content: z.string(),
-  file: zodSanitizedFilePath,
+  file: zodSanitizedNotePath,
   silent: zodOptionalBoolean,
   "below-headline": z.string().optional(),
   "create-if-not-found": zodOptionalBoolean,
   "ensure-newline": zodOptionalBoolean,
   "ignore-front-matter": zodOptionalBoolean
 });
+var touchParams = incomingBaseParams.extend({
+  file: zodSanitizedNotePath,
+  silent: zodOptionalBoolean
+});
 var searchAndReplaceParams = incomingBaseParams.extend({
-  file: zodExistingFilePath,
+  file: zodExistingNotePath,
   silent: zodOptionalBoolean,
   search: z.string().min(1, { message: "can't be empty" }),
   replace: z.string()
 });
-var deleteParams2 = incomingBaseParams.extend({
-  file: zodExistingFilePath
+var deleteParams3 = incomingBaseParams.extend({
+  file: zodExistingNotePath
 });
-var renameParams2 = incomingBaseParams.extend({
-  file: zodExistingFilePath,
-  "new-filename": zodSanitizedFilePath,
+var renameParams3 = incomingBaseParams.extend({
+  file: zodExistingNotePath,
+  "new-filename": zodSanitizedNotePath,
   silent: zodOptionalBoolean
 });
-var routePath5 = {
+var routePath6 = {
   "/note": [
     helloRoute(),
-    { path: "/list", schema: listParams3, handler: handleList3 },
+    { path: "/list", schema: listParams3, handler: handleList4 },
     { path: "/get", schema: readParams2, handler: handleGet },
-    { path: "/open", schema: openParams, handler: handleOpen },
+    {
+      path: "/get-first-named",
+      schema: readNamedParams,
+      handler: handleGetNamed
+    },
+    { path: "/get-active", schema: readActiveParams, handler: handleGetActive2 },
+    { path: "/open", schema: openParams2, handler: handleOpen2 },
     { path: "/create", schema: createParams2, handler: handleCreate2 },
     { path: "/append", schema: appendParams, handler: handleAppend },
     { path: "/prepend", schema: prependParams, handler: handlePrepend },
-    { path: "/delete", schema: deleteParams2, handler: handleDelete2 },
-    { path: "/trash", schema: deleteParams2, handler: handleTrash2 },
-    { path: "/rename", schema: renameParams2, handler: handleRename2 },
+    { path: "/touch", schema: touchParams, handler: handleTouch },
+    { path: "/delete", schema: deleteParams3, handler: handleDelete3 },
+    { path: "/trash", schema: deleteParams3, handler: handleTrash3 },
+    { path: "/rename", schema: renameParams3, handler: handleRename3 },
     {
       path: "/search-string-and-replace",
       schema: searchAndReplaceParams,
@@ -12843,7 +12973,7 @@ var routePath5 = {
     }
   ]
 };
-async function handleList3(incomingParams) {
+async function handleList4(incomingParams) {
   return success({
     paths: activeVault().getMarkdownFiles().map((t) => t.path).sort()
   });
@@ -12853,12 +12983,40 @@ async function handleGet(incomingParams) {
   const shouldFocusNote = !silent;
   const res = await getNoteDetails(file);
   if (res.isSuccess && shouldFocusNote)
-    await focusOrOpenNote(file);
+    await focusOrOpenFile(file);
   return res;
 }
-async function handleOpen(incomingParams) {
+async function handleGetActive2(incomingParams) {
+  const res = activeWorkspace().getActiveFile();
+  if ((res == null ? void 0 : res.extension) !== "md")
+    return failure(404, "No active note");
+  const res1 = await getNoteDetails(res.path);
+  return res1.isSuccess ? res1 : failure(404, "No active note");
+}
+async function handleGetNamed(incomingParams) {
+  const params = incomingParams;
+  const { file } = params;
+  const sortBy = params["sort-by"] || "best-guess";
+  if (sortBy === "best-guess") {
+    const res2 = app().metadataCache.getFirstLinkpathDest(sanitizeFilePath(file), "/");
+    return res2 ? await getNoteDetails(res2.path) : failure(404, "No note found with that name");
+  }
+  const sortFns = {
+    "path-asc": (a, b) => a.path.localeCompare(b.path),
+    "path-desc": (a, b) => b.path.localeCompare(a.path),
+    "ctime-asc": (a, b) => a.stat.ctime - b.stat.ctime,
+    "ctime-desc": (a, b) => b.stat.ctime - a.stat.ctime,
+    "mtime-asc": (a, b) => a.stat.mtime - b.stat.mtime,
+    "mtime-desc": (a, b) => b.stat.mtime - a.stat.mtime
+  };
+  const res = activeVault().getMarkdownFiles().sort(sortFns[sortBy]).find((tf) => tf.name === file);
+  if (!res)
+    return failure(404, "No note found with that name");
+  return await getNoteDetails(res.path);
+}
+async function handleOpen2(incomingParams) {
   const { file } = incomingParams;
-  const res = await getNoteFile(file.path);
+  const res = await getNote(file.path);
   return res.isSuccess ? success({ message: STRINGS.note_opened }, res.result.path) : res;
 }
 async function handleCreate2(incomingParams) {
@@ -12880,11 +13038,11 @@ async function handleCreate2(incomingParams) {
       return pluginRes;
     pluginInstance = pluginRes.result;
   }
-  const res = await getNoteFile(file);
+  const res = await getNote(file);
   const noteExists = res.isSuccess;
   if (noteExists && ifExists === "skip") {
     if (shouldFocusNote)
-      await focusOrOpenNote(file);
+      await focusOrOpenFile(file);
     return await getNoteDetails(file);
   }
   const res2 = noteExists && ifExists === "overwrite" ? await createOrOverwriteNote(file, content) : await createNote(file, content);
@@ -12900,7 +13058,7 @@ async function handleCreate2(incomingParams) {
       break;
   }
   if (shouldFocusNote)
-    await focusOrOpenNote(newNote.path);
+    await focusOrOpenFile(newNote.path);
   return await getNoteDetails(newNote.path);
 }
 async function handleAppend(incomingParams) {
@@ -12916,12 +13074,12 @@ async function handleAppend(incomingParams) {
     }
     return await appendNote(file, content, shouldEnsureNewline);
   }
-  const res = await getNoteFile(file);
+  const res = await getNote(file);
   if (res.isSuccess) {
     const res1 = await appendAsRequested();
     if (res1.isSuccess) {
       if (shouldFocusNote)
-        await focusOrOpenNote(file);
+        await focusOrOpenFile(file);
       return success({ message: res1.result }, file);
     }
     return res1;
@@ -12935,7 +13093,7 @@ async function handleAppend(incomingParams) {
   if (!res3.isSuccess)
     return res3;
   if (shouldFocusNote)
-    await focusOrOpenNote(file);
+    await focusOrOpenFile(file);
   return success({ message: res3.result }, file);
 }
 async function handlePrepend(incomingParams) {
@@ -12962,12 +13120,12 @@ async function handlePrepend(incomingParams) {
       shouldIgnoreFrontMatter
     );
   }
-  const res = await getNoteFile(file);
+  const res = await getNote(file);
   if (res.isSuccess) {
     const res1 = await prependAsRequested();
     if (res1.isSuccess) {
       if (shouldFocusNote)
-        await focusOrOpenNote(file);
+        await focusOrOpenFile(file);
       return success({ message: res1.result }, file);
     }
     return res1;
@@ -12981,8 +13139,18 @@ async function handlePrepend(incomingParams) {
   if (!res3.isSuccess)
     return res3;
   if (shouldFocusNote)
-    await focusOrOpenNote(file);
+    await focusOrOpenFile(file);
   return success({ message: res3.result }, file);
+}
+async function handleTouch(incomingParams) {
+  const { file, silent } = incomingParams;
+  const shouldFocusNote = !silent;
+  const res = await touchNote(file);
+  if (!res.isSuccess)
+    return res;
+  if (shouldFocusNote)
+    await focusOrOpenFile(file);
+  return success({ message: STRINGS.touch_done }, file);
 }
 async function handleSearchStringAndReplace(incomingParams) {
   const { search, file, replace, silent } = incomingParams;
@@ -12992,7 +13160,7 @@ async function handleSearchStringAndReplace(incomingParams) {
   if (!res.isSuccess)
     return res;
   if (shouldFocusNote)
-    await focusOrOpenNote(filepath);
+    await focusOrOpenFile(filepath);
   return success({ message: res.result }, filepath);
 }
 async function handleSearchRegexAndReplace(incomingParams) {
@@ -13006,22 +13174,22 @@ async function handleSearchRegexAndReplace(incomingParams) {
   if (!res.isSuccess)
     return res;
   if (shouldFocusNote)
-    await focusOrOpenNote(filepath);
+    await focusOrOpenFile(filepath);
   return success({ message: res.result }, filepath);
 }
-async function handleDelete2(incomingParams) {
+async function handleDelete3(incomingParams) {
   const { file } = incomingParams;
   const filepath = file.path;
   const res = await trashFilepath(filepath, true);
   return res.isSuccess ? success({ message: res.result }, filepath) : res;
 }
-async function handleTrash2(incomingParams) {
+async function handleTrash3(incomingParams) {
   const { file } = incomingParams;
   const filepath = file.path;
   const res = await trashFilepath(filepath);
   return res.isSuccess ? success({ message: res.result }, filepath) : res;
 }
-async function handleRename2(incomingParams) {
+async function handleRename3(incomingParams) {
   const params = incomingParams;
   const filepath = params.file.path;
   const res = await renameFilepath(filepath, params["new-filename"]);
@@ -13030,24 +13198,24 @@ async function handleRename2(incomingParams) {
 
 // src/routes/note-properties.ts
 var import_obsidian6 = require("obsidian");
-var defaultParams2 = incomingBaseParams.extend({
-  file: zodExistingFilePath,
+var defaultParams3 = incomingBaseParams.extend({
+  file: zodExistingNotePath,
   "x-error": z.string().url(),
   "x-success": z.string().url()
 });
-var setParams = defaultParams2.extend({
+var setParams = defaultParams3.extend({
   properties: zodJsonPropertiesObject,
   mode: z.enum(["overwrite", "update"]).optional()
 });
-var removeKeysParams = defaultParams2.extend({
+var removeKeysParams = defaultParams3.extend({
   keys: zodJsonStringArray
 });
-var routePath6 = {
+var routePath7 = {
   "/note-properties": [
     helloRoute(),
-    { path: "/get", schema: defaultParams2, handler: handleGet2 },
+    { path: "/get", schema: defaultParams3, handler: handleGet2 },
     { path: "/set", schema: setParams, handler: handleSet },
-    { path: "/clear", schema: defaultParams2, handler: handleClear },
+    { path: "/clear", schema: defaultParams3, handler: handleClear },
     {
       path: "/remove-keys",
       schema: removeKeysParams,
@@ -13087,7 +13255,7 @@ async function doSearch(query) {
   }
   const pluginInstance = res.result;
   pluginInstance.openGlobalSearch(query);
-  const searchLeaf = window.app.workspace.getLeavesOfType("search")[0];
+  const searchLeaf = activeWorkspace().getLeavesOfType("search")[0];
   const searchView = await searchLeaf.open(searchLeaf.view);
   await pause(2e3);
   const rawSearchResult = searchView.dom.resultDomLookup;
@@ -13106,19 +13274,19 @@ async function doOmnisearch(query) {
 }
 
 // src/routes/omnisearch.ts
-var defaultParams3 = incomingBaseParams.extend({
+var defaultParams4 = incomingBaseParams.extend({
   query: z.string().min(1, { message: "can't be empty" }),
   "x-error": z.string().url(),
   "x-success": z.string().url()
 });
-var openParams2 = incomingBaseParams.extend({
+var openParams3 = incomingBaseParams.extend({
   query: z.string().min(1, { message: "can't be empty" })
 });
-var routePath7 = {
+var routePath8 = {
   "/omnisearch": [
     helloRoute(),
-    { path: "/all-notes", schema: defaultParams3, handler: handleSearch },
-    { path: "/open", schema: openParams2, handler: handleOpen2 }
+    { path: "/all-notes", schema: defaultParams4, handler: handleSearch },
+    { path: "/open", schema: openParams3, handler: handleOpen3 }
   ]
 };
 async function handleSearch(incomingParams) {
@@ -13126,7 +13294,7 @@ async function handleSearch(incomingParams) {
   const res = await doOmnisearch(params.query);
   return res.isSuccess ? success(res.result) : res;
 }
-async function handleOpen2(incomingParams) {
+async function handleOpen3(incomingParams) {
   const params = incomingParams;
   window.open(
     "obsidian://omnisearch?vault=" + encodeURIComponent(activeVault().getName()) + "&query=" + encodeURIComponent(params.query.trim())
@@ -13146,7 +13314,7 @@ var readParams3 = incomingBaseParams.extend({
   "x-error": z.string().url(),
   "x-success": z.string().url()
 });
-var openParams3 = incomingBaseParams.extend({
+var openParams4 = incomingBaseParams.extend({
   silent: zodAlwaysFalse
 });
 var createBaseParams2 = incomingBaseParams.extend({
@@ -13160,11 +13328,11 @@ var createParams3 = z.discriminatedUnion("apply", [
   }),
   createBaseParams2.extend({
     apply: z.literal("templater"),
-    "template-file": zodExistingFilePath
+    "template-file": zodExistingNotePath
   }),
   createBaseParams2.extend({
     apply: z.literal("templates"),
-    "template-file": zodExistingFilePath
+    "template-file": zodExistingNotePath
   }),
   createBaseParams2.extend({
     apply: zodEmptyStringChangedToDefaultString("content"),
@@ -13216,12 +13384,12 @@ for (const periodID of PERIOD_IDS) {
     },
     {
       path: "/open-current",
-      schema: openParams3,
+      schema: openParams4,
       handler: getHandleOpenCurrent(periodID)
     },
     {
       path: "/open-most-recent",
-      schema: openParams3,
+      schema: openParams4,
       handler: getHandleOpenMostRecent(periodID)
     },
     {
@@ -13251,9 +13419,9 @@ for (const periodID of PERIOD_IDS) {
     }
   ];
 }
-var routePath8 = routes;
+var routePath9 = routes;
 function getHandleList(periodID) {
-  return async function handleList5(incoming) {
+  return async function handleList6(incoming) {
     if (!appHasPeriodPluginLoaded(periodID)) {
       return failure(412, STRINGS[`${periodID}_note`].feature_not_available);
     }
@@ -13272,7 +13440,7 @@ function getHandleGetCurrent(periodID) {
       return res;
     const filepath = res.result;
     if (shouldFocusNote)
-      await focusOrOpenNote(filepath);
+      await focusOrOpenFile(filepath);
     return await getNoteDetails(filepath);
   };
 }
@@ -13285,7 +13453,7 @@ function getHandleGetMostRecent(periodID) {
       return res;
     const filepath = res.result.path;
     if (shouldFocusNote)
-      await focusOrOpenNote(filepath);
+      await focusOrOpenFile(filepath);
     return await getNoteDetails(filepath);
   };
 }
@@ -13329,7 +13497,7 @@ function getHandleCreate(periodID) {
       switch (ifExists) {
         case "skip":
           if (shouldFocusNote)
-            await focusOrOpenNote(pNote.path);
+            await focusOrOpenFile(pNote.path);
           return await getNoteDetails(pNote.path);
         case "overwrite":
           await activeVault().trash(pNote, false);
@@ -13361,7 +13529,7 @@ function getHandleCreate(periodID) {
         break;
     }
     if (shouldFocusNote)
-      await focusOrOpenNote(filepath);
+      await focusOrOpenFile(filepath);
     return await getNoteDetails(filepath);
   };
 }
@@ -13390,7 +13558,7 @@ function getHandleAppend(periodID) {
       if (!res.isSuccess)
         return res;
       if (shouldFocusNote)
-        await focusOrOpenNote(filepath);
+        await focusOrOpenFile(filepath);
       return success({ message: res.result }, filepath);
     }
     if (resDNP.errorCode !== 404)
@@ -13403,7 +13571,7 @@ function getHandleAppend(periodID) {
       if (!res.isSuccess)
         return res;
       if (shouldFocusNote)
-        await focusOrOpenNote(newNote.path);
+        await focusOrOpenFile(newNote.path);
       return success({ message: res.result }, newNote.path);
     }
     return failure(400, STRINGS.unable_to_write_note);
@@ -13441,7 +13609,7 @@ function getHandlePrepend(periodID) {
       if (!res.isSuccess)
         return res;
       if (shouldFocusNote)
-        await focusOrOpenNote(filepath);
+        await focusOrOpenFile(filepath);
       return success({ message: res.result }, filepath);
     }
     if (resDNP.errorCode !== 404)
@@ -13454,7 +13622,7 @@ function getHandlePrepend(periodID) {
       if (!res.isSuccess)
         return res;
       if (shouldFocusNote)
-        await focusOrOpenNote(newNote.path);
+        await focusOrOpenFile(newNote.path);
       return success({ message: res.result }, newNote.path);
     }
     return failure(400, STRINGS.unable_to_write_note);
@@ -13472,7 +13640,7 @@ function getHandleSearchStringAndReplace(periodID) {
     if (!res.isSuccess)
       return res;
     if (shouldFocusNote)
-      await focusOrOpenNote(filepath);
+      await focusOrOpenFile(filepath);
     return success({ message: res.result }, filepath);
   };
 }
@@ -13491,7 +13659,7 @@ function getHandleSearchRegexAndReplace(periodID) {
     if (!res.isSuccess)
       return res;
     if (shouldFocusNote)
-      await focusOrOpenNote(filepath);
+      await focusOrOpenFile(filepath);
     return success({ message: res.result }, filepath);
   };
 }
@@ -13595,30 +13763,30 @@ async function getMostRecentPeriodNote(periodID) {
     return failure(404, STRINGS.note_not_found);
   }
   const pNote = notes[mostRecentKey];
-  return await getNoteFile(pNote.path);
+  return await getNote(pNote.path);
 }
 
 // src/routes/root.ts
-var routePath9 = {
+var routePath10 = {
   "/": [
     helloRoute()
   ]
 };
 
 // src/routes/search.ts
-var defaultParams4 = incomingBaseParams.extend({
+var defaultParams5 = incomingBaseParams.extend({
   query: z.string().min(1, { message: "can't be empty" }),
   "x-error": z.string().url(),
   "x-success": z.string().url()
 });
-var openParams4 = incomingBaseParams.extend({
+var openParams5 = incomingBaseParams.extend({
   query: z.string().min(1, { message: "can't be empty" })
 });
-var routePath10 = {
+var routePath11 = {
   "/search": [
     helloRoute(),
-    { path: "/all-notes", schema: defaultParams4, handler: handleSearch2 },
-    { path: "/open", schema: openParams4, handler: handleOpen3 }
+    { path: "/all-notes", schema: defaultParams5, handler: handleSearch2 },
+    { path: "/open", schema: openParams5, handler: handleOpen4 }
   ]
 };
 async function handleSearch2(incomingParams) {
@@ -13626,7 +13794,7 @@ async function handleSearch2(incomingParams) {
   const res = await doSearch(params.query);
   return res.isSuccess ? success(res.result) : res;
 }
-async function handleOpen3(incomingParams) {
+async function handleOpen4(incomingParams) {
   const params = incomingParams;
   window.open(
     "obsidian://search?vault=" + encodeURIComponent(activeVault().getName()) + "&query=" + encodeURIComponent(params.query.trim())
@@ -13636,34 +13804,29 @@ async function handleOpen3(incomingParams) {
 
 // src/routes/vault.ts
 var import_obsidian8 = require("obsidian");
-var defaultParams5 = incomingBaseParams.extend({
+var defaultParams6 = incomingBaseParams.extend({
   "x-error": z.string().url(),
   "x-success": z.string().url()
 });
-var routePath11 = {
+var routePath12 = {
   "/vault": [
     helloRoute(),
-    { path: "/open", schema: incomingBaseParams, handler: handleOpen4 },
+    { path: "/open", schema: incomingBaseParams, handler: handleOpen5 },
     { path: "/close", schema: incomingBaseParams, handler: handleClose },
-    { path: "/info", schema: defaultParams5, handler: handleInfo2 },
-    {
-      path: "/list-folders",
-      schema: defaultParams5,
-      handler: handleListFolders
-    },
+    { path: "/info", schema: defaultParams6, handler: handleInfo2 },
     {
       path: "/list-all-files",
-      schema: defaultParams5,
+      schema: defaultParams6,
       handler: handleListFiles
     },
     {
       path: "/list-non-notes-files",
-      schema: defaultParams5,
+      schema: defaultParams6,
       handler: handleListFilesExceptNotes
     }
   ]
 };
-async function handleOpen4(incomingParams) {
+async function handleOpen5(incomingParams) {
   return success({});
 }
 async function handleClose(incomingParams) {
@@ -13686,10 +13849,6 @@ async function handleInfo2(incomingParams) {
     newFileFolderPath: config.newFileLocation === "folder" ? `${basePath}/${config.newFileFolderPath}`.replace(/\/$/, "") : basePath
   });
 }
-async function handleListFolders(incomingParams) {
-  const paths = getFileMap().filter((t) => t instanceof import_obsidian8.TFolder).map((t) => t.path.endsWith("/") ? t.path : `${t.path}/`).sort();
-  return success({ paths });
-}
 async function handleListFiles(incomingParams) {
   return success({
     paths: activeVault().getFiles().map((t) => t.path).sort()
@@ -13709,14 +13868,14 @@ var listParams5 = incomingBaseParams.extend({
   "x-error": z.string().url(),
   "x-success": z.string().url()
 });
-var routePath12 = {
+var routePath13 = {
   "/tags": [
     helloRoute(),
-    { path: "/list", schema: listParams5, handler: handleList4 }
+    { path: "/list", schema: listParams5, handler: handleList5 }
   ]
 };
-async function handleList4(incomingParams) {
-  const tags = app.metadataCache.getTags();
+async function handleList5(incomingParams) {
+  const tags = app().metadataCache.getTags();
   return success({
     tags: Object.keys(tags).sort((a, b) => a.localeCompare(b))
   });
@@ -13724,18 +13883,19 @@ async function handleList4(incomingParams) {
 
 // src/routes.ts
 var routes2 = {
-  ...routePath9,
+  ...routePath10,
   ...routePath,
   ...routePath2,
   ...routePath3,
   ...routePath4,
-  ...routePath6,
   ...routePath5,
   ...routePath7,
+  ...routePath6,
   ...routePath8,
-  ...routePath10,
-  ...routePath12,
-  ...routePath11
+  ...routePath9,
+  ...routePath11,
+  ...routePath13,
+  ...routePath12
 };
 
 // node_modules/filter-obj/index.js
@@ -13772,6 +13932,7 @@ function excludeKeys(object, predicate) {
 // src/utils/callbacks.ts
 var import_obsidian9 = require("obsidian");
 function sendUrlCallback(baseURL, handlerRes, params) {
+  var _a;
   const url = new URL(baseURL);
   if (handlerRes.isSuccess) {
     addObjectToUrlSearchParams(handlerRes.result, url);
@@ -13780,7 +13941,7 @@ function sendUrlCallback(baseURL, handlerRes, params) {
     url.searchParams.set("errorCode", errorCode.toString());
     url.searchParams.set("errorMessage", errorMessage);
   }
-  if (params["x-source"] == "Actions for Obsidian") {
+  if (((_a = params["x-source"]) == null ? void 0 : _a.toLowerCase()) === "actions for obsidian") {
     url.searchParams.set("pv", PLUGIN_INFO.pluginVersion);
   }
   const returnParams = params["debug-mode"] ? excludeKeys(params, ["debug-mode", "x-success", "x-error"]) : {};
@@ -13831,10 +13992,10 @@ var ActionsURI = class extends import_obsidian10.Plugin {
    */
   registerRoutes(routeTree) {
     const registeredRoutes = [];
-    for (const [routePath13, routeSubpaths] of Object.entries(routeTree)) {
+    for (const [routePath14, routeSubpaths] of Object.entries(routeTree)) {
       for (const route of routeSubpaths) {
         const { path, schema, handler } = route;
-        const fullPath = (0, import_obsidian10.normalizePath)(`${URI_NAMESPACE}/${routePath13}/${path}`).replace(/\/$/, "");
+        const fullPath = (0, import_obsidian10.normalizePath)(`${URI_NAMESPACE}/${routePath14}/${path}`).replace(/\/$/, "");
         this.registerObsidianProtocolHandler(
           fullPath,
           async (incomingParams) => {
@@ -13950,6 +14111,6 @@ var ActionsURI = class extends import_obsidian10.Plugin {
         "No file to open, handler didn't return a `processedFilepath` property"
       );
     }
-    return await focusOrOpenNote(processedFilepath);
+    return await focusOrOpenFile(processedFilepath);
   }
 };
