@@ -30,7 +30,16 @@
 
 /* Fixes Text Area to be small enough to fit with infobox */
 .mb-input-type-textArea > textarea {
-  width: 75%
+  width: 75%;
+}
+
+/* Hides node files and folders */
+.tree-item:has(> div[data-path="node_modules"]) {
+  display: none;
+}
+
+.tree-item:has(> div[data-path*="package"]) {
+  display: none;
 }
 
 /* Displays gallery callout images */
