@@ -1,15 +1,15 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
+location: "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
 condition: healthy
 relationships:
   - Luvash|brother
   - Arabelle|uncle
-tags: null
+tags: 
 aliases: []
 pronounced: AH-ri-gal
-race: null
+race: 
 gender: male
 age: 35
 alignment: Neutral Evil
@@ -18,15 +18,13 @@ occupation:
 groups:
   - Vistani
 religions: []
-personality: 'Charismatic, ruthless, cunning'
-ideal: >-
-  Loyalty to family and clan above all else, but personal gain is a close
-  second.
+personality: Charismatic, ruthless, cunning
+ideal: Loyalty to family and clan above all else, but personal gain is a close second.
 bond: His brother Luvash and niece Arabelle
 flaw: Greed and self-interest often overshadow his better judgement
-goals: 'To protect and serve his Vistani clan, to amass personal wealth and power'
-likes: 'Wealth, power, the respect of his peers'
-dislikes: 'The forces of Strahd (publicly), betrayal, weakness'
+goals: To protect and serve his Vistani clan, to amass personal wealth and power
+likes: Wealth, power, the respect of his peers
+dislikes: The forces of Strahd (publicly), betrayal, weakness
 ---
 
 > [!infobox]
