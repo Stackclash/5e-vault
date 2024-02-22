@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/dmg
-aliases:
-  - Loyalty
+- compendium/src/5e/dmg
+aliases: ["Loyalty"]
 ---
 # Loyalty
 *Source: Dungeon Master's Guide p. 93* 

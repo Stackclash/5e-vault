@@ -8,8 +8,6 @@ aliases: ["Food, Drink, and Lodging"]
 # Food, Drink, and Lodging
 *Source: Player's Handbook p. 158. Available in the SRD and the Basic Rules.* 
 
-`dice: [[Food Drink And Lodging.md#^food-drink-and-lodging]]`
-
 **Food, Drink, and Lodging**
 
 | Item | Cost |

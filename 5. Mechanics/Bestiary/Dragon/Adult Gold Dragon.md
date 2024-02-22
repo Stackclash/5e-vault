@@ -2,15 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/17
-  - monster/environment/forest
-  - monster/environment/grassland
-  - monster/size/huge
-  - monster/type/dragon
+- compendium/src/5e/mm
+- monster/cr/17
+- monster/environment/forest
+- monster/environment/grassland
+- monster/size/huge
+- monster/type/dragon
 statblock: inline
-aliases:
-  - Adult Gold Dragon
+aliases: ["Adult Gold Dragon"]
 ---
 # [[5. Mechanics\Bestiary\Dragon\Adult Gold Dragon.md|Adult Gold Dragon]]
 *Source: Monster Manual p. 114. Available in the SRD.*  

@@ -2,15 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer/battle-smith
-  - spell/class/cleric/twilight-domain
-  - spell/class/paladin
-  - spell/class/sorcerer/divine-soul
-  - spell/level/3
-  - spell/school/evocation
-aliases:
-  - Aura of Vitality
+- compendium/src/5e/phb
+- spell/class/artificer/battle-smith
+- spell/class/cleric/twilight-domain
+- spell/class/paladin
+- spell/class/sorcerer/divine-soul
+- spell/level/3
+- spell/school/evocation
+aliases: ["Aura of Vitality"]
 ---
 # Aura of Vitality
 %%-- Embedded content starts on the next line. --%%

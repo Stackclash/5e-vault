@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-2
-  - monster/environment/underdark
-  - monster/size/small
-  - monster/type/humanoid/gnome
+- compendium/src/5e/mm
+- monster/cr/1-2
+- monster/environment/underdark
+- monster/size/small
+- monster/type/humanoid/gnome
 statblock: inline
-aliases:
-  - Deep Gnome (Svirfneblin)
+aliases: ["Deep Gnome (Svirfneblin)"]
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Deep Gnome Svirfneblin.md|Deep Gnome (Svirfneblin)]]
 *Source: Monster Manual p. 164. Available in the SRD.*  

@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-8
-  - monster/size/small
-  - monster/type/fiend/demon
+- compendium/src/5e/mm
+- monster/cr/1-8
+- monster/size/small
+- monster/type/fiend/demon
 statblock: inline
-aliases:
-  - Manes
+aliases: ["Manes"]
 ---
 # [[5. Mechanics\Bestiary\Fiend\Manes.md|Manes]]
 *Source: Monster Manual p. 60*  

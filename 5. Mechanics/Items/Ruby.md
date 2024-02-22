@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/wealth
-aliases:
-  - Ruby
+- compendium/src/5e/dmg
+- item/wealth/gemstone
+aliases: 
+- "Ruby"
 cost: 500000
 ---
 # Ruby

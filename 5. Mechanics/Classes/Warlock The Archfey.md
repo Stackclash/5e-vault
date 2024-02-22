@@ -2,10 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/phb
-  - subclass/warlock/archfey
-aliases:
-  - The Archfey
+- compendium/src/5e/phb
+- subclass/warlock/archfey
+aliases: ["The Archfey"]
 ---
 # The Archfey
 *[[Warlock.md\|Warlock]]: Otherworldly Patron*  

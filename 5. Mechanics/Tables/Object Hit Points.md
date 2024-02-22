@@ -8,8 +8,6 @@ aliases: ["Object Hit Points"]
 # Object Hit Points
 *Source: Dungeon Master's Guide p. 247. Available in the SRD.* 
 
-`dice: [[Object Hit Points.md#^object-hit-points]]`
-
 **Object Hit Points**
 
 | Size | Fragile | Resilient |

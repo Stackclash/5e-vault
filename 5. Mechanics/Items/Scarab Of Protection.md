@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/attunement/required
-  - item/rarity/legendary
-  - item/tier/major
-  - item/wondrous
-aliases:
-  - Scarab of Protection
+- compendium/src/5e/dmg
+- item/attunement/required
+- item/rarity/legendary
+- item/tier/major
+- item/wondrous
+aliases: 
+- "Scarab of Protection"
 ---
 # Scarab of Protection
 *Wondrous Item, major, legendary (requires attunement)*  

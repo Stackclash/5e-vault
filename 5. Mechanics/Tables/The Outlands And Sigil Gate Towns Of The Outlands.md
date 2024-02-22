@@ -8,8 +8,6 @@ aliases: ["The Outlands and Sigil; Gate-Towns of the Outlands"]
 # The Outlands and Sigil; Gate-Towns of the Outlands
 *Source: Dungeon Master's Guide p. 67* 
 
-`dice: [[The Outlands And Sigil Gate Towns Of The Outlands.md#^gate-towns-of-the-outlands]]`
-
 **Gate-Towns of the Outlands**
 
 | Town | Gate Destination |

@@ -2,10 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/phb
-  - subclass/wizard/conjuration
-aliases:
-  - School of Conjuration
+- compendium/src/5e/phb
+- subclass/wizard/conjuration
+aliases: ["School of Conjuration"]
 ---
 # School of Conjuration
 *[[Wizard.md\|Wizard]]: Arcane Tradition*  

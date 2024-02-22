@@ -8,8 +8,6 @@ aliases: ["Deities of Dragonlance: Evil"]
 # Deities of Dragonlance: Evil
 *Source: Player's Handbook p. 293* 
 
-`dice: [[Deities Of Dragonlance Evil.md#^deities-of-dragonlance-evil]]`
-
 **Deities of Dragonlance: Evil**
 
 | The Gods of Evil | Alignment | Suggested Domains | Symbol |

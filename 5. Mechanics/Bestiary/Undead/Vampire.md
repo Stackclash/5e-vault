@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/13
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/undead/shapechanger
+- compendium/src/5e/mm
+- monster/cr/13
+- monster/environment/urban
+- monster/size/medium
+- monster/type/undead/shapechanger
 statblock: inline
-aliases:
-  - Vampire
+aliases: ["Vampire"]
 ---
 # [[5. Mechanics\Bestiary\Undead\Vampire.md|Vampire]]
 *Source: Monster Manual p. 297, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD.*  

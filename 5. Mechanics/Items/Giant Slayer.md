@@ -2,21 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/rarity/rare
-  - item/tier/major
-  - item/wondrous/wondrous-item
-aliases:
-  - Giant Slayer
-  - Giant Slayer Longsword
-  - Giant Slayer Battleaxe
-  - Giant Slayer Greataxe
-  - Giant Slayer Double-Bladed Scimitar
-  - Giant Slayer Handaxe
-  - Giant Slayer Greatsword
-  - Giant Slayer Rapier
-  - Giant Slayer Shortsword
-  - Giant Slayer Scimitar
+- compendium/src/5e/dmg
+- item/rarity/rare
+- item/tier/major
+- item/wondrous/wondrous-item
+aliases: 
+- "Giant Slayer"
+- "Giant Slayer Longsword"
+- "Giant Slayer Battleaxe"
+- "Giant Slayer Greataxe"
+- "Giant Slayer Double-Bladed Scimitar"
+- "Giant Slayer Handaxe"
+- "Giant Slayer Greatsword"
+- "Giant Slayer Rapier"
+- "Giant Slayer Shortsword"
+- "Giant Slayer Scimitar"
 ---
 # Giant Slayer
 *Generic Variant, major, rare*  

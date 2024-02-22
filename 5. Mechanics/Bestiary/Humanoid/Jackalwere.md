@@ -2,15 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-2
-  - monster/environment/desert
-  - monster/environment/grassland
-  - monster/size/medium
-  - monster/type/humanoid/shapechanger
+- compendium/src/5e/mm
+- monster/cr/1-2
+- monster/environment/desert
+- monster/environment/grassland
+- monster/size/medium
+- monster/type/humanoid/shapechanger
 statblock: inline
-aliases:
-  - Jackalwere
+aliases: ["Jackalwere"]
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Jackalwere.md|Jackalwere]]
 *Source: Monster Manual p. 193*  

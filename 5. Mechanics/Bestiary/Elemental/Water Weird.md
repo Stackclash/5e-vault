@@ -2,15 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/3
-  - monster/environment/underdark
-  - monster/environment/urban
-  - monster/size/large
-  - monster/type/elemental
+- compendium/src/5e/mm
+- monster/cr/3
+- monster/environment/underdark
+- monster/environment/urban
+- monster/size/large
+- monster/type/elemental
 statblock: inline
-aliases:
-  - Water Weird
+aliases: ["Water Weird"]
 ---
 # [[5. Mechanics\Bestiary\Elemental\Water Weird.md|Water Weird]]
 *Source: Monster Manual p. 299*  

@@ -8,9 +8,9 @@ aliases: ["Chamber NPCs"]
 # Chamber NPCs
 *Source: Eberron: Rising from the Last War p. 195* 
 
-`dice: [[Chamber Npcs (ERLW).md#^chamber-npcs]]`
-
 **Chamber NPCs**
+
+`dice: [[Chamber Npcs.md#^chamber-npcs]]`
 
 | dice: d6 | NPC |
 |----------|-----|

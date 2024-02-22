@@ -8,9 +8,9 @@ aliases: ["Doors; Beyond a Door"]
 # Doors; Beyond a Door
 *Source: Dungeon Master's Guide p. 291* 
 
-`dice: [[Doors Beyond A Door.md#^beyond-a-door]]`
-
 **Beyond a Door**
+
+`dice: [[Doors Beyond A Door.md#^beyond-a-door]]`
 
 | dice: d20 | Feature |
 |-----------|---------|

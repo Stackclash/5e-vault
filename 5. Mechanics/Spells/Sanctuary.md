@@ -16,6 +16,7 @@ tags:
 aliases: ["Sanctuary"]
 ---
 # Sanctuary
+%%-- Embedded content starts on the next line. --%%
 *1st-level, Abjuration*  
 
 - **Casting time:** 1 bonus
@@ -27,6 +28,6 @@ You ward a creature within range against attack. Until the spell ends, any creat
 
 If the warded creature makes an attack, casts a spell that affects an enemy, or deals damage to another creature, this spell ends.
 
-**Classes**: [[5. Mechanics/Classes/Artificer (TCE).md\|Artificer]], [[5. Mechanics/Classes/Cleric Peace Domain (TCE).md\|Cleric (Peace Domain)]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Monk Way Of The Open Hand.md\|Monk (Way of the Open Hand)]], [[5. Mechanics/Classes/Paladin Oath Of Devotion.md\|Paladin (Oath of Devotion)]], [[5. Mechanics/Classes/Paladin Oath Of Redemption (XGE).md\|Paladin (Oath of Redemption)]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Warlock The Genie (TCE).md\|Warlock (The Genie)]]
+**Classes**: [[5. Mechanics/Classes/Artificer.md\|Artificer]], [[5. Mechanics/Classes/Cleric Peace Domain.md\|Cleric (Peace Domain)]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Monk Way Of The Open Hand.md\|Monk (Way of the Open Hand)]], [[5. Mechanics/Classes/Paladin Oath Of Devotion.md\|Paladin (Oath of Devotion)]], [[5. Mechanics/Classes/Paladin Oath Of Redemption.md\|Paladin (Oath of Redemption)]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Warlock The Genie.md\|Warlock (The Genie)]]
 
 *Source: Player's Handbook p. 272. Available in the SRD and the Basic Rules.*

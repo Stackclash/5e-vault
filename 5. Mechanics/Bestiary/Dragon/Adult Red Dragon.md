@@ -2,15 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/17
-  - monster/environment/hill
-  - monster/environment/mountain
-  - monster/size/huge
-  - monster/type/dragon
+- compendium/src/5e/mm
+- monster/cr/17
+- monster/environment/hill
+- monster/environment/mountain
+- monster/size/huge
+- monster/type/dragon
 statblock: inline
-aliases:
-  - Adult Red Dragon
+aliases: ["Adult Red Dragon"]
 ---
 # [[5. Mechanics\Bestiary\Dragon\Adult Red Dragon.md|Adult Red Dragon]]
 *Source: Monster Manual p. 98. Available in the SRD and the Basic Rules.*  

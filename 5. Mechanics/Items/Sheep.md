@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/phb
-  - item/gear/trade-good
-aliases:
-  - Sheep
+- compendium/src/5e/phb
+- item/gear/trade-good
+aliases: 
+- "Sheep"
 cost: 200
 ---
 # Sheep

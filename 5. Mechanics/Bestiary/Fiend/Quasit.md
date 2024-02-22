@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1
-  - monster/size/tiny
-  - monster/type/fiend/demon
+- compendium/src/5e/mm
+- monster/cr/1
+- monster/size/tiny
+- monster/type/fiend/demon
 statblock: inline
-aliases:
-  - Quasit
+aliases: ["Quasit"]
 ---
 # [[5. Mechanics\Bestiary\Fiend\Quasit.md|Quasit]]
 *Source: Monster Manual p. 63, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD.*  

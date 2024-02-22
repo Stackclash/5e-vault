@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/phb
-  - item/gear/spellcasting-focus
-aliases:
-  - Rod
+- compendium/src/5e/phb
+- item/gear/spellcasting-focus
+aliases: 
+- "Rod"
 cost: 1000
 ---
 # Rod

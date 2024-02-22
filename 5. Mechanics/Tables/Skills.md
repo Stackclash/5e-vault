@@ -8,8 +8,6 @@ aliases: ["Skills"]
 # Skills
 *Source: Player's Handbook p. 174* 
 
-`dice: [[Skills.md#^ability-skills]]`
-
 | Ability | Skills |
 |---------|--------|
 | Strength | [[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]] |

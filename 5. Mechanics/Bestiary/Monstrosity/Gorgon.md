@@ -2,16 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/5
-  - monster/environment/forest
-  - monster/environment/grassland
-  - monster/environment/hill
-  - monster/size/large
-  - monster/type/monstrosity
+- compendium/src/5e/mm
+- monster/cr/5
+- monster/environment/forest
+- monster/environment/grassland
+- monster/environment/hill
+- monster/size/large
+- monster/type/monstrosity
 statblock: inline
-aliases:
-  - Gorgon
+aliases: ["Gorgon"]
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Gorgon.md|Gorgon]]
 *Source: Monster Manual p. 171. Available in the SRD.*  

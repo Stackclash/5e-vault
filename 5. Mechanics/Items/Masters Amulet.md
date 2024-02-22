@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/mm
-  - item/rarity/unknown/magic
-  - item/wondrous/wondrous-item
-aliases:
-  - Master's Amulet
+- compendium/src/5e/mm
+- item/rarity/unknown/magic
+- item/wondrous/wondrous-item
+aliases: 
+- "Master's Amulet"
 ---
 # Master's Amulet
 *Other, unknown (magic)*  

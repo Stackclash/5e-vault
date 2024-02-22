@@ -8,9 +8,9 @@ aliases: ["Moral Quandaries"]
 # Moral Quandaries
 *Source: Dungeon Master's Guide p. 79* 
 
-`dice: [[Moral Quandaries.md#^moral-quandaries]]`
-
 **Moral Quandaries**
+
+`dice: [[Moral Quandaries.md#^moral-quandaries]]`
 
 | dice: d20 | Quandary |
 |-----------|----------|

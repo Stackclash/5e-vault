@@ -2,19 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/rarity/rare
-  - item/tier/minor
-  - item/wondrous/wondrous-item
-aliases:
-  - +2 Ammunition
-  - +2 Sling Bullet
-  - +2 Arrow
-  - +2 Modern Bullet
-  - +2 Blowgun Needle
-  - +2 Crossbow Bolt
-  - +2 Energy Cell
-  - +2 Renaissance Bullet
+- compendium/src/5e/dmg
+- item/rarity/rare
+- item/tier/minor
+- item/wondrous/wondrous-item
+aliases: 
+- "+2 Ammunition"
+- "+2 Sling Bullet"
+- "+2 Arrow"
+- "+2 Modern Bullet"
+- "+2 Blowgun Needle"
+- "+2 Crossbow Bolt"
+- "+2 Energy Cell"
+- "+2 Renaissance Bullet"
 ---
 # +2 Ammunition
 *Generic Variant, minor, rare*  

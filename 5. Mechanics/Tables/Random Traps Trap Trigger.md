@@ -8,9 +8,9 @@ aliases: ["Random Traps; Trap Trigger"]
 # Random Traps; Trap Trigger
 *Source: Dungeon Master's Guide p. 297* 
 
-`dice: [[Random Traps Trap Trigger.md#^trap-trigger]]`
-
 **Trap Trigger**
+
+`dice: [[Random Traps Trap Trigger.md#^trap-trigger]]`
 
 | dice: d6 | Trigger |
 |----------|---------|

@@ -2,10 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
-  - background
-  - compendium/src/5e/phb
-aliases:
-  - Outlander
+- background
+- compendium/src/5e/phb
+aliases: ["Outlander"]
 ---
 # Outlander
 *Source: Player's Handbook p. 136*  

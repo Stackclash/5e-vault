@@ -1,27 +1,28 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: null
 condition: healthy
 image: 4. World Almanac/NPCs/img/sul-khatesh.webp
 relationships: []
-tags: 
-aliases: [Sul Khatesh]
-pronounced: 
-race: 
-gender: 
-age: 
+tags: null
+aliases:
+  - Sul Khatesh
+pronounced: null
+race: null
+gender: null
+age: null
 alignment: Lawful Evil
-occupation: 
+occupation: null
 groups: []
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]

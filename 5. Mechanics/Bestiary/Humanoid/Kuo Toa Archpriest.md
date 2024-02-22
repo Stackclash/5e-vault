@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/6
-  - monster/environment/underdark
-  - monster/size/medium
-  - monster/type/humanoid/kuo-toa
+- compendium/src/5e/mm
+- monster/cr/6
+- monster/environment/underdark
+- monster/size/medium
+- monster/type/humanoid/kuo-toa
 statblock: inline
-aliases:
-  - Kuo-toa Archpriest
+aliases: ["Kuo-toa Archpriest"]
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Kuo Toa Archpriest.md|Kuo-toa Archpriest]]
 *Source: Monster Manual p. 200*  

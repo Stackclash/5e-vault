@@ -8,9 +8,9 @@ aliases: ["Chamber Purpose; Dungeon: Death Trap"]
 # Chamber Purpose; Dungeon: Death Trap
 *Source: Dungeon Master's Guide p. 292* 
 
-`dice: [[Chamber Purpose Dungeon Death Trap.md#^dungeon-death-trap]]`
-
 **Dungeon: Death Trap**
+
+`dice: [[Chamber Purpose Dungeon Death Trap.md#^dungeon-death-trap]]`
 
 | dice: d20 | Purpose |
 |-----------|---------|

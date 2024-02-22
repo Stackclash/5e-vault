@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/11
-  - monster/environment/underdark
-  - monster/size/huge
-  - monster/type/monstrosity
+- compendium/src/5e/mm
+- monster/cr/11
+- monster/environment/underdark
+- monster/size/huge
+- monster/type/monstrosity
 statblock: inline
-aliases:
-  - Behir
+aliases: ["Behir"]
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Behir.md|Behir]]
 *Source: Monster Manual p. 25. Available in the SRD.*  

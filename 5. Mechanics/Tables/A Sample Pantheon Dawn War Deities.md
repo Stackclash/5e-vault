@@ -8,8 +8,6 @@ aliases: ["A Sample Pantheon; Dawn War Deities"]
 # A Sample Pantheon; Dawn War Deities
 *Source: Dungeon Master's Guide p. 11* 
 
-`dice: [[A Sample Pantheon Dawn War Deities.md#^dawn-war-deities]]`
-
 **Dawn War Deities**
 
 | Deity | Alignment | Suggested Domains | Symbol |

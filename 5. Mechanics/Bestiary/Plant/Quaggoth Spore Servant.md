@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1
-  - monster/environment/underdark
-  - monster/size/medium
-  - monster/type/plant
+- compendium/src/5e/mm
+- monster/cr/1
+- monster/environment/underdark
+- monster/size/medium
+- monster/type/plant
 statblock: inline
-aliases:
-  - Quaggoth Spore Servant
+aliases: ["Quaggoth Spore Servant"]
 ---
 # [[5. Mechanics\Bestiary\Plant\Quaggoth Spore Servant.md|Quaggoth Spore Servant]]
 *Source: Monster Manual p. 230*  

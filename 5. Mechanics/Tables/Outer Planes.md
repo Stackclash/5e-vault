@@ -8,8 +8,6 @@ aliases: ["Outer Planes"]
 # Outer Planes
 *Source: Player's Handbook p. 301* 
 
-`dice: [[Outer Planes.md#^outer-planes]]`
-
 **Outer Planes**
 
 | Outer Plane | Alignment |

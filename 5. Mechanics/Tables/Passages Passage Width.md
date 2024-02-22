@@ -8,12 +8,10 @@ aliases: ["Passages; Passage Width"]
 # Passages; Passage Width
 *Source: Dungeon Master's Guide p. 290* 
 
-`dice: [[Passages Passage Width.md#^passage-width]]`
-
 **Passage Width**
 
-| dice: d12;d20 | Width |
-|---------------|-------|
+| d12;d20 | Width |
+|---------|-------|
 | 1-2 | 5 ft. |
 | 3-12 | 10 ft. |
 | 13-14 | 20 ft. |

@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/4
-  - monster/environment/desert
-  - monster/size/large
-  - monster/type/monstrosity
+- compendium/src/5e/mm
+- monster/cr/4
+- monster/environment/desert
+- monster/size/large
+- monster/type/monstrosity
 statblock: inline
-aliases:
-  - Lamia
+aliases: ["Lamia"]
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Lamia.md|Lamia]]
 *Source: Monster Manual p. 201. Available in the SRD.*  

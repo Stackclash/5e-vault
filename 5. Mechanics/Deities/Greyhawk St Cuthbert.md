@@ -2,11 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/phb
-  - deity/greyhawk
-  - domain/knowledge
-aliases:
-  - St. Cuthbert
+- compendium/src/5e/phb
+- deity/greyhawk
+- domain/knowledge
+aliases: ["St. Cuthbert"]
 ---
 # St. Cuthbert
 *Source: Player's Handbook p. 295* 

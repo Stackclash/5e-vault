@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/rarity/very-rare
-  - item/tier/minor
-  - item/wondrous/potion
-aliases:
-  - Oil of Sharpness
+- compendium/src/5e/dmg
+- item/rarity/very-rare
+- item/tier/minor
+- item/wondrous/potion
+aliases: 
+- "Oil of Sharpness"
 ---
 # Oil of Sharpness
 *Potion, minor, very rare*  

@@ -2,10 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-  - compendium/src/5e/phb
-  - optional-feature/ed
-aliases:
-  - Elemental Attunement
+- compendium/src/5e/phb
+- optional-feature/ed
+aliases: ["Elemental Attunement"]
 ---
 # Elemental Attunement
 *Source: Player's Handbook p. 81*  

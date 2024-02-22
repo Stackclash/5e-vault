@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/0
-  - monster/size/tiny
-  - monster/type/beast
+- compendium/src/5e/mm
+- monster/cr/0
+- monster/size/tiny
+- monster/type/beast
 statblock: inline
-aliases:
-  - Spider
+aliases: ["Spider"]
 ---
 # [[5. Mechanics\Bestiary\Beast\Spider.md|Spider]]
 *Source: Monster Manual p. 337. Available in the SRD and the Basic Rules.*  

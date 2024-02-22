@@ -2,10 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/phb
-  - subclass/bard/lore
-aliases:
-  - College of Lore
+- compendium/src/5e/phb
+- subclass/bard/lore
+aliases: ["College of Lore"]
 ---
 # College of Lore
 *[[Bard.md\|Bard]]: Bard College*  

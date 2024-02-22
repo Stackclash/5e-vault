@@ -8,9 +8,9 @@ aliases: ["Assault or Invasion; Invading Forces"]
 # Assault or Invasion; Invading Forces
 *Source: Dungeon Master's Guide p. 29* 
 
-`dice: [[Assault Or Invasion Invading Forces.md#^invading-forces]]`
-
 **Invading Forces**
+
+`dice: [[Assault Or Invasion Invading Forces.md#^invading-forces]]`
 
 | dice: d8 | Invading Forces |
 |----------|-----------------|

@@ -2,17 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/7
-  - monster/environment/desert
-  - monster/environment/forest
-  - monster/environment/swamp
-  - monster/size/large
-  - monster/type/monstrosity/shapechanger
-  - monster/type/monstrosity/yuan-ti
+- compendium/src/5e/mm
+- monster/cr/7
+- monster/environment/desert
+- monster/environment/forest
+- monster/environment/swamp
+- monster/size/large
+- monster/type/monstrosity/shapechanger
+- monster/type/monstrosity/yuan-ti
 statblock: inline
-aliases:
-  - Yuan-ti Abomination
+aliases: ["Yuan-ti Abomination"]
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Yuan Ti Abomination.md|Yuan-ti Abomination]]
 *Source: Monster Manual p. 308*  

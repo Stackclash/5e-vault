@@ -8,12 +8,10 @@ aliases: ["Random Encounters at Sea"]
 # Random Encounters at Sea
 *Source: Dungeon Master's Guide p. 118* 
 
-`dice: [[Random Encounters At Sea.md#^random-encounters-at-sea]]`
-
 **Random Encounters at Sea**
 
-| dice: d12 + d8 | Encounter |
-|----------------|-----------|
+| d12 + d8 | Encounter |
+|----------|-----------|
 | 2 | Ghost ship |
 | 3 | Friendly and curious bronze dragon |
 | 4 | Whirlpool (25% chance chance that the whirlpool is a portal to the Elemental Plane of Water) |

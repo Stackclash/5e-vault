@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/attunement/required
-  - item/rarity/uncommon
-  - item/tier/major
-  - item/wondrous/ring
-aliases:
-  - Ring of Jumping
+- compendium/src/5e/dmg
+- item/attunement/required
+- item/rarity/uncommon
+- item/tier/major
+- item/wondrous/ring
+aliases: 
+- "Ring of Jumping"
 ---
 # Ring of Jumping
 *Ring, major, uncommon (requires attunement)*  

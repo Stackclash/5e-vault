@@ -2,11 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/phb
-  - domain/tempest
-  - subclass/cleric/tempest
-aliases:
-  - Tempest Domain
+- compendium/src/5e/phb
+- domain/tempest
+- subclass/cleric/tempest
+aliases: ["Tempest Domain"]
 ---
 # Tempest Domain
 *[[Cleric.md\|Cleric]]: Divine Domain*  

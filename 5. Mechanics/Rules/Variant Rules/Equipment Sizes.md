@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/phb
-aliases:
-  - Equipment Sizes
+- compendium/src/5e/phb
+aliases: ["Equipment Sizes"]
 ---
 # Equipment Sizes
 *Source: Player's Handbook p. 145* 

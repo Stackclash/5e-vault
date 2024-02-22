@@ -2,10 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-  - compendium/src/5e/phb
-  - race/half-elf
-aliases:
-  - Half-Elf
+- compendium/src/5e/phb
+- race/half-elf
+aliases: ["Half-Elf"]
 ---
 # Half-Elf
 *Source: Player's Handbook p. 38. Available in the SRD.*  

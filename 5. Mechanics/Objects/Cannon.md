@@ -2,12 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-  - compendium/src/5e/dmg
-  - object/size/large
-  - object/type/siege-weapon
+- compendium/src/5e/dmg
+- object/size/large
+- object/type/siege-weapon
 statblock: inline
-aliases:
-  - Cannon
+aliases: ["Cannon"]
 ---
 # Cannon
 *Source: Dungeon Master's Guide p. 255*  

@@ -2,10 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-  - compendium/src/5e/dmg
-  - reward/blessing
-aliases:
-  - Blessing of Magic Resistance
+- compendium/src/5e/dmg
+- reward/blessing
+aliases: ["Blessing of Magic Resistance"]
 ---
 # Blessing of Magic Resistance
 

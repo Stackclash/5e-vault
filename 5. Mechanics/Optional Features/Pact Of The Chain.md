@@ -2,10 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-  - compendium/src/5e/phb
-  - optional-feature/pb
-aliases:
-  - Pact of the Chain
+- compendium/src/5e/phb
+- optional-feature/pb
+aliases: ["Pact of the Chain"]
 ---
 # Pact of the Chain
 *Source: Player's Handbook p. 107. Available in the SRD.*  

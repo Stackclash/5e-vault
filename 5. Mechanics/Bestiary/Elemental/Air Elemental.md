@@ -2,15 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/5
-  - monster/environment/desert
-  - monster/environment/mountain
-  - monster/size/large
-  - monster/type/elemental
+- compendium/src/5e/mm
+- monster/cr/5
+- monster/environment/desert
+- monster/environment/mountain
+- monster/size/large
+- monster/type/elemental
 statblock: inline
-aliases:
-  - Air Elemental
+aliases: ["Air Elemental"]
 ---
 # [[5. Mechanics\Bestiary\Elemental\Air Elemental.md|Air Elemental]]
 *Source: Monster Manual p. 124, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  

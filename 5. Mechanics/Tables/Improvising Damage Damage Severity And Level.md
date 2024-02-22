@@ -8,8 +8,6 @@ aliases: ["Improvising Damage; Damage Severity and Level"]
 # Improvising Damage; Damage Severity and Level
 *Source: Dungeon Master's Guide p. 249* 
 
-`dice: [[Improvising Damage Damage Severity And Level.md#^damage-severity-and-level]]`
-
 **Damage Severity and Level**
 
 | Character Level | Setback | Dangerous | Deadly |

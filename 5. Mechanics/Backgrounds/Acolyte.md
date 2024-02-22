@@ -2,10 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
-  - background
-  - compendium/src/5e/phb
-aliases:
-  - Acolyte
+- background
+- compendium/src/5e/phb
+aliases: ["Acolyte"]
 ---
 # Acolyte
 *Source: Player's Handbook p. 127. Available in the SRD and the Basic Rules.*  

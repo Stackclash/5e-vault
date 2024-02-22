@@ -2,11 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/phb
-  - domain/trickery
-  - subclass/cleric/trickery
-aliases:
-  - Trickery Domain
+- compendium/src/5e/phb
+- domain/trickery
+- subclass/cleric/trickery
+aliases: ["Trickery Domain"]
 ---
 # Trickery Domain
 *[[Cleric.md\|Cleric]]: Divine Domain*  

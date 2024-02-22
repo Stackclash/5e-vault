@@ -2,15 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer
-  - spell/class/bard
-  - spell/class/cleric/forge-domain
-  - spell/class/druid
-  - spell/level/2
-  - spell/school/transmutation
-aliases:
-  - Heat Metal
+- compendium/src/5e/phb
+- spell/class/artificer
+- spell/class/bard
+- spell/class/cleric/forge-domain
+- spell/class/druid
+- spell/level/2
+- spell/school/transmutation
+aliases: ["Heat Metal"]
 ---
 # Heat Metal
 %%-- Embedded content starts on the next line. --%%

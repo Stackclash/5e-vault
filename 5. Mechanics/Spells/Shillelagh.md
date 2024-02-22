@@ -11,6 +11,7 @@ tags:
 aliases: ["Shillelagh"]
 ---
 # Shillelagh
+%%-- Embedded content starts on the next line. --%%
 *cantrip, Transmutation*  
 
 - **Casting time:** 1 bonus

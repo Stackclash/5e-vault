@@ -8,9 +8,9 @@ aliases: ["Massive Damage; System Shock"]
 # Massive Damage; System Shock
 *Source: Dungeon Master's Guide p. 273* 
 
-`dice: [[Massive Damage System Shock.md#^system-shock]]`
-
 **System Shock**
+
+`dice: [[Massive Damage System Shock.md#^system-shock]]`
 
 | dice: d10 | Effect |
 |-----------|--------|

@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/8
-  - monster/environment/swamp
-  - monster/size/huge
-  - monster/type/monstrosity
+- compendium/src/5e/mm
+- monster/cr/8
+- monster/environment/swamp
+- monster/size/huge
+- monster/type/monstrosity
 statblock: inline
-aliases:
-  - Hydra
+aliases: ["Hydra"]
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Hydra.md|Hydra]]
 *Source: Monster Manual p. 190. Available in the SRD and the Basic Rules.*  

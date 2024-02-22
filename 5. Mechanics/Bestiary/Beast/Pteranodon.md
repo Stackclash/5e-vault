@@ -2,16 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-4
-  - monster/environment/coastal
-  - monster/environment/grassland
-  - monster/environment/mountain
-  - monster/size/medium
-  - monster/type/beast
+- compendium/src/5e/mm
+- monster/cr/1-4
+- monster/environment/coastal
+- monster/environment/grassland
+- monster/environment/mountain
+- monster/size/medium
+- monster/type/beast
 statblock: inline
-aliases:
-  - Pteranodon
+aliases: ["Pteranodon"]
 ---
 # [[5. Mechanics\Bestiary\Beast\Pteranodon.md|Pteranodon]]
 *Source: Monster Manual p. 80, Eberron: Rising from the Last War. Available in the Basic Rules.*  

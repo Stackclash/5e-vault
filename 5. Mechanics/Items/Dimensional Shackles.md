@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/rarity/rare
-  - item/tier/major
-  - item/wondrous
-aliases:
-  - Dimensional Shackles
+- compendium/src/5e/dmg
+- item/rarity/rare
+- item/tier/major
+- item/wondrous
+aliases: 
+- "Dimensional Shackles"
 ---
 # Dimensional Shackles
 *Wondrous Item, major, rare*  

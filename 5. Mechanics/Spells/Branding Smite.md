@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer/battle-smith
-  - spell/class/paladin
-  - spell/class/warlock/the-hexblade
-  - spell/level/2
-  - spell/school/evocation
-aliases:
-  - Branding Smite
+- compendium/src/5e/phb
+- spell/class/artificer/battle-smith
+- spell/class/paladin
+- spell/class/warlock/the-hexblade
+- spell/level/2
+- spell/school/evocation
+aliases: ["Branding Smite"]
 ---
 # Branding Smite
 %%-- Embedded content starts on the next line. --%%

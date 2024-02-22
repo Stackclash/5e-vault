@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/attunement/required
-  - item/property/martial
-  - item/property/versatile
-  - item/rarity/legendary
-  - item/tier/major
-  - item/weapon/martial/melee
-aliases:
-  - Sword of Answering (Retorter)
+- compendium/src/5e/dmg
+- item/attunement/required
+- item/property/martial
+- item/property/versatile
+- item/rarity/legendary
+- item/tier/major
+- item/weapon/martial/melee
+aliases: 
+- "Sword of Answering (Retorter)"
 ---
 # Sword of Answering (Retorter)
 *Melee Weapon, major, legendary (requires attunement by a lawful good creature)*  

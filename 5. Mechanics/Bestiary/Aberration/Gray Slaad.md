@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/9
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/aberration/shapechanger
+- compendium/src/5e/mm
+- monster/cr/9
+- monster/environment/urban
+- monster/size/medium
+- monster/type/aberration/shapechanger
 statblock: inline
-aliases:
-  - Gray Slaad
+aliases: ["Gray Slaad"]
 ---
 # [[5. Mechanics\Bestiary\Aberration\Gray Slaad.md|Gray Slaad]]
 *Source: Monster Manual p. 277*  

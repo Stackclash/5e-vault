@@ -2,18 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/3
-  - monster/environment/desert
-  - monster/environment/forest
-  - monster/environment/grassland
-  - monster/environment/hill
-  - monster/environment/underdark
-  - monster/size/medium
-  - monster/type/humanoid/goblinoid
+- compendium/src/5e/mm
+- monster/cr/3
+- monster/environment/desert
+- monster/environment/forest
+- monster/environment/grassland
+- monster/environment/hill
+- monster/environment/underdark
+- monster/size/medium
+- monster/type/humanoid/goblinoid
 statblock: inline
-aliases:
-  - Hobgoblin Captain
+aliases: ["Hobgoblin Captain"]
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Hobgoblin Captain.md|Hobgoblin Captain]]
 *Source: Monster Manual p. 186*  

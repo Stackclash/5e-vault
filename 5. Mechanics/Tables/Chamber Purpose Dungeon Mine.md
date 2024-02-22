@@ -8,9 +8,9 @@ aliases: ["Chamber Purpose; Dungeon: Mine"]
 # Chamber Purpose; Dungeon: Mine
 *Source: Dungeon Master's Guide p. 292* 
 
-`dice: [[Chamber Purpose Dungeon Mine.md#^dungeon-mine]]`
-
 **Dungeon: Mine**
+
+`dice: [[Chamber Purpose Dungeon Mine.md#^dungeon-mine]]`
 
 | dice: d20 | Purpose |
 |-----------|---------|

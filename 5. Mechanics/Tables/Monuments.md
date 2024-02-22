@@ -8,9 +8,9 @@ aliases: ["Monuments"]
 # Monuments
 *Source: Dungeon Master's Guide p. 108* 
 
-`dice: [[Monuments.md#^monuments]]`
-
 **Monuments**
+
+`dice: [[Monuments.md#^monuments]]`
 
 | dice: d20 | Monument |
 |-----------|----------|

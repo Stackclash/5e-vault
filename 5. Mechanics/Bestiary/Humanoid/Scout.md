@@ -2,22 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-2
-  - monster/environment/arctic
-  - monster/environment/coastal
-  - monster/environment/desert
-  - monster/environment/forest
-  - monster/environment/grassland
-  - monster/environment/hill
-  - monster/environment/mountain
-  - monster/environment/swamp
-  - monster/environment/underdark
-  - monster/size/medium
-  - monster/type/humanoid/any-race
+- compendium/src/5e/mm
+- monster/cr/1-2
+- monster/environment/arctic
+- monster/environment/coastal
+- monster/environment/desert
+- monster/environment/forest
+- monster/environment/grassland
+- monster/environment/hill
+- monster/environment/mountain
+- monster/environment/swamp
+- monster/environment/underdark
+- monster/size/medium
+- monster/type/humanoid/any-race
 statblock: inline
-aliases:
-  - Scout
+aliases: ["Scout"]
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Scout.md|Scout]]
 *Source: Monster Manual p. 349, Curse of Strahd. Available in the SRD.*  

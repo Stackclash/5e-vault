@@ -2,15 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/scag
-  - deity/faerunian
-  - domain/forge
-  - domain/knowledge
-aliases:
-  - Gond
-  - The Wonderbringer
-  - The Inspiration Divine
-  - The Holy Maker of All Things
+- compendium/src/5e/scag
+- deity/faerunian
+- domain/forge
+- domain/knowledge
+aliases: ["Gond", "The Wonderbringer", "The Inspiration Divine", "The Holy Maker of All Things"]
 ---
 # Gond
 *Source: Sword Coast Adventurer's Guide p. 21, Xanathar's Guide to Everything p. 18* 

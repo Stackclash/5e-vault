@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/attunement/required
-  - item/gear/instrument
-  - item/rarity/legendary
-  - item/tier/major
-aliases:
-  - 'Instrument of the Bards, Ollamh Harp'
+- compendium/src/5e/dmg
+- item/attunement/required
+- item/gear/instrument
+- item/rarity/legendary
+- item/tier/major
+aliases: 
+- "Instrument of the Bards, Ollamh Harp"
 ---
 # Instrument of the Bards, Ollamh Harp
 *Instrument, major, legendary (requires attunement by a bard)*  

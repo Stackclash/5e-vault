@@ -2,20 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/druid/circle-of-the-land
-  - spell/class/fighter/eldritch-knight
-  - spell/class/monk/way-of-shadow
-  - spell/class/paladin/oathbreaker
-  - spell/class/rogue/arcane-trickster
-  - spell/class/sorcerer
-  - spell/class/sorcerer/shadow-magic
-  - spell/class/warlock
-  - spell/class/wizard
-  - spell/level/2
-  - spell/school/evocation
-aliases:
-  - Darkness
+- compendium/src/5e/phb
+- spell/class/druid/circle-of-the-land
+- spell/class/fighter/eldritch-knight
+- spell/class/monk/way-of-shadow
+- spell/class/paladin/oathbreaker
+- spell/class/rogue/arcane-trickster
+- spell/class/sorcerer
+- spell/class/sorcerer/shadow-magic
+- spell/class/warlock
+- spell/class/wizard
+- spell/level/2
+- spell/school/evocation
+aliases: ["Darkness"]
 ---
 # Darkness
 %%-- Embedded content starts on the next line. --%%

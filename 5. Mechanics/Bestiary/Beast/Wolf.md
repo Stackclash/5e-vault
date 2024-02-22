@@ -2,16 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-4
-  - monster/environment/forest
-  - monster/environment/grassland
-  - monster/environment/hill
-  - monster/size/medium
-  - monster/type/beast
+- compendium/src/5e/mm
+- monster/cr/1-4
+- monster/environment/forest
+- monster/environment/grassland
+- monster/environment/hill
+- monster/size/medium
+- monster/type/beast
 statblock: inline
-aliases:
-  - Wolf
+aliases: ["Wolf"]
 ---
 # [[5. Mechanics\Bestiary\Beast\Wolf.md|Wolf]]
 *Source: Monster Manual p. 341, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  

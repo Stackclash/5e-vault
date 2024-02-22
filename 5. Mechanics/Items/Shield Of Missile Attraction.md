@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/armor/shield
-  - item/attunement/required
-  - item/rarity/rare
-  - item/tier/major
-aliases:
-  - Shield of Missile Attraction
+- compendium/src/5e/dmg
+- item/armor/shield
+- item/attunement/required
+- item/rarity/rare
+- item/tier/major
+aliases: 
+- "Shield of Missile Attraction"
 ---
 # Shield of Missile Attraction
 *Shield, major, rare (requires attunement)*  

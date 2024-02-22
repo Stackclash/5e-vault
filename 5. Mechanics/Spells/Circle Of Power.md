@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/cleric/twilight-domain
-  - spell/class/paladin
-  - spell/level/5
-  - spell/school/abjuration
-aliases:
-  - Circle of Power
+- compendium/src/5e/phb
+- spell/class/cleric/twilight-domain
+- spell/class/paladin
+- spell/level/5
+- spell/school/abjuration
+aliases: ["Circle of Power"]
 ---
 # Circle of Power
 %%-- Embedded content starts on the next line. --%%

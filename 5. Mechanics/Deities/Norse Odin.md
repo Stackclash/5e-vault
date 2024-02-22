@@ -2,12 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/phb
-  - deity/norse
-  - domain/knowledge
-  - domain/war
-aliases:
-  - Odin
+- compendium/src/5e/phb
+- deity/norse
+- domain/knowledge
+- domain/war
+aliases: ["Odin"]
 ---
 # Odin
 *Source: Player's Handbook p. 299* 

@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer
-  - spell/class/warlock/the-fathomless
-  - spell/class/wizard
-  - spell/level/5
-  - spell/school/evocation
-aliases:
-  - Bigby's Hand
+- compendium/src/5e/phb
+- spell/class/artificer
+- spell/class/warlock/the-fathomless
+- spell/class/wizard
+- spell/level/5
+- spell/school/evocation
+aliases: ["Bigby's Hand"]
 ---
 # Bigby's Hand
 %%-- Embedded content starts on the next line. --%%

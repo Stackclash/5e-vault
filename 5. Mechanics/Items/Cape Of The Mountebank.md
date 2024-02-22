@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/rarity/rare
-  - item/tier/major
-  - item/wondrous
-aliases:
-  - Cape of the Mountebank
+- compendium/src/5e/dmg
+- item/rarity/rare
+- item/tier/major
+- item/wondrous
+aliases: 
+- "Cape of the Mountebank"
 ---
 # Cape of the Mountebank
 *Wondrous Item, major, rare*  

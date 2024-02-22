@@ -2,16 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/scag
-  - deity/faerunian
-  - domain/life
-  - domain/nature
-  - domain/peace
-aliases:
-  - Eldath
-  - The Quiet One
-  - The Guardian of Groves
-  - The Mother of the Waters
+- compendium/src/5e/scag
+- deity/faerunian
+- domain/life
+- domain/nature
+- domain/peace
+aliases: ["Eldath", "The Quiet One", "The Guardian of Groves", "The Mother of the Waters"]
 ---
 # Eldath
 *Source: Sword Coast Adventurer's Guide p. 21, Tasha's Cauldron of Everything p. 32* 

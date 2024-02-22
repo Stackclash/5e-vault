@@ -8,9 +8,9 @@ aliases: ["Random Obstacles; Obstacles"]
 # Random Obstacles; Obstacles
 *Source: Dungeon Master's Guide p. 296* 
 
-`dice: [[Random Obstacles Obstacles.md#^obstacles]]`
-
 **Obstacles**
+
+`dice: [[Random Obstacles Obstacles.md#^obstacles]]`
 
 | dice: d20 | Obstacle |
 |-----------|----------|

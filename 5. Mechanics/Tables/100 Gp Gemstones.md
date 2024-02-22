@@ -8,9 +8,9 @@ aliases: ["100 gp Gemstones"]
 # 100 gp Gemstones
 *Source: Dungeon Master's Guide p. 134* 
 
-`dice: [[100 Gp Gemstones.md#^100-gp-gemstones]]`
-
 **100 gp Gemstones**
+
+`dice: [[100 Gp Gemstones.md#^100-gp-gemstones]]`
 
 | dice: d10 | Stone Description |
 |-----------|-------------------|

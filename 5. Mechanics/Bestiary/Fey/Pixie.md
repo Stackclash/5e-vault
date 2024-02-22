@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-4
-  - monster/environment/forest
-  - monster/size/tiny
-  - monster/type/fey
+- compendium/src/5e/mm
+- monster/cr/1-4
+- monster/environment/forest
+- monster/size/tiny
+- monster/type/fey
 statblock: inline
-aliases:
-  - Pixie
+aliases: ["Pixie"]
 ---
 # [[5. Mechanics\Bestiary\Fey\Pixie.md|Pixie]]
 *Source: Monster Manual p. 253, Eberron: Rising from the Last War*  

@@ -2,10 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-  - compendium/src/5e/phb
-  - optional-feature/ed
-aliases:
-  - Unbroken Air
+- compendium/src/5e/phb
+- optional-feature/ed
+aliases: ["Unbroken Air"]
 ---
 # Unbroken Air
 *Source: Player's Handbook p. 81*  

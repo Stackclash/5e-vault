@@ -8,8 +8,6 @@ aliases: ["Examples of Faction Ranks"]
 # Examples of Faction Ranks
 *Source: Dungeon Master's Guide p. 22* 
 
-`dice: [[Examples Of Faction Ranks.md#^examples-of-faction-ranks]]`
-
 **Examples of Faction Ranks**
 
 | Renown | Harpers | Order of the Gauntlet | Emerald Enclave | Lords' Alliance | Zhentarim |

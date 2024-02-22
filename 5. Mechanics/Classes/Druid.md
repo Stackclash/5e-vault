@@ -2,10 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - class/druid
-  - compendium/src/5e/phb
-aliases:
-  - Druid
+- class/druid
+- compendium/src/5e/phb
+aliases: ["Druid"]
 ---
 # Druid
 *Source: Player's Handbook p. 64. Available in the SRD.*  

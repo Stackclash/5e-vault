@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Chapter 5: Tools & Other Additions"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - 'Chapter 5: Tools & Other Additions'
 ---
 # Chapter 5: Tools & Other Additions
 *Source: Hamund's Harvesting Handbook: Volume I, p. 145* 

@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/16
-  - monster/size/large
-  - monster/type/celestial
+- compendium/src/5e/mm
+- monster/cr/16
+- monster/size/large
+- monster/type/celestial
 statblock: inline
-aliases:
-  - Planetar
+aliases: ["Planetar"]
 ---
 # [[5. Mechanics\Bestiary\Celestial\Planetar.md|Planetar]]
 *Source: Monster Manual p. 17. Available in the SRD.*  

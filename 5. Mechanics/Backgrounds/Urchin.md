@@ -2,10 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
-  - background
-  - compendium/src/5e/phb
-aliases:
-  - Urchin
+- background
+- compendium/src/5e/phb
+aliases: ["Urchin"]
 ---
 # Urchin
 *Source: Player's Handbook p. 141*  

@@ -2,12 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/mtf
-  - deity/elven
-  - domain/life
-  - domain/trickery
-aliases:
-  - Ye'Cind
+- compendium/src/5e/mtf
+- deity/elven
+- domain/life
+- domain/trickery
+aliases: ["Ye'Cind"]
 ---
 # Ye'Cind
 *Source: Mordenkainen's Tome of Foes p. 43* 

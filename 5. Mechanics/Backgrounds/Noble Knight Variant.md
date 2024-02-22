@@ -2,10 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
-  - background
-  - compendium/src/5e/phb
-aliases:
-  - Noble (Knight) (Variant)
+- background
+- compendium/src/5e/phb
+aliases: ["Noble (Knight) (Variant)"]
 ---
 # Noble (Knight) (Variant)
 *Source: Player's Handbook p. 136*  

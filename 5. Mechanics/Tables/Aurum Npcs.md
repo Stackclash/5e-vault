@@ -8,9 +8,9 @@ aliases: ["Aurum NPCs"]
 # Aurum NPCs
 *Source: Eberron: Rising from the Last War p. 187* 
 
-`dice: [[Aurum Npcs (ERLW).md#^aurum-npcs]]`
-
 **Aurum NPCs**
+
+`dice: [[Aurum Npcs.md#^aurum-npcs]]`
 
 | dice: d4 | NPC |
 |----------|-----|

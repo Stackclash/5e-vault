@@ -8,8 +8,6 @@ aliases: ["Hit Points; Hit Dice by Size"]
 # Hit Points; Hit Dice by Size
 *Source: Monster Manual p. 7* 
 
-`dice: [[Hit Points Hit Dice By Size.md#^hit-dice-by-size]]`
-
 **Hit Dice by Size**
 
 | Monster Size | Hit Die | Average HP per Die |

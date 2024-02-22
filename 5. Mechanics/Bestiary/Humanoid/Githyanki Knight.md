@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/8
-  - monster/size/medium
-  - monster/type/humanoid/gith
+- compendium/src/5e/mm
+- monster/cr/8
+- monster/size/medium
+- monster/type/humanoid/gith
 statblock: inline
-aliases:
-  - Githyanki Knight
+aliases: ["Githyanki Knight"]
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Githyanki Knight.md|Githyanki Knight]]
 *Source: Monster Manual p. 160*  

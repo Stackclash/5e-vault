@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/attunement/required
-  - item/gear/instrument
-  - item/rarity/rare
-  - item/tier/major
-aliases:
-  - 'Instrument of the Bards, Cli Lyre'
+- compendium/src/5e/dmg
+- item/attunement/required
+- item/gear/instrument
+- item/rarity/rare
+- item/tier/major
+aliases: 
+- "Instrument of the Bards, Cli Lyre"
 ---
 # Instrument of the Bards, Cli Lyre
 *Instrument, major, rare (requires attunement by a bard)*  

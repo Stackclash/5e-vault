@@ -2,12 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/erlw
-  - deity/eberron
-  - domain/nature
-  - domain/war
-aliases:
-  - The Spirits of the Past
+- compendium/src/5e/erlw
+- deity/eberron
+- domain/nature
+- domain/war
+aliases: ["The Spirits of the Past"]
 ---
 # The Spirits of the Past
 *Source: Eberron: Rising from the Last War p. 141* 

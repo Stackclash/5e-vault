@@ -2,15 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/2
-  - monster/environment/forest
-  - monster/environment/swamp
-  - monster/size/medium
-  - monster/type/humanoid/lizardfolk
+- compendium/src/5e/mm
+- monster/cr/2
+- monster/environment/forest
+- monster/environment/swamp
+- monster/size/medium
+- monster/type/humanoid/lizardfolk
 statblock: inline
-aliases:
-  - Lizardfolk Shaman
+aliases: ["Lizardfolk Shaman"]
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Lizardfolk Shaman.md|Lizardfolk Shaman]]
 *Source: Monster Manual p. 205*  

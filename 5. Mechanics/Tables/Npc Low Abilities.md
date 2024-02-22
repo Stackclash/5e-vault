@@ -8,9 +8,9 @@ aliases: ["NPC Low Abilities"]
 # NPC Low Abilities
 *Source: Dungeon Master's Guide p. 88* 
 
-`dice: [[Npc Low Abilities.md#^npc-low-abilities]]`
-
 **NPC Low Abilities**
+
+`dice: [[Npc Low Abilities.md#^npc-low-abilities]]`
 
 | dice: d6 | Low Ability |
 |----------|-------------|

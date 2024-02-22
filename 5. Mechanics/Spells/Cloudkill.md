@@ -2,19 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer/alchemist
-  - spell/class/cleric/death-domain
-  - spell/class/druid/circle-of-spores
-  - spell/class/druid/circle-of-the-land
-  - spell/class/paladin/oath-of-conquest
-  - spell/class/sorcerer
-  - spell/class/warlock/the-undead
-  - spell/class/wizard
-  - spell/level/5
-  - spell/school/conjuration
-aliases:
-  - Cloudkill
+- compendium/src/5e/phb
+- spell/class/artificer/alchemist
+- spell/class/cleric/death-domain
+- spell/class/druid/circle-of-spores
+- spell/class/druid/circle-of-the-land
+- spell/class/paladin/oath-of-conquest
+- spell/class/sorcerer
+- spell/class/warlock/the-undead
+- spell/class/wizard
+- spell/level/5
+- spell/school/conjuration
+aliases: ["Cloudkill"]
 ---
 # Cloudkill
 %%-- Embedded content starts on the next line. --%%

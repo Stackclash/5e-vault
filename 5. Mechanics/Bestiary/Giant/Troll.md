@@ -2,19 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/5
-  - monster/environment/arctic
-  - monster/environment/forest
-  - monster/environment/hill
-  - monster/environment/mountain
-  - monster/environment/swamp
-  - monster/environment/underdark
-  - monster/size/large
-  - monster/type/giant
+- compendium/src/5e/mm
+- monster/cr/5
+- monster/environment/arctic
+- monster/environment/forest
+- monster/environment/hill
+- monster/environment/mountain
+- monster/environment/swamp
+- monster/environment/underdark
+- monster/size/large
+- monster/type/giant
 statblock: inline
-aliases:
-  - Troll
+aliases: ["Troll"]
 ---
 # [[5. Mechanics\Bestiary\Giant\Troll.md|Troll]]
 *Source: Monster Manual p. 291. Available in the SRD and the Basic Rules.*  

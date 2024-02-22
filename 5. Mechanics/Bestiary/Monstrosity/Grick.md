@@ -2,15 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/2
-  - monster/environment/forest
-  - monster/environment/underdark
-  - monster/size/medium
-  - monster/type/monstrosity
+- compendium/src/5e/mm
+- monster/cr/2
+- monster/environment/forest
+- monster/environment/underdark
+- monster/size/medium
+- monster/type/monstrosity
 statblock: inline
-aliases:
-  - Grick
+aliases: ["Grick"]
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Grick.md|Grick]]
 *Source: Monster Manual p. 173, Curse of Strahd. Available in the SRD and the Basic Rules.*  

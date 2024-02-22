@@ -2,15 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/9
-  - monster/environment/mountain
-  - monster/environment/underdark
-  - monster/size/huge
-  - monster/type/giant
+- compendium/src/5e/mm
+- monster/cr/9
+- monster/environment/mountain
+- monster/environment/underdark
+- monster/size/huge
+- monster/type/giant
 statblock: inline
-aliases:
-  - Fire Giant
+aliases: ["Fire Giant"]
 ---
 # [[5. Mechanics\Bestiary\Giant\Fire Giant.md|Fire Giant]]
 *Source: Monster Manual p. 154. Available in the SRD and the Basic Rules.*  

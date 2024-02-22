@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/2
-  - monster/environment/underdark
-  - monster/size/medium
-  - monster/type/humanoid/quaggoth
+- compendium/src/5e/mm
+- monster/cr/2
+- monster/environment/underdark
+- monster/size/medium
+- monster/type/humanoid/quaggoth
 statblock: inline
-aliases:
-  - Quaggoth
+aliases: ["Quaggoth"]
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Quaggoth.md|Quaggoth]]
 *Source: Monster Manual p. 256*  

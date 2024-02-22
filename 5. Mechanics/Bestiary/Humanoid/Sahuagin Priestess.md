@@ -2,15 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/2
-  - monster/environment/coastal
-  - monster/environment/underwater
-  - monster/size/medium
-  - monster/type/humanoid/sahuagin
+- compendium/src/5e/mm
+- monster/cr/2
+- monster/environment/coastal
+- monster/environment/underwater
+- monster/size/medium
+- monster/type/humanoid/sahuagin
 statblock: inline
-aliases:
-  - Sahuagin Priestess
+aliases: ["Sahuagin Priestess"]
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Sahuagin Priestess.md|Sahuagin Priestess]]
 *Source: Monster Manual p. 264*  

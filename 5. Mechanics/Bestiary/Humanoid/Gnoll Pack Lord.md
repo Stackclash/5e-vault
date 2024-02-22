@@ -2,17 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/2
-  - monster/environment/desert
-  - monster/environment/forest
-  - monster/environment/grassland
-  - monster/environment/hill
-  - monster/size/medium
-  - monster/type/humanoid/gnoll
+- compendium/src/5e/mm
+- monster/cr/2
+- monster/environment/desert
+- monster/environment/forest
+- monster/environment/grassland
+- monster/environment/hill
+- monster/size/medium
+- monster/type/humanoid/gnoll
 statblock: inline
-aliases:
-  - Gnoll Pack Lord
+aliases: ["Gnoll Pack Lord"]
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Gnoll Pack Lord.md|Gnoll Pack Lord]]
 *Source: Monster Manual p. 163*  

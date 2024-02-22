@@ -2,19 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/fighter/eldritch-knight
-  - spell/class/paladin/oath-of-conquest
-  - spell/class/paladin/oathbreaker
-  - spell/class/rogue/arcane-trickster
-  - spell/class/sorcerer/divine-soul
-  - spell/class/wizard
-  - spell/level/3
-  - spell/school/necromancy
-aliases:
-  - Bestow Curse
+- compendium/src/5e/phb
+- spell/class/bard
+- spell/class/cleric
+- spell/class/fighter/eldritch-knight
+- spell/class/paladin/oath-of-conquest
+- spell/class/paladin/oathbreaker
+- spell/class/rogue/arcane-trickster
+- spell/class/sorcerer/divine-soul
+- spell/class/wizard
+- spell/level/3
+- spell/school/necromancy
+aliases: ["Bestow Curse"]
 ---
 # Bestow Curse
 %%-- Embedded content starts on the next line. --%%

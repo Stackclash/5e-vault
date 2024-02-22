@@ -8,9 +8,9 @@ aliases: ["Random Tricks; Tricks"]
 # Random Tricks; Tricks
 *Source: Dungeon Master's Guide p. 297* 
 
-`dice: [[Random Tricks Tricks.md#^tricks]]`
-
 **Tricks**
+
+`dice: [[Random Tricks Tricks.md#^tricks]]`
 
 | dice: d100 | Trick Effect |
 |------------|--------------|

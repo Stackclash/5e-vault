@@ -2,18 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/druid
-  - spell/class/druid/circle-of-the-land
-  - spell/class/fighter/eldritch-knight
-  - spell/class/rogue/arcane-trickster
-  - spell/class/warlock
-  - spell/class/wizard
-  - spell/level/4
-  - spell/school/illusion
-aliases:
-  - Hallucinatory Terrain
+- compendium/src/5e/phb
+- spell/class/bard
+- spell/class/druid
+- spell/class/druid/circle-of-the-land
+- spell/class/fighter/eldritch-knight
+- spell/class/rogue/arcane-trickster
+- spell/class/warlock
+- spell/class/wizard
+- spell/level/4
+- spell/school/illusion
+aliases: ["Hallucinatory Terrain"]
 ---
 # Hallucinatory Terrain
 %%-- Embedded content starts on the next line. --%%

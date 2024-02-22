@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/5
-  - monster/environment/underdark
-  - monster/size/large
-  - monster/type/undead
+- compendium/src/5e/mm
+- monster/cr/5
+- monster/environment/underdark
+- monster/size/large
+- monster/type/undead
 statblock: inline
-aliases:
-  - Beholder Zombie
+aliases: ["Beholder Zombie"]
 ---
 # [[5. Mechanics\Bestiary\Undead\Beholder Zombie.md|Beholder Zombie]]
 *Source: Monster Manual p. 316*  

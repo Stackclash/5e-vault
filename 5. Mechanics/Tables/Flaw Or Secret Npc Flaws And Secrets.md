@@ -8,9 +8,9 @@ aliases: ["Flaw or Secret; NPC Flaws and Secrets"]
 # Flaw or Secret; NPC Flaws and Secrets
 *Source: Dungeon Master's Guide p. 91* 
 
-`dice: [[Flaw Or Secret Npc Flaws And Secrets.md#^npc-flaws-and-secrets]]`
-
 **NPC Flaws and Secrets**
+
+`dice: [[Flaw Or Secret Npc Flaws And Secrets.md#^npc-flaws-and-secrets]]`
 
 | dice: d12 | Flaw or Secret |
 |-----------|----------------|

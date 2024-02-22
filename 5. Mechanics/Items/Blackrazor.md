@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/attunement/required
-  - item/property/heavy
-  - item/property/martial
-  - item/property/two-handed
-  - item/rarity/legendary
-  - item/weapon/martial/melee
-aliases:
-  - Blackrazor
+- compendium/src/5e/dmg
+- item/attunement/required
+- item/property/heavy
+- item/property/martial
+- item/property/two-handed
+- item/rarity/legendary
+- item/weapon/martial/melee
+aliases: 
+- "Blackrazor"
 ---
 # Blackrazor
 *Melee Weapon, legendary (requires attunement by a creature of non-lawful alignment)*  

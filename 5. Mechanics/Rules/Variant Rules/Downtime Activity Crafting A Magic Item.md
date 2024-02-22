@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/dmg
-aliases:
-  - 'Downtime Activity: Crafting a Magic Item'
+- compendium/src/5e/dmg
+aliases: ["Downtime Activity: Crafting a Magic Item"]
 ---
 # Downtime Activity: Crafting a Magic Item
 *Source: Dungeon Master's Guide p. 128* 

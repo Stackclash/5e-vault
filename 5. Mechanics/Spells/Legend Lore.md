@@ -2,16 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/cleric/knowledge-domain
-  - spell/class/sorcerer/divine-soul
-  - spell/class/wizard
-  - spell/level/5
-  - spell/school/divination
-aliases:
-  - Legend Lore
+- compendium/src/5e/phb
+- spell/class/bard
+- spell/class/cleric
+- spell/class/cleric/knowledge-domain
+- spell/class/sorcerer/divine-soul
+- spell/class/wizard
+- spell/level/5
+- spell/school/divination
+aliases: ["Legend Lore"]
 ---
 # Legend Lore
 %%-- Embedded content starts on the next line. --%%

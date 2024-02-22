@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/phb
-  - item/property/finesse
-  - item/property/thrown
-  - item/weapon/simple/ranged
-aliases:
-  - Dart
+- compendium/src/5e/phb
+- item/property/finesse
+- item/property/thrown
+- item/weapon/simple/ranged
+aliases: 
+- "Dart"
 cost: 5
 ---
 # Dart

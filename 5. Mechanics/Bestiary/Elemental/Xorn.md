@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/5
-  - monster/environment/underdark
-  - monster/size/medium
-  - monster/type/elemental
+- compendium/src/5e/mm
+- monster/cr/5
+- monster/environment/underdark
+- monster/size/medium
+- monster/type/elemental
 statblock: inline
-aliases:
-  - Xorn
+aliases: ["Xorn"]
 ---
 # [[5. Mechanics\Bestiary\Elemental\Xorn.md|Xorn]]
 *Source: Monster Manual p. 304. Available in the SRD.*  

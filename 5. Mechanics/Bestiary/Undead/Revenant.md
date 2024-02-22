@@ -2,19 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/5
-  - monster/environment/arctic
-  - monster/environment/desert
-  - monster/environment/forest
-  - monster/environment/hill
-  - monster/environment/swamp
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/undead
+- compendium/src/5e/mm
+- monster/cr/5
+- monster/environment/arctic
+- monster/environment/desert
+- monster/environment/forest
+- monster/environment/hill
+- monster/environment/swamp
+- monster/environment/urban
+- monster/size/medium
+- monster/type/undead
 statblock: inline
-aliases:
-  - Revenant
+aliases: ["Revenant"]
 ---
 # [[5. Mechanics\Bestiary\Undead\Revenant.md|Revenant]]
 *Source: Monster Manual p. 259, Curse of Strahd, Eberron: Rising from the Last War*  

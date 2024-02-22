@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/phb
-  - item/gear/tack-and-harness
-aliases:
-  - Saddlebags
+- compendium/src/5e/phb
+- item/gear/tack-and-harness
+aliases: 
+- "Saddlebags"
 cost: 400
 ---
 # Saddlebags

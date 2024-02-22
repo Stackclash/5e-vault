@@ -2,20 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/cleric/order-domain
-  - spell/class/cleric/trickery-domain
-  - spell/class/paladin/oath-of-conquest
-  - spell/class/paladin/oathbreaker
-  - spell/class/sorcerer
-  - spell/class/warlock/the-archfey
-  - spell/class/warlock/the-great-old-one
-  - spell/class/wizard
-  - spell/level/5
-  - spell/school/enchantment
-aliases:
-  - Dominate Person
+- compendium/src/5e/phb
+- spell/class/bard
+- spell/class/cleric/order-domain
+- spell/class/cleric/trickery-domain
+- spell/class/paladin/oath-of-conquest
+- spell/class/paladin/oathbreaker
+- spell/class/sorcerer
+- spell/class/warlock/the-archfey
+- spell/class/warlock/the-great-old-one
+- spell/class/wizard
+- spell/level/5
+- spell/school/enchantment
+aliases: ["Dominate Person"]
 ---
 # Dominate Person
 %%-- Embedded content starts on the next line. --%%

@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/phb
-  - item/gear
-aliases:
-  - Candle
+- compendium/src/5e/phb
+- item/gear
+aliases: 
+- "Candle"
 cost: 1
 ---
 # Candle

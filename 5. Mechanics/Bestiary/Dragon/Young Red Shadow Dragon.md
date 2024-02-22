@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/13
-  - monster/environment/underdark
-  - monster/size/large
-  - monster/type/dragon
+- compendium/src/5e/mm
+- monster/cr/13
+- monster/environment/underdark
+- monster/size/large
+- monster/type/dragon
 statblock: inline
-aliases:
-  - Young Red Shadow Dragon
+aliases: ["Young Red Shadow Dragon"]
 ---
 # [[5. Mechanics\Bestiary\Dragon\Young Red Shadow Dragon.md|Young Red Shadow Dragon]]
 *Source: Monster Manual p. 85*  

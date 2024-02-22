@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/17
-  - monster/size/huge
-  - monster/type/fiend/demon
+- compendium/src/5e/mm
+- monster/cr/17
+- monster/size/huge
+- monster/type/fiend/demon
 statblock: inline
-aliases:
-  - Goristro
+aliases: ["Goristro"]
 ---
 # [[5. Mechanics\Bestiary\Fiend\Goristro.md|Goristro]]
 *Source: Monster Manual p. 59*  

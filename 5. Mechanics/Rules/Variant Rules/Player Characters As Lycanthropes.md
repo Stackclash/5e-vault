@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/mm
-aliases:
-  - Player Characters as Lycanthropes
+- compendium/src/5e/mm
+aliases: ["Player Characters as Lycanthropes"]
 ---
 # Player Characters as Lycanthropes
 *Source: Monster Manual p. 207, Curse of Strahd p. 242, Waterdeep: Dungeon of the Mad Mage p. 317, Van Richten's Guide to Ravenloft p. 237* 

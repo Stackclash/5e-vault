@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/2
-  - monster/environment/underdark
-  - monster/size/medium
-  - monster/type/aberration
+- compendium/src/5e/mm
+- monster/cr/2
+- monster/environment/underdark
+- monster/size/medium
+- monster/type/aberration
 statblock: inline
-aliases:
-  - Gibbering Mouther
+aliases: ["Gibbering Mouther"]
 ---
 # [[5. Mechanics\Bestiary\Aberration\Gibbering Mouther.md|Gibbering Mouther]]
 *Source: Monster Manual p. 157, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD.*  

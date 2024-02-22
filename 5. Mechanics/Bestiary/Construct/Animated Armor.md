@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1
-  - monster/size/medium
-  - monster/type/construct
+- compendium/src/5e/mm
+- monster/cr/1
+- monster/size/medium
+- monster/type/construct
 statblock: inline
-aliases:
-  - Animated Armor
+aliases: ["Animated Armor"]
 ---
 # [[5. Mechanics\Bestiary\Construct\Animated Armor.md|Animated Armor]]
 *Source: Monster Manual p. 19, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  

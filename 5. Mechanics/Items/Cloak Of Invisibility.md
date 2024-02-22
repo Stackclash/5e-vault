@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/attunement/required
-  - item/rarity/legendary
-  - item/tier/major
-  - item/wondrous
-aliases:
-  - Cloak of Invisibility
+- compendium/src/5e/dmg
+- item/attunement/required
+- item/rarity/legendary
+- item/tier/major
+- item/wondrous
+aliases: 
+- "Cloak of Invisibility"
 ---
 # Cloak of Invisibility
 *Wondrous Item, major, legendary (requires attunement)*  

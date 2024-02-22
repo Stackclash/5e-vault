@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/23
-  - monster/environment/underwater
-  - monster/size/gargantuan
-  - monster/type/monstrosity/titan
+- compendium/src/5e/mm
+- monster/cr/23
+- monster/environment/underwater
+- monster/size/gargantuan
+- monster/type/monstrosity/titan
 statblock: inline
-aliases:
-  - Kraken
+aliases: ["Kraken"]
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Kraken.md|Kraken]]
 *Source: Monster Manual p. 197. Available in the SRD.*  

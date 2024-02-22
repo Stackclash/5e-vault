@@ -8,8 +8,6 @@ aliases: ["Multiclassing Prerequisites"]
 # Multiclassing Prerequisites
 *Source: Player's Handbook p. 163. Available in the SRD.* 
 
-`dice: [[Multiclassing Prerequisites.md#^multiclassing-prerequisites]]`
-
 **Multiclassing Prerequisites**
 
 | Class | Ability Score Minimum |

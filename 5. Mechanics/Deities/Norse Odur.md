@@ -2,11 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/phb
-  - deity/norse
-  - domain/light
-aliases:
-  - Odur
+- compendium/src/5e/phb
+- deity/norse
+- domain/light
+aliases: ["Odur"]
 ---
 # Odur
 *Source: Player's Handbook p. 299* 

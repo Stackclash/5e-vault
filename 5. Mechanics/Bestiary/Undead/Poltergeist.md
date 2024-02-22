@@ -2,15 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/2
-  - monster/environment/underdark
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/undead
+- compendium/src/5e/mm
+- monster/cr/2
+- monster/environment/underdark
+- monster/environment/urban
+- monster/size/medium
+- monster/type/undead
 statblock: inline
-aliases:
-  - Poltergeist
+aliases: ["Poltergeist"]
 ---
 # [[5. Mechanics\Bestiary\Undead\Poltergeist.md|Poltergeist]]
 *Source: Monster Manual p. 279, Curse of Strahd*  

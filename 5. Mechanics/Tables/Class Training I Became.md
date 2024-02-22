@@ -10,6 +10,8 @@ aliases: ["Class Training; I became..."]
 
 **Barbarian**
 
+`dice: [[Class Training I Became.md#^barbarian]]`
+
 | dice: d6 | I became a barbarian because... |
 |----------|---------------------------------|
 | 1 | My devotion to my people lifted me in battle, making me powerful and dangerous. |
@@ -21,6 +23,8 @@ aliases: ["Class Training; I became..."]
 ^barbarian
 
 **Bard**
+
+`dice: [[Class Training I Became.md#^bard]]`
 
 | dice: d6 | I became a bard because... |
 |----------|----------------------------|
@@ -34,6 +38,8 @@ aliases: ["Class Training; I became..."]
 
 **Cleric**
 
+`dice: [[Class Training I Became.md#^cleric]]`
+
 | dice: d6 | I became a cleric because... |
 |----------|------------------------------|
 | 1 | A supernatural being in service to the gods called me to become a divine agent in the world. |
@@ -45,6 +51,8 @@ aliases: ["Class Training; I became..."]
 ^cleric
 
 **Druid**
+
+`dice: [[Class Training I Became.md#^druid]]`
 
 | dice: d6 | I became a druid because... |
 |----------|-----------------------------|
@@ -58,6 +66,8 @@ aliases: ["Class Training; I became..."]
 
 **Fighter**
 
+`dice: [[Class Training I Became.md#^fighter]]`
+
 | dice: d6 | I became a fighter because... |
 |----------|-------------------------------|
 | 1 | I wanted to hone my combat skills, and so I joined a war college. |
@@ -69,6 +79,8 @@ aliases: ["Class Training; I became..."]
 ^fighter
 
 **Monk**
+
+`dice: [[Class Training I Became.md#^monk]]`
 
 | dice: d6 | I became a monk because... |
 |----------|----------------------------|
@@ -82,6 +94,8 @@ aliases: ["Class Training; I became..."]
 
 **Paladin**
 
+`dice: [[Class Training I Became.md#^paladin]]`
+
 | dice: d6 | I became a paladin because... |
 |----------|-------------------------------|
 | 1 | A fantastical being appeared before me and called on me to undertake a holy quest. |
@@ -93,6 +107,8 @@ aliases: ["Class Training; I became..."]
 ^paladin
 
 **Ranger**
+
+`dice: [[Class Training I Became.md#^ranger]]`
 
 | dice: d6 | I became a ranger because... |
 |----------|------------------------------|
@@ -106,6 +122,8 @@ aliases: ["Class Training; I became..."]
 
 **Rogue**
 
+`dice: [[Class Training I Became.md#^rogue]]`
+
 | dice: d6 | I became a rogue because... |
 |----------|-----------------------------|
 | 1 | I've always been nimble and quick of wit, so I decided to use those talents to help me make my way in the world. |
@@ -117,6 +135,8 @@ aliases: ["Class Training; I became..."]
 ^rogue
 
 **Sorcerer**
+
+`dice: [[Class Training I Became.md#^sorcerer]]`
 
 | dice: d6 | I became a sorcerer because... |
 |----------|--------------------------------|
@@ -130,6 +150,8 @@ aliases: ["Class Training; I became..."]
 
 **Warlock**
 
+`dice: [[Class Training I Became.md#^warlock]]`
+
 | dice: d6 | I became a warlock because... |
 |----------|-------------------------------|
 | 1 | While wandering around in a forbidden place, I encountered an otherworldly being that offered to enter into a pact with me. |
@@ -141,6 +163,8 @@ aliases: ["Class Training; I became..."]
 ^warlock
 
 **Wizard**
+
+`dice: [[Class Training I Became.md#^wizard]]`
 
 | dice: d6 | I became a wizard because... |
 |----------|------------------------------|

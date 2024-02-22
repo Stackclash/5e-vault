@@ -8,9 +8,9 @@ aliases: ["Weather; Wind"]
 # Weather; Wind
 *Source: Dungeon Master's Guide p. 109* 
 
-`dice: [[Weather Wind.md#^wind]]`
-
 **Wind**
+
+`dice: [[Weather Wind.md#^wind]]`
 
 | dice: d20 | Wind |
 |-----------|------|

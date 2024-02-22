@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/mm
-  - item/rarity/very-rare
-  - item/wondrous/wondrous-item
-aliases:
-  - Heartstone
+- compendium/src/5e/mm
+- item/rarity/very-rare
+- item/wondrous/wondrous-item
+aliases: 
+- "Heartstone"
 ---
 # Heartstone
 *Other, very rare*  

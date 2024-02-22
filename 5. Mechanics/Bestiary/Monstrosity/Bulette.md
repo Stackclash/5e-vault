@@ -2,16 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/5
-  - monster/environment/grassland
-  - monster/environment/hill
-  - monster/environment/mountain
-  - monster/size/large
-  - monster/type/monstrosity
+- compendium/src/5e/mm
+- monster/cr/5
+- monster/environment/grassland
+- monster/environment/hill
+- monster/environment/mountain
+- monster/size/large
+- monster/type/monstrosity
 statblock: inline
-aliases:
-  - Bulette
+aliases: ["Bulette"]
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Bulette.md|Bulette]]
 *Source: Monster Manual p. 34. Available in the SRD.*  

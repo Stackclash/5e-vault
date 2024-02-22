@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1
-  - monster/size/tiny
-  - monster/type/fiend/devil
+- compendium/src/5e/mm
+- monster/cr/1
+- monster/size/tiny
+- monster/type/fiend/devil
 statblock: inline
-aliases:
-  - Imp
+aliases: ["Imp"]
 ---
 # [[5. Mechanics\Bestiary\Fiend\Imp.md|Imp]]
 *Source: Monster Manual p. 76, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD.*  

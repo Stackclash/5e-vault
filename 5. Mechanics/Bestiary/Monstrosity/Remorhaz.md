@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/11
-  - monster/environment/arctic
-  - monster/size/huge
-  - monster/type/monstrosity
+- compendium/src/5e/mm
+- monster/cr/11
+- monster/environment/arctic
+- monster/size/huge
+- monster/type/monstrosity
 statblock: inline
-aliases:
-  - Remorhaz
+aliases: ["Remorhaz"]
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Remorhaz.md|Remorhaz]]
 *Source: Monster Manual p. 258. Available in the SRD.*  

@@ -2,15 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/2
-  - monster/environment/forest
-  - monster/environment/swamp
-  - monster/size/medium
-  - monster/type/beast
+- compendium/src/5e/mm
+- monster/cr/2
+- monster/environment/forest
+- monster/environment/swamp
+- monster/size/medium
+- monster/type/beast
 statblock: inline
-aliases:
-  - Swarm of Poisonous Snakes
+aliases: ["Swarm of Poisonous Snakes"]
 ---
 # [[5. Mechanics\Bestiary\Beast\Swarm Of Poisonous Snakes.md|Swarm of Poisonous Snakes]]
 *Source: Monster Manual p. 338, Curse of Strahd. Available in the SRD and the Basic Rules.*  

@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/phb
-aliases:
-  - Skills with Different Abilities
+- compendium/src/5e/phb
+aliases: ["Skills with Different Abilities"]
 ---
 # Skills with Different Abilities
 *Source: Player's Handbook p. 175* 

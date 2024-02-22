@@ -8,9 +8,9 @@ aliases: ["Chambers; Chamber"]
 # Chambers; Chamber
 *Source: Dungeon Master's Guide p. 291* 
 
-`dice: [[Chambers Chamber.md#^table]]`
-
 **Chamber**
+
+`dice: [[Chambers Chamber.md#^chamber]]`
 
 | dice: d20 | Chamber |
 |-----------|---------|
@@ -31,4 +31,3 @@ aliases: ["Chambers; Chamber"]
 ¹ Use the Normal Chamber column on the Chamber Exits table.
 
 ² Use the Large Chamber column on the Chamber Exits table.
-^table

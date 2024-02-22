@@ -2,12 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/mtf
-  - deity/dwarven
-  - domain/nature
-  - domain/trickery
-aliases:
-  - Marthammor Duin
+- compendium/src/5e/mtf
+- deity/dwarven
+- domain/nature
+- domain/trickery
+aliases: ["Marthammor Duin"]
 ---
 # Marthammor Duin
 *Source: Mordenkainen's Tome of Foes p. 73* 

@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/dmg
-aliases:
-  - Fear and Horror
+- compendium/src/5e/dmg
+aliases: ["Fear and Horror"]
 ---
 # Fear and Horror
 *Source: Dungeon Master's Guide p. 266* 

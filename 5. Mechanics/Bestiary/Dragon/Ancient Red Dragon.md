@@ -2,15 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/24
-  - monster/environment/hill
-  - monster/environment/mountain
-  - monster/size/gargantuan
-  - monster/type/dragon
+- compendium/src/5e/mm
+- monster/cr/24
+- monster/environment/hill
+- monster/environment/mountain
+- monster/size/gargantuan
+- monster/type/dragon
 statblock: inline
-aliases:
-  - Ancient Red Dragon
+aliases: ["Ancient Red Dragon"]
 ---
 # [[5. Mechanics\Bestiary\Dragon\Ancient Red Dragon.md|Ancient Red Dragon]]
 *Source: Monster Manual p. 97, Tasha's Cauldron of Everything. Available in the SRD.*  

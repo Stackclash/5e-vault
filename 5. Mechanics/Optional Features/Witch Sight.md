@@ -2,10 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-  - compendium/src/5e/phb
-  - optional-feature/ei
-aliases:
-  - Witch Sight
+- compendium/src/5e/phb
+- optional-feature/ei
+aliases: ["Witch Sight"]
 ---
 # Witch Sight
 *Source: Player's Handbook p. 111. Available in the SRD.*  

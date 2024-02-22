@@ -2,10 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-  - compendium/src/5e/phb
-  - optional-feature/ei
-aliases:
-  - Thirsting Blade
+- compendium/src/5e/phb
+- optional-feature/ei
+aliases: ["Thirsting Blade"]
 ---
 # Thirsting Blade
 *Source: Player's Handbook p. 111. Available in the SRD.*  

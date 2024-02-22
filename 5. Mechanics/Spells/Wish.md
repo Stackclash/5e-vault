@@ -11,6 +11,7 @@ tags:
 aliases: ["Wish"]
 ---
 # Wish
+%%-- Embedded content starts on the next line. --%%
 *9th-level, Conjuration*  
 
 - **Casting time:** 1 action
@@ -32,6 +33,6 @@ You might be able to achieve something beyond the scope of the above examples. S
 
 The stress of casting this spell to produce any effect other than duplicating another spell weakens you. After enduring that stress, each time you cast a spell until you finish a long rest, you take `dice: 1d10|avg` (`1d10`) necrotic damage per level of that spell. This damage can't be reduced or prevented in any way. In addition, your Strength drops to 3, if it isn't 3 or lower already, for `dice: 2d4|avg` (`2d4`) days. For each of those days that you spend resting and doing nothing more than light activity, your remaining recovery time decreases by 2 days. Finally, there is a 33% chance chance that you are unable to cast wish ever again if you suffer this stress.
 
-**Classes**: [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock The Genie (TCE).md\|Warlock (The Genie)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock The Genie.md\|Warlock (The Genie)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 288. Available in the SRD.*

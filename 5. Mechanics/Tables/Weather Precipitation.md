@@ -8,9 +8,9 @@ aliases: ["Weather; Precipitation"]
 # Weather; Precipitation
 *Source: Dungeon Master's Guide p. 109. Available in the SRD.* 
 
-`dice: [[Weather Precipitation.md#^precipitation]]`
-
 **Precipitation**
+
+`dice: [[Weather Precipitation.md#^precipitation]]`
 
 | dice: d20 | Precipitation |
 |-----------|---------------|

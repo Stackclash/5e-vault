@@ -2,15 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-4
-  - monster/environment/forest
-  - monster/environment/underdark
-  - monster/size/large
-  - monster/type/beast
+- compendium/src/5e/mm
+- monster/cr/1-4
+- monster/environment/forest
+- monster/environment/underdark
+- monster/size/large
+- monster/type/beast
 statblock: inline
-aliases:
-  - Giant Bat
+aliases: ["Giant Bat"]
 ---
 # [[5. Mechanics\Bestiary\Beast\Giant Bat.md|Giant Bat]]
 *Source: Monster Manual p. 323, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  

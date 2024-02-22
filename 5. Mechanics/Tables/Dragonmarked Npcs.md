@@ -8,9 +8,9 @@ aliases: ["Dragonmarked NPCs"]
 # Dragonmarked NPCs
 *Source: Eberron: Rising from the Last War p. 190* 
 
-`dice: [[Dragonmarked Npcs (ERLW).md#^dragonmarked-npcs]]`
-
 **Dragonmarked NPCs**
+
+`dice: [[Dragonmarked Npcs.md#^dragonmarked-npcs]]`
 
 | dice: d12 | NPC |
 |-----------|-----|

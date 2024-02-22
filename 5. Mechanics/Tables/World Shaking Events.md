@@ -8,9 +8,9 @@ aliases: ["World-Shaking Events"]
 # World-Shaking Events
 *Source: Dungeon Master's Guide p. 27* 
 
-`dice: [[World Shaking Events.md#^world-shaking-events]]`
-
 **World-Shaking Events**
+
+`dice: [[World Shaking Events.md#^world-shaking-events]]`
 
 | dice: d10 | Event |
 |-----------|-------|

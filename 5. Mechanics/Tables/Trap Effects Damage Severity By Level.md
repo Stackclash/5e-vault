@@ -8,8 +8,6 @@ aliases: ["Trap Effects; Damage Severity by Level"]
 # Trap Effects; Damage Severity by Level
 *Source: Dungeon Master's Guide p. 121. Available in the SRD.* 
 
-`dice: [[Trap Effects Damage Severity By Level.md#^damage-severity-by-level]]`
-
 **Damage Severity by Level**
 
 | Character Level | Setback | Dangerous | Deadly |

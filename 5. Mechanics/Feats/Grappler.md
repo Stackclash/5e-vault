@@ -2,10 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-  - compendium/src/5e/phb
-  - feat
-aliases:
-  - Grappler
+- compendium/src/5e/phb
+- feat
+aliases: ["Grappler"]
 ---
 # Grappler
 *Source: Player's Handbook p. 167. Available in the SRD.*  

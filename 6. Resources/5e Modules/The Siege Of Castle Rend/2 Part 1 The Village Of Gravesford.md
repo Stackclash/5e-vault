@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/saf
-aliases: ["Part 1: The Village of Gravesford"]
+  - compendium/src/5e/saf
+aliases:
+  - 'Part 1: The Village of Gravesford'
 ---
 # Part 1: The Village of Gravesford
 *Source: The Siege of Castle Rend, p. 104* 

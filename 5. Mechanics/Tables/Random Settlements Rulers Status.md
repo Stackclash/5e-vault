@@ -8,9 +8,9 @@ aliases: ["Random Settlements; Ruler's Status"]
 # Random Settlements; Ruler's Status
 *Source: Dungeon Master's Guide p. 112* 
 
-`dice: [[Random Settlements Rulers Status.md#^rulers-status]]`
-
 **Ruler's Status**
+
+`dice: [[Random Settlements Rulers Status.md#^rulers-status]]`
 
 | dice: d20 | Ruler |
 |-----------|-------|

@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/3
-  - monster/environment/mountain
-  - monster/size/medium
-  - monster/type/monstrosity
+- compendium/src/5e/mm
+- monster/cr/3
+- monster/environment/mountain
+- monster/size/medium
+- monster/type/monstrosity
 statblock: inline
-aliases:
-  - Basilisk
+aliases: ["Basilisk"]
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Basilisk.md|Basilisk]]
 *Source: Monster Manual p. 24. Available in the SRD and the Basic Rules.*  

@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/0
-  - monster/size/tiny
-  - monster/type/beast
+- compendium/src/5e/mm
+- monster/cr/0
+- monster/size/tiny
+- monster/type/beast
 statblock: inline
-aliases:
-  - Frog
+aliases: ["Frog"]
 ---
 # [[5. Mechanics\Bestiary\Beast\Frog.md|Frog]]
 *Source: Monster Manual p. 322, Curse of Strahd. Available in the SRD and the Basic Rules.*  

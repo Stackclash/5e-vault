@@ -8,8 +8,6 @@ aliases: ["Lifestyle Expenses"]
 # Lifestyle Expenses
 *Source: Player's Handbook p. 157* 
 
-`dice: [[Lifestyle Expenses.md#^lifestyle-expenses]]`
-
 **Lifestyle Expenses**
 
 | Lifestyle | Price/Day |

@@ -2,15 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/cleric
-  - spell/class/druid
-  - spell/class/sorcerer/divine-soul
-  - spell/class/warlock/the-fathomless
-  - spell/level/1
-  - spell/school/transmutation
-aliases:
-  - Create or Destroy Water
+- compendium/src/5e/phb
+- spell/class/cleric
+- spell/class/druid
+- spell/class/sorcerer/divine-soul
+- spell/class/warlock/the-fathomless
+- spell/level/1
+- spell/school/transmutation
+aliases: ["Create or Destroy Water"]
 ---
 # Create or Destroy Water
 %%-- Embedded content starts on the next line. --%%

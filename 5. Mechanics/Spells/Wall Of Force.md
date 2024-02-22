@@ -13,6 +13,7 @@ tags:
 aliases: ["Wall of Force"]
 ---
 # Wall of Force
+%%-- Embedded content starts on the next line. --%%
 *5th-level, Evocation*  
 
 - **Casting time:** 1 action
@@ -24,6 +25,6 @@ An invisible wall of force springs into existence at a point you choose within r
 
 Nothing can physically pass through the wall. It is immune to all damage and can't be dispelled by [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]]. A [[5. Mechanics/Spells/Disintegrate.md\|disintegrate]] spell destroys the wall instantly, however. The wall also extends into the Ethereal Plane, blocking ethereal travel through the wall.
 
-**Classes**: [[5. Mechanics/Classes/Artificer Armorer (TCE).md\|Artificer (Armorer)]], [[5. Mechanics/Classes/Artificer Artillerist (TCE).md\|Artificer (Artillerist)]], [[5. Mechanics/Classes/Paladin Oath Of Redemption (XGE).md\|Paladin (Oath of Redemption)]], [[5. Mechanics/Classes/Sorcerer Clockwork Soul (TCE).md\|Sorcerer (Clockwork Soul)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Artificer Armorer.md\|Artificer (Armorer)]], [[5. Mechanics/Classes/Artificer Artillerist.md\|Artificer (Artillerist)]], [[5. Mechanics/Classes/Paladin Oath Of Redemption.md\|Paladin (Oath of Redemption)]], [[5. Mechanics/Classes/Sorcerer Clockwork Soul.md\|Sorcerer (Clockwork Soul)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 285. Available in the SRD.*

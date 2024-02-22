@@ -2,19 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/cleric
-  - spell/class/fighter/eldritch-knight
-  - spell/class/paladin
-  - spell/class/ranger/monster-slayer
-  - spell/class/rogue/arcane-trickster
-  - spell/class/sorcerer/divine-soul
-  - spell/class/warlock
-  - spell/class/wizard
-  - spell/level/3
-  - spell/school/abjuration
-aliases:
-  - Magic Circle
+- compendium/src/5e/phb
+- spell/class/cleric
+- spell/class/fighter/eldritch-knight
+- spell/class/paladin
+- spell/class/ranger/monster-slayer
+- spell/class/rogue/arcane-trickster
+- spell/class/sorcerer/divine-soul
+- spell/class/warlock
+- spell/class/wizard
+- spell/level/3
+- spell/school/abjuration
+aliases: ["Magic Circle"]
 ---
 # Magic Circle
 %%-- Embedded content starts on the next line. --%%

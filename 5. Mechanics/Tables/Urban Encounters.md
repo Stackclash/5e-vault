@@ -8,12 +8,10 @@ aliases: ["Urban Encounters"]
 # Urban Encounters
 *Source: Dungeon Master's Guide p. 114* 
 
-`dice: [[Urban Encounters.md#^urban-encounters]]`
-
 **Urban Encounters**
 
-| dice: d12 + d8 | Encounter |
-|----------------|-----------|
+| d12 + d8 | Encounter |
+|----------|-----------|
 | 2 | "Animals on the loose" |
 | 3 | "Announcement" |
 | 4 | "Brawl" |

@@ -2,12 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/mtf
-  - deity/gnome
-  - domain/peace
-  - domain/war
-aliases:
-  - Gaerdal Ironhand
+- compendium/src/5e/mtf
+- deity/gnome
+- domain/peace
+- domain/war
+aliases: ["Gaerdal Ironhand"]
 ---
 # Gaerdal Ironhand
 *Source: Mordenkainen's Tome of Foes p. 112, Tasha's Cauldron of Everything p. 32* 

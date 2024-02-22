@@ -2,12 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/mtf
-  - deity/gnome
-  - domain/grave
-  - domain/light
-aliases:
-  - Segojan Earthcaller
+- compendium/src/5e/mtf
+- deity/gnome
+- domain/grave
+- domain/light
+aliases: ["Segojan Earthcaller"]
 ---
 # Segojan Earthcaller
 *Source: Mordenkainen's Tome of Foes p. 112* 

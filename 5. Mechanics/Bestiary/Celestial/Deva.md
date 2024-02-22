@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/10
-  - monster/size/medium
-  - monster/type/celestial
+- compendium/src/5e/mm
+- monster/cr/10
+- monster/size/medium
+- monster/type/celestial
 statblock: inline
-aliases:
-  - Deva
+aliases: ["Deva"]
 ---
 # [[5. Mechanics\Bestiary\Celestial\Deva.md|Deva]]
 *Source: Monster Manual p. 16, Curse of Strahd. Available in the SRD.*  

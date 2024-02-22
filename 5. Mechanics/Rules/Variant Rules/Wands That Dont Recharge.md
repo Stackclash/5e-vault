@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/dmg
-aliases:
-  - Wands That Don't Recharge
+- compendium/src/5e/dmg
+aliases: ["Wands That Don't Recharge"]
 ---
 # Wands That Don't Recharge
 *Source: Dungeon Master's Guide p. 141* 

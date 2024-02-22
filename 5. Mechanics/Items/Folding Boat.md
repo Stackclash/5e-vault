@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/rarity/rare
-  - item/tier/minor
-  - item/wondrous
-aliases:
-  - Folding Boat
+- compendium/src/5e/dmg
+- item/rarity/rare
+- item/tier/minor
+- item/wondrous
+aliases: 
+- "Folding Boat"
 ---
 # Folding Boat
 *Wondrous Item, minor, rare*  

@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/vehicle/ship
-aliases:
-  - Rowboat
+- compendium/src/5e/dmg
+- item/vehicle/ship
+aliases: 
+- "Rowboat"
 cost: 5000
 ---
 # Rowboat

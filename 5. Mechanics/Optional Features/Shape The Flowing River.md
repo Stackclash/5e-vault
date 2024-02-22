@@ -2,10 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-  - compendium/src/5e/phb
-  - optional-feature/ed
-aliases:
-  - Shape the Flowing River
+- compendium/src/5e/phb
+- optional-feature/ed
+aliases: ["Shape the Flowing River"]
 ---
 # Shape the Flowing River
 *Source: Player's Handbook p. 81*  

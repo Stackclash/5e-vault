@@ -2,15 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/cleric
-  - spell/class/sorcerer
-  - spell/class/sorcerer/divine-soul
-  - spell/class/wizard
-  - spell/level/9
-  - spell/school/conjuration
-aliases:
-  - Gate
+- compendium/src/5e/phb
+- spell/class/cleric
+- spell/class/sorcerer
+- spell/class/sorcerer/divine-soul
+- spell/class/wizard
+- spell/level/9
+- spell/school/conjuration
+aliases: ["Gate"]
 ---
 # Gate
 %%-- Embedded content starts on the next line. --%%

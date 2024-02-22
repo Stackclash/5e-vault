@@ -2,16 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/3
-  - monster/environment/forest
-  - monster/environment/hill
-  - monster/environment/swamp
-  - monster/size/medium
-  - monster/type/fey
+- compendium/src/5e/mm
+- monster/cr/3
+- monster/environment/forest
+- monster/environment/hill
+- monster/environment/swamp
+- monster/size/medium
+- monster/type/fey
 statblock: inline
-aliases:
-  - Green Hag
+aliases: ["Green Hag"]
 ---
 # [[5. Mechanics\Bestiary\Fey\Green Hag.md|Green Hag]]
 *Source: Monster Manual p. 177, Tasha's Cauldron of Everything. Available in the SRD.*  

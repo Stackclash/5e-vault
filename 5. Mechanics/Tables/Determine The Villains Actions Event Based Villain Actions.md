@@ -8,9 +8,9 @@ aliases: ["Determine the Villain's Actions; Event-Based Villain Actions"]
 # Determine the Villain's Actions; Event-Based Villain Actions
 *Source: Dungeon Master's Guide p. 75* 
 
-`dice: [[Determine The Villains Actions Event Based Villain Actions.md#^event-based-villain-actions]]`
-
 **Event-Based Villain Actions**
+
+`dice: [[Determine The Villains Actions Event Based Villain Actions.md#^event-based-villain-actions]]`
 
 | dice: d6 | Type of Actions |
 |----------|-----------------|

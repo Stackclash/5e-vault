@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-8
-  - monster/size/medium
-  - monster/type/construct
+- compendium/src/5e/mm
+- monster/cr/1-8
+- monster/size/medium
+- monster/type/construct
 statblock: inline
-aliases:
-  - Monodrone
+aliases: ["Monodrone"]
 ---
 # [[5. Mechanics\Bestiary\Construct\Monodrone.md|Monodrone]]
 *Source: Monster Manual p. 224*  

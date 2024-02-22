@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/4
-  - monster/size/medium
-  - monster/type/construct
+- compendium/src/5e/mm
+- monster/cr/4
+- monster/size/medium
+- monster/type/construct
 statblock: inline
-aliases:
-  - Helmed Horror
+aliases: ["Helmed Horror"]
 ---
 # [[5. Mechanics\Bestiary\Construct\Helmed Horror.md|Helmed Horror]]
 *Source: Monster Manual p. 183*  

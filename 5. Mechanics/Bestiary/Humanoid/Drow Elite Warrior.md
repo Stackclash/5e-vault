@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/5
-  - monster/environment/underdark
-  - monster/size/medium
-  - monster/type/humanoid/elf
+- compendium/src/5e/mm
+- monster/cr/5
+- monster/environment/underdark
+- monster/size/medium
+- monster/type/humanoid/elf
 statblock: inline
-aliases:
-  - Drow Elite Warrior
+aliases: ["Drow Elite Warrior"]
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Drow Elite Warrior.md|Drow Elite Warrior]]
 *Source: Monster Manual p. 128*  

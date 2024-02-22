@@ -2,22 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-4
-  - monster/environment/arctic
-  - monster/environment/coastal
-  - monster/environment/desert
-  - monster/environment/forest
-  - monster/environment/hill
-  - monster/environment/mountain
-  - monster/environment/swamp
-  - monster/environment/underdark
-  - monster/environment/urban
-  - monster/size/small
-  - monster/type/humanoid/kobold
+- compendium/src/5e/mm
+- monster/cr/1-4
+- monster/environment/arctic
+- monster/environment/coastal
+- monster/environment/desert
+- monster/environment/forest
+- monster/environment/hill
+- monster/environment/mountain
+- monster/environment/swamp
+- monster/environment/underdark
+- monster/environment/urban
+- monster/size/small
+- monster/type/humanoid/kobold
 statblock: inline
-aliases:
-  - Winged Kobold
+aliases: ["Winged Kobold"]
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Winged Kobold.md|Winged Kobold]]
 *Source: Monster Manual p. 195*  

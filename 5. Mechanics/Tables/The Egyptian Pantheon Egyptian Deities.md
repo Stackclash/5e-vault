@@ -8,8 +8,6 @@ aliases: ["The Egyptian Pantheon; Egyptian Deities"]
 # The Egyptian Pantheon; Egyptian Deities
 *Source: Player's Handbook p. 297. Available in the SRD.* 
 
-`dice: [[The Egyptian Pantheon Egyptian Deities.md#^egyptian-deities]]`
-
 **Egyptian Deities**
 
 | Deity | Alignment | Suggested Domains | Symbol |

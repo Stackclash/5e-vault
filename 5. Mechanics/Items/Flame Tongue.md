@@ -2,19 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/attunement/required
-  - item/rarity/rare
-  - item/tier/major
-  - item/wondrous/wondrous-item
-aliases:
-  - Flame Tongue
-  - Flame Tongue Longsword
-  - Flame Tongue Double-Bladed Scimitar
-  - Flame Tongue Greatsword
-  - Flame Tongue Rapier
-  - Flame Tongue Shortsword
-  - Flame Tongue Scimitar
+- compendium/src/5e/dmg
+- item/attunement/required
+- item/rarity/rare
+- item/tier/major
+- item/wondrous/wondrous-item
+aliases: 
+- "Flame Tongue"
+- "Flame Tongue Longsword"
+- "Flame Tongue Double-Bladed Scimitar"
+- "Flame Tongue Greatsword"
+- "Flame Tongue Rapier"
+- "Flame Tongue Shortsword"
+- "Flame Tongue Scimitar"
 ---
 # Flame Tongue
 *Generic Variant, major, rare (requires attunement)*  

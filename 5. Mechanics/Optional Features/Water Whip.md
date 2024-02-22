@@ -2,10 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-  - compendium/src/5e/phb
-  - optional-feature/ed
-aliases:
-  - Water Whip
+- compendium/src/5e/phb
+- optional-feature/ed
+aliases: ["Water Whip"]
 ---
 # Water Whip
 *Source: Player's Handbook p. 81*  

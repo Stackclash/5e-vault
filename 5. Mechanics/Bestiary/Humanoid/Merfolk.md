@@ -2,15 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-8
-  - monster/environment/coastal
-  - monster/environment/underwater
-  - monster/size/medium
-  - monster/type/humanoid/merfolk
+- compendium/src/5e/mm
+- monster/cr/1-8
+- monster/environment/coastal
+- monster/environment/underwater
+- monster/size/medium
+- monster/type/humanoid/merfolk
 statblock: inline
-aliases:
-  - Merfolk
+aliases: ["Merfolk"]
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Merfolk.md|Merfolk]]
 *Source: Monster Manual p. 218. Available in the SRD and the Basic Rules.*  

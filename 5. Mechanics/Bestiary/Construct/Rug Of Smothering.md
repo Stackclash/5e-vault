@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/2
-  - monster/size/large
-  - monster/type/construct
+- compendium/src/5e/mm
+- monster/cr/2
+- monster/size/large
+- monster/type/construct
 statblock: inline
-aliases:
-  - Rug of Smothering
+aliases: ["Rug of Smothering"]
 ---
 # [[5. Mechanics\Bestiary\Construct\Rug Of Smothering.md|Rug of Smothering]]
 *Source: Monster Manual p. 20, Curse of Strahd. Available in the SRD.*  

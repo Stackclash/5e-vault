@@ -2,20 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-2
-  - monster/environment/desert
-  - monster/environment/forest
-  - monster/environment/grassland
-  - monster/environment/hill
-  - monster/environment/swamp
-  - monster/environment/underdark
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/beast
+- compendium/src/5e/mm
+- monster/cr/1-2
+- monster/environment/desert
+- monster/environment/forest
+- monster/environment/grassland
+- monster/environment/hill
+- monster/environment/swamp
+- monster/environment/underdark
+- monster/environment/urban
+- monster/size/medium
+- monster/type/beast
 statblock: inline
-aliases:
-  - Swarm of Beetles
+aliases: ["Swarm of Beetles"]
 ---
 # [[5. Mechanics\Bestiary\Beast\Swarm Of Beetles.md|Swarm of Beetles]]
 *Source: Monster Manual p. 338. Available in the SRD.*  

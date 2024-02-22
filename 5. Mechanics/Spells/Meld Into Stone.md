@@ -2,17 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/cleric
-  - spell/class/druid
-  - spell/class/druid/circle-of-the-land
-  - spell/class/sorcerer/divine-soul
-  - spell/class/warlock/the-genie
-  - spell/level/3
-  - spell/ritual
-  - spell/school/transmutation
-aliases:
-  - Meld into Stone
+- compendium/src/5e/phb
+- spell/class/cleric
+- spell/class/druid
+- spell/class/druid/circle-of-the-land
+- spell/class/sorcerer/divine-soul
+- spell/class/warlock/the-genie
+- spell/level/3
+- spell/ritual
+- spell/school/transmutation
+aliases: ["Meld into Stone"]
 ---
 # Meld into Stone
 %%-- Embedded content starts on the next line. --%%

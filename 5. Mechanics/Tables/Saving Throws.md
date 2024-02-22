@@ -8,8 +8,6 @@ aliases: ["Saving Throws"]
 # Saving Throws
 *Source: Dungeon Master's Guide p. 238* 
 
-`dice: [[Saving Throws.md#^saving-throws]]`
-
 **Saving Throws**
 
 | Ability | Used For... |

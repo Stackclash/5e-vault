@@ -2,10 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-  - compendium/src/5e/phb
-  - optional-feature/ed
-aliases:
-  - Rush of the Gale Spirits
+- compendium/src/5e/phb
+- optional-feature/ed
+aliases: ["Rush of the Gale Spirits"]
 ---
 # Rush of the Gale Spirits
 *Source: Player's Handbook p. 81*  

@@ -2,10 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/phb
-  - subclass/monk/open-hand
-aliases:
-  - Way of the Open Hand
+- compendium/src/5e/phb
+- subclass/monk/open-hand
+aliases: ["Way of the Open Hand"]
 ---
 # Way of the Open Hand
 *[[Monk.md\|Monk]]: Monastic Tradition*  

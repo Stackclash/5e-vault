@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/phb
-  - item/gear/artisans-tools
-aliases:
-  - Alchemist's Supplies
+- compendium/src/5e/phb
+- item/gear/artisans-tools
+aliases: 
+- "Alchemist's Supplies"
 cost: 5000
 ---
 # Alchemist's Supplies

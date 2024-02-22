@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/rarity/very-rare
-  - item/tier/minor
-  - item/weapon/ammunition
-aliases:
-  - Arrow of Slaying
+- compendium/src/5e/dmg
+- item/rarity/very-rare
+- item/tier/minor
+- item/weapon/ammunition
+aliases: 
+- "Arrow of Slaying"
 ---
 # Arrow of Slaying
 *Ammunition, minor, very rare*  

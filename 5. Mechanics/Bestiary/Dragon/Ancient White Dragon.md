@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/20
-  - monster/environment/arctic
-  - monster/size/gargantuan
-  - monster/type/dragon
+- compendium/src/5e/mm
+- monster/cr/20
+- monster/environment/arctic
+- monster/size/gargantuan
+- monster/type/dragon
 statblock: inline
-aliases:
-  - Ancient White Dragon
+aliases: ["Ancient White Dragon"]
 ---
 # [[5. Mechanics\Bestiary\Dragon\Ancient White Dragon.md|Ancient White Dragon]]
 *Source: Monster Manual p. 100. Available in the SRD.*  

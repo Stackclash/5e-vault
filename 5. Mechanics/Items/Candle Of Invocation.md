@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/attunement/required
-  - item/rarity/very-rare
-  - item/tier/major
-  - item/wondrous
-aliases:
-  - Candle of Invocation
+- compendium/src/5e/dmg
+- item/attunement/required
+- item/rarity/very-rare
+- item/tier/major
+- item/wondrous
+aliases: 
+- "Candle of Invocation"
 ---
 # Candle of Invocation
 *Wondrous Item, major, very rare (requires attunement)*  

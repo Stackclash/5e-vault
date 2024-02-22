@@ -2,20 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/cleric/trickery-domain
-  - spell/class/druid
-  - spell/class/fighter/eldritch-knight
-  - spell/class/ranger/fey-wanderer
-  - spell/class/rogue/arcane-trickster
-  - spell/class/sorcerer
-  - spell/class/warlock
-  - spell/class/wizard
-  - spell/level/1
-  - spell/school/enchantment
-aliases:
-  - Charm Person
+- compendium/src/5e/phb
+- spell/class/bard
+- spell/class/cleric/trickery-domain
+- spell/class/druid
+- spell/class/fighter/eldritch-knight
+- spell/class/ranger/fey-wanderer
+- spell/class/rogue/arcane-trickster
+- spell/class/sorcerer
+- spell/class/warlock
+- spell/class/wizard
+- spell/level/1
+- spell/school/enchantment
+aliases: ["Charm Person"]
 ---
 # Charm Person
 %%-- Embedded content starts on the next line. --%%

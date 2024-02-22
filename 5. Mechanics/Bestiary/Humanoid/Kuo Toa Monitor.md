@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/3
-  - monster/environment/underdark
-  - monster/size/medium
-  - monster/type/humanoid/kuo-toa
+- compendium/src/5e/mm
+- monster/cr/3
+- monster/environment/underdark
+- monster/size/medium
+- monster/type/humanoid/kuo-toa
 statblock: inline
-aliases:
-  - Kuo-toa Monitor
+aliases: ["Kuo-toa Monitor"]
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Kuo Toa Monitor.md|Kuo-toa Monitor]]
 *Source: Monster Manual p. 198*  

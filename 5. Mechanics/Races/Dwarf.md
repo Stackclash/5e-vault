@@ -2,10 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-  - compendium/src/5e/phb
-  - race/dwarf
-aliases:
-  - Dwarf
+- compendium/src/5e/phb
+- race/dwarf
+aliases: ["Dwarf"]
 ---
 # Dwarf
 *Source: Player's Handbook p. 18. Available in the SRD and the Basic Rules.*  

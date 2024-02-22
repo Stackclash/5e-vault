@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/13
-  - monster/environment/underdark
-  - monster/size/large
-  - monster/type/aberration
+- compendium/src/5e/mm
+- monster/cr/13
+- monster/environment/underdark
+- monster/size/large
+- monster/type/aberration
 statblock: inline
-aliases:
-  - Beholder
+aliases: ["Beholder"]
 ---
 # [[5. Mechanics\Bestiary\Aberration\Beholder.md|Beholder]]
 *Source: Monster Manual p. 28, Eberron: Rising from the Last War, Tasha's Cauldron of Everything*  

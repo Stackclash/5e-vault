@@ -2,10 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-  - compendium/src/5e/dmg
-  - reward/charm
-aliases:
-  - Charm of the Slayer
+- compendium/src/5e/dmg
+- reward/charm
+aliases: ["Charm of the Slayer"]
 ---
 # Charm of the Slayer
 

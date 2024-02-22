@@ -2,11 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/mtf
-  - deity/dwarven
-  - domain/war
-aliases:
-  - Clangeddin Silverbeard
+- compendium/src/5e/mtf
+- deity/dwarven
+- domain/war
+aliases: ["Clangeddin Silverbeard"]
 ---
 # Clangeddin Silverbeard
 *Source: Mordenkainen's Tome of Foes p. 73* 

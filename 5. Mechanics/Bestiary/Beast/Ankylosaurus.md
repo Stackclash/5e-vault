@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/3
-  - monster/environment/grassland
-  - monster/size/huge
-  - monster/type/beast
+- compendium/src/5e/mm
+- monster/cr/3
+- monster/environment/grassland
+- monster/size/huge
+- monster/type/beast
 statblock: inline
-aliases:
-  - Ankylosaurus
+aliases: ["Ankylosaurus"]
 ---
 # [[5. Mechanics\Bestiary\Beast\Ankylosaurus.md|Ankylosaurus]]
 *Source: Monster Manual p. 79. Available in the Basic Rules.*  

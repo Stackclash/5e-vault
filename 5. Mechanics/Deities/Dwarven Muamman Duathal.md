@@ -2,11 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/mtf
-  - deity/dwarven
-  - domain/tempest
-aliases:
-  - Muamman Duathal
+- compendium/src/5e/mtf
+- deity/dwarven
+- domain/tempest
+aliases: ["Muamman Duathal"]
 ---
 # Muamman Duathal
 *Source: Mordenkainen's Tome of Foes p. 73* 

@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/7
-  - monster/size/large
-  - monster/type/aberration
+- compendium/src/5e/mm
+- monster/cr/7
+- monster/size/large
+- monster/type/aberration
 statblock: inline
-aliases:
-  - Blue Slaad
+aliases: ["Blue Slaad"]
 ---
 # [[5. Mechanics\Bestiary\Aberration\Blue Slaad.md|Blue Slaad]]
 *Source: Monster Manual p. 276*  

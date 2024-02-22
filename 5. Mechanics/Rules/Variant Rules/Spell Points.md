@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/dmg
-aliases:
-  - Spell Points
+- compendium/src/5e/dmg
+aliases: ["Spell Points"]
 ---
 # Spell Points
 *Source: Dungeon Master's Guide p. 288* 

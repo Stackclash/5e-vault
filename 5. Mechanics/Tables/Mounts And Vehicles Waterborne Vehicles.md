@@ -8,8 +8,6 @@ aliases: ["Mounts and Vehicles; Waterborne Vehicles"]
 # Mounts and Vehicles; Waterborne Vehicles
 *Source: Player's Handbook p. 155. Available in the SRD and the Basic Rules.* 
 
-`dice: [[Mounts And Vehicles Waterborne Vehicles.md#^waterborne-vehicles]]`
-
 **Waterborne Vehicles**
 
 | Item | Cost | Speed |

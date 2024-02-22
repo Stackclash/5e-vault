@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/dmg
-aliases:
-  - Skill Variants
+- compendium/src/5e/dmg
+aliases: ["Skill Variants"]
 ---
 # Skill Variants
 *Source: Dungeon Master's Guide p. 263* 

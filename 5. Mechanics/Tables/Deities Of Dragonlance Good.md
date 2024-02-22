@@ -8,8 +8,6 @@ aliases: ["Deities of Dragonlance: Good"]
 # Deities of Dragonlance: Good
 *Source: Player's Handbook p. 293* 
 
-`dice: [[Deities Of Dragonlance Good.md#^deities-of-dragonlance-good]]`
-
 **Deities of Dragonlance: Good**
 
 | The Gods of Good | Alignment | Suggested Domains | Symbol |

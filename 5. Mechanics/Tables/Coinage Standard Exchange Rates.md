@@ -8,8 +8,6 @@ aliases: ["Coinage; Standard Exchange Rates"]
 # Coinage; Standard Exchange Rates
 *Source: Player's Handbook p. 143. Available in the SRD and the Basic Rules.* 
 
-`dice: [[Coinage Standard Exchange Rates.md#^standard-exchange-rates]]`
-
 **Standard Exchange Rates**
 
 | Coin | cp | sp | ep | gp | pp |

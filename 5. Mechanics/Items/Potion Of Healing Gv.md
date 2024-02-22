@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/rarity/varies
-  - item/wondrous/potion
-aliases:
-  - Potion of Healing (*)
+- compendium/src/5e/dmg
+- item/rarity/varies
+- item/wondrous/potion
+aliases: 
+- "Potion of Healing (*)"
 ---
 # Potion of Healing (*)
 *Potion, varies*  

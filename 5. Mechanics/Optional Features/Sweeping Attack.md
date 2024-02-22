@@ -2,10 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-  - compendium/src/5e/phb
-  - optional-feature/mv-b
-aliases:
-  - Sweeping Attack
+- compendium/src/5e/phb
+- optional-feature/mv-b
+aliases: ["Sweeping Attack"]
 ---
 # Sweeping Attack
 *Source: Player's Handbook p. 74*  

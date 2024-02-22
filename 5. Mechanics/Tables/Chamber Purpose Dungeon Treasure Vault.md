@@ -8,9 +8,9 @@ aliases: ["Chamber Purpose; Dungeon: Treasure Vault"]
 # Chamber Purpose; Dungeon: Treasure Vault
 *Source: Dungeon Master's Guide p. 292* 
 
-`dice: [[Chamber Purpose Dungeon Treasure Vault.md#^dungeon-treasure-vault]]`
-
 **Dungeon: Treasure Vault**
+
+`dice: [[Chamber Purpose Dungeon Treasure Vault.md#^dungeon-treasure-vault]]`
 
 | dice: d20 | Purpose |
 |-----------|---------|

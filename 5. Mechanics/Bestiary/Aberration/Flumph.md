@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-8
-  - monster/environment/underdark
-  - monster/size/small
-  - monster/type/aberration
+- compendium/src/5e/mm
+- monster/cr/1-8
+- monster/environment/underdark
+- monster/size/small
+- monster/type/aberration
 statblock: inline
-aliases:
-  - Flumph
+aliases: ["Flumph"]
 ---
 # [[5. Mechanics\Bestiary\Aberration\Flumph.md|Flumph]]
 *Source: Monster Manual p. 135*  

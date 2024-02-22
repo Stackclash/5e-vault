@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/9
-  - monster/size/large
-  - monster/type/construct
+- compendium/src/5e/mm
+- monster/cr/9
+- monster/size/large
+- monster/type/construct
 statblock: inline
-aliases:
-  - Clay Golem
+aliases: ["Clay Golem"]
 ---
 # [[5. Mechanics\Bestiary\Construct\Clay Golem.md|Clay Golem]]
 *Source: Monster Manual p. 168, Curse of Strahd. Available in the SRD.*  

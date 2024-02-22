@@ -2,23 +2,22 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer/armorer
-  - spell/class/bard
-  - spell/class/cleric/twilight-domain
-  - spell/class/druid/circle-of-the-land
-  - spell/class/fighter/eldritch-knight
-  - spell/class/ranger/gloom-stalker
-  - spell/class/rogue/arcane-trickster
-  - spell/class/sorcerer
-  - spell/class/warlock/the-archfey
-  - spell/class/warlock/the-genie
-  - spell/class/warlock/the-undead
-  - spell/class/wizard
-  - spell/level/4
-  - spell/school/illusion
-aliases:
-  - Greater Invisibility
+- compendium/src/5e/phb
+- spell/class/artificer/armorer
+- spell/class/bard
+- spell/class/cleric/twilight-domain
+- spell/class/druid/circle-of-the-land
+- spell/class/fighter/eldritch-knight
+- spell/class/ranger/gloom-stalker
+- spell/class/rogue/arcane-trickster
+- spell/class/sorcerer
+- spell/class/warlock/the-archfey
+- spell/class/warlock/the-genie
+- spell/class/warlock/the-undead
+- spell/class/wizard
+- spell/level/4
+- spell/school/illusion
+aliases: ["Greater Invisibility"]
 ---
 # Greater Invisibility
 %%-- Embedded content starts on the next line. --%%

@@ -8,9 +8,9 @@ aliases: ["Sentient Special Purpose"]
 # Sentient Special Purpose
 *Source: Dungeon Master's Guide p. 216. Available in the SRD.* 
 
-`dice: [[Sentient Special Purpose.md#^sentient-special-purpose]]`
-
 **Sentient Special Purpose**
+
+`dice: [[Sentient Special Purpose.md#^sentient-special-purpose]]`
 
 | dice: d10 | Purpose |
 |-----------|---------|

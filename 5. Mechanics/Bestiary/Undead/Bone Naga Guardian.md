@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/4
-  - monster/environment/underdark
-  - monster/size/large
-  - monster/type/undead
+- compendium/src/5e/mm
+- monster/cr/4
+- monster/environment/underdark
+- monster/size/large
+- monster/type/undead
 statblock: inline
-aliases:
-  - Bone Naga (Guardian)
+aliases: ["Bone Naga (Guardian)"]
 ---
 # [[5. Mechanics\Bestiary\Undead\Bone Naga Guardian.md|Bone Naga (Guardian)]]
 *Source: Monster Manual p. 233*  

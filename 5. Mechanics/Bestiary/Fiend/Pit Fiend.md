@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/20
-  - monster/size/large
-  - monster/type/fiend/devil
+- compendium/src/5e/mm
+- monster/cr/20
+- monster/size/large
+- monster/type/fiend/devil
 statblock: inline
-aliases:
-  - Pit Fiend
+aliases: ["Pit Fiend"]
 ---
 # [[5. Mechanics\Bestiary\Fiend\Pit Fiend.md|Pit Fiend]]
 *Source: Monster Manual p. 77, Tasha's Cauldron of Everything. Available in the SRD.*  

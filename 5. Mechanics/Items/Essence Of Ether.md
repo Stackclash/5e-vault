@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/gear/poison
-  - item/property/poison
-aliases:
-  - Essence of Ether
+- compendium/src/5e/dmg
+- item/gear/poison
+- item/property/poison
+aliases: 
+- "Essence of Ether"
 cost: 30000
 ---
 # Essence of Ether

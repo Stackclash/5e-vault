@@ -8,8 +8,6 @@ aliases: ["Ability Checks; Typical Difficulty Classes"]
 # Ability Checks; Typical Difficulty Classes
 *Source: Player's Handbook p. 174. Available in the SRD and the Basic Rules.* 
 
-`dice: [[Ability Checks Typical Difficulty Classes.md#^typical-difficulty-classes]]`
-
 **Typical Difficulty Classes**
 
 | Task Difficulty | DC |

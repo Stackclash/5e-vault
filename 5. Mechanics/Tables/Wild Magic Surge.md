@@ -8,9 +8,9 @@ aliases: ["Wild Magic Surge"]
 # Wild Magic Surge
 *Source: Player's Handbook p. 103* 
 
-`dice: [[Wild Magic Surge.md#^wild-magic-surge]]`
-
 **Wild Magic Surge**
+
+`dice: [[Wild Magic Surge.md#^wild-magic-surge]]`
 
 | dice: d100 | Effect |
 |------------|--------|

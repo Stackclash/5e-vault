@@ -2,11 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/mtf
-  - deity/dwarven
-  - domain/trickery
-aliases:
-  - Roknar
+- compendium/src/5e/mtf
+- deity/dwarven
+- domain/trickery
+aliases: ["Roknar"]
 ---
 # Roknar
 *Source: Mordenkainen's Tome of Foes p. 73* 

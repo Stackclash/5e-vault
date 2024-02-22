@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/cos
-aliases: ["Credits"]
+  - compendium/src/5e/cos
+aliases:
+  - Credits
 ---
 # Credits
 *Source: Curse of Strahd* 

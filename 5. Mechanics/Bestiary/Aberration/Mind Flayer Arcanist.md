@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/8
-  - monster/environment/underdark
-  - monster/size/medium
-  - monster/type/aberration
+- compendium/src/5e/mm
+- monster/cr/8
+- monster/environment/underdark
+- monster/size/medium
+- monster/type/aberration
 statblock: inline
-aliases:
-  - Mind Flayer Arcanist
+aliases: ["Mind Flayer Arcanist"]
 ---
 # [[5. Mechanics\Bestiary\Aberration\Mind Flayer Arcanist.md|Mind Flayer Arcanist]]
 *Source: Monster Manual p. 222*  

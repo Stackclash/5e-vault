@@ -8,9 +8,9 @@ aliases: ["Consider the Ideal Climax; Adventure Climax"]
 # Consider the Ideal Climax; Adventure Climax
 *Source: Dungeon Master's Guide p. 75* 
 
-`dice: [[Consider The Ideal Climax Adventure Climax.md#^adventure-climax]]`
-
 **Adventure Climax**
+
+`dice: [[Consider The Ideal Climax Adventure Climax.md#^adventure-climax]]`
 
 | dice: d12 | Climax |
 |-----------|--------|

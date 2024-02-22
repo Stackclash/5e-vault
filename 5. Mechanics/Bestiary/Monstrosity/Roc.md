@@ -2,18 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/11
-  - monster/environment/arctic
-  - monster/environment/coastal
-  - monster/environment/desert
-  - monster/environment/hill
-  - monster/environment/mountain
-  - monster/size/gargantuan
-  - monster/type/monstrosity
+- compendium/src/5e/mm
+- monster/cr/11
+- monster/environment/arctic
+- monster/environment/coastal
+- monster/environment/desert
+- monster/environment/hill
+- monster/environment/mountain
+- monster/size/gargantuan
+- monster/type/monstrosity
 statblock: inline
-aliases:
-  - Roc
+aliases: ["Roc"]
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Roc.md|Roc]]
 *Source: Monster Manual p. 260, Curse of Strahd. Available in the SRD.*  

@@ -2,20 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer
-  - spell/class/druid/circle-of-the-land
-  - spell/class/fighter/eldritch-knight
-  - spell/class/paladin/oath-of-glory
-  - spell/class/paladin/oath-of-vengeance
-  - spell/class/ranger/horizon-walker
-  - spell/class/rogue/arcane-trickster
-  - spell/class/sorcerer
-  - spell/class/wizard
-  - spell/level/3
-  - spell/school/transmutation
-aliases:
-  - Haste
+- compendium/src/5e/phb
+- spell/class/artificer
+- spell/class/druid/circle-of-the-land
+- spell/class/fighter/eldritch-knight
+- spell/class/paladin/oath-of-glory
+- spell/class/paladin/oath-of-vengeance
+- spell/class/ranger/horizon-walker
+- spell/class/rogue/arcane-trickster
+- spell/class/sorcerer
+- spell/class/wizard
+- spell/level/3
+- spell/school/transmutation
+aliases: ["Haste"]
 ---
 # Haste
 %%-- Embedded content starts on the next line. --%%

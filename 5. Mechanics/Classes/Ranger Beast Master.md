@@ -2,10 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/phb
-  - subclass/ranger/beast-master
-aliases:
-  - Beast Master
+- compendium/src/5e/phb
+- subclass/ranger/beast-master
+aliases: ["Beast Master"]
 ---
 # Beast Master
 *[[Ranger.md\|Ranger]]: Ranger Archetype*  

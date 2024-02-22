@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/6
-  - monster/environment/underdark
-  - monster/size/large
-  - monster/type/monstrosity
+- compendium/src/5e/mm
+- monster/cr/6
+- monster/environment/underdark
+- monster/size/large
+- monster/type/monstrosity
 statblock: inline
-aliases:
-  - Drider
+aliases: ["Drider"]
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Drider.md|Drider]]
 *Source: Monster Manual p. 120. Available in the SRD.*  

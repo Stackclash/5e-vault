@@ -8,8 +8,6 @@ aliases: ["Travel Pace"]
 # Travel Pace
 *Source: Player's Handbook p. 181. Available in the SRD and the Basic Rules.* 
 
-`dice: [[Travel Pace.md#^travel-pace]]`
-
 **Travel Pace**
 
 | Pace | Distance Traveled per Minute | Distance Traveled per Hour | Distance Traveled per Day | Effect |

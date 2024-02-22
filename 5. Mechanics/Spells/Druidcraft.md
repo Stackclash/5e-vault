@@ -2,15 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/cleric/nature-domain
-  - spell/class/druid
-  - spell/class/druid/circle-of-the-land
-  - spell/class/fighter/arcane-archer
-  - spell/level/cantrip
-  - spell/school/transmutation
-aliases:
-  - Druidcraft
+- compendium/src/5e/phb
+- spell/class/cleric/nature-domain
+- spell/class/druid
+- spell/class/druid/circle-of-the-land
+- spell/class/fighter/arcane-archer
+- spell/level/cantrip
+- spell/school/transmutation
+aliases: ["Druidcraft"]
 ---
 # Druidcraft
 %%-- Embedded content starts on the next line. --%%

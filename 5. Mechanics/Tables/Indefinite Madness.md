@@ -8,9 +8,9 @@ aliases: ["Indefinite Madness"]
 # Indefinite Madness
 *Source: Dungeon Master's Guide p. 259. Available in the SRD.* 
 
-`dice: [[Indefinite Madness.md#^indefinite-madness]]`
-
 **Indefinite Madness**
+
+`dice: [[Indefinite Madness.md#^indefinite-madness]]`
 
 | dice: d100 | Flaw (lasts until cured) |
 |------------|--------------------------|

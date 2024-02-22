@@ -14,6 +14,7 @@ tags:
 aliases: ["True Seeing"]
 ---
 # True Seeing
+%%-- Embedded content starts on the next line. --%%
 *6th-level, Divination*  
 
 - **Casting time:** 1 action
@@ -23,6 +24,6 @@ aliases: ["True Seeing"]
 
 This spell gives the willing creature you touch the ability to see things as they actually are. For the duration, the creature has [[/5. Mechanics/Rules/Senses.md#truesight\|truesight]], notices secret doors hidden by magic, and can see into the Ethereal Plane, all out to a range of 120 feet.
 
-**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock.md\|Warlock]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock.md\|Warlock]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 284. Available in the SRD and the Basic Rules.*

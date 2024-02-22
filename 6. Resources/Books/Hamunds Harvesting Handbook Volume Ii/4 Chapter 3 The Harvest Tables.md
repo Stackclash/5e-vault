@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvii
-aliases: ["Chapter 3: The Harvest Tables"]
+  - compendium/src/5e/hhhvii
+aliases:
+  - 'Chapter 3: The Harvest Tables'
 ---
 # Chapter 3: The Harvest Tables
 *Source: Hamund's Harvesting Handbook: Volume II, p. 6* 

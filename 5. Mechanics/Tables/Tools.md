@@ -8,8 +8,6 @@ aliases: ["Tools"]
 # Tools
 *Source: Player's Handbook p. 154* 
 
-`dice: [[Tools.md#^table]]`
-
 | Item | Cost | Weight |
 |------|------|--------|
 | *Artisan's tools* |  |  |
@@ -56,4 +54,3 @@ aliases: ["Tools"]
 ^item-cost-weight
 
 * See the "Mounts and Vehicles" section.
-^table

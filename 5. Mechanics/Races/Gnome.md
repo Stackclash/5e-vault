@@ -2,10 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-  - compendium/src/5e/phb
-  - race/gnome
-aliases:
-  - Gnome
+- compendium/src/5e/phb
+- race/gnome
+aliases: ["Gnome"]
 ---
 # Gnome
 *Source: Player's Handbook p. 35. Available in the SRD.*  

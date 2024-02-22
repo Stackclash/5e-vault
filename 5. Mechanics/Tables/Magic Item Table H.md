@@ -8,9 +8,9 @@ aliases: ["Magic Item Table H"]
 # Magic Item Table H
 *Source: Dungeon Master's Guide p. 144* 
 
-`dice: [[Magic Item Table H.md#^magic-item-table-h]]`
-
 **Magic Item Table H**
+
+`dice: [[Magic Item Table H.md#^magic-item-table-h]]`
 
 | dice: d100 | Magic Item |
 |------------|------------|

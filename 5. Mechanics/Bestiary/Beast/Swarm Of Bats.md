@@ -2,17 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-4
-  - monster/environment/hill
-  - monster/environment/mountain
-  - monster/environment/underdark
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/beast
+- compendium/src/5e/mm
+- monster/cr/1-4
+- monster/environment/hill
+- monster/environment/mountain
+- monster/environment/underdark
+- monster/environment/urban
+- monster/size/medium
+- monster/type/beast
 statblock: inline
-aliases:
-  - Swarm of Bats
+aliases: ["Swarm of Bats"]
 ---
 # [[5. Mechanics\Bestiary\Beast\Swarm Of Bats.md|Swarm of Bats]]
 *Source: Monster Manual p. 337, Curse of Strahd. Available in the SRD and the Basic Rules.*  

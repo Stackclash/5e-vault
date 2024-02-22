@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-2
-  - monster/environment/underdark
-  - monster/size/large
-  - monster/type/plant
+- compendium/src/5e/mm
+- monster/cr/1-2
+- monster/environment/underdark
+- monster/size/large
+- monster/type/plant
 statblock: inline
-aliases:
-  - Gas Spore
+aliases: ["Gas Spore"]
 ---
 # [[5. Mechanics\Bestiary\Plant\Gas Spore.md|Gas Spore]]
 *Source: Monster Manual p. 138*  

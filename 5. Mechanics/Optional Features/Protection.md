@@ -2,11 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-  - compendium/src/5e/phb
-  - optional-feature/fs-f
-  - optional-feature/fs-p
-aliases:
-  - Protection
+- compendium/src/5e/phb
+- optional-feature/fs-f
+- optional-feature/fs-p
+aliases: ["Protection"]
 ---
 # Protection
 *Source: Player's Handbook p. 72. Available in the SRD.*  

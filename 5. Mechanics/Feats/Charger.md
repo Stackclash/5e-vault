@@ -2,10 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-  - compendium/src/5e/phb
-  - feat
-aliases:
-  - Charger
+- compendium/src/5e/phb
+- feat
+aliases: ["Charger"]
 ---
 # Charger
 *Source: Player's Handbook p. 165*  

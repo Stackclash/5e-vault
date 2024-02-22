@@ -2,16 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1
-  - monster/environment/grassland
-  - monster/environment/hill
-  - monster/environment/mountain
-  - monster/size/large
-  - monster/type/monstrosity
+- compendium/src/5e/mm
+- monster/cr/1
+- monster/environment/grassland
+- monster/environment/hill
+- monster/environment/mountain
+- monster/size/large
+- monster/type/monstrosity
 statblock: inline
-aliases:
-  - Hippogriff
+aliases: ["Hippogriff"]
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Hippogriff.md|Hippogriff]]
 *Source: Monster Manual p. 184, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  

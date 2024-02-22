@@ -2,15 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/fighter/eldritch-knight
-  - spell/class/rogue/arcane-trickster
-  - spell/class/sorcerer
-  - spell/class/wizard
-  - spell/level/1
-  - spell/school/evocation
-aliases:
-  - Chromatic Orb
+- compendium/src/5e/phb
+- spell/class/fighter/eldritch-knight
+- spell/class/rogue/arcane-trickster
+- spell/class/sorcerer
+- spell/class/wizard
+- spell/level/1
+- spell/school/evocation
+aliases: ["Chromatic Orb"]
 ---
 # Chromatic Orb
 %%-- Embedded content starts on the next line. --%%

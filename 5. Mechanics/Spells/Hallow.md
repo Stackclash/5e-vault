@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/cleric
-  - spell/class/sorcerer/divine-soul
-  - spell/class/warlock/the-fiend
-  - spell/level/5
-  - spell/school/evocation
-aliases:
-  - Hallow
+- compendium/src/5e/phb
+- spell/class/cleric
+- spell/class/sorcerer/divine-soul
+- spell/class/warlock/the-fiend
+- spell/level/5
+- spell/school/evocation
+aliases: ["Hallow"]
 ---
 # Hallow
 %%-- Embedded content starts on the next line. --%%

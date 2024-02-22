@@ -8,9 +8,9 @@ aliases: ["Dungeon Dressing; Odor"]
 # Dungeon Dressing; Odor
 *Source: Dungeon Master's Guide p. 298* 
 
-`dice: [[Dungeon Dressing Odor.md#^odor]]`
-
 **Odor**
+
+`dice: [[Dungeon Dressing Odor.md#^odor]]`
 
 | dice: d100 | Effect |
 |------------|--------|

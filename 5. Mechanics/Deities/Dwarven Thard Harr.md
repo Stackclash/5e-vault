@@ -2,11 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/mtf
-  - deity/dwarven
-  - domain/nature
-aliases:
-  - Thard Harr
+- compendium/src/5e/mtf
+- deity/dwarven
+- domain/nature
+aliases: ["Thard Harr"]
 ---
 # Thard Harr
 *Source: Mordenkainen's Tome of Foes p. 73* 

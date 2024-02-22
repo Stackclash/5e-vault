@@ -2,10 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-  - compendium/src/5e/phb
-  - feat
-aliases:
-  - Healer
+- compendium/src/5e/phb
+- feat
+aliases: ["Healer"]
 ---
 # Healer
 *Source: Player's Handbook p. 167*  

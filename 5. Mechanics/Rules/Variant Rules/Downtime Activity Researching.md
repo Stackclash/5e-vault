@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/phb
-aliases:
-  - 'Downtime Activity: Researching'
+- compendium/src/5e/phb
+aliases: ["Downtime Activity: Researching"]
 ---
 # Downtime Activity: Researching
 *Source: Player's Handbook p. 187* 

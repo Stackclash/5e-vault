@@ -2,11 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/phb
-  - deity/forgotten-realms
-  - domain/death
-aliases:
-  - Myrkul
+- compendium/src/5e/phb
+- deity/forgotten-realms
+- domain/death
+aliases: ["Myrkul"]
 ---
 # Myrkul
 *Source: Player's Handbook p. 294. Available in the Basic Rules.* 

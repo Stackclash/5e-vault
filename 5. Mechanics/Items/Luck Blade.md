@@ -2,19 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/attunement/required
-  - item/rarity/legendary
-  - item/tier/major
-  - item/wondrous/wondrous-item
-aliases:
-  - Luck Blade
-  - Luck Blade Longsword
-  - Luck Blade Double-Bladed Scimitar
-  - Luck Blade Greatsword
-  - Luck Blade Rapier
-  - Luck Blade Shortsword
-  - Luck Blade Scimitar
+- compendium/src/5e/dmg
+- item/attunement/required
+- item/rarity/legendary
+- item/tier/major
+- item/wondrous/wondrous-item
+aliases: 
+- "Luck Blade"
+- "Luck Blade Longsword"
+- "Luck Blade Double-Bladed Scimitar"
+- "Luck Blade Greatsword"
+- "Luck Blade Rapier"
+- "Luck Blade Shortsword"
+- "Luck Blade Scimitar"
 ---
 # Luck Blade
 *Generic Variant, major, legendary (requires attunement)*  

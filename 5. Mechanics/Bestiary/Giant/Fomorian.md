@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/8
-  - monster/environment/underdark
-  - monster/size/huge
-  - monster/type/giant
+- compendium/src/5e/mm
+- monster/cr/8
+- monster/environment/underdark
+- monster/size/huge
+- monster/type/giant
 statblock: inline
-aliases:
-  - Fomorian
+aliases: ["Fomorian"]
 ---
 # [[5. Mechanics\Bestiary\Giant\Fomorian.md|Fomorian]]
 *Source: Monster Manual p. 136*  

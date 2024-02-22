@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/phb
-  - item/wealth
-aliases:
-  - Silver (sp)
+- compendium/src/5e/phb
+- item/wealth/coinage
+aliases: 
+- "Silver (sp)"
 cost: 10
 ---
 # Silver (sp)

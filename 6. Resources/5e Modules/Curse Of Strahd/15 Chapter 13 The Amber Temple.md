@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/cos
-aliases: ["Chapter 13: The Amber Temple"]
+  - compendium/src/5e/cos
+aliases:
+  - 'Chapter 13: The Amber Temple'
 ---
 # Chapter 13: The Amber Temple
 *Source: Curse of Strahd, p. 181* 

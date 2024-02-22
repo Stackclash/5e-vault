@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/6
-  - monster/size/large
-  - monster/type/fiend/demon
+- compendium/src/5e/mm
+- monster/cr/6
+- monster/size/large
+- monster/type/fiend/demon
 statblock: inline
-aliases:
-  - Vrock
+aliases: ["Vrock"]
 ---
 # [[5. Mechanics\Bestiary\Fiend\Vrock.md|Vrock]]
 *Source: Monster Manual p. 64, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD.*  

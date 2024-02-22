@@ -8,9 +8,9 @@ aliases: ["Lords of Dust NPCs"]
 # Lords of Dust NPCs
 *Source: Eberron: Rising from the Last War p. 215* 
 
-`dice: [[Lords Of Dust Npcs (ERLW).md#^lords-of-dust-npcs]]`
-
 **Lords of Dust NPCs**
+
+`dice: [[Lords Of Dust Npcs.md#^lords-of-dust-npcs]]`
 
 | dice: d6 | NPC |
 |----------|-----|

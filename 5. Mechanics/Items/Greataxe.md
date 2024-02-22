@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/phb
-  - item/property/heavy
-  - item/property/martial
-  - item/property/two-handed
-  - item/weapon/martial/melee
-aliases:
-  - Greataxe
+- compendium/src/5e/phb
+- item/property/heavy
+- item/property/martial
+- item/property/two-handed
+- item/weapon/martial/melee
+aliases: 
+- "Greataxe"
 cost: 3000
 ---
 # Greataxe

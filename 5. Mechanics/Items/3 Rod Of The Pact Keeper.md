@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/attunement/required
-  - item/rarity/very-rare
-  - item/tier/major
-  - item/wondrous/rod
-aliases:
-  - +3 Rod of the Pact Keeper
+- compendium/src/5e/dmg
+- item/attunement/required
+- item/rarity/very-rare
+- item/tier/major
+- item/wondrous/rod
+aliases: 
+- "+3 Rod of the Pact Keeper"
 ---
 # +3 Rod of the Pact Keeper
 *Rod, major, very rare (requires attunement by a warlock)*  

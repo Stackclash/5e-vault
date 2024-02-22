@@ -2,11 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/phb
-  - deity/dragonlance
-  - domain/knowledge
-aliases:
-  - Gilean
+- compendium/src/5e/phb
+- deity/dragonlance
+- domain/knowledge
+aliases: ["Gilean"]
 ---
 # Gilean
 *Source: Player's Handbook p. 295* 

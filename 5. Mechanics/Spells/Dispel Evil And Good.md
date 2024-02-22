@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/cleric
-  - spell/class/paladin
-  - spell/class/sorcerer/divine-soul
-  - spell/level/5
-  - spell/school/abjuration
-aliases:
-  - Dispel Evil and Good
+- compendium/src/5e/phb
+- spell/class/cleric
+- spell/class/paladin
+- spell/class/sorcerer/divine-soul
+- spell/level/5
+- spell/school/abjuration
+aliases: ["Dispel Evil and Good"]
 ---
 # Dispel Evil and Good
 %%-- Embedded content starts on the next line. --%%

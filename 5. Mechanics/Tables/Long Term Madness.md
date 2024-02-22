@@ -8,9 +8,9 @@ aliases: ["Long-Term Madness"]
 # Long-Term Madness
 *Source: Dungeon Master's Guide p. 259. Available in the SRD.* 
 
-`dice: [[Long Term Madness.md#^long-term-madness]]`
-
 **Long-Term Madness**
+
+`dice: [[Long Term Madness.md#^long-term-madness]]`
 
 | dice: d100 | Effects (lasts 1d10 × 10 hours) |
 |------------|---------------------------------|

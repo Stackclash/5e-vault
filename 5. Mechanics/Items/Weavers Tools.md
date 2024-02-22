@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/phb
-  - item/gear/artisans-tools
-aliases:
-  - Weaver's Tools
+- compendium/src/5e/phb
+- item/gear/artisans-tools
+aliases: 
+- "Weaver's Tools"
 cost: 100
 ---
 # Weaver's Tools

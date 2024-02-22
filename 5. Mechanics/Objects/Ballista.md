@@ -2,12 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-  - compendium/src/5e/dmg
-  - object/size/large
-  - object/type/siege-weapon
+- compendium/src/5e/dmg
+- object/size/large
+- object/type/siege-weapon
 statblock: inline
-aliases:
-  - Ballista
+aliases: ["Ballista"]
 ---
 # Ballista
 *Source: Dungeon Master's Guide p. 255*  

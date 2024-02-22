@@ -8,8 +8,6 @@ aliases: ["The Outer Planes"]
 # The Outer Planes
 *Source: Dungeon Master's Guide p. 57* 
 
-`dice: [[The Outer Planes.md#^the-outer-planes]]`
-
 **The Outer Planes**
 
 | Outer Plane | Alignment |

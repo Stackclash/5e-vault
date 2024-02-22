@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/dmg
-aliases:
-  - Alien Technology
+- compendium/src/5e/dmg
+aliases: ["Alien Technology"]
 ---
 # Alien Technology
 *Source: Dungeon Master's Guide p. 268* 

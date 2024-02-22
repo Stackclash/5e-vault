@@ -2,15 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1
-  - monster/environment/underdark
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/undead
+- compendium/src/5e/mm
+- monster/cr/1
+- monster/environment/underdark
+- monster/environment/urban
+- monster/size/medium
+- monster/type/undead
 statblock: inline
-aliases:
-  - Specter
+aliases: ["Specter"]
 ---
 # [[5. Mechanics\Bestiary\Undead\Specter.md|Specter]]
 *Source: Monster Manual p. 279, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD.*  

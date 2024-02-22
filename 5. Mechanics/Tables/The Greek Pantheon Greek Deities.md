@@ -8,8 +8,6 @@ aliases: ["The Greek Pantheon; Greek Deities"]
 # The Greek Pantheon; Greek Deities
 *Source: Player's Handbook p. 297. Available in the SRD.* 
 
-`dice: [[The Greek Pantheon Greek Deities.md#^greek-deities]]`
-
 **Greek Deities**
 
 | Deity | Alignment | Suggested Domains | Symbol |

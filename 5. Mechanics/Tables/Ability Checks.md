@@ -8,8 +8,6 @@ aliases: ["Ability Checks"]
 # Ability Checks
 *Source: Dungeon Master's Guide p. 237* 
 
-`dice: [[Ability Checks.md#^ability-checks]]`
-
 **Ability Checks**
 
 | Ability | Used for... | Example Uses |

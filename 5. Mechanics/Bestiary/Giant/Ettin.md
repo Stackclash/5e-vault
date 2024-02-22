@@ -2,16 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/4
-  - monster/environment/hill
-  - monster/environment/mountain
-  - monster/environment/underdark
-  - monster/size/large
-  - monster/type/giant
+- compendium/src/5e/mm
+- monster/cr/4
+- monster/environment/hill
+- monster/environment/mountain
+- monster/environment/underdark
+- monster/size/large
+- monster/type/giant
 statblock: inline
-aliases:
-  - Ettin
+aliases: ["Ettin"]
 ---
 # [[5. Mechanics\Bestiary\Giant\Ettin.md|Ettin]]
 *Source: Monster Manual p. 132. Available in the SRD.*  

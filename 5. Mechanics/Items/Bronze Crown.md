@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/wealth
-aliases:
-  - Bronze crown
+- compendium/src/5e/dmg
+- item/wealth/art-object
+aliases: 
+- "Bronze crown"
 cost: 25000
 ---
 # Bronze crown

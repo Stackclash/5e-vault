@@ -2,18 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/2
-  - monster/environment/arctic
-  - monster/environment/coastal
-  - monster/environment/grassland
-  - monster/environment/hill
-  - monster/environment/mountain
-  - monster/size/large
-  - monster/type/monstrosity
+- compendium/src/5e/mm
+- monster/cr/2
+- monster/environment/arctic
+- monster/environment/coastal
+- monster/environment/grassland
+- monster/environment/hill
+- monster/environment/mountain
+- monster/size/large
+- monster/type/monstrosity
 statblock: inline
-aliases:
-  - Griffon
+aliases: ["Griffon"]
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Griffon.md|Griffon]]
 *Source: Monster Manual p. 174, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  

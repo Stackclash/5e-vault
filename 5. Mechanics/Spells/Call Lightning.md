@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/cleric/tempest-domain
-  - spell/class/druid
-  - spell/class/druid/circle-of-the-land
-  - spell/level/3
-  - spell/school/conjuration
-aliases:
-  - Call Lightning
+- compendium/src/5e/phb
+- spell/class/cleric/tempest-domain
+- spell/class/druid
+- spell/class/druid/circle-of-the-land
+- spell/level/3
+- spell/school/conjuration
+aliases: ["Call Lightning"]
 ---
 # Call Lightning
 %%-- Embedded content starts on the next line. --%%

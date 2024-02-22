@@ -2,12 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/mtf
-  - deity/drow
-  - domain/trickery
-  - domain/war
-aliases:
-  - Vhaeraun
+- compendium/src/5e/mtf
+- deity/drow
+- domain/trickery
+- domain/war
+aliases: ["Vhaeraun"]
 ---
 # Vhaeraun
 *Source: Mordenkainen's Tome of Foes p. 55* 

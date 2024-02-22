@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/phb
-  - item/property/martial
-  - item/property/versatile
-  - item/weapon/martial/melee
-aliases:
-  - Warhammer
+- compendium/src/5e/phb
+- item/property/martial
+- item/property/versatile
+- item/weapon/martial/melee
+aliases: 
+- "Warhammer"
 cost: 1500
 ---
 # Warhammer

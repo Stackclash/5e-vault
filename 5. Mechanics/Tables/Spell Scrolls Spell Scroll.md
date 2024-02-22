@@ -8,8 +8,6 @@ aliases: ["Spell Scrolls; Spell Scroll"]
 # Spell Scrolls; Spell Scroll
 *Source: Dungeon Master's Guide p. 139. Available in the SRD.* 
 
-`dice: [[Spell Scrolls Spell Scroll.md#^spell-scroll]]`
-
 **Spell Scroll**
 
 | Spell Level | Rarity | Save DC | Attack Bonus |

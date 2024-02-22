@@ -8,9 +8,9 @@ aliases: ["Forms of Government"]
 # Forms of Government
 *Source: Dungeon Master's Guide p. 18* 
 
-`dice: [[Forms Of Government.md#^forms-of-government]]`
-
 **Forms of Government**
+
+`dice: [[Forms Of Government.md#^forms-of-government]]`
 
 | dice: d100 | Government |
 |------------|------------|

@@ -8,8 +8,6 @@ aliases: ["Creating Quick Monster Stats; Monster Statistics by Challenge Rating"
 # Creating Quick Monster Stats; Monster Statistics by Challenge Rating
 *Source: Dungeon Master's Guide p. 274* 
 
-`dice: [[Creating Quick Monster Stats Monster Statistics By Challenge Rating.md#^monster-statistics-by-challenge-rating]]`
-
 **Monster Statistics by Challenge Rating**
 
 | CR | Prof. Bonus | Armor Class | Hit Points | Attack Bonus | Damage/Round | Save DC |

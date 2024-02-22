@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/4
-  - monster/size/medium
-  - monster/type/fiend/demon
+- compendium/src/5e/mm
+- monster/cr/4
+- monster/size/medium
+- monster/type/fiend/demon
 statblock: inline
-aliases:
-  - Shadow Demon
+aliases: ["Shadow Demon"]
 ---
 # [[5. Mechanics\Bestiary\Fiend\Shadow Demon.md|Shadow Demon]]
 *Source: Monster Manual p. 64, Curse of Strahd*  

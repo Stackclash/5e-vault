@@ -8,9 +8,9 @@ aliases: ["Short-Term Madness"]
 # Short-Term Madness
 *Source: Dungeon Master's Guide p. 259. Available in the SRD.* 
 
-`dice: [[Short Term Madness.md#^short-term-madness]]`
-
 **Short-Term Madness**
+
+`dice: [[Short Term Madness.md#^short-term-madness]]`
 
 | dice: d100 | Effects (lasts 1d10 minutes) |
 |------------|------------------------------|

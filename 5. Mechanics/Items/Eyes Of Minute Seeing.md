@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/rarity/uncommon
-  - item/tier/minor
-  - item/wondrous
-aliases:
-  - Eyes of Minute Seeing
+- compendium/src/5e/dmg
+- item/rarity/uncommon
+- item/tier/minor
+- item/wondrous
+aliases: 
+- "Eyes of Minute Seeing"
 ---
 # Eyes of Minute Seeing
 *Wondrous Item, minor, uncommon*  

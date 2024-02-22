@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/attunement/required
-  - item/rarity/very-rare
-  - item/tier/major
-  - item/wondrous
-aliases:
-  - Amulet of the Planes
+- compendium/src/5e/dmg
+- item/attunement/required
+- item/rarity/very-rare
+- item/tier/major
+- item/wondrous
+aliases: 
+- "Amulet of the Planes"
 ---
 # Amulet of the Planes
 *Wondrous Item, major, very rare (requires attunement)*  

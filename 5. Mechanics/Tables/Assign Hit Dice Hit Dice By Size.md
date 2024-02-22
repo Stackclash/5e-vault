@@ -8,8 +8,6 @@ aliases: ["Assign Hit Dice; Hit Dice by Size"]
 # Assign Hit Dice; Hit Dice by Size
 *Source: Dungeon Master's Guide p. 276. Available in the SRD and the Basic Rules.* 
 
-`dice: [[Assign Hit Dice Hit Dice By Size.md#^hit-dice-by-size]]`
-
 **Hit Dice by Size**
 
 | Monster Size | Hit Die | Average HP per Die |

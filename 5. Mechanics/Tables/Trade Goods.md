@@ -8,8 +8,6 @@ aliases: ["Trade Goods"]
 # Trade Goods
 *Source: Player's Handbook p. 157. Available in the SRD.* 
 
-`dice: [[Trade Goods.md#^trade-goods]]`
-
 **Trade Goods**
 
 | Cost | Goods |

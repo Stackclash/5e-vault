@@ -8,9 +8,9 @@ aliases: ["Random Buildings; Tavern"]
 # Random Buildings; Tavern
 *Source: Dungeon Master's Guide p. 113* 
 
-`dice: [[Random Buildings Tavern.md#^tavern]]`
-
 **Tavern**
+
+`dice: [[Random Buildings Tavern.md#^tavern]]`
 
 | dice: d20 | Type |
 |-----------|------|

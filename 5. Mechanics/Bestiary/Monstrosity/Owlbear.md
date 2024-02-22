@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/3
-  - monster/environment/forest
-  - monster/size/large
-  - monster/type/monstrosity
+- compendium/src/5e/mm
+- monster/cr/3
+- monster/environment/forest
+- monster/size/large
+- monster/type/monstrosity
 statblock: inline
-aliases:
-  - Owlbear
+aliases: ["Owlbear"]
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Owlbear.md|Owlbear]]
 *Source: Monster Manual p. 249. Available in the SRD and the Basic Rules.*  

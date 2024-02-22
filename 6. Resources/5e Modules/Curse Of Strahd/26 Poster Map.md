@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/cos
-aliases: ["Poster Map"]
+  - compendium/src/5e/cos
+aliases:
+  - Poster Map
 ---
 # Poster Map
 *Source: Curse of Strahd, p. 257* 

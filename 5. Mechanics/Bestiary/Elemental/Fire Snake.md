@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1
-  - monster/environment/underdark
-  - monster/size/medium
-  - monster/type/elemental
+- compendium/src/5e/mm
+- monster/cr/1
+- monster/environment/underdark
+- monster/size/medium
+- monster/type/elemental
 statblock: inline
-aliases:
-  - Fire Snake
+aliases: ["Fire Snake"]
 ---
 # [[5. Mechanics\Bestiary\Elemental\Fire Snake.md|Fire Snake]]
 *Source: Monster Manual p. 265*  

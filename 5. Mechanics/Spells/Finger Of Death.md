@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/sorcerer
-  - spell/class/warlock
-  - spell/class/wizard
-  - spell/level/7
-  - spell/school/necromancy
-aliases:
-  - Finger of Death
+- compendium/src/5e/phb
+- spell/class/sorcerer
+- spell/class/warlock
+- spell/class/wizard
+- spell/level/7
+- spell/school/necromancy
+aliases: ["Finger of Death"]
 ---
 # Finger of Death
 %%-- Embedded content starts on the next line. --%%

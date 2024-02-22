@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/20
-  - monster/environment/desert
-  - monster/size/gargantuan
-  - monster/type/dragon
+- compendium/src/5e/mm
+- monster/cr/20
+- monster/environment/desert
+- monster/size/gargantuan
+- monster/type/dragon
 statblock: inline
-aliases:
-  - Ancient Brass Dragon
+aliases: ["Ancient Brass Dragon"]
 ---
 # [[5. Mechanics\Bestiary\Dragon\Ancient Brass Dragon.md|Ancient Brass Dragon]]
 *Source: Monster Manual p. 104. Available in the SRD.*  

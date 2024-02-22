@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/9
-  - monster/environment/forest
-  - monster/size/huge
-  - monster/type/plant
+- compendium/src/5e/mm
+- monster/cr/9
+- monster/environment/forest
+- monster/size/huge
+- monster/type/plant
 statblock: inline
-aliases:
-  - Treant
+aliases: ["Treant"]
 ---
 # [[5. Mechanics\Bestiary\Plant\Treant.md|Treant]]
 *Source: Monster Manual p. 289, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD.*  

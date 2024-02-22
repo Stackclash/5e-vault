@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/11
-  - monster/environment/coastal
-  - monster/size/large
-  - monster/type/elemental
+- compendium/src/5e/mm
+- monster/cr/11
+- monster/environment/coastal
+- monster/size/large
+- monster/type/elemental
 statblock: inline
-aliases:
-  - Djinni
+aliases: ["Djinni"]
 ---
 # [[5. Mechanics\Bestiary\Elemental\Djinni.md|Djinni]]
 *Source: Monster Manual p. 144, Tasha's Cauldron of Everything. Available in the SRD.*  

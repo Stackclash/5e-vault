@@ -2,16 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-8
-  - monster/environment/forest
-  - monster/environment/grassland
-  - monster/environment/hill
-  - monster/size/medium
-  - monster/type/beast
+- compendium/src/5e/mm
+- monster/cr/1-8
+- monster/environment/forest
+- monster/environment/grassland
+- monster/environment/hill
+- monster/size/medium
+- monster/type/beast
 statblock: inline
-aliases:
-  - Giant Weasel
+aliases: ["Giant Weasel"]
 ---
 # [[5. Mechanics\Bestiary\Beast\Giant Weasel.md|Giant Weasel]]
 *Source: Monster Manual p. 329. Available in the SRD and the Basic Rules.*  

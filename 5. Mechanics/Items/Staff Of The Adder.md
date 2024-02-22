@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/attunement/required
-  - item/property/versatile
-  - item/rarity/uncommon
-  - item/tier/major
-  - item/wondrous/staff
-aliases:
-  - Staff of the Adder
+- compendium/src/5e/dmg
+- item/attunement/required
+- item/property/versatile
+- item/rarity/uncommon
+- item/tier/major
+- item/wondrous/staff
+aliases: 
+- "Staff of the Adder"
 ---
 # Staff of the Adder
 *Staff, major, uncommon (requires attunement by a cleric, druid, or warlock)*  

@@ -2,22 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-8
-  - monster/environment/coastal
-  - monster/environment/desert
-  - monster/environment/forest
-  - monster/environment/grassland
-  - monster/environment/hill
-  - monster/environment/mountain
-  - monster/environment/swamp
-  - monster/environment/underdark
-  - monster/environment/urban
-  - monster/size/tiny
-  - monster/type/beast
+- compendium/src/5e/mm
+- monster/cr/1-8
+- monster/environment/coastal
+- monster/environment/desert
+- monster/environment/forest
+- monster/environment/grassland
+- monster/environment/hill
+- monster/environment/mountain
+- monster/environment/swamp
+- monster/environment/underdark
+- monster/environment/urban
+- monster/size/tiny
+- monster/type/beast
 statblock: inline
-aliases:
-  - Stirge
+aliases: ["Stirge"]
 ---
 # [[5. Mechanics\Bestiary\Beast\Stirge.md|Stirge]]
 *Source: Monster Manual p. 284. Available in the SRD and the Basic Rules.*  

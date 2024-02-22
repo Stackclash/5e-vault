@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/attunement/required
-  - item/property/versatile
-  - item/rarity/rare
-  - item/tier/major
-  - item/wondrous/staff
-aliases:
-  - Staff of the Woodlands
+- compendium/src/5e/dmg
+- item/attunement/required
+- item/property/versatile
+- item/rarity/rare
+- item/tier/major
+- item/wondrous/staff
+aliases: 
+- "Staff of the Woodlands"
 ---
 # Staff of the Woodlands
 *Staff, major, rare (requires attunement by a druid)*  

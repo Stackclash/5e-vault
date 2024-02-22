@@ -2,19 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/3
-  - monster/environment/desert
-  - monster/environment/forest
-  - monster/environment/grassland
-  - monster/environment/hill
-  - monster/environment/underdark
-  - monster/environment/urban
-  - monster/size/large
-  - monster/type/monstrosity
+- compendium/src/5e/mm
+- monster/cr/3
+- monster/environment/desert
+- monster/environment/forest
+- monster/environment/grassland
+- monster/environment/hill
+- monster/environment/underdark
+- monster/environment/urban
+- monster/size/large
+- monster/type/monstrosity
 statblock: inline
-aliases:
-  - Phase Spider
+aliases: ["Phase Spider"]
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Phase Spider.md|Phase Spider]]
 *Source: Monster Manual p. 334. Available in the SRD and the Basic Rules.*  

@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/2
-  - monster/size/small
-  - monster/type/fiend/devil
+- compendium/src/5e/mm
+- monster/cr/2
+- monster/size/small
+- monster/type/fiend/devil
 statblock: inline
-aliases:
-  - Spined Devil
+aliases: ["Spined Devil"]
 ---
 # [[5. Mechanics\Bestiary\Fiend\Spined Devil.md|Spined Devil]]
 *Source: Monster Manual p. 78*  

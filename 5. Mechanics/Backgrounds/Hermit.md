@@ -2,10 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
-  - background
-  - compendium/src/5e/phb
-aliases:
-  - Hermit
+- background
+- compendium/src/5e/phb
+aliases: ["Hermit"]
 ---
 # Hermit
 *Source: Player's Handbook p. 134*  

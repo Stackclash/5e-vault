@@ -2,15 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/0
-  - monster/environment/arctic
-  - monster/environment/forest
-  - monster/size/tiny
-  - monster/type/beast
+- compendium/src/5e/mm
+- monster/cr/0
+- monster/environment/arctic
+- monster/environment/forest
+- monster/size/tiny
+- monster/type/beast
 statblock: inline
-aliases:
-  - Owl
+aliases: ["Owl"]
 ---
 # [[5. Mechanics\Bestiary\Beast\Owl.md|Owl]]
 *Source: Monster Manual p. 333. Available in the SRD and the Basic Rules.*  

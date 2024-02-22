@@ -8,9 +8,9 @@ aliases: ["Special Features; Who Created It or Was Intended to Use It?"]
 # Special Features; Who Created It or Was Intended to Use It?
 *Source: Dungeon Master's Guide p. 141* 
 
-`dice: [[Special Features Who Created It Or Was Intended To Use It.md#^who-created-it-or-was-intended-to-use-it]]`
-
 **Who Created It or Was Intended to Use It?**
+
+`dice: [[Special Features Who Created It Or Was Intended To Use It.md#^who-created-it-or-was-intended-to-use-it]]`
 
 | dice: d20 | Creator or Intended User |
 |-----------|--------------------------|

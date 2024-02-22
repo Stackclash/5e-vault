@@ -8,8 +8,6 @@ aliases: ["The Norse Pantheon; Norse Deities"]
 # The Norse Pantheon; Norse Deities
 *Source: Player's Handbook p. 298. Available in the SRD.* 
 
-`dice: [[The Norse Pantheon Norse Deities.md#^norse-deities]]`
-
 **Norse Deities**
 
 | Deity | Alignment | Suggested Domains | Symbol |

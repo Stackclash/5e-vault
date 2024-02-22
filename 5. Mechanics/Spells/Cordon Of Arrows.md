@@ -2,12 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/ranger
-  - spell/level/2
-  - spell/school/transmutation
-aliases:
-  - Cordon of Arrows
+- compendium/src/5e/phb
+- spell/class/ranger
+- spell/level/2
+- spell/school/transmutation
+aliases: ["Cordon of Arrows"]
 ---
 # Cordon of Arrows
 %%-- Embedded content starts on the next line. --%%

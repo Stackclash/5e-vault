@@ -2,20 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/barbarian/path-of-the-ancestral-guardian
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/fighter/eldritch-knight
-  - spell/class/rogue/arcane-trickster
-  - spell/class/sorcerer
-  - spell/class/sorcerer/divine-soul
-  - spell/class/warlock/the-great-old-one
-  - spell/class/wizard
-  - spell/level/3
-  - spell/school/divination
-aliases:
-  - Clairvoyance
+- compendium/src/5e/phb
+- spell/class/barbarian/path-of-the-ancestral-guardian
+- spell/class/bard
+- spell/class/cleric
+- spell/class/fighter/eldritch-knight
+- spell/class/rogue/arcane-trickster
+- spell/class/sorcerer
+- spell/class/sorcerer/divine-soul
+- spell/class/warlock/the-great-old-one
+- spell/class/wizard
+- spell/level/3
+- spell/school/divination
+aliases: ["Clairvoyance"]
 ---
 # Clairvoyance
 %%-- Embedded content starts on the next line. --%%

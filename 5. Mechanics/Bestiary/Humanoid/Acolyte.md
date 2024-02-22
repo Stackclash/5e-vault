@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-4
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/humanoid/any-race
+- compendium/src/5e/mm
+- monster/cr/1-4
+- monster/environment/urban
+- monster/size/medium
+- monster/type/humanoid/any-race
 statblock: inline
-aliases:
-  - Acolyte
+aliases: ["Acolyte"]
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Acolyte.md|Acolyte]]
 *Source: Monster Manual p. 342, Curse of Strahd, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  

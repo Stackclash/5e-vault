@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/attunement/required
-  - item/rarity/artifact
-  - item/wondrous
-aliases:
-  - Book of Exalted Deeds
+- compendium/src/5e/dmg
+- item/attunement/required
+- item/rarity/artifact
+- item/wondrous
+aliases: 
+- "Book of Exalted Deeds"
 ---
 # Book of Exalted Deeds
 *Wondrous Item, artifact (requires attunement by a creature of good alignment)*  

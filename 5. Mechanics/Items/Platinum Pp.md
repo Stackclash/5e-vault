@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/phb
-  - item/wealth
-aliases:
-  - Platinum (pp)
+- compendium/src/5e/phb
+- item/wealth/coinage
+aliases: 
+- "Platinum (pp)"
 cost: 1000
 ---
 # Platinum (pp)

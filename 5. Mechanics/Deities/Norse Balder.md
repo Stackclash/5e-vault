@@ -2,12 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/phb
-  - deity/norse
-  - domain/life
-  - domain/light
-aliases:
-  - Balder
+- compendium/src/5e/phb
+- deity/norse
+- domain/life
+- domain/light
+aliases: ["Balder"]
 ---
 # Balder
 *Source: Player's Handbook p. 299* 

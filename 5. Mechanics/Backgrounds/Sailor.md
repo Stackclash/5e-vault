@@ -2,10 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
-  - background
-  - compendium/src/5e/phb
-aliases:
-  - Sailor
+- background
+- compendium/src/5e/phb
+aliases: ["Sailor"]
 ---
 # Sailor
 *Source: Player's Handbook p. 139*  

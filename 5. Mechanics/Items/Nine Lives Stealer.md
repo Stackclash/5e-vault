@@ -2,19 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/attunement/required
-  - item/rarity/very-rare
-  - item/tier/major
-  - item/wondrous/wondrous-item
-aliases:
-  - Nine Lives Stealer
-  - Nine Lives Stealer Longsword
-  - Nine Lives Stealer Double-Bladed Scimitar
-  - Nine Lives Stealer Greatsword
-  - Nine Lives Stealer Rapier
-  - Nine Lives Stealer Shortsword
-  - Nine Lives Stealer Scimitar
+- compendium/src/5e/dmg
+- item/attunement/required
+- item/rarity/very-rare
+- item/tier/major
+- item/wondrous/wondrous-item
+aliases: 
+- "Nine Lives Stealer"
+- "Nine Lives Stealer Longsword"
+- "Nine Lives Stealer Double-Bladed Scimitar"
+- "Nine Lives Stealer Greatsword"
+- "Nine Lives Stealer Rapier"
+- "Nine Lives Stealer Shortsword"
+- "Nine Lives Stealer Scimitar"
 ---
 # Nine Lives Stealer
 *Generic Variant, major, very rare (requires attunement)*  

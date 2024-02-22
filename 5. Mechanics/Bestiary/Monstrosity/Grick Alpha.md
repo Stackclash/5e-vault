@@ -2,15 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/7
-  - monster/environment/forest
-  - monster/environment/underdark
-  - monster/size/large
-  - monster/type/monstrosity
+- compendium/src/5e/mm
+- monster/cr/7
+- monster/environment/forest
+- monster/environment/underdark
+- monster/size/large
+- monster/type/monstrosity
 statblock: inline
-aliases:
-  - Grick Alpha
+aliases: ["Grick Alpha"]
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Grick Alpha.md|Grick Alpha]]
 *Source: Monster Manual p. 173*  

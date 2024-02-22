@@ -8,9 +8,9 @@ aliases: ["Gatekeeper NPCs"]
 # Gatekeeper NPCs
 *Source: Eberron: Rising from the Last War p. 202* 
 
-`dice: [[Gatekeeper Npcs (ERLW).md#^gatekeeper-npcs]]`
-
 **Gatekeeper NPCs**
+
+`dice: [[Gatekeeper Npcs.md#^gatekeeper-npcs]]`
 
 | dice: d4 | NPC |
 |----------|-----|

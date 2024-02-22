@@ -2,10 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-  - compendium/src/5e/phb
-  - race/tiefling
-aliases:
-  - Tiefling
+- compendium/src/5e/phb
+- race/tiefling
+aliases: ["Tiefling"]
 ---
 # Tiefling
 *Source: Player's Handbook p. 42. Available in the SRD.*  

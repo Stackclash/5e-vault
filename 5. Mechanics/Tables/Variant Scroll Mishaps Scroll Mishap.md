@@ -8,9 +8,9 @@ aliases: ["Variant: Scroll Mishaps; Scroll Mishap"]
 # Variant: Scroll Mishaps; Scroll Mishap
 *Source: Dungeon Master's Guide p. 140* 
 
-`dice: [[Variant Scroll Mishaps Scroll Mishap.md#^scroll-mishap]]`
-
 **Scroll Mishap**
+
+`dice: [[Variant Scroll Mishaps Scroll Mishap.md#^scroll-mishap]]`
 
 | dice: d6 | Result |
 |----------|--------|

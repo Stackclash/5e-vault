@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/3
-  - monster/size/medium
-  - monster/type/dragon
+- compendium/src/5e/mm
+- monster/cr/3
+- monster/size/medium
+- monster/type/dragon
 statblock: inline
-aliases:
-  - Gold Dragon Wyrmling
+aliases: ["Gold Dragon Wyrmling"]
 ---
 # [[5. Mechanics\Bestiary\Dragon\Gold Dragon Wyrmling.md|Gold Dragon Wyrmling]]
 *Source: Monster Manual p. 115. Available in the SRD.*  

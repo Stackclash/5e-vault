@@ -2,10 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-  - compendium/src/5e/phb
-  - feat
-aliases:
-  - Moderately Armored
+- compendium/src/5e/phb
+- feat
+aliases: ["Moderately Armored"]
 ---
 # Moderately Armored
 *Source: Player's Handbook p. 168*  

@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/7
-  - monster/environment/swamp
-  - monster/size/large
-  - monster/type/dragon
+- compendium/src/5e/mm
+- monster/cr/7
+- monster/environment/swamp
+- monster/size/large
+- monster/type/dragon
 statblock: inline
-aliases:
-  - Young Black Dragon
+aliases: ["Young Black Dragon"]
 ---
 # [[5. Mechanics\Bestiary\Dragon\Young Black Dragon.md|Young Black Dragon]]
 *Source: Monster Manual p. 88. Available in the SRD.*  

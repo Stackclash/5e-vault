@@ -2,20 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/cleric/war-domain
-  - spell/class/paladin/oath-of-redemption
-  - spell/class/paladin/oath-of-the-watchers
-  - spell/class/paladin/oath-of-vengeance
-  - spell/class/ranger/monster-slayer
-  - spell/class/sorcerer
-  - spell/class/warlock
-  - spell/class/wizard
-  - spell/level/5
-  - spell/school/enchantment
-aliases:
-  - Hold Monster
+- compendium/src/5e/phb
+- spell/class/bard
+- spell/class/cleric/war-domain
+- spell/class/paladin/oath-of-redemption
+- spell/class/paladin/oath-of-the-watchers
+- spell/class/paladin/oath-of-vengeance
+- spell/class/ranger/monster-slayer
+- spell/class/sorcerer
+- spell/class/warlock
+- spell/class/wizard
+- spell/level/5
+- spell/school/enchantment
+aliases: ["Hold Monster"]
 ---
 # Hold Monster
 %%-- Embedded content starts on the next line. --%%

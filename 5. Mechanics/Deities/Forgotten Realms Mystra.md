@@ -2,12 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/phb
-  - deity/forgotten-realms
-  - domain/arcana
-  - domain/knowledge
-aliases:
-  - Mystra
+- compendium/src/5e/phb
+- deity/forgotten-realms
+- domain/arcana
+- domain/knowledge
+aliases: ["Mystra"]
 ---
 # Mystra
 *Source: Player's Handbook p. 294, Sword Coast Adventurer's Guide p. 125. Available in the Basic Rules.* 

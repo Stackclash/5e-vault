@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/9
-  - monster/size/large
-  - monster/type/fiend/yugoloth
+- compendium/src/5e/mm
+- monster/cr/9
+- monster/size/large
+- monster/type/fiend/yugoloth
 statblock: inline
-aliases:
-  - Nycaloth
+aliases: ["Nycaloth"]
 ---
 # [[5. Mechanics\Bestiary\Fiend\Nycaloth.md|Nycaloth]]
 *Source: Monster Manual p. 314, Tasha's Cauldron of Everything*  

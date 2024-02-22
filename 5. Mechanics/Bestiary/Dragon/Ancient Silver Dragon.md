@@ -2,15 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/23
-  - monster/environment/mountain
-  - monster/environment/urban
-  - monster/size/gargantuan
-  - monster/type/dragon
+- compendium/src/5e/mm
+- monster/cr/23
+- monster/environment/mountain
+- monster/environment/urban
+- monster/size/gargantuan
+- monster/type/dragon
 statblock: inline
-aliases:
-  - Ancient Silver Dragon
+aliases: ["Ancient Silver Dragon"]
 ---
 # [[5. Mechanics\Bestiary\Dragon\Ancient Silver Dragon.md|Ancient Silver Dragon]]
 *Source: Monster Manual p. 116. Available in the SRD.*  

@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/mm
-aliases:
-  - Player Characters as Vampires
+- compendium/src/5e/mm
+aliases: ["Player Characters as Vampires"]
 ---
 # Player Characters as Vampires
 *Source: Monster Manual p. 295, Van Richten's Guide to Ravenloft p. 236* 

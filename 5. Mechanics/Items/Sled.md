@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/phb
-  - item/vehicle
-aliases:
-  - Sled
+- compendium/src/5e/phb
+- item/vehicle
+aliases: 
+- "Sled"
 cost: 2000
 ---
 # Sled

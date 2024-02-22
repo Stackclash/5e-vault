@@ -2,15 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/2
-  - monster/environment/forest
-  - monster/environment/grassland
-  - monster/size/large
-  - monster/type/monstrosity
+- compendium/src/5e/mm
+- monster/cr/2
+- monster/environment/forest
+- monster/environment/grassland
+- monster/size/large
+- monster/type/monstrosity
 statblock: inline
-aliases:
-  - Ankheg
+aliases: ["Ankheg"]
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Ankheg.md|Ankheg]]
 *Source: Monster Manual p. 21. Available in the SRD.*  

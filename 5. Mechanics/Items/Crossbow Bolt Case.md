@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/phb
-  - item/gear
-aliases:
-  - Crossbow Bolt Case
+- compendium/src/5e/phb
+- item/gear
+aliases: 
+- "Crossbow Bolt Case"
 cost: 100
 ---
 # Crossbow Bolt Case

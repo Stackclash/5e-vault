@@ -2,25 +2,25 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/rarity/uncommon
-  - item/tier/minor
-  - item/wondrous/wondrous-item
-aliases:
-  - Mariner's Armor
-  - Mariner's Chain Mail
-  - Mariner's Chain Shirt
-  - Mariner's Plate Armor
-  - Mariner's Spiked Armor
-  - Mariner's Scale Mail
-  - Mariner's Hide Armor
-  - Mariner's Splint Armor
-  - Mariner's Leather Armor
-  - Mariner's Half Plate Armor
-  - Mariner's Padded Armor
-  - Mariner's Ring Mail
-  - Mariner's Breastplate
-  - Mariner's Studded Leather Armor
+- compendium/src/5e/dmg
+- item/rarity/uncommon
+- item/tier/minor
+- item/wondrous/wondrous-item
+aliases: 
+- "Mariner's Armor"
+- "Mariner's Chain Mail"
+- "Mariner's Chain Shirt"
+- "Mariner's Plate Armor"
+- "Mariner's Spiked Armor"
+- "Mariner's Scale Mail"
+- "Mariner's Hide Armor"
+- "Mariner's Splint Armor"
+- "Mariner's Leather Armor"
+- "Mariner's Half Plate Armor"
+- "Mariner's Padded Armor"
+- "Mariner's Ring Mail"
+- "Mariner's Breastplate"
+- "Mariner's Studded Leather Armor"
 ---
 # Mariner's Armor
 *Generic Variant, minor, uncommon*  

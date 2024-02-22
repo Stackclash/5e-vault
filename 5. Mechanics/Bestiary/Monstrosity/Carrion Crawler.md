@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/2
-  - monster/environment/underdark
-  - monster/size/large
-  - monster/type/monstrosity
+- compendium/src/5e/mm
+- monster/cr/2
+- monster/environment/underdark
+- monster/size/large
+- monster/type/monstrosity
 statblock: inline
-aliases:
-  - Carrion Crawler
+aliases: ["Carrion Crawler"]
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Carrion Crawler.md|Carrion Crawler]]
 *Source: Monster Manual p. 37*  

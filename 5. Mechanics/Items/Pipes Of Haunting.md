@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/gear/instrument
-  - item/rarity/uncommon
-  - item/tier/major
-aliases:
-  - Pipes of Haunting
+- compendium/src/5e/dmg
+- item/gear/instrument
+- item/rarity/uncommon
+- item/tier/major
+aliases: 
+- "Pipes of Haunting"
 ---
 # Pipes of Haunting
 *Instrument, major, uncommon*  

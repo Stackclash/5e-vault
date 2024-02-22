@@ -2,22 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-8
-  - monster/environment/arctic
-  - monster/environment/coastal
-  - monster/environment/desert
-  - monster/environment/forest
-  - monster/environment/grassland
-  - monster/environment/hill
-  - monster/environment/mountain
-  - monster/environment/swamp
-  - monster/environment/underdark
-  - monster/size/medium
-  - monster/type/humanoid/any-race
+- compendium/src/5e/mm
+- monster/cr/1-8
+- monster/environment/arctic
+- monster/environment/coastal
+- monster/environment/desert
+- monster/environment/forest
+- monster/environment/grassland
+- monster/environment/hill
+- monster/environment/mountain
+- monster/environment/swamp
+- monster/environment/underdark
+- monster/size/medium
+- monster/type/humanoid/any-race
 statblock: inline
-aliases:
-  - Tribal Warrior
+aliases: ["Tribal Warrior"]
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Tribal Warrior.md|Tribal Warrior]]
 *Source: Monster Manual p. 350. Available in the SRD.*  

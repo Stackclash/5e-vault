@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/dmg
-aliases:
-  - More Difficult Identification
+- compendium/src/5e/dmg
+aliases: ["More Difficult Identification"]
 ---
 # More Difficult Identification
 *Source: Dungeon Master's Guide p. 136* 

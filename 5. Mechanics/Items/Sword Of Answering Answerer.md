@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/attunement/required
-  - item/property/martial
-  - item/property/versatile
-  - item/rarity/legendary
-  - item/tier/major
-  - item/weapon/martial/melee
-aliases:
-  - Sword of Answering (Answerer)
+- compendium/src/5e/dmg
+- item/attunement/required
+- item/property/martial
+- item/property/versatile
+- item/rarity/legendary
+- item/tier/major
+- item/weapon/martial/melee
+aliases: 
+- "Sword of Answering (Answerer)"
 ---
 # Sword of Answering (Answerer)
 *Melee Weapon, major, legendary (requires attunement by a chaotic good creature)*  

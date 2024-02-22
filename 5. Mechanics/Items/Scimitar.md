@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/phb
-  - item/property/finesse
-  - item/property/light
-  - item/property/martial
-  - item/weapon/martial/melee
-aliases:
-  - Scimitar
+- compendium/src/5e/phb
+- item/property/finesse
+- item/property/light
+- item/property/martial
+- item/weapon/martial/melee
+aliases: 
+- "Scimitar"
 cost: 2500
 ---
 # Scimitar

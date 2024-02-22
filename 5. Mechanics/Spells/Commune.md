@@ -2,17 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/cleric
-  - spell/class/cleric/order-domain
-  - spell/class/paladin/oath-of-devotion
-  - spell/class/paladin/oath-of-glory
-  - spell/class/sorcerer/divine-soul
-  - spell/level/5
-  - spell/ritual
-  - spell/school/divination
-aliases:
-  - Commune
+- compendium/src/5e/phb
+- spell/class/cleric
+- spell/class/cleric/order-domain
+- spell/class/paladin/oath-of-devotion
+- spell/class/paladin/oath-of-glory
+- spell/class/sorcerer/divine-soul
+- spell/level/5
+- spell/ritual
+- spell/school/divination
+aliases: ["Commune"]
 ---
 # Commune
 %%-- Embedded content starts on the next line. --%%

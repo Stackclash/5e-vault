@@ -2,17 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/4
-  - monster/environment/desert
-  - monster/environment/forest
-  - monster/environment/grassland
-  - monster/environment/hill
-  - monster/size/medium
-  - monster/type/fiend/gnoll
+- compendium/src/5e/mm
+- monster/cr/4
+- monster/environment/desert
+- monster/environment/forest
+- monster/environment/grassland
+- monster/environment/hill
+- monster/size/medium
+- monster/type/fiend/gnoll
 statblock: inline
-aliases:
-  - Gnoll Fang of Yeenoghu
+aliases: ["Gnoll Fang of Yeenoghu"]
 ---
 # [[5. Mechanics\Bestiary\Fiend\Gnoll Fang Of Yeenoghu.md|Gnoll Fang of Yeenoghu]]
 *Source: Monster Manual p. 163*  

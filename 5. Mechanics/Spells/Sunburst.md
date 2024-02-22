@@ -12,6 +12,7 @@ tags:
 aliases: ["Sunburst"]
 ---
 # Sunburst
+%%-- Embedded content starts on the next line. --%%
 *8th-level, Evocation*  
 
 - **Casting time:** 1 action
@@ -25,6 +26,6 @@ A creature [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]] by this spell 
 
 This spell dispels any darkness in its area that was created by a spell.
 
-**Classes**: [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 279. Available in the SRD and the Basic Rules.*

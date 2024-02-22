@@ -2,12 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-  - compendium/src/5e/dmg
-  - object/size/gargantuan
-  - object/type/siege-weapon
+- compendium/src/5e/dmg
+- object/size/gargantuan
+- object/type/siege-weapon
 statblock: inline
-aliases:
-  - Siege Tower
+aliases: ["Siege Tower"]
 ---
 # Siege Tower
 *Source: Dungeon Master's Guide p. 256*  

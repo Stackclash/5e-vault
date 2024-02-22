@@ -2,19 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/attunement/required
-  - item/rarity/rare
-  - item/tier/major
-  - item/wondrous/wondrous-item
-aliases:
-  - Sword of Life Stealing
-  - Longsword of Life Stealing
-  - Double-Bladed Scimitar of Life Stealing
-  - Greatsword of Life Stealing
-  - Rapier of Life Stealing
-  - Shortsword of Life Stealing
-  - Scimitar of Life Stealing
+- compendium/src/5e/dmg
+- item/attunement/required
+- item/rarity/rare
+- item/tier/major
+- item/wondrous/wondrous-item
+aliases: 
+- "Sword of Life Stealing"
+- "Longsword of Life Stealing"
+- "Double-Bladed Scimitar of Life Stealing"
+- "Greatsword of Life Stealing"
+- "Rapier of Life Stealing"
+- "Shortsword of Life Stealing"
+- "Scimitar of Life Stealing"
 ---
 # Sword of Life Stealing
 *Generic Variant, major, rare (requires attunement)*  

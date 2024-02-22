@@ -9,6 +9,7 @@ tags:
 aliases: ["Reincarnate"]
 ---
 # Reincarnate
+%%-- Embedded content starts on the next line. --%%
 *5th-level, Transmutation*  
 
 - **Casting time:** 1 hour
@@ -21,6 +22,8 @@ You touch a dead humanoid or a piece of a dead humanoid. Provided that the creat
 The magic fashions a new body for the creature to inhabit, which likely causes the creature's race to change. The DM rolls a `dice: d100|avg` (`d100`) and consults the following table to determine what form the creature takes when restored to life, or the DM chooses a form.
 
 **Reincarnate Races**
+
+`dice: [[Reincarnate.md#^reincarnate-races]]`
 
 | dice: d100 | Race |
 |------------|------|

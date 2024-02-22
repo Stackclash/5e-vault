@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/2
-  - monster/environment/underdark
-  - monster/size/large
-  - monster/type/ooze
+- compendium/src/5e/mm
+- monster/cr/2
+- monster/environment/underdark
+- monster/size/large
+- monster/type/ooze
 statblock: inline
-aliases:
-  - Ochre Jelly
+aliases: ["Ochre Jelly"]
 ---
 # [[5. Mechanics\Bestiary\Ooze\Ochre Jelly.md|Ochre Jelly]]
 *Source: Monster Manual p. 243, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  

@@ -2,15 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/13
-  - monster/environment/coastal
-  - monster/environment/underwater
-  - monster/size/huge
-  - monster/type/giant
+- compendium/src/5e/mm
+- monster/cr/13
+- monster/environment/coastal
+- monster/environment/underwater
+- monster/size/huge
+- monster/type/giant
 statblock: inline
-aliases:
-  - Storm Giant
+aliases: ["Storm Giant"]
 ---
 # [[5. Mechanics\Bestiary\Giant\Storm Giant.md|Storm Giant]]
 *Source: Monster Manual p. 156. Available in the SRD.*  

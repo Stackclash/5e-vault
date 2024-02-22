@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhbh
-aliases: ["Chapter 3: The Herb Compendium"]
+  - compendium/src/5e/hhbh
+aliases:
+  - 'Chapter 3: The Herb Compendium'
 ---
 # Chapter 3: The Herb Compendium
 *Source: Hamund's Herbalism Handbook, p. 5* 

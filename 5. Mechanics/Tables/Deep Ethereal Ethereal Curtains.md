@@ -8,9 +8,9 @@ aliases: ["Deep Ethereal; Ethereal Curtains"]
 # Deep Ethereal; Ethereal Curtains
 *Source: Dungeon Master's Guide p. 48* 
 
-`dice: [[Deep Ethereal Ethereal Curtains.md#^ethereal-curtains]]`
-
 **Ethereal Curtains**
+
+`dice: [[Deep Ethereal Ethereal Curtains.md#^ethereal-curtains]]`
 
 | dice: d8 | Plane | Color of Curtain |
 |----------|-------|------------------|

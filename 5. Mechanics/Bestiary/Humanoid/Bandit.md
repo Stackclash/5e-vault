@@ -2,19 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-8
-  - monster/environment/arctic
-  - monster/environment/coastal
-  - monster/environment/desert
-  - monster/environment/forest
-  - monster/environment/hill
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/humanoid/any-race
+- compendium/src/5e/mm
+- monster/cr/1-8
+- monster/environment/arctic
+- monster/environment/coastal
+- monster/environment/desert
+- monster/environment/forest
+- monster/environment/hill
+- monster/environment/urban
+- monster/size/medium
+- monster/type/humanoid/any-race
 statblock: inline
-aliases:
-  - Bandit
+aliases: ["Bandit"]
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Bandit.md|Bandit]]
 *Source: Monster Manual p. 343, Eberron: Rising from the Last War, Curse of Strahd. Available in the SRD and the Basic Rules.*  

@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/22
-  - monster/environment/coastal
-  - monster/size/gargantuan
-  - monster/type/dragon
+- compendium/src/5e/mm
+- monster/cr/22
+- monster/environment/coastal
+- monster/size/gargantuan
+- monster/type/dragon
 statblock: inline
-aliases:
-  - Ancient Bronze Dragon
+aliases: ["Ancient Bronze Dragon"]
 ---
 # [[5. Mechanics\Bestiary\Dragon\Ancient Bronze Dragon.md|Ancient Bronze Dragon]]
 *Source: Monster Manual p. 107. Available in the SRD.*  

@@ -8,9 +8,9 @@ aliases: ["Villains; Villain's Methods"]
 # Villains; Villain's Methods
 *Source: Dungeon Master's Guide p. 94* 
 
-`dice: [[Villains Villains Methods.md#^villains-methods]]`
-
 **Villain's Methods**
+
+`dice: [[Villains Villains Methods.md#^villains-methods]]`
 
 | dice: d20 | Methods |
 |-----------|---------|

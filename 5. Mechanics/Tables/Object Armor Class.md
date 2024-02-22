@@ -8,8 +8,6 @@ aliases: ["Object Armor Class"]
 # Object Armor Class
 *Source: Dungeon Master's Guide p. 246. Available in the SRD.* 
 
-`dice: [[Object Armor Class.md#^object-armor-class]]`
-
 **Object Armor Class**
 
 | Substance | AC |

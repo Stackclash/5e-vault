@@ -2,19 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer
-  - spell/class/cleric/forge-domain
-  - spell/class/cleric/war-domain
-  - spell/class/fighter/eldritch-knight
-  - spell/class/paladin
-  - spell/class/paladin/oath-of-glory
-  - spell/class/rogue/arcane-trickster
-  - spell/class/wizard
-  - spell/level/2
-  - spell/school/transmutation
-aliases:
-  - Magic Weapon
+- compendium/src/5e/phb
+- spell/class/artificer
+- spell/class/cleric/forge-domain
+- spell/class/cleric/war-domain
+- spell/class/fighter/eldritch-knight
+- spell/class/paladin
+- spell/class/paladin/oath-of-glory
+- spell/class/rogue/arcane-trickster
+- spell/class/wizard
+- spell/level/2
+- spell/school/transmutation
+aliases: ["Magic Weapon"]
 ---
 # Magic Weapon
 %%-- Embedded content starts on the next line. --%%

@@ -8,9 +8,9 @@ aliases: ["New Organizations"]
 # New Organizations
 *Source: Dungeon Master's Guide p. 31* 
 
-`dice: [[New Organizations.md#^new-organizations]]`
-
 **New Organizations**
+
+`dice: [[New Organizations.md#^new-organizations]]`
 
 | dice: d10 | New Organizations |
 |-----------|-------------------|

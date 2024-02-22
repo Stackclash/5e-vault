@@ -1,27 +1,28 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: null
 condition: healthy
 image: 4. World Almanac/NPCs/img/lord-rall.jpg
 relationships: []
-tags: 
-aliases: [Lord Rall]
-pronounced: 
-race: 
-gender: 
-age: 
+tags: null
+aliases:
+  - Lord Rall
+pronounced: null
+race: null
+gender: null
+age: null
 alignment: Chaotic
-occupation: 
+occupation: null
 groups: []
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]

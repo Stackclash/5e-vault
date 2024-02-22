@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/0
-  - monster/size/medium
-  - monster/type/fiend/devil
+- compendium/src/5e/mm
+- monster/cr/0
+- monster/size/medium
+- monster/type/fiend/devil
 statblock: inline
-aliases:
-  - Lemure
+aliases: ["Lemure"]
 ---
 # [[5. Mechanics\Bestiary\Fiend\Lemure.md|Lemure]]
 *Source: Monster Manual p. 76. Available in the SRD.*  

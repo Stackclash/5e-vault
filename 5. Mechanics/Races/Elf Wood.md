@@ -2,10 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-  - compendium/src/5e/phb
-  - race/elf/wood
-aliases:
-  - Elf (Wood)
+- compendium/src/5e/phb
+- race/elf/wood
+aliases: ["Elf (Wood)"]
 ---
 # Elf (Wood)
 *Source: Player's Handbook p. 24. Available in the Basic Rules.*  

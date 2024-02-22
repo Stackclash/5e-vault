@@ -2,15 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/5
-  - monster/environment/forest
-  - monster/environment/swamp
-  - monster/size/large
-  - monster/type/plant
+- compendium/src/5e/mm
+- monster/cr/5
+- monster/environment/forest
+- monster/environment/swamp
+- monster/size/large
+- monster/type/plant
 statblock: inline
-aliases:
-  - Shambling Mound
+aliases: ["Shambling Mound"]
 ---
 # [[5. Mechanics\Bestiary\Plant\Shambling Mound.md|Shambling Mound]]
 *Source: Monster Manual p. 270, Curse of Strahd. Available in the SRD.*  

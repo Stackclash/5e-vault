@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/8
-  - monster/size/medium
-  - monster/type/fiend/devil
+- compendium/src/5e/mm
+- monster/cr/8
+- monster/size/medium
+- monster/type/fiend/devil
 statblock: inline
-aliases:
-  - Chain Devil
+aliases: ["Chain Devil"]
 ---
 # [[5. Mechanics\Bestiary\Fiend\Chain Devil.md|Chain Devil]]
 *Source: Monster Manual p. 72. Available in the SRD.*  

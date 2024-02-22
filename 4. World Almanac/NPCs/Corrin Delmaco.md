@@ -1,27 +1,28 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: null
 condition: healthy
-image:
+image: null
 relationships: []
-tags: 
-aliases: [Corrin Delmaco]
-pronounced: 
-race: 
-gender: 
-age: 
+tags: null
+aliases:
+  - Corrin Delmaco
+pronounced: null
+race: null
+gender: null
+age: null
 alignment: Lawful Evil
-occupation: 
+occupation: null
 groups: []
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]

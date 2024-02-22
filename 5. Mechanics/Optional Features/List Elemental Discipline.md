@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/phb
-aliases:
-  - Elemental Discipline
+- compendium/src/5e/phb
+aliases: ["Elemental Discipline"]
 ---
 # Elemental Discipline
 *Source: Player's Handbook* 

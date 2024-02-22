@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/phb
-  - item/gear/instrument
-aliases:
-  - Viol
+- compendium/src/5e/phb
+- item/gear/instrument
+aliases: 
+- "Viol"
 cost: 3000
 ---
 # Viol

@@ -2,10 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - class/bard
-  - compendium/src/5e/phb
-aliases:
-  - Bard
+- class/bard
+- compendium/src/5e/phb
+aliases: ["Bard"]
 ---
 # Bard
 *Source: Player's Handbook p. 51. Available in the SRD.*  

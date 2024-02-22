@@ -2,15 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/sorcerer
-  - spell/class/warlock
-  - spell/class/wizard
-  - spell/level/6
-  - spell/school/enchantment
-aliases:
-  - Mass Suggestion
+- compendium/src/5e/phb
+- spell/class/bard
+- spell/class/sorcerer
+- spell/class/warlock
+- spell/class/wizard
+- spell/level/6
+- spell/school/enchantment
+aliases: ["Mass Suggestion"]
 ---
 # Mass Suggestion
 %%-- Embedded content starts on the next line. --%%

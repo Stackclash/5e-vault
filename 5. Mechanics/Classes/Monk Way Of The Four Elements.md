@@ -2,10 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/phb
-  - subclass/monk/four-elements
-aliases:
-  - Way of the Four Elements
+- compendium/src/5e/phb
+- subclass/monk/four-elements
+aliases: ["Way of the Four Elements"]
 ---
 # Way of the Four Elements
 *[[Monk.md\|Monk]]: Monastic Tradition*  

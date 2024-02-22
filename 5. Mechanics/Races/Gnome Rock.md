@@ -2,10 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-  - compendium/src/5e/phb
-  - race/gnome/rock
-aliases:
-  - Gnome (Rock)
+- compendium/src/5e/phb
+- race/gnome/rock
+aliases: ["Gnome (Rock)"]
 ---
 # Gnome (Rock)
 *Source: Player's Handbook p. 37. Available in the SRD.*  

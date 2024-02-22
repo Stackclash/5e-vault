@@ -12,6 +12,7 @@ tags:
 aliases: ["Symbol"]
 ---
 # Symbol
+%%-- Embedded content starts on the next line. --%%
 *7th-level, Abjuration*  
 
 - **Casting time:** 1 minute
@@ -63,6 +64,6 @@ Each target must make a Wisdom saving throw and becomes [[/5. Mechanics/Rules/Co
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 280. Available in the SRD.*

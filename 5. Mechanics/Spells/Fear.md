@@ -2,19 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/fighter/eldritch-knight
-  - spell/class/paladin/oath-of-conquest
-  - spell/class/ranger/gloom-stalker
-  - spell/class/rogue/arcane-trickster
-  - spell/class/sorcerer
-  - spell/class/warlock
-  - spell/class/wizard
-  - spell/level/3
-  - spell/school/illusion
-aliases:
-  - Fear
+- compendium/src/5e/phb
+- spell/class/bard
+- spell/class/fighter/eldritch-knight
+- spell/class/paladin/oath-of-conquest
+- spell/class/ranger/gloom-stalker
+- spell/class/rogue/arcane-trickster
+- spell/class/sorcerer
+- spell/class/warlock
+- spell/class/wizard
+- spell/level/3
+- spell/school/illusion
+aliases: ["Fear"]
 ---
 # Fear
 %%-- Embedded content starts on the next line. --%%

@@ -8,9 +8,9 @@ aliases: ["Magic Item Table B"]
 # Magic Item Table B
 *Source: Dungeon Master's Guide p. 144* 
 
-`dice: [[Magic Item Table B.md#^magic-item-table-b]]`
-
 **Magic Item Table B**
+
+`dice: [[Magic Item Table B.md#^magic-item-table-b]]`
 
 | dice: d100 | Magic Item |
 |------------|------------|
@@ -22,8 +22,8 @@ aliases: ["Magic Item Table B"]
 | 40-44 | [[5. Mechanics/Items/Potion Of Hill Giant Strength.md\|Potion of hill giant strength]] |
 | 45-49 | [[5. Mechanics/Items/Potion Of Growth.md\|Potion of growth]] |
 | 50-54 | [[5. Mechanics/Items/Potion Of Water Breathing.md\|Potion of water breathing]] |
-| 55-59 | [[5. Mechanics/Items/Spell Scroll-2nd Level.md\|Spell scroll (2nd level)]] |
-| 60-64 | [[5. Mechanics/Items/Spell Scroll-3rd Level.md\|Spell scroll (3rd level)]] |
+| 55-59 | [[5. Mechanics/Items/Spell Scroll 2nd Level.md\|Spell scroll (2nd level)]] |
+| 60-64 | [[5. Mechanics/Items/Spell Scroll 3rd Level.md\|Spell scroll (3rd level)]] |
 | 65-67 | [[5. Mechanics/Items/Bag Of Holding.md\|Bag of holding]] |
 | 68-70 | [[5. Mechanics/Items/Keoghtoms Ointment.md\|Keoghtom's ointment]] |
 | 71-73 | [[5. Mechanics/Items/Oil Of Slipperiness.md\|Oil of slipperiness]] |

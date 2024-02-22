@@ -8,8 +8,6 @@ aliases: ["Poisons"]
 # Poisons
 *Source: Dungeon Master's Guide p. 257. Available in the SRD.* 
 
-`dice: [[Poisons.md#^poisons]]`
-
 **Poisons**
 
 | Item | Type | Price per Dose |

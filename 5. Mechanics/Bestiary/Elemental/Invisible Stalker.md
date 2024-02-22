@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/6
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/elemental
+- compendium/src/5e/mm
+- monster/cr/6
+- monster/environment/urban
+- monster/size/medium
+- monster/type/elemental
 statblock: inline
-aliases:
-  - Invisible Stalker
+aliases: ["Invisible Stalker"]
 ---
 # [[5. Mechanics\Bestiary\Elemental\Invisible Stalker.md|Invisible Stalker]]
 *Source: Monster Manual p. 192, Curse of Strahd. Available in the SRD.*  

@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/4
-  - monster/size/medium
-  - monster/type/dragon
+- compendium/src/5e/mm
+- monster/cr/4
+- monster/size/medium
+- monster/type/dragon
 statblock: inline
-aliases:
-  - Red Dragon Wyrmling
+aliases: ["Red Dragon Wyrmling"]
 ---
 # [[5. Mechanics\Bestiary\Dragon\Red Dragon Wyrmling.md|Red Dragon Wyrmling]]
 *Source: Monster Manual p. 98, Curse of Strahd. Available in the SRD.*  

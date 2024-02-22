@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/3
-  - monster/environment/arctic
-  - monster/size/large
-  - monster/type/monstrosity
+- compendium/src/5e/mm
+- monster/cr/3
+- monster/environment/arctic
+- monster/size/large
+- monster/type/monstrosity
 statblock: inline
-aliases:
-  - Winter Wolf
+aliases: ["Winter Wolf"]
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Winter Wolf.md|Winter Wolf]]
 *Source: Monster Manual p. 340. Available in the SRD and the Basic Rules.*  

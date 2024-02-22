@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/phb
-  - item/armor/heavy
-aliases:
-  - Chain Mail
+- compendium/src/5e/phb
+- item/armor/heavy
+aliases: 
+- "Chain Mail"
 cost: 7500
 ---
 # Chain Mail

@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/attunement/required
-  - item/rarity/very-rare
-  - item/tier/major
-  - item/wondrous
-aliases:
-  - Robe of Stars
+- compendium/src/5e/dmg
+- item/attunement/required
+- item/rarity/very-rare
+- item/tier/major
+- item/wondrous
+aliases: 
+- "Robe of Stars"
 ---
 # Robe of Stars
 *Wondrous Item, major, very rare (requires attunement)*  

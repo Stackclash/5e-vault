@@ -2,11 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/mtf
-  - deity/elven
-  - domain/nature
-aliases:
-  - Rillifane Rallathil
+- compendium/src/5e/mtf
+- deity/elven
+- domain/nature
+aliases: ["Rillifane Rallathil"]
 ---
 # Rillifane Rallathil
 *Source: Mordenkainen's Tome of Foes p. 46* 

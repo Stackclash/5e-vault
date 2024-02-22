@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/property/ammunition/firearm
-  - item/property/loading
-  - item/property/martial
-  - item/weapon/martial/ranged
-aliases:
-  - Pistol
+- compendium/src/5e/dmg
+- item/property/ammunition/firearm
+- item/property/loading
+- item/property/martial
+- item/weapon/martial/ranged
+aliases: 
+- "Pistol"
 cost: 25000
 ---
 # Pistol

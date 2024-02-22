@@ -8,9 +8,9 @@ aliases: ["Ether Cyclones"]
 # Ether Cyclones
 *Source: Dungeon Master's Guide p. 49* 
 
-`dice: [[Ether Cyclones.md#^ether-cyclones]]`
-
 **Ether Cyclones**
+
+`dice: [[Ether Cyclones.md#^ether-cyclones]]`
 
 | dice: d20 | Effect |
 |-----------|--------|

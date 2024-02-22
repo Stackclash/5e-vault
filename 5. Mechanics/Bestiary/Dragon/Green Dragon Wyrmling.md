@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/2
-  - monster/size/medium
-  - monster/type/dragon
+- compendium/src/5e/mm
+- monster/cr/2
+- monster/size/medium
+- monster/type/dragon
 statblock: inline
-aliases:
-  - Green Dragon Wyrmling
+aliases: ["Green Dragon Wyrmling"]
 ---
 # [[5. Mechanics\Bestiary\Dragon\Green Dragon Wyrmling.md|Green Dragon Wyrmling]]
 *Source: Monster Manual p. 95. Available in the SRD.*  

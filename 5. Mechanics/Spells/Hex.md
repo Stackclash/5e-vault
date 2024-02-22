@@ -2,12 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/warlock
-  - spell/level/1
-  - spell/school/enchantment
-aliases:
-  - Hex
+- compendium/src/5e/phb
+- spell/class/warlock
+- spell/level/1
+- spell/school/enchantment
+aliases: ["Hex"]
 ---
 # Hex
 %%-- Embedded content starts on the next line. --%%

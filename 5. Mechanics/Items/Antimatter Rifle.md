@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/property/ammunition/firearm
-  - item/property/martial
-  - item/property/reload
-  - item/property/two-handed
-  - item/weapon/martial/ranged
-aliases:
-  - Antimatter Rifle
+- compendium/src/5e/dmg
+- item/property/ammunition/firearm
+- item/property/martial
+- item/property/reload
+- item/property/two-handed
+- item/weapon/martial/ranged
+aliases: 
+- "Antimatter Rifle"
 ---
 # Antimatter Rifle
 *Ranged Weapon*  

@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/phb
-  - item/gear/artisans-tools
-aliases:
-  - Mason's Tools
+- compendium/src/5e/phb
+- item/gear/artisans-tools
+aliases: 
+- "Mason's Tools"
 cost: 1000
 ---
 # Mason's Tools

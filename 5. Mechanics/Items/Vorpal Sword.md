@@ -2,17 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/attunement/required
-  - item/rarity/legendary
-  - item/tier/major
-  - item/wondrous/wondrous-item
-aliases:
-  - Vorpal Sword
-  - Vorpal Longsword
-  - Vorpal Double-Bladed Scimitar
-  - Vorpal Greatsword
-  - Vorpal Scimitar
+- compendium/src/5e/dmg
+- item/attunement/required
+- item/rarity/legendary
+- item/tier/major
+- item/wondrous/wondrous-item
+aliases: 
+- "Vorpal Sword"
+- "Vorpal Longsword"
+- "Vorpal Double-Bladed Scimitar"
+- "Vorpal Greatsword"
+- "Vorpal Scimitar"
 ---
 # Vorpal Sword
 *Generic Variant, major, legendary (requires attunement)*  

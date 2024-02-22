@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/8
-  - monster/environment/forest
-  - monster/size/large
-  - monster/type/dragon
+- compendium/src/5e/mm
+- monster/cr/8
+- monster/environment/forest
+- monster/size/large
+- monster/type/dragon
 statblock: inline
-aliases:
-  - Young Green Dragon
+aliases: ["Young Green Dragon"]
 ---
 # [[5. Mechanics\Bestiary\Dragon\Young Green Dragon.md|Young Green Dragon]]
 *Source: Monster Manual p. 94. Available in the SRD and the Basic Rules.*  

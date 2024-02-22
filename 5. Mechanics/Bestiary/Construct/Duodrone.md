@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-4
-  - monster/size/medium
-  - monster/type/construct
+- compendium/src/5e/mm
+- monster/cr/1-4
+- monster/size/medium
+- monster/type/construct
 statblock: inline
-aliases:
-  - Duodrone
+aliases: ["Duodrone"]
 ---
 # [[5. Mechanics\Bestiary\Construct\Duodrone.md|Duodrone]]
 *Source: Monster Manual p. 225*  

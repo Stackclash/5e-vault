@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1
-  - monster/environment/underdark
-  - monster/size/medium
-  - monster/type/humanoid/dwarf
+- compendium/src/5e/mm
+- monster/cr/1
+- monster/environment/underdark
+- monster/size/medium
+- monster/type/humanoid/dwarf
 statblock: inline
-aliases:
-  - Duergar
+aliases: ["Duergar"]
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Duergar.md|Duergar]]
 *Source: Monster Manual p. 122. Available in the SRD.*  

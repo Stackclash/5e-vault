@@ -8,14 +8,14 @@ aliases: ["Magic Item Table G"]
 # Magic Item Table G
 *Source: Dungeon Master's Guide p. 144* 
 
-`dice: [[Magic Item Table G.md#^magic-item-table-g]]`
-
 **Magic Item Table G**
+
+`dice: [[Magic Item Table G.md#^magic-item-table-g]]`
 
 | dice: d100 | Magic Item |
 |------------|------------|
 | 01-11 | [+2 weapon](compendium/items/2-weapon.md) |
-| 12-14 | **Figurine of Wondrous Power**<br /><br />| dice: d8 | Magic Item |<br />|----------|------------|<br />| 01 | [[5. Mechanics/Items/Figurine Of Wondrous Power Bronze Griffon.md\|Figurine of wondrous power, bronze griffon]] |<br />| 02 | [[5. Mechanics/Items/Figurine Of Wondrous Power Ebony Fly.md\|Figurine of wondrous power, ebony fly]] |<br />| 03 | [[5. Mechanics/Items/Figurine Of Wondrous Power Golden Lions.md\|Figurine of wondrous power, golden lions]] |<br />| 04 | [[5. Mechanics/Items/Figurine Of Wondrous Power Ivory Goats.md\|Figurine of wondrous power, ivory goats]] |<br />| 05 | [[5. Mechanics/Items/Figurine Of Wondrous Power Marble Elephant.md\|Figurine of wondrous power, marble elephant]] |<br />| 06-07 | [[5. Mechanics/Items/Figurine Of Wondrous Power Onyx Dog.md\|Figurine of wondrous power, onyx dog]] |<br />| 08 | [[5. Mechanics/Items/Figurine Of Wondrous Power Serpentine Owl.md\|Figurine of wondrous power, serpentine owl]] |<br />^figurine-of-wondrous-power |
+| 12-14 | **Figurine of Wondrous Power**<br /><br />`dice: [[Magic Item Table G.md#^figurine-of-wondrous-power]]`<br /><br />| dice: d8 | Magic Item |<br />|----------|------------|<br />| 01 | [[5. Mechanics/Items/Figurine Of Wondrous Power Bronze Griffon.md\|Figurine of wondrous power, bronze griffon]] |<br />| 02 | [[5. Mechanics/Items/Figurine Of Wondrous Power Ebony Fly.md\|Figurine of wondrous power, ebony fly]] |<br />| 03 | [[5. Mechanics/Items/Figurine Of Wondrous Power Golden Lions.md\|Figurine of wondrous power, golden lions]] |<br />| 04 | [[5. Mechanics/Items/Figurine Of Wondrous Power Ivory Goats.md\|Figurine of wondrous power, ivory goats]] |<br />| 05 | [[5. Mechanics/Items/Figurine Of Wondrous Power Marble Elephant.md\|Figurine of wondrous power, marble elephant]] |<br />| 06-07 | [[5. Mechanics/Items/Figurine Of Wondrous Power Onyx Dog.md\|Figurine of wondrous power, onyx dog]] |<br />| 08 | [[5. Mechanics/Items/Figurine Of Wondrous Power Serpentine Owl.md\|Figurine of wondrous power, serpentine owl]] |<br />^figurine-of-wondrous-power |
 | 15 | [[5. Mechanics/Items/Adamantine Armor.md\|Adamantine breastplate]] |
 | 16 | [[5. Mechanics/Items/Adamantine Armor.md\|Adamantine splint armor]] |
 | 17 | [[5. Mechanics/Items/Amulet Of Health.md\|Amulet of health]] |

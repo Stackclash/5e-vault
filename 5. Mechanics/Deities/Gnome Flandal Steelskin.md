@@ -2,12 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/mtf
-  - deity/gnome
-  - domain/forge
-  - domain/knowledge
-aliases:
-  - Flandal Steelskin
+- compendium/src/5e/mtf
+- deity/gnome
+- domain/forge
+- domain/knowledge
+aliases: ["Flandal Steelskin"]
 ---
 # Flandal Steelskin
 *Source: Mordenkainen's Tome of Foes p. 111* 

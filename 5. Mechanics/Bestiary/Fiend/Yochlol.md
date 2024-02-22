@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/10
-  - monster/size/medium
-  - monster/type/fiend/demon
-  - monster/type/fiend/shapechanger
+- compendium/src/5e/mm
+- monster/cr/10
+- monster/size/medium
+- monster/type/fiend/demon
+- monster/type/fiend/shapechanger
 statblock: inline
-aliases:
-  - Yochlol
+aliases: ["Yochlol"]
 ---
 # [[5. Mechanics\Bestiary\Fiend\Yochlol.md|Yochlol]]
 *Source: Monster Manual p. 65*  

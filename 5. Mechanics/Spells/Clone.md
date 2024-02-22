@@ -2,12 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/wizard
-  - spell/level/8
-  - spell/school/necromancy
-aliases:
-  - Clone
+- compendium/src/5e/phb
+- spell/class/wizard
+- spell/level/8
+- spell/school/necromancy
+aliases: ["Clone"]
 ---
 # Clone
 %%-- Embedded content starts on the next line. --%%

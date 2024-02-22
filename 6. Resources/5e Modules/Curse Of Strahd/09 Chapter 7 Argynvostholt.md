@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/cos
-aliases: ["Chapter 7: Argynvostholt"]
+  - compendium/src/5e/cos
+aliases:
+  - 'Chapter 7: Argynvostholt'
 ---
 # Chapter 7: Argynvostholt
 *Source: Curse of Strahd, p. 129* 

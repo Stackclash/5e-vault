@@ -2,20 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-2
-  - monster/environment/desert
-  - monster/environment/forest
-  - monster/environment/grassland
-  - monster/environment/hill
-  - monster/environment/swamp
-  - monster/environment/underdark
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/beast
+- compendium/src/5e/mm
+- monster/cr/1-2
+- monster/environment/desert
+- monster/environment/forest
+- monster/environment/grassland
+- monster/environment/hill
+- monster/environment/swamp
+- monster/environment/underdark
+- monster/environment/urban
+- monster/size/medium
+- monster/type/beast
 statblock: inline
-aliases:
-  - Swarm of Insects
+aliases: ["Swarm of Insects"]
 ---
 # [[5. Mechanics\Bestiary\Beast\Swarm Of Insects.md|Swarm of Insects]]
 *Source: Monster Manual p. 338, Curse of Strahd. Available in the SRD and the Basic Rules.*  

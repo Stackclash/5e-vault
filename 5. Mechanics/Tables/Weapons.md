@@ -8,8 +8,6 @@ aliases: ["Weapons"]
 # Weapons
 *Source: Player's Handbook p. 146. Available in the SRD and the Basic Rules.* 
 
-`dice: [[Weapons.md#^weapons]]`
-
 **Weapons**
 
 | Name | Cost | Damage | Weight | Properties |

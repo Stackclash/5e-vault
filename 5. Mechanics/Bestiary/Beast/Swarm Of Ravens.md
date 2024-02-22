@@ -2,17 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-4
-  - monster/environment/forest
-  - monster/environment/hill
-  - monster/environment/swamp
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/beast
+- compendium/src/5e/mm
+- monster/cr/1-4
+- monster/environment/forest
+- monster/environment/hill
+- monster/environment/swamp
+- monster/environment/urban
+- monster/size/medium
+- monster/type/beast
 statblock: inline
-aliases:
-  - Swarm of Ravens
+aliases: ["Swarm of Ravens"]
 ---
 # [[5. Mechanics\Bestiary\Beast\Swarm Of Ravens.md|Swarm of Ravens]]
 *Source: Monster Manual p. 339, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  

@@ -8,8 +8,6 @@ aliases: ["Figuring Out Alien Technology"]
 # Figuring Out Alien Technology
 *Source: Dungeon Master's Guide p. 268* 
 
-`dice: [[Figuring Out Alien Technology.md#^figuring-out-alien-technology]]`
-
 **Figuring Out Alien Technology**
 
 | Int. Check Total | Result |

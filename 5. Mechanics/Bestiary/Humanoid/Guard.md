@@ -2,20 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-8
-  - monster/environment/coastal
-  - monster/environment/desert
-  - monster/environment/forest
-  - monster/environment/grassland
-  - monster/environment/hill
-  - monster/environment/mountain
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/humanoid/any-race
+- compendium/src/5e/mm
+- monster/cr/1-8
+- monster/environment/coastal
+- monster/environment/desert
+- monster/environment/forest
+- monster/environment/grassland
+- monster/environment/hill
+- monster/environment/mountain
+- monster/environment/urban
+- monster/size/medium
+- monster/type/humanoid/any-race
 statblock: inline
-aliases:
-  - Guard
+aliases: ["Guard"]
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Guard.md|Guard]]
 *Source: Monster Manual p. 347, Curse of Strahd, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  

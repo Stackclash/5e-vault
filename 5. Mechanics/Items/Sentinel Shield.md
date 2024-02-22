@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/armor/shield
-  - item/rarity/uncommon
-  - item/tier/major
-aliases:
-  - Sentinel Shield
+- compendium/src/5e/dmg
+- item/armor/shield
+- item/rarity/uncommon
+- item/tier/major
+aliases: 
+- "Sentinel Shield"
 ---
 # Sentinel Shield
 *Shield, major, uncommon*  

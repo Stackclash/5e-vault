@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/rarity/uncommon
-  - item/tier/major
-  - item/wondrous/wondrous-item
-aliases:
-  - +1 Weapon (no damage)
-  - +1 Net
+- compendium/src/5e/dmg
+- item/rarity/uncommon
+- item/tier/major
+- item/wondrous/wondrous-item
+aliases: 
+- "+1 Weapon (no damage)"
+- "+1 Net"
 ---
 # +1 Weapon (no damage)
 *Generic Variant, major, uncommon*  

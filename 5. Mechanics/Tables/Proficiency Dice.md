@@ -8,8 +8,6 @@ aliases: ["Proficiency Dice"]
 # Proficiency Dice
 *Source: Dungeon Master's Guide p. 263* 
 
-`dice: [[Proficiency Dice.md#^proficiency-dice]]`
-
 **Proficiency Dice**
 
 | Level | Proficiency Bonus | Proficiency Die |

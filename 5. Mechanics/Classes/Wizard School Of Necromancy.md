@@ -2,10 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/phb
-  - subclass/wizard/necromancy
-aliases:
-  - School of Necromancy
+- compendium/src/5e/phb
+- subclass/wizard/necromancy
+aliases: ["School of Necromancy"]
 ---
 # School of Necromancy
 *[[Wizard.md\|Wizard]]: Arcane Tradition*  

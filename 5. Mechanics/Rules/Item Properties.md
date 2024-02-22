@@ -1,8 +1,7 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-note
-aliases:
-  - Item Properties
+aliases: ["Item Properties"]
 ---
 # Item Properties
 

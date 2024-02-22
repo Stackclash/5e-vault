@@ -2,17 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/cleric
-  - spell/class/cleric/life-domain
-  - spell/class/cleric/light-domain
-  - spell/class/paladin/oath-of-devotion
-  - spell/class/sorcerer/divine-soul
-  - spell/class/warlock/the-celestial
-  - spell/level/4
-  - spell/school/conjuration
-aliases:
-  - Guardian of Faith
+- compendium/src/5e/phb
+- spell/class/cleric
+- spell/class/cleric/life-domain
+- spell/class/cleric/light-domain
+- spell/class/paladin/oath-of-devotion
+- spell/class/sorcerer/divine-soul
+- spell/class/warlock/the-celestial
+- spell/level/4
+- spell/school/conjuration
+aliases: ["Guardian of Faith"]
 ---
 # Guardian of Faith
 %%-- Embedded content starts on the next line. --%%

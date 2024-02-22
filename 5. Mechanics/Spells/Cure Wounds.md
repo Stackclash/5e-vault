@@ -2,21 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/cleric/life-domain
-  - spell/class/druid
-  - spell/class/druid/circle-of-wildfire
-  - spell/class/paladin
-  - spell/class/ranger
-  - spell/class/sorcerer/divine-soul
-  - spell/class/warlock/the-celestial
-  - spell/level/1
-  - spell/school/evocation
-aliases:
-  - Cure Wounds
+- compendium/src/5e/phb
+- spell/class/artificer
+- spell/class/bard
+- spell/class/cleric
+- spell/class/cleric/life-domain
+- spell/class/druid
+- spell/class/druid/circle-of-wildfire
+- spell/class/paladin
+- spell/class/ranger
+- spell/class/sorcerer/divine-soul
+- spell/class/warlock/the-celestial
+- spell/level/1
+- spell/school/evocation
+aliases: ["Cure Wounds"]
 ---
 # Cure Wounds
 %%-- Embedded content starts on the next line. --%%

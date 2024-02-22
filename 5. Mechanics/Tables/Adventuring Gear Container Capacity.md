@@ -8,8 +8,6 @@ aliases: ["Adventuring Gear; Container Capacity"]
 # Adventuring Gear; Container Capacity
 *Source: Player's Handbook p. 148. Available in the SRD and the Basic Rules.* 
 
-`dice: [[Adventuring Gear Container Capacity.md#^table]]`
-
 **Container Capacity**
 
 | Container | Capacity |
@@ -30,4 +28,3 @@ aliases: ["Adventuring Gear; Container Capacity"]
 ^container-capacity
 
 * You can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack.
-^table

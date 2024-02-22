@@ -2,17 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/sorcerer
-  - spell/class/sorcerer/divine-soul
-  - spell/class/warlock
-  - spell/class/wizard
-  - spell/level/7
-  - spell/school/transmutation
-aliases:
-  - Etherealness
+- compendium/src/5e/phb
+- spell/class/bard
+- spell/class/cleric
+- spell/class/sorcerer
+- spell/class/sorcerer/divine-soul
+- spell/class/warlock
+- spell/class/wizard
+- spell/level/7
+- spell/school/transmutation
+aliases: ["Etherealness"]
 ---
 # Etherealness
 %%-- Embedded content starts on the next line. --%%

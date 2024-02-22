@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-8
-  - monster/environment/forest
-  - monster/size/small
-  - monster/type/plant
+- compendium/src/5e/mm
+- monster/cr/1-8
+- monster/environment/forest
+- monster/size/small
+- monster/type/plant
 statblock: inline
-aliases:
-  - Twig Blight
+aliases: ["Twig Blight"]
 ---
 # [[5. Mechanics\Bestiary\Plant\Twig Blight.md|Twig Blight]]
 *Source: Monster Manual p. 32, Curse of Strahd. Available in the Basic Rules.*  

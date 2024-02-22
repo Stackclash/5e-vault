@@ -2,10 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/phb
-  - subclass/sorcerer/draconic
-aliases:
-  - Draconic Bloodline
+- compendium/src/5e/phb
+- subclass/sorcerer/draconic
+aliases: ["Draconic Bloodline"]
 ---
 # Draconic Bloodline
 *[[Sorcerer.md\|Sorcerer]]: Sorcerous Origin*  

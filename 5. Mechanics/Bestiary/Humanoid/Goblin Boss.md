@@ -2,17 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1
-  - monster/environment/forest
-  - monster/environment/grassland
-  - monster/environment/hill
-  - monster/environment/underdark
-  - monster/size/small
-  - monster/type/humanoid/goblinoid
+- compendium/src/5e/mm
+- monster/cr/1
+- monster/environment/forest
+- monster/environment/grassland
+- monster/environment/hill
+- monster/environment/underdark
+- monster/size/small
+- monster/type/humanoid/goblinoid
 statblock: inline
-aliases:
-  - Goblin Boss
+aliases: ["Goblin Boss"]
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Goblin Boss.md|Goblin Boss]]
 *Source: Monster Manual p. 166, Tasha's Cauldron of Everything*  

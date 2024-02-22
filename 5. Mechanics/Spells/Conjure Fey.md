@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/druid
-  - spell/class/warlock
-  - spell/level/6
-  - spell/school/conjuration
-aliases:
-  - Conjure Fey
+- compendium/src/5e/phb
+- spell/class/druid
+- spell/class/warlock
+- spell/level/6
+- spell/school/conjuration
+aliases: ["Conjure Fey"]
 ---
 # Conjure Fey
 %%-- Embedded content starts on the next line. --%%

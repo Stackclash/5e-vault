@@ -2,15 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/5
-  - monster/environment/coastal
-  - monster/environment/underwater
-  - monster/size/large
-  - monster/type/humanoid/sahuagin
+- compendium/src/5e/mm
+- monster/cr/5
+- monster/environment/coastal
+- monster/environment/underwater
+- monster/size/large
+- monster/type/humanoid/sahuagin
 statblock: inline
-aliases:
-  - Sahuagin Baron
+aliases: ["Sahuagin Baron"]
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Sahuagin Baron.md|Sahuagin Baron]]
 *Source: Monster Manual p. 264*  

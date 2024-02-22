@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/13
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/fiend
+- compendium/src/5e/mm
+- monster/cr/13
+- monster/environment/urban
+- monster/size/medium
+- monster/type/fiend
 statblock: inline
-aliases:
-  - Rakshasa
+aliases: ["Rakshasa"]
 ---
 # [[5. Mechanics\Bestiary\Fiend\Rakshasa.md|Rakshasa]]
 *Source: Monster Manual p. 257, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD.*  

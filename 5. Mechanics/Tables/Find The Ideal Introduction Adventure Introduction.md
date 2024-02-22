@@ -8,9 +8,9 @@ aliases: ["Find the Ideal Introduction; Adventure Introduction"]
 # Find the Ideal Introduction; Adventure Introduction
 *Source: Dungeon Master's Guide p. 74* 
 
-`dice: [[Find The Ideal Introduction Adventure Introduction.md#^adventure-introduction]]`
-
 **Adventure Introduction**
+
+`dice: [[Find The Ideal Introduction Adventure Introduction.md#^adventure-introduction]]`
 
 | dice: d12 | Introduction |
 |-----------|--------------|

@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/phb
-  - item/gear/gaming-set
-aliases:
-  - Gaming Set
+- compendium/src/5e/phb
+- item/gear/gaming-set
+aliases: 
+- "Gaming Set"
 ---
 # Gaming Set
 *Gaming Set*  

@@ -2,11 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/phb
-  - domain/nature
-  - subclass/cleric/nature
-aliases:
-  - Nature Domain
+- compendium/src/5e/phb
+- domain/nature
+- subclass/cleric/nature
+aliases: ["Nature Domain"]
 ---
 # Nature Domain
 *[[Cleric.md\|Cleric]]: Divine Domain*  

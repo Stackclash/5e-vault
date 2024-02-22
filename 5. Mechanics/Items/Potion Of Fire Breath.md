@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/rarity/uncommon
-  - item/tier/minor
-  - item/wondrous/potion
-aliases:
-  - Potion of Fire Breath
+- compendium/src/5e/dmg
+- item/rarity/uncommon
+- item/tier/minor
+- item/wondrous/potion
+aliases: 
+- "Potion of Fire Breath"
 ---
 # Potion of Fire Breath
 *Potion, minor, uncommon*  

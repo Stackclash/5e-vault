@@ -2,10 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/mm
-  - monster/legendary-group
-aliases:
-  - Silver Dragon
+- compendium/src/5e/mm
+- monster/legendary-group
+aliases: ["Silver Dragon"]
 ---
 # Silver Dragon
 

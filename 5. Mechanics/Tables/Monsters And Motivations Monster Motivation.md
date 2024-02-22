@@ -8,9 +8,9 @@ aliases: ["Monsters and Motivations; Monster Motivation"]
 # Monsters and Motivations; Monster Motivation
 *Source: Dungeon Master's Guide p. 296* 
 
-`dice: [[Monsters And Motivations Monster Motivation.md#^monster-motivation]]`
-
 **Monster Motivation**
+
+`dice: [[Monsters And Motivations Monster Motivation.md#^monster-motivation]]`
 
 | dice: d20 | Goals |
 |-----------|-------|

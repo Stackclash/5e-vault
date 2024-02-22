@@ -2,10 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - class/wizard
-  - compendium/src/5e/phb
-aliases:
-  - Wizard
+- class/wizard
+- compendium/src/5e/phb
+aliases: ["Wizard"]
 ---
 # Wizard
 *Source: Player's Handbook p. 112. Available in the SRD and the Basic Rules.*  

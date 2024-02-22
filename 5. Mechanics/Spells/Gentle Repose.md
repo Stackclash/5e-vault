@@ -2,19 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/cleric
-  - spell/class/cleric/grave-domain
-  - spell/class/druid/circle-of-spores
-  - spell/class/fighter/eldritch-knight
-  - spell/class/rogue/arcane-trickster
-  - spell/class/sorcerer/divine-soul
-  - spell/class/wizard
-  - spell/level/2
-  - spell/ritual
-  - spell/school/necromancy
-aliases:
-  - Gentle Repose
+- compendium/src/5e/phb
+- spell/class/cleric
+- spell/class/cleric/grave-domain
+- spell/class/druid/circle-of-spores
+- spell/class/fighter/eldritch-knight
+- spell/class/rogue/arcane-trickster
+- spell/class/sorcerer/divine-soul
+- spell/class/wizard
+- spell/level/2
+- spell/ritual
+- spell/school/necromancy
+aliases: ["Gentle Repose"]
 ---
 # Gentle Repose
 %%-- Embedded content starts on the next line. --%%

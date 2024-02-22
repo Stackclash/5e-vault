@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/cos
-aliases: ["Chapter 1: Into the Mists"]
+  - compendium/src/5e/cos
+aliases:
+  - 'Chapter 1: Into the Mists'
 ---
 # Chapter 1: Into the Mists
 *Source: Curse of Strahd, p. 9* 

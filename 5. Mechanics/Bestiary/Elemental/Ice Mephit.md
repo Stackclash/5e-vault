@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-2
-  - monster/environment/arctic
-  - monster/size/small
-  - monster/type/elemental
+- compendium/src/5e/mm
+- monster/cr/1-2
+- monster/environment/arctic
+- monster/size/small
+- monster/type/elemental
 statblock: inline
-aliases:
-  - Ice Mephit
+aliases: ["Ice Mephit"]
 ---
 # [[5. Mechanics\Bestiary\Elemental\Ice Mephit.md|Ice Mephit]]
 *Source: Monster Manual p. 215. Available in the SRD.*  

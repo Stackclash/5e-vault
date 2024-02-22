@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/phb
-aliases:
-  - 'Downtime Activity: Practicing a Profession'
+- compendium/src/5e/phb
+aliases: ["Downtime Activity: Practicing a Profession"]
 ---
 # Downtime Activity: Practicing a Profession
 *Source: Player's Handbook p. 187* 

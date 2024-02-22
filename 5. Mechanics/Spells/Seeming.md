@@ -14,6 +14,7 @@ tags:
 aliases: ["Seeming"]
 ---
 # Seeming
+%%-- Embedded content starts on the next line. --%%
 *5th-level, Illusion*  
 
 - **Casting time:** 1 action
@@ -29,6 +30,6 @@ The changes wrought by this spell fail to hold up to physical inspection. For ex
 
 A creature can use its action to inspect a target and make an Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check against your spell save DC. If it succeeds, it becomes aware that the target is disguised.
 
-**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Ranger Gloom Stalker (XGE).md\|Ranger (Gloom Stalker)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock The Archfey.md\|Warlock (The Archfey)]], [[5. Mechanics/Classes/Warlock The Genie (TCE).md\|Warlock (The Genie)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Ranger Gloom Stalker.md\|Ranger (Gloom Stalker)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock The Archfey.md\|Warlock (The Archfey)]], [[5. Mechanics/Classes/Warlock The Genie.md\|Warlock (The Genie)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 274. Available in the SRD.*

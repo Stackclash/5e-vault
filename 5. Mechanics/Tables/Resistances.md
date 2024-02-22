@@ -8,8 +8,6 @@ aliases: ["Resistances"]
 # Resistances
 *Source: Monster Manual p. 180* 
 
-`dice: [[Resistances.md#^color-damage-resistance]]`
-
 | Color | Damage Resistance |
 |-------|-------------------|
 | Black or copper | Acid |

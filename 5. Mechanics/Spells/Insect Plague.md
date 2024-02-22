@@ -2,19 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/cleric
-  - spell/class/cleric/nature-domain
-  - spell/class/cleric/tempest-domain
-  - spell/class/druid
-  - spell/class/druid/circle-of-the-land
-  - spell/class/ranger/swarmkeeper
-  - spell/class/sorcerer
-  - spell/class/sorcerer/divine-soul
-  - spell/level/5
-  - spell/school/conjuration
-aliases:
-  - Insect Plague
+- compendium/src/5e/phb
+- spell/class/cleric
+- spell/class/cleric/nature-domain
+- spell/class/cleric/tempest-domain
+- spell/class/druid
+- spell/class/druid/circle-of-the-land
+- spell/class/ranger/swarmkeeper
+- spell/class/sorcerer
+- spell/class/sorcerer/divine-soul
+- spell/level/5
+- spell/school/conjuration
+aliases: ["Insect Plague"]
 ---
 # Insect Plague
 %%-- Embedded content starts on the next line. --%%

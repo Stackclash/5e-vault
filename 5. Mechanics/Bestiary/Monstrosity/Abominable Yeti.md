@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/9
-  - monster/environment/arctic
-  - monster/size/huge
-  - monster/type/monstrosity
+- compendium/src/5e/mm
+- monster/cr/9
+- monster/environment/arctic
+- monster/size/huge
+- monster/type/monstrosity
 statblock: inline
-aliases:
-  - Abominable Yeti
+aliases: ["Abominable Yeti"]
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Abominable Yeti.md|Abominable Yeti]]
 *Source: Monster Manual p. 306*  

@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-deck
 tags:
-  - compendium/src/5e/dmg
-aliases:
-  - Deck of Illusions
+- compendium/src/5e/dmg
+aliases: ["Deck of Illusions"]
 ---
 # Deck of Illusions
 *Source: Dungeon Master's Guide p. 161. Available in the SRD.*  

@@ -2,21 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/3
-  - monster/environment/arctic
-  - monster/environment/coastal
-  - monster/environment/forest
-  - monster/environment/grassland
-  - monster/environment/hill
-  - monster/environment/mountain
-  - monster/environment/underdark
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/humanoid/any-race
+- compendium/src/5e/mm
+- monster/cr/3
+- monster/environment/arctic
+- monster/environment/coastal
+- monster/environment/forest
+- monster/environment/grassland
+- monster/environment/hill
+- monster/environment/mountain
+- monster/environment/underdark
+- monster/environment/urban
+- monster/size/medium
+- monster/type/humanoid/any-race
 statblock: inline
-aliases:
-  - Veteran
+aliases: ["Veteran"]
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Veteran.md|Veteran]]
 *Source: Monster Manual p. 350, Curse of Strahd, Eberron: Rising from the Last War. Available in the SRD.*  

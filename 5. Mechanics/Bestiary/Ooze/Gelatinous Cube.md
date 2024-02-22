@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/2
-  - monster/environment/underdark
-  - monster/size/large
-  - monster/type/ooze
+- compendium/src/5e/mm
+- monster/cr/2
+- monster/environment/underdark
+- monster/size/large
+- monster/type/ooze
 statblock: inline
-aliases:
-  - Gelatinous Cube
+aliases: ["Gelatinous Cube"]
 ---
 # [[5. Mechanics\Bestiary\Ooze\Gelatinous Cube.md|Gelatinous Cube]]
 *Source: Monster Manual p. 242, Eberron: Rising from the Last War. Available in the SRD.*  

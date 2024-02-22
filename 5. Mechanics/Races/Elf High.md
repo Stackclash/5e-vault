@@ -2,10 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-  - compendium/src/5e/phb
-  - race/elf/high
-aliases:
-  - Elf (High)
+- compendium/src/5e/phb
+- race/elf/high
+aliases: ["Elf (High)"]
 ---
 # Elf (High)
 *Source: Player's Handbook p. 23. Available in the SRD and the Basic Rules.*  

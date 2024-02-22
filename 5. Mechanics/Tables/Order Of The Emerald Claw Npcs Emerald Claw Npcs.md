@@ -8,9 +8,9 @@ aliases: ["Order of the Emerald Claw NPCs; Emerald Claw NPCs"]
 # Order of the Emerald Claw NPCs; Emerald Claw NPCs
 *Source: Eberron: Rising from the Last War p. 226* 
 
-`dice: [[Order Of The Emerald Claw Npcs Emerald Claw Npcs (ERLW).md#^emerald-claw-npcs]]`
-
 **Emerald Claw NPCs**
+
+`dice: [[Order Of The Emerald Claw Npcs Emerald Claw Npcs.md#^emerald-claw-npcs]]`
 
 | dice: d6 | NPC |
 |----------|-----|

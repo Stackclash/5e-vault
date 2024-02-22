@@ -2,10 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - class/rogue
-  - compendium/src/5e/phb
-aliases:
-  - Rogue
+- class/rogue
+- compendium/src/5e/phb
+aliases: ["Rogue"]
 ---
 # Rogue
 *Source: Player's Handbook p. 94. Available in the SRD and the Basic Rules.*  

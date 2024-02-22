@@ -8,8 +8,6 @@ aliases: ["Classes"]
 # Classes
 *Source: Player's Handbook p. 45. Available in the Basic Rules.* 
 
-`dice: [[Classes.md#^class-description-hit-die-primary-ability-saving-throw-proficiencies-armor-and-weapon-proficiencies]]`
-
 | Class | Description | Hit Die | Primary Ability | Saving Throw Proficiencies | Armor and Weapon Proficiencies |
 |-------|-------------|---------|-----------------|----------------------------|--------------------------------|
 | [[5. Mechanics/Classes/Barbarian.md\|Barbarian]] | A fierce warrior of primitive background who can enter a battle rage | d12 | Strength | Strength & Constitution | Light and medium armor, shields, simple and martial weapons |

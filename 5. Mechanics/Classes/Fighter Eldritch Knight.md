@@ -2,10 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/phb
-  - subclass/fighter/eldritch-knight
-aliases:
-  - Eldritch Knight
+- compendium/src/5e/phb
+- subclass/fighter/eldritch-knight
+aliases: ["Eldritch Knight"]
 ---
 # Eldritch Knight
 *[[Fighter.md\|Fighter]]: Martial Archetype*  

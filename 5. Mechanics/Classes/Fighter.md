@@ -2,10 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - class/fighter
-  - compendium/src/5e/phb
-aliases:
-  - Fighter
+- class/fighter
+- compendium/src/5e/phb
+aliases: ["Fighter"]
 ---
 # Fighter
 *Source: Player's Handbook p. 70. Available in the SRD and the Basic Rules.*  

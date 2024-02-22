@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/0
-  - monster/environment/underdark
-  - monster/size/small
-  - monster/type/beast
+- compendium/src/5e/mm
+- monster/cr/0
+- monster/environment/underdark
+- monster/size/small
+- monster/type/beast
 statblock: inline
-aliases:
-  - Giant Fire Beetle
+aliases: ["Giant Fire Beetle"]
 ---
 # [[5. Mechanics\Bestiary\Beast\Giant Fire Beetle.md|Giant Fire Beetle]]
 *Source: Monster Manual p. 325. Available in the SRD and the Basic Rules.*  

@@ -2,20 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/cleric
-  - spell/class/druid
-  - spell/class/fighter/eldritch-knight
-  - spell/class/paladin
-  - spell/class/ranger
-  - spell/class/rogue/arcane-trickster
-  - spell/class/sorcerer/divine-soul
-  - spell/class/wizard
-  - spell/level/2
-  - spell/school/divination
-aliases:
-  - Locate Object
+- compendium/src/5e/phb
+- spell/class/bard
+- spell/class/cleric
+- spell/class/druid
+- spell/class/fighter/eldritch-knight
+- spell/class/paladin
+- spell/class/ranger
+- spell/class/rogue/arcane-trickster
+- spell/class/sorcerer/divine-soul
+- spell/class/wizard
+- spell/level/2
+- spell/school/divination
+aliases: ["Locate Object"]
 ---
 # Locate Object
 %%-- Embedded content starts on the next line. --%%

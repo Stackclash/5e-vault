@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/attunement/required
-  - item/rarity/rare
-  - item/tier/major
-  - item/wondrous
-aliases:
-  - Helm of Teleportation
+- compendium/src/5e/dmg
+- item/attunement/required
+- item/rarity/rare
+- item/tier/major
+- item/wondrous
+aliases: 
+- "Helm of Teleportation"
 ---
 # Helm of Teleportation
 *Wondrous Item, major, rare (requires attunement)*  

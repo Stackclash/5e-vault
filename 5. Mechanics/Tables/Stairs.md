@@ -8,9 +8,9 @@ aliases: ["Stairs"]
 # Stairs
 *Source: Dungeon Master's Guide p. 291* 
 
-`dice: [[Stairs.md#^stairs]]`
-
 **Stairs**
+
+`dice: [[Stairs.md#^stairs]]`
 
 | dice: d20 | Stairs |
 |-----------|--------|

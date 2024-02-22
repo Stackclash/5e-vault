@@ -2,63 +2,63 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/rarity/rare
-  - item/tier/major
-  - item/wondrous/wondrous-item
-aliases:
-  - Vicious Weapon
-  - Vicious Heavy Crossbow
-  - Vicious Longsword
-  - Vicious Hunting Rifle
-  - Vicious Automatic Rifle
-  - Vicious Halberd
-  - Vicious Pistol
-  - Vicious Hooked Shortspear
-  - Vicious Light Hammer
-  - Vicious Battleaxe
-  - Vicious Pike
-  - Vicious Laser Pistol
-  - Vicious Flail
-  - Vicious Musket
-  - Vicious Greatclub
-  - Vicious Yklwa
-  - Vicious Sling
-  - Vicious Greataxe
-  - Vicious Light Crossbow
-  - Vicious Warhammer
-  - Vicious Morningstar
-  - Vicious Double-Bladed Scimitar
-  - Vicious Shotgun
-  - Vicious Glaive
-  - Vicious Dagger
-  - Vicious Longbow
-  - Vicious Shortbow
-  - Vicious Handaxe
-  - Vicious Whip
-  - Vicious Trident
-  - Vicious Quarterstaff
-  - Vicious Spear
-  - Vicious Hand Crossbow
-  - Vicious Automatic Pistol
-  - Vicious Greatsword
-  - Vicious Laser Rifle
-  - Vicious Antimatter Rifle
-  - Vicious Club
-  - Vicious Rapier
-  - Vicious Maul
-  - Vicious Javelin
-  - Vicious War Pick
-  - Vicious Shortsword
-  - Vicious Revolver
-  - Vicious Sickle
-  - Vicious Blowgun
-  - Vicious Hoopak
-  - Vicious Mace
-  - Vicious Lance
-  - Vicious Dart
-  - Vicious Light Repeating Crossbow
-  - Vicious Scimitar
+- compendium/src/5e/dmg
+- item/rarity/rare
+- item/tier/major
+- item/wondrous/wondrous-item
+aliases: 
+- "Vicious Weapon"
+- "Vicious Heavy Crossbow"
+- "Vicious Longsword"
+- "Vicious Hunting Rifle"
+- "Vicious Automatic Rifle"
+- "Vicious Halberd"
+- "Vicious Pistol"
+- "Vicious Hooked Shortspear"
+- "Vicious Light Hammer"
+- "Vicious Battleaxe"
+- "Vicious Pike"
+- "Vicious Laser Pistol"
+- "Vicious Flail"
+- "Vicious Musket"
+- "Vicious Greatclub"
+- "Vicious Yklwa"
+- "Vicious Sling"
+- "Vicious Greataxe"
+- "Vicious Light Crossbow"
+- "Vicious Warhammer"
+- "Vicious Morningstar"
+- "Vicious Double-Bladed Scimitar"
+- "Vicious Shotgun"
+- "Vicious Glaive"
+- "Vicious Dagger"
+- "Vicious Longbow"
+- "Vicious Shortbow"
+- "Vicious Handaxe"
+- "Vicious Whip"
+- "Vicious Trident"
+- "Vicious Quarterstaff"
+- "Vicious Spear"
+- "Vicious Hand Crossbow"
+- "Vicious Automatic Pistol"
+- "Vicious Greatsword"
+- "Vicious Laser Rifle"
+- "Vicious Antimatter Rifle"
+- "Vicious Club"
+- "Vicious Rapier"
+- "Vicious Maul"
+- "Vicious Javelin"
+- "Vicious War Pick"
+- "Vicious Shortsword"
+- "Vicious Revolver"
+- "Vicious Sickle"
+- "Vicious Blowgun"
+- "Vicious Hoopak"
+- "Vicious Mace"
+- "Vicious Lance"
+- "Vicious Dart"
+- "Vicious Light Repeating Crossbow"
+- "Vicious Scimitar"
 ---
 # Vicious Weapon
 *Generic Variant, major, rare*  

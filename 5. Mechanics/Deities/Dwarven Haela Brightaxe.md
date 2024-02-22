@@ -2,11 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/mtf
-  - deity/dwarven
-  - domain/war
-aliases:
-  - Haela Brightaxe
+- compendium/src/5e/mtf
+- deity/dwarven
+- domain/war
+aliases: ["Haela Brightaxe"]
 ---
 # Haela Brightaxe
 *Source: Mordenkainen's Tome of Foes p. 73* 

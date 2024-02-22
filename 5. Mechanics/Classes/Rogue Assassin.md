@@ -2,10 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/phb
-  - subclass/rogue/assassin
-aliases:
-  - Assassin
+- compendium/src/5e/phb
+- subclass/rogue/assassin
+aliases: ["Assassin"]
 ---
 # Assassin
 *[[Rogue.md\|Rogue]]: Roguish Archetype*  

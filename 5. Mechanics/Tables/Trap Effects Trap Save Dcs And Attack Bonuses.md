@@ -8,8 +8,6 @@ aliases: ["Trap Effects; Trap Save DCs and Attack Bonuses"]
 # Trap Effects; Trap Save DCs and Attack Bonuses
 *Source: Dungeon Master's Guide p. 121. Available in the SRD.* 
 
-`dice: [[Trap Effects Trap Save Dcs And Attack Bonuses.md#^trap-save-dcs-and-attack-bonuses]]`
-
 **Trap Save DCs and Attack Bonuses**
 
 | Trap Danger | Save DC | Attack Bonus |

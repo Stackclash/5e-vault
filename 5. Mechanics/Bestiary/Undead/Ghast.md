@@ -2,16 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/2
-  - monster/environment/swamp
-  - monster/environment/underdark
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/undead
+- compendium/src/5e/mm
+- monster/cr/2
+- monster/environment/swamp
+- monster/environment/underdark
+- monster/environment/urban
+- monster/size/medium
+- monster/type/undead
 statblock: inline
-aliases:
-  - Ghast
+aliases: ["Ghast"]
 ---
 # [[5. Mechanics\Bestiary\Undead\Ghast.md|Ghast]]
 *Source: Monster Manual p. 148, Curse of Strahd. Available in the SRD.*  

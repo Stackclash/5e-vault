@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/phb
-  - item/gear/tools
-aliases:
-  - Thieves' Tools
+- compendium/src/5e/phb
+- item/gear/tools
+aliases: 
+- "Thieves' Tools"
 cost: 2500
 ---
 # Thieves' Tools

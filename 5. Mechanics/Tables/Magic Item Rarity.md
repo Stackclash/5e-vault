@@ -8,8 +8,6 @@ aliases: ["Magic Item Rarity"]
 # Magic Item Rarity
 *Source: Dungeon Master's Guide p. 135* 
 
-`dice: [[Magic Item Rarity.md#^magic-item-rarity]]`
-
 **Magic Item Rarity**
 
 | Rarity | Character Level | Value |

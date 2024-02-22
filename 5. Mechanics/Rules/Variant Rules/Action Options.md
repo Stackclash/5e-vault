@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/dmg
-aliases:
-  - Action Options
+- compendium/src/5e/dmg
+aliases: ["Action Options"]
 ---
 # Action Options
 *Source: Dungeon Master's Guide p. 271* 

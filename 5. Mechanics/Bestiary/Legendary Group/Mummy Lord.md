@@ -2,10 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/mm
-  - monster/legendary-group
-aliases:
-  - Mummy Lord
+- compendium/src/5e/mm
+- monster/legendary-group
+aliases: ["Mummy Lord"]
 ---
 # Mummy Lord
 

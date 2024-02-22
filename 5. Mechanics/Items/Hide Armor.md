@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/phb
-  - item/armor/medium
-aliases:
-  - Hide Armor
+- compendium/src/5e/phb
+- item/armor/medium
+aliases: 
+- "Hide Armor"
 cost: 1000
 ---
 # Hide Armor

@@ -2,11 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/mtf
-  - deity/dwarven
-  - domain/trickery
-aliases:
-  - Abbathor
+- compendium/src/5e/mtf
+- deity/dwarven
+- domain/trickery
+aliases: ["Abbathor"]
 ---
 # Abbathor
 *Source: Mordenkainen's Tome of Foes p. 73* 

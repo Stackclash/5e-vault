@@ -2,10 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-  - compendium/src/5e/phb
-  - optional-feature/ei
-aliases:
-  - Voice of the Chain Master
+- compendium/src/5e/phb
+- optional-feature/ei
+aliases: ["Voice of the Chain Master"]
 ---
 # Voice of the Chain Master
 *Source: Player's Handbook p. 111. Available in the SRD.*  

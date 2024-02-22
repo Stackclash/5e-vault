@@ -8,9 +8,9 @@ aliases: ["Artifact Properties; Minor Beneficial Properties"]
 # Artifact Properties; Minor Beneficial Properties
 *Source: Dungeon Master's Guide p. 219* 
 
-`dice: [[Artifact Properties Minor Beneficial Properties.md#^minor-beneficial-properties]]`
-
 **Minor Beneficial Properties**
+
+`dice: [[Artifact Properties Minor Beneficial Properties.md#^minor-beneficial-properties]]`
 
 | dice: d100 | Property |
 |------------|----------|

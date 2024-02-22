@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/phb
-  - item/gear
-aliases:
-  - Miner's Pick
+- compendium/src/5e/phb
+- item/gear
+aliases: 
+- "Miner's Pick"
 cost: 200
 ---
 # Miner's Pick

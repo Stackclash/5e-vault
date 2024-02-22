@@ -2,15 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/11
-  - monster/environment/coastal
-  - monster/environment/underwater
-  - monster/size/large
-  - monster/type/elemental
+- compendium/src/5e/mm
+- monster/cr/11
+- monster/environment/coastal
+- monster/environment/underwater
+- monster/size/large
+- monster/type/elemental
 statblock: inline
-aliases:
-  - Marid
+aliases: ["Marid"]
 ---
 # [[5. Mechanics\Bestiary\Elemental\Marid.md|Marid]]
 *Source: Monster Manual p. 146, Tasha's Cauldron of Everything*  

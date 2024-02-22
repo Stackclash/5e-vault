@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/2
-  - monster/environment/grassland
-  - monster/size/large
-  - monster/type/beast
+- compendium/src/5e/mm
+- monster/cr/2
+- monster/environment/grassland
+- monster/size/large
+- monster/type/beast
 statblock: inline
-aliases:
-  - Allosaurus
+aliases: ["Allosaurus"]
 ---
 # [[5. Mechanics\Bestiary\Beast\Allosaurus.md|Allosaurus]]
 *Source: Monster Manual p. 79. Available in the Basic Rules.*  

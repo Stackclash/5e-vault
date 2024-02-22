@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/23
-  - monster/size/huge
-  - monster/type/celestial/titan
+- compendium/src/5e/mm
+- monster/cr/23
+- monster/size/huge
+- monster/type/celestial/titan
 statblock: inline
-aliases:
-  - Empyrean
+aliases: ["Empyrean"]
 ---
 # [[5. Mechanics\Bestiary\Celestial\Empyrean.md|Empyrean]]
 *Source: Monster Manual p. 130*  

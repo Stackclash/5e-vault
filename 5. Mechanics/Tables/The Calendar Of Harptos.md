@@ -8,8 +8,6 @@ aliases: ["The Calendar of Harptos"]
 # The Calendar of Harptos
 *Source: Dungeon Master's Guide p. 33* 
 
-`dice: [[The Calendar Of Harptos.md#^month-name-common-name]]`
-
 | Month | Name | Common Name |
 |-------|------|-------------|
 | 1 | Hammer | Deepwinter |

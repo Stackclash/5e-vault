@@ -2,23 +2,23 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/phb
-  - item/gear/tack-and-harness
-aliases:
-  - Barding
-  - Chain Mail Barding
-  - Chain Shirt Barding
-  - Plate Barding
-  - Spiked Barding
-  - Scale Mail Barding
-  - Hide Barding
-  - Splint Barding
-  - Leather Barding
-  - Half Plate Barding
-  - Padded Barding
-  - Ring Mail Barding
-  - Breastplate Barding
-  - Studded Leather Barding
+- compendium/src/5e/phb
+- item/gear/tack-and-harness
+aliases: 
+- "Barding"
+- "Chain Mail Barding"
+- "Chain Shirt Barding"
+- "Plate Barding"
+- "Spiked Barding"
+- "Scale Mail Barding"
+- "Hide Barding"
+- "Splint Barding"
+- "Leather Barding"
+- "Half Plate Barding"
+- "Padded Barding"
+- "Ring Mail Barding"
+- "Breastplate Barding"
+- "Studded Leather Barding"
 ---
 # Barding
 *Tack and Harness*  

@@ -2,15 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1
-  - monster/environment/forest
-  - monster/environment/grassland
-  - monster/size/large
-  - monster/type/beast
+- compendium/src/5e/mm
+- monster/cr/1
+- monster/environment/forest
+- monster/environment/grassland
+- monster/size/large
+- monster/type/beast
 statblock: inline
-aliases:
-  - Tiger
+aliases: ["Tiger"]
 ---
 # [[5. Mechanics\Bestiary\Beast\Tiger.md|Tiger]]
 *Source: Monster Manual p. 339. Available in the SRD and the Basic Rules.*  

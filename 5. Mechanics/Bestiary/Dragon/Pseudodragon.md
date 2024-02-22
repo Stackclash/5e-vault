@@ -2,19 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-4
-  - monster/environment/coastal
-  - monster/environment/desert
-  - monster/environment/forest
-  - monster/environment/hill
-  - monster/environment/mountain
-  - monster/environment/urban
-  - monster/size/tiny
-  - monster/type/dragon
+- compendium/src/5e/mm
+- monster/cr/1-4
+- monster/environment/coastal
+- monster/environment/desert
+- monster/environment/forest
+- monster/environment/hill
+- monster/environment/mountain
+- monster/environment/urban
+- monster/size/tiny
+- monster/type/dragon
 statblock: inline
-aliases:
-  - Pseudodragon
+aliases: ["Pseudodragon"]
 ---
 # [[5. Mechanics\Bestiary\Dragon\Pseudodragon.md|Pseudodragon]]
 *Source: Monster Manual p. 254, Eberron: Rising from the Last War. Available in the SRD.*  

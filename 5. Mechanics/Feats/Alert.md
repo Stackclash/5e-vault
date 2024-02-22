@@ -2,10 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-  - compendium/src/5e/phb
-  - feat
-aliases:
-  - Alert
+- compendium/src/5e/phb
+- feat
+aliases: ["Alert"]
 ---
 # Alert
 *Source: Player's Handbook p. 165*  

@@ -8,9 +8,9 @@ aliases: ["Dungeon Creator; NPC Class"]
 # Dungeon Creator; NPC Class
 *Source: Dungeon Master's Guide p. 99* 
 
-`dice: [[Dungeon Creator Npc Class.md#^npc-class]]`
-
 **NPC Class**
+
+`dice: [[Dungeon Creator Npc Class.md#^npc-class]]`
 
 | dice: d20 | Class |
 |-----------|-------|

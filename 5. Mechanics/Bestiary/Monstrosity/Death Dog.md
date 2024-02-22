@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1
-  - monster/environment/desert
-  - monster/size/medium
-  - monster/type/monstrosity
+- compendium/src/5e/mm
+- monster/cr/1
+- monster/environment/desert
+- monster/size/medium
+- monster/type/monstrosity
 statblock: inline
-aliases:
-  - Death Dog
+aliases: ["Death Dog"]
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Death Dog.md|Death Dog]]
 *Source: Monster Manual p. 321. Available in the SRD and the Basic Rules.*  

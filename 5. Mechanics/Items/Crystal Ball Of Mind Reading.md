@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/attunement/required
-  - item/rarity/legendary
-  - item/tier/major
-  - item/wondrous
-aliases:
-  - Crystal Ball of Mind Reading
+- compendium/src/5e/dmg
+- item/attunement/required
+- item/rarity/legendary
+- item/tier/major
+- item/wondrous
+aliases: 
+- "Crystal Ball of Mind Reading"
 ---
 # Crystal Ball of Mind Reading
 *Wondrous Item, major, legendary (requires attunement)*  

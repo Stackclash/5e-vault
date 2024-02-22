@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/phb
-  - item/gear
-aliases:
-  - Two-Person Tent
+- compendium/src/5e/phb
+- item/gear
+aliases: 
+- "Two-Person Tent"
 cost: 200
 ---
 # Two-Person Tent

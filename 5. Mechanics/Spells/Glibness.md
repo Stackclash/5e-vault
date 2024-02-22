@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/warlock
-  - spell/level/8
-  - spell/school/transmutation
-aliases:
-  - Glibness
+- compendium/src/5e/phb
+- spell/class/bard
+- spell/class/warlock
+- spell/level/8
+- spell/school/transmutation
+aliases: ["Glibness"]
 ---
 # Glibness
 %%-- Embedded content starts on the next line. --%%

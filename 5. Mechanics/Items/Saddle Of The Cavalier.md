@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/rarity/uncommon
-  - item/tier/minor
-  - item/wondrous
-aliases:
-  - Saddle of the Cavalier
+- compendium/src/5e/dmg
+- item/rarity/uncommon
+- item/tier/minor
+- item/wondrous
+aliases: 
+- "Saddle of the Cavalier"
 ---
 # Saddle of the Cavalier
 *Wondrous Item, minor, uncommon*  

@@ -2,19 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer
-  - spell/class/druid
-  - spell/class/fighter/eldritch-knight
-  - spell/class/monk/way-of-shadow
-  - spell/class/ranger
-  - spell/class/rogue/arcane-trickster
-  - spell/class/sorcerer
-  - spell/class/wizard
-  - spell/level/2
-  - spell/school/transmutation
-aliases:
-  - Darkvision
+- compendium/src/5e/phb
+- spell/class/artificer
+- spell/class/druid
+- spell/class/fighter/eldritch-knight
+- spell/class/monk/way-of-shadow
+- spell/class/ranger
+- spell/class/rogue/arcane-trickster
+- spell/class/sorcerer
+- spell/class/wizard
+- spell/level/2
+- spell/school/transmutation
+aliases: ["Darkvision"]
 ---
 # Darkvision
 %%-- Embedded content starts on the next line. --%%

@@ -2,15 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer
-  - spell/class/cleric/forge-domain
-  - spell/class/paladin
-  - spell/class/warlock/the-hexblade
-  - spell/level/3
-  - spell/school/transmutation
-aliases:
-  - Elemental Weapon
+- compendium/src/5e/phb
+- spell/class/artificer
+- spell/class/cleric/forge-domain
+- spell/class/paladin
+- spell/class/warlock/the-hexblade
+- spell/level/3
+- spell/school/transmutation
+aliases: ["Elemental Weapon"]
 ---
 # Elemental Weapon
 %%-- Embedded content starts on the next line. --%%

@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/3
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/humanoid/any-race
+- compendium/src/5e/mm
+- monster/cr/3
+- monster/environment/urban
+- monster/size/medium
+- monster/type/humanoid/any-race
 statblock: inline
-aliases:
-  - Knight
+aliases: ["Knight"]
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Knight.md|Knight]]
 *Source: Monster Manual p. 347, Curse of Strahd. Available in the SRD and the Basic Rules.*  

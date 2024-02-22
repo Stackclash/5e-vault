@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/rarity/rare
-  - item/tier/major
-  - item/wondrous
-aliases:
-  - 'Figurine of Wondrous Power, Ebony Fly'
+- compendium/src/5e/dmg
+- item/rarity/rare
+- item/tier/major
+- item/wondrous
+aliases: 
+- "Figurine of Wondrous Power, Ebony Fly"
 ---
 # Figurine of Wondrous Power, Ebony Fly
 *Wondrous Item, major, rare*  

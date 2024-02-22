@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/cos
-aliases: ["Chapter 15: Werewolf Den"]
+  - compendium/src/5e/cos
+aliases:
+  - 'Chapter 15: Werewolf Den'
 ---
 # Chapter 15: Werewolf Den
 *Source: Curse of Strahd, p. 201* 

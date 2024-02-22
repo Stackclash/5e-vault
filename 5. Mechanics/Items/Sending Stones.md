@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/rarity/uncommon
-  - item/tier/minor
-  - item/wondrous
-aliases:
-  - Sending Stones
+- compendium/src/5e/dmg
+- item/rarity/uncommon
+- item/tier/minor
+- item/wondrous
+aliases: 
+- "Sending Stones"
 ---
 # Sending Stones
 *Wondrous Item, minor, uncommon*  

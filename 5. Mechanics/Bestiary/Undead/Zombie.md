@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-4
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/undead
+- compendium/src/5e/mm
+- monster/cr/1-4
+- monster/environment/urban
+- monster/size/medium
+- monster/type/undead
 statblock: inline
-aliases:
-  - Zombie
+aliases: ["Zombie"]
 ---
 # [[5. Mechanics\Bestiary\Undead\Zombie.md|Zombie]]
 *Source: Monster Manual p. 316, Curse of Strahd, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  

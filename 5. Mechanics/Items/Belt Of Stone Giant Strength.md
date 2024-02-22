@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/attunement/required
-  - item/rarity/very-rare
-  - item/tier/major
-  - item/wondrous
-aliases:
-  - Belt of Stone Giant Strength
+- compendium/src/5e/dmg
+- item/attunement/required
+- item/rarity/very-rare
+- item/tier/major
+- item/wondrous
+aliases: 
+- "Belt of Stone Giant Strength"
 ---
 # Belt of Stone Giant Strength
 *Wondrous Item, major, very rare (requires attunement)*  

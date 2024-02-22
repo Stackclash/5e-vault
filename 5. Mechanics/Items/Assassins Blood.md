@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/gear/poison
-  - item/property/poison
-aliases:
-  - Assassin's Blood
+- compendium/src/5e/dmg
+- item/gear/poison
+- item/property/poison
+aliases: 
+- "Assassin's Blood"
 cost: 15000
 ---
 # Assassin's Blood

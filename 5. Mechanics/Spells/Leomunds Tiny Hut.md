@@ -2,17 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/cleric/twilight-domain
-  - spell/class/fighter/eldritch-knight
-  - spell/class/rogue/arcane-trickster
-  - spell/class/wizard
-  - spell/level/3
-  - spell/ritual
-  - spell/school/evocation
-aliases:
-  - Leomund's Tiny Hut
+- compendium/src/5e/phb
+- spell/class/bard
+- spell/class/cleric/twilight-domain
+- spell/class/fighter/eldritch-knight
+- spell/class/rogue/arcane-trickster
+- spell/class/wizard
+- spell/level/3
+- spell/ritual
+- spell/school/evocation
+aliases: ["Leomund's Tiny Hut"]
 ---
 # Leomund's Tiny Hut
 %%-- Embedded content starts on the next line. --%%

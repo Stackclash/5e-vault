@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/attunement/required
-  - item/gear/instrument
-  - item/rarity/varies
-aliases:
-  - Instrument of the Bards
+- compendium/src/5e/dmg
+- item/attunement/required
+- item/gear/instrument
+- item/rarity/varies
+aliases: 
+- "Instrument of the Bards"
 ---
 # Instrument of the Bards
 *Instrument, varies (requires attunement by a bard)*  

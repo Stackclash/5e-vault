@@ -8,12 +8,10 @@ aliases: ["Undersea Encounters"]
 # Undersea Encounters
 *Source: Dungeon Master's Guide p. 116* 
 
-`dice: [[Undersea Encounters.md#^undersea-encounters]]`
-
 **Undersea Encounters**
 
-| dice: d12 + d8 | Encounter |
-|----------------|-----------|
+| d12 + d8 | Encounter |
+|----------|-----------|
 | 2 | Sunken ship covered in barnacles (25% chance chance that the ship contains treasure—roll randomly on the treasure tables in chapter 7) |
 | 3 | Sunken ship with [[5. Mechanics/Bestiary/Beast/Reef Shark.md\|reef sharks]] (shallow waters) or [[5. Mechanics/Bestiary/Beast/Hunter Shark.md\|hunter sharks]] (deep waters) circling around it (50% chance chance that the ship contains treasure—roll randomly on the treasure tables in chapter 7) |
 | 4 | Bed of giant oysters (each oyster has a 1% chance chance of having a giant 5,000 gp pearl inside) |

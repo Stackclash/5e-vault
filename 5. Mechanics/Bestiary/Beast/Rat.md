@@ -2,15 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/0
-  - monster/environment/swamp
-  - monster/environment/urban
-  - monster/size/tiny
-  - monster/type/beast
+- compendium/src/5e/mm
+- monster/cr/0
+- monster/environment/swamp
+- monster/environment/urban
+- monster/size/tiny
+- monster/type/beast
 statblock: inline
-aliases:
-  - Rat
+aliases: ["Rat"]
 ---
 # [[5. Mechanics\Bestiary\Beast\Rat.md|Rat]]
 *Source: Monster Manual p. 335. Available in the SRD and the Basic Rules.*  

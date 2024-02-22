@@ -2,16 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1
-  - monster/environment/forest
-  - monster/environment/grassland
-  - monster/environment/underdark
-  - monster/size/medium
-  - monster/type/humanoid/goblinoid
+- compendium/src/5e/mm
+- monster/cr/1
+- monster/environment/forest
+- monster/environment/grassland
+- monster/environment/underdark
+- monster/size/medium
+- monster/type/humanoid/goblinoid
 statblock: inline
-aliases:
-  - Bugbear
+aliases: ["Bugbear"]
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Bugbear.md|Bugbear]]
 *Source: Monster Manual p. 33, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  

@@ -2,18 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/phb
-  - item/rarity/unknown
-  - item/tier/minor
-  - item/wondrous/wondrous-item
-aliases:
-  - Silvered Ammunition
-  - Silvered Sling Bullet
-  - Silvered Arrow
-  - Silvered Modern Bullet
-  - Silvered Blowgun Needle
-  - Silvered Crossbow Bolt
-  - Silvered Renaissance Bullet
+- compendium/src/5e/phb
+- item/rarity/unknown
+- item/tier/minor
+- item/wondrous/wondrous-item
+aliases: 
+- "Silvered Ammunition"
+- "Silvered Sling Bullet"
+- "Silvered Arrow"
+- "Silvered Modern Bullet"
+- "Silvered Blowgun Needle"
+- "Silvered Crossbow Bolt"
+- "Silvered Renaissance Bullet"
 ---
 # Silvered Ammunition
 *Generic Variant, minor, unknown*  

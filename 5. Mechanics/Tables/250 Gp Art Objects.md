@@ -8,9 +8,9 @@ aliases: ["250 gp Art Objects"]
 # 250 gp Art Objects
 *Source: Dungeon Master's Guide p. 134* 
 
-`dice: [[250 Gp Art Objects.md#^250-gp-art-objects]]`
-
 **250 gp Art Objects**
+
+`dice: [[250 Gp Art Objects.md#^250-gp-art-objects]]`
 
 | dice: d10 | Object |
 |-----------|--------|

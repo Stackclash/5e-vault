@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-2
-  - monster/environment/forest
-  - monster/size/medium
-  - monster/type/plant
+- compendium/src/5e/mm
+- monster/cr/1-2
+- monster/environment/forest
+- monster/size/medium
+- monster/type/plant
 statblock: inline
-aliases:
-  - Vine Blight
+aliases: ["Vine Blight"]
 ---
 # [[5. Mechanics\Bestiary\Plant\Vine Blight.md|Vine Blight]]
 *Source: Monster Manual p. 32, Curse of Strahd*  

@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/3
-  - monster/size/medium
-  - monster/type/fiend/devil
+- compendium/src/5e/mm
+- monster/cr/3
+- monster/size/medium
+- monster/type/fiend/devil
 statblock: inline
-aliases:
-  - Bearded Devil
+aliases: ["Bearded Devil"]
 ---
 # [[5. Mechanics\Bestiary\Fiend\Bearded Devil.md|Bearded Devil]]
 *Source: Monster Manual p. 70. Available in the SRD.*  

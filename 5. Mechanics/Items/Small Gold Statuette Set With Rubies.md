@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/wealth
-aliases:
-  - Small gold statuette set with rubies
+- compendium/src/5e/dmg
+- item/wealth/art-object
+aliases: 
+- "Small gold statuette set with rubies"
 cost: 750000
 ---
 # Small gold statuette set with rubies

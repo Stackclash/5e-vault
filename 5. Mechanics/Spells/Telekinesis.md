@@ -13,6 +13,7 @@ tags:
 aliases: ["Telekinesis"]
 ---
 # Telekinesis
+%%-- Embedded content starts on the next line. --%%
 *5th-level, Transmutation*  
 
 - **Casting time:** 1 action
@@ -38,6 +39,6 @@ You can exert fine control on objects with your telekinetic grip, such as manipu
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Classes/Fighter Psi Warrior (TCE).md\|Fighter (Psi Warrior)]], [[5. Mechanics/Classes/Sorcerer Aberrant Mind (TCE).md\|Sorcerer (Aberrant Mind)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock The Great Old One.md\|Warlock (The Great Old One)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Fighter Psi Warrior.md\|Fighter (Psi Warrior)]], [[5. Mechanics/Classes/Sorcerer Aberrant Mind.md\|Sorcerer (Aberrant Mind)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock The Great Old One.md\|Warlock (The Great Old One)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 280. Available in the SRD.*

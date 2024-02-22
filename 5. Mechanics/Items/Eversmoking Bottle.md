@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/rarity/uncommon
-  - item/tier/major
-  - item/wondrous
-aliases:
-  - Eversmoking Bottle
+- compendium/src/5e/dmg
+- item/rarity/uncommon
+- item/tier/major
+- item/wondrous
+aliases: 
+- "Eversmoking Bottle"
 ---
 # Eversmoking Bottle
 *Wondrous Item, major, uncommon*  

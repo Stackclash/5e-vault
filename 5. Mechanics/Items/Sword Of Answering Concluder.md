@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/attunement/required
-  - item/property/martial
-  - item/property/versatile
-  - item/rarity/legendary
-  - item/tier/major
-  - item/weapon/martial/melee
-aliases:
-  - Sword of Answering (Concluder)
+- compendium/src/5e/dmg
+- item/attunement/required
+- item/property/martial
+- item/property/versatile
+- item/rarity/legendary
+- item/tier/major
+- item/weapon/martial/melee
+aliases: 
+- "Sword of Answering (Concluder)"
 ---
 # Sword of Answering (Concluder)
 *Melee Weapon, major, legendary (requires attunement by a lawful neutral creature)*  

@@ -2,17 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1
-  - monster/environment/desert
-  - monster/environment/forest
-  - monster/environment/swamp
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/humanoid/yuan-ti
+- compendium/src/5e/mm
+- monster/cr/1
+- monster/environment/desert
+- monster/environment/forest
+- monster/environment/swamp
+- monster/environment/urban
+- monster/size/medium
+- monster/type/humanoid/yuan-ti
 statblock: inline
-aliases:
-  - Yuan-ti Pureblood
+aliases: ["Yuan-ti Pureblood"]
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Yuan Ti Pureblood.md|Yuan-ti Pureblood]]
 *Source: Monster Manual p. 310*  

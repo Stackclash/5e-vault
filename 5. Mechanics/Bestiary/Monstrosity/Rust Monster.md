@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-2
-  - monster/environment/underdark
-  - monster/size/medium
-  - monster/type/monstrosity
+- compendium/src/5e/mm
+- monster/cr/1-2
+- monster/environment/underdark
+- monster/size/medium
+- monster/type/monstrosity
 statblock: inline
-aliases:
-  - Rust Monster
+aliases: ["Rust Monster"]
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Rust Monster.md|Rust Monster]]
 *Source: Monster Manual p. 262. Available in the SRD.*  

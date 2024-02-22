@@ -2,19 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer
-  - spell/class/fighter/eldritch-knight
-  - spell/class/paladin/oath-of-the-watchers
-  - spell/class/ranger
-  - spell/class/rogue/arcane-trickster
-  - spell/class/sorcerer/clockwork-soul
-  - spell/class/wizard
-  - spell/level/1
-  - spell/ritual
-  - spell/school/abjuration
-aliases:
-  - Alarm
+- compendium/src/5e/phb
+- spell/class/artificer
+- spell/class/fighter/eldritch-knight
+- spell/class/paladin/oath-of-the-watchers
+- spell/class/ranger
+- spell/class/rogue/arcane-trickster
+- spell/class/sorcerer/clockwork-soul
+- spell/class/wizard
+- spell/level/1
+- spell/ritual
+- spell/school/abjuration
+aliases: ["Alarm"]
 ---
 # Alarm
 %%-- Embedded content starts on the next line. --%%

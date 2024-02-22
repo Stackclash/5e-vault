@@ -2,12 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/mtf
-  - deity/elven
-  - domain/knowledge
-  - domain/light
-aliases:
-  - Araleth Letheranil
+- compendium/src/5e/mtf
+- deity/elven
+- domain/knowledge
+- domain/light
+aliases: ["Araleth Letheranil"]
 ---
 # Araleth Letheranil
 *Source: Mordenkainen's Tome of Foes p. 43* 

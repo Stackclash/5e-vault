@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/8
-  - monster/size/large
-  - monster/type/aberration/shapechanger
+- compendium/src/5e/mm
+- monster/cr/8
+- monster/size/large
+- monster/type/aberration/shapechanger
 statblock: inline
-aliases:
-  - Green Slaad
+aliases: ["Green Slaad"]
 ---
 # [[5. Mechanics\Bestiary\Aberration\Green Slaad.md|Green Slaad]]
 *Source: Monster Manual p. 277*  

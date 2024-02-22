@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/attunement/required
-  - item/rarity/rare
-  - item/tier/major
-  - item/wondrous
-aliases:
-  - Necklace of Prayer Beads
+- compendium/src/5e/dmg
+- item/attunement/required
+- item/rarity/rare
+- item/tier/major
+- item/wondrous
+aliases: 
+- "Necklace of Prayer Beads"
 ---
 # Necklace of Prayer Beads
 *Wondrous Item, major, rare (requires attunement by a cleric, druid, or paladin)*  

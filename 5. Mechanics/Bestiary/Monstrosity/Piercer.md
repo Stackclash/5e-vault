@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-2
-  - monster/environment/underdark
-  - monster/size/medium
-  - monster/type/monstrosity
+- compendium/src/5e/mm
+- monster/cr/1-2
+- monster/environment/underdark
+- monster/size/medium
+- monster/type/monstrosity
 statblock: inline
-aliases:
-  - Piercer
+aliases: ["Piercer"]
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Piercer.md|Piercer]]
 *Source: Monster Manual p. 252*  

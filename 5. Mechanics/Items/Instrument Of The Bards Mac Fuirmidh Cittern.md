@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/attunement/required
-  - item/gear/instrument
-  - item/rarity/uncommon
-  - item/tier/major
-aliases:
-  - 'Instrument of the Bards, Mac-Fuirmidh Cittern'
+- compendium/src/5e/dmg
+- item/attunement/required
+- item/gear/instrument
+- item/rarity/uncommon
+- item/tier/major
+aliases: 
+- "Instrument of the Bards, Mac-Fuirmidh Cittern"
 ---
 # Instrument of the Bards, Mac-Fuirmidh Cittern
 *Instrument, major, uncommon (requires attunement by a bard)*  

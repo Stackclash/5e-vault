@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/wealth
-aliases:
-  - Gold dragon comb set with red garnets as eyes
+- compendium/src/5e/dmg
+- item/wealth/art-object
+aliases: 
+- "Gold dragon comb set with red garnets as eyes"
 cost: 75000
 ---
 # Gold dragon comb set with red garnets as eyes

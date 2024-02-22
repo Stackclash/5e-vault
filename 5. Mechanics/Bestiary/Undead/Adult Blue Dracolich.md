@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/17
-  - monster/environment/desert
-  - monster/size/huge
-  - monster/type/undead
+- compendium/src/5e/mm
+- monster/cr/17
+- monster/environment/desert
+- monster/size/huge
+- monster/type/undead
 statblock: inline
-aliases:
-  - Adult Blue Dracolich
+aliases: ["Adult Blue Dracolich"]
 ---
 # [[5. Mechanics\Bestiary\Undead\Adult Blue Dracolich.md|Adult Blue Dracolich]]
 *Source: Monster Manual p. 84*  

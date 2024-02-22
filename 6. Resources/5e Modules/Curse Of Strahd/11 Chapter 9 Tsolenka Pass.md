@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/cos
-aliases: ["Chapter 9: Tsolenka Pass"]
+  - compendium/src/5e/cos
+aliases:
+  - 'Chapter 9: Tsolenka Pass'
 ---
 # Chapter 9: Tsolenka Pass
 *Source: Curse of Strahd, p. 157* 

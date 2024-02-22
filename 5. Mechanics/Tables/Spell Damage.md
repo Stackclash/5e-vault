@@ -8,8 +8,6 @@ aliases: ["Spell Damage"]
 # Spell Damage
 *Source: Dungeon Master's Guide p. 283* 
 
-`dice: [[Spell Damage.md#^spell-damage]]`
-
 **Spell Damage**
 
 | Spell Level | One Target | Multiple Targets |

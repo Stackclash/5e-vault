@@ -8,8 +8,6 @@ aliases: ["Deities of Greyhawk"]
 # Deities of Greyhawk
 *Source: Player's Handbook p. 293* 
 
-`dice: [[Deities Of Greyhawk.md#^deities-of-greyhawk]]`
-
 **Deities of Greyhawk**
 
 | Deity | Alignment | Suggested Domains | Symbol |

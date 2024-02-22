@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1
-  - monster/environment/forest
-  - monster/size/medium
-  - monster/type/fey
+- compendium/src/5e/mm
+- monster/cr/1
+- monster/environment/forest
+- monster/size/medium
+- monster/type/fey
 statblock: inline
-aliases:
-  - Dryad
+aliases: ["Dryad"]
 ---
 # [[5. Mechanics\Bestiary\Fey\Dryad.md|Dryad]]
 *Source: Monster Manual p. 121. Available in the SRD.*  

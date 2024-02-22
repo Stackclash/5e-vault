@@ -2,11 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/erlw
-  - deity/eberron
-  - domain/trickery
-aliases:
-  - Kol Korran
+- compendium/src/5e/erlw
+- deity/eberron
+- domain/trickery
+aliases: ["Kol Korran"]
 ---
 # Kol Korran
 *Source: Eberron: Rising from the Last War p. 141* 

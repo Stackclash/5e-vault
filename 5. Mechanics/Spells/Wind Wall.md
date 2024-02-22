@@ -13,6 +13,7 @@ tags:
 aliases: ["Wind Wall"]
 ---
 # Wind Wall
+%%-- Embedded content starts on the next line. --%%
 *3rd-level, Evocation*  
 
 - **Casting time:** 1 action
@@ -26,6 +27,6 @@ When the wall appears, each creature within its area must make a Strength saving
 
 The strong wind keeps fog, smoke, and other gases at bay. Small or smaller flying creatures or objects can't pass through the wall. Loose, lightweight materials brought into the wall fly upward. Arrows, bolts, and other ordinary projectiles launched at targets behind the wall are deflected upward and automatically miss. (Boulders hurled by giants or siege engines, and similar projectiles, are unaffected.) Creatures in gaseous form can't pass through it.
 
-**Classes**: [[5. Mechanics/Classes/Artificer Artillerist (TCE).md\|Artificer (Artillerist)]], [[5. Mechanics/Classes/Cleric Nature Domain.md\|Cleric (Nature Domain)]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Ranger.md\|Ranger]], [[5. Mechanics/Classes/Warlock The Genie (TCE).md\|Warlock (The Genie)]]
+**Classes**: [[5. Mechanics/Classes/Artificer Artillerist.md\|Artificer (Artillerist)]], [[5. Mechanics/Classes/Cleric Nature Domain.md\|Cleric (Nature Domain)]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Ranger.md\|Ranger]], [[5. Mechanics/Classes/Warlock The Genie.md\|Warlock (The Genie)]]
 
 *Source: Player's Handbook p. 288. Available in the SRD.*

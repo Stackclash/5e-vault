@@ -2,21 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/cleric
-  - spell/class/cleric/light-domain
-  - spell/class/cleric/war-domain
-  - spell/class/druid/circle-of-wildfire
-  - spell/class/paladin/oath-of-devotion
-  - spell/class/paladin/oath-of-glory
-  - spell/class/sorcerer/divine-soul
-  - spell/class/warlock/the-celestial
-  - spell/class/warlock/the-fiend
-  - spell/class/warlock/the-genie
-  - spell/level/5
-  - spell/school/evocation
-aliases:
-  - Flame Strike
+- compendium/src/5e/phb
+- spell/class/cleric
+- spell/class/cleric/light-domain
+- spell/class/cleric/war-domain
+- spell/class/druid/circle-of-wildfire
+- spell/class/paladin/oath-of-devotion
+- spell/class/paladin/oath-of-glory
+- spell/class/sorcerer/divine-soul
+- spell/class/warlock/the-celestial
+- spell/class/warlock/the-fiend
+- spell/class/warlock/the-genie
+- spell/level/5
+- spell/school/evocation
+aliases: ["Flame Strike"]
 ---
 # Flame Strike
 %%-- Embedded content starts on the next line. --%%

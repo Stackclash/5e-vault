@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/dmg
-aliases:
-  - Flanking
+- compendium/src/5e/dmg
+aliases: ["Flanking"]
 ---
 # Flanking
 *Source: Dungeon Master's Guide p. 251* 

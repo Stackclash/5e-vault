@@ -2,17 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer/battle-smith
-  - spell/class/bard
-  - spell/class/cleric/order-domain
-  - spell/class/cleric/peace-domain
-  - spell/class/paladin
-  - spell/class/paladin/oath-of-glory
-  - spell/level/1
-  - spell/school/enchantment
-aliases:
-  - Heroism
+- compendium/src/5e/phb
+- spell/class/artificer/battle-smith
+- spell/class/bard
+- spell/class/cleric/order-domain
+- spell/class/cleric/peace-domain
+- spell/class/paladin
+- spell/class/paladin/oath-of-glory
+- spell/level/1
+- spell/school/enchantment
+aliases: ["Heroism"]
 ---
 # Heroism
 %%-- Embedded content starts on the next line. --%%

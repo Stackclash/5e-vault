@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/2
-  - monster/environment/underdark
-  - monster/size/medium
-  - monster/type/aberration
+- compendium/src/5e/mm
+- monster/cr/2
+- monster/environment/underdark
+- monster/size/medium
+- monster/type/aberration
 statblock: inline
-aliases:
-  - Nothic
+aliases: ["Nothic"]
 ---
 # [[5. Mechanics\Bestiary\Aberration\Nothic.md|Nothic]]
 *Source: Monster Manual p. 236, Curse of Strahd. Available in the Basic Rules.*  

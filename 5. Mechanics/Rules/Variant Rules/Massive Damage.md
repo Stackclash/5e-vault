@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/dmg
-aliases:
-  - Massive Damage
+- compendium/src/5e/dmg
+aliases: ["Massive Damage"]
 ---
 # Massive Damage
 *Source: Dungeon Master's Guide p. 273* 

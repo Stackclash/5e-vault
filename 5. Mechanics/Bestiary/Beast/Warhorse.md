@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-2
-  - monster/environment/urban
-  - monster/size/large
-  - monster/type/beast
+- compendium/src/5e/mm
+- monster/cr/1-2
+- monster/environment/urban
+- monster/size/large
+- monster/type/beast
 statblock: inline
-aliases:
-  - Warhorse
+aliases: ["Warhorse"]
 ---
 # [[5. Mechanics\Bestiary\Beast\Warhorse.md|Warhorse]]
 *Source: Monster Manual p. 340, Curse of Strahd. Available in the SRD and the Basic Rules.*  

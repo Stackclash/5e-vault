@@ -8,9 +8,9 @@ aliases: ["Lord of Blades NPCs"]
 # Lord of Blades NPCs
 *Source: Eberron: Rising from the Last War p. 214* 
 
-`dice: [[Lord Of Blades Npcs (ERLW).md#^lord-of-blades-npcs]]`
-
 **Lord of Blades NPCs**
+
+`dice: [[Lord Of Blades Npcs.md#^lord-of-blades-npcs]]`
 
 | dice: d6 | NPC |
 |----------|-----|

@@ -8,8 +8,6 @@ aliases: ["New Action: Breath Weapon"]
 # New Action: Breath Weapon
 *Source: Monster Manual p. 180* 
 
-`dice: [[New Action Breath Weapon.md#^size-breath-weapon-optional-prerequisite]]`
-
 | Size | Breath Weapon | Optional Prerequisite |
 |------|---------------|-----------------------|
 | Large or smaller | As a wyrmling | Challenge 2 or higher |

@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/12
-  - monster/environment/urban
-  - monster/size/medium
-  - monster/type/humanoid/any-race
+- compendium/src/5e/mm
+- monster/cr/12
+- monster/environment/urban
+- monster/size/medium
+- monster/type/humanoid/any-race
 statblock: inline
-aliases:
-  - Archmage
+aliases: ["Archmage"]
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Archmage.md|Archmage]]
 *Source: Monster Manual p. 342, Curse of Strahd, Eberron: Rising from the Last War. Available in the SRD.*  

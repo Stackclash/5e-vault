@@ -2,19 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/attunement/required
-  - item/rarity/uncommon
-  - item/tier/major
-  - item/wondrous/wondrous-item
-aliases:
-  - Sword of Vengeance
-  - Longsword of Vengeance
-  - Double-Bladed Scimitar of Vengeance
-  - Greatsword of Vengeance
-  - Rapier of Vengeance
-  - Shortsword of Vengeance
-  - Scimitar of Vengeance
+- compendium/src/5e/dmg
+- item/attunement/required
+- item/rarity/uncommon
+- item/tier/major
+- item/wondrous/wondrous-item
+aliases: 
+- "Sword of Vengeance"
+- "Longsword of Vengeance"
+- "Double-Bladed Scimitar of Vengeance"
+- "Greatsword of Vengeance"
+- "Rapier of Vengeance"
+- "Shortsword of Vengeance"
+- "Scimitar of Vengeance"
 ---
 # Sword of Vengeance
 *Generic Variant, major, uncommon (requires attunement)*  

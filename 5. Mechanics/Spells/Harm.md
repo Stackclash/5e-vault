@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/cleric
-  - spell/class/sorcerer/divine-soul
-  - spell/level/6
-  - spell/school/necromancy
-aliases:
-  - Harm
+- compendium/src/5e/phb
+- spell/class/cleric
+- spell/class/sorcerer/divine-soul
+- spell/level/6
+- spell/school/necromancy
+aliases: ["Harm"]
 ---
 # Harm
 %%-- Embedded content starts on the next line. --%%

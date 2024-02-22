@@ -8,8 +8,6 @@ aliases: ["Multiclassing Proficiencies"]
 # Multiclassing Proficiencies
 *Source: Player's Handbook p. 164. Available in the SRD.* 
 
-`dice: [[Multiclassing Proficiencies.md#^multiclassing-proficiencies]]`
-
 **Multiclassing Proficiencies**
 
 | Class | Proficiencies Gained |

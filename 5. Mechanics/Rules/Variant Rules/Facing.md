@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/dmg
-aliases:
-  - Facing
+- compendium/src/5e/dmg
+aliases: ["Facing"]
 ---
 # Facing
 *Source: Dungeon Master's Guide p. 252* 

@@ -11,6 +11,7 @@ tags:
 aliases: ["True Resurrection"]
 ---
 # True Resurrection
+%%-- Embedded content starts on the next line. --%%
 *9th-level, Necromancy*  
 
 - **Casting time:** 1 hour
@@ -24,6 +25,6 @@ This spell closes all wounds, neutralizes any poison, cures all diseases, and li
 
 The spell can even provide a new body if the original no longer exists, in which case you must speak the creature's name. The creature then appears in an unoccupied space you choose within 10 feet of you.
 
-**Classes**: [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]]
+**Classes**: [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]]
 
 *Source: Player's Handbook p. 284. Available in the SRD and the Basic Rules.*

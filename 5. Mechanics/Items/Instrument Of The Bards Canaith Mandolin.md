@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/attunement/required
-  - item/gear/instrument
-  - item/rarity/rare
-  - item/tier/major
-aliases:
-  - 'Instrument of the Bards, Canaith Mandolin'
+- compendium/src/5e/dmg
+- item/attunement/required
+- item/gear/instrument
+- item/rarity/rare
+- item/tier/major
+aliases: 
+- "Instrument of the Bards, Canaith Mandolin"
 ---
 # Instrument of the Bards, Canaith Mandolin
 *Instrument, major, rare (requires attunement by a bard)*  

@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/3
-  - monster/size/large
-  - monster/type/fiend
+- compendium/src/5e/mm
+- monster/cr/3
+- monster/size/large
+- monster/type/fiend
 statblock: inline
-aliases:
-  - Nightmare
+aliases: ["Nightmare"]
 ---
 # [[5. Mechanics\Bestiary\Fiend\Nightmare.md|Nightmare]]
 *Source: Monster Manual p. 235, Curse of Strahd. Available in the SRD.*  

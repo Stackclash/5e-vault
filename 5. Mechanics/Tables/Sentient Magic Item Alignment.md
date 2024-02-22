@@ -8,9 +8,9 @@ aliases: ["Sentient Magic Item Alignment"]
 # Sentient Magic Item Alignment
 *Source: Dungeon Master's Guide p. 216. Available in the SRD.* 
 
-`dice: [[Sentient Magic Item Alignment.md#^sentient-magic-item-alignment]]`
-
 **Sentient Magic Item Alignment**
+
+`dice: [[Sentient Magic Item Alignment.md#^sentient-magic-item-alignment]]`
 
 | dice: d100 | Alignment |
 |------------|-----------|

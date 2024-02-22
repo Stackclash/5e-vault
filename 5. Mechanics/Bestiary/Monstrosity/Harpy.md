@@ -2,17 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1
-  - monster/environment/coastal
-  - monster/environment/forest
-  - monster/environment/hill
-  - monster/environment/mountain
-  - monster/size/medium
-  - monster/type/monstrosity
+- compendium/src/5e/mm
+- monster/cr/1
+- monster/environment/coastal
+- monster/environment/forest
+- monster/environment/hill
+- monster/environment/mountain
+- monster/size/medium
+- monster/type/monstrosity
 statblock: inline
-aliases:
-  - Harpy
+aliases: ["Harpy"]
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Harpy.md|Harpy]]
 *Source: Monster Manual p. 181, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  

@@ -8,9 +8,9 @@ aliases: ["Artifact Properties; Major Detrimental Properties"]
 # Artifact Properties; Major Detrimental Properties
 *Source: Dungeon Master's Guide p. 219* 
 
-`dice: [[Artifact Properties Major Detrimental Properties.md#^major-detrimental-properties]]`
-
 **Major Detrimental Properties**
+
+`dice: [[Artifact Properties Major Detrimental Properties.md#^major-detrimental-properties]]`
 
 | dice: d100 | Property |
 |------------|----------|

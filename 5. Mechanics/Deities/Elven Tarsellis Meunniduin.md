@@ -2,12 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/mtf
-  - deity/elven
-  - domain/nature
-  - domain/tempest
-aliases:
-  - Tarsellis Meunniduin
+- compendium/src/5e/mtf
+- deity/elven
+- domain/nature
+- domain/tempest
+aliases: ["Tarsellis Meunniduin"]
 ---
 # Tarsellis Meunniduin
 *Source: Mordenkainen's Tome of Foes p. 43* 

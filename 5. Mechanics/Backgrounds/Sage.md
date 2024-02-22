@@ -2,10 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
-  - background
-  - compendium/src/5e/phb
-aliases:
-  - Sage
+- background
+- compendium/src/5e/phb
+aliases: ["Sage"]
 ---
 # Sage
 *Source: Player's Handbook p. 137. Available in the Basic Rules.*  

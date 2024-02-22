@@ -2,17 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/attunement/required
-  - item/rarity/very-rare
-  - item/tier/major
-  - item/wondrous/wondrous-item
-aliases:
-  - Sword of Sharpness
-  - Longsword of Sharpness
-  - Double-Bladed Scimitar of Sharpness
-  - Greatsword of Sharpness
-  - Scimitar of Sharpness
+- compendium/src/5e/dmg
+- item/attunement/required
+- item/rarity/very-rare
+- item/tier/major
+- item/wondrous/wondrous-item
+aliases: 
+- "Sword of Sharpness"
+- "Longsword of Sharpness"
+- "Double-Bladed Scimitar of Sharpness"
+- "Greatsword of Sharpness"
+- "Scimitar of Sharpness"
 ---
 # Sword of Sharpness
 *Generic Variant, major, very rare (requires attunement)*  

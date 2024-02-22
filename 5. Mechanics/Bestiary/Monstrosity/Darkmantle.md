@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-2
-  - monster/environment/underdark
-  - monster/size/small
-  - monster/type/monstrosity
+- compendium/src/5e/mm
+- monster/cr/1-2
+- monster/environment/underdark
+- monster/size/small
+- monster/type/monstrosity
 statblock: inline
-aliases:
-  - Darkmantle
+aliases: ["Darkmantle"]
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Darkmantle.md|Darkmantle]]
 *Source: Monster Manual p. 46. Available in the SRD.*  

@@ -2,15 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer/alchemist
-  - spell/class/cleric
-  - spell/class/cleric/order-domain
-  - spell/class/sorcerer/divine-soul
-  - spell/level/3
-  - spell/school/evocation
-aliases:
-  - Mass Healing Word
+- compendium/src/5e/phb
+- spell/class/artificer/alchemist
+- spell/class/cleric
+- spell/class/cleric/order-domain
+- spell/class/sorcerer/divine-soul
+- spell/level/3
+- spell/school/evocation
+aliases: ["Mass Healing Word"]
 ---
 # Mass Healing Word
 %%-- Embedded content starts on the next line. --%%

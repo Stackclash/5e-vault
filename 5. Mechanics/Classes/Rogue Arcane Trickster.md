@@ -2,10 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - compendium/src/5e/phb
-  - subclass/rogue/arcane-trickster
-aliases:
-  - Arcane Trickster
+- compendium/src/5e/phb
+- subclass/rogue/arcane-trickster
+aliases: ["Arcane Trickster"]
 ---
 # Arcane Trickster
 *[[Rogue.md\|Rogue]]: Roguish Archetype*  

@@ -2,14 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/class/warlock
-  - spell/class/wizard
-  - spell/level/7
-  - spell/school/evocation
-aliases:
-  - Forcecage
+- compendium/src/5e/phb
+- spell/class/bard
+- spell/class/warlock
+- spell/class/wizard
+- spell/level/7
+- spell/school/evocation
+aliases: ["Forcecage"]
 ---
 # Forcecage
 %%-- Embedded content starts on the next line. --%%

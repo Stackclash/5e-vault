@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/rarity/rare
-  - item/tier/major
-  - item/wondrous
-aliases:
-  - Daern's Instant Fortress
+- compendium/src/5e/dmg
+- item/rarity/rare
+- item/tier/major
+- item/wondrous
+aliases: 
+- "Daern's Instant Fortress"
 ---
 # Daern's Instant Fortress
 *Wondrous Item, major, rare*  

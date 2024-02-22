@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/dmg
-aliases:
-  - 'New Ability Scores: Honor and Sanity'
+- compendium/src/5e/dmg
+aliases: ["New Ability Scores: Honor and Sanity"]
 ---
 # New Ability Scores: Honor and Sanity
 *Source: Dungeon Master's Guide p. 264* 

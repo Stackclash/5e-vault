@@ -8,8 +8,6 @@ aliases: ["Creature Size on Squares and Hexes; Creature Size and Space"]
 # Creature Size on Squares and Hexes; Creature Size and Space
 *Source: Dungeon Master's Guide p. 251* 
 
-`dice: [[Creature Size On Squares And Hexes Creature Size And Space.md#^creature-size-and-space]]`
-
 **Creature Size and Space**
 
 | Size | Space: Squares | Space: Hexes |

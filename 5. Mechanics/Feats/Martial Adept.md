@@ -2,10 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-  - compendium/src/5e/phb
-  - feat
-aliases:
-  - Martial Adept
+- compendium/src/5e/phb
+- feat
+aliases: ["Martial Adept"]
 ---
 # Martial Adept
 *Source: Player's Handbook p. 168*  

@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/2
-  - monster/size/large
-  - monster/type/construct
+- compendium/src/5e/mm
+- monster/cr/2
+- monster/size/large
+- monster/type/construct
 statblock: inline
-aliases:
-  - Pentadrone
+aliases: ["Pentadrone"]
 ---
 # [[5. Mechanics\Bestiary\Construct\Pentadrone.md|Pentadrone]]
 *Source: Monster Manual p. 226*  

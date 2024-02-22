@@ -2,19 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/artificer/armorer
-  - spell/class/bard
-  - spell/class/fighter/eldritch-knight
-  - spell/class/paladin/oath-of-redemption
-  - spell/class/rogue/arcane-trickster
-  - spell/class/sorcerer
-  - spell/class/warlock
-  - spell/class/wizard
-  - spell/level/3
-  - spell/school/illusion
-aliases:
-  - Hypnotic Pattern
+- compendium/src/5e/phb
+- spell/class/artificer/armorer
+- spell/class/bard
+- spell/class/fighter/eldritch-knight
+- spell/class/paladin/oath-of-redemption
+- spell/class/rogue/arcane-trickster
+- spell/class/sorcerer
+- spell/class/warlock
+- spell/class/wizard
+- spell/level/3
+- spell/school/illusion
+aliases: ["Hypnotic Pattern"]
 ---
 # Hypnotic Pattern
 %%-- Embedded content starts on the next line. --%%

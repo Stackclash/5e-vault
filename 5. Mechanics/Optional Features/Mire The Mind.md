@@ -2,10 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-  - compendium/src/5e/phb
-  - optional-feature/ei
-aliases:
-  - Mire the Mind
+- compendium/src/5e/phb
+- optional-feature/ei
+aliases: ["Mire the Mind"]
 ---
 # Mire the Mind
 *Source: Player's Handbook p. 111. Available in the SRD.*  

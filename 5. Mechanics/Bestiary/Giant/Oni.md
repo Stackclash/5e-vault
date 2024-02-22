@@ -2,15 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/7
-  - monster/environment/forest
-  - monster/environment/urban
-  - monster/size/large
-  - monster/type/giant
+- compendium/src/5e/mm
+- monster/cr/7
+- monster/environment/forest
+- monster/environment/urban
+- monster/size/large
+- monster/type/giant
 statblock: inline
-aliases:
-  - Oni
+aliases: ["Oni"]
 ---
 # [[5. Mechanics\Bestiary\Giant\Oni.md|Oni]]
 *Source: Monster Manual p. 239, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD.*  

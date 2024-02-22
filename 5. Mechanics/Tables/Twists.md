@@ -8,9 +8,9 @@ aliases: ["Twists"]
 # Twists
 *Source: Dungeon Master's Guide p. 80* 
 
-`dice: [[Twists.md#^twists]]`
-
 **Twists**
+
+`dice: [[Twists.md#^twists]]`
 
 | dice: d10 | Twist |
 |-----------|-------|

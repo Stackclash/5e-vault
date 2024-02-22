@@ -2,10 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-  - compendium/src/5e/dmg
-  - reward/boon
-aliases:
-  - Boon of Recovery
+- compendium/src/5e/dmg
+- reward/boon
+aliases: ["Boon of Recovery"]
 ---
 # Boon of Recovery
 

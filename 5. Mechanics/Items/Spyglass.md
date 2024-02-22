@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-  - compendium/src/5e/phb
-  - item/gear
-aliases:
-  - Spyglass
+- compendium/src/5e/phb
+- item/gear
+aliases: 
+- "Spyglass"
 cost: 100000
 ---
 # Spyglass

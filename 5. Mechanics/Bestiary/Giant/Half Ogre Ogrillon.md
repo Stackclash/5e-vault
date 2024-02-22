@@ -2,20 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1
-  - monster/environment/arctic
-  - monster/environment/desert
-  - monster/environment/forest
-  - monster/environment/hill
-  - monster/environment/mountain
-  - monster/environment/underdark
-  - monster/environment/urban
-  - monster/size/large
-  - monster/type/giant
+- compendium/src/5e/mm
+- monster/cr/1
+- monster/environment/arctic
+- monster/environment/desert
+- monster/environment/forest
+- monster/environment/hill
+- monster/environment/mountain
+- monster/environment/underdark
+- monster/environment/urban
+- monster/size/large
+- monster/type/giant
 statblock: inline
-aliases:
-  - Half-Ogre (Ogrillon)
+aliases: ["Half-Ogre (Ogrillon)"]
 ---
 # [[5. Mechanics\Bestiary\Giant\Half Ogre Ogrillon.md|Half-Ogre (Ogrillon)]]
 *Source: Monster Manual p. 238, Eberron: Rising from the Last War*  

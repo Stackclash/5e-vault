@@ -2,15 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/4
-  - monster/environment/forest
-  - monster/environment/swamp
-  - monster/size/medium
-  - monster/type/humanoid/lizardfolk
+- compendium/src/5e/mm
+- monster/cr/4
+- monster/environment/forest
+- monster/environment/swamp
+- monster/size/medium
+- monster/type/humanoid/lizardfolk
 statblock: inline
-aliases:
-  - Lizard Queen
+aliases: ["Lizard Queen"]
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Lizard Queen.md|Lizard Queen]]
 *Source: Monster Manual p. 205*  

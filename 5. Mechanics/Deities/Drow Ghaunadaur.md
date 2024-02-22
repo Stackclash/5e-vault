@@ -2,11 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-  - compendium/src/5e/mtf
-  - deity/drow
-  - domain/war
-aliases:
-  - Ghaunadaur
+- compendium/src/5e/mtf
+- deity/drow
+- domain/war
+aliases: ["Ghaunadaur"]
 ---
 # Ghaunadaur
 *Source: Mordenkainen's Tome of Foes p. 53* 

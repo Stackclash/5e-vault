@@ -2,16 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/7
-  - monster/environment/hill
-  - monster/environment/mountain
-  - monster/environment/underdark
-  - monster/size/huge
-  - monster/type/giant
+- compendium/src/5e/mm
+- monster/cr/7
+- monster/environment/hill
+- monster/environment/mountain
+- monster/environment/underdark
+- monster/size/huge
+- monster/type/giant
 statblock: inline
-aliases:
-  - Stone Giant
+aliases: ["Stone Giant"]
 ---
 # [[5. Mechanics\Bestiary\Giant\Stone Giant.md|Stone Giant]]
 *Source: Monster Manual p. 156. Available in the SRD.*  

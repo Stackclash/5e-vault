@@ -10,6 +10,8 @@ aliases: ["Devil Customization Tables"]
 
 **Devil Honorifics**
 
+`dice: [[Devil Customization Tables.md#^devil-honorifics]]`
+
 | dice: d20 | Title |
 |-----------|-------|
 | 1 | the Perceiver |
@@ -36,6 +38,8 @@ aliases: ["Devil Customization Tables"]
 
 **Devil Personality Traits**
 
+`dice: [[Devil Customization Tables.md#^devil-personality-traits]]`
+
 | dice: d6 | Trait |
 |----------|-------|
 | 1 | I always have a scheme to make a profit. |
@@ -47,6 +51,8 @@ aliases: ["Devil Customization Tables"]
 ^devil-personality-traits
 
 **Devil Ideals**
+
+`dice: [[Devil Customization Tables.md#^devil-ideals]]`
 
 | dice: d6 | Ideal |
 |----------|-------|
@@ -60,6 +66,8 @@ aliases: ["Devil Customization Tables"]
 
 **Devil Bonds**
 
+`dice: [[Devil Customization Tables.md#^devil-bonds]]`
+
 | dice: d6 | Bond |
 |----------|------|
 | 1 | I and my comrades fought well in the Blood War, and our service demands respect. |
@@ -71,6 +79,8 @@ aliases: ["Devil Customization Tables"]
 ^devil-bonds
 
 **Devil Flaws**
+
+`dice: [[Devil Customization Tables.md#^devil-flaws]]`
 
 | dice: d6 | Flaw |
 |----------|------|

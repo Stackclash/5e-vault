@@ -2,18 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/1-4
-  - monster/environment/coastal
-  - monster/environment/desert
-  - monster/environment/forest
-  - monster/environment/swamp
-  - monster/environment/underdark
-  - monster/size/large
-  - monster/type/beast
+- compendium/src/5e/mm
+- monster/cr/1-4
+- monster/environment/coastal
+- monster/environment/desert
+- monster/environment/forest
+- monster/environment/swamp
+- monster/environment/underdark
+- monster/size/large
+- monster/type/beast
 statblock: inline
-aliases:
-  - Giant Lizard
+aliases: ["Giant Lizard"]
 ---
 # [[5. Mechanics\Bestiary\Beast\Giant Lizard.md|Giant Lizard]]
 *Source: Monster Manual p. 326. Available in the SRD and the Basic Rules.*  

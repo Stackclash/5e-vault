@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/mm
-  - monster/cr/13
-  - monster/size/medium
-  - monster/type/fiend/yugoloth
+- compendium/src/5e/mm
+- monster/cr/13
+- monster/size/medium
+- monster/type/fiend/yugoloth
 statblock: inline
-aliases:
-  - Ultroloth
+aliases: ["Ultroloth"]
 ---
 # [[5. Mechanics\Bestiary\Fiend\Ultroloth.md|Ultroloth]]
 *Source: Monster Manual p. 314*  
