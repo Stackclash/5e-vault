@@ -34,4 +34,6 @@ prep-notes:
 Description
 
 ## What Happened
-Small description.
+- [[Seluvis Felo'melorn]] takes an orb from a statue of [[Strahd Von Zarovich]] 
+- [[Marin]] takes several trinkets
+- 

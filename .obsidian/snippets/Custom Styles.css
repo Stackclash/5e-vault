@@ -25,7 +25,12 @@
 
 /* Hides File Name in Meta Bind Image Suggester */
 .mb-image-suggest-footer-text {
-    display: none !important;
+  display: none !important;
+}
+
+/* Fixes Text Area to be small enough to fit with infobox */
+.mb-input-type-textArea > textarea {
+  width: 75%
 }
 
 /* Displays gallery callout images */
