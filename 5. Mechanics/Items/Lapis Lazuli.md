@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/wealth
-aliases: 
-- "Lapis Lazuli"
+  - compendium/src/5e/dmg
+  - item/wealth
+aliases:
+  - Lapis Lazuli
 cost: 1000
 ---
 # Lapis Lazuli
-*Treasure*  
+*Gemstone*  
 
 - **Cost**: 10 gp
 

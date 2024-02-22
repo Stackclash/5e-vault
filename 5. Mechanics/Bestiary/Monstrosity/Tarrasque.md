@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/30
-- monster/environment/urban
-- monster/size/gargantuan
-- monster/type/monstrosity/titan
+  - compendium/src/5e/mm
+  - monster/cr/30
+  - monster/environment/urban
+  - monster/size/gargantuan
+  - monster/type/monstrosity/titan
 statblock: inline
-aliases: ["Tarrasque"]
+aliases:
+  - Tarrasque
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Tarrasque.md|Tarrasque]]
+# [[5. Mechanics\Bestiary\Monstrosity\Tarrasque.md|Tarrasque]]
 *Source: Monster Manual p. 286, Tasha's Cauldron of Everything. Available in the SRD.*  
 
 The legendary tarrasque is possibly the most dreaded monster of the Material Plane. It is widely believed that only one of these creatures exists, though no one can predict where and when it will strike.
@@ -124,7 +125,7 @@ Legends tell how the tarrasque slumbers in its secret lair beneath the earth, re
 - "LoX"
 - "BMT"
 - "DoDk"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/tarrasque.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/tarrasque.webp"
 ```
 ^statblock
 

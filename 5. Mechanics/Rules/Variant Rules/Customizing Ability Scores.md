@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Customizing Ability Scores"]
+  - compendium/src/5e/phb
+aliases:
+  - Customizing Ability Scores
 ---
 # Customizing Ability Scores
 *Source: Player's Handbook p. 13* 

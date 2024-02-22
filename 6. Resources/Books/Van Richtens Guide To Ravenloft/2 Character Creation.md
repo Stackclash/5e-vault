@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vrgr
-aliases: ["Character Creation"]
+  - compendium/src/5e/vrgr
+aliases:
+  - Character Creation
 ---
 # Character Creation
 *Source: Van Richten's Guide to Ravenloft, p. 13* 
@@ -34,7 +35,7 @@ Choose a fateful cast to your origins with optional features for any background.
 
 ## Horror Trinkets
 
-Learn what [[5. Mechanics/Items/Horror Trinket (VRGR).md\|creepy curio]] inspires or haunts your adventures.
+Learn what [[5. Mechanics/Items/Horror Trinket.md\|creepy curio]] inspires or haunts your adventures.
 
 ![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/008-01-001-chapter-one-intro.webp#center\|"Monster hunters Gennifer and Laurie Weathermay- Foxgrove corner the werewolf Natalia Vhorishkova"]]
 
@@ -56,7 +57,7 @@ When planning to play a scary adventure, create a character prepared to be scare
 
 When creating and playing your character, consider courage not as the absence of fear but as the process of overcoming it. How might your character react in surprise before they rally to overcome the terror they face? Do they scream, flee, or freeze? Or might they throw themself into battle, perhaps recklessly or for too long? Record a default reaction on your character sheet so you can respond consistently when shocking events occur.
 
-Beyond this, discuss with your group how much fear ties into the game's rules. Would you prefer to keep frightful reactions narrative, or would you like to use game rules that present additional challenges and benefits? Ask your DM about the possibility of using the rules for inspiration to motivate fearful character reactions, as detailed in the "[[/5. Mechanics/Rules/Variant Rules/Fear And Stress (VRGR).md\|Fear and Stress]]" section of "chapter 4". Using this system, a character who possesses particular fears and uses them to guide their responses to horrific scenes might earn inspiration for reinforcing the adventure's frightful atmosphere. The DM might not employ these rules every time something frightening occurs, but your group might use them as a way to highlight individual fears and build an adventure's overarching sense of dread.
+Beyond this, discuss with your group how much fear ties into the game's rules. Would you prefer to keep frightful reactions narrative, or would you like to use game rules that present additional challenges and benefits? Ask your DM about the possibility of using the rules for inspiration to motivate fearful character reactions, as detailed in the "[[/5. Mechanics/Rules/Variant Rules/Fear And Stress.md\|Fear and Stress]]" section of "chapter 4". Using this system, a character who possesses particular fears and uses them to guide their responses to horrific scenes might earn inspiration for reinforcing the adventure's frightful atmosphere. The DM might not employ these rules every time something frightening occurs, but your group might use them as a way to highlight individual fears and build an adventure's overarching sense of dread.
 
 > [!note] From the Mists or Beyond?
 > 
@@ -126,7 +127,7 @@ Here's a list of the game's creature types in alphabetical order: Aberration, Be
 
 ## Dhampir
 
-See the [[5. Mechanics/Races/Dhampir (VRGR).md\|Dhampir]] entry.
+See the [[5. Mechanics/Races/Dhampir.md\|Dhampir]] entry.
 
 ### Dhampirs in the Domains of Dread
 
@@ -142,13 +143,13 @@ The Kargat, this shattered domain's secret police, supposedly know the secret of
 
 #### I'Cath
 
-At night, the starving city of I'Cath is overrun by vampiric [[5. Mechanics/Bestiary/Undead/Jiangshi (VRGR).md\|jiangshi]] (described in "chapter 5"). You were left with a cold hunger after an encounter with one of these unquiet ancestors.
+At night, the starving city of I'Cath is overrun by vampiric [[5. Mechanics/Bestiary/Undead/Jiangshi.md\|jiangshi]] (described in "chapter 5"). You were left with a cold hunger after an encounter with one of these unquiet ancestors.
 
 ![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/011-01-004-savra-sunstar.webp#center\|"The dhampir Savra Sunstar confronts her father, the vampire Jander Sunstar"]]
 
 ## Hexblood
 
-See the [[5. Mechanics/Races/Hexblood (VRGR).md\|Hexblood]] entry.
+See the [[5. Mechanics/Races/Hexblood.md\|Hexblood]] entry.
 
 ### Hexbloods in the Domains of Dread
 
@@ -170,7 +171,7 @@ Many of the children in the town of Viktal are hexbloods who exhibit their super
 
 ## Reborn
 
-See the [[5. Mechanics/Races/Reborn (VRGR).md\|Reborn]] entry.
+See the [[5. Mechanics/Races/Reborn.md\|Reborn]] entry.
 
 ### Reborn in the Domains of Dread
 
@@ -229,7 +230,7 @@ This section presents a selection of Dark Gifts in alphabetical order.
 
 ## Subclass Options
 
-At 3rd level, a bard chooses a Bard College. At 1st level, a warlock chooses an Otherworldly Patron. This section offers the [[5. Mechanics/Classes/Bard College Of Spirits (VRGR).md\|College of Spirits]] for the bard and [[5. Mechanics/Classes/Warlock The Undead (VRGR).md\|The Undead]] Otherworldly Patron for the warlock, expanding their options for those choices.
+At 3rd level, a bard chooses a Bard College. At 1st level, a warlock chooses an Otherworldly Patron. This section offers the [[5. Mechanics/Classes/Bard College Of Spirits.md\|College of Spirits]] for the bard and [[5. Mechanics/Classes/Warlock The Undead.md\|The Undead]] Otherworldly Patron for the warlock, expanding their options for those choices.
 
 ![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/018-01-011-bard-of-spirits.webp#center\|"A human bard of spirits evokes a tale inspired by the Avenger tarokka card."]]
 
@@ -237,7 +238,7 @@ At 3rd level, a bard chooses a Bard College. At 1st level, a warlock chooses an 
 
 ## Backgrounds
 
-The following background features explore origins suited to characters in horror adventures. Optional features and characteristics for characters of any background suggest how portentous forces might influence anyone's life. Additionally, the [[5. Mechanics/Backgrounds/Haunted One (VRGR).md\|haunted one]] and [[5. Mechanics/Backgrounds/Investigator (VRGR).md\|investigator]] backgrounds provide options for characters shaped by or determined to reveal the mysteries surrounding them. Finally, a selection of horror trinkets provide characters options to carry their own personal terrors.
+The following background features explore origins suited to characters in horror adventures. Optional features and characteristics for characters of any background suggest how portentous forces might influence anyone's life. Additionally, the [[5. Mechanics/Backgrounds/Haunted One.md\|haunted one]] and [[5. Mechanics/Backgrounds/Investigator.md\|investigator]] backgrounds provide options for characters shaped by or determined to reveal the mysteries surrounding them. Finally, a selection of horror trinkets provide characters options to carry their own personal terrors.
 
 ### General Background Features
 
@@ -274,4 +275,4 @@ Characters in a horror-focused campaign might have distinct motivations and char
 
 ![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/023-01-016-raven-letter.webp#center]]
 
-Sinister deeds and festering evils take many forms, sometimes as stories and sometimes as physical scars. All manner of talismans, mementos, criminal evidence, mysterious devices, cursed relics, and physical impossibilities might embody just such scars—[[5. Mechanics/Items/Horror Trinket (VRGR).md\|summaries of terrors in material form]].
+Sinister deeds and festering evils take many forms, sometimes as stories and sometimes as physical scars. All manner of talismans, mementos, criminal evidence, mysterious devices, cursed relics, and physical impossibilities might embody just such scars—[[5. Mechanics/Items/Horror Trinket.md\|summaries of terrors in material form]].

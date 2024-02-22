@@ -2,17 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer
-- spell/class/cleric/forge-domain
-- spell/class/fighter/eldritch-knight
-- spell/class/rogue/arcane-trickster
-- spell/class/wizard
-- spell/level/4
-- spell/school/transmutation
-aliases: ["Fabricate"]
+  - compendium/src/5e/phb
+  - spell/class/artificer
+  - spell/class/cleric/forge-domain
+  - spell/class/fighter/eldritch-knight
+  - spell/class/rogue/arcane-trickster
+  - spell/class/wizard
+  - spell/level/4
+  - spell/school/transmutation
+aliases:
+  - Fabricate
 ---
 # Fabricate
+%%-- Embedded content starts on the next line. --%%
 *4th-level, Transmutation*  
 
 - **Casting time:** 10 minute
@@ -26,6 +28,6 @@ Choose raw materials that you can see within range. You can fabricate a Large or
 
 Creatures or magic items can't be created or transmuted by this spell. You also can't use it to create items that ordinarily require a high degree of craftsmanship, such as jewelry, weapons, glass, or armor, unless you have proficiency with the type of artisan's tools used to craft such objects.
 
-**Classes**: [[5. Mechanics/Classes/Artificer (TCE).md\|Artificer]], [[5. Mechanics/Classes/Cleric Forge Domain (XGE).md\|Cleric (Forge Domain)]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Artificer.md\|Artificer]], [[5. Mechanics/Classes/Cleric Forge Domain.md\|Cleric (Forge Domain)]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 239. Available in the SRD.*

@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/3
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/humanoid/goblinoid
+  - compendium/src/5e/mm
+  - monster/cr/3
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/humanoid/goblinoid
 statblock: inline
-aliases: ["Bugbear Chief"]
+aliases:
+  - Bugbear Chief
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Bugbear Chief.md|Bugbear Chief]]
+# [[5. Mechanics\Bestiary\Humanoid\Bugbear Chief.md|Bugbear Chief]]
 *Source: Monster Manual p. 33*  
 
 Bugbears are born for battle and mayhem. Surviving by raiding and hunting, they bully the weak and despise being bossed around, but their love of carnage means they will fight for powerful masters if bloodshed and treasure are assured.
@@ -80,7 +81,7 @@ Despite their intimidating builds, bugbears move with surprising stealth. They a
 - "MM"
 - "TftYP"
 - "CRCotN"
-"image": "5. Mechanics/Bestiary/Humanoid/token/bugbear-chief.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/bugbear-chief.webp"
 ```
 ^statblock
 

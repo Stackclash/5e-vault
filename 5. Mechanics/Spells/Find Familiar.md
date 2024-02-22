@@ -2,16 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/fighter/eldritch-knight
-- spell/class/rogue/arcane-trickster
-- spell/class/wizard
-- spell/level/1
-- spell/ritual
-- spell/school/conjuration
-aliases: ["Find Familiar"]
+  - compendium/src/5e/phb
+  - spell/class/fighter/eldritch-knight
+  - spell/class/rogue/arcane-trickster
+  - spell/class/wizard
+  - spell/level/1
+  - spell/ritual
+  - spell/school/conjuration
+aliases:
+  - Find Familiar
 ---
 # Find Familiar
+%%-- Embedded content starts on the next line. --%%
 *1st-level, Conjuration (ritual)*  
 
 - **Casting time:** 1 hour unless cast as a ritual

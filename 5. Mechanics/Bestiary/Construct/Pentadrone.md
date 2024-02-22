@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/2
-- monster/size/large
-- monster/type/construct
+  - compendium/src/5e/mm
+  - monster/cr/2
+  - monster/size/large
+  - monster/type/construct
 statblock: inline
-aliases: ["Pentadrone"]
+aliases:
+  - Pentadrone
 ---
-# [[5. Mechanics/Bestiary/Construct/Pentadrone.md|Pentadrone]]
+# [[5. Mechanics\Bestiary\Construct\Pentadrone.md|Pentadrone]]
 *Source: Monster Manual p. 226*  
 
 Pentadrones oversee Mechanus's worker populace and can improvise in response to new situations.
@@ -91,7 +92,7 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
 - "KftGV"
 - "SatO"
 - "ToFW"
-"image": "5. Mechanics/Bestiary/Construct/token/pentadrone.png"
+"image": "5. Mechanics/Bestiary/Construct/token/pentadrone.webp"
 ```
 ^statblock
 

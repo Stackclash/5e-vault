@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-2
-- monster/environment/forest
-- monster/size/medium
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/1-2
+  - monster/environment/forest
+  - monster/size/medium
+  - monster/type/beast
 statblock: inline
-aliases: ["Black Bear"]
+aliases:
+  - Black Bear
 ---
-# [[5. Mechanics/Bestiary/Beast/Black Bear.md|Black Bear]]
+# [[5. Mechanics\Bestiary\Beast\Black Bear.md|Black Bear]]
 *Source: Monster Manual p. 318. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -56,7 +57,7 @@ aliases: ["Black Bear"]
 - "IMR"
 - "SatO"
 - "ToFW"
-"image": "5. Mechanics/Bestiary/Beast/token/black-bear.png"
+"image": "5. Mechanics/Bestiary/Beast/token/black-bear.webp"
 ```
 ^statblock
 

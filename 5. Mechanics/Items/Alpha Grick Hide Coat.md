@@ -1,0 +1,23 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-item
+tags:
+- compendium/src/5e/hhhvi
+- item/armor/light
+- item/property/crfby
+- item/rarity/rare
+aliases: 
+- "Alpha Grick Hide Coat"
+---
+# Alpha Grick Hide Coat
+*Light Armor, rare, Crafted by*  
+
+- **Armor Class**: 12 + DEX
+- **Properties**: Crafted by
+- **Weight**: 13.0 lbs.
+
+While wearing this armor, you have advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks made to hide in rocky terrain and on Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) checks made to climb rocky terrain.
+
+If this is the rare version of this armor, you also gain a +1 bonus to AC while wearing this item.
+
+*Source: Hamund's Harvesting Handbook: Volume I p. 129*

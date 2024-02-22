@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/3
-- monster/environment/arctic
-- monster/size/large
-- monster/type/monstrosity
+  - compendium/src/5e/mm
+  - monster/cr/3
+  - monster/environment/arctic
+  - monster/size/large
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Yeti"]
+aliases:
+  - Yeti
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Yeti.md|Yeti]]
+# [[5. Mechanics\Bestiary\Monstrosity\Yeti.md|Yeti]]
 *Source: Monster Manual p. 305. Available in the Basic Rules.*  
 
 A yeti's windborne howl sounds out across remote mountains, striking fear into the hearts of the scattered miners and herders that dwell there. These hulking creatures stalk alpine peaks in a ceaseless hunt for food. Their snow-white fur lets them move like ghosts against the frozen landscape. A yeti's icy simian eyes can freeze its prey in place.
@@ -70,8 +71,8 @@ An abominable yeti is larger than a normal yeti, standing three times as tall as
 - "desc": "The yeti has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
     \ checks that rely on smell."
   "name": "Keen Smell"
-- "desc": "The yeti has advantage on Dexterity (Stealth) checks made to hide in snowy\
-    \ terrain."
+- "desc": "The yeti has advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]])\
+    \ checks made to hide in snowy terrain."
   "name": "Snow Camouflage"
 "actions":
 - "desc": "The yeti can use its Chilling Gaze and makes two claw attacks."
@@ -97,7 +98,7 @@ An abominable yeti is larger than a normal yeti, standing three times as tall as
 - "IDRotF"
 - "LoX"
 - "ToFW"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/yeti.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/yeti.webp"
 ```
 ^statblock
 

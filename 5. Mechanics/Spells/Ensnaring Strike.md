@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/paladin/oath-of-the-ancients
-- spell/class/ranger
-- spell/level/1
-- spell/school/conjuration
-aliases: ["Ensnaring Strike"]
+  - compendium/src/5e/phb
+  - spell/class/paladin/oath-of-the-ancients
+  - spell/class/ranger
+  - spell/level/1
+  - spell/school/conjuration
+aliases:
+  - Ensnaring Strike
 ---
 # Ensnaring Strike
+%%-- Embedded content starts on the next line. --%%
 *1st-level, Conjuration*  
 
 - **Casting time:** 1 bonus

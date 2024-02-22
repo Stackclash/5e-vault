@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/rare
-- item/tier/minor
-- item/wondrous
-aliases: 
-- "Quaal's Feather Token, Tree"
+  - compendium/src/5e/dmg
+  - item/rarity/rare
+  - item/tier/minor
+  - item/wondrous
+aliases:
+  - 'Quaal''s Feather Token, Tree'
 ---
 # Quaal's Feather Token, Tree
 *Wondrous Item, minor, rare*  

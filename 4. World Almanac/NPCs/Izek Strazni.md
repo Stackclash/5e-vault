@@ -1,33 +1,37 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: null
 condition: healthy
 relationships:
   - Ireena Kolyana|sister
-tags: 
-aliases: 
-pronounced: 
-race: 
-gender: 
-age: 
+tags: null
+aliases: null
+pronounced: null
+race: null
+gender: null
+age: null
 alignment: Neutral Evil
-occupation: [] 
-groups: 
-religions: 
-personality: 
+occupation: []
+groups: null
+religions: null
+personality: null
 ideal: Fear is a powerful weapon. I use it to get what I want.
-bond: I am loyal to my master, Baron Vallakovich, for he brought me into his home. I owe him my life, but he isn't family.
-flaw: I would do anything, kill anything, to find my sister.
-goals: 
-likes: ""
-dislikes:
+bond: >-
+  I am loyal to my master, Baron Vallakovich, for he brought me into his home. I
+  owe him my life, but he isn't family.
+flaw: 'I would do anything, kill anything, to find my sister.'
+goals: null
+likes: ''
+dislikes: null
 ---
 
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
-> ![[4. World Almanac/NPCs/img/izek-strazni.webp|cover hm-sm]] 
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```
 > ###### Bio
 >  |
 >  ---|---|
@@ -139,7 +143,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 
 ## Stats
 ```statblock
-"name": "Izek Strazni (CoS)"
+"name": "Izek Strazni"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "human"
@@ -178,7 +182,7 @@ await dv.view("npcRelationships", { current: dv.current() })
   "name": "Hurl Flame"
 "source":
 - "CoS"
-"image": "4. World Almanac/NPCs/token/izek-strazni.png"
+"image": "4. World Almanac/NPCs/token/izek-strazni-cos.webp"
 ```
 ^statblock
 

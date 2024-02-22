@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/wealth
-aliases: 
-- "Small gold idol"
+  - compendium/src/5e/dmg
+  - item/wealth
+aliases:
+  - Small gold idol
 cost: 75000
 ---
 # Small gold idol
-*Treasure*  
+*Art object*  
 
 - **Cost**: 750 gp
 

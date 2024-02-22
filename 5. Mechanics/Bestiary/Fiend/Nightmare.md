@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/3
-- monster/size/large
-- monster/type/fiend
+  - compendium/src/5e/mm
+  - monster/cr/3
+  - monster/size/large
+  - monster/type/fiend
 statblock: inline
-aliases: ["Nightmare"]
+aliases:
+  - Nightmare
 ---
-# [[5. Mechanics/Bestiary/Fiend/Nightmare.md|Nightmare]]
+# [[5. Mechanics\Bestiary\Fiend\Nightmare.md|Nightmare]]
 *Source: Monster Manual p. 235, Curse of Strahd. Available in the SRD.*  
 
 A nightmare appears in a cloud of roiling smoke, its mane, tail, and hooves wreathed in flame. The creature's unearthly black form moves with supernatural speed, vanishing in a cloud of brimstone as quickly as it appeared.
@@ -66,7 +67,7 @@ Nightmares don't appear naturally in the multiverse. They must be created from p
 - "AATM"
 - "SatO"
 - "BMT"
-"image": "5. Mechanics/Bestiary/Fiend/token/nightmare.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/nightmare.webp"
 ```
 ^statblock
 

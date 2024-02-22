@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Multiclassing"]
+  - compendium/src/5e/phb
+aliases:
+  - Multiclassing
 ---
 # Multiclassing
 *Source: Player's Handbook p. 163* 

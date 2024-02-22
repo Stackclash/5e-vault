@@ -2,21 +2,23 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer
-- spell/class/bard
-- spell/class/cleric
-- spell/class/druid
-- spell/class/fighter/eldritch-knight
-- spell/class/paladin/oath-of-glory
-- spell/class/rogue/arcane-trickster
-- spell/class/sorcerer
-- spell/class/sorcerer/divine-soul
-- spell/level/2
-- spell/school/transmutation
-aliases: ["Enhance Ability"]
+  - compendium/src/5e/phb
+  - spell/class/artificer
+  - spell/class/bard
+  - spell/class/cleric
+  - spell/class/druid
+  - spell/class/fighter/eldritch-knight
+  - spell/class/paladin/oath-of-glory
+  - spell/class/rogue/arcane-trickster
+  - spell/class/sorcerer
+  - spell/class/sorcerer/divine-soul
+  - spell/level/2
+  - spell/school/transmutation
+aliases:
+  - Enhance Ability
 ---
 # Enhance Ability
+%%-- Embedded content starts on the next line. --%%
 *2nd-level, Transmutation*  
 
 - **Casting time:** 1 action
@@ -56,6 +58,6 @@ When you cast this spell using a spell slot of 3rd level or higher, you can targ
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Classes/Artificer (TCE).md\|Artificer]], [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Paladin Oath Of Glory (TCE).md\|Paladin (Oath of Glory)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]]
+**Classes**: [[5. Mechanics/Classes/Artificer.md\|Artificer]], [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Paladin Oath Of Glory.md\|Paladin (Oath of Glory)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]]
 
 *Source: Player's Handbook p. 237. Available in the SRD.*

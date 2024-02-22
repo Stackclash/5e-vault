@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- compendium/src/5e/erlw
-- deity/eberron
-- domain/knowledge
-aliases: ["The Shadow"]
+  - compendium/src/5e/erlw
+  - deity/eberron
+  - domain/knowledge
+aliases:
+  - The Shadow
 ---
 # The Shadow
 *Source: Eberron: Rising from the Last War p. 141* 

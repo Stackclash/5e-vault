@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/class/sorcerer/divine-soul
-- spell/level/7
-- spell/school/conjuration
-aliases: ["Conjure Celestial"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/class/sorcerer/divine-soul
+  - spell/level/7
+  - spell/school/conjuration
+aliases:
+  - Conjure Celestial
 ---
 # Conjure Celestial
+%%-- Embedded content starts on the next line. --%%
 *7th-level, Conjuration*  
 
 - **Casting time:** 1 minute
@@ -25,6 +27,6 @@ The DM has [[5. Mechanics/Bestiary/Celestial/Couatl.md\|the celestial]]'s statis
 
 **At Higher Levels.** When you cast this spell using a 9th-level spell slot, you summon a celestial of challenge rating 5 or lower.
 
-**Classes**: [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]]
+**Classes**: [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]]
 
 *Source: Player's Handbook p. 225. Available in the SRD.*

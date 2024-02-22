@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear
-aliases: 
-- "Priest's Pack"
+  - compendium/src/5e/phb
+  - item/gear
+aliases:
+  - Priest's Pack
 cost: 1900
 ---
 # Priest's Pack
@@ -24,7 +24,7 @@ Includes:
 - 2 blocks of incense  
 - a censer  
 - vestments  
-- 2 days of [[5. Mechanics/Items/Rations-1 Day.md\|rations]]  
+- 2 days of [[5. Mechanics/Items/Rations 1 Day.md\|rations]]  
 - a [[5. Mechanics/Items/Waterskin.md\|waterskin]].  
 
 *Source: Player's Handbook p. 151. Available in the SRD and the Basic Rules.*

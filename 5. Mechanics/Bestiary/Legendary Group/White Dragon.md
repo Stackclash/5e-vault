@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/mm
-- monster/legendary-group
-aliases: ["White Dragon"]
+  - compendium/src/5e/mm
+  - monster/legendary-group
+aliases:
+  - White Dragon
 ---
 # White Dragon
 
@@ -41,4 +42,9 @@ If the dragon dies, the fog and precipitation fade within 1 day. The ice walls m
 Any of these effects might appear in the area around a white dragon's lair, in addition to or instead of the effects described in the *Monster Manual*:
 
 - **Biting Chill.** Extreme cold envelops the land within 6 miles of the dragon's lair (see the "Dungeon Master's Guide" for rules on "extreme cold"). If the climate in the area already features extreme cold, the cold is numbing, giving creatures in the area without immunity or resistance to cold damage disadvantage on Strength and Dexterity checks.  
-- **Mirror Ice.** The icy surfaces in the dragon's lair reflect light like mirrors, giving creatures in the lair other than the dragon disadvantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]) checks made to hide. In addition, at each intersection or branching passage, any creature other than the dragon has a 50% chance chance of going in a different direction from the direction it intends.
+- **Mirror Ice.** The icy surfaces in the dragon's lair reflect light like mirrors, giving creatures in the lair other than the dragon disadvantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]) checks made to hide. In addition, at each intersection or branching passage, any creature other than the dragon has a 50% chance chance of going in a different direction from the direction it intends.  
+
+## Is homebrew
+_Source: Monster Manual_
+
+false

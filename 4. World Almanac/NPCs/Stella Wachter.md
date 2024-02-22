@@ -1,32 +1,35 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: "[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]"
+location: '[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]'
 condition: healthy
 relationships:
   - Lady Fiona Wachter|mother
-tags: 
-aliases: 
-pronounced: 
-race: 
+tags: null
+aliases: null
+pronounced: null
+race: null
 gender: female
-age: 
+age: null
 alignment: Chaotic Good
-occupation: [] 
-groups: 
-religions: 
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+occupation: []
+groups: null
+religions: null
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```
 > ###### Bio
 >  |
 >  ---|---|
@@ -104,7 +107,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 
 ## Stats
 ```statblock
-"name": "Stella Wachter (CoS)"
+"name": "Stella Wachter"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "human"
@@ -129,7 +132,7 @@ await dv.view("npcRelationships", { current: dv.current() })
   "name": "Club"
 "source":
 - "CoS"
-"image": "4. World Almanac/NPCs/token/stella-wachter.png"
+"image": "4. World Almanac/NPCs/token/stella-wachter-cos.webp"
 ```
 ^statblock
 

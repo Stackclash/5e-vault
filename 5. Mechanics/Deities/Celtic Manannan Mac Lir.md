@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- compendium/src/5e/phb
-- deity/celtic
-- domain/nature
-- domain/tempest
-aliases: ["Manannan mac Lir"]
+  - compendium/src/5e/phb
+  - deity/celtic
+  - domain/nature
+  - domain/tempest
+aliases:
+  - Manannan mac Lir
 ---
 # Manannan mac Lir
 *Source: Player's Handbook p. 298. Available in the SRD.* 

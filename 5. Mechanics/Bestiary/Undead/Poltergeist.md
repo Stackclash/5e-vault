@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/2
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/undead
+  - compendium/src/5e/mm
+  - monster/cr/2
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
-aliases: ["Poltergeist"]
+aliases:
+  - Poltergeist
 ---
-# [[5. Mechanics/Bestiary/Undead/Poltergeist.md|Poltergeist]]
+# [[5. Mechanics\Bestiary\Undead\Poltergeist.md|Poltergeist]]
 *Source: Monster Manual p. 279, Curse of Strahd*  
 
 A poltergeist is the confused, invisible spirit of an individual with no sense of how he or she died. A poltergeist expresses its rage by hurling creatures and objects using the power of its shattered psyche.
@@ -78,7 +79,7 @@ A poltergeist is the confused, invisible spirit of an individual with no sense o
 - "KftGV"
 - "PSI"
 - "ToFW"
-"image": "5. Mechanics/Bestiary/Undead/token/poltergeist.png"
+"image": "5. Mechanics/Bestiary/Undead/token/poltergeist.webp"
 ```
 ^statblock
 

@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/0
-- monster/environment/coastal
-- monster/size/tiny
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/0
+  - monster/environment/coastal
+  - monster/size/tiny
+  - monster/type/beast
 statblock: inline
-aliases: ["Crab"]
+aliases:
+  - Crab
 ---
-# [[5. Mechanics/Bestiary/Beast/Crab.md|Crab]]
+# [[5. Mechanics\Bestiary\Beast\Crab.md|Crab]]
 *Source: Monster Manual p. 320. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -46,7 +47,7 @@ aliases: ["Crab"]
 - "ToA"
 - "GoS"
 - "BGDIA"
-"image": "5. Mechanics/Bestiary/Beast/token/crab.png"
+"image": "5. Mechanics/Bestiary/Beast/token/crab.webp"
 ```
 ^statblock
 

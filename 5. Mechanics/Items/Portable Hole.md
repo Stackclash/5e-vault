@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/rare
-- item/tier/minor
-- item/wondrous
-aliases: 
-- "Portable Hole"
+  - compendium/src/5e/dmg
+  - item/rarity/rare
+  - item/tier/minor
+  - item/wondrous
+aliases:
+  - Portable Hole
 ---
 # Portable Hole
 *Wondrous Item, minor, rare*  

@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/2
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/elemental
+  - compendium/src/5e/mm
+  - monster/cr/2
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/elemental
 statblock: inline
-aliases: ["Gargoyle"]
+aliases:
+  - Gargoyle
 ---
-# [[5. Mechanics/Bestiary/Elemental/Gargoyle.md|Gargoyle]]
+# [[5. Mechanics\Bestiary\Elemental\Gargoyle.md|Gargoyle]]
 *Source: Monster Manual p. 140, Curse of Strahd, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  
 
 The inanimate gargoyles that perch atop great buildings are inspired by these malevolent creatures of elemental earth that resemble grotesque, fiendish statues. A gargoyle lurks among masonry and ruins, as still as any stone sculpture, and delights in the terror it creates when it breaks from its suspended pose, as well as the pain it inflicts on its victims.
@@ -97,7 +98,7 @@ A gargoyle doesn't require air, food, drink, or sleep.
 - "JttRC"
 - "BMT"
 - "DoDk"
-"image": "5. Mechanics/Bestiary/Elemental/token/gargoyle.png"
+"image": "5. Mechanics/Bestiary/Elemental/token/gargoyle.webp"
 ```
 ^statblock
 

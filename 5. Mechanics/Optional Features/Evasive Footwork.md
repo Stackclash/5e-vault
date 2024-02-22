@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/phb
-- optional-feature/mv-b
-aliases: ["Evasive Footwork"]
+  - compendium/src/5e/phb
+  - optional-feature/mv-b
+aliases:
+  - Evasive Footwork
 ---
 # Evasive Footwork
 *Source: Player's Handbook p. 74*  

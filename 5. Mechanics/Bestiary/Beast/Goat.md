@@ -2,18 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/0
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/urban
-- monster/size/medium
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/0
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/beast
 statblock: inline
-aliases: ["Goat"]
+aliases:
+  - Goat
 ---
-# [[5. Mechanics/Bestiary/Beast/Goat.md|Goat]]
+# [[5. Mechanics\Bestiary\Beast\Goat.md|Goat]]
 *Source: Monster Manual p. 330, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -61,7 +62,7 @@ aliases: ["Goat"]
 - "IDRotF"
 - "WBtW"
 - "PaBTSO"
-"image": "5. Mechanics/Bestiary/Beast/token/goat.png"
+"image": "5. Mechanics/Bestiary/Beast/token/goat.webp"
 ```
 ^statblock
 

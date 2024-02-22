@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/ranger
-- spell/level/3
-- spell/school/transmutation
-aliases: ["Lightning Arrow"]
+  - compendium/src/5e/phb
+  - spell/class/ranger
+  - spell/level/3
+  - spell/school/transmutation
+aliases:
+  - Lightning Arrow
 ---
 # Lightning Arrow
+%%-- Embedded content starts on the next line. --%%
 *3rd-level, Transmutation*  
 
 - **Casting time:** 1 bonus

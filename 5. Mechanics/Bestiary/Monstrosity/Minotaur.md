@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/3
-- monster/environment/underdark
-- monster/size/large
-- monster/type/monstrosity
+  - compendium/src/5e/mm
+  - monster/cr/3
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Minotaur"]
+aliases:
+  - Minotaur
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Minotaur.md|Minotaur]]
+# [[5. Mechanics\Bestiary\Monstrosity\Minotaur.md|Minotaur]]
 *Source: Monster Manual p. 223, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  
 
 A minotaur's roar is a savage battle cry that most civilized creatures fear. Born into the mortal realm by demonic rites, minotaurs are savage conquerors and carnivores that live for the hunt. Their brown or black fur is stained with the blood of fallen foes, and they carry the stench of death.
@@ -87,7 +88,7 @@ Although they begin as creations of the Horned King, minotaurs can breed true wi
 - "CRCotN"
 - "PSZ"
 - "SatO"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/minotaur.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/minotaur.webp"
 ```
 ^statblock
 

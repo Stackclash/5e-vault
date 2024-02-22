@@ -1,32 +1,34 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: null
 condition: healthy
 relationships: []
-tags: 
+tags: null
 aliases: []
-pronounced: 
-race: 
-gender: 
-age: 
+pronounced: null
+race: null
+gender: null
+age: null
 alignment: Chaotic Evil
-occupation: [] 
+occupation: []
 groups: []
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
-> ![[4. World Almanac/NPCs/img/emil-toranescu.webp|cover hm-sm]] 
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```
 > ###### Bio
 >  |
 >  ---|---|
@@ -104,7 +106,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 
 ## Stats
 ```statblock
-"name": "Emil Toranescu (CoS)"
+"name": "Emil Toranescu"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "human, shapechanger"
@@ -134,8 +136,8 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ than its AC, are the same in each form. Any equipment it is wearing or carrying\
     \ isn't transformed. It reverts to its true form if it dies."
   "name": "Shapechanger"
-- "desc": "Emil has advantage on Wisdom (Perception) checks that rely on hearing or\
-    \ smell."
+- "desc": "Emil has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+    \ checks that rely on hearing or smell."
   "name": "Keen Hearing and Smell"
 "actions":
 - "desc": "Emil makes two attacks: two with its spear (humanoid form) or one with\
@@ -156,7 +158,7 @@ await dv.view("npcRelationships", { current: dv.current() })
   "name": "Spear (Humanoid Form Only)"
 "source":
 - "CoS"
-"image": "4. World Almanac/NPCs/token/emil-toranescu.png"
+"image": "4. World Almanac/NPCs/token/emil-toranescu-cos.webp"
 ```
 ^statblock
 

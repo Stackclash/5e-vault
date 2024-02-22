@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/17
-- monster/environment/forest
-- monster/environment/grassland
-- monster/size/huge
-- monster/type/dragon
+  - compendium/src/5e/mm
+  - monster/cr/17
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/size/huge
+  - monster/type/dragon
 statblock: inline
-aliases: ["Adult Gold Dragon"]
+aliases:
+  - Adult Gold Dragon
 ---
-# [[5. Mechanics/Bestiary/Dragon/Adult Gold Dragon.md|Adult Gold Dragon]]
+# [[5. Mechanics\Bestiary\Dragon\Adult Gold Dragon.md|Adult Gold Dragon]]
 *Source: Monster Manual p. 114. Available in the SRD.*  
 
 The most powerful and majestic of the metallic dragons, gold dragons are dedicated foes of evil.
@@ -173,7 +174,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "GoS"
 - "EGW"
 - "JttRC"
-"image": "5. Mechanics/Bestiary/Dragon/token/adult-gold-dragon.png"
+"image": "5. Mechanics/Bestiary/Dragon/token/adult-gold-dragon.webp"
 ```
 ^statblock
 

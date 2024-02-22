@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/wealth
-aliases: 
-- "Obsidian"
+  - compendium/src/5e/dmg
+  - item/wealth
+aliases:
+  - Obsidian
 cost: 1000
 ---
 # Obsidian
-*Treasure*  
+*Gemstone*  
 
 - **Cost**: 10 gp
 

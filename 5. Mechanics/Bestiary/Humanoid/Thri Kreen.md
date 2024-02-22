@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1
-- monster/environment/desert
-- monster/environment/grassland
-- monster/size/medium
-- monster/type/humanoid/thri-kreen
+  - compendium/src/5e/mm
+  - monster/cr/1
+  - monster/environment/desert
+  - monster/environment/grassland
+  - monster/size/medium
+  - monster/type/humanoid/thri-kreen
 statblock: inline
-aliases: ["Thri-kreen"]
+aliases:
+  - Thri-kreen
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Thri Kreen.md|Thri-kreen]]
+# [[5. Mechanics\Bestiary\Humanoid\Thri Kreen.md|Thri-kreen]]
 *Source: Monster Manual p. 288*  
 
 Thri-kreen wander the deserts and savannas of the world, avoiding all other races.
@@ -35,7 +36,7 @@ Thri-kreen consider all other living creatures as potential nourishment, and the
 Thri-kreen don't require sleep and can rest while remaining alert and performing light tasks. Their inability to sleep is thought to be the reason why thri-kreen have such short lifespans, the average thri-kreen life expectancy being only thirty years.
 
 ```statblock
-"name": "Thri-kreen"
+"name": "Thri Kreen"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "thri-kreen"
@@ -61,7 +62,7 @@ Thri-kreen don't require sleep and can rest while remaining alert and performing
 "traits":
 - "desc": "The thri-kreen can change the color of its carapace to match the color\
     \ and texture of its surroundings. As a result, it has advantage on Dexterity\
-    \ (Stealth) checks made to hide."
+    \ ([[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]) checks made to hide."
   "name": "Chameleon Carapace"
 - "desc": "The thri-kreen's long jump is up to 30 feet and its high jump is up to\
     \ 15 feet, with or without a running start."
@@ -84,7 +85,7 @@ Thri-kreen don't require sleep and can rest while remaining alert and performing
 - "MM"
 - "JttRC"
 - "LoX"
-"image": "5. Mechanics/Bestiary/Humanoid/token/thri-kreen.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/thri-kreen.webp"
 ```
 ^statblock
 

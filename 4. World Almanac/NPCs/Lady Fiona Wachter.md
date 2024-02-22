@@ -1,33 +1,36 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: "[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]"
+location: '[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]'
 condition: healthy
 relationships:
   - Nikolai Wachter|son
   - Stella Wachter|daughter
-tags: 
-aliases: 
-pronounced: 
-race: "[[5. Mechanics/Races/Human.md|Human]]"
+tags: null
+aliases: null
+pronounced: null
+race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: female
-age: 
+age: null
 alignment: Lawful Evil
-occupation: [] 
-groups: 
-religions: 
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+occupation: []
+groups: null
+religions: null
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```
 > ###### Bio
 >  |
 >  ---|---|
@@ -105,7 +108,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 
 ## Stats
 ```statblock
-"name": "Lady Fiona Wachter (CoS)"
+"name": "Lady Fiona Wachter"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "human"
@@ -131,10 +134,13 @@ await dv.view("npcRelationships", { current: dv.current() })
 "traits":
 - "desc": "Fiona is a 5th-level spellcaster. Her spellcasting ability is Wisdom (spell\
     \ save DC 13, dice: d20+5 (+5 to hit) with spell attacks). Fiona has the following\
-    \ cleric spells prepared:\n\nCantrips (at will): light, mending, thaumaturgy\n\
-    \n1st level (4 slots): command, purify food and drink, sanctuary\n\n2nd\
-    \ level (3 slots): augury, gentle repose, hold person\n\n3rd level (2 slots):\
-    \ animate dead, create food and water"
+    \ cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Light.md|light]],\
+    \ [[5. Mechanics/Spells/Mending.md|mending]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
+    \n1st level (4 slots): [[5. Mechanics/Spells/Command.md|command]], [purify food\
+    \ and drink](compendium/spells/purify-food-and-drink.md), [[5. Mechanics/Spells/Sanctuary.md|sanctuary]]\n\
+    \n2nd level (3 slots): [[5. Mechanics/Spells/Augury.md|augury]], [[5. Mechanics/Spells/Gentle Repose.md|gentle repose]],\
+    \ [[5. Mechanics/Spells/Hold Person.md|hold person]]\n\n3rd level (2 slots):\
+    \ [[5. Mechanics/Spells/Animate Dead.md|animate dead]], [[5. Mechanics/Spells/Create Food And Water.md|create food and water]]"
   "name": "spells"
 - "desc": "As a bonus action, Fiona can expend a spell slot to cause its melee weapon\
     \ attacks to magically deal an extra dice: 3d6|avg (3d6) radiant damage to\
@@ -148,7 +154,7 @@ await dv.view("npcRelationships", { current: dv.current() })
   "name": "Mace"
 "source":
 - "CoS"
-"image": "4. World Almanac/NPCs/token/lady-fiona-wachter.png"
+"image": "4. World Almanac/NPCs/token/lady-fiona-wachter-cos.webp"
 ```
 ^statblock
 

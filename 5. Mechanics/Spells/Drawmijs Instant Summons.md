@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/wizard
-- spell/level/6
-- spell/ritual
-- spell/school/conjuration
-aliases: ["Drawmij's Instant Summons"]
+  - compendium/src/5e/phb
+  - spell/class/wizard
+  - spell/level/6
+  - spell/ritual
+  - spell/school/conjuration
+aliases:
+  - Drawmij's Instant Summons
 ---
 # Drawmij's Instant Summons
+%%-- Embedded content starts on the next line. --%%
 *6th-level, Conjuration (ritual)*  
 
 - **Casting time:** 1 minute unless cast as a ritual

@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-- compendium/src/5e/hhhvi
-- compendium/src/5e/hhhviii
-- compendium/src/5e/phb
-- compendium/src/5e/vrgr
-aliases: ["Diseases"]
+  - compendium/src/5e/dmg
+  - compendium/src/5e/hhhvi
+  - compendium/src/5e/hhhviii
+  - compendium/src/5e/phb
+  - compendium/src/5e/vrgr
+aliases:
+  - Diseases
 ---
 # Diseases
 

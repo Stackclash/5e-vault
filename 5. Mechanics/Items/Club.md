@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/property/light
-- item/weapon/simple/melee
-aliases: 
-- "Club"
+  - compendium/src/5e/phb
+  - item/property/light
+  - item/weapon/simple/melee
+aliases:
+  - Club
 cost: 10
 ---
 # Club

@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1
-- monster/environment/grassland
-- monster/size/medium
-- monster/type/construct
+  - compendium/src/5e/mm
+  - monster/cr/1
+  - monster/environment/grassland
+  - monster/size/medium
+  - monster/type/construct
 statblock: inline
-aliases: ["Scarecrow"]
+aliases:
+  - Scarecrow
 ---
-# [[5. Mechanics/Bestiary/Construct/Scarecrow.md|Scarecrow]]
+# [[5. Mechanics\Bestiary\Construct\Scarecrow.md|Scarecrow]]
 *Source: Monster Manual p. 268, Curse of Strahd*  
 
 At harvest time, when death revisits the twilit world and summer's blossoms bow their withered heads, eerie scarecrows loom in silent vigil over empty fields. With immortal patience, these stoic sentinels hold their posts through wind, storm, and flood, bound to their master's command, eager to terrify prey with its sackcloth visage and rend victims with its razor-sharp claws.
@@ -68,7 +69,7 @@ A scarecrow is animated by the bound spirit of a slain evil creature, granting i
 - "WDH"
 - "CM"
 - "KftGV"
-"image": "5. Mechanics/Bestiary/Construct/token/scarecrow.png"
+"image": "5. Mechanics/Bestiary/Construct/token/scarecrow.webp"
 ```
 ^statblock
 

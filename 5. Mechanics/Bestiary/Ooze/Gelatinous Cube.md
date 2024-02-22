@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/2
-- monster/environment/underdark
-- monster/size/large
-- monster/type/ooze
+  - compendium/src/5e/mm
+  - monster/cr/2
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/ooze
 statblock: inline
-aliases: ["Gelatinous Cube"]
+aliases:
+  - Gelatinous Cube
 ---
-# [[5. Mechanics/Bestiary/Ooze/Gelatinous Cube.md|Gelatinous Cube]]
+# [[5. Mechanics\Bestiary\Ooze\Gelatinous Cube.md|Gelatinous Cube]]
 *Source: Monster Manual p. 242, Eberron: Rising from the Last War. Available in the SRD.*  
 
 Gelatinous cubes scour dungeon passages in silent, predictable patterns, leaving perfectly clean paths in their wake. They consume living tissue while leaving bones and other materials undissolved.
@@ -55,9 +56,9 @@ A gelatinous cube is all but transparent, making it hard to spot until it attack
     \ smaller creatures inside it at a time."
   "name": "Ooze Cube"
 - "desc": "Even when the cube is in plain sight, it takes a successful DC 15 Wisdom\
-    \ (Perception) check to spot a cube that has neither moved nor attacked. A creature\
-    \ that tries to enter the cube's space while unaware of the cube is surprised\
-    \ by the cube."
+    \ ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]]) check to spot a cube\
+    \ that has neither moved nor attacked. A creature that tries to enter the cube's\
+    \ space while unaware of the cube is surprised by the cube."
   "name": "Transparent"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
@@ -86,7 +87,7 @@ A gelatinous cube is all but transparent, making it hard to spot until it attack
 - "WBtW"
 - "BMT"
 - "DoDk"
-"image": "5. Mechanics/Bestiary/Ooze/token/gelatinous-cube.png"
+"image": "5. Mechanics/Bestiary/Ooze/token/gelatinous-cube.webp"
 ```
 ^statblock
 

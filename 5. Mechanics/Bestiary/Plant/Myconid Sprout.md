@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/0
-- monster/environment/underdark
-- monster/size/small
-- monster/type/plant
+  - compendium/src/5e/mm
+  - monster/cr/0
+  - monster/environment/underdark
+  - monster/size/small
+  - monster/type/plant
 statblock: inline
-aliases: ["Myconid Sprout"]
+aliases:
+  - Myconid Sprout
 ---
-# [[5. Mechanics/Bestiary/Plant/Myconid Sprout.md|Myconid Sprout]]
+# [[5. Mechanics\Bestiary\Plant\Myconid Sprout.md|Myconid Sprout]]
 *Source: Monster Manual p. 230*  
 
 Myconids are intelligent, ambulatory fungi that live in the Underdark, seek enlightenment, and deplore violence. If approached peacefully, myconids gladly provide shelter or allow safe passage through their colonies.
@@ -68,7 +69,7 @@ Like other fungi, myconids reproduce by mundane sporing. They carefully control 
 - "WDMM"
 - "DoSI"
 - "BMT"
-"image": "5. Mechanics/Bestiary/Plant/token/myconid-sprout.png"
+"image": "5. Mechanics/Bestiary/Plant/token/myconid-sprout.webp"
 ```
 ^statblock
 

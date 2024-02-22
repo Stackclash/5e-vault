@@ -1,32 +1,35 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: null
 condition: healthy
 relationships:
   - Baron Vargas Vallakovich|husband
-tags: 
+tags: null
 aliases: []
-pronounced: 
-race: 
-gender: 
-age: 
+pronounced: null
+race: null
+gender: null
+age: null
 alignment: Lawful Good
-occupation: [] 
+occupation: []
 groups: []
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```
 > ###### Bio
 >  |
 >  ---|---|
@@ -104,7 +107,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 
 ## Stats
 ```statblock
-"name": "Lady Lydia Petrovna (CoS)"
+"name": "Lady Lydia Petrovna"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "human"
@@ -129,7 +132,7 @@ await dv.view("npcRelationships", { current: dv.current() })
   "name": "Club"
 "source":
 - "CoS"
-"image": "4. World Almanac/NPCs/token/lady-lydia-petrovna.png"
+"image": "4. World Almanac/NPCs/token/lady-lydia-petrovna-cos.webp"
 ```
 ^statblock
 

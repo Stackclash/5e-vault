@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-4
-- monster/environment/urban
-- monster/size/small
-- monster/type/elemental
+  - compendium/src/5e/mm
+  - monster/cr/1-4
+  - monster/environment/urban
+  - monster/size/small
+  - monster/type/elemental
 statblock: inline
-aliases: ["Smoke Mephit"]
+aliases:
+  - Smoke Mephit
 ---
-# [[5. Mechanics/Bestiary/Elemental/Smoke Mephit.md|Smoke Mephit]]
+# [[5. Mechanics\Bestiary\Elemental\Smoke Mephit.md|Smoke Mephit]]
 *Source: Monster Manual p. 217, Curse of Strahd*  
 
 ## Mephits
@@ -77,7 +78,7 @@ Smoke mephits are crude, lazy creatures of air and fire that billow smoke consta
 - "WDMM"
 - "KftGV"
 - "ToFW"
-"image": "5. Mechanics/Bestiary/Elemental/token/smoke-mephit.png"
+"image": "5. Mechanics/Bestiary/Elemental/token/smoke-mephit.webp"
 ```
 ^statblock
 

@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/5
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/elemental
+  - compendium/src/5e/mm
+  - monster/cr/5
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/elemental
 statblock: inline
-aliases: ["Xorn"]
+aliases:
+  - Xorn
 ---
-# [[5. Mechanics/Bestiary/Elemental/Xorn.md|Xorn]]
+# [[5. Mechanics\Bestiary\Elemental\Xorn.md|Xorn]]
 *Source: Monster Manual p. 304. Available in the SRD.*  
 
 Bizarre creatures native to the Elemental Plane of Earth, xorn sniff out gemstones and precious metals, then tunnel through earth and rock to consume those treasures. On the Material Plane, xorn must range far and wide through the Underdark to sustain themselves, becoming aggressive toward miners and treasure hunters when the valuable minerals of their diet are scarce.
@@ -53,8 +54,8 @@ Possessed of the power of elemental earth, a xorn glides through stone and dirt 
 - "desc": "The xorn can burrow through nonmagical, unworked earth and stone. While\
     \ doing so, the xorn doesn't disturb the material it moves through."
   "name": "Earth Glide"
-- "desc": "The xorn has advantage on Dexterity (Stealth) checks made to hide in rocky\
-    \ terrain."
+- "desc": "The xorn has advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]])\
+    \ checks made to hide in rocky terrain."
   "name": "Stone Camouflage"
 - "desc": "The xorn can pinpoint, by scent, the location of precious metals and stones,\
     \ such as coins and gems, within 60 feet of it."
@@ -74,7 +75,7 @@ Possessed of the power of elemental earth, a xorn glides through stone and dirt 
 - "WDMM"
 - "PaBTSO"
 - "SatO"
-"image": "5. Mechanics/Bestiary/Elemental/token/xorn.png"
+"image": "5. Mechanics/Bestiary/Elemental/token/xorn.webp"
 ```
 ^statblock
 

@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/7
-- monster/size/large
-- monster/type/aberration
+  - compendium/src/5e/mm
+  - monster/cr/7
+  - monster/size/large
+  - monster/type/aberration
 statblock: inline
-aliases: ["Blue Slaad"]
+aliases:
+  - Blue Slaad
 ---
-# [[5. Mechanics/Bestiary/Aberration/Blue Slaad.md|Blue Slaad]]
+# [[5. Mechanics\Bestiary\Aberration\Blue Slaad.md|Blue Slaad]]
 *Source: Monster Manual p. 276*  
 
 The bone hooks that protrude from the back of a blue slaad's hands inflict a terrible transformative disease on humanoids wounded by them. This infection, called chaos phage, transforms its victim into a fully grown red slaad—or green slaad if the host was a spellcaster able to cast 3rd level spells or higher.
@@ -103,7 +104,7 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 - "IDRotF"
 - "PaBTSO"
 - "SatO"
-"image": "5. Mechanics/Bestiary/Aberration/token/blue-slaad.png"
+"image": "5. Mechanics/Bestiary/Aberration/token/blue-slaad.webp"
 ```
 ^statblock
 

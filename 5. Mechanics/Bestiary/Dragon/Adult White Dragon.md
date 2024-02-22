@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/13
-- monster/environment/arctic
-- monster/size/huge
-- monster/type/dragon
+  - compendium/src/5e/mm
+  - monster/cr/13
+  - monster/environment/arctic
+  - monster/size/huge
+  - monster/type/dragon
 statblock: inline
-aliases: ["Adult White Dragon"]
+aliases:
+  - Adult White Dragon
 ---
-# [[5. Mechanics/Bestiary/Dragon/Adult White Dragon.md|Adult White Dragon]]
+# [[5. Mechanics\Bestiary\Dragon\Adult White Dragon.md|Adult White Dragon]]
 *Source: Monster Manual p. 101. Available in the SRD.*  
 
 The smallest, least intelligent, and most animalistic of the chromatic dragons, white dragons dwell in frigid climes, favoring arctic areas or icy mountains. They are vicious, cruel reptiles driven by hunger and greed.
@@ -175,7 +176,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "GoS"
 - "BGDIA"
 - "EGW"
-"image": "5. Mechanics/Bestiary/Dragon/token/adult-white-dragon.png"
+"image": "5. Mechanics/Bestiary/Dragon/token/adult-white-dragon.webp"
 ```
 ^statblock
 

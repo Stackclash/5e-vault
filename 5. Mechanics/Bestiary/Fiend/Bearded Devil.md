@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/3
-- monster/size/medium
-- monster/type/fiend/devil
+  - compendium/src/5e/mm
+  - monster/cr/3
+  - monster/size/medium
+  - monster/type/fiend/devil
 statblock: inline
-aliases: ["Bearded Devil"]
+aliases:
+  - Bearded Devil
 ---
-# [[5. Mechanics/Bestiary/Fiend/Bearded Devil.md|Bearded Devil]]
+# [[5. Mechanics\Bestiary\Fiend\Bearded Devil.md|Bearded Devil]]
 *Source: Monster Manual p. 70. Available in the SRD.*  
 
 Bearded devils serve archdevils as shock troops, fighting shoulder-to-shoulder and reveling in the glory of battle. They respond with violence to any slight, real or imagined, gorging themselves on violence as their infernal saw-toothed glaives carve a path through their foes.
@@ -190,8 +191,8 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
     \ of its turns due to an infernal wound. Each time the devil hits the wounded\
     \ target with this attack, the damage dealt by the wound increases by dice: 1d10|avg\
     \ (1d10). Any creature can take an action to stanch the wound with a successful\
-    \ DC 12 Wisdom (Medicine) check. The wound also closes if the target receives\
-    \ magical healing."
+    \ DC 12 Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) check. The wound\
+    \ also closes if the target receives magical healing."
   "name": "Glaive"
 "source":
 - "MM"
@@ -203,7 +204,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - "IDRotF"
 - "BMT"
 - "DoDk"
-"image": "5. Mechanics/Bestiary/Fiend/token/bearded-devil.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/bearded-devil.webp"
 ```
 ^statblock
 

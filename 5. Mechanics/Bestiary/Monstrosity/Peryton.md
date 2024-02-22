@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/2
-- monster/environment/hill
-- monster/environment/mountain
-- monster/size/medium
-- monster/type/monstrosity
+  - compendium/src/5e/mm
+  - monster/cr/2
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/size/medium
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Peryton"]
+aliases:
+  - Peryton
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Peryton.md|Peryton]]
+# [[5. Mechanics\Bestiary\Monstrosity\Peryton.md|Peryton]]
 *Source: Monster Manual p. 251*  
 
 Although this monstrous carnivore feeds on any creature, it prefers humanoids, especially elves, half-elves, and humans. When it kills a humanoid, a peryton rips out its prey's heart and takes it back to its nest to be devoured.
@@ -81,7 +82,7 @@ Established settlements are attractive to perytons as a renewable food source. A
 - "IDRotF"
 - "WBtW"
 - "JttRC"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/peryton.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/peryton.webp"
 ```
 ^statblock
 

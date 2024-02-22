@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-4
-- monster/environment/grassland
-- monster/environment/hill
-- monster/size/large
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/1-4
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/size/large
+  - monster/type/beast
 statblock: inline
-aliases: ["Axe Beak"]
+aliases:
+  - Axe Beak
 ---
-# [[5. Mechanics/Bestiary/Beast/Axe Beak.md|Axe Beak]]
+# [[5. Mechanics\Bestiary\Beast\Axe Beak.md|Axe Beak]]
 *Source: Monster Manual p. 317. Available in the SRD and the Basic Rules.*  
 
 An axe beak is a tall flightless bird with strong legs and a heavy, wedge-shaped beak. It has a nasty disposition and tends to attack any unfamiliar creature that wanders too close.
@@ -46,7 +47,7 @@ An axe beak is a tall flightless bird with strong legs and a heavy, wedge-shaped
 - "WDH"
 - "GoS"
 - "IDRotF"
-"image": "5. Mechanics/Bestiary/Beast/token/axe-beak.png"
+"image": "5. Mechanics/Bestiary/Beast/token/axe-beak.webp"
 ```
 ^statblock
 

@@ -2,18 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/underdark
-- monster/size/small
-- monster/type/humanoid/goblinoid
+  - compendium/src/5e/mm
+  - monster/cr/1
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/underdark
+  - monster/size/small
+  - monster/type/humanoid/goblinoid
 statblock: inline
-aliases: ["Goblin Boss"]
+aliases:
+  - Goblin Boss
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Goblin Boss.md|Goblin Boss]]
+# [[5. Mechanics\Bestiary\Humanoid\Goblin Boss.md|Goblin Boss]]
 *Source: Monster Manual p. 166, Tasha's Cauldron of Everything*  
 
 Goblins are small, black-hearted, selfish humanoids that lair in caves, abandoned mines, despoiled dungeons, and other dismal settings. Individually weak, goblins gather in large-sometimes overwhelming-numbers. They crave power and regularly abuse whatever authority they obtain.
@@ -99,7 +100,7 @@ Maglubiyet the Mighty One, the Lord of Depths and Darkness, is the greater god o
 - "WBtW"
 - "KftGV"
 - "PaBTSO"
-"image": "5. Mechanics/Bestiary/Humanoid/token/goblin-boss.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/goblin-boss.webp"
 ```
 ^statblock
 

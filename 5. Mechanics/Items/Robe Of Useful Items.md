@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/uncommon
-- item/tier/minor
-- item/wondrous
-aliases: 
-- "Robe of Useful Items"
+  - compendium/src/5e/dmg
+  - item/rarity/uncommon
+  - item/tier/minor
+  - item/wondrous
+aliases:
+  - Robe of Useful Items
 ---
 # Robe of Useful Items
 *Wondrous Item, minor, uncommon*  
@@ -26,6 +26,8 @@ The robe has two of each of the following patches:
 - Sack  
 
 In addition, the robe has `dice: 4d4|avg` (`4d4`) other patches. The DM chooses the patches or determines them randomly.
+
+`dice: [[Robe Of Useful Items.md#^patch]]`
 
 | dice: d100 | Patch |
 |------------|-------|

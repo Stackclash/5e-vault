@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]"
+location: '[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]'
 condition: healthy
 relationships:
   - Strahd Von Zarovich|cousin
-tags: 
+tags: null
 aliases: []
 pronounced: ah-nah-STRAH-sya ka-REL-o-va
-race: "[[5. Mechanics/Races/Human.md|Human]]"
+race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: female
 age: 28
 alignment: Neutral Evil
@@ -17,19 +17,21 @@ groups:
   - Castle Ravenloft's Court
 religions:
   - Cult of Strahd
-personality: Aristocratic, manipulative, fiercely loyal to Strahd.
+personality: 'Aristocratic, manipulative, fiercely loyal to Strahd.'
 ideal: Power and status are everything; those without them are to be used as pawns.
 bond: Her allegiance to Strahd and her noble lineage
 flaw: Her overconfidence in her schemes and underestimation of others
-goals: To maintain her position of power, to serve Strahd's interests
-likes: Luxury, power, control over others
-dislikes: Disloyalty, failure, threats to her status
+goals: 'To maintain her position of power, to serve Strahd''s interests'
+likes: 'Luxury, power, control over others'
+dislikes: 'Disloyalty, failure, threats to her status'
 ---
 
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
-> ![[4. World Almanac/NPCs/img/anastrasya-karelova.webp|cover hm-sm]] 
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```
 > ###### Bio
 >  |
 >  ---|---|
@@ -107,7 +109,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 
 ## Stats
 ```statblock
-"name": "Anastrasya Karelova (CoS)"
+"name": "Anastrasya Karelova"
 "size": "Medium"
 "type": "undead"
 "alignment": "Neutral Evil"
@@ -145,21 +147,23 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ enter a residence without an invitation from one of the occupants.\n\nHarmed\
     \ by Running Water. Anastrasya takes 20 acid damage when it ends its turn in\
     \ running water.\n\nStake to the Heart. Anastrasya is destroyed if a piercing\
-    \ weapon made of wood is driven into its heart while it is incapacitated in its\
-    \ resting place.\n\nSunlight Hypersensitivity. Anastrasya takes 20 radiant damage\
-    \ when it starts its turn in sunlight. While in sunlight, it has disadvantage\
+    \ weapon made of wood is driven into its heart while it is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
+    \ in its resting place.\n\nSunlight Hypersensitivity. Anastrasya takes 20 radiant\
+    \ damage when it starts its turn in sunlight. While in sunlight, it has disadvantage\
     \ on attack rolls and ability checks."
   "name": "Vampire Weaknesses"
 "actions":
 - "desc": "Anastrasya makes two attacks, only one of which can be a bite attack."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one willing\
-    \ creature, or a creature that is grappled by Anastrasya, incapacitated, or restrained.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage plus dice: 2d6|avg\
-    \ (2d6) necrotic damage. The target's hit point maximum is reduced by an amount\
-    \ equal to the necrotic damage taken, and Anastrasya regains hit points equal\
-    \ to that amount. The reduction lasts until the target finishes a long rest. The\
-    \ target dies if this effect reduces its hit point maximum to 0."
+    \ creature, or a creature that is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ by Anastrasya, [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]],\
+    \ or [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]. Hit: dice: 1d6\
+    \ + 3|avg (1d6 + 3) piercing damage plus dice: 2d6|avg (2d6) necrotic damage.\
+    \ The target's hit point maximum is reduced by an amount equal to the necrotic\
+    \ damage taken, and Anastrasya regains hit points equal to that amount. The reduction\
+    \ lasts until the target finishes a long rest. The target dies if this effect\
+    \ reduces its hit point maximum to 0."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one creature.\
     \ Hit: dice: 2d4 + 3|avg (2d4 + 3) slashing damage. Instead of dealing damage,\
@@ -167,7 +171,7 @@ await dv.view("npcRelationships", { current: dv.current() })
   "name": "Claws"
 "source":
 - "CoS"
-"image": "4. World Almanac/NPCs/token/anastrasya-karelova.png"
+"image": "4. World Almanac/NPCs/token/anastrasya-karelova-cos.webp"
 ```
 ^statblock
 
@@ -182,4 +186,3 @@ TBD
 
 
 ### General Notes
-She is a [[5. Mechanics/Bestiary/Undead/Vampire|Vampire]] 

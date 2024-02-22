@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/wealth
-aliases: 
-- "Black Pearl"
+  - compendium/src/5e/dmg
+  - item/wealth
+aliases:
+  - Black Pearl
 cost: 50000
 ---
 # Black Pearl
-*Treasure*  
+*Gemstone*  
 
 - **Cost**: 500 gp
 

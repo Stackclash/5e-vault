@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/5
-- monster/environment/swamp
-- monster/size/huge
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/5
+  - monster/environment/swamp
+  - monster/size/huge
+  - monster/type/beast
 statblock: inline
-aliases: ["Giant Crocodile"]
+aliases:
+  - Giant Crocodile
 ---
-# [[5. Mechanics/Bestiary/Beast/Giant Crocodile.md|Giant Crocodile]]
+# [[5. Mechanics\Bestiary\Beast\Giant Crocodile.md|Giant Crocodile]]
 *Source: Monster Manual p. 324. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -61,7 +62,7 @@ aliases: ["Giant Crocodile"]
 - "ToFW"
 - "GHLoE"
 - "DoDk"
-"image": "5. Mechanics/Bestiary/Beast/token/giant-crocodile.png"
+"image": "5. Mechanics/Bestiary/Beast/token/giant-crocodile.webp"
 ```
 ^statblock
 

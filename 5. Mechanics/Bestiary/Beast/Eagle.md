@@ -2,18 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/0
-- monster/environment/coastal
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/size/small
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/0
+  - monster/environment/coastal
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/size/small
+  - monster/type/beast
 statblock: inline
-aliases: ["Eagle"]
+aliases:
+  - Eagle
 ---
-# [[5. Mechanics/Bestiary/Beast/Eagle.md|Eagle]]
+# [[5. Mechanics\Bestiary\Beast\Eagle.md|Eagle]]
 *Source: Monster Manual p. 322. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -49,7 +50,7 @@ aliases: ["Eagle"]
 - "MM"
 - "CM"
 - "ToFW"
-"image": "5. Mechanics/Bestiary/Beast/token/eagle.png"
+"image": "5. Mechanics/Bestiary/Beast/token/eagle.webp"
 ```
 ^statblock
 

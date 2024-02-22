@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/paladin/oath-of-conquest
-- spell/class/warlock
-- spell/level/1
-- spell/school/abjuration
-aliases: ["Armor of Agathys"]
+  - compendium/src/5e/phb
+  - spell/class/paladin/oath-of-conquest
+  - spell/class/warlock
+  - spell/level/1
+  - spell/school/abjuration
+aliases:
+  - Armor of Agathys
 ---
 # Armor of Agathys
+%%-- Embedded content starts on the next line. --%%
 *1st-level, Abjuration*  
 
 - **Casting time:** 1 action
@@ -21,6 +23,6 @@ A protective magical force surrounds you, manifesting as a spectral frost that c
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, both the temporary hit points and the cold damage increase by 5 for each slot level above 1st.
 
-**Classes**: [[5. Mechanics/Classes/Paladin Oath Of Conquest (XGE).md\|Paladin (Oath of Conquest)]], [[5. Mechanics/Classes/Warlock.md\|Warlock]]
+**Classes**: [[5. Mechanics/Classes/Paladin Oath Of Conquest.md\|Paladin (Oath of Conquest)]], [[5. Mechanics/Classes/Warlock.md\|Warlock]]
 
 *Source: Player's Handbook p. 215*

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/fighter
-- compendium/src/5e/phb
-aliases: ["Fighter"]
+  - class/fighter
+  - compendium/src/5e/phb
+aliases:
+  - Fighter
 ---
 # Fighter
 *Source: Player's Handbook p. 70. Available in the SRD and the Basic Rules.*  
@@ -56,9 +57,9 @@ You are proficient with the following items, in addition to any proficiencies pr
 
 You begin play with the following equipment, in addition to any equipment provided by your background.
 
-- (a) [[5. Mechanics/Items/Chain Mail.md\|chain mail]] or (b) [[5. Mechanics/Items/Leather Armor.md\|leather armor]], [[5. Mechanics/Items/Longbow.md\|longbow]], and [[5. Mechanics/Items/Arrows-20.md\|20 arrows]]  
+- (a) [[5. Mechanics/Items/Chain Mail.md\|chain mail]] or (b) [[5. Mechanics/Items/Leather Armor.md\|leather armor]], [[5. Mechanics/Items/Longbow.md\|longbow]], and [[5. Mechanics/Items/Arrows 20.md\|20 arrows]]  
 - (a) a martial weapon and a [[5. Mechanics/Items/Shield.md\|shield]] or (b) two martial weapons  
-- (a) a [[5. Mechanics/Items/Light Crossbow.md\|light crossbow]] and [[5. Mechanics/Items/Crossbow Bolts-20.md\|20 bolts]] or (b) two [[5. Mechanics/Items/Handaxe.md\|handaxes]]  
+- (a) a [[5. Mechanics/Items/Light Crossbow.md\|light crossbow]] and [[5. Mechanics/Items/Crossbow Bolts 20.md\|20 bolts]] or (b) two [[5. Mechanics/Items/Handaxe.md\|handaxes]]  
 - (a) a [[5. Mechanics/Items/Dungeoneers Pack.md\|dungeoneer's pack]] or (b) an [[5. Mechanics/Items/Explorers Pack.md\|explorer's pack]]  
 
 Alternatively, you may start with 5d4 × 10 gp and choose your own equipment.
@@ -124,6 +125,8 @@ Your character could be affiliated with an organization or a cause, and thus mig
 
 **Heraldic Signs**
 
+`dice: [[Fighter.md#^heraldic-signs]]`
+
 | dice: d6 | Heraldic Signs |
 |----------|----------------|
 | 1 | A rampant golden dragon on a green field, representing valor and a quest for wealth |
@@ -145,6 +148,8 @@ If you decide that your character had an individual instructor, what is that per
 
 **Instructor**
 
+`dice: [[Fighter.md#^instructor]]`
+
 | dice: d6 | Instructor |
 |----------|------------|
 | 1 | Gladiator. Your instructor was a slave who fought for freedom in the arena, or one who willingly chose the gladiator's life to earn money and fame. |
@@ -163,6 +168,8 @@ Many fighters distinguish themselves from their peers by adopting and perfecting
 Do you have a combat style that mirrors your outlook on life, or is something else inside you unleashed when weapons are drawn?
 
 **Style**
+
+`dice: [[Fighter.md#^style]]`
 
 | dice: d6 | Style |
 |----------|-------|
@@ -212,7 +219,7 @@ If your DM allows the use of feats, you may instead take a feat.
 ### Martial Versatility (Level 4)
 _Source: Tasha's Cauldron of Everything p. 41_
 
-*4th-level fighter [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+*4th-level fighter [[/5. Mechanics/Rules/Variant Rules/Optional Class Features.md\|optional class features]]*
 
 Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, as you shift the focus of your martial practice:
 

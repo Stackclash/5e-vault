@@ -1,15 +1,15 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
+location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
 condition: healthy
 relationships:
   - Luvash|brother
   - Arabelle|uncle
-tags: 
+tags: null
 aliases: []
 pronounced: AH-ri-gal
-race: 
+race: null
 gender: male
 age: 35
 alignment: Neutral Evil
@@ -18,19 +18,23 @@ occupation:
 groups:
   - Vistani
 religions: []
-personality: Charismatic, ruthless, cunning
-ideal: Loyalty to family and clan above all else, but personal gain is a close second.
+personality: 'Charismatic, ruthless, cunning'
+ideal: >-
+  Loyalty to family and clan above all else, but personal gain is a close
+  second.
 bond: His brother Luvash and niece Arabelle
 flaw: Greed and self-interest often overshadow his better judgement
-goals: To protect and serve his Vistani clan, to amass personal wealth and power
-likes: Wealth, power, the respect of his peers
-dislikes: The forces of Strahd (publicly), betrayal, weakness
+goals: 'To protect and serve his Vistani clan, to amass personal wealth and power'
+likes: 'Wealth, power, the respect of his peers'
+dislikes: 'The forces of Strahd (publicly), betrayal, weakness'
 ---
 
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
-> ![[4. World Almanac/NPCs/img/arrigal.webp|cover hm-sm]] 
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```
 > ###### Bio
 >  |
 >  ---|---|
@@ -108,7 +112,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 
 ## Stats
 ```statblock
-"name": "Arrigal (CoS)"
+"name": "Arrigal"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "human"
@@ -147,8 +151,8 @@ await dv.view("npcRelationships", { current: dv.current() })
   "name": "Evasion"
 - "desc": "Arrigal deals an extra dice: 4d6|avg (4d6) damage when it hits a target\
     \ with a weapon attack and has advantage on the attack roll, or when the target\
-    \ is within 5 feet of an ally of Arrigal that isn't incapacitated and Arrigal\
-    \ doesn't have disadvantage on the attack roll."
+    \ is within 5 feet of an ally of Arrigal that isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
+    \ and Arrigal doesn't have disadvantage on the attack roll."
   "name": "Sneak Attack (1/Turn)"
 "actions":
 - "desc": "Arrigal makes two shortsword attacks."
@@ -163,36 +167,9 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ must make a DC 15 Constitution saving throw, taking dice: 7d6|avg (7d6)\
     \ poison damage on a failed save, or half as much damage on a successful one."
   "name": "Light Crossbow"
-- "desc": "11\n\n- The target is unable to perform a certain kind of act involving\
-    \ fine motor control, such as tying knots, writing, playing an instrument, sewing,\
-    \ or casting spells that have somatic components. When this curse ends, the Vistana\
-    \ takes dice: 1d6|avg (1d6) psychic damage.  \n- The target's appearance changes\
-    \ in a sinister yet purely cosmetic way. For example, the curse can place a scar\
-    \ on the target's face, turn the target's teeth into yellow fangs, or give the\
-    \ target bad breath. When this curse ends, the Vistana takes dice: 1d6|avg (1d6)\
-    \ psychic damage.  \n- A nonmagical item in the target's possession (chosen by\
-    \ the DM) disappears and can't be found until the curse ends. The lost item can\
-    \ weigh no more than 1 pound. When this curse ends, the Vistana takes dice: 1d6|avg\
-    \ (1d6) psychic damage.  \n- The target gains vulnerability to a damage type\
-    \ of the Vistana's choice. When this curse ends, the Vistana takes dice: 3d6|avg\
-    \ (3d6) psychic damage.  \n- The target has disadvantage on ability checks and\
-    \ saving throws tied to one ability score of the Vistana's choice. When this curse\
-    \ ends, the Vistana takes dice: 3d6|avg (3d6) psychic damage.  \n- The target's\
-    \ attunement to one magic item (chosen by the DM) ends, and the target can't attune\
-    \ to the chosen item until the curse ends. When this curse ends, the Vistana takes\
-    \ dice: 5d6|avg (5d6) psychic damage.  \n- The target is blinded, deafened,\
-    \ or both. When this curse ends, the Vistana takes dice: 5d6|avg (5d6) psychic\
-    \ damage.  \n\nThe curse lasts until ended with a greater restoration spell, a\
-    \ remove curse spell, or similar magic. It doesn't end when the target dies. If\
-    \ a cursed target is returned to life, the curse remains in effect."
-  "name": "Curse (Recharges After a Long Rest)"
-- "desc": "11\n\nA Vistana who uses Evil Eye can't use it again before finishing a\
-    \ short or long rest. Once a target succeeds on a saving throw against a Vistana's\
-    \ Evil Eye, it is immune to the Evil Eye of all Vistani for 24 hours."
-  "name": "Evil Eye (Recharges after a Short or Long Rest)"
 "source":
 - "CoS"
-"image": "4. World Almanac/NPCs/token/arrigal.png"
+"image": "4. World Almanac/NPCs/token/arrigal-cos.webp"
 ```
 ^statblock
 

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/cos
-aliases: ["Appendix D: Monsters and NPCs"]
+  - compendium/src/5e/cos
+aliases:
+  - 'Appendix D: Monsters and NPCs'
 ---
 # Appendix D: Monsters and NPCs
 *Source: Curse of Strahd, p. 225* 
@@ -109,11 +110,11 @@ A broom of animated attack is easily mistaken for a [[5. Mechanics/Items/Broom O
 
 ##### Flying Broom
 
-Some [[5. Mechanics/Bestiary/Construct/Broom Of Animated Attack (COS).md|brooms of animated attack]] allow their creators to ride them, in which case they behave like typical [[5. Mechanics/Items/Broom Of Flying.md|brooms of flying]]. A broom of animated attack, however, can carry only half the weight that a [[5. Mechanics/Items/Broom Of Flying.md|broom of flying]] can (see chapter 7, ""Treasure"," of the "Dungeon Master's Guide").
+Some [[5. Mechanics/Bestiary/Construct/Broom Of Animated Attack.md|brooms of animated attack]] allow their creators to ride them, in which case they behave like typical [[5. Mechanics/Items/Broom Of Flying.md|brooms of flying]]. A broom of animated attack, however, can carry only half the weight that a [[5. Mechanics/Items/Broom Of Flying.md|broom of flying]] can (see chapter 7, ""Treasure"," of the "Dungeon Master's Guide").
 
 #### Guardian Portrait
 
-A [[5. Mechanics/Bestiary/Construct/Guardian Portrait (COS).md|guardian portrait]] looks like a finely rendered and beautifully framed work of art, usually depicting someone important in a realistic manner. The picture and its frame are bound with powerful magic and are inseparable.
+A [[5. Mechanics/Bestiary/Construct/Guardian Portrait.md|guardian portrait]] looks like a finely rendered and beautifully framed work of art, usually depicting someone important in a realistic manner. The picture and its frame are bound with powerful magic and are inseparable.
 
 ##### Living Image
 
@@ -121,7 +122,7 @@ The eyes of the figure depicted in the painting are imbued with [[/5. Mechanics/
 
 ##### Innate Spells
 
-When a [[5. Mechanics/Bestiary/Construct/Guardian Portrait (COS).md|guardian portrait]] attacks, the figure in the painting animates and moves as though alive (albeit in two dimensions). The guardian portrait has no effective melee attacks, but it has a repertoire of innate spells that it can cast. When it casts a spell, the figure painted on the canvas makes all the appropriate somatic gestures and verbal incantations for the spell.
+When a [[5. Mechanics/Bestiary/Construct/Guardian Portrait.md|guardian portrait]] attacks, the figure in the painting animates and moves as though alive (albeit in two dimensions). The guardian portrait has no effective melee attacks, but it has a repertoire of innate spells that it can cast. When it casts a spell, the figure painted on the canvas makes all the appropriate somatic gestures and verbal incantations for the spell.
 
 #### Strahd's Animated Armor
 
@@ -179,7 +180,7 @@ The goddess Mother Night has bestowed magical gifts on [[4. World Almanac/NPCs/B
 
 ### Barovian Witch
 
-The mad women and men known as [[5. Mechanics/Bestiary/Humanoid/Barovian Witch (COS).md|Barovian witches]] forge pacts with Strahd and the Dark Powers of Ravenloft in exchange for magic and longevity. They prefer to live in the shadows and can see in the dark. When traveling in the open, they use [[5. Mechanics/Spells/Alter Self.md|alter self]] spells to assume less conspicuous forms. They also use these spells to grow long, sharp claws with which they can attack.
+The mad women and men known as [[5. Mechanics/Bestiary/Humanoid/Barovian Witch.md|Barovian witches]] forge pacts with Strahd and the Dark Powers of Ravenloft in exchange for magic and longevity. They prefer to live in the shadows and can see in the dark. When traveling in the open, they use [[5. Mechanics/Spells/Alter Self.md|alter self]] spells to assume less conspicuous forms. They also use these spells to grow long, sharp claws with which they can attack.
 
 #### Brothers and Sisters of Strahd
 
@@ -203,7 +204,7 @@ A tree blight feeds on warm-blooded prey and takes perverse delight in causing c
 
 #### Blight Animosity
 
-A [[5. Mechanics/Bestiary/Plant/Tree Blight (COS).md|tree blight]] will often fight alongside other kinds of blights, but it hates other tree blights and will attack them given the chance. Tree blights also hate treants, and the feeling is mutual.
+A [[5. Mechanics/Bestiary/Plant/Tree Blight.md|tree blight]] will often fight alongside other kinds of blights, but it hates other tree blights and will attack them given the chance. Tree blights also hate treants, and the feeling is mutual.
 
 ### Ezmerelda d'Avenir
 
@@ -217,7 +218,7 @@ Van Richten tracked down Ezmerelda's family soon after the kidnapping, but not b
 
 #### Van Richten's Tragic Tale
 
-At the age of fifteen, Ezmerelda, still troubled by what her family had done to van Richten, ran away from home. After many harrowing adventures, she tracked down van Richten two years later. Thinking she was a [[5. Mechanics/Bestiary/Humanoid/Vistana Assassin (COS).md|Vistana assassin]], he put a sword to her throat and threatened to spill her blood. Ezmerelda convinced him that she genuinely wanted to help him find his missing son, whereupon van Richten told her the saddest of tales. He had found his son, who had been transformed into a vampire spawn. When Erasmus pleaded to his father for salvation, van Richten granted his request by ending his existence.
+At the age of fifteen, Ezmerelda, still troubled by what her family had done to van Richten, ran away from home. After many harrowing adventures, she tracked down van Richten two years later. Thinking she was a [[5. Mechanics/Bestiary/Humanoid/Vistana Assassin.md|Vistana assassin]], he put a sword to her throat and threatened to spill her blood. Ezmerelda convinced him that she genuinely wanted to help him find his missing son, whereupon van Richten told her the saddest of tales. He had found his son, who had been transformed into a vampire spawn. When Erasmus pleaded to his father for salvation, van Richten granted his request by ending his existence.
 
 #### Farewell
 
@@ -233,7 +234,7 @@ While in the company of a Vistani caravan, Ezmerelda heard a rumor that Rudolph 
 
 #### Tarokka Deck
 
-Ezmerelda keeps a [[5. Mechanics/Decks/Tarokka Deck (COS).md|deck of tarokka cards]] in her wagon (chapter 11, area V1). Although the cards aren't magical, Ezmerelda can use them to perform a card reading for the characters (see chapter 1), like the one that can be performed by [[4. World Almanac/NPCs/Madam Eva.md|Madam Eva]].
+Ezmerelda keeps a [[5. Mechanics/Decks/Tarokka Deck.md|deck of tarokka cards]] in her wagon (chapter 11, area V1). Although the cards aren't magical, Ezmerelda can use them to perform a card reading for the characters (see chapter 1), like the one that can be performed by [[4. World Almanac/NPCs/Madam Eva.md|Madam Eva]].
 
 #### Ezmerelda d'Avenir's Traits
 
@@ -370,7 +371,7 @@ None of [[4. World Almanac/NPCs/Madam Eva.md|Madam Eva]]'s Vistani kin know her 
 
 ### Mongrelfolk
 
-[[5. Mechanics/Bestiary/Humanoid/Mongrelfolk (COS).md|Mongrelfolk]] are humanoids that have undergone, or whose ancestors underwent, horrific magical transformations, to the extent that they retain only a fraction of their original being. Their humanoid bodies incorporate the features of various beasts. For example, one mongrelfolk might have the basic body shape of a dwarf with a head that combines the features of a cat and a lizard, one arm that ends in a crab's pincer, and one leg that ends in a cloven hoof. Another might have the skin and horns of a cow, the eyes of a spider, frog's legs, and a scaly lizard's tail. Each mongrelfolk's mad combination of humanoid and animal forms results in its having a slow, awkward gait.
+[[5. Mechanics/Bestiary/Humanoid/Mongrelfolk.md|Mongrelfolk]] are humanoids that have undergone, or whose ancestors underwent, horrific magical transformations, to the extent that they retain only a fraction of their original being. Their humanoid bodies incorporate the features of various beasts. For example, one mongrelfolk might have the basic body shape of a dwarf with a head that combines the features of a cat and a lizard, one arm that ends in a crab's pincer, and one leg that ends in a cloven hoof. Another might have the skin and horns of a cow, the eyes of a spider, frog's legs, and a scaly lizard's tail. Each mongrelfolk's mad combination of humanoid and animal forms results in its having a slow, awkward gait.
 
 #### Sound Mimicry
 
@@ -394,7 +395,7 @@ Mongrelfolk can breed with other humanoids, but nearly all children born to such
 
 ### Phantom Warrior
 
-A [[5. Mechanics/Bestiary/Undead/Phantom Warrior (COS).md|phantom warrior]] is the spectral remnant of a willful soldier or knight who perished on the battlefield or died performing its sworn duty. It appears like a translucent version of its living self.
+A [[5. Mechanics/Bestiary/Undead/Phantom Warrior.md|phantom warrior]] is the spectral remnant of a willful soldier or knight who perished on the battlefield or died performing its sworn duty. It appears like a translucent version of its living self.
 
 #### Task Driven
 
@@ -554,11 +555,13 @@ Whenever Strahd appears in a location other than his tomb or the place indicated
 
 **Strahd's Minions**
 
+`dice: [[22 Appendix D Monsters And Npcs.md#^strahds-minions]]`
+
 | dice: d20 | Creatures |
 |-----------|-----------|
 | 1–3 | `dice: 1d4 + 2\|avg` (`1d4 + 2`) [[5. Mechanics/Bestiary/Beast/Dire Wolf.md|dire wolves]] |
 | 4–6 | `dice: 1d6 + 3\|avg` (`1d6 + 3`) [[5. Mechanics/Bestiary/Undead/Ghoul.md|ghouls]] |
-| 7–9 | `dice: 1d4 + 2\|avg` (`1d4 + 2`) [[5. Mechanics/Bestiary/Undead/Strahd Zombie (COS).md|Strahd zombies]] (in this appendix) |
+| 7–9 | `dice: 1d4 + 2\|avg` (`1d4 + 2`) [[5. Mechanics/Bestiary/Undead/Strahd Zombie.md|Strahd zombies]] (in this appendix) |
 | 10–12 | `dice: 2d4\|avg` (`2d4`) [[5. Mechanics/Bestiary/Beast/Swarm Of Bats.md|swarms of bats]] |
 | 13–15 | `dice: 1d4 + 1\|avg` (`1d4 + 1`) [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md|vampire spawns]] |
 | 16–18 | `dice: 3d6\|avg` (`3d6`) [[5. Mechanics/Bestiary/Beast/Wolf.md|wolves]] |
@@ -592,7 +595,7 @@ On initiative count 20 (losing initiative ties), Strahd can take one of the foll
 
 ### Strahd Zombie
 
-[[5. Mechanics/Bestiary/Undead/Strahd Zombie (COS).md|Strahd zombies]] are undead that serve the vampire [[4. World Almanac/NPCs/Strahd Von Zarovich.md|Strahd von Zarovich]]. Created from the long-dead guards of Castle Ravenloft, they were called into being through dark magic by Strahd himself.
+[[5. Mechanics/Bestiary/Undead/Strahd Zombie.md|Strahd zombies]] are undead that serve the vampire [[4. World Almanac/NPCs/Strahd Von Zarovich.md|Strahd von Zarovich]]. Created from the long-dead guards of Castle Ravenloft, they were called into being through dark magic by Strahd himself.
 
 #### Loathsome Limbs
 
@@ -604,7 +607,7 @@ A Strahd zombie doesn't require air or sleep.
 
 ### Vladimir Horngaard
 
-[[4. World Almanac/NPCs/Vladimir Horngaard.md|Vladimir Horngaard]] joined the Order of the Silver Dragon at a young age and quickly earned the friendship of its founder, the silver dragon Argynvost. When he became a [[5. Mechanics/Bestiary/Undead/Knight Of The Order (COS).md|knight of the order]], he traveled to distant lands to wage war against the forces of evil. The dragon stayed home and, in the guise of a human noble named Lord Argynvost, brought new initiates into the order.
+[[4. World Almanac/NPCs/Vladimir Horngaard.md|Vladimir Horngaard]] joined the Order of the Silver Dragon at a young age and quickly earned the friendship of its founder, the silver dragon Argynvost. When he became a [[5. Mechanics/Bestiary/Undead/Knight Of The Order.md|knight of the order]], he traveled to distant lands to wage war against the forces of evil. The dragon stayed home and, in the guise of a human noble named Lord Argynvost, brought new initiates into the order.
 
 #### Enemies of Strahd
 
@@ -651,7 +654,7 @@ Were Vladimir to let go of his hatred, his spirit would find peace and could rem
 
 ### Wereraven
 
-[[5. Mechanics/Bestiary/Humanoid/Wereraven (VRGR).md|Wereravens]] are secretive and extraordinarily cautious lycanthropes that trust one another but are wary of just about everyone else. Although skilled at blending into society, they keep mostly to themselves, respect local laws, and strive to do good whenever possible.
+[[5. Mechanics/Bestiary/Humanoid/Wereraven.md|Wereravens]] are secretive and extraordinarily cautious lycanthropes that trust one another but are wary of just about everyone else. Although skilled at blending into society, they keep mostly to themselves, respect local laws, and strive to do good whenever possible.
 
 In their human and hybrid forms, wereravens favor light weapons. They are reluctant to make bite attacks in raven form for fear of spreading their curse to those who don't deserve it or who would abuse it.
 

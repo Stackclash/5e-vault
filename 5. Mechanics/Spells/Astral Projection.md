@@ -2,17 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/class/monk
-- spell/class/sorcerer/divine-soul
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/9
-- spell/school/necromancy
-aliases: ["Astral Projection"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/class/monk
+  - spell/class/sorcerer/divine-soul
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/9
+  - spell/school/necromancy
+aliases:
+  - Astral Projection
 ---
 # Astral Projection
+%%-- Embedded content starts on the next line. --%%
 *9th-level, Necromancy*  
 
 - **Casting time:** 1 hour
@@ -32,6 +34,6 @@ The spell might also end early for you or one of your companions. A successful [
 
 If you are returned to your body prematurely, your companions remain in their astral forms and must find their own way back to their bodies, usually by dropping to 0 hit points.
 
-**Classes**: [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Monk.md\|Monk]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Warlock.md\|Warlock]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Monk.md\|Monk]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Warlock.md\|Warlock]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 215. Available in the SRD and the Basic Rules.*

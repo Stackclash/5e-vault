@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-2
-- monster/environment/underdark
-- monster/size/small
-- monster/type/humanoid/gnome
+  - compendium/src/5e/mm
+  - monster/cr/1-2
+  - monster/environment/underdark
+  - monster/size/small
+  - monster/type/humanoid/gnome
 statblock: inline
-aliases: ["Deep Gnome (Svirfneblin)"]
+aliases:
+  - Deep Gnome (Svirfneblin)
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Deep Gnome Svirfneblin.md|Deep Gnome (Svirfneblin)]]
+# [[5. Mechanics\Bestiary\Humanoid\Deep Gnome Svirfneblin.md|Deep Gnome (Svirfneblin)]]
 *Source: Monster Manual p. 164. Available in the SRD.*  
 
 Deep gnomes, or svirfneblin, live far below the world's surface in twisting warrens and sculpted caverns. They survive by virtue of their stealth, cleverness, and tenacity. Their gray skin allows them to blend in with surrounding stonework. They are also surprisingly heavy and strong for their size. An average adult weighs 100 to 120 pounds and stands 3 feet tall.
@@ -30,7 +31,7 @@ Svirfneblin cherish fine gemstones, especially rubies, which they harvest from m
 Deep gnomes are often encountered in the company of creatures from the Elemental Plane of Earth. Some svirfneblin can summon such creatures. Earth creatures guard svirfneblin settlements, especially xorn enticed to service with the promise of gems to feed on.
 
 ```statblock
-"name": "Deep Gnome (Svirfneblin)"
+"name": "Deep Gnome Svirfneblin"
 "size": "Small"
 "type": "humanoid"
 "subtype": "gnome"
@@ -60,8 +61,8 @@ Deep gnomes are often encountered in the company of creatures from the Elemental
     \n1/day each: [blindness/deafness](compendium/spells/blindness-deafness.md),\
     \ [[5. Mechanics/Spells/Blur.md|blur]], [[5. Mechanics/Spells/Disguise Self.md|disguise self]]"
   "name": "innate"
-- "desc": "The gnome has advantage on Dexterity (Stealth) checks made to hide in rocky\
-    \ terrain."
+- "desc": "The gnome has advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]])\
+    \ checks made to hide in rocky terrain."
   "name": "Stone Camouflage"
 - "desc": "The gnome has advantage on Intelligence, Wisdom, and Charisma saving throws\
     \ against magic."
@@ -83,7 +84,7 @@ Deep gnomes are often encountered in the company of creatures from the Elemental
 - "WDMM"
 - "KftGV"
 - "PaBTSO"
-"image": "5. Mechanics/Bestiary/Humanoid/token/deep-gnome-svirfneblin.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/deep-gnome-svirfneblin.webp"
 ```
 ^statblock
 

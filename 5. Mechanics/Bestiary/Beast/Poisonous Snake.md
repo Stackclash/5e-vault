@@ -2,20 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-8
-- monster/environment/coastal
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/swamp
-- monster/size/tiny
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/1-8
+  - monster/environment/coastal
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/swamp
+  - monster/size/tiny
+  - monster/type/beast
 statblock: inline
-aliases: ["Poisonous Snake"]
+aliases:
+  - Poisonous Snake
 ---
-# [[5. Mechanics/Bestiary/Beast/Poisonous Snake.md|Poisonous Snake]]
+# [[5. Mechanics\Bestiary\Beast\Poisonous Snake.md|Poisonous Snake]]
 *Source: Monster Manual p. 334. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -49,7 +50,7 @@ aliases: ["Poisonous Snake"]
 - "ToA"
 - "GoS"
 - "IMR"
-"image": "5. Mechanics/Bestiary/Beast/token/poisonous-snake.png"
+"image": "5. Mechanics/Bestiary/Beast/token/poisonous-snake.webp"
 ```
 ^statblock
 

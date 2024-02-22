@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear
-aliases: 
-- "Common Clothes"
+  - compendium/src/5e/phb
+  - item/gear
+aliases:
+  - Common Clothes
 cost: 50
 ---
 # Common Clothes

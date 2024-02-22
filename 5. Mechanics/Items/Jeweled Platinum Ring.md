@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/wealth
-aliases: 
-- "Jeweled platinum ring"
+  - compendium/src/5e/dmg
+  - item/wealth
+aliases:
+  - Jeweled platinum ring
 cost: 750000
 ---
 # Jeweled platinum ring
-*Treasure*  
+*Art object*  
 
 - **Cost**: 7,500 gp
 

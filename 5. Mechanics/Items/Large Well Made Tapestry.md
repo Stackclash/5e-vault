@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/wealth
-aliases: 
-- "Large well-made tapestry"
+  - compendium/src/5e/dmg
+  - item/wealth
+aliases:
+  - Large well-made tapestry
 cost: 25000
 ---
 # Large well-made tapestry
-*Treasure*  
+*Art object*  
 
 - **Cost**: 250 gp
 

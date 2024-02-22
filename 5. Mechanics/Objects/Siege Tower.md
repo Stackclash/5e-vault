@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- compendium/src/5e/dmg
-- object/size/gargantuan
-- object/type/siege-weapon
+  - compendium/src/5e/dmg
+  - object/size/gargantuan
+  - object/type/siege-weapon
 statblock: inline
-aliases: ["Siege Tower"]
+aliases:
+  - Siege Tower
 ---
 # Siege Tower
 *Source: Dungeon Master's Guide p. 256*  
@@ -14,7 +15,7 @@ aliases: ["Siege Tower"]
 A siege tower is a mobile wooden structure with a beam frame and slats in its walls. Large wooden wheels or rollers allow the tower to be pushed or pulled by soldiers or beasts of burden. Medium or smaller creatures can use the siege tower to reach the top of walls up to 40 feet high. A creature in the tower has total cover from attacks outside the tower.
 ```ad-statblock
 title: Siege Tower
-![[5. Mechanics/Objects/token/siege-tower.png#token]]
+![[5. Mechanics/Objects/token/siege-tower.webp#token]]
 *Gargantuan Siege weapon*
 
 - **Armor Class** 15 
@@ -23,7 +24,7 @@ title: Siege Tower
 
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-||
+|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
 
 - **Damage Immunities** poison, psychic
 ```

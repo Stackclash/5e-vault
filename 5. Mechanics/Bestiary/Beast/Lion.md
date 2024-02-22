@@ -2,18 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1
-- monster/environment/desert
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/size/large
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/1
+  - monster/environment/desert
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/size/large
+  - monster/type/beast
 statblock: inline
-aliases: ["Lion"]
+aliases:
+  - Lion
 ---
-# [[5. Mechanics/Bestiary/Beast/Lion.md|Lion]]
+# [[5. Mechanics\Bestiary\Beast\Lion.md|Lion]]
 *Source: Monster Manual p. 331. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -66,7 +67,7 @@ aliases: ["Lion"]
 - "TftYP"
 - "ToA"
 - "KftGV"
-"image": "5. Mechanics/Bestiary/Beast/token/lion.png"
+"image": "5. Mechanics/Bestiary/Beast/token/lion.webp"
 ```
 ^statblock
 

@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/rare
-- item/wondrous
-aliases: 
-- "Quaal's Feather Token"
+  - compendium/src/5e/dmg
+  - item/rarity/rare
+  - item/wondrous
+aliases:
+  - Quaal's Feather Token
 ---
 # Quaal's Feather Token
 *Wondrous Item, rare*  
@@ -14,6 +14,8 @@ aliases:
 
 
 This tiny object looks like a feather. Different types of feather tokens exist, each with a different single-use effect. The DM chooses the kind of token or determines it randomly.
+
+`dice: [[Quaals Feather Token.md#^feather-token]]`
 
 | dice: d100 | Feather Token |
 |------------|---------------|

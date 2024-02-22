@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-4
-- monster/environment/forest
-- monster/environment/urban
-- monster/size/medium
-- monster/type/humanoid/kenku
+  - compendium/src/5e/mm
+  - monster/cr/1-4
+  - monster/environment/forest
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/humanoid/kenku
 statblock: inline
-aliases: ["Kenku"]
+aliases:
+  - Kenku
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Kenku.md|Kenku]]
+# [[5. Mechanics\Bestiary\Humanoid\Kenku.md|Kenku]]
 *Source: Monster Manual p. 194, Eberron: Rising from the Last War*  
 
 Kenku are feathered humanoids that wander the world as vagabonds, driven by greed. They can perfectly imitate any sound they hear.
@@ -68,7 +69,7 @@ All kenku pine for the ability to fly, and thus the punishments they mete out to
   "name": "Ambusher"
 - "desc": "The kenku can mimic any sounds it has heard, including voices. A creature\
     \ that hears the sounds can tell they are imitations with a successful DC 14 Wisdom\
-    \ (Insight) check."
+    \ ([[/5. Mechanics/Rules/Skills.md#Insight|Insight]]) check."
   "name": "Mimicry"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
@@ -87,7 +88,7 @@ All kenku pine for the ability to fly, and thus the punishments they mete out to
 - "CM"
 - "JttRC"
 - "ToFW"
-"image": "5. Mechanics/Bestiary/Humanoid/token/kenku.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/kenku.webp"
 ```
 ^statblock
 

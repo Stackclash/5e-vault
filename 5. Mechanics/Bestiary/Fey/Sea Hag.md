@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/2
-- monster/environment/coastal
-- monster/environment/underwater
-- monster/size/medium
-- monster/type/fey
+  - compendium/src/5e/mm
+  - monster/cr/2
+  - monster/environment/coastal
+  - monster/environment/underwater
+  - monster/size/medium
+  - monster/type/fey
 statblock: inline
-aliases: ["Sea Hag"]
+aliases:
+  - Sea Hag
 ---
-# [[5. Mechanics/Bestiary/Fey/Sea Hag.md|Sea Hag]]
+# [[5. Mechanics\Bestiary\Fey\Sea Hag.md|Sea Hag]]
 *Source: Monster Manual p. 179. Available in the SRD.*  
 
 Sea hags live in dismal and polluted underwater lairs, surrounded by merrow and other aquatic monsters.
@@ -137,8 +138,8 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
     \nThe changes wrought by this effect fail to hold up to physical inspection. For\
     \ example, the hag could appear to have no claws, but someone touching her hand\
     \ might feel the claws. Otherwise, a creature must take an action to visually\
-    \ inspect the illusion and succeed on a DC 16 Intelligence (Investigation) check\
-    \ to discern that the hag is disguised."
+    \ inspect the illusion and succeed on a DC 16 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation|Investigation]])\
+    \ check to discern that the hag is disguised."
   "name": "Illusory Appearance"
 "source":
 - "MM"
@@ -154,7 +155,7 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
 - "JttRC"
 - "SatO"
 - "DoDk"
-"image": "5. Mechanics/Bestiary/Fey/token/sea-hag.png"
+"image": "5. Mechanics/Bestiary/Fey/token/sea-hag.webp"
 ```
 ^statblock
 

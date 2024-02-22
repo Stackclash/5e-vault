@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/3
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/aberration
+  - compendium/src/5e/mm
+  - monster/cr/3
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/aberration
 statblock: inline
-aliases: ["Spectator"]
+aliases:
+  - Spectator
 ---
-# [[5. Mechanics/Bestiary/Aberration/Spectator.md|Spectator]]
+# [[5. Mechanics\Bestiary\Aberration\Spectator.md|Spectator]]
 *Source: Monster Manual p. 30. Available in the Basic Rules.*  
 
 A spectator is a lesser beholder that is summoned from another plane of existence by a magical ritual, the components of which include four beholder eyestalks that are consumed by the ritual's magic. Appropriately, a spectator has four eyestalks, two on each side of the wide eye at the center of its four-foot diameter body.
@@ -94,7 +95,7 @@ When a spectator has fulfilled its service, it is free to do as it pleases. Many
 - "KftGV"
 - "PaBTSO"
 - "ToFW"
-"image": "5. Mechanics/Bestiary/Aberration/token/spectator.png"
+"image": "5. Mechanics/Bestiary/Aberration/token/spectator.webp"
 ```
 ^statblock
 

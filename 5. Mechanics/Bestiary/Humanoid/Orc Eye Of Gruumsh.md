@@ -2,21 +2,22 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/2
-- monster/environment/arctic
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/humanoid/orc
+  - compendium/src/5e/mm
+  - monster/cr/2
+  - monster/environment/arctic
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/humanoid/orc
 statblock: inline
-aliases: ["Orc Eye of Gruumsh"]
+aliases:
+  - Orc Eye of Gruumsh
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Orc Eye Of Gruumsh.md|Orc Eye of Gruumsh]]
+# [[5. Mechanics\Bestiary\Humanoid\Orc Eye Of Gruumsh.md|Orc Eye of Gruumsh]]
 *Source: Monster Manual p. 247*  
 
 Orcs are savage raiders and pillagers with stooped postures, low foreheads, and piggish faces with prominent lower canines that resemble tusks.
@@ -56,7 +57,7 @@ When an orc slays an elf in Gruumsh's name and offers the corpse of its foe as a
 If the orc plucks out one of its eyes, Gruumsh might grant the orc spellcasting ability and special favor, along with the right to call itself an Eye of Gruumsh. When not using their auguries to advise their war chiefs, these savage devotees of the god of slaughter hurl themselves into battle, their weapons stained with blood.
 
 ```statblock
-"name": "Orc Eye of Gruumsh"
+"name": "Orc Eye Of Gruumsh"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "orc"
@@ -106,7 +107,7 @@ If the orc plucks out one of its eyes, Gruumsh might grant the orc spellcasting 
 - "TftYP"
 - "EGW"
 - "IDRotF"
-"image": "5. Mechanics/Bestiary/Humanoid/token/orc-eye-of-gruumsh.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/orc-eye-of-gruumsh.webp"
 ```
 ^statblock
 

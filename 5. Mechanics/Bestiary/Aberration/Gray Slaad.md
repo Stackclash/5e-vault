@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/9
-- monster/environment/urban
-- monster/size/medium
-- monster/type/aberration/shapechanger
+  - compendium/src/5e/mm
+  - monster/cr/9
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/aberration/shapechanger
 statblock: inline
-aliases: ["Gray Slaad"]
+aliases:
+  - Gray Slaad
 ---
-# [[5. Mechanics/Bestiary/Aberration/Gray Slaad.md|Gray Slaad]]
+# [[5. Mechanics\Bestiary\Aberration\Gray Slaad.md|Gray Slaad]]
 *Source: Monster Manual p. 277*  
 
 Outside of Limbo, gray slaadi act as living extensions of the will of their masters, the death slaadi. A gray slaad journeys to the Material Plane on errands of doom, often taking humanoid form. A gray slaad learns how to master the use of a greatsword and imbue it with its own innate magic.
@@ -123,7 +124,7 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 - "PaBTSO"
 - "ToFW"
 - "BMT"
-"image": "5. Mechanics/Bestiary/Aberration/token/gray-slaad.png"
+"image": "5. Mechanics/Bestiary/Aberration/token/gray-slaad.webp"
 ```
 ^statblock
 

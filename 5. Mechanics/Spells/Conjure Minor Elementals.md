@@ -2,16 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/druid
-- spell/class/fighter/eldritch-knight
-- spell/class/rogue/arcane-trickster
-- spell/class/wizard
-- spell/level/4
-- spell/school/conjuration
-aliases: ["Conjure Minor Elementals"]
+  - compendium/src/5e/phb
+  - spell/class/druid
+  - spell/class/fighter/eldritch-knight
+  - spell/class/rogue/arcane-trickster
+  - spell/class/wizard
+  - spell/level/4
+  - spell/school/conjuration
+aliases:
+  - Conjure Minor Elementals
 ---
 # Conjure Minor Elementals
+%%-- Embedded content starts on the next line. --%%
 *4th-level, Conjuration*  
 
 - **Casting time:** 1 minute

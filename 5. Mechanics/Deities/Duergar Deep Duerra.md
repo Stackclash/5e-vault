@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- compendium/src/5e/mtf
-- deity/duergar
-- domain/knowledge
-- domain/war
-aliases: ["Deep Duerra"]
+  - compendium/src/5e/mtf
+  - deity/duergar
+  - domain/knowledge
+  - domain/war
+aliases:
+  - Deep Duerra
 ---
 # Deep Duerra
 *Source: Mordenkainen's Tome of Foes p. 79* 

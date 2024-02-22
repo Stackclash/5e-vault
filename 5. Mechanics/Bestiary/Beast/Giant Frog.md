@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-4
-- monster/environment/forest
-- monster/environment/swamp
-- monster/size/medium
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/1-4
+  - monster/environment/forest
+  - monster/environment/swamp
+  - monster/size/medium
+  - monster/type/beast
 statblock: inline
-aliases: ["Giant Frog"]
+aliases:
+  - Giant Frog
 ---
-# [[5. Mechanics/Bestiary/Beast/Giant Frog.md|Giant Frog]]
+# [[5. Mechanics\Bestiary\Beast\Giant Frog.md|Giant Frog]]
 *Source: Monster Manual p. 325. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -68,7 +69,7 @@ aliases: ["Giant Frog"]
 - "EGW"
 - "WBtW"
 - "PSA"
-"image": "5. Mechanics/Bestiary/Beast/token/giant-frog.png"
+"image": "5. Mechanics/Bestiary/Beast/token/giant-frog.webp"
 ```
 ^statblock
 

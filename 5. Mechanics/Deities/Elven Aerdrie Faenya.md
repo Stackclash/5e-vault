@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- compendium/src/5e/mtf
-- deity/elven
-- domain/life
-- domain/tempest
-- domain/trickery
-aliases: ["Aerdrie Faenya"]
+  - compendium/src/5e/mtf
+  - deity/elven
+  - domain/life
+  - domain/tempest
+  - domain/trickery
+aliases:
+  - Aerdrie Faenya
 ---
 # Aerdrie Faenya
 *Source: Mordenkainen's Tome of Foes p. 43* 

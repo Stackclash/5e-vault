@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/phb
-- subclass/ranger/hunter
-aliases: ["Hunter"]
+  - compendium/src/5e/phb
+  - subclass/ranger/hunter
+aliases:
+  - Hunter
 ---
 # Hunter
 *[[Ranger.md\|Ranger]]: Ranger Archetype*  

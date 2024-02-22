@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/saf
-aliases: ["Warfare"]
+  - compendium/src/5e/saf
+aliases:
+  - Warfare
 ---
 # Warfare
 *Source: Strongholds and Followers, p. 231* 
@@ -60,7 +61,7 @@ The good news is, soldiers who run away actually do live to fight another day, a
 
 ## Anatomy of a Unit
 
-Your army is made up of units. Each unit has a card with stats, and its status is tracked with a casualty die. Let's take a look at a typical unit card: [[5. Mechanics/Optional Features/Ironheart Defenders (SAF).md\|Ironheart Defenders]]
+Your army is made up of units. Each unit has a card with stats, and its status is tracked with a casualty die. Let's take a look at a typical unit card: [[5. Mechanics/Optional Features/Ironheart Defenders.md\|Ironheart Defenders]]
 
 Lots to unpack here—let's take it from the top.
 
@@ -267,7 +268,7 @@ Levies are always diminished.
 
 Choose a size. This can dramatically affect the unit's final cost.
 
-![[5. Mechanics/Tables/Unit Size (SAF).md\|Unit Size]]
+![[5. Mechanics/Tables/Unit Size.md\|Unit Size]]
 
 ### Step Six: Calculating Cost
 
@@ -281,7 +282,7 @@ Add the cost of all the **traits** of the unit's Ancestry. Finally add a flat 30
 
 > This sounds more complex than it is. For instance, let's take a unit of Elite Heavy Dwarven Infantry.
 
-[[5. Mechanics/Optional Features/Rockbreakers (SAF).md\|Rockbreakers]]
+[[5. Mechanics/Optional Features/Rockbreakers.md\|Rockbreakers]]
 
 > The total of its Attack, Power, Defense, and Toughness bonuses is **20** (6 + 6 + 5 + 3). Adding double the unit's Morale bonus to this gives **36** (20 + (8 × 2)). This result is multiplied by 1 because they're Infantry (that's easy), and then by 1 again because they're Size 1d6, so we're still at 36.
 > 
@@ -300,7 +301,7 @@ You can buy units with the same ancestry as your character with no extra cost. H
 > Below is an *example* Attitude chart, one designed to reflect the common biases the classic fantasy ancestries have toward each other. You are encouraged to make your own, reflecting your world's history. Also, you could just as easily make a chart with nations or cultures instead of ancestries.
 ^attitude-chart
 
-![[5. Mechanics/Tables/Sample Attitude Chart (SAF).md\|Sample Attitude Chart]]
+![[5. Mechanics/Tables/Sample Attitude Chart.md\|Sample Attitude Chart]]
 
 The chart is mirrored across the diagonal, so you can use it in either direction. Find your character's ancestry in either a row or a column, and then index it against the ancestry of the unit you wish to buy.
 

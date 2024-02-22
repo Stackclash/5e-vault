@@ -1,32 +1,34 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: null
 condition: healthy
 relationships: []
-tags: 
+tags: null
 aliases: []
-pronounced: 
-race: 
-gender: 
-age: 
+pronounced: null
+race: null
+gender: null
+age: null
 alignment: Neutral
-occupation: [] 
+occupation: []
 groups: []
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
-> ![[4. World Almanac/NPCs/img/kasimir-velikov.webp|cover hm-sm]] 
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```
 > ###### Bio
 >  |
 >  ---|---|
@@ -104,7 +106,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 
 ## Stats
 ```statblock
-"name": "Kasimir Velikov (CoS)"
+"name": "Kasimir Velikov"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "Dusk elf"
@@ -132,19 +134,28 @@ await dv.view("npcRelationships", { current: dv.current() })
 "traits":
 - "desc": "Kasimir is a 9th-level spellcaster. His spellcasting ability is Intelligence\
     \ (spell save DC 14, dice: d20+6 (+6 to hit) with spell attacks). Kasimir has\
-    \ the following wizard spells prepared:\n\nCantrips (at will): fire bolt,\
-    \ light, mage hand, prestidigitation\n\n1st level (4 slots): detect magic,\
-    \ mage armor, magic missile, shield\n\n2nd level (3 slots): misty step, suggestion\n\
-    \n3rd level (3 slots): counterspell, fireball, fly\n\n4th level (3 slots):\
-    \ greater invisibility, ice storm\n\n5th level (1 slots): cone of cold"
+    \ the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]],\
+    \ [[5. Mechanics/Spells/Light.md|light]], [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
+    \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n1st level (4\
+    \ slots): [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Mage Armor.md|mage armor]],\
+    \ [[5. Mechanics/Spells/Magic Missile.md|magic missile]], [[5. Mechanics/Spells/Shield.md|shield]]\n\
+    \n2nd level (3 slots): [[5. Mechanics/Spells/Misty Step.md|misty step]], [[5. Mechanics/Spells/Suggestion.md|suggestion]]\n\
+    \n3rd level (3 slots): [[5. Mechanics/Spells/Counterspell.md|counterspell]],\
+    \ [[5. Mechanics/Spells/Fireball.md|fireball]], [[5. Mechanics/Spells/Fly.md|fly]]\n\
+    \n4th level (3 slots): [[5. Mechanics/Spells/Greater Invisibility.md|greater invisibility]],\
+    \ [[5. Mechanics/Spells/Ice Storm.md|ice storm]]\n\n5th level (1 slots): [cone\
+    \ of cold](compendium/spells/cone-of-cold.md)"
   "name": "spells"
-- "desc": "Kasimir has advantage on saving throws against being charmed, and magic\
-    \ can't put the him to sleep."
+- "desc": "Kasimir has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
+    \ and magic can't put the him to sleep."
   "name": "Fey Ancestry"
-- "desc": "Kasimir wears a ring of warmth and carries a spellbook containing all the\
-    \ spells he has prepared plus the following spells: arcane lock, comprehend languages,\
-    \ hold person, identify, locate object, nondetection, polymorph, protection from\
-    \ evil and good, and wall of stone."
+- "desc": "Kasimir wears a [[5. Mechanics/Items/Ring Of Warmth.md|ring of warmth]] and\
+    \ carries a spellbook containing all the spells he has prepared plus the following\
+    \ spells: [[5. Mechanics/Spells/Arcane Lock.md|arcane lock]], [[5. Mechanics/Spells/Comprehend Languages.md|comprehend languages]],\
+    \ [[5. Mechanics/Spells/Hold Person.md|hold person]], [[5. Mechanics/Spells/Identify.md|identify]],\
+    \ [[5. Mechanics/Spells/Locate Object.md|locate object]], [[5. Mechanics/Spells/Nondetection.md|nondetection]],\
+    \ [[5. Mechanics/Spells/Polymorph.md|polymorph]], [[5. Mechanics/Spells/Protection From Evil And Good.md|protection from evil and good]],\
+    \ and [[5. Mechanics/Spells/Wall Of Stone.md|wall of stone]]."
   "name": "Special Equipment"
 "actions":
 - "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft.\
@@ -153,7 +164,7 @@ await dv.view("npcRelationships", { current: dv.current() })
   "name": "Dagger"
 "source":
 - "CoS"
-"image": "4. World Almanac/NPCs/token/kasimir-velikov.png"
+"image": "4. World Almanac/NPCs/token/kasimir-velikov-cos.webp"
 ```
 ^statblock
 

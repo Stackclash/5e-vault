@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-4
-- monster/environment/swamp
-- monster/size/medium
-- monster/type/humanoid/bullywug
+  - compendium/src/5e/mm
+  - monster/cr/1-4
+  - monster/environment/swamp
+  - monster/size/medium
+  - monster/type/humanoid/bullywug
 statblock: inline
-aliases: ["Bullywug"]
+aliases:
+  - Bullywug
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Bullywug.md|Bullywug]]
+# [[5. Mechanics\Bestiary\Humanoid\Bullywug.md|Bullywug]]
 *Source: Monster Manual p. 35*  
 
 Life as a bullywug is nasty, brutish, and wet. These frog-headed amphibious humanoids must stay constantly moist, dwelling in rainy forests, marshes, and damp caves. Always hungry and thoroughly evil, bullywugs overwhelm opponents with superior numbers when they can, but they flee from serious threats to search for easier prey.
@@ -63,8 +64,8 @@ Simple concepts in the language are understandable to frogs and toads. Bullywugs
 - "desc": "The bullywug can communicate simple concepts to frogs and toads when it\
     \ speaks in Bullywug."
   "name": "Speak with Frogs and Toads"
-- "desc": "The bullywug has advantage on Dexterity (Stealth) checks made to hide in\
-    \ swampy terrain."
+- "desc": "The bullywug has advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]])\
+    \ checks made to hide in swampy terrain."
   "name": "Swamp Camouflage"
 - "desc": "The bullywug's long jump is up to 20 feet and its high jump is up to 10\
     \ feet, with or without a running start."
@@ -88,7 +89,7 @@ Simple concepts in the language are understandable to frogs and toads. Bullywugs
 - "GoS"
 - "EGW"
 - "WBtW"
-"image": "5. Mechanics/Bestiary/Humanoid/token/bullywug.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/bullywug.webp"
 ```
 ^statblock
 

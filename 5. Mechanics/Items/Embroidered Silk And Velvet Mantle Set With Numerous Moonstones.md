@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/wealth
-aliases: 
-- "Embroidered silk and velvet mantle set with numerous moonstones"
+  - compendium/src/5e/dmg
+  - item/wealth
+aliases:
+  - Embroidered silk and velvet mantle set with numerous moonstones
 cost: 250000
 ---
 # Embroidered silk and velvet mantle set with numerous moonstones
-*Treasure*  
+*Art object*  
 
 - **Cost**: 2,500 gp
 

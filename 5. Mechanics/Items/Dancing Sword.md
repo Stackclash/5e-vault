@@ -2,19 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/attunement/required
-- item/rarity/very-rare
-- item/tier/major
-- item/wondrous/wondrous-item
-aliases: 
-- "Dancing Sword"
-- "Dancing Longsword"
-- "Dancing Double-Bladed Scimitar"
-- "Dancing Greatsword"
-- "Dancing Rapier"
-- "Dancing Shortsword"
-- "Dancing Scimitar"
+  - compendium/src/5e/dmg
+  - item/attunement/required
+  - item/rarity/very-rare
+  - item/tier/major
+  - item/wondrous/wondrous-item
+aliases:
+  - Dancing Sword
+  - Dancing Longsword
+  - Dancing Double-Bladed Scimitar
+  - Dancing Greatsword
+  - Dancing Rapier
+  - Dancing Shortsword
+  - Dancing Scimitar
 ---
 # Dancing Sword
 *Generic Variant, major, very rare (requires attunement)*  

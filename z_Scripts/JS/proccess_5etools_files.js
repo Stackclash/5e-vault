@@ -1,5 +1,6 @@
 const fs = require('fs')
 const path = require('path')
+const matter = require('gray-matter')
 
 // Create reliable logging
 
@@ -8,6 +9,10 @@ const config = {
     limit: 7000,
     rootVaultPath: path.resolve(__dirname, '../../'),
     compendiumPath: 'compendium',
+    logs: {
+        moves: true,
+        rules: true
+    },
     rules: [
         {
             enabled: true,
@@ -37,14 +42,8 @@ const config = {
                 let newFileName = file.fileName
 
                 newFileName = newFileName
-                    .replaceAll(/(^|[\/\\\-])([a-z])(?!mg[\/\\]|oken[\/\\])/g, (oldText, separator, letter) => separator === '-' ? ' '+letter.toUpperCase() : separator+letter.toUpperCase())
-                    .replace(/\s*(HB|DMG|MM|VRGR|XGE|VGM|TCE|MPMM|MTF|CoS|SaF|ERLW)$/i, (oldText, source) => {
-                        if (/npc/i.test(file.path)) {
-                            return ''
-                        } else {
-                            return ' (' + source.toUpperCase() + ')'
-                        }
-                    })
+                    .replaceAll(/(^|[\/\\\-])([a-z0-9])(?!mg[\/\\]|oken[\/\\])/g, (oldText, separator, letter) => separator === '-' ? ' '+letter.toUpperCase() : separator+letter.toUpperCase())
+                    .replace(/\s*(HB|DMG|MM|VRGR|XGE|VGM|TCE|MPMM|MTF|CoS|SaF|ERLW|Hhhvi|Hhhvii|Hhhviii|Hhbh)$/i, '')
                 
                 return newFileName
             }
@@ -102,30 +101,34 @@ const config = {
         },
         {
             enabled: true,
-            name: 'Update Token Path for Bestiary',
+            name: 'Update Image/Token Path for Bestiary and NPCs',
             ignore: function(file) {
-                return !/bestiary/i.test(file.path) || !/npc/i.test(file.path) || ['.jpg', '.jpeg', '.png', '.webp'].includes(file.fileExtension)
+                return !/bestiary|npc/i.test(file.path) || ['.jpg', '.jpeg', '.png', '.webp'].includes(file.fileExtension)
             },
             target: 'content',
-            regex: /"image": "([\w\/]+)(\/[img|token]+\/[\w]+\.[\w]+)"/g,
+            regex: /"*image"*: "*([\w\/]+)(\/[img|token]+\/[\w-]+\.[\w]+)"*/g,
             process: function(file, oldText, imagePath, restOfPath) {
                 let filePathRule = config.rules.filter(rule => rule.name === 'Update File Path')[0]
 
                 imagePath = filePathRule.process({relativePath: imagePath})
 
-                return `"image": "${imagePath}${restOfPath}"`
+                if (/"/.test(oldText)) {
+                    return `"image": "${imagePath}${restOfPath}"`
+                } else {
+                    return `image: ${imagePath}${restOfPath}`
+                }
             }
         },
         {
             enabled: true,
-            name: 'Update NPC image',
+            name: 'Update NPC/Bestiary statblock name',
             ignore: function(file) {
-                return !/npc/i.test(file.path) || ['.jpg', '.jpeg', '.png', '.webp'].includes(file.fileExtension)
+                return !/npc|bestiary/i.test(file.path) || ['.jpg', '.jpeg', '.png', '.webp'].includes(file.fileExtension)
             },
             target: 'content',
-            regex: /compendium([\\\/])bestiary([\\\/])npc/g,
-            process: function(file, oldText, separator) {
-                return `4. World Almanac${separator}NPCs`
+            regex: /^"name": "[\w\s'\(\)-]+"/gm,
+            process: function(file, oldText) {
+                return `"name": "${file.fileName}"`
             }
         }
     ]
@@ -144,6 +147,14 @@ class CompendiumFile {
         this.content = this._oldContent
         this.execute = () => {
             fs.mkdirSync(path.parse(this.path).dir, {recursive: true})
+
+            if (fs.existsSync(this.path) && !['.jpg', '.jpeg', '.png', '.webp'].includes(this.fileExtension)) {
+                const oldFrontMatter = matter.read(this.path).data
+                const newContent = matter(this.content).content
+
+                // Test for differing frontMatter fields
+                this.content = matter.stringify(newContent, oldFrontMatter)
+            }
             fs.writeFileSync(this.path, this.content)
             fs.unlinkSync(this._oldPath)
         }
@@ -194,15 +205,15 @@ function processAllRules(files) {
         console.log(`${index+1} Processing: ${file.relativePath}${path.sep}${file.fileName}${file.fileExtension}`)
         config.rules.forEach(rule => {
             if (rule.enabled && !(rule.ignore && rule.ignore(file))) {
-                console.log(`\tRunning: ${rule.name}`)
+                if (config.logs.rules) console.log(`\tRunning: ${rule.name}`)
                 if (rule.regex) {
-                    file[rule.target] = file[rule.target].replaceAll(new RegExp(rule.regex, 'gi'), (...match) => rule.process(file, ...match))
+                    file[rule.target] = file[rule.target].replaceAll(new RegExp(rule.regex), (...match) => rule.process(file, ...match))
                 } else {
                     file[rule.target] = rule.process(file)
                 }
             }
         })
-        console.log(`\tMoved To: ${file.relativePath}${path.sep}${file.fileName}${file.fileExtension}`)
+        if (config.logs.moves) console.log(`\tMoved To: ${file.relativePath}${path.sep}${file.fileName}${file.fileExtension}`)
         if (!config.dryRun) file.execute()
     })
 }

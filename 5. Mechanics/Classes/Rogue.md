@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/rogue
-- compendium/src/5e/phb
-aliases: ["Rogue"]
+  - class/rogue
+  - compendium/src/5e/phb
+aliases:
+  - Rogue
 ---
 # Rogue
 *Source: Player's Handbook p. 94. Available in the SRD and the Basic Rules.*  
@@ -84,7 +85,7 @@ You are proficient with the following items, in addition to any proficiencies pr
 You begin play with the following equipment, in addition to any equipment provided by your background.
 
 - (a) a [[5. Mechanics/Items/Rapier.md\|rapier]] or (b) a [[5. Mechanics/Items/Shortsword.md\|shortsword]]  
-- (a) a [[5. Mechanics/Items/Shortbow.md\|shortbow]] and [[5. Mechanics/Items/Quiver.md\|quiver]] of [[5. Mechanics/Items/Arrows-20.md\|20 arrows]] or (b) a [[5. Mechanics/Items/Shortsword.md\|shortsword]]  
+- (a) a [[5. Mechanics/Items/Shortbow.md\|shortbow]] and [[5. Mechanics/Items/Quiver.md\|quiver]] of [[5. Mechanics/Items/Arrows 20.md\|20 arrows]] or (b) a [[5. Mechanics/Items/Shortsword.md\|shortsword]]  
 - (a) a [[5. Mechanics/Items/Burglars Pack.md\|burglar's pack]], (b) a [[5. Mechanics/Items/Dungeoneers Pack.md\|dungeoneer's pack]], or (c) an [[5. Mechanics/Items/Explorers Pack.md\|explorer's pack]]  
 - [[5. Mechanics/Items/Leather Armor.md\|Leather armor]], two [[5. Mechanics/Items/Dagger.md\|daggers]], and [[5. Mechanics/Items/Thieves Tools.md\|thieves' tools]]  
 
@@ -158,6 +159,8 @@ What's the one form of temptation that your rogue character can't resist when th
 
 **Guilty Pleasures**
 
+`dice: [[Rogue.md#^guilty-pleasures]]`
+
 | dice: d6 | Pleasure |
 |----------|----------|
 | 1 | Large gems |
@@ -179,6 +182,8 @@ Does your rogue character have an adversary who also happens to be a criminal? I
 
 **Adversaries**
 
+`dice: [[Rogue.md#^adversaries]]`
+
 | dice: d6 | Adversary |
 |----------|-----------|
 | 1 | The pirate captain on whose ship you once served; what you call moving on, the captain calls mutiny |
@@ -197,6 +202,8 @@ Few rogues make it far in life before needing someone's help, which means therea
 If your character's backstory doesn't already include a personage of this sort, you could work with your DM to determine why a benefactor has appeared in your life. Perhaps you benefited from something your benefactor did for you without realizing who was responsible, and that person has now just become known to you. Who helped you in the past, whether or not you knew it at the time, and what do you owe that person as recompense?
 
 **Benefactors**
+
+`dice: [[Rogue.md#^benefactors]]`
 
 | dice: d6 | Benefactor |
 |----------|------------|
@@ -241,7 +248,7 @@ At 3rd level, you choose an archetype that you emulate in the exercise of your r
 ### Steady Aim (Level 3)
 _Source: Tasha's Cauldron of Everything p. 62_
 
-*3rd-level rogue [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+*3rd-level rogue [[/5. Mechanics/Rules/Variant Rules/Optional Class Features.md\|optional class features]]*
 
 As a bonus action, you give yourself advantage on your next attack roll on the current turn. You can use this bonus action only if you haven't moved during this turn, and after you use the bonus action, your speed is 0 until the end of the current turn.
 

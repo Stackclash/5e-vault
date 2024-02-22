@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/property/finesse
-- item/property/light
-- item/property/thrown
-- item/weapon/simple/melee
-aliases: 
-- "Dagger"
+  - compendium/src/5e/phb
+  - item/property/finesse
+  - item/property/light
+  - item/property/thrown
+  - item/weapon/simple/melee
+aliases:
+  - Dagger
 cost: 200
 ---
 # Dagger

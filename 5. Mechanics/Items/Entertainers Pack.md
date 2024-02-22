@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear
-aliases: 
-- "Entertainer's Pack"
+  - compendium/src/5e/phb
+  - item/gear
+aliases:
+  - Entertainer's Pack
 cost: 4000
 ---
 # Entertainer's Pack
@@ -20,7 +20,7 @@ Includes:
 - a [[5. Mechanics/Items/Bedroll.md\|bedroll]]  
 - 2 [[5. Mechanics/Items/Costume Clothes.md\|costumes]]  
 - 5 [[5. Mechanics/Items/Candle.md\|candles]]  
-- 5 days of [[5. Mechanics/Items/Rations-1 Day.md\|rations]]  
+- 5 days of [[5. Mechanics/Items/Rations 1 Day.md\|rations]]  
 - a [[5. Mechanics/Items/Waterskin.md\|waterskin]]  
 - a [[5. Mechanics/Items/Disguise Kit.md\|disguise kit]]  
 

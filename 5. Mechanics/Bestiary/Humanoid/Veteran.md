@@ -2,22 +2,23 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/3
-- monster/environment/arctic
-- monster/environment/coastal
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/humanoid/any-race
+  - compendium/src/5e/mm
+  - monster/cr/3
+  - monster/environment/arctic
+  - monster/environment/coastal
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/humanoid/any-race
 statblock: inline
-aliases: ["Veteran"]
+aliases:
+  - Veteran
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Veteran.md|Veteran]]
+# [[5. Mechanics\Bestiary\Humanoid\Veteran.md|Veteran]]
 *Source: Monster Manual p. 350, Curse of Strahd, Eberron: Rising from the Last War. Available in the SRD.*  
 
 Veterans are professional fighters that take up arms for pay or to protect something they believe in or value. Their ranks include soldiers retired from long service and warriors who never served anyone but themselves.
@@ -90,7 +91,7 @@ Veterans are professional fighters that take up arms for pay or to protect somet
 - "ToFW"
 - "BMT"
 - "DoDk"
-"image": "5. Mechanics/Bestiary/Humanoid/token/veteran.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/veteran.webp"
 ```
 ^statblock
 

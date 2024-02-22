@@ -1,32 +1,34 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: null
 condition: healthy
 relationships: []
-tags: 
+tags: null
 aliases: []
-pronounced: 
-race: 
-gender: 
-age: 
+pronounced: null
+race: null
+gender: null
+age: null
 alignment: Neutral Good
-occupation: [] 
+occupation: []
 groups: []
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
-> ![[4. World Almanac/NPCs/img/gertruda.webp|cover hm-sm]] 
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```
 > ###### Bio
 >  |
 >  ---|---|
@@ -104,7 +106,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 
 ## Stats
 ```statblock
-"name": "Gertruda (CoS)"
+"name": "Gertruda"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "human"
@@ -129,7 +131,7 @@ await dv.view("npcRelationships", { current: dv.current() })
   "name": "Club"
 "source":
 - "CoS"
-"image": "4. World Almanac/NPCs/token/gertruda.png"
+"image": "4. World Almanac/NPCs/token/gertruda-cos.webp"
 ```
 ^statblock
 

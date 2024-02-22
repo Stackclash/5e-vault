@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-2
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/monstrosity
+  - compendium/src/5e/mm
+  - monster/cr/1-2
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Piercer"]
+aliases:
+  - Piercer
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Piercer.md|Piercer]]
+# [[5. Mechanics\Bestiary\Monstrosity\Piercer.md|Piercer]]
 *Source: Monster Manual p. 252*  
 
 Clinging to the ceilings of caverns and large subterranean passages, piercers blend in perfectly with natural rock, dropping in silence to impale unsuspecting foes on the ground below.
@@ -65,7 +66,7 @@ Piercers gather in colonies to maximize the effectiveness of their attacks, drop
 - "WDMM"
 - "IDRotF"
 - "ToFW"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/piercer.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/piercer.webp"
 ```
 ^statblock
 

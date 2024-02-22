@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/wizard
-- spell/level/8
-- spell/school/conjuration
-aliases: ["Maze"]
+  - compendium/src/5e/phb
+  - spell/class/wizard
+  - spell/level/8
+  - spell/school/conjuration
+aliases:
+  - Maze
 ---
 # Maze
+%%-- Embedded content starts on the next line. --%%
 *8th-level, Conjuration*  
 
 - **Casting time:** 1 action

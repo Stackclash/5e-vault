@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvii
-aliases: ["Hamund's Harvesting Handbook: Volume II"]
+  - compendium/src/5e/hhhvii
+aliases:
+  - 'Hamund''s Harvesting Handbook: Volume II'
 ---
 # Hamund's Harvesting Handbook: Volume II
 *Source: Hamund's Harvesting Handbook: Volume II, p. 1* 
 
-![Front Cover](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/Cover-Full.webp#center)
+![[6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/img/cover-full.webp#center\|Front Cover]]
 
 **A Harvesting Guide to Volo's Guide to Monsters**
 

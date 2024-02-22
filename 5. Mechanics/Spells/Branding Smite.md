@@ -2,15 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer/battle-smith
-- spell/class/paladin
-- spell/class/warlock/the-hexblade
-- spell/level/2
-- spell/school/evocation
-aliases: ["Branding Smite"]
+  - compendium/src/5e/phb
+  - spell/class/artificer/battle-smith
+  - spell/class/paladin
+  - spell/class/warlock/the-hexblade
+  - spell/level/2
+  - spell/school/evocation
+aliases:
+  - Branding Smite
 ---
 # Branding Smite
+%%-- Embedded content starts on the next line. --%%
 *2nd-level, Evocation*  
 
 - **Casting time:** 1 bonus
@@ -22,6 +24,6 @@ The next time you hit a creature with a weapon attack before this spell ends, th
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the extra damage increases by 1d6 for each slot level above 2nd.
 
-**Classes**: [[5. Mechanics/Classes/Artificer Battle Smith (TCE).md\|Artificer (Battle Smith)]], [[5. Mechanics/Classes/Paladin.md\|Paladin]], [[5. Mechanics/Classes/Warlock The Hexblade (XGE).md\|Warlock (The Hexblade)]]
+**Classes**: [[5. Mechanics/Classes/Artificer Battle Smith.md\|Artificer (Battle Smith)]], [[5. Mechanics/Classes/Paladin.md\|Paladin]], [[5. Mechanics/Classes/Warlock The Hexblade.md\|Warlock (The Hexblade)]]
 
 *Source: Player's Handbook p. 219. Available in the SRD.*

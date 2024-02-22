@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/4
-- monster/environment/forest
-- monster/environment/swamp
-- monster/size/medium
-- monster/type/humanoid/lizardfolk
+  - compendium/src/5e/mm
+  - monster/cr/4
+  - monster/environment/forest
+  - monster/environment/swamp
+  - monster/size/medium
+  - monster/type/humanoid/lizardfolk
 statblock: inline
-aliases: ["Lizard King"]
+aliases:
+  - Lizard King
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Lizard King.md|Lizard King]]
+# [[5. Mechanics\Bestiary\Humanoid\Lizard King.md|Lizard King]]
 *Source: Monster Manual p. 205, Tasha's Cauldron of Everything*  
 
 Lizardfolk are primitive reptilian humanoids that lurk in the swamps and jungles of the world. Their hut villages thrive in forbidding grottos, half-sunken ruins, and watery caverns.
@@ -106,7 +107,7 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
 - "PotA"
 - "GoS"
 - "TCE"
-"image": "5. Mechanics/Bestiary/Humanoid/token/lizard-king.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/lizard-king.webp"
 ```
 ^statblock
 

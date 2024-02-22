@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: "[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]"
+location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
 condition: healthy
 relationships:
   - Doru|son
-tags: 
+tags: null
 aliases: []
 pronounced: DON-a-vich
-race: "[[5. Mechanics/Races/Human.md|Human]]"
+race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male
 age: 50
 alignment: Lawful Good
@@ -17,19 +17,21 @@ occupation:
 groups: []
 religions:
   - Faith of the Morninglord
-personality: Devout, troubled, compassionate
-ideal: Through faith and perseverance, we can endure the darkest nights.
-bond: His congregation, his son
+personality: 'Devout, troubled, compassionate'
+ideal: 'Through faith and perseverance, we can endure the darkest nights.'
+bond: 'His congregation, his son'
 flaw: His faith wavers in the face of his son's affliction.
-goals: To protect his flock, to cure his son
-likes: Dawn, prayer, community gatherings
-dislikes: Darkness, Strahd’s influence, seeing his parishioners suffer
+goals: 'To protect his flock, to cure his son'
+likes: 'Dawn, prayer, community gatherings'
+dislikes: 'Darkness, Strahd’s influence, seeing his parishioners suffer'
 ---
 
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
-> ![[4. World Almanac/NPCs/img/donavich.webp|cover hm-sm]] 
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```
 > ###### Bio
 >  |
 >  ---|---|
@@ -107,7 +109,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 
 ## Stats
 ```statblock
-"name": "Donavich (CoS)"
+"name": "Donavich"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "human"
@@ -132,8 +134,10 @@ await dv.view("npcRelationships", { current: dv.current() })
 "traits":
 - "desc": "Donavich is a 1st-level spellcaster. Its spellcasting ability is Wisdom\
     \ (spell save DC 12, dice: d20+4 (+4 to hit) with spell attacks). Donavich has\
-    \ following cleric spells prepared:\n\nCantrips (at will): light, sacred flame,\
-    \ thaumaturgy\n\n1st level (3 slots): bless, cure wounds, sanctuary"
+    \ following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Light.md|light]],\
+    \ [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
+    \n1st level (3 slots): [[5. Mechanics/Spells/Bless.md|bless]], [[5. Mechanics/Spells/Cure Wounds.md|cure wounds]],\
+    \ [[5. Mechanics/Spells/Sanctuary.md|sanctuary]]"
   "name": "spells"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
@@ -141,7 +145,7 @@ await dv.view("npcRelationships", { current: dv.current() })
   "name": "Club"
 "source":
 - "CoS"
-"image": "4. World Almanac/NPCs/token/donavich.png"
+"image": "4. World Almanac/NPCs/token/donavich-cos.webp"
 ```
 ^statblock
 

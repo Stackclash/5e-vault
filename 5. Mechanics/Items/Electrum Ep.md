@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/wealth
-aliases: 
-- "Electrum (ep)"
+  - compendium/src/5e/phb
+  - item/wealth
+aliases:
+  - Electrum (ep)
 cost: 50
 ---
 # Electrum (ep)
-*Treasure*  
+*Coinage*  
 ![[5. Mechanics/Items/img/electrum-ep.webp#right]]  
 
 - **Cost**: 5 sp

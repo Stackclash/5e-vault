@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/6
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/humanoid/kuo-toa
+  - compendium/src/5e/mm
+  - monster/cr/6
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/humanoid/kuo-toa
 statblock: inline
-aliases: ["Kuo-toa Archpriest"]
+aliases:
+  - Kuo-toa Archpriest
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Kuo Toa Archpriest.md|Kuo-toa Archpriest]]
+# [[5. Mechanics\Bestiary\Humanoid\Kuo Toa Archpriest.md|Kuo-toa Archpriest]]
 *Source: Monster Manual p. 200*  
 
 Kuo-toa are degenerate fishlike humanoids that once inhabited the shores and islands of the surface world. Long ago humans and their ilk drove the kuo-toa underground, where they dwell in madness and everlasting night. Kuo-toa can no longer abide daylight.
@@ -56,7 +57,7 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 
 
 ```statblock
-"name": "Kuo-toa Archpriest"
+"name": "Kuo Toa Archpriest"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "kuo-toa"
@@ -119,7 +120,7 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 - "MM"
 - "PotA"
 - "WDMM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/kuo-toa-archpriest.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/kuo-toa-archpriest.webp"
 ```
 ^statblock
 

@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear
-aliases: 
-- "Block and Tackle"
+  - compendium/src/5e/phb
+  - item/gear
+aliases:
+  - Block and Tackle
 cost: 100
 ---
 # Block and Tackle

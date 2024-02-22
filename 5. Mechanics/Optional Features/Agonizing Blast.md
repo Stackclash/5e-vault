@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/phb
-- optional-feature/ei
-aliases: ["Agonizing Blast"]
+  - compendium/src/5e/phb
+  - optional-feature/ei
+aliases:
+  - Agonizing Blast
 ---
 # Agonizing Blast
 *Source: Player's Handbook p. 110. Available in the SRD.*  

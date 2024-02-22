@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/wizard
-- spell/level/6
-- spell/school/necromancy
-aliases: ["Magic Jar"]
+  - compendium/src/5e/phb
+  - spell/class/wizard
+  - spell/level/6
+  - spell/school/necromancy
+aliases:
+  - Magic Jar
 ---
 # Magic Jar
+%%-- Embedded content starts on the next line. --%%
 *6th-level, Necromancy*  
 
 - **Casting time:** 1 minute

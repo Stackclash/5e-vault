@@ -2,19 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/2
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/environment/underwater
-- monster/size/huge
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/2
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/environment/underwater
+  - monster/size/huge
+  - monster/type/beast
 statblock: inline
-aliases: ["Giant Constrictor Snake"]
+aliases:
+  - Giant Constrictor Snake
 ---
-# [[5. Mechanics/Bestiary/Beast/Giant Constrictor Snake.md|Giant Constrictor Snake]]
+# [[5. Mechanics\Bestiary\Beast\Giant Constrictor Snake.md|Giant Constrictor Snake]]
 *Source: Monster Manual p. 324. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -57,7 +58,7 @@ aliases: ["Giant Constrictor Snake"]
 - "EGW"
 - "WBtW"
 - "PaBTSO"
-"image": "5. Mechanics/Bestiary/Beast/token/giant-constrictor-snake.png"
+"image": "5. Mechanics/Bestiary/Beast/token/giant-constrictor-snake.webp"
 ```
 ^statblock
 

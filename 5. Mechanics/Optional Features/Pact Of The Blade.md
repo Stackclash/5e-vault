@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/phb
-- optional-feature/pb
-aliases: ["Pact of the Blade"]
+  - compendium/src/5e/phb
+  - optional-feature/pb
+aliases:
+  - Pact of the Blade
 ---
 # Pact of the Blade
 *Source: Player's Handbook p. 107. Available in the SRD.*  

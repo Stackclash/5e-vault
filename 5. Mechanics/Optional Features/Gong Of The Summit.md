@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/phb
-- optional-feature/ed
-aliases: ["Gong of the Summit"]
+  - compendium/src/5e/phb
+  - optional-feature/ed
+aliases:
+  - Gong of the Summit
 ---
 # Gong of the Summit
 *Source: Player's Handbook p. 81*  

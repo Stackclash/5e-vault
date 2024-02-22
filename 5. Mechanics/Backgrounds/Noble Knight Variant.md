@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
-- background
-- compendium/src/5e/phb
-aliases: ["Noble (Knight) (Variant)"]
+  - background
+  - compendium/src/5e/phb
+aliases:
+  - Noble (Knight) (Variant)
 ---
 # Noble (Knight) (Variant)
 *Source: Player's Handbook p. 136*  
@@ -34,6 +35,8 @@ Your retainers can perform mundane tasks for you, but they do not fight for you,
 
 Nobles are born and raised to a very different lifestyle than most people ever experience, and their personalities reflect that upbringing. A noble title comes with a plethora of bonds—responsibilities to family, to other nobles (including the sovereign), to the people entrusted to the family's care, or even to the title itself. But this responsibility is often a good way to undermine a noble.
 
+`dice: [[Variant Noble Knight.md#^personality-trait]]`
+
 | dice: d8 | Personality Trait |
 |----------|-------------------|
 | 1 | My eloquent flattery makes everyone I talk to feel like the most wonderful and important person in the world. |
@@ -46,6 +49,8 @@ Nobles are born and raised to a very different lifestyle than most people ever e
 | 8 | If you do me an injury, I will crush you, ruin your name, and salt your fields. |
 ^personality-trait
 
+`dice: [[Variant Noble Knight.md#^ideal]]`
+
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Respect. Respect is due to me because of my position, but all people regardless of station deserve to be treated with dignity. (Good) |
@@ -56,6 +61,8 @@ Nobles are born and raised to a very different lifestyle than most people ever e
 | 6 | Noble Obligation. It is my duty to protect and care for the people beneath me. (Good) |
 ^ideal
 
+`dice: [[Variant Noble Knight.md#^bond]]`
+
 | dice: d6 | Bond |
 |----------|------|
 | 1 | I will face any challenge to win the approval of my family. |
@@ -65,6 +72,8 @@ Nobles are born and raised to a very different lifestyle than most people ever e
 | 5 | My loyalty to my sovereign is unwavering. |
 | 6 | The common folk must see me as a hero of the people. |
 ^bond
+
+`dice: [[Variant Noble Knight.md#^flaw]]`
 
 | dice: d6 | Flaw |
 |----------|------|

@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/3
-- monster/environment/desert
-- monster/size/large
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/3
+  - monster/environment/desert
+  - monster/size/large
+  - monster/type/beast
 statblock: inline
-aliases: ["Giant Scorpion"]
+aliases:
+  - Giant Scorpion
 ---
-# [[5. Mechanics/Bestiary/Beast/Giant Scorpion.md|Giant Scorpion]]
+# [[5. Mechanics\Bestiary\Beast\Giant Scorpion.md|Giant Scorpion]]
 *Source: Monster Manual p. 327. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -55,7 +56,7 @@ aliases: ["Giant Scorpion"]
 - "JttRC"
 - "DSotDQ"
 - "PSA"
-"image": "5. Mechanics/Bestiary/Beast/token/giant-scorpion.png"
+"image": "5. Mechanics/Bestiary/Beast/token/giant-scorpion.webp"
 ```
 ^statblock
 

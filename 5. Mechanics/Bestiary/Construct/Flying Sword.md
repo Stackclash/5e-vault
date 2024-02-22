@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-4
-- monster/size/small
-- monster/type/construct
+  - compendium/src/5e/mm
+  - monster/cr/1-4
+  - monster/size/small
+  - monster/type/construct
 statblock: inline
-aliases: ["Flying Sword"]
+aliases:
+  - Flying Sword
 ---
-# [[5. Mechanics/Bestiary/Construct/Flying Sword.md|Flying Sword]]
+# [[5. Mechanics\Bestiary\Construct\Flying Sword.md|Flying Sword]]
 *Source: Monster Manual p. 20, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 A flying sword dances through the air, fighting with the confidence of a warrior that can't be injured. Swords are the most common weapons animated with magic. Axes, clubs, daggers, maces, spears, and even self-loading crossbows are also known to exist in animated object form.
@@ -85,7 +86,7 @@ An animated object doesn't require air, food, drink, or sleep. The magic that an
 - "KftGV"
 - "BMT"
 - "DoDk"
-"image": "5. Mechanics/Bestiary/Construct/token/flying-sword.png"
+"image": "5. Mechanics/Bestiary/Construct/token/flying-sword.webp"
 ```
 ^statblock
 

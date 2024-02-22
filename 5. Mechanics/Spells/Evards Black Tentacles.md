@@ -2,18 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/fighter/eldritch-knight
-- spell/class/rogue/arcane-trickster
-- spell/class/sorcerer/aberrant-mind
-- spell/class/warlock/the-fathomless
-- spell/class/warlock/the-great-old-one
-- spell/class/wizard
-- spell/level/4
-- spell/school/conjuration
-aliases: ["Evard's Black Tentacles"]
+  - compendium/src/5e/phb
+  - spell/class/fighter/eldritch-knight
+  - spell/class/rogue/arcane-trickster
+  - spell/class/sorcerer/aberrant-mind
+  - spell/class/warlock/the-fathomless
+  - spell/class/warlock/the-great-old-one
+  - spell/class/wizard
+  - spell/level/4
+  - spell/school/conjuration
+aliases:
+  - Evard's Black Tentacles
 ---
 # Evard's Black Tentacles
+%%-- Embedded content starts on the next line. --%%
 *4th-level, Conjuration*  
 
 - **Casting time:** 1 action
@@ -27,6 +29,6 @@ When a creature enters the affected area for the first time on a turn or starts 
 
 A creature [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]] by the tentacles can use its action to make a Strength or Dexterity check (its choice) against your spell save DC. On a success, it frees itself.
 
-**Classes**: [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer Aberrant Mind (TCE).md\|Sorcerer (Aberrant Mind)]], [[5. Mechanics/Classes/Warlock The Fathomless (TCE).md\|Warlock (The Fathomless)]], [[5. Mechanics/Classes/Warlock The Great Old One.md\|Warlock (The Great Old One)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer Aberrant Mind.md\|Sorcerer (Aberrant Mind)]], [[5. Mechanics/Classes/Warlock The Fathomless.md\|Warlock (The Fathomless)]], [[5. Mechanics/Classes/Warlock The Great Old One.md\|Warlock (The Great Old One)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 238. Available in the SRD (as 'Black Tentacles').*

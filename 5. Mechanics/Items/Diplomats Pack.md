@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear
-aliases: 
-- "Diplomat's Pack"
+  - compendium/src/5e/phb
+  - item/gear
+aliases:
+  - Diplomat's Pack
 cost: 3900
 ---
 # Diplomat's Pack
@@ -19,7 +19,7 @@ Includes:
 - a [[5. Mechanics/Items/Chest.md\|chest]]  
 - 2 [[5. Mechanics/Items/Map Or Scroll Case.md\|cases for maps and scrolls]]  
 - a set of [[5. Mechanics/Items/Fine Clothes.md\|fine clothes]]  
-- a [[5. Mechanics/Items/Ink-1 Ounce Bottle.md\|bottle of ink]]  
+- a [[5. Mechanics/Items/Ink 1 Ounce Bottle.md\|bottle of ink]]  
 - an [[5. Mechanics/Items/Ink Pen.md\|ink pen]]  
 - a [[5. Mechanics/Items/Lamp.md\|lamp]]  
 - 2 [[5. Mechanics/Items/Oil Flask.md\|flasks of oil]]  

@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-8
-- monster/size/tiny
-- monster/type/aberration
+  - compendium/src/5e/mm
+  - monster/cr/1-8
+  - monster/size/tiny
+  - monster/type/aberration
 statblock: inline
-aliases: ["Slaad Tadpole"]
+aliases:
+  - Slaad Tadpole
 ---
-# [[5. Mechanics/Bestiary/Aberration/Slaad Tadpole.md|Slaad Tadpole]]
+# [[5. Mechanics\Bestiary\Aberration\Slaad Tadpole.md|Slaad Tadpole]]
 *Source: Monster Manual p. 276*  
 
 ## Slaadi
@@ -89,7 +90,7 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 - "KftGV"
 - "PaBTSO"
 - "SatO"
-"image": "5. Mechanics/Bestiary/Aberration/token/slaad-tadpole.png"
+"image": "5. Mechanics/Bestiary/Aberration/token/slaad-tadpole.webp"
 ```
 ^statblock
 

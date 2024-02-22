@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-2
-- monster/size/small
-- monster/type/elemental
+  - compendium/src/5e/mm
+  - monster/cr/1-2
+  - monster/size/small
+  - monster/type/elemental
 statblock: inline
-aliases: ["Magmin"]
+aliases:
+  - Magmin
 ---
-# [[5. Mechanics/Bestiary/Elemental/Magmin.md|Magmin]]
+# [[5. Mechanics\Bestiary\Elemental\Magmin.md|Magmin]]
 *Source: Monster Manual p. 212. Available in the SRD.*  
 
 A grinning, mischievous magmin resembles a stumpy humanoid sculpted from a black shell of magma. Even when it isn't ablaze and radiating heat like a bonfire, small jets of flame erupt from its porous skin.
@@ -70,7 +71,7 @@ If it has the opportunity while in service to its master, a magmin seeks out are
 - "BGDIA"
 - "WBtW"
 - "SatO"
-"image": "5. Mechanics/Bestiary/Elemental/token/magmin.png"
+"image": "5. Mechanics/Bestiary/Elemental/token/magmin.webp"
 ```
 ^statblock
 

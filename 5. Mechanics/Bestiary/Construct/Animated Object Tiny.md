@@ -2,18 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/phb
-- monster/cr/
-- monster/size/tiny
-- monster/type/construct
+  - compendium/src/5e/phb
+  - monster/cr/
+  - monster/size/tiny
+  - monster/type/construct
 statblock: inline
-aliases: ["Animated Object (Tiny)"]
+aliases:
+  - Animated Object (Tiny)
 ---
-# [[5. Mechanics/Bestiary/Construct/Animated Object Tiny.md|Animated Object (Tiny)]]
+# [[5. Mechanics\Bestiary\Construct\Animated Object Tiny.md|Animated Object (Tiny)]]
 *Source: Player's Handbook p. 213*  
 
 ```statblock
-"name": "Animated Object (Tiny) (PHB)"
+"name": "Animated Object Tiny"
 "size": "Tiny"
 "type": "construct"
 "alignment": "Unaligned"
@@ -44,7 +45,7 @@ aliases: ["Animated Object (Tiny)"]
   "name": "Slam"
 "source":
 - "PHB"
-"image": "5. Mechanics/Bestiary/Construct/token/animated-object-tiny.png"
+"image": "5. Mechanics/Bestiary/Construct/token/animated-object-tiny.webp"
 ```
 ^statblock
 

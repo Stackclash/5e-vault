@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/attunement/required
-- item/property/versatile
-- item/rarity/uncommon
-- item/tier/major
-- item/wondrous/staff
-aliases: 
-- "Staff of the Python"
+  - compendium/src/5e/dmg
+  - item/attunement/required
+  - item/property/versatile
+  - item/rarity/uncommon
+  - item/tier/major
+  - item/wondrous/staff
+aliases:
+  - Staff of the Python
 ---
 # Staff of the Python
 *Staff, major, uncommon (requires attunement by a cleric, druid, or warlock)*  

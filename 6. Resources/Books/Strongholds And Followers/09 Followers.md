@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/saf
-aliases: ["Followers"]
+  - compendium/src/5e/saf
+aliases:
+  - Followers
 ---
 # Followers
 *Source: Strongholds and Followers* 
@@ -184,79 +185,79 @@ The character who recruited the retainer is called their **leader**. This term i
 
 #### Barbarian Retainers
 
-- [[5. Mechanics/Bestiary/Humanoid/Reaver (SAF).md\|Reaver]]  
-- [[5. Mechanics/Bestiary/Humanoid/Spirit Warden (SAF).md\|Spirit Warden]]  
+- [[5. Mechanics/Bestiary/Humanoid/Reaver.md\|Reaver]]  
+- [[5. Mechanics/Bestiary/Humanoid/Spirit Warden.md\|Spirit Warden]]  
 
 #### Bard Retainers
 
-- [[5. Mechanics/Bestiary/Humanoid/Loremaster (SAF).md\|Loremaster]]  
-- [[5. Mechanics/Bestiary/Humanoid/Troubadour Warrior (SAF).md\|Troubadour-warrior]]  
+- [[5. Mechanics/Bestiary/Humanoid/Loremaster.md\|Loremaster]]  
+- [[5. Mechanics/Bestiary/Humanoid/Troubadour Warrior.md\|Troubadour-warrior]]  
 
 #### Cleric Retainers
 
-- [[5. Mechanics/Bestiary/Humanoid/Curate (SAF).md\|Curate]]  
-- [[5. Mechanics/Bestiary/Humanoid/Exorcist (SAF).md\|Exorcist]]  
-- [[5. Mechanics/Bestiary/Humanoid/Healer (SAF).md\|Healer]]  
-- [[5. Mechanics/Bestiary/Humanoid/Shadow Priest (SAF).md\|Shadow Priest]]  
-- [[5. Mechanics/Bestiary/Humanoid/Stormspeaker (SAF).md\|Stormspeaker]]  
-- [[5. Mechanics/Bestiary/Humanoid/Warden (SAF).md\|Warden]]  
-- [[5. Mechanics/Bestiary/Humanoid/Battle Priest (SAF).md\|Battle Priest]]  
+- [[5. Mechanics/Bestiary/Humanoid/Curate.md\|Curate]]  
+- [[5. Mechanics/Bestiary/Humanoid/Exorcist.md\|Exorcist]]  
+- [[5. Mechanics/Bestiary/Humanoid/Healer.md\|Healer]]  
+- [[5. Mechanics/Bestiary/Humanoid/Shadow Priest.md\|Shadow Priest]]  
+- [[5. Mechanics/Bestiary/Humanoid/Stormspeaker.md\|Stormspeaker]]  
+- [[5. Mechanics/Bestiary/Humanoid/Warden.md\|Warden]]  
+- [[5. Mechanics/Bestiary/Humanoid/Battle Priest.md\|Battle Priest]]  
 
 #### Druid Retainers
 
-- [[5. Mechanics/Bestiary/Humanoid/Mystic (SAF).md\|Mystic]]  
-- [[5. Mechanics/Bestiary/Humanoid/Skinwalker (SAF).md\|Skinwalker]]  
+- [[5. Mechanics/Bestiary/Humanoid/Mystic.md\|Mystic]]  
+- [[5. Mechanics/Bestiary/Humanoid/Skinwalker.md\|Skinwalker]]  
 
 #### Fighter Retainers
 
-- [[5. Mechanics/Bestiary/Humanoid/Knight Sorcerer (SAF).md\|Knight-Sorcerer]]  
-- [[5. Mechanics/Bestiary/Humanoid/Swordmaster (SAF).md\|Swordmaster]]  
-- [[5. Mechanics/Bestiary/Humanoid/Warlord (SAF).md\|Warlord]]  
+- [[5. Mechanics/Bestiary/Humanoid/Knight Sorcerer.md\|Knight-Sorcerer]]  
+- [[5. Mechanics/Bestiary/Humanoid/Swordmaster.md\|Swordmaster]]  
+- [[5. Mechanics/Bestiary/Humanoid/Warlord.md\|Warlord]]  
 
 #### Monk Retainers
 
-- [[5. Mechanics/Bestiary/Humanoid/Acolyte Of The Way (SAF).md\|Acolyte of the Way]]  
-- [[5. Mechanics/Bestiary/Humanoid/Acolyte Of Darkness (SAF).md\|Acolyte of Darkness]]  
-- [[5. Mechanics/Bestiary/Humanoid/Elemental Acolyte (SAF).md\|Elemental Acolyte]]  
+- [[5. Mechanics/Bestiary/Humanoid/Acolyte Of The Way.md\|Acolyte of the Way]]  
+- [[5. Mechanics/Bestiary/Humanoid/Acolyte Of Darkness.md\|Acolyte of Darkness]]  
+- [[5. Mechanics/Bestiary/Humanoid/Elemental Acolyte.md\|Elemental Acolyte]]  
 
 #### Paladin Retainers
 
-- [[5. Mechanics/Bestiary/Humanoid/Cavalier (SAF).md\|Cavalier]]  
-- [[5. Mechanics/Bestiary/Humanoid/Justicar (SAF).md\|Justicar]]  
-- [[5. Mechanics/Bestiary/Humanoid/Knight Of The Green Order (SAF).md\|Knight of the Green Order]]  
+- [[5. Mechanics/Bestiary/Humanoid/Cavalier.md\|Cavalier]]  
+- [[5. Mechanics/Bestiary/Humanoid/Justicar.md\|Justicar]]  
+- [[5. Mechanics/Bestiary/Humanoid/Knight Of The Green Order.md\|Knight of the Green Order]]  
 
 #### Ranger Retainers
 
-- [[5. Mechanics/Bestiary/Humanoid/Beast Lord (SAF).md\|Beast Lord]]  
-- [[5. Mechanics/Bestiary/Humanoid/Tracker (SAF).md\|Tracker]]  
+- [[5. Mechanics/Bestiary/Humanoid/Beast Lord.md\|Beast Lord]]  
+- [[5. Mechanics/Bestiary/Humanoid/Tracker.md\|Tracker]]  
 
 #### Rogue Retainers
 
-- [[5. Mechanics/Bestiary/Humanoid/Executioner (SAF).md\|Executioner]]  
-- [[5. Mechanics/Bestiary/Humanoid/Guild Adept (SAF).md\|Guild Adept]]  
-- [[5. Mechanics/Bestiary/Humanoid/Cutpurse (SAF).md\|Cutpurse]]  
+- [[5. Mechanics/Bestiary/Humanoid/Executioner.md\|Executioner]]  
+- [[5. Mechanics/Bestiary/Humanoid/Guild Adept.md\|Guild Adept]]  
+- [[5. Mechanics/Bestiary/Humanoid/Cutpurse.md\|Cutpurse]]  
 
 #### Sorcerer Retainers
 
-- [[5. Mechanics/Bestiary/Humanoid/Thaumaturgist (SAF).md\|Thaumaturgist]]  
-- [[5. Mechanics/Bestiary/Humanoid/Chaos Mage (SAF).md\|Chaos Mage]]  
+- [[5. Mechanics/Bestiary/Humanoid/Thaumaturgist.md\|Thaumaturgist]]  
+- [[5. Mechanics/Bestiary/Humanoid/Chaos Mage.md\|Chaos Mage]]  
 
 #### Warlock Retainers
 
-- [[5. Mechanics/Bestiary/Humanoid/Alienist (SAF).md\|Alienist]]  
-- [[5. Mechanics/Bestiary/Humanoid/Diabolist (SAF).md\|Diabolist]]  
-- [[5. Mechanics/Bestiary/Humanoid/Exarch (SAF).md\|Exarch]]  
+- [[5. Mechanics/Bestiary/Humanoid/Alienist.md\|Alienist]]  
+- [[5. Mechanics/Bestiary/Humanoid/Diabolist.md\|Diabolist]]  
+- [[5. Mechanics/Bestiary/Humanoid/Exarch.md\|Exarch]]  
 
 #### Wizard Retainers
 
-- [[5. Mechanics/Bestiary/Humanoid/Conjurer (SAF).md\|Conjurer]]  
-- [[5. Mechanics/Bestiary/Humanoid/Enchanter (SAF).md\|Enchanter]]  
-- [[5. Mechanics/Bestiary/Humanoid/Evoker (SAF).md\|Evoker]]  
-- [[5. Mechanics/Bestiary/Humanoid/Illusionist (SAF).md\|Illusionist]]  
-- [[5. Mechanics/Bestiary/Humanoid/Necromancer (SAF).md\|Necromancer]]  
-- [[5. Mechanics/Bestiary/Humanoid/Seer (SAF).md\|Seer]]  
-- [[5. Mechanics/Bestiary/Humanoid/Shaper (SAF).md\|Shaper]]  
-- [[5. Mechanics/Bestiary/Humanoid/Theurgist (SAF).md\|Theurgist]]  
+- [[5. Mechanics/Bestiary/Humanoid/Conjurer.md\|Conjurer]]  
+- [[5. Mechanics/Bestiary/Humanoid/Enchanter.md\|Enchanter]]  
+- [[5. Mechanics/Bestiary/Humanoid/Evoker.md\|Evoker]]  
+- [[5. Mechanics/Bestiary/Humanoid/Illusionist.md\|Illusionist]]  
+- [[5. Mechanics/Bestiary/Humanoid/Necromancer.md\|Necromancer]]  
+- [[5. Mechanics/Bestiary/Humanoid/Seer.md\|Seer]]  
+- [[5. Mechanics/Bestiary/Humanoid/Shaper.md\|Shaper]]  
+- [[5. Mechanics/Bestiary/Humanoid/Theurgist.md\|Theurgist]]  
 
 ## Artisans
 
@@ -272,7 +273,7 @@ The mason who sets up shop in a fighter's keep was probably one of the folks who
 
 A tailor who joins a lord in their wilderness stronghold may be a local townsperson seeking greater glory, the opportunity to serve a baron or a count! Or they may be someone from the nearest big city who's tired of serving folks who don't appreciate their handiwork, hearing tell of a newly landed noble building a keep, and decides it is better to be a big fish in a small pond than a little fish in the great wide ocean. The tailor from the big city brings with them all the prejudices of civilization, but also all the knowledge that comes with it, knowledge of court intrigues and fashion.
 
-![[5. Mechanics/Tables/Artisan Shop Improvement Table (SAF).md\|Artisan Shop Improvement Table]]
+![[5. Mechanics/Tables/Artisan Shop Improvement Table.md\|Artisan Shop Improvement Table]]
 
 ### Your Artisan's Shop
 
@@ -292,7 +293,7 @@ An alchemy test combines two skill checks: first an Arcana check to determine if
 
 **The DC of the Arcana check** to locate the organs and remember the best way to extract them equals 8 + the challenge rating of the creature you're operating on.
 
-**The DC of the Medicine check** to perform the surgery and extract enough useful material without destroying it depends on the organ in question and the challenge rating of the creature, as shown in the [[5. Mechanics/Tables/Alchemy Test (SAF).md\|Alchemy Test]] table.
+**The DC of the Medicine check** to perform the surgery and extract enough useful material without destroying it depends on the organ in question and the challenge rating of the creature, as shown in the [[5. Mechanics/Tables/Alchemy Test.md\|Alchemy Test]] table.
 
 A given corpse can only withstand one alchemy test before it's unusable.
 
@@ -342,10 +343,10 @@ Consuming the potion acts just like casting the spell, but it only works against
 > 
 > *"Get out! Get out! Oh, it's you. Come in! Come in! I've got the ah—what was I working on? Oh! The potions of healing, thanks to your priest friend. Here, and here. What? Oh, my eyebrows. I lost them when my second try at the potion of fire breath exploded, but I'm sure I've got it now! Third time's the charm, eh? Oh, speaking of charm, here's the philter of love you asked for. I put a little kick in it in case your young friend's enthusiasm is, um, stiffer than his resolve. AH-HAHAHA *cough*cough*cough* Ahem. Hehe."*
 > 
-> ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/sample-witch.webp#center)
+> ![[6. Resources/Books/Strongholds And Followers/img/sample-witch.webp#center]]
 ^sample-alchemist-morwen-the-witch
 
-![[5. Mechanics/Tables/Alchemy Test (SAF).md\|Alchemy Test]]
+![[5. Mechanics/Tables/Alchemy Test.md\|Alchemy Test]]
 
 ### The Blacksmith
 
@@ -361,7 +362,7 @@ What items your smith can forge depends on which organs you bring!
 
 #### The Blood of the Beast: Arrows of Slaying
 
-The alchemy test needed to make arrows of slaying depends on the CR of the monster in question, as described in [[5. Mechanics/Tables/Alchemy Test (SAF).md\|The Alchemy Test]] (page 83). The number of arrows you get is also based on the CR of the monster. Very powerful monsters yield only a single arrow. Crafting the arrows requires the services of a 9th-level spellcaster.
+The alchemy test needed to make arrows of slaying depends on the CR of the monster in question, as described in [[5. Mechanics/Tables/Alchemy Test.md\|The Alchemy Test]] (page 83). The number of arrows you get is also based on the CR of the monster. Very powerful monsters yield only a single arrow. Crafting the arrows requires the services of a 9th-level spellcaster.
 
 If a player asks, "Why there aren't more of these things out in the world?" remind them that there are few people out there with the necessary skill (alchemy), opportunity (adventuring), and resources (stronghold with appropriate follower), and even then, you only get a handful of arrows, and of course they are spent once shot!
 
@@ -395,7 +396,7 @@ The alchemy test needed to make a slaying weapon depends on the CR of the monste
 > 
 > *"I went to visit my father's people once, as a boy. They took my arm as payment for time spent among the men of fields and farms. So if you're plannin' on using it against the orcs of the hills, then aye. I'll make the weapon for you. Beat the dents out of that armor, too. Do whatever you ask because you give me a place to work, and you don't look at me different to anyone else. That earns you my labor."*
 > 
-> ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/sample-blacksmith.webp#center)
+> ![[6. Resources/Books/Strongholds And Followers/img/sample-blacksmith.webp#center]]
 ^example-blacksmith-urr-the-one-handed
 
 ### The Captain
@@ -428,7 +429,7 @@ Your barracks can upgrade a number of units equal to its level. It begins at 1st
 > 
 > *"I'll run the lot of 'em while you're gone. Leave everything to me, sire. You won't recognize 'em when you get back! They'll be on parade smart and know their drilling and their marching. You'll see, sire. And if anyone should come pokin' around while you're gone, thinking the master's away it's time to play, they'll get four companies of pike in their face and the scars to remember us by!"*
 > 
-> ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/sample-captain.webp#center)
+> ![[6. Resources/Books/Strongholds And Followers/img/sample-captain.webp#center]]
 ^example-captain-captain-horblack
 
 ### The Carpenter
@@ -447,7 +448,7 @@ Like the mason or blacksmith, Arranel is a woman of few words. Only comfortable 
 
 *"It'll take a lot of wood, but we're surrounded by forest. This place'll be clear for three miles in every direction by the time we're done. Good though. Make it hard for anyone to sneak up on this place. We'll start with the watchtower. Don't want to get interrupted by Sir Pelliton bringing his Illriggers up here without us knowing it. I'll need a whole team. Hope you brought more than a few coppers out of that ruin."*
 
-![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/sample-carpenter.webp#center)
+![[6. Resources/Books/Strongholds And Followers/img/sample-carpenter.webp#center]]
 
 ### The Farmer
 
@@ -470,7 +471,7 @@ Farmers also enjoy having a place to drink ale, talk, and relax after a hard day
 > *"Wolves and the lot, we can handle 'em. We had goblins year before last. The boys took care of them. But these bandits. They're smart. Well supplied. Got mages and priests I hear tell. My lord, I think this is the tip of a spear. They're not testing me and mine. They're testing you. Seein' how you'll react. You want my advice? You hit 'em back. Hard. Teach 'em who rules here."*
 ^example-farmer-willem-the-bald
 
-![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/farmer.webp#center)
+![[6. Resources/Books/Strongholds And Followers/img/farmer.webp#center]]
 
 ### The Mason
 
@@ -493,7 +494,7 @@ Like carpenters, masons decrease the cost of improving your stronghold by 10% pe
 > *"Well now you see this wall here? All fieldstones. Limestone, some sandstone. Travertine. Looks like they started with granite and gave up!" he wheezes, laughing. "Can do some work. Clean the place up. Fixing that tower though, gonna need a proper quarry. Means sending off to Malle near the high city. Take some time, need some workers. Won't be secret. Everyone will know we're fixing this place up. Hope you're prepared for the attention!"*
 ^example-mason-galder-of-chalk
 
-![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/mason.webp#center)
+![[6. Resources/Books/Strongholds And Followers/img/mason.webp#center]]
 
 ### The Miner
 
@@ -513,7 +514,7 @@ In addition, a mine improves the Equipment of some number of your units by one l
 > 
 > *"You should know, sire: seam like this...it's valuable. Folk will hear tell of it. Every time we strike ore like this, and I mean every time, someone comes to take it. So you best be ready to defend it. You got you a keep, a retinoo. Time you muster some troops. Levies won't do it, sire. Gotta be proper soldiers, or say goodbye to all this precious ore."*
 > 
-> ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/sample-miner.webp#center)
+> ![[6. Resources/Books/Strongholds And Followers/img/sample-miner.webp#center]]
 ^example-miner-zoran-steeleye
 
 ### The Sage
@@ -544,7 +545,7 @@ Your sage also knows the location of the nearest codex. It may be hidden in a ru
 > 
 > *"The knowledge you seek exists and moreover I know where it can be found. It is the Codex Incabulum, the Tome of Binding Demons. Whosoever holds the Incabulum is said to be warded against all demonic violence. It was written by Marcus Gaius Orestes in the 101st year of the Age of Conquest. It has disappeared and resurfaced several times in the past thousand years, but to my certain knowledge it now resides with the arch vizier of the pharaoh in the Infinite Desert. I also happen to know the desert is not infinite, but that knowledge is less obscure."*
 > 
-> ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/sample-sage.webp#center)
+> ![[6. Resources/Books/Strongholds And Followers/img/sample-sage.webp#center]]
 ^example-sage-beryan-trewarthen
 
 ### The Scribe
@@ -577,7 +578,7 @@ Because the scroll is uncommon, it can be crafted faster and cheaper than its mo
 > 
 > "Black gods, where did you come by this lovely? Oh come to mother, darling! Wait don't tell me, let me guess...it's the heart of a...mmm...big, looks like a flying beastie, and you're not a one to kill a griffon or a pegasus. A manticore! Hahah, you killed one'a them flying lion scorpion monstrosities that plague the hills! Well leave it to old Demelza, dearie. I mean, your ladyship. You'll not be bothered next time you come across one of these buggers, I'll tell you that for nothing. I'll boil this one up right away. Have to dust off the cauldron..."
 > 
-> ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/sample-scribe.webp#center)
+> ![[6. Resources/Books/Strongholds And Followers/img/sample-scribe.webp#center]]
 ^example-scribe-demelza-the-black-fingered
 
 ### The Spy
@@ -600,7 +601,7 @@ In addition, your spy knows which nearby folk might be interested in signing on 
 > 
 > *"Don't give me that look. This is why you pay me. So you can sleep at night."*
 > 
-> ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/follower-intro.webp#center)
+> ![[6. Resources/Books/Strongholds And Followers/img/follower-intro.webp#center]]
 ^example-spy-pick
 
 ### The Tailor
@@ -619,7 +620,7 @@ Not every regent yearns for a good tailor. The barbarian considers such finery a
 > 
 > "Mi'lady of course you want to be intimidating and yes we agree that a lightning bolt usually has the last word in such matters, but spells are precious! Or so we've been told. Much less expensive is the right word in the right place, with the right demeanor. Now, for instance, that dress you're wearing. Little better than sackcloth. Yes I know you recovered it from an elven temple, but did you consider it was lying there, disused, for a reason? If you'll only allow us, we'll make you a new outfit with wider shoulders, perhaps some discreet padding here and here, and a cinched waist to reinforce mi'lady's already quite imposing figure. With this dress, mi'lady, your merest whisper becomes an order. They will be compelled."
 > 
-> ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/sample-tailor.webp#center)
+> ![[6. Resources/Books/Strongholds And Followers/img/sample-tailor.webp#center]]
 ^example-tailor-mister-markensworth
 
 ## Ambassadors

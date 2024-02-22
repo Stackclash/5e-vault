@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-2
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/ooze
+  - compendium/src/5e/mm
+  - monster/cr/1-2
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/ooze
 statblock: inline
-aliases: ["Gray Ooze"]
+aliases:
+  - Gray Ooze
 ---
-# [[5. Mechanics/Bestiary/Ooze/Gray Ooze.md|Gray Ooze]]
+# [[5. Mechanics\Bestiary\Ooze\Gray Ooze.md|Gray Ooze]]
 *Source: Monster Manual p. 243, Curse of Strahd. Available in the SRD.*  
 
 A gray ooze is stone turned to liquid by chaos. When it moves, it slithers like a liquid snake, rising to strike.
@@ -94,7 +95,7 @@ An ooze doesn't require sleep.
 - "GoS"
 - "KftGV"
 - "PaBTSO"
-"image": "5. Mechanics/Bestiary/Ooze/token/gray-ooze.png"
+"image": "5. Mechanics/Bestiary/Ooze/token/gray-ooze.webp"
 ```
 ^statblock
 

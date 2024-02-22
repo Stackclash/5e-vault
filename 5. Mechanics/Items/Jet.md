@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/wealth
-aliases: 
-- "Jet"
+  - compendium/src/5e/dmg
+  - item/wealth
+aliases:
+  - Jet
 cost: 10000
 ---
 # Jet
-*Treasure*  
+*Gemstone*  
 
 - **Cost**: 100 gp
 

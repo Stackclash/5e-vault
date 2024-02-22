@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/0
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/plant
+  - compendium/src/5e/mm
+  - monster/cr/0
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/plant
 statblock: inline
-aliases: ["Shrieker"]
+aliases:
+  - Shrieker
 ---
-# [[5. Mechanics/Bestiary/Plant/Shrieker.md|Shrieker]]
+# [[5. Mechanics\Bestiary\Plant\Shrieker.md|Shrieker]]
 *Source: Monster Manual p. 138. Available in the SRD.*  
 
 A shrieker is a human-sized mushroom that emits a piercing screech to drive off creatures that disturb it. Other creatures use the fungi as an alarm to signal the approach of prey, and various intelligent races of the Underdark cultivate shriekers on the outskirts of their communities to discourage trespassers.
@@ -59,7 +60,7 @@ Not needing sunlight or warmth to grow, fungi thrive in every corner and crevice
 - "WDMM"
 - "GoS"
 - "PaBTSO"
-"image": "5. Mechanics/Bestiary/Plant/token/shrieker.png"
+"image": "5. Mechanics/Bestiary/Plant/token/shrieker.webp"
 ```
 ^statblock
 

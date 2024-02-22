@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- compendium/src/5e/dmg
-- object/size/large
-- object/type/siege-weapon
+  - compendium/src/5e/dmg
+  - object/size/large
+  - object/type/siege-weapon
 statblock: inline
-aliases: ["Mangonel"]
+aliases:
+  - Mangonel
 ---
 # Mangonel
 *Source: Dungeon Master's Guide p. 255*  
@@ -16,7 +17,7 @@ A mangonel is a type of catapult that hurls heavy projectiles in a high arc. Thi
 A mangonel typically hurls a heavy stone, although it can hurl other kinds of projectiles, with different effects.
 ```ad-statblock
 title: Mangonel
-![[5. Mechanics/Objects/token/mangonel.png#token]]
+![[5. Mechanics/Objects/token/mangonel.webp#token]]
 *Large Siege weapon*
 
 - **Armor Class** 15 
@@ -25,7 +26,7 @@ title: Mangonel
 
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-||
+|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
 
 - **Damage Immunities** poison, psychic
 

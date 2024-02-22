@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/11
-- monster/environment/arctic
-- monster/size/huge
-- monster/type/monstrosity
+  - compendium/src/5e/mm
+  - monster/cr/11
+  - monster/environment/arctic
+  - monster/size/huge
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Remorhaz"]
+aliases:
+  - Remorhaz
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Remorhaz.md|Remorhaz]]
+# [[5. Mechanics\Bestiary\Monstrosity\Remorhaz.md|Remorhaz]]
 *Source: Monster Manual p. 258. Available in the SRD.*  
 
 From beneath the snow and ice bursts a remorhaz in a cloud of steam, its body pulsing with internal fire. Wing like fins flare from the back of the creature's head, and its wide mouth brims with jagged teeth.
@@ -79,7 +80,7 @@ Frost giant hunters scour the icy wastes for remorhaz nests and eggs. The giants
 - "LoX"
 - "PaBTSO"
 - "BMT"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/remorhaz.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/remorhaz.webp"
 ```
 ^statblock
 

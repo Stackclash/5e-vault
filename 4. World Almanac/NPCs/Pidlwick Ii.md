@@ -1,32 +1,36 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: null
 condition: healthy
 relationships: []
-tags: 
+tags: null
 aliases: []
-pronounced: 
-race: 
-gender: 
-age: 
+pronounced: null
+race: null
+gender: null
+age: null
 alignment: Neutral Evil
-occupation: [] 
+occupation: []
 groups: []
 religions: []
-personality: 
+personality: null
 ideal: I wish I could make people happy.
-bond: I would like to find someone - anyone - who isn't afraid of me and who enjoys my company.
-flaw: When I'm upset, I do bad things.
-goals: 
-likes: 
-dislikes: 
+bond: >-
+  I would like to find someone - anyone - who isn't afraid of me and who enjoys
+  my company.
+flaw: 'When I''m upset, I do bad things.'
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
-> ![[4. World Almanac/NPCs/img/pidlwick-ii.webp|cover hm-sm]] 
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```
 > ###### Bio
 >  |
 >  ---|---|
@@ -136,7 +140,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 
 ## Stats
 ```statblock
-"name": "Pidlwick II (CoS)"
+"name": "Pidlwick Ii"
 "size": "Small"
 "type": "construct"
 "alignment": "Neutral Evil"
@@ -154,7 +158,8 @@ await dv.view("npcRelationships", { current: dv.current() })
 "skillsaves":
   "Performance": !!int "2"
 "damage_immunities": "poison"
-"condition_immunities": "paralyzed, petrified, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "passive Perception 11"
 "languages": "understands Common but doesn't speak and can't read or write"
 "cr": "1/4"
@@ -171,7 +176,7 @@ await dv.view("npcRelationships", { current: dv.current() })
   "name": "Dart"
 "source":
 - "CoS"
-"image": "4. World Almanac/NPCs/token/pidlwick-ii.png"
+"image": "4. World Almanac/NPCs/token/pidlwick-ii-cos.webp"
 ```
 ^statblock
 

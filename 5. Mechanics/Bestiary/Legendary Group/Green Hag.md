@@ -2,11 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/mm
-- monster/legendary-group
-aliases: ["Green Hag"]
+  - compendium/src/5e/mm
+  - monster/legendary-group
+aliases:
+  - Green Hag
 ---
 # Green Hag
+
+## Is homebrew
+_Source: Monster Manual_
+
+false
 
 ## Lair actions
 _Source: Monster Manual_

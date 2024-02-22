@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/4
-- monster/environment/coastal
-- monster/environment/forest
-- monster/size/medium
-- monster/type/undead
+  - compendium/src/5e/mm
+  - monster/cr/4
+  - monster/environment/coastal
+  - monster/environment/forest
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
-aliases: ["Banshee"]
+aliases:
+  - Banshee
 ---
-# [[5. Mechanics/Bestiary/Undead/Banshee.md|Banshee]]
+# [[5. Mechanics\Bestiary\Undead\Banshee.md|Banshee]]
 *Source: Monster Manual p. 23, Curse of Strahd, Tasha's Cauldron of Everything. Available in the Basic Rules.*  
 
 When night falls, unlucky travelers hear the faint cries of the forlorn dead. This woeful spirit is a banshee, a spiteful creature formed from the spirit of a female elf. Banshees appear as luminous, wispy forms that vaguely recall their mortal features. A banshee's face is wreathed in a wild tangle of hair, its body clad in wispy rags that flutter and stream around it.
@@ -102,7 +103,7 @@ A banshee doesn't require air, food, drink, or sleep.
 - "JttRC"
 - "PaBTSO"
 - "BMT"
-"image": "5. Mechanics/Bestiary/Undead/token/banshee.png"
+"image": "5. Mechanics/Bestiary/Undead/token/banshee.webp"
 ```
 ^statblock
 

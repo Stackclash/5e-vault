@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- compendium/src/5e/erlw
-- deity/eberron
-- domain/forge
-- domain/knowledge
-- domain/trickery
-aliases: ["The Traveler"]
+  - compendium/src/5e/erlw
+  - deity/eberron
+  - domain/forge
+  - domain/knowledge
+  - domain/trickery
+aliases:
+  - The Traveler
 ---
 # The Traveler
 *Source: Eberron: Rising from the Last War p. 141* 

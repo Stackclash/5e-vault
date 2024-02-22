@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/phb
-- feat
-aliases: ["Mage Slayer"]
+  - compendium/src/5e/phb
+  - feat
+aliases:
+  - Mage Slayer
 ---
 # Mage Slayer
 *Source: Player's Handbook p. 168*  

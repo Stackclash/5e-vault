@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/paladin
-- compendium/src/5e/phb
-aliases: ["Paladin"]
+  - class/paladin
+  - compendium/src/5e/phb
+aliases:
+  - Paladin
 ---
 # Paladin
 *Source: Player's Handbook p. 82. Available in the SRD.*  
@@ -156,6 +157,8 @@ If your paladin character has a personal goal, it might be drawn from some life 
 
 **Personal Goal**
 
+`dice: [[Paladin.md#^personal-goal]]`
+
 | dice: d6 | Personal Goal |
 |----------|---------------|
 | 1 | Peace. You fight so that future generations will not have to. |
@@ -174,6 +177,8 @@ Paladins are mindful of the influence of symbols, and many of them adopt or desi
 Your symbol might be displayed on a banner, a flag, or your clothing for all to see. Or it could be less obvious, such as a trinket or a token that you carry concealed on your person.
 
 **Symbol**
+
+`dice: [[Paladin.md#^symbol]]`
 
 | dice: d6 | Symbol |
 |----------|--------|
@@ -194,6 +199,8 @@ Your paladin character might have an enemy that dates from the days before you t
 
 **Nemesis**
 
+`dice: [[Paladin.md#^nemesis]]`
+
 | dice: d6 | Nemesis |
 |----------|---------|
 | 1 | A mighty orc war chief who threatens to overrun and destroy everything you hold sacred |
@@ -212,6 +219,8 @@ Although paladins are dedicated to their oaths, they are mortals, and thus they 
 What is the temptation that your character succumbs to or finds it difficult to resist?
 
 **Temptation**
+
+`dice: [[Paladin.md#^temptation]]`
 
 | dice: d6 | Temptation |
 |----------|------------|
@@ -307,7 +316,7 @@ Some Channel Divinity effects require saving throws. When you use such an effect
 ### Channel Divinity: Harness Divine Power (Level 3)
 _Source: Tasha's Cauldron of Everything p. 52_
 
-*3rd-level paladin [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+*3rd-level paladin [[/5. Mechanics/Rules/Variant Rules/Optional Class Features.md\|optional class features]]*
 
 You can expend a use of your Channel Divinity to fuel your spells. As a bonus action, you touch your holy symbol, utter a prayer, and regain one expended spell slot, the level of which can be no higher than half your proficiency bonus (rounded up). The number of times you can use this feature is based on the level you've reached in this class: 3rd level, once; 7th level, twice; and 15th level, thrice. You regain all expended uses when you finish a long rest.
 
@@ -329,7 +338,7 @@ If your DM allows the use of feats, you may instead take a feat.
 ### Martial Versatility (Level 4)
 _Source: Tasha's Cauldron of Everything p. 52_
 
-*4th-level paladin [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+*4th-level paladin [[/5. Mechanics/Rules/Variant Rules/Optional Class Features.md\|optional class features]]*
 
 Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace a [[5. Mechanics/Optional Features/List Fighting Style Paladin.md\|fighting style]] you know with another fighting style available to paladins. This replacement represents a shift of focus in your martial practice.
 

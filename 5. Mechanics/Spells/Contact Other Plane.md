@@ -2,15 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/5
-- spell/ritual
-- spell/school/divination
-aliases: ["Contact Other Plane"]
+  - compendium/src/5e/phb
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/5
+  - spell/ritual
+  - spell/school/divination
+aliases:
+  - Contact Other Plane
 ---
 # Contact Other Plane
+%%-- Embedded content starts on the next line. --%%
 *5th-level, Divination (ritual)*  
 
 - **Casting time:** 1 minute unless cast as a ritual

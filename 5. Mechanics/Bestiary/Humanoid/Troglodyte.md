@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-4
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/humanoid/troglodyte
+  - compendium/src/5e/mm
+  - monster/cr/1-4
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/humanoid/troglodyte
 statblock: inline
-aliases: ["Troglodyte"]
+aliases:
+  - Troglodyte
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Troglodyte.md|Troglodyte]]
+# [[5. Mechanics\Bestiary\Humanoid\Troglodyte.md|Troglodyte]]
 *Source: Monster Manual p. 290*  
 
 The savage, degenerate troglodytes squat in the shallow depths of the Underdark in a constant state of war against their neighbors and one another. They mark the borders of their territories with cracked bones and skulls, or with pictographs painted in blood or dung.
@@ -55,7 +56,8 @@ Some troglodytes venerate Laogzed, a demonic, monstrously fat toad-lizard that s
 "languages": "Troglodyte"
 "cr": "1/4"
 "traits":
-- "desc": "The troglodyte has advantage on Dexterity (Stealth) checks made to hide."
+- "desc": "The troglodyte has advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]])\
+    \ checks made to hide."
   "name": "Chameleon Skin"
 - "desc": "Any creature other than a troglodyte that starts its turn within 5 feet\
     \ of the troglodyte must succeed on a DC 12 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
@@ -87,7 +89,7 @@ Some troglodytes venerate Laogzed, a demonic, monstrously fat toad-lizard that s
 - "PaBTSO"
 - "SatO"
 - "BMT"
-"image": "5. Mechanics/Bestiary/Humanoid/token/troglodyte.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/troglodyte.webp"
 ```
 ^statblock
 

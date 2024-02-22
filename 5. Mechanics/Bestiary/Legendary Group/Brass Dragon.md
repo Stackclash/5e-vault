@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/mm
-- monster/legendary-group
-aliases: ["Brass Dragon"]
+  - compendium/src/5e/mm
+  - monster/legendary-group
+aliases:
+  - Brass Dragon
 ---
 # Brass Dragon
 
@@ -40,4 +41,9 @@ If the dragon dies, the tracks fade in `dice: 1d10|avg` (`1d10`) days, but the o
 Any of these effects might appear in the area around a brass dragon's lair, in addition to or instead of the effects described in the *Monster Manual*:
 
 - **Cloud Companion.** A small, wispy cloud follows non-evil creatures as they journey within 6 miles of the dragon's lair. It changes direction as the creatures do, remaining interposed between them and the direct glare of the sun, and grants them advantage on saving throws to resist the effects of "extreme heat" (see the "Dungeon Master's Guide").  
-- **Talkative Denizens.** Creatures within 1 mile of the dragon's lair find pleasure in hearing the sound of their own voices. The air is filled with a deafening chorus of birds and small animals, and sapient creatures talk extensively.
+- **Talkative Denizens.** Creatures within 1 mile of the dragon's lair find pleasure in hearing the sound of their own voices. The air is filled with a deafening chorus of birds and small animals, and sapient creatures talk extensively.  
+
+## Is homebrew
+_Source: Monster Manual_
+
+false

@@ -2,23 +2,24 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-8
-- monster/environment/coastal
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/tiny
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/1-8
+  - monster/environment/coastal
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/tiny
+  - monster/type/beast
 statblock: inline
-aliases: ["Stirge"]
+aliases:
+  - Stirge
 ---
-# [[5. Mechanics/Bestiary/Beast/Stirge.md|Stirge]]
+# [[5. Mechanics\Bestiary\Beast\Stirge.md|Stirge]]
 *Source: Monster Manual p. 284. Available in the SRD and the Basic Rules.*  
 
 This horrid flying creature looks like a cross between a large bat and an oversized mosquito. Its legs end in sharp pincers, and its long, needle-like proboscis slashes the air as it seeks its next meal.
@@ -77,7 +78,7 @@ A stirge attacks by landing on a victim, finding a vulnerable spot, and plunging
 - "KftGV"
 - "HftT"
 - "PaBTSO"
-"image": "5. Mechanics/Bestiary/Beast/token/stirge.png"
+"image": "5. Mechanics/Bestiary/Beast/token/stirge.webp"
 ```
 ^statblock
 

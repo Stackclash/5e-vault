@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- compendium/src/5e/dmg
-- object/size/varies
-- object/type/generic
+  - compendium/src/5e/dmg
+  - object/size/varies
+  - object/type/generic
 statblock: inline
-aliases: ["Generic Object"]
+aliases:
+  - Generic Object
 ---
 # Generic Object
 *Source: Dungeon Master's Guide p. 246. Available in the SRD.*  
@@ -46,7 +47,7 @@ Big objects such as castle walls often have extra resilience represented by a da
 
 ```ad-statblock
 title: Generic Object
-![[5. Mechanics/Objects/token/generic-object.png#token]]
+![[5. Mechanics/Objects/token/generic-object.webp#token]]
 *Varies Generic*
 
 - **Armor Class** (Varies (see below))
@@ -55,7 +56,7 @@ title: Generic Object
 
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-||
+|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
 
 - **Damage Immunities** Varies (see below)
 ```

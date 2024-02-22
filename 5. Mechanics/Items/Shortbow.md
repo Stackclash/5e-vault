@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/property/ammunition
-- item/property/two-handed
-- item/weapon/simple/ranged
-aliases: 
-- "Shortbow"
+  - compendium/src/5e/phb
+  - item/property/ammunition
+  - item/property/two-handed
+  - item/weapon/simple/ranged
+aliases:
+  - Shortbow
 cost: 2500
 ---
 # Shortbow

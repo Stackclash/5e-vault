@@ -1,32 +1,42 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: "[[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of Saint Markovia]]"
+location: >-
+  [[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of
+  Saint Markovia]]
 condition: healthy
 relationships: []
-tags: 
+tags: null
 aliases: []
 pronounced: SY-rus BEL-view
-race: "[[5. Mechanics/Races/Human.md|Human]]"
+race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male
 age: 48
 alignment: Neutral Good
 occupation: []
 groups: []
 religions: []
-personality: Meek, obliging, somewhat naive
+personality: 'Meek, obliging, somewhat naive'
 ideal: Kindness and diligence can make even the darkest places a bit brighter
-bond: His duty to the Abbey and its inhabitants, a place he considers home despite its flaws
-flaw: His naivety and loyalty sometimes blind him to the moral complexities of the Abbey's reality
-goals: To maintain order and cleanliness in the Abbey, to please the Abbot, to find acceptance
-likes: Simplicity, cleanliness, the rare praise or kindness shown to him
-dislikes: Violence, the harsh judgments of outsiders, the complexities of moral dilemmas
+bond: >-
+  His duty to the Abbey and its inhabitants, a place he considers home despite
+  its flaws
+flaw: >-
+  His naivety and loyalty sometimes blind him to the moral complexities of the
+  Abbey's reality
+goals: >-
+  To maintain order and cleanliness in the Abbey, to please the Abbot, to find
+  acceptance
+likes: 'Simplicity, cleanliness, the rare praise or kindness shown to him'
+dislikes: 'Violence, the harsh judgments of outsiders, the complexities of moral dilemmas'
 ---
 
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
-> ![[4. World Almanac/NPCs/img/cyrus-belview.webp|cover hm-sm]] 
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```
 > ###### Bio
 >  |
 >  ---|---|
@@ -104,7 +114,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 
 ## Stats
 ```statblock
-"name": "Cyrus Belview (CoS)"
+"name": "Cyrus Belview"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "mongrelfolk"
@@ -128,12 +138,12 @@ await dv.view("npcRelationships", { current: dv.current() })
 "languages": "Common"
 "cr": "1/4"
 "traits":
-- "desc": "The mongrelfolk has advantage on Wisdom (Perception) checks that rely on\
-    \ hearing or smell."
+- "desc": "The mongrelfolk has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+    \ checks that rely on hearing or smell."
   "name": "Keen Hearing and Smell"
 - "desc": "Cyrus can mimic any sounds it has heard, including voices. A creature that\
     \ hears the sounds can tell they are imitations with a successful DC 12 Wisdom\
-    \ (Insight) check."
+    \ ([[/5. Mechanics/Rules/Skills.md#Insight|Insight]]) check."
   "name": "Mimicry"
 "actions":
 - "desc": "Cyrus makes two attacks: one with its bite and one with its claw or dagger."
@@ -150,7 +160,7 @@ await dv.view("npcRelationships", { current: dv.current() })
   "name": "Dagger"
 "source":
 - "CoS"
-"image": "4. World Almanac/NPCs/token/cyrus-belview.png"
+"image": "4. World Almanac/NPCs/token/cyrus-belview-cos.webp"
 ```
 ^statblock
 

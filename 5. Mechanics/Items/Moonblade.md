@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/attunement/required
-- item/property/martial
-- item/property/versatile
-- item/rarity/legendary
-- item/weapon/martial/melee
-aliases: 
-- "Moonblade"
+  - compendium/src/5e/dmg
+  - item/attunement/required
+  - item/property/martial
+  - item/property/versatile
+  - item/rarity/legendary
+  - item/weapon/martial/melee
+aliases:
+  - Moonblade
 ---
 # Moonblade
 *Melee Weapon, legendary (requires attunement by an elf or half-elf of neutral good alignment)*  
@@ -32,6 +32,8 @@ A moonblade won't serve anyone it regards as craven, erratic, corrupt, or at odd
 A moonblade has one rune on its blade for each master it has served (typically `dice: 1d6 + 1|avg` (`1d6 + 1`)). The first rune always grants a +1 bonus to attack and damage rolls made with this magic weapon. Each rune beyond the first grants the moon blade an additional property. The DM chooses each property or determines it randomly on the Moon Blade Properties table.
 
 **Moonblade Properties**
+
+`dice: [[Moonblade.md#^moonblade-properties]]`
 
 | dice: d100 | Property |
 |------------|----------|

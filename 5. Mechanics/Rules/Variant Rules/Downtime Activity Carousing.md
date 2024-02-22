@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Downtime Activity: Carousing"]
+  - compendium/src/5e/dmg
+aliases:
+  - 'Downtime Activity: Carousing'
 ---
 # Downtime Activity: Carousing
 *Source: Dungeon Master's Guide p. 128* 
@@ -14,8 +15,8 @@ A carousing character spends money as though maintaining a wealthy lifestyle (se
 
 **Carousing**
 
-| dice: d100 + Level | Result |
-|--------------------|--------|
+| d100 + Level | Result |
+|--------------|--------|
 | 01-10 | You are jailed for `dice: 1d4\|avg` (`1d4`) days at the end of the downtime period on charges of disorderly conduct and disturbing the peace. You can pay a fine of 10 gp to avoid jail time, or you can try to resist arrest. |
 | 11-20 | You regain consciousness in a strange place with no memory of how you got there, and you have been robbed of `3d6 × 5` gp. |
 | 21-30 | You make an enemy. This person, business, or organization is now hostile to you. The DM determines the offended party. You decide how you offended them. |

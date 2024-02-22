@@ -2,23 +2,24 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/2
-- monster/environment/arctic
-- monster/environment/coastal
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/humanoid/any-race
+  - compendium/src/5e/mm
+  - monster/cr/2
+  - monster/environment/arctic
+  - monster/environment/coastal
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/humanoid/any-race
 statblock: inline
-aliases: ["Druid"]
+aliases:
+  - Druid
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Druid.md|Druid]]
+# [[5. Mechanics\Bestiary\Humanoid\Druid.md|Druid]]
 *Source: Monster Manual p. 346, Curse of Strahd. Available in the SRD.*  
 
 Druids dwell in forests and other secluded wilderness locations, where they protect the natural world from monsters and the encroachment of civilization. Some are tribal shamans who heal the sick, pray to animal spirits, and provide spiritual guidance.
@@ -85,7 +86,7 @@ Druids dwell in forests and other secluded wilderness locations, where they prot
 - "SatO"
 - "BMT"
 - "DoDk"
-"image": "5. Mechanics/Bestiary/Humanoid/token/druid.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/druid.webp"
 ```
 ^statblock
 

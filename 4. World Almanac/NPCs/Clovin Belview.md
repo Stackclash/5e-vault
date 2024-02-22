@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: "[[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of Saint Markovia]]"
+location: >-
+  [[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of
+  Saint Markovia]]
 condition: healthy
 relationships: []
-tags: 
+tags: null
 aliases: []
 pronounced: CLOH-vin BEL-view
-race: "[[5. Mechanics/Races/Human.md|Human]]"
+race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male
 age: 54
 alignment: Neutral Evil
@@ -15,19 +17,31 @@ occupation:
   - Caretaker
 groups: []
 religions: []
-personality: Subservient, eccentric, deeply troubled
-ideal: Survival and obedience are the utmost priorities in a world that neither wants nor understands you
-bond: His twisted loyalty to the Abbot and a sense of belonging among the mongrelfolk
+personality: 'Subservient, eccentric, deeply troubled'
+ideal: >-
+  Survival and obedience are the utmost priorities in a world that neither wants
+  nor understands you
+bond: >-
+  His twisted loyalty to the Abbot and a sense of belonging among the
+  mongrelfolk
 flaw: His fear of rejection and punishment overshadows his better judgment
-goals: To please the Abbot, to find some measure of peace or acceptance in his existence
-likes: Music (despite his lack of skill), the rare moments of quiet and solitude, alcohol
-dislikes: The disdain or fear of outsiders, the cruelty of his existence, the conflict within the Abbey
+goals: >-
+  To please the Abbot, to find some measure of peace or acceptance in his
+  existence
+likes: >-
+  Music (despite his lack of skill), the rare moments of quiet and solitude,
+  alcohol
+dislikes: >-
+  The disdain or fear of outsiders, the cruelty of his existence, the conflict
+  within the Abbey
 ---
 
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
-> ![[4. World Almanac/NPCs/img/clovin-belview.webp|cover hm-sm]] 
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```
 > ###### Bio
 >  |
 >  ---|---|
@@ -105,7 +119,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 
 ## Stats
 ```statblock
-"name": "Clovin Belview (CoS)"
+"name": "Clovin Belview"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "mongrelfolk"
@@ -129,13 +143,15 @@ await dv.view("npcRelationships", { current: dv.current() })
 "languages": "Common"
 "cr": "1/4"
 "traits":
-- "desc": "The mongrelfolk has advantage on Wisdom (Perception) checks and on saving\
-    \ throws against being blinded, charmed, deafened, frightened, stunned, or knocked\
-    \ unconscious."
+- "desc": "The mongrelfolk has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+    \ checks and on saving throws against being [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]],\
+    \ [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]],\
+    \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]],\
+    \ or knocked [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]."
   "name": "Two-Headed"
 - "desc": "Clovin can mimic any sounds it has heard, including voices. A creature\
     \ that hears the sounds can tell they are imitations with a successful DC 12 Wisdom\
-    \ (Insight) check."
+    \ ([[/5. Mechanics/Rules/Skills.md#Insight|Insight]]) check."
   "name": "Mimicry"
 "actions":
 - "desc": "Clovin makes two attacks: one with its bite and one with its claw or dagger."
@@ -152,7 +168,7 @@ await dv.view("npcRelationships", { current: dv.current() })
   "name": "Dagger"
 "source":
 - "CoS"
-"image": "4. World Almanac/NPCs/token/clovin-belview.png"
+"image": "4. World Almanac/NPCs/token/clovin-belview-cos.webp"
 ```
 ^statblock
 

@@ -2,16 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/class/druid
-- spell/class/sorcerer
-- spell/class/sorcerer/divine-soul
-- spell/level/8
-- spell/school/evocation
-aliases: ["Earthquake"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/class/druid
+  - spell/class/sorcerer
+  - spell/class/sorcerer/divine-soul
+  - spell/level/8
+  - spell/school/evocation
+aliases:
+  - Earthquake
 ---
 # Earthquake
+%%-- Embedded content starts on the next line. --%%
 *8th-level, Evocation*  
 
 - **Casting time:** 1 action
@@ -39,6 +41,6 @@ The tremor deals 50 bludgeoning damage to any structure in contact with the grou
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]]
+**Classes**: [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]]
 
 *Source: Player's Handbook p. 236. Available in the SRD and the Basic Rules.*

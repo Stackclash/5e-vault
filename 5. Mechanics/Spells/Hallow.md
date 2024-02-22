@@ -2,15 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/class/sorcerer/divine-soul
-- spell/class/warlock/the-fiend
-- spell/level/5
-- spell/school/evocation
-aliases: ["Hallow"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/class/sorcerer/divine-soul
+  - spell/class/warlock/the-fiend
+  - spell/level/5
+  - spell/school/evocation
+aliases:
+  - Hallow
 ---
 # Hallow
+%%-- Embedded content starts on the next line. --%%
 *5th-level, Evocation*  
 
 - **Casting time:** 24 hour
@@ -66,6 +68,6 @@ Affected creatures can communicate with any other creature in the area, even if 
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Warlock The Fiend.md\|Warlock (The Fiend)]]
+**Classes**: [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Warlock The Fiend.md\|Warlock (The Fiend)]]
 
 *Source: Player's Handbook p. 249. Available in the SRD.*

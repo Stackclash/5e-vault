@@ -1,32 +1,38 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: null
 condition: healthy
 relationships: []
-tags: 
+tags: null
 aliases: []
-pronounced: 
-race: 
-gender: 
-age: 
+pronounced: null
+race: null
+gender: null
+age: null
 alignment: Lawful Evil
-occupation: [] 
+occupation: []
 groups: []
 religions: []
-personality: 
+personality: null
 ideal: Vengeance is all I have left.
-bond: I have sworn oaths of allegiance to the Order of the Silver Dragon. Broken though the order may be, my allegiance never dies.
-flaw: Destroying Strahd would end the vampire's torment, and that is something I will never allow.
-goals: 
-likes: 
-dislikes: 
+bond: >-
+  I have sworn oaths of allegiance to the Order of the Silver Dragon. Broken
+  though the order may be, my allegiance never dies.
+flaw: >-
+  Destroying Strahd would end the vampire's torment, and that is something I
+  will never allow.
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
-> ![[4. World Almanac/NPCs/img/vladimir-horngaard.webp|cover hm-sm]] 
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```
 > ###### Bio
 >  |
 >  ---|---|
@@ -161,7 +167,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 
 ## Stats
 ```statblock
-"name": "Vladimir Horngaard (CoS)"
+"name": "Vladimir Horngaard"
 "size": "Medium"
 "type": "undead"
 "alignment": "Lawful Evil"
@@ -183,7 +189,9 @@ await dv.view("npcRelationships", { current: dv.current() })
   "Constitution": !!int "7"
 "damage_resistances": "necrotic, psychic"
 "damage_immunities": "poison"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned, stunned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Common, Draconic"
 "cr": "7"
@@ -195,8 +203,8 @@ await dv.view("npcRelationships", { current: dv.current() })
   "name": "Regeneration"
 - "desc": "When Vladimir's body is destroyed, his soul lingers. After 24 hours, the\
     \ soul inhabits and animates another corpse on the same plane of existence and\
-    \ regains all its hit points. While the soul is bodiless, a wish spell can be\
-    \ used to force the soul to go to the afterlife and not return."
+    \ regains all its hit points. While the soul is bodiless, a [[5. Mechanics/Spells/Wish.md|wish]]\
+    \ spell can be used to force the soul to go to the afterlife and not return."
   "name": "Rejuvenation"
 - "desc": "Vladimir wields a +2 greatsword with a hilt sculpted to resemble silver\
     \ dragon wings and a pommel shaped like a silver dragon's head clutching a black\
@@ -222,15 +230,16 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ deals an extra dice: 4d6|avg (4d6) slashing damage with this weapon."
   "name": "Greatsword +2"
 - "desc": "Vladimir can target Strahd within 30 feet provided he can see Strahd. Strahd\
-    \ must make a DC 15 Wisdom saving throw. One a failure, Strahd is paralyzed until\
-    \ Vladimir deals damage to him, or until the end of Vladimir's next turn. When\
-    \ the paralysis ends, Strahd is frightened of Vladimir for 1 minute. Strahd can\
-    \ repeat the saving throw at the end of each of his turns, with disadvantage if\
-    \ he can see Vladimir, ending the frightened condition on itself on a success."
+    \ must make a DC 15 Wisdom saving throw. One a failure, Strahd is [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
+    \ until Vladimir deals damage to him, or until the end of Vladimir's next turn.\
+    \ When the paralysis ends, Strahd is [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ of Vladimir for 1 minute. Strahd can repeat the saving throw at the end of each\
+    \ of his turns, with disadvantage if he can see Vladimir, ending the [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ condition on itself on a success."
   "name": "Vengeful Glare"
 "source":
 - "CoS"
-"image": "4. World Almanac/NPCs/token/vladimir-horngaard.png"
+"image": "4. World Almanac/NPCs/token/vladimir-horngaard-cos.webp"
 ```
 ^statblock
 

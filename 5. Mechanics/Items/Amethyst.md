@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/wealth
-aliases: 
-- "Amethyst"
+  - compendium/src/5e/dmg
+  - item/wealth
+aliases:
+  - Amethyst
 cost: 10000
 ---
 # Amethyst
-*Treasure*  
+*Gemstone*  
 
 - **Cost**: 100 gp
 

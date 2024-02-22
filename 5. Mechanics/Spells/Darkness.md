@@ -2,21 +2,23 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/druid/circle-of-the-land
-- spell/class/fighter/eldritch-knight
-- spell/class/monk/way-of-shadow
-- spell/class/paladin/oathbreaker
-- spell/class/rogue/arcane-trickster
-- spell/class/sorcerer
-- spell/class/sorcerer/shadow-magic
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/2
-- spell/school/evocation
-aliases: ["Darkness"]
+  - compendium/src/5e/phb
+  - spell/class/druid/circle-of-the-land
+  - spell/class/fighter/eldritch-knight
+  - spell/class/monk/way-of-shadow
+  - spell/class/paladin/oathbreaker
+  - spell/class/rogue/arcane-trickster
+  - spell/class/sorcerer
+  - spell/class/sorcerer/shadow-magic
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/2
+  - spell/school/evocation
+aliases:
+  - Darkness
 ---
 # Darkness
+%%-- Embedded content starts on the next line. --%%
 *2nd-level, Evocation*  
 
 - **Casting time:** 1 action
@@ -30,6 +32,6 @@ If the point you choose is on an object you are holding or one that isn't being 
 
 If any of this spell's area overlaps with an area of light created by a spell of 2nd level or lower, the spell that created the light is dispelled.
 
-**Classes**: [[5. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Monk Way Of Shadow.md\|Monk (Way of Shadow)]], [[5. Mechanics/Classes/Paladin Oathbreaker.md\|Paladin (Oathbreaker)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer Shadow Magic (XGE).md\|Sorcerer (Shadow Magic)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock.md\|Warlock]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Monk Way Of Shadow.md\|Monk (Way of Shadow)]], [[5. Mechanics/Classes/Paladin Oathbreaker.md\|Paladin (Oathbreaker)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer Shadow Magic.md\|Sorcerer (Shadow Magic)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock.md\|Warlock]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 230. Available in the SRD and the Basic Rules.*

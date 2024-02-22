@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/0
-- monster/size/tiny
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/0
+  - monster/size/tiny
+  - monster/type/beast
 statblock: inline
-aliases: ["Bat"]
+aliases:
+  - Bat
 ---
-# [[5. Mechanics/Bestiary/Beast/Bat.md|Bat]]
+# [[5. Mechanics\Bestiary\Beast\Bat.md|Bat]]
 *Source: Monster Manual p. 318, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -50,7 +51,7 @@ aliases: ["Bat"]
 - "WBtW"
 - "PSX"
 - "DoDk"
-"image": "5. Mechanics/Bestiary/Beast/token/bat.png"
+"image": "5. Mechanics/Bestiary/Beast/token/bat.webp"
 ```
 ^statblock
 

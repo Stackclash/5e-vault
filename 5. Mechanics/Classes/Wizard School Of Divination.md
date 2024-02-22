@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/phb
-- subclass/wizard/divination
-aliases: ["School of Divination"]
+  - compendium/src/5e/phb
+  - subclass/wizard/divination
+aliases:
+  - School of Divination
 ---
 # School of Divination
 *[[Wizard.md\|Wizard]]: Arcane Tradition*  

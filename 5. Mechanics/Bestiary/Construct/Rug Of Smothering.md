@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/2
-- monster/size/large
-- monster/type/construct
+  - compendium/src/5e/mm
+  - monster/cr/2
+  - monster/size/large
+  - monster/type/construct
 statblock: inline
-aliases: ["Rug of Smothering"]
+aliases:
+  - Rug of Smothering
 ---
-# [[5. Mechanics/Bestiary/Construct/Rug Of Smothering.md|Rug of Smothering]]
+# [[5. Mechanics\Bestiary\Construct\Rug Of Smothering.md|Rug of Smothering]]
 *Source: Monster Manual p. 20, Curse of Strahd. Available in the SRD.*  
 
 Would-be thieves and careless heroes arrive at the doorsteps of an enemy's abode, eyes and ears alert for traps, only to end their quest prematurely as the rugs beneath their feet animate and smother them to death.
@@ -27,7 +28,7 @@ Animated objects are crafted with potent magic to follow the commands of their c
 An animated object doesn't require air, food, drink, or sleep. The magic that animates an object is dispelled when the construct drops to 0 hit points. An animated object reduced to 0 hit points becomes inanimate and is too damaged to be of much use or value to anyone.
 
 ```statblock
-"name": "Rug of Smothering"
+"name": "Rug Of Smothering"
 "size": "Large"
 "type": "construct"
 "alignment": "Unaligned"
@@ -89,7 +90,7 @@ An animated object doesn't require air, food, drink, or sleep. The magic that an
 - "WBtW"
 - "KftGV"
 - "DoDk"
-"image": "5. Mechanics/Bestiary/Construct/token/rug-of-smothering.png"
+"image": "5. Mechanics/Bestiary/Construct/token/rug-of-smothering.webp"
 ```
 ^statblock
 

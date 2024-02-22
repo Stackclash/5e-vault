@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
-- background
-- compendium/src/5e/phb
-aliases: ["Urchin"]
+  - background
+  - compendium/src/5e/phb
+aliases:
+  - Urchin
 ---
 # Urchin
 *Source: Player's Handbook p. 141*  
@@ -25,6 +26,8 @@ You know the secret patterns and flow to cities and can find passages through th
 
 Urchins are shaped by lives of desperate poverty, for good and for ill. They tend to be driven either by a commitment to the people with whom they shared life on the street or by a burning desire to find a better life—and maybe get some payback on all the rich people who treated them badly.
 
+`dice: [[Urchin.md#^personality-trait]]`
+
 | dice: d8 | Personality Trait |
 |----------|-------------------|
 | 1 | I hide scraps of food and trinkets away in my pockets. |
@@ -37,6 +40,8 @@ Urchins are shaped by lives of desperate poverty, for good and for ill. They ten
 | 8 | I bluntly say what others are hinting at or hiding. |
 ^personality-trait
 
+`dice: [[Urchin.md#^ideal]]`
+
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Respect. All people, rich or poor, deserve respect. (Good) |
@@ -47,6 +52,8 @@ Urchins are shaped by lives of desperate poverty, for good and for ill. They ten
 | 6 | Aspiration. I'm going to prove that I'm worthy of a better life. (Any) |
 ^ideal
 
+`dice: [[Urchin.md#^bond]]`
+
 | dice: d6 | Bond |
 |----------|------|
 | 1 | My town or city is my home, and I'll fight to defend it. |
@@ -56,6 +63,8 @@ Urchins are shaped by lives of desperate poverty, for good and for ill. They ten
 | 5 | I escaped my life of poverty by robbing an important person, and I'm wanted for it. |
 | 6 | No one else should have to endure the hardships I've been through. |
 ^bond
+
+`dice: [[Urchin.md#^flaw]]`
 
 | dice: d6 | Flaw |
 |----------|------|

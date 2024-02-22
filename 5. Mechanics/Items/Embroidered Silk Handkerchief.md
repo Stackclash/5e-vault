@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/wealth
-aliases: 
-- "Embroidered silk handkerchief"
+  - compendium/src/5e/dmg
+  - item/wealth
+aliases:
+  - Embroidered silk handkerchief
 cost: 2500
 ---
 # Embroidered silk handkerchief
-*Treasure*  
+*Art object*  
 
 - **Cost**: 25 gp
 

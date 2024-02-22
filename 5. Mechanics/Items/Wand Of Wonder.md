@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/attunement/required
-- item/rarity/rare
-- item/tier/major
-- item/wondrous/wand
-aliases: 
-- "Wand of Wonder"
+  - compendium/src/5e/dmg
+  - item/attunement/required
+  - item/rarity/rare
+  - item/tier/major
+  - item/wondrous/wand
+aliases:
+  - Wand of Wonder
 ---
 # Wand of Wonder
 *Wand, major, rare (requires attunement by a spellcaster)*  
@@ -23,6 +23,8 @@ If the effect causes you to cast a spell from the wand, the spell's save DC is 1
 If an effect covers an area, you must center the spell on and include the target. If an effect has multiple possible subjects, the DM randomly determines which ones are affected.
 
 The wand regains `dice: 1d6 + 1|avg` (`1d6 + 1`) expended charges daily at dawn. If you expend the wand's last charge, roll a `dice: d20|avg` (`d20`). On a 1, the wand crumbles into dust and is destroyed.
+
+`dice: [[Wand Of Wonder.md#^effect]]`
 
 | dice: d100 | Effect |
 |------------|--------|

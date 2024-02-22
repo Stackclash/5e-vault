@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- compendium/src/5e/dmg
-- object/size/large
-- object/type/siege-weapon
+  - compendium/src/5e/dmg
+  - object/size/large
+  - object/type/siege-weapon
 statblock: inline
-aliases: ["Ram"]
+aliases:
+  - Ram
 ---
 # Ram
 *Source: Dungeon Master's Guide p. 255*  
@@ -18,7 +19,7 @@ The log is shod in iron and used to batter through doors and barricades.
 It takes a minimum of four Medium creatures to operate a ram. Because of the gallery roof, these operators have total cover against attacks from above.
 ```ad-statblock
 title: Ram
-![[5. Mechanics/Objects/token/ram.png#token]]
+![[5. Mechanics/Objects/token/ram.webp#token]]
 *Large Siege weapon*
 
 - **Armor Class** 15 
@@ -27,7 +28,7 @@ title: Ram
 
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-||
+|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
 
 - **Damage Immunities** poison, psychic
 

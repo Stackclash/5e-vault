@@ -2,16 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/barbarian/path-of-the-totem-warrior
-- spell/class/druid
-- spell/class/ranger
-- spell/level/2
-- spell/ritual
-- spell/school/divination
-aliases: ["Beast Sense"]
+  - compendium/src/5e/phb
+  - spell/class/barbarian/path-of-the-totem-warrior
+  - spell/class/druid
+  - spell/class/ranger
+  - spell/level/2
+  - spell/ritual
+  - spell/school/divination
+aliases:
+  - Beast Sense
 ---
 # Beast Sense
+%%-- Embedded content starts on the next line. --%%
 *2nd-level, Divination (ritual)*  
 
 - **Casting time:** 1 action unless cast as a ritual

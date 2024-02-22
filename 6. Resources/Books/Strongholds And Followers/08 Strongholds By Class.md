@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/saf
-aliases: ["Strongholds by Class"]
+  - compendium/src/5e/saf
+aliases:
+  - Strongholds by Class
 ---
 # Strongholds by Class
 *Source: Strongholds and Followers* 
@@ -46,7 +47,7 @@ Each class has its own unique follower chart, listed below. These charts make ce
 
 Some classes have a wider range of results. Paladins can gain more different followers than Sorcerers. This reflects how normal people view the different classes. Paladins and fighters and clerics tend to be respected, trusted. If they have spells, they often use them to help and heal. But peasants don't react well to sorcery, to arcane knowledge Man Was Not Meant to Know!
 
-The follower options for each class reflect this. Martial classes are more likely to get military units, while classes that use sorcery and delve into hidden places or research forgotten lore are more likely to get [[5. Mechanics/Tables/Special Allies (SAF).md\|special allies]] (page 67).
+The follower options for each class reflect this. Martial classes are more likely to get military units, while classes that use sorcery and delve into hidden places or research forgotten lore are more likely to get [[5. Mechanics/Tables/Special Allies.md\|special allies]] (page 67).
 
 These cultural assumptions reflect the default Fantasyland campaign setting, but the assumptions of your setting may be very different. GMs, you can adjust these charts to reflect your world's assumptions or even let players roll on a chart for a different class if it makes more sense!
 
@@ -91,7 +92,7 @@ I have done this, it can work, it just depends on your player and knowing what t
 
 But if it seems like they're not really interested in actually rolling, only in the result, then you can just pick something for them. "As work finishes on your tower, you see an elf standing at the edge of the clearing, watching..." That elf is their new follower! No roll needed!
 
-![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/barbarian-camp.webp#center)
+![[6. Resources/Books/Strongholds And Followers/img/barbarian-camp.webp#center]]
 
 ## The Barbarian's Camp
 
@@ -119,7 +120,7 @@ Whenever you reduce an enemy to 0 hit points, you can choose to make a second at
 
 Barbarians prefer followers who are independent and don't require a lot of oversight. They don't classically attract a large retinue, they don't usually build great keeps to house their staff and servants. A barbarian's follower must be at home in wild places, willing and able to relocate quickly and live by their wits.
 
-![[5. Mechanics/Tables/Barbarian Followers (SAF).md\|Barbarian Followers]]
+![[5. Mechanics/Tables/Barbarian Followers.md\|Barbarian Followers]]
 
 Their followers tend to be martial and savage. Barbarians can attract units, but they tend to be light and Barbarians don't go in much for leading large armies. Big armies require a lot of organization and discipline neither of which barbarians' classically value overmuch.
 
@@ -127,7 +128,7 @@ Barbarian retainers tend to be followers at home with nature, savagery, and chao
 
 The ambassadors they attract tend to represent nearby humanoid tribes who do not automatically see a barbarian tribe as an enemy, just because they are led by a human or elf or dwarf. To the local gnolls or hobgoblins, a barbarian camp is just another local tribe, and could make a powerful ally.
 
-![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/bard-theatre.webp#center)
+![[6. Resources/Books/Strongholds And Followers/img/bard-theatre.webp#center]]
 
 ## The Bard's Theater
 
@@ -151,9 +152,9 @@ On initiative count 20 (losing initiative ties), the bard takes a stronghold act
 
 While an ally has unspent inspiration their proficiency bonus increases by +1. This applies to a number of inspiration dice equal to your stronghold level, after which you must take an extended rest to refresh this ability.
 
-![[5. Mechanics/Tables/Bard Followers (SAF).md\|Bard Followers]]
+![[5. Mechanics/Tables/Bard Followers.md\|Bard Followers]]
 
-![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/cleric-church.webp#center)
+![[6. Resources/Books/Strongholds And Followers/img/cleric-church.webp#center]]
 
 ## The Cleric's Church
 
@@ -177,9 +178,9 @@ On initiative count 20 (losing initiative ties), the cleric takes a stronghold a
 
 When using your Channel Divinity class feature, all allies within 30 feet regain `dice: 3d8|avg` (`3d8`) hit points. You can do this a number of times equal to your stronghold level, after which you must take an extended rest to refresh this ability.
 
-![[5. Mechanics/Tables/Cleric Followers (SAF).md\|Cleric Followers]]
+![[5. Mechanics/Tables/Cleric Followers.md\|Cleric Followers]]
 
-![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/druid-grove.webp#center)
+![[6. Resources/Books/Strongholds And Followers/img/druid-grove.webp#center]]
 
 ## The Druid's Grove
 
@@ -203,7 +204,7 @@ On initiative count 20 (losing initiative ties), the druid takes a stronghold ac
 
 When you assume your Wild Shape, you may assume the form of any monstrosity, fey, or dragon, including those with a flying or swimming speed. You may use this ability to transform into a creature with a Challenge Rating up to half your level, rounded up. All other Wild Shape restrictions and benefits apply (including using all of the form's actions and abilities except lair and legendary actions). You can do this a number of times equal to your stronghold level, after which you must take an extended rest to refresh this ability.
 
-![[5. Mechanics/Tables/Druid Followers (SAF).md\|Druid Followers]]
+![[5. Mechanics/Tables/Druid Followers.md\|Druid Followers]]
 
 ### A Druid's Followers
 
@@ -215,7 +216,7 @@ Few artisans are interested in a life lived outside civilization, but druids are
 
 Ambassadors who wish to join a druid's retinue are usually fey, or aligned with them, or creatures who prefer the swamps and bogs that druids are naturally attracted to as sources of power. And druids have their own short list of special allies they may recruit from among the fey creatures of the wood.
 
-![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/fighter-fortress.webp#center)
+![[6. Resources/Books/Strongholds And Followers/img/fighter-fortress.webp#center]]
 
 ## The Fighter's Fortress
 
@@ -240,9 +241,9 @@ On initiative count 20 (losing initiative ties), the fighter takes a stronghold 
 
 Whenever you attack by using your Action Surge, you automatically score a critical hit. You can do this for a number of surges equal to your stronghold level, after which you must take an extended rest to refresh this ability.
 
-![[5. Mechanics/Tables/Fighter Followers (SAF).md\|Fighter Followers]]
+![[5. Mechanics/Tables/Fighter Followers.md\|Fighter Followers]]
 
-![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/monk-monastery.webp#center)
+![[6. Resources/Books/Strongholds And Followers/img/monk-monastery.webp#center]]
 
 ## The Monk's Monastery
 
@@ -268,7 +269,7 @@ Whenever you are attacked while you have unspent ki, you can ignore all of its e
 
 > The Scion of Orcus casts [[5. Mechanics/Spells/Evards Black Tentacles.md\|black tentacles]], and Bhaltair the monk is in the area of effect. Regardless of the outcome of Bhaltair's Evasion, he is not [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]] by the tentacles because he has unspent ki.
 
-![[5. Mechanics/Tables/Monk Followers (SAF).md\|Monk Followers]]
+![[5. Mechanics/Tables/Monk Followers.md\|Monk Followers]]
 
 ## The Paladin's Chapel
 
@@ -294,13 +295,13 @@ Your Divine Smite burns through enemy resistance. Enemies normally resistant to 
 
 You can do this for a number of attacks equal to your stronghold level, after which you must take an extended rest to refresh this ability.
 
-![[5. Mechanics/Tables/Paladin Followers (SAF).md\|Paladin Followers]]
+![[5. Mechanics/Tables/Paladin Followers.md\|Paladin Followers]]
 
 ### Winged Elves
 
 A paladin might attract an ambassador from the Covert Court, the court of the winged elves. This allows the paladin to buy Aerial units with winged elf ancestry (see Creating Your Own Units on page 235).
 
-![[5. Mechanics/Tables/Special Paladin Mount (SAF).md\|Special Paladin Mount]]
+![[5. Mechanics/Tables/Special Paladin Mount.md\|Special Paladin Mount]]
 
 ### A Paladin's Mount
 
@@ -310,7 +311,7 @@ If you roll really well (91-93), you get a special paladin mount as a follower! 
 
 Natives of Arcadia, the winged unicorn (not to be confused with the horned pegasus) can be summoned by a particularly devout paladin to serve as their mount. They do not particularly like the Mundane World, but they enjoy and find satisfaction in hunting evil and chaos. They will serve as mount and companion to a holy knight only so long as it brings the opportunity to smash evil, a sport they are denied on their home plane.
 
-![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/ranger-lodge.webp#center)
+![[6. Resources/Books/Strongholds And Followers/img/ranger-lodge.webp#center]]
 
 ## The Ranger's Lodge
 
@@ -334,9 +335,9 @@ On initiative count 20 (losing initiative ties), the ranger takes a stronghold a
 
 Your favored enemy has vulnerability to your attacks ^[Remember, the goal is players read this and think, "Wow I want to build a stronghold." And the GM sees "Oh this only happens like three times per adventure" and doesn't freak out.]. You can do this to a number of damage rolls equal to your stronghold level, after which you must take an extended rest to refresh this ability.
 
-![[5. Mechanics/Tables/Ranger Followers (SAF).md\|Ranger Followers]]
+![[5. Mechanics/Tables/Ranger Followers.md\|Ranger Followers]]
 
-![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/rogue-tavern.webp#center)
+![[6. Resources/Books/Strongholds And Followers/img/rogue-tavern.webp#center]]
 
 ## The Rogue's Tavern
 
@@ -360,9 +361,9 @@ On initiative count 20 (losing initiative ties), the rogue takes a stronghold ac
 
 After you hit with a Sneak Attack, you may become invisible. Anything you are wearing or carrying is invisible as long as it is on your person. This effect lasts until the end of your next turn or until you attack or cast a spell. You can do this a number of times equal to your stronghold level, after which you must take an extended rest to refresh this ability.
 
-![[5. Mechanics/Tables/Rogue Followers (SAF).md\|Rogue Followers]]
+![[5. Mechanics/Tables/Rogue Followers.md\|Rogue Followers]]
 
-![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/sorcerer-sanctum.webp#center)
+![[6. Resources/Books/Strongholds And Followers/img/sorcerer-sanctum.webp#center]]
 
 ## The Sorcerer's Sanctum
 
@@ -386,7 +387,7 @@ On initiative count 20 (losing initiative ties), the sorcerer takes a stronghold
 
 You gain bonus sorcery points equal in number to your stronghold level. These bonus points only refresh when you take an extended rest.
 
-![[5. Mechanics/Tables/Sorcerer Followers (SAF).md\|Sorcerer Followers]]
+![[5. Mechanics/Tables/Sorcerer Followers.md\|Sorcerer Followers]]
 
 ### A Sorcerer's Followers
 
@@ -394,7 +395,7 @@ Average folks find wizards weird enough, gabbling in strange languages and livin
 
 A sorcerer's army is usually light and highly mobile and like other classes that eschew large, slow, heavily armed and armored soldiers, they can attract flying units. Their retainers are almost all spellcasters. Their artisans are folks who enjoy making things and probably hope being in the court of a sorcerer will grant them the opportunity to create magic items. Their ambassadors come from cultures that do not fear sorcery and whose soldiers would have no problem serving under a commander who can conjure fire through sheer will.
 
-![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/warlock-fane.webp#center)
+![[6. Resources/Books/Strongholds And Followers/img/warlock-fane.webp#center]]
 
 ## The Warlock's Fane
 
@@ -419,9 +420,9 @@ On initiative count 20 (losing initiative ties), the warlock takes a stronghold 
 
 You gain an extra spell slot. You may use this extra spell slot a number of times equal to your stronghold level, after which you must take an extended rest to refresh this ability.
 
-![[5. Mechanics/Tables/Warlock Followers (SAF).md\|Warlock Followers]]
+![[5. Mechanics/Tables/Warlock Followers.md\|Warlock Followers]]
 
-![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/wizard-library.webp#center)
+![[6. Resources/Books/Strongholds And Followers/img/wizard-library.webp#center]]
 
 ## The Wizard's Library
 
@@ -445,7 +446,7 @@ On initiative count 20 (losing initiative ties), the wizard takes a stronghold a
 
 You can maintain two spells with concentration at once. You can do this a number of times equal to your stronghold level, after which you must take an extended rest to refresh this ability.
 
-![[5. Mechanics/Tables/Wizard Followers (SAF).md\|Wizard Followers]]
+![[5. Mechanics/Tables/Wizard Followers.md\|Wizard Followers]]
 
 ## Villain Strongholds
 
@@ -507,10 +508,10 @@ This is a dramatic way to introduce a villain and hint to the players that there
 
 Congratulations! You rolled well on your follower chart and attracted a special ally! Allies are like followers in that they approve of what you're doing in the world and want to help, but allies are powerful beings, often more powerful than your character. They cannot be ordered around, and they can be unreliable. Find your alignment on the chart below and roll a `dice: d12|avg` (`d12`) to see which cool beastie shows up to help you out.
 
-![[5. Mechanics/Tables/Special Allies (SAF).md\|Special Allies]]
+![[5. Mechanics/Tables/Special Allies.md\|Special Allies]]
 
-![[5. Mechanics/Tables/Devil Allies (SAF).md\|Devil Allies]]
+![[5. Mechanics/Tables/Devil Allies.md\|Devil Allies]]
 
-![[5. Mechanics/Tables/Demon Allies (SAF).md\|Demon Allies]]
+![[5. Mechanics/Tables/Demon Allies.md\|Demon Allies]]
 
-![[5. Mechanics/Tables/Fey Allies (SAF).md\|Fey Allies]]
+![[5. Mechanics/Tables/Fey Allies.md\|Fey Allies]]

@@ -2,15 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric/nature-domain
-- spell/class/druid
-- spell/class/ranger
-- spell/level/4
-- spell/school/conjuration
-aliases: ["Grasping Vine"]
+  - compendium/src/5e/phb
+  - spell/class/cleric/nature-domain
+  - spell/class/druid
+  - spell/class/ranger
+  - spell/level/4
+  - spell/school/conjuration
+aliases:
+  - Grasping Vine
 ---
 # Grasping Vine
+%%-- Embedded content starts on the next line. --%%
 *4th-level, Conjuration*  
 
 - **Casting time:** 1 bonus

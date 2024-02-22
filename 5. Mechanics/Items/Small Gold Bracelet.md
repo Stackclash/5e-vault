@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/wealth
-aliases: 
-- "Small gold bracelet"
+  - compendium/src/5e/dmg
+  - item/wealth
+aliases:
+  - Small gold bracelet
 cost: 2500
 ---
 # Small gold bracelet
-*Treasure*  
+*Art object*  
 
 - **Cost**: 25 gp
 

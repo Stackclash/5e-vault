@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/attunement/required
-- item/rarity/rare
-- item/tier/major
-- item/wondrous/wondrous-item
-aliases: 
-- "Berserker Axe"
-- "Berserker Battleaxe"
-- "Berserker Greataxe"
-- "Berserker Handaxe"
+  - compendium/src/5e/dmg
+  - item/attunement/required
+  - item/rarity/rare
+  - item/tier/major
+  - item/wondrous/wondrous-item
+aliases:
+  - Berserker Axe
+  - Berserker Battleaxe
+  - Berserker Greataxe
+  - Berserker Handaxe
 ---
 # Berserker Axe
 *Generic Variant, major, rare (requires attunement)*  

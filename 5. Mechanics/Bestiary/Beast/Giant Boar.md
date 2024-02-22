@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/2
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/size/large
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/2
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/size/large
+  - monster/type/beast
 statblock: inline
-aliases: ["Giant Boar"]
+aliases:
+  - Giant Boar
 ---
-# [[5. Mechanics/Bestiary/Beast/Giant Boar.md|Giant Boar]]
+# [[5. Mechanics\Bestiary\Beast\Giant Boar.md|Giant Boar]]
 *Source: Monster Manual p. 323. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -55,7 +56,7 @@ aliases: ["Giant Boar"]
 - "MOT"
 - "PSI"
 - "BMT"
-"image": "5. Mechanics/Bestiary/Beast/token/giant-boar.png"
+"image": "5. Mechanics/Bestiary/Beast/token/giant-boar.webp"
 ```
 ^statblock
 

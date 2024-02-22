@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/15
-- monster/environment/forest
-- monster/size/huge
-- monster/type/dragon
+  - compendium/src/5e/mm
+  - monster/cr/15
+  - monster/environment/forest
+  - monster/size/huge
+  - monster/type/dragon
 statblock: inline
-aliases: ["Adult Green Dragon"]
+aliases:
+  - Adult Green Dragon
 ---
-# [[5. Mechanics/Bestiary/Dragon/Adult Green Dragon.md|Adult Green Dragon]]
+# [[5. Mechanics\Bestiary\Dragon\Adult Green Dragon.md|Adult Green Dragon]]
 *Source: Monster Manual p. 94. Available in the SRD.*  
 
 The most cunning and treacherous of true dragons, green dragons use misdirection and trickery to get the upper hand against their enemies. Nasty tempered and thoroughly evil, they take special pleasure in subverting and corrupting the good-hearted. In the ancient forests they roam, green dragons demonstrate an aggression that is often less about territory than it is about gaining power and wealth with as little effort as possible.
@@ -181,7 +182,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "RoT"
 - "GoS"
 - "CM"
-"image": "5. Mechanics/Bestiary/Dragon/token/adult-green-dragon.png"
+"image": "5. Mechanics/Bestiary/Dragon/token/adult-green-dragon.webp"
 ```
 ^statblock
 

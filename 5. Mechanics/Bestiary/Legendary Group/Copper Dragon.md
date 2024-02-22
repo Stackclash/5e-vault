@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/mm
-- monster/legendary-group
-aliases: ["Copper Dragon"]
+  - compendium/src/5e/mm
+  - monster/legendary-group
+aliases:
+  - Copper Dragon
 ---
 # Copper Dragon
 
@@ -39,4 +40,9 @@ If the dragon dies, the magic carvings fade over the course of `dice: 1d10|avg` 
 Either of these effects might appear in the area around a copper dragon's lair, in addition to or instead of the effects described in the *Monster Manual*:
 
 - **Distant Melodies.** The ethereal music of woodwinds and bells can be heard carried on the wind within 1 mile of the dragon's lair.  
-- **Starlit Stones.** Standing stones are common on hilltops within 1 mile of the dragon's lair. The stones shed dim light in a 10-foot radius at night. (If the dragon dies, the stones remain, but they no longer shed light.)
+- **Starlit Stones.** Standing stones are common on hilltops within 1 mile of the dragon's lair. The stones shed dim light in a 10-foot radius at night. (If the dragon dies, the stones remain, but they no longer shed light.)  
+
+## Is homebrew
+_Source: Monster Manual_
+
+false

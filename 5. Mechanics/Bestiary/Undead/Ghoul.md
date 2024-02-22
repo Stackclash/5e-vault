@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/undead
+  - compendium/src/5e/mm
+  - monster/cr/1
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
-aliases: ["Ghoul"]
+aliases:
+  - Ghoul
 ---
-# [[5. Mechanics/Bestiary/Undead/Ghoul.md|Ghoul]]
+# [[5. Mechanics\Bestiary\Undead\Ghoul.md|Ghoul]]
 *Source: Monster Manual p. 148, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 Ghouls roam the night in packs, driven by an insatiable hunger for humanoid flesh.
@@ -91,7 +92,7 @@ Orcus sometimes infuses a ghoul with a stronger dose of abyssal energy, making a
 - "SatO"
 - "BMT"
 - "GHLoE"
-"image": "5. Mechanics/Bestiary/Undead/token/ghoul.png"
+"image": "5. Mechanics/Bestiary/Undead/token/ghoul.webp"
 ```
 ^statblock
 

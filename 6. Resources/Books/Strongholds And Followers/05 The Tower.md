@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/saf
-aliases: ["The Tower"]
+  - compendium/src/5e/saf
+aliases:
+  - The Tower
 ---
 # The Tower
 *Source: Strongholds and Followers* 
@@ -87,6 +88,8 @@ Some of these results are *weird*. This is by design, meant to reinforce the ide
 
 **The Spell Targets You or One Ally**
 
+`dice: [[05 The Tower.md#^the-spell-targets-you-or-one-ally]]`
+
 | dice: d8 | Spell Effect |
 |----------|--------------|
 | 1 | **Empowering:** For 10 minutes, a random ability score of the target increases to 20. |
@@ -100,6 +103,8 @@ Some of these results are *weird*. This is by design, meant to reinforce the ide
 ^the-spell-targets-you-or-one-ally
 
 **The Spell Targets Allies**
+
+`dice: [[05 The Tower.md#^the-spell-targets-allies]]`
 
 | dice: d8 | Spell Effect |
 |----------|--------------|
@@ -115,6 +120,8 @@ Some of these results are *weird*. This is by design, meant to reinforce the ide
 
 **The Spell Targets One Enemy**
 
+`dice: [[05 The Tower.md#^the-spell-targets-one-enemy]]`
+
 | dice: d8 | Spell Effect |
 |----------|--------------|
 | 1 | **Betraying:** The target immediately attacks another target of your choice. |
@@ -128,6 +135,8 @@ Some of these results are *weird*. This is by design, meant to reinforce the ide
 ^the-spell-targets-one-enemy
 
 **The Spell Targets Several Enemies**
+
+`dice: [[05 The Tower.md#^the-spell-targets-several-enemies]]`
 
 | dice: d8 | Spell Effect |
 |----------|--------------|
@@ -227,6 +236,6 @@ You could, of course, decide that towers in your campaign grant both these benef
 Another method I've used and enjoyed allows the magic-user to cast their specialist spells as though they were one level higher with no limit (other than the normal limits of spells by level per day), but **each time they cast a spell at a higher level, they must make a Constitution check of DC 10 plus the spell's level**. If they fail, they suffer one level of exhaustion. A full rest removes one level of exhaustion.
 
 > [!gallery]
-> ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tower-exterior.jpg#gallery)
-> ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tower-interior.jpg#gallery)
-> ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tower-cellar.jpg#gallery)
+> ![[6. Resources/Books/Strongholds And Followers/img/tower-exterior.jpg#gallery]]
+> ![[6. Resources/Books/Strongholds And Followers/img/tower-interior.jpg#gallery]]
+> ![[6. Resources/Books/Strongholds And Followers/img/tower-cellar.jpg#gallery]]

@@ -8,7 +8,6 @@
         "VRGR",
         "XGE",
         "TCE",
-        "SaF",
         "ERLW",
         "MTF"
     ],
@@ -46,14 +45,14 @@
             "z_Extra/ttrpg-convert/homebrew/Jasmine Yang; Hamund's Harvesting Handbook I.json",
             "z_Extra/ttrpg-convert/homebrew/Jasmine Yang; Hamund's Harvesting Handbook II.json",
             "z_Extra/ttrpg-convert/homebrew/Jasmine Yang; Hamund's Harvesting Handbook III.json",
-            "z_Extra/ttrpg-convert/homebrew/Jasmine Yang; Hamund's Herbalism Handbook.json"
+            "z_Extra/ttrpg-convert/homebrew/Jasmine Yang; Hamund's Herbalism Handbook.json",
+            "z_Extra/ttrpg-convert/homebrew/MCDM Productions; Strongholds and Followers.json"
         ],
         "adventure": [
             "CoS"
         ],
         "book": [
-            "VRGR",
-            "SaF"
+            "VRGR"
         ]
     }
 }

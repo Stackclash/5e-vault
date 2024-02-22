@@ -2,17 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer/alchemist
-- spell/class/druid/circle-of-the-land
-- spell/class/fighter/eldritch-knight
-- spell/class/rogue/arcane-trickster
-- spell/class/wizard
-- spell/level/2
-- spell/school/evocation
-aliases: ["Melf's Acid Arrow"]
+  - compendium/src/5e/phb
+  - spell/class/artificer/alchemist
+  - spell/class/druid/circle-of-the-land
+  - spell/class/fighter/eldritch-knight
+  - spell/class/rogue/arcane-trickster
+  - spell/class/wizard
+  - spell/level/2
+  - spell/school/evocation
+aliases:
+  - Melf's Acid Arrow
 ---
 # Melf's Acid Arrow
+%%-- Embedded content starts on the next line. --%%
 *2nd-level, Evocation*  
 
 - **Casting time:** 1 action
@@ -24,6 +26,6 @@ A shimmering green arrow streaks toward a target within range and bursts in a sp
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage (both initial and later) increases by 1d4 for each slot level above 2nd.
 
-**Classes**: [[5. Mechanics/Classes/Artificer Alchemist (TCE).md\|Artificer (Alchemist)]], [[5. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Artificer Alchemist.md\|Artificer (Alchemist)]], [[5. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 259. Available in the SRD (as 'Acid Arrow').*

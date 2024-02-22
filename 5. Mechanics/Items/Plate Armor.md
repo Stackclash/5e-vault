@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/armor/heavy
-aliases: 
-- "Plate Armor"
+  - compendium/src/5e/phb
+  - item/armor/heavy
+aliases:
+  - Plate Armor
 cost: 150000
 ---
 # Plate Armor

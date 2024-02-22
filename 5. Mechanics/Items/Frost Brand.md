@@ -2,19 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/attunement/required
-- item/rarity/very-rare
-- item/tier/major
-- item/wondrous/wondrous-item
-aliases: 
-- "Frost Brand"
-- "Frost Brand Longsword"
-- "Frost Brand Double-Bladed Scimitar"
-- "Frost Brand Greatsword"
-- "Frost Brand Rapier"
-- "Frost Brand Shortsword"
-- "Frost Brand Scimitar"
+  - compendium/src/5e/dmg
+  - item/attunement/required
+  - item/rarity/very-rare
+  - item/tier/major
+  - item/wondrous/wondrous-item
+aliases:
+  - Frost Brand
+  - Frost Brand Longsword
+  - Frost Brand Double-Bladed Scimitar
+  - Frost Brand Greatsword
+  - Frost Brand Rapier
+  - Frost Brand Shortsword
+  - Frost Brand Scimitar
 ---
 # Frost Brand
 *Generic Variant, major, very rare (requires attunement)*  

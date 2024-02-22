@@ -2,18 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/4
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/urban
-- monster/size/medium
-- monster/type/celestial
+  - compendium/src/5e/mm
+  - monster/cr/4
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/celestial
 statblock: inline
-aliases: ["Couatl"]
+aliases:
+  - Couatl
 ---
-# [[5. Mechanics/Bestiary/Celestial/Couatl.md|Couatl]]
+# [[5. Mechanics\Bestiary\Celestial\Couatl.md|Couatl]]
 *Source: Monster Manual p. 43. Available in the SRD.*  
 
 Couatls are benevolent serpentine beings of great intellect and insight. Their brilliantly colored wings and gentle manner speak to their celestial origins.
@@ -107,7 +108,7 @@ The mating ritual of couatls is a beautiful and elaborate dance of magic and lig
 - "IDRotF"
 - "PSX"
 - "BMT"
-"image": "5. Mechanics/Bestiary/Celestial/token/couatl.png"
+"image": "5. Mechanics/Bestiary/Celestial/token/couatl.webp"
 ```
 ^statblock
 

@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/wealth
-aliases: 
-- "Blue Spinel"
+  - compendium/src/5e/dmg
+  - item/wealth
+aliases:
+  - Blue Spinel
 cost: 50000
 ---
 # Blue Spinel
-*Treasure*  
+*Gemstone*  
 
 - **Cost**: 500 gp
 

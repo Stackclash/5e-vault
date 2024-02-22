@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/7
-- monster/environment/forest
-- monster/size/huge
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/7
+  - monster/environment/forest
+  - monster/size/huge
+  - monster/type/beast
 statblock: inline
-aliases: ["Giant Ape"]
+aliases:
+  - Giant Ape
 ---
-# [[5. Mechanics/Bestiary/Beast/Giant Ape.md|Giant Ape]]
+# [[5. Mechanics\Bestiary\Beast\Giant Ape.md|Giant Ape]]
 *Source: Monster Manual p. 323. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -48,7 +49,7 @@ aliases: ["Giant Ape"]
 - "MM"
 - "GoS"
 - "GHLoE"
-"image": "5. Mechanics/Bestiary/Beast/token/giant-ape.png"
+"image": "5. Mechanics/Bestiary/Beast/token/giant-ape.webp"
 ```
 ^statblock
 

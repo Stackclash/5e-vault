@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/phb
-- optional-feature/ed
-aliases: ["Breath of Winter"]
+  - compendium/src/5e/phb
+  - optional-feature/ed
+aliases:
+  - Breath of Winter
 ---
 # Breath of Winter
 *Source: Player's Handbook p. 81*  

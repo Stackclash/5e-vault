@@ -1,32 +1,34 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: null
 condition: healthy
 relationships: []
-tags: 
+tags: null
 aliases: []
-pronounced: 
-race: 
-gender: 
-age: 
+pronounced: null
+race: null
+gender: null
+age: null
 alignment: Lawful Evil
-occupation: [] 
+occupation: []
 groups: []
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
-> ![[4. World Almanac/NPCs/img/060-cos05-11.webp|cover hm-sm]] 
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```
 > ###### Bio
 >  |
 >  ---|---|
@@ -104,7 +106,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 
 ## Stats
 ```statblock
-"name": "Majesto (CoS)"
+"name": "Majesto"
 "size": "Tiny"
 "type": "fiend"
 "subtype": "devil"
@@ -128,7 +130,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ not made with silvered weapons"
 "damage_immunities": "fire, poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 11"
 "languages": "Infernal, Common"
 "cr": "1"
@@ -150,13 +152,14 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ make a DC 11 Constitution saving throw, taking dice: 3d6|avg (3d6) poison\
     \ damage on a failed save, or half as much damage on a successful one."
   "name": "Sting (Bite in Beast Form)"
-- "desc": "Majesto magically turns invisible until it attacks, or until its concentration\
+- "desc": "Majesto magically turns [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]]\
+    \ until it attacks, or until its [[/5. Mechanics/Rules/Conditions.md#concentration|concentration]]\
     \ ends (as if concentrating on a spell). Any equipment Majesto wears or carries\
-    \ is invisible with it."
+    \ is [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]] with it."
   "name": "Invisibility"
 "source":
 - "CoS"
-"image": "4. World Almanac/NPCs/token/majesto.png"
+"image": "4. World Almanac/NPCs/token/majesto-cos.webp"
 ```
 ^statblock
 

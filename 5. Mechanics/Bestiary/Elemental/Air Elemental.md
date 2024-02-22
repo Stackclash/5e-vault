@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/5
-- monster/environment/desert
-- monster/environment/mountain
-- monster/size/large
-- monster/type/elemental
+  - compendium/src/5e/mm
+  - monster/cr/5
+  - monster/environment/desert
+  - monster/environment/mountain
+  - monster/size/large
+  - monster/type/elemental
 statblock: inline
-aliases: ["Air Elemental"]
+aliases:
+  - Air Elemental
 ---
-# [[5. Mechanics/Bestiary/Elemental/Air Elemental.md|Air Elemental]]
+# [[5. Mechanics\Bestiary\Elemental\Air Elemental.md|Air Elemental]]
 *Source: Monster Manual p. 124, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 An air elemental is a funneling cloud of whirling air with a vague semblance of a face. Although it likes to race across the ground, picking up dust and debris as it goes, it can also fly and attack from above.
@@ -110,7 +111,7 @@ An elemental doesn't require air, food, drink, or sleep.
 - "GotSF"
 - "BMT"
 - "DoDk"
-"image": "5. Mechanics/Bestiary/Elemental/token/air-elemental.png"
+"image": "5. Mechanics/Bestiary/Elemental/token/air-elemental.webp"
 ```
 ^statblock
 

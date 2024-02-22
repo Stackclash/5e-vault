@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/druid
-- spell/level/2
-- spell/school/evocation
-aliases: ["Flame Blade"]
+  - compendium/src/5e/phb
+  - spell/class/druid
+  - spell/level/2
+  - spell/school/evocation
+aliases:
+  - Flame Blade
 ---
 # Flame Blade
+%%-- Embedded content starts on the next line. --%%
 *2nd-level, Evocation*  
 
 - **Casting time:** 1 bonus

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Plot Points"]
+  - compendium/src/5e/dmg
+aliases:
+  - Plot Points
 ---
 # Plot Points
 *Source: Dungeon Master's Guide p. 269* 

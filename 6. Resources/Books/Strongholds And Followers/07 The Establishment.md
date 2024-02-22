@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/saf
-aliases: ["The Establishment"]
+  - compendium/src/5e/saf
+aliases:
+  - The Establishment
 ---
 # The Establishment
 *Source: Strongholds and Followers* 
@@ -70,7 +71,7 @@ Gathering intel costs money—it's expensive to pay folks to spy on people! It c
 
 You may make a number of Gather Intel checks per season equal to your establishment level, but you cannot make more than one check against the same organization during the same season.
 
-![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/establishment-small.jpg#center)
+![[6. Resources/Books/Strongholds And Followers/img/establishment-small.jpg#center]]
 
 ### Setting the DC
 
@@ -130,4 +131,4 @@ Choose an allied NPC or party member with a temple. You can petition their deity
 
 The money for the favor goes to the ally. A PC ally could refuse to grant the favor but they cannot change how much the favor costs. They may want to negotiate better terms, or get something else in return, but the benefits of the favor originate from the establishment and the power of the network of people in your employ to lie, manipulate, and double-deal so that the folks granting the favor think it was their idea. A PC ally therefore might want to name their own terms, ("I will grant you this favor if...,") but if they accept the payment, the establishment's owner gets the favor. As a rule, an NPC ally will not try to negotiate. They will accept the money and the PCs gains the favor.
 
-![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/establishment-large.jpg#center)
+![[6. Resources/Books/Strongholds And Followers/img/establishment-large.jpg#center]]

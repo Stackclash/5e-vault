@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/2
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/size/large
-- monster/type/celestial
+  - compendium/src/5e/mm
+  - monster/cr/2
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/size/large
+  - monster/type/celestial
 statblock: inline
-aliases: ["Pegasus"]
+aliases:
+  - Pegasus
 ---
-# [[5. Mechanics/Bestiary/Celestial/Pegasus.md|Pegasus]]
+# [[5. Mechanics\Bestiary\Celestial\Pegasus.md|Pegasus]]
 *Source: Monster Manual p. 250, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  
 
 The white winged horses known as pegasi soar through the skies, a vision of grace and majesty. When they touch down on solid ground, they linger only for a moment, drinking from mountain springs and pristine lakes. Any sound or sign of another creature startles them, sending them off to fly once more among the clouds.
@@ -71,7 +72,7 @@ Pegasi mate for life, build their nests in hard-to-reach locations, and give bir
 - "JttRC"
 - "SatO"
 - "BMT"
-"image": "5. Mechanics/Bestiary/Celestial/token/pegasus.png"
+"image": "5. Mechanics/Bestiary/Celestial/token/pegasus.webp"
 ```
 ^statblock
 

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/phb
-- optional-feature/ed
-aliases: ["Fangs of the Fire Snake"]
+  - compendium/src/5e/phb
+  - optional-feature/ed
+aliases:
+  - Fangs of the Fire Snake
 ---
 # Fangs of the Fire Snake
 *Source: Player's Handbook p. 81*  

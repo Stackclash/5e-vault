@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/5
-- monster/environment/underdark
-- monster/size/large
-- monster/type/elemental
+  - compendium/src/5e/mm
+  - monster/cr/5
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/elemental
 statblock: inline
-aliases: ["Earth Elemental"]
+aliases:
+  - Earth Elemental
 ---
-# [[5. Mechanics/Bestiary/Elemental/Earth Elemental.md|Earth Elemental]]
+# [[5. Mechanics\Bestiary\Elemental\Earth Elemental.md|Earth Elemental]]
 *Source: Monster Manual p. 124, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 An earth elemental plods forward like a walking hill, club-like arms of jagged stone swinging at its sides. Its head and body consist of dirt and stone, occasionally set with chunks of metal, gems, and bright minerals.
@@ -86,7 +87,7 @@ An elemental doesn't require air, food, drink, or sleep.
 - "CRCotN"
 - "PaBTSO"
 - "DoDk"
-"image": "5. Mechanics/Bestiary/Elemental/token/earth-elemental.png"
+"image": "5. Mechanics/Bestiary/Elemental/token/earth-elemental.webp"
 ```
 ^statblock
 

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: "[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]"
+location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'
 condition: healthy
 relationships:
   - Urwin Martikov|father
   - Danika Dorakova|mother
   - Bray Martikov|brother
-tags: 
+tags: null
 aliases: []
 pronounced: BROM MAR-ti-kov
-race: "[[5. Mechanics/Races/Human.md|Human]]"
+race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male
 age: 13
 alignment: Lawful Good
@@ -19,19 +19,21 @@ occupation:
 groups:
   - Keepers of the Feather
 religions: []
-personality: Curious, playful, slightly mischievous
+personality: 'Curious, playful, slightly mischievous'
 ideal: Adventure and discovery are the spices of life.
-bond: His family, especially his brother Bray, and the adventures they dream of
+bond: 'His family, especially his brother Bray, and the adventures they dream of'
 flaw: His curiosity and mischievousness sometimes get him into trouble
-goals: To explore the world beyond Vallaki, to make a name for himself
-likes: Pranks, stories of faraway places, animals
-dislikes: Restrictions, Strahd’s minions, when others treat him like a child
+goals: 'To explore the world beyond Vallaki, to make a name for himself'
+likes: 'Pranks, stories of faraway places, animals'
+dislikes: 'Restrictions, Strahd’s minions, when others treat him like a child'
 ---
 
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
-> ![[4. World Almanac/NPCs/img/brom-martikov.webp|cover hm-sm]] 
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```
 > ###### Bio
 >  |
 >  ---|---|
@@ -109,7 +111,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 
 ## Stats
 ```statblock
-"name": "Brom Martikov (CoS)"
+"name": "Brom Martikov"
 "size": "Small"
 "type": "humanoid"
 "subtype": "human, shapechanger"
@@ -139,7 +141,8 @@ await dv.view("npcRelationships", { current: dv.current() })
   "name": "Shapechanger"
 - "desc": "Brom can mimic simple sounds it has heard, such as a person whispering,\
     \ a baby crying, or an animal chittering. A creature that hears the sounds can\
-    \ tell they are imitations with a successful DC 10 Wisdom (Insight) check."
+    \ tell they are imitations with a successful DC 10 Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight|Insight]])\
+    \ check."
   "name": "Mimicry"
 - "desc": "Brom regains 10 hit points at the start of its turn. If Brom takes damage\
     \ from a silvered weapon or a spell, this trait doesn't function at the start\
@@ -162,7 +165,7 @@ await dv.view("npcRelationships", { current: dv.current() })
   "name": "Hand Crossbow (Human or Hybrid Form Only)"
 "source":
 - "CoS"
-"image": "4. World Almanac/NPCs/token/brom-martikov.png"
+"image": "4. World Almanac/NPCs/token/brom-martikov-cos.webp"
 ```
 ^statblock
 

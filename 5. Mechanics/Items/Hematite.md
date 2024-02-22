@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/wealth
-aliases: 
-- "Hematite"
+  - compendium/src/5e/dmg
+  - item/wealth
+aliases:
+  - Hematite
 cost: 1000
 ---
 # Hematite
-*Treasure*  
+*Gemstone*  
 
 - **Cost**: 10 gp
 

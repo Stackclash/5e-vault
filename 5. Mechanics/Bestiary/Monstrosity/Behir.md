@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/11
-- monster/environment/underdark
-- monster/size/huge
-- monster/type/monstrosity
+  - compendium/src/5e/mm
+  - monster/cr/11
+  - monster/environment/underdark
+  - monster/size/huge
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Behir"]
+aliases:
+  - Behir
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Behir.md|Behir]]
+# [[5. Mechanics\Bestiary\Monstrosity\Behir.md|Behir]]
 *Source: Monster Manual p. 25. Available in the SRD.*  
 
 The serpentine behir crawls along floors and clambers up walls to reach its prey. Its lightning breath can incinerate most creatures, even as more powerful foes are constricted in its coils and eaten alive.
@@ -98,7 +99,7 @@ A behir never makes its lair in an area it knows to be inhabited by a dragon. If
 - "PaBTSO"
 - "ToFW"
 - "BMT"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/behir.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/behir.webp"
 ```
 ^statblock
 

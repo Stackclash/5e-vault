@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
-- background
-- compendium/src/5e/phb
-aliases: ["Charlatan"]
+  - background
+  - compendium/src/5e/phb
+aliases:
+  - Charlatan
 ---
 # Charlatan
 *Source: Player's Handbook p. 128*  
@@ -25,6 +26,8 @@ You have created a second identity that includes documentation, established acqu
 
 Every charlatan has an angle he or she uses in preference to other schemes. Choose a favorite scam or roll on the table below.
 
+`dice: [[Charlatan.md#^scam]]`
+
 | dice: d6 | Scam |
 |----------|------|
 | 1 | I cheat at games of chance. |
@@ -39,6 +42,8 @@ Every charlatan has an angle he or she uses in preference to other schemes. Choo
 
 Charlatans are colorful characters who conceal their true selves behind the masks they construct. They reflect what people want to see, what they want to believe, and how they see the world. But their true selves are sometimes plagued by an uneasy conscience, an old enemy, or deep-seated trust issues.
 
+`dice: [[Charlatan.md#^personality-trait]]`
+
 | dice: d8 | Personality Trait |
 |----------|-------------------|
 | 1 | I fall in and out of love easily, and am always pursuing someone. |
@@ -51,6 +56,8 @@ Charlatans are colorful characters who conceal their true selves behind the mask
 | 8 | I pocket anything I see that might have some value. |
 ^personality-trait
 
+`dice: [[Charlatan.md#^ideal]]`
+
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Independence. I am a free spirit—no one tells me what to do. (Chaotic) |
@@ -61,6 +68,8 @@ Charlatans are colorful characters who conceal their true selves behind the mask
 | 6 | Aspiration. I'm determined to make something of myself. (Any) |
 ^ideal
 
+`dice: [[Charlatan.md#^bond]]`
+
 | dice: d6 | Bond |
 |----------|------|
 | 1 | I fleeced the wrong person and must work to ensure that this individual never crosses paths with me or those I care about. |
@@ -70,6 +79,8 @@ Charlatans are colorful characters who conceal their true selves behind the mask
 | 5 | A powerful person killed someone I love. Some day soon, I'll have my revenge. |
 | 6 | I swindled and ruined a person who didn't deserve it. I seek to atone for my misdeeds but might never be able to forgive myself. |
 ^bond
+
+`dice: [[Charlatan.md#^flaw]]`
 
 | dice: d6 | Flaw |
 |----------|------|

@@ -2,20 +2,22 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/cleric
-- spell/class/fighter/eldritch-knight
-- spell/class/paladin/oath-of-conquest
-- spell/class/paladin/oathbreaker
-- spell/class/rogue/arcane-trickster
-- spell/class/sorcerer/divine-soul
-- spell/class/wizard
-- spell/level/3
-- spell/school/necromancy
-aliases: ["Bestow Curse"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/cleric
+  - spell/class/fighter/eldritch-knight
+  - spell/class/paladin/oath-of-conquest
+  - spell/class/paladin/oathbreaker
+  - spell/class/rogue/arcane-trickster
+  - spell/class/sorcerer/divine-soul
+  - spell/class/wizard
+  - spell/level/3
+  - spell/school/necromancy
+aliases:
+  - Bestow Curse
 ---
 # Bestow Curse
+%%-- Embedded content starts on the next line. --%%
 *3rd-level, Necromancy*  
 
 - **Casting time:** 1 action
@@ -34,6 +36,6 @@ A [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell ends this effect. 
 
 **At Higher Levels.** If you cast this spell using a spell slot of 4th level or higher, the duration is [[/5. Mechanics/Rules/Conditions.md#concentration\|concentration]], up to 10 minutes. If you use a spell slot of 5th level or higher, the duration is 8 hours. If you use a spell slot of 7th level or higher, the duration is 24 hours. If you use a 9th level spell slot, the spell lasts until it is dispelled. Using a spell slot of 5th level or higher grants a duration that doesn't require [[/5. Mechanics/Rules/Conditions.md#concentration\|concentration]].
 
-**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Paladin Oath Of Conquest (XGE).md\|Paladin (Oath of Conquest)]], [[5. Mechanics/Classes/Paladin Oathbreaker.md\|Paladin (Oathbreaker)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Paladin Oath Of Conquest.md\|Paladin (Oath of Conquest)]], [[5. Mechanics/Classes/Paladin Oathbreaker.md\|Paladin (Oathbreaker)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 218. Available in the SRD.*

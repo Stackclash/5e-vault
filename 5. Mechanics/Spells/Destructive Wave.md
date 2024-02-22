@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric/tempest-domain
-- spell/class/paladin
-- spell/level/5
-- spell/school/evocation
-aliases: ["Destructive Wave"]
+  - compendium/src/5e/phb
+  - spell/class/cleric/tempest-domain
+  - spell/class/paladin
+  - spell/level/5
+  - spell/school/evocation
+aliases:
+  - Destructive Wave
 ---
 # Destructive Wave
+%%-- Embedded content starts on the next line. --%%
 *5th-level, Evocation*  
 
 - **Casting time:** 1 action

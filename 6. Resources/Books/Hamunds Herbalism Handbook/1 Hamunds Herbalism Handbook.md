@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhbh
-aliases: ["Hamund's Herbalism Handbook"]
+  - compendium/src/5e/hhbh
+aliases:
+  - Hamund's Herbalism Handbook
 ---
 # Hamund's Herbalism Handbook
 *Source: Hamund's Herbalism Handbook, p. 1* 
 
-![Front Cover](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHbH/Cover-Full.webp#center)
+![[6. Resources/Books/Hamunds Herbalism Handbook/img/cover-full.webp#center\|Front Cover]]
 
 A Guide to Herbalism in Dungeons and Dragons 5e
 
@@ -56,4 +57,4 @@ Everything has been written with balance in mind, but you are of course free to 
 
 Also, consider checking out some of my other works:the 'Hamund's Harvesting Handbook Volume I ^[collection/Jasmine Yang; Hamund's Harvesting Handbook I.json], Volume II ^[collection/Jasmine Yang; Hamund's Harvesting Handbook II.json], Volume III ^[collection/Jasmine Yang; Hamund's Harvesting Handbook III.json]' series (also written under the fictional pen of the boisterous Sir Hamund Holderhek), and my naval combat guide 'Captains and Cannons' (https://www.dmsguild.com/product/256983/Captains-and-Cannons-A-Ship-Combat-Guide-in-DD-5e). Both are available on the DMsGuild in both PDF and Fantasy Grounds versions.
 
-![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHbH/Credits.webp#center)
+![[6. Resources/Books/Hamunds Herbalism Handbook/img/credits.webp#center]]

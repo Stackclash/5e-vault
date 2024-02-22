@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/wealth
-aliases: 
-- "Rhodochrosite"
+  - compendium/src/5e/dmg
+  - item/wealth
+aliases:
+  - Rhodochrosite
 cost: 1000
 ---
 # Rhodochrosite
-*Treasure*  
+*Gemstone*  
 
 - **Cost**: 10 gp
 

@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-4
-- monster/environment/forest
-- monster/size/tiny
-- monster/type/fey
+  - compendium/src/5e/mm
+  - monster/cr/1-4
+  - monster/environment/forest
+  - monster/size/tiny
+  - monster/type/fey
 statblock: inline
-aliases: ["Pixie"]
+aliases:
+  - Pixie
 ---
-# [[5. Mechanics/Bestiary/Fey/Pixie.md|Pixie]]
+# [[5. Mechanics\Bestiary\Fey\Pixie.md|Pixie]]
 *Source: Monster Manual p. 253, Eberron: Rising from the Last War*  
 
 Standing barely a foot tall, pixies resemble diminutive elves with gossamer wings like those of dragonflies or butterflies, bright as the clear dawn and as luminous as the full moonrise.
@@ -94,7 +95,7 @@ Unlike their fey cousins, the sprites, pixies abhor weapons and would sooner fle
 - "SatO"
 - "ToFW"
 - "BMT"
-"image": "5. Mechanics/Bestiary/Fey/token/pixie.png"
+"image": "5. Mechanics/Bestiary/Fey/token/pixie.webp"
 ```
 ^statblock
 

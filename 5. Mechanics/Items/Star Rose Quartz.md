@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/wealth
-aliases: 
-- "Star rose quartz"
+  - compendium/src/5e/dmg
+  - item/wealth
+aliases:
+  - Star rose quartz
 cost: 5000
 ---
 # Star rose quartz
-*Treasure*  
+*Gemstone*  
 
 - **Cost**: 50 gp
 

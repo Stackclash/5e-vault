@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/monk
-- compendium/src/5e/phb
-aliases: ["Monk"]
+  - class/monk
+  - compendium/src/5e/phb
+aliases:
+  - Monk
 ---
 # Monk
 *Source: Player's Handbook p. 76. Available in the SRD.*  
@@ -157,6 +158,8 @@ What sort of place was your monastery, and where is it located? Did attending it
 
 **Monastery**
 
+`dice: [[Monk.md#^monastery]]`
+
 | dice: d6 | Monastery |
 |----------|-----------|
 | 1 | Your monastery is carved out of a mountainside, where it looms over a treacherous pass. |
@@ -176,6 +179,8 @@ If your character's monastery had a special icon, you might wear a crude image o
 
 **Icon**
 
+`dice: [[Monk.md#^icon]]`
+
 | dice: d6 | Icon |
 |----------|------|
 | 1 | Monkey. Quick reflexes and the ability to travel through the treetops are two of the reasons why your order admires the monkey. |
@@ -192,6 +197,8 @@ _Source: Xanathar's Guide to Everything_
 During your studies, you were likely under the tutelage of a master who imparted to you the precepts of the order. Your master was the one most responsible for shaping your understanding of the martial arts and your attitude toward the world. What sort of person was your master, and how did your relationship with your master affect you?
 
 **Master**
+
+`dice: [[Monk.md#^master]]`
 
 | dice: d6 | Master |
 |----------|--------|
@@ -248,7 +255,7 @@ You can spend 1 ki point to take the [[/5. Mechanics/Rules/Actions.md#Disengage\
 ### Dedicated Weapon (Level 2)
 _Source: Tasha's Cauldron of Everything p. 48_
 
-*2nd-level monk [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+*2nd-level monk [[/5. Mechanics/Rules/Variant Rules/Optional Class Features.md\|optional class features]]*
 
 You train yourself to use a variety of weapons as monk weapons, not just simple melee weapons and shortswords. Whenever you finish a short or long rest, you can touch one weapon, focus your ki on it, and then count that weapon as a monk weapon until you use this feature again.
 
@@ -277,7 +284,7 @@ When you reach 3rd level, you commit yourself to a monastic tradition, chosen fr
 ### Ki-Fueled Attack (Level 3)
 _Source: Tasha's Cauldron of Everything p. 48_
 
-*3rd-level monk [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+*3rd-level monk [[/5. Mechanics/Rules/Variant Rules/Optional Class Features.md\|optional class features]]*
 
 If you spend 1 ki point or more as part of your action on your turn, you can make one attack with an unarmed strike or a monk weapon as a bonus action before the end of the turn.
 
@@ -294,7 +301,7 @@ Beginning at 4th level, you can use your reaction when you fall to reduce any fa
 ### Quickened Healing (Level 4)
 _Source: Tasha's Cauldron of Everything p. 48_
 
-*4th-level monk [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+*4th-level monk [[/5. Mechanics/Rules/Variant Rules/Optional Class Features.md\|optional class features]]*
 
 As an action, you can spend 2 ki points and roll a Martial Arts die. You regain a number of hit points equal to the number rolled plus your proficiency bonus.
 
@@ -309,7 +316,7 @@ Starting at 5th level, you can interfere with the flow of ki in an opponent's bo
 ### Focused Aim (Level 5)
 _Source: Tasha's Cauldron of Everything p. 48_
 
-*5th-level monk [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+*5th-level monk [[/5. Mechanics/Rules/Variant Rules/Optional Class Features.md\|optional class features]]*
 
 When you miss with an attack roll, you can spend 1 to 3 ki points to increase your attack roll by 2 for each of these ki points you spend, potentially turning the miss into a hit.
 

@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1
-- monster/environment/underwater
-- monster/size/medium
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/1
+  - monster/environment/underwater
+  - monster/size/medium
+  - monster/type/beast
 statblock: inline
-aliases: ["Swarm of Quippers"]
+aliases:
+  - Swarm of Quippers
 ---
-# [[5. Mechanics/Bestiary/Beast/Swarm Of Quippers.md|Swarm of Quippers]]
+# [[5. Mechanics\Bestiary\Beast\Swarm Of Quippers.md|Swarm of Quippers]]
 *Source: Monster Manual p. 338. Available in the SRD and the Basic Rules.*  
 
 > [!note] The Nature of Swarms
@@ -19,7 +20,7 @@ aliases: ["Swarm of Quippers"]
 ^the-nature-of-swarms
 
 ```statblock
-"name": "Swarm of Quippers"
+"name": "Swarm Of Quippers"
 "size": "Medium"
 "type": "beast"
 "alignment": "Unaligned"
@@ -74,7 +75,7 @@ aliases: ["Swarm of Quippers"]
 - "KftGV"
 - "PSA"
 - "GHLoE"
-"image": "5. Mechanics/Bestiary/Beast/token/swarm-of-quippers.png"
+"image": "5. Mechanics/Bestiary/Beast/token/swarm-of-quippers.webp"
 ```
 ^statblock
 

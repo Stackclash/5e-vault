@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/wealth
-aliases: 
-- "Turquoise"
+  - compendium/src/5e/dmg
+  - item/wealth
+aliases:
+  - Turquoise
 cost: 1000
 ---
 # Turquoise
-*Treasure*  
+*Gemstone*  
 
 - **Cost**: 10 gp
 

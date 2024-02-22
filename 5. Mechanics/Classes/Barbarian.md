@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/barbarian
-- compendium/src/5e/phb
-aliases: ["Barbarian"]
+  - class/barbarian
+  - compendium/src/5e/phb
+aliases:
+  - Barbarian
 ---
 # Barbarian
 *Source: Player's Handbook p. 46. Available in the SRD.*  
@@ -154,6 +155,8 @@ Consider creating one or more personal totems for your character—objects that 
 
 **Personal Totems**
 
+`dice: [[Barbarian.md#^personal-totems]]`
+
 | dice: d6 | Totem |
 |----------|-------|
 | 1 | A tuft of fur from a solitary wolf that you befriended during a hunt |
@@ -172,6 +175,8 @@ The members of many barbarian clans decorate their bodies with tattoos, each of 
 Each tattoo a barbarian displays contributes to that individual's identity. If your character wears tattoos, what do they look like, and what do they represent?
 
 **Tattoos**
+
+`dice: [[Barbarian.md#^tattoos]]`
 
 | dice: d6 | Tattoo |
 |----------|--------|
@@ -195,6 +200,8 @@ Both of these attitudes can give rise to superstitions. These beliefs are often 
 If your barbarian character has any superstitions, were they ingrained in you by your family, or are they the result of personal experience?
 
 **Superstition**
+
+`dice: [[Barbarian.md#^superstition]]`
 
 | dice: d6 | Superstition |
 |----------|--------------|
@@ -243,7 +250,7 @@ At 3rd level, you choose a path that shapes the nature of your rage from the lis
 ### Primal Knowledge (Level 3)
 _Source: Tasha's Cauldron of Everything p. 24_
 
-*3rd-level barbarian [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+*3rd-level barbarian [[/5. Mechanics/Rules/Variant Rules/Optional Class Features.md\|optional class features]]*
 
 When you reach 3rd level and again at 10th level, you gain proficiency in one skill of your choice from the list of skills available to barbarians at 1st level.
 
@@ -274,7 +281,7 @@ Additionally, if you are surprised at the beginning of combat and aren't [[/5. M
 ### Instinctive Pounce (Level 7)
 _Source: Tasha's Cauldron of Everything p. 24_
 
-*7th-level barbarian [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+*7th-level barbarian [[/5. Mechanics/Rules/Variant Rules/Optional Class Features.md\|optional class features]]*
 
 As part of the bonus action you take to enter your rage, you can move up to half your speed.
 

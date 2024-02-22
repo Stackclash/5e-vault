@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-8
-- monster/size/small
-- monster/type/fiend/demon
+  - compendium/src/5e/mm
+  - monster/cr/1-8
+  - monster/size/small
+  - monster/type/fiend/demon
 statblock: inline
-aliases: ["Manes"]
+aliases:
+  - Manes
 ---
-# [[5. Mechanics/Bestiary/Fiend/Manes.md|Manes]]
+# [[5. Mechanics\Bestiary\Fiend\Manes.md|Manes]]
 *Source: Monster Manual p. 60*  
 
 Souls of evil creatures that descend to the Lower Planes are transformed into manes-the lowest form of demonkind. These wretched fiends attack any non-demon they see, and they are called to the Material Plane by those seeking to sow death and chaos.
@@ -225,7 +226,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - "CRCotN"
 - "PSI"
 - "BMT"
-"image": "5. Mechanics/Bestiary/Fiend/token/manes.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/manes.webp"
 ```
 ^statblock
 

@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/9
-- monster/environment/mountain
-- monster/environment/urban
-- monster/size/large
-- monster/type/dragon
+  - compendium/src/5e/mm
+  - monster/cr/9
+  - monster/environment/mountain
+  - monster/environment/urban
+  - monster/size/large
+  - monster/type/dragon
 statblock: inline
-aliases: ["Young Silver Dragon"]
+aliases:
+  - Young Silver Dragon
 ---
-# [[5. Mechanics/Bestiary/Dragon/Young Silver Dragon.md|Young Silver Dragon]]
+# [[5. Mechanics\Bestiary\Dragon\Young Silver Dragon.md|Young Silver Dragon]]
 *Source: Monster Manual p. 118. Available in the SRD.*  
 
 The friendliest and most social of the metallic dragons, silver dragons cheerfully assist good creatures in need.
@@ -139,7 +140,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "MM"
 - "SKT"
 - "DSotDQ"
-"image": "5. Mechanics/Bestiary/Dragon/token/young-silver-dragon.png"
+"image": "5. Mechanics/Bestiary/Dragon/token/young-silver-dragon.webp"
 ```
 ^statblock
 

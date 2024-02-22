@@ -2,18 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/phb
-- monster/cr/
-- monster/size/medium
-- monster/type/construct
+  - compendium/src/5e/phb
+  - monster/cr/
+  - monster/size/medium
+  - monster/type/construct
 statblock: inline
-aliases: ["Animated Object (Medium)"]
+aliases:
+  - Animated Object (Medium)
 ---
-# [[5. Mechanics/Bestiary/Construct/Animated Object Medium.md|Animated Object (Medium)]]
+# [[5. Mechanics\Bestiary\Construct\Animated Object Medium.md|Animated Object (Medium)]]
 *Source: Player's Handbook p. 213*  
 
 ```statblock
-"name": "Animated Object (Medium) (PHB)"
+"name": "Animated Object Medium"
 "size": "Medium"
 "type": "construct"
 "alignment": "Unaligned"
@@ -44,7 +45,7 @@ aliases: ["Animated Object (Medium)"]
   "name": "Slam"
 "source":
 - "PHB"
-"image": "5. Mechanics/Bestiary/Construct/token/animated-object-medium.png"
+"image": "5. Mechanics/Bestiary/Construct/token/animated-object-medium.webp"
 ```
 ^statblock
 

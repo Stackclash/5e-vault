@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/vehicle/ship
-aliases: 
-- "Longship"
+  - compendium/src/5e/dmg
+  - item/vehicle/ship
+aliases:
+  - Longship
 cost: 1000000
 ---
 # Longship

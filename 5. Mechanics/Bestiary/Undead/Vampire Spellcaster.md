@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/15
-- monster/environment/urban
-- monster/size/medium
-- monster/type/undead/shapechanger
+  - compendium/src/5e/mm
+  - monster/cr/15
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/undead/shapechanger
 statblock: inline
-aliases: ["Vampire Spellcaster"]
+aliases:
+  - Vampire Spellcaster
 ---
-# [[5. Mechanics/Bestiary/Undead/Vampire Spellcaster.md|Vampire Spellcaster]]
+# [[5. Mechanics\Bestiary\Undead\Vampire Spellcaster.md|Vampire Spellcaster]]
 *Source: Monster Manual p. 298*  
 
 Awakened to an endless night, vampires hunger for the life they have lost and sate that hunger by drinking the blood of the living. Vampires abhor sunlight, for its touch burns them. They never cast shadows or reflections, and any vampire wishing to move unnoticed among the living keeps to the darkness and far from reflective surfaces.
@@ -193,7 +194,7 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
 "source":
 - "MM"
 - "RoT"
-"image": "5. Mechanics/Bestiary/Undead/token/vampire-spellcaster.png"
+"image": "5. Mechanics/Bestiary/Undead/token/vampire-spellcaster.webp"
 ```
 ^statblock
 

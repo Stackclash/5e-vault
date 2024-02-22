@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/2
-- monster/environment/forest
-- monster/environment/swamp
-- monster/environment/urban
-- monster/size/tiny
-- monster/type/undead
+  - compendium/src/5e/mm
+  - monster/cr/2
+  - monster/environment/forest
+  - monster/environment/swamp
+  - monster/environment/urban
+  - monster/size/tiny
+  - monster/type/undead
 statblock: inline
-aliases: ["Will-o'-Wisp"]
+aliases:
+  - Will-o'-Wisp
 ---
-# [[5. Mechanics/Bestiary/Undead/Will O Wisp.md|Will-o'-Wisp]]
+# [[5. Mechanics\Bestiary\Undead\Will O Wisp.md|Will-o'-Wisp]]
 *Source: Monster Manual p. 301, Curse of Strahd. Available in the SRD.*  
 
 Will-o'-wisps are malevolent, wispy balls of light that haunt lonely places and battlefields, bound by dark fate or dark magic to feed on fear and despair.
@@ -36,7 +37,7 @@ Will-o'-wisps rarely speak, but when they do, their voices sound like faint or d
 A will-o'-wisp doesn't require air, drink, or sleep.
 
 ```statblock
-"name": "Will-o'-Wisp"
+"name": "Will O Wisp"
 "size": "Tiny"
 "type": "undead"
 "alignment": "Chaotic Evil"
@@ -107,7 +108,7 @@ A will-o'-wisp doesn't require air, drink, or sleep.
 - "SatO"
 - "BMT"
 - "DoDk"
-"image": "5. Mechanics/Bestiary/Undead/token/will-o-wisp.png"
+"image": "5. Mechanics/Bestiary/Undead/token/will-o-wisp.webp"
 ```
 ^statblock
 

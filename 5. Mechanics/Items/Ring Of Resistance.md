@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/attunement/required
-- item/rarity/rare
-- item/tier/major
-- item/wondrous/ring
-aliases: 
-- "Ring of Resistance"
+  - compendium/src/5e/dmg
+  - item/attunement/required
+  - item/rarity/rare
+  - item/tier/major
+  - item/wondrous/ring
+aliases:
+  - Ring of Resistance
 ---
 # Ring of Resistance
 *Ring, major, rare (requires attunement)*  
@@ -16,6 +16,8 @@ aliases:
 
 
 You have resistance to one damage type while wearing this ring. The gem in the ring indicates the type, which the DM chooses or determines randomly.
+
+`dice: [[Ring Of Resistance.md#^damage-type-gem]]`
 
 | dice: d10 | Damage Type | Gem |
 |-----------|-------------|-----|

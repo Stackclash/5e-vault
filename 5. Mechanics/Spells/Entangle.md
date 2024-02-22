@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/druid
-- spell/level/1
-- spell/school/conjuration
-aliases: ["Entangle"]
+  - compendium/src/5e/phb
+  - spell/class/druid
+  - spell/level/1
+  - spell/school/conjuration
+aliases:
+  - Entangle
 ---
 # Entangle
+%%-- Embedded content starts on the next line. --%%
 *1st-level, Conjuration*  
 
 - **Casting time:** 1 action

@@ -2,19 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/3
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/humanoid/goblinoid
+  - compendium/src/5e/mm
+  - monster/cr/3
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/humanoid/goblinoid
 statblock: inline
-aliases: ["Hobgoblin Captain"]
+aliases:
+  - Hobgoblin Captain
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Hobgoblin Captain.md|Hobgoblin Captain]]
+# [[5. Mechanics\Bestiary\Humanoid\Hobgoblin Captain.md|Hobgoblin Captain]]
 *Source: Monster Manual p. 186*  
 
 War horns sound, stones fly from catapults, and the thunder of a thousand booted feet echoes across the land as hobgoblins march to battle. Across the borderlands of civilization, settlements and settlers must contend with these aggressive humanoids, whose thirst for conquest is never satisfied.
@@ -123,7 +124,7 @@ Hobgoblins worship Maglubiyet the Mighty One, the greater god of goblinoids. As 
 - "WDMM"
 - "BGDIA"
 - "DSotDQ"
-"image": "5. Mechanics/Bestiary/Humanoid/token/hobgoblin-captain.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/hobgoblin-captain.webp"
 ```
 ^statblock
 

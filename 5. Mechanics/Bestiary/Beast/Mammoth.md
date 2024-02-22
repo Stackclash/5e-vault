@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/6
-- monster/environment/arctic
-- monster/size/huge
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/6
+  - monster/environment/arctic
+  - monster/size/huge
+  - monster/type/beast
 statblock: inline
-aliases: ["Mammoth"]
+aliases:
+  - Mammoth
 ---
-# [[5. Mechanics/Bestiary/Beast/Mammoth.md|Mammoth]]
+# [[5. Mechanics\Bestiary\Beast\Mammoth.md|Mammoth]]
 *Source: Monster Manual p. 332. Available in the SRD and the Basic Rules.*  
 
 A mammoth is an elephantine creature with thick fur and long tusks. Stockier and fiercer than normal elephants, mammoths inhabit a wide range of climes, from subarctic to subtropical.
@@ -53,7 +54,7 @@ A mammoth is an elephantine creature with thick fur and long tusks. Stockier and
 - "EGW"
 - "IDRotF"
 - "CRCotN"
-"image": "5. Mechanics/Bestiary/Beast/token/mammoth.png"
+"image": "5. Mechanics/Bestiary/Beast/token/mammoth.webp"
 ```
 ^statblock
 

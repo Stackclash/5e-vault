@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/phb
-- optional-feature/ei
-aliases: ["Gaze of Two Minds"]
+  - compendium/src/5e/phb
+  - optional-feature/ei
+aliases:
+  - Gaze of Two Minds
 ---
 # Gaze of Two Minds
 *Source: Player's Handbook p. 111. Available in the SRD.*  

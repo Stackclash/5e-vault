@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/4
-- monster/environment/underdark
-- monster/size/tiny
-- monster/type/undead
+  - compendium/src/5e/mm
+  - monster/cr/4
+  - monster/environment/underdark
+  - monster/size/tiny
+  - monster/type/undead
 statblock: inline
-aliases: ["Flameskull"]
+aliases:
+  - Flameskull
 ---
-# [[5. Mechanics/Bestiary/Undead/Flameskull.md|Flameskull]]
+# [[5. Mechanics\Bestiary\Undead\Flameskull.md|Flameskull]]
 *Source: Monster Manual p. 134, Curse of Strahd, Tasha's Cauldron of Everything. Available in the Basic Rules.*  
 
 Blazing green flames and mad, echoing laughter follow a disembodied skull as it patrols its demesne. When the undead flameskull discovers trespassers, it blasts the intruders with fiery rays from its eyes and dreadful spells called up from the dark recesses of its memory.
@@ -112,7 +113,7 @@ A flameskull doesn't require air, food, drink, or sleep
 - "HftT"
 - "PaBTSO"
 - "SatO"
-"image": "5. Mechanics/Bestiary/Undead/token/flameskull.png"
+"image": "5. Mechanics/Bestiary/Undead/token/flameskull.webp"
 ```
 ^statblock
 

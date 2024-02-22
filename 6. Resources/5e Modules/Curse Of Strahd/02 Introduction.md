@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/cos
-aliases: ["Introduction"]
+  - compendium/src/5e/cos
+aliases:
+  - Introduction
 ---
 # Introduction
 *Source: Curse of Strahd, p. 5* 
@@ -42,7 +43,7 @@ Spells and nonmagical equipment mentioned in the adventure are described in the 
 
 ### Story Overview
 
-Adventurers from a foreign land find themselves in Barovia, a mysterious realm surrounded by deadly fog and ruled by [[4. World Almanac/NPCs/Strahd Von Zarovich.md\|Strahd von Zarovich]], a vampire and wizard. Using a [[5. Mechanics/Decks/Tarokka Deck (COS).md\|deck of tarokka cards]] to predict their future, a fortune-teller named [[4. World Almanac/NPCs/Madam Eva.md\|Madam Eva]] sets them on a dark course that takes them to many corners of Barovia, culminating with a vampire hunt in Castle Ravenloft.
+Adventurers from a foreign land find themselves in Barovia, a mysterious realm surrounded by deadly fog and ruled by [[4. World Almanac/NPCs/Strahd Von Zarovich.md\|Strahd von Zarovich]], a vampire and wizard. Using a [[5. Mechanics/Decks/Tarokka Deck.md\|deck of tarokka cards]] to predict their future, a fortune-teller named [[4. World Almanac/NPCs/Madam Eva.md\|Madam Eva]] sets them on a dark course that takes them to many corners of Barovia, culminating with a vampire hunt in Castle Ravenloft.
 
 [[4. World Almanac/NPCs/Madam Eva.md\|Madam Eva]]'s people are called the Vistani. They travel in covered wagons from world to world, luring strangers into Strahd's domain.
 
@@ -70,7 +71,7 @@ Chapter 1 also outlines Strahd's goals, and it suggests adventure hooks to draw 
 
 Chapter 2, "The Lands of Barovia," provides an overview of the realm and includes special rules for it and its people, including the mysterious Vistani. Chapters 3–15 detail areas that correspond to places on the map of Barovia in chapter 2.
 
-The epilogue offers ways for you to end the adventure. Appendix C details the special items—magical or otherwise—introduced in the adventure, and appendix D provides stat blocks for Strahd and various NPCs and monsters that can be met in Barovia. Appendix E shows the [[5. Mechanics/Decks/Tarokka Deck (COS).md\|tarokka cards]] that the Vistani use for their fortune telling, and appendix F contains handouts for you to show the players.
+The epilogue offers ways for you to end the adventure. Appendix C details the special items—magical or otherwise—introduced in the adventure, and appendix D provides stat blocks for Strahd and various NPCs and monsters that can be met in Barovia. Appendix E shows the [[5. Mechanics/Decks/Tarokka Deck.md\|tarokka cards]] that the Vistani use for their fortune telling, and appendix F contains handouts for you to show the players.
 
 ### Character Levels
 
@@ -78,7 +79,7 @@ The adventure is meant for characters of levels 1–10 and includes threats for 
 
 You can award experience points for the defeat of foes, use milestone awards, or a mixture of both. Given the fact that much of the adventure involves social interaction and exploration, rather than combat, your work will probably be easier if you use milestone awards. Appropriate milestone awards include the following:
 
-- **Finding Artifacts.** The characters gain a level when they obtain the Tome of Strahd, the [[5. Mechanics/Items/Sunsword (COS).md\|Sunsword]], or the [[5. Mechanics/Items/Holy Symbol Of Ravenkind (COS).md\|Holy Symbol of Ravenkind]].  
+- **Finding Artifacts.** The characters gain a level when they obtain the Tome of Strahd, the [[5. Mechanics/Items/Sunsword.md\|Sunsword]], or the [[5. Mechanics/Items/Holy Symbol Of Ravenkind.md\|Holy Symbol of Ravenkind]].  
 - **Defeating Villains.** The characters gain a level when they defeat the featured antagonist(s) in a location, such as the hags in Old Bonegrinder (chapter 6).  
 - **Accomplishing Story Goals.** The characters gain a level when they accomplish something significant, such lighting the beacon of Argynvostholt (chapter 7), thwarting the druids' ritual atop Yester Hill (chapter 14), or forging an alliance with [[4. World Almanac/NPCs/Ezmerelda Davenir.md\|Ezmerelda d'Avenir]] (appendix D).  
 

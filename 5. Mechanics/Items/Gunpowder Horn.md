@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/weapon/explosive
-aliases: 
-- "Gunpowder Horn"
+  - compendium/src/5e/dmg
+  - item/weapon/explosive
+aliases:
+  - Gunpowder Horn
 cost: 3500
 ---
 # Gunpowder Horn

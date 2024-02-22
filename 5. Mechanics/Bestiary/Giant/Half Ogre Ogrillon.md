@@ -2,21 +2,22 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1
-- monster/environment/arctic
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/large
-- monster/type/giant
+  - compendium/src/5e/mm
+  - monster/cr/1
+  - monster/environment/arctic
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/large
+  - monster/type/giant
 statblock: inline
-aliases: ["Half-Ogre (Ogrillon)"]
+aliases:
+  - Half-Ogre (Ogrillon)
 ---
-# [[5. Mechanics/Bestiary/Giant/Half Ogre Ogrillon.md|Half-Ogre (Ogrillon)]]
+# [[5. Mechanics\Bestiary\Giant\Half Ogre Ogrillon.md|Half-Ogre (Ogrillon)]]
 *Source: Monster Manual p. 238, Eberron: Rising from the Last War*  
 
 Ogres are as lazy of mind as they are strong of body. They live by raiding, scavenging, and killing for food and pleasure. The average adult specimen stands between 9 and 10 feet tall and weighs close to a thousand pounds.
@@ -60,7 +61,7 @@ When an ogre mates with a human, hobgoblin, bugbear, or orc, the result is alway
 The half-ogre offspring of an ogre and an orc is also called an ogrillon. An adult half-ogre or ogrillon stands 8 feet tall and weighs 450 pounds on average.
 
 ```statblock
-"name": "Half-Ogre (Ogrillon)"
+"name": "Half Ogre Ogrillon"
 "size": "Large"
 "type": "giant"
 "alignment": "Any Chaotic alignment"
@@ -96,7 +97,7 @@ The half-ogre offspring of an ogre and an orc is also called an ogrillon. An adu
 - "ERLW"
 - "IDRotF"
 - "DSotDQ"
-"image": "5. Mechanics/Bestiary/Giant/token/half-ogre-ogrillon.png"
+"image": "5. Mechanics/Bestiary/Giant/token/half-ogre-ogrillon.webp"
 ```
 ^statblock
 

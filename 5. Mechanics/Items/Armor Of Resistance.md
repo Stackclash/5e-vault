@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/attunement/required
-- item/rarity/rare
-- item/tier/major
-- item/wondrous/wondrous-item
-aliases: 
-- "Armor of Resistance"
+  - compendium/src/5e/dmg
+  - item/attunement/required
+  - item/rarity/rare
+  - item/tier/major
+  - item/wondrous/wondrous-item
+aliases:
+  - Armor of Resistance
 ---
 # Armor of Resistance
 *Generic Variant, major, rare (requires attunement)*  
@@ -16,6 +16,8 @@ aliases:
 
 
 You have resistance to one type of damage while you wear this armor. The DM chooses the type or determines it randomly from the options below.
+
+`dice: [[Armor Of Resistance.md#^damage-type]]`
 
 | dice: d10 | Damage Type |
 |-----------|-------------|

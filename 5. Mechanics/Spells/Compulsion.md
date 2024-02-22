@@ -2,15 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/cleric/order-domain
-- spell/class/paladin/oath-of-glory
-- spell/level/4
-- spell/school/enchantment
-aliases: ["Compulsion"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/cleric/order-domain
+  - spell/class/paladin/oath-of-glory
+  - spell/level/4
+  - spell/school/enchantment
+aliases:
+  - Compulsion
 ---
 # Compulsion
+%%-- Embedded content starts on the next line. --%%
 *4th-level, Enchantment*  
 
 - **Casting time:** 1 action
@@ -22,6 +24,6 @@ Creatures of your choice that you can see within range and that can hear you mus
 
 A target isn't compelled to move into an obviously deadly hazard, such as a fire or pit, but it will provoke opportunity attacks to move in the designated direction.
 
-**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Cleric Order Domain (TCE).md\|Cleric (Order Domain)]], [[5. Mechanics/Classes/Paladin Oath Of Glory (TCE).md\|Paladin (Oath of Glory)]]
+**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Cleric Order Domain.md\|Cleric (Order Domain)]], [[5. Mechanics/Classes/Paladin Oath Of Glory.md\|Paladin (Oath of Glory)]]
 
 *Source: Player's Handbook p. 224. Available in the SRD.*

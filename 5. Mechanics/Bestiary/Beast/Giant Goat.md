@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-2
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/size/large
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/1-2
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/size/large
+  - monster/type/beast
 statblock: inline
-aliases: ["Giant Goat"]
+aliases:
+  - Giant Goat
 ---
-# [[5. Mechanics/Bestiary/Beast/Giant Goat.md|Giant Goat]]
+# [[5. Mechanics\Bestiary\Beast\Giant Goat.md|Giant Goat]]
 *Source: Monster Manual p. 326, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -54,7 +55,7 @@ aliases: ["Giant Goat"]
 - "IDRotF"
 - "CoS"
 - "WBtW"
-"image": "5. Mechanics/Bestiary/Beast/token/giant-goat.png"
+"image": "5. Mechanics/Bestiary/Beast/token/giant-goat.webp"
 ```
 ^statblock
 

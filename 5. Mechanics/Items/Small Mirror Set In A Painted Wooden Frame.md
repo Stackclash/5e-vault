@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/wealth
-aliases: 
-- "Small mirror set in a painted wooden frame"
+  - compendium/src/5e/dmg
+  - item/wealth
+aliases:
+  - Small mirror set in a painted wooden frame
 cost: 2500
 ---
 # Small mirror set in a painted wooden frame
-*Treasure*  
+*Art object*  
 
 - **Cost**: 25 gp
 

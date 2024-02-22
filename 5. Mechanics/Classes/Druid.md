@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/druid
-- compendium/src/5e/phb
-aliases: ["Druid"]
+  - class/druid
+  - compendium/src/5e/phb
+aliases:
+  - Druid
 ---
 # Druid
 *Source: Player's Handbook p. 64. Available in the SRD.*  
@@ -170,6 +171,8 @@ When you decide what your character's treasured item is, think about giving it a
 
 **Treasured Item**
 
+`dice: [[Druid.md#^treasured-item]]`
+
 | dice: d6 | Treasured Item |
 |----------|----------------|
 | 1 | A twig from the meeting tree that stands in the center of your village |
@@ -186,6 +189,8 @@ _Source: Xanathar's Guide to Everything_
 Many druids feel a strong link to a specific aspect of the natural world, such as a body of water, an animal, a type of tree, or some other sort of plant. You identify with your chosen aspect; by its behavior or its very nature, it sets an example that you seek to emulate.
 
 **Guiding Aspects**
+
+`dice: [[Druid.md#^guiding-aspects]]`
 
 | dice: d6 | Guiding Aspects |
 |----------|-----------------|
@@ -205,6 +210,8 @@ It's not unusual for would-be druids to seek out (or be sought out by) instructo
 If your character received training from someone else, who or what was that individual, and what was the nature of your relationship? Did your mentor imbue you with a particular outlook or otherwise influence your approach to achieving the goals of your chosen path?
 
 **Mentors**
+
+`dice: [[Druid.md#^mentors]]`
 
 | dice: d6 | Mentors |
 |----------|---------|
@@ -539,7 +546,7 @@ While you are transformed, the following rules apply:
 ### Wild Companion (Level 2)
 _Source: Tasha's Cauldron of Everything p. 35_
 
-*2nd-level druid [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+*2nd-level druid [[/5. Mechanics/Rules/Variant Rules/Optional Class Features.md\|optional class features]]*
 
 You gain the ability to summon a spirit that assumes an animal form: as an action, you can expend a use of your Wild Shape feature to cast the [[5. Mechanics/Spells/Find Familiar.md\|find familiar]] spell, without material components.
 
@@ -562,7 +569,7 @@ If your DM allows the use of feats, you may instead take a feat.
 ### Cantrip Versatility (Level 4)
 _Source: Tasha's Cauldron of Everything p. 35_
 
-*4th-level druid [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+*4th-level druid [[/5. Mechanics/Rules/Variant Rules/Optional Class Features.md\|optional class features]]*
 
 Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace one cantrip you learned from this class's Spellcasting feature with another cantrip from the druid spell list.
 

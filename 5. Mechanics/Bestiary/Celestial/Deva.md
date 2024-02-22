@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/10
-- monster/size/medium
-- monster/type/celestial
+  - compendium/src/5e/mm
+  - monster/cr/10
+  - monster/size/medium
+  - monster/type/celestial
 statblock: inline
-aliases: ["Deva"]
+aliases:
+  - Deva
 ---
-# [[5. Mechanics/Bestiary/Celestial/Deva.md|Deva]]
+# [[5. Mechanics\Bestiary\Celestial\Deva.md|Deva]]
 *Source: Monster Manual p. 16, Curse of Strahd. Available in the SRD.*  
 
 An angel is a celestial agent sent forth into the planes to further its god's agenda for weal or woe. Its sublime beauty and presence can drive awestruck onlookers to their knees. Yet angels are destroyers too, and their appearance portends doom as often as it signals hope.
@@ -108,7 +109,7 @@ Legend tells of angels that take mortal form for years, lending aid, hope, and c
 - "ToFW"
 - "BMT"
 - "DoDk"
-"image": "5. Mechanics/Bestiary/Celestial/token/deva.png"
+"image": "5. Mechanics/Bestiary/Celestial/token/deva.webp"
 ```
 ^statblock
 

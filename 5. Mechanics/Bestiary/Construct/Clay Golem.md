@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/9
-- monster/size/large
-- monster/type/construct
+  - compendium/src/5e/mm
+  - monster/cr/9
+  - monster/size/large
+  - monster/type/construct
 statblock: inline
-aliases: ["Clay Golem"]
+aliases:
+  - Clay Golem
 ---
-# [[5. Mechanics/Bestiary/Construct/Clay Golem.md|Clay Golem]]
+# [[5. Mechanics\Bestiary\Construct\Clay Golem.md|Clay Golem]]
 *Source: Monster Manual p. 168, Curse of Strahd. Available in the SRD.*  
 
 Sculpted from clay, this bulky golem stands head and shoulders taller than most human-sized creatures. It is human shaped, but its proportions are off.
@@ -116,7 +117,7 @@ A golem doesn't require air, food, drink, or sleep.
 - "KftGV"
 - "PaBTSO"
 - "BMT"
-"image": "5. Mechanics/Bestiary/Construct/token/clay-golem.png"
+"image": "5. Mechanics/Bestiary/Construct/token/clay-golem.webp"
 ```
 ^statblock
 

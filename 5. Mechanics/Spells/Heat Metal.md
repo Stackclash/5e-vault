@@ -2,16 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer
-- spell/class/bard
-- spell/class/cleric/forge-domain
-- spell/class/druid
-- spell/level/2
-- spell/school/transmutation
-aliases: ["Heat Metal"]
+  - compendium/src/5e/phb
+  - spell/class/artificer
+  - spell/class/bard
+  - spell/class/cleric/forge-domain
+  - spell/class/druid
+  - spell/level/2
+  - spell/school/transmutation
+aliases:
+  - Heat Metal
 ---
 # Heat Metal
+%%-- Embedded content starts on the next line. --%%
 *2nd-level, Transmutation*  
 
 - **Casting time:** 1 action
@@ -25,6 +27,6 @@ If a creature is holding or wearing the object and takes the damage from it, the
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
 
-**Classes**: [[5. Mechanics/Classes/Artificer (TCE).md\|Artificer]], [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Cleric Forge Domain (XGE).md\|Cleric (Forge Domain)]], [[5. Mechanics/Classes/Druid.md\|Druid]]
+**Classes**: [[5. Mechanics/Classes/Artificer.md\|Artificer]], [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Cleric Forge Domain.md\|Cleric (Forge Domain)]], [[5. Mechanics/Classes/Druid.md\|Druid]]
 
 *Source: Player's Handbook p. 250. Available in the SRD.*

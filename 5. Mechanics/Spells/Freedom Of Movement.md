@@ -2,23 +2,25 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer
-- spell/class/bard
-- spell/class/cleric
-- spell/class/cleric/war-domain
-- spell/class/druid
-- spell/class/druid/circle-of-the-land
-- spell/class/paladin/oath-of-devotion
-- spell/class/paladin/oath-of-glory
-- spell/class/ranger
-- spell/class/sorcerer/clockwork-soul
-- spell/class/sorcerer/divine-soul
-- spell/level/4
-- spell/school/abjuration
-aliases: ["Freedom of Movement"]
+  - compendium/src/5e/phb
+  - spell/class/artificer
+  - spell/class/bard
+  - spell/class/cleric
+  - spell/class/cleric/war-domain
+  - spell/class/druid
+  - spell/class/druid/circle-of-the-land
+  - spell/class/paladin/oath-of-devotion
+  - spell/class/paladin/oath-of-glory
+  - spell/class/ranger
+  - spell/class/sorcerer/clockwork-soul
+  - spell/class/sorcerer/divine-soul
+  - spell/level/4
+  - spell/school/abjuration
+aliases:
+  - Freedom of Movement
 ---
 # Freedom of Movement
+%%-- Embedded content starts on the next line. --%%
 *4th-level, Abjuration*  
 
 - **Casting time:** 1 action
@@ -30,6 +32,6 @@ You touch a willing creature. For the duration, the target's movement is unaffec
 
 The target can also spend 5 feet of movement to automatically escape from nonmagical restraints, such as manacles or a creature that has it [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]]. Finally, being underwater imposes no penalties on the target's movement or attacks.
 
-**Classes**: [[5. Mechanics/Classes/Artificer (TCE).md\|Artificer]], [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Cleric War Domain.md\|Cleric (War Domain)]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Paladin Oath Of Devotion.md\|Paladin (Oath of Devotion)]], [[5. Mechanics/Classes/Paladin Oath Of Glory (TCE).md\|Paladin (Oath of Glory)]], [[5. Mechanics/Classes/Ranger.md\|Ranger]], [[5. Mechanics/Classes/Sorcerer Clockwork Soul (TCE).md\|Sorcerer (Clockwork Soul)]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]]
+**Classes**: [[5. Mechanics/Classes/Artificer.md\|Artificer]], [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Cleric War Domain.md\|Cleric (War Domain)]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Paladin Oath Of Devotion.md\|Paladin (Oath of Devotion)]], [[5. Mechanics/Classes/Paladin Oath Of Glory.md\|Paladin (Oath of Glory)]], [[5. Mechanics/Classes/Ranger.md\|Ranger]], [[5. Mechanics/Classes/Sorcerer Clockwork Soul.md\|Sorcerer (Clockwork Soul)]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]]
 
 *Source: Player's Handbook p. 244. Available in the SRD and the Basic Rules.*

@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/druid
-- spell/class/ranger
-- spell/level/1
-- spell/school/transmutation
-aliases: ["Goodberry"]
+  - compendium/src/5e/phb
+  - spell/class/druid
+  - spell/class/ranger
+  - spell/level/1
+  - spell/school/transmutation
+aliases:
+  - Goodberry
 ---
 # Goodberry
+%%-- Embedded content starts on the next line. --%%
 *1st-level, Transmutation*  
 
 - **Casting time:** 1 action

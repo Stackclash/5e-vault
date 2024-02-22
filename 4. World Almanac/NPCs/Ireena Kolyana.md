@@ -1,34 +1,36 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: null
 condition: healthy
 relationships:
   - Ismark Kolyanovich|brother
   - Izek Strazni|brother
-tags: 
+tags: null
 aliases: []
-pronounced: 
-race: 
-gender: 
-age: 
+pronounced: null
+race: null
+gender: null
+age: null
 alignment: Lawful Good
-occupation: [] 
+occupation: []
 groups: []
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
-> ![[4. World Almanac/NPCs/img/ireena-kolyana.webp|cover hm-sm]] 
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```
 > ###### Bio
 >  |
 >  ---|---|
@@ -106,7 +108,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 
 ## Stats
 ```statblock
-"name": "Ireena Kolyana (CoS)"
+"name": "Ireena Kolyana"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "human"
@@ -139,7 +141,7 @@ await dv.view("npcRelationships", { current: dv.current() })
   "name": "Parry"
 "source":
 - "CoS"
-"image": "4. World Almanac/NPCs/token/ireena-kolyana.png"
+"image": "4. World Almanac/NPCs/token/ireena-kolyana-cos.webp"
 ```
 ^statblock
 

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/phb
-- race/half-orc
-aliases: ["Half-Orc"]
+  - compendium/src/5e/phb
+  - race/half-orc
+aliases:
+  - Half-Orc
 ---
 # Half-Orc
 *Source: Player's Handbook p. 40. Available in the SRD.*  
@@ -53,7 +54,7 @@ Whether united under the leadership of a mighty warlock or having fought to a st
 
 Half-orcs' grayish pigmentation, sloping foreheads, jutting jaws, prominent teeth, and towering builds make their orcish heritage plain for all to see. Half-orcs stand between 6 and 7 feet tall and usually weigh between 180 and 250 pounds.
 
-Orcs regard battle scars as tokens or pride and ornamental scars as things of beauty. Other scars, though, mark an Orc, or half-orc as a former slave or a disgraced exile. Any half-orc who has lived among or near orcs has scars, whether they are marks of humiliation or of pride, recounting their past exploits and injuries. Such a half-orc living among humans might display these scars proudly or hide them in shame.
+Orcs regard battle scars as tokens of pride and ornamental scars as things of beauty. Other scars, though, mark an Orc, or half-orc as a former slave or a disgraced exile. Any half-orc who has lived among or near orcs has scars, whether they are marks of humiliation or of pride, recounting their past exploits and injuries. Such a half-orc living among humans might display these scars proudly or hide them in shame.
 
 ### The Mark of Gruumsh
 

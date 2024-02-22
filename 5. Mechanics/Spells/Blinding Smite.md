@@ -2,13 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/paladin
-- spell/level/3
-- spell/school/evocation
-aliases: ["Blinding Smite"]
+  - compendium/src/5e/phb
+  - spell/class/paladin
+  - spell/level/3
+  - spell/school/evocation
+aliases:
+  - Blinding Smite
 ---
 # Blinding Smite
+%%-- Embedded content starts on the next line. --%%
 *3rd-level, Evocation*  
 
 - **Casting time:** 1 bonus

@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/2
-- monster/environment/forest
-- monster/size/medium
-- monster/type/monstrosity
+  - compendium/src/5e/mm
+  - monster/cr/2
+  - monster/environment/forest
+  - monster/size/medium
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Ettercap"]
+aliases:
+  - Ettercap
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Ettercap.md|Ettercap]]
+# [[5. Mechanics\Bestiary\Monstrosity\Ettercap.md|Ettercap]]
 *Source: Monster Manual p. 131. Available in the SRD.*  
 
 Ettercaps are humanoid spiders that tend, feed, and watch over spiders the way a shepherd oversees a flock of sheep. They lair deep in remote forests.
@@ -95,7 +96,7 @@ Ettercaps are natural enemies of fey creatures. The foul creatures set web snare
 - "WBtW"
 - "SatO"
 - "BMT"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/ettercap.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/ettercap.webp"
 ```
 ^statblock
 

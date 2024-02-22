@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric/war-domain
-- spell/class/paladin
-- spell/level/1
-- spell/school/evocation
-aliases: ["Divine Favor"]
+  - compendium/src/5e/phb
+  - spell/class/cleric/war-domain
+  - spell/class/paladin
+  - spell/level/1
+  - spell/school/evocation
+aliases:
+  - Divine Favor
 ---
 # Divine Favor
+%%-- Embedded content starts on the next line. --%%
 *1st-level, Evocation*  
 
 - **Casting time:** 1 bonus

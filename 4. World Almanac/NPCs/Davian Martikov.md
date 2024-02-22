@@ -1,36 +1,38 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: null
 condition: healthy
 relationships:
   - Urwin Martikov|son
   - Stefania Martikov|daughter
   - Adrian Martikov|son
   - Elvir Martikov|son
-tags: 
-aliases: 
-pronounced: 
-race: 
-gender: 
-age: 
+tags: null
+aliases: null
+pronounced: null
+race: null
+gender: null
+age: null
 alignment: Lawful Good
-occupation: [] 
-groups: 
-religions: 
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+occupation: []
+groups: null
+religions: null
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
-> ![[4. World Almanac/NPCs/img/davian-martikov.webp|cover hm-sm]] 
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```
 > ###### Bio
 >  |
 >  ---|---|
@@ -108,7 +110,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 
 ## Stats
 ```statblock
-"name": "Davian Martikov (CoS)"
+"name": "Davian Martikov"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "human, shapechanger"
@@ -138,7 +140,8 @@ await dv.view("npcRelationships", { current: dv.current() })
   "name": "Shapechanger"
 - "desc": "Davian can mimic simple sounds it has heard, such as a person whispering,\
     \ a baby crying, or an animal chittering. A creature that hears the sounds can\
-    \ tell they are imitations with a successful DC 10 Wisdom (Insight) check."
+    \ tell they are imitations with a successful DC 10 Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight|Insight]])\
+    \ check."
   "name": "Mimicry"
 - "desc": "Davian regains 10 hit points at the start of its turn. If Davian takes\
     \ damage from a silvered weapon or a spell, this trait doesn't function at the\
@@ -161,7 +164,7 @@ await dv.view("npcRelationships", { current: dv.current() })
   "name": "Hand Crossbow (Human or Hybrid Form Only)"
 "source":
 - "CoS"
-"image": "4. World Almanac/NPCs/token/davian-martikov.png"
+"image": "4. World Almanac/NPCs/token/davian-martikov-cos.webp"
 ```
 ^statblock
 

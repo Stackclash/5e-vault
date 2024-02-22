@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/6
-- monster/environment/urban
-- monster/size/medium
-- monster/type/elemental
+  - compendium/src/5e/mm
+  - monster/cr/6
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/elemental
 statblock: inline
-aliases: ["Invisible Stalker"]
+aliases:
+  - Invisible Stalker
 ---
-# [[5. Mechanics/Bestiary/Elemental/Invisible Stalker.md|Invisible Stalker]]
+# [[5. Mechanics\Bestiary\Elemental\Invisible Stalker.md|Invisible Stalker]]
 *Source: Monster Manual p. 192, Curse of Strahd. Available in the SRD.*  
 
 An invisible stalker is an air elemental that has been summoned from its native plane and transformed by powerful magic. Its sole purpose is to hunt down creatures and retrieve objects for its summoner. When it is defeated or the magic that binds it expires, an invisible stalker vanishes in a gust of wind.
@@ -90,7 +91,7 @@ An invisible stalker requires no air, food, drink, or sleep.
 - "KftGV"
 - "PaBTSO"
 - "DoDk"
-"image": "5. Mechanics/Bestiary/Elemental/token/invisible-stalker.png"
+"image": "5. Mechanics/Bestiary/Elemental/token/invisible-stalker.webp"
 ```
 ^statblock
 

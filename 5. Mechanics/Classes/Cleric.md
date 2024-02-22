@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/cleric
-- compendium/src/5e/phb
-aliases: ["Cleric"]
+  - class/cleric
+  - compendium/src/5e/phb
+aliases:
+  - Cleric
 ---
 # Cleric
 *Source: Player's Handbook p. 56. Available in the SRD and the Basic Rules.*  
@@ -85,7 +86,7 @@ You begin play with the following equipment, in addition to any equipment provid
 
 - (a) a [[5. Mechanics/Items/Mace.md\|mace]] or (b) a [[5. Mechanics/Items/Warhammer.md\|warhammer]] (if proficient)  
 - (a) [[5. Mechanics/Items/Scale Mail.md\|scale mail]], (b) [[5. Mechanics/Items/Leather Armor.md\|leather armor]], or (c) [[5. Mechanics/Items/Chain Mail.md\|chain mail]] (if proficient)  
-- (a) a [[5. Mechanics/Items/Light Crossbow.md\|light crossbow]] and [[5. Mechanics/Items/Crossbow Bolts-20.md\|20 bolts]] or (b) any simple weapon  
+- (a) a [[5. Mechanics/Items/Light Crossbow.md\|light crossbow]] and [[5. Mechanics/Items/Crossbow Bolts 20.md\|20 bolts]] or (b) any simple weapon  
 - (a) a [[5. Mechanics/Items/Priests Pack.md\|priest's pack]] or (b) an [[5. Mechanics/Items/Explorers Pack.md\|explorer's pack]]  
 - A [[5. Mechanics/Items/Shield.md\|shield]] and a [[5. Mechanics/Items/Holy Symbol.md\|holy symbol]]  
 
@@ -158,6 +159,8 @@ Some temples are cut off from the world so that their occupants can focus on dev
 
 **Temple**
 
+`dice: [[Cleric.md#^temple]]`
+
 | dice: d6 | Temple |
 |----------|--------|
 | 1 | Your temple is said to be the oldest surviving structure built to honor your god. |
@@ -174,6 +177,8 @@ _Source: Xanathar's Guide to Everything_
 Many clerics have items among their personal gear that symbolize their faith, remind them of their vows, or otherwise help to keep them on their chosen paths. Even though such an item is not imbued with divine power, it is vitally important to its owner because of what it represents.
 
 **Keepsake**
+
+`dice: [[Cleric.md#^keepsake]]`
 
 | dice: d6 | Keepsake |
 |----------|----------|
@@ -193,6 +198,8 @@ No mortal soul is entirely free of second thoughts or doubt. Even a cleric must 
 If you haven't considered this aspect of your character yet, see the table entries for some possibilities, or use them for inspiration. Your deep, dark secret might involve something you did (or are doing), or it could be rooted in the way you feel about the world and your role in it.
 
 **Secret**
+
+`dice: [[Cleric.md#^secret]]`
 
 | dice: d6 | Secret |
 |----------|--------|
@@ -280,7 +287,7 @@ A turned creature must spend its turns trying to move as far away from you as it
 ### Channel Divinity: Harness Divine Power (Level 2)
 _Source: Tasha's Cauldron of Everything p. 30_
 
-*2nd-level cleric [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+*2nd-level cleric [[/5. Mechanics/Rules/Variant Rules/Optional Class Features.md\|optional class features]]*
 
 You can expend a use of your Channel Divinity to fuel your spells. As a bonus action, you touch your holy symbol, utter a prayer, and regain one expended spell slot, the level of which can be no higher than half your proficiency bonus (rounded up). The number of times you can use this feature is based on the level you've reached in this class: 2nd level, once; 6th level, twice; and 18th level, thrice. You regain all expended uses when you finish a long rest.
 
@@ -297,7 +304,7 @@ If your DM allows the use of feats, you may instead take a feat.
 ### Cantrip Versatility (Level 4)
 _Source: Tasha's Cauldron of Everything p. 30_
 
-*4th-level cleric [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+*4th-level cleric [[/5. Mechanics/Rules/Variant Rules/Optional Class Features.md\|optional class features]]*
 
 Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace one cantrip you learned from this class's Spellcasting feature with another cantrip from the cleric spell list.
 

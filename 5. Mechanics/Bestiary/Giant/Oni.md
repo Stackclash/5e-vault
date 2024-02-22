@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/7
-- monster/environment/forest
-- monster/environment/urban
-- monster/size/large
-- monster/type/giant
+  - compendium/src/5e/mm
+  - monster/cr/7
+  - monster/environment/forest
+  - monster/environment/urban
+  - monster/size/large
+  - monster/type/giant
 statblock: inline
-aliases: ["Oni"]
+aliases:
+  - Oni
 ---
-# [[5. Mechanics/Bestiary/Giant/Oni.md|Oni]]
+# [[5. Mechanics\Bestiary\Giant\Oni.md|Oni]]
 *Source: Monster Manual p. 239, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD.*  
 
 In nursery rhymes, oni are fearsome bogeymen that haunt the nightmares of children and adults alike, yet they are very real and always hungry. They find human babies especially delicious. Oni look like demonic ogres with blue or green skin, dark hair, and a pair of short ivory horns protruding from their foreheads. Their eyes are dark with strikingly white pupils, and their teeth and claws are jet black.
@@ -115,7 +116,7 @@ Oni are sometimes called ogre mages because of their innate magical ability. Tho
 - "KftGV"
 - "PSZ"
 - "ToFW"
-"image": "5. Mechanics/Bestiary/Giant/token/oni.png"
+"image": "5. Mechanics/Bestiary/Giant/token/oni.webp"
 ```
 ^statblock
 

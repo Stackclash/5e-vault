@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/7
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/size/huge
-- monster/type/giant
+  - compendium/src/5e/mm
+  - monster/cr/7
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/size/huge
+  - monster/type/giant
 statblock: inline
-aliases: ["Stone Giant"]
+aliases:
+  - Stone Giant
 ---
-# [[5. Mechanics/Bestiary/Giant/Stone Giant.md|Stone Giant]]
+# [[5. Mechanics\Bestiary\Giant\Stone Giant.md|Stone Giant]]
 *Source: Monster Manual p. 156. Available in the SRD.*  
 
 Stone giants are reclusive, quiet, and peaceful as long as they are left alone. Their granite-gray skin, gaunt features, and black, sunken eyes endow stone giants with a stern countenance. They are private creatures, hiding their lives and art away from the world.
@@ -104,8 +105,8 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 "languages": "Giant"
 "cr": "7"
 "traits":
-- "desc": "The giant has advantage on Dexterity (Stealth) checks made to hide in rocky\
-    \ terrain."
+- "desc": "The giant has advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]])\
+    \ checks made to hide in rocky terrain."
   "name": "Stone Camouflage"
 "actions":
 - "desc": "The giant makes two greatclub attacks."
@@ -131,7 +132,7 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 - "WDMM"
 - "MOT"
 - "DoDk"
-"image": "5. Mechanics/Bestiary/Giant/token/stone-giant.png"
+"image": "5. Mechanics/Bestiary/Giant/token/stone-giant.webp"
 ```
 ^statblock
 

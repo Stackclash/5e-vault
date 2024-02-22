@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Hamund's Harvesting Handbook: Volume I"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - 'Hamund''s Harvesting Handbook: Volume I'
 ---
 # Hamund's Harvesting Handbook: Volume I
 *Source: Hamund's Harvesting Handbook: Volume I, p. 1* 
 
-![Front Cover](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Cover-Full.webp#center)
+![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/cover-full.webp#center\|Front Cover]]
 
 > [!note]
 > DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, Ravenloft, Eberron, the dragon ampersand, and all other Wizards of the Coast product names, and their respective logos are trademarks of Wizards of the Coast in the USA and other countries.

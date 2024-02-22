@@ -2,18 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/0
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/size/medium
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/0
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/size/medium
+  - monster/type/beast
 statblock: inline
-aliases: ["Hyena"]
+aliases:
+  - Hyena
 ---
-# [[5. Mechanics/Bestiary/Beast/Hyena.md|Hyena]]
+# [[5. Mechanics\Bestiary\Beast\Hyena.md|Hyena]]
 *Source: Monster Manual p. 331. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -51,7 +52,7 @@ aliases: ["Hyena"]
 - "PotA"
 - "CM"
 - "BMT"
-"image": "5. Mechanics/Bestiary/Beast/token/hyena.png"
+"image": "5. Mechanics/Bestiary/Beast/token/hyena.webp"
 ```
 ^statblock
 

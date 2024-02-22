@@ -1,31 +1,34 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: null
 condition: healthy
 relationships: []
-tags: 
+tags: null
 aliases: []
-pronounced: 
-race: 
-gender: 
-age: 
+pronounced: null
+race: null
+gender: null
+age: null
 alignment: Neutral Evil
-occupation: [] 
+occupation: []
 groups: []
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```
 > ###### Bio
 >  |
 >  ---|---|
@@ -103,7 +106,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 
 ## Stats
 ```statblock
-"name": "Morgantha (CoS)"
+"name": "Morgantha"
 "size": "Medium"
 "type": "fiend"
 "alignment": "Neutral Evil"
@@ -125,15 +128,17 @@ await dv.view("npcRelationships", { current: dv.current() })
   "Perception": !!int "5"
 "damage_resistances": "cold; fire; bludgeoning, piercing, slashing from nonmagical\
   \ attacks that aren't silvered"
-"condition_immunities": "charmed"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]"
 "senses": "darkvision 120 ft., passive Perception 16"
 "languages": "Abyssal, Common, Infernal, Primordial"
 "cr": "5"
 "traits":
 - "desc": "Morgantha's innate spellcasting ability is Charisma (spell save DC 14,\
     \ dice: d20+6 (+6 to hit) with spell attacks). She can innately cast the following\
-    \ spells, requiring no material components:\n\nAt will: detect magic, magic\
-    \ missile\n\n2/day each: plane shift (self only), ray of enfeeblement, sleep"
+    \ spells, requiring no material components:\n\nAt will: [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
+    \ [[5. Mechanics/Spells/Magic Missile.md|magic missile]]\n\n2/day each: [plane\
+    \ shift](compendium/spells/plane-shift.md) (self only), [[5. Mechanics/Spells/Ray Of Enfeeblement.md|ray of enfeeblement]],\
+    \ [[5. Mechanics/Spells/Sleep.md|sleep]]"
   "name": "innate"
 - "desc": "Morgantha has advantage on saving throws against spells and other magical\
     \ effects."
@@ -162,18 +167,19 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ or vice versa. To do so, Morgantha must have a heartstone in her possession."
   "name": "Etherealness"
 - "desc": "While on the Ethereal Plane, Morgantha magically touches a sleeping humanoid\
-    \ on the Material Plane. A protection from evil and good spell cast on the target\
-    \ prevents this contact, as does a magic circle. As long as the contact persists,\
-    \ the target has dreadful visions. If these visions last for at least 1 hour,\
-    \ the target gains no benefit from its rest, and its hit point maximum is reduced\
-    \ by dice: 1d10|avg (1d10). If this effect reduces the target's hit point\
-    \ maximum to 0, the target dies, and if the target was evil, its soul is trapped\
-    \ in Morgantha's soul bag. The reduction to the target's hit point maximum lasts\
-    \ until removed by the  greater restoration spell or similar magic."
+    \ on the Material Plane. A [[5. Mechanics/Spells/Protection From Evil And Good.md|protection from evil and good]]\
+    \ spell cast on the target prevents this contact, as does a magic circle. As long\
+    \ as the contact persists, the target has dreadful visions. If these visions last\
+    \ for at least 1 hour, the target gains no benefit from its rest, and its hit\
+    \ point maximum is reduced by dice: 1d10|avg (1d10). If this effect reduces\
+    \ the target's hit point maximum to 0, the target dies, and if the target was\
+    \ evil, its soul is trapped in Morgantha's soul bag. The reduction to the target's\
+    \ hit point maximum lasts until removed by the  [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
+    \ spell or similar magic."
   "name": "Nightmare Haunting (1/Day)"
 "source":
 - "CoS"
-"image": "4. World Almanac/NPCs/token/morgantha.png"
+"image": "4. World Almanac/NPCs/token/morgantha-cos.webp"
 ```
 ^statblock
 

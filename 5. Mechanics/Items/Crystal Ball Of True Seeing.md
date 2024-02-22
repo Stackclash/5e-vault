@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/attunement/required
-- item/rarity/legendary
-- item/tier/major
-- item/wondrous
-aliases: 
-- "Crystal Ball of True Seeing"
+  - compendium/src/5e/dmg
+  - item/attunement/required
+  - item/rarity/legendary
+  - item/tier/major
+  - item/wondrous
+aliases:
+  - Crystal Ball of True Seeing
 ---
 # Crystal Ball of True Seeing
 *Wondrous Item, major, legendary (requires attunement)*  

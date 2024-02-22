@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/wealth
-aliases: 
-- "Malachite"
+  - compendium/src/5e/dmg
+  - item/wealth
+aliases:
+  - Malachite
 cost: 1000
 ---
 # Malachite
-*Treasure*  
+*Gemstone*  
 
 - **Cost**: 10 gp
 

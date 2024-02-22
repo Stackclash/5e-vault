@@ -2,16 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/sorcerer
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/8
-- spell/school/enchantment
-aliases: ["Dominate Monster"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/sorcerer
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/8
+  - spell/school/enchantment
+aliases:
+  - Dominate Monster
 ---
 # Dominate Monster
+%%-- Embedded content starts on the next line. --%%
 *8th-level, Enchantment*  
 
 - **Casting time:** 1 action

@@ -2,16 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/class/sorcerer/divine-soul
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/6
-- spell/school/necromancy
-aliases: ["Create Undead"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/class/sorcerer/divine-soul
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/6
+  - spell/school/necromancy
+aliases:
+  - Create Undead
 ---
 # Create Undead
+%%-- Embedded content starts on the next line. --%%
 *6th-level, Necromancy*  
 
 - **Casting time:** 1 minute
@@ -27,6 +29,6 @@ The creature is under your control for 24 hours, after which it stops obeying an
 
 **At Higher Levels.** When you cast this spell using a 7th-level spell slot, you can animate or reassert control over four [[5. Mechanics/Bestiary/Undead/Ghoul.md\|ghouls]]. When you cast this spell using an 8th-level spell slot, you can animate or reassert control over five [[5. Mechanics/Bestiary/Undead/Ghoul.md\|ghouls]] or two [[5. Mechanics/Bestiary/Undead/Ghast.md\|ghasts]] or [[5. Mechanics/Bestiary/Undead/Wight.md\|wights]]. When you cast this spell using a 9th-level spell slot, you can animate or reassert control over six [[5. Mechanics/Bestiary/Undead/Ghoul.md\|ghouls]], three [[5. Mechanics/Bestiary/Undead/Ghast.md\|ghasts]] or [[5. Mechanics/Bestiary/Undead/Wight.md\|wights]], or two [[5. Mechanics/Bestiary/Undead/Mummy.md\|mummies]].
 
-**Classes**: [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Warlock.md\|Warlock]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Warlock.md\|Warlock]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 229. Available in the SRD.*

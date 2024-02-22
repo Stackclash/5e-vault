@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-4
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/humanoid/elf
+  - compendium/src/5e/mm
+  - monster/cr/1-4
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/humanoid/elf
 statblock: inline
-aliases: ["Drow"]
+aliases:
+  - Drow
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Drow.md|Drow]]
+# [[5. Mechanics\Bestiary\Humanoid\Drow.md|Drow]]
 *Source: Monster Manual p. 128. Available in the SRD.*  
 
 ## Drow
@@ -128,7 +129,7 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
 - "CRCotN"
 - "PaBTSO"
 - "BMT"
-"image": "5. Mechanics/Bestiary/Humanoid/token/drow.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/drow.webp"
 ```
 ^statblock
 

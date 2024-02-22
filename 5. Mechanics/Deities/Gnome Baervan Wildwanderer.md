@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- compendium/src/5e/mtf
-- deity/gnome
-- domain/nature
-aliases: ["Baervan Wildwanderer"]
+  - compendium/src/5e/mtf
+  - deity/gnome
+  - domain/nature
+aliases:
+  - Baervan Wildwanderer
 ---
 # Baervan Wildwanderer
 *Source: Mordenkainen's Tome of Foes p. 111* 

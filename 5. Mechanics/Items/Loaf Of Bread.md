@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear/food-and-drink
-aliases: 
-- "Loaf of Bread"
+  - compendium/src/5e/phb
+  - item/gear/food-and-drink
+aliases:
+  - Loaf of Bread
 cost: 2
 ---
 # Loaf of Bread

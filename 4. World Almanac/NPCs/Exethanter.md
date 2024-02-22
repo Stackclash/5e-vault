@@ -1,31 +1,34 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: null
 condition: healthy
 relationships: []
-tags: 
+tags: null
 aliases: []
-pronounced: 
-race: 
-gender: 
-age: 
+pronounced: null
+race: null
+gender: null
+age: null
 alignment: Any Evil alignment
-occupation: [] 
+occupation: []
 groups: []
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```
 > ###### Bio
 >  |
 >  ---|---|
@@ -103,7 +106,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 
 ## Stats
 ```statblock
-"name": "Exethanter (CoS)"
+"name": "Exethanter"
 "size": "Medium"
 "type": "undead"
 "alignment": "Any Evil alignment"
@@ -129,15 +132,17 @@ await dv.view("npcRelationships", { current: dv.current() })
   "Arcana": !!int "19"
 "damage_resistances": "cold, lightning, necrotic"
 "damage_immunities": "poison; bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "truesight 120 ft., passive Perception 19"
 "languages": "Common plus up to five other languages"
 "cr": "10"
 "traits":
 - "desc": "Exethanter is an 18th-level spellcaster. Its spellcasting ability is Intelligence\
     \ (spell save DC 20, dice: d20+12 (+12 to hit) with spell attacks). Exethanter\
-    \ has the following wizard spells prepared:\n\nCantrips (at will): mage hand,\
-    \ prestidigitation, ray of frost"
+    \ has the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
+    \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]], [[5. Mechanics/Spells/Ray Of Frost.md|ray of frost]]"
   "name": "spells"
 - "desc": "If Exethanter fails a saving throw, it can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
@@ -151,9 +156,9 @@ await dv.view("npcRelationships", { current: dv.current() })
 "actions":
 - "desc": "Melee Spell Attack: dice: d20+12 (+12 to hit), reach 5 ft., one creature.\
     \ Hit: dice: 3d6|avg (3d6) cold damage. The target must succeed on a DC\
-    \ 18 Constitution saving throw or be paralyzed for 1 minute. The target can repeat\
-    \ the saving throw at the end of each of its turns, ending the effect on itself\
-    \ on a success."
+    \ 18 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
+    \ for 1 minute. The target can repeat the saving throw at the end of each of its\
+    \ turns, ending the effect on itself on a success."
   "name": "Paralyzing Touch"
 "legendary_actions":
 - "desc": "Exethanter casts a cantrip."
@@ -162,10 +167,11 @@ await dv.view("npcRelationships", { current: dv.current() })
   "name": "Paralyzing Touch (Costs 2 Actions)"
 - "desc": "Exethanter fixes its gaze on one creature it can see within 10 feet of\
     \ it. The target must succeed on a DC 18 Wisdom saving throw against this magic\
-    \ or become frightened for 1 minute. The frightened target can repeat the saving\
-    \ throw at the end of each of its turns, ending the effect on itself on a success.\
-    \ If a target's saving throw is successful or the effect ends for it, the target\
-    \ is immune to Exethanter's gaze for the next 24 hours."
+    \ or become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] for 1 minute.\
+    \ The [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] target can repeat\
+    \ the saving throw at the end of each of its turns, ending the effect on itself\
+    \ on a success. If a target's saving throw is successful or the effect ends for\
+    \ it, the target is immune to Exethanter's gaze for the next 24 hours."
   "name": "Frightening Gaze (Costs 2 Actions)"
 - "desc": "Each non-undead creature within 20 feet of Exethanter must make a DC 18\
     \ Constitution saving throw against this magic, taking dice: 6d6|avg (6d6)\
@@ -173,7 +179,7 @@ await dv.view("npcRelationships", { current: dv.current() })
   "name": "Disrupt Life (Costs 3 Actions)"
 "source":
 - "CoS"
-"image": "4. World Almanac/NPCs/token/exethanter.png"
+"image": "4. World Almanac/NPCs/token/exethanter-cos.webp"
 ```
 ^statblock
 

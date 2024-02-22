@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/paladin/oathbreaker
-- spell/class/warlock
-- spell/level/1
-- spell/school/evocation
-aliases: ["Hellish Rebuke"]
+  - compendium/src/5e/phb
+  - spell/class/paladin/oathbreaker
+  - spell/class/warlock
+  - spell/level/1
+  - spell/school/evocation
+aliases:
+  - Hellish Rebuke
 ---
 # Hellish Rebuke
+%%-- Embedded content starts on the next line. --%%
 *1st-level, Evocation*  
 
 - **Casting time:** 1 reaction

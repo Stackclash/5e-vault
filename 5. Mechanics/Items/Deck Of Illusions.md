@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/uncommon
-- item/tier/major
-- item/wondrous
-aliases: 
-- "Deck of Illusions"
+  - compendium/src/5e/dmg
+  - item/rarity/uncommon
+  - item/tier/major
+  - item/wondrous
+aliases:
+  - Deck of Illusions
 ---
 # Deck of Illusions
 *Wondrous Item, major, uncommon*  
@@ -21,8 +21,10 @@ An illusion of one or more creatures forms over the thrown card and remains unti
 
 The illusion lasts until its card is moved or the illusion is dispelled. When the illusion ends, the image on its card disappears, and that card can't be used again.
 
-| 1d33 | Illusion |
-|------|----------|
+`dice: [[Deck Of Illusions.md#^1-illusion]]`
+
+| dice: 1d34 | Illusion |
+|------------|----------|
 | 1 | [[5. Mechanics/Bestiary/Dragon/Adult Red Dragon.md\|Red dragon]] |
 | 2 | [[5. Mechanics/Bestiary/Humanoid/Knight.md\|Knight]] and four [[5. Mechanics/Bestiary/Humanoid/Guard.md\|guards]] |
 | 3 | [Succubus/Incubus](compendium/bestiary/fiend/succubus.md) |

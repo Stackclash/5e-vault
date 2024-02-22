@@ -2,19 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/3
-- monster/environment/arctic
-- monster/environment/coastal
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/size/large
-- monster/type/monstrosity
+  - compendium/src/5e/mm
+  - monster/cr/3
+  - monster/environment/arctic
+  - monster/environment/coastal
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/size/large
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Manticore"]
+aliases:
+  - Manticore
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Manticore.md|Manticore]]
+# [[5. Mechanics\Bestiary\Monstrosity\Manticore.md|Manticore]]
 *Source: Monster Manual p. 213. Available in the SRD and the Basic Rules.*  
 
 A monster in every sense of the word, a manticore has a vaguely humanoid head, the body of a lion, and the wings of a dragon. A bristling mane stretches down the creature's back, and its long tail ends in a cluster of deadly spikes that can impale prey at impressive range.
@@ -89,7 +90,7 @@ The manticores' greatest territorial rivals include chimeras, griffons, perytons
 - "SatO"
 - "BMT"
 - "DoDk"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/manticore.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/manticore.webp"
 ```
 ^statblock
 

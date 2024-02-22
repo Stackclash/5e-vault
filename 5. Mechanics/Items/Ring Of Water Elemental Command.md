@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/attunement/required
-- item/rarity/legendary
-- item/tier/major
-- item/wondrous/ring
-aliases: 
-- "Ring of Water Elemental Command"
+  - compendium/src/5e/dmg
+  - item/attunement/required
+  - item/rarity/legendary
+  - item/tier/major
+  - item/wondrous/ring
+aliases:
+  - Ring of Water Elemental Command
 ---
 # Ring of Water Elemental Command
 *Ring, major, legendary (requires attunement)*  

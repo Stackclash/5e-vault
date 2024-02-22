@@ -2,21 +2,22 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-2
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/1-2
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/beast
 statblock: inline
-aliases: ["Swarm of Spiders"]
+aliases:
+  - Swarm of Spiders
 ---
-# [[5. Mechanics/Bestiary/Beast/Swarm Of Spiders.md|Swarm of Spiders]]
+# [[5. Mechanics\Bestiary\Beast\Swarm Of Spiders.md|Swarm of Spiders]]
 *Source: Monster Manual p. 338, Curse of Strahd. Available in the SRD.*  
 
 > [!note] The Nature of Swarms
@@ -25,7 +26,7 @@ aliases: ["Swarm of Spiders"]
 ^the-nature-of-swarms
 
 ```statblock
-"name": "Swarm of Spiders"
+"name": "Swarm Of Spiders"
 "size": "Medium"
 "type": "beast"
 "alignment": "Unaligned"
@@ -77,7 +78,7 @@ aliases: ["Swarm of Spiders"]
 - "DIP"
 - "MOT"
 - "BMT"
-"image": "5. Mechanics/Bestiary/Beast/token/swarm-of-spiders.png"
+"image": "5. Mechanics/Bestiary/Beast/token/swarm-of-spiders.webp"
 ```
 ^statblock
 

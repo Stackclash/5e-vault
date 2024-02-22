@@ -2,23 +2,25 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/cleric
-- spell/class/cleric/order-domain
-- spell/class/druid
-- spell/class/druid/circle-of-the-land
-- spell/class/fighter/eldritch-knight
-- spell/class/paladin
-- spell/class/ranger
-- spell/class/rogue/arcane-trickster
-- spell/class/sorcerer/divine-soul
-- spell/class/wizard
-- spell/level/4
-- spell/school/divination
-aliases: ["Locate Creature"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/cleric
+  - spell/class/cleric/order-domain
+  - spell/class/druid
+  - spell/class/druid/circle-of-the-land
+  - spell/class/fighter/eldritch-knight
+  - spell/class/paladin
+  - spell/class/ranger
+  - spell/class/rogue/arcane-trickster
+  - spell/class/sorcerer/divine-soul
+  - spell/class/wizard
+  - spell/level/4
+  - spell/school/divination
+aliases:
+  - Locate Creature
 ---
 # Locate Creature
+%%-- Embedded content starts on the next line. --%%
 *4th-level, Divination*  
 
 - **Casting time:** 1 action
@@ -32,6 +34,6 @@ The spell can locate a specific creature known to you, or the nearest creature o
 
 This spell can't locate a creature if running water at least 10 feet wide blocks a direct path between you and the creature.
 
-**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Cleric Order Domain (TCE).md\|Cleric (Order Domain)]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Paladin.md\|Paladin]], [[5. Mechanics/Classes/Ranger.md\|Ranger]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Cleric Order Domain.md\|Cleric (Order Domain)]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Paladin.md\|Paladin]], [[5. Mechanics/Classes/Ranger.md\|Ranger]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 256. Available in the SRD and the Basic Rules.*

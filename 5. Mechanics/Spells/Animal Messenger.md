@@ -2,16 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/druid
-- spell/class/ranger
-- spell/level/2
-- spell/ritual
-- spell/school/enchantment
-aliases: ["Animal Messenger"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/druid
+  - spell/class/ranger
+  - spell/level/2
+  - spell/ritual
+  - spell/school/enchantment
+aliases:
+  - Animal Messenger
 ---
 # Animal Messenger
+%%-- Embedded content starts on the next line. --%%
 *2nd-level, Enchantment (ritual)*  
 
 - **Casting time:** 1 action unless cast as a ritual

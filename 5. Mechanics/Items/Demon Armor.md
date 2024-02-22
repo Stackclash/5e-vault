@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/armor/heavy
-- item/attunement/required
-- item/rarity/very-rare
-- item/tier/major
-aliases: 
-- "Demon Armor"
+  - compendium/src/5e/dmg
+  - item/armor/heavy
+  - item/attunement/required
+  - item/rarity/very-rare
+  - item/tier/major
+aliases:
+  - Demon Armor
 ---
 # Demon Armor
 *Heavy Armor, major, very rare (requires attunement)*  

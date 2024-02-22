@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/13
-- monster/environment/underdark
-- monster/size/large
-- monster/type/dragon
+  - compendium/src/5e/mm
+  - monster/cr/13
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/dragon
 statblock: inline
-aliases: ["Young Red Shadow Dragon"]
+aliases:
+  - Young Red Shadow Dragon
 ---
-# [[5. Mechanics/Bestiary/Dragon/Young Red Shadow Dragon.md|Young Red Shadow Dragon]]
+# [[5. Mechanics\Bestiary\Dragon\Young Red Shadow Dragon.md|Young Red Shadow Dragon]]
 *Source: Monster Manual p. 85*  
 
 Shadow dragons are true dragons that were either born in the Shadowfell or transformed by years spent within its dismal confines. Some shadow dragons embrace the Shadowfell for its bleak landscapes and desolation. Others seek to return to the Material Plane, hungry to spread the darkness and evil of the Plane of Shadow.
@@ -121,7 +122,7 @@ Any damage-dealing breath weapon possessed by the dragon deals necrotic damage i
 "source":
 - "MM"
 - "AATM"
-"image": "5. Mechanics/Bestiary/Dragon/token/young-red-shadow-dragon.png"
+"image": "5. Mechanics/Bestiary/Dragon/token/young-red-shadow-dragon.webp"
 ```
 ^statblock
 

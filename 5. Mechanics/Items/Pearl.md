@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/wealth
-aliases: 
-- "Pearl"
+  - compendium/src/5e/dmg
+  - item/wealth
+aliases:
+  - Pearl
 cost: 10000
 ---
 # Pearl
-*Treasure*  
+*Gemstone*  
 
 - **Cost**: 100 gp
 

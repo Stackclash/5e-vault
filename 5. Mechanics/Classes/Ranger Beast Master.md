@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/phb
-- subclass/ranger/beast-master
-aliases: ["Beast Master"]
+  - compendium/src/5e/phb
+  - subclass/ranger/beast-master
+aliases:
+  - Beast Master
 ---
 # Beast Master
 *[[Ranger.md\|Ranger]]: Ranger Archetype*  
@@ -27,14 +28,14 @@ If you are [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]] or
 
 While traveling through your favored terrain with only the beast, you can move stealthily at a normal pace.
 
-If the beast dies, you can obtain another one by spending 8 hours magically bonding with another beast that isn't hostile to you, either the same type of beast as before or a different one.
+If the beast dies, you can obtain a new companion by spending 8 hours magically bonding with a beast that isn't hostile to you and that meets the requirements.
 
 ### Primal Companion (Level 3)
 _Source: Tasha's Cauldron of Everything p. 61_
 
 *3rd-level Beast Master variant feature, which replaces the Ranger's Companion feature*
 
-You magically summon a primal beast, which draws strength from your bond with nature. The beast is friendly to you and your companions and obeys your commands. Choose its stat block—[[5. Mechanics/Bestiary/Beast/Beast Of The Land (TCE).md\|Beast of the Land]], [[5. Mechanics/Bestiary/Beast/Beast Of The Sea (TCE).md\|Beast of the Sea]], or [[5. Mechanics/Bestiary/Beast/Beast Of The Sky (TCE).md\|Beast of the Sky]]—which uses your proficiency bonus (PB) in several places. You also determine the kind of animal the beast is, choosing a kind appropriate for the stat block. Whatever kind you choose, the beast bears primal markings, indicating its mystical origin.
+You magically summon a primal beast, which draws strength from your bond with nature. The beast is friendly to you and your companions and obeys your commands. Choose its stat block—[[5. Mechanics/Bestiary/Beast/Beast Of The Land.md\|Beast of the Land]], [[5. Mechanics/Bestiary/Beast/Beast Of The Sea.md\|Beast of the Sea]], or [[5. Mechanics/Bestiary/Beast/Beast Of The Sky.md\|Beast of the Sky]]—which uses your proficiency bonus (PB) in several places. You also determine the kind of animal the beast is, choosing a kind appropriate for the stat block. Whatever kind you choose, the beast bears primal markings, indicating its mystical origin.
 
 In combat, the beast acts during your turn. It can move and use its reaction on its own, but the only action it takes is the [[/5. Mechanics/Rules/Actions.md#Dodge\|Dodge]] action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. You can also sacrifice one of your attacks when you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action to command the beast to take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action. If you are [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]], the beast can take any action of its choice, not just [[/5. Mechanics/Rules/Actions.md#Dodge\|Dodge]].
 

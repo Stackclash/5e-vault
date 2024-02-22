@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear/poison
-- item/property/poison
-aliases: 
-- "Basic Poison (vial)"
+  - compendium/src/5e/phb
+  - item/gear/poison
+  - item/property/poison
+aliases:
+  - Basic Poison (vial)
 cost: 10000
 ---
 # Basic Poison (vial)

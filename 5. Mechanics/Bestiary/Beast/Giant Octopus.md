@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1
-- monster/environment/underwater
-- monster/size/large
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/1
+  - monster/environment/underwater
+  - monster/size/large
+  - monster/type/beast
 statblock: inline
-aliases: ["Giant Octopus"]
+aliases:
+  - Giant Octopus
 ---
-# [[5. Mechanics/Bestiary/Beast/Giant Octopus.md|Giant Octopus]]
+# [[5. Mechanics\Bestiary\Beast\Giant Octopus.md|Giant Octopus]]
 *Source: Monster Manual p. 326, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -66,7 +67,7 @@ aliases: ["Giant Octopus"]
 - "CRCotN"
 - "DSotDQ"
 - "PaBTSO"
-"image": "5. Mechanics/Bestiary/Beast/token/giant-octopus.png"
+"image": "5. Mechanics/Bestiary/Beast/token/giant-octopus.webp"
 ```
 ^statblock
 

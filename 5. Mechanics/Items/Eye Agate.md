@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/wealth
-aliases: 
-- "Eye Agate"
+  - compendium/src/5e/dmg
+  - item/wealth
+aliases:
+  - Eye Agate
 cost: 1000
 ---
 # Eye Agate
-*Treasure*  
+*Gemstone*  
 
 - **Cost**: 10 gp
 

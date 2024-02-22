@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/wealth
-aliases: 
-- "Silk robe with gold embroidery"
+  - compendium/src/5e/dmg
+  - item/wealth
+aliases:
+  - Silk robe with gold embroidery
 cost: 25000
 ---
 # Silk robe with gold embroidery
-*Treasure*  
+*Art object*  
 
 - **Cost**: 250 gp
 

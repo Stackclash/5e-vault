@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- compendium/src/5e/phb
-- deity/forgotten-realms
-- domain/light
-aliases: ["Milil"]
+  - compendium/src/5e/phb
+  - deity/forgotten-realms
+  - domain/light
+aliases:
+  - Milil
 ---
 # Milil
 *Source: Player's Handbook p. 294. Available in the Basic Rules.* 

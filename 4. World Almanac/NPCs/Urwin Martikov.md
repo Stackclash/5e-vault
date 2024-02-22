@@ -1,35 +1,38 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: "[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]"
+location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'
 condition: healthy
 relationships:
   - Brom Martikov|son
   - Danika Dorakova|wife
   - Davian Martikov|father
   - Bray Martikov|son
-tags: 
-aliases: 
-pronounced: 
-race: 
+tags: null
+aliases: null
+pronounced: null
+race: null
 gender: male
-age: 
+age: null
 alignment: Lawful Good
-occupation: [] 
-groups: 
-religions: 
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes:
+occupation: []
+groups: null
+religions: null
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```
 > ###### Bio
 >  |
 >  ---|---|
@@ -107,7 +110,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 
 ## Stats
 ```statblock
-"name": "Urwin Martikov (CoS)"
+"name": "Urwin Martikov"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "human, shapechanger"
@@ -137,7 +140,8 @@ await dv.view("npcRelationships", { current: dv.current() })
   "name": "Shapechanger"
 - "desc": "Urwin can mimic simple sounds it has heard, such as a person whispering,\
     \ a baby crying, or an animal chittering. A creature that hears the sounds can\
-    \ tell they are imitations with a successful DC 10 Wisdom (Insight) check."
+    \ tell they are imitations with a successful DC 10 Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight|Insight]])\
+    \ check."
   "name": "Mimicry"
 - "desc": "Urwin regains 10 hit points at the start of its turn. If Urwin takes damage\
     \ from a silvered weapon or a spell, this trait doesn't function at the start\
@@ -160,7 +164,7 @@ await dv.view("npcRelationships", { current: dv.current() })
   "name": "Hand Crossbow (Human or Hybrid Form Only)"
 "source":
 - "CoS"
-"image": "4. World Almanac/NPCs/token/urwin-martikov.png"
+"image": "4. World Almanac/NPCs/token/urwin-martikov-cos.webp"
 ```
 ^statblock
 

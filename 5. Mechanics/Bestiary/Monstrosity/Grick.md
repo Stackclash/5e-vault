@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/2
-- monster/environment/forest
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/monstrosity
+  - compendium/src/5e/mm
+  - monster/cr/2
+  - monster/environment/forest
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Grick"]
+aliases:
+  - Grick
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Grick.md|Grick]]
+# [[5. Mechanics\Bestiary\Monstrosity\Grick.md|Grick]]
 *Source: Monster Manual p. 173, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 The wormlike grick waits unseen, blending in with the rock of the caves and caverns it haunts. Only when prey comes near does it rear up, its four barbed tentacles unfurling to reveal its hungry, snapping beak.
@@ -49,8 +50,8 @@ Over time, grick lairs accumulate the cast-off possessions of intelligent prey, 
 "languages": ""
 "cr": "2"
 "traits":
-- "desc": "The grick has advantage on Dexterity (Stealth) checks made to hide in rocky\
-    \ terrain."
+- "desc": "The grick has advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]])\
+    \ checks made to hide in rocky terrain."
   "name": "Stone Camouflage"
 "actions":
 - "desc": "The grick makes one attack with its tentacles. If that attack hits, the\
@@ -73,7 +74,7 @@ Over time, grick lairs accumulate the cast-off possessions of intelligent prey, 
 - "DSotDQ"
 - "KftGV"
 - "PaBTSO"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/grick.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/grick.webp"
 ```
 ^statblock
 

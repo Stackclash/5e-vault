@@ -2,15 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer
-- spell/class/warlock/the-fathomless
-- spell/class/wizard
-- spell/level/5
-- spell/school/evocation
-aliases: ["Bigby's Hand"]
+  - compendium/src/5e/phb
+  - spell/class/artificer
+  - spell/class/warlock/the-fathomless
+  - spell/class/wizard
+  - spell/level/5
+  - spell/school/evocation
+aliases:
+  - Bigby's Hand
 ---
 # Bigby's Hand
+%%-- Embedded content starts on the next line. --%%
 *5th-level, Evocation*  
 
 - **Casting time:** 1 action
@@ -46,6 +48,6 @@ When you cast this spell using a spell slot of 6th level or higher, the damage f
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Classes/Artificer (TCE).md\|Artificer]], [[5. Mechanics/Classes/Warlock The Fathomless (TCE).md\|Warlock (The Fathomless)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Artificer.md\|Artificer]], [[5. Mechanics/Classes/Warlock The Fathomless.md\|Warlock (The Fathomless)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 218. Available in the SRD (as 'Arcane Hand').*

@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- compendium/src/5e/dmg
-- object/size/huge
-- object/type/siege-weapon
+  - compendium/src/5e/dmg
+  - object/size/huge
+  - object/type/siege-weapon
 statblock: inline
-aliases: ["Trebuchet"]
+aliases:
+  - Trebuchet
 ---
 # Trebuchet
 *Source: Dungeon Master's Guide p. 256*  
@@ -18,7 +19,7 @@ Before the trebuchet can be fired, it must be loaded and aimed. It takes two act
 A trebuchet typically hurls a heavy stone. However, it can launch other kinds of projectiles, such as barrels of oil or sewage, with different effects.
 ```ad-statblock
 title: Trebuchet
-![[5. Mechanics/Objects/token/trebuchet.png#token]]
+![[5. Mechanics/Objects/token/trebuchet.webp#token]]
 *Huge Siege weapon*
 
 - **Armor Class** 15 
@@ -27,7 +28,7 @@ title: Trebuchet
 
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-||
+|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
 
 - **Damage Immunities** poison, psychic
 

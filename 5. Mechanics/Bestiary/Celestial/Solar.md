@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/21
-- monster/size/large
-- monster/type/celestial
+  - compendium/src/5e/mm
+  - monster/cr/21
+  - monster/size/large
+  - monster/type/celestial
 statblock: inline
-aliases: ["Solar"]
+aliases:
+  - Solar
 ---
-# [[5. Mechanics/Bestiary/Celestial/Solar.md|Solar]]
+# [[5. Mechanics\Bestiary\Celestial\Solar.md|Solar]]
 *Source: Monster Manual p. 18. Available in the SRD.*  
 
 An angel is a celestial agent sent forth into the planes to further its god's agenda for weal or woe. Its sublime beauty and presence can drive awestruck onlookers to their knees. Yet angels are destroyers too, and their appearance portends doom as often as it signals hope.
@@ -130,7 +131,7 @@ It is said that only twenty-four solars exist. The few solars that are known are
 - "JttRC"
 - "SatO"
 - "BMT"
-"image": "5. Mechanics/Bestiary/Celestial/token/solar.png"
+"image": "5. Mechanics/Bestiary/Celestial/token/solar.webp"
 ```
 ^statblock
 

@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- compendium/src/5e/phb
-- deity/greyhawk
-- domain/trickery
-aliases: ["Tharizdun"]
+  - compendium/src/5e/phb
+  - deity/greyhawk
+  - domain/trickery
+aliases:
+  - Tharizdun
 ---
 # Tharizdun
 *Source: Player's Handbook p. 295* 

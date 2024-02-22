@@ -1,31 +1,34 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: null
 condition: healthy
 relationships: []
-tags: 
+tags: null
 aliases: []
-pronounced: 
-race: 
-gender: 
-age: 
+pronounced: null
+race: null
+gender: null
+age: null
 alignment: Chaotic Evil
-occupation: [] 
+occupation: []
 groups: []
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```
 > ###### Bio
 >  |
 >  ---|---|
@@ -103,7 +106,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 
 ## Stats
 ```statblock
-"name": "Sangzor (CoS)"
+"name": "Sangzor"
 "size": "Large"
 "type": "beast"
 "alignment": "Chaotic Evil"
@@ -126,10 +129,10 @@ await dv.view("npcRelationships", { current: dv.current() })
 - "desc": "If Sangzor moves at least 20 feet straight toward a target and then hits\
     \ it with a ram attack on the same turn, the target takes an extra dice: 2d4|avg\
     \ (2d4) bludgeoning damage. If the target is a creature, it must succeed on\
-    \ a DC 13 Strength saving throw or be knocked prone."
+    \ a DC 13 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Charge"
 - "desc": "Sangzor has advantage on Strength and Dexterity saving throws made against\
-    \ effects that would knock it prone."
+    \ effects that would knock it [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Sure-Footed"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
@@ -137,7 +140,7 @@ await dv.view("npcRelationships", { current: dv.current() })
   "name": "Ram"
 "source":
 - "CoS"
-"image": "4. World Almanac/NPCs/token/sangzor.png"
+"image": "4. World Almanac/NPCs/token/sangzor-cos.webp"
 ```
 ^statblock
 

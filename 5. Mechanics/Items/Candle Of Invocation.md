@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/attunement/required
-- item/rarity/very-rare
-- item/tier/major
-- item/wondrous
-aliases: 
-- "Candle of Invocation"
+  - compendium/src/5e/dmg
+  - item/attunement/required
+  - item/rarity/very-rare
+  - item/tier/major
+  - item/wondrous
+aliases:
+  - Candle of Invocation
 ---
 # Candle of Invocation
 *Wondrous Item, major, very rare (requires attunement)*  
@@ -16,6 +16,8 @@ aliases:
 
 
 This slender taper is dedicated to a deity and shares that deity's alignment. The candle's alignment can be detected with the [[5. Mechanics/Spells/Detect Evil And Good.md\|detect evil and good]] spell. The DM chooses the god and associated alignment or determines the alignment randomly.
+
+`dice: [[Candle Of Invocation.md#^alignment]]`
 
 | dice: d20 | Alignment |
 |-----------|-----------|

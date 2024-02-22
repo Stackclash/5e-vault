@@ -2,20 +2,22 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer/artillerist
-- spell/class/cleric/light-domain
-- spell/class/fighter/eldritch-knight
-- spell/class/rogue/arcane-trickster
-- spell/class/sorcerer
-- spell/class/warlock/the-fiend
-- spell/class/warlock/the-genie
-- spell/class/wizard
-- spell/level/3
-- spell/school/evocation
-aliases: ["Fireball"]
+  - compendium/src/5e/phb
+  - spell/class/artificer/artillerist
+  - spell/class/cleric/light-domain
+  - spell/class/fighter/eldritch-knight
+  - spell/class/rogue/arcane-trickster
+  - spell/class/sorcerer
+  - spell/class/warlock/the-fiend
+  - spell/class/warlock/the-genie
+  - spell/class/wizard
+  - spell/level/3
+  - spell/school/evocation
+aliases:
+  - Fireball
 ---
 # Fireball
+%%-- Embedded content starts on the next line. --%%
 *3rd-level, Evocation*  
 ![[5. Mechanics/Spells/img/fireball.webp#right]]  
 
@@ -30,6 +32,6 @@ The fire spreads around corners. It ignites flammable objects in the area that a
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
 
-**Classes**: [[5. Mechanics/Classes/Artificer Artillerist (TCE).md\|Artificer (Artillerist)]], [[5. Mechanics/Classes/Cleric Light Domain.md\|Cleric (Light Domain)]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock The Fiend.md\|Warlock (The Fiend)]], [[5. Mechanics/Classes/Warlock The Genie (TCE).md\|Warlock (The Genie)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Artificer Artillerist.md\|Artificer (Artillerist)]], [[5. Mechanics/Classes/Cleric Light Domain.md\|Cleric (Light Domain)]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock The Fiend.md\|Warlock (The Fiend)]], [[5. Mechanics/Classes/Warlock The Genie.md\|Warlock (The Genie)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 241. Available in the SRD and the Basic Rules.*

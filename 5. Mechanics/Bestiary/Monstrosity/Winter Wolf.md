@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/3
-- monster/environment/arctic
-- monster/size/large
-- monster/type/monstrosity
+  - compendium/src/5e/mm
+  - monster/cr/3
+  - monster/environment/arctic
+  - monster/size/large
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Winter Wolf"]
+aliases:
+  - Winter Wolf
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Winter Wolf.md|Winter Wolf]]
+# [[5. Mechanics\Bestiary\Monstrosity\Winter Wolf.md|Winter Wolf]]
 *Source: Monster Manual p. 340. Available in the SRD and the Basic Rules.*  
 
 The arctic-dwelling winter wolf is as large as a dire wolf but has snow-white fur and pale blue eyes. Frost giants use these evil creatures as guards and hunting companions, putting the wolves' deadly breath weapon to use against their foes. Winter wolves communicate with one another using growls and barks, but they speak Common and Giant well enough to follow simple conversations.
@@ -46,8 +47,8 @@ The arctic-dwelling winter wolf is as large as a dire wolf but has snow-white fu
     \ one of the wolf's allies is within 5 feet of the creature and the ally isn't\
     \ [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
   "name": "Pack Tactics"
-- "desc": "The wolf has advantage on Dexterity (Stealth) checks made to hide in snowy\
-    \ terrain."
+- "desc": "The wolf has advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]])\
+    \ checks made to hide in snowy terrain."
   "name": "Snow Camouflage"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
@@ -67,7 +68,7 @@ The arctic-dwelling winter wolf is as large as a dire wolf but has snow-white fu
 - "IDRotF"
 - "KftGV"
 - "GHLoE"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/winter-wolf.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/winter-wolf.webp"
 ```
 ^statblock
 

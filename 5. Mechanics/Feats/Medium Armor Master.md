@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/phb
-- feat
-aliases: ["Medium Armor Master"]
+  - compendium/src/5e/phb
+  - feat
+aliases:
+  - Medium Armor Master
 ---
 # Medium Armor Master
 *Source: Player's Handbook p. 168*  

@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/armor/shield
-- item/attunement/required
-- item/rarity/very-rare
-- item/tier/major
-aliases: 
-- "Spellguard Shield"
+  - compendium/src/5e/dmg
+  - item/armor/shield
+  - item/attunement/required
+  - item/rarity/very-rare
+  - item/tier/major
+aliases:
+  - Spellguard Shield
 ---
 # Spellguard Shield
 *Shield, major, very rare (requires attunement)*  

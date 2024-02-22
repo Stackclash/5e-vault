@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/ranger
-- compendium/src/5e/phb
-aliases: ["Ranger"]
+  - class/ranger
+  - compendium/src/5e/phb
+aliases:
+  - Ranger
 ---
 # Ranger
 *Source: Player's Handbook p. 89. Available in the SRD.*  
@@ -86,7 +87,7 @@ You begin play with the following equipment, in addition to any equipment provid
 - (a) [[5. Mechanics/Items/Scale Mail.md\|scale mail]] or (b) [[5. Mechanics/Items/Leather Armor.md\|leather armor]]  
 - (a) two [[5. Mechanics/Items/Shortsword.md\|shortswords]] or (b) two simple melee weapons  
 - (a) a [[5. Mechanics/Items/Dungeoneers Pack.md\|dungeoneer's pack]] or (b) an [[5. Mechanics/Items/Explorers Pack.md\|explorer's pack]]  
-- A [[5. Mechanics/Items/Longbow.md\|longbow]] and a [[5. Mechanics/Items/Quiver.md\|quiver]] of [[5. Mechanics/Items/Arrows-20.md\|20 arrows]]  
+- A [[5. Mechanics/Items/Longbow.md\|longbow]] and a [[5. Mechanics/Items/Quiver.md\|quiver]] of [[5. Mechanics/Items/Arrows 20.md\|20 arrows]]  
 
 Alternatively, you may start with 5d4 × 10 gp and choose your own equipment.
 
@@ -155,6 +156,8 @@ If you haven't yet thought about the details of your character's worldview, cons
 
 **View of the World**
 
+`dice: [[Ranger.md#^view-of-the-world]]`
+
 | dice: d6 | View |
 |----------|------|
 | 1 | Towns and cities are the best places for those who can't survive on their own. |
@@ -174,6 +177,8 @@ Think of your character's backstory and decide what terrain feels most like home
 
 **Homelands**
 
+`dice: [[Ranger.md#^homelands]]`
+
 | dice: d6 | Homeland |
 |----------|----------|
 | 1 | You patrolled an ancient forest, darkened and corrupted by several crossings to the Shadowfell. |
@@ -192,6 +197,8 @@ Every ranger begins with a favored enemy (or two). The determination of a favore
 What spurred your character to select a particular enemy? Was the choice made because of tradition or curiosity, or do you have a grudge to settle?
 
 **Sworn Enemies**
+
+`dice: [[Ranger.md#^sworn-enemies]]`
 
 | dice: d6 | Enemy |
 |----------|-------|
@@ -220,7 +227,7 @@ You choose one additional favored enemy, as well as an associated language, at 6
 ### Favored Foe (Level 1)
 _Source: Tasha's Cauldron of Everything p. 56_
 
-*1st-level ranger [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]], which replaces the Favored Enemy feature and works with the Foe Slayer feature*
+*1st-level ranger [[/5. Mechanics/Rules/Variant Rules/Optional Class Features.md\|optional class features]], which replaces the Favored Enemy feature and works with the Foe Slayer feature*
 
 When you hit a creature with an attack roll, you can call on your mystical bond with nature to mark the target as your favored enemy for 1 minute or until you lose your [[/5. Mechanics/Rules/Conditions.md#concentration\|concentration]] (as if you were concentrating on a spell).
 
@@ -248,7 +255,7 @@ You choose additional favored terrain types at 6th and 10th level.
 ### Deft Explorer (Level 1)
 _Source: Tasha's Cauldron of Everything p. 56_
 
-*1st-level ranger [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]], which replaces the Natural Explorer feature*
+*1st-level ranger [[/5. Mechanics/Rules/Variant Rules/Optional Class Features.md\|optional class features]], which replaces the Natural Explorer feature*
 
 You are an unsurpassed explorer and survivor, both in the wilderness and in dealing with others on your travels. You gain the Canny benefit below, and you gain an additional benefit below when you reach 6th level and 10th level in this class.
 
@@ -296,7 +303,7 @@ Wisdom is your spellcasting ability for your ranger spells, since your magic dra
 ### Spellcasting Focus (Level 2)
 _Source: Tasha's Cauldron of Everything p. 56_
 
-*2nd-level ranger [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+*2nd-level ranger [[/5. Mechanics/Rules/Variant Rules/Optional Class Features.md\|optional class features]]*
 
 You can use a [[5. Mechanics/Items/Druidic Focus.md\|druidic focus]] as a spellcasting focus for your ranger spells. A druidic focus might be a sprig of mistletoe or holly, a wand or rod made of yew or another special wood, a staff drawn whole from a living tree, or an object incorporating feathers, fur, bones, and teeth from sacred animals.
 
@@ -311,7 +318,7 @@ Beginning at 3rd level, you can use your action and expend one ranger spell slot
 ### Primal Awareness (Level 3)
 _Source: Tasha's Cauldron of Everything p. 56_
 
-*3rd-level ranger [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]], which replaces the Primeval Awareness feature*
+*3rd-level ranger [[/5. Mechanics/Rules/Variant Rules/Optional Class Features.md\|optional class features]], which replaces the Primeval Awareness feature*
 
 You can focus your awareness through the interconnections of nature: you learn additional spells when you reach certain levels in this class if you don't already know them, as shown in the Primal Awareness Spells table. These spells don't count against the number of ranger spells you know.
 
@@ -337,7 +344,7 @@ If your DM allows the use of feats, you may instead take a feat.
 ### Martial Versatility (Level 4)
 _Source: Tasha's Cauldron of Everything p. 56_
 
-*4th-level ranger [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+*4th-level ranger [[/5. Mechanics/Rules/Variant Rules/Optional Class Features.md\|optional class features]]*
 
 Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace a fighting style you know with another fighting style available to rangers. This replacement represents a shift of focus in your martial practice.
 
@@ -385,7 +392,7 @@ Once you are camouflaged in this way, you can try to hide by pressing yourself u
 ### Nature's Veil (Level 10)
 _Source: Tasha's Cauldron of Everything p. 56_
 
-*10th-level ranger [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]], which replaces the Hide in Plain Sight feature*
+*10th-level ranger [[/5. Mechanics/Rules/Variant Rules/Optional Class Features.md\|optional class features]], which replaces the Hide in Plain Sight feature*
 
 You draw on the powers of nature to hide yourself from view briefly. As a bonus action, you can magically become [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]], along with any equipment you are wearing or carrying, until the start of your next turn.
 

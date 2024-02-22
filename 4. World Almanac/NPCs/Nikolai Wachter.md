@@ -1,32 +1,35 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: "[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]"
+location: '[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]'
 condition: healthy
 relationships:
   - Lady Fiona Wachter|mother
-tags: 
+tags: null
 aliases: []
-pronounced: 
-race: 
+pronounced: null
+race: null
 gender: male
-age: 
+age: null
 alignment: Lawful Neutral
-occupation: [] 
+occupation: []
 groups: []
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```
 > ###### Bio
 >  |
 >  ---|---|
@@ -104,7 +107,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 
 ## Stats
 ```statblock
-"name": "Nikolai Wachter (CoS)"
+"name": "Nikolai Wachter"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "human"
@@ -137,7 +140,7 @@ await dv.view("npcRelationships", { current: dv.current() })
   "name": "Parry"
 "source":
 - "CoS"
-"image": "4. World Almanac/NPCs/token/nikolai-wachter.png"
+"image": "4. World Almanac/NPCs/token/nikolai-wachter-cos.webp"
 ```
 ^statblock
 

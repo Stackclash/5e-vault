@@ -2,21 +2,22 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-2
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/1-2
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/beast
 statblock: inline
-aliases: ["Swarm of Beetles"]
+aliases:
+  - Swarm of Beetles
 ---
-# [[5. Mechanics/Bestiary/Beast/Swarm Of Beetles.md|Swarm of Beetles]]
+# [[5. Mechanics\Bestiary\Beast\Swarm Of Beetles.md|Swarm of Beetles]]
 *Source: Monster Manual p. 338. Available in the SRD.*  
 
 > [!note] The Nature of Swarms
@@ -25,7 +26,7 @@ aliases: ["Swarm of Beetles"]
 ^the-nature-of-swarms
 
 ```statblock
-"name": "Swarm of Beetles"
+"name": "Swarm Of Beetles"
 "size": "Medium"
 "type": "beast"
 "alignment": "Unaligned"
@@ -61,7 +62,7 @@ aliases: ["Swarm of Beetles"]
   "name": "Bites"
 "source":
 - "MM"
-"image": "5. Mechanics/Bestiary/Beast/token/swarm-of-beetles.png"
+"image": "5. Mechanics/Bestiary/Beast/token/swarm-of-beetles.webp"
 ```
 ^statblock
 

@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/5
-- monster/size/medium
-- monster/type/construct
+  - compendium/src/5e/mm
+  - monster/cr/5
+  - monster/size/medium
+  - monster/type/construct
 statblock: inline
-aliases: ["Flesh Golem"]
+aliases:
+  - Flesh Golem
 ---
-# [[5. Mechanics/Bestiary/Construct/Flesh Golem.md|Flesh Golem]]
+# [[5. Mechanics\Bestiary\Construct\Flesh Golem.md|Flesh Golem]]
 *Source: Monster Manual p. 169, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 A flesh golem is a grisly assortment of humanoid body parts stitched and bolted together into a muscled brute imbued with formidable strength. Its brain is capable of simple reason, though its thoughts are no more sophisticated than those of a young child. The golem's muscle tissue responds to the power of lightning, invigorating the creature with vitality and strength. Powerful enchantments protect the golem's skin, deflecting spells and all but the most potent weapons.
@@ -81,9 +82,9 @@ A golem doesn't require air, food, drink, or sleep.
     \ to do so until it is destroyed or regains all its hit points.\n\nThe golem's\
     \ creator, if within 60 feet of the berserk golem, can try to calm it by speaking\
     \ firmly and persuasively. The golem must be able to hear its creator, who must\
-    \ take an action to make a DC 15 Charisma (Persuasion) check. If the check succeeds,\
-    \ the golem ceases being berserk. If it takes damage while still at 40 hit points\
-    \ or fewer, the golem might go berserk again."
+    \ take an action to make a DC 15 Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion|Persuasion]])\
+    \ check. If the check succeeds, the golem ceases being berserk. If it takes damage\
+    \ while still at 40 hit points or fewer, the golem might go berserk again."
   "name": "Berserk"
 - "desc": "If the golem takes fire damage, it has disadvantage on attack rolls and\
     \ ability checks until the end of its next turn."
@@ -120,7 +121,7 @@ A golem doesn't require air, food, drink, or sleep.
 - "IDRotF"
 - "CM"
 - "ToFW"
-"image": "5. Mechanics/Bestiary/Construct/token/flesh-golem.png"
+"image": "5. Mechanics/Bestiary/Construct/token/flesh-golem.webp"
 ```
 ^statblock
 

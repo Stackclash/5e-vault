@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/wealth
-aliases: 
-- "Tiger Eye"
+  - compendium/src/5e/dmg
+  - item/wealth
+aliases:
+  - Tiger Eye
 cost: 1000
 ---
 # Tiger Eye
-*Treasure*  
+*Gemstone*  
 
 - **Cost**: 10 gp
 

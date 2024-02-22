@@ -2,20 +2,22 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer/alchemist
-- spell/class/cleric/light-domain
-- spell/class/druid
-- spell/class/druid/circle-of-wildfire
-- spell/class/fighter/eldritch-knight
-- spell/class/rogue/arcane-trickster
-- spell/class/warlock/the-celestial
-- spell/class/wizard
-- spell/level/2
-- spell/school/conjuration
-aliases: ["Flaming Sphere"]
+  - compendium/src/5e/phb
+  - spell/class/artificer/alchemist
+  - spell/class/cleric/light-domain
+  - spell/class/druid
+  - spell/class/druid/circle-of-wildfire
+  - spell/class/fighter/eldritch-knight
+  - spell/class/rogue/arcane-trickster
+  - spell/class/warlock/the-celestial
+  - spell/class/wizard
+  - spell/level/2
+  - spell/school/conjuration
+aliases:
+  - Flaming Sphere
 ---
 # Flaming Sphere
+%%-- Embedded content starts on the next line. --%%
 *2nd-level, Conjuration*  
 
 - **Casting time:** 1 action
@@ -31,6 +33,6 @@ When you move the sphere, you can direct it over barriers up to 5 feet tall and 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot level above 2nd.
 
-**Classes**: [[5. Mechanics/Classes/Artificer Alchemist (TCE).md\|Artificer (Alchemist)]], [[5. Mechanics/Classes/Cleric Light Domain.md\|Cleric (Light Domain)]], [[5. Mechanics/Classes/Druid Circle Of Wildfire (TCE).md\|Druid (Circle of Wildfire)]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Warlock The Celestial (XGE).md\|Warlock (The Celestial)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Artificer Alchemist.md\|Artificer (Alchemist)]], [[5. Mechanics/Classes/Cleric Light Domain.md\|Cleric (Light Domain)]], [[5. Mechanics/Classes/Druid Circle Of Wildfire.md\|Druid (Circle of Wildfire)]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Warlock The Celestial.md\|Warlock (The Celestial)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 242. Available in the SRD and the Basic Rules.*

@@ -1,31 +1,34 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: null
 condition: healthy
 relationships: []
-tags: 
+tags: null
 aliases: []
-pronounced: 
-race: 
-gender: 
-age: 
+pronounced: null
+race: null
+gender: null
+age: null
 alignment: Lawful Good
-occupation: [] 
+occupation: []
 groups: []
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```
 > ###### Bio
 >  |
 >  ---|---|
@@ -103,7 +106,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 
 ## Stats
 ```statblock
-"name": "Parriwimple (CoS)"
+"name": "Parriwimple"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "human"
@@ -130,7 +133,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 "languages": "any one language (usually Common)"
 "cr": "5"
 "traits":
-- "desc": "Parriwimple has advantage on saving throws against being frightened."
+- "desc": "Parriwimple has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]."
   "name": "Brave"
 - "desc": "A melee weapon deals one extra die of its damage when Parriwimple hits\
     \ with it (included in the attack)."
@@ -146,7 +149,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one creature.\
     \ Hit: dice: 2d4 + 4|avg (2d4 + 4) bludgeoning damage. If the target is\
     \ a Medium or smaller creature, it must succeed on a DC 15 Strength saving throw\
-    \ or be knocked prone."
+    \ or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Shield Bash"
 "reactions":
 - "desc": "Parriwimple adds 3 to its AC against one melee attack that would hit it.\
@@ -154,7 +157,7 @@ await dv.view("npcRelationships", { current: dv.current() })
   "name": "Parry"
 "source":
 - "CoS"
-"image": "4. World Almanac/NPCs/token/parriwimple.png"
+"image": "4. World Almanac/NPCs/token/parriwimple-cos.webp"
 ```
 ^statblock
 

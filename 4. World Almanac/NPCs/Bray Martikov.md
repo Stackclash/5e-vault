@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: "[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]"
+location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'
 condition: healthy
 relationships:
   - Danika Dorakova|mother
   - Brom Martikov|brother
   - Urwin Martikov|father
-tags: 
+tags: null
 aliases: []
 pronounced: BRAY MAR-ti-kov
-race: "[[5. Mechanics/Races/Human.md|Human]]"
+race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male
 age: 15
 alignment: Lawful Good
@@ -18,19 +18,23 @@ occupation: []
 groups:
   - Keepers of the Feather
 religions: []
-personality: Eager, hardworking, a bit naive
+personality: 'Eager, hardworking, a bit naive'
 ideal: Family and tradition hold the keys to strength and unity.
-bond: His family, the winery, and his burgeoning duties as a Keeper of the Feather
+bond: 'His family, the winery, and his burgeoning duties as a Keeper of the Feather'
 flaw: His youth and inexperience sometimes lead to recklessness
-goals: To prove himself to his family and as a Keeper of the Feather, to protect his home from Strahd's forces
-likes: Adventures, stories of heroism, the outdoors
-dislikes: Threats to his family, the oppression of Strahd, boredom
+goals: >-
+  To prove himself to his family and as a Keeper of the Feather, to protect his
+  home from Strahd's forces
+likes: 'Adventures, stories of heroism, the outdoors'
+dislikes: 'Threats to his family, the oppression of Strahd, boredom'
 ---
 
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
-> ![[4. World Almanac/NPCs/img/bray-martikov.webp|cover hm-sm]] 
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```
 > ###### Bio
 >  |
 >  ---|---|
@@ -108,7 +112,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 
 ## Stats
 ```statblock
-"name": "Bray Martikov (CoS)"
+"name": "Bray Martikov"
 "size": "Small"
 "type": "humanoid"
 "subtype": "human, shapechanger"
@@ -138,7 +142,8 @@ await dv.view("npcRelationships", { current: dv.current() })
   "name": "Shapechanger"
 - "desc": "Bray can mimic simple sounds it has heard, such as a person whispering,\
     \ a baby crying, or an animal chittering. A creature that hears the sounds can\
-    \ tell they are imitations with a successful DC 10 Wisdom (Insight) check."
+    \ tell they are imitations with a successful DC 10 Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight|Insight]])\
+    \ check."
   "name": "Mimicry"
 - "desc": "Bray regains 10 hit points at the start of its turn. If Bray takes damage\
     \ from a silvered weapon or a spell, this trait doesn't function at the start\
@@ -161,7 +166,7 @@ await dv.view("npcRelationships", { current: dv.current() })
   "name": "Hand Crossbow (Human or Hybrid Form Only)"
 "source":
 - "CoS"
-"image": "4. World Almanac/NPCs/token/bray-martikov.png"
+"image": "4. World Almanac/NPCs/token/bray-martikov-cos.webp"
 ```
 ^statblock
 

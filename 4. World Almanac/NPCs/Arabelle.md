@@ -1,15 +1,15 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: "[[4. World Almanac/Places of Interest/Lake Zarovich.md|Lake Zarovich]]"
+location: '[[4. World Almanac/Places of Interest/Lake Zarovich.md|Lake Zarovich]]'
 condition: healthy
 relationships:
   - Luvash|father
   - Arrigal|niece
-tags: 
+tags: null
 aliases: []
-pronounced: 
-race: "[[5. Mechanics/Races/Human.md|Human]]"
+pronounced: null
+race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: female
 age: 7
 alignment: Lawful Neutral
@@ -17,18 +17,23 @@ occupation: []
 groups:
   - Vistani
 religions: []
-personality: Curious, spirited, innocent
+personality: 'Curious, spirited, innocent'
 ideal: The world is full of wonder and adventure.
 bond: Her family and the Vistani community
 flaw: Naïve and unaware of the dangers around her
-goals: To explore and experience new things, to someday become a great storyteller like her ancestors
-likes: Stories, animals, exploring
-dislikes: Being confined or restricted, cruelty
+goals: >-
+  To explore and experience new things, to someday become a great storyteller
+  like her ancestors
+likes: 'Stories, animals, exploring'
+dislikes: 'Being confined or restricted, cruelty'
 ---
 
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```
 > ###### Bio
 >  |
 >  ---|---|
@@ -106,7 +111,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 
 ## Stats
 ```statblock
-"name": "Arabelle (CoS)"
+"name": "Arabelle"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "human"
@@ -127,7 +132,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 "cr": "0"
 "source":
 - "CoS"
-"image": "4. World Almanac/NPCs/token/arabelle.png"
+"image": "4. World Almanac/NPCs/token/arabelle-cos.webp"
 ```
 ^statblock
 

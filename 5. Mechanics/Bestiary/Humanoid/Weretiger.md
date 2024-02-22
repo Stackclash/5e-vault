@@ -2,18 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/4
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/grassland
-- monster/size/medium
-- monster/type/humanoid/human
-- monster/type/humanoid/shapechanger
+  - compendium/src/5e/mm
+  - monster/cr/4
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/size/medium
+  - monster/type/humanoid/human
+  - monster/type/humanoid/shapechanger
 statblock: inline
-aliases: ["Weretiger"]
+aliases:
+  - Weretiger
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Weretiger.md|Weretiger]]
+# [[5. Mechanics\Bestiary\Humanoid\Weretiger.md|Weretiger]]
 *Source: Monster Manual p. 210. Available in the SRD.*  
 
 Weretigers are ferocious hunters and warriors with a haughty and fastidious nature. Lithe and sleekly muscular in humanoid form, they are taller than average and meticulously groomed. Weretigers grow to enormous size in animal and hybrid form, but they fight in their more refined humanoid form when they can.
@@ -119,7 +120,7 @@ Some individuals see little point in fighting the curse and accept what they are
 - "EGW"
 - "JttRC"
 - "ToFW"
-"image": "5. Mechanics/Bestiary/Humanoid/token/weretiger.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/weretiger.webp"
 ```
 ^statblock
 

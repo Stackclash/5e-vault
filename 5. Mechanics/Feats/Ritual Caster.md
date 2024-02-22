@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/phb
-- feat
-aliases: ["Ritual Caster"]
+  - compendium/src/5e/phb
+  - feat
+aliases:
+  - Ritual Caster
 ---
 # Ritual Caster
 *Source: Player's Handbook p. 169*  

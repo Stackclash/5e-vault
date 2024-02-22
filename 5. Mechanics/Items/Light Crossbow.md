@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/property/ammunition
-- item/property/loading
-- item/property/two-handed
-- item/weapon/simple/ranged
-aliases: 
-- "Light Crossbow"
+  - compendium/src/5e/phb
+  - item/property/ammunition
+  - item/property/loading
+  - item/property/two-handed
+  - item/weapon/simple/ranged
+aliases:
+  - Light Crossbow
 cost: 2500
 ---
 # Light Crossbow

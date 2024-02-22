@@ -2,15 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/class/druid
-- spell/class/sorcerer/divine-soul
-- spell/level/6
-- spell/school/conjuration
-aliases: ["Heroes' Feast"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/class/druid
+  - spell/class/sorcerer/divine-soul
+  - spell/level/6
+  - spell/school/conjuration
+aliases:
+  - Heroes' Feast
 ---
 # Heroes' Feast
+%%-- Embedded content starts on the next line. --%%
 *6th-level, Conjuration*  
 
 - **Casting time:** 10 minute
@@ -22,6 +24,6 @@ You bring forth a great feast, including magnificent food and drink. The feast t
 
 A creature that partakes of the feast gains several benefits. The creature is cured of all diseases and poison, becomes immune to poison and being [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]], and makes all Wisdom saving throws with advantage. Its hit point maximum also increases by `dice: 2d10|avg` (`2d10`), and it gains the same number of hit points. These benefits last for 24 hours.
 
-**Classes**: [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]]
+**Classes**: [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]]
 
 *Source: Player's Handbook p. 250. Available in the SRD and the Basic Rules.*

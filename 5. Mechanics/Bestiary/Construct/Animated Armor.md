@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1
-- monster/size/medium
-- monster/type/construct
+  - compendium/src/5e/mm
+  - monster/cr/1
+  - monster/size/medium
+  - monster/type/construct
 statblock: inline
-aliases: ["Animated Armor"]
+aliases:
+  - Animated Armor
 ---
-# [[5. Mechanics/Bestiary/Construct/Animated Armor.md|Animated Armor]]
+# [[5. Mechanics\Bestiary\Construct\Animated Armor.md|Animated Armor]]
 *Source: Monster Manual p. 19, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 This empty steel shell clamors as it moves, heavy plates banging and grinding against one another like the vengeful spirit of a fallen knight. Ponderous but persistent, this magical guardian is almost always a suit of plate armor.
@@ -84,7 +85,7 @@ An animated object doesn't require air, food, drink, or sleep. The magic that an
 - "PaBTSO"
 - "SatO"
 - "DoDk"
-"image": "5. Mechanics/Bestiary/Construct/token/animated-armor.png"
+"image": "5. Mechanics/Bestiary/Construct/token/animated-armor.webp"
 ```
 ^statblock
 

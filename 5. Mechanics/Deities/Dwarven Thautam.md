@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- compendium/src/5e/mtf
-- deity/dwarven
-- domain/knowledge
-- domain/trickery
-aliases: ["Thautam"]
+  - compendium/src/5e/mtf
+  - deity/dwarven
+  - domain/knowledge
+  - domain/trickery
+aliases:
+  - Thautam
 ---
 # Thautam
 *Source: Mordenkainen's Tome of Foes p. 73* 

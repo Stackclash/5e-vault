@@ -1,34 +1,40 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: "[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]"
+location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
 condition: healthy
 relationships:
   - Lady Lydia Petrovna|wife
   - Victor Vallakovich|son
-tags: 
+tags: null
 aliases: []
 pronounced: VAR-gas val-lah-KO-vich
-race: "[[5. Mechanics/Races/Human.md|Human]]"
+race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male
 age: 43
 alignment: Neutral Evil
 occupation: []
 groups: []
 religions: []
-personality: Authoritarian, paranoid, obsessed with maintaining a façade of happiness
+personality: 'Authoritarian, paranoid, obsessed with maintaining a façade of happiness'
 ideal: All will be well if we just keep pretending it is.
-bond: His family's legacy of ruling Vallaki, his desperate need to keep the town safe from Strahd's influence
-flaw: His denial of Vallaki's real problems and his tyrannical methods of enforcing happiness
-goals: " To keep Vallaki free from Strahd's influence, to maintain order at all costs"
-likes: Obedience, festivals, public displays of happiness
-dislikes: Dissent, failure, anything that threatens his control or Vallaki's 'happiness'
+bond: >-
+  His family's legacy of ruling Vallaki, his desperate need to keep the town
+  safe from Strahd's influence
+flaw: >-
+  His denial of Vallaki's real problems and his tyrannical methods of enforcing
+  happiness
+goals: ' To keep Vallaki free from Strahd''s influence, to maintain order at all costs'
+likes: 'Obedience, festivals, public displays of happiness'
+dislikes: 'Dissent, failure, anything that threatens his control or Vallaki''s ''happiness'''
 ---
 
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
-> ![[4. World Almanac/NPCs/img/baron-vargas-vallakovich.webp|cover hm-sm]] 
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```
 > ###### Bio
 >  |
 >  ---|---|
@@ -106,7 +112,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 
 ## Stats
 ```statblock
-"name": "Baron Vargas Vallakovich (CoS)"
+"name": "Baron Vargas Vallakovich"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "human"
@@ -139,7 +145,7 @@ await dv.view("npcRelationships", { current: dv.current() })
   "name": "Parry"
 "source":
 - "CoS"
-"image": "4. World Almanac/NPCs/token/baron-vargas-vallakovich.png"
+"image": "4. World Almanac/NPCs/token/baron-vargas-vallakovich-cos.webp"
 ```
 ^statblock
 

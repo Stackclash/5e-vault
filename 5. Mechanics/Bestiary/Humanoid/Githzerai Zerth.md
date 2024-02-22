@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/6
-- monster/size/medium
-- monster/type/humanoid/gith
+  - compendium/src/5e/mm
+  - monster/cr/6
+  - monster/size/medium
+  - monster/type/humanoid/gith
 statblock: inline
-aliases: ["Githzerai Zerth"]
+aliases:
+  - Githzerai Zerth
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Githzerai Zerth.md|Githzerai Zerth]]
+# [[5. Mechanics\Bestiary\Humanoid\Githzerai Zerth.md|Githzerai Zerth]]
 *Source: Monster Manual p. 161*  
 
 Focused philosophers and austere ascetics, the githzerai pursue lives of rigid order. Lean and muscular, they wear unadorned clothing free of ornamentation, keeping their own counsel and trusting few creatures outside of their own kind. Having turned their backs on their warlike githyanki kin, the githzerai maintain a strict monastic lifestyle, dwelling on islands of order in the vast sea of chaos that is the plane of Limbo.
@@ -111,7 +112,7 @@ Whether these tall, gaunt creatures were peaceful or savage, cultured or primiti
 - "WDMM"
 - "SatO"
 - "ToFW"
-"image": "5. Mechanics/Bestiary/Humanoid/token/githzerai-zerth.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/githzerai-zerth.webp"
 ```
 ^statblock
 

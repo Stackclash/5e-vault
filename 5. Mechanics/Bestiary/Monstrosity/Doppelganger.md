@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/3
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/monstrosity/shapechanger
+  - compendium/src/5e/mm
+  - monster/cr/3
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/monstrosity/shapechanger
 statblock: inline
-aliases: ["Doppelganger"]
+aliases:
+  - Doppelganger
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Doppelganger.md|Doppelganger]]
+# [[5. Mechanics\Bestiary\Monstrosity\Doppelganger.md|Doppelganger]]
 *Source: Monster Manual p. 82. Available in the SRD and the Basic Rules.*  
 
 Doppelgangers are devious shapeshifters that take on the appearance of other humanoids, throwing off pursuit or luring victims to their doom with misdirection and disguise. Few creatures spread fear, suspicion, and deceit better than doppelgangers. Found in every land and culture, they can take on the guise of any individual of any race.
@@ -104,7 +105,7 @@ Doppelgangers are too lazy or self-interested to raise their young. They assume 
 - "ToFW"
 - "BMT"
 - "DoDk"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/doppelganger.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/doppelganger.webp"
 ```
 ^statblock
 
