@@ -27,7 +27,10 @@ prep-notes:
 `INPUT[textArea:summary]`
 
 ## Key Learnings
-- 
+- [[Ireena Kolyana]] is wanted by [[4. World Almanac/NPCs/Strahd Von Zarovich|Strahd Von Zarovich]] and has been bitten twice
+- [[Ismark Kolyanovich]] wants the party to take [[Ireena Kolyana]] to Vallaki
+- A wizard gathered town people to face against [[4. World Almanac/NPCs/Strahd Von Zarovich|Strahd Von Zarovich]] 
+- Donovich's son is a vampire spawn
 
 ## Items Of Importance
 N/A
