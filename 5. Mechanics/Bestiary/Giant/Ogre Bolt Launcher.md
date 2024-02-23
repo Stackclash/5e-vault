@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/2
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/size/large
-- monster/type/giant
+  - compendium/src/5e/mpmm
+  - monster/cr/2
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/size/large
+  - monster/type/giant
 statblock: inline
-aliases: ["Ogre Bolt Launcher"]
+aliases:
+  - Ogre Bolt Launcher
 ---
 # [[5. Mechanics\Bestiary\Giant\Ogre Bolt Launcher.md|Ogre Bolt Launcher]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 200, Mordenkainen's Tome of Foes p. 220*  

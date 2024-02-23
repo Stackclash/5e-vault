@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/8
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/humanoid/paladin
+  - compendium/src/5e/mpmm
+  - monster/cr/8
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/humanoid/paladin
 statblock: inline
-aliases: ["Blackguard"]
+aliases:
+  - Blackguard
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Blackguard.md|Blackguard]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 63*  

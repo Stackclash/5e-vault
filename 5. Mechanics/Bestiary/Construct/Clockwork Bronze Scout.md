@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/1
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/size/medium
-- monster/type/construct
+  - compendium/src/5e/mpmm
+  - monster/cr/1
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/size/medium
+  - monster/type/construct
 statblock: inline
-aliases: ["Clockwork Bronze Scout"]
+aliases:
+  - Clockwork Bronze Scout
 ---
 # [[5. Mechanics\Bestiary\Construct\Clockwork Bronze Scout.md|Clockwork Bronze Scout]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 79, Mordenkainen's Tome of Foes p. 125*  

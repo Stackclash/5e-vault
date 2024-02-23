@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vrgr
-aliases: ["Tragedy; Tragic Elements"]
+  - compendium/src/5e/vrgr
+aliases:
+  - Tragedy; Tragic Elements
 ---
 # Tragedy; Tragic Elements
 *Source: Van Richten's Guide to Ravenloft p. 148* 

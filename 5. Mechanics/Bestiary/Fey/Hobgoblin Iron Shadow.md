@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/2
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/size/medium
-- monster/type/fey/goblinoid
+  - compendium/src/5e/mpmm
+  - monster/cr/2
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/size/medium
+  - monster/type/fey/goblinoid
 statblock: inline
-aliases: ["Hobgoblin Iron Shadow"]
+aliases:
+  - Hobgoblin Iron Shadow
 ---
 # [[5. Mechanics\Bestiary\Fey\Hobgoblin Iron Shadow.md|Hobgoblin Iron Shadow]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 154*  

@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/cos
-- monster/cr/1-4
-- monster/size/medium
-- monster/type/humanoid/mongrelfolk
+  - compendium/src/5e/cos
+  - monster/cr/1-4
+  - monster/size/medium
+  - monster/type/humanoid/mongrelfolk
 statblock: inline
-aliases: ["Mongrelfolk"]
+aliases:
+  - Mongrelfolk
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Mongrelfolk.md|Mongrelfolk]]
 *Source: Curse of Strahd p. 234*  

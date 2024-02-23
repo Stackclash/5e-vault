@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/xge
-aliases: ["Underdark Encounters (Levels 5—10)"]
+  - compendium/src/5e/xge
+aliases:
+  - Underdark Encounters (Levels 5—10)
 ---
 # Underdark Encounters (Levels 5—10)
 *Source: Xanathar's Guide to Everything p. 106* 

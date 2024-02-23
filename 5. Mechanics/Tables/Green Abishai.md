@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhviii
-aliases: ["Green Abishai"]
+  - compendium/src/5e/hhhviii
+aliases:
+  - Green Abishai
 ---
 # Green Abishai
 *Source: Hamund's Harvesting Handbook: Volume III p. 30* 

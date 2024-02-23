@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/gear/tools
-aliases: 
-- "Harvesting Kit"
+  - compendium/src/5e/hhhvi
+  - item/gear/tools
+aliases:
+  - Harvesting Kit
 cost: 3000
 ---
 # Harvesting Kit

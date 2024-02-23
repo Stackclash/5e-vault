@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/cos
-- monster/cr/1
-- monster/size/medium
-- monster/type/construct
+  - compendium/src/5e/cos
+  - monster/cr/1
+  - monster/size/medium
+  - monster/type/construct
 statblock: inline
-aliases: ["Guardian Portrait"]
+aliases:
+  - Guardian Portrait
 ---
 # [[5. Mechanics\Bestiary\Construct\Guardian Portrait.md|Guardian Portrait]]
 *Source: Curse of Strahd p. 227*  

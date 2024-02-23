@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/2
-- monster/environment/forest
-- monster/environment/swamp
-- monster/environment/urban
-- monster/size/tiny
-- monster/type/undead
+  - compendium/src/5e/mm
+  - monster/cr/2
+  - monster/environment/forest
+  - monster/environment/swamp
+  - monster/environment/urban
+  - monster/size/tiny
+  - monster/type/undead
 statblock: inline
-aliases: ["Will-o'-Wisp"]
+aliases:
+  - Will-o'-Wisp
 ---
 # [[5. Mechanics\Bestiary\Undead\Will O Wisp.md|Will-o'-Wisp]]
 *Source: Monster Manual p. 301, Curse of Strahd. Available in the SRD.*  

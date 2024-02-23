@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/phb
-- feat
-aliases: ["Sentinel"]
+  - compendium/src/5e/phb
+  - feat
+aliases:
+  - Sentinel
 ---
 # Sentinel
 *Source: Player's Handbook p. 169*  

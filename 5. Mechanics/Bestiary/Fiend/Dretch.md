@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-4
-- monster/size/small
-- monster/type/fiend/demon
+  - compendium/src/5e/mm
+  - monster/cr/1-4
+  - monster/size/small
+  - monster/type/fiend/demon
 statblock: inline
-aliases: ["Dretch"]
+aliases:
+  - Dretch
 ---
 # [[5. Mechanics\Bestiary\Fiend\Dretch.md|Dretch]]
 *Source: Monster Manual p. 57, Curse of Strahd. Available in the SRD.*  

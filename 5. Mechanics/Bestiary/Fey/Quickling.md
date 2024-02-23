@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/1
-- monster/environment/forest
-- monster/size/tiny
-- monster/type/fey
+  - compendium/src/5e/mpmm
+  - monster/cr/1
+  - monster/environment/forest
+  - monster/size/tiny
+  - monster/type/fey
 statblock: inline
-aliases: ["Quickling"]
+aliases:
+  - Quickling
 ---
 # [[5. Mechanics\Bestiary\Fey\Quickling.md|Quickling]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 207*  

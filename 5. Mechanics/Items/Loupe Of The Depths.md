@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/attunement/required
-- item/property/crfby
-- item/rarity/legendary
-- item/wondrous
-aliases: 
-- "Loupe of the Depths"
+  - compendium/src/5e/hhhvi
+  - item/attunement/required
+  - item/property/crfby
+  - item/rarity/legendary
+  - item/wondrous
+aliases:
+  - Loupe of the Depths
 ---
 # Loupe of the Depths
 *Wondrous Item, legendary, Crafted by (requires attunement)*  

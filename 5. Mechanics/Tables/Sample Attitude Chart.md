@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/saf
-aliases: ["Sample Attitude Chart"]
+  - compendium/src/5e/saf
+aliases:
+  - Sample Attitude Chart
 ---
 # Sample Attitude Chart
 *Source: Strongholds and Followers* 

@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/5
-- monster/size/medium
-- monster/type/fiend/yugoloth
+  - compendium/src/5e/mm
+  - monster/cr/5
+  - monster/size/medium
+  - monster/type/fiend/yugoloth
 statblock: inline
-aliases: ["Mezzoloth"]
+aliases:
+  - Mezzoloth
 ---
 # [[5. Mechanics\Bestiary\Fiend\Mezzoloth.md|Mezzoloth]]
 *Source: Monster Manual p. 313*  

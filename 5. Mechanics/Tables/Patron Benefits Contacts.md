@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Patron Benefits; Contacts"]
+  - compendium/src/5e/erlw
+aliases:
+  - Patron Benefits; Contacts
 ---
 # Patron Benefits; Contacts
 *Source: Eberron: Rising from the Last War p. 86* 

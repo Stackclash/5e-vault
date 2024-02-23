@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/dmg
-- hazard/wld
-aliases: ["Frigid Water"]
+  - compendium/src/5e/dmg
+  - hazard/wld
+aliases:
+  - Frigid Water
 ---
 # Frigid Water
 *Wilderness Hazard*  

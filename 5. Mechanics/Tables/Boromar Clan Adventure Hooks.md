@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Boromar Clan Adventure Hooks"]
+  - compendium/src/5e/erlw
+aliases:
+  - Boromar Clan Adventure Hooks
 ---
 # Boromar Clan Adventure Hooks
 *Source: Eberron: Rising from the Last War p. 249* 

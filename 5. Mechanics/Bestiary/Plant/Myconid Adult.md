@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-2
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/plant
+  - compendium/src/5e/mm
+  - monster/cr/1-2
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/plant
 statblock: inline
-aliases: ["Myconid Adult"]
+aliases:
+  - Myconid Adult
 ---
 # [[5. Mechanics\Bestiary\Plant\Myconid Adult.md|Myconid Adult]]
 *Source: Monster Manual p. 232*  

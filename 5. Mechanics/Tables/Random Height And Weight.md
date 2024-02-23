@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Random Height and Weight"]
+  - compendium/src/5e/phb
+aliases:
+  - Random Height and Weight
 ---
 # Random Height and Weight
 *Source: Player's Handbook p. 121. Available in the Basic Rules.* 

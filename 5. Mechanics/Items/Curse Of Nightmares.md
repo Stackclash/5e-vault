@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/gear/curse
-- item/property/crfby
-- item/rarity/rare
-aliases: 
-- "Curse of Nightmares"
+  - compendium/src/5e/hhhvi
+  - item/gear/curse
+  - item/property/crfby
+  - item/rarity/rare
+aliases:
+  - Curse of Nightmares
 ---
 # Curse of Nightmares
 *Curse, rare, Crafted by*  

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/mpmm
-- race/githzerai
-aliases: ["Githzerai"]
+  - compendium/src/5e/mpmm
+  - race/githzerai
+aliases:
+  - Githzerai
 ---
 # Githzerai
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 19*  

@@ -2,18 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/22
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/size/gargantuan
-- monster/type/elemental
+  - compendium/src/5e/mpmm
+  - monster/cr/22
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/size/gargantuan
+  - monster/type/elemental
 statblock: inline
-aliases: ["Zaratan"]
+aliases:
+  - Zaratan
 ---
 # [[5. Mechanics\Bestiary\Elemental\Zaratan.md|Zaratan]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 278, Mordenkainen's Tome of Foes p. 201*  

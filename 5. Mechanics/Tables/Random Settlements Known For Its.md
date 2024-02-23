@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Random Settlements; Known For Its..."]
+  - compendium/src/5e/dmg
+aliases:
+  - Random Settlements; Known For Its...
 ---
 # Random Settlements; Known For Its...
 *Source: Dungeon Master's Guide p. 112* 

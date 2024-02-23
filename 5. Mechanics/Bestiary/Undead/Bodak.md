@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/6
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/undead
+  - compendium/src/5e/mpmm
+  - monster/cr/6
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
-aliases: ["Bodak"]
+aliases:
+  - Bodak
 ---
 # [[5. Mechanics\Bestiary\Undead\Bodak.md|Bodak]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 64*  

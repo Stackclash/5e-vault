@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/attunement/required
-- item/property/crfby
-- item/rarity/legendary
-- item/wondrous
-aliases: 
-- "Dragon Stone (Ancient)"
+  - compendium/src/5e/hhhvi
+  - item/attunement/required
+  - item/property/crfby
+  - item/rarity/legendary
+  - item/wondrous
+aliases:
+  - Dragon Stone (Ancient)
 ---
 # Dragon Stone (Ancient)
 *Wondrous Item, legendary, Crafted by (requires attunement)*  

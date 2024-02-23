@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Central Plateau: Important Districts"]
+  - compendium/src/5e/erlw
+aliases:
+  - 'Central Plateau: Important Districts'
 ---
 # Central Plateau: Important Districts
 *Source: Eberron: Rising from the Last War p. 161* 

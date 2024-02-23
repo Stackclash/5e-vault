@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/xge
-- subclass/ranger/horizon-walker
-aliases: ["Horizon Walker"]
+  - compendium/src/5e/xge
+  - subclass/ranger/horizon-walker
+aliases:
+  - Horizon Walker
 ---
 # Horizon Walker
 *[[Ranger.md\|Ranger]]: Ranger Archetype*  

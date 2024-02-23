@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/vrgr
-- monster/cr/1
-- monster/size/medium
-- monster/type/undead
+  - compendium/src/5e/vrgr
+  - monster/cr/1
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
-aliases: ["Boneless"]
+aliases:
+  - Boneless
 ---
 # [[5. Mechanics\Bestiary\Undead\Boneless.md|Boneless]]
 *Source: Van Richten's Guide to Ravenloft p. 228*  

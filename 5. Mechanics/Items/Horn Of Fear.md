@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvii
-- item/property/crfby
-- item/rarity/rare
-- item/wondrous
-aliases: 
-- "Horn of Fear"
+  - compendium/src/5e/hhhvii
+  - item/property/crfby
+  - item/rarity/rare
+  - item/wondrous
+aliases:
+  - Horn of Fear
 ---
 # Horn of Fear
 *Wondrous Item, rare, Crafted by*  

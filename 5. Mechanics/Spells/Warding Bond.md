@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer/battle-smith
-- spell/class/cleric
-- spell/class/cleric/peace-domain
-- spell/class/sorcerer/divine-soul
-- spell/level/2
-- spell/school/abjuration
-aliases: ["Warding Bond"]
+  - compendium/src/5e/phb
+  - spell/class/artificer/battle-smith
+  - spell/class/cleric
+  - spell/class/cleric/peace-domain
+  - spell/class/sorcerer/divine-soul
+  - spell/level/2
+  - spell/school/abjuration
+aliases:
+  - Warding Bond
 ---
 # Warding Bond
 %%-- Embedded content starts on the next line. --%%

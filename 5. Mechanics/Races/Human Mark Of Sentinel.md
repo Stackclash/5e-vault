@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/erlw
-- race/human/mark-of-sentinel
-aliases: ["Human (Mark of Sentinel)"]
+  - compendium/src/5e/erlw
+  - race/human/mark-of-sentinel
+aliases:
+  - Human (Mark of Sentinel)
 ---
 # Human (Mark of Sentinel)
 *Source: Eberron: Rising from the Last War p. 48*  

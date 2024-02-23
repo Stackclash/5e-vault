@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/hhhvii
-aliases:
-  - 'Chapter 6: Hamund''s Have-Nots'
+- compendium/src/5e/hhhvii
+aliases: ["Chapter 6: Hamund's Have-Nots"]
 ---
 # Chapter 6: Hamund's Have-Nots
 *Source: Hamund's Harvesting Handbook: Volume II, p. 72* 

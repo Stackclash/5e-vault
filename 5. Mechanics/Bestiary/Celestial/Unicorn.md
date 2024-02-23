@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/5
-- monster/environment/forest
-- monster/size/large
-- monster/type/celestial
+  - compendium/src/5e/mm
+  - monster/cr/5
+  - monster/environment/forest
+  - monster/size/large
+  - monster/type/celestial
 statblock: inline
-aliases: ["Unicorn"]
+aliases:
+  - Unicorn
 ---
 # [[5. Mechanics\Bestiary\Celestial\Unicorn.md|Unicorn]]
 *Source: Monster Manual p. 294, Tasha's Cauldron of Everything. Available in the SRD.*  

@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/6
-- monster/environment/desert
-- monster/size/medium
-- monster/type/monstrosity
+  - compendium/src/5e/mm
+  - monster/cr/6
+  - monster/environment/desert
+  - monster/size/medium
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Medusa"]
+aliases:
+  - Medusa
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Medusa.md|Medusa]]
 *Source: Monster Manual p. 214, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  

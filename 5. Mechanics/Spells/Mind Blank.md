@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/wizard
-- spell/level/8
-- spell/school/abjuration
-aliases: ["Mind Blank"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/wizard
+  - spell/level/8
+  - spell/school/abjuration
+aliases:
+  - Mind Blank
 ---
 # Mind Blank
 %%-- Embedded content starts on the next line. --%%

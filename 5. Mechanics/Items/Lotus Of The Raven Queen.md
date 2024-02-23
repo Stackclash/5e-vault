@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhbh
-- item/gear/herb
-- item/property/hrb
-- item/rarity/rare
-aliases: 
-- "Lotus of the Raven Queen"
+  - compendium/src/5e/hhbh
+  - item/gear/herb
+  - item/property/hrb
+  - item/rarity/rare
+aliases:
+  - Lotus of the Raven Queen
 cost: 50000
 ---
 # Lotus of the Raven Queen

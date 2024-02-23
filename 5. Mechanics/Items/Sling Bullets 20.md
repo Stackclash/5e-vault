@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/weapon/ammunition
-aliases: 
-- "Sling Bullets (20)"
+  - compendium/src/5e/phb
+  - item/weapon/ammunition
+aliases:
+  - Sling Bullets (20)
 cost: 4
 ---
 # Sling Bullets (20)

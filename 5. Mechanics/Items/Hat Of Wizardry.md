@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/xge
-- item/attunement/required
-- item/rarity/common
-- item/tier/minor
-- item/wondrous
-aliases: 
-- "Hat of Wizardry"
+  - compendium/src/5e/xge
+  - item/attunement/required
+  - item/rarity/common
+  - item/tier/minor
+  - item/wondrous
+aliases:
+  - Hat of Wizardry
 ---
 # Hat of Wizardry
 *Wondrous Item, minor, common (requires attunement by a wizard)*  

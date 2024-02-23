@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/9
-- monster/environment/desert
-- monster/environment/urban
-- monster/size/medium
-- monster/type/humanoid
+  - compendium/src/5e/mpmm
+  - monster/cr/9
+  - monster/environment/desert
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/humanoid
 statblock: inline
-aliases: ["Champion"]
+aliases:
+  - Champion
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Champion.md|Champion]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 74*  

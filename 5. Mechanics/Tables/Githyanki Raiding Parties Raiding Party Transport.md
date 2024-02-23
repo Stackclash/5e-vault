@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/mtf
-aliases: ["Githyanki Raiding Parties; Raiding Party Transport"]
+  - compendium/src/5e/mtf
+aliases:
+  - Githyanki Raiding Parties; Raiding Party Transport
 ---
 # Githyanki Raiding Parties; Raiding Party Transport
 *Source: Mordenkainen's Tome of Foes p. 98* 

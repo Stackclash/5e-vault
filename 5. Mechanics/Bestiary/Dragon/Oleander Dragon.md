@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/saf
-- monster/cr/8
-- monster/size/large
-- monster/type/dragon
+  - compendium/src/5e/saf
+  - monster/cr/8
+  - monster/size/large
+  - monster/type/dragon
 statblock: inline
-aliases: ["Oleander Dragon"]
+aliases:
+  - Oleander Dragon
 ---
 # [[5. Mechanics\Bestiary\Dragon\Oleander Dragon.md|Oleander Dragon]]
 *Source: Strongholds and Followers p. 182*  

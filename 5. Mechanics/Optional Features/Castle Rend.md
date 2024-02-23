@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/saf
-- optional-feature/unit
-aliases: ["Castle Rend"]
+  - compendium/src/5e/saf
+  - optional-feature/unit
+aliases:
+  - Castle Rend
 ---
 # Castle Rend
 *Source: Strongholds and Followers p. 148*  

@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/saf
-- monster/cr/7
-- monster/size/medium
-- monster/type/fiend/devil
+  - compendium/src/5e/saf
+  - monster/cr/7
+  - monster/size/medium
+  - monster/type/fiend/devil
 statblock: inline
-aliases: ["Lesser Erinyes"]
+aliases:
+  - Lesser Erinyes
 ---
 # [[5. Mechanics\Bestiary\Fiend\Lesser Erinyes.md|Lesser Erinyes]]
 *Source: Strongholds and Followers p. 153*  

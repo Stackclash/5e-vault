@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/armor/shield
-- item/attunement/required
-- item/property/crfby
-- item/rarity/rare
-aliases: 
-- "Serpent Shield"
+  - compendium/src/5e/hhhvi
+  - item/armor/shield
+  - item/attunement/required
+  - item/property/crfby
+  - item/rarity/rare
+aliases:
+  - Serpent Shield
 ---
 # Serpent Shield
 *Shield, rare, Crafted by (requires attunement)*  

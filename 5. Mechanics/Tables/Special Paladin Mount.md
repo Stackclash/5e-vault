@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/saf
-aliases: ["Special Paladin Mount"]
+  - compendium/src/5e/saf
+aliases:
+  - Special Paladin Mount
 ---
 # Special Paladin Mount
 *Source: Strongholds and Followers* 

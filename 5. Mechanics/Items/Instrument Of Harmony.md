@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/attunement/required
-- item/gear/instrument
-- item/property/crfby
-- item/rarity/rare
-aliases: 
-- "Instrument of Harmony"
+  - compendium/src/5e/hhhvi
+  - item/attunement/required
+  - item/gear/instrument
+  - item/property/crfby
+  - item/rarity/rare
+aliases:
+  - Instrument of Harmony
 ---
 # Instrument of Harmony
 *Instrument, rare, Crafted by (requires attunement by a character with proficiency in at least one stringed instrument)*  

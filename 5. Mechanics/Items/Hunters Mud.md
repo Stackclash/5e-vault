@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhbh
-- item/gear/herb
-- item/property/hrb
-- item/rarity/common
-aliases: 
-- "Hunter's Mud"
+  - compendium/src/5e/hhbh
+  - item/gear/herb
+  - item/property/hrb
+  - item/rarity/common
+aliases:
+  - Hunter's Mud
 cost: 100
 ---
 # Hunter's Mud

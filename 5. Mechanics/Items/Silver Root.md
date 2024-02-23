@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhbh
-- item/gear/herb
-- item/property/hrb
-- item/rarity/rare
-aliases: 
-- "Silver Root"
+  - compendium/src/5e/hhbh
+  - item/gear/herb
+  - item/property/hrb
+  - item/rarity/rare
+aliases:
+  - Silver Root
 cost: 2000
 ---
 # Silver Root

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhviii
-aliases: ["Duergar Screamer"]
+  - compendium/src/5e/hhhviii
+aliases:
+  - Duergar Screamer
 ---
 # Duergar Screamer
 *Source: Hamund's Harvesting Handbook: Volume III p. 40* 

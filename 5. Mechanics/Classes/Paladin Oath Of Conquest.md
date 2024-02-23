@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/xge
-- subclass/paladin/conquest
-aliases: ["Oath of Conquest"]
+  - compendium/src/5e/xge
+  - subclass/paladin/conquest
+aliases:
+  - Oath of Conquest
 ---
 # Oath of Conquest
 *[[Paladin.md\|Paladin]]: Sacred Oath*  

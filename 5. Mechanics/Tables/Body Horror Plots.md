@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vrgr
-aliases: ["Body Horror Plots"]
+  - compendium/src/5e/vrgr
+aliases:
+  - Body Horror Plots
 ---
 # Body Horror Plots
 *Source: Van Richten's Guide to Ravenloft p. 47* 

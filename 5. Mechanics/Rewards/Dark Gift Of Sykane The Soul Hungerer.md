@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/cos
-- reward/charm
-aliases: ["Dark Gift of Sykane, the Soul Hungerer"]
+  - compendium/src/5e/cos
+  - reward/charm
+aliases:
+  - 'Dark Gift of Sykane, the Soul Hungerer'
 ---
 # Dark Gift of Sykane, the Soul Hungerer
 *Charm*  

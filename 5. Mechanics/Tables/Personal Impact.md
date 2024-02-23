@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Personal Impact"]
+  - compendium/src/5e/erlw
+aliases:
+  - Personal Impact
 ---
 # Personal Impact
 *Source: Eberron: Rising from the Last War p. 206* 

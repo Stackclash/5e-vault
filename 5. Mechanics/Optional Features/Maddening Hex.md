@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/xge
-- optional-feature/ei
-aliases: ["Maddening Hex"]
+  - compendium/src/5e/xge
+  - optional-feature/ei
+aliases:
+  - Maddening Hex
 ---
 # Maddening Hex
 *Source: Xanathar's Guide to Everything p. 57*  

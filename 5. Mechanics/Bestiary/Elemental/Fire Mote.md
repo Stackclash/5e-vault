@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/saf
-- monster/cr/5
-- monster/size/small
-- monster/type/elemental
+  - compendium/src/5e/saf
+  - monster/cr/5
+  - monster/size/small
+  - monster/type/elemental
 statblock: inline
-aliases: ["Fire Mote"]
+aliases:
+  - Fire Mote
 ---
 # [[5. Mechanics\Bestiary\Elemental\Fire Mote.md|Fire Mote]]
 *Source: Strongholds and Followers p. 186*  

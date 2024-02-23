@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/xge
-- subclass/bard/glamour
-aliases: ["College of Glamour"]
+  - compendium/src/5e/xge
+  - subclass/bard/glamour
+aliases:
+  - College of Glamour
 ---
 # College of Glamour
 *[[Bard.md\|Bard]]: Bard College*  

@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/saf
-- monster/cr/2
-- monster/size/medium
-- monster/type/dragon
+  - compendium/src/5e/saf
+  - monster/cr/2
+  - monster/size/medium
+  - monster/type/dragon
 statblock: inline
-aliases: ["Topaz Wyrmling"]
+aliases:
+  - Topaz Wyrmling
 ---
 # [[5. Mechanics\Bestiary\Dragon\Topaz Wyrmling.md|Topaz Wyrmling]]
 *Source: Strongholds and Followers p. 219*  

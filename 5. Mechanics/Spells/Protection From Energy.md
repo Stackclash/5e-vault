@@ -2,25 +2,26 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer
-- spell/class/cleric
-- spell/class/cleric/forge-domain
-- spell/class/druid
-- spell/class/druid/circle-of-the-land
-- spell/class/fighter/eldritch-knight
-- spell/class/paladin/oath-of-glory
-- spell/class/paladin/oath-of-the-ancients
-- spell/class/paladin/oath-of-vengeance
-- spell/class/ranger
-- spell/class/rogue/arcane-trickster
-- spell/class/sorcerer
-- spell/class/sorcerer/clockwork-soul
-- spell/class/sorcerer/divine-soul
-- spell/class/wizard
-- spell/level/3
-- spell/school/abjuration
-aliases: ["Protection from Energy"]
+  - compendium/src/5e/phb
+  - spell/class/artificer
+  - spell/class/cleric
+  - spell/class/cleric/forge-domain
+  - spell/class/druid
+  - spell/class/druid/circle-of-the-land
+  - spell/class/fighter/eldritch-knight
+  - spell/class/paladin/oath-of-glory
+  - spell/class/paladin/oath-of-the-ancients
+  - spell/class/paladin/oath-of-vengeance
+  - spell/class/ranger
+  - spell/class/rogue/arcane-trickster
+  - spell/class/sorcerer
+  - spell/class/sorcerer/clockwork-soul
+  - spell/class/sorcerer/divine-soul
+  - spell/class/wizard
+  - spell/level/3
+  - spell/school/abjuration
+aliases:
+  - Protection from Energy
 ---
 # Protection from Energy
 %%-- Embedded content starts on the next line. --%%

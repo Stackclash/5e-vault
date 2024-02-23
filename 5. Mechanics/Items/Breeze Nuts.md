@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhbh
-- item/gear/herb
-- item/property/hrb
-- item/rarity/common
-aliases: 
-- "Breeze Nuts"
+  - compendium/src/5e/hhbh
+  - item/gear/herb
+  - item/property/hrb
+  - item/rarity/common
+aliases:
+  - Breeze Nuts
 cost: 100
 ---
 # Breeze Nuts

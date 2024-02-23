@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/xge
-- spell/class/artificer
-- spell/class/fighter/eldritch-knight
-- spell/class/rogue/arcane-trickster
-- spell/class/wizard
-- spell/level/3
-- spell/school/transmutation
-aliases: ["Tiny Servant"]
+  - compendium/src/5e/xge
+  - spell/class/artificer
+  - spell/class/fighter/eldritch-knight
+  - spell/class/rogue/arcane-trickster
+  - spell/class/wizard
+  - spell/level/3
+  - spell/school/transmutation
+aliases:
+  - Tiny Servant
 ---
 # Tiny Servant
 %%-- Embedded content starts on the next line. --%%

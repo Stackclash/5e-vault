@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-deck
 tags:
-- compendium/src/5e/dmg
-aliases: ["Deck of Many Things"]
+  - compendium/src/5e/dmg
+aliases:
+  - Deck of Many Things
 ---
 # Deck of Many Things
 *Source: Dungeon Master's Guide p. 162. Available in the SRD.*  

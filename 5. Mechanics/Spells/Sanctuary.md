@@ -2,18 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer
-- spell/class/cleric
-- spell/class/cleric/peace-domain
-- spell/class/monk/way-of-the-open-hand
-- spell/class/paladin/oath-of-devotion
-- spell/class/paladin/oath-of-redemption
-- spell/class/sorcerer/divine-soul
-- spell/class/warlock/the-genie
-- spell/level/1
-- spell/school/abjuration
-aliases: ["Sanctuary"]
+  - compendium/src/5e/phb
+  - spell/class/artificer
+  - spell/class/cleric
+  - spell/class/cleric/peace-domain
+  - spell/class/monk/way-of-the-open-hand
+  - spell/class/paladin/oath-of-devotion
+  - spell/class/paladin/oath-of-redemption
+  - spell/class/sorcerer/divine-soul
+  - spell/class/warlock/the-genie
+  - spell/level/1
+  - spell/school/abjuration
+aliases:
+  - Sanctuary
 ---
 # Sanctuary
 %%-- Embedded content starts on the next line. --%%

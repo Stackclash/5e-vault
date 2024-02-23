@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/tce
-- item/attunement/required
-- item/rarity/rare
-- item/wondrous
-aliases: 
-- "Elemental Essence Shard (Fire)"
+  - compendium/src/5e/tce
+  - item/attunement/required
+  - item/rarity/rare
+  - item/wondrous
+aliases:
+  - Elemental Essence Shard (Fire)
 ---
 # Elemental Essence Shard (Fire)
 *Wondrous Item, rare (requires attunement by a sorcerer)*  

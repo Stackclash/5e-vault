@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvii
-aliases: ["Ki-Rin"]
+  - compendium/src/5e/hhhvii
+aliases:
+  - Ki-Rin
 ---
 # Ki-Rin
 *Source: Hamund's Harvesting Handbook: Volume II p. 28* 

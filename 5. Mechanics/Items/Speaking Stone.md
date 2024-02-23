@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/erlw
-- item/rarity/very-rare
-- item/wondrous
-aliases: 
-- "Speaking Stone"
+  - compendium/src/5e/erlw
+  - item/rarity/very-rare
+  - item/wondrous
+aliases:
+  - Speaking Stone
 ---
 # Speaking Stone
 *Wondrous Item, very rare*  

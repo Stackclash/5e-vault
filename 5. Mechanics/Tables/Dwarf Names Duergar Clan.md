@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/xge
-aliases: ["Dwarf Names – Duergar Clan"]
+  - compendium/src/5e/xge
+aliases:
+  - Dwarf Names – Duergar Clan
 ---
 # Dwarf Names – Duergar Clan
 *Source: Xanathar's Guide to Everything p. 176* 

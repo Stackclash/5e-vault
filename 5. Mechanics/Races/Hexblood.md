@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/vrgr
-- race/hexblood
-aliases: ["Hexblood"]
+  - compendium/src/5e/vrgr
+  - race/hexblood
+aliases:
+  - Hexblood
 ---
 # Hexblood
 *Source: Van Richten's Guide to Ravenloft p. 18*  

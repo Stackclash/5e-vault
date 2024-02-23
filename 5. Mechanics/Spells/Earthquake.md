@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/class/druid
-- spell/class/sorcerer
-- spell/class/sorcerer/divine-soul
-- spell/level/8
-- spell/school/evocation
-aliases: ["Earthquake"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/class/druid
+  - spell/class/sorcerer
+  - spell/class/sorcerer/divine-soul
+  - spell/level/8
+  - spell/school/evocation
+aliases:
+  - Earthquake
 ---
 # Earthquake
 %%-- Embedded content starts on the next line. --%%

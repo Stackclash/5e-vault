@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Flesh Golem"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Flesh Golem
 ---
 # Flesh Golem
 *Source: Hamund's Harvesting Handbook: Volume I p. 58* 

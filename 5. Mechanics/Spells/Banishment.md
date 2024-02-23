@@ -2,22 +2,23 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/class/fighter/eldritch-knight
-- spell/class/paladin
-- spell/class/paladin/oath-of-the-watchers
-- spell/class/paladin/oath-of-vengeance
-- spell/class/ranger/horizon-walker
-- spell/class/ranger/monster-slayer
-- spell/class/rogue/arcane-trickster
-- spell/class/sorcerer
-- spell/class/sorcerer/divine-soul
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/4
-- spell/school/abjuration
-aliases: ["Banishment"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/class/fighter/eldritch-knight
+  - spell/class/paladin
+  - spell/class/paladin/oath-of-the-watchers
+  - spell/class/paladin/oath-of-vengeance
+  - spell/class/ranger/horizon-walker
+  - spell/class/ranger/monster-slayer
+  - spell/class/rogue/arcane-trickster
+  - spell/class/sorcerer
+  - spell/class/sorcerer/divine-soul
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/4
+  - spell/school/abjuration
+aliases:
+  - Banishment
 ---
 # Banishment
 %%-- Embedded content starts on the next line. --%%

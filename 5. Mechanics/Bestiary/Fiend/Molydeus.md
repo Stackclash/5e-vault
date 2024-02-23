@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/21
-- monster/size/huge
-- monster/type/fiend/demon
+  - compendium/src/5e/mpmm
+  - monster/cr/21
+  - monster/size/huge
+  - monster/type/fiend/demon
 statblock: inline
-aliases: ["Molydeus"]
+aliases:
+  - Molydeus
 ---
 # [[5. Mechanics\Bestiary\Fiend\Molydeus.md|Molydeus]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 184, Mordenkainen's Tome of Foes p. 134*  

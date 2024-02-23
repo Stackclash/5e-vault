@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/hhhvi
-- feat
-aliases: ["Resourceful"]
+  - compendium/src/5e/hhhvi
+  - feat
+aliases:
+  - Resourceful
 ---
 # Resourceful
 *Source: Hamund's Harvesting Handbook: Volume I p. 146*  

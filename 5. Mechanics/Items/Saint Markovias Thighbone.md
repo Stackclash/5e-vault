@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/cos
-- item/attunement/required
-- item/rarity/rare
-- item/weapon/simple/melee
-aliases: 
-- "Saint Markovia's Thighbone"
+  - compendium/src/5e/cos
+  - item/attunement/required
+  - item/rarity/rare
+  - item/weapon/simple/melee
+aliases:
+  - Saint Markovia's Thighbone
 ---
 # Saint Markovia's Thighbone
 *Melee Weapon, rare (requires attunement)*  

@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/tce
-- item/attunement/required
-- item/rarity/rare
-- item/wondrous
-aliases: 
-- "Protective Verses"
+  - compendium/src/5e/tce
+  - item/attunement/required
+  - item/rarity/rare
+  - item/wondrous
+aliases:
+  - Protective Verses
 ---
 # Protective Verses
 *Wondrous Item, rare (requires attunement by a wizard)*  

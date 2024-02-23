@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/mtf
-aliases: ["Duergar Raiding Parties; Duergar Special Allies"]
+  - compendium/src/5e/mtf
+aliases:
+  - Duergar Raiding Parties; Duergar Special Allies
 ---
 # Duergar Raiding Parties; Duergar Special Allies
 *Source: Mordenkainen's Tome of Foes p. 83* 

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vrgr
-aliases: ["Meeting the Darklord; Favors for Harkon Lukas"]
+  - compendium/src/5e/vrgr
+aliases:
+  - Meeting the Darklord; Favors for Harkon Lukas
 ---
 # Meeting the Darklord; Favors for Harkon Lukas
 *Source: Van Richten's Guide to Ravenloft p. 136* 

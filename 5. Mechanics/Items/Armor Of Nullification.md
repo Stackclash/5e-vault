@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/armor/heavy
-- item/attunement/required
-- item/property/crfby
-- item/rarity/legendary
-aliases: 
-- "Armor of Nullification"
+  - compendium/src/5e/hhhviii
+  - item/armor/heavy
+  - item/attunement/required
+  - item/property/crfby
+  - item/rarity/legendary
+aliases:
+  - Armor of Nullification
 ---
 # Armor of Nullification
 *Heavy Armor, legendary, Crafted by (requires attunement)*  

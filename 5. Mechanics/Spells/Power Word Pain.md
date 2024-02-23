@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/xge
-- spell/class/sorcerer
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/7
-- spell/school/enchantment
-aliases: ["Power Word Pain"]
+  - compendium/src/5e/xge
+  - spell/class/sorcerer
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/7
+  - spell/school/enchantment
+aliases:
+  - Power Word Pain
 ---
 # Power Word Pain
 %%-- Embedded content starts on the next line. --%%

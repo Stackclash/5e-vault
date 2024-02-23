@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Dragonmarked House Adventure Hooks"]
+  - compendium/src/5e/erlw
+aliases:
+  - Dragonmarked House Adventure Hooks
 ---
 # Dragonmarked House Adventure Hooks
 *Source: Eberron: Rising from the Last War p. 192* 

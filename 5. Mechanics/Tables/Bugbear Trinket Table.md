@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Bugbear Trinket Table"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Bugbear Trinket Table
 ---
 # Bugbear Trinket Table
 *Source: Hamund's Harvesting Handbook: Volume I p. 15* 

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vrgr
-aliases: ["Connection to Strahd; Hunting Strahd"]
+  - compendium/src/5e/vrgr
+aliases:
+  - Connection to Strahd; Hunting Strahd
 ---
 # Connection to Strahd; Hunting Strahd
 *Source: Van Richten's Guide to Ravenloft p. 70* 

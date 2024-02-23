@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/xge
-- feat
-aliases: ["Squat Nimbleness"]
+  - compendium/src/5e/xge
+  - feat
+aliases:
+  - Squat Nimbleness
 ---
 # Squat Nimbleness
 *Source: Xanathar's Guide to Everything p. 75*  

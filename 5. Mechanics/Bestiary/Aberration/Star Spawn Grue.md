@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/1-4
-- monster/environment/mountain
-- monster/environment/swamp
-- monster/size/small
-- monster/type/aberration
+  - compendium/src/5e/mpmm
+  - monster/cr/1-4
+  - monster/environment/mountain
+  - monster/environment/swamp
+  - monster/size/small
+  - monster/type/aberration
 statblock: inline
-aliases: ["Star Spawn Grue"]
+aliases:
+  - Star Spawn Grue
 ---
 # [[5. Mechanics\Bestiary\Aberration\Star Spawn Grue.md|Star Spawn Grue]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 227, Mordenkainen's Tome of Foes p. 234*  

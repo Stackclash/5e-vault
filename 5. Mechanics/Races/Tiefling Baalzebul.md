@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/mtf
-- race/tiefling/baalzebul
-aliases: ["Tiefling (Baalzebul)"]
+  - compendium/src/5e/mtf
+  - race/tiefling/baalzebul
+aliases:
+  - Tiefling (Baalzebul)
 ---
 # Tiefling (Baalzebul)
 *Source: Mordenkainen's Tome of Foes p. 21*  

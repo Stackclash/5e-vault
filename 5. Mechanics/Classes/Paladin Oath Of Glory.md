@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/tce
-- subclass/paladin/glory
-aliases: ["Oath of Glory"]
+  - compendium/src/5e/tce
+  - subclass/paladin/glory
+aliases:
+  - Oath of Glory
 ---
 # Oath of Glory
 *[[Paladin.md\|Paladin]]: Sacred Oath*  

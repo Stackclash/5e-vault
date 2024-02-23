@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/6
-- monster/size/medium
-- monster/type/humanoid/gith
+  - compendium/src/5e/mm
+  - monster/cr/6
+  - monster/size/medium
+  - monster/type/humanoid/gith
 statblock: inline
-aliases: ["Githzerai Zerth"]
+aliases:
+  - Githzerai Zerth
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Githzerai Zerth.md|Githzerai Zerth]]
 *Source: Monster Manual p. 161*  

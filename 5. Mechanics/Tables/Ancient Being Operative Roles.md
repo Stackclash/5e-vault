@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/tce
-aliases: ["Ancient Being Operative Roles"]
+  - compendium/src/5e/tce
+aliases:
+  - Ancient Being Operative Roles
 ---
 # Ancient Being Operative Roles
 *Source: Tasha's Cauldron of Everything p. 88* 

@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/armor/heavy
-- item/property/crfby
-- item/rarity/very-rare
-aliases: 
-- "Terminator Armor"
+  - compendium/src/5e/hhhviii
+  - item/armor/heavy
+  - item/property/crfby
+  - item/rarity/very-rare
+aliases:
+  - Terminator Armor
 ---
 # Terminator Armor
 *Heavy Armor, very rare, Crafted by*  

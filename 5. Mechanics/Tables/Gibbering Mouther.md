@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Gibbering Mouther"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Gibbering Mouther
 ---
 # Gibbering Mouther
 *Source: Hamund's Harvesting Handbook: Volume I p. 53* 

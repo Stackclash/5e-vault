@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/erlw
-- item/attunement/required
-- item/rarity/common
-- item/wondrous/wondrous-item
-aliases: 
-- "Imbued Wood (Shavarran Birch)"
-- "Shavarran Birch Rod"
-- "Shavarran Birch Wand"
-- "Shavarran Birch Staff"
+  - compendium/src/5e/erlw
+  - item/attunement/required
+  - item/rarity/common
+  - item/wondrous/wondrous-item
+aliases:
+  - Imbued Wood (Shavarran Birch)
+  - Shavarran Birch Rod
+  - Shavarran Birch Wand
+  - Shavarran Birch Staff
 ---
 # Imbued Wood (Shavarran Birch)
 *Generic Variant, common (requires attunement)*  

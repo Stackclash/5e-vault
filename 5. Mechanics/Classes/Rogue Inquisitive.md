@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/xge
-- subclass/rogue/inquisitive
-aliases: ["Inquisitive"]
+  - compendium/src/5e/xge
+  - subclass/rogue/inquisitive
+aliases:
+  - Inquisitive
 ---
 # Inquisitive
 *[[Rogue.md\|Rogue]]: Roguish Archetype*  

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/hhhviii
-- subclass/warlock/apex-predator
-aliases: ["The Apex Predator"]
+  - compendium/src/5e/hhhviii
+  - subclass/warlock/apex-predator
+aliases:
+  - The Apex Predator
 ---
 # The Apex Predator
 *[[Warlock.md\|Warlock]]: Otherworldly Patron*  

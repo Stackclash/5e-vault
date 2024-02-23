@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["National Affairs; Cyran Affairs"]
+  - compendium/src/5e/erlw
+aliases:
+  - National Affairs; Cyran Affairs
 ---
 # National Affairs; Cyran Affairs
 *Source: Eberron: Rising from the Last War p. 81* 

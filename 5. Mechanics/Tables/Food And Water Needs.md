@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Food and Water Needs"]
+  - compendium/src/5e/dmg
+aliases:
+  - Food and Water Needs
 ---
 # Food and Water Needs
 *Source: Dungeon Master's Guide p. 111* 

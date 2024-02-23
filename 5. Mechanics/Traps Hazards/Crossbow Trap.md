@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/xge
-- hazard/smpl
-aliases: ["Crossbow Trap"]
+  - compendium/src/5e/xge
+  - hazard/smpl
+aliases:
+  - Crossbow Trap
 ---
 # Crossbow Trap
 *Generic Hazard*  

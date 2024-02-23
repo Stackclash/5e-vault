@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Find the Ideal Introduction; Adventure Introduction"]
+  - compendium/src/5e/dmg
+aliases:
+  - Find the Ideal Introduction; Adventure Introduction
 ---
 # Find the Ideal Introduction; Adventure Introduction
 *Source: Dungeon Master's Guide p. 74* 

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Shadowfell Despair"]
+  - compendium/src/5e/dmg
+aliases:
+  - Shadowfell Despair
 ---
 # Shadowfell Despair
 *Source: Dungeon Master's Guide p. 52* 

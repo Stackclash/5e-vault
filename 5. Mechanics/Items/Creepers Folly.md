@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhbh
-- item/gear/herb
-- item/property/hrb
-- item/rarity/rare
-aliases: 
-- "Creeper's Folly"
+  - compendium/src/5e/hhbh
+  - item/gear/herb
+  - item/property/hrb
+  - item/rarity/rare
+aliases:
+  - Creeper's Folly
 cost: 10000
 ---
 # Creeper's Folly

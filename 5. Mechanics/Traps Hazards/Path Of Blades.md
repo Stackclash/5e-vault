@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/xge
-- hazard/cmpx
-aliases: ["Path of Blades"]
+  - compendium/src/5e/xge
+  - hazard/cmpx
+aliases:
+  - Path of Blades
 ---
 # Path of Blades
 *Generic Hazard*  

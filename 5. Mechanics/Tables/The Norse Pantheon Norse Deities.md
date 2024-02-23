@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["The Norse Pantheon; Norse Deities"]
+  - compendium/src/5e/phb
+aliases:
+  - The Norse Pantheon; Norse Deities
 ---
 # The Norse Pantheon; Norse Deities
 *Source: Player's Handbook p. 298. Available in the SRD.* 

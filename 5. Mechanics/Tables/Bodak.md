@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvii
-aliases: ["Bodak"]
+  - compendium/src/5e/hhhvii
+aliases:
+  - Bodak
 ---
 # Bodak
 *Source: Hamund's Harvesting Handbook: Volume II p. 10* 

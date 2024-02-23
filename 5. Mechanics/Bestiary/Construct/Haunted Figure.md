@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/hhhviii
-- monster/cr/
-- monster/size/tiny
-- monster/type/construct
+  - compendium/src/5e/hhhviii
+  - monster/cr/
+  - monster/size/tiny
+  - monster/type/construct
 statblock: inline
-aliases: ["Haunted Figure"]
+aliases:
+  - Haunted Figure
 ---
 # [[5. Mechanics\Bestiary\Construct\Haunted Figure.md|Haunted Figure]]
 *Source: Hamund's Harvesting Handbook: Volume III p. 89*  

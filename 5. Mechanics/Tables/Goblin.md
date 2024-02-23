@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Goblin"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Goblin
 ---
 # Goblin
 *Source: Hamund's Harvesting Handbook: Volume I p. 57* 

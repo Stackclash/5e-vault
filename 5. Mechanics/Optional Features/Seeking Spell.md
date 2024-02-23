@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/tce
-- optional-feature/mm
-aliases: ["Seeking Spell"]
+  - compendium/src/5e/tce
+  - optional-feature/mm
+aliases:
+  - Seeking Spell
 ---
 # Seeking Spell
 *Source: Tasha's Cauldron of Everything p. 66*  

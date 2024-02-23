@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvii
-aliases: ["Neogi Hatchling"]
+  - compendium/src/5e/hhhvii
+aliases:
+  - Neogi Hatchling
 ---
 # Neogi Hatchling
 *Source: Hamund's Harvesting Handbook: Volume II p. 34* 

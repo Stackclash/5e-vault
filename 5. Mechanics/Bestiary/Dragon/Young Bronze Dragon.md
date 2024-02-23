@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/8
-- monster/environment/coastal
-- monster/size/large
-- monster/type/dragon
+  - compendium/src/5e/mm
+  - monster/cr/8
+  - monster/environment/coastal
+  - monster/size/large
+  - monster/type/dragon
 statblock: inline
-aliases: ["Young Bronze Dragon"]
+aliases:
+  - Young Bronze Dragon
 ---
 # [[5. Mechanics\Bestiary\Dragon\Young Bronze Dragon.md|Young Bronze Dragon]]
 *Source: Monster Manual p. 108. Available in the SRD.*  

@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/very-rare
-- item/tier/minor
-- item/wondrous
-aliases: 
-- "Nolzur's Marvelous Pigments"
+  - compendium/src/5e/dmg
+  - item/rarity/very-rare
+  - item/tier/minor
+  - item/wondrous
+aliases:
+  - Nolzur's Marvelous Pigments
 ---
 # Nolzur's Marvelous Pigments
 *Wondrous Item, minor, very rare*  

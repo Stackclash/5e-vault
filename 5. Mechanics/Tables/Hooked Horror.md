@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Hooked Horror"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Hooked Horror
 ---
 # Hooked Horror
 *Source: Hamund's Harvesting Handbook: Volume I p. 66* 

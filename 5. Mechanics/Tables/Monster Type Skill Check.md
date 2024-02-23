@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Monster Type/Skill Check"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Monster Type/Skill Check
 ---
 # Monster Type/Skill Check
 *Source: Hamund's Harvesting Handbook: Volume I p. 4, Hamund's Harvesting Handbook: Volume II p. 4, Hamund's Harvesting Handbook: Volume III p. 4* 

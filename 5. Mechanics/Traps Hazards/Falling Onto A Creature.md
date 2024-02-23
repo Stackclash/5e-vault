@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/tce
-- hazard/wld
-aliases: ["Falling onto a Creature"]
+  - compendium/src/5e/tce
+  - hazard/wld
+aliases:
+  - Falling onto a Creature
 ---
 # Falling onto a Creature
 *Wilderness Hazard*  

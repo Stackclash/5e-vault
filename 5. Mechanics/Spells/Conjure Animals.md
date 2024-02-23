@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/druid
-- spell/class/ranger
-- spell/level/3
-- spell/school/conjuration
-aliases: ["Conjure Animals"]
+  - compendium/src/5e/phb
+  - spell/class/druid
+  - spell/class/ranger
+  - spell/level/3
+  - spell/school/conjuration
+aliases:
+  - Conjure Animals
 ---
 # Conjure Animals
 %%-- Embedded content starts on the next line. --%%

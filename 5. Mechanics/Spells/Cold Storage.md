@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/hhhvii
-- spell/class/cleric
-- spell/class/paladin
-- spell/class/sorcerer
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/4
-- spell/school/abjuration
-aliases: ["Cold Storage"]
+  - compendium/src/5e/hhhvii
+  - spell/class/cleric
+  - spell/class/paladin
+  - spell/class/sorcerer
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/4
+  - spell/school/abjuration
+aliases:
+  - Cold Storage
 ---
 # Cold Storage
 %%-- Embedded content starts on the next line. --%%

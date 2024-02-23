@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/hhhvii
-aliases:
-  - 'Chapter 4: Crafting'
+- compendium/src/5e/hhhvii
+aliases: ["Chapter 4: Crafting"]
 ---
 # Chapter 4: Crafting
 *Source: Hamund's Harvesting Handbook: Volume II, p. 49* 

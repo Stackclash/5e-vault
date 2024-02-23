@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/erlw
-- monster/cr/1-4
-- monster/size/medium
-- monster/type/humanoid/kalashtar
+  - compendium/src/5e/erlw
+  - monster/cr/1-4
+  - monster/size/medium
+  - monster/type/humanoid/kalashtar
 statblock: inline
-aliases: ["Kalashtar"]
+aliases:
+  - Kalashtar
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Kalashtar.md|Kalashtar]]
 *Source: Eberron: Rising from the Last War p. 317*  

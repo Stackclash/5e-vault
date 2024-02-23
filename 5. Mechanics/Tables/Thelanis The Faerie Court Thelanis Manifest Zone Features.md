@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Thelanis, the Faerie Court; Thelanis Manifest Zone Features"]
+  - compendium/src/5e/erlw
+aliases:
+  - 'Thelanis, the Faerie Court; Thelanis Manifest Zone Features'
 ---
 # Thelanis, the Faerie Court; Thelanis Manifest Zone Features
 *Source: Eberron: Rising from the Last War p. 232* 

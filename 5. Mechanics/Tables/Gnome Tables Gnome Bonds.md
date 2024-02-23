@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/mtf
-aliases: ["Gnome Tables; Gnome Bonds"]
+  - compendium/src/5e/mtf
+aliases:
+  - Gnome Tables; Gnome Bonds
 ---
 # Gnome Tables; Gnome Bonds
 *Source: Mordenkainen's Tome of Foes p. 114* 

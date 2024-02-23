@@ -2,18 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer/alchemist
-- spell/class/cleric/light-domain
-- spell/class/druid
-- spell/class/druid/circle-of-wildfire
-- spell/class/fighter/eldritch-knight
-- spell/class/rogue/arcane-trickster
-- spell/class/warlock/the-celestial
-- spell/class/wizard
-- spell/level/2
-- spell/school/conjuration
-aliases: ["Flaming Sphere"]
+  - compendium/src/5e/phb
+  - spell/class/artificer/alchemist
+  - spell/class/cleric/light-domain
+  - spell/class/druid
+  - spell/class/druid/circle-of-wildfire
+  - spell/class/fighter/eldritch-knight
+  - spell/class/rogue/arcane-trickster
+  - spell/class/warlock/the-celestial
+  - spell/class/wizard
+  - spell/level/2
+  - spell/school/conjuration
+aliases:
+  - Flaming Sphere
 ---
 # Flaming Sphere
 %%-- Embedded content starts on the next line. --%%

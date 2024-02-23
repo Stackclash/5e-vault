@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/property/crfby
-- item/rarity/common
-- item/wondrous/potion
-aliases: 
-- "Potion of Ruined Flesh"
+  - compendium/src/5e/hhhvi
+  - item/property/crfby
+  - item/rarity/common
+  - item/wondrous/potion
+aliases:
+  - Potion of Ruined Flesh
 ---
 # Potion of Ruined Flesh
 *Potion, common, Crafted by*  

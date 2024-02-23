@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/tce
-- monster/cr/0
-- monster/size/tiny
-- monster/type/monstrosity/shapechanger
+  - compendium/src/5e/tce
+  - monster/cr/0
+  - monster/size/tiny
+  - monster/type/monstrosity/shapechanger
 statblock: inline
-aliases: ["Juvenile Mimic"]
+aliases:
+  - Juvenile Mimic
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Juvenile Mimic.md|Juvenile Mimic]]
 *Source: Tasha's Cauldron of Everything p. 167*  

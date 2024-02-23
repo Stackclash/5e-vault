@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/wealth/gemstone
-aliases: 
-- "Azurite"
+  - compendium/src/5e/dmg
+  - item/wealth/gemstone
+aliases:
+  - Azurite
 cost: 1000
 ---
 # Azurite

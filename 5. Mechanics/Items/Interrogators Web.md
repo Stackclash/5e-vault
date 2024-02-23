@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvii
-- item/property/crfby
-- item/property/martial
-- item/property/special
-- item/property/thrown
-- item/rarity/rare
-- item/weapon/martial/ranged
-aliases: 
-- "Interrogator's Web"
+  - compendium/src/5e/hhhvii
+  - item/property/crfby
+  - item/property/martial
+  - item/property/special
+  - item/property/thrown
+  - item/rarity/rare
+  - item/weapon/martial/ranged
+aliases:
+  - Interrogator's Web
 ---
 # Interrogator's Web
 *Ranged Weapon, rare, Crafted by*  

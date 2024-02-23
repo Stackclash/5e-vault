@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Calendar; Eberron Months"]
+  - compendium/src/5e/erlw
+aliases:
+  - Calendar; Eberron Months
 ---
 # Calendar; Eberron Months
 *Source: Eberron: Rising from the Last War p. 7* 

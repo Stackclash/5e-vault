@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/erlw
-- race/human/mark-of-passage
-aliases: ["Human (Mark of Passage)"]
+  - compendium/src/5e/erlw
+  - race/human/mark-of-passage
+aliases:
+  - Human (Mark of Passage)
 ---
 # Human (Mark of Passage)
 *Source: Eberron: Rising from the Last War p. 46*  

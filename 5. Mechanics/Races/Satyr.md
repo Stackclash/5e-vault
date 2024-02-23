@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/mpmm
-- race/satyr
-aliases: ["Satyr"]
+  - compendium/src/5e/mpmm
+  - race/satyr
+aliases:
+  - Satyr
 ---
 # Satyr
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 29*  

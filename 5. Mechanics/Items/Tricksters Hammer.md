@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/attunement/required
-- item/property/crfby
-- item/property/martial
-- item/property/versatile
-- item/rarity/very-rare
-- item/weapon/martial/melee
-aliases: 
-- "Trickster's Hammer"
+  - compendium/src/5e/hhhviii
+  - item/attunement/required
+  - item/property/crfby
+  - item/property/martial
+  - item/property/versatile
+  - item/rarity/very-rare
+  - item/weapon/martial/melee
+aliases:
+  - Trickster's Hammer
 ---
 # Trickster's Hammer
 *Melee Weapon, very rare, Crafted by (requires attunement)*  

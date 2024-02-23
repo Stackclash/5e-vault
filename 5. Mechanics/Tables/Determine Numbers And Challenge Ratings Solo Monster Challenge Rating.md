@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/xge
-aliases: ["Determine Numbers and Challenge Ratings; Solo Monster Challenge Rating"]
+  - compendium/src/5e/xge
+aliases:
+  - Determine Numbers and Challenge Ratings; Solo Monster Challenge Rating
 ---
 # Determine Numbers and Challenge Ratings; Solo Monster Challenge Rating
 *Source: Xanathar's Guide to Everything p. 88* 

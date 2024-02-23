@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/attunement/required
-- item/property/crfby
-- item/rarity/varies
-- item/wondrous
-aliases: 
-- "Dragonbone Weapon"
+  - compendium/src/5e/hhhvi
+  - item/attunement/required
+  - item/property/crfby
+  - item/rarity/varies
+  - item/wondrous
+aliases:
+  - Dragonbone Weapon
 ---
 # Dragonbone Weapon
 *Wondrous Item, varies, Crafted by (requires attunement)*  

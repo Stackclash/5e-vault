@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvii
-aliases: ["Neogi Master"]
+  - compendium/src/5e/hhhvii
+aliases:
+  - Neogi Master
 ---
 # Neogi Master
 *Source: Hamund's Harvesting Handbook: Volume II p. 34* 

@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/saf
-- monster/cr/9
-- monster/size/large
-- monster/type/dragon
+  - compendium/src/5e/saf
+  - monster/cr/9
+  - monster/size/large
+  - monster/type/dragon
 statblock: inline
-aliases: ["Young Ruby Dragon"]
+aliases:
+  - Young Ruby Dragon
 ---
 # [[5. Mechanics\Bestiary\Dragon\Young Ruby Dragon.md|Young Ruby Dragon]]
 *Source: Strongholds and Followers p. 205*  

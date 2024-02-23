@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/druid
-- spell/class/sorcerer
-- spell/class/sorcerer/divine-soul
-- spell/class/wizard
-- spell/level/6
-- spell/school/evocation
-aliases: ["Sunbeam"]
+  - compendium/src/5e/phb
+  - spell/class/druid
+  - spell/class/sorcerer
+  - spell/class/sorcerer/divine-soul
+  - spell/class/wizard
+  - spell/level/6
+  - spell/school/evocation
+aliases:
+  - Sunbeam
 ---
 # Sunbeam
 %%-- Embedded content starts on the next line. --%%

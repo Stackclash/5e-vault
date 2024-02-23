@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvii
-- item/attunement/required
-- item/property/crfby
-- item/rarity/common
-- item/wondrous
-aliases: 
-- "Portable Mouth"
+  - compendium/src/5e/hhhvii
+  - item/attunement/required
+  - item/property/crfby
+  - item/rarity/common
+  - item/wondrous
+aliases:
+  - Portable Mouth
 ---
 # Portable Mouth
 *Wondrous Item, common, Crafted by (requires attunement)*  

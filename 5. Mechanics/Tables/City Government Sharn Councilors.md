@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["City Government; Sharn Councilors"]
+  - compendium/src/5e/erlw
+aliases:
+  - City Government; Sharn Councilors
 ---
 # City Government; Sharn Councilors
 *Source: Eberron: Rising from the Last War p. 156* 

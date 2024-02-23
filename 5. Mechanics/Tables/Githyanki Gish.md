@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhviii
-aliases: ["Githyanki Gish"]
+  - compendium/src/5e/hhhviii
+aliases:
+  - Githyanki Gish
 ---
 # Githyanki Gish
 *Source: Hamund's Harvesting Handbook: Volume III p. 48* 

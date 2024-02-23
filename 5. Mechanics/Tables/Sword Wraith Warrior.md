@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhviii
-aliases: ["Sword Wraith Warrior"]
+  - compendium/src/5e/hhhviii
+aliases:
+  - Sword Wraith Warrior
 ---
 # Sword Wraith Warrior
 *Source: Hamund's Harvesting Handbook: Volume III p. 68* 

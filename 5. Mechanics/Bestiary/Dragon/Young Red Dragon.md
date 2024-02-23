@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/10
-- monster/environment/hill
-- monster/environment/mountain
-- monster/size/large
-- monster/type/dragon
+  - compendium/src/5e/mm
+  - monster/cr/10
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/size/large
+  - monster/type/dragon
 statblock: inline
-aliases: ["Young Red Dragon"]
+aliases:
+  - Young Red Dragon
 ---
 # [[5. Mechanics\Bestiary\Dragon\Young Red Dragon.md|Young Red Dragon]]
 *Source: Monster Manual p. 98. Available in the SRD.*  

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Feywild Time Warp"]
+  - compendium/src/5e/dmg
+aliases:
+  - Feywild Time Warp
 ---
 # Feywild Time Warp
 *Source: Dungeon Master's Guide p. 50* 

@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/18
-- monster/size/tiny
-- monster/type/undead
+  - compendium/src/5e/mm
+  - monster/cr/18
+  - monster/size/tiny
+  - monster/type/undead
 statblock: inline
-aliases: ["Demilich"]
+aliases:
+  - Demilich
 ---
 # [[5. Mechanics\Bestiary\Undead\Demilich.md|Demilich]]
 *Source: Monster Manual p. 48*  

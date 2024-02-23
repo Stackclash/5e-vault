@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-8
-- monster/environment/desert
-- monster/size/large
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/1-8
+  - monster/environment/desert
+  - monster/size/large
+  - monster/type/beast
 statblock: inline
-aliases: ["Camel"]
+aliases:
+  - Camel
 ---
 # [[5. Mechanics\Bestiary\Beast\Camel.md|Camel]]
 *Source: Monster Manual p. 320. Available in the SRD and the Basic Rules.*  

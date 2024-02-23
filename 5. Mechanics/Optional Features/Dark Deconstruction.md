@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/hhhviii
-- optional-feature/ei
-aliases: ["Dark Deconstruction"]
+  - compendium/src/5e/hhhviii
+  - optional-feature/ei
+aliases:
+  - Dark Deconstruction
 ---
 # Dark Deconstruction
 *Source: Hamund's Harvesting Handbook: Volume III p. 118*  

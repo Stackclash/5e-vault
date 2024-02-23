@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/property/crfby
-- item/rarity/legendary
-- item/wondrous
-aliases: 
-- "Dragon's Wrath (Ancient)"
+  - compendium/src/5e/hhhvi
+  - item/property/crfby
+  - item/rarity/legendary
+  - item/wondrous
+aliases:
+  - Dragon's Wrath (Ancient)
 ---
 # Dragon's Wrath (Ancient)
 *Wondrous Item, legendary, Crafted by*  

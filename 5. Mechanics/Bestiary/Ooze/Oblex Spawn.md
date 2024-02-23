@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/1-4
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/tiny
-- monster/type/ooze
+  - compendium/src/5e/mpmm
+  - monster/cr/1-4
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/tiny
+  - monster/type/ooze
 statblock: inline
-aliases: ["Oblex Spawn"]
+aliases:
+  - Oblex Spawn
 ---
 # [[5. Mechanics\Bestiary\Ooze\Oblex Spawn.md|Oblex Spawn]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 197, Mordenkainen's Tome of Foes p. 217*  

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/tce
-aliases: ["Military Quests"]
+  - compendium/src/5e/tce
+aliases:
+  - Military Quests
 ---
 # Military Quests
 *Source: Tasha's Cauldron of Everything p. 98* 

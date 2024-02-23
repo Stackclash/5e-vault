@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvii
-aliases: ["Mouth of Grolantor"]
+  - compendium/src/5e/hhhvii
+aliases:
+  - Mouth of Grolantor
 ---
 # Mouth of Grolantor
 *Source: Hamund's Harvesting Handbook: Volume II p. 21* 

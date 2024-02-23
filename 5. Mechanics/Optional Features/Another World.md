@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/saf
-- optional-feature/psi-man
-aliases: ["Another World"]
+  - compendium/src/5e/saf
+  - optional-feature/psi-man
+aliases:
+  - Another World
 ---
 # Another World
 *Source: Strongholds and Followers p. 195*  

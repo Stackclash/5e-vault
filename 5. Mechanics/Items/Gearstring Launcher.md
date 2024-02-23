@@ -2,17 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/rarity/rare
-- item/wondrous/wondrous-item
-aliases: 
-- "Gearstring Launcher"
-- "Gearstring Launcher Heavy Crossbow"
-- "Gearstring Launcher Light Crossbow"
-- "Gearstring Launcher Longbow"
-- "Gearstring Launcher Shortbow"
-- "Gearstring Launcher Hand Crossbow"
-- "Gearstring Launcher Light Repeating Crossbow"
+  - compendium/src/5e/hhhviii
+  - item/rarity/rare
+  - item/wondrous/wondrous-item
+aliases:
+  - Gearstring Launcher
+  - Gearstring Launcher Heavy Crossbow
+  - Gearstring Launcher Light Crossbow
+  - Gearstring Launcher Longbow
+  - Gearstring Launcher Shortbow
+  - Gearstring Launcher Hand Crossbow
+  - Gearstring Launcher Light Repeating Crossbow
 ---
 # Gearstring Launcher
 *Generic Variant, rare*  

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/saf
-aliases: ["Inventing a New Spell; The Spell Targets One Enemy"]
+  - compendium/src/5e/saf
+aliases:
+  - Inventing a New Spell; The Spell Targets One Enemy
 ---
 # Inventing a New Spell; The Spell Targets One Enemy
 *Source: Strongholds and Followers* 

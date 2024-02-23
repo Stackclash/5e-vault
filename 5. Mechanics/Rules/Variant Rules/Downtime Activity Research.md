@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/xge
-aliases: ["Downtime Activity: Research"]
+  - compendium/src/5e/xge
+aliases:
+  - 'Downtime Activity: Research'
 ---
 # Downtime Activity: Research
 *Source: Xanathar's Guide to Everything p. 132* 

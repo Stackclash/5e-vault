@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/4
-- monster/environment/desert
-- monster/environment/urban
-- monster/size/medium
-- monster/type/fiend/demon
+  - compendium/src/5e/mpmm
+  - monster/cr/4
+  - monster/environment/desert
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/fiend/demon
 statblock: inline
-aliases: ["Dybbuk"]
+aliases:
+  - Dybbuk
 ---
 # [[5. Mechanics\Bestiary\Fiend\Dybbuk.md|Dybbuk]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 113, Mordenkainen's Tome of Foes p. 132*  

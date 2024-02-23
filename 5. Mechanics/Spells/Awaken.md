@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/druid
-- spell/level/5
-- spell/school/transmutation
-aliases: ["Awaken"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/druid
+  - spell/level/5
+  - spell/school/transmutation
+aliases:
+  - Awaken
 ---
 # Awaken
 %%-- Embedded content starts on the next line. --%%

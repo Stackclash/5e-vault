@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/erlw
-- race/half-elf/mark-of-detection
-aliases: ["Half-Elf (Mark of Detection)"]
+  - compendium/src/5e/erlw
+  - race/half-elf/mark-of-detection
+aliases:
+  - Half-Elf (Mark of Detection)
 ---
 # Half-Elf (Mark of Detection)
 *Source: Eberron: Rising from the Last War p. 40*  

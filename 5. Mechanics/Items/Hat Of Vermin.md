@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/xge
-- item/rarity/common
-- item/tier/minor
-- item/wondrous
-aliases: 
-- "Hat of Vermin"
+  - compendium/src/5e/xge
+  - item/rarity/common
+  - item/tier/minor
+  - item/wondrous
+aliases:
+  - Hat of Vermin
 ---
 # Hat of Vermin
 *Wondrous Item, minor, common*  

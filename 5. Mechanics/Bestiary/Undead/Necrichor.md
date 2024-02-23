@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/vrgr
-- monster/cr/7
-- monster/size/medium
-- monster/type/undead
+  - compendium/src/5e/vrgr
+  - monster/cr/7
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
-aliases: ["Necrichor"]
+aliases:
+  - Necrichor
 ---
 # [[5. Mechanics\Bestiary\Undead\Necrichor.md|Necrichor]]
 *Source: Van Richten's Guide to Ravenloft p. 238*  

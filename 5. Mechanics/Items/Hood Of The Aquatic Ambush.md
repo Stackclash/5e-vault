@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/property/crfby
-- item/rarity/rare
-- item/wondrous
-aliases: 
-- "Hood of the Aquatic Ambush"
+  - compendium/src/5e/hhhviii
+  - item/property/crfby
+  - item/rarity/rare
+  - item/wondrous
+aliases:
+  - Hood of the Aquatic Ambush
 ---
 # Hood of the Aquatic Ambush
 *Wondrous Item, rare, Crafted by*  

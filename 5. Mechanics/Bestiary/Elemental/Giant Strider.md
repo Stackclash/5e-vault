@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/1
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/size/large
-- monster/type/elemental
+  - compendium/src/5e/mpmm
+  - monster/cr/1
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/elemental
 statblock: inline
-aliases: ["Giant Strider"]
+aliases:
+  - Giant Strider
 ---
 # [[5. Mechanics\Bestiary\Elemental\Giant Strider.md|Giant Strider]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 137*  

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/mtf
-- race/tiefling/dispater
-aliases: ["Tiefling (Dispater)"]
+  - compendium/src/5e/mtf
+  - race/tiefling/dispater
+aliases:
+  - Tiefling (Dispater)
 ---
 # Tiefling (Dispater)
 *Source: Mordenkainen's Tome of Foes p. 21*  

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Dungeon Dressing; Mage Furnishings"]
+  - compendium/src/5e/dmg
+aliases:
+  - Dungeon Dressing; Mage Furnishings
 ---
 # Dungeon Dressing; Mage Furnishings
 *Source: Dungeon Master's Guide p. 298* 

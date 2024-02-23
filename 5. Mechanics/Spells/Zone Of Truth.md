@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/cleric
-- spell/class/cleric/order-domain
-- spell/class/paladin
-- spell/class/paladin/oath-of-devotion
-- spell/class/ranger/monster-slayer
-- spell/class/sorcerer/divine-soul
-- spell/level/2
-- spell/school/enchantment
-aliases: ["Zone of Truth"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/cleric
+  - spell/class/cleric/order-domain
+  - spell/class/paladin
+  - spell/class/paladin/oath-of-devotion
+  - spell/class/ranger/monster-slayer
+  - spell/class/sorcerer/divine-soul
+  - spell/level/2
+  - spell/school/enchantment
+aliases:
+  - Zone of Truth
 ---
 # Zone of Truth
 %%-- Embedded content starts on the next line. --%%

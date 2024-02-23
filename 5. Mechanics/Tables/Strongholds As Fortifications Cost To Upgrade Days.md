@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/saf
-aliases: ["Strongholds as Fortifications; Cost to Upgrade (Days)"]
+  - compendium/src/5e/saf
+aliases:
+  - Strongholds as Fortifications; Cost to Upgrade (Days)
 ---
 # Strongholds as Fortifications; Cost to Upgrade (Days)
 *Source: Strongholds and Followers* 

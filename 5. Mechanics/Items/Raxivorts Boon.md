@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvii
-- item/attunement/required
-- item/property/crfby
-- item/rarity/uncommon
-- item/wondrous
-aliases: 
-- "Raxivort's Boon"
+  - compendium/src/5e/hhhvii
+  - item/attunement/required
+  - item/property/crfby
+  - item/rarity/uncommon
+  - item/wondrous
+aliases:
+  - Raxivort's Boon
 ---
 # Raxivort's Boon
 *Wondrous Item, uncommon, Crafted by (requires attunement)*  

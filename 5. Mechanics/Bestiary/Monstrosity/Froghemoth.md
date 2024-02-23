@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/10
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/size/huge
-- monster/type/monstrosity
+  - compendium/src/5e/mpmm
+  - monster/cr/10
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/size/huge
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Froghemoth"]
+aliases:
+  - Froghemoth
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Froghemoth.md|Froghemoth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 130*  

@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/armor/medium
-- item/attunement/required
-- item/property/crfby
-- item/rarity/rare
-aliases: 
-- "Suit of Shadows"
+  - compendium/src/5e/hhhviii
+  - item/armor/medium
+  - item/attunement/required
+  - item/property/crfby
+  - item/rarity/rare
+aliases:
+  - Suit of Shadows
 ---
 # Suit of Shadows
 *Medium Armor, rare, Crafted by (requires attunement)*  

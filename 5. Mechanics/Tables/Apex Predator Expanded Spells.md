@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhviii
-aliases: ["Apex Predator Expanded Spells"]
+  - compendium/src/5e/hhhviii
+aliases:
+  - Apex Predator Expanded Spells
 ---
 # Apex Predator Expanded Spells
 *Source: Hamund's Harvesting Handbook: Volume III p. 117* 

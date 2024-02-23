@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/saf
-- optional-feature/unit
-aliases: ["Wight Cavalry"]
+  - compendium/src/5e/saf
+  - optional-feature/unit
+aliases:
+  - Wight Cavalry
 ---
 # Wight Cavalry
 *Source: Strongholds and Followers p. 258*  

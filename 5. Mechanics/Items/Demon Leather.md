@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/armor/light
-- item/attunement/required
-- item/property/crfby
-- item/rarity/rare
-aliases: 
-- "Demon Leather"
+  - compendium/src/5e/hhhvi
+  - item/armor/light
+  - item/attunement/required
+  - item/property/crfby
+  - item/rarity/rare
+aliases:
+  - Demon Leather
 ---
 # Demon Leather
 *Light Armor, rare, Crafted by (requires attunement)*  

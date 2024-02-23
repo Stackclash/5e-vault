@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Planetar"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Planetar
 ---
 # Planetar
 *Source: Hamund's Harvesting Handbook: Volume I p. 9* 

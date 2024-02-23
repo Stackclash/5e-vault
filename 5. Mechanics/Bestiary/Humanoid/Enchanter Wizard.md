@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/5
-- monster/environment/urban
-- monster/size/medium
-- monster/type/humanoid
+  - compendium/src/5e/mpmm
+  - monster/cr/5
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/humanoid
 statblock: inline
-aliases: ["Enchanter Wizard"]
+aliases:
+  - Enchanter Wizard
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Enchanter Wizard.md|Enchanter Wizard]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 261*  

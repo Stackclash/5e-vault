@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/vrgr
-- monster/cr/7
-- monster/size/huge
-- monster/type/plant
+  - compendium/src/5e/vrgr
+  - monster/cr/7
+  - monster/size/huge
+  - monster/type/plant
 statblock: inline
-aliases: ["Bodytaker Plant"]
+aliases:
+  - Bodytaker Plant
 ---
 # [[5. Mechanics\Bestiary\Plant\Bodytaker Plant.md|Bodytaker Plant]]
 *Source: Van Richten's Guide to Ravenloft p. 226*  

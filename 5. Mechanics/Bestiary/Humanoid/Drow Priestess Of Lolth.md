@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/8
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/humanoid/elf
+  - compendium/src/5e/mm
+  - monster/cr/8
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/humanoid/elf
 statblock: inline
-aliases: ["Drow Priestess of Lolth"]
+aliases:
+  - Drow Priestess of Lolth
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Drow Priestess Of Lolth.md|Drow Priestess of Lolth]]
 *Source: Monster Manual p. 129*  

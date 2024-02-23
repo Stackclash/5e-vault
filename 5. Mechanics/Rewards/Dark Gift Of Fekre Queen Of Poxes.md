@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/cos
-- reward/charm
-aliases: ["Dark Gift of Fekre, Queen of Poxes"]
+  - compendium/src/5e/cos
+  - reward/charm
+aliases:
+  - 'Dark Gift of Fekre, Queen of Poxes'
 ---
 # Dark Gift of Fekre, Queen of Poxes
 *Charm*  

@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/13
-- monster/environment/underdark
-- monster/size/gargantuan
-- monster/type/aberration
+  - compendium/src/5e/mpmm
+  - monster/cr/13
+  - monster/environment/underdark
+  - monster/size/gargantuan
+  - monster/type/aberration
 statblock: inline
-aliases: ["Neothelid"]
+aliases:
+  - Neothelid
 ---
 # [[5. Mechanics\Bestiary\Aberration\Neothelid.md|Neothelid]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 193*  

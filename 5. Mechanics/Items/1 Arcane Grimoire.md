@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/tce
-- item/attunement/required
-- item/rarity/uncommon
-- item/wondrous
-aliases: 
-- "+1 Arcane Grimoire"
+  - compendium/src/5e/tce
+  - item/attunement/required
+  - item/rarity/uncommon
+  - item/wondrous
+aliases:
+  - +1 Arcane Grimoire
 ---
 # +1 Arcane Grimoire
 *Wondrous Item, uncommon (requires attunement by a wizard)*  

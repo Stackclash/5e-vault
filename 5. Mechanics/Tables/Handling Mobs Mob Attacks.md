@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Handling Mobs; Mob Attacks"]
+  - compendium/src/5e/dmg
+aliases:
+  - Handling Mobs; Mob Attacks
 ---
 # Handling Mobs; Mob Attacks
 *Source: Dungeon Master's Guide p. 250* 

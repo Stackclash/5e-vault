@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/2
-- monster/environment/underdark
-- monster/size/large
-- monster/type/undead
+  - compendium/src/5e/mm
+  - monster/cr/2
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/undead
 statblock: inline
-aliases: ["Minotaur Skeleton"]
+aliases:
+  - Minotaur Skeleton
 ---
 # [[5. Mechanics\Bestiary\Undead\Minotaur Skeleton.md|Minotaur Skeleton]]
 *Source: Monster Manual p. 273. Available in the SRD.*  

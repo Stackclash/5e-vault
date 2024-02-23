@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/16
-- monster/environment/mountain
-- monster/size/medium
-- monster/type/aberration
+  - compendium/src/5e/mpmm
+  - monster/cr/16
+  - monster/environment/mountain
+  - monster/size/medium
+  - monster/type/aberration
 statblock: inline
-aliases: ["Star Spawn Larva Mage"]
+aliases:
+  - Star Spawn Larva Mage
 ---
 # [[5. Mechanics\Bestiary\Aberration\Star Spawn Larva Mage.md|Star Spawn Larva Mage]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 228, Mordenkainen's Tome of Foes p. 235*  

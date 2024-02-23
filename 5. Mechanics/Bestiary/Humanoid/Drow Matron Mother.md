@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/20
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/humanoid/cleric
-- monster/type/humanoid/elf
+  - compendium/src/5e/mpmm
+  - monster/cr/20
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/humanoid/cleric
+  - monster/type/humanoid/elf
 statblock: inline
-aliases: ["Drow Matron Mother"]
+aliases:
+  - Drow Matron Mother
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Drow Matron Mother.md|Drow Matron Mother]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 104, Mordenkainen's Tome of Foes p. 186*  

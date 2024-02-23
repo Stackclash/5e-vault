@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vrgr
-aliases: ["Travelers in the Mists; Strangers in the Mists"]
+  - compendium/src/5e/vrgr
+aliases:
+  - Travelers in the Mists; Strangers in the Mists
 ---
 # Travelers in the Mists; Strangers in the Mists
 *Source: Van Richten's Guide to Ravenloft p. 174* 

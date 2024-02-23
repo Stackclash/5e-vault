@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/armor/light
-- item/attunement/required
-- item/property/crfby
-- item/rarity/legendary
-aliases: 
-- "Armor of the Infernal Enforcer"
+  - compendium/src/5e/hhhviii
+  - item/armor/light
+  - item/attunement/required
+  - item/property/crfby
+  - item/rarity/legendary
+aliases:
+  - Armor of the Infernal Enforcer
 ---
 # Armor of the Infernal Enforcer
 *Light Armor, legendary, Crafted by (requires attunement)*  

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhviii
-aliases: ["Geryon"]
+  - compendium/src/5e/hhhviii
+aliases:
+  - Geryon
 ---
 # Geryon
 *Source: Hamund's Harvesting Handbook: Volume III p. 34* 

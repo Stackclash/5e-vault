@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/hhhviii
-- subclass/monk/observed-form
-aliases: ["Way of the Observed Form"]
+  - compendium/src/5e/hhhviii
+  - subclass/monk/observed-form
+aliases:
+  - Way of the Observed Form
 ---
 # Way of the Observed Form
 *[[Monk.md\|Monk]]: Monastic Tradition*  

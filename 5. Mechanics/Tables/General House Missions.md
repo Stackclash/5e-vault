@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["General House Missions"]
+  - compendium/src/5e/erlw
+aliases:
+  - General House Missions
 ---
 # General House Missions
 *Source: Eberron: Rising from the Last War p. 72* 

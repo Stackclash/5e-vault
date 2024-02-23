@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/10
-- monster/environment/underdark
-- monster/size/large
-- monster/type/aberration/beholder
+  - compendium/src/5e/mpmm
+  - monster/cr/10
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/aberration/beholder
 statblock: inline
-aliases: ["Death Kiss"]
+aliases:
+  - Death Kiss
 ---
 # [[5. Mechanics\Bestiary\Aberration\Death Kiss.md|Death Kiss]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 85*  

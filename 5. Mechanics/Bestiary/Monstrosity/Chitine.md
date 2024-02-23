@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/1-2
-- monster/environment/underdark
-- monster/size/small
-- monster/type/monstrosity
+  - compendium/src/5e/mpmm
+  - monster/cr/1-2
+  - monster/environment/underdark
+  - monster/size/small
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Chitine"]
+aliases:
+  - Chitine
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Chitine.md|Chitine]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 75*  

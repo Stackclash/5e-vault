@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Spell Scrolls; Spell Scroll"]
+  - compendium/src/5e/dmg
+aliases:
+  - Spell Scrolls; Spell Scroll
 ---
 # Spell Scrolls; Spell Scroll
 *Source: Dungeon Master's Guide p. 139. Available in the SRD.* 

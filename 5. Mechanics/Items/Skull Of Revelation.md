@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/property/crfby
-- item/rarity/uncommon
-- item/wondrous
-aliases: 
-- "Skull of Revelation"
+  - compendium/src/5e/hhhvi
+  - item/property/crfby
+  - item/rarity/uncommon
+  - item/wondrous
+aliases:
+  - Skull of Revelation
 ---
 # Skull of Revelation
 *Wondrous Item, uncommon, Crafted by*  

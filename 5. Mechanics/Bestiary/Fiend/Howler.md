@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/8
-- monster/environment/desert
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/underdark
-- monster/size/large
-- monster/type/fiend
+  - compendium/src/5e/mpmm
+  - monster/cr/8
+  - monster/environment/desert
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/fiend
 statblock: inline
-aliases: ["Howler"]
+aliases:
+  - Howler
 ---
 # [[5. Mechanics\Bestiary\Fiend\Howler.md|Howler]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 155, Mordenkainen's Tome of Foes p. 210*  

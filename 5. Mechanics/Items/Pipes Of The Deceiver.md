@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/attunement/required
-- item/property/crfby
-- item/rarity/legendary
-- item/wondrous
-aliases: 
-- "Pipes of the Deceiver"
+  - compendium/src/5e/hhhviii
+  - item/attunement/required
+  - item/property/crfby
+  - item/rarity/legendary
+  - item/wondrous
+aliases:
+  - Pipes of the Deceiver
 ---
 # Pipes of the Deceiver
 *Wondrous Item, legendary, Crafted by (requires attunement)*  

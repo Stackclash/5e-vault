@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/erlw
-- race/half-orc/mark-of-finding
-aliases: ["Half-Orc (Mark of Finding)"]
+  - compendium/src/5e/erlw
+  - race/half-orc/mark-of-finding
+aliases:
+  - Half-Orc (Mark of Finding)
 ---
 # Half-Orc (Mark of Finding)
 *Source: Eberron: Rising from the Last War p. 41*  

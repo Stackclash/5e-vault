@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/tce
-- item/attunement/required
-- item/rarity/rare
-- item/wondrous
-aliases: 
-- "Planecaller's Codex"
+  - compendium/src/5e/tce
+  - item/attunement/required
+  - item/rarity/rare
+  - item/wondrous
+aliases:
+  - Planecaller's Codex
 ---
 # Planecaller's Codex
 *Wondrous Item, rare (requires attunement by a wizard)*  

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vrgr
-aliases: ["Har'Akir Adventures"]
+  - compendium/src/5e/vrgr
+aliases:
+  - Har'Akir Adventures
 ---
 # Har'Akir Adventures
 *Source: Van Richten's Guide to Ravenloft p. 110* 

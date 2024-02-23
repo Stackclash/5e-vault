@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/saf
-aliases: ["Paladin Followers"]
+  - compendium/src/5e/saf
+aliases:
+  - Paladin Followers
 ---
 # Paladin Followers
 *Source: Strongholds and Followers* 

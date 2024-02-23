@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/property/heavy
-- item/property/martial
-- item/property/reach
-- item/property/two-handed
-- item/weapon/martial/melee
-aliases: 
-- "Pike"
+  - compendium/src/5e/phb
+  - item/property/heavy
+  - item/property/martial
+  - item/property/reach
+  - item/property/two-handed
+  - item/weapon/martial/melee
+aliases:
+  - Pike
 cost: 500
 ---
 # Pike

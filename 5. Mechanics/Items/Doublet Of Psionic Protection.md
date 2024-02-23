@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvii
-- item/armor/light
-- item/attunement/required
-- item/property/crfby
-- item/rarity/very-rare
-aliases: 
-- "Doublet of Psionic Protection"
+  - compendium/src/5e/hhhvii
+  - item/armor/light
+  - item/attunement/required
+  - item/property/crfby
+  - item/rarity/very-rare
+aliases:
+  - Doublet of Psionic Protection
 ---
 # Doublet of Psionic Protection
 *Light Armor, very rare, Crafted by (requires attunement)*  

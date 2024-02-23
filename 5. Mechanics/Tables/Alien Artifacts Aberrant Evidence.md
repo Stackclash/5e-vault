@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vrgr
-aliases: ["Alien Artifacts; Aberrant Evidence"]
+  - compendium/src/5e/vrgr
+aliases:
+  - Alien Artifacts; Aberrant Evidence
 ---
 # Alien Artifacts; Aberrant Evidence
 *Source: Van Richten's Guide to Ravenloft p. 75* 

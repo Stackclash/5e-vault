@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/xge
-aliases: ["Resolution; Magic Item Offer"]
+  - compendium/src/5e/xge
+aliases:
+  - Resolution; Magic Item Offer
 ---
 # Resolution; Magic Item Offer
 *Source: Xanathar's Guide to Everything p. 133* 

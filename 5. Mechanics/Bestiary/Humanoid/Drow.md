@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-4
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/humanoid/elf
+  - compendium/src/5e/mm
+  - monster/cr/1-4
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/humanoid/elf
 statblock: inline
-aliases: ["Drow"]
+aliases:
+  - Drow
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Drow.md|Drow]]
 *Source: Monster Manual p. 128. Available in the SRD.*  

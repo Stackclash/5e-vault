@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/saf
-- monster/cr/unknown
-- monster/size/medium
-- monster/type/humanoid/any-race
+  - compendium/src/5e/saf
+  - monster/cr/unknown
+  - monster/size/medium
+  - monster/type/humanoid/any-race
 statblock: inline
-aliases: ["Curate"]
+aliases:
+  - Curate
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Curate.md|Curate]]
 *Source: Strongholds and Followers p. 73*  

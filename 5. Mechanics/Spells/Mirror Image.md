@@ -2,18 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer/armorer
-- spell/class/cleric/trickery-domain
-- spell/class/druid/circle-of-the-land
-- spell/class/fighter/eldritch-knight
-- spell/class/rogue/arcane-trickster
-- spell/class/sorcerer
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/2
-- spell/school/illusion
-aliases: ["Mirror Image"]
+  - compendium/src/5e/phb
+  - spell/class/artificer/armorer
+  - spell/class/cleric/trickery-domain
+  - spell/class/druid/circle-of-the-land
+  - spell/class/fighter/eldritch-knight
+  - spell/class/rogue/arcane-trickster
+  - spell/class/sorcerer
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/2
+  - spell/school/illusion
+aliases:
+  - Mirror Image
 ---
 # Mirror Image
 %%-- Embedded content starts on the next line. --%%

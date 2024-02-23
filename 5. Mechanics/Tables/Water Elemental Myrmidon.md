@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhviii
-aliases: ["Water Elemental Myrmidon"]
+  - compendium/src/5e/hhhviii
+aliases:
+  - Water Elemental Myrmidon
 ---
 # Water Elemental Myrmidon
 *Source: Hamund's Harvesting Handbook: Volume III p. 46* 

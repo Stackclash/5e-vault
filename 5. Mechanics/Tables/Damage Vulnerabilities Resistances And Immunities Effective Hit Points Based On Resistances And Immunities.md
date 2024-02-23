@@ -2,8 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Damage Vulnerabilities, Resistances, and Immunities; Effective Hit Points Based on Resistances and Immunities"]
+  - compendium/src/5e/dmg
+aliases:
+  - >-
+    Damage Vulnerabilities, Resistances, and Immunities; Effective Hit Points
+    Based on Resistances and Immunities
 ---
 # Damage Vulnerabilities, Resistances, and Immunities; Effective Hit Points Based on Resistances and Immunities
 *Source: Dungeon Master's Guide p. 277* 

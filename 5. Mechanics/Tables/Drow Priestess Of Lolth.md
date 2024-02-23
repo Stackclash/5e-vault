@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Drow Priestess of Lolth"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Drow Priestess of Lolth
 ---
 # Drow Priestess of Lolth
 *Source: Hamund's Harvesting Handbook: Volume I p. 43* 

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/tce
-- subclass/warlock/fathomless
-aliases: ["The Fathomless"]
+  - compendium/src/5e/tce
+  - subclass/warlock/fathomless
+aliases:
+  - The Fathomless
 ---
 # The Fathomless
 *[[Warlock.md\|Warlock]]: Otherworldly Patron*  

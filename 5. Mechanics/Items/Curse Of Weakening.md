@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvii
-- item/gear/curse
-- item/property/crfby
-- item/rarity/rare
-aliases: 
-- "Curse of Weakening"
+  - compendium/src/5e/hhhvii
+  - item/gear/curse
+  - item/property/crfby
+  - item/rarity/rare
+aliases:
+  - Curse of Weakening
 ---
 # Curse of Weakening
 *Curse, rare, Crafted by*  

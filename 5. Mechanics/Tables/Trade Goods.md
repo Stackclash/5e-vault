@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Trade Goods"]
+  - compendium/src/5e/phb
+aliases:
+  - Trade Goods
 ---
 # Trade Goods
 *Source: Player's Handbook p. 157. Available in the SRD.* 

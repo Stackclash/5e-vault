@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Intellect Devourer"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Intellect Devourer
 ---
 # Intellect Devourer
 *Source: Hamund's Harvesting Handbook: Volume I p. 67* 

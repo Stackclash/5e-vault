@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/saf
-- optional-feature/unit
-aliases: ["White Tusk Bloodwalkers"]
+  - compendium/src/5e/saf
+  - optional-feature/unit
+aliases:
+  - White Tusk Bloodwalkers
 ---
 # White Tusk Bloodwalkers
 *Source: Strongholds and Followers p. 148*  

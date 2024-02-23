@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvii
-aliases: ["Guard Drake"]
+  - compendium/src/5e/hhhvii
+aliases:
+  - Guard Drake
 ---
 # Guard Drake
 *Source: Hamund's Harvesting Handbook: Volume II p. 25* 

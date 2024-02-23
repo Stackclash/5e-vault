@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/saf
-aliases: ["The Concordance Chart"]
+  - compendium/src/5e/saf
+aliases:
+  - The Concordance Chart
 ---
 # The Concordance Chart
 *Source: Strongholds and Followers p. 31* 

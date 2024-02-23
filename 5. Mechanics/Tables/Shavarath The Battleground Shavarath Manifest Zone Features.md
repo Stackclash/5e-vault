@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Shavarath, the Battleground; Shavarath Manifest Zone Features"]
+  - compendium/src/5e/erlw
+aliases:
+  - 'Shavarath, the Battleground; Shavarath Manifest Zone Features'
 ---
 # Shavarath, the Battleground; Shavarath Manifest Zone Features
 *Source: Eberron: Rising from the Last War p. 231* 

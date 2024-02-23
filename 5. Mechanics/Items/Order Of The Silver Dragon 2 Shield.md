@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/cos
-- item/armor/shield
-- item/rarity/rare
-- item/tier/major
-aliases: 
-- "Order of the Silver Dragon +2 Shield"
+  - compendium/src/5e/cos
+  - item/armor/shield
+  - item/rarity/rare
+  - item/tier/major
+aliases:
+  - Order of the Silver Dragon +2 Shield
 ---
 # Order of the Silver Dragon +2 Shield
 *Shield, major, rare*  

@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/vrgr
-- monster/cr/8
-- monster/size/medium
-- monster/type/humanoid
+  - compendium/src/5e/vrgr
+  - monster/cr/8
+  - monster/size/medium
+  - monster/type/humanoid
 statblock: inline
-aliases: ["Inquisitor of the Tome"]
+aliases:
+  - Inquisitor of the Tome
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Inquisitor Of The Tome.md|Inquisitor of the Tome]]
 *Source: Van Richten's Guide to Ravenloft p. 249*  

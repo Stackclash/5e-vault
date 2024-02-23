@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Downtime Activity: Sowing Rumors"]
+  - compendium/src/5e/dmg
+aliases:
+  - 'Downtime Activity: Sowing Rumors'
 ---
 # Downtime Activity: Sowing Rumors
 *Source: Dungeon Master's Guide p. 131* 

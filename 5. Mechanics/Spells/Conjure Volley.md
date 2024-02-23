@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/ranger
-- spell/level/5
-- spell/school/conjuration
-aliases: ["Conjure Volley"]
+  - compendium/src/5e/phb
+  - spell/class/ranger
+  - spell/level/5
+  - spell/school/conjuration
+aliases:
+  - Conjure Volley
 ---
 # Conjure Volley
 %%-- Embedded content starts on the next line. --%%

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Tyrannosaurus Rex"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Tyrannosaurus Rex
 ---
 # Tyrannosaurus Rex
 *Source: Hamund's Harvesting Handbook: Volume I p. 32* 

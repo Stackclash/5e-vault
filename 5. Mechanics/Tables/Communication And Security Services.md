@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Communication and Security Services"]
+  - compendium/src/5e/erlw
+aliases:
+  - Communication and Security Services
 ---
 # Communication and Security Services
 *Source: Eberron: Rising from the Last War p. 10* 

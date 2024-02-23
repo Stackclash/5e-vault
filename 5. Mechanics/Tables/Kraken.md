@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Kraken"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Kraken
 ---
 # Kraken
 *Source: Hamund's Harvesting Handbook: Volume I p. 70* 

@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/11
-- monster/environment/desert
-- monster/size/large
-- monster/type/monstrosity
+  - compendium/src/5e/mm
+  - monster/cr/11
+  - monster/environment/desert
+  - monster/size/large
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Gynosphinx"]
+aliases:
+  - Gynosphinx
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Gynosphinx.md|Gynosphinx]]
 *Source: Monster Manual p. 282. Available in the SRD.*  

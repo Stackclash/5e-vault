@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/xge
-aliases: ["Human Names – Greek, Male"]
+  - compendium/src/5e/xge
+aliases:
+  - 'Human Names – Greek, Male'
 ---
 # Human Names – Greek, Male
 *Source: Xanathar's Guide to Everything p. 181* 

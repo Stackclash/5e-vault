@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/13
-- monster/environment/underdark
-- monster/size/large
-- monster/type/undead
+  - compendium/src/5e/mpmm
+  - monster/cr/13
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/undead
 statblock: inline
-aliases: ["Devourer"]
+aliases:
+  - Devourer
 ---
 # [[5. Mechanics\Bestiary\Undead\Devourer.md|Devourer]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 93*  

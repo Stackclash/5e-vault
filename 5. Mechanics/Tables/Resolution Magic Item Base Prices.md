@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/xge
-aliases: ["Resolution; Magic Item Base Prices"]
+  - compendium/src/5e/xge
+aliases:
+  - Resolution; Magic Item Base Prices
 ---
 # Resolution; Magic Item Base Prices
 *Source: Xanathar's Guide to Everything p. 133* 

@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/tce
-- item/rarity/rare
-- item/wondrous
-aliases: 
-- "Spellwrought Tattoo (5th Level)"
+  - compendium/src/5e/tce
+  - item/rarity/rare
+  - item/wondrous
+aliases:
+  - Spellwrought Tattoo (5th Level)
 ---
 # Spellwrought Tattoo (5th Level)
 *Wondrous Item, rare*  

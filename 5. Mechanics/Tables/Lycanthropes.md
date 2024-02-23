@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Lycanthropes"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Lycanthropes
 ---
 # Lycanthropes
 *Source: Hamund's Harvesting Handbook: Volume I p. 73* 

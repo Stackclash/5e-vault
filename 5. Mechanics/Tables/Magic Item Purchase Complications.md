@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/xge
-aliases: ["Magic Item Purchase Complications"]
+  - compendium/src/5e/xge
+aliases:
+  - Magic Item Purchase Complications
 ---
 # Magic Item Purchase Complications
 *Source: Xanathar's Guide to Everything p. 126* 

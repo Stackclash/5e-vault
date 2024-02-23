@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/3
-- monster/size/medium
-- monster/type/dragon
+  - compendium/src/5e/mm
+  - monster/cr/3
+  - monster/size/medium
+  - monster/type/dragon
 statblock: inline
-aliases: ["Blue Dragon Wyrmling"]
+aliases:
+  - Blue Dragon Wyrmling
 ---
 # [[5. Mechanics\Bestiary\Dragon\Blue Dragon Wyrmling.md|Blue Dragon Wyrmling]]
 *Source: Monster Manual p. 91. Available in the SRD.*  

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhviii
-aliases: ["Hamund: Butcher's Tool"]
+  - compendium/src/5e/hhhviii
+aliases:
+  - 'Hamund: Butcher''s Tool'
 ---
 # Hamund: Butcher's Tool
 *Source: Hamund's Harvesting Handbook: Volume III* 

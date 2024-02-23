@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/phb
-- race/halfling/lightfoot
-aliases: ["Halfling (Lightfoot)"]
+  - compendium/src/5e/phb
+  - race/halfling/lightfoot
+aliases:
+  - Halfling (Lightfoot)
 ---
 # Halfling (Lightfoot)
 *Source: Player's Handbook p. 28. Available in the SRD and the Basic Rules.*  

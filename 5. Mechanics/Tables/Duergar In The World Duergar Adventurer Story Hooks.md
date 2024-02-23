@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/mtf
-aliases: ["Duergar in the World; Duergar Adventurer Story Hooks"]
+  - compendium/src/5e/mtf
+aliases:
+  - Duergar in the World; Duergar Adventurer Story Hooks
 ---
 # Duergar in the World; Duergar Adventurer Story Hooks
 *Source: Mordenkainen's Tome of Foes p. 84* 

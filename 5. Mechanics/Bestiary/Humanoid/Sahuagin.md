@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-2
-- monster/environment/coastal
-- monster/environment/underwater
-- monster/size/medium
-- monster/type/humanoid/sahuagin
+  - compendium/src/5e/mm
+  - monster/cr/1-2
+  - monster/environment/coastal
+  - monster/environment/underwater
+  - monster/size/medium
+  - monster/type/humanoid/sahuagin
 statblock: inline
-aliases: ["Sahuagin"]
+aliases:
+  - Sahuagin
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Sahuagin.md|Sahuagin]]
 *Source: Monster Manual p. 263. Available in the SRD.*  

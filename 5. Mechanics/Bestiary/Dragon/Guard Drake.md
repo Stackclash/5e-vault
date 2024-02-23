@@ -2,19 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/2
-- monster/environment/arctic
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/mountain
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/dragon
+  - compendium/src/5e/mpmm
+  - monster/cr/2
+  - monster/environment/arctic
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/mountain
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/dragon
 statblock: inline
-aliases: ["Guard Drake"]
+aliases:
+  - Guard Drake
 ---
 # [[5. Mechanics\Bestiary\Dragon\Guard Drake.md|Guard Drake]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 151*  

@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/property/crfby
-- item/rarity/rare
-- item/wondrous
-aliases: 
-- "Haunted Figure"
+  - compendium/src/5e/hhhviii
+  - item/property/crfby
+  - item/rarity/rare
+  - item/wondrous
+aliases:
+  - Haunted Figure
 ---
 # Haunted Figure
 *Wondrous Item, rare, Crafted by*  

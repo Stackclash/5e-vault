@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/attunement/required
-- item/property/crfby
-- item/property/finesse
-- item/property/light
-- item/property/thrown
-- item/rarity/rare
-- item/weapon/simple/melee
-aliases: 
-- "Dagger of Apathy"
+  - compendium/src/5e/hhhviii
+  - item/attunement/required
+  - item/property/crfby
+  - item/property/finesse
+  - item/property/light
+  - item/property/thrown
+  - item/rarity/rare
+  - item/weapon/simple/melee
+aliases:
+  - Dagger of Apathy
 ---
 # Dagger of Apathy
 *Melee Weapon, rare, Crafted by (requires attunement)*  

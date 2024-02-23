@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/2
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/elemental
+  - compendium/src/5e/mm
+  - monster/cr/2
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/elemental
 statblock: inline
-aliases: ["Gargoyle"]
+aliases:
+  - Gargoyle
 ---
 # [[5. Mechanics\Bestiary\Elemental\Gargoyle.md|Gargoyle]]
 *Source: Monster Manual p. 140, Curse of Strahd, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  

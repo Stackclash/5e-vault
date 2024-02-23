@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/tce
-- domain/twilight
-- subclass/cleric/twilight
-aliases: ["Twilight Domain"]
+  - compendium/src/5e/tce
+  - domain/twilight
+  - subclass/cleric/twilight
+aliases:
+  - Twilight Domain
 ---
 # Twilight Domain
 *[[Cleric.md\|Cleric]]: Divine Domain*  

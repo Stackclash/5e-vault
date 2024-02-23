@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/saf
-- monster/cr/10
-- monster/size/medium
-- monster/type/fey
+  - compendium/src/5e/saf
+  - monster/cr/10
+  - monster/size/medium
+  - monster/type/fey
 statblock: inline
-aliases: ["Sidereal Vizier"]
+aliases:
+  - Sidereal Vizier
 ---
 # [[5. Mechanics\Bestiary\Fey\Sidereal Vizier.md|Sidereal Vizier]]
 *Source: Strongholds and Followers p. 184*  

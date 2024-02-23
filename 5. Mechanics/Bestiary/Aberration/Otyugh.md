@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/5
-- monster/environment/underdark
-- monster/size/large
-- monster/type/aberration
+  - compendium/src/5e/mm
+  - monster/cr/5
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/aberration
 statblock: inline
-aliases: ["Otyugh"]
+aliases:
+  - Otyugh
 ---
 # [[5. Mechanics\Bestiary\Aberration\Otyugh.md|Otyugh]]
 *Source: Monster Manual p. 248. Available in the SRD.*  

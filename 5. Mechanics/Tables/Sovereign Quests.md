@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/tce
-aliases: ["Sovereign Quests"]
+  - compendium/src/5e/tce
+aliases:
+  - Sovereign Quests
 ---
 # Sovereign Quests
 *Source: Tasha's Cauldron of Everything p. 102* 

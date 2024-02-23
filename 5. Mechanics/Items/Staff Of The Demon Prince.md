@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/attunement/required
-- item/property/crfa
-- item/property/versatile
-- item/rarity/artifact
-- item/weapon/simple/melee
-aliases: 
-- "Staff of the Demon Prince"
+  - compendium/src/5e/hhhviii
+  - item/attunement/required
+  - item/property/crfa
+  - item/property/versatile
+  - item/rarity/artifact
+  - item/weapon/simple/melee
+aliases:
+  - Staff of the Demon Prince
 ---
 # Staff of the Demon Prince
 *Melee Weapon, artifact, Crafted Artifact (requires attunement by a spellcaster)*  

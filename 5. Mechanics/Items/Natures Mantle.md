@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/tce
-- item/attunement/required
-- item/rarity/uncommon
-- item/wondrous
-aliases: 
-- "Nature's Mantle"
+  - compendium/src/5e/tce
+  - item/attunement/required
+  - item/rarity/uncommon
+  - item/wondrous
+aliases:
+  - Nature's Mantle
 ---
 # Nature's Mantle
 *Wondrous Item, uncommon (requires attunement by a druid or ranger)*  

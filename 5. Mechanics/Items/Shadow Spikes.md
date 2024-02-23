@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvii
-- item/property/crfby
-- item/rarity/uncommon
-- item/wondrous
-aliases: 
-- "Shadow Spikes"
+  - compendium/src/5e/hhhvii
+  - item/property/crfby
+  - item/rarity/uncommon
+  - item/wondrous
+aliases:
+  - Shadow Spikes
 ---
 # Shadow Spikes
 *Wondrous Item, uncommon, Crafted by*  

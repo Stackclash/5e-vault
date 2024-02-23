@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvii
-aliases: ["Spawn of Kyuss"]
+  - compendium/src/5e/hhhvii
+aliases:
+  - Spawn of Kyuss
 ---
 # Spawn of Kyuss
 *Source: Hamund's Harvesting Handbook: Volume II p. 42* 

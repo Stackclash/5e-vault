@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhbh
-- item/gear/herb
-- item/property/hrb
-- item/rarity/rare
-aliases: 
-- "Whisper Puff"
+  - compendium/src/5e/hhbh
+  - item/gear/herb
+  - item/property/hrb
+  - item/rarity/rare
+aliases:
+  - Whisper Puff
 cost: 5000
 ---
 # Whisper Puff

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Nothic"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Nothic
 ---
 # Nothic
 *Source: Hamund's Harvesting Handbook: Volume I p. 80* 

@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/2
-- monster/environment/coastal
-- monster/environment/underwater
-- monster/size/medium
-- monster/type/fey
+  - compendium/src/5e/mm
+  - monster/cr/2
+  - monster/environment/coastal
+  - monster/environment/underwater
+  - monster/size/medium
+  - monster/type/fey
 statblock: inline
-aliases: ["Sea Hag"]
+aliases:
+  - Sea Hag
 ---
 # [[5. Mechanics\Bestiary\Fey\Sea Hag.md|Sea Hag]]
 *Source: Monster Manual p. 179. Available in the SRD.*  

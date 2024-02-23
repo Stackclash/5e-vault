@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/wealth/art-object
-aliases: 
-- "Pair of engraved bone dice"
+  - compendium/src/5e/dmg
+  - item/wealth/art-object
+aliases:
+  - Pair of engraved bone dice
 cost: 2500
 ---
 # Pair of engraved bone dice

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Travel Pace"]
+  - compendium/src/5e/phb
+aliases:
+  - Travel Pace
 ---
 # Travel Pace
 *Source: Player's Handbook p. 181. Available in the SRD and the Basic Rules.* 

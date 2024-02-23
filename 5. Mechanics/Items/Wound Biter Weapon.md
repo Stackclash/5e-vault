@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/attunement/required
-- item/rarity/rare
-- item/wondrous/wondrous-item
-aliases: 
-- "Wound Biter Weapon"
-- "Wound Biter Pike"
-- "Wound Biter Whip"
-- "Wound Biter Spear"
+  - compendium/src/5e/hhhvi
+  - item/attunement/required
+  - item/rarity/rare
+  - item/wondrous/wondrous-item
+aliases:
+  - Wound Biter Weapon
+  - Wound Biter Pike
+  - Wound Biter Whip
+  - Wound Biter Spear
 ---
 # Wound Biter Weapon
 *Generic Variant, rare (requires attunement)*  

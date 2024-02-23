@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/erlw
-- race/gnome/mark-of-scribing
-aliases: ["Gnome (Mark of Scribing)"]
+  - compendium/src/5e/erlw
+  - race/gnome/mark-of-scribing
+aliases:
+  - Gnome (Mark of Scribing)
 ---
 # Gnome (Mark of Scribing)
 *Source: Eberron: Rising from the Last War p. 47*  

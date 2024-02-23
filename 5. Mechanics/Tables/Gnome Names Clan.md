@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/xge
-aliases: ["Gnome Names – Clan"]
+  - compendium/src/5e/xge
+aliases:
+  - Gnome Names – Clan
 ---
 # Gnome Names – Clan
 *Source: Xanathar's Guide to Everything p. 178* 

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Chamber Purpose; General Dungeon Chambers"]
+  - compendium/src/5e/dmg
+aliases:
+  - Chamber Purpose; General Dungeon Chambers
 ---
 # Chamber Purpose; General Dungeon Chambers
 *Source: Dungeon Master's Guide p. 292* 

@@ -2,18 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer/alchemist
-- spell/class/cleric
-- spell/class/cleric/death-domain
-- spell/class/cleric/grave-domain
-- spell/class/cleric/life-domain
-- spell/class/paladin
-- spell/class/sorcerer/divine-soul
-- spell/class/warlock/the-undead
-- spell/level/4
-- spell/school/abjuration
-aliases: ["Death Ward"]
+  - compendium/src/5e/phb
+  - spell/class/artificer/alchemist
+  - spell/class/cleric
+  - spell/class/cleric/death-domain
+  - spell/class/cleric/grave-domain
+  - spell/class/cleric/life-domain
+  - spell/class/paladin
+  - spell/class/sorcerer/divine-soul
+  - spell/class/warlock/the-undead
+  - spell/level/4
+  - spell/school/abjuration
+aliases:
+  - Death Ward
 ---
 # Death Ward
 %%-- Embedded content starts on the next line. --%%

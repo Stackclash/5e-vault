@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/saf
-aliases:
-  - Conclusion
+- compendium/src/5e/saf
+aliases: ["Conclusion"]
 ---
 # Conclusion
 *Source: The Siege of Castle Rend, p. 137* 

@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvii
-- item/property/crfby
-- item/rarity/rare
-- item/wondrous
-aliases: 
-- "Ink of Secret Knowledge"
+  - compendium/src/5e/hhhvii
+  - item/property/crfby
+  - item/rarity/rare
+  - item/wondrous
+aliases:
+  - Ink of Secret Knowledge
 ---
 # Ink of Secret Knowledge
 *Wondrous Item, rare, Crafted by*  

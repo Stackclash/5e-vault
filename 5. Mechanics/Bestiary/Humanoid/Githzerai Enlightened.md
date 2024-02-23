@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/10
-- monster/environment/desert
-- monster/environment/mountain
-- monster/environment/urban
-- monster/size/medium
-- monster/type/humanoid/gith
+  - compendium/src/5e/mpmm
+  - monster/cr/10
+  - monster/environment/desert
+  - monster/environment/mountain
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/humanoid/gith
 statblock: inline
-aliases: ["Githzerai Enlightened"]
+aliases:
+  - Githzerai Enlightened
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Githzerai Enlightened.md|Githzerai Enlightened]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 143, Mordenkainen's Tome of Foes p. 208*  

@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/xge
-- spell/class/bard
-- spell/class/druid
-- spell/class/fighter/eldritch-knight
-- spell/class/rogue/arcane-trickster
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/2
-- spell/school/evocation
-aliases: ["Warding Wind"]
+  - compendium/src/5e/xge
+  - spell/class/bard
+  - spell/class/druid
+  - spell/class/fighter/eldritch-knight
+  - spell/class/rogue/arcane-trickster
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/2
+  - spell/school/evocation
+aliases:
+  - Warding Wind
 ---
 # Warding Wind
 %%-- Embedded content starts on the next line. --%%

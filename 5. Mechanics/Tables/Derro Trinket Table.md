@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhviii
-aliases: ["Derro Trinket Table"]
+  - compendium/src/5e/hhhviii
+aliases:
+  - Derro Trinket Table
 ---
 # Derro Trinket Table
 *Source: Hamund's Harvesting Handbook: Volume III p. 28* 

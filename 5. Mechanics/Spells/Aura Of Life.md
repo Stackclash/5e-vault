@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric/twilight-domain
-- spell/class/druid/circle-of-wildfire
-- spell/class/paladin
-- spell/class/sorcerer/divine-soul
-- spell/level/4
-- spell/school/abjuration
-aliases: ["Aura of Life"]
+  - compendium/src/5e/phb
+  - spell/class/cleric/twilight-domain
+  - spell/class/druid/circle-of-wildfire
+  - spell/class/paladin
+  - spell/class/sorcerer/divine-soul
+  - spell/level/4
+  - spell/school/abjuration
+aliases:
+  - Aura of Life
 ---
 # Aura of Life
 %%-- Embedded content starts on the next line. --%%

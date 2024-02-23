@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/property/crfby
-- item/rarity/uncommon
-- item/wondrous
-aliases: 
-- "Bag of Colding"
+  - compendium/src/5e/hhhvi
+  - item/property/crfby
+  - item/rarity/uncommon
+  - item/wondrous
+aliases:
+  - Bag of Colding
 ---
 # Bag of Colding
 *Wondrous Item, uncommon, Crafted by*  

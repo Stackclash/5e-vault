@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vrgr
-aliases: ["Dark Fantasy Plots"]
+  - compendium/src/5e/vrgr
+aliases:
+  - Dark Fantasy Plots
 ---
 # Dark Fantasy Plots
 *Source: Van Richten's Guide to Ravenloft p. 51* 

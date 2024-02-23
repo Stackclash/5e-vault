@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/attunement/required
-- item/property/crfby
-- item/rarity/rare
-- item/wondrous
-aliases: 
-- "Monocle of Focus"
+  - compendium/src/5e/hhhvi
+  - item/attunement/required
+  - item/property/crfby
+  - item/rarity/rare
+  - item/wondrous
+aliases:
+  - Monocle of Focus
 ---
 # Monocle of Focus
 *Wondrous Item, rare, Crafted by (requires attunement)*  

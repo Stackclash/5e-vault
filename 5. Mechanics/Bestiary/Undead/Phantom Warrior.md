@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/cos
-- monster/cr/3
-- monster/size/medium
-- monster/type/undead
+  - compendium/src/5e/cos
+  - monster/cr/3
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
-aliases: ["Phantom Warrior"]
+aliases:
+  - Phantom Warrior
 ---
 # [[5. Mechanics\Bestiary\Undead\Phantom Warrior.md|Phantom Warrior]]
 *Source: Curse of Strahd p. 235*  

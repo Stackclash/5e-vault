@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvii
-- item/property/crfby
-- item/rarity/rare
-- item/wondrous
-aliases: 
-- "Lenses of Hypnosis"
+  - compendium/src/5e/hhhvii
+  - item/property/crfby
+  - item/rarity/rare
+  - item/wondrous
+aliases:
+  - Lenses of Hypnosis
 ---
 # Lenses of Hypnosis
 *Wondrous Item, rare, Crafted by*  

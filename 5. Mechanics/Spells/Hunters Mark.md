@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/paladin/oath-of-vengeance
-- spell/class/ranger
-- spell/level/1
-- spell/school/divination
-aliases: ["Hunter's Mark"]
+  - compendium/src/5e/phb
+  - spell/class/paladin/oath-of-vengeance
+  - spell/class/ranger
+  - spell/level/1
+  - spell/school/divination
+aliases:
+  - Hunter's Mark
 ---
 # Hunter's Mark
 %%-- Embedded content starts on the next line. --%%

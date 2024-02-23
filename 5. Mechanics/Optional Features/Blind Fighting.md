@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/tce
-- optional-feature/fs-f
-- optional-feature/fs-p
-- optional-feature/fs-r
-aliases: ["Blind Fighting"]
+  - compendium/src/5e/tce
+  - optional-feature/fs-f
+  - optional-feature/fs-p
+  - optional-feature/fs-r
+aliases:
+  - Blind Fighting
 ---
 # Blind Fighting
 *Source: Tasha's Cauldron of Everything p. 41*  

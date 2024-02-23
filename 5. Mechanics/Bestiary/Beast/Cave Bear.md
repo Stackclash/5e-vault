@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/2
-- monster/environment/forest
-- monster/environment/underdark
-- monster/size/large
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/2
+  - monster/environment/forest
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/beast
 statblock: inline
-aliases: ["Cave Bear"]
+aliases:
+  - Cave Bear
 ---
 # [[5. Mechanics\Bestiary\Beast\Cave Bear.md|Cave Bear]]
 *Source: Monster Manual p. 334*  

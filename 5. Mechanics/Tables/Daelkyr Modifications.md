@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Daelkyr Modifications"]
+  - compendium/src/5e/erlw
+aliases:
+  - Daelkyr Modifications
 ---
 # Daelkyr Modifications
 *Source: Eberron: Rising from the Last War p. 284* 

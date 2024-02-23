@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/7
-- monster/environment/forest
-- monster/size/small
-- monster/type/fey
+  - compendium/src/5e/mpmm
+  - monster/cr/7
+  - monster/environment/forest
+  - monster/size/small
+  - monster/type/fey
 statblock: inline
-aliases: ["Korred"]
+aliases:
+  - Korred
 ---
 # [[5. Mechanics\Bestiary\Fey\Korred.md|Korred]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 166*  

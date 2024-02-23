@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvii
-aliases: ["Cloud Giant Smiling One"]
+  - compendium/src/5e/hhhvii
+aliases:
+  - Cloud Giant Smiling One
 ---
 # Cloud Giant Smiling One
 *Source: Hamund's Harvesting Handbook: Volume II p. 20* 

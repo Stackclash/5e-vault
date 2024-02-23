@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/1
-- monster/environment/underdark
-- monster/size/large
-- monster/type/monstrosity
+  - compendium/src/5e/mpmm
+  - monster/cr/1
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Female Steeder"]
+aliases:
+  - Female Steeder
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Female Steeder.md|Female Steeder]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 231, Mordenkainen's Tome of Foes p. 238*  

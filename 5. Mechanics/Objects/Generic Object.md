@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- compendium/src/5e/dmg
-- object/size/varies
-- object/type/generic
+  - compendium/src/5e/dmg
+  - object/size/varies
+  - object/type/generic
 statblock: inline
-aliases: ["Generic Object"]
+aliases:
+  - Generic Object
 ---
 # Generic Object
 *Source: Dungeon Master's Guide p. 246. Available in the SRD.*  

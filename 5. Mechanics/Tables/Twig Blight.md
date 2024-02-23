@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Twig Blight"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Twig Blight
 ---
 # Twig Blight
 *Source: Hamund's Harvesting Handbook: Volume I p. 14* 

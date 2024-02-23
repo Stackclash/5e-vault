@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvii
-aliases: ["Hobgoblin Iron Shadow"]
+  - compendium/src/5e/hhhvii
+aliases:
+  - Hobgoblin Iron Shadow
 ---
 # Hobgoblin Iron Shadow
 *Source: Hamund's Harvesting Handbook: Volume II p. 27* 

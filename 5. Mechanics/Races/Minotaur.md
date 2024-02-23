@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/mpmm
-- race/minotaur
-aliases: ["Minotaur"]
+  - compendium/src/5e/mpmm
+  - race/minotaur
+aliases:
+  - Minotaur
 ---
 # Minotaur
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 27*  

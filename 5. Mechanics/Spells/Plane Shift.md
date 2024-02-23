@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/class/druid
-- spell/class/sorcerer
-- spell/class/sorcerer/divine-soul
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/7
-- spell/school/conjuration
-aliases: ["Plane Shift"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/class/druid
+  - spell/class/sorcerer
+  - spell/class/sorcerer/divine-soul
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/7
+  - spell/school/conjuration
+aliases:
+  - Plane Shift
 ---
 # Plane Shift
 %%-- Embedded content starts on the next line. --%%

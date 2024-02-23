@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/2
-- monster/environment/forest
-- monster/environment/swamp
-- monster/environment/urban
-- monster/size/small
-- monster/type/fey
+  - compendium/src/5e/mpmm
+  - monster/cr/2
+  - monster/environment/forest
+  - monster/environment/swamp
+  - monster/environment/urban
+  - monster/size/small
+  - monster/type/fey
 statblock: inline
-aliases: ["Meenlock"]
+aliases:
+  - Meenlock
 ---
 # [[5. Mechanics\Bestiary\Fey\Meenlock.md|Meenlock]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 178*  

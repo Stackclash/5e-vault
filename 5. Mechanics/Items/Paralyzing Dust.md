@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/gear
-- item/property/crfby
-- item/rarity/uncommon
-aliases: 
-- "Paralyzing Dust"
+  - compendium/src/5e/hhhvi
+  - item/gear
+  - item/property/crfby
+  - item/rarity/uncommon
+aliases:
+  - Paralyzing Dust
 ---
 # Paralyzing Dust
 *Adventuring Gear, uncommon, Crafted by*  

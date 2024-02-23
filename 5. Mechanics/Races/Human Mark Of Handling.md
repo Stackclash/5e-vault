@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/erlw
-- race/human/mark-of-handling
-aliases: ["Human (Mark of Handling)"]
+  - compendium/src/5e/erlw
+  - race/human/mark-of-handling
+aliases:
+  - Human (Mark of Handling)
 ---
 # Human (Mark of Handling)
 *Source: Eberron: Rising from the Last War p. 42*  

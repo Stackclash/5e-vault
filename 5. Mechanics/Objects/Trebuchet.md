@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- compendium/src/5e/dmg
-- object/size/huge
-- object/type/siege-weapon
+  - compendium/src/5e/dmg
+  - object/size/huge
+  - object/type/siege-weapon
 statblock: inline
-aliases: ["Trebuchet"]
+aliases:
+  - Trebuchet
 ---
 # Trebuchet
 *Source: Dungeon Master's Guide p. 256*  

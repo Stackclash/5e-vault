@@ -2,18 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric/tempest-domain
-- spell/class/druid
-- spell/class/fighter/eldritch-knight
-- spell/class/rogue/arcane-trickster
-- spell/class/sorcerer
-- spell/class/warlock/the-fathomless
-- spell/class/warlock/the-genie
-- spell/class/wizard
-- spell/level/2
-- spell/school/evocation
-aliases: ["Gust of Wind"]
+  - compendium/src/5e/phb
+  - spell/class/cleric/tempest-domain
+  - spell/class/druid
+  - spell/class/fighter/eldritch-knight
+  - spell/class/rogue/arcane-trickster
+  - spell/class/sorcerer
+  - spell/class/warlock/the-fathomless
+  - spell/class/warlock/the-genie
+  - spell/class/wizard
+  - spell/level/2
+  - spell/school/evocation
+aliases:
+  - Gust of Wind
 ---
 # Gust of Wind
 %%-- Embedded content starts on the next line. --%%

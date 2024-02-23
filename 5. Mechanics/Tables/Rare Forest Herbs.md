@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhbh
-aliases: ["Rare Forest Herbs"]
+  - compendium/src/5e/hhbh
+aliases:
+  - Rare Forest Herbs
 ---
 # Rare Forest Herbs
 *Source: Hamund's Herbalism Handbook p. 43* 

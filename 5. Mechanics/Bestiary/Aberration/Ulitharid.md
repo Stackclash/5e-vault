@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/9
-- monster/environment/underdark
-- monster/size/large
-- monster/type/aberration/mind-flayer
+  - compendium/src/5e/mpmm
+  - monster/cr/9
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/aberration/mind-flayer
 statblock: inline
-aliases: ["Ulitharid"]
+aliases:
+  - Ulitharid
 ---
 # [[5. Mechanics\Bestiary\Aberration\Ulitharid.md|Ulitharid]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 249*  

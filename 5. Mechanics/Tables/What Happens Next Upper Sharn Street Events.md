@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["What Happens Next?; Upper Sharn Street Events"]
+  - compendium/src/5e/erlw
+aliases:
+  - What Happens Next?; Upper Sharn Street Events
 ---
 # What Happens Next?; Upper Sharn Street Events
 *Source: Eberron: Rising from the Last War p. 240* 

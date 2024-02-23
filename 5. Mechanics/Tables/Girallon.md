@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvii
-aliases: ["Girallon"]
+  - compendium/src/5e/hhhvii
+aliases:
+  - Girallon
 ---
 # Girallon
 *Source: Hamund's Harvesting Handbook: Volume II p. 22* 

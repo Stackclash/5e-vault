@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/wealth/gemstone
-aliases: 
-- "Chalcedony"
+  - compendium/src/5e/dmg
+  - item/wealth/gemstone
+aliases:
+  - Chalcedony
 cost: 5000
 ---
 # Chalcedony

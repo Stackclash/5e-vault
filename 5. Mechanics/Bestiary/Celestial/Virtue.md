@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/saf
-- monster/cr/7
-- monster/size/medium
-- monster/type/celestial
+  - compendium/src/5e/saf
+  - monster/cr/7
+  - monster/size/medium
+  - monster/type/celestial
 statblock: inline
-aliases: ["Virtue"]
+aliases:
+  - Virtue
 ---
 # [[5. Mechanics\Bestiary\Celestial\Virtue.md|Virtue]]
 *Source: Strongholds and Followers p. 159*  

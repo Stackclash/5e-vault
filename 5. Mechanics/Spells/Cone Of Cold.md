@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer/artillerist
-- spell/class/druid/circle-of-the-land
-- spell/class/sorcerer
-- spell/class/warlock/the-fathomless
-- spell/class/warlock/the-genie
-- spell/class/warlock/the-hexblade
-- spell/class/wizard
-- spell/level/5
-- spell/school/evocation
-aliases: ["Cone of Cold"]
+  - compendium/src/5e/phb
+  - spell/class/artificer/artillerist
+  - spell/class/druid/circle-of-the-land
+  - spell/class/sorcerer
+  - spell/class/warlock/the-fathomless
+  - spell/class/warlock/the-genie
+  - spell/class/warlock/the-hexblade
+  - spell/class/wizard
+  - spell/level/5
+  - spell/school/evocation
+aliases:
+  - Cone of Cold
 ---
 # Cone of Cold
 %%-- Embedded content starts on the next line. --%%

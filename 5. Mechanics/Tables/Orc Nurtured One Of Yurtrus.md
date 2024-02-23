@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvii
-aliases: ["Orc Nurtured One of Yurtrus"]
+  - compendium/src/5e/hhhvii
+aliases:
+  - Orc Nurtured One of Yurtrus
 ---
 # Orc Nurtured One of Yurtrus
 *Source: Hamund's Harvesting Handbook: Volume II p. 38* 

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Level Advancement without XP"]
+  - compendium/src/5e/dmg
+aliases:
+  - Level Advancement without XP
 ---
 # Level Advancement without XP
 *Source: Dungeon Master's Guide p. 261* 

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhbh
-aliases: ["All Herbs A-Z Table"]
+  - compendium/src/5e/hhbh
+aliases:
+  - All Herbs A-Z Table
 ---
 # All Herbs A-Z Table
 *Source: Hamund's Herbalism Handbook p. 44* 

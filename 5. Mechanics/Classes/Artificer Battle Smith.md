@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/tce
-- subclass/artificer/battle-smith
-aliases: ["Battle Smith"]
+  - compendium/src/5e/tce
+  - subclass/artificer/battle-smith
+aliases:
+  - Battle Smith
 ---
 # Battle Smith
 *[[Artificer.md\|Artificer]]: Artificer Specialist*  

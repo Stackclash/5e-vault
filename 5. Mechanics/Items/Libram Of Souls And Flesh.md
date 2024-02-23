@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/tce
-- item/attunement/required
-- item/rarity/rare
-- item/wondrous
-aliases: 
-- "Libram of Souls and Flesh"
+  - compendium/src/5e/tce
+  - item/attunement/required
+  - item/rarity/rare
+  - item/wondrous
+aliases:
+  - Libram of Souls and Flesh
 ---
 # Libram of Souls and Flesh
 *Wondrous Item, rare (requires attunement by a wizard)*  

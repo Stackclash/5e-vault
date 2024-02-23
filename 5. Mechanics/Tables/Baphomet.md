@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhviii
-aliases: ["Baphomet"]
+  - compendium/src/5e/hhhviii
+aliases:
+  - Baphomet
 ---
 # Baphomet
 *Source: Hamund's Harvesting Handbook: Volume III p. 24* 

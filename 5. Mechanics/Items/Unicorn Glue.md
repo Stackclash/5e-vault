@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/property/crfby
-- item/rarity/uncommon
-- item/wondrous
-aliases: 
-- "Unicorn Glue"
+  - compendium/src/5e/hhhvi
+  - item/property/crfby
+  - item/rarity/uncommon
+  - item/wondrous
+aliases:
+  - Unicorn Glue
 ---
 # Unicorn Glue
 *Wondrous Item, uncommon, Crafted by*  

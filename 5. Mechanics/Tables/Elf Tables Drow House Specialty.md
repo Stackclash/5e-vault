@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/mtf
-aliases: ["Elf Tables; Drow House Specialty"]
+  - compendium/src/5e/mtf
+aliases:
+  - Elf Tables; Drow House Specialty
 ---
 # Elf Tables; Drow House Specialty
 *Source: Mordenkainen's Tome of Foes p. 64* 

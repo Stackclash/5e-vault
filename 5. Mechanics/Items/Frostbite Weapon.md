@@ -2,40 +2,40 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/attunement/required
-- item/rarity/very-rare
-- item/wondrous/wondrous-item
-aliases: 
-- "Frostbite Weapon"
-- "Frostbite Heavy Crossbow"
-- "Frostbite Hunting Rifle"
-- "Frostbite Automatic Rifle"
-- "Frostbite Pistol"
-- "Frostbite Hooked Shortspear"
-- "Frostbite Pike"
-- "Frostbite Musket"
-- "Frostbite Yklwa"
-- "Frostbite Light Crossbow"
-- "Frostbite Morningstar"
-- "Frostbite Shotgun"
-- "Frostbite Dagger"
-- "Frostbite Longbow"
-- "Frostbite Shortbow"
-- "Frostbite Trident"
-- "Frostbite Spear"
-- "Frostbite Hand Crossbow"
-- "Frostbite Automatic Pistol"
-- "Frostbite Rapier"
-- "Frostbite Javelin"
-- "Frostbite War Pick"
-- "Frostbite Shortsword"
-- "Frostbite Revolver"
-- "Frostbite Blowgun"
-- "Frostbite Hoopak"
-- "Frostbite Lance"
-- "Frostbite Dart"
-- "Frostbite Light Repeating Crossbow"
+  - compendium/src/5e/hhhvi
+  - item/attunement/required
+  - item/rarity/very-rare
+  - item/wondrous/wondrous-item
+aliases:
+  - Frostbite Weapon
+  - Frostbite Heavy Crossbow
+  - Frostbite Hunting Rifle
+  - Frostbite Automatic Rifle
+  - Frostbite Pistol
+  - Frostbite Hooked Shortspear
+  - Frostbite Pike
+  - Frostbite Musket
+  - Frostbite Yklwa
+  - Frostbite Light Crossbow
+  - Frostbite Morningstar
+  - Frostbite Shotgun
+  - Frostbite Dagger
+  - Frostbite Longbow
+  - Frostbite Shortbow
+  - Frostbite Trident
+  - Frostbite Spear
+  - Frostbite Hand Crossbow
+  - Frostbite Automatic Pistol
+  - Frostbite Rapier
+  - Frostbite Javelin
+  - Frostbite War Pick
+  - Frostbite Shortsword
+  - Frostbite Revolver
+  - Frostbite Blowgun
+  - Frostbite Hoopak
+  - Frostbite Lance
+  - Frostbite Dart
+  - Frostbite Light Repeating Crossbow
 ---
 # Frostbite Weapon
 *Generic Variant, very rare (requires attunement)*  

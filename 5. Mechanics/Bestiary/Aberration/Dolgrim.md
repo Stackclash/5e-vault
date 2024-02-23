@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/erlw
-- monster/cr/1-2
-- monster/size/small
-- monster/type/aberration
+  - compendium/src/5e/erlw
+  - monster/cr/1-2
+  - monster/size/small
+  - monster/type/aberration
 statblock: inline
-aliases: ["Dolgrim"]
+aliases:
+  - Dolgrim
 ---
 # [[5. Mechanics\Bestiary\Aberration\Dolgrim.md|Dolgrim]]
 *Source: Eberron: Rising from the Last War p. 291*  

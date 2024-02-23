@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/xge
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/6
-- spell/school/necromancy
-aliases: ["Soul Cage"]
+  - compendium/src/5e/xge
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/6
+  - spell/school/necromancy
+aliases:
+  - Soul Cage
 ---
 # Soul Cage
 %%-- Embedded content starts on the next line. --%%

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/xge
-aliases: ["Half-Orc Names – Female"]
+  - compendium/src/5e/xge
+aliases:
+  - Half-Orc Names – Female
 ---
 # Half-Orc Names – Female
 *Source: Xanathar's Guide to Everything p. 179* 

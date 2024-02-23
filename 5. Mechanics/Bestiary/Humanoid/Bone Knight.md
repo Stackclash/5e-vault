@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/erlw
-- monster/cr/5
-- monster/size/medium
-- monster/type/humanoid/any-race
+  - compendium/src/5e/erlw
+  - monster/cr/5
+  - monster/size/medium
+  - monster/type/humanoid/any-race
 statblock: inline
-aliases: ["Bone Knight"]
+aliases:
+  - Bone Knight
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Bone Knight.md|Bone Knight]]
 *Source: Eberron: Rising from the Last War p. 316*  

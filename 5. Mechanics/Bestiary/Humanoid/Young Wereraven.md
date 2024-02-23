@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/cos
-- monster/cr/2
-- monster/size/small
-- monster/type/humanoid/human
-- monster/type/humanoid/shapechanger
+  - compendium/src/5e/cos
+  - monster/cr/2
+  - monster/size/small
+  - monster/type/humanoid/human
+  - monster/type/humanoid/shapechanger
 statblock: inline
-aliases: ["Young Wereraven"]
+aliases:
+  - Young Wereraven
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Young Wereraven.md|Young Wereraven]]
 *Source: Curse of Strahd p. 98*  

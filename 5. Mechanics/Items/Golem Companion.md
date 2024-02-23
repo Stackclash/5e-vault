@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/property/crfby
-- item/rarity/rare
-- item/wondrous
-aliases: 
-- "Golem Companion"
+  - compendium/src/5e/hhhvi
+  - item/property/crfby
+  - item/rarity/rare
+  - item/wondrous
+aliases:
+  - Golem Companion
 ---
 # Golem Companion
 *Wondrous Item, rare, Crafted by*  

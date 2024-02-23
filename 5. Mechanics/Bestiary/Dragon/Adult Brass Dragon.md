@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/13
-- monster/environment/desert
-- monster/size/huge
-- monster/type/dragon
+  - compendium/src/5e/mm
+  - monster/cr/13
+  - monster/environment/desert
+  - monster/size/huge
+  - monster/type/dragon
 statblock: inline
-aliases: ["Adult Brass Dragon"]
+aliases:
+  - Adult Brass Dragon
 ---
 # [[5. Mechanics\Bestiary\Dragon\Adult Brass Dragon.md|Adult Brass Dragon]]
 *Source: Monster Manual p. 105. Available in the SRD.*  

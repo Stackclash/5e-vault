@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/xge
-- subclass/warlock/celestial
-aliases: ["The Celestial"]
+  - compendium/src/5e/xge
+  - subclass/warlock/celestial
+aliases:
+  - The Celestial
 ---
 # The Celestial
 *[[Warlock.md\|Warlock]]: Otherworldly Patron*  

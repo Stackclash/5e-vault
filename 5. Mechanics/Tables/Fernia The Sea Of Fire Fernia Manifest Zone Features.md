@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Fernia, the Sea of Fire; Fernia Manifest Zone Features"]
+  - compendium/src/5e/erlw
+aliases:
+  - 'Fernia, the Sea of Fire; Fernia Manifest Zone Features'
 ---
 # Fernia, the Sea of Fire; Fernia Manifest Zone Features
 *Source: Eberron: Rising from the Last War p. 229* 

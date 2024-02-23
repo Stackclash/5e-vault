@@ -2,20 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/attunement/required
-- item/rarity/very-rare
-- item/wondrous/wondrous-item
-aliases: 
-- "Divine Justice"
-- "Divine Justice Light Hammer"
-- "Divine Justice Flail"
-- "Divine Justice Greatclub"
-- "Divine Justice Warhammer"
-- "Divine Justice Quarterstaff"
-- "Divine Justice Club"
-- "Divine Justice Maul"
-- "Divine Justice Mace"
+  - compendium/src/5e/hhhvi
+  - item/attunement/required
+  - item/rarity/very-rare
+  - item/wondrous/wondrous-item
+aliases:
+  - Divine Justice
+  - Divine Justice Light Hammer
+  - Divine Justice Flail
+  - Divine Justice Greatclub
+  - Divine Justice Warhammer
+  - Divine Justice Quarterstaff
+  - Divine Justice Club
+  - Divine Justice Maul
+  - Divine Justice Mace
 ---
 # Divine Justice
 *Generic Variant, very rare (requires attunement by a good-aligned paladin or cleric)*  

@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- compendium/src/5e/mtf
-- deity/elven
-- domain/life
-aliases: ["Hanali Celanil"]
+  - compendium/src/5e/mtf
+  - deity/elven
+  - domain/life
+aliases:
+  - Hanali Celanil
 ---
 # Hanali Celanil
 *Source: Mordenkainen's Tome of Foes p. 45* 

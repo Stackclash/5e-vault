@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/xge
-- item/rarity/common
-- item/tier/minor
-- item/wondrous
-aliases: 
-- "Pole of Angling"
+  - compendium/src/5e/xge
+  - item/rarity/common
+  - item/tier/minor
+  - item/wondrous
+aliases:
+  - Pole of Angling
 ---
 # Pole of Angling
 *Wondrous Item, minor, common*  

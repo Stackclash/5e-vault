@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhviii
-aliases: ["The Angry"]
+  - compendium/src/5e/hhhviii
+aliases:
+  - The Angry
 ---
 # The Angry
 *Source: Hamund's Harvesting Handbook: Volume III p. 62* 

@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/9
-- monster/environment/urban
-- monster/size/medium
-- monster/type/humanoid
+  - compendium/src/5e/mpmm
+  - monster/cr/9
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/humanoid
 statblock: inline
-aliases: ["Abjurer Wizard"]
+aliases:
+  - Abjurer Wizard
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Abjurer Wizard.md|Abjurer Wizard]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 260*  

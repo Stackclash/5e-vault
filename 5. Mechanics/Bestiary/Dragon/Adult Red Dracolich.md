@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/tce
-- monster/cr/17
-- monster/size/huge
-- monster/type/dragon
+  - compendium/src/5e/tce
+  - monster/cr/17
+  - monster/size/huge
+  - monster/type/dragon
 statblock: inline
-aliases: ["Adult Red Dracolich"]
+aliases:
+  - Adult Red Dracolich
 ---
 # [[5. Mechanics\Bestiary\Dragon\Adult Red Dracolich.md|Adult Red Dracolich]]
 *Source: Tasha's Cauldron of Everything p. 137*  

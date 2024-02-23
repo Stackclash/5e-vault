@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/mtf
-aliases: ["Githzerai Groups; Githzerai Group Leader"]
+  - compendium/src/5e/mtf
+aliases:
+  - Githzerai Groups; Githzerai Group Leader
 ---
 # Githzerai Groups; Githzerai Group Leader
 *Source: Mordenkainen's Tome of Foes p. 98* 

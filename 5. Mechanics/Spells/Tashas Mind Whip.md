@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/tce
-- spell/class/fighter/eldritch-knight
-- spell/class/rogue/arcane-trickster
-- spell/level/2
-- spell/school/enchantment
-aliases: ["Tasha's Mind Whip"]
+  - compendium/src/5e/tce
+  - spell/class/fighter/eldritch-knight
+  - spell/class/rogue/arcane-trickster
+  - spell/level/2
+  - spell/school/enchantment
+aliases:
+  - Tasha's Mind Whip
 ---
 # Tasha's Mind Whip
 %%-- Embedded content starts on the next line. --%%

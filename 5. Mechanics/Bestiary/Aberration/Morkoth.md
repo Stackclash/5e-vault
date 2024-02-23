@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/11
-- monster/environment/coastal
-- monster/environment/underwater
-- monster/size/large
-- monster/type/aberration
+  - compendium/src/5e/mpmm
+  - monster/cr/11
+  - monster/environment/coastal
+  - monster/environment/underwater
+  - monster/size/large
+  - monster/type/aberration
 statblock: inline
-aliases: ["Morkoth"]
+aliases:
+  - Morkoth
 ---
 # [[5. Mechanics\Bestiary\Aberration\Morkoth.md|Morkoth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 186*  

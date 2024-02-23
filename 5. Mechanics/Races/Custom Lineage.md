@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/tce
-- race/custom-lineage
-aliases: ["Custom Lineage"]
+  - compendium/src/5e/tce
+  - race/custom-lineage
+aliases:
+  - Custom Lineage
 ---
 # Custom Lineage
 *Source: Tasha's Cauldron of Everything p. 8*  

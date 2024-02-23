@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/xge
-- feat
-aliases: ["Wood Elf Magic"]
+  - compendium/src/5e/xge
+  - feat
+aliases:
+  - Wood Elf Magic
 ---
 # Wood Elf Magic
 *Source: Xanathar's Guide to Everything p. 75*  

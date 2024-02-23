@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/xge
-- feat
-aliases: ["Dragon Fear"]
+  - compendium/src/5e/xge
+  - feat
+aliases:
+  - Dragon Fear
 ---
 # Dragon Fear
 *Source: Xanathar's Guide to Everything p. 74*  

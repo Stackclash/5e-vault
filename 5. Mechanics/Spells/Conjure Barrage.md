@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer/battle-smith
-- spell/class/ranger
-- spell/level/3
-- spell/school/conjuration
-aliases: ["Conjure Barrage"]
+  - compendium/src/5e/phb
+  - spell/class/artificer/battle-smith
+  - spell/class/ranger
+  - spell/level/3
+  - spell/school/conjuration
+aliases:
+  - Conjure Barrage
 ---
 # Conjure Barrage
 %%-- Embedded content starts on the next line. --%%

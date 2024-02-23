@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhbh
-aliases: ["Herb's Relative Rarity Table"]
+  - compendium/src/5e/hhbh
+aliases:
+  - Herb's Relative Rarity Table
 ---
 # Herb's Relative Rarity Table
 *Source: Hamund's Herbalism Handbook p. 3* 

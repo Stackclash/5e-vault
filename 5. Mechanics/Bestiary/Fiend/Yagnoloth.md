@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/11
-- monster/environment/urban
-- monster/size/large
-- monster/type/fiend/yugoloth
+  - compendium/src/5e/mpmm
+  - monster/cr/11
+  - monster/environment/urban
+  - monster/size/large
+  - monster/type/fiend/yugoloth
 statblock: inline
-aliases: ["Yagnoloth"]
+aliases:
+  - Yagnoloth
 ---
 # [[5. Mechanics\Bestiary\Fiend\Yagnoloth.md|Yagnoloth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 268, Mordenkainen's Tome of Foes p. 252*  

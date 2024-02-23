@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vrgr
-aliases: ["Gothic Horror Torments"]
+  - compendium/src/5e/vrgr
+aliases:
+  - Gothic Horror Torments
 ---
 # Gothic Horror Torments
 *Source: Van Richten's Guide to Ravenloft p. 56* 

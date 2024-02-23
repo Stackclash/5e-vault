@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/gear/curse
-- item/property/crfby
-- item/rarity/rare
-aliases: 
-- "Curse of Spite"
+  - compendium/src/5e/hhhvi
+  - item/gear/curse
+  - item/property/crfby
+  - item/rarity/rare
+aliases:
+  - Curse of Spite
 ---
 # Curse of Spite
 *Curse, rare, Crafted by*  

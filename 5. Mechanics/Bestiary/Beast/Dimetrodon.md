@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/1-4
-- monster/environment/coastal
-- monster/environment/swamp
-- monster/size/medium
-- monster/type/beast/dinosaur
+  - compendium/src/5e/mpmm
+  - monster/cr/1-4
+  - monster/environment/coastal
+  - monster/environment/swamp
+  - monster/size/medium
+  - monster/type/beast/dinosaur
 statblock: inline
-aliases: ["Dimetrodon"]
+aliases:
+  - Dimetrodon
 ---
 # [[5. Mechanics\Bestiary\Beast\Dimetrodon.md|Dimetrodon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 95*  

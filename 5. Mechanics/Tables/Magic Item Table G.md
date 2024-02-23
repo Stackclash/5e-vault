@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Magic Item Table G"]
+  - compendium/src/5e/dmg
+aliases:
+  - Magic Item Table G
 ---
 # Magic Item Table G
 *Source: Dungeon Master's Guide p. 144* 

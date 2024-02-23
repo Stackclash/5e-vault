@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/tce
-- subclass/bard/creation
-aliases: ["College of Creation"]
+  - compendium/src/5e/tce
+  - subclass/bard/creation
+aliases:
+  - College of Creation
 ---
 # College of Creation
 *[[Bard.md\|Bard]]: Bard College*  

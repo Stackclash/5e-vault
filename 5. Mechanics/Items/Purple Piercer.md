@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/attunement/required
-- item/rarity/very-rare
-- item/wondrous/wondrous-item
-aliases: 
-- "Purple Piercer"
-- "Purple Piercer Pike"
-- "Purple Piercer Spear"
-- "Purple Piercer Lance"
+  - compendium/src/5e/hhhvi
+  - item/attunement/required
+  - item/rarity/very-rare
+  - item/wondrous/wondrous-item
+aliases:
+  - Purple Piercer
+  - Purple Piercer Pike
+  - Purple Piercer Spear
+  - Purple Piercer Lance
 ---
 # Purple Piercer
 *Generic Variant, very rare (requires attunement)*  

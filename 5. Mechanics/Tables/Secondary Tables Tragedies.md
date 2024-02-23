@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/xge
-aliases: ["Secondary Tables; Tragedies"]
+  - compendium/src/5e/xge
+aliases:
+  - Secondary Tables; Tragedies
 ---
 # Secondary Tables; Tragedies
 *Source: Xanathar's Guide to Everything p. 70* 

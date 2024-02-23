@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/4
-- monster/environment/coastal
-- monster/environment/forest
-- monster/size/medium
-- monster/type/undead
+  - compendium/src/5e/mm
+  - monster/cr/4
+  - monster/environment/coastal
+  - monster/environment/forest
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
-aliases: ["Banshee"]
+aliases:
+  - Banshee
 ---
 # [[5. Mechanics\Bestiary\Undead\Banshee.md|Banshee]]
 *Source: Monster Manual p. 23, Curse of Strahd, Tasha's Cauldron of Everything. Available in the Basic Rules.*  

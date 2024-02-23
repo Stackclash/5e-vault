@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/hhbh
-aliases:
-  - 'Chapter 1: Introduction'
+- compendium/src/5e/hhbh
+aliases: ["Chapter 1: Introduction"]
 ---
 # Chapter 1: Introduction
 *Source: Hamund's Herbalism Handbook, p. 2* 

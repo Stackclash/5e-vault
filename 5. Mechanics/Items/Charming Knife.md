@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/property/crfby
-- item/property/finesse
-- item/property/light
-- item/property/thrown
-- item/rarity/rare
-- item/weapon/simple/melee
-aliases: 
-- "Charming Knife"
+  - compendium/src/5e/hhhvi
+  - item/property/crfby
+  - item/property/finesse
+  - item/property/light
+  - item/property/thrown
+  - item/rarity/rare
+  - item/weapon/simple/melee
+aliases:
+  - Charming Knife
 ---
 # Charming Knife
 *Melee Weapon, rare, Crafted by*  

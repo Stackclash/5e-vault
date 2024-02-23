@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-4
-- monster/environment/swamp
-- monster/size/medium
-- monster/type/humanoid/bullywug
+  - compendium/src/5e/mm
+  - monster/cr/1-4
+  - monster/environment/swamp
+  - monster/size/medium
+  - monster/type/humanoid/bullywug
 statblock: inline
-aliases: ["Bullywug"]
+aliases:
+  - Bullywug
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Bullywug.md|Bullywug]]
 *Source: Monster Manual p. 35*  

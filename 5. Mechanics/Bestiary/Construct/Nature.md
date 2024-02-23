@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/saf
-- monster/cr/10
-- monster/size/large
-- monster/type/construct
+  - compendium/src/5e/saf
+  - monster/cr/10
+  - monster/size/large
+  - monster/type/construct
 statblock: inline
-aliases: ["Nature"]
+aliases:
+  - Nature
 ---
 # [[5. Mechanics\Bestiary\Construct\Nature.md|Nature]]
 *Source: Strongholds and Followers p. 232*  

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Trinkets from Sarlona"]
+  - compendium/src/5e/erlw
+aliases:
+  - Trinkets from Sarlona
 ---
 # Trinkets from Sarlona
 *Source: Eberron: Rising from the Last War p. 138* 

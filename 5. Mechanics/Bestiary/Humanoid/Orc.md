@@ -2,19 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-2
-- monster/environment/arctic
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/humanoid/orc
+  - compendium/src/5e/mm
+  - monster/cr/1-2
+  - monster/environment/arctic
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/humanoid/orc
 statblock: inline
-aliases: ["Orc"]
+aliases:
+  - Orc
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Orc.md|Orc]]
 *Source: Monster Manual p. 246, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  

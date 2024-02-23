@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/attunement/required
-- item/property/crfby
-- item/rarity/legendary
-- item/wondrous
-aliases: 
-- "Crown of the Eternal Bolt"
+  - compendium/src/5e/hhhviii
+  - item/attunement/required
+  - item/property/crfby
+  - item/rarity/legendary
+  - item/wondrous
+aliases:
+  - Crown of the Eternal Bolt
 ---
 # Crown of the Eternal Bolt
 *Wondrous Item, legendary, Crafted by (requires attunement)*  

@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/2
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/construct/dwarf
+  - compendium/src/5e/mpmm
+  - monster/cr/2
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/construct/dwarf
 statblock: inline
-aliases: ["Duergar Hammerer"]
+aliases:
+  - Duergar Hammerer
 ---
 # [[5. Mechanics\Bestiary\Construct\Duergar Hammerer.md|Duergar Hammerer]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 112, Mordenkainen's Tome of Foes p. 188*  

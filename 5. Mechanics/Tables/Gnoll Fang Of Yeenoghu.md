@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Gnoll Fang of Yeenoghu"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Gnoll Fang of Yeenoghu
 ---
 # Gnoll Fang of Yeenoghu
 *Source: Hamund's Harvesting Handbook: Volume I p. 56* 

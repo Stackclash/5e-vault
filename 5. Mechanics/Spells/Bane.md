@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/cleric
-- spell/class/cleric/grave-domain
-- spell/class/paladin/oath-of-vengeance
-- spell/class/sorcerer/divine-soul
-- spell/class/warlock/the-undead
-- spell/level/1
-- spell/school/enchantment
-aliases: ["Bane"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/cleric
+  - spell/class/cleric/grave-domain
+  - spell/class/paladin/oath-of-vengeance
+  - spell/class/sorcerer/divine-soul
+  - spell/class/warlock/the-undead
+  - spell/level/1
+  - spell/school/enchantment
+aliases:
+  - Bane
 ---
 # Bane
 %%-- Embedded content starts on the next line. --%%

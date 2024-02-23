@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/tce
-aliases: ["Monster Research"]
+  - compendium/src/5e/tce
+aliases:
+  - Monster Research
 ---
 # Monster Research
 *Source: Tasha's Cauldron of Everything p. 148* 

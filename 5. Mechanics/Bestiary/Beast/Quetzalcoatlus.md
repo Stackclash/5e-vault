@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/2
-- monster/environment/coastal
-- monster/environment/hill
-- monster/environment/mountain
-- monster/size/huge
-- monster/type/beast/dinosaur
+  - compendium/src/5e/mpmm
+  - monster/cr/2
+  - monster/environment/coastal
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/size/huge
+  - monster/type/beast/dinosaur
 statblock: inline
-aliases: ["Quetzalcoatlus"]
+aliases:
+  - Quetzalcoatlus
 ---
 # [[5. Mechanics\Bestiary\Beast\Quetzalcoatlus.md|Quetzalcoatlus]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 96*  

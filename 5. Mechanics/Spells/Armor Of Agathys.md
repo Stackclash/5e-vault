@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/paladin/oath-of-conquest
-- spell/class/warlock
-- spell/level/1
-- spell/school/abjuration
-aliases: ["Armor of Agathys"]
+  - compendium/src/5e/phb
+  - spell/class/paladin/oath-of-conquest
+  - spell/class/warlock
+  - spell/level/1
+  - spell/school/abjuration
+aliases:
+  - Armor of Agathys
 ---
 # Armor of Agathys
 %%-- Embedded content starts on the next line. --%%

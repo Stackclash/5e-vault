@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/cos
-- monster/cr/3
-- monster/size/large
-- monster/type/beast
+  - compendium/src/5e/cos
+  - monster/cr/3
+  - monster/size/large
+  - monster/type/beast
 statblock: inline
-aliases: ["Armored Saber-Toothed Tiger"]
+aliases:
+  - Armored Saber-Toothed Tiger
 ---
 # [[5. Mechanics\Bestiary\Beast\Armored Saber Toothed Tiger.md|Armored Saber-Toothed Tiger]]
 *Source: Curse of Strahd p. 115*  

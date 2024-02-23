@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/saf
-- monster/cr/8
-- monster/size/large
-- monster/type/dragon
+  - compendium/src/5e/saf
+  - monster/cr/8
+  - monster/size/large
+  - monster/type/dragon
 statblock: inline
-aliases: ["Young Emerald Dragon"]
+aliases:
+  - Young Emerald Dragon
 ---
 # [[5. Mechanics\Bestiary\Dragon\Young Emerald Dragon.md|Young Emerald Dragon]]
 *Source: Strongholds and Followers p. 201*  

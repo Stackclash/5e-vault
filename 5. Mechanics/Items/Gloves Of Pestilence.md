@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/property/crfby
-- item/rarity/very-rare
-- item/wondrous
-aliases: 
-- "Gloves of Pestilence"
+  - compendium/src/5e/hhhviii
+  - item/property/crfby
+  - item/rarity/very-rare
+  - item/wondrous
+aliases:
+  - Gloves of Pestilence
 ---
 # Gloves of Pestilence
 *Wondrous Item, very rare, Crafted by*  

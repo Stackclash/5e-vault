@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/tce
-aliases: ["Criminal Syndicate Member Roles"]
+  - compendium/src/5e/tce
+aliases:
+  - Criminal Syndicate Member Roles
 ---
 # Criminal Syndicate Member Roles
 *Source: Tasha's Cauldron of Everything p. 92* 

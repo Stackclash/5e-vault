@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/xge
-aliases: ["Supplemental Tables; Absent Parent"]
+  - compendium/src/5e/xge
+aliases:
+  - Supplemental Tables; Absent Parent
 ---
 # Supplemental Tables; Absent Parent
 *Source: Xanathar's Guide to Everything p. 63* 

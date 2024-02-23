@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/saf
-- monster/cr/8
-- monster/size/medium
-- monster/type/elemental
+  - compendium/src/5e/saf
+  - monster/cr/8
+  - monster/size/medium
+  - monster/type/elemental
 statblock: inline
-aliases: ["Knight of Air"]
+aliases:
+  - Knight of Air
 ---
 # [[5. Mechanics\Bestiary\Elemental\Knight Of Air.md|Knight of Air]]
 *Source: Strongholds and Followers p. 190*  

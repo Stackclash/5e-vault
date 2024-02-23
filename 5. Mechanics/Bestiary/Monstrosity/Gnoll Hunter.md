@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/1-2
-- monster/environment/arctic
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/size/medium
-- monster/type/monstrosity
+  - compendium/src/5e/mpmm
+  - monster/cr/1-2
+  - monster/environment/arctic
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/size/medium
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Gnoll Hunter"]
+aliases:
+  - Gnoll Hunter
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Gnoll Hunter.md|Gnoll Hunter]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 144*  

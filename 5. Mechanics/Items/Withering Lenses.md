@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvii
-- item/attunement/required
-- item/property/crfby
-- item/rarity/rare
-- item/wondrous
-aliases: 
-- "Withering Lenses"
+  - compendium/src/5e/hhhvii
+  - item/attunement/required
+  - item/property/crfby
+  - item/rarity/rare
+  - item/wondrous
+aliases:
+  - Withering Lenses
 ---
 # Withering Lenses
 *Wondrous Item, rare, Crafted by (requires attunement)*  

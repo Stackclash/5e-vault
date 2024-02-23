@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Library Vault Adventures"]
+  - compendium/src/5e/erlw
+aliases:
+  - Library Vault Adventures
 ---
 # Library Vault Adventures
 *Source: Eberron: Rising from the Last War p. 226* 

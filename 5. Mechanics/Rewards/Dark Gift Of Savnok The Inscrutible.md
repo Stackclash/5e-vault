@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/cos
-- reward/charm
-aliases: ["Dark Gift of Savnok the Inscrutible"]
+  - compendium/src/5e/cos
+  - reward/charm
+aliases:
+  - Dark Gift of Savnok the Inscrutible
 ---
 # Dark Gift of Savnok the Inscrutible
 *Charm*  

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhviii
-aliases: ["Ogre Bolt Launcher"]
+  - compendium/src/5e/hhhviii
+aliases:
+  - Ogre Bolt Launcher
 ---
 # Ogre Bolt Launcher
 *Source: Hamund's Harvesting Handbook: Volume III p. 56* 

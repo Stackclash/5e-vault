@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/property/crfby
-- item/rarity/varies
-- item/wondrous/wondrous-item
-aliases: 
-- "Viper Strike"
+  - compendium/src/5e/hhhvi
+  - item/property/crfby
+  - item/rarity/varies
+  - item/wondrous/wondrous-item
+aliases:
+  - Viper Strike
 ---
 # Viper Strike
 *Generic Variant, varies, Crafted by*  

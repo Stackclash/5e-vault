@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/tce
-- subclass/ranger/swarmkeeper
-aliases: ["Swarmkeeper"]
+  - compendium/src/5e/tce
+  - subclass/ranger/swarmkeeper
+aliases:
+  - Swarmkeeper
 ---
 # Swarmkeeper
 *[[Ranger.md\|Ranger]]: Ranger Archetype*  

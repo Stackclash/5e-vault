@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/19
-- monster/environment/mountain
-- monster/environment/urban
-- monster/size/medium
-- monster/type/fiend/devil
+  - compendium/src/5e/mpmm
+  - monster/cr/19
+  - monster/environment/mountain
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/fiend/devil
 statblock: inline
-aliases: ["Red Abishai"]
+aliases:
+  - Red Abishai
 ---
 # [[5. Mechanics\Bestiary\Fiend\Red Abishai.md|Red Abishai]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 40, Mordenkainen's Tome of Foes p. 160*  

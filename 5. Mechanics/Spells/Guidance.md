@@ -2,18 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer
-- spell/class/bard/college-of-spirits
-- spell/class/cleric
-- spell/class/cleric/nature-domain
-- spell/class/druid
-- spell/class/druid/circle-of-stars
-- spell/class/druid/circle-of-the-land
-- spell/class/sorcerer/divine-soul
-- spell/level/cantrip
-- spell/school/divination
-aliases: ["Guidance"]
+  - compendium/src/5e/phb
+  - spell/class/artificer
+  - spell/class/bard/college-of-spirits
+  - spell/class/cleric
+  - spell/class/cleric/nature-domain
+  - spell/class/druid
+  - spell/class/druid/circle-of-stars
+  - spell/class/druid/circle-of-the-land
+  - spell/class/sorcerer/divine-soul
+  - spell/level/cantrip
+  - spell/school/divination
+aliases:
+  - Guidance
 ---
 # Guidance
 %%-- Embedded content starts on the next line. --%%

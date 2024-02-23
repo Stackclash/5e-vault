@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/erlw
-- monster/cr/7
-- monster/size/large
-- monster/type/construct
+  - compendium/src/5e/erlw
+  - monster/cr/7
+  - monster/size/large
+  - monster/type/construct
 statblock: inline
-aliases: ["Living Cloudkill"]
+aliases:
+  - Living Cloudkill
 ---
 # [[5. Mechanics\Bestiary\Construct\Living Cloudkill.md|Living Cloudkill]]
 *Source: Eberron: Rising from the Last War p. 299*  

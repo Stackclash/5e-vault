@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Scarecrow"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Scarecrow
 ---
 # Scarecrow
 *Source: Hamund's Harvesting Handbook: Volume I p. 92* 

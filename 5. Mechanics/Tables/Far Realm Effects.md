@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/tce
-aliases: ["Far Realm Effects"]
+  - compendium/src/5e/tce
+aliases:
+  - Far Realm Effects
 ---
 # Far Realm Effects
 *Source: Tasha's Cauldron of Everything p. 152* 

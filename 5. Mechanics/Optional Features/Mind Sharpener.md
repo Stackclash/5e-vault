@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/tce
-- optional-feature/ai
-aliases: ["Mind Sharpener"]
+  - compendium/src/5e/tce
+  - optional-feature/ai
+aliases:
+  - Mind Sharpener
 ---
 # Mind Sharpener
 *Source: Tasha's Cauldron of Everything p. 22*  

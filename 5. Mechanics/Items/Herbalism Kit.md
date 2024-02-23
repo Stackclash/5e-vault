@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear/tools
-aliases: 
-- "Herbalism Kit"
+  - compendium/src/5e/phb
+  - item/gear/tools
+aliases:
+  - Herbalism Kit
 cost: 500
 ---
 # Herbalism Kit

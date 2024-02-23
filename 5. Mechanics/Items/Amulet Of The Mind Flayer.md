@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/attunement/required
-- item/property/crfby
-- item/rarity/rare
-- item/wondrous
-aliases: 
-- "Amulet of the Mind Flayer"
+  - compendium/src/5e/hhhvi
+  - item/attunement/required
+  - item/property/crfby
+  - item/rarity/rare
+  - item/wondrous
+aliases:
+  - Amulet of the Mind Flayer
 ---
 # Amulet of the Mind Flayer
 *Wondrous Item, rare, Crafted by (requires attunement)*  

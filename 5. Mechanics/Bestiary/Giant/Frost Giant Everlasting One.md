@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/12
-- monster/environment/coastal
-- monster/size/huge
-- monster/type/giant
+  - compendium/src/5e/mpmm
+  - monster/cr/12
+  - monster/environment/coastal
+  - monster/size/huge
+  - monster/type/giant
 statblock: inline
-aliases: ["Frost Giant Everlasting One"]
+aliases:
+  - Frost Giant Everlasting One
 ---
 # [[5. Mechanics\Bestiary\Giant\Frost Giant Everlasting One.md|Frost Giant Everlasting One]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 131*  

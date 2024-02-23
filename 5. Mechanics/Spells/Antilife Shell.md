@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric/death-domain
-- spell/class/cleric/grave-domain
-- spell/class/druid
-- spell/class/warlock/the-undead
-- spell/level/5
-- spell/school/abjuration
-aliases: ["Antilife Shell"]
+  - compendium/src/5e/phb
+  - spell/class/cleric/death-domain
+  - spell/class/cleric/grave-domain
+  - spell/class/druid
+  - spell/class/warlock/the-undead
+  - spell/level/5
+  - spell/school/abjuration
+aliases:
+  - Antilife Shell
 ---
 # Antilife Shell
 %%-- Embedded content starts on the next line. --%%

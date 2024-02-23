@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/saf
-aliases:
-  - The Establishment
+- compendium/src/5e/saf
+aliases: ["The Establishment"]
 ---
 # The Establishment
 *Source: Strongholds and Followers* 

@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/erlw
-- item/wondrous/wondrous-item
-aliases: 
-- "Dragon's Blood"
+  - compendium/src/5e/erlw
+  - item/wondrous/wondrous-item
+aliases:
+  - Dragon's Blood
 ---
 # Dragon's Blood
 *Other*  

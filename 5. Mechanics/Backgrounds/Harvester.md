@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
-- background
-- compendium/src/5e/hhhvi
-aliases: ["Harvester"]
+  - background
+  - compendium/src/5e/hhhvi
+aliases:
+  - Harvester
 ---
 # Harvester
 *Source: Hamund's Harvesting Handbook: Volume I p. 146*  

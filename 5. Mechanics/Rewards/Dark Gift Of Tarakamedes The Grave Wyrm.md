@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/cos
-- reward/charm
-aliases: ["Dark Gift of Tarakamedes, the Grave Wyrm"]
+  - compendium/src/5e/cos
+  - reward/charm
+aliases:
+  - 'Dark Gift of Tarakamedes, the Grave Wyrm'
 ---
 # Dark Gift of Tarakamedes, the Grave Wyrm
 *Charm*  

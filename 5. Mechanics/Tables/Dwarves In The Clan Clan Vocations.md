@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/mtf
-aliases: ["Dwarves in the Clan; Clan Vocations"]
+  - compendium/src/5e/mtf
+aliases:
+  - Dwarves in the Clan; Clan Vocations
 ---
 # Dwarves in the Clan; Clan Vocations
 *Source: Mordenkainen's Tome of Foes p. 82* 

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhviii
-aliases: ["Sword Wraith Commander"]
+  - compendium/src/5e/hhhviii
+aliases:
+  - Sword Wraith Commander
 ---
 # Sword Wraith Commander
 *Source: Hamund's Harvesting Handbook: Volume III p. 68* 

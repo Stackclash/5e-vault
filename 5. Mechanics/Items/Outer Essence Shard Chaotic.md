@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/tce
-- item/attunement/required
-- item/rarity/rare
-- item/wondrous
-aliases: 
-- "Outer Essence Shard (Chaotic)"
+  - compendium/src/5e/tce
+  - item/attunement/required
+  - item/rarity/rare
+  - item/wondrous
+aliases:
+  - Outer Essence Shard (Chaotic)
 ---
 # Outer Essence Shard (Chaotic)
 *Wondrous Item, rare (requires attunement by a sorcerer)*  

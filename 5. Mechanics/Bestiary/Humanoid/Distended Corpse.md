@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/cos
-- monster/cr/0
-- monster/size/medium
-- monster/type/humanoid/any-race
+  - compendium/src/5e/cos
+  - monster/cr/0
+  - monster/size/medium
+  - monster/type/humanoid/any-race
 statblock: inline
-aliases: ["Distended Corpse"]
+aliases:
+  - Distended Corpse
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Distended Corpse.md|Distended Corpse]]
 *Source: Curse of Strahd p. 165*  

@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/vrgr
-- monster/cr/2
-- monster/size/medium
-- monster/type/monstrosity
+  - compendium/src/5e/vrgr
+  - monster/cr/2
+  - monster/size/medium
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Swarm of Gremishkas"]
+aliases:
+  - Swarm of Gremishkas
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Swarm Of Gremishkas.md|Swarm of Gremishkas]]
 *Source: Van Richten's Guide to Ravenloft p. 235*  

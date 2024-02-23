@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/property/crfby
-- item/rarity/rare
-- item/weapon/ammunition
-aliases: 
-- "+2 Dragon Bolt"
+  - compendium/src/5e/hhhvi
+  - item/property/crfby
+  - item/rarity/rare
+  - item/weapon/ammunition
+aliases:
+  - +2 Dragon Bolt
 ---
 # +2 Dragon Bolt
 *Ammunition, rare, Crafted by*  

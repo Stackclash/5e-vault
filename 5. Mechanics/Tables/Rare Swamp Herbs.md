@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhbh
-aliases: ["Rare Swamp Herbs"]
+  - compendium/src/5e/hhbh
+aliases:
+  - Rare Swamp Herbs
 ---
 # Rare Swamp Herbs
 *Source: Hamund's Herbalism Handbook p. 43* 

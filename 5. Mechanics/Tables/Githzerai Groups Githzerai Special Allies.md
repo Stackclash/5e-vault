@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/mtf
-aliases: ["Githzerai Groups; Githzerai Special Allies"]
+  - compendium/src/5e/mtf
+aliases:
+  - Githzerai Groups; Githzerai Special Allies
 ---
 # Githzerai Groups; Githzerai Special Allies
 *Source: Mordenkainen's Tome of Foes p. 98* 

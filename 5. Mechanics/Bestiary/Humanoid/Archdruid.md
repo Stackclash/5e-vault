@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/12
-- monster/environment/forest
-- monster/environment/mountain
-- monster/environment/swamp
-- monster/environment/underwater
-- monster/size/medium
-- monster/type/humanoid/druid
+  - compendium/src/5e/mpmm
+  - monster/cr/12
+  - monster/environment/forest
+  - monster/environment/mountain
+  - monster/environment/swamp
+  - monster/environment/underwater
+  - monster/size/medium
+  - monster/type/humanoid/druid
 statblock: inline
-aliases: ["Archdruid"]
+aliases:
+  - Archdruid
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Archdruid.md|Archdruid]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 48*  

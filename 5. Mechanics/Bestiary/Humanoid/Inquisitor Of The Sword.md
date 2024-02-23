@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/vrgr
-- monster/cr/8
-- monster/size/medium
-- monster/type/humanoid
+  - compendium/src/5e/vrgr
+  - monster/cr/8
+  - monster/size/medium
+  - monster/type/humanoid
 statblock: inline
-aliases: ["Inquisitor of the Sword"]
+aliases:
+  - Inquisitor of the Sword
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Inquisitor Of The Sword.md|Inquisitor of the Sword]]
 *Source: Van Richten's Guide to Ravenloft p. 249*  

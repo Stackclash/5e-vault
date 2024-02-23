@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/property/crfby
-- item/rarity/very-rare
-- item/wondrous/potion
-aliases: 
-- "Potion of Adult Dragonstrength"
+  - compendium/src/5e/hhhvi
+  - item/property/crfby
+  - item/rarity/very-rare
+  - item/wondrous/potion
+aliases:
+  - Potion of Adult Dragonstrength
 ---
 # Potion of Adult Dragonstrength
 *Potion, very rare, Crafted by*  

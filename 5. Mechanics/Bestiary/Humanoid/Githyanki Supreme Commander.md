@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/14
-- monster/environment/desert
-- monster/environment/mountain
-- monster/environment/urban
-- monster/size/medium
-- monster/type/humanoid/gith
+  - compendium/src/5e/mpmm
+  - monster/cr/14
+  - monster/environment/desert
+  - monster/environment/mountain
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/humanoid/gith
 statblock: inline
-aliases: ["Githyanki Supreme Commander"]
+aliases:
+  - Githyanki Supreme Commander
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Githyanki Supreme Commander.md|Githyanki Supreme Commander]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 141, Mordenkainen's Tome of Foes p. 206*  

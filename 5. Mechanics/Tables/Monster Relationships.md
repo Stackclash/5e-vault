@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/xge
-aliases: ["Monster Relationships"]
+  - compendium/src/5e/xge
+aliases:
+  - Monster Relationships
 ---
 # Monster Relationships
 *Source: Xanathar's Guide to Everything p. 91* 

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/cos
-- reward/charm
-aliases: ["Dark Gift of Great Taar Haak, the Five-Headed Destroyer"]
+  - compendium/src/5e/cos
+  - reward/charm
+aliases:
+  - 'Dark Gift of Great Taar Haak, the Five-Headed Destroyer'
 ---
 # Dark Gift of Great Taar Haak, the Five-Headed Destroyer
 *Charm*  

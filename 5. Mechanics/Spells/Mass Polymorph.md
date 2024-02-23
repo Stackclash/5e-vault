@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/xge
-- spell/class/bard
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/9
-- spell/school/transmutation
-aliases: ["Mass Polymorph"]
+  - compendium/src/5e/xge
+  - spell/class/bard
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/9
+  - spell/school/transmutation
+aliases:
+  - Mass Polymorph
 ---
 # Mass Polymorph
 %%-- Embedded content starts on the next line. --%%

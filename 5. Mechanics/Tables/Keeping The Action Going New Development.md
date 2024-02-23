@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Keeping the Action Going; New Development"]
+  - compendium/src/5e/erlw
+aliases:
+  - Keeping the Action Going; New Development
 ---
 # Keeping the Action Going; New Development
 *Source: Eberron: Rising from the Last War p. 186* 

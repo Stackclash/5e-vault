@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/dmg
-- race/grimlock/dmg
-aliases: ["Grimlock (DMG)"]
+  - compendium/src/5e/dmg
+  - race/grimlock/dmg
+aliases:
+  - Grimlock (DMG)
 ---
 # Grimlock (DMG)
 *Source: Dungeon Master's Guide p. 282*  

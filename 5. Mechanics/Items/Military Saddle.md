@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear/tack-and-harness
-aliases: 
-- "Military Saddle"
+  - compendium/src/5e/phb
+  - item/gear/tack-and-harness
+aliases:
+  - Military Saddle
 cost: 2000
 ---
 # Military Saddle

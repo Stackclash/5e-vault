@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Bearded Devil"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Bearded Devil
 ---
 # Bearded Devil
 *Source: Hamund's Harvesting Handbook: Volume I p. 28* 

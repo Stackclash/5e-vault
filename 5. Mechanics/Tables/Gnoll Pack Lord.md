@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Gnoll Pack Lord"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Gnoll Pack Lord
 ---
 # Gnoll Pack Lord
 *Source: Hamund's Harvesting Handbook: Volume I p. 56* 

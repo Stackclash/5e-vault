@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/6
-- monster/environment/urban
-- monster/size/medium
-- monster/type/humanoid/any-race
+  - compendium/src/5e/mm
+  - monster/cr/6
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/humanoid/any-race
 statblock: inline
-aliases: ["Mage"]
+aliases:
+  - Mage
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Mage.md|Mage]]
 *Source: Monster Manual p. 347, Curse of Strahd, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/xge
-- feat
-aliases: ["Drow High Magic"]
+  - compendium/src/5e/xge
+  - feat
+aliases:
+  - Drow High Magic
 ---
 # Drow High Magic
 *Source: Xanathar's Guide to Everything p. 74*  

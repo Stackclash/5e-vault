@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/saf
-aliases: ["Bard Followers"]
+  - compendium/src/5e/saf
+aliases:
+  - Bard Followers
 ---
 # Bard Followers
 *Source: Strongholds and Followers* 

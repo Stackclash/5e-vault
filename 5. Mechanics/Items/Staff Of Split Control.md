@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvii
-- item/attunement/required
-- item/property/crfby
-- item/property/versatile
-- item/rarity/very-rare
-- item/weapon/simple/melee
-aliases: 
-- "Staff of Split Control"
+  - compendium/src/5e/hhhvii
+  - item/attunement/required
+  - item/property/crfby
+  - item/property/versatile
+  - item/rarity/very-rare
+  - item/weapon/simple/melee
+aliases:
+  - Staff of Split Control
 ---
 # Staff of Split Control
 *Melee Weapon, very rare, Crafted by (requires attunement)*  

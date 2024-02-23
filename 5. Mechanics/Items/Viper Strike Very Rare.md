@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/rarity/very-rare
-- item/wondrous/wondrous-item
-aliases: 
-- "Viper Strike (Very Rare)"
-- "Viper Strike Pike (Very Rare)"
-- "Viper Strike Spear (Very Rare)"
-- "Viper Strike Javelin (Very Rare)"
-- "Viper Strike Lance (Very Rare)"
+  - compendium/src/5e/hhhvi
+  - item/rarity/very-rare
+  - item/wondrous/wondrous-item
+aliases:
+  - Viper Strike (Very Rare)
+  - Viper Strike Pike (Very Rare)
+  - Viper Strike Spear (Very Rare)
+  - Viper Strike Javelin (Very Rare)
+  - Viper Strike Lance (Very Rare)
 ---
 # Viper Strike (Very Rare)
 *Generic Variant, very rare*  

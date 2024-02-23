@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/3
-- monster/environment/urban
-- monster/size/medium
-- monster/type/humanoid
+  - compendium/src/5e/mpmm
+  - monster/cr/3
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/humanoid
 statblock: inline
-aliases: ["Martial Arts Adept"]
+aliases:
+  - Martial Arts Adept
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Martial Arts Adept.md|Martial Arts Adept]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 172*  

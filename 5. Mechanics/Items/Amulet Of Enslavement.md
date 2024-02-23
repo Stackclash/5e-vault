@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvii
-- item/property/crfby
-- item/rarity/rare
-- item/wondrous
-aliases: 
-- "Amulet of Enslavement"
+  - compendium/src/5e/hhhvii
+  - item/property/crfby
+  - item/rarity/rare
+  - item/wondrous
+aliases:
+  - Amulet of Enslavement
 ---
 # Amulet of Enslavement
 *Wondrous Item, rare, Crafted by*  

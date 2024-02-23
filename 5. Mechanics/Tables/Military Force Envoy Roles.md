@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/tce
-aliases: ["Military Force Envoy Roles"]
+  - compendium/src/5e/tce
+aliases:
+  - Military Force Envoy Roles
 ---
 # Military Force Envoy Roles
 *Source: Tasha's Cauldron of Everything p. 97* 

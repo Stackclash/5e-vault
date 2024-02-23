@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/8
-- monster/environment/underdark
-- monster/size/large
-- monster/type/aberration
+  - compendium/src/5e/mm
+  - monster/cr/8
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/aberration
 statblock: inline
-aliases: ["Cloaker"]
+aliases:
+  - Cloaker
 ---
 # [[5. Mechanics\Bestiary\Aberration\Cloaker.md|Cloaker]]
 *Source: Monster Manual p. 41. Available in the SRD.*  

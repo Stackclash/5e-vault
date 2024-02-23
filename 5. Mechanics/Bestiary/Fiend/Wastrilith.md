@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/13
-- monster/environment/coastal
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/environment/underwater
-- monster/size/large
-- monster/type/fiend/demon
+  - compendium/src/5e/mpmm
+  - monster/cr/13
+  - monster/environment/coastal
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/environment/underwater
+  - monster/size/large
+  - monster/type/fiend/demon
 statblock: inline
-aliases: ["Wastrilith"]
+aliases:
+  - Wastrilith
 ---
 # [[5. Mechanics\Bestiary\Fiend\Wastrilith.md|Wastrilith]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 258, Mordenkainen's Tome of Foes p. 139*  

@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/5
-- monster/environment/arctic
-- monster/size/large
-- monster/type/monstrosity
+  - compendium/src/5e/mm
+  - monster/cr/5
+  - monster/environment/arctic
+  - monster/size/large
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Young Remorhaz"]
+aliases:
+  - Young Remorhaz
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Young Remorhaz.md|Young Remorhaz]]
 *Source: Monster Manual p. 258*  

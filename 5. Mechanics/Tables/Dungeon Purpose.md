@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Dungeon Purpose"]
+  - compendium/src/5e/dmg
+aliases:
+  - Dungeon Purpose
 ---
 # Dungeon Purpose
 *Source: Dungeon Master's Guide p. 101* 

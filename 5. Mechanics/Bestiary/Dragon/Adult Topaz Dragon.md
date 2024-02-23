@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/saf
-- monster/cr/14
-- monster/size/huge
-- monster/type/dragon
+  - compendium/src/5e/saf
+  - monster/cr/14
+  - monster/size/huge
+  - monster/type/dragon
 statblock: inline
-aliases: ["Adult Topaz Dragon"]
+aliases:
+  - Adult Topaz Dragon
 ---
 # [[5. Mechanics\Bestiary\Dragon\Adult Topaz Dragon.md|Adult Topaz Dragon]]
 *Source: Strongholds and Followers p. 218*  

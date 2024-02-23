@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvii
-- item/attunement/required
-- item/property/crfby
-- item/property/finesse
-- item/property/martial
-- item/property/reach
-- item/rarity/very-rare
-- item/weapon/martial/melee
-aliases: 
-- "+1 Mind Whip"
+  - compendium/src/5e/hhhvii
+  - item/attunement/required
+  - item/property/crfby
+  - item/property/finesse
+  - item/property/martial
+  - item/property/reach
+  - item/rarity/very-rare
+  - item/weapon/martial/melee
+aliases:
+  - +1 Mind Whip
 ---
 # +1 Mind Whip
 *Melee Weapon, very rare, Crafted by (requires attunement)*  

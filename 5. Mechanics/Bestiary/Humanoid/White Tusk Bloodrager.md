@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/saf
-- monster/cr/4
-- monster/size/medium
-- monster/type/humanoid/orc
+  - compendium/src/5e/saf
+  - monster/cr/4
+  - monster/size/medium
+  - monster/type/humanoid/orc
 statblock: inline
-aliases: ["White Tusk Bloodrager"]
+aliases:
+  - White Tusk Bloodrager
 ---
 # [[5. Mechanics\Bestiary\Humanoid\White Tusk Bloodrager.md|White Tusk Bloodrager]]
 *Source: Strongholds and Followers p. 139*  

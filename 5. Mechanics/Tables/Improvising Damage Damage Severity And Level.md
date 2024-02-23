@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Improvising Damage; Damage Severity and Level"]
+  - compendium/src/5e/dmg
+aliases:
+  - Improvising Damage; Damage Severity and Level
 ---
 # Improvising Damage; Damage Severity and Level
 *Source: Dungeon Master's Guide p. 249* 

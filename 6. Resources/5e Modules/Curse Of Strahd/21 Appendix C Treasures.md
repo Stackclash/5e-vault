@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/cos
-aliases:
-  - 'Appendix C: Treasures'
+- compendium/src/5e/cos
+aliases: ["Appendix C: Treasures"]
 ---
 # Appendix C: Treasures
 *Source: Curse of Strahd, p. 221* 

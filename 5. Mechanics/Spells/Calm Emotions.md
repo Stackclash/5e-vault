@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/cleric
-- spell/class/paladin/oath-of-redemption
-- spell/class/sorcerer/aberrant-mind
-- spell/class/sorcerer/divine-soul
-- spell/class/warlock/the-archfey
-- spell/level/2
-- spell/school/enchantment
-aliases: ["Calm Emotions"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/cleric
+  - spell/class/paladin/oath-of-redemption
+  - spell/class/sorcerer/aberrant-mind
+  - spell/class/sorcerer/divine-soul
+  - spell/class/warlock/the-archfey
+  - spell/level/2
+  - spell/school/enchantment
+aliases:
+  - Calm Emotions
 ---
 # Calm Emotions
 %%-- Embedded content starts on the next line. --%%

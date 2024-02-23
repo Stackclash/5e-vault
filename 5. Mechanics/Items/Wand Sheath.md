@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/erlw
-- item/attunement/required
-- item/rarity/common
-- item/wondrous
-aliases: 
-- "Wand Sheath"
+  - compendium/src/5e/erlw
+  - item/attunement/required
+  - item/rarity/common
+  - item/wondrous
+aliases:
+  - Wand Sheath
 ---
 # Wand Sheath
 *Wondrous Item, common (requires attunement by a warforged)*  

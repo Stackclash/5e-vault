@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/cos
-- item/rarity/unknown/magic
-- item/wondrous/wondrous-item
-aliases: 
-- "Green Copper Ewer"
+  - compendium/src/5e/cos
+  - item/rarity/unknown/magic
+  - item/wondrous/wondrous-item
+aliases:
+  - Green Copper Ewer
 ---
 # Green Copper Ewer
 *Other, unknown (magic)*  

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/erlw
-- race/warforged
-aliases: ["Warforged"]
+  - compendium/src/5e/erlw
+  - race/warforged
+aliases:
+  - Warforged
 ---
 # Warforged
 *Source: Eberron: Rising from the Last War p. 35*  

@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/gear
-aliases: 
-- "Hamund's Harvesting Handbook"
+  - compendium/src/5e/hhhvi
+  - item/gear
+aliases:
+  - Hamund's Harvesting Handbook
 cost: 5000
 ---
 # Hamund's Harvesting Handbook

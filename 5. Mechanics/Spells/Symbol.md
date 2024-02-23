@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/cleric
-- spell/class/sorcerer/divine-soul
-- spell/class/wizard
-- spell/level/7
-- spell/school/abjuration
-aliases: ["Symbol"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/cleric
+  - spell/class/sorcerer/divine-soul
+  - spell/class/wizard
+  - spell/level/7
+  - spell/school/abjuration
+aliases:
+  - Symbol
 ---
 # Symbol
 %%-- Embedded content starts on the next line. --%%

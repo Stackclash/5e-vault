@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvii
-- item/attunement/required
-- item/property/crfby
-- item/rarity/very-rare
-- item/wondrous/wand
-aliases: 
-- "Wand of the Golden Ray"
+  - compendium/src/5e/hhhvii
+  - item/attunement/required
+  - item/property/crfby
+  - item/rarity/very-rare
+  - item/wondrous/wand
+aliases:
+  - Wand of the Golden Ray
 ---
 # Wand of the Golden Ray
 *Wand, very rare, Crafted by (requires attunement by a spellcaster)*  

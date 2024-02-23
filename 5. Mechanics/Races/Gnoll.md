@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/dmg
-- race/gnoll/dmg
-aliases: ["Gnoll (DMG)"]
+  - compendium/src/5e/dmg
+  - race/gnoll/dmg
+aliases:
+  - Gnoll (DMG)
 ---
 # Gnoll (DMG)
 *Source: Dungeon Master's Guide p. 282*  

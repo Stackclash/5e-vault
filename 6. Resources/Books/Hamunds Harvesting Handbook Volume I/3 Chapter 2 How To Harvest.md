@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/hhhvi
-aliases:
-  - 'Chapter 2: How to Harvest'
+- compendium/src/5e/hhhvi
+aliases: ["Chapter 2: How to Harvest"]
 ---
 # Chapter 2: How to Harvest
 *Source: Hamund's Harvesting Handbook: Volume I, p. 4* 

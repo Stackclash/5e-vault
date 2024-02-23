@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/hhhviii
-- optional-feature/hhh-bt
-aliases: ["Improved Cleaver"]
+  - compendium/src/5e/hhhviii
+  - optional-feature/hhh-bt
+aliases:
+  - Improved Cleaver
 ---
 # Improved Cleaver
 *Source: Hamund's Harvesting Handbook: Volume III p. 112*  

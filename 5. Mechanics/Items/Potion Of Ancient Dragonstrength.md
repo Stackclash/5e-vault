@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/property/crfby
-- item/rarity/legendary
-- item/wondrous/potion
-aliases: 
-- "Potion of Ancient Dragonstrength"
+  - compendium/src/5e/hhhvi
+  - item/property/crfby
+  - item/rarity/legendary
+  - item/wondrous/potion
+aliases:
+  - Potion of Ancient Dragonstrength
 ---
 # Potion of Ancient Dragonstrength
 *Potion, legendary, Crafted by*  

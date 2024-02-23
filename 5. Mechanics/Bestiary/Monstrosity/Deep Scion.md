@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/3
-- monster/environment/coastal
-- monster/environment/underwater
-- monster/size/medium
-- monster/type/monstrosity
+  - compendium/src/5e/mpmm
+  - monster/cr/3
+  - monster/environment/coastal
+  - monster/environment/underwater
+  - monster/size/medium
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Deep Scion"]
+aliases:
+  - Deep Scion
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Deep Scion.md|Deep Scion]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 88*  

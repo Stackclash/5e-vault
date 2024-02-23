@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Drow"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Drow
 ---
 # Drow
 *Source: Hamund's Harvesting Handbook: Volume I p. 42* 

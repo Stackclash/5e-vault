@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/tce
-- item/attunement/required
-- item/rarity/very-rare
-- item/wondrous
-aliases: 
-- "Barrier Tattoo (Large)"
+  - compendium/src/5e/tce
+  - item/attunement/required
+  - item/rarity/very-rare
+  - item/wondrous
+aliases:
+  - Barrier Tattoo (Large)
 ---
 # Barrier Tattoo (Large)
 *Wondrous Item, very rare (requires attunement)*  

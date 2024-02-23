@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer
-- spell/class/cleric/nature-domain
-- spell/class/druid
-- spell/class/druid/circle-of-the-land
-- spell/level/cantrip
-- spell/school/transmutation
-aliases: ["Thorn Whip"]
+  - compendium/src/5e/phb
+  - spell/class/artificer
+  - spell/class/cleric/nature-domain
+  - spell/class/druid
+  - spell/class/druid/circle-of-the-land
+  - spell/level/cantrip
+  - spell/school/transmutation
+aliases:
+  - Thorn Whip
 ---
 # Thorn Whip
 %%-- Embedded content starts on the next line. --%%

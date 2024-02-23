@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer
-- spell/class/bard
-- spell/class/druid
-- spell/class/fighter/eldritch-knight
-- spell/class/ranger
-- spell/class/rogue/arcane-trickster
-- spell/class/wizard
-- spell/level/1
-- spell/school/transmutation
-aliases: ["Longstrider"]
+  - compendium/src/5e/phb
+  - spell/class/artificer
+  - spell/class/bard
+  - spell/class/druid
+  - spell/class/fighter/eldritch-knight
+  - spell/class/ranger
+  - spell/class/rogue/arcane-trickster
+  - spell/class/wizard
+  - spell/level/1
+  - spell/school/transmutation
+aliases:
+  - Longstrider
 ---
 # Longstrider
 %%-- Embedded content starts on the next line. --%%

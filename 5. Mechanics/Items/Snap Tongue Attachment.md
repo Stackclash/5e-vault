@@ -2,33 +2,33 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvii
-- item/rarity/very-rare
-- item/wondrous/wondrous-item
-aliases: 
-- "Snap Tongue Attachment"
-- "Snap Tongue Longsword"
-- "Snap Tongue Hooked Shortspear"
-- "Snap Tongue Light Hammer"
-- "Snap Tongue Battleaxe"
-- "Snap Tongue Flail"
-- "Snap Tongue Yklwa"
-- "Snap Tongue Warhammer"
-- "Snap Tongue Morningstar"
-- "Snap Tongue Dagger"
-- "Snap Tongue Handaxe"
-- "Snap Tongue Whip"
-- "Snap Tongue Trident"
-- "Snap Tongue Quarterstaff"
-- "Snap Tongue Spear"
-- "Snap Tongue Club"
-- "Snap Tongue Rapier"
-- "Snap Tongue Javelin"
-- "Snap Tongue War Pick"
-- "Snap Tongue Shortsword"
-- "Snap Tongue Sickle"
-- "Snap Tongue Mace"
-- "Snap Tongue Scimitar"
+  - compendium/src/5e/hhhvii
+  - item/rarity/very-rare
+  - item/wondrous/wondrous-item
+aliases:
+  - Snap Tongue Attachment
+  - Snap Tongue Longsword
+  - Snap Tongue Hooked Shortspear
+  - Snap Tongue Light Hammer
+  - Snap Tongue Battleaxe
+  - Snap Tongue Flail
+  - Snap Tongue Yklwa
+  - Snap Tongue Warhammer
+  - Snap Tongue Morningstar
+  - Snap Tongue Dagger
+  - Snap Tongue Handaxe
+  - Snap Tongue Whip
+  - Snap Tongue Trident
+  - Snap Tongue Quarterstaff
+  - Snap Tongue Spear
+  - Snap Tongue Club
+  - Snap Tongue Rapier
+  - Snap Tongue Javelin
+  - Snap Tongue War Pick
+  - Snap Tongue Shortsword
+  - Snap Tongue Sickle
+  - Snap Tongue Mace
+  - Snap Tongue Scimitar
 ---
 # Snap Tongue Attachment
 *Generic Variant, very rare*  

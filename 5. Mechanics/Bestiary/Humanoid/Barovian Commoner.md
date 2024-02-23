@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/cos
-- monster/cr/0
-- monster/size/medium
-- monster/type/humanoid/any-race
+  - compendium/src/5e/cos
+  - monster/cr/0
+  - monster/size/medium
+  - monster/type/humanoid/any-race
 statblock: inline
-aliases: ["Barovian Commoner"]
+aliases:
+  - Barovian Commoner
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Barovian Commoner.md|Barovian Commoner]]
 *Source: Curse of Strahd p. 29*  

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Cults of the Dragon Below NPCs; Cult NPCs"]
+  - compendium/src/5e/erlw
+aliases:
+  - Cults of the Dragon Below NPCs; Cult NPCs
 ---
 # Cults of the Dragon Below NPCs; Cult NPCs
 *Source: Eberron: Rising from the Last War p. 189* 

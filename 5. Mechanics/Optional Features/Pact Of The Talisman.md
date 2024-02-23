@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/tce
-- optional-feature/pb
-aliases: ["Pact of the Talisman"]
+  - compendium/src/5e/tce
+  - optional-feature/pb
+aliases:
+  - Pact of the Talisman
 ---
 # Pact of the Talisman
 *Source: Tasha's Cauldron of Everything p. 71*  

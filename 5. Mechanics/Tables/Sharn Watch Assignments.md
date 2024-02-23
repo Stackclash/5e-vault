@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Sharn Watch Assignments"]
+  - compendium/src/5e/erlw
+aliases:
+  - Sharn Watch Assignments
 ---
 # Sharn Watch Assignments
 *Source: Eberron: Rising from the Last War p. 258* 

@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/druid
-- spell/level/6
-- spell/school/conjuration
-aliases: ["Transport via Plants"]
+  - compendium/src/5e/phb
+  - spell/class/druid
+  - spell/level/6
+  - spell/school/conjuration
+aliases:
+  - Transport via Plants
 ---
 # Transport via Plants
 %%-- Embedded content starts on the next line. --%%

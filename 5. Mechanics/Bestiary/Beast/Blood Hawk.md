@@ -2,18 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-8
-- monster/environment/arctic
-- monster/environment/coastal
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/size/small
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/1-8
+  - monster/environment/arctic
+  - monster/environment/coastal
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/size/small
+  - monster/type/beast
 statblock: inline
-aliases: ["Blood Hawk"]
+aliases:
+  - Blood Hawk
 ---
 # [[5. Mechanics\Bestiary\Beast\Blood Hawk.md|Blood Hawk]]
 *Source: Monster Manual p. 319. Available in the SRD and the Basic Rules.*  

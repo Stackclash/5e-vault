@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/tce
-aliases: ["Religious Order Member Roles"]
+  - compendium/src/5e/tce
+aliases:
+  - Religious Order Member Roles
 ---
 # Religious Order Member Roles
 *Source: Tasha's Cauldron of Everything p. 99* 

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/mtf
-aliases: ["Drow Deities (The Dark Seldarine)"]
+  - compendium/src/5e/mtf
+aliases:
+  - Drow Deities (The Dark Seldarine)
 ---
 # Drow Deities (The Dark Seldarine)
 *Source: Mordenkainen's Tome of Foes p. 53* 

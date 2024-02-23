@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Gnomes of Zilargo; Zil Schemes"]
+  - compendium/src/5e/erlw
+aliases:
+  - Gnomes of Zilargo; Zil Schemes
 ---
 # Gnomes of Zilargo; Zil Schemes
 *Source: Eberron: Rising from the Last War p. 23* 

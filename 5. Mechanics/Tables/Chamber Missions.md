@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Chamber Missions"]
+  - compendium/src/5e/erlw
+aliases:
+  - Chamber Missions
 ---
 # Chamber Missions
 *Source: Eberron: Rising from the Last War p. 195* 

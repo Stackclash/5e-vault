@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/property/ammunition/firearm
-- item/property/loading
-- item/property/martial
-- item/property/two-handed
-- item/weapon/martial/ranged
-aliases: 
-- "Musket"
+  - compendium/src/5e/dmg
+  - item/property/ammunition/firearm
+  - item/property/loading
+  - item/property/martial
+  - item/property/two-handed
+  - item/weapon/martial/ranged
+aliases:
+  - Musket
 cost: 50000
 ---
 # Musket

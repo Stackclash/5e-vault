@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Myconid Adult"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Myconid Adult
 ---
 # Myconid Adult
 *Source: Hamund's Harvesting Handbook: Volume I p. 78* 

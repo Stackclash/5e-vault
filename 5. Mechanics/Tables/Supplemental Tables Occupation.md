@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/xge
-aliases: ["Supplemental Tables; Occupation"]
+  - compendium/src/5e/xge
+aliases:
+  - Supplemental Tables; Occupation
 ---
 # Supplemental Tables; Occupation
 *Source: Xanathar's Guide to Everything p. 72* 

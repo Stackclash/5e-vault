@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/3
-- monster/environment/forest
-- monster/environment/hill
-- monster/environment/swamp
-- monster/size/small
-- monster/type/fey
+  - compendium/src/5e/mpmm
+  - monster/cr/3
+  - monster/environment/forest
+  - monster/environment/hill
+  - monster/environment/swamp
+  - monster/size/small
+  - monster/type/fey
 statblock: inline
-aliases: ["Redcap"]
+aliases:
+  - Redcap
 ---
 # [[5. Mechanics\Bestiary\Fey\Redcap.md|Redcap]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 208*  

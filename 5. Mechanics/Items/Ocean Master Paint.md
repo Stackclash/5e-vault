@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/property/crfby
-- item/rarity/rare
-- item/wondrous
-aliases: 
-- "Ocean Master Paint"
+  - compendium/src/5e/hhhvi
+  - item/property/crfby
+  - item/rarity/rare
+  - item/wondrous
+aliases:
+  - Ocean Master Paint
 ---
 # Ocean Master Paint
 *Wondrous Item, rare, Crafted by*  

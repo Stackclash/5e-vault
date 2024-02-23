@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/saf
-- monster/legendary-group
-aliases: ["Ancient Ruby Dragon"]
+  - compendium/src/5e/saf
+  - monster/legendary-group
+aliases:
+  - Ancient Ruby Dragon
 ---
 # Ancient Ruby Dragon
 

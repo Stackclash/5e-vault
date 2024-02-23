@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/xge
-- spell/class/ranger
-- spell/level/1
-- spell/school/transmutation
-aliases: ["Zephyr Strike"]
+  - compendium/src/5e/xge
+  - spell/class/ranger
+  - spell/level/1
+  - spell/school/transmutation
+aliases:
+  - Zephyr Strike
 ---
 # Zephyr Strike
 %%-- Embedded content starts on the next line. --%%

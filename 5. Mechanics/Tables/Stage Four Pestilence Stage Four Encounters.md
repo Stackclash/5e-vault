@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vrgr
-aliases: ["Stage Four: Pestilence; Stage Four Encounters"]
+  - compendium/src/5e/vrgr
+aliases:
+  - 'Stage Four: Pestilence; Stage Four Encounters'
 ---
 # Stage Four: Pestilence; Stage Four Encounters
 *Source: Van Richten's Guide to Ravenloft p. 155* 

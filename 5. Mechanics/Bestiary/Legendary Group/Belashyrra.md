@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-- monster/legendary-group
-aliases: ["Belashyrra"]
+  - compendium/src/5e/erlw
+  - monster/legendary-group
+aliases:
+  - Belashyrra
 ---
 # Belashyrra
 

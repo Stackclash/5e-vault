@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/5
-- monster/environment/coastal
-- monster/environment/swamp
-- monster/environment/underwater
-- monster/size/large
-- monster/type/elemental
+  - compendium/src/5e/mm
+  - monster/cr/5
+  - monster/environment/coastal
+  - monster/environment/swamp
+  - monster/environment/underwater
+  - monster/size/large
+  - monster/type/elemental
 statblock: inline
-aliases: ["Water Elemental"]
+aliases:
+  - Water Elemental
 ---
 # [[5. Mechanics\Bestiary\Elemental\Water Elemental.md|Water Elemental]]
 *Source: Monster Manual p. 125, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  

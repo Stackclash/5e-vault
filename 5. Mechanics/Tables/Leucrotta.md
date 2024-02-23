@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvii
-aliases: ["Leucrotta"]
+  - compendium/src/5e/hhhvii
+aliases:
+  - Leucrotta
 ---
 # Leucrotta
 *Source: Hamund's Harvesting Handbook: Volume II p. 30* 

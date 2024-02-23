@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/7
-- monster/environment/hill
-- monster/size/large
-- monster/type/dragon
+  - compendium/src/5e/mm
+  - monster/cr/7
+  - monster/environment/hill
+  - monster/size/large
+  - monster/type/dragon
 statblock: inline
-aliases: ["Young Copper Dragon"]
+aliases:
+  - Young Copper Dragon
 ---
 # [[5. Mechanics\Bestiary\Dragon\Young Copper Dragon.md|Young Copper Dragon]]
 *Source: Monster Manual p. 112. Available in the SRD.*  

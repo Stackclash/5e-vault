@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["New Organizations"]
+  - compendium/src/5e/dmg
+aliases:
+  - New Organizations
 ---
 # New Organizations
 *Source: Dungeon Master's Guide p. 31* 

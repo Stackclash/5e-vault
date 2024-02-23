@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/armor/heavy
-- item/attunement/required
-- item/property/crfby
-- item/rarity/legendary
-aliases: 
-- "Primus Plate"
+  - compendium/src/5e/hhhviii
+  - item/armor/heavy
+  - item/attunement/required
+  - item/property/crfby
+  - item/rarity/legendary
+aliases:
+  - Primus Plate
 ---
 # Primus Plate
 *Heavy Armor, legendary, Crafted by (requires attunement)*  

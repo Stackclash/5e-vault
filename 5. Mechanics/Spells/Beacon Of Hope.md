@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/class/cleric/life-domain
-- spell/class/cleric/peace-domain
-- spell/class/paladin/oath-of-devotion
-- spell/class/sorcerer/divine-soul
-- spell/level/3
-- spell/school/abjuration
-aliases: ["Beacon of Hope"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/class/cleric/life-domain
+  - spell/class/cleric/peace-domain
+  - spell/class/paladin/oath-of-devotion
+  - spell/class/sorcerer/divine-soul
+  - spell/level/3
+  - spell/school/abjuration
+aliases:
+  - Beacon of Hope
 ---
 # Beacon of Hope
 %%-- Embedded content starts on the next line. --%%

@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/4
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/urban
-- monster/size/medium
-- monster/type/celestial
+  - compendium/src/5e/mm
+  - monster/cr/4
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/celestial
 statblock: inline
-aliases: ["Couatl"]
+aliases:
+  - Couatl
 ---
 # [[5. Mechanics\Bestiary\Celestial\Couatl.md|Couatl]]
 *Source: Monster Manual p. 43. Available in the SRD.*  

@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/4
-- monster/environment/underdark
-- monster/size/tiny
-- monster/type/undead
+  - compendium/src/5e/mm
+  - monster/cr/4
+  - monster/environment/underdark
+  - monster/size/tiny
+  - monster/type/undead
 statblock: inline
-aliases: ["Flameskull"]
+aliases:
+  - Flameskull
 ---
 # [[5. Mechanics\Bestiary\Undead\Flameskull.md|Flameskull]]
 *Source: Monster Manual p. 134, Curse of Strahd, Tasha's Cauldron of Everything. Available in the Basic Rules.*  

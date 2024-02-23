@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Fire Snake"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Fire Snake
 ---
 # Fire Snake
 *Source: Hamund's Harvesting Handbook: Volume I p. 92* 

@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/hhbh
-- spell/class/bard
-- spell/class/cleric
-- spell/class/druid
-- spell/level/5
-- spell/ritual
-- spell/school/transmutation
-aliases: ["Cornucopia"]
+  - compendium/src/5e/hhbh
+  - spell/class/bard
+  - spell/class/cleric
+  - spell/class/druid
+  - spell/level/5
+  - spell/ritual
+  - spell/school/transmutation
+aliases:
+  - Cornucopia
 ---
 # Cornucopia
 %%-- Embedded content starts on the next line. --%%

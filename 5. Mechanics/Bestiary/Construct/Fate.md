@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/saf
-- monster/cr/8
-- monster/size/medium
-- monster/type/construct
+  - compendium/src/5e/saf
+  - monster/cr/8
+  - monster/size/medium
+  - monster/type/construct
 statblock: inline
-aliases: ["Fate"]
+aliases:
+  - Fate
 ---
 # [[5. Mechanics\Bestiary\Construct\Fate.md|Fate]]
 *Source: Strongholds and Followers p. 230*  

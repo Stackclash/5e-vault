@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/vrgr
-- monster/cr/8
-- monster/size/medium
-- monster/type/fiend
+  - compendium/src/5e/vrgr
+  - monster/cr/8
+  - monster/size/medium
+  - monster/type/fiend
 statblock: inline
-aliases: ["Relentless Slasher"]
+aliases:
+  - Relentless Slasher
 ---
 # [[5. Mechanics\Bestiary\Fiend\Relentless Slasher.md|Relentless Slasher]]
 *Source: Van Richten's Guide to Ravenloft p. 242*  

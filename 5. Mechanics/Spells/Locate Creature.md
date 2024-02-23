@@ -2,21 +2,22 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/cleric
-- spell/class/cleric/order-domain
-- spell/class/druid
-- spell/class/druid/circle-of-the-land
-- spell/class/fighter/eldritch-knight
-- spell/class/paladin
-- spell/class/ranger
-- spell/class/rogue/arcane-trickster
-- spell/class/sorcerer/divine-soul
-- spell/class/wizard
-- spell/level/4
-- spell/school/divination
-aliases: ["Locate Creature"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/cleric
+  - spell/class/cleric/order-domain
+  - spell/class/druid
+  - spell/class/druid/circle-of-the-land
+  - spell/class/fighter/eldritch-knight
+  - spell/class/paladin
+  - spell/class/ranger
+  - spell/class/rogue/arcane-trickster
+  - spell/class/sorcerer/divine-soul
+  - spell/class/wizard
+  - spell/level/4
+  - spell/school/divination
+aliases:
+  - Locate Creature
 ---
 # Locate Creature
 %%-- Embedded content starts on the next line. --%%

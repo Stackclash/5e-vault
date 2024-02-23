@@ -2,18 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/xge
-- item/rarity/unknown
-- item/tier/minor
-- item/wondrous/wondrous-item
-aliases: 
-- "Adamantine Ammunition"
-- "Adamantine Sling Bullet"
-- "Adamantine Arrow"
-- "Adamantine Modern Bullet"
-- "Adamantine Blowgun Needle"
-- "Adamantine Crossbow Bolt"
-- "Adamantine Renaissance Bullet"
+  - compendium/src/5e/xge
+  - item/rarity/unknown
+  - item/tier/minor
+  - item/wondrous/wondrous-item
+aliases:
+  - Adamantine Ammunition
+  - Adamantine Sling Bullet
+  - Adamantine Arrow
+  - Adamantine Modern Bullet
+  - Adamantine Blowgun Needle
+  - Adamantine Crossbow Bolt
+  - Adamantine Renaissance Bullet
 ---
 # Adamantine Ammunition
 *Generic Variant, minor, unknown*  

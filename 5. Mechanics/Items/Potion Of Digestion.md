@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvii
-- item/property/crfby
-- item/rarity/common
-- item/wondrous/potion
-aliases: 
-- "Potion of Digestion"
+  - compendium/src/5e/hhhvii
+  - item/property/crfby
+  - item/rarity/common
+  - item/wondrous/potion
+aliases:
+  - Potion of Digestion
 ---
 # Potion of Digestion
 *Potion, common, Crafted by*  

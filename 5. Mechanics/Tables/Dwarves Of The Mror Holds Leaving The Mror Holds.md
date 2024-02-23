@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Dwarves of the Mror Holds; Leaving the Mror Holds"]
+  - compendium/src/5e/erlw
+aliases:
+  - Dwarves of the Mror Holds; Leaving the Mror Holds
 ---
 # Dwarves of the Mror Holds; Leaving the Mror Holds
 *Source: Eberron: Rising from the Last War p. 19* 

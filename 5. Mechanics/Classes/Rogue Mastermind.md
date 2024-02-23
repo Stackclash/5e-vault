@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/xge
-- subclass/rogue/mastermind
-aliases: ["Mastermind"]
+  - compendium/src/5e/xge
+  - subclass/rogue/mastermind
+aliases:
+  - Mastermind
 ---
 # Mastermind
 *[[Rogue.md\|Rogue]]: Roguish Archetype*  

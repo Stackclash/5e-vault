@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/xge
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/5
-- spell/school/conjuration
-aliases: ["Infernal Calling"]
+  - compendium/src/5e/xge
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/5
+  - spell/school/conjuration
+aliases:
+  - Infernal Calling
 ---
 # Infernal Calling
 %%-- Embedded content starts on the next line. --%%

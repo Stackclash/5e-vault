@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/saf
-- monster/cr/9
-- monster/size/large
-- monster/type/celestial
+  - compendium/src/5e/saf
+  - monster/cr/9
+  - monster/size/large
+  - monster/type/celestial
 statblock: inline
-aliases: ["Throne"]
+aliases:
+  - Throne
 ---
 # [[5. Mechanics\Bestiary\Celestial\Throne.md|Throne]]
 *Source: Strongholds and Followers p. 163*  

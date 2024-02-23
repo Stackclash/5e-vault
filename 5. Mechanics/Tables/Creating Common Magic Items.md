@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Creating Common Magic Items"]
+  - compendium/src/5e/erlw
+aliases:
+  - Creating Common Magic Items
 ---
 # Creating Common Magic Items
 *Source: Eberron: Rising from the Last War p. 281* 

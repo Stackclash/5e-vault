@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/vrgr
-- monster/cr/9
-- monster/size/medium
-- monster/type/undead
+  - compendium/src/5e/vrgr
+  - monster/cr/9
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
-aliases: ["Jiangshi"]
+aliases:
+  - Jiangshi
 ---
 # [[5. Mechanics\Bestiary\Undead\Jiangshi.md|Jiangshi]]
 *Source: Van Richten's Guide to Ravenloft p. 236*  

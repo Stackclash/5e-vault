@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Unusual Locations"]
+  - compendium/src/5e/erlw
+aliases:
+  - Unusual Locations
 ---
 # Unusual Locations
 *Source: Eberron: Rising from the Last War p. 219* 

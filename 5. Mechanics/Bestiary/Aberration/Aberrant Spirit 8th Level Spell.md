@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/tce
-- monster/cr/
-- monster/size/medium
-- monster/type/aberration
+  - compendium/src/5e/tce
+  - monster/cr/
+  - monster/size/medium
+  - monster/type/aberration
 statblock: inline
-aliases: ["Aberrant Spirit (8th-level Spell)"]
+aliases:
+  - Aberrant Spirit (8th-level Spell)
 ---
 # [[5. Mechanics\Bestiary\Aberration\Aberrant Spirit 8th Level Spell.md|Aberrant Spirit (8th-level Spell)]]
 *Source: Tasha's Cauldron of Everything p. 109*  

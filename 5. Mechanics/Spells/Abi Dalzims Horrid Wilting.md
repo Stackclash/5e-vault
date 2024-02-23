@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/xge
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/8
-- spell/school/necromancy
-aliases: ["Abi-Dalzim's Horrid Wilting"]
+  - compendium/src/5e/xge
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/8
+  - spell/school/necromancy
+aliases:
+  - Abi-Dalzim's Horrid Wilting
 ---
 # Abi-Dalzim's Horrid Wilting
 %%-- Embedded content starts on the next line. --%%

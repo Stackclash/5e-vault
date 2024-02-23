@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/class/druid/circle-of-stars
-- spell/class/paladin/oath-of-glory
-- spell/class/sorcerer/divine-soul
-- spell/class/warlock/the-celestial
-- spell/level/1
-- spell/school/evocation
-aliases: ["Guiding Bolt"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/class/druid/circle-of-stars
+  - spell/class/paladin/oath-of-glory
+  - spell/class/sorcerer/divine-soul
+  - spell/class/warlock/the-celestial
+  - spell/level/1
+  - spell/school/evocation
+aliases:
+  - Guiding Bolt
 ---
 # Guiding Bolt
 %%-- Embedded content starts on the next line. --%%

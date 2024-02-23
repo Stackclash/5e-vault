@@ -2,17 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/attunement/required
-- item/property/crfby
-- item/property/heavy
-- item/property/martial
-- item/property/reach
-- item/property/two-handed
-- item/rarity/legendary
-- item/weapon/martial/melee
-aliases: 
-- "Geryon's Spite"
+  - compendium/src/5e/hhhviii
+  - item/attunement/required
+  - item/property/crfby
+  - item/property/heavy
+  - item/property/martial
+  - item/property/reach
+  - item/property/two-handed
+  - item/rarity/legendary
+  - item/weapon/martial/melee
+aliases:
+  - Geryon's Spite
 ---
 # Geryon's Spite
 *Melee Weapon, legendary, Crafted by (requires attunement)*  

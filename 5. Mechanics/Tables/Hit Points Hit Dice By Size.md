@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/mm
-aliases: ["Hit Points; Hit Dice by Size"]
+  - compendium/src/5e/mm
+aliases:
+  - Hit Points; Hit Dice by Size
 ---
 # Hit Points; Hit Dice by Size
 *Source: Monster Manual p. 7* 

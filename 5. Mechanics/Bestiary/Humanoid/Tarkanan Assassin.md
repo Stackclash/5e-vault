@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/erlw
-- monster/cr/2
-- monster/size/medium
-- monster/type/humanoid/any-race
+  - compendium/src/5e/erlw
+  - monster/cr/2
+  - monster/size/medium
+  - monster/type/humanoid/any-race
 statblock: inline
-aliases: ["Tarkanan Assassin"]
+aliases:
+  - Tarkanan Assassin
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Tarkanan Assassin.md|Tarkanan Assassin]]
 *Source: Eberron: Rising from the Last War p. 320*  

@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/erlw
-- monster/cr/1
-- monster/size/medium
-- monster/type/humanoid/warforged
+  - compendium/src/5e/erlw
+  - monster/cr/1
+  - monster/size/medium
+  - monster/type/humanoid/warforged
 statblock: inline
-aliases: ["Warforged Soldier"]
+aliases:
+  - Warforged Soldier
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Warforged Soldier.md|Warforged Soldier]]
 *Source: Eberron: Rising from the Last War p. 320*  

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/mpmm
-- race/duergar
-aliases: ["Duergar"]
+  - compendium/src/5e/mpmm
+  - race/duergar
+aliases:
+  - Duergar
 ---
 # Duergar
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 12*  

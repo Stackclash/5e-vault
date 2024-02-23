@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvii
-- item/armor/medium
-- item/attunement/required
-- item/property/crfby
-- item/rarity/very-rare
-aliases: 
-- "Breastplate of the Boundary"
+  - compendium/src/5e/hhhvii
+  - item/armor/medium
+  - item/attunement/required
+  - item/property/crfby
+  - item/rarity/very-rare
+aliases:
+  - Breastplate of the Boundary
 ---
 # Breastplate of the Boundary
 *Medium Armor, very rare, Crafted by (requires attunement)*  

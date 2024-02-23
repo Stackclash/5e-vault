@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/saf
-- item/rarity/rare
-- item/wondrous
-aliases: 
-- "Surveyor's Compass"
+  - compendium/src/5e/saf
+  - item/rarity/rare
+  - item/wondrous
+aliases:
+  - Surveyor's Compass
 ---
 # Surveyor's Compass
 *Wondrous Item, rare*  

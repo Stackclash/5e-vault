@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/tce
-- spell/class/fighter/eldritch-knight
-- spell/class/rogue/arcane-trickster
-- spell/class/sorcerer/aberrant-mind
-- spell/level/cantrip
-- spell/school/enchantment
-aliases: ["Mind Sliver"]
+  - compendium/src/5e/tce
+  - spell/class/fighter/eldritch-knight
+  - spell/class/rogue/arcane-trickster
+  - spell/class/sorcerer/aberrant-mind
+  - spell/level/cantrip
+  - spell/school/enchantment
+aliases:
+  - Mind Sliver
 ---
 # Mind Sliver
 %%-- Embedded content starts on the next line. --%%

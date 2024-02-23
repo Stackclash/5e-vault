@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvii
-aliases: ["Slithering Tracker"]
+  - compendium/src/5e/hhhvii
+aliases:
+  - Slithering Tracker
 ---
 # Slithering Tracker
 *Source: Hamund's Harvesting Handbook: Volume II p. 42* 

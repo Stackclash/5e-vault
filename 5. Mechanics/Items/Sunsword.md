@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/cos
-- item/attunement/required
-- item/property/finesse
-- item/property/martial
-- item/property/versatile
-- item/rarity/legendary
-- item/weapon/martial/melee
-aliases: 
-- "Sunsword"
+  - compendium/src/5e/cos
+  - item/attunement/required
+  - item/property/finesse
+  - item/property/martial
+  - item/property/versatile
+  - item/rarity/legendary
+  - item/weapon/martial/melee
+aliases:
+  - Sunsword
 ---
 # Sunsword
 *Melee Weapon, legendary (requires attunement)*  

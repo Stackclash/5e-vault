@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- compendium/src/5e/mtf
-- deity/drow
-- domain/war
-aliases: ["Selvetarm"]
+  - compendium/src/5e/mtf
+  - deity/drow
+  - domain/war
+aliases:
+  - Selvetarm
 ---
 # Selvetarm
 *Source: Mordenkainen's Tome of Foes p. 54* 

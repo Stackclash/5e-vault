@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/2
-- monster/size/medium
-- monster/type/fiend/demon
+  - compendium/src/5e/mpmm
+  - monster/cr/2
+  - monster/size/medium
+  - monster/type/fiend/demon
 statblock: inline
-aliases: ["Rutterkin"]
+aliases:
+  - Rutterkin
 ---
 # [[5. Mechanics\Bestiary\Fiend\Rutterkin.md|Rutterkin]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 210, Mordenkainen's Tome of Foes p. 136*  

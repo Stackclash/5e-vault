@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhviii
-aliases: ["Orcus"]
+  - compendium/src/5e/hhhviii
+aliases:
+  - Orcus
 ---
 # Orcus
 *Source: Hamund's Harvesting Handbook: Volume III p. 26* 

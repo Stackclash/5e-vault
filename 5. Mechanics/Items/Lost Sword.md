@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/cos
-- item/attunement/required
-- item/property/finesse
-- item/property/light
-- item/property/martial
-- item/rarity/unknown/magic
-- item/weapon/martial/melee
-aliases: 
-- "Lost Sword"
+  - compendium/src/5e/cos
+  - item/attunement/required
+  - item/property/finesse
+  - item/property/light
+  - item/property/martial
+  - item/rarity/unknown/magic
+  - item/weapon/martial/melee
+aliases:
+  - Lost Sword
 ---
 # Lost Sword
 *Melee Weapon, unknown (magic) (requires attunement)*  

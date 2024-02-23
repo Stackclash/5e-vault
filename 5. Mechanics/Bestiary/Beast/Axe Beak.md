@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-4
-- monster/environment/grassland
-- monster/environment/hill
-- monster/size/large
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/1-4
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/size/large
+  - monster/type/beast
 statblock: inline
-aliases: ["Axe Beak"]
+aliases:
+  - Axe Beak
 ---
 # [[5. Mechanics\Bestiary\Beast\Axe Beak.md|Axe Beak]]
 *Source: Monster Manual p. 317. Available in the SRD and the Basic Rules.*  

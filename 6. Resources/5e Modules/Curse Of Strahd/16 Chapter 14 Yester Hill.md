@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/cos
-aliases:
-  - 'Chapter 14: Yester Hill'
+- compendium/src/5e/cos
+aliases: ["Chapter 14: Yester Hill"]
 ---
 # Chapter 14: Yester Hill
 *Source: Curse of Strahd, p. 197* 

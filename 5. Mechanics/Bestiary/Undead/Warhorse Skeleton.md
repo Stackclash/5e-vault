@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-2
-- monster/size/large
-- monster/type/undead
+  - compendium/src/5e/mm
+  - monster/cr/1-2
+  - monster/size/large
+  - monster/type/undead
 statblock: inline
-aliases: ["Warhorse Skeleton"]
+aliases:
+  - Warhorse Skeleton
 ---
 # [[5. Mechanics\Bestiary\Undead\Warhorse Skeleton.md|Warhorse Skeleton]]
 *Source: Monster Manual p. 273, Curse of Strahd. Available in the SRD.*  

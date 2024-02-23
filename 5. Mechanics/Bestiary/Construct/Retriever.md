@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/14
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/underdark
-- monster/size/large
-- monster/type/construct
+  - compendium/src/5e/mpmm
+  - monster/cr/14
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/construct
 statblock: inline
-aliases: ["Retriever"]
+aliases:
+  - Retriever
 ---
 # [[5. Mechanics\Bestiary\Construct\Retriever.md|Retriever]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 209, Mordenkainen's Tome of Foes p. 222*  

@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/rarity/unknown/magic
-- item/wondrous/wondrous-item
-aliases: 
-- "Spirit Paper"
+  - compendium/src/5e/hhhvi
+  - item/rarity/unknown/magic
+  - item/wondrous/wondrous-item
+aliases:
+  - Spirit Paper
 cost: 100
 ---
 # Spirit Paper

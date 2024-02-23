@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/tce
-- subclass/monk/astral-self
-aliases: ["Way of the Astral Self"]
+  - compendium/src/5e/tce
+  - subclass/monk/astral-self
+aliases:
+  - Way of the Astral Self
 ---
 # Way of the Astral Self
 *[[Monk.md\|Monk]]: Monastic Tradition*  

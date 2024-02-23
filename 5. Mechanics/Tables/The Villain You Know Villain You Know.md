@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["The Villain You Know; Villain You Know"]
+  - compendium/src/5e/erlw
+aliases:
+  - The Villain You Know; Villain You Know
 ---
 # The Villain You Know; Villain You Know
 *Source: Eberron: Rising from the Last War p. 184* 

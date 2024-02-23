@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Spined Devil"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Spined Devil
 ---
 # Spined Devil
 *Source: Hamund's Harvesting Handbook: Volume I p. 31* 

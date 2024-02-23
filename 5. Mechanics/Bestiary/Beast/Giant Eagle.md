@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1
-- monster/environment/coastal
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/size/large
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/1
+  - monster/environment/coastal
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/size/large
+  - monster/type/beast
 statblock: inline
-aliases: ["Giant Eagle"]
+aliases:
+  - Giant Eagle
 ---
 # [[5. Mechanics\Bestiary\Beast\Giant Eagle.md|Giant Eagle]]
 *Source: Monster Manual p. 324. Available in the SRD and the Basic Rules.*  

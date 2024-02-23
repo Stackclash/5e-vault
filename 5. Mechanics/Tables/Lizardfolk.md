@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Lizardfolk"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Lizardfolk
 ---
 # Lizardfolk
 *Source: Hamund's Harvesting Handbook: Volume I p. 72* 

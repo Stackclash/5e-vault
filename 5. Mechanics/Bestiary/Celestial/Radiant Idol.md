@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/erlw
-- monster/cr/11
-- monster/size/large
-- monster/type/celestial
+  - compendium/src/5e/erlw
+  - monster/cr/11
+  - monster/size/large
+  - monster/type/celestial
 statblock: inline
-aliases: ["Radiant Idol"]
+aliases:
+  - Radiant Idol
 ---
 # [[5. Mechanics\Bestiary\Celestial\Radiant Idol.md|Radiant Idol]]
 *Source: Eberron: Rising from the Last War p. 308*  

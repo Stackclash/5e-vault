@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/erlw
-- monster/cr/5
-- monster/size/medium
-- monster/type/fiend
+  - compendium/src/5e/erlw
+  - monster/cr/5
+  - monster/size/medium
+  - monster/type/fiend
 statblock: inline
-aliases: ["Zakya Rakshasa"]
+aliases:
+  - Zakya Rakshasa
 ---
 # [[5. Mechanics\Bestiary\Fiend\Zakya Rakshasa.md|Zakya Rakshasa]]
 *Source: Eberron: Rising from the Last War p. 309*  

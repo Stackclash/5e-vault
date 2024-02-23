@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/tce
-aliases: ["Aristocrat Retainer Roles"]
+  - compendium/src/5e/tce
+aliases:
+  - Aristocrat Retainer Roles
 ---
 # Aristocrat Retainer Roles
 *Source: Tasha's Cauldron of Everything p. 90* 

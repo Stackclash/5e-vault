@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/tce
-- item/attunement/required
-- item/rarity/artifact
-- item/wondrous
-aliases: 
-- "Teeth of Dahlver-Nar"
+  - compendium/src/5e/tce
+  - item/attunement/required
+  - item/rarity/artifact
+  - item/wondrous
+aliases:
+  - Teeth of Dahlver-Nar
 ---
 # Teeth of Dahlver-Nar
 *Wondrous Item, artifact (requires attunement)*  

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Multiclassing Prerequisites"]
+  - compendium/src/5e/phb
+aliases:
+  - Multiclassing Prerequisites
 ---
 # Multiclassing Prerequisites
 *Source: Player's Handbook p. 163. Available in the SRD.* 

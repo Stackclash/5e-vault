@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/4
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/fiend/demon
+  - compendium/src/5e/mpmm
+  - monster/cr/4
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/fiend/demon
 statblock: inline
-aliases: ["Babau"]
+aliases:
+  - Babau
 ---
 # [[5. Mechanics\Bestiary\Fiend\Babau.md|Babau]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 52*  

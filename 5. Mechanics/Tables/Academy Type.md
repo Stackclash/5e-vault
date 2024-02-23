@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/tce
-aliases: ["Academy Type"]
+  - compendium/src/5e/tce
+aliases:
+  - Academy Type
 ---
 # Academy Type
 *Source: Tasha's Cauldron of Everything p. 84* 

@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/erlw
-- item/attunement/required
-- item/rarity/common
-- item/wondrous/wondrous-item
-aliases: 
-- "Imbued Wood (Risian Pine)"
-- "Risian Pine Rod"
-- "Risian Pine Wand"
-- "Risian Pine Staff"
+  - compendium/src/5e/erlw
+  - item/attunement/required
+  - item/rarity/common
+  - item/wondrous/wondrous-item
+aliases:
+  - Imbued Wood (Risian Pine)
+  - Risian Pine Rod
+  - Risian Pine Wand
+  - Risian Pine Staff
 ---
 # Imbued Wood (Risian Pine)
 *Generic Variant, common (requires attunement)*  

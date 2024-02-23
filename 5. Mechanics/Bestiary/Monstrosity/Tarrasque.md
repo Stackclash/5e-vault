@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/30
-- monster/environment/urban
-- monster/size/gargantuan
-- monster/type/monstrosity/titan
+  - compendium/src/5e/mm
+  - monster/cr/30
+  - monster/environment/urban
+  - monster/size/gargantuan
+  - monster/type/monstrosity/titan
 statblock: inline
-aliases: ["Tarrasque"]
+aliases:
+  - Tarrasque
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Tarrasque.md|Tarrasque]]
 *Source: Monster Manual p. 286, Tasha's Cauldron of Everything. Available in the SRD.*  

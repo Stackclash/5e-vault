@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer/armorer
-- spell/class/druid/circle-of-the-land
-- spell/class/fighter/eldritch-knight
-- spell/class/rogue/arcane-trickster
-- spell/class/sorcerer
-- spell/class/warlock/the-fathomless
-- spell/class/wizard
-- spell/level/3
-- spell/school/evocation
-aliases: ["Lightning Bolt"]
+  - compendium/src/5e/phb
+  - spell/class/artificer/armorer
+  - spell/class/druid/circle-of-the-land
+  - spell/class/fighter/eldritch-knight
+  - spell/class/rogue/arcane-trickster
+  - spell/class/sorcerer
+  - spell/class/warlock/the-fathomless
+  - spell/class/wizard
+  - spell/level/3
+  - spell/school/evocation
+aliases:
+  - Lightning Bolt
 ---
 # Lightning Bolt
 %%-- Embedded content starts on the next line. --%%

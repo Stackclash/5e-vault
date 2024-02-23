@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/erlw
-- item/attunement/required
-- item/rarity/common
-- item/wondrous/wondrous-item
-aliases: 
-- "Imbued Wood (Irian Rosewood)"
-- "Irian Rosewood Rod"
-- "Irian Rosewood Wand"
-- "Irian Rosewood Staff"
+  - compendium/src/5e/erlw
+  - item/attunement/required
+  - item/rarity/common
+  - item/wondrous/wondrous-item
+aliases:
+  - Imbued Wood (Irian Rosewood)
+  - Irian Rosewood Rod
+  - Irian Rosewood Wand
+  - Irian Rosewood Staff
 ---
 # Imbued Wood (Irian Rosewood)
 *Generic Variant, common (requires attunement)*  

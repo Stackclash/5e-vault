@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vrgr
-aliases: ["Benefits of Renown; Rebel Benefits"]
+  - compendium/src/5e/vrgr
+aliases:
+  - Benefits of Renown; Rebel Benefits
 ---
 # Benefits of Renown; Rebel Benefits
 *Source: Van Richten's Guide to Ravenloft p. 131* 

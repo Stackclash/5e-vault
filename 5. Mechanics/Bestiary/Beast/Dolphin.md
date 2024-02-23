@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/1-8
-- monster/environment/coastal
-- monster/environment/underwater
-- monster/size/medium
-- monster/type/beast
+  - compendium/src/5e/mpmm
+  - monster/cr/1-8
+  - monster/environment/coastal
+  - monster/environment/underwater
+  - monster/size/medium
+  - monster/type/beast
 statblock: inline
-aliases: ["Dolphin"]
+aliases:
+  - Dolphin
 ---
 # [[5. Mechanics\Bestiary\Beast\Dolphin.md|Dolphin]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 97*  

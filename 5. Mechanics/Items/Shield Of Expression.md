@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/xge
-- item/armor/shield
-- item/rarity/common
-- item/tier/minor
-aliases: 
-- "Shield of Expression"
+  - compendium/src/5e/xge
+  - item/armor/shield
+  - item/rarity/common
+  - item/tier/minor
+aliases:
+  - Shield of Expression
 ---
 # Shield of Expression
 *Shield, minor, common*  

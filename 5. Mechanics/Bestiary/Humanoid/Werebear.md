@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/5
-- monster/environment/arctic
-- monster/environment/forest
-- monster/environment/hill
-- monster/size/medium
-- monster/type/humanoid/human
-- monster/type/humanoid/shapechanger
+  - compendium/src/5e/mm
+  - monster/cr/5
+  - monster/environment/arctic
+  - monster/environment/forest
+  - monster/environment/hill
+  - monster/size/medium
+  - monster/type/humanoid/human
+  - monster/type/humanoid/shapechanger
 statblock: inline
-aliases: ["Werebear"]
+aliases:
+  - Werebear
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Werebear.md|Werebear]]
 *Source: Monster Manual p. 208. Available in the SRD.*  

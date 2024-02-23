@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvii
-- item/attunement/required
-- item/property/crfby
-- item/rarity/rare
-- item/wondrous/wand
-aliases: 
-- "Mutated Eye Stalk Wand"
+  - compendium/src/5e/hhhvii
+  - item/attunement/required
+  - item/property/crfby
+  - item/rarity/rare
+  - item/wondrous/wand
+aliases:
+  - Mutated Eye Stalk Wand
 ---
 # Mutated Eye Stalk Wand
 *Wand, rare, Crafted by (requires attunement)*  

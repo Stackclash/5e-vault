@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/wealth/art-object
-aliases: 
-- "Silver ewer"
+  - compendium/src/5e/dmg
+  - item/wealth/art-object
+aliases:
+  - Silver ewer
 cost: 2500
 ---
 # Silver ewer

@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/11
-- monster/environment/coastal
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/size/large
-- monster/type/aberration
+  - compendium/src/5e/mpmm
+  - monster/cr/11
+  - monster/environment/coastal
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/aberration
 statblock: inline
-aliases: ["Balhannoth"]
+aliases:
+  - Balhannoth
 ---
 # [[5. Mechanics\Bestiary\Aberration\Balhannoth.md|Balhannoth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 55, Mordenkainen's Tome of Foes p. 119*  

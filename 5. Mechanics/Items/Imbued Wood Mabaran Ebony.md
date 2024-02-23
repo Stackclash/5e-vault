@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/erlw
-- item/attunement/required
-- item/rarity/common
-- item/wondrous/wondrous-item
-aliases: 
-- "Imbued Wood (Mabaran Ebony)"
-- "Mabaran Ebony Rod"
-- "Mabaran Ebony Wand"
-- "Mabaran Ebony Staff"
+  - compendium/src/5e/erlw
+  - item/attunement/required
+  - item/rarity/common
+  - item/wondrous/wondrous-item
+aliases:
+  - Imbued Wood (Mabaran Ebony)
+  - Mabaran Ebony Rod
+  - Mabaran Ebony Wand
+  - Mabaran Ebony Staff
 ---
 # Imbued Wood (Mabaran Ebony)
 *Generic Variant, common (requires attunement)*  

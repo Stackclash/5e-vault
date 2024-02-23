@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/tce
-- hazard/wld
-aliases: ["Avalanche"]
+  - compendium/src/5e/tce
+  - hazard/wld
+aliases:
+  - Avalanche
 ---
 # Avalanche
 *Wilderness Hazard*  

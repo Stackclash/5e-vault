@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/saf
-aliases: ["Strongholds as Fortifications; Stronghold Construction"]
+  - compendium/src/5e/saf
+aliases:
+  - Strongholds as Fortifications; Stronghold Construction
 ---
 # Strongholds as Fortifications; Stronghold Construction
 *Source: Strongholds and Followers* 

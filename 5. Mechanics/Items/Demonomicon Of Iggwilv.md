@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/tce
-- item/attunement/required
-- item/rarity/artifact
-- item/wondrous
-aliases: 
-- "Demonomicon of Iggwilv"
+  - compendium/src/5e/tce
+  - item/attunement/required
+  - item/rarity/artifact
+  - item/wondrous
+aliases:
+  - Demonomicon of Iggwilv
 ---
 # Demonomicon of Iggwilv
 *Wondrous Item, artifact (requires attunement)*  

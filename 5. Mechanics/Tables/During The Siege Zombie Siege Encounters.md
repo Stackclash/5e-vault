@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vrgr
-aliases: ["During the Siege; Zombie Siege Encounters"]
+  - compendium/src/5e/vrgr
+aliases:
+  - During the Siege; Zombie Siege Encounters
 ---
 # During the Siege; Zombie Siege Encounters
 *Source: Van Richten's Guide to Ravenloft p. 105* 

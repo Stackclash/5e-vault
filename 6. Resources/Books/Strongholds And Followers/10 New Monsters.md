@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/saf
-aliases:
-  - New Monsters
+- compendium/src/5e/saf
+aliases: ["New Monsters"]
 ---
 # New Monsters
 *Source: Strongholds and Followers* 

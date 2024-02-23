@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvii
-- item/armor/shield
-- item/attunement/required
-- item/property/crfby
-- item/rarity/very-rare
-aliases: 
-- "Antimagic Shield"
+  - compendium/src/5e/hhhvii
+  - item/armor/shield
+  - item/attunement/required
+  - item/property/crfby
+  - item/rarity/very-rare
+aliases:
+  - Antimagic Shield
 ---
 # Antimagic Shield
 *Shield, very rare, Crafted by (requires attunement)*  

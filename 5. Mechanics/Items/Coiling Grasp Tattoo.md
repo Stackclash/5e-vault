@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/tce
-- item/attunement/required
-- item/rarity/uncommon
-- item/wondrous
-aliases: 
-- "Coiling Grasp Tattoo"
+  - compendium/src/5e/tce
+  - item/attunement/required
+  - item/rarity/uncommon
+  - item/wondrous
+aliases:
+  - Coiling Grasp Tattoo
 ---
 # Coiling Grasp Tattoo
 *Wondrous Item, uncommon (requires attunement)*  

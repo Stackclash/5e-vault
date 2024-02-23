@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric/twilight-domain
-- spell/class/druid
-- spell/class/paladin/oath-of-the-ancients
-- spell/class/paladin/oath-of-the-watchers
-- spell/level/2
-- spell/school/evocation
-aliases: ["Moonbeam"]
+  - compendium/src/5e/phb
+  - spell/class/cleric/twilight-domain
+  - spell/class/druid
+  - spell/class/paladin/oath-of-the-ancients
+  - spell/class/paladin/oath-of-the-watchers
+  - spell/level/2
+  - spell/school/evocation
+aliases:
+  - Moonbeam
 ---
 # Moonbeam
 %%-- Embedded content starts on the next line. --%%

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/erlw
-- race/dwarf/mark-of-warding
-aliases: ["Dwarf (Mark of Warding)"]
+  - compendium/src/5e/erlw
+  - race/dwarf/mark-of-warding
+aliases:
+  - Dwarf (Mark of Warding)
 ---
 # Dwarf (Mark of Warding)
 *Source: Eberron: Rising from the Last War p. 51*  

@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/13
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/humanoid/elf
+  - compendium/src/5e/mpmm
+  - monster/cr/13
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/humanoid/elf
 statblock: inline
-aliases: ["Drow Arachnomancer"]
+aliases:
+  - Drow Arachnomancer
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Drow Arachnomancer.md|Drow Arachnomancer]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 99, Mordenkainen's Tome of Foes p. 182*  

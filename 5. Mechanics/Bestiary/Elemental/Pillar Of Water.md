@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/saf
-- monster/cr/7
-- monster/size/large
-- monster/type/elemental
+  - compendium/src/5e/saf
+  - monster/cr/7
+  - monster/size/large
+  - monster/type/elemental
 statblock: inline
-aliases: ["Pillar of Water"]
+aliases:
+  - Pillar of Water
 ---
 # [[5. Mechanics\Bestiary\Elemental\Pillar Of Water.md|Pillar of Water]]
 *Source: Strongholds and Followers p. 189*  

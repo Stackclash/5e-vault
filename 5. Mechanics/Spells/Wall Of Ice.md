@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/wizard
-- spell/level/6
-- spell/school/evocation
-aliases: ["Wall of Ice"]
+  - compendium/src/5e/phb
+  - spell/class/wizard
+  - spell/level/6
+  - spell/school/evocation
+aliases:
+  - Wall of Ice
 ---
 # Wall of Ice
 %%-- Embedded content starts on the next line. --%%

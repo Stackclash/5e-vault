@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/erlw
-- race/human/mark-of-finding
-aliases: ["Human (Mark of Finding)"]
+  - compendium/src/5e/erlw
+  - race/human/mark-of-finding
+aliases:
+  - Human (Mark of Finding)
 ---
 # Human (Mark of Finding)
 *Source: Eberron: Rising from the Last War p. 41*  

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Kythri, the Churning Chaos; Kythri Manifest Zone Features"]
+  - compendium/src/5e/erlw
+aliases:
+  - 'Kythri, the Churning Chaos; Kythri Manifest Zone Features'
 ---
 # Kythri, the Churning Chaos; Kythri Manifest Zone Features
 *Source: Eberron: Rising from the Last War p. 230* 

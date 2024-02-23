@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Dungeon Creator"]
+  - compendium/src/5e/dmg
+aliases:
+  - Dungeon Creator
 ---
 # Dungeon Creator
 *Source: Dungeon Master's Guide p. 99* 

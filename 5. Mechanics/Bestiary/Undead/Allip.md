@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/5
-- monster/environment/swamp
-- monster/environment/urban
-- monster/size/medium
-- monster/type/undead
+  - compendium/src/5e/mpmm
+  - monster/cr/5
+  - monster/environment/swamp
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
-aliases: ["Allip"]
+aliases:
+  - Allip
 ---
 # [[5. Mechanics\Bestiary\Undead\Allip.md|Allip]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 45, Mordenkainen's Tome of Foes p. 116*  

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/hhhviii
-- subclass/barbarian/blood-seeker
-aliases: ["Path of the Blood Seeker"]
+  - compendium/src/5e/hhhviii
+  - subclass/barbarian/blood-seeker
+aliases:
+  - Path of the Blood Seeker
 ---
 # Path of the Blood Seeker
 *[[Barbarian.md\|Barbarian]]: Primal Path*  

@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/1-4
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/small
-- monster/type/monstrosity
+  - compendium/src/5e/mpmm
+  - monster/cr/1-4
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/small
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Wretched Sorrowsworn"]
+aliases:
+  - Wretched Sorrowsworn
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Wretched Sorrowsworn.md|Wretched Sorrowsworn]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 224, Mordenkainen's Tome of Foes p. 233*  

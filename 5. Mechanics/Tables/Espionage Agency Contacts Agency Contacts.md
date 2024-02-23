@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Espionage Agency Contacts; Agency Contacts"]
+  - compendium/src/5e/erlw
+aliases:
+  - Espionage Agency Contacts; Agency Contacts
 ---
 # Espionage Agency Contacts; Agency Contacts
 *Source: Eberron: Rising from the Last War p. 78* 

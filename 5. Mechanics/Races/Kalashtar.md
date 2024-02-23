@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/erlw
-- race/kalashtar
-aliases: ["Kalashtar"]
+  - compendium/src/5e/erlw
+  - race/kalashtar
+aliases:
+  - Kalashtar
 ---
 # Kalashtar
 *Source: Eberron: Rising from the Last War p. 29*  

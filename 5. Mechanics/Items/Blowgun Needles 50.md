@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/weapon/ammunition
-aliases: 
-- "Blowgun Needles (50)"
+  - compendium/src/5e/phb
+  - item/weapon/ammunition
+aliases:
+  - Blowgun Needles (50)
 cost: 100
 ---
 # Blowgun Needles (50)

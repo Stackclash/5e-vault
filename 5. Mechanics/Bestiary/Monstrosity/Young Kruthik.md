@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/1-8
-- monster/environment/desert
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/size/small
-- monster/type/monstrosity
+  - compendium/src/5e/mpmm
+  - monster/cr/1-8
+  - monster/environment/desert
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/size/small
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Young Kruthik"]
+aliases:
+  - Young Kruthik
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Young Kruthik.md|Young Kruthik]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 168, Mordenkainen's Tome of Foes p. 211*  

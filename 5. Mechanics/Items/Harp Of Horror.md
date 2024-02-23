@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/gear/instrument
-- item/property/crfby
-- item/rarity/rare
-aliases: 
-- "Harp of Horror"
+  - compendium/src/5e/hhhviii
+  - item/gear/instrument
+  - item/property/crfby
+  - item/rarity/rare
+aliases:
+  - Harp of Horror
 ---
 # Harp of Horror
 *Instrument, rare, Crafted by*  

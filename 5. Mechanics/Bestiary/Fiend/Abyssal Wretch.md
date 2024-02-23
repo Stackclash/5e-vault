@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mtf
-- monster/cr/1-4
-- monster/size/medium
-- monster/type/fiend/demon
+  - compendium/src/5e/mtf
+  - monster/cr/1-4
+  - monster/size/medium
+  - monster/type/fiend/demon
 statblock: inline
-aliases: ["Abyssal Wretch"]
+aliases:
+  - Abyssal Wretch
 ---
 # [[5. Mechanics\Bestiary\Fiend\Abyssal Wretch.md|Abyssal Wretch]]
 *Source: Mordenkainen's Tome of Foes p. 136*  

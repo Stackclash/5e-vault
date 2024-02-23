@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/phb
-- domain/light
-- subclass/cleric/light
-aliases: ["Light Domain"]
+  - compendium/src/5e/phb
+  - domain/light
+  - subclass/cleric/light
+aliases:
+  - Light Domain
 ---
 # Light Domain
 *[[Cleric.md\|Cleric]]: Divine Domain*  

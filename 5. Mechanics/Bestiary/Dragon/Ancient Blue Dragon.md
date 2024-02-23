@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/23
-- monster/environment/coastal
-- monster/environment/desert
-- monster/size/gargantuan
-- monster/type/dragon
+  - compendium/src/5e/mm
+  - monster/cr/23
+  - monster/environment/coastal
+  - monster/environment/desert
+  - monster/size/gargantuan
+  - monster/type/dragon
 statblock: inline
-aliases: ["Ancient Blue Dragon"]
+aliases:
+  - Ancient Blue Dragon
 ---
 # [[5. Mechanics\Bestiary\Dragon\Ancient Blue Dragon.md|Ancient Blue Dragon]]
 *Source: Monster Manual p. 90, Tasha's Cauldron of Everything. Available in the SRD.*  

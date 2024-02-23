@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/tce
-- subclass/wizard/bladesinging
-aliases: ["Bladesinging"]
+  - compendium/src/5e/tce
+  - subclass/wizard/bladesinging
+aliases:
+  - Bladesinging
 ---
 # Bladesinging
 *[[Wizard.md\|Wizard]]: Arcane Tradition*  

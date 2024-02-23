@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhviii
-aliases: ["Stone Defender"]
+  - compendium/src/5e/hhhviii
+aliases:
+  - Stone Defender
 ---
 # Stone Defender
 *Source: Hamund's Harvesting Handbook: Volume III p. 15* 

@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/5
-- monster/environment/underdark
-- monster/size/large
-- monster/type/elemental
+  - compendium/src/5e/mm
+  - monster/cr/5
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/elemental
 statblock: inline
-aliases: ["Earth Elemental"]
+aliases:
+  - Earth Elemental
 ---
 # [[5. Mechanics\Bestiary\Elemental\Earth Elemental.md|Earth Elemental]]
 *Source: Monster Manual p. 124, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  

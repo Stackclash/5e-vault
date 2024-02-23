@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/cos
-- monster/cr/1-8
-- monster/size/medium
-- monster/type/humanoid/any-race
+  - compendium/src/5e/cos
+  - monster/cr/1-8
+  - monster/size/medium
+  - monster/type/humanoid/any-race
 statblock: inline
-aliases: ["Vistana Bandit"]
+aliases:
+  - Vistana Bandit
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Vistana Bandit.md|Vistana Bandit]]
 *Source: Curse of Strahd p. 28*  

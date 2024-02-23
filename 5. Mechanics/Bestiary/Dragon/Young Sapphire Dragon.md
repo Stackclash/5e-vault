@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/saf
-- monster/cr/10
-- monster/size/large
-- monster/type/dragon
+  - compendium/src/5e/saf
+  - monster/cr/10
+  - monster/size/large
+  - monster/type/dragon
 statblock: inline
-aliases: ["Young Sapphire Dragon"]
+aliases:
+  - Young Sapphire Dragon
 ---
 # [[5. Mechanics\Bestiary\Dragon\Young Sapphire Dragon.md|Young Sapphire Dragon]]
 *Source: Strongholds and Followers p. 215*  

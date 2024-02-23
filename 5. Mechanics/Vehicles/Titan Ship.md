@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-vehicle
 tags:
-- compendium/src/5e/hhhvi
-- vehicle/size/gargantuan
-- vehicle/terrain/sea
-- vehicle/type/ship
-aliases: ["Titan Ship"]
+  - compendium/src/5e/hhhvi
+  - vehicle/size/gargantuan
+  - vehicle/terrain/sea
+  - vehicle/type/ship
+aliases:
+  - Titan Ship
 ---
 # Titan Ship
 %%-- Embedded content starts on the next line. --%%

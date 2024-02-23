@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhviii
-aliases: ["Drow House Captain"]
+  - compendium/src/5e/hhhviii
+aliases:
+  - Drow House Captain
 ---
 # Drow House Captain
 *Source: Hamund's Harvesting Handbook: Volume III p. 37* 

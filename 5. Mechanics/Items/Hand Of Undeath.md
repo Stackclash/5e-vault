@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/property/crfby
-- item/rarity/uncommon
-- item/wondrous
-aliases: 
-- "Hand of Undeath"
+  - compendium/src/5e/hhhvi
+  - item/property/crfby
+  - item/rarity/uncommon
+  - item/wondrous
+aliases:
+  - Hand of Undeath
 ---
 # Hand of Undeath
 *Wondrous Item, uncommon, Crafted by*  

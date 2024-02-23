@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/4
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/monstrosity/warlock
+  - compendium/src/5e/mpmm
+  - monster/cr/4
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/monstrosity/warlock
 statblock: inline
-aliases: ["Yuan-ti Nightmare Speaker"]
+aliases:
+  - Yuan-ti Nightmare Speaker
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Yuan Ti Nightmare Speaker.md|Yuan-ti Nightmare Speaker]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 275*  

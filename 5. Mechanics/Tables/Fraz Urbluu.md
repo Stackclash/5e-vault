@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhviii
-aliases: ["Fraz-Urb'luu"]
+  - compendium/src/5e/hhhviii
+aliases:
+  - Fraz-Urb'luu
 ---
 # Fraz-Urb'luu
 *Source: Hamund's Harvesting Handbook: Volume III p. 25* 

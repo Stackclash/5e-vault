@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/erlw
-- item/attunement/required
-- item/rarity/common
-- item/wondrous
-aliases: 
-- "Scribe's Pen"
+  - compendium/src/5e/erlw
+  - item/attunement/required
+  - item/rarity/common
+  - item/wondrous
+aliases:
+  - Scribe's Pen
 ---
 # Scribe's Pen
 *Wondrous Item, common (requires attunement by a creature with the Mark of Scribing)*  

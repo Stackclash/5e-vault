@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/16
-- monster/environment/desert
-- monster/environment/mountain
-- monster/size/gargantuan
-- monster/type/elemental
+  - compendium/src/5e/mpmm
+  - monster/cr/16
+  - monster/environment/desert
+  - monster/environment/mountain
+  - monster/size/gargantuan
+  - monster/type/elemental
 statblock: inline
-aliases: ["Phoenix"]
+aliases:
+  - Phoenix
 ---
 # [[5. Mechanics\Bestiary\Elemental\Phoenix.md|Phoenix]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 206, Mordenkainen's Tome of Foes p. 199*  

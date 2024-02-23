@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/xge
-aliases: ["Life Events by Age"]
+  - compendium/src/5e/xge
+aliases:
+  - Life Events by Age
 ---
 # Life Events by Age
 *Source: Xanathar's Guide to Everything p. 69* 

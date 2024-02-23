@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/mtf
-aliases: ["Gith Tables; Githyanki Names, Female"]
+  - compendium/src/5e/mtf
+aliases:
+  - 'Gith Tables; Githyanki Names, Female'
 ---
 # Gith Tables; Githyanki Names, Female
 *Source: Mordenkainen's Tome of Foes p. 97* 

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Risia, the Plain of Ice; Risia Manifest Zone Features"]
+  - compendium/src/5e/erlw
+aliases:
+  - 'Risia, the Plain of Ice; Risia Manifest Zone Features'
 ---
 # Risia, the Plain of Ice; Risia Manifest Zone Features
 *Source: Eberron: Rising from the Last War p. 231* 

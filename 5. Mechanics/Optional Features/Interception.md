@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/tce
-- optional-feature/fs-f
-- optional-feature/fs-p
-aliases: ["Interception"]
+  - compendium/src/5e/tce
+  - optional-feature/fs-f
+  - optional-feature/fs-p
+aliases:
+  - Interception
 ---
 # Interception
 *Source: Tasha's Cauldron of Everything p. 41*  

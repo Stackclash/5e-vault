@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/property/crfby
-- item/rarity/legendary
-- item/wondrous/potion
-aliases: 
-- "Potion of the Eternal Tide"
+  - compendium/src/5e/hhhviii
+  - item/property/crfby
+  - item/rarity/legendary
+  - item/wondrous/potion
+aliases:
+  - Potion of the Eternal Tide
 ---
 # Potion of the Eternal Tide
 *Potion, legendary, Crafted by*  

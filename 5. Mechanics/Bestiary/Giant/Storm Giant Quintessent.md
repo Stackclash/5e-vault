@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/16
-- monster/environment/coastal
-- monster/environment/desert
-- monster/environment/mountain
-- monster/environment/underwater
-- monster/size/huge
-- monster/type/giant
+  - compendium/src/5e/mpmm
+  - monster/cr/16
+  - monster/environment/coastal
+  - monster/environment/desert
+  - monster/environment/mountain
+  - monster/environment/underwater
+  - monster/size/huge
+  - monster/type/giant
 statblock: inline
-aliases: ["Storm Giant Quintessent"]
+aliases:
+  - Storm Giant Quintessent
 ---
 # [[5. Mechanics\Bestiary\Giant\Storm Giant Quintessent.md|Storm Giant Quintessent]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 235*  

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vrgr
-aliases: ["Who Is Tatyana?; Tatyana's Incarnation"]
+  - compendium/src/5e/vrgr
+aliases:
+  - Who Is Tatyana?; Tatyana's Incarnation
 ---
 # Who Is Tatyana?; Tatyana's Incarnation
 *Source: Van Richten's Guide to Ravenloft p. 70* 

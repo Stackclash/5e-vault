@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/tce
-- monster/cr/
-- monster/size/medium
-- monster/type/monstrosity
+  - compendium/src/5e/tce
+  - monster/cr/
+  - monster/size/medium
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Shadow Spirit (6th-level Spell)"]
+aliases:
+  - Shadow Spirit (6th-level Spell)
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Shadow Spirit 6th Level Spell.md|Shadow Spirit (6th-level Spell)]]
 *Source: Tasha's Cauldron of Everything p. 114*  

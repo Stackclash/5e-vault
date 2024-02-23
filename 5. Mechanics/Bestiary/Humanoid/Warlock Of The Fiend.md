@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/7
-- monster/environment/arctic
-- monster/environment/desert
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/humanoid
+  - compendium/src/5e/mpmm
+  - monster/cr/7
+  - monster/environment/arctic
+  - monster/environment/desert
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/humanoid
 statblock: inline
-aliases: ["Warlock of the Fiend"]
+aliases:
+  - Warlock of the Fiend
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Warlock Of The Fiend.md|Warlock of the Fiend]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 255*  

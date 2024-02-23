@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Random Settlements; Race Relations"]
+  - compendium/src/5e/dmg
+aliases:
+  - Random Settlements; Race Relations
 ---
 # Random Settlements; Race Relations
 *Source: Dungeon Master's Guide p. 112* 

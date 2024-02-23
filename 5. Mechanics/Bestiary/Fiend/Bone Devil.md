@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/9
-- monster/size/large
-- monster/type/fiend/devil
+  - compendium/src/5e/mm
+  - monster/cr/9
+  - monster/size/large
+  - monster/type/fiend/devil
 statblock: inline
-aliases: ["Bone Devil"]
+aliases:
+  - Bone Devil
 ---
 # [[5. Mechanics\Bestiary\Fiend\Bone Devil.md|Bone Devil]]
 *Source: Monster Manual p. 71. Available in the SRD.*  

@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/cos
-aliases:
-  - Epilogue
+- compendium/src/5e/cos
+aliases: ["Epilogue"]
 ---
 # Epilogue
 *Source: Curse of Strahd, p. 207* 

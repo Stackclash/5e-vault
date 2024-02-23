@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/class/sorcerer/divine-soul
-- spell/level/8
-- spell/school/abjuration
-aliases: ["Holy Aura"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/class/sorcerer/divine-soul
+  - spell/level/8
+  - spell/school/abjuration
+aliases:
+  - Holy Aura
 ---
 # Holy Aura
 %%-- Embedded content starts on the next line. --%%

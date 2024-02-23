@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/erlw
-- item/attunement/required
-- item/rarity/common
-- item/wondrous/wondrous-item
-aliases: 
-- "Orb of Shielding (Kythrian Skarn)"
-- "Kythrian Skarn Orb"
-- "Kythrian Skarn Crystal"
+  - compendium/src/5e/erlw
+  - item/attunement/required
+  - item/rarity/common
+  - item/wondrous/wondrous-item
+aliases:
+  - Orb of Shielding (Kythrian Skarn)
+  - Kythrian Skarn Orb
+  - Kythrian Skarn Crystal
 ---
 # Orb of Shielding (Kythrian Skarn)
 *Generic Variant, common (requires attunement)*  

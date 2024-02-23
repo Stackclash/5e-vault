@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Artifact Properties; Minor Beneficial Properties"]
+  - compendium/src/5e/dmg
+aliases:
+  - Artifact Properties; Minor Beneficial Properties
 ---
 # Artifact Properties; Minor Beneficial Properties
 *Source: Dungeon Master's Guide p. 219* 

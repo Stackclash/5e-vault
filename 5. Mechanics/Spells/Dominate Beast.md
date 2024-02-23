@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric/nature-domain
-- spell/class/druid
-- spell/class/paladin/oath-of-conquest
-- spell/class/sorcerer
-- spell/class/warlock/the-archfey
-- spell/class/warlock/the-great-old-one
-- spell/level/4
-- spell/school/enchantment
-aliases: ["Dominate Beast"]
+  - compendium/src/5e/phb
+  - spell/class/cleric/nature-domain
+  - spell/class/druid
+  - spell/class/paladin/oath-of-conquest
+  - spell/class/sorcerer
+  - spell/class/warlock/the-archfey
+  - spell/class/warlock/the-great-old-one
+  - spell/level/4
+  - spell/school/enchantment
+aliases:
+  - Dominate Beast
 ---
 # Dominate Beast
 %%-- Embedded content starts on the next line. --%%

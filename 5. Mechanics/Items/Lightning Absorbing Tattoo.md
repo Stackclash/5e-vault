@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/tce
-- item/attunement/required
-- item/rarity/very-rare
-- item/wondrous
-aliases: 
-- "Lightning Absorbing Tattoo"
+  - compendium/src/5e/tce
+  - item/attunement/required
+  - item/rarity/very-rare
+  - item/wondrous
+aliases:
+  - Lightning Absorbing Tattoo
 ---
 # Lightning Absorbing Tattoo
 *Wondrous Item, very rare (requires attunement)*  

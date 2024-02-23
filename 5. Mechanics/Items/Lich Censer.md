@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/property/crfby
-- item/rarity/very-rare
-- item/wondrous
-aliases: 
-- "Lich Censer"
+  - compendium/src/5e/hhhvi
+  - item/property/crfby
+  - item/rarity/very-rare
+  - item/wondrous
+aliases:
+  - Lich Censer
 ---
 # Lich Censer
 *Wondrous Item, very rare, Crafted by*  

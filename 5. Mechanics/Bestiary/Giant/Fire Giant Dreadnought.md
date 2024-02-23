@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/14
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/size/huge
-- monster/type/giant
+  - compendium/src/5e/mpmm
+  - monster/cr/14
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/size/huge
+  - monster/type/giant
 statblock: inline
-aliases: ["Fire Giant Dreadnought"]
+aliases:
+  - Fire Giant Dreadnought
 ---
 # [[5. Mechanics\Bestiary\Giant\Fire Giant Dreadnought.md|Fire Giant Dreadnought]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 124*  

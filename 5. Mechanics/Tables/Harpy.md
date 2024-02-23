@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Harpy"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Harpy
 ---
 # Harpy
 *Source: Hamund's Harvesting Handbook: Volume I p. 64* 

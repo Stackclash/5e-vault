@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Deities of Eberron; 3"]
+  - compendium/src/5e/erlw
+aliases:
+  - Deities of Eberron; 3
 ---
 # Deities of Eberron; 3
 *Source: Eberron: Rising from the Last War p. 141* 

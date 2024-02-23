@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/5
-- monster/environment/urban
-- monster/size/medium
-- monster/type/humanoid
+  - compendium/src/5e/mpmm
+  - monster/cr/5
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/humanoid
 statblock: inline
-aliases: ["Transmuter Wizard"]
+aliases:
+  - Transmuter Wizard
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Transmuter Wizard.md|Transmuter Wizard]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 265*  

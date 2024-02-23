@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/wizard
-- spell/level/6
-- spell/school/abjuration
-aliases: ["Guards and Wards"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/wizard
+  - spell/level/6
+  - spell/school/abjuration
+aliases:
+  - Guards and Wards
 ---
 # Guards and Wards
 %%-- Embedded content starts on the next line. --%%

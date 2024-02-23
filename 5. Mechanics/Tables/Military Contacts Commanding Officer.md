@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Military Contacts; Commanding Officer"]
+  - compendium/src/5e/erlw
+aliases:
+  - Military Contacts; Commanding Officer
 ---
 # Military Contacts; Commanding Officer
 *Source: Eberron: Rising from the Last War p. 91* 

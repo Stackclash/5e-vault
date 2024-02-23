@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/tce
-- spell/level/6
-- spell/school/conjuration
-aliases: ["Summon Fiend"]
+  - compendium/src/5e/tce
+  - spell/level/6
+  - spell/school/conjuration
+aliases:
+  - Summon Fiend
 ---
 # Summon Fiend
 %%-- Embedded content starts on the next line. --%%

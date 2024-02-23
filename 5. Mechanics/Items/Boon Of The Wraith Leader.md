@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/attunement/required
-- item/property/crfby
-- item/rarity/rare
-- item/wondrous
-aliases: 
-- "Boon of the Wraith Leader"
+  - compendium/src/5e/hhhviii
+  - item/attunement/required
+  - item/property/crfby
+  - item/rarity/rare
+  - item/wondrous
+aliases:
+  - Boon of the Wraith Leader
 ---
 # Boon of the Wraith Leader
 *Wondrous Item, rare, Crafted by (requires attunement)*  

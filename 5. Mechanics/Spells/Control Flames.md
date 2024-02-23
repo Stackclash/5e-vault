@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/xge
-- spell/class/cleric/nature-domain
-- spell/class/druid
-- spell/class/druid/circle-of-the-land
-- spell/class/fighter/eldritch-knight
-- spell/class/rogue/arcane-trickster
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/cantrip
-- spell/school/transmutation
-aliases: ["Control Flames"]
+  - compendium/src/5e/xge
+  - spell/class/cleric/nature-domain
+  - spell/class/druid
+  - spell/class/druid/circle-of-the-land
+  - spell/class/fighter/eldritch-knight
+  - spell/class/rogue/arcane-trickster
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/cantrip
+  - spell/school/transmutation
+aliases:
+  - Control Flames
 ---
 # Control Flames
 %%-- Embedded content starts on the next line. --%%

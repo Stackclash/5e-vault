@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-4
-- monster/environment/forest
-- monster/environment/urban
-- monster/size/medium
-- monster/type/humanoid/kenku
+  - compendium/src/5e/mm
+  - monster/cr/1-4
+  - monster/environment/forest
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/humanoid/kenku
 statblock: inline
-aliases: ["Kenku"]
+aliases:
+  - Kenku
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Kenku.md|Kenku]]
 *Source: Monster Manual p. 194, Eberron: Rising from the Last War*  

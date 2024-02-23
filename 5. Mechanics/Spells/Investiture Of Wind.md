@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/xge
-- spell/class/druid
-- spell/class/sorcerer
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/6
-- spell/school/transmutation
-aliases: ["Investiture of Wind"]
+  - compendium/src/5e/xge
+  - spell/class/druid
+  - spell/class/sorcerer
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/6
+  - spell/school/transmutation
+aliases:
+  - Investiture of Wind
 ---
 # Investiture of Wind
 %%-- Embedded content starts on the next line. --%%

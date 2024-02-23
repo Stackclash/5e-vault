@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/mtf
-aliases: ["Gith Tables; Githyanki Bonds"]
+  - compendium/src/5e/mtf
+aliases:
+  - Gith Tables; Githyanki Bonds
 ---
 # Gith Tables; Githyanki Bonds
 *Source: Mordenkainen's Tome of Foes p. 97* 

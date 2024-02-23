@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/saf
-- monster/cr/10
-- monster/size/large
-- monster/type/elemental
+  - compendium/src/5e/saf
+  - monster/cr/10
+  - monster/size/large
+  - monster/type/elemental
 statblock: inline
-aliases: ["High Templar of Dust"]
+aliases:
+  - High Templar of Dust
 ---
 # [[5. Mechanics\Bestiary\Elemental\High Templar Of Dust.md|High Templar of Dust]]
 *Source: Strongholds and Followers p. 192*  

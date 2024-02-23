@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/1
-- monster/environment/desert
-- monster/environment/mountain
-- monster/environment/urban
-- monster/size/medium
-- monster/type/construct
+  - compendium/src/5e/mpmm
+  - monster/cr/1
+  - monster/environment/desert
+  - monster/environment/mountain
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/construct
 statblock: inline
-aliases: ["Stone Cursed"]
+aliases:
+  - Stone Cursed
 ---
 # [[5. Mechanics\Bestiary\Construct\Stone Cursed.md|Stone Cursed]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 233, Mordenkainen's Tome of Foes p. 240*  

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Lingering Injuries"]
+  - compendium/src/5e/dmg
+aliases:
+  - Lingering Injuries
 ---
 # Lingering Injuries
 *Source: Dungeon Master's Guide p. 272* 

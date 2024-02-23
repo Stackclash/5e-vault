@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/cos
-- monster/cr/3
-- monster/size/medium
-- monster/type/undead
+  - compendium/src/5e/cos
+  - monster/cr/3
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
-aliases: ["Phantom Warrior (Archer)"]
+aliases:
+  - Phantom Warrior (Archer)
 ---
 # [[5. Mechanics\Bestiary\Undead\Phantom Warrior Archer.md|Phantom Warrior (Archer)]]
 *Source: Curse of Strahd p. 142*  

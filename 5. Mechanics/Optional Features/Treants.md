@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/saf
-- optional-feature/unit
-aliases: ["Treants"]
+  - compendium/src/5e/saf
+  - optional-feature/unit
+aliases:
+  - Treants
 ---
 # Treants
 *Source: Strongholds and Followers p. 253*  

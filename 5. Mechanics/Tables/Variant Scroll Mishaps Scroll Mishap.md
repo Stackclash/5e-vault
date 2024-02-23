@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Variant: Scroll Mishaps; Scroll Mishap"]
+  - compendium/src/5e/dmg
+aliases:
+  - 'Variant: Scroll Mishaps; Scroll Mishap'
 ---
 # Variant: Scroll Mishaps; Scroll Mishap
 *Source: Dungeon Master's Guide p. 140* 

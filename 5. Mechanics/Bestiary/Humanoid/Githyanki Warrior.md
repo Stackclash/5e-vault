@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/3
-- monster/size/medium
-- monster/type/humanoid/gith
+  - compendium/src/5e/mm
+  - monster/cr/3
+  - monster/size/medium
+  - monster/type/humanoid/gith
 statblock: inline
-aliases: ["Githyanki Warrior"]
+aliases:
+  - Githyanki Warrior
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Githyanki Warrior.md|Githyanki Warrior]]
 *Source: Monster Manual p. 160*  

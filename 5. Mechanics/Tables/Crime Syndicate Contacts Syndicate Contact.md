@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Crime Syndicate Contacts; Syndicate Contact"]
+  - compendium/src/5e/erlw
+aliases:
+  - Crime Syndicate Contacts; Syndicate Contact
 ---
 # Crime Syndicate Contacts; Syndicate Contact
 *Source: Eberron: Rising from the Last War p. 71* 

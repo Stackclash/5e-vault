@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/armor/medium
-- item/property/crfby
-- item/rarity/rare
-aliases: 
-- "Wanderer's Hide"
+  - compendium/src/5e/hhhviii
+  - item/armor/medium
+  - item/property/crfby
+  - item/rarity/rare
+aliases:
+  - Wanderer's Hide
 ---
 # Wanderer's Hide
 *Medium Armor, rare, Crafted by*  

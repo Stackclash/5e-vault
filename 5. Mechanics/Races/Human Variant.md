@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/phb
-- race/human/variant
-aliases: ["Human (Variant)"]
+  - compendium/src/5e/phb
+  - race/human/variant
+aliases:
+  - Human (Variant)
 ---
 # Human (Variant)
 *Source: Player's Handbook p. 31. Available in the Basic Rules.*  

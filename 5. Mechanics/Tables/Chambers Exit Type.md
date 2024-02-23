@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Chambers; Exit Type"]
+  - compendium/src/5e/dmg
+aliases:
+  - Chambers; Exit Type
 ---
 # Chambers; Exit Type
 *Source: Dungeon Master's Guide p. 291* 

@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/3
-- monster/environment/underdark
-- monster/size/small
-- monster/type/aberration/sorcerer
+  - compendium/src/5e/mpmm
+  - monster/cr/3
+  - monster/environment/underdark
+  - monster/size/small
+  - monster/type/aberration/sorcerer
 statblock: inline
-aliases: ["Derro Savant"]
+aliases:
+  - Derro Savant
 ---
 # [[5. Mechanics\Bestiary\Aberration\Derro Savant.md|Derro Savant]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 92, Mordenkainen's Tome of Foes p. 159*  

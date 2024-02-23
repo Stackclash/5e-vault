@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/tce
-- item/attunement/required
-- item/rarity/rare
-- item/wondrous
-aliases: 
-- "+2 Amulet of the Devout"
+  - compendium/src/5e/tce
+  - item/attunement/required
+  - item/rarity/rare
+  - item/wondrous
+aliases:
+  - +2 Amulet of the Devout
 ---
 # +2 Amulet of the Devout
 *Wondrous Item, rare (requires attunement by a cleric or paladin)*  

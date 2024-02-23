@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Recurring Expenses; Maintenance Costs"]
+  - compendium/src/5e/dmg
+aliases:
+  - Recurring Expenses; Maintenance Costs
 ---
 # Recurring Expenses; Maintenance Costs
 *Source: Dungeon Master's Guide p. 126* 

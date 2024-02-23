@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvii
-- item/attunement/required
-- item/rarity/very-rare
-- item/wondrous/wondrous-item
-aliases: 
-- "Sun Stream Bow"
-- "Sun Stream Longbow"
-- "Sun Stream Shortbow"
+  - compendium/src/5e/hhhvii
+  - item/attunement/required
+  - item/rarity/very-rare
+  - item/wondrous/wondrous-item
+aliases:
+  - Sun Stream Bow
+  - Sun Stream Longbow
+  - Sun Stream Shortbow
 ---
 # Sun Stream Bow
 *Generic Variant, very rare (requires attunement)*  

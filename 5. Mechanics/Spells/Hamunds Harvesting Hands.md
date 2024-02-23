@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/hhhvii
-- spell/class/bard
-- spell/class/cleric
-- spell/class/ranger
-- spell/class/wizard
-- spell/level/1
-- spell/ritual
-- spell/school/conjuration
-aliases: ["Hamund's Harvesting Hands"]
+  - compendium/src/5e/hhhvii
+  - spell/class/bard
+  - spell/class/cleric
+  - spell/class/ranger
+  - spell/class/wizard
+  - spell/level/1
+  - spell/ritual
+  - spell/school/conjuration
+aliases:
+  - Hamund's Harvesting Hands
 ---
 # Hamund's Harvesting Hands
 %%-- Embedded content starts on the next line. --%%

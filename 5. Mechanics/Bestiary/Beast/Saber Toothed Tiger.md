@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/2
-- monster/environment/arctic
-- monster/environment/mountain
-- monster/size/large
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/2
+  - monster/environment/arctic
+  - monster/environment/mountain
+  - monster/size/large
+  - monster/type/beast
 statblock: inline
-aliases: ["Saber-Toothed Tiger"]
+aliases:
+  - Saber-Toothed Tiger
 ---
 # [[5. Mechanics\Bestiary\Beast\Saber Toothed Tiger.md|Saber-Toothed Tiger]]
 *Source: Monster Manual p. 336, Curse of Strahd. Available in the SRD and the Basic Rules.*  

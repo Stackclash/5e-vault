@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/xge
-- spell/class/artificer
-- spell/class/bard
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/5
-- spell/school/transmutation
-aliases: ["Skill Empowerment"]
+  - compendium/src/5e/xge
+  - spell/class/artificer
+  - spell/class/bard
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/5
+  - spell/school/transmutation
+aliases:
+  - Skill Empowerment
 ---
 # Skill Empowerment
 %%-- Embedded content starts on the next line. --%%

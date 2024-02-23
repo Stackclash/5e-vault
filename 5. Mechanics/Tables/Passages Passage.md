@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Passages; Passage"]
+  - compendium/src/5e/dmg
+aliases:
+  - Passages; Passage
 ---
 # Passages; Passage
 *Source: Dungeon Master's Guide p. 290* 

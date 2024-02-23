@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/xge
-aliases: ["Determine Numbers and Challenge Ratings; Multiple Monsters: 6th-10th Level"]
+  - compendium/src/5e/xge
+aliases:
+  - 'Determine Numbers and Challenge Ratings; Multiple Monsters: 6th-10th Level'
 ---
 # Determine Numbers and Challenge Ratings; Multiple Monsters: 6th-10th Level
 *Source: Xanathar's Guide to Everything p. 88* 

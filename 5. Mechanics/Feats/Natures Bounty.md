@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/hhbh
-- feat
-aliases: ["Nature's Bounty"]
+  - compendium/src/5e/hhbh
+  - feat
+aliases:
+  - Nature's Bounty
 ---
 # Nature's Bounty
 *Source: Hamund's Herbalism Handbook p. 39*  

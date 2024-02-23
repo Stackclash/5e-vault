@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer/battle-smith
-- spell/class/paladin
-- spell/class/warlock/the-hexblade
-- spell/level/5
-- spell/school/abjuration
-aliases: ["Banishing Smite"]
+  - compendium/src/5e/phb
+  - spell/class/artificer/battle-smith
+  - spell/class/paladin
+  - spell/class/warlock/the-hexblade
+  - spell/level/5
+  - spell/school/abjuration
+aliases:
+  - Banishing Smite
 ---
 # Banishing Smite
 %%-- Embedded content starts on the next line. --%%

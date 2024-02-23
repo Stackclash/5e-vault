@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/xge
-- spell/class/cleric
-- spell/class/paladin
-- spell/class/sorcerer/divine-soul
-- spell/level/5
-- spell/school/evocation
-aliases: ["Holy Weapon"]
+  - compendium/src/5e/xge
+  - spell/class/cleric
+  - spell/class/paladin
+  - spell/class/sorcerer/divine-soul
+  - spell/level/5
+  - spell/school/evocation
+aliases:
+  - Holy Weapon
 ---
 # Holy Weapon
 %%-- Embedded content starts on the next line. --%%

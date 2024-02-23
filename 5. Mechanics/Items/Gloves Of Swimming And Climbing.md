@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/attunement/required
-- item/rarity/uncommon
-- item/tier/major
-- item/wondrous
-aliases: 
-- "Gloves of Swimming and Climbing"
+  - compendium/src/5e/dmg
+  - item/attunement/required
+  - item/rarity/uncommon
+  - item/tier/major
+  - item/wondrous
+aliases:
+  - Gloves of Swimming and Climbing
 ---
 # Gloves of Swimming and Climbing
 *Wondrous Item, major, uncommon (requires attunement)*  

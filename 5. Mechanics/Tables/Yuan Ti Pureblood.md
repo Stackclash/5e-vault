@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Yuan-Ti Pureblood"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Yuan-Ti Pureblood
 ---
 # Yuan-Ti Pureblood
 *Source: Hamund's Harvesting Handbook: Volume I p. 109* 

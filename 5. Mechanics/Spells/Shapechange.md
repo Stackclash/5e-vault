@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/druid
-- spell/class/wizard
-- spell/level/9
-- spell/school/transmutation
-aliases: ["Shapechange"]
+  - compendium/src/5e/phb
+  - spell/class/druid
+  - spell/class/wizard
+  - spell/level/9
+  - spell/school/transmutation
+aliases:
+  - Shapechange
 ---
 # Shapechange
 %%-- Embedded content starts on the next line. --%%

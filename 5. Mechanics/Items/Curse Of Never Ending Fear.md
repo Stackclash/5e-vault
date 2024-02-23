@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvii
-- item/gear/curse
-- item/property/crfby
-- item/rarity/uncommon
-aliases: 
-- "Curse of Never-Ending Fear"
+  - compendium/src/5e/hhhvii
+  - item/gear/curse
+  - item/property/crfby
+  - item/rarity/uncommon
+aliases:
+  - Curse of Never-Ending Fear
 ---
 # Curse of Never-Ending Fear
 *Curse, uncommon, Crafted by*  

@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/vrgr
-- monster/cr/5
-- monster/size/medium
-- monster/type/undead
+  - compendium/src/5e/vrgr
+  - monster/cr/5
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
-aliases: ["Vampiric Mind Flayer"]
+aliases:
+  - Vampiric Mind Flayer
 ---
 # [[5. Mechanics\Bestiary\Undead\Vampiric Mind Flayer.md|Vampiric Mind Flayer]]
 *Source: Van Richten's Guide to Ravenloft p. 252*  

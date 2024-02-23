@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1
-- monster/size/medium
-- monster/type/dragon
+  - compendium/src/5e/mm
+  - monster/cr/1
+  - monster/size/medium
+  - monster/type/dragon
 statblock: inline
-aliases: ["Brass Dragon Wyrmling"]
+aliases:
+  - Brass Dragon Wyrmling
 ---
 # [[5. Mechanics\Bestiary\Dragon\Brass Dragon Wyrmling.md|Brass Dragon Wyrmling]]
 *Source: Monster Manual p. 106. Available in the SRD.*  

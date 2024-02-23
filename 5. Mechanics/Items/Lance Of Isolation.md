@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/property/crfby
-- item/property/martial
-- item/property/reach
-- item/property/special
-- item/rarity/rare
-- item/weapon/martial/melee
-aliases: 
-- "Lance of Isolation"
+  - compendium/src/5e/hhhviii
+  - item/property/crfby
+  - item/property/martial
+  - item/property/reach
+  - item/property/special
+  - item/rarity/rare
+  - item/weapon/martial/melee
+aliases:
+  - Lance of Isolation
 ---
 # Lance of Isolation
 *Melee Weapon, rare, Crafted by*  

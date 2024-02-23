@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/0
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/plant
+  - compendium/src/5e/mm
+  - monster/cr/0
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/plant
 statblock: inline
-aliases: ["Shrieker"]
+aliases:
+  - Shrieker
 ---
 # [[5. Mechanics\Bestiary\Plant\Shrieker.md|Shrieker]]
 *Source: Monster Manual p. 138. Available in the SRD.*  

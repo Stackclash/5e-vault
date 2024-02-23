@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/property/crfby
-- item/rarity/very-rare
-- item/wondrous/potion
-aliases: 
-- "Potion of Infernal Vitality"
+  - compendium/src/5e/hhhvi
+  - item/property/crfby
+  - item/rarity/very-rare
+  - item/wondrous/potion
+aliases:
+  - Potion of Infernal Vitality
 ---
 # Potion of Infernal Vitality
 *Potion, very rare, Crafted by*  

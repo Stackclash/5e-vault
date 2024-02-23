@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/property/crfby
-- item/rarity/rare
-- item/wondrous
-aliases: 
-- "Nightmare Skull"
+  - compendium/src/5e/hhhvi
+  - item/property/crfby
+  - item/rarity/rare
+  - item/wondrous
+aliases:
+  - Nightmare Skull
 ---
 # Nightmare Skull
 *Wondrous Item, rare, Crafted by*  

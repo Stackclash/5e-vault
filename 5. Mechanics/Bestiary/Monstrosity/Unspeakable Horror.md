@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/vrgr
-- monster/cr/8
-- monster/size/huge
-- monster/type/monstrosity
+  - compendium/src/5e/vrgr
+  - monster/cr/8
+  - monster/size/huge
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Unspeakable Horror"]
+aliases:
+  - Unspeakable Horror
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Unspeakable Horror.md|Unspeakable Horror]]
 *Source: Van Richten's Guide to Ravenloft p. 250*  

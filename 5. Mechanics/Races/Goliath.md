@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/mpmm
-- race/goliath
-aliases: ["Goliath"]
+  - compendium/src/5e/mpmm
+  - race/goliath
+aliases:
+  - Goliath
 ---
 # Goliath
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 21*  

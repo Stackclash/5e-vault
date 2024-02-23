@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/dmg
-- hazard/mech
-aliases: ["Collapsing Roof"]
+  - compendium/src/5e/dmg
+  - hazard/mech
+aliases:
+  - Collapsing Roof
 ---
 # Collapsing Roof
 *Mechanical Trap*  

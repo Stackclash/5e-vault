@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhviii
-aliases: ["Cadaver Collector"]
+  - compendium/src/5e/hhhviii
+aliases:
+  - Cadaver Collector
 ---
 # Cadaver Collector
 *Source: Hamund's Harvesting Handbook: Volume III p. 12* 

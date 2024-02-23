@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/sorcerer
-- spell/class/warlock/the-genie
-- spell/class/wizard
-- spell/level/9
-- spell/school/conjuration
-aliases: ["Wish"]
+  - compendium/src/5e/phb
+  - spell/class/sorcerer
+  - spell/class/warlock/the-genie
+  - spell/class/wizard
+  - spell/level/9
+  - spell/school/conjuration
+aliases:
+  - Wish
 ---
 # Wish
 %%-- Embedded content starts on the next line. --%%

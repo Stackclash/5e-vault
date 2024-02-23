@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/2
-- monster/size/large
-- monster/type/undead
+  - compendium/src/5e/mm
+  - monster/cr/2
+  - monster/size/large
+  - monster/type/undead
 statblock: inline
-aliases: ["Ogre Zombie"]
+aliases:
+  - Ogre Zombie
 ---
 # [[5. Mechanics\Bestiary\Undead\Ogre Zombie.md|Ogre Zombie]]
 *Source: Monster Manual p. 316. Available in the SRD.*  

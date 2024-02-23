@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/1
-- monster/environment/forest
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/size/small
-- monster/type/dragon
+  - compendium/src/5e/mpmm
+  - monster/cr/1
+  - monster/environment/forest
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/size/small
+  - monster/type/dragon
 statblock: inline
-aliases: ["Kobold Dragonshield"]
+aliases:
+  - Kobold Dragonshield
 ---
 # [[5. Mechanics\Bestiary\Dragon\Kobold Dragonshield.md|Kobold Dragonshield]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 163*  

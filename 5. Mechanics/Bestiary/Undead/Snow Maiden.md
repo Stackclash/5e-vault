@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/cos
-- monster/cr/1
-- monster/size/medium
-- monster/type/undead
+  - compendium/src/5e/cos
+  - monster/cr/1
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
-aliases: ["Snow Maiden"]
+aliases:
+  - Snow Maiden
 ---
 # [[5. Mechanics\Bestiary\Undead\Snow Maiden.md|Snow Maiden]]
 *Source: Curse of Strahd p. 159*  

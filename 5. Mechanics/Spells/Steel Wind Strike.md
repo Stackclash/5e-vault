@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/xge
-- spell/class/ranger
-- spell/class/wizard
-- spell/level/5
-- spell/school/conjuration
-aliases: ["Steel Wind Strike"]
+  - compendium/src/5e/xge
+  - spell/class/ranger
+  - spell/class/wizard
+  - spell/level/5
+  - spell/school/conjuration
+aliases:
+  - Steel Wind Strike
 ---
 # Steel Wind Strike
 %%-- Embedded content starts on the next line. --%%

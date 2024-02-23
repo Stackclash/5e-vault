@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/armor/light
-- item/attunement/required
-- item/property/crfa
-- item/rarity/artifact
-aliases: 
-- "Armor of the Gnoll Lord"
+  - compendium/src/5e/hhhviii
+  - item/armor/light
+  - item/attunement/required
+  - item/property/crfa
+  - item/rarity/artifact
+aliases:
+  - Armor of the Gnoll Lord
 ---
 # Armor of the Gnoll Lord
 *Light Armor, artifact, Crafted Artifact (requires attunement)*  

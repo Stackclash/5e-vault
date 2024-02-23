@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/xge
-- domain/forge
-- subclass/cleric/forge
-aliases: ["Forge Domain"]
+  - compendium/src/5e/xge
+  - domain/forge
+  - subclass/cleric/forge
+aliases:
+  - Forge Domain
 ---
 # Forge Domain
 *[[Cleric.md\|Cleric]]: Divine Domain*  

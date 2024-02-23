@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/1-4
-- monster/environment/coastal
-- monster/size/medium
-- monster/type/humanoid
+  - compendium/src/5e/mpmm
+  - monster/cr/1-4
+  - monster/environment/coastal
+  - monster/size/medium
+  - monster/type/humanoid
 statblock: inline
-aliases: ["Tortle"]
+aliases:
+  - Tortle
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Tortle.md|Tortle]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 244, Mordenkainen's Tome of Foes p. 242*  

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/xge
-- subclass/ranger/monster-slayer
-aliases: ["Monster Slayer"]
+  - compendium/src/5e/xge
+  - subclass/ranger/monster-slayer
+aliases:
+  - Monster Slayer
 ---
 # Monster Slayer
 *[[Ranger.md\|Ranger]]: Ranger Archetype*  

@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/xge
-- spell/class/artificer
-- spell/class/druid
-- spell/class/wizard
-- spell/level/5
-- spell/school/transmutation
-aliases: ["Transmute Rock"]
+  - compendium/src/5e/xge
+  - spell/class/artificer
+  - spell/class/druid
+  - spell/class/wizard
+  - spell/level/5
+  - spell/school/transmutation
+aliases:
+  - Transmute Rock
 ---
 # Transmute Rock
 %%-- Embedded content starts on the next line. --%%

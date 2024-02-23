@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Interactions with Others; NPC Interaction Traits"]
+  - compendium/src/5e/dmg
+aliases:
+  - Interactions with Others; NPC Interaction Traits
 ---
 # Interactions with Others; NPC Interaction Traits
 *Source: Dungeon Master's Guide p. 90* 

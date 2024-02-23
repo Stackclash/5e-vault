@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/tce
-- subclass/bard/eloquence
-aliases: ["College of Eloquence"]
+  - compendium/src/5e/tce
+  - subclass/bard/eloquence
+aliases:
+  - College of Eloquence
 ---
 # College of Eloquence
 *[[Bard.md\|Bard]]: Bard College*  

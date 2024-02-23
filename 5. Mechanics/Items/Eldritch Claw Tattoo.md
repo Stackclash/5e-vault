@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/tce
-- item/attunement/required
-- item/rarity/uncommon
-- item/wondrous
-aliases: 
-- "Eldritch Claw Tattoo"
+  - compendium/src/5e/tce
+  - item/attunement/required
+  - item/rarity/uncommon
+  - item/wondrous
+aliases:
+  - Eldritch Claw Tattoo
 ---
 # Eldritch Claw Tattoo
 *Wondrous Item, uncommon (requires attunement)*  

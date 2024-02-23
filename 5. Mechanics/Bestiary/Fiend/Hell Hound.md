@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/3
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/fiend
+  - compendium/src/5e/mm
+  - monster/cr/3
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/fiend
 statblock: inline
-aliases: ["Hell Hound"]
+aliases:
+  - Hell Hound
 ---
 # [[5. Mechanics\Bestiary\Fiend\Hell Hound.md|Hell Hound]]
 *Source: Monster Manual p. 182, Curse of Strahd. Available in the SRD and the Basic Rules.*  

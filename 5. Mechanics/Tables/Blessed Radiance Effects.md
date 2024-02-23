@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/tce
-aliases: ["Blessed Radiance Effects"]
+  - compendium/src/5e/tce
+aliases:
+  - Blessed Radiance Effects
 ---
 # Blessed Radiance Effects
 *Source: Tasha's Cauldron of Everything p. 150* 

@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer
-- spell/class/druid
-- spell/class/druid/circle-of-the-land
-- spell/class/sorcerer
-- spell/class/warlock/the-genie
-- spell/class/wizard
-- spell/level/5
-- spell/school/evocation
-aliases: ["Wall of Stone"]
+  - compendium/src/5e/phb
+  - spell/class/artificer
+  - spell/class/druid
+  - spell/class/druid/circle-of-the-land
+  - spell/class/sorcerer
+  - spell/class/warlock/the-genie
+  - spell/class/wizard
+  - spell/level/5
+  - spell/school/evocation
+aliases:
+  - Wall of Stone
 ---
 # Wall of Stone
 %%-- Embedded content starts on the next line. --%%

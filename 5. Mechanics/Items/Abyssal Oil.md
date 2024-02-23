@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/gear/oil
-- item/property/crfby
-- item/rarity/very-rare
-aliases: 
-- "Abyssal Oil"
+  - compendium/src/5e/hhhviii
+  - item/gear/oil
+  - item/property/crfby
+  - item/rarity/very-rare
+aliases:
+  - Abyssal Oil
 ---
 # Abyssal Oil
 *Oil, very rare, Crafted by*  

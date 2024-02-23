@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/attunement/required
-- item/property/crfby
-- item/rarity/rare
-- item/wondrous
-aliases: 
-- "Siphon Boon"
+  - compendium/src/5e/hhhviii
+  - item/attunement/required
+  - item/property/crfby
+  - item/rarity/rare
+  - item/wondrous
+aliases:
+  - Siphon Boon
 ---
 # Siphon Boon
 *Wondrous Item, rare, Crafted by (requires attunement)*  

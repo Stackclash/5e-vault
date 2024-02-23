@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/tce
-aliases: ["Infested Effects"]
+  - compendium/src/5e/tce
+aliases:
+  - Infested Effects
 ---
 # Infested Effects
 *Source: Tasha's Cauldron of Everything p. 156* 

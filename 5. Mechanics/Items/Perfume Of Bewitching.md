@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/xge
-- item/rarity/common
-- item/tier/minor
-- item/wondrous
-aliases: 
-- "Perfume of Bewitching"
+  - compendium/src/5e/xge
+  - item/rarity/common
+  - item/tier/minor
+  - item/wondrous
+aliases:
+  - Perfume of Bewitching
 ---
 # Perfume of Bewitching
 *Wondrous Item, minor, common*  

@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/5
-- monster/environment/urban
-- monster/size/medium
-- monster/type/fiend
+  - compendium/src/5e/mm
+  - monster/cr/5
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/fiend
 statblock: inline
-aliases: ["Cambion"]
+aliases:
+  - Cambion
 ---
 # [[5. Mechanics\Bestiary\Fiend\Cambion.md|Cambion]]
 *Source: Monster Manual p. 36*  

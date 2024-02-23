@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/erlw
-- item/attunement/required
-- item/rarity/very-rare
-- item/wondrous
-aliases: 
-- "Kyrzin's Ooze"
+  - compendium/src/5e/erlw
+  - item/attunement/required
+  - item/rarity/very-rare
+  - item/wondrous
+aliases:
+  - Kyrzin's Ooze
 ---
 # Kyrzin's Ooze
 *Wondrous Item, very rare (requires attunement)*  

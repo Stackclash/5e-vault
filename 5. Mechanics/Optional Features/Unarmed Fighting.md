@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/tce
-- optional-feature/fs-f
-aliases: ["Unarmed Fighting"]
+  - compendium/src/5e/tce
+  - optional-feature/fs-f
+aliases:
+  - Unarmed Fighting
 ---
 # Unarmed Fighting
 *Source: Tasha's Cauldron of Everything p. 42*  

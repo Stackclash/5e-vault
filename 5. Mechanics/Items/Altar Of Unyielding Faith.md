@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/saf
-- item/gear/requires-installation
-- item/rarity/very-rare
-aliases: 
-- "Altar of Unyielding Faith"
+  - compendium/src/5e/saf
+  - item/gear/requires-installation
+  - item/rarity/very-rare
+aliases:
+  - Altar of Unyielding Faith
 ---
 # Altar of Unyielding Faith
 *requires installation, very rare*  

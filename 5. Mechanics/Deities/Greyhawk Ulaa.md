@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- compendium/src/5e/phb
-- deity/greyhawk
-- domain/life
-- domain/war
-aliases: ["Ulaa"]
+  - compendium/src/5e/phb
+  - deity/greyhawk
+  - domain/life
+  - domain/war
+aliases:
+  - Ulaa
 ---
 # Ulaa
 *Source: Player's Handbook p. 295* 

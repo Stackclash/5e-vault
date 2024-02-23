@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/6
-- monster/environment/arctic
-- monster/size/large
-- monster/type/dragon
+  - compendium/src/5e/mm
+  - monster/cr/6
+  - monster/environment/arctic
+  - monster/size/large
+  - monster/type/dragon
 statblock: inline
-aliases: ["Young White Dragon"]
+aliases:
+  - Young White Dragon
 ---
 # [[5. Mechanics\Bestiary\Dragon\Young White Dragon.md|Young White Dragon]]
 *Source: Monster Manual p. 101. Available in the SRD.*  

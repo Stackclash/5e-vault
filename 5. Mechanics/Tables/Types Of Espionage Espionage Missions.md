@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Types of Espionage; Espionage Missions"]
+  - compendium/src/5e/erlw
+aliases:
+  - Types of Espionage; Espionage Missions
 ---
 # Types of Espionage; Espionage Missions
 *Source: Eberron: Rising from the Last War p. 78* 

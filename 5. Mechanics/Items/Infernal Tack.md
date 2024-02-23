@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/mtf
-- item/attunement/required
-- item/rarity/legendary
-- item/wondrous
-aliases: 
-- "Infernal Tack"
+  - compendium/src/5e/mtf
+  - item/attunement/required
+  - item/rarity/legendary
+  - item/wondrous
+aliases:
+  - Infernal Tack
 ---
 # Infernal Tack
 *Wondrous Item, legendary (requires attunement by a creature of evil alignment.)*  

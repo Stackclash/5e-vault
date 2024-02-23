@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/4
-- monster/environment/arctic
-- monster/environment/forest
-- monster/environment/mountain
-- monster/environment/swamp
-- monster/environment/urban
-- monster/size/medium
-- monster/type/humanoid
+  - compendium/src/5e/mpmm
+  - monster/cr/4
+  - monster/environment/arctic
+  - monster/environment/forest
+  - monster/environment/mountain
+  - monster/environment/swamp
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/humanoid
 statblock: inline
-aliases: ["Warlock of the Archfey"]
+aliases:
+  - Warlock of the Archfey
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Warlock Of The Archfey.md|Warlock of the Archfey]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 255*  

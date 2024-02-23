@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/2
-- monster/environment/forest
-- monster/size/huge
-- monster/type/plant
+  - compendium/src/5e/mm
+  - monster/cr/2
+  - monster/environment/forest
+  - monster/size/huge
+  - monster/type/plant
 statblock: inline
-aliases: ["Awakened Tree"]
+aliases:
+  - Awakened Tree
 ---
 # [[5. Mechanics\Bestiary\Plant\Awakened Tree.md|Awakened Tree]]
 *Source: Monster Manual p. 317. Available in the SRD and the Basic Rules.*  

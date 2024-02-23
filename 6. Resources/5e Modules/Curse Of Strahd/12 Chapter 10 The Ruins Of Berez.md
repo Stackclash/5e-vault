@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/cos
-aliases:
-  - 'Chapter 10: The Ruins of Berez'
+- compendium/src/5e/cos
+aliases: ["Chapter 10: The Ruins of Berez"]
 ---
 # Chapter 10: The Ruins of Berez
 *Source: Curse of Strahd, p. 161* 

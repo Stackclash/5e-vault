@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/saf
-- monster/cr/3
-- monster/size/medium
-- monster/type/dragon
+  - compendium/src/5e/saf
+  - monster/cr/3
+  - monster/size/medium
+  - monster/type/dragon
 statblock: inline
-aliases: ["Amethyst Wyrmling"]
+aliases:
+  - Amethyst Wyrmling
 ---
 # [[5. Mechanics\Bestiary\Dragon\Amethyst Wyrmling.md|Amethyst Wyrmling]]
 *Source: Strongholds and Followers p. 223*  

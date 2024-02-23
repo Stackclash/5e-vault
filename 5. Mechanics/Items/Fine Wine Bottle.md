@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear/food-and-drink
-aliases: 
-- "Fine Wine (Bottle)"
+  - compendium/src/5e/phb
+  - item/gear/food-and-drink
+aliases:
+  - Fine Wine (Bottle)
 cost: 1000
 ---
 # Fine Wine (Bottle)

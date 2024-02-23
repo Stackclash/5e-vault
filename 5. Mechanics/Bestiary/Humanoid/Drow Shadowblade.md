@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/11
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/humanoid/elf
+  - compendium/src/5e/mpmm
+  - monster/cr/11
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/humanoid/elf
 statblock: inline
-aliases: ["Drow Shadowblade"]
+aliases:
+  - Drow Shadowblade
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Drow Shadowblade.md|Drow Shadowblade]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 105, Mordenkainen's Tome of Foes p. 187*  

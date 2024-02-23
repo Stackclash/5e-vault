@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/property/crfby
-- item/rarity/rare
-- item/wondrous
-aliases: 
-- "Enigma Sheet"
+  - compendium/src/5e/hhhviii
+  - item/property/crfby
+  - item/rarity/rare
+  - item/wondrous
+aliases:
+  - Enigma Sheet
 ---
 # Enigma Sheet
 *Wondrous Item, rare, Crafted by*  

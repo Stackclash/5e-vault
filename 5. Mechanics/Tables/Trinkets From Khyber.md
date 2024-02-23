@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Trinkets from Khyber"]
+  - compendium/src/5e/erlw
+aliases:
+  - Trinkets from Khyber
 ---
 # Trinkets from Khyber
 *Source: Eberron: Rising from the Last War p. 135* 

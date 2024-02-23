@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Saving Throws"]
+  - compendium/src/5e/dmg
+aliases:
+  - Saving Throws
 ---
 # Saving Throws
 *Source: Dungeon Master's Guide p. 238* 

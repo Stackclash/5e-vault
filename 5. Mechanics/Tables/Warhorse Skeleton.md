@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Warhorse Skeleton"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Warhorse Skeleton
 ---
 # Warhorse Skeleton
 *Source: Hamund's Harvesting Handbook: Volume I p. 94* 

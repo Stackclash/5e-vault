@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/saf
-aliases: ["Gaining or Losing Concordance"]
+  - compendium/src/5e/saf
+aliases:
+  - Gaining or Losing Concordance
 ---
 # Gaining or Losing Concordance
 *Source: Strongholds and Followers p. 30* 

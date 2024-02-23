@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/saf
-- item/attunement/required
-- item/rarity/rare
-- item/wondrous
-aliases: 
-- "Psionic Crystal"
+  - compendium/src/5e/saf
+  - item/attunement/required
+  - item/rarity/rare
+  - item/wondrous
+aliases:
+  - Psionic Crystal
 ---
 # Psionic Crystal
 *Wondrous Item, rare (requires attunement)*  

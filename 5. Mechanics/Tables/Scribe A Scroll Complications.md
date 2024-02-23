@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/xge
-aliases: ["Scribe a Scroll Complications"]
+  - compendium/src/5e/xge
+aliases:
+  - Scribe a Scroll Complications
 ---
 # Scribe a Scroll Complications
 *Source: Xanathar's Guide to Everything p. 133* 

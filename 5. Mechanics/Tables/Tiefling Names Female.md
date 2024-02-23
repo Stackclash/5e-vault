@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/xge
-aliases: ["Tiefling Names – Female"]
+  - compendium/src/5e/xge
+aliases:
+  - Tiefling Names – Female
 ---
 # Tiefling Names – Female
 *Source: Xanathar's Guide to Everything p. 180* 

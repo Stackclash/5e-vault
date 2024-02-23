@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Bugbear Chief"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Bugbear Chief
 ---
 # Bugbear Chief
 *Source: Hamund's Harvesting Handbook: Volume I p. 15* 

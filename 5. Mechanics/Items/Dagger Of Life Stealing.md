@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/attunement/required
-- item/property/crfby
-- item/property/finesse
-- item/property/light
-- item/property/thrown
-- item/rarity/uncommon
-- item/weapon/simple/melee
-aliases: 
-- "Dagger of Life Stealing"
+  - compendium/src/5e/hhhvi
+  - item/attunement/required
+  - item/property/crfby
+  - item/property/finesse
+  - item/property/light
+  - item/property/thrown
+  - item/rarity/uncommon
+  - item/weapon/simple/melee
+aliases:
+  - Dagger of Life Stealing
 ---
 # Dagger of Life Stealing
 *Melee Weapon, uncommon, Crafted by (requires attunement)*  

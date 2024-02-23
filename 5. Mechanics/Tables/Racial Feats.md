@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/xge
-aliases: ["Racial Feats"]
+  - compendium/src/5e/xge
+aliases:
+  - Racial Feats
 ---
 # Racial Feats
 *Source: Xanathar's Guide to Everything p. 73* 

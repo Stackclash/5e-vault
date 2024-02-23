@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Maneuver, Battle Master"]
+  - compendium/src/5e/phb
+aliases:
+  - 'Maneuver, Battle Master'
 ---
 # Maneuver, Battle Master
 *Source: Player's Handbook* 

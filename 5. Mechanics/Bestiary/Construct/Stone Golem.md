@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/10
-- monster/size/large
-- monster/type/construct
+  - compendium/src/5e/mm
+  - monster/cr/10
+  - monster/size/large
+  - monster/type/construct
 statblock: inline
-aliases: ["Stone Golem"]
+aliases:
+  - Stone Golem
 ---
 # [[5. Mechanics\Bestiary\Construct\Stone Golem.md|Stone Golem]]
 *Source: Monster Manual p. 170, Curse of Strahd. Available in the SRD and the Basic Rules.*  

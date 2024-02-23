@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/fighter/psi-warrior
-- spell/class/sorcerer
-- spell/class/sorcerer/aberrant-mind
-- spell/class/warlock/the-great-old-one
-- spell/class/wizard
-- spell/level/5
-- spell/school/transmutation
-aliases: ["Telekinesis"]
+  - compendium/src/5e/phb
+  - spell/class/fighter/psi-warrior
+  - spell/class/sorcerer
+  - spell/class/sorcerer/aberrant-mind
+  - spell/class/warlock/the-great-old-one
+  - spell/class/wizard
+  - spell/level/5
+  - spell/school/transmutation
+aliases:
+  - Telekinesis
 ---
 # Telekinesis
 %%-- Embedded content starts on the next line. --%%

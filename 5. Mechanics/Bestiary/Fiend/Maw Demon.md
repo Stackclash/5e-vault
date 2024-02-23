@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/1
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/fiend/demon
+  - compendium/src/5e/mpmm
+  - monster/cr/1
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/fiend/demon
 statblock: inline
-aliases: ["Maw Demon"]
+aliases:
+  - Maw Demon
 ---
 # [[5. Mechanics\Bestiary\Fiend\Maw Demon.md|Maw Demon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 176*  

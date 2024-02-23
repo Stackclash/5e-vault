@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Dungeon Chamber Contents"]
+  - compendium/src/5e/dmg
+aliases:
+  - Dungeon Chamber Contents
 ---
 # Dungeon Chamber Contents
 *Source: Dungeon Master's Guide p. 296* 

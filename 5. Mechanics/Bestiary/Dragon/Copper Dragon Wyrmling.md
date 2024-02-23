@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1
-- monster/size/medium
-- monster/type/dragon
+  - compendium/src/5e/mm
+  - monster/cr/1
+  - monster/size/medium
+  - monster/type/dragon
 statblock: inline
-aliases: ["Copper Dragon Wyrmling"]
+aliases:
+  - Copper Dragon Wyrmling
 ---
 # [[5. Mechanics\Bestiary\Dragon\Copper Dragon Wyrmling.md|Copper Dragon Wyrmling]]
 *Source: Monster Manual p. 111. Available in the SRD.*  

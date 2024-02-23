@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/18
-- monster/size/medium
-- monster/type/fiend/devil
+  - compendium/src/5e/mpmm
+  - monster/cr/18
+  - monster/size/medium
+  - monster/type/fiend/devil
 statblock: inline
-aliases: ["Amnizu"]
+aliases:
+  - Amnizu
 ---
 # [[5. Mechanics\Bestiary\Fiend\Amnizu.md|Amnizu]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 46, Mordenkainen's Tome of Foes p. 164*  

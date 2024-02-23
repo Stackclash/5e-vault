@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Playing on a Grid"]
+  - compendium/src/5e/phb
+aliases:
+  - Playing on a Grid
 ---
 # Playing on a Grid
 *Source: Player's Handbook p. 192* 

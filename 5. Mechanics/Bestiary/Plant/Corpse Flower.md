@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/8
-- monster/environment/forest
-- monster/environment/swamp
-- monster/environment/urban
-- monster/size/large
-- monster/type/plant
+  - compendium/src/5e/mpmm
+  - monster/cr/8
+  - monster/environment/forest
+  - monster/environment/swamp
+  - monster/environment/urban
+  - monster/size/large
+  - monster/type/plant
 statblock: inline
-aliases: ["Corpse Flower"]
+aliases:
+  - Corpse Flower
 ---
 # [[5. Mechanics\Bestiary\Plant\Corpse Flower.md|Corpse Flower]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 82, Mordenkainen's Tome of Foes p. 127*  

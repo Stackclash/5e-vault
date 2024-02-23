@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Ability Check Proficiency by Class"]
+  - compendium/src/5e/dmg
+aliases:
+  - Ability Check Proficiency by Class
 ---
 # Ability Check Proficiency by Class
 *Source: Dungeon Master's Guide p. 263* 

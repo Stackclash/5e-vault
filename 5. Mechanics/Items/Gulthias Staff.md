@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/cos
-- item/attunement/required
-- item/property/versatile
-- item/rarity/rare
-- item/wondrous/staff
-aliases: 
-- "Gulthias Staff"
+  - compendium/src/5e/cos
+  - item/attunement/required
+  - item/property/versatile
+  - item/rarity/rare
+  - item/wondrous/staff
+aliases:
+  - Gulthias Staff
 ---
 # Gulthias Staff
 *Staff, rare (requires attunement)*  

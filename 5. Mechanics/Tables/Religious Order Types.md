@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/tce
-aliases: ["Religious Order Types"]
+  - compendium/src/5e/tce
+aliases:
+  - Religious Order Types
 ---
 # Religious Order Types
 *Source: Tasha's Cauldron of Everything p. 98* 

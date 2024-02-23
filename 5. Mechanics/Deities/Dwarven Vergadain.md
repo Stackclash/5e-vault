@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- compendium/src/5e/mtf
-- deity/dwarven
-- domain/trickery
-aliases: ["Vergadain"]
+  - compendium/src/5e/mtf
+  - deity/dwarven
+  - domain/trickery
+aliases:
+  - Vergadain
 ---
 # Vergadain
 *Source: Mordenkainen's Tome of Foes p. 73* 

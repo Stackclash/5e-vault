@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/hhhvii
-- spell/class/cleric
-- spell/class/druid
-- spell/class/paladin
-- spell/class/wizard
-- spell/level/3
-- spell/ritual
-- spell/school/necromancy
-aliases: ["Recomposition"]
+  - compendium/src/5e/hhhvii
+  - spell/class/cleric
+  - spell/class/druid
+  - spell/class/paladin
+  - spell/class/wizard
+  - spell/level/3
+  - spell/ritual
+  - spell/school/necromancy
+aliases:
+  - Recomposition
 ---
 # Recomposition
 %%-- Embedded content starts on the next line. --%%

@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/0
-- monster/size/tiny
-- monster/type/undead
+  - compendium/src/5e/mm
+  - monster/cr/0
+  - monster/size/tiny
+  - monster/type/undead
 statblock: inline
-aliases: ["Crawling Claw"]
+aliases:
+  - Crawling Claw
 ---
 # [[5. Mechanics\Bestiary\Undead\Crawling Claw.md|Crawling Claw]]
 *Source: Monster Manual p. 44, Curse of Strahd*  

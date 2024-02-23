@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/hhhviii
-- domain/harvester
-- subclass/cleric/harvester
-aliases: ["Harvester Domain"]
+  - compendium/src/5e/hhhviii
+  - domain/harvester
+  - subclass/cleric/harvester
+aliases:
+  - Harvester Domain
 ---
 # Harvester Domain
 *[[Cleric.md\|Cleric]]: Divine Domain*  

@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/xge
-- item/rarity/common
-- item/tier/minor
-- item/wondrous
-aliases: 
-- "Rope of Mending"
+  - compendium/src/5e/xge
+  - item/rarity/common
+  - item/tier/minor
+  - item/wondrous
+aliases:
+  - Rope of Mending
 ---
 # Rope of Mending
 *Wondrous Item, minor, common*  

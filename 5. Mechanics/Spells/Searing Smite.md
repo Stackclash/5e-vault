@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric/forge-domain
-- spell/class/paladin
-- spell/level/1
-- spell/school/evocation
-aliases: ["Searing Smite"]
+  - compendium/src/5e/phb
+  - spell/class/cleric/forge-domain
+  - spell/class/paladin
+  - spell/level/1
+  - spell/school/evocation
+aliases:
+  - Searing Smite
 ---
 # Searing Smite
 %%-- Embedded content starts on the next line. --%%

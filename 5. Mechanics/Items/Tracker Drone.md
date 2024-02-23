@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/property/crfby
-- item/rarity/very-rare
-- item/wondrous
-aliases: 
-- "Tracker Drone"
+  - compendium/src/5e/hhhviii
+  - item/property/crfby
+  - item/rarity/very-rare
+  - item/wondrous
+aliases:
+  - Tracker Drone
 ---
 # Tracker Drone
 *Wondrous Item, very rare, Crafted by*  

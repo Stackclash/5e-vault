@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/10
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/huge
-- monster/type/ooze
+  - compendium/src/5e/mpmm
+  - monster/cr/10
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/huge
+  - monster/type/ooze
 statblock: inline
-aliases: ["Elder Oblex"]
+aliases:
+  - Elder Oblex
 ---
 # [[5. Mechanics\Bestiary\Ooze\Elder Oblex.md|Elder Oblex]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 199, Mordenkainen's Tome of Foes p. 219*  

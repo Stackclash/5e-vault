@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/5
-- monster/size/medium
-- monster/type/humanoid/human
+  - compendium/src/5e/mm
+  - monster/cr/5
+  - monster/size/medium
+  - monster/type/humanoid/human
 statblock: inline
-aliases: ["Half-Red Dragon Veteran"]
+aliases:
+  - Half-Red Dragon Veteran
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Half Red Dragon Veteran.md|Half-Red Dragon Veteran]]
 *Source: Monster Manual p. 180. Available in the SRD.*  

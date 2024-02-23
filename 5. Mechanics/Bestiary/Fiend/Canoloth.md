@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/8
-- monster/environment/coastal
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/fiend/yugoloth
+  - compendium/src/5e/mpmm
+  - monster/cr/8
+  - monster/environment/coastal
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/fiend/yugoloth
 statblock: inline
-aliases: ["Canoloth"]
+aliases:
+  - Canoloth
 ---
 # [[5. Mechanics\Bestiary\Fiend\Canoloth.md|Canoloth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 69, Mordenkainen's Tome of Foes p. 247*  

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/saf
-- optional-feature/unit
-aliases: ["Redclaw Demonrunners"]
+  - compendium/src/5e/saf
+  - optional-feature/unit
+aliases:
+  - Redclaw Demonrunners
 ---
 # Redclaw Demonrunners
 *Source: Strongholds and Followers p. 149*  

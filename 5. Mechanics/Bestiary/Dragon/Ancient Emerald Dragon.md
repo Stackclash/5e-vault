@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/saf
-- monster/cr/21
-- monster/size/gargantuan
-- monster/type/dragon
+  - compendium/src/5e/saf
+  - monster/cr/21
+  - monster/size/gargantuan
+  - monster/type/dragon
 statblock: inline
-aliases: ["Ancient Emerald Dragon"]
+aliases:
+  - Ancient Emerald Dragon
 ---
 # [[5. Mechanics\Bestiary\Dragon\Ancient Emerald Dragon.md|Ancient Emerald Dragon]]
 *Source: Strongholds and Followers p. 199*  

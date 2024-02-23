@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/tce
-aliases: ["Spells"]
+  - compendium/src/5e/tce
+aliases:
+  - Spells
 ---
 # Spells
 *Source: Tasha's Cauldron of Everything p. 105* 

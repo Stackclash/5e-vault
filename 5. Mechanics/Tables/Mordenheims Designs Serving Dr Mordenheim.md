@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vrgr
-aliases: ["Mordenheim's Designs; Serving Dr. Mordenheim"]
+  - compendium/src/5e/vrgr
+aliases:
+  - Mordenheim's Designs; Serving Dr. Mordenheim
 ---
 # Mordenheim's Designs; Serving Dr. Mordenheim
 *Source: Van Richten's Guide to Ravenloft p. 142* 

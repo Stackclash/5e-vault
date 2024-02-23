@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/saf
-- optional-feature/unit
-aliases: ["The Needles"]
+  - compendium/src/5e/saf
+  - optional-feature/unit
+aliases:
+  - The Needles
 ---
 # The Needles
 *Source: Strongholds and Followers p. 148*  

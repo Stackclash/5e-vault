@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/xge
-- optional-feature/ei
-aliases: ["Eldritch Smite"]
+  - compendium/src/5e/xge
+  - optional-feature/ei
+aliases:
+  - Eldritch Smite
 ---
 # Eldritch Smite
 *Source: Xanathar's Guide to Everything p. 56*  

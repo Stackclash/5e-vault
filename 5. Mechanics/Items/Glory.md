@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/saf
-- item/attunement/required
-- item/rarity/very-rare
-- item/weapon/simple/melee
-aliases: 
-- "Glory"
+  - compendium/src/5e/saf
+  - item/attunement/required
+  - item/rarity/very-rare
+  - item/weapon/simple/melee
+aliases:
+  - Glory
 ---
 # Glory
 *Melee Weapon, very rare (requires attunement by a good creature)*  

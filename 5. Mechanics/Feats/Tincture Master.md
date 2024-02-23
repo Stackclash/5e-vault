@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/hhbh
-- feat
-aliases: ["Tincture Master"]
+  - compendium/src/5e/hhbh
+  - feat
+aliases:
+  - Tincture Master
 ---
 # Tincture Master
 *Source: Hamund's Herbalism Handbook p. 39*  

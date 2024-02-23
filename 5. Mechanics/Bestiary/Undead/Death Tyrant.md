@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/14
-- monster/environment/underdark
-- monster/size/large
-- monster/type/undead
+  - compendium/src/5e/mm
+  - monster/cr/14
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/undead
 statblock: inline
-aliases: ["Death Tyrant"]
+aliases:
+  - Death Tyrant
 ---
 # [[5. Mechanics\Bestiary\Undead\Death Tyrant.md|Death Tyrant]]
 *Source: Monster Manual p. 29*  

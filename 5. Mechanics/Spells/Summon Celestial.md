@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/tce
-- spell/class/sorcerer/divine-soul
-- spell/level/5
-- spell/school/conjuration
-aliases: ["Summon Celestial"]
+  - compendium/src/5e/tce
+  - spell/class/sorcerer/divine-soul
+  - spell/level/5
+  - spell/school/conjuration
+aliases:
+  - Summon Celestial
 ---
 # Summon Celestial
 %%-- Embedded content starts on the next line. --%%

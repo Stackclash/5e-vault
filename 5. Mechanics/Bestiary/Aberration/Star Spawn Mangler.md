@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/5
-- monster/size/medium
-- monster/type/aberration
+  - compendium/src/5e/mpmm
+  - monster/cr/5
+  - monster/size/medium
+  - monster/type/aberration
 statblock: inline
-aliases: ["Star Spawn Mangler"]
+aliases:
+  - Star Spawn Mangler
 ---
 # [[5. Mechanics\Bestiary\Aberration\Star Spawn Mangler.md|Star Spawn Mangler]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 229, Mordenkainen's Tome of Foes p. 236*  

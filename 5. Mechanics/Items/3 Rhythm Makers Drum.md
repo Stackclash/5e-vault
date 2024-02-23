@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/tce
-- item/attunement/required
-- item/gear/instrument
-- item/rarity/very-rare
-aliases: 
-- "+3 Rhythm-Maker's Drum"
+  - compendium/src/5e/tce
+  - item/attunement/required
+  - item/gear/instrument
+  - item/rarity/very-rare
+aliases:
+  - +3 Rhythm-Maker's Drum
 ---
 # +3 Rhythm-Maker's Drum
 *Instrument, very rare (requires attunement by a bard)*  

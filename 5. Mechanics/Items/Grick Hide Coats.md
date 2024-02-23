@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/armor/light
-- item/property/crfby
-- item/rarity/varies
-aliases: 
-- "Grick Hide Coats"
+  - compendium/src/5e/hhhvi
+  - item/armor/light
+  - item/property/crfby
+  - item/rarity/varies
+aliases:
+  - Grick Hide Coats
 ---
 # Grick Hide Coats
 *Light Armor, varies, Crafted by*  

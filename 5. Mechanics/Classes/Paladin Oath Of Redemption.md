@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/xge
-- subclass/paladin/redemption
-aliases: ["Oath of Redemption"]
+  - compendium/src/5e/xge
+  - subclass/paladin/redemption
+aliases:
+  - Oath of Redemption
 ---
 # Oath of Redemption
 *[[Paladin.md\|Paladin]]: Sacred Oath*  

@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/xge
-- item/rarity/common
-- item/tier/minor
-- item/wondrous
-aliases: 
-- "Mystery Key"
+  - compendium/src/5e/xge
+  - item/rarity/common
+  - item/tier/minor
+  - item/wondrous
+aliases:
+  - Mystery Key
 ---
 # Mystery Key
 *Wondrous Item, minor, common*  

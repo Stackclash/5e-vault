@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/tce
-- item/attunement/required
-- item/gear/instrument
-- item/rarity/rare
-aliases: 
-- "Lyre of Building"
+  - compendium/src/5e/tce
+  - item/attunement/required
+  - item/gear/instrument
+  - item/rarity/rare
+aliases:
+  - Lyre of Building
 ---
 # Lyre of Building
 *Instrument, rare (requires attunement by a bard)*  

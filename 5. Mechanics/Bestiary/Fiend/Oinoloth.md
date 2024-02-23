@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/12
-- monster/environment/desert
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/fiend/yugoloth
+  - compendium/src/5e/mpmm
+  - monster/cr/12
+  - monster/environment/desert
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/fiend/yugoloth
 statblock: inline
-aliases: ["Oinoloth"]
+aliases:
+  - Oinoloth
 ---
 # [[5. Mechanics\Bestiary\Fiend\Oinoloth.md|Oinoloth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 202, Mordenkainen's Tome of Foes p. 251*  

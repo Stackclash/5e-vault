@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/tce
-- item/attunement/required
-- item/rarity/very-rare
-- item/wondrous
-aliases: 
-- "Cauldron of Rebirth"
+  - compendium/src/5e/tce
+  - item/attunement/required
+  - item/rarity/very-rare
+  - item/wondrous
+aliases:
+  - Cauldron of Rebirth
 ---
 # Cauldron of Rebirth
 *Wondrous Item, very rare (requires attunement by a druid or warlock)*  

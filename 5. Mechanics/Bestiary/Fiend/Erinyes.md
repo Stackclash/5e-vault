@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/12
-- monster/size/medium
-- monster/type/fiend/devil
+  - compendium/src/5e/mm
+  - monster/cr/12
+  - monster/size/medium
+  - monster/type/fiend/devil
 statblock: inline
-aliases: ["Erinyes"]
+aliases:
+  - Erinyes
 ---
 # [[5. Mechanics\Bestiary\Fiend\Erinyes.md|Erinyes]]
 *Source: Monster Manual p. 73. Available in the SRD.*  

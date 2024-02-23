@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/property/crfby
-- item/rarity/rare
-- item/wondrous
-aliases: 
-- "Corpse Maker's War Paint"
+  - compendium/src/5e/hhhviii
+  - item/property/crfby
+  - item/rarity/rare
+  - item/wondrous
+aliases:
+  - Corpse Maker's War Paint
 ---
 # Corpse Maker's War Paint
 *Wondrous Item, rare, Crafted by*  

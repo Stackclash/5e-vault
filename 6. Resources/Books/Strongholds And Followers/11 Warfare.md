@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/saf
-aliases:
-  - Warfare
+- compendium/src/5e/saf
+aliases: ["Warfare"]
 ---
 # Warfare
 *Source: Strongholds and Followers, p. 231* 

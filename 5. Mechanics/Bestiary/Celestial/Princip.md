@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/saf
-- monster/cr/5
-- monster/size/medium
-- monster/type/celestial
+  - compendium/src/5e/saf
+  - monster/cr/5
+  - monster/size/medium
+  - monster/type/celestial
 statblock: inline
-aliases: ["Princip"]
+aliases:
+  - Princip
 ---
 # [[5. Mechanics\Bestiary\Celestial\Princip.md|Princip]]
 *Source: Strongholds and Followers p. 155*  

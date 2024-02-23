@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/attunement/required
-- item/property/martial
-- item/property/thrown
-- item/property/versatile
-- item/rarity/artifact
-- item/weapon/martial/melee
-aliases: 
-- "Axe of the Dwarvish Lords"
+  - compendium/src/5e/dmg
+  - item/attunement/required
+  - item/property/martial
+  - item/property/thrown
+  - item/property/versatile
+  - item/rarity/artifact
+  - item/weapon/martial/melee
+aliases:
+  - Axe of the Dwarvish Lords
 ---
 # Axe of the Dwarvish Lords
 *Melee Weapon, artifact (requires attunement)*  

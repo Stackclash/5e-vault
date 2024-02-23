@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/saf
-- item/attunement/required
-- item/rarity/artifact
-- item/wondrous
-aliases: 
-- "Codex Incabulum"
+  - compendium/src/5e/saf
+  - item/attunement/required
+  - item/rarity/artifact
+  - item/wondrous
+aliases:
+  - Codex Incabulum
 ---
 # Codex Incabulum
 *Wondrous Item, artifact (requires attunement)*  

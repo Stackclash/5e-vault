@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/tce
-- item/attunement/required
-- item/rarity/artifact
-- item/wondrous
-aliases: 
-- "Crook of Rao"
+  - compendium/src/5e/tce
+  - item/attunement/required
+  - item/rarity/artifact
+  - item/wondrous
+aliases:
+  - Crook of Rao
 ---
 # Crook of Rao
 *Wondrous Item, artifact (requires attunement)*  

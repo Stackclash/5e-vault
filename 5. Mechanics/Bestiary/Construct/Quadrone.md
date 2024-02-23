@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1
-- monster/size/medium
-- monster/type/construct
+  - compendium/src/5e/mm
+  - monster/cr/1
+  - monster/size/medium
+  - monster/type/construct
 statblock: inline
-aliases: ["Quadrone"]
+aliases:
+  - Quadrone
 ---
 # [[5. Mechanics\Bestiary\Construct\Quadrone.md|Quadrone]]
 *Source: Monster Manual p. 226*  

@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvii
-- item/attunement/required
-- item/property/crfby
-- item/property/finesse
-- item/property/martial
-- item/property/reach
-- item/rarity/rare
-- item/weapon/martial/melee
-aliases: 
-- "Yeenoghu's Wrath"
+  - compendium/src/5e/hhhvii
+  - item/attunement/required
+  - item/property/crfby
+  - item/property/finesse
+  - item/property/martial
+  - item/property/reach
+  - item/rarity/rare
+  - item/weapon/martial/melee
+aliases:
+  - Yeenoghu's Wrath
 ---
 # Yeenoghu's Wrath
 *Melee Weapon, rare, Crafted by (requires attunement)*  

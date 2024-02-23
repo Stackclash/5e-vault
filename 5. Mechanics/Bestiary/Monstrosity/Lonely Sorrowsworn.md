@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/9
-- monster/environment/coastal
-- monster/environment/desert
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/monstrosity
+  - compendium/src/5e/mpmm
+  - monster/cr/9
+  - monster/environment/coastal
+  - monster/environment/desert
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Lonely Sorrowsworn"]
+aliases:
+  - Lonely Sorrowsworn
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Lonely Sorrowsworn.md|Lonely Sorrowsworn]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 223, Mordenkainen's Tome of Foes p. 232*  

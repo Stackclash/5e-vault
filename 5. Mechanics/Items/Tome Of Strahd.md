@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/cos
-- item/gear
-aliases: 
-- "Tome of Strahd"
+  - compendium/src/5e/cos
+  - item/gear
+aliases:
+  - Tome of Strahd
 ---
 # Tome of Strahd
 *Adventuring Gear*  

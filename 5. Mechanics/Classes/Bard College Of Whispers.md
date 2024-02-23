@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/xge
-- subclass/bard/whispers
-aliases: ["College of Whispers"]
+  - compendium/src/5e/xge
+  - subclass/bard/whispers
+aliases:
+  - College of Whispers
 ---
 # College of Whispers
 *[[Bard.md\|Bard]]: Bard College*  

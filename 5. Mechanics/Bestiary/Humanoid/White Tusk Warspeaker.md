@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/saf
-- monster/cr/3
-- monster/size/medium
-- monster/type/humanoid/orc
+  - compendium/src/5e/saf
+  - monster/cr/3
+  - monster/size/medium
+  - monster/type/humanoid/orc
 statblock: inline
-aliases: ["White Tusk Warspeaker"]
+aliases:
+  - White Tusk Warspeaker
 ---
 # [[5. Mechanics\Bestiary\Humanoid\White Tusk Warspeaker.md|White Tusk Warspeaker]]
 *Source: Strongholds and Followers p. 140*  

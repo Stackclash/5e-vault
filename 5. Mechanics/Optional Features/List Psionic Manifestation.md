@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/saf
-aliases: ["Psionic Manifestation"]
+  - compendium/src/5e/saf
+aliases:
+  - Psionic Manifestation
 ---
 # Psionic Manifestation
 *Source: Strongholds and Followers* 

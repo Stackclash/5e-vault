@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Fiendish Curse (Devil)"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Fiendish Curse (Devil)
 ---
 # Fiendish Curse (Devil)
 *Source: Hamund's Harvesting Handbook: Volume I p. 27, Hamund's Harvesting Handbook: Volume III p. 29* 

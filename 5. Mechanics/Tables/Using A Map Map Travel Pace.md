@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Using a Map; Map Travel Pace"]
+  - compendium/src/5e/dmg
+aliases:
+  - Using a Map; Map Travel Pace
 ---
 # Using a Map; Map Travel Pace
 *Source: Dungeon Master's Guide p. 242* 

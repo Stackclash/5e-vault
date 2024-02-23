@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/5
-- monster/environment/underdark
-- monster/size/large
-- monster/type/aberration
+  - compendium/src/5e/mpmm
+  - monster/cr/5
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/aberration
 statblock: inline
-aliases: ["Mindwitness"]
+aliases:
+  - Mindwitness
 ---
 # [[5. Mechanics\Bestiary\Aberration\Mindwitness.md|Mindwitness]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 181*  

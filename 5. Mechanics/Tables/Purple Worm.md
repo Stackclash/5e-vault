@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Purple Worm"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Purple Worm
 ---
 # Purple Worm
 *Source: Hamund's Harvesting Handbook: Volume I p. 87* 

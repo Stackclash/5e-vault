@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/5
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/size/medium
-- monster/type/construct
+  - compendium/src/5e/mpmm
+  - monster/cr/5
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/size/medium
+  - monster/type/construct
 statblock: inline
-aliases: ["Clockwork Oaken Bolter"]
+aliases:
+  - Clockwork Oaken Bolter
 ---
 # [[5. Mechanics\Bestiary\Construct\Clockwork Oaken Bolter.md|Clockwork Oaken Bolter]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 80, Mordenkainen's Tome of Foes p. 126*  

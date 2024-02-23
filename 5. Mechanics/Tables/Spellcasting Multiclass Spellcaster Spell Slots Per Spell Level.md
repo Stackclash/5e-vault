@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Spellcasting; Multiclass Spellcaster: Spell Slots per Spell Level"]
+  - compendium/src/5e/phb
+aliases:
+  - 'Spellcasting; Multiclass Spellcaster: Spell Slots per Spell Level'
 ---
 # Spellcasting; Multiclass Spellcaster: Spell Slots per Spell Level
 *Source: Player's Handbook p. 164. Available in the SRD.* 

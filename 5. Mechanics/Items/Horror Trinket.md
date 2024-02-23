@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/vrgr
-- item/gear
-aliases: 
-- "Horror Trinket"
+  - compendium/src/5e/vrgr
+  - item/gear
+aliases:
+  - Horror Trinket
 ---
 # Horror Trinket
 *Adventuring Gear*  

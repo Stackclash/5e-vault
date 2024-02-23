@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/dmg
-- race/merfolk/dmg
-aliases: ["Merfolk (DMG)"]
+  - compendium/src/5e/dmg
+  - race/merfolk/dmg
+aliases:
+  - Merfolk (DMG)
 ---
 # Merfolk (DMG)
 *Source: Dungeon Master's Guide p. 282*  

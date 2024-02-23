@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvii
-- item/attunement/required
-- item/property/crfby
-- item/rarity/uncommon
-- item/wondrous
-aliases: 
-- "Cap of Aggression"
+  - compendium/src/5e/hhhvii
+  - item/attunement/required
+  - item/property/crfby
+  - item/rarity/uncommon
+  - item/wondrous
+aliases:
+  - Cap of Aggression
 ---
 # Cap of Aggression
 *Wondrous Item, uncommon, Crafted by (requires attunement)*  

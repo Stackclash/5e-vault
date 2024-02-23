@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/tce
-- subclass/warlock/genie
-aliases: ["The Genie"]
+  - compendium/src/5e/tce
+  - subclass/warlock/genie
+aliases:
+  - The Genie
 ---
 # The Genie
 *[[Warlock.md\|Warlock]]: Otherworldly Patron*  

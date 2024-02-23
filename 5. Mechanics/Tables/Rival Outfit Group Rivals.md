@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Rival Outfit; Group Rivals"]
+  - compendium/src/5e/erlw
+aliases:
+  - Rival Outfit; Group Rivals
 ---
 # Rival Outfit; Group Rivals
 *Source: Eberron: Rising from the Last War p. 70* 

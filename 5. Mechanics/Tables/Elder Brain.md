@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvii
-aliases: ["Elder Brain"]
+  - compendium/src/5e/hhhvii
+aliases:
+  - Elder Brain
 ---
 # Elder Brain
 *Source: Hamund's Harvesting Handbook: Volume II p. 32* 

@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/attunement/required
-- item/property/crfby
-- item/property/finesse
-- item/property/martial
-- item/property/reach
-- item/rarity/rare
-- item/weapon/martial/melee
-aliases: 
-- "Medusa Whip"
+  - compendium/src/5e/hhhvi
+  - item/attunement/required
+  - item/property/crfby
+  - item/property/finesse
+  - item/property/martial
+  - item/property/reach
+  - item/rarity/rare
+  - item/weapon/martial/melee
+aliases:
+  - Medusa Whip
 ---
 # Medusa Whip
 *Melee Weapon, rare, Crafted by (requires attunement)*  

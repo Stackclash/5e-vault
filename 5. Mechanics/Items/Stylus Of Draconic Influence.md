@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/property/crfby
-- item/rarity/very-rare
-- item/wondrous
-aliases: 
-- "Stylus of Draconic Influence"
+  - compendium/src/5e/hhhviii
+  - item/property/crfby
+  - item/rarity/very-rare
+  - item/wondrous
+aliases:
+  - Stylus of Draconic Influence
 ---
 # Stylus of Draconic Influence
 *Wondrous Item, very rare, Crafted by*  

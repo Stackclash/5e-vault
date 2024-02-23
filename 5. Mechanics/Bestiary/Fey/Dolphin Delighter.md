@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/3
-- monster/environment/coastal
-- monster/environment/underwater
-- monster/size/medium
-- monster/type/fey
+  - compendium/src/5e/mpmm
+  - monster/cr/3
+  - monster/environment/coastal
+  - monster/environment/underwater
+  - monster/size/medium
+  - monster/type/fey
 statblock: inline
-aliases: ["Dolphin Delighter"]
+aliases:
+  - Dolphin Delighter
 ---
 # [[5. Mechanics\Bestiary\Fey\Dolphin Delighter.md|Dolphin Delighter]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 97*  

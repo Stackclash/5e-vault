@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/erlw
-- monster/cr/3
-- monster/size/medium
-- monster/type/undead
+  - compendium/src/5e/erlw
+  - monster/cr/3
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
-aliases: ["Karrnathi Undead Soldier"]
+aliases:
+  - Karrnathi Undead Soldier
 ---
 # [[5. Mechanics\Bestiary\Undead\Karrnathi Undead Soldier.md|Karrnathi Undead Soldier]]
 *Source: Eberron: Rising from the Last War p. 295*  

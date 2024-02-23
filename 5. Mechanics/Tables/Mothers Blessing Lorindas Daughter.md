@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vrgr
-aliases: ["Mother's Blessing; Lorinda's Daughter"]
+  - compendium/src/5e/vrgr
+aliases:
+  - Mother's Blessing; Lorinda's Daughter
 ---
 # Mother's Blessing; Lorinda's Daughter
 *Source: Van Richten's Guide to Ravenloft p. 161* 

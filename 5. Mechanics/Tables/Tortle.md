@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhviii
-aliases: ["Tortle"]
+  - compendium/src/5e/hhhviii
+aliases:
+  - Tortle
 ---
 # Tortle
 *Source: Hamund's Harvesting Handbook: Volume III p. 69* 

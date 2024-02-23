@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/saf
-- monster/cr/10
-- monster/size/large
-- monster/type/fiend/demon
+  - compendium/src/5e/saf
+  - monster/cr/10
+  - monster/size/large
+  - monster/type/fiend/demon
 statblock: inline
-aliases: ["Lesser Balor"]
+aliases:
+  - Lesser Balor
 ---
 # [[5. Mechanics\Bestiary\Fiend\Lesser Balor.md|Lesser Balor]]
 *Source: Strongholds and Followers p. 153*  

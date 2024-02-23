@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvii
-- item/armor/heavy
-- item/attunement/required
-- item/property/crfby
-- item/rarity/rare
-aliases: 
-- "Armor of the Forest Sentinel"
+  - compendium/src/5e/hhhvii
+  - item/armor/heavy
+  - item/attunement/required
+  - item/property/crfby
+  - item/rarity/rare
+aliases:
+  - Armor of the Forest Sentinel
 ---
 # Armor of the Forest Sentinel
 *Heavy Armor, rare, Crafted by (requires attunement)*  

@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/3
-- monster/environment/forest
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/size/large
-- monster/type/elemental
+  - compendium/src/5e/mpmm
+  - monster/cr/3
+  - monster/environment/forest
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/elemental
 statblock: inline
-aliases: ["Flail Snail"]
+aliases:
+  - Flail Snail
 ---
 # [[5. Mechanics\Bestiary\Elemental\Flail Snail.md|Flail Snail]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 126*  

@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/tce
-- spell/class/artificer
-- spell/class/fighter/eldritch-knight
-- spell/class/rogue/arcane-trickster
-- spell/level/1
-- spell/school/evocation
-aliases: ["Tasha's Caustic Brew"]
+  - compendium/src/5e/tce
+  - spell/class/artificer
+  - spell/class/fighter/eldritch-knight
+  - spell/class/rogue/arcane-trickster
+  - spell/level/1
+  - spell/school/evocation
+aliases:
+  - Tasha's Caustic Brew
 ---
 # Tasha's Caustic Brew
 %%-- Embedded content starts on the next line. --%%

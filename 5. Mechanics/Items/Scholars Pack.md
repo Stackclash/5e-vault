@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear
-aliases: 
-- "Scholar's Pack"
+  - compendium/src/5e/phb
+  - item/gear
+aliases:
+  - Scholar's Pack
 cost: 4000
 ---
 # Scholar's Pack

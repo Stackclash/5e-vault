@@ -2,19 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/rarity/rare
-- item/wondrous/wondrous-item
-aliases: 
-- "Inertia Piston"
-- "Inertia Piston Light Hammer"
-- "Inertia Piston Flail"
-- "Inertia Piston Greatclub"
-- "Inertia Piston Warhammer"
-- "Inertia Piston Quarterstaff"
-- "Inertia Piston Club"
-- "Inertia Piston Maul"
-- "Inertia Piston Mace"
+  - compendium/src/5e/hhhviii
+  - item/rarity/rare
+  - item/wondrous/wondrous-item
+aliases:
+  - Inertia Piston
+  - Inertia Piston Light Hammer
+  - Inertia Piston Flail
+  - Inertia Piston Greatclub
+  - Inertia Piston Warhammer
+  - Inertia Piston Quarterstaff
+  - Inertia Piston Club
+  - Inertia Piston Maul
+  - Inertia Piston Mace
 ---
 # Inertia Piston
 *Generic Variant, rare*  

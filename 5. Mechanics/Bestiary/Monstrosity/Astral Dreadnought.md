@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/21
-- monster/size/gargantuan
-- monster/type/monstrosity/titan
+  - compendium/src/5e/mpmm
+  - monster/cr/21
+  - monster/size/gargantuan
+  - monster/type/monstrosity/titan
 statblock: inline
-aliases: ["Astral Dreadnought"]
+aliases:
+  - Astral Dreadnought
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Astral Dreadnought.md|Astral Dreadnought]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 51, Mordenkainen's Tome of Foes p. 117*  

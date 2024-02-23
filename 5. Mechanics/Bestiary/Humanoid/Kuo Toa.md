@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-4
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/humanoid/kuo-toa
+  - compendium/src/5e/mm
+  - monster/cr/1-4
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/humanoid/kuo-toa
 statblock: inline
-aliases: ["Kuo-toa"]
+aliases:
+  - Kuo-toa
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Kuo Toa.md|Kuo-toa]]
 *Source: Monster Manual p. 199*  

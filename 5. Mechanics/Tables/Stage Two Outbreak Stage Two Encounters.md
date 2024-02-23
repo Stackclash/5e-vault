@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vrgr
-aliases: ["Stage Two: Outbreak; Stage Two Encounters"]
+  - compendium/src/5e/vrgr
+aliases:
+  - 'Stage Two: Outbreak; Stage Two Encounters'
 ---
 # Stage Two: Outbreak; Stage Two Encounters
 *Source: Van Richten's Guide to Ravenloft p. 154* 

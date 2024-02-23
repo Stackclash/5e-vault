@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/ranger/gloom-stalker
-- spell/class/sorcerer
-- spell/class/warlock/the-archfey
-- spell/class/warlock/the-genie
-- spell/class/wizard
-- spell/level/5
-- spell/school/illusion
-aliases: ["Seeming"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/ranger/gloom-stalker
+  - spell/class/sorcerer
+  - spell/class/warlock/the-archfey
+  - spell/class/warlock/the-genie
+  - spell/class/wizard
+  - spell/level/5
+  - spell/school/illusion
+aliases:
+  - Seeming
 ---
 # Seeming
 %%-- Embedded content starts on the next line. --%%

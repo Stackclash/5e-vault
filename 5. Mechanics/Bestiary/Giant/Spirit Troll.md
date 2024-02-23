@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/11
-- monster/environment/coastal
-- monster/environment/forest
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/size/large
-- monster/type/giant
+  - compendium/src/5e/mpmm
+  - monster/cr/11
+  - monster/environment/coastal
+  - monster/environment/forest
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/giant
 statblock: inline
-aliases: ["Spirit Troll"]
+aliases:
+  - Spirit Troll
 ---
 # [[5. Mechanics\Bestiary\Giant\Spirit Troll.md|Spirit Troll]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 247, Mordenkainen's Tome of Foes p. 244*  

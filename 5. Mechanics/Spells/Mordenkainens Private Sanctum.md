@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer
-- spell/class/fighter/eldritch-knight
-- spell/class/rogue/arcane-trickster
-- spell/class/wizard
-- spell/level/4
-- spell/school/abjuration
-aliases: ["Mordenkainen's Private Sanctum"]
+  - compendium/src/5e/phb
+  - spell/class/artificer
+  - spell/class/fighter/eldritch-knight
+  - spell/class/rogue/arcane-trickster
+  - spell/class/wizard
+  - spell/level/4
+  - spell/school/abjuration
+aliases:
+  - Mordenkainen's Private Sanctum
 ---
 # Mordenkainen's Private Sanctum
 %%-- Embedded content starts on the next line. --%%

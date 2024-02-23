@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/12
-- monster/environment/arctic
-- monster/environment/desert
-- monster/environment/urban
-- monster/size/large
-- monster/type/undead
+  - compendium/src/5e/mpmm
+  - monster/cr/12
+  - monster/environment/arctic
+  - monster/environment/desert
+  - monster/environment/urban
+  - monster/size/large
+  - monster/type/undead
 statblock: inline
-aliases: ["Boneclaw"]
+aliases:
+  - Boneclaw
 ---
 # [[5. Mechanics\Bestiary\Undead\Boneclaw.md|Boneclaw]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 66, Mordenkainen's Tome of Foes p. 121*  

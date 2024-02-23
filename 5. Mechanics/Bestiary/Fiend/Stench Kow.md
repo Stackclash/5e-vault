@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/1-2
-- monster/environment/grassland
-- monster/environment/urban
-- monster/size/large
-- monster/type/fiend/cattle
+  - compendium/src/5e/mpmm
+  - monster/cr/1-2
+  - monster/environment/grassland
+  - monster/environment/urban
+  - monster/size/large
+  - monster/type/fiend/cattle
 statblock: inline
-aliases: ["Stench Kow"]
+aliases:
+  - Stench Kow
 ---
 # [[5. Mechanics\Bestiary\Fiend\Stench Kow.md|Stench Kow]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 72*  

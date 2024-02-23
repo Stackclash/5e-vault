@@ -2,19 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer
-- spell/class/bard
-- spell/class/cleric
-- spell/class/druid
-- spell/class/fighter/eldritch-knight
-- spell/class/paladin/oath-of-glory
-- spell/class/rogue/arcane-trickster
-- spell/class/sorcerer
-- spell/class/sorcerer/divine-soul
-- spell/level/2
-- spell/school/transmutation
-aliases: ["Enhance Ability"]
+  - compendium/src/5e/phb
+  - spell/class/artificer
+  - spell/class/bard
+  - spell/class/cleric
+  - spell/class/druid
+  - spell/class/fighter/eldritch-knight
+  - spell/class/paladin/oath-of-glory
+  - spell/class/rogue/arcane-trickster
+  - spell/class/sorcerer
+  - spell/class/sorcerer/divine-soul
+  - spell/level/2
+  - spell/school/transmutation
+aliases:
+  - Enhance Ability
 ---
 # Enhance Ability
 %%-- Embedded content starts on the next line. --%%

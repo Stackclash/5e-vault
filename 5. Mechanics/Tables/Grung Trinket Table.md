@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvii
-aliases: ["Grung Trinket Table"]
+  - compendium/src/5e/hhhvii
+aliases:
+  - Grung Trinket Table
 ---
 # Grung Trinket Table
 *Source: Hamund's Harvesting Handbook: Volume II p. 24* 

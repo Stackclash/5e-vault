@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/mtf
-aliases: ["Fiendish Cults; Cult Goals"]
+  - compendium/src/5e/mtf
+aliases:
+  - Fiendish Cults; Cult Goals
 ---
 # Fiendish Cults; Cult Goals
 *Source: Mordenkainen's Tome of Foes p. 34* 

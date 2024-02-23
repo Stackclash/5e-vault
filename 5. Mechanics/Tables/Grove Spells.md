@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/saf
-aliases: ["Grove Spells"]
+  - compendium/src/5e/saf
+aliases:
+  - Grove Spells
 ---
 # Grove Spells
 *Source: Strongholds and Followers p. 32* 

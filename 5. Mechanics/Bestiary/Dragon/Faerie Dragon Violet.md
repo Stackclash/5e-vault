@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/2
-- monster/environment/forest
-- monster/size/tiny
-- monster/type/dragon
+  - compendium/src/5e/mm
+  - monster/cr/2
+  - monster/environment/forest
+  - monster/size/tiny
+  - monster/type/dragon
 statblock: inline
-aliases: ["Faerie Dragon (Violet)"]
+aliases:
+  - Faerie Dragon (Violet)
 ---
 # [[5. Mechanics\Bestiary\Dragon\Faerie Dragon Violet.md|Faerie Dragon (Violet)]]
 *Source: Monster Manual p. 133*  

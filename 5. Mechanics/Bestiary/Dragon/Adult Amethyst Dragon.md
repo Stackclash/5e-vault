@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/saf
-- monster/cr/16
-- monster/size/huge
-- monster/type/dragon
+  - compendium/src/5e/saf
+  - monster/cr/16
+  - monster/size/huge
+  - monster/type/dragon
 statblock: inline
-aliases: ["Adult Amethyst Dragon"]
+aliases:
+  - Adult Amethyst Dragon
 ---
 # [[5. Mechanics\Bestiary\Dragon\Adult Amethyst Dragon.md|Adult Amethyst Dragon]]
 *Source: Strongholds and Followers p. 220*  

@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/erlw
-- monster/cr/25
-- monster/size/gargantuan
-- monster/type/construct
+  - compendium/src/5e/erlw
+  - monster/cr/25
+  - monster/size/gargantuan
+  - monster/type/construct
 statblock: inline
-aliases: ["Warforged Colossus"]
+aliases:
+  - Warforged Colossus
 ---
 # [[5. Mechanics\Bestiary\Construct\Warforged Colossus.md|Warforged Colossus]]
 *Source: Eberron: Rising from the Last War p. 314*  

@@ -2,21 +2,22 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/cleric
-- spell/class/cleric/death-domain
-- spell/class/druid/circle-of-spores
-- spell/class/fighter/eldritch-knight
-- spell/class/rogue/arcane-trickster
-- spell/class/sorcerer
-- spell/class/sorcerer/divine-soul
-- spell/class/warlock/the-fiend
-- spell/class/warlock/the-undead
-- spell/class/wizard
-- spell/level/2
-- spell/school/necromancy
-aliases: ["Blindness/Deafness"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/cleric
+  - spell/class/cleric/death-domain
+  - spell/class/druid/circle-of-spores
+  - spell/class/fighter/eldritch-knight
+  - spell/class/rogue/arcane-trickster
+  - spell/class/sorcerer
+  - spell/class/sorcerer/divine-soul
+  - spell/class/warlock/the-fiend
+  - spell/class/warlock/the-undead
+  - spell/class/wizard
+  - spell/level/2
+  - spell/school/necromancy
+aliases:
+  - Blindness/Deafness
 ---
 # Blindness/Deafness
 %%-- Embedded content starts on the next line. --%%

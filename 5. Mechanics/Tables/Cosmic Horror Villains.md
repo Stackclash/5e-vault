@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vrgr
-aliases: ["Cosmic Horror Villains"]
+  - compendium/src/5e/vrgr
+aliases:
+  - Cosmic Horror Villains
 ---
 # Cosmic Horror Villains
 *Source: Van Richten's Guide to Ravenloft p. 48* 

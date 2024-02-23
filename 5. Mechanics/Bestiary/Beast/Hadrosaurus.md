@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/1-4
-- monster/environment/grassland
-- monster/environment/swamp
-- monster/size/large
-- monster/type/beast/dinosaur
+  - compendium/src/5e/mpmm
+  - monster/cr/1-4
+  - monster/environment/grassland
+  - monster/environment/swamp
+  - monster/size/large
+  - monster/type/beast/dinosaur
 statblock: inline
-aliases: ["Hadrosaurus"]
+aliases:
+  - Hadrosaurus
 ---
 # [[5. Mechanics\Bestiary\Beast\Hadrosaurus.md|Hadrosaurus]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 96*  

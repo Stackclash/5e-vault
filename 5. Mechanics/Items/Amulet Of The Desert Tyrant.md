@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/attunement/required
-- item/property/crfby
-- item/rarity/legendary
-- item/wondrous
-aliases: 
-- "Amulet of the Desert Tyrant"
+  - compendium/src/5e/hhhvi
+  - item/attunement/required
+  - item/property/crfby
+  - item/rarity/legendary
+  - item/wondrous
+aliases:
+  - Amulet of the Desert Tyrant
 ---
 # Amulet of the Desert Tyrant
 *Wondrous Item, legendary, Crafted by (requires attunement)*  

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Eberron Crafting Complications"]
+  - compendium/src/5e/erlw
+aliases:
+  - Eberron Crafting Complications
 ---
 # Eberron Crafting Complications
 *Source: Eberron: Rising from the Last War p. 281* 

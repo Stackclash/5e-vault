@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/mtf
-- race/gith
-aliases: ["Gith"]
+  - compendium/src/5e/mtf
+  - race/gith
+aliases:
+  - Gith
 ---
 # Gith
 *Source: Mordenkainen's Tome of Foes p. 96*  

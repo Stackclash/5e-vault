@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhviii
-aliases: ["Duergar Soulblade"]
+  - compendium/src/5e/hhhviii
+aliases:
+  - Duergar Soulblade
 ---
 # Duergar Soulblade
 *Source: Hamund's Harvesting Handbook: Volume III p. 41* 

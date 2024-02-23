@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/property/crfby
-- item/rarity/rare
-- item/wondrous
-aliases: 
-- "Confidant's Ink"
+  - compendium/src/5e/hhhviii
+  - item/property/crfby
+  - item/rarity/rare
+  - item/wondrous
+aliases:
+  - Confidant's Ink
 ---
 # Confidant's Ink
 *Wondrous Item, rare, Crafted by*  

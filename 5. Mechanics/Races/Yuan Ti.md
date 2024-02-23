@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/mpmm
-- race/yuan-ti
-aliases: ["Yuan-Ti"]
+  - compendium/src/5e/mpmm
+  - race/yuan-ti
+aliases:
+  - Yuan-Ti
 ---
 # Yuan-Ti
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 36*  

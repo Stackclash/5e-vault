@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/property/crfby
-- item/rarity/legendary
-- item/wondrous
-aliases: 
-- "Mechanus Gauntlets"
+  - compendium/src/5e/hhhviii
+  - item/property/crfby
+  - item/rarity/legendary
+  - item/wondrous
+aliases:
+  - Mechanus Gauntlets
 ---
 # Mechanus Gauntlets
 *Wondrous Item, legendary, Crafted by*  

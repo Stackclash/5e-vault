@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-4
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/humanoid/grimlock
+  - compendium/src/5e/mm
+  - monster/cr/1-4
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/humanoid/grimlock
 statblock: inline
-aliases: ["Grimlock"]
+aliases:
+  - Grimlock
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Grimlock.md|Grimlock]]
 *Source: Monster Manual p. 175. Available in the SRD.*  

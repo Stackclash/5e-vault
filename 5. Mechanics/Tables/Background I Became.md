@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/xge
-aliases: ["Background; I became..."]
+  - compendium/src/5e/xge
+aliases:
+  - Background; I became...
 ---
 # Background; I became...
 *Source: Xanathar's Guide to Everything p. 64* 

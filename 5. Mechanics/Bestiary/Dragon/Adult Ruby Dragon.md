@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/saf
-- monster/cr/16
-- monster/size/huge
-- monster/type/dragon
+  - compendium/src/5e/saf
+  - monster/cr/16
+  - monster/size/huge
+  - monster/type/dragon
 statblock: inline
-aliases: ["Adult Ruby Dragon"]
+aliases:
+  - Adult Ruby Dragon
 ---
 # [[5. Mechanics\Bestiary\Dragon\Adult Ruby Dragon.md|Adult Ruby Dragon]]
 *Source: Strongholds and Followers p. 204*  

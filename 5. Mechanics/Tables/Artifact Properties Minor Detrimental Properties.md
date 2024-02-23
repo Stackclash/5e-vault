@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Artifact Properties; Minor Detrimental Properties"]
+  - compendium/src/5e/dmg
+aliases:
+  - Artifact Properties; Minor Detrimental Properties
 ---
 # Artifact Properties; Minor Detrimental Properties
 *Source: Dungeon Master's Guide p. 219* 

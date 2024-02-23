@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/6
-- monster/environment/hill
-- monster/environment/mountain
-- monster/size/large
-- monster/type/fey
+  - compendium/src/5e/mpmm
+  - monster/cr/6
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/size/large
+  - monster/type/fey
 statblock: inline
-aliases: ["Annis Hag"]
+aliases:
+  - Annis Hag
 ---
 # [[5. Mechanics\Bestiary\Fey\Annis Hag.md|Annis Hag]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 47*  

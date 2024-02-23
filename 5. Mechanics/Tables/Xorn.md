@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Xorn"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Xorn
 ---
 # Xorn
 *Source: Hamund's Harvesting Handbook: Volume I p. 107* 

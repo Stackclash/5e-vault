@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/mtf
-aliases: ["Githyanki Raiding Parties; Githyanki Special Allies"]
+  - compendium/src/5e/mtf
+aliases:
+  - Githyanki Raiding Parties; Githyanki Special Allies
 ---
 # Githyanki Raiding Parties; Githyanki Special Allies
 *Source: Mordenkainen's Tome of Foes p. 98* 

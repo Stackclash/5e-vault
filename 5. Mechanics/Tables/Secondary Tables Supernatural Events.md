@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/xge
-aliases: ["Secondary Tables; Supernatural Events"]
+  - compendium/src/5e/xge
+aliases:
+  - Secondary Tables; Supernatural Events
 ---
 # Secondary Tables; Supernatural Events
 *Source: Xanathar's Guide to Everything p. 70* 

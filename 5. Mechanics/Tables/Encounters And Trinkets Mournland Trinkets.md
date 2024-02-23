@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Encounters and Trinkets; Mournland Trinkets"]
+  - compendium/src/5e/erlw
+aliases:
+  - Encounters and Trinkets; Mournland Trinkets
 ---
 # Encounters and Trinkets; Mournland Trinkets
 *Source: Eberron: Rising from the Last War p. 222* 

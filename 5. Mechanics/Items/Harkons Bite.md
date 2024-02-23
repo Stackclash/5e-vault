@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/vrgr
-- item/attunement/required
-- item/rarity/uncommon
-- item/wondrous
-aliases: 
-- "Harkon's Bite"
+  - compendium/src/5e/vrgr
+  - item/attunement/required
+  - item/rarity/uncommon
+  - item/wondrous
+aliases:
+  - Harkon's Bite
 ---
 # Harkon's Bite
 *Wondrous Item, uncommon (requires attunement)*  

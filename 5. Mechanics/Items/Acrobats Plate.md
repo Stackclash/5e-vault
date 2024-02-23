@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/armor/heavy
-- item/property/crfby
-- item/rarity/rare
-aliases: 
-- "Acrobat's Plate"
+  - compendium/src/5e/hhhviii
+  - item/armor/heavy
+  - item/property/crfby
+  - item/rarity/rare
+aliases:
+  - Acrobat's Plate
 ---
 # Acrobat's Plate
 *Heavy Armor, rare, Crafted by*  

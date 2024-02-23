@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Setting the Stage; Story Opening"]
+  - compendium/src/5e/erlw
+aliases:
+  - Setting the Stage; Story Opening
 ---
 # Setting the Stage; Story Opening
 *Source: Eberron: Rising from the Last War p. 186* 

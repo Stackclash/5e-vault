@@ -2,24 +2,25 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/cleric
-- spell/class/cleric/order-domain
-- spell/class/druid
-- spell/class/druid/circle-of-the-land
-- spell/class/fighter/eldritch-knight
-- spell/class/paladin/oath-of-conquest
-- spell/class/paladin/oath-of-redemption
-- spell/class/paladin/oath-of-vengeance
-- spell/class/rogue/arcane-trickster
-- spell/class/sorcerer
-- spell/class/sorcerer/divine-soul
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/2
-- spell/school/enchantment
-aliases: ["Hold Person"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/cleric
+  - spell/class/cleric/order-domain
+  - spell/class/druid
+  - spell/class/druid/circle-of-the-land
+  - spell/class/fighter/eldritch-knight
+  - spell/class/paladin/oath-of-conquest
+  - spell/class/paladin/oath-of-redemption
+  - spell/class/paladin/oath-of-vengeance
+  - spell/class/rogue/arcane-trickster
+  - spell/class/sorcerer
+  - spell/class/sorcerer/divine-soul
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/2
+  - spell/school/enchantment
+aliases:
+  - Hold Person
 ---
 # Hold Person
 %%-- Embedded content starts on the next line. --%%

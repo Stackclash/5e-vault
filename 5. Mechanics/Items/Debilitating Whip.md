@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/property/crfby
-- item/property/finesse
-- item/property/martial
-- item/property/reach
-- item/rarity/rare
-- item/weapon/martial/melee
-aliases: 
-- "Debilitating Whip"
+  - compendium/src/5e/hhhvi
+  - item/property/crfby
+  - item/property/finesse
+  - item/property/martial
+  - item/property/reach
+  - item/rarity/rare
+  - item/weapon/martial/melee
+aliases:
+  - Debilitating Whip
 ---
 # Debilitating Whip
 *Melee Weapon, rare, Crafted by*  

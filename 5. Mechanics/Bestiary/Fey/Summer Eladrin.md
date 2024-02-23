@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/10
-- monster/environment/desert
-- monster/environment/forest
-- monster/size/medium
-- monster/type/fey/elf
+  - compendium/src/5e/mpmm
+  - monster/cr/10
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/size/medium
+  - monster/type/fey/elf
 statblock: inline
-aliases: ["Summer Eladrin"]
+aliases:
+  - Summer Eladrin
 ---
 # [[5. Mechanics\Bestiary\Fey\Summer Eladrin.md|Summer Eladrin]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 116, Mordenkainen's Tome of Foes p. 196*  

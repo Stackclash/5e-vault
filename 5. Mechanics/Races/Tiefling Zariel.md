@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/mtf
-- race/tiefling/zariel
-aliases: ["Tiefling (Zariel)"]
+  - compendium/src/5e/mtf
+  - race/tiefling/zariel
+aliases:
+  - Tiefling (Zariel)
 ---
 # Tiefling (Zariel)
 *Source: Mordenkainen's Tome of Foes p. 23*  

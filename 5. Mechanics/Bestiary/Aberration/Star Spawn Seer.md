@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/13
-- monster/environment/mountain
-- monster/environment/swamp
-- monster/environment/urban
-- monster/size/medium
-- monster/type/aberration
+  - compendium/src/5e/mpmm
+  - monster/cr/13
+  - monster/environment/mountain
+  - monster/environment/swamp
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/aberration
 statblock: inline
-aliases: ["Star Spawn Seer"]
+aliases:
+  - Star Spawn Seer
 ---
 # [[5. Mechanics\Bestiary\Aberration\Star Spawn Seer.md|Star Spawn Seer]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 230, Mordenkainen's Tome of Foes p. 236*  

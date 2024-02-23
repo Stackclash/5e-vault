@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/xge
-- spell/class/druid
-- spell/level/6
-- spell/school/transmutation
-aliases: ["Bones of the Earth"]
+  - compendium/src/5e/xge
+  - spell/class/druid
+  - spell/level/6
+  - spell/school/transmutation
+aliases:
+  - Bones of the Earth
 ---
 # Bones of the Earth
 %%-- Embedded content starts on the next line. --%%

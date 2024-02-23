@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/tce
-- item/attunement/required
-- item/rarity/rare
-- item/wondrous
-aliases: 
-- "Elemental Essence Shard (Water)"
+  - compendium/src/5e/tce
+  - item/attunement/required
+  - item/rarity/rare
+  - item/wondrous
+aliases:
+  - Elemental Essence Shard (Water)
 ---
 # Elemental Essence Shard (Water)
 *Wondrous Item, rare (requires attunement by a sorcerer)*  

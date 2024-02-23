@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/0
-- monster/environment/forest
-- monster/size/small
-- monster/type/plant
+  - compendium/src/5e/mm
+  - monster/cr/0
+  - monster/environment/forest
+  - monster/size/small
+  - monster/type/plant
 statblock: inline
-aliases: ["Awakened Shrub"]
+aliases:
+  - Awakened Shrub
 ---
 # [[5. Mechanics\Bestiary\Plant\Awakened Shrub.md|Awakened Shrub]]
 *Source: Monster Manual p. 317. Available in the SRD and the Basic Rules.*  

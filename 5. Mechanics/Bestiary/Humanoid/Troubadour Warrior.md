@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/saf
-- monster/cr/unknown
-- monster/size/medium
-- monster/type/humanoid/any-race
+  - compendium/src/5e/saf
+  - monster/cr/unknown
+  - monster/size/medium
+  - monster/type/humanoid/any-race
 statblock: inline
-aliases: ["Troubadour-warrior"]
+aliases:
+  - Troubadour-warrior
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Troubadour Warrior.md|Troubadour-warrior]]
 *Source: Strongholds and Followers p. 73*  

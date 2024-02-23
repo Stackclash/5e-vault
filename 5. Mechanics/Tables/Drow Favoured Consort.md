@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhviii
-aliases: ["Drow Favoured Consort"]
+  - compendium/src/5e/hhhviii
+aliases:
+  - Drow Favoured Consort
 ---
 # Drow Favoured Consort
 *Source: Hamund's Harvesting Handbook: Volume III p. 37* 

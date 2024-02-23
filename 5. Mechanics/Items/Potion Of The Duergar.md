@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/property/crfby
-- item/rarity/uncommon
-- item/wondrous/potion
-aliases: 
-- "Potion of the Duergar"
+  - compendium/src/5e/hhhviii
+  - item/property/crfby
+  - item/rarity/uncommon
+  - item/wondrous/potion
+aliases:
+  - Potion of the Duergar
 ---
 # Potion of the Duergar
 *Potion, uncommon, Crafted by*  

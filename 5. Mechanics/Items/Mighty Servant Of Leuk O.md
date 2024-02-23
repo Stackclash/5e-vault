@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/tce
-- item/attunement/required
-- item/rarity/artifact
-- item/wondrous
-aliases: 
-- "Mighty Servant of Leuk-o"
+  - compendium/src/5e/tce
+  - item/attunement/required
+  - item/rarity/artifact
+  - item/wondrous
+aliases:
+  - Mighty Servant of Leuk-o
 ---
 # Mighty Servant of Leuk-o
 *Wondrous Item, artifact (requires attunement)*  

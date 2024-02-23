@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Random Tricks; Tricks"]
+  - compendium/src/5e/dmg
+aliases:
+  - Random Tricks; Tricks
 ---
 # Random Tricks; Tricks
 *Source: Dungeon Master's Guide p. 297* 

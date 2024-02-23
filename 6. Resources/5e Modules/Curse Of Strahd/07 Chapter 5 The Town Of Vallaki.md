@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/cos
-aliases:
-  - 'Chapter 5: The Town of Vallaki'
+- compendium/src/5e/cos
+aliases: ["Chapter 5: The Town of Vallaki"]
 ---
 # Chapter 5: The Town of Vallaki
 *Source: Curse of Strahd, p. 95* 

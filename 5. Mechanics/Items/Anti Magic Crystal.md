@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/property/crfby
-- item/rarity/very-rare
-- item/wondrous
-aliases: 
-- "Anti-Magic Crystal"
+  - compendium/src/5e/hhhvi
+  - item/property/crfby
+  - item/rarity/very-rare
+  - item/wondrous
+aliases:
+  - Anti-Magic Crystal
 ---
 # Anti-Magic Crystal
 *Wondrous Item, very rare, Crafted by*  

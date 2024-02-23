@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvii
-- item/property/crfby
-- item/rarity/rare
-- item/wondrous/potion
-aliases: 
-- "Potion of Corrupted Strength"
+  - compendium/src/5e/hhhvii
+  - item/property/crfby
+  - item/rarity/rare
+  - item/wondrous/potion
+aliases:
+  - Potion of Corrupted Strength
 ---
 # Potion of Corrupted Strength
 *Potion, rare, Crafted by*  

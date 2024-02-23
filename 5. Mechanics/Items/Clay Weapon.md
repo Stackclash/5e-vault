@@ -2,20 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/attunement/required
-- item/rarity/rare
-- item/wondrous/wondrous-item
-aliases: 
-- "Clay Weapon"
-- "Clay Light Hammer"
-- "Clay Flail"
-- "Clay Greatclub"
-- "Clay Warhammer"
-- "Clay Quarterstaff"
-- "Clay Club"
-- "Clay Maul"
-- "Clay Mace"
+  - compendium/src/5e/hhhvi
+  - item/attunement/required
+  - item/rarity/rare
+  - item/wondrous/wondrous-item
+aliases:
+  - Clay Weapon
+  - Clay Light Hammer
+  - Clay Flail
+  - Clay Greatclub
+  - Clay Warhammer
+  - Clay Quarterstaff
+  - Clay Club
+  - Clay Maul
+  - Clay Mace
 ---
 # Clay Weapon
 *Generic Variant, rare (requires attunement)*  

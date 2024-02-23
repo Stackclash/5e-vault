@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-2
-- monster/environment/forest
-- monster/size/medium
-- monster/type/fey
+  - compendium/src/5e/mm
+  - monster/cr/1-2
+  - monster/environment/forest
+  - monster/size/medium
+  - monster/type/fey
 statblock: inline
-aliases: ["Satyr"]
+aliases:
+  - Satyr
 ---
 # [[5. Mechanics\Bestiary\Fey\Satyr.md|Satyr]]
 *Source: Monster Manual p. 267. Available in the SRD and the Basic Rules.*  

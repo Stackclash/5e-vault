@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Triceratops"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Triceratops
 ---
 # Triceratops
 *Source: Hamund's Harvesting Handbook: Volume I p. 32* 

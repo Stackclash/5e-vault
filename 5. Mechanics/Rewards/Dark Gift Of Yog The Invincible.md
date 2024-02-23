@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/cos
-- reward/charm
-aliases: ["Dark Gift of Yog the Invincible"]
+  - compendium/src/5e/cos
+  - reward/charm
+aliases:
+  - Dark Gift of Yog the Invincible
 ---
 # Dark Gift of Yog the Invincible
 *Charm*  

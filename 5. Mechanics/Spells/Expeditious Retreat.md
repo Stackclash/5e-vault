@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer
-- spell/class/fighter/eldritch-knight
-- spell/class/rogue/arcane-trickster
-- spell/class/sorcerer
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/1
-- spell/school/transmutation
-aliases: ["Expeditious Retreat"]
+  - compendium/src/5e/phb
+  - spell/class/artificer
+  - spell/class/fighter/eldritch-knight
+  - spell/class/rogue/arcane-trickster
+  - spell/class/sorcerer
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/1
+  - spell/school/transmutation
+aliases:
+  - Expeditious Retreat
 ---
 # Expeditious Retreat
 %%-- Embedded content starts on the next line. --%%

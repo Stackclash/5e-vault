@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/13
-- monster/size/medium
-- monster/type/fiend/devil
+  - compendium/src/5e/mpmm
+  - monster/cr/13
+  - monster/size/medium
+  - monster/type/fiend/devil
 statblock: inline
-aliases: ["Narzugon"]
+aliases:
+  - Narzugon
 ---
 # [[5. Mechanics\Bestiary\Fiend\Narzugon.md|Narzugon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 190, Mordenkainen's Tome of Foes p. 167*  

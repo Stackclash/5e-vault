@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/erlw
-- monster/cr/1-8
-- monster/size/tiny
-- monster/type/construct
+  - compendium/src/5e/erlw
+  - monster/cr/1-8
+  - monster/size/tiny
+  - monster/type/construct
 statblock: inline
-aliases: ["Expeditious Messenger"]
+aliases:
+  - Expeditious Messenger
 ---
 # [[5. Mechanics\Bestiary\Construct\Expeditious Messenger.md|Expeditious Messenger]]
 *Source: Eberron: Rising from the Last War p. 293*  

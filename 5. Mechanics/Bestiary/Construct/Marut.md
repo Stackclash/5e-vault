@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/25
-- monster/size/large
-- monster/type/construct/inevitable
+  - compendium/src/5e/mpmm
+  - monster/cr/25
+  - monster/size/large
+  - monster/type/construct/inevitable
 statblock: inline
-aliases: ["Marut"]
+aliases:
+  - Marut
 ---
 # [[5. Mechanics\Bestiary\Construct\Marut.md|Marut]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 173, Mordenkainen's Tome of Foes p. 213*  

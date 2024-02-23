@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/sorcerer/divine-soul
-- spell/level/9
-- spell/school/evocation
-aliases: ["Power Word Heal"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/sorcerer/divine-soul
+  - spell/level/9
+  - spell/school/evocation
+aliases:
+  - Power Word Heal
 ---
 # Power Word Heal
 %%-- Embedded content starts on the next line. --%%

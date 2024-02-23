@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/saf
-- optional-feature/psi-man
-aliases: ["Mindscape"]
+  - compendium/src/5e/saf
+  - optional-feature/psi-man
+aliases:
+  - Mindscape
 ---
 # Mindscape
 *Source: Strongholds and Followers p. 195*  

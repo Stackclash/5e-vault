@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/1
-- monster/environment/forest
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/size/small
-- monster/type/aberration
+  - compendium/src/5e/mpmm
+  - monster/cr/1
+  - monster/environment/forest
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/size/small
+  - monster/type/aberration
 statblock: inline
-aliases: ["Choker"]
+aliases:
+  - Choker
 ---
 # [[5. Mechanics\Bestiary\Aberration\Choker.md|Choker]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 76, Mordenkainen's Tome of Foes p. 123*  

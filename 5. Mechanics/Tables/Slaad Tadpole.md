@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Slaad Tadpole"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Slaad Tadpole
 ---
 # Slaad Tadpole
 *Source: Hamund's Harvesting Handbook: Volume I p. 94* 

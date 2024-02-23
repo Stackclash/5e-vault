@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/tce
-- item/attunement/required
-- item/rarity/very-rare
-- item/wondrous
-aliases: 
-- "Lifewell Tattoo"
+  - compendium/src/5e/tce
+  - item/attunement/required
+  - item/rarity/very-rare
+  - item/wondrous
+aliases:
+  - Lifewell Tattoo
 ---
 # Lifewell Tattoo
 *Wondrous Item, very rare (requires attunement)*  

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvii
-aliases: ["Death Kiss"]
+  - compendium/src/5e/hhhvii
+aliases:
+  - Death Kiss
 ---
 # Death Kiss
 *Source: Hamund's Harvesting Handbook: Volume II p. 9* 

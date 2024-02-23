@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Young Dragon"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Young Dragon
 ---
 # Young Dragon
 *Source: Hamund's Harvesting Handbook: Volume I p. 37* 

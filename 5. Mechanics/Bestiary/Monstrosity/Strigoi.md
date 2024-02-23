@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/vrgr
-- monster/cr/4
-- monster/size/medium
-- monster/type/monstrosity
+  - compendium/src/5e/vrgr
+  - monster/cr/4
+  - monster/size/medium
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Strigoi"]
+aliases:
+  - Strigoi
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Strigoi.md|Strigoi]]
 *Source: Van Richten's Guide to Ravenloft p. 246*  

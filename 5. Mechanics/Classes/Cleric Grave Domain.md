@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/xge
-- domain/grave
-- subclass/cleric/grave
-aliases: ["Grave Domain"]
+  - compendium/src/5e/xge
+  - domain/grave
+  - subclass/cleric/grave
+aliases:
+  - Grave Domain
 ---
 # Grave Domain
 *[[Cleric.md\|Cleric]]: Divine Domain*  

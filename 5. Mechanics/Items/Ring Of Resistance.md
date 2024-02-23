@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/attunement/required
-- item/rarity/rare
-- item/tier/major
-- item/wondrous/ring
-aliases: 
-- "Ring of Resistance"
+  - compendium/src/5e/dmg
+  - item/attunement/required
+  - item/rarity/rare
+  - item/tier/major
+  - item/wondrous/ring
+aliases:
+  - Ring of Resistance
 ---
 # Ring of Resistance
 *Ring, major, rare (requires attunement)*  

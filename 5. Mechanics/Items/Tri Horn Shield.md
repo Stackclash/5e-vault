@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/armor/shield
-- item/property/crfby
-- item/rarity/uncommon
-aliases: 
-- "Tri-Horn Shield"
+  - compendium/src/5e/hhhvi
+  - item/armor/shield
+  - item/property/crfby
+  - item/rarity/uncommon
+aliases:
+  - Tri-Horn Shield
 ---
 # Tri-Horn Shield
 *Shield, uncommon, Crafted by*  

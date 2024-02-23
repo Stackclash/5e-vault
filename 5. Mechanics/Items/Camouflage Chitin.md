@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/armor/medium
-- item/property/crfby
-- item/rarity/rare
-aliases: 
-- "Camouflage Chitin"
+  - compendium/src/5e/hhhvi
+  - item/armor/medium
+  - item/property/crfby
+  - item/rarity/rare
+aliases:
+  - Camouflage Chitin
 ---
 # Camouflage Chitin
 *Medium Armor, rare, Crafted by*  

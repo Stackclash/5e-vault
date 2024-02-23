@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/attunement/required
-- item/rarity/rare
-- item/tier/major
-- item/wondrous/wondrous-item
-aliases: 
-- "Armor of Resistance"
+  - compendium/src/5e/dmg
+  - item/attunement/required
+  - item/rarity/rare
+  - item/tier/major
+  - item/wondrous/wondrous-item
+aliases:
+  - Armor of Resistance
 ---
 # Armor of Resistance
 *Generic Variant, major, rare (requires attunement)*  

@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/barbarian/path-of-the-totem-warrior
-- spell/class/bard
-- spell/class/cleric/nature-domain
-- spell/class/druid
-- spell/class/paladin/oath-of-the-ancients
-- spell/class/ranger
-- spell/level/1
-- spell/ritual
-- spell/school/divination
-aliases: ["Speak with Animals"]
+  - compendium/src/5e/phb
+  - spell/class/barbarian/path-of-the-totem-warrior
+  - spell/class/bard
+  - spell/class/cleric/nature-domain
+  - spell/class/druid
+  - spell/class/paladin/oath-of-the-ancients
+  - spell/class/ranger
+  - spell/level/1
+  - spell/ritual
+  - spell/school/divination
+aliases:
+  - Speak with Animals
 ---
 # Speak with Animals
 %%-- Embedded content starts on the next line. --%%

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Dragonmark Appearance; Dragonmark Quirks"]
+  - compendium/src/5e/erlw
+aliases:
+  - Dragonmark Appearance; Dragonmark Quirks
 ---
 # Dragonmark Appearance; Dragonmark Quirks
 *Source: Eberron: Rising from the Last War p. 38* 

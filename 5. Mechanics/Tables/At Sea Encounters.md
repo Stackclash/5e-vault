@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["At Sea Encounters"]
+  - compendium/src/5e/dmg
+aliases:
+  - At Sea Encounters
 ---
 # At Sea Encounters
 *Source: Dungeon Master's Guide p. 118* 

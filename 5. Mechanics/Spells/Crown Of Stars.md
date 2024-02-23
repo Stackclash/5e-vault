@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/xge
-- spell/class/sorcerer
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/7
-- spell/school/evocation
-aliases: ["Crown of Stars"]
+  - compendium/src/5e/xge
+  - spell/class/sorcerer
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/7
+  - spell/school/evocation
+aliases:
+  - Crown of Stars
 ---
 # Crown of Stars
 %%-- Embedded content starts on the next line. --%%

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/mpmm
-- race/fairy
-aliases: ["Fairy"]
+  - compendium/src/5e/mpmm
+  - race/fairy
+aliases:
+  - Fairy
 ---
 # Fairy
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 14*  

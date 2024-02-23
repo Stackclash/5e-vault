@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/8
-- spell/school/conjuration
-aliases: ["Incendiary Cloud"]
+  - compendium/src/5e/phb
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/8
+  - spell/school/conjuration
+aliases:
+  - Incendiary Cloud
 ---
 # Incendiary Cloud
 %%-- Embedded content starts on the next line. --%%

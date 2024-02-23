@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/xge
-- subclass/sorcerer/storm
-aliases: ["Storm Sorcery"]
+  - compendium/src/5e/xge
+  - subclass/sorcerer/storm
+aliases:
+  - Storm Sorcery
 ---
 # Storm Sorcery
 *[[Sorcerer.md\|Sorcerer]]: Sorcerous Origin*  

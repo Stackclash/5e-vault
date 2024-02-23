@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- compendium/src/5e/mtf
-- deity/gnome
-- domain/trickery
-aliases: ["Garl Glittergold"]
+  - compendium/src/5e/mtf
+  - deity/gnome
+  - domain/trickery
+aliases:
+  - Garl Glittergold
 ---
 # Garl Glittergold
 *Source: Mordenkainen's Tome of Foes p. 111* 

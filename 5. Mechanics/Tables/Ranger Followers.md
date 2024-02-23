@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/saf
-aliases: ["Ranger Followers"]
+  - compendium/src/5e/saf
+aliases:
+  - Ranger Followers
 ---
 # Ranger Followers
 *Source: Strongholds and Followers* 

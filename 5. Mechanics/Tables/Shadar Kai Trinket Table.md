@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhviii
-aliases: ["Shadar-Kai Trinket Table"]
+  - compendium/src/5e/hhhviii
+aliases:
+  - Shadar-Kai Trinket Table
 ---
 # Shadar-Kai Trinket Table
 *Source: Hamund's Harvesting Handbook: Volume III p. 60* 

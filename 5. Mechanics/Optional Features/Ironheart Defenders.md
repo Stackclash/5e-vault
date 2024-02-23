@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/saf
-- optional-feature/unit
-aliases: ["Ironheart Defenders"]
+  - compendium/src/5e/saf
+  - optional-feature/unit
+aliases:
+  - Ironheart Defenders
 ---
 # Ironheart Defenders
 *Source: Strongholds and Followers p. 266*  

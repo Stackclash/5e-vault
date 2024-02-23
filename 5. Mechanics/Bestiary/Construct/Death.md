@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/saf
-- monster/cr/6
-- monster/size/medium
-- monster/type/construct
+  - compendium/src/5e/saf
+  - monster/cr/6
+  - monster/size/medium
+  - monster/type/construct
 statblock: inline
-aliases: ["Death"]
+aliases:
+  - Death
 ---
 # [[5. Mechanics\Bestiary\Construct\Death.md|Death]]
 *Source: Strongholds and Followers p. 228*  

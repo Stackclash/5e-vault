@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/saf
-aliases: ["Unit Size"]
+  - compendium/src/5e/saf
+aliases:
+  - Unit Size
 ---
 # Unit Size
 *Source: Strongholds and Followers* 

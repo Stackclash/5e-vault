@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/3
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/monstrosity
+  - compendium/src/5e/mpmm
+  - monster/cr/3
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Cave Fisher"]
+aliases:
+  - Cave Fisher
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Cave Fisher.md|Cave Fisher]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 73*  

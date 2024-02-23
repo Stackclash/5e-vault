@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/xge
-- subclass/monk/kensei
-aliases: ["Way of the Kensei"]
+  - compendium/src/5e/xge
+  - subclass/monk/kensei
+aliases:
+  - Way of the Kensei
 ---
 # Way of the Kensei
 *[[Monk.md\|Monk]]: Monastic Tradition*  

@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer
-- spell/class/cleric
-- spell/class/cleric/death-domain
-- spell/class/cleric/grave-domain
-- spell/class/sorcerer/divine-soul
-- spell/level/cantrip
-- spell/school/necromancy
-aliases: ["Spare the Dying"]
+  - compendium/src/5e/phb
+  - spell/class/artificer
+  - spell/class/cleric
+  - spell/class/cleric/death-domain
+  - spell/class/cleric/grave-domain
+  - spell/class/sorcerer/divine-soul
+  - spell/level/cantrip
+  - spell/school/necromancy
+aliases:
+  - Spare the Dying
 ---
 # Spare the Dying
 %%-- Embedded content starts on the next line. --%%

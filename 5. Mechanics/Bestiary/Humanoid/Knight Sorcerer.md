@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/saf
-- monster/cr/unknown
-- monster/size/medium
-- monster/type/humanoid/any-race
+  - compendium/src/5e/saf
+  - monster/cr/unknown
+  - monster/size/medium
+  - monster/type/humanoid/any-race
 statblock: inline
-aliases: ["Knight-Sorcerer"]
+aliases:
+  - Knight-Sorcerer
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Knight Sorcerer.md|Knight-Sorcerer]]
 *Source: Strongholds and Followers p. 75*  

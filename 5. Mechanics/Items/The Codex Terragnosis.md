@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/saf
-- item/attunement/required
-- item/rarity/artifact
-- item/wondrous
-aliases: 
-- "The Codex Terragnosis"
+  - compendium/src/5e/saf
+  - item/attunement/required
+  - item/rarity/artifact
+  - item/wondrous
+aliases:
+  - The Codex Terragnosis
 ---
 # The Codex Terragnosis
 *Wondrous Item, artifact (requires attunement)*  

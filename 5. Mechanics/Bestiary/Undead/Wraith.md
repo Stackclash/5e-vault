@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/5
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/undead
+  - compendium/src/5e/mm
+  - monster/cr/5
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
-aliases: ["Wraith"]
+aliases:
+  - Wraith
 ---
 # [[5. Mechanics\Bestiary\Undead\Wraith.md|Wraith]]
 *Source: Monster Manual p. 302, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD.*  

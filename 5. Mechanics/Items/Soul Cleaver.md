@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/attunement/required
-- item/property/crfby
-- item/property/heavy
-- item/property/martial
-- item/property/two-handed
-- item/rarity/very-rare
-- item/weapon/martial/melee
-aliases: 
-- "Soul Cleaver"
+  - compendium/src/5e/hhhviii
+  - item/attunement/required
+  - item/property/crfby
+  - item/property/heavy
+  - item/property/martial
+  - item/property/two-handed
+  - item/rarity/very-rare
+  - item/weapon/martial/melee
+aliases:
+  - Soul Cleaver
 ---
 # Soul Cleaver
 *Melee Weapon, very rare, Crafted by (requires attunement)*  

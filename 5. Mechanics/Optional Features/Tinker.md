@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/hhhvi
-- optional-feature/ct
-aliases: ["Tinker"]
+  - compendium/src/5e/hhhvi
+  - optional-feature/ct
+aliases:
+  - Tinker
 ---
 # Tinker
 *Source: Hamund's Harvesting Handbook: Volume I p. 115, Hamund's Harvesting Handbook: Volume II p. 51, Hamund's Harvesting Handbook: Volume III p. 78*  

@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/xge
-- item/attunement/required
-- item/rarity/common
-- item/tier/minor
-- item/wondrous
-aliases: 
-- "Ruby of the War Mage"
+  - compendium/src/5e/xge
+  - item/attunement/required
+  - item/rarity/common
+  - item/tier/minor
+  - item/wondrous
+aliases:
+  - Ruby of the War Mage
 ---
 # Ruby of the War Mage
 *Wondrous Item, minor, common (requires attunement by a spellcaster)*  

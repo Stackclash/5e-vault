@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- compendium/src/5e/mtf
-- deity/gnome
-- domain/war
-aliases: ["Gelf Darkhearth"]
+  - compendium/src/5e/mtf
+  - deity/gnome
+  - domain/war
+aliases:
+  - Gelf Darkhearth
 ---
 # Gelf Darkhearth
 *Source: Mordenkainen's Tome of Foes p. 110* 

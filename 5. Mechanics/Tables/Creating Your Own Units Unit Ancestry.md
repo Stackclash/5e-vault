@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/saf
-aliases: ["Creating Your Own Units; Unit Ancestry"]
+  - compendium/src/5e/saf
+aliases:
+  - Creating Your Own Units; Unit Ancestry
 ---
 # Creating Your Own Units; Unit Ancestry
 *Source: Strongholds and Followers* 

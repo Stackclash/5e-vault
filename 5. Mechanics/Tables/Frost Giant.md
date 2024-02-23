@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Frost Giant"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Frost Giant
 ---
 # Frost Giant
 *Source: Hamund's Harvesting Handbook: Volume I p. 52* 

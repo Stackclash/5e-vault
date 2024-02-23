@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhbh
-aliases: ["Common Arctic Herbs"]
+  - compendium/src/5e/hhbh
+aliases:
+  - Common Arctic Herbs
 ---
 # Common Arctic Herbs
 *Source: Hamund's Herbalism Handbook p. 42* 

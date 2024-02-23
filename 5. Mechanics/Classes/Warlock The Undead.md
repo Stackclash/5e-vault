@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/vrgr
-- subclass/warlock/undead
-aliases: ["The Undead"]
+  - compendium/src/5e/vrgr
+  - subclass/warlock/undead
+aliases:
+  - The Undead
 ---
 # The Undead
 *[[Warlock.md\|Warlock]]: Otherworldly Patron*  

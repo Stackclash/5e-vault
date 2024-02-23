@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/attunement/required
-- item/property/martial
-- item/rarity/artifact
-- item/weapon/martial/melee
-aliases: 
-- "Butcher"
+  - compendium/src/5e/hhhviii
+  - item/attunement/required
+  - item/property/martial
+  - item/rarity/artifact
+  - item/weapon/martial/melee
+aliases:
+  - Butcher
 ---
 # Butcher
 *Melee Weapon, artifact (requires attunement)*  

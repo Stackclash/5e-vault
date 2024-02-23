@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/9
-- monster/environment/arctic
-- monster/size/huge
-- monster/type/elemental
+  - compendium/src/5e/mpmm
+  - monster/cr/9
+  - monster/environment/arctic
+  - monster/size/huge
+  - monster/type/elemental
 statblock: inline
-aliases: ["Frost Salamander"]
+aliases:
+  - Frost Salamander
 ---
 # [[5. Mechanics\Bestiary\Elemental\Frost Salamander.md|Frost Salamander]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 132, Mordenkainen's Tome of Foes p. 223*  

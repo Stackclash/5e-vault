@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Humans; Human Origins"]
+  - compendium/src/5e/erlw
+aliases:
+  - Humans; Human Origins
 ---
 # Humans; Human Origins
 *Source: Eberron: Rising from the Last War p. 29* 

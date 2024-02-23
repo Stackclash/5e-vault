@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/tce
-- spell/class/fighter/eldritch-knight
-- spell/class/rogue/arcane-trickster
-- spell/class/warlock/the-fathomless
-- spell/level/4
-- spell/school/conjuration
-aliases: ["Summon Elemental"]
+  - compendium/src/5e/tce
+  - spell/class/fighter/eldritch-knight
+  - spell/class/rogue/arcane-trickster
+  - spell/class/warlock/the-fathomless
+  - spell/level/4
+  - spell/school/conjuration
+aliases:
+  - Summon Elemental
 ---
 # Summon Elemental
 %%-- Embedded content starts on the next line. --%%

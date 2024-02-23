@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhviii
-aliases: ["Skulk"]
+  - compendium/src/5e/hhhviii
+aliases:
+  - Skulk
 ---
 # Skulk
 *Source: Hamund's Harvesting Handbook: Volume III p. 61* 

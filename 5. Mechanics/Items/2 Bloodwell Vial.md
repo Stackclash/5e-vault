@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/tce
-- item/attunement/required
-- item/rarity/rare
-- item/wondrous
-aliases: 
-- "+2 Bloodwell Vial"
+  - compendium/src/5e/tce
+  - item/attunement/required
+  - item/rarity/rare
+  - item/wondrous
+aliases:
+  - +2 Bloodwell Vial
 ---
 # +2 Bloodwell Vial
 *Wondrous Item, rare (requires attunement by a sorcerer)*  

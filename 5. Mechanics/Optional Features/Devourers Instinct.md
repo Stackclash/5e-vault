@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/hhhviii
-- optional-feature/ei
-aliases: ["Devourer's Instinct"]
+  - compendium/src/5e/hhhviii
+  - optional-feature/ei
+aliases:
+  - Devourer's Instinct
 ---
 # Devourer's Instinct
 *Source: Hamund's Harvesting Handbook: Volume III p. 118*  

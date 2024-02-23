@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/xge
-- monster/cr/
-- monster/size/tiny
-- monster/type/construct
+  - compendium/src/5e/xge
+  - monster/cr/
+  - monster/size/tiny
+  - monster/type/construct
 statblock: inline
-aliases: ["Tiny Servant"]
+aliases:
+  - Tiny Servant
 ---
 # [[5. Mechanics\Bestiary\Construct\Tiny Servant.md|Tiny Servant]]
 *Source: Xanathar's Guide to Everything p. 169*  

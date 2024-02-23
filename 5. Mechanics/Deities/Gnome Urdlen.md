@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- compendium/src/5e/mtf
-- deity/gnome
-- domain/death
-- domain/war
-aliases: ["Urdlen"]
+  - compendium/src/5e/mtf
+  - deity/gnome
+  - domain/death
+  - domain/war
+aliases:
+  - Urdlen
 ---
 # Urdlen
 *Source: Mordenkainen's Tome of Foes p. 112* 

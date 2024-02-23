@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/tce
-- subclass/ranger/fey-wanderer
-aliases: ["Fey Wanderer"]
+  - compendium/src/5e/tce
+  - subclass/ranger/fey-wanderer
+aliases:
+  - Fey Wanderer
 ---
 # Fey Wanderer
 *[[Ranger.md\|Ranger]]: Ranger Archetype*  

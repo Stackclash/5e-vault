@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-2
-- monster/environment/swamp
-- monster/environment/urban
-- monster/size/large
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/1-2
+  - monster/environment/swamp
+  - monster/environment/urban
+  - monster/size/large
+  - monster/type/beast
 statblock: inline
-aliases: ["Crocodile"]
+aliases:
+  - Crocodile
 ---
 # [[5. Mechanics\Bestiary\Beast\Crocodile.md|Crocodile]]
 *Source: Monster Manual p. 320. Available in the SRD and the Basic Rules.*  

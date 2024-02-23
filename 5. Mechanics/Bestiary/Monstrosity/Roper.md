@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/5
-- monster/environment/underdark
-- monster/size/large
-- monster/type/monstrosity
+  - compendium/src/5e/mm
+  - monster/cr/5
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Roper"]
+aliases:
+  - Roper
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Roper.md|Roper]]
 *Source: Monster Manual p. 261. Available in the SRD.*  

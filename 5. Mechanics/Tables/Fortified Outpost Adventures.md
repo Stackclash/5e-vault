@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Fortified Outpost Adventures"]
+  - compendium/src/5e/erlw
+aliases:
+  - Fortified Outpost Adventures
 ---
 # Fortified Outpost Adventures
 *Source: Eberron: Rising from the Last War p. 211* 

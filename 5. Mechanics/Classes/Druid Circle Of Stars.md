@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/tce
-- subclass/druid/stars
-aliases: ["Circle of Stars"]
+  - compendium/src/5e/tce
+  - subclass/druid/stars
+aliases:
+  - Circle of Stars
 ---
 # Circle of Stars
 *[[Druid.md\|Druid]]: Druid Circle*  

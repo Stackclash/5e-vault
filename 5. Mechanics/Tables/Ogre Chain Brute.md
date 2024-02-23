@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhviii
-aliases: ["Ogre Chain Brute"]
+  - compendium/src/5e/hhhviii
+aliases:
+  - Ogre Chain Brute
 ---
 # Ogre Chain Brute
 *Source: Hamund's Harvesting Handbook: Volume III p. 57* 

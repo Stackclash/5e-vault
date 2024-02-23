@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/saf
-aliases: ["Devil Allies"]
+  - compendium/src/5e/saf
+aliases:
+  - Devil Allies
 ---
 # Devil Allies
 *Source: Strongholds and Followers* 

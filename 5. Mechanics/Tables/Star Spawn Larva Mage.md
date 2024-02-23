@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhviii
-aliases: ["Star Spawn Larva Mage"]
+  - compendium/src/5e/hhhviii
+aliases:
+  - Star Spawn Larva Mage
 ---
 # Star Spawn Larva Mage
 *Source: Hamund's Harvesting Handbook: Volume III p. 65* 

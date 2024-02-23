@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/saf
-- monster/cr/21
-- monster/size/huge
-- monster/type/celestial
+  - compendium/src/5e/saf
+  - monster/cr/21
+  - monster/size/huge
+  - monster/type/celestial
 statblock: inline
-aliases: ["The Phoenix"]
+aliases:
+  - The Phoenix
 ---
 # [[5. Mechanics\Bestiary\Celestial\The Phoenix.md|The Phoenix]]
 *Source: Strongholds and Followers p. 248*  

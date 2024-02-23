@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-4
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/underdark
-- monster/size/small
-- monster/type/humanoid/goblinoid
+  - compendium/src/5e/mm
+  - monster/cr/1-4
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/underdark
+  - monster/size/small
+  - monster/type/humanoid/goblinoid
 statblock: inline
-aliases: ["Goblin"]
+aliases:
+  - Goblin
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Goblin.md|Goblin]]
 *Source: Monster Manual p. 166, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  

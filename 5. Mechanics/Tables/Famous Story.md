@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Famous Story"]
+  - compendium/src/5e/erlw
+aliases:
+  - Famous Story
 ---
 # Famous Story
 *Source: Eberron: Rising from the Last War p. 94* 

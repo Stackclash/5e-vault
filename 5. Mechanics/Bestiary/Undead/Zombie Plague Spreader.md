@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/vrgr
-- monster/cr/4
-- monster/size/medium
-- monster/type/undead
+  - compendium/src/5e/vrgr
+  - monster/cr/4
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
-aliases: ["Zombie Plague Spreader"]
+aliases:
+  - Zombie Plague Spreader
 ---
 # [[5. Mechanics\Bestiary\Undead\Zombie Plague Spreader.md|Zombie Plague Spreader]]
 *Source: Van Richten's Guide to Ravenloft p. 255*  

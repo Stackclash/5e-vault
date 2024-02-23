@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/attunement/required
-- item/property/crfby
-- item/rarity/very-rare
-- item/wondrous/wand
-aliases: 
-- "+2 Dragon Wand"
+  - compendium/src/5e/hhhvi
+  - item/attunement/required
+  - item/property/crfby
+  - item/rarity/very-rare
+  - item/wondrous/wand
+aliases:
+  - +2 Dragon Wand
 ---
 # +2 Dragon Wand
 *Wand, very rare, Crafted by (requires attunement by a spellcaster)*  

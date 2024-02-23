@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhviii
-aliases: ["Duergar Kavalrachni"]
+  - compendium/src/5e/hhhviii
+aliases:
+  - Duergar Kavalrachni
 ---
 # Duergar Kavalrachni
 *Source: Hamund's Harvesting Handbook: Volume III p. 40* 

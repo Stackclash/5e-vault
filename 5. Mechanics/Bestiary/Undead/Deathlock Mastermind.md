@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/8
-- monster/environment/urban
-- monster/size/medium
-- monster/type/undead/warlock
+  - compendium/src/5e/mpmm
+  - monster/cr/8
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/undead/warlock
 statblock: inline
-aliases: ["Deathlock Mastermind"]
+aliases:
+  - Deathlock Mastermind
 ---
 # [[5. Mechanics\Bestiary\Undead\Deathlock Mastermind.md|Deathlock Mastermind]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 87, Mordenkainen's Tome of Foes p. 129*  

@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/5
-- monster/environment/desert
-- monster/size/large
-- monster/type/monstrosity
+  - compendium/src/5e/mpmm
+  - monster/cr/5
+  - monster/environment/desert
+  - monster/size/large
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Tlincalli"]
+aliases:
+  - Tlincalli
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Tlincalli.md|Tlincalli]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 242*  

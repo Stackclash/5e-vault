@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Lifestyle Expenses"]
+  - compendium/src/5e/phb
+aliases:
+  - Lifestyle Expenses
 ---
 # Lifestyle Expenses
 *Source: Player's Handbook p. 157* 

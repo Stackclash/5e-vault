@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/vrgr
-aliases:
-  - Monsters of Ravenloft
+- compendium/src/5e/vrgr
+aliases: ["Monsters of Ravenloft"]
 ---
 # Monsters of Ravenloft
 *Source: Van Richten's Guide to Ravenloft, p. 223* 

@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/19
-- monster/size/huge
-- monster/type/fiend/demon
+  - compendium/src/5e/mm
+  - monster/cr/19
+  - monster/size/huge
+  - monster/type/fiend/demon
 statblock: inline
-aliases: ["Balor"]
+aliases:
+  - Balor
 ---
 # [[5. Mechanics\Bestiary\Fiend\Balor.md|Balor]]
 *Source: Monster Manual p. 55, Tasha's Cauldron of Everything. Available in the SRD.*  

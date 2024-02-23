@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/tce
-- feat
-aliases: ["Fighting Initiate"]
+  - compendium/src/5e/tce
+  - feat
+aliases:
+  - Fighting Initiate
 ---
 # Fighting Initiate
 *Source: Tasha's Cauldron of Everything p. 80*  

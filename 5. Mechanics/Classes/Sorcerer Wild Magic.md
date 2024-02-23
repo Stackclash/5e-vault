@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/phb
-- subclass/sorcerer/wild
-aliases: ["Wild Magic"]
+  - compendium/src/5e/phb
+  - subclass/sorcerer/wild
+aliases:
+  - Wild Magic
 ---
 # Wild Magic
 *[[Sorcerer.md\|Sorcerer]]: Sorcerous Origin*  

@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvii
-- item/property/crfby
-- item/rarity/common
-- item/wondrous
-aliases: 
-- "Idea Bulb"
+  - compendium/src/5e/hhhvii
+  - item/property/crfby
+  - item/rarity/common
+  - item/wondrous
+aliases:
+  - Idea Bulb
 ---
 # Idea Bulb
 *Wondrous Item, common, Crafted by*  

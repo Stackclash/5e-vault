@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- compendium/src/5e/mtf
-- deity/duergar
-- domain/death
-- domain/forge
-aliases: ["Laduguer"]
+  - compendium/src/5e/mtf
+  - deity/duergar
+  - domain/death
+  - domain/forge
+aliases:
+  - Laduguer
 ---
 # Laduguer
 *Source: Mordenkainen's Tome of Foes p. 79* 

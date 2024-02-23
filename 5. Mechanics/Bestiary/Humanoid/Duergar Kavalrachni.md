@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/2
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/humanoid/dwarf
+  - compendium/src/5e/mpmm
+  - monster/cr/2
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/humanoid/dwarf
 statblock: inline
-aliases: ["Duergar Kavalrachni"]
+aliases:
+  - Duergar Kavalrachni
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Duergar Kavalrachni.md|Duergar Kavalrachni]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 107, Mordenkainen's Tome of Foes p. 189*  

@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/3
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/construct/dwarf
+  - compendium/src/5e/mpmm
+  - monster/cr/3
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/construct/dwarf
 statblock: inline
-aliases: ["Duergar Screamer"]
+aliases:
+  - Duergar Screamer
 ---
 # [[5. Mechanics\Bestiary\Construct\Duergar Screamer.md|Duergar Screamer]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 111, Mordenkainen's Tome of Foes p. 190*  

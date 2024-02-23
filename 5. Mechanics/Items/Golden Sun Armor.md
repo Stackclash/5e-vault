@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvii
-- item/armor/heavy
-- item/attunement/required
-- item/property/crfby
-- item/rarity/very-rare
-aliases: 
-- "Golden Sun Armor"
+  - compendium/src/5e/hhhvii
+  - item/armor/heavy
+  - item/attunement/required
+  - item/property/crfby
+  - item/rarity/very-rare
+aliases:
+  - Golden Sun Armor
 ---
 # Golden Sun Armor
 *Heavy Armor, very rare, Crafted by (requires attunement)*  

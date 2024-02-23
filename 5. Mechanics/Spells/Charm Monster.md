@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/xge
-- spell/class/bard
-- spell/class/druid
-- spell/class/fighter/eldritch-knight
-- spell/class/rogue/arcane-trickster
-- spell/class/sorcerer
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/4
-- spell/school/enchantment
-aliases: ["Charm Monster"]
+  - compendium/src/5e/xge
+  - spell/class/bard
+  - spell/class/druid
+  - spell/class/fighter/eldritch-knight
+  - spell/class/rogue/arcane-trickster
+  - spell/class/sorcerer
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/4
+  - spell/school/enchantment
+aliases:
+  - Charm Monster
 ---
 # Charm Monster
 %%-- Embedded content starts on the next line. --%%

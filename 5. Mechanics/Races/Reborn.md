@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/vrgr
-- race/reborn
-aliases: ["Reborn"]
+  - compendium/src/5e/vrgr
+  - race/reborn
+aliases:
+  - Reborn
 ---
 # Reborn
 *Source: Van Richten's Guide to Ravenloft p. 20*  

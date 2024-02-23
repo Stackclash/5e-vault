@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/saf
-aliases: ["Demon Allies"]
+  - compendium/src/5e/saf
+aliases:
+  - Demon Allies
 ---
 # Demon Allies
 *Source: Strongholds and Followers* 

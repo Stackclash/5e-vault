@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Planar Effects"]
+  - compendium/src/5e/dmg
+aliases:
+  - Planar Effects
 ---
 # Planar Effects
 *Source: Dungeon Master's Guide p. 50* 

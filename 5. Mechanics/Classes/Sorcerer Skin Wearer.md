@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/hhhviii
-- subclass/sorcerer/skin-wearer
-aliases: ["Skin Wearer"]
+  - compendium/src/5e/hhhviii
+  - subclass/sorcerer/skin-wearer
+aliases:
+  - Skin Wearer
 ---
 # Skin Wearer
 *[[Sorcerer.md\|Sorcerer]]: Sorcerous Origin*  

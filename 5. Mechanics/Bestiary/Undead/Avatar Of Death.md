@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/dmg
-- monster/cr/
-- monster/size/medium
-- monster/type/undead
+  - compendium/src/5e/dmg
+  - monster/cr/
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
-aliases: ["Avatar of Death (DMG)"]
+aliases:
+  - Avatar of Death (DMG)
 ---
 # [[5. Mechanics\Bestiary\Undead\Avatar Of Death.md|Avatar of Death (DMG)]]
 *Source: Dungeon Master's Guide p. 164, Tasha's Cauldron of Everything. Available in the SRD.*  

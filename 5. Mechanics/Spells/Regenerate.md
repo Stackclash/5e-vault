@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/cleric
-- spell/class/druid
-- spell/class/sorcerer/divine-soul
-- spell/level/7
-- spell/school/transmutation
-aliases: ["Regenerate"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/cleric
+  - spell/class/druid
+  - spell/class/sorcerer/divine-soul
+  - spell/level/7
+  - spell/school/transmutation
+aliases:
+  - Regenerate
 ---
 # Regenerate
 %%-- Embedded content starts on the next line. --%%

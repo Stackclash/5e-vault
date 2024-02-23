@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/xge
-aliases: ["Dragonborn Names – Clan"]
+  - compendium/src/5e/xge
+aliases:
+  - Dragonborn Names – Clan
 ---
 # Dragonborn Names – Clan
 *Source: Xanathar's Guide to Everything p. 175* 

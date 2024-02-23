@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/sorcerer/aberrant-mind
-- spell/class/warlock
-- spell/level/3
-- spell/school/conjuration
-aliases: ["Hunger of Hadar"]
+  - compendium/src/5e/phb
+  - spell/class/sorcerer/aberrant-mind
+  - spell/class/warlock
+  - spell/level/3
+  - spell/school/conjuration
+aliases:
+  - Hunger of Hadar
 ---
 # Hunger of Hadar
 %%-- Embedded content starts on the next line. --%%

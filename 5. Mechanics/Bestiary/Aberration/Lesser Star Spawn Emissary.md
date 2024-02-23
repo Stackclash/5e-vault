@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/vrgr
-- monster/cr/19
-- monster/size/medium
-- monster/type/aberration
+  - compendium/src/5e/vrgr
+  - monster/cr/19
+  - monster/size/medium
+  - monster/type/aberration
 statblock: inline
-aliases: ["Lesser Star Spawn Emissary"]
+aliases:
+  - Lesser Star Spawn Emissary
 ---
 # [[5. Mechanics\Bestiary\Aberration\Lesser Star Spawn Emissary.md|Lesser Star Spawn Emissary]]
 *Source: Van Richten's Guide to Ravenloft p. 245*  

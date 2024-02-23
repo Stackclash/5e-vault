@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/rare
-- item/tier/minor
-- item/wondrous/scroll
-aliases: 
-- "Spell Scroll (5th Level)"
+  - compendium/src/5e/dmg
+  - item/rarity/rare
+  - item/tier/minor
+  - item/wondrous/scroll
+aliases:
+  - Spell Scroll (5th Level)
 ---
 # Spell Scroll (5th Level)
 *Scroll, minor, rare*  

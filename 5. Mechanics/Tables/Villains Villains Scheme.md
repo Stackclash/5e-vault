@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Villains; Villain's Scheme"]
+  - compendium/src/5e/dmg
+aliases:
+  - Villains; Villain's Scheme
 ---
 # Villains; Villain's Scheme
 *Source: Dungeon Master's Guide p. 94* 

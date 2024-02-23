@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/property/crfby
-- item/rarity/rare
-- item/weapon/explosive
-aliases: 
-- "Demon Bomb"
+  - compendium/src/5e/hhhvi
+  - item/property/crfby
+  - item/rarity/rare
+  - item/weapon/explosive
+aliases:
+  - Demon Bomb
 ---
 # Demon Bomb
 *Explosive, rare, Crafted by*  

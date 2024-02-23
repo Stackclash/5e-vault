@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/saf
-- monster/cr/24
-- monster/size/gargantuan
-- monster/type/dragon
+  - compendium/src/5e/saf
+  - monster/cr/24
+  - monster/size/gargantuan
+  - monster/type/dragon
 statblock: inline
-aliases: ["Ancient Sapphire Dragon"]
+aliases:
+  - Ancient Sapphire Dragon
 ---
 # [[5. Mechanics\Bestiary\Dragon\Ancient Sapphire Dragon.md|Ancient Sapphire Dragon]]
 *Source: Strongholds and Followers p. 213*  

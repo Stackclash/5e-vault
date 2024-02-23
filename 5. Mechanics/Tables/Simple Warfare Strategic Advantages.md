@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/saf
-aliases: ["Simple Warfare; Strategic Advantages"]
+  - compendium/src/5e/saf
+aliases:
+  - Simple Warfare; Strategic Advantages
 ---
 # Simple Warfare; Strategic Advantages
 *Source: Strongholds and Followers* 

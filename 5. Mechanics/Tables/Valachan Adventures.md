@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vrgr
-aliases: ["Valachan Adventures"]
+  - compendium/src/5e/vrgr
+aliases:
+  - Valachan Adventures
 ---
 # Valachan Adventures
 *Source: Van Richten's Guide to Ravenloft p. 164* 

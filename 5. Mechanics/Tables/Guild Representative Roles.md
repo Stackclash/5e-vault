@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/tce
-aliases: ["Guild Representative Roles"]
+  - compendium/src/5e/tce
+aliases:
+  - Guild Representative Roles
 ---
 # Guild Representative Roles
 *Source: Tasha's Cauldron of Everything p. 95* 

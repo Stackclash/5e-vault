@@ -2,11 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- compendium/src/5e/scag
-- deity/faerunian
-- domain/life
-- domain/twilight
-aliases: ["Ilmater", "The Crying God", "The Rack-Broken Lord", "He Who Endures"]
+  - compendium/src/5e/scag
+  - deity/faerunian
+  - domain/life
+  - domain/twilight
+aliases:
+  - Ilmater
+  - The Crying God
+  - The Rack-Broken Lord
+  - He Who Endures
 ---
 # Ilmater
 *Source: Sword Coast Adventurer's Guide p. 21, Tasha's Cauldron of Everything p. 34* 

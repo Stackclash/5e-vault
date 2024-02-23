@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/5
-- monster/environment/swamp
-- monster/size/large
-- monster/type/monstrosity
+  - compendium/src/5e/mpmm
+  - monster/cr/5
+  - monster/environment/swamp
+  - monster/size/large
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Catoblepas"]
+aliases:
+  - Catoblepas
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Catoblepas.md|Catoblepas]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 70*  

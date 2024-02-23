@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/paladin
-- spell/level/2
-- spell/school/conjuration
-aliases: ["Find Steed"]
+  - compendium/src/5e/phb
+  - spell/class/paladin
+  - spell/level/2
+  - spell/school/conjuration
+aliases:
+  - Find Steed
 ---
 # Find Steed
 %%-- Embedded content starts on the next line. --%%

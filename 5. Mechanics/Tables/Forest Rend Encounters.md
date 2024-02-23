@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/saf
-aliases: ["Forest Rend Encounters"]
+  - compendium/src/5e/saf
+aliases:
+  - Forest Rend Encounters
 ---
 # Forest Rend Encounters
 *Source: Strongholds and Followers p. 114* 

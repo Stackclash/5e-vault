@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Treasure Hoard: Challenge 0—4"]
+  - compendium/src/5e/dmg
+aliases:
+  - 'Treasure Hoard: Challenge 0—4'
 ---
 # Treasure Hoard: Challenge 0—4
 *Source: Dungeon Master's Guide p. 133* 

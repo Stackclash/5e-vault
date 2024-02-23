@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/xge
-- feat
-aliases: ["Dwarven Fortitude"]
+  - compendium/src/5e/xge
+  - feat
+aliases:
+  - Dwarven Fortitude
 ---
 # Dwarven Fortitude
 *Source: Xanathar's Guide to Everything p. 74*  

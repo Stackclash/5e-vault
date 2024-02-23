@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/tce
-- item/attunement/required
-- item/rarity/rare
-- item/wondrous
-aliases: 
-- "Outer Essence Shard (Good)"
+  - compendium/src/5e/tce
+  - item/attunement/required
+  - item/rarity/rare
+  - item/wondrous
+aliases:
+  - Outer Essence Shard (Good)
 ---
 # Outer Essence Shard (Good)
 *Wondrous Item, rare (requires attunement by a sorcerer)*  

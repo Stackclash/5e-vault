@@ -2,42 +2,42 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/attunement/required
-- item/rarity/rare
-- item/wondrous/wondrous-item
-aliases: 
-- "Dragonbone Weapon (Adult)"
-- "Adult Dragonbone Longsword"
-- "Adult Dragonbone Halberd"
-- "Adult Dragonbone Hooked Shortspear"
-- "Adult Dragonbone Light Hammer"
-- "Adult Dragonbone Battleaxe"
-- "Adult Dragonbone Pike"
-- "Adult Dragonbone Greatclub"
-- "Adult Dragonbone Yklwa"
-- "Adult Dragonbone Greataxe"
-- "Adult Dragonbone Warhammer"
-- "Adult Dragonbone Morningstar"
-- "Adult Dragonbone Double-Bladed Scimitar"
-- "Adult Dragonbone Glaive"
-- "Adult Dragonbone Dagger"
-- "Adult Dragonbone Handaxe"
-- "Adult Dragonbone Trident"
-- "Adult Dragonbone Quarterstaff"
-- "Adult Dragonbone Spear"
-- "Adult Dragonbone Greatsword"
-- "Adult Dragonbone Club"
-- "Adult Dragonbone Rapier"
-- "Adult Dragonbone Maul"
-- "Adult Dragonbone Javelin"
-- "Adult Dragonbone War Pick"
-- "Adult Dragonbone Shortsword"
-- "Adult Dragonbone Sickle"
-- "Adult Dragonbone Hoopak"
-- "Adult Dragonbone Mace"
-- "Adult Dragonbone Lance"
-- "Adult Dragonbone Scimitar"
+  - compendium/src/5e/hhhvi
+  - item/attunement/required
+  - item/rarity/rare
+  - item/wondrous/wondrous-item
+aliases:
+  - Dragonbone Weapon (Adult)
+  - Adult Dragonbone Longsword
+  - Adult Dragonbone Halberd
+  - Adult Dragonbone Hooked Shortspear
+  - Adult Dragonbone Light Hammer
+  - Adult Dragonbone Battleaxe
+  - Adult Dragonbone Pike
+  - Adult Dragonbone Greatclub
+  - Adult Dragonbone Yklwa
+  - Adult Dragonbone Greataxe
+  - Adult Dragonbone Warhammer
+  - Adult Dragonbone Morningstar
+  - Adult Dragonbone Double-Bladed Scimitar
+  - Adult Dragonbone Glaive
+  - Adult Dragonbone Dagger
+  - Adult Dragonbone Handaxe
+  - Adult Dragonbone Trident
+  - Adult Dragonbone Quarterstaff
+  - Adult Dragonbone Spear
+  - Adult Dragonbone Greatsword
+  - Adult Dragonbone Club
+  - Adult Dragonbone Rapier
+  - Adult Dragonbone Maul
+  - Adult Dragonbone Javelin
+  - Adult Dragonbone War Pick
+  - Adult Dragonbone Shortsword
+  - Adult Dragonbone Sickle
+  - Adult Dragonbone Hoopak
+  - Adult Dragonbone Mace
+  - Adult Dragonbone Lance
+  - Adult Dragonbone Scimitar
 ---
 # Dragonbone Weapon (Adult)
 *Generic Variant, rare (requires attunement)*  

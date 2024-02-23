@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/gear/oil
-- item/property/crfby
-- item/rarity/very-rare
-aliases: 
-- "Cloud Step Oil"
+  - compendium/src/5e/hhhvi
+  - item/gear/oil
+  - item/property/crfby
+  - item/rarity/very-rare
+aliases:
+  - Cloud Step Oil
 ---
 # Cloud Step Oil
 *Oil, very rare, Crafted by*  

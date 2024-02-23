@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vrgr
-aliases: ["Haunted Traps"]
+  - compendium/src/5e/vrgr
+aliases:
+  - Haunted Traps
 ---
 # Haunted Traps
 *Source: Van Richten's Guide to Ravenloft p. 196* 

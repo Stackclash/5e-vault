@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/humanoid/kuo-toa
+  - compendium/src/5e/mm
+  - monster/cr/1
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/humanoid/kuo-toa
 statblock: inline
-aliases: ["Kuo-toa Whip"]
+aliases:
+  - Kuo-toa Whip
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Kuo Toa Whip.md|Kuo-toa Whip]]
 *Source: Monster Manual p. 200*  

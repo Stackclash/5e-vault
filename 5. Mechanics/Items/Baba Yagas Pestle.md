@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/tce
-- item/attunement/required
-- item/property/versatile
-- item/rarity/artifact
-- item/weapon/simple/melee
-aliases: 
-- "Baba Yaga's Pestle"
+  - compendium/src/5e/tce
+  - item/attunement/required
+  - item/property/versatile
+  - item/rarity/artifact
+  - item/weapon/simple/melee
+aliases:
+  - Baba Yaga's Pestle
 ---
 # Baba Yaga's Pestle
 *Melee Weapon, artifact (requires attunement)*  

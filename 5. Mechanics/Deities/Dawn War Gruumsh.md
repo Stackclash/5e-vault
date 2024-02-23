@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- compendium/src/5e/dmg
-- deity/dawn-war
-- domain/tempest
-- domain/war
-aliases: ["Gruumsh"]
+  - compendium/src/5e/dmg
+  - deity/dawn-war
+  - domain/tempest
+  - domain/war
+aliases:
+  - Gruumsh
 ---
 # Gruumsh
 *Source: Dungeon Master's Guide p. 10* 

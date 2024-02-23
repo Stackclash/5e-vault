@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vrgr
-aliases: ["Folk Horror Settings"]
+  - compendium/src/5e/vrgr
+aliases:
+  - Folk Horror Settings
 ---
 # Folk Horror Settings
 *Source: Van Richten's Guide to Ravenloft p. 53* 

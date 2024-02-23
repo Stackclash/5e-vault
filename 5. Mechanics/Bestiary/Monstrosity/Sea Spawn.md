@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/1
-- monster/environment/coastal
-- monster/environment/underwater
-- monster/size/medium
-- monster/type/monstrosity
+  - compendium/src/5e/mpmm
+  - monster/cr/1
+  - monster/environment/coastal
+  - monster/environment/underwater
+  - monster/size/medium
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Sea Spawn"]
+aliases:
+  - Sea Spawn
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Sea Spawn.md|Sea Spawn]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 211*  

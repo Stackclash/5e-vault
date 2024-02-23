@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/mtf
-- item/attunement/required
-- item/property/heavy
-- item/property/martial
-- item/property/two-handed
-- item/rarity/unknown/magic
-- item/tier/major
-- item/weapon/martial/melee
-aliases: 
-- "Silver Sword"
+  - compendium/src/5e/mtf
+  - item/attunement/required
+  - item/property/heavy
+  - item/property/martial
+  - item/property/two-handed
+  - item/rarity/unknown/magic
+  - item/tier/major
+  - item/weapon/martial/melee
+aliases:
+  - Silver Sword
 ---
 # Silver Sword
 *Melee Weapon, major, unknown (magic) (requires attunement by a creature that has psionic ability)*  

@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/3
-- monster/environment/grassland
-- monster/environment/swamp
-- monster/size/medium
-- monster/type/undead
+  - compendium/src/5e/mpmm
+  - monster/cr/3
+  - monster/environment/grassland
+  - monster/environment/swamp
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
-aliases: ["Sword Wraith Warrior"]
+aliases:
+  - Sword Wraith Warrior
 ---
 # [[5. Mechanics\Bestiary\Undead\Sword Wraith Warrior.md|Sword Wraith Warrior]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 239, Mordenkainen's Tome of Foes p. 241*  

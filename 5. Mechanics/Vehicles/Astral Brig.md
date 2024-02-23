@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-vehicle
 tags:
-- compendium/src/5e/mtf
-- vehicle/size/gargantuan
-- vehicle/terrain/air
-- vehicle/type/ship
-aliases: ["Astral Brig"]
+  - compendium/src/5e/mtf
+  - vehicle/size/gargantuan
+  - vehicle/terrain/air
+  - vehicle/type/ship
+aliases:
+  - Astral Brig
 ---
 # Astral Brig
 %%-- Embedded content starts on the next line. --%%

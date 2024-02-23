@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear/trade-good
-aliases: 
-- "Silk (1 sq. yd.)"
+  - compendium/src/5e/phb
+  - item/gear/trade-good
+aliases:
+  - Silk (1 sq. yd.)
 cost: 1000
 ---
 # Silk (1 sq. yd.)

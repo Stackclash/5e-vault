@@ -2,8 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["The Frostfell's and Everice's Influence in Khorvaire; Trinkets from the Frostfell and Everice"]
+  - compendium/src/5e/erlw
+aliases:
+  - >-
+    The Frostfell's and Everice's Influence in Khorvaire; Trinkets from the
+    Frostfell and Everice
 ---
 # The Frostfell's and Everice's Influence in Khorvaire; Trinkets from the Frostfell and Everice
 *Source: Eberron: Rising from the Last War p. 136* 

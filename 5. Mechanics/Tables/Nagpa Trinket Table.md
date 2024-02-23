@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhviii
-aliases: ["Nagpa Trinket Table"]
+  - compendium/src/5e/hhhviii
+aliases:
+  - Nagpa Trinket Table
 ---
 # Nagpa Trinket Table
 *Source: Hamund's Harvesting Handbook: Volume III p. 53* 

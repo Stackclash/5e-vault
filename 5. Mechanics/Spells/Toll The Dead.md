@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/xge
-- spell/class/cleric
-- spell/class/cleric/death-domain
-- spell/class/fighter/eldritch-knight
-- spell/class/rogue/arcane-trickster
-- spell/class/sorcerer/divine-soul
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/cantrip
-- spell/school/necromancy
-aliases: ["Toll the Dead"]
+  - compendium/src/5e/xge
+  - spell/class/cleric
+  - spell/class/cleric/death-domain
+  - spell/class/fighter/eldritch-knight
+  - spell/class/rogue/arcane-trickster
+  - spell/class/sorcerer/divine-soul
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/cantrip
+  - spell/school/necromancy
+aliases:
+  - Toll the Dead
 ---
 # Toll the Dead
 %%-- Embedded content starts on the next line. --%%

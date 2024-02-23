@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/erlw
-- item/attunement/required
-- item/rarity/common
-- item/wondrous/wondrous-item
-aliases: 
-- "Imbued Wood (Kythrian Manchineel)"
-- "Kythrian Manchineel Rod"
-- "Kythrian Manchineel Wand"
-- "Kythrian Manchineel Staff"
+  - compendium/src/5e/erlw
+  - item/attunement/required
+  - item/rarity/common
+  - item/wondrous/wondrous-item
+aliases:
+  - Imbued Wood (Kythrian Manchineel)
+  - Kythrian Manchineel Rod
+  - Kythrian Manchineel Wand
+  - Kythrian Manchineel Staff
 ---
 # Imbued Wood (Kythrian Manchineel)
 *Generic Variant, common (requires attunement)*  

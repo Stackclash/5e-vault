@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhbh
-aliases: ["Rare Desert Herbs"]
+  - compendium/src/5e/hhbh
+aliases:
+  - Rare Desert Herbs
 ---
 # Rare Desert Herbs
 *Source: Hamund's Herbalism Handbook p. 43* 

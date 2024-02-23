@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-vehicle
 tags:
-- compendium/src/5e/dmg
-- vehicle/size/large
-- vehicle/terrain/sea
-- vehicle/type/object
-aliases: ["Apparatus of Kwalish"]
+  - compendium/src/5e/dmg
+  - vehicle/size/large
+  - vehicle/terrain/sea
+  - vehicle/type/object
+aliases:
+  - Apparatus of Kwalish
 ---
 # Apparatus of Kwalish
 %%-- Embedded content starts on the next line. --%%

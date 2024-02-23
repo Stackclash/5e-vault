@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/saf
-- item/rarity/uncommon
-- item/wondrous/potion
-aliases: 
-- "Potion of Enhance Ability"
+  - compendium/src/5e/saf
+  - item/rarity/uncommon
+  - item/wondrous/potion
+aliases:
+  - Potion of Enhance Ability
 ---
 # Potion of Enhance Ability
 *Potion, uncommon*  

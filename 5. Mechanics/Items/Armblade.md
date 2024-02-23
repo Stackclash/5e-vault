@@ -2,35 +2,35 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/erlw
-- item/attunement/required
-- item/rarity/common
-- item/wondrous/wondrous-item
-aliases: 
-- "Armblade"
-- "Longsword Armblade"
-- "Hooked Shortspear Armblade"
-- "Light Hammer Armblade"
-- "Battleaxe Armblade"
-- "Flail Armblade"
-- "Yklwa Armblade"
-- "Warhammer Armblade"
-- "Morningstar Armblade"
-- "Dagger Armblade"
-- "Handaxe Armblade"
-- "Whip Armblade"
-- "Trident Armblade"
-- "Quarterstaff Armblade"
-- "Spear Armblade"
-- "Club Armblade"
-- "Rapier Armblade"
-- "Javelin Armblade"
-- "War Pick Armblade"
-- "Shortsword Armblade"
-- "Sickle Armblade"
-- "Mace Armblade"
-- "Lance Armblade"
-- "Scimitar Armblade"
+  - compendium/src/5e/erlw
+  - item/attunement/required
+  - item/rarity/common
+  - item/wondrous/wondrous-item
+aliases:
+  - Armblade
+  - Longsword Armblade
+  - Hooked Shortspear Armblade
+  - Light Hammer Armblade
+  - Battleaxe Armblade
+  - Flail Armblade
+  - Yklwa Armblade
+  - Warhammer Armblade
+  - Morningstar Armblade
+  - Dagger Armblade
+  - Handaxe Armblade
+  - Whip Armblade
+  - Trident Armblade
+  - Quarterstaff Armblade
+  - Spear Armblade
+  - Club Armblade
+  - Rapier Armblade
+  - Javelin Armblade
+  - War Pick Armblade
+  - Shortsword Armblade
+  - Sickle Armblade
+  - Mace Armblade
+  - Lance Armblade
+  - Scimitar Armblade
 ---
 # Armblade
 *Generic Variant, common (requires attunement by a warforged)*  

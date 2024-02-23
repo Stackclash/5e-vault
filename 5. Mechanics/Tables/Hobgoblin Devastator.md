@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvii
-aliases: ["Hobgoblin Devastator"]
+  - compendium/src/5e/hhhvii
+aliases:
+  - Hobgoblin Devastator
 ---
 # Hobgoblin Devastator
 *Source: Hamund's Harvesting Handbook: Volume II p. 27* 

@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/3
-- monster/environment/forest
-- monster/environment/hill
-- monster/size/medium
-- monster/type/humanoid/human
-- monster/type/humanoid/shapechanger
+  - compendium/src/5e/mm
+  - monster/cr/3
+  - monster/environment/forest
+  - monster/environment/hill
+  - monster/size/medium
+  - monster/type/humanoid/human
+  - monster/type/humanoid/shapechanger
 statblock: inline
-aliases: ["Werewolf"]
+aliases:
+  - Werewolf
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Werewolf.md|Werewolf]]
 *Source: Monster Manual p. 211, Curse of Strahd, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  

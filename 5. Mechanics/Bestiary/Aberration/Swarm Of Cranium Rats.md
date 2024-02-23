@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/5
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/aberration
+  - compendium/src/5e/mpmm
+  - monster/cr/5
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/aberration
 statblock: inline
-aliases: ["Swarm of Cranium Rats"]
+aliases:
+  - Swarm of Cranium Rats
 ---
 # [[5. Mechanics\Bestiary\Aberration\Swarm Of Cranium Rats.md|Swarm of Cranium Rats]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 83*  

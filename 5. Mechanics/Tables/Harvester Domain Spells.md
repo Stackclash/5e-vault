@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhviii
-aliases: ["Harvester Domain Spells"]
+  - compendium/src/5e/hhhviii
+aliases:
+  - Harvester Domain Spells
 ---
 # Harvester Domain Spells
 *Source: Hamund's Harvesting Handbook: Volume III p. 110* 

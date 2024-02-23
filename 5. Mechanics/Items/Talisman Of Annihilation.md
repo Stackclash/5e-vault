@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/property/crfby
-- item/rarity/legendary
-- item/wondrous
-aliases: 
-- "Talisman of Annihilation"
+  - compendium/src/5e/hhhviii
+  - item/property/crfby
+  - item/rarity/legendary
+  - item/wondrous
+aliases:
+  - Talisman of Annihilation
 ---
 # Talisman of Annihilation
 *Wondrous Item, legendary, Crafted by*  

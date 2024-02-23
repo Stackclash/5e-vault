@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhviii
-aliases: ["Drow Matron Mother"]
+  - compendium/src/5e/hhhviii
+aliases:
+  - Drow Matron Mother
 ---
 # Drow Matron Mother
 *Source: Hamund's Harvesting Handbook: Volume III p. 38* 

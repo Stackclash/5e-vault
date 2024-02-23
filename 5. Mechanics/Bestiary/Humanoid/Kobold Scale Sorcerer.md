@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/1
-- monster/environment/forest
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/small
-- monster/type/humanoid
+  - compendium/src/5e/mpmm
+  - monster/cr/1
+  - monster/environment/forest
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/small
+  - monster/type/humanoid
 statblock: inline
-aliases: ["Kobold Scale Sorcerer"]
+aliases:
+  - Kobold Scale Sorcerer
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Kobold Scale Sorcerer.md|Kobold Scale Sorcerer]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 165*  

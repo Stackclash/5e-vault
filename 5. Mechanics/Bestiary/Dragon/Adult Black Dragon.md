@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/14
-- monster/environment/swamp
-- monster/size/huge
-- monster/type/dragon
+  - compendium/src/5e/mm
+  - monster/cr/14
+  - monster/environment/swamp
+  - monster/size/huge
+  - monster/type/dragon
 statblock: inline
-aliases: ["Adult Black Dragon"]
+aliases:
+  - Adult Black Dragon
 ---
 # [[5. Mechanics\Bestiary\Dragon\Adult Black Dragon.md|Adult Black Dragon]]
 *Source: Monster Manual p. 88. Available in the SRD.*  

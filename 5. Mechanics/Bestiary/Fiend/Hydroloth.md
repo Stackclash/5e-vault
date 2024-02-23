@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/9
-- monster/size/medium
-- monster/type/fiend/yugoloth
+  - compendium/src/5e/mpmm
+  - monster/cr/9
+  - monster/size/medium
+  - monster/type/fiend/yugoloth
 statblock: inline
-aliases: ["Hydroloth"]
+aliases:
+  - Hydroloth
 ---
 # [[5. Mechanics\Bestiary\Fiend\Hydroloth.md|Hydroloth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 158, Mordenkainen's Tome of Foes p. 249*  

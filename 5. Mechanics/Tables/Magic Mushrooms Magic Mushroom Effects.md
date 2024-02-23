@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/tce
-aliases: ["Magic Mushrooms; Magic Mushroom Effects"]
+  - compendium/src/5e/tce
+aliases:
+  - Magic Mushrooms; Magic Mushroom Effects
 ---
 # Magic Mushrooms; Magic Mushroom Effects
 *Source: Tasha's Cauldron of Everything p. 166* 

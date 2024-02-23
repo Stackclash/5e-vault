@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/cos
-- monster/cr/1-4
-- monster/size/small
-- monster/type/construct
+  - compendium/src/5e/cos
+  - monster/cr/1-4
+  - monster/size/small
+  - monster/type/construct
 statblock: inline
-aliases: ["Broom of Animated Attack"]
+aliases:
+  - Broom of Animated Attack
 ---
 # [[5. Mechanics\Bestiary\Construct\Broom Of Animated Attack.md|Broom of Animated Attack]]
 *Source: Curse of Strahd p. 226*  

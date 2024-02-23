@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Crafter Type"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Crafter Type
 ---
 # Crafter Type
 *Source: Hamund's Harvesting Handbook: Volume I* 

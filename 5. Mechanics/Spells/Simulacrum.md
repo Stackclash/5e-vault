@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/wizard
-- spell/level/7
-- spell/school/illusion
-aliases: ["Simulacrum"]
+  - compendium/src/5e/phb
+  - spell/class/wizard
+  - spell/level/7
+  - spell/school/illusion
+aliases:
+  - Simulacrum
 ---
 # Simulacrum
 %%-- Embedded content starts on the next line. --%%

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/cos
-- monster/legendary-group
-aliases: ["Strahd von Zarovich"]
+  - compendium/src/5e/cos
+  - monster/legendary-group
+aliases:
+  - Strahd von Zarovich
 ---
 # Strahd von Zarovich
 

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhbh
-aliases: ["Common Grassland Herbs"]
+  - compendium/src/5e/hhbh
+aliases:
+  - Common Grassland Herbs
 ---
 # Common Grassland Herbs
 *Source: Hamund's Herbalism Handbook p. 42* 

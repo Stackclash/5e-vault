@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Random Settlements; Current Calamity"]
+  - compendium/src/5e/dmg
+aliases:
+  - Random Settlements; Current Calamity
 ---
 # Random Settlements; Current Calamity
 *Source: Dungeon Master's Guide p. 112* 

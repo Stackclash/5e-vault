@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/1-4
-- monster/environment/arctic
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/size/medium
-- monster/type/undead
+  - compendium/src/5e/mpmm
+  - monster/cr/1-4
+  - monster/environment/arctic
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
-aliases: ["Gnoll Witherling"]
+aliases:
+  - Gnoll Witherling
 ---
 # [[5. Mechanics\Bestiary\Undead\Gnoll Witherling.md|Gnoll Witherling]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 145*  

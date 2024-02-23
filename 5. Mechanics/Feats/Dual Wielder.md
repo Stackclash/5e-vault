@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/phb
-- feat
-aliases: ["Dual Wielder"]
+  - compendium/src/5e/phb
+  - feat
+aliases:
+  - Dual Wielder
 ---
 # Dual Wielder
 *Source: Player's Handbook p. 165*  

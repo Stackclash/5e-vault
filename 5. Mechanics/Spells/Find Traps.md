@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/class/druid
-- spell/class/ranger
-- spell/class/sorcerer/divine-soul
-- spell/level/2
-- spell/school/divination
-aliases: ["Find Traps"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/class/druid
+  - spell/class/ranger
+  - spell/class/sorcerer/divine-soul
+  - spell/level/2
+  - spell/school/divination
+aliases:
+  - Find Traps
 ---
 # Find Traps
 %%-- Embedded content starts on the next line. --%%

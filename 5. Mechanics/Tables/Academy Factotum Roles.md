@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/tce
-aliases: ["Academy Factotum Roles"]
+  - compendium/src/5e/tce
+aliases:
+  - Academy Factotum Roles
 ---
 # Academy Factotum Roles
 *Source: Tasha's Cauldron of Everything p. 85* 

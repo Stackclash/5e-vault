@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/15
-- monster/environment/desert
-- monster/size/medium
-- monster/type/undead
+  - compendium/src/5e/mm
+  - monster/cr/15
+  - monster/environment/desert
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
-aliases: ["Mummy Lord"]
+aliases:
+  - Mummy Lord
 ---
 # [[5. Mechanics\Bestiary\Undead\Mummy Lord.md|Mummy Lord]]
 *Source: Monster Manual p. 229, Tasha's Cauldron of Everything. Available in the SRD.*  

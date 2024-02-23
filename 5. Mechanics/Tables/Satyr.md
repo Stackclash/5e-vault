@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Satyr"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Satyr
 ---
 # Satyr
 *Source: Hamund's Harvesting Handbook: Volume I p. 92* 

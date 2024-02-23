@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/class/cleric/war-domain
-- spell/class/paladin
-- spell/class/sorcerer/divine-soul
-- spell/level/1
-- spell/school/abjuration
-aliases: ["Shield of Faith"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/class/cleric/war-domain
+  - spell/class/paladin
+  - spell/class/sorcerer/divine-soul
+  - spell/level/1
+  - spell/school/abjuration
+aliases:
+  - Shield of Faith
 ---
 # Shield of Faith
 %%-- Embedded content starts on the next line. --%%

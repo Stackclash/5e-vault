@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["World-Shaking Events"]
+  - compendium/src/5e/dmg
+aliases:
+  - World-Shaking Events
 ---
 # World-Shaking Events
 *Source: Dungeon Master's Guide p. 27* 

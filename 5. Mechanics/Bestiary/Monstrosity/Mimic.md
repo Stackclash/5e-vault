@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/2
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/monstrosity/shapechanger
+  - compendium/src/5e/mm
+  - monster/cr/2
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/monstrosity/shapechanger
 statblock: inline
-aliases: ["Mimic"]
+aliases:
+  - Mimic
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Mimic.md|Mimic]]
 *Source: Monster Manual p. 220, Curse of Strahd. Available in the SRD.*  

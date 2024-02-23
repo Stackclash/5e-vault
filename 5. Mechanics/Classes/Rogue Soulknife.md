@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/tce
-- subclass/rogue/soulknife
-aliases: ["Soulknife"]
+  - compendium/src/5e/tce
+  - subclass/rogue/soulknife
+aliases:
+  - Soulknife
 ---
 # Soulknife
 *[[Rogue.md\|Rogue]]: Roguish Archetype*  

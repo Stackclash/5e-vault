@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/attunement/required
-- item/rarity/artifact
-- item/wondrous/wand
-aliases: 
-- "Wand of Orcus"
+  - compendium/src/5e/dmg
+  - item/attunement/required
+  - item/rarity/artifact
+  - item/wondrous/wand
+aliases:
+  - Wand of Orcus
 ---
 # Wand of Orcus
 *Wand, artifact (requires attunement)*  

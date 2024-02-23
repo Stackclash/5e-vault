@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-4
-- monster/environment/forest
-- monster/size/medium
-- monster/type/plant
+  - compendium/src/5e/mm
+  - monster/cr/1-4
+  - monster/environment/forest
+  - monster/size/medium
+  - monster/type/plant
 statblock: inline
-aliases: ["Needle Blight"]
+aliases:
+  - Needle Blight
 ---
 # [[5. Mechanics\Bestiary\Plant\Needle Blight.md|Needle Blight]]
 *Source: Monster Manual p. 32, Curse of Strahd*  

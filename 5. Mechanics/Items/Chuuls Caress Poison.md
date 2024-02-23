@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/gear
-- item/property/crfby
-- item/rarity/uncommon
-aliases: 
-- "Chuul's Caress Poison"
+  - compendium/src/5e/hhhvi
+  - item/gear
+  - item/property/crfby
+  - item/rarity/uncommon
+aliases:
+  - Chuul's Caress Poison
 ---
 # Chuul's Caress Poison
 *Adventuring Gear, uncommon, Crafted by*  

@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer/artillerist
-- spell/class/cleric/nature-domain
-- spell/class/druid
-- spell/class/ranger
-- spell/class/warlock/the-genie
-- spell/level/3
-- spell/school/evocation
-aliases: ["Wind Wall"]
+  - compendium/src/5e/phb
+  - spell/class/artificer/artillerist
+  - spell/class/cleric/nature-domain
+  - spell/class/druid
+  - spell/class/ranger
+  - spell/class/warlock/the-genie
+  - spell/level/3
+  - spell/school/evocation
+aliases:
+  - Wind Wall
 ---
 # Wind Wall
 %%-- Embedded content starts on the next line. --%%

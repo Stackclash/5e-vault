@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/10
-- monster/environment/desert
-- monster/environment/mountain
-- monster/environment/urban
-- monster/size/medium
-- monster/type/humanoid/gith
-- monster/type/humanoid/wizard
+  - compendium/src/5e/mpmm
+  - monster/cr/10
+  - monster/environment/desert
+  - monster/environment/mountain
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/humanoid/gith
+  - monster/type/humanoid/wizard
 statblock: inline
-aliases: ["Githyanki Gish"]
+aliases:
+  - Githyanki Gish
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Githyanki Gish.md|Githyanki Gish]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 140, Mordenkainen's Tome of Foes p. 205*  

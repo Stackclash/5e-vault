@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhviii
-aliases: ["Duergar Mind Master"]
+  - compendium/src/5e/hhhviii
+aliases:
+  - Duergar Mind Master
 ---
 # Duergar Mind Master
 *Source: Hamund's Harvesting Handbook: Volume III p. 40* 

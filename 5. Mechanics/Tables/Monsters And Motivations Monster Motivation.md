@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Monsters and Motivations; Monster Motivation"]
+  - compendium/src/5e/dmg
+aliases:
+  - Monsters and Motivations; Monster Motivation
 ---
 # Monsters and Motivations; Monster Motivation
 *Source: Dungeon Master's Guide p. 296* 

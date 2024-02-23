@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1
-- monster/environment/grassland
-- monster/size/medium
-- monster/type/construct
+  - compendium/src/5e/mm
+  - monster/cr/1
+  - monster/environment/grassland
+  - monster/size/medium
+  - monster/type/construct
 statblock: inline
-aliases: ["Scarecrow"]
+aliases:
+  - Scarecrow
 ---
 # [[5. Mechanics\Bestiary\Construct\Scarecrow.md|Scarecrow]]
 *Source: Monster Manual p. 268, Curse of Strahd*  

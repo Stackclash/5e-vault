@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vrgr
-aliases: ["Ghost's History"]
+  - compendium/src/5e/vrgr
+aliases:
+  - Ghost's History
 ---
 # Ghost's History
 *Source: Van Richten's Guide to Ravenloft p. 148* 

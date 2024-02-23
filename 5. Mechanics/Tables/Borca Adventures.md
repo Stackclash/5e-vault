@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vrgr
-aliases: ["Borca Adventures"]
+  - compendium/src/5e/vrgr
+aliases:
+  - Borca Adventures
 ---
 # Borca Adventures
 *Source: Van Richten's Guide to Ravenloft p. 81* 

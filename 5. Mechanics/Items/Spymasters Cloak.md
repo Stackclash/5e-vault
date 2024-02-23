@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/saf
-- item/rarity/uncommon
-- item/wondrous
-aliases: 
-- "Spymaster's Cloak"
+  - compendium/src/5e/saf
+  - item/rarity/uncommon
+  - item/wondrous
+aliases:
+  - Spymaster's Cloak
 ---
 # Spymaster's Cloak
 *Wondrous Item, uncommon*  

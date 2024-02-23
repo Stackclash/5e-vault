@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer
-- spell/class/cleric
-- spell/class/druid/circle-of-the-land
-- spell/class/paladin
-- spell/class/sorcerer/divine-soul
-- spell/class/warlock/the-genie
-- spell/level/3
-- spell/school/conjuration
-aliases: ["Create Food and Water"]
+  - compendium/src/5e/phb
+  - spell/class/artificer
+  - spell/class/cleric
+  - spell/class/druid/circle-of-the-land
+  - spell/class/paladin
+  - spell/class/sorcerer/divine-soul
+  - spell/class/warlock/the-genie
+  - spell/level/3
+  - spell/school/conjuration
+aliases:
+  - Create Food and Water
 ---
 # Create Food and Water
 %%-- Embedded content starts on the next line. --%%

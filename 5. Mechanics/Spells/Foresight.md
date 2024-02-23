@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/druid
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/9
-- spell/school/divination
-aliases: ["Foresight"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/druid
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/9
+  - spell/school/divination
+aliases:
+  - Foresight
 ---
 # Foresight
 %%-- Embedded content starts on the next line. --%%

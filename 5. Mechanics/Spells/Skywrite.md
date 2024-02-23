@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/xge
-- spell/class/artificer
-- spell/class/bard
-- spell/class/druid
-- spell/class/fighter/eldritch-knight
-- spell/class/rogue/arcane-trickster
-- spell/class/wizard
-- spell/level/2
-- spell/ritual
-- spell/school/transmutation
-aliases: ["Skywrite"]
+  - compendium/src/5e/xge
+  - spell/class/artificer
+  - spell/class/bard
+  - spell/class/druid
+  - spell/class/fighter/eldritch-knight
+  - spell/class/rogue/arcane-trickster
+  - spell/class/wizard
+  - spell/level/2
+  - spell/ritual
+  - spell/school/transmutation
+aliases:
+  - Skywrite
 ---
 # Skywrite
 %%-- Embedded content starts on the next line. --%%

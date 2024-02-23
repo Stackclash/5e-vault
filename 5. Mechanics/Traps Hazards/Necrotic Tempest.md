@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/tce
-- hazard/est
-aliases: ["Necrotic Tempest"]
+  - compendium/src/5e/tce
+  - hazard/est
+aliases:
+  - Necrotic Tempest
 ---
 # Necrotic Tempest
 *Eldritch Storm*  

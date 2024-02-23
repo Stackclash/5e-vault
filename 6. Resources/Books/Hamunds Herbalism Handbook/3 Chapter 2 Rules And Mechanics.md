@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/hhbh
-aliases:
-  - 'Chapter 2: Rules and Mechanics'
+- compendium/src/5e/hhbh
+aliases: ["Chapter 2: Rules and Mechanics"]
 ---
 # Chapter 2: Rules and Mechanics
 *Source: Hamund's Herbalism Handbook, p. 3* 

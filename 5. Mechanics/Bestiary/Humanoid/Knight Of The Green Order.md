@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/saf
-- monster/cr/unknown
-- monster/size/medium
-- monster/type/humanoid/any-race
+  - compendium/src/5e/saf
+  - monster/cr/unknown
+  - monster/size/medium
+  - monster/type/humanoid/any-race
 statblock: inline
-aliases: ["Knight of the Green Order"]
+aliases:
+  - Knight of the Green Order
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Knight Of The Green Order.md|Knight of the Green Order]]
 *Source: Strongholds and Followers p. 77*  

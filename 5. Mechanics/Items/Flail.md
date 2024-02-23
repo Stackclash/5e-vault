@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/property/martial
-- item/weapon/martial/melee
-aliases: 
-- "Flail"
+  - compendium/src/5e/phb
+  - item/property/martial
+  - item/weapon/martial/melee
+aliases:
+  - Flail
 cost: 1000
 ---
 # Flail

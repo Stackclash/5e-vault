@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/attunement/required
-- item/property/crfby
-- item/property/finesse
-- item/property/light
-- item/property/thrown
-- item/rarity/uncommon
-- item/weapon/simple/melee
-aliases: 
-- "Petrifying Dagger"
+  - compendium/src/5e/hhhvi
+  - item/attunement/required
+  - item/property/crfby
+  - item/property/finesse
+  - item/property/light
+  - item/property/thrown
+  - item/rarity/uncommon
+  - item/weapon/simple/melee
+aliases:
+  - Petrifying Dagger
 ---
 # Petrifying Dagger
 *Melee Weapon, uncommon, Crafted by (requires attunement)*  

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/xge
-- hazard/cmpx
-aliases: ["Poisoned Tempest"]
+  - compendium/src/5e/xge
+  - hazard/cmpx
+aliases:
+  - Poisoned Tempest
 ---
 # Poisoned Tempest
 *Generic Hazard*  

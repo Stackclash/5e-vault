@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhviii
-aliases: ["Corpse Flower"]
+  - compendium/src/5e/hhhviii
+aliases:
+  - Corpse Flower
 ---
 # Corpse Flower
 *Source: Hamund's Harvesting Handbook: Volume III p. 15* 

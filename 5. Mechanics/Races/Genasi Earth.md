@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/mpmm
-- race/genasi/earth
-aliases: ["Genasi (Earth)"]
+  - compendium/src/5e/mpmm
+  - race/genasi/earth
+aliases:
+  - Genasi (Earth)
 ---
 # Genasi (Earth)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 17*  

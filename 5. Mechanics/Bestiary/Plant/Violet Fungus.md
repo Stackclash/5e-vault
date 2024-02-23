@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-4
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/plant
+  - compendium/src/5e/mm
+  - monster/cr/1-4
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/plant
 statblock: inline
-aliases: ["Violet Fungus"]
+aliases:
+  - Violet Fungus
 ---
 # [[5. Mechanics\Bestiary\Plant\Violet Fungus.md|Violet Fungus]]
 *Source: Monster Manual p. 138. Available in the SRD.*  

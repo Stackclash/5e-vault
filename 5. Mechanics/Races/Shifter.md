@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/mpmm
-- race/shifter
-aliases: ["Shifter"]
+  - compendium/src/5e/mpmm
+  - race/shifter
+aliases:
+  - Shifter
 ---
 # Shifter
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 32*  

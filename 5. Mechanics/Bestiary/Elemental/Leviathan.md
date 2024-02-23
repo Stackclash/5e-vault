@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/20
-- monster/environment/coastal
-- monster/environment/underwater
-- monster/size/gargantuan
-- monster/type/elemental
+  - compendium/src/5e/mpmm
+  - monster/cr/20
+  - monster/environment/coastal
+  - monster/environment/underwater
+  - monster/size/gargantuan
+  - monster/type/elemental
 statblock: inline
-aliases: ["Leviathan"]
+aliases:
+  - Leviathan
 ---
 # [[5. Mechanics\Bestiary\Elemental\Leviathan.md|Leviathan]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 171, Mordenkainen's Tome of Foes p. 198*  

@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/cos
-- item/attunement/required
-- item/rarity/legendary
-- item/wondrous
-aliases: 
-- "Holy Symbol of Ravenkind"
+  - compendium/src/5e/cos
+  - item/attunement/required
+  - item/rarity/legendary
+  - item/wondrous
+aliases:
+  - Holy Symbol of Ravenkind
 ---
 # Holy Symbol of Ravenkind
 *Wondrous Item, legendary (requires attunement by a cleric or paladin of good alignment)*  

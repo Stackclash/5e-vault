@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/tce
-- item/attunement/required
-- item/rarity/common
-- item/wondrous
-aliases: 
-- "Illuminator's Tattoo"
+  - compendium/src/5e/tce
+  - item/attunement/required
+  - item/rarity/common
+  - item/wondrous
+aliases:
+  - Illuminator's Tattoo
 ---
 # Illuminator's Tattoo
 *Wondrous Item, common (requires attunement)*  

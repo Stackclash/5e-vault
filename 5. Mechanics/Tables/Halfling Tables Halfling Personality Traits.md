@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/mtf
-aliases: ["Halfling Tables; Halfling Personality Traits"]
+  - compendium/src/5e/mtf
+aliases:
+  - Halfling Tables; Halfling Personality Traits
 ---
 # Halfling Tables; Halfling Personality Traits
 *Source: Mordenkainen's Tome of Foes p. 105* 

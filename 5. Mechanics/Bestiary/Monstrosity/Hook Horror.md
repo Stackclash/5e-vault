@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/3
-- monster/environment/underdark
-- monster/size/large
-- monster/type/monstrosity
+  - compendium/src/5e/mm
+  - monster/cr/3
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Hook Horror"]
+aliases:
+  - Hook Horror
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Hook Horror.md|Hook Horror]]
 *Source: Monster Manual p. 189*  

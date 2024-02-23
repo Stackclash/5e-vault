@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/saf
-- monster/cr/7
-- monster/size/medium
-- monster/type/construct
+  - compendium/src/5e/saf
+  - monster/cr/7
+  - monster/size/medium
+  - monster/type/construct
 statblock: inline
-aliases: ["Change"]
+aliases:
+  - Change
 ---
 # [[5. Mechanics\Bestiary\Construct\Change.md|Change]]
 *Source: Strongholds and Followers p. 229*  

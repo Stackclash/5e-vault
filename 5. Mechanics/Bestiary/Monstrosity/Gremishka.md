@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/vrgr
-- monster/cr/1-8
-- monster/size/tiny
-- monster/type/monstrosity
+  - compendium/src/5e/vrgr
+  - monster/cr/1-8
+  - monster/size/tiny
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Gremishka"]
+aliases:
+  - Gremishka
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Gremishka.md|Gremishka]]
 *Source: Van Richten's Guide to Ravenloft p. 235*  

@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/saf
-aliases:
-  - The Tower
+- compendium/src/5e/saf
+aliases: ["The Tower"]
 ---
 # The Tower
 *Source: Strongholds and Followers* 

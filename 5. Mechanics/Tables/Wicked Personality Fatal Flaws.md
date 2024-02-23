@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vrgr
-aliases: ["Wicked Personality; Fatal Flaws"]
+  - compendium/src/5e/vrgr
+aliases:
+  - Wicked Personality; Fatal Flaws
 ---
 # Wicked Personality; Fatal Flaws
 *Source: Van Richten's Guide to Ravenloft p. 40* 

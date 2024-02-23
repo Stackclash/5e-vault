@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/tce
-- optional-feature/ai
-aliases: ["Resistant Armor"]
+  - compendium/src/5e/tce
+  - optional-feature/ai
+aliases:
+  - Resistant Armor
 ---
 # Resistant Armor
 *Source: Tasha's Cauldron of Everything p. 23, Eberron: Rising from the Last War p. 63*  

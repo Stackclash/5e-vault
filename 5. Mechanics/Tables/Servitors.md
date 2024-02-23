@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/saf
-aliases: ["Servitors"]
+  - compendium/src/5e/saf
+aliases:
+  - Servitors
 ---
 # Servitors
 *Source: Strongholds and Followers p. 31* 

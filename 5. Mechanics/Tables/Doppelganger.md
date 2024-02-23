@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Doppelganger"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Doppelganger
 ---
 # Doppelganger
 *Source: Hamund's Harvesting Handbook: Volume I p. 32* 

@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/6
-- monster/environment/grassland
-- monster/environment/hill
-- monster/size/huge
-- monster/type/giant/hill-giant
+  - compendium/src/5e/mpmm
+  - monster/cr/6
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/size/huge
+  - monster/type/giant/hill-giant
 statblock: inline
-aliases: ["Mouth of Grolantor"]
+aliases:
+  - Mouth of Grolantor
 ---
 # [[5. Mechanics\Bestiary\Giant\Mouth Of Grolantor.md|Mouth of Grolantor]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 187*  

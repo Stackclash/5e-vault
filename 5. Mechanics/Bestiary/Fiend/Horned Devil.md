@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/11
-- monster/size/large
-- monster/type/fiend/devil
+  - compendium/src/5e/mm
+  - monster/cr/11
+  - monster/size/large
+  - monster/type/fiend/devil
 statblock: inline
-aliases: ["Horned Devil"]
+aliases:
+  - Horned Devil
 ---
 # [[5. Mechanics\Bestiary\Fiend\Horned Devil.md|Horned Devil]]
 *Source: Monster Manual p. 74. Available in the SRD.*  

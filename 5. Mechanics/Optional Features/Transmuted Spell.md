@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/tce
-- optional-feature/mm
-aliases: ["Transmuted Spell"]
+  - compendium/src/5e/tce
+  - optional-feature/mm
+aliases:
+  - Transmuted Spell
 ---
 # Transmuted Spell
 *Source: Tasha's Cauldron of Everything p. 66*  

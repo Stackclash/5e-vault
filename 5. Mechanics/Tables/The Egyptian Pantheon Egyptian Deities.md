@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["The Egyptian Pantheon; Egyptian Deities"]
+  - compendium/src/5e/phb
+aliases:
+  - The Egyptian Pantheon; Egyptian Deities
 ---
 # The Egyptian Pantheon; Egyptian Deities
 *Source: Player's Handbook p. 297. Available in the SRD.* 

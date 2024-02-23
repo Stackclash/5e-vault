@@ -2,18 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/class/cleric/death-domain
-- spell/class/druid/circle-of-spores
-- spell/class/fighter/eldritch-knight
-- spell/class/paladin/oathbreaker
-- spell/class/rogue/arcane-trickster
-- spell/class/sorcerer/divine-soul
-- spell/class/wizard
-- spell/level/3
-- spell/school/necromancy
-aliases: ["Animate Dead"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/class/cleric/death-domain
+  - spell/class/druid/circle-of-spores
+  - spell/class/fighter/eldritch-knight
+  - spell/class/paladin/oathbreaker
+  - spell/class/rogue/arcane-trickster
+  - spell/class/sorcerer/divine-soul
+  - spell/class/wizard
+  - spell/level/3
+  - spell/school/necromancy
+aliases:
+  - Animate Dead
 ---
 # Animate Dead
 %%-- Embedded content starts on the next line. --%%

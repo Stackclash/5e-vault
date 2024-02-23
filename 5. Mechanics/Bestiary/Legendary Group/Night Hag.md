@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/mm
-- monster/legendary-group
-aliases: ["Night Hag"]
+  - compendium/src/5e/mm
+  - monster/legendary-group
+aliases:
+  - Night Hag
 ---
 # Night Hag
 

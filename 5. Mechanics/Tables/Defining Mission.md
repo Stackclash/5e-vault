@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Defining Mission"]
+  - compendium/src/5e/erlw
+aliases:
+  - Defining Mission
 ---
 # Defining Mission
 *Source: Eberron: Rising from the Last War p. 90* 

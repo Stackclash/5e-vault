@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/xge
-aliases: ["Arctic Encounters (Levels 11—16)"]
+  - compendium/src/5e/xge
+aliases:
+  - Arctic Encounters (Levels 11—16)
 ---
 # Arctic Encounters (Levels 11—16)
 *Source: Xanathar's Guide to Everything p. 92* 

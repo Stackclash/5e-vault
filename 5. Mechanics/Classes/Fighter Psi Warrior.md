@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/tce
-- subclass/fighter/psi-warrior
-aliases: ["Psi Warrior"]
+  - compendium/src/5e/tce
+  - subclass/fighter/psi-warrior
+aliases:
+  - Psi Warrior
 ---
 # Psi Warrior
 *[[Fighter.md\|Fighter]]: Martial Archetype*  

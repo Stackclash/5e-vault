@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/saf
-- item/rarity/uncommon
-- item/wondrous
-aliases: 
-- "Diplomat's Pouch"
+  - compendium/src/5e/saf
+  - item/rarity/uncommon
+  - item/wondrous
+aliases:
+  - Diplomat's Pouch
 ---
 # Diplomat's Pouch
 *Wondrous Item, uncommon*  

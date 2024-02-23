@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/7
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/aberration
+  - compendium/src/5e/mm
+  - monster/cr/7
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/aberration
 statblock: inline
-aliases: ["Mind Flayer"]
+aliases:
+  - Mind Flayer
 ---
 # [[5. Mechanics\Bestiary\Aberration\Mind Flayer.md|Mind Flayer]]
 *Source: Monster Manual p. 222, Eberron: Rising from the Last War, Tasha's Cauldron of Everything*  

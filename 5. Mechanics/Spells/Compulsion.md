@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/cleric/order-domain
-- spell/class/paladin/oath-of-glory
-- spell/level/4
-- spell/school/enchantment
-aliases: ["Compulsion"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/cleric/order-domain
+  - spell/class/paladin/oath-of-glory
+  - spell/level/4
+  - spell/school/enchantment
+aliases:
+  - Compulsion
 ---
 # Compulsion
 %%-- Embedded content starts on the next line. --%%

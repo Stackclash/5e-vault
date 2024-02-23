@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/saf
-- item/attunement/required
-- item/rarity/artifact
-- item/wondrous
-aliases: 
-- "Codex Mortis"
+  - compendium/src/5e/saf
+  - item/attunement/required
+  - item/rarity/artifact
+  - item/wondrous
+aliases:
+  - Codex Mortis
 ---
 # Codex Mortis
 *Wondrous Item, artifact (requires attunement)*  

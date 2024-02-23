@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Watch Your Step!; Falling in Sharn"]
+  - compendium/src/5e/erlw
+aliases:
+  - Watch Your Step!; Falling in Sharn
 ---
 # Watch Your Step!; Falling in Sharn
 *Source: Eberron: Rising from the Last War p. 152* 

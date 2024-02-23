@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/armor/light
-- item/attunement/required
-- item/property/crfby
-- item/rarity/uncommon
-aliases: 
-- "Grell Jerkin"
+  - compendium/src/5e/hhhvi
+  - item/armor/light
+  - item/attunement/required
+  - item/property/crfby
+  - item/rarity/uncommon
+aliases:
+  - Grell Jerkin
 ---
 # Grell Jerkin
 *Light Armor, uncommon, Crafted by (requires attunement)*  

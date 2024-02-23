@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer/battle-smith
-- spell/class/bard
-- spell/class/cleric
-- spell/class/cleric/life-domain
-- spell/class/druid
-- spell/class/druid/circle-of-wildfire
-- spell/class/sorcerer/divine-soul
-- spell/level/5
-- spell/school/evocation
-aliases: ["Mass Cure Wounds"]
+  - compendium/src/5e/phb
+  - spell/class/artificer/battle-smith
+  - spell/class/bard
+  - spell/class/cleric
+  - spell/class/cleric/life-domain
+  - spell/class/druid
+  - spell/class/druid/circle-of-wildfire
+  - spell/class/sorcerer/divine-soul
+  - spell/level/5
+  - spell/school/evocation
+aliases:
+  - Mass Cure Wounds
 ---
 # Mass Cure Wounds
 %%-- Embedded content starts on the next line. --%%

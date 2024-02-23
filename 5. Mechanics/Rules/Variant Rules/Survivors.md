@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vrgr
-aliases: ["Survivors"]
+  - compendium/src/5e/vrgr
+aliases:
+  - Survivors
 ---
 # Survivors
 *Source: Van Richten's Guide to Ravenloft p. 198* 

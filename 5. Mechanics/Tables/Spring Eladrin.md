@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhviii
-aliases: ["Spring Eladrin"]
+  - compendium/src/5e/hhhviii
+aliases:
+  - Spring Eladrin
 ---
 # Spring Eladrin
 *Source: Hamund's Harvesting Handbook: Volume III p. 42* 

@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/9
-- monster/size/large
-- monster/type/fiend/demon
+  - compendium/src/5e/mm
+  - monster/cr/9
+  - monster/size/large
+  - monster/type/fiend/demon
 statblock: inline
-aliases: ["Glabrezu"]
+aliases:
+  - Glabrezu
 ---
 # [[5. Mechanics\Bestiary\Fiend\Glabrezu.md|Glabrezu]]
 *Source: Monster Manual p. 58. Available in the SRD.*  

@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/11
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/humanoid/elf
+  - compendium/src/5e/mpmm
+  - monster/cr/11
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/humanoid/elf
 statblock: inline
-aliases: ["Shadar-kai Soul Monger"]
+aliases:
+  - Shadar-kai Soul Monger
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Shadar Kai Soul Monger.md|Shadar-kai Soul Monger]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 214, Mordenkainen's Tome of Foes p. 226*  

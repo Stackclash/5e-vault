@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
-- background
-- compendium/src/5e/phb
-aliases: ["Folk Hero"]
+  - background
+  - compendium/src/5e/phb
+aliases:
+  - Folk Hero
 ---
 # Folk Hero
 *Source: Player's Handbook p. 131. Available in the Basic Rules.*  

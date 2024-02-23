@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhviii
-aliases: ["The Lost"]
+  - compendium/src/5e/hhhviii
+aliases:
+  - The Lost
 ---
 # The Lost
 *Source: Hamund's Harvesting Handbook: Volume III p. 63* 

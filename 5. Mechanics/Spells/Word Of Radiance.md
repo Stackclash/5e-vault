@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/xge
-- spell/class/cleric
-- spell/class/sorcerer/divine-soul
-- spell/level/cantrip
-- spell/school/evocation
-aliases: ["Word of Radiance"]
+  - compendium/src/5e/xge
+  - spell/class/cleric
+  - spell/class/sorcerer/divine-soul
+  - spell/level/cantrip
+  - spell/school/evocation
+aliases:
+  - Word of Radiance
 ---
 # Word of Radiance
 %%-- Embedded content starts on the next line. --%%

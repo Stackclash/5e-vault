@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
-- background
-- compendium/src/5e/hhbh
-aliases: ["Herbalist"]
+  - background
+  - compendium/src/5e/hhbh
+aliases:
+  - Herbalist
 ---
 # Herbalist
 *Source: Hamund's Herbalism Handbook p. 40*  

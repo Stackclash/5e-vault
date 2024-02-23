@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vrgr
-aliases: ["Lethal Leverage"]
+  - compendium/src/5e/vrgr
+aliases:
+  - Lethal Leverage
 ---
 # Lethal Leverage
 *Source: Van Richten's Guide to Ravenloft p. 82* 

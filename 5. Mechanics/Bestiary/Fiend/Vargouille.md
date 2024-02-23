@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/1
-- monster/environment/desert
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/size/tiny
-- monster/type/fiend
+  - compendium/src/5e/mpmm
+  - monster/cr/1
+  - monster/environment/desert
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/size/tiny
+  - monster/type/fiend
 statblock: inline
-aliases: ["Vargouille"]
+aliases:
+  - Vargouille
 ---
 # [[5. Mechanics\Bestiary\Fiend\Vargouille.md|Vargouille]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 251*  

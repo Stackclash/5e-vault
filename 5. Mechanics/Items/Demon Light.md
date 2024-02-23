@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/attunement/required
-- item/property/crfby
-- item/rarity/very-rare
-- item/wondrous
-aliases: 
-- "Demon Light"
+  - compendium/src/5e/hhhvi
+  - item/attunement/required
+  - item/property/crfby
+  - item/rarity/very-rare
+  - item/wondrous
+aliases:
+  - Demon Light
 ---
 # Demon Light
 *Wondrous Item, very rare, Crafted by (requires attunement)*  

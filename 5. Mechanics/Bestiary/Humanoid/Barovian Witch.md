@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/cos
-- monster/cr/1-2
-- monster/size/medium
-- monster/type/humanoid/human
+  - compendium/src/5e/cos
+  - monster/cr/1-2
+  - monster/size/medium
+  - monster/type/humanoid/human
 statblock: inline
-aliases: ["Barovian Witch"]
+aliases:
+  - Barovian Witch
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Barovian Witch.md|Barovian Witch]]
 *Source: Curse of Strahd p. 229*  

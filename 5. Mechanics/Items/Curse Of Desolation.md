@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvii
-- item/gear/curse
-- item/property/crfby
-- item/rarity/rare
-aliases: 
-- "Curse of Desolation"
+  - compendium/src/5e/hhhvii
+  - item/gear/curse
+  - item/property/crfby
+  - item/rarity/rare
+aliases:
+  - Curse of Desolation
 ---
 # Curse of Desolation
 *Curse, rare, Crafted by*  

@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/vrgr
-- item/attunement/required
-- item/property/martial
-- item/property/versatile
-- item/rarity/legendary
-- item/weapon/martial/melee
-aliases: 
-- "Nepenthe"
+  - compendium/src/5e/vrgr
+  - item/attunement/required
+  - item/property/martial
+  - item/property/versatile
+  - item/rarity/legendary
+  - item/weapon/martial/melee
+aliases:
+  - Nepenthe
 ---
 # Nepenthe
 *Melee Weapon, legendary (requires attunement by a paladin)*  

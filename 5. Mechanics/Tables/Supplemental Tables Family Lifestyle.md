@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/xge
-aliases: ["Supplemental Tables; Family Lifestyle"]
+  - compendium/src/5e/xge
+aliases:
+  - Supplemental Tables; Family Lifestyle
 ---
 # Supplemental Tables; Family Lifestyle
 *Source: Xanathar's Guide to Everything p. 63* 

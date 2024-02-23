@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/21
-- monster/environment/swamp
-- monster/size/gargantuan
-- monster/type/dragon
+  - compendium/src/5e/mm
+  - monster/cr/21
+  - monster/environment/swamp
+  - monster/size/gargantuan
+  - monster/type/dragon
 statblock: inline
-aliases: ["Ancient Black Dragon"]
+aliases:
+  - Ancient Black Dragon
 ---
 # [[5. Mechanics\Bestiary\Dragon\Ancient Black Dragon.md|Ancient Black Dragon]]
 *Source: Monster Manual p. 87. Available in the SRD.*  

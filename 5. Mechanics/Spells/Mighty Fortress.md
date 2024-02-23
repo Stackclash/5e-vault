@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/xge
-- spell/class/wizard
-- spell/level/8
-- spell/school/conjuration
-aliases: ["Mighty Fortress"]
+  - compendium/src/5e/xge
+  - spell/class/wizard
+  - spell/level/8
+  - spell/school/conjuration
+aliases:
+  - Mighty Fortress
 ---
 # Mighty Fortress
 %%-- Embedded content starts on the next line. --%%

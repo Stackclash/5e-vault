@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Serving an Immortal; Immortal Missions"]
+  - compendium/src/5e/erlw
+aliases:
+  - Serving an Immortal; Immortal Missions
 ---
 # Serving an Immortal; Immortal Missions
 *Source: Eberron: Rising from the Last War p. 84* 

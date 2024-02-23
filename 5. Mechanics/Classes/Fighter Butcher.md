@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/hhhviii
-- subclass/fighter/butcher
-aliases: ["Butcher"]
+  - compendium/src/5e/hhhviii
+  - subclass/fighter/butcher
+aliases:
+  - Butcher
 ---
 # Butcher
 *[[Fighter.md\|Fighter]]: Martial Archetype*  

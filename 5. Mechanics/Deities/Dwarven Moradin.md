@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- compendium/src/5e/mtf
-- deity/dwarven
-- domain/forge
-- domain/knowledge
-aliases: ["Moradin"]
+  - compendium/src/5e/mtf
+  - deity/dwarven
+  - domain/forge
+  - domain/knowledge
+aliases:
+  - Moradin
 ---
 # Moradin
 *Source: Mordenkainen's Tome of Foes p. 72, Xanathar's Guide to Everything p. 18* 

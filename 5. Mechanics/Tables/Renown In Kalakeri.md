@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vrgr
-aliases: ["Renown in Kalakeri"]
+  - compendium/src/5e/vrgr
+aliases:
+  - Renown in Kalakeri
 ---
 # Renown in Kalakeri
 *Source: Van Richten's Guide to Ravenloft p. 130* 

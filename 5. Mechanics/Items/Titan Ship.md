@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/property/crfby
-- item/rarity/artifact
-- item/vehicle/airship
-aliases: 
-- "Titan Ship"
+  - compendium/src/5e/hhhvi
+  - item/property/crfby
+  - item/rarity/artifact
+  - item/vehicle/airship
+aliases:
+  - Titan Ship
 ---
 # Titan Ship
 *Airship, Vehicle (air), artifact, Crafted by*  

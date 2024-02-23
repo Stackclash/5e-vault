@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/5
-- monster/environment/grassland
-- monster/size/huge
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/5
+  - monster/environment/grassland
+  - monster/size/huge
+  - monster/type/beast
 statblock: inline
-aliases: ["Triceratops"]
+aliases:
+  - Triceratops
 ---
 # [[5. Mechanics\Bestiary\Beast\Triceratops.md|Triceratops]]
 *Source: Monster Manual p. 80. Available in the SRD and the Basic Rules.*  

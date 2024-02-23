@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/hhhviii
-- subclass/wizard/magi-zoologist
-aliases: ["Magi-Zoologist"]
+  - compendium/src/5e/hhhviii
+  - subclass/wizard/magi-zoologist
+aliases:
+  - Magi-Zoologist
 ---
 # Magi-Zoologist
 *[[Wizard.md\|Wizard]]: Arcane Tradition*  

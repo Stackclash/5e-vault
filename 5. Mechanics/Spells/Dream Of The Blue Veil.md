@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/tce
-- spell/level/7
-- spell/school/conjuration
-aliases: ["Dream of the Blue Veil"]
+  - compendium/src/5e/tce
+  - spell/level/7
+  - spell/school/conjuration
+aliases:
+  - Dream of the Blue Veil
 ---
 # Dream of the Blue Veil
 %%-- Embedded content starts on the next line. --%%

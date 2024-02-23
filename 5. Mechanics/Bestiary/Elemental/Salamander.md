@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/5
-- monster/environment/underdark
-- monster/size/large
-- monster/type/elemental
+  - compendium/src/5e/mm
+  - monster/cr/5
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/elemental
 statblock: inline
-aliases: ["Salamander"]
+aliases:
+  - Salamander
 ---
 # [[5. Mechanics\Bestiary\Elemental\Salamander.md|Salamander]]
 *Source: Monster Manual p. 266. Available in the SRD.*  

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Cleaving Through Creatures"]
+  - compendium/src/5e/dmg
+aliases:
+  - Cleaving Through Creatures
 ---
 # Cleaving Through Creatures
 *Source: Dungeon Master's Guide p. 272* 

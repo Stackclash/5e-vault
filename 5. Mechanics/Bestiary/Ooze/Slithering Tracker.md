@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/3
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/ooze
+  - compendium/src/5e/mpmm
+  - monster/cr/3
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/ooze
 statblock: inline
-aliases: ["Slithering Tracker"]
+aliases:
+  - Slithering Tracker
 ---
 # [[5. Mechanics\Bestiary\Ooze\Slithering Tracker.md|Slithering Tracker]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 221*  

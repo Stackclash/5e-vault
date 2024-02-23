@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/xge
-aliases: ["Desert Encounters (Levels 17—20)"]
+  - compendium/src/5e/xge
+aliases:
+  - Desert Encounters (Levels 17—20)
 ---
 # Desert Encounters (Levels 17—20)
 *Source: Xanathar's Guide to Everything p. 95* 

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Variant: Customizing Ability Scores; Ability Score Point Cost"]
+  - compendium/src/5e/phb
+aliases:
+  - 'Variant: Customizing Ability Scores; Ability Score Point Cost'
 ---
 # Variant: Customizing Ability Scores; Ability Score Point Cost
 *Source: Player's Handbook p. 13. Available in the SRD and the Basic Rules.* 

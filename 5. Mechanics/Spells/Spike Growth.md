@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric/nature-domain
-- spell/class/druid
-- spell/class/druid/circle-of-the-land
-- spell/class/ranger
-- spell/class/warlock/the-genie
-- spell/level/2
-- spell/school/transmutation
-aliases: ["Spike Growth"]
+  - compendium/src/5e/phb
+  - spell/class/cleric/nature-domain
+  - spell/class/druid
+  - spell/class/druid/circle-of-the-land
+  - spell/class/ranger
+  - spell/class/warlock/the-genie
+  - spell/level/2
+  - spell/school/transmutation
+aliases:
+  - Spike Growth
 ---
 # Spike Growth
 %%-- Embedded content starts on the next line. --%%

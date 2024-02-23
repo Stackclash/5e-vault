@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/5
-- monster/environment/forest
-- monster/environment/grassland
-- monster/size/gargantuan
-- monster/type/beast/dinosaur
+  - compendium/src/5e/mpmm
+  - monster/cr/5
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/size/gargantuan
+  - monster/type/beast/dinosaur
 statblock: inline
-aliases: ["Brontosaurus"]
+aliases:
+  - Brontosaurus
 ---
 # [[5. Mechanics\Bestiary\Beast\Brontosaurus.md|Brontosaurus]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 95*  

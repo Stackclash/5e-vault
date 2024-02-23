@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/17
-- monster/environment/desert
-- monster/size/large
-- monster/type/monstrosity
+  - compendium/src/5e/mm
+  - monster/cr/17
+  - monster/environment/desert
+  - monster/size/large
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Androsphinx"]
+aliases:
+  - Androsphinx
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Androsphinx.md|Androsphinx]]
 *Source: Monster Manual p. 281. Available in the SRD.*  

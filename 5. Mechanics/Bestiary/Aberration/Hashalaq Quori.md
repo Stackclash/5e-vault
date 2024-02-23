@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/erlw
-- monster/cr/9
-- monster/size/medium
-- monster/type/aberration
+  - compendium/src/5e/erlw
+  - monster/cr/9
+  - monster/size/medium
+  - monster/type/aberration
 statblock: inline
-aliases: ["Hashalaq Quori"]
+aliases:
+  - Hashalaq Quori
 ---
 # [[5. Mechanics\Bestiary\Aberration\Hashalaq Quori.md|Hashalaq Quori]]
 *Source: Eberron: Rising from the Last War p. 305*  

@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-vehicle
 tags:
-- compendium/src/5e/mtf
-- vehicle/size/huge
-- vehicle/terrain/air
-- vehicle/type/ship
-aliases: ["Planar Raider"]
+  - compendium/src/5e/mtf
+  - vehicle/size/huge
+  - vehicle/terrain/air
+  - vehicle/type/ship
+aliases:
+  - Planar Raider
 ---
 # Planar Raider
 %%-- Embedded content starts on the next line. --%%

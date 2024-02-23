@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvii
-aliases: ["Yuan-Ti Nightmare Speaker"]
+  - compendium/src/5e/hhhvii
+aliases:
+  - Yuan-Ti Nightmare Speaker
 ---
 # Yuan-Ti Nightmare Speaker
 *Source: Hamund's Harvesting Handbook: Volume II p. 48* 

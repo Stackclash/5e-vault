@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/12
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/underdark
-- monster/size/huge
-- monster/type/monstrosity
+  - compendium/src/5e/mpmm
+  - monster/cr/12
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/underdark
+  - monster/size/huge
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Yuan-ti Anathema"]
+aliases:
+  - Yuan-ti Anathema
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Yuan Ti Anathema.md|Yuan-ti Anathema]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 272*  

@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/hhbh
-- spell/class/artificer
-- spell/class/druid
-- spell/class/ranger
-- spell/class/sorcerer
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/2
-- spell/school/transmutation
-aliases: ["Hamund's Herbal Hypodermic"]
+  - compendium/src/5e/hhbh
+  - spell/class/artificer
+  - spell/class/druid
+  - spell/class/ranger
+  - spell/class/sorcerer
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/2
+  - spell/school/transmutation
+aliases:
+  - Hamund's Herbal Hypodermic
 ---
 # Hamund's Herbal Hypodermic
 %%-- Embedded content starts on the next line. --%%

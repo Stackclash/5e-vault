@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/attunement/required
-- item/property/martial
-- item/property/versatile
-- item/rarity/legendary
-- item/weapon/martial/melee
-aliases: 
-- "Moonblade"
+  - compendium/src/5e/dmg
+  - item/attunement/required
+  - item/property/martial
+  - item/property/versatile
+  - item/rarity/legendary
+  - item/weapon/martial/melee
+aliases:
+  - Moonblade
 ---
 # Moonblade
 *Melee Weapon, legendary (requires attunement by an elf or half-elf of neutral good alignment)*  

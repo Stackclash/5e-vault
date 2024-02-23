@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/tce
-- spell/class/fighter/eldritch-knight
-- spell/class/rogue/arcane-trickster
-- spell/level/3
-- spell/school/necromancy
-aliases: ["Summon Undead"]
+  - compendium/src/5e/tce
+  - spell/class/fighter/eldritch-knight
+  - spell/class/rogue/arcane-trickster
+  - spell/level/3
+  - spell/school/necromancy
+aliases:
+  - Summon Undead
 ---
 # Summon Undead
 %%-- Embedded content starts on the next line. --%%

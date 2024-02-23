@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/6
-- monster/environment/desert
-- monster/size/large
-- monster/type/dragon
+  - compendium/src/5e/mm
+  - monster/cr/6
+  - monster/environment/desert
+  - monster/size/large
+  - monster/type/dragon
 statblock: inline
-aliases: ["Young Brass Dragon"]
+aliases:
+  - Young Brass Dragon
 ---
 # [[5. Mechanics\Bestiary\Dragon\Young Brass Dragon.md|Young Brass Dragon]]
 *Source: Monster Manual p. 105. Available in the SRD.*  

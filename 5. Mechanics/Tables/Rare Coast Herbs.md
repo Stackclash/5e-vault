@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhbh
-aliases: ["Rare Coast Herbs"]
+  - compendium/src/5e/hhbh
+aliases:
+  - Rare Coast Herbs
 ---
 # Rare Coast Herbs
 *Source: Hamund's Herbalism Handbook p. 43* 

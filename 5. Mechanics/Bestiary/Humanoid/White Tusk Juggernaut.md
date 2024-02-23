@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/saf
-- monster/cr/4
-- monster/size/large
-- monster/type/humanoid/orc
+  - compendium/src/5e/saf
+  - monster/cr/4
+  - monster/size/large
+  - monster/type/humanoid/orc
 statblock: inline
-aliases: ["White Tusk Juggernaut"]
+aliases:
+  - White Tusk Juggernaut
 ---
 # [[5. Mechanics\Bestiary\Humanoid\White Tusk Juggernaut.md|White Tusk Juggernaut]]
 *Source: Strongholds and Followers p. 138*  

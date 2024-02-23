@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/erlw
-- item/attunement/required
-- item/gear/spellcasting-focus
-- item/rarity/common
-aliases: 
-- "Orb of Shielding"
+  - compendium/src/5e/erlw
+  - item/attunement/required
+  - item/gear/spellcasting-focus
+  - item/rarity/common
+aliases:
+  - Orb of Shielding
 ---
 # Orb of Shielding
 *Spellcasting Focus, common (requires attunement)*  

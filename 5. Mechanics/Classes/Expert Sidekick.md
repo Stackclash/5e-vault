@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/expert-sidekick
-- compendium/src/5e/tce
-aliases: ["Expert Sidekick"]
+  - class/expert-sidekick
+  - compendium/src/5e/tce
+aliases:
+  - Expert Sidekick
 ---
 # Expert Sidekick
 *Source: Tasha's Cauldron of Everything p. 142*  

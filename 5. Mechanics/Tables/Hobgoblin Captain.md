@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Hobgoblin Captain"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Hobgoblin Captain
 ---
 # Hobgoblin Captain
 *Source: Hamund's Harvesting Handbook: Volume I p. 65* 

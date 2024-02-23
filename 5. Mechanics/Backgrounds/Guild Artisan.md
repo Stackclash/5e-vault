@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
-- background
-- compendium/src/5e/phb
-aliases: ["Guild Artisan"]
+  - background
+  - compendium/src/5e/phb
+aliases:
+  - Guild Artisan
 ---
 # Guild Artisan
 *Source: Player's Handbook p. 132*  

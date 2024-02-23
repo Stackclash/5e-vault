@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/cos
-aliases:
-  - 'Foreword: Ravenloft Revisited'
+- compendium/src/5e/cos
+aliases: ["Foreword: Ravenloft Revisited"]
 ---
 # Foreword: Ravenloft Revisited
 *Source: Curse of Strahd, p. 4* 

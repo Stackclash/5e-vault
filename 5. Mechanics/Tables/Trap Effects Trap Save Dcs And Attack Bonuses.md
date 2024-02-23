@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Trap Effects; Trap Save DCs and Attack Bonuses"]
+  - compendium/src/5e/dmg
+aliases:
+  - Trap Effects; Trap Save DCs and Attack Bonuses
 ---
 # Trap Effects; Trap Save DCs and Attack Bonuses
 *Source: Dungeon Master's Guide p. 121. Available in the SRD.* 

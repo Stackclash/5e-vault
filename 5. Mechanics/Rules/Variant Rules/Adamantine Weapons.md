@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/xge
-aliases: ["Adamantine Weapons"]
+  - compendium/src/5e/xge
+aliases:
+  - Adamantine Weapons
 ---
 # Adamantine Weapons
 *Source: Xanathar's Guide to Everything p. 78* 

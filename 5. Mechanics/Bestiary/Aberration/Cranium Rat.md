@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/0
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/tiny
-- monster/type/aberration
+  - compendium/src/5e/mpmm
+  - monster/cr/0
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/tiny
+  - monster/type/aberration
 statblock: inline
-aliases: ["Cranium Rat"]
+aliases:
+  - Cranium Rat
 ---
 # [[5. Mechanics\Bestiary\Aberration\Cranium Rat.md|Cranium Rat]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 83*  

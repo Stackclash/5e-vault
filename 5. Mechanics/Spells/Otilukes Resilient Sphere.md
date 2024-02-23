@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer
-- spell/class/cleric/peace-domain
-- spell/class/fighter/eldritch-knight
-- spell/class/paladin/oath-of-redemption
-- spell/class/rogue/arcane-trickster
-- spell/class/wizard
-- spell/level/4
-- spell/school/evocation
-aliases: ["Otiluke's Resilient Sphere"]
+  - compendium/src/5e/phb
+  - spell/class/artificer
+  - spell/class/cleric/peace-domain
+  - spell/class/fighter/eldritch-knight
+  - spell/class/paladin/oath-of-redemption
+  - spell/class/rogue/arcane-trickster
+  - spell/class/wizard
+  - spell/level/4
+  - spell/school/evocation
+aliases:
+  - Otiluke's Resilient Sphere
 ---
 # Otiluke's Resilient Sphere
 %%-- Embedded content starts on the next line. --%%

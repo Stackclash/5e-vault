@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/xge
-aliases: ["Elf Names – Male Adult"]
+  - compendium/src/5e/xge
+aliases:
+  - Elf Names – Male Adult
 ---
 # Elf Names – Male Adult
 *Source: Xanathar's Guide to Everything p. 176* 

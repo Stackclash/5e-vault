@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Stirge"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Stirge
 ---
 # Stirge
 *Source: Hamund's Harvesting Handbook: Volume I p. 98* 

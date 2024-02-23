@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Special Features; What Is a Detail from Its History?"]
+  - compendium/src/5e/dmg
+aliases:
+  - Special Features; What Is a Detail from Its History?
 ---
 # Special Features; What Is a Detail from Its History?
 *Source: Dungeon Master's Guide p. 141* 

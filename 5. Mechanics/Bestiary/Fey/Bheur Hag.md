@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/7
-- monster/environment/arctic
-- monster/size/medium
-- monster/type/fey
+  - compendium/src/5e/mpmm
+  - monster/cr/7
+  - monster/environment/arctic
+  - monster/size/medium
+  - monster/type/fey
 statblock: inline
-aliases: ["Bheur Hag"]
+aliases:
+  - Bheur Hag
 ---
 # [[5. Mechanics\Bestiary\Fey\Bheur Hag.md|Bheur Hag]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 62*  

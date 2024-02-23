@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/12
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/humanoid/dwarf
+  - compendium/src/5e/mpmm
+  - monster/cr/12
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/humanoid/dwarf
 statblock: inline
-aliases: ["Duergar Despot"]
+aliases:
+  - Duergar Despot
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Duergar Despot.md|Duergar Despot]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 107, Mordenkainen's Tome of Foes p. 188*  

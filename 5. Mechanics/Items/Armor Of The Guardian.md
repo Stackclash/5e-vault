@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/armor/medium
-- item/attunement/required
-- item/property/crfby
-- item/rarity/rare
-aliases: 
-- "Armor of the Guardian"
+  - compendium/src/5e/hhhvi
+  - item/armor/medium
+  - item/attunement/required
+  - item/property/crfby
+  - item/rarity/rare
+aliases:
+  - Armor of the Guardian
 ---
 # Armor of the Guardian
 *Medium Armor, rare, Crafted by (requires attunement)*  

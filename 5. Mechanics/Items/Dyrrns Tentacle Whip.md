@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/erlw
-- item/attunement/required
-- item/property/finesse
-- item/property/martial
-- item/property/reach
-- item/rarity/very-rare
-- item/weapon/martial/melee
-aliases: 
-- "Dyrrn's Tentacle Whip"
+  - compendium/src/5e/erlw
+  - item/attunement/required
+  - item/property/finesse
+  - item/property/martial
+  - item/property/reach
+  - item/rarity/very-rare
+  - item/weapon/martial/melee
+aliases:
+  - Dyrrn's Tentacle Whip
 ---
 # Dyrrn's Tentacle Whip
 *Melee Weapon, very rare (requires attunement)*  

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/mtf
-aliases: ["Gith Random Height and Weight"]
+  - compendium/src/5e/mtf
+aliases:
+  - Gith Random Height and Weight
 ---
 # Gith Random Height and Weight
 *Source: Mordenkainen's Tome of Foes p. 96* 

@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer
-- spell/class/cleric
-- spell/class/druid
-- spell/class/paladin
-- spell/class/sorcerer/divine-soul
-- spell/level/1
-- spell/ritual
-- spell/school/transmutation
-aliases: ["Purify Food and Drink"]
+  - compendium/src/5e/phb
+  - spell/class/artificer
+  - spell/class/cleric
+  - spell/class/druid
+  - spell/class/paladin
+  - spell/class/sorcerer/divine-soul
+  - spell/level/1
+  - spell/ritual
+  - spell/school/transmutation
+aliases:
+  - Purify Food and Drink
 ---
 # Purify Food and Drink
 %%-- Embedded content starts on the next line. --%%

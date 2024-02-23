@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/7
-- monster/environment/underdark
-- monster/size/large
-- monster/type/fiend/demon
+  - compendium/src/5e/mpmm
+  - monster/cr/7
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/fiend/demon
 statblock: inline
-aliases: ["Armanite"]
+aliases:
+  - Armanite
 ---
 # [[5. Mechanics\Bestiary\Fiend\Armanite.md|Armanite]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 50, Mordenkainen's Tome of Foes p. 131*  

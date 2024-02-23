@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/6
-- monster/environment/hill
-- monster/environment/mountain
-- monster/size/large
-- monster/type/dragon
+  - compendium/src/5e/mm
+  - monster/cr/6
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/size/large
+  - monster/type/dragon
 statblock: inline
-aliases: ["Wyvern"]
+aliases:
+  - Wyvern
 ---
 # [[5. Mechanics\Bestiary\Dragon\Wyvern.md|Wyvern]]
 *Source: Monster Manual p. 303. Available in the SRD and the Basic Rules.*  

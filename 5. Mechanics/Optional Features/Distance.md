@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/saf
-- optional-feature/psi-man
-aliases: ["Distance"]
+  - compendium/src/5e/saf
+  - optional-feature/psi-man
+aliases:
+  - Distance
 ---
 # Distance
 *Source: Strongholds and Followers p. 195*  

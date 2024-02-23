@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/10
-- monster/size/medium
-- monster/type/aberration/shapechanger
+  - compendium/src/5e/mm
+  - monster/cr/10
+  - monster/size/medium
+  - monster/type/aberration/shapechanger
 statblock: inline
-aliases: ["Death Slaad"]
+aliases:
+  - Death Slaad
 ---
 # [[5. Mechanics\Bestiary\Aberration\Death Slaad.md|Death Slaad]]
 *Source: Monster Manual p. 278, Curse of Strahd, Tasha's Cauldron of Everything*  

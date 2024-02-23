@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/property/crfby
-- item/rarity/uncommon
-- item/wondrous/potion
-aliases: 
-- "Salamander Fire"
+  - compendium/src/5e/hhhvi
+  - item/property/crfby
+  - item/rarity/uncommon
+  - item/wondrous/potion
+aliases:
+  - Salamander Fire
 ---
 # Salamander Fire
 *Potion, uncommon, Crafted by*  

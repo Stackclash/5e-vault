@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/cleric/nature-domain
-- spell/class/druid
-- spell/class/ranger
-- spell/level/1
-- spell/school/enchantment
-aliases: ["Animal Friendship"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/cleric/nature-domain
+  - spell/class/druid
+  - spell/class/ranger
+  - spell/level/1
+  - spell/school/enchantment
+aliases:
+  - Animal Friendship
 ---
 # Animal Friendship
 %%-- Embedded content starts on the next line. --%%

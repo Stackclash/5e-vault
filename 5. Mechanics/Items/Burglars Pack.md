@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear
-aliases: 
-- "Burglar's Pack"
+  - compendium/src/5e/phb
+  - item/gear
+aliases:
+  - Burglar's Pack
 cost: 1600
 ---
 # Burglar's Pack

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhviii
-aliases: ["Duergar Warlord"]
+  - compendium/src/5e/hhhviii
+aliases:
+  - Duergar Warlord
 ---
 # Duergar Warlord
 *Source: Hamund's Harvesting Handbook: Volume III p. 41* 

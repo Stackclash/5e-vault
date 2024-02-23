@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/22
-- monster/environment/forest
-- monster/size/gargantuan
-- monster/type/dragon
+  - compendium/src/5e/mm
+  - monster/cr/22
+  - monster/environment/forest
+  - monster/size/gargantuan
+  - monster/type/dragon
 statblock: inline
-aliases: ["Ancient Green Dragon"]
+aliases:
+  - Ancient Green Dragon
 ---
 # [[5. Mechanics\Bestiary\Dragon\Ancient Green Dragon.md|Ancient Green Dragon]]
 *Source: Monster Manual p. 93. Available in the SRD.*  

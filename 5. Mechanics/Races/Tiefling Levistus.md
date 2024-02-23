@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/mtf
-- race/tiefling/levistus
-aliases: ["Tiefling (Levistus)"]
+  - compendium/src/5e/mtf
+  - race/tiefling/levistus
+aliases:
+  - Tiefling (Levistus)
 ---
 # Tiefling (Levistus)
 *Source: Mordenkainen's Tome of Foes p. 22*  

@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear
-aliases: 
-- "Priest's Pack"
+  - compendium/src/5e/phb
+  - item/gear
+aliases:
+  - Priest's Pack
 cost: 1900
 ---
 # Priest's Pack

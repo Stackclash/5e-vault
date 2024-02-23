@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/attunement/required
-- item/property/crfby
-- item/rarity/uncommon
-- item/wondrous
-aliases: 
-- "Diirinka's Boon"
+  - compendium/src/5e/hhhviii
+  - item/attunement/required
+  - item/property/crfby
+  - item/rarity/uncommon
+  - item/wondrous
+aliases:
+  - Diirinka's Boon
 ---
 # Diirinka's Boon
 *Wondrous Item, uncommon, Crafted by (requires attunement)*  

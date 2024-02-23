@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/1-2
-- monster/environment/forest
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/small
-- monster/type/fey
+  - compendium/src/5e/mpmm
+  - monster/cr/1-2
+  - monster/environment/forest
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/small
+  - monster/type/fey
 statblock: inline
-aliases: ["Darkling"]
+aliases:
+  - Darkling
 ---
 # [[5. Mechanics\Bestiary\Fey\Darkling.md|Darkling]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 84*  

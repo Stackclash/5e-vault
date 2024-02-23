@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/saf
-- optional-feature/unit
-aliases: ["Saxton's Riders"]
+  - compendium/src/5e/saf
+  - optional-feature/unit
+aliases:
+  - Saxton's Riders
 ---
 # Saxton's Riders
 *Source: Strongholds and Followers p. 149*  

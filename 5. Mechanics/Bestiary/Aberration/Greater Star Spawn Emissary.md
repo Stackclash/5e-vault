@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/vrgr
-- monster/cr/21
-- monster/size/huge
-- monster/type/aberration
+  - compendium/src/5e/vrgr
+  - monster/cr/21
+  - monster/size/huge
+  - monster/type/aberration
 statblock: inline
-aliases: ["Greater Star Spawn Emissary"]
+aliases:
+  - Greater Star Spawn Emissary
 ---
 # [[5. Mechanics\Bestiary\Aberration\Greater Star Spawn Emissary.md|Greater Star Spawn Emissary]]
 *Source: Van Richten's Guide to Ravenloft p. 245*  

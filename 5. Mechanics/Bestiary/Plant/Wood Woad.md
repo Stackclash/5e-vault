@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/5
-- monster/environment/forest
-- monster/size/medium
-- monster/type/plant
+  - compendium/src/5e/mpmm
+  - monster/cr/5
+  - monster/environment/forest
+  - monster/size/medium
+  - monster/type/plant
 statblock: inline
-aliases: ["Wood Woad"]
+aliases:
+  - Wood Woad
 ---
 # [[5. Mechanics\Bestiary\Plant\Wood Woad.md|Wood Woad]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 266*  

@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/5
-- monster/environment/urban
-- monster/size/medium
-- monster/type/humanoid
+  - compendium/src/5e/mpmm
+  - monster/cr/5
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/humanoid
 statblock: inline
-aliases: ["Master Thief"]
+aliases:
+  - Master Thief
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Master Thief.md|Master Thief]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 174*  

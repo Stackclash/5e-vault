@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/saf
-- monster/cr/7
-- monster/size/large
-- monster/type/dragon
+  - compendium/src/5e/saf
+  - monster/cr/7
+  - monster/size/large
+  - monster/type/dragon
 statblock: inline
-aliases: ["Young Topaz Dragon"]
+aliases:
+  - Young Topaz Dragon
 ---
 # [[5. Mechanics\Bestiary\Dragon\Young Topaz Dragon.md|Young Topaz Dragon]]
 *Source: Strongholds and Followers p. 219*  

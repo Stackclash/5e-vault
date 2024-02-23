@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/saf
-- monster/cr/10
-- monster/size/huge
-- monster/type/aberration
+  - compendium/src/5e/saf
+  - monster/cr/10
+  - monster/size/huge
+  - monster/type/aberration
 statblock: inline
-aliases: ["Maladar Dictum"]
+aliases:
+  - Maladar Dictum
 ---
 # [[5. Mechanics\Bestiary\Aberration\Maladar Dictum.md|Maladar Dictum]]
 *Source: Strongholds and Followers p. 175*  

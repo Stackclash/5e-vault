@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/erlw
-- monster/cr/0
-- monster/size/medium
-- monster/type/humanoid/any-race
+  - compendium/src/5e/erlw
+  - monster/cr/0
+  - monster/size/medium
+  - monster/type/humanoid/any-race
 statblock: inline
-aliases: ["Magewright"]
+aliases:
+  - Magewright
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Magewright.md|Magewright]]
 *Source: Eberron: Rising from the Last War p. 318*  

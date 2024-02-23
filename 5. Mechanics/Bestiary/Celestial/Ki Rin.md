@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/12
-- monster/environment/coastal
-- monster/environment/desert
-- monster/environment/grassland
-- monster/environment/mountain
-- monster/size/large
-- monster/type/celestial
+  - compendium/src/5e/mpmm
+  - monster/cr/12
+  - monster/environment/coastal
+  - monster/environment/desert
+  - monster/environment/grassland
+  - monster/environment/mountain
+  - monster/size/large
+  - monster/type/celestial
 statblock: inline
-aliases: ["Ki-rin"]
+aliases:
+  - Ki-rin
 ---
 # [[5. Mechanics\Bestiary\Celestial\Ki Rin.md|Ki-rin]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 162*  

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/xge
-- optional-feature/ei
-aliases: ["Relentless Hex"]
+  - compendium/src/5e/xge
+  - optional-feature/ei
+aliases:
+  - Relentless Hex
 ---
 # Relentless Hex
 *Source: Xanathar's Guide to Everything p. 57*  

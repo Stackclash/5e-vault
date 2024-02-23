@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/vrgr
-- monster/cr/1-2
-- monster/size/tiny
-- monster/type/undead
+  - compendium/src/5e/vrgr
+  - monster/cr/1-2
+  - monster/size/tiny
+  - monster/type/undead
 statblock: inline
-aliases: ["Death's Head"]
+aliases:
+  - Death's Head
 ---
 # [[5. Mechanics\Bestiary\Undead\Deaths Head.md|Death's Head]]
 *Source: Van Richten's Guide to Ravenloft p. 232*  

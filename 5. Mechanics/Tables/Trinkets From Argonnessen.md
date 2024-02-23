@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Trinkets from Argonnessen"]
+  - compendium/src/5e/erlw
+aliases:
+  - Trinkets from Argonnessen
 ---
 # Trinkets from Argonnessen
 *Source: Eberron: Rising from the Last War p. 134* 

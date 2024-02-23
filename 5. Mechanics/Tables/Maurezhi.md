@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhviii
-aliases: ["Maurezhi"]
+  - compendium/src/5e/hhhviii
+aliases:
+  - Maurezhi
 ---
 # Maurezhi
 *Source: Hamund's Harvesting Handbook: Volume III p. 20* 

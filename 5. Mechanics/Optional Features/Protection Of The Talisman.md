@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/tce
-- optional-feature/ei
-aliases: ["Protection of the Talisman"]
+  - compendium/src/5e/tce
+  - optional-feature/ei
+aliases:
+  - Protection of the Talisman
 ---
 # Protection of the Talisman
 *Source: Tasha's Cauldron of Everything p. 71*  

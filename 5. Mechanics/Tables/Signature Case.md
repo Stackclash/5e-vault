@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Signature Case"]
+  - compendium/src/5e/erlw
+aliases:
+  - Signature Case
 ---
 # Signature Case
 *Source: Eberron: Rising from the Last War p. 87* 

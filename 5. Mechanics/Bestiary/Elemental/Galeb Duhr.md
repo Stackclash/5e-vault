@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/6
-- monster/environment/hill
-- monster/environment/mountain
-- monster/size/medium
-- monster/type/elemental
+  - compendium/src/5e/mm
+  - monster/cr/6
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/size/medium
+  - monster/type/elemental
 statblock: inline
-aliases: ["Galeb Duhr"]
+aliases:
+  - Galeb Duhr
 ---
 # [[5. Mechanics\Bestiary\Elemental\Galeb Duhr.md|Galeb Duhr]]
 *Source: Monster Manual p. 139, Tasha's Cauldron of Everything*  

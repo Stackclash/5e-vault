@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/mtf
-aliases: ["Halfling Tables; Halfling Flaws"]
+  - compendium/src/5e/mtf
+aliases:
+  - Halfling Tables; Halfling Flaws
 ---
 # Halfling Tables; Halfling Flaws
 *Source: Mordenkainen's Tome of Foes p. 105* 

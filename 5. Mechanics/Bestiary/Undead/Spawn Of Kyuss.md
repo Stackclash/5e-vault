@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/5
-- monster/environment/desert
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/undead
+  - compendium/src/5e/mpmm
+  - monster/cr/5
+  - monster/environment/desert
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
-aliases: ["Spawn of Kyuss"]
+aliases:
+  - Spawn of Kyuss
 ---
 # [[5. Mechanics\Bestiary\Undead\Spawn Of Kyuss.md|Spawn of Kyuss]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 225*  

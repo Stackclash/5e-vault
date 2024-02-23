@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/saf
-- monster/cr/6
-- monster/size/medium
-- monster/type/celestial
+  - compendium/src/5e/saf
+  - monster/cr/6
+  - monster/size/medium
+  - monster/type/celestial
 statblock: inline
-aliases: ["Authority"]
+aliases:
+  - Authority
 ---
 # [[5. Mechanics\Bestiary\Celestial\Authority.md|Authority]]
 *Source: Strongholds and Followers p. 157*  

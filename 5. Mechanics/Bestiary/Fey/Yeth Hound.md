@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/4
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/size/large
-- monster/type/fey
+  - compendium/src/5e/mpmm
+  - monster/cr/4
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/size/large
+  - monster/type/fey
 statblock: inline
-aliases: ["Yeth Hound"]
+aliases:
+  - Yeth Hound
 ---
 # [[5. Mechanics\Bestiary\Fey\Yeth Hound.md|Yeth Hound]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 271*  

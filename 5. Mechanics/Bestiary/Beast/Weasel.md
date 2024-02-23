@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/0
-- monster/size/tiny
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/0
+  - monster/size/tiny
+  - monster/type/beast
 statblock: inline
-aliases: ["Weasel"]
+aliases:
+  - Weasel
 ---
 # [[5. Mechanics\Bestiary\Beast\Weasel.md|Weasel]]
 *Source: Monster Manual p. 340. Available in the SRD and the Basic Rules.*  

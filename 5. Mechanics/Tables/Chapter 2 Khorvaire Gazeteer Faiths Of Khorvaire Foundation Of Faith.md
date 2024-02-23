@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Chapter 2: Khorvaire Gazeteer - Faiths of Khorvaire; Foundation of Faith"]
+  - compendium/src/5e/erlw
+aliases:
+  - 'Chapter 2: Khorvaire Gazeteer - Faiths of Khorvaire; Foundation of Faith'
 ---
 # Chapter 2: Khorvaire Gazeteer - Faiths of Khorvaire; Foundation of Faith
 *Source: Eberron: Rising from the Last War p. 140* 

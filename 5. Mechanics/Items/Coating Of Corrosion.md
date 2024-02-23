@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/gear/oil
-- item/property/crfby
-- item/rarity/very-rare
-aliases: 
-- "Coating of Corrosion"
+  - compendium/src/5e/hhhviii
+  - item/gear/oil
+  - item/property/crfby
+  - item/rarity/very-rare
+aliases:
+  - Coating of Corrosion
 ---
 # Coating of Corrosion
 *Oil, very rare, Crafted by*  

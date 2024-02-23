@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer/armorer
-- spell/class/artificer/artillerist
-- spell/class/paladin/oath-of-redemption
-- spell/class/sorcerer/clockwork-soul
-- spell/class/wizard
-- spell/level/5
-- spell/school/evocation
-aliases: ["Wall of Force"]
+  - compendium/src/5e/phb
+  - spell/class/artificer/armorer
+  - spell/class/artificer/artillerist
+  - spell/class/paladin/oath-of-redemption
+  - spell/class/sorcerer/clockwork-soul
+  - spell/class/wizard
+  - spell/level/5
+  - spell/school/evocation
+aliases:
+  - Wall of Force
 ---
 # Wall of Force
 %%-- Embedded content starts on the next line. --%%

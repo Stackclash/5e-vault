@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/xge
-- feat
-aliases: ["Prodigy"]
+  - compendium/src/5e/xge
+  - feat
+aliases:
+  - Prodigy
 ---
 # Prodigy
 *Source: Xanathar's Guide to Everything p. 75*  

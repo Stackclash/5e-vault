@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/saf
-- monster/cr/4
-- monster/size/medium
-- monster/type/construct
+  - compendium/src/5e/saf
+  - monster/cr/4
+  - monster/size/medium
+  - monster/type/construct
 statblock: inline
-aliases: ["Machine Lieutenant"]
+aliases:
+  - Machine Lieutenant
 ---
 # [[5. Mechanics\Bestiary\Construct\Machine Lieutenant.md|Machine Lieutenant]]
 *Source: Strongholds and Followers p. 252*  

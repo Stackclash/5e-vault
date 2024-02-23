@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/xge
-aliases: ["Tool Proficiencies"]
+  - compendium/src/5e/xge
+aliases:
+  - Tool Proficiencies
 ---
 # Tool Proficiencies
 *Source: Xanathar's Guide to Everything p. 78* 

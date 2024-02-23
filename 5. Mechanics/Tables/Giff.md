@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhviii
-aliases: ["Giff"]
+  - compendium/src/5e/hhhviii
+aliases:
+  - Giff
 ---
 # Giff
 *Source: Hamund's Harvesting Handbook: Volume III p. 47* 

@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/1
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/size/medium
-- monster/type/beast/dinosaur
+  - compendium/src/5e/mpmm
+  - monster/cr/1
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/size/medium
+  - monster/type/beast/dinosaur
 statblock: inline
-aliases: ["Deinonychus"]
+aliases:
+  - Deinonychus
 ---
 # [[5. Mechanics\Bestiary\Beast\Deinonychus.md|Deinonychus]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 95*  

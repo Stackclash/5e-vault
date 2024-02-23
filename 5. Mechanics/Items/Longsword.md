@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/property/martial
-- item/property/versatile
-- item/weapon/martial/melee
-aliases: 
-- "Longsword"
+  - compendium/src/5e/phb
+  - item/property/martial
+  - item/property/versatile
+  - item/weapon/martial/melee
+aliases:
+  - Longsword
 cost: 1500
 ---
 # Longsword

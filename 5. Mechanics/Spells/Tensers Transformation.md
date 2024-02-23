@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/xge
-- spell/class/wizard
-- spell/level/6
-- spell/school/transmutation
-aliases: ["Tenser's Transformation"]
+  - compendium/src/5e/xge
+  - spell/class/wizard
+  - spell/level/6
+  - spell/school/transmutation
+aliases:
+  - Tenser's Transformation
 ---
 # Tenser's Transformation
 %%-- Embedded content starts on the next line. --%%

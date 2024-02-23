@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/sorcerer/aberrant-mind
-- spell/class/warlock/the-great-old-one
-- spell/level/1
-- spell/school/enchantment
-aliases: ["Dissonant Whispers"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/sorcerer/aberrant-mind
+  - spell/class/warlock/the-great-old-one
+  - spell/level/1
+  - spell/school/enchantment
+aliases:
+  - Dissonant Whispers
 ---
 # Dissonant Whispers
 %%-- Embedded content starts on the next line. --%%

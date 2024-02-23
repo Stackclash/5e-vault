@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/tce
-- optional-feature/ai
-aliases: ["Homunculus Servant"]
+  - compendium/src/5e/tce
+  - optional-feature/ai
+aliases:
+  - Homunculus Servant
 ---
 # Homunculus Servant
 *Source: Tasha's Cauldron of Everything p. 21, Eberron: Rising from the Last War p. 62*  

@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/erlw
-- monster/cr/2
-- monster/size/medium
-- monster/type/humanoid/human
+  - compendium/src/5e/erlw
+  - monster/cr/2
+  - monster/size/medium
+  - monster/type/humanoid/human
 statblock: inline
-aliases: ["Inspired"]
+aliases:
+  - Inspired
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Inspired.md|Inspired]]
 *Source: Eberron: Rising from the Last War p. 294*  

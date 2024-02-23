@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/property/crfby
-- item/rarity/rare
-- item/wondrous/potion
-aliases: 
-- "Drag-on Paste"
+  - compendium/src/5e/hhhvi
+  - item/property/crfby
+  - item/rarity/rare
+  - item/wondrous/potion
+aliases:
+  - Drag-on Paste
 ---
 # Drag-on Paste
 *Potion, rare, Crafted by*  

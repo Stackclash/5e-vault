@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/fighter/eldritch-knight
-- spell/class/rogue/arcane-trickster
-- spell/class/warlock/the-undead
-- spell/class/wizard
-- spell/level/3
-- spell/ritual
-- spell/school/illusion
-aliases: ["Phantom Steed"]
+  - compendium/src/5e/phb
+  - spell/class/fighter/eldritch-knight
+  - spell/class/rogue/arcane-trickster
+  - spell/class/warlock/the-undead
+  - spell/class/wizard
+  - spell/level/3
+  - spell/ritual
+  - spell/school/illusion
+aliases:
+  - Phantom Steed
 ---
 # Phantom Steed
 %%-- Embedded content starts on the next line. --%%

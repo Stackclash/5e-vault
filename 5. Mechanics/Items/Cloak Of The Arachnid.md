@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/attunement/required
-- item/property/crfby
-- item/rarity/very-rare
-- item/wondrous
-aliases: 
-- "Cloak of the Arachnid"
+  - compendium/src/5e/hhhviii
+  - item/attunement/required
+  - item/property/crfby
+  - item/rarity/very-rare
+  - item/wondrous
+aliases:
+  - Cloak of the Arachnid
 ---
 # Cloak of the Arachnid
 *Wondrous Item, very rare, Crafted by (requires attunement)*  

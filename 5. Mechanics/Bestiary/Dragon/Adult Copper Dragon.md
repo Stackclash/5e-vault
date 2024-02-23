@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/14
-- monster/environment/hill
-- monster/size/huge
-- monster/type/dragon
+  - compendium/src/5e/mm
+  - monster/cr/14
+  - monster/environment/hill
+  - monster/size/huge
+  - monster/type/dragon
 statblock: inline
-aliases: ["Adult Copper Dragon"]
+aliases:
+  - Adult Copper Dragon
 ---
 # [[5. Mechanics\Bestiary\Dragon\Adult Copper Dragon.md|Adult Copper Dragon]]
 *Source: Monster Manual p. 112. Available in the SRD.*  

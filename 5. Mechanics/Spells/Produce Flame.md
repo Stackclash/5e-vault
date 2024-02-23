@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric/nature-domain
-- spell/class/druid
-- spell/class/druid/circle-of-the-land
-- spell/level/cantrip
-- spell/school/conjuration
-aliases: ["Produce Flame"]
+  - compendium/src/5e/phb
+  - spell/class/cleric/nature-domain
+  - spell/class/druid
+  - spell/class/druid/circle-of-the-land
+  - spell/level/cantrip
+  - spell/school/conjuration
+aliases:
+  - Produce Flame
 ---
 # Produce Flame
 %%-- Embedded content starts on the next line. --%%

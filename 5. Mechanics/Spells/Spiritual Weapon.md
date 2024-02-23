@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/class/cleric/life-domain
-- spell/class/cleric/war-domain
-- spell/class/paladin/oath-of-conquest
-- spell/class/sorcerer/divine-soul
-- spell/level/2
-- spell/school/evocation
-aliases: ["Spiritual Weapon"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/class/cleric/life-domain
+  - spell/class/cleric/war-domain
+  - spell/class/paladin/oath-of-conquest
+  - spell/class/sorcerer/divine-soul
+  - spell/level/2
+  - spell/school/evocation
+aliases:
+  - Spiritual Weapon
 ---
 # Spiritual Weapon
 %%-- Embedded content starts on the next line. --%%

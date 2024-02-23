@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/4
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/size/medium
-- monster/type/humanoid/human
-- monster/type/humanoid/shapechanger
+  - compendium/src/5e/mm
+  - monster/cr/4
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/size/medium
+  - monster/type/humanoid/human
+  - monster/type/humanoid/shapechanger
 statblock: inline
-aliases: ["Wereboar"]
+aliases:
+  - Wereboar
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Wereboar.md|Wereboar]]
 *Source: Monster Manual p. 209, Tasha's Cauldron of Everything. Available in the SRD.*  

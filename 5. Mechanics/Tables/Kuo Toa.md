@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Kuo-Toa"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Kuo-Toa
 ---
 # Kuo-Toa
 *Source: Hamund's Harvesting Handbook: Volume I p. 71* 

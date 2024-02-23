@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvii
-- item/gear/curse
-- item/property/crfby
-- item/rarity/rare
-aliases: 
-- "Curse of Sun's Bane"
+  - compendium/src/5e/hhhvii
+  - item/gear/curse
+  - item/property/crfby
+  - item/rarity/rare
+aliases:
+  - Curse of Sun's Bane
 ---
 # Curse of Sun's Bane
 *Curse, rare, Crafted by*  

@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/10
-- monster/environment/underdark
-- monster/size/large
-- monster/type/aberration
+  - compendium/src/5e/mm
+  - monster/cr/10
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/aberration
 statblock: inline
-aliases: ["Aboleth"]
+aliases:
+  - Aboleth
 ---
 # [[5. Mechanics\Bestiary\Aberration\Aboleth.md|Aboleth]]
 *Source: Monster Manual p. 13. Available in the SRD.*  

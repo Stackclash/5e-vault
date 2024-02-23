@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/1-8
-- monster/environment/forest
-- monster/environment/hill
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/small
-- monster/type/fey
+  - compendium/src/5e/mpmm
+  - monster/cr/1-8
+  - monster/environment/forest
+  - monster/environment/hill
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/small
+  - monster/type/fey
 statblock: inline
-aliases: ["Boggle"]
+aliases:
+  - Boggle
 ---
 # [[5. Mechanics\Bestiary\Fey\Boggle.md|Boggle]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 65*  

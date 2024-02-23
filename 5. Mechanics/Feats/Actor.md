@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/phb
-- feat
-aliases: ["Actor"]
+  - compendium/src/5e/phb
+  - feat
+aliases:
+  - Actor
 ---
 # Actor
 *Source: Player's Handbook p. 165*  

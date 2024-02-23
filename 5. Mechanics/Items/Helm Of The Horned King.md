@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/attunement/required
-- item/property/crfa
-- item/rarity/artifact
-- item/wondrous
-aliases: 
-- "Helm of the Horned King"
+  - compendium/src/5e/hhhviii
+  - item/attunement/required
+  - item/property/crfa
+  - item/rarity/artifact
+  - item/wondrous
+aliases:
+  - Helm of the Horned King
 ---
 # Helm of the Horned King
 *Wondrous Item, artifact, Crafted Artifact (requires attunement)*  

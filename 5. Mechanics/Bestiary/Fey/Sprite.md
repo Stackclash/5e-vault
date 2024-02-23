@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-4
-- monster/environment/forest
-- monster/size/tiny
-- monster/type/fey
+  - compendium/src/5e/mm
+  - monster/cr/1-4
+  - monster/environment/forest
+  - monster/size/tiny
+  - monster/type/fey
 statblock: inline
-aliases: ["Sprite"]
+aliases:
+  - Sprite
 ---
 # [[5. Mechanics\Bestiary\Fey\Sprite.md|Sprite]]
 *Source: Monster Manual p. 283, Eberron: Rising from the Last War. Available in the SRD.*  

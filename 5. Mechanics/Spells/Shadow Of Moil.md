@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/xge
-- spell/class/warlock
-- spell/level/4
-- spell/school/necromancy
-aliases: ["Shadow of Moil"]
+  - compendium/src/5e/xge
+  - spell/class/warlock
+  - spell/level/4
+  - spell/school/necromancy
+aliases:
+  - Shadow of Moil
 ---
 # Shadow of Moil
 %%-- Embedded content starts on the next line. --%%

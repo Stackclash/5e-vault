@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/9
-- spell/school/transmutation
-aliases: ["True Polymorph"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/9
+  - spell/school/transmutation
+aliases:
+  - True Polymorph
 ---
 # True Polymorph
 %%-- Embedded content starts on the next line. --%%

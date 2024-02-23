@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/weapon/explosive
-aliases: 
-- "Fragmentation Grenade"
+  - compendium/src/5e/dmg
+  - item/weapon/explosive
+aliases:
+  - Fragmentation Grenade
 ---
 # Fragmentation Grenade
 *Explosive*  

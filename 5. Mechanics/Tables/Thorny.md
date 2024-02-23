@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvii
-aliases: ["Thorny"]
+  - compendium/src/5e/hhhvii
+aliases:
+  - Thorny
 ---
 # Thorny
 *Source: Hamund's Harvesting Handbook: Volume II p. 44* 

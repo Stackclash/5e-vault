@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Identify Important NPCs; Adventure Patrons"]
+  - compendium/src/5e/dmg
+aliases:
+  - Identify Important NPCs; Adventure Patrons
 ---
 # Identify Important NPCs; Adventure Patrons
 *Source: Dungeon Master's Guide p. 74* 

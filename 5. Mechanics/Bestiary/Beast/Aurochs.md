@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/2
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/size/large
-- monster/type/beast/cattle
+  - compendium/src/5e/mpmm
+  - monster/cr/2
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/size/large
+  - monster/type/beast/cattle
 statblock: inline
-aliases: ["Aurochs"]
+aliases:
+  - Aurochs
 ---
 # [[5. Mechanics\Bestiary\Beast\Aurochs.md|Aurochs]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 71*  

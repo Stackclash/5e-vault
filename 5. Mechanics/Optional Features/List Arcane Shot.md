@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/xge
-aliases: ["Arcane Shot"]
+  - compendium/src/5e/xge
+aliases:
+  - Arcane Shot
 ---
 # Arcane Shot
 *Source: Xanathar's Guide to Everything* 

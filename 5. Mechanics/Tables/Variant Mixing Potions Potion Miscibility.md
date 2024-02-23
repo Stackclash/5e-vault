@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Variant: Mixing Potions; Potion Miscibility"]
+  - compendium/src/5e/dmg
+aliases:
+  - 'Variant: Mixing Potions; Potion Miscibility'
 ---
 # Variant: Mixing Potions; Potion Miscibility
 *Source: Dungeon Master's Guide p. 140* 

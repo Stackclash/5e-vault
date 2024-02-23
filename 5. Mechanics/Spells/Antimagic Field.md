@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/class/sorcerer/divine-soul
-- spell/class/wizard
-- spell/level/8
-- spell/school/abjuration
-aliases: ["Antimagic Field"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/class/sorcerer/divine-soul
+  - spell/class/wizard
+  - spell/level/8
+  - spell/school/abjuration
+aliases:
+  - Antimagic Field
 ---
 # Antimagic Field
 %%-- Embedded content starts on the next line. --%%

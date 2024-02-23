@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Short-Term Madness"]
+  - compendium/src/5e/dmg
+aliases:
+  - Short-Term Madness
 ---
 # Short-Term Madness
 *Source: Dungeon Master's Guide p. 259. Available in the SRD.* 

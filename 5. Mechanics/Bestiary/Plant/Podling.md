@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/vrgr
-- monster/cr/1-2
-- monster/size/medium
-- monster/type/plant
+  - compendium/src/5e/vrgr
+  - monster/cr/1-2
+  - monster/size/medium
+  - monster/type/plant
 statblock: inline
-aliases: ["Podling"]
+aliases:
+  - Podling
 ---
 # [[5. Mechanics\Bestiary\Plant\Podling.md|Podling]]
 *Source: Van Richten's Guide to Ravenloft p. 227*  

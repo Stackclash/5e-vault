@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
-- background
-- compendium/src/5e/erlw
-aliases: ["House Agent"]
+  - background
+  - compendium/src/5e/erlw
+aliases:
+  - House Agent
 ---
 # House Agent
 *Source: Eberron: Rising from the Last War p. 53*  

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/dmg
-- hazard/wld
-aliases: ["Quicksand"]
+  - compendium/src/5e/dmg
+  - hazard/wld
+aliases:
+  - Quicksand
 ---
 # Quicksand
 *Wilderness Hazard*  

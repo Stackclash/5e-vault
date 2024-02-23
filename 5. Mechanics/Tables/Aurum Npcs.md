@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Aurum NPCs"]
+  - compendium/src/5e/erlw
+aliases:
+  - Aurum NPCs
 ---
 # Aurum NPCs
 *Source: Eberron: Rising from the Last War p. 187* 

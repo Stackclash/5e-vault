@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/property/crfby
-- item/rarity/rare
-- item/wondrous/potion
-aliases: 
-- "Potion of Adaptation"
+  - compendium/src/5e/hhhviii
+  - item/property/crfby
+  - item/rarity/rare
+  - item/wondrous/potion
+aliases:
+  - Potion of Adaptation
 ---
 # Potion of Adaptation
 *Potion, rare, Crafted by*  

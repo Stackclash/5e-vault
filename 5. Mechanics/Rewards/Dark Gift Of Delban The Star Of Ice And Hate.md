@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/cos
-- reward/charm
-aliases: ["Dark Gift of Delban, the Star of Ice and Hate"]
+  - compendium/src/5e/cos
+  - reward/charm
+aliases:
+  - 'Dark Gift of Delban, the Star of Ice and Hate'
 ---
 # Dark Gift of Delban, the Star of Ice and Hate
 *Charm*  

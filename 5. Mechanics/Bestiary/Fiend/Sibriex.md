@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/18
-- monster/environment/underdark
-- monster/size/huge
-- monster/type/fiend/demon
+  - compendium/src/5e/mpmm
+  - monster/cr/18
+  - monster/environment/underdark
+  - monster/size/huge
+  - monster/type/fiend/demon
 statblock: inline
-aliases: ["Sibriex"]
+aliases:
+  - Sibriex
 ---
 # [[5. Mechanics\Bestiary\Fiend\Sibriex.md|Sibriex]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 217, Mordenkainen's Tome of Foes p. 137*  

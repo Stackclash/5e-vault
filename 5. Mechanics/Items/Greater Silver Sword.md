@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/mtf
-- item/attunement/required
-- item/property/heavy
-- item/property/martial
-- item/property/two-handed
-- item/rarity/legendary
-- item/weapon/martial/melee
-aliases: 
-- "Greater Silver Sword"
+  - compendium/src/5e/mtf
+  - item/attunement/required
+  - item/property/heavy
+  - item/property/martial
+  - item/property/two-handed
+  - item/rarity/legendary
+  - item/weapon/martial/melee
+aliases:
+  - Greater Silver Sword
 ---
 # Greater Silver Sword
 *Melee Weapon, legendary (requires attunement by a creature that has psionic ability)*  

@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/9
-- monster/environment/coastal
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/size/medium
-- monster/type/fiend/gnoll
+  - compendium/src/5e/mpmm
+  - monster/cr/9
+  - monster/environment/coastal
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/size/medium
+  - monster/type/fiend/gnoll
 statblock: inline
-aliases: ["Flind"]
+aliases:
+  - Flind
 ---
 # [[5. Mechanics\Bestiary\Fiend\Flind.md|Flind]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 127*  

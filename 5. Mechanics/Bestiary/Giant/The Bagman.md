@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/vrgr
-- monster/cr/5
-- monster/size/large
-- monster/type/giant
+  - compendium/src/5e/vrgr
+  - monster/cr/5
+  - monster/size/large
+  - monster/type/giant
 statblock: inline
-aliases: ["The Bagman"]
+aliases:
+  - The Bagman
 ---
 # [[5. Mechanics\Bestiary\Giant\The Bagman.md|The Bagman]]
 *Source: Van Richten's Guide to Ravenloft p. 225*  

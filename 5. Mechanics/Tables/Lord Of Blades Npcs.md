@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Lord of Blades NPCs"]
+  - compendium/src/5e/erlw
+aliases:
+  - Lord of Blades NPCs
 ---
 # Lord of Blades NPCs
 *Source: Eberron: Rising from the Last War p. 214* 

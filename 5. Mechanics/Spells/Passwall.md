@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer/armorer
-- spell/class/druid/circle-of-the-land
-- spell/class/wizard
-- spell/level/5
-- spell/school/transmutation
-aliases: ["Passwall"]
+  - compendium/src/5e/phb
+  - spell/class/artificer/armorer
+  - spell/class/druid/circle-of-the-land
+  - spell/class/wizard
+  - spell/level/5
+  - spell/school/transmutation
+aliases:
+  - Passwall
 ---
 # Passwall
 %%-- Embedded content starts on the next line. --%%

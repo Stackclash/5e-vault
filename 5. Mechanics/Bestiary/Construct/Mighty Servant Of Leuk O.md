@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/tce
-- monster/cr/
-- monster/size/huge
-- monster/type/construct
+  - compendium/src/5e/tce
+  - monster/cr/
+  - monster/size/huge
+  - monster/type/construct
 statblock: inline
-aliases: ["Mighty Servant of Leuk-o"]
+aliases:
+  - Mighty Servant of Leuk-o
 ---
 # [[5. Mechanics\Bestiary\Construct\Mighty Servant Of Leuk O.md|Mighty Servant of Leuk-o]]
 *Source: Tasha's Cauldron of Everything p. 131*  

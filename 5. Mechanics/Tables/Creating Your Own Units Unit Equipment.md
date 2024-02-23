@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/saf
-aliases: ["Creating Your Own Units; Unit Equipment"]
+  - compendium/src/5e/saf
+aliases:
+  - Creating Your Own Units; Unit Equipment
 ---
 # Creating Your Own Units; Unit Equipment
 *Source: Strongholds and Followers* 

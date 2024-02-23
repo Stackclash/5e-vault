@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Newspaper Contact"]
+  - compendium/src/5e/erlw
+aliases:
+  - Newspaper Contact
 ---
 # Newspaper Contact
 *Source: Eberron: Rising from the Last War p. 95* 

@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1
-- monster/environment/underwater
-- monster/size/medium
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/1
+  - monster/environment/underwater
+  - monster/size/medium
+  - monster/type/beast
 statblock: inline
-aliases: ["Swarm of Quippers"]
+aliases:
+  - Swarm of Quippers
 ---
 # [[5. Mechanics\Bestiary\Beast\Swarm Of Quippers.md|Swarm of Quippers]]
 *Source: Monster Manual p. 338. Available in the SRD and the Basic Rules.*  

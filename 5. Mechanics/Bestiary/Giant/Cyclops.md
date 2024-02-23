@@ -2,18 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/6
-- monster/environment/coastal
-- monster/environment/desert
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/size/huge
-- monster/type/giant
+  - compendium/src/5e/mm
+  - monster/cr/6
+  - monster/environment/coastal
+  - monster/environment/desert
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/size/huge
+  - monster/type/giant
 statblock: inline
-aliases: ["Cyclops"]
+aliases:
+  - Cyclops
 ---
 # [[5. Mechanics\Bestiary\Giant\Cyclops.md|Cyclops]]
 *Source: Monster Manual p. 45. Available in the Basic Rules.*  

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Mysterious Passengers"]
+  - compendium/src/5e/erlw
+aliases:
+  - Mysterious Passengers
 ---
 # Mysterious Passengers
 *Source: Eberron: Rising from the Last War p. 238* 

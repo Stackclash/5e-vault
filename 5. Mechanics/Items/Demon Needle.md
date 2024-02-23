@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/attunement/required
-- item/rarity/rare
-- item/wondrous/wondrous-item
-aliases: 
-- "Demon Needle"
-- "Demon Needle Pike"
-- "Demon Needle Spear"
-- "Demon Needle Lance"
+  - compendium/src/5e/hhhvi
+  - item/attunement/required
+  - item/rarity/rare
+  - item/wondrous/wondrous-item
+aliases:
+  - Demon Needle
+  - Demon Needle Pike
+  - Demon Needle Spear
+  - Demon Needle Lance
 ---
 # Demon Needle
 *Generic Variant, rare (requires attunement)*  

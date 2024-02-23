@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/2
-- monster/size/medium
-- monster/type/humanoid/gith
+  - compendium/src/5e/mm
+  - monster/cr/2
+  - monster/size/medium
+  - monster/type/humanoid/gith
 statblock: inline
-aliases: ["Githzerai Monk"]
+aliases:
+  - Githzerai Monk
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Githzerai Monk.md|Githzerai Monk]]
 *Source: Monster Manual p. 161*  

@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/property/ammunition
-- item/property/loading
-- item/property/martial
-- item/weapon/martial/ranged
-aliases: 
-- "Blowgun"
+  - compendium/src/5e/phb
+  - item/property/ammunition
+  - item/property/loading
+  - item/property/martial
+  - item/weapon/martial/ranged
+aliases:
+  - Blowgun
 cost: 1000
 ---
 # Blowgun

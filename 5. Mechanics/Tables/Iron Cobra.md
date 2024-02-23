@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhviii
-aliases: ["Iron Cobra"]
+  - compendium/src/5e/hhhviii
+aliases:
+  - Iron Cobra
 ---
 # Iron Cobra
 *Source: Hamund's Harvesting Handbook: Volume III p. 13* 

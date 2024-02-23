@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/saf
-- optional-feature/unit
-aliases: ["The Blue Dragonflight"]
+  - compendium/src/5e/saf
+  - optional-feature/unit
+aliases:
+  - The Blue Dragonflight
 ---
 # The Blue Dragonflight
 *Source: Strongholds and Followers p. 148*  

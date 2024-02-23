@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhviii
-aliases: ["Kruthik Hive Lord"]
+  - compendium/src/5e/hhhviii
+aliases:
+  - Kruthik Hive Lord
 ---
 # Kruthik Hive Lord
 *Source: Hamund's Harvesting Handbook: Volume III p. 50* 

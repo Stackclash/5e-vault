@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/saf
-- item/attunement/required
-- item/property/light
-- item/rarity/very-rare
-- item/weapon/simple/melee
-aliases: 
-- "Harvest"
+  - compendium/src/5e/saf
+  - item/attunement/required
+  - item/property/light
+  - item/rarity/very-rare
+  - item/weapon/simple/melee
+aliases:
+  - Harvest
 ---
 # Harvest
 *Melee Weapon, very rare (requires attunement by an evil creature)*  

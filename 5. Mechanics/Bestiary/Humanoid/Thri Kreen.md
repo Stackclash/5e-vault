@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1
-- monster/environment/desert
-- monster/environment/grassland
-- monster/size/medium
-- monster/type/humanoid/thri-kreen
+  - compendium/src/5e/mm
+  - monster/cr/1
+  - monster/environment/desert
+  - monster/environment/grassland
+  - monster/size/medium
+  - monster/type/humanoid/thri-kreen
 statblock: inline
-aliases: ["Thri-kreen"]
+aliases:
+  - Thri-kreen
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Thri Kreen.md|Thri-kreen]]
 *Source: Monster Manual p. 288*  

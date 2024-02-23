@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Khoravar Origin"]
+  - compendium/src/5e/erlw
+aliases:
+  - Khoravar Origin
 ---
 # Khoravar Origin
 *Source: Eberron: Rising from the Last War p. 26* 

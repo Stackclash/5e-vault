@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/12
-- monster/environment/forest
-- monster/environment/hill
-- monster/size/large
-- monster/type/monstrosity
+  - compendium/src/5e/mpmm
+  - monster/cr/12
+  - monster/environment/forest
+  - monster/environment/hill
+  - monster/size/large
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Gray Render"]
+aliases:
+  - Gray Render
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Gray Render.md|Gray Render]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 146, Mordenkainen's Tome of Foes p. 209*  

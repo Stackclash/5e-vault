@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/cos
-- item/attunement/required
-- item/property/versatile
-- item/rarity/very-rare
-- item/wondrous/staff
-aliases: 
-- "Jakarion's Staff of Frost"
+  - compendium/src/5e/cos
+  - item/attunement/required
+  - item/property/versatile
+  - item/rarity/very-rare
+  - item/wondrous/staff
+aliases:
+  - Jakarion's Staff of Frost
 ---
 # Jakarion's Staff of Frost
 *Staff, very rare (requires attunement by a druid, sorcerer, warlock, or wizard)*  

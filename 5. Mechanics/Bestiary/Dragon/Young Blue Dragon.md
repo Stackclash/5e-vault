@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/9
-- monster/environment/coastal
-- monster/environment/desert
-- monster/size/large
-- monster/type/dragon
+  - compendium/src/5e/mm
+  - monster/cr/9
+  - monster/environment/coastal
+  - monster/environment/desert
+  - monster/size/large
+  - monster/type/dragon
 statblock: inline
-aliases: ["Young Blue Dragon"]
+aliases:
+  - Young Blue Dragon
 ---
 # [[5. Mechanics\Bestiary\Dragon\Young Blue Dragon.md|Young Blue Dragon]]
 *Source: Monster Manual p. 91, Curse of Strahd. Available in the SRD.*  

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Ruined Dhakaani Fort Adventures; Ruined Fort Adventures"]
+  - compendium/src/5e/erlw
+aliases:
+  - Ruined Dhakaani Fort Adventures; Ruined Fort Adventures
 ---
 # Ruined Dhakaani Fort Adventures; Ruined Fort Adventures
 *Source: Eberron: Rising from the Last War p. 199* 

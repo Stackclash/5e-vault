@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/mtf
-- race/tiefling/mammon
-aliases: ["Tiefling (Mammon)"]
+  - compendium/src/5e/mtf
+  - race/tiefling/mammon
+aliases:
+  - Tiefling (Mammon)
 ---
 # Tiefling (Mammon)
 *Source: Mordenkainen's Tome of Foes p. 22*  

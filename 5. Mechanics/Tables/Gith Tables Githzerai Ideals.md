@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/mtf
-aliases: ["Gith Tables; Githzerai Ideals"]
+  - compendium/src/5e/mtf
+aliases:
+  - Gith Tables; Githzerai Ideals
 ---
 # Gith Tables; Githzerai Ideals
 *Source: Mordenkainen's Tome of Foes p. 97* 

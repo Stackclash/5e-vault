@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/vrgr
-- monster/cr/1
-- monster/size/small
-- monster/type/construct
+  - compendium/src/5e/vrgr
+  - monster/cr/1
+  - monster/size/small
+  - monster/type/construct
 statblock: inline
-aliases: ["Carrionette"]
+aliases:
+  - Carrionette
 ---
 # [[5. Mechanics\Bestiary\Construct\Carrionette.md|Carrionette]]
 *Source: Van Richten's Guide to Ravenloft p. 231*  

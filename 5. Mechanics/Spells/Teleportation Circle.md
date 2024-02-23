@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/ranger/horizon-walker
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/5
-- spell/school/conjuration
-aliases: ["Teleportation Circle"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/ranger/horizon-walker
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/5
+  - spell/school/conjuration
+aliases:
+  - Teleportation Circle
 ---
 # Teleportation Circle
 %%-- Embedded content starts on the next line. --%%

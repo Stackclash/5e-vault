@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Orc Eye of Gruumsh"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Orc Eye of Gruumsh
 ---
 # Orc Eye of Gruumsh
 *Source: Hamund's Harvesting Handbook: Volume I p. 83* 

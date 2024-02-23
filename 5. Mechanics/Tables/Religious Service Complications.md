@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/xge
-aliases: ["Religious Service Complications"]
+  - compendium/src/5e/xge
+aliases:
+  - Religious Service Complications
 ---
 # Religious Service Complications
 *Source: Xanathar's Guide to Everything p. 132* 

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Creating NPCs from Scratch; NPC Features"]
+  - compendium/src/5e/dmg
+aliases:
+  - Creating NPCs from Scratch; NPC Features
 ---
 # Creating NPCs from Scratch; NPC Features
 *Source: Dungeon Master's Guide p. 282* 

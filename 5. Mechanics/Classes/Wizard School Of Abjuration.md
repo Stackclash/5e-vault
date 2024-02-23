@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/phb
-- subclass/wizard/abjuration
-aliases: ["School of Abjuration"]
+  - compendium/src/5e/phb
+  - subclass/wizard/abjuration
+aliases:
+  - School of Abjuration
 ---
 # School of Abjuration
 *[[Wizard.md\|Wizard]]: Arcane Tradition*  

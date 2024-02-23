@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhviii
-aliases: ["Giff Trinket Table"]
+  - compendium/src/5e/hhhviii
+aliases:
+  - Giff Trinket Table
 ---
 # Giff Trinket Table
 *Source: Hamund's Harvesting Handbook: Volume III p. 47* 

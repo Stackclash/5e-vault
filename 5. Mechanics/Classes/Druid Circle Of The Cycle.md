@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/hhhviii
-- subclass/druid/cycle
-aliases: ["Circle of the Cycle"]
+  - compendium/src/5e/hhhviii
+  - subclass/druid/cycle
+aliases:
+  - Circle of the Cycle
 ---
 # Circle of the Cycle
 *[[Druid.md\|Druid]]: Druid Circle*  

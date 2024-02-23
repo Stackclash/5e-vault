@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Weapons"]
+  - compendium/src/5e/phb
+aliases:
+  - Weapons
 ---
 # Weapons
 *Source: Player's Handbook p. 146. Available in the SRD and the Basic Rules.* 

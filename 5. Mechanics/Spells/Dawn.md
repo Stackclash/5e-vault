@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/xge
-- spell/class/cleric
-- spell/class/sorcerer/divine-soul
-- spell/class/wizard
-- spell/level/5
-- spell/school/evocation
-aliases: ["Dawn"]
+  - compendium/src/5e/xge
+  - spell/class/cleric
+  - spell/class/sorcerer/divine-soul
+  - spell/class/wizard
+  - spell/level/5
+  - spell/school/evocation
+aliases:
+  - Dawn
 ---
 # Dawn
 %%-- Embedded content starts on the next line. --%%

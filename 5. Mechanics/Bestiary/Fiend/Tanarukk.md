@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/5
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/fiend/demon
+  - compendium/src/5e/mpmm
+  - monster/cr/5
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/fiend/demon
 statblock: inline
-aliases: ["Tanarukk"]
+aliases:
+  - Tanarukk
 ---
 # [[5. Mechanics\Bestiary\Fiend\Tanarukk.md|Tanarukk]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 240*  

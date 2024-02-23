@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vrgr
-aliases: ["Concluding the Siege; Zombie Siege Climax"]
+  - compendium/src/5e/vrgr
+aliases:
+  - Concluding the Siege; Zombie Siege Climax
 ---
 # Concluding the Siege; Zombie Siege Climax
 *Source: Van Richten's Guide to Ravenloft p. 105* 

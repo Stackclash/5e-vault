@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/xge
-- subclass/monk/drunken-master
-aliases: ["Way of the Drunken Master"]
+  - compendium/src/5e/xge
+  - subclass/monk/drunken-master
+aliases:
+  - Way of the Drunken Master
 ---
 # Way of the Drunken Master
 *[[Monk.md\|Monk]]: Monastic Tradition*  

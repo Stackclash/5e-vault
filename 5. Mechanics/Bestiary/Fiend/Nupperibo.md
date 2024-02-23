@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/1-2
-- monster/size/medium
-- monster/type/fiend/devil
+  - compendium/src/5e/mpmm
+  - monster/cr/1-2
+  - monster/size/medium
+  - monster/type/fiend/devil
 statblock: inline
-aliases: ["Nupperibo"]
+aliases:
+  - Nupperibo
 ---
 # [[5. Mechanics\Bestiary\Fiend\Nupperibo.md|Nupperibo]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 196, Mordenkainen's Tome of Foes p. 168*  

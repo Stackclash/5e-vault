@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Helmed Horror"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Helmed Horror
 ---
 # Helmed Horror
 *Source: Hamund's Harvesting Handbook: Volume I p. 64* 

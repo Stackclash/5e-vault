@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/dmg
-- hazard/mag
-aliases: ["Sphere of Annihilation"]
+  - compendium/src/5e/dmg
+  - hazard/mag
+aliases:
+  - Sphere of Annihilation
 ---
 # Sphere of Annihilation
 *Magical Trap*  

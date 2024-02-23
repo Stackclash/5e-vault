@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/xge
-- subclass/barbarian/ancestral-guardian
-aliases: ["Path of the Ancestral Guardian"]
+  - compendium/src/5e/xge
+  - subclass/barbarian/ancestral-guardian
+aliases:
+  - Path of the Ancestral Guardian
 ---
 # Path of the Ancestral Guardian
 *[[Barbarian.md\|Barbarian]]: Primal Path*  

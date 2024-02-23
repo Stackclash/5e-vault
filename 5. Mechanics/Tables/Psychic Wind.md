@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Psychic Wind"]
+  - compendium/src/5e/dmg
+aliases:
+  - Psychic Wind
 ---
 # Psychic Wind
 *Source: Dungeon Master's Guide p. 47* 

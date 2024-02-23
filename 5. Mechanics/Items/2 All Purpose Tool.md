@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/tce
-- item/attunement/required
-- item/rarity/rare
-- item/wondrous
-aliases: 
-- "+2 All-Purpose Tool"
+  - compendium/src/5e/tce
+  - item/attunement/required
+  - item/rarity/rare
+  - item/wondrous
+aliases:
+  - +2 All-Purpose Tool
 ---
 # +2 All-Purpose Tool
 *Wondrous Item, rare (requires attunement by an artificer)*  

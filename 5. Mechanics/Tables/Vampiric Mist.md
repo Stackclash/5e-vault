@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhviii
-aliases: ["Vampiric Mist"]
+  - compendium/src/5e/hhhviii
+aliases:
+  - Vampiric Mist
 ---
 # Vampiric Mist
 *Source: Hamund's Harvesting Handbook: Volume III p. 71* 

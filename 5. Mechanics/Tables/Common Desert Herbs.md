@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhbh
-aliases: ["Common Desert Herbs"]
+  - compendium/src/5e/hhbh
+aliases:
+  - Common Desert Herbs
 ---
 # Common Desert Herbs
 *Source: Hamund's Herbalism Handbook p. 42* 

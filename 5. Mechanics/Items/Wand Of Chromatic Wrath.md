@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/attunement/required
-- item/property/crfby
-- item/rarity/legendary
-- item/wondrous/wand
-aliases: 
-- "Wand of Chromatic Wrath"
+  - compendium/src/5e/hhhviii
+  - item/attunement/required
+  - item/property/crfby
+  - item/rarity/legendary
+  - item/wondrous/wand
+aliases:
+  - Wand of Chromatic Wrath
 ---
 # Wand of Chromatic Wrath
 *Wand, legendary, Crafted by (requires attunement by a spellcaster)*  

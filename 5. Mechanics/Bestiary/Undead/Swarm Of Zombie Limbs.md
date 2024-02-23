@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/vrgr
-- monster/cr/1
-- monster/size/medium
-- monster/type/undead
+  - compendium/src/5e/vrgr
+  - monster/cr/1
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
-aliases: ["Swarm of Zombie Limbs"]
+aliases:
+  - Swarm of Zombie Limbs
 ---
 # [[5. Mechanics\Bestiary\Undead\Swarm Of Zombie Limbs.md|Swarm of Zombie Limbs]]
 *Source: Van Richten's Guide to Ravenloft p. 254*  

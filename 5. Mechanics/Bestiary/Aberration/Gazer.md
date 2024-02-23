@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/1-2
-- monster/environment/underdark
-- monster/size/tiny
-- monster/type/aberration/beholder
+  - compendium/src/5e/mpmm
+  - monster/cr/1-2
+  - monster/environment/underdark
+  - monster/size/tiny
+  - monster/type/aberration/beholder
 statblock: inline
-aliases: ["Gazer"]
+aliases:
+  - Gazer
 ---
 # [[5. Mechanics\Bestiary\Aberration\Gazer.md|Gazer]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 134*  

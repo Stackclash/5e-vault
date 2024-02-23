@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/6
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/aberration/beholder
+  - compendium/src/5e/mpmm
+  - monster/cr/6
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/aberration/beholder
 statblock: inline
-aliases: ["Gauth"]
+aliases:
+  - Gauth
 ---
 # [[5. Mechanics\Bestiary\Aberration\Gauth.md|Gauth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 133*  

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/dmg
-- hazard/wth
-aliases: ["Extreme Cold"]
+  - compendium/src/5e/dmg
+  - hazard/wth
+aliases:
+  - Extreme Cold
 ---
 # Extreme Cold
 *Weather*  

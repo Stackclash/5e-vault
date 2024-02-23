@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/cleric
-- spell/class/druid
-- spell/class/sorcerer/divine-soul
-- spell/class/wizard
-- spell/level/5
-- spell/school/abjuration
-aliases: ["Planar Binding"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/cleric
+  - spell/class/druid
+  - spell/class/sorcerer/divine-soul
+  - spell/class/wizard
+  - spell/level/5
+  - spell/school/abjuration
+aliases:
+  - Planar Binding
 ---
 # Planar Binding
 %%-- Embedded content starts on the next line. --%%

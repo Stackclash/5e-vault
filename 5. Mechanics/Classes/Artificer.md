@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/artificer
-- compendium/src/5e/tce
-aliases: ["Artificer"]
+  - class/artificer
+  - compendium/src/5e/tce
+aliases:
+  - Artificer
 ---
 # Artificer
 *Source: Tasha's Cauldron of Everything p. 9, Eberron: Rising from the Last War p. 54*  

@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/saf
-- monster/cr/22
-- monster/size/gargantuan
-- monster/type/dragon
+  - compendium/src/5e/saf
+  - monster/cr/22
+  - monster/size/gargantuan
+  - monster/type/dragon
 statblock: inline
-aliases: ["Ancient Amethyst Dragon"]
+aliases:
+  - Ancient Amethyst Dragon
 ---
 # [[5. Mechanics\Bestiary\Dragon\Ancient Amethyst Dragon.md|Ancient Amethyst Dragon]]
 *Source: Strongholds and Followers p. 221*  

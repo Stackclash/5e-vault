@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/undead
+  - compendium/src/5e/mm
+  - monster/cr/1
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
-aliases: ["Ghoul"]
+aliases:
+  - Ghoul
 ---
 # [[5. Mechanics\Bestiary\Undead\Ghoul.md|Ghoul]]
 *Source: Monster Manual p. 148, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  

@@ -2,21 +2,22 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/2
-- monster/environment/arctic
-- monster/environment/coastal
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/size/large
-- monster/type/giant
+  - compendium/src/5e/mm
+  - monster/cr/2
+  - monster/environment/arctic
+  - monster/environment/coastal
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/giant
 statblock: inline
-aliases: ["Ogre"]
+aliases:
+  - Ogre
 ---
 # [[5. Mechanics\Bestiary\Giant\Ogre.md|Ogre]]
 *Source: Monster Manual p. 237, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  

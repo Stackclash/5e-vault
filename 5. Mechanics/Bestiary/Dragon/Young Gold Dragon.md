@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/10
-- monster/environment/forest
-- monster/environment/grassland
-- monster/size/large
-- monster/type/dragon
+  - compendium/src/5e/mm
+  - monster/cr/10
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/size/large
+  - monster/type/dragon
 statblock: inline
-aliases: ["Young Gold Dragon"]
+aliases:
+  - Young Gold Dragon
 ---
 # [[5. Mechanics\Bestiary\Dragon\Young Gold Dragon.md|Young Gold Dragon]]
 *Source: Monster Manual p. 115. Available in the SRD.*  

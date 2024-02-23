@@ -2,18 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/cleric/nature-domain
-- spell/class/druid
-- spell/class/druid/circle-of-the-land
-- spell/class/druid/circle-of-wildfire
-- spell/class/paladin/oath-of-the-ancients
-- spell/class/ranger
-- spell/class/warlock/the-archfey
-- spell/level/3
-- spell/school/transmutation
-aliases: ["Plant Growth"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/cleric/nature-domain
+  - spell/class/druid
+  - spell/class/druid/circle-of-the-land
+  - spell/class/druid/circle-of-wildfire
+  - spell/class/paladin/oath-of-the-ancients
+  - spell/class/ranger
+  - spell/class/warlock/the-archfey
+  - spell/level/3
+  - spell/school/transmutation
+aliases:
+  - Plant Growth
 ---
 # Plant Growth
 %%-- Embedded content starts on the next line. --%%

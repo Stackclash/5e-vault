@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/5
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/monstrosity/warlock
+  - compendium/src/5e/mpmm
+  - monster/cr/5
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/monstrosity/warlock
 statblock: inline
-aliases: ["Yuan-ti Pit Master"]
+aliases:
+  - Yuan-ti Pit Master
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Yuan Ti Pit Master.md|Yuan-ti Pit Master]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 276*  

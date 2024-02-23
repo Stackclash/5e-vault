@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/saf
-aliases:
-  - 'Part 3: The Ruins of Castle Rend'
+- compendium/src/5e/saf
+aliases: ["Part 3: The Ruins of Castle Rend"]
 ---
 # Part 3: The Ruins of Castle Rend
 *Source: The Siege of Castle Rend, p. 115* 

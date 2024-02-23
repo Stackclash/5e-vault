@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Storm Giant"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Storm Giant
 ---
 # Storm Giant
 *Source: Hamund's Harvesting Handbook: Volume I p. 53* 

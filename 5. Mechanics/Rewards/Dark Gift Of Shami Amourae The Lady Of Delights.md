@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/cos
-- reward/charm
-aliases: ["Dark Gift of Shami-Amourae, the Lady of Delights"]
+  - compendium/src/5e/cos
+  - reward/charm
+aliases:
+  - 'Dark Gift of Shami-Amourae, the Lady of Delights'
 ---
 # Dark Gift of Shami-Amourae, the Lady of Delights
 *Charm*  

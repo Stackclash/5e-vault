@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/saf
-aliases:
-  - Units
+- compendium/src/5e/saf
+aliases: ["Units"]
 ---
 # Units
 *Source: The Siege of Castle Rend* 

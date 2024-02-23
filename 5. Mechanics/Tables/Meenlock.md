@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvii
-aliases: ["Meenlock"]
+  - compendium/src/5e/hhhvii
+aliases:
+  - Meenlock
 ---
 # Meenlock
 *Source: Hamund's Harvesting Handbook: Volume II p. 31* 

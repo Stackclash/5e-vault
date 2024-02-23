@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Hierarchy; Order Reputation"]
+  - compendium/src/5e/erlw
+aliases:
+  - Hierarchy; Order Reputation
 ---
 # Hierarchy; Order Reputation
 *Source: Eberron: Rising from the Last War p. 97* 

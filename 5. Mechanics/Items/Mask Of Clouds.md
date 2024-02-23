@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvii
-- item/attunement/required
-- item/property/crfby
-- item/rarity/very-rare
-- item/wondrous
-aliases: 
-- "Mask of Clouds"
+  - compendium/src/5e/hhhvii
+  - item/attunement/required
+  - item/property/crfby
+  - item/rarity/very-rare
+  - item/wondrous
+aliases:
+  - Mask of Clouds
 ---
 # Mask of Clouds
 *Wondrous Item, very rare, Crafted by (requires attunement by a bard or [[5. Mechanics/Classes/Cleric Trickery Domain.md\|Trickster Domain]] cleric)*  

@@ -2,18 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer
-- spell/class/cleric
-- spell/class/cleric/grave-domain
-- spell/class/cleric/life-domain
-- spell/class/druid/circle-of-wildfire
-- spell/class/paladin
-- spell/class/sorcerer/divine-soul
-- spell/class/warlock/the-celestial
-- spell/level/3
-- spell/school/necromancy
-aliases: ["Revivify"]
+  - compendium/src/5e/phb
+  - spell/class/artificer
+  - spell/class/cleric
+  - spell/class/cleric/grave-domain
+  - spell/class/cleric/life-domain
+  - spell/class/druid/circle-of-wildfire
+  - spell/class/paladin
+  - spell/class/sorcerer/divine-soul
+  - spell/class/warlock/the-celestial
+  - spell/level/3
+  - spell/school/necromancy
+aliases:
+  - Revivify
 ---
 # Revivify
 %%-- Embedded content starts on the next line. --%%

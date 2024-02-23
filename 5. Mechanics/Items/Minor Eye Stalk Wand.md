@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvii
-- item/property/crfby
-- item/rarity/uncommon
-- item/wondrous/wand
-aliases: 
-- "Minor Eye Stalk Wand"
+  - compendium/src/5e/hhhvii
+  - item/property/crfby
+  - item/rarity/uncommon
+  - item/wondrous/wand
+aliases:
+  - Minor Eye Stalk Wand
 ---
 # Minor Eye Stalk Wand
 *Wand, uncommon, Crafted by*  

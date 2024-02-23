@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/phb
-- optional-feature/ed
-aliases: ["Clench of the North Wind"]
+  - compendium/src/5e/phb
+  - optional-feature/ed
+aliases:
+  - Clench of the North Wind
 ---
 # Clench of the North Wind
 *Source: Player's Handbook p. 81*  

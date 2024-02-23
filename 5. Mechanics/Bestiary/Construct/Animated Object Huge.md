@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/phb
-- monster/cr/
-- monster/size/huge
-- monster/type/construct
+  - compendium/src/5e/phb
+  - monster/cr/
+  - monster/size/huge
+  - monster/type/construct
 statblock: inline
-aliases: ["Animated Object (Huge)"]
+aliases:
+  - Animated Object (Huge)
 ---
 # [[5. Mechanics\Bestiary\Construct\Animated Object Huge.md|Animated Object (Huge)]]
 *Source: Player's Handbook p. 213*  

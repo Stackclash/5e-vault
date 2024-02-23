@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vrgr
-aliases: ["The Secret of Darkon's Doom; Azalin's Fate"]
+  - compendium/src/5e/vrgr
+aliases:
+  - The Secret of Darkon's Doom; Azalin's Fate
 ---
 # The Secret of Darkon's Doom; Azalin's Fate
 *Source: Van Richten's Guide to Ravenloft p. 92* 

@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/hhhvii
-aliases:
-  - 'Hamund''s Harvesting Handbook: Volume II'
+- compendium/src/5e/hhhvii
+aliases: ["Hamund's Harvesting Handbook: Volume II"]
 ---
 # Hamund's Harvesting Handbook: Volume II
 *Source: Hamund's Harvesting Handbook: Volume II, p. 1* 

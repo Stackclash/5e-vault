@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear
-aliases: 
-- "Oil (flask)"
+  - compendium/src/5e/phb
+  - item/gear
+aliases:
+  - Oil (flask)
 cost: 10
 ---
 # Oil (flask)

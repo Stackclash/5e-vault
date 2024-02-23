@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhviii
-aliases: ["Narzugon"]
+  - compendium/src/5e/hhhviii
+aliases:
+  - Narzugon
 ---
 # Narzugon
 *Source: Hamund's Harvesting Handbook: Volume III p. 33* 

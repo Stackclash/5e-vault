@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/tce
-- optional-feature/ai
-aliases: ["Armor of Magical Strength"]
+  - compendium/src/5e/tce
+  - optional-feature/ai
+aliases:
+  - Armor of Magical Strength
 ---
 # Armor of Magical Strength
 *Source: Tasha's Cauldron of Everything p. 20*  

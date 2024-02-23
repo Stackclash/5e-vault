@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/tce
-- domain/peace
-- subclass/cleric/peace
-aliases: ["Peace Domain"]
+  - compendium/src/5e/tce
+  - domain/peace
+  - subclass/cleric/peace
+aliases:
+  - Peace Domain
 ---
 # Peace Domain
 *[[Cleric.md\|Cleric]]: Divine Domain*  

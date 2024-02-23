@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Gatekeeper Seal Adventures"]
+  - compendium/src/5e/erlw
+aliases:
+  - Gatekeeper Seal Adventures
 ---
 # Gatekeeper Seal Adventures
 *Source: Eberron: Rising from the Last War p. 202* 

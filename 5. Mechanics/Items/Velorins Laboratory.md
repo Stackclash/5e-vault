@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/saf
-- item/gear/requires-installation
-- item/rarity/rare
-aliases: 
-- "Velorin's Laboratory"
+  - compendium/src/5e/saf
+  - item/gear/requires-installation
+  - item/rarity/rare
+aliases:
+  - Velorin's Laboratory
 ---
 # Velorin's Laboratory
 *requires installation, rare*  

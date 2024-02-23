@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/mtf
-- race/tiefling/glasya
-aliases: ["Tiefling (Glasya)"]
+  - compendium/src/5e/mtf
+  - race/tiefling/glasya
+aliases:
+  - Tiefling (Glasya)
 ---
 # Tiefling (Glasya)
 *Source: Mordenkainen's Tome of Foes p. 22*  

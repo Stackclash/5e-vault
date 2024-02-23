@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/tce
-aliases: ["Criminal Syndicate Contact; Syndicate Contact"]
+  - compendium/src/5e/tce
+aliases:
+  - Criminal Syndicate Contact; Syndicate Contact
 ---
 # Criminal Syndicate Contact; Syndicate Contact
 *Source: Tasha's Cauldron of Everything p. 92* 

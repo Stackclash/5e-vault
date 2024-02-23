@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Black Pudding"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Black Pudding
 ---
 # Black Pudding
 *Source: Hamund's Harvesting Handbook: Volume I p. 82* 

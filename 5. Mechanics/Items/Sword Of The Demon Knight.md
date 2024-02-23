@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/saf
-- item/attunement/required
-- item/property/martial
-- item/property/versatile
-- item/rarity/very-rare
-- item/weapon/martial/melee
-aliases: 
-- "Sword of the Demon Knight"
+  - compendium/src/5e/saf
+  - item/attunement/required
+  - item/property/martial
+  - item/property/versatile
+  - item/rarity/very-rare
+  - item/weapon/martial/melee
+aliases:
+  - Sword of the Demon Knight
 ---
 # Sword of the Demon Knight
 *Melee Weapon, very rare (requires attunement by an evil creature)*  

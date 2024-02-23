@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/saf
-- item/attunement/required
-- item/property/finesse
-- item/property/light
-- item/property/martial
-- item/rarity/very-rare
-- item/weapon/martial/melee
-aliases: 
-- "The Tyrant's Twinblades, Vincere and Punire"
+  - compendium/src/5e/saf
+  - item/attunement/required
+  - item/property/finesse
+  - item/property/light
+  - item/property/martial
+  - item/rarity/very-rare
+  - item/weapon/martial/melee
+aliases:
+  - 'The Tyrant''s Twinblades, Vincere and Punire'
 ---
 # The Tyrant's Twinblades, Vincere and Punire
 *Melee Weapon, very rare (requires attunement by an evil creature)*  

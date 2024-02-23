@@ -2,21 +2,22 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer
-- spell/class/bard
-- spell/class/cleric
-- spell/class/cleric/life-domain
-- spell/class/druid
-- spell/class/paladin
-- spell/class/paladin/oath-of-devotion
-- spell/class/ranger
-- spell/class/sorcerer/clockwork-soul
-- spell/class/sorcerer/divine-soul
-- spell/class/warlock/the-celestial
-- spell/level/2
-- spell/school/abjuration
-aliases: ["Lesser Restoration"]
+  - compendium/src/5e/phb
+  - spell/class/artificer
+  - spell/class/bard
+  - spell/class/cleric
+  - spell/class/cleric/life-domain
+  - spell/class/druid
+  - spell/class/paladin
+  - spell/class/paladin/oath-of-devotion
+  - spell/class/ranger
+  - spell/class/sorcerer/clockwork-soul
+  - spell/class/sorcerer/divine-soul
+  - spell/class/warlock/the-celestial
+  - spell/level/2
+  - spell/school/abjuration
+aliases:
+  - Lesser Restoration
 ---
 # Lesser Restoration
 %%-- Embedded content starts on the next line. --%%

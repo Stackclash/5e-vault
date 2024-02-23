@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/mtf
-aliases: ["Duergar in the Clan; Clan's Notable Trait"]
+  - compendium/src/5e/mtf
+aliases:
+  - Duergar in the Clan; Clan's Notable Trait
 ---
 # Duergar in the Clan; Clan's Notable Trait
 *Source: Mordenkainen's Tome of Foes p. 84* 

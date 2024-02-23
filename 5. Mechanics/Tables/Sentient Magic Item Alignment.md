@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Sentient Magic Item Alignment"]
+  - compendium/src/5e/dmg
+aliases:
+  - Sentient Magic Item Alignment
 ---
 # Sentient Magic Item Alignment
 *Source: Dungeon Master's Guide p. 216. Available in the SRD.* 

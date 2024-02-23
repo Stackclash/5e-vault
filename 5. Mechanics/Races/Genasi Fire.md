@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/mpmm
-- race/genasi/fire
-aliases: ["Genasi (Fire)"]
+  - compendium/src/5e/mpmm
+  - race/genasi/fire
+aliases:
+  - Genasi (Fire)
 ---
 # Genasi (Fire)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 17*  

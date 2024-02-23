@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/2
-- monster/environment/coastal
-- monster/environment/underwater
-- monster/size/large
-- monster/type/monstrosity
+  - compendium/src/5e/mm
+  - monster/cr/2
+  - monster/environment/coastal
+  - monster/environment/underwater
+  - monster/size/large
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Merrow"]
+aliases:
+  - Merrow
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Merrow.md|Merrow]]
 *Source: Monster Manual p. 219. Available in the SRD.*  

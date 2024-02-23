@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/7
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/fiend/yugoloth
+  - compendium/src/5e/mpmm
+  - monster/cr/7
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/fiend/yugoloth
 statblock: inline
-aliases: ["Dhergoloth"]
+aliases:
+  - Dhergoloth
 ---
 # [[5. Mechanics\Bestiary\Fiend\Dhergoloth.md|Dhergoloth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 94, Mordenkainen's Tome of Foes p. 248*  

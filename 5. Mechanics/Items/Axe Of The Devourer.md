@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/attunement/required
-- item/rarity/very-rare
-- item/wondrous/wondrous-item
-aliases: 
-- "Axe of the Devourer"
-- "Battleaxe of the Devourer"
-- "Greataxe of the Devourer"
+  - compendium/src/5e/hhhviii
+  - item/attunement/required
+  - item/rarity/very-rare
+  - item/wondrous/wondrous-item
+aliases:
+  - Axe of the Devourer
+  - Battleaxe of the Devourer
+  - Greataxe of the Devourer
 ---
 # Axe of the Devourer
 *Generic Variant, very rare (requires attunement)*  

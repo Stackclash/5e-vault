@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/9
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/humanoid/elf
+  - compendium/src/5e/mpmm
+  - monster/cr/9
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/humanoid/elf
 statblock: inline
-aliases: ["Shadar-kai Gloom Weaver"]
+aliases:
+  - Shadar-kai Gloom Weaver
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Shadar Kai Gloom Weaver.md|Shadar-kai Gloom Weaver]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 213, Mordenkainen's Tome of Foes p. 224*  

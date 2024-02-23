@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/3
-- monster/environment/coastal
-- monster/environment/urban
-- monster/size/medium
-- monster/type/humanoid
+  - compendium/src/5e/mpmm
+  - monster/cr/3
+  - monster/environment/coastal
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/humanoid
 statblock: inline
-aliases: ["Swashbuckler"]
+aliases:
+  - Swashbuckler
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Swashbuckler.md|Swashbuckler]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 238*  

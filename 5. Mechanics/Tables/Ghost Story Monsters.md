@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vrgr
-aliases: ["Ghost Story Monsters"]
+  - compendium/src/5e/vrgr
+aliases:
+  - Ghost Story Monsters
 ---
 # Ghost Story Monsters
 *Source: Van Richten's Guide to Ravenloft p. 54* 

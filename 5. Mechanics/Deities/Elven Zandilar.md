@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- compendium/src/5e/mtf
-- deity/elven
-- domain/life
-aliases: ["Zandilar"]
+  - compendium/src/5e/mtf
+  - deity/elven
+  - domain/life
+aliases:
+  - Zandilar
 ---
 # Zandilar
 *Source: Mordenkainen's Tome of Foes p. 43* 

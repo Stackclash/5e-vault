@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/16
-- monster/environment/coastal
-- monster/environment/desert
-- monster/size/huge
-- monster/type/dragon
+  - compendium/src/5e/mm
+  - monster/cr/16
+  - monster/environment/coastal
+  - monster/environment/desert
+  - monster/size/huge
+  - monster/type/dragon
 statblock: inline
-aliases: ["Adult Blue Dragon"]
+aliases:
+  - Adult Blue Dragon
 ---
 # [[5. Mechanics\Bestiary\Dragon\Adult Blue Dragon.md|Adult Blue Dragon]]
 *Source: Monster Manual p. 91. Available in the SRD.*  

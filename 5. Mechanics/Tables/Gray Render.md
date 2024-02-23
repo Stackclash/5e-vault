@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhviii
-aliases: ["Gray Render"]
+  - compendium/src/5e/hhhviii
+aliases:
+  - Gray Render
 ---
 # Gray Render
 *Source: Hamund's Harvesting Handbook: Volume III p. 49* 

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Cults of the Dragon Below"]
+  - compendium/src/5e/erlw
+aliases:
+  - Cults of the Dragon Below
 ---
 # Cults of the Dragon Below
 *Source: Eberron: Rising from the Last War p. 188* 

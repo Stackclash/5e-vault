@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/tce
-- subclass/sorcerer/aberrant-mind
-aliases: ["Aberrant Mind"]
+  - compendium/src/5e/tce
+  - subclass/sorcerer/aberrant-mind
+aliases:
+  - Aberrant Mind
 ---
 # Aberrant Mind
 *[[Sorcerer.md\|Sorcerer]]: Sorcerous Origin*  

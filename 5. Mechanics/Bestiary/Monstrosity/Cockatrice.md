@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-2
-- monster/environment/grassland
-- monster/size/small
-- monster/type/monstrosity
+  - compendium/src/5e/mm
+  - monster/cr/1-2
+  - monster/environment/grassland
+  - monster/size/small
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Cockatrice"]
+aliases:
+  - Cockatrice
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Cockatrice.md|Cockatrice]]
 *Source: Monster Manual p. 42, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  

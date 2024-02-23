@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/cos
-- monster/cr/7
-- monster/size/huge
-- monster/type/plant
+  - compendium/src/5e/cos
+  - monster/cr/7
+  - monster/size/huge
+  - monster/type/plant
 statblock: inline
-aliases: ["Tree Blight"]
+aliases:
+  - Tree Blight
 ---
 # [[5. Mechanics\Bestiary\Plant\Tree Blight.md|Tree Blight]]
 *Source: Curse of Strahd p. 230*  

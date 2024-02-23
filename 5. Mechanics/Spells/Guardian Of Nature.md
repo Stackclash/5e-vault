@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/xge
-- spell/class/druid
-- spell/class/ranger
-- spell/level/4
-- spell/school/transmutation
-aliases: ["Guardian of Nature"]
+  - compendium/src/5e/xge
+  - spell/class/druid
+  - spell/class/ranger
+  - spell/level/4
+  - spell/school/transmutation
+aliases:
+  - Guardian of Nature
 ---
 # Guardian of Nature
 %%-- Embedded content starts on the next line. --%%

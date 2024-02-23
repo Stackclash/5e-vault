@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric/death-domain
-- spell/class/druid/circle-of-spores
-- spell/class/fighter/eldritch-knight
-- spell/class/rogue/arcane-trickster
-- spell/class/sorcerer
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/cantrip
-- spell/school/necromancy
-aliases: ["Chill Touch"]
+  - compendium/src/5e/phb
+  - spell/class/cleric/death-domain
+  - spell/class/druid/circle-of-spores
+  - spell/class/fighter/eldritch-knight
+  - spell/class/rogue/arcane-trickster
+  - spell/class/sorcerer
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/cantrip
+  - spell/school/necromancy
+aliases:
+  - Chill Touch
 ---
 # Chill Touch
 %%-- Embedded content starts on the next line. --%%

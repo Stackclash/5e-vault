@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/erlw
-- item/attunement/required
-- item/rarity/common
-- item/wondrous/wondrous-item
-aliases: 
-- "Imbued Wood (Lamannian Oak)"
-- "Lamannian Oak Rod"
-- "Lamannian Oak Wand"
-- "Lamannian Oak Staff"
+  - compendium/src/5e/erlw
+  - item/attunement/required
+  - item/rarity/common
+  - item/wondrous/wondrous-item
+aliases:
+  - Imbued Wood (Lamannian Oak)
+  - Lamannian Oak Rod
+  - Lamannian Oak Wand
+  - Lamannian Oak Staff
 ---
 # Imbued Wood (Lamannian Oak)
 *Generic Variant, common (requires attunement)*  

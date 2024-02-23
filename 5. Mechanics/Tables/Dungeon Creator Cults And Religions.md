@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Dungeon Creator; Cults and Religions"]
+  - compendium/src/5e/dmg
+aliases:
+  - Dungeon Creator; Cults and Religions
 ---
 # Dungeon Creator; Cults and Religions
 *Source: Dungeon Master's Guide p. 99* 

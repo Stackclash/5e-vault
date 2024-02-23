@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/12
-- monster/size/medium
-- monster/type/fiend/yugoloth
+  - compendium/src/5e/mm
+  - monster/cr/12
+  - monster/size/medium
+  - monster/type/fiend/yugoloth
 statblock: inline
-aliases: ["Arcanaloth"]
+aliases:
+  - Arcanaloth
 ---
 # [[5. Mechanics\Bestiary\Fiend\Arcanaloth.md|Arcanaloth]]
 *Source: Monster Manual p. 313, Curse of Strahd, Tasha's Cauldron of Everything*  

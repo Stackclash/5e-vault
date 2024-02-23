@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/3
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/aberration
+  - compendium/src/5e/mm
+  - monster/cr/3
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/aberration
 statblock: inline
-aliases: ["Grell"]
+aliases:
+  - Grell
 ---
 # [[5. Mechanics\Bestiary\Aberration\Grell.md|Grell]]
 *Source: Monster Manual p. 172*  

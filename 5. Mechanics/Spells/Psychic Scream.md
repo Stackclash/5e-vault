@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/xge
-- spell/class/bard
-- spell/class/sorcerer
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/9
-- spell/school/enchantment
-aliases: ["Psychic Scream"]
+  - compendium/src/5e/xge
+  - spell/class/bard
+  - spell/class/sorcerer
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/9
+  - spell/school/enchantment
+aliases:
+  - Psychic Scream
 ---
 # Psychic Scream
 %%-- Embedded content starts on the next line. --%%

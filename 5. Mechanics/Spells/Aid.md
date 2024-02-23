@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer
-- spell/class/cleric
-- spell/class/cleric/peace-domain
-- spell/class/paladin
-- spell/class/sorcerer/clockwork-soul
-- spell/class/sorcerer/divine-soul
-- spell/level/2
-- spell/school/abjuration
-aliases: ["Aid"]
+  - compendium/src/5e/phb
+  - spell/class/artificer
+  - spell/class/cleric
+  - spell/class/cleric/peace-domain
+  - spell/class/paladin
+  - spell/class/sorcerer/clockwork-soul
+  - spell/class/sorcerer/divine-soul
+  - spell/level/2
+  - spell/school/abjuration
+aliases:
+  - Aid
 ---
 # Aid
 %%-- Embedded content starts on the next line. --%%

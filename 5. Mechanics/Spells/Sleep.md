@@ -2,18 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/cleric/twilight-domain
-- spell/class/fighter/eldritch-knight
-- spell/class/paladin/oath-of-redemption
-- spell/class/rogue/arcane-trickster
-- spell/class/sorcerer
-- spell/class/warlock/the-archfey
-- spell/class/wizard
-- spell/level/1
-- spell/school/enchantment
-aliases: ["Sleep"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/cleric/twilight-domain
+  - spell/class/fighter/eldritch-knight
+  - spell/class/paladin/oath-of-redemption
+  - spell/class/rogue/arcane-trickster
+  - spell/class/sorcerer
+  - spell/class/warlock/the-archfey
+  - spell/class/wizard
+  - spell/level/1
+  - spell/school/enchantment
+aliases:
+  - Sleep
 ---
 # Sleep
 %%-- Embedded content starts on the next line. --%%

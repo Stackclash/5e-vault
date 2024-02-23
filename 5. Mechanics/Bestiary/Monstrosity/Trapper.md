@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/3
-- monster/environment/underdark
-- monster/size/large
-- monster/type/monstrosity
+  - compendium/src/5e/mpmm
+  - monster/cr/3
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Trapper"]
+aliases:
+  - Trapper
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Trapper.md|Trapper]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 245*  

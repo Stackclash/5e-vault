@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/tce
-- optional-feature/fs-f
-- optional-feature/fs-r
-aliases: ["Thrown Weapon Fighting"]
+  - compendium/src/5e/tce
+  - optional-feature/fs-f
+  - optional-feature/fs-r
+aliases:
+  - Thrown Weapon Fighting
 ---
 # Thrown Weapon Fighting
 *Source: Tasha's Cauldron of Everything p. 42*  

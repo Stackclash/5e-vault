@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/cos
-- monster/cr/0
-- monster/size/medium
-- monster/type/humanoid/any-race
+  - compendium/src/5e/cos
+  - monster/cr/0
+  - monster/size/medium
+  - monster/type/humanoid/any-race
 statblock: inline
-aliases: ["Vistana Commoner"]
+aliases:
+  - Vistana Commoner
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Vistana Commoner.md|Vistana Commoner]]
 *Source: Curse of Strahd p. 28*  

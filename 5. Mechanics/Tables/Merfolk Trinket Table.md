@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Merfolk Trinket Table"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Merfolk Trinket Table
 ---
 # Merfolk Trinket Table
 *Source: Hamund's Harvesting Handbook: Volume I p. 75* 

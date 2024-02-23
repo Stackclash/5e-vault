@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/armor/shield
-- item/attunement/required
-- item/property/crfby
-- item/rarity/rare
-aliases: 
-- "Shield of Reflection"
+  - compendium/src/5e/hhhvi
+  - item/armor/shield
+  - item/attunement/required
+  - item/property/crfby
+  - item/rarity/rare
+aliases:
+  - Shield of Reflection
 ---
 # Shield of Reflection
 *Shield, rare, Crafted by (requires attunement)*  

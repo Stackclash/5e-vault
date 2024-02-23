@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhviii
-aliases: ["Wastrilith"]
+  - compendium/src/5e/hhhviii
+aliases:
+  - Wastrilith
 ---
 # Wastrilith
 *Source: Hamund's Harvesting Handbook: Volume III p. 23* 

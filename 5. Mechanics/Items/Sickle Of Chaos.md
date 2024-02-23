@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/attunement/required
-- item/property/crfby
-- item/property/light
-- item/rarity/rare
-- item/weapon/simple/melee
-aliases: 
-- "Sickle of Chaos"
+  - compendium/src/5e/hhhvi
+  - item/attunement/required
+  - item/property/crfby
+  - item/property/light
+  - item/rarity/rare
+  - item/weapon/simple/melee
+aliases:
+  - Sickle of Chaos
 ---
 # Sickle of Chaos
 *Melee Weapon, rare, Crafted by (requires attunement)*  

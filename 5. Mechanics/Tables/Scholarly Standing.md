@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Scholarly Standing"]
+  - compendium/src/5e/erlw
+aliases:
+  - Scholarly Standing
 ---
 # Scholarly Standing
 *Source: Eberron: Rising from the Last War p. 100* 

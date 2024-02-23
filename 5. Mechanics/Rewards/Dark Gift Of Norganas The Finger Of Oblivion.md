@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/cos
-- reward/charm
-aliases: ["Dark Gift of Norganas, the Finger of Oblivion"]
+  - compendium/src/5e/cos
+  - reward/charm
+aliases:
+  - 'Dark Gift of Norganas, the Finger of Oblivion'
 ---
 # Dark Gift of Norganas, the Finger of Oblivion
 *Charm*  

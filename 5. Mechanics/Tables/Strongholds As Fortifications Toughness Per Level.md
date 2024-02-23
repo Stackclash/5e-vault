@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/saf
-aliases: ["Strongholds as Fortifications; Toughness Per Level"]
+  - compendium/src/5e/saf
+aliases:
+  - Strongholds as Fortifications; Toughness Per Level
 ---
 # Strongholds as Fortifications; Toughness Per Level
 *Source: Strongholds and Followers* 

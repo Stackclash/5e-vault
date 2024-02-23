@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-4
-- monster/environment/forest
-- monster/size/medium
-- monster/type/fey
+  - compendium/src/5e/mm
+  - monster/cr/1-4
+  - monster/environment/forest
+  - monster/size/medium
+  - monster/type/fey
 statblock: inline
-aliases: ["Blink Dog"]
+aliases:
+  - Blink Dog
 ---
 # [[5. Mechanics\Bestiary\Fey\Blink Dog.md|Blink Dog]]
 *Source: Monster Manual p. 318, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  

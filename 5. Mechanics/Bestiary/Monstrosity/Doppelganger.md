@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/3
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/monstrosity/shapechanger
+  - compendium/src/5e/mm
+  - monster/cr/3
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/monstrosity/shapechanger
 statblock: inline
-aliases: ["Doppelganger"]
+aliases:
+  - Doppelganger
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Doppelganger.md|Doppelganger]]
 *Source: Monster Manual p. 82. Available in the SRD and the Basic Rules.*  

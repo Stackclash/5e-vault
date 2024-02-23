@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/mtf
-aliases: ["Elf Deities (The Seldarine)"]
+  - compendium/src/5e/mtf
+aliases:
+  - Elf Deities (The Seldarine)
 ---
 # Elf Deities (The Seldarine)
 *Source: Mordenkainen's Tome of Foes p. 43* 

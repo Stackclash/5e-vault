@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/saf
-- monster/cr/20
-- monster/size/gargantuan
-- monster/type/dragon
+  - compendium/src/5e/saf
+  - monster/cr/20
+  - monster/size/gargantuan
+  - monster/type/dragon
 statblock: inline
-aliases: ["Ancient Topaz Dragon"]
+aliases:
+  - Ancient Topaz Dragon
 ---
 # [[5. Mechanics\Bestiary\Dragon\Ancient Topaz Dragon.md|Ancient Topaz Dragon]]
 *Source: Strongholds and Followers p. 217*  

@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/saf
-- monster/cr/6
-- monster/size/medium
-- monster/type/elemental
+  - compendium/src/5e/saf
+  - monster/cr/6
+  - monster/size/medium
+  - monster/type/elemental
 statblock: inline
-aliases: ["Source of Earth"]
+aliases:
+  - Source of Earth
 ---
 # [[5. Mechanics\Bestiary\Elemental\Source Of Earth.md|Source of Earth]]
 *Source: Strongholds and Followers p. 187*  

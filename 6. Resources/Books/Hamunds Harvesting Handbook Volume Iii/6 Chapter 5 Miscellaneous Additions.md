@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/hhhviii
-aliases:
-  - 'Chapter 5: Miscellaneous Additions'
+- compendium/src/5e/hhhviii
+aliases: ["Chapter 5: Miscellaneous Additions"]
 ---
 # Chapter 5: Miscellaneous Additions
 *Source: Hamund's Harvesting Handbook: Volume III, p. 67* 

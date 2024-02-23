@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/fighter/eldritch-knight
-- spell/class/rogue/arcane-trickster
-- spell/class/warlock/the-genie
-- spell/class/warlock/the-hexblade
-- spell/class/wizard
-- spell/level/4
-- spell/school/illusion
-aliases: ["Phantasmal Killer"]
+  - compendium/src/5e/phb
+  - spell/class/fighter/eldritch-knight
+  - spell/class/rogue/arcane-trickster
+  - spell/class/warlock/the-genie
+  - spell/class/warlock/the-hexblade
+  - spell/class/wizard
+  - spell/level/4
+  - spell/school/illusion
+aliases:
+  - Phantasmal Killer
 ---
 # Phantasmal Killer
 %%-- Embedded content starts on the next line. --%%

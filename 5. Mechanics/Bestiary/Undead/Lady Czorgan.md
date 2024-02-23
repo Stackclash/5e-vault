@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/saf
-- monster/cr/12
-- monster/size/medium
-- monster/type/undead
+  - compendium/src/5e/saf
+  - monster/cr/12
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
-aliases: ["Lady Czorgan"]
+aliases:
+  - Lady Czorgan
 ---
 # [[5. Mechanics\Bestiary\Undead\Lady Czorgan.md|Lady Czorgan]]
 *Source: Strongholds and Followers p. 258*  

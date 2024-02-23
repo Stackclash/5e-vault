@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/armor/heavy
-- item/rarity/very-rare
-- item/tier/major
-aliases: 
-- "Dwarven Plate"
+  - compendium/src/5e/dmg
+  - item/armor/heavy
+  - item/rarity/very-rare
+  - item/tier/major
+aliases:
+  - Dwarven Plate
 ---
 # Dwarven Plate
 *Heavy Armor, major, very rare*  

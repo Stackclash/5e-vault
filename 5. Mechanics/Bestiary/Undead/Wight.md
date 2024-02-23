@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/3
-- monster/environment/desert
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/undead
+  - compendium/src/5e/mm
+  - monster/cr/3
+  - monster/environment/desert
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
-aliases: ["Wight"]
+aliases:
+  - Wight
 ---
 # [[5. Mechanics\Bestiary\Undead\Wight.md|Wight]]
 *Source: Monster Manual p. 300, Curse of Strahd. Available in the SRD and the Basic Rules.*  

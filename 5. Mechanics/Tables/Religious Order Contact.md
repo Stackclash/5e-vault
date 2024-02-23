@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/tce
-aliases: ["Religious Order Contact"]
+  - compendium/src/5e/tce
+aliases:
+  - Religious Order Contact
 ---
 # Religious Order Contact
 *Source: Tasha's Cauldron of Everything p. 99* 

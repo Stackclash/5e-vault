@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/5
-- monster/environment/coastal
-- monster/environment/underwater
-- monster/size/medium
-- monster/type/monstrosity
+  - compendium/src/5e/mpmm
+  - monster/cr/5
+  - monster/environment/coastal
+  - monster/environment/underwater
+  - monster/size/medium
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Kraken Priest"]
+aliases:
+  - Kraken Priest
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Kraken Priest.md|Kraken Priest]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 167*  

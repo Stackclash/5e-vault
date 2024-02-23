@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/16
-- monster/environment/urban
-- monster/size/large
-- monster/type/construct
+  - compendium/src/5e/mpmm
+  - monster/cr/16
+  - monster/environment/urban
+  - monster/size/large
+  - monster/type/construct
 statblock: inline
-aliases: ["Steel Predator"]
+aliases:
+  - Steel Predator
 ---
 # [[5. Mechanics\Bestiary\Construct\Steel Predator.md|Steel Predator]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 232, Mordenkainen's Tome of Foes p. 239*  

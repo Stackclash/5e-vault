@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/saf
-- item/gear/requires-installation
-- item/rarity/rare
-aliases: 
-- "The Tapestry of Reweaving"
+  - compendium/src/5e/saf
+  - item/gear/requires-installation
+  - item/rarity/rare
+aliases:
+  - The Tapestry of Reweaving
 ---
 # The Tapestry of Reweaving
 *requires installation, rare*  

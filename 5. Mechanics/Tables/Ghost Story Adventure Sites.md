@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vrgr
-aliases: ["Ghost Story Adventure Sites"]
+  - compendium/src/5e/vrgr
+aliases:
+  - Ghost Story Adventure Sites
 ---
 # Ghost Story Adventure Sites
 *Source: Van Richten's Guide to Ravenloft p. 55* 

@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- compendium/src/5e/mtf
-- deity/elven
-- domain/life
-- domain/nature
-aliases: ["Elebrin liothiel"]
+  - compendium/src/5e/mtf
+  - deity/elven
+  - domain/life
+  - domain/nature
+aliases:
+  - Elebrin liothiel
 ---
 # Elebrin liothiel
 *Source: Mordenkainen's Tome of Foes p. 43* 

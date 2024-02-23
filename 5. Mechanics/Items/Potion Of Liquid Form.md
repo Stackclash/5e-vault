@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvii
-- item/property/crfby
-- item/rarity/rare
-- item/wondrous/potion
-aliases: 
-- "Potion of Liquid Form"
+  - compendium/src/5e/hhhvii
+  - item/property/crfby
+  - item/rarity/rare
+  - item/wondrous/potion
+aliases:
+  - Potion of Liquid Form
 ---
 # Potion of Liquid Form
 *Potion, rare, Crafted by*  

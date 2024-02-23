@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/mtf
-- reward/other
-aliases: ["The Blessed of Corellon"]
+  - compendium/src/5e/mtf
+  - reward/other
+aliases:
+  - The Blessed of Corellon
 ---
 # The Blessed of Corellon
 *Other*  

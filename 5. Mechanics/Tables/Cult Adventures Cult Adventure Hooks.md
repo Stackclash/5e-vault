@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Cult Adventures; Cult Adventure Hooks"]
+  - compendium/src/5e/erlw
+aliases:
+  - Cult Adventures; Cult Adventure Hooks
 ---
 # Cult Adventures; Cult Adventure Hooks
 *Source: Eberron: Rising from the Last War p. 189* 

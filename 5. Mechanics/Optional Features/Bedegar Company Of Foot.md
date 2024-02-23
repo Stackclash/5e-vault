@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/saf
-- optional-feature/unit
-aliases: ["Bedegar Company of Foot"]
+  - compendium/src/5e/saf
+  - optional-feature/unit
+aliases:
+  - Bedegar Company of Foot
 ---
 # Bedegar Company of Foot
 *Source: Strongholds and Followers p. 149*  

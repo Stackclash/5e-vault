@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/saf
-- monster/cr/10
-- monster/size/large
-- monster/type/celestial
+  - compendium/src/5e/saf
+  - monster/cr/10
+  - monster/size/large
+  - monster/type/celestial
 statblock: inline
-aliases: ["Seraph"]
+aliases:
+  - Seraph
 ---
 # [[5. Mechanics\Bestiary\Celestial\Seraph.md|Seraph]]
 *Source: Strongholds and Followers p. 165*  

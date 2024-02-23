@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/saf
-- monster/cr/9
-- monster/size/large
-- monster/type/elemental
+  - compendium/src/5e/saf
+  - monster/cr/9
+  - monster/size/large
+  - monster/type/elemental
 statblock: inline
-aliases: ["Storm Magistrate"]
+aliases:
+  - Storm Magistrate
 ---
 # [[5. Mechanics\Bestiary\Elemental\Storm Magistrate.md|Storm Magistrate]]
 *Source: Strongholds and Followers p. 191*  

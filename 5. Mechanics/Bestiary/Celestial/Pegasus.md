@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/2
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/size/large
-- monster/type/celestial
+  - compendium/src/5e/mm
+  - monster/cr/2
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/size/large
+  - monster/type/celestial
 statblock: inline
-aliases: ["Pegasus"]
+aliases:
+  - Pegasus
 ---
 # [[5. Mechanics\Bestiary\Celestial\Pegasus.md|Pegasus]]
 *Source: Monster Manual p. 250, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  

@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/attunement/required
-- item/property/crfby
-- item/property/martial
-- item/property/versatile
-- item/rarity/legendary
-- item/weapon/martial/melee
-aliases: 
-- "Hammer of the Eternal Quake"
+  - compendium/src/5e/hhhviii
+  - item/attunement/required
+  - item/property/crfby
+  - item/property/martial
+  - item/property/versatile
+  - item/rarity/legendary
+  - item/weapon/martial/melee
+aliases:
+  - Hammer of the Eternal Quake
 ---
 # Hammer of the Eternal Quake
 *Melee Weapon, legendary, Crafted by (requires attunement)*  

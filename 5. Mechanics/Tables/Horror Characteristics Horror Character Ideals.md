@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vrgr
-aliases: ["Horror Characteristics; Horror Character Ideals"]
+  - compendium/src/5e/vrgr
+aliases:
+  - Horror Characteristics; Horror Character Ideals
 ---
 # Horror Characteristics; Horror Character Ideals
 *Source: Van Richten's Guide to Ravenloft p. 32* 

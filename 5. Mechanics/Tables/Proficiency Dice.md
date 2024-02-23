@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Proficiency Dice"]
+  - compendium/src/5e/dmg
+aliases:
+  - Proficiency Dice
 ---
 # Proficiency Dice
 *Source: Dungeon Master's Guide p. 263* 

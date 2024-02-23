@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/vrgr
-- monster/cr/3
-- monster/size/small
-- monster/type/undead
+  - compendium/src/5e/vrgr
+  - monster/cr/3
+  - monster/size/small
+  - monster/type/undead
 statblock: inline
-aliases: ["Brain in a Jar"]
+aliases:
+  - Brain in a Jar
 ---
 # [[5. Mechanics\Bestiary\Undead\Brain In A Jar.md|Brain in a Jar]]
 *Source: Van Richten's Guide to Ravenloft p. 278*  

@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/3
-- monster/environment/forest
-- monster/size/large
-- monster/type/monstrosity
+  - compendium/src/5e/mm
+  - monster/cr/3
+  - monster/environment/forest
+  - monster/size/large
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Displacer Beast"]
+aliases:
+  - Displacer Beast
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Displacer Beast.md|Displacer Beast]]
 *Source: Monster Manual p. 81, Eberron: Rising from the Last War*  

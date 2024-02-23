@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Githzerai Monk"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Githzerai Monk
 ---
 # Githzerai Monk
 *Source: Hamund's Harvesting Handbook: Volume I p. 54* 

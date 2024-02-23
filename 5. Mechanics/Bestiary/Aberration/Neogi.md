@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/3
-- monster/environment/hill
-- monster/environment/underdark
-- monster/size/small
-- monster/type/aberration
+  - compendium/src/5e/mpmm
+  - monster/cr/3
+  - monster/environment/hill
+  - monster/environment/underdark
+  - monster/size/small
+  - monster/type/aberration
 statblock: inline
-aliases: ["Neogi"]
+aliases:
+  - Neogi
 ---
 # [[5. Mechanics\Bestiary\Aberration\Neogi.md|Neogi]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 192*  

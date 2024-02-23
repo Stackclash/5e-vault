@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/saf
-aliases: ["Gemstone Dragon Psionics"]
+  - compendium/src/5e/saf
+aliases:
+  - Gemstone Dragon Psionics
 ---
 # Gemstone Dragon Psionics
 *Source: Strongholds and Followers p. 196* 

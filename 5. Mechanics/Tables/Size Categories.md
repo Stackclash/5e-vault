@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/mm
-aliases: ["Size Categories"]
+  - compendium/src/5e/mm
+aliases:
+  - Size Categories
 ---
 # Size Categories
 *Source: Monster Manual p. 6* 

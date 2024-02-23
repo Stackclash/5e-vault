@@ -2,19 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer/artillerist
-- spell/class/cleric/light-domain
-- spell/class/druid/circle-of-wildfire
-- spell/class/fighter/eldritch-knight
-- spell/class/rogue/arcane-trickster
-- spell/class/sorcerer
-- spell/class/warlock/the-fiend
-- spell/class/warlock/the-genie
-- spell/class/wizard
-- spell/level/2
-- spell/school/evocation
-aliases: ["Scorching Ray"]
+  - compendium/src/5e/phb
+  - spell/class/artificer/artillerist
+  - spell/class/cleric/light-domain
+  - spell/class/druid/circle-of-wildfire
+  - spell/class/fighter/eldritch-knight
+  - spell/class/rogue/arcane-trickster
+  - spell/class/sorcerer
+  - spell/class/warlock/the-fiend
+  - spell/class/warlock/the-genie
+  - spell/class/wizard
+  - spell/level/2
+  - spell/school/evocation
+aliases:
+  - Scorching Ray
 ---
 # Scorching Ray
 %%-- Embedded content starts on the next line. --%%

@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/paladin
-- spell/class/warlock/the-hexblade
-- spell/level/1
-- spell/school/evocation
-aliases: ["Wrathful Smite"]
+  - compendium/src/5e/phb
+  - spell/class/paladin
+  - spell/class/warlock/the-hexblade
+  - spell/level/1
+  - spell/school/evocation
+aliases:
+  - Wrathful Smite
 ---
 # Wrathful Smite
 %%-- Embedded content starts on the next line. --%%

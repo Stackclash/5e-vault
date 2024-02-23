@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/warrior-sidekick
-- compendium/src/5e/tce
-aliases: ["Warrior Sidekick"]
+  - class/warrior-sidekick
+  - compendium/src/5e/tce
+aliases:
+  - Warrior Sidekick
 ---
 # Warrior Sidekick
 *Source: Tasha's Cauldron of Everything p. 146*  

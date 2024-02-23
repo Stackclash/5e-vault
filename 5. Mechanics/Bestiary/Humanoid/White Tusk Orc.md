@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/saf
-- monster/cr/1
-- monster/size/medium
-- monster/type/humanoid/orc
+  - compendium/src/5e/saf
+  - monster/cr/1
+  - monster/size/medium
+  - monster/type/humanoid/orc
 statblock: inline
-aliases: ["White Tusk Orc"]
+aliases:
+  - White Tusk Orc
 ---
 # [[5. Mechanics\Bestiary\Humanoid\White Tusk Orc.md|White Tusk Orc]]
 *Source: Strongholds and Followers p. 137*  

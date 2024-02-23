@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- compendium/src/5e/mtf
-- deity/dwarven
-- domain/knowledge
-aliases: ["Dugmaren Brightmantle"]
+  - compendium/src/5e/mtf
+  - deity/dwarven
+  - domain/knowledge
+aliases:
+  - Dugmaren Brightmantle
 ---
 # Dugmaren Brightmantle
 *Source: Mordenkainen's Tome of Foes p. 73* 

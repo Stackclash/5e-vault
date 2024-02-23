@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/xge
-- subclass/fighter/cavalier
-aliases: ["Cavalier"]
+  - compendium/src/5e/xge
+  - subclass/fighter/cavalier
+aliases:
+  - Cavalier
 ---
 # Cavalier
 *[[Fighter.md\|Fighter]]: Martial Archetype*  

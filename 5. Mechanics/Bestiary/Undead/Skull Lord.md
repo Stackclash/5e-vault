@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/15
-- monster/environment/desert
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/undead/sorcerer
+  - compendium/src/5e/mpmm
+  - monster/cr/15
+  - monster/environment/desert
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/undead/sorcerer
 statblock: inline
-aliases: ["Skull Lord"]
+aliases:
+  - Skull Lord
 ---
 # [[5. Mechanics\Bestiary\Undead\Skull Lord.md|Skull Lord]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 220, Mordenkainen's Tome of Foes p. 230*  

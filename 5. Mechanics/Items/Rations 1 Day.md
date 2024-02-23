@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear
-aliases: 
-- "Rations (1 day)"
+  - compendium/src/5e/phb
+  - item/gear
+aliases:
+  - Rations (1 day)
 cost: 50
 ---
 # Rations (1 day)

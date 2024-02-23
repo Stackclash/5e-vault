@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvii
-aliases: ["Xvart Warlock of Raxivort"]
+  - compendium/src/5e/hhhvii
+aliases:
+  - Xvart Warlock of Raxivort
 ---
 # Xvart Warlock of Raxivort
 *Source: Hamund's Harvesting Handbook: Volume II p. 46* 

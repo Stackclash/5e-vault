@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/attunement/required
-- item/property/heavy
-- item/property/martial
-- item/property/two-handed
-- item/rarity/artifact
-- item/weapon/martial/melee
-aliases: 
-- "Angdrelve (Wave of Sorrow)"
+  - compendium/src/5e/hhhviii
+  - item/attunement/required
+  - item/property/heavy
+  - item/property/martial
+  - item/property/two-handed
+  - item/rarity/artifact
+  - item/weapon/martial/melee
+aliases:
+  - Angdrelve (Wave of Sorrow)
 ---
 # Angdrelve (Wave of Sorrow)
 *Melee Weapon, artifact (requires attunement)*  

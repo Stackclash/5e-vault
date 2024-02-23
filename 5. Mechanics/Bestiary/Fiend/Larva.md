@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/dmg
-- monster/cr/0
-- monster/size/medium
-- monster/type/fiend
+  - compendium/src/5e/dmg
+  - monster/cr/0
+  - monster/size/medium
+  - monster/type/fiend
 statblock: inline
-aliases: ["Larva (DMG)"]
+aliases:
+  - Larva (DMG)
 ---
 # [[5. Mechanics\Bestiary\Fiend\Larva.md|Larva (DMG)]]
 *Source: Dungeon Master's Guide p. 63*  

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/saf
-aliases: ["Wizard Followers"]
+  - compendium/src/5e/saf
+aliases:
+  - Wizard Followers
 ---
 # Wizard Followers
 *Source: Strongholds and Followers* 

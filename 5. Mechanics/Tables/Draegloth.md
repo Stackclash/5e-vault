@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvii
-aliases: ["Draegloth"]
+  - compendium/src/5e/hhhvii
+aliases:
+  - Draegloth
 ---
 # Draegloth
 *Source: Hamund's Harvesting Handbook: Volume II p. 17* 

@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/20
-- monster/environment/arctic
-- monster/environment/desert
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/size/huge
-- monster/type/undead
+  - compendium/src/5e/mpmm
+  - monster/cr/20
+  - monster/environment/arctic
+  - monster/environment/desert
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/size/huge
+  - monster/type/undead
 statblock: inline
-aliases: ["Nightwalker"]
+aliases:
+  - Nightwalker
 ---
 # [[5. Mechanics\Bestiary\Undead\Nightwalker.md|Nightwalker]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 194, Mordenkainen's Tome of Foes p. 216*  

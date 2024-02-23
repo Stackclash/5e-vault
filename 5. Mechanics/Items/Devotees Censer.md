@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/tce
-- item/attunement/required
-- item/property/martial
-- item/rarity/rare
-- item/weapon/martial/melee
-aliases: 
-- "Devotee's Censer"
+  - compendium/src/5e/tce
+  - item/attunement/required
+  - item/property/martial
+  - item/rarity/rare
+  - item/weapon/martial/melee
+aliases:
+  - Devotee's Censer
 ---
 # Devotee's Censer
 *Melee Weapon, rare (requires attunement by a cleric or paladin)*  

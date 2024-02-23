@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Dracolich"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Dracolich
 ---
 # Dracolich
 *Source: Hamund's Harvesting Handbook: Volume I p. 33* 

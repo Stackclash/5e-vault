@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/cos
-aliases:
-  - 'Chapter 8: The Village of Krezk'
+- compendium/src/5e/cos
+aliases: ["Chapter 8: The Village of Krezk"]
 ---
 # Chapter 8: The Village of Krezk
 *Source: Curse of Strahd, p. 143* 

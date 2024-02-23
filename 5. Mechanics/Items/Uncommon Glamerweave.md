@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/erlw
-- item/rarity/uncommon
-- item/wondrous
-aliases: 
-- "Uncommon Glamerweave"
+  - compendium/src/5e/erlw
+  - item/rarity/uncommon
+  - item/wondrous
+aliases:
+  - Uncommon Glamerweave
 ---
 # Uncommon Glamerweave
 *Wondrous Item, uncommon*  

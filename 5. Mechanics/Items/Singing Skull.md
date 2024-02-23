@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/property/crfby
-- item/rarity/uncommon
-- item/wondrous
-aliases: 
-- "Singing Skull"
+  - compendium/src/5e/hhhviii
+  - item/property/crfby
+  - item/rarity/uncommon
+  - item/wondrous
+aliases:
+  - Singing Skull
 ---
 # Singing Skull
 *Wondrous Item, uncommon, Crafted by*  

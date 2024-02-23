@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Adventures and Encounters; Mournland Adventure Hooks"]
+  - compendium/src/5e/erlw
+aliases:
+  - Adventures and Encounters; Mournland Adventure Hooks
 ---
 # Adventures and Encounters; Mournland Adventure Hooks
 *Source: Eberron: Rising from the Last War p. 222* 

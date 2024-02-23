@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Renown"]
+  - compendium/src/5e/dmg
+aliases:
+  - Renown
 ---
 # Renown
 *Source: Dungeon Master's Guide p. 22* 

@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/3
-- monster/size/medium
-- monster/type/fiend/demon
+  - compendium/src/5e/mpmm
+  - monster/cr/3
+  - monster/size/medium
+  - monster/type/fiend/demon
 statblock: inline
-aliases: ["Bulezau"]
+aliases:
+  - Bulezau
 ---
 # [[5. Mechanics\Bestiary\Fiend\Bulezau.md|Bulezau]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 67, Mordenkainen's Tome of Foes p. 131*  

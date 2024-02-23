@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/1-8
-- monster/environment/hill
-- monster/environment/underdark
-- monster/size/small
-- monster/type/monstrosity
+  - compendium/src/5e/mpmm
+  - monster/cr/1-8
+  - monster/environment/hill
+  - monster/environment/underdark
+  - monster/size/small
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Xvart"]
+aliases:
+  - Xvart
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Xvart.md|Xvart]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 267*  

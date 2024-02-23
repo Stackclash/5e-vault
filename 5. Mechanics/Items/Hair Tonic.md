@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/property/crfby
-- item/rarity/common
-- item/wondrous/potion
-aliases: 
-- "Hair Tonic"
+  - compendium/src/5e/hhhvi
+  - item/property/crfby
+  - item/rarity/common
+  - item/wondrous/potion
+aliases:
+  - Hair Tonic
 ---
 # Hair Tonic
 *Potion, common, Crafted by*  

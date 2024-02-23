@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/2
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/monstrosity
+  - compendium/src/5e/mpmm
+  - monster/cr/2
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Yuan-ti Broodguard"]
+aliases:
+  - Yuan-ti Broodguard
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Yuan Ti Broodguard.md|Yuan-ti Broodguard]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 273*  

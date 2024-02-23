@@ -2,18 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/2
-- monster/environment/arctic
-- monster/environment/coastal
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/hill
-- monster/environment/urban
-- monster/size/medium
-- monster/type/humanoid/any-race
+  - compendium/src/5e/mm
+  - monster/cr/2
+  - monster/environment/arctic
+  - monster/environment/coastal
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/hill
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/humanoid/any-race
 statblock: inline
-aliases: ["Bandit Captain"]
+aliases:
+  - Bandit Captain
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Bandit Captain.md|Bandit Captain]]
 *Source: Monster Manual p. 344, Curse of Strahd. Available in the SRD.*  

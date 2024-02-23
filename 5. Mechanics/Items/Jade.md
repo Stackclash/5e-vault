@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/wealth/gemstone
-aliases: 
-- "Jade"
+  - compendium/src/5e/dmg
+  - item/wealth/gemstone
+aliases:
+  - Jade
 cost: 10000
 ---
 # Jade

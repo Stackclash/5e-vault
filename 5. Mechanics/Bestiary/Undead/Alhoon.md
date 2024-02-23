@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/10
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/undead/mind-flayer
-- monster/type/undead/wizard
+  - compendium/src/5e/mpmm
+  - monster/cr/10
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/undead/mind-flayer
+  - monster/type/undead/wizard
 statblock: inline
-aliases: ["Alhoon"]
+aliases:
+  - Alhoon
 ---
 # [[5. Mechanics\Bestiary\Undead\Alhoon.md|Alhoon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 43*  

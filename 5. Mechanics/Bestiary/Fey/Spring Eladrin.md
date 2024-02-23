@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/10
-- monster/environment/forest
-- monster/environment/grassland
-- monster/size/medium
-- monster/type/fey/elf
+  - compendium/src/5e/mpmm
+  - monster/cr/10
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/size/medium
+  - monster/type/fey/elf
 statblock: inline
-aliases: ["Spring Eladrin"]
+aliases:
+  - Spring Eladrin
 ---
 # [[5. Mechanics\Bestiary\Fey\Spring Eladrin.md|Spring Eladrin]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 116, Mordenkainen's Tome of Foes p. 196*  

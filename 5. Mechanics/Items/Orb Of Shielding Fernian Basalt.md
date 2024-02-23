@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/erlw
-- item/attunement/required
-- item/rarity/common
-- item/wondrous/wondrous-item
-aliases: 
-- "Orb of Shielding (Fernian Basalt)"
-- "Fernian Basalt Orb"
-- "Fernian Basalt Crystal"
+  - compendium/src/5e/erlw
+  - item/attunement/required
+  - item/rarity/common
+  - item/wondrous/wondrous-item
+aliases:
+  - Orb of Shielding (Fernian Basalt)
+  - Fernian Basalt Orb
+  - Fernian Basalt Crystal
 ---
 # Orb of Shielding (Fernian Basalt)
 *Generic Variant, common (requires attunement)*  

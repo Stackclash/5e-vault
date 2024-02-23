@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/mtf
-aliases: ["Fiendish Cults; Cult Organization"]
+  - compendium/src/5e/mtf
+aliases:
+  - Fiendish Cults; Cult Organization
 ---
 # Fiendish Cults; Cult Organization
 *Source: Mordenkainen's Tome of Foes p. 34* 

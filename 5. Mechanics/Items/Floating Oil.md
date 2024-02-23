@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/gear/oil
-- item/property/crfby
-- item/rarity/uncommon
-aliases: 
-- "Floating Oil"
+  - compendium/src/5e/hhhvi
+  - item/gear/oil
+  - item/property/crfby
+  - item/rarity/uncommon
+aliases:
+  - Floating Oil
 ---
 # Floating Oil
 *Oil, uncommon, Crafted by*  

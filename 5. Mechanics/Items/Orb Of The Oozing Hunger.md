@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/attunement/required
-- item/property/crfa
-- item/rarity/artifact
-- item/wondrous
-aliases: 
-- "Orb of the Oozing Hunger"
+  - compendium/src/5e/hhhviii
+  - item/attunement/required
+  - item/property/crfa
+  - item/rarity/artifact
+  - item/wondrous
+aliases:
+  - Orb of the Oozing Hunger
 ---
 # Orb of the Oozing Hunger
 *Wondrous Item, artifact, Crafted Artifact (requires attunement)*  

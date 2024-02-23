@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- compendium/src/5e/tce
-- object/size/unknown
-- object/type/unknown
+  - compendium/src/5e/tce
+  - object/size/unknown
+  - object/type/unknown
 statblock: inline
-aliases: ["Eldritch Cannon, Force Ballista"]
+aliases:
+  - 'Eldritch Cannon, Force Ballista'
 ---
 # Eldritch Cannon, Force Ballista
 *Source: Tasha's Cauldron of Everything p. 17*  

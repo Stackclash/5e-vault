@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Adjudicating Areas of Effect; Targets in Areas of Effect"]
+  - compendium/src/5e/dmg
+aliases:
+  - Adjudicating Areas of Effect; Targets in Areas of Effect
 ---
 # Adjudicating Areas of Effect; Targets in Areas of Effect
 *Source: Dungeon Master's Guide p. 249* 

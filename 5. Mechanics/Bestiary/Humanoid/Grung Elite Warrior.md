@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/2
-- monster/environment/forest
-- monster/size/small
-- monster/type/humanoid
+  - compendium/src/5e/mpmm
+  - monster/cr/2
+  - monster/environment/forest
+  - monster/size/small
+  - monster/type/humanoid
 statblock: inline
-aliases: ["Grung Elite Warrior"]
+aliases:
+  - Grung Elite Warrior
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Grung Elite Warrior.md|Grung Elite Warrior]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 150*  

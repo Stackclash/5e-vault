@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/saf
-- optional-feature/unit
-aliases: ["Shadow Legion"]
+  - compendium/src/5e/saf
+  - optional-feature/unit
+aliases:
+  - Shadow Legion
 ---
 # Shadow Legion
 *Source: Strongholds and Followers p. 250*  

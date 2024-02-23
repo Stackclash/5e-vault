@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/saf
-- monster/cr/4
-- monster/size/medium
-- monster/type/dragon
+  - compendium/src/5e/saf
+  - monster/cr/4
+  - monster/size/medium
+  - monster/type/dragon
 statblock: inline
-aliases: ["Sapphire Wyrmling"]
+aliases:
+  - Sapphire Wyrmling
 ---
 # [[5. Mechanics\Bestiary\Dragon\Sapphire Wyrmling.md|Sapphire Wyrmling]]
 *Source: Strongholds and Followers p. 215*  

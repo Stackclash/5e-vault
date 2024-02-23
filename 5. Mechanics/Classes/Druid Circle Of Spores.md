@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/tce
-- subclass/druid/spores
-aliases: ["Circle of Spores"]
+  - compendium/src/5e/tce
+  - subclass/druid/spores
+aliases:
+  - Circle of Spores
 ---
 # Circle of Spores
 *[[Druid.md\|Druid]]: Druid Circle*  

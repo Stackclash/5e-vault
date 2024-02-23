@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/7
-- monster/environment/forest
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/humanoid/elf
+  - compendium/src/5e/mpmm
+  - monster/cr/7
+  - monster/environment/forest
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/humanoid/elf
 statblock: inline
-aliases: ["Shadar-kai Shadow Dancer"]
+aliases:
+  - Shadar-kai Shadow Dancer
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Shadar Kai Shadow Dancer.md|Shadar-kai Shadow Dancer]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 213, Mordenkainen's Tome of Foes p. 225*  

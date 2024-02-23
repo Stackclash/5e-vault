@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/1-4
-- monster/environment/forest
-- monster/environment/grassland
-- monster/size/tiny
-- monster/type/beast/dinosaur
+  - compendium/src/5e/mpmm
+  - monster/cr/1-4
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/size/tiny
+  - monster/type/beast/dinosaur
 statblock: inline
-aliases: ["Velociraptor"]
+aliases:
+  - Velociraptor
 ---
 # [[5. Mechanics\Bestiary\Beast\Velociraptor.md|Velociraptor]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 96*  

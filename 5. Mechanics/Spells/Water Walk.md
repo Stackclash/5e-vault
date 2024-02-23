@@ -2,18 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer
-- spell/class/cleric
-- spell/class/druid
-- spell/class/druid/circle-of-the-land
-- spell/class/ranger
-- spell/class/sorcerer
-- spell/class/sorcerer/divine-soul
-- spell/level/3
-- spell/ritual
-- spell/school/transmutation
-aliases: ["Water Walk"]
+  - compendium/src/5e/phb
+  - spell/class/artificer
+  - spell/class/cleric
+  - spell/class/druid
+  - spell/class/druid/circle-of-the-land
+  - spell/class/ranger
+  - spell/class/sorcerer
+  - spell/class/sorcerer/divine-soul
+  - spell/level/3
+  - spell/ritual
+  - spell/school/transmutation
+aliases:
+  - Water Walk
 ---
 # Water Walk
 %%-- Embedded content starts on the next line. --%%

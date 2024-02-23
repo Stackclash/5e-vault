@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/xge
-- spell/class/cleric
-- spell/class/paladin
-- spell/class/sorcerer/divine-soul
-- spell/level/1
-- spell/ritual
-- spell/school/abjuration
-aliases: ["Ceremony"]
+  - compendium/src/5e/xge
+  - spell/class/cleric
+  - spell/class/paladin
+  - spell/class/sorcerer/divine-soul
+  - spell/level/1
+  - spell/ritual
+  - spell/school/abjuration
+aliases:
+  - Ceremony
 ---
 # Ceremony
 %%-- Embedded content starts on the next line. --%%

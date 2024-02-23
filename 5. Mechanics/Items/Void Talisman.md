@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/attunement/required
-- item/property/crfby
-- item/rarity/very-rare
-- item/wondrous
-aliases: 
-- "Void Talisman"
+  - compendium/src/5e/hhhviii
+  - item/attunement/required
+  - item/property/crfby
+  - item/rarity/very-rare
+  - item/wondrous
+aliases:
+  - Void Talisman
 ---
 # Void Talisman
 *Wondrous Item, very rare, Crafted by (requires attunement)*  

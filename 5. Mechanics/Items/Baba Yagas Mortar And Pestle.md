@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/tce
-- item/attunement/required
-- item/rarity/artifact
-- item/wondrous
-aliases: 
-- "Baba Yaga's Mortar and Pestle"
+  - compendium/src/5e/tce
+  - item/attunement/required
+  - item/rarity/artifact
+  - item/wondrous
+aliases:
+  - Baba Yaga's Mortar and Pestle
 ---
 # Baba Yaga's Mortar and Pestle
 *Wondrous Item, artifact (requires attunement)*  

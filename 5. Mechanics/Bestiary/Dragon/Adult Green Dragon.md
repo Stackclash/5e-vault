@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/15
-- monster/environment/forest
-- monster/size/huge
-- monster/type/dragon
+  - compendium/src/5e/mm
+  - monster/cr/15
+  - monster/environment/forest
+  - monster/size/huge
+  - monster/type/dragon
 statblock: inline
-aliases: ["Adult Green Dragon"]
+aliases:
+  - Adult Green Dragon
 ---
 # [[5. Mechanics\Bestiary\Dragon\Adult Green Dragon.md|Adult Green Dragon]]
 *Source: Monster Manual p. 94. Available in the SRD.*  

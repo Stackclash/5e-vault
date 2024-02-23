@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/saf
-- monster/cr/5
-- monster/size/large
-- monster/type/celestial
+  - compendium/src/5e/saf
+  - monster/cr/5
+  - monster/size/large
+  - monster/type/celestial
 statblock: inline
-aliases: ["Alicorn"]
+aliases:
+  - Alicorn
 ---
 # [[5. Mechanics\Bestiary\Celestial\Alicorn.md|Alicorn]]
 *Source: Strongholds and Followers p. 55*  

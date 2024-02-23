@@ -2,21 +2,22 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/class/fighter/eldritch-knight
-- spell/class/paladin
-- spell/class/paladin/oath-of-devotion
-- spell/class/ranger/horizon-walker
-- spell/class/ranger/monster-slayer
-- spell/class/rogue/arcane-trickster
-- spell/class/sorcerer/clockwork-soul
-- spell/class/sorcerer/divine-soul
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/1
-- spell/school/abjuration
-aliases: ["Protection from Evil and Good"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/class/fighter/eldritch-knight
+  - spell/class/paladin
+  - spell/class/paladin/oath-of-devotion
+  - spell/class/ranger/horizon-walker
+  - spell/class/ranger/monster-slayer
+  - spell/class/rogue/arcane-trickster
+  - spell/class/sorcerer/clockwork-soul
+  - spell/class/sorcerer/divine-soul
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/1
+  - spell/school/abjuration
+aliases:
+  - Protection from Evil and Good
 ---
 # Protection from Evil and Good
 %%-- Embedded content starts on the next line. --%%

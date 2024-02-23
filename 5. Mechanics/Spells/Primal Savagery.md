@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/xge
-- spell/class/cleric/nature-domain
-- spell/class/druid
-- spell/class/druid/circle-of-the-land
-- spell/level/cantrip
-- spell/school/transmutation
-aliases: ["Primal Savagery"]
+  - compendium/src/5e/xge
+  - spell/class/cleric/nature-domain
+  - spell/class/druid
+  - spell/class/druid/circle-of-the-land
+  - spell/level/cantrip
+  - spell/school/transmutation
+aliases:
+  - Primal Savagery
 ---
 # Primal Savagery
 %%-- Embedded content starts on the next line. --%%

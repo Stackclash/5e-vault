@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/10
-- monster/environment/desert
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/large
-- monster/type/fiend/devil
+  - compendium/src/5e/mpmm
+  - monster/cr/10
+  - monster/environment/desert
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/large
+  - monster/type/fiend/devil
 statblock: inline
-aliases: ["Orthon"]
+aliases:
+  - Orthon
 ---
 # [[5. Mechanics\Bestiary\Fiend\Orthon.md|Orthon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 205, Mordenkainen's Tome of Foes p. 169*  

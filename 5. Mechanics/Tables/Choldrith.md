@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvii
-aliases: ["Choldrith"]
+  - compendium/src/5e/hhhvii
+aliases:
+  - Choldrith
 ---
 # Choldrith
 *Source: Hamund's Harvesting Handbook: Volume II p. 12* 

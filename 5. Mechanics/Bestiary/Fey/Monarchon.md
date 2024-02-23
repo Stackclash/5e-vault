@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/saf
-- monster/cr/7
-- monster/size/medium
-- monster/type/fey
+  - compendium/src/5e/saf
+  - monster/cr/7
+  - monster/size/medium
+  - monster/type/fey
 statblock: inline
-aliases: ["Monarchon"]
+aliases:
+  - Monarchon
 ---
 # [[5. Mechanics\Bestiary\Fey\Monarchon.md|Monarchon]]
 *Source: Strongholds and Followers p. 179*  

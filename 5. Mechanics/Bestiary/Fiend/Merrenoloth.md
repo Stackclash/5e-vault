@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/3
-- monster/environment/coastal
-- monster/size/medium
-- monster/type/fiend/yugoloth
+  - compendium/src/5e/mpmm
+  - monster/cr/3
+  - monster/environment/coastal
+  - monster/size/medium
+  - monster/type/fiend/yugoloth
 statblock: inline
-aliases: ["Merrenoloth"]
+aliases:
+  - Merrenoloth
 ---
 # [[5. Mechanics\Bestiary\Fiend\Merrenoloth.md|Merrenoloth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 180, Mordenkainen's Tome of Foes p. 250*  

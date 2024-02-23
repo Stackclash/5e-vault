@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/1
-- monster/environment/forest
-- monster/environment/hill
-- monster/environment/underdark
-- monster/size/small
-- monster/type/fey/goblinoid
+  - compendium/src/5e/mpmm
+  - monster/cr/1
+  - monster/environment/forest
+  - monster/environment/hill
+  - monster/environment/underdark
+  - monster/size/small
+  - monster/type/fey/goblinoid
 statblock: inline
-aliases: ["Nilbog"]
+aliases:
+  - Nilbog
 ---
 # [[5. Mechanics\Bestiary\Fey\Nilbog.md|Nilbog]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 195*  

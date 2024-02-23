@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Bulette"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Bulette
 ---
 # Bulette
 *Source: Hamund's Harvesting Handbook: Volume I p. 16* 

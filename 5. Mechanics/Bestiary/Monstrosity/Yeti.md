@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/3
-- monster/environment/arctic
-- monster/size/large
-- monster/type/monstrosity
+  - compendium/src/5e/mm
+  - monster/cr/3
+  - monster/environment/arctic
+  - monster/size/large
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Yeti"]
+aliases:
+  - Yeti
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Yeti.md|Yeti]]
 *Source: Monster Manual p. 305. Available in the Basic Rules.*  

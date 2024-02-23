@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/xge
-aliases: ["Downtime Activity: Gambling"]
+  - compendium/src/5e/xge
+aliases:
+  - 'Downtime Activity: Gambling'
 ---
 # Downtime Activity: Gambling
 *Source: Xanathar's Guide to Everything p. 130* 

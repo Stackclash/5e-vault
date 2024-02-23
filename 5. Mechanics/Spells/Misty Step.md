@@ -2,20 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/druid/circle-of-the-land
-- spell/class/fighter/eldritch-knight
-- spell/class/paladin/oath-of-the-ancients
-- spell/class/paladin/oath-of-vengeance
-- spell/class/ranger/fey-wanderer
-- spell/class/ranger/horizon-walker
-- spell/class/rogue/arcane-trickster
-- spell/class/sorcerer
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/2
-- spell/school/conjuration
-aliases: ["Misty Step"]
+  - compendium/src/5e/phb
+  - spell/class/druid/circle-of-the-land
+  - spell/class/fighter/eldritch-knight
+  - spell/class/paladin/oath-of-the-ancients
+  - spell/class/paladin/oath-of-vengeance
+  - spell/class/ranger/fey-wanderer
+  - spell/class/ranger/horizon-walker
+  - spell/class/rogue/arcane-trickster
+  - spell/class/sorcerer
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/2
+  - spell/school/conjuration
+aliases:
+  - Misty Step
 ---
 # Misty Step
 %%-- Embedded content starts on the next line. --%%

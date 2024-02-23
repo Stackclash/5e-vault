@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/cos
-- monster/cr/5
-- monster/size/medium
-- monster/type/undead
+  - compendium/src/5e/cos
+  - monster/cr/5
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
-aliases: ["Knight of the Order"]
+aliases:
+  - Knight of the Order
 ---
 # [[5. Mechanics\Bestiary\Undead\Knight Of The Order.md|Knight of the Order]]
 *Source: Curse of Strahd p. 139*  

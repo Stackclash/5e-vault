@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/cos
-- monster/cr/1-8
-- monster/size/medium
-- monster/type/humanoid/any-race
+  - compendium/src/5e/cos
+  - monster/cr/1-8
+  - monster/size/medium
+  - monster/type/humanoid/any-race
 statblock: inline
-aliases: ["Vistana Guard"]
+aliases:
+  - Vistana Guard
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Vistana Guard.md|Vistana Guard]]
 *Source: Curse of Strahd p. 28*  

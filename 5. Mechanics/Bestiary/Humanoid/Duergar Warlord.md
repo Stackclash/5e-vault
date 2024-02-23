@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/6
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/humanoid/dwarf
+  - compendium/src/5e/mpmm
+  - monster/cr/6
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/humanoid/dwarf
 statblock: inline
-aliases: ["Duergar Warlord"]
+aliases:
+  - Duergar Warlord
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Duergar Warlord.md|Duergar Warlord]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 111, Mordenkainen's Tome of Foes p. 192*  

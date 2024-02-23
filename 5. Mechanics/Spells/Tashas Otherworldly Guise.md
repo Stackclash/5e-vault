@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/tce
-- spell/level/6
-- spell/school/transmutation
-aliases: ["Tasha's Otherworldly Guise"]
+  - compendium/src/5e/tce
+  - spell/level/6
+  - spell/school/transmutation
+aliases:
+  - Tasha's Otherworldly Guise
 ---
 # Tasha's Otherworldly Guise
 %%-- Embedded content starts on the next line. --%%

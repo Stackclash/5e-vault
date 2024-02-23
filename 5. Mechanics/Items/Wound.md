@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/saf
-- item/attunement/required
-- item/property/heavy
-- item/property/martial
-- item/property/two-handed
-- item/rarity/rare
-- item/weapon/martial/melee
-aliases: 
-- "Wound"
+  - compendium/src/5e/saf
+  - item/attunement/required
+  - item/property/heavy
+  - item/property/martial
+  - item/property/two-handed
+  - item/rarity/rare
+  - item/weapon/martial/melee
+aliases:
+  - Wound
 ---
 # Wound
 *Melee Weapon, rare (requires attunement by a barbarian)*  

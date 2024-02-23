@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/tce
-aliases: ["Solution; Remembered Names"]
+  - compendium/src/5e/tce
+aliases:
+  - Solution; Remembered Names
 ---
 # Solution; Remembered Names
 *Source: Tasha's Cauldron of Everything p. 187* 

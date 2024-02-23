@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/4
-- monster/size/medium
-- monster/type/fiend/devil
+  - compendium/src/5e/mpmm
+  - monster/cr/4
+  - monster/size/medium
+  - monster/type/fiend/devil
 statblock: inline
-aliases: ["Merregon"]
+aliases:
+  - Merregon
 ---
 # [[5. Mechanics\Bestiary\Fiend\Merregon.md|Merregon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 179, Mordenkainen's Tome of Foes p. 166*  

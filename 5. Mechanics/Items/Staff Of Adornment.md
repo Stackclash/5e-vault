@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/xge
-- item/property/versatile
-- item/rarity/common
-- item/tier/minor
-- item/wondrous/staff
-aliases: 
-- "Staff of Adornment"
+  - compendium/src/5e/xge
+  - item/property/versatile
+  - item/rarity/common
+  - item/tier/minor
+  - item/wondrous/staff
+aliases:
+  - Staff of Adornment
 ---
 # Staff of Adornment
 *Staff, minor, common*  

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Will-O-Wisp"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Will-O-Wisp
 ---
 # Will-O-Wisp
 *Source: Hamund's Harvesting Handbook: Volume I p. 106* 

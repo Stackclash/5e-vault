@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/7
-- monster/size/medium
-- monster/type/elemental
+  - compendium/src/5e/mpmm
+  - monster/cr/7
+  - monster/size/medium
+  - monster/type/elemental
 statblock: inline
-aliases: ["Water Elemental Myrmidon"]
+aliases:
+  - Water Elemental Myrmidon
 ---
 # [[5. Mechanics\Bestiary\Elemental\Water Elemental Myrmidon.md|Water Elemental Myrmidon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 123, Mordenkainen's Tome of Foes p. 203*  

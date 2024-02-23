@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/15
-- monster/environment/urban
-- monster/size/medium
-- monster/type/undead/shapechanger
+  - compendium/src/5e/mm
+  - monster/cr/15
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/undead/shapechanger
 statblock: inline
-aliases: ["Vampire Warrior"]
+aliases:
+  - Vampire Warrior
 ---
 # [[5. Mechanics\Bestiary\Undead\Vampire Warrior.md|Vampire Warrior]]
 *Source: Monster Manual p. 298*  

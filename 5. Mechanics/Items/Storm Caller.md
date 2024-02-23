@@ -2,44 +2,44 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/attunement/required
-- item/rarity/very-rare
-- item/wondrous/wondrous-item
-aliases: 
-- "Storm Caller"
-- "Storm Caller Longsword"
-- "Storm Caller Halberd"
-- "Storm Caller Hooked Shortspear"
-- "Storm Caller Light Hammer"
-- "Storm Caller Battleaxe"
-- "Storm Caller Pike"
-- "Storm Caller Flail"
-- "Storm Caller Greatclub"
-- "Storm Caller Yklwa"
-- "Storm Caller Greataxe"
-- "Storm Caller Warhammer"
-- "Storm Caller Morningstar"
-- "Storm Caller Double-Bladed Scimitar"
-- "Storm Caller Glaive"
-- "Storm Caller Dagger"
-- "Storm Caller Handaxe"
-- "Storm Caller Whip"
-- "Storm Caller Trident"
-- "Storm Caller Quarterstaff"
-- "Storm Caller Spear"
-- "Storm Caller Greatsword"
-- "Storm Caller Club"
-- "Storm Caller Rapier"
-- "Storm Caller Maul"
-- "Storm Caller Javelin"
-- "Storm Caller War Pick"
-- "Storm Caller Shortsword"
-- "Storm Caller Sickle"
-- "Storm Caller Hoopak"
-- "Storm Caller Mace"
-- "Storm Caller Lance"
-- "Storm Caller Scimitar"
+  - compendium/src/5e/hhhvi
+  - item/attunement/required
+  - item/rarity/very-rare
+  - item/wondrous/wondrous-item
+aliases:
+  - Storm Caller
+  - Storm Caller Longsword
+  - Storm Caller Halberd
+  - Storm Caller Hooked Shortspear
+  - Storm Caller Light Hammer
+  - Storm Caller Battleaxe
+  - Storm Caller Pike
+  - Storm Caller Flail
+  - Storm Caller Greatclub
+  - Storm Caller Yklwa
+  - Storm Caller Greataxe
+  - Storm Caller Warhammer
+  - Storm Caller Morningstar
+  - Storm Caller Double-Bladed Scimitar
+  - Storm Caller Glaive
+  - Storm Caller Dagger
+  - Storm Caller Handaxe
+  - Storm Caller Whip
+  - Storm Caller Trident
+  - Storm Caller Quarterstaff
+  - Storm Caller Spear
+  - Storm Caller Greatsword
+  - Storm Caller Club
+  - Storm Caller Rapier
+  - Storm Caller Maul
+  - Storm Caller Javelin
+  - Storm Caller War Pick
+  - Storm Caller Shortsword
+  - Storm Caller Sickle
+  - Storm Caller Hoopak
+  - Storm Caller Mace
+  - Storm Caller Lance
+  - Storm Caller Scimitar
 ---
 # Storm Caller
 *Generic Variant, very rare (requires attunement)*  

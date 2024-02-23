@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-4
-- monster/size/small
-- monster/type/construct
+  - compendium/src/5e/mm
+  - monster/cr/1-4
+  - monster/size/small
+  - monster/type/construct
 statblock: inline
-aliases: ["Flying Sword"]
+aliases:
+  - Flying Sword
 ---
 # [[5. Mechanics\Bestiary\Construct\Flying Sword.md|Flying Sword]]
 *Source: Monster Manual p. 20, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  

@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/erlw
-- item/attunement/required
-- item/rarity/common
-- item/wondrous/wondrous-item
-aliases: 
-- "Orb of Shielding (Risian Shale)"
-- "Risian Shale Orb"
-- "Risian Shale Crystal"
+  - compendium/src/5e/erlw
+  - item/attunement/required
+  - item/rarity/common
+  - item/wondrous/wondrous-item
+aliases:
+  - Orb of Shielding (Risian Shale)
+  - Risian Shale Orb
+  - Risian Shale Crystal
 ---
 # Orb of Shielding (Risian Shale)
 *Generic Variant, common (requires attunement)*  

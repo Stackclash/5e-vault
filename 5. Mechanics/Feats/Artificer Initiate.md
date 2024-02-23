@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/tce
-- feat
-aliases: ["Artificer Initiate"]
+  - compendium/src/5e/tce
+  - feat
+aliases:
+  - Artificer Initiate
 ---
 # Artificer Initiate
 *Source: Tasha's Cauldron of Everything p. 79*  

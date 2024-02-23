@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Adventuring Gear; Container Capacity"]
+  - compendium/src/5e/phb
+aliases:
+  - Adventuring Gear; Container Capacity
 ---
 # Adventuring Gear; Container Capacity
 *Source: Player's Handbook p. 148. Available in the SRD and the Basic Rules.* 

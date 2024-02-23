@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/tce
-- optional-feature/ei
-aliases: ["Undying Servitude"]
+  - compendium/src/5e/tce
+  - optional-feature/ei
+aliases:
+  - Undying Servitude
 ---
 # Undying Servitude
 *Source: Tasha's Cauldron of Everything p. 71*  

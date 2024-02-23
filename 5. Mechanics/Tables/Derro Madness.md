@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/mtf
-aliases: ["Derro Madness"]
+  - compendium/src/5e/mtf
+aliases:
+  - Derro Madness
 ---
 # Derro Madness
 *Source: Mordenkainen's Tome of Foes p. 159* 

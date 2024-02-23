@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/vrgr
-- item/gear
-aliases: 
-- "Monster Hunter's Pack"
+  - compendium/src/5e/vrgr
+  - item/gear
+aliases:
+  - Monster Hunter's Pack
 cost: 3300
 ---
 # Monster Hunter's Pack

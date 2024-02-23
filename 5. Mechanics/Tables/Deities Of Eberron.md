@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Deities of Eberron"]
+  - compendium/src/5e/phb
+aliases:
+  - Deities of Eberron
 ---
 # Deities of Eberron
 *Source: Player's Handbook p. 293* 

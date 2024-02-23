@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/erlw
-- item/property/martial
-- item/property/special
-- item/property/two-handed
-- item/weapon/martial/melee
-aliases: 
-- "Double-Bladed Scimitar"
+  - compendium/src/5e/erlw
+  - item/property/martial
+  - item/property/special
+  - item/property/two-handed
+  - item/weapon/martial/melee
+aliases:
+  - Double-Bladed Scimitar
 cost: 10000
 ---
 # Double-Bladed Scimitar

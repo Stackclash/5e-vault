@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/armor/heavy
-- item/attunement/required
-- item/property/crfby
-- item/rarity/very-rare
-aliases: 
-- "+2 Dusk Armor"
+  - compendium/src/5e/hhhvi
+  - item/armor/heavy
+  - item/attunement/required
+  - item/property/crfby
+  - item/rarity/very-rare
+aliases:
+  - +2 Dusk Armor
 ---
 # +2 Dusk Armor
 *Heavy Armor, very rare, Crafted by (requires attunement)*  

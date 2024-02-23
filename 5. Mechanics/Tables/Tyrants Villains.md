@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Tyrants Villains"]
+  - compendium/src/5e/erlw
+aliases:
+  - Tyrants Villains
 ---
 # Tyrants Villains
 *Source: Eberron: Rising from the Last War p. 255* 

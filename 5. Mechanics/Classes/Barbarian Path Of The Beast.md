@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/tce
-- subclass/barbarian/beast
-aliases: ["Path of the Beast"]
+  - compendium/src/5e/tce
+  - subclass/barbarian/beast
+aliases:
+  - Path of the Beast
 ---
 # Path of the Beast
 *[[Barbarian.md\|Barbarian]]: Primal Path*  

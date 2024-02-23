@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/tce
-- optional-feature/ai
-aliases: ["Arcane Propulsion Armor"]
+  - compendium/src/5e/tce
+  - optional-feature/ai
+aliases:
+  - Arcane Propulsion Armor
 ---
 # Arcane Propulsion Armor
 *Source: Tasha's Cauldron of Everything p. 20*  

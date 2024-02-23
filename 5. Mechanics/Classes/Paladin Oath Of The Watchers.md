@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/tce
-- subclass/paladin/watchers
-aliases: ["Oath of the Watchers"]
+  - compendium/src/5e/tce
+  - subclass/paladin/watchers
+aliases:
+  - Oath of the Watchers
 ---
 # Oath of the Watchers
 *[[Paladin.md\|Paladin]]: Sacred Oath*  

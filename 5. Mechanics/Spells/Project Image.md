@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/wizard
-- spell/level/7
-- spell/school/illusion
-aliases: ["Project Image"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/wizard
+  - spell/level/7
+  - spell/school/illusion
+aliases:
+  - Project Image
 ---
 # Project Image
 %%-- Embedded content starts on the next line. --%%

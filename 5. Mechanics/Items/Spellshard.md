@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/erlw
-- item/rarity/common
-- item/wondrous
-aliases: 
-- "Spellshard"
+  - compendium/src/5e/erlw
+  - item/rarity/common
+  - item/wondrous
+aliases:
+  - Spellshard
 ---
 # Spellshard
 *Wondrous Item, common*  

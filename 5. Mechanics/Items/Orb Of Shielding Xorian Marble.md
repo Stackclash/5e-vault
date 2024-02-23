@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/erlw
-- item/attunement/required
-- item/rarity/common
-- item/wondrous/wondrous-item
-aliases: 
-- "Orb of Shielding (Xorian Marble)"
-- "Xorian Marble Orb"
-- "Xorian Marble Crystal"
+  - compendium/src/5e/erlw
+  - item/attunement/required
+  - item/rarity/common
+  - item/wondrous/wondrous-item
+aliases:
+  - Orb of Shielding (Xorian Marble)
+  - Xorian Marble Orb
+  - Xorian Marble Crystal
 ---
 # Orb of Shielding (Xorian Marble)
 *Generic Variant, common (requires attunement)*  

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/tce
-aliases: ["Mirror Zone Effects"]
+  - compendium/src/5e/tce
+aliases:
+  - Mirror Zone Effects
 ---
 # Mirror Zone Effects
 *Source: Tasha's Cauldron of Everything p. 157* 

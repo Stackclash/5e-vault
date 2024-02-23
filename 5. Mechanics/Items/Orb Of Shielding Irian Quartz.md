@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/erlw
-- item/attunement/required
-- item/rarity/common
-- item/wondrous/wondrous-item
-aliases: 
-- "Orb of Shielding (Irian Quartz)"
-- "Irian Quartz Orb"
-- "Irian Quartz Crystal"
+  - compendium/src/5e/erlw
+  - item/attunement/required
+  - item/rarity/common
+  - item/wondrous/wondrous-item
+aliases:
+  - Orb of Shielding (Irian Quartz)
+  - Irian Quartz Orb
+  - Irian Quartz Crystal
 ---
 # Orb of Shielding (Irian Quartz)
 *Generic Variant, common (requires attunement)*  

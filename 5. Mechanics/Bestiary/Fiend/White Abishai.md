@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/6
-- monster/environment/urban
-- monster/size/medium
-- monster/type/fiend/devil
+  - compendium/src/5e/mpmm
+  - monster/cr/6
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/fiend/devil
 statblock: inline
-aliases: ["White Abishai"]
+aliases:
+  - White Abishai
 ---
 # [[5. Mechanics\Bestiary\Fiend\White Abishai.md|White Abishai]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 41, Mordenkainen's Tome of Foes p. 163*  

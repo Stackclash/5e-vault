@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/erlw
-- feat
-aliases: ["Aberrant Dragonmark"]
+  - compendium/src/5e/erlw
+  - feat
+aliases:
+  - Aberrant Dragonmark
 ---
 # Aberrant Dragonmark
 *Source: Eberron: Rising from the Last War p. 52*  

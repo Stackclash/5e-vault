@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-deck
 tags:
-- compendium/src/5e/dmg
-aliases: ["Deck of Many Things (13 Cards)"]
+  - compendium/src/5e/dmg
+aliases:
+  - Deck of Many Things (13 Cards)
 ---
 # Deck of Many Things (13 Cards)
 *Source: Dungeon Master's Guide p. 162. Available in the SRD.*  

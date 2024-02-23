@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/erlw
-- monster/cr/19
-- monster/size/medium
-- monster/type/aberration
+  - compendium/src/5e/erlw
+  - monster/cr/19
+  - monster/size/medium
+  - monster/type/aberration
 statblock: inline
-aliases: ["Kalaraq Quori"]
+aliases:
+  - Kalaraq Quori
 ---
 # [[5. Mechanics\Bestiary\Aberration\Kalaraq Quori.md|Kalaraq Quori]]
 *Source: Eberron: Rising from the Last War p. 306*  

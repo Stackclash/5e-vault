@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/2
-- monster/environment/forest
-- monster/environment/swamp
-- monster/size/small
-- monster/type/plant
+  - compendium/src/5e/mpmm
+  - monster/cr/2
+  - monster/environment/forest
+  - monster/environment/swamp
+  - monster/size/small
+  - monster/type/plant
 statblock: inline
-aliases: ["Vegepygmy Chief"]
+aliases:
+  - Vegepygmy Chief
 ---
 # [[5. Mechanics\Bestiary\Plant\Vegepygmy Chief.md|Vegepygmy Chief]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 253*  

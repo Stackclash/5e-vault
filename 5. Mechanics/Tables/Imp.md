@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Imp"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Imp
 ---
 # Imp
 *Source: Hamund's Harvesting Handbook: Volume I p. 30* 

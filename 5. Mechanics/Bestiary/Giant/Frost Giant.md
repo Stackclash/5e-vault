@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/8
-- monster/environment/arctic
-- monster/environment/mountain
-- monster/size/huge
-- monster/type/giant
+  - compendium/src/5e/mm
+  - monster/cr/8
+  - monster/environment/arctic
+  - monster/environment/mountain
+  - monster/size/huge
+  - monster/type/giant
 statblock: inline
-aliases: ["Frost Giant"]
+aliases:
+  - Frost Giant
 ---
 # [[5. Mechanics\Bestiary\Giant\Frost Giant.md|Frost Giant]]
 *Source: Monster Manual p. 155. Available in the SRD and the Basic Rules.*  

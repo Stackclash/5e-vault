@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/2
-- monster/environment/underwater
-- monster/size/large
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/2
+  - monster/environment/underwater
+  - monster/size/large
+  - monster/type/beast
 statblock: inline
-aliases: ["Hunter Shark"]
+aliases:
+  - Hunter Shark
 ---
 # [[5. Mechanics\Bestiary\Beast\Hunter Shark.md|Hunter Shark]]
 *Source: Monster Manual p. 330. Available in the SRD and the Basic Rules.*  

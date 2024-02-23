@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/hhhviii
-- subclass/ranger/fey-trapper
-aliases: ["Fey Trapper"]
+  - compendium/src/5e/hhhviii
+  - subclass/ranger/fey-trapper
+aliases:
+  - Fey Trapper
 ---
 # Fey Trapper
 *[[Ranger.md\|Ranger]]: Ranger Archetype*  

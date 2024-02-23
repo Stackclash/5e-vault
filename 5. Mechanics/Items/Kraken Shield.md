@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/armor/shield
-- item/attunement/required
-- item/property/crfby
-- item/rarity/legendary
-aliases: 
-- "Kraken Shield"
+  - compendium/src/5e/hhhvi
+  - item/armor/shield
+  - item/attunement/required
+  - item/property/crfby
+  - item/rarity/legendary
+aliases:
+  - Kraken Shield
 ---
 # Kraken Shield
 *Shield, legendary, Crafted by (requires attunement)*  

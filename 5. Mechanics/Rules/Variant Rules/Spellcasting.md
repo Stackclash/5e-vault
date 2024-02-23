@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/xge
-aliases: ["Spellcasting"]
+  - compendium/src/5e/xge
+aliases:
+  - Spellcasting
 ---
 # Spellcasting
 *Source: Xanathar's Guide to Everything p. 85* 

@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/erlw
-- monster/cr/1-8
-- monster/size/medium
-- monster/type/humanoid/any-race
+  - compendium/src/5e/erlw
+  - monster/cr/1-8
+  - monster/size/medium
+  - monster/type/humanoid/any-race
 statblock: inline
-aliases: ["Sergeant"]
+aliases:
+  - Sergeant
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Sergeant.md|Sergeant]]
 *Source: Eberron: Rising from the Last War p. 197*  

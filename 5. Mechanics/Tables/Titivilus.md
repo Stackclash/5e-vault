@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhviii
-aliases: ["Titivilus"]
+  - compendium/src/5e/hhhviii
+aliases:
+  - Titivilus
 ---
 # Titivilus
 *Source: Hamund's Harvesting Handbook: Volume III p. 35* 

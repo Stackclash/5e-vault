@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["100 gp Gemstones"]
+  - compendium/src/5e/dmg
+aliases:
+  - 100 gp Gemstones
 ---
 # 100 gp Gemstones
 *Source: Dungeon Master's Guide p. 134* 

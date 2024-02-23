@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vrgr
-aliases: ["Folk Horror Monsters"]
+  - compendium/src/5e/vrgr
+aliases:
+  - Folk Horror Monsters
 ---
 # Folk Horror Monsters
 *Source: Van Richten's Guide to Ravenloft p. 52* 

@@ -2,51 +2,51 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvii
-- item/attunement/required
-- item/rarity/very-rare
-- item/wondrous/wondrous-item
-aliases: 
-- "Bite of Varpak"
-- "Bite of Varpak Heavy Crossbow"
-- "Bite of Varpak Longsword"
-- "Bite of Varpak Hunting Rifle"
-- "Bite of Varpak Automatic Rifle"
-- "Bite of Varpak Halberd"
-- "Bite of Varpak Pistol"
-- "Bite of Varpak Hooked Shortspear"
-- "Bite of Varpak Battleaxe"
-- "Bite of Varpak Pike"
-- "Bite of Varpak Musket"
-- "Bite of Varpak Yklwa"
-- "Bite of Varpak Greataxe"
-- "Bite of Varpak Light Crossbow"
-- "Bite of Varpak Morningstar"
-- "Bite of Varpak Double-Bladed Scimitar"
-- "Bite of Varpak Shotgun"
-- "Bite of Varpak Glaive"
-- "Bite of Varpak Dagger"
-- "Bite of Varpak Longbow"
-- "Bite of Varpak Shortbow"
-- "Bite of Varpak Handaxe"
-- "Bite of Varpak Whip"
-- "Bite of Varpak Trident"
-- "Bite of Varpak Spear"
-- "Bite of Varpak Hand Crossbow"
-- "Bite of Varpak Automatic Pistol"
-- "Bite of Varpak Greatsword"
-- "Bite of Varpak Rapier"
-- "Bite of Varpak Javelin"
-- "Bite of Varpak War Pick"
-- "Bite of Varpak Shortsword"
-- "Bite of Varpak Revolver"
-- "Bite of Varpak Sickle"
-- "Bite of Varpak Blowgun"
-- "Bite of Varpak Hoopak"
-- "Bite of Varpak Lance"
-- "Bite of Varpak Dart"
-- "Bite of Varpak Light Repeating Crossbow"
-- "Bite of Varpak Scimitar"
+  - compendium/src/5e/hhhvii
+  - item/attunement/required
+  - item/rarity/very-rare
+  - item/wondrous/wondrous-item
+aliases:
+  - Bite of Varpak
+  - Bite of Varpak Heavy Crossbow
+  - Bite of Varpak Longsword
+  - Bite of Varpak Hunting Rifle
+  - Bite of Varpak Automatic Rifle
+  - Bite of Varpak Halberd
+  - Bite of Varpak Pistol
+  - Bite of Varpak Hooked Shortspear
+  - Bite of Varpak Battleaxe
+  - Bite of Varpak Pike
+  - Bite of Varpak Musket
+  - Bite of Varpak Yklwa
+  - Bite of Varpak Greataxe
+  - Bite of Varpak Light Crossbow
+  - Bite of Varpak Morningstar
+  - Bite of Varpak Double-Bladed Scimitar
+  - Bite of Varpak Shotgun
+  - Bite of Varpak Glaive
+  - Bite of Varpak Dagger
+  - Bite of Varpak Longbow
+  - Bite of Varpak Shortbow
+  - Bite of Varpak Handaxe
+  - Bite of Varpak Whip
+  - Bite of Varpak Trident
+  - Bite of Varpak Spear
+  - Bite of Varpak Hand Crossbow
+  - Bite of Varpak Automatic Pistol
+  - Bite of Varpak Greatsword
+  - Bite of Varpak Rapier
+  - Bite of Varpak Javelin
+  - Bite of Varpak War Pick
+  - Bite of Varpak Shortsword
+  - Bite of Varpak Revolver
+  - Bite of Varpak Sickle
+  - Bite of Varpak Blowgun
+  - Bite of Varpak Hoopak
+  - Bite of Varpak Lance
+  - Bite of Varpak Dart
+  - Bite of Varpak Light Repeating Crossbow
+  - Bite of Varpak Scimitar
 ---
 # Bite of Varpak
 *Generic Variant, very rare (requires attunement)*  

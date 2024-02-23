@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/property/crfby
-- item/rarity/very-rare
-- item/wondrous/potion
-aliases: 
-- "Dragon Turtle Jelly"
+  - compendium/src/5e/hhhvi
+  - item/property/crfby
+  - item/rarity/very-rare
+  - item/wondrous/potion
+aliases:
+  - Dragon Turtle Jelly
 ---
 # Dragon Turtle Jelly
 *Potion, very rare, Crafted by*  

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vrgr
-aliases: ["Welcome to Viktal; Sights in Viktal"]
+  - compendium/src/5e/vrgr
+aliases:
+  - Welcome to Viktal; Sights in Viktal
 ---
 # Welcome to Viktal; Sights in Viktal
 *Source: Van Richten's Guide to Ravenloft p. 160* 

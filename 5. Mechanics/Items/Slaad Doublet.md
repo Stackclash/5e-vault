@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/armor/medium
-- item/attunement/required
-- item/property/crfby
-- item/rarity/very-rare
-aliases: 
-- "Slaad Doublet"
+  - compendium/src/5e/hhhvi
+  - item/armor/medium
+  - item/attunement/required
+  - item/property/crfby
+  - item/rarity/very-rare
+aliases:
+  - Slaad Doublet
 ---
 # Slaad Doublet
 *Medium Armor, very rare, Crafted by (requires attunement)*  

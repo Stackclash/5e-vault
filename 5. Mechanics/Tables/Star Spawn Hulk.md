@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhviii
-aliases: ["Star Spawn Hulk"]
+  - compendium/src/5e/hhhviii
+aliases:
+  - Star Spawn Hulk
 ---
 # Star Spawn Hulk
 *Source: Hamund's Harvesting Handbook: Volume III p. 64* 

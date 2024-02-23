@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/dmg
-- race/skeleton/dmg
-aliases: ["Skeleton (DMG)"]
+  - compendium/src/5e/dmg
+  - race/skeleton/dmg
+aliases:
+  - Skeleton (DMG)
 ---
 # Skeleton (DMG)
 *Source: Dungeon Master's Guide p. 282*  

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/xge
-- optional-feature/as
-aliases: ["Grasping Arrow"]
+  - compendium/src/5e/xge
+  - optional-feature/as
+aliases:
+  - Grasping Arrow
 ---
 # Grasping Arrow
 *Source: Xanathar's Guide to Everything p. 29*  

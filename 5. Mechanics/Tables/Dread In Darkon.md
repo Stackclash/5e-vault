@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vrgr
-aliases: ["Dread in Darkon"]
+  - compendium/src/5e/vrgr
+aliases:
+  - Dread in Darkon
 ---
 # Dread in Darkon
 *Source: Van Richten's Guide to Ravenloft p. 93* 

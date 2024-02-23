@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/tce
-- subclass/wizard/scribes
-aliases: ["Order of Scribes"]
+  - compendium/src/5e/tce
+  - subclass/wizard/scribes
+aliases:
+  - Order of Scribes
 ---
 # Order of Scribes
 *[[Wizard.md\|Wizard]]: Arcane Tradition*  

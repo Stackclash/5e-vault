@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/1-8
-- monster/environment/hill
-- monster/environment/underdark
-- monster/size/tiny
-- monster/type/aberration
+  - compendium/src/5e/mpmm
+  - monster/cr/1-8
+  - monster/environment/hill
+  - monster/environment/underdark
+  - monster/size/tiny
+  - monster/type/aberration
 statblock: inline
-aliases: ["Neogi Hatchling"]
+aliases:
+  - Neogi Hatchling
 ---
 # [[5. Mechanics\Bestiary\Aberration\Neogi Hatchling.md|Neogi Hatchling]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 191*  

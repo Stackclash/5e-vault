@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/8
-- monster/environment/coastal
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/size/large
-- monster/type/fiend/demon
+  - compendium/src/5e/mpmm
+  - monster/cr/8
+  - monster/environment/coastal
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/size/large
+  - monster/type/fiend/demon
 statblock: inline
-aliases: ["Shoosuva"]
+aliases:
+  - Shoosuva
 ---
 # [[5. Mechanics\Bestiary\Fiend\Shoosuva.md|Shoosuva]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 216*  

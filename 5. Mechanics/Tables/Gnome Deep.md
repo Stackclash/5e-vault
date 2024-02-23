@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Gnome, Deep"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - 'Gnome, Deep'
 ---
 # Gnome, Deep
 *Source: Hamund's Harvesting Handbook: Volume I p. 57* 

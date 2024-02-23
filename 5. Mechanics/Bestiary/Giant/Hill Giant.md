@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/5
-- monster/environment/hill
-- monster/size/huge
-- monster/type/giant
+  - compendium/src/5e/mm
+  - monster/cr/5
+  - monster/environment/hill
+  - monster/size/huge
+  - monster/type/giant
 statblock: inline
-aliases: ["Hill Giant"]
+aliases:
+  - Hill Giant
 ---
 # [[5. Mechanics\Bestiary\Giant\Hill Giant.md|Hill Giant]]
 *Source: Monster Manual p. 155, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/xge
-aliases: ["Crafting Magic Items; Magic Item Ingredients"]
+  - compendium/src/5e/xge
+aliases:
+  - Crafting Magic Items; Magic Item Ingredients
 ---
 # Crafting Magic Items; Magic Item Ingredients
 *Source: Xanathar's Guide to Everything p. 128* 

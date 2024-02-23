@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/erlw
-- item/attunement/required
-- item/rarity/common
-- item/wondrous/wondrous-item
-aliases: 
-- "Orb of Shielding (Shavarran Chert)"
-- "Shavarran Chert Orb"
-- "Shavarran Chert Crystal"
+  - compendium/src/5e/erlw
+  - item/attunement/required
+  - item/rarity/common
+  - item/wondrous/wondrous-item
+aliases:
+  - Orb of Shielding (Shavarran Chert)
+  - Shavarran Chert Orb
+  - Shavarran Chert Crystal
 ---
 # Orb of Shielding (Shavarran Chert)
 *Generic Variant, common (requires attunement)*  

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhviii
-aliases: ["Armanite"]
+  - compendium/src/5e/hhhviii
+aliases:
+  - Armanite
 ---
 # Armanite
 *Source: Hamund's Harvesting Handbook: Volume III p. 19* 

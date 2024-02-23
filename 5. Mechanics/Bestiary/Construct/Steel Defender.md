@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/tce
-- monster/cr/
-- monster/size/medium
-- monster/type/construct
+  - compendium/src/5e/tce
+  - monster/cr/
+  - monster/size/medium
+  - monster/type/construct
 statblock: inline
-aliases: ["Steel Defender"]
+aliases:
+  - Steel Defender
 ---
 # [[5. Mechanics\Bestiary\Construct\Steel Defender.md|Steel Defender]]
 *Source: Tasha's Cauldron of Everything p. 19, Eberron: Rising from the Last War p. 61*  

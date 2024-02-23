@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Random Obstacles; Obstacles"]
+  - compendium/src/5e/dmg
+aliases:
+  - Random Obstacles; Obstacles
 ---
 # Random Obstacles; Obstacles
 *Source: Dungeon Master's Guide p. 296* 

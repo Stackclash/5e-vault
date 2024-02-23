@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhviii
-aliases: ["Canoloth"]
+  - compendium/src/5e/hhhviii
+aliases:
+  - Canoloth
 ---
 # Canoloth
 *Source: Hamund's Harvesting Handbook: Volume III p. 72* 

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/tce
-- optional-feature/fs-r
-aliases: ["Druidic Warrior"]
+  - compendium/src/5e/tce
+  - optional-feature/fs-r
+aliases:
+  - Druidic Warrior
 ---
 # Druidic Warrior
 *Source: Tasha's Cauldron of Everything p. 57*  

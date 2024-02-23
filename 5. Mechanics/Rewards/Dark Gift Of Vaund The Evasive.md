@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/cos
-- reward/charm
-aliases: ["Dark Gift of Vaund the Evasive"]
+  - compendium/src/5e/cos
+  - reward/charm
+aliases:
+  - Dark Gift of Vaund the Evasive
 ---
 # Dark Gift of Vaund the Evasive
 *Charm*  

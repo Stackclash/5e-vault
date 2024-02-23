@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/1-2
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/beast
+  - compendium/src/5e/mpmm
+  - monster/cr/1-2
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/beast
 statblock: inline
-aliases: ["Swarm of Rot Grubs"]
+aliases:
+  - Swarm of Rot Grubs
 ---
 # [[5. Mechanics\Bestiary\Beast\Swarm Of Rot Grubs.md|Swarm of Rot Grubs]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 237*  

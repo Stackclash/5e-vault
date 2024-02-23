@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvii
-- item/rarity/very-rare
-- item/wondrous/wondrous-item
-aliases: 
-- "Fire Flash Armor"
-- "Fire Flash Chain Mail"
-- "Fire Flash Plate Armor"
-- "Fire Flash Splint Armor"
-- "Fire Flash Ring Mail"
+  - compendium/src/5e/hhhvii
+  - item/rarity/very-rare
+  - item/wondrous/wondrous-item
+aliases:
+  - Fire Flash Armor
+  - Fire Flash Chain Mail
+  - Fire Flash Plate Armor
+  - Fire Flash Splint Armor
+  - Fire Flash Ring Mail
 ---
 # Fire Flash Armor
 *Generic Variant, very rare*  

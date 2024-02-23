@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/phb
-- optional-feature/mv-b
-aliases: ["Parry"]
+  - compendium/src/5e/phb
+  - optional-feature/mv-b
+aliases:
+  - Parry
 ---
 # Parry
 *Source: Player's Handbook p. 74*  

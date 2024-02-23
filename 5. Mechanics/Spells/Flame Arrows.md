@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/xge
-- spell/class/artificer
-- spell/class/druid
-- spell/class/fighter/eldritch-knight
-- spell/class/ranger
-- spell/class/rogue/arcane-trickster
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/3
-- spell/school/transmutation
-aliases: ["Flame Arrows"]
+  - compendium/src/5e/xge
+  - spell/class/artificer
+  - spell/class/druid
+  - spell/class/fighter/eldritch-knight
+  - spell/class/ranger
+  - spell/class/rogue/arcane-trickster
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/3
+  - spell/school/transmutation
+aliases:
+  - Flame Arrows
 ---
 # Flame Arrows
 %%-- Embedded content starts on the next line. --%%

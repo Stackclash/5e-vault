@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/erlw
-- monster/cr/3
-- monster/size/medium
-- monster/type/aberration
+  - compendium/src/5e/erlw
+  - monster/cr/3
+  - monster/size/medium
+  - monster/type/aberration
 statblock: inline
-aliases: ["Dolgaunt"]
+aliases:
+  - Dolgaunt
 ---
 # [[5. Mechanics\Bestiary\Aberration\Dolgaunt.md|Dolgaunt]]
 *Source: Eberron: Rising from the Last War p. 290*  

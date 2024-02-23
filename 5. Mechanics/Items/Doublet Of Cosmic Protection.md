@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/attunement/required
-- item/rarity/very-rare
-- item/wondrous/wondrous-item
-aliases: 
-- "Doublet of Cosmic Protection"
-- "Hide Armor Doublet of Cosmic Protection"
-- "Leather Armor Doublet of Cosmic Protection"
-- "Studded Leather Armor Doublet of Cosmic Protection"
+  - compendium/src/5e/hhhviii
+  - item/attunement/required
+  - item/rarity/very-rare
+  - item/wondrous/wondrous-item
+aliases:
+  - Doublet of Cosmic Protection
+  - Hide Armor Doublet of Cosmic Protection
+  - Leather Armor Doublet of Cosmic Protection
+  - Studded Leather Armor Doublet of Cosmic Protection
 ---
 # Doublet of Cosmic Protection
 *Generic Variant, very rare (requires attunement)*  

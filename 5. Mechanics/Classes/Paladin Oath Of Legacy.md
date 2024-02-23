@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/hhhviii
-- subclass/paladin/legacy
-aliases: ["Oath of Legacy"]
+  - compendium/src/5e/hhhviii
+  - subclass/paladin/legacy
+aliases:
+  - Oath of Legacy
 ---
 # Oath of Legacy
 *[[Paladin.md\|Paladin]]: Sacred Oath*  

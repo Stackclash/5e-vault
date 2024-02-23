@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vrgr
-aliases: ["Adventures in the Carnival; Carnival Adventures"]
+  - compendium/src/5e/vrgr
+aliases:
+  - Adventures in the Carnival; Carnival Adventures
 ---
 # Adventures in the Carnival; Carnival Adventures
 *Source: Van Richten's Guide to Ravenloft p. 87* 

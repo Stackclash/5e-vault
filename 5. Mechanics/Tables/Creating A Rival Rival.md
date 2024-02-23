@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/xge
-aliases: ["Creating a Rival; Rival"]
+  - compendium/src/5e/xge
+aliases:
+  - Creating a Rival; Rival
 ---
 # Creating a Rival; Rival
 *Source: Xanathar's Guide to Everything p. 124* 

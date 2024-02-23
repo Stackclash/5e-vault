@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/14
-- monster/environment/grassland
-- monster/size/large
-- monster/type/construct
+  - compendium/src/5e/mpmm
+  - monster/cr/14
+  - monster/environment/grassland
+  - monster/size/large
+  - monster/type/construct
 statblock: inline
-aliases: ["Cadaver Collector"]
+aliases:
+  - Cadaver Collector
 ---
 # [[5. Mechanics\Bestiary\Construct\Cadaver Collector.md|Cadaver Collector]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 68, Mordenkainen's Tome of Foes p. 122*  

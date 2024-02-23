@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/saf
-- race/gemstone-dragonborn
-aliases: ["Gemstone Dragonborn"]
+  - compendium/src/5e/saf
+  - race/gemstone-dragonborn
+aliases:
+  - Gemstone Dragonborn
 ---
 # Gemstone Dragonborn
 *Source: Strongholds and Followers*  

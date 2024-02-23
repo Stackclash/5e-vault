@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vrgr
-aliases: ["Falkovnia Adventures"]
+  - compendium/src/5e/vrgr
+aliases:
+  - Falkovnia Adventures
 ---
 # Falkovnia Adventures
 *Source: Van Richten's Guide to Ravenloft p. 103* 

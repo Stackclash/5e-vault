@@ -2,43 +2,43 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/rarity/very-rare
-- item/wondrous/wondrous-item
-aliases: 
-- "Hellbolt Striker"
-- "Hellbolt Striker Longsword"
-- "Hellbolt Striker Halberd"
-- "Hellbolt Striker Hooked Shortspear"
-- "Hellbolt Striker Light Hammer"
-- "Hellbolt Striker Battleaxe"
-- "Hellbolt Striker Pike"
-- "Hellbolt Striker Flail"
-- "Hellbolt Striker Greatclub"
-- "Hellbolt Striker Yklwa"
-- "Hellbolt Striker Greataxe"
-- "Hellbolt Striker Warhammer"
-- "Hellbolt Striker Morningstar"
-- "Hellbolt Striker Double-Bladed Scimitar"
-- "Hellbolt Striker Glaive"
-- "Hellbolt Striker Dagger"
-- "Hellbolt Striker Handaxe"
-- "Hellbolt Striker Whip"
-- "Hellbolt Striker Trident"
-- "Hellbolt Striker Quarterstaff"
-- "Hellbolt Striker Spear"
-- "Hellbolt Striker Greatsword"
-- "Hellbolt Striker Club"
-- "Hellbolt Striker Rapier"
-- "Hellbolt Striker Maul"
-- "Hellbolt Striker Javelin"
-- "Hellbolt Striker War Pick"
-- "Hellbolt Striker Shortsword"
-- "Hellbolt Striker Sickle"
-- "Hellbolt Striker Hoopak"
-- "Hellbolt Striker Mace"
-- "Hellbolt Striker Lance"
-- "Hellbolt Striker Scimitar"
+  - compendium/src/5e/hhhviii
+  - item/rarity/very-rare
+  - item/wondrous/wondrous-item
+aliases:
+  - Hellbolt Striker
+  - Hellbolt Striker Longsword
+  - Hellbolt Striker Halberd
+  - Hellbolt Striker Hooked Shortspear
+  - Hellbolt Striker Light Hammer
+  - Hellbolt Striker Battleaxe
+  - Hellbolt Striker Pike
+  - Hellbolt Striker Flail
+  - Hellbolt Striker Greatclub
+  - Hellbolt Striker Yklwa
+  - Hellbolt Striker Greataxe
+  - Hellbolt Striker Warhammer
+  - Hellbolt Striker Morningstar
+  - Hellbolt Striker Double-Bladed Scimitar
+  - Hellbolt Striker Glaive
+  - Hellbolt Striker Dagger
+  - Hellbolt Striker Handaxe
+  - Hellbolt Striker Whip
+  - Hellbolt Striker Trident
+  - Hellbolt Striker Quarterstaff
+  - Hellbolt Striker Spear
+  - Hellbolt Striker Greatsword
+  - Hellbolt Striker Club
+  - Hellbolt Striker Rapier
+  - Hellbolt Striker Maul
+  - Hellbolt Striker Javelin
+  - Hellbolt Striker War Pick
+  - Hellbolt Striker Shortsword
+  - Hellbolt Striker Sickle
+  - Hellbolt Striker Hoopak
+  - Hellbolt Striker Mace
+  - Hellbolt Striker Lance
+  - Hellbolt Striker Scimitar
 ---
 # Hellbolt Striker
 *Generic Variant, very rare*  

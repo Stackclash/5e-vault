@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-4
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/humanoid/troglodyte
+  - compendium/src/5e/mm
+  - monster/cr/1-4
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/humanoid/troglodyte
 statblock: inline
-aliases: ["Troglodyte"]
+aliases:
+  - Troglodyte
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Troglodyte.md|Troglodyte]]
 *Source: Monster Manual p. 290*  

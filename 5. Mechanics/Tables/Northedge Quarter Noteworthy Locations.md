@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Northedge Quarter: Noteworthy Locations"]
+  - compendium/src/5e/erlw
+aliases:
+  - 'Northedge Quarter: Noteworthy Locations'
 ---
 # Northedge Quarter: Noteworthy Locations
 *Source: Eberron: Rising from the Last War p. 171* 

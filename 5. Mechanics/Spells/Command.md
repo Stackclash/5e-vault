@@ -2,18 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard/college-of-glamour
-- spell/class/cleric
-- spell/class/cleric/knowledge-domain
-- spell/class/cleric/order-domain
-- spell/class/paladin
-- spell/class/paladin/oath-of-conquest
-- spell/class/sorcerer/divine-soul
-- spell/class/warlock/the-fiend
-- spell/level/1
-- spell/school/enchantment
-aliases: ["Command"]
+  - compendium/src/5e/phb
+  - spell/class/bard/college-of-glamour
+  - spell/class/cleric
+  - spell/class/cleric/knowledge-domain
+  - spell/class/cleric/order-domain
+  - spell/class/paladin
+  - spell/class/paladin/oath-of-conquest
+  - spell/class/sorcerer/divine-soul
+  - spell/class/warlock/the-fiend
+  - spell/level/1
+  - spell/school/enchantment
+aliases:
+  - Command
 ---
 # Command
 %%-- Embedded content starts on the next line. --%%

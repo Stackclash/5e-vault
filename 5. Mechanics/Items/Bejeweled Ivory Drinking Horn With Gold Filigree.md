@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/wealth/art-object
-aliases: 
-- "Bejeweled ivory drinking horn with gold filigree"
+  - compendium/src/5e/dmg
+  - item/wealth/art-object
+aliases:
+  - Bejeweled ivory drinking horn with gold filigree
 cost: 750000
 ---
 # Bejeweled ivory drinking horn with gold filigree

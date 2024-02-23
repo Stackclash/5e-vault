@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/11
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/fiend/demon
+  - compendium/src/5e/mpmm
+  - monster/cr/11
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/fiend/demon
 statblock: inline
-aliases: ["Alkilith"]
+aliases:
+  - Alkilith
 ---
 # [[5. Mechanics\Bestiary\Fiend\Alkilith.md|Alkilith]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 44, Mordenkainen's Tome of Foes p. 130*  

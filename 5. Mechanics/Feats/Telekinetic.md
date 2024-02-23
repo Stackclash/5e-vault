@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/tce
-- feat
-aliases: ["Telekinetic"]
+  - compendium/src/5e/tce
+  - feat
+aliases:
+  - Telekinetic
 ---
 # Telekinetic
 *Source: Tasha's Cauldron of Everything p. 81*  

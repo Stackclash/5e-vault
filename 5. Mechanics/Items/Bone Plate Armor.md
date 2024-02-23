@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvii
-- item/armor/heavy
-- item/property/crfby
-aliases: 
-- "Bone Plate Armor"
+  - compendium/src/5e/hhhvii
+  - item/armor/heavy
+  - item/property/crfby
+aliases:
+  - Bone Plate Armor
 cost: 150000
 ---
 # Bone Plate Armor

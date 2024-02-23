@@ -2,18 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer
-- spell/class/bard
-- spell/class/cleric/forge-domain
-- spell/class/cleric/knowledge-domain
-- spell/class/fighter/eldritch-knight
-- spell/class/rogue/arcane-trickster
-- spell/class/wizard
-- spell/level/1
-- spell/ritual
-- spell/school/divination
-aliases: ["Identify"]
+  - compendium/src/5e/phb
+  - spell/class/artificer
+  - spell/class/bard
+  - spell/class/cleric/forge-domain
+  - spell/class/cleric/knowledge-domain
+  - spell/class/fighter/eldritch-knight
+  - spell/class/rogue/arcane-trickster
+  - spell/class/wizard
+  - spell/level/1
+  - spell/ritual
+  - spell/school/divination
+aliases:
+  - Identify
 ---
 # Identify
 %%-- Embedded content starts on the next line. --%%

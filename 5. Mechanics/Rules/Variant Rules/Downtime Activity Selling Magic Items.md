@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Downtime Activity: Selling Magic Items"]
+  - compendium/src/5e/dmg
+aliases:
+  - 'Downtime Activity: Selling Magic Items'
 ---
 # Downtime Activity: Selling Magic Items
 *Source: Dungeon Master's Guide p. 129* 

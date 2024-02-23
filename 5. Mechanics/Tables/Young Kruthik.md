@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhviii
-aliases: ["Young Kruthik"]
+  - compendium/src/5e/hhhviii
+aliases:
+  - Young Kruthik
 ---
 # Young Kruthik
 *Source: Hamund's Harvesting Handbook: Volume III p. 50* 

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/tce
-- subclass/artificer/alchemist
-aliases: ["Alchemist"]
+  - compendium/src/5e/tce
+  - subclass/artificer/alchemist
+aliases:
+  - Alchemist
 ---
 # Alchemist
 *[[Artificer.md\|Artificer]]: Artificer Specialist*  

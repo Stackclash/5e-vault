@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/property/crfby
-- item/rarity/common
-- item/wondrous
-aliases: 
-- "Demon Music Box"
+  - compendium/src/5e/hhhvi
+  - item/property/crfby
+  - item/rarity/common
+  - item/wondrous
+aliases:
+  - Demon Music Box
 ---
 # Demon Music Box
 *Wondrous Item, common, Crafted by*  

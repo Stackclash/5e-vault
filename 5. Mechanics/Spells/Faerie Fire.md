@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer
-- spell/class/bard
-- spell/class/cleric/light-domain
-- spell/class/cleric/twilight-domain
-- spell/class/druid
-- spell/class/ranger/swarmkeeper
-- spell/class/warlock/the-archfey
-- spell/level/1
-- spell/school/evocation
-aliases: ["Faerie Fire"]
+  - compendium/src/5e/phb
+  - spell/class/artificer
+  - spell/class/bard
+  - spell/class/cleric/light-domain
+  - spell/class/cleric/twilight-domain
+  - spell/class/druid
+  - spell/class/ranger/swarmkeeper
+  - spell/class/warlock/the-archfey
+  - spell/level/1
+  - spell/school/evocation
+aliases:
+  - Faerie Fire
 ---
 # Faerie Fire
 %%-- Embedded content starts on the next line. --%%

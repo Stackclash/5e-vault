@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/sorcerer/aberrant-mind
-- spell/class/warlock
-- spell/level/1
-- spell/school/conjuration
-aliases: ["Arms of Hadar"]
+  - compendium/src/5e/phb
+  - spell/class/sorcerer/aberrant-mind
+  - spell/class/warlock
+  - spell/level/1
+  - spell/school/conjuration
+aliases:
+  - Arms of Hadar
 ---
 # Arms of Hadar
 %%-- Embedded content starts on the next line. --%%

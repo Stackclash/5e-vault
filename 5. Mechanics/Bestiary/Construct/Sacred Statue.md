@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/
-- monster/size/large
-- monster/type/construct
+  - compendium/src/5e/mpmm
+  - monster/cr/
+  - monster/size/large
+  - monster/type/construct
 statblock: inline
-aliases: ["Sacred Statue"]
+aliases:
+  - Sacred Statue
 ---
 # [[5. Mechanics\Bestiary\Construct\Sacred Statue.md|Sacred Statue]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 114, Mordenkainen's Tome of Foes p. 194*  

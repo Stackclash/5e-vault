@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/mpmm
-- race/sea-elf
-aliases: ["Sea Elf"]
+  - compendium/src/5e/mpmm
+  - race/sea-elf
+aliases:
+  - Sea Elf
 ---
 # Sea Elf
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 30*  

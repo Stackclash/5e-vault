@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/vrgr
-- race/dhampir
-aliases: ["Dhampir"]
+  - compendium/src/5e/vrgr
+  - race/dhampir
+aliases:
+  - Dhampir
 ---
 # Dhampir
 *Source: Van Richten's Guide to Ravenloft p. 16*  

@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/property/crfby
-- item/property/finesse
-- item/property/light
-- item/property/thrown
-- item/rarity/rare
-- item/weapon/simple/melee
-aliases: 
-- "Frost Dagger"
+  - compendium/src/5e/hhhviii
+  - item/property/crfby
+  - item/property/finesse
+  - item/property/light
+  - item/property/thrown
+  - item/rarity/rare
+  - item/weapon/simple/melee
+aliases:
+  - Frost Dagger
 ---
 # Frost Dagger
 *Melee Weapon, rare, Crafted by*  

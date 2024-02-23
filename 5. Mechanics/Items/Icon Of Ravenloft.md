@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/cos
-- item/attunement/required
-- item/rarity/legendary
-- item/wondrous
-aliases: 
-- "Icon of Ravenloft"
+  - compendium/src/5e/cos
+  - item/attunement/required
+  - item/rarity/legendary
+  - item/wondrous
+aliases:
+  - Icon of Ravenloft
 ---
 # Icon of Ravenloft
 *Wondrous Item, legendary (requires attunement by a creature of good alignment)*  

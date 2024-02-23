@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-deck
 tags:
-- compendium/src/5e/cos
-aliases: ["Tarokka Deck"]
+  - compendium/src/5e/cos
+aliases:
+  - Tarokka Deck
 ---
 # Tarokka Deck
 *Source: Curse of Strahd p. 243*  

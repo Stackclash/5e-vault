@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/tce
-- monster/cr/
-- monster/size/small
-- monster/type/beast
+  - compendium/src/5e/tce
+  - monster/cr/
+  - monster/size/small
+  - monster/type/beast
 statblock: inline
-aliases: ["Bestial Spirit (Land, 4th-Level Spell)"]
+aliases:
+  - 'Bestial Spirit (Land, 4th-Level Spell)'
 ---
 # [[5. Mechanics\Bestiary\Beast\Bestial Spirit Land 4th Level Spell.md|Bestial Spirit (Land, 4th-Level Spell)]]
 *Source: Tasha's Cauldron of Everything p. 109*  

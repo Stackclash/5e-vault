@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/cos
-- monster/cr/1-4
-- monster/size/small
-- monster/type/construct
+  - compendium/src/5e/cos
+  - monster/cr/1-4
+  - monster/size/small
+  - monster/type/construct
 statblock: inline
-aliases: ["Animated Halberd"]
+aliases:
+  - Animated Halberd
 ---
 # [[5. Mechanics\Bestiary\Construct\Animated Halberd.md|Animated Halberd]]
 *Source: Curse of Strahd p. 59*  

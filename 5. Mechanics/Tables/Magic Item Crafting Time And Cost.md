@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Magic Item Crafting Time and Cost"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Magic Item Crafting Time and Cost
 ---
 # Magic Item Crafting Time and Cost
 *Source: Hamund's Harvesting Handbook: Volume I p. 113, Hamund's Harvesting Handbook: Volume II p. 49, Hamund's Harvesting Handbook: Volume III p. 76* 

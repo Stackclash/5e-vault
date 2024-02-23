@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhviii
-aliases: ["Spirit Troll"]
+  - compendium/src/5e/hhhviii
+aliases:
+  - Spirit Troll
 ---
 # Spirit Troll
 *Source: Hamund's Harvesting Handbook: Volume III p. 70* 

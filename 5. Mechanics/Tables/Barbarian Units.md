@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/saf
-aliases: ["Barbarian Units"]
+  - compendium/src/5e/saf
+aliases:
+  - Barbarian Units
 ---
 # Barbarian Units
 *Source: Strongholds and Followers* 

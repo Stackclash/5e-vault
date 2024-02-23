@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/1-4
-- monster/environment/forest
-- monster/environment/swamp
-- monster/size/small
-- monster/type/plant
+  - compendium/src/5e/mpmm
+  - monster/cr/1-4
+  - monster/environment/forest
+  - monster/environment/swamp
+  - monster/size/small
+  - monster/type/plant
 statblock: inline
-aliases: ["Vegepygmy"]
+aliases:
+  - Vegepygmy
 ---
 # [[5. Mechanics\Bestiary\Plant\Vegepygmy.md|Vegepygmy]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 252*  

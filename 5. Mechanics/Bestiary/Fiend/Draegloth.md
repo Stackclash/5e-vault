@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/7
-- monster/environment/underdark
-- monster/size/large
-- monster/type/fiend/demon
+  - compendium/src/5e/mpmm
+  - monster/cr/7
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/fiend/demon
 statblock: inline
-aliases: ["Draegloth"]
+aliases:
+  - Draegloth
 ---
 # [[5. Mechanics\Bestiary\Fiend\Draegloth.md|Draegloth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 98*  

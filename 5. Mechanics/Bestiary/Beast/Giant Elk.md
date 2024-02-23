@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/2
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/size/huge
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/2
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/size/huge
+  - monster/type/beast
 statblock: inline
-aliases: ["Giant Elk"]
+aliases:
+  - Giant Elk
 ---
 # [[5. Mechanics\Bestiary\Beast\Giant Elk.md|Giant Elk]]
 *Source: Monster Manual p. 325. Available in the SRD and the Basic Rules.*  

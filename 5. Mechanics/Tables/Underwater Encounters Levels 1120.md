@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/xge
-aliases: ["Underwater Encounters (Levels 11—20)"]
+  - compendium/src/5e/xge
+aliases:
+  - Underwater Encounters (Levels 11—20)
 ---
 # Underwater Encounters (Levels 11—20)
 *Source: Xanathar's Guide to Everything p. 109* 

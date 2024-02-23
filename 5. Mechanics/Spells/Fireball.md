@@ -2,18 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer/artillerist
-- spell/class/cleric/light-domain
-- spell/class/fighter/eldritch-knight
-- spell/class/rogue/arcane-trickster
-- spell/class/sorcerer
-- spell/class/warlock/the-fiend
-- spell/class/warlock/the-genie
-- spell/class/wizard
-- spell/level/3
-- spell/school/evocation
-aliases: ["Fireball"]
+  - compendium/src/5e/phb
+  - spell/class/artificer/artillerist
+  - spell/class/cleric/light-domain
+  - spell/class/fighter/eldritch-knight
+  - spell/class/rogue/arcane-trickster
+  - spell/class/sorcerer
+  - spell/class/warlock/the-fiend
+  - spell/class/warlock/the-genie
+  - spell/class/wizard
+  - spell/level/3
+  - spell/school/evocation
+aliases:
+  - Fireball
 ---
 # Fireball
 %%-- Embedded content starts on the next line. --%%

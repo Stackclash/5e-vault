@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/12
-- monster/environment/desert
-- monster/environment/mountain
-- monster/environment/urban
-- monster/size/medium
-- monster/type/humanoid/gith
+  - compendium/src/5e/mpmm
+  - monster/cr/12
+  - monster/environment/desert
+  - monster/environment/mountain
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/humanoid/gith
 statblock: inline
-aliases: ["Githyanki Kith'rak"]
+aliases:
+  - Githyanki Kith'rak
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Githyanki Kithrak.md|Githyanki Kith'rak]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 140, Mordenkainen's Tome of Foes p. 205*  

@@ -2,19 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/cleric
-- spell/class/cleric/peace-domain
-- spell/class/fighter/eldritch-knight
-- spell/class/rogue/arcane-trickster
-- spell/class/sorcerer/aberrant-mind
-- spell/class/sorcerer/divine-soul
-- spell/class/warlock/the-great-old-one
-- spell/class/wizard
-- spell/level/3
-- spell/school/evocation
-aliases: ["Sending"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/cleric
+  - spell/class/cleric/peace-domain
+  - spell/class/fighter/eldritch-knight
+  - spell/class/rogue/arcane-trickster
+  - spell/class/sorcerer/aberrant-mind
+  - spell/class/sorcerer/divine-soul
+  - spell/class/warlock/the-great-old-one
+  - spell/class/wizard
+  - spell/level/3
+  - spell/school/evocation
+aliases:
+  - Sending
 ---
 # Sending
 %%-- Embedded content starts on the next line. --%%

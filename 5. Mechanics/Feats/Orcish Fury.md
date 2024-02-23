@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/xge
-- feat
-aliases: ["Orcish Fury"]
+  - compendium/src/5e/xge
+  - feat
+aliases:
+  - Orcish Fury
 ---
 # Orcish Fury
 *Source: Xanathar's Guide to Everything p. 75*  

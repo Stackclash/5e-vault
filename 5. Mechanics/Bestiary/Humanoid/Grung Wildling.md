@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/1
-- monster/environment/forest
-- monster/size/small
-- monster/type/humanoid
+  - compendium/src/5e/mpmm
+  - monster/cr/1
+  - monster/environment/forest
+  - monster/size/small
+  - monster/type/humanoid
 statblock: inline
-aliases: ["Grung Wildling"]
+aliases:
+  - Grung Wildling
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Grung Wildling.md|Grung Wildling]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 150*  

@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/17
-- monster/environment/coastal
-- monster/environment/urban
-- monster/size/medium
-- monster/type/fiend/devil
-- monster/type/fiend/wizard
+  - compendium/src/5e/mpmm
+  - monster/cr/17
+  - monster/environment/coastal
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/fiend/devil
+  - monster/type/fiend/wizard
 statblock: inline
-aliases: ["Blue Abishai"]
+aliases:
+  - Blue Abishai
 ---
 # [[5. Mechanics\Bestiary\Fiend\Blue Abishai.md|Blue Abishai]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 39, Mordenkainen's Tome of Foes p. 161*  

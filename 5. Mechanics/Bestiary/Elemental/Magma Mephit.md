@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-2
-- monster/environment/underdark
-- monster/size/small
-- monster/type/elemental
+  - compendium/src/5e/mm
+  - monster/cr/1-2
+  - monster/environment/underdark
+  - monster/size/small
+  - monster/type/elemental
 statblock: inline
-aliases: ["Magma Mephit"]
+aliases:
+  - Magma Mephit
 ---
 # [[5. Mechanics\Bestiary\Elemental\Magma Mephit.md|Magma Mephit]]
 *Source: Monster Manual p. 216. Available in the SRD.*  

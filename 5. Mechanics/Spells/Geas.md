@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/cleric
-- spell/class/druid
-- spell/class/paladin
-- spell/class/sorcerer/divine-soul
-- spell/class/wizard
-- spell/level/5
-- spell/school/enchantment
-aliases: ["Geas"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/cleric
+  - spell/class/druid
+  - spell/class/paladin
+  - spell/class/sorcerer/divine-soul
+  - spell/class/wizard
+  - spell/level/5
+  - spell/school/enchantment
+aliases:
+  - Geas
 ---
 # Geas
 %%-- Embedded content starts on the next line. --%%

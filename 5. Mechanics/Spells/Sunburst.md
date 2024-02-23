@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/druid
-- spell/class/sorcerer
-- spell/class/sorcerer/divine-soul
-- spell/class/wizard
-- spell/level/8
-- spell/school/evocation
-aliases: ["Sunburst"]
+  - compendium/src/5e/phb
+  - spell/class/druid
+  - spell/class/sorcerer
+  - spell/class/sorcerer/divine-soul
+  - spell/class/wizard
+  - spell/level/8
+  - spell/school/evocation
+aliases:
+  - Sunburst
 ---
 # Sunburst
 %%-- Embedded content starts on the next line. --%%

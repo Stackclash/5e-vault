@@ -2,21 +2,22 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/cleric
-- spell/class/cleric/knowledge-domain
-- spell/class/cleric/light-domain
-- spell/class/druid
-- spell/class/druid/circle-of-the-land
-- spell/class/paladin/oath-of-the-watchers
-- spell/class/paladin/oath-of-vengeance
-- spell/class/sorcerer/divine-soul
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/5
-- spell/school/divination
-aliases: ["Scrying"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/cleric
+  - spell/class/cleric/knowledge-domain
+  - spell/class/cleric/light-domain
+  - spell/class/druid
+  - spell/class/druid/circle-of-the-land
+  - spell/class/paladin/oath-of-the-watchers
+  - spell/class/paladin/oath-of-vengeance
+  - spell/class/sorcerer/divine-soul
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/5
+  - spell/school/divination
+aliases:
+  - Scrying
 ---
 # Scrying
 %%-- Embedded content starts on the next line. --%%

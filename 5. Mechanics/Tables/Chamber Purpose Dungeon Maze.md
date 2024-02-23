@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Chamber Purpose; Dungeon: Maze"]
+  - compendium/src/5e/dmg
+aliases:
+  - 'Chamber Purpose; Dungeon: Maze'
 ---
 # Chamber Purpose; Dungeon: Maze
 *Source: Dungeon Master's Guide p. 292* 

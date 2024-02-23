@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/xge
-- spell/class/bard
-- spell/class/sorcerer
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/5
-- spell/school/enchantment
-aliases: ["Synaptic Static"]
+  - compendium/src/5e/xge
+  - spell/class/bard
+  - spell/class/sorcerer
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/5
+  - spell/school/enchantment
+aliases:
+  - Synaptic Static
 ---
 # Synaptic Static
 %%-- Embedded content starts on the next line. --%%

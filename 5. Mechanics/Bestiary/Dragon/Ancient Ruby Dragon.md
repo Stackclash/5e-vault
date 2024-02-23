@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/saf
-- monster/cr/23
-- monster/size/gargantuan
-- monster/type/dragon
+  - compendium/src/5e/saf
+  - monster/cr/23
+  - monster/size/gargantuan
+  - monster/type/dragon
 statblock: inline
-aliases: ["Ancient Ruby Dragon"]
+aliases:
+  - Ancient Ruby Dragon
 ---
 # [[5. Mechanics\Bestiary\Dragon\Ancient Ruby Dragon.md|Ancient Ruby Dragon]]
 *Source: Strongholds and Followers p. 203*  

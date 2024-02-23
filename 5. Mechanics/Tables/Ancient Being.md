@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/tce
-aliases: ["Ancient Being"]
+  - compendium/src/5e/tce
+aliases:
+  - Ancient Being
 ---
 # Ancient Being
 *Source: Tasha's Cauldron of Everything p. 86* 

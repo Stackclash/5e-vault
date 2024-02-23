@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Sharn Watch Personalities"]
+  - compendium/src/5e/erlw
+aliases:
+  - Sharn Watch Personalities
 ---
 # Sharn Watch Personalities
 *Source: Eberron: Rising from the Last War p. 257* 

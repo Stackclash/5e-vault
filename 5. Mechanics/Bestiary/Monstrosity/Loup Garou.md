@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/vrgr
-- monster/cr/13
-- monster/size/medium
-- monster/type/monstrosity/shapechanger
+  - compendium/src/5e/vrgr
+  - monster/cr/13
+  - monster/size/medium
+  - monster/type/monstrosity/shapechanger
 statblock: inline
-aliases: ["Loup Garou"]
+aliases:
+  - Loup Garou
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Loup Garou.md|Loup Garou]]
 *Source: Van Richten's Guide to Ravenloft p. 237*  

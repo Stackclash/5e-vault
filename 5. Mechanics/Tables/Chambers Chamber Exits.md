@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Chambers; Chamber Exits"]
+  - compendium/src/5e/dmg
+aliases:
+  - Chambers; Chamber Exits
 ---
 # Chambers; Chamber Exits
 *Source: Dungeon Master's Guide p. 291* 

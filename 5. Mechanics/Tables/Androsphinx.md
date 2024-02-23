@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Androsphinx"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Androsphinx
 ---
 # Androsphinx
 *Source: Hamund's Harvesting Handbook: Volume I p. 97* 

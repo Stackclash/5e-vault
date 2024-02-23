@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/16
-- monster/size/large
-- monster/type/construct
+  - compendium/src/5e/mm
+  - monster/cr/16
+  - monster/size/large
+  - monster/type/construct
 statblock: inline
-aliases: ["Iron Golem"]
+aliases:
+  - Iron Golem
 ---
 # [[5. Mechanics\Bestiary\Construct\Iron Golem.md|Iron Golem]]
 *Source: Monster Manual p. 170, Curse of Strahd. Available in the SRD.*  

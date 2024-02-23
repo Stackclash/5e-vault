@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/saf
-- optional-feature/unit
-aliases: ["Skeletal Archers"]
+  - compendium/src/5e/saf
+  - optional-feature/unit
+aliases:
+  - Skeletal Archers
 ---
 # Skeletal Archers
 *Source: Strongholds and Followers p. 257*  

@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/hhhvii
-aliases:
-  - FAQs
+- compendium/src/5e/hhhvii
+aliases: ["FAQs"]
 ---
 # FAQs
 *Source: Hamund's Harvesting Handbook: Volume II, p. 149* 

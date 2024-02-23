@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/hhhvi
-- optional-feature/ct
-aliases: ["Blacksmith"]
+  - compendium/src/5e/hhhvi
+  - optional-feature/ct
+aliases:
+  - Blacksmith
 ---
 # Blacksmith
 *Source: Hamund's Harvesting Handbook: Volume I p. 114, Hamund's Harvesting Handbook: Volume II p. 50, Hamund's Harvesting Handbook: Volume III p. 77*  

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/tce
-- subclass/barbarian/wild-magic
-aliases: ["Path of Wild Magic"]
+  - compendium/src/5e/tce
+  - subclass/barbarian/wild-magic
+aliases:
+  - Path of Wild Magic
 ---
 # Path of Wild Magic
 *[[Barbarian.md\|Barbarian]]: Primal Path*  

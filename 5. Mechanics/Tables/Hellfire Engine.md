@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhviii
-aliases: ["Hellfire Engine"]
+  - compendium/src/5e/hhhviii
+aliases:
+  - Hellfire Engine
 ---
 # Hellfire Engine
 *Source: Hamund's Harvesting Handbook: Volume III p. 32* 

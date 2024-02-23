@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/tce
-aliases: ["Monsters' Desires; Undead"]
+  - compendium/src/5e/tce
+aliases:
+  - Monsters' Desires; Undead
 ---
 # Monsters' Desires; Undead
 *Source: Tasha's Cauldron of Everything p. 148* 

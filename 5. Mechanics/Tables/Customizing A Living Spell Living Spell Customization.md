@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Customizing a Living Spell; Living Spell Customization"]
+  - compendium/src/5e/erlw
+aliases:
+  - Customizing a Living Spell; Living Spell Customization
 ---
 # Customizing a Living Spell; Living Spell Customization
 *Source: Eberron: Rising from the Last War p. 283* 

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/cos
-- reward/charm
-aliases: ["Dark Gift of Khirad, the Star of Secrets"]
+  - compendium/src/5e/cos
+  - reward/charm
+aliases:
+  - 'Dark Gift of Khirad, the Star of Secrets'
 ---
 # Dark Gift of Khirad, the Star of Secrets
 *Charm*  

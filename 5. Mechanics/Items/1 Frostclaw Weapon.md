@@ -2,22 +2,22 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/rarity/rare
-- item/wondrous/wondrous-item
-aliases: 
-- "+1 Frostclaw Weapon"
-- "+1 Frostclaw Longsword"
-- "+1 Frostclaw Halberd"
-- "+1 Frostclaw Battleaxe"
-- "+1 Frostclaw Greataxe"
-- "+1 Frostclaw Double-Bladed Scimitar"
-- "+1 Frostclaw Glaive"
-- "+1 Frostclaw Handaxe"
-- "+1 Frostclaw Whip"
-- "+1 Frostclaw Greatsword"
-- "+1 Frostclaw Sickle"
-- "+1 Frostclaw Scimitar"
+  - compendium/src/5e/hhhvi
+  - item/rarity/rare
+  - item/wondrous/wondrous-item
+aliases:
+  - +1 Frostclaw Weapon
+  - +1 Frostclaw Longsword
+  - +1 Frostclaw Halberd
+  - +1 Frostclaw Battleaxe
+  - +1 Frostclaw Greataxe
+  - +1 Frostclaw Double-Bladed Scimitar
+  - +1 Frostclaw Glaive
+  - +1 Frostclaw Handaxe
+  - +1 Frostclaw Whip
+  - +1 Frostclaw Greatsword
+  - +1 Frostclaw Sickle
+  - +1 Frostclaw Scimitar
 ---
 # +1 Frostclaw Weapon
 *Generic Variant, rare*  

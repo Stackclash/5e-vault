@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Daask Contacts"]
+  - compendium/src/5e/erlw
+aliases:
+  - Daask Contacts
 ---
 # Daask Contacts
 *Source: Eberron: Rising from the Last War p. 179* 

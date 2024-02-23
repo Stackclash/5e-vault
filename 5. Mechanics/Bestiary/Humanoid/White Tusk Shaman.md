@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/saf
-- monster/cr/3
-- monster/size/medium
-- monster/type/humanoid/orc
-- monster/type/humanoid/shapechanger
+  - compendium/src/5e/saf
+  - monster/cr/3
+  - monster/size/medium
+  - monster/type/humanoid/orc
+  - monster/type/humanoid/shapechanger
 statblock: inline
-aliases: ["White Tusk Shaman"]
+aliases:
+  - White Tusk Shaman
 ---
 # [[5. Mechanics\Bestiary\Humanoid\White Tusk Shaman.md|White Tusk Shaman]]
 *Source: Strongholds and Followers p. 141*  

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Starting Equipment; Starting Wealth by Class"]
+  - compendium/src/5e/phb
+aliases:
+  - Starting Equipment; Starting Wealth by Class
 ---
 # Starting Equipment; Starting Wealth by Class
 *Source: Player's Handbook p. 143. Available in the Basic Rules.* 

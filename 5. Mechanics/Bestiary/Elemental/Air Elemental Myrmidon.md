@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/7
-- monster/size/medium
-- monster/type/elemental
+  - compendium/src/5e/mpmm
+  - monster/cr/7
+  - monster/size/medium
+  - monster/type/elemental
 statblock: inline
-aliases: ["Air Elemental Myrmidon"]
+aliases:
+  - Air Elemental Myrmidon
 ---
 # [[5. Mechanics\Bestiary\Elemental\Air Elemental Myrmidon.md|Air Elemental Myrmidon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 122, Mordenkainen's Tome of Foes p. 202*  

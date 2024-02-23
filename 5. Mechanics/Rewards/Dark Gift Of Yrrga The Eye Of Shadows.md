@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/cos
-- reward/charm
-aliases: ["Dark Gift of Yrrga, the Eye of Shadows"]
+  - compendium/src/5e/cos
+  - reward/charm
+aliases:
+  - 'Dark Gift of Yrrga, the Eye of Shadows'
 ---
 # Dark Gift of Yrrga, the Eye of Shadows
 *Charm*  

@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/erlw
-- monster/cr/10
-- monster/size/medium
-- monster/type/undead
+  - compendium/src/5e/erlw
+  - monster/cr/10
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
-aliases: ["Undying Councilor"]
+aliases:
+  - Undying Councilor
 ---
 # [[5. Mechanics\Bestiary\Undead\Undying Councilor.md|Undying Councilor]]
 *Source: Eberron: Rising from the Last War p. 311*  

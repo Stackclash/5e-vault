@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/tce
-- hazard/est
-aliases: ["Flaywind"]
+  - compendium/src/5e/tce
+  - hazard/est
+aliases:
+  - Flaywind
 ---
 # Flaywind
 *Eldritch Storm*  

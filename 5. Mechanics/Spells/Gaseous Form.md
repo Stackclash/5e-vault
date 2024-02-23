@@ -2,19 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer/alchemist
-- spell/class/druid/circle-of-spores
-- spell/class/druid/circle-of-the-land
-- spell/class/fighter/eldritch-knight
-- spell/class/ranger/swarmkeeper
-- spell/class/rogue/arcane-trickster
-- spell/class/sorcerer
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/3
-- spell/school/transmutation
-aliases: ["Gaseous Form"]
+  - compendium/src/5e/phb
+  - spell/class/artificer/alchemist
+  - spell/class/druid/circle-of-spores
+  - spell/class/druid/circle-of-the-land
+  - spell/class/fighter/eldritch-knight
+  - spell/class/ranger/swarmkeeper
+  - spell/class/rogue/arcane-trickster
+  - spell/class/sorcerer
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/3
+  - spell/school/transmutation
+aliases:
+  - Gaseous Form
 ---
 # Gaseous Form
 %%-- Embedded content starts on the next line. --%%

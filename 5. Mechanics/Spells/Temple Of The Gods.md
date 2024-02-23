@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/xge
-- spell/class/cleric
-- spell/class/sorcerer/divine-soul
-- spell/level/7
-- spell/school/conjuration
-aliases: ["Temple of the Gods"]
+  - compendium/src/5e/xge
+  - spell/class/cleric
+  - spell/class/sorcerer/divine-soul
+  - spell/level/7
+  - spell/school/conjuration
+aliases:
+  - Temple of the Gods
 ---
 # Temple of the Gods
 %%-- Embedded content starts on the next line. --%%

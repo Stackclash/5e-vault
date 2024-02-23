@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvii
-- item/attunement/required
-- item/property/crfby
-- item/rarity/very-rare
-- item/wondrous
-aliases: 
-- "Amulet of Telepathic Control"
+  - compendium/src/5e/hhhvii
+  - item/attunement/required
+  - item/property/crfby
+  - item/rarity/very-rare
+  - item/wondrous
+aliases:
+  - Amulet of Telepathic Control
 ---
 # Amulet of Telepathic Control
 *Wondrous Item, very rare, Crafted by (requires attunement)*  

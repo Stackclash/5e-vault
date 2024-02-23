@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vrgr
-aliases: ["The Hunters' Role; Hunt for the Ka"]
+  - compendium/src/5e/vrgr
+aliases:
+  - The Hunters' Role; Hunt for the Ka
 ---
 # The Hunters' Role; Hunt for the Ka
 *Source: Van Richten's Guide to Ravenloft p. 111* 

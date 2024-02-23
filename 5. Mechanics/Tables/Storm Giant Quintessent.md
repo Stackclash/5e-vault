@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvii
-aliases: ["Storm Giant Quintessent"]
+  - compendium/src/5e/hhhvii
+aliases:
+  - Storm Giant Quintessent
 ---
 # Storm Giant Quintessent
 *Source: Hamund's Harvesting Handbook: Volume II p. 22* 

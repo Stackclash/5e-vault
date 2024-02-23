@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["What's on the Bill?; Shows in Menthis"]
+  - compendium/src/5e/erlw
+aliases:
+  - What's on the Bill?; Shows in Menthis
 ---
 # What's on the Bill?; Shows in Menthis
 *Source: Eberron: Rising from the Last War p. 170* 

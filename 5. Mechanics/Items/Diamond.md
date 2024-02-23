@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/wealth/gemstone
-aliases: 
-- "Diamond"
+  - compendium/src/5e/dmg
+  - item/wealth/gemstone
+aliases:
+  - Diamond
 cost: 500000
 ---
 # Diamond

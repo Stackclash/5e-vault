@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["The Tyrants; Tyrants Contacts"]
+  - compendium/src/5e/erlw
+aliases:
+  - The Tyrants; Tyrants Contacts
 ---
 # The Tyrants; Tyrants Contacts
 *Source: Eberron: Rising from the Last War p. 180* 

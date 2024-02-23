@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/dmg
-- reward/blessing
-aliases: ["Blessing of Understanding"]
+  - compendium/src/5e/dmg
+  - reward/blessing
+aliases:
+  - Blessing of Understanding
 ---
 # Blessing of Understanding
 

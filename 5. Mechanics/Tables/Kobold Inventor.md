@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvii
-aliases: ["Kobold Inventor"]
+  - compendium/src/5e/hhhvii
+aliases:
+  - Kobold Inventor
 ---
 # Kobold Inventor
 *Source: Hamund's Harvesting Handbook: Volume II p. 29* 

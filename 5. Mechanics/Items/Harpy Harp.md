@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/attunement/required
-- item/gear/instrument
-- item/property/crfby
-- item/rarity/uncommon
-aliases: 
-- "Harpy Harp"
+  - compendium/src/5e/hhhvi
+  - item/attunement/required
+  - item/gear/instrument
+  - item/property/crfby
+  - item/rarity/uncommon
+aliases:
+  - Harpy Harp
 ---
 # Harpy Harp
 *Instrument, uncommon, Crafted by (requires attunement by a bard)*  

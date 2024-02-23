@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/xge
-aliases: ["Gambling Results"]
+  - compendium/src/5e/xge
+aliases:
+  - Gambling Results
 ---
 # Gambling Results
 *Source: Xanathar's Guide to Everything p. 130* 

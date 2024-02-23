@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vrgr
-aliases: ["Darkon's Destruction"]
+  - compendium/src/5e/vrgr
+aliases:
+  - Darkon's Destruction
 ---
 # Darkon's Destruction
 *Source: Van Richten's Guide to Ravenloft p. 92* 

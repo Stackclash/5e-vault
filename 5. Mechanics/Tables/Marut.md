@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhviii
-aliases: ["Marut"]
+  - compendium/src/5e/hhhviii
+aliases:
+  - Marut
 ---
 # Marut
 *Source: Hamund's Harvesting Handbook: Volume III p. 51* 

@@ -2,44 +2,44 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/attunement/required
-- item/rarity/very-rare
-- item/wondrous/wondrous-item
-aliases: 
-- "Star Breaker"
-- "Star Breaker Longsword"
-- "Star Breaker Halberd"
-- "Star Breaker Hooked Shortspear"
-- "Star Breaker Light Hammer"
-- "Star Breaker Battleaxe"
-- "Star Breaker Pike"
-- "Star Breaker Flail"
-- "Star Breaker Greatclub"
-- "Star Breaker Yklwa"
-- "Star Breaker Greataxe"
-- "Star Breaker Warhammer"
-- "Star Breaker Morningstar"
-- "Star Breaker Double-Bladed Scimitar"
-- "Star Breaker Glaive"
-- "Star Breaker Dagger"
-- "Star Breaker Handaxe"
-- "Star Breaker Whip"
-- "Star Breaker Trident"
-- "Star Breaker Quarterstaff"
-- "Star Breaker Spear"
-- "Star Breaker Greatsword"
-- "Star Breaker Club"
-- "Star Breaker Rapier"
-- "Star Breaker Maul"
-- "Star Breaker Javelin"
-- "Star Breaker War Pick"
-- "Star Breaker Shortsword"
-- "Star Breaker Sickle"
-- "Star Breaker Hoopak"
-- "Star Breaker Mace"
-- "Star Breaker Lance"
-- "Star Breaker Scimitar"
+  - compendium/src/5e/hhhviii
+  - item/attunement/required
+  - item/rarity/very-rare
+  - item/wondrous/wondrous-item
+aliases:
+  - Star Breaker
+  - Star Breaker Longsword
+  - Star Breaker Halberd
+  - Star Breaker Hooked Shortspear
+  - Star Breaker Light Hammer
+  - Star Breaker Battleaxe
+  - Star Breaker Pike
+  - Star Breaker Flail
+  - Star Breaker Greatclub
+  - Star Breaker Yklwa
+  - Star Breaker Greataxe
+  - Star Breaker Warhammer
+  - Star Breaker Morningstar
+  - Star Breaker Double-Bladed Scimitar
+  - Star Breaker Glaive
+  - Star Breaker Dagger
+  - Star Breaker Handaxe
+  - Star Breaker Whip
+  - Star Breaker Trident
+  - Star Breaker Quarterstaff
+  - Star Breaker Spear
+  - Star Breaker Greatsword
+  - Star Breaker Club
+  - Star Breaker Rapier
+  - Star Breaker Maul
+  - Star Breaker Javelin
+  - Star Breaker War Pick
+  - Star Breaker Shortsword
+  - Star Breaker Sickle
+  - Star Breaker Hoopak
+  - Star Breaker Mace
+  - Star Breaker Lance
+  - Star Breaker Scimitar
 ---
 # Star Breaker
 *Generic Variant, very rare (requires attunement)*  

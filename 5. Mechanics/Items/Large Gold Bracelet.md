@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/wealth/art-object
-aliases: 
-- "Large gold bracelet"
+  - compendium/src/5e/dmg
+  - item/wealth/art-object
+aliases:
+  - Large gold bracelet
 cost: 25000
 ---
 # Large gold bracelet

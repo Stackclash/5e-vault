@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/gear/oil
-- item/property/crfby
-- item/rarity/rare
-aliases: 
-- "Shadowflame Oil"
+  - compendium/src/5e/hhhvi
+  - item/gear/oil
+  - item/property/crfby
+  - item/rarity/rare
+aliases:
+  - Shadowflame Oil
 ---
 # Shadowflame Oil
 *Oil, rare, Crafted by*  

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/xge
-- feat
-aliases: ["Second Chance"]
+  - compendium/src/5e/xge
+  - feat
+aliases:
+  - Second Chance
 ---
 # Second Chance
 *Source: Xanathar's Guide to Everything p. 75*  

@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/saf
-- item/attunement/required
-- item/property/heavy
-- item/property/reach
-- item/property/two-handed
-- item/rarity/very-rare
-- item/weapon/simple/melee
-aliases: 
-- "High Templar's Glaive"
+  - compendium/src/5e/saf
+  - item/attunement/required
+  - item/property/heavy
+  - item/property/reach
+  - item/property/two-handed
+  - item/rarity/very-rare
+  - item/weapon/simple/melee
+aliases:
+  - High Templar's Glaive
 ---
 # High Templar's Glaive
 *Melee Weapon, very rare (requires attunement)*  

@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric/peace-domain
-- spell/class/sorcerer/aberrant-mind
-- spell/class/wizard
-- spell/level/5
-- spell/ritual
-- spell/school/divination
-aliases: ["Rary's Telepathic Bond"]
+  - compendium/src/5e/phb
+  - spell/class/cleric/peace-domain
+  - spell/class/sorcerer/aberrant-mind
+  - spell/class/wizard
+  - spell/level/5
+  - spell/ritual
+  - spell/school/divination
+aliases:
+  - Rary's Telepathic Bond
 ---
 # Rary's Telepathic Bond
 %%-- Embedded content starts on the next line. --%%

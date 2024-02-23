@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/vrgr
-- item/gear
-- item/rarity/unknown
-aliases: 
-- "Ivana's Whisper"
+  - compendium/src/5e/vrgr
+  - item/gear
+  - item/rarity/unknown
+aliases:
+  - Ivana's Whisper
 ---
 # Ivana's Whisper
 *Adventuring Gear, unknown*  

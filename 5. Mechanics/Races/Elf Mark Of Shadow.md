@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/erlw
-- race/elf/mark-of-shadow
-aliases: ["Elf (Mark of Shadow)"]
+  - compendium/src/5e/erlw
+  - race/elf/mark-of-shadow
+aliases:
+  - Elf (Mark of Shadow)
 ---
 # Elf (Mark of Shadow)
 *Source: Eberron: Rising from the Last War p. 49*  

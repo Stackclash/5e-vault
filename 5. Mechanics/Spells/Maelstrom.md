@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/xge
-- spell/class/druid
-- spell/level/5
-- spell/school/evocation
-aliases: ["Maelstrom"]
+  - compendium/src/5e/xge
+  - spell/class/druid
+  - spell/level/5
+  - spell/school/evocation
+aliases:
+  - Maelstrom
 ---
 # Maelstrom
 %%-- Embedded content starts on the next line. --%%

@@ -2,25 +2,26 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer
-- spell/class/bard
-- spell/class/cleric
-- spell/class/cleric/trickery-domain
-- spell/class/druid
-- spell/class/fighter/eldritch-knight
-- spell/class/paladin
-- spell/class/paladin/oath-of-devotion
-- spell/class/ranger/fey-wanderer
-- spell/class/rogue/arcane-trickster
-- spell/class/sorcerer
-- spell/class/sorcerer/clockwork-soul
-- spell/class/sorcerer/divine-soul
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/3
-- spell/school/abjuration
-aliases: ["Dispel Magic"]
+  - compendium/src/5e/phb
+  - spell/class/artificer
+  - spell/class/bard
+  - spell/class/cleric
+  - spell/class/cleric/trickery-domain
+  - spell/class/druid
+  - spell/class/fighter/eldritch-knight
+  - spell/class/paladin
+  - spell/class/paladin/oath-of-devotion
+  - spell/class/ranger/fey-wanderer
+  - spell/class/rogue/arcane-trickster
+  - spell/class/sorcerer
+  - spell/class/sorcerer/clockwork-soul
+  - spell/class/sorcerer/divine-soul
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/3
+  - spell/school/abjuration
+aliases:
+  - Dispel Magic
 ---
 # Dispel Magic
 %%-- Embedded content starts on the next line. --%%

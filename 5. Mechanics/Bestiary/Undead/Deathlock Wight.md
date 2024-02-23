@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/3
-- monster/size/medium
-- monster/type/undead/warlock
+  - compendium/src/5e/mpmm
+  - monster/cr/3
+  - monster/size/medium
+  - monster/type/undead/warlock
 statblock: inline
-aliases: ["Deathlock Wight"]
+aliases:
+  - Deathlock Wight
 ---
 # [[5. Mechanics\Bestiary\Undead\Deathlock Wight.md|Deathlock Wight]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 87, Mordenkainen's Tome of Foes p. 129*  

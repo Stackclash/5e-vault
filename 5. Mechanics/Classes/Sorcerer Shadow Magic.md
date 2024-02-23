@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/xge
-- subclass/sorcerer/shadow
-aliases: ["Shadow Magic"]
+  - compendium/src/5e/xge
+  - subclass/sorcerer/shadow
+aliases:
+  - Shadow Magic
 ---
 # Shadow Magic
 *[[Sorcerer.md\|Sorcerer]]: Sorcerous Origin*  

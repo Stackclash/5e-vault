@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/mtf
-aliases: ["Demon Customization Tables; Unusual Demon Features"]
+  - compendium/src/5e/mtf
+aliases:
+  - Demon Customization Tables; Unusual Demon Features
 ---
 # Demon Customization Tables; Unusual Demon Features
 *Source: Mordenkainen's Tome of Foes p. 33* 

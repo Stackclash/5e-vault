@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/xge
-- spell/class/sorcerer
-- spell/level/1
-- spell/school/evocation
-aliases: ["Chaos Bolt"]
+  - compendium/src/5e/xge
+  - spell/class/sorcerer
+  - spell/level/1
+  - spell/school/evocation
+aliases:
+  - Chaos Bolt
 ---
 # Chaos Bolt
 %%-- Embedded content starts on the next line. --%%

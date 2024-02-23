@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/2
-- monster/environment/underdark
-- monster/size/tiny
-- monster/type/aberration
+  - compendium/src/5e/mm
+  - monster/cr/2
+  - monster/environment/underdark
+  - monster/size/tiny
+  - monster/type/aberration
 statblock: inline
-aliases: ["Intellect Devourer"]
+aliases:
+  - Intellect Devourer
 ---
 # [[5. Mechanics\Bestiary\Aberration\Intellect Devourer.md|Intellect Devourer]]
 *Source: Monster Manual p. 191, Eberron: Rising from the Last War*  

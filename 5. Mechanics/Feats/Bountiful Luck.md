@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/xge
-- feat
-aliases: ["Bountiful Luck"]
+  - compendium/src/5e/xge
+  - feat
+aliases:
+  - Bountiful Luck
 ---
 # Bountiful Luck
 *Source: Xanathar's Guide to Everything p. 73*  

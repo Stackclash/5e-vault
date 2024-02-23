@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/cos
-- reward/charm
-aliases: ["Dark Gift of Zantras, the Kingmaker"]
+  - compendium/src/5e/cos
+  - reward/charm
+aliases:
+  - 'Dark Gift of Zantras, the Kingmaker'
 ---
 # Dark Gift of Zantras, the Kingmaker
 *Charm*  

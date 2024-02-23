@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/tce
-- item/attunement/required
-- item/property/light
-- item/rarity/uncommon
-- item/weapon/simple/melee
-aliases: 
-- "+1 Moon Sickle"
+  - compendium/src/5e/tce
+  - item/attunement/required
+  - item/property/light
+  - item/rarity/uncommon
+  - item/weapon/simple/melee
+aliases:
+  - +1 Moon Sickle
 ---
 # +1 Moon Sickle
 *Melee Weapon, uncommon (requires attunement by a druid or ranger)*  

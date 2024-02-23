@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/armor/shield
-- item/rarity/rare
-- item/tier/major
-aliases: 
-- "+2 Shield"
+  - compendium/src/5e/dmg
+  - item/armor/shield
+  - item/rarity/rare
+  - item/tier/major
+aliases:
+  - +2 Shield
 ---
 # +2 Shield
 *Shield, major, rare*  

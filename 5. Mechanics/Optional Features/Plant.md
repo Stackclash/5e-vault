@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/hhhviii
-- optional-feature/hhh-ms
-aliases: ["Plant"]
+  - compendium/src/5e/hhhviii
+  - optional-feature/hhh-ms
+aliases:
+  - Plant
 ---
 # Plant
 *Source: Hamund's Harvesting Handbook: Volume III p. 113*  

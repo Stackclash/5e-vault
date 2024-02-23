@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/mtf
-- race/tiefling/fierna
-aliases: ["Tiefling (Fierna)"]
+  - compendium/src/5e/mtf
+  - race/tiefling/fierna
+aliases:
+  - Tiefling (Fierna)
 ---
 # Tiefling (Fierna)
 *Source: Mordenkainen's Tome of Foes p. 21*  

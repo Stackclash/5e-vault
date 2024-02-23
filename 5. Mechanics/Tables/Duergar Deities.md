@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/mtf
-aliases: ["Duergar Deities"]
+  - compendium/src/5e/mtf
+aliases:
+  - Duergar Deities
 ---
 # Duergar Deities
 *Source: Mordenkainen's Tome of Foes p. 79* 

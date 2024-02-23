@@ -2,18 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer
-- spell/class/bard
-- spell/class/cleric
-- spell/class/cleric/peace-domain
-- spell/class/druid
-- spell/class/sorcerer/clockwork-soul
-- spell/class/sorcerer/divine-soul
-- spell/class/warlock/the-celestial
-- spell/level/5
-- spell/school/abjuration
-aliases: ["Greater Restoration"]
+  - compendium/src/5e/phb
+  - spell/class/artificer
+  - spell/class/bard
+  - spell/class/cleric
+  - spell/class/cleric/peace-domain
+  - spell/class/druid
+  - spell/class/sorcerer/clockwork-soul
+  - spell/class/sorcerer/divine-soul
+  - spell/class/warlock/the-celestial
+  - spell/level/5
+  - spell/school/abjuration
+aliases:
+  - Greater Restoration
 ---
 # Greater Restoration
 %%-- Embedded content starts on the next line. --%%

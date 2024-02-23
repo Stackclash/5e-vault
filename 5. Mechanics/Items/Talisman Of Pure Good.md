@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/attunement/required
-- item/rarity/legendary
-- item/tier/major
-- item/wondrous
-aliases: 
-- "Talisman of Pure Good"
+  - compendium/src/5e/dmg
+  - item/attunement/required
+  - item/rarity/legendary
+  - item/tier/major
+  - item/wondrous
+aliases:
+  - Talisman of Pure Good
 ---
 # Talisman of Pure Good
 *Wondrous Item, major, legendary (requires attunement by a creature of good alignment)*  

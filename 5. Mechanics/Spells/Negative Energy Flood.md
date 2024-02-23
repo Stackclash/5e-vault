@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/xge
-- spell/class/warlock
-- spell/class/wizard
-- spell/level/5
-- spell/school/necromancy
-aliases: ["Negative Energy Flood"]
+  - compendium/src/5e/xge
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/level/5
+  - spell/school/necromancy
+aliases:
+  - Negative Energy Flood
 ---
 # Negative Energy Flood
 %%-- Embedded content starts on the next line. --%%

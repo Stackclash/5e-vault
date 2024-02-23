@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/xge
-- spell/class/druid
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/7
-- spell/school/evocation
-aliases: ["Whirlwind"]
+  - compendium/src/5e/xge
+  - spell/class/druid
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/7
+  - spell/school/evocation
+aliases:
+  - Whirlwind
 ---
 # Whirlwind
 %%-- Embedded content starts on the next line. --%%

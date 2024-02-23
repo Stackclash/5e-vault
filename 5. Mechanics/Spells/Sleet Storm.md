@@ -2,19 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric/tempest-domain
-- spell/class/druid
-- spell/class/druid/circle-of-the-land
-- spell/class/fighter/eldritch-knight
-- spell/class/rogue/arcane-trickster
-- spell/class/sorcerer
-- spell/class/warlock/the-fathomless
-- spell/class/warlock/the-genie
-- spell/class/wizard
-- spell/level/3
-- spell/school/conjuration
-aliases: ["Sleet Storm"]
+  - compendium/src/5e/phb
+  - spell/class/cleric/tempest-domain
+  - spell/class/druid
+  - spell/class/druid/circle-of-the-land
+  - spell/class/fighter/eldritch-knight
+  - spell/class/rogue/arcane-trickster
+  - spell/class/sorcerer
+  - spell/class/warlock/the-fathomless
+  - spell/class/warlock/the-genie
+  - spell/class/wizard
+  - spell/level/3
+  - spell/school/conjuration
+aliases:
+  - Sleet Storm
 ---
 # Sleet Storm
 %%-- Embedded content starts on the next line. --%%

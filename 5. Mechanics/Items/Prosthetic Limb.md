@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/tce
-- item/rarity/common
-- item/wondrous
-aliases: 
-- "Prosthetic Limb"
+  - compendium/src/5e/tce
+  - item/rarity/common
+  - item/wondrous
+aliases:
+  - Prosthetic Limb
 ---
 # Prosthetic Limb
 *Wondrous Item, common*  

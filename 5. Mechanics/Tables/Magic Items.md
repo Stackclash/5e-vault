@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/tce
-aliases: ["Magic Items"]
+  - compendium/src/5e/tce
+aliases:
+  - Magic Items
 ---
 # Magic Items
 *Source: Tasha's Cauldron of Everything p. 117* 

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/tce
-aliases: ["Wild Magic"]
+  - compendium/src/5e/tce
+aliases:
+  - Wild Magic
 ---
 # Wild Magic
 *Source: Tasha's Cauldron of Everything p. 25* 

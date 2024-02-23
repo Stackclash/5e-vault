@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvii
-- item/gear
-- item/property/crfby
-- item/rarity/rare
-aliases: 
-- "Cleric's Bane Poison"
+  - compendium/src/5e/hhhvii
+  - item/gear
+  - item/property/crfby
+  - item/rarity/rare
+aliases:
+  - Cleric's Bane Poison
 ---
 # Cleric's Bane Poison
 *Adventuring Gear, rare, Crafted by*  

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/dmg
-- race/zombie/dmg
-aliases: ["Zombie (DMG)"]
+  - compendium/src/5e/dmg
+  - race/zombie/dmg
+aliases:
+  - Zombie (DMG)
 ---
 # Zombie (DMG)
 *Source: Dungeon Master's Guide p. 282*  

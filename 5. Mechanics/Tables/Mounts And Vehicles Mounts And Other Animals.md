@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Mounts and Vehicles; Mounts and Other Animals"]
+  - compendium/src/5e/phb
+aliases:
+  - Mounts and Vehicles; Mounts and Other Animals
 ---
 # Mounts and Vehicles; Mounts and Other Animals
 *Source: Player's Handbook p. 155. Available in the SRD and the Basic Rules.* 

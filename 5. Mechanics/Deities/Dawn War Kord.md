@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- compendium/src/5e/dmg
-- deity/dawn-war
-- domain/tempest
-aliases: ["Kord"]
+  - compendium/src/5e/dmg
+  - deity/dawn-war
+  - domain/tempest
+aliases:
+  - Kord
 ---
 # Kord
 *Source: Dungeon Master's Guide p. 10* 

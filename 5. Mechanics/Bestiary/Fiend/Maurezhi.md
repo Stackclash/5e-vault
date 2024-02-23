@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/7
-- monster/environment/swamp
-- monster/environment/urban
-- monster/size/medium
-- monster/type/fiend/demon
+  - compendium/src/5e/mpmm
+  - monster/cr/7
+  - monster/environment/swamp
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/fiend/demon
 statblock: inline
-aliases: ["Maurezhi"]
+aliases:
+  - Maurezhi
 ---
 # [[5. Mechanics\Bestiary\Fiend\Maurezhi.md|Maurezhi]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 175, Mordenkainen's Tome of Foes p. 133*  

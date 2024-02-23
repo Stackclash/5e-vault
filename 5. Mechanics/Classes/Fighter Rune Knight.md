@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/tce
-- subclass/fighter/rune-knight
-aliases: ["Rune Knight"]
+  - compendium/src/5e/tce
+  - subclass/fighter/rune-knight
+aliases:
+  - Rune Knight
 ---
 # Rune Knight
 *[[Fighter.md\|Fighter]]: Martial Archetype*  

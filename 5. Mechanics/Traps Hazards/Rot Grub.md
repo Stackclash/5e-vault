@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/vgm
-aliases: ["Rot Grub"]
+  - compendium/src/5e/vgm
+aliases:
+  - Rot Grub
 ---
 # Rot Grub
 *Generic Hazard*  

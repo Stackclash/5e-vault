@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/weapon/ammunition/firearm
-aliases: 
-- "Modern Bullet"
+  - compendium/src/5e/dmg
+  - item/weapon/ammunition/firearm
+aliases:
+  - Modern Bullet
 ---
 # Modern Bullet
 *Ammunition (Firearm)*  

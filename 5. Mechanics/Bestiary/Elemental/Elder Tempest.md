@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/23
-- monster/environment/arctic
-- monster/environment/coastal
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/size/gargantuan
-- monster/type/elemental
+  - compendium/src/5e/mpmm
+  - monster/cr/23
+  - monster/environment/arctic
+  - monster/environment/coastal
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/size/gargantuan
+  - monster/type/elemental
 statblock: inline
-aliases: ["Elder Tempest"]
+aliases:
+  - Elder Tempest
 ---
 # [[5. Mechanics\Bestiary\Elemental\Elder Tempest.md|Elder Tempest]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 121, Mordenkainen's Tome of Foes p. 200*  

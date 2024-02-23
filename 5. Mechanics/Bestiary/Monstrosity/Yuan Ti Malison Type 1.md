@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/3
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/swamp
-- monster/size/medium
-- monster/type/monstrosity/shapechanger
-- monster/type/monstrosity/yuan-ti
+  - compendium/src/5e/mm
+  - monster/cr/3
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/swamp
+  - monster/size/medium
+  - monster/type/monstrosity/shapechanger
+  - monster/type/monstrosity/yuan-ti
 statblock: inline
-aliases: ["Yuan-ti Malison (Type 1)"]
+aliases:
+  - Yuan-ti Malison (Type 1)
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Yuan Ti Malison Type 1.md|Yuan-ti Malison (Type 1)]]
 *Source: Monster Manual p. 309*  

@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/wizard
-- spell/level/8
-- spell/school/evocation
-aliases: ["Telepathy"]
+  - compendium/src/5e/phb
+  - spell/class/wizard
+  - spell/level/8
+  - spell/school/evocation
+aliases:
+  - Telepathy
 ---
 # Telepathy
 %%-- Embedded content starts on the next line. --%%

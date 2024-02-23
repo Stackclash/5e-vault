@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/attunement/required
-- item/property/crfby
-- item/rarity/very-rare
-- item/wondrous/wand
-aliases: 
-- "Wand of the Undergrowth"
+  - compendium/src/5e/hhhvi
+  - item/attunement/required
+  - item/property/crfby
+  - item/rarity/very-rare
+  - item/wondrous/wand
+aliases:
+  - Wand of the Undergrowth
 ---
 # Wand of the Undergrowth
 *Wand, very rare, Crafted by (requires attunement by a spellcaster)*  

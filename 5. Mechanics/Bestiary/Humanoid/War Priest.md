@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/9
-- monster/environment/desert
-- monster/environment/urban
-- monster/size/medium
-- monster/type/humanoid/cleric
+  - compendium/src/5e/mpmm
+  - monster/cr/9
+  - monster/environment/desert
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/humanoid/cleric
 statblock: inline
-aliases: ["War Priest"]
+aliases:
+  - War Priest
 ---
 # [[5. Mechanics\Bestiary\Humanoid\War Priest.md|War Priest]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 254*  

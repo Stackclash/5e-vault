@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/xge
-aliases: ["Elf Names – Child"]
+  - compendium/src/5e/xge
+aliases:
+  - Elf Names – Child
 ---
 # Elf Names – Child
 *Source: Xanathar's Guide to Everything p. 176* 

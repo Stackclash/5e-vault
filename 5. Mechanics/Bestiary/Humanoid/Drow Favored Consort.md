@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/18
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/humanoid/elf
-- monster/type/humanoid/wizard
+  - compendium/src/5e/mpmm
+  - monster/cr/18
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/humanoid/elf
+  - monster/type/humanoid/wizard
 statblock: inline
-aliases: ["Drow Favored Consort"]
+aliases:
+  - Drow Favored Consort
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Drow Favored Consort.md|Drow Favored Consort]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 100, Mordenkainen's Tome of Foes p. 183*  

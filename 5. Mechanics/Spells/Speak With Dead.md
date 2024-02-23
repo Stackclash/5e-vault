@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/cleric
-- spell/class/cleric/knowledge-domain
-- spell/class/fighter/eldritch-knight
-- spell/class/rogue/arcane-trickster
-- spell/class/sorcerer/divine-soul
-- spell/class/warlock/the-undead
-- spell/level/3
-- spell/school/necromancy
-aliases: ["Speak with Dead"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/cleric
+  - spell/class/cleric/knowledge-domain
+  - spell/class/fighter/eldritch-knight
+  - spell/class/rogue/arcane-trickster
+  - spell/class/sorcerer/divine-soul
+  - spell/class/warlock/the-undead
+  - spell/level/3
+  - spell/school/necromancy
+aliases:
+  - Speak with Dead
 ---
 # Speak with Dead
 %%-- Embedded content starts on the next line. --%%

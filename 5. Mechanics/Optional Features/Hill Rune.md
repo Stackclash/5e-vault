@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/tce
-- optional-feature/rn
-aliases: ["Hill Rune"]
+  - compendium/src/5e/tce
+  - optional-feature/rn
+aliases:
+  - Hill Rune
 ---
 # Hill Rune
 *Source: Tasha's Cauldron of Everything p. 45*  

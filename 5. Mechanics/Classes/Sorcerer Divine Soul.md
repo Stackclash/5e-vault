@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/xge
-- subclass/sorcerer/divine-soul
-aliases: ["Divine Soul"]
+  - compendium/src/5e/xge
+  - subclass/sorcerer/divine-soul
+aliases:
+  - Divine Soul
 ---
 # Divine Soul
 *[[Sorcerer.md\|Sorcerer]]: Sorcerous Origin*  

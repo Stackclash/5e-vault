@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vrgr
-aliases: ["Adventures; Darklord Connections"]
+  - compendium/src/5e/vrgr
+aliases:
+  - Adventures; Darklord Connections
 ---
 # Adventures; Darklord Connections
 *Source: Van Richten's Guide to Ravenloft p. 44* 

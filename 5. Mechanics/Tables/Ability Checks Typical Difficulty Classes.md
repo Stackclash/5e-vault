@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Ability Checks; Typical Difficulty Classes"]
+  - compendium/src/5e/phb
+aliases:
+  - Ability Checks; Typical Difficulty Classes
 ---
 # Ability Checks; Typical Difficulty Classes
 *Source: Player's Handbook p. 174. Available in the SRD and the Basic Rules.* 

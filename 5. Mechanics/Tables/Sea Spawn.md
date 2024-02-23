@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvii
-aliases: ["Sea Spawn"]
+  - compendium/src/5e/hhhvii
+aliases:
+  - Sea Spawn
 ---
 # Sea Spawn
 *Source: Hamund's Harvesting Handbook: Volume II p. 41* 

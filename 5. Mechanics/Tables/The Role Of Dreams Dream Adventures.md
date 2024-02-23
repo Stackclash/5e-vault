@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["The Role of Dreams; Dream Adventures"]
+  - compendium/src/5e/erlw
+aliases:
+  - The Role of Dreams; Dream Adventures
 ---
 # The Role of Dreams; Dream Adventures
 *Source: Eberron: Rising from the Last War p. 196* 

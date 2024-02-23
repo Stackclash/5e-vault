@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhviii
-aliases: ["Zuggtmoy"]
+  - compendium/src/5e/hhhviii
+aliases:
+  - Zuggtmoy
 ---
 # Zuggtmoy
 *Source: Hamund's Harvesting Handbook: Volume III p. 27* 

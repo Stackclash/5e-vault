@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/erlw
-- monster/cr/1-2
-- monster/size/medium
-- monster/type/humanoid/changeling
-- monster/type/humanoid/shapechanger
+  - compendium/src/5e/erlw
+  - monster/cr/1-2
+  - monster/size/medium
+  - monster/type/humanoid/changeling
+  - monster/type/humanoid/shapechanger
 statblock: inline
-aliases: ["Changeling"]
+aliases:
+  - Changeling
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Changeling.md|Changeling]]
 *Source: Eberron: Rising from the Last War p. 317*  

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/cos
-- reward/charm
-aliases: ["Dark Gift of Dahlver-Nar, He of the Many Teeth"]
+  - compendium/src/5e/cos
+  - reward/charm
+aliases:
+  - 'Dark Gift of Dahlver-Nar, He of the Many Teeth'
 ---
 # Dark Gift of Dahlver-Nar, He of the Many Teeth
 *Charm*  

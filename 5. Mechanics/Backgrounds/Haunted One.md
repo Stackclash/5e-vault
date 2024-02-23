@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
-- background
-- compendium/src/5e/vrgr
-aliases: ["Haunted One"]
+  - background
+  - compendium/src/5e/vrgr
+aliases:
+  - Haunted One
 ---
 # Haunted One
 *Source: Van Richten's Guide to Ravenloft p. 34, Curse of Strahd p. 209*  

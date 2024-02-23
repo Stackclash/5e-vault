@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/xge
-- subclass/druid/shepherd
-aliases: ["Circle of the Shepherd"]
+  - compendium/src/5e/xge
+  - subclass/druid/shepherd
+aliases:
+  - Circle of the Shepherd
 ---
 # Circle of the Shepherd
 *[[Druid.md\|Druid]]: Druid Circle*  

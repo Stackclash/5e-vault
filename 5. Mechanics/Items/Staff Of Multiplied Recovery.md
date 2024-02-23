@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/attunement/required
-- item/property/crfby
-- item/property/versatile
-- item/rarity/very-rare
-- item/weapon/simple/melee
-aliases: 
-- "Staff of Multiplied Recovery"
+  - compendium/src/5e/hhhvi
+  - item/attunement/required
+  - item/property/crfby
+  - item/property/versatile
+  - item/rarity/very-rare
+  - item/weapon/simple/melee
+aliases:
+  - Staff of Multiplied Recovery
 ---
 # Staff of Multiplied Recovery
 *Melee Weapon, very rare, Crafted by (requires attunement)*  

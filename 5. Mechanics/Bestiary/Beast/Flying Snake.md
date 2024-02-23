@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-8
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/urban
-- monster/size/tiny
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/1-8
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/urban
+  - monster/size/tiny
+  - monster/type/beast
 statblock: inline
-aliases: ["Flying Snake"]
+aliases:
+  - Flying Snake
 ---
 # [[5. Mechanics\Bestiary\Beast\Flying Snake.md|Flying Snake]]
 *Source: Monster Manual p. 322. Available in the SRD and the Basic Rules.*  

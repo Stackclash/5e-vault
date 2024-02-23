@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvii
-- item/property/crfby
-- item/rarity/uncommon
-- item/wondrous
-aliases: 
-- "Filter Rag"
+  - compendium/src/5e/hhhvii
+  - item/property/crfby
+  - item/rarity/uncommon
+  - item/wondrous
+aliases:
+  - Filter Rag
 ---
 # Filter Rag
 *Wondrous Item, uncommon, Crafted by*  

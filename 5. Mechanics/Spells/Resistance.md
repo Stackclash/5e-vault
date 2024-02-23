@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer
-- spell/class/cleric
-- spell/class/cleric/nature-domain
-- spell/class/druid
-- spell/class/druid/circle-of-the-land
-- spell/class/sorcerer/divine-soul
-- spell/level/cantrip
-- spell/school/abjuration
-aliases: ["Resistance"]
+  - compendium/src/5e/phb
+  - spell/class/artificer
+  - spell/class/cleric
+  - spell/class/cleric/nature-domain
+  - spell/class/druid
+  - spell/class/druid/circle-of-the-land
+  - spell/class/sorcerer/divine-soul
+  - spell/level/cantrip
+  - spell/school/abjuration
+aliases:
+  - Resistance
 ---
 # Resistance
 %%-- Embedded content starts on the next line. --%%

@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvii
-- item/property/crfby
-- item/rarity/rare
-- item/wondrous/potion
-aliases: 
-- "Shadow Dye"
+  - compendium/src/5e/hhhvii
+  - item/property/crfby
+  - item/rarity/rare
+  - item/wondrous/potion
+aliases:
+  - Shadow Dye
 ---
 # Shadow Dye
 *Potion, rare, Crafted by*  

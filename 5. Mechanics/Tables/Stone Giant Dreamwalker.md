@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvii
-aliases: ["Stone Giant Dreamwalker"]
+  - compendium/src/5e/hhhvii
+aliases:
+  - Stone Giant Dreamwalker
 ---
 # Stone Giant Dreamwalker
 *Source: Hamund's Harvesting Handbook: Volume II p. 22* 

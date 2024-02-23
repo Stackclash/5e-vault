@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric/trickery-domain
-- spell/class/druid
-- spell/class/druid/circle-of-the-land
-- spell/class/monk/way-of-shadow
-- spell/class/ranger
-- spell/level/2
-- spell/school/abjuration
-aliases: ["Pass without Trace"]
+  - compendium/src/5e/phb
+  - spell/class/cleric/trickery-domain
+  - spell/class/druid
+  - spell/class/druid/circle-of-the-land
+  - spell/class/monk/way-of-shadow
+  - spell/class/ranger
+  - spell/level/2
+  - spell/school/abjuration
+aliases:
+  - Pass without Trace
 ---
 # Pass without Trace
 %%-- Embedded content starts on the next line. --%%

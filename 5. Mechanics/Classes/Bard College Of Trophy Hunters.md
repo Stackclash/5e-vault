@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/hhhviii
-- subclass/bard/trophy-hunter
-aliases: ["College of Trophy Hunters"]
+  - compendium/src/5e/hhhviii
+  - subclass/bard/trophy-hunter
+aliases:
+  - College of Trophy Hunters
 ---
 # College of Trophy Hunters
 *[[Bard.md\|Bard]]: Bard College*  

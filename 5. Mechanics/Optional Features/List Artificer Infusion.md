@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/tce
-aliases: ["Artificer Infusion"]
+  - compendium/src/5e/tce
+aliases:
+  - Artificer Infusion
 ---
 # Artificer Infusion
 *Source: Tasha's Cauldron of Everything* 

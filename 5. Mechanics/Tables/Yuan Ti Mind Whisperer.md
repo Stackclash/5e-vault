@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvii
-aliases: ["Yuan-Ti Mind Whisperer"]
+  - compendium/src/5e/hhhvii
+aliases:
+  - Yuan-Ti Mind Whisperer
 ---
 # Yuan-Ti Mind Whisperer
 *Source: Hamund's Harvesting Handbook: Volume II p. 48* 

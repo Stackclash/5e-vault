@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/erlw
-- monster/cr/1
-- monster/size/medium
-- monster/type/construct
+  - compendium/src/5e/erlw
+  - monster/cr/1
+  - monster/size/medium
+  - monster/type/construct
 statblock: inline
-aliases: ["Iron Defender"]
+aliases:
+  - Iron Defender
 ---
 # [[5. Mechanics\Bestiary\Construct\Iron Defender.md|Iron Defender]]
 *Source: Eberron: Rising from the Last War p. 293*  

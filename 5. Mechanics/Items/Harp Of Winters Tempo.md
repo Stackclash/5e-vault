@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvii
-- item/attunement/required
-- item/gear/instrument
-- item/property/crfby
-- item/rarity/rare
-aliases: 
-- "Harp of Winter's Tempo"
+  - compendium/src/5e/hhhvii
+  - item/attunement/required
+  - item/gear/instrument
+  - item/property/crfby
+  - item/rarity/rare
+aliases:
+  - Harp of Winter's Tempo
 ---
 # Harp of Winter's Tempo
 *Instrument, rare, Crafted by (requires attunement by a bard)*  

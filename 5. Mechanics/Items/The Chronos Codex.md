@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/saf
-- item/attunement/required
-- item/rarity/artifact
-- item/wondrous
-aliases: 
-- "The Chronos Codex"
+  - compendium/src/5e/saf
+  - item/attunement/required
+  - item/rarity/artifact
+  - item/wondrous
+aliases:
+  - The Chronos Codex
 ---
 # The Chronos Codex
 *Wondrous Item, artifact (requires attunement)*  

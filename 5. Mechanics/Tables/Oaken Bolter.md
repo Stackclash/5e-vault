@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhviii
-aliases: ["Oaken Bolter"]
+  - compendium/src/5e/hhhviii
+aliases:
+  - Oaken Bolter
 ---
 # Oaken Bolter
 *Source: Hamund's Harvesting Handbook: Volume III p. 14* 

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/tce
-aliases: ["Enchanted Springs; Enchanted Spring Effects"]
+  - compendium/src/5e/tce
+aliases:
+  - Enchanted Springs; Enchanted Spring Effects
 ---
 # Enchanted Springs; Enchanted Spring Effects
 *Source: Tasha's Cauldron of Everything p. 165* 

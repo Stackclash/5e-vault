@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer/battle-smith
-- spell/class/cleric/peace-domain
-- spell/class/paladin
-- spell/class/paladin/oath-of-the-watchers
-- spell/class/sorcerer/divine-soul
-- spell/level/4
-- spell/school/abjuration
-aliases: ["Aura of Purity"]
+  - compendium/src/5e/phb
+  - spell/class/artificer/battle-smith
+  - spell/class/cleric/peace-domain
+  - spell/class/paladin
+  - spell/class/paladin/oath-of-the-watchers
+  - spell/class/sorcerer/divine-soul
+  - spell/level/4
+  - spell/school/abjuration
+aliases:
+  - Aura of Purity
 ---
 # Aura of Purity
 %%-- Embedded content starts on the next line. --%%

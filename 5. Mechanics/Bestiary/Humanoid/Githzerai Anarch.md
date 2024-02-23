@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/16
-- monster/size/medium
-- monster/type/humanoid/gith
+  - compendium/src/5e/mpmm
+  - monster/cr/16
+  - monster/size/medium
+  - monster/type/humanoid/gith
 statblock: inline
-aliases: ["Githzerai Anarch"]
+aliases:
+  - Githzerai Anarch
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Githzerai Anarch.md|Githzerai Anarch]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 142, Mordenkainen's Tome of Foes p. 207*  

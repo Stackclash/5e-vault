@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vrgr
-aliases: ["Dark Fantasy Settings"]
+  - compendium/src/5e/vrgr
+aliases:
+  - Dark Fantasy Settings
 ---
 # Dark Fantasy Settings
 *Source: Van Richten's Guide to Ravenloft p. 51* 

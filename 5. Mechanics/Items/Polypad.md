@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhbh
-- item/gear/herb
-- item/property/hrb
-- item/rarity/unknown/magic
-aliases: 
-- "Polypad"
+  - compendium/src/5e/hhbh
+  - item/gear/herb
+  - item/property/hrb
+  - item/rarity/unknown/magic
+aliases:
+  - Polypad
 cost: 10000
 ---
 # Polypad

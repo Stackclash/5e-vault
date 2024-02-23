@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/xge
-- spell/class/druid
-- spell/class/ranger
-- spell/level/5
-- spell/school/evocation
-aliases: ["Wrath of Nature"]
+  - compendium/src/5e/xge
+  - spell/class/druid
+  - spell/class/ranger
+  - spell/level/5
+  - spell/school/evocation
+aliases:
+  - Wrath of Nature
 ---
 # Wrath of Nature
 %%-- Embedded content starts on the next line. --%%

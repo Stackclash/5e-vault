@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/armor/medium
-aliases: 
-- "Breastplate"
+  - compendium/src/5e/phb
+  - item/armor/medium
+aliases:
+  - Breastplate
 cost: 40000
 ---
 # Breastplate

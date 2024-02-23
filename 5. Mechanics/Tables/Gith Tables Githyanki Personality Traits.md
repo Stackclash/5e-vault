@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/mtf
-aliases: ["Gith Tables; Githyanki Personality Traits"]
+  - compendium/src/5e/mtf
+aliases:
+  - Gith Tables; Githyanki Personality Traits
 ---
 # Gith Tables; Githyanki Personality Traits
 *Source: Mordenkainen's Tome of Foes p. 97* 

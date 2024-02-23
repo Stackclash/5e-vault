@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/1-4
-- monster/environment/grassland
-- monster/environment/urban
-- monster/size/large
-- monster/type/beast/cattle
+  - compendium/src/5e/mpmm
+  - monster/cr/1-4
+  - monster/environment/grassland
+  - monster/environment/urban
+  - monster/size/large
+  - monster/type/beast/cattle
 statblock: inline
-aliases: ["Ox"]
+aliases:
+  - Ox
 ---
 # [[5. Mechanics\Bestiary\Beast\Ox.md|Ox]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 72*  

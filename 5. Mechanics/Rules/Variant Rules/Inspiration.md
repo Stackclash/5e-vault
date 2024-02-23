@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Inspiration"]
+  - compendium/src/5e/phb
+aliases:
+  - Inspiration
 ---
 # Inspiration
 *Source: Player's Handbook p. 125* 

@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/2
-- monster/environment/hill
-- monster/environment/mountain
-- monster/size/medium
-- monster/type/monstrosity
+  - compendium/src/5e/mm
+  - monster/cr/2
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/size/medium
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Peryton"]
+aliases:
+  - Peryton
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Peryton.md|Peryton]]
 *Source: Monster Manual p. 251*  

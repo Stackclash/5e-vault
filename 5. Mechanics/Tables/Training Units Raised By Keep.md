@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/saf
-aliases: ["Training; Units Raised by Keep"]
+  - compendium/src/5e/saf
+aliases:
+  - Training; Units Raised by Keep
 ---
 # Training; Units Raised by Keep
 *Source: Strongholds and Followers* 

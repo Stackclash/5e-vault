@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/10
-- monster/environment/coastal
-- monster/environment/hill
-- monster/environment/mountain
-- monster/size/huge
-- monster/type/giant
+  - compendium/src/5e/mpmm
+  - monster/cr/10
+  - monster/environment/coastal
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/size/huge
+  - monster/type/giant
 statblock: inline
-aliases: ["Stone Giant Dreamwalker"]
+aliases:
+  - Stone Giant Dreamwalker
 ---
 # [[5. Mechanics\Bestiary\Giant\Stone Giant Dreamwalker.md|Stone Giant Dreamwalker]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 234*  

@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/very-rare
-- item/tier/minor
-- item/wondrous
-aliases: 
-- "Horseshoes of a Zephyr"
+  - compendium/src/5e/dmg
+  - item/rarity/very-rare
+  - item/tier/minor
+  - item/wondrous
+aliases:
+  - Horseshoes of a Zephyr
 ---
 # Horseshoes of a Zephyr
 *Wondrous Item, minor, very rare*  

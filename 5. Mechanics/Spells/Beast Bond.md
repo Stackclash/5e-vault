@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/xge
-- spell/class/druid
-- spell/class/ranger
-- spell/level/1
-- spell/school/divination
-aliases: ["Beast Bond"]
+  - compendium/src/5e/xge
+  - spell/class/druid
+  - spell/class/ranger
+  - spell/level/1
+  - spell/school/divination
+aliases:
+  - Beast Bond
 ---
 # Beast Bond
 %%-- Embedded content starts on the next line. --%%

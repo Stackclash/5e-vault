@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/level/cantrip
-- spell/school/enchantment
-aliases: ["Vicious Mockery"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/level/cantrip
+  - spell/school/enchantment
+aliases:
+  - Vicious Mockery
 ---
 # Vicious Mockery
 %%-- Embedded content starts on the next line. --%%

@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvii
-- item/property/crfby
-- item/rarity/uncommon
-- item/wondrous
-aliases: 
-- "Tormentor's Cap"
+  - compendium/src/5e/hhhvii
+  - item/property/crfby
+  - item/rarity/uncommon
+  - item/wondrous
+aliases:
+  - Tormentor's Cap
 ---
 # Tormentor's Cap
 *Wondrous Item, uncommon, Crafted by*  

@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/saf
-aliases:
-  - Strongholds
+- compendium/src/5e/saf
+aliases: ["Strongholds"]
 ---
 # Strongholds
 *Source: Strongholds and Followers* 

@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/xge
-- spell/class/druid
-- spell/level/6
-- spell/school/abjuration
-aliases: ["Primordial Ward"]
+  - compendium/src/5e/xge
+  - spell/class/druid
+  - spell/level/6
+  - spell/school/abjuration
+aliases:
+  - Primordial Ward
 ---
 # Primordial Ward
 %%-- Embedded content starts on the next line. --%%

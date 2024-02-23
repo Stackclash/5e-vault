@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/xge
-- spell/class/artificer
-- spell/class/cleric/nature-domain
-- spell/class/druid
-- spell/class/druid/circle-of-the-land
-- spell/class/warlock
-- spell/level/cantrip
-- spell/school/transmutation
-aliases: ["Magic Stone"]
+  - compendium/src/5e/xge
+  - spell/class/artificer
+  - spell/class/cleric/nature-domain
+  - spell/class/druid
+  - spell/class/druid/circle-of-the-land
+  - spell/class/warlock
+  - spell/level/cantrip
+  - spell/school/transmutation
+aliases:
+  - Magic Stone
 ---
 # Magic Stone
 %%-- Embedded content starts on the next line. --%%

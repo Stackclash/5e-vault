@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/saf
-- item/attunement/required
-- item/rarity/artifact
-- item/wondrous
-aliases: 
-- "Codex Dryadalis"
+  - compendium/src/5e/saf
+  - item/attunement/required
+  - item/rarity/artifact
+  - item/wondrous
+aliases:
+  - Codex Dryadalis
 ---
 # Codex Dryadalis
 *Wondrous Item, artifact (requires attunement)*  

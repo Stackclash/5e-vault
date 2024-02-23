@@ -2,17 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/property/ammunition
-- item/property/crfby
-- item/property/heavy
-- item/property/loading
-- item/property/martial
-- item/property/two-handed
-- item/rarity/very-rare
-- item/weapon/martial/ranged
-aliases: 
-- "Demon Cannon"
+  - compendium/src/5e/hhhviii
+  - item/property/ammunition
+  - item/property/crfby
+  - item/property/heavy
+  - item/property/loading
+  - item/property/martial
+  - item/property/two-handed
+  - item/rarity/very-rare
+  - item/weapon/martial/ranged
+aliases:
+  - Demon Cannon
 ---
 # Demon Cannon
 *Ranged Weapon, very rare, Crafted by*  

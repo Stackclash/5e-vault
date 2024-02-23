@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/hhhviii
-- subclass/rogue/scavenger
-aliases: ["Scavenger"]
+  - compendium/src/5e/hhhviii
+  - subclass/rogue/scavenger
+aliases:
+  - Scavenger
 ---
 # Scavenger
 *[[Rogue.md\|Rogue]]: Roguish Archetype*  

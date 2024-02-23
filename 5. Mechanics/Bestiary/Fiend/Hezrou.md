@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/8
-- monster/size/large
-- monster/type/fiend/demon
+  - compendium/src/5e/mm
+  - monster/cr/8
+  - monster/size/large
+  - monster/type/fiend/demon
 statblock: inline
-aliases: ["Hezrou"]
+aliases:
+  - Hezrou
 ---
 # [[5. Mechanics\Bestiary\Fiend\Hezrou.md|Hezrou]]
 *Source: Monster Manual p. 60. Available in the SRD.*  

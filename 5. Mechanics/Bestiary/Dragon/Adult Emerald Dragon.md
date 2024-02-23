@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/saf
-- monster/cr/15
-- monster/size/huge
-- monster/type/dragon
+  - compendium/src/5e/saf
+  - monster/cr/15
+  - monster/size/huge
+  - monster/type/dragon
 statblock: inline
-aliases: ["Adult Emerald Dragon"]
+aliases:
+  - Adult Emerald Dragon
 ---
 # [[5. Mechanics\Bestiary\Dragon\Adult Emerald Dragon.md|Adult Emerald Dragon]]
 *Source: Strongholds and Followers p. 200*  

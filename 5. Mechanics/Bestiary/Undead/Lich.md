@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/21
-- monster/size/medium
-- monster/type/undead
+  - compendium/src/5e/mm
+  - monster/cr/21
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
-aliases: ["Lich"]
+aliases:
+  - Lich
 ---
 # [[5. Mechanics\Bestiary\Undead\Lich.md|Lich]]
 *Source: Monster Manual p. 202, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD.*  

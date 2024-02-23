@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvii
-aliases: ["Swarm of Cranium Rats"]
+  - compendium/src/5e/hhhvii
+aliases:
+  - Swarm of Cranium Rats
 ---
 # Swarm of Cranium Rats
 *Source: Hamund's Harvesting Handbook: Volume II p. 12* 

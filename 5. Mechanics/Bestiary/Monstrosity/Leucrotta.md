@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/3
-- monster/environment/desert
-- monster/environment/grassland
-- monster/size/large
-- monster/type/monstrosity
+  - compendium/src/5e/mpmm
+  - monster/cr/3
+  - monster/environment/desert
+  - monster/environment/grassland
+  - monster/size/large
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Leucrotta"]
+aliases:
+  - Leucrotta
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Leucrotta.md|Leucrotta]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 170*  

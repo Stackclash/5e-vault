@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vrgr
-aliases: ["Wandering the Mists"]
+  - compendium/src/5e/vrgr
+aliases:
+  - Wandering the Mists
 ---
 # Wandering the Mists
 *Source: Van Richten's Guide to Ravenloft p. 61* 

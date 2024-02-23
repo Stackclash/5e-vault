@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Iron Golem"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Iron Golem
 ---
 # Iron Golem
 *Source: Hamund's Harvesting Handbook: Volume I p. 58* 

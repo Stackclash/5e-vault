@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/tce
-- optional-feature/ei
-aliases: ["Gift of the Protectors"]
+  - compendium/src/5e/tce
+  - optional-feature/ei
+aliases:
+  - Gift of the Protectors
 ---
 # Gift of the Protectors
 *Source: Tasha's Cauldron of Everything p. 71*  

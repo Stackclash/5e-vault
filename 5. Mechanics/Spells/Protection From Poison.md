@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer
-- spell/class/cleric
-- spell/class/druid
-- spell/class/paladin
-- spell/class/ranger
-- spell/class/sorcerer/divine-soul
-- spell/level/2
-- spell/school/abjuration
-aliases: ["Protection from Poison"]
+  - compendium/src/5e/phb
+  - spell/class/artificer
+  - spell/class/cleric
+  - spell/class/druid
+  - spell/class/paladin
+  - spell/class/ranger
+  - spell/class/sorcerer/divine-soul
+  - spell/level/2
+  - spell/school/abjuration
+aliases:
+  - Protection from Poison
 ---
 # Protection from Poison
 %%-- Embedded content starts on the next line. --%%

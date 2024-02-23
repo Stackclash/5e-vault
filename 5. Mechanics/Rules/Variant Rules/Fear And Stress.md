@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vrgr
-aliases: ["Fear and Stress"]
+  - compendium/src/5e/vrgr
+aliases:
+  - Fear and Stress
 ---
 # Fear and Stress
 *Source: Van Richten's Guide to Ravenloft p. 195* 

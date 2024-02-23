@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/tce
-- monster/cr/
-- monster/size/tiny
-- monster/type/construct
+  - compendium/src/5e/tce
+  - monster/cr/
+  - monster/size/tiny
+  - monster/type/construct
 statblock: inline
-aliases: ["Homunculus Servant"]
+aliases:
+  - Homunculus Servant
 ---
 # [[5. Mechanics\Bestiary\Construct\Homunculus Servant.md|Homunculus Servant]]
 *Source: Tasha's Cauldron of Everything p. 22, Eberron: Rising from the Last War p. 62*  

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Assign Hit Dice; Hit Dice by Size"]
+  - compendium/src/5e/dmg
+aliases:
+  - Assign Hit Dice; Hit Dice by Size
 ---
 # Assign Hit Dice; Hit Dice by Size
 *Source: Dungeon Master's Guide p. 276. Available in the SRD and the Basic Rules.* 

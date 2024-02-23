@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/saf
-- monster/cr/17
-- monster/size/huge
-- monster/type/dragon
+  - compendium/src/5e/saf
+  - monster/cr/17
+  - monster/size/huge
+  - monster/type/dragon
 statblock: inline
-aliases: ["Adult Sapphire Dragon"]
+aliases:
+  - Adult Sapphire Dragon
 ---
 # [[5. Mechanics\Bestiary\Dragon\Adult Sapphire Dragon.md|Adult Sapphire Dragon]]
 *Source: Strongholds and Followers p. 214*  

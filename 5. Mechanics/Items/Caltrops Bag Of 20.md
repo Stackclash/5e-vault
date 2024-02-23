@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear
-aliases: 
-- "Caltrops (bag of 20)"
+  - compendium/src/5e/phb
+  - item/gear
+aliases:
+  - Caltrops (bag of 20)
 cost: 100
 ---
 # Caltrops (bag of 20)

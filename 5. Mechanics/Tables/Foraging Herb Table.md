@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhbh
-aliases: ["Foraging Herb Table"]
+  - compendium/src/5e/hhbh
+aliases:
+  - Foraging Herb Table
 ---
 # Foraging Herb Table
 *Source: Hamund's Herbalism Handbook p. 3* 

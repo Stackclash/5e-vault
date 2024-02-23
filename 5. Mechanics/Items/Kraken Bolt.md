@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/property/crfby
-- item/rarity/very-rare
-- item/weapon/ammunition
-aliases: 
-- "Kraken Bolt"
+  - compendium/src/5e/hhhvi
+  - item/property/crfby
+  - item/rarity/very-rare
+  - item/weapon/ammunition
+aliases:
+  - Kraken Bolt
 ---
 # Kraken Bolt
 *Ammunition, very rare, Crafted by*  

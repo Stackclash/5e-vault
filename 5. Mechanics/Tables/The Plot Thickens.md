@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["The Plot Thickens"]
+  - compendium/src/5e/erlw
+aliases:
+  - The Plot Thickens
 ---
 # The Plot Thickens
 *Source: Eberron: Rising from the Last War p. 186* 

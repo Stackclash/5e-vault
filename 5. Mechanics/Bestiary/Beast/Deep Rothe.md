@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/1-4
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/beast/cattle
+  - compendium/src/5e/mpmm
+  - monster/cr/1-4
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/beast/cattle
 statblock: inline
-aliases: ["Deep Rothé"]
+aliases:
+  - Deep Rothé
 ---
 # [Deep Rothé](compendium\bestiary\beast/deep-rothe-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 71*  

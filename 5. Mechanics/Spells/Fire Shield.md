@@ -2,18 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer/armorer
-- spell/class/artificer/battle-smith
-- spell/class/druid/circle-of-wildfire
-- spell/class/fighter/eldritch-knight
-- spell/class/rogue/arcane-trickster
-- spell/class/warlock/the-fiend
-- spell/class/warlock/the-genie
-- spell/class/wizard
-- spell/level/4
-- spell/school/evocation
-aliases: ["Fire Shield"]
+  - compendium/src/5e/phb
+  - spell/class/artificer/armorer
+  - spell/class/artificer/battle-smith
+  - spell/class/druid/circle-of-wildfire
+  - spell/class/fighter/eldritch-knight
+  - spell/class/rogue/arcane-trickster
+  - spell/class/warlock/the-fiend
+  - spell/class/warlock/the-genie
+  - spell/class/wizard
+  - spell/level/4
+  - spell/school/evocation
+aliases:
+  - Fire Shield
 ---
 # Fire Shield
 %%-- Embedded content starts on the next line. --%%

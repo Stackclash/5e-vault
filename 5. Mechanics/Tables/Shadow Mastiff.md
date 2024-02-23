@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvii
-aliases: ["Shadow Mastiff"]
+  - compendium/src/5e/hhhvii
+aliases:
+  - Shadow Mastiff
 ---
 # Shadow Mastiff
 *Source: Hamund's Harvesting Handbook: Volume II p. 41* 

@@ -2,21 +2,22 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer/armorer
-- spell/class/artificer/artillerist
-- spell/class/bard
-- spell/class/cleric/tempest-domain
-- spell/class/druid
-- spell/class/fighter/eldritch-knight
-- spell/class/rogue/arcane-trickster
-- spell/class/sorcerer
-- spell/class/warlock/the-fathomless
-- spell/class/warlock/the-genie
-- spell/class/wizard
-- spell/level/1
-- spell/school/evocation
-aliases: ["Thunderwave"]
+  - compendium/src/5e/phb
+  - spell/class/artificer/armorer
+  - spell/class/artificer/artillerist
+  - spell/class/bard
+  - spell/class/cleric/tempest-domain
+  - spell/class/druid
+  - spell/class/fighter/eldritch-knight
+  - spell/class/rogue/arcane-trickster
+  - spell/class/sorcerer
+  - spell/class/warlock/the-fathomless
+  - spell/class/warlock/the-genie
+  - spell/class/wizard
+  - spell/level/1
+  - spell/school/evocation
+aliases:
+  - Thunderwave
 ---
 # Thunderwave
 %%-- Embedded content starts on the next line. --%%

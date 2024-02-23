@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/phb
-- monster/cr/
-- monster/size/medium
-- monster/type/construct
+  - compendium/src/5e/phb
+  - monster/cr/
+  - monster/size/medium
+  - monster/type/construct
 statblock: inline
-aliases: ["Animated Object (Medium)"]
+aliases:
+  - Animated Object (Medium)
 ---
 # [[5. Mechanics\Bestiary\Construct\Animated Object Medium.md|Animated Object (Medium)]]
 *Source: Player's Handbook p. 213*  

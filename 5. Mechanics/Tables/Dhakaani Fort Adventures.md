@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Dhakaani Fort Adventures"]
+  - compendium/src/5e/erlw
+aliases:
+  - Dhakaani Fort Adventures
 ---
 # Dhakaani Fort Adventures
 *Source: Eberron: Rising from the Last War p. 205* 

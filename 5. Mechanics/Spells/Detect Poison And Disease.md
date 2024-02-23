@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/class/druid
-- spell/class/paladin
-- spell/class/ranger
-- spell/class/sorcerer/divine-soul
-- spell/level/1
-- spell/ritual
-- spell/school/divination
-aliases: ["Detect Poison and Disease"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/class/druid
+  - spell/class/paladin
+  - spell/class/ranger
+  - spell/class/sorcerer/divine-soul
+  - spell/level/1
+  - spell/ritual
+  - spell/school/divination
+aliases:
+  - Detect Poison and Disease
 ---
 # Detect Poison and Disease
 %%-- Embedded content starts on the next line. --%%

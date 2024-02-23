@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/property/crfby
-- item/rarity/common
-- item/wondrous
-aliases: 
-- "Long-lasting Candle"
+  - compendium/src/5e/hhhviii
+  - item/property/crfby
+  - item/rarity/common
+  - item/wondrous
+aliases:
+  - Long-lasting Candle
 ---
 # Long-lasting Candle
 *Wondrous Item, common, Crafted by*  

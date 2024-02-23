@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/mtf
-aliases: ["Halfling Tables; Reasons for Adventuring"]
+  - compendium/src/5e/mtf
+aliases:
+  - Halfling Tables; Reasons for Adventuring
 ---
 # Halfling Tables; Reasons for Adventuring
 *Source: Mordenkainen's Tome of Foes p. 105* 

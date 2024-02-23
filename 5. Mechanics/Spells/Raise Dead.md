@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer/alchemist
-- spell/class/bard
-- spell/class/cleric
-- spell/class/cleric/grave-domain
-- spell/class/cleric/life-domain
-- spell/class/paladin
-- spell/class/sorcerer/divine-soul
-- spell/level/5
-- spell/school/necromancy
-aliases: ["Raise Dead"]
+  - compendium/src/5e/phb
+  - spell/class/artificer/alchemist
+  - spell/class/bard
+  - spell/class/cleric
+  - spell/class/cleric/grave-domain
+  - spell/class/cleric/life-domain
+  - spell/class/paladin
+  - spell/class/sorcerer/divine-soul
+  - spell/level/5
+  - spell/school/necromancy
+aliases:
+  - Raise Dead
 ---
 # Raise Dead
 %%-- Embedded content starts on the next line. --%%

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/mtf
-aliases: ["Githyanki Raiding Parties; Dragon Chance"]
+  - compendium/src/5e/mtf
+aliases:
+  - Githyanki Raiding Parties; Dragon Chance
 ---
 # Githyanki Raiding Parties; Dragon Chance
 *Source: Mordenkainen's Tome of Foes p. 98* 

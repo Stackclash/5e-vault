@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/saf
-- monster/cr/9
-- monster/size/large
-- monster/type/dragon
+  - compendium/src/5e/saf
+  - monster/cr/9
+  - monster/size/large
+  - monster/type/dragon
 statblock: inline
-aliases: ["Young Amethyst Dragon"]
+aliases:
+  - Young Amethyst Dragon
 ---
 # [[5. Mechanics\Bestiary\Dragon\Young Amethyst Dragon.md|Young Amethyst Dragon]]
 *Source: Strongholds and Followers p. 223*  

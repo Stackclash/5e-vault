@@ -2,18 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/cleric
-- spell/class/druid/circle-of-the-land
-- spell/class/monk/way-of-shadow
-- spell/class/ranger
-- spell/class/sorcerer/divine-soul
-- spell/class/warlock/the-fathomless
-- spell/level/2
-- spell/ritual
-- spell/school/illusion
-aliases: ["Silence"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/cleric
+  - spell/class/druid/circle-of-the-land
+  - spell/class/monk/way-of-shadow
+  - spell/class/ranger
+  - spell/class/sorcerer/divine-soul
+  - spell/class/warlock/the-fathomless
+  - spell/level/2
+  - spell/ritual
+  - spell/school/illusion
+aliases:
+  - Silence
 ---
 # Silence
 %%-- Embedded content starts on the next line. --%%

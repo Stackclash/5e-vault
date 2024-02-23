@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/monk
-- compendium/src/5e/phb
-aliases: ["Monk"]
+  - class/monk
+  - compendium/src/5e/phb
+aliases:
+  - Monk
 ---
 # Monk
 *Source: Player's Handbook p. 76. Available in the SRD.*  

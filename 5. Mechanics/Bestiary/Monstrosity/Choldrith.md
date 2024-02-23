@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/3
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/monstrosity/cleric
+  - compendium/src/5e/mpmm
+  - monster/cr/3
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/monstrosity/cleric
 statblock: inline
-aliases: ["Choldrith"]
+aliases:
+  - Choldrith
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Choldrith.md|Choldrith]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 77*  

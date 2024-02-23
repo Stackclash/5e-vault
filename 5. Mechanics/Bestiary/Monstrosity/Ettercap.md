@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/2
-- monster/environment/forest
-- monster/size/medium
-- monster/type/monstrosity
+  - compendium/src/5e/mm
+  - monster/cr/2
+  - monster/environment/forest
+  - monster/size/medium
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Ettercap"]
+aliases:
+  - Ettercap
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Ettercap.md|Ettercap]]
 *Source: Monster Manual p. 131. Available in the SRD.*  

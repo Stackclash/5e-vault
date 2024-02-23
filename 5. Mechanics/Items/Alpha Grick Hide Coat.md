@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/armor/light
-- item/property/crfby
-- item/rarity/rare
-aliases: 
-- "Alpha Grick Hide Coat"
+  - compendium/src/5e/hhhvi
+  - item/armor/light
+  - item/property/crfby
+  - item/rarity/rare
+aliases:
+  - Alpha Grick Hide Coat
 ---
 # Alpha Grick Hide Coat
 *Light Armor, rare, Crafted by*  

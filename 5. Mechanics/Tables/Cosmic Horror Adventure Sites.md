@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vrgr
-aliases: ["Cosmic Horror Adventure Sites"]
+  - compendium/src/5e/vrgr
+aliases:
+  - Cosmic Horror Adventure Sites
 ---
 # Cosmic Horror Adventure Sites
 *Source: Van Richten's Guide to Ravenloft p. 49* 

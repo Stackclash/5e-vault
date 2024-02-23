@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvii
-- item/rarity/very-rare
-- item/wondrous/wondrous-item
-aliases: 
-- "+1 Mind Hook"
-- "+1 Mind Hook War Pick"
-- "+1 Mind Hook Sickle"
+  - compendium/src/5e/hhhvii
+  - item/rarity/very-rare
+  - item/wondrous/wondrous-item
+aliases:
+  - +1 Mind Hook
+  - +1 Mind Hook War Pick
+  - +1 Mind Hook Sickle
 ---
 # +1 Mind Hook
 *Generic Variant, very rare*  

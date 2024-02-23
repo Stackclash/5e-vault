@@ -2,19 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric/light-domain
-- spell/class/druid/circle-of-wildfire
-- spell/class/fighter/eldritch-knight
-- spell/class/monk/way-of-the-sun-soul
-- spell/class/rogue/arcane-trickster
-- spell/class/sorcerer
-- spell/class/warlock/the-fiend
-- spell/class/warlock/the-genie
-- spell/class/wizard
-- spell/level/1
-- spell/school/evocation
-aliases: ["Burning Hands"]
+  - compendium/src/5e/phb
+  - spell/class/cleric/light-domain
+  - spell/class/druid/circle-of-wildfire
+  - spell/class/fighter/eldritch-knight
+  - spell/class/monk/way-of-the-sun-soul
+  - spell/class/rogue/arcane-trickster
+  - spell/class/sorcerer
+  - spell/class/warlock/the-fiend
+  - spell/class/warlock/the-genie
+  - spell/class/wizard
+  - spell/level/1
+  - spell/school/evocation
+aliases:
+  - Burning Hands
 ---
 # Burning Hands
 %%-- Embedded content starts on the next line. --%%

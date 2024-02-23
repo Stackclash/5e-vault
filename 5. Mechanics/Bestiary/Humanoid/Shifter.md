@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/erlw
-- monster/cr/1-2
-- monster/size/medium
-- monster/type/humanoid/shifter
+  - compendium/src/5e/erlw
+  - monster/cr/1-2
+  - monster/size/medium
+  - monster/type/humanoid/shifter
 statblock: inline
-aliases: ["Shifter"]
+aliases:
+  - Shifter
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Shifter.md|Shifter]]
 *Source: Eberron: Rising from the Last War p. 319*  

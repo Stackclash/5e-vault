@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhviii
-aliases: ["Sibriex"]
+  - compendium/src/5e/hhhviii
+aliases:
+  - Sibriex
 ---
 # Sibriex
 *Source: Hamund's Harvesting Handbook: Volume III p. 23* 

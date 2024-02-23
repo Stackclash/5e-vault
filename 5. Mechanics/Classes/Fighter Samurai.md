@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/xge
-- subclass/fighter/samurai
-aliases: ["Samurai"]
+  - compendium/src/5e/xge
+  - subclass/fighter/samurai
+aliases:
+  - Samurai
 ---
 # Samurai
 *[[Fighter.md\|Fighter]]: Martial Archetype*  

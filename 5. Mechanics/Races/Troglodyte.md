@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/dmg
-- race/troglodyte/dmg
-aliases: ["Troglodyte (DMG)"]
+  - compendium/src/5e/dmg
+  - race/troglodyte/dmg
+aliases:
+  - Troglodyte (DMG)
 ---
 # Troglodyte (DMG)
 *Source: Dungeon Master's Guide p. 282*  

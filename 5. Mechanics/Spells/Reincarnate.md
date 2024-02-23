@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/druid
-- spell/level/5
-- spell/school/transmutation
-aliases: ["Reincarnate"]
+  - compendium/src/5e/phb
+  - spell/class/druid
+  - spell/level/5
+  - spell/school/transmutation
+aliases:
+  - Reincarnate
 ---
 # Reincarnate
 %%-- Embedded content starts on the next line. --%%

@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/0
-- monster/environment/forest
-- monster/size/tiny
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/0
+  - monster/environment/forest
+  - monster/size/tiny
+  - monster/type/beast
 statblock: inline
-aliases: ["Badger"]
+aliases:
+  - Badger
 ---
 # [[5. Mechanics\Bestiary\Beast\Badger.md|Badger]]
 *Source: Monster Manual p. 318. Available in the SRD and the Basic Rules.*  

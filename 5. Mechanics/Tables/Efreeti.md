@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Efreeti"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Efreeti
 ---
 # Efreeti
 *Source: Hamund's Harvesting Handbook: Volume I p. 50* 

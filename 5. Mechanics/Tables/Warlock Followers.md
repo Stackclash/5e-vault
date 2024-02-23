@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/saf
-aliases: ["Warlock Followers"]
+  - compendium/src/5e/saf
+aliases:
+  - Warlock Followers
 ---
 # Warlock Followers
 *Source: Strongholds and Followers* 

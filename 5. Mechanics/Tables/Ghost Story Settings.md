@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vrgr
-aliases: ["Ghost Story Settings"]
+  - compendium/src/5e/vrgr
+aliases:
+  - Ghost Story Settings
 ---
 # Ghost Story Settings
 *Source: Van Richten's Guide to Ravenloft p. 55* 

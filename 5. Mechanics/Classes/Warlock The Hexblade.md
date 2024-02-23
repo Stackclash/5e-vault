@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/xge
-- subclass/warlock/hexblade
-aliases: ["The Hexblade"]
+  - compendium/src/5e/xge
+  - subclass/warlock/hexblade
+aliases:
+  - The Hexblade
 ---
 # The Hexblade
 *[[Warlock.md\|Warlock]]: Otherworldly Patron*  

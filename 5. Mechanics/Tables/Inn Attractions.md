@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Inn Attractions"]
+  - compendium/src/5e/erlw
+aliases:
+  - Inn Attractions
 ---
 # Inn Attractions
 *Source: Eberron: Rising from the Last War p. 239* 

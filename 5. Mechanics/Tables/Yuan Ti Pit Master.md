@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvii
-aliases: ["Yuan-Ti Pit Master"]
+  - compendium/src/5e/hhhvii
+aliases:
+  - Yuan-Ti Pit Master
 ---
 # Yuan-Ti Pit Master
 *Source: Hamund's Harvesting Handbook: Volume II p. 48* 

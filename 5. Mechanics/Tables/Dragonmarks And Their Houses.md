@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Dragonmarks and Their Houses"]
+  - compendium/src/5e/erlw
+aliases:
+  - Dragonmarks and Their Houses
 ---
 # Dragonmarks and Their Houses
 *Source: Eberron: Rising from the Last War p. 37* 

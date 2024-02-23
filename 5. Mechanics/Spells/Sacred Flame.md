@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/class/sorcerer/divine-soul
-- spell/class/warlock/the-celestial
-- spell/level/cantrip
-- spell/school/evocation
-aliases: ["Sacred Flame"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/class/sorcerer/divine-soul
+  - spell/class/warlock/the-celestial
+  - spell/level/cantrip
+  - spell/school/evocation
+aliases:
+  - Sacred Flame
 ---
 # Sacred Flame
 %%-- Embedded content starts on the next line. --%%

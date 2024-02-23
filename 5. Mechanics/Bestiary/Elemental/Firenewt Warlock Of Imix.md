@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/1
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/elemental
+  - compendium/src/5e/mpmm
+  - monster/cr/1
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/elemental
 statblock: inline
-aliases: ["Firenewt Warlock of Imix"]
+aliases:
+  - Firenewt Warlock of Imix
 ---
 # [[5. Mechanics\Bestiary\Elemental\Firenewt Warlock Of Imix.md|Firenewt Warlock of Imix]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 125*  

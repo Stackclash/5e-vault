@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/weapon/ammunition
-aliases: 
-- "Crossbow Bolts (20)"
+  - compendium/src/5e/phb
+  - item/weapon/ammunition
+aliases:
+  - Crossbow Bolts (20)
 cost: 100
 ---
 # Crossbow Bolts (20)

@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-4
-- monster/environment/mountain
-- monster/size/medium
-- monster/type/humanoid/aarakocra
+  - compendium/src/5e/mm
+  - monster/cr/1-4
+  - monster/environment/mountain
+  - monster/size/medium
+  - monster/type/humanoid/aarakocra
 statblock: inline
-aliases: ["Aarakocra"]
+aliases:
+  - Aarakocra
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Aarakocra.md|Aarakocra]]
 *Source: Monster Manual p. 12*  

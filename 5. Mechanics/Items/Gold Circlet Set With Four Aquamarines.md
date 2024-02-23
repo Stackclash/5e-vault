@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/wealth/art-object
-aliases: 
-- "Gold circlet set with four aquamarines"
+  - compendium/src/5e/dmg
+  - item/wealth/art-object
+aliases:
+  - Gold circlet set with four aquamarines
 cost: 250000
 ---
 # Gold circlet set with four aquamarines

@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/2
-- monster/environment/desert
-- monster/size/medium
-- monster/type/aberration
+  - compendium/src/5e/mpmm
+  - monster/cr/2
+  - monster/environment/desert
+  - monster/size/medium
+  - monster/type/aberration
 statblock: inline
-aliases: ["Berbalang"]
+aliases:
+  - Berbalang
 ---
 # [[5. Mechanics\Bestiary\Aberration\Berbalang.md|Berbalang]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 61, Mordenkainen's Tome of Foes p. 120*  

@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/4
-- monster/environment/forest
-- monster/size/large
-- monster/type/monstrosity
+  - compendium/src/5e/mpmm
+  - monster/cr/4
+  - monster/environment/forest
+  - monster/size/large
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Girallon"]
+aliases:
+  - Girallon
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Girallon.md|Girallon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 139*  

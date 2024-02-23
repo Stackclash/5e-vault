@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/attunement/required
-- item/property/crfby
-- item/property/versatile
-- item/rarity/very-rare
-- item/weapon/simple/melee
-aliases: 
-- "Staff of Demon Tongue"
+  - compendium/src/5e/hhhviii
+  - item/attunement/required
+  - item/property/crfby
+  - item/property/versatile
+  - item/rarity/very-rare
+  - item/weapon/simple/melee
+aliases:
+  - Staff of Demon Tongue
 ---
 # Staff of Demon Tongue
 *Melee Weapon, very rare, Crafted by (requires attunement by a spellcaster)*  

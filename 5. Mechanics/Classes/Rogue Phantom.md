@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/tce
-- subclass/rogue/phantom
-aliases: ["Phantom"]
+  - compendium/src/5e/tce
+  - subclass/rogue/phantom
+aliases:
+  - Phantom
 ---
 # Phantom
 *[[Rogue.md\|Rogue]]: Roguish Archetype*  

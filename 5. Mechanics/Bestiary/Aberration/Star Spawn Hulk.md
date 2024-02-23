@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/10
-- monster/size/large
-- monster/type/aberration
+  - compendium/src/5e/mpmm
+  - monster/cr/10
+  - monster/size/large
+  - monster/type/aberration
 statblock: inline
-aliases: ["Star Spawn Hulk"]
+aliases:
+  - Star Spawn Hulk
 ---
 # [[5. Mechanics\Bestiary\Aberration\Star Spawn Hulk.md|Star Spawn Hulk]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 227, Mordenkainen's Tome of Foes p. 234*  

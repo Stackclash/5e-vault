@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/10
-- monster/environment/arctic
-- monster/environment/forest
-- monster/size/medium
-- monster/type/fey/elf
+  - compendium/src/5e/mpmm
+  - monster/cr/10
+  - monster/environment/arctic
+  - monster/environment/forest
+  - monster/size/medium
+  - monster/type/fey/elf
 statblock: inline
-aliases: ["Winter Eladrin"]
+aliases:
+  - Winter Eladrin
 ---
 # [[5. Mechanics\Bestiary\Fey\Winter Eladrin.md|Winter Eladrin]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 117, Mordenkainen's Tome of Foes p. 197*  

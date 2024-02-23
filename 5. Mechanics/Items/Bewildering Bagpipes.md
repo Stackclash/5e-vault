@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvii
-- item/gear/instrument
-- item/property/crfby
-- item/rarity/uncommon
-aliases: 
-- "Bewildering Bagpipes"
+  - compendium/src/5e/hhhvii
+  - item/gear/instrument
+  - item/property/crfby
+  - item/rarity/uncommon
+aliases:
+  - Bewildering Bagpipes
 ---
 # Bewildering Bagpipes
 *Instrument, uncommon, Crafted by*  

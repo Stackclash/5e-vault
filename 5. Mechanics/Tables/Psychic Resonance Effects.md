@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/tce
-aliases: ["Psychic Resonance Effects"]
+  - compendium/src/5e/tce
+aliases:
+  - Psychic Resonance Effects
 ---
 # Psychic Resonance Effects
 *Source: Tasha's Cauldron of Everything p. 160* 

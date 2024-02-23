@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/mtf
-aliases: ["Duergar Raiding Parties; Duergar Group Leader"]
+  - compendium/src/5e/mtf
+aliases:
+  - Duergar Raiding Parties; Duergar Group Leader
 ---
 # Duergar Raiding Parties; Duergar Group Leader
 *Source: Mordenkainen's Tome of Foes p. 83* 

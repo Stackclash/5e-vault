@@ -53,6 +53,8 @@ dislikes: 'Those who disrespect the Vistani, closed-mindedness.'
 > **Current Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 # **`=this.file.name`**
+*Source: Curse of Strahd p. 233* 
+
 The fortune-teller Madam Eva lives among the Vistani but isn't truly one of them. She appears to be in her seventies, but she is, in fact, much older.
 
 ## Royal Blood

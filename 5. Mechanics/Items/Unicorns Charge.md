@@ -2,24 +2,24 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvi
-- item/rarity/rare
-- item/wondrous/wondrous-item
-aliases: 
-- "Unicorn's Charge"
-- "Unicorn's Charge Hooked Shortspear"
-- "Unicorn's Charge Pike"
-- "Unicorn's Charge Yklwa"
-- "Unicorn's Charge Morningstar"
-- "Unicorn's Charge Dagger"
-- "Unicorn's Charge Trident"
-- "Unicorn's Charge Spear"
-- "Unicorn's Charge Rapier"
-- "Unicorn's Charge Javelin"
-- "Unicorn's Charge War Pick"
-- "Unicorn's Charge Shortsword"
-- "Unicorn's Charge Hoopak"
-- "Unicorn's Charge Lance"
+  - compendium/src/5e/hhhvi
+  - item/rarity/rare
+  - item/wondrous/wondrous-item
+aliases:
+  - Unicorn's Charge
+  - Unicorn's Charge Hooked Shortspear
+  - Unicorn's Charge Pike
+  - Unicorn's Charge Yklwa
+  - Unicorn's Charge Morningstar
+  - Unicorn's Charge Dagger
+  - Unicorn's Charge Trident
+  - Unicorn's Charge Spear
+  - Unicorn's Charge Rapier
+  - Unicorn's Charge Javelin
+  - Unicorn's Charge War Pick
+  - Unicorn's Charge Shortsword
+  - Unicorn's Charge Hoopak
+  - Unicorn's Charge Lance
 ---
 # Unicorn's Charge
 *Generic Variant, rare*  

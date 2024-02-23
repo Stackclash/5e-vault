@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/armor/heavy
-- item/attunement/required
-- item/property/crfby
-- item/rarity/very-rare
-aliases: 
-- "Contagion Plate"
+  - compendium/src/5e/hhhviii
+  - item/armor/heavy
+  - item/attunement/required
+  - item/property/crfby
+  - item/rarity/very-rare
+aliases:
+  - Contagion Plate
 ---
 # Contagion Plate
 *Heavy Armor, very rare, Crafted by (requires attunement)*  

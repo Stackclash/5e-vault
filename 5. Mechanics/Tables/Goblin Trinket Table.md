@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvi
-aliases: ["Goblin Trinket Table"]
+  - compendium/src/5e/hhhvi
+aliases:
+  - Goblin Trinket Table
 ---
 # Goblin Trinket Table
 *Source: Hamund's Harvesting Handbook: Volume I p. 57* 

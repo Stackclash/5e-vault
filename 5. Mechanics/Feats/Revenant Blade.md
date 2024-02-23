@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/erlw
-- feat
-aliases: ["Revenant Blade"]
+  - compendium/src/5e/erlw
+  - feat
+aliases:
+  - Revenant Blade
 ---
 # Revenant Blade
 *Source: Eberron: Rising from the Last War p. 22*  

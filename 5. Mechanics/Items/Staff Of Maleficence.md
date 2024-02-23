@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/attunement/required
-- item/property/crfby
-- item/property/versatile
-- item/rarity/legendary
-- item/weapon/simple/melee
-aliases: 
-- "Staff of Maleficence"
+  - compendium/src/5e/hhhviii
+  - item/attunement/required
+  - item/property/crfby
+  - item/property/versatile
+  - item/rarity/legendary
+  - item/weapon/simple/melee
+aliases:
+  - Staff of Maleficence
 ---
 # Staff of Maleficence
 *Melee Weapon, legendary, Crafted by (requires attunement by a spellcaster)*  

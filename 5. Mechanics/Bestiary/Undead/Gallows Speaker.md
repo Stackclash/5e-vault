@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/vrgr
-- monster/cr/6
-- monster/size/medium
-- monster/type/undead
+  - compendium/src/5e/vrgr
+  - monster/cr/6
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
-aliases: ["Gallows Speaker"]
+aliases:
+  - Gallows Speaker
 ---
 # [[5. Mechanics\Bestiary\Undead\Gallows Speaker.md|Gallows Speaker]]
 *Source: Van Richten's Guide to Ravenloft p. 234*  

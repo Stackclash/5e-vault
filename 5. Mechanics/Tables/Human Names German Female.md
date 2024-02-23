@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/xge
-aliases: ["Human Names – German, Female"]
+  - compendium/src/5e/xge
+aliases:
+  - 'Human Names – German, Female'
 ---
 # Human Names – German, Female
 *Source: Xanathar's Guide to Everything p. 181* 

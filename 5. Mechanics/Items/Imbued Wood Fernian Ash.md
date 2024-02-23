@@ -2,15 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/erlw
-- item/attunement/required
-- item/rarity/common
-- item/wondrous/wondrous-item
-aliases: 
-- "Imbued Wood (Fernian Ash)"
-- "Fernian Ash Rod"
-- "Fernian Ash Wand"
-- "Fernian Ash Staff"
+  - compendium/src/5e/erlw
+  - item/attunement/required
+  - item/rarity/common
+  - item/wondrous/wondrous-item
+aliases:
+  - Imbued Wood (Fernian Ash)
+  - Fernian Ash Rod
+  - Fernian Ash Wand
+  - Fernian Ash Staff
 ---
 # Imbued Wood (Fernian Ash)
 *Generic Variant, common (requires attunement)*  

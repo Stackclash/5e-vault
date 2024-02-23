@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/tce
-- optional-feature/mv-b
-aliases: ["Commanding Presence"]
+  - compendium/src/5e/tce
+  - optional-feature/mv-b
+aliases:
+  - Commanding Presence
 ---
 # Commanding Presence
 *Source: Tasha's Cauldron of Everything p. 42*  

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/saf
-- monster/legendary-group
-aliases: ["Ancient Sapphire Dragon"]
+  - compendium/src/5e/saf
+  - monster/legendary-group
+aliases:
+  - Ancient Sapphire Dragon
 ---
 # Ancient Sapphire Dragon
 

@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvii
-- item/property/crfby
-- item/rarity/very-rare
-- item/wondrous/potion
-aliases: 
-- "Potion of Boundless Intellect"
+  - compendium/src/5e/hhhvii
+  - item/property/crfby
+  - item/rarity/very-rare
+  - item/wondrous/potion
+aliases:
+  - Potion of Boundless Intellect
 ---
 # Potion of Boundless Intellect
 *Potion, very rare, Crafted by*  

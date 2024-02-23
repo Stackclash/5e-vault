@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Warforged Ossuary Adventures"]
+  - compendium/src/5e/erlw
+aliases:
+  - Warforged Ossuary Adventures
 ---
 # Warforged Ossuary Adventures
 *Source: Eberron: Rising from the Last War p. 212* 

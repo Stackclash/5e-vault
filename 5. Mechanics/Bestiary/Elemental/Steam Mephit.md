@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-4
-- monster/environment/underwater
-- monster/size/small
-- monster/type/elemental
+  - compendium/src/5e/mm
+  - monster/cr/1-4
+  - monster/environment/underwater
+  - monster/size/small
+  - monster/type/elemental
 statblock: inline
-aliases: ["Steam Mephit"]
+aliases:
+  - Steam Mephit
 ---
 # [[5. Mechanics\Bestiary\Elemental\Steam Mephit.md|Steam Mephit]]
 *Source: Monster Manual p. 217. Available in the SRD.*  

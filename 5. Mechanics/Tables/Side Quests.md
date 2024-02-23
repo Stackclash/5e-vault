@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Side Quests"]
+  - compendium/src/5e/dmg
+aliases:
+  - Side Quests
 ---
 # Side Quests
 *Source: Dungeon Master's Guide p. 81* 

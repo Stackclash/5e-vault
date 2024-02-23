@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/tce
-- optional-feature/ai
-aliases: ["Radiant Weapon"]
+  - compendium/src/5e/tce
+  - optional-feature/ai
+aliases:
+  - Radiant Weapon
 ---
 # Radiant Weapon
 *Source: Tasha's Cauldron of Everything p. 22, Eberron: Rising from the Last War p. 62*  

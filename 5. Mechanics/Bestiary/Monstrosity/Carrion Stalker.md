@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/vrgr
-- monster/cr/3
-- monster/size/tiny
-- monster/type/monstrosity
+  - compendium/src/5e/vrgr
+  - monster/cr/3
+  - monster/size/tiny
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Carrion Stalker"]
+aliases:
+  - Carrion Stalker
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Carrion Stalker.md|Carrion Stalker]]
 *Source: Van Richten's Guide to Ravenloft p. 230*  

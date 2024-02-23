@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/saf
-- monster/cr/8
-- monster/size/large
-- monster/type/celestial
+  - compendium/src/5e/saf
+  - monster/cr/8
+  - monster/size/large
+  - monster/type/celestial
 statblock: inline
-aliases: ["Dominion"]
+aliases:
+  - Dominion
 ---
 # [[5. Mechanics\Bestiary\Celestial\Dominion.md|Dominion]]
 *Source: Strongholds and Followers p. 161*  

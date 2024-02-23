@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhvii
-- item/rarity/very-rare
-- item/wondrous/wondrous-item
-aliases: 
-- "Shadow Hunter Bow"
-- "Shadow Hunter Longbow"
-- "Shadow Hunter Shortbow"
+  - compendium/src/5e/hhhvii
+  - item/rarity/very-rare
+  - item/wondrous/wondrous-item
+aliases:
+  - Shadow Hunter Bow
+  - Shadow Hunter Longbow
+  - Shadow Hunter Shortbow
 ---
 # Shadow Hunter Bow
 *Generic Variant, very rare*  

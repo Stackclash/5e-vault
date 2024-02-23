@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Daask Villains"]
+  - compendium/src/5e/erlw
+aliases:
+  - Daask Villains
 ---
 # Daask Villains
 *Source: Eberron: Rising from the Last War p. 250* 

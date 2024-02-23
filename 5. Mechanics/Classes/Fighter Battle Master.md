@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/phb
-- subclass/fighter/battle-master
-aliases: ["Battle Master"]
+  - compendium/src/5e/phb
+  - subclass/fighter/battle-master
+aliases:
+  - Battle Master
 ---
 # Battle Master
 *[[Fighter.md\|Fighter]]: Martial Archetype*  

@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/1
-- monster/environment/forest
-- monster/environment/swamp
-- monster/size/medium
-- monster/type/plant
+  - compendium/src/5e/mpmm
+  - monster/cr/1
+  - monster/environment/forest
+  - monster/environment/swamp
+  - monster/size/medium
+  - monster/type/plant
 statblock: inline
-aliases: ["Thorny Vegepygmy"]
+aliases:
+  - Thorny Vegepygmy
 ---
 # [[5. Mechanics\Bestiary\Plant\Thorny Vegepygmy.md|Thorny Vegepygmy]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 253*  

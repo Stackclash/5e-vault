@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/xge
-- subclass/fighter/arcane-archer
-aliases: ["Arcane Archer"]
+  - compendium/src/5e/xge
+  - subclass/fighter/arcane-archer
+aliases:
+  - Arcane Archer
 ---
 # Arcane Archer
 *[[Fighter.md\|Fighter]]: Martial Archetype*  

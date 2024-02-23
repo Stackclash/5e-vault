@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/saf
-- item/attunement/required
-- item/property/martial
-- item/property/versatile
-- item/rarity/very-rare
-- item/weapon/martial/melee
-aliases: 
-- "Disruptor"
+  - compendium/src/5e/saf
+  - item/attunement/required
+  - item/property/martial
+  - item/property/versatile
+  - item/rarity/very-rare
+  - item/weapon/martial/melee
+aliases:
+  - Disruptor
 ---
 # Disruptor
 *Melee Weapon, very rare (requires attunement by a chaotic creature)*  

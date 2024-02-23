@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/cleric
-- compendium/src/5e/phb
-aliases: ["Cleric"]
+  - class/cleric
+  - compendium/src/5e/phb
+aliases:
+  - Cleric
 ---
 # Cleric
 *Source: Player's Handbook p. 56. Available in the SRD and the Basic Rules.*  

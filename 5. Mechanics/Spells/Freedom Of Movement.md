@@ -2,21 +2,22 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer
-- spell/class/bard
-- spell/class/cleric
-- spell/class/cleric/war-domain
-- spell/class/druid
-- spell/class/druid/circle-of-the-land
-- spell/class/paladin/oath-of-devotion
-- spell/class/paladin/oath-of-glory
-- spell/class/ranger
-- spell/class/sorcerer/clockwork-soul
-- spell/class/sorcerer/divine-soul
-- spell/level/4
-- spell/school/abjuration
-aliases: ["Freedom of Movement"]
+  - compendium/src/5e/phb
+  - spell/class/artificer
+  - spell/class/bard
+  - spell/class/cleric
+  - spell/class/cleric/war-domain
+  - spell/class/druid
+  - spell/class/druid/circle-of-the-land
+  - spell/class/paladin/oath-of-devotion
+  - spell/class/paladin/oath-of-glory
+  - spell/class/ranger
+  - spell/class/sorcerer/clockwork-soul
+  - spell/class/sorcerer/divine-soul
+  - spell/level/4
+  - spell/school/abjuration
+aliases:
+  - Freedom of Movement
 ---
 # Freedom of Movement
 %%-- Embedded content starts on the next line. --%%

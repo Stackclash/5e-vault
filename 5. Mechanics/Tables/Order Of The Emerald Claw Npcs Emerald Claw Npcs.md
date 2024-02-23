@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Order of the Emerald Claw NPCs; Emerald Claw NPCs"]
+  - compendium/src/5e/erlw
+aliases:
+  - Order of the Emerald Claw NPCs; Emerald Claw NPCs
 ---
 # Order of the Emerald Claw NPCs; Emerald Claw NPCs
 *Source: Eberron: Rising from the Last War p. 226* 

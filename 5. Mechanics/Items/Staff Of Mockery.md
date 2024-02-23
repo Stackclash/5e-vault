@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/hhhviii
-- item/property/crfby
-- item/rarity/common
-- item/wondrous
-aliases: 
-- "Staff of Mockery"
+  - compendium/src/5e/hhhviii
+  - item/property/crfby
+  - item/rarity/common
+  - item/wondrous
+aliases:
+  - Staff of Mockery
 ---
 # Staff of Mockery
 *Wondrous Item, common, Crafted by*  

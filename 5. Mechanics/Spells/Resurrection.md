@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/cleric
-- spell/class/sorcerer/divine-soul
-- spell/level/7
-- spell/school/necromancy
-aliases: ["Resurrection"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/cleric
+  - spell/class/sorcerer/divine-soul
+  - spell/level/7
+  - spell/school/necromancy
+aliases:
+  - Resurrection
 ---
 # Resurrection
 %%-- Embedded content starts on the next line. --%%

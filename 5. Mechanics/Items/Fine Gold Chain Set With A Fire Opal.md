@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/wealth/art-object
-aliases: 
-- "Fine gold chain set with a fire opal"
+  - compendium/src/5e/dmg
+  - item/wealth/art-object
+aliases:
+  - Fine gold chain set with a fire opal
 cost: 250000
 ---
 # Fine gold chain set with a fire opal

@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/2
-- monster/environment/forest
-- monster/environment/hill
-- monster/environment/swamp
-- monster/size/medium
-- monster/type/monstrosity
+  - compendium/src/5e/mpmm
+  - monster/cr/2
+  - monster/environment/forest
+  - monster/environment/hill
+  - monster/environment/swamp
+  - monster/size/medium
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Shadow Mastiff"]
+aliases:
+  - Shadow Mastiff
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Shadow Mastiff.md|Shadow Mastiff]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 215*  

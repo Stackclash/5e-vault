@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/dmg
-- race/elf/eladrin/dmg
-aliases: ["Elf (Eladrin) (DMG)"]
+  - compendium/src/5e/dmg
+  - race/elf/eladrin/dmg
+aliases:
+  - Elf (Eladrin) (DMG)
 ---
 # Elf (Eladrin) (DMG)
 *Source: Dungeon Master's Guide p. 286*  

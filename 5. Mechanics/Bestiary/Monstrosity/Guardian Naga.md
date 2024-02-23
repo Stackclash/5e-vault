@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/10
-- monster/environment/desert
-- monster/environment/forest
-- monster/size/large
-- monster/type/monstrosity
+  - compendium/src/5e/mm
+  - monster/cr/10
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/size/large
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Guardian Naga"]
+aliases:
+  - Guardian Naga
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Guardian Naga.md|Guardian Naga]]
 *Source: Monster Manual p. 234. Available in the SRD.*  

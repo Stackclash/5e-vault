@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/14
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/humanoid/cleric
-- monster/type/humanoid/elf
+  - compendium/src/5e/mpmm
+  - monster/cr/14
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/humanoid/cleric
+  - monster/type/humanoid/elf
 statblock: inline
-aliases: ["Drow Inquisitor"]
+aliases:
+  - Drow Inquisitor
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Drow Inquisitor.md|Drow Inquisitor]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 102, Mordenkainen's Tome of Foes p. 184*  

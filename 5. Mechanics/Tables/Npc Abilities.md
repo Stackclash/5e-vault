@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["NPC Abilities"]
+  - compendium/src/5e/dmg
+aliases:
+  - NPC Abilities
 ---
 # NPC Abilities
 *Source: Dungeon Master's Guide p. 88* 

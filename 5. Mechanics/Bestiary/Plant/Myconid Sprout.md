@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/0
-- monster/environment/underdark
-- monster/size/small
-- monster/type/plant
+  - compendium/src/5e/mm
+  - monster/cr/0
+  - monster/environment/underdark
+  - monster/size/small
+  - monster/type/plant
 statblock: inline
-aliases: ["Myconid Sprout"]
+aliases:
+  - Myconid Sprout
 ---
 # [[5. Mechanics\Bestiary\Plant\Myconid Sprout.md|Myconid Sprout]]
 *Source: Monster Manual p. 230*  

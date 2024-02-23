@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/14
-- monster/environment/underdark
-- monster/size/large
-- monster/type/aberration/mind-flayer
+  - compendium/src/5e/mpmm
+  - monster/cr/14
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/aberration/mind-flayer
 statblock: inline
-aliases: ["Elder Brain"]
+aliases:
+  - Elder Brain
 ---
 # [[5. Mechanics\Bestiary\Aberration\Elder Brain.md|Elder Brain]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 120*  

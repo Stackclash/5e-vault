@@ -2,22 +2,23 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer
-- spell/class/cleric/war-domain
-- spell/class/druid
-- spell/class/druid/circle-of-the-land
-- spell/class/fighter/eldritch-knight
-- spell/class/paladin/oath-of-conquest
-- spell/class/paladin/oath-of-redemption
-- spell/class/paladin/oath-of-the-ancients
-- spell/class/ranger
-- spell/class/rogue/arcane-trickster
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/4
-- spell/school/abjuration
-aliases: ["Stoneskin"]
+  - compendium/src/5e/phb
+  - spell/class/artificer
+  - spell/class/cleric/war-domain
+  - spell/class/druid
+  - spell/class/druid/circle-of-the-land
+  - spell/class/fighter/eldritch-knight
+  - spell/class/paladin/oath-of-conquest
+  - spell/class/paladin/oath-of-redemption
+  - spell/class/paladin/oath-of-the-ancients
+  - spell/class/ranger
+  - spell/class/rogue/arcane-trickster
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/4
+  - spell/school/abjuration
+aliases:
+  - Stoneskin
 ---
 # Stoneskin
 %%-- Embedded content starts on the next line. --%%

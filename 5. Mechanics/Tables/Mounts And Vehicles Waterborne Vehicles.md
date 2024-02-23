@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Mounts and Vehicles; Waterborne Vehicles"]
+  - compendium/src/5e/phb
+aliases:
+  - Mounts and Vehicles; Waterborne Vehicles
 ---
 # Mounts and Vehicles; Waterborne Vehicles
 *Source: Player's Handbook p. 155. Available in the SRD and the Basic Rules.* 

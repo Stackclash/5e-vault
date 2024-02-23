@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/spellcaster-sidekick
-- compendium/src/5e/tce
-aliases: ["Spellcaster Sidekick"]
+  - class/spellcaster-sidekick
+  - compendium/src/5e/tce
+aliases:
+  - Spellcaster Sidekick
 ---
 # Spellcaster Sidekick
 *Source: Tasha's Cauldron of Everything p. 144*  

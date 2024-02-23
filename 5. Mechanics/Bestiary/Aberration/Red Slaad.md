@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/5
-- monster/size/large
-- monster/type/aberration
+  - compendium/src/5e/mm
+  - monster/cr/5
+  - monster/size/large
+  - monster/type/aberration
 statblock: inline
-aliases: ["Red Slaad"]
+aliases:
+  - Red Slaad
 ---
 # [[5. Mechanics\Bestiary\Aberration\Red Slaad.md|Red Slaad]]
 *Source: Monster Manual p. 276*  

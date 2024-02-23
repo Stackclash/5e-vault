@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhbh
-aliases: ["Optional Rule: Herb Toxicity"]
+  - compendium/src/5e/hhbh
+aliases:
+  - 'Optional Rule: Herb Toxicity'
 ---
 # Optional Rule: Herb Toxicity
 *Source: Hamund's Herbalism Handbook p. 4* 

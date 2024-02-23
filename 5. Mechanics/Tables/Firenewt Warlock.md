@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvii
-aliases: ["Firenewt Warlock"]
+  - compendium/src/5e/hhhvii
+aliases:
+  - Firenewt Warlock
 ---
 # Firenewt Warlock
 *Source: Hamund's Harvesting Handbook: Volume II p. 18* 

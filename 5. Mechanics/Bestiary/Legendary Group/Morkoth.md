@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/mpmm
-- monster/legendary-group
-aliases: ["Morkoth"]
+  - compendium/src/5e/mpmm
+  - monster/legendary-group
+aliases:
+  - Morkoth
 ---
 # Morkoth
 

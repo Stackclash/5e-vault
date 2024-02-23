@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvii
-aliases: ["Ulitharid"]
+  - compendium/src/5e/hhhvii
+aliases:
+  - Ulitharid
 ---
 # Ulitharid
 *Source: Hamund's Harvesting Handbook: Volume II p. 32* 

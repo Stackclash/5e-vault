@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvii
-aliases: ["Giant Strider"]
+  - compendium/src/5e/hhhvii
+aliases:
+  - Giant Strider
 ---
 # Giant Strider
 *Source: Hamund's Harvesting Handbook: Volume II p. 18* 

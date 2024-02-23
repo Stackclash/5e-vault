@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvii
-aliases: ["Catoblepas"]
+  - compendium/src/5e/hhhvii
+aliases:
+  - Catoblepas
 ---
 # Catoblepas
 *Source: Hamund's Harvesting Handbook: Volume II p. 11* 

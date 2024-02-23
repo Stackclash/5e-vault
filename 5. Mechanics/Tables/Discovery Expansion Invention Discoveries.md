@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Discovery, Expansion, Invention; Discoveries"]
+  - compendium/src/5e/dmg
+aliases:
+  - 'Discovery, Expansion, Invention; Discoveries'
 ---
 # Discovery, Expansion, Invention; Discoveries
 *Source: Dungeon Master's Guide p. 31* 

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/xge
-aliases: ["Downtime Activity: Relaxation"]
+  - compendium/src/5e/xge
+aliases:
+  - 'Downtime Activity: Relaxation'
 ---
 # Downtime Activity: Relaxation
 *Source: Xanathar's Guide to Everything p. 131* 

@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear
-aliases: 
-- "Hempen Rope (50 feet)"
+  - compendium/src/5e/phb
+  - item/gear
+aliases:
+  - Hempen Rope (50 feet)
 cost: 100
 ---
 # Hempen Rope (50 feet)

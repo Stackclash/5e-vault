@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/xge
-aliases: ["Level and Lethality; Trap Save DCs and Attack Bonuses"]
+  - compendium/src/5e/xge
+aliases:
+  - Level and Lethality; Trap Save DCs and Attack Bonuses
 ---
 # Level and Lethality; Trap Save DCs and Attack Bonuses
 *Source: Xanathar's Guide to Everything p. 116* 

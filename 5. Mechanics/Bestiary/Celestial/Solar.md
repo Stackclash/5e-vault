@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/21
-- monster/size/large
-- monster/type/celestial
+  - compendium/src/5e/mm
+  - monster/cr/21
+  - monster/size/large
+  - monster/type/celestial
 statblock: inline
-aliases: ["Solar"]
+aliases:
+  - Solar
 ---
 # [[5. Mechanics\Bestiary\Celestial\Solar.md|Solar]]
 *Source: Monster Manual p. 18. Available in the SRD.*  

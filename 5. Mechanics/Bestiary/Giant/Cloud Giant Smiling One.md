@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mpmm
-- monster/cr/11
-- monster/environment/mountain
-- monster/size/huge
-- monster/type/giant
+  - compendium/src/5e/mpmm
+  - monster/cr/11
+  - monster/environment/mountain
+  - monster/size/huge
+  - monster/type/giant
 statblock: inline
-aliases: ["Cloud Giant Smiling One"]
+aliases:
+  - Cloud Giant Smiling One
 ---
 # [[5. Mechanics\Bestiary\Giant\Cloud Giant Smiling One.md|Cloud Giant Smiling One]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 81*  

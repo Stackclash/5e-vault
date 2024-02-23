@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/xge
-aliases: ["Coastal Encounters (Levels 17—20)"]
+  - compendium/src/5e/xge
+aliases:
+  - Coastal Encounters (Levels 17—20)
 ---
 # Coastal Encounters (Levels 17—20)
 *Source: Xanathar's Guide to Everything p. 93* 

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/phb
-- optional-feature/ed
-aliases: ["Eternal Mountain Defense"]
+  - compendium/src/5e/phb
+  - optional-feature/ed
+aliases:
+  - Eternal Mountain Defense
 ---
 # Eternal Mountain Defense
 *Source: Player's Handbook p. 81*  

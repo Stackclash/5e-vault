@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/dmg
-- race/gnome/deep/dmg
-aliases: ["Gnome (Deep) (DMG)"]
+  - compendium/src/5e/dmg
+  - race/gnome/deep/dmg
+aliases:
+  - Gnome (Deep) (DMG)
 ---
 # Gnome (Deep) (DMG)
 *Source: Dungeon Master's Guide p. 282*  

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/hhhvii
-aliases: ["Yeth Hound"]
+  - compendium/src/5e/hhhvii
+aliases:
+  - Yeth Hound
 ---
 # Yeth Hound
 *Source: Hamund's Harvesting Handbook: Volume II p. 47* 

@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/vrgr
-- monster/cr/2
-- monster/size/medium
-- monster/type/beast
+  - compendium/src/5e/vrgr
+  - monster/cr/2
+  - monster/size/medium
+  - monster/type/beast
 statblock: inline
-aliases: ["Swarm of Maggots"]
+aliases:
+  - Swarm of Maggots
 ---
 # [[5. Mechanics\Bestiary\Beast\Swarm Of Maggots.md|Swarm of Maggots]]
 *Source: Van Richten's Guide to Ravenloft p. 247*  

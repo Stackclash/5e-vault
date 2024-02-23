@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/xge
-aliases: ["Spell Scrolls for Sale"]
+  - compendium/src/5e/xge
+aliases:
+  - Spell Scrolls for Sale
 ---
 # Spell Scrolls for Sale
 *Source: Xanathar's Guide to Everything* 

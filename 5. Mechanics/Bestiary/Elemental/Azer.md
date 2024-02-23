@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/2
-- monster/size/medium
-- monster/type/elemental
+  - compendium/src/5e/mm
+  - monster/cr/2
+  - monster/size/medium
+  - monster/type/elemental
 statblock: inline
-aliases: ["Azer"]
+aliases:
+  - Azer
 ---
 # [[5. Mechanics\Bestiary\Elemental\Azer.md|Azer]]
 *Source: Monster Manual p. 22. Available in the SRD.*  
