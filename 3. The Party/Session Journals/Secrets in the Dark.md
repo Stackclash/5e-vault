@@ -43,8 +43,8 @@ prep-notes:
 	- 2nd level: [darkvision](app://obsidian.md/5.%20Mechanics/Spells/Darkvision.md), [hold person](app://obsidian.md/5.%20Mechanics/Spells/Hold%20Person.md), [invisibility](app://obsidian.md/5.%20Mechanics/Spells/Invisibility.md), [magic weapon](app://obsidian.md/5.%20Mechanics/Spells/Magic%20Weapon.md)
 
 ## What Happened
-- [[Seluvis Felo'melorn]] takes an orb from a statue of [[Strahd Von Zarovich]] 
+- [[Seluvis Felo'melorn]] takes an orb from a statue of [[Strahd Von Zarovich]]
 - [[Marin]] takes several trinkets
 - The party finds a large room meant for sacrifices
 - [[Yevelda Ovak]] leans on the altar and spirits of cultist's start chanting "One must die"
-- The party decide to leave. When they do they summon a [[Gibbering Mouther]] 
+- The party decide to leave. When they do they summon a [[Gibbering Mouther]] and [[5. Mechanics/Bestiary/Undead/Zombie|Zombies]] 
