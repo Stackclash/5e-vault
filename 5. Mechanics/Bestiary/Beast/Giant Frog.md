@@ -13,7 +13,7 @@ aliases:
   - Giant Frog
 ---
 # [[5. Mechanics\Bestiary\Beast\Giant Frog.md|Giant Frog]]
-*Source: Monster Manual p. 325. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 325. Available in the SRD and the Basic Rules.*
 
 ```statblock
 "name": "Giant Frog"

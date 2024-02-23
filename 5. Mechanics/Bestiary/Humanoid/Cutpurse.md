@@ -11,7 +11,7 @@ aliases:
   - Cutpurse
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Cutpurse.md|Cutpurse]]
-*Source: Strongholds and Followers p. 79*  
+*Source: Strongholds and Followers p. 79*
 
 ```statblock
 "name": "Cutpurse"

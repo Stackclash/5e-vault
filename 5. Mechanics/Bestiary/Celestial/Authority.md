@@ -11,7 +11,7 @@ aliases:
   - Authority
 ---
 # [[5. Mechanics\Bestiary\Celestial\Authority.md|Authority]]
-*Source: Strongholds and Followers p. 157*  
+*Source: Strongholds and Followers p. 157*
 
 Pretty much what you'd expect from an angelic being called an Authority. It is the knight of the Celestial Court. What paladins would like to be when they grow up. The Authority arrives on our plane in heavy armor, armed with the Brightsword and looking for evil to smash. It is responsible for maintaining celestial order, and while it's still absolutely committed to smashing evil, it tends to smash chaotic evil a little more than other evils.
 

@@ -11,7 +11,7 @@ aliases:
   - Young Sapphire Dragon
 ---
 # [[5. Mechanics\Bestiary\Dragon\Young Sapphire Dragon.md|Young Sapphire Dragon]]
-*Source: Strongholds and Followers p. 215*  
+*Source: Strongholds and Followers p. 215*
 
 Eldest, first, the sapphire dragons inspire awe in any who see them. They guard the knowledge of past and future and the power that lets one shift between them. They approve of the dwarves, who imposed the rigid rules of causality on the world, and consider the remnant domains of the elves, the wodes, as a danger. Not a threat per se, because they know it is in the elves' nature to ignore past and future, but when mortals exploit this or discover the means to move through time, or summon creatures from the past and future, then the sapphire dragons get riled up.
 

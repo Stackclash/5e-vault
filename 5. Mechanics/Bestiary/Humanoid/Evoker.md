@@ -11,7 +11,7 @@ aliases:
   - Evoker
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Evoker.md|Evoker]]
-*Source: Strongholds and Followers p. 80*  
+*Source: Strongholds and Followers p. 80*
 
 ```statblock
 "name": "Evoker"

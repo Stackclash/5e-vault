@@ -11,7 +11,7 @@ aliases:
   - Vistana Assassin
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Vistana Assassin.md|Vistana Assassin]]
-*Source: Curse of Strahd p. 28*  
+*Source: Curse of Strahd p. 28*
 
 ```statblock
 "name": "Vistana Assassin"

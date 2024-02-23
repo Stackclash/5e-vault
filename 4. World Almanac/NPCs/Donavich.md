@@ -3,6 +3,7 @@ obsidianUIMode: preview
 statblock: inline
 location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
 condition: healthy
+image: 4. World Almanac/NPCs/img/donavich.webp
 relationships:
   - Doru|son
 tags: null
@@ -50,7 +51,7 @@ dislikes: 'Darkness, Strahd’s influence, seeing his parishioners suffer'
 > **Current Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 # **`=this.file.name`**
-*Source: Curse of Strahd p. 46* 
+*Source: Curse of Strahd p. 46*
 
 TBD
 

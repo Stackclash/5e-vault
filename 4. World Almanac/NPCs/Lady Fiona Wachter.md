@@ -3,19 +3,21 @@ obsidianUIMode: preview
 statblock: inline
 location: '[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]'
 condition: healthy
+image: null
 relationships:
   - Nikolai Wachter|son
   - Stella Wachter|daughter
 tags: null
-aliases: null
+aliases:
+  - Lady Fiona Wachter
 pronounced: null
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: female
 age: null
 alignment: Lawful Evil
 occupation: []
-groups: null
-religions: null
+groups: []
+religions: []
 personality: null
 ideal: null
 bond: null
@@ -49,7 +51,7 @@ dislikes: null
 > **Current Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 # **`=this.file.name`**
-*Source: Curse of Strahd p. 110* 
+*Source: Curse of Strahd p. 110*
 
 TBD
 

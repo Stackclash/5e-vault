@@ -15,7 +15,7 @@ aliases:
   - Giant Eagle
 ---
 # [[5. Mechanics\Bestiary\Beast\Giant Eagle.md|Giant Eagle]]
-*Source: Monster Manual p. 324. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 324. Available in the SRD and the Basic Rules.*
 
 A giant eagle is a noble creature that speaks its own language and understands speech in the Common tongue. A mated pair of giant eagles typically has up to four eggs or young in their nest (treat the young as normal eagles).
 

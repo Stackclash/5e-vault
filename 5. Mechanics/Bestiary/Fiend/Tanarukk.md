@@ -14,7 +14,7 @@ aliases:
   - Tanarukk
 ---
 # [[5. Mechanics\Bestiary\Fiend\Tanarukk.md|Tanarukk]]
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 240*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 240*
 
 > [!quote]- A quote from Tasha  
 > 

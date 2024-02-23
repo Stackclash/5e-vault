@@ -12,7 +12,7 @@ aliases:
   - Transmuter Wizard
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Transmuter Wizard.md|Transmuter Wizard]]
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 265*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 265*
 
 Transmuters are masters at transforming physical forms. They typically view magical transmutation as a path to riches, enlightenment, or apotheosis.
 

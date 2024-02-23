@@ -12,7 +12,7 @@ aliases:
   - Umber Hulk
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Umber Hulk.md|Umber Hulk]]
-*Source: Monster Manual p. 292*  
+*Source: Monster Manual p. 292*
 
 An abominable horror from deep beneath the earth, an umber hulk burrows into cave complexes, dungeons, or Underdark settlements in search of food. Those lucky enough to survive an umber hulk attack often remember precious little of the incident, thanks to the umber hulk's mind-scrambling gaze.
 

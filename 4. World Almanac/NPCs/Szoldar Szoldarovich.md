@@ -3,6 +3,7 @@ obsidianUIMode: preview
 statblock: inline
 location: null
 condition: healthy
+image: 4. World Almanac/NPCs/img/052-cos05-05.webp
 relationships: []
 tags: null
 aliases: []
@@ -47,7 +48,7 @@ dislikes: null
 > **Current Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 # **`=this.file.name`**
-*Source: Curse of Strahd p. 100* 
+*Source: Curse of Strahd p. 100*
 
 TBD
 

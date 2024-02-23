@@ -16,7 +16,7 @@ aliases:
   - Skulk
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Skulk.md|Skulk]]
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 219, Mordenkainen's Tome of Foes p. 227*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 219, Mordenkainen's Tome of Foes p. 227*
 
 > [!quote]- A quote from Mordenkainen  
 > 

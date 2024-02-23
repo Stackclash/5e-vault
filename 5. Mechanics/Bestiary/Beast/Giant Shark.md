@@ -12,7 +12,7 @@ aliases:
   - Giant Shark
 ---
 # [[5. Mechanics\Bestiary\Beast\Giant Shark.md|Giant Shark]]
-*Source: Monster Manual p. 328. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 328. Available in the SRD and the Basic Rules.*
 
 A giant shark is 30 feet long and normally found in deep oceans. Utterly fearless, it preys on anything that crosses its path, including whales and ships.
 

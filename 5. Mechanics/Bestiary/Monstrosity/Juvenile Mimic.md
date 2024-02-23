@@ -11,7 +11,7 @@ aliases:
   - Juvenile Mimic
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Juvenile Mimic.md|Juvenile Mimic]]
-*Source: Tasha's Cauldron of Everything p. 167*  
+*Source: Tasha's Cauldron of Everything p. 167*
 
 ```statblock
 "name": "Juvenile Mimic"

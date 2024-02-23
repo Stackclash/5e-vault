@@ -149,11 +149,21 @@ class CompendiumFile {
             fs.mkdirSync(path.parse(this.path).dir, {recursive: true})
 
             if (fs.existsSync(this.path) && !['.jpg', '.jpeg', '.png', '.webp'].includes(this.fileExtension)) {
-                const oldFrontMatter = matter.read(this.path).data
-                const newContent = matter(this.content).content
+                const finalFrontMatter = {},
+                oldFrontMatter = matter.read(this.path).data,
+                newFile = matter(this.content),
+                newContent = newFile.content,
+                newFrontMatter = newFile.data
 
-                // Test for differing frontMatter fields
-                this.content = matter.stringify(newContent, oldFrontMatter)
+                for (let prop of Object.keys(newFrontMatter)) {
+                    if (oldFrontMatter[prop]) {
+                        finalFrontMatter[prop] = oldFrontMatter[prop]
+                    } else {
+                        finalFrontMatter[prop] = newFrontMatter[prop]
+                    }
+                }
+
+                this.content = matter.stringify(newContent, finalFrontMatter)
             }
             fs.writeFileSync(this.path, this.content)
             fs.unlinkSync(this._oldPath)

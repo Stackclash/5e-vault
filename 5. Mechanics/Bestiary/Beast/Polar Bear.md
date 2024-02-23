@@ -13,7 +13,7 @@ aliases:
   - Polar Bear
 ---
 # [[5. Mechanics\Bestiary\Beast\Polar Bear.md|Polar Bear]]
-*Source: Monster Manual p. 334. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 334. Available in the SRD and the Basic Rules.*
 
 ```statblock
 "name": "Polar Bear"

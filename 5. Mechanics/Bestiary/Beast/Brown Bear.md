@@ -14,7 +14,7 @@ aliases:
   - Brown Bear
 ---
 # [[5. Mechanics\Bestiary\Beast\Brown Bear.md|Brown Bear]]
-*Source: Monster Manual p. 319. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 319. Available in the SRD and the Basic Rules.*
 
 ```statblock
 "name": "Brown Bear"

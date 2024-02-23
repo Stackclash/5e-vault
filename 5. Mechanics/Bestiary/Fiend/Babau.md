@@ -13,7 +13,7 @@ aliases:
   - Babau
 ---
 # [[5. Mechanics\Bestiary\Fiend\Babau.md|Babau]]
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 52*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 52*
 
 > [!quote]- A quote from Mordenkainen  
 > 

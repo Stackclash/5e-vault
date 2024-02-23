@@ -14,7 +14,7 @@ aliases:
   - Hobgoblin Devastator
 ---
 # [[5. Mechanics\Bestiary\Fey\Hobgoblin Devastator.md|Hobgoblin Devastator]]
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 153*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 153*
 
 Hobgoblins with a prodigious talent for magic sometimes undergo grueling training to become hobgoblin devastators. Devastators are spellcasters who call down fireballs and other destructive magic in the defense of the court they serve, whether that court is in the Feywild or the Material Plane. A hobgoblin devastator on the battlefield is a boon to their allies and a threat to every foe around them.
 

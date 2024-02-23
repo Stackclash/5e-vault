@@ -11,7 +11,7 @@ aliases:
   - Bat
 ---
 # [[5. Mechanics\Bestiary\Beast\Bat.md|Bat]]
-*Source: Monster Manual p. 318, Curse of Strahd. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 318, Curse of Strahd. Available in the SRD and the Basic Rules.*
 
 ```statblock
 "name": "Bat"

@@ -11,7 +11,7 @@ aliases:
   - Machine Lieutenant
 ---
 # [[5. Mechanics\Bestiary\Construct\Machine Lieutenant.md|Machine Lieutenant]]
-*Source: Strongholds and Followers p. 252*  
+*Source: Strongholds and Followers p. 252*
 
 ```statblock
 "name": "Machine Lieutenant"

@@ -11,7 +11,7 @@ aliases:
   - Marilith
 ---
 # [[5. Mechanics\Bestiary\Fiend\Marilith.md|Marilith]]
-*Source: Monster Manual p. 61, Tasha's Cauldron of Everything. Available in the SRD.*  
+*Source: Monster Manual p. 61, Tasha's Cauldron of Everything. Available in the SRD.*
 
 Terrible to behold, a marilith has the lower body of a great serpent and the upper torso of a humanoid female with six arms. Wielding a wicked blade in each of its six hands, a marilith is a devastating foe that few can match in battle.
 

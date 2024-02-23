@@ -11,7 +11,7 @@ aliases:
   - Seer
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Seer.md|Seer]]
-*Source: Strongholds and Followers p. 81*  
+*Source: Strongholds and Followers p. 81*
 
 ```statblock
 "name": "Seer"

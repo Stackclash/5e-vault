@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/cos
-aliases: ["Chapter 2: The Lands of Barovia"]
+  - compendium/src/5e/cos
+aliases:
+  - 'Chapter 2: The Lands of Barovia'
 ---
 # Chapter 2: The Lands of Barovia
 *Source: Curse of Strahd, p. 23* 

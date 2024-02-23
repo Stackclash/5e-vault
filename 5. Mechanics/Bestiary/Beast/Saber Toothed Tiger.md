@@ -13,7 +13,7 @@ aliases:
   - Saber-Toothed Tiger
 ---
 # [[5. Mechanics\Bestiary\Beast\Saber Toothed Tiger.md|Saber-Toothed Tiger]]
-*Source: Monster Manual p. 336, Curse of Strahd. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 336, Curse of Strahd. Available in the SRD and the Basic Rules.*
 
 ```statblock
 "name": "Saber Toothed Tiger"

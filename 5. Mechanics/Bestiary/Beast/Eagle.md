@@ -15,7 +15,7 @@ aliases:
   - Eagle
 ---
 # [[5. Mechanics\Bestiary\Beast\Eagle.md|Eagle]]
-*Source: Monster Manual p. 322. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 322. Available in the SRD and the Basic Rules.*
 
 ```statblock
 "name": "Eagle"

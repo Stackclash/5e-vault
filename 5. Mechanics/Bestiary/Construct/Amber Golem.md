@@ -11,7 +11,7 @@ aliases:
   - Amber Golem
 ---
 # [[5. Mechanics\Bestiary\Construct\Amber Golem.md|Amber Golem]]
-*Source: Curse of Strahd p. 186*  
+*Source: Curse of Strahd p. 186*
 
 ```statblock
 "name": "Amber Golem"

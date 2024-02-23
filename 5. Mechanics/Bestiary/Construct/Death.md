@@ -11,7 +11,7 @@ aliases:
   - Death
 ---
 # [[5. Mechanics\Bestiary\Construct\Death.md|Death]]
-*Source: Strongholds and Followers p. 228*  
+*Source: Strongholds and Followers p. 228*
 
 > [!quote]-  
 > 

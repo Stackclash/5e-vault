@@ -11,7 +11,7 @@ aliases:
   - Vistana Commoner
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Vistana Commoner.md|Vistana Commoner]]
-*Source: Curse of Strahd p. 28*  
+*Source: Curse of Strahd p. 28*
 
 ```statblock
 "name": "Vistana Commoner"

@@ -12,7 +12,7 @@ aliases:
   - Quipper
 ---
 # [[5. Mechanics\Bestiary\Beast\Quipper.md|Quipper]]
-*Source: Monster Manual p. 335. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 335. Available in the SRD and the Basic Rules.*
 
 A quipper is a carnivorous fish with sharp teeth.
 

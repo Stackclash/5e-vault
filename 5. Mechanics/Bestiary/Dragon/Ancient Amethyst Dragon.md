@@ -11,7 +11,7 @@ aliases:
   - Ancient Amethyst Dragon
 ---
 # [[5. Mechanics\Bestiary\Dragon\Ancient Amethyst Dragon.md|Ancient Amethyst Dragon]]
-*Source: Strongholds and Followers p. 221*  
+*Source: Strongholds and Followers p. 221*
 
 The renegades of the jeweled dragons, the amethyst dragons seek new knowledge and so manipulate mortals to do dangerous, even deadly things in order to push the boundary of the known.
 

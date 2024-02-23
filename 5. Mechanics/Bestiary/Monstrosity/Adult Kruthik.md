@@ -14,7 +14,7 @@ aliases:
   - Adult Kruthik
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Adult Kruthik.md|Adult Kruthik]]
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 169, Mordenkainen's Tome of Foes p. 212*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 169, Mordenkainen's Tome of Foes p. 212*
 
 It takes six months of steady eating for a [[5. Mechanics/Bestiary/Monstrosity/Young Kruthik.md|young kruthik]] to reach adult size. The natural life span of an adult kruthik is roughly seven years.
 

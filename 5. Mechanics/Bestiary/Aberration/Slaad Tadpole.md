@@ -11,7 +11,7 @@ aliases:
   - Slaad Tadpole
 ---
 # [[5. Mechanics\Bestiary\Aberration\Slaad Tadpole.md|Slaad Tadpole]]
-*Source: Monster Manual p. 276*  
+*Source: Monster Manual p. 276*
 
 ## Slaadi
 

@@ -14,7 +14,7 @@ aliases:
   - Wolf
 ---
 # [[5. Mechanics\Bestiary\Beast\Wolf.md|Wolf]]
-*Source: Monster Manual p. 341, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 341, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*
 
 ```statblock
 "name": "Wolf"

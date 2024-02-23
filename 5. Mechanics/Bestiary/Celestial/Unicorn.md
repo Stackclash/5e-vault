@@ -12,7 +12,7 @@ aliases:
   - Unicorn
 ---
 # [[5. Mechanics\Bestiary\Celestial\Unicorn.md|Unicorn]]
-*Source: Monster Manual p. 294, Tasha's Cauldron of Everything. Available in the SRD.*  
+*Source: Monster Manual p. 294, Tasha's Cauldron of Everything. Available in the SRD.*
 
 Unicorns dwell in enchanted forests. Unrelated to the horses it resembles, a unicorn is a celestial creature that wanders sylvan realms, its white form glimmering like starlight.
 

@@ -13,7 +13,7 @@ aliases:
   - Adult Gold Dragon
 ---
 # [[5. Mechanics\Bestiary\Dragon\Adult Gold Dragon.md|Adult Gold Dragon]]
-*Source: Monster Manual p. 114. Available in the SRD.*  
+*Source: Monster Manual p. 114. Available in the SRD.*
 
 The most powerful and majestic of the metallic dragons, gold dragons are dedicated foes of evil.
 

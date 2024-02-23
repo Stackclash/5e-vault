@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/cos
-aliases: ["Appendix E: The Tarokka Deck"]
+  - compendium/src/5e/cos
+aliases:
+  - 'Appendix E: The Tarokka Deck'
 ---
 # Appendix E: The Tarokka Deck
 *Source: Curse of Strahd, p. 243* 

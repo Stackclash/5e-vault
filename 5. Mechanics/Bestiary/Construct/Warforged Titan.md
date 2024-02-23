@@ -11,7 +11,7 @@ aliases:
   - Warforged Titan
 ---
 # [[5. Mechanics\Bestiary\Construct\Warforged Titan.md|Warforged Titan]]
-*Source: Eberron: Rising from the Last War p. 315*  
+*Source: Eberron: Rising from the Last War p. 315*
 
 Warforged titans are hulking constructs built to wreak paths of destruction through enemy armies. Some of the most feared combatants of the Last War, warforged titans are barely sentient, with just enough intelligence to follow commands.
 

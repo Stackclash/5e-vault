@@ -20,7 +20,7 @@ aliases:
   - Tribal Warrior
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Tribal Warrior.md|Tribal Warrior]]
-*Source: Monster Manual p. 350. Available in the SRD.*  
+*Source: Monster Manual p. 350. Available in the SRD.*
 
 Tribal warriors live beyond civilization, most often subsisting on fishing and hunting. Each tribe acts in accordance with the wishes of its chief, who is the greatest or oldest warrior of the tribe or a tribe member blessed by the gods.
 

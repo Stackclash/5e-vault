@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/saf
-aliases: ["The Keep"]
+  - compendium/src/5e/saf
+aliases:
+  - The Keep
 ---
 # The Keep
 *Source: Strongholds and Followers* 

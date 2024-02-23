@@ -3,6 +3,7 @@ obsidianUIMode: preview
 statblock: inline
 location: null
 condition: healthy
+image: 4. World Almanac/NPCs/img/153-636988936829621698.webp
 relationships:
   - Anastrasya Karelova|cousin
 tags: null
@@ -48,7 +49,7 @@ dislikes: null
 > **Current Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 # **`=this.file.name`**
-*Source: Curse of Strahd p. 240* 
+*Source: Curse of Strahd p. 240*
 
 With his mind sharp and his heart dark, Strahd von Zarovich is a formidable foe. Courage and lives beyond measure have been lost to him. Reread chapter 1, "Into the Mists," to understand his personality and goals.
 

@@ -3,6 +3,7 @@ obsidianUIMode: preview
 statblock: inline
 location: null
 condition: healthy
+image: 4. World Almanac/NPCs/img/005-cos02-02.webp
 relationships:
   - Baron Vargas Vallakovich|father
 tags: null
@@ -48,7 +49,7 @@ dislikes: null
 > **Current Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 # **`=this.file.name`**
-*Source: Curse of Strahd p. 105* 
+*Source: Curse of Strahd p. 105*
 
 TBD
 

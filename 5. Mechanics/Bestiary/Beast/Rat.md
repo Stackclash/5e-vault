@@ -13,7 +13,7 @@ aliases:
   - Rat
 ---
 # [[5. Mechanics\Bestiary\Beast\Rat.md|Rat]]
-*Source: Monster Manual p. 335. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 335. Available in the SRD and the Basic Rules.*
 
 ```statblock
 "name": "Rat"

@@ -14,7 +14,7 @@ aliases:
   - Yuan-ti Broodguard
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Yuan Ti Broodguard.md|Yuan-ti Broodguard]]
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 273*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 273*
 
 > [!quote]- A quote from Mordekainen  
 > 

@@ -11,7 +11,7 @@ aliases:
   - Reaver
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Reaver.md|Reaver]]
-*Source: Strongholds and Followers p. 72*  
+*Source: Strongholds and Followers p. 72*
 
 ```statblock
 "name": "Reaver"

@@ -11,7 +11,7 @@ aliases:
   - Shadow Spirit (9th-level Spell)
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Shadow Spirit 9th Level Spell.md|Shadow Spirit (9th-level Spell)]]
-*Source: Tasha's Cauldron of Everything p. 114*  
+*Source: Tasha's Cauldron of Everything p. 114*
 
 ```statblock
 "name": "Shadow Spirit 9th Level Spell"

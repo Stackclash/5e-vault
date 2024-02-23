@@ -12,7 +12,7 @@ aliases:
   - Piercer
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Piercer.md|Piercer]]
-*Source: Monster Manual p. 252*  
+*Source: Monster Manual p. 252*
 
 Clinging to the ceilings of caverns and large subterranean passages, piercers blend in perfectly with natural rock, dropping in silence to impale unsuspecting foes on the ground below.
 

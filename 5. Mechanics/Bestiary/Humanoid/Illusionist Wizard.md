@@ -12,7 +12,7 @@ aliases:
   - Illusionist Wizard
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Illusionist Wizard.md|Illusionist Wizard]]
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 263*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 263*
 
 Illusionists twist light, sound, and even thought to create illusory effects. Some illusionists are delightful entertainers, while others are devilish tricksters.
 

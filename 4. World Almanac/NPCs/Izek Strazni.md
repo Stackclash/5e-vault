@@ -3,18 +3,20 @@ obsidianUIMode: preview
 statblock: inline
 location: null
 condition: healthy
+image: 4. World Almanac/NPCs/img/izek-strazni.webp
 relationships:
   - Ireena Kolyana|sister
 tags: null
-aliases: null
+aliases:
+  - Izek Strazni
 pronounced: null
 race: null
 gender: null
 age: null
 alignment: Neutral Evil
 occupation: []
-groups: null
-religions: null
+groups: []
+religions: []
 personality: null
 ideal: Fear is a powerful weapon. I use it to get what I want.
 bond: >-
@@ -22,7 +24,7 @@ bond: >-
   owe him my life, but he isn't family.
 flaw: 'I would do anything, kill anything, to find my sister.'
 goals: null
-likes: ''
+likes: null
 dislikes: null
 ---
 
@@ -50,7 +52,7 @@ dislikes: null
 > **Current Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 # **`=this.file.name`**
-*Source: Curse of Strahd p. 232* 
+*Source: Curse of Strahd p. 232*
 
 Izek and his sister were born in Vallaki. One morning, their father and their uncle took them fishing on Lake Zarovich. On the way back to town, a dire wolf attacked Izek and bit off his right arm. His father carried Izek back to town while his uncle distracted the beast. His sister ran and hid in the woods and was never seen again.
 

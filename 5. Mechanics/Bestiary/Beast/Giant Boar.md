@@ -14,7 +14,7 @@ aliases:
   - Giant Boar
 ---
 # [[5. Mechanics\Bestiary\Beast\Giant Boar.md|Giant Boar]]
-*Source: Monster Manual p. 323. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 323. Available in the SRD and the Basic Rules.*
 
 ```statblock
 "name": "Giant Boar"

@@ -13,7 +13,7 @@ aliases:
   - Cranium Rat
 ---
 # [[5. Mechanics\Bestiary\Aberration\Cranium Rat.md|Cranium Rat]]
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 83*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 83*
 
 ## Cranium Rat
 

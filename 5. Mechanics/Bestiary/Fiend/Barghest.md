@@ -16,7 +16,7 @@ aliases:
   - Barghest
 ---
 # [[5. Mechanics\Bestiary\Fiend\Barghest.md|Barghest]]
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 60*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 60*
 
 Long ago, the god Maglubiyet—conqueror and then lord of early goblinoids—bargained with the General of Gehenna for aid. The General provided yugoloths, which then died in service to Maglubiyet. Yet when the time came to honor his part of the compact, Maglubiyet reneged on the deal. In vengeance, the General of Gehenna created the soul-devouring barghests to devour goblinoid souls.
 

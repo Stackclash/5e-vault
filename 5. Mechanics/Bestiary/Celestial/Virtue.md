@@ -11,7 +11,7 @@ aliases:
   - Virtue
 ---
 # [[5. Mechanics\Bestiary\Celestial\Virtue.md|Virtue]]
-*Source: Strongholds and Followers p. 159*  
+*Source: Strongholds and Followers p. 159*
 
 A collection of mouths and hands that arrives and sings power, which is a totally normal thing to do. The Virtue is the Word of the Gods, and that word is death to evil. These songs are not spells, so magic resistance does not affect them. They are divine words spoken by a creature sent by the gods.
 

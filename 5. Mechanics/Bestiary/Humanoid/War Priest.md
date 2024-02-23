@@ -13,7 +13,7 @@ aliases:
   - War Priest
 ---
 # [[5. Mechanics\Bestiary\Humanoid\War Priest.md|War Priest]]
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 254*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 254*
 
 War priests worship deities of war, protection, and strategy. They plan tactics, lead soldiers into battle, confront enemy spellcasters, and tend to casualties. A war priest might command an army or serve as the right hand of a [[5. Mechanics/Bestiary/Humanoid/Warlord.md|warlord]] (appears in "this book") on the battlefield.
 

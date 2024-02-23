@@ -11,7 +11,7 @@ aliases:
   - Larva (DMG)
 ---
 # [[5. Mechanics\Bestiary\Fiend\Larva.md|Larva (DMG)]]
-*Source: Dungeon Master's Guide p. 63*  
+*Source: Dungeon Master's Guide p. 63*
 
 ```statblock
 "name": "Larva"

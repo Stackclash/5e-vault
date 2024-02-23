@@ -12,7 +12,7 @@ aliases:
   - Tyrannosaurus Rex
 ---
 # [[5. Mechanics\Bestiary\Beast\Tyrannosaurus Rex.md|Tyrannosaurus Rex]]
-*Source: Monster Manual p. 80. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 80. Available in the SRD and the Basic Rules.*
 
 This enormous predator terrorizes all other creatures in its territory. Despite its size and weight, a tyrannosaurus is a swift runner. It chases anything it thinks it can eat, and there are few creatures it won't try to devour whole. While prowling for substantial prey, a tyrannosaurus subsists on carrion, and on any smaller creatures that try to dart in to steal its meal.
 

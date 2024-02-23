@@ -13,7 +13,7 @@ aliases:
   - Air Elemental
 ---
 # [[5. Mechanics\Bestiary\Elemental\Air Elemental.md|Air Elemental]]
-*Source: Monster Manual p. 124, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 124, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*
 
 An air elemental is a funneling cloud of whirling air with a vague semblance of a face. Although it likes to race across the ground, picking up dust and debris as it goes, it can also fly and attack from above.
 

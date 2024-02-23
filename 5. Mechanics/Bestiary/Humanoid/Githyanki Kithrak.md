@@ -14,7 +14,7 @@ aliases:
   - Githyanki Kith'rak
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Githyanki Kithrak.md|Githyanki Kith'rak]]
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 140, Mordenkainen's Tome of Foes p. 205*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 140, Mordenkainen's Tome of Foes p. 205*
 
 Militarized githyanki cultures assign ranks and responsibilities to citizens. Groups of ten warriors follow the commands of sarths ([[5. Mechanics/Bestiary/Humanoid/Githyanki Warrior.md|githyanki warriors]]), while ten sarths obey the commands of a mighty kith'rak. These champions undergo torturous training and psionic testing until they can command the respect of their underlings.
 

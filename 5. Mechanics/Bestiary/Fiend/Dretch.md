@@ -11,7 +11,7 @@ aliases:
   - Dretch
 ---
 # [[5. Mechanics\Bestiary\Fiend\Dretch.md|Dretch]]
-*Source: Monster Manual p. 57, Curse of Strahd. Available in the SRD.*  
+*Source: Monster Manual p. 57, Curse of Strahd. Available in the SRD.*
 
 Dretches are among the weakest of demons-repulsive, self-loathing creatures doomed to spend eternity in a state of perpetual discontent. Their low intelligence makes dretches unsuitable for anything but the simplest tasks. However, what they lack in potential, they make up for in sheer malice. Dretches mill about in mobs, voicing their displeasure as an unsettling din of hoots, snarls, and grunts.
 

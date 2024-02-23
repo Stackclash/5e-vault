@@ -11,7 +11,7 @@ aliases:
   - Thaumaturgist
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Thaumaturgist.md|Thaumaturgist]]
-*Source: Strongholds and Followers p. 79*  
+*Source: Strongholds and Followers p. 79*
 
 ```statblock
 "name": "Thaumaturgist"

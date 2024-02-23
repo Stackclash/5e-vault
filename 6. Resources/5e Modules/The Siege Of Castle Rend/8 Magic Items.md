@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/saf
-aliases: ["Magic Items"]
+  - compendium/src/5e/saf
+aliases:
+  - Magic Items
 ---
 # Magic Items
 *Source: The Siege of Castle Rend* 

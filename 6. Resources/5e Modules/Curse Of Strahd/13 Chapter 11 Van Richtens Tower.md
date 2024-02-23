@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/cos
-aliases: ["Chapter 11: Van Richten's Tower"]
+  - compendium/src/5e/cos
+aliases:
+  - 'Chapter 11: Van Richten''s Tower'
 ---
 # Chapter 11: Van Richten's Tower
 *Source: Curse of Strahd, p. 167* 

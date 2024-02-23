@@ -3,6 +3,7 @@ obsidianUIMode: preview
 statblock: inline
 location: null
 condition: healthy
+image: 4. World Almanac/NPCs/img/henrik-van-der-voort.webp
 relationships: []
 tags: null
 aliases: []
@@ -47,7 +48,7 @@ dislikes: null
 > **Current Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 # **`=this.file.name`**
-*Source: Curse of Strahd p. 116* 
+*Source: Curse of Strahd p. 116*
 
 TBD
 

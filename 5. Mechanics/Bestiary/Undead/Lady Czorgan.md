@@ -11,7 +11,7 @@ aliases:
   - Lady Czorgan
 ---
 # [[5. Mechanics\Bestiary\Undead\Lady Czorgan.md|Lady Czorgan]]
-*Source: Strongholds and Followers p. 258*  
+*Source: Strongholds and Followers p. 258*
 
 ```statblock
 "name": "Lady Czorgan"

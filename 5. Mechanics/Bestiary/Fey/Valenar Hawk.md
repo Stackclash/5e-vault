@@ -11,7 +11,7 @@ aliases:
   - Valenar Hawk
 ---
 # [[5. Mechanics\Bestiary\Fey\Valenar Hawk.md|Valenar Hawk]]
-*Source: Eberron: Rising from the Last War p. 312*  
+*Source: Eberron: Rising from the Last War p. 312*
 
 The elves of Valenar say that when their ancestors fought the giants of Xen'drik, elf druids took the forms of animals on the battlefield. The cruel and mighty Emperor Cul'sir of the giants laid a curse upon the druids and trapped them in the forms of animals. Just as the ancestors of the Valenar guide their warriors in battle, the spirits of these druids can awaken power in an animal to create a companion worthy of a champion.
 

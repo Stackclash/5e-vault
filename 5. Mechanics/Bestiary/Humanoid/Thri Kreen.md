@@ -13,7 +13,7 @@ aliases:
   - Thri-kreen
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Thri Kreen.md|Thri-kreen]]
-*Source: Monster Manual p. 288*  
+*Source: Monster Manual p. 288*
 
 Thri-kreen wander the deserts and savannas of the world, avoiding all other races.
 

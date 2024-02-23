@@ -11,7 +11,7 @@ aliases:
   - Abyssal Wretch
 ---
 # [[5. Mechanics\Bestiary\Fiend\Abyssal Wretch.md|Abyssal Wretch]]
-*Source: Mordenkainen's Tome of Foes p. 136*  
+*Source: Mordenkainen's Tome of Foes p. 136*
 
 ```statblock
 "name": "Abyssal Wretch"

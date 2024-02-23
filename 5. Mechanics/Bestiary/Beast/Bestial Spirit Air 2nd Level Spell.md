@@ -11,7 +11,7 @@ aliases:
   - 'Bestial Spirit (Air, 2nd-Level Spell)'
 ---
 # [[5. Mechanics\Bestiary\Beast\Bestial Spirit Air 2nd Level Spell.md|Bestial Spirit (Air, 2nd-Level Spell)]]
-*Source: Tasha's Cauldron of Everything p. 109*  
+*Source: Tasha's Cauldron of Everything p. 109*
 
 ```statblock
 "name": "Bestial Spirit (Air, 2nd-Level Spell) (TCE)"

@@ -14,7 +14,7 @@ aliases:
   - Gorgon
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Gorgon.md|Gorgon]]
-*Source: Monster Manual p. 171. Available in the SRD.*  
+*Source: Monster Manual p. 171. Available in the SRD.*
 
 Few creatures that encounter a gorgon live to tell about it. Its body is covered in iron plates, and its nostrils fume with green vapor.
 

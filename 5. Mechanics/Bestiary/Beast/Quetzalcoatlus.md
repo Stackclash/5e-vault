@@ -14,7 +14,7 @@ aliases:
   - Quetzalcoatlus
 ---
 # [[5. Mechanics\Bestiary\Beast\Quetzalcoatlus.md|Quetzalcoatlus]]
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 96*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 96*
 
 This giant relative of the pteranodon has a wingspan exceeding 30 feet. Although it can walk like a quadruped, it is more comfortable in the air.
 

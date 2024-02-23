@@ -11,7 +11,7 @@ aliases:
   - Gold Dragon Wyrmling
 ---
 # [[5. Mechanics\Bestiary\Dragon\Gold Dragon Wyrmling.md|Gold Dragon Wyrmling]]
-*Source: Monster Manual p. 115. Available in the SRD.*  
+*Source: Monster Manual p. 115. Available in the SRD.*
 
 The most powerful and majestic of the metallic dragons, gold dragons are dedicated foes of evil.
 

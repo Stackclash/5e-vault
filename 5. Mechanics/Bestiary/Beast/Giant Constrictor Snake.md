@@ -16,7 +16,7 @@ aliases:
   - Giant Constrictor Snake
 ---
 # [[5. Mechanics\Bestiary\Beast\Giant Constrictor Snake.md|Giant Constrictor Snake]]
-*Source: Monster Manual p. 324. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 324. Available in the SRD and the Basic Rules.*
 
 ```statblock
 "name": "Giant Constrictor Snake"

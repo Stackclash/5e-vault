@@ -12,7 +12,7 @@ aliases:
   - Swarm of Quippers
 ---
 # [[5. Mechanics\Bestiary\Beast\Swarm Of Quippers.md|Swarm of Quippers]]
-*Source: Monster Manual p. 338. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 338. Available in the SRD and the Basic Rules.*
 
 > [!note] The Nature of Swarms
 > 

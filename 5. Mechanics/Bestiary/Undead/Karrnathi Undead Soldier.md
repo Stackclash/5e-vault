@@ -11,7 +11,7 @@ aliases:
   - Karrnathi Undead Soldier
 ---
 # [[5. Mechanics\Bestiary\Undead\Karrnathi Undead Soldier.md|Karrnathi Undead Soldier]]
-*Source: Eberron: Rising from the Last War p. 295*  
+*Source: Eberron: Rising from the Last War p. 295*
 
 Undead soldiers form the elite core of the army of Karrnath. Fearless and tireless, they are a terrifying sight on the battlefield. With the end of the Last War, most Karrnathi undead have been sealed in vaults below the city of Atur. However, the Karrnathi army keeps numerous undead in its service, while others have been commandeered by the malevolent Order of the Emerald Claw.
 

@@ -11,7 +11,7 @@ aliases:
   - White Tusk Orc
 ---
 # [[5. Mechanics\Bestiary\Humanoid\White Tusk Orc.md|White Tusk Orc]]
-*Source: Strongholds and Followers p. 137*  
+*Source: Strongholds and Followers p. 137*
 
 The rank and file of the White Tusk clan pride themselves on being larger and, thanks to Bonebreaker Dorokor's leadership since the investiture of Castle Rend, more devastating in combat than normal orcs.
 

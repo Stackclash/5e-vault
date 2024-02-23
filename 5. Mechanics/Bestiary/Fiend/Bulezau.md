@@ -11,7 +11,7 @@ aliases:
   - Bulezau
 ---
 # [[5. Mechanics\Bestiary\Fiend\Bulezau.md|Bulezau]]
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 67, Mordenkainen's Tome of Foes p. 131*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 67, Mordenkainen's Tome of Foes p. 131*
 
 > [!quote]- A quote from Tasha  
 > 

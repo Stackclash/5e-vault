@@ -11,7 +11,7 @@ aliases:
   - Necromancer
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Necromancer.md|Necromancer]]
-*Source: Strongholds and Followers p. 81*  
+*Source: Strongholds and Followers p. 81*
 
 ```statblock
 "name": "Necromancer"

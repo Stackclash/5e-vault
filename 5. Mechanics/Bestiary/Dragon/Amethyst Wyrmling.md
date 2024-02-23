@@ -11,7 +11,7 @@ aliases:
   - Amethyst Wyrmling
 ---
 # [[5. Mechanics\Bestiary\Dragon\Amethyst Wyrmling.md|Amethyst Wyrmling]]
-*Source: Strongholds and Followers p. 223*  
+*Source: Strongholds and Followers p. 223*
 
 The renegades of the jeweled dragons, the amethyst dragons seek new knowledge and so manipulate mortals to do dangerous, even deadly things in order to push the boundary of the known.
 

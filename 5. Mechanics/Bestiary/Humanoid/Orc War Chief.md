@@ -18,7 +18,7 @@ aliases:
   - Orc War Chief
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Orc War Chief.md|Orc War Chief]]
-*Source: Monster Manual p. 246*  
+*Source: Monster Manual p. 246*
 
 Orcs are savage raiders and pillagers with stooped postures, low foreheads, and piggish faces with prominent lower canines that resemble tusks.
 

@@ -11,7 +11,7 @@ aliases:
   - Quasit
 ---
 # [[5. Mechanics\Bestiary\Fiend\Quasit.md|Quasit]]
-*Source: Monster Manual p. 63, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD.*  
+*Source: Monster Manual p. 63, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD.*
 
 Quasits infest the Lower Planes. Physically weak, they keep to the shadows to plot mischief and wickedness. More powerful demons use quasits as spies and messengers when they aren't devouring them or pulling them apart to pass the time.
 

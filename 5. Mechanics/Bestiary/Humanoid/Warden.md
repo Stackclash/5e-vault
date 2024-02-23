@@ -11,7 +11,7 @@ aliases:
   - Warden
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Warden.md|Warden]]
-*Source: Strongholds and Followers p. 74*  
+*Source: Strongholds and Followers p. 74*
 
 ```statblock
 "name": "Warden"

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/saf
-aliases: ["Stats for NPCs"]
+  - compendium/src/5e/saf
+aliases:
+  - Stats for NPCs
 ---
 # Stats for NPCs
 *Source: The Siege of Castle Rend, p. 137* 

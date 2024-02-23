@@ -3,20 +3,22 @@ obsidianUIMode: preview
 statblock: inline
 location: null
 condition: healthy
+image: 4. World Almanac/NPCs/img/danika-dorakova.webp
 relationships:
   - Urwin Martikov|husband
   - Brom Martikov|son
   - Bray Martikov|son
 tags: null
-aliases: null
+aliases:
+  - Danika Dorakova
 pronounced: null
 race: null
 gender: null
 age: null
 alignment: Lawful Good
 occupation: []
-groups: null
-religions: null
+groups: []
+religions: []
 personality: null
 ideal: null
 bond: null
@@ -50,7 +52,7 @@ dislikes: null
 > **Current Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 # **`=this.file.name`**
-*Source: Curse of Strahd p. 98* 
+*Source: Curse of Strahd p. 98*
 
 TBD
 

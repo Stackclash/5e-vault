@@ -13,7 +13,7 @@ aliases:
   - Young Gold Dragon
 ---
 # [[5. Mechanics\Bestiary\Dragon\Young Gold Dragon.md|Young Gold Dragon]]
-*Source: Monster Manual p. 115. Available in the SRD.*  
+*Source: Monster Manual p. 115. Available in the SRD.*
 
 The most powerful and majestic of the metallic dragons, gold dragons are dedicated foes of evil.
 

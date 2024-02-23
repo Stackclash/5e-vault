@@ -11,7 +11,7 @@ aliases:
   - Tsucora Quori
 ---
 # [[5. Mechanics\Bestiary\Aberration\Tsucora Quori.md|Tsucora Quori]]
-*Source: Eberron: Rising from the Last War p. 307*  
+*Source: Eberron: Rising from the Last War p. 307*
 
 Tsucora quori are nightmarish creatures. Their headless torsos are covered with eyes and twitching limbs, including two massive arms that end in powerful pincers, and a serpentine tail tipped with a vicious stinger. They are cruel and calculating, enjoying the power they wield over others as they concoct elaborate schemes to advance their own positions and discredit their rivals.
 

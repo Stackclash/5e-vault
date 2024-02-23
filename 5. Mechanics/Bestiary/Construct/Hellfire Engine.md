@@ -11,7 +11,7 @@ aliases:
   - Hellfire Engine
 ---
 # [[5. Mechanics\Bestiary\Construct\Hellfire Engine.md|Hellfire Engine]]
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 152, Mordenkainen's Tome of Foes p. 165*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 152, Mordenkainen's Tome of Foes p. 165*
 
 Hellfire engines are semiautonomous bringers of destruction. Amnizus (in this book) and other devilish generals hold them in reserve until they are needed to repel an incursion by demons or crusading mortals, but occasionally one of these magical-mechanical hybrids gets loose, driven berserk by its need to destroy.
 

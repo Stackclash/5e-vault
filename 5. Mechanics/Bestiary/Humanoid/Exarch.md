@@ -11,7 +11,7 @@ aliases:
   - Exarch
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Exarch.md|Exarch]]
-*Source: Strongholds and Followers p. 80*  
+*Source: Strongholds and Followers p. 80*
 
 ```statblock
 "name": "Exarch"

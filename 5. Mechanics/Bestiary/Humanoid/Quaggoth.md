@@ -12,7 +12,7 @@ aliases:
   - Quaggoth
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Quaggoth.md|Quaggoth]]
-*Source: Monster Manual p. 256*  
+*Source: Monster Manual p. 256*
 
 Savage and territorial, quaggoths climb the chasms of the Underdark. They maul their foes in a frenzy, becoming even more murderous in the face of death.
 

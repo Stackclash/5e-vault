@@ -11,7 +11,7 @@ aliases:
   - Barovian Scout
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Barovian Scout.md|Barovian Scout]]
-*Source: Curse of Strahd p. 29*  
+*Source: Curse of Strahd p. 29*
 
 ```statblock
 "name": "Barovian Scout"

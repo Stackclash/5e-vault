@@ -15,7 +15,7 @@ aliases:
   - Giant Hyena
 ---
 # [[5. Mechanics\Bestiary\Beast\Giant Hyena.md|Giant Hyena]]
-*Source: Monster Manual p. 326. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 326. Available in the SRD and the Basic Rules.*
 
 ```statblock
 "name": "Giant Hyena"

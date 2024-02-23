@@ -12,7 +12,7 @@ aliases:
   - Changeling
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Changeling.md|Changeling]]
-*Source: Eberron: Rising from the Last War p. 317*  
+*Source: Eberron: Rising from the Last War p. 317*
 
 Changelings are a humanoid race of shapechangers who conceal their true identities behind false faces. Their gifts of mimicry allow them to appear as members of any humanoid culture, playing the part of a dwarf one day and a dragonborn the next. Although changelings can adopt any guise, most rely on a few established personas, each with a developed history and a network of friends and acquaintances.
 

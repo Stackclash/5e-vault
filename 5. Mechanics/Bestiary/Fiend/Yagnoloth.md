@@ -12,7 +12,7 @@ aliases:
   - Yagnoloth
 ---
 # [[5. Mechanics\Bestiary\Fiend\Yagnoloth.md|Yagnoloth]]
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 268, Mordenkainen's Tome of Foes p. 252*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 268, Mordenkainen's Tome of Foes p. 252*
 
 Anyone who would contract yugoloths for a task usually ends up dealing with a yagnoloth. Cunning negotiators, these strange Fiends handle the writing of contracts for their fellow yugoloths. Once a yagnoloth is hired, it communicates its employer's desires to the yugoloths it commands.
 

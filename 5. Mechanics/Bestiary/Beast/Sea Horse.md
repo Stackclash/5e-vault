@@ -11,7 +11,7 @@ aliases:
   - Sea Horse
 ---
 # [[5. Mechanics\Bestiary\Beast\Sea Horse.md|Sea Horse]]
-*Source: Monster Manual p. 337. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 337. Available in the SRD and the Basic Rules.*
 
 ```statblock
 "name": "Sea Horse"

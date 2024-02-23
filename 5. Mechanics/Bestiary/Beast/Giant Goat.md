@@ -14,7 +14,7 @@ aliases:
   - Giant Goat
 ---
 # [[5. Mechanics\Bestiary\Beast\Giant Goat.md|Giant Goat]]
-*Source: Monster Manual p. 326, Curse of Strahd. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 326, Curse of Strahd. Available in the SRD and the Basic Rules.*
 
 ```statblock
 "name": "Giant Goat"

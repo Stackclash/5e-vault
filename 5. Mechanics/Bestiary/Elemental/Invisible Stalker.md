@@ -12,7 +12,7 @@ aliases:
   - Invisible Stalker
 ---
 # [[5. Mechanics\Bestiary\Elemental\Invisible Stalker.md|Invisible Stalker]]
-*Source: Monster Manual p. 192, Curse of Strahd. Available in the SRD.*  
+*Source: Monster Manual p. 192, Curse of Strahd. Available in the SRD.*
 
 An invisible stalker is an air elemental that has been summoned from its native plane and transformed by powerful magic. Its sole purpose is to hunt down creatures and retrieve objects for its summoner. When it is defeated or the magic that binds it expires, an invisible stalker vanishes in a gust of wind.
 

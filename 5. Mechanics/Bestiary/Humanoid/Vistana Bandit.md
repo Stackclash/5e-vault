@@ -11,7 +11,7 @@ aliases:
   - Vistana Bandit
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Vistana Bandit.md|Vistana Bandit]]
-*Source: Curse of Strahd p. 28*  
+*Source: Curse of Strahd p. 28*
 
 ```statblock
 "name": "Vistana Bandit"

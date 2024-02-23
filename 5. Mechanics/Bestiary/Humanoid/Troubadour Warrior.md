@@ -11,7 +11,7 @@ aliases:
   - Troubadour-warrior
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Troubadour Warrior.md|Troubadour-warrior]]
-*Source: Strongholds and Followers p. 73*  
+*Source: Strongholds and Followers p. 73*
 
 ```statblock
 "name": "Troubadour Warrior"

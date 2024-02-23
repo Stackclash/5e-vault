@@ -11,7 +11,7 @@ aliases:
   - Barovian Witch
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Barovian Witch.md|Barovian Witch]]
-*Source: Curse of Strahd p. 229*  
+*Source: Curse of Strahd p. 229*
 
 The mad women and men known as Barovian witches forge pacts with Strahd and the Dark Powers of Ravenloft in exchange for magic and longevity. They prefer to live in the shadows and can see in the dark. When traveling in the open, they use [[5. Mechanics/Spells/Alter Self.md|alter self]] spells to assume less conspicuous forms. They also use these spells to grow long, sharp claws with which they can attack.
 

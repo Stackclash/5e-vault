@@ -12,7 +12,7 @@ aliases:
   - Ice Mephit
 ---
 # [[5. Mechanics\Bestiary\Elemental\Ice Mephit.md|Ice Mephit]]
-*Source: Monster Manual p. 215. Available in the SRD.*  
+*Source: Monster Manual p. 215. Available in the SRD.*
 
 ## Mephits
 

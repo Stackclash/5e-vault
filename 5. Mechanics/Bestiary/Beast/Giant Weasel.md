@@ -14,7 +14,7 @@ aliases:
   - Giant Weasel
 ---
 # [[5. Mechanics\Bestiary\Beast\Giant Weasel.md|Giant Weasel]]
-*Source: Monster Manual p. 329. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 329. Available in the SRD and the Basic Rules.*
 
 ```statblock
 "name": "Giant Weasel"

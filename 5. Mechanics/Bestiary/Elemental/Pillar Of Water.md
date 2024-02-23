@@ -11,7 +11,7 @@ aliases:
   - Pillar of Water
 ---
 # [[5. Mechanics\Bestiary\Elemental\Pillar Of Water.md|Pillar of Water]]
-*Source: Strongholds and Followers p. 189*  
+*Source: Strongholds and Followers p. 189*
 
 If the Sources are watchmen of Alloy, the Pillars are the jailors. They spring from the ground, imprisoning those caught violating the law of the Lady. Like the Sources, they have an attitude, but not much actual personality.
 

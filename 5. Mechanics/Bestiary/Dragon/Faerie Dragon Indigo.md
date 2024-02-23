@@ -12,7 +12,7 @@ aliases:
   - Faerie Dragon (Indigo)
 ---
 # [[5. Mechanics\Bestiary\Dragon\Faerie Dragon Indigo.md|Faerie Dragon (Indigo)]]
-*Source: Monster Manual p. 133*  
+*Source: Monster Manual p. 133*
 
 A faerie dragon is a cat-sized dragon with butterfly wings. It wears a sharp-toothed grin and expresses its delight by the twitching of its tail, its merriment fading only if it is attacked.
 

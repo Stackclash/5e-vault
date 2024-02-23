@@ -15,7 +15,7 @@ aliases:
   - Gnoll Fang of Yeenoghu
 ---
 # [[5. Mechanics\Bestiary\Fiend\Gnoll Fang Of Yeenoghu.md|Gnoll Fang of Yeenoghu]]
-*Source: Monster Manual p. 163*  
+*Source: Monster Manual p. 163*
 
 Gnolls celebrate their victories by performing demonic rituals and making blood offerings to Yeenoghu.
 

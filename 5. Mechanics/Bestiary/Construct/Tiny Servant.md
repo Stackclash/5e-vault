@@ -11,7 +11,7 @@ aliases:
   - Tiny Servant
 ---
 # [[5. Mechanics\Bestiary\Construct\Tiny Servant.md|Tiny Servant]]
-*Source: Xanathar's Guide to Everything p. 169*  
+*Source: Xanathar's Guide to Everything p. 169*
 
 ```statblock
 "name": "Tiny Servant"

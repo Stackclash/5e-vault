@@ -13,7 +13,7 @@ aliases:
   - Vegepygmy Chief
 ---
 # [[5. Mechanics\Bestiary\Plant\Vegepygmy Chief.md|Vegepygmy Chief]]
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 253*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 253*
 
 As a [[5. Mechanics/Bestiary/Plant/Vegepygmy.md|vegepygmy]] ages, it grows tougher and develops spore clusters on its body. Other vegepygmies defer to these so-called chiefs. A chief can expel its spores in a burst, infecting nearby creatures. If a creature dies while infected, its corpse produces vegepygmies the same way [[5. Mechanics/Traps Hazards/Russet Mold.md|russet mold]] does.
 

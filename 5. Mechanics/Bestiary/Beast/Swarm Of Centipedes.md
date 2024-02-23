@@ -18,7 +18,7 @@ aliases:
   - Swarm of Centipedes
 ---
 # [[5. Mechanics\Bestiary\Beast\Swarm Of Centipedes.md|Swarm of Centipedes]]
-*Source: Monster Manual p. 338, Curse of Strahd. Available in the SRD.*  
+*Source: Monster Manual p. 338, Curse of Strahd. Available in the SRD.*
 
 > [!note] The Nature of Swarms
 > 

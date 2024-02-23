@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/saf
-aliases: ["Simple Warfare"]
+  - compendium/src/5e/saf
+aliases:
+  - Simple Warfare
 ---
 # Simple Warfare
 *Source: Strongholds and Followers, p. 243* 

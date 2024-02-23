@@ -12,7 +12,7 @@ aliases:
   - Lamia
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Lamia.md|Lamia]]
-*Source: Monster Manual p. 201. Available in the SRD.*  
+*Source: Monster Manual p. 201. Available in the SRD.*
 
 Ruined desert cities and the tombs of forgotten monarchs make perfect lairs for the wicked lamias. These decadent monsters take what has been forgotten and make it the seat of their hedonistic rule, surrounding themselves with sycophants. Lamias rely on [[5. Mechanics/Bestiary/Humanoid/Jackalwere.md|jackalweres]] to perform various tasks, sending them across the wastes to capture slaves or steal treasures from caravans, encampments, or villages, concealed by the lamia's magic as they attack.
 

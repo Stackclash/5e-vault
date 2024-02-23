@@ -12,7 +12,7 @@ aliases:
   - Wereraven
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Wereraven.md|Wereraven]]
-*Source: Van Richten's Guide to Ravenloft p. 253, Curse of Strahd p. 242*  
+*Source: Van Richten's Guide to Ravenloft p. 253, Curse of Strahd p. 242*
 
 Wereravens are secretive and extraordinarily cautious lycanthropes that trust one another but are wary of just about everyone else. Although skilled at blending into society, they keep mostly to themselves, respect local laws, and strive to do good whenever possible.
 

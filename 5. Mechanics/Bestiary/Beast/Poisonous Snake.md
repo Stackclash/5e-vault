@@ -17,7 +17,7 @@ aliases:
   - Poisonous Snake
 ---
 # [[5. Mechanics\Bestiary\Beast\Poisonous Snake.md|Poisonous Snake]]
-*Source: Monster Manual p. 334. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 334. Available in the SRD and the Basic Rules.*
 
 ```statblock
 "name": "Poisonous Snake"

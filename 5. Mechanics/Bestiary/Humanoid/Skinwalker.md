@@ -11,7 +11,7 @@ aliases:
   - Skinwalker
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Skinwalker.md|Skinwalker]]
-*Source: Strongholds and Followers p. 75*  
+*Source: Strongholds and Followers p. 75*
 
 ```statblock
 "name": "Skinwalker"

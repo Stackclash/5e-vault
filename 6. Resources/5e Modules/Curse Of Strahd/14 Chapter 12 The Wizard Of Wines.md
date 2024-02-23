@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/cos
-aliases: ["Chapter 12: The Wizard of Wines"]
+  - compendium/src/5e/cos
+aliases:
+  - 'Chapter 12: The Wizard of Wines'
 ---
 # Chapter 12: The Wizard of Wines
 *Source: Curse of Strahd, p. 173* 

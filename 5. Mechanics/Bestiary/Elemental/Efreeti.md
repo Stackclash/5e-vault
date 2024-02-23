@@ -12,7 +12,7 @@ aliases:
   - Efreeti
 ---
 # [[5. Mechanics\Bestiary\Elemental\Efreeti.md|Efreeti]]
-*Source: Monster Manual p. 145, Tasha's Cauldron of Everything. Available in the SRD.*  
+*Source: Monster Manual p. 145, Tasha's Cauldron of Everything. Available in the SRD.*
 
 Hulking genies of the Elemental Plane of Fire, the efreet are masters of flame, immune to fire and able to create it on a whim. Fine silk caftans and damask robes drape their magma-red or coal-black skin, and they bedeck themselves in brass and gold torcs, chains, and rings, all glittering with jewels. When an efreeti flies, its lower body transforms into a column of smoke and embers.
 

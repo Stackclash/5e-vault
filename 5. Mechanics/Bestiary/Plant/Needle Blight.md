@@ -12,7 +12,7 @@ aliases:
   - Needle Blight
 ---
 # [[5. Mechanics\Bestiary\Plant\Needle Blight.md|Needle Blight]]
-*Source: Monster Manual p. 32, Curse of Strahd*  
+*Source: Monster Manual p. 32, Curse of Strahd*
 
 In the shadows of a forest, needle blights might be taken at a distance for shuffling, hunched humanoids. Up close, these creatures reveal themselves as horrid plants whose conifer-like needles grow across their bodies in quivering clumps. A needle blight lashes out with these needles or launches them as an aerial assault that can punch through armor and flesh.
 

@@ -13,7 +13,7 @@ aliases:
   - Merfolk
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Merfolk.md|Merfolk]]
-*Source: Monster Manual p. 218. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 218. Available in the SRD and the Basic Rules.*
 
 Aquatic humanoids with the upper body of a human and the lower body of a fish, merfolk adorn their skin and scales with shell decorations.
 

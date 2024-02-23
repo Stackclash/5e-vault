@@ -11,7 +11,7 @@ aliases:
   - Mystic
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Mystic.md|Mystic]]
-*Source: Strongholds and Followers p. 74*  
+*Source: Strongholds and Followers p. 74*
 
 ```statblock
 "name": "Mystic"

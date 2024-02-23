@@ -11,7 +11,7 @@ aliases:
   - Knight of the Green Order
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Knight Of The Green Order.md|Knight of the Green Order]]
-*Source: Strongholds and Followers p. 77*  
+*Source: Strongholds and Followers p. 77*
 
 ```statblock
 "name": "Knight Of The Green Order"

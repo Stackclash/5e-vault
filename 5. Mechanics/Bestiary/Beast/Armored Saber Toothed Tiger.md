@@ -11,7 +11,7 @@ aliases:
   - Armored Saber-Toothed Tiger
 ---
 # [[5. Mechanics\Bestiary\Beast\Armored Saber Toothed Tiger.md|Armored Saber-Toothed Tiger]]
-*Source: Curse of Strahd p. 115*  
+*Source: Curse of Strahd p. 115*
 
 ```statblock
 "name": "Armored Saber Toothed Tiger"

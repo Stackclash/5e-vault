@@ -13,7 +13,7 @@ aliases:
   - Shambling Mound
 ---
 # [[5. Mechanics\Bestiary\Plant\Shambling Mound.md|Shambling Mound]]
-*Source: Monster Manual p. 270, Curse of Strahd. Available in the SRD.*  
+*Source: Monster Manual p. 270, Curse of Strahd. Available in the SRD.*
 
 A shambling mound, sometimes called a shambler, trudges ponderously through bleak swamps, dismal marshes, and rain forests, consuming any organic matter in its path. This rotting heap of animated vegetation looms up half again as tall as a human, tapering into a faceless "head" at its top.
 

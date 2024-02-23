@@ -15,7 +15,7 @@ aliases:
   - Cat
 ---
 # [[5. Mechanics\Bestiary\Beast\Cat.md|Cat]]
-*Source: Monster Manual p. 320, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 320, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*
 
 ```statblock
 "name": "Cat"

@@ -12,7 +12,7 @@ aliases:
   - Giant Fire Beetle
 ---
 # [[5. Mechanics\Bestiary\Beast\Giant Fire Beetle.md|Giant Fire Beetle]]
-*Source: Monster Manual p. 325. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 325. Available in the SRD and the Basic Rules.*
 
 A giant fire beetle is a nocturnal creature that takes its name from a pair of glowing glands that give off light. Miners and adventurers prize these creatures, for a giant fire beetle's glands continue to shed light for `dice: 1d6|avg` (`1d6`) days after the beetle dies. Giant fire beetles are most commonly found underground and in dark forests.
 

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/saf
-aliases: ["The Temple"]
+  - compendium/src/5e/saf
+aliases:
+  - The Temple
 ---
 # The Temple
 *Source: Strongholds and Followers, p. 30* 

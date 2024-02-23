@@ -3,6 +3,7 @@ obsidianUIMode: preview
 statblock: inline
 location: '[[4. World Almanac/Places of Interest/Ruins of Berez.md|Ruins of Berez]]'
 condition: healthy
+image: 4. World Almanac/NPCs/img/baba-lysaga.webp
 relationships: []
 tags: null
 aliases: []
@@ -49,7 +50,7 @@ dislikes: 'Intruders in Berez, those who oppose Strahd, the light'
 > **Current Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 # **`=this.file.name`**
-*Source: Curse of Strahd p. 228* 
+*Source: Curse of Strahd p. 228*
 
 Two women gave life to Strahd von Zarovich. The first was Queen Ravenovia van Roeyen, Strahd's biological mother. The second was the queen's midwife, a devout follower of Mother Night named Baba Lysaga. Although it was the former who raised Strahd and enabled him to follow in his father's footsteps, it was the latter who sensed a potential for greatness and darkness in Strahd surpassing that of any other mortal. Lysaga believed then, as she believes now, that she is Strahd's true mother.
 

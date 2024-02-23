@@ -11,7 +11,7 @@ aliases:
   - Guild Adept
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Guild Adept.md|Guild Adept]]
-*Source: Strongholds and Followers p. 78*  
+*Source: Strongholds and Followers p. 78*
 
 ```statblock
 "name": "Guild Adept"

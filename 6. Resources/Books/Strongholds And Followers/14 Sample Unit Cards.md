@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/saf
-aliases: ["Sample Unit Cards"]
+  - compendium/src/5e/saf
+aliases:
+  - Sample Unit Cards
 ---
 # Sample Unit Cards
 *Source: Strongholds and Followers* 

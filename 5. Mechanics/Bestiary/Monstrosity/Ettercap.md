@@ -12,7 +12,7 @@ aliases:
   - Ettercap
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Ettercap.md|Ettercap]]
-*Source: Monster Manual p. 131. Available in the SRD.*  
+*Source: Monster Manual p. 131. Available in the SRD.*
 
 Ettercaps are humanoid spiders that tend, feed, and watch over spiders the way a shepherd oversees a flock of sheep. They lair deep in remote forests.
 

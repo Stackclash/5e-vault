@@ -11,7 +11,7 @@ aliases:
   - Loremaster
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Loremaster.md|Loremaster]]
-*Source: Strongholds and Followers p. 73*  
+*Source: Strongholds and Followers p. 73*
 
 ```statblock
 "name": "Loremaster"

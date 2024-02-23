@@ -11,7 +11,7 @@ aliases:
   - Snow Maiden
 ---
 # [[5. Mechanics\Bestiary\Undead\Snow Maiden.md|Snow Maiden]]
-*Source: Curse of Strahd p. 159*  
+*Source: Curse of Strahd p. 159*
 
 ```statblock
 "name": "Snow Maiden"

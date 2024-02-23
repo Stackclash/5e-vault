@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/cos
-aliases: ["Appendix B: Death House"]
+  - compendium/src/5e/cos
+aliases:
+  - 'Appendix B: Death House'
 ---
 # Appendix B: Death House
 *Source: Curse of Strahd, p. 211* 

@@ -17,7 +17,7 @@ aliases:
   - Troll
 ---
 # [[5. Mechanics\Bestiary\Giant\Troll.md|Troll]]
-*Source: Monster Manual p. 291. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 291. Available in the SRD and the Basic Rules.*
 
 Born with horrific appetites, trolls eat anything they can catch and devour. They have no society to speak of, but they do serve as mercenaries to orcs, ogres, ettins, hags, and giants. As payment, trolls demand food and treasure. Trolls are difficult to control, however, doing as they please even when working with more powerful creatures.
 

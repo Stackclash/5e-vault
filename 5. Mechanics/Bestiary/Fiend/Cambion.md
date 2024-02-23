@@ -12,7 +12,7 @@ aliases:
   - Cambion
 ---
 # [[5. Mechanics\Bestiary\Fiend\Cambion.md|Cambion]]
-*Source: Monster Manual p. 36*  
+*Source: Monster Manual p. 36*
 
 A cambion is the offspring of a fiend (usually a succubus or incubus) and a humanoid (usually a human). Cambions inherit aspects of both parents, but their horns, leathery wings, and sinewy tails are hallmarks of their otherworldly parentage.
 

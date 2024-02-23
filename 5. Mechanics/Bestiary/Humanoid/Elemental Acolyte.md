@@ -11,7 +11,7 @@ aliases:
   - Elemental Acolyte
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Elemental Acolyte.md|Elemental Acolyte]]
-*Source: Strongholds and Followers p. 76*  
+*Source: Strongholds and Followers p. 76*
 
 ```statblock
 "name": "Elemental Acolyte"

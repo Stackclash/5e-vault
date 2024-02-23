@@ -13,7 +13,7 @@ aliases:
   - Tiger
 ---
 # [[5. Mechanics\Bestiary\Beast\Tiger.md|Tiger]]
-*Source: Monster Manual p. 339. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 339. Available in the SRD and the Basic Rules.*
 
 ```statblock
 "name": "Tiger"

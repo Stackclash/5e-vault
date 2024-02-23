@@ -11,7 +11,7 @@ aliases:
   - Balor
 ---
 # [[5. Mechanics\Bestiary\Fiend\Balor.md|Balor]]
-*Source: Monster Manual p. 55, Tasha's Cauldron of Everything. Available in the SRD.*  
+*Source: Monster Manual p. 55, Tasha's Cauldron of Everything. Available in the SRD.*
 
 Figures of ancient and terrible evil, balors rule as generals over demonic armies, yearning to seize power while destroying any creatures that oppose them.
 

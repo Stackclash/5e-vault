@@ -12,7 +12,7 @@ aliases:
   - Draegloth
 ---
 # [[5. Mechanics\Bestiary\Fiend\Draegloth.md|Draegloth]]
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 98*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 98*
 
 A draegloth is a demon created by an elf priest of Lolth in an unholy, dangerous ritual in which it is infused with the fey essence of the creator and the fiendish essence of a [[5. Mechanics/Bestiary/Fiend/Glabrezu.md|glabrezu]]. This ritual rarely succeeds, but Lolth's faithful consider it worth the risk, as the resulting creature is gifted with innate magic and physical might. The draegloth usually serves its creator, lending its thirst for destruction to the creator's plans to triumph over rivals.
 

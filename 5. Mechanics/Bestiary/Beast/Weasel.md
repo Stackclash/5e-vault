@@ -11,7 +11,7 @@ aliases:
   - Weasel
 ---
 # [[5. Mechanics\Bestiary\Beast\Weasel.md|Weasel]]
-*Source: Monster Manual p. 340. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 340. Available in the SRD and the Basic Rules.*
 
 ```statblock
 "name": "Weasel"

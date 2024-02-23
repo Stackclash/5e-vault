@@ -12,7 +12,7 @@ aliases:
   - Young Wereraven
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Young Wereraven.md|Young Wereraven]]
-*Source: Curse of Strahd p. 98*  
+*Source: Curse of Strahd p. 98*
 
 ```statblock
 "name": "Young Wereraven"

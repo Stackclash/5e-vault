@@ -11,7 +11,7 @@ aliases:
   - Lesser Balor
 ---
 # [[5. Mechanics\Bestiary\Fiend\Lesser Balor.md|Lesser Balor]]
-*Source: Strongholds and Followers p. 153*  
+*Source: Strongholds and Followers p. 153*
 
 ```statblock
 "name": "Lesser Balor"

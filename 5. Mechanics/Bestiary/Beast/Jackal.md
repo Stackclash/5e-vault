@@ -13,7 +13,7 @@ aliases:
   - Jackal
 ---
 # [[5. Mechanics\Bestiary\Beast\Jackal.md|Jackal]]
-*Source: Monster Manual p. 331. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 331. Available in the SRD and the Basic Rules.*
 
 ```statblock
 "name": "Jackal"

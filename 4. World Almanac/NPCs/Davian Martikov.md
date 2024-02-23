@@ -3,21 +3,23 @@ obsidianUIMode: preview
 statblock: inline
 location: null
 condition: healthy
+image: 4. World Almanac/NPCs/img/davian-martikov.webp
 relationships:
   - Urwin Martikov|son
   - Stefania Martikov|daughter
   - Adrian Martikov|son
   - Elvir Martikov|son
 tags: null
-aliases: null
+aliases:
+  - Davian Martikov
 pronounced: null
 race: null
 gender: null
 age: null
 alignment: Lawful Good
 occupation: []
-groups: null
-religions: null
+groups: []
+religions: []
 personality: null
 ideal: null
 bond: null
@@ -51,7 +53,7 @@ dislikes: null
 > **Current Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 # **`=this.file.name`**
-*Source: Curse of Strahd p. 173* 
+*Source: Curse of Strahd p. 173*
 
 TBD
 

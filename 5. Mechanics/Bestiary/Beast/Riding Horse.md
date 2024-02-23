@@ -13,7 +13,7 @@ aliases:
   - Riding Horse
 ---
 # [[5. Mechanics\Bestiary\Beast\Riding Horse.md|Riding Horse]]
-*Source: Monster Manual p. 336, Curse of Strahd. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 336, Curse of Strahd. Available in the SRD and the Basic Rules.*
 
 ```statblock
 "name": "Riding Horse"

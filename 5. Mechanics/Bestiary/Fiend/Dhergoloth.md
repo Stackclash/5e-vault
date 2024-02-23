@@ -12,7 +12,7 @@ aliases:
   - Dhergoloth
 ---
 # [[5. Mechanics\Bestiary\Fiend\Dhergoloth.md|Dhergoloth]]
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 94, Mordenkainen's Tome of Foes p. 248*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 94, Mordenkainen's Tome of Foes p. 248*
 
 > [!quote]- A quote from Mordenkainen  
 > 

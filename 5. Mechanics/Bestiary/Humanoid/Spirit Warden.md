@@ -11,7 +11,7 @@ aliases:
   - Spirit Warden
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Spirit Warden.md|Spirit Warden]]
-*Source: Strongholds and Followers p. 72*  
+*Source: Strongholds and Followers p. 72*
 
 ```statblock
 "name": "Spirit Warden"

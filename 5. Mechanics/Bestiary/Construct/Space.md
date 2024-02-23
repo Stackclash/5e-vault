@@ -11,7 +11,7 @@ aliases:
   - Space
 ---
 # [[5. Mechanics\Bestiary\Construct\Space.md|Space]]
-*Source: Strongholds and Followers p. 227*  
+*Source: Strongholds and Followers p. 227*
 
 The Inexorable limitations of Space forbid anyone from moving from point A to point Z without passing through the rest of the alphabet. Certainly nothing as vulgar as teleportation is allowed on Axiom.
 

@@ -15,7 +15,7 @@ aliases:
   - Constrictor Snake
 ---
 # [[5. Mechanics\Bestiary\Beast\Constrictor Snake.md|Constrictor Snake]]
-*Source: Monster Manual p. 320. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 320. Available in the SRD and the Basic Rules.*
 
 ```statblock
 "name": "Constrictor Snake"

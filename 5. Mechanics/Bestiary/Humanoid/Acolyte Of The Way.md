@@ -11,7 +11,7 @@ aliases:
   - Acolyte of the Way
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Acolyte Of The Way.md|Acolyte of the Way]]
-*Source: Strongholds and Followers p. 76*  
+*Source: Strongholds and Followers p. 76*
 
 ```statblock
 "name": "Acolyte Of The Way"

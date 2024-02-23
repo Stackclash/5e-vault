@@ -11,7 +11,7 @@ aliases:
   - Theurgist
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Theurgist.md|Theurgist]]
-*Source: Strongholds and Followers p. 81*  
+*Source: Strongholds and Followers p. 81*
 
 ```statblock
 "name": "Theurgist"

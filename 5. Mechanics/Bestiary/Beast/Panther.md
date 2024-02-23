@@ -14,7 +14,7 @@ aliases:
   - Panther
 ---
 # [[5. Mechanics\Bestiary\Beast\Panther.md|Panther]]
-*Source: Monster Manual p. 333. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 333. Available in the SRD and the Basic Rules.*
 
 ```statblock
 "name": "Panther"

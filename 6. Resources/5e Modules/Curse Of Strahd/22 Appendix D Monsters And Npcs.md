@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/cos
-aliases: ["Appendix D: Monsters and NPCs"]
+  - compendium/src/5e/cos
+aliases:
+  - 'Appendix D: Monsters and NPCs'
 ---
 # Appendix D: Monsters and NPCs
 *Source: Curse of Strahd, p. 225* 

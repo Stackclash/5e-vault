@@ -11,7 +11,7 @@ aliases:
   - Curate
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Curate.md|Curate]]
-*Source: Strongholds and Followers p. 73*  
+*Source: Strongholds and Followers p. 73*
 
 ```statblock
 "name": "Curate"

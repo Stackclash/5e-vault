@@ -11,7 +11,7 @@ aliases:
   - Zombie Plague Spreader
 ---
 # [[5. Mechanics\Bestiary\Undead\Zombie Plague Spreader.md|Zombie Plague Spreader]]
-*Source: Van Richten's Guide to Ravenloft p. 255*  
+*Source: Van Richten's Guide to Ravenloft p. 255*
 
 Among the undead, a lone zombie ranks far from the most menacing. The horror of the shambling dead lies not in their individual menace, though, but their numbers, their persistence, and their disregard for their own well-being. A throng of zombies will douse a forest fire with their own ashes or march into a dragon's maw until the monster chokes. In the course of their relentless marches, zombies might suffer all manner of trauma, potentially reducing them to masses of crawling limbs (see swarm of zombie limbs), infecting them with terrible diseases, or crushing an entire horde into a single, rotting titan (see zombie clot).
 

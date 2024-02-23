@@ -11,7 +11,7 @@ aliases:
   - The Phoenix
 ---
 # [[5. Mechanics\Bestiary\Celestial\The Phoenix.md|The Phoenix]]
-*Source: Strongholds and Followers p. 248*  
+*Source: Strongholds and Followers p. 248*
 
 ```statblock
 "name": "The Phoenix"

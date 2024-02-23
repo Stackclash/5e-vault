@@ -3,6 +3,7 @@ obsidianUIMode: preview
 statblock: inline
 location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'
 condition: healthy
+image: 4. World Almanac/NPCs/img/bray-martikov.webp
 relationships:
   - Danika Dorakova|mother
   - Brom Martikov|brother
@@ -53,7 +54,7 @@ dislikes: 'Threats to his family, the oppression of Strahd, boredom'
 > **Current Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 # **`=this.file.name`**
-*Source: Curse of Strahd p. 98* 
+*Source: Curse of Strahd p. 98*
 
 TBD
 

@@ -11,7 +11,7 @@ aliases:
   - Alienist
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Alienist.md|Alienist]]
-*Source: Strongholds and Followers p. 80*  
+*Source: Strongholds and Followers p. 80*
 
 ```statblock
 "name": "Alienist"

@@ -11,7 +11,7 @@ aliases:
   - Relentless Slasher
 ---
 # [[5. Mechanics\Bestiary\Fiend\Relentless Slasher.md|Relentless Slasher]]
-*Source: Van Richten's Guide to Ravenloft p. 242*  
+*Source: Van Richten's Guide to Ravenloft p. 242*
 
 A relentless slasher conducts its bloody work in silence then vanishes into shadow and infamy. Fixated on a specific individual or type of victim, it pursues its target with single-minded obsession.
 

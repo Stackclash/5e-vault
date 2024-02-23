@@ -11,7 +11,7 @@ aliases:
   - Tracker
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Tracker.md|Tracker]]
-*Source: Strongholds and Followers p. 78*  
+*Source: Strongholds and Followers p. 78*
 
 ```statblock
 "name": "Tracker"

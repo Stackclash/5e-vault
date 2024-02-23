@@ -11,7 +11,7 @@ aliases:
   - Phantom Warrior (Archer)
 ---
 # [[5. Mechanics\Bestiary\Undead\Phantom Warrior Archer.md|Phantom Warrior (Archer)]]
-*Source: Curse of Strahd p. 142*  
+*Source: Curse of Strahd p. 142*
 
 ```statblock
 "name": "Phantom Warrior Archer"

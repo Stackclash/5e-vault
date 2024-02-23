@@ -12,7 +12,7 @@ aliases:
   - Giant Crab
 ---
 # [[5. Mechanics\Bestiary\Beast\Giant Crab.md|Giant Crab]]
-*Source: Monster Manual p. 324. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 324. Available in the SRD and the Basic Rules.*
 
 ```statblock
 "name": "Giant Crab"

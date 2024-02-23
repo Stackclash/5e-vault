@@ -12,7 +12,7 @@ aliases:
   - Cult Fanatic
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Cult Fanatic.md|Cult Fanatic]]
-*Source: Monster Manual p. 345, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD.*  
+*Source: Monster Manual p. 345, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD.*
 
 Fanatics are often part of a cult's leadership, using their charisma and dogma to influence and prey on those of weak will. Most are interested in personal power above all else
 

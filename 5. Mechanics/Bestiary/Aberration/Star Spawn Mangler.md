@@ -11,7 +11,7 @@ aliases:
   - Star Spawn Mangler
 ---
 # [[5. Mechanics\Bestiary\Aberration\Star Spawn Mangler.md|Star Spawn Mangler]]
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 229, Mordenkainen's Tome of Foes p. 236*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 229, Mordenkainen's Tome of Foes p. 236*
 
 > [!quote]- A quote from Mordenkainen  
 > 

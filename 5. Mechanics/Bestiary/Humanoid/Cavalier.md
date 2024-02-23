@@ -11,7 +11,7 @@ aliases:
   - Cavalier
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Cavalier.md|Cavalier]]
-*Source: Strongholds and Followers p. 77*  
+*Source: Strongholds and Followers p. 77*
 
 ```statblock
 "name": "Cavalier"

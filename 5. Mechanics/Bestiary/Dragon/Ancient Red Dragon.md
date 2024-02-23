@@ -13,7 +13,7 @@ aliases:
   - Ancient Red Dragon
 ---
 # [[5. Mechanics\Bestiary\Dragon\Ancient Red Dragon.md|Ancient Red Dragon]]
-*Source: Monster Manual p. 97, Tasha's Cauldron of Everything. Available in the SRD.*  
+*Source: Monster Manual p. 97, Tasha's Cauldron of Everything. Available in the SRD.*
 
 The most covetous of the true dragons, red dragons tirelessly seek to increase their treasure hoards. They are exceptionally vain, even for dragons, and their conceit is reflected in their proud bearing and their disdain for other creatures. The odor of sulfur and pumice surrounds a red dragon, whose swept-back horns and spinal frill define its silhouette. Its beaked snout vents smoke at all times, and its eyes dance with flame when it is angry. Its wings are the longest of any chromatic dragon, and have a blue-black tint along the trailing edge that resembles metal burned blue by fire.
 

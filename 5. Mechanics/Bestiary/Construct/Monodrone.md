@@ -11,7 +11,7 @@ aliases:
   - Monodrone
 ---
 # [[5. Mechanics\Bestiary\Construct\Monodrone.md|Monodrone]]
-*Source: Monster Manual p. 224*  
+*Source: Monster Manual p. 224*
 
 A monodrone can perform one simple task at a time and can relay a single message of up to forty-eight words.
 

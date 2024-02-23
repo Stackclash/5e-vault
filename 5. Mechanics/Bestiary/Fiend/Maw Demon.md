@@ -12,7 +12,7 @@ aliases:
   - Maw Demon
 ---
 # [[5. Mechanics\Bestiary\Fiend\Maw Demon.md|Maw Demon]]
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 176*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 176*
 
 > [!quote]- A quote from Tasha  
 > 

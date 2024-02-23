@@ -11,7 +11,7 @@ aliases:
   - Stormspeaker
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Stormspeaker.md|Stormspeaker]]
-*Source: Strongholds and Followers p. 74*  
+*Source: Strongholds and Followers p. 74*
 
 ```statblock
 "name": "Stormspeaker"

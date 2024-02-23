@@ -11,7 +11,7 @@ aliases:
   - Storm Magistrate
 ---
 # [[5. Mechanics\Bestiary\Elemental\Storm Magistrate.md|Storm Magistrate]]
-*Source: Strongholds and Followers p. 191*  
+*Source: Strongholds and Followers p. 191*
 
 The Magistrates of the Burning City are the priests and judges of the Lady of Fire. The motes, sources, and knights are diagnosticians. They identify and evaluate the problem. The Lords of Storm cure it.
 

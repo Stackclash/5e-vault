@@ -3,6 +3,7 @@ obsidianUIMode: preview
 statblock: inline
 location: null
 condition: healthy
+image: 4. World Almanac/NPCs/img/pidlwick-ii.webp
 relationships: []
 tags: null
 aliases: []
@@ -49,7 +50,7 @@ dislikes: null
 > **Current Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 # **`=this.file.name`**
-*Source: Curse of Strahd p. 236* 
+*Source: Curse of Strahd p. 236*
 
 After her husband died in battle, Duchess Dorfniya Dilisnya set her sights on becoming Count Strahd von Zarovich's bride, but she failed to win his love. Her visits to the castle were nonetheless frequent, and she never traveled without her fool, the delightful Pidlwick. The little man was like a ray of sunshine in Castle Ravenloft, and though he failed to amuse Strahd, he delighted Tatyana and Sergei with his jokes and gambols. As a result, Strahd didn't object whenever Pidlwick and the duchess came to visit.
 

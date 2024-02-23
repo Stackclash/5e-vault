@@ -12,7 +12,7 @@ aliases:
   - Earth Elemental
 ---
 # [[5. Mechanics\Bestiary\Elemental\Earth Elemental.md|Earth Elemental]]
-*Source: Monster Manual p. 124, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 124, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*
 
 An earth elemental plods forward like a walking hill, club-like arms of jagged stone swinging at its sides. Its head and body consist of dirt and stone, occasionally set with chunks of metal, gems, and bright minerals.
 

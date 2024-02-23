@@ -11,7 +11,7 @@ aliases:
   - 'Bestial Spirit (Water, 7th-Level Spell)'
 ---
 # [[5. Mechanics\Bestiary\Beast\Bestial Spirit Water 7th Level Spell.md|Bestial Spirit (Water, 7th-Level Spell)]]
-*Source: Tasha's Cauldron of Everything p. 109*  
+*Source: Tasha's Cauldron of Everything p. 109*
 
 ```statblock
 "name": "Bestial Spirit (Water, 7th-Level Spell) (TCE)"

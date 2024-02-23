@@ -11,7 +11,7 @@ aliases:
   - Diabolist
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Diabolist.md|Diabolist]]
-*Source: Strongholds and Followers p. 80*  
+*Source: Strongholds and Followers p. 80*
 
 ```statblock
 "name": "Diabolist"

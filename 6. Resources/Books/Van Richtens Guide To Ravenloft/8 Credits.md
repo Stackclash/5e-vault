@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vrgr
-aliases: ["Credits"]
+  - compendium/src/5e/vrgr
+aliases:
+  - Credits
 ---
 # Credits
 *Source: Van Richten's Guide to Ravenloft* 

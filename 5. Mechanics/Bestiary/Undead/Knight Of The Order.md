@@ -11,7 +11,7 @@ aliases:
   - Knight of the Order
 ---
 # [[5. Mechanics\Bestiary\Undead\Knight Of The Order.md|Knight of the Order]]
-*Source: Curse of Strahd p. 139*  
+*Source: Curse of Strahd p. 139*
 
 ```statblock
 "name": "Knight Of The Order"

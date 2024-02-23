@@ -13,7 +13,7 @@ aliases:
   - Maurezhi
 ---
 # [[5. Mechanics\Bestiary\Fiend\Maurezhi.md|Maurezhi]]
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 175, Mordenkainen's Tome of Foes p. 133*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 175, Mordenkainen's Tome of Foes p. 133*
 
 When Doresain, the King of Ghouls, corrupted a society of elves, he created a new sort of demon—the maurezhi—to lead packs of [[5. Mechanics/Bestiary/Undead/Ghoul.md|ghouls]] and [[5. Mechanics/Bestiary/Undead/Ghast.md|ghasts]] on the Material Plane.
 

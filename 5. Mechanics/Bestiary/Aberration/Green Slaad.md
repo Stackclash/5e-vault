@@ -11,7 +11,7 @@ aliases:
   - Green Slaad
 ---
 # [[5. Mechanics\Bestiary\Aberration\Green Slaad.md|Green Slaad]]
-*Source: Monster Manual p. 277*  
+*Source: Monster Manual p. 277*
 
 Green slaadi are surprisingly intelligent and possess innate spellcasting ability. A green slaad can change its shape to appear as a humanoid. If it was born of a humanoid host, the slaad usually adopts its host's form.
 

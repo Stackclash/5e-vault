@@ -11,7 +11,7 @@ aliases:
   - Expeditious Messenger
 ---
 # [[5. Mechanics\Bestiary\Construct\Expeditious Messenger.md|Expeditious Messenger]]
-*Source: Eberron: Rising from the Last War p. 293*  
+*Source: Eberron: Rising from the Last War p. 293*
 
 An expeditious messenger is a speedy flier, designed to quickly carry messages for its creator. Their speedy and efficient attitude makes expeditious messengers quite chatty, and they natter on as fast as they move.
 

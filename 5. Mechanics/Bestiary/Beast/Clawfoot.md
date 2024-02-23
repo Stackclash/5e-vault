@@ -11,7 +11,7 @@ aliases:
   - Clawfoot
 ---
 # [[5. Mechanics\Bestiary\Beast\Clawfoot.md|Clawfoot]]
-*Source: Eberron: Rising from the Last War p. 289*  
+*Source: Eberron: Rising from the Last War p. 289*
 
 Clawfoot dinosaurs are two-legged saurians with sharp teeth and toe claws that resemble deadly sickles. They are imposing creatures, about the size of a tall human, and are fierce enough to take down even larger prey.
 

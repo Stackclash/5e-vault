@@ -13,7 +13,7 @@ aliases:
   - Plesiosaurus
 ---
 # [[5. Mechanics\Bestiary\Beast\Plesiosaurus.md|Plesiosaurus]]
-*Source: Monster Manual p. 80. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 80. Available in the SRD and the Basic Rules.*
 
 A plesiosaurus is a marine dinosaur whose compact body is driven by powerful flippers. Predatory and aggressive, it attacks any creature it encounters. Its flexible neck accounts for a third of its total length, letting it twist in any direction to deliver a powerful bite.
 

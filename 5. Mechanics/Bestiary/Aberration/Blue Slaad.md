@@ -11,7 +11,7 @@ aliases:
   - Blue Slaad
 ---
 # [[5. Mechanics\Bestiary\Aberration\Blue Slaad.md|Blue Slaad]]
-*Source: Monster Manual p. 276*  
+*Source: Monster Manual p. 276*
 
 The bone hooks that protrude from the back of a blue slaad's hands inflict a terrible transformative disease on humanoids wounded by them. This infection, called chaos phage, transforms its victim into a fully grown red slaad—or green slaad if the host was a spellcaster able to cast 3rd level spells or higher.
 

@@ -11,7 +11,7 @@ aliases:
   - White Dragon Wyrmling
 ---
 # [[5. Mechanics\Bestiary\Dragon\White Dragon Wyrmling.md|White Dragon Wyrmling]]
-*Source: Monster Manual p. 102. Available in the SRD.*  
+*Source: Monster Manual p. 102. Available in the SRD.*
 
 The smallest, least intelligent, and most animalistic of the chromatic dragons, white dragons dwell in frigid climes, favoring arctic areas or icy mountains. They are vicious, cruel reptiles driven by hunger and greed.
 

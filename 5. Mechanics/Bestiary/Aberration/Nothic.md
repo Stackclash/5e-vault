@@ -12,7 +12,7 @@ aliases:
   - Nothic
 ---
 # [[5. Mechanics\Bestiary\Aberration\Nothic.md|Nothic]]
-*Source: Monster Manual p. 236, Curse of Strahd. Available in the Basic Rules.*  
+*Source: Monster Manual p. 236, Curse of Strahd. Available in the Basic Rules.*
 
 A baleful eye peers out from the darkness, its gleam hinting at a weird intelligence and unnerving malevolence. Most times, a nothic is content to watch, weighing and assessing the creatures it encounters. When driven to violence, it uses its horrific gaze to rot the flesh from its enemies' bones.
 

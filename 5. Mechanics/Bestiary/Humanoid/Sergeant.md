@@ -11,7 +11,7 @@ aliases:
   - Sergeant
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Sergeant.md|Sergeant]]
-*Source: Eberron: Rising from the Last War p. 197*  
+*Source: Eberron: Rising from the Last War p. 197*
 
 ```statblock
 "name": "Sergeant"

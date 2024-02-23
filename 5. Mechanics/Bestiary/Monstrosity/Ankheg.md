@@ -13,7 +13,7 @@ aliases:
   - Ankheg
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Ankheg.md|Ankheg]]
-*Source: Monster Manual p. 21. Available in the SRD.*  
+*Source: Monster Manual p. 21. Available in the SRD.*
 
 An ankheg resembles an enormous many-legged insect, its long antennae twitching in response to any movement around it. Its legs end in sharp hooks adapted for burrowing and grasping its prey, and its powerful mandibles can snap a small tree in half.
 

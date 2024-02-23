@@ -11,7 +11,7 @@ aliases:
   - Vistana Thug
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Vistana Thug.md|Vistana Thug]]
-*Source: Curse of Strahd p. 28*  
+*Source: Curse of Strahd p. 28*
 
 ```statblock
 "name": "Vistana Thug"

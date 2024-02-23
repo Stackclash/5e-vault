@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/cos
-aliases: ["Introduction"]
+  - compendium/src/5e/cos
+aliases:
+  - Introduction
 ---
 # Introduction
 *Source: Curse of Strahd, p. 5* 

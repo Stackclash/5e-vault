@@ -15,7 +15,7 @@ aliases:
   - Gnoll Witherling
 ---
 # [[5. Mechanics\Bestiary\Undead\Gnoll Witherling.md|Gnoll Witherling]]
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 145*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 145*
 
 > [!quote]- A quote from Mordenkainen  
 > 

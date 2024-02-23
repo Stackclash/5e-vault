@@ -11,7 +11,7 @@ aliases:
   - Oleander Dragon
 ---
 # [[5. Mechanics\Bestiary\Dragon\Oleander Dragon.md|Oleander Dragon]]
-*Source: Strongholds and Followers p. 182*  
+*Source: Strongholds and Followers p. 182*
 
 Nerium the Petal Dragon, known also as the Oleander Dragon, is one of the prize pets of Val and normally slumbers decoratively in one of the courtyards. Its disguise is so perfect, newcomers to the Court often fail to recognize it's not actually a flowering topiary shrub in the shape of a sleeping dragon.
 

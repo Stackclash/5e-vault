@@ -12,7 +12,7 @@ aliases:
   - Carrion Crawler
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Carrion Crawler.md|Carrion Crawler]]
-*Source: Monster Manual p. 37*  
+*Source: Monster Manual p. 37*
 
 Carrion crawlers scour putrid flesh from carcasses and gobble the slimy bones that remain. They aggressively attack any creature that trespasses on their territory or disturbs their feasting.
 

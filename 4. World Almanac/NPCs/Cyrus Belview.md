@@ -5,6 +5,7 @@ location: >-
   [[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of
   Saint Markovia]]
 condition: healthy
+image: 4. World Almanac/NPCs/img/cyrus-belview.webp
 relationships: []
 tags: null
 aliases: []
@@ -55,7 +56,7 @@ dislikes: 'Violence, the harsh judgments of outsiders, the complexities of moral
 > **Current Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 # **`=this.file.name`**
-*Source: Curse of Strahd p. 77* 
+*Source: Curse of Strahd p. 77*
 
 TBD
 

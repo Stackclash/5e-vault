@@ -13,7 +13,7 @@ aliases:
   - Galeb Duhr
 ---
 # [[5. Mechanics\Bestiary\Elemental\Galeb Duhr.md|Galeb Duhr]]
-*Source: Monster Manual p. 139, Tasha's Cauldron of Everything*  
+*Source: Monster Manual p. 139, Tasha's Cauldron of Everything*
 
 The galeb duhr is a boulder-like creature with stumpy appendages that act as arms and legs. It has the ability to animate the rocks and boulders around it, and is thus usually encountered in rocky terrain.
 

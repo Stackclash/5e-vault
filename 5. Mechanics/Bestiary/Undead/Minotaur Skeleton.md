@@ -12,7 +12,7 @@ aliases:
   - Minotaur Skeleton
 ---
 # [[5. Mechanics\Bestiary\Undead\Minotaur Skeleton.md|Minotaur Skeleton]]
-*Source: Monster Manual p. 273. Available in the SRD.*  
+*Source: Monster Manual p. 273. Available in the SRD.*
 
 Skeletons arise when animated by dark magic. They heed the summons of spellcasters who call them from their stony tombs and ancient battlefields, or rise of their own accord in places saturated with death and loss, awakened by stirrings of necromantic energy or the presence of corrupting evil.
 

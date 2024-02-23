@@ -3,6 +3,7 @@ obsidianUIMode: preview
 statblock: inline
 location: '[[4. World Almanac/Places of Interest/Lake Zarovich.md|Lake Zarovich]]'
 condition: healthy
+image: null
 relationships:
   - Luvash|father
   - Arrigal|niece
@@ -52,7 +53,7 @@ dislikes: 'Being confined or restricted, cruelty'
 > **Current Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 # **`=this.file.name`**
-*Source: Curse of Strahd p. 38* 
+*Source: Curse of Strahd p. 38*
 
 TBD
 

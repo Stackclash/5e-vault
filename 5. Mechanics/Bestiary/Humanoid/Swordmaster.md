@@ -11,7 +11,7 @@ aliases:
   - Swordmaster
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Swordmaster.md|Swordmaster]]
-*Source: Strongholds and Followers p. 75*  
+*Source: Strongholds and Followers p. 75*
 
 ```statblock
 "name": "Swordmaster"
