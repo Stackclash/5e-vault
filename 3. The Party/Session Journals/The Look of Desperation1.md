@@ -1,0 +1,91 @@
+---
+date: 2023-08-05T00:00:00.000-05:00
+summary: The party struggles to escape the mansion and eventually find the inn in the village of Barovia. They get contracted to take Ireena to Vallaki.
+fc-date: 973-2-11
+fc-end: 973-2-12
+timelines:
+  - COS
+aat-render-enabled: true
+fc-category: Session
+party: Curse of Strahd
+---
+# Preparation
+
+## Death House
+```encounter
+creatures:
+- 3: [[swarm-of-rats, Swarm of Rat]]
+- 2: [[ghast, Ghast]]
+players: true
+```
+
+## Names
+[[04 Chapter-2 The Lands Of Barovia#^barovian-names]]
+
+## Maps
+- Barovia
+	- [DM](https://5etools.mysmarthome.space/img/adventure/CoS/007-001.jpg)
+	- [Players](https://5etools.mysmarthome.space/img/adventure/CoS/008-cos201.jpg)
+- Village of Barovia
+	- [DM](https://5etools.mysmarthome.space/img/adventure/CoS/013-003.jpg)
+	- [Players](https://5etools.mysmarthome.space/img/adventure/CoS/014-cos301.jpg)
+- Vallaki
+	- [DM](https://5etools.mysmarthome.space/img/adventure/CoS/047-013.jpg)
+	- [Players](https://5etools.mysmarthome.space/img/adventure/CoS/048-cos05-02-player.jpg)
+
+## [Random Encounters](https://5etools.mysmarthome.space/adventure.html#cos,3,random%20encounters,0)
+- Check once every 30 minutes of game time
+
+## [Town of Barovia](https://5etools.mysmarthome.space/adventure.html#cos,4,chapter%203%3a%20the%20village%20of%20barovia,0)
+- [Barovian Lore](https://5etools.mysmarthome.space/adventure.html#cos,3,barovian%20lore,0)
+- [Vistani Lore](https://5etools.mysmarthome.space/adventure.html#cos,3,vistani%20lore,0)
+- [Vallaki Lore](https://5etools.mysmarthome.space/adventure.html#cos,6,vallaki%20lore,0)
+
+### Locations
+#### [Bildrath's Mercantile](https://5etools.mysmarthome.space/adventure.html#cos,4,e1.%20bildrath's%20mercantile)
+- Bildrath Cantemir: Owner, won't bargin (If you want it badly enough, you'll pay for it)
+- Parriwimple: Large stock boy, nephew to Bildrath
+#### [Blood of the Vine Tavern](https://5etools.mysmarthome.space/adventure.html#cos,4,e2.%20blood%20of%20the%20vine%20tavern,0)
+- Ismark Kolyanovich: Son of burgomaster, Kolyan Indrovich
+	- Wants players to take Ireena Kolyana, his sister, to Vallaki
+	- Has prepared himself to fight Strahd
+- Arik Lorensk: Barkeep, souless, compulsively cleans glasses
+- Vistani Owners: Alenka, Mirabel, and Sorvia. Don't pay attention to players
+#### [Mad Mary's Townhouse](https://5etools.mysmarthome.space/adventure.html#cos,4,e3.%20mad%20mary's%20townhouse,0)
+#### [Burgomaster's Mansion](https://5etools.mysmarthome.space/adventure.html#cos,4,e4.%20burgomaster's%20mansion)
+- Ireena Kolyana: Doesn't remember her past, knows that Strahd has bit her twice (memory fuzzy), strong will
+	- Wants players to take Kolyan Indrovich to church for burial
+#### [Church](https://5etools.mysmarthome.space/adventure.html#cos,4,e5.%20church,0)
+- Donavich: acolyte. Prays night and day to the Morning Lord to save his son
+	- Donavich will try to lock the players in the basement for Doru to eat him.
+- Doru: Vampire Spawn. Brave enough to attack lone character. "I smell your blood!" Will try to avoid the party and attack
+```encounter
+players: true
+creatures:
+- [[Doru (COS),Doru]]
+```
+
+### Events
+#### [Dream Pastries](https://5etools.mysmarthome.space/adventure.html#cos,4,dream%20pastries,0)
+- [Addiction Homebrew](https://homebrewery.naturalcrit.com/share/r1-q3tL4LH)
+
+# What happened
+- The party fought Carl and Elisabeth in the first level of Death House. While the room is filled with poisonous smoke.
+- [[Yevelda Ovak]] gets possessed by Elisabeth but [[Redgrave]]  casts her out with Turn Undead. Elisabeth flees the room.
+- [[Yevelda Ovak]] searches the walls for the door, but decides to break down the now bricked up window.
+- [[Marin]] is knocked unconscious by Carl.
+- [[Seluvis Felo'melorn]] and [[Yevelda Ovak]] carry [[Marin]] out the window.
+- Once everyone is out the window Carl screeches at them as the damaged window heals and closes up.
+- The party makes its way to the store and [[Marin]] buys a [[Dagger|dagger]].
+- They go to the tavern and purchase a room where they lay down [[Marin]].
+- [[Ismark Kolyanovich]] approaches [[Redgrave]] and [[Faerah Duskrane]]  who remained downstairs.
+	- He asks them for help bringing his sister, [[Ireena Kolyana]] to [[Vallaki]].
+	- The rest of the party comes down to join the conversation
+- They go to the Burgomaster mansion and meet [[Ireena Kolyana]].
+- [[Ireena Kolyana]] reveals that [[Strahd Von Zarovich (COS)]] wants her and has bitten her twice 
+- She says she doesn't want to go unless they bury her adoptive father first 
+- The party brings the coffin to the church and meet Father Donovich
+- They hear a scream from the basement and the party presses Donovich about what it was
+- Donovich alludes that it was his son. He was very nervous and distraught
+- Donovich says that the burial happens at sundown.
+	- The party however doesn't want to stay till then and convinces [[Ireena Kolyana]] to leave early
