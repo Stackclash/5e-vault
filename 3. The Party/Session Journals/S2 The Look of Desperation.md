@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 date: 2023-08-05
-summary: 
-fc-date: 
-timelines: 
+summary: The party struggles to escape the mansion and eventually find the inn in the village of Barovia. They get contracted to take Ireena to Vallaki.
+fc-date: 973-2-11
+timelines:
+  - CoS
 aat-render-enabled: true
 fc-category: Session
-party: 
+party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
 prep-notes: 
+fc-end: 973-2-12
 ---
 > [!infobox]
 > ## Info
@@ -46,7 +48,7 @@ N/A
 - They go to the tavern and purchase a room where they lay down [[Marin]].
 - [[Ismark Kolyanovich]] approaches [[Redgrave]] and [[Faerah Duskrane]]  who remained downstairs. He asks them for help bringing his sister, Ireena Kolyana to Vallaki. The rest of the party comes down to join the conversation
 - They go to the Burgomaster mansion and meet [[Ireena Kolyana]].
-- [[Ireena Kolyana]] reveals that [[Strahd Von Zarovich (COS)]] wants her and has bitten her twice 
+- [[Ireena Kolyana]] reveals that [[4. World Almanac/NPCs/Strahd Von Zarovich|Strahd Von Zarovich]] wants her and has bitten her twice 
 - She says she doesn't want to go unless they bury her adoptive father first 
 - The party brings the coffin to the church and meet Father Donovich
 - They hear a scream from the basement and the party presses Donovich about what it was
