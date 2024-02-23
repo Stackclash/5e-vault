@@ -31,7 +31,22 @@ Description of any important information that the party learned.
 Who Did They Meet?
 
 ## Items Of Importance
-Description
+N/A
 
 ## What Happened
-Small description.
+- The party fought Carl and Elisabeth in the first level of Death House. While the room is filled with poisonous smoke.
+- [[Yevelda Ovak]] gets possessed by Elisabeth but [[Redgrave]]  casts her out with Turn Undead. Elisabeth flees the room.
+- [[Yevelda Ovak]] searches the walls for the door, but decides to break down the now bricked up window.
+- [[Marin]] is knocked unconscious by Carl.
+- [[Seluvis Felo'melorn]] and [[Yevelda Ovak]] carry [[Marin]] out the window.
+- Once everyone is out the window Carl screeches at them as the damaged window heals and closes up.
+- The party makes its way to the store and [[Marin]] buys a [[Dagger|dagger]].
+- They go to the tavern and purchase a room where they lay down [[Marin]].
+- [[Ismark Kolyanovich]] approaches [[Redgrave]] and [[Faerah Duskrane]]  who remained downstairs. He asks them for help bringing his sister, Ireena Kolyana to Vallaki. The rest of the party comes down to join the conversation
+- They go to the Burgomaster mansion and meet [[Ireena Kolyana]].
+- [[Ireena Kolyana]] reveals that [[Strahd Von Zarovich (COS)]] wants her and has bitten her twice 
+- She says she doesn't want to go unless they bury her adoptive father first 
+- The party brings the coffin to the church and meet Father Donovich
+- They hear a scream from the basement and the party presses Donovich about what it was
+- Donovich alludes that it was his son. He was very nervous and distraught
+- Donovich says that the burial happens at sundown. The party however doesn't want to stay till then and convinces Ireena Kolyana to leave early
