@@ -1,1 +1,1 @@
-![[04 Chapter-2 The Lands Of Barovia#Vistani Lore]]
+![[04 Chapter 2 The Lands Of Barovia#Vistani Lore]]

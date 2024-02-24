@@ -1,1 +1,1 @@
-![[04 Chapter-2 The Lands Of Barovia#Random Encounters]]
+![[04 Chapter 2 The Lands Of Barovia#Random Encounters]]

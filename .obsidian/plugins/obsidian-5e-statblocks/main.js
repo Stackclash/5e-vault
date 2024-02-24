@@ -634,7 +634,7 @@ if ("cr" in monster && monster.cr in CR) {
             2
         )}\`;
 }
-return "";`}]}],conditioned:!0,hasRule:!0},{type:"traits",id:H(),properties:["traits"],conditioned:!0,dice:!0},{type:"spells",id:H(),properties:["spells"],conditioned:!0,dice:!0},{type:"text",id:H(),properties:["spellsNotes"],conditioned:!0,text:null},{type:"traits",id:H(),properties:["actions"],heading:"Actions",conditioned:!0,dice:!0},{type:"traits",id:H(),properties:["bonus_actions"],heading:"Bonus Actions",conditioned:!0,dice:!0},{type:"group",id:H(),properties:["legendary_description","legendary_actions"],heading:"Legendary Actions",nested:[{type:"text",id:H(),properties:["legendary_description"],conditioned:!0,text:null},{type:"traits",id:H(),properties:["legendary_actions"],conditioned:!0,dice:!0}],conditioned:!0},{type:"group",id:H(),properties:["mythic_description","mythic_actions"],heading:"Mythic Actions",nested:[{type:"text",id:H(),properties:["mythic_description"],conditioned:!0,text:null},{type:"traits",id:H(),properties:["mythic_actions"],conditioned:!0,dice:!0}],conditioned:!0},{type:"traits",id:H(),properties:["reactions"],heading:"Reactions",conditioned:!0,dice:!0},{type:"traits",id:H(),properties:["lair_actions"],heading:"Lair Actions",conditioned:!0,dice:!0}],Nt={blocks:If,id:"basic-5e-layout",name:"Basic 5e Layout",edited:!1,version:4,diceParsing:[{regex:/([\+\-])(\d+) to hit/.source,parser:`let [, sign, number] = matches;
+return "";`}]}],conditioned:!0,hasRule:!0},{type:"traits",id:H(),properties:["traits"],conditioned:!0,dice:!0},{type:"spells",id:H(),properties:["spells"],conditioned:!0,dice:!0},{type:"text",id:H(),properties:["spellsNotes"],conditioned:!0,text:null},{type:"traits",id:H(),properties:["actions"],heading:"Actions",conditioned:!0,dice:!0},{type:"traits",id:H(),properties:["bonus_actions"],heading:"Bonus Actions",conditioned:!0,dice:!0},{type:"group",id:H(),properties:["legendary_description","legendary_actions"],heading:"Legendary Actions",nested:[{type:"text",id:H(),properties:["legendary_description"],conditioned:!0,text:null},{type:"traits",id:H(),properties:["legendary_actions"],conditioned:!0,dice:!0}],conditioned:!0},{type:"group",id:H(),properties:["mythic_description","mythic_actions"],heading:"Mythic Actions",nested:[{type:"text",id:H(),properties:["mythic_description"],conditioned:!0,text:null},{type:"traits",id:H(),properties:["mythic_actions"],conditioned:!0,dice:!0}],conditioned:!0},{type:"traits",id:H(),properties:["reactions"],heading:"Reactions",conditioned:!0,dice:!0},{type:"traits",id:H(),properties:["lair_actions"],heading:"Lair Actions",conditioned:!0,dice:!0}],Nt={blocks:If,id:"basic-5e-layout",name:"Basic 5e Layout",edited:!1,version:5,diceParsing:[{regex:/([\+\-])(\d+) to hit/.source,parser:`let [, sign, number] = matches;
 let mult = 1;
 if (sign === "-") {
     mult = -1;
@@ -649,7 +649,7 @@ let text;
 if (!isNaN(Number(base)) && dice) {
     text = dice;
 }
-return { text, original };`,id:"dice"},{regex:/. ([\+\-]\d+)/.source,parser:`let [, save, sign, number] = matches;
+return { text, original: dice ?? original };`,id:"dice"},{regex:/. ([\+\-]\d+)/.source,parser:`let [, save, sign, number] = matches;
 let mult = 1;
 if (sign === "-") {
     mult = -1;
@@ -689,7 +689,7 @@ return { text, original };`,id:H()},{regex:/\d+\s\(\d+d\d+(?:\s*[+\-]\s*\d+)?\)/
 if (!isNaN(Number(base)) && dice) {
     text = dice;
 }
-return { text, original };`,id:H()},{regex:/. ([\+\-]\d+)/.source,parser:`let [, save, sign, number] = matches;
+return { text, original: dice ?? original };`,id:H()},{regex:/. ([\+\-]\d+)/.source,parser:`let [, save, sign, number] = matches;
 let mult = 1;
 if (sign === "-") {
     mult = -1;

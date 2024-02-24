@@ -1,1 +1,1 @@
-![[04 Chapter-2 The Lands Of Barovia#^barovian-names]]
+![[04 Chapter 2 The Lands Of Barovia#^barovian-names]]
