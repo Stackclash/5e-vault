@@ -1,27 +1,28 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: null
+location: 
 condition: healthy
 image: 4. World Almanac/NPCs/img/sir-godfrey-gwilym.webp
 relationships: []
-tags: null
+tags: 
 aliases: []
-pronounced: null
-race: null
-gender: null
-age: null
+pronounced: sir GOD-free GWIL-im
+race: "[[5. Mechanics/Races/Human.md|Human]]"
+gender: male
+age: 
 alignment: Lawful Evil
 occupation: []
-groups: []
+groups:
+  - Order of the Silver Dragon
 religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+personality: 
+ideal: Redemption for the Order and peace for Barovia are my only pursuits.
+bond: His unyielding loyalty to the Order of the Silver Dragon and the memory of Argynvost
+flaw: His single-minded focus on the order's redemption can sometimes blind him to broader concerns or simpler joys
+goals: To restore the honor of the Order of the Silver Dragon, to find peace in fulfilling his oath
+likes: 
+dislikes: 
 ---
 
 > [!infobox]
