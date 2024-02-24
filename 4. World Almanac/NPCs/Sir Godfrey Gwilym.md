@@ -16,13 +16,13 @@ occupation: []
 groups:
   - Order of the Silver Dragon
 religions: []
-personality: 
+personality: Stoic, honorable, deeply melancholic
 ideal: Redemption for the Order and peace for Barovia are my only pursuits.
 bond: His unyielding loyalty to the Order of the Silver Dragon and the memory of Argynvost
 flaw: His single-minded focus on the order's redemption can sometimes blind him to broader concerns or simpler joys
 goals: To restore the honor of the Order of the Silver Dragon, to find peace in fulfilling his oath
-likes: 
-dislikes: 
+likes: Acts of bravery and honor, the legacy of the Silver Dragon, those who seek justice
+dislikes: Cowardice, betrayal, Strahd and his minions, the failure of the Order to protect Barovia
 ---
 
 > [!infobox]

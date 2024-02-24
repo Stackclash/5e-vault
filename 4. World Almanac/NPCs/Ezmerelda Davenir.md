@@ -1,29 +1,28 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: null
+location: "[[4. World Almanac/Places of Interest/Van Richten's Tower.md|Van Richten's Tower]]"
 condition: healthy
 image: 4. World Almanac/NPCs/img/ezmerelda-davenir.webp
 relationships: []
-tags: null
+tags: 
 aliases: []
-pronounced: null
-race: null
-gender: null
-age: null
+pronounced: ez-meh-REL-da dah-veh-NEER
+race: "[[5. Mechanics/Races/Human.md|Human]]"
+gender: female
+age: 33
 alignment: Chaotic Good
 occupation: []
-groups: []
+groups:
+  - Vistani
 religions: []
-personality: null
-ideal: >-
-  Evil that feeds on the innocent is the worst of all evils and must be
-  destroyed.
-bond: 'My mentor and teacher, Dr. Rudolph van Richten, is like a father to me.'
+personality: Determined, fiercely independent, pragmatic
+ideal: Evil that feeds on the innocent is the worst of all evils and must be destroyed.
+bond: My mentor and teacher, Dr. Rudolph van Richten, is like a father to me.
 flaw: I go where angels fear to tread.
-goals: null
-likes: null
-dislikes: null
+goals: To defeat Strahd, to become the greatest monster hunter in the land
+likes: Knowledge about monsters, vanquishing evil, proving her skill and courage
+dislikes: Cowardice, betrayal, the undead, those who underestimate her
 ---
 
 > [!infobox]
