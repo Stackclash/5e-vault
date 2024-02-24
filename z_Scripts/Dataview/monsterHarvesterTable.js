@@ -1,5 +1,5 @@
 let tablePage = dv.pages('"5. Mechanics/Tables"').filter(p => {
-    return p.file.name.includes("Hhhvi") &&
+    return p.tags.find(tag => tag.includes("hhhvi")) &&
         p.aliases[0] == input.current.aliases[0]
 })[0]
 
