@@ -6,7 +6,7 @@ actions:
     command: obsidian-dice-roller:reroll
 ```
 
-Name: 
+Name: `dice: [[NPC Names#^main]]`
 Looks: `dice: [[Npc Appearance#^npc-appearance]]`
 Ability: `dice: [[Npc Abilities#^npc-abilities]]`
 Low Abilities: `dice: [[Npc Low Abilities#^npc-low-abilities]]`

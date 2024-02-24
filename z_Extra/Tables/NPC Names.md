@@ -6,23 +6,23 @@ Random name!
 `dice: [[NPC Names#^main]]`
 
 Random Femme-sounding name
-`dice: [[NPC Names#^names]]`&#8203`dice: [[NPC Names#^femme]]`
+`dice: [[NPC Names#^names]]` `dice: [[NPC Names#^femme]]`
 
 Random Masc-sounding name
-`dice: [[NPC Names#^names]]`&#8203`dice: [[NPC Names#^masc]]`
+`dice: [[NPC Names#^names]]` `dice: [[NPC Names#^masc]]`
 
 Random place name 
-`dice: [[NPC Names#^names]]`&#8203`dice: [[NPC Names#^place]]`
+`dice: [[NPC Names#^names]]` `dice: [[NPC Names#^place]]`
 
 
 ## Main Table
 | dice: 1d2 | Names                                                                   |
 | --------- | ----------------------------------------------------------------------- |
-| 1         | `dice: [[NPC Names#^names]]`&#8203`dice: [[NPC Names#^femme]]` |
-| 2         | `dice: [[NPC Names#^names]]`&#8203`dice: [[NPC Names#^masc]]`  |
+| 1         | `dice: [[NPC Names#^names]]` `dice: [[NPC Names#^femme]]` |
+| 2         | `dice: [[NPC Names#^names]]` `dice: [[NPC Names#^masc]]`  |
 ^main
 
-`dice: [[NPC Names#^names]]`&#8203`dice: [[NPC Names#^masc]]`
+`dice: [[NPC Names#^names]]` `dice: [[NPC Names#^masc]]`
 
 `dice: [[NPC Names#^main]]`
 
