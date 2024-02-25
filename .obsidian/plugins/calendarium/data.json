@@ -188,18 +188,13 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 4,
+    "patch": 1,
     "beta": null
   },
   "debug": false,
   "askedToMoveFC": false,
   "askedAboutSync": true,
   "syncBehavior": "Always",
-  "inlineEventsTag": "#inline-events",
-  "paths": [
-    [
-      "/",
-      "ID_6b2b79a86a39"
-    ]
-  ]
+  "inlineEventsTag": null,
+  "paths": []
 }
