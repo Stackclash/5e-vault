@@ -33,7 +33,10 @@ prep-notes:
 - [[Redgrave]] thinks that [[Izek Strazni]] had a doll made for each reincarnation of [[Ireena Kolyana]] 
 
 ## Items Of Importance
-Description
+- Kahkan's Wand of Secrets
+- Tome of Strahd
 
 ## What Happened
-Small description.
+- The party goes through the first chapter of the Tome of Strahd
+- They find Yan, the severed head.
+- They use the wand of secrets once and find the freezer
