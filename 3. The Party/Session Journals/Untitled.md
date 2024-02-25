@@ -29,6 +29,8 @@ prep-notes:
 ## Key Learnings
 - Strahd's home kingdom is Mauristatia
 - Stahd's childhood was in 473
+- [[Redgrave]] figures out that a lot of Barovians are without souls and that the souls are reborn into new bodies
+- [[Redgrave]] 
 
 ## Items Of Importance
 Description
