@@ -41,3 +41,4 @@ prep-notes:
 - The party goes through the first chapter of the Tome of Strahd
 - They find Yan, the severed head.
 - They use the wand of secrets once and find the freezer
+- The party reads the second chapter of the Tome of Strahd
