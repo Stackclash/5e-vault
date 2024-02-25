@@ -28,6 +28,7 @@ prep-notes:
 
 ## Key Learnings
 - Strahd's home kingdom is Mauristatia
+- Stahd's childhood was in 473
 
 ## Items Of Importance
 Description
