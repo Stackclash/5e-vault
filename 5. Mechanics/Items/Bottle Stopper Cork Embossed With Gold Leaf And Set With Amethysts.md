@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/wealth
-aliases: 
-- "Bottle stopper cork embossed with gold leaf and set with amethysts"
+  - compendium/src/5e/dmg
+  - item/wealth/art-object
+aliases:
+  - Bottle stopper cork embossed with gold leaf and set with amethysts
 cost: 75000
 ---
 # Bottle stopper cork embossed with gold leaf and set with amethysts
-*Treasure*  
+*Art object*  
 
 - **Cost**: 750 gp
 

@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/5
-- monster/environment/underdark
-- monster/size/large
-- monster/type/monstrosity
+  - compendium/src/5e/mm
+  - monster/cr/5
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Umber Hulk"]
+aliases:
+  - Umber Hulk
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Umber Hulk.md|Umber Hulk]]
-*Source: Monster Manual p. 292*  
+*Source: Monster Manual p. 292*
 
 An abominable horror from deep beneath the earth, an umber hulk burrows into cave complexes, dungeons, or Underdark settlements in search of food. Those lucky enough to survive an umber hulk attack often remember precious little of the incident, thanks to the umber hulk's mind-scrambling gaze.
 
@@ -87,10 +88,14 @@ Many survivors of an umber hulk encounter recollect little about the attack, bec
 - "PaBTSO"
 - "SatO"
 - "BMT"
-"image": "compendium/bestiary/monstrosity/token/umber-hulk.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/umber-hulk.webp"
 ```
 ^statblock
 
 ## Environment
 
 underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

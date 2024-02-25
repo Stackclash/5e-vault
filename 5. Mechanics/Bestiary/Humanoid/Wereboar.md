@@ -2,19 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/4
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/size/medium
-- monster/type/humanoid/human
-- monster/type/humanoid/shapechanger
+  - compendium/src/5e/mm
+  - monster/cr/4
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/size/medium
+  - monster/type/humanoid/human
+  - monster/type/humanoid/shapechanger
 statblock: inline
-aliases: ["Wereboar"]
+aliases:
+  - Wereboar
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Wereboar.md|Wereboar]]
-*Source: Monster Manual p. 209, Tasha's Cauldron of Everything. Available in the SRD.*  
+*Source: Monster Manual p. 209, Tasha's Cauldron of Everything. Available in the SRD.*
 
 Wereboars are ill-tempered and vulgar brutes. As humanoids, they are stocky and muscular, with short, stiff hair. In their humanoid and hybrid forms, they use heavy weapons, while in hybrid or animal form, they gain a devastating goring attack through which their curse is spread. A wereboar infects other creatures indiscriminately, relishing the fact that the more its victims resist the curse, the more savage and bestial they become.
 
@@ -113,10 +114,14 @@ Some individuals see little point in fighting the curse and accept what they are
 - "TCE"
 - "CM"
 - "BMT"
-"image": "compendium/bestiary/humanoid/token/wereboar.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/wereboar.webp"
 ```
 ^statblock
 
 ## Environment
 
 grassland, forest, hill
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

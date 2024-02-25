@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/10
-- monster/environment/forest
-- monster/environment/grassland
-- monster/size/large
-- monster/type/dragon
+  - compendium/src/5e/mm
+  - monster/cr/10
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/size/large
+  - monster/type/dragon
 statblock: inline
-aliases: ["Young Gold Dragon"]
+aliases:
+  - Young Gold Dragon
 ---
 # [[5. Mechanics\Bestiary\Dragon\Young Gold Dragon.md|Young Gold Dragon]]
-*Source: Monster Manual p. 115. Available in the SRD.*  
+*Source: Monster Manual p. 115. Available in the SRD.*
 
 The most powerful and majestic of the metallic dragons, gold dragons are dedicated foes of evil.
 
@@ -136,10 +137,14 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   "name": "Breath Weapons (Recharge 5-6)"
 "source":
 - "MM"
-"image": "compendium/bestiary/dragon/token/young-gold-dragon.png"
+"image": "5. Mechanics/Bestiary/Dragon/token/young-gold-dragon.webp"
 ```
 ^statblock
 
 ## Environment
 
 grassland, forest
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

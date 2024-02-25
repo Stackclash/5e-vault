@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Special Features; What Quirk Does It Have"]
+  - compendium/src/5e/dmg
+aliases:
+  - Special Features; What Quirk Does It Have
 ---
 # Special Features; What Quirk Does It Have
 *Source: Dungeon Master's Guide p. 141* 
 
-`dice: [[Special Features What Quirk Does It Have.md#^what-quirk-does-it-have]]`
-
 **What Quirk Does It Have**
+
+`dice: [[Special Features What Quirk Does It Have.md#^what-quirk-does-it-have]]`
 
 | dice: d12 | Quirk |
 |-----------|-------|

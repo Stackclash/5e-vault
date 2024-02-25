@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/11
-- monster/environment/desert
-- monster/size/large
-- monster/type/monstrosity
+  - compendium/src/5e/mm
+  - monster/cr/11
+  - monster/environment/desert
+  - monster/size/large
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Gynosphinx"]
+aliases:
+  - Gynosphinx
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Gynosphinx.md|Gynosphinx]]
-*Source: Monster Manual p. 282. Available in the SRD.*  
+*Source: Monster Manual p. 282. Available in the SRD.*
 
 A gynosphinx bears the head of a humanoid female. Many have the regal countenances of worldly queens, but some are marked with wild, leonine features. A gynosphinx's eyes see beyond the present time and place, and penetrate veils of invisibility and magic.
 
@@ -101,7 +102,7 @@ A sphinx presides over an ancient temple, sepulcher, or vault, within which are 
     \ [[5. Mechanics/Spells/Legend Lore.md|legend lore]]"
   "name": "spells"
 - "desc": "The sphinx is immune to any effect that would sense its emotions or read\
-    \ its thoughts, as well as any divination spell that it refuses. Wisdom (Insight)\
+    \ its thoughts, as well as any divination spell that it refuses. Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight|Insight]])\
     \ checks made to ascertain the sphinx's intentions or sincerity have disadvantage."
   "name": "Inscrutable"
 - "desc": "The sphinx's weapon attacks are magical."
@@ -127,10 +128,14 @@ A sphinx presides over an ancient temple, sepulcher, or vault, within which are 
 - "IMR"
 - "MOT"
 - "JttRC"
-"image": "compendium/bestiary/monstrosity/token/gynosphinx.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/gynosphinx.webp"
 ```
 ^statblock
 
 ## Environment
 
 desert
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

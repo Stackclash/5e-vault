@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-2
-- monster/environment/desert
-- monster/environment/grassland
-- monster/size/medium
-- monster/type/humanoid/shapechanger
+  - compendium/src/5e/mm
+  - monster/cr/1-2
+  - monster/environment/desert
+  - monster/environment/grassland
+  - monster/size/medium
+  - monster/type/humanoid/shapechanger
 statblock: inline
-aliases: ["Jackalwere"]
+aliases:
+  - Jackalwere
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Jackalwere.md|Jackalwere]]
-*Source: Monster Manual p. 193*  
+*Source: Monster Manual p. 193*
 
 Ordinary jackals tainted by demonic power, jackalweres haunt roads and trails, waylaying and murdering those they meet.
 
@@ -92,10 +93,14 @@ A jackalwere might also use its gaze to incapacitate a deadly enemy long enough 
 - "BGDIA"
 - "CM"
 - "JttRC"
-"image": "compendium/bestiary/humanoid/token/jackalwere.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/jackalwere.webp"
 ```
 ^statblock
 
 ## Environment
 
 grassland, desert
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

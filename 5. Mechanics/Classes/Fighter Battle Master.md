@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/phb
-- subclass/fighter/battle-master
-aliases: ["Battle Master"]
+  - compendium/src/5e/phb
+  - subclass/fighter/battle-master
+aliases:
+  - Battle Master
 ---
 # Battle Master
 *[[Fighter.md\|Fighter]]: Martial Archetype*  
@@ -67,9 +68,9 @@ The maneuvers are presented in alphabetical order.
 ### Maneuver Options (Level 3)
 _Source: Tasha's Cauldron of Everything p. 41_
 
-*3rd-level fighter [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+*3rd-level fighter [[/5. Mechanics/Rules/Variant Rules/Optional Class Features.md\|optional class features]]*
 
-If you have access to maneuvers, the following maneuvers are added to the list of options available to you. Maneuvers are available to Battle Masters but also to characters who have a special feature like the [[5. Mechanics/Optional Features/Superior Technique (TCE).md\|Superior Technique]] fighting style or the [[5. Mechanics/Feats/Martial Adept.md\|Martial Adept]] feat.
+If you have access to maneuvers, the following maneuvers are added to the list of options available to you. Maneuvers are available to Battle Masters but also to characters who have a special feature like the [[5. Mechanics/Optional Features/Superior Technique.md\|Superior Technique]] fighting style or the [[5. Mechanics/Feats/Martial Adept.md\|Martial Adept]] feat.
 
 ### Additional Maneuvers (Level 7)
 

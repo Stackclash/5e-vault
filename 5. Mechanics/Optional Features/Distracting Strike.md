@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/phb
-- optional-feature/mv-b
-aliases: ["Distracting Strike"]
+  - compendium/src/5e/phb
+  - optional-feature/mv-b
+aliases:
+  - Distracting Strike
 ---
 # Distracting Strike
 *Source: Player's Handbook p. 74*  

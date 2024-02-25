@@ -7,7 +7,12 @@ const relationshipMapping = {
     wife: { string: '--Wife ---', styleClass: 'family'},
     husband: { string: '--Husband ---', styleClass: 'family'},
     brother: { string: '--Brother ---', styleClass: 'family'},
-    sister: { string: '--Sister ---', styleClass: 'family'}
+    sister: { string: '--Sister ---', styleClass: 'family'},
+    cousin: { string: '--Cousin ---', styleClass: 'family' },
+    uncle: { string: '--Uncle -->', styleClass: 'family' },
+    aunt: { string: '--Aunt -->', styleClass: 'family' },
+    nephew: { string: '--Nephew ---', styleClass: 'family' },
+    niece: { string: '--Niece ---', styleClass: 'family' }
 }
 
 const backticks = "```"
@@ -97,8 +102,12 @@ function buildRelationshipArray(page, keys, relationships=[]) {
   }
 }
 
-const keys = buildRelationshipKeys(input.current)[0]
+let keys = buildRelationshipKeys(input.current)[0]
+keys = keys.filter((key, i) => keys.findIndex(k => k.name === key.name) === i)
+
 const relationshipString = buildRelationshipArray(input.current, keys).map(i => i.string).join('')
+
+console.log(app)
 
 dv.paragraph(
   `${backticks}mermaid

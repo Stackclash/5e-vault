@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- compendium/src/5e/dmg
-- deity/dawn-war
-- domain/forge
-- domain/knowledge
-- domain/war
-aliases: ["Moradin"]
+  - compendium/src/5e/dmg
+  - deity/dawn-war
+  - domain/forge
+  - domain/knowledge
+  - domain/war
+aliases:
+  - Moradin
 ---
 # Moradin
 *Source: Dungeon Master's Guide p. 10, Xanathar's Guide to Everything p. 18* 

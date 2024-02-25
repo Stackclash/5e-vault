@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/9
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/size/huge
-- monster/type/giant
+  - compendium/src/5e/mm
+  - monster/cr/9
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/size/huge
+  - monster/type/giant
 statblock: inline
-aliases: ["Fire Giant"]
+aliases:
+  - Fire Giant
 ---
 # [[5. Mechanics\Bestiary\Giant\Fire Giant.md|Fire Giant]]
-*Source: Monster Manual p. 154. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 154. Available in the SRD and the Basic Rules.*
 
 Master crafters and organized warriors, fire giants dwell among volcanoes, lava floes, and rocky mountains. They are ruthless militaristic brutes whose mastery of metalwork is legendary.
 
@@ -132,10 +133,14 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 - "SatO"
 - "BMT"
 - "HFStCM"
-"image": "compendium/bestiary/giant/token/fire-giant.png"
+"image": "5. Mechanics/Bestiary/Giant/token/fire-giant.webp"
 ```
 ^statblock
 
 ## Environment
 
 underdark, mountain
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

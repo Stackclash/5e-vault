@@ -1,40 +1,48 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'
 condition: healthy
+image: 4. World Almanac/NPCs/img/bray-martikov.webp
 relationships:
+  - Danika Dorakova|mother
+  - Brom Martikov|brother
   - Urwin Martikov|father
-tags: 
-aliases: 
-pronounced: 
-race: 
-sex: 
-age: 
-alignment: 
-occupation: 
-groups: 
-religions: 
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+tags: null
+aliases: []
+pronounced: BRAY MAR-ti-kov
+race: '[[5. Mechanics/Races/Human.md|Human]]'
+gender: male
+age: 15
+alignment: Lawful Good
+occupation: []
+groups:
+  - Keepers of the Feather
+religions: []
+personality: 'Eager, hardworking, a bit naive'
+ideal: Family and tradition hold the keys to strength and unity.
+bond: 'His family, the winery, and his burgeoning duties as a Keeper of the Feather'
+flaw: His youth and inexperience sometimes lead to recklessness
+goals: >-
+  To prove himself to his family and as a Keeper of the Feather, to protect his
+  home from Strahd's forces
+likes: 'Adventures, stories of heroism, the outdoors'
+dislikes: 'Threats to his family, the oppression of Strahd, boredom'
 ---
 
 > [!infobox]
 > # `=this.file.name`
-> **Pronounced:**  "`INPUT[text:pronounced]`"
-> ![[4. World Almanac/NPCs/img/bray-martikov.webp|cover hm-sm]] 
+> **Pronounced:**  `INPUT[text:pronounced]`
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```
 > ###### Bio
 >  |
 >  ---|---|
 > **Race** | `INPUT[suggester(optionQuery("5. Mechanics/Races")):race]` |
-> **Sex** | `INPUT[inlineSelect(option(male),option(female)):sex]` |
+> **Gender** | `INPUT[inlineSelect(option(male),option(female)):gender]` |
 > **Age** | `INPUT[number:age]` |
-> **Alignment** | `INPUT[inlineSelect(option(lawful good),option(neutral good),option(chaotic good),option(lawful neutral),option(neutral),option(chaotic neutral),option(lawful evil),option(netural evil),option(chaotic evil)):alignment]` |
+> **Alignment** | `INPUT[inlineSelect(option(Lawful Good),option(Neutral Good),option(Chaotic Good),option(Lawful Neutral),option(Neutral),option(Chaotic Neutral),option(Lawful Evil),option(Neutral Evil),option(Chaotic Evil)):alignment]` |
 > **Condition** | `INPUT[inlineSelect(option(healthy),option(injured),option(dead)):condition]` |
 > ###### Info
 >  |
@@ -46,39 +54,68 @@ dislikes:
 > **Current Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 # **`=this.file.name`**
+*Source: Curse of Strahd p. 98*
+
 TBD
 
 ## Traits/Goals
 > [!column] Traits
 >> [!metadata|text-Center bg-c-gray] Personality
->> `INPUT[text:personality]`
+>> `INPUT[textArea:personality]`
 >
 >> [!metadata|text-Center bg-c-gray] Ideal
->> `INPUT[text:ideal]`
+>> `INPUT[textArea:ideal]`
 >
 >> [!metadata|text-Center bg-c-gray] Bond
->> `INPUT[text:bond]`
+>> `INPUT[textArea:bond]`
 >
 >> [!metadata|text-Center bg-c-gray] Flaw
->> `INPUT[text:flaw]`
+>> `INPUT[textArea:flaw]`
 >
 >> [!metadata|text-Center bg-c-green] Likes
->> `INPUT[text:likes]`
+>> `INPUT[textArea:likes]`
 >
 >> [!metadata|text-Center bg-c-red] Dislikes
->> `INPUT[text:dislikes]`
+>> `INPUT[textArea:dislikes]`
 
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
 
 ## Relationships
+`BUTTON[add-relationship,remove-relationship]`
+```meta-bind-button
+style: primary
+label: Add Relationship
+id: add-relationship
+hidden: true
+actions:
+  - type: command
+    command: templater-obsidian:insert-templater
+  - type: input
+    str: add
+  - type: input
+    str: relationship
+```
+```meta-bind-button
+style: destructive
+label: Remove Relationship
+id: remove-relationship
+hidden: true
+actions:
+  - type: command
+    command: templater-obsidian:insert-templater
+  - type: input
+    str: remove
+  - type: input
+    str: relationship
+```
 ```dataviewjs
 await dv.view("npcRelationships", { current: dv.current() })
 ```
 
 ## Stats
 ```statblock
-"name": "Bray Martikov (CoS)"
+"name": "Bray Martikov"
 "size": "Small"
 "type": "humanoid"
 "subtype": "human, shapechanger"
@@ -108,7 +145,8 @@ await dv.view("npcRelationships", { current: dv.current() })
   "name": "Shapechanger"
 - "desc": "Bray can mimic simple sounds it has heard, such as a person whispering,\
     \ a baby crying, or an animal chittering. A creature that hears the sounds can\
-    \ tell they are imitations with a successful DC 10 Wisdom (Insight) check."
+    \ tell they are imitations with a successful DC 10 Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight|Insight]])\
+    \ check."
   "name": "Mimicry"
 - "desc": "Bray regains 10 hit points at the start of its turn. If Bray takes damage\
     \ from a silvered weapon or a spell, this trait doesn't function at the start\
@@ -131,7 +169,7 @@ await dv.view("npcRelationships", { current: dv.current() })
   "name": "Hand Crossbow (Human or Hybrid Form Only)"
 "source":
 - "CoS"
-"image": "4. World Almanac/NPCs/token/bray-martikov.png"
+"image": "4. World Almanac/NPCs/token/bray-martikov-cos.webp"
 ```
 ^statblock
 

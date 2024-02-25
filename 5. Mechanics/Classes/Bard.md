@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/bard
-- compendium/src/5e/phb
-aliases: ["Bard"]
+  - class/bard
+  - compendium/src/5e/phb
+aliases:
+  - Bard
 ---
 # Bard
 *Source: Player's Handbook p. 51. Available in the SRD.*  
@@ -158,6 +159,8 @@ If your character is just starting out, your ultimate defining work is likely in
 
 **Defining Work**
 
+`dice: [[Bard.md#^defining-work]]`
+
 | dice: d6 | Defining Work |
 |----------|---------------|
 | 1 | "The Three Flambinis," a ribald song concerning mistaken identities and unfettered desire |
@@ -177,6 +180,8 @@ You might have an "off the rack" instrument, perhaps because it's all you can af
 
 **Instrument**
 
+`dice: [[Bard.md#^instrument]]`
+
 | dice: d6 | Instrument |
 |----------|------------|
 | 1 | A masterfully crafted halfling fiddle |
@@ -195,6 +200,8 @@ Almost every bard has suffered at least one bad experience in front of an audien
 The ways that a performance can go wrong are as varied as the fish in the sea. No matter what sort of disaster might occur, however, a bard has the courage and the confidence to rebound from it—either pressing on with the show (if possible) or promising to come back tomorrow with a new performance that's guaranteed to please.
 
 **Embarrassment**
+
+`dice: [[Bard.md#^embarrassment]]`
 
 | dice: d6 | Embarrassment |
 |----------|---------------|
@@ -293,7 +300,7 @@ The extra hit points increase when you reach certain levels in this class: to `d
 ### Magical Inspiration (Level 2)
 _Source: Tasha's Cauldron of Everything p. 27_
 
-*2nd-level bard [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+*2nd-level bard [[/5. Mechanics/Rules/Variant Rules/Optional Class Features.md\|optional class features]]*
 
 If a creature has a Bardic Inspiration die from you and casts a spell that restores hit points or deals damage, the creature can roll that die and choose a target affected by the spell. Add the number rolled as a bonus to the hit points regained or the damage dealt. The Bardic Inspiration die is then lost.
 
@@ -316,7 +323,7 @@ If your DM allows the use of feats, you may instead take a feat.
 ### Bardic Versatility (Level 4)
 _Source: Tasha's Cauldron of Everything p. 27_
 
-*4th-level bard [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+*4th-level bard [[/5. Mechanics/Rules/Variant Rules/Optional Class Features.md\|optional class features]]*
 
 Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, representing a change in focus as you use your skills and magic:
 

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/phb
-- subclass/paladin/devotion
-aliases: ["Oath of Devotion"]
+  - compendium/src/5e/phb
+  - subclass/paladin/devotion
+aliases:
+  - Oath of Devotion
 ---
 # Oath of Devotion
 *[[Paladin.md\|Paladin]]: Sacred Oath*  

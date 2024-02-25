@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/phb
-- feat
-aliases: ["Keen Mind"]
+  - compendium/src/5e/phb
+  - feat
+aliases:
+  - Keen Mind
 ---
 # Keen Mind
 *Source: Player's Handbook p. 167*  

@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Chamber Purpose; Dungeon: Temple or Shrine"]
+  - compendium/src/5e/dmg
+aliases:
+  - 'Chamber Purpose; Dungeon: Temple or Shrine'
 ---
 # Chamber Purpose; Dungeon: Temple or Shrine
 *Source: Dungeon Master's Guide p. 292* 
 
-`dice: [[Chamber Purpose Dungeon Temple Or Shrine.md#^dungeon-temple-or-shrine]]`
-
 **Dungeon: Temple or Shrine**
+
+`dice: [[Chamber Purpose Dungeon Temple Or Shrine.md#^dungeon-temple-or-shrine]]`
 
 | dice: d100 | Purpose |
 |------------|---------|

@@ -1,1 +1,1 @@
-![[04 Chapter-2 The Lands Of Barovia#Barovian Lore]]
+![[04 Chapter 2 The Lands Of Barovia#Barovian Lore]]

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/phb
-- feat
-aliases: ["Spell Sniper"]
+  - compendium/src/5e/phb
+  - feat
+aliases:
+  - Spell Sniper
 ---
 # Spell Sniper
 *Source: Player's Handbook p. 170*  

@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 location: "[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]"
-owners: 
+owners: []
 staff:
   - "[[4. World Almanac/NPCs/Parriwimple.md|Parriwimple]]"
 cost_modifier: 1
-items:
+items: 
 ---
 > [!infobox]
 > # `=this.file.name`

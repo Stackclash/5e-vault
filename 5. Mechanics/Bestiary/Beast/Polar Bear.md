@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/2
-- monster/environment/arctic
-- monster/environment/underdark
-- monster/size/large
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/2
+  - monster/environment/arctic
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/beast
 statblock: inline
-aliases: ["Polar Bear"]
+aliases:
+  - Polar Bear
 ---
 # [[5. Mechanics\Bestiary\Beast\Polar Bear.md|Polar Bear]]
-*Source: Monster Manual p. 334. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 334. Available in the SRD and the Basic Rules.*
 
 ```statblock
 "name": "Polar Bear"
@@ -56,10 +57,14 @@ aliases: ["Polar Bear"]
 - "IMR"
 - "EGW"
 - "IDRotF"
-"image": "compendium/bestiary/beast/token/polar-bear.png"
+"image": "5. Mechanics/Bestiary/Beast/token/polar-bear.webp"
 ```
 ^statblock
 
 ## Environment
 
 underdark, arctic
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

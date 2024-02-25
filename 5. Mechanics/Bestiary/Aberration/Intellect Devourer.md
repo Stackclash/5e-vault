@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/2
-- monster/environment/underdark
-- monster/size/tiny
-- monster/type/aberration
+  - compendium/src/5e/mm
+  - monster/cr/2
+  - monster/environment/underdark
+  - monster/size/tiny
+  - monster/type/aberration
 statblock: inline
-aliases: ["Intellect Devourer"]
+aliases:
+  - Intellect Devourer
 ---
 # [[5. Mechanics\Bestiary\Aberration\Intellect Devourer.md|Intellect Devourer]]
-*Source: Monster Manual p. 191, Eberron: Rising from the Last War*  
+*Source: Monster Manual p. 191, Eberron: Rising from the Last War*
 
 An intellect devourer resembles a walking brain protected by a crusty covering and set on bestial clawed legs. This foul aberration feeds on the intelligence of sentient creatures, taking over a victim's body on behalf of its mind flayer masters.
 
@@ -95,10 +96,14 @@ An intellect devourer consumes a creature's mind and memories, then turns the ho
 - "WDMM"
 - "ERLW"
 - "PaBTSO"
-"image": "compendium/bestiary/aberration/token/intellect-devourer.png"
+"image": "5. Mechanics/Bestiary/Aberration/token/intellect-devourer.webp"
 ```
 ^statblock
 
 ## Environment
 
 underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

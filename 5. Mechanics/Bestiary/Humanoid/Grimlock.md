@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-4
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/humanoid/grimlock
+  - compendium/src/5e/mm
+  - monster/cr/1-4
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/humanoid/grimlock
 statblock: inline
-aliases: ["Grimlock"]
+aliases:
+  - Grimlock
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Grimlock.md|Grimlock]]
-*Source: Monster Manual p. 175. Available in the SRD.*  
+*Source: Monster Manual p. 175. Available in the SRD.*
 
 The degenerate subterranean grimlocks were once human, but their worship of the mind flayers over generations of prowling the Underdark transformed them into blind, monstrous cannibals long ago.
 
@@ -66,8 +67,8 @@ Grimlocks still venerate the mind flayers, serving them whenever possible. Griml
 - "desc": "The grimlock has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
     \ checks that rely on hearing or smell."
   "name": "Keen Hearing and Smell"
-- "desc": "The grimlock has advantage on Dexterity (Stealth) checks made to hide in\
-    \ rocky terrain."
+- "desc": "The grimlock has advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]])\
+    \ checks made to hide in rocky terrain."
   "name": "Stone Camouflage"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
@@ -79,10 +80,14 @@ Grimlocks still venerate the mind flayers, serving them whenever possible. Griml
 - "WDMM"
 - "PaBTSO"
 - "GHLoE"
-"image": "compendium/bestiary/humanoid/token/grimlock.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/grimlock.webp"
 ```
 ^statblock
 
 ## Environment
 
 underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

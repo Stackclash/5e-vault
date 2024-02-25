@@ -2,19 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/attunement/required
-- item/rarity/rare
-- item/tier/major
-- item/wondrous/wondrous-item
-aliases: 
-- "Sword of Wounding"
-- "Longsword of Wounding"
-- "Double-Bladed Scimitar of Wounding"
-- "Greatsword of Wounding"
-- "Rapier of Wounding"
-- "Shortsword of Wounding"
-- "Scimitar of Wounding"
+  - compendium/src/5e/dmg
+  - item/attunement/required
+  - item/rarity/rare
+  - item/tier/major
+  - item/wondrous/wondrous-item
+aliases:
+  - Sword of Wounding
+  - Longsword of Wounding
+  - Double-Bladed Scimitar of Wounding
+  - Greatsword of Wounding
+  - Rapier of Wounding
+  - Shortsword of Wounding
+  - Scimitar of Wounding
 ---
 # Sword of Wounding
 *Generic Variant, major, rare (requires attunement)*  

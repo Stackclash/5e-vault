@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Tools"]
+  - compendium/src/5e/phb
+aliases:
+  - Tools
 ---
 # Tools
 *Source: Player's Handbook p. 154* 
-
-`dice: [[Tools.md#^table]]`
 
 | Item | Cost | Weight |
 |------|------|--------|
@@ -56,4 +55,3 @@ aliases: ["Tools"]
 ^item-cost-weight
 
 * See the "Mounts and Vehicles" section.
-^table

@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-2
-- monster/environment/urban
-- monster/size/large
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/1-2
+  - monster/environment/urban
+  - monster/size/large
+  - monster/type/beast
 statblock: inline
-aliases: ["Warhorse"]
+aliases:
+  - Warhorse
 ---
 # [[5. Mechanics\Bestiary\Beast\Warhorse.md|Warhorse]]
-*Source: Monster Manual p. 340, Curse of Strahd. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 340, Curse of Strahd. Available in the SRD and the Basic Rules.*
 
 ```statblock
 "name": "Warhorse"
@@ -55,10 +56,14 @@ aliases: ["Warhorse"]
 - "CRCotN"
 - "DSotDQ"
 - "DoDk"
-"image": "compendium/bestiary/beast/token/warhorse.png"
+"image": "5. Mechanics/Bestiary/Beast/token/warhorse.webp"
 ```
 ^statblock
 
 ## Environment
 
 urban
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

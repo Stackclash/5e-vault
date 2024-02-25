@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Random Settlements; Known For Its..."]
+  - compendium/src/5e/dmg
+aliases:
+  - Random Settlements; Known For Its...
 ---
 # Random Settlements; Known For Its...
 *Source: Dungeon Master's Guide p. 112* 
 
-`dice: [[Random Settlements Known For Its.md#^known-for-its]]`
-
 **Known For Its...**
+
+`dice: [[Random Settlements Known For Its.md#^known-for-its]]`
 
 | dice: d20 | Feature |
 |-----------|---------|

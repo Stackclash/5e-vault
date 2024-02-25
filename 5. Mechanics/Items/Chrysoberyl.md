@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/wealth
-aliases: 
-- "Chrysoberyl"
+  - compendium/src/5e/dmg
+  - item/wealth/gemstone
+aliases:
+  - Chrysoberyl
 cost: 10000
 ---
 # Chrysoberyl
-*Treasure*  
+*Gemstone*  
 
 - **Cost**: 100 gp
 

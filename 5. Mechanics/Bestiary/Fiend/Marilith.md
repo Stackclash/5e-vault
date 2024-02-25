@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/16
-- monster/size/large
-- monster/type/fiend/demon
+  - compendium/src/5e/mm
+  - monster/cr/16
+  - monster/size/large
+  - monster/type/fiend/demon
 statblock: inline
-aliases: ["Marilith"]
+aliases:
+  - Marilith
 ---
 # [[5. Mechanics\Bestiary\Fiend\Marilith.md|Marilith]]
-*Source: Monster Manual p. 61, Tasha's Cauldron of Everything. Available in the SRD.*  
+*Source: Monster Manual p. 61, Tasha's Cauldron of Everything. Available in the SRD.*
 
 Terrible to behold, a marilith has the lower body of a great serpent and the upper torso of a humanoid female with six arms. Wielding a wicked blade in each of its six hands, a marilith is a devastating foe that few can match in battle.
 
@@ -253,6 +254,10 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - "EGW"
 - "TCE"
 - "DoDk"
-"image": "compendium/bestiary/fiend/token/marilith.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/marilith.webp"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

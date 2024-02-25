@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["The Calendar of Harptos"]
+  - compendium/src/5e/dmg
+aliases:
+  - The Calendar of Harptos
 ---
 # The Calendar of Harptos
 *Source: Dungeon Master's Guide p. 33* 
-
-`dice: [[The Calendar Of Harptos.md#^month-name-common-name]]`
 
 | Month | Name | Common Name |
 |-------|------|-------------|

@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/attunement/required
-- item/rarity/uncommon
-- item/tier/major
-- item/wondrous
-aliases: 
-- "Amulet of Proof against Detection and Location"
+  - compendium/src/5e/dmg
+  - item/attunement/required
+  - item/rarity/uncommon
+  - item/tier/major
+  - item/wondrous
+aliases:
+  - Amulet of Proof against Detection and Location
 ---
 # Amulet of Proof against Detection and Location
 *Wondrous Item, major, uncommon (requires attunement)*  

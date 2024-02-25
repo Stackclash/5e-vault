@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/5
-- monster/environment/forest
-- monster/size/large
-- monster/type/celestial
+  - compendium/src/5e/mm
+  - monster/cr/5
+  - monster/environment/forest
+  - monster/size/large
+  - monster/type/celestial
 statblock: inline
-aliases: ["Unicorn"]
+aliases:
+  - Unicorn
 ---
 # [[5. Mechanics\Bestiary\Celestial\Unicorn.md|Unicorn]]
-*Source: Monster Manual p. 294, Tasha's Cauldron of Everything. Available in the SRD.*  
+*Source: Monster Manual p. 294, Tasha's Cauldron of Everything. Available in the SRD.*
 
 Unicorns dwell in enchanted forests. Unrelated to the horses it resembles, a unicorn is a celestial creature that wanders sylvan realms, its white form glimmering like starlight.
 
@@ -127,10 +128,14 @@ A unicorn's lair might be an ancient ruin overgrown with vines, a misty clearing
 - "WBtW"
 - "KftGV"
 - "SatO"
-"image": "compendium/bestiary/celestial/token/unicorn.png"
+"image": "5. Mechanics/Bestiary/Celestial/token/unicorn.webp"
 ```
 ^statblock
 
 ## Environment
 
 forest
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

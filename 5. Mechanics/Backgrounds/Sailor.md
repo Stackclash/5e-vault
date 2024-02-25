@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
-- background
-- compendium/src/5e/phb
-aliases: ["Sailor"]
+  - background
+  - compendium/src/5e/phb
+aliases:
+  - Sailor
 ---
 # Sailor
 *Source: Player's Handbook p. 139*  
 
 - **Skill Proficiencies.** [[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]], [[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]  
 - **Tool Proficiencies.** [[5. Mechanics/Items/Navigators Tools.md\|Navigator's tools]], vehicles (water)  
-- **Equipment.** A belaying pin ([[5. Mechanics/Items/Club.md\|club]]), [[5. Mechanics/Items/Silk Rope-50 Feet.md\|silk rope (50 feet)]], a lucky charm such as a rabbit foot or a small stone with a hole in the center (or you may roll for a random [[5. Mechanics/Items/Trinket.md\|trinket]] on the Trinkets table in chapter 5), a set of [[5. Mechanics/Items/Common Clothes.md\|common clothes]], and a belt [[5. Mechanics/Items/Pouch.md\|pouch]] containing 10 gp  
+- **Equipment.** A belaying pin ([[5. Mechanics/Items/Club.md\|club]]), [[5. Mechanics/Items/Silk Rope 50 Feet.md\|silk rope (50 feet)]], a lucky charm such as a rabbit foot or a small stone with a hole in the center (or you may roll for a random [[5. Mechanics/Items/Trinket.md\|trinket]] on the Trinkets table in chapter 5), a set of [[5. Mechanics/Items/Common Clothes.md\|common clothes]], and a belt [[5. Mechanics/Items/Pouch.md\|pouch]] containing 10 gp  
 
 You sailed on a seagoing vessel for years. In that time, you faced down mighty storms, monsters of the deep, and those who wanted to sink your craft to the bottomless depths. Your first love is the distant line of the horizon, but the time has come to try your hand at something new.
 
@@ -27,6 +28,8 @@ When you need to, you can secure free passage on a sailing ship for yourself and
 
 Sailors can be a rough lot, but the responsibilities of life on a ship make them generally reliable as well. Life aboard a ship shapes their outlook and forms their most important attachments.
 
+`dice: [[Sailor.md#^personality-trait]]`
+
 | dice: d8 | Personality Trait |
 |----------|-------------------|
 | 1 | My friends know they can rely on me, no matter what. |
@@ -39,6 +42,8 @@ Sailors can be a rough lot, but the responsibilities of life on a ship make them
 | 8 | I like a job well done, especially if I can convince someone else to do it. |
 ^personality-trait
 
+`dice: [[Sailor.md#^ideal]]`
+
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Respect. The thing that keeps a ship together is mutual respect between captain and crew. (Good) |
@@ -49,6 +54,8 @@ Sailors can be a rough lot, but the responsibilities of life on a ship make them
 | 6 | Aspiration. Someday, I'll own my own ship and chart my own destiny. (Any) |
 ^ideal
 
+`dice: [[Sailor.md#^bond]]`
+
 | dice: d6 | Bond |
 |----------|------|
 | 1 | I'm loyal to my captain first, everything else second. |
@@ -58,6 +65,8 @@ Sailors can be a rough lot, but the responsibilities of life on a ship make them
 | 5 | I was cheated out of my fair share of the profits, and I want to get my due. |
 | 6 | Ruthless pirates murdered my captain and crewmates, plundered our ship, and left me to die. Vengeance will be mine. |
 ^bond
+
+`dice: [[Sailor.md#^flaw]]`
 
 | dice: d6 | Flaw |
 |----------|------|

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/cos
-aliases: ["Appendix B: Death House"]
+  - compendium/src/5e/cos
+aliases:
+  - 'Appendix B: Death House'
 ---
 # Appendix B: Death House
 *Source: Curse of Strahd, p. 211* 
@@ -90,8 +91,8 @@ Characters who remain outside the house can see the mists close in around them, 
 The following areas correspond to labels on the map of the house below.
 
 > [!gallery]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/134-deathhousedm.jpg#gallery\|Map B.1: Death House]]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/135-deathhouseplayer.jpg#gallery\|Player Version]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/134-deathhousedm.webp#gallery\|Map B.1: Death House]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/135-deathhouseplayer.webp#gallery\|Player Version]]
 
 ### 1. Entrance
 
@@ -111,7 +112,7 @@ This oak-paneled room looks like a hunter's den. Mounted above the fireplace is 
 
 Two padded chairs draped in animal furs face the hearth, with an oak table between them supporting a cask of wine, two carved wooden goblets, a pipe rack, and a candelabrum. A chandelier hangs above a cloth-covered table surrounded by four chairs.
 
-Two cabinets stand against the walls. The east cabinet sports a lock that can be picked with thieves' tools and a successful DC 15 Dexterity check. It holds a [[5. Mechanics/Items/Heavy Crossbow.md\|heavy crossbow]], a [[5. Mechanics/Items/Light Crossbow.md\|light crossbow]], a [[5. Mechanics/Items/Hand Crossbow.md\|hand crossbow]], and 20 [[5. Mechanics/Items/Crossbow Bolts-20.md\|bolts]] for each weapon. The north cabinet is unlocked and holds a small box containing a [[5. Mechanics/Items/Playing Card Set.md\|deck of playing cards]] and an assortment of wine glasses.
+Two cabinets stand against the walls. The east cabinet sports a lock that can be picked with thieves' tools and a successful DC 15 Dexterity check. It holds a [[5. Mechanics/Items/Heavy Crossbow.md\|heavy crossbow]], a [[5. Mechanics/Items/Light Crossbow.md\|light crossbow]], a [[5. Mechanics/Items/Hand Crossbow.md\|hand crossbow]], and 20 [[5. Mechanics/Items/Crossbow Bolts 20.md\|bolts]] for each weapon. The north cabinet is unlocked and holds a small box containing a [[5. Mechanics/Items/Playing Card Set.md\|deck of playing cards]] and an assortment of wine glasses.
 
 #### Trapdoor
 
@@ -233,7 +234,7 @@ This dark room contains a wooden tub with clawed feet, a small iron stove with a
 
 ### 14. Storage Room
 
-Dusty shelves line the walls of this room. A few of the shelves have folded sheets, blankets, and old bars of soap on them. A cobweb-covered [[5. Mechanics/Bestiary/Construct/Broom Of Animated Attack (COS).md\|broom of animated attack]] (see appendix D) leans against the far wall; it attacks any creature approaching within 5 feet of it.
+Dusty shelves line the walls of this room. A few of the shelves have folded sheets, blankets, and old bars of soap on them. A cobweb-covered [[5. Mechanics/Bestiary/Construct/Broom Of Animated Attack.md\|broom of animated attack]] (see appendix D) leans against the far wall; it attacks any creature approaching within 5 feet of it.
 
 ### 15. Nursemaid's Suite
 

@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/2
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/humanoid/quaggoth
+  - compendium/src/5e/mm
+  - monster/cr/2
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/humanoid/quaggoth
 statblock: inline
-aliases: ["Quaggoth"]
+aliases:
+  - Quaggoth
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Quaggoth.md|Quaggoth]]
-*Source: Monster Manual p. 256*  
+*Source: Monster Manual p. 256*
 
 Savage and territorial, quaggoths climb the chasms of the Underdark. They maul their foes in a frenzy, becoming even more murderous in the face of death.
 
@@ -76,10 +77,14 @@ Generations of hunting venomous subterranean creatures and perpetual exposure to
 - "IDRotF"
 - "LoX"
 - "PaBTSO"
-"image": "compendium/bestiary/humanoid/token/quaggoth.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/quaggoth.webp"
 ```
 ^statblock
 
 ## Environment
 
 underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

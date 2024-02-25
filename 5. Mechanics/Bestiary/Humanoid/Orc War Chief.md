@@ -2,22 +2,23 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/4
-- monster/environment/arctic
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/humanoid/orc
+  - compendium/src/5e/mm
+  - monster/cr/4
+  - monster/environment/arctic
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/humanoid/orc
 statblock: inline
-aliases: ["Orc War Chief"]
+aliases:
+  - Orc War Chief
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Orc War Chief.md|Orc War Chief]]
-*Source: Monster Manual p. 246*  
+*Source: Monster Manual p. 246*
 
 Orcs are savage raiders and pillagers with stooped postures, low foreheads, and piggish faces with prominent lower canines that resemble tusks.
 
@@ -132,10 +133,14 @@ Gruumsh bestows special blessings upon war chiefs who prove themselves in battle
 - "IDRotF"
 - "WBtW"
 - "CRCotN"
-"image": "compendium/bestiary/humanoid/token/orc-war-chief.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/orc-war-chief.webp"
 ```
 ^statblock
 
 ## Environment
 
 underdark, mountain, grassland, forest, swamp, hill, arctic
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/rare
-- item/tier/minor
-- item/wondrous
-aliases: 
-- "Bag of Beans"
+  - compendium/src/5e/dmg
+  - item/rarity/rare
+  - item/tier/minor
+  - item/wondrous
+aliases:
+  - Bag of Beans
 ---
 # Bag of Beans
 *Wondrous Item, minor, rare*  
@@ -20,6 +20,8 @@ Inside this heavy cloth bag are `dice: 3d4|avg` (`3d4`) dry beans. The bag weigh
 If you dump the bag's contents out on the ground, they explode in a 10-foot radius, extending from the beans. Each creature in the area, including you, must make a DC 15 Dexterity saving throw, taking `dice: 5d4|avg` (`5d4`) fire damage on a failed save, or half as much damage on a successful one. The fire ignites flammable objects in the area that aren't being worn or carried.
 
 If you remove a bean from the bag, plant it in dirt or sand, and then water it, the bean produces an effect 1 minute later from the ground where it was planted. The DM can choose an effect from the following table, determine it randomly, or create an effect.
+
+`dice: [[Bag Of Beans.md#^effect]]`
 
 | dice: d100 | Effect |
 |------------|--------|

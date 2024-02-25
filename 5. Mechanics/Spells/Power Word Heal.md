@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/sorcerer/divine-soul
-- spell/level/9
-- spell/school/evocation
-aliases: ["Power Word Heal"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/sorcerer/divine-soul
+  - spell/level/9
+  - spell/school/evocation
+aliases:
+  - Power Word Heal
 ---
 # Power Word Heal
 %%-- Embedded content starts on the next line. --%%
@@ -20,6 +21,6 @@ aliases: ["Power Word Heal"]
 
 A wave of healing energy washes over the creature you touch. The target regains all its hit points. If the creature is [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]], or [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]], the condition ends. If the creature is [[/5. Mechanics/Rules/Conditions.md#prone\|prone]], it can use its reaction to stand up. This spell has no effect on undead or constructs.
 
-**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]]
+**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]]
 
 *Source: Player's Handbook p. 266*

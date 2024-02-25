@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- compendium/src/5e/dmg
-- object/size/large
-- object/type/siege-weapon
+  - compendium/src/5e/dmg
+  - object/size/large
+  - object/type/siege-weapon
 statblock: inline
-aliases: ["Ballista"]
+aliases:
+  - Ballista
 ---
 # Ballista
 *Source: Dungeon Master's Guide p. 255*  
@@ -14,7 +15,7 @@ aliases: ["Ballista"]
 A ballista is a massive crossbow that fires heavy bolts. Before it can be fired, it must be loaded and aimed. It takes one action to load the weapon, one action to aim it, and one action to fire it.
 ```ad-statblock
 title: Ballista
-![[5. Mechanics/Objects/token/ballista.png#token]]
+![[5. Mechanics/Objects/token/ballista.webp#token]]
 *Large Siege weapon*
 
 - **Armor Class** 15 
@@ -23,7 +24,7 @@ title: Ballista
 
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-||
+|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
 
 - **Damage Immunities** poison, psychic
 

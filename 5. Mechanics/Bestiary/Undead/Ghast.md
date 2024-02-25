@@ -2,18 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/2
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/undead
+  - compendium/src/5e/mm
+  - monster/cr/2
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
-aliases: ["Ghast"]
+aliases:
+  - Ghast
 ---
 # [[5. Mechanics\Bestiary\Undead\Ghast.md|Ghast]]
-*Source: Monster Manual p. 148, Curse of Strahd. Available in the SRD.*  
+*Source: Monster Manual p. 148, Curse of Strahd. Available in the SRD.*
 
 Ghouls roam the night in packs, driven by an insatiable hunger for humanoid flesh.
 
@@ -86,10 +87,14 @@ Orcus sometimes infuses a ghoul with a stronger dose of abyssal energy, making a
 - "BGDIA"
 - "DSotDQ"
 - "PSI"
-"image": "compendium/bestiary/undead/token/ghast.png"
+"image": "5. Mechanics/Bestiary/Undead/token/ghast.webp"
 ```
 ^statblock
 
 ## Environment
 
 underdark, swamp, urban
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

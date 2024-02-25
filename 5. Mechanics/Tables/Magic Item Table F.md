@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Magic Item Table F"]
+  - compendium/src/5e/dmg
+aliases:
+  - Magic Item Table F
 ---
 # Magic Item Table F
 *Source: Dungeon Master's Guide p. 144* 
 
-`dice: [[Magic Item Table F.md#^magic-item-table-f]]`
-
 **Magic Item Table F**
+
+`dice: [[Magic Item Table F.md#^magic-item-table-f]]`
 
 | dice: d100 | Magic Item |
 |------------|------------|

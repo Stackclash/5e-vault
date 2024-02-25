@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-8
-- monster/environment/coastal
-- monster/environment/underwater
-- monster/size/medium
-- monster/type/humanoid/merfolk
+  - compendium/src/5e/mm
+  - monster/cr/1-8
+  - monster/environment/coastal
+  - monster/environment/underwater
+  - monster/size/medium
+  - monster/type/humanoid/merfolk
 statblock: inline
-aliases: ["Merfolk"]
+aliases:
+  - Merfolk
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Merfolk.md|Merfolk]]
-*Source: Monster Manual p. 218. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 218. Available in the SRD and the Basic Rules.*
 
 Aquatic humanoids with the upper body of a human and the lower body of a fish, merfolk adorn their skin and scales with shell decorations.
 
@@ -63,10 +64,14 @@ Merfolk defend their communities with spears crafted from whatever materials the
 - "GoS"
 - "WBtW"
 - "JttRC"
-"image": "compendium/bestiary/humanoid/token/merfolk.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/merfolk.webp"
 ```
 ^statblock
 
 ## Environment
 
 underwater, coastal
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

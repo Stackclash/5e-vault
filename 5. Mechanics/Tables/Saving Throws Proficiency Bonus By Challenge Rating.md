@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/mm
-aliases: ["Saving Throws; Proficiency Bonus by Challenge Rating"]
+  - compendium/src/5e/mm
+aliases:
+  - Saving Throws; Proficiency Bonus by Challenge Rating
 ---
 # Saving Throws; Proficiency Bonus by Challenge Rating
 *Source: Monster Manual p. 8* 
-
-`dice: [[Saving Throws Proficiency Bonus By Challenge Rating.md#^proficiency-bonus-by-challenge-rating]]`
 
 **Proficiency Bonus by Challenge Rating**
 

@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Doors; Door Type"]
+  - compendium/src/5e/dmg
+aliases:
+  - Doors; Door Type
 ---
 # Doors; Door Type
 *Source: Dungeon Master's Guide p. 291* 
 
-`dice: [[Doors Door Type.md#^door-type]]`
-
 **Door Type**
+
+`dice: [[Doors Door Type.md#^door-type]]`
 
 | dice: d20 | Door Type |
 |-----------|-----------|

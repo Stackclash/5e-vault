@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Random Traps; Trap Trigger"]
+  - compendium/src/5e/dmg
+aliases:
+  - Random Traps; Trap Trigger
 ---
 # Random Traps; Trap Trigger
 *Source: Dungeon Master's Guide p. 297* 
 
-`dice: [[Random Traps Trap Trigger.md#^trap-trigger]]`
-
 **Trap Trigger**
+
+`dice: [[Random Traps Trap Trigger.md#^trap-trigger]]`
 
 | dice: d6 | Trigger |
 |----------|---------|

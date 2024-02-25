@@ -2,13 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Psychic Wind"]
+  - compendium/src/5e/dmg
+aliases:
+  - Psychic Wind
 ---
 # Psychic Wind
 *Source: Dungeon Master's Guide p. 47* 
 
 **Psychic Wind Effects**
+
+`dice: [[Psychic Wind.md#^psychic-wind-effects]]`
 
 | dice: d20 | Location Effect |
 |-----------|-----------------|
@@ -17,6 +20,8 @@ aliases: ["Psychic Wind"]
 | 13-16 | Lost, at the end of the travel time, characters arrive at a location other than the intended destination |
 | 17-20 | Sent through color pool to a random plane. Roll on [[5. Mechanics/Tables/Astral Color Pools.md\|Astral Color Pools]] table |
 ^psychic-wind-effects
+
+`dice: [[Psychic Wind.md#^mental-effect]]`
 
 | dice: d20 | Mental Effect |
 |-----------|---------------|

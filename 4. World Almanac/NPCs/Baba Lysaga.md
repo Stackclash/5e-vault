@@ -1,39 +1,44 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: '[[4. World Almanac/Places of Interest/Ruins of Berez.md|Ruins of Berez]]'
 condition: healthy
+image: 4. World Almanac/NPCs/img/baba-lysaga.webp
 relationships: []
-tags: 
+tags: null
 aliases: []
-pronounced: 
-race: 
-sex: 
-age: 
-alignment: 
-occupation: 
+pronounced: BAH-bah LEE-sah-gah
+race: '[[5. Mechanics/Races/Human.md|Human]]'
+gender: female
+age: 532
+alignment: Chaotic Evil
+occupation: []
 groups: []
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+personality: 'Mad, obsessed, powerful'
+ideal: No love is greater than a mother's love for her son.
+bond: I am the mother of Strahd. Anyone who disputes this fact can rot.
+flaw: >-
+  I will not rest until the last of my son's enemies are destroyed. Her
+  obsession with Strahd blinds her to other threats
+goals: ' To aid Strahd, to destroy his enemies, to gain more arcane power'
+likes: 'Magic, Strahd, her creeping hut'
+dislikes: 'Intruders in Berez, those who oppose Strahd, the light'
 ---
 
 > [!infobox]
 > # `=this.file.name`
-> **Pronounced:**  "`INPUT[text:pronounced]`"
-> ![[4. World Almanac/NPCs/img/baba-lysaga.webp|cover hm-sm]] 
+> **Pronounced:**  `INPUT[text:pronounced]`
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```
 > ###### Bio
 >  |
 >  ---|---|
 > **Race** | `INPUT[suggester(optionQuery("5. Mechanics/Races")):race]` |
-> **Sex** | `INPUT[inlineSelect(option(male),option(female)):sex]` |
+> **Gender** | `INPUT[inlineSelect(option(male),option(female)):gender]` |
 > **Age** | `INPUT[number:age]` |
-> **Alignment** | `INPUT[inlineSelect(option(lawful good),option(neutral good),option(chaotic good),option(lawful neutral),option(neutral),option(chaotic neutral),option(lawful evil),option(netural evil),option(chaotic evil)):alignment]` |
+> **Alignment** | `INPUT[inlineSelect(option(Lawful Good),option(Neutral Good),option(Chaotic Good),option(Lawful Neutral),option(Neutral),option(Chaotic Neutral),option(Lawful Evil),option(Neutral Evil),option(Chaotic Evil)):alignment]` |
 > **Condition** | `INPUT[inlineSelect(option(healthy),option(injured),option(dead)):condition]` |
 > ###### Info
 >  |
@@ -45,6 +50,8 @@ dislikes:
 > **Current Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 # **`=this.file.name`**
+*Source: Curse of Strahd p. 228*
+
 Two women gave life to Strahd von Zarovich. The first was Queen Ravenovia van Roeyen, Strahd's biological mother. The second was the queen's midwife, a devout follower of Mother Night named Baba Lysaga. Although it was the former who raised Strahd and enabled him to follow in his father's footsteps, it was the latter who sensed a potential for greatness and darkness in Strahd surpassing that of any other mortal. Lysaga believed then, as she believes now, that she is Strahd's true mother.
 
 ## Other Mother
@@ -86,34 +93,61 @@ The goddess Mother Night has bestowed magical gifts on Baba Lysaga as rewards fo
 ## Traits/Goals
 > [!column] Traits
 >> [!metadata|text-Center bg-c-gray] Personality
->> `INPUT[text:personality]`
+>> `INPUT[textArea:personality]`
 >
 >> [!metadata|text-Center bg-c-gray] Ideal
->> `INPUT[text:ideal]`
+>> `INPUT[textArea:ideal]`
 >
 >> [!metadata|text-Center bg-c-gray] Bond
->> `INPUT[text:bond]`
+>> `INPUT[textArea:bond]`
 >
 >> [!metadata|text-Center bg-c-gray] Flaw
->> `INPUT[text:flaw]`
+>> `INPUT[textArea:flaw]`
 >
 >> [!metadata|text-Center bg-c-green] Likes
->> `INPUT[text:likes]`
+>> `INPUT[textArea:likes]`
 >
 >> [!metadata|text-Center bg-c-red] Dislikes
->> `INPUT[text:dislikes]`
+>> `INPUT[textArea:dislikes]`
 
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
 
 ## Relationships
+`BUTTON[add-relationship,remove-relationship]`
+```meta-bind-button
+style: primary
+label: Add Relationship
+id: add-relationship
+hidden: true
+actions:
+  - type: command
+    command: templater-obsidian:insert-templater
+  - type: input
+    str: add
+  - type: input
+    str: relationship
+```
+```meta-bind-button
+style: destructive
+label: Remove Relationship
+id: remove-relationship
+hidden: true
+actions:
+  - type: command
+    command: templater-obsidian:insert-templater
+  - type: input
+    str: remove
+  - type: input
+    str: relationship
+```
 ```dataviewjs
 await dv.view("npcRelationships", { current: dv.current() })
 ```
 
 ## Stats
 ```statblock
-"name": "Baba Lysaga (CoS)"
+"name": "Baba Lysaga"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "human, shapechanger"
@@ -140,14 +174,23 @@ await dv.view("npcRelationships", { current: dv.current() })
 "traits":
 - "desc": "Baba Lysaga is a 16th-level spellcaster. Her spellcasting ability is Intelligence\
     \ (spell save DC 17, dice: d20+9 (+9 to hit) with spell attacks). Baba Lysaga\
-    \ has the following wizard spells prepared:\n\nCantrips (at will): acid splash,\
-    \ fire bolt, light, mage hand, prestidigitation\n\n1st level (4 slots): detect\
-    \ magic, magic missile, sleep, witch bolt\n\n2nd level (3 slots): crown of\
-    \ madness, enlarge/reduce, misty step\n\n3rd level (3 slots): dispel magic,\
-    \ fireball, lightning bolt\n\n4th level (3 slots): blight, Evard's black tentacles,\
-    \ polymorph\n\n5th level (2 slots): cloudkill, geas, scrying\n\n6th level\
-    \ (1 slots): programmed illusion, true seeing\n\n7th level (1 slots): finger\
-    \ of death, mirage arcane\n\n8th level (1 slots): power word stun"
+    \ has the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Acid Splash.md|acid splash]],\
+    \ [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]], [[5. Mechanics/Spells/Light.md|light]],\
+    \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\
+    \n1st level (4 slots): [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
+    \ [[5. Mechanics/Spells/Magic Missile.md|magic missile]], [[5. Mechanics/Spells/Sleep.md|sleep]],\
+    \ [[5. Mechanics/Spells/Witch Bolt.md|witch bolt]]\n\n2nd level (3 slots): [crown\
+    \ of madness](compendium/spells/crown-of-madness.md), [enlarge/reduce](compendium/spells/enlarge-reduce.md),\
+    \ [[5. Mechanics/Spells/Misty Step.md|misty step]]\n\n3rd level (3 slots): [dispel\
+    \ magic](compendium/spells/dispel-magic.md), [[5. Mechanics/Spells/Fireball.md|fireball]],\
+    \ [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]]\n\n4th level (3 slots):\
+    \ [[5. Mechanics/Spells/Blight.md|blight]], [[5. Mechanics/Spells/Evards Black Tentacles.md|Evard's black tentacles]],\
+    \ [[5. Mechanics/Spells/Polymorph.md|polymorph]]\n\n5th level (2 slots): [[5. Mechanics/Spells/Cloudkill.md|cloudkill]],\
+    \ [[5. Mechanics/Spells/Geas.md|geas]], [[5. Mechanics/Spells/Scrying.md|scrying]]\n\
+    \n6th level (1 slots): [[5. Mechanics/Spells/Programmed Illusion.md|programmed illusion]],\
+    \ [[5. Mechanics/Spells/True Seeing.md|true seeing]]\n\n7th level (1 slots):\
+    \ [[5. Mechanics/Spells/Finger Of Death.md|finger of death]], [[5. Mechanics/Spells/Mirage Arcane.md|mirage arcane]]\n\
+    \n8th level (1 slots): [[5. Mechanics/Spells/Power Word Stun.md|power word stun]]"
   "name": "spells"
 - "desc": "Baba Lysaga can use an action to polymorph into a [[5. Mechanics/Bestiary/Beast/Swarm Of Insects.md|swarm of insects]]\
     \ (flies), or back into her true form. While in swarm form, she has a walking\
@@ -155,7 +198,7 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ with her, but nothing she is carrying does."
   "name": "Shapechanger"
 - "desc": "Baba Lysaga is shielded against divination magic, as though protected by\
-    \ a nondetection spell."
+    \ a [[5. Mechanics/Spells/Nondetection.md|nondetection]] spell."
   "name": "Blessing of Mother Night"
 "actions":
 - "desc": "Baba Lysaga makes three attacks with her quarterstaff."
@@ -171,7 +214,7 @@ await dv.view("npcRelationships", { current: dv.current() })
   "name": "Summon Swarms of Insects (Recharges after a Short or Long Rest)"
 "source":
 - "CoS"
-"image": "4. World Almanac/NPCs/token/baba-lysaga.png"
+"image": "4. World Almanac/NPCs/token/baba-lysaga-cos.webp"
 ```
 ^statblock
 

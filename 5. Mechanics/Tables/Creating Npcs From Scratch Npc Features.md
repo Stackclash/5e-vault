@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Creating NPCs from Scratch; NPC Features"]
+  - compendium/src/5e/dmg
+aliases:
+  - Creating NPCs from Scratch; NPC Features
 ---
 # Creating NPCs from Scratch; NPC Features
 *Source: Dungeon Master's Guide p. 282* 
-
-`dice: [[Creating Npcs From Scratch Npc Features.md#^table]]`
 
 **NPC Features**
 
@@ -42,4 +41,3 @@ aliases: ["Creating NPCs from Scratch; NPC Features"]
 ^npc-features
 
 * See the *Player's Handbook* for descriptions of this race's features, none of which alter the NPC's challenge rating.
-^table

@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/3
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/humanoid/kuo-toa
+  - compendium/src/5e/mm
+  - monster/cr/3
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/humanoid/kuo-toa
 statblock: inline
-aliases: ["Kuo-toa Monitor"]
+aliases:
+  - Kuo-toa Monitor
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Kuo Toa Monitor.md|Kuo-toa Monitor]]
-*Source: Monster Manual p. 198*  
+*Source: Monster Manual p. 198*
 
 Kuo-toa are degenerate fishlike humanoids that once inhabited the shores and islands of the surface world. Long ago humans and their ilk drove the kuo-toa underground, where they dwell in madness and everlasting night. Kuo-toa can no longer abide daylight.
 
@@ -56,7 +57,7 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 
 
 ```statblock
-"name": "Kuo-toa Monitor"
+"name": "Kuo Toa Monitor"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "kuo-toa"
@@ -109,10 +110,14 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 - "MM"
 - "PotA"
 - "GoS"
-"image": "compendium/bestiary/humanoid/token/kuo-toa-monitor.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/kuo-toa-monitor.webp"
 ```
 ^statblock
 
 ## Environment
 
 underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

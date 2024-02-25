@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/wealth
-aliases: 
-- "Painted gold war mask"
+  - compendium/src/5e/dmg
+  - item/wealth/art-object
+aliases:
+  - Painted gold war mask
 cost: 75000
 ---
 # Painted gold war mask
-*Treasure*  
+*Art object*  
 
 - **Cost**: 750 gp
 

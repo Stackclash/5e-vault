@@ -2,18 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/fighter/eldritch-knight
-- spell/class/monk/way-of-shadow
-- spell/class/rogue/arcane-trickster
-- spell/class/sorcerer
-- spell/class/warlock
-- spell/class/wizard
-- spell/class/wizard/school-of-illusion
-- spell/level/cantrip
-- spell/school/illusion
-aliases: ["Minor Illusion"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/fighter/eldritch-knight
+  - spell/class/monk/way-of-shadow
+  - spell/class/rogue/arcane-trickster
+  - spell/class/sorcerer
+  - spell/class/warlock
+  - spell/class/wizard
+  - spell/class/wizard/school-of-illusion
+  - spell/level/cantrip
+  - spell/school/illusion
+aliases:
+  - Minor Illusion
 ---
 # Minor Illusion
 %%-- Embedded content starts on the next line. --%%

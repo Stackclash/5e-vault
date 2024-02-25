@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/0
-- monster/environment/forest
-- monster/environment/hill
-- monster/size/small
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/0
+  - monster/environment/forest
+  - monster/environment/hill
+  - monster/size/small
+  - monster/type/beast
 statblock: inline
-aliases: ["Baboon"]
+aliases:
+  - Baboon
 ---
 # [[5. Mechanics\Bestiary\Beast\Baboon.md|Baboon]]
-*Source: Monster Manual p. 318, Curse of Strahd. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 318, Curse of Strahd. Available in the SRD and the Basic Rules.*
 
 ```statblock
 "name": "Baboon"
@@ -50,10 +51,14 @@ aliases: ["Baboon"]
 - "CoS"
 - "WBtW"
 - "KftGV"
-"image": "compendium/bestiary/beast/token/baboon.png"
+"image": "5. Mechanics/Bestiary/Beast/token/baboon.webp"
 ```
 ^statblock
 
 ## Environment
 
 forest, hill
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

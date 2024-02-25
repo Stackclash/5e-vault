@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/15
-- monster/environment/desert
-- monster/environment/underdark
-- monster/size/gargantuan
-- monster/type/monstrosity
+  - compendium/src/5e/mm
+  - monster/cr/15
+  - monster/environment/desert
+  - monster/environment/underdark
+  - monster/size/gargantuan
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Purple Worm"]
+aliases:
+  - Purple Worm
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Purple Worm.md|Purple Worm]]
-*Source: Monster Manual p. 255. Available in the SRD.*  
+*Source: Monster Manual p. 255. Available in the SRD.*
 
 The massive burrowing monster known as the purple worm terrorizes the creatures of the Underdark as it chews through solid rock in pursuit of prey. A dimwitted, ravenous force of nature, this creature regards anything it encounters as food.
 
@@ -87,10 +88,14 @@ A burrowing purple worm constantly creates new tunnels throughout the Underdark,
 - "PaBTSO"
 - "ToFW"
 - "DoDk"
-"image": "compendium/bestiary/monstrosity/token/purple-worm.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/purple-worm.webp"
 ```
 ^statblock
 
 ## Environment
 
 underdark, desert
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

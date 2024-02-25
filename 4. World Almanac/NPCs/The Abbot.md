@@ -1,38 +1,42 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: null
 condition: healthy
+image: null
 relationships: []
-tags: 
+tags: null
 aliases: []
-pronounced: 
-race: 
-sex: 
-age: 
-alignment: 
-occupation: 
+pronounced: null
+race: null
+gender: null
+age: null
+alignment: Lawful Evil
+occupation: []
 groups: []
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]
 > # `=this.file.name`
-> **Pronounced:**  "`INPUT[text:pronounced]`"
+> **Pronounced:**  `INPUT[text:pronounced]`
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```
 > ###### Bio
 >  |
 >  ---|---|
 > **Race** | `INPUT[suggester(optionQuery("5. Mechanics/Races")):race]` |
-> **Sex** | `INPUT[inlineSelect(option(male),option(female)):sex]` |
+> **Gender** | `INPUT[inlineSelect(option(male),option(female)):gender]` |
 > **Age** | `INPUT[number:age]` |
-> **Alignment** | `INPUT[inlineSelect(option(lawful good),option(neutral good),option(chaotic good),option(lawful neutral),option(neutral),option(chaotic neutral),option(lawful evil),option(netural evil),option(chaotic evil)):alignment]` |
+> **Alignment** | `INPUT[inlineSelect(option(Lawful Good),option(Neutral Good),option(Chaotic Good),option(Lawful Neutral),option(Neutral),option(Chaotic Neutral),option(Lawful Evil),option(Neutral Evil),option(Chaotic Evil)):alignment]` |
 > **Condition** | `INPUT[inlineSelect(option(healthy),option(injured),option(dead)):condition]` |
 > ###### Info
 >  |
@@ -44,39 +48,68 @@ dislikes:
 > **Current Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 # **`=this.file.name`**
+*Source: Curse of Strahd p. 151*
+
 TBD
 
 ## Traits/Goals
 > [!column] Traits
 >> [!metadata|text-Center bg-c-gray] Personality
->> `INPUT[text:personality]`
+>> `INPUT[textArea:personality]`
 >
 >> [!metadata|text-Center bg-c-gray] Ideal
->> `INPUT[text:ideal]`
+>> `INPUT[textArea:ideal]`
 >
 >> [!metadata|text-Center bg-c-gray] Bond
->> `INPUT[text:bond]`
+>> `INPUT[textArea:bond]`
 >
 >> [!metadata|text-Center bg-c-gray] Flaw
->> `INPUT[text:flaw]`
+>> `INPUT[textArea:flaw]`
 >
 >> [!metadata|text-Center bg-c-green] Likes
->> `INPUT[text:likes]`
+>> `INPUT[textArea:likes]`
 >
 >> [!metadata|text-Center bg-c-red] Dislikes
->> `INPUT[text:dislikes]`
+>> `INPUT[textArea:dislikes]`
 
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
 
 ## Relationships
+`BUTTON[add-relationship,remove-relationship]`
+```meta-bind-button
+style: primary
+label: Add Relationship
+id: add-relationship
+hidden: true
+actions:
+  - type: command
+    command: templater-obsidian:insert-templater
+  - type: input
+    str: add
+  - type: input
+    str: relationship
+```
+```meta-bind-button
+style: destructive
+label: Remove Relationship
+id: remove-relationship
+hidden: true
+actions:
+  - type: command
+    command: templater-obsidian:insert-templater
+  - type: input
+    str: remove
+  - type: input
+    str: relationship
+```
 ```dataviewjs
 await dv.view("npcRelationships", { current: dv.current() })
 ```
 
 ## Stats
 ```statblock
-"name": "The Abbot (CoS)"
+"name": "The Abbot"
 "size": "Medium"
 "type": "celestial"
 "alignment": "Lawful Evil"
@@ -98,14 +131,16 @@ await dv.view("npcRelationships", { current: dv.current() })
   "Insight": !!int "9"
   "Perception": !!int "9"
 "damage_resistances": "radiant; bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "charmed, exhaustion, frightened"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]"
 "senses": "darkvision 120 ft., passive Perception 19"
 "languages": "all, telepathy 120 ft."
 "cr": "10"
 "traits":
 - "desc": "The Abbot's spellcasting ability is Charisma (spell save DC 17). The Abbot\
     \ can innately cast the following spells, requiring only verbal components:\n\n\
-    At will: detect evil and good\n\n1/day each: commune, raise dead"
+    At will: [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]]\n\
+    \n1/day each: [[5. Mechanics/Spells/Commune.md|commune]], [[5. Mechanics/Spells/Raise Dead.md|raise dead]]"
   "name": "innate"
 - "desc": "The Abbot's weapon attacks are magical. When The Abbot hits with any weapon,\
     \ the weapon deals an extra dice: 4d8|avg (4d8) radiant damage (included in\
@@ -136,7 +171,7 @@ await dv.view("npcRelationships", { current: dv.current() })
   "name": "Change Shape"
 "source":
 - "CoS"
-"image": "4. World Almanac/NPCs/token/the-abbot.png"
+"image": "4. World Almanac/NPCs/token/the-abbot-cos.webp"
 ```
 ^statblock
 

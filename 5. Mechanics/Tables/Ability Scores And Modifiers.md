@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Ability Scores and Modifiers"]
+  - compendium/src/5e/phb
+aliases:
+  - Ability Scores and Modifiers
 ---
 # Ability Scores and Modifiers
 *Source: Player's Handbook p. 173. Available in the SRD and the Basic Rules.* 
-
-`dice: [[Ability Scores And Modifiers.md#^ability-scores-and-modifiers]]`
 
 **Ability Scores and Modifiers**
 

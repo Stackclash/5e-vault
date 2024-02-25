@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/phb
-- subclass/warlock/great-old-one
-aliases: ["The Great Old One"]
+  - compendium/src/5e/phb
+  - subclass/warlock/great-old-one
+aliases:
+  - The Great Old One
 ---
 # The Great Old One
 *[[Warlock.md\|Warlock]]: Otherworldly Patron*  

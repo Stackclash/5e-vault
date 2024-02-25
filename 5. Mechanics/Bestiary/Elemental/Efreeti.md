@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/11
-- monster/environment/desert
-- monster/size/large
-- monster/type/elemental
+  - compendium/src/5e/mm
+  - monster/cr/11
+  - monster/environment/desert
+  - monster/size/large
+  - monster/type/elemental
 statblock: inline
-aliases: ["Efreeti"]
+aliases:
+  - Efreeti
 ---
 # [[5. Mechanics\Bestiary\Elemental\Efreeti.md|Efreeti]]
-*Source: Monster Manual p. 145, Tasha's Cauldron of Everything. Available in the SRD.*  
+*Source: Monster Manual p. 145, Tasha's Cauldron of Everything. Available in the SRD.*
 
 Hulking genies of the Elemental Plane of Fire, the efreet are masters of flame, immune to fire and able to create it on a whim. Fine silk caftans and damask robes drape their magma-red or coal-black skin, and they bedeck themselves in brass and gold torcs, chains, and rings, all glittering with jewels. When an efreeti flies, its lower body transforms into a column of smoke and embers.
 
@@ -125,10 +126,14 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
 - "KftGV"
 - "SatO"
 - "DoDk"
-"image": "compendium/bestiary/elemental/token/efreeti.png"
+"image": "5. Mechanics/Bestiary/Elemental/token/efreeti.webp"
 ```
 ^statblock
 
 ## Environment
 
 desert
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

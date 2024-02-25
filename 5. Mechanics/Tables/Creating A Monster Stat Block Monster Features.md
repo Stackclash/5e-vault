@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Creating a Monster Stat Block; Monster Features"]
+  - compendium/src/5e/dmg
+aliases:
+  - Creating a Monster Stat Block; Monster Features
 ---
 # Creating a Monster Stat Block; Monster Features
 *Source: Dungeon Master's Guide p. 275* 
-
-`dice: [[Creating A Monster Stat Block Monster Features.md#^monster-features]]`
 
 **Monster Features**
 

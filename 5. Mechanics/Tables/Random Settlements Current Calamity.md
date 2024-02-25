@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Random Settlements; Current Calamity"]
+  - compendium/src/5e/dmg
+aliases:
+  - Random Settlements; Current Calamity
 ---
 # Random Settlements; Current Calamity
 *Source: Dungeon Master's Guide p. 112* 
 
-`dice: [[Random Settlements Current Calamity.md#^current-calamity]]`
-
 **Current Calamity**
+
+`dice: [[Random Settlements Current Calamity.md#^current-calamity]]`
 
 | dice: d20 | Calamity |
 |-----------|----------|

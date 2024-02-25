@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/dmg
-- reward/charm
-aliases: ["Charm of Heroism"]
+  - compendium/src/5e/dmg
+  - reward/charm
+aliases:
+  - Charm of Heroism
 ---
 # Charm of Heroism
 

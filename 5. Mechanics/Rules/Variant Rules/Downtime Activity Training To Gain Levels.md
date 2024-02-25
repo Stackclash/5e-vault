@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Downtime Activity: Training to Gain Levels"]
+  - compendium/src/5e/dmg
+aliases:
+  - 'Downtime Activity: Training to Gain Levels'
 ---
 # Downtime Activity: Training to Gain Levels
 *Source: Dungeon Master's Guide p. 131* 

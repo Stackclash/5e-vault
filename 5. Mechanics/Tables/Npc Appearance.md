@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["NPC Appearance"]
+  - compendium/src/5e/dmg
+aliases:
+  - NPC Appearance
 ---
 # NPC Appearance
 *Source: Dungeon Master's Guide p. 88* 
 
-`dice: [[Npc Appearance.md#^npc-appearance]]`
-
 **NPC Appearance**
+
+`dice: [[Npc Appearance.md#^npc-appearance]]`
 
 | dice: d20 | Feature |
 |-----------|---------|

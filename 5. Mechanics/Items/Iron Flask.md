@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/legendary
-- item/tier/major
-- item/wondrous
-aliases: 
-- "Iron Flask"
+  - compendium/src/5e/dmg
+  - item/rarity/legendary
+  - item/tier/major
+  - item/wondrous
+aliases:
+  - Iron Flask
 ---
 # Iron Flask
 *Wondrous Item, major, legendary*  
@@ -20,6 +20,8 @@ This iron bottle has a brass stopper. You can use an action to speak the flask's
 You can use an action to remove the flask's stopper and release the creature the flask contains. The creature is friendly to you and your companions for 1 hour and obeys your commands for that duration. If you give no commands or give it a command that is likely to result in its death, it defends itself but otherwise takes no actions. At the end of the duration, the creature acts in accordance with its normal disposition and alignment.
 
 An [[5. Mechanics/Spells/Identify.md\|identify]] spell reveals that a creature is inside the flask, but the only way to determine the type of creature is to open the flask. A newly discovered bottle might already contain a creature chosen by the DM or determined randomly.
+
+`dice: [[Iron Flask.md#^contents]]`
 
 | dice: d100 | Contents |
 |------------|----------|

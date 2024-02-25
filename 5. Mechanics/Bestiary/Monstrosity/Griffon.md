@@ -2,20 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/2
-- monster/environment/arctic
-- monster/environment/coastal
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/size/large
-- monster/type/monstrosity
+  - compendium/src/5e/mm
+  - monster/cr/2
+  - monster/environment/arctic
+  - monster/environment/coastal
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/size/large
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Griffon"]
+aliases:
+  - Griffon
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Griffon.md|Griffon]]
-*Source: Monster Manual p. 174, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 174, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*
 
 Griffons are ferocious avian carnivores with the muscular bodies of lions and the head, forelegs, and wings of eagles. When they attack, griffons are as swift and deadly as eagles, even as they strike with a lion's savage might and grace.
 
@@ -84,10 +85,14 @@ Once trained, a griffon is a fierce and loyal steed. It bonds with one master fo
 - "IDRotF"
 - "JttRC"
 - "DoDk"
-"image": "compendium/bestiary/monstrosity/token/griffon.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/griffon.webp"
 ```
 ^statblock
 
 ## Environment
 
 mountain, grassland, hill, coastal, arctic
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

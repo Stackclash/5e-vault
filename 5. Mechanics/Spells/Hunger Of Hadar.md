@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/sorcerer/aberrant-mind
-- spell/class/warlock
-- spell/level/3
-- spell/school/conjuration
-aliases: ["Hunger of Hadar"]
+  - compendium/src/5e/phb
+  - spell/class/sorcerer/aberrant-mind
+  - spell/class/warlock
+  - spell/level/3
+  - spell/school/conjuration
+aliases:
+  - Hunger of Hadar
 ---
 # Hunger of Hadar
 %%-- Embedded content starts on the next line. --%%
@@ -22,6 +23,6 @@ You open a gateway to the dark between the stars, a region infested with unknown
 
 The void creates a warp in the fabric of space, and the area is difficult terrain. Any creature that starts its turn in the area takes `dice: 2d6|avg` (`2d6`) cold damage. Any creature that ends its turn in the area must succeed on a Dexterity saving throw or take `dice: 2d6|avg` (`2d6`) acid damage as milky, otherworldly tentacles rub against it.
 
-**Classes**: [[5. Mechanics/Classes/Sorcerer Aberrant Mind (TCE).md\|Sorcerer (Aberrant Mind)]], [[5. Mechanics/Classes/Warlock.md\|Warlock]]
+**Classes**: [[5. Mechanics/Classes/Sorcerer Aberrant Mind.md\|Sorcerer (Aberrant Mind)]], [[5. Mechanics/Classes/Warlock.md\|Warlock]]
 
 *Source: Player's Handbook p. 251*

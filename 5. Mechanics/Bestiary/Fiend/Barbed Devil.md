@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/5
-- monster/size/medium
-- monster/type/fiend/devil
+  - compendium/src/5e/mm
+  - monster/cr/5
+  - monster/size/medium
+  - monster/type/fiend/devil
 statblock: inline
-aliases: ["Barbed Devil"]
+aliases:
+  - Barbed Devil
 ---
 # [[5. Mechanics\Bestiary\Fiend\Barbed Devil.md|Barbed Devil]]
-*Source: Monster Manual p. 70, Tasha's Cauldron of Everything. Available in the SRD.*  
+*Source: Monster Manual p. 70, Tasha's Cauldron of Everything. Available in the SRD.*
 
 Creatures of unbridled greed and desire, barbed devils act as guards to the more powerful denizens of the Nine Hells and their vaults. Resembling a tall humanoid covered in sharp barbs, spines, and hooks, a barbed devil has gleaming eyes that are ever watchful for objects and creatures it might claim for itself. These fiends welcome any chance to fight when victory promises reward.
 
@@ -203,6 +204,10 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - "IDRotF"
 - "TCE"
 - "GHLoE"
-"image": "compendium/bestiary/fiend/token/barbed-devil.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/barbed-devil.webp"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

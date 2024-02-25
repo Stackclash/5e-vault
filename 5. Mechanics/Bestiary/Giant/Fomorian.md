@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/8
-- monster/environment/underdark
-- monster/size/huge
-- monster/type/giant
+  - compendium/src/5e/mm
+  - monster/cr/8
+  - monster/environment/underdark
+  - monster/size/huge
+  - monster/type/giant
 statblock: inline
-aliases: ["Fomorian"]
+aliases:
+  - Fomorian
 ---
 # [[5. Mechanics\Bestiary\Giant\Fomorian.md|Fomorian]]
-*Source: Monster Manual p. 136*  
+*Source: Monster Manual p. 136*
 
 The most hideous and wicked of all giantkind are the godless fomorians, whose deformed bodies reflect their vile demeanors. Some have facial features randomly distributed around their misshapen, warty heads. Others have limbs of grossly different sizes and shapes, or emit terrible howls each time they draw breath through misshapen mouths. Their wretched appearance rarely evokes sympathy, however, for the fomorians brought their doom upon themselves with the evil that rules their hearts and minds.
 
@@ -81,10 +82,14 @@ Fomorians can pass their curse onto others using a power called the evil eye-a l
 - "PaBTSO"
 - "SatO"
 - "ToFW"
-"image": "compendium/bestiary/giant/token/fomorian.png"
+"image": "5. Mechanics/Bestiary/Giant/token/fomorian.webp"
 ```
 ^statblock
 
 ## Environment
 
 underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

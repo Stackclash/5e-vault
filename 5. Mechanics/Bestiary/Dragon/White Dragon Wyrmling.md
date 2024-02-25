@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/2
-- monster/size/medium
-- monster/type/dragon
+  - compendium/src/5e/mm
+  - monster/cr/2
+  - monster/size/medium
+  - monster/type/dragon
 statblock: inline
-aliases: ["White Dragon Wyrmling"]
+aliases:
+  - White Dragon Wyrmling
 ---
 # [[5. Mechanics\Bestiary\Dragon\White Dragon Wyrmling.md|White Dragon Wyrmling]]
-*Source: Monster Manual p. 102. Available in the SRD.*  
+*Source: Monster Manual p. 102. Available in the SRD.*
 
 The smallest, least intelligent, and most animalistic of the chromatic dragons, white dragons dwell in frigid climes, favoring arctic areas or icy mountains. They are vicious, cruel reptiles driven by hunger and greed.
 
@@ -137,6 +138,10 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "SKT"
 - "EGW"
 - "IDRotF"
-"image": "compendium/bestiary/dragon/token/white-dragon-wyrmling.png"
+"image": "5. Mechanics/Bestiary/Dragon/token/white-dragon-wyrmling.webp"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

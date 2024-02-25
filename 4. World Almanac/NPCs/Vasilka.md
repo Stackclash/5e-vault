@@ -1,38 +1,42 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: null
 condition: healthy
+image: null
 relationships: []
-tags: 
+tags: null
 aliases: []
-pronounced: 
-race: 
-sex: 
-age: 
-alignment: 
-occupation: 
+pronounced: null
+race: null
+gender: null
+age: null
+alignment: Neutral
+occupation: []
 groups: []
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]
 > # `=this.file.name`
-> **Pronounced:**  "`INPUT[text:pronounced]`"
+> **Pronounced:**  `INPUT[text:pronounced]`
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```
 > ###### Bio
 >  |
 >  ---|---|
 > **Race** | `INPUT[suggester(optionQuery("5. Mechanics/Races")):race]` |
-> **Sex** | `INPUT[inlineSelect(option(male),option(female)):sex]` |
+> **Gender** | `INPUT[inlineSelect(option(male),option(female)):gender]` |
 > **Age** | `INPUT[number:age]` |
-> **Alignment** | `INPUT[inlineSelect(option(lawful good),option(neutral good),option(chaotic good),option(lawful neutral),option(neutral),option(chaotic neutral),option(lawful evil),option(netural evil),option(chaotic evil)):alignment]` |
+> **Alignment** | `INPUT[inlineSelect(option(Lawful Good),option(Neutral Good),option(Chaotic Good),option(Lawful Neutral),option(Neutral),option(Chaotic Neutral),option(Lawful Evil),option(Neutral Evil),option(Chaotic Evil)):alignment]` |
 > **Condition** | `INPUT[inlineSelect(option(healthy),option(injured),option(dead)):condition]` |
 > ###### Info
 >  |
@@ -44,39 +48,68 @@ dislikes:
 > **Current Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 # **`=this.file.name`**
+*Source: Curse of Strahd p. 151*
+
 TBD
 
 ## Traits/Goals
 > [!column] Traits
 >> [!metadata|text-Center bg-c-gray] Personality
->> `INPUT[text:personality]`
+>> `INPUT[textArea:personality]`
 >
 >> [!metadata|text-Center bg-c-gray] Ideal
->> `INPUT[text:ideal]`
+>> `INPUT[textArea:ideal]`
 >
 >> [!metadata|text-Center bg-c-gray] Bond
->> `INPUT[text:bond]`
+>> `INPUT[textArea:bond]`
 >
 >> [!metadata|text-Center bg-c-gray] Flaw
->> `INPUT[text:flaw]`
+>> `INPUT[textArea:flaw]`
 >
 >> [!metadata|text-Center bg-c-green] Likes
->> `INPUT[text:likes]`
+>> `INPUT[textArea:likes]`
 >
 >> [!metadata|text-Center bg-c-red] Dislikes
->> `INPUT[text:dislikes]`
+>> `INPUT[textArea:dislikes]`
 
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
 
 ## Relationships
+`BUTTON[add-relationship,remove-relationship]`
+```meta-bind-button
+style: primary
+label: Add Relationship
+id: add-relationship
+hidden: true
+actions:
+  - type: command
+    command: templater-obsidian:insert-templater
+  - type: input
+    str: add
+  - type: input
+    str: relationship
+```
+```meta-bind-button
+style: destructive
+label: Remove Relationship
+id: remove-relationship
+hidden: true
+actions:
+  - type: command
+    command: templater-obsidian:insert-templater
+  - type: input
+    str: remove
+  - type: input
+    str: relationship
+```
 ```dataviewjs
 await dv.view("npcRelationships", { current: dv.current() })
 ```
 
 ## Stats
 ```statblock
-"name": "Vasilka (CoS)"
+"name": "Vasilka"
 "size": "Medium"
 "type": "construct"
 "alignment": "Neutral"
@@ -93,7 +126,9 @@ await dv.view("npcRelationships", { current: dv.current() })
 "speed": "30 ft."
 "damage_immunities": "lightning; poison; bludgeoning, piercing, slashing from nonmagical\
   \ attacks that aren't adamantine"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "5"
@@ -106,9 +141,9 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ it is destroyed or regains all its hit points.\n\nVasilka's creator, if within\
     \ 60 feet of the berserk golem, can try to calm it by speaking firmly and persuasively.\
     \ Vasilka must be able to hear its creator, who must take an action to make a\
-    \ DC 15 Charisma (Persuasion) check. If the check succeeds, Vasilka ceases being\
-    \ berserk. If it takes damage while still at 40 hit points or fewer, Vasilka might\
-    \ go berserk again."
+    \ DC 15 Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion|Persuasion]]) check.\
+    \ If the check succeeds, Vasilka ceases being berserk. If it takes damage while\
+    \ still at 40 hit points or fewer, Vasilka might go berserk again."
   "name": "Berserk"
 - "desc": "If Vasilka takes fire damage, it has disadvantage on attack rolls and ability\
     \ checks until the end of its next turn."
@@ -131,7 +166,7 @@ await dv.view("npcRelationships", { current: dv.current() })
   "name": "Slam"
 "source":
 - "CoS"
-"image": "4. World Almanac/NPCs/token/vasilka.png"
+"image": "4. World Almanac/NPCs/token/vasilka-cos.webp"
 ```
 ^statblock
 

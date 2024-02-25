@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Doors; Beyond a Door"]
+  - compendium/src/5e/dmg
+aliases:
+  - Doors; Beyond a Door
 ---
 # Doors; Beyond a Door
 *Source: Dungeon Master's Guide p. 291* 
 
-`dice: [[Doors Beyond A Door.md#^beyond-a-door]]`
-
 **Beyond a Door**
+
+`dice: [[Doors Beyond A Door.md#^beyond-a-door]]`
 
 | dice: d20 | Feature |
 |-----------|---------|

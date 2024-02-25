@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Owning a Ship; Airborne and Waterborne Vehicles"]
+  - compendium/src/5e/dmg
+aliases:
+  - Owning a Ship; Airborne and Waterborne Vehicles
 ---
 # Owning a Ship; Airborne and Waterborne Vehicles
 *Source: Dungeon Master's Guide p. 119. Available in the SRD.* 
-
-`dice: [[Owning A Ship Airborne And Waterborne Vehicles.md#^airborne-and-waterborne-vehicles]]`
 
 **Airborne and Waterborne Vehicles**
 

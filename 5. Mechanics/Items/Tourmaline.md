@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/wealth
-aliases: 
-- "Tourmaline"
+  - compendium/src/5e/dmg
+  - item/wealth/gemstone
+aliases:
+  - Tourmaline
 cost: 10000
 ---
 # Tourmaline
-*Treasure*  
+*Gemstone*  
 
 - **Cost**: 100 gp
 

@@ -1,39 +1,50 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: >-
+  [[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of
+  Saint Markovia]]
 condition: healthy
+image: 4. World Almanac/NPCs/img/cyrus-belview.webp
 relationships: []
-tags: 
+tags: null
 aliases: []
-pronounced: 
-race: 
-sex: 
-age: 
-alignment: 
-occupation: 
+pronounced: SY-rus BEL-view
+race: '[[5. Mechanics/Races/Human.md|Human]]'
+gender: male
+age: 48
+alignment: Neutral Good
+occupation: []
 groups: []
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+personality: 'Meek, obliging, somewhat naive'
+ideal: Kindness and diligence can make even the darkest places a bit brighter
+bond: >-
+  His duty to the Abbey and its inhabitants, a place he considers home despite
+  its flaws
+flaw: >-
+  His naivety and loyalty sometimes blind him to the moral complexities of the
+  Abbey's reality
+goals: >-
+  To maintain order and cleanliness in the Abbey, to please the Abbot, to find
+  acceptance
+likes: 'Simplicity, cleanliness, the rare praise or kindness shown to him'
+dislikes: 'Violence, the harsh judgments of outsiders, the complexities of moral dilemmas'
 ---
 
 > [!infobox]
 > # `=this.file.name`
-> **Pronounced:**  "`INPUT[text:pronounced]`"
-> ![[4. World Almanac/NPCs/img/cyrus-belview.webp|cover hm-sm]] 
+> **Pronounced:**  `INPUT[text:pronounced]`
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```
 > ###### Bio
 >  |
 >  ---|---|
 > **Race** | `INPUT[suggester(optionQuery("5. Mechanics/Races")):race]` |
-> **Sex** | `INPUT[inlineSelect(option(male),option(female)):sex]` |
+> **Gender** | `INPUT[inlineSelect(option(male),option(female)):gender]` |
 > **Age** | `INPUT[number:age]` |
-> **Alignment** | `INPUT[inlineSelect(option(lawful good),option(neutral good),option(chaotic good),option(lawful neutral),option(neutral),option(chaotic neutral),option(lawful evil),option(netural evil),option(chaotic evil)):alignment]` |
+> **Alignment** | `INPUT[inlineSelect(option(Lawful Good),option(Neutral Good),option(Chaotic Good),option(Lawful Neutral),option(Neutral),option(Chaotic Neutral),option(Lawful Evil),option(Neutral Evil),option(Chaotic Evil)):alignment]` |
 > **Condition** | `INPUT[inlineSelect(option(healthy),option(injured),option(dead)):condition]` |
 > ###### Info
 >  |
@@ -45,39 +56,68 @@ dislikes:
 > **Current Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 # **`=this.file.name`**
+*Source: Curse of Strahd p. 77*
+
 TBD
 
 ## Traits/Goals
 > [!column] Traits
 >> [!metadata|text-Center bg-c-gray] Personality
->> `INPUT[text:personality]`
+>> `INPUT[textArea:personality]`
 >
 >> [!metadata|text-Center bg-c-gray] Ideal
->> `INPUT[text:ideal]`
+>> `INPUT[textArea:ideal]`
 >
 >> [!metadata|text-Center bg-c-gray] Bond
->> `INPUT[text:bond]`
+>> `INPUT[textArea:bond]`
 >
 >> [!metadata|text-Center bg-c-gray] Flaw
->> `INPUT[text:flaw]`
+>> `INPUT[textArea:flaw]`
 >
 >> [!metadata|text-Center bg-c-green] Likes
->> `INPUT[text:likes]`
+>> `INPUT[textArea:likes]`
 >
 >> [!metadata|text-Center bg-c-red] Dislikes
->> `INPUT[text:dislikes]`
+>> `INPUT[textArea:dislikes]`
 
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
 
 ## Relationships
+`BUTTON[add-relationship,remove-relationship]`
+```meta-bind-button
+style: primary
+label: Add Relationship
+id: add-relationship
+hidden: true
+actions:
+  - type: command
+    command: templater-obsidian:insert-templater
+  - type: input
+    str: add
+  - type: input
+    str: relationship
+```
+```meta-bind-button
+style: destructive
+label: Remove Relationship
+id: remove-relationship
+hidden: true
+actions:
+  - type: command
+    command: templater-obsidian:insert-templater
+  - type: input
+    str: remove
+  - type: input
+    str: relationship
+```
 ```dataviewjs
 await dv.view("npcRelationships", { current: dv.current() })
 ```
 
 ## Stats
 ```statblock
-"name": "Cyrus Belview (CoS)"
+"name": "Cyrus Belview"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "mongrelfolk"
@@ -101,12 +141,12 @@ await dv.view("npcRelationships", { current: dv.current() })
 "languages": "Common"
 "cr": "1/4"
 "traits":
-- "desc": "The mongrelfolk has advantage on Wisdom (Perception) checks that rely on\
-    \ hearing or smell."
+- "desc": "The mongrelfolk has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+    \ checks that rely on hearing or smell."
   "name": "Keen Hearing and Smell"
 - "desc": "Cyrus can mimic any sounds it has heard, including voices. A creature that\
     \ hears the sounds can tell they are imitations with a successful DC 12 Wisdom\
-    \ (Insight) check."
+    \ ([[/5. Mechanics/Rules/Skills.md#Insight|Insight]]) check."
   "name": "Mimicry"
 "actions":
 - "desc": "Cyrus makes two attacks: one with its bite and one with its claw or dagger."
@@ -123,7 +163,7 @@ await dv.view("npcRelationships", { current: dv.current() })
   "name": "Dagger"
 "source":
 - "CoS"
-"image": "4. World Almanac/NPCs/token/cyrus-belview.png"
+"image": "4. World Almanac/NPCs/token/cyrus-belview-cos.webp"
 ```
 ^statblock
 

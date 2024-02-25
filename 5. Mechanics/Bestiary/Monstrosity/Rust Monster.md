@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-2
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/monstrosity
+  - compendium/src/5e/mm
+  - monster/cr/1-2
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Rust Monster"]
+aliases:
+  - Rust Monster
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Rust Monster.md|Rust Monster]]
-*Source: Monster Manual p. 262. Available in the SRD.*  
+*Source: Monster Manual p. 262. Available in the SRD.*
 
 Most dwarves would rather face a squad of orcs than confront a single rust monster. These strange, normally docile creatures corrode ferrous metals, then gobble up the rust they create. In doing so, they have ruined the armor, shields, and weapons of countless adventurers.
 
@@ -87,10 +88,14 @@ Rust monsters are rarely found in large numbers, preferring to hunt alone or in 
 - "EGW"
 - "IDRotF"
 - "SatO"
-"image": "compendium/bestiary/monstrosity/token/rust-monster.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/rust-monster.webp"
 ```
 ^statblock
 
 ## Environment
 
 underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

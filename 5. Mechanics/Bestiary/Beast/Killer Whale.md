@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/3
-- monster/environment/underwater
-- monster/size/huge
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/3
+  - monster/environment/underwater
+  - monster/size/huge
+  - monster/type/beast
 statblock: inline
-aliases: ["Killer Whale"]
+aliases:
+  - Killer Whale
 ---
 # [[5. Mechanics\Bestiary\Beast\Killer Whale.md|Killer Whale]]
-*Source: Monster Manual p. 331. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 331. Available in the SRD and the Basic Rules.*
 
 ```statblock
 "name": "Killer Whale"
@@ -53,10 +54,14 @@ aliases: ["Killer Whale"]
 - "EGW"
 - "MOT"
 - "IDRotF"
-"image": "compendium/bestiary/beast/token/killer-whale.png"
+"image": "5. Mechanics/Bestiary/Beast/token/killer-whale.webp"
 ```
 ^statblock
 
 ## Environment
 
 underwater
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

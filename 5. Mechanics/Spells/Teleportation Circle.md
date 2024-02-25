@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/ranger/horizon-walker
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/5
-- spell/school/conjuration
-aliases: ["Teleportation Circle"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/ranger/horizon-walker
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/level/5
+  - spell/school/conjuration
+aliases:
+  - Teleportation Circle
 ---
 # Teleportation Circle
 %%-- Embedded content starts on the next line. --%%
@@ -26,6 +27,6 @@ Many major temples, guilds, and other important places have permanent teleportat
 
 You can create a permanent teleportation circle by casting this spell in the same location every day for one year. You need not use the circle to teleport when you cast the spell in this way.
 
-**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Ranger Horizon Walker (XGE).md\|Ranger (Horizon Walker)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Ranger Horizon Walker.md\|Ranger (Horizon Walker)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 282. Available in the SRD.*

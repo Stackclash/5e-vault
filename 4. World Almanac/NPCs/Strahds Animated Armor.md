@@ -1,39 +1,42 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: null
 condition: healthy
+image: 4. World Almanac/NPCs/img/strahds-animated-armor.webp
 relationships: []
-tags: 
+tags: null
 aliases: []
-pronounced: 
-race: 
-sex: 
-age: 
-alignment: 
-occupation: 
+pronounced: null
+race: null
+gender: null
+age: null
+alignment: Lawful Evil
+occupation: []
 groups: []
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]
 > # `=this.file.name`
-> **Pronounced:**  "`INPUT[text:pronounced]`"
-> ![[4. World Almanac/NPCs/img/strahds-animated-armor.webp|cover hm-sm]] 
+> **Pronounced:**  `INPUT[text:pronounced]`
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```
 > ###### Bio
 >  |
 >  ---|---|
 > **Race** | `INPUT[suggester(optionQuery("5. Mechanics/Races")):race]` |
-> **Sex** | `INPUT[inlineSelect(option(male),option(female)):sex]` |
+> **Gender** | `INPUT[inlineSelect(option(male),option(female)):gender]` |
 > **Age** | `INPUT[number:age]` |
-> **Alignment** | `INPUT[inlineSelect(option(lawful good),option(neutral good),option(chaotic good),option(lawful neutral),option(neutral),option(chaotic neutral),option(lawful evil),option(netural evil),option(chaotic evil)):alignment]` |
+> **Alignment** | `INPUT[inlineSelect(option(Lawful Good),option(Neutral Good),option(Chaotic Good),option(Lawful Neutral),option(Neutral),option(Chaotic Neutral),option(Lawful Evil),option(Neutral Evil),option(Chaotic Evil)):alignment]` |
 > **Condition** | `INPUT[inlineSelect(option(healthy),option(injured),option(dead)):condition]` |
 > ###### Info
 >  |
@@ -45,6 +48,8 @@ dislikes:
 > **Current Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 # **`=this.file.name`**
+*Source: Curse of Strahd p. 227*
+
 The armor that Strahd wore into battle when he was alive lives on today as a headless, animated suit of plate armor. The armor is painted burgundy and adorned with golden angelic motifs.
 
 ## Thing of Evil
@@ -56,34 +61,61 @@ The armor understands Common but obeys only the commands of its master.
 ## Traits/Goals
 > [!column] Traits
 >> [!metadata|text-Center bg-c-gray] Personality
->> `INPUT[text:personality]`
+>> `INPUT[textArea:personality]`
 >
 >> [!metadata|text-Center bg-c-gray] Ideal
->> `INPUT[text:ideal]`
+>> `INPUT[textArea:ideal]`
 >
 >> [!metadata|text-Center bg-c-gray] Bond
->> `INPUT[text:bond]`
+>> `INPUT[textArea:bond]`
 >
 >> [!metadata|text-Center bg-c-gray] Flaw
->> `INPUT[text:flaw]`
+>> `INPUT[textArea:flaw]`
 >
 >> [!metadata|text-Center bg-c-green] Likes
->> `INPUT[text:likes]`
+>> `INPUT[textArea:likes]`
 >
 >> [!metadata|text-Center bg-c-red] Dislikes
->> `INPUT[text:dislikes]`
+>> `INPUT[textArea:dislikes]`
 
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
 
 ## Relationships
+`BUTTON[add-relationship,remove-relationship]`
+```meta-bind-button
+style: primary
+label: Add Relationship
+id: add-relationship
+hidden: true
+actions:
+  - type: command
+    command: templater-obsidian:insert-templater
+  - type: input
+    str: add
+  - type: input
+    str: relationship
+```
+```meta-bind-button
+style: destructive
+label: Remove Relationship
+id: remove-relationship
+hidden: true
+actions:
+  - type: command
+    command: templater-obsidian:insert-templater
+  - type: input
+    str: remove
+  - type: input
+    str: relationship
+```
 ```dataviewjs
 await dv.view("npcRelationships", { current: dv.current() })
 ```
 
 ## Stats
 ```statblock
-"name": "Strahd's Animated Armor (CoS)"
+"name": "Strahds Animated Armor"
 "size": "Medium"
 "type": "construct"
 "alignment": "Lawful Evil"
@@ -102,8 +134,10 @@ await dv.view("npcRelationships", { current: dv.current() })
   "Perception": !!int "3"
 "damage_resistances": "cold, fire"
 "damage_immunities": "lightning, poison"
-"condition_immunities": "blinded, charmed, deafened, exhaustion, frightened, paralyzed,\
-  \ petrified, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 13"
 "languages": "understands Common but can't speak"
 "cr": "6"
@@ -113,9 +147,12 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ An animated object reduced to 0 hit points becomes inanimate and is too damaged\
     \ to be of much use or value to anyone."
   "name": "Constructed Nature"
-- "desc": "The armor is incapacitated while in the area of an antimagic field. If\
-    \ targeted by dispel magic, the armor must succeed on a Constitution saving throw\
-    \ against the caster's spell save DC or fall unconscious for 1 minute."
+- "desc": "The armor is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
+    \ while in the area of an [[5. Mechanics/Spells/Antimagic Field.md|antimagic field]].\
+    \ If targeted by [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], the armor\
+    \ must succeed on a Constitution saving throw against the caster's spell save\
+    \ DC or fall [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]] for 1\
+    \ minute."
   "name": "Antimagic Susceptibility"
 - "desc": "While the armor remains motionless, it is indistinguishable from a normal\
     \ suit of armor."
@@ -133,7 +170,7 @@ await dv.view("npcRelationships", { current: dv.current() })
   "name": "Shocking Bolt"
 "source":
 - "CoS"
-"image": "4. World Almanac/NPCs/token/strahds-animated-armor.png"
+"image": "4. World Almanac/NPCs/token/strahds-animated-armor-cos.webp"
 ```
 ^statblock
 

@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Dungeon Dressing; Noises"]
+  - compendium/src/5e/dmg
+aliases:
+  - Dungeon Dressing; Noises
 ---
 # Dungeon Dressing; Noises
 *Source: Dungeon Master's Guide p. 298* 
 
-`dice: [[Dungeon Dressing Noises.md#^noises]]`
-
 **Noises**
+
+`dice: [[Dungeon Dressing Noises.md#^noises]]`
 
 | dice: d100 | Effect |
 |------------|--------|

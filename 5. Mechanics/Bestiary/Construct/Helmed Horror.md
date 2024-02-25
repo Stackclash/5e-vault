@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/4
-- monster/size/medium
-- monster/type/construct
+  - compendium/src/5e/mm
+  - monster/cr/4
+  - monster/size/medium
+  - monster/type/construct
 statblock: inline
-aliases: ["Helmed Horror"]
+aliases:
+  - Helmed Horror
 ---
 # [[5. Mechanics\Bestiary\Construct\Helmed Horror.md|Helmed Horror]]
-*Source: Monster Manual p. 183*  
+*Source: Monster Manual p. 183*
 
 This construct possesses intelligence, the ability to reason and adjust its tactics, and an unswerving devotion to its maker that persists even after its maker's demise. Resembling an animated suit of empty plate armor, a helmed horror serves without ambition or emotion.
 
@@ -84,6 +85,10 @@ A helmed horror doesn't require air, food, drink, or sleep.
 - "KftGV"
 - "PaBTSO"
 - "BMT"
-"image": "compendium/bestiary/construct/token/helmed-horror.png"
+"image": "5. Mechanics/Bestiary/Construct/token/helmed-horror.webp"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Starting at Higher Level; Starting Equipment"]
+  - compendium/src/5e/dmg
+aliases:
+  - Starting at Higher Level; Starting Equipment
 ---
 # Starting at Higher Level; Starting Equipment
 *Source: Dungeon Master's Guide p. 38* 
-
-`dice: [[Starting At Higher Level Starting Equipment.md#^starting-equipment]]`
 
 **Starting Equipment**
 

@@ -1,39 +1,43 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: "[[4. World Almanac/Places of Interest/Van Richten's Tower.md|Van Richten's Tower]]"
 condition: healthy
+image: 4. World Almanac/NPCs/img/ezmerelda-davenir.webp
 relationships: []
 tags: 
 aliases: []
-pronounced: 
-race: 
-sex: 
-age: 
-alignment: 
-occupation: 
-groups: []
+pronounced: ez-meh-REL-da dah-veh-NEER
+race: "[[5. Mechanics/Races/Human.md|Human]]"
+gender: female
+age: 33
+alignment: Chaotic Good
+occupation: []
+groups:
+  - Vistani
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+personality: Determined, fiercely independent, pragmatic
+ideal: Evil that feeds on the innocent is the worst of all evils and must be destroyed.
+bond: My mentor and teacher, Dr. Rudolph van Richten, is like a father to me.
+flaw: I go where angels fear to tread.
+goals: To defeat Strahd, to become the greatest monster hunter in the land
+likes: Knowledge about monsters, vanquishing evil, proving her skill and courage
+dislikes: Cowardice, betrayal, the undead, those who underestimate her
 ---
 
 > [!infobox]
 > # `=this.file.name`
-> **Pronounced:**  "`INPUT[text:pronounced]`"
-> ![[4. World Almanac/NPCs/img/ezmerelda-davenir.webp|cover hm-sm]] 
+> **Pronounced:**  `INPUT[text:pronounced]`
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```
 > ###### Bio
 >  |
 >  ---|---|
 > **Race** | `INPUT[suggester(optionQuery("5. Mechanics/Races")):race]` |
-> **Sex** | `INPUT[inlineSelect(option(male),option(female)):sex]` |
+> **Gender** | `INPUT[inlineSelect(option(male),option(female)):gender]` |
 > **Age** | `INPUT[number:age]` |
-> **Alignment** | `INPUT[inlineSelect(option(lawful good),option(neutral good),option(chaotic good),option(lawful neutral),option(neutral),option(chaotic neutral),option(lawful evil),option(netural evil),option(chaotic evil)):alignment]` |
+> **Alignment** | `INPUT[inlineSelect(option(Lawful Good),option(Neutral Good),option(Chaotic Good),option(Lawful Neutral),option(Neutral),option(Chaotic Neutral),option(Lawful Evil),option(Neutral Evil),option(Chaotic Evil)):alignment]` |
 > **Condition** | `INPUT[inlineSelect(option(healthy),option(injured),option(dead)):condition]` |
 > ###### Info
 >  |
@@ -45,6 +49,8 @@ dislikes:
 > **Current Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 # **`=this.file.name`**
+*Source: Curse of Strahd p. 231*
+
 Ezmerelda d'Avenir, a Vistana, is the protégé of Rudolph van Richten - despite the fact that her first encounter with the vampire hunter was anything but pleasant.
 
 ## Witness to Tragedy
@@ -71,7 +77,7 @@ While in the company of a Vistani caravan, Ezmerelda heard a rumor that Rudolph 
 
 ## Tarokka Deck
 
-Ezmerelda keeps a [[5. Mechanics/Decks/Tarokka Deck (COS).md|deck of tarokka cards]] in her wagon (chapter 11, area V1). Although the cards aren't magical, Ezmerelda can use them to perform a card reading for the characters (see chapter 1), like the one that can be performed by Madam Eva.
+Ezmerelda keeps a [[5. Mechanics/Decks/Tarokka Deck.md|deck of tarokka cards]] in her wagon (chapter 11, area V1). Although the cards aren't magical, Ezmerelda can use them to perform a card reading for the characters (see chapter 1), like the one that can be performed by Madam Eva.
 
 ## Ezmerelda d'Avenir's Traits
 
@@ -90,34 +96,61 @@ Ezmerelda keeps a [[5. Mechanics/Decks/Tarokka Deck (COS).md|deck of tarokka car
 ## Traits/Goals
 > [!column] Traits
 >> [!metadata|text-Center bg-c-gray] Personality
->> `INPUT[text:personality]`
+>> `INPUT[textArea:personality]`
 >
 >> [!metadata|text-Center bg-c-gray] Ideal
->> `INPUT[text:ideal]`
+>> `INPUT[textArea:ideal]`
 >
 >> [!metadata|text-Center bg-c-gray] Bond
->> `INPUT[text:bond]`
+>> `INPUT[textArea:bond]`
 >
 >> [!metadata|text-Center bg-c-gray] Flaw
->> `INPUT[text:flaw]`
+>> `INPUT[textArea:flaw]`
 >
 >> [!metadata|text-Center bg-c-green] Likes
->> `INPUT[text:likes]`
+>> `INPUT[textArea:likes]`
 >
 >> [!metadata|text-Center bg-c-red] Dislikes
->> `INPUT[text:dislikes]`
+>> `INPUT[textArea:dislikes]`
 
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
 
 ## Relationships
+`BUTTON[add-relationship,remove-relationship]`
+```meta-bind-button
+style: primary
+label: Add Relationship
+id: add-relationship
+hidden: true
+actions:
+  - type: command
+    command: templater-obsidian:insert-templater
+  - type: input
+    str: add
+  - type: input
+    str: relationship
+```
+```meta-bind-button
+style: destructive
+label: Remove Relationship
+id: remove-relationship
+hidden: true
+actions:
+  - type: command
+    command: templater-obsidian:insert-templater
+  - type: input
+    str: remove
+  - type: input
+    str: relationship
+```
 ```dataviewjs
 await dv.view("npcRelationships", { current: dv.current() })
 ```
 
 ## Stats
 ```statblock
-"name": "Ezmerelda d'Avenir (CoS)"
+"name": "Ezmerelda Davenir"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "human"
@@ -152,14 +185,20 @@ await dv.view("npcRelationships", { current: dv.current() })
 "traits":
 - "desc": "Ezmerelda is a 7th-level spellcaster. Her spellcasting ability is Intelligence\
     \ (spell save DC 14, dice: d20+6 (+6 to hit) with spell attacks). Ezmerelda\
-    \ has the following wizard spells prepared:\n\nCantrips (at will): fire bolt,\
-    \ light, mage hand, prestidigitation\n\n1st level (4 slots): protection from\
-    \ evil and good, magic missile, shield\n\n2nd level (3 slots): darkvision,\
-    \ knock, mirror image\n\n3rd level (3 slots): clairvoyance, lightning bolt,\
-    \ magic circle\n\n4th level (1 slots): greater invisibility"
+    \ has the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]],\
+    \ [[5. Mechanics/Spells/Light.md|light]], [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
+    \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n1st level (4\
+    \ slots): [[5. Mechanics/Spells/Protection From Evil And Good.md|protection from evil and good]],\
+    \ [[5. Mechanics/Spells/Magic Missile.md|magic missile]], [[5. Mechanics/Spells/Shield.md|shield]]\n\
+    \n2nd level (3 slots): [[5. Mechanics/Spells/Darkvision.md|darkvision]], [[5. Mechanics/Spells/Knock.md|knock]],\
+    \ [[5. Mechanics/Spells/Mirror Image.md|mirror image]]\n\n3rd level (3 slots):\
+    \ [[5. Mechanics/Spells/Clairvoyance.md|clairvoyance]], [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]],\
+    \ [[5. Mechanics/Spells/Magic Circle.md|magic circle]]\n\n4th level (1 slots):\
+    \ [[5. Mechanics/Spells/Greater Invisibility.md|greater invisibility]]"
   "name": "spells"
-- "desc": "In addition to her magic armor and weapons, Ezmerelda has two potions of\
-    \ greater healing, six vials of holy water, and three wooden stakes."
+- "desc": "In addition to her magic armor and weapons, Ezmerelda has two [potions\
+    \ of greater healing](compendium/items/potion-of-greater-healing.md), six [vials\
+    \ of holy water](compendium/items/holy-water-flask.md), and three wooden stakes."
   "name": "Special Equipment"
 "actions":
 - "desc": "Ezmerelda makes three attacks: two with her +1 rapier and one with her\
@@ -178,21 +217,22 @@ await dv.view("npcRelationships", { current: dv.current() })
 - "desc": "Ezmerelda targets one creature that she can see within 30 feet of her.\
     \ The target must succeed on a DC 14 Wisdom saving throw or be cursed. While cursed,\
     \ the target has vulnerability to one type of damage of Ezmerelda's choice. The\
-    \ curse lasts until ended with a greater restoration spell, a remove curse spell,\
-    \ or similar magic. When the curse ends, Ezmerelda takes dice: 3d6|avg (3d6)\
-    \ psychic damage."
+    \ curse lasts until ended with a [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
+    \ spell, a [[5. Mechanics/Spells/Remove Curse.md|remove curse]] spell, or similar\
+    \ magic. When the curse ends, Ezmerelda takes dice: 3d6|avg (3d6) psychic\
+    \ damage."
   "name": "Curse (Recharges after a Long Rest)"
 - "desc": "Ezmerelda targets one creature that she can see within 10 feet of her and\
     \ casts one of the following spells on the target (save DC 14), requiring neither\
     \ somatic nor material components to do so: animal friendship, charm person, or\
     \ hold person. If the target succeeds on the initial saving throw, Ezmerelda is\
-    \ blinded until the end of her next turn. Once a target succeeds on a saving throw\
-    \ against this effect, it is immune to the Evil Eye power of all Vistani for 24\
-    \ hours."
+    \ [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] until the end of her next\
+    \ turn. Once a target succeeds on a saving throw against this effect, it is immune\
+    \ to the Evil Eye power of all Vistani for 24 hours."
   "name": "Evil Eye (Recharges after a Short or Long Rest)"
 "source":
 - "CoS"
-"image": "4. World Almanac/NPCs/token/ezmerelda-davenir.png"
+"image": "4. World Almanac/NPCs/token/ezmerelda-davenir-cos.webp"
 ```
 ^statblock
 

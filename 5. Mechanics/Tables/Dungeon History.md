@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Dungeon History"]
+  - compendium/src/5e/dmg
+aliases:
+  - Dungeon History
 ---
 # Dungeon History
 *Source: Dungeon Master's Guide p. 101* 
 
-`dice: [[Dungeon History.md#^dungeon-history]]`
-
 **Dungeon History**
+
+`dice: [[Dungeon History.md#^dungeon-history]]`
 
 | dice: d20 | Key Event |
 |-----------|-----------|

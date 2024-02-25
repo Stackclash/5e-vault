@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- compendium/src/5e/phb
-- deity/greyhawk
-- domain/war
-aliases: ["Trithereon"]
+  - compendium/src/5e/phb
+  - deity/greyhawk
+  - domain/war
+aliases:
+  - Trithereon
 ---
 # Trithereon
 *Source: Player's Handbook p. 295* 

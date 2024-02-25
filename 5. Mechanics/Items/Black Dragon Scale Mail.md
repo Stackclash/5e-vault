@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/armor/medium
-- item/attunement/required
-- item/rarity/very-rare
-- item/tier/major
-aliases: 
-- "Black Dragon Scale Mail"
+  - compendium/src/5e/dmg
+  - item/armor/medium
+  - item/attunement/required
+  - item/rarity/very-rare
+  - item/tier/major
+aliases:
+  - Black Dragon Scale Mail
 ---
 # Black Dragon Scale Mail
 *Medium Armor, major, very rare (requires attunement)*  

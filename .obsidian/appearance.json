@@ -7,12 +7,12 @@
     "ITS - Encoded Icons",
     "CSS Links",
     "supercharged-links-gen",
-    "Temp",
     "Folder Icons",
     "Custom Styles",
-    "Multiple Property Columns"
+    "Multiple Property Columns",
+    "Temp"
   ],
   "theme": "moonstone",
   "cssTheme": "ITS Theme",
-  "baseFontSize": 19
+  "baseFontSize": 20
 }

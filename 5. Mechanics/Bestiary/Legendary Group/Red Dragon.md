@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/mm
-- monster/legendary-group
-aliases: ["Red Dragon"]
+  - compendium/src/5e/mm
+  - monster/legendary-group
+aliases:
+  - Red Dragon
 ---
 # Red Dragon
 
@@ -41,4 +42,9 @@ Any of these effects might appear in the area around a red dragon's lair, in add
 
 - **Desertification.** Precipitation is almost nonexistent within 6 miles of the dragon's lair, making the land parched and arid and most plant life withered and brown.  
 - **Fiery Senses.** The dragon can hear up to 30 feet through any open flame within 1 mile of the dragon's lair.  
-- **Ominous Flames.** Open flames within 6 miles of the dragon's lair are tinged dark red, hiss and crackle constantly, and throw off embers and showers of sparks.
+- **Ominous Flames.** Open flames within 6 miles of the dragon's lair are tinged dark red, hiss and crackle constantly, and throw off embers and showers of sparks.  
+
+## Is homebrew
+_Source: Monster Manual_
+
+false

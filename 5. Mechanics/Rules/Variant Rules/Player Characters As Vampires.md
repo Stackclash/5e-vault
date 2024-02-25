@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/mm
-aliases: ["Player Characters as Vampires"]
+  - compendium/src/5e/mm
+aliases:
+  - Player Characters as Vampires
 ---
 # Player Characters as Vampires
 *Source: Monster Manual p. 295, Van Richten's Guide to Ravenloft p. 236* 
@@ -13,4 +14,4 @@ The game statistics of a player character transformed into a [[5. Mechanics/Best
 ## Jiangshi
 _Source: Van Richten's Guide to Ravenloft_
 
-Humanoids killed by a [[5. Mechanics/Bestiary/Undead/Jiangshi (VRGR).md\|jiangshi]] rise as life-hungry corpses and might turn into jiangshi themselves if they feed upon the living.
+Humanoids killed by a [[5. Mechanics/Bestiary/Undead/Jiangshi.md\|jiangshi]] rise as life-hungry corpses and might turn into jiangshi themselves if they feed upon the living.

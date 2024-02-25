@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Magic Item Table I"]
+  - compendium/src/5e/dmg
+aliases:
+  - Magic Item Table I
 ---
 # Magic Item Table I
 *Source: Dungeon Master's Guide p. 144* 
 
-`dice: [[Magic Item Table I.md#^magic-item-table-i]]`
-
 **Magic Item Table I**
+
+`dice: [[Magic Item Table I.md#^magic-item-table-i]]`
 
 | dice: d100 | Magic Item |
 |------------|------------|
@@ -42,7 +43,7 @@ aliases: ["Magic Item Table I"]
 | 70-71 | [+2 splint armor](compendium/items/2-armor.md) |
 | 72-73 | [+2 studded leather armor](compendium/items/2-armor.md) |
 | 74-75 | [[5. Mechanics/Items/Well Of Many Worlds.md\|Well of many worlds]] |
-| 76 | **Magic armor**<br /><br />| 1d12 |  |<br />|------|--|<br />| 1-2 | [+2 half plate armor](compendium/items/2-armor.md) |<br />| 3-4 | [+2 plate armor](compendium/items/2-armor.md) |<br />| 5-6 | [+3 studded leather armor](compendium/items/3-armor.md) |<br />| 7-8 | [+3 breastplate](compendium/items/3-armor.md) |<br />| 9-10 | [+3 splint armor](compendium/items/3-armor.md) |<br />| 11 | [+3 half plate armor](compendium/items/3-armor.md) |<br />| 12 | [+3 plate armor](compendium/items/3-armor.md) |<br />^magic-armor |
+| 76 | **Magic armor**<br /><br />`dice: [[Magic Item Table I.md#^magic-armor]]`<br /><br />| dice: 1d12 |  |<br />|------------|--|<br />| 1-2 | [+2 half plate armor](compendium/items/2-armor.md) |<br />| 3-4 | [+2 plate armor](compendium/items/2-armor.md) |<br />| 5-6 | [+3 studded leather armor](compendium/items/3-armor.md) |<br />| 7-8 | [+3 breastplate](compendium/items/3-armor.md) |<br />| 9-10 | [+3 splint armor](compendium/items/3-armor.md) |<br />| 11 | [+3 half plate armor](compendium/items/3-armor.md) |<br />| 12 | [+3 plate armor](compendium/items/3-armor.md) |<br />^magic-armor |
 | 77 | [[5. Mechanics/Items/Apparatus Of Kwalish.md\|Apparatus of kwalish]] |
 | 78 | [[5. Mechanics/Items/Armor Of Invulnerability.md\|Armor of invulnerability]] |
 | 79 | [[5. Mechanics/Items/Belt Of Storm Giant Strength.md\|Belt of storm giant strength]] |

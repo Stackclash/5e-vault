@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Classes"]
+  - compendium/src/5e/phb
+aliases:
+  - Classes
 ---
 # Classes
 *Source: Player's Handbook p. 45. Available in the Basic Rules.* 
-
-`dice: [[Classes.md#^class-description-hit-die-primary-ability-saving-throw-proficiencies-armor-and-weapon-proficiencies]]`
 
 | Class | Description | Hit Die | Primary Ability | Saving Throw Proficiencies | Armor and Weapon Proficiencies |
 |-------|-------------|---------|-----------------|----------------------------|--------------------------------|

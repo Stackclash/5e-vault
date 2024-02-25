@@ -2,18 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/3
-- monster/environment/forest
-- monster/environment/hill
-- monster/environment/swamp
-- monster/size/medium
-- monster/type/fey
+  - compendium/src/5e/mm
+  - monster/cr/3
+  - monster/environment/forest
+  - monster/environment/hill
+  - monster/environment/swamp
+  - monster/size/medium
+  - monster/type/fey
 statblock: inline
-aliases: ["Green Hag"]
+aliases:
+  - Green Hag
 ---
 # [[5. Mechanics\Bestiary\Fey\Green Hag.md|Green Hag]]
-*Source: Monster Manual p. 177, Tasha's Cauldron of Everything. Available in the SRD.*  
+*Source: Monster Manual p. 177, Tasha's Cauldron of Everything. Available in the SRD.*
 
 The wretched and hateful green hags dwell in dying forests, lonely swamps, and misty moors, making their homes in caves. Green hags love to manipulate other creatures into doing their bidding, masking their intentions behind layers of deception. They lure victims to them by mimicking voices calling out for help, or drive unwanted visitors away by imitating the cries of fierce beasts.
 
@@ -120,7 +121,7 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
 - "desc": "The hag can breathe air and water."
   "name": "Amphibious"
 - "desc": "The hag can mimic animal sounds and humanoid voices. A creature that hears\
-    \ the sounds can tell they are imitations with a successful DC 14 Wisdom (Insight)\
+    \ the sounds can tell they are imitations with a successful DC 14 Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight|Insight]])\
     \ check."
   "name": "Mimicry"
 "actions":
@@ -133,7 +134,7 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
     \ dies.\n\nThe changes wrought by this effect fail to hold up to physical inspection.\
     \ For example, the hag could appear to have smooth skin, but someone touching\
     \ her would feel her rough flesh. Otherwise, a creature must take an action to\
-    \ visually inspect the illusion and succeed on a DC 20 Intelligence (Investigation)\
+    \ visually inspect the illusion and succeed on a DC 20 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation|Investigation]])\
     \ check to discern that the hag is disguised."
   "name": "Illusory Appearance"
 - "desc": "The hag magically turns [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]]\
@@ -157,10 +158,14 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
 - "PSI"
 - "SatO"
 - "BMT"
-"image": "compendium/bestiary/fey/token/green-hag.png"
+"image": "5. Mechanics/Bestiary/Fey/token/green-hag.webp"
 ```
 ^statblock
 
 ## Environment
 
 forest, swamp, hill
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

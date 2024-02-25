@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Dungeon Creator; NPC Alignment"]
+  - compendium/src/5e/dmg
+aliases:
+  - Dungeon Creator; NPC Alignment
 ---
 # Dungeon Creator; NPC Alignment
 *Source: Dungeon Master's Guide p. 99* 
 
-`dice: [[Dungeon Creator Npc Alignment.md#^npc-alignment]]`
-
 **NPC Alignment**
+
+`dice: [[Dungeon Creator Npc Alignment.md#^npc-alignment]]`
 
 | dice: d20 | Alignment |
 |-----------|-----------|

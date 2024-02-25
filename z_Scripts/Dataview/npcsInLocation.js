@@ -20,11 +20,12 @@ do {
 } while (childLocationPathsList.length != currentListLength)
 
 const pages = dv.pages('"4. World Almanac/NPCs"').where(p => {
-    return p.location && p.location.path ? childLocationPathsList.includes(p.location.path) : false
+    return p.location && p.location.path ? childLocationPathsList.includes(p.location.path) || p.location.path === currentPath : false
 }).sort(p => dv.page(p.location.path).file.name)
 
 
 if (pages.length > 0) {
+    dv.header(2, "Notable NPCs")
     dv.table(["Name", "Location"],
         pages.map(p => [p.file.link, p.location])
     )

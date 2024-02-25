@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Random Settlements; Notable Traits"]
+  - compendium/src/5e/dmg
+aliases:
+  - Random Settlements; Notable Traits
 ---
 # Random Settlements; Notable Traits
 *Source: Dungeon Master's Guide p. 112* 
 
-`dice: [[Random Settlements Notable Traits.md#^notable-traits]]`
-
 **Notable Traits**
+
+`dice: [[Random Settlements Notable Traits.md#^notable-traits]]`
 
 | dice: d20 | Trait |
 |-----------|-------|

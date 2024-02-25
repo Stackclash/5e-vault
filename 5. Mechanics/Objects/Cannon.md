@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- compendium/src/5e/dmg
-- object/size/large
-- object/type/siege-weapon
+  - compendium/src/5e/dmg
+  - object/size/large
+  - object/type/siege-weapon
 statblock: inline
-aliases: ["Cannon"]
+aliases:
+  - Cannon
 ---
 # Cannon
 *Source: Dungeon Master's Guide p. 255*  
@@ -16,7 +17,7 @@ A cannon uses gunpowder to propel heavy balls of cast iron through the air at de
 A cannon is usually supported in a wooden frame with wheels. Before it can be fired, the cannon must be loaded and aimed. It takes one action to load the weapon, one action to aim it, and one action to fire it.
 ```ad-statblock
 title: Cannon
-![[5. Mechanics/Objects/token/cannon.png#token]]
+![[5. Mechanics/Objects/token/cannon.webp#token]]
 *Large Siege weapon*
 
 - **Armor Class** 19 
@@ -25,7 +26,7 @@ title: Cannon
 
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-||
+|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
 
 - **Damage Immunities** poison, psychic
 

@@ -2,21 +2,22 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-4
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/1-4
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/beast
 statblock: inline
-aliases: ["Giant Poisonous Snake"]
+aliases:
+  - Giant Poisonous Snake
 ---
 # [[5. Mechanics\Bestiary\Beast\Giant Poisonous Snake.md|Giant Poisonous Snake]]
-*Source: Monster Manual p. 327, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 327, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*
 
 ```statblock
 "name": "Giant Poisonous Snake"
@@ -55,10 +56,14 @@ aliases: ["Giant Poisonous Snake"]
 - "TCE"
 - "WBtW"
 - "PaBTSO"
-"image": "compendium/bestiary/beast/token/giant-poisonous-snake.png"
+"image": "5. Mechanics/Bestiary/Beast/token/giant-poisonous-snake.webp"
 ```
 ^statblock
 
 ## Environment
 
 underdark, grassland, forest, swamp, urban, desert
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

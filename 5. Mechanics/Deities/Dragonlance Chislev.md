@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- compendium/src/5e/phb
-- deity/dragonlance
-- domain/nature
-aliases: ["Chislev"]
+  - compendium/src/5e/phb
+  - deity/dragonlance
+  - domain/nature
+aliases:
+  - Chislev
 ---
 # Chislev
 *Source: Player's Handbook p. 295* 

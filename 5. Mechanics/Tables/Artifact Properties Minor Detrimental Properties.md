@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Artifact Properties; Minor Detrimental Properties"]
+  - compendium/src/5e/dmg
+aliases:
+  - Artifact Properties; Minor Detrimental Properties
 ---
 # Artifact Properties; Minor Detrimental Properties
 *Source: Dungeon Master's Guide p. 219* 
 
-`dice: [[Artifact Properties Minor Detrimental Properties.md#^minor-detrimental-properties]]`
-
 **Minor Detrimental Properties**
+
+`dice: [[Artifact Properties Minor Detrimental Properties.md#^minor-detrimental-properties]]`
 
 | dice: d100 | Property |
 |------------|----------|

@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["5,000 gp Gemstones"]
+  - compendium/src/5e/dmg
+aliases:
+  - '5,000 gp Gemstones'
 ---
 # 5,000 gp Gemstones
 *Source: Dungeon Master's Guide p. 134* 
 
-`dice: [[5000 Gp Gemstones.md#^5000-gp-gemstones]]`
-
 **5,000 gp Gemstones**
+
+`dice: [[5000 Gp Gemstones.md#^5000-gp-gemstones]]`
 
 | dice: d4 | Stone Description |
 |----------|-------------------|

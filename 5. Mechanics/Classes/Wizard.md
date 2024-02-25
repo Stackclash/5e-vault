@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/wizard
-- compendium/src/5e/phb
-aliases: ["Wizard"]
+  - class/wizard
+  - compendium/src/5e/phb
+aliases:
+  - Wizard
 ---
 # Wizard
 *Source: Player's Handbook p. 112. Available in the SRD and the Basic Rules.*  
@@ -145,6 +146,8 @@ Your wizard character's most prized possession—your spellbook—might be an in
 
 **Spellbooks**
 
+`dice: [[Wizard.md#^spellbooks]]`
+
 | dice: d6 | Spellbook |
 |----------|-----------|
 | 1 | A tome with pages that are thin sheets of metal, spells etched into them with acid |
@@ -163,6 +166,8 @@ Few aspiring wizards undertake the study of magic without some personal goal in 
 Beyond the obvious, why does your wizard character study magic, and what do you want to achieve? If you haven't given these questions much thought, you can do so now, and the answers you come up with will likely affect how your future unfolds.
 
 **Ambitions**
+
+`dice: [[Wizard.md#^ambitions]]`
 
 | dice: d6 | Ambition |
 |----------|----------|
@@ -183,6 +188,8 @@ If your character has an eccentricity, is it a physical tic or a mental one? Are
 
 **Eccentricities**
 
+`dice: [[Wizard.md#^eccentricities]]`
+
 | dice: d6 | Eccentricity |
 |----------|--------------|
 | 1 | You have the habit of tapping your foot incessantly, which often annoys those around you. |
@@ -199,9 +206,7 @@ If your character has an eccentricity, is it a physical tic or a mental one? Are
 
 You have learned to regain some of your magical energy by studying your spellbook. Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your wizard level (rounded up), and none of the slots can be 6th level or higher.
 
-For example, if you're a 4th-level wizard, you can recover up to two levels worth of spell slots.
-
-You can recover either a 2nd-level spell slot or two 1st-level spell slots.
+For example, if you're a 4th-level wizard, you can recover up to two levels worth of spell slots. You can recover either a 2nd-level spell slot or two 1st-level spell slots.
 
 ### Spellcasting (Level 1)
 
@@ -273,7 +278,7 @@ When you reach 2nd level, you choose an arcane tradition from the list of availa
 ### Cantrip Formulas (Level 3)
 _Source: Tasha's Cauldron of Everything p. 75_
 
-*3rd-level wizard [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+*3rd-level wizard [[/5. Mechanics/Rules/Variant Rules/Optional Class Features.md\|optional class features]]*
 
 You have scribed a set of arcane formulas in your spellbook that you can use to formulate a cantrip in your mind. Whenever you finish a long rest and consult those formulas in your spellbook, you can replace one wizard cantrip you know with another cantrip from the wizard spell list.
 

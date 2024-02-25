@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["NPC Mannerisms"]
+  - compendium/src/5e/dmg
+aliases:
+  - NPC Mannerisms
 ---
 # NPC Mannerisms
 *Source: Dungeon Master's Guide p. 90* 
 
-`dice: [[Npc Mannerisms.md#^npc-mannerisms]]`
-
 **NPC Mannerisms**
+
+`dice: [[Npc Mannerisms.md#^npc-mannerisms]]`
 
 | dice: d20 | Mannerism |
 |-----------|-----------|

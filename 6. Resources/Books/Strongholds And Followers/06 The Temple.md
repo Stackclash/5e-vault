@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/saf
-aliases: ["The Temple"]
+  - compendium/src/5e/saf
+aliases:
+  - The Temple
 ---
 # The Temple
 *Source: Strongholds and Followers, p. 30* 
@@ -30,7 +31,7 @@ The gods consider it your responsibility to know right from wrong. If you are tr
 
 Here are some examples of deeds that would add to or subtract from your current concordance.
 
-![[5. Mechanics/Tables/Gaining Or Losing Concordance (SAF).md\|Gaining or Losing Concordance]]
+![[5. Mechanics/Tables/Gaining Or Losing Concordance.md\|Gaining or Losing Concordance]]
 
 > [!note] Divine Intervention
 > 
@@ -45,7 +46,7 @@ You may receive aid, be ignored, or be punished for your repeated badgering. Unl
 
 Because the gods do not like being pestered, petitioning your deity, regardless of the outcome, gives you a penalty to your concordance. This penalty will accumulate as you petition again and again. **Track your penalty from petitioning separately.** Taking an extended rest at your temple, if you have one, clears any penalties you've accumulated from petitioning.
 
-![[5. Mechanics/Tables/The Concordance Chart (SAF).md\|The Concordance Chart]]
+![[5. Mechanics/Tables/The Concordance Chart.md\|The Concordance Chart]]
 
 ### The Servitor Chart
 
@@ -55,7 +56,7 @@ The servitor you choose must be within your character or deity's purview *and* b
 
 The character who summoned the servitor is informally referred to as the "summoner" or the "petitioner" or more formally "the concordant." The latter term is what the servitors usually use.
 
-![[5. Mechanics/Tables/Servitors (SAF).md\|Servitors]]
+![[5. Mechanics/Tables/Servitors.md\|Servitors]]
 
 #### Picking a Chart for the Player
 
@@ -73,7 +74,7 @@ A variant temple, the druid's grove ^[We use the term "grove" both for this vari
 
 The druid chooses one spell from the list below and spends a month in meditation. If the powers that grant them their spells are pleased with their work, they permanently install the spell the druid requested, which can be cast once per period listed in the Grove Spells table.
 
-![[5. Mechanics/Tables/Grove Spells (SAF).md\|Grove Spells]]
+![[5. Mechanics/Tables/Grove Spells.md\|Grove Spells]]
 
 The spell belongs to the grove but is cast by the druid. The grove must be continuously tended. Leaving the grove untended for a month causes it to revert to wild nature and the spell dissipates. The Druid who founded the grove doesn't have to be the one to tend it, a lieutenant or follower will do.
 
@@ -82,6 +83,6 @@ The druid may still summon servitors using concordance, they just don't gain a b
 The installation of a high-level spell grants the druid who tends the grove power and authority. Local barons and lords may visit hoping the druid will aid them and cast the spell in their benefit. This is a great opportunity for some classical "tit-for-tat" plotting, but now it is the PC who holds the power, and pronounces "I will grant you this boon if you undertake this quest for me," and the NPC must scurry around, trying to earn the favor of our hero!
 
 > [!gallery]
-> ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/temple-small.jpg#gallery)
-> ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/temple-medium.jpg#gallery)
-> ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/temple-large.jpg#gallery)
+> ![[6. Resources/Books/Strongholds And Followers/img/temple-small.jpg#gallery]]
+> ![[6. Resources/Books/Strongholds And Followers/img/temple-medium.jpg#gallery]]
+> ![[6. Resources/Books/Strongholds And Followers/img/temple-large.jpg#gallery]]

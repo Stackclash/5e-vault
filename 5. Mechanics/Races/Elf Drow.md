@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/phb
-- race/elf/drow
-aliases: ["Elf (Drow)"]
+  - compendium/src/5e/phb
+  - race/elf/drow
+aliases:
+  - Elf (Drow)
 ---
 # Elf (Drow)
 *Source: Player's Handbook p. 24*  

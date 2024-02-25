@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-2
-- monster/environment/forest
-- monster/size/medium
-- monster/type/plant
+  - compendium/src/5e/mm
+  - monster/cr/1-2
+  - monster/environment/forest
+  - monster/size/medium
+  - monster/type/plant
 statblock: inline
-aliases: ["Vine Blight"]
+aliases:
+  - Vine Blight
 ---
 # [[5. Mechanics\Bestiary\Plant\Vine Blight.md|Vine Blight]]
-*Source: Monster Manual p. 32, Curse of Strahd*  
+*Source: Monster Manual p. 32, Curse of Strahd*
 
 Appearing as masses of slithering creepers, vine blights hide in undergrowth and wait for prey to draw near. By animating the plants around them, vine blights entangle and hinder their foes before attacking. Vine blights are the only blights capable of speech. Through its connection to the evil spirit of the Gulthias tree it serves, a vine blight speaks in a fractured version of its dead master's voice, taunting victims or bargaining with powerful foes.
 
@@ -87,10 +88,14 @@ Blights are independent creatures, but most act under a Gulthias tree's control,
 - "PSI"
 - "DIP"
 - "BMT"
-"image": "compendium/bestiary/plant/token/vine-blight.png"
+"image": "5. Mechanics/Bestiary/Plant/token/vine-blight.webp"
 ```
 ^statblock
 
 ## Environment
 
 forest
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

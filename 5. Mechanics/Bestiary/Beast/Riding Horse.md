@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-4
-- monster/environment/grassland
-- monster/environment/urban
-- monster/size/large
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/1-4
+  - monster/environment/grassland
+  - monster/environment/urban
+  - monster/size/large
+  - monster/type/beast
 statblock: inline
-aliases: ["Riding Horse"]
+aliases:
+  - Riding Horse
 ---
 # [[5. Mechanics\Bestiary\Beast\Riding Horse.md|Riding Horse]]
-*Source: Monster Manual p. 336, Curse of Strahd. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 336, Curse of Strahd. Available in the SRD and the Basic Rules.*
 
 ```statblock
 "name": "Riding Horse"
@@ -51,10 +52,14 @@ aliases: ["Riding Horse"]
 - "KftGV"
 - "GHLoE"
 - "DoDk"
-"image": "compendium/bestiary/beast/token/riding-horse.png"
+"image": "5. Mechanics/Bestiary/Beast/token/riding-horse.webp"
 ```
 ^statblock
 
 ## Environment
 
 grassland, urban
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

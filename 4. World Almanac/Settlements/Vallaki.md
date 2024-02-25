@@ -3,16 +3,16 @@ obsidianUIMode: preview
 location: "[[4. World Almanac/Regions/Barovia.md|Barovia]]"
 image: z_Assets/PlaceholderImage.png
 pronounced: 
-resources: []
+resources: 
 population: 
 terrain: 
-rulers: []
+rulers: 
 government: 
 army: 
-religions: []
-imports: []
-exports: []
-aliases: []
+religions: 
+imports: 
+exports: 
+aliases: 
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -84,17 +84,13 @@ TBD
 > darkMode: false  
 > ```
 
-## Notable Locations
-**[[Places of Interest|Add New Place of Interest]]**
-**[[Shops|Add New Shop]]**
-> ```dataviewjs
->  await dv.view("locations", {current: dv.current()})
-> ```
+```dataviewjs
+ await dv.view("locations", {current: dv.current()})
+```
 
-## Notable NPCs
-> ```dataviewjs
->  await dv.view("npcsInLocation", {current: dv.current()})
-> ```
+```dataviewjs
+await dv.view("npcsInLocation", {current: dv.current()})
+```
 
 ## History
 TBD

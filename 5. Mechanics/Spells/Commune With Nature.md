@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/barbarian/path-of-the-totem-warrior
-- spell/class/druid
-- spell/class/druid/circle-of-the-land
-- spell/class/paladin/oath-of-the-ancients
-- spell/class/ranger
-- spell/level/5
-- spell/ritual
-- spell/school/divination
-aliases: ["Commune with Nature"]
+  - compendium/src/5e/phb
+  - spell/class/barbarian/path-of-the-totem-warrior
+  - spell/class/druid
+  - spell/class/druid/circle-of-the-land
+  - spell/class/paladin/oath-of-the-ancients
+  - spell/class/ranger
+  - spell/level/5
+  - spell/ritual
+  - spell/school/divination
+aliases:
+  - Commune with Nature
 ---
 # Commune with Nature
 %%-- Embedded content starts on the next line. --%%

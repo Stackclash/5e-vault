@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/class/sorcerer/divine-soul
-- spell/class/wizard
-- spell/level/8
-- spell/school/abjuration
-aliases: ["Antimagic Field"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/class/sorcerer/divine-soul
+  - spell/class/wizard
+  - spell/level/8
+  - spell/school/abjuration
+aliases:
+  - Antimagic Field
 ---
 # Antimagic Field
 %%-- Embedded content starts on the next line. --%%
@@ -55,6 +56,6 @@ Spells and magical effects such as [[5. Mechanics/Spells/Dispel Magic.md\|dispel
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 213. Available in the SRD and the Basic Rules.*

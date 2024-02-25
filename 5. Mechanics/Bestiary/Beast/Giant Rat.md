@@ -2,19 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-8
-- monster/environment/forest
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/small
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/1-8
+  - monster/environment/forest
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/small
+  - monster/type/beast
 statblock: inline
-aliases: ["Giant Rat"]
+aliases:
+  - Giant Rat
 ---
 # [[5. Mechanics\Bestiary\Beast\Giant Rat.md|Giant Rat]]
-*Source: Monster Manual p. 327. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 327. Available in the SRD and the Basic Rules.*
 
 ```statblock
 "name": "Giant Rat"
@@ -62,10 +63,14 @@ aliases: ["Giant Rat"]
 - "WBtW"
 - "GHLoE"
 - "DoDk"
-"image": "compendium/bestiary/beast/token/giant-rat.png"
+"image": "5. Mechanics/Bestiary/Beast/token/giant-rat.webp"
 ```
 ^statblock
 
 ## Environment
 
 underdark, forest, swamp, urban
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

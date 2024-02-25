@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/4
-- monster/environment/forest
-- monster/environment/swamp
-- monster/size/medium
-- monster/type/humanoid/lizardfolk
+  - compendium/src/5e/mm
+  - monster/cr/4
+  - monster/environment/forest
+  - monster/environment/swamp
+  - monster/size/medium
+  - monster/type/humanoid/lizardfolk
 statblock: inline
-aliases: ["Lizard Queen"]
+aliases:
+  - Lizard Queen
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Lizard Queen.md|Lizard Queen]]
-*Source: Monster Manual p. 205*  
+*Source: Monster Manual p. 205*
 
 Lizardfolk are primitive reptilian humanoids that lurk in the swamps and jungles of the world. Their hut villages thrive in forbidding grottos, half-sunken ruins, and watery caverns.
 
@@ -103,10 +104,14 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
   "name": "Trident"
 "source":
 - "MM"
-"image": "compendium/bestiary/humanoid/token/lizard-queen.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/lizard-queen.webp"
 ```
 ^statblock
 
 ## Environment
 
 forest, swamp
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

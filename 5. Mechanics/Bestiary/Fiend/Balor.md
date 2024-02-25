@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/19
-- monster/size/huge
-- monster/type/fiend/demon
+  - compendium/src/5e/mm
+  - monster/cr/19
+  - monster/size/huge
+  - monster/type/fiend/demon
 statblock: inline
-aliases: ["Balor"]
+aliases:
+  - Balor
 ---
 # [[5. Mechanics\Bestiary\Fiend\Balor.md|Balor]]
-*Source: Monster Manual p. 55, Tasha's Cauldron of Everything. Available in the SRD.*  
+*Source: Monster Manual p. 55, Tasha's Cauldron of Everything. Available in the SRD.*
 
 Figures of ancient and terrible evil, balors rule as generals over demonic armies, yearning to seize power while destroying any creatures that oppose them.
 
@@ -255,6 +256,10 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - "CRCotN"
 - "ToFW"
 - "DoDk"
-"image": "compendium/bestiary/fiend/token/balor.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/balor.webp"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/2
-- monster/size/large
-- monster/type/undead
+  - compendium/src/5e/mm
+  - monster/cr/2
+  - monster/size/large
+  - monster/type/undead
 statblock: inline
-aliases: ["Ogre Zombie"]
+aliases:
+  - Ogre Zombie
 ---
 # [[5. Mechanics\Bestiary\Undead\Ogre Zombie.md|Ogre Zombie]]
-*Source: Monster Manual p. 316. Available in the SRD.*  
+*Source: Monster Manual p. 316. Available in the SRD.*
 
 From somewhere in the darkness, a gurgling moan is heard. A form lurches into view, dragging one foot as it raises bloated arms and broken hands. The zombie advances, driven to kill anyone too slow to escape its grasp.
 
@@ -85,6 +86,10 @@ A zombie doesn't require air, food, drink, or sleep.
 - "LoX"
 - "PaBTSO"
 - "DoDk"
-"image": "compendium/bestiary/undead/token/ogre-zombie.png"
+"image": "5. Mechanics/Bestiary/Undead/token/ogre-zombie.webp"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

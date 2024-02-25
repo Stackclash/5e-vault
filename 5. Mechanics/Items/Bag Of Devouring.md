@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/very-rare
-- item/tier/minor
-- item/wondrous
-aliases: 
-- "Bag of Devouring"
+  - compendium/src/5e/dmg
+  - item/rarity/very-rare
+  - item/tier/minor
+  - item/wondrous
+aliases:
+  - Bag of Devouring
 ---
 # Bag of Devouring
 *Wondrous Item, minor, very rare*  

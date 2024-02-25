@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/dmg
-- hazard/wld
-aliases: ["Thin Ice"]
+  - compendium/src/5e/dmg
+  - hazard/wld
+aliases:
+  - Thin Ice
 ---
 # Thin Ice
 *Wilderness Hazard*  

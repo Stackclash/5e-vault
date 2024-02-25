@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/weapon/explosive
-aliases: 
-- "Gunpowder Keg"
+  - compendium/src/5e/dmg
+  - item/weapon/explosive
+aliases:
+  - Gunpowder Keg
 cost: 25000
 ---
 # Gunpowder Keg

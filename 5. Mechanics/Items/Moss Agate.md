@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/wealth
-aliases: 
-- "Moss Agate"
+  - compendium/src/5e/dmg
+  - item/wealth/gemstone
+aliases:
+  - Moss Agate
 cost: 1000
 ---
 # Moss Agate
-*Treasure*  
+*Gemstone*  
 
 - **Cost**: 10 gp
 

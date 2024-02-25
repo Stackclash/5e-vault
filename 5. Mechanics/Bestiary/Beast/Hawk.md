@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/0
-- monster/size/tiny
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/0
+  - monster/size/tiny
+  - monster/type/beast
 statblock: inline
-aliases: ["Hawk"]
+aliases:
+  - Hawk
 ---
 # [[5. Mechanics\Bestiary\Beast\Hawk.md|Hawk]]
-*Source: Monster Manual p. 330. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 330. Available in the SRD and the Basic Rules.*
 
 ```statblock
 "name": "Hawk"
@@ -49,6 +50,10 @@ aliases: ["Hawk"]
 - "CM"
 - "WBtW"
 - "JttRC"
-"image": "compendium/bestiary/beast/token/hawk.png"
+"image": "5. Mechanics/Bestiary/Beast/token/hawk.webp"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

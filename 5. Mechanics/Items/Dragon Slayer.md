@@ -2,18 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/rare
-- item/tier/major
-- item/wondrous/wondrous-item
-aliases: 
-- "Dragon Slayer"
-- "Dragon Slayer Longsword"
-- "Dragon Slayer Double-Bladed Scimitar"
-- "Dragon Slayer Greatsword"
-- "Dragon Slayer Rapier"
-- "Dragon Slayer Shortsword"
-- "Dragon Slayer Scimitar"
+  - compendium/src/5e/dmg
+  - item/rarity/rare
+  - item/tier/major
+  - item/wondrous/wondrous-item
+aliases:
+  - Dragon Slayer
+  - Dragon Slayer Longsword
+  - Dragon Slayer Double-Bladed Scimitar
+  - Dragon Slayer Greatsword
+  - Dragon Slayer Rapier
+  - Dragon Slayer Shortsword
+  - Dragon Slayer Scimitar
 ---
 # Dragon Slayer
 *Generic Variant, major, rare*  

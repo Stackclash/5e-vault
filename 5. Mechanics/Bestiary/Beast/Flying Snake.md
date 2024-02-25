@@ -2,19 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-8
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/urban
-- monster/size/tiny
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/1-8
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/urban
+  - monster/size/tiny
+  - monster/type/beast
 statblock: inline
-aliases: ["Flying Snake"]
+aliases:
+  - Flying Snake
 ---
 # [[5. Mechanics\Bestiary\Beast\Flying Snake.md|Flying Snake]]
-*Source: Monster Manual p. 322. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 322. Available in the SRD and the Basic Rules.*
 
 A flying snake is a brightly colored, winged serpent found in remote jungles. Tribespeople and cultists sometimes domesticate flying snakes to serve as messengers that deliver scrolls wrapped in their coils.
 
@@ -52,10 +53,14 @@ A flying snake is a brightly colored, winged serpent found in remote jungles. Tr
 - "WDH"
 - "IDRotF"
 - "KftGV"
-"image": "compendium/bestiary/beast/token/flying-snake.png"
+"image": "5. Mechanics/Bestiary/Beast/token/flying-snake.webp"
 ```
 ^statblock
 
 ## Environment
 
 grassland, forest, urban, desert
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

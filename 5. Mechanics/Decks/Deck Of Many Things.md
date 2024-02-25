@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-deck
 tags:
-- compendium/src/5e/dmg
-aliases: ["Deck of Many Things"]
+  - compendium/src/5e/dmg
+aliases:
+  - Deck of Many Things
 ---
 # Deck of Many Things
 *Source: Dungeon Master's Guide p. 162. Available in the SRD.*  
@@ -20,8 +21,10 @@ Two of the cards in a deck of many things can earn a character the enmity of ano
 
 In the case of the [[5. Mechanics/Decks/Deck Of Many Things.md#Rogue\|Rogue]] card, the enmity is secret and should come from someone thought to be a friend or an ally. As Dungeon Master, you should wait for a dramatically appropriate moment to reveal this enmity, leaving the adventurer guessing who is likely to become a betrayer.
 
-| 1d22 | Card |
-|------|------|
+`dice: [[Deck Of Many Things.md#^1-card]]`
+
+| dice: 1d22 | Card |
+|------------|------|
 | 1 | [[5. Mechanics/Decks/Deck Of Many Things.md#Vizier\|Vizier]]* |
 | 2 | [[5. Mechanics/Decks/Deck Of Many Things.md#Sun\|Sun]] |
 | 3 | [[5. Mechanics/Decks/Deck Of Many Things.md#Moon\|Moon]] |
@@ -104,7 +107,7 @@ A powerful devil becomes your enemy. The devil seeks your ruin and plagues your 
 
 ### Skull
 ![[5. Mechanics/Decks/img/14-skull.webp#card]]
-You summon an [[5. Mechanics/Bestiary/Undead/Avatar Of Death (DMG).md\|avatar of death]]—a ghostly humanoid skeleton clad in a tattered black robe and carrying a spectral scythe. It appears in a space of the DM's choice within 10 feet of you and attacks you, warning all others that you must win the battle alone. The avatar fights until you die or it drops to 0 hit points, whereupon it disappears. If anyone tries to help you, the helper summons its own [[5. Mechanics/Bestiary/Undead/Avatar Of Death (DMG).md\|avatar of death]]. A creature slain by an [[5. Mechanics/Bestiary/Undead/Avatar Of Death (DMG).md\|avatar of death]] can't be restored to life.
+You summon an [[5. Mechanics/Bestiary/Undead/Avatar Of Death.md\|avatar of death]]—a ghostly humanoid skeleton clad in a tattered black robe and carrying a spectral scythe. It appears in a space of the DM's choice within 10 feet of you and attacks you, warning all others that you must win the battle alone. The avatar fights until you die or it drops to 0 hit points, whereupon it disappears. If anyone tries to help you, the helper summons its own [[5. Mechanics/Bestiary/Undead/Avatar Of Death.md\|avatar of death]]. A creature slain by an [[5. Mechanics/Bestiary/Undead/Avatar Of Death.md\|avatar of death]] can't be restored to life.
 
 ### Idiot
 ![[5. Mechanics/Decks/img/15-idiot.webp#card]]

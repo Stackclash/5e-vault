@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-2
-- monster/environment/swamp
-- monster/environment/urban
-- monster/size/large
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/1-2
+  - monster/environment/swamp
+  - monster/environment/urban
+  - monster/size/large
+  - monster/type/beast
 statblock: inline
-aliases: ["Crocodile"]
+aliases:
+  - Crocodile
 ---
 # [[5. Mechanics\Bestiary\Beast\Crocodile.md|Crocodile]]
-*Source: Monster Manual p. 320. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 320. Available in the SRD and the Basic Rules.*
 
 ```statblock
 "name": "Crocodile"
@@ -58,10 +59,14 @@ aliases: ["Crocodile"]
 - "WBtW"
 - "PSX"
 - "PSA"
-"image": "compendium/bestiary/beast/token/crocodile.png"
+"image": "5. Mechanics/Bestiary/Beast/token/crocodile.webp"
 ```
 ^statblock
 
 ## Environment
 
 swamp, urban
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

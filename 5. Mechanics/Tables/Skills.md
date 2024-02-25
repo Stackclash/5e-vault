@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Skills"]
+  - compendium/src/5e/phb
+aliases:
+  - Skills
 ---
 # Skills
 *Source: Player's Handbook p. 174* 
-
-`dice: [[Skills.md#^ability-skills]]`
 
 | Ability | Skills |
 |---------|--------|

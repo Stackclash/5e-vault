@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/6
-- monster/environment/desert
-- monster/size/medium
-- monster/type/monstrosity
+  - compendium/src/5e/mm
+  - monster/cr/6
+  - monster/environment/desert
+  - monster/size/medium
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Medusa"]
+aliases:
+  - Medusa
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Medusa.md|Medusa]]
-*Source: Monster Manual p. 214, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 214, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*
 
 As deadly as they are ravishing, the serpent-haired medusas suffer an immortal curse brought on by their vanity. They lurk in quiet exile among the tumbled ruins of their former lives, surrounded by the petrified remains of past admirers and would-be heroes.
 
@@ -91,10 +92,14 @@ A medusa is subject to its own curse. By looking vainly on its reflection, it tu
 - "ERLW"
 - "IMR"
 - "CM"
-"image": "compendium/bestiary/monstrosity/token/medusa.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/medusa.webp"
 ```
 ^statblock
 
 ## Environment
 
 desert
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

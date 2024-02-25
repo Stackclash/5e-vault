@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Downtime Activity: Recuperating"]
+  - compendium/src/5e/phb
+aliases:
+  - 'Downtime Activity: Recuperating'
 ---
 # Downtime Activity: Recuperating
 *Source: Player's Handbook p. 187* 

@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- compendium/src/5e/dmg
-- object/size/large
-- object/type/siege-weapon
+  - compendium/src/5e/dmg
+  - object/size/large
+  - object/type/siege-weapon
 statblock: inline
-aliases: ["Suspended Cauldron"]
+aliases:
+  - Suspended Cauldron
 ---
 # Suspended Cauldron
 *Source: Dungeon Master's Guide p. 255*  
@@ -16,7 +17,7 @@ A cauldron is an iron pot suspended so that it can be tipped easily, spilling it
 Cauldrons can be filled with other liquids, such as acid or [[5. Mechanics/Traps Hazards/Green Slime.md\|green slime]], with different effects.
 ```ad-statblock
 title: Suspended Cauldron
-![[5. Mechanics/Objects/token/suspended-cauldron.png#token]]
+![[5. Mechanics/Objects/token/suspended-cauldron.webp#token]]
 *Large Siege weapon*
 
 - **Armor Class** 19 
@@ -25,7 +26,7 @@ title: Suspended Cauldron
 
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-||
+|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
 
 - **Damage Immunities** poison, psychic
 

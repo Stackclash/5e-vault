@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/class/sorcerer/divine-soul
-- spell/class/warlock/the-celestial
-- spell/level/cantrip
-- spell/school/evocation
-aliases: ["Sacred Flame"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/class/sorcerer/divine-soul
+  - spell/class/warlock/the-celestial
+  - spell/level/cantrip
+  - spell/school/evocation
+aliases:
+  - Sacred Flame
 ---
 # Sacred Flame
 %%-- Embedded content starts on the next line. --%%
@@ -24,6 +25,6 @@ Flame-like radiance descends on a creature that you can see within range. The ta
 
 The spell's damage increases by `dice: 1d8|avg` (`1d8`) when you reach 5th level (`dice: 2d8|avg` (`2d8`)), 11th level (`dice: 3d8|avg` (`3d8`)), and 17th level (`dice: 4d8|avg` (`4d8`)).
 
-**Classes**: [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Warlock The Celestial (XGE).md\|Warlock (The Celestial)]]
+**Classes**: [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Warlock The Celestial.md\|Warlock (The Celestial)]]
 
 *Source: Player's Handbook p. 272. Available in the SRD and the Basic Rules.*

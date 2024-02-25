@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Dungeon Location"]
+  - compendium/src/5e/dmg
+aliases:
+  - Dungeon Location
 ---
 # Dungeon Location
 *Source: Dungeon Master's Guide p. 99* 
 
-`dice: [[Dungeon Location.md#^dungeon-location]]`
-
 **Dungeon Location**
+
+`dice: [[Dungeon Location.md#^dungeon-location]]`
 
 | dice: d100 | Location |
 |------------|----------|

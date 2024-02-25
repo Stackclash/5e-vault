@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/0
-- monster/environment/desert
-- monster/environment/grassland
-- monster/size/small
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/0
+  - monster/environment/desert
+  - monster/environment/grassland
+  - monster/size/small
+  - monster/type/beast
 statblock: inline
-aliases: ["Jackal"]
+aliases:
+  - Jackal
 ---
 # [[5. Mechanics\Bestiary\Beast\Jackal.md|Jackal]]
-*Source: Monster Manual p. 331. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 331. Available in the SRD and the Basic Rules.*
 
 ```statblock
 "name": "Jackal"
@@ -50,10 +51,14 @@ aliases: ["Jackal"]
 "source":
 - "MM"
 - "GoS"
-"image": "compendium/bestiary/beast/token/jackal.png"
+"image": "5. Mechanics/Bestiary/Beast/token/jackal.webp"
 ```
 ^statblock
 
 ## Environment
 
 grassland, desert
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

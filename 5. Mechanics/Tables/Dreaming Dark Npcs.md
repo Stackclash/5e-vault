@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/erlw
-aliases: ["Dreaming Dark NPCs"]
+  - compendium/src/5e/erlw
+aliases:
+  - Dreaming Dark NPCs
 ---
 # Dreaming Dark NPCs
 *Source: Eberron: Rising from the Last War p. 197* 
 
-`dice: [[Dreaming Dark Npcs (ERLW).md#^dreaming-dark-npcs]]`
-
 **Dreaming Dark NPCs**
+
+`dice: [[Dreaming Dark Npcs.md#^dreaming-dark-npcs]]`
 
 | dice: d4 | NPC |
 |----------|-----|

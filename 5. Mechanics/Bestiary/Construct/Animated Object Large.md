@@ -2,18 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/phb
-- monster/cr/
-- monster/size/large
-- monster/type/construct
+  - compendium/src/5e/phb
+  - monster/cr/
+  - monster/size/large
+  - monster/type/construct
 statblock: inline
-aliases: ["Animated Object (Large)"]
+aliases:
+  - Animated Object (Large)
 ---
 # [[5. Mechanics\Bestiary\Construct\Animated Object Large.md|Animated Object (Large)]]
-*Source: Player's Handbook p. 213*  
+*Source: Player's Handbook p. 213*
 
 ```statblock
-"name": "Animated Object (Large) (PHB)"
+"name": "Animated Object Large"
 "size": "Large"
 "type": "construct"
 "alignment": "Unaligned"
@@ -44,6 +45,10 @@ aliases: ["Animated Object (Large)"]
   "name": "Slam"
 "source":
 - "PHB"
-"image": "compendium/bestiary/construct/token/animated-object-large.png"
+"image": "5. Mechanics/Bestiary/Construct/token/animated-object-large.webp"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

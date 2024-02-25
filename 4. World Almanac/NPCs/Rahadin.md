@@ -1,39 +1,46 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: null
 condition: healthy
+image: 4. World Almanac/NPCs/img/rahadin.webp
 relationships: []
-tags: 
+tags: null
 aliases: []
-pronounced: 
-race: 
-sex: 
-age: 
-alignment: 
-occupation: 
+pronounced: null
+race: null
+gender: null
+age: null
+alignment: Lawful Evil
+occupation: []
 groups: []
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+personality: null
+ideal: Loyalty is everything.
+bond: >-
+  I am a son of King Barov von Zarovich, and I will serve his son - my brother
+  and lord - forever.
+flaw: >-
+  I have slain thousands of men. I will slaughter thousands more to preserve the
+  von Zarovich legacy.
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]
 > # `=this.file.name`
-> **Pronounced:**  "`INPUT[text:pronounced]`"
-> ![[4. World Almanac/NPCs/img/rahadin.webp|cover hm-sm]] 
+> **Pronounced:**  `INPUT[text:pronounced]`
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```
 > ###### Bio
 >  |
 >  ---|---|
 > **Race** | `INPUT[suggester(optionQuery("5. Mechanics/Races")):race]` |
-> **Sex** | `INPUT[inlineSelect(option(male),option(female)):sex]` |
+> **Gender** | `INPUT[inlineSelect(option(male),option(female)):gender]` |
 > **Age** | `INPUT[number:age]` |
-> **Alignment** | `INPUT[inlineSelect(option(lawful good),option(neutral good),option(chaotic good),option(lawful neutral),option(neutral),option(chaotic neutral),option(lawful evil),option(netural evil),option(chaotic evil)):alignment]` |
+> **Alignment** | `INPUT[inlineSelect(option(Lawful Good),option(Neutral Good),option(Chaotic Good),option(Lawful Neutral),option(Neutral),option(Chaotic Neutral),option(Lawful Evil),option(Neutral Evil),option(Chaotic Evil)):alignment]` |
 > **Condition** | `INPUT[inlineSelect(option(healthy),option(injured),option(dead)):condition]` |
 > ###### Info
 >  |
@@ -45,6 +52,8 @@ dislikes:
 > **Current Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 # **`=this.file.name`**
+*Source: Curse of Strahd p. 237*
+
 Rahadin, the dusk elf chamberlain of Castle Ravenloft, has served Strahd's family faithfully for nearly five hundred years. He is Strahd's eternal servant, a longtime comrade-in-arms, and a ruthless warrior who has killed thousands in his lifetime.
 
 ## Exile
@@ -88,34 +97,61 @@ So dreadful a creature is Rahadin that anyone who stands within 10 feet of him c
 ## Traits/Goals
 > [!column] Traits
 >> [!metadata|text-Center bg-c-gray] Personality
->> `INPUT[text:personality]`
+>> `INPUT[textArea:personality]`
 >
 >> [!metadata|text-Center bg-c-gray] Ideal
->> `INPUT[text:ideal]`
+>> `INPUT[textArea:ideal]`
 >
 >> [!metadata|text-Center bg-c-gray] Bond
->> `INPUT[text:bond]`
+>> `INPUT[textArea:bond]`
 >
 >> [!metadata|text-Center bg-c-gray] Flaw
->> `INPUT[text:flaw]`
+>> `INPUT[textArea:flaw]`
 >
 >> [!metadata|text-Center bg-c-green] Likes
->> `INPUT[text:likes]`
+>> `INPUT[textArea:likes]`
 >
 >> [!metadata|text-Center bg-c-red] Dislikes
->> `INPUT[text:dislikes]`
+>> `INPUT[textArea:dislikes]`
 
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
 
 ## Relationships
+`BUTTON[add-relationship,remove-relationship]`
+```meta-bind-button
+style: primary
+label: Add Relationship
+id: add-relationship
+hidden: true
+actions:
+  - type: command
+    command: templater-obsidian:insert-templater
+  - type: input
+    str: add
+  - type: input
+    str: relationship
+```
+```meta-bind-button
+style: destructive
+label: Remove Relationship
+id: remove-relationship
+hidden: true
+actions:
+  - type: command
+    command: templater-obsidian:insert-templater
+  - type: input
+    str: remove
+  - type: input
+    str: relationship
+```
 ```dataviewjs
 await dv.view("npcRelationships", { current: dv.current() })
 ```
 
 ## Stats
 ```statblock
-"name": "Rahadin (CoS)"
+"name": "Rahadin"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "elf"
@@ -145,23 +181,25 @@ await dv.view("npcRelationships", { current: dv.current() })
 "cr": "10"
 "traits":
 - "desc": "Rahadin's innate spellcasting ability is Intelligence. He can innately\
-    \ cast the following spells, requiring no components:\n\n1/day: magic weapon,\
-    \ nondetection\n\n3/day: misty step, phantom steed"
+    \ cast the following spells, requiring no components:\n\n1/day: [[5. Mechanics/Spells/Magic Weapon.md|magic weapon]],\
+    \ [[5. Mechanics/Spells/Nondetection.md|nondetection]]\n\n3/day: [[5. Mechanics/Spells/Misty Step.md|misty step]],\
+    \ [[5. Mechanics/Spells/Phantom Steed.md|phantom steed]]"
   "name": "innate"
-- "desc": "Any creature within 10 feet of Rahadin that isn't protected by a mind blank\
-    \ spell hears in its mind the screams of the thousands of people Rahadin has killed.\
-    \ As a bonus action, Rahadin can force all creatures that can hear the screams\
-    \ to make a DC 16 Wisdom saving throw. Each creature takes dice: 3d10|avg (3d10)\
-    \ psychic damage on a failed save, or half as much damage on a successful one."
+- "desc": "Any creature within 10 feet of Rahadin that isn't protected by a [mind\
+    \ blank](compendium/spells/mind-blank.md) spell hears in its mind the screams\
+    \ of the thousands of people Rahadin has killed. As a bonus action, Rahadin can\
+    \ force all creatures that can hear the screams to make a DC 16 Wisdom saving\
+    \ throw. Each creature takes dice: 3d10|avg (3d10) psychic damage on a failed\
+    \ save, or half as much damage on a successful one."
   "name": "Deathly Choir"
-- "desc": "Rahadin has advantage on saving throws against being charmed, and magic\
-    \ can't put him to sleep."
+- "desc": "Rahadin has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
+    \ and magic can't put him to sleep."
   "name": "Fey Ancestry"
 - "desc": "Rahadin can attempt to hide even when he is only lightly obscured by foliage,\
     \ heavy rain, falling snow, mist, and other natural phenomena."
   "name": "Mask of the Wild"
 "actions":
-- "desc": "Rahadin attacks three times with his scimitar, or twice with his poisoned\
+- "desc": "Rahadin attacks three times with his scimitar, or twice with his [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
     \ darts."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
@@ -173,7 +211,7 @@ await dv.view("npcRelationships", { current: dv.current() })
   "name": "Poisoned Dart"
 "source":
 - "CoS"
-"image": "4. World Almanac/NPCs/token/rahadin.png"
+"image": "4. World Almanac/NPCs/token/rahadin-cos.webp"
 ```
 ^statblock
 

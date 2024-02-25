@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Extinction or Depletion"]
+  - compendium/src/5e/dmg
+aliases:
+  - Extinction or Depletion
 ---
 # Extinction or Depletion
 *Source: Dungeon Master's Guide p. 30* 
 
-`dice: [[Extinction Or Depletion.md#^extinction-or-depletion]]`
-
 **Extinction or Depletion**
+
+`dice: [[Extinction Or Depletion.md#^extinction-or-depletion]]`
 
 | dice: d8 | Lost Resource |
 |----------|---------------|

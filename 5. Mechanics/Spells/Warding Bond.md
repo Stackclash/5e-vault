@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer/battle-smith
-- spell/class/cleric
-- spell/class/cleric/peace-domain
-- spell/class/sorcerer/divine-soul
-- spell/level/2
-- spell/school/abjuration
-aliases: ["Warding Bond"]
+  - compendium/src/5e/phb
+  - spell/class/artificer/battle-smith
+  - spell/class/cleric
+  - spell/class/cleric/peace-domain
+  - spell/class/sorcerer/divine-soul
+  - spell/level/2
+  - spell/school/abjuration
+aliases:
+  - Warding Bond
 ---
 # Warding Bond
 %%-- Embedded content starts on the next line. --%%
@@ -24,6 +25,6 @@ This spell wards a willing creature you touch and creates a mystic connection be
 
 The spell ends if you drop to 0 hit points or if you and the target become separated by more than 60 feet. It also ends if the spell is cast again on either of the connected creatures. You can also dismiss the spell as an action.
 
-**Classes**: [[5. Mechanics/Classes/Artificer Battle Smith (TCE).md\|Artificer (Battle Smith)]], [[5. Mechanics/Classes/Cleric Peace Domain (TCE).md\|Cleric (Peace Domain)]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]]
+**Classes**: [[5. Mechanics/Classes/Artificer Battle Smith.md\|Artificer (Battle Smith)]], [[5. Mechanics/Classes/Cleric Peace Domain.md\|Cleric (Peace Domain)]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]]
 
 *Source: Player's Handbook p. 287. Available in the SRD and the Basic Rules.*

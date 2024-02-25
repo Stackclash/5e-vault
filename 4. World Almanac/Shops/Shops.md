@@ -101,6 +101,7 @@ columns:
     sortIndex: -1
     options:
       - { label: "[[5. Mechanics/Items/Longbow.md|Longbow]]", value: "[[5. Mechanics/Items/Longbow.md|Longbow]]", color: "hsl(24, 95%, 90%)"}
+      - { label: "[[5. Mechanics/Items/Acid Vial.md|Acid Vial]]", value: "[[5. Mechanics/Items/Acid Vial.md|Acid Vial]]", color: "hsl(231, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

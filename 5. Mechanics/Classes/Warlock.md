@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/warlock
-- compendium/src/5e/phb
-aliases: ["Warlock"]
+  - class/warlock
+  - compendium/src/5e/phb
+aliases:
+  - Warlock
 ---
 # Warlock
 *Source: Player's Handbook p. 105. Available in the SRD.*  
@@ -83,7 +84,7 @@ You are proficient with the following items, in addition to any proficiencies pr
 
 You begin play with the following equipment, in addition to any equipment provided by your background.
 
-- (a) a [[5. Mechanics/Items/Light Crossbow.md\|light crossbow]] and [[5. Mechanics/Items/Crossbow Bolts-20.md\|20 bolts]] or (b) any simple weapon  
+- (a) a [[5. Mechanics/Items/Light Crossbow.md\|light crossbow]] and [[5. Mechanics/Items/Crossbow Bolts 20.md\|20 bolts]] or (b) any simple weapon  
 - (a) a [[5. Mechanics/Items/Component Pouch.md\|component pouch]] or (b) an [[5. Mechanics/Items/Arcane Focus.md\|arcane focus]]  
 - (a) a [[5. Mechanics/Items/Scholars Pack.md\|scholar's pack]] or (b) a [[5. Mechanics/Items/Dungeoneers Pack.md\|dungeoneer's pack]]  
 - [[5. Mechanics/Items/Leather Armor.md\|Leather armor]], any simple weapon, and two [[5. Mechanics/Items/Dagger.md\|daggers]]  
@@ -159,6 +160,8 @@ When you determine the attitude your warlock character holds toward your patron,
 
 **Patron Attitudes**
 
+`dice: [[Warlock.md#^patron-attitudes]]`
+
 | dice: d6 | Attitude |
 |----------|----------|
 | 1 | Your patron has guided and helped your family for generations and is kindly toward you. |
@@ -178,6 +181,8 @@ Does your character have a pact that requires you to change your behavior in an 
 
 **Special Terms**
 
+`dice: [[Warlock.md#^special-terms]]`
+
 | dice: d6 | Term |
 |----------|------|
 | 1 | When directed, you must take immediate action against a specific enemy of your patron. |
@@ -196,6 +201,8 @@ Some patrons make a habit of, and often enjoy, marking the warlocks under their 
 If your warlock's pact comes with a binding mark, how you feel about displaying it probably depends on the nature of your relationship with the one who gave it to you. Is the mark a source of pride or something you are secretly ashamed of?
 
 **Binding Marks**
+
+`dice: [[Warlock.md#^binding-marks]]`
 
 | dice: d6 | Mark |
 |----------|------|
@@ -274,7 +281,7 @@ If your DM allows the use of feats, you may instead take a feat.
 ### Eldritch Versatility (Level 4)
 _Source: Tasha's Cauldron of Everything p. 70_
 
-*4th-level warlock [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+*4th-level warlock [[/5. Mechanics/Rules/Variant Rules/Optional Class Features.md\|optional class features]]*
 
 Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, representing a change of focus in your occult studies:
 

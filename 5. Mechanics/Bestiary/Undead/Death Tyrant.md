@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/14
-- monster/environment/underdark
-- monster/size/large
-- monster/type/undead
+  - compendium/src/5e/mm
+  - monster/cr/14
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/undead
 statblock: inline
-aliases: ["Death Tyrant"]
+aliases:
+  - Death Tyrant
 ---
 # [[5. Mechanics\Bestiary\Undead\Death Tyrant.md|Death Tyrant]]
-*Source: Monster Manual p. 29*  
+*Source: Monster Manual p. 29*
 
 On rare occasions, a beholder's sleeping mind drifts to places beyond its normal madness, imagining a reality in which it exists beyond death. When such dreams take hold, a beholder can transform, its flesh sloughing away to leave a death tyrant behind. This monster possesses the cunning and much of the magic it had in life, but it is fueled by the power of undeath. A death tyrant appears as a massive, naked skull, with a pinpoint of red light gleaming in its hollow eye socket. With its eyestalks rotted away, ten spectral eyes hover above the creature and glare in all directions.
 
@@ -144,10 +145,14 @@ The death tyrant can't repeat an effect until all three have been used, and it c
 - "AATM"
 - "SatO"
 - "BMT"
-"image": "compendium/bestiary/undead/token/death-tyrant.png"
+"image": "5. Mechanics/Bestiary/Undead/token/death-tyrant.webp"
 ```
 ^statblock
 
 ## Environment
 
 underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

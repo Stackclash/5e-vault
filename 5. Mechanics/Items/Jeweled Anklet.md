@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/wealth
-aliases: 
-- "Jeweled anklet"
+  - compendium/src/5e/dmg
+  - item/wealth/art-object
+aliases:
+  - Jeweled anklet
 cost: 250000
 ---
 # Jeweled anklet
-*Treasure*  
+*Art object*  
 
 - **Cost**: 2,500 gp
 

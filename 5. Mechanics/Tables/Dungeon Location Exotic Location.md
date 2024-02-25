@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Dungeon Location; Exotic Location"]
+  - compendium/src/5e/dmg
+aliases:
+  - Dungeon Location; Exotic Location
 ---
 # Dungeon Location; Exotic Location
 *Source: Dungeon Master's Guide p. 99* 
 
-`dice: [[Dungeon Location Exotic Location.md#^exotic-location]]`
-
 **Exotic Location**
+
+`dice: [[Dungeon Location Exotic Location.md#^exotic-location]]`
 
 | dice: d20 | Location |
 |-----------|----------|

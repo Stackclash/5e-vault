@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Dungeon Dressing; Container Contents"]
+  - compendium/src/5e/dmg
+aliases:
+  - Dungeon Dressing; Container Contents
 ---
 # Dungeon Dressing; Container Contents
 *Source: Dungeon Master's Guide p. 298* 
 
-`dice: [[Dungeon Dressing Container Contents.md#^container-contents]]`
-
 **Container Contents**
+
+`dice: [[Dungeon Dressing Container Contents.md#^container-contents]]`
 
 | dice: d100 | Item |
 |------------|------|

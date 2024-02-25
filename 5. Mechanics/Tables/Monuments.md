@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Monuments"]
+  - compendium/src/5e/dmg
+aliases:
+  - Monuments
 ---
 # Monuments
 *Source: Dungeon Master's Guide p. 108* 
 
-`dice: [[Monuments.md#^monuments]]`
-
 **Monuments**
+
+`dice: [[Monuments.md#^monuments]]`
 
 | dice: d20 | Monument |
 |-----------|----------|

@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Figuring Out Alien Technology"]
+  - compendium/src/5e/dmg
+aliases:
+  - Figuring Out Alien Technology
 ---
 # Figuring Out Alien Technology
 *Source: Dungeon Master's Guide p. 268* 
-
-`dice: [[Figuring Out Alien Technology.md#^figuring-out-alien-technology]]`
 
 **Figuring Out Alien Technology**
 

@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Random Buildings; Religious Building"]
+  - compendium/src/5e/dmg
+aliases:
+  - Random Buildings; Religious Building
 ---
 # Random Buildings; Religious Building
 *Source: Dungeon Master's Guide p. 113* 
 
-`dice: [[Random Buildings Religious Building.md#^religious-building]]`
-
 **Religious Building**
+
+`dice: [[Random Buildings Religious Building.md#^religious-building]]`
 
 | dice: d20 | Type |
 |-----------|------|

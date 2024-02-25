@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/2
-- monster/environment/forest
-- monster/environment/underdark
-- monster/size/large
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/2
+  - monster/environment/forest
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/beast
 statblock: inline
-aliases: ["Cave Bear"]
+aliases:
+  - Cave Bear
 ---
 # [[5. Mechanics\Bestiary\Beast\Cave Bear.md|Cave Bear]]
-*Source: Monster Manual p. 334*  
+*Source: Monster Manual p. 334*
 
 ```statblock
 "name": "Cave Bear"
@@ -52,10 +53,14 @@ aliases: ["Cave Bear"]
 - "MM"
 - "TftYP"
 - "WDMM"
-"image": "compendium/bestiary/beast/token/cave-bear.png"
+"image": "5. Mechanics/Bestiary/Beast/token/cave-bear.webp"
 ```
 ^statblock
 
 ## Environment
 
 forest, underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

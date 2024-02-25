@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/saf
-aliases: ["New Items"]
+  - compendium/src/5e/saf
+aliases:
+  - New Items
 ---
 # New Items
 *Source: Strongholds and Followers* 
@@ -12,8 +13,8 @@ aliases: ["New Items"]
 
 Some items must be **installed** in your stronghold in order to function. Such items cease to function if taken from the stronghold in which they were installed, and must be reinstalled to regain their power, though their powers may still work on *you* if you leave.
 
-- [[5. Mechanics/Items/Altar Of Unyielding Faith (SAF).md\|Altar of Unyielding Faith]]  
-- [[5. Mechanics/Items/Candles Of Accord (SAF).md\|Candles of Accord]]  
+- [[5. Mechanics/Items/Altar Of Unyielding Faith.md\|Altar of Unyielding Faith]]  
+- [[5. Mechanics/Items/Candles Of Accord.md\|Candles of Accord]]  
 
 ## Codices
 

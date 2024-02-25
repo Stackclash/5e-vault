@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-2
-- monster/environment/desert
-- monster/size/small
-- monster/type/elemental
+  - compendium/src/5e/mm
+  - monster/cr/1-2
+  - monster/environment/desert
+  - monster/size/small
+  - monster/type/elemental
 statblock: inline
-aliases: ["Dust Mephit"]
+aliases:
+  - Dust Mephit
 ---
 # [[5. Mechanics\Bestiary\Elemental\Dust Mephit.md|Dust Mephit]]
-*Source: Monster Manual p. 215. Available in the SRD.*  
+*Source: Monster Manual p. 215. Available in the SRD.*
 
 ## Mephits
 
@@ -79,10 +80,14 @@ Composed of earth and air, dust mephits are drawn to catacombs and find death mo
 - "PaBTSO"
 - "SatO"
 - "DoDk"
-"image": "compendium/bestiary/elemental/token/dust-mephit.png"
+"image": "5. Mechanics/Bestiary/Elemental/token/dust-mephit.webp"
 ```
 ^statblock
 
 ## Environment
 
 desert
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

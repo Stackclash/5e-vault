@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Services"]
+  - compendium/src/5e/phb
+aliases:
+  - Services
 ---
 # Services
 *Source: Player's Handbook p. 159. Available in the SRD and the Basic Rules.* 
-
-`dice: [[Services.md#^services]]`
 
 **Services**
 

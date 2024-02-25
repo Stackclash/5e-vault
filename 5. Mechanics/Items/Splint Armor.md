@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/armor/heavy
-aliases: 
-- "Splint Armor"
+  - compendium/src/5e/phb
+  - item/armor/heavy
+aliases:
+  - Splint Armor
 cost: 20000
 ---
 # Splint Armor

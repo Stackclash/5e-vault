@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Downtime Activity: Running a Business"]
+  - compendium/src/5e/dmg
+aliases:
+  - 'Downtime Activity: Running a Business'
 ---
 # Downtime Activity: Running a Business
 *Source: Dungeon Master's Guide p. 129* 
@@ -16,8 +17,8 @@ If the character is required to pay a cost as a result of rolling on this table 
 
 **Running a Business**
 
-| dice: d100 + Days | Result |
-|-------------------|--------|
+| d100 + Days | Result |
+|-------------|--------|
 | 01-20 | You must pay one and a half times the business's maintenance cost for each of the days. |
 | 21-30 | You must pay the business's full maintenance cost for each of the days. |
 | 31-40 | You must pay half the business's maintenance cost for each of the days. Profits cover the other half. |

@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/wealth
-aliases: 
-- "Banded Agate"
+  - compendium/src/5e/dmg
+  - item/wealth/gemstone
+aliases:
+  - Banded Agate
 cost: 1000
 ---
 # Banded Agate
-*Treasure*  
+*Gemstone*  
 
 - **Cost**: 10 gp
 

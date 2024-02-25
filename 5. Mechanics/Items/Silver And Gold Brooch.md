@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/wealth
-aliases: 
-- "Silver and gold brooch"
+  - compendium/src/5e/dmg
+  - item/wealth/art-object
+aliases:
+  - Silver and gold brooch
 cost: 75000
 ---
 # Silver and gold brooch
-*Treasure*  
+*Art object*  
 
 - **Cost**: 750 gp
 

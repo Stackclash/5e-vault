@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/13
-- monster/environment/underdark
-- monster/size/large
-- monster/type/aberration
+  - compendium/src/5e/mm
+  - monster/cr/13
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/aberration
 statblock: inline
-aliases: ["Beholder"]
+aliases:
+  - Beholder
 ---
 # [[5. Mechanics\Bestiary\Aberration\Beholder.md|Beholder]]
-*Source: Monster Manual p. 28, Eberron: Rising from the Last War, Tasha's Cauldron of Everything*  
+*Source: Monster Manual p. 28, Eberron: Rising from the Last War, Tasha's Cauldron of Everything*
 
 One glance at a beholder is enough to assess its foul and otherworldly nature. Aggressive, hateful, and greedy, these aberrations dismiss all other creatures as lesser beings, toying with them or destroying them as they choose.
 
@@ -149,10 +150,14 @@ A beholder's central lair is typically a large, spacious cavern with high ceilin
 - "SatO"
 - "ToFW"
 - "BMT"
-"image": "compendium/bestiary/aberration/token/beholder.png"
+"image": "5. Mechanics/Bestiary/Aberration/token/beholder.webp"
 ```
 ^statblock
 
 ## Environment
 
 underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

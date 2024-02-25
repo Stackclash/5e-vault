@@ -1,39 +1,43 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: null
 condition: healthy
-relationships: []
-tags: 
+image: 4. World Almanac/NPCs/img/doru.webp
+relationships:
+  - Donavich|father
+tags: null
 aliases: []
-pronounced: 
-race: 
-sex: 
-age: 
-alignment: 
-occupation: 
+pronounced: null
+race: null
+gender: null
+age: null
+alignment: Neutral Evil
+occupation: []
 groups: []
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]
 > # `=this.file.name`
-> **Pronounced:**  "`INPUT[text:pronounced]`"
-> ![[4. World Almanac/NPCs/img/doru.webp|cover hm-sm]] 
+> **Pronounced:**  `INPUT[text:pronounced]`
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```
 > ###### Bio
 >  |
 >  ---|---|
 > **Race** | `INPUT[suggester(optionQuery("5. Mechanics/Races")):race]` |
-> **Sex** | `INPUT[inlineSelect(option(male),option(female)):sex]` |
+> **Gender** | `INPUT[inlineSelect(option(male),option(female)):gender]` |
 > **Age** | `INPUT[number:age]` |
-> **Alignment** | `INPUT[inlineSelect(option(lawful good),option(neutral good),option(chaotic good),option(lawful neutral),option(neutral),option(chaotic neutral),option(lawful evil),option(netural evil),option(chaotic evil)):alignment]` |
+> **Alignment** | `INPUT[inlineSelect(option(Lawful Good),option(Neutral Good),option(Chaotic Good),option(Lawful Neutral),option(Neutral),option(Chaotic Neutral),option(Lawful Evil),option(Neutral Evil),option(Chaotic Evil)):alignment]` |
 > **Condition** | `INPUT[inlineSelect(option(healthy),option(injured),option(dead)):condition]` |
 > ###### Info
 >  |
@@ -45,39 +49,68 @@ dislikes:
 > **Current Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 # **`=this.file.name`**
+*Source: Curse of Strahd p. 47*
+
 TBD
 
 ## Traits/Goals
 > [!column] Traits
 >> [!metadata|text-Center bg-c-gray] Personality
->> `INPUT[text:personality]`
+>> `INPUT[textArea:personality]`
 >
 >> [!metadata|text-Center bg-c-gray] Ideal
->> `INPUT[text:ideal]`
+>> `INPUT[textArea:ideal]`
 >
 >> [!metadata|text-Center bg-c-gray] Bond
->> `INPUT[text:bond]`
+>> `INPUT[textArea:bond]`
 >
 >> [!metadata|text-Center bg-c-gray] Flaw
->> `INPUT[text:flaw]`
+>> `INPUT[textArea:flaw]`
 >
 >> [!metadata|text-Center bg-c-green] Likes
->> `INPUT[text:likes]`
+>> `INPUT[textArea:likes]`
 >
 >> [!metadata|text-Center bg-c-red] Dislikes
->> `INPUT[text:dislikes]`
+>> `INPUT[textArea:dislikes]`
 
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
 
 ## Relationships
+`BUTTON[add-relationship,remove-relationship]`
+```meta-bind-button
+style: primary
+label: Add Relationship
+id: add-relationship
+hidden: true
+actions:
+  - type: command
+    command: templater-obsidian:insert-templater
+  - type: input
+    str: add
+  - type: input
+    str: relationship
+```
+```meta-bind-button
+style: destructive
+label: Remove Relationship
+id: remove-relationship
+hidden: true
+actions:
+  - type: command
+    command: templater-obsidian:insert-templater
+  - type: input
+    str: remove
+  - type: input
+    str: relationship
+```
 ```dataviewjs
 await dv.view("npcRelationships", { current: dv.current() })
 ```
 
 ## Stats
 ```statblock
-"name": "Doru (CoS)"
+"name": "Doru"
 "size": "Medium"
 "type": "undead"
 "alignment": "Neutral Evil"
@@ -115,20 +148,23 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ without an invitation from one of the occupants.\n\nHarmed by Running Water.\
     \ Doru takes 20 acid damage when it ends its turn in running water.\n\nStake\
     \ to the Heart. Doru is destroyed if a piercing weapon made of wood is driven\
-    \ into its heart while it is incapacitated in its resting place.\n\nSunlight\
-    \ Hypersensitivity. Doru takes 20 radiant damage when it starts its turn in sunlight.\
-    \ While in sunlight, it has disadvantage on attack rolls and ability checks."
+    \ into its heart while it is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
+    \ in its resting place.\n\nSunlight Hypersensitivity. Doru takes 20 radiant\
+    \ damage when it starts its turn in sunlight. While in sunlight, it has disadvantage\
+    \ on attack rolls and ability checks."
   "name": "Vampire Weaknesses"
 "actions":
 - "desc": "Doru makes two attacks, only one of which can be a bite attack."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one willing\
-    \ creature, or a creature that is grappled by Doru, incapacitated, or restrained.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage plus dice: 2d6|avg\
-    \ (2d6) necrotic damage. The target's hit point maximum is reduced by an amount\
-    \ equal to the necrotic damage taken, and Doru regains hit points equal to that\
-    \ amount. The reduction lasts until the target finishes a long rest. The target\
-    \ dies if this effect reduces its hit point maximum to 0."
+    \ creature, or a creature that is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ by Doru, [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]], or\
+    \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]. Hit: dice: 1d6\
+    \ + 3|avg (1d6 + 3) piercing damage plus dice: 2d6|avg (2d6) necrotic damage.\
+    \ The target's hit point maximum is reduced by an amount equal to the necrotic\
+    \ damage taken, and Doru regains hit points equal to that amount. The reduction\
+    \ lasts until the target finishes a long rest. The target dies if this effect\
+    \ reduces its hit point maximum to 0."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one creature.\
     \ Hit: dice: 2d4 + 3|avg (2d4 + 3) slashing damage. Instead of dealing damage,\
@@ -136,7 +172,7 @@ await dv.view("npcRelationships", { current: dv.current() })
   "name": "Claws"
 "source":
 - "CoS"
-"image": "4. World Almanac/NPCs/token/doru.png"
+"image": "4. World Almanac/NPCs/token/doru-cos.webp"
 ```
 ^statblock
 

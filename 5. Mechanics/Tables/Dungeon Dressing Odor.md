@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Dungeon Dressing; Odor"]
+  - compendium/src/5e/dmg
+aliases:
+  - Dungeon Dressing; Odor
 ---
 # Dungeon Dressing; Odor
 *Source: Dungeon Master's Guide p. 298* 
 
-`dice: [[Dungeon Dressing Odor.md#^odor]]`
-
 **Odor**
+
+`dice: [[Dungeon Dressing Odor.md#^odor]]`
 
 | dice: d100 | Effect |
 |------------|--------|

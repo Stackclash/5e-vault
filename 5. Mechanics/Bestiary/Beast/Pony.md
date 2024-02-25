@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-8
-- monster/environment/urban
-- monster/size/medium
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/1-8
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/beast
 statblock: inline
-aliases: ["Pony"]
+aliases:
+  - Pony
 ---
 # [[5. Mechanics\Bestiary\Beast\Pony.md|Pony]]
-*Source: Monster Manual p. 335. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 335. Available in the SRD and the Basic Rules.*
 
 ```statblock
 "name": "Pony"
@@ -41,10 +42,14 @@ aliases: ["Pony"]
 - "SKT"
 - "WBtW"
 - "SatO"
-"image": "compendium/bestiary/beast/token/pony.png"
+"image": "5. Mechanics/Bestiary/Beast/token/pony.webp"
 ```
 ^statblock
 
 ## Environment
 
 urban
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

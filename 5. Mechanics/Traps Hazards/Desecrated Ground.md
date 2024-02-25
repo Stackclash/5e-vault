@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/dmg
-- hazard/wld
-aliases: ["Desecrated Ground"]
+  - compendium/src/5e/dmg
+  - hazard/wld
+aliases:
+  - Desecrated Ground
 ---
 # Desecrated Ground
 *Wilderness Hazard*  

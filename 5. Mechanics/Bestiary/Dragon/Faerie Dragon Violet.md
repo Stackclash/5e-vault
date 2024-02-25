@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/2
-- monster/environment/forest
-- monster/size/tiny
-- monster/type/dragon
+  - compendium/src/5e/mm
+  - monster/cr/2
+  - monster/environment/forest
+  - monster/size/tiny
+  - monster/type/dragon
 statblock: inline
-aliases: ["Faerie Dragon (Violet)"]
+aliases:
+  - Faerie Dragon (Violet)
 ---
 # [[5. Mechanics\Bestiary\Dragon\Faerie Dragon Violet.md|Faerie Dragon (Violet)]]
-*Source: Monster Manual p. 133*  
+*Source: Monster Manual p. 133*
 
 A faerie dragon is a cat-sized dragon with butterfly wings. It wears a sharp-toothed grin and expresses its delight by the twitching of its tail, its merriment fading only if it is attacked.
 
@@ -41,7 +42,7 @@ A faerie dragon's scales change hue as it ages, moving through all the colors of
 CR 1 (200 XP) For a red, orange, or yellow faerie dragon; 2 (450 XP) for a green, blue, indigo, or violet faerie dragon
 
 ```statblock
-"name": "Faerie Dragon (Violet)"
+"name": "Faerie Dragon Violet"
 "size": "Tiny"
 "type": "dragon"
 "alignment": "Chaotic Good"
@@ -110,10 +111,14 @@ CR 1 (200 XP) For a red, orange, or yellow faerie dragon; 2 (450 XP) for a green
 - "EGW"
 - "WBtW"
 - "BMT"
-"image": "compendium/bestiary/dragon/token/faerie-dragon-violet.png"
+"image": "5. Mechanics/Bestiary/Dragon/token/faerie-dragon-violet.webp"
 ```
 ^statblock
 
 ## Environment
 
 forest
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Government; Sample Hierarchy of Noble Titles"]
+  - compendium/src/5e/dmg
+aliases:
+  - Government; Sample Hierarchy of Noble Titles
 ---
 # Government; Sample Hierarchy of Noble Titles
 *Source: Dungeon Master's Guide p. 17* 
-
-`dice: [[Government Sample Hierarchy Of Noble Titles.md#^sample-hierarchy-of-noble-titles]]`
 
 **Sample Hierarchy of Noble Titles**
 

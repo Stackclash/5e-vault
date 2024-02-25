@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/weapon/explosive
-aliases: 
-- "Bomb"
+  - compendium/src/5e/dmg
+  - item/weapon/explosive
+aliases:
+  - Bomb
 cost: 15000
 ---
 # Bomb

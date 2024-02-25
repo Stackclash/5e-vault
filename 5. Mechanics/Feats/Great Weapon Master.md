@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/phb
-- feat
-aliases: ["Great Weapon Master"]
+  - compendium/src/5e/phb
+  - feat
+aliases:
+  - Great Weapon Master
 ---
 # Great Weapon Master
 *Source: Player's Handbook p. 167*  

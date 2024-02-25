@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-2
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/undead
+  - compendium/src/5e/mm
+  - monster/cr/1-2
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
-aliases: ["Shadow"]
+aliases:
+  - Shadow
 ---
 # [[5. Mechanics\Bestiary\Undead\Shadow.md|Shadow]]
-*Source: Monster Manual p. 269, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD.*  
+*Source: Monster Manual p. 269, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD.*
 
 Shadows are undead that resemble dark exaggerations of humanoid shadows.
 
@@ -94,10 +95,14 @@ A shadow doesn't require air, food, drink, or sleep
 - "BMT"
 - "GHLoE"
 - "DoDk"
-"image": "compendium/bestiary/undead/token/shadow.png"
+"image": "5. Mechanics/Bestiary/Undead/token/shadow.webp"
 ```
 ^statblock
 
 ## Environment
 
 underdark, urban
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

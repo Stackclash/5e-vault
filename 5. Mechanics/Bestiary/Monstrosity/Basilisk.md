@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/3
-- monster/environment/mountain
-- monster/size/medium
-- monster/type/monstrosity
+  - compendium/src/5e/mm
+  - monster/cr/3
+  - monster/environment/mountain
+  - monster/size/medium
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Basilisk"]
+aliases:
+  - Basilisk
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Basilisk.md|Basilisk]]
-*Source: Monster Manual p. 24. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 24. Available in the SRD and the Basic Rules.*
 
 Travelers sometimes find objects that look like pieces of remarkably lifelike stone carvings of wildlife. Missing parts appear to have been bitten off. Seasoned explorers regard such relics as warnings, knowing that the basilisk that created them is likely to be nearby.
 
@@ -80,10 +81,14 @@ Some alchemists are said to know how to process the basilisk's gullet and the fl
 - "IDRotF"
 - "PSZ"
 - "PaBTSO"
-"image": "compendium/bestiary/monstrosity/token/basilisk.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/basilisk.webp"
 ```
 ^statblock
 
 ## Environment
 
 mountain
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

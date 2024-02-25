@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/8
-- monster/environment/underdark
-- monster/size/large
-- monster/type/monstrosity
+  - compendium/src/5e/mm
+  - monster/cr/8
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Spirit Naga"]
+aliases:
+  - Spirit Naga
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Spirit Naga.md|Spirit Naga]]
-*Source: Monster Manual p. 234. Available in the SRD.*  
+*Source: Monster Manual p. 234. Available in the SRD.*
 
 Spirit nagas live in gloom and spitefulness, constantly plotting vengeance against creatures that have wronged them-or that they believe have wronged them. Lairing in dismal caverns and ruins, they devote their time to developing new spells and enslaving the mortals with which they surround themselves. A spirit naga likes to charm its foes, drawing them close so that it can sink its poisonous fangs into their flesh.
 
@@ -98,10 +99,14 @@ A naga doesn't require air, food, drink, or sleep.
 - "MOT"
 - "JttRC"
 - "PaBTSO"
-"image": "compendium/bestiary/monstrosity/token/spirit-naga.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/spirit-naga.webp"
 ```
 ^statblock
 
 ## Environment
 
 underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

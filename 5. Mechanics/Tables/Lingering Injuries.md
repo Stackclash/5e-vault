@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Lingering Injuries"]
+  - compendium/src/5e/dmg
+aliases:
+  - Lingering Injuries
 ---
 # Lingering Injuries
 *Source: Dungeon Master's Guide p. 272* 
 
-`dice: [[Lingering Injuries.md#^lingering-injuries]]`
-
 **Lingering Injuries**
+
+`dice: [[Lingering Injuries.md#^lingering-injuries]]`
 
 | dice: d20 | Injury |
 |-----------|--------|

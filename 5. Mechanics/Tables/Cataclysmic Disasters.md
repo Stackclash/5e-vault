@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Cataclysmic Disasters"]
+  - compendium/src/5e/dmg
+aliases:
+  - Cataclysmic Disasters
 ---
 # Cataclysmic Disasters
 *Source: Dungeon Master's Guide p. 28* 
 
-`dice: [[Cataclysmic Disasters.md#^cataclysmic-disasters]]`
-
 **Cataclysmic Disasters**
+
+`dice: [[Cataclysmic Disasters.md#^cataclysmic-disasters]]`
 
 | dice: d10 | Cataclysmic Disaster |
 |-----------|----------------------|

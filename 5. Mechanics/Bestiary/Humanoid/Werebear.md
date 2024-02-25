@@ -2,19 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/5
-- monster/environment/arctic
-- monster/environment/forest
-- monster/environment/hill
-- monster/size/medium
-- monster/type/humanoid/human
-- monster/type/humanoid/shapechanger
+  - compendium/src/5e/mm
+  - monster/cr/5
+  - monster/environment/arctic
+  - monster/environment/forest
+  - monster/environment/hill
+  - monster/size/medium
+  - monster/type/humanoid/human
+  - monster/type/humanoid/shapechanger
 statblock: inline
-aliases: ["Werebear"]
+aliases:
+  - Werebear
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Werebear.md|Werebear]]
-*Source: Monster Manual p. 208. Available in the SRD.*  
+*Source: Monster Manual p. 208. Available in the SRD.*
 
 Werebears are powerful lycanthropes with the ability to temper their monstrous natures and reject their violent impulses. In humanoid form, they are large, muscular, and covered in hair matching the color of their ursine form's fur. A werebear is a loner by nature, fearing what might happen to innocent creatures around it when its bestial nature takes over.
 
@@ -109,10 +110,14 @@ Some individuals see little point in fighting the curse and accept what they are
 - "GoS"
 - "EGW"
 - "KftGV"
-"image": "compendium/bestiary/humanoid/token/werebear.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/werebear.webp"
 ```
 ^statblock
 
 ## Environment
 
 forest, hill, arctic
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

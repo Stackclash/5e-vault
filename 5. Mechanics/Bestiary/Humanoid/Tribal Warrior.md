@@ -2,24 +2,25 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-8
-- monster/environment/arctic
-- monster/environment/coastal
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/humanoid/any-race
+  - compendium/src/5e/mm
+  - monster/cr/1-8
+  - monster/environment/arctic
+  - monster/environment/coastal
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/humanoid/any-race
 statblock: inline
-aliases: ["Tribal Warrior"]
+aliases:
+  - Tribal Warrior
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Tribal Warrior.md|Tribal Warrior]]
-*Source: Monster Manual p. 350. Available in the SRD.*  
+*Source: Monster Manual p. 350. Available in the SRD.*
 
 Tribal warriors live beyond civilization, most often subsisting on fishing and hunting. Each tribe acts in accordance with the wishes of its chief, who is the greatest or oldest warrior of the tribe or a tribe member blessed by the gods.
 
@@ -65,10 +66,14 @@ Tribal warriors live beyond civilization, most often subsisting on fishing and h
 - "EGW"
 - "MOT"
 - "IDRotF"
-"image": "compendium/bestiary/humanoid/token/tribal-warrior.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/tribal-warrior.webp"
 ```
 ^statblock
 
 ## Environment
 
 coastal, mountain, grassland, hill, arctic, forest, swamp, underdark, desert
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

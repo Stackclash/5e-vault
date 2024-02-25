@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/6
-- monster/environment/desert
-- monster/size/large
-- monster/type/dragon
+  - compendium/src/5e/mm
+  - monster/cr/6
+  - monster/environment/desert
+  - monster/size/large
+  - monster/type/dragon
 statblock: inline
-aliases: ["Young Brass Dragon"]
+aliases:
+  - Young Brass Dragon
 ---
 # [[5. Mechanics\Bestiary\Dragon\Young Brass Dragon.md|Young Brass Dragon]]
-*Source: Monster Manual p. 105. Available in the SRD.*  
+*Source: Monster Manual p. 105. Available in the SRD.*
 
 The most gregarious of the true dragons, brass dragons crave conversation, sunlight, and hot, dry climates.
 
@@ -130,10 +131,14 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 "source":
 - "MM"
 - "SKT"
-"image": "compendium/bestiary/dragon/token/young-brass-dragon.png"
+"image": "5. Mechanics/Bestiary/Dragon/token/young-brass-dragon.webp"
 ```
 ^statblock
 
 ## Environment
 
 desert
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

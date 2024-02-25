@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["New Organizations"]
+  - compendium/src/5e/dmg
+aliases:
+  - New Organizations
 ---
 # New Organizations
 *Source: Dungeon Master's Guide p. 31* 
 
-`dice: [[New Organizations.md#^new-organizations]]`
-
 **New Organizations**
+
+`dice: [[New Organizations.md#^new-organizations]]`
 
 | dice: d10 | New Organizations |
 |-----------|-------------------|

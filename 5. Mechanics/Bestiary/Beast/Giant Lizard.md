@@ -2,20 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-4
-- monster/environment/coastal
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/size/large
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/1-4
+  - monster/environment/coastal
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/beast
 statblock: inline
-aliases: ["Giant Lizard"]
+aliases:
+  - Giant Lizard
 ---
 # [[5. Mechanics\Bestiary\Beast\Giant Lizard.md|Giant Lizard]]
-*Source: Monster Manual p. 326. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 326. Available in the SRD and the Basic Rules.*
 
 A giant lizard can be ridden or used as a draft animal. Lizardfolk also keep them as pets, and subterranean giant lizards are used as mounts and pack animals by drow, duergar, and other Underdark dwellers.
 
@@ -62,10 +63,14 @@ A giant lizard can be ridden or used as a draft animal. Lizardfolk also keep the
 - "JttRC"
 - "KftGV"
 - "PSA"
-"image": "compendium/bestiary/beast/token/giant-lizard.png"
+"image": "5. Mechanics/Bestiary/Beast/token/giant-lizard.webp"
 ```
 ^statblock
 
 ## Environment
 
 underdark, forest, swamp, desert, coastal
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

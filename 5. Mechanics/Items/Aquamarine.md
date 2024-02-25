@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/wealth
-aliases: 
-- "Aquamarine"
+  - compendium/src/5e/dmg
+  - item/wealth/gemstone
+aliases:
+  - Aquamarine
 cost: 50000
 ---
 # Aquamarine
-*Treasure*  
+*Gemstone*  
 
 - **Cost**: 500 gp
 

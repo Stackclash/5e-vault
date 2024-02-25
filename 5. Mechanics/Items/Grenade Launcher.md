@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/gear
-aliases: 
-- "Grenade Launcher"
+  - compendium/src/5e/dmg
+  - item/gear
+aliases:
+  - Grenade Launcher
 ---
 # Grenade Launcher
 *Adventuring Gear*  

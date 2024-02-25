@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/dmg
-aliases: ["Green Slime"]
+  - compendium/src/5e/dmg
+aliases:
+  - Green Slime
 ---
 # Green Slime
 *Generic Hazard*  

@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Coinage; Standard Exchange Rates"]
+  - compendium/src/5e/phb
+aliases:
+  - Coinage; Standard Exchange Rates
 ---
 # Coinage; Standard Exchange Rates
 *Source: Player's Handbook p. 143. Available in the SRD and the Basic Rules.* 
-
-`dice: [[Coinage Standard Exchange Rates.md#^standard-exchange-rates]]`
 
 **Standard Exchange Rates**
 

@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Dungeon Dressing; General Features"]
+  - compendium/src/5e/dmg
+aliases:
+  - Dungeon Dressing; General Features
 ---
 # Dungeon Dressing; General Features
 *Source: Dungeon Master's Guide p. 298* 
 
-`dice: [[Dungeon Dressing General Features.md#^general-features]]`
-
 **General Features**
+
+`dice: [[Dungeon Dressing General Features.md#^general-features]]`
 
 | dice: d100 | Item |
 |------------|------|

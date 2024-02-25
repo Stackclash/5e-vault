@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Moral Quandaries"]
+  - compendium/src/5e/dmg
+aliases:
+  - Moral Quandaries
 ---
 # Moral Quandaries
 *Source: Dungeon Master's Guide p. 79* 
 
-`dice: [[Moral Quandaries.md#^moral-quandaries]]`
-
 **Moral Quandaries**
+
+`dice: [[Moral Quandaries.md#^moral-quandaries]]`
 
 | dice: d20 | Quandary |
 |-----------|----------|

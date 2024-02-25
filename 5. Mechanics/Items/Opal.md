@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/wealth
-aliases: 
-- "Opal"
+  - compendium/src/5e/dmg
+  - item/wealth/gemstone
+aliases:
+  - Opal
 cost: 100000
 ---
 # Opal
-*Treasure*  
+*Gemstone*  
 
 - **Cost**: 1,000 gp
 

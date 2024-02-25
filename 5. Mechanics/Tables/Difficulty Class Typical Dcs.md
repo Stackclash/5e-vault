@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Difficulty Class; Typical DCs"]
+  - compendium/src/5e/dmg
+aliases:
+  - Difficulty Class; Typical DCs
 ---
 # Difficulty Class; Typical DCs
 *Source: Dungeon Master's Guide p. 238* 
-
-`dice: [[Difficulty Class Typical Dcs.md#^typical-dcs]]`
 
 **Typical DCs**
 

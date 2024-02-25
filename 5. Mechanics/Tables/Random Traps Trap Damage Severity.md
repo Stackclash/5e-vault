@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Random Traps; Trap Damage Severity"]
+  - compendium/src/5e/dmg
+aliases:
+  - Random Traps; Trap Damage Severity
 ---
 # Random Traps; Trap Damage Severity
 *Source: Dungeon Master's Guide p. 297* 
 
-`dice: [[Random Traps Trap Damage Severity.md#^trap-damage-severity]]`
-
 **Trap Damage Severity**
+
+`dice: [[Random Traps Trap Damage Severity.md#^trap-damage-severity]]`
 
 | dice: d6 | Damage Severity |
 |----------|-----------------|

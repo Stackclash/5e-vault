@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/wizard
-- spell/level/6
-- spell/school/evocation
-aliases: ["Otiluke's Freezing Sphere"]
+  - compendium/src/5e/phb
+  - spell/class/wizard
+  - spell/level/6
+  - spell/school/evocation
+aliases:
+  - Otiluke's Freezing Sphere
 ---
 # Otiluke's Freezing Sphere
 %%-- Embedded content starts on the next line. --%%

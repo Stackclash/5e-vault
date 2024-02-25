@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/phb
-- subclass/rogue/thief
-aliases: ["Thief"]
+  - compendium/src/5e/phb
+  - subclass/rogue/thief
+aliases:
+  - Thief
 ---
 # Thief
 *[[Rogue.md\|Rogue]]: Roguish Archetype*  

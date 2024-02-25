@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Nonhuman Deities"]
+  - compendium/src/5e/phb
+aliases:
+  - Nonhuman Deities
 ---
 # Nonhuman Deities
 *Source: Player's Handbook p. 293* 
-
-`dice: [[Nonhuman Deities.md#^nonhuman-deities]]`
 
 **Nonhuman Deities**
 

@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/5
-- monster/environment/underdark
-- monster/size/large
-- monster/type/elemental
+  - compendium/src/5e/mm
+  - monster/cr/5
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/elemental
 statblock: inline
-aliases: ["Salamander"]
+aliases:
+  - Salamander
 ---
 # [[5. Mechanics\Bestiary\Elemental\Salamander.md|Salamander]]
-*Source: Monster Manual p. 266. Available in the SRD.*  
+*Source: Monster Manual p. 266. Available in the SRD.*
 
 Salamanders slither across the Sea of Ash on the Elemental Plane of Fire, their sinuous coils and jagged spines smoldering. Intense heat washes off their bodies, while their yellow eyes glow like candles in the deep-set hollows of their hawkish faces.
 
@@ -97,10 +98,14 @@ This inherent heat is an asset to salamanders' skill as smiths, allowing them to
 - "KftGV"
 - "GotSF"
 - "BMT"
-"image": "compendium/bestiary/elemental/token/salamander.png"
+"image": "5. Mechanics/Bestiary/Elemental/token/salamander.webp"
 ```
 ^statblock
 
 ## Environment
 
 underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

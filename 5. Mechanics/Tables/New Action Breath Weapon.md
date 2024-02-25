@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/mm
-aliases: ["New Action: Breath Weapon"]
+  - compendium/src/5e/mm
+aliases:
+  - 'New Action: Breath Weapon'
 ---
 # New Action: Breath Weapon
 *Source: Monster Manual p. 180* 
-
-`dice: [[New Action Breath Weapon.md#^size-breath-weapon-optional-prerequisite]]`
 
 | Size | Breath Weapon | Optional Prerequisite |
 |------|---------------|-----------------------|

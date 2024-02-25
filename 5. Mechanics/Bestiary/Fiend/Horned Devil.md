@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/11
-- monster/size/large
-- monster/type/fiend/devil
+  - compendium/src/5e/mm
+  - monster/cr/11
+  - monster/size/large
+  - monster/type/fiend/devil
 statblock: inline
-aliases: ["Horned Devil"]
+aliases:
+  - Horned Devil
 ---
 # [[5. Mechanics\Bestiary\Fiend\Horned Devil.md|Horned Devil]]
-*Source: Monster Manual p. 74. Available in the SRD.*  
+*Source: Monster Manual p. 74. Available in the SRD.*
 
 Horned devils are lazy to the point of belligerence and reluctant to put themselves in harm's way. Moreover, they hate and fear any creature stronger than themselves. When they are sufficiently provoked or antagonized, the fury of these fiends can be terrifying.
 
@@ -185,8 +186,8 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
     \ of its turns due to an infernal wound. Each time the devil hits the wounded\
     \ target with this attack, the damage dealt by the wound increases by dice: 3d6|avg\
     \ (3d6). Any creature can take an action to stanch the wound with a successful\
-    \ DC 12 Wisdom (Medicine) check. The wound also closes if the target receives\
-    \ magical healing."
+    \ DC 12 Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) check. The wound\
+    \ also closes if the target receives magical healing."
   "name": "Tail"
 - "desc": "Ranged Spell Attack: dice: d20+7 (+7 to hit), range 150 ft., one target.\
     \ Hit: dice: 4d6|avg (4d6) fire damage. If the target is a flammable object\
@@ -198,6 +199,10 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - "BGDIA"
 - "SatO"
 - "DoDk"
-"image": "compendium/bestiary/fiend/token/horned-devil.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/horned-devil.webp"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

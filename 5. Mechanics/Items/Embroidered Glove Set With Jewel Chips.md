@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/wealth
-aliases: 
-- "Embroidered glove set with jewel chips"
+  - compendium/src/5e/dmg
+  - item/wealth/art-object
+aliases:
+  - Embroidered glove set with jewel chips
 cost: 250000
 ---
 # Embroidered glove set with jewel chips
-*Treasure*  
+*Art object*  
 
 - **Cost**: 2,500 gp
 

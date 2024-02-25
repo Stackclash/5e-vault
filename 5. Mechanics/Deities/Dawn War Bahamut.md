@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- compendium/src/5e/dmg
-- deity/dawn-war
-- domain/life
-- domain/war
-aliases: ["Bahamut"]
+  - compendium/src/5e/dmg
+  - deity/dawn-war
+  - domain/life
+  - domain/war
+aliases:
+  - Bahamut
 ---
 # Bahamut
 *Source: Dungeon Master's Guide p. 10* 

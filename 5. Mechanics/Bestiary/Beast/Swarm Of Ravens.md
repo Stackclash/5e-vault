@@ -2,19 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-4
-- monster/environment/forest
-- monster/environment/hill
-- monster/environment/swamp
-- monster/environment/urban
-- monster/size/medium
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/1-4
+  - monster/environment/forest
+  - monster/environment/hill
+  - monster/environment/swamp
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/beast
 statblock: inline
-aliases: ["Swarm of Ravens"]
+aliases:
+  - Swarm of Ravens
 ---
 # [[5. Mechanics\Bestiary\Beast\Swarm Of Ravens.md|Swarm of Ravens]]
-*Source: Monster Manual p. 339, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 339, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*
 
 > [!note] The Nature of Swarms
 > 
@@ -22,7 +23,7 @@ aliases: ["Swarm of Ravens"]
 ^the-nature-of-swarms
 
 ```statblock
-"name": "Swarm of Ravens"
+"name": "Swarm Of Ravens"
 "size": "Medium"
 "type": "beast"
 "alignment": "Unaligned"
@@ -68,10 +69,14 @@ aliases: ["Swarm of Ravens"]
 - "IDRotF"
 - "TCE"
 - "CM"
-"image": "compendium/bestiary/beast/token/swarm-of-ravens.png"
+"image": "5. Mechanics/Bestiary/Beast/token/swarm-of-ravens.webp"
 ```
 ^statblock
 
 ## Environment
 
 forest, swamp, hill, urban
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

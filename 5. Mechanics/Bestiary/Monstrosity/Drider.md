@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/6
-- monster/environment/underdark
-- monster/size/large
-- monster/type/monstrosity
+  - compendium/src/5e/mm
+  - monster/cr/6
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Drider"]
+aliases:
+  - Drider
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Drider.md|Drider]]
-*Source: Monster Manual p. 120. Available in the SRD.*  
+*Source: Monster Manual p. 120. Available in the SRD.*
 
 When a drow shows great promise, Lolth summons it to the Demonweb Pits for a test of faith and strength. Those that pass the test rise higher in the Spider Queen's favor. Those that fail are transformed into driders-a horrid hybrid of a drow and a giant spider that serves as a living reminder of Lolth's power. Only drow can be turned into driders, and the power to create these creatures resides with Lolth alone.
 
@@ -87,10 +88,14 @@ On rare occasion, a drider returns to the fringes of drow society despite its cu
 - "WDMM"
 - "CRCotN"
 - "SatO"
-"image": "compendium/bestiary/monstrosity/token/drider.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/drider.webp"
 ```
 ^statblock
 
 ## Environment
 
 underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

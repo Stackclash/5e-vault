@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Standard Languages"]
+  - compendium/src/5e/phb
+aliases:
+  - Standard Languages
 ---
 # Standard Languages
 *Source: Player's Handbook p. 123. Available in the SRD and the Basic Rules.* 
-
-`dice: [[Standard Languages.md#^standard-languages]]`
 
 **Standard Languages**
 

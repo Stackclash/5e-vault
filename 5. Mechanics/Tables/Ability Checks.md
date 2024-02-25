@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Ability Checks"]
+  - compendium/src/5e/dmg
+aliases:
+  - Ability Checks
 ---
 # Ability Checks
 *Source: Dungeon Master's Guide p. 237* 
-
-`dice: [[Ability Checks.md#^ability-checks]]`
 
 **Ability Checks**
 

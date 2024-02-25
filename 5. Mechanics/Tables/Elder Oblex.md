@@ -1,0 +1,17 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-note
+tags:
+  - compendium/src/5e/hhhviii
+aliases:
+  - Elder Oblex
+---
+# Elder Oblex
+*Source: Hamund's Harvesting Handbook: Volume III p. 56* 
+
+| DC | Item | Description | Value | Weight | Crafting |
+|----|------|-------------|-------|--------|----------|
+| 5 | Oblex Slime (5 vials) | The slime of most oozes comprises little more than strings of proteins and acids that give them form and digestive capabilities. Oblexes are a little different however, as instead of simply digesting the body of its prey, an oblex also feeds on their mind and mental energies, thus necessitating a unique set of enzymes that react to the psionic field all creatures produce. These enzymes become mostly inert upon the oblex's death, but some Underdark societies have discovered fermentation techniques that can recycle the slime into an amnesia-inducing drink called "fade". This drink is famous for helping the imbiber forget bad memories; something you would probably want to do too if you lived in the horror that is the Underdark. | 2 gp | 1 lb | — |
+| **.** 10<br /><br />(See **Note**) | Dead Memory | **.** As the oblex consumes the body of its prey, it also absorbs their minds and memories. Where exactly these are stored is a mystery considering their lack of brain, but even without this knowledge, it is possible to extract these into a sheet of [[5. Mechanics/Items/Spirit Paper.md\|spirit paper]] following the oblex's death. For harvesting and crafting purposes, the specific individual's memories are unimportant. What we actually focus on is the lingering psionic resonance that they create as they call out within the confines of the oblex's nightmarish form. This energy is incredibly potent and is used by alchemists as the final catalyst for a particularly mindbending concoction. **Requires [[5. Mechanics/Items/Spirit Paper.md\|spirit paper]].**<br /><br />**Note.** You can repeat the harvesting check for this item and get a new harvestable every time until the first time it is unsuccessfully harvested. The DC for this item increases by 2 every time it is harvested, however. | 58 gp | 1 lb | [[5. Mechanics/Items/Potion Of The Gestalt.md\|Potion of the Gestalt]] |
+| 15 | Coalescence Gel (5 vials) | **.** As an oblex continues to absorb minds and memories, it grows into a larger form and is considered an elder oblex. At this point, the melange of consciousnesses that inhabit its amorphous form collapse in on themselves, creating a new texture and consistency in the oblex with a new set of chemical properties. These chemicals are very reactive to transfiguration and illusion magic, but can also be rendered into an oil that causes extreme brain damage to creatures it strikes.<br /><br />**Use.** As an action, you may rub this gel into yourself where it is absorbed into you for the next 24 hours. During this time, if you cast the [[5. Mechanics/Spells/Disguise Self.md\|disguise self]] spell or similar self-targeted, illusion-based disguise magic, the gel reacts and shapes itself to the illusion, causing it to no longer fail to hold up to physical inspection. Note that this does not change your actual form to match the illusion, the gel merely creates a simulacrum that feels realistic to touch. | 140 gp | 1 lb | [[5. Mechanics/Items/Oil Of The Memory Thief.md\|Oil of the Memory Thief]] |
+^dc-item-description-value-weight-crafting

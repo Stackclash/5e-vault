@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/dmg
-- reward/boon
-aliases: ["Boon of Invincibility"]
+  - compendium/src/5e/dmg
+  - reward/boon
+aliases:
+  - Boon of Invincibility
 ---
 # Boon of Invincibility
 

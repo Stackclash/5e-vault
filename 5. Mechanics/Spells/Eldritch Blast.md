@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/warlock
-- spell/level/cantrip
-- spell/school/evocation
-aliases: ["Eldritch Blast"]
+  - compendium/src/5e/phb
+  - spell/class/warlock
+  - spell/level/cantrip
+  - spell/school/evocation
+aliases:
+  - Eldritch Blast
 ---
 # Eldritch Blast
 %%-- Embedded content starts on the next line. --%%

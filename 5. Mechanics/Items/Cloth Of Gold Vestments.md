@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/wealth
-aliases: 
-- "Cloth-of-gold vestments"
+  - compendium/src/5e/dmg
+  - item/wealth/art-object
+aliases:
+  - Cloth-of-gold vestments
 cost: 2500
 ---
 # Cloth-of-gold vestments
-*Treasure*  
+*Art object*  
 
 - **Cost**: 25 gp
 

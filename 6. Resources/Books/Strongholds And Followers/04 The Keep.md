@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/saf
-aliases: ["The Keep"]
+  - compendium/src/5e/saf
+aliases:
+  - The Keep
 ---
 # The Keep
 *Source: Strongholds and Followers* 
@@ -73,6 +74,8 @@ You cannot gain the benefit of training from armor, shields, or weapons you are 
 
 **Units Raised by Keep**
 
+`dice: [[04 The Keep.md#^units-raised-by-keep]]`
+
 | dice: d100 | Unite Type |
 |------------|------------|
 | 01–12 | Green Light Infantry |
@@ -118,21 +121,21 @@ If the province fails its Unrest check, it loses one development level. If this 
 
 Of course, spending a season there means withstanding the owner's own armies. We're basically talking about an invasion.
 
-![[5. Mechanics/Tables/Barbarian Units (SAF).md\|Barbarian Units]]
+![[5. Mechanics/Tables/Barbarian Units.md\|Barbarian Units]]
 
 > [!gallery]
-> ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/keep-small.jpg#gallery)
-> ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/keep-large.jpg#gallery)
+> ![[6. Resources/Books/Strongholds And Followers/img/keep-small.jpg#gallery]]
+> ![[6. Resources/Books/Strongholds And Followers/img/keep-large.jpg#gallery]]
 
 ## The Pirate Ship
 
-![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/pirate-ship.webp#center)
+![[6. Resources/Books/Strongholds And Followers/img/pirate-ship.webp#center]]
 
 Another variation of the Keep is the dreaded Pirate Ship. The Pirate Ship (a galleon, but one dedicated to piracy) is a mobile stronghold like the Barbarian camp. But while the Barbarian camp gets slower the larger it is, a Pirate Ship gets faster! Its larger sails resist the wind much more efficiently than the larger hull drags through the water. ^[This is actually true. The development of larger sails and the ability to tack into the wind led to the development of the galleon, which was faster than its smaller cousins. Galleons became so big, and could carry so much gold and spice, they became easy pickings for enemy privateers, and thus was the age of piracy born.]
 
 The Pirate Ship functions as a Keep with the following differences.
 
-- It attracts units just like a keep, but with restrictions to their Size. The ship may not carry units larger than Size 1d6. If rolling on the [[5. Mechanics/Tables/Training Units Raised By Keep (SAF).md\|Units Raised by Keep]] chart (page 17) would produce a unit larger than Size 1d6, roll again. The ship can hold and no more units than its stronghold level. A fully upgraded Pirate Ship (level 5) could therefore carry five units. There is no restriction on the type of units a Pirate Ship may carry.  
+- It attracts units just like a keep, but with restrictions to their Size. The ship may not carry units larger than Size 1d6. If rolling on the [[5. Mechanics/Tables/Training Units Raised By Keep.md\|Units Raised by Keep]] chart (page 17) would produce a unit larger than Size 1d6, roll again. The ship can hold and no more units than its stronghold level. A fully upgraded Pirate Ship (level 5) could therefore carry five units. There is no restriction on the type of units a Pirate Ship may carry.  
 - The ship can move five sea hexes per day ^[ Assuming a 24-mile hex.], plus one hex per level of the ship.  
 - If the ship sacks (i.e wins a battle against) a port settlement, the settlement's Development Level is downgraded by one.  
 - Spending a week in a port settlement generates 100 gp.

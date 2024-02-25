@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric/nature-domain
-- spell/class/druid
-- spell/class/paladin/oath-of-conquest
-- spell/class/sorcerer
-- spell/class/warlock/the-archfey
-- spell/class/warlock/the-great-old-one
-- spell/level/4
-- spell/school/enchantment
-aliases: ["Dominate Beast"]
+  - compendium/src/5e/phb
+  - spell/class/cleric/nature-domain
+  - spell/class/druid
+  - spell/class/paladin/oath-of-conquest
+  - spell/class/sorcerer
+  - spell/class/warlock/the-archfey
+  - spell/class/warlock/the-great-old-one
+  - spell/level/4
+  - spell/school/enchantment
+aliases:
+  - Dominate Beast
 ---
 # Dominate Beast
 %%-- Embedded content starts on the next line. --%%
@@ -32,6 +33,6 @@ Each time the target takes damage, it makes a new Wisdom saving throw against th
 
 **At Higher Levels.** When you cast this spell with a 5th-level spell slot, the duration is [[/5. Mechanics/Rules/Conditions.md#concentration\|concentration]], up to 10 minutes. When you use a 6th-level spell slot, the duration is [[/5. Mechanics/Rules/Conditions.md#concentration\|concentration]], up to 1 hour. When you use a spell slot of 7th level or higher, the duration is [[/5. Mechanics/Rules/Conditions.md#concentration\|concentration]], up to 8 hours.
 
-**Classes**: [[5. Mechanics/Classes/Cleric Nature Domain.md\|Cleric (Nature Domain)]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Paladin Oath Of Conquest (XGE).md\|Paladin (Oath of Conquest)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock The Archfey.md\|Warlock (The Archfey)]], [[5. Mechanics/Classes/Warlock The Great Old One.md\|Warlock (The Great Old One)]]
+**Classes**: [[5. Mechanics/Classes/Cleric Nature Domain.md\|Cleric (Nature Domain)]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Paladin Oath Of Conquest.md\|Paladin (Oath of Conquest)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock The Archfey.md\|Warlock (The Archfey)]], [[5. Mechanics/Classes/Warlock The Great Old One.md\|Warlock (The Great Old One)]]
 
 *Source: Player's Handbook p. 234. Available in the SRD.*

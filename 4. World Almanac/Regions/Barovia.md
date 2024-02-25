@@ -84,20 +84,23 @@ TBD
 > scale: 1
 > darkMode: false
 > marker:
-> - village, 4.5, 14.37, [[Village of Barovia]]
+> - village, 4.43, 14.37, [[Village of Barovia]]
+> - village, 7.6, 7.2733, [[Vallaki]]
+> - village, 8, 2.0379, [[Krezk]]
+> - castle, 5.6302, 13.0019, [[Castle Ravenloft]]
+> - village, 6.2077, 2.0323, [[The Wizard of Wines]]
+> - village, 4.528, 11.9744, [[Tser Pool]]
+> - tower, 8.3729, 4.2887, [[Van Richten's Tower]]
+> - village, 8.6254, 7.7459, [[Lake Zarovich]]
 > ```
 
-## Notable Locations
-**[[Places of Interest|Add New Place of Interest]]**
-**[[Shops|Add New Shop]]**
-> ```dataviewjs
->  await dv.view("locations", {current: dv.current()})
-> ```
+```dataviewjs
+ await dv.view("locations", {current: dv.current()})
+```
 
-## Notable NPCs
-> ```dataviewjs
->  await dv.view("npcsInLocation", {current: dv.current()})
-> ```
+```dataviewjs
+await dv.view("npcsInLocation", {current: dv.current()})
+```
 
 ## History
 TBD

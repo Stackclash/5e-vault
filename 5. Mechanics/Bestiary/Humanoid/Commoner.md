@@ -2,22 +2,23 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/0
-- monster/environment/arctic
-- monster/environment/coastal
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/urban
-- monster/size/medium
-- monster/type/humanoid/any-race
+  - compendium/src/5e/mm
+  - monster/cr/0
+  - monster/environment/arctic
+  - monster/environment/coastal
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/humanoid/any-race
 statblock: inline
-aliases: ["Commoner"]
+aliases:
+  - Commoner
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Commoner.md|Commoner]]
-*Source: Monster Manual p. 345, Curse of Strahd, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 345, Curse of Strahd, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*
 
 Commoners include peasants, serfs, slaves, servants, pilgrims, merchants, artisans, and hermits.
 
@@ -84,10 +85,14 @@ Commoners include peasants, serfs, slaves, servants, pilgrims, merchants, artisa
 - "HFStCM"
 - "GHLoE"
 - "DoDk"
-"image": "compendium/bestiary/humanoid/token/commoner.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/commoner.webp"
 ```
 ^statblock
 
 ## Environment
 
 arctic, desert, coastal, grassland, hill, urban, forest
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

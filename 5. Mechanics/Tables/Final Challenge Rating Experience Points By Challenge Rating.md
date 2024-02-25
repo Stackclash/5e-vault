@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Final Challenge Rating; Experience Points by Challenge Rating"]
+  - compendium/src/5e/dmg
+aliases:
+  - Final Challenge Rating; Experience Points by Challenge Rating
 ---
 # Final Challenge Rating; Experience Points by Challenge Rating
 *Source: Dungeon Master's Guide p. 274. Available in the SRD and the Basic Rules.* 
-
-`dice: [[Final Challenge Rating Experience Points By Challenge Rating.md#^experience-points-by-challenge-rating]]`
 
 **Experience Points by Challenge Rating**
 

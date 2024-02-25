@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["The Outer Planes"]
+  - compendium/src/5e/dmg
+aliases:
+  - The Outer Planes
 ---
 # The Outer Planes
 *Source: Dungeon Master's Guide p. 57* 
-
-`dice: [[The Outer Planes.md#^the-outer-planes]]`
 
 **The Outer Planes**
 

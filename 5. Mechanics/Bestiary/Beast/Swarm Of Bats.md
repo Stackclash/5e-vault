@@ -2,19 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-4
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/1-4
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/beast
 statblock: inline
-aliases: ["Swarm of Bats"]
+aliases:
+  - Swarm of Bats
 ---
 # [[5. Mechanics\Bestiary\Beast\Swarm Of Bats.md|Swarm of Bats]]
-*Source: Monster Manual p. 337, Curse of Strahd. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 337, Curse of Strahd. Available in the SRD and the Basic Rules.*
 
 > [!note] The Nature of Swarms
 > 
@@ -22,7 +23,7 @@ aliases: ["Swarm of Bats"]
 ^the-nature-of-swarms
 
 ```statblock
-"name": "Swarm of Bats"
+"name": "Swarm Of Bats"
 "size": "Medium"
 "type": "beast"
 "alignment": "Unaligned"
@@ -73,10 +74,14 @@ aliases: ["Swarm of Bats"]
 - "CM"
 - "WBtW"
 - "AATM"
-"image": "compendium/bestiary/beast/token/swarm-of-bats.png"
+"image": "5. Mechanics/Bestiary/Beast/token/swarm-of-bats.webp"
 ```
 ^statblock
 
 ## Environment
 
 underdark, mountain, hill, urban
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

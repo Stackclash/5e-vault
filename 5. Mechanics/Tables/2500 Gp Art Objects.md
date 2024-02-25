@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["2,500 gp Art Objects"]
+  - compendium/src/5e/dmg
+aliases:
+  - '2,500 gp Art Objects'
 ---
 # 2,500 gp Art Objects
 *Source: Dungeon Master's Guide p. 134* 
 
-`dice: [[2500 Gp Art Objects.md#^2500-gp-art-objects]]`
-
 **2,500 gp Art Objects**
+
+`dice: [[2500 Gp Art Objects.md#^2500-gp-art-objects]]`
 
 | dice: d10 | Object |
 |-----------|--------|

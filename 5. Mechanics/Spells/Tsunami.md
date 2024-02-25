@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/druid
-- spell/level/8
-- spell/school/conjuration
-aliases: ["Tsunami"]
+  - compendium/src/5e/phb
+  - spell/class/druid
+  - spell/level/8
+  - spell/school/conjuration
+aliases:
+  - Tsunami
 ---
 # Tsunami
 %%-- Embedded content starts on the next line. --%%

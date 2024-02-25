@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric/war-domain
-- spell/class/paladin
-- spell/level/3
-- spell/school/evocation
-aliases: ["Crusader's Mantle"]
+  - compendium/src/5e/phb
+  - spell/class/cleric/war-domain
+  - spell/class/paladin
+  - spell/level/3
+  - spell/school/evocation
+aliases:
+  - Crusader's Mantle
 ---
 # Crusader's Mantle
 %%-- Embedded content starts on the next line. --%%

@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/15
-- monster/environment/desert
-- monster/size/medium
-- monster/type/undead
+  - compendium/src/5e/mm
+  - monster/cr/15
+  - monster/environment/desert
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
-aliases: ["Mummy Lord"]
+aliases:
+  - Mummy Lord
 ---
 # [[5. Mechanics\Bestiary\Undead\Mummy Lord.md|Mummy Lord]]
-*Source: Monster Manual p. 229, Tasha's Cauldron of Everything. Available in the SRD.*  
+*Source: Monster Manual p. 229, Tasha's Cauldron of Everything. Available in the SRD.*
 
 Raised by dark funerary rituals, a mummy shambles from the shrouded stillness of a time-lost temple or tomb. Having been awoken from its rest, it punishes transgressors with the power of its unholy curse.
 
@@ -177,10 +178,14 @@ A mummy lord watches over an ancient temple or tomb that is protected by lesser 
 - "CM"
 - "AATM"
 - "SatO"
-"image": "compendium/bestiary/undead/token/mummy-lord.png"
+"image": "5. Mechanics/Bestiary/Undead/token/mummy-lord.webp"
 ```
 ^statblock
 
 ## Environment
 
 desert
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

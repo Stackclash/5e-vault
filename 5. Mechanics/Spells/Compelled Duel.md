@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/paladin
-- spell/level/1
-- spell/school/enchantment
-aliases: ["Compelled Duel"]
+  - compendium/src/5e/phb
+  - spell/class/paladin
+  - spell/level/1
+  - spell/school/enchantment
+aliases:
+  - Compelled Duel
 ---
 # Compelled Duel
 %%-- Embedded content starts on the next line. --%%

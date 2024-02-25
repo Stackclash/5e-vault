@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/phb
-- race/dwarf/mountain
-aliases: ["Dwarf (Mountain)"]
+  - compendium/src/5e/phb
+  - race/dwarf/mountain
+aliases:
+  - Dwarf (Mountain)
 ---
 # Dwarf (Mountain)
 *Source: Player's Handbook p. 20. Available in the Basic Rules.*  

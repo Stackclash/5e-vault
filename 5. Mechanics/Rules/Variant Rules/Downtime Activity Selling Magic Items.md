@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Downtime Activity: Selling Magic Items"]
+  - compendium/src/5e/dmg
+aliases:
+  - 'Downtime Activity: Selling Magic Items'
 ---
 # Downtime Activity: Selling Magic Items
 *Source: Dungeon Master's Guide p. 129* 
@@ -34,8 +35,8 @@ You determine a buyer's identity. Buyers sometimes procure rare and very rare it
 
 **Selling a Magic Item**
 
-| dice: d100 + Mod | You Find... |
-|------------------|-------------|
+| d100 + Mod | You Find... |
+|------------|-------------|
 | 20 or lower | A buyer offering a tenth of the base price |
 | 21-40 | A buyer offering a quarter of the base price, and a shady buyer offering half the base price |
 | 41-80 | A buyer offering half the base price, and a shady buyer offering the full base price |

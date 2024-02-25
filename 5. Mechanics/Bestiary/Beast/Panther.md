@@ -2,18 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-4
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/size/medium
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/1-4
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/size/medium
+  - monster/type/beast
 statblock: inline
-aliases: ["Panther"]
+aliases:
+  - Panther
 ---
 # [[5. Mechanics\Bestiary\Beast\Panther.md|Panther]]
-*Source: Monster Manual p. 333. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 333. Available in the SRD and the Basic Rules.*
 
 ```statblock
 "name": "Panther"
@@ -59,10 +60,14 @@ aliases: ["Panther"]
 - "TftYP"
 - "ToA"
 - "WDH"
-"image": "compendium/bestiary/beast/token/panther.png"
+"image": "5. Mechanics/Bestiary/Beast/token/panther.webp"
 ```
 ^statblock
 
 ## Environment
 
 grassland, forest, hill
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

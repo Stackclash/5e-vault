@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/attunement/required
-- item/rarity/artifact
-- item/wondrous
-aliases: 
-- "Book of Vile Darkness"
+  - compendium/src/5e/dmg
+  - item/attunement/required
+  - item/rarity/artifact
+  - item/wondrous
+aliases:
+  - Book of Vile Darkness
 ---
 # Book of Vile Darkness
 *Wondrous Item, artifact (requires attunement)*  

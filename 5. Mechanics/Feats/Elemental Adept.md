@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/phb
-- feat
-aliases: ["Elemental Adept"]
+  - compendium/src/5e/phb
+  - feat
+aliases:
+  - Elemental Adept
 ---
 # Elemental Adept
 *Source: Player's Handbook p. 166*  

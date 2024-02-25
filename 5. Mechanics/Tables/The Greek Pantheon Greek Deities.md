@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["The Greek Pantheon; Greek Deities"]
+  - compendium/src/5e/phb
+aliases:
+  - The Greek Pantheon; Greek Deities
 ---
 # The Greek Pantheon; Greek Deities
 *Source: Player's Handbook p. 297. Available in the SRD.* 
-
-`dice: [[The Greek Pantheon Greek Deities.md#^greek-deities]]`
 
 **Greek Deities**
 

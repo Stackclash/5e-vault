@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Sentient Magic Item Communication"]
+  - compendium/src/5e/dmg
+aliases:
+  - Sentient Magic Item Communication
 ---
 # Sentient Magic Item Communication
 *Source: Dungeon Master's Guide p. 214. Available in the SRD.* 
 
-`dice: [[Sentient Magic Item Communication.md#^sentient-magic-item-communication]]`
-
 **Sentient Magic Item Communication**
+
+`dice: [[Sentient Magic Item Communication.md#^sentient-magic-item-communication]]`
 
 | dice: d100 | Communication |
 |------------|---------------|

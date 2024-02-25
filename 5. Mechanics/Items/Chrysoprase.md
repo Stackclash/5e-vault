@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/wealth
-aliases: 
-- "Chrysoprase"
+  - compendium/src/5e/dmg
+  - item/wealth/gemstone
+aliases:
+  - Chrysoprase
 cost: 5000
 ---
 # Chrysoprase
-*Treasure*  
+*Gemstone*  
 
 - **Cost**: 50 gp
 

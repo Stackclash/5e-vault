@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/8
-- monster/environment/coastal
-- monster/size/large
-- monster/type/dragon
+  - compendium/src/5e/mm
+  - monster/cr/8
+  - monster/environment/coastal
+  - monster/size/large
+  - monster/type/dragon
 statblock: inline
-aliases: ["Young Bronze Dragon"]
+aliases:
+  - Young Bronze Dragon
 ---
 # [[5. Mechanics\Bestiary\Dragon\Young Bronze Dragon.md|Young Bronze Dragon]]
-*Source: Monster Manual p. 108. Available in the SRD.*  
+*Source: Monster Manual p. 108. Available in the SRD.*
 
 Bronze dragons are coastal dwellers that feed primarily on aquatic plants and fish. They take the forms of friendly animals to observe other creatures of interest. They are also fascinated by warfare and eagerly join armies fighting for a just cause.
 
@@ -134,10 +135,14 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "GoS"
 - "CM"
 - "DoDk"
-"image": "compendium/bestiary/dragon/token/young-bronze-dragon.png"
+"image": "5. Mechanics/Bestiary/Dragon/token/young-bronze-dragon.webp"
 ```
 ^statblock
 
 ## Environment
 
 coastal
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

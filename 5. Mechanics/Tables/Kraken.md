@@ -1,0 +1,22 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-note
+tags:
+  - compendium/src/5e/hhhvi
+aliases:
+  - Kraken
+---
+# Kraken
+*Source: Hamund's Harvesting Handbook: Volume I p. 70* 
+
+| DC | Item | Description | Value | Weight | Crafting |
+|----|------|-------------|-------|--------|----------|
+| 10 | Kraken Blood (9 vials) | If anything betrays the kraken's blasphemous nature, it is the vile ichor that it tries to pass off as blood. Reeking of rotten fish and feeling just as slimy, the kraken's blood nonetheless is coveted by alchemists for its intense alchemical potential. | 100 gp | 1 lb | [[5. Mechanics/Items/Potion Of The Sea.md\|Potion of the Sea]] |
+| 10 | Kraken Ink (6 vials) | The ink of the kraken is vastly different to that secreted by a mere octopus. With a darkness that seems to leech the light around it, and a chemical mixture venomous to most creatures, this ink naturally has been weaponised by intrepid alchemists. | 150 gp | 1 lb | [[5. Mechanics/Items/Kraken Paint.md\|Kraken Paint]] |
+| 10 | Kraken Tooth (×10) | A kraken's tooth is hard and sharp enough to cleave right through the hull of a ship. With that in mind, they make fantastic heads for ballistae bolts and harpoons, and navies reserve their "kraken bolts" for only the flagship of their enemies. | 100 gp | 20 lb | [[5. Mechanics/Items/Kraken Bolt.md\|Kraken Bolt]] |
+| 15 | Kraken Hide | A kraken's hide is at once tough and rubbery, capable of absorbing even magically imbued strikes with ease. Only the greatest of tanners are able to work with this hide, and only certain choice sections of it, but those who can are capable of crafting an extremely powerful set of clothes for the marining adventurer. | 2,000 gp | 20 lb | [[5. Mechanics/Items/Kraken Tunic.md\|Kraken Tunic]] |
+| 20 | Kraken Crown Scale | As both armies and gods can attest, the scales of a kraken are nigh impenetrable, even with magically powered strikes. Particularly prized is the scale located on the crown of the kraken's head which is both incredibly hard and the easiest to work with. Removing them is incredibly difficult however, and takes no small amount of elbow grease. Once pried off, they may be re-crafted into a special shield by a blacksmith that has reached the zenith of their craft. | 4,000 gp | 10 lb | [[5. Mechanics/Items/Kraken Shield.md\|Kraken Shield]] |
+| 25 | Kraken Eye (×2) | The kraken has most likely forgotten more than ordinary mortals will ever hope to learn. From its watery domains, it has scoured ocean caverns hiding mysteries and treasures that surface dwellers were never meant to see. By taking a kraken's eye and subjecting it to a number of arcane rituals, these secrets can be revealed to a mind capable of handling them. | 6,000 gp | 30 lb | [[5. Mechanics/Items/Loupe Of The Depths.md\|Loupe of the Depths]] |
+| 25 | Kraken Heart (×3) | **.** Not many are aware that a kraken possesses 3 hearts, each with a slightly different circulatory function. In artificing function however they all serve the same purpose. By transfiguring them into crystals, they can be placed around a certain perimeter to act as wards against disastrous environmental effects. Many of the oldest port cities owe their longevity to these wards, or they would have been swept away by the tides long ago.<br /><br />**Use.** An artificer may spend 1 year performing a daily ritual to transform a kraken heart into a large red crystal with the ability to dampen natural forces. When 3 of these crystals are placed within 5 miles of each other, the area enclosed by them always experiences fair weather. Rain in that area never results in flooding, and waves are magically prevented from washing past the perimeter of that area. | 12,000 gp | 100 lb | — |
+| 30 | Kraken Brain Stem | Like some cephalopods, the brain of a kraken is actually divided into several areas, particularly focused in their tentacles. In order to facilitate this odd physiology on such a large scale, the main brain of the kraken has a certain electromagnetic quality to it that not only allows it to control its massive body, but also influence sea creatures and the area around it. If the right areas are harvested, they make a powerful amulet that can mimic some of these abilities. | 30,000 gp | 20 lb | [[5. Mechanics/Items/Amulet Of The Ocean Lord.md\|Amulet of the Ocean Lord]] |
+^dc-item-description-value-weight-crafting

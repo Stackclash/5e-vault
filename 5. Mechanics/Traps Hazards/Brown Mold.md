@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/dmg
-aliases: ["Brown Mold"]
+  - compendium/src/5e/dmg
+aliases:
+  - Brown Mold
 ---
 # Brown Mold
 *Generic Hazard*  

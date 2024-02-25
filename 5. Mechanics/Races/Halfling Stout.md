@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/phb
-- race/halfling/stout
-aliases: ["Halfling (Stout)"]
+  - compendium/src/5e/phb
+  - race/halfling/stout
+aliases:
+  - Halfling (Stout)
 ---
 # Halfling (Stout)
 *Source: Player's Handbook p. 28. Available in the Basic Rules.*  

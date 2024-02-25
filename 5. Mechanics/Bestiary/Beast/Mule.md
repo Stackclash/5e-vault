@@ -2,18 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-8
-- monster/environment/desert
-- monster/environment/hill
-- monster/environment/urban
-- monster/size/medium
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/1-8
+  - monster/environment/desert
+  - monster/environment/hill
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/beast
 statblock: inline
-aliases: ["Mule"]
+aliases:
+  - Mule
 ---
 # [[5. Mechanics\Bestiary\Beast\Mule.md|Mule]]
-*Source: Monster Manual p. 333, Curse of Strahd. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 333, Curse of Strahd. Available in the SRD and the Basic Rules.*
 
 ```statblock
 "name": "Mule"
@@ -52,10 +53,14 @@ aliases: ["Mule"]
 - "GoS"
 - "KftGV"
 - "DoDk"
-"image": "compendium/bestiary/beast/token/mule.png"
+"image": "5. Mechanics/Bestiary/Beast/token/mule.webp"
 ```
 ^statblock
 
 ## Environment
 
 hill, urban, desert
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

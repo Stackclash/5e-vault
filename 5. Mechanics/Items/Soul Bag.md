@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/mm
-- item/rarity/very-rare
-- item/wondrous/wondrous-item
-aliases: 
-- "Soul Bag"
+  - compendium/src/5e/mm
+  - item/rarity/very-rare
+  - item/wondrous/wondrous-item
+aliases:
+  - Soul Bag
 ---
 # Soul Bag
 *Other, very rare*  

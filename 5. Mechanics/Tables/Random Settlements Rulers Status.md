@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Random Settlements; Ruler's Status"]
+  - compendium/src/5e/dmg
+aliases:
+  - Random Settlements; Ruler's Status
 ---
 # Random Settlements; Ruler's Status
 *Source: Dungeon Master's Guide p. 112* 
 
-`dice: [[Random Settlements Rulers Status.md#^rulers-status]]`
-
 **Ruler's Status**
+
+`dice: [[Random Settlements Rulers Status.md#^rulers-status]]`
 
 | dice: d20 | Ruler |
 |-----------|-------|

@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Stairs"]
+  - compendium/src/5e/dmg
+aliases:
+  - Stairs
 ---
 # Stairs
 *Source: Dungeon Master's Guide p. 291* 
 
-`dice: [[Stairs.md#^stairs]]`
-
 **Stairs**
+
+`dice: [[Stairs.md#^stairs]]`
 
 | dice: d20 | Stairs |
 |-----------|--------|

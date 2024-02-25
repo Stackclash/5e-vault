@@ -2,18 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-8
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/size/medium
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/1-8
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/size/medium
+  - monster/type/beast
 statblock: inline
-aliases: ["Giant Weasel"]
+aliases:
+  - Giant Weasel
 ---
 # [[5. Mechanics\Bestiary\Beast\Giant Weasel.md|Giant Weasel]]
-*Source: Monster Manual p. 329. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 329. Available in the SRD and the Basic Rules.*
 
 ```statblock
 "name": "Giant Weasel"
@@ -49,10 +50,14 @@ aliases: ["Giant Weasel"]
 - "MM"
 - "TftYP"
 - "GoS"
-"image": "compendium/bestiary/beast/token/giant-weasel.png"
+"image": "5. Mechanics/Bestiary/Beast/token/giant-weasel.webp"
 ```
 ^statblock
 
 ## Environment
 
 grassland, forest, hill
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

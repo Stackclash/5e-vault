@@ -2,18 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/0
-- monster/environment/desert
-- monster/environment/grassland
-- monster/environment/hill
-- monster/size/medium
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/0
+  - monster/environment/desert
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/size/medium
+  - monster/type/beast
 statblock: inline
-aliases: ["Vulture"]
+aliases:
+  - Vulture
 ---
 # [[5. Mechanics\Bestiary\Beast\Vulture.md|Vulture]]
-*Source: Monster Manual p. 339. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 339. Available in the SRD and the Basic Rules.*
 
 ```statblock
 "name": "Vulture"
@@ -56,10 +57,14 @@ aliases: ["Vulture"]
 - "CM"
 - "WBtW"
 - "BMT"
-"image": "compendium/bestiary/beast/token/vulture.png"
+"image": "5. Mechanics/Bestiary/Beast/token/vulture.webp"
 ```
 ^statblock
 
 ## Environment
 
 grassland, hill, desert
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

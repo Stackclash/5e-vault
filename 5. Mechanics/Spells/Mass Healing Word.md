@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer/alchemist
-- spell/class/cleric
-- spell/class/cleric/order-domain
-- spell/class/sorcerer/divine-soul
-- spell/level/3
-- spell/school/evocation
-aliases: ["Mass Healing Word"]
+  - compendium/src/5e/phb
+  - spell/class/artificer/alchemist
+  - spell/class/cleric
+  - spell/class/cleric/order-domain
+  - spell/class/sorcerer/divine-soul
+  - spell/level/3
+  - spell/school/evocation
+aliases:
+  - Mass Healing Word
 ---
 # Mass Healing Word
 %%-- Embedded content starts on the next line. --%%
@@ -24,6 +25,6 @@ As you call out words of restoration, up to six creatures of your choice that yo
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the healing increases by 1d4 for each slot level above 3rd.
 
-**Classes**: [[5. Mechanics/Classes/Artificer Alchemist (TCE).md\|Artificer (Alchemist)]], [[5. Mechanics/Classes/Cleric Order Domain (TCE).md\|Cleric (Order Domain)]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]]
+**Classes**: [[5. Mechanics/Classes/Artificer Alchemist.md\|Artificer (Alchemist)]], [[5. Mechanics/Classes/Cleric Order Domain.md\|Cleric (Order Domain)]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]]
 
 *Source: Player's Handbook p. 258. Available in the SRD and the Basic Rules.*

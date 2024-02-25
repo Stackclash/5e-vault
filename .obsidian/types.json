@@ -30,6 +30,8 @@
     "distance_measure": "number",
     "units": "number",
     "relationships": "multitext",
-    "statblock": "text"
+    "statblock": "text",
+    "groups": "multitext",
+    "religions": "multitext"
   }
 }

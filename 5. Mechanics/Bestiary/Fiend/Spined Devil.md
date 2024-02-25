@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/2
-- monster/size/small
-- monster/type/fiend/devil
+  - compendium/src/5e/mm
+  - monster/cr/2
+  - monster/size/small
+  - monster/type/fiend/devil
 statblock: inline
-aliases: ["Spined Devil"]
+aliases:
+  - Spined Devil
 ---
 # [[5. Mechanics\Bestiary\Fiend\Spined Devil.md|Spined Devil]]
-*Source: Monster Manual p. 78*  
+*Source: Monster Manual p. 78*
 
 Smaller than most other devils, spinagons act as messengers and spies for greater devils and archdevils. They are the eyes and ears of the Nine Hells, and even fiends that despise a spined devil's weakness treat it with a modicum of respect. A spined devil's body and tail bristle with spines, and it can fling its tail spines as ranged weapons. The spines burst into flame on impact.
 
@@ -197,6 +198,10 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - "BGDIA"
 - "KftGV"
 - "PSI"
-"image": "compendium/bestiary/fiend/token/spined-devil.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/spined-devil.webp"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

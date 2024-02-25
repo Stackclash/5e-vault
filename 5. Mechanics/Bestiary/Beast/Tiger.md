@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1
-- monster/environment/forest
-- monster/environment/grassland
-- monster/size/large
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/1
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/size/large
+  - monster/type/beast
 statblock: inline
-aliases: ["Tiger"]
+aliases:
+  - Tiger
 ---
 # [[5. Mechanics\Bestiary\Beast\Tiger.md|Tiger]]
-*Source: Monster Manual p. 339. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 339. Available in the SRD and the Basic Rules.*
 
 ```statblock
 "name": "Tiger"
@@ -60,10 +61,14 @@ aliases: ["Tiger"]
 - "WDH"
 - "GoS"
 - "MOT"
-"image": "compendium/bestiary/beast/token/tiger.png"
+"image": "5. Mechanics/Bestiary/Beast/token/tiger.webp"
 ```
 ^statblock
 
 ## Environment
 
 grassland, forest
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

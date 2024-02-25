@@ -8,13 +8,18 @@
         "VRGR",
         "XGE",
         "TCE",
-        "SaF",
-        "ERLW"
+        "ERLW",
+        "MTF"
     ],
     "paths": {
         "rules": "/compendium/rules/"
     },
     "useDiceRoller": true,
+    "images": {
+        "copyInternal": true,
+        "copyExternal": true,
+        "internalRoot": "../5etools-img"
+    },
     "excludePattern": [],
     "exclude": [],
     "include": [],
@@ -36,12 +41,18 @@
         "vehicle": "z_Extra/ttrpg-convert/templates/vehicle.txt"
     },
     "full-source": {
+        "homebrew": [
+            "z_Extra/ttrpg-convert/homebrew/Jasmine Yang; Hamund's Harvesting Handbook I.json",
+            "z_Extra/ttrpg-convert/homebrew/Jasmine Yang; Hamund's Harvesting Handbook II.json",
+            "z_Extra/ttrpg-convert/homebrew/Jasmine Yang; Hamund's Harvesting Handbook III.json",
+            "z_Extra/ttrpg-convert/homebrew/Jasmine Yang; Hamund's Herbalism Handbook.json",
+            "z_Extra/ttrpg-convert/homebrew/MCDM Productions; Strongholds and Followers.json"
+        ],
         "adventure": [
             "CoS"
         ],
         "book": [
-            "VRGR",
-            "SaF"
+            "VRGR"
         ]
     }
 }

@@ -2,24 +2,25 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-4
-- monster/environment/arctic
-- monster/environment/coastal
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/small
-- monster/type/humanoid/kobold
+  - compendium/src/5e/mm
+  - monster/cr/1-4
+  - monster/environment/arctic
+  - monster/environment/coastal
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/small
+  - monster/type/humanoid/kobold
 statblock: inline
-aliases: ["Winged Kobold"]
+aliases:
+  - Winged Kobold
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Winged Kobold.md|Winged Kobold]]
-*Source: Monster Manual p. 195*  
+*Source: Monster Manual p. 195*
 
 Kobolds are craven reptilian humanoids that worship evil dragons as demigods and serve them as minions and toadies. Kobolds inhabit dragons' lairs when they can but more commonly infest dungeons, gathering treasures and trinkets to add to their own tiny hoards.
 
@@ -78,10 +79,14 @@ In addition to the dragons they revere, kobolds worship a lesser god named Kurtu
 - "GoS"
 - "CM"
 - "DoSI"
-"image": "compendium/bestiary/humanoid/token/winged-kobold.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/winged-kobold.webp"
 ```
 ^statblock
 
 ## Environment
 
 forest, swamp, hill, urban, desert, coastal, arctic, mountain, underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

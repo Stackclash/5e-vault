@@ -10,7 +10,7 @@ function getAllFiles(basePath, folderPath, filesList=[]) {
         const fileInfo = fs.statSync(filePath)
 
         if (fileInfo.isDirectory()) {
-            filesList.concat(getAllFiles(basePath, path.join(folderPath, filePath), filesList))
+            filesList.concat(getAllFiles(basePath, path.relative(basePath, filePath), filesList))
         } else {
             filesList.push({name: path.basename(filePath), path: path.relative(basePath, filePath)})
         }

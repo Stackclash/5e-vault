@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Identify the Party's Goals; Wilderness Goals"]
+  - compendium/src/5e/dmg
+aliases:
+  - Identify the Party's Goals; Wilderness Goals
 ---
 # Identify the Party's Goals; Wilderness Goals
 *Source: Dungeon Master's Guide p. 72* 
 
-`dice: [[Identify The Partys Goals Wilderness Goals.md#^wilderness-goals]]`
-
 **Wilderness Goals**
+
+`dice: [[Identify The Partys Goals Wilderness Goals.md#^wilderness-goals]]`
 
 | dice: d20 | Goal |
 |-----------|------|

@@ -2,18 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/cleric/twilight-domain
-- spell/class/fighter/eldritch-knight
-- spell/class/paladin/oath-of-redemption
-- spell/class/rogue/arcane-trickster
-- spell/class/sorcerer
-- spell/class/warlock/the-archfey
-- spell/class/wizard
-- spell/level/1
-- spell/school/enchantment
-aliases: ["Sleep"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/cleric/twilight-domain
+  - spell/class/fighter/eldritch-knight
+  - spell/class/paladin/oath-of-redemption
+  - spell/class/rogue/arcane-trickster
+  - spell/class/sorcerer
+  - spell/class/warlock/the-archfey
+  - spell/class/wizard
+  - spell/level/1
+  - spell/school/enchantment
+aliases:
+  - Sleep
 ---
 # Sleep
 %%-- Embedded content starts on the next line. --%%
@@ -32,6 +33,6 @@ Undead and creatures immune to being [[/5. Mechanics/Rules/Conditions.md#charmed
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, roll an additional 2d8 for each slot level above 1st.
 
-**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Cleric Twilight Domain (TCE).md\|Cleric (Twilight Domain)]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Paladin Oath Of Redemption (XGE).md\|Paladin (Oath of Redemption)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock The Archfey.md\|Warlock (The Archfey)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Cleric Twilight Domain.md\|Cleric (Twilight Domain)]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Paladin Oath Of Redemption.md\|Paladin (Oath of Redemption)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock The Archfey.md\|Warlock (The Archfey)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 276. Available in the SRD and the Basic Rules.*

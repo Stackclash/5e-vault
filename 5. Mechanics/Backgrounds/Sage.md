@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
-- background
-- compendium/src/5e/phb
-aliases: ["Sage"]
+  - background
+  - compendium/src/5e/phb
+aliases:
+  - Sage
 ---
 # Sage
 *Source: Player's Handbook p. 137. Available in the Basic Rules.*  
 
 - **Skill Proficiencies.** [[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]], [[/5. Mechanics/Rules/Skills.md#History\|History]]  
 - **Languages.** Two of your choice  
-- **Equipment.** A [[5. Mechanics/Items/Ink-1 Ounce Bottle.md\|bottle of black ink]], a quill, a small knife, a letter from a dead colleague posing a question you have not yet been able to answer, a set of [[5. Mechanics/Items/Common Clothes.md\|common clothes]], and a belt [[5. Mechanics/Items/Pouch.md\|pouch]] containing 10 gp  
+- **Equipment.** A [[5. Mechanics/Items/Ink 1 Ounce Bottle.md\|bottle of black ink]], a quill, a small knife, a letter from a dead colleague posing a question you have not yet been able to answer, a set of [[5. Mechanics/Items/Common Clothes.md\|common clothes]], and a belt [[5. Mechanics/Items/Pouch.md\|pouch]] containing 10 gp  
 
 You spent years learning the lore of the multiverse. You scoured manuscripts, studied scrolls, and listened to the greatest experts on the subjects that interest you. Your efforts have made you a master in your fields of study.
 
@@ -22,6 +23,8 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
 ## Specialty
 
 To determine the nature of your scholarly training, roll a d8 or choose from the options in the table below.
+
+`dice: [[Sage.md#^field-of-study]]`
 
 | dice: d8 | Field of Study |
 |----------|----------------|
@@ -39,6 +42,8 @@ To determine the nature of your scholarly training, roll a d8 or choose from the
 
 Sages are defined by their extensive studies, and their characteristics reflect this life of study. Devoted to scholarly pursuits, a sage values knowledge highly—sometimes in its own right, sometimes as a means toward other ideals.
 
+`dice: [[Sage.md#^personality-trait]]`
+
 | dice: d8 | Personality Trait |
 |----------|-------------------|
 | 1 | I use polysyllabic words that convey the impression of great erudition. |
@@ -51,6 +56,8 @@ Sages are defined by their extensive studies, and their characteristics reflect 
 | 8 | I'm convinced that people are always trying to steal my secrets. |
 ^personality-trait
 
+`dice: [[Sage.md#^ideal]]`
+
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Knowledge. The path to power and self-improvement is through knowledge. (Neutral) |
@@ -61,6 +68,8 @@ Sages are defined by their extensive studies, and their characteristics reflect 
 | 6 | Self-Improvement. The goal of a life of study is the betterment of oneself. (Any) |
 ^ideal
 
+`dice: [[Sage.md#^bond]]`
+
 | dice: d6 | Bond |
 |----------|------|
 | 1 | It is my duty to protect my students. |
@@ -70,6 +79,8 @@ Sages are defined by their extensive studies, and their characteristics reflect 
 | 5 | I've been searching my whole life for the answer to a certain question. |
 | 6 | I sold my soul for knowledge. I hope to do great deeds and win it back. |
 ^bond
+
+`dice: [[Sage.md#^flaw]]`
 
 | dice: d6 | Flaw |
 |----------|------|

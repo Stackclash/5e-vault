@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/attunement/required
-- item/property/martial
-- item/property/versatile
-- item/rarity/artifact
-- item/weapon/martial/melee
-aliases: 
-- "Sword of Kas"
+  - compendium/src/5e/dmg
+  - item/attunement/required
+  - item/property/martial
+  - item/property/versatile
+  - item/rarity/artifact
+  - item/weapon/martial/melee
+aliases:
+  - Sword of Kas
 ---
 # Sword of Kas
 *Melee Weapon, artifact (requires attunement)*  

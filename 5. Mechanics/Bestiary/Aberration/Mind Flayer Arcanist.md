@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/8
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/aberration
+  - compendium/src/5e/mm
+  - monster/cr/8
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/aberration
 statblock: inline
-aliases: ["Mind Flayer Arcanist"]
+aliases:
+  - Mind Flayer Arcanist
 ---
 # [[5. Mechanics\Bestiary\Aberration\Mind Flayer Arcanist.md|Mind Flayer Arcanist]]
-*Source: Monster Manual p. 222*  
+*Source: Monster Manual p. 222*
 
 A few mind flayers supplement their psionic power with arcane spells. However, they are regarded as deviants by their illithid peers and usually shunned.
 
@@ -120,10 +121,14 @@ An illithid experiences euphoria as it devours the brain of a humanoid, along wi
 - "MM"
 - "WDMM"
 - "SatO"
-"image": "compendium/bestiary/aberration/token/mind-flayer-arcanist.png"
+"image": "5. Mechanics/Bestiary/Aberration/token/mind-flayer-arcanist.webp"
 ```
 ^statblock
 
 ## Environment
 
 underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

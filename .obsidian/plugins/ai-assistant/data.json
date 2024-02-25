@@ -1,0 +1,10 @@
+{
+  "mySetting": "default",
+  "apiKey": "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",
+  "modelName": "gpt-4",
+  "imageModelName": "dall-e-3",
+  "maxTokens": 500,
+  "replaceSelection": false,
+  "imgFolder": "z_Assets",
+  "language": "en"
+}

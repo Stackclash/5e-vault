@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Dungeon Dressing; Air"]
+  - compendium/src/5e/dmg
+aliases:
+  - Dungeon Dressing; Air
 ---
 # Dungeon Dressing; Air
 *Source: Dungeon Master's Guide p. 298* 
 
-`dice: [[Dungeon Dressing Air.md#^air]]`
-
 **Air**
+
+`dice: [[Dungeon Dressing Air.md#^air]]`
 
 | dice: d100 | Effect |
 |------------|--------|

@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/16
-- monster/environment/coastal
-- monster/environment/desert
-- monster/size/huge
-- monster/type/dragon
+  - compendium/src/5e/mm
+  - monster/cr/16
+  - monster/environment/coastal
+  - monster/environment/desert
+  - monster/size/huge
+  - monster/type/dragon
 statblock: inline
-aliases: ["Adult Blue Dragon"]
+aliases:
+  - Adult Blue Dragon
 ---
 # [[5. Mechanics\Bestiary\Dragon\Adult Blue Dragon.md|Adult Blue Dragon]]
-*Source: Monster Manual p. 91. Available in the SRD.*  
+*Source: Monster Manual p. 91. Available in the SRD.*
 
 Vain and territorial, blue dragons soar through the skies over deserts, preying on caravans and plundering herds and settlements in the verdant lands beyond the desert's reach. These dragons can also be found in dry steppes, searing badlands, and rocky coasts. They guard their territories against all potential competitors, especially brass dragons.
 
@@ -174,10 +175,14 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "GoS"
 - "MOT"
 - "JttRC"
-"image": "compendium/bestiary/dragon/token/adult-blue-dragon.png"
+"image": "5. Mechanics/Bestiary/Dragon/token/adult-blue-dragon.webp"
 ```
 ^statblock
 
 ## Environment
 
 desert, coastal
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

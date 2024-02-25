@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/dmg
-- hazard/mag
-aliases: ["Fire-Breathing Statue"]
+  - compendium/src/5e/dmg
+  - hazard/mag
+aliases:
+  - Fire-Breathing Statue
 ---
 # Fire-Breathing Statue
 *Magical Trap*  

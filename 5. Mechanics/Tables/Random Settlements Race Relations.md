@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Random Settlements; Race Relations"]
+  - compendium/src/5e/dmg
+aliases:
+  - Random Settlements; Race Relations
 ---
 # Random Settlements; Race Relations
 *Source: Dungeon Master's Guide p. 112* 
 
-`dice: [[Random Settlements Race Relations.md#^race-relations]]`
-
 **Race Relations**
+
+`dice: [[Random Settlements Race Relations.md#^race-relations]]`
 
 | dice: d20 | Result |
 |-----------|--------|

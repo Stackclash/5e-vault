@@ -2,18 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-4
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/size/large
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/1-4
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/size/large
+  - monster/type/beast
 statblock: inline
-aliases: ["Elk"]
+aliases:
+  - Elk
 ---
 # [[5. Mechanics\Bestiary\Beast\Elk.md|Elk]]
-*Source: Monster Manual p. 322. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 322. Available in the SRD and the Basic Rules.*
 
 ```statblock
 "name": "Elk"
@@ -54,10 +55,14 @@ aliases: ["Elk"]
 - "SKT"
 - "EGW"
 - "IDRotF"
-"image": "compendium/bestiary/beast/token/elk.png"
+"image": "5. Mechanics/Bestiary/Beast/token/elk.webp"
 ```
 ^statblock
 
 ## Environment
 
 grassland, forest, hill
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

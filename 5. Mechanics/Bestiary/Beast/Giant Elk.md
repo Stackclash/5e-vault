@@ -2,19 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/2
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/size/huge
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/2
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/size/huge
+  - monster/type/beast
 statblock: inline
-aliases: ["Giant Elk"]
+aliases:
+  - Giant Elk
 ---
 # [[5. Mechanics\Bestiary\Beast\Giant Elk.md|Giant Elk]]
-*Source: Monster Manual p. 325. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 325. Available in the SRD and the Basic Rules.*
 
 The majestic giant elk is rare to the point that its appearance is often taken as a foreshadowing of an important event, such as the birth of a king. Legends tell of gods that take the form of giant elk when visiting the Material Plane. Many cultures therefore believe that to hunt these creatures is to invite divine wrath.
 
@@ -55,10 +56,14 @@ The majestic giant elk is rare to the point that its appearance is often taken a
 "source":
 - "MM"
 - "SKT"
-"image": "compendium/bestiary/beast/token/giant-elk.png"
+"image": "5. Mechanics/Bestiary/Beast/token/giant-elk.webp"
 ```
 ^statblock
 
 ## Environment
 
 mountain, grassland, forest, hill
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

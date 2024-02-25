@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-- compendium/src/5e/phb
-- compendium/src/5e/xge
-aliases: ["Actions"]
+  - compendium/src/5e/dmg
+  - compendium/src/5e/phb
+  - compendium/src/5e/xge
+aliases:
+  - Actions
 ---
 # Actions
 
@@ -183,7 +184,7 @@ If the character perceived the casting, the spell's effect, or both, the charact
 
 This Intelligence ([[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]]) check represents the fact that identifying a spell requires a quick mind and familiarity with the theory and practice of casting. This is true even for a character whose spellcasting ability is Wisdom or Charisma. Being able to cast spells doesn't by itself make you adept at deducing exactly what others are doing when they cast their spells.
 
-This action is an optional addition to the game, from the optional/variant rule [[/5. Mechanics/Rules/Variant Rules/Spellcasting (XGE).md\|Spellcasting]].
+This action is an optional addition to the game, from the optional/variant rule [[/5. Mechanics/Rules/Variant Rules/Spellcasting.md\|Spellcasting]].
 
 ## Improvising an Action
 _Source: Player's Handbook p. 193. Available in the Basic Rules._

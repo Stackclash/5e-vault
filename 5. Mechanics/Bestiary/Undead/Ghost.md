@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/4
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/undead
+  - compendium/src/5e/mm
+  - monster/cr/4
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
-aliases: ["Ghost"]
+aliases:
+  - Ghost
 ---
 # [[5. Mechanics\Bestiary\Undead\Ghost.md|Ghost]]
-*Source: Monster Manual p. 147, Curse of Strahd, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 147, Curse of Strahd, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*
 
 A ghost is the soul of a once-living creature, bound to haunt a specific location, creature, or object that held significance to it in its life.
 
@@ -130,10 +131,14 @@ A ghost doesn't require air, food, drink, or sleep.
 - "ToFW"
 - "BMT"
 - "DoDk"
-"image": "compendium/bestiary/undead/token/ghost.png"
+"image": "5. Mechanics/Bestiary/Undead/token/ghost.webp"
 ```
 ^statblock
 
 ## Environment
 
 underdark, urban
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Special Features; What Is a Detail from Its History?"]
+  - compendium/src/5e/dmg
+aliases:
+  - Special Features; What Is a Detail from Its History?
 ---
 # Special Features; What Is a Detail from Its History?
 *Source: Dungeon Master's Guide p. 141* 
 
-`dice: [[Special Features What Is A Detail From Its History.md#^what-is-a-detail-from-its-history]]`
-
 **What Is a Detail from Its History?**
+
+`dice: [[Special Features What Is A Detail From Its History.md#^what-is-a-detail-from-its-history]]`
 
 | dice: d8 | History |
 |----------|---------|

@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/0
-- monster/environment/underwater
-- monster/size/tiny
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/0
+  - monster/environment/underwater
+  - monster/size/tiny
+  - monster/type/beast
 statblock: inline
-aliases: ["Quipper"]
+aliases:
+  - Quipper
 ---
 # [[5. Mechanics\Bestiary\Beast\Quipper.md|Quipper]]
-*Source: Monster Manual p. 335. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 335. Available in the SRD and the Basic Rules.*
 
 A quipper is a carnivorous fish with sharp teeth.
 
@@ -56,10 +57,14 @@ Quippers can adapt to any aquatic environment, including cold subterranean lakes
 - "CRCotN"
 - "PSA"
 - "ToFW"
-"image": "compendium/bestiary/beast/token/quipper.png"
+"image": "5. Mechanics/Bestiary/Beast/token/quipper.webp"
 ```
 ^statblock
 
 ## Environment
 
 underwater
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

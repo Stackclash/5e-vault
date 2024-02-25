@@ -3,7 +3,7 @@
     {
       "id": "Barovia",
       "locked": true,
-      "lastAccessed": 1706211306681,
+      "lastAccessed": 1708087220227,
       "markers": [],
       "overlays": [
         {
@@ -172,6 +172,23 @@
       "tags": [],
       "minZoom": null,
       "maxZoom": null
+    },
+    {
+      "type": "tower",
+      "iconName": "map-marker",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": true,
+      "imageUrl": "data:image/png;base64,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",
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
     }
   ],
   "color": "#dddddd",
@@ -179,11 +196,11 @@
   "long": -82.98333,
   "notePreview": false,
   "layerMarkers": true,
-  "previousVersion": "6.0.1",
+  "previousVersion": "6.0.2",
   "version": {
     "major": 6,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   },
   "warnedAboutMapMarker": false,
   "copyOnClick": false,

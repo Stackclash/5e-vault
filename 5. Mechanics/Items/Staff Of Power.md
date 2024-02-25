@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/attunement/required
-- item/property/versatile
-- item/rarity/very-rare
-- item/tier/major
-- item/wondrous/staff
-aliases: 
-- "Staff of Power"
+  - compendium/src/5e/dmg
+  - item/attunement/required
+  - item/property/versatile
+  - item/rarity/very-rare
+  - item/tier/major
+  - item/wondrous/staff
+aliases:
+  - Staff of Power
 ---
 # Staff of Power
 *Staff, major, very rare (requires attunement by a sorcerer, warlock, or wizard)*  

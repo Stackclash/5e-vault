@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Dungeon Purpose"]
+  - compendium/src/5e/dmg
+aliases:
+  - Dungeon Purpose
 ---
 # Dungeon Purpose
 *Source: Dungeon Master's Guide p. 101* 
 
-`dice: [[Dungeon Purpose.md#^dungeon-purpose]]`
-
 **Dungeon Purpose**
+
+`dice: [[Dungeon Purpose.md#^dungeon-purpose]]`
 
 | dice: d20 | Purpose |
 |-----------|---------|

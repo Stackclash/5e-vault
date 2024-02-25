@@ -2,22 +2,23 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-2
-- monster/environment/arctic
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/humanoid/orc
+  - compendium/src/5e/mm
+  - monster/cr/1-2
+  - monster/environment/arctic
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/humanoid/orc
 statblock: inline
-aliases: ["Orc"]
+aliases:
+  - Orc
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Orc.md|Orc]]
-*Source: Monster Manual p. 246, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 246, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*
 
 Orcs are savage raiders and pillagers with stooped postures, low foreheads, and piggish faces with prominent lower canines that resemble tusks.
 
@@ -100,10 +101,14 @@ Luthic, the orc goddess of fertility and wife of Gruumsh, demands that orcs proc
 - "CRCotN"
 - "HftT"
 - "PaBTSO"
-"image": "compendium/bestiary/humanoid/token/orc.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/orc.webp"
 ```
 ^statblock
 
 ## Environment
 
 underdark, mountain, grassland, forest, swamp, hill, arctic
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

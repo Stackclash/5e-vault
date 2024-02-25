@@ -2,24 +2,25 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/2
-- monster/environment/arctic
-- monster/environment/coastal
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/size/large
-- monster/type/giant
+  - compendium/src/5e/mm
+  - monster/cr/2
+  - monster/environment/arctic
+  - monster/environment/coastal
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/giant
 statblock: inline
-aliases: ["Ogre"]
+aliases:
+  - Ogre
 ---
 # [[5. Mechanics\Bestiary\Giant\Ogre.md|Ogre]]
-*Source: Monster Manual p. 237, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 237, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*
 
 Ogres are as lazy of mind as they are strong of body. They live by raiding, scavenging, and killing for food and pleasure. The average adult specimen stands between 9 and 10 feet tall and weighs close to a thousand pounds.
 
@@ -109,10 +110,14 @@ Whenever possible, ogres gang up with other monsters to bully or prey on creatur
 - "PaBTSO"
 - "SatO"
 - "DoDk"
-"image": "compendium/bestiary/giant/token/ogre.png"
+"image": "5. Mechanics/Bestiary/Giant/token/ogre.webp"
 ```
 ^statblock
 
 ## Environment
 
 grassland, forest, swamp, hill, desert, coastal, arctic, underdark, mountain
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

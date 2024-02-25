@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/2
-- monster/environment/coastal
-- monster/environment/underwater
-- monster/size/large
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/2
+  - monster/environment/coastal
+  - monster/environment/underwater
+  - monster/size/large
+  - monster/type/beast
 statblock: inline
-aliases: ["Plesiosaurus"]
+aliases:
+  - Plesiosaurus
 ---
 # [[5. Mechanics\Bestiary\Beast\Plesiosaurus.md|Plesiosaurus]]
-*Source: Monster Manual p. 80. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 80. Available in the SRD and the Basic Rules.*
 
 A plesiosaurus is a marine dinosaur whose compact body is driven by powerful flippers. Predatory and aggressive, it attacks any creature it encounters. Its flexible neck accounts for a third of its total length, letting it twist in any direction to deliver a powerful bite.
 
@@ -57,10 +58,14 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
 - "GoS"
 - "IDRotF"
 - "DSotDQ"
-"image": "compendium/bestiary/beast/token/plesiosaurus.png"
+"image": "5. Mechanics/Bestiary/Beast/token/plesiosaurus.webp"
 ```
 ^statblock
 
 ## Environment
 
 underwater, coastal
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

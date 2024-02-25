@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/23
-- monster/size/huge
-- monster/type/celestial/titan
+  - compendium/src/5e/mm
+  - monster/cr/23
+  - monster/size/huge
+  - monster/type/celestial/titan
 statblock: inline
-aliases: ["Empyrean"]
+aliases:
+  - Empyrean
 ---
 # [[5. Mechanics\Bestiary\Celestial\Empyrean.md|Empyrean]]
-*Source: Monster Manual p. 130*  
+*Source: Monster Manual p. 130*
 
 Empyreans are the celestial children of the gods of the Upper Planes. They are universally beautiful, statuesque, and self-assured.
 
@@ -103,6 +104,10 @@ Empyreans don't age but can be slain. Because few empyreans can imagine their ow
 - "SatO"
 - "ToFW"
 - "BMT"
-"image": "compendium/bestiary/celestial/token/empyrean.png"
+"image": "5. Mechanics/Bestiary/Celestial/token/empyrean.webp"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

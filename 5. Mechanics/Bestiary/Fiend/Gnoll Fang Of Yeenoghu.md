@@ -2,19 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/4
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/size/medium
-- monster/type/fiend/gnoll
+  - compendium/src/5e/mm
+  - monster/cr/4
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/size/medium
+  - monster/type/fiend/gnoll
 statblock: inline
-aliases: ["Gnoll Fang of Yeenoghu"]
+aliases:
+  - Gnoll Fang of Yeenoghu
 ---
 # [[5. Mechanics\Bestiary\Fiend\Gnoll Fang Of Yeenoghu.md|Gnoll Fang of Yeenoghu]]
-*Source: Monster Manual p. 163*  
+*Source: Monster Manual p. 163*
 
 Gnolls celebrate their victories by performing demonic rituals and making blood offerings to Yeenoghu.
 
@@ -39,7 +40,7 @@ Gnolls are dangerous because they strike at random. They emerge from the wildern
 No goodness or compassion resides in the heart of a gnoll. Like a demon, it lacks anything resembling a conscience, and can't be taught or coerced to put aside its destructive tendencies. The gnolls' frenzied bloodlust makes them an enemy to all, and when they lack a common foe, they fight among themselves. Even the most savage orcs avoid allying with gnolls.
 
 ```statblock
-"name": "Gnoll Fang of Yeenoghu"
+"name": "Gnoll Fang Of Yeenoghu"
 "size": "Medium"
 "type": "fiend"
 "subtype": "gnoll"
@@ -85,10 +86,14 @@ No goodness or compassion resides in the heart of a gnoll. Like a demon, it lack
 - "SatO"
 - "ToFW"
 - "BMT"
-"image": "compendium/bestiary/fiend/token/gnoll-fang-of-yeenoghu.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/gnoll-fang-of-yeenoghu.webp"
 ```
 ^statblock
 
 ## Environment
 
 grassland, forest, hill, desert
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

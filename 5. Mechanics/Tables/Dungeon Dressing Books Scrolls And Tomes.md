@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Dungeon Dressing; Books, Scrolls, and Tomes"]
+  - compendium/src/5e/dmg
+aliases:
+  - 'Dungeon Dressing; Books, Scrolls, and Tomes'
 ---
 # Dungeon Dressing; Books, Scrolls, and Tomes
 *Source: Dungeon Master's Guide p. 298* 
 
-`dice: [[Dungeon Dressing Books Scrolls And Tomes.md#^books-scrolls-and-tomes]]`
-
 **Books, Scrolls, and Tomes**
+
+`dice: [[Dungeon Dressing Books Scrolls And Tomes.md#^books-scrolls-and-tomes]]`
 
 | dice: d100 | Contents |
 |------------|----------|

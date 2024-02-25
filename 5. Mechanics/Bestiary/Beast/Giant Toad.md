@@ -2,20 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1
-- monster/environment/coastal
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/size/large
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/1
+  - monster/environment/coastal
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/beast
 statblock: inline
-aliases: ["Giant Toad"]
+aliases:
+  - Giant Toad
 ---
 # [[5. Mechanics\Bestiary\Beast\Giant Toad.md|Giant Toad]]
-*Source: Monster Manual p. 329, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 329, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*
 
 ```statblock
 "name": "Giant Toad"
@@ -67,10 +68,14 @@ aliases: ["Giant Toad"]
 - "TCE"
 - "WBtW"
 - "KftGV"
-"image": "compendium/bestiary/beast/token/giant-toad.png"
+"image": "5. Mechanics/Bestiary/Beast/token/giant-toad.webp"
 ```
 ^statblock
 
 ## Environment
 
 underdark, forest, swamp, desert, coastal
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

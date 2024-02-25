@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1
-- monster/environment/forest
-- monster/size/medium
-- monster/type/fey
+  - compendium/src/5e/mm
+  - monster/cr/1
+  - monster/environment/forest
+  - monster/size/medium
+  - monster/type/fey
 statblock: inline
-aliases: ["Dryad"]
+aliases:
+  - Dryad
 ---
 # [[5. Mechanics\Bestiary\Fey\Dryad.md|Dryad]]
-*Source: Monster Manual p. 121. Available in the SRD.*  
+*Source: Monster Manual p. 121. Available in the SRD.*
 
 Travelers entering a forest might catch a glimpse of a feminine form flitting through the trees. Warm laughter hangs on the air, drawing those who hear it deeper into the emerald shadows.
 
@@ -110,10 +111,14 @@ Dryads can speak with plants and animals. They can teleport from one tree to ano
 - "BMT"
 - "GHLoE"
 - "DoDk"
-"image": "compendium/bestiary/fey/token/dryad.png"
+"image": "5. Mechanics/Bestiary/Fey/token/dryad.webp"
 ```
 ^statblock
 
 ## Environment
 
 forest
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/7
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/aberration
+  - compendium/src/5e/mm
+  - monster/cr/7
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/aberration
 statblock: inline
-aliases: ["Mind Flayer"]
+aliases:
+  - Mind Flayer
 ---
 # [[5. Mechanics\Bestiary\Aberration\Mind Flayer.md|Mind Flayer]]
-*Source: Monster Manual p. 222, Eberron: Rising from the Last War, Tasha's Cauldron of Everything*  
+*Source: Monster Manual p. 222, Eberron: Rising from the Last War, Tasha's Cauldron of Everything*
 
 Mind flayers, also called illithids, are the scourge of sentient creatures across countless worlds. Psionic tyrants, slavers, and interdimensional voyagers, they are insidious masterminds that harvest entire races for their own twisted ends. Four tentacles snake from their octopus-like heads, flexing in hungry anticipation when sentient creatures come near.
 
@@ -115,10 +116,14 @@ An illithid experiences euphoria as it devours the brain of a humanoid, along wi
 - "SatO"
 - "ToFW"
 - "BMT"
-"image": "compendium/bestiary/aberration/token/mind-flayer.png"
+"image": "5. Mechanics/Bestiary/Aberration/token/mind-flayer.webp"
 ```
 ^statblock
 
 ## Environment
 
 underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

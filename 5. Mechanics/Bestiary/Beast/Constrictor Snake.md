@@ -2,19 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-4
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/swamp
-- monster/environment/underwater
-- monster/size/large
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/1-4
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/swamp
+  - monster/environment/underwater
+  - monster/size/large
+  - monster/type/beast
 statblock: inline
-aliases: ["Constrictor Snake"]
+aliases:
+  - Constrictor Snake
 ---
 # [[5. Mechanics\Bestiary\Beast\Constrictor Snake.md|Constrictor Snake]]
-*Source: Monster Manual p. 320. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 320. Available in the SRD and the Basic Rules.*
 
 ```statblock
 "name": "Constrictor Snake"
@@ -50,10 +51,14 @@ aliases: ["Constrictor Snake"]
 - "TftYP"
 - "ToA"
 - "WDMM"
-"image": "compendium/bestiary/beast/token/constrictor-snake.png"
+"image": "5. Mechanics/Bestiary/Beast/token/constrictor-snake.webp"
 ```
 ^statblock
 
 ## Environment
 
 underwater, forest, swamp, desert
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

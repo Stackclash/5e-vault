@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/mm
-- item/rarity/unknown/magic
-- item/wondrous/wondrous-item
-aliases: 
-- "Hag Eye"
+  - compendium/src/5e/mm
+  - item/rarity/unknown/magic
+  - item/wondrous/wondrous-item
+aliases:
+  - Hag Eye
 ---
 # Hag Eye
 *Other, unknown (magic)*  

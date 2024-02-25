@@ -2,10 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-- compendium/src/5e/phb
-- compendium/src/5e/saf
-aliases: ["Item Types"]
+  - compendium/src/5e/dmg
+  - compendium/src/5e/hhbh
+  - compendium/src/5e/hhhvi
+  - compendium/src/5e/hhhvii
+  - compendium/src/5e/hhhviii
+  - compendium/src/5e/phb
+  - compendium/src/5e/saf
+aliases:
+  - Item Types
 ---
 # Item Types
 
@@ -13,6 +18,14 @@ aliases: ["Item Types"]
 _Source: Player's Handbook p. 154_
 
 These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.
+
+## Curse
+_Source: Hamund's Harvesting Handbook: Volume I p. 118_
+
+
+## Curse
+_Source: Hamund's Harvesting Handbook: Volume II p. 80_
+
 
 ## Gaming Set
 _Source: Player's Handbook p. 154_
@@ -45,6 +58,9 @@ Sleight of Hand is a useful skill for cheating at a game, as it allows you to sw
 | Gain insight into an opponent's personality | 15 |
 ^gaming-set
 
+## Herb
+_Source: Hamund's Herbalism Handbook p. 5_
+
 ## Instrument
 _Source: Player's Handbook p. 154_
 
@@ -71,6 +87,18 @@ As part of a long rest, you can compose a new tune and lyrics for your instrumen
 | Identify a tune | 10 |
 | Improvise a tune | 20 |
 ^musical-instrument
+
+## Oil
+_Source: Hamund's Harvesting Handbook: Volume I p. 118_
+
+
+## Oil
+_Source: Hamund's Harvesting Handbook: Volume II p. 80_
+
+
+## Oil
+_Source: Hamund's Harvesting Handbook: Volume III p. 53_
+
 
 ## Range
 _Source: Player's Handbook p. 146_

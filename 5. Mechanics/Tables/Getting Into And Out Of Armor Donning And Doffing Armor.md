@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Getting Into and Out of Armor; Donning and Doffing Armor"]
+  - compendium/src/5e/phb
+aliases:
+  - Getting Into and Out of Armor; Donning and Doffing Armor
 ---
 # Getting Into and Out of Armor; Donning and Doffing Armor
 *Source: Player's Handbook p. 146. Available in the SRD and the Basic Rules.* 
-
-`dice: [[Getting Into And Out Of Armor Donning And Doffing Armor.md#^donning-and-doffing-armor]]`
 
 **Donning and Doffing Armor**
 

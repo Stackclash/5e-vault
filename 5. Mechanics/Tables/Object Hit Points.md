@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Object Hit Points"]
+  - compendium/src/5e/dmg
+aliases:
+  - Object Hit Points
 ---
 # Object Hit Points
 *Source: Dungeon Master's Guide p. 247. Available in the SRD.* 
-
-`dice: [[Object Hit Points.md#^object-hit-points]]`
 
 **Object Hit Points**
 

@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/2
-- monster/environment/forest
-- monster/environment/grassland
-- monster/size/large
-- monster/type/monstrosity
+  - compendium/src/5e/mm
+  - monster/cr/2
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/size/large
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Centaur"]
+aliases:
+  - Centaur
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Centaur.md|Centaur]]
-*Source: Monster Manual p. 38. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 38. Available in the SRD and the Basic Rules.*
 
 > [!quote]- A quote from Batley Summerfoot, a halfling adventurer who never read HOOVES OF FURY, by Iryil Grayborn of Sundown  
 > 
@@ -86,10 +87,14 @@ Despite their reclusive nature, centaurs trade with elves and with the caravans 
 - "DIP"
 - "MOT"
 - "WBtW"
-"image": "compendium/bestiary/monstrosity/token/centaur.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/centaur.webp"
 ```
 ^statblock
 
 ## Environment
 
 grassland, forest
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

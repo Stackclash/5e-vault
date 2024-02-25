@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/rare
-- item/tier/major
-- item/wondrous
-aliases: 
-- "Figurine of Wondrous Power, Ebony Fly"
+  - compendium/src/5e/dmg
+  - item/rarity/rare
+  - item/tier/major
+  - item/wondrous
+aliases:
+  - 'Figurine of Wondrous Power, Ebony Fly'
 ---
 # Figurine of Wondrous Power, Ebony Fly
 *Wondrous Item, major, rare*  
@@ -21,6 +21,6 @@ The creature exists for a duration specific to each figurine. At the end of the 
 
 ## Ebony Fly
 
-This ebony statuette is carved in the likeness of a horsefly. It can become a [[5. Mechanics/Bestiary/Beast/Giant Fly (DMG).md\|giant fly]] for up to 12 hours and can be ridden as a mount. Once it has been used, it can't be used again until 2 days have passed.
+This ebony statuette is carved in the likeness of a horsefly. It can become a [[5. Mechanics/Bestiary/Beast/Giant Fly.md\|giant fly]] for up to 12 hours and can be ridden as a mount. Once it has been used, it can't be used again until 2 days have passed.
 
 *Source: Dungeon Master's Guide p. 169. Available in the SRD.*

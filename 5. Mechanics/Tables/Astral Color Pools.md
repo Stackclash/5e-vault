@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Astral Color Pools"]
+  - compendium/src/5e/dmg
+aliases:
+  - Astral Color Pools
 ---
 # Astral Color Pools
 *Source: Dungeon Master's Guide p. 47* 
 
-`dice: [[Astral Color Pools.md#^astral-color-pools]]`
-
 **Astral Color Pools**
+
+`dice: [[Astral Color Pools.md#^astral-color-pools]]`
 
 | dice: d20 | Plane | Pool Color |
 |-----------|-------|------------|

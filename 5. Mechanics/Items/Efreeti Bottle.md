@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/very-rare
-- item/tier/major
-- item/wondrous
-aliases: 
-- "Efreeti Bottle"
+  - compendium/src/5e/dmg
+  - item/rarity/very-rare
+  - item/tier/major
+  - item/wondrous
+aliases:
+  - Efreeti Bottle
 ---
 # Efreeti Bottle
 *Wondrous Item, major, very rare*  
@@ -18,6 +18,8 @@ aliases:
 This painted brass bottle weighs 1 pound. When you use an action to remove the stopper, a cloud of thick smoke flows out of the bottle. At the end of your turn, the smoke disappears with a flash of harmless fire, and an [[5. Mechanics/Bestiary/Elemental/Efreeti.md\|efreeti]] appears in an unoccupied space within 30 feet of you.
 
 The first time the bottle is opened, the DM rolls to determine what happens.
+
+`dice: [[Efreeti Bottle.md#^effect]]`
 
 | dice: d100 | Effect |
 |------------|--------|

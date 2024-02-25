@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Dungeon Dressing; Religious Articles and Furnishings"]
+  - compendium/src/5e/dmg
+aliases:
+  - Dungeon Dressing; Religious Articles and Furnishings
 ---
 # Dungeon Dressing; Religious Articles and Furnishings
 *Source: Dungeon Master's Guide p. 298* 
 
-`dice: [[Dungeon Dressing Religious Articles And Furnishings.md#^religious-articles-and-furnishings]]`
-
 **Religious Articles and Furnishings**
+
+`dice: [[Dungeon Dressing Religious Articles And Furnishings.md#^religious-articles-and-furnishings]]`
 
 | dice: d100 | Item |
 |------------|------|

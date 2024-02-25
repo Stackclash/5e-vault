@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Outer Planes"]
+  - compendium/src/5e/phb
+aliases:
+  - Outer Planes
 ---
 # Outer Planes
 *Source: Player's Handbook p. 301* 
-
-`dice: [[Outer Planes.md#^outer-planes]]`
 
 **Outer Planes**
 

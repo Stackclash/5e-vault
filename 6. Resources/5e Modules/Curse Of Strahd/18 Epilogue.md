@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/cos
-aliases: ["Epilogue"]
+  - compendium/src/5e/cos
+aliases:
+  - Epilogue
 ---
 # Epilogue
 *Source: Curse of Strahd, p. 207* 
 
-Strahd is a deadly challenge for the characters. If they confront the vampire too soon, without the benefit of magic items such as the [[5. Mechanics/Items/Holy Symbol Of Ravenkind (COS).md\|Holy Symbol of Ravenkind]] and the [[5. Mechanics/Items/Sunsword (COS).md\|Sunsword]], they will likely perish. Characters can improve their chances of survival by exploring the land of Barovia, defeating lesser evils, and gaining allies, magic items, and levels of experience.
+Strahd is a deadly challenge for the characters. If they confront the vampire too soon, without the benefit of magic items such as the [[5. Mechanics/Items/Holy Symbol Of Ravenkind.md\|Holy Symbol of Ravenkind]] and the [[5. Mechanics/Items/Sunsword.md\|Sunsword]], they will likely perish. Characters can improve their chances of survival by exploring the land of Barovia, defeating lesser evils, and gaining allies, magic items, and levels of experience.
 
 The outcome of the final showdown between Strahd and the characters determines how the adventure ends.
 

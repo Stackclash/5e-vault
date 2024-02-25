@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Spell Damage"]
+  - compendium/src/5e/dmg
+aliases:
+  - Spell Damage
 ---
 # Spell Damage
 *Source: Dungeon Master's Guide p. 283* 
-
-`dice: [[Spell Damage.md#^spell-damage]]`
 
 **Spell Damage**
 

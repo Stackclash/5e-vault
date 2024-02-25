@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/0
-- monster/environment/desert
-- monster/size/tiny
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/0
+  - monster/environment/desert
+  - monster/size/tiny
+  - monster/type/beast
 statblock: inline
-aliases: ["Scorpion"]
+aliases:
+  - Scorpion
 ---
 # [[5. Mechanics\Bestiary\Beast\Scorpion.md|Scorpion]]
-*Source: Monster Manual p. 337. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 337. Available in the SRD and the Basic Rules.*
 
 ```statblock
 "name": "Scorpion"
@@ -42,10 +43,14 @@ aliases: ["Scorpion"]
 - "MM"
 - "WDMM"
 - "PSX"
-"image": "compendium/bestiary/beast/token/scorpion.png"
+"image": "5. Mechanics/Bestiary/Beast/token/scorpion.webp"
 ```
 ^statblock
 
 ## Environment
 
 desert
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

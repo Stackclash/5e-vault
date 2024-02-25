@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Creature Size; Size Categories"]
+  - compendium/src/5e/phb
+aliases:
+  - Creature Size; Size Categories
 ---
 # Creature Size; Size Categories
 *Source: Player's Handbook p. 191. Available in the SRD and the Basic Rules.* 
-
-`dice: [[Creature Size Size Categories.md#^size-categories]]`
 
 **Size Categories**
 

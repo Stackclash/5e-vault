@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/7
-- monster/environment/forest
-- monster/environment/underdark
-- monster/size/large
-- monster/type/monstrosity
+  - compendium/src/5e/mm
+  - monster/cr/7
+  - monster/environment/forest
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Grick Alpha"]
+aliases:
+  - Grick Alpha
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Grick Alpha.md|Grick Alpha]]
-*Source: Monster Manual p. 173*  
+*Source: Monster Manual p. 173*
 
 The wormlike grick waits unseen, blending in with the rock of the caves and caverns it haunts. Only when prey comes near does it rear up, its four barbed tentacles unfurling to reveal its hungry, snapping beak.
 
@@ -49,8 +50,8 @@ Over time, grick lairs accumulate the cast-off possessions of intelligent prey, 
 "languages": ""
 "cr": "7"
 "traits":
-- "desc": "The grick has advantage on Dexterity (Stealth) checks made to hide in rocky\
-    \ terrain."
+- "desc": "The grick has advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]])\
+    \ checks made to hide in rocky terrain."
   "name": "Stone Camouflage"
 "actions":
 - "desc": "The grick makes two attacks: one with its tail and one with its tentacles.\
@@ -72,10 +73,14 @@ Over time, grick lairs accumulate the cast-off possessions of intelligent prey, 
 - "CM"
 - "DSotDQ"
 - "PaBTSO"
-"image": "compendium/bestiary/monstrosity/token/grick-alpha.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/grick-alpha.webp"
 ```
 ^statblock
 
 ## Environment
 
 underdark, forest
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

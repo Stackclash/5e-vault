@@ -2,22 +2,23 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-2
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/swamp
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/1-2
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/swamp
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/beast
 statblock: inline
-aliases: ["Swarm of Wasps"]
+aliases:
+  - Swarm of Wasps
 ---
 # [[5. Mechanics\Bestiary\Beast\Swarm Of Wasps.md|Swarm of Wasps]]
-*Source: Monster Manual p. 338, Curse of Strahd. Available in the SRD.*  
+*Source: Monster Manual p. 338, Curse of Strahd. Available in the SRD.*
 
 > [!note] The Nature of Swarms
 > 
@@ -25,7 +26,7 @@ aliases: ["Swarm of Wasps"]
 ^the-nature-of-swarms
 
 ```statblock
-"name": "Swarm of Wasps"
+"name": "Swarm Of Wasps"
 "size": "Medium"
 "type": "beast"
 "alignment": "Unaligned"
@@ -65,10 +66,14 @@ aliases: ["Swarm of Wasps"]
 - "WDMM"
 - "GoS"
 - "WBtW"
-"image": "compendium/bestiary/beast/token/swarm-of-wasps.png"
+"image": "5. Mechanics/Bestiary/Beast/token/swarm-of-wasps.webp"
 ```
 ^statblock
 
 ## Environment
 
 underdark, grassland, forest, swamp, hill, urban, desert
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

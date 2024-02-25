@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Identify Important NPCs; Adventure Patrons"]
+  - compendium/src/5e/dmg
+aliases:
+  - Identify Important NPCs; Adventure Patrons
 ---
 # Identify Important NPCs; Adventure Patrons
 *Source: Dungeon Master's Guide p. 74* 
 
-`dice: [[Identify Important Npcs Adventure Patrons.md#^adventure-patrons]]`
-
 **Adventure Patrons**
+
+`dice: [[Identify Important Npcs Adventure Patrons.md#^adventure-patrons]]`
 
 | dice: d20 | Patron |
 |-----------|--------|

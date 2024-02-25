@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear
-aliases: 
-- "Scholar's Pack"
+  - compendium/src/5e/phb
+  - item/gear
+aliases:
+  - Scholar's Pack
 cost: 4000
 ---
 # Scholar's Pack
@@ -18,7 +18,7 @@ Includes:
 
 - a [[5. Mechanics/Items/Backpack.md\|backpack]]  
 - a [[5. Mechanics/Items/Book.md\|book]] of lore  
-- a [[5. Mechanics/Items/Ink-1 Ounce Bottle.md\|bottle of ink]]  
+- a [[5. Mechanics/Items/Ink 1 Ounce Bottle.md\|bottle of ink]]  
 - an [[5. Mechanics/Items/Ink Pen.md\|ink pen]]  
 - 10 [[5. Mechanics/Items/Parchment One Sheet.md\|sheets of parchment]]  
 - a little bag of sand  

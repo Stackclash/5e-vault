@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
-economic_scale: 0.3
+economic_scale: 0.5
 ---
 
-## Notable Locations
-> ```dataviewjs
->  await dv.view("locations", {current: dv.current()})
-> ```
+`INPUT[number(title("Economic Scale")):economic_scale]`
+```dataviewjs
+await dv.view("locations", {current: dv.current()})
+```

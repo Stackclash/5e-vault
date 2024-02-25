@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Chamber Purpose; Dungeon: Stronghold"]
+  - compendium/src/5e/dmg
+aliases:
+  - 'Chamber Purpose; Dungeon: Stronghold'
 ---
 # Chamber Purpose; Dungeon: Stronghold
 *Source: Dungeon Master's Guide p. 292* 
 
-`dice: [[Chamber Purpose Dungeon Stronghold.md#^dungeon-stronghold]]`
-
 **Dungeon: Stronghold**
+
+`dice: [[Chamber Purpose Dungeon Stronghold.md#^dungeon-stronghold]]`
 
 | dice: d100 | Purpose |
 |------------|---------|

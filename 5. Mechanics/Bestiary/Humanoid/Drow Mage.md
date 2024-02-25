@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/7
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/humanoid/elf
+  - compendium/src/5e/mm
+  - monster/cr/7
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/humanoid/elf
 statblock: inline
-aliases: ["Drow Mage"]
+aliases:
+  - Drow Mage
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Drow Mage.md|Drow Mage]]
-*Source: Monster Manual p. 129*  
+*Source: Monster Manual p. 129*
 
 ## Drow
 
@@ -146,10 +147,14 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
 - "IDRotF"
 - "CM"
 - "WBtW"
-"image": "compendium/bestiary/humanoid/token/drow-mage.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/drow-mage.webp"
 ```
 ^statblock
 
 ## Environment
 
 underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

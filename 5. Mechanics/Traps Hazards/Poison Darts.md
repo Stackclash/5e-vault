@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/dmg
-- hazard/mech
-aliases: ["Poison Darts"]
+  - compendium/src/5e/dmg
+  - hazard/mech
+aliases:
+  - Poison Darts
 ---
 # Poison Darts
 *Mechanical Trap*  

@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/property/light
-- item/property/thrown
-- item/weapon/simple/melee
-aliases: 
-- "Light Hammer"
+  - compendium/src/5e/phb
+  - item/property/light
+  - item/property/thrown
+  - item/weapon/simple/melee
+aliases:
+  - Light Hammer
 cost: 200
 ---
 # Light Hammer

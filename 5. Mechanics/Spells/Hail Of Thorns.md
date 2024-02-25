@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/ranger
-- spell/level/1
-- spell/school/conjuration
-aliases: ["Hail of Thorns"]
+  - compendium/src/5e/phb
+  - spell/class/ranger
+  - spell/level/1
+  - spell/school/conjuration
+aliases:
+  - Hail of Thorns
 ---
 # Hail of Thorns
 %%-- Embedded content starts on the next line. --%%

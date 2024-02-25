@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Modify Total XP for Multiple Monsters; Encounter Multipliers"]
+  - compendium/src/5e/dmg
+aliases:
+  - Modify Total XP for Multiple Monsters; Encounter Multipliers
 ---
 # Modify Total XP for Multiple Monsters; Encounter Multipliers
 *Source: Dungeon Master's Guide p. 82. Available in the Basic Rules.* 
-
-`dice: [[Modify Total Xp For Multiple Monsters Encounter Multipliers.md#^encounter-multipliers]]`
 
 **Encounter Multipliers**
 

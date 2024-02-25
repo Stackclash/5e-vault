@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/0
-- monster/size/tiny
-- monster/type/construct
+  - compendium/src/5e/mm
+  - monster/cr/0
+  - monster/size/tiny
+  - monster/type/construct
 statblock: inline
-aliases: ["Homunculus"]
+aliases:
+  - Homunculus
 ---
 # [[5. Mechanics\Bestiary\Construct\Homunculus.md|Homunculus]]
-*Source: Monster Manual p. 188, Eberron: Rising from the Last War. Available in the SRD.*  
+*Source: Monster Manual p. 188, Eberron: Rising from the Last War. Available in the SRD.*
 
 Shaping a mixture of clay, ash, mandrake root, and blood, one can channel rare ritual magic to create a faithful, squirrel-sized companion.
 
@@ -65,6 +66,10 @@ A homunculus knows everything its creator knows, including all the languages the
 - "PaBTSO"
 - "BMT"
 - "DoDk"
-"image": "compendium/bestiary/construct/token/homunculus.png"
+"image": "5. Mechanics/Bestiary/Construct/token/homunculus.webp"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

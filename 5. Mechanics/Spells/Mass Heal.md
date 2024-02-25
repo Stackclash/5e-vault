@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/class/sorcerer/divine-soul
-- spell/level/9
-- spell/school/evocation
-aliases: ["Mass Heal"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/class/sorcerer/divine-soul
+  - spell/level/9
+  - spell/school/evocation
+aliases:
+  - Mass Heal
 ---
 # Mass Heal
 %%-- Embedded content starts on the next line. --%%
@@ -20,6 +21,6 @@ aliases: ["Mass Heal"]
 
 A flood of healing energy flows from you into injured creatures around you. You restore up to 700 hit points, divided as you choose among any number of creatures that you can see within range. Creatures healed by this spell are also cured of all diseases and any effect making them [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]] or [[/5. Mechanics/Rules/Conditions.md#deafened\|deafened]]. This spell has no effect on undead or constructs.
 
-**Classes**: [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]]
+**Classes**: [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]]
 
 *Source: Player's Handbook p. 258. Available in the SRD and the Basic Rules.*

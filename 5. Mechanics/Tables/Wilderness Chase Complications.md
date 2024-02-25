@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Wilderness Chase Complications"]
+  - compendium/src/5e/dmg
+aliases:
+  - Wilderness Chase Complications
 ---
 # Wilderness Chase Complications
 *Source: Dungeon Master's Guide p. 253* 
 
-`dice: [[Wilderness Chase Complications.md#^wilderness-chase-complications]]`
-
 **Wilderness Chase Complications**
+
+`dice: [[Wilderness Chase Complications.md#^wilderness-chase-complications]]`
 
 | dice: d20 | Complication |
 |-----------|--------------|

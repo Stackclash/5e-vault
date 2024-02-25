@@ -2,18 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Handling Mobs; Mob Attacks"]
+  - compendium/src/5e/dmg
+aliases:
+  - Handling Mobs; Mob Attacks
 ---
 # Handling Mobs; Mob Attacks
 *Source: Dungeon Master's Guide p. 250* 
 
-`dice: [[Handling Mobs Mob Attacks.md#^mob-attacks]]`
-
 **Mob Attacks**
 
-| dice: d20 Roll Needed | Attackers Needed for One to Hit |
-|-----------------------|---------------------------------|
+| d20 Roll Needed | Attackers Needed for One to Hit |
+|-----------------|---------------------------------|
 | 1-5 | 1 |
 | 6-12 | 2 |
 | 13-14 | 3 |

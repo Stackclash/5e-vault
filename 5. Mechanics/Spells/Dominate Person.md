@@ -2,19 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/bard
-- spell/class/cleric/order-domain
-- spell/class/cleric/trickery-domain
-- spell/class/paladin/oath-of-conquest
-- spell/class/paladin/oathbreaker
-- spell/class/sorcerer
-- spell/class/warlock/the-archfey
-- spell/class/warlock/the-great-old-one
-- spell/class/wizard
-- spell/level/5
-- spell/school/enchantment
-aliases: ["Dominate Person"]
+  - compendium/src/5e/phb
+  - spell/class/bard
+  - spell/class/cleric/order-domain
+  - spell/class/cleric/trickery-domain
+  - spell/class/paladin/oath-of-conquest
+  - spell/class/paladin/oathbreaker
+  - spell/class/sorcerer
+  - spell/class/warlock/the-archfey
+  - spell/class/warlock/the-great-old-one
+  - spell/class/wizard
+  - spell/level/5
+  - spell/school/enchantment
+aliases:
+  - Dominate Person
 ---
 # Dominate Person
 %%-- Embedded content starts on the next line. --%%
@@ -35,6 +36,6 @@ Each time the target takes damage, it makes a new Wisdom saving throw against th
 
 **At Higher Levels.** When you cast this spell using a 6th-level spell slot, the duration is [[/5. Mechanics/Rules/Conditions.md#concentration\|concentration]], up to 10 minutes. When you use a 7th-level spell slot, the duration is [[/5. Mechanics/Rules/Conditions.md#concentration\|concentration]], up to 1 hour. When you use a spell slot of 8th level or higher, the duration is [[/5. Mechanics/Rules/Conditions.md#concentration\|concentration]], up to 8 hours.
 
-**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Cleric Order Domain (TCE).md\|Cleric (Order Domain)]], [[5. Mechanics/Classes/Cleric Trickery Domain.md\|Cleric (Trickery Domain)]], [[5. Mechanics/Classes/Paladin Oath Of Conquest (XGE).md\|Paladin (Oath of Conquest)]], [[5. Mechanics/Classes/Paladin Oathbreaker.md\|Paladin (Oathbreaker)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock The Archfey.md\|Warlock (The Archfey)]], [[5. Mechanics/Classes/Warlock The Great Old One.md\|Warlock (The Great Old One)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Cleric Order Domain.md\|Cleric (Order Domain)]], [[5. Mechanics/Classes/Cleric Trickery Domain.md\|Cleric (Trickery Domain)]], [[5. Mechanics/Classes/Paladin Oath Of Conquest.md\|Paladin (Oath of Conquest)]], [[5. Mechanics/Classes/Paladin Oathbreaker.md\|Paladin (Oathbreaker)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock The Archfey.md\|Warlock (The Archfey)]], [[5. Mechanics/Classes/Warlock The Great Old One.md\|Warlock (The Great Old One)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 235. Available in the SRD and the Basic Rules.*

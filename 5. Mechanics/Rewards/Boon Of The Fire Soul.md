@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/dmg
-- reward/boon
-aliases: ["Boon of the Fire Soul"]
+  - compendium/src/5e/dmg
+  - reward/boon
+aliases:
+  - Boon of the Fire Soul
 ---
 # Boon of the Fire Soul
 

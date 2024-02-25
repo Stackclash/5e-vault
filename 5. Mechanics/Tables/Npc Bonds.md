@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["NPC Bonds"]
+  - compendium/src/5e/dmg
+aliases:
+  - NPC Bonds
 ---
 # NPC Bonds
 *Source: Dungeon Master's Guide p. 91* 
 
-`dice: [[Npc Bonds.md#^npc-bonds]]`
-
 **NPC Bonds**
+
+`dice: [[Npc Bonds.md#^npc-bonds]]`
 
 | dice: d10 | Bond |
 |-----------|------|

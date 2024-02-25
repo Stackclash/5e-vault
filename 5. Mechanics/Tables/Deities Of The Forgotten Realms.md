@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Deities of the Forgotten Realms"]
+  - compendium/src/5e/phb
+aliases:
+  - Deities of the Forgotten Realms
 ---
 # Deities of the Forgotten Realms
 *Source: Player's Handbook p. 293. Available in the Basic Rules.* 
-
-`dice: [[Deities Of The Forgotten Realms.md#^deities-of-the-forgotten-realms]]`
 
 **Deities of the Forgotten Realms**
 

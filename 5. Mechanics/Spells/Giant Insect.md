@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/druid
-- spell/level/4
-- spell/school/transmutation
-aliases: ["Giant Insect"]
+  - compendium/src/5e/phb
+  - spell/class/druid
+  - spell/level/4
+  - spell/school/transmutation
+aliases:
+  - Giant Insect
 ---
 # Giant Insect
 %%-- Embedded content starts on the next line. --%%

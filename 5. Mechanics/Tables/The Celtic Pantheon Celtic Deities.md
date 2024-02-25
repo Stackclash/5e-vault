@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["The Celtic Pantheon; Celtic Deities"]
+  - compendium/src/5e/phb
+aliases:
+  - The Celtic Pantheon; Celtic Deities
 ---
 # The Celtic Pantheon; Celtic Deities
 *Source: Player's Handbook p. 297. Available in the SRD.* 
-
-`dice: [[The Celtic Pantheon Celtic Deities.md#^celtic-deities]]`
 
 **Celtic Deities**
 

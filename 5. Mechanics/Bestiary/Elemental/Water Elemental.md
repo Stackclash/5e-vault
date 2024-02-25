@@ -2,18 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/5
-- monster/environment/coastal
-- monster/environment/swamp
-- monster/environment/underwater
-- monster/size/large
-- monster/type/elemental
+  - compendium/src/5e/mm
+  - monster/cr/5
+  - monster/environment/coastal
+  - monster/environment/swamp
+  - monster/environment/underwater
+  - monster/size/large
+  - monster/type/elemental
 statblock: inline
-aliases: ["Water Elemental"]
+aliases:
+  - Water Elemental
 ---
 # [[5. Mechanics\Bestiary\Elemental\Water Elemental.md|Water Elemental]]
-*Source: Monster Manual p. 125, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 125, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*
 
 A water elemental is a cresting wave that rolls across the ground, becoming nearly invisible at it courses through a larger body of water. It engulfs creatures that stand against it, filling their mouths and lungs as easily as it smothers flame.
 
@@ -105,10 +106,14 @@ An elemental doesn't require air, food, drink, or sleep.
 - "DSotDQ"
 - "PaBTSO"
 - "DoDk"
-"image": "compendium/bestiary/elemental/token/water-elemental.png"
+"image": "5. Mechanics/Bestiary/Elemental/token/water-elemental.webp"
 ```
 ^statblock
 
 ## Environment
 
 underwater, swamp, coastal
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

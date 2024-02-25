@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer/battle-smith
-- spell/class/bard
-- spell/class/cleric/order-domain
-- spell/class/cleric/peace-domain
-- spell/class/paladin
-- spell/class/paladin/oath-of-glory
-- spell/level/1
-- spell/school/enchantment
-aliases: ["Heroism"]
+  - compendium/src/5e/phb
+  - spell/class/artificer/battle-smith
+  - spell/class/bard
+  - spell/class/cleric/order-domain
+  - spell/class/cleric/peace-domain
+  - spell/class/paladin
+  - spell/class/paladin/oath-of-glory
+  - spell/level/1
+  - spell/school/enchantment
+aliases:
+  - Heroism
 ---
 # Heroism
 %%-- Embedded content starts on the next line. --%%
@@ -26,6 +27,6 @@ A willing creature you touch is imbued with bravery. Until the spell ends, the c
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
 
-**Classes**: [[5. Mechanics/Classes/Artificer Battle Smith (TCE).md\|Artificer (Battle Smith)]], [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Cleric Order Domain (TCE).md\|Cleric (Order Domain)]], [[5. Mechanics/Classes/Cleric Peace Domain (TCE).md\|Cleric (Peace Domain)]], [[5. Mechanics/Classes/Paladin Oath Of Glory (TCE).md\|Paladin (Oath of Glory)]], [[5. Mechanics/Classes/Paladin.md\|Paladin]]
+**Classes**: [[5. Mechanics/Classes/Artificer Battle Smith.md\|Artificer (Battle Smith)]], [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Cleric Order Domain.md\|Cleric (Order Domain)]], [[5. Mechanics/Classes/Cleric Peace Domain.md\|Cleric (Peace Domain)]], [[5. Mechanics/Classes/Paladin Oath Of Glory.md\|Paladin (Oath of Glory)]], [[5. Mechanics/Classes/Paladin.md\|Paladin]]
 
 *Source: Player's Handbook p. 250. Available in the SRD.*

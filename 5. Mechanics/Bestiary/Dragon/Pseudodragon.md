@@ -2,21 +2,22 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-4
-- monster/environment/coastal
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/urban
-- monster/size/tiny
-- monster/type/dragon
+  - compendium/src/5e/mm
+  - monster/cr/1-4
+  - monster/environment/coastal
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/urban
+  - monster/size/tiny
+  - monster/type/dragon
 statblock: inline
-aliases: ["Pseudodragon"]
+aliases:
+  - Pseudodragon
 ---
 # [[5. Mechanics\Bestiary\Dragon\Pseudodragon.md|Pseudodragon]]
-*Source: Monster Manual p. 254, Eberron: Rising from the Last War. Available in the SRD.*  
+*Source: Monster Manual p. 254, Eberron: Rising from the Last War. Available in the SRD.*
 
 The elusive pseudodragon dwells in the quiet places of the world, making its home in the hollows of trees and small caves. With its red-brown scales, horns, and a maw filled with sharp teeth, a pseudodragon resembles a tiny red dragon but its disposition is playful.
 
@@ -100,10 +101,14 @@ The pseudodragon can serve another creature as a familiar, forming a magic, tele
 - "EGW"
 - "IDRotF"
 - "DoDk"
-"image": "compendium/bestiary/dragon/token/pseudodragon.png"
+"image": "5. Mechanics/Bestiary/Dragon/token/pseudodragon.webp"
 ```
 ^statblock
 
 ## Environment
 
 mountain, forest, hill, urban, desert, coastal
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

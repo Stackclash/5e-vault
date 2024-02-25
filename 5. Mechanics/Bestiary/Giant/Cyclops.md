@@ -2,21 +2,22 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/6
-- monster/environment/coastal
-- monster/environment/desert
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/size/huge
-- monster/type/giant
+  - compendium/src/5e/mm
+  - monster/cr/6
+  - monster/environment/coastal
+  - monster/environment/desert
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/size/huge
+  - monster/type/giant
 statblock: inline
-aliases: ["Cyclops"]
+aliases:
+  - Cyclops
 ---
 # [[5. Mechanics\Bestiary\Giant\Cyclops.md|Cyclops]]
-*Source: Monster Manual p. 45. Available in the Basic Rules.*  
+*Source: Monster Manual p. 45. Available in the Basic Rules.*
 
 Cyclopes are one-eyed giants that eke out a meager existence in wild lands. Isolationists by nature, they avoid contact with other races and try to drive away strangers in their territory.
 
@@ -77,10 +78,14 @@ Cyclopes aren't great thinkers or strategists. Slow to learn and bound to their 
 - "WBtW"
 - "DSotDQ"
 - "SatO"
-"image": "compendium/bestiary/giant/token/cyclops.png"
+"image": "5. Mechanics/Bestiary/Giant/token/cyclops.webp"
 ```
 ^statblock
 
 ## Environment
 
 underdark, mountain, grassland, hill, desert, coastal
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

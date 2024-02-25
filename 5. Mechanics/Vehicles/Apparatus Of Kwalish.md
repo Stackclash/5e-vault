@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-vehicle
 tags:
-- compendium/src/5e/dmg
-- vehicle/size/large
-- vehicle/terrain/sea
-- vehicle/type/object
-aliases: ["Apparatus of Kwalish"]
+  - compendium/src/5e/dmg
+  - vehicle/size/large
+  - vehicle/terrain/sea
+  - vehicle/type/object
+aliases:
+  - Apparatus of Kwalish
 ---
 # Apparatus of Kwalish
 %%-- Embedded content starts on the next line. --%%
@@ -21,6 +22,11 @@ title: Apparatus of Kwalish
 - **Armor Class** 20
 - **Hit Points** 200
 - **Speed** 30 ft., swim 30 ft. (or 0 ft. for both if the legs and tail aren't extended)
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
+
 - **Damage Immunities** poison, psychic
 
 This item first appears to be a Large sealed iron barrel weighing 500 pounds. The barrel has a hidden catch, which can be found with a successful DC 20 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check. Releasing the catch unlocks a hatch at one end of the barrel, allowing two Medium or smaller creatures to crawl inside. Ten levers are set in a row at the far end, each in a neutral position, able to move either up or down. When certain levers are used, the apparatus transforms to resemble a giant lobster.

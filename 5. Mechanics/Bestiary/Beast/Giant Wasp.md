@@ -2,18 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-2
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/urban
-- monster/size/medium
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/1-2
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/beast
 statblock: inline
-aliases: ["Giant Wasp"]
+aliases:
+  - Giant Wasp
 ---
 # [[5. Mechanics\Bestiary\Beast\Giant Wasp.md|Giant Wasp]]
-*Source: Monster Manual p. 329. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 329. Available in the SRD and the Basic Rules.*
 
 ```statblock
 "name": "Giant Wasp"
@@ -50,10 +51,14 @@ aliases: ["Giant Wasp"]
 - "EGW"
 - "PSX"
 - "PSA"
-"image": "compendium/bestiary/beast/token/giant-wasp.png"
+"image": "5. Mechanics/Bestiary/Beast/token/giant-wasp.webp"
 ```
 ^statblock
 
 ## Environment
 
 grassland, forest, urban
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

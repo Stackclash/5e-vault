@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/4
-- monster/environment/grassland
-- monster/size/huge
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/4
+  - monster/environment/grassland
+  - monster/size/huge
+  - monster/type/beast
 statblock: inline
-aliases: ["Elephant"]
+aliases:
+  - Elephant
 ---
 # [[5. Mechanics\Bestiary\Beast\Elephant.md|Elephant]]
-*Source: Monster Manual p. 322. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 322. Available in the SRD and the Basic Rules.*
 
 ```statblock
 "name": "Elephant"
@@ -51,10 +52,14 @@ aliases: ["Elephant"]
 - "ToA"
 - "SatO"
 - "ToFW"
-"image": "compendium/bestiary/beast/token/elephant.png"
+"image": "5. Mechanics/Bestiary/Beast/token/elephant.webp"
 ```
 ^statblock
 
 ## Environment
 
 grassland
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

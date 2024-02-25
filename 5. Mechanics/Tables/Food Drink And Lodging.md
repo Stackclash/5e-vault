@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Food, Drink, and Lodging"]
+  - compendium/src/5e/phb
+aliases:
+  - 'Food, Drink, and Lodging'
 ---
 # Food, Drink, and Lodging
 *Source: Player's Handbook p. 158. Available in the SRD and the Basic Rules.* 
-
-`dice: [[Food Drink And Lodging.md#^food-drink-and-lodging]]`
 
 **Food, Drink, and Lodging**
 

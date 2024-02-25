@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Dungeon Creator; Cults and Religions"]
+  - compendium/src/5e/dmg
+aliases:
+  - Dungeon Creator; Cults and Religions
 ---
 # Dungeon Creator; Cults and Religions
 *Source: Dungeon Master's Guide p. 99* 
 
-`dice: [[Dungeon Creator Cults And Religions.md#^cults-and-religions]]`
-
 **Cults and Religions**
+
+`dice: [[Dungeon Creator Cults And Religions.md#^cults-and-religions]]`
 
 | dice: d20 | Cult or Religious Group |
 |-----------|-------------------------|

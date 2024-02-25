@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/mm
-aliases: ["Resistances"]
+  - compendium/src/5e/mm
+aliases:
+  - Resistances
 ---
 # Resistances
 *Source: Monster Manual p. 180* 
-
-`dice: [[Resistances.md#^color-damage-resistance]]`
 
 | Color | Damage Resistance |
 |-------|-------------------|

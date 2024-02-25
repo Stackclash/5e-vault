@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/2
-- monster/environment/grassland
-- monster/size/large
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/2
+  - monster/environment/grassland
+  - monster/size/large
+  - monster/type/beast
 statblock: inline
-aliases: ["Rhinoceros"]
+aliases:
+  - Rhinoceros
 ---
 # [[5. Mechanics\Bestiary\Beast\Rhinoceros.md|Rhinoceros]]
-*Source: Monster Manual p. 336. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 336. Available in the SRD and the Basic Rules.*
 
 ```statblock
 "name": "Rhinoceros"
@@ -48,10 +49,14 @@ aliases: ["Rhinoceros"]
 - "WDH"
 - "IDRotF"
 - "ToFW"
-"image": "compendium/bestiary/beast/token/rhinoceros.png"
+"image": "5. Mechanics/Bestiary/Beast/token/rhinoceros.webp"
 ```
 ^statblock
 
 ## Environment
 
 grassland
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/cleric
-- spell/class/druid
-- spell/class/druid/circle-of-the-land
-- spell/class/sorcerer/divine-soul
-- spell/class/warlock/the-genie
-- spell/level/3
-- spell/ritual
-- spell/school/transmutation
-aliases: ["Meld into Stone"]
+  - compendium/src/5e/phb
+  - spell/class/cleric
+  - spell/class/druid
+  - spell/class/druid/circle-of-the-land
+  - spell/class/sorcerer/divine-soul
+  - spell/class/warlock/the-genie
+  - spell/level/3
+  - spell/ritual
+  - spell/school/transmutation
+aliases:
+  - Meld into Stone
 ---
 # Meld into Stone
 %%-- Embedded content starts on the next line. --%%
@@ -28,6 +29,6 @@ While merged with the stone, you can't see what occurs outside it, and any Wisdo
 
 Minor physical damage to the stone doesn't harm you, but its partial destruction or a change in its shape (to the extent that you no longer fit within it) expels you and deals `dice: 6d6|avg` (`6d6`) bludgeoning damage to you. The stone's complete destruction (or transmutation into a different substance) expels you and deals 50 bludgeoning damage to you. If expelled, you fall [[/5. Mechanics/Rules/Conditions.md#prone\|prone]] in an unoccupied space closest to where you first entered.
 
-**Classes**: [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Warlock The Genie (TCE).md\|Warlock (The Genie)]]
+**Classes**: [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Warlock The Genie.md\|Warlock (The Genie)]]
 
 *Source: Player's Handbook p. 259. Available in the SRD.*

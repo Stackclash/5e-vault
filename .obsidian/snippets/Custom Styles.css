@@ -9,12 +9,108 @@
     display: none;
 }
 
-/* Fixes Cards displaying correctly */
-/* .callout[data-callout~=cards] > .callout-title {
-    display: none;
-} */
+/* Fixes so that Meta-bind inputs take up available space */
+.mb-input-wrapper input[type="number"] {
+  width: 100%;
+}
+.mb-input-wrapper input[type="text"] {
+  width: 100%;
+}
+.mb-input-wrapper textarea {
+  width: 100%;
+}
+.mb-input-wrapper select {
+  width: 100%;
+}
 
 /* Hides File Name in Meta Bind Image Suggester */
 .mb-image-suggest-footer-text {
-    display: none !important;
+  display: none !important;
+}
+
+/* Fixes Text Area to be small enough to fit with infobox */
+.mb-input-type-textArea > textarea {
+  width: 75%;
+}
+
+/* Hides node files and folders */
+.tree-item:has(> div[data-path="node_modules"]) {
+  display: none;
+}
+
+.tree-item:has(> div[data-path*="package"]) {
+  display: none;
+}
+
+/* Displays gallery callout images */
+.json5e-background .callout[data-callout=gallery] .callout-content p,
+.json5e-class .callout[data-callout=gallery] .callout-content p,
+.json5e-deck .callout[data-callout=gallery] .callout-content p,
+.json5e-deity .callout[data-callout=gallery] .callout-content p,
+.json5e-feat .callout[data-callout=gallery] .callout-content p,
+.json5e-hazard .callout[data-callout=gallery] .callout-content p,
+.json5e-item .callout[data-callout=gallery] .callout-content p,
+.json5e-monster .callout[data-callout=gallery] .callout-content p,
+.json5e-note .callout[data-callout=gallery] .callout-content p,
+.json5e-object .callout[data-callout=gallery] .callout-content p,
+.json5e-psionic .callout[data-callout=gallery] .callout-content p,
+.json5e-race .callout[data-callout=gallery] .callout-content p,
+.json5e-reward .callout[data-callout=gallery] .callout-content p,
+.json5e-spell .callout[data-callout=gallery] .callout-content p,
+.json5e-vehicle .callout[data-callout=gallery] .callout-content p {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+.json5e-background .callout[data-callout=gallery] .callout-content p,
+.json5e-class .callout[data-callout=gallery] .callout-content p,
+.json5e-deck .callout[data-callout=gallery] .callout-content p,
+.json5e-deity .callout[data-callout=gallery] .callout-content p,
+.json5e-feat .callout[data-callout=gallery] .callout-content p,
+.json5e-hazard .callout[data-callout=gallery] .callout-content p,
+.json5e-item .callout[data-callout=gallery] .callout-content p,
+.json5e-monster .callout[data-callout=gallery] .callout-content p,
+.json5e-note .callout[data-callout=gallery] .callout-content p,
+.json5e-object .callout[data-callout=gallery] .callout-content p,
+.json5e-psionic .callout[data-callout=gallery] .callout-content p,
+.json5e-race .callout[data-callout=gallery] .callout-content p,
+.json5e-reward .callout[data-callout=gallery] .callout-content p,
+.json5e-spell .callout[data-callout=gallery] .callout-content p,
+.json5e-vehicle .callout[data-callout=gallery] .callout-content p {
+  display: flex !important;
+}
+.json5e-background .callout[data-callout=gallery] .callout-content span[src$="#gallery"],
+.json5e-class .callout[data-callout=gallery] .callout-content span[src$="#gallery"],
+.json5e-deck .callout[data-callout=gallery] .callout-content span[src$="#gallery"],
+.json5e-deity .callout[data-callout=gallery] .callout-content span[src$="#gallery"],
+.json5e-feat .callout[data-callout=gallery] .callout-content span[src$="#gallery"],
+.json5e-hazard .callout[data-callout=gallery] .callout-content span[src$="#gallery"],
+.json5e-item .callout[data-callout=gallery] .callout-content span[src$="#gallery"],
+.json5e-monster .callout[data-callout=gallery] .callout-content span[src$="#gallery"],
+.json5e-note .callout[data-callout=gallery] .callout-content span[src$="#gallery"],
+.json5e-object .callout[data-callout=gallery] .callout-content span[src$="#gallery"],
+.json5e-psionic .callout[data-callout=gallery] .callout-content span[src$="#gallery"],
+.json5e-race .callout[data-callout=gallery] .callout-content span[src$="#gallery"],
+.json5e-reward .callout[data-callout=gallery] .callout-content span[src$="#gallery"],
+.json5e-spell .callout[data-callout=gallery] .callout-content span[src$="#gallery"],
+.json5e-vehicle .callout[data-callout=gallery] .callout-content span[src$="#gallery"] {
+  max-width: 49%;
+}
+.json5e-background .callout[data-callout=gallery] .callout-content span[src$="#gallery"] img,
+.json5e-class .callout[data-callout=gallery] .callout-content span[src$="#gallery"] img,
+.json5e-deck .callout[data-callout=gallery] .callout-content span[src$="#gallery"] img,
+.json5e-deity .callout[data-callout=gallery] .callout-content span[src$="#gallery"] img,
+.json5e-feat .callout[data-callout=gallery] .callout-content span[src$="#gallery"] img,
+.json5e-hazard .callout[data-callout=gallery] .callout-content span[src$="#gallery"] img,
+.json5e-item .callout[data-callout=gallery] .callout-content span[src$="#gallery"] img,
+.json5e-monster .callout[data-callout=gallery] .callout-content span[src$="#gallery"] img,
+.json5e-note .callout[data-callout=gallery] .callout-content span[src$="#gallery"] img,
+.json5e-object .callout[data-callout=gallery] .callout-content span[src$="#gallery"] img,
+.json5e-psionic .callout[data-callout=gallery] .callout-content span[src$="#gallery"] img,
+.json5e-race .callout[data-callout=gallery] .callout-content span[src$="#gallery"] img,
+.json5e-reward .callout[data-callout=gallery] .callout-content span[src$="#gallery"] img,
+.json5e-spell .callout[data-callout=gallery] .callout-content span[src$="#gallery"] img,
+.json5e-vehicle .callout[data-callout=gallery] .callout-content span[src$="#gallery"] img {
+  max-height: 60vh;
 }

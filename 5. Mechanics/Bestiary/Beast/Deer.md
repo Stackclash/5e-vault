@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/0
-- monster/environment/forest
-- monster/environment/grassland
-- monster/size/medium
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/0
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/size/medium
+  - monster/type/beast
 statblock: inline
-aliases: ["Deer"]
+aliases:
+  - Deer
 ---
 # [[5. Mechanics\Bestiary\Beast\Deer.md|Deer]]
-*Source: Monster Manual p. 321. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 321. Available in the SRD and the Basic Rules.*
 
 ```statblock
 "name": "Deer"
@@ -41,10 +42,14 @@ aliases: ["Deer"]
 - "MM"
 - "HotDQ"
 - "DIP"
-"image": "compendium/bestiary/beast/token/deer.png"
+"image": "5. Mechanics/Bestiary/Beast/token/deer.webp"
 ```
 ^statblock
 
 ## Environment
 
 grassland, forest
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

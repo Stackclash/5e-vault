@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/5
-- monster/environment/underwater
-- monster/size/huge
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/5
+  - monster/environment/underwater
+  - monster/size/huge
+  - monster/type/beast
 statblock: inline
-aliases: ["Giant Shark"]
+aliases:
+  - Giant Shark
 ---
 # [[5. Mechanics\Bestiary\Beast\Giant Shark.md|Giant Shark]]
-*Source: Monster Manual p. 328. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 328. Available in the SRD and the Basic Rules.*
 
 A giant shark is 30 feet long and normally found in deep oceans. Utterly fearless, it preys on anything that crosses its path, including whales and ships.
 
@@ -59,10 +60,14 @@ A giant shark is 30 feet long and normally found in deep oceans. Utterly fearles
 - "JttRC"
 - "DSotDQ"
 - "PSX"
-"image": "compendium/bestiary/beast/token/giant-shark.png"
+"image": "5. Mechanics/Bestiary/Beast/token/giant-shark.webp"
 ```
 ^statblock
 
 ## Environment
 
 underwater
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

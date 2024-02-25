@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/17
-- monster/environment/desert
-- monster/size/huge
-- monster/type/undead
+  - compendium/src/5e/mm
+  - monster/cr/17
+  - monster/environment/desert
+  - monster/size/huge
+  - monster/type/undead
 statblock: inline
-aliases: ["Adult Blue Dracolich"]
+aliases:
+  - Adult Blue Dracolich
 ---
 # [[5. Mechanics\Bestiary\Undead\Adult Blue Dracolich.md|Adult Blue Dracolich]]
-*Source: Monster Manual p. 84*  
+*Source: Monster Manual p. 84*
 
 Even as long-lived as they are, all dragons must eventually die. This thought doesn't sit well with many dragons, some of which allow themselves to be transformed by necromantic energy and ancient rituals into powerful undead dracoliches. Only the most narcissistic dragons choose this path, knowing that by doing so, they sever all ties to their kin and the dragon gods.
 
@@ -136,10 +137,14 @@ The dracolich has advantage on saving throws against spells and other magical ef
 - "CM"
 - "JttRC"
 - "SatO"
-"image": "compendium/bestiary/undead/token/adult-blue-dracolich.png"
+"image": "5. Mechanics/Bestiary/Undead/token/adult-blue-dracolich.webp"
 ```
 ^statblock
 
 ## Environment
 
 desert
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

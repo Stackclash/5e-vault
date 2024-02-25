@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/5
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/undead
+  - compendium/src/5e/mm
+  - monster/cr/5
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
-aliases: ["Wraith"]
+aliases:
+  - Wraith
 ---
 # [[5. Mechanics\Bestiary\Undead\Wraith.md|Wraith]]
-*Source: Monster Manual p. 302, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD.*  
+*Source: Monster Manual p. 302, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD.*
 
 A wraith is malice incarnate, concentrated into an incorporeal form that seeks to quench all life. The creature is suffused with negative energy, and its mere passage through the world leaves nearby plants blackened and withered. Animals flee from its presence. Even small fires can be extinguished by the sucking oblivion of the wraith's horrifying existence.
 
@@ -112,10 +113,14 @@ A wraith doesn't require air, food, drink, or sleep.
 - "BMT"
 - "GHLoE"
 - "DoDk"
-"image": "compendium/bestiary/undead/token/wraith.png"
+"image": "5. Mechanics/Bestiary/Undead/token/wraith.webp"
 ```
 ^statblock
 
 ## Environment
 
 underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

@@ -2,19 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-4
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/underdark
-- monster/size/small
-- monster/type/humanoid/goblinoid
+  - compendium/src/5e/mm
+  - monster/cr/1-4
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/underdark
+  - monster/size/small
+  - monster/type/humanoid/goblinoid
 statblock: inline
-aliases: ["Goblin"]
+aliases:
+  - Goblin
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Goblin.md|Goblin]]
-*Source: Monster Manual p. 166, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 166, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*
 
 Goblins are small, black-hearted, selfish humanoids that lair in caves, abandoned mines, despoiled dungeons, and other dismal settings. Individually weak, goblins gather in large-sometimes overwhelming-numbers. They crave power and regularly abuse whatever authority they obtain.
 
@@ -104,10 +105,14 @@ Maglubiyet the Mighty One, the Lord of Depths and Darkness, is the greater god o
 - "SatO"
 - "BMT"
 - "GHLoE"
-"image": "compendium/bestiary/humanoid/token/goblin.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/goblin.webp"
 ```
 ^statblock
 
 ## Environment
 
 underdark, grassland, forest, hill
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

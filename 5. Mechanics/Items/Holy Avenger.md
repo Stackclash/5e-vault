@@ -2,19 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/attunement/required
-- item/rarity/legendary
-- item/tier/major
-- item/wondrous/wondrous-item
-aliases: 
-- "Holy Avenger"
-- "Holy Avenger Longsword"
-- "Holy Avenger Double-Bladed Scimitar"
-- "Holy Avenger Greatsword"
-- "Holy Avenger Rapier"
-- "Holy Avenger Shortsword"
-- "Holy Avenger Scimitar"
+  - compendium/src/5e/dmg
+  - item/attunement/required
+  - item/rarity/legendary
+  - item/tier/major
+  - item/wondrous/wondrous-item
+aliases:
+  - Holy Avenger
+  - Holy Avenger Longsword
+  - Holy Avenger Double-Bladed Scimitar
+  - Holy Avenger Greatsword
+  - Holy Avenger Rapier
+  - Holy Avenger Shortsword
+  - Holy Avenger Scimitar
 ---
 # Holy Avenger
 *Generic Variant, major, legendary (requires attunement by a paladin)*  

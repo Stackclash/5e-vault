@@ -3,37 +3,41 @@ obsidianUIMode: preview
 statblock: inline
 location: 
 condition: healthy
+image: 4. World Almanac/NPCs/img/sir-godfrey-gwilym.webp
 relationships: []
 tags: 
 aliases: []
-pronounced: 
-race: 
-sex: 
+pronounced: sir GOD-free GWIL-im
+race: "[[5. Mechanics/Races/Human.md|Human]]"
+gender: male
 age: 
-alignment: 
-occupation: 
-groups: []
+alignment: Lawful Evil
+occupation: []
+groups:
+  - Order of the Silver Dragon
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+personality: Stoic, honorable, deeply melancholic
+ideal: Redemption for the Order and peace for Barovia are my only pursuits.
+bond: His unyielding loyalty to the Order of the Silver Dragon and the memory of Argynvost
+flaw: His single-minded focus on the order's redemption can sometimes blind him to broader concerns or simpler joys
+goals: To restore the honor of the Order of the Silver Dragon, to find peace in fulfilling his oath
+likes: Acts of bravery and honor, the legacy of the Silver Dragon, those who seek justice
+dislikes: Cowardice, betrayal, Strahd and his minions, the failure of the Order to protect Barovia
 ---
 
 > [!infobox]
 > # `=this.file.name`
-> **Pronounced:**  "`INPUT[text:pronounced]`"
-> ![[4. World Almanac/NPCs/img/sir-godfrey-gwilym.webp|cover hm-sm]] 
+> **Pronounced:**  `INPUT[text:pronounced]`
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```
 > ###### Bio
 >  |
 >  ---|---|
 > **Race** | `INPUT[suggester(optionQuery("5. Mechanics/Races")):race]` |
-> **Sex** | `INPUT[inlineSelect(option(male),option(female)):sex]` |
+> **Gender** | `INPUT[inlineSelect(option(male),option(female)):gender]` |
 > **Age** | `INPUT[number:age]` |
-> **Alignment** | `INPUT[inlineSelect(option(lawful good),option(neutral good),option(chaotic good),option(lawful neutral),option(neutral),option(chaotic neutral),option(lawful evil),option(netural evil),option(chaotic evil)):alignment]` |
+> **Alignment** | `INPUT[inlineSelect(option(Lawful Good),option(Neutral Good),option(Chaotic Good),option(Lawful Neutral),option(Neutral),option(Chaotic Neutral),option(Lawful Evil),option(Neutral Evil),option(Chaotic Evil)):alignment]` |
 > **Condition** | `INPUT[inlineSelect(option(healthy),option(injured),option(dead)):condition]` |
 > ###### Info
 >  |
@@ -45,39 +49,68 @@ dislikes:
 > **Current Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 # **`=this.file.name`**
+*Source: Curse of Strahd p. 139*
+
 TBD
 
 ## Traits/Goals
 > [!column] Traits
 >> [!metadata|text-Center bg-c-gray] Personality
->> `INPUT[text:personality]`
+>> `INPUT[textArea:personality]`
 >
 >> [!metadata|text-Center bg-c-gray] Ideal
->> `INPUT[text:ideal]`
+>> `INPUT[textArea:ideal]`
 >
 >> [!metadata|text-Center bg-c-gray] Bond
->> `INPUT[text:bond]`
+>> `INPUT[textArea:bond]`
 >
 >> [!metadata|text-Center bg-c-gray] Flaw
->> `INPUT[text:flaw]`
+>> `INPUT[textArea:flaw]`
 >
 >> [!metadata|text-Center bg-c-green] Likes
->> `INPUT[text:likes]`
+>> `INPUT[textArea:likes]`
 >
 >> [!metadata|text-Center bg-c-red] Dislikes
->> `INPUT[text:dislikes]`
+>> `INPUT[textArea:dislikes]`
 
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
 
 ## Relationships
+`BUTTON[add-relationship,remove-relationship]`
+```meta-bind-button
+style: primary
+label: Add Relationship
+id: add-relationship
+hidden: true
+actions:
+  - type: command
+    command: templater-obsidian:insert-templater
+  - type: input
+    str: add
+  - type: input
+    str: relationship
+```
+```meta-bind-button
+style: destructive
+label: Remove Relationship
+id: remove-relationship
+hidden: true
+actions:
+  - type: command
+    command: templater-obsidian:insert-templater
+  - type: input
+    str: remove
+  - type: input
+    str: relationship
+```
 ```dataviewjs
 await dv.view("npcRelationships", { current: dv.current() })
 ```
 
 ## Stats
 ```statblock
-"name": "Sir Godfrey Gwilym (CoS)"
+"name": "Sir Godfrey Gwilym"
 "size": "Medium"
 "type": "undead"
 "alignment": "Lawful Evil"
@@ -99,17 +132,21 @@ await dv.view("npcRelationships", { current: dv.current() })
   "Constitution": !!int "7"
 "damage_resistances": "necrotic, psychic"
 "damage_immunities": "poison"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned, stunned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "the languages it knew in life"
 "cr": "6"
 "traits":
 - "desc": "Sir Godfrey is a 16th-level spellcaster. His spellcasting ability is Wisdom\
     \ (spell save DC 14, dice: d20+6 (+6 to hit) with spell attacks). He has the\
-    \ following paladin spells prepared:\n\n1st level (4 slots): command, divine\
-    \ favor, thunderous smite\n\n2nd level (3 slots): branding smite, magic weapon\n\
-    \n3rd level (3 slots): blinding smite, dispel magic\n\n4th level (2 slots):\
-    \ staggering smite"
+    \ following paladin spells prepared:\n\n1st level (4 slots): [[5. Mechanics/Spells/Command.md|command]],\
+    \ [[5. Mechanics/Spells/Divine Favor.md|divine favor]], [[5. Mechanics/Spells/Thunderous Smite.md|thunderous smite]]\n\
+    \n2nd level (3 slots): [[5. Mechanics/Spells/Branding Smite.md|branding smite]],\
+    \ [[5. Mechanics/Spells/Magic Weapon.md|magic weapon]]\n\n3rd level (3 slots):\
+    \ [[5. Mechanics/Spells/Blinding Smite.md|blinding smite]], [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]]\n\
+    \n4th level (2 slots): [[5. Mechanics/Spells/Staggering Smite.md|staggering smite]]"
   "name": "spells"
 - "desc": "The knight regains 10 hit points at the start of its turn. If the knight\
     \ takes fire or radiant damage, this trait doesn't function at the start of the\
@@ -118,7 +155,7 @@ await dv.view("npcRelationships", { current: dv.current() })
   "name": "Regeneration"
 - "desc": "When the knight's body is destroyed, its soul lingers. After 24 hours,\
     \ the soul inhabits and animates another humanoid corpse on the same plane of\
-    \ existence and regains all its hit points. While the soul is bodiless, a wish\
+    \ existence and regains all its hit points. While the soul is bodiless, a [[5. Mechanics/Spells/Wish.md|wish]]\
     \ spell can be used to force the soul to go to the afterlife and not return."
   "name": "Rejuvenation"
 - "desc": "The knight is immune to effects that turn undead."
@@ -145,15 +182,17 @@ await dv.view("npcRelationships", { current: dv.current() })
   "name": "Fist"
 - "desc": "The knight targets one creature it can see within 30 feet of it and against\
     \ which it has sworn vengeance. The target must make a DC 15 Wisdom saving throw.\
-    \ On a failure, the target is paralyzed until the knight deals damage to it, or\
-    \ until the end of the knight's next turn. When the paralysis ends, the target\
-    \ is frightened of the knight for 1 minute. The frightened target can repeat the\
-    \ saving throw at the end of each of its turns, with disadvantage if it can see\
-    \ the knight, ending the frightened condition on itself on a success."
+    \ On a failure, the target is [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
+    \ until the knight deals damage to it, or until the end of the knight's next turn.\
+    \ When the paralysis ends, the target is [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ of the knight for 1 minute. The [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ target can repeat the saving throw at the end of each of its turns, with disadvantage\
+    \ if it can see the knight, ending the [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ condition on itself on a success."
   "name": "Vengeful Glare"
 "source":
 - "CoS"
-"image": "4. World Almanac/NPCs/token/sir-godfrey-gwilym.png"
+"image": "4. World Almanac/NPCs/token/sir-godfrey-gwilym-cos.webp"
 ```
 ^statblock
 

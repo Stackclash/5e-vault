@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/rare
-- item/tier/minor
-- item/wondrous/scroll
-aliases: 
-- "Scroll of Protection from Fey"
+  - compendium/src/5e/dmg
+  - item/rarity/rare
+  - item/tier/minor
+  - item/wondrous/scroll
+aliases:
+  - Scroll of Protection from Fey
 ---
 # Scroll of Protection from Fey
 *Scroll, minor, rare*  

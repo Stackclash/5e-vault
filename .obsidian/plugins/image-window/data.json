@@ -1,5 +1,7 @@
 {
   "saveWindowLocations": true,
+  "useCustomWindowName": false,
+  "customWindowName": "Second Window",
   "windows": {
     "Player View": {
       "hosts": {
@@ -10,11 +12,7 @@
           "height": 679,
           "fullscreen": false,
           "maximized": false
-        }
-      }
-    },
-    "DEFAULT": {
-      "hosts": {
+        },
         "Office-PC": {
           "x": -1928,
           "y": -8,
@@ -22,6 +20,18 @@
           "height": 1048,
           "fullscreen": false,
           "maximized": true
+        }
+      }
+    },
+    "Second Window": {
+      "hosts": {
+        "Office-PC": {
+          "x": -973,
+          "y": 104,
+          "width": 1936,
+          "height": 1048,
+          "fullscreen": false,
+          "maximized": false
         }
       }
     }

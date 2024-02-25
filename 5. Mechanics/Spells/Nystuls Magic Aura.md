@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/fighter/eldritch-knight
-- spell/class/rogue/arcane-trickster
-- spell/class/wizard
-- spell/level/2
-- spell/school/illusion
-aliases: ["Nystul's Magic Aura"]
+  - compendium/src/5e/phb
+  - spell/class/fighter/eldritch-knight
+  - spell/class/rogue/arcane-trickster
+  - spell/class/wizard
+  - spell/level/2
+  - spell/school/illusion
+aliases:
+  - Nystul's Magic Aura
 ---
 # Nystul's Magic Aura
 %%-- Embedded content starts on the next line. --%%

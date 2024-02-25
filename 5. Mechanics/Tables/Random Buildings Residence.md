@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Random Buildings; Residence"]
+  - compendium/src/5e/dmg
+aliases:
+  - Random Buildings; Residence
 ---
 # Random Buildings; Residence
 *Source: Dungeon Master's Guide p. 113* 
 
-`dice: [[Random Buildings Residence.md#^residence]]`
-
 **Residence**
+
+`dice: [[Random Buildings Residence.md#^residence]]`
 
 | dice: d20 | Type |
 |-----------|------|

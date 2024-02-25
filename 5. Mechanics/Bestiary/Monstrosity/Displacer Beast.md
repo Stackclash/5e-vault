@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/3
-- monster/environment/forest
-- monster/size/large
-- monster/type/monstrosity
+  - compendium/src/5e/mm
+  - monster/cr/3
+  - monster/environment/forest
+  - monster/size/large
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Displacer Beast"]
+aliases:
+  - Displacer Beast
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Displacer Beast.md|Displacer Beast]]
-*Source: Monster Manual p. 81, Eberron: Rising from the Last War*  
+*Source: Monster Manual p. 81, Eberron: Rising from the Last War*
 
 This monstrous predator takes its name from its ability to displace light so that it appears to be several feet away from its actual location. A displacer beast resembles a sleek great cat covered in blue-black fur.
 
@@ -78,10 +79,14 @@ Displacer beasts hunt alone or in small prides that demonstrate skill at setting
 - "KftGV"
 - "SatO"
 - "BMT"
-"image": "compendium/bestiary/monstrosity/token/displacer-beast.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/displacer-beast.webp"
 ```
 ^statblock
 
 ## Environment
 
 forest
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

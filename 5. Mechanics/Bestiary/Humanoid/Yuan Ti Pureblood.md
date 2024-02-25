@@ -2,19 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/swamp
-- monster/environment/urban
-- monster/size/medium
-- monster/type/humanoid/yuan-ti
+  - compendium/src/5e/mm
+  - monster/cr/1
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/swamp
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/humanoid/yuan-ti
 statblock: inline
-aliases: ["Yuan-ti Pureblood"]
+aliases:
+  - Yuan-ti Pureblood
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Yuan Ti Pureblood.md|Yuan-ti Pureblood]]
-*Source: Monster Manual p. 310*  
+*Source: Monster Manual p. 310*
 
 Purebloods form the lowest caste of yuan-ti society. They closely resemble humans, yet a pureblood can't pass for human under close scrutiny because there's always some hint of its true nature, such as scaly patches of skin, serpentine eyes, pointed teeth, or a forked tongue. Wearing cloaks and cowls, they masquerade as humans and infiltrate civilized lands to gather information, kidnap prisoners for interrogation and sacrifice, and trade with anyone who has something that can further their myriad plots.
 
@@ -61,7 +62,7 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
 
 
 ```statblock
-"name": "Yuan-ti Pureblood"
+"name": "Yuan Ti Pureblood"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "yuan-ti"
@@ -115,10 +116,14 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
 - "WDMM"
 - "CM"
 - "PSI"
-"image": "compendium/bestiary/humanoid/token/yuan-ti-pureblood.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/yuan-ti-pureblood.webp"
 ```
 ^statblock
 
 ## Environment
 
 forest, swamp, urban, desert
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/16
-- monster/size/large
-- monster/type/construct
+  - compendium/src/5e/mm
+  - monster/cr/16
+  - monster/size/large
+  - monster/type/construct
 statblock: inline
-aliases: ["Iron Golem"]
+aliases:
+  - Iron Golem
 ---
 # [[5. Mechanics\Bestiary\Construct\Iron Golem.md|Iron Golem]]
-*Source: Monster Manual p. 170, Curse of Strahd. Available in the SRD.*  
+*Source: Monster Manual p. 170, Curse of Strahd. Available in the SRD.*
 
 The mightiest of the golems, the iron golem is a massive, towering giant wrought of heavy metal. An iron golem's shape can be worked into any form, though most are fashioned to look like giant suits of armor. Its fist can destroy creatures with a single blow, and its clanging steps shake the earth beneath its feet. Iron golems wield enormous blades to extend their reach, and all can belch clouds of deadly poison.
 
@@ -108,6 +109,10 @@ A golem doesn't require air, food, drink, or sleep.
 - "SatO"
 - "BMT"
 - "DoDk"
-"image": "compendium/bestiary/construct/token/iron-golem.png"
+"image": "5. Mechanics/Bestiary/Construct/token/iron-golem.webp"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

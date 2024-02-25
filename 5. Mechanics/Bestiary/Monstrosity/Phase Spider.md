@@ -2,21 +2,22 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/3
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/large
-- monster/type/monstrosity
+  - compendium/src/5e/mm
+  - monster/cr/3
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/large
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Phase Spider"]
+aliases:
+  - Phase Spider
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Phase Spider.md|Phase Spider]]
-*Source: Monster Manual p. 334. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 334. Available in the SRD and the Basic Rules.*
 
 A phase spider possesses the magical ability to phase in and out of the Ethereal Plane. It seems to appear out of nowhere and quickly vanishes after attacking. Its movement on the Ethereal Plane before coming back to the Material Plane makes it seem like it can teleport.
 
@@ -70,10 +71,14 @@ A phase spider possesses the magical ability to phase in and out of the Ethereal
 - "PaBTSO"
 - "BMT"
 - "DoDk"
-"image": "compendium/bestiary/monstrosity/token/phase-spider.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/phase-spider.webp"
 ```
 ^statblock
 
 ## Environment
 
 underdark, grassland, forest, hill, urban, desert
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

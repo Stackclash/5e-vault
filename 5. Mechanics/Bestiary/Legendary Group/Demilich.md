@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/mm
-- monster/legendary-group
-aliases: ["Demilich"]
+  - compendium/src/5e/mm
+  - monster/legendary-group
+aliases:
+  - Demilich
 ---
 # Demilich
 
@@ -27,3 +28,8 @@ A demilich's tomb might have any or all of the following effects in place:
 - The tomb is warded against the magical travel of creatures the demilich hasn't authorized. Such creatures can't teleport into or out of the tomb's area or use planar travel to enter or leave it. Effects that allow teleportation or planar travel work within the tomb as long as they aren't used to leave or enter the tomb's area.  
 
 If the demilich is destroyed, these effects fade over the course of 10 days.
+
+## Is homebrew
+_Source: Monster Manual_
+
+false

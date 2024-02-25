@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/3
-- monster/environment/desert
-- monster/size/medium
-- monster/type/undead
+  - compendium/src/5e/mm
+  - monster/cr/3
+  - monster/environment/desert
+  - monster/size/medium
+  - monster/type/undead
 statblock: inline
-aliases: ["Mummy"]
+aliases:
+  - Mummy
 ---
 # [[5. Mechanics\Bestiary\Undead\Mummy.md|Mummy]]
-*Source: Monster Manual p. 228, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 228, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*
 
 Raised by dark funerary rituals, a mummy shambles from the shrouded stillness of a time-lost temple or tomb. Having been awoken from its rest, it punishes transgressors with the power of its unholy curse.
 
@@ -116,10 +117,14 @@ A mummy doesn't require air, food, drink, or sleep.
 - "AATM"
 - "BMT"
 - "DoDk"
-"image": "compendium/bestiary/undead/token/mummy.png"
+"image": "5. Mechanics/Bestiary/Undead/token/mummy.webp"
 ```
 ^statblock
 
 ## Environment
 
 desert
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

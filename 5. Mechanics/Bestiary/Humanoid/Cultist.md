@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-8
-- monster/environment/urban
-- monster/size/medium
-- monster/type/humanoid/any-race
+  - compendium/src/5e/mm
+  - monster/cr/1-8
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/humanoid/any-race
 statblock: inline
-aliases: ["Cultist"]
+aliases:
+  - Cultist
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Cultist.md|Cultist]]
-*Source: Monster Manual p. 345, Curse of Strahd. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 345, Curse of Strahd. Available in the SRD and the Basic Rules.*
 
 Cultists swear allegiance to dark powers such as elemental princes, demon lords, or archdevils. Most conceal their loyalties to avoid being ostracized, imprisoned, or executed for their beliefs. Unlike evil acolytes, cultists often show signs of insanity in their beliefs and practices.
 
@@ -75,10 +76,14 @@ Cultists swear allegiance to dark powers such as elemental princes, demon lords,
 - "BMT"
 - "GHLoE"
 - "DoDk"
-"image": "compendium/bestiary/humanoid/token/cultist.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/cultist.webp"
 ```
 ^statblock
 
 ## Environment
 
 urban
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

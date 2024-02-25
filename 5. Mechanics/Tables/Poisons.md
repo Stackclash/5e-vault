@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Poisons"]
+  - compendium/src/5e/dmg
+aliases:
+  - Poisons
 ---
 # Poisons
 *Source: Dungeon Master's Guide p. 257. Available in the SRD.* 
-
-`dice: [[Poisons.md#^poisons]]`
 
 **Poisons**
 

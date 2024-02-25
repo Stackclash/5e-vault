@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/4
-- monster/environment/underdark
-- monster/size/large
-- monster/type/aberration
+  - compendium/src/5e/mm
+  - monster/cr/4
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/aberration
 statblock: inline
-aliases: ["Chuul"]
+aliases:
+  - Chuul
 ---
 # [[5. Mechanics\Bestiary\Aberration\Chuul.md|Chuul]]
-*Source: Monster Manual p. 40. Available in the SRD.*  
+*Source: Monster Manual p. 40. Available in the SRD.*
 
 Survivors of the ancient aboleth empire, chuuls are crustaceans the aboleths modified and endowed with sentience. They follow the ingrained directives of their creators, as they have done since the dawn of time.
 
@@ -85,10 +86,14 @@ Although the aboleths' ancient empire fell long ago, the psychic bonds between t
 - "CRCotN"
 - "PaBTSO"
 - "DoDk"
-"image": "compendium/bestiary/aberration/token/chuul.png"
+"image": "5. Mechanics/Bestiary/Aberration/token/chuul.webp"
 ```
 ^statblock
 
 ## Environment
 
 underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Artifact Properties; Major Beneficial Properties"]
+  - compendium/src/5e/dmg
+aliases:
+  - Artifact Properties; Major Beneficial Properties
 ---
 # Artifact Properties; Major Beneficial Properties
 *Source: Dungeon Master's Guide p. 219* 
 
-`dice: [[Artifact Properties Major Beneficial Properties.md#^major-beneficial-properties]]`
-
 **Major Beneficial Properties**
+
+`dice: [[Artifact Properties Major Beneficial Properties.md#^major-beneficial-properties]]`
 
 | dice: d100 | Property |
 |------------|----------|

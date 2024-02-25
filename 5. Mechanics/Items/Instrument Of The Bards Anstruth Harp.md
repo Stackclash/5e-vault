@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/attunement/required
-- item/gear/instrument
-- item/rarity/very-rare
-- item/tier/major
-aliases: 
-- "Instrument of the Bards, Anstruth Harp"
+  - compendium/src/5e/dmg
+  - item/attunement/required
+  - item/gear/instrument
+  - item/rarity/very-rare
+  - item/tier/major
+aliases:
+  - 'Instrument of the Bards, Anstruth Harp'
 ---
 # Instrument of the Bards, Anstruth Harp
 *Instrument, major, very rare (requires attunement by a bard)*  

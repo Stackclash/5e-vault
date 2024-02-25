@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1
-- monster/environment/forest
-- monster/environment/hill
-- monster/size/large
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/1
+  - monster/environment/forest
+  - monster/environment/hill
+  - monster/size/large
+  - monster/type/beast
 statblock: inline
-aliases: ["Dire Wolf"]
+aliases:
+  - Dire Wolf
 ---
 # [[5. Mechanics\Bestiary\Beast\Dire Wolf.md|Dire Wolf]]
-*Source: Monster Manual p. 321, Curse of Strahd. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 321, Curse of Strahd. Available in the SRD and the Basic Rules.*
 
 ```statblock
 "name": "Dire Wolf"
@@ -59,10 +60,14 @@ aliases: ["Dire Wolf"]
 - "JttRC"
 - "PaBTSO"
 - "ToFW"
-"image": "compendium/bestiary/beast/token/dire-wolf.png"
+"image": "5. Mechanics/Bestiary/Beast/token/dire-wolf.webp"
 ```
 ^statblock
 
 ## Environment
 
 forest, hill
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/humanoid/dwarf
+  - compendium/src/5e/mm
+  - monster/cr/1
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/humanoid/dwarf
 statblock: inline
-aliases: ["Duergar"]
+aliases:
+  - Duergar
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Duergar.md|Duergar]]
-*Source: Monster Manual p. 122. Available in the SRD.*  
+*Source: Monster Manual p. 122. Available in the SRD.*
 
 The tyrannical duergar, also known as gray dwarves, dwell in fantastic cities deep in the Underdark. Using ancient dwarven knowledge and myriad slaves, they work tirelessly to expand their subterranean kingdoms.
 
@@ -97,10 +98,14 @@ Asmodeus, Lord of the Nine Hells, has been known to impersonate duergar gods in 
 - "EGW"
 - "IDRotF"
 - "KftGV"
-"image": "compendium/bestiary/humanoid/token/duergar.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/duergar.webp"
 ```
 ^statblock
 
 ## Environment
 
 underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

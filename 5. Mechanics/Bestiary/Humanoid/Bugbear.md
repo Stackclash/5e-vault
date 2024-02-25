@@ -2,18 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/humanoid/goblinoid
+  - compendium/src/5e/mm
+  - monster/cr/1
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/humanoid/goblinoid
 statblock: inline
-aliases: ["Bugbear"]
+aliases:
+  - Bugbear
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Bugbear.md|Bugbear]]
-*Source: Monster Manual p. 33, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 33, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*
 
 Bugbears are born for battle and mayhem. Surviving by raiding and hunting, they bully the weak and despise being bossed around, but their love of carnage means they will fight for powerful masters if bloodshed and treasure are assured.
 
@@ -88,10 +89,14 @@ Despite their intimidating builds, bugbears move with surprising stealth. They a
 - "HftT"
 - "PaBTSO"
 - "DoDk"
-"image": "compendium/bestiary/humanoid/token/bugbear.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/bugbear.webp"
 ```
 ^statblock
 
 ## Environment
 
 underdark, grassland, forest
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

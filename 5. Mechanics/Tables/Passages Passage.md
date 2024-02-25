@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Passages; Passage"]
+  - compendium/src/5e/dmg
+aliases:
+  - Passages; Passage
 ---
 # Passages; Passage
 *Source: Dungeon Master's Guide p. 290* 
 
-`dice: [[Passages Passage.md#^table]]`
-
 **Passage**
+
+`dice: [[Passages Passage.md#^passage]]`
 
 | dice: d20 | Detail |
 |-----------|--------|
@@ -28,4 +29,3 @@ aliases: ["Passages; Passage"]
 ^passage
 
 * The existence of stairs presumes a dungeon with more than one level. If you don't want a multilevel dungeon, reroll this result, use the stairs as an alternative entrance, or replace them with another feature of your choice.
-^table

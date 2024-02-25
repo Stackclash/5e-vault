@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/mm
-- monster/legendary-group
-aliases: ["Unicorn"]
+  - compendium/src/5e/mm
+  - monster/legendary-group
+aliases:
+  - Unicorn
 ---
 # Unicorn
 
@@ -19,3 +20,8 @@ Transformed by the creature's celestial presence, the domain of a unicorn might 
 - Curses affecting any good-aligned creature are suppressed.  
 
 If the unicorn dies, these effects end immediately.
+
+## Is homebrew
+_Source: Monster Manual_
+
+false

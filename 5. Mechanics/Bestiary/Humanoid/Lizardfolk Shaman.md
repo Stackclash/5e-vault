@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/2
-- monster/environment/forest
-- monster/environment/swamp
-- monster/size/medium
-- monster/type/humanoid/lizardfolk
+  - compendium/src/5e/mm
+  - monster/cr/2
+  - monster/environment/forest
+  - monster/environment/swamp
+  - monster/size/medium
+  - monster/type/humanoid/lizardfolk
 statblock: inline
-aliases: ["Lizardfolk Shaman"]
+aliases:
+  - Lizardfolk Shaman
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Lizardfolk Shaman.md|Lizardfolk Shaman]]
-*Source: Monster Manual p. 205*  
+*Source: Monster Manual p. 205*
 
 Lizardfolk are primitive reptilian humanoids that lurk in the swamps and jungles of the world. Their hut villages thrive in forbidding grottos, half-sunken ruins, and watery caverns.
 
@@ -116,10 +117,14 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
 - "GoS"
 - "IMR"
 - "EGW"
-"image": "compendium/bestiary/humanoid/token/lizardfolk-shaman.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/lizardfolk-shaman.webp"
 ```
 ^statblock
 
 ## Environment
 
 forest, swamp
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

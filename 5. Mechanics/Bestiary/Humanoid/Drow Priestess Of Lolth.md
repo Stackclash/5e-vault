@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/8
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/humanoid/elf
+  - compendium/src/5e/mm
+  - monster/cr/8
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/humanoid/elf
 statblock: inline
-aliases: ["Drow Priestess of Lolth"]
+aliases:
+  - Drow Priestess of Lolth
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Drow Priestess Of Lolth.md|Drow Priestess of Lolth]]
-*Source: Monster Manual p. 129*  
+*Source: Monster Manual p. 129*
 
 Female drow with blood ties to a noble house are molded and trained from birth to become priestesses of Lolth. The Spider Queen doesn't allow male drow to hold such positions.
 
@@ -72,7 +73,7 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
 
 
 ```statblock
-"name": "Drow Priestess of Lolth"
+"name": "Drow Priestess Of Lolth"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "elf"
@@ -149,10 +150,14 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
 - "TftYP"
 - "WDMM"
 - "GoS"
-"image": "compendium/bestiary/humanoid/token/drow-priestess-of-lolth.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/drow-priestess-of-lolth.webp"
 ```
 ^statblock
 
 ## Environment
 
 underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

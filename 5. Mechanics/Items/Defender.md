@@ -2,19 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/attunement/required
-- item/rarity/legendary
-- item/tier/major
-- item/wondrous/wondrous-item
-aliases: 
-- "Defender"
-- "Defender Longsword"
-- "Defender Double-Bladed Scimitar"
-- "Defender Greatsword"
-- "Defender Rapier"
-- "Defender Shortsword"
-- "Defender Scimitar"
+  - compendium/src/5e/dmg
+  - item/attunement/required
+  - item/rarity/legendary
+  - item/tier/major
+  - item/wondrous/wondrous-item
+aliases:
+  - Defender
+  - Defender Longsword
+  - Defender Double-Bladed Scimitar
+  - Defender Greatsword
+  - Defender Rapier
+  - Defender Shortsword
+  - Defender Scimitar
 ---
 # Defender
 *Generic Variant, major, legendary (requires attunement)*  

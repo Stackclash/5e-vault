@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/gear/mount
-aliases: 
-- "Warhorse"
+  - compendium/src/5e/phb
+  - item/gear/mount
+aliases:
+  - Warhorse
 cost: 40000
 ---
 # Warhorse

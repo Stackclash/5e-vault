@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Deities of Dragonlance: Neutral"]
+  - compendium/src/5e/phb
+aliases:
+  - 'Deities of Dragonlance: Neutral'
 ---
 # Deities of Dragonlance: Neutral
 *Source: Player's Handbook p. 293* 
-
-`dice: [[Deities Of Dragonlance Neutral.md#^deities-of-dragonlance-neutral]]`
 
 **Deities of Dragonlance: Neutral**
 

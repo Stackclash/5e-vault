@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/13
-- monster/size/large
-- monster/type/fiend/demon
+  - compendium/src/5e/mm
+  - monster/cr/13
+  - monster/size/large
+  - monster/type/fiend/demon
 statblock: inline
-aliases: ["Nalfeshnee"]
+aliases:
+  - Nalfeshnee
 ---
 # [[5. Mechanics\Bestiary\Fiend\Nalfeshnee.md|Nalfeshnee]]
-*Source: Monster Manual p. 62. Available in the SRD.*  
+*Source: Monster Manual p. 62. Available in the SRD.*
 
 The nalfeshnee is one of the most grotesque demons-a corpulent mockery of ape and boar standing twice the height of a human, with feathered wings that seem too small for its bloated body. These brutish features conceal a remarkable intelligence and cunning.
 
@@ -246,6 +247,10 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - "CM"
 - "BMT"
 - "DoDk"
-"image": "compendium/bestiary/fiend/token/nalfeshnee.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/nalfeshnee.webp"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

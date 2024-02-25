@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Downtime Activity: Training"]
+  - compendium/src/5e/xge
+aliases:
+  - 'Downtime Activity: Training'
 ---
 # Downtime Activity: Training
 *Source: Player's Handbook p. 187* 

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- compendium/src/5e/phb
-- subclass/bard/valor
-aliases: ["College of Valor"]
+  - compendium/src/5e/phb
+  - subclass/bard/valor
+aliases:
+  - College of Valor
 ---
 # College of Valor
 *[[Bard.md\|Bard]]: Bard College*  

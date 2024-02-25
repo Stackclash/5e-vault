@@ -1,39 +1,42 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: null
 condition: healthy
+image: 4. World Almanac/NPCs/img/rictavio.webp
 relationships: []
-tags: 
+tags: null
 aliases: []
-pronounced: 
-race: 
-sex: 
-age: 
-alignment: 
-occupation: 
+pronounced: null
+race: null
+gender: null
+age: null
+alignment: Lawful Good
+occupation: []
 groups: []
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+personality: null
+ideal: Evil cannot go unchallenged.
+bond: 'To protect those I love, I must keep them distant and hidden from my enemies.'
+flaw: 'I am cursed. Thus, I will never have peace.'
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]
 > # `=this.file.name`
-> **Pronounced:**  "`INPUT[text:pronounced]`"
-> ![[4. World Almanac/NPCs/img/rictavio.webp|cover hm-sm]] 
+> **Pronounced:**  `INPUT[text:pronounced]`
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```
 > ###### Bio
 >  |
 >  ---|---|
 > **Race** | `INPUT[suggester(optionQuery("5. Mechanics/Races")):race]` |
-> **Sex** | `INPUT[inlineSelect(option(male),option(female)):sex]` |
+> **Gender** | `INPUT[inlineSelect(option(male),option(female)):gender]` |
 > **Age** | `INPUT[number:age]` |
-> **Alignment** | `INPUT[inlineSelect(option(lawful good),option(neutral good),option(chaotic good),option(lawful neutral),option(neutral),option(chaotic neutral),option(lawful evil),option(netural evil),option(chaotic evil)):alignment]` |
+> **Alignment** | `INPUT[inlineSelect(option(Lawful Good),option(Neutral Good),option(Chaotic Good),option(Lawful Neutral),option(Neutral),option(Chaotic Neutral),option(Lawful Evil),option(Neutral Evil),option(Chaotic Evil)):alignment]` |
 > **Condition** | `INPUT[inlineSelect(option(healthy),option(injured),option(dead)):condition]` |
 > ###### Info
 >  |
@@ -45,6 +48,8 @@ dislikes:
 > **Current Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
 
 # **`=this.file.name`**
+*Source: Curse of Strahd p. 238*
+
 Several months ago, a colorfully dressed half-elf bard came to Barovia in a carnival wagon, with a pet monkey on his shoulder. He took over an abandoned tower on Lake Baratok before rolling into the town of Vallaki several months later. Claiming to be a carnival ringmaster in search of new actors, he began regaling locals with tales of distant lands.
 
 ## Monster Hunter
@@ -78,34 +83,61 @@ Van Richten works alone. A curse placed on him long ago by a Vistani seer brings
 ## Traits/Goals
 > [!column] Traits
 >> [!metadata|text-Center bg-c-gray] Personality
->> `INPUT[text:personality]`
+>> `INPUT[textArea:personality]`
 >
 >> [!metadata|text-Center bg-c-gray] Ideal
->> `INPUT[text:ideal]`
+>> `INPUT[textArea:ideal]`
 >
 >> [!metadata|text-Center bg-c-gray] Bond
->> `INPUT[text:bond]`
+>> `INPUT[textArea:bond]`
 >
 >> [!metadata|text-Center bg-c-gray] Flaw
->> `INPUT[text:flaw]`
+>> `INPUT[textArea:flaw]`
 >
 >> [!metadata|text-Center bg-c-green] Likes
->> `INPUT[text:likes]`
+>> `INPUT[textArea:likes]`
 >
 >> [!metadata|text-Center bg-c-red] Dislikes
->> `INPUT[text:dislikes]`
+>> `INPUT[textArea:dislikes]`
 
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
 
 ## Relationships
+`BUTTON[add-relationship,remove-relationship]`
+```meta-bind-button
+style: primary
+label: Add Relationship
+id: add-relationship
+hidden: true
+actions:
+  - type: command
+    command: templater-obsidian:insert-templater
+  - type: input
+    str: add
+  - type: input
+    str: relationship
+```
+```meta-bind-button
+style: destructive
+label: Remove Relationship
+id: remove-relationship
+hidden: true
+actions:
+  - type: command
+    command: templater-obsidian:insert-templater
+  - type: input
+    str: remove
+  - type: input
+    str: relationship
+```
 ```dataviewjs
 await dv.view("npcRelationships", { current: dv.current() })
 ```
 
 ## Stats
 ```statblock
-"name": "Rictavio (CoS)"
+"name": "Rictavio"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "human"
@@ -137,15 +169,23 @@ await dv.view("npcRelationships", { current: dv.current() })
 "traits":
 - "desc": "Rictavio is a 9th-level spellcaster. His spellcasting ability is Wisdom\
     \ (spell save DC 15, dice: d20+7 (+7 to hit) with spell attacks). Rictavio has\
-    \ the following cleric spells prepared:\n\nCantrips (at will): guidance, light,\
-    \ mending, thaumaturgy\n\n1st level (4 slots): cure wounds, detect evil and\
-    \ good, protection from evil and good, sanctuary\n\n2nd level (3 slots): augury,\
-    \ lesser restoration, protection from poison\n\n3rd level (3 slots): magic\
-    \ circle, remove curse, speak with dead\n\n4th level (3 slots): death ward,\
-    \ freedom of movement\n\n5th level (1 slots): dispel evil and good"
+    \ the following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Guidance.md|guidance]],\
+    \ [[5. Mechanics/Spells/Light.md|light]], [[5. Mechanics/Spells/Mending.md|mending]],\
+    \ [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\n1st level (4 slots):\
+    \ [[5. Mechanics/Spells/Cure Wounds.md|cure wounds]], [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]],\
+    \ [[5. Mechanics/Spells/Protection From Evil And Good.md|protection from evil and good]],\
+    \ [[5. Mechanics/Spells/Sanctuary.md|sanctuary]]\n\n2nd level (3 slots): [[5. Mechanics/Spells/Augury.md|augury]],\
+    \ [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]], [protection from\
+    \ poison](compendium/spells/protection-from-poison.md)\n\n3rd level (3 slots):\
+    \ [[5. Mechanics/Spells/Magic Circle.md|magic circle]], [[5. Mechanics/Spells/Remove Curse.md|remove curse]],\
+    \ [[5. Mechanics/Spells/Speak With Dead.md|speak with dead]]\n\n4th level (3 slots):\
+    \ [[5. Mechanics/Spells/Death Ward.md|death ward]], [[5. Mechanics/Spells/Freedom Of Movement.md|freedom of movement]]\n\
+    \n5th level (1 slots): [[5. Mechanics/Spells/Dispel Evil And Good.md|dispel evil and good]]"
   "name": "spells"
-- "desc": "In addition to his sword cane, Rictavio wears a hat of disguise and a ring\
-    \ of mind shielding, and he carries a spell scroll of raise dead."
+- "desc": "In addition to his sword cane, Rictavio wears a [[5. Mechanics/Items/Hat Of Disguise.md|hat of disguise]]\
+    \ and a [[5. Mechanics/Items/Ring Of Mind Shielding.md|ring of mind shielding]],\
+    \ and he carries a [[5. Mechanics/Items/Spell Scroll 5th Level.md|spell scroll]]\
+    \ of [[5. Mechanics/Spells/Raise Dead.md|raise dead]]."
   "name": "Special Equipment"
 - "desc": "When Rictavio hits an undead with a weapon attack, the undead takes an\
     \ extra dice: 3d6|avg (3d6) damage of the weapon's type."
@@ -159,7 +199,7 @@ await dv.view("npcRelationships", { current: dv.current() })
   "name": "Sword Cane"
 "source":
 - "CoS"
-"image": "4. World Almanac/NPCs/token/rictavio.png"
+"image": "4. World Almanac/NPCs/token/rictavio-cos.webp"
 ```
 ^statblock
 

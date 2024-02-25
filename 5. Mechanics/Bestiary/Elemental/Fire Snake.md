@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/elemental
+  - compendium/src/5e/mm
+  - monster/cr/1
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/elemental
 statblock: inline
-aliases: ["Fire Snake"]
+aliases:
+  - Fire Snake
 ---
 # [[5. Mechanics\Bestiary\Elemental\Fire Snake.md|Fire Snake]]
-*Source: Monster Manual p. 265*  
+*Source: Monster Manual p. 265*
 
 Salamanders slither across the Sea of Ash on the Elemental Plane of Fire, their sinuous coils and jagged spines smoldering. Intense heat washes off their bodies, while their yellow eyes glow like candles in the deep-set hollows of their hawkish faces.
 
@@ -85,10 +86,14 @@ This inherent heat is an asset to salamanders' skill as smiths, allowing them to
 - "ToA"
 - "JttRC"
 - "DoSI"
-"image": "compendium/bestiary/elemental/token/fire-snake.png"
+"image": "5. Mechanics/Bestiary/Elemental/token/fire-snake.webp"
 ```
 ^statblock
 
 ## Environment
 
 underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

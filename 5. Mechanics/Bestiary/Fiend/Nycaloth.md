@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/9
-- monster/size/large
-- monster/type/fiend/yugoloth
+  - compendium/src/5e/mm
+  - monster/cr/9
+  - monster/size/large
+  - monster/type/fiend/yugoloth
 statblock: inline
-aliases: ["Nycaloth"]
+aliases:
+  - Nycaloth
 ---
 # [[5. Mechanics\Bestiary\Fiend\Nycaloth.md|Nycaloth]]
-*Source: Monster Manual p. 314, Tasha's Cauldron of Everything*  
+*Source: Monster Manual p. 314, Tasha's Cauldron of Everything*
 
 The elite airborne shock troops of the yugoloths, nycaloths look like muscular gargoyles. Powerful bat wings bear them swiftly aloft in battle, and the razorsharp claws of their hands and feet cut through flesh and bone with ease. A nightmarish foe, a nycaloth strikes hard and fast without warning, then teleports away. It uses its innate magic to turn [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]] or create illusory doubles of itself, further confounding its enemies.
 
@@ -117,7 +118,7 @@ Whatever the case, no fiend finds the General unless the General desires it. His
     \ (2d4) slashing damage at the start of each of its turns due to a fiendish\
     \ wound. Each time the nycaloth hits the wounded target with this attack, the\
     \ damage dealt by the wound increases by dice: 2d4|avg (2d4). Any creature\
-    \ can take an action to stanch the wound with a successful DC 13 Wisdom (Medicine)\
+    \ can take an action to stanch the wound with a successful DC 13 Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]])\
     \ check. The wound also closes if the target receives magical healing."
   "name": "Claw"
 - "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
@@ -138,6 +139,10 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 - "PaBTSO"
 - "SatO"
 - "ToFW"
-"image": "compendium/bestiary/fiend/token/nycaloth.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/nycaloth.webp"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

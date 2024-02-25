@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/5
-- monster/size/large
-- monster/type/aberration
+  - compendium/src/5e/mm
+  - monster/cr/5
+  - monster/size/large
+  - monster/type/aberration
 statblock: inline
-aliases: ["Red Slaad"]
+aliases:
+  - Red Slaad
 ---
 # [[5. Mechanics\Bestiary\Aberration\Red Slaad.md|Red Slaad]]
-*Source: Monster Manual p. 276*  
+*Source: Monster Manual p. 276*
 
 When a red slaad claws a humanoid creature, it can inject an egg from a gland under one of its claws. The egg works its way into its host and gestates, eventually forming a slaad tadpole. Such a tadpole then eats its way out of the host's body, feeds on the host's remains, and then seeks any other fresh meat it can find. The tadpole transforms into a fully grown blue slaad-or green slaad if the host had the ability to cast 3rd level spells or higher-within `dice: 2d12|avg` (`2d12`) hours.
 
@@ -108,6 +109,10 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 - "PaBTSO"
 - "ToFW"
 - "BMT"
-"image": "compendium/bestiary/aberration/token/red-slaad.png"
+"image": "5. Mechanics/Bestiary/Aberration/token/red-slaad.webp"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

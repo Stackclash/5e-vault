@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/rarity/legendary
-- item/tier/major
-- item/wondrous
-aliases: 
-- "Sphere of Annihilation"
+  - compendium/src/5e/dmg
+  - item/rarity/legendary
+  - item/tier/major
+  - item/wondrous
+aliases:
+  - Sphere of Annihilation
 ---
 # Sphere of Annihilation
 *Wondrous Item, major, legendary*  
@@ -22,6 +22,8 @@ The sphere is stationary until someone controls it. If you are within 60 feet of
 If you attempt to control a sphere that is under another creature's control, you make an Intelligence ([[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]]) check contested by the other creature's Intelligence ([[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]]) check. The winner of the contest gains control of the sphere and can levitate it as normal.
 
 If the sphere comes into contact with a planar portal, such as that created by the [[5. Mechanics/Spells/Gate.md\|gate]] spell, or an extradimensional space, such as that within a [[5. Mechanics/Items/Portable Hole.md\|portable hole]], the DM determines randomly what happens, using the following table.
+
+`dice: [[Sphere Of Annihilation.md#^result]]`
 
 | dice: d100 | Result |
 |------------|--------|

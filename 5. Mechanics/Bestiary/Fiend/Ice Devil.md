@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/14
-- monster/size/large
-- monster/type/fiend/devil
+  - compendium/src/5e/mm
+  - monster/cr/14
+  - monster/size/large
+  - monster/type/fiend/devil
 statblock: inline
-aliases: ["Ice Devil"]
+aliases:
+  - Ice Devil
 ---
 # [[5. Mechanics\Bestiary\Fiend\Ice Devil.md|Ice Devil]]
-*Source: Monster Manual p. 75, Tasha's Cauldron of Everything. Available in the SRD.*  
+*Source: Monster Manual p. 75, Tasha's Cauldron of Everything. Available in the SRD.*
 
 Found most commonly on the cold layers of Stygia and Cania, ice devils serve as commanders of the infernal armies of the Nine Hells, tormenting lesser devils as an outlet for their anger and resentment. Coveting the power of their pit fiend superiors, ice devils work ceaselessly toward promotion, slaughtering the enemies of the Nine Hells and claiming as many souls as they can for their archdevil masters.
 
@@ -219,6 +220,10 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - "BGDIA"
 - "TCE"
 - "SatO"
-"image": "compendium/bestiary/fiend/token/ice-devil.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/ice-devil.webp"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

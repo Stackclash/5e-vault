@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Planar Effects"]
+  - compendium/src/5e/dmg
+aliases:
+  - Planar Effects
 ---
 # Planar Effects
 *Source: Dungeon Master's Guide p. 50* 
@@ -92,6 +93,8 @@ If a corrupted creature doesn't leave the plane within `dice: 1d4 + 2|avg` (`1d4
 
 **Abyssal Corruption**
 
+`dice: [[Planar Effects.md#^abyssal-corruption]]`
+
 | dice: d10 | Result |
 |-----------|--------|
 | 1-4 | **Treachery.** The character gains the following flaw: "I can only achieve my goals by making sure that my companions don't achieve theirs." |
@@ -110,7 +113,7 @@ Portals and gates that open onto the plane become one-way only. Secret ways out 
 
 At the end of each long rest taken on the plane, a visitor must make a DC 10 Wisdom saving throw. On a failed save, the creature gains one level of [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]], which can't be removed while the creature remains in Hades. If the creature reaches six levels of [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]], it doesn't die. Instead, the creature permanently transforms into a larva, whereupon all levels of [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]] afflicting the creature are removed.
 
-A larva is a miserable fiend that retains the facial features of its previous form but has the body of a fat worm. A larva has only a few faint memories of its previous life and the statistics in the [[5. Mechanics/Bestiary/Fiend/Larva (DMG).md\|larva]] stat block. Hades is crawling with larvae. Night hags, liches, and rakshasas harvest them for use in vile rituals. Other fiends like to feed on them.
+A larva is a miserable fiend that retains the facial features of its previous form but has the body of a fat worm. A larva has only a few faint memories of its previous life and the statistics in the [[5. Mechanics/Bestiary/Fiend/Larva.md\|larva]] stat block. Hades is crawling with larvae. Night hags, liches, and rakshasas harvest them for use in vile rituals. Other fiends like to feed on them.
 
 ## Gehenna: Cruel Hindrance
 

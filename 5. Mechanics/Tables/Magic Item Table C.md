@@ -2,20 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Magic Item Table C"]
+  - compendium/src/5e/dmg
+aliases:
+  - Magic Item Table C
 ---
 # Magic Item Table C
 *Source: Dungeon Master's Guide p. 144* 
 
-`dice: [[Magic Item Table C.md#^magic-item-table-c]]`
-
 **Magic Item Table C**
+
+`dice: [[Magic Item Table C.md#^magic-item-table-c]]`
 
 | dice: d100 | Magic Item |
 |------------|------------|
 | 01-15 | [[5. Mechanics/Items/Potion Of Superior Healing.md\|Potion of superior healing]] |
-| 16-22 | [[5. Mechanics/Items/Spell Scroll-4th Level.md\|Spell scroll (4th level)]] |
+| 16-22 | [[5. Mechanics/Items/Spell Scroll 4th Level.md\|Spell scroll (4th level)]] |
 | 23-27 | [+2 ammunition](compendium/items/2-ammunition.md) |
 | 28-32 | [[5. Mechanics/Items/Potion Of Clairvoyance.md\|Potion of clairvoyance]] |
 | 33-37 | [[5. Mechanics/Items/Potion Of Diminution.md\|Potion of diminution]] |
@@ -25,7 +26,7 @@ aliases: ["Magic Item Table C"]
 | 53-57 | [[5. Mechanics/Items/Potion Of Heroism.md\|Potion of heroism]] |
 | 58-62 | [[5. Mechanics/Items/Potion Of Invulnerability.md\|Potion of invulnerability]] |
 | 63-67 | [[5. Mechanics/Items/Potion Of Mind Reading.md\|Potion of mind reading]] |
-| 68-72 | [[5. Mechanics/Items/Spell Scroll-5th Level.md\|Spell scroll (5th level)]] |
+| 68-72 | [[5. Mechanics/Items/Spell Scroll 5th Level.md\|Spell scroll (5th level)]] |
 | 73-75 | [[5. Mechanics/Items/Elixir Of Health.md\|Elixir of health]] |
 | 76-78 | [[5. Mechanics/Items/Oil Of Etherealness.md\|Oil of etherealness]] |
 | 79-81 | [[5. Mechanics/Items/Potion Of Fire Giant Strength.md\|Potion of fire giant strength]] |

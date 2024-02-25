@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/2
-- monster/environment/forest
-- monster/environment/grassland
-- monster/size/large
-- monster/type/monstrosity
+  - compendium/src/5e/mm
+  - monster/cr/2
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/size/large
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Ankheg"]
+aliases:
+  - Ankheg
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Ankheg.md|Ankheg]]
-*Source: Monster Manual p. 21. Available in the SRD.*  
+*Source: Monster Manual p. 21. Available in the SRD.*
 
 An ankheg resembles an enormous many-legged insect, its long antennae twitching in response to any movement around it. Its legs end in sharp hooks adapted for burrowing and grasping its prey, and its powerful mandibles can snap a small tree in half.
 
@@ -70,10 +71,14 @@ As it burrows through earth, the ankheg leaves a narrow, partially collapsed tun
 - "JttRC"
 - "KftGV"
 - "BMT"
-"image": "compendium/bestiary/monstrosity/token/ankheg.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/ankheg.webp"
 ```
 ^statblock
 
 ## Environment
 
 grassland, forest
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

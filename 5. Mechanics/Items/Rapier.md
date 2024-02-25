@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/phb
-- item/property/finesse
-- item/property/martial
-- item/weapon/martial/melee
-aliases: 
-- "Rapier"
+  - compendium/src/5e/phb
+  - item/property/finesse
+  - item/property/martial
+  - item/weapon/martial/melee
+aliases:
+  - Rapier
 cost: 2500
 ---
 # Rapier

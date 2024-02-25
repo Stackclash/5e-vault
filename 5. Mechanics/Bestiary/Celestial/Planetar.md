@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/16
-- monster/size/large
-- monster/type/celestial
+  - compendium/src/5e/mm
+  - monster/cr/16
+  - monster/size/large
+  - monster/type/celestial
 statblock: inline
-aliases: ["Planetar"]
+aliases:
+  - Planetar
 ---
 # [[5. Mechanics\Bestiary\Celestial\Planetar.md|Planetar]]
-*Source: Monster Manual p. 17. Available in the SRD.*  
+*Source: Monster Manual p. 17. Available in the SRD.*
 
 An angel is a celestial agent sent forth into the planes to further its god's agenda for weal or woe. Its sublime beauty and presence can drive awestruck onlookers to their knees. Yet angels are destroyers too, and their appearance portends doom as often as it signals hope.
 
@@ -102,6 +103,10 @@ Planetars are muscular and hairless and have opalescent green skin and white-fea
 - "AATM"
 - "SatO"
 - "DoDk"
-"image": "compendium/bestiary/celestial/token/planetar.png"
+"image": "5. Mechanics/Bestiary/Celestial/token/planetar.webp"
 ```
 ^statblock
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

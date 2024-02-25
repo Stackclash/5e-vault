@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/4
-- monster/environment/underdark
-- monster/size/large
-- monster/type/undead
+  - compendium/src/5e/mm
+  - monster/cr/4
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/undead
 statblock: inline
-aliases: ["Bone Naga (Spirit)"]
+aliases:
+  - Bone Naga (Spirit)
 ---
 # [[5. Mechanics\Bestiary\Undead\Bone Naga Spirit.md|Bone Naga (Spirit)]]
-*Source: Monster Manual p. 233*  
+*Source: Monster Manual p. 233*
 
 In response to the long history of conflict between the yuan-ti and the nagas, yuan-ti created a necromantic ritual that could halt a naga's resurrection by transforming the living naga into a skeletal undead servitor. A bone naga retains only a few of the spells it knew in life.
 
@@ -36,7 +37,7 @@ Nagas have a long-standing enmity with the yuan-ti, with each race seeing itself
 A naga doesn't require air, food, drink, or sleep.
 
 ```statblock
-"name": "Bone Naga (Spirit)"
+"name": "Bone Naga Spirit"
 "size": "Large"
 "type": "undead"
 "alignment": "Lawful Evil"
@@ -77,10 +78,14 @@ A naga doesn't require air, food, drink, or sleep.
 - "MM"
 - "DSotDQ"
 - "BMT"
-"image": "compendium/bestiary/undead/token/bone-naga-spirit.png"
+"image": "5. Mechanics/Bestiary/Undead/token/bone-naga-spirit.webp"
 ```
 ^statblock
 
 ## Environment
 
 underdark
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

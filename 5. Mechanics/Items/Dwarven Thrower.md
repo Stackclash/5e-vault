@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/attunement/required
-- item/property/martial
-- item/property/thrown
-- item/property/versatile
-- item/rarity/very-rare
-- item/tier/major
-- item/weapon/martial/melee
-aliases: 
-- "Dwarven Thrower"
+  - compendium/src/5e/dmg
+  - item/attunement/required
+  - item/property/martial
+  - item/property/thrown
+  - item/property/versatile
+  - item/rarity/very-rare
+  - item/tier/major
+  - item/weapon/martial/melee
+aliases:
+  - Dwarven Thrower
 ---
 # Dwarven Thrower
 *Melee Weapon, major, very rare (requires attunement by a dwarf)*  

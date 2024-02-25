@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/sorcerer
-- compendium/src/5e/phb
-aliases: ["Sorcerer"]
+  - class/sorcerer
+  - compendium/src/5e/phb
+aliases:
+  - Sorcerer
 ---
 # Sorcerer
 *Source: Player's Handbook p. 99. Available in the SRD.*  
@@ -83,7 +84,7 @@ You are proficient with the following items, in addition to any proficiencies pr
 
 You begin play with the following equipment, in addition to any equipment provided by your background.
 
-- (a) a [[5. Mechanics/Items/Light Crossbow.md\|light crossbow]] and [[5. Mechanics/Items/Crossbow Bolts-20.md\|20 bolts]] or (b) any simple weapon  
+- (a) a [[5. Mechanics/Items/Light Crossbow.md\|light crossbow]] and [[5. Mechanics/Items/Crossbow Bolts 20.md\|20 bolts]] or (b) any simple weapon  
 - (a) a [[5. Mechanics/Items/Component Pouch.md\|component pouch]] or (b) an [[5. Mechanics/Items/Arcane Focus.md\|arcane focus]]  
 - (a) a [[5. Mechanics/Items/Dungeoneers Pack.md\|dungeoneer's pack]] or (b) an [[5. Mechanics/Items/Explorers Pack.md\|explorer's pack]]  
 - Two [[5. Mechanics/Items/Dagger.md\|daggers]]  
@@ -151,6 +152,8 @@ Does your character know the source of your magical power? Does it tie back to s
 
 **Arcane Origins**
 
+`dice: [[Sorcerer.md#^arcane-origins]]`
+
 | dice: d6 | Origin |
 |----------|--------|
 | 1 | Your power arises from your family's bloodline. You are related to some powerful creature, or you inherited a blessing or a curse. |
@@ -169,6 +172,8 @@ When a new sorcerer enters the world, either at birth or later when one's power 
 When your sorcerer's powers appeared, how did the world around you respond? Were other people supportive, fearful, or somewhere in between?
 
 **Reactions**
+
+`dice: [[Sorcerer.md#^reactions]]`
 
 | dice: d6 | Reaction |
 |----------|----------|
@@ -189,6 +194,8 @@ If your sorcerer has a supernatural mark, it might be one that's easily conceale
 
 **Supernatural Marks**
 
+`dice: [[Sorcerer.md#^supernatural-marks]]`
+
 | dice: d6 | Mark |
 |----------|------|
 | 1 | Your eyes are an unusual color, such as red. |
@@ -207,6 +214,8 @@ As the world well knows, some sorcerers are better than others at controlling th
 When your sorcerer character casts a spell, does the effort reveal itself in a sign of sorcery? Is this sign tied to your origin or some other aspect of who you are, or is it a seemingly random phenomenon?
 
 **Signs of Sorcery**
+
+`dice: [[Sorcerer.md#^signs-of-sorcery]]`
 
 | dice: d6 | Sign |
 |----------|------|
@@ -309,7 +318,7 @@ You can use only one Metamagic option on a spell when you cast it, unless otherw
 ### Metamagic Options (Level 3)
 _Source: Tasha's Cauldron of Everything p. 65_
 
-*3rd-level sorcerer [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+*3rd-level sorcerer [[/5. Mechanics/Rules/Variant Rules/Optional Class Features.md\|optional class features]]*
 
 When you choose Metamagic options, you have access to the following additional options.
 
@@ -322,7 +331,7 @@ If your DM allows the use of feats, you may instead take a feat.
 ### Sorcerous Versatility (Level 4)
 _Source: Tasha's Cauldron of Everything p. 65_
 
-*4th-level sorcerer [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+*4th-level sorcerer [[/5. Mechanics/Rules/Variant Rules/Optional Class Features.md\|optional class features]]*
 
 Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, representing the magic within you flowing in new ways:
 
@@ -332,7 +341,7 @@ Whenever you reach a level in this class that grants the Ability Score Improveme
 ### Magical Guidance (Level 5)
 _Source: Tasha's Cauldron of Everything p. 65_
 
-*5th-level sorcerer [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+*5th-level sorcerer [[/5. Mechanics/Rules/Variant Rules/Optional Class Features.md\|optional class features]]*
 
 You can tap into your inner wellspring of magic to try to conjure success from failure. When you make an ability check that fails, you can spend 1 sorcery point to reroll the `dice: d20|avg` (`d20`), and you must use the new roll, potentially turning the failure into a success.
 

@@ -30,13 +30,13 @@ speed: normal
 > ```
 
 ## **Session Log**
-### **[[Session Logs|New Session Log]]**
+### **[[Session Journals|New Session Log]]**
 > [!cards|dataview 3]
 >```dataview
 TABLE WITHOUT ID
 >	link(file.path, name) AS "Name",
 >	summary
-> FROM "3. The Party/Session Logs"
+> FROM "3. The Party/Session Journals"
 > WHERE party = this.file.name
 > SORT file.frontmatter.date DESC
 >```

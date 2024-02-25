@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/phb
-- race/gnome/forest
-aliases: ["Gnome (Forest)"]
+  - compendium/src/5e/phb
+  - race/gnome/forest
+aliases:
+  - Gnome (Forest)
 ---
 # Gnome (Forest)
 *Source: Player's Handbook p. 37*  

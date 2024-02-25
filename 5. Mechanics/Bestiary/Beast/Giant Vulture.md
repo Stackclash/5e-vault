@@ -2,17 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1
-- monster/environment/desert
-- monster/environment/grassland
-- monster/size/large
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/1
+  - monster/environment/desert
+  - monster/environment/grassland
+  - monster/size/large
+  - monster/type/beast
 statblock: inline
-aliases: ["Giant Vulture"]
+aliases:
+  - Giant Vulture
 ---
 # [[5. Mechanics\Bestiary\Beast\Giant Vulture.md|Giant Vulture]]
-*Source: Monster Manual p. 329. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 329. Available in the SRD and the Basic Rules.*
 
 A giant vulture has advanced intelligence and a malevolent bent. Unlike its smaller kin, it will attack a wounded creature to hasten its end. Giant vultures have been known to haunt a thirsty, starving creature for days to enjoy its suffering.
 
@@ -62,10 +63,14 @@ A giant vulture has advanced intelligence and a malevolent bent. Unlike its smal
 - "MOT"
 - "IDRotF"
 - "CRCotN"
-"image": "compendium/bestiary/beast/token/giant-vulture.png"
+"image": "5. Mechanics/Bestiary/Beast/token/giant-vulture.webp"
 ```
 ^statblock
 
 ## Environment
 
 grassland, desert
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

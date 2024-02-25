@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Weird Locales"]
+  - compendium/src/5e/dmg
+aliases:
+  - Weird Locales
 ---
 # Weird Locales
 *Source: Dungeon Master's Guide p. 109* 
 
-`dice: [[Weird Locales.md#^weird-locales]]`
-
 **Weird Locales**
+
+`dice: [[Weird Locales.md#^weird-locales]]`
 
 | dice: d20 | Locale |
 |-----------|--------|

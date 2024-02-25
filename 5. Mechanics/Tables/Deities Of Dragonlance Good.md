@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Deities of Dragonlance: Good"]
+  - compendium/src/5e/phb
+aliases:
+  - 'Deities of Dragonlance: Good'
 ---
 # Deities of Dragonlance: Good
 *Source: Player's Handbook p. 293* 
-
-`dice: [[Deities Of Dragonlance Good.md#^deities-of-dragonlance-good]]`
 
 **Deities of Dragonlance: Good**
 

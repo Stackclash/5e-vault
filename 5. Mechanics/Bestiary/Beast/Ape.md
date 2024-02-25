@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/1-2
-- monster/environment/forest
-- monster/size/medium
-- monster/type/beast
+  - compendium/src/5e/mm
+  - monster/cr/1-2
+  - monster/environment/forest
+  - monster/size/medium
+  - monster/type/beast
 statblock: inline
-aliases: ["Ape"]
+aliases:
+  - Ape
 ---
 # [[5. Mechanics\Bestiary\Beast\Ape.md|Ape]]
-*Source: Monster Manual p. 317. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 317. Available in the SRD and the Basic Rules.*
 
 ```statblock
 "name": "Ape"
@@ -51,10 +52,14 @@ aliases: ["Ape"]
 - "WDH"
 - "GoS"
 - "CM"
-"image": "compendium/bestiary/beast/token/ape.png"
+"image": "5. Mechanics/Bestiary/Beast/token/ape.webp"
 ```
 ^statblock
 
 ## Environment
 
 forest
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

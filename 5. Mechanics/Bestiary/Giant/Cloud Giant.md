@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/cr/9
-- monster/environment/mountain
-- monster/size/huge
-- monster/type/giant
+  - compendium/src/5e/mm
+  - monster/cr/9
+  - monster/environment/mountain
+  - monster/size/huge
+  - monster/type/giant
 statblock: inline
-aliases: ["Cloud Giant"]
+aliases:
+  - Cloud Giant
 ---
 # [[5. Mechanics\Bestiary\Giant\Cloud Giant.md|Cloud Giant]]
-*Source: Monster Manual p. 154. Available in the SRD.*  
+*Source: Monster Manual p. 154. Available in the SRD.*
 
 Cloud giants live extravagant lives high above the world, showing little concern for the plights of other races except as amusement. They are muscular with light skin and have hair of silver or blue.
 
@@ -137,10 +138,14 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 - "MOT"
 - "JttRC"
 - "SatO"
-"image": "compendium/bestiary/giant/token/cloud-giant.png"
+"image": "5. Mechanics/Bestiary/Giant/token/cloud-giant.webp"
 ```
 ^statblock
 
 ## Environment
 
 mountain
+
+```dataviewjs
+await dv.view('monsterHarvesterTable', { current: dv.current() })
+```

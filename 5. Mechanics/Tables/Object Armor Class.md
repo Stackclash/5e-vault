@@ -2,13 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Object Armor Class"]
+  - compendium/src/5e/dmg
+aliases:
+  - Object Armor Class
 ---
 # Object Armor Class
 *Source: Dungeon Master's Guide p. 246. Available in the SRD.* 
-
-`dice: [[Object Armor Class.md#^object-armor-class]]`
 
 **Object Armor Class**
 
