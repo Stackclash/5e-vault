@@ -32,6 +32,7 @@ prep-notes:
 - [[Redgrave]] figures out that a lot of Barovians are without souls and that the souls are reborn into new bodies
 - [[Redgrave]] thinks that [[Izek Strazni]] had a doll made for each reincarnation of [[Ireena Kolyana]] 
 - Commander in Strahd's army is Delus
+- [[Seluvis Felo'melorn]] learned about [[Barrier Coral]] 
 
 ## Items Of Importance
 - Kahkan's Wand of Secrets
