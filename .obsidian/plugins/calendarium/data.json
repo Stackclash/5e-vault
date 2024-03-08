@@ -175,7 +175,7 @@
   "configDirectory": null,
   "dailyNotes": false,
   "dateFormat": "YYYY-MM-DD",
-  "defaultCalendar": "ID_6b2b79a86a39",
+  "defaultCalendar": null,
   "eventPreview": false,
   "exit": {
     "saving": false,
@@ -194,6 +194,13 @@
   "askedToMoveFC": false,
   "askedAboutSync": true,
   "syncBehavior": "Always",
+  "inlineEventsTag": "#inline-events",
+  "paths": [
+    [
+      "/",
+      "ID_6b2b79a86a39"
+    ]
+  ]
   "inlineEventsTag": "#inline-events",
   "paths": [
     [
