@@ -172,7 +172,6 @@
       "inlineEventTag": "#inline-events"
     }
   ],
-  "deletedCalendars": [],
   "configDirectory": null,
   "dailyNotes": false,
   "dateFormat": "YYYY-MM-DD",
@@ -188,7 +187,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 4,
+    "patch": 9,
     "beta": null
   },
   "debug": false,
