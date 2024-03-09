@@ -5,6 +5,10 @@ let date = await tp.system.prompt("What date is this session supposed to happen?
 ---
 date: <% moment(date, "MM-DD-YYYY").format() %>
 ---
+## Resources
+
+## Details to Remember
+
 ## Strong Start  
 
 
