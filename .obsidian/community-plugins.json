@@ -1,7 +1,6 @@
 [
   "dataview",
   "obsidian-dice-roller",
-  "obsidian-5e-statblocks",
   "initiative-tracker",
   "obsidian-leaflet-plugin",
   "obsidian-style-settings",
@@ -25,5 +24,6 @@
   "new-tab-default-page",
   "obsidian-textgenerator-plugin",
   "obsidian42-brat",
-  "calendarium"
+  "calendarium",
+  "obsidian-5e-statblocks"
 ]
