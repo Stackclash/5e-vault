@@ -179,7 +179,7 @@
         "enabled": true,
         "level": 5,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
@@ -294,7 +294,7 @@
         "rollHP": false
       }
     ],
-    "state": false,
+    "state": true,
     "name": "Kahzan",
     "round": 1,
     "logFile": "",
