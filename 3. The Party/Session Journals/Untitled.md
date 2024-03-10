@@ -27,7 +27,8 @@ prep-notes:
 `INPUT[textArea:summary]`
 
 ## Key Learnings
-- The party captures and interrogates a werewolf named 
+- The party captures and interrogates a werewolf named Gorek
+- 
 
 ## Items Of Importance
 Description
