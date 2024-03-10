@@ -201,7 +201,7 @@
         "enabled": true,
         "level": 5,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
@@ -245,7 +245,7 @@
         "enabled": true,
         "level": 5,
         "player": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       },
@@ -283,7 +283,7 @@
         "currentAC": 16,
         "path": "5. Mechanics/Bestiary/Undead/Boneclaw.md",
         "id": "ID_6adb8b2a393b",
-        "currentHP": 38,
+        "currentHP": 5,
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -296,7 +296,7 @@
     ],
     "state": true,
     "name": "Kahzan",
-    "round": 2,
+    "round": 3,
     "logFile": "",
     "rollHP": false
   },
