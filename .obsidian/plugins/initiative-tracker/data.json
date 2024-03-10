@@ -163,7 +163,7 @@
     "creatures": [
       {
         "name": "Faerah Duskrane",
-        "initiative": 23,
+        "initiative": 15,
         "static": false,
         "modifier": 6,
         "hp": 38,
@@ -185,7 +185,7 @@
       },
       {
         "name": "Redgrave",
-        "initiative": 3,
+        "initiative": 18,
         "static": false,
         "modifier": -1,
         "hp": 38,
@@ -207,7 +207,7 @@
       },
       {
         "name": "Marin",
-        "initiative": 21,
+        "initiative": 10,
         "static": false,
         "modifier": 3,
         "hp": 43,
@@ -229,7 +229,7 @@
       },
       {
         "name": "Yevelda Ovak",
-        "initiative": 21,
+        "initiative": 10,
         "static": false,
         "modifier": 2,
         "hp": 65,
@@ -251,7 +251,7 @@
       },
       {
         "name": "Seluvis Felo'melorn",
-        "initiative": 5,
+        "initiative": 4,
         "static": false,
         "modifier": 3,
         "hp": 33,
@@ -273,7 +273,7 @@
       },
       {
         "name": "Boneclaw",
-        "initiative": 14,
+        "initiative": 7,
         "static": false,
         "modifier": 3,
         "hp": 150,
