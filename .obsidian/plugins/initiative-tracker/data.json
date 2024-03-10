@@ -283,7 +283,7 @@
         "currentAC": 16,
         "path": "5. Mechanics/Bestiary/Undead/Boneclaw.md",
         "id": "ID_6adb8b2a393b",
-        "currentHP": 94,
+        "currentHP": 60,
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -325,8 +325,8 @@
   "rollHP": false,
   "descending": true,
   "builder": {
-    "showParty": true,
-    "showXP": true,
+    "showParty": false,
+    "showXP": false,
     "sidebarIcon": true,
     "headers": [
       {
@@ -402,7 +402,8 @@
             "ooze",
             "fey",
             "giant",
-            "celestial"
+            "celestial",
+            "swarm of Tiny beasts"
           ],
           "id": "ID_DEFAULT_TYPE_FILTER",
           "derive": true
@@ -429,22 +430,25 @@
             "Neutral Good",
             "Chaotic Neutral",
             "Neutral Good or Neutral Evil",
+            "neutral good",
             "neutral",
             "unaligned",
+            "any alignment",
             "Any Evil alignment",
             "neutral evil",
+            "chaotic evil",
             "Typically  Chaotic Evil",
             "Typically  Neutral Evil",
+            "Typically  Lawful Neutral",
             "Typically  Lawful Evil",
             "Chaotic",
-            "Typically  Lawful Neutral",
             "Any Good alignment",
             "Chaotic Good or Neutral Evil",
+            "Typically  Lawful Good",
             "Lawful",
             "as the eidolon's alignment",
             "Typically  Neutral",
             "Typically  Chaotic Neutral",
-            "Typically  Lawful Good",
             "Typically  Chaotic Good"
           ],
           "id": "ID_DEFAULT_ALIGNMENT_FILTER",
