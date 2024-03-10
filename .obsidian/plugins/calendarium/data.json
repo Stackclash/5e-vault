@@ -194,11 +194,6 @@
   "askedToMoveFC": false,
   "askedAboutSync": true,
   "syncBehavior": "Always",
-  "inlineEventsTag": "#inline-events",
-  "paths": [
-    [
-      "/",
-      "ID_6b2b79a86a39"
-    ]
-  ]
+  "inlineEventsTag": null,
+  "paths": []
 }
