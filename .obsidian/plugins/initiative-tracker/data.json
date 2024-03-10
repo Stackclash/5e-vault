@@ -273,7 +273,7 @@
       },
       {
         "name": "Boneclaw",
-        "initiative": 7,
+        "initiative": 9,
         "static": false,
         "modifier": 3,
         "hp": 150,
