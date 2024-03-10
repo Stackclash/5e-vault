@@ -27,8 +27,7 @@ prep-notes:
 `INPUT[textArea:summary]`
 
 ## Key Learnings
-Description of any important information that the party learned.
-Who Did They Meet?
+- The party captures and interrogates a werewolf named 
 
 ## Items Of Importance
 Description
