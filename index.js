@@ -75,13 +75,19 @@ const journalPath = './1. DM Stuff/Session Journals'
 const prepPath = './1. DM Stuff/Session Prep'
 
 const journals = fs.readdirSync(journalPath)
-    .filter(f => f !== 'Session Journals.md' && !/^S\d\s/.test(f)).map(f => {
+    .filter(f => f !== 'Session Journals.md' && !/^S\d\s/.test(f))
+    .map(f => {
         const content = fs.readFileSync(path.join(journalPath, f))
         return {
             ...matter(content),
             name: f,
             path: path.join(journalPath, f)
         }
+    })
+    .map(f => {
+        const object = f
+        object.data.date = moment(object.data.date).format('YYYY-MM-DD')
+        return object
     })
 const preps = fs.readdirSync(prepPath) //.map(f => path.join(prepPath, f))
 
