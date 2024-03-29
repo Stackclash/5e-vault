@@ -5,9 +5,9 @@ const tables = dv.pages('"5. Mechanics/Tables"').filter(p => {
 const monsters = dv.pages('"5. Mechanics/Bestiary"').filter(p => {
 	let found = false
 	for (const table of tables) {
-		if (table.aliases[0] == p.aliases[0]) found = true
+		if (p.aliases && (table.aliases[0] == p.aliases[0])) found = true
 	}
-	return found
+	return !found
 })
 
 // dv.header(2, "Table Aliases")
