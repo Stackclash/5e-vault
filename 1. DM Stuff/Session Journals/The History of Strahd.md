@@ -7,7 +7,7 @@ timelines:
 aat-render-enabled: true
 fc-category: Session
 party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
-prep-notes: "[[3. The Party/Session Prep/02-24-2024.md|02-24-2024]]"
+prep-notes: "[[02-24-2024|02-24-2024]]"
 ---
 > [!infobox]
 > ## Info
