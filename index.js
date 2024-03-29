@@ -96,6 +96,8 @@ const preps = fs.readdirSync(prepPath) //.map(f => path.join(prepPath, f))
 let sessionNumber = 5
 for (const journal of journals) {
     const newJournalName = `S${sessionNumber} ${journal.name}`
+    const newJournalContent = `${journal.content}\n\n${journalContent}`
+    const newJournalMeta = JSON.parse(JSON.stringify(journalMeta))
 
     if (!preps.includes(`${journal.data.date}.md`)) {
         const newPrepMeta = prepMeta
@@ -103,13 +105,22 @@ for (const journal of journals) {
         newPrepMeta.journal = `[[${newJournalName.replace('.md', '')}]]`
         const newPrepContent = matter.stringify(prepContent, newPrepMeta)
 
-        console.log(path.join(prepPath, `${journal.data.date}.md`), newPrepContent)
         //fs.writeFileSync(path.join(prepPath, `${journal.data.date}.md`), newPrepContent)
     }
 
-    fs.writeFileSync(path.join(journalPath, ))
+    for (const key of Object.keys(newJournalMeta)) {
+        if (journal.data[key] && newJournalMeta[key] != journal.data[key]) {
+            newJournalMeta[key] = journal.data[key]
+        }
+        newJournalMeta['prep-notes'] = `[[${journal.data.date}]]`
+        newJournalMeta['aat-render-enabled'] = true,
+        newJournalMeta['fc-category'] = 'Session',
+        newJournalMeta['party'] = '[[Curse of Strahd]]'
+    }
 
-    fs.rmSync(journal.path)
+    // fs.writeFileSync(path.join(journalPath, newJournalName), matter.stringify(newJournalContent))
+
+    // fs.rmSync(journal.path)
 
     sessionNumber++
 }
