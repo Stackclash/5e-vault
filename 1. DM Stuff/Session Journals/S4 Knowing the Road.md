@@ -1,9 +1,10 @@
 ---
 obsidianUIMode: preview
-date: 2023-09-24
-summary: 
+date: 2023-08-26T00:00:00.000-05:00
+summary: On their travels they meet a band of Vistani and get their fortune read by Madam Eva. She tells them of artifacts and an ally that will help them destroy Strahd.
 fc-date: 973-2-12
-timelines: 
+timelines:
+  - CoS
 aat-render-enabled: true
 fc-category: Session
 party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"

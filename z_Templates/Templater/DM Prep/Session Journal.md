@@ -1,5 +1,5 @@
 <%*
-await tp.file.move('3. The Party/Session Journals/' + tp.file.title)
+await tp.file.move('1. DM Stuff/Session Journals/' + tp.file.title)
 let date = await tp.system.prompt("What date is this session supposed to happen? (MM-DD-YYYY)")
 -%>
 ---
@@ -19,7 +19,7 @@ prep-notes:
 > |---|---|
 > | **Party:** | `INPUT[suggester(optionQuery("3. The Party/Parties")):party]` |
 > | **Session Date:** | `INPUT[datePicker:date]` |
-> | **Prep Notes:** | `INPUT[suggester(optionQuery("3. The Party/Session Prep")):prep-notes]` |
+> | **Prep Notes:** | `INPUT[suggester(optionQuery("1. DM Stuff/Session Prep")):prep-notes]` |
 > ## Fantasy Dates
 > | | |
 > |---|---|

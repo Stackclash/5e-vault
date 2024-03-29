@@ -1,5 +1,5 @@
 <%*
-await tp.file.move('3. The Party/Session Prep/' + tp.file.title)
+await tp.file.move('1. DM Stuff/Session Prep/' + tp.file.title)
 let date = await tp.system.prompt("What date is this session supposed to happen? (MM-DD-YYYY)")
 -%>
 ---
