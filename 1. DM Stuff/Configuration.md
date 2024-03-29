@@ -11,7 +11,7 @@ active_party: "[[Curse of Strahd]]"
 # DM Tools/Calculators
 ```dataview
 LIST WITHOUT ID file.link
-FROM "1. DM Screen/Lookup Tables"
+FROM "1. DM Stuff/Lookup Tables"
 ```
 
 # Templates
