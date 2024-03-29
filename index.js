@@ -92,9 +92,16 @@ const journals = fs.readdirSync(journalPath)
     .sort((a, b) => new Date(a.data.date) - new Date(b.data.date))
 const preps = fs.readdirSync(prepPath) //.map(f => path.join(prepPath, f))
 
+let sessionNumber = 5
 for (const journal of journals) {
-    // if (!preps.includes(`${journal.data.date}.md`)) {
-    //     console.log(journal.name)
-    // }
-    console.log(`${journal.name} - ${journal.data.date}`)
+    if (!preps.includes(`${journal.data.date}.md`)) {
+        const newPrepMeta = prepMeta
+        newPrepMeta.date = journal.data.date
+        const newPrepContent = matter.stringify(prepContent, newPrepMeta)
+
+        console.log(path.join(prepPath, `${journal.data.date}.md`), newPrepContent)
+
+        //fs.writeFileSync(path.join(prepPath, `${journal.data.date}.md`), newPrepContent)
+    }
+    // console.log(`${journal.name} - ${journal.data.date}`)
 }
