@@ -89,7 +89,7 @@ const journals = fs.readdirSync(journalPath)
         object.data.date = moment(object.data.date).format('YYYY-MM-DD')
         return object
     })
-    .sort((a, b) => new Date(b.data.date) - new Date(a.data.date))
+    .sort((a, b) => new Date(a.data.date) - new Date(b.data.date))
 const preps = fs.readdirSync(prepPath) //.map(f => path.join(prepPath, f))
 
 for (const journal of journals) {
