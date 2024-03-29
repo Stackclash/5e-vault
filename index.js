@@ -77,11 +77,11 @@ const prepPath = './1. DM Stuff/Session Prep'
 const journals = fs.readdirSync(journalPath)
     .filter(f => f !== 'Session Journals.md' && !/^S\d\s/.test(f))
     .map(f => {
-        const content = fs.readFileSync(path.join(journalPath, f))
+        const fullPath = path.join(journalPath, f)
         return {
-            ...matter(content),
+            ...matter.read(fullPath),
             name: f,
-            path: path.join(journalPath, f)
+            path: fullPath
         }
     })
     .map(f => {
@@ -89,10 +89,12 @@ const journals = fs.readdirSync(journalPath)
         object.data.date = moment(object.data.date).format('YYYY-MM-DD')
         return object
     })
+    .sort((a, b) => new Date(b.data.date) - new Date(a.data.date))
 const preps = fs.readdirSync(prepPath) //.map(f => path.join(prepPath, f))
 
 for (const journal of journals) {
-    console.log(journal)
-    process.exit()
-    // if (!preps.includes(journal.data.))
+    // if (!preps.includes(`${journal.data.date}.md`)) {
+    //     console.log(journal.name)
+    // }
+    console.log(`${journal.name} - ${journal.data.date}`)
 }
