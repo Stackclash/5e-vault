@@ -1,5 +1,6 @@
-import matter from 'gray-matter'
-import fs from 'fs'
+const matter = require('gray-matter')
+const fs = require('fs')
+const path = require('path')
 
 const journalMeta = {
     obsidianUIMode: 'preview',
@@ -8,7 +9,7 @@ const journalMeta = {
     'fc-date': '',
     timelines: '',
     'aat-render-enabled': true,
-    'fc-category': Session,
+    'fc-category': 'Session',
     party: '[[Curse of Strahd]]',
     'prep-notes': ''
 }
@@ -17,9 +18,12 @@ const prepMeta = {
     date: ''
 }
 
-const journals = fs.readdirSync('./1. DM Stuff/Session Journals')
-const preps = fs.readdirSync('./1. DM Stuff/Session Prep')
+const journalPath = './1. DM Stuff/Session Journals'
+const prepPath = './1. DM Stuff/Session Prep'
+
+const journals = fs.readdirSync(journalPath)
+const preps = fs.readdirSync(prepPath)
 
 for (const journal of journals) {
-    console.log(journal)
+    console.log(path.join(journalPath, journal))
 }
