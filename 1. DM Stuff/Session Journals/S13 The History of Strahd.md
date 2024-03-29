@@ -1,14 +1,41 @@
 ---
 obsidianUIMode: preview
-date: 2024-02-24T00:00:00-06:00
-summary: 
-fc-date: 
-timelines: 
+date: '2024-02-24'
+summary: ''
+fc-date: ''
+timelines: ''
 aat-render-enabled: true
 fc-category: Session
-party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
-prep-notes: "[[02-24-2024|02-24-2024]]"
+party: '[[Curse of Strahd]]'
+prep-notes: '[[2024-02-24]]'
 ---
+> [!infobox]
+> ## Info
+> | | |
+> |---|---|
+> | **Party:** | `INPUT[suggester(optionQuery("3. The Party/Parties")):party]` |
+> | **Session Date:** | `INPUT[datePicker:date]` |
+> | **Prep Notes:** | `INPUT[suggester(optionQuery("1. DM Stuff/Session Prep")):prep-notes]` |
+> ## Fantasy Dates
+> | | |
+> |---|---|
+> | **Start Date:** | `INPUT[text:fc-date]`
+> | **End Date:** | `INPUT[text:fc-end]` |
+> | **Timelines:** | `INPUT[inlineList:timelines]` |
+# `=this.file.name`
+## Session Overview
+`INPUT[textArea:summary]`
+
+## Key Learnings
+Description of any important information that the party learned.
+Who Did They Meet?
+
+## Items Of Importance
+Description
+
+## What Happened
+Small description.
+
 > [!infobox]
 > ## Info
 > | | |

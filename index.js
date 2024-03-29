@@ -96,7 +96,7 @@ const preps = fs.readdirSync(prepPath) //.map(f => path.join(prepPath, f))
 let sessionNumber = 5
 for (const journal of journals) {
     const newJournalName = `S${sessionNumber} ${journal.name}`
-    const newJournalContent = `${journal.content}\n\n${journalContent}`
+    const newJournalContent = `${journalContent}\n\n${journal.content}`
     const newJournalMeta = JSON.parse(JSON.stringify(journalMeta))
 
     if (!preps.includes(`${journal.data.date}.md`)) {
@@ -105,7 +105,7 @@ for (const journal of journals) {
         newPrepMeta.journal = `[[${newJournalName.replace('.md', '')}]]`
         const newPrepContent = matter.stringify(prepContent, newPrepMeta)
 
-        //fs.writeFileSync(path.join(prepPath, `${journal.data.date}.md`), newPrepContent)
+        fs.writeFileSync(path.join(prepPath, `${journal.data.date}.md`), newPrepContent)
     }
 
     for (const key of Object.keys(newJournalMeta)) {
@@ -118,9 +118,11 @@ for (const journal of journals) {
         newJournalMeta['party'] = '[[Curse of Strahd]]'
     }
 
-    // fs.writeFileSync(path.join(journalPath, newJournalName), matter.stringify(newJournalContent))
+    // console.log(newJournalName, matter.stringify(newJournalContent, newJournalMeta))
 
-    // fs.rmSync(journal.path)
+    fs.writeFileSync(path.join(journalPath, newJournalName), matter.stringify(newJournalContent, newJournalMeta))
+
+    fs.rmSync(journal.path)
 
     sessionNumber++
 }

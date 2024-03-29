@@ -1,14 +1,49 @@
 ---
-party: Curse of Strahd
+obsidianUIMode: preview
+date: '2023-11-25'
+summary: >-
+  The party attends the Festival of the Blazing Sun and when it ultimately falls
+  apart a guard laughs at the misfortune. The Baron has him arrested. Yevelda
+  stands up for the guard and is arrested as well. During a sermon given by
+  Father Lucian, the bones of St. Andral are secretly stolen and Strahd shows up
+  with a hoard of vampire spawn and starts killing everyone. Faerah is able to
+  intercept the bones and return them casting Strahd and his hoard out of the
+  church.
 fc-date: 973-2-15
-fc-end: 973-2-15
-aat-render-enabled: true
 timelines:
   - COS
+aat-render-enabled: true
 fc-category: Session
-date: 2023-11-25T00:00:00.000-06:00
-summary: The party attends the Festival of the Blazing Sun and when it ultimately falls apart a guard laughs at the misfortune. The Baron has him arrested. Yevelda stands up for the guard and is arrested as well. During a sermon given by Father Lucian, the bones of St. Andral are secretly stolen and Strahd shows up with a hoard of vampire spawn and starts killing everyone. Faerah is able to intercept the bones and return them casting Strahd and his hoard out of the church.
+party: '[[Curse of Strahd]]'
+prep-notes: '[[2023-11-25]]'
 ---
+> [!infobox]
+> ## Info
+> | | |
+> |---|---|
+> | **Party:** | `INPUT[suggester(optionQuery("3. The Party/Parties")):party]` |
+> | **Session Date:** | `INPUT[datePicker:date]` |
+> | **Prep Notes:** | `INPUT[suggester(optionQuery("1. DM Stuff/Session Prep")):prep-notes]` |
+> ## Fantasy Dates
+> | | |
+> |---|---|
+> | **Start Date:** | `INPUT[text:fc-date]`
+> | **End Date:** | `INPUT[text:fc-end]` |
+> | **Timelines:** | `INPUT[inlineList:timelines]` |
+# `=this.file.name`
+## Session Overview
+`INPUT[textArea:summary]`
+
+## Key Learnings
+Description of any important information that the party learned.
+Who Did They Meet?
+
+## Items Of Importance
+Description
+
+## What Happened
+Small description.
+
 
 # `=this.file.name`
 ## Session Prep:

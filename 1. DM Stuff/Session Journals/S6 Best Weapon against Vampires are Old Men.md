@@ -1,15 +1,46 @@
 ---
 obsidianUIMode: preview
-date: 2023-11-04T00:00:00.000-05:00
-summary: The party discovers where St. Andral's Bones are kept by talking the Milvoj. The bones are protected by a nest of vampire spawn in the house of Henrik, the local coffin maker. After retrieving the bones and returning them to Father Lucius, the party gets invited to a dinner with Baron Vargas and his family.
+date: '2023-11-04'
+summary: >-
+  The party discovers where St. Andral's Bones are kept by talking the Milvoj.
+  The bones are protected by a nest of vampire spawn in the house of Henrik, the
+  local coffin maker. After retrieving the bones and returning them to Father
+  Lucius, the party gets invited to a dinner with Baron Vargas and his family.
 fc-date: 973-2-14
 timelines:
   - COS
 aat-render-enabled: true
 fc-category: Session
-party: Curse of Strahd
-fc-end: 973-2-14
+party: '[[Curse of Strahd]]'
+prep-notes: '[[2023-11-04]]'
 ---
+> [!infobox]
+> ## Info
+> | | |
+> |---|---|
+> | **Party:** | `INPUT[suggester(optionQuery("3. The Party/Parties")):party]` |
+> | **Session Date:** | `INPUT[datePicker:date]` |
+> | **Prep Notes:** | `INPUT[suggester(optionQuery("1. DM Stuff/Session Prep")):prep-notes]` |
+> ## Fantasy Dates
+> | | |
+> |---|---|
+> | **Start Date:** | `INPUT[text:fc-date]`
+> | **End Date:** | `INPUT[text:fc-end]` |
+> | **Timelines:** | `INPUT[inlineList:timelines]` |
+# `=this.file.name`
+## Session Overview
+`INPUT[textArea:summary]`
+
+## Key Learnings
+Description of any important information that the party learned.
+Who Did They Meet?
+
+## Items Of Importance
+Description
+
+## What Happened
+Small description.
+
 
 # `=this.file.name`
 ## Session Prep:
