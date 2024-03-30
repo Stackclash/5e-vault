@@ -1,10 +1,11 @@
 <%*
-await tp.file.move('1. DM Stuff/Session Journals/' + tp.file.title)
 let date = await tp.system.prompt("What date is this session supposed to happen? (MM-DD-YYYY)")
+let formattedDate = moment(date).format("MM-DD-YYYY")
+await tp.file.move('1. DM Stuff/Session Journals/' + formattedDate)
 -%>
 ---
 obsidianUIMode: preview
-date: <% moment(date).format("MM-DD-YYYY") %>
+date: <% formattedDate %>
 summary:
 fc-date:
 timelines:
