@@ -28,7 +28,7 @@ prep-notes: "[[2024-02-24]]"
 `INPUT[textArea:summary]`
 
 ## Key Learnings
-- Strahd's home kingdom is Mauristatia
+- Strahd's home kingdom is Mauristatia #remember
 - Stahd's childhood was in 473
 - [[Redgrave]] figures out that a lot of Barovians are without souls and that the souls are reborn into new bodies
 - [[Redgrave]] thinks that [[Izek Strazni]] had a doll made for each reincarnation of [[Ireena Kolyana]] 

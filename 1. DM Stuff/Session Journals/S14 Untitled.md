@@ -35,4 +35,5 @@ Who Did They Meet?
 Description
 
 ## What Happened
-- 
+- The party uncovers Khazan and defeat him in his dark dimension
+	- Khazan is now bound to [[5. Mechanics/Bestiary/Legendary Group/Strahd Von Zarovich|Strahd Von Zarovich]] in his castle #secret #remember
