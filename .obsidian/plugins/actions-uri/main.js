@@ -10,6 +10,7 @@ var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
 var __getOwnPropNames = Object.getOwnPropertyNames;
 var __getProtoOf = Object.getPrototypeOf;
 var __hasOwnProp = Object.prototype.hasOwnProperty;
+var __defNormalProp = (obj, key, value) => key in obj ? __defProp(obj, key, { enumerable: true, configurable: true, writable: true, value }) : obj[key] = value;
 var __commonJS = (cb, mod) => function __require() {
   return mod || (0, cb[__getOwnPropNames(cb)[0]])((mod = { exports: {} }).exports, mod), mod.exports;
 };
@@ -34,6 +35,10 @@ var __toESM = (mod, isNodeMode, target) => (target = mod != null ? __create(__ge
   mod
 ));
 var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: true }), mod);
+var __publicField = (obj, key, value) => {
+  __defNormalProp(obj, typeof key !== "symbol" ? key + "" : key, value);
+  return value;
+};
 
 // node_modules/obsidian-dataview/lib/index.js
 var require_lib = __commonJS({
@@ -5938,6 +5943,8 @@ var require_lib = __commonJS({
     });
     var Success = class {
       constructor(value) {
+        __publicField(this, "value");
+        __publicField(this, "successful");
         this.value = value;
         this.successful = true;
       }
@@ -5965,6 +5972,8 @@ var require_lib = __commonJS({
     };
     var Failure = class {
       constructor(error) {
+        __publicField(this, "error");
+        __publicField(this, "successful");
         this.error = error;
         this.successful = false;
       }
@@ -6803,7 +6812,7 @@ var require_lib = __commonJS({
           case "link":
             let link1 = wrap1.value;
             let link2 = wrap2.value;
-            let normalize = linkNormalizer !== null && linkNormalizer !== void 0 ? linkNormalizer : (x) => x;
+            let normalize = linkNormalizer != null ? linkNormalizer : (x) => x;
             let pathCompare = normalize(link1.path).localeCompare(normalize(link2.path));
             if (pathCompare != 0)
               return pathCompare;
@@ -6816,7 +6825,7 @@ var require_lib = __commonJS({
               return -1;
             if (!link1.subpath && !link2.subpath)
               return 0;
-            return ((_a = link1.subpath) !== null && _a !== void 0 ? _a : "").localeCompare((_b = link2.subpath) !== null && _b !== void 0 ? _b : "");
+            return ((_a = link1.subpath) != null ? _a : "").localeCompare((_b = link2.subpath) != null ? _b : "");
           case "date":
             return wrap1.value < wrap2.value ? -1 : wrap1.value.equals(wrap2.value) ? 0 : 1;
           case "duration":
@@ -6855,7 +6864,7 @@ var require_lib = __commonJS({
       Values2.compareValue = compareValue;
       function typeOf(val) {
         var _a;
-        return (_a = wrapValue(val)) === null || _a === void 0 ? void 0 : _a.type;
+        return (_a = wrapValue(val)) == null ? void 0 : _a.type;
       }
       Values2.typeOf = typeOf;
       function isTruthy(field) {
@@ -6982,6 +6991,19 @@ var require_lib = __commonJS({
       Groupings2.count = count;
     })(Groupings || (Groupings = {}));
     var Link = class {
+      constructor(fields) {
+        /** The file path this link points to. */
+        __publicField(this, "path");
+        /** The display name associated with the link. */
+        __publicField(this, "display");
+        /** The block ID or header this link points to within a file, if relevant. */
+        __publicField(this, "subpath");
+        /** Is this link an embedded link (!)? */
+        __publicField(this, "embed");
+        /** The type of this link, which determines what 'subpath' refers to, if anything. */
+        __publicField(this, "type");
+        Object.assign(this, fields);
+      }
       /** Create a link to a specific file. */
       static file(path, embed = false, display) {
         return new Link({
@@ -7024,9 +7046,6 @@ var require_lib = __commonJS({
       }
       static fromObject(object) {
         return new Link(object);
-      }
-      constructor(fields) {
-        Object.assign(this, fields);
       }
       /** Checks for link equality (i.e., that the links are pointing to the same exact location). */
       equals(other) {
@@ -7095,11 +7114,11 @@ var require_lib = __commonJS({
       /** Convert the inner part of the link to something that Obsidian can open / understand. */
       obsidianLink() {
         var _a, _b;
-        const escaped = this.path.replace("|", "\\|");
+        const escaped = this.path.replaceAll("|", "\\|");
         if (this.type == "header")
-          return escaped + "#" + ((_a = this.subpath) === null || _a === void 0 ? void 0 : _a.replace("|", "\\|"));
+          return escaped + "#" + ((_a = this.subpath) == null ? void 0 : _a.replaceAll("|", "\\|"));
         if (this.type == "block")
-          return escaped + "#^" + ((_b = this.subpath) === null || _b === void 0 ? void 0 : _b.replace("|", "\\|"));
+          return escaped + "#^" + ((_b = this.subpath) == null ? void 0 : _b.replaceAll("|", "\\|"));
         else
           return escaped;
       }
@@ -7110,12 +7129,15 @@ var require_lib = __commonJS({
     };
     var Widget = class {
       constructor($widget) {
+        __publicField(this, "$widget");
         this.$widget = $widget;
       }
     };
     var ListPairWidget = class extends Widget {
       constructor(key, value) {
         super("dataview:list-pair");
+        __publicField(this, "key");
+        __publicField(this, "value");
         this.key = key;
         this.value = value;
       }
@@ -7126,12 +7148,14 @@ var require_lib = __commonJS({
     var ExternalLinkWidget = class extends Widget {
       constructor(url, display) {
         super("dataview:external-link");
+        __publicField(this, "url");
+        __publicField(this, "display");
         this.url = url;
         this.display = display;
       }
       markdown() {
         var _a;
-        return `[${(_a = this.display) !== null && _a !== void 0 ? _a : this.url}](${this.url})`;
+        return `[${(_a = this.display) != null ? _a : this.url}](${this.url})`;
       }
     };
     var Widgets;
@@ -7534,6 +7558,14 @@ var require_lib = __commonJS({
       // Simple atom parsing, like words, identifiers, numbers.
       queryType: (q) => parsimmon_umd_minExports.alt(parsimmon_umd_minExports.regexp(/TABLE|LIST|TASK|CALENDAR/i)).map((str) => str.toLowerCase()).desc("query type ('TABLE', 'LIST', 'TASK', or 'CALENDAR')"),
       explicitNamedField: (q) => parsimmon_umd_minExports.seqMap(EXPRESSION.field.skip(parsimmon_umd_minExports.whitespace), parsimmon_umd_minExports.regexp(/AS/i).skip(parsimmon_umd_minExports.whitespace), EXPRESSION.identifier.or(EXPRESSION.string), (field, _as, ident) => QueryFields.named(ident, field)),
+      comment: () => parsimmon_umd_minExports.Parser((input, i) => {
+        let line = input.substring(i);
+        if (!line.startsWith("//"))
+          return parsimmon_umd_minExports.makeFailure(i, "Not a comment");
+        line = line.split("\n")[0];
+        let comment = line.substring(2).trim();
+        return parsimmon_umd_minExports.makeSuccess(i + line.length, comment);
+      }),
       namedField: (q) => parsimmon_umd_minExports.alt(q.explicitNamedField, captureRaw(EXPRESSION.field).map(([value, text]) => QueryFields.named(stripNewlines(text), value))),
       sortField: (q) => parsimmon_umd_minExports.seqMap(EXPRESSION.field.skip(parsimmon_umd_minExports.optWhitespace), parsimmon_umd_minExports.regexp(/ASCENDING|DESCENDING|ASC|DESC/i).atMost(1), (field, dir) => {
         let direction = dir.length == 0 ? "ascending" : dir[0].toLowerCase();
@@ -7593,7 +7625,7 @@ var require_lib = __commonJS({
       }).desc("GROUP BY <value> [AS <name>]"),
       // Full query parsing.
       clause: (q) => parsimmon_umd_minExports.alt(q.fromClause, q.whereClause, q.sortByClause, q.limitClause, q.groupByClause, q.flattenClause),
-      query: (q) => parsimmon_umd_minExports.seqMap(q.headerClause.trim(parsimmon_umd_minExports.optWhitespace), q.fromClause.trim(parsimmon_umd_minExports.optWhitespace).atMost(1), q.clause.trim(parsimmon_umd_minExports.optWhitespace).many(), (header, from, clauses) => {
+      query: (q) => parsimmon_umd_minExports.seqMap(q.headerClause.trim(optionalWhitespaceOrComment), q.fromClause.trim(optionalWhitespaceOrComment).atMost(1), q.clause.trim(optionalWhitespaceOrComment).many(), (header, from, clauses) => {
         return {
           header,
           source: from.length == 0 ? Sources.folder("") : from[0],
@@ -7602,10 +7634,11 @@ var require_lib = __commonJS({
         };
       })
     });
+    var optionalWhitespaceOrComment = parsimmon_umd_minExports.alt(parsimmon_umd_minExports.whitespace, QUERY_LANGUAGE.comment).many().map((arr) => arr.join(""));
     var getAPI2 = (app2) => {
       var _a;
       if (app2)
-        return (_a = app2.plugins.plugins.dataview) === null || _a === void 0 ? void 0 : _a.api;
+        return (_a = app2.plugins.plugins.dataview) == null ? void 0 : _a.api;
       else
         return window.DataviewAPI;
     };
@@ -12531,6 +12564,18 @@ var zodExistingNotePath = z.preprocess(
   lookupAbstractFileForNotePath,
   z.instanceof(import_obsidian3.TFile, { message: "Note doesn't exist" })
 );
+var zodExistingTemplaterPath = z.preprocess(
+  lookupAbstractFileForTemplaterPath,
+  z.instanceof(import_obsidian3.TFile, {
+    message: "Template doesn't exist or Templater isn't enabled"
+  })
+);
+var zodExistingTemplatesPath = z.preprocess(
+  lookupAbstractFileForTemplatesPath,
+  z.instanceof(import_obsidian3.TFile, {
+    message: "Template doesn't exist or Templates isn't enabled"
+  })
+);
 var zodExistingFilePath = z.preprocess(
   lookupAbstractFileForFilePath,
   z.instanceof(import_obsidian3.TFile, { message: "File doesn't exist" })
@@ -12546,24 +12591,46 @@ var zodAlwaysFalse = z.preprocess(
 var zodUndefinedChangedToDefaultValue = (defaultValue) => z.undefined().refine((val) => val === void 0).transform(() => defaultValue);
 var zodEmptyStringChangedToDefaultString = (defaultString) => z.literal("").refine((val) => val === "").transform(() => defaultString);
 function lookupAbstractFileForNotePath(path) {
-  if (typeof path !== "string" || !path) {
-    return null;
-  }
-  const filepath = sanitizeFilePath(path);
-  return activeVault().getAbstractFileByPath(filepath);
+  return typeof path === "string" && path.length > 0 ? sanitizeFilePathAndGetAbstractFile(path) : null;
 }
 function lookupAbstractFileForFilePath(path) {
-  if (typeof path !== "string" || !path) {
-    return null;
-  }
-  const filepath = sanitizeFilePath(path, false);
-  return activeVault().getAbstractFileByPath(filepath);
+  return typeof path === "string" && path.length > 0 ? sanitizeFilePathAndGetAbstractFile(path, false) : null;
 }
 function lookupAbstractFolderForPath(path) {
+  return typeof path === "string" && path.length > 0 ? activeVault().getAbstractFileByPath(path) : null;
+}
+function sanitizeFilePathAndGetAbstractFile(path, isNote) {
+  return activeVault().getAbstractFileByPath(sanitizeFilePath(path, isNote));
+}
+function lookupAbstractFileForTemplaterPath(path) {
+  var _a;
   if (typeof path !== "string" || !path) {
     return null;
   }
-  return activeVault().getAbstractFileByPath(path);
+  const abstractFile = sanitizeFilePathAndGetAbstractFile(path, false) || sanitizeFilePathAndGetAbstractFile(`${path}.md`, false);
+  if (abstractFile)
+    return abstractFile;
+  const res = getEnabledCommunityPlugin("templater-obsidian");
+  if (res.isSuccess) {
+    const folder = (_a = res.result.settings) == null ? void 0 : _a.templates_folder;
+    return sanitizeFilePathAndGetAbstractFile(`${folder}/${path}`, false) || sanitizeFilePathAndGetAbstractFile(`${folder}/${path}.md`, false);
+  }
+  return null;
+}
+function lookupAbstractFileForTemplatesPath(path) {
+  var _a;
+  if (typeof path !== "string" || !path) {
+    return null;
+  }
+  const abstractFile = sanitizeFilePathAndGetAbstractFile(path, false) || sanitizeFilePathAndGetAbstractFile(`${path}.md`, false);
+  if (abstractFile)
+    return abstractFile;
+  const res = getEnabledCorePlugin("templates");
+  if (res.isSuccess) {
+    const folder = (_a = res.result.options) == null ? void 0 : _a.folder;
+    return sanitizeFilePathAndGetAbstractFile(`${folder}/${path}`, false) || sanitizeFilePathAndGetAbstractFile(`${folder}/${path}.md`, false);
+  }
+  return null;
 }
 
 // src/schemata.ts
@@ -12808,8 +12875,8 @@ var import_obsidian5 = require("obsidian");
 
 // src/plugin-info.ts
 var PLUGIN_INFO = {
-  "pluginVersion": "1.5.0",
-  "pluginReleasedAt": "2024-02-19T13:37:05+0100"
+  "pluginVersion": "1.5.1",
+  "pluginReleasedAt": "2024-03-27T11:54:23+0100"
 };
 
 // src/routes/info.ts
@@ -12892,11 +12959,11 @@ var createParams2 = z.discriminatedUnion("apply", [
   }),
   createBaseParams.extend({
     apply: z.literal("templater"),
-    "template-file": zodExistingNotePath
+    "template-file": zodExistingTemplaterPath
   }),
   createBaseParams.extend({
     apply: z.literal("templates"),
-    "template-file": zodExistingNotePath
+    "template-file": zodExistingTemplatesPath
   }),
   createBaseParams.extend({
     apply: zodEmptyStringChangedToDefaultString("content"),
@@ -13328,11 +13395,11 @@ var createParams3 = z.discriminatedUnion("apply", [
   }),
   createBaseParams2.extend({
     apply: z.literal("templater"),
-    "template-file": zodExistingNotePath
+    "template-file": zodExistingTemplaterPath
   }),
   createBaseParams2.extend({
     apply: z.literal("templates"),
-    "template-file": zodExistingNotePath
+    "template-file": zodExistingTemplatesPath
   }),
   createBaseParams2.extend({
     apply: zodEmptyStringChangedToDefaultString("content"),
@@ -14031,13 +14098,26 @@ var ActionsURI = class extends import_obsidian10.Plugin {
       logErrorToConsole(msg);
     }
     const res = {
-      params,
+      params: this.prepParamsForConsole(params),
       handlerResult,
       sendCallbackResult: this.sendUrlCallbackIfNeeded(handlerResult, params),
       openResult: await this.openFileIfNeeded(handlerResult, params)
     };
     logToConsole("Call handled:", res);
     return res;
+  }
+  /**
+   * To prevent circular references and max call stack errors related to files,
+   * we'll to convert all `TAbstractFile` instances to path strings which is what
+   * they were in the original incoming call anyways.
+   */
+  prepParamsForConsole(params) {
+    const newParams = { ...params };
+    Object.keys(params).forEach((key) => {
+      const value = params[key];
+      newParams[key] = value instanceof import_obsidian10.TAbstractFile ? value.path : value;
+    });
+    return newParams;
   }
   /**
    * When the parameters of an incoming `x-callback-url` call fail to parse or

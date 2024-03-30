@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
-date: '2024-01-21'
-summary: ''
-fc-date: ''
+date: 2024-01-21
+summary: ""
+fc-date: 973-2-17
 timelines:
   - COS
 aat-render-enabled: true
 fc-category: Session
-party: '[[Curse of Strahd]]'
-prep-notes: '[[2024-01-21]]'
+party: "[[Curse of Strahd]]"
+prep-notes: "[[2024-01-21]]"
 ---
 > [!infobox]
 > ## Info
