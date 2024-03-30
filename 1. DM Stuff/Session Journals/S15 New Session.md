@@ -1,17 +1,13 @@
-<%*
-await tp.file.move('1. DM Stuff/Session Journals/' + tp.file.title)
-let date = await tp.system.prompt("What date is this session supposed to happen? (MM-DD-YYYY)")
--%>
 ---
 obsidianUIMode: preview
-date: <% moment(date).format("MM-DD-YYYY") %>
-summary:
-fc-date:
-timelines:
+date: 03-30-2024
+summary: 
+fc-date: 
+timelines: 
 aat-render-enabled: true
 fc-category: Session
-party:
-prep-notes:
+party: 
+prep-notes: "[[1. DM Stuff/Session Prep/2024-03-30.md|2024-03-30]]"
 ---
 > [!infobox]
 > ## Info

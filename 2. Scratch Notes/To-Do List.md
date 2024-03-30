@@ -30,9 +30,9 @@
 - [x] Fix location NPCs table to include child locations
 - [x] Create NPC relationship graph in mermaid
 - [ ] Fix meta-bind fields to take up necessary space
-- [ ] Make ttrpg-convert import script use existing metadata when file is replaced
+- [x] Make ttrpg-convert import script use existing metadata when file is replaced
 - [ ] Fix Relationships map on NPCs to be centered
 - [x] Create "Remove Relationships" Templater template
-- [ ] Use meta-bind menu for Session Notes
+- [x] Use meta-bind menu for Session Notes
 - [ ] Fix Inventory table on Shops to fit with ITS Theme info boxes
 - [ ] get_all_files might not be working correctly

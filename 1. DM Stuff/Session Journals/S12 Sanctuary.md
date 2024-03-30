@@ -101,4 +101,4 @@ New Locations Discovered.
 - Example 2
 
 ## End of Session Notes
-Anything to take note of as the session has come to a close.
+Anything to take note of as the session has come to a close. 
