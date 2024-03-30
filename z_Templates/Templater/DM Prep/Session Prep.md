@@ -8,7 +8,9 @@ date: <% formattedDate %>
 ---
 ## Resources
 
+
 ## Details to Remember
+
 
 ## Strong Start  
 
