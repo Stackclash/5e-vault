@@ -8,7 +8,7 @@ const journalMeta = {
     date: '',
     summary: '',
     'fc-date': '',
-    timelines: '',
+    timelines: [],
     'aat-render-enabled': true,
     'fc-category': 'Session',
     party: '[[Curse of Strahd]]',
@@ -116,6 +116,7 @@ for (const journal of journals) {
         newJournalMeta['aat-render-enabled'] = true,
         newJournalMeta['fc-category'] = 'Session',
         newJournalMeta['party'] = '[[Curse of Strahd]]'
+        newJournalMeta['timelines'].push('CoS')
     }
 
     // console.log(newJournalName, matter.stringify(newJournalContent, newJournalMeta))

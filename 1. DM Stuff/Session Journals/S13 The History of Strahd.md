@@ -3,7 +3,8 @@ obsidianUIMode: preview
 date: '2024-02-24'
 summary: ''
 fc-date: ''
-timelines: ''
+timelines:
+  - COS
 aat-render-enabled: true
 fc-category: Session
 party: '[[Curse of Strahd]]'
