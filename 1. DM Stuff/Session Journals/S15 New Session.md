@@ -34,4 +34,5 @@ Who Did They Meet?
 Description
 
 ## What Happened
-Small description.
+- The party creates rudimentary bear traps (12) out of furniture in the tower. They use 6 wolfsbane to coat 6 of the traps.
+- 
