@@ -187,6 +187,45 @@
           "ctime": 1712002729146,
           "path": "6. Resources/Books/Dungeon Masters Guide/03 Creating A Multiverse.md",
           "title": "2. Creating a Multiverse"
+        },
+        {
+          "type": "file",
+          "ctime": 1712002769055,
+          "path": "6. Resources/Books/Mordenkainens Tome Of Foes/1 The Blood War.md",
+          "title": "3. The Blood War"
+        },
+        {
+          "type": "file",
+          "ctime": 1712002786736,
+          "path": "6. Resources/Books/Mordenkainens Tome Of Foes/4 Gith And Their Endless War.md",
+          "title": "4. Gith and Their Endless War"
+        },
+        {
+          "type": "file",
+          "ctime": 1712002837375,
+          "path": "6. Resources/Books/Tashas Cauldron Of Everything/4 Magical Miscellany.md",
+          "subpath": "#Magic Items",
+          "title": "5. Magic Items"
+        },
+        {
+          "type": "file",
+          "ctime": 1712002856177,
+          "path": "6. Resources/Books/Dungeon Masters Guide/10 Dungeon Masters Workshop.md",
+          "title": "6. DM Workshop"
+        },
+        {
+          "type": "file",
+          "ctime": 1712002935311,
+          "path": "6. Resources/Books/Xanathars Guide To Everything/3 Dungeon Masters Tools.md",
+          "subpath": "#Downtime Revisited",
+          "title": "7. Downtime Revisted"
+        },
+        {
+          "type": "file",
+          "ctime": 1712002991652,
+          "path": "6. Resources/Books/Xanathars Guide To Everything/3 Dungeon Masters Tools.md",
+          "subpath": "#Tool Proficiencies",
+          "title": "8. Tool Proficiencies"
         }
       ],
       "title": "Part 4: Higher Levels & Homebrew"
