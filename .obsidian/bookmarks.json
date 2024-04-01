@@ -41,6 +41,30 @@
           "path": "6. Resources/Books/Dungeon Masters Guide/02 A World Of Your Own.md",
           "subpath": "#Campaign Events",
           "title": "6. Campaign Events"
+        },
+        {
+          "type": "file",
+          "ctime": 1712001296228,
+          "path": "6. Resources/Books/Dungeon Masters Guide/04 Creating Adventures.md",
+          "title": "7. Creating Adventures"
+        },
+        {
+          "type": "file",
+          "ctime": 1712001326007,
+          "path": "6. Resources/Books/Monster Manual/1 Introduction.md",
+          "title": "8. Monster Manual Introduction"
+        },
+        {
+          "type": "file",
+          "ctime": 1712001354302,
+          "path": "6. Resources/Books/Dungeon Masters Guide/05 Creating Nonplayer Characters.md",
+          "title": "9. Creating NPCs"
+        },
+        {
+          "type": "file",
+          "ctime": 1712001393589,
+          "path": "6. Resources/Books/Monster Manual/3 Appendix B Nonplayer Characters.md",
+          "title": "10. Monster Manual - NPCs"
         }
       ],
       "title": "Part 1: Learning the Game"
