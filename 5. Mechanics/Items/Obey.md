@@ -13,7 +13,7 @@ aliases:
 ---
 # Obey
 *Melee Weapon, very rare (requires attunement by a lawful creature)*  
-![[5. Mechanics/Items/img/obey.jpg#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/obey.jpg#right)  
 
 - **Damage**:
   - One-handed: 1d8 S

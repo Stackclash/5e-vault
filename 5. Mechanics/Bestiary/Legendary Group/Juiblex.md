@@ -44,8 +44,3 @@ If a creature goes mad in Juiblex's lair or within line of sight of the demon lo
 | 61–80 | "I must possess as many material goods as I can." |
 | 81–00 | "My personality is irrelevant. I am defined by what I consume." |
 ^madness-of-juiblex
-
-## Is homebrew
-_Source: Mordenkainen's Tome of Foes_
-
-false

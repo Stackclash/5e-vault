@@ -58,7 +58,7 @@ The following are some NPCs that a DM can easily slot into any campaign or setti
 
     Harry spends most of his time these days wandering the planes, looking for more rare plants to catalogue and research. He funds his travels by selling some of the more powerful herbs he finds along the way. In fact, his spice pouch of holding seems to have a never-ending supply of useful plants for any occasion, and his upstanding Holderhek morals means he always parts with them for a reasonable price.  
 
-![[6. Resources/Books/Hamunds Herbalism Handbook/img/herbalvendor.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHbH/HerbalVendor.webp#center)
 
 ### Tincture Brewer
 
@@ -68,4 +68,4 @@ The following are some NPCs that a DM can easily slot into any campaign or setti
 
     Also, despite their pallid skin, stiff movements, and raspy voice, they will assure you that they are most definitely alive and NOT a sentient zombie. I highly advise you not to contest them on this point, lest you risk finding their spit mixed in with your tincture order.  
 
-![[6. Resources/Books/Hamunds Herbalism Handbook/img/tincturebrewer.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHbH/TinctureBrewer.webp#center)

@@ -11,7 +11,7 @@ aliases:
 ---
 # Singing Skull
 *Wondrous Item, uncommon, Crafted by*  
-![[5. Mechanics/Items/img/singingskull.webp#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/SingingSkull.webp#right)  
 
 - **Properties**: Crafted by
 

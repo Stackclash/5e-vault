@@ -13,7 +13,7 @@ aliases:
   - Archer
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Archer.md|Archer]]
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 49*
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 49, Volo's Guide to Monsters p. 210*
 
 Archers defend castles, hunt wild game on the fringes of civilization, serve as artillery in military units, and occasionally make good coin as brigands or caravan guards.
 

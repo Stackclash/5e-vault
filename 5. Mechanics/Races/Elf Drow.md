@@ -11,7 +11,6 @@ aliases:
 *Source: Player's Handbook p. 24*  
 
 - **Ability Scores**: Charisma +1
-- **Type**: subrace
 - **Size**: Medium
 - **Speed**: 30 ft.
 - **Spellcasting**: Charisma

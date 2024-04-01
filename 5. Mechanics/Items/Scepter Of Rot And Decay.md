@@ -13,7 +13,7 @@ aliases:
 ---
 # Scepter of Rot and Decay
 *Melee Weapon, artifact, Crafted Artifact (requires attunement by a spellcaster)*  
-![[5. Mechanics/Items/img/scepterofrotanddecay.webp#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/ScepterofRotandDecay.webp#right)  
 
 - **Damage**:
   - One-handed: 1d6 B

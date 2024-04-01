@@ -13,7 +13,7 @@ aliases:
 ---
 # Sword of the Demon Knight
 *Melee Weapon, very rare (requires attunement by an evil creature)*  
-![[5. Mechanics/Items/img/sword-demon-knight.jpg#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/sword-demon-knight.jpg#right)  
 
 - **Damage**:
   - One-handed: 1d8 S

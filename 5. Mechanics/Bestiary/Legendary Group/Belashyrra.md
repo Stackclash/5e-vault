@@ -28,8 +28,3 @@ Belashyrra's lair is known to touch remote areas of the Shadow Marches and caver
 - A humanoid who spends at least 1 hour within 1 mile of the passage must succeed on a DC 21 Wisdom saving throw or descend into a type of madness (see "Madness of Belashyrra" below). A creature that succeeds on this saving throw can't be affected by this regional effect again for 24 hours.  
 
 If Belashyrra dies, these effects fade over the course of `dice: 1d10|avg` (`1d10`) days.
-
-## Is homebrew
-_Source: Eberron: Rising from the Last War_
-
-false

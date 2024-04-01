@@ -12,7 +12,7 @@ aliases:
   - Elder Brain
 ---
 # [[5. Mechanics\Bestiary\Aberration\Elder Brain.md|Elder Brain]]
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 120*
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 120, Volo's Guide to Monsters p. 173*
 
 The ultimate expression of mind flayer domination, an elder brain sprawls within a vat of viscous brine, cared for by mind flayer minions as it touches the thoughts of creatures near and far. It scrawls upon the canvas of the creatures' minds, rewriting their thoughts and authoring their dreams.
 
@@ -135,6 +135,40 @@ An elder brain's ambitions are always tempered by its relative immobility. Altho
   "name": "Sever Psychic Link"
 - "desc": "The elder brain makes one Tentacle attack."
   "name": "Tentacle (Costs 2 Actions)"
+"lair_actions":
+- "desc": "On initiative count 20 (losing initiative ties), an elder brain can take\
+    \ one of the following lair actions; the elder brain can't take the same lair\
+    \ action two rounds in a row:"
+  "name": ""
+- "desc": "- Force Wall. The elder brain casts [[5. Mechanics/Spells/Wall Of Force.md|wall of force]].\
+    \  \n- Psionic Anchor. The elder brain targets one creature it can sense within\
+    \ 120 feet of it and anchors it by sheer force of will. The target must make a\
+    \ DC 18 Charisma saving throw. On a failed save, its speed is reduced to 0, and\
+    \ it can't teleport. It can repeat the saving throw at the end of each of its\
+    \ turns, ending the effect on itself on a success.  \n- Psychic Inspiration.\
+    \ The elder brain targets one friendly creature it can sense within 120 feet of\
+    \ it. The target has a flash of inspiration and gains advantage on one attack\
+    \ roll, ability check, or saving throw it makes before the end of its next turn.\
+    \  "
+  "name": ""
+"regional_effects":
+- "desc": "The territory within 5 miles of an elder brain is altered by the creature's\
+    \ psionic presence, which creates one or more of the following effects:"
+  "name": ""
+- "desc": "- Paranoia. Creatures within 5 miles of an elder brain feel as if they\
+    \ are being followed, even when they're not.  \n- Psychic Whispers. Any creature\
+    \ with which the elder brain has formed a psychic link hears faint, incomprehensible\
+    \ whispers in the deepest recesses of its mind. This psychic detritus consists\
+    \ of the elder brain's stray thoughts commingled with those of other creatures\
+    \ to which it is linked.  \n- Telepathic Eavesdropping. The elder brain can\
+    \ overhear any telepathic conversation within 5 miles of it. The creature that\
+    \ initiated the telepathic conversation makes a DC 18 Wisdom saving throw when\
+    \ telepathic contact is first established. If the save is successful, the creature\
+    \ is aware that something is eavesdropping. The nature of the eavesdropper isn't\
+    \ revealed.  "
+  "name": ""
+- "desc": "If the elder brain dies, these effects immediately end."
+  "name": ""
 "source":
 - "MPMM"
 - "VGM"

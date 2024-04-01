@@ -14,7 +14,7 @@ aliases:
 ---
 # The Tyrant's Twinblades, Vincere and Punire
 *Melee Weapon, very rare (requires attunement by an evil creature)*  
-![[5. Mechanics/Items/img/tyrant-twinblades.jpg#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tyrant-twinblades.jpg#right)  
 
 - **Damage**: 1d6 P
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], Martial

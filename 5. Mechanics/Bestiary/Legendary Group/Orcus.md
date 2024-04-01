@@ -45,8 +45,3 @@ If a creature goes mad in Orcus's lair or within line of sight of the demon lord
 | 61–80 | "I want to achieve the everlasting existence of undeath." |
 | 81–00 | "I am awash in the awareness of life's futility." |
 ^madness-of-orcus
-
-## Is homebrew
-_Source: Mordenkainen's Tome of Foes_
-
-false

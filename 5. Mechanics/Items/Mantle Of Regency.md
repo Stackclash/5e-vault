@@ -11,7 +11,7 @@ aliases:
 ---
 # Mantle of Regency
 *Wondrous Item, rare (requires attunement)*  
-![[5. Mechanics/Items/img/mantle-regency.jpg#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/mantle-regency.jpg#right)  
 
 
 This billowing red cloak has a mind of its own. It grants the user 30 feet of fly (hover) speed while worn. As an action, the owner can summon the mantle to them, though how long it takes to arrive depends on how far away it is (it flies much faster when not being worn).

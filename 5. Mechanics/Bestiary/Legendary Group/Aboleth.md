@@ -28,8 +28,3 @@ The region containing an aboleth's lair is warped by the creature's presence, wh
 - As an action, the aboleth can create an illusory image of itself within 1 mile of the lair. The copy can appear at any location the aboleth has seen before or in any location a creature [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] by the aboleth can currently see. Once created, the image lasts for as long as the aboleth maintains [[/5. Mechanics/Rules/Conditions.md#concentration|concentration]], as if concentrating on a spell. Although the image is intangible, it looks, sounds, and can move like the aboleth. The aboleth can sense, speak, and use telepathy from the image's position as if present at that position. If the image takes any damage, it disappears.  
 
 If the aboleth dies, the first two effects fade over the course of `dice: 3d10|avg` (`3d10`) days.
-
-## Is homebrew
-_Source: Monster Manual_
-
-false

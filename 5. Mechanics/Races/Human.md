@@ -12,7 +12,6 @@ aliases:
 ![[5. Mechanics/Races/img/human.webp#right]]  
 
 - **Ability Scores**: Strength +1, Dexterity +1, Constitution +1, Intelligence +1, Wisdom +1, Charisma +1
-- **Type**: subrace
 - **Size**: Medium
 - **Speed**: 30 ft.
 

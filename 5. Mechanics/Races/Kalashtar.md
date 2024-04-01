@@ -12,7 +12,6 @@ aliases:
 ![[5. Mechanics/Races/img/kalashtar.webp#right]]  
 
 - **Ability Scores**: Wisdom +2, Charisma +1
-- **Type**: race
 - **Size**: Medium
 - **Speed**: 30 ft.
 

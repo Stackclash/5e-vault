@@ -12,7 +12,6 @@ aliases:
 ![[5. Mechanics/Races/img/dragonborn.webp#right]]  
 
 - **Ability Scores**: Strength +2, Charisma +1
-- **Type**: subrace
 - **Size**: Medium
 - **Speed**: 30 ft.
 

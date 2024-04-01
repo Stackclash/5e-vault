@@ -86,6 +86,22 @@ Being oldest, they are also the most reserved, taciturn. Even the young sapphire
     \ + 8|avg (2d6 + 8) force damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
     \ The dragon then can move up to half its movement speed."
   "name": "Psionic Shift (Costs 2 Actions)"
+"lair_actions":
+- "desc": "On initiative count 20 (losing initiative ties), the dragon takes a lair\
+    \ action to cause one of the following effects. The dragon can't use the same\
+    \ effect two rounds in a row."
+  "name": ""
+- "desc": "- The dragon manifests [[5. Mechanics/Optional Features/Flay.md|flay]]\
+    \ in a 120-foot cone, doing 1d6 damage per charge spent.  \n- The dragon manifests\
+    \ [[5. Mechanics/Optional Features/Reflection.md|reflection]] at no cost. It\
+    \ cannot use this action again for a week.  \n- The dragon casts [[5. Mechanics/Spells/Plane Shift.md|plane shift]]\
+    \ with DC 22.  "
+  "name": ""
+"regional_effects":
+- "desc": "Intelligent creatures who sleep within 12 miles of a sapphire dragon's\
+    \ lair dream of the past and future. They know the things they see in these dreams\
+    \ are real events that have, or will, occur."
+  "name": ""
 "source":
 - "SaF"
 "image": "5. Mechanics/Bestiary/Dragon/token/adult-sapphire-dragon-saf.webp"

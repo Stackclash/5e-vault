@@ -12,7 +12,6 @@ aliases:
 ![[5. Mechanics/Races/img/lizardfolk.webp#right]]  
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
-- **Type**: race
 - **Size**: Medium
 - **Speed**: walk: 30 ft.; swim equal to your walking speed
 

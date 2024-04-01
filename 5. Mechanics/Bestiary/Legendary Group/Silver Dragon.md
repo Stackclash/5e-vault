@@ -33,8 +33,3 @@ The region containing a legendary silver dragon's lair is warped by the dragon's
 - Given days or longer to work, the dragon can make clouds and fog within its lair as solid as stone, forming structures and other objects as it wishes.  
 
 If the dragon dies, changed weather reverts to normal, as described in the spell, and the other effects fade in `dice: 1d10|avg` (`1d10`) days.
-
-## Is homebrew
-_Source: Monster Manual_
-
-false

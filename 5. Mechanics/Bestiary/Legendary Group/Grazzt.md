@@ -45,8 +45,3 @@ If a creature goes mad in Graz'zt's lair or within line of sight of the demon lo
 | 81–90 | "My own pleasure is of paramount importance. Everything else, including social graces, is a triviality." |
 | 91–00 | "Anything that can bring me happiness should be enjoyed immediately. There is no point to saving anything pleasurable for later." |
 ^madness-of-grazzt
-
-## Is homebrew
-_Source: Mordenkainen's Tome of Foes_
-
-false

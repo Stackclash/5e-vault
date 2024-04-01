@@ -170,6 +170,39 @@ A mummy lord watches over an ancient temple or tomb that is protected by lesser 
     \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]], or [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]].\
     \ Equipment worn or carried by the mummy lord remain in its possession."
   "name": "Whirlwind of Sand (Costs 2 Actions)"
+"lair_actions":
+- "desc": "On initiative count 20 (losing initiative ties), the mummy lord takes a\
+    \ lair action to cause one of the following effects; the mummy lord can't use\
+    \ the same effect two rounds in a row:"
+  "name": ""
+- "desc": "- Each undead creature in the lair can pinpoint the location of each living\
+    \ creature within 120 feet of it until initiative count 20 on the next round.\
+    \  \n- Each undead in the lair has advantage on saving throws against effects\
+    \ that turn undead until initiative count 20 on the next round.  \n- Until initiative\
+    \ count 20 on the next round, any non-undead creature that tries to cast a spell\
+    \ of 4th level or lower in the mummy lord's lair is wracked with pain. The creature\
+    \ can choose another action, but if it tries to cast the spell, it must make a\
+    \ DC 16 Constitution saving throw. On a failed save, it takes dice: 1d6|avg\
+    \ (1d6) necrotic damage per level of the spell, and the spell has no effect\
+    \ and is wasted.  "
+  "name": ""
+"regional_effects":
+- "desc": "A mummy lord's temple or tomb is warped in any of the following ways by\
+    \ the creature's dark presence:"
+  "name": ""
+- "desc": "- Food instantly molders and water instantly evaporates when brought into\
+    \ the lair. Other non magical drinks are spoiled - wine turning to vinegar, for\
+    \ instance.  \n- [[5. Mechanics/Spells/Divination.md|Divination]] spells cast within\
+    \ the lair by creatures other than the mummy lord have a 25% chance chance to\
+    \ provide misleading results, as determined by the DM. If a [[5. Mechanics/Spells/Divination.md|divination]]\
+    \ spell already has a chance to fail or become unreliable when cast multiple times,\
+    \ that chance increases by 25 percent.  \n- A creature that takes treasure from\
+    \ the lair is cursed until the treasure is returned. The cursed target has disadvantage\
+    \ on all saving throws. The curse lasts until removed by a [[5. Mechanics/Spells/Remove Curse.md|remove curse]]\
+    \ spell or other magic.  "
+  "name": ""
+- "desc": "If the mummy lord is destroyed, these regional effects end immediately."
+  "name": ""
 "source":
 - "MM"
 - "RoT"

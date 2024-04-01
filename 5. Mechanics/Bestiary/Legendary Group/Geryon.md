@@ -28,8 +28,3 @@ The region containing Geryon's lair is warped by his magic, creating one or more
 - Howls and screams fill the air within 1 mile of the lair. Any creature that finishes a short or long rest in this area must succeed on a DC 21 Wisdom saving throw or derive no benefit from the rest.  
 
 If Geryon dies, these effects fade over the course of `dice: 1d10|avg` (`1d10`) days.
-
-## Is homebrew
-_Source: Mordenkainen's Tome of Foes_
-
-false

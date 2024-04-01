@@ -165,6 +165,59 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ + 8) bludgeoning damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
     \ The dragon can then fly up to half its flying speed."
   "name": "Wing Attack (Costs 2 Actions)"
+"lair_actions":
+- "desc": "On initiative count 20 (losing initiative ties), the dragon takes a lair\
+    \ action to cause one of the following effects:"
+  "name": ""
+- "desc": "- The dragon chooses a point on the ground that it can see within 120 feet\
+    \ of it. Stone spikes sprout from the ground in a 20-foot radius centered on that\
+    \ point. The effect is otherwise identical to the [[5. Mechanics/Spells/Spike Growth.md|spike growth]]\
+    \ spell and lasts until the dragon uses this lair action again or until the dragon\
+    \ dies.  \n- The dragon chooses a 10-foot-square area on the ground that it can\
+    \ see within 120 feet of it. The ground in that area turns into 3-foot-deep mud.\
+    \ Each creature on the ground in that area when the mud appears must succeed on\
+    \ a DC 15 Dexterity saving throw or sink into the mud and become [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]].\
+    \ A creature can take an action to attempt a DC 15 Strength check, freeing itself\
+    \ or another creature within its reach and ending the [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
+    \ condition on a success. Moving 1 foot in the mud costs 2 feet of movement. On\
+    \ initiative count 20 on the next round, the mud hardens, and the Strength DC\
+    \ to work free increases to 20.  "
+  "name": ""
+- "desc": "At your discretion, a legendary ([[5. Mechanics/Bestiary/Dragon/Adult Copper Dragon.md|adult]]\
+    \ or [[5. Mechanics/Bestiary/Dragon/Ancient Copper Dragon.md|ancient]]) copper dragon\
+    \ can use one or both of the following additional lair actions while in its lair:\n\
+    \n- Laughing Gas. The dragon chooses a point on the ground that it can see\
+    \ within 120 feet of it. A cloud of pink gas fills a 20-foot-radius sphere centered\
+    \ on that point. Each creature in that area that fails a DC 15 Wisdom saving throw\
+    \ is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] with laughter\
+    \ until the end of its next turn.  \n- Torpid Energy. The dragon chooses a\
+    \ creature it can see within 120 feet of it. If the target fails a DC 15 Constitution\
+    \ saving throw, its speed is halved, and it can't use reactions or bonus actions\
+    \ until the end of its next turn.  "
+  "name": "Additional Lair Actions"
+"regional_effects":
+- "desc": "The region containing a legendary copper dragon's lair is warped by the\
+    \ dragon's magic, which creates one or more of the following effects:"
+  "name": ""
+- "desc": "- Magic carvings of the dragon's smiling visage can be seen worked into\
+    \ stone terrain and objects within 6 miles of the dragon's lair.  \n- Tiny beasts\
+    \ such as rodents and birds that are normally unable to speak gain the magical\
+    \ ability to speak and understand Draconic while within 1 mile of the dragon's\
+    \ lair. These creatures speak well of the dragon, but can't divulge its whereabouts.\
+    \  \n- Intelligent creatures within 1 mile of the dragon's lair are prone to fits\
+    \ of giggling. Even serious matters suddenly seem amusing.  "
+  "name": ""
+- "desc": "If the dragon dies, the magic carvings fade over the course of dice: 1d10|avg\
+    \ (1d10) days. The other effects end immediately."
+  "name": ""
+- "desc": "Either of these effects might appear in the area around a copper dragon's\
+    \ lair, in addition to or instead of the effects described in the Monster Manual:\n\
+    \n- Distant Melodies. The ethereal music of woodwinds and bells can be heard\
+    \ carried on the wind within 1 mile of the dragon's lair.  \n- Starlit Stones.\
+    \ Standing stones are common on hilltops within 1 mile of the dragon's lair. The\
+    \ stones shed dim light in a 10-foot radius at night. (If the dragon dies, the\
+    \ stones remain, but they no longer shed light.)  "
+  "name": "Additional Regional Effects"
 "source":
 - "MM"
 - "BGDIA"

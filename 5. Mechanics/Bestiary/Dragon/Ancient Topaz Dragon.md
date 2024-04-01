@@ -84,6 +84,24 @@ They're approachable and easy to talk to as long as you don't mind never getting
     \ + 6|avg (2d6 + 6) force damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
     \ The dragon then can move up to half its movement speed."
   "name": "Psionic Shift (Costs 2 Actions)"
+"lair_actions":
+- "desc": "On initiative count 20 (losing initiative ties), the dragon takes a lair\
+    \ action to cause one of the following effects. The dragon can't use the same\
+    \ effect two rounds in a row."
+  "name": ""
+- "desc": "- The dragon manifests [[5. Mechanics/Optional Features/Another World.md|another world]]\
+    \ at no cost. It affects up to four creatures.  \n- The dragon remembers a 5th-level\
+    \ spell it once researched, and casts it. Its spellcasting ability is Intelligence,\
+    \ and the save DC to resist its spells is 21.  \n- The dragon remembers [[5. Mechanics/Spells/Counterspell.md|counterspell]]\
+    \ and can cast it as a reaction within the next minute. The dragon's spellcasting\
+    \ ability is Intelligence.  "
+  "name": ""
+"regional_effects":
+- "desc": "Intelligent creatures who sleep within 12 miles of a topaz dragon's lair\
+    \ dream of ancient lore they never studied, and in these dreams they hold conversations\
+    \ with sages speaking languages the dreamer does not know, but in the dream can\
+    \ speak and understand."
+  "name": ""
 "source":
 - "SaF"
 "image": "5. Mechanics/Bestiary/Dragon/token/adult-topaz-dragon-saf.webp"

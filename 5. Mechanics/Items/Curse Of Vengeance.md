@@ -11,7 +11,7 @@ aliases:
 ---
 # Curse of Vengeance
 *Curse, uncommon, Crafted by*  
-![[5. Mechanics/Items/img/curseofvengeance.webp#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/CurseofVengeance.webp#right)  
 
 - **Properties**: Crafted by
 

@@ -44,8 +44,3 @@ If a creature goes mad in Demogorgon's lair or within line of sight of the demon
 | 61–80 | "If you don't agree with me, I'll beat you into submission to get my way." |
 | 81–00 | "I can't allow anyone to touch anything that belongs to me. They might try to take it away from me!" |
 ^madness-of-demogorgon
-
-## Is homebrew
-_Source: Mordenkainen's Tome of Foes_
-
-false

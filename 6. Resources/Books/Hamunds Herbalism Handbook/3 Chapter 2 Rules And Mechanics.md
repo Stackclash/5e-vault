@@ -60,4 +60,4 @@ Many herbs are quick and simple to apply, usually just using an action to eat th
 
 To prepare a herb, a character must have a [[5. Mechanics/Items/Herbalism Kit.md\|herbalism kit]] in their possession and spend an hour during a short or long rest processing the herb appropriately. This is considered a light and non-strenuous activity for the purpose of calculating rest requirements. If done during a short rest, that character may still recover hit points by expending hit die as usual. Once the rest has been finished, the herb must be used immediately. The character preparing the herb and the character using the herb do not need to be the same—one character can prepare the herb, while another uses it at the end of the rest.
 
-![[6. Resources/Books/Hamunds Herbalism Handbook/img/usingherbs.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHbH/UsingHerbs.webp#center)

@@ -12,7 +12,7 @@ aliases:
 ![[5. Mechanics/Races/img/satyr.webp#right]]  
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
-- **Type**: race
+- **Type**: fey
 - **Size**: Medium
 - **Speed**: 35 ft.
 

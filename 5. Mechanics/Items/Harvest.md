@@ -12,7 +12,7 @@ aliases:
 ---
 # Harvest
 *Melee Weapon, very rare (requires attunement by an evil creature)*  
-![[5. Mechanics/Items/img/harvest.jpg#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/harvest.jpg#right)  
 
 - **Damage**: 1d4 S
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]

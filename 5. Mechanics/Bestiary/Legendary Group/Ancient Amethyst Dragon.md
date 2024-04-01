@@ -22,8 +22,3 @@ On initiative count 20 (losing initiative ties), the dragon takes a lair action 
 
 
 Intelligent creatures who sleep within 12 miles of an amethyst dragon's lair dream of an opulent party with a charming host to whom they willingly and happily reveal their deepest secrets.
-
-## Is homebrew
-
-
-true

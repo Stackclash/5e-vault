@@ -49,7 +49,7 @@ You can create additional *experimental elixirs* by expending a spell slot of 1s
 
 **Experimental Elixir**
 
-`dice: [[Artificer.md#^experimental-elixir]]`
+`dice: [[Artificer Alchemist.md#^experimental-elixir]]`
 
 | dice: d6 | Effect |
 |----------|--------|

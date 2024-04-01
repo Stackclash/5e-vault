@@ -11,7 +11,7 @@ aliases:
 ---
 # Ink of Secret Knowledge
 *Wondrous Item, rare, Crafted by*  
-![[5. Mechanics/Items/img/inkofsecretknowledge.webp#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/InkofSecretKnowledge.webp#right)  
 
 - **Properties**: Crafted by
 

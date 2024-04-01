@@ -21,9 +21,4 @@ On initiative count 20 (losing initiative ties), the dragon takes a lair action 
 ## Regional effects
 
 
-Intelligent creatures who sleep within 12 miles of a ruby dragon's lair dream of people they know transforming into other people, of places they've been dissolving to reveal barren wastelands. 
-
-## Is homebrew
-
-
-true
+Intelligent creatures who sleep within 12 miles of a ruby dragon's lair dream of people they know transforming into other people, of places they've been dissolving to reveal barren wastelands.

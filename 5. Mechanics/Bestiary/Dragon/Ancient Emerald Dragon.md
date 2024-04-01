@@ -85,6 +85,21 @@ Their interest in our world and its relation to others makes them experts on the
     \ + 7|avg (2d6 + 7) force damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
     \ The dragon then can move up to half its movement speed."
   "name": "Psionic Shift (Costs 2 Actions)"
+"lair_actions":
+- "desc": "On initiative count 20 (losing initiative ties), the dragon takes a lair\
+    \ action to cause one of the following effects. The dragon can't use the same\
+    \ effect two rounds in a row."
+  "name": ""
+- "desc": "- The dragon summons a water elemental.  \n- The dragon casts [control\
+    \ water](compendium/spells/control-water.md) (save DC 22). It does not require\
+    \ concentration to maintain.  \n- The dragon casts [[5. Mechanics/Spells/Thunderwave.md|thunderwave]]\
+    \ with DC 22. The area is a 30-foot cube, and the damage is 4d8.  "
+  "name": ""
+"regional_effects":
+- "desc": "Intelligent creatures who sleep within 12 miles of an emerald dragon's\
+    \ lair dream of unending depths, tidal waves, starfish and crustaceans, or a calm\
+    \ sea under solid white sky with constellations under the waters."
+  "name": ""
 "source":
 - "SaF"
 "image": "5. Mechanics/Bestiary/Dragon/token/adult-emerald-dragon-saf.webp"

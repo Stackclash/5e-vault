@@ -12,7 +12,7 @@ aliases:
   - Wood Woad
 ---
 # [[5. Mechanics\Bestiary\Plant\Wood Woad.md|Wood Woad]]
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 266*
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 266, Volo's Guide to Monsters p. 198*
 
 A wood woad is a powerful bipedal Plant invested with the soul of someone who gave up life to become an everlasting guardian.
 

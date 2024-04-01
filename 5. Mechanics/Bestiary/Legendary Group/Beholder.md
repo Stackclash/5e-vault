@@ -29,8 +29,3 @@ A region containing a beholder's lair is warped by the creature's unnatural pres
 - When the beholder sleeps, minor warps in reality occur within 1 mile of its lair and then vanish 24 hours later. Marks on cave walls might change subtly, an eerie trinket might appear where none existed before, harmless slime might coat a statue, and so on. These effects apply only to natural surfaces and to nonmagical objects that aren't on anyone's person.  
 
 If the beholder dies, these effects fade over the course of `dice: 1d10|avg` (`1d10`) days.
-
-## Is homebrew
-_Source: Monster Manual_
-
-false

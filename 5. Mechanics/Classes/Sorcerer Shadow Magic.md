@@ -22,7 +22,7 @@ The power of shadow magic casts a strange pall over your physical presence. The 
 
 **Shadow Sorcerer Quirks**
 
-`dice: [[Sorcerer.md#^shadow-sorcerer-quirks]]`
+`dice: [[Sorcerer Shadow Magic.md#^shadow-sorcerer-quirks]]`
 
 | dice: d6 | Quirk |
 |----------|-------|

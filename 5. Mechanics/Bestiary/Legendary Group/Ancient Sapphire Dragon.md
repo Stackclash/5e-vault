@@ -22,8 +22,3 @@ On initiative count 20 (losing initiative ties), the dragon takes a lair action 
 
 
 Intelligent creatures who sleep within 12 miles of a sapphire dragon's lair dream of the past and future. They know the things they see in these dreams are real events that have, or will, occur.
-
-## Is homebrew
-
-
-true

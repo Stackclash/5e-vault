@@ -13,7 +13,7 @@ aliases:
   - Xvart
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Xvart.md|Xvart]]
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 267*
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 267, Volo's Guide to Monsters p. 200*
 
 Fleeing his pursuers, Raxivort wandered across the multiverse and spawned xvarts, who not only look like him but also cause any magic that could reveal his location to point to the nearest xvart instead.
 

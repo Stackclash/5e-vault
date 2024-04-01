@@ -51,7 +51,7 @@ The following are a few balance changes to accommodate the harvesting and crafti
 
 ## Subclasses
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Iii/img/subclasses.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Subclasses.webp#center)
 
 A new harvesting based subclass has been provided for each of the 12 original classes in the "Player's Handbook". Feel free to incorporate any of them into your own game and to make changes if you feel appropriate.
 
@@ -60,7 +60,7 @@ A new harvesting based subclass has been provided for each of the 12 original cl
 > [!embed-subclass]- Blood Seeker
 > ![[5. Mechanics/Classes/Barbarian Path Of The Blood Seeker.md\|Blood Seeker]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Iii/img/pathofthebloodseeker.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/PathoftheBloodSeeker.webp#center)
 
 ### Bard
 
@@ -72,7 +72,7 @@ A new harvesting based subclass has been provided for each of the 12 original cl
 > [!embed-subclass]- Harvester
 > ![[5. Mechanics/Classes/Cleric Harvester Domain.md\|Harvester]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Iii/img/harvesterdomain.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/HarvesterDomain.webp#center)
 
 ### Druid
 
@@ -84,7 +84,7 @@ A new harvesting based subclass has been provided for each of the 12 original cl
 > [!embed-subclass]- Butcher
 > ![[5. Mechanics/Classes/Fighter Butcher.md\|Butcher]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Iii/img/butcher.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Butcher.webp#center)
 
 ### Monk
 
@@ -101,14 +101,14 @@ A new harvesting based subclass has been provided for each of the 12 original cl
 > [!embed-subclass]- Fey Trapper
 > ![[5. Mechanics/Classes/Ranger Fey Trapper.md\|Fey Trapper]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Iii/img/feytrapper.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/FeyTrapper.webp#center)
 
 ### Rogue
 
 > [!embed-subclass]- Scavenger
 > ![[5. Mechanics/Classes/Rogue Scavenger.md\|Scavenger]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Iii/img/scavenger.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Scavenger.webp#center)
 
 ### Sorcerer
 
@@ -137,4 +137,4 @@ At 2nd level, a warlock gains the [Eldritch Invocations](compendium/classes/warl
 > [!embed-subclass]- Magi-Zoologist
 > ![[5. Mechanics/Classes/Wizard Magi Zoologist.md\|Magi-Zoologist]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Iii/img/magi-zoologist.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Magi-Zoologist.webp#center)

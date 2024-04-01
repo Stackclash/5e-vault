@@ -43,9 +43,4 @@ If the dragon dies, the rodents and birds lose their supernatural link to it. Th
 Either or both of these effects might appear in the area around a green dragon's lair, in addition to or instead of those described in the *Monster Manual*:
 
 - **Inviting Whispers.** Whispers rustle in the foliage within 1 mile of the dragon's lair. The words are indistinct, but a creature with an Intelligence score of 5 or higher interprets them as an invitation to move deeper into the greenery.  
-- **Twisted Messengers.** The dragon can cause any Tiny Beast within 1 mile of its lair to act as its mouthpiece. The effect is horrendous, as the creature's throat and mouth temporarily warp into a twisted version of the dragon's own in order to allow the dragon's voice to issue forth.  
-
-## Is homebrew
-_Source: Monster Manual_
-
-false
+- **Twisted Messengers.** The dragon can cause any Tiny Beast within 1 mile of its lair to act as its mouthpiece. The effect is horrendous, as the creature's throat and mouth temporarily warp into a twisted version of the dragon's own in order to allow the dragon's voice to issue forth.

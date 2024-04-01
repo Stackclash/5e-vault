@@ -12,7 +12,6 @@ aliases:
 ![[5. Mechanics/Races/img/dwarf.webp#right]]  
 
 - **Ability Scores**: Strength +2
-- **Type**: subrace
 - **Size**: Medium
 - **Speed**: 25 ft.
 

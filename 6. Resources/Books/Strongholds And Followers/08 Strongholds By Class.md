@@ -92,7 +92,7 @@ I have done this, it can work, it just depends on your player and knowing what t
 
 But if it seems like they're not really interested in actually rolling, only in the result, then you can just pick something for them. "As work finishes on your tower, you see an elf standing at the edge of the clearing, watching..." That elf is their new follower! No roll needed!
 
-![[6. Resources/Books/Strongholds And Followers/img/barbarian-camp.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/barbarian-camp.webp#center)
 
 ## The Barbarian's Camp
 
@@ -128,7 +128,7 @@ Barbarian retainers tend to be followers at home with nature, savagery, and chao
 
 The ambassadors they attract tend to represent nearby humanoid tribes who do not automatically see a barbarian tribe as an enemy, just because they are led by a human or elf or dwarf. To the local gnolls or hobgoblins, a barbarian camp is just another local tribe, and could make a powerful ally.
 
-![[6. Resources/Books/Strongholds And Followers/img/bard-theatre.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/bard-theatre.webp#center)
 
 ## The Bard's Theater
 
@@ -154,7 +154,7 @@ While an ally has unspent inspiration their proficiency bonus increases by +1. T
 
 ![[5. Mechanics/Tables/Bard Followers.md\|Bard Followers]]
 
-![[6. Resources/Books/Strongholds And Followers/img/cleric-church.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/cleric-church.webp#center)
 
 ## The Cleric's Church
 
@@ -180,7 +180,7 @@ When using your Channel Divinity class feature, all allies within 30 feet regain
 
 ![[5. Mechanics/Tables/Cleric Followers.md\|Cleric Followers]]
 
-![[6. Resources/Books/Strongholds And Followers/img/druid-grove.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/druid-grove.webp#center)
 
 ## The Druid's Grove
 
@@ -216,7 +216,7 @@ Few artisans are interested in a life lived outside civilization, but druids are
 
 Ambassadors who wish to join a druid's retinue are usually fey, or aligned with them, or creatures who prefer the swamps and bogs that druids are naturally attracted to as sources of power. And druids have their own short list of special allies they may recruit from among the fey creatures of the wood.
 
-![[6. Resources/Books/Strongholds And Followers/img/fighter-fortress.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/fighter-fortress.webp#center)
 
 ## The Fighter's Fortress
 
@@ -243,7 +243,7 @@ Whenever you attack by using your Action Surge, you automatically score a critic
 
 ![[5. Mechanics/Tables/Fighter Followers.md\|Fighter Followers]]
 
-![[6. Resources/Books/Strongholds And Followers/img/monk-monastery.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/monk-monastery.webp#center)
 
 ## The Monk's Monastery
 
@@ -311,7 +311,7 @@ If you roll really well (91-93), you get a special paladin mount as a follower! 
 
 Natives of Arcadia, the winged unicorn (not to be confused with the horned pegasus) can be summoned by a particularly devout paladin to serve as their mount. They do not particularly like the Mundane World, but they enjoy and find satisfaction in hunting evil and chaos. They will serve as mount and companion to a holy knight only so long as it brings the opportunity to smash evil, a sport they are denied on their home plane.
 
-![[6. Resources/Books/Strongholds And Followers/img/ranger-lodge.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/ranger-lodge.webp#center)
 
 ## The Ranger's Lodge
 
@@ -337,7 +337,7 @@ Your favored enemy has vulnerability to your attacks ^[Remember, the goal is pla
 
 ![[5. Mechanics/Tables/Ranger Followers.md\|Ranger Followers]]
 
-![[6. Resources/Books/Strongholds And Followers/img/rogue-tavern.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/rogue-tavern.webp#center)
 
 ## The Rogue's Tavern
 
@@ -363,7 +363,7 @@ After you hit with a Sneak Attack, you may become invisible. Anything you are we
 
 ![[5. Mechanics/Tables/Rogue Followers.md\|Rogue Followers]]
 
-![[6. Resources/Books/Strongholds And Followers/img/sorcerer-sanctum.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/sorcerer-sanctum.webp#center)
 
 ## The Sorcerer's Sanctum
 
@@ -395,7 +395,7 @@ Average folks find wizards weird enough, gabbling in strange languages and livin
 
 A sorcerer's army is usually light and highly mobile and like other classes that eschew large, slow, heavily armed and armored soldiers, they can attract flying units. Their retainers are almost all spellcasters. Their artisans are folks who enjoy making things and probably hope being in the court of a sorcerer will grant them the opportunity to create magic items. Their ambassadors come from cultures that do not fear sorcery and whose soldiers would have no problem serving under a commander who can conjure fire through sheer will.
 
-![[6. Resources/Books/Strongholds And Followers/img/warlock-fane.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/warlock-fane.webp#center)
 
 ## The Warlock's Fane
 
@@ -422,7 +422,7 @@ You gain an extra spell slot. You may use this extra spell slot a number of time
 
 ![[5. Mechanics/Tables/Warlock Followers.md\|Warlock Followers]]
 
-![[6. Resources/Books/Strongholds And Followers/img/wizard-library.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/wizard-library.webp#center)
 
 ## The Wizard's Library
 

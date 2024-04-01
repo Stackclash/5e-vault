@@ -11,7 +11,6 @@ aliases:
 *Source: Dungeon Master's Guide p. 282*  
 
 - **Ability Scores**: Strength +1, Dexterity +2
-- **Type**: race
 - **Size**: Small
 - **Speed**: 20 ft.
 - **Spellcasting**: Intelligence

@@ -32,7 +32,7 @@ You also gain a special mask, which you often wear when using the features of th
 
 **Merciful Mask**
 
-`dice: [[Monk.md#^merciful-mask]]`
+`dice: [[Monk Way Of Mercy.md#^merciful-mask]]`
 
 | dice: d6 | Mask Appearance |
 |----------|-----------------|

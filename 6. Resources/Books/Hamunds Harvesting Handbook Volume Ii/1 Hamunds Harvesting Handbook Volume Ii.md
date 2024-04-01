@@ -9,7 +9,7 @@ aliases:
 # Hamund's Harvesting Handbook: Volume II
 *Source: Hamund's Harvesting Handbook: Volume II, p. 1* 
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/img/cover-full.webp#center\|Front Cover]]
+![Front Cover](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/Cover-Full.webp#center)
 
 **A Harvesting Guide to Volo's Guide to Monsters**
 
@@ -41,7 +41,7 @@ aliases:
 
 ## Contact Us
 
-Email: *driftersgameworkshop@gmail.com*
+Email: driftersgameworkshop@gmail.com (mailto:driftersgameworkshop@gmail.com)
 
 Twitter: @drifterworkshop (https://twitter.com/drifterworkshop)
 

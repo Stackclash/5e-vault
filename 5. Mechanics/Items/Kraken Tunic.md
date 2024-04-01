@@ -12,7 +12,7 @@ aliases:
 ---
 # Kraken Tunic
 *Light Armor, legendary, Crafted by (requires attunement)*  
-![[5. Mechanics/Items/img/krakentunic.webp#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/KrakenTunic.webp#right)  
 
 - **Armor Class**: 12 + DEX
 - **Properties**: Crafted by

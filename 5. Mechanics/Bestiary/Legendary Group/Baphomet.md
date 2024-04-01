@@ -45,8 +45,3 @@ If a creature goes mad in Baphomet's lair or within line of sight of the demon l
 | 61–80 | "Hate comes easily to me and explodes into rage." |
 | 81–00 | "I see those who oppose me not as people, but as beasts meant to be preyed upon." |
 ^madness-of-baphomet
-
-## Is homebrew
-_Source: Mordenkainen's Tome of Foes_
-
-false

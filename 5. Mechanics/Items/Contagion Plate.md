@@ -12,7 +12,7 @@ aliases:
 ---
 # Contagion Plate
 *Heavy Armor, very rare, Crafted by (requires attunement)*  
-![[5. Mechanics/Items/img/contagionplate.webp#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/ContagionPlate.webp#right)  
 
 - **Armor Class**: 18
 - **Properties**: Crafted by

@@ -9,7 +9,7 @@ aliases:
 # Hamund's Harvesting Handbook: Volume I
 *Source: Hamund's Harvesting Handbook: Volume I, p. 1* 
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/cover-full.webp#center\|Front Cover]]
+![Front Cover](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Cover-Full.webp#center)
 
 > [!note]
 > DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, Ravenloft, Eberron, the dragon ampersand, and all other Wizards of the Coast product names, and their respective logos are trademarks of Wizards of the Coast in the USA and other countries.
@@ -36,7 +36,7 @@ aliases:
 
 ## Contact Us
 
-Email: *driftersgameworkshop@gmail.com*
+Email: driftersgameworkshop@gmail.com (mailto:driftersgameworkshop@gmail.com)
 
 Twitter: @drifterworkshop (https://twitter.com/drifterworkshop)
 

@@ -11,7 +11,7 @@ aliases:
 ---
 # Amulet of Spiritual Obfuscation
 *Wondrous Item, very rare, Crafted by*  
-![[5. Mechanics/Items/img/amuletofspiritualobfuscation.webp#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/AmuletofSpiritualObfuscation.webp#right)  
 
 - **Properties**: Crafted by
 

@@ -12,7 +12,6 @@ aliases:
 ![[5. Mechanics/Races/img/elf.webp#right]]  
 
 - **Ability Scores**: Dexterity +2
-- **Type**: race
 - **Size**: Medium
 - **Speed**: 30 ft.
 

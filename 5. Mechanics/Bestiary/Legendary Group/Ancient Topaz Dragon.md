@@ -22,8 +22,3 @@ On initiative count 20 (losing initiative ties), the dragon takes a lair action 
 
 
 Intelligent creatures who sleep within 12 miles of a topaz dragon's lair dream of ancient lore they never studied, and in these dreams they hold conversations with sages speaking languages the dreamer does not know, but in the dream can speak and understand.
-
-## Is homebrew
-
-
-true

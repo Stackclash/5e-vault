@@ -26,7 +26,7 @@ Attunement may be required for this item.
 
 Attunement is required for this item.
 
-## Weapon Properties
+## General and Weapon Properties
 
 ### Ammunition
 

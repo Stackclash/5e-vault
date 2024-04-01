@@ -11,7 +11,7 @@ aliases:
 *Source: Dungeon Master's Guide p. 282*  
 
 - **Ability Scores**: Strength +1, Constitution +2, Intelligence -6, Wisdom -4, Charisma -4
-- **Type**: race
+- **Type**: undead
 - **Size**: Medium
 - **Speed**: 30 ft.
 

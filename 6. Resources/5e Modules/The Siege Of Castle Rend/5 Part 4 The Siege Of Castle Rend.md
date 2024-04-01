@@ -9,7 +9,7 @@ aliases:
 # Part 4: The Siege of Castle Rend
 *Source: The Siege of Castle Rend, p. 130* 
 
-![[6. Resources/5e Modules/The Siege Of Castle Rend/img/socr-siege.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/socr-siege.webp#center)
 
 > [!quote]- A quote from   
 > 

@@ -11,7 +11,7 @@ aliases:
 ---
 # Glory
 *Melee Weapon, very rare (requires attunement by a good creature)*  
-![[5. Mechanics/Items/img/glory.jpg#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/glory.jpg#right)  
 
 - **Damage**: 1d6 B
 - **Weight**: 4.0 lbs.

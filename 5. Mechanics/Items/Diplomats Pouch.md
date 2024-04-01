@@ -10,7 +10,7 @@ aliases:
 ---
 # Diplomat's Pouch
 *Wondrous Item, uncommon*  
-![[5. Mechanics/Items/img/diplomat-pouch.jpg#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/diplomat-pouch.jpg#right)  
 
 
 A letter placed in this pouch, addressed to someone who owns another diplomat's pouch, disappears, and the recipient listed in the letter finds a copy of it in their pouch. A letter can be listed to multiple recipients with a diplomat's pouch.

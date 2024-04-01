@@ -11,7 +11,7 @@ aliases:
 ---
 # The Codex Terragnosis
 *Wondrous Item, artifact (requires attunement)*  
-![[5. Mechanics/Items/img/codex-terragnosis.jpg#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/codex-terragnosis.jpg#right)  
 
 
 Written by Hierophant Prithviraña in the 738th year of the Age of Wonders, this book is a comprehensive treatise on the nature of the Mundane World and the material and philosophical principles that set it apart from Arcadia, Quintessence, and the World Below.

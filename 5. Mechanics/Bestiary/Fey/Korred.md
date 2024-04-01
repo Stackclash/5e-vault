@@ -12,7 +12,7 @@ aliases:
   - Korred
 ---
 # [[5. Mechanics\Bestiary\Fey\Korred.md|Korred]]
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 166*
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 166, Volo's Guide to Monsters p. 168*
 
 Korreds are unpredictable, secretive Fey with strong ties to earth and stone. Because of their magical hair and mystical understanding of minerals, they are sought after by treasure-hunting dwarves and others who desire wealth beneath the earth.
 

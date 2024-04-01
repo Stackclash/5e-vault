@@ -16,4 +16,4 @@ The following new magic items appear in *The Siege of Castle Rend*.
 - [[5. Mechanics/Items/Potion Of Enhance Ability.md\|Potion of Enhance Ability]]  
 - [[5. Mechanics/Items/Wound.md\|Wound]]  
 
-![[6. Resources/5e Modules/The Siege Of Castle Rend/img/socr-magic-items.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/socr-magic-items.webp#center)

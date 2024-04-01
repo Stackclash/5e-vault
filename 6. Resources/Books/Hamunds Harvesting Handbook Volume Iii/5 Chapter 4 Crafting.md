@@ -41,7 +41,7 @@ This guide uses the rules for crafting in "Xanathar's Guide to Everything" as th
 > [!embed-variantrule]- Optional Rule: Crafter Skill
 > ![[/5. Mechanics/Rules/Variant Rules/Optional Rule Crafter Skill.md\|Optional Rule: Crafter Skill]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/crafter.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Crafter.webp#center)
 
 ### Crafter Type
 
@@ -78,7 +78,7 @@ In order to understand the quantities of harvestable materials required and the 
 > [!embed-table]- Published Book Items
 > ![[5. Mechanics/Tables/Published Book Items.md\|Published Book Items]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/img/crafting.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/Crafting.webp#center)
 
 ## Craftable Items A-Z
 

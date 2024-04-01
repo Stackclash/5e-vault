@@ -43,9 +43,4 @@ Any of these effects might appear in the area around a black dragon's lair, in a
 
 - **Ennui.** Creatures that spend a year within 10 miles of the dragon's lair are filled with listless despair.  
 - **Grating Spies.** Trilling, obnoxious birds, bugs, and reptiles follow any Humanoid creatures unknown to the dragon within 6 miles of the lair, imposing disadvantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]) checks. The dragon can suppress this effect at will.  
-- **Rotting Domain.** Stinging bugs are aggressive and the air is heavy with the odor of rot within 6 miles of the lair.  
-
-## Is homebrew
-_Source: Monster Manual_
-
-false
+- **Rotting Domain.** Stinging bugs are aggressive and the air is heavy with the odor of rot within 6 miles of the lair.

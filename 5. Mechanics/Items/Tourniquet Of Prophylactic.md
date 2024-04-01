@@ -11,7 +11,7 @@ aliases:
 ---
 # Tourniquet of Prophylactic
 *Wondrous Item, rare, Crafted by*  
-![[5. Mechanics/Items/img/tourniquetofprophylactic.webp#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/TourniquetofProphylactic.webp#right)  
 
 - **Properties**: Crafted by
 

@@ -11,7 +11,7 @@ aliases:
 ---
 # Drag-on Paste
 *Potion, rare, Crafted by*  
-![[5. Mechanics/Items/img/drag-onpaste.webp#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Drag-onPaste.webp#right)  
 
 - **Properties**: Crafted by
 

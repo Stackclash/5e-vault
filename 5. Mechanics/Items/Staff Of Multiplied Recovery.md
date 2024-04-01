@@ -13,7 +13,7 @@ aliases:
 ---
 # Staff of Multiplied Recovery
 *Melee Weapon, very rare, Crafted by (requires attunement)*  
-![[5. Mechanics/Items/img/staffofmultipliedrecovery.webp#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/StaffofMultipliedRecovery.webp#right)  
 
 - **Damage**:
   - One-handed: 1d6 B

@@ -11,7 +11,7 @@ aliases:
 ---
 # Demon Vellum
 *Wondrous Item, rare, Crafted by*  
-![[5. Mechanics/Items/img/demonvellum.webp#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/DemonVellum.webp#right)  
 
 - **Properties**: Crafted by
 

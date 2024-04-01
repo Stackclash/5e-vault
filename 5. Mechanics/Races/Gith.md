@@ -11,7 +11,6 @@ aliases:
 *Source: Mordenkainen's Tome of Foes p. 96*  
 
 - **Ability Scores**: Intelligence +1
-- **Type**: race
 - **Size**: Medium
 - **Speed**: 30 ft.
 

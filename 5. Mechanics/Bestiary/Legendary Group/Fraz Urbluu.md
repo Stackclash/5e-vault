@@ -45,8 +45,3 @@ If a creature goes mad in Fraz-Urb'luu's lair or within line of sight of the dem
 | 61–80 | "I convince myself that things are true, even in the face of overwhelming evidence to the contrary." |
 | 81–00 | "My perception of reality doesn't match anyone else's. It makes me prone to violent delusions that make no sense to anyone else." |
 ^madness-of-fraz-urbluu
-
-## Is homebrew
-_Source: Mordenkainen's Tome of Foes_
-
-false

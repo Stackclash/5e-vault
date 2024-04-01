@@ -12,7 +12,7 @@ aliases:
   - Frost Giant Everlasting One
 ---
 # [[5. Mechanics\Bestiary\Giant\Frost Giant Everlasting One.md|Frost Giant Everlasting One]]
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 131*
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 131, Volo's Guide to Monsters p. 148*
 
 To hold its place or rise within the ordning, a frost giant must routinely face mighty foes in single combat. Some seek out magic that will aid them, but enchanted objects can be taken or lost. True greatness relies on personal prowess. Faced with this truth, a frost giant might seek a supernatural gift from Vaprak the Destroyer.
 

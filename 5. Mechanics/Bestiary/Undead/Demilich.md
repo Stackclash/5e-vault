@@ -124,6 +124,36 @@ If the demilich drops to 0 hit points, it is destroyed and turns to powder, leav
     \ The target can repeat the saving throw at the end of each of its turns, ending\
     \ the curse on a success."
   "name": "Vile Curse (Costs 3 Actions)"
+"lair_actions":
+- "desc": "On initiative count 20 (losing initiative ties), the demilich rolls a dice:\
+    \ d20|avg (d20). On a result of 11 or higher, the demilich takes a lair action\
+    \ to cause one of the following effects. It can't use the same effect two rounds\
+    \ in a row."
+  "name": ""
+- "desc": "- The tomb trembles violently for a moment. Each creature on the floor\
+    \ of the tomb must succeed on a DC 19 Dexterity saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
+    \  \n- The demilich targets one creature it can see within 60 feet of it. An [antimagic\
+    \ field](compendium/spells/antimagic-field.md) fills the space of the target,\
+    \ moving with it until initiative count 20 on the next round.  \n- The demilich\
+    \ targets any number of creatures it can see within 30 feet of it. No target can\
+    \ regain hit points until initiative count 20 on the next round.  "
+  "name": ""
+"regional_effects":
+- "desc": "A demilich's tomb might have any or all of the following effects in place:"
+  "name": ""
+- "desc": "- The first time a non-evil creature enters the tomb's area, the creature\
+    \ takes dice: 3d10|avg (3d10) necrotic damage.  \n- Monsters in the tomb have\
+    \ advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
+    \ or [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], and against features\
+    \ that turn undead.  \n- The tomb is warded against the magical travel of creatures\
+    \ the demilich hasn't authorized. Such creatures can't teleport into or out of\
+    \ the tomb's area or use planar travel to enter or leave it. Effects that allow\
+    \ teleportation or planar travel work within the tomb as long as they aren't used\
+    \ to leave or enter the tomb's area.  "
+  "name": ""
+- "desc": "If the demilich is destroyed, these effects fade over the course of 10\
+    \ days."
+  "name": ""
 "source":
 - "MM"
 - "TftYP"

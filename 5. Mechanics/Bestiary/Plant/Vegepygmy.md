@@ -13,7 +13,7 @@ aliases:
   - Vegepygmy
 ---
 # [[5. Mechanics\Bestiary\Plant\Vegepygmy.md|Vegepygmy]]
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 252*
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 252, Volo's Guide to Monsters p. 196*
 
 Typical vegepygmies originate from the remains left behind when a Humanoid or a Giant is killed by [[5. Mechanics/Traps Hazards/Russet Mold.md|russet mold]]. One or more vegepygmies emerge from the corpse a day later.
 

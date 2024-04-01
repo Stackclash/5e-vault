@@ -11,7 +11,7 @@ aliases:
 ---
 # The Codex Automata
 *Wondrous Item, artifact (requires attunement)*  
-![[5. Mechanics/Items/img/codex-automata.jpg#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/codex-automata.jpg#right)  
 
 
 Written by the Hànz wizard Huang Fei late in the third dynasty of the Xin Empire, the codex automata—*The Book of Machines*—synthesized three thousand years of scholarly thought on the subject of magical constructs and was instantly realized as the definitive work on the subject. Other tomes detail the process of creating a golem, but Fei called this "mere smithery."

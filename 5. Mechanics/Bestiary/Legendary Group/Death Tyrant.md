@@ -29,8 +29,3 @@ A region containing a death tyrant's lair is warped by the creature's unnatural 
 - When a creature hostile to the tyrant and aware of its existence finishes a long rest within 1 mile of the tyrant's lair, roll a `dice: d20|avg` (`d20`) for that creature. On a roll of 10 or lower, the creature is subjected to one random eye ray of the tyrant.  
 
 If the death tyrant dies, these effects fade over the course of `dice: 1d10|avg` (`1d10`) days.
-
-## Is homebrew
-_Source: Monster Manual_
-
-false

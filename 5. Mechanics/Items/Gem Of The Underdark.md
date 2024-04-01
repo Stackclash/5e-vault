@@ -12,7 +12,7 @@ aliases:
 ---
 # Gem of the Underdark
 *Wondrous Item, rare, Crafted by (requires attunement)*  
-![[5. Mechanics/Items/img/gemoftheunderdark.webp#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/GemoftheUnderdark.webp#right)  
 
 - **Properties**: Crafted by
 

@@ -12,7 +12,7 @@ cost: 100
 ---
 # Liftwood
 *Herb, common, Herb*  
-![[5. Mechanics/Items/img/liftwood.webp#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHbH/Liftwood.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 1 gp

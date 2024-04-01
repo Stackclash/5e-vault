@@ -13,7 +13,7 @@ aliases:
 ---
 # Disruptor
 *Melee Weapon, very rare (requires attunement by a chaotic creature)*  
-![[5. Mechanics/Items/img/disruptor.jpg#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/disruptor.jpg#right)  
 
 - **Damage**:
   - One-handed: 1d8 S

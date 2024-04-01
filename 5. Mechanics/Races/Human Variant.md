@@ -11,7 +11,6 @@ aliases:
 *Source: Player's Handbook p. 31. Available in the Basic Rules.*  
 
 - **Ability Scores**: Apply +1 to 2 (distinct) of Strength, Dexterity, Constitution, Intelligence, Wisdom, Charisma
-- **Type**: subrace
 - **Size**: Medium
 - **Speed**: 30 ft.
 

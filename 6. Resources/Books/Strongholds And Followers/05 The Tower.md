@@ -236,6 +236,6 @@ You could, of course, decide that towers in your campaign grant both these benef
 Another method I've used and enjoyed allows the magic-user to cast their specialist spells as though they were one level higher with no limit (other than the normal limits of spells by level per day), but **each time they cast a spell at a higher level, they must make a Constitution check of DC 10 plus the spell's level**. If they fail, they suffer one level of exhaustion. A full rest removes one level of exhaustion.
 
 > [!gallery]
-> ![[6. Resources/Books/Strongholds And Followers/img/tower-exterior.jpg#gallery]]
-> ![[6. Resources/Books/Strongholds And Followers/img/tower-interior.jpg#gallery]]
-> ![[6. Resources/Books/Strongholds And Followers/img/tower-cellar.jpg#gallery]]
+> ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tower-exterior.jpg#gallery)
+> ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tower-interior.jpg#gallery)
+> ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tower-cellar.jpg#gallery)

@@ -12,7 +12,7 @@ cost: 100
 ---
 # Yell Pepper
 *Herb, common, Herb*  
-![[5. Mechanics/Items/img/yellpepper.webp#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHbH/YellPepper.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 1 gp

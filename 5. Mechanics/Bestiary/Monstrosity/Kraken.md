@@ -123,6 +123,34 @@ A kraken lives in dark depths, usually a sunken rift or a cavern filled with det
     \ one. A strong current disperses the cloud, which otherwise disappears at the\
     \ end of the kraken's next turn."
   "name": "Ink Cloud (Costs 3 Actions)"
+"lair_actions":
+- "desc": "On initiative count 20 (losing initiative ties), the kraken takes a lair\
+    \ action to cause one of the following magical effects:"
+  "name": ""
+- "desc": "- A strong current moves through the kraken's lair. Each creature within\
+    \ 60 feet of the kraken must succeed on a DC 23 Strength saving throw or be pushed\
+    \ up to 60 feet away from the kraken. On a success, the creature is pushed 10\
+    \ feet away from the kraken.  \n- Creatures in the water within 60 feet of the\
+    \ kraken have vulnerability to lightning damage until initiative count 20 on the\
+    \ next round.  \n- The water in the kraken's lair becomes electrically charged.\
+    \ All creatures within 120 feet of the kraken must succeed on a DC 23 Constitution\
+    \ saving throw, taking dice: 3d6|avg (3d6) lightning damage on a failed save,\
+    \ or half as much damage on a successful one.  "
+  "name": ""
+"regional_effects":
+- "desc": "The region containing a kraken's lair is warped by the creature's blasphemous\
+    \ presence, creating the following magical effects:"
+  "name": ""
+- "desc": "- The kraken can alter the weather at will in a 6-mile radius centered\
+    \ on its lair. The effect is identical to the [[5. Mechanics/Spells/Control Weather.md|control weather]]\
+    \ spell.  \n- Water elementals coalesce within 6 miles of the lair. These elementals\
+    \ can't leave the water and have Intelligence and Charisma scores of 1 (-5). \
+    \ \n- Aquatic creatures within 6 miles of the lair that have an Intelligence score\
+    \ of 2 or lower are [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] by the\
+    \ kraken and aggressive toward intruders in the area.  "
+  "name": ""
+- "desc": "When the kraken dies, all of these regional effects fade immediately."
+  "name": ""
 "source":
 - "MM"
 - "GoS"

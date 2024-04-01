@@ -191,6 +191,20 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
   "name": "Unarmed Strike"
 - "desc": "The vampire makes one bite attack."
   "name": "Bite (Costs 2 Actions)"
+"regional_effects":
+- "desc": "The region surrounding a vampire's lair is warped by the creature's unnatural\
+    \ presence, creating any of the following effects:"
+  "name": ""
+- "desc": "- There's a noticeable increase in the populations of bats, rats, and wolves\
+    \ in the region.  \n- Plants within 500 feet of the lair wither, and their stems\
+    \ and branches become twisted and thorny.  \n- Shadows cast within 500 feet of\
+    \ the lair seem abnormally gaunt and sometimes move as though alive.  \n- A creeping\
+    \ fog clings to the ground within 500 feet of the vampire's lair. The fog occasionally\
+    \ takes eerie forms, such as grasping claws and writhing serpents.  "
+  "name": ""
+- "desc": "If the vampire is destroyed, these effects end after dice: 2d6|avg (2d6)\
+    \ days."
+  "name": ""
 "source":
 - "MM"
 - "RoT"

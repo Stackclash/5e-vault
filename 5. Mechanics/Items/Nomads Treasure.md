@@ -12,7 +12,7 @@ cost: 100
 ---
 # Nomad's Treasure
 *Herb, common, Herb*  
-![[5. Mechanics/Items/img/nomadstreasure.webp#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHbH/NomadsTreasure.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 1 gp

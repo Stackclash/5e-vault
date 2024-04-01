@@ -10,7 +10,7 @@ aliases:
 ---
 # Spymaster's Cloak
 *Wondrous Item, uncommon*  
-![[5. Mechanics/Items/img/spymaster-cloak.jpg#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/spymaster-cloak.jpg#right)  
 
 
 People who meet you tend to forget you. Gather Intel checks have disadvantage against anyone wearing this fine grey cloak.

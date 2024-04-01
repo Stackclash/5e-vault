@@ -12,7 +12,7 @@ aliases:
 ---
 # Yeenoghu's Boon
 *Wondrous Item, uncommon, Crafted by (requires attunement)*  
-![[5. Mechanics/Items/img/yeenoghusboon.webp#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/YeenoghusBoon.webp#right)  
 
 - **Properties**: Crafted by
 

@@ -12,7 +12,6 @@ aliases:
 ![[5. Mechanics/Races/img/halfling.webp#right]]  
 
 - **Ability Scores**: Dexterity +2
-- **Type**: race
 - **Size**: Small
 - **Speed**: 25 ft.
 

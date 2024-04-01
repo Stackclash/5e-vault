@@ -10,7 +10,7 @@ aliases:
 ---
 # Altar of Unyielding Faith
 *requires installation, very rare*  
-![[5. Mechanics/Items/img/altar-unyielding-faith.jpg#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/altar-unyielding-faith.jpg#right)  
 
 
 Install this altar in your temple and choose a row on the [[5. Mechanics/Tables/Servitors.md\|Servitors]] chart (page 31). Whenever you roll on this chart, you may choose the chart entry one higher than the result you rolled.

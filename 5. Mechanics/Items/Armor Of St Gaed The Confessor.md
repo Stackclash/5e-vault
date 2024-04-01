@@ -10,7 +10,7 @@ aliases:
 ---
 # Armor of St. Gaed the Confessor
 *Heavy Armor, unknown (magic)*  
-![[5. Mechanics/Items/img/socr-armor-confessor.jpg#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/socr-armor-confessor.jpg#right)  
 
 - **Armor Class**: 18
 - **Strength**: Requires 15 STR.

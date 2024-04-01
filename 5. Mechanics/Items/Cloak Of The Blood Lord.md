@@ -12,7 +12,7 @@ aliases:
 ---
 # Cloak of the Blood Lord
 *Wondrous Item, artifact, Crafted Artifact (requires attunement)*  
-![[5. Mechanics/Items/img/cloakofthebloodlord.webp#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/CloakoftheBloodLord.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20Artifact\|Crafted Artifact]]
 

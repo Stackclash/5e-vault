@@ -12,7 +12,7 @@ aliases:
 ---
 # Helm of the Cryptkeeper
 *Wondrous Item, rare, Crafted by (requires attunement)*  
-![[5. Mechanics/Items/img/helmofthecryptkeeper.webp#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/HelmoftheCryptkeeper.webp#right)  
 
 - **Properties**: Crafted by
 

@@ -49,7 +49,7 @@ This adventure begins with the arrival of Sir Pelliton in the Reluctant Pig, Gra
 - They come to a crossroads while traveling along a major roadway in Bedegar. Nailed to the sign is a broadsheet declaring, "FRESH POTIONS FOR ALL AILS, VISIT PINNA'S SHOP IN GRAVESFORD. (WIZARDS WELCOME TO COMPARE NOTES AND EXCHANGE KNOWLEDGE.)"  
 - An important wizardly NPC asks the party to deliver a package to Pinna: a monthly shipment of minor arcane supplies she can't get locally, along with a nice payment for their troubles. They meet Pinna and retire to the Reluctant Pig for the first hot meal they've had in days when Sir Pelliton and his flunkies kick open the door. Run the Arrival of Sir Pelliton event (page 110).  
 
-![[6. Resources/5e Modules/The Siege Of Castle Rend/img/socr-potion-shop.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/socr-potion-shop.webp#center)
 
 ### Part 1: The Village of Gravesford
 
@@ -148,7 +148,7 @@ Dorokor is smart, and she wants to *win*. But victory, for her, means reclaiming
 
 ### Pinna
 
-![[4. World Almanac/NPCs/img/socr-pinna.jpg#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/socr-pinna.jpg#center)
 
 Pinna is a young woman of seventeen who lives in the village of Gravesford, at the edge of the Forest Rend. She is easily recognizable by her tall, pointed straw hat, curly red hair, and crystal necklace—her arcane focus. Pinna is a country hedge mage, well respected by the people of Gravesford. She often entertains children at festivals and market days by conjuring motes of flame or bouquets of flowers, and she helps the adults in town by supplying them with sleeping tonics and preventatives.
 

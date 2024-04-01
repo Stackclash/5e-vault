@@ -11,7 +11,7 @@ aliases:
 ---
 # Ghostfire Pack
 *Wondrous Item, very rare, Crafted by*  
-![[5. Mechanics/Items/img/ghostfirepack.webp#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/GhostfirePack.webp#right)  
 
 - **Properties**: Crafted by
 

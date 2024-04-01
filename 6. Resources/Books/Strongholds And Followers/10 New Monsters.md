@@ -501,7 +501,7 @@ Much rarer than their metallic or chromatic cousins, the gemstone dragonborn are
 > 
 > "I'll miss you too," Irdizavonax thought, to no one in particular.
 
-![[6. Resources/Books/Strongholds And Followers/img/sapphire-dragon-spread.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/sapphire-dragon-spread.webp#center)
 
 ## The Inexorables
 

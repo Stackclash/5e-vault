@@ -12,7 +12,7 @@ aliases:
 ---
 # Infernal Wings
 *Wondrous Item, rare, Crafted by (requires attunement)*  
-![[5. Mechanics/Items/img/infernalwings.webp#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/InfernalWings.webp#right)  
 
 - **Properties**: Crafted by
 

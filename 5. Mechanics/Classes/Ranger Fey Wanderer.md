@@ -47,7 +47,7 @@ You also possess a preternatural blessing from a fey ally or a place of fey powe
 
 **Feywild Gifts**
 
-`dice: [[Ranger.md#^feywild-gifts]]`
+`dice: [[Ranger Fey Wanderer.md#^feywild-gifts]]`
 
 | dice: d6 | Gift |
 |----------|------|

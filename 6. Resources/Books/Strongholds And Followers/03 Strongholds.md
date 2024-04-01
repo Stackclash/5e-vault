@@ -184,7 +184,7 @@ Different editions treat gold differently. Some classic 1st Edition adventures a
 
 Therefore, Game Masters who think "my players will want a stronghold" should make sure they dump enough gold on the players to make it possible. The gold you award becomes a knob you turn to adjust when exactly the players can afford a stronghold of their own. Assuming they need to buy the thing at all! There are other options!
 
-![[6. Resources/Books/Strongholds And Followers/img/construction.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/construction.webp#center)
 
 ## Repairing a Ruin
 

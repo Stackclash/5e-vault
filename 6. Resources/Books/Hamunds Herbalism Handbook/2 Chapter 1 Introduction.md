@@ -19,4 +19,4 @@ aliases:
 > 
 > Good luck and good harvesting,
 
-![[6. Resources/Books/Hamunds Herbalism Handbook/img/hamund.webp#center\|"Sir Hamund Holderhek, O.B.H. (First Class"]], V.A., N.K.P.")
+![Sir Hamund Holderhek, O.B....](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHbH/Hamund.webp#center "Sir Hamund Holderhek, O.B.H. (First Class), V.A., N.K.P.")

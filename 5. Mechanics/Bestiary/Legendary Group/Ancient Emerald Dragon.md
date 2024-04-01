@@ -22,8 +22,3 @@ On initiative count 20 (losing initiative ties), the dragon takes a lair action 
 
 
 Intelligent creatures who sleep within 12 miles of an emerald dragon's lair dream of unending depths, tidal waves, starfish and crustaceans, or a calm sea under solid white sky with constellations under the waters.
-
-## Is homebrew
-
-
-true

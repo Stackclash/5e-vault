@@ -12,7 +12,7 @@ aliases:
 ---
 # Frostbite Armor
 *Heavy Armor, very rare, Crafted by (requires attunement)*  
-![[5. Mechanics/Items/img/frostbitearmor.webp#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/FrostbiteArmor.webp#right)  
 
 - **Armor Class**: 18
 - **Properties**: Crafted by

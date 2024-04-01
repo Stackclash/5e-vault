@@ -11,7 +11,7 @@ aliases:
 ---
 # Codex Miror
 *Wondrous Item, artifact (requires attunement)*  
-![[5. Mechanics/Items/img/codex-miror.jpg#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/codex-miror.jpg#right)  
 
 
 Written by Durthara, the Empress's Archmage, the Book of Wonder is the first recorded codex and gave the Age of Wonder its name. In those days, the Ganarajyan Empire's word for "magic" translated as "wonder" or "marvel." Magic, then, was newly discovered by Men and seemed a limitless resource. Spells were invented, made fashionable, and forgotten before anyone knew they could be written down.
@@ -50,7 +50,7 @@ The codex miror remembers a time when magic was much...friskier. Whenever you ca
 | 31–35 | The target' s skin turns paisley permanently. |
 | 36–40 | All gold within 10 feet of you transmutes into lead. |
 | 41–45 | The target is completely covered in an inch-thick coat of honey. Also, 500 bees arrive. |
-| 46–49 | Every time the target speaks, the following music plays:![[5. Mechanics/Items/img/rush-tom-sawyer.png#center]] |
+| 46–49 | Every time the target speaks, the following music plays:![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/rush-tom-sawyer.png#center) |
 | 50–54 | a small cottage falls on you, dealing `dice: 8d10\|avg` (`8d10`) damage. You are pinned under the house with only your feet sticking out. |
 | 55–59 | Rotting fish shower down within 100 feet of the target for 6 seconds. |
 | 60–63 | You are polymorphed into a [[5. Mechanics/Bestiary/Monstrosity/Centaur.md\|centaur]]. |

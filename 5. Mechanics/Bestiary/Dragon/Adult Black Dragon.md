@@ -160,6 +160,73 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ + 6) bludgeoning damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
     \ The dragon can then fly up to half its flying speed."
   "name": "Wing Attack (Costs 2 Actions)"
+"lair_actions":
+- "desc": "On initiative count 20 (losing initiative ties), the dragon takes a lair\
+    \ action to cause one of the following effects; the dragon can't use the same\
+    \ effect two rounds in a row:"
+  "name": ""
+- "desc": "- Pools of water that the dragon can see within 120 feet of it surge outward\
+    \ in a grasping tide. Any creature on the ground within 20 feet of such a pool\
+    \ must succeed on a DC 15 Strength saving throw or be pulled up to 20 feet into\
+    \ the water and knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].  \n- A\
+    \ cloud of swarming insects fills a 20-foot-radius sphere centered on a point\
+    \ the dragon chooses within 120 feet of it. The cloud spreads around corners and\
+    \ remains until the dragon dismisses it as an action, uses this lair action again,\
+    \ or dies. The cloud is lightly obscured. Any creature in the cloud when it appears\
+    \ must make on a DC 15 Constitution saving throw, taking dice: 3d6|avg (3d6)\
+    \ piercing damage on a failed save, or half as much damage on a successful one.\
+    \ A creature that ends its turn in the cloud takes dice: 3d6|avg (3d6) piercing\
+    \ damage.  \n- Magical darkness spreads from a point the dragon chooses within\
+    \ 60 feet of it, filling a 15-foot-radius sphere until the dragon dismisses it\
+    \ as an action, uses this lair action again, or dies. The darkness spreads around\
+    \ corners. A creature with [[/5. Mechanics/Rules/Senses.md#darkvision|darkvision]]\
+    \ can't see through this darkness, and nonmagical light can't illuminate it. If\
+    \ any of the effect's area overlaps with an area of light created by a spell of\
+    \ 2nd level or lower, the spell that created the light is dispelled.  "
+  "name": ""
+- "desc": "At your discretion, a legendary ([[5. Mechanics/Bestiary/Dragon/Adult Black Dragon.md|adult]]\
+    \ or [[5. Mechanics/Bestiary/Dragon/Ancient Black Dragon.md|ancient]]) black dragon\
+    \ can use one or more of the following additional lair actions while in its lair:\n\
+    \n- Filth Burst. The dragon chooses a point on the ground it can see within\
+    \ 120 feet of it. A 20-foot-radius, 20-foot-high cylinder of watery filth centered\
+    \ on that point erupts from the ground until initiative count 20 on the next round.\
+    \ Each creature in the cylinder when it appears or that ends its turn there must\
+    \ make a DC 15 Constitution saving throw, taking dice: 3d6|avg (3d6) poison\
+    \ damage on a failed save, or half as much damage on a successful one. The cylinder\
+    \ is \"difficult terrain\".  \n- Grasping Muck. Tendrils of roiling muck extend\
+    \ from the dragon's lair to grasp up to three creatures of the dragon's choice\
+    \ that it can see within the lair. A targeted creature must succeed on a DC 15\
+    \ Strength saving throw or be [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
+    \ until initiative count 20 on the next round.  \n- Noxious Gas. A bubble\
+    \ of swamp gas erupts in a 20-foot-radius sphere centered on a point the dragon\
+    \ can see within its lair. Each creature in the area must succeed on a DC 15 Constitution\
+    \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for\
+    \ 1 minute. The target can repeat the saving throw at the end of each of its turns,\
+    \ ending the effect on itself on a success.  "
+  "name": "Additional Lair Actions"
+"regional_effects":
+- "desc": "The region containing a legendary black dragon's lair is warped by the\
+    \ dragon's magic, which creates one or more of the following effects:"
+  "name": ""
+- "desc": "- The land within 6 miles of the lair takes twice as long as normal to\
+    \ traverse, since the plants grow thick and twisted, and the swamps are thick\
+    \ with reeking mud.  \n- Water sources within 1 mile of the lair are supernaturally\
+    \ fouled. Enemies of the dragon that drink such water regurgitate it within minutes.\
+    \  \n- Fog lightly obscures the land within 6 miles of the lair.  "
+  "name": ""
+- "desc": "If the dragon dies, vegetation remains as it has grown, but other effects\
+    \ fade over dice: 1d10|avg (1d10) days."
+  "name": ""
+- "desc": "Any of these effects might appear in the area around a black dragon's lair,\
+    \ in addition to or instead of the effects described in the Monster Manual:\n\
+    \n- Ennui. Creatures that spend a year within 10 miles of the dragon's lair\
+    \ are filled with listless despair.  \n- Grating Spies. Trilling, obnoxious\
+    \ birds, bugs, and reptiles follow any Humanoid creatures unknown to the dragon\
+    \ within 6 miles of the lair, imposing disadvantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]])\
+    \ checks. The dragon can suppress this effect at will.  \n- Rotting Domain.\
+    \ Stinging bugs are aggressive and the air is heavy with the odor of rot within\
+    \ 6 miles of the lair.  "
+  "name": "Additional Regional Effects"
 "source":
 - "MM"
 - "HotDQ"

@@ -12,7 +12,7 @@ cost: 50000
 ---
 # Aboleth Stalk
 *Herb, rare, Herb*  
-![[5. Mechanics/Items/img/abolethstalk.webp#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHbH/AbolethStalk.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 500 gp

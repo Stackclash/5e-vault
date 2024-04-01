@@ -28,8 +28,3 @@ A merrenoloth imbues its vessel with powerful magic that creates one or more of 
 - Creatures the merrenoloth chooses to take on the ship aren't discomfited by wind or weather, though this effect doesn't protect against damage.  
 
 If the merrenoloth dies, these effects fade over the course of `dice: 1d6|avg` (`1d6`) hours.
-
-## Is homebrew
-_Source: Mordenkainen's Tome of Foes_
-
-false

@@ -11,7 +11,7 @@ aliases:
 ---
 # The Codex Umbra
 *Wondrous Item, artifact (requires attunement)*  
-![[5. Mechanics/Items/img/codex-umbra.jpg#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/codex-umbra.jpg#right)  
 
 
 Kālidāsa Dhar, writing in the codex umbra in the second century of Wonder, gives us our only glimpse into scholarly thought regarding the essence of shadow magic before the Ganarajyan Empire. It is surprisingly similar to our own modern notions.

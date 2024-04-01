@@ -124,12 +124,12 @@ Of course, spending a season there means withstanding the owner's own armies. We
 ![[5. Mechanics/Tables/Barbarian Units.md\|Barbarian Units]]
 
 > [!gallery]
-> ![[6. Resources/Books/Strongholds And Followers/img/keep-small.jpg#gallery]]
-> ![[6. Resources/Books/Strongholds And Followers/img/keep-large.jpg#gallery]]
+> ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/keep-small.jpg#gallery)
+> ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/keep-large.jpg#gallery)
 
 ## The Pirate Ship
 
-![[6. Resources/Books/Strongholds And Followers/img/pirate-ship.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/pirate-ship.webp#center)
 
 Another variation of the Keep is the dreaded Pirate Ship. The Pirate Ship (a galleon, but one dedicated to piracy) is a mobile stronghold like the Barbarian camp. But while the Barbarian camp gets slower the larger it is, a Pirate Ship gets faster! Its larger sails resist the wind much more efficiently than the larger hull drags through the water. ^[This is actually true. The development of larger sails and the ability to tack into the wind led to the development of the galleon, which was faster than its smaller cousins. Galleons became so big, and could carry so much gold and spice, they became easy pickings for enemy privateers, and thus was the age of piracy born.]
 

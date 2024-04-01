@@ -27,8 +27,3 @@ A region containing a balhannoth's lair becomes warped by the creature's unnatur
 - The balhannoth can sense the strongest desires of any humanoid within 1 mile of it and learns whether those desires involve a place: a safe location to rest, a temple, home, or somewhere else.  
 
 If the balhannoth dies, these effects end immediately.
-
-## Is homebrew
-_Source: Mordenkainen's Tome of Foes_
-
-false

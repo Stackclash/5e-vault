@@ -12,7 +12,7 @@ aliases:
 ![[5. Mechanics/Races/img/deep-gnome.webp#right]]  
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
-- **Type**: race
+- **Type**: humanoid
 - **Size**: Small
 - **Speed**: 30 ft.
 - **Spellcasting**: Choose one of Intelligence, Wisdom, Charisma

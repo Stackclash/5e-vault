@@ -12,7 +12,6 @@ aliases:
 ![[5. Mechanics/Races/img/warforged.webp#right]]  
 
 - **Ability Scores**: Constitution +2, Apply +1 to one of Strength, Dexterity, Intelligence, Wisdom, Charisma
-- **Type**: race
 - **Size**: Medium
 - **Speed**: 30 ft.
 

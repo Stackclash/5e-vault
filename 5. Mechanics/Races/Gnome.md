@@ -12,7 +12,6 @@ aliases:
 ![[5. Mechanics/Races/img/gnome.webp#right]]  
 
 - **Ability Scores**: Intelligence +2
-- **Type**: race
 - **Size**: Small
 - **Speed**: 25 ft.
 

@@ -12,7 +12,6 @@ aliases:
 ![[5. Mechanics/Races/img/yuan-ti.webp#right]]  
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
-- **Type**: race
 - **Size**: Small or Medium
 - **Speed**: 30 ft.
 - **Spellcasting**: Choose one of Intelligence, Wisdom, Charisma

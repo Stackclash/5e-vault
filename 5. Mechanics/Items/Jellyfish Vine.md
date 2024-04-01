@@ -12,7 +12,7 @@ cost: 20000
 ---
 # Jellyfish Vine
 *Herb, rare, Herb*  
-![[5. Mechanics/Items/img/jellyfishvine.webp#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHbH/JellyfishVine.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 200 gp

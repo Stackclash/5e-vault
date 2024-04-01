@@ -9,11 +9,6 @@ aliases:
 ---
 # Green Hag
 
-## Is homebrew
-_Source: Monster Manual_
-
-false
-
 ## Lair actions
 _Source: Monster Manual_
 

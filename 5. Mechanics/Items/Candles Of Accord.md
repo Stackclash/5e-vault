@@ -10,7 +10,7 @@ aliases:
 ---
 # Candles of Accord
 *requires installation, rare*  
-![[5. Mechanics/Items/img/candles-accord.jpg#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/candles-accord.jpg#right)  
 
 
 This pair of red wax candles burn magically without consuming fuel, symbolizing the alliance between the two holders of the candles. If one candle is lit without the other, it merely provides normal candlelight indefinitely, and extinguishing it does not affect the other candle.

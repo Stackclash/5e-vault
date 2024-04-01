@@ -70,7 +70,7 @@ The bounty given to the players for successfully retrieving the requested materi
 
 However, many quests offer the option for the players to submit the request more than once. This is not explicitly stated, but it is implied in the description of the quest. In such cases, the players may receive the same reward each time they hand in the requested material.
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/img/have-nots.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/Have-Nots.webp#center)
 
 ## CR <1
 
@@ -718,7 +718,7 @@ However, many quests offer the option for the players to submit the request more
 > > I have had it up to HERE with the bickering and fighting that goes on in the meeting chambers of our city council. For weeks now, the elites of the city have been sniping at each other; all of them too proud to give an inch of power to another, even if it is for the good of the city! Well no more, for I have come up with a solution. I have heard that the rapport spores of a myconid are capable of increasing empathy among those who breathe them in; perhaps if I spike the meeting chamber with some of them, it'll let our leaders finally see eye to eye. If not, then at least it'll allow them to communicate in a less noisy manner.
 > 
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/img/targets.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/Targets.webp#center)
 
 > **Target.** Neogi Hatchling  
 > **Request.** Neogi Amygdala  
@@ -1338,7 +1338,7 @@ However, many quests offer the option for the players to submit the request more
 > > As quartermaster, it's my duty to make sure that our armies have the supplies they need to stay healthy and safe. One thing I've always pushed for is better supplied ships, part of which is something to keep sailors safe in the event of going overboard or capsizing. I want potions of water breathing in every sailor's kit, but to do that, I'm going to need a lot of supplies. Thankfully, sea spawn are pretty numerous, and their blood lends itself well to the potion. I'll buy any vials of their blood that you bring me.
 > 
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/img/targets2.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/Targets2.webp#center)
 
 > **Target.** Specter/Poltergeist  
 > **Request.** Specter Remnant/Poltergeist Paper  
@@ -1438,7 +1438,7 @@ However, many quests offer the option for the players to submit the request more
 > > One of my basic services is to make a potion for adventurers that will protect them from the various poisons out there in the world. Unfortunately, I've gotten so many orders recently that I'm having trouble keeping up with demand. While there are a lot of different bases that can be used to craft the potion, one of the more common ones is yuan-ti blood. If you get me some, I'll gladly pay you a decent price for it.
 > 
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/img/targets3.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/Targets3.webp#center)
 
 ## CR 2
 
@@ -1806,7 +1806,7 @@ However, many quests offer the option for the players to submit the request more
 > > Let's get right to the point on this one: I am going to fail my wizard apprenticeship if I don't do something FAST. My spellbook is sorely lacking in...well... spells but I think I know the solution. An older student told me that a nothic brain can yield some of its spells to a wizard that writes in their book with its pulped remains. Now, they may have just said it as some stupid hazing prank, but at this point I'm willing to try anything.
 > 
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/img/targets4.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/Targets4.webp#center)
 
 > **Target.** Ochre Jelly  
 > **Request.** Ochre Residue (vial)  
@@ -2074,7 +2074,7 @@ However, many quests offer the option for the players to submit the request more
 > > One of my basic services is to make a potion for adventurers that will protect them from the various poisons out there in the world. Unfortunately, I've gotten so many orders recently that I'm having trouble keeping up with demand. While there are a lot of different bases that can be used to craft the potion, one of the more common ones is yuan-ti blood. If you get me some, I'll gladly pay you a decent price for it.
 > 
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/img/targets5.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/Targets5.webp#center)
 
 ## CR 3
 
@@ -2134,7 +2134,7 @@ However, many quests offer the option for the players to submit the request more
 > > More furs are needed in home. Home also has many bugbears around. Solution seems obvious.
 > 
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/img/targets6.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/Targets6.webp#center)
 
 > **Target.** Cave Fisher  
 > **Request.** Cave Fisher Filament  
@@ -2922,7 +2922,7 @@ However, many quests offer the option for the players to submit the request more
 > > One of my basic services is to make a potion for adventurers that will protect them from the various poisons out there in the world. Unfortunately, I've gotten so many orders recently that I'm having trouble keeping up with demand. While there are a lot of different bases that can be used to craft the potion, one of the more common ones is yuan-ti blood. If you get me some, I'll gladly pay you a decent price for it.
 > 
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/img/targets7.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/Targets7.webp#center)
 
 ## CR 5
 
@@ -3178,7 +3178,7 @@ However, many quests offer the option for the players to submit the request more
 > > The threat posed by hags has gone on for far too long. I am studying a way to put an end to their vile race once and for all, and I believe that the key lies in their infamous eyes. With the way they are connected to them, I believe they may be used as a method to find, hunt, and destroy them easily. I will need more samples to experiment with first though.
 > 
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/img/targets8.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/Targets8.webp#center)
 
 > **Target.** Otyugh  
 > **Request.** Otyugh Bile (vial)  
@@ -3306,7 +3306,7 @@ However, many quests offer the option for the players to submit the request more
 > > Of all the illithid experiments out there, the brain of a cranium rat is the one I am most excited to study. Most of my samples of illithid experiments come from humanoids like grimlocks and duergar, so you can imagine how interesting it is to see illithid influence on the simple brain of a beast. The way their feral instincts interacts with psionic control is fascinating, and I simply cannot have enough samples. If you can bring them back in one piece, I will gladly pay you for each brain you can find.
 > 
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/img/targets9.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/Targets9.webp#center)
 
 > **Target.** Tanarukk  
 > **Request.** Tanarukk Horn  
@@ -3504,7 +3504,7 @@ However, many quests offer the option for the players to submit the request more
 > > One of my basic services is to make a potion for adventurers that will protect them from the various poisons out there in the world. Unfortunately, I've gotten so many orders recently that I'm having trouble keeping up with demand. While there are a lot of different bases that can be used to craft the potion, one of the more common ones is yuan-ti blood. If you get me some, I'll gladly pay you a decent price for it.
 > 
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/img/targets10.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/Targets10.webp#center)
 
 ## CR 6
 
@@ -3846,7 +3846,7 @@ However, many quests offer the option for the players to submit the request more
 > > There is so much to learn from the elusive illithids, but I will endeavour to start small in studying them. Their mucus contains enzymes from the brains they consume, and so it displays certain qualities that are fascinating to a researcher like me. Bring me back some of these samples and there will no doubt be more work for you in the future.
 > 
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/img/targets11.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/Targets11.webp#center)
 
 > **Target.** Oni  
 > **Request.** Oni Heart  
@@ -4032,7 +4032,7 @@ However, many quests offer the option for the players to submit the request more
 > > I have received a bounty to hunt down a criminal who I believe has fled into the sewers of the city. I'd rather not spend half my time down there puking my guts out, so I'm going to need something to bolster my constitution a bit. I have an alchemist friend who says they can brew something like that for me, they just need a vial of hezrou blood.
 > 
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/img/targets12.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/Targets12.webp#center)
 
 > **Target.** Hydra  
 > **Request.** Hydra Blood (vial)  
@@ -4574,7 +4574,7 @@ However, many quests offer the option for the players to submit the request more
 > > I was weak once, and it cost me something very dear. I swore that I would never be weak again, even if I had to resort to outside sources to achieve that. The fingernails of giants are a potent source of magical energy that can be brewed into strength-enhancing potions. I will take any that you have and make their strength my own.
 > 
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/img/targets13.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/Targets13.webp#center)
 
 > **Target.** Ki-Rin  
 > **Request.** Ki-Rin Heart  
@@ -4834,7 +4834,7 @@ However, many quests offer the option for the players to submit the request more
 > > I run a rather specialised jewellers and am in need of something to complete my collection: a purple worm pearl. I have many clients asking about owning one of these massive gems, so I can afford to pay a premium for it.
 > 
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/img/targets14.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/Targets14.webp#center)
 
 ## CR 16
 
@@ -4852,7 +4852,7 @@ However, many quests offer the option for the players to submit the request more
 > > I have a few orders for animated contraptions and trinkets. I could do it with an intricate series of gears and mechanisms, but I'd rather take a shortcut here and just use the same animating force that goes into golems. Find some manual ashes from golems and bring them back, I'll give you a decent price for them.
 > 
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/img/targets15.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/Targets15.webp#center)
 
 > **Target.** Marilith  
 > **Request.** Marilith Snake Leather  
@@ -5090,4 +5090,4 @@ However, many quests offer the option for the players to submit the request more
 > > There is no denying the evidence anymore, the waves will soon consume our coastal city and our leaders are too busy lining their pockets to do something about it. Therefore, the task of saving our home falls to me. I have studied far and gathered many resources and found the solution: the hearts of a kraken. When used properly, they can be transformed into magical crystals that keep the tide at bay. I have everything else I need, the only thing remaining is the hearts themselves.
 > 
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/img/targets16.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/Targets16.webp#center)

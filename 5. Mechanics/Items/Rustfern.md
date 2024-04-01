@@ -12,7 +12,7 @@ cost: 10000
 ---
 # Rustfern
 *Herb, rare, Herb*  
-![[5. Mechanics/Items/img/rustfern.webp#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHbH/Rustfern.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 100 gp

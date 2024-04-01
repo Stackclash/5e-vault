@@ -45,8 +45,3 @@ If a creature goes mad in Yeenoghu's lair or within line of sight of the demon l
 | 61–80 | "I hunger for the deaths of others, and am constantly starting fights in the hope of seeing bloodshed." |
 | 81–00 | "I keep trophies from the bodies I have slain, turning them into adornments." |
 ^madness-of-yeenoghu
-
-## Is homebrew
-_Source: Mordenkainen's Tome of Foes_
-
-false

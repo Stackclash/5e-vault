@@ -11,7 +11,7 @@ aliases:
 ---
 # Concoction of Contamination
 *Potion, very rare, Crafted by*  
-![[5. Mechanics/Items/img/concoctionofcontamination.webp#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/ConcoctionofContamination.webp#right)  
 
 - **Properties**: Crafted by
 

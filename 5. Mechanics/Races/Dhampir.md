@@ -12,7 +12,6 @@ aliases:
 ![[5. Mechanics/Races/img/dhampir.webp#right]]  
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
-- **Type**: race
 - **Size**: Small or Medium
 - **Speed**: walk: 35 ft.; climb equal to your walking speed
 

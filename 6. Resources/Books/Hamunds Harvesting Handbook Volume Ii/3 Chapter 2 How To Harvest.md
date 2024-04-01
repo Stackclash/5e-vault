@@ -79,4 +79,4 @@ Furthermore, the DM may adjudicate whether or not some of a creature's individua
 > [!embed-variantrule]- Optional Rule: Carcass Degradation
 > ![[/5. Mechanics/Rules/Variant Rules/Optional Rule Carcass Degradation.md\|Optional Rule: Carcass Degradation]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/howtoharvest.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/HowToHarvest.webp#center)

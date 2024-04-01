@@ -27,8 +27,3 @@ The region containing Zariel's lair is warped by her magic, which creates one or
 - The area within 2 miles, but no closer than 500 feet, of the lair is filled with smoke, which causes the area to be heavily obscured. The smoke can't be cleared away.  
 
 If Zariel dies, these effects fade over the course of `dice: 1d10|avg` (`1d10`) days.
-
-## Is homebrew
-_Source: Mordenkainen's Tome of Foes_
-
-false

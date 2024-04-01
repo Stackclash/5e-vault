@@ -15,7 +15,7 @@ aliases:
 ---
 # Foxglove Bow
 *Ranged Weapon, very rare (requires attunement by a chaotic creature)*  
-![[5. Mechanics/Items/img/foxglove-bow.jpg#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/foxglove-bow.jpg#right)  
 
 - **Damage**: 1d8 P
 - **Range**: 150/600

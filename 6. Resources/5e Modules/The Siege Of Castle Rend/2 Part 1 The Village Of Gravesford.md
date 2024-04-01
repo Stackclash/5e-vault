@@ -56,7 +56,7 @@ Gravesford is at the edge of the Forest Rend, a lawless wood where inhuman creat
 
 ## Gravesford Locations
 
-![[6. Resources/5e Modules/The Siege Of Castle Rend/img/socr-gravesford.jpg#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/socr-gravesford.jpg#center)
 
 The small town of Gravesford is filled with common people and their homes. Some of these homes and shops may be of interest to the players and are detailed here. To not overwhelm you with the minutiae of the homesteads of two hundred people, other locations are left blank for you to fill in as needed. These locations are keyed to the map of Gravesford found on the next page.
 
@@ -122,7 +122,7 @@ Based on the events of this adventure, it's unlikely Father Belderone is going t
 
 ### A4. The Reluctant Pig
 
-![[6. Resources/5e Modules/The Siege Of Castle Rend/img/socr-reluctant-pig.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/socr-reluctant-pig.webp#center)
 
 The oldest building in Gravesford is the Reluctant Pig, a two-story inn with a moss-covered roof constructed from the same stone as the Gravesford Bridge. The sign outside depicts a young pig straining against a leash held by someone we cannot see. The sign has no text, as most people in town and most carters and journeymen cannot read.
 
@@ -158,7 +158,7 @@ Ideally the PCs arrive in Gravesford at dusk, seeking food, shelter, and rest. T
 - **The Posse Departs (Day 3, Morning)..** A handful of volunteers from around town set off to explore the Forest Rend. If they go off without a tracker, they do not return.  
 - **Bonebreaker's Bargain (Day 4, Dawn)..** Bonebreaker Dorokor and her White Tusk orcs emerge from the forest, prepared to bargain for the life of Pinna, the militia, and—most importantly—Edmund Bedegar.  
 
-![[6. Resources/5e Modules/The Siege Of Castle Rend/img/socr-bounty-post.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/socr-bounty-post.webp#center)
 
 ### The Arrival of Sir Pelliton
 
@@ -198,7 +198,7 @@ If any of Pelliton's underlings are knocked [[/5. Mechanics/Rules/Conditions.md#
 
 ### Abduction in the Dead of Night
 
-![[6. Resources/5e Modules/The Siege Of Castle Rend/img/socr-abduction.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/socr-abduction.webp#center)
 
 A scream and a chorus of bestial roars shatter the stillness of the night. The sounds came from the edge of town—from the edge closest to the forest. As the screams fade into silence, an explosion jolts the entire town into wakefulness, and a towering flame erupts at the southernmost tip of the village.
 

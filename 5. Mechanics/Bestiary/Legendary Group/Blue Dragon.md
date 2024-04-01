@@ -42,9 +42,4 @@ Any of these effects might appear in the area around a blue dragon's lair, in ad
 
 - **Blue Luster.** Creatures that spend a year within 1 mile of the dragon's lair find blue objects fascinating and feel compelled to acquire them at every opportunity.  
 - **Mirage Terrain.** The area immediately surrounding the lair appears to be a lush oasis. A creature carefully examining the illusion can attempt a DC 15 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation|Investigation]]) check to disbelieve it. A creature who disbelieves the illusion sees it as a vague image superimposed on the underlying terrain.  
-- **Sandstorm.** A sandstorm blows constantly within 1 mile of the dragon's lair.  
-
-## Is homebrew
-_Source: Monster Manual_
-
-false
+- **Sandstorm.** A sandstorm blows constantly within 1 mile of the dragon's lair.

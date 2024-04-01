@@ -15,7 +15,7 @@ aliases:
   - Kobold Dragonshield
 ---
 # [[5. Mechanics\Bestiary\Dragon\Kobold Dragonshield.md|Kobold Dragonshield]]
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 163*
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 163, Volo's Guide to Monsters p. 165*
 
 > [!quote]- A quote from Mordenkainen  
 > 

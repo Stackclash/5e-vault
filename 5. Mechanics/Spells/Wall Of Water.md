@@ -28,4 +28,4 @@ Any ranged weapon attack that enters the wall's space has disadvantage on the at
 
 **Classes**: [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
-*Source: Xanathar's Guide to Everything p. 170*
+*Source: Xanathar's Guide to Everything p. 170, Volo's Guide to Monsters p. 116*

@@ -12,7 +12,6 @@ aliases:
 ![[5. Mechanics/Races/img/tiefling.webp#right]]  
 
 - **Ability Scores**: Charisma +2, Dexterity +1
-- **Type**: subrace
 - **Size**: Medium
 - **Speed**: 30 ft.
 - **Spellcasting**: Charisma

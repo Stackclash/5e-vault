@@ -47,7 +47,7 @@ Read this aloud when the PCs first emerge from the forest and see Castle Rend.
 > 
 > The underbrush is clear for sixty feet surrounding the ruin, with lit torches placed every forty to fifty feet. The walls of the keep are as bare as the ground, not overgrown with choking vines
 
-![[6. Resources/5e Modules/The Siege Of Castle Rend/img/socr-part-3.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/socr-part-3.webp#center)
 
 ## Castle Rend General Features
 
@@ -100,9 +100,9 @@ The orcs hunt game in the forest. Dorokor occasionally leads the hunt. Metalwork
 Castle Rend was built in a forest clearing, and its two watchtowers gave it an excellent view of the surrounding area in those days. Now that one tower is collapsed and filled with vengeful spirits, the orcs only have one tower from which to survey the area. If both were in use, the fortress would be all but impossible to sneak up on. However, in its current state, the PCs have two options: attempt to sneak past the orcish sentries surveilling the courtyard and risk alerting the orcs, or brave the dungeon and risk their lives.
 
 > [!gallery]
-> ![[6. Resources/5e Modules/The Siege Of Castle Rend/img/socr-rend-night.jpg#gallery\|DM map]]
-> ![[6. Resources/5e Modules/The Siege Of Castle Rend/img/socr-rend-night-pc.jpg#gallery\|Player map (night)]]
-> ![[6. Resources/5e Modules/The Siege Of Castle Rend/img/socr-rend-day-pc.jpg#gallery\|Player map (day)]]
+> ![DM map](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/socr-rend-night.jpg#gallery)
+> ![Player map (night)](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/socr-rend-night-pc.jpg#gallery)
+> ![Player map (day)](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/socr-rend-day-pc.jpg#gallery)
 
 ### B1. Forest's Edge
 
@@ -242,7 +242,7 @@ Sifting through the rubble for 5 minutes reveals a rusted iron lockbox, which is
 
 The key within this scroll case is small, made of silver, and embellished with an image of a dragon. It opens the treasure chests in C19 within the dungeon.
 
-![[6. Resources/5e Modules/The Siege Of Castle Rend/img/socr-collapsed-tower.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/socr-collapsed-tower.webp#center)
 
 > [!readaloud] Backstory: Edmund and Dorokor
 > 
@@ -264,8 +264,8 @@ The key within this scroll case is small, made of silver, and embellished with a
 The dungeons of Castle Rend contain the sleeping quarters of the White Tusk clan's lowliest grunts, but they are also home to the clan's shrine to Grole, the clan's warspeakers, and their shamans. Some putrid smell and the acrid stench of smoke fills the dungeons—the orcs' shamans are brewing something foul down here, and there is hardly any ventilation. The stink doesn't bother the orcs, but PCs that enter the dungeon level must succeed on a DC 13 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] for 1 hour by the smell. If a PC succeeds on this save, they become immune to being [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] in this way for 24 hours.
 
 > [!gallery]
-> ![[6. Resources/5e Modules/The Siege Of Castle Rend/img/socr-rend-dungeon.jpg#gallery\|DM map]]
-> ![[6. Resources/5e Modules/The Siege Of Castle Rend/img/socr-rend-dungeon-pc.jpg#gallery\|PC map]]
+> ![DM map](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/socr-rend-dungeon.jpg#gallery)
+> ![PC map](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/socr-rend-dungeon-pc.jpg#gallery)
 
 ### C15. Prison-Barracks
 
@@ -328,7 +328,7 @@ At the start of each round of combat while in the crypt, two [[5. Mechanics/Best
 
 Within the wraith's sarcophagus is his holy sword, [[5. Mechanics/Items/Grace.md\|Grace]] (page 144). Another sarcophagus holds the dust of another knight and the [[5. Mechanics/Items/Armor Of St Gaed The Confessor.md\|Armor of St. Gaed the Confessor]] (page 144).
 
-![[6. Resources/5e Modules/The Siege Of Castle Rend/img/socr-crypt-blue-dragonflight.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/socr-crypt-blue-dragonflight.webp#center)
 
 ### C22. Tower Stairs
 
@@ -344,7 +344,7 @@ Two [[5. Mechanics/Bestiary/Humanoid/White Tusk Warspeaker.md\|White Tusk warspe
 
 A fist-sized sapphire rests on the shrine, a shining stone that one of the warspeakers found while exploring the dungeons. A character that makes a successful DC 22 Intelligence ([[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]] or [[/5. Mechanics/Rules/Skills.md#Nature\|Nature]]) check discerns that this stone is actually the crystallized heart of a sapphire dragon, and it is probably about a hundred years old. As a stone, it would sell for about 400 gp, but as a magical relic, a wizard would easily buy it for 1,000 gp. It also functions as a medium [[5. Mechanics/Items/Psionic Crystal.md\|psionic crystal]] (page 260).
 
-![[6. Resources/5e Modules/The Siege Of Castle Rend/img/socr-grole-shrine.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/socr-grole-shrine.webp#center)
 
 ### C24. Secret Escape Route
 

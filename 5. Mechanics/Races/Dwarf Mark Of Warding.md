@@ -11,7 +11,6 @@ aliases:
 *Source: Eberron: Rising from the Last War p. 51*  
 
 - **Ability Scores**: Intelligence +1
-- **Type**: subrace
 - **Size**: Medium
 - **Speed**: 25 ft.
 - **Spellcasting**: Intelligence

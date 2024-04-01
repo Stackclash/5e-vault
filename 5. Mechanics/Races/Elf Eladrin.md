@@ -11,7 +11,6 @@ aliases:
 *Source: Dungeon Master's Guide p. 286*  
 
 - **Ability Scores**: Intelligence +1
-- **Type**: subrace
 - **Size**: Medium
 - **Speed**: 30 ft.
 - **Spellcasting**: Charisma

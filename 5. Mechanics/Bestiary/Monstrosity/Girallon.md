@@ -12,7 +12,7 @@ aliases:
   - Girallon
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Girallon.md|Girallon]]
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 139*
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 139, Volo's Guide to Monsters p. 152*
 
 A girallon looks like an oversized, four-armed ape with grayish-tan skin and white fur. Its vicious fangs and claws reveal it to be a monstrous predator.
 

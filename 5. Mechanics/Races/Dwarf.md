@@ -12,7 +12,6 @@ aliases:
 ![[5. Mechanics/Races/img/dwarf.webp#right]]  
 
 - **Ability Scores**: Constitution +2
-- **Type**: race
 - **Size**: Medium
 - **Speed**: 25 ft.
 

@@ -11,7 +11,6 @@ aliases:
 *Source: Eberron: Rising from the Last War p. 50*  
 
 - **Ability Scores**: Charisma +2, Dexterity +1
-- **Type**: subrace
 - **Size**: Medium
 - **Speed**: 30 ft.
 - **Spellcasting**: Charisma

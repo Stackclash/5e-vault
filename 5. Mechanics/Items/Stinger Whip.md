@@ -14,7 +14,7 @@ aliases:
 ---
 # Stinger Whip
 *Melee Weapon, rare, Crafted by*  
-![[5. Mechanics/Items/img/stingerwhip.webp#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/StingerWhip.webp#right)  
 
 - **Damage**: 1d4 S
 - **Properties**: Crafted by, [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], Martial, [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]]

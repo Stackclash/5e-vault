@@ -12,7 +12,6 @@ aliases:
 ![[5. Mechanics/Races/img/halfling.webp#right]]  
 
 - **Ability Scores**: Charisma +1
-- **Type**: subrace
 - **Size**: Small
 - **Speed**: 25 ft.
 

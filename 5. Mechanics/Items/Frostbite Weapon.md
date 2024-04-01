@@ -39,7 +39,7 @@ aliases:
 ---
 # Frostbite Weapon
 *Generic Variant, very rare (requires attunement)*  
-![[5. Mechanics/Items/img/frostbiteweapon.webp#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/FrostbiteWeapon.webp#right)  
 
 
 You gain a +2 bonus to all attack and damage rolls made with this weapon. When you hit with this weapon, you may choose to deal an extra `dice: 3d6|avg` (`3d6`) cold damage and force the target creature to make a DC 15 Constitution saving throw. On a failed save, for the next minute the target's speed is reduced by 10 feet, is unable to take reactions, and only be able to take either an action or a bonus action on its turn, but not both. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.

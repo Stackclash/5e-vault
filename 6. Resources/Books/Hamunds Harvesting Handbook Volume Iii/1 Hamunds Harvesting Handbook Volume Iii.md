@@ -9,7 +9,7 @@ aliases:
 # Hamund's Harvesting Handbook: Volume III
 *Source: Hamund's Harvesting Handbook: Volume III, p. 1* 
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Iii/img/cover-full.webp#center\|Front Cover]]
+![Front Cover](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Cover-Full.webp#center)
 
 **A Harvesting Guide to Mordenkainen's Tome of Foes**
 
@@ -42,7 +42,7 @@ aliases:
 
 ## Contact Us
 
-Email: *driftersgameworkshop@gmail.com*
+Email: driftersgameworkshop@gmail.com (mailto:driftersgameworkshop@gmail.com)
 
 Twitter: @drifterworkshop (https://twitter.com/drifterworkshop)
 

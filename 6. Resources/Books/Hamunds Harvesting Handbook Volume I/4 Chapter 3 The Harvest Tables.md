@@ -69,7 +69,7 @@ There is no ability check required to pilfer these trinkets, and the DM is free 
 
 Like all harvested items, the value and weight listed refers to 1 unit of the respective item in that row.
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/humanoidtrinkets.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/HumanoidTrinkets.webp#center)
 
 ## Harvest Table: A
 
@@ -125,7 +125,7 @@ While inflicted with the *curse of the fallen*, a creature becomes vulnerable to
 > [!embed-table]- Ankheg
 > ![[5. Mechanics/Tables/Ankheg.md\|Ankheg]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/ankheg.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Ankheg.webp#center)
 
 ### Azer
 
@@ -164,7 +164,7 @@ While inflicted with the *curse of the fallen*, a creature becomes vulnerable to
 > [!embed-table]- Spectator
 > ![[5. Mechanics/Tables/Spectator.md\|Spectator]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/beholder.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Beholder.webp#center)
 
 ### Blights
 
@@ -192,7 +192,7 @@ While inflicted with the *curse of the fallen*, a creature becomes vulnerable to
 > [!embed-table]- Bugbear Trinket Table
 > ![[5. Mechanics/Tables/Bugbear Trinket Table.md\|Bugbear Trinket Table]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/bugbear.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Bugbear.webp#center)
 
 ### Bulette
 
@@ -211,7 +211,7 @@ While inflicted with the *curse of the fallen*, a creature becomes vulnerable to
 > [!embed-table]- Bullywug Trinket Table
 > ![[5. Mechanics/Tables/Bullywug Trinket Table.md\|Bullywug Trinket Table]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/bullywug.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Bullywug.webp#center)
 
 ## Harvest Table: C
 
@@ -225,7 +225,7 @@ While inflicted with the *curse of the fallen*, a creature becomes vulnerable to
 > [!embed-table]- Cambion
 > ![[5. Mechanics/Tables/Cambion.md\|Cambion]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/carrioncrawler.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/CarrionCrawler.webp#center)
 
 ### Centaur
 
@@ -236,7 +236,7 @@ While inflicted with the *curse of the fallen*, a creature becomes vulnerable to
 > [!embed-table]- Centaur
 > ![[5. Mechanics/Tables/Centaur.md\|Centaur]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/centaur.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Centaur.webp#center)
 
 ### Chimera
 
@@ -248,7 +248,7 @@ While inflicted with the *curse of the fallen*, a creature becomes vulnerable to
 > [!embed-table]- Chuul
 > ![[5. Mechanics/Tables/Chuul.md\|Chuul]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/chuul.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Chuul.webp#center)
 
 ### Cloaker
 
@@ -359,7 +359,7 @@ If the curse came from a non-consumable item, there is an additional aspect of t
 > [!embed-table]- Nalfeshnee
 > ![[5. Mechanics/Tables/Nalfeshnee.md\|Nalfeshnee]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/nalfeshnee.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Nalfeshnee.webp#center)
 
 #### Quasit
 
@@ -381,7 +381,7 @@ If the curse came from a non-consumable item, there is an additional aspect of t
 > [!embed-table]- Yochlol
 > ![[5. Mechanics/Tables/Yochlol.md\|Yochlol]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/yochlol.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Yochlol.webp#center)
 
 ### Devils
 
@@ -398,7 +398,7 @@ If the curse came from a non-consumable item, there is an additional aspect of t
 > [!embed-table]- Fiendish Curse (Devil)
 > ![[5. Mechanics/Tables/Fiendish Curse Devil.md\|Fiendish Curse (Devil)]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/ninehells.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/NineHells.webp#center)
 
 #### Barbed Devil
 
@@ -457,7 +457,7 @@ If the curse came from a non-consumable item, there is an additional aspect of t
 
 ### Dinosaurs
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/dinosaurs.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Dinosaurs.webp#center)
 
 #### Allosaurus
 
@@ -512,7 +512,7 @@ If the curse came from a non-consumable item, there is an additional aspect of t
 > [!embed-table]- Dracolich
 > ![[5. Mechanics/Tables/Dracolich.md\|Dracolich]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/dracolich.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Dracolich.webp#center)
 
 ### Dragon, Shadow
 
@@ -536,7 +536,7 @@ Crafted items may also change their nature depending on the colour/metal of the 
 > [!embed-table]- Dragon Types
 > ![[5. Mechanics/Tables/Dragon Types.md\|Dragon Types]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/dragon.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Dragon.webp#center)
 
 #### Ancient Dragon
 
@@ -572,14 +572,14 @@ Crafted items may also change their nature depending on the colour/metal of the 
 > [!embed-table]- Drider
 > ![[5. Mechanics/Tables/Drider.md\|Drider]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/drider.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Drider.webp#center)
 
 ### Dryad
 
 > [!embed-table]- Dryad
 > ![[5. Mechanics/Tables/Dryad.md\|Dryad]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/dryad.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Dryad.webp#center)
 
 ### Duergar
 
@@ -615,7 +615,7 @@ Crafted items may also change their nature depending on the colour/metal of the 
 > [!embed-table]- Water Elemental
 > ![[5. Mechanics/Tables/Water Elemental.md\|Water Elemental]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/elementals.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Elementals.webp#center)
 
 ### Elves - Drow
 
@@ -623,7 +623,7 @@ Crafted items may also change their nature depending on the colour/metal of the 
 > 
 > I have personally faced off against so many drow in my travels that it's a wonder I don't spontaneously transform into a duergar. While their blood is of some use to alchemists, most of their value does come from the items they carry on themselves. Many an elf on the surface would pay a good sum for a drow trinket or two, if only to claim that they themselves were the ones to slay its previous owner.
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/drow.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Drow.webp#center)
 
 #### Drow
 
@@ -669,7 +669,7 @@ Carrying the remains of an empyrean make you particularly susceptible to the [[5
 > [!embed-table]- Ettin
 > ![[5. Mechanics/Tables/Ettin.md\|Ettin]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/ettin.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Ettin.webp#center)
 
 ## Harvest Table: F
 
@@ -697,7 +697,7 @@ Carrying the remains of an empyrean make you particularly susceptible to the [[5
 > [!embed-table]- Fomorian
 > ![[5. Mechanics/Tables/Fomorian.md\|Fomorian]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/fomorian.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Fomorian.webp#center)
 
 ### Fungi
 
@@ -716,7 +716,7 @@ Carrying the remains of an empyrean make you particularly susceptible to the [[5
 > [!embed-table]- Violet Fungus
 > ![[5. Mechanics/Tables/Violet Fungus.md\|Violet Fungus]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/fungi.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Fungi.webp#center)
 
 ## Harvest Table: G
 
@@ -730,7 +730,7 @@ Carrying the remains of an empyrean make you particularly susceptible to the [[5
 > [!embed-table]- Gargoyle
 > ![[5. Mechanics/Tables/Gargoyle.md\|Gargoyle]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/gargoyle.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Gargoyle.webp#center)
 
 ### Genies
 
@@ -771,7 +771,7 @@ Carrying the remains of an empyrean make you particularly susceptible to the [[5
 > [!embed-table]- Ghoul
 > ![[5. Mechanics/Tables/Ghoul.md\|Ghoul]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/ghoul.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Ghoul.webp#center)
 
 ### Giants
 
@@ -846,7 +846,7 @@ Carrying the remains of an empyrean make you particularly susceptible to the [[5
 > [!embed-table]- Githzerai Trinket Table
 > ![[5. Mechanics/Tables/Githzerai Trinket Table.md\|Githzerai Trinket Table]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/gith.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Gith.webp#center)
 
 ### Gnolls
 
@@ -872,7 +872,7 @@ Carrying the remains of an empyrean make you particularly susceptible to the [[5
 > [!embed-table]- Gnoll Trinket Table
 > ![[5. Mechanics/Tables/Gnoll Trinket Table.md\|Gnoll Trinket Table]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/gnolls.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Gnolls.webp#center)
 
 ### Gnome, Deep
 
@@ -905,7 +905,7 @@ Carrying the remains of an empyrean make you particularly susceptible to the [[5
 > [!embed-table]- Goblin Trinket Table
 > ![[5. Mechanics/Tables/Goblin Trinket Table.md\|Goblin Trinket Table]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/goblins.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Goblins.webp#center)
 
 ### Golems
 
@@ -929,7 +929,7 @@ Carrying the remains of an empyrean make you particularly susceptible to the [[5
 > [!embed-table]- Stone Golem
 > ![[5. Mechanics/Tables/Stone Golem.md\|Stone Golem]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/golems.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Golems.webp#center)
 
 ### Gorgon
 
@@ -975,7 +975,7 @@ Perhaps reflective of their spiteful nature in life, hags continue to display an
 
 Upon contracting [crone's disease](/compendium/rules/diseases.md#crone's%20disease), 1 of the victim's facial features/body parts immediately transforms to look more hag like. For example, their nose may become hooked, or their hands become claw-like. Every 24 hours, the victim may attempt the saving throw again. On a success, the disease ends, and every 24 hours subsequently, 1 transformed feature returns to normal. On a failure, another facial feature or body part changes to become more hag-like, and the disease continues. Every 7 days, any currently transformed feature becomes permanent even after the disease is cured. At that point, only restorative magic such as that of the spell [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] may return the creature to their normal appearance.
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/hags.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Hags.webp#center)
 
 #### Green Hag
 
@@ -1041,7 +1041,7 @@ Upon contracting [crone's disease](/compendium/rules/diseases.md#crone's%20disea
 > [!embed-table]- Hobgoblin Trinket Table
 > ![[5. Mechanics/Tables/Hobgoblin Trinket Table.md\|Hobgoblin Trinket Table]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/hobgoblins.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Hobgoblins.webp#center)
 
 ### Homunculus
 
@@ -1065,7 +1065,7 @@ Upon contracting [crone's disease](/compendium/rules/diseases.md#crone's%20disea
 > [!embed-table]- Intellect Devourer
 > ![[5. Mechanics/Tables/Intellect Devourer.md\|Intellect Devourer]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/intellectdevourer.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/IntellectDevourer.webp#center)
 
 ### Invisible Stalker
 
@@ -1093,7 +1093,7 @@ Upon contracting [crone's disease](/compendium/rules/diseases.md#crone's%20disea
 > [!embed-table]- Kenku Trinket Table
 > ![[5. Mechanics/Tables/Kenku Trinket Table.md\|Kenku Trinket Table]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/kenku.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Kenku.webp#center)
 
 ### Kobolds
 
@@ -1143,7 +1143,7 @@ Upon contracting [crone's disease](/compendium/rules/diseases.md#crone's%20disea
 > [!embed-table]- Kuo-Toa Trinket Table
 > ![[5. Mechanics/Tables/Kuo Toa Trinket Table.md\|Kuo-Toa Trinket Table]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/kuo-toa.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Kuo-Toa.webp#center)
 
 ## Harvest Table: L
 
@@ -1185,7 +1185,7 @@ Upon contracting [crone's disease](/compendium/rules/diseases.md#crone's%20disea
 > [!embed-table]- Lizardfolk Trinket Table
 > ![[5. Mechanics/Tables/Lizardfolk Trinket Table.md\|Lizardfolk Trinket Table]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/lizardfolk.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Lizardfolk.webp#center)
 
 ### Lycanthropes
 
@@ -1274,7 +1274,7 @@ Modrons dissolve into a useless dust upon death and as such, do not feature a ha
 > [!embed-table]- Mummy Lord
 > ![[5. Mechanics/Tables/Mummy Lord.md\|Mummy Lord]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/mummy.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Mummy.webp#center)
 
 ### Myconid
 
@@ -1310,7 +1310,7 @@ Modrons dissolve into a useless dust upon death and as such, do not feature a ha
 > [!embed-table]- Nothic
 > ![[5. Mechanics/Tables/Nothic.md\|Nothic]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/nothic.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Nothic.webp#center)
 
 ## Harvest Table: O
 
@@ -1327,7 +1327,7 @@ Modrons dissolve into a useless dust upon death and as such, do not feature a ha
 > [!embed-table]- Oni
 > ![[5. Mechanics/Tables/Oni.md\|Oni]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/oni.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Oni.webp#center)
 
 ### Oozes
 
@@ -1349,7 +1349,7 @@ If you fail on an attempt to harvest any item from an ooze, you suffer half the 
 > [!embed-table]- Ochre Residue
 > ![[5. Mechanics/Tables/Ochre Residue.md\|Ochre Residue]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/oozes.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Oozes.webp#center)
 
 ### Orcs
 
@@ -1372,14 +1372,14 @@ If you fail on an attempt to harvest any item from an ooze, you suffer half the 
 > [!embed-table]- Orc Trinket Table
 > ![[5. Mechanics/Tables/Orc Trinket Table.md\|Orc Trinket Table]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/orog.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Orog.webp#center)
 
 ### Otyugh
 
 > [!embed-table]- Otyugh
 > ![[5. Mechanics/Tables/Otyugh.md\|Otyugh]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/otyugh.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Otyugh.webp#center)
 
 ### Owlbear
 
@@ -1422,7 +1422,7 @@ If you fail on an attempt to harvest any item from an ooze, you suffer half the 
 > [!embed-table]- Purple Worm
 > ![[5. Mechanics/Tables/Purple Worm.md\|Purple Worm]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/purpleworm.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/PurpleWorm.webp#center)
 
 ## Harvest Table: Q
 
@@ -1560,7 +1560,7 @@ Due to their large sizes and amorphous nature, a shambling mound can potentially
 > [!embed-table]- Death Slaad
 > ![[5. Mechanics/Tables/Death Slaad.md\|Death Slaad]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/slaadi.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Slaadi.webp#center)
 
 ### Specter
 
@@ -1627,7 +1627,7 @@ Tarrasque parts do not face [[/5. Mechanics/Rules/Variant Rules/Optional Rule Ca
 > [!embed-table]- Troll
 > ![[5. Mechanics/Tables/Troll.md\|Troll]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/troll.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Troll.webp#center)
 
 ## Harvest Table: U
 
@@ -1636,7 +1636,7 @@ Tarrasque parts do not face [[/5. Mechanics/Rules/Variant Rules/Optional Rule Ca
 > [!embed-table]- Umber Hulk
 > ![[5. Mechanics/Tables/Umber Hulk.md\|Umber Hulk]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/umberhulk.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/UmberHulk.webp#center)
 
 ### Unicorn
 
@@ -1667,7 +1667,7 @@ Only one item made from a vampire can curse a target at any given time and a cre
 > [!embed-table]- Vampire Spawn
 > ![[5. Mechanics/Tables/Vampire Spawn.md\|Vampire Spawn]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/vampires.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Vampires.webp#center)
 
 ## Harvest Table: W
 
@@ -1681,7 +1681,7 @@ Only one item made from a vampire can curse a target at any given time and a cre
 > [!embed-table]- Wight
 > ![[5. Mechanics/Tables/Wight.md\|Wight]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/wight.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Wight.webp#center)
 
 ### Will-O-Wisp
 
@@ -1698,7 +1698,7 @@ Only one item made from a vampire can curse a target at any given time and a cre
 > [!embed-table]- Wyvern
 > ![[5. Mechanics/Tables/Wyvern.md\|Wyvern]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/wyvern.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Wyvern.webp#center)
 
 ## Harvest Table: X
 
@@ -1707,7 +1707,7 @@ Only one item made from a vampire can curse a target at any given time and a cre
 > [!embed-table]- Xorn
 > ![[5. Mechanics/Tables/Xorn.md\|Xorn]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/xorn.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Xorn.webp#center)
 
 ## Harvest Table: Y
 
@@ -1719,7 +1719,7 @@ Only one item made from a vampire can curse a target at any given time and a cre
 > [!embed-table]- Abominable Yeti
 > ![[5. Mechanics/Tables/Abominable Yeti.md\|Abominable Yeti]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/yeti.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Yeti.webp#center)
 
 ### Yuan-Ti
 
@@ -1752,7 +1752,7 @@ Like regular devils, yugoloths slain outside of their native plane also dissolve
 > [!embed-table]- Ultroloth
 > ![[5. Mechanics/Tables/Ultroloth.md\|Ultroloth]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/nycaloth.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Nycaloth.webp#center)
 
 ## Harvest Table: Z
 
@@ -1765,4 +1765,4 @@ Like regular devils, yugoloths slain outside of their native plane also dissolve
 > [!embed-table]- Zombie
 > ![[5. Mechanics/Tables/Zombie.md\|Zombie]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/zombie.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Zombie.webp#center)

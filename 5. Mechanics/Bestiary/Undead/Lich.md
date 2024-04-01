@@ -144,6 +144,25 @@ A lich encountered in its lair has a challenge rating of 22 (41,000 XP).
     \ saving throw against this magic, taking dice: 6d6|avg (6d6) necrotic damage\
     \ on a failed save, or half as much damage on a successful one."
   "name": "Disrupt Life (Costs 3 Actions)"
+"lair_actions":
+- "desc": "On initiative count 20 (losing initiative ties), the lich can take a lair\
+    \ action to cause one of the following magical effects; the lich can't use the\
+    \ same effect two rounds in a row:"
+  "name": ""
+- "desc": "- The lich rolls a dice: d8|avg (d8) and regains a spell slot of that\
+    \ level or lower. If it has no spent spell slots of that level or lower, nothing\
+    \ happens.  \n- The lich targets one creature it can see within 30 feet of it.\
+    \ A crackling cord of negative energy tethers the lich to the target. Whenever\
+    \ the lich takes damage, the target must make a DC 18 Constitution saving throw.\
+    \ On a failed save, the lich takes half the damage (rounded down), and the target\
+    \ takes the remaining damage. This tether lasts until initiative count 20 on the\
+    \ next round or until the lich or the target is no longer in the lich's lair.\
+    \  \n- The lich calls forth the spirits of creatures that died in its lair. These\
+    \ apparitions materialize and attack one creature that the lich can see within\
+    \ 60 feet of it. The target must succeed on a DC 18 Constitution saving throw,\
+    \ taking dice: 15d6|avg (15d6) necrotic damage on a failed save, or half as\
+    \ much damage on a success. The apparitions then disappear.  "
+  "name": ""
 "source":
 - "MM"
 - "CoS"

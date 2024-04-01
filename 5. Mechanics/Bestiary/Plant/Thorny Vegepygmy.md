@@ -13,7 +13,7 @@ aliases:
   - Thorny Vegepygmy
 ---
 # [[5. Mechanics\Bestiary\Plant\Thorny Vegepygmy.md|Thorny Vegepygmy]]
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 253*
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 253, Volo's Guide to Monsters p. 197*
 
 If a Beast such as a dog or a bear dies from [[5. Mechanics/Traps Hazards/Russet Mold.md|russet mold]], the result is a bestial moldy called a thorny, instead of a bipedal vegepygmy. Thornies are less intelligent than other vegepygmies, but they are larger and more ferocious and have thorn-covered bodies.
 

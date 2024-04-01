@@ -12,7 +12,7 @@ aliases:
 ---
 # Amulet of Telepathic Control
 *Wondrous Item, very rare, Crafted by (requires attunement)*  
-![[5. Mechanics/Items/img/amuletoftelepathiccontrol.webp#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/AmuletofTelepathicControl.webp#right)  
 
 - **Properties**: Crafted by
 

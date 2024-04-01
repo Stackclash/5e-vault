@@ -69,7 +69,7 @@ The following are a list of NPC crafters that a DM can easily slot into any camp
 
     Despite being incredibly intelligent, Lidda does have a tendency towards air-headedness. Thus, although she tends to stay in her family home (as most halflings are content to do), Lidda has a tendency to go on walks, become incredibly enthralled by her thoughts and musings, and then find herself hopelessly lost. On these occasions, she can sometimes take upwards of several years before she manages to stumble upon her home again, laden down with new materials to experiment with from her travels.  
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/alchemist.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Alchemist.webp#center)
 
 ### Artificer
 
@@ -79,7 +79,7 @@ The following are a list of NPC crafters that a DM can easily slot into any camp
 
     Discontent with simply learning the same tired old lessons, Shareefah left her family and her inheritance behind in order to learn everything that the wide multiverse could offer her. She makes her living offering her services to anyone who has an interesting material for her to work with. Those that have met her can attest to her immense prowess in the artificing craft, exemplified perfectly in the portable workshop she designed: an entire hut she can store inside a large ring on her finger.  
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/artificer.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Artificer.webp#center)
 
 ### Blacksmith
 
@@ -89,7 +89,7 @@ The following are a list of NPC crafters that a DM can easily slot into any camp
 
     Holderheks are restless by nature, so it is common for Orsik to leave his forge in search of interesting new locales, stories, and materials. However, wherever he goes, he always brings with him his favourite smithing hammer, a good supply of high-intensity dragon coal, and his prized shrinking anvil (something of his own creation). With these, he is always ready to smith even the rarest of new materials.  
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/blacksmith.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Blacksmith.webp#center)
 
 ### Leatherworker
 
@@ -101,7 +101,7 @@ The following are a list of NPC crafters that a DM can easily slot into any camp
 
     His vagrant lifestyle naturally causes him to be found just about anywhere, and it is not uncommon to find him having set up a temporary storefront in a town while he considers his next adventure.  
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/leatherworker.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Leatherworker.webp#center)
 
 ### Thaumaturge
 
@@ -111,7 +111,7 @@ The following are a list of NPC crafters that a DM can easily slot into any camp
 
     Despite everything, I still have found her to be a valuable source of advice, leads, and information. This goes doubly so for her skills as a [[5. Mechanics/Optional Features/Thaumaturge.md\|Thaumaturge]], able to easily summon forth divine blessings from reams of [[5. Mechanics/Items/Spirit Paper.md\|Spirit Paper]], or able to demand servitude from the harvested remains of demons. Mardred tends to wander from town to town, offering her services to any with the coin to pay, her arrival always heralded by the rhythmic tapping of her walking stick.  
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/thaumaturge.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Thaumaturge.webp#center)
 
 ### Tinker
 
@@ -121,7 +121,7 @@ The following are a list of NPC crafters that a DM can easily slot into any camp
 
     Although Jarrod tends to keep to himself and wiles away the years performing experiments in his laboratory, there are times when he becomes overwhelmed by unexplainable feelings of wanderlust. When these episodes arise, Jarrod inevitably hits the open road on his customised wagon/workshop, ready to make new inventions with whatever fresh materials he finds.  
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/tinker.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/Tinker.webp#center)
 
 ## FAQ
 

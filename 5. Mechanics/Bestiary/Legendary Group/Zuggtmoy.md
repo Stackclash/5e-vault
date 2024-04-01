@@ -45,8 +45,3 @@ If a creature goes mad in Zuggtmoy's lair or within line of sight of the demon l
 | 61–80 | "My mind is slipping away, and my intelligence seems to wax and wane." |
 | 81–00 | "I am constantly scratching at unseen fungal infections." |
 ^madness-of-zuggtmoy
-
-## Is homebrew
-_Source: Mordenkainen's Tome of Foes_
-
-false

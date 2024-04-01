@@ -42,9 +42,4 @@ Any of these effects might appear in the area around a bronze dragon's lair, in 
 
 - **Phantom Escort.** Ghostly naval ships from an ancient armada appear, escorting well-meaning creatures in need of the dragon's help toward the dragon's lair.  
 - **Underwater Pursuit.** Sailors glimpse the shadowy, illusory form of a dragon in the depths below them, keeping pace with their vessel.  
-- **Unfailing Faithfulness.** Sapient creatures that spend a year within 10 miles of the dragon's lair find it nearly impossible to break a promise.  
-
-## Is homebrew
-_Source: Monster Manual_
-
-false
+- **Unfailing Faithfulness.** Sapient creatures that spend a year within 10 miles of the dragon's lair find it nearly impossible to break a promise.

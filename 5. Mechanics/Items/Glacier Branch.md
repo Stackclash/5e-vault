@@ -12,7 +12,7 @@ cost: 5000
 ---
 # Glacier Branch
 *Herb, rare, Herb*  
-![[5. Mechanics/Items/img/glacierbranch.webp#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHbH/GlacierBranch.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 50 gp

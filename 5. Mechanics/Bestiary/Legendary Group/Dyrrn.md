@@ -46,8 +46,3 @@ If a creature goes mad in Dyrrn's lair or while it can see the daelkyr, it gains
 | 5 | "My opponents must bow down to a mind flayer!" |
 | 6 | "Dyrrn and the mind flayers simply want to unite all sentient creatures in collective consciousness. And I receive messages from the group mind!" |
 ^madness-of-dyrrn
-
-## Is homebrew
-_Source: Eberron: Rising from the Last War_
-
-false

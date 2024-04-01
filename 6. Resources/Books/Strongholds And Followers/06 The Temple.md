@@ -83,6 +83,6 @@ The druid may still summon servitors using concordance, they just don't gain a b
 The installation of a high-level spell grants the druid who tends the grove power and authority. Local barons and lords may visit hoping the druid will aid them and cast the spell in their benefit. This is a great opportunity for some classical "tit-for-tat" plotting, but now it is the PC who holds the power, and pronounces "I will grant you this boon if you undertake this quest for me," and the NPC must scurry around, trying to earn the favor of our hero!
 
 > [!gallery]
-> ![[6. Resources/Books/Strongholds And Followers/img/temple-small.jpg#gallery]]
-> ![[6. Resources/Books/Strongholds And Followers/img/temple-medium.jpg#gallery]]
-> ![[6. Resources/Books/Strongholds And Followers/img/temple-large.jpg#gallery]]
+> ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/temple-small.jpg#gallery)
+> ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/temple-medium.jpg#gallery)
+> ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/temple-large.jpg#gallery)

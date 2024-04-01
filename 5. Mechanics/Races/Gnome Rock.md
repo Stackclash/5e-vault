@@ -12,7 +12,6 @@ aliases:
 ![[5. Mechanics/Races/img/gnome.webp#right]]  
 
 - **Ability Scores**: Constitution +1
-- **Type**: subrace
 - **Size**: Small
 - **Speed**: 25 ft.
 

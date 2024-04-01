@@ -11,7 +11,7 @@ aliases:
 ---
 # Potion of Boundless Intellect
 *Potion, very rare, Crafted by*  
-![[5. Mechanics/Items/img/potionofboundlessintellect.webp#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/PotionofBoundlessIntellect.webp#right)  
 
 - **Properties**: Crafted by
 

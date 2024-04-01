@@ -9,10 +9,9 @@ aliases:
 ---
 # Gemstone Dragonborn
 *Source: Strongholds and Followers*  
-![[5. Mechanics/Races/img/topaz-dragonborn-wizard.webp#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/topaz-dragonborn-wizard.webp#right)  
 
 - **Ability Scores**: Intelligence +2, Wisdom +1
-- **Type**: race
 - **Size**: Medium
 - **Speed**: 30 ft.
 

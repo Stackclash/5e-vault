@@ -69,7 +69,7 @@ There is no ability check required to pilfer these trinkets, and the DM is free 
 
 Like all harvested items, the value and weight listed refers to 1 unit of the respective item in that row.
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/humanoidtrinkets.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/HumanoidTrinkets.webp#center)
 
 ## Harvest Table: A
 
@@ -78,7 +78,7 @@ Like all harvested items, the value and weight listed refers to 1 unit of the re
 > [!embed-table]- Allip
 > ![[5. Mechanics/Tables/Allip.md\|Allip]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Iii/img/allip.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Allip.webp#center)
 
 ### Astral Dreadnought
 
@@ -96,7 +96,7 @@ Like all harvested items, the value and weight listed refers to 1 unit of the re
 > [!embed-table]- Balhannoth
 > ![[5. Mechanics/Tables/Balhannoth.md\|Balhannoth]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Iii/img/balhannoth.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Balhannoth.webp#center)
 
 ### Berbalang
 
@@ -128,7 +128,7 @@ Like all harvested items, the value and weight listed refers to 1 unit of the re
 > [!embed-table]- Choker
 > ![[5. Mechanics/Tables/Choker.md\|Choker]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Iii/img/choker.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Choker.webp#center)
 
 ### Clockworks
 
@@ -152,7 +152,7 @@ A repairable clockwork may be brought to any [[5. Mechanics/Optional Features/Ti
 > [!embed-table]- Stone Defender
 > ![[5. Mechanics/Tables/Stone Defender.md\|Stone Defender]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Iii/img/stonedefender.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/StoneDefender.webp#center)
 
 ### Corpse Flower
 
@@ -176,7 +176,7 @@ A repairable clockwork may be brought to any [[5. Mechanics/Optional Features/Ti
 > [!embed-table]- Deathlock Wight
 > ![[5. Mechanics/Tables/Deathlock Wight.md\|Deathlock Wight]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Iii/img/deathlockwight.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/DeathlockWight.webp#center)
 
 ### Demons
 
@@ -193,7 +193,7 @@ If the curse came from a non-consumable item, there is an additional aspect of t
 > [!embed-table]- Fiendish Curse (Demon)
 > ![[5. Mechanics/Tables/Fiendish Curse Demon.md\|Fiendish Curse (Demon)]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Iii/img/demons.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Demons.webp#center)
 
 #### Alkilith
 
@@ -225,7 +225,7 @@ If the curse came from a non-consumable item, there is an additional aspect of t
 > [!embed-table]- Molydeus
 > ![[5. Mechanics/Tables/Molydeus.md\|Molydeus]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Iii/img/molydeus.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Molydeus.webp#center)
 
 #### Nabassu
 
@@ -271,7 +271,7 @@ As part of harvesting Baphomet, you may also loot his weapon, [[5. Mechanics/Ite
 > [!embed-table]- Baphomet
 > ![[5. Mechanics/Tables/Baphomet.md\|Baphomet]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Iii/img/baphomet.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Baphomet.webp#center)
 
 > [!embed-item]- Heartcleaver
 > ![[5. Mechanics/Items/Heartcleaver.md\|Heartcleaver]]
@@ -336,7 +336,7 @@ As part of harvesting Yeenoghu, you may also loot his weapon, The [[5. Mechanics
 > [!embed-table]- Derro Savant
 > ![[5. Mechanics/Tables/Derro Savant.md\|Derro Savant]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Iii/img/derro.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Derro.webp#center)
 
 ### Devils
 
@@ -353,7 +353,7 @@ If the curse came from a non-consumable item, there is an additional aspect of t
 > [!embed-table]- Fiendish Curse (Devil)
 > ![[5. Mechanics/Tables/Fiendish Curse Devil.md\|Fiendish Curse (Devil)]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Iii/img/devils.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Devils.webp#center)
 
 #### Black Abishai
 
@@ -450,7 +450,7 @@ Due to the unique and legendary nature of some archdevils, there is no associate
 > [!embed-table]- Zariel
 > ![[5. Mechanics/Tables/Zariel.md\|Zariel]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Iii/img/zariel.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Zariel.webp#center)
 
 ### Drow
 
@@ -493,7 +493,7 @@ Due to the unique and legendary nature of some archdevils, there is no associate
 > [!embed-table]- Drow Shadowblade
 > ![[5. Mechanics/Tables/Drow Shadowblade.md\|Drow Shadowblade]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Iii/img/drowshadowblade.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/DrowShadowblade.webp#center)
 
 ### Duergar
 
@@ -501,7 +501,7 @@ Due to the unique and legendary nature of some archdevils, there is no associate
 > 
 > The dwarves and the duergar have a long and troubled history. They are incredibly jealous of our societies, while some dwarves do hold guilt about leaving them to the machinations of the mind flayers so long ago. I am simply an admirer of their incredibly psionic ability, or rather, the interesting brain samples that it produces.
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Iii/img/duergar.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Duergar.webp#center)
 
 #### Duergar Trinket Table
 
@@ -548,7 +548,7 @@ Due to the unique and legendary nature of some archdevils, there is no associate
 > [!embed-table]- Duergar Xarrorn
 > ![[5. Mechanics/Tables/Duergar Xarrorn.md\|Duergar Xarrorn]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Iii/img/duergar2.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Duergar2.webp#center)
 
 ## Harvest Table: E
 
@@ -583,7 +583,7 @@ Due to the unique and legendary nature of some archdevils, there is no associate
 > [!embed-table]- Winter Eladrin
 > ![[5. Mechanics/Tables/Winter Eladrin.md\|Winter Eladrin]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Iii/img/eladrin.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Eladrin.webp#center)
 
 ### Elder Elementals
 
@@ -635,7 +635,7 @@ Due to the fiery death and rebirth trait, the Phoenix does not leave behind a us
 > [!embed-table]- Water Elemental Myrmidon
 > ![[5. Mechanics/Tables/Water Elemental Myrmidon.md\|Water Elemental Myrmidon]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Iii/img/myrmidons.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Myrmidons.webp#center)
 
 ## Harvest Table: G
 
@@ -678,7 +678,7 @@ Due to the fiery death and rebirth trait, the Phoenix does not leave behind a us
 > [!embed-table]- Githyanki Supreme Commander
 > ![[5. Mechanics/Tables/Githyanki Supreme Commander.md\|Githyanki Supreme Commander]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Iii/img/gith.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Gith.webp#center)
 
 #### Githzerai Anarch
 
@@ -740,7 +740,7 @@ Due to the fiery death and rebirth trait, the Phoenix does not leave behind a us
 > [!embed-table]- Meazel Trinket Table
 > ![[5. Mechanics/Tables/Meazel Trinket Table.md\|Meazel Trinket Table]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Iii/img/meazel.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Meazel.webp#center)
 
 ## Harvest Table: N
 
@@ -752,7 +752,7 @@ Due to the fiery death and rebirth trait, the Phoenix does not leave behind a us
 > [!embed-table]- Nagpa Trinket Table
 > ![[5. Mechanics/Tables/Nagpa Trinket Table.md\|Nagpa Trinket Table]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Iii/img/nagpa.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Nagpa.webp#center)
 
 ### Nightwalker
 
@@ -782,7 +782,7 @@ Due to the fiery death and rebirth trait, the Phoenix does not leave behind a us
 > [!embed-table]- Elder Oblex
 > ![[5. Mechanics/Tables/Elder Oblex.md\|Elder Oblex]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Iii/img/oblex.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Oblex.webp#center)
 
 ### Ogres
 
@@ -810,7 +810,7 @@ Due to the fiery death and rebirth trait, the Phoenix does not leave behind a us
 > [!embed-table]- Ogre Howdah
 > ![[5. Mechanics/Tables/Ogre Howdah.md\|Ogre Howdah]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Iii/img/ogre.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Ogre.webp#center)
 
 ## Harvest Table: R
 
@@ -819,7 +819,7 @@ Due to the fiery death and rebirth trait, the Phoenix does not leave behind a us
 > [!embed-table]- Retriever
 > ![[5. Mechanics/Tables/Retriever.md\|Retriever]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Iii/img/retriever.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Retriever.webp#center)
 
 ## Harvest Table: S
 
@@ -838,7 +838,7 @@ Due to the fiery death and rebirth trait, the Phoenix does not leave behind a us
 > 
 > The shadar-kai are elves with the dubious honour of being blessed by the Raven Queen, having their forms altered to both serve her and survive in the Shadowfell. I'll admit that I'm rather curious what other races would have looked like if they instead had been chosen by the Raven Queen, but I suppose a shadar-halfling would be more amusing than intimidating.
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Iii/img/shadar-kai.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Shadar-Kai.webp#center)
 
 #### Shadar-Kai Trinket Table
 
@@ -913,7 +913,7 @@ Due to the fiery death and rebirth trait, the Phoenix does not leave behind a us
 > [!embed-table]- Star Spawn Hulk
 > ![[5. Mechanics/Tables/Star Spawn Hulk.md\|Star Spawn Hulk]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Iii/img/starspawn.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/StarSpawn.webp#center)
 
 #### Star Spawn Larva Mage
 
@@ -931,7 +931,7 @@ In order to harvest the star spawn larva mage, you must first kill the swarm of 
 > [!embed-table]- Star Spawn Mangler
 > ![[5. Mechanics/Tables/Star Spawn Mangler.md\|Star Spawn Mangler]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Iii/img/mangler.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Mangler.webp#center)
 
 #### Star Spawn Seer
 
@@ -955,7 +955,7 @@ In order to harvest the star spawn larva mage, you must first kill the swarm of 
 > [!embed-table]- Steel Predator
 > ![[5. Mechanics/Tables/Steel Predator.md\|Steel Predator]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Iii/img/steelpredator.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/SteelPredator.webp#center)
 
 ### Stone Cursed
 
@@ -1001,7 +1001,7 @@ In order to harvest the star spawn larva mage, you must first kill the swarm of 
 > [!embed-table]- Tortle Druid
 > ![[5. Mechanics/Tables/Tortle Druid.md\|Tortle Druid]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Iii/img/tortles.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Tortles.webp#center)
 
 ### Trolls
 
@@ -1036,7 +1036,7 @@ In order to harvest the star spawn larva mage, you must first kill the swarm of 
 > [!embed-table]- Vampiric Mist
 > ![[5. Mechanics/Tables/Vampiric Mist.md\|Vampiric Mist]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Iii/img/vampiricmist.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/VampiricMist.webp#center)
 
 ## Harvest Table: Y
 
@@ -1050,7 +1050,7 @@ Like regular devils, yugoloths slain outside of their native plane also dissolve
 
 Either way, a yugoloth slain outside of Gehenna cannot be harvested for anything except their respective ichor. Yugoloths slain on Gehenna can be harvested like a regular creature, including their ichor, traces of which can still be found in their veins.
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Iii/img/canoloth.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Canoloth.webp#center)
 
 #### Canoloth
 

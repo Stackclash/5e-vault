@@ -27,8 +27,3 @@ The region containing an anarch's lair is warped by its presence, which creates 
 - The anarch stabilizes any object created in Limbo and brought to the Material Plane for as long as the anarch remains within 1 mile of it (no action required).  
 
 If the anarch dies, these effects end after `dice: 1d6|avg` (`1d6`) rounds. All formed substance becomes a chaotic churn of energy and matter, unraveling into unformed substance that dissipates `dice: 1d6|avg` (`1d6`) rounds later.
-
-## Is homebrew
-_Source: Mordenkainen's Tome of Foes_
-
-false

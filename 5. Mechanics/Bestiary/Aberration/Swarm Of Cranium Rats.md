@@ -13,7 +13,7 @@ aliases:
   - Swarm of Cranium Rats
 ---
 # [[5. Mechanics\Bestiary\Aberration\Swarm Of Cranium Rats.md|Swarm of Cranium Rats]]
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 83*
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 83, Volo's Guide to Monsters p. 133*
 
 ## Cranium Rat
 

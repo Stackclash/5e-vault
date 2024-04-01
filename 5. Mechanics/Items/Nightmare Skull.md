@@ -11,7 +11,7 @@ aliases:
 ---
 # Nightmare Skull
 *Wondrous Item, rare, Crafted by*  
-![[5. Mechanics/Items/img/nightmareskull.webp#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/NightmareSkull.webp#right)  
 
 - **Properties**: Crafted by
 

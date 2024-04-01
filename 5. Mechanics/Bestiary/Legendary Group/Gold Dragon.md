@@ -40,9 +40,4 @@ Any of these effects might appear in the area around a gold dragon's lair, in ad
 
 - **Beneficent Trail.** Within 10 miles of the dragon's lair, small runes in the shape of a gold dragon appear to creatures in great need, marking a subtle trail leading to the dragon's lair.  
 - **Emanation of Justice.** Creatures that spend a year within 6 miles of the dragon's lair value fairness and justice over their personal feelings.  
-- **Liar's Revelation.** Within 6 miles of the dragon's lair, any creature attempting to tell a deliberate lie must succeed on a DC 15 Charisma saving throw or find itself accidentally revealing the truth it was attempting to conceal. The first time a creature fails this saving throw, it is immune to this effect for 24 hours.  
-
-## Is homebrew
-_Source: Monster Manual_
-
-false
+- **Liar's Revelation.** Within 6 miles of the dragon's lair, any creature attempting to tell a deliberate lie must succeed on a DC 15 Charisma saving throw or find itself accidentally revealing the truth it was attempting to conceal. The first time a creature fails this saving throw, it is immune to this effect for 24 hours.

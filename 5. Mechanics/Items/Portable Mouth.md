@@ -12,7 +12,7 @@ aliases:
 ---
 # Portable Mouth
 *Wondrous Item, common, Crafted by (requires attunement)*  
-![[5. Mechanics/Items/img/portablemouth.webp#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/PortableMouth.webp#right)  
 
 - **Properties**: Crafted by
 

@@ -11,7 +11,7 @@ aliases:
 ---
 # Power Fist
 *Wondrous Item, very rare, Crafted by*  
-![[5. Mechanics/Items/img/powerfist.webp#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/PowerFist.webp#right)  
 
 - **Properties**: Crafted by
 

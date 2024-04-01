@@ -13,7 +13,7 @@ aliases:
 ---
 # Staff of the Demon Prince
 *Melee Weapon, artifact, Crafted Artifact (requires attunement by a spellcaster)*  
-![[5. Mechanics/Items/img/staffofthedemonprince.webp#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/StaffoftheDemonPrince.webp#right)  
 
 - **Damage**:
   - One-handed: 1d6 B

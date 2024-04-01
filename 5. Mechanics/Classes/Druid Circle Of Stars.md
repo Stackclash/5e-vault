@@ -28,7 +28,7 @@ You've created a star chart as part of your heavenly studies. It is a Tiny objec
 
 **Star Map**
 
-`dice: [[Druid.md#^star-map]]`
+`dice: [[Druid Circle Of Stars.md#^star-map]]`
 
 | dice: d6 | Map Form |
 |----------|----------|

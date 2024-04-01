@@ -13,7 +13,7 @@ aliases:
   - Champion
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Champion.md|Champion]]
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 74*
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 74, Volo's Guide to Monsters p. 212*
 
 > [!quote]- A quote from Mordenkainen  
 > 

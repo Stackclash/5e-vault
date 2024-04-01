@@ -70,7 +70,7 @@ The bounty given to the players for successfully retrieving the requested materi
 
 However, many quests offer the option for the players to submit the request more than once. This is not explicitly stated, but it is implied in the description of the quest. In such cases, the players may receive the same reward each time they hand in the requested material.
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/img/have-nots.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/Have-Nots.webp#center)
 
 ## CR <1
 
@@ -400,7 +400,7 @@ However, many quests offer the option for the players to submit the request more
 > > As much as we'd prefer to ignore it, the duergar are indeed our kin, and their plight is largely a result of our own selfishness. The countless generations of torture by the mind flayers have changed them irrevocably, but I think there may be a way to help them. If I can get a few samples of their brains, I believe that I can figure out exactly where our people diverged and maybe find a way to bridge the gap between us.
 > 
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Iii/img/targets1.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Targets1.webp#center)
 
 > **Target.** Ogre Bolt Launcher  
 > **Request.** Ogre Hide  
@@ -458,7 +458,7 @@ However, many quests offer the option for the players to submit the request more
 > > The trade is turtle shells has grown tremendously as of late due to a boom in cosmetics made by grinding them down. I've been racking my brain trying to come up with a more efficient way of meeting supply, however, and I finally cracked it! Tortles! They're like turtles but much larger, which also means much larger shells! If you get me some, you'll be well rewarded. I won't even ask you where you got them from.
 > 
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Iii/img/targets2.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Targets2.webp#center)
 
 ## CR 3
 
@@ -560,7 +560,7 @@ However, many quests offer the option for the players to submit the request more
 > > Any good commander will tell you that morale is the difference between an army and a random assortment of people holding weapons. There are many ways to bolster morale, but I have heard of a new technique that involves the black blood of a sword wraith. As morbid as it sounds to use the remains of a dead soldier to empower a live one, war is a messy business, and there is no space for reservations.
 > 
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Iii/img/targets3.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Targets3.webp#center)
 
 > **Target.** Vampiric Mist  
 > **Request.** Blood Mist (vial)  
@@ -662,7 +662,7 @@ However, many quests offer the option for the players to submit the request more
 > > I'm a toymaker trying to get a start on his career, but I just can't create that first amazing toy that will fly off the shelves. One thing I've been experimenting with, is a wind-up toy that responds to its owner's commands! I've seen the gnomes create some constructs that can do something similar, but they guard the secrets of making those fairly closely. If I could just get some samples, I'm sure I could remake it for myself!
 > 
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Iii/img/targets4.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Targets4.webp#center)
 
 ## CR 5
 
@@ -824,7 +824,7 @@ However, many quests offer the option for the players to submit the request more
 > > I am a highly sought-after woman and unfortunately, regular security just isn't cutting it anymore. What I need is a guard that is powerful, intimidating, and unquestionably loyal all at the same time. I've been thinking of getting some elementals in my employ and there is a gentleman that says he can source them if he has some shackles. Bring me some of those and I will gladly reward you.
 > 
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Iii/img/targets5.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Targets5.webp#center)
 
 > **Target.** Fire Elemental Myrmidon  
 > **Request.** Myrmidon Shackles  
@@ -1138,7 +1138,7 @@ However, many quests offer the option for the players to submit the request more
 > > As close relatives, the eladrin and the elves have much to learn from one another. In particular, I am fascinated by the mechanisms in which their emotions manage to exert such a tremendous influence over their bodies, and why such an ability was not passed down to us. I have isolated a few theories, but I need more samples to confirm them. If you happen to come by any eladrin hearts, I'll take them off your hands...and also not ask how you got them.
 > 
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Iii/img/targets6.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Targets6.webp#center)
 
 > **Target.** Star Spawn Hulk  
 > **Request.** Psionic Overflow  
@@ -1240,7 +1240,7 @@ However, many quests offer the option for the players to submit the request more
 > > As the sole healer for my town, it is my duty to provide holistic health care for my patients. This extends beyond simple physical care and into mental wellbeing. Unfortunately, I am lacking skills as a therapist and need to rely on some outside medications to get the job done. Shadow blight from the shadar-kai may seem a little grim, but it does have the ability to suppress emotions and calm my patients when they're going through some trauma. I'd like to keep some on hand if possible.
 > 
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Iii/img/targets7.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Targets7.webp#center)
 
 > **Target.** Spirit Troll  
 > **Request.** Essence of Troll  
@@ -1342,7 +1342,7 @@ However, many quests offer the option for the players to submit the request more
 > > I am fascinated by the case of the githyanki. A race of people with psionic abilities, their brains are unlike any other humanoids. I would very much like to study them and perhaps find a way to grant the rest of us similar powers.
 > 
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Iii/img/targets8.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Targets8.webp#center)
 
 > **Target.** Gray Render  
 > **Request.** Gray Render Hide  
@@ -1634,7 +1634,7 @@ However, many quests offer the option for the players to submit the request more
 > > We dragonborn have an uneasy relationship with the Dragon Queen. Her influence can easily be seen on the chromatic among us, but by and large, we try to keep her at an arm's length. However, I believe that our lineage should not be denied and that we should use some of her power, especially when doing so can be done safely and without cost. I will gladly pay good money if you bring me the marks that her Abishai bear, such things will let us embrace our heritage without succumbing to her influence.
 > 
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Iii/img/targets9.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Targets9.webp#center)
 
 > **Target.** Nagpa  
 > **Request.** Brand of the Raven Queen  

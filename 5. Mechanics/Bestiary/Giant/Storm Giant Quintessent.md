@@ -15,7 +15,7 @@ aliases:
   - Storm Giant Quintessent
 ---
 # [[5. Mechanics\Bestiary\Giant\Storm Giant Quintessent.md|Storm Giant Quintessent]]
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 235*
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 235, Volo's Guide to Monsters p. 151*
 
 To forestall the inevitable, some storm giants approaching the end of their natural life spans seek an escape from death. They plumb the depths of their powerful connection to the elements and disperse themselves into nature, transforming into semiconscious storms. The blizzard that rages unendingly around a mountain peak, the vortex that swirls around a remote island, or the thunderstorm that howls ceaselessly up and down a rugged coastline could, in fact, be the undying form of a storm giant clinging to existence.
 
@@ -93,6 +93,43 @@ A storm giant quintessent has no need for castles or dungeon lairs. Their lair i
     \ weather](compendium/spells/control-weather.md) spell or similar magic to quell\
     \ the storm."
   "name": "One with the Storm (Costs 3 Actions)"
+"lair_actions":
+- "desc": "A storm giant quintessent can use lair actions in giant form and while\
+    \ transformed into a storm. On initiative count 20 (losing initiative ties), the\
+    \ giant can take one of the following lair actions; the giant can't take the same\
+    \ lair action two rounds in a row:"
+  "name": ""
+- "desc": "- Deafening Boom. The giant creates a thunderclap centered on a point\
+    \ anywhere in their lair. Each creature within 20 feet of that point must succeed\
+    \ on a DC 18 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]]\
+    \ until the end of its next turn.  \n- Fog. The giant creates a 20-foot-radius\
+    \ sphere of fog (or murky water if within water) centered on a point anywhere\
+    \ in its lair. The sphere spreads around corners, and its area is heavily obscured.\
+    \ The fog lasts until the giant disperses it (no action required), and it can't\
+    \ be dispersed by wind.  \n- Gale. The giant creates a 60-foot-long, 10-foot-wide\
+    \ line of strong wind (or strong current within water) originating from a point\
+    \ anywhere in its lair. Each creature in that line must succeed on a DC 18 Strength\
+    \ saving throw or be pushed 15 feet in the direction the wind is blowing. The\
+    \ gust disperses gas or vapor, and it extinguishes candles, torches, and similar\
+    \ unprotected flames in its area. Protected flames, such as those of lanterns,\
+    \ have a 50% chance chance of being extinguished.  "
+  "name": ""
+"regional_effects":
+- "desc": "The region containing a storm giant quintessent's lair is warped by the\
+    \ giant's presence, which creates one or more of the following effects:"
+  "name": ""
+- "desc": "- Downpour. Rain, snow, or blowing dust or sand (whichever is most\
+    \ appropriate) is constant within 1 mile of the lair. Rain causes rivers and streams\
+    \ to fill or overflow their banks; snow, dust, or sand forms deep drifts or dunes.\
+    \  \n- Lightning. Flashes of lightning and peals of thunder are continual,\
+    \ day and night, within 5 miles of the lair.  \n- Winds. High wind blows within\
+    \ 1 mile of the lair, making it impossible to light a fire unless the location\
+    \ where the fire is lit is protected from the wind.  "
+  "name": ""
+- "desc": "If the giant dies, the lightning, thunder, and high wind regional effects\
+    \ end immediately. Rain, snow, and blowing dust abate gradually within dice:\
+    \ 1d8|avg (1d8) days."
+  "name": ""
 "source":
 - "MPMM"
 - "VGM"

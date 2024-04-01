@@ -107,7 +107,7 @@ Warlock
 
 Wizard
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/img/newspells.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/NewSpells.webp#center)
 
 > [!embed-spell]- Cold Storage
 > ![[5. Mechanics/Spells/Cold Storage.md\|Cold Storage]]
@@ -143,7 +143,7 @@ The following are a list of NPC crafters that a DM can easily slot into any camp
 
     What I do know is that she carries on her back an amazing assortment of magical items, all of them crafted from creatures, and all of them for sale. Where she got all of these items is yet another mystery, as is the fact that her inventory always seems to have the exact item that you are looking for. Now, as enticing as all that would be, I must highly advise those of you with sticky fingers to behave yourselves around her. After all, if those powerful magical items are the ones she's willing to get rid of, what kind of power do you think she keeps for herself?  
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/img/craftablesvendor.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/CraftablesVendor.webp#center)
 
 ### Fixer
 
@@ -153,7 +153,7 @@ The following are a list of NPC crafters that a DM can easily slot into any camp
 
     Today, Alanna describes her job as being very simple: she gets the right people to talk to each other. In exchange for a small fee, she will get prospective clients in contact with mercenaries willing to do whatever job necessary. For us harvesters, this means a steady supply of work harvesting rare materials for anyone with the coin to pay for it. If you are looking to pick up a little extra spending money, just start asking around for Alanna. She's sure to pop out of the shadows soon enough, with a laundry list of materials for you to find, and all at a premium rate.  
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/img/fixer.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/Fixer.webp#center)
 
 ### Master Crafter
 
@@ -163,7 +163,7 @@ The following are a list of NPC crafters that a DM can easily slot into any camp
 
     Today, Orryn wanders much like I do, seeking out new materials to whet his interests and creativity. If you find him, simply mention my name and he is sure to help you with whatever item you wish to craft.  
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/img/mastercrafter.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/MasterCrafter.webp#center)
 
 ### Supplier
 
@@ -175,7 +175,7 @@ The following are a list of NPC crafters that a DM can easily slot into any camp
 
     Just try to avoid eye contact with him when you do.  
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/img/supplier.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/Supplier.webp#center)
 
 ### Trapper
 
@@ -185,4 +185,4 @@ The following are a list of NPC crafters that a DM can easily slot into any camp
 
     He now roams the wilds as a hunter and harvester, always followed by his precious bear partner: Lodinn. While he is not quite on the same level of harvesting skill as his dear old uncle, his brash stubbornness seems to have granted him a better head for business. If you spot him in the open or in town, feel free to approach him and barter for harvesting materials. Rangrim never seems to run out of space in his many bags and pouches, and you will find him to be an honest vendor to offer you coin for your excess stock. Be warned though to never cheat him, or you will find out just how well trained Lodinn really is.  
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/img/trapper.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/Trapper.webp#center)

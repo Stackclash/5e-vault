@@ -17,7 +17,7 @@
     "useDiceRoller": true,
     "images": {
         "copyInternal": true,
-        "copyExternal": true,
+        "copyExternal": false,
         "internalRoot": "../5etools-img"
     },
     "excludePattern": [],
@@ -52,7 +52,14 @@
             "CoS"
         ],
         "book": [
-            "VRGR"
+            "VRGR",
+            "PHB",
+            "DMG",
+            "MM",
+            "VGM",
+            "XGE",
+            "TCE",
+            "MTF"
         ]
     }
 }

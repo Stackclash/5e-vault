@@ -69,7 +69,7 @@ There is no ability check required to pilfer these trinkets, and the DM is free 
 
 Like all harvested items, the value and weight listed refers to 1 unit of the respective item in that row.
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume I/img/humanoidtrinkets.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/HumanoidTrinkets.webp#center)
 
 ## Harvest Table: B
 
@@ -98,7 +98,7 @@ Like all harvested items, the value and weight listed refers to 1 unit of the re
 > [!embed-table]- Gazer
 > ![[5. Mechanics/Tables/Gazer.md\|Gazer]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/img/beholders.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/Beholders.webp#center)
 
 ### Bodak
 
@@ -114,7 +114,7 @@ Like all harvested items, the value and weight listed refers to 1 unit of the re
 > [!embed-table]- Boggle
 > ![[5. Mechanics/Tables/Boggle.md\|Boggle]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/img/boggle.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/Boggle.webp#center)
 
 ## Harvest Table: C
 
@@ -127,7 +127,7 @@ Like all harvested items, the value and weight listed refers to 1 unit of the re
 > [!embed-table]- Catoblepas
 > ![[5. Mechanics/Tables/Catoblepas.md\|Catoblepas]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/img/catoblepas.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/Catoblepas.webp#center)
 
 ### Cave Fisher
 
@@ -209,7 +209,7 @@ If the curse came from a non-consumable item, there is an additional aspect of t
 > [!embed-table]- Maw Demon
 > ![[5. Mechanics/Tables/Maw Demon.md\|Maw Demon]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/img/mawdemon.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/MawDemon.webp#center)
 
 #### Shoosuva
 
@@ -223,7 +223,7 @@ If the curse came from a non-consumable item, there is an additional aspect of t
 
 ### Dinosaur
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/img/dinosaurs.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/Dinosaurs.webp#center)
 
 > [!embed-table]- Brontosaurus
 > ![[5. Mechanics/Tables/Brontosaurus.md\|Brontosaurus]]
@@ -271,7 +271,7 @@ If the curse came from a non-consumable item, there is an additional aspect of t
 > [!embed-table]- Firenewt Trinket Table
 > ![[5. Mechanics/Tables/Firenewt Trinket Table.md\|Firenewt Trinket Table]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/img/firenewt.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/Firenewt.webp#center)
 
 ### Flail Snail
 
@@ -298,7 +298,7 @@ If the curse came from a non-consumable item, there is an additional aspect of t
 > [!embed-table]- Cloud Giant Smiling One
 > ![[5. Mechanics/Tables/Cloud Giant Smiling One.md\|Cloud Giant Smiling One]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/img/giant.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/Giant.webp#center)
 
 > [!embed-table]- Fire Giant Dreadnought
 > ![[5. Mechanics/Tables/Fire Giant Dreadnought.md\|Fire Giant Dreadnought]]
@@ -341,7 +341,7 @@ If the curse came from a non-consumable item, there is an additional aspect of t
 > [!embed-table]- Gnoll Trinket Table
 > ![[5. Mechanics/Tables/Gnoll Trinket Table.md\|Gnoll Trinket Table]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/img/gnoll.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/Gnoll.webp#center)
 
 ### Grungs
 
@@ -361,14 +361,14 @@ If the curse came from a non-consumable item, there is an additional aspect of t
 > [!embed-table]- Grung Trinket Table
 > ![[5. Mechanics/Tables/Grung Trinket Table.md\|Grung Trinket Table]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/img/grungs.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/Grungs.webp#center)
 
 ### Guard Drake
 
 > [!embed-table]- Guard Drake
 > ![[5. Mechanics/Tables/Guard Drake.md\|Guard Drake]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/img/guarddrake.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/GuardDrake.webp#center)
 
 ## Harvest Table: H
 
@@ -403,7 +403,7 @@ Upon contracting [crone's disease](/compendium/rules/diseases.md#crone's%20disea
 > [!embed-table]- Hobgoblin Trinket Table
 > ![[5. Mechanics/Tables/Hobgoblin Trinket Table.md\|Hobgoblin Trinket Table]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/img/hobgoblins.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/Hobgoblins.webp#center)
 
 ## Harvest Table: K
 
@@ -436,7 +436,7 @@ A ki-rin is such a force of good that their body parts are capable of influencin
 > [!embed-table]- Kobold Trinket Table
 > ![[5. Mechanics/Tables/Kobold Trinket Table.md\|Kobold Trinket Table]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/img/kobold.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/Kobold.webp#center)
 
 ### Korred
 
@@ -454,7 +454,7 @@ A ki-rin is such a force of good that their body parts are capable of influencin
 > [!embed-table]- Leucrotta
 > ![[5. Mechanics/Tables/Leucrotta.md\|Leucrotta]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/img/leucrotta.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/Leucrotta.webp#center)
 
 ## Harvest Table: M
 
@@ -483,7 +483,7 @@ A ki-rin is such a force of good that their body parts are capable of influencin
 > [!embed-table]- Elder Brain
 > ![[5. Mechanics/Tables/Elder Brain.md\|Elder Brain]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/img/elderbrain.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/ElderBrain.webp#center)
 
 #### Ulitharid
 
@@ -517,7 +517,7 @@ A ki-rin is such a force of good that their body parts are capable of influencin
 > [!embed-table]- Neogi Master
 > ![[5. Mechanics/Tables/Neogi Master.md\|Neogi Master]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/img/neogi.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/Neogi.webp#center)
 
 ### Neothelid
 
@@ -562,7 +562,7 @@ A ki-rin is such a force of good that their body parts are capable of influencin
 > [!embed-table]- Orc Trinket Table
 > ![[5. Mechanics/Tables/Orc Trinket Table.md\|Orc Trinket Table]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/img/orcs.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/Orcs.webp#center)
 
 ## Harvest Table: Q
 
@@ -571,7 +571,7 @@ A ki-rin is such a force of good that their body parts are capable of influencin
 > [!embed-table]- Quickling
 > ![[5. Mechanics/Tables/Quickling.md\|Quickling]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/img/quickling.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/Quickling.webp#center)
 
 ## Harvest Table: R
 
@@ -584,7 +584,7 @@ A ki-rin is such a force of good that their body parts are capable of influencin
 > [!embed-table]- Redcap
 > ![[5. Mechanics/Tables/Redcap.md\|Redcap]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/img/redcap.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/Redcap.webp#center)
 
 ## Harvest Table: S
 
@@ -615,7 +615,7 @@ A ki-rin is such a force of good that their body parts are capable of influencin
 > [!embed-table]- Spawn of Kyuss
 > ![[5. Mechanics/Tables/Spawn Of Kyuss.md\|Spawn of Kyuss]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/img/spawnofkyuss.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/SpawnofKyuss.webp#center)
 
 ## Harvest Table: T
 
@@ -628,7 +628,7 @@ A ki-rin is such a force of good that their body parts are capable of influencin
 > [!embed-table]- Tlincalli
 > ![[5. Mechanics/Tables/Tlincalli.md\|Tlincalli]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/img/tlincalli.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/Tlincalli.webp#center)
 
 ### Trapper
 
@@ -672,7 +672,7 @@ A ki-rin is such a force of good that their body parts are capable of influencin
 > [!embed-table]- Wood Woad
 > ![[5. Mechanics/Tables/Wood Woad.md\|Wood Woad]]
 
-![[6. Resources/Books/Hamunds Harvesting Handbook Volume Ii/img/woodwoad.webp#center]]
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/WoodWoad.webp#center)
 
 ## Harvest Table: X
 

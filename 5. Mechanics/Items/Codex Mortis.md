@@ -11,7 +11,7 @@ aliases:
 ---
 # Codex Mortis
 *Wondrous Item, artifact (requires attunement)*  
-![[5. Mechanics/Items/img/codex-mortis.jpg#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/codex-mortis.jpg#right)  
 
 
 Exiled Empress Wu Jiao wasted no time planning her return to the throne and the restoration of the Wu dynasty. Her first goal was the return of her greatest general, the barbarian Lady Czorgan. As Czorgan was dead, this meant much research was in order. But Empress Jiao was already an accomplished wizard, and her first success took less than a year.

@@ -12,7 +12,7 @@ cost: 2000
 ---
 # Banshee Vine
 *Herb, rare, Herb*  
-![[5. Mechanics/Items/img/bansheevine.webp#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHbH/BansheeVine.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 20 gp

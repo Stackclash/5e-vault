@@ -12,7 +12,6 @@ aliases:
 ![[5. Mechanics/Races/img/elf.webp#right]]  
 
 - **Ability Scores**: Wisdom +1
-- **Type**: subrace
 - **Size**: Medium
 - **Speed**: 35 ft.
 

@@ -12,7 +12,7 @@ aliases:
 ---
 # Necroplate
 *Heavy Armor, very rare, Crafted by (requires attunement)*  
-![[5. Mechanics/Items/img/necroplate.webp#right]]  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Necroplate.webp#right)  
 
 - **Armor Class**: 18
 - **Properties**: Crafted by
