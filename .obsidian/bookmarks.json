@@ -9,6 +9,38 @@
           "ctime": 1712000865119,
           "path": "6. Resources/Books/Players Handbook/07 Customization Options.md",
           "title": "1. Customization Options"
+        },
+        {
+          "type": "file",
+          "ctime": 1712001040315,
+          "path": "6. Resources/Books/Players Handbook/08 Using Ability Scores.md",
+          "title": "2. Using Ability Scores"
+        },
+        {
+          "type": "file",
+          "ctime": 1712001070228,
+          "path": "6. Resources/Books/Players Handbook/09 Adventuring.md",
+          "title": "3. Adventuring"
+        },
+        {
+          "type": "file",
+          "ctime": 1712001086482,
+          "path": "6. Resources/Books/Players Handbook/10 Combat.md",
+          "title": "4. Combat"
+        },
+        {
+          "type": "file",
+          "ctime": 1712001143077,
+          "path": "6. Resources/Books/Dungeon Masters Guide/02 A World Of Your Own.md",
+          "subpath": "#Creating a Campaign",
+          "title": "5. Creating a Campaign"
+        },
+        {
+          "type": "file",
+          "ctime": 1712001167799,
+          "path": "6. Resources/Books/Dungeon Masters Guide/02 A World Of Your Own.md",
+          "subpath": "#Campaign Events",
+          "title": "6. Campaign Events"
         }
       ],
       "title": "Part 1: Learning the Game"
@@ -17,7 +49,19 @@
       "type": "group",
       "ctime": 1712000948138,
       "items": [],
-      "title": "Untitled group"
+      "title": "Part 2: Monsters & Encounters"
+    },
+    {
+      "type": "group",
+      "ctime": 1712000965933,
+      "items": [],
+      "title": "Part 3: Expanding Your World"
+    },
+    {
+      "type": "group",
+      "ctime": 1712000990342,
+      "items": [],
+      "title": "Part 4: Higher Levels & Homebrew"
     }
   ]
 }
