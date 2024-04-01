@@ -109,6 +109,39 @@
           "ctime": 1712002360550,
           "path": "6. Resources/Books/Dungeon Masters Guide/09 Running The Game.md",
           "title": "2. Running the Game"
+        },
+        {
+          "type": "file",
+          "ctime": 1712002454895,
+          "path": "6. Resources/Books/Xanathars Guide To Everything/3 Dungeon Masters Tools.md",
+          "subpath": "#Encounter Building",
+          "title": "3. Encounter Building"
+        },
+        {
+          "type": "file",
+          "ctime": 1712002482528,
+          "path": "6. Resources/Books/Xanathars Guide To Everything/3 Dungeon Masters Tools.md",
+          "subpath": "#Traps Revisited",
+          "title": "4. Traps Revisited"
+        },
+        {
+          "type": "file",
+          "ctime": 1712002523799,
+          "path": "6. Resources/Books/Xanathars Guide To Everything/3 Dungeon Masters Tools.md",
+          "subpath": "#Awarding Magic Items",
+          "title": "5. Awarding Magic Items"
+        },
+        {
+          "type": "file",
+          "ctime": 1712002540416,
+          "path": "6. Resources/Books/Dungeon Masters Guide/08 Treasure.md",
+          "title": "6. Treasure"
+        },
+        {
+          "type": "file",
+          "ctime": 1712002581141,
+          "path": "6. Resources/Books/Tashas Cauldron Of Everything/5 Dungeon Masters Tools.md",
+          "title": "6. Dungeon Master Tools"
         }
       ],
       "title": "Part 2: Monsters & Encounters"
@@ -116,13 +149,46 @@
     {
       "type": "group",
       "ctime": 1712000965933,
-      "items": [],
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1712002620460,
+          "path": "6. Resources/Books/Mordenkainens Tome Of Foes/2 Elves.md",
+          "title": "1. Elves"
+        },
+        {
+          "type": "file",
+          "ctime": 1712002634682,
+          "path": "6. Resources/Books/Mordenkainens Tome Of Foes/3 Dwarves And Duergar.md",
+          "title": "2. Dwarves & Duergar"
+        },
+        {
+          "type": "file",
+          "ctime": 1712002655635,
+          "path": "6. Resources/Books/Mordenkainens Tome Of Foes/5 Halflings And Gnomes.md",
+          "title": "3. Halflings & Gnomes"
+        }
+      ],
       "title": "Part 3: Expanding Your World"
     },
     {
       "type": "group",
       "ctime": 1712000990342,
-      "items": [],
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1712002709747,
+          "path": "6. Resources/Books/Dungeon Masters Guide/10 Dungeon Masters Workshop.md",
+          "subpath": "#Creating a Monster",
+          "title": "1. Creating a Monster"
+        },
+        {
+          "type": "file",
+          "ctime": 1712002729146,
+          "path": "6. Resources/Books/Dungeon Masters Guide/03 Creating A Multiverse.md",
+          "title": "2. Creating a Multiverse"
+        }
+      ],
       "title": "Part 4: Higher Levels & Homebrew"
     }
   ]
