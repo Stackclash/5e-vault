@@ -83,6 +83,12 @@
           "ctime": 1712002143791,
           "path": "6. Resources/Books/Volos Guide To Monsters/1 Monster Lore.md",
           "title": "13. Monster Lore"
+        },
+        {
+          "type": "file",
+          "ctime": 1712002164318,
+          "path": "6. Resources/Books/Dungeon Masters Guide/07 Between Adventures.md",
+          "title": "14. Between Adventures"
         }
       ],
       "title": "Part 1: Learning the Game"
@@ -90,7 +96,21 @@
     {
       "type": "group",
       "ctime": 1712000948138,
-      "items": [],
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1712002314678,
+          "path": "6. Resources/Books/Dungeon Masters Guide/02 A World Of Your Own.md",
+          "subpath": "#Tiers of Play",
+          "title": "1. Tiers of Play"
+        },
+        {
+          "type": "file",
+          "ctime": 1712002360550,
+          "path": "6. Resources/Books/Dungeon Masters Guide/09 Running The Game.md",
+          "title": "2. Running the Game"
+        }
+      ],
       "title": "Part 2: Monsters & Encounters"
     },
     {

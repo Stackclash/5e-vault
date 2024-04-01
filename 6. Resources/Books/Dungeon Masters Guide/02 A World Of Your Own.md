@@ -403,7 +403,7 @@ Conquerors and representatives of another government wield power, ruling the set
 
 Rulership falls to a direct representative or a collection of agents of a deity. The centers of power in a theocracy are usually located on sacred sites. In the Eberron campaign setting, the nation of Thrane is a theocracy devoted to the Silver Flame, a divine spirit that resides in Thrane's capital of Flamekeep.
 
-![Government; Sample Hierarchy of Noble Titles](compendium/tables/government-sample-hierarchy-of-noble-titles.md)
+![[Government Sample Hierarchy Of Noble Titles|Government; Sample Hierarchy of Noble Titles]]
 
 ### Commerce
 
