@@ -1,4 +1,5 @@
 ```dataview
 LIST WITHOUT ID
-WHERE mp3
+WHERE contains(file.path, "mp3")
+LIMIT 1
 ```
