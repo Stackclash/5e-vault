@@ -5,6 +5,12 @@ const diceRollerPlugin = app.plugins.getPlugin('obsidian-dice-roller')
 
 const vaultPath = app.vault.adapter.getBasePath()
 
+// const button = document.createElement('button')
+
+// button.textContent = 'Reroll'
+
+// document.body.appendChild(button)
+
 function goThroughFilesAndFolders(folderPath, filesList=[]) {
     const files = fs.readdirSync(folderPath)
 
@@ -28,8 +34,9 @@ async function getRandomMp3(list) {
         await arrayRoller.roll()
         return arrayRoller
     })
-    .then(({ results }) => {
-        return results[0]
+    .then((rollResult) => {
+        console.log(rollResult)
+        return rollResult.results[0]
     })
 }
 
