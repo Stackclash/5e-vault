@@ -3,7 +3,7 @@ style: primary
 label: Reroll Dice
 actions:
   - type: command
-    command: obsidian-dice-roller:reroll
+    command: dataview:dataview-force-refresh-views
 ```
 ```dataviewjs
 await dv.view('test')
