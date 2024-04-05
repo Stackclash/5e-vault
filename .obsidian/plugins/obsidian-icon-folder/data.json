@@ -5,7 +5,9 @@
     "fontSize": 16,
     "emojiStyle": "none",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "FasFileAudio"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -21,5 +23,6 @@
     "iconsInNotesEnabled": true,
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":"
-  }
+  },
+  "1. DM Stuff/Tools/Sound Board.md": "FasFileAudio"
 }
