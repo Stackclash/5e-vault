@@ -59,9 +59,12 @@ for (const group of Object.keys(mp3s)) {
         dv.header(2, group)
         for (const category of Object.keys(groupData)) {
 
-            const categoryResult = await getRandomMp3(mp3s[group][category])
-            dv.header(3, category)
-            dv.span(`![[${categoryResult}]]`)
+            if (category !== '') {
+                const categoryResult = await getRandomMp3(mp3s[group][category])
+                dv.header(3, category)
+                dv.span(`![[${categoryResult}]]`)
+            }
+
         }
     } else {
         for (const mp3 of groupData) {
