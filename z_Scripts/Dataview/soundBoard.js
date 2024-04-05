@@ -33,8 +33,9 @@ async function getRandomMp3(list) {
     })
 }
 
-const mp3s = goThroughFilesAndFolders(path.resolve(vaultPath, './z_Assets/Music')).reduce((accum, value) => {
+let mp3s = goThroughFilesAndFolders(path.resolve(vaultPath, './z_Assets/Music')).reduce((accum, value) => {
     const regex = /Music[\\\/]([a-zA-Z\s]+)[\\\/]*([a-zA-Z\s]*)[\\\/][a-zA-Z\s]+\.mp3$/g
+    console.log(accum, value)
     
     const [match, group, category] = regex.exec(value)
     const safeMatch = match.replaceAll('\\', '/')
