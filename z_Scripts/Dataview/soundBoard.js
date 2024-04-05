@@ -37,29 +37,41 @@ const mp3s = goThroughFilesAndFolders(path.resolve(vaultPath, './z_Assets/Music'
     const regex = /Music[\\\/]([a-zA-Z\s]+)[\\\/]*([a-zA-Z\s]*)[\\\/][a-zA-Z\s]+\.mp3$/g
     
     const [match, group, category] = regex.exec(value)
-    console.log(accum, match, group, category)
+    const safeMatch = match.replaceAll('\\', '/')
 
     if (accum.hasOwnProperty(group)) {
         if (accum[group].hasOwnProperty(category)) {
-            accum[group][category].push(match)
+            accum[group][category].push(safeMatch)
         } else {
-            accum[group][category] = [match]
+            accum[group][category] = [safeMatch]
         }
     } else {
-        accum[group] = { [category]: [match] }
+        accum[group] = { [category]: [safeMatch] }
     }
 
     return accum
 }, {})
 
-for (const group of Object.keys(mp3)) {
-    const groupData = mp3[group]
+for (const group of Object.keys(mp3s)) {
+    const groupData = mp3s[group]
 
     if (group !== '') {
-    
         dv.header(2, group)
         for (const category of Object.keys(groupData)) {
+            const categoryData = mp3s[group][category]
 
+            const categoryResult = await getRandomMp3(mp3s[group][category])
+
+            // if (category !== '') {
+            //     dv.header(3, category)
+            //     for (const mp3 of categoryData) {
+            //         dv.span(`![[${mp3}]]`)
+            //     }
+            // } else {
+            //     for (const mp3 of categoryData) {
+            //         dv.span(`![[${mp3}]]`)
+            //     }
+            // }
         }
     } else {
         for (const mp3 of groupData) {
