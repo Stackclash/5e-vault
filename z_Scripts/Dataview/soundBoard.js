@@ -37,6 +37,7 @@ const mp3s = goThroughFilesAndFolders(path.resolve(vaultPath, './z_Assets/Music'
     const regex = /Music[\\\/]([a-zA-Z\s]+)[\\\/]*([a-zA-Z\s]*)[\\\/][a-zA-Z\s]+\.mp3$/g
     
     const [match, group, category] = regex.exec(value)
+    console.log(accum, match, group, category)
 
     if (accum.hasOwnProperty(group)) {
         if (accum[group].hasOwnProperty(category)) {
@@ -47,6 +48,8 @@ const mp3s = goThroughFilesAndFolders(path.resolve(vaultPath, './z_Assets/Music'
     } else {
         accum[group] = { [category]: [match] }
     }
+
+    return accum
 }, {})
 
 console.log(mp3s)
