@@ -36,12 +36,13 @@ async function getRandomMp3(list) {
     })
     .then((rollResult) => {
         console.log(rollResult)
-        return rollResult.results[0]
+        return rollResult
     })
 }
 
 const mp3s = goThroughFilesAndFolders(vaultPath).filter(f => path.extname(f) == '.mp3')
 
-const result = await getRandomMp3(mp3s)
+const rollResults = await getRandomMp3(mp3s)
 
-dv.span(`![[${path.relative(vaultPath, result)}]]`)
+document.querySelector('.cm-contentContainer').appendChild(rollResults.containerEl)
+dv.span(`![[${path.relative(vaultPath, rollResults.results[0])}]]`)
