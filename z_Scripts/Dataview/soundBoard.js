@@ -52,7 +52,21 @@ const mp3s = goThroughFilesAndFolders(path.resolve(vaultPath, './z_Assets/Music'
     return accum
 }, {})
 
-console.log(mp3s)
+for (const group of Object.keys(mp3)) {
+    const groupData = mp3[group]
+
+    if (group !== '') {
+    
+        dv.header(2, group)
+        for (const category of Object.keys(groupData)) {
+
+        }
+    } else {
+        for (const mp3 of groupData) {
+            dv.span(`![[${mp3}]]`)
+        }
+    }
+}
 
 const result = await getRandomMp3(mp3s)
 
