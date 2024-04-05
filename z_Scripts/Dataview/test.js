@@ -2,7 +2,6 @@ const fs = require('fs')
 const path = require('path')
 
 const diceRollerPlugin = app.plugins.getPlugin('obsidian-dice-roller')
-const vaultPath = 'D:\\Projects\\Personal\\5e-vault'
 
 function goThroughFilesAndFolders(folderPath, filesList=[]) {
     const files = fs.readdirSync(folderPath)
@@ -21,12 +20,20 @@ function goThroughFilesAndFolders(folderPath, filesList=[]) {
     return filesList
 }
 
-const mp3s = goThroughFilesAndFolders(path.resolve(__dirname, '../../')).filter(f => path.extname(f) == '.mp3')
-console.log(__dirname, mp3s)
+async function getRandomMp3(list) {
+    return diceRollerPlugin.getArrayRoller(mp3s)
+    .then(arrayRoller => {
+        return arrayRoller.roll()
+    })
+    .then(({ results }) => {
+        return results
+    })
+}
 
-const randomMp3 = await diceRollerPlugin.getArrayRoller(mp3s)
-await randomMp3.roll()
-const randomMp3Result = randomMp3.results
+const mp3s = goThroughFilesAndFolders(app.vault.adapter.getBasePath()).filter(f => path.extname(f) == '.mp3')
 
+const result = await getRandomMp3(mp3s)
 
-dv.span(`![[${randomMp3Result}]]`)
+console.log(result)
+
+dv.span(`![[${result}]]`)
