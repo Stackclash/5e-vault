@@ -9,7 +9,20 @@
       "FasFileAudio"
     ],
     "recentlyUsedIconsSize": 5,
-    "rules": [],
+    "rules": [
+      {
+        "rule": "1. DM Stuff",
+        "icon": "RaCrystalBall",
+        "for": "everything",
+        "order": 0
+      },
+      {
+        "rule": "2. Scratch Notes",
+        "icon": "FasNoteSticky",
+        "for": "everything",
+        "order": 1
+      }
+    ],
     "extraMargin": {
       "top": 0,
       "right": 4,

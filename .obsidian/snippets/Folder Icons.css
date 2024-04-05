@@ -12,18 +12,6 @@ https://fontawesome.com/
 https://nagoshiashumari.github.io/Rpg-Awesome/ https://github.com/nagoshiashumari/Rpg-Awesome/blob/master/scss/_variables.scss
 */
 
-.nav-folder-title[data-path="1. DM Stuff"],
-.nav-folder-title[data-path="1. DM Stuff"] + .nav-folder-children {
-	--folder-icon: "\e982";
-	--folder-font: var(--rpg);
-	
-	/*--folder-vertical-alignment: -2px; */ 
-	/* Optional, helps with aligning icons vertically */
-	
-	/* --folder: #000000; Folder color here */
-	/* --accent-color: 0, 0, 0; RGB Values Only: ###, ###, ### */
-}
-
 .nav-folder-title[data-path="2. Scratch Notes"],
 .nav-folder-title[data-path="2. Scratch Notes"] + .nav-folder-children {
 	--folder-icon: "\f249";
