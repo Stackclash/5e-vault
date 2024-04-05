@@ -1,1 +1,3 @@
-`$=await dv.view('test')`
+```dataviewjs
+await dv.view('test')
+```
