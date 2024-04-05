@@ -1,3 +1,7 @@
+---
+obsidianUIMode: preview
+---
+
 ```meta-bind-button
 style: primary
 label: Recreate View
