@@ -33,7 +33,12 @@ async function getRandomMp3(list) {
     })
 }
 
-const mp3s = goThroughFilesAndFolders(path.resolve(vaultPath, './z_Assets/Music'))
+const mp3s = goThroughFilesAndFolders(path.resolve(vaultPath, './z_Assets/Music')).map((accum, value) => {
+    const regex = /Music\\+([a-zA-Z\s]+)\\+([a-zA-Z\s]*)\\+[a-zA-Z\s]+\.mp3$/g
+
+    const match = value.match(regex)
+    console.log(match)
+}, [])
 
 console.log(mp3s)
 
