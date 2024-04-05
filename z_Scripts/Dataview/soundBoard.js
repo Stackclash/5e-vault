@@ -36,8 +36,17 @@ async function getRandomMp3(list) {
 const mp3s = goThroughFilesAndFolders(path.resolve(vaultPath, './z_Assets/Music')).reduce((accum, value) => {
     const regex = /Music[\\\/]([a-zA-Z\s]+)[\\\/]*([a-zA-Z\s]*)[\\\/][a-zA-Z\s]+\.mp3$/g
     
-    const match = regex.exec(value)
-    console.log(value,typeof value, match)
+    const [match, group, category] = regex.exec(value)
+
+    if (accum.hasOwnProperty(group)) {
+        if (accum[group].hasOwnProperty(category)) {
+            accum[group][category].push(match)
+        } else {
+            accum[group][category] = [match]
+        }
+    } else {
+        accum[group] = { [category]: [match] }
+    }
 }, {})
 
 console.log(mp3s)
