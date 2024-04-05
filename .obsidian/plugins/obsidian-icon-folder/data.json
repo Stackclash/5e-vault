@@ -21,6 +21,48 @@
         "icon": "FasNoteSticky",
         "for": "everything",
         "order": 1
+      },
+      {
+        "rule": "3. The Party",
+        "icon": "FasPeopleGroup",
+        "for": "everything",
+        "order": 2
+      },
+      {
+        "rule": "4. World Almanac",
+        "icon": "FasGlobe",
+        "for": "everything",
+        "order": 3
+      },
+      {
+        "rule": "5. Mechanics",
+        "icon": "FasScrewdriverWrench",
+        "for": "everything",
+        "order": 4
+      },
+      {
+        "rule": "6. Resources",
+        "icon": "FasFileImport",
+        "for": "everything",
+        "order": 5
+      },
+      {
+        "rule": "z_Assets",
+        "icon": "FasImages",
+        "for": "everything",
+        "order": 6
+      },
+      {
+        "rule": "z_Scripts",
+        "icon": "FasCode",
+        "for": "everything",
+        "order": 7
+      },
+      {
+        "rule": "z_Templates",
+        "icon": "FasFileLines",
+        "for": "everything",
+        "order": 8
       }
     ],
     "extraMargin": {
