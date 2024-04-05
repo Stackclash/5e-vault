@@ -39,4 +39,4 @@ console.log(mp3s)
 
 const result = await getRandomMp3(mp3s)
 
-dv.span(`![[${path.relative(vaultPath, result)}]]`)
+dv.span(`![[${result}]]`)

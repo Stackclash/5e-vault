@@ -7,5 +7,5 @@ actions:
 ```
 
 ```dataviewjs
-await dv.view('test')
+await dv.view('soundBoard')
 ```
