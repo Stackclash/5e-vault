@@ -11,7 +11,7 @@
     "recentlyUsedIconsSize": 5,
     "rules": [
       {
-        "rule": ".*",
+        "rule": "1\\. DM Stuff.*",
         "icon": "RaCrystalBall",
         "for": "everything",
         "order": 0
