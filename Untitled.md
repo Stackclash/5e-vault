@@ -1,10 +1,11 @@
 ```meta-bind-button
 style: primary
-label: Reroll Dice
+label: Recreate View
 actions:
   - type: command
     command: dataview:dataview-force-refresh-views
 ```
+
 ```dataviewjs
 await dv.view('test')
 ```
