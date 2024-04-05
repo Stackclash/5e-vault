@@ -22,8 +22,11 @@ function goThroughFilesAndFolders(folderPath, filesList=[]) {
 }
 
 const mp3s = goThroughFilesAndFolders(path.resolve(__dirname, '../../')).filter(f => path.extname(f) == '.mp3')
+console.log(__dirname, mp3s)
 
 const randomMp3 = await diceRollerPlugin.getArrayRoller(mp3s)
 await randomMp3.roll()
+const randomMp3Result = randomMp3.results
 
-dv.span(`![[${randomMp3.results}]]`)
+
+dv.span(`![[${randomMp3Result}]]`)
