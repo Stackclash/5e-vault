@@ -11,7 +11,7 @@
     "recentlyUsedIconsSize": 5,
     "rules": [
       {
-        "rule": ".",
+        "rule": ".*",
         "icon": "RaCrystalBall",
         "for": "everything",
         "order": 0
