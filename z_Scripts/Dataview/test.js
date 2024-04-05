@@ -22,20 +22,17 @@ function goThroughFilesAndFolders(folderPath, filesList=[]) {
 
 async function getRandomMp3(list) {
     return diceRollerPlugin.getArrayRoller(list)
-    .then(arrayRoller => {
-        return arrayRoller.roll()
+    .then(async (arrayRoller) => {
+        await arrayRoller.roll()
+        return arrayRoller
     })
     .then(({ results }) => {
-        console.log('HERE', results)
-        return results
+        return results[0]
     })
 }
 
 const mp3s = goThroughFilesAndFolders(app.vault.adapter.getBasePath()).filter(f => path.extname(f) == '.mp3')
-console.log(mp3s)
 
 const result = await getRandomMp3(mp3s)
 
-console.log(result)
-
-dv.span(result)
+dv.list([1,2,3])
