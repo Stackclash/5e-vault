@@ -33,6 +33,10 @@ async function getRandomMp3(list) {
     })
 }
 
+function mp3Link(mp3) {
+    dv.span(`![[${mp3}#loop]]`)
+}
+
 let mp3s = goThroughFilesAndFolders(path.resolve(vaultPath, './z_Assets/Music')).reduce((accum, value) => {
     const regex = /Music[\\\/]([a-zA-Z\s]+)[\\\/]*([a-zA-Z\s]*)[\\\/][a-zA-Z\s]+\.mp3$/g
     
@@ -62,18 +66,18 @@ for (const group of Object.keys(mp3s)) {
             if (category !== '') {
                 const categoryResult = await getRandomMp3(mp3s[group][category])
                 dv.header(3, category)
-                dv.span(`![[${categoryResult}]]`)
+                mp3Link(categoryResult)
             } else {
                 for (const mp3 of mp3s[group][category]) {
                     dv.header(3, path.parse(mp3).name)
-                    dv.span(`![[${mp3}]]`)
+                    mp3Link(mp3)
                 }
             }
 
         }
     } else {
         for (const mp3 of groupData) {
-            dv.span(`![[${mp3}]]`)
+            mp3Link(mp3)
         }
     }
 }
