@@ -1,1 +1,1 @@
-`$=dv.view('test')`
+`$=await dv.view('test')`
