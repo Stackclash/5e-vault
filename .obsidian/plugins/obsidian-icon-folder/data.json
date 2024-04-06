@@ -6,63 +6,96 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasDiceD20",
+      "FasGears",
+      "RaFlowers",
       "FasFileAudio"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
       {
+        "rule": "z_Assets[\\\\\\/]Music.*",
+        "icon": "FasFileAudio",
+        "for": "everything",
+        "order": 0,
+        "useFilePath": true
+      },
+      {
+        "rule": ".*\\.js",
+        "icon": "FasCode",
+        "for": "everything",
+        "order": 1,
+        "useFilePath": true
+      },
+      {
         "rule": "1\\. DM Stuff.*",
         "icon": "RaCrystalBall",
         "for": "everything",
-        "order": 0
+        "order": 2,
+        "useFilePath": true
       },
       {
-        "rule": "2. Scratch Notes",
+        "rule": "2\\. Scratch Notes.*",
         "icon": "FasNoteSticky",
         "for": "everything",
-        "order": 1
+        "order": 3,
+        "useFilePath": true
       },
       {
-        "rule": "3. The Party",
+        "rule": "3\\. The Party.*",
         "icon": "FasPeopleGroup",
         "for": "everything",
-        "order": 2
+        "order": 4,
+        "useFilePath": true
       },
       {
-        "rule": "4. World Almanac",
+        "rule": "4\\. World Almanac.*",
         "icon": "FasGlobe",
         "for": "everything",
-        "order": 3
+        "order": 5,
+        "useFilePath": true
       },
       {
-        "rule": "5. Mechanics",
+        "rule": "5\\. Mechanics.*",
         "icon": "FasScrewdriverWrench",
         "for": "everything",
-        "order": 4
+        "order": 6,
+        "useFilePath": true
       },
       {
-        "rule": "6. Resources",
+        "rule": "6\\. Resources.*",
         "icon": "FasFileImport",
         "for": "everything",
-        "order": 5
+        "order": 7,
+        "useFilePath": true
       },
       {
-        "rule": "z_Assets",
+        "rule": "z_Assets.*",
         "icon": "FasImages",
         "for": "everything",
-        "order": 6
+        "order": 8,
+        "useFilePath": true
       },
       {
-        "rule": "z_Scripts",
+        "rule": "z_Scripts.*",
         "icon": "FasCode",
         "for": "everything",
-        "order": 7
+        "order": 9,
+        "useFilePath": true
       },
       {
-        "rule": "z_Templates",
+        "rule": "z_Templates.*",
         "icon": "FasFileLines",
         "for": "everything",
-        "order": 8
+        "order": 10,
+        "useFilePath": true
+      },
+      {
+        "rule": "z_Extra.*",
+        "icon": "FasBomb",
+        "for": "everything",
+        "order": 11,
+        "useFilePath": true
       }
     ],
     "extraMargin": {
@@ -79,5 +112,8 @@
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":"
   },
-  "1. DM Stuff/Tools/Sound Board.md": "FasFileAudio"
+  "1. DM Stuff/Tools/Herbs.md": "RaFlowers",
+  "1. DM Stuff/Configuration.md": "FasGears",
+  "1. DM Stuff/DM Screen.md": "FasDiceD20",
+  "1. DM Stuff/Sound Board.md": "FasFileAudio"
 }
