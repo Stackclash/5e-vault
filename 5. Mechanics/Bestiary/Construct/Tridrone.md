@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Tridrone
 ---
-# [[5. Mechanics\Bestiary\Construct\Tridrone.md|Tridrone]]
+# [[5. Mechanics/Bestiary/Construct/Tridrone.md|Tridrone]]
 *Source: Monster Manual p. 225*
 
 Tridrones are shaped like inverted pyramids. They lead lesser modrons in battle.
@@ -53,6 +53,7 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
 "type": "construct"
 "alignment": "Lawful Neutral"
 "ac": !!int "15"
+"ac_class": "natural armor"
 "hp": !!int "16"
 "hit_dice": "3d8 + 3"
 "stats":
@@ -76,11 +77,11 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
 "actions":
 - "desc": "The tridrone makes three fist attacks or three javelin attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 1|avg (1d4 + 1) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d4 + 1|text(3) (1d4 + 1) bludgeoning damage."
   "name": "Fist"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft.\
-    \ or range 30/120 ft., one target. Hit: dice: 1d6 + 1|avg (1d6 + 1) piercing\
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft.\
+    \ or range 30/120 ft., one target. Hit: dice:1d6 + 1|text(4) (1d6 + 1) piercing\
     \ damage."
   "name": "Javelin"
 "source":

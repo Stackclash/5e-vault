@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Podling
 ---
-# [[5. Mechanics\Bestiary\Plant\Podling.md|Podling]]
+# [[5. Mechanics/Bestiary/Plant/Podling.md|Podling]]
 *Source: Van Richten's Guide to Ravenloft p. 227*
 
 Bodytaker plants either capture unsuspecting victims with their vines or accept captives brought to them by their podling servants. In either case, they drag creatures into their central pod, where potent chemicals render the captive comatose. Over the course of hours, the creature is dissolved and its body repurposed into a podling duplicate.
@@ -64,8 +64,8 @@ Podlings are near-perfect mimics of the creatures they replace. Despite having t
 - "desc": "The podling doesn't require sleep."
   "name": "Unusual Nature"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 2|text(5) (1d6 + 2) bludgeoning damage."
   "name": "Slam"
 "source":
 - "VRGR"

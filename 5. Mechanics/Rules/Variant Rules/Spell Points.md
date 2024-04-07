@@ -23,6 +23,6 @@ The Spell Points by Level table applies to [[5. Mechanics/Classes/Bard.md\|bards
 
 This system can be applied to monsters that cast spells using spell slots, but it isn't recommended that you do so. Tracking spell point expenditures for a monster can be a hassle.
 
-![Variant: Spell Points; Spell Point Cost](compendium/tables/variant-spell-points-spell-point-cost.md)
+![[5. Mechanics/Tables/Variant Spell Points Spell Point Cost.md\|Variant: Spell Points; Spell Point Cost]]
 
-![Variant: Spell Points; Spell Points by Level](compendium/tables/variant-spell-points-spell-points-by-level.md)
+![[5. Mechanics/Tables/Variant Spell Points Spell Points By Level.md\|Variant: Spell Points; Spell Points by Level]]

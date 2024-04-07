@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Trapper
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Trapper.md|Trapper]]
+# [[5. Mechanics/Bestiary/Monstrosity/Trapper.md|Trapper]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 245, Volo's Guide to Monsters p. 194*
 
 A trapper is a manta-like creature that usually lurks in subterranean environments. It can change the color and texture of its tough, outward-facing side to help it blend in with its surroundings, while its soft, inward-facing side clings to the floor, wall, or ceiling in its hunting territory. It remains motionless as it waits for prey to come close. When a target is within its reach, it peels itself away from the surface and wraps around its prey, crushing, smothering, and then digesting it. Only a scattering of bones, metal, treasure, and other indigestible bits is left behind.
@@ -28,6 +28,7 @@ A trapper needs to eat a [[5. Mechanics/Races/Halfling.md|halfling]]-sized meal 
 "type": "monstrosity"
 "alignment": "Unaligned"
 "ac": !!int "13"
+"ac_class": "natural armor"
 "hp": !!int "68"
 "hit_dice": "8d10 + 24"
 "stats":
@@ -56,9 +57,9 @@ A trapper needs to eat a [[5. Mechanics/Races/Halfling.md|halfling]]-sized meal 
 "actions":
 - "desc": "One Large or smaller creature within 10 feet of the trapper must succeed\
     \ on a DC 13 Dexterity saving throw or be [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ (escape DC 14). Until the grapple ends, the target takes dice: 3d6 + 3|avg\
-    \ (3d6 + 3) bludgeoning damage plus dice: 1d6|avg (1d6) acid damage at the\
-    \ start of each of its turns. While [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ (escape DC 14). Until the grapple ends, the target takes dice:3d6 + 3|text(13)\
+    \ (3d6 + 3) bludgeoning damage plus dice:1d6|text(3) (1d6) acid damage at\
+    \ the start of each of its turns. While [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ in this way, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
     \ [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], and deprived of air. The\
     \ trapper can smother only one creature at a time."

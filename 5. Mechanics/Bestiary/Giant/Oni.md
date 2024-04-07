@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Oni
 ---
-# [[5. Mechanics\Bestiary\Giant\Oni.md|Oni]]
+# [[5. Mechanics/Bestiary/Giant/Oni.md|Oni]]
 *Source: Monster Manual p. 239, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD.*
 
 In nursery rhymes, oni are fearsome bogeymen that haunt the nightmares of children and adults alike, yet they are very real and always hungry. They find human babies especially delicious. Oni look like demonic ogres with blue or green skin, dark hair, and a pair of short ivory horns protruding from their foreheads. Their eyes are dark with strikingly white pupils, and their teeth and claws are jet black.
@@ -50,6 +50,7 @@ Oni are sometimes called ogre mages because of their innate magical ability. Tho
 "type": "giant"
 "alignment": "Lawful Evil"
 "ac": !!int "16"
+"ac_class": "[[5. Mechanics/Items/Chain Mail.md|chain mail]]"
 "hp": !!int "110"
 "hit_dice": "13d10 + 39"
 "stats":
@@ -88,12 +89,12 @@ Oni are sometimes called ogre mages because of their innate magical ability. Tho
 "actions":
 - "desc": "The oni makes two attacks, either with its claws or its glaive."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 4|text(8) (1d8 + 4) slashing damage."
   "name": "Claw (Oni Form Only)"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d10 + 4|avg (2d10 + 4) slashing damage, or dice: 1d10 + 4|avg\
-    \ (1d10 + 4) slashing damage in Small or Medium form."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 10 ft., one target.\
+    \ Hit: dice:2d10 + 4|text(15) (2d10 + 4) slashing damage, or dice:1d10\
+    \ + 4|text(9) (1d10 + 4) slashing damage in Small or Medium form."
   "name": "Glaive"
 - "desc": "The oni magically polymorphs into a Small or Medium humanoid, into a Large\
     \ giant, or back into its true form. Other than its size, its statistics are the\

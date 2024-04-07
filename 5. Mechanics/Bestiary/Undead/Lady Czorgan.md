@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Lady Czorgan
 ---
-# [[5. Mechanics\Bestiary\Undead\Lady Czorgan.md|Lady Czorgan]]
+# [[5. Mechanics/Bestiary/Undead/Lady Czorgan.md|Lady Czorgan]]
 *Source: Strongholds and Followers p. 258*
 
 ```statblock
@@ -19,6 +19,7 @@ aliases:
 "type": "undead"
 "alignment": "Chaotic Evil"
 "ac": !!int "18"
+"ac_class": "[[5. Mechanics/Items/Plate Armor.md|plate armor]]"
 "hp": !!int "97"
 "hit_dice": "13d8 + 39"
 "stats":
@@ -41,8 +42,8 @@ aliases:
 "cr": "12"
 "traits":
 - "desc": "Lady Czorgan is a 13th-level spellcaster. Her spellcasting ability is Charisma\
-    \ (spell save DC 15, dice: d20+8 (+8 to hit) with spell attacks). She has the\
-    \ following spells prepared:\n\n1st level (4 slots): [[5. Mechanics/Spells/Command.md|command]],\
+    \ (spell save DC 15, dice: d20+8 (+8) to hit with spell attacks). She has\
+    \ the following spells prepared:\n\n1st level (4 slots): [[5. Mechanics/Spells/Command.md|command]],\
     \ [[5. Mechanics/Spells/Hunters Mark.md|hunter's mark]], [[5. Mechanics/Spells/Inflict Wounds.md|inflict wounds]]\n\
     \n2nd level (3 slots): [[5. Mechanics/Spells/Hold Person.md|hold person]], [magic\
     \ weapon](compendium/spells/magic-weapon.md)\n\n3rd level (3 slots): [dispel\
@@ -59,15 +60,15 @@ aliases:
 "actions":
 - "desc": "Lady Czorgan makes two longsword attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) slashing damage, or dice: 1d10 + 4|avg\
-    \ (1d10 + 4) slashing damage if used with two hands, plus dice: 3d8|avg (3d8)\
-    \ necrotic damage."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 4|text(8) (1d8 + 4) slashing damage, or dice:1d10 + 4|text(10)\
+    \ (1d10 + 4) slashing damage if used with two hands, plus dice:3d8|text(13)\
+    \ (3d8) necrotic damage."
   "name": "Longsword"
 - "desc": "Lady Czorgan points at a location she can see and corruption explodes from\
     \ the ground within 60 feet of her. Each creature in a 20-foot-radius sphere centered\
     \ on that point must make a DC 15 Constitution saving throw. The corrupted ground\
-    \ spreads around corners. A creature takes dice: 15d6|avg (15d6) necrotic\
+    \ spreads around corners. A creature takes dice:15d6|text(52) (15d6) necrotic\
     \ damage on a failed save, or half as much damage on a successful one."
   "name": "Decaying Ground (1/Day)"
 "source":

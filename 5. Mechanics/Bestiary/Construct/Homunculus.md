@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Homunculus
 ---
-# [[5. Mechanics\Bestiary\Construct\Homunculus.md|Homunculus]]
+# [[5. Mechanics/Bestiary/Construct/Homunculus.md|Homunculus]]
 *Source: Monster Manual p. 188, Eberron: Rising from the Last War. Available in the SRD.*
 
 Shaping a mixture of clay, ash, mandrake root, and blood, one can channel rare ritual magic to create a faithful, squirrel-sized companion.
@@ -27,6 +27,7 @@ A homunculus knows everything its creator knows, including all the languages the
 "type": "construct"
 "alignment": "Neutral"
 "ac": !!int "13"
+"ac_class": "natural armor"
 "hp": !!int "5"
 "hit_dice": "2d4"
 "stats":
@@ -48,11 +49,11 @@ A homunculus knows everything its creator knows, including all the languages the
     \ telepathically."
   "name": "Telepathic Bond"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one creature.\
     \ Hit: 1 piercing damage, and the target must succeed on a DC 10 Constitution\
     \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for\
     \ 1 minute. If the saving throw fails by 5 or more, the target is instead [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
-    \ for dice: 1d10|avg (1d10) minutes and [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]\
+    \ for dice:1d10|text(5) (1d10) minutes and [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]\
     \ while [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in this way."
   "name": "Bite"
 "source":

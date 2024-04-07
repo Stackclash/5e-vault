@@ -12,7 +12,6 @@ aliases:
   - Heal
 ---
 # Heal
-%%-- Embedded content starts on the next line. --%%
 *6th-level, Evocation*  
 
 - **Casting time:** 1 action

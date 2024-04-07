@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Yeth Hound
 ---
-# [[5. Mechanics\Bestiary\Fey\Yeth Hound.md|Yeth Hound]]
+# [[5. Mechanics/Bestiary/Fey/Yeth Hound.md|Yeth Hound]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 271, Volo's Guide to Monsters p. 201*
 
 Granted by mighty Fey to individuals who please them, yeth hounds serve their masters like hunting dogs. They race in pursuit of their prey, running it down until it's too exhausted to fight back. Only the threat of dawn drives the pack back into hiding.
@@ -26,6 +26,7 @@ A pack of yeth hounds can be created by powerful Fey such as the Queen of Air an
 "type": "fey"
 "alignment": "Typically  Neutral Evil"
 "ac": !!int "14"
+"ac_class": "natural armor"
 "hp": !!int "51"
 "hit_dice": "6d10 + 18"
 "stats":
@@ -61,8 +62,8 @@ A pack of yeth hounds can be created by powerful Fey such as the Queen of Air an
     \ telepathically with each other."
   "name": "Telepathic Bond"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) piercing damage, plus dice: 4d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) piercing damage, plus dice:4d6|text(14)\
     \ (4d6) psychic damage if the target is [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]."
   "name": "Bite"
 - "desc": "The yeth hound bays magically. Every enemy within 300 feet of the hound\

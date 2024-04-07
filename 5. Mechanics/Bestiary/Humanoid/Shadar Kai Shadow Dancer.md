@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Shadar-kai Shadow Dancer
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Shadar Kai Shadow Dancer.md|Shadar-kai Shadow Dancer]]
+# [[5. Mechanics/Bestiary/Humanoid/Shadar Kai Shadow Dancer.md|Shadar-kai Shadow Dancer]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 213, Mordenkainen's Tome of Foes p. 225*
 
 Those who have fought shadow dancers describe the experience as similar to fighting a living darkness. Every dim alcove and darkened nook is a place the lithe and acrobatic shadow dancers can emerge from to ambush their prey. Using this tactic, they attack their enemies from all angles with a flurry of entangling chains that hold fast and corrupt the flesh. When their quarry is helpless, they dispatch it and then loot the corpse for trinkets, particularly anything colorful and lively to gaze at after they return to the gloom of the Shadowfell.
@@ -41,6 +41,7 @@ Shadar-kai encountered outside the Shadowfell are often on quests to find the mo
 "subtype": "elf"
 "alignment": "Any alignment"
 "ac": !!int "15"
+"ac_class": "[[5. Mechanics/Items/Studded Leather Armor.md|studded leather]]"
 "hp": !!int "71"
 "hit_dice": "13d8 + 13"
 "stats":
@@ -69,15 +70,16 @@ Shadar-kai encountered outside the Shadowfell are often on quests to find the mo
 - "desc": "The shadar-kai makes three Spiked Chain attacks.\n\nIt can use Shadow Jump\
     \ after one of these attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) piercing damage. The target must succeed\
-    \ on a DC 14 Dexterity saving throw or suffer one of the following effects (choose\
-    \ one or roll a dice: d6|avg (d6)):\n\n- 1–2 Decay. The target takes dice:\
-    \ 4d10|avg (4d10) necrotic damage.  \n- 3–4 Grapple. The target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ (escape DC 14) if it is a Medium or smaller creature. Until the grapple ends,\
-    \ the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]], and\
-    \ the shadar-kai can't grapple another target.  \n- 5–6 Topple. The target\
-    \ is knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].  "
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 10 ft., one target.\
+    \ Hit: dice:2d6 + 3|text(10) (2d6 + 3) piercing damage. The target must\
+    \ succeed on a DC 14 Dexterity saving throw or suffer one of the following effects\
+    \ (choose one or roll a dice: d6|avg|noform (d6)):\n\n- 1–2 Decay. The\
+    \ target takes dice:4d10|text(22) (4d10) necrotic damage.  \n- 3–4 Grapple.\
+    \ The target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC\
+    \ 14) if it is a Medium or smaller creature. Until the grapple ends, the target\
+    \ is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]], and the shadar-kai\
+    \ can't grapple another target.  \n- 5–6 Topple. The target is knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
+    \  "
   "name": "Spiked Chain"
 "bonus_actions":
 - "desc": "The shadar-kai teleports, along with any equipment is it wearing or carrying,\

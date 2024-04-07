@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Pteranodon
 ---
-# [[5. Mechanics\Bestiary\Beast\Pteranodon.md|Pteranodon]]
+# [[5. Mechanics/Bestiary/Beast/Pteranodon.md|Pteranodon]]
 *Source: Monster Manual p. 80, Eberron: Rising from the Last War. Available in the Basic Rules.*
 
 These flying reptiles have wingspans of 15 to 20 feet and typically dive for small marine prey, though they are opportunists and will attack any creature that appears edible. A pteranodon has no teeth, instead using its sharp beak to stab prey too large to swallow with one gulp.
@@ -30,6 +30,7 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
 "type": "beast"
 "alignment": "Unaligned"
 "ac": !!int "13"
+"ac_class": "natural armor"
 "hp": !!int "13"
 "hit_dice": "3d8"
 "stats":
@@ -50,8 +51,8 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
     \ an enemy's reach."
   "name": "Flyby"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4 + 1|avg (2d4 + 1) piercing damage"
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d4 + 1|text(6) (2d4 + 1) piercing damage"
   "name": "Bite"
 "source":
 - "MM"

@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Yuan-ti Anathema
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Yuan Ti Anathema.md|Yuan-ti Anathema]]
+# [[5. Mechanics/Bestiary/Monstrosity/Yuan Ti Anathema.md|Yuan-ti Anathema]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 272, Volo's Guide to Monsters p. 202*
 
 As part of their quest for godhood, a yuan-ti abomination might perform a ritual that, if successful, transforms them into an even greater form: a yuan-ti anathema. This ritual demands the sacrifice of hundreds of snakes and requires the abomination to bathe in the blood of their enemies. The transformation is quick but painful.
@@ -28,6 +28,7 @@ Anathemas don't age, allowing them to pursue their goals until the end of days. 
 "type": "monstrosity"
 "alignment": "Typically  Neutral Evil"
 "ac": !!int "16"
+"ac_class": "natural armor"
 "hp": !!int "189"
 "hit_dice": "18d12 + 72"
 "stats":
@@ -75,20 +76,20 @@ Anathemas don't age, allowing them to pursue their goals until the end of days. 
 "actions":
 - "desc": "The anathema makes two Claw attacks and one Flurry of Bites attack."
   "name": "Multiattack (Anathema Form Only)"
-- "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d6 + 6|avg (2d6 + 6) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+10 (+10) to hit, reach 10 ft., one\
+    \ target. Hit: dice:2d6 + 6|text(13) (2d6 + 6) slashing damage."
   "name": "Claw (Anathema Form Only)"
-- "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 10 ft., one creature.\
-    \ Hit: dice: 6d6 + 6|avg (6d6 + 6) piercing damage plus dice: 4d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+10 (+10) to hit, reach 10 ft., one\
+    \ creature. Hit: dice:6d6 + 6|text(27) (6d6 + 6) piercing damage plus dice:4d6|text(14)\
     \ (4d6) poison damage."
   "name": "Flurry of Bites (Anathema Form Only)"
-- "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 15 ft., one Large\
-    \ or smaller creature. Hit: dice: 3d6 + 6|avg (3d6 + 6) bludgeoning damage\
-    \ plus dice: 2d6|avg (2d6) acid damage, and the target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+- "desc": "Melee Weapon Attack: dice: d20+10 (+10) to hit, reach 15 ft., one\
+    \ Large or smaller creature. Hit: dice:3d6 + 6|text(16) (3d6 + 6) bludgeoning\
+    \ damage plus dice:2d6|text(7) (2d6) acid damage, and the target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ (escape DC 16). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
-    \ and it takes dice: 3d6 + 6|avg (3d6 + 6) bludgeoning damage plus dice:\
-    \ 2d6|avg (2d6) acid damage at the start of each of its turns. The anathema\
-    \ can constrict only one creature at a time."
+    \ and it takes dice:3d6 + 6|text(16) (3d6 + 6) bludgeoning damage plus dice:2d6|text(7)\
+    \ (2d6) acid damage at the start of each of its turns. The anathema can constrict\
+    \ only one creature at a time."
   "name": "Constrict (Snake Form Only)"
 "bonus_actions":
 - "desc": "The anathema transforms into a Huge constrictor snake or back into its\

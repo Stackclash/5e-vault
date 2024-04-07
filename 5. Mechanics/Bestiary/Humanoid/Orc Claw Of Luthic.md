@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/vgm
-- monster/cr/2
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/humanoid/orc
+  - compendium/src/5e/vgm
+  - monster/cr/2
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/humanoid/orc
 statblock: inline
-aliases: ["Orc Claw of Luthic"]
+aliases:
+  - Orc Claw of Luthic
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Orc Claw Of Luthic.md|Orc Claw of Luthic]]
+# [[5. Mechanics/Bestiary/Humanoid/Orc Claw Of Luthic.md|Orc Claw of Luthic]]
 *Source: Volo's Guide to Monsters p. 183*
 
 To the common folk of the world, an orc is an orc. They know that any one of these savages can tear an ordinary person to pieces, so no further distinction is necessary.
@@ -33,6 +34,7 @@ Orc females devoted to Luthic are in charge of fortifying and maintaining an orc
 "subtype": "orc"
 "alignment": "Chaotic Evil"
 "ac": !!int "14"
+"ac_class": "[[5. Mechanics/Items/Hide Armor.md|hide armor]]"
 "hp": !!int "45"
 "hit_dice": "6d8 + 18"
 "stats":
@@ -52,8 +54,8 @@ Orc females devoted to Luthic are in charge of fortifying and maintaining an orc
 "cr": "2"
 "traits":
 - "desc": "The orc is a 5th-level spellcaster. Its spellcasting ability is Wisdom\
-    \ (spell save DC 12, dice: d20+4 (+4 to hit) with spell attacks). The orc has\
-    \ the following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Guidance.md|guidance]],\
+    \ (spell save DC 12, dice: d20+4 (+4) to hit with spell attacks). The orc\
+    \ has the following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Guidance.md|guidance]],\
     \ [[5. Mechanics/Spells/Mending.md|mending]], [[5. Mechanics/Spells/Resistance.md|resistance]],\
     \ [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\n1st level (4 slots):\
     \ [[5. Mechanics/Spells/Bane.md|bane]], [[5. Mechanics/Spells/Cure Wounds.md|cure wounds]],\
@@ -69,8 +71,8 @@ Orc females devoted to Luthic are in charge of fortifying and maintaining an orc
 - "desc": "The orc makes two claw attacks, or four claw attacks if it has fewer than\
     \ half of its hit points remaining."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 2|avg (1d8 + 2) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 2|text(6) (1d8 + 2) slashing damage."
   "name": "Claw"
 "source":
 - "VGM"

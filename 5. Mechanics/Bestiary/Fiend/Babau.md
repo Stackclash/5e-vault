@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Babau
 ---
-# [[5. Mechanics\Bestiary\Fiend\Babau.md|Babau]]
+# [[5. Mechanics/Bestiary/Fiend/Babau.md|Babau]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 52, Volo's Guide to Monsters p. 136*
 
 > [!quote]- A quote from Mordenkainen  
@@ -30,6 +30,7 @@ A babau demon has the cunning of a devil and the bloodthirstiness of a demon. It
 "subtype": "demon"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "16"
+"ac_class": "natural armor"
 "hp": !!int "82"
 "hit_dice": "11d8 + 33"
 "stats":
@@ -61,8 +62,8 @@ A babau demon has the cunning of a devil and the bloodthirstiness of a demon. It
 - "desc": "The babau makes two Claw attacks. It can replace one attack with a use\
     \ of Spellcasting or Weakening Gaze."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 4|avg (1d4 + 4) slashing damage plus dice: 1d4|avg\
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d4 + 4|text(6) (1d4 + 4) slashing damage plus dice:1d4|text(2)\
     \ (1d4) acid damage."
   "name": "Claw"
 - "desc": "The babau targets one creature that it can see within 20 feet of it. The\

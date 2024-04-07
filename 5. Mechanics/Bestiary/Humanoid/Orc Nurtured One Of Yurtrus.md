@@ -2,19 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/vgm
-- monster/cr/1-2
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/humanoid/orc
+  - compendium/src/5e/vgm
+  - monster/cr/1-2
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/humanoid/orc
 statblock: inline
-aliases: ["Orc Nurtured One of Yurtrus"]
+aliases:
+  - Orc Nurtured One of Yurtrus
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Orc Nurtured One Of Yurtrus.md|Orc Nurtured One of Yurtrus]]
+# [[5. Mechanics/Bestiary/Humanoid/Orc Nurtured One Of Yurtrus.md|Orc Nurtured One of Yurtrus]]
 *Source: Volo's Guide to Monsters p. 184*
 
 To the common folk of the world, an orc is an orc. They know that any one of these savages can tear an ordinary person to pieces, so no further distinction is necessary.
@@ -53,8 +54,9 @@ When plague strikes a tribe, the hands of Yurtrus isolate the sick. The priests 
   "name": "Aggressive"
 - "desc": "When the orc is reduced to 0 hit points, it explodes, and any creature\
     \ within 10 feet of it must make a DC 13 Constitution saving throw. On a failed\
-    \ save, the creature takes dice: 4d6|avg (4d6) poison damage and becomes [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]].\
-    \ On a success, the creature takes half as much damage and isn't [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]].\
+    \ save, the creature takes dice:4d6|text(14) (4d6) poison damage and becomes\
+    \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]. On a success, the creature\
+    \ takes half as much damage and isn't [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]].\
     \ A creature [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] by this effect\
     \ can repeat the save at the end of each of its turn, ending the effect on itself\
     \ on a success. While [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] by\
@@ -63,8 +65,8 @@ When plague strikes a tribe, the hands of Yurtrus isolate the sick. The priests 
 - "desc": "The orc has advantage on saving throws against poison and disease."
   "name": "Nurtured One of Yurtrus"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) slashing damage plus dice: 1d4|avg\
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d4 + 2|text(4) (1d4 + 2) slashing damage plus dice:1d4|text(2)\
     \ (1d4) necrotic damage."
   "name": "Claws"
 - "desc": "The orc reduces itself to 0 hit points, triggering its Corrupted Carrier\

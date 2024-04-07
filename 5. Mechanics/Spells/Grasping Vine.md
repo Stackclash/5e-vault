@@ -12,7 +12,6 @@ aliases:
   - Grasping Vine
 ---
 # Grasping Vine
-%%-- Embedded content starts on the next line. --%%
 *4th-level, Conjuration*  
 
 - **Casting time:** 1 bonus

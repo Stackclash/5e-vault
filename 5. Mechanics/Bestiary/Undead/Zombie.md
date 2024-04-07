@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Zombie
 ---
-# [[5. Mechanics\Bestiary\Undead\Zombie.md|Zombie]]
+# [[5. Mechanics/Bestiary/Undead/Zombie.md|Zombie]]
 *Source: Monster Manual p. 316, Curse of Strahd, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*
 
 From somewhere in the darkness, a gurgling moan is heard. A form lurches into view, dragging one foot as it raises bloated arms and broken hands. The zombie advances, driven to kill anyone too slow to escape its grasp.
@@ -72,8 +72,8 @@ A zombie doesn't require air, food, drink, or sleep.
     \ or from a critical hit. On a success, the zombie drops to 1 hit point instead."
   "name": "Undead Fortitude"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 1|avg (1d6 + 1) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 1|text(4) (1d6 + 1) bludgeoning damage."
   "name": "Slam"
 "source":
 - "MM"

@@ -14,7 +14,7 @@ statblock: inline
 aliases:
   - Eagle
 ---
-# [[5. Mechanics\Bestiary\Beast\Eagle.md|Eagle]]
+# [[5. Mechanics/Bestiary/Beast/Eagle.md|Eagle]]
 *Source: Monster Manual p. 322. Available in the SRD and the Basic Rules.*
 
 ```statblock
@@ -43,8 +43,8 @@ aliases:
     \ checks that rely on sight."
   "name": "Keen Sight"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d4 + 2|text(4) (1d4 + 2) slashing damage."
   "name": "Talons"
 "source":
 - "MM"

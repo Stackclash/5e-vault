@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Kalaraq Quori
 ---
-# [[5. Mechanics\Bestiary\Aberration\Kalaraq Quori.md|Kalaraq Quori]]
+# [[5. Mechanics/Bestiary/Aberration/Kalaraq Quori.md|Kalaraq Quori]]
 *Source: Eberron: Rising from the Last War p. 306*
 
 The most powerful quori are the kalaraqs, also known as eyebinders—entities formed of pure shadow that is outlined by a nimbus of energy. A host of disembodied eyes whirl around a kalaraq, each reflecting a consciousness the creature has consumed.
@@ -25,6 +25,7 @@ Dal Quor is the plane of dreams and is currently dominated by a dark power known
 "type": "aberration"
 "alignment": "Lawful Evil"
 "ac": !!int "18"
+"ac_class": "natural armor"
 "hp": !!int "161"
 "hit_dice": "19d8 + 76"
 "stats":
@@ -55,7 +56,7 @@ Dal Quor is the plane of dreams and is currently dominated by a dark power known
 "cr": "19"
 "traits":
 - "desc": "The quori's spellcasting ability is Charisma (spell save DC 21, dice:\
-    \ d20+13 (+13 to hit) with spell attacks). It can innately cast the following\
+    \ d20+13 (+13) to hit with spell attacks). It can innately cast the following\
     \ spells, requiring no components:\n\nAt will: [[5. Mechanics/Spells/Arcane Eye.md|arcane eye]]\n\
     \n3/day each: [[5. Mechanics/Spells/Clairvoyance.md|clairvoyance]], [[5. Mechanics/Spells/Confusion.md|confusion]],\
     \ [[5. Mechanics/Spells/Dream.md|dream]], [[5. Mechanics/Spells/Eyebite.md|eyebite]]"
@@ -63,8 +64,8 @@ Dal Quor is the plane of dreams and is currently dominated by a dark power known
 - "desc": "The quori can't be surprised while it isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
   "name": "All-Around Vision"
 - "desc": "The quori can move through other creatures and objects as if they were\
-    \ difficult terrain. It takes dice: 1d10|avg (1d10) force damage if it ends\
-    \ its turn inside an object."
+    \ difficult terrain. It takes dice:1d10|text(5) (1d10) force damage if it\
+    \ ends its turn inside an object."
   "name": "Incorporeal Movement"
 - "desc": "The quori has advantage on saving throws against spells and other magical\
     \ effects."
@@ -73,11 +74,11 @@ Dal Quor is the plane of dreams and is currently dominated by a dark power known
 - "desc": "The quori makes two Soul Binding attacks. Alternatively, it can make four\
     \ attacks with Arcane Blast."
   "name": "Multiattack"
-- "desc": "Ranged Spell Attack: dice: d20+13 (+13 to hit), range 120 ft., one\
-    \ target. Hit: dice: 1d10 + 7|avg (1d10 + 7) force damage."
+- "desc": "Ranged Spell Attack: dice: d20+13 (+13) to hit, range 120 ft., one\
+    \ target. Hit: dice:1d10 + 7|text(12) (1d10 + 7) force damage."
   "name": "Arcane Blast"
-- "desc": "Melee Spell Attack: dice: d20+13 (+13 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 4d10 + 7|avg (4d10 + 7) necrotic damage. A creature reduced\
+- "desc": "Melee Spell Attack: dice: d20+13 (+13) to hit, reach 5 ft., one target.\
+    \ Hit: dice:4d10 + 7|text(29) (4d10 + 7) necrotic damage. A creature reduced\
     \ to 0 hit points from this attack dies and has its soul imprisoned in one of\
     \ the quori's eyes. The target can't be revived by any means short of a [[5. Mechanics/Spells/Wish.md|wish]]\
     \ spell until the quori is destroyed."
@@ -96,7 +97,7 @@ Dal Quor is the plane of dreams and is currently dominated by a dark power known
 - "desc": "The quori creates a swarm of spectral eyes that fills a 30-foot-radius\
     \ sphere centered on a point it can see within 60 feet of it. Each creature in\
     \ that area must make a DC 21 Wisdom saving throw. On a failure, a creature takes\
-    \ dice: 10d8|avg (10d8) psychic damage, and it is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]\
+    \ dice:10d8|text(45) (10d8) psychic damage, and it is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]\
     \ for 1 minute. On a success, a creature takes half as much damage and isn't [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]].\
     \ A [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] creature can repeat the\
     \ saving throw at the end of each of its turns, ending the effect on itself on\

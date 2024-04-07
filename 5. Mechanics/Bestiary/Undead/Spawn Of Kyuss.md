@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Spawn of Kyuss
 ---
-# [[5. Mechanics\Bestiary\Undead\Spawn Of Kyuss.md|Spawn of Kyuss]]
+# [[5. Mechanics/Bestiary/Undead/Spawn Of Kyuss.md|Spawn of Kyuss]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 225, Volo's Guide to Monsters p. 192*
 
 Kyuss was a high priest of Orcus who plundered corpses from necropolises to create the first spawn of Kyuss. Even centuries after Kyuss's death, his malign disciples continue performing the horrific rites he perfected.
@@ -61,8 +61,8 @@ Spawn of Kyuss are expressions of Orcus's intent to replace all life with undeat
 "actions":
 - "desc": "The spawn of Kyuss makes two Claw attacks, and it uses Burrowing Worm."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) slashing damage plus dice: 2d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 3|text(6) (1d6 + 3) slashing damage plus dice:2d6|text(7)\
     \ (2d6) necrotic damage."
   "name": "Claw"
 - "desc": "A worm launches from the spawn of Kyuss at one Humanoid that the spawn\
@@ -74,11 +74,11 @@ Spawn of Kyuss are expressions of Orcus's intent to replace all life with undeat
     \ worm at a Humanoid it can see within 10 feet of the worm). Otherwise, the worm\
     \ burrows under the target's skin at the end of the target's next turn, dealing\
     \ 1 piercing damage to it. At the end of each of its turns thereafter, the target\
-    \ takes dice: 2d6|avg (2d6) necrotic damage per worm infesting it (maximum\
-    \ of dice: 10d6|avg (10d6)), and if it drops to 0 hit points, it dies and\
-    \ then rises 10 minutes later as a spawn of Kyuss. If a worm-infested target is\
-    \ targeted by an effect that cures disease or removes a curse, all the worms infesting\
-    \ it wither away."
+    \ takes dice:2d6|text(7) (2d6) necrotic damage per worm infesting it (maximum\
+    \ of dice: 10d6|avg|noform (10d6)), and if it drops to 0 hit points, it dies\
+    \ and then rises 10 minutes later as a spawn of Kyuss. If a worm-infested target\
+    \ is targeted by an effect that cures disease or removes a curse, all the worms\
+    \ infesting it wither away."
   "name": "Burrowing Worm"
 "source":
 - "MPMM"

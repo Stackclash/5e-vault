@@ -16,7 +16,7 @@ statblock: inline
 aliases:
   - Bandit
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Bandit.md|Bandit]]
+# [[5. Mechanics/Bestiary/Humanoid/Bandit.md|Bandit]]
 *Source: Monster Manual p. 343, Eberron: Rising from the Last War, Curse of Strahd. Available in the SRD and the Basic Rules.*
 
 Bandits rove in gangs and are sometimes led by thugs, veterans, or spellcasters. Not all bandits are evil. Oppression, drought, disease, or famine can often drive otherwise honest folk to a life of banditry.
@@ -30,6 +30,7 @@ Pirates are bandits of the high seas. They might be freebooters interested only 
 "subtype": "any race"
 "alignment": "Any Non-Lawful alignment"
 "ac": !!int "12"
+"ac_class": "[[5. Mechanics/Items/Leather Armor.md|leather armor]]"
 "hp": !!int "11"
 "hit_dice": "2d8 + 2"
 "stats":
@@ -44,11 +45,11 @@ Pirates are bandits of the high seas. They might be freebooters interested only 
 "languages": "any one language (usually Common)"
 "cr": "1/8"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 1|avg (1d6 + 1) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 1|text(4) (1d6 + 1) slashing damage."
   "name": "Scimitar"
-- "desc": "Ranged Weapon Attack: dice: d20+3 (+3 to hit), range 80/320 ft., one\
-    \ target. Hit: dice: 1d8 + 1|avg (1d8 + 1) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+3 (+3) to hit, range 80/320 ft.,\
+    \ one target. Hit: dice:1d8 + 1|text(5) (1d8 + 1) piercing damage."
   "name": "Light Crossbow"
 "source":
 - "MM"

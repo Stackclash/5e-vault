@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Berbalang
 ---
-# [[5. Mechanics\Bestiary\Aberration\Berbalang.md|Berbalang]]
+# [[5. Mechanics/Bestiary/Aberration/Berbalang.md|Berbalang]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 61, Mordenkainen's Tome of Foes p. 120*
 
 Berbalangs creep across the [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]] remains of dead gods adrift on the Astral Plane. Obsessed with gathering secrets, both from the gods they inhabit and from the bones of dead creatures, they call forth the spirits of the dead and force them to divulge what they learned in life.
@@ -28,6 +28,7 @@ The knowledge that berbalangs accumulate makes them great sources of information
 "type": "aberration"
 "alignment": "Typically  Neutral Evil"
 "ac": !!int "14"
+"ac_class": "natural armor"
 "hp": !!int "49"
 "hit_dice": "14d8 - 14"
 "stats":
@@ -59,12 +60,12 @@ The knowledge that berbalangs accumulate makes them great sources of information
 "actions":
 - "desc": "The berbalang makes one Bite attack and one\n\nClaw attack."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d10 + 3|avg (1d10 + 3) piercing damage plus dice: 1d8|avg\
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d10 + 3|text(8) (1d10 + 3) piercing damage plus dice:1d8|text(4)\
     \ (1d8) psychic damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4 + 3|avg (2d4 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d4 + 3|text(8) (2d4 + 3) slashing damage."
   "name": "Claw"
 "bonus_actions":
 - "desc": "The berbalang creates one spectral duplicate of itself in an unoccupied\

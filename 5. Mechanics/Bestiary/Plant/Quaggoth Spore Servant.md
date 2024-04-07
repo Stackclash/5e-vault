@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Quaggoth Spore Servant
 ---
-# [[5. Mechanics\Bestiary\Plant\Quaggoth Spore Servant.md|Quaggoth Spore Servant]]
+# [[5. Mechanics/Bestiary/Plant/Quaggoth Spore Servant.md|Quaggoth Spore Servant]]
 *Source: Monster Manual p. 230*
 
 A spore servant is any Large or smaller creature brought back to life by the animating spores of a myconid sovereign. A creature that was never flesh and blood to begin with (such as a construct, elemental, ooze, plant, or undead) can't be turned into a spore servant.
@@ -54,7 +54,7 @@ The servant loses all known languages, but it responds to orders given to it by 
 
 ## Attacks
 
-If the servant has no other means of dealing damage, it can use its fists or limbs to make unarmed strikes. On a hit, an unarmed strike deals bludgeoning damage equal to `dice: 1d4|avg` (`1d4`) + the servant's Strength modifier, or, if the servant is Large, `dice: 2d4|avg` (`2d4`) + its Strength modifier.
+If the servant has no other means of dealing damage, it can use its fists or limbs to make unarmed strikes. On a hit, an unarmed strike deals bludgeoning damage equal to `dice: 1d4|avg|noform` (`1d4`) + the servant's Strength modifier, or, if the servant is Large, `dice: 2d4|avg|noform` (`2d4`) + its Strength modifier.
 
 ```statblock
 "name": "Quaggoth Spore Servant"
@@ -62,6 +62,7 @@ If the servant has no other means of dealing damage, it can use its fists or lim
 "type": "plant"
 "alignment": "Unaligned"
 "ac": !!int "13"
+"ac_class": "natural armor"
 "hp": !!int "45"
 "hit_dice": "6d8 + 18"
 "stats":
@@ -82,8 +83,8 @@ If the servant has no other means of dealing damage, it can use its fists or lim
 "actions":
 - "desc": "The spore servant makes two claw attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 3|text(6) (1d6 + 3) slashing damage."
   "name": "Claw"
 "source":
 - "MM"

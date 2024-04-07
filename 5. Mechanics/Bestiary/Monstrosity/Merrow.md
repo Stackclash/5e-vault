@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Merrow
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Merrow.md|Merrow]]
+# [[5. Mechanics/Bestiary/Monstrosity/Merrow.md|Merrow]]
 *Source: Monster Manual p. 219. Available in the SRD.*
 
 Merrow haunt coastal waters, preying on fisherfolk, merfolk, and any other edible creature that crosses their path. These savage monsters snatch and devour unwary prey, hauling drowned corpses back to their underwater grottoes to feed.
@@ -35,6 +35,7 @@ Merrow dwell in undersea caves filled with treasures and trophies, taken from th
 "type": "monstrosity"
 "alignment": "Chaotic Evil"
 "ac": !!int "13"
+"ac_class": "natural armor"
 "hp": !!int "45"
 "hit_dice": "6d10 + 12"
 "stats":
@@ -55,14 +56,14 @@ Merrow dwell in undersea caves filled with treasures and trophies, taken from th
 - "desc": "The merrow makes two attacks: one with its bite and one with its claws\
     \ or harpoon."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 4|text(8) (1d8 + 4) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4 + 4|avg (2d4 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d4 + 4|text(9) (2d4 + 4) slashing damage."
   "name": "Claws"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 2d6 + 4|avg (2d6 + 4) piercing\
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: dice:2d6 + 4|text(11) (2d6 + 4) piercing\
     \ damage. If the target is a Huge or smaller creature, it must succeed on a Strength\
     \ contest against the merrow or be pulled up to 20 feet toward the merrow."
   "name": "Harpoon"

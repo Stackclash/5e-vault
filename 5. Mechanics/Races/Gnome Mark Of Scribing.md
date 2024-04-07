@@ -39,7 +39,7 @@ You can speak, read, and write Common and Gnomish. The Gnomish language, which u
 
 ### Gifted Scribe
 
-When you make an Intelligence ([[/5. Mechanics/Rules/Skills.md#History\|History]]) check or an ability check using [[5. Mechanics/Items/Calligraphers Supplies.md\|calligrapher's supplies]], you can roll a `dice: d4|avg` (`d4`) and add the number rolled to the ability check.
+When you make an Intelligence ([[/5. Mechanics/Rules/Skills.md#History\|History]]) check or an ability check using [[5. Mechanics/Items/Calligraphers Supplies.md\|calligrapher's supplies]], you can roll a `dice: d4|avg|noform` (`d4`) and add the number rolled to the ability check.
 
 ### Scribe's Insight
 

@@ -17,7 +17,7 @@ statblock: inline
 aliases:
   - Half-Ogre (Ogrillon)
 ---
-# [[5. Mechanics\Bestiary\Giant\Half Ogre Ogrillon.md|Half-Ogre (Ogrillon)]]
+# [[5. Mechanics/Bestiary/Giant/Half Ogre Ogrillon.md|Half-Ogre (Ogrillon)]]
 *Source: Monster Manual p. 238, Eberron: Rising from the Last War*
 
 Ogres are as lazy of mind as they are strong of body. They live by raiding, scavenging, and killing for food and pleasure. The average adult specimen stands between 9 and 10 feet tall and weighs close to a thousand pounds.
@@ -66,6 +66,7 @@ The half-ogre offspring of an ogre and an orc is also called an ogrillon. An adu
 "type": "giant"
 "alignment": "Any Chaotic alignment"
 "ac": !!int "12"
+"ac_class": "[[5. Mechanics/Items/Hide Armor.md|hide armor]]"
 "hp": !!int "30"
 "hit_dice": "4d10 + 8"
 "stats":
@@ -80,13 +81,13 @@ The half-ogre offspring of an ogre and an orc is also called an ogrillon. An adu
 "languages": "Common, Giant"
 "cr": "1"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 3|avg (2d8 + 3) slashing damage, or dice: 2d10 + 3|avg\
-    \ (2d10 + 3) slashing damage if used with two hands."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d8 + 3|text(12) (2d8 + 3) slashing damage, or dice:2d10 +\
+    \ 3|text(14) (2d10 + 3) slashing damage if used with two hands."
   "name": "Battleaxe"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft.\
-    \ or range 30/120 ft., one target. Hit: dice: 2d6 + 3|avg (2d6 + 3) piercing\
-    \ damage."
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft.\
+    \ or range 30/120 ft., one target. Hit: dice:2d6 + 3|text(10) (2d6 + 3)\
+    \ piercing damage."
   "name": "Javelin"
 "source":
 - "MM"

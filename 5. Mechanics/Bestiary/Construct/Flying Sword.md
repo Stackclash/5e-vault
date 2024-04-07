@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Flying Sword
 ---
-# [[5. Mechanics\Bestiary\Construct\Flying Sword.md|Flying Sword]]
+# [[5. Mechanics/Bestiary/Construct/Flying Sword.md|Flying Sword]]
 *Source: Monster Manual p. 20, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*
 
 A flying sword dances through the air, fighting with the confidence of a warrior that can't be injured. Swords are the most common weapons animated with magic. Axes, clubs, daggers, maces, spears, and even self-loading crossbows are also known to exist in animated object form.
@@ -33,6 +33,7 @@ An animated object doesn't require air, food, drink, or sleep. The magic that an
 "type": "construct"
 "alignment": "Unaligned"
 "ac": !!int "17"
+"ac_class": "natural armor"
 "hp": !!int "17"
 "hit_dice": "5d6"
 "stats":
@@ -65,8 +66,8 @@ An animated object doesn't require air, food, drink, or sleep. The magic that an
     \ from a normal sword."
   "name": "False Appearance"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 1|avg (1d8 + 1) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 1|text(5) (1d8 + 1) slashing damage."
   "name": "Longsword"
 "source":
 - "MM"

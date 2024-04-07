@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Death Tyrant
 ---
-# [[5. Mechanics\Bestiary\Undead\Death Tyrant.md|Death Tyrant]]
+# [[5. Mechanics/Bestiary/Undead/Death Tyrant.md|Death Tyrant]]
 *Source: Monster Manual p. 29*
 
 On rare occasions, a beholder's sleeping mind drifts to places beyond its normal madness, imagining a reality in which it exists beyond death. When such dreams take hold, a beholder can transform, its flesh sloughing away to leave a death tyrant behind. This monster possesses the cunning and much of the magic it had in life, but it is fueled by the power of undeath. A death tyrant appears as a massive, naked skull, with a pinpoint of red light gleaming in its hollow eye socket. With its eyestalks rotted away, ten spectral eyes hover above the creature and glare in all directions.
@@ -48,6 +48,7 @@ The death tyrant can't repeat an effect until all three have been used, and it c
 "type": "undead"
 "alignment": "Lawful Evil"
 "ac": !!int "19"
+"ac_class": "natural armor"
 "hp": !!int "187"
 "hit_dice": "25d10 + 50"
 "stats":
@@ -84,8 +85,8 @@ The death tyrant can't repeat an effect until all three have been used, and it c
     \ destroyed."
   "name": "Negative Energy Cone"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 4d6|avg (4d6) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:4d6|text(14) (4d6) piercing damage."
   "name": "Bite"
 - "desc": "The death tyrant shoots three of the following magical eye rays at random\
     \ (reroll duplicates), choosing one to three targets it can see within 120 feet\
@@ -104,11 +105,11 @@ The death tyrant can't repeat an effect until all three have been used, and it c
     \ take reactions, and it can take either an action or a bonus action on its turn,\
     \ not both. The creature can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success.  \n- 5. Enervation Ray.\
-    \ The targeted creature must make a DC 17 Constitution saving throw, taking dice:\
-    \ 8d8|avg (8d8) necrotic damage on a failed save, or half as much damage on\
-    \ a successful one.  \n- 6. Telekinetic Ray. If the target is a creature,\
-    \ it must succeed on a DC 17 Strength saving throw or the death tyrant moves it\
-    \ up to 30 feet in any direction. It is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
+    \ The targeted creature must make a DC 17 Constitution saving throw, taking dice:8d8|text(36)\
+    \ (8d8) necrotic damage on a failed save, or half as much damage on a successful\
+    \ one.  \n- 6. Telekinetic Ray. If the target is a creature, it must succeed\
+    \ on a DC 17 Strength saving throw or the death tyrant moves it up to 30 feet\
+    \ in any direction. It is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
     \ by the ray's telekinetic grip until the start of the death tyrant's next turn\
     \ or until the death tyrant is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]].\
     \  \n\n    If the target is an object weighing 300 pounds or less that isn't being\
@@ -125,15 +126,15 @@ The death tyrant can't repeat an effect until all three have been used, and it c
     \ effect ends. On a failure, the creature is [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]]\
     \ until freed by the  [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
     \ spell or other magic.  \n- 9. Disintegration Ray. If the target is a creature,\
-    \ it must succeed on a DC 17 Dexterity saving throw or take dice: 10d8|avg (10d8)\
-    \ force damage. If this damage reduces the creature to 0 hit points, its body\
-    \ becomes a pile of fine gray dust.  \n\n    If the target is a Large or smaller\
-    \ nonmagical object or creation of magical force, it is disintegrated without\
-    \ a saving throw. If the target is a Huge or larger object or creation of magical\
-    \ force, this ray disintegrates a 10-foot cube of it.  \n- 10. Death Ray.\
-    \ The targeted creature must succeed on a DC 17 Dexterity saving throw or take\
-    \ dice: 10d10|avg (10d10) necrotic damage. The target dies if the ray reduces\
-    \ it to 0 hit points.  "
+    \ it must succeed on a DC 17 Dexterity saving throw or take dice:10d8|text(45)\
+    \ (10d8) force damage. If this damage reduces the creature to 0 hit points,\
+    \ its body becomes a pile of fine gray dust.  \n\n    If the target is a Large\
+    \ or smaller nonmagical object or creation of magical force, it is disintegrated\
+    \ without a saving throw. If the target is a Huge or larger object or creation\
+    \ of magical force, this ray disintegrates a 10-foot cube of it.  \n- 10. Death\
+    \ Ray. The targeted creature must succeed on a DC 17 Dexterity saving throw\
+    \ or take dice:10d10|text(55) (10d10) necrotic damage. The target dies if\
+    \ the ray reduces it to 0 hit points.  "
   "name": "Eye Rays"
 "legendary_actions":
 - "desc": "The death tyrant uses one random eye ray."
@@ -167,11 +168,12 @@ The death tyrant can't repeat an effect until all three have been used, and it c
 - "desc": "- Creatures within 1 mile of the tyrant's lair sometimes feel as if they're\
     \ being watched even when they aren't.  \n- When a creature hostile to the tyrant\
     \ and aware of its existence finishes a long rest within 1 mile of the tyrant's\
-    \ lair, roll a dice: d20|avg (d20) for that creature. On a roll of 10 or lower,\
-    \ the creature is subjected to one random eye ray of the tyrant.  "
+    \ lair, roll a dice: d20|avg|noform (d20) for that creature. On a roll of\
+    \ 10 or lower, the creature is subjected to one random eye ray of the tyrant.\
+    \  "
   "name": ""
 - "desc": "If the death tyrant dies, these effects fade over the course of dice:\
-    \ 1d10|avg (1d10) days."
+    \ 1d10|avg|noform (1d10) days."
   "name": ""
 "source":
 - "MM"

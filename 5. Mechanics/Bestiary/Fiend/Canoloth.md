@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Canoloth
 ---
-# [[5. Mechanics\Bestiary\Fiend\Canoloth.md|Canoloth]]
+# [[5. Mechanics/Bestiary/Fiend/Canoloth.md|Canoloth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 69, Mordenkainen's Tome of Foes p. 247*
 
 > [!quote]- A quote from Mordenkainen  
@@ -31,6 +31,7 @@ With senses sharp enough to pinpoint the locations of nearby [[/5. Mechanics/Rul
 "subtype": "yugoloth"
 "alignment": "Typically  Neutral Evil"
 "ac": !!int "16"
+"ac_class": "natural armor"
 "hp": !!int "120"
 "hit_dice": "16d8 + 48"
 "stats":
@@ -63,16 +64,16 @@ With senses sharp enough to pinpoint the locations of nearby [[/5. Mechanics/Rul
 "actions":
 - "desc": "The canoloth makes one Bite or Tongue attack and one Claw attack."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing damage plus dice: 4d8|avg\
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 4|text(7) (1d6 + 4) piercing damage plus dice:4d8|text(18)\
     \ (4d8) force damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 4|avg (1d6 + 4) slashing damage plus dice: 2d8|avg\
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 4|text(7) (1d6 + 4) slashing damage plus dice:2d8|text(9)\
     \ (2d8) force damage."
   "name": "Claw"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 30 ft., one target.\
-    \ Hit: dice: 1d12 + 4|avg (1d12 + 4) piercing damage plus dice: 2d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 30 ft., one target.\
+    \ Hit: dice:1d12 + 4|text(10) (1d12 + 4) piercing damage plus dice:2d6|text(7)\
     \ (2d6) acid damage. If the target is Medium or smaller, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ (escape DC 15), pulled up to 30 feet toward the canoloth, and [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
     \ until the grapple ends. The canoloth can grapple one target at a time with its\

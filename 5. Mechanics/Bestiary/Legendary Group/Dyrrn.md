@@ -16,7 +16,7 @@ While within the Palace of Sinew, Dyrrn can invoke the ambient magic to take lai
 
 - Dyrrn uses its Corruption action.  
 - A 30-foot-square area of ground within 120 feet of Dyrrn sprouts tentacles until initiative count 20 on the next round. Any creature that starts or ends its turn in the area must succeed on a DC 23 Strength saving throw or be [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]. A creature can escape the tentacles with a successful DC 23 Strength ([[/5. Mechanics/Rules/Skills.md#Athletics|Athletics]]) or Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics|Acrobatics]]) check as an action.  
-- Each creature of Dyrrn's choice that it can see within 120 feet of it must succeed on a DC 23 Wisdom saving throw or take `dice: 4d12|avg` (`4d12`) psychic damage. Unless the target has immunity to psychic damage, its Intelligence score is reduced by `dice: 1d4|avg` (`1d4`) each time it fails the saving throw for this lair action. The target dies if its Intelligence score is reduced to 0. The reduction lasts until the target finishes a short or long rest.  
+- Each creature of Dyrrn's choice that it can see within 120 feet of it must succeed on a DC 23 Wisdom saving throw or take `dice:4d12|text(26)` (`4d12`) psychic damage. Unless the target has immunity to psychic damage, its Intelligence score is reduced by `dice: 1d4|avg|noform` (`1d4`) each time it fails the saving throw for this lair action. The target dies if its Intelligence score is reduced to 0. The reduction lasts until the target finishes a short or long rest.  
 
 ## Regional effects
 _Source: Eberron: Rising from the Last War_
@@ -27,7 +27,7 @@ A region containing a passage to Dyrrn's lair is warped in one or more of these 
 - Creatures within 1 mile of the passage frequently feel as if something is crawling under their skin.  
 - If a humanoid spends at least 1 hour within 1 mile of the passage, that creature must succeed on a DC 22 Wisdom saving throw or descend into a type of madness (see "Madness of Dyrrn" below). A creature that succeeds on this saving throw can't be affected by this regional effect again for 24 hours.  
 
-If Dyrrn dies, these effects fade away after `dice: 1d10|avg` (`1d10`) days.
+If Dyrrn dies, these effects fade away after `dice: 1d10|avg|noform` (`1d10`) days.
 
 ### Madness of Dyrrn
 

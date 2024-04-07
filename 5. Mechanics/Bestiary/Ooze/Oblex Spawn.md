@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Oblex Spawn
 ---
-# [[5. Mechanics\Bestiary\Ooze\Oblex Spawn.md|Oblex Spawn]]
+# [[5. Mechanics/Bestiary/Ooze/Oblex Spawn.md|Oblex Spawn]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 197, Mordenkainen's Tome of Foes p. 217*
 
 An oblex devours memories not only to sustain its existence, but also to spawn new oblexes. Each time it fully drains the memories of a victim, it gains the creature's personality—now twisted by the oblex's foul nature. The more memories an oblex steals, the larger it becomes, until it must shed a personality it has absorbed or else go uncontrolled and erratic. This act spawns a new oblex.
@@ -68,8 +68,8 @@ When oblexes feed on thoughts, they can form weird copies of their prey to use a
 - "desc": "The oblex doesn't require sleep."
   "name": "Unusual Nature"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) bludgeoning damage plus dice: 1d4|avg\
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d4 + 3|text(5) (1d4 + 3) bludgeoning damage plus dice:1d4|text(2)\
     \ (1d4) psychic damage."
   "name": "Pseudopod"
 "source":

@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Flail Snail
 ---
-# [[5. Mechanics\Bestiary\Elemental\Flail Snail.md|Flail Snail]]
+# [[5. Mechanics/Bestiary/Elemental/Flail Snail.md|Flail Snail]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 126, Volo's Guide to Monsters p. 144*
 
 A flail snail is a creature of elemental earth that is prized for its multihued shell. It may seem harmless, but if a creature big enough to be a threat approaches too close, the snail flashes a scintillating light and attacks with its mace-like tentacles.
@@ -34,6 +34,7 @@ A flail snail shell can also be used to make a [[5. Mechanics/Items/Robe Of Scin
 "type": "elemental"
 "alignment": "Unaligned"
 "ac": !!int "16"
+"ac_class": "natural armor"
 "hp": !!int "52"
 "hit_dice": "5d10 + 25"
 "stats":
@@ -56,14 +57,14 @@ A flail snail shell can also be used to make a [[5. Mechanics/Items/Robe Of Scin
     \ roll misses it, the snail's shell converts some of the spell's energy into a\
     \ burst of destructive force if the spell is of 1st level or higher; each creature\
     \ within 30 feet of the snail must make a DC 15 Constitution saving throw, taking\
-    \ dice: 1d6|avg (1d6) force damage per level of the spell on a failed save,\
+    \ dice:1d6|text(3) (1d6) force damage per level of the spell on a failed save,\
     \ or half as much damage on a successful one."
   "name": "Antimagic Shell"
 "actions":
 - "desc": "The snail makes five Flail Tentacle attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 10 ft., one target.\
+    \ Hit: dice:1d4 + 3|text(5) (1d4 + 3) bludgeoning damage."
   "name": "Flail Tentacle"
 - "desc": "The snail's shell emits dazzling, colored light until the end of the snail's\
     \ next turn. During this time, the shell sheds bright light in a 30-foot radius\

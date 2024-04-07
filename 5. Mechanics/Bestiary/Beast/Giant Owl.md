@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Giant Owl
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Owl.md|Giant Owl]]
+# [[5. Mechanics/Bestiary/Beast/Giant Owl.md|Giant Owl]]
 *Source: Monster Manual p. 327, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*
 
 Giant owls often befriend fey and other sylvan creatures and are guardians of their woodland realms.
@@ -48,8 +48,8 @@ Giant owls often befriend fey and other sylvan creatures and are guardians of th
     \ checks that rely on hearing or sight."
   "name": "Keen Hearing and Sight"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 1|avg (2d6 + 1) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 1|text(8) (2d6 + 1) slashing damage."
   "name": "Talons"
 "source":
 - "MM"

@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Drow Elite Warrior
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Drow Elite Warrior.md|Drow Elite Warrior]]
+# [[5. Mechanics/Bestiary/Humanoid/Drow Elite Warrior.md|Drow Elite Warrior]]
 *Source: Monster Manual p. 128*
 
 ## Drow
@@ -75,6 +75,7 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
 "subtype": "elf"
 "alignment": "Neutral Evil"
 "ac": !!int "18"
+"ac_class": "[[5. Mechanics/Items/Studded Leather Armor.md|studded leather]], [[5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "71"
 "hit_dice": "11d8 + 22"
 "stats":
@@ -112,13 +113,13 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
 "actions":
 - "desc": "The drow makes two shortsword attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing damage plus dice: 3d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 4|text(7) (1d6 + 4) piercing damage plus dice:3d6|text(10)\
     \ (3d6) poison damage."
   "name": "Shortsword"
-- "desc": "Ranged Weapon Attack: dice: d20+7 (+7 to hit), range 30/120 ft., one\
-    \ target. Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing damage, and the target\
-    \ must succeed on a DC 13 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+- "desc": "Ranged Weapon Attack: dice: d20+7 (+7) to hit, range 30/120 ft.,\
+    \ one target. Hit: dice:1d6 + 4|text(7) (1d6 + 4) piercing damage, and the\
+    \ target must succeed on a DC 13 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
     \ for 1 hour. If the saving throw fails by 5 or more, the target is also [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]\
     \ while [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in this way. The\
     \ target wakes up if it takes damage or if another creature takes an action to\

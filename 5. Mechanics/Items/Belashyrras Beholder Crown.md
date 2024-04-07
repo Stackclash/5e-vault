@@ -21,7 +21,7 @@ While wearing the crown, you can see normally in darkness, both magical and nonm
 
 The crown has 10 charges. While wearing it, you can use an action to expend some of its charges to cast one of the following spells from it (spell save DC 16): [[5. Mechanics/Spells/Charm Person.md\|charm person]] (1 charge), [[5. Mechanics/Spells/Disintegrate.md\|disintegrate]] (6 charges), [[5. Mechanics/Spells/Fear.md\|fear]] (3 charges), [[5. Mechanics/Spells/Finger Of Death.md\|finger of death]] (7 charges), [[5. Mechanics/Spells/Flesh To Stone.md\|flesh to stone]] (6 charges), [[5. Mechanics/Spells/Hold Person.md\|hold person]] (2 charges), [[5. Mechanics/Spells/Ray Of Enfeeblement.md\|ray of enfeeblement]] (2 charges), [[5. Mechanics/Spells/Sleep.md\|sleep]] (1 charge), [[5. Mechanics/Spells/Slow.md\|slow]] (3 charges), [[5. Mechanics/Spells/Telekinesis.md\|telekinesis]] (5 charges).
 
-The crown regains `dice: 1d6 + 3|avg` (`1d6 + 3`) expended charges daily at dawn.
+The crown regains `dice: 1d6 + 3|avg|noform` (`1d6 + 3`) expended charges daily at dawn.
 
 ## Symbiotic Nature
 

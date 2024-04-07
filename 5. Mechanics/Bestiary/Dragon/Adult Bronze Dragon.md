@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Adult Bronze Dragon
 ---
-# [[5. Mechanics\Bestiary\Dragon\Adult Bronze Dragon.md|Adult Bronze Dragon]]
+# [[5. Mechanics/Bestiary/Dragon/Adult Bronze Dragon.md|Adult Bronze Dragon]]
 *Source: Monster Manual p. 108. Available in the SRD.*
 
 Bronze dragons are coastal dwellers that feed primarily on aquatic plants and fish. They take the forms of friendly animals to observe other creatures of interest. They are also fascinated by warfare and eagerly join armies fighting for a just cause.
@@ -86,6 +86,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 "type": "dragon"
 "alignment": "Lawful Good"
 "ac": !!int "19"
+"ac_class": "natural armor"
 "hp": !!int "212"
 "hit_dice": "17d12 + 102"
 "stats":
@@ -118,14 +119,14 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "desc": "The dragon can use its Frightful Presence. It then makes three attacks:\
     \ one with its bite and two with its claws."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+12 (+12 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d10 + 7|avg (2d10 + 7) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+12 (+12) to hit, reach 10 ft., one\
+    \ target. Hit: dice:2d10 + 7|text(18) (2d10 + 7) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+12 (+12 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 7|avg (2d6 + 7) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+12 (+12) to hit, reach 5 ft., one\
+    \ target. Hit: dice:2d6 + 7|text(14) (2d6 + 7) slashing damage."
   "name": "Claw"
-- "desc": "Melee Weapon Attack: dice: d20+12 (+12 to hit), reach 15 ft., one target.\
-    \ Hit: dice: 2d8 + 7|avg (2d8 + 7) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+12 (+12) to hit, reach 15 ft., one\
+    \ target. Hit: dice:2d8 + 7|text(16) (2d8 + 7) bludgeoning damage."
   "name": "Tail"
 - "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
     \ and aware of it must succeed on a DC 17 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
@@ -136,7 +137,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   "name": "Frightful Presence"
 - "desc": "The dragon uses one of the following breath weapons.\n\n- Lightning Breath.\
     \ The dragon exhales lightning in a 90-foot line that is 5 feet wide. Each creature\
-    \ in that line must make a DC 19 Dexterity saving throw, taking dice: 12d10|avg\
+    \ in that line must make a DC 19 Dexterity saving throw, taking dice:12d10|text(66)\
     \ (12d10) lightning damage on a failed save, or half as much damage on a successful\
     \ one.  \n- Repulsion Breath. The dragon exhales repulsion energy in a 30-foot\
     \ cone. Each creature in that area must succeed on a DC 19 Strength saving throw.\
@@ -159,8 +160,8 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "desc": "The dragon makes a tail attack."
   "name": "Tail Attack"
 - "desc": "The dragon beats its wings. Each creature within 10 feet of the dragon\
-    \ must succeed on a DC 20 Dexterity saving throw or take dice: 2d6 + 7|avg (2d6\
-    \ + 7) bludgeoning damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
+    \ must succeed on a DC 20 Dexterity saving throw or take dice:2d6 + 7|text(14)\
+    \ (2d6 + 7) bludgeoning damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
     \ The dragon can then fly up to half its flying speed."
   "name": "Wing Attack (Costs 2 Actions)"
 "lair_actions":
@@ -171,7 +172,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ spell. The fog lasts until initiative count 20 on the next round.  \n- A thunderclap\
     \ originates at a point the dragon can see within 120 feet of it. Each creature\
     \ within a 20-foot radius centered on that point must make a DC 15 Constitution\
-    \ saving throw or take dice: 1d10|avg (1d10) thunder damage and be [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]]\
+    \ saving throw or take dice:1d10|text(5) (1d10) thunder damage and be [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]]\
     \ until the end of its next turn.  "
   "name": ""
 - "desc": "At your discretion, a legendary ([[5. Mechanics/Bestiary/Dragon/Adult Bronze Dragon.md|adult]]\
@@ -179,11 +180,11 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ can use one or more of the following additional lair actions while in its lair:\n\
     \n- Ocean's Call. The dragon conjures a swarm of spectral dolphins. Each creature\
     \ in the water within 120 feet of the dragon must succeed on a DC 15 Dexterity\
-    \ saving throw or take dice: 1d10|avg (1d10) slashing damage; then the swarm\
-    \ vanishes.  \n- Salt Burst. The dragon chooses a point it can see in the\
-    \ lair. The air in a 20-foot-radius sphere centered on that point bursts with\
+    \ saving throw or take dice:1d10|text(5) (1d10) slashing damage; then the\
+    \ swarm vanishes.  \n- Salt Burst. The dragon chooses a point it can see in\
+    \ the lair. The air in a 20-foot-radius sphere centered on that point bursts with\
     \ abrasive salt crystals. Each creature in that area must succeed on a DC 15 Dexterity\
-    \ saving throw or take dice: 3d6|avg (3d6) slashing damage.  \n- Whelming\
+    \ saving throw or take dice:3d6|text(10) (3d6) slashing damage.  \n- Whelming\
     \ Water. The dragon causes a strong current to course through the water in its\
     \ lair. The dragon chooses any number of creatures it can see that are standing\
     \ or swimming in water within 120 feet of it. Each chosen creature must succeed\
@@ -203,7 +204,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ of the lair.  "
   "name": ""
 - "desc": "If the dragon dies, changed weather reverts to normal, as described in\
-    \ the spell, and the other effects fade in dice: 1d10|avg (1d10) days."
+    \ the spell, and the other effects fade in dice: 1d10|avg|noform (1d10) days."
   "name": ""
 - "desc": "Any of these effects might appear in the area around a bronze dragon's\
     \ lair, in addition to or instead of the effects described in the Monster Manual:\n\

@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Rust Monster
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Rust Monster.md|Rust Monster]]
+# [[5. Mechanics/Bestiary/Monstrosity/Rust Monster.md|Rust Monster]]
 *Source: Monster Manual p. 262. Available in the SRD.*
 
 Most dwarves would rather face a squad of orcs than confront a single rust monster. These strange, normally docile creatures corrode ferrous metals, then gobble up the rust they create. In doing so, they have ruined the armor, shields, and weapons of countless adventurers.
@@ -41,6 +41,7 @@ Rust monsters are rarely found in large numbers, preferring to hunt alone or in 
 "type": "monstrosity"
 "alignment": "Unaligned"
 "ac": !!int "14"
+"ac_class": "natural armor"
 "hp": !!int "27"
 "hit_dice": "5d8 + 5"
 "stats":
@@ -65,8 +66,8 @@ Rust monsters are rarely found in large numbers, preferring to hunt alone or in 
     \ damage."
   "name": "Rust Metal"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 1|avg (1d8 + 1) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 1|text(5) (1d8 + 1) piercing damage."
   "name": "Bite"
 - "desc": "The rust monster corrodes a nonmagical ferrous metal object it can see\
     \ within 5 feet of it. If the object isn't being worn or carried, the touch destroys\

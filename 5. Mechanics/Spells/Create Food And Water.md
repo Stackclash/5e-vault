@@ -15,7 +15,6 @@ aliases:
   - Create Food and Water
 ---
 # Create Food and Water
-%%-- Embedded content starts on the next line. --%%
 *3rd-level, Conjuration*  
 
 - **Casting time:** 1 action

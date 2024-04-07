@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Creating Adventures"]
+  - compendium/src/5e/dmg
+aliases:
+  - Creating Adventures
 ---
 # Creating Adventures
 *Source: Dungeon Master's Guide, p. 71* 
@@ -110,21 +111,21 @@ Creating a location-based adventure can be broken down into a number of steps. E
 
 The Dungeon Goals table provides common goals that drive or lure adventurers into dungeons. The Wilderness Goals table provides similar inspiration for an adventure focused on outdoor exploration. The Other Goals table suggests location-based adventures that don't fit neatly into the first two categories.
 
-![Identify the Party's Goals; Dungeon Goals](compendium/tables/identify-the-partys-goals-dungeon-goals.md)
+![[5. Mechanics/Tables/Identify The Partys Goals Dungeon Goals.md\|Identify the Party's Goals; Dungeon Goals]]
 
-![Identify the Party's Goals; Wilderness Goals](compendium/tables/identify-the-partys-goals-wilderness-goals.md)
+![[5. Mechanics/Tables/Identify The Partys Goals Wilderness Goals.md\|Identify the Party's Goals; Wilderness Goals]]
 
-![Identify the Party's Goals; Other Goals](compendium/tables/identify-the-partys-goals-other-goals.md)
+![[5. Mechanics/Tables/Identify The Partys Goals Other Goals.md\|Identify the Party's Goals; Other Goals]]
 
 #### 2. Identify Important NPCs
 
 Use the Adventure Villains, Adventure Allies, and Adventure Patrons tables to help you identify these NPCs. Chapter 4 can help you bring these NPCs to life.
 
-![Identify Important NPCs; Adventure Villains](compendium/tables/identify-important-npcs-adventure-villains.md)
+![[5. Mechanics/Tables/Identify Important Npcs Adventure Villains.md\|Identify Important NPCs; Adventure Villains]]
 
-![Identify Important NPCs; Adventure Allies](compendium/tables/identify-important-npcs-adventure-allies.md)
+![[5. Mechanics/Tables/Identify Important Npcs Adventure Allies.md\|Identify Important NPCs; Adventure Allies]]
 
-![Identify Important NPCs; Adventure Patrons](compendium/tables/identify-important-npcs-adventure-patrons.md)
+![[5. Mechanics/Tables/Identify Important Npcs Adventure Patrons.md\|Identify Important NPCs; Adventure Patrons]]
 
 #### 3. Flesh Out the Location Details
 
@@ -134,13 +135,13 @@ Chapter 5 offers suggestions for creating and fleshing out an adventure location
 
 An adventure can begin with a social interaction encounter in which the adventurers find out what they must do and why. It can start with a surprise attack, or with the adventurers coming across information by accident. The best introductions arise naturally from the goals and setting of the adventure. Let the entries in the Adventure Introduction table inspire you.
 
-![Find the Ideal Introduction; Adventure Introduction](compendium/tables/find-the-ideal-introduction-adventure-introduction.md)
+![[5. Mechanics/Tables/Find The Ideal Introduction Adventure Introduction.md\|Find the Ideal Introduction; Adventure Introduction]]
 
 #### 5. Consider the Ideal Climax
 
 The climactic ending of an adventure fulfills the promise of all that came before. Although the climax must hinge on the successes and failures of the characters up to that moment, the Adventure Climax table can provide suggestions to help you shape the end of your adventure.
 
-![Consider the Ideal Climax; Adventure Climax](compendium/tables/consider-the-ideal-climax-adventure-climax.md)
+![[5. Mechanics/Tables/Consider The Ideal Climax Adventure Climax.md\|Consider the Ideal Climax; Adventure Climax]]
 
 #### 6. Plan Encounters
 
@@ -168,7 +169,7 @@ Building on the previous example, you might decide that your vampire villain mur
 
 If you need additional inspiration, consider a few different options for how the villain's actions unfold over the course of the adventure.
 
-![Determine the Villain's Actions; Event-Based Villain Actions](compendium/tables/determine-the-villains-actions-event-based-villain-actions.md)
+![[5. Mechanics/Tables/Determine The Villains Actions Event Based Villain Actions.md\|Determine the Villain's Actions; Event-Based Villain Actions]]
 
 ##### Big Event
 
@@ -198,7 +199,7 @@ In pursuit of its goal, the villain carries out a specific set of actions in a p
 
 You can use the Event-Based Goals table to set the party's goal. A goal can also suggest ways in which the adventurers become caught up in the villain's plans, and what exactly they must do to foil those plans.
 
-![Determine the Party's Goals; Event-Based Goals](compendium/tables/determine-the-partys-goals-event-based-goals.md)
+![[5. Mechanics/Tables/Determine The Partys Goals Event Based Goals.md\|Determine the Party's Goals; Event-Based Goals]]
 
 For example, you roll a 10 on the table, indicating that the party's goal is to secure aid from a ruler or council. You decide to connect that to the leadership of the order targeted by your vampire villain. Maybe the order's leaders have a chest of jewels stolen from the vampire centuries ago, and the characters can use the chest as bait to trap the villain.
 
@@ -418,7 +419,7 @@ A hard encounter could go badly for the adventurers. Weaker characters might get
 
 A deadly encounter could be lethal for one or more player characters. Survival often requires good tactics and quick thinking, and the party risks defeat.
 
-![Combat Encounter Difficulty; XP Thresholds by Character Level](compendium/tables/combat-encounter-difficulty-xp-thresholds-by-character-level.md)
+![[5. Mechanics/Tables/Combat Encounter Difficulty Xp Thresholds By Character Level.md\|Combat Encounter Difficulty; XP Thresholds by Character Level]]
 
 > [!note] Challenge Rating
 > 
@@ -464,7 +465,7 @@ This adjusted value is not what the monsters are worth in terms of XP; the adjus
 
 When making this calculation, don't count any monsters whose challenge rating is significantly below the average challenge rating of the other monsters in the group unless you think the weak monsters significantly contribute to the difficulty of the encounter.
 
-![Modify Total XP for Multiple Monsters; Encounter Multipliers](compendium/tables/modify-total-xp-for-multiple-monsters-encounter-multipliers.md)
+![[5. Mechanics/Tables/Modify Total Xp For Multiple Monsters Encounter Multipliers.md\|Modify Total XP for Multiple Monsters; Encounter Multipliers]]
 
 ##### 5 Compare XP
 
@@ -504,7 +505,7 @@ In the same way you figure out the difficulty of an encounter, you can use the X
 
 For each character in the party, use the Adventuring Day XP table to estimate how much XP that character is expected to earn in a day. Add together the values of all party members to get a total for the party's adventuring day. This provides a rough estimate of the adjusted XP value for encounters the party can handle before the characters will need to take a long rest.
 
-![The Adventuring Day; Adventuring Day XP](compendium/tables/the-adventuring-day-adventuring-day-xp.md)
+![[5. Mechanics/Tables/The Adventuring Day Adventuring Day Xp.md\|The Adventuring Day; Adventuring Day XP]]
 
 #### Short Rests
 
@@ -562,7 +563,7 @@ Because you want random encounters to build on the intended narrative of a game 
 
 You decide when a random encounter happens, or you roll. Consider checking for a random encounter once every hour, once every 4 to 8 hours, or once during the day and once during a long rest-whatever makes the most sense based on how active the area is.
 
-If you roll, do so with a `dice: d20|avg` (`d20`). If the result is 18 or higher, a random encounter occurs. You then roll on an appropriate random encounter table to determine what the adventurers meet, re-rolling if the die result doesn't make sense given the circumstances.
+If you roll, do so with a `dice: d20|avg|noform` (`d20`). If the result is 18 or higher, a random encounter occurs. You then roll on an appropriate random encounter table to determine what the adventurers meet, re-rolling if the die result doesn't make sense given the circumstances.
 
 Random encounter tables might be provided as part of the adventure you're running, or you can use the information in this chapter to build your own. Creating your own tables is the best way to reinforce the themes and flavor of your home campaign.
 
@@ -586,7 +587,7 @@ As with planned encounters, random encounters are more interesting when they hap
 
 #### Probabilities
 
-A random encounter table can be created in a number of ways, ranging from simple (roll `dice: 1d6|avg` (`1d6`) for one of six possible encounters) to complicated (roll percentile dice, modify for time of day, and cross-index the modified number with the dungeon level). The sample encounter table presented here uses a range of 2 to 20 (nineteen entries total), generated using `dice: 1d12 + 1d8|avg` (`1d12 + 1d8`). The probability curve ensures that encounters appearing in the middle of the table are more likely to occur than encounters placed at the beginning or end of the table. A roll of 2 or 20 is rare (about a 1% chance chance of either), while each of the rolls from 9 to 13 occurs a little over 8 percent of the time.
+A random encounter table can be created in a number of ways, ranging from simple (roll `dice: 1d6|avg|noform` (`1d6`) for one of six possible encounters) to complicated (roll percentile dice, modify for time of day, and cross-index the modified number with the dungeon level). The sample encounter table presented here uses a range of 2 to 20 (nineteen entries total), generated using `dice: 1d12 + 1d8|avg|noform` (`1d12 + 1d8`). The probability curve ensures that encounters appearing in the middle of the table are more likely to occur than encounters placed at the beginning or end of the table. A roll of 2 or 20 is rare (about a 1% chance chance of either), while each of the rolls from 9 to 13 occurs a little over 8 percent of the time.
 
 The Sylvan Forest Encounters table is an example of a random encounter table that implements the ideas mentioned above. Creature names in bold refer to stat blocks that appear in the *Monster Manual*.
 

@@ -14,6 +14,6 @@ aliases:
 
 - **Properties**: Crafted by
 
-When you drink this jelly-like potion, you recover `dice: 10d4 + 20|avg` (`10d4 + 20`) hit points and are cured of any disease.
+When you drink this jelly-like potion, you recover `dice: 10d4 + 20|avg|noform` (`10d4 + 20`) hit points and are cured of any disease.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 125*

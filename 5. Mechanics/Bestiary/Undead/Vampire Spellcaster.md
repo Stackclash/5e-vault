@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Vampire Spellcaster
 ---
-# [[5. Mechanics\Bestiary\Undead\Vampire Spellcaster.md|Vampire Spellcaster]]
+# [[5. Mechanics/Bestiary/Undead/Vampire Spellcaster.md|Vampire Spellcaster]]
 *Source: Monster Manual p. 298*
 
 Awakened to an endless night, vampires hunger for the life they have lost and sate that hunger by drinking the blood of the living. Vampires abhor sunlight, for its touch burns them. They never cast shadows or reflections, and any vampire wishing to move unnoticed among the living keeps to the darkness and far from reflective surfaces.
@@ -66,6 +66,7 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
 "subtype": "shapechanger"
 "alignment": "Lawful Evil"
 "ac": !!int "16"
+"ac_class": "natural armor"
 "hp": !!int "144"
 "hit_dice": "17d8 + 68"
 "stats":
@@ -89,7 +90,7 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
 "cr": "15"
 "traits":
 - "desc": "The vampire is a 9th-level spellcaster. Its spellcasting ability is Intelligence\
-    \ (spell save DC 16, dice: d20+8 (+8 to hit) with spell attacks). The vampire\
+    \ (spell save DC 16, dice: d20+8 (+8) to hit with spell attacks). The vampire\
     \ has the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
     \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]], [[5. Mechanics/Spells/Ray Of Frost.md|ray of frost]]\n\
     \n1st level (4 slots): [[5. Mechanics/Spells/Comprehend Languages.md|comprehend languages]],\
@@ -147,20 +148,20 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
 "actions":
 - "desc": "The vampire makes two attacks, only one of which can be a bite attack."
   "name": "Multiattack (Vampire Form Only)"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) bludgeoning damage. Instead of dealing\
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 5 ft., one creature.\
+    \ Hit: dice:1d8 + 4|text(8) (1d8 + 4) bludgeoning damage. Instead of dealing\
     \ damage, the vampire can grapple the target (escape DC 18)."
   "name": "Unarmed Strike (Vampire Form Only)"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one willing\
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 5 ft., one willing\
     \ creature, or a creature that is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ by the vampire, [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]],\
-    \ or [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]. Hit: dice: 1d6\
-    \ + 4|avg (1d6 + 4) piercing damage plus dice: 3d6|avg (3d6) necrotic damage.\
-    \ The target's hit point maximum is reduced by an amount equal to the necrotic\
-    \ damage taken, and the vampire regains hit points equal to that amount. The reduction\
-    \ lasts until the target finishes a long rest. The target dies if this effect\
-    \ reduces its hit point maximum to 0. A humanoid slain in this way and then buried\
-    \ in the ground rises the following night as a [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md|vampire spawn]]\
+    \ or [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]. Hit: dice:1d6\
+    \ + 4|text(7) (1d6 + 4) piercing damage plus dice:3d6|text(10) (3d6) necrotic\
+    \ damage. The target's hit point maximum is reduced by an amount equal to the\
+    \ necrotic damage taken, and the vampire regains hit points equal to that amount.\
+    \ The reduction lasts until the target finishes a long rest. The target dies if\
+    \ this effect reduces its hit point maximum to 0. A humanoid slain in this way\
+    \ and then buried in the ground rises the following night as a [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md|vampire spawn]]\
     \ under the vampire's control."
   "name": "Bite (Bat or Vampire Form Only)"
 - "desc": "The vampire targets one humanoid it can see within 30 feet of it. If the\
@@ -176,13 +177,13 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
     \ the vampire is destroyed, is on a different plane of existence than the target,\
     \ or takes a bonus action to end the effect."
   "name": "Charm"
-- "desc": "The vampire magically calls dice: 2d4|avg (2d4) swarms of [[5. Mechanics/Bestiary/Beast/Swarm Of Bats.md|bats]]\
+- "desc": "The vampire magically calls dice: 2d4|avg|noform (2d4) swarms of [[5. Mechanics/Bestiary/Beast/Swarm Of Bats.md|bats]]\
     \ or [[5. Mechanics/Bestiary/Beast/Swarm Of Rats.md|rats]], provided that the sun\
-    \ isn't up. While outdoors, the vampire can call dice: 3d6|avg (3d6) [[5. Mechanics/Bestiary/Beast/Wolf.md|wolves]]\
-    \ instead. The called creatures arrive in dice: 1d4|avg (1d4) rounds, acting\
-    \ as allies of the vampire and obeying its spoken commands. The beasts remain\
-    \ for 1 hour, until the vampire dies, or until the vampire dismisses them as a\
-    \ bonus action."
+    \ isn't up. While outdoors, the vampire can call dice: 3d6|avg|noform (3d6)\
+    \ [[5. Mechanics/Bestiary/Beast/Wolf.md|wolves]] instead. The called creatures arrive\
+    \ in dice: 1d4|avg|noform (1d4) rounds, acting as allies of the vampire and\
+    \ obeying its spoken commands. The beasts remain for 1 hour, until the vampire\
+    \ dies, or until the vampire dismisses them as a bonus action."
   "name": "Children of the Night (1/Day)"
 "legendary_actions":
 - "desc": "The vampire moves up to its speed without provoking opportunity attacks."
@@ -202,8 +203,8 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
     \ fog clings to the ground within 500 feet of the vampire's lair. The fog occasionally\
     \ takes eerie forms, such as grasping claws and writhing serpents.  "
   "name": ""
-- "desc": "If the vampire is destroyed, these effects end after dice: 2d6|avg (2d6)\
-    \ days."
+- "desc": "If the vampire is destroyed, these effects end after dice: 2d6|avg|noform\
+    \ (2d6) days."
   "name": ""
 "source":
 - "MM"

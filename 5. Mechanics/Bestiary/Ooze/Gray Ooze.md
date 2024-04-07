@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Gray Ooze
 ---
-# [[5. Mechanics\Bestiary\Ooze\Gray Ooze.md|Gray Ooze]]
+# [[5. Mechanics/Bestiary/Ooze/Gray Ooze.md|Gray Ooze]]
 *Source: Monster Manual p. 243, Curse of Strahd. Available in the SRD.*
 
 A gray ooze is stone turned to liquid by chaos. When it moves, it slithers like a liquid snake, rising to strike.
@@ -80,8 +80,8 @@ An ooze doesn't require sleep.
     \ pool or wet rock."
   "name": "False Appearance"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 1|avg (1d6 + 1) bludgeoning damage plus dice: 2d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 1|text(4) (1d6 + 1) bludgeoning damage plus dice:2d6|text(7)\
     \ (2d6) acid damage, and if the target is wearing nonmagical metal armor, its\
     \ armor is partly corroded and takes a permanent and cumulative −1 penalty to\
     \ the AC it offers. The armor is destroyed if the penalty reduces its AC to 10."

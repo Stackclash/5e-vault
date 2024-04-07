@@ -71,7 +71,7 @@ As a bonus action, you can use your Channel Divinity to augment your athleticism
 
 ### Inspiring Smite (Level 3)
 
-Immediately after you deal damage to a creature with your Divine Smite feature, you can use your Channel Divinity as a bonus action and distribute temporary hit points to creatures of your choice within 30 feet of you, which can include you. The total number of temporary hit points equals `dice: 2d8|avg` (`2d8`) + your level in this class, divided among the chosen creatures however you like.
+Immediately after you deal damage to a creature with your Divine Smite feature, you can use your Channel Divinity as a bonus action and distribute temporary hit points to creatures of your choice within 30 feet of you, which can include you. The total number of temporary hit points equals `dice: 2d8|avg|noform` (`2d8`) + your level in this class, divided among the chosen creatures however you like.
 
 ### Aura of Alacrity (Level 7)
 

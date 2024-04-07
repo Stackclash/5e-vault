@@ -14,7 +14,6 @@ aliases:
   - Cold Storage
 ---
 # Cold Storage
-%%-- Embedded content starts on the next line. --%%
 *4th-level, Abjuration*  
 
 - **Casting time:** 1 action
@@ -22,7 +21,7 @@ aliases:
 - **Components:** V, S, A small 3-inch by 3-inch wooden box lined with cork
 - **Duration:** Concentration, up to 1 minute, Until dispelled
 
-You attempt to send one creature that you can see within range to a freezing cold pocket dimension. If you cast this spell on a living creature, the duration of this spell is 1 minute, and the target must succeed on a Charisma saving throw or be banished to your pocket dimension. While there, the target is [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]] and suffers `dice: 2d6|avg` (`2d6`) cold damage at the start of each of its turns and may make a Charisma saving throw at the end of each of its turns. If they succeed, the spell ends, and they reappear in the nearest unoccupied space to you.
+You attempt to send one creature that you can see within range to a freezing cold pocket dimension. If you cast this spell on a living creature, the duration of this spell is 1 minute, and the target must succeed on a Charisma saving throw or be banished to your pocket dimension. While there, the target is [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]] and suffers `dice: 2d6|avg|noform` (`2d6`) cold damage at the start of each of its turns and may make a Charisma saving throw at the end of each of its turns. If they succeed, the spell ends, and they reappear in the nearest unoccupied space to you.
 
 If you target a dead creature with this spell, the duration of this spell is infinite. The creature's body experiences no decomposition while it is in your pocket dimension and the cold damage does not affect the condition of the body.
 

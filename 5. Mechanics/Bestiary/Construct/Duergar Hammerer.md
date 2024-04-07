@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Duergar Hammerer
 ---
-# [[5. Mechanics\Bestiary\Construct\Duergar Hammerer.md|Duergar Hammerer]]
+# [[5. Mechanics/Bestiary/Construct/Duergar Hammerer.md|Duergar Hammerer]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 112, Mordenkainen's Tome of Foes p. 188*
 
 The duergar hammerer is a digging machine and siege engine, used to dig tunnels and besiege enemy fortifications.
@@ -30,6 +30,7 @@ These machines are deployed to assist with construction projects and war. Some d
 "subtype": "dwarf"
 "alignment": "Any alignment"
 "ac": !!int "17"
+"ac_class": "natural armor"
 "hp": !!int "33"
 "hit_dice": "6d8 + 6"
 "stats":
@@ -53,11 +54,11 @@ These machines are deployed to assist with construction projects and war. Some d
 "actions":
 - "desc": "The hammerer makes one Claw attack and one Hammer attack."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 3|text(6) (1d6 + 3) piercing damage."
   "name": "Claw"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 3|text(10) (2d6 + 3) bludgeoning damage."
   "name": "Hammer"
 "reactions":
 - "desc": "Immediately after a creature within 5 feet of the hammerer hits it with\

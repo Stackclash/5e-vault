@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - White Tusk Shaman
 ---
-# [[5. Mechanics\Bestiary\Humanoid\White Tusk Shaman.md|White Tusk Shaman]]
+# [[5. Mechanics/Bestiary/Humanoid/White Tusk Shaman.md|White Tusk Shaman]]
 *Source: Strongholds and Followers p. 141*
 
 Most orc clans keep a shaman or two around to interpret the will of the natural world. These shamans enjoy a high status in their clan, even when a tribe such as the White Tusks possess warspeakers who manifest the will of the gods, for there are more powers in this world than that of the gods. The Mundane World itself possesses a sort of consciousness—the whispering of the wind, the babbling of running water, and the quiet grumbling of the mountains; these small gestures of nature are the world speaking to those who possess the skill to listen.
@@ -25,6 +25,7 @@ As part of their training, orcish shamans bond with a single animal, typically a
 "subtype": "orc, shapechanger"
 "alignment": "Chaotic Neutral"
 "ac": !!int "14"
+"ac_class": "[[5. Mechanics/Items/Hide Armor.md|hide armor]]"
 "hp": !!int "52"
 "hit_dice": "8d8 + 16"
 "stats":
@@ -67,9 +68,9 @@ As part of their training, orcish shamans bond with a single animal, typically a
 "actions":
 - "desc": "The White Tusk Shaman makes two blood-searing spear attacks."
   "name": "Multiattack"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft.\
-    \ or range 30/60 ft., one target. Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing\
-    \ damage plus dice: 2d6|avg (2d6) poison damage. This magical poison only\
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft.\
+    \ or range 30/60 ft., one target. Hit: dice:1d6 + 3|text(6) (1d6 + 3) piercing\
+    \ damage plus dice:2d6|text(7) (2d6) poison damage. This magical poison only\
     \ functions when the spear is wielded by an orc shaman."
   "name": "Blood-Searing Spear"
 "source":

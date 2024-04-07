@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vgm
-aliases: ["Roleplaying a Beholder; Beholder Ideals"]
+  - compendium/src/5e/vgm
+aliases:
+  - Roleplaying a Beholder; Beholder Ideals
 ---
 # Roleplaying a Beholder; Beholder Ideals
 *Source: Volo's Guide to Monsters p. 8* 

@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Sword Wraith Warrior
 ---
-# [[5. Mechanics\Bestiary\Undead\Sword Wraith Warrior.md|Sword Wraith Warrior]]
+# [[5. Mechanics/Bestiary/Undead/Sword Wraith Warrior.md|Sword Wraith Warrior]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 239, Mordenkainen's Tome of Foes p. 241*
 
 Sword wraith warriors are most often found on ancient battlefields where soldiers were hemmed in and slaughtered without quarter.
@@ -27,6 +27,7 @@ When glory-obsessed warriors die in battle without honor, they might haunt the s
 "type": "undead"
 "alignment": "Typically  Lawful Evil"
 "ac": !!int "16"
+"ac_class": "[[5. Mechanics/Items/Chain Shirt.md|chain shirt]], [[5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "45"
 "hit_dice": "6d8 + 18"
 "stats":
@@ -49,12 +50,12 @@ When glory-obsessed warriors die in battle without honor, they might haunt the s
 - "desc": "The warrior doesn't require air, food, drink, or sleep."
   "name": "Unusual Nature"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) slashing damage, or dice: 1d10 + 4|avg\
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 4|text(8) (1d8 + 4) slashing damage, or dice:1d10 + 4|text(9)\
     \ (1d10 + 4) slashing damage if used with two hands."
   "name": "Battleaxe"
-- "desc": "Ranged Weapon Attack: dice: d20+3 (+3 to hit), range 150/600 ft., one\
-    \ target. Hit: dice: 1d8 + 1|avg (1d8 + 1) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+3 (+3) to hit, range 150/600 ft.,\
+    \ one target. Hit: dice:1d8 + 1|text(5) (1d8 + 1) piercing damage."
   "name": "Longbow"
 "bonus_actions":
 - "desc": "The warrior makes one Battleaxe or Longbow attack, and attack rolls against\

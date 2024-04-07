@@ -196,7 +196,7 @@ You adopt a particular style of fighting as your specialty. Choose one of the fo
 
 ### Second Wind (Level 1)
 
-You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to `dice: 1d10|avg` (`1d10`) + your fighter level.
+You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to `dice: 1d10|avg|noform` (`1d10`) + your fighter level.
 
 Once you use this feature, you must finish a short or long rest before you can use it again.
 

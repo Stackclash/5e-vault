@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Inquisitor of the Mind Fire
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Inquisitor Of The Mind Fire.md|Inquisitor of the Mind Fire]]
+# [[5. Mechanics/Bestiary/Humanoid/Inquisitor Of The Mind Fire.md|Inquisitor of the Mind Fire]]
 *Source: Van Richten's Guide to Ravenloft p. 248*
 
 "Evil lurks everywhere. With our minds, we will unearth it, we will plumb its depths, and we will annihilate it." With those words, the psychically gifted priest Ulmed founded the Ulmist Inquisition, an order of psionic inquisitors that seeks to discover the wickedness hiding in people's souls.
@@ -27,6 +27,7 @@ Today the inquisition rules the city of Malitain, a vast city-state to the north
 "type": "humanoid"
 "alignment": "Unaligned"
 "ac": !!int "16"
+"ac_class": "[[5. Mechanics/Items/Breastplate.md|breastplate]]"
 "hp": !!int "77"
 "hit_dice": "14d8 + 14"
 "stats":
@@ -61,13 +62,14 @@ Today the inquisition rules the city of Malitain, a vast city-state to the north
 - "desc": "The inquisitor attacks twice with its Silver Longsword or uses Mind Fire\
     \ twice."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) slashing damage, or dice: 1d10 + 4|avg\
-    \ (1d10 + 4) if used with two hands, plus dice: 4d8|avg (4d8) force damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 4|text(8) (1d8 + 4) slashing damage, or dice:1d10 + 4|text(9)\
+    \ (1d10 + 4) if used with two hands, plus dice:4d8|text(18) (4d8) force\
+    \ damage."
   "name": "Silver Longsword"
 - "desc": "The inquisitor targets one creature it can see within 120 feet of it. The\
-    \ target must succeed on a DC 15 Intelligence saving throw or take dice: 3d8\
-    \ + 4|avg (3d8 + 4) psychic damage and be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+    \ target must succeed on a DC 15 Intelligence saving throw or take dice:3d8 +\
+    \ 4|text(17) (3d8 + 4) psychic damage and be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
     \ until the start of the inquisitor's next turn."
   "name": "Mind Fire"
 - "desc": "Each creature of the inquisitor's choice that it can see within 60 feet\

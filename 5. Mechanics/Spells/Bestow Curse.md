@@ -17,7 +17,6 @@ aliases:
   - Bestow Curse
 ---
 # Bestow Curse
-%%-- Embedded content starts on the next line. --%%
 *3rd-level, Necromancy*  
 
 - **Casting time:** 1 action
@@ -30,7 +29,7 @@ You touch a creature, and that creature must succeed on a Wisdom saving throw or
 - Choose one ability score. While cursed, the target has disadvantage on ability checks and saving throws made with that ability score.  
 - While cursed, the target has disadvantage on attack rolls against you.  
 - While cursed, the target must make a Wisdom saving throw at the start of each of its turns. If it fails, it wastes its action that turn doing nothing.  
-- While the target is cursed, your attacks and spells deal an extra `dice: 1d8|avg` (`1d8`) necrotic damage to the target.  
+- While the target is cursed, your attacks and spells deal an extra `dice: 1d8|avg|noform` (`1d8`) necrotic damage to the target.  
 
 A [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell ends this effect. At the DM's option, you may choose an alternative curse effect, but it should be no more powerful than those described above. The DM has final say on such a curse's effect.
 

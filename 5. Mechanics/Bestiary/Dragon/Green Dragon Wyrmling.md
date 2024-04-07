@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Green Dragon Wyrmling
 ---
-# [[5. Mechanics\Bestiary\Dragon\Green Dragon Wyrmling.md|Green Dragon Wyrmling]]
+# [[5. Mechanics/Bestiary/Dragon/Green Dragon Wyrmling.md|Green Dragon Wyrmling]]
 *Source: Monster Manual p. 95. Available in the SRD.*
 
 The most cunning and treacherous of true dragons, green dragons use misdirection and trickery to get the upper hand against their enemies. Nasty tempered and thoroughly evil, they take special pleasure in subverting and corrupting the good-hearted. In the ancient forests they roam, green dragons demonstrate an aggression that is often less about territory than it is about gaining power and wealth with as little effort as possible.
@@ -109,6 +109,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 "type": "dragon"
 "alignment": "Lawful Evil"
 "ac": !!int "17"
+"ac_class": "natural armor"
 "hp": !!int "38"
 "hit_dice": "7d8 + 7"
 "stats":
@@ -136,13 +137,14 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "desc": "The dragon can breathe air and water."
   "name": "Amphibious"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d10 + 2|avg (1d10 + 2) piercing damage plus dice: 1d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d10 + 2|text(7) (1d10 + 2) piercing damage plus dice:1d6|text(3)\
     \ (1d6) poison damage."
   "name": "Bite"
 - "desc": "The dragon exhales poisonous gas in a 15-foot cone. Each creature in that\
-    \ area must make a DC 11 Constitution saving throw, taking dice: 6d6|avg (6d6)\
-    \ poison damage on a failed save, or half as much damage on a successful one."
+    \ area must make a DC 11 Constitution saving throw, taking dice:6d6|text(21)\
+    \ (6d6) poison damage on a failed save, or half as much damage on a successful\
+    \ one."
   "name": "Poison Breath (Recharge 5-6)"
 "source":
 - "MM"

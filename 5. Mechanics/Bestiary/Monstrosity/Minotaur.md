@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Minotaur
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Minotaur.md|Minotaur]]
+# [[5. Mechanics/Bestiary/Monstrosity/Minotaur.md|Minotaur]]
 *Source: Monster Manual p. 223, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*
 
 A minotaur's roar is a savage battle cry that most civilized creatures fear. Born into the mortal realm by demonic rites, minotaurs are savage conquerors and carnivores that live for the hunt. Their brown or black fur is stained with the blood of fallen foes, and they carry the stench of death.
@@ -40,6 +40,7 @@ Although they begin as creations of the Horned King, minotaurs can breed true wi
 "type": "monstrosity"
 "alignment": "Chaotic Evil"
 "ac": !!int "14"
+"ac_class": "natural armor"
 "hp": !!int "76"
 "hit_dice": "9d10 + 27"
 "stats":
@@ -57,10 +58,9 @@ Although they begin as creations of the Horned King, minotaurs can breed true wi
 "cr": "3"
 "traits":
 - "desc": "If the minotaur moves at least 10 feet straight toward a target and then\
-    \ hits it with a gore attack on the same turn, the target takes an extra dice:\
-    \ 2d8|avg (2d8) piercing damage. If the target is a creature, it must succeed\
-    \ on a DC 14 Strength saving throw or be pushed up to 10 feet away and knocked\
-    \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ hits it with a gore attack on the same turn, the target takes an extra dice:2d8|text(9)\
+    \ (2d8) piercing damage. If the target is a creature, it must succeed on a DC\
+    \ 14 Strength saving throw or be pushed up to 10 feet away and knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Charge"
 - "desc": "The minotaur can perfectly recall any path it has traveled."
   "name": "Labyrinthine Recall"
@@ -69,11 +69,11 @@ Although they begin as creations of the Horned King, minotaurs can breed true wi
     \ advantage until the start of its next turn."
   "name": "Reckless"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d12 + 4|avg (2d12 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d12 + 4|text(17) (2d12 + 4) slashing damage."
   "name": "Greataxe"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d8 + 4|text(13) (2d8 + 4) piercing damage."
   "name": "Gore"
 "source":
 - "MM"

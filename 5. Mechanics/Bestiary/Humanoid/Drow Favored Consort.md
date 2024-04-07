@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Drow Favored Consort
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Drow Favored Consort.md|Drow Favored Consort]]
+# [[5. Mechanics/Bestiary/Humanoid/Drow Favored Consort.md|Drow Favored Consort]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 100, Mordenkainen's Tome of Foes p. 183*
 
 Nearly every priestess of Lolth, including the powerful [[5. Mechanics/Bestiary/Humanoid/Drow Matron Mother.md|drow matron mother]] in this book, takes an attractive drow as consort. Chosen as much for beauty as for magical might, a drow favored consort can hold their own in both conversation and combat. Combining the roles of advisor, protector, and beloved, some favored consorts are content with a supporting role, while more ambitious consorts aspire to be the power behind the throne—or even to claim the throne themselves.
@@ -71,13 +71,13 @@ Some favored consorts work behind the scenes to undermine the evils encouraged b
 - "desc": "The drow makes three Scimitar or Arcane Eruption attacks. The drow can\
     \ replace one of the attacks with a use of Spellcasting."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+11 (+11 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 5|avg (1d6 + 5) slashing damage plus dice: 6d8|avg\
+- "desc": "Melee Weapon Attack: dice: d20+11 (+11) to hit, reach 5 ft., one\
+    \ target. Hit: dice:1d6 + 5|text(8) (1d6 + 5) slashing damage plus dice:6d8|text(27)\
     \ (6d8) poison damage."
   "name": "Scimitar"
-- "desc": "Ranged Spell Attack: dice: d20+10 (+10 to hit), range 120 ft., one\
-    \ target. Hit: dice: 8d8|avg (8d8) force damage, and the drow can push the\
-    \ target up to 10 feet away if it is a Large or smaller creature."
+- "desc": "Ranged Spell Attack: dice: d20+10 (+10) to hit, range 120 ft., one\
+    \ target. Hit: dice:8d8|text(36) (8d8) force damage, and the drow can push\
+    \ the target up to 10 feet away if it is a Large or smaller creature."
   "name": "Arcane Eruption"
 "reactions":
 - "desc": "When the drow or a creature within 10 feet of it is hit by an attack roll,\

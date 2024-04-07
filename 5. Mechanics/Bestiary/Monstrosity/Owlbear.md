@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Owlbear
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Owlbear.md|Owlbear]]
+# [[5. Mechanics/Bestiary/Monstrosity/Owlbear.md|Owlbear]]
 *Source: Monster Manual p. 249. Available in the SRD and the Basic Rules.*
 
 An owlbear's screech echoes through dark valleys and benighted forests, piercing the quiet night to announce the death of its prey. Feathers cover the thick, shaggy coat of its bearlike body, and the limpid pupils of its great round eyes stare furiously from its owlish head.
@@ -49,6 +49,7 @@ Scholars have long debated the origins of the owlbear. The most common theory is
 "type": "monstrosity"
 "alignment": "Unaligned"
 "ac": !!int "13"
+"ac_class": "natural armor"
 "hp": !!int "59"
 "hit_dice": "7d10 + 21"
 "stats":
@@ -71,11 +72,11 @@ Scholars have long debated the origins of the owlbear. The most common theory is
 "actions":
 - "desc": "The owlbear makes two attacks: one with its beak and one with its claws."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 1d10 + 5|avg (1d10 + 5) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one creature.\
+    \ Hit: dice:1d10 + 5|text(10) (1d10 + 5) piercing damage."
   "name": "Beak"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 5|avg (2d8 + 5) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d8 + 5|text(14) (2d8 + 5) slashing damage."
   "name": "Claws"
 "source":
 - "MM"

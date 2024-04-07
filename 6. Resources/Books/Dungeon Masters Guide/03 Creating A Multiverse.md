@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Creating a Multiverse"]
+  - compendium/src/5e/dmg
+aliases:
+  - Creating a Multiverse
 ---
 # Creating a Multiverse
 *Source: Dungeon Master's Guide, p. 43* 
@@ -139,9 +140,9 @@ Second, portals often have guardians charged with ensuring that undesirable peop
 
 Finally, most portals don't stand open all the time, but open only in particular situations or when a certain requirement is met. A portal can have any conceivable requirement, but the following are the most common:
 
-- **Time.** The portal functions only at particular times: during a full moon on the Material Plane, or every ten days, or when the stars are in a particular position. Once it opens, such a portal remains open for a limited time, such as for three days following the full moon, or for an hour, or for `dice: 1d4 + 1|avg` (`1d4 + 1`) rounds.  
+- **Time.** The portal functions only at particular times: during a full moon on the Material Plane, or every ten days, or when the stars are in a particular position. Once it opens, such a portal remains open for a limited time, such as for three days following the full moon, or for an hour, or for `dice: 1d4 + 1|avg|noform` (`1d4 + 1`) rounds.  
 - **Situation.** The portal functions only if a particular condition is met. A situation-keyed portal opens on a clear night, or when it rains, or when a certain spell is cast in its vicinity.  
-- **Random.** A random portal functions for a random period, then shuts down for a similarly random duration. Typically, such a portal allows `dice: 1d6 + 6|avg` (`1d6 + 6`) travelers to pass through, then shuts down for `dice: 1d6|avg` (`1d6`) days.  
+- **Random.** A random portal functions for a random period, then shuts down for a similarly random duration. Typically, such a portal allows `dice: 1d6 + 6|avg|noform` (`1d6 + 6`) travelers to pass through, then shuts down for `dice: 1d6|avg|noform` (`1d6`) days.  
 - **Command Word.** The portal functions only if a particular command word is spoken. Sometimes the word must be spoken as a character passes through the portal (which is otherwise a mundane doorway, window, or similar opening). Other portals open when the command word is spoken and remain open for a short time.  
 - **Key.** The portal functions if the traveler is holding a particular object; the item acts much like a key to a door. This key item can be a common object or a particular key created for that portal. The city of Sigil above the Outlands is known as the City of Doors because it features an overwhelming number of such item-keyed portals.  
 
@@ -207,7 +208,7 @@ A psychic wind is first sensed as a rapid darkening of the silver-gray sky. Afte
 
 The psychic wind has two kinds of effects: a location effect and a mental effect. A group of travelers journeying together suffers the same location effect.
 
-Each traveler affected by the wind must also make a DC 15 Intelligence saving throw. On a failed save, the traveler suffers the mental effect as well. Roll a `dice: d20|avg` (`d20`) twice and consult the Psychic Wind Effects tables to determine the location and mental effects.
+Each traveler affected by the wind must also make a DC 15 Intelligence saving throw. On a failed save, the traveler suffers the mental effect as well. Roll a `dice: d20|avg|noform` (`d20`) twice and consult the Psychic Wind Effects tables to determine the location and mental effects.
 
 ![[5. Mechanics/Tables/Psychic Wind.md\|Psychic Wind]]
 
@@ -237,19 +238,19 @@ To reach the Deep Ethereal, one needs a plane shift spell or arrive by means of 
 
 Visitors to the Deep Ethereal are engulfed by roiling mist. Scattered throughout the plane are curtains of vaporous color, and passing through a curtain leads a traveler to a region of the Border Ethereal connected to a specific Inner Plane, the Material Plane, the Feywild, or the Shadowfell. The color of the curtain indicates the plane whose Border Ethereal the curtain conceals; see the Ethereal Curtains table.
 
-![Deep Ethereal; Ethereal Curtains](compendium/tables/deep-ethereal-ethereal-curtains.md)
+![[5. Mechanics/Tables/Deep Ethereal Ethereal Curtains.md\|Deep Ethereal; Ethereal Curtains]]
 
 Traveling through the Deep Ethereal to journey from one plane to another is unlike physical travel. Distance is meaningless, so although travelers feel as if they can move by a simple act of will, it's impossible to measure speed and hard to track the passage of time. A trip between planes through the Deep Ethereal takes `1d10 × 10` hours, regardless of the origin and destination. In combat, however, creatures are considered to move at their normal speeds.
 
 ### Ether Cyclones
 
-An ether cyclone is a serpentine column that spins through the plane. The cyclone appears abruptly, distorting and uprooting ethereal forms in its path and carrying the debris for leagues. Travelers with a passive Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) score of 15 or more receive `dice: 1d4|avg` (`1d4`) rounds of warning: a deep hum in the ethereal matter.
+An ether cyclone is a serpentine column that spins through the plane. The cyclone appears abruptly, distorting and uprooting ethereal forms in its path and carrying the debris for leagues. Travelers with a passive Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) score of 15 or more receive `dice: 1d4|avg|noform` (`1d4`) rounds of warning: a deep hum in the ethereal matter.
 
-Travelers who can't reach a curtain or portal leading elsewhere suffer the cyclone's effect. Roll a `dice: d20|avg` (`d20`) and consult the Ether Cyclone table to determine the effect on all creatures in the vicinity.
+Travelers who can't reach a curtain or portal leading elsewhere suffer the cyclone's effect. Roll a `dice: d20|avg|noform` (`d20`) and consult the Ether Cyclone table to determine the effect on all creatures in the vicinity.
 
 ![[5. Mechanics/Tables/Ether Cyclones.md\|Ether Cyclones]]
 
-The most common effect of an ether cyclone is to extend the duration of a journey. Each character in a group traveling together must make a DC 15 Charisma saving throw. If at least half the group succeeds, travel is delayed by `dice: 1d10|avg` (`1d10`) hours. Otherwise, the journey's travel time is doubled. Less often, a group is blown into the Border Ethereal of a random plane. Rarely, the cyclone tears a hole in the fabric of the plane and hurls the party into the Astral Plane.
+The most common effect of an ether cyclone is to extend the duration of a journey. Each character in a group traveling together must make a DC 15 Charisma saving throw. If at least half the group succeeds, travel is delayed by `dice: 1d10|avg|noform` (`1d10`) hours. Otherwise, the journey's travel time is doubled. Less often, a group is blown into the Border Ethereal of a random plane. Rarely, the cyclone tears a hole in the fabric of the plane and hurls the party into the Astral Plane.
 
 ### Ethereal Plane Encounters
 
@@ -324,7 +325,7 @@ In remote corners of the Shadowfell, it is easy to reach horrific demiplanes rul
 
 A melancholic atmosphere pervades the Shadowfell. Extended forays to this plane can afflict characters with despair, as reflected in this optional rule.
 
-When you deem it appropriate, though usually not more than once per day, you can require a character not native to the Shadowfell to make a DC 10 Wisdom saving throw. On a failure, the character is affected by despair. Roll a `dice: d6|avg` (`d6`) to determine the effects, using the Shadowfell Despair table. You can substitute different despair effects of your own creation.
+When you deem it appropriate, though usually not more than once per day, you can require a character not native to the Shadowfell to make a DC 10 Wisdom saving throw. On a failure, the character is affected by despair. Roll a `dice: d6|avg|noform` (`d6`) to determine the effects, using the Shadowfell Despair table. You can substitute different despair effects of your own creation.
 
 ![[5. Mechanics/Tables/Shadowfell Despair.md\|Shadowfell Despair]]
 
@@ -521,7 +522,7 @@ The two layers of the Twin Paradises of Bytopia are similar yet opposite: one is
 
 #### Optional Rule: Pervasive Goodwill
 
-At the end of each long rest taken on this plane, a visitor that is neither lawful good nor neutral good must make a DC 10 Wisdom saving throw. On a failed save, the creature's alignment changes to lawful good or neutral good (whichever is closer to the creature's current alignment). The change becomes permanent if the creature doesn't leave the plane within `dice: 1d4|avg` (`1d4`) days. Otherwise, the creature's alignment reverts to normal after one day spent on a plane other than Bytopia. Casting the *dispel evil and good* spell on the creature also restores its original alignment.
+At the end of each long rest taken on this plane, a visitor that is neither lawful good nor neutral good must make a DC 10 Wisdom saving throw. On a failed save, the creature's alignment changes to lawful good or neutral good (whichever is closer to the creature's current alignment). The change becomes permanent if the creature doesn't leave the plane within `dice: 1d4|avg|noform` (`1d4`) days. Otherwise, the creature's alignment reverts to normal after one day spent on a plane other than Bytopia. Casting the *dispel evil and good* spell on the creature also restores its original alignment.
 
 ### Elysium
 
@@ -597,9 +598,9 @@ A non-evil visitor that finishes a long rest in the Abyss must make a DC 10 Char
 
 After finishing a long rest, a corrupted creature can make a DC 15 Charisma saving throw. On a successful save, the corruption effect ends. A dispel evil and good spell or any magic that removes a curse also ends the effect.
 
-If a corrupted creature doesn't leave the plane within `dice: 1d4+2|avg` (`1d4+2`) days, its alignment changes to chaotic evil. Casting the [[5. Mechanics/Spells/Dispel Evil And Good.md\|dispel evil and good]] spell on the creature restores its original alignment.
+If a corrupted creature doesn't leave the plane within `dice: 1d4+2|avg|noform` (`1d4+2`) days, its alignment changes to chaotic evil. Casting the [[5. Mechanics/Spells/Dispel Evil And Good.md\|dispel evil and good]] spell on the creature restores its original alignment.
 
-![Optional Rule: Abyssal Corruption; Abyssal Corruption](compendium/tables/optional-rule-abyssal-corruption-abyssal-corruption.md)
+![[5. Mechanics/Tables/Optional Rule Abyssal Corruption Abyssal Corruption.md\|Optional Rule: Abyssal Corruption; Abyssal Corruption]]
 
 #### Important Layers
 
@@ -669,7 +670,7 @@ The Nine Hells of Baator inflame the imaginations of travelers, the greed of tre
 
 #### Optional Rule: Pervasive Evil
 
-Evil pervades the Nine Hells, and visitors to this plane feel its influence. At the end of each long rest taken on this plane, a visitor that isn't evil must make a DC 10 Wisdom saving throw. On a failed save, the creature's alignment changes to lawful evil. The change becomes permanent if the creature doesn't leave the plane within `dice: 1d4|avg` (`1d4`) days. Otherwise, the creature's alignment reverts to normal after one day spent on a plane other than the Nine Hells. Casting the dispel evil and good spell on the creature also restores its original alignment.
+Evil pervades the Nine Hells, and visitors to this plane feel its influence. At the end of each long rest taken on this plane, a visitor that isn't evil must make a DC 10 Wisdom saving throw. On a failed save, the creature's alignment changes to lawful evil. The change becomes permanent if the creature doesn't leave the plane within `dice: 1d4|avg|noform` (`1d4`) days. Otherwise, the creature's alignment reverts to normal after one day spent on a plane other than the Nine Hells. Casting the dispel evil and good spell on the creature also restores its original alignment.
 
 #### The Nine Layers
 
@@ -759,7 +760,7 @@ Modrons are the primary inhabitants of Mechanus. The plane is also home to the c
 
 #### Optional Rule: Law of Averages
 
-While on Mechanus, creatures always use the average damage result for attacks and spells. For example, an attack that normally deals `dice: 1d10+5|avg` (`1d10+5`) damage always deals 10 damage on Mechanus.
+While on Mechanus, creatures always use the average damage result for attacks and spells. For example, an attack that normally deals `dice: 1d10+5|avg|noform` (`1d10+5`) damage always deals 10 damage on Mechanus.
 
 #### Optional Rule: Imposing Order
 
@@ -793,7 +794,7 @@ Around the outside edge of the circle, evenly spaced, are the gate-towns: sixtee
 
 Given the fact that you can ride a horse in the Outlands from a heaven to a hell, a planar-themed campaign can be set there without the need for planar travel. The Outlands is the closest the Outer Planes come to being like a world on the Material Plane.
 
-![The Outlands and Sigil; Gate-Towns of the Outlands](compendium/tables/the-outlands-and-sigil-gate-towns-of-the-outlands.md)
+![[5. Mechanics/Tables/The Outlands And Sigil Gate Towns Of The Outlands.md\|The Outlands and Sigil; Gate-Towns of the Outlands]]
 
 #### Sigil, City of Doors
 

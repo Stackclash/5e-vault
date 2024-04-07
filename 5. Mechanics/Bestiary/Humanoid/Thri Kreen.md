@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Thri-kreen
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Thri Kreen.md|Thri-kreen]]
+# [[5. Mechanics/Bestiary/Humanoid/Thri Kreen.md|Thri-kreen]]
 *Source: Monster Manual p. 288*
 
 Thri-kreen wander the deserts and savannas of the world, avoiding all other races.
@@ -42,6 +42,7 @@ Thri-kreen don't require sleep and can rest while remaining alert and performing
 "subtype": "thri-kreen"
 "alignment": "Chaotic Neutral"
 "ac": !!int "15"
+"ac_class": "natural armor"
 "hp": !!int "33"
 "hit_dice": "6d8 + 6"
 "stats":
@@ -70,16 +71,16 @@ Thri-kreen don't require sleep and can rest while remaining alert and performing
 "actions":
 - "desc": "The thri-kreen makes two attacks: one with its bite and one with its claws."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 1d6 + 1|avg (1d6 + 1) piercing damage, and the target must\
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one creature.\
+    \ Hit: dice:1d6 + 1|text(4) (1d6 + 1) piercing damage, and the target must\
     \ succeed on a DC 11 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
     \ for 1 minute. If the saving throw fails by 5 or more, the target is also [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
     \ while [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in this way. The\
     \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] target can repeat the saving\
     \ throw at the end of each of its turns, ending the effect on itself on a success."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4 + 1|avg (2d4 + 1) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d4 + 1|text(6) (2d4 + 1) slashing damage."
   "name": "Claws"
 "source":
 - "MM"

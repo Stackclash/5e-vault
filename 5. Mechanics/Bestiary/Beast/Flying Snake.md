@@ -14,7 +14,7 @@ statblock: inline
 aliases:
   - Flying Snake
 ---
-# [[5. Mechanics\Bestiary\Beast\Flying Snake.md|Flying Snake]]
+# [[5. Mechanics/Bestiary/Beast/Flying Snake.md|Flying Snake]]
 *Source: Monster Manual p. 322. Available in the SRD and the Basic Rules.*
 
 A flying snake is a brightly colored, winged serpent found in remote jungles. Tribespeople and cultists sometimes domesticate flying snakes to serve as messengers that deliver scrolls wrapped in their coils.
@@ -43,8 +43,8 @@ A flying snake is a brightly colored, winged serpent found in remote jungles. Tr
     \ reach."
   "name": "Flyby"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: 1 piercing damage plus dice: 3d4|avg (3d4) poison damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: 1 piercing damage plus dice:3d4|text(7) (3d4) poison damage."
   "name": "Bite"
 "source":
 - "MM"

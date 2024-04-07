@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Hadrosaurus
 ---
-# [[5. Mechanics\Bestiary\Beast\Hadrosaurus.md|Hadrosaurus]]
+# [[5. Mechanics/Bestiary/Beast/Hadrosaurus.md|Hadrosaurus]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 96, Volo's Guide to Monsters p. 140*
 
 A hadrosaurus is a semi-quadrupedal herbivore with bony head crests. If raised from a hatchling, it can be trained to carry a rider.
@@ -24,6 +24,7 @@ A hadrosaurus is a semi-quadrupedal herbivore with bony head crests. If raised f
 "subtype": "dinosaur"
 "alignment": "Unaligned"
 "ac": !!int "11"
+"ac_class": "natural armor"
 "hp": !!int "19"
 "hit_dice": "3d10 + 3"
 "stats":
@@ -40,8 +41,8 @@ A hadrosaurus is a semi-quadrupedal herbivore with bony head crests. If raised f
 "languages": ""
 "cr": "1/4"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d10 + 2|avg (1d10 + 2) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d10 + 2|text(7) (1d10 + 2) bludgeoning damage."
   "name": "Tail"
 "source":
 - "MPMM"

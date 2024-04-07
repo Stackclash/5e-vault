@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/tce
-aliases: ["Character Options"]
+  - compendium/src/5e/tce
+aliases:
+  - Character Options
 ---
 # Character Options
 *Source: Tasha's Cauldron of Everything, p. 7* 

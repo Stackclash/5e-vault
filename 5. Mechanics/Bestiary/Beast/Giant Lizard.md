@@ -15,7 +15,7 @@ statblock: inline
 aliases:
   - Giant Lizard
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Lizard.md|Giant Lizard]]
+# [[5. Mechanics/Bestiary/Beast/Giant Lizard.md|Giant Lizard]]
 *Source: Monster Manual p. 326. Available in the SRD and the Basic Rules.*
 
 A giant lizard can be ridden or used as a draft animal. Lizardfolk also keep them as pets, and subterranean giant lizards are used as mounts and pack animals by drow, duergar, and other Underdark dwellers.
@@ -35,6 +35,7 @@ A giant lizard can be ridden or used as a draft animal. Lizardfolk also keep the
 "type": "beast"
 "alignment": "Unaligned"
 "ac": !!int "12"
+"ac_class": "natural armor"
 "hp": !!int "19"
 "hit_dice": "3d10 + 3"
 "stats":
@@ -49,8 +50,8 @@ A giant lizard can be ridden or used as a draft animal. Lizardfolk also keep the
 "languages": ""
 "cr": "1/4"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 2|avg (1d8 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 2|text(6) (1d8 + 2) piercing damage."
   "name": "Bite"
 "source":
 - "MM"

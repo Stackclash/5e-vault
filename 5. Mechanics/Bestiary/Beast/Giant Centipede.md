@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Giant Centipede
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Centipede.md|Giant Centipede]]
+# [[5. Mechanics/Bestiary/Beast/Giant Centipede.md|Giant Centipede]]
 *Source: Monster Manual p. 323, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*
 
 ```statblock
@@ -21,6 +21,7 @@ aliases:
 "type": "beast"
 "alignment": "Unaligned"
 "ac": !!int "13"
+"ac_class": "natural armor"
 "hp": !!int "4"
 "hit_dice": "1d6 + 1"
 "stats":
@@ -35,9 +36,9 @@ aliases:
 "languages": ""
 "cr": "1/4"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage, and the target must\
-    \ succeed on a DC 11 Constitution saving throw or take dice: 3d6|avg (3d6)\
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one creature.\
+    \ Hit: dice:1d4 + 2|text(4) (1d4 + 2) piercing damage, and the target must\
+    \ succeed on a DC 11 Constitution saving throw or take dice:3d6|text(10) (3d6)\
     \ poison damage. If the poison damage reduces the target to 0 hit points, the\
     \ target is stable but [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for\
     \ 1 hour, even after regaining hit points, and is [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\

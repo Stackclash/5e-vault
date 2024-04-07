@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Virtue
 ---
-# [[5. Mechanics\Bestiary\Celestial\Virtue.md|Virtue]]
+# [[5. Mechanics/Bestiary/Celestial/Virtue.md|Virtue]]
 *Source: Strongholds and Followers p. 159*
 
 A collection of mouths and hands that arrives and sings power, which is a totally normal thing to do. The Virtue is the Word of the Gods, and that word is death to evil. These songs are not spells, so magic resistance does not affect them. They are divine words spoken by a creature sent by the gods.
@@ -48,6 +48,7 @@ See? Proper Celestial gibberish!
 "type": "celestial"
 "alignment": "Any Good alignment"
 "ac": !!int "15"
+"ac_class": "natural armor"
 "hp": !!int "97"
 "hit_dice": "13d8 + 39"
 "stats":
@@ -90,11 +91,11 @@ See? Proper Celestial gibberish!
 - "desc": "While the Virtue sings, each ally may choose one condition they're suffering\
     \ from at the start of their turn and end it."
   "name": "Chorus of Succor"
-- "desc": "While the Virtue sings, each ally may add a dice: d6|avg (d6) to the\
-    \ result of any attack roll or saving throw, once per round. The ally can wait\
-    \ until after they roll the dice: d20|avg (d20) before deciding to use the\
-    \ inspiration die, but must decide before the GM says whether the roll succeeds\
-    \ or fails."
+- "desc": "While the Virtue sings, each ally may add a dice: d6|avg|noform (d6)\
+    \ to the result of any attack roll or saving throw, once per round. The ally can\
+    \ wait until after they roll the dice: d20|avg|noform (d20) before deciding\
+    \ to use the inspiration die, but must decide before the GM says whether the roll\
+    \ succeeds or fails."
   "name": "Chorus of Inspiration"
 - "desc": "While the Virtue sings, any enemy who deals damage to one of the Virtue's\
     \ allies immediately takes 5 thunder damage."

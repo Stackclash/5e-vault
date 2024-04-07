@@ -15,7 +15,7 @@ statblock: inline
 aliases:
   - Kobold Scale Sorcerer
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Kobold Scale Sorcerer.md|Kobold Scale Sorcerer]]
+# [[5. Mechanics/Bestiary/Humanoid/Kobold Scale Sorcerer.md|Kobold Scale Sorcerer]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 165, Volo's Guide to Monsters p. 167*
 
 Kobold scale sorcerers have an innate talent for arcane magic, making them highly valuable members of their communities. These sorcerers typically fill the role of advisor, and when threatened, a scale sorcerer lashes out with colorful magic.
@@ -28,6 +28,7 @@ A scale sorcerer who resides in or near a dragon's lair may serve as that dragon
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "15"
+"ac_class": "natural armor"
 "hp": !!int "27"
 "hit_dice": "5d6 + 10"
 "stats":
@@ -63,13 +64,13 @@ A scale sorcerer who resides in or near a dragon's lair may serve as that dragon
 - "desc": "The kobold makes two Dagger or Chromatic Bolt attacks. It can replace one\
     \ attack with a use of Spellcasting."
   "name": "Multiattack"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing\
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: dice:1d4 + 2|text(4) (1d4 + 2) piercing\
     \ damage."
   "name": "Dagger"
-- "desc": "Ranged Spell Attack: dice: d20+4 (+4 to hit), range 60 feet, one target.\
-    \ Hit: dice: 2d6 + 2|avg (2d6 + 2) of a type of the kobold's choice: acid,\
-    \ cold, fire, lightning, poison, or thunder."
+- "desc": "Ranged Spell Attack: dice: d20+4 (+4) to hit, range 60 feet, one\
+    \ target. Hit: dice:2d6 + 2|text(9) (2d6 + 2) of a type of the kobold's\
+    \ choice: acid, cold, fire, lightning, poison, or thunder."
   "name": "Chromatic Bolt"
 "source":
 - "MPMM"

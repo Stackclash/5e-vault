@@ -17,7 +17,7 @@ aliases:
 When you drink this potion, you imbibe the power of an elder elemental, gaining all the strength of the ocean and the waves. You gain the following benefits for the next hour:
 
 - You gain a swim speed equal to twice your walk speed and you can breathe underwater  
-- When you make a critical hit with a melee weapon attack, you may add the force of the tides to your strike. In addition to the usual effects of a critical hit, you deal an extra `dice: 2d8|avg` (`2d8`) force damage (this damage is not doubled), and your target must succeed on a DC 20 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]].  
+- When you make a critical hit with a melee weapon attack, you may add the force of the tides to your strike. In addition to the usual effects of a critical hit, you deal an extra `dice: 2d8|avg|noform` (`2d8`) force damage (this damage is not doubled), and your target must succeed on a DC 20 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]].  
 - You may cast the [[5. Mechanics/Spells/Shape Water.md\|shape water]] spell at will. When you cast the spell in this way, you can affect water in a 50-foot cube instead of the usual 5 feet.  
 - If you are in contact with a body of water, you may use your action to absorb it in order to heal injuries, recovering 1 hit point for every ounce of water you absorb. You cannot absorb water if you are not missing hit points.  
 

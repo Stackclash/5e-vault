@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Myconid Adult
 ---
-# [[5. Mechanics\Bestiary\Plant\Myconid Adult.md|Myconid Adult]]
+# [[5. Mechanics/Bestiary/Plant/Myconid Adult.md|Myconid Adult]]
 *Source: Monster Manual p. 232*
 
 Myconids are intelligent, ambulatory fungi that live in the Underdark, seek enlightenment, and deplore violence. If approached peacefully, myconids gladly provide shelter or allow safe passage through their colonies.
@@ -32,6 +32,7 @@ Like other fungi, myconids reproduce by mundane sporing. They carefully control 
 "type": "plant"
 "alignment": "Lawful Neutral"
 "ac": !!int "12"
+"ac_class": "natural armor"
 "hp": !!int "22"
 "hit_dice": "4d8 + 4"
 "stats":
@@ -54,9 +55,9 @@ Like other fungi, myconids reproduce by mundane sporing. They carefully control 
     \ direct sunlight."
   "name": "Sun Sickness"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4|avg (2d4) bludgeoning damage plus dice: 2d4|avg (2d4)\
-    \ poison damage."
+- "desc": "Melee Weapon Attack: dice: d20+2 (+2) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d4|text(5) (2d4) bludgeoning damage plus dice:2d4|text(5)\
+    \ (2d4) poison damage."
   "name": "Fist"
 - "desc": "The myconid ejects spores at one creature it can see within 5 feet of it.\
     \ The target must succeed on a DC 11 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\

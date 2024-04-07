@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Mimic
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Mimic.md|Mimic]]
+# [[5. Mechanics/Bestiary/Monstrosity/Mimic.md|Mimic]]
 *Source: Monster Manual p. 220, Curse of Strahd. Available in the SRD.*
 
 Mimics are shapeshifting predators able to take on the form of inanimate objects to lure creatures to their doom. In dungeons, these cunning creatures most often take the form of doors and chests, having learned that such forms attract a steady stream of prey.
@@ -39,6 +39,7 @@ Mimics live and hunt alone, though they occasionally share their feeding grounds
 "subtype": "shapechanger"
 "alignment": "Neutral"
 "ac": !!int "12"
+"ac_class": "natural armor"
 "hp": !!int "58"
 "hit_dice": "9d8 + 18"
 "stats":
@@ -73,12 +74,12 @@ Mimics live and hunt alone, though they occasionally share their feeding grounds
     \ by it."
   "name": "Grappler"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) bludgeoning damage. If the mimic is in\
-    \ object form, the target is subjected to its Adhesive trait."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 3|text(7) (1d8 + 3) bludgeoning damage. If the mimic is\
+    \ in object form, the target is subjected to its Adhesive trait."
   "name": "Pseudopod"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) piercing damage plus dice: 1d8|avg\
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 3|text(7) (1d8 + 3) piercing damage plus dice:1d8|text(4)\
     \ (1d8) acid damage."
   "name": "Bite"
 "source":

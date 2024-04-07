@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/mtf
-aliases: ["Dwarves and Duergar"]
+  - compendium/src/5e/mtf
+aliases:
+  - Dwarves and Duergar
 ---
 # Dwarves and Duergar
 *Source: Mordenkainen's Tome of Foes, p. 65* 
@@ -250,7 +251,7 @@ The Dwarf Deities table lists the members of the Mordinsamman. For each god, the
 
 ![[6. Resources/Books/Mordenkainens Tome Of Foes/img/315522_cn_wmask.webp#center]]
 
-![Dwarven Religion; Dwarf Deities (The Mordinsamman)](compendium/tables/dwarven-religion-dwarf-deities-the-mordinsamman-mtf.md)
+![[5. Mechanics/Tables/Dwarven Religion Dwarf Deities The Mordinsamman.md\|Dwarven Religion; Dwarf Deities (The Mordinsamman)]]
 
 #### Moradin
 
@@ -606,23 +607,23 @@ When dwarves journey away from their strongholds, they prefer to move in substan
 
 ![[6. Resources/Books/Mordenkainens Tome Of Foes/img/315622_cn.webp#center]]
 
-![Dwarves on the Move; Group Leader](compendium/tables/dwarves-on-the-move-group-leader-mtf.md)
+![[5. Mechanics/Tables/Dwarves On The Move Group Leader.md\|Dwarves on the Move; Group Leader]]
 
-![Dwarves on the Move; Special Allies](compendium/tables/dwarves-on-the-move-special-allies-mtf.md)
+![[5. Mechanics/Tables/Dwarves On The Move Special Allies.md\|Dwarves on the Move; Special Allies]]
 
-![Dwarves on the Move; Purpose of Travel](compendium/tables/dwarves-on-the-move-purpose-of-travel-mtf.md)
+![[5. Mechanics/Tables/Dwarves On The Move Purpose Of Travel.md\|Dwarves on the Move; Purpose of Travel]]
 
-![Dwarves on the Move; Special Circumstances](compendium/tables/dwarves-on-the-move-special-circumstances-mtf.md)
+![[5. Mechanics/Tables/Dwarves On The Move Special Circumstances.md\|Dwarves on the Move; Special Circumstances]]
 
 ### Dwarves in the Clan
 
 The following tables can be used to create basic information about a clan of dwarves: the group's current status, a trait or a fact that sets that clan apart from others, and the vocation of a given clan member.
 
-![Dwarves in the Clan; Clan's Status](compendium/tables/dwarves-in-the-clan-clans-status-mtf.md)
+![[5. Mechanics/Tables/Dwarves In The Clan Clans Status.md\|Dwarves in the Clan; Clan's Status]]
 
-![Dwarves in the Clan; Clan's Notable Trait](compendium/tables/dwarves-in-the-clan-clans-notable-trait-mtf.md)
+![[5. Mechanics/Tables/Dwarves In The Clan Clans Notable Trait.md\|Dwarves in the Clan; Clan's Notable Trait]]
 
-![Dwarves in the Clan; Clan Vocations](compendium/tables/dwarves-in-the-clan-clan-vocations-mtf.md)
+![[5. Mechanics/Tables/Dwarves In The Clan Clan Vocations.md\|Dwarves in the Clan; Clan Vocations]]
 
 ### Dwarves in the World
 
@@ -630,9 +631,9 @@ The tables below are designed to add depth to a dwarf character by offering poss
 
 ![[6. Resources/Books/Mordenkainens Tome Of Foes/img/315526_cn.webp#center]]
 
-![Dwarves in the World; Dwarf Adventurer Story Hooks](compendium/tables/dwarves-in-the-world-dwarf-adventurer-story-hooks-mtf.md)
+![[5. Mechanics/Tables/Dwarves In The World Dwarf Adventurer Story Hooks.md\|Dwarves in the World; Dwarf Adventurer Story Hooks]]
 
-![Dwarves in the World; Dwarf Quirks](compendium/tables/dwarves-in-the-world-dwarf-quirks-mtf.md)
+![[5. Mechanics/Tables/Dwarves In The World Dwarf Quirks.md\|Dwarves in the World; Dwarf Quirks]]
 
 ## Duergar Tables
 
@@ -646,30 +647,30 @@ When duergar emerge from the Underdark, they generally do so in the form of smal
 
 ![[6. Resources/Books/Mordenkainens Tome Of Foes/img/315527_cn.webp#center]]
 
-![Duergar Raiding Parties; 1](compendium/tables/duergar-raiding-parties-1-mtf.md)
+![[5. Mechanics/Tables/Duergar Raiding Parties 1.md\|Duergar Raiding Parties; 1]]
 
-![Duergar Raiding Parties; Duergar Group Leader](compendium/tables/duergar-raiding-parties-duergar-group-leader-mtf.md)
+![[5. Mechanics/Tables/Duergar Raiding Parties Duergar Group Leader.md\|Duergar Raiding Parties; Duergar Group Leader]]
 
-![Duergar Raiding Parties; Duergar Special Allies](compendium/tables/duergar-raiding-parties-duergar-special-allies-mtf.md)
+![[5. Mechanics/Tables/Duergar Raiding Parties Duergar Special Allies.md\|Duergar Raiding Parties; Duergar Special Allies]]
 
-![Duergar Raiding Parties; Duergar Purpose of Raid](compendium/tables/duergar-raiding-parties-duergar-purpose-of-raid-mtf.md)
+![[5. Mechanics/Tables/Duergar Raiding Parties Duergar Purpose Of Raid.md\|Duergar Raiding Parties; Duergar Purpose of Raid]]
 
-![Duergar Raiding Parties; Duergar Special Circumstances](compendium/tables/duergar-raiding-parties-duergar-special-circumstances-mtf.md)
+![[5. Mechanics/Tables/Duergar Raiding Parties Duergar Special Circumstances.md\|Duergar Raiding Parties; Duergar Special Circumstances]]
 
 ### Duergar in the Clan
 
 The following tables can be used to create basic information about a clan of duergar somewhere in the world: the group's current status, and a trait or a fact that sets that clan apart from others.
 
-![Duergar in the Clan; Duergar Clan Names](compendium/tables/duergar-in-the-clan-duergar-clan-names-mtf.md)
+![[5. Mechanics/Tables/Duergar In The Clan Duergar Clan Names.md\|Duergar in the Clan; Duergar Clan Names]]
 
-![Duergar in the Clan; Duergar Clan's Status](compendium/tables/duergar-in-the-clan-duergar-clans-status-mtf.md)
+![[5. Mechanics/Tables/Duergar In The Clan Duergar Clans Status.md\|Duergar in the Clan; Duergar Clan's Status]]
 
-![Duergar in the Clan; Clan's Notable Trait](compendium/tables/duergar-in-the-clan-clans-notable-trait-mtf.md)
+![[5. Mechanics/Tables/Duergar In The Clan Clans Notable Trait.md\|Duergar in the Clan; Clan's Notable Trait]]
 
 ### Duergar in the World
 
 The tables below are designed to add depth to a duergar character by offering possible reasons why the character left the clan for the life of an adventurer and a choice of personality quirks that are tailored for duergar.
 
-![Duergar in the World; Duergar Adventurer Story Hooks](compendium/tables/duergar-in-the-world-duergar-adventurer-story-hooks-mtf.md)
+![[5. Mechanics/Tables/Duergar In The World Duergar Adventurer Story Hooks.md\|Duergar in the World; Duergar Adventurer Story Hooks]]
 
-![Duergar in the World; Duergar Quirks](compendium/tables/duergar-in-the-world-duergar-quirks-mtf.md)
+![[5. Mechanics/Tables/Duergar In The World Duergar Quirks.md\|Duergar in the World; Duergar Quirks]]

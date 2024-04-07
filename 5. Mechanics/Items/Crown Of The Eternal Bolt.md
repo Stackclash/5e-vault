@@ -27,11 +27,11 @@ As part of the action to do this ability, you must touch an adjacent [[/5. Mecha
 
 ## Volt Shield
 
-You cover yourself in a pulsing blue electrical current that harms other creatures that come into contact with it. Until the start of your next turn, you have immunity to lightning damage, and any creature that touches you suffers `dice: 2d8|avg` (`2d8`) lightning damage, or double that if they are wearing metal armor or covered in water. A creature can only suffer this damage once per turn.
+You cover yourself in a pulsing blue electrical current that harms other creatures that come into contact with it. Until the start of your next turn, you have immunity to lightning damage, and any creature that touches you suffers `dice: 2d8|avg|noform` (`2d8`) lightning damage, or double that if they are wearing metal armor or covered in water. A creature can only suffer this damage once per turn.
 
 ## Lightning Strike
 
-As part of the action used to do this ability, you must make a weapon attack against one creature within range. If your attack is successful, you deal an additional `dice: 2d8|avg` (`2d8`) lightning damage and they must succeed on a DC 20 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]] until the start of your next turn.
+As part of the action used to do this ability, you must make a weapon attack against one creature within range. If your attack is successful, you deal an additional `dice: 2d8|avg|noform` (`2d8`) lightning damage and they must succeed on a DC 20 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]] until the start of your next turn.
 
 This crown regains 1 charge per 20 lightning damage you take in a single turn while wearing it. It also recovers all expended charges at dawn.
 

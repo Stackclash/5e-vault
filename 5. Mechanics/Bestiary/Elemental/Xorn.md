@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Xorn
 ---
-# [[5. Mechanics\Bestiary\Elemental\Xorn.md|Xorn]]
+# [[5. Mechanics/Bestiary/Elemental/Xorn.md|Xorn]]
 *Source: Monster Manual p. 304. Available in the SRD.*
 
 Bizarre creatures native to the Elemental Plane of Earth, xorn sniff out gemstones and precious metals, then tunnel through earth and rock to consume those treasures. On the Material Plane, xorn must range far and wide through the Underdark to sustain themselves, becoming aggressive toward miners and treasure hunters when the valuable minerals of their diet are scarce.
@@ -33,6 +33,7 @@ Possessed of the power of elemental earth, a xorn glides through stone and dirt 
 "type": "elemental"
 "alignment": "Neutral"
 "ac": !!int "19"
+"ac_class": "natural armor"
 "hp": !!int "73"
 "hit_dice": "7d8 + 42"
 "stats":
@@ -63,11 +64,11 @@ Possessed of the power of elemental earth, a xorn glides through stone and dirt 
 "actions":
 - "desc": "The xorn makes three claw attacks and one bite attack."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 3d6 + 3|avg (3d6 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:3d6 + 3|text(13) (3d6 + 3) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 3|text(6) (1d6 + 3) slashing damage."
   "name": "Claw"
 "source":
 - "MM"

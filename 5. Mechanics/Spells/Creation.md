@@ -14,7 +14,6 @@ aliases:
   - Creation
 ---
 # Creation
-%%-- Embedded content starts on the next line. --%%
 *5th-level, Illusion*  
 
 - **Casting time:** 1 minute

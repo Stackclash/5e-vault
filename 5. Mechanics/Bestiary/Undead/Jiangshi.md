@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Jiangshi
 ---
-# [[5. Mechanics\Bestiary\Undead\Jiangshi.md|Jiangshi]]
+# [[5. Mechanics/Bestiary/Undead/Jiangshi.md|Jiangshi]]
 *Source: Van Richten's Guide to Ravenloft p. 236*
 
 When a soul becomes trapped within its corpse, its bitterness can reanimate its body, creating a jiangshi. These vengeful dead stalk their descendants and the communities they knew in life, sowing terror and taking retribution for the slights or neglected burial rites that led to their cursed resurrections. Rigor mortis notoriously afflicts the limbs of jiangshi, causing them to hold their arms rigidly and to walk with a stiff gait. This, along with their flight, lead many to call them hopping vampires.
@@ -23,6 +23,7 @@ By day, jiangshi lurk within their tombs and hidden ruins to avoid the attention
 "type": "undead"
 "alignment": "Unaligned"
 "ac": !!int "16"
+"ac_class": "natural armor"
 "hp": !!int "119"
 "hit_dice": "14d8 + 56"
 "stats":
@@ -56,11 +57,11 @@ By day, jiangshi lurk within their tombs and hidden ruins to avoid the attention
 "actions":
 - "desc": "The jiangshi makes three Slam attacks and uses Consume Energy."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d8 + 4|text(13) (2d8 + 4) bludgeoning damage."
   "name": "Slam"
 - "desc": "The jiangshi draws energy from a creature it can see within 30 feet of\
-    \ it. The target makes a DC 16 Constitution saving throw, taking dice: 4d8|avg\
+    \ it. The target makes a DC 16 Constitution saving throw, taking dice:4d8|text(18)\
     \ (4d8) necrotic damage on a failed save, or half as much damage on a successful\
     \ one. The jiangshi regains hit points equal to the amount of necrotic damage\
     \ dealt. After regaining hit points from this action, the jiangshi gains the following\

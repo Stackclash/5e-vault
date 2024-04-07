@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Skeleton
 ---
-# [[5. Mechanics\Bestiary\Undead\Skeleton.md|Skeleton]]
+# [[5. Mechanics/Bestiary/Undead/Skeleton.md|Skeleton]]
 *Source: Monster Manual p. 272, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*
 
 Skeletons arise when animated by dark magic. They heed the summons of spellcasters who call them from their stony tombs and ancient battlefields, or rise of their own accord in places saturated with death and loss, awakened by stirrings of necromantic energy or the presence of corrupting evil.
@@ -46,6 +46,7 @@ A skeleton doesn't require air, food, drink, or sleep.
 "type": "undead"
 "alignment": "Lawful Evil"
 "ac": !!int "13"
+"ac_class": "armor scraps"
 "hp": !!int "13"
 "hit_dice": "2d8 + 4"
 "stats":
@@ -64,11 +65,11 @@ A skeleton doesn't require air, food, drink, or sleep.
 "languages": "understands all languages it spoke in life but can't speak"
 "cr": "1/4"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 2|text(5) (1d6 + 2) piercing damage."
   "name": "Shortsword"
-- "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 80/320 ft., one\
-    \ target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+4 (+4) to hit, range 80/320 ft.,\
+    \ one target. Hit: dice:1d6 + 2|text(5) (1d6 + 2) piercing damage."
   "name": "Shortbow"
 "source":
 - "MM"

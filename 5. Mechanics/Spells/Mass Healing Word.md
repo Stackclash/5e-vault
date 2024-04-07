@@ -13,7 +13,6 @@ aliases:
   - Mass Healing Word
 ---
 # Mass Healing Word
-%%-- Embedded content starts on the next line. --%%
 *3rd-level, Evocation*  
 
 - **Casting time:** 1 bonus
@@ -21,9 +20,9 @@ aliases:
 - **Components:** V
 - **Duration:** Instantaneous
 
-As you call out words of restoration, up to six creatures of your choice that you can see within range regain hit points equal to `dice: 1d4|avg` (`1d4`) + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+As you call out words of restoration, up to six creatures of your choice that you can see within range regain hit points equal to `dice: 1d4|avg|noform` (`1d4`) + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the healing increases by 1d4 for each slot level above 3rd.
+**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the healing increases by `1d4` for each slot level above 3rd.
 
 **Classes**: [[5. Mechanics/Classes/Artificer Alchemist.md\|Artificer (Alchemist)]], [[5. Mechanics/Classes/Cleric Order Domain.md\|Cleric (Order Domain)]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]]
 

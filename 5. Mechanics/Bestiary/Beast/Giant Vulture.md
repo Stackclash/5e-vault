@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Giant Vulture
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Vulture.md|Giant Vulture]]
+# [[5. Mechanics/Bestiary/Beast/Giant Vulture.md|Giant Vulture]]
 *Source: Monster Manual p. 329. Available in the SRD and the Basic Rules.*
 
 A giant vulture has advanced intelligence and a malevolent bent. Unlike its smaller kin, it will attack a wounded creature to hasten its end. Giant vultures have been known to haunt a thirsty, starving creature for days to enjoy its suffering.
@@ -49,11 +49,11 @@ A giant vulture has advanced intelligence and a malevolent bent. Unlike its smal
 "actions":
 - "desc": "The vulture makes two attacks: one with its beak and one with its talons."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4 + 2|avg (2d4 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d4 + 2|text(7) (2d4 + 2) piercing damage."
   "name": "Beak"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 2|avg (2d6 + 2) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 2|text(9) (2d6 + 2) slashing damage."
   "name": "Talons"
 "source":
 - "MM"

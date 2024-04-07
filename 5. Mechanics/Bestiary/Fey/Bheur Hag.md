@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Bheur Hag
 ---
-# [[5. Mechanics\Bestiary\Fey\Bheur Hag.md|Bheur Hag]]
+# [[5. Mechanics/Bestiary/Fey/Bheur Hag.md|Bheur Hag]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 62, Volo's Guide to Monsters p. 160*
 
 Bheur hags live in wintry lands, favoring snowy mountains. These hags become more active during winter, using their ice and weather magic to make life miserable for nearby settlements.
@@ -28,6 +28,7 @@ In combat, a bheur hag also strives to inspire horror. When near a recently slai
 "type": "fey"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "17"
+"ac_class": "natural armor"
 "hp": !!int "91"
 "hit_dice": "14d8 + 28"
 "stats":
@@ -72,13 +73,13 @@ In combat, a bheur hag also strives to inspire horror. When near a recently slai
 "actions":
 - "desc": "The hag makes two Slam or Frost Shard attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 1|avg (2d8 + 1) bludgeoning damage plus dice: 4d8|avg\
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d8 + 1|text(10) (2d8 + 1) bludgeoning damage plus dice:4d8|text(18)\
     \ (4d8) cold damage."
   "name": "Slam"
-- "desc": "Ranged Spell Attack: dice: d20+6 (+6 to hit), range 60 ft., one target.\
-    \ Hit: dice: 6d8 + 3|avg (6d8 + 3) cold damage, and the target's speed is\
-    \ reduced by 10 feet until the start of the hag's next turn."
+- "desc": "Ranged Spell Attack: dice: d20+6 (+6) to hit, range 60 ft., one target.\
+    \ Hit: dice:6d8 + 3|text(30) (6d8 + 3) cold damage, and the target's speed\
+    \ is reduced by 10 feet until the start of the hag's next turn."
   "name": "Frost Shard"
 - "desc": "The hag feeds on the corpse of one enemy within reach that died within\
     \ the past minute. Each creature of the hag's choice that is within 60 feet and\

@@ -137,7 +137,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 "cr": "2"
 "traits":
 - "desc": "Fiona is a 5th-level spellcaster. Her spellcasting ability is Wisdom (spell\
-    \ save DC 13, dice: d20+5 (+5 to hit) with spell attacks). Fiona has the following\
+    \ save DC 13, dice: d20+5 (+5) to hit with spell attacks). Fiona has the following\
     \ cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Light.md|light]],\
     \ [[5. Mechanics/Spells/Mending.md|mending]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
     \n1st level (4 slots): [[5. Mechanics/Spells/Command.md|command]], [purify food\
@@ -147,14 +147,14 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ [[5. Mechanics/Spells/Animate Dead.md|animate dead]], [[5. Mechanics/Spells/Create Food And Water.md|create food and water]]"
   "name": "spells"
 - "desc": "As a bonus action, Fiona can expend a spell slot to cause its melee weapon\
-    \ attacks to magically deal an extra dice: 3d6|avg (3d6) radiant damage to\
-    \ a target on a hit. This benefit lasts until the end of the turn. If Fiona expends\
-    \ a spell slot of 2nd level or higher, the extra damage increases by dice: 1d6|avg\
-    \ (1d6) for each level above 1st."
+    \ attacks to magically deal an extra dice:3d6|text(10) (3d6) radiant damage\
+    \ to a target on a hit. This benefit lasts until the end of the turn. If Fiona\
+    \ expends a spell slot of 2nd level or higher, the extra damage increases by dice:\
+    \ 1d6|avg|noform (1d6) for each level above 1st."
   "name": "Divine Eminence"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6|avg (1d6) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+2 (+2) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6|text(3) (1d6) bludgeoning damage."
   "name": "Mace"
 "source":
 - "CoS"

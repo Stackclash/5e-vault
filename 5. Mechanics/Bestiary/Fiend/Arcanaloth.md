@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Arcanaloth
 ---
-# [[5. Mechanics\Bestiary\Fiend\Arcanaloth.md|Arcanaloth]]
+# [[5. Mechanics/Bestiary/Fiend/Arcanaloth.md|Arcanaloth]]
 *Source: Monster Manual p. 313, Curse of Strahd, Tasha's Cauldron of Everything*
 
 Arcanaloths are sly, jackal-headed beings with humanoid bodies, but they can employ magic to take any humanoid form. They do so to gain the trust of creatures with whom they negotiate, replacing jackal snarls with winsome smiles. Regardless of its chosen form, an arcanaloth appears well groomed, clothing itself in fine robes. Highly intelligent spellcasters who hunger for knowledge and power, arcanaloths command units of lesser yugoloths and maintain the contracts, records, and accounts of their kind.
@@ -57,8 +57,8 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 > 
 > - An arcanaloth has a 40% chance chance of summoning one arcanaloth.  
 > - A mezzoloth has a 30% chance chance of summoning one mezzoloth.  
-> - A nycaloth has a 50% chance chance of summoning `dice: 1d4|avg` (`1d4`) mezzoloths or one nycaloth.  
-> - An ultroloth has a 50% chance chance of summoning `dice: 1d6|avg` (`1d6`) mezzoloths, `dice: 1d4|avg` (`1d4`) nycaloths, or one ultroloth.  
+> - A nycaloth has a 50% chance chance of summoning `dice: 1d4|avg|noform` (`1d4`) mezzoloths or one nycaloth.  
+> - An ultroloth has a 50% chance chance of summoning `dice: 1d6|avg|noform` (`1d6`) mezzoloths, `dice: 1d4|avg|noform` (`1d4`) nycaloths, or one ultroloth.  
 > 
 > A summoned yugoloth appears in an unoccupied space within 60 feet of its summoner, does as it pleases (unless its summoner is an ultroloth, in which case it acts as an ally of its summoner), and can't summon other yugoloths. The summoned yugoloth remains for l minute, until it or its summoner dies, or until its summoner takes a bonus action to dismiss it
 ^variant-yugoloth-summoning
@@ -75,6 +75,7 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 "subtype": "yugoloth"
 "alignment": "Neutral Evil"
 "ac": !!int "17"
+"ac_class": "natural armor"
 "hp": !!int "104"
 "hit_dice": "16d8 + 32"
 "stats":
@@ -110,7 +111,7 @@ Whatever the case, no fiend finds the General unless the General desires it. His
     \ (self only), [[5. Mechanics/Spells/Magic Missile.md|magic missile]]"
   "name": "innate"
 - "desc": "The arcanaloth is a 16th-level spellcaster. Its spellcasting ability is\
-    \ Intelligence (spell save DC 17, dice: d20+9 (+9 to hit) with spell attacks).\
+    \ Intelligence (spell save DC 17, dice: d20+9 (+9) to hit with spell attacks).\
     \ The arcanaloth has the following wizard spells prepared:\n\nCantrips (at will):\
     \ [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]], [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
     \ [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\
@@ -134,10 +135,10 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 - "desc": "The arcanaloth's weapon attacks are magical."
   "name": "Magic Weapons"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4 + 3|avg (2d4 + 3) slashing damage. The target must make\
-    \ a DC 14 Constitution saving throw, taking dice: 3d6|avg (3d6) poison damage\
-    \ on a failed save, or half as much damage on a successful one."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d4 + 3|text(8) (2d4 + 3) slashing damage. The target must make\
+    \ a DC 14 Constitution saving throw, taking dice:3d6|text(10) (3d6) poison\
+    \ damage on a failed save, or half as much damage on a successful one."
   "name": "Claws"
 - "desc": "The arcanaloth magically teleports, along with any equipment it is wearing\
     \ or carrying, up to 60 feet to an unoccupied space it can see."

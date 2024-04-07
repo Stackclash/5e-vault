@@ -15,7 +15,7 @@ statblock: inline
 aliases:
   - Giant Toad
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Toad.md|Giant Toad]]
+# [[5. Mechanics/Bestiary/Beast/Giant Toad.md|Giant Toad]]
 *Source: Monster Manual p. 329, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*
 
 ```statblock
@@ -44,8 +44,8 @@ aliases:
     \ with or without a running start."
   "name": "Standing Leap"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d10 + 2|avg (1d10 + 2) piercing damage plus dice: 1d10|avg\
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d10 + 2|text(7) (1d10 + 2) piercing damage plus dice:1d10|text(5)\
     \ (1d10) poison damage, and the target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ (escape DC 13). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
     \ and the toad can't bite another target."
@@ -54,7 +54,7 @@ aliases:
     \ grappling. If the attack hits, the target is swallowed, and the grapple ends.\
     \ The swallowed target is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] and\
     \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]], it has total cover\
-    \ against attacks and other effects outside the toad, and it takes dice: 3d6|avg\
+    \ against attacks and other effects outside the toad, and it takes dice:3d6|text(10)\
     \ (3d6) acid damage at the start of each of the toad's turns. The toad can have\
     \ only one target swallowed at a time.\n\nIf the toad dies, a swallowed creature\
     \ is no longer [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]] by it\

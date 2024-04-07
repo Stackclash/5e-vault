@@ -24,7 +24,7 @@ Your fire spells and cantrips deal their maximum damage. Also, whenever you cast
 
 ## Fire Armor
 
-You are always protected by an invisible [[5. Mechanics/Spells/Fire Shield.md\|fire shield]] spell. Whenever you take damage from a melee attack, your fire armor erupts in flame, revealing itself and dealing damage to the attacker in equal amount to the damage taken (instead of `dice: 2d8|avg` (`2d8`)).
+You are always protected by an invisible [[5. Mechanics/Spells/Fire Shield.md\|fire shield]] spell. Whenever you take damage from a melee attack, your fire armor erupts in flame, revealing itself and dealing damage to the attacker in equal amount to the damage taken (instead of `dice: 2d8|avg|noform` (`2d8`)).
 
 ## Ward of Fire
 

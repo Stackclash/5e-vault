@@ -24,6 +24,6 @@ This helmet has 11 charges. While wearing this helm, you spend an action to expe
 - For the next hour you gain resistance to cold, fire, and poison damage (2 charges).  
 - You may target a devil with a CR less than 20 that you can see within 60 feet of you. That devil must succeed on a DC 21 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] by you for 1 hour. While [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] by you, that devil must obey any command you give it that is not directly harmful to it. If a devil succeeds on the saving throw, it is immune to this ability for the next 24 hours (3 charges).  
 
-This helmet regains `dice: 1d10|avg` (`1d10`) charges at dawn.
+This helmet regains `dice: 1d10|avg|noform` (`1d10`) charges at dawn.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 130, Hamund's Harvesting Handbook: Volume III p. 90*

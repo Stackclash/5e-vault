@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Between Adventures"]
+  - compendium/src/5e/dmg
+aliases:
+  - Between Adventures
 ---
 # Between Adventures
 *Source: Dungeon Master's Guide, p. 125* 
@@ -113,7 +114,7 @@ Keep notes whenever you create or significantly alter a monster, magic item, or 
 
 Besides the expenses associated with maintaining a particular lifestyle, adventurers might have additional drains on their adventuring income. Player characters who come into possession of property, own businesses, and employ hirelings must cover the expenses that accompany these ventures.
 
-![Recurring Expenses; Maintenance Costs](compendium/tables/recurring-expenses-maintenance-costs.md)
+![[5. Mechanics/Tables/Recurring Expenses Maintenance Costs.md\|Recurring Expenses; Maintenance Costs]]
 
 It's not unusual for adventurers-especially after 10th level-to gain possession of a castle, a tavern, or another piece of property. They might buy it with their hard-won loot, take it by force, obtain it in a lucky draw from a *deck of many things*, or acquire it by other means.
 

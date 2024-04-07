@@ -11,7 +11,6 @@ aliases:
   - Infernal Calling
 ---
 # Infernal Calling
-%%-- Embedded content starts on the next line. --%%
 *5th-level, Conjuration*  
 ![[5. Mechanics/Spells/img/infernal-calling.webp#right]]  
 
@@ -26,7 +25,7 @@ The devil is unfriendly toward you and your companions. Roll initiative for the 
 
 On each of your turns, you can try to issue a verbal command to the devil (no action required by you). It obeys the command if the likely outcome is in accordance with its desires, especially if the result would draw you toward evil. Otherwise, you must make a Charisma ([[/5. Mechanics/Rules/Skills.md#Deception\|Deception]], [[/5. Mechanics/Rules/Skills.md#Intimidation\|Intimidation]], or [[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]) check contested by its Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight\|Insight]]) check. You make the check with advantage if you say the devil's true name. If your check fails, the devil becomes immune to your verbal commands for the duration of the spell, though it can still carry out your commands if it chooses. If your check succeeds, the devil carries out your command—such as "attack my enemies," "explore the room ahead," or "bear this message to the queen"—until it completes the activity, at which point it returns to you to report having done so.
 
-If your [[/5. Mechanics/Rules/Conditions.md#concentration\|concentration]] ends before the spell reaches its full duration, the devil doesn't disappear if it has become immune to your verbal commands. Instead, it acts in whatever manner it chooses for `dice: 3d6|avg` (`3d6`) minutes, and then it disappears.
+If your [[/5. Mechanics/Rules/Conditions.md#concentration\|concentration]] ends before the spell reaches its full duration, the devil doesn't disappear if it has become immune to your verbal commands. Instead, it acts in whatever manner it chooses for `dice: 3d6|avg|noform` (`3d6`) minutes, and then it disappears.
 
 If you possess an individual devil's talisman, you can summon that devil if it is of the appropriate challenge rating plus 1, and it obeys all your commands, with no Charisma checks required.
 

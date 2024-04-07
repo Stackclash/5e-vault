@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Vulture
 ---
-# [[5. Mechanics\Bestiary\Beast\Vulture.md|Vulture]]
+# [[5. Mechanics/Bestiary/Beast/Vulture.md|Vulture]]
 *Source: Monster Manual p. 339. Available in the SRD and the Basic Rules.*
 
 ```statblock
@@ -46,8 +46,8 @@ aliases:
     \ [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
   "name": "Pack Tactics"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4|avg (1d4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+2 (+2) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d4|text(2) (1d4) piercing damage."
   "name": "Beak"
 "source":
 - "MM"

@@ -17,7 +17,7 @@ aliases:
 |-----------|-------------------|
 | 1–5 | The character causes a random effect from the [[5. Mechanics/Tables/Wild Magic Surge.md\|Wild Magic Surge]] table in the "Player's Handbook". |
 | 6–7 | The character is [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] of all creatures until the end of their next turn. |
-| 8–9 | A number (`dice: 2d4\|avg` (`2d4`)) of the Staring Cats of Uldun-dar appear within 30 feet of the character. These sapient, hyperdimensional [[5. Mechanics/Bestiary/Beast/Cat.md\|cats]] have uneven numbers of eyes and are not hostile, but they ominously share reports on how the character died in multiple parallel dimensions. The cats vanish after the character's next long rest. |
+| 8–9 | A number (`dice: 2d4\|avg|noform` (`2d4`)) of the Staring Cats of Uldun-dar appear within 30 feet of the character. These sapient, hyperdimensional [[5. Mechanics/Bestiary/Beast/Cat.md\|cats]] have uneven numbers of eyes and are not hostile, but they ominously share reports on how the character died in multiple parallel dimensions. The cats vanish after the character's next long rest. |
 | 10–11 | The character and the creature nearest them both teleport up to 60 feet to random unoccupied spaces of the DM's choice. When they reappear, they are covered in harmless ectoplasm. |
 | 12 | The character broadcasts their surface thoughts for 1 round, as if all creatures within 30 feet of them had cast [[5. Mechanics/Spells/Detect Thoughts.md\|detect thoughts]] targeting them. |
 | 13–14 | A spectral Eye of Hazlik appears, hovering over the character for 1 hour. The eye functions as detailed in the ""The Eye of Hazlik"" section. |

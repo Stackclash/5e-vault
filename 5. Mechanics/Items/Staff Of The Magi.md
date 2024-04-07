@@ -23,7 +23,7 @@ aliases:
 
 This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. While you hold it, you gain a +2 bonus to spell attack rolls.
 
-The staff has 50 charges for the following properties. It regains `dice: 4d6 + 2|avg` (`4d6 + 2`) expended charges daily at dawn. If you expend the last charge, roll a `dice: d20|avg` (`d20`). On a 20, the staff regains `dice: 1d12 + 1|avg` (`1d12 + 1`) charges.
+The staff has 50 charges for the following properties. It regains `dice: 4d6 + 2|avg|noform` (`4d6 + 2`) expended charges daily at dawn. If you expend the last charge, roll a `dice: d20|avg|noform` (`d20`). On a 20, the staff regains `dice: 1d12 + 1|avg|noform` (`1d12 + 1`) charges.
 
 ## Spell Absorption
 

@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Pentadrone
 ---
-# [[5. Mechanics\Bestiary\Construct\Pentadrone.md|Pentadrone]]
+# [[5. Mechanics/Bestiary/Construct/Pentadrone.md|Pentadrone]]
 *Source: Monster Manual p. 226*
 
 Pentadrones oversee Mechanus's worker populace and can improvise in response to new situations.
@@ -53,6 +53,7 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
 "type": "construct"
 "alignment": "Lawful Neutral"
 "ac": !!int "16"
+"ac_class": "natural armor"
 "hp": !!int "32"
 "hit_dice": "5d10 + 5"
 "stats":
@@ -78,8 +79,8 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
 "actions":
 - "desc": "The pentadrone makes five arm attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 2|text(5) (1d6 + 2) bludgeoning damage."
   "name": "Arm"
 - "desc": "The pentadrone exhales a 30-foot cone of gas. Each creature in that area\
     \ must succeed on a DC 11 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\

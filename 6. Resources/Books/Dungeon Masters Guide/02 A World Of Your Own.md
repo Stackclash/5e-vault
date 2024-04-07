@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["A World of Your Own"]
+  - compendium/src/5e/dmg
+aliases:
+  - A World of Your Own
 ---
 # A World of Your Own
 *Source: Dungeon Master's Guide, p. 9* 
@@ -90,7 +91,7 @@ This pantheon draws in several nonhuman deities and establishes them as universa
 
 Several of the gods are drawn from other pantheons, sometimes with new names for the gods. Bane comes from the Forgotten Realms. From Greyhawk come Kord, Pelor, Tharizdun, and Vecna. From the Greek pantheon come Athena (renamed Erathis) and Tyche (renamed Avandra), though both are altered. Set (renamed Zehir) comes from the Egyptian pantheon. The Raven Queen is akin to the Norse pantheon's Hel and Greyhawk's Wee Jas. That leaves three gods created from scratch: Ioun, Melora, and Torog.
 
-![A Sample Pantheon; Dawn War Deities](compendium/tables/a-sample-pantheon-dawn-war-deities.md)
+![[5. Mechanics/Tables/A Sample Pantheon Dawn War Deities.md\|A Sample Pantheon; Dawn War Deities]]
 
 ### Other Religious Systems
 
@@ -403,7 +404,7 @@ Conquerors and representatives of another government wield power, ruling the set
 
 Rulership falls to a direct representative or a collection of agents of a deity. The centers of power in a theocracy are usually located on sacred sites. In the Eberron campaign setting, the nation of Thrane is a theocracy devoted to the Silver Flame, a divine spirit that resides in Thrane's capital of Flamekeep.
 
-![[Government Sample Hierarchy Of Noble Titles|Government; Sample Hierarchy of Noble Titles]]
+![[5. Mechanics/Tables/Government Sample Hierarchy Of Noble Titles.md\|Government; Sample Hierarchy of Noble Titles]]
 
 ### Commerce
 
@@ -726,7 +727,7 @@ Eras are often defined by the prominent leaders, innovators, and tyrants of the 
 
 Determine the kind of leader that influences the new or passing era. You can choose the type of leader or determine one randomly using the Leader Types table.
 
-![Rise or Fall of a Leader or an Era; Leader Types](compendium/tables/rise-or-fall-of-a-leader-or-an-era-leader-types.md)
+![[5. Mechanics/Tables/Rise Or Fall Of A Leader Or An Era Leader Types.md\|Rise or Fall of a Leader or an Era; Leader Types]]
 
 Political leaders are monarchs, nobles, and chiefs. Religious leaders include deities' avatars, high priests, and messiahs, as well as those in charge of monasteries and leaders of influential religious sects. Major military leaders control the armed forces of countries. They include military dictators, warlords, and the heads of a ruler's war council. Minor military leaders include the heads of local militias, gangs, and other martial organizations. At the broadest scale, a criminal or underworld leader wields power through a network of spies, bribes, and black-market trade. On the smallest scale, these are local gang bosses, pirate captains, and brigands. A leader in art or culture is a virtuoso whose work reflects the spirit of the age and changes the way people think: a prominent playwright, bard, or court fool in whose words, art, or performance the people perceive universal truth. On a smaller scale, this might be an influential local poet, minstrel, satirist, or sculptor.
 
@@ -787,7 +788,7 @@ Imagine that part of your campaign world is attacked or invaded. Depending on th
 
 Define the aggressor and whether it represents a known enemy or a previously unknown adversary. Select a threat that already poses a danger to the area you've chosen, or use the Invading Forces table to determine the aggressor.
 
-![Assault or Invasion; Invading Forces](compendium/tables/assault-or-invasion-invading-forces.md)
+![[5. Mechanics/Tables/Assault Or Invasion Invading Forces.md\|Assault or Invasion; Invading Forces]]
 
 Now consider these other aspects of the conflict:
 
@@ -851,7 +852,7 @@ A discovery is particularly impressive when the adventurers in your campaign are
 
 Decide on the type of discovery that is made or use the Discoveries table to generate ideas.
 
-![Discovery, Expansion, Invention; Discoveries](compendium/tables/discovery-expansion-invention-discoveries.md)
+![[5. Mechanics/Tables/Discovery Expansion Invention Discoveries.md\|Discovery, Expansion, Invention; Discoveries]]
 
 Once you have determined the type of discovery, flesh it out by deciding exactly what it is, who discovered it, and what potential effect it could have on the world. Ideally, previous adventures in your campaign will help you fill in the blanks, but also keep the following in mind:
 
@@ -878,7 +879,7 @@ Imagine that a world-shaking prophecy comes to light. If events continue on thei
 
 If wars, plagues, discoveries, and the like can be called regular world-shaking events, mythic events exceed and surpass them. A mythic event might occur as the fulfillment of an ancient or long-forgotten prophecy, or it might be an act of divine intervention.
 
-Once again, your current campaign probably provides a few ideas for the shape of this event. If you need inspiration, roll a `dice: d8|avg` (`d8`) on the World-Shaking Events table, instead of the normal `dice: d10|avg` (`d10`). Address the bullet-point notes for that disaster, but magnify the result to the grandest scale you can imagine.
+Once again, your current campaign probably provides a few ideas for the shape of this event. If you need inspiration, roll a `dice: d8|avg|noform` (`d8`) on the World-Shaking Events table, instead of the normal `dice: d10|avg|noform` (`d10`). Address the bullet-point notes for that disaster, but magnify the result to the grandest scale you can imagine.
 
 The rise or fall of a leader or era is the death or birth of a god, or the end of an age or the world. A cataclysmic disaster is a world-drowning deluge, an ice age, or a zombie apocalypse. An assault or invasion is a world war, a world-spanning demonic incursion, the awakening of a world-threatening monster, or the final clash between good and evil. A rebellion dethrones a god or gods, or raises a new force (such as a demon lord) to divinity. A new organization is a world-spanning empire or a pantheon of new gods. A discovery is a doomsday device or a portal to eldritch dimensions where world-shattering cosmic horrors dwell.
 
@@ -1049,7 +1050,7 @@ Experienced players familiar with the capabilities of the character classes and 
 
 Starting equipment for characters above 1st level is entirely at your discretion, since you give out treasure at your own pace. That said, you can use the Starting Equipment table as a guide.
 
-![Starting at Higher Level; Starting Equipment](compendium/tables/starting-at-higher-level-starting-equipment.md)
+![[5. Mechanics/Tables/Starting At Higher Level Starting Equipment.md\|Starting at Higher Level; Starting Equipment]]
 
 ## Flavors of Fantasy
 

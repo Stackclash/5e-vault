@@ -17,7 +17,7 @@ statblock: inline
 aliases:
   - Lost Sorrowsworn
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Lost Sorrowsworn.md|Lost Sorrowsworn]]
+# [[5. Mechanics/Bestiary/Monstrosity/Lost Sorrowsworn.md|Lost Sorrowsworn]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 224, Mordenkainen's Tome of Foes p. 233*
 
 The Shadowfell turns visitors around until they become marooned in its twisted landscape. Lost sorrowsworn—often referred to as the Lost—are representations of the anxiety and fear people experience when they can't find their way. These sorrowsworn appear desperate and panicked.
@@ -34,6 +34,7 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
 "type": "monstrosity"
 "alignment": "Typically  Neutral Evil"
 "ac": !!int "15"
+"ac_class": "natural armor"
 "hp": !!int "78"
 "hit_dice": "12d8 + 24"
 "stats":
@@ -53,19 +54,19 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
 "actions":
 - "desc": "The sorrowsworn makes two Arm Spike attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d10 + 3|avg (2d10 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 10 ft., one target.\
+    \ Hit: dice:2d10 + 3|text(14) (2d10 + 3) piercing damage."
   "name": "Arm Spike"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 4d10 + 3|avg (4d10 + 3) piercing damage, and the target is\
-    \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 14) if it is\
-    \ a Medium or smaller creature. Until the grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]],\
-    \ and it takes dice: 6d8|avg (6d8) psychic damage at the end of each of its\
-    \ turns. The sorrowsworn can grapple only one creature at a time."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:4d10 + 3|text(25) (4d10 + 3) piercing damage, and the target\
+    \ is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 14) if it\
+    \ is a Medium or smaller creature. Until the grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]],\
+    \ and it takes dice:6d8|text(27) (6d8) psychic damage at the end of each of\
+    \ its turns. The sorrowsworn can grapple only one creature at a time."
   "name": "Embrace (Recharge 4-6)"
 "reactions":
 - "desc": "If the sorrowsworn takes damage, the creature [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ by Embrace takes dice: 4d8|avg (4d8) psychic damage."
+    \ by Embrace takes dice:4d8|text(18) (4d8) psychic damage."
   "name": "Tightening Embrace"
 "source":
 - "MPMM"

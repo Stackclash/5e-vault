@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Step-by-Step Characters"]
+  - compendium/src/5e/phb
+aliases:
+  - Step-by-Step Characters
 ---
 # Step-by-Step Characters
 *Source: Player's Handbook, p. 11* 
@@ -162,7 +163,7 @@ You have 27 points to spend on your ability scores. The cost of each score is sh
 
 This method of determining ability scores enables you to create a set of three high numbers and three low ones (15, 15, 15, 8, 8, 8), a set of numbers that are above average and nearly equal (13, 13, 13, 12, 12, 12), or any set of numbers between those extremes.
 
-![Variant: Customizing Ability Scores; Ability Score Point Cost](compendium/tables/variant-customizing-ability-scores-ability-score-point-cost.md)
+![[5. Mechanics/Tables/Variant Customizing Ability Scores Ability Score Point Cost.md\|Variant: Customizing Ability Scores; Ability Score Point Cost]]
 
 ![[5. Mechanics/Tables/Ability Scores And Modifiers.md\|Ability Scores and Modifiers]]
 
@@ -275,4 +276,4 @@ The shading in the Character Advancement table shows the four tiers of play. The
 
 **At the fourth tier (levels 17-20),** characters achieve the pinnacle of their class features, becoming heroic (or villainous) archetypes in their own right. The fate of the world or even the fundamental order of the multiverse might hang in the balance during their adventures.
 
-![Beyond 1st Level; Character Advancement](compendium/tables/beyond-1st-level-character-advancement.md)
+![[5. Mechanics/Tables/Beyond 1st Level Character Advancement.md\|Beyond 1st Level; Character Advancement]]

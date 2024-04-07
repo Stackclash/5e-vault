@@ -24,11 +24,11 @@ As a Psi Warrior, you might have honed your psionic abilities through solo disci
 
 *3rd-level Psi Warrior feature*
 
-You harbor a wellspring of psionic energy within yourself. This energy is represented by your Psionic Energy dice, which are each a `dice: d6|avg` (`d6`). You have a number of these dice equal to twice your proficiency bonus, and they fuel various psionic powers you have, which are detailed below.
+You harbor a wellspring of psionic energy within yourself. This energy is represented by your Psionic Energy dice, which are each a `dice: d6|avg|noform` (`d6`). You have a number of these dice equal to twice your proficiency bonus, and they fuel various psionic powers you have, which are detailed below.
 
 Some of your powers expend the Psionic Energy die they use, as specified in a power's description, and you can't use a power if it requires you to use a die when your dice are all expended. You regain all your expended Psionic Energy dice when you finish a long rest. In addition, as a bonus action, you can regain one expended Psionic Energy die, but you can't do so again until you finish a short or long rest.
 
-When you reach certain levels in this class, the size of your Psionic Energy dice increases: at 5th level (`dice: d8|avg` (`d8`)), 11th level (`dice: d10|avg` (`d10`)), and 17th level (`dice: d12|avg` (`d12`)).
+When you reach certain levels in this class, the size of your Psionic Energy dice increases: at 5th level (`dice: d8|avg|noform` (`d8`)), 11th level (`dice: d10|avg|noform` (`d10`)), and 17th level (`dice: d12|avg|noform` (`d12`)).
 
 The powers below use your Psionic Energy dice.
 

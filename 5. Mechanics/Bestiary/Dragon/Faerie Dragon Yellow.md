@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Faerie Dragon (Yellow)
 ---
-# [[5. Mechanics\Bestiary\Dragon\Faerie Dragon Yellow.md|Faerie Dragon (Yellow)]]
+# [[5. Mechanics/Bestiary/Dragon/Faerie Dragon Yellow.md|Faerie Dragon (Yellow)]]
 *Source: Monster Manual p. 133*
 
 A faerie dragon is a cat-sized dragon with butterfly wings. It wears a sharp-toothed grin and expresses its delight by the twitching of its tail, its merriment fading only if it is attacked.
@@ -90,17 +90,17 @@ CR 1 (200 XP) For a red, orange, or yellow faerie dragon; 2 (450 XP) for a green
     \ magical effects."
   "name": "Magic Resistance"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one creature.\
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one creature.\
     \ Hit: 1 piercing damage."
   "name": "Bite"
 - "desc": "The dragon exhales a puff of euphoria gas at one creature within 5 feet\
     \ of it. The target must succeed on a DC 11 Wisdom saving throw, or for 1 minute,\
-    \ the target can't take reactions and must roll a dice: d6|avg (d6) at the\
-    \ start of each of its turns to determine its behavior during the turn:\n\n1–\
-    4. The target takes no action or bonus action and uses all of its movement to\
-    \ move in a random direction.\n\n5–6. The target doesn't move, and the only thing\
-    \ it can do on its turn is make a DC 11 Wisdom saving throw, ending the effect\
-    \ on itself on a success."
+    \ the target can't take reactions and must roll a dice: d6|avg|noform (d6)\
+    \ at the start of each of its turns to determine its behavior during the turn:\n\
+    \n1–4. The target takes no action or bonus action and uses all of its movement\
+    \ to move in a random direction.\n\n5–6. The target doesn't move, and the only\
+    \ thing it can do on its turn is make a DC 11 Wisdom saving throw, ending the\
+    \ effect on itself on a success."
   "name": "Euphoria Breath (Recharge 5-6)"
 "source":
 - "MM"

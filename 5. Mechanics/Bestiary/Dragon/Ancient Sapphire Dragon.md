@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Ancient Sapphire Dragon
 ---
-# [[5. Mechanics\Bestiary\Dragon\Ancient Sapphire Dragon.md|Ancient Sapphire Dragon]]
+# [[5. Mechanics/Bestiary/Dragon/Ancient Sapphire Dragon.md|Ancient Sapphire Dragon]]
 *Source: Strongholds and Followers p. 213*
 
 Eldest, first, the sapphire dragons inspire awe in any who see them. They guard the knowledge of past and future and the power that lets one shift between them. They approve of the dwarves, who imposed the rigid rules of causality on the world, and consider the remnant domains of the elves, the wodes, as a danger. Not a threat per se, because they know it is in the elves' nature to ignore past and future, but when mortals exploit this or discover the means to move through time, or summon creatures from the past and future, then the sapphire dragons get riled up.
@@ -25,6 +25,7 @@ Being oldest, they are also the most reserved, taciturn. Even the young sapphire
 "type": "dragon"
 "alignment": "Neutral"
 "ac": !!int "23"
+"ac_class": "natural armor"
 "hp": !!int "350"
 "hit_dice": "28d20 + 56"
 "stats":
@@ -54,7 +55,8 @@ Being oldest, they are also the most reserved, taciturn. Even the young sapphire
 "cr": "24"
 "traits":
 - "desc": ". . [[/5. Mechanics/Rules/Variant Rules/Gemstone Dragon Psionics.md|Gemstone Dragon Psionics]].\
-    \ Charges: 28 • Recharge: dice: 1d10|avg (1d10) • Fracture: 35"
+    \ Charges: 28 • Recharge: dice: 1d10|avg|noform (1d10) • Fracture:\
+    \ 35"
   "name": ""
 - "desc": "If the dragon fails a saving throw, it can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
@@ -66,14 +68,14 @@ Being oldest, they are also the most reserved, taciturn. Even the young sapphire
 "actions":
 - "desc": "The dragon makes three attacks: one with its bite and two with its claws."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+14 (+14 to hit), reach 15 ft., one target.\
-    \ Hit: dice: 2d10 + 7|avg (2d10 + 7) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+14 (+14) to hit, reach 15 ft., one\
+    \ target. Hit: dice:2d10 + 7|text(18) (2d10 + 7) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+14 (+14 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d6 + 7|avg (2d6 + 7) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+14 (+14) to hit, reach 10 ft., one\
+    \ target. Hit: dice:2d6 + 7|text(14) (2d6 + 7) slashing damage."
   "name": "Claw"
-- "desc": "Melee Weapon Attack: dice: d20+14 (+14 to hit); reach 20 ft., one target.\
-    \ Hit: dice: 2d8 + 7|avg (2d8 + 7) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+14 (+14) to hit; reach 20 ft., one\
+    \ target. Hit: dice:2d8 + 7|text(16) (2d8 + 7) bludgeoning damage."
   "name": "Tail"
 "legendary_actions":
 - "desc": "The dragon makes a Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
@@ -82,8 +84,8 @@ Being oldest, they are also the most reserved, taciturn. Even the young sapphire
 - "desc": "The dragon uses a [[5. Mechanics/Optional Features/List Psionic Manifestation.md|psionic ability]]."
   "name": "Psionics"
 - "desc": "The dragon releases a wave of telekinetic energy from its mind. Every creature\
-    \ within 15 feet must make a DC 24 Intelligence saving throw or take dice: 2d6\
-    \ + 8|avg (2d6 + 8) force damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
+    \ within 15 feet must make a DC 24 Intelligence saving throw or take dice:2d6\
+    \ + 8|text(15) (2d6 + 8) force damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
     \ The dragon then can move up to half its movement speed."
   "name": "Psionic Shift (Costs 2 Actions)"
 "lair_actions":

@@ -45,7 +45,7 @@ As an action, you can draw a card from the deck and twist the fortune of another
 
 ## Prisoners of Fate
 
-Whenever you use the Twist of Fate property, there is a chance that one of the souls trapped in the deck escapes. Roll `dice: d100|avg` (`d100`) and consult the Souls of the Tarokka table. If you roll one of the high cards, the soul associated with it escapes. You can find its statistics in the "Monster Manual". If you roll a soul that has already escaped, roll again.
+Whenever you use the Twist of Fate property, there is a chance that one of the souls trapped in the deck escapes. Roll `dice: d100|avg|noform` (`d100`) and consult the Souls of the Tarokka table. If you roll one of the high cards, the soul associated with it escapes. You can find its statistics in the "Monster Manual". If you roll a soul that has already escaped, roll again.
 
 **Souls of the Tarokka**
 
@@ -70,7 +70,7 @@ Whenever you use the Twist of Fate property, there is a chance that one of the s
 | 15-100 | — | — |
 ^souls-of-the-tarokka
 
-The released soul appears at a random location within `dice: 10d10|avg` (`10d10`) miles of you and terrorizes the living. Until the released soul is destroyed, it gains the benefit of a weal from the deck's Twist of Fate property, and both you and the original target of Twist of Fate suffer the effect of woe.
+The released soul appears at a random location within `dice: 10d10|avg|noform` (`10d10`) miles of you and terrorizes the living. Until the released soul is destroyed, it gains the benefit of a weal from the deck's Twist of Fate property, and both you and the original target of Twist of Fate suffer the effect of woe.
 
 ## Shuffling Fate
 

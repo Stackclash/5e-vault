@@ -13,8 +13,8 @@ aliases:
 
 | Monster CR | # Arrows |
 |------------|----------|
-| 1–5 | `dice: 1d6\|avg` (`1d6`) |
-| 6–9 | `dice: 1d4\|avg` (`1d4`) |
+| 1–5 | `dice: 1d6\|avg|noform` (`1d6`) |
+| 6–9 | `dice: 1d4\|avg|noform` (`1d4`) |
 | 10–14 | 2 |
 | 15 + | 1 |
 ^arrows-of-slaying

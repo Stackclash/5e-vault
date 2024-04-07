@@ -32,6 +32,6 @@ title: Cannon
 
 ## Actions
 
-***Cannon Ball.*** *Ranged Weapon Attack:* +6 to hit, range 600/2,400 ft., one target. *Hit:* 44 (`dice: 8d10|avg` (`8d10`)) bludgeoning damage.
+***Cannon Ball.*** *Ranged Weapon Attack:* `dice: d20+6` (`+6`) to hit, range 600/2,400 ft., one target. *Hit:* 44 (`dice: 8d10|avg|noform` (`8d10`)) bludgeoning damage.
 ```
 ^statblock

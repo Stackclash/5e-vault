@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Acolyte of Darkness
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Acolyte Of Darkness.md|Acolyte of Darkness]]
+# [[5. Mechanics/Bestiary/Humanoid/Acolyte Of Darkness.md|Acolyte of Darkness]]
 *Source: Strongholds and Followers p. 76*
 
 ```statblock
@@ -20,6 +20,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "15"
+"ac_class": "Medium"
 "stats":
 - !!int "14"
 - !!int "18"
@@ -45,8 +46,8 @@ aliases:
 - "desc": "This creature is a Retainer, as described in \"Strongholds and Followers\""
   "name": "Retainer"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4 + 2|avg (2d4 + 2) bludgeoning damage.\n\nAt 7th level,\
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d4 + 2|text(9) (2d4 + 2) bludgeoning damage.\n\nAt 7th level,\
     \ retainers can take two signature attacks per round."
   "name": "Signature Attack"
 - "desc": "Prerequisite: 3rd-level retainer\n\nThe Acolyte of Darkness casts the\

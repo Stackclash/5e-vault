@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/xge
-aliases: ["Introduction"]
+  - compendium/src/5e/xge
+aliases:
+  - Introduction
 ---
 # Introduction
 *Source: Xanathar's Guide to Everything, p. 4* 

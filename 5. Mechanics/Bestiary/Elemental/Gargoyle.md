@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Gargoyle
 ---
-# [[5. Mechanics\Bestiary\Elemental\Gargoyle.md|Gargoyle]]
+# [[5. Mechanics/Bestiary/Elemental/Gargoyle.md|Gargoyle]]
 *Source: Monster Manual p. 140, Curse of Strahd, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*
 
 The inanimate gargoyles that perch atop great buildings are inspired by these malevolent creatures of elemental earth that resemble grotesque, fiendish statues. A gargoyle lurks among masonry and ruins, as still as any stone sculpture, and delights in the terror it creates when it breaks from its suspended pose, as well as the pain it inflicts on its victims.
@@ -50,6 +50,7 @@ A gargoyle doesn't require air, food, drink, or sleep.
 "type": "elemental"
 "alignment": "Chaotic Evil"
 "ac": !!int "15"
+"ac_class": "natural armor"
 "hp": !!int "52"
 "hit_dice": "7d8 + 21"
 "stats":
@@ -75,11 +76,11 @@ A gargoyle doesn't require air, food, drink, or sleep.
 "actions":
 - "desc": "The gargoyle makes two attacks: one with its bite and one with its claws."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 2|text(5) (1d6 + 2) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 2|text(5) (1d6 + 2) slashing damage."
   "name": "Claws"
 "source":
 - "MM"

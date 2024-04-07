@@ -10,7 +10,6 @@ aliases:
   - Prismatic Wall
 ---
 # Prismatic Wall
-%%-- Embedded content starts on the next line. --%%
 *9th-level, Abjuration*  
 
 - **Casting time:** 1 action
@@ -28,23 +27,23 @@ The wall can be destroyed, also one layer at a time, in order from red to violet
 
 ## Red
 
-The creature takes `dice: 10d6|avg` (`10d6`) fire damage on a failed save, or half as much damage on a successful one. While this layer is in place, nonmagical ranged attacks can't pass through the wall. The layer can be destroyed by dealing at least 25 cold damage to it.
+The creature takes `dice: 10d6|avg|noform` (`10d6`) fire damage on a failed save, or half as much damage on a successful one. While this layer is in place, nonmagical ranged attacks can't pass through the wall. The layer can be destroyed by dealing at least 25 cold damage to it.
 
 ## Orange
 
-The creature takes `dice: 10d6|avg` (`10d6`) acid damage on a failed save, or half as much damage on a successful one. While this layer is in place, magical ranged attacks can't pass through the wall. The layer is destroyed by a strong wind.
+The creature takes `dice: 10d6|avg|noform` (`10d6`) acid damage on a failed save, or half as much damage on a successful one. While this layer is in place, magical ranged attacks can't pass through the wall. The layer is destroyed by a strong wind.
 
 ## Yellow
 
-The creature takes `dice: 10d6|avg` (`10d6`) lightning damage on a failed save, or half as much damage on a successful one. This layer can be destroyed by dealing at least 60 force damage to it.
+The creature takes `dice: 10d6|avg|noform` (`10d6`) lightning damage on a failed save, or half as much damage on a successful one. This layer can be destroyed by dealing at least 60 force damage to it.
 
 ## Green
 
-The creature takes `dice: 10d6|avg` (`10d6`) poison damage on a failed save, or half as much damage on a successful one. A [[5. Mechanics/Spells/Passwall.md\|passwall]] spell, or another spell of equal or greater level that can open a portal on a solid surface, destroys this layer.
+The creature takes `dice: 10d6|avg|noform` (`10d6`) poison damage on a failed save, or half as much damage on a successful one. A [[5. Mechanics/Spells/Passwall.md\|passwall]] spell, or another spell of equal or greater level that can open a portal on a solid surface, destroys this layer.
 
 ## Blue
 
-The creature takes `dice: 10d6|avg` (`10d6`) cold damage on a failed save, or half as much damage on a successful one. This layer can be destroyed by dealing at least 25 fire damage to it.
+The creature takes `dice: 10d6|avg|noform` (`10d6`) cold damage on a failed save, or half as much damage on a successful one. This layer can be destroyed by dealing at least 25 fire damage to it.
 
 ## Indigo
 

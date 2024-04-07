@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Duergar Mind Master
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Duergar Mind Master.md|Duergar Mind Master]]
+# [[5. Mechanics/Bestiary/Humanoid/Duergar Mind Master.md|Duergar Mind Master]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 108, Mordenkainen's Tome of Foes p. 189*
 
 Wearing fearsome masks, duergar mind masters usually operate as spies, both inside and beyond a duergar stronghold. Their psionically augmented abilities enable them to see through illusions with ease and shrink down to miniature size to spy on their targets.
@@ -44,6 +44,7 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 "subtype": "dwarf"
 "alignment": "Any alignment"
 "ac": !!int "14"
+"ac_class": "[[5. Mechanics/Items/Leather Armor.md|leather armor]]"
 "hp": !!int "39"
 "hit_dice": "6d8 + 12"
 "stats":
@@ -76,10 +77,10 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 - "desc": "The duergar makes two Mind-Poison Dagger attacks. It can replace one attack\
     \ with a use of Mind Mastery."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) piercing damage plus dice: 3d6|avg\
-    \ (3d6) psychic damage, or 1 piercing damage plus dice: 3d6|avg (3d6) psychic\
-    \ damage while under the effect of Reduce."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d4 + 3|text(5) (1d4 + 3) piercing damage plus dice:3d6|text(10)\
+    \ (3d6) psychic damage, or 1 piercing damage plus dice:3d6|text(10) (3d6)\
+    \ psychic damage while under the effect of Reduce."
   "name": "Mind-Poison Dagger"
 - "desc": "The duergar magically turns [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]]\
     \ for up to 1 hour or until it attacks, it forces a creature to make a saving\

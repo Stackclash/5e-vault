@@ -38,7 +38,7 @@ At 1st level, you gain proficiency with martial weapons and heavy armor.
 
 ### Wrath of the Storm (Level 1)
 
-Also at 1st level, you can thunderously rebuke attackers. When a creature within 5 feet of you that you can see hits you with an attack, you can use your reaction to cause the creature to make a Dexterity saving throw. The creature takes `dice: 2d8|avg` (`2d8`) lightning or thunder damage (your choice) on a failed saving throw, and half as much damage on a successful one.
+Also at 1st level, you can thunderously rebuke attackers. When a creature within 5 feet of you that you can see hits you with an attack, you can use your reaction to cause the creature to make a Dexterity saving throw. The creature takes `dice: 2d8|avg|noform` (`2d8`) lightning or thunder damage (your choice) on a failed saving throw, and half as much damage on a successful one.
 
 You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.
 
@@ -54,14 +54,14 @@ At 6th level, when you deal lightning damage to a Large or smaller creature, you
 
 ### Divine Strike (Level 8)
 
-At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice: 1d8|avg` (`1d8`) thunder damage to the target. When you reach 14th level, the extra damage increases to `dice: 2d8|avg` (`2d8`).
+At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice: 1d8|avg|noform` (`1d8`) thunder damage to the target. When you reach 14th level, the extra damage increases to `dice: 2d8|avg|noform` (`2d8`).
 
 ### Blessed Strikes (Level 8)
 _Source: Tasha's Cauldron of Everything p. 30_
 
 *8th-level cleric [[/5. Mechanics/Rules/Variant Rules/Optional Class Features.md\|optional class features]], which replaces the Divine Strike feature*
 
-You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice: 1d8|avg` (`1d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
+You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice: 1d8|avg|noform` (`1d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 
 ### Stormborn (Level 17)
 

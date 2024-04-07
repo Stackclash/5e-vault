@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Hobgoblin Devastator
 ---
-# [[5. Mechanics\Bestiary\Fey\Hobgoblin Devastator.md|Hobgoblin Devastator]]
+# [[5. Mechanics/Bestiary/Fey/Hobgoblin Devastator.md|Hobgoblin Devastator]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 153, Volo's Guide to Monsters p. 161*
 
 Hobgoblins with a prodigious talent for magic sometimes undergo grueling training to become hobgoblin devastators. Devastators are spellcasters who call down fireballs and other destructive magic in the defense of the court they serve, whether that court is in the Feywild or the Material Plane. A hobgoblin devastator on the battlefield is a boon to their allies and a threat to every foe around them.
@@ -34,6 +34,7 @@ In the Feywild, many archfey seek to bolster their armies' might with the servic
 "subtype": "goblinoid"
 "alignment": "Typically  Lawful Neutral"
 "ac": !!int "13"
+"ac_class": "[[5. Mechanics/Items/Studded Leather Armor.md|studded leather]]"
 "hp": !!int "45"
 "hit_dice": "7d8 + 14"
 "stats":
@@ -65,13 +66,13 @@ In the Feywild, many archfey seek to bolster their armies' might with the servic
 "actions":
 - "desc": "The hobgoblin makes two Quarterstaff or Devastating Bolt attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 1|avg (1d6 + 1) bludgeoning damage, or dice: 1d8 + 1|avg\
-    \ (1d8 + 1) bludgeoning damage if used with two hands, plus dice: 3d8|avg\
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 1|text(4) (1d6 + 1) bludgeoning damage, or dice:1d8 +\
+    \ 1|text(5) (1d8 + 1) bludgeoning damage if used with two hands, plus dice:3d8|text(13)\
     \ (3d8) force damage."
   "name": "Quarterstaff"
-- "desc": "Ranged Spell Attack: dice: d20+5 (+5 to hit), range 60 ft., one target.\
-    \ Hit: dice: 4d8 + 3|avg (4d8 + 3) force damage, and the target is knocked\
+- "desc": "Ranged Spell Attack: dice: d20+5 (+5) to hit, range 60 ft., one target.\
+    \ Hit: dice:4d8 + 3|text(21) (4d8 + 3) force damage, and the target is knocked\
     \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Devastating Bolt"
 "source":

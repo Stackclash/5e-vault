@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Deep Gnome (Svirfneblin)
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Deep Gnome Svirfneblin.md|Deep Gnome (Svirfneblin)]]
+# [[5. Mechanics/Bestiary/Humanoid/Deep Gnome Svirfneblin.md|Deep Gnome (Svirfneblin)]]
 *Source: Monster Manual p. 164. Available in the SRD.*
 
 Deep gnomes, or svirfneblin, live far below the world's surface in twisting warrens and sculpted caverns. They survive by virtue of their stealth, cleverness, and tenacity. Their gray skin allows them to blend in with surrounding stonework. They are also surprisingly heavy and strong for their size. An average adult weighs 100 to 120 pounds and stands 3 feet tall.
@@ -37,6 +37,7 @@ Deep gnomes are often encountered in the company of creatures from the Elemental
 "subtype": "gnome"
 "alignment": "Neutral Good"
 "ac": !!int "15"
+"ac_class": "[[5. Mechanics/Items/Chain Shirt.md|chain shirt]]"
 "hp": !!int "16"
 "hit_dice": "3d6 + 6"
 "stats":
@@ -68,12 +69,12 @@ Deep gnomes are often encountered in the company of creatures from the Elemental
     \ against magic."
   "name": "Gnome Cunning"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 2|avg (1d8 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 2|text(6) (1d8 + 2) piercing damage."
   "name": "War Pick"
-- "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 30/120 ft., one\
-    \ creature. Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage, and the target\
-    \ must succeed on a DC 12 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+- "desc": "Ranged Weapon Attack: dice: d20+4 (+4) to hit, range 30/120 ft.,\
+    \ one creature. Hit: dice:1d4 + 2|text(4) (1d4 + 2) piercing damage, and\
+    \ the target must succeed on a DC 12 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
     \ for 1 minute. The target can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success"
   "name": "Poisoned Dart"

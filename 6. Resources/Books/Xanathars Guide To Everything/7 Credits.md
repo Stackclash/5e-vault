@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/xge
-aliases: ["Credits"]
+  - compendium/src/5e/xge
+aliases:
+  - Credits
 ---
 # Credits
 *Source: Xanathar's Guide to Everything* 

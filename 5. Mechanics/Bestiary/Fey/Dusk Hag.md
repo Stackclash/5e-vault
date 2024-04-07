@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Dusk Hag
 ---
-# [[5. Mechanics\Bestiary\Fey\Dusk Hag.md|Dusk Hag]]
+# [[5. Mechanics/Bestiary/Fey/Dusk Hag.md|Dusk Hag]]
 *Source: Eberron: Rising from the Last War p. 292*
 
 Dusk hags resemble gnarled crones with shriveled orange skin, tangled gray hair, and eyes that burn like hot coals. They see visions of the future in their dreams, and their dark magic allows them to influence the dreams of others, sending messages or inflicting nightmares with a touch. Tales talk of ambitious wizards, frantic monarchs, and desperate heroes undertaking quests or making bargains with a dusk hag in exchange for its prophecies and visions of the future. But the information gained from a dusk hag often has a way of causing more pain than joy. Like all hags, dusk hags enjoy causing strife to those who bargain with them, and find ways to twist and turn promises to their own advantage. The Dusk Hag Prophecies table provides examples of the sort of dreams dusk hags might share with unsuspecting sleepers.
@@ -39,6 +39,7 @@ Dusk hags resemble gnarled crones with shriveled orange skin, tangled gray hair,
 "type": "fey"
 "alignment": "Neutral Evil"
 "ac": !!int "17"
+"ac_class": "natural armor"
 "hp": !!int "82"
 "hit_dice": "15d8 + 15"
 "stats":
@@ -67,7 +68,7 @@ Dusk hags resemble gnarled crones with shriveled orange skin, tangled gray hair,
     \ will: [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Disguise Self.md|disguise self]]\n\
     \n1/day each: [[5. Mechanics/Spells/Legend Lore.md|legend lore]], [[5. Mechanics/Spells/Scrying.md|scrying]]\n\
     \n3/day each: [[5. Mechanics/Spells/Dream.md|dream]], [[5. Mechanics/Spells/Hypnotic Pattern.md|hypnotic pattern]],\
-    \ [[5. Mechanics/Spells/Sleep.md|sleep]] (dice: 9d8|avg (9d8))"
+    \ [[5. Mechanics/Spells/Sleep.md|sleep]] (dice: 9d8|avg|noform (9d8))"
   "name": "innate"
 - "desc": "The hag has advantage on saving throws against spells and other magical\
     \ effects."
@@ -75,21 +76,22 @@ Dusk hags resemble gnarled crones with shriveled orange skin, tangled gray hair,
 "actions":
 - "desc": "The hag makes two Nightmare Touch attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 2|text(5) (1d6 + 2) slashing damage."
   "name": "Claws"
-- "desc": "Melee Spell Attack: dice: d20+7 (+7 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 4d6 + 4|avg (4d6 + 4) psychic damage. If the target is [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]],\
-    \ it takes an extra dice: 3d6|avg (3d6) psychic damage and is cursed until\
-    \ the hag dies or the curse is removed. The cursed creature's hit point maximum\
-    \ decreases by dice: 1d10|avg (1d10) whenever it finishes a long rest."
+- "desc": "Melee Spell Attack: dice: d20+7 (+7) to hit, reach 5 ft., one creature.\
+    \ Hit: dice:4d6 + 4|text(18) (4d6 + 4) psychic damage. If the target is\
+    \ [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]], it takes an extra\
+    \ dice:3d6|text(10) (3d6) psychic damage and is cursed until the hag dies\
+    \ or the curse is removed. The cursed creature's hit point maximum decreases by\
+    \ dice:1d10|text(5) (1d10) whenever it finishes a long rest."
   "name": "Nightmare Touch"
 "reactions":
 - "desc": "When an [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]] creature\
     \ the hag can see within 30 feet of her regains consciousness, the hag can force\
     \ the creature to make a DC 15 Wisdom saving throw. Unless the save succeeds,\
-    \ the creature takes dice: 2d10|avg (2d10) psychic damage, and the hag regains\
-    \ hit points equal to the amount of damage taken."
+    \ the creature takes dice:2d10|text(11) (2d10) psychic damage, and the hag\
+    \ regains hit points equal to the amount of damage taken."
   "name": "Dream Eater"
 "source":
 - "ERLW"

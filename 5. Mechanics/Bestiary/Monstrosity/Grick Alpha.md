@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Grick Alpha
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Grick Alpha.md|Grick Alpha]]
+# [[5. Mechanics/Bestiary/Monstrosity/Grick Alpha.md|Grick Alpha]]
 *Source: Monster Manual p. 173*
 
 The wormlike grick waits unseen, blending in with the rock of the caves and caverns it haunts. Only when prey comes near does it rear up, its four barbed tentacles unfurling to reveal its hungry, snapping beak.
@@ -35,6 +35,7 @@ Over time, grick lairs accumulate the cast-off possessions of intelligent prey, 
 "type": "monstrosity"
 "alignment": "Neutral"
 "ac": !!int "18"
+"ac_class": "natural armor"
 "hp": !!int "75"
 "hit_dice": "10d10 + 20"
 "stats":
@@ -58,14 +59,14 @@ Over time, grick lairs accumulate the cast-off possessions of intelligent prey, 
     \ If it hits with its tentacles, the grick can make one beak attack against the\
     \ same target."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 10 ft., one target.\
+    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) bludgeoning damage."
   "name": "Tail"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 4d8 + 4|avg (4d8 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 10 ft., one target.\
+    \ Hit: dice:4d8 + 4|text(22) (4d8 + 4) slashing damage."
   "name": "Tentacles"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 10 ft., one target.\
+    \ Hit: dice:2d8 + 4|text(13) (2d8 + 4) piercing damage."
   "name": "Beak"
 "source":
 - "MM"

@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/vgm
-- monster/cr/8
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/aberration
+  - compendium/src/5e/vgm
+  - monster/cr/8
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/aberration
 statblock: inline
-aliases: ["Mind Flayer Psion"]
+aliases:
+  - Mind Flayer Psion
 ---
-# [[5. Mechanics\Bestiary\Aberration\Mind Flayer Psion.md|Mind Flayer Psion]]
+# [[5. Mechanics/Bestiary/Aberration/Mind Flayer Psion.md|Mind Flayer Psion]]
 *Source: Volo's Guide to Monsters p. 71*
 
 Mind flayers sometimes devote themselves to deeper study of psionic power, and many excel at using their innate psionic energy to duplicate the casting of spells.
@@ -45,6 +46,7 @@ Illithids subsist on the brains of humanoids. The brains provide enzymes, hormon
 "type": "aberration"
 "alignment": "Lawful Evil"
 "ac": !!int "15"
+"ac_class": "[[5. Mechanics/Items/Breastplate.md|breastplate]]"
 "hp": !!int "71"
 "hit_dice": "13d8 + 13"
 "stats":
@@ -71,7 +73,7 @@ Illithids subsist on the brains of humanoids. The brains provide enzymes, hormon
 "cr": "8"
 "traits":
 - "desc": "The mind flayer is a 10th-level spellcaster. Its innate spellcasting ability\
-    \ is Intelligence (spell save DC 15; dice: d20+7 (+7 to hit) with spell attacks).\
+    \ is Intelligence (spell save DC 15; dice: d20+7 (+7) to hit with spell attacks).\
     \ It can innately cast the following spells, requiring no components:\n\nAt\
     \ will: [[5. Mechanics/Spells/Guidance.md|guidance]], [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
     \ [[5. Mechanics/Spells/Vicious Mockery.md|vicious mockery]], [[5. Mechanics/Spells/True Strike.md|true strike]],\
@@ -92,21 +94,21 @@ Illithids subsist on the brains of humanoids. The brains provide enzymes, hormon
     \ magical effects."
   "name": "Magic Resistance"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 2d10 + 4|avg (2d10 + 4) psychic damage. If the target is Medium\
-    \ or smaller, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape\
-    \ DC 15) and must succeed on a DC 15 Intelligence saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one creature.\
+    \ Hit: dice:2d10 + 4|text(15) (2d10 + 4) psychic damage. If the target is\
+    \ Medium or smaller, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ (escape DC 15) and must succeed on a DC 15 Intelligence saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
     \ until this grapple ends."
   "name": "Tentacles"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
     \ humanoid [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] by the mind flayer.\
-    \ Hit: The target takes dice: 10d10|avg (10d10) piercing damage. If this\
-    \ damage reduces the target to 0 hit points, the mind flayer kills the target\
+    \ Hit: The target takes dice:10d10|text(55) (10d10) piercing damage. If\
+    \ this damage reduces the target to 0 hit points, the mind flayer kills the target\
     \ by extracting and devouring its brain."
   "name": "Extract Brain"
 - "desc": "The mind flayer magically emits psychic energy in a 60-foot cone. Each\
     \ creature in that area must succeed on a DC 15 Intelligence saving throw or take\
-    \ dice: 4d8 + 4|avg (4d8 + 4) psychic damage and be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+    \ dice:4d8 + 4|text(22) (4d8 + 4) psychic damage and be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
     \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success."
   "name": "Mind Blast (Recharge 5-6)"

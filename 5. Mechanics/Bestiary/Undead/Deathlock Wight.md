@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Deathlock Wight
 ---
-# [[5. Mechanics\Bestiary\Undead\Deathlock Wight.md|Deathlock Wight]]
+# [[5. Mechanics/Bestiary/Undead/Deathlock Wight.md|Deathlock Wight]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 87, Mordenkainen's Tome of Foes p. 129*
 
 Deprived of much of its magic as a special punishment, a deathlock wight lingers between the warlock it was and the wretched existence of a wight.
@@ -65,8 +65,8 @@ An powerful necromancer might also discover the wicked methods of creating a dea
 "actions":
 - "desc": "The deathlock makes two Life Drain or Grave Bolt attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 1d8 + 2|avg (1d8 + 2) necrotic damage. The target must succeed\
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one creature.\
+    \ Hit: dice:1d8 + 2|text(6) (1d8 + 2) necrotic damage. The target must succeed\
     \ on a DC 13 Constitution saving throw, or its hit point maximum is reduced by\
     \ an amount equal to the damage taken. This reduction lasts until the target finishes\
     \ a long rest. The target dies if its hit point maximum is reduced to 0.\n\nA\
@@ -75,8 +75,8 @@ An powerful necromancer might also discover the wicked methods of creating a dea
     \ body is destroyed. The deathlock can have no more than twelve zombies under\
     \ its control at one time."
   "name": "Life Drain"
-- "desc": "Ranged Spell Attack: dice: d20+5 (+5 to hit), range 60 ft., one target.\
-    \ Hit: dice: 2d8 + 3|avg (2d8 + 3) necrotic damage."
+- "desc": "Ranged Spell Attack: dice: d20+5 (+5) to hit, range 60 ft., one target.\
+    \ Hit: dice:2d8 + 3|text(12) (2d8 + 3) necrotic damage."
   "name": "Grave Bolt"
 "source":
 - "MPMM"

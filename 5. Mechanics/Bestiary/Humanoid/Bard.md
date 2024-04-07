@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Bard
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Bard.md|Bard]]
+# [[5. Mechanics/Bestiary/Humanoid/Bard.md|Bard]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 59, Volo's Guide to Monsters p. 211*
 
 Bards are gifted poets, storytellers, and entertainers who travel far and wide. They're commonly found in taverns or in the company of jolly bands of adventurers, rough-and-tumble mercenaries, and wealthy patrons.
@@ -42,6 +42,7 @@ Each bard is a master of at least one type of performance. You may choose a bard
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "15"
+"ac_class": "[[5. Mechanics/Items/Chain Shirt.md|chain shirt]]"
 "hp": !!int "44"
 "hit_dice": "8d8 + 8"
 "stats":
@@ -73,14 +74,14 @@ Each bard is a master of at least one type of performance. You may choose a bard
 - "desc": "The bard makes two Shortsword or Shortbow attacks. It can replace one attack\
     \ with a use of Spellcasting."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 2|text(5) (1d6 + 2) piercing damage."
   "name": "Shortsword"
-- "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 80/320 ft., one\
-    \ target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+4 (+4) to hit, range 80/320 ft.,\
+    \ one target. Hit: dice:1d6 + 2|text(5) (1d6 + 2) piercing damage."
   "name": "Shortbow"
 - "desc": "Each creature in a 15-foot cube originating from the bard must make a DC\
-    \ 12 Constitution saving throw. On a failed save, a creature takes dice: 2d8|avg\
+    \ 12 Constitution saving throw. On a failed save, a creature takes dice:2d8|text(9)\
     \ (2d8) thunder damage and is pushed up to 10 feet away from the bard. On a\
     \ successful save, a creature takes half as much damage and isn't pushed."
   "name": "Cacophony (Recharge 4-6)"

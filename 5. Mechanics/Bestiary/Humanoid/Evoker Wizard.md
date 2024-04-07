@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Evoker Wizard
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Evoker Wizard.md|Evoker Wizard]]
+# [[5. Mechanics/Bestiary/Humanoid/Evoker Wizard.md|Evoker Wizard]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 262, Volo's Guide to Monsters p. 214*
 
 Evokers harness arcane energy to destroy. Many armies employ evokers to rain destruction down on enemy forces.
@@ -26,6 +26,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "12"
+"ac_class": "15 with [[5. Mechanics/Spells/Mage Armor.md|mage armor]]"
 "hp": !!int "121"
 "hit_dice": "22d8 + 22"
 "stats":
@@ -56,8 +57,8 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "actions":
 - "desc": "The evoker makes three Arcane Burst attacks."
   "name": "Multiattack"
-- "desc": "Melee or Ranged Spell Attack: dice: d20+7 (+7 to hit), reach 5 ft.\
-    \ or range 120 ft., one target. Hit: dice: 4d10 + 3|avg (4d10 + 3) force\
+- "desc": "Melee or Ranged Spell Attack: dice: d20+7 (+7) to hit, reach 5 ft.\
+    \ or range 120 ft., one target. Hit: dice:4d10 + 3|text(25) (4d10 + 3) force\
     \ damage."
   "name": "Arcane Burst"
 - "desc": "The evoker unleashes a magical explosion of a particular damage type: cold,\
@@ -65,7 +66,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
     \ on a point within 150 feet of the evoker. Each creature in that area must make\
     \ a DC 15 Dexterity saving throw. The evoker can select up to three creatures\
     \ it can see in the area to ignore the spell, as the evoker sculpts the spell's\
-    \ energy around them. On a failed save, a creature takes dice: 9d8|avg (9d8)\
+    \ energy around them. On a failed save, a creature takes dice:9d8|text(40) (9d8)\
     \ damage of the chosen type and is knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
     \ On a successful save, a creature takes half as much damage and isn't knocked\
     \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."

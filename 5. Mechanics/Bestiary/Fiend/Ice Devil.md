@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Ice Devil
 ---
-# [[5. Mechanics\Bestiary\Fiend\Ice Devil.md|Ice Devil]]
+# [[5. Mechanics/Bestiary/Fiend/Ice Devil.md|Ice Devil]]
 *Source: Monster Manual p. 75, Tasha's Cauldron of Everything. Available in the SRD.*
 
 Found most commonly on the cold layers of Stygia and Cania, ice devils serve as commanders of the infernal armies of the Nine Hells, tormenting lesser devils as an outlet for their anger and resentment. Coveting the power of their pit fiend superiors, ice devils work ceaselessly toward promotion, slaughtering the enemies of the Nine Hells and claiming as many souls as they can for their archdevil masters.
@@ -23,7 +23,7 @@ Resembling a giant bipedal insect, an ice devil has clawed hands and feet, power
 > 
 > **Multiattack.** The devil makes two attacks: one with its spear and one with its tail.
 > 
-> **Ice Spear.** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* `dice: 2d8 + 5|avg` (`2d8 + 5`) piercing damage + `dice: 3d6|avg` (`3d6`) cold damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw, or for 1 minute, its speed is reduced by 10 feet; it can take either an action or a bonus action on each of its turns, not both; and it can't take reactions. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+> **Ice Spear.** *Melee Weapon Attack:* `dice: d20+10` (`+10`) to hit, reach 10 ft., one target. *Hit:* `dice:2d8 + 5|text(14)` (`2d8 + 5`) piercing damage + `dice:3d6|text(10)` (`3d6`) cold damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw, or for 1 minute, its speed is reduced by 10 feet; it can take either an action or a bonus action on each of its turns, not both; and it can't take reactions. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 ^variant-ice-devil-spear
 
 ## Devils
@@ -137,11 +137,11 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 > 
 > - A barbed devil has a 30% chance chance of summoning one barbed devil.  
 > - A bearded devil has a 30% chance chance of summoning one bearded devil.  
-> - A bone devil has a 40% chance chance of summoning `dice: 2d6|avg` (`2d6`) spined devils or one bone devil.  
-> - An erinyes has a 50% chance chance of summoning `dice: 3d6|avg` (`3d6`) spined devils, `dice: 1d6|avg` (`1d6`) bearded devils, or one erinyes.  
+> - A bone devil has a 40% chance chance of summoning `dice: 2d6|avg|noform` (`2d6`) spined devils or one bone devil.  
+> - An erinyes has a 50% chance chance of summoning `dice: 3d6|avg|noform` (`3d6`) spined devils, `dice: 1d6|avg|noform` (`1d6`) bearded devils, or one erinyes.  
 > - A horned devil has a 30% chance chance of summoning one horned devil.  
 > - An ice devil has a 60% chance chance of summoning one ice devil.  
-> - A pit fiend summons `dice: 2d4|avg` (`2d4`) bearded devils, `dice: 1d4|avg` (`1d4`) barbed devils, or one erinyes with no chance of failure.  
+> - A pit fiend summons `dice: 2d4|avg|noform` (`2d4`) bearded devils, `dice: 1d4|avg|noform` (`1d4`) barbed devils, or one erinyes with no chance of failure.  
 > 
 > A summoned devil appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other devils. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 ^variant-devil-summoning
@@ -153,6 +153,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 "subtype": "devil"
 "alignment": "Lawful Evil"
 "ac": !!int "18"
+"ac_class": "natural armor"
 "hp": !!int "180"
 "hit_dice": "19d10 + 76"
 "stats":
@@ -185,16 +186,16 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - "desc": "The devil makes three attacks: one with its bite, one with its claws, and\
     \ one with its tail."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 5|avg (2d6 + 5) piercing damage plus dice: 3d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+10 (+10) to hit, reach 5 ft., one\
+    \ target. Hit: dice:2d6 + 5|text(12) (2d6 + 5) piercing damage plus dice:3d6|text(10)\
     \ (3d6) cold damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4 + 5|avg (2d4 + 5) slashing damage plus dice: 3d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+10 (+10) to hit, reach 5 ft., one\
+    \ target. Hit: dice:2d4 + 5|text(10) (2d4 + 5) slashing damage plus dice:3d6|text(10)\
     \ (3d6) cold damage."
   "name": "Claws"
-- "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d6 + 5|avg (2d6 + 5) bludgeoning damage plus dice: 3d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+10 (+10) to hit, reach 10 ft., one\
+    \ target. Hit: dice:2d6 + 5|text(12) (2d6 + 5) bludgeoning damage plus dice:3d6|text(10)\
     \ (3d6) cold damage."
   "name": "Tail"
 - "desc": "The devil magically forms an opaque wall of ice on a solid surface it can\
@@ -203,7 +204,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
     \ the wall appears, each creature in its space is pushed out of it by the shortest\
     \ route. The creature chooses which side of the wall to end up on, unless the\
     \ creature is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]].\
-    \ The creature then makes a DC 17 Dexterity saving throw, taking dice: 10d6|avg\
+    \ The creature then makes a DC 17 Dexterity saving throw, taking dice:10d6|text(35)\
     \ (10d6) cold damage on a failed save, or half as much damage on a successful\
     \ one.\n\nThe wall lasts for 1 minute or until the devil is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
     \ or dies. The wall can be damaged and breached; each 10-foot section has AC 5,\
@@ -211,7 +212,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
     \ poison, and psychic damage. If a section is destroyed, it leaves behind a sheet\
     \ of frigid air in the space the wall occupied. Whenever a creature finishes moving\
     \ through the frigid air on a turn, willingly or otherwise, the creature must\
-    \ make a DC 17 Constitution saving throw, taking dice: 5d6|avg (5d6) cold\
+    \ make a DC 17 Constitution saving throw, taking dice:5d6|text(17) (5d6) cold\
     \ damage on a failed save, or half as much damage on a successful one. The frigid\
     \ air dissipates when the rest of the wall vanishes."
   "name": "Wall of Ice (Recharge 6)"

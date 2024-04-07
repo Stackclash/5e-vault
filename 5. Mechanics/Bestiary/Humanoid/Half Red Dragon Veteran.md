@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Half-Red Dragon Veteran
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Half Red Dragon Veteran.md|Half-Red Dragon Veteran]]
+# [[5. Mechanics/Bestiary/Humanoid/Half Red Dragon Veteran.md|Half-Red Dragon Veteran]]
 *Source: Monster Manual p. 180. Available in the SRD.*
 
 When a dragon in polymorphed form mates with another creature, the union sometimes produces half dragon offspring. A creature might also transform into a half-dragon as a result of a mad wizard's spell or a ritual bath in dragon's blood. In all these cases, the result is a creature that combines the essence of a dragon with the form of its original race. Regardless of their origins, all half-dragons have similar features and appearance, gaining special senses, resistance to destructive energy, and a breath weapon.
@@ -60,6 +60,7 @@ Here the half-dragon template has been applied to a human [[5. Mechanics/Bestiar
 "subtype": "human"
 "alignment": "Any alignment"
 "ac": !!int "18"
+"ac_class": "[[5. Mechanics/Items/Plate Armor.md|plate armor]]"
 "hp": !!int "65"
 "hit_dice": "10d8 + 20"
 "stats":
@@ -81,19 +82,19 @@ Here the half-dragon template has been applied to a human [[5. Mechanics/Bestiar
 - "desc": "The veteran makes two longsword attacks. If it has a shortsword drawn,\
     \ it can also make a shortsword attack."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) slashing damage, or dice: 1d10 + 3|avg\
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 3|text(7) (1d8 + 3) slashing damage, or dice:1d10 + 3|text(8)\
     \ (1d10 + 3) slashing damage if used with two hands."
   "name": "Longsword"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 3|text(6) (1d6 + 3) piercing damage."
   "name": "Shortsword"
-- "desc": "Ranged Weapon Attack: dice: d20+3 (+3 to hit), range 100/400 ft., one\
-    \ target. Hit: dice: 1d10 + 1|avg (1d10 + 1) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+3 (+3) to hit, range 100/400 ft.,\
+    \ one target. Hit: dice:1d10 + 1|text(6) (1d10 + 1) piercing damage."
   "name": "Heavy Crossbow"
 - "desc": "The veteran exhales fire in a 15-foot cone. Each creature in that area\
-    \ must make a DC 15 Dexterity saving throw, taking dice: 7d6|avg (7d6) fire\
-    \ damage on a failed save, or half as much damage on a successful one."
+    \ must make a DC 15 Dexterity saving throw, taking dice:7d6|text(24) (7d6)\
+    \ fire damage on a failed save, or half as much damage on a successful one."
   "name": "Fire Breath (Recharge 5-6)"
 "source":
 - "MM"

@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Derro
 ---
-# [[5. Mechanics\Bestiary\Aberration\Derro.md|Derro]]
+# [[5. Mechanics/Bestiary/Aberration/Derro.md|Derro]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 91, Mordenkainen's Tome of Foes p. 158*
 
 > [!quote]- A quote from Mordenkainen  
@@ -35,6 +35,7 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
 "type": "aberration"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "13"
+"ac_class": "[[5. Mechanics/Items/Leather Armor.md|leather armor]]"
 "hp": !!int "13"
 "hit_dice": "3d6 + 3"
 "stats":
@@ -59,12 +60,12 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
     \ rely on sight."
   "name": "Sunlight Sensitivity"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6|avg (1d6) piercing damage. If the target is Medium or smaller,\
-    \ the derro can choose to deal no damage and knock it [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+- "desc": "Melee Weapon Attack: dice: d20+2 (+2) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6|text(3) (1d6) piercing damage. If the target is Medium or\
+    \ smaller, the derro can choose to deal no damage and knock it [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Hooked Spear"
-- "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 80/320 ft., one\
-    \ target. Hit: dice: 1d8 + 2|avg (1d8 + 2) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+4 (+4) to hit, range 80/320 ft.,\
+    \ one target. Hit: dice:1d8 + 2|text(6) (1d8 + 2) piercing damage."
   "name": "Light Crossbow"
 "source":
 - "MPMM"

@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Swarm of Gremishkas
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Swarm Of Gremishkas.md|Swarm of Gremishkas]]
+# [[5. Mechanics/Bestiary/Monstrosity/Swarm Of Gremishkas.md|Swarm of Gremishkas]]
 *Source: Van Richten's Guide to Ravenloft p. 235*
 
 Gremishkas are the vicious products of mistakes made by novice spellcasters seeking to create life. The results are cat-sized, magically unstable creatures with a taste for the trappings of magic—particularly spellbooks, spell components, familiars, and the like. Gremishkas delight in tormenting magic-users, holding vicious grudges against those who gave them life as they infest the walls of spellcasters' homes or the surrounding lands.
@@ -54,10 +54,10 @@ Gremishkas have an unstable relationship with magic. Spells cast near a gremishk
     \ regain hit points or gain temporary hit points."
   "name": "Swarm"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 0 ft., one target\
-    \ in the swarm's space. Hit: dice: 3d6 + 2|avg (3d6 + 2) piercing damage,\
-    \ or dice: 1d6 + 2|avg (1d6 + 2) piercing damage if the swarm has half of\
-    \ its hit points or fewer, plus dice: 2d6|avg (2d6) force damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 0 ft., one target\
+    \ in the swarm's space. Hit: dice:3d6 + 2|text(12) (3d6 + 2) piercing damage,\
+    \ or dice:1d6 + 2|text(5) (1d6 + 2) piercing damage if the swarm has half\
+    \ of its hit points or fewer, plus dice:2d6|text(7) (2d6) force damage."
   "name": "Bites"
 "reactions":
 - "desc": "In response to a spell attack roll missing the swarm, the swarm causes\

@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Tlincalli
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Tlincalli.md|Tlincalli]]
+# [[5. Mechanics/Bestiary/Monstrosity/Tlincalli.md|Tlincalli]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 242, Volo's Guide to Monsters p. 193*
 
 Tlincallis, also called scorpion folk, are chitin-covered creatures with a humanlike upper body and the lower body of an enormous scorpion, complete with a stinger at the end of a long tail. These desert creatures range across arid lands, hunting at dawn and dusk. In the hours between, they wait out the day's heat or the night's cold by burying themselves in loose sand or earth or, if the terrain proves too inflexible, lurking in ruins or shallow caves.
@@ -32,6 +32,7 @@ Tlincallis rarely build cities, make clothing, or mine metals. Instead, they sca
 "type": "monstrosity"
 "alignment": "Typically  Neutral"
 "ac": !!int "15"
+"ac_class": "natural armor"
 "hp": !!int "85"
 "hit_dice": "10d10 + 30"
 "stats":
@@ -53,18 +54,18 @@ Tlincallis rarely build cities, make clothing, or mine metals. Instead, they sca
 - "desc": "The tlincalli makes one Longsword or Spiked Chain attack and one Sting\
     \ attack."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) slashing damage, or dice: 1d10 + 3|avg\
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 3|text(7) (1d8 + 3) slashing damage, or dice:1d10 + 3|text(8)\
     \ (1d10 + 3) slashing damage if used with two hands."
   "name": "Longsword"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage, and the target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ (escape DC 11) if it is a Large or smaller creature. Until this grapple ends,\
-    \ the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]], and\
-    \ the tlincalli can't use the spiked chain against another target."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 10 ft., one target.\
+    \ Hit: dice:1d6 + 3|text(6) (1d6 + 3) piercing damage, and the target is\
+    \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 11) if it is\
+    \ a Large or smaller creature. Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+    \ and the tlincalli can't use the spiked chain against another target."
   "name": "Spiked Chain"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage plus dice: 4d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one creature.\
+    \ Hit: dice:1d6 + 3|text(6) (1d6 + 3) piercing damage plus dice:4d6|text(14)\
     \ (4d6) poison damage, and the target must succeed on a DC 14 Constitution saving\
     \ throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for 1 minute.\
     \ If it fails the saving throw by 5 or more, the target is also [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\

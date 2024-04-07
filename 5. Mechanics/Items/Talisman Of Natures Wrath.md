@@ -19,7 +19,7 @@ This talisman has 4 charges and channels energy from the elemental plane, bolste
 
 ## Fire
 
-Any creature that received fire damage from your spell is set ablaze and suffers `dice: 1d8|avg` (`1d8`) fire damage at the end of their turn unless they, or an adjacent creature, spends their action to pat the fire out.
+Any creature that received fire damage from your spell is set ablaze and suffers `dice: 1d8|avg|noform` (`1d8`) fire damage at the end of their turn unless they, or an adjacent creature, spends their action to pat the fire out.
 
 ## Cold
 

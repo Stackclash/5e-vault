@@ -14,7 +14,7 @@ statblock: inline
 aliases:
   - Chimera
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Chimera.md|Chimera]]
+# [[5. Mechanics/Bestiary/Monstrosity/Chimera.md|Chimera]]
 *Source: Monster Manual p. 39. Available in the SRD and the Basic Rules.*
 
 Chimeras were created after mortals summoned Demogorgon to the world. The Prince of Demons, unimpressed with the creatures that surrounded it, transformed them into horrific, multi-headed monstrosities. This act gave rise to the first chimeras.
@@ -35,6 +35,7 @@ Though chimeras are far from cunning, their draconic ego makes them susceptible 
 "type": "monstrosity"
 "alignment": "Chaotic Evil"
 "ac": !!int "14"
+"ac_class": "natural armor"
 "hp": !!int "114"
 "hit_dice": "12d10 + 48"
 "stats":
@@ -55,18 +56,18 @@ Though chimeras are far from cunning, their draconic ego makes them susceptible 
     \ and one with its claws. When its fire breath is available, it can use the breath\
     \ in place of its bite or horns."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d12 + 4|avg (1d12 + 4) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d12 + 4|text(10) (1d12 + 4) bludgeoning damage."
   "name": "Horns"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) slashing damage."
   "name": "Claws"
 - "desc": "The dragon head exhales fire in a 15-foot cone. Each creature in that area\
-    \ must make a DC 15 Dexterity saving throw, taking dice: 7d8|avg (7d8) fire\
-    \ damage on a failed save, or half as much damage on a successful one."
+    \ must make a DC 15 Dexterity saving throw, taking dice:7d8|text(31) (7d8)\
+    \ fire damage on a failed save, or half as much damage on a successful one."
   "name": "Fire Breath (Recharge 5-6)"
 "source":
 - "MM"

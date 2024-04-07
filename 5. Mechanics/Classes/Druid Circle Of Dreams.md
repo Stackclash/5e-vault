@@ -20,7 +20,7 @@ Druids who are members of the Circle of Dreams hail from regions that have stron
 
 ### Balm of the Summer Court (Level 2)
 
-At 2nd level, you become imbued with the blessings of the Summer Court. You are a font of energy that offers respite from injuries. You have a pool of fey energy represented by a number of `dice: d6|avg` (`d6`)s equal to your druid level.
+At 2nd level, you become imbued with the blessings of the Summer Court. You are a font of energy that offers respite from injuries. You have a pool of fey energy represented by a number of `dice: d6|avg|noform` (`d6`)s equal to your druid level.
 
 As a bonus action, you can choose one creature you can see within 120 feet of you and spend a number of those dice equal to half your druid level or less. Roll the spent dice and add them together. The target regains a number of hit points equal to the total. The target also gains 1 temporary hit point per die spent.
 

@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Leucrotta
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Leucrotta.md|Leucrotta]]
+# [[5. Mechanics/Bestiary/Monstrosity/Leucrotta.md|Leucrotta]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 170, Volo's Guide to Monsters p. 169*
 
 A leucrotta is what you would get if you took the head of a giant badger, the legs of a deer, and the body of a large hyena, then put them together and reanimated them with demon ichor without bothering to cover up the stink of death.
@@ -31,6 +31,7 @@ A leucrotta's stench would normally warn away prey long before the creature coul
 "type": "monstrosity"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "14"
+"ac_class": "natural armor"
 "hp": !!int "67"
 "hit_dice": "9d10 + 18"
 "stats":
@@ -61,12 +62,12 @@ A leucrotta's stench would normally warn away prey long before the creature coul
 "actions":
 - "desc": "The leucrotta makes one Bite attack and one Hooves attack."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) piercing damage. If the leucrotta scores\
-    \ a critical hit, it rolls the damage dice three times, instead of twice."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 4|text(8) (1d8 + 4) piercing damage. If the leucrotta\
+    \ scores a critical hit, it rolls the damage dice three times, instead of twice."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) bludgeoning damage."
   "name": "Hooves"
 "bonus_actions":
 - "desc": "Immediately after the leucrotta makes a Hooves attack, it takes the [[/5. Mechanics/Rules/Actions.md#Disengage|Disengage]]\

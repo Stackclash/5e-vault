@@ -33,7 +33,7 @@ The region containing a legendary copper dragon's lair is warped by the dragon's
 - Tiny beasts such as rodents and birds that are normally unable to speak gain the magical ability to speak and understand Draconic while within 1 mile of the dragon's lair. These creatures speak well of the dragon, but can't divulge its whereabouts.  
 - Intelligent creatures within 1 mile of the dragon's lair are prone to fits of giggling. Even serious matters suddenly seem amusing.  
 
-If the dragon dies, the magic carvings fade over the course of `dice: 1d10|avg` (`1d10`) days. The other effects end immediately.
+If the dragon dies, the magic carvings fade over the course of `dice: 1d10|avg|noform` (`1d10`) days. The other effects end immediately.
 
 ### Additional Regional Effects
 

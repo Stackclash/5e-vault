@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Nilbog
 ---
-# [[5. Mechanics\Bestiary\Fey\Nilbog.md|Nilbog]]
+# [[5. Mechanics/Bestiary/Fey/Nilbog.md|Nilbog]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 195, Volo's Guide to Monsters p. 182*
 
 When Maglubiyet conquered the goblin gods, a trickster deity was determined to get the last laugh. Although Maglubiyet shattered its essence, this trickster god survives in a splintered form as possessing spirits that cause disorder unless they are appeased. Goblins have no name for this deity and dare not give it one, lest Maglubiyet use its name to ensnare and crush it as he did their other deities. They call the possessing spirit, as well as the goblin possessed by it, a nilbog ("goblin" spelled backward), and they revel in the chaos a nilbog sows.
@@ -37,6 +37,7 @@ If its host is killed or the possession is ended by a spell such as hallow, magi
 "subtype": "goblinoid"
 "alignment": "Typically  Chaotic Neutral"
 "ac": !!int "13"
+"ac_class": "[[5. Mechanics/Items/Leather Armor.md|leather armor]]"
 "hp": !!int "7"
 "hit_dice": "2d6"
 "stats":
@@ -65,11 +66,11 @@ If its host is killed or the possession is ended by a spell such as hallow, magi
     \ Fortune reaction."
   "name": "Nilbogism"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 2|text(5) (1d6 + 2) bludgeoning damage."
   "name": "Fool's Scepter"
 - "desc": "The nilbog targets one creature it can see within 60 feet of it. The target\
-    \ must succeed on a DC 12 Wisdom saving throw or take dice: 2d4|avg (2d4)\
+    \ must succeed on a DC 12 Wisdom saving throw or take dice:2d4|text(5) (2d4)\
     \ psychic damage and have disadvantage on its next attack roll before the end\
     \ of its next turn."
   "name": "Mocking Word"
@@ -79,7 +80,7 @@ If its host is killed or the possession is ended by a spell such as hallow, magi
   "name": "Nimble Escape"
 "reactions":
 - "desc": "In response to another creature dealing damage to the nilbog, the nilbog\
-    \ reduces the damage to 0 and regains dice: 1d6|avg (1d6) hit points."
+    \ reduces the damage to 0 and regains dice:1d6|text(3) (1d6) hit points."
   "name": "Reversal of Fortune"
 "source":
 - "MPMM"

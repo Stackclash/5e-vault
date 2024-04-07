@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Intellect Devourer
 ---
-# [[5. Mechanics\Bestiary\Aberration\Intellect Devourer.md|Intellect Devourer]]
+# [[5. Mechanics/Bestiary/Aberration/Intellect Devourer.md|Intellect Devourer]]
 *Source: Monster Manual p. 191, Eberron: Rising from the Last War*
 
 An intellect devourer resembles a walking brain protected by a crusty covering and set on bestial clawed legs. This foul aberration feeds on the intelligence of sentient creatures, taking over a victim's body on behalf of its mind flayer masters.
@@ -63,15 +63,16 @@ An intellect devourer consumes a creature's mind and memories, then turns the ho
 - "desc": "The intellect devourer makes one attack with its claws and uses Devour\
     \ Intellect."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4 + 2|avg (2d4 + 2) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d4 + 2|text(7) (2d4 + 2) slashing damage."
   "name": "Claws"
 - "desc": "The intellect devourer targets one creature it can see within 10 feet of\
     \ it that has a brain. The target must succeed on a DC 12 Intelligence saving\
-    \ throw against this magic or take dice: 2d10|avg (2d10) psychic damage. Also\
-    \ on a failure, roll dice: 3d6|avg (3d6): If the total equals or exceeds the\
-    \ target's Intelligence score, that score is reduced to 0. The target is [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
-    \ until it regains at least one point of Intelligence."
+    \ throw against this magic or take dice:2d10|text(11) (2d10) psychic damage.\
+    \ Also on a failure, roll dice: 3d6|avg|noform (3d6): If the total equals\
+    \ or exceeds the target's Intelligence score, that score is reduced to 0. The\
+    \ target is [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]] until it regains\
+    \ at least one point of Intelligence."
   "name": "Devour Intellect"
 - "desc": "The intellect devourer initiates an Intelligence contest with an [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
     \ humanoid within 5 feet of it that isn't protected by [protection from evil and\

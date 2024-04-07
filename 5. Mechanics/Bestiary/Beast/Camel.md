@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Camel
 ---
-# [[5. Mechanics\Bestiary\Beast\Camel.md|Camel]]
+# [[5. Mechanics/Bestiary/Beast/Camel.md|Camel]]
 *Source: Monster Manual p. 320. Available in the SRD and the Basic Rules.*
 
 ```statblock
@@ -34,8 +34,8 @@ aliases:
 "languages": ""
 "cr": "1/8"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4|avg (1d4) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d4|text(2) (1d4) bludgeoning damage."
   "name": "Bite"
 "source":
 - "MM"

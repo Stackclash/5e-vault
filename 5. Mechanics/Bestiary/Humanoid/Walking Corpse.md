@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Walking Corpse
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Walking Corpse.md|Walking Corpse]]
+# [[5. Mechanics/Bestiary/Humanoid/Walking Corpse.md|Walking Corpse]]
 *Source: Curse of Strahd p. 165*
 
 ```statblock
@@ -40,8 +40,8 @@ aliases:
     \ The snakes are hungry and fight until slain."
   "name": "Violent Death"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4|avg (1d4) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+2 (+2) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d4|text(2) (1d4) bludgeoning damage."
   "name": "Club"
 "source":
 - "CoS"

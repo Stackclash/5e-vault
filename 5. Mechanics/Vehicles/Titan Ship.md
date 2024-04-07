@@ -10,7 +10,6 @@ aliases:
   - Titan Ship
 ---
 # Titan Ship
-%%-- Embedded content starts on the next line. --%%
 *Source: Hamund's Harvesting Handbook: Volume I p. 142*  
 
 
@@ -39,7 +38,7 @@ title: Titan Ship
 
 **Crafting** Tarrasque Shell ×1 ([[5. Mechanics/Optional Features/Artificer.md\|Artificer]])
 
-**Reflective Carapace** If the titan ship is targeted by a [[5. Mechanics/Spells/Magic Missile.md\|magic missile]] spell, a line spell, or a spell that requires a ranged attack roll, roll a `dice: d6|avg` (`d6`). On a 1 to 5, the ship is unaffected. On a 6, the ship is unaffected, and the effect is reflected back at the caster as though it originated from the ship, turning the caster into the target.
+**Reflective Carapace** If the titan ship is targeted by a [[5. Mechanics/Spells/Magic Missile.md\|magic missile]] spell, a line spell, or a spell that requires a ranged attack roll, roll a `dice: d6|avg|noform` (`d6`). On a 1 to 5, the ship is unaffected. On a 6, the ship is unaffected, and the effect is reflected back at the caster as though it originated from the ship, turning the caster into the target.
 
 **Tarrasque Shell** This ship's hull is formed from the shell of a [[5. Mechanics/Bestiary/Monstrosity/Tarrasque.md\|tarrasque]] and shares much of its properties. It possesses 3 sails and can travel at 2 1/2 mph in a good wind.
 ```

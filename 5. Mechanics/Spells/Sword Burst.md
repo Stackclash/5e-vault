@@ -15,7 +15,6 @@ aliases:
   - Sword Burst
 ---
 # Sword Burst
-%%-- Embedded content starts on the next line. --%%
 *cantrip, Conjuration*  
 
 - **Casting time:** 1 action
@@ -23,9 +22,9 @@ aliases:
 - **Components:** V
 - **Duration:** Instantaneous
 
-You create a momentary circle of spectral blades that sweep around you. All other creatures within 5 feet of you must succeed on a Dexterity saving throw or take `dice: 1d6|avg` (`1d6`) force damage.
+You create a momentary circle of spectral blades that sweep around you. All other creatures within 5 feet of you must succeed on a Dexterity saving throw or take `dice: 1d6|avg|noform` (`1d6`) force damage.
 
-This spell's damage increases by `dice: 1d6|avg` (`1d6`) when you reach 5th level (`dice: 2d6|avg` (`2d6`)), 11th level (`dice: 3d6|avg` (`3d6`)), and 17th level (`dice: 4d6|avg` (`4d6`)).
+This spell's damage increases by `dice: 1d6|avg|noform` (`1d6`) when you reach 5th level (`dice: 2d6|avg|noform` (`2d6`)), 11th level (`dice: 3d6|avg|noform` (`3d6`)), and 17th level (`dice: 4d6|avg|noform` (`4d6`)).
 
 **Classes**: [[5. Mechanics/Classes/Artificer.md\|Artificer]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock.md\|Warlock]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 

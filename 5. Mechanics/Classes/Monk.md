@@ -223,7 +223,7 @@ Your practice of martial arts gives you mastery of combat styles that use unarme
 You gain the following benefits while you are unarmed or wielding only monk weapons and you aren't wearing armor or wielding a [[5. Mechanics/Items/Shield.md\|shield]].
 
 - You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and monk weapons.  
-- You can roll a `dice: d4|avg` (`d4`) in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.  
+- You can roll a `dice: d4|avg|noform` (`d4`) in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.  
 - When you use the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven't already taken a bonus action this turn.  
 
 Certain monasteries use specialized forms of the monk weapons. For example, you might use a club that is two lengths of wood connected by a short chain (called a nunchaku) or a sickle with a shorter, straighter blade (called a kama).
@@ -273,7 +273,7 @@ At 9th level, you gain the ability to move along vertical surfaces and across li
 
 ### Deflect Missiles (Level 3)
 
-Starting at 3rd level, you can use your reaction to deflect or catch the missile when you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by `dice: 1d10|avg` (`1d10`) + your Dexterity modifier + your monk level.
+Starting at 3rd level, you can use your reaction to deflect or catch the missile when you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by `dice: 1d10|avg|noform` (`1d10`) + your Dexterity modifier + your monk level.
 
 If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in one hand and you have at least one hand free. If you catch a missile in this way, you can spend 1 ki point to make a ranged attack (range 20/60 feet) with the weapon or piece of ammunition you just caught, as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the missile counts as a monk weapon for the attack.
 

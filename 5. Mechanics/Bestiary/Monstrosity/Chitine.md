@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Chitine
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Chitine.md|Chitine]]
+# [[5. Mechanics/Bestiary/Monstrosity/Chitine.md|Chitine]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 75, Volo's Guide to Monsters p. 131*
 
 Dedicated to Lolth, chitines are multiarmed bipeds with arachnid qualities. Most live in colonies in the Underdark and fight the enemies of the Demon Queen of Spiders. Long ago, the cult of Lolth first subjected elf prisoners to horrible rituals that transformed them into creatures with both elven and spider traits, which their creators dubbed chitines. The intention was to create servile warriors dedicated first to the cult and then, only by association with it, to Lolth. The goddess found this arrangement unacceptable.
@@ -30,6 +30,7 @@ Chitines resemble spiders, but they behave more like social insects such as ants
 "type": "monstrosity"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "14"
+"ac_class": "[[5. Mechanics/Items/Hide Armor.md|hide armor]]"
 "hp": !!int "18"
 "hit_dice": "4d6 + 4"
 "stats":
@@ -62,8 +63,8 @@ Chitines resemble spiders, but they behave more like social insects such as ants
 "actions":
 - "desc": "The chitine makes three Dagger attacks."
   "name": "Multiattack"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing\
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: dice:1d4 + 2|text(4) (1d4 + 2) piercing\
     \ damage."
   "name": "Dagger"
 "source":

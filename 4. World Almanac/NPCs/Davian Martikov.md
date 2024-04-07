@@ -155,16 +155,16 @@ await dv.view("npcRelationships", { current: dv.current() })
 "actions":
 - "desc": "Davian makes two weapon attacks, one of which can be with its hand crossbow."
   "name": "Multiattack (Human or Hybrid Form Only)"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: 1 piercing damage in raven form, or dice: 1d4 + 2|avg (1d4 + 2) piercing\
-    \ damage in hybrid form. If the target is humanoid, it must succeed on a DC 10\
-    \ Constitution saving throw or be cursed with wereraven lycanthropy."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: 1 piercing damage in raven form, or dice:1d4 + 2|text(4) (1d4 + 2)\
+    \ piercing damage in hybrid form. If the target is humanoid, it must succeed on\
+    \ a DC 10 Constitution saving throw or be cursed with wereraven lycanthropy."
   "name": "Beak (Raven or Hybrid Form Only)"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 2|text(5) (1d6 + 2) piercing damage."
   "name": "Shortsword (Human or Hybrid Form Only)"
-- "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 30/120 ft., one\
-    \ target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+4 (+4) to hit, range 30/120 ft.,\
+    \ one target. Hit: dice:1d6 + 2|text(5) (1d6 + 2) piercing damage."
   "name": "Hand Crossbow (Human or Hybrid Form Only)"
 "source":
 - "CoS"

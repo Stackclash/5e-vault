@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Magewright
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Magewright.md|Magewright]]
+# [[5. Mechanics/Bestiary/Humanoid/Magewright.md|Magewright]]
 *Source: Eberron: Rising from the Last War p. 318*
 
 In Khorvaire, magic is part of everyday life. A chef might use [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]] to heat and season food, while a blacksmith uses [[5. Mechanics/Spells/Mending.md|mending]] to perform minor repairs and [[5. Mechanics/Spells/Guidance.md|guidance]] to help inspire their work. Those who work minor magic into their labors are called magewrights.
@@ -67,8 +67,8 @@ The magewright stat block provides the baseline statistics for a magewright. You
     \ spells:\n\nAt will: [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]"
   "name": "spells"
 "actions":
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 1d4 + 1|avg (1d4 + 1) piercing\
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: dice:1d4 + 1|text(3) (1d4 + 1) piercing\
     \ damage."
   "name": "Dagger"
 "source":

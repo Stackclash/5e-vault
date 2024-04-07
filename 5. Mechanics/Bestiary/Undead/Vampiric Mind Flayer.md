@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Vampiric Mind Flayer
 ---
-# [[5. Mechanics\Bestiary\Undead\Vampiric Mind Flayer.md|Vampiric Mind Flayer]]
+# [[5. Mechanics/Bestiary/Undead/Vampiric Mind Flayer.md|Vampiric Mind Flayer]]
 *Source: Van Richten's Guide to Ravenloft p. 252*
 
 When the mind flayers of Bluetspur (see chapter 3) could find no cure for their overlord's affliction, their degenerating elder brain turned to radical methods to stave off dementia and death. The results were vampiric mind flayers, feral atrocities spawned from mind flayer tadpoles infected with vampirism. These specialized but flawed terrors serve a single purpose: to drain the cerebral fluids from sapient minds. After doing so, they return to the Elder Brain of Bluetspur, which liquefies them into its pool and releases their stolen essences amid a hormone brine. This grotesque balm stalls the elder brain's degeneration but is far from a cure.
@@ -23,6 +23,7 @@ Vampiric mind flayers are physically and mentally unstable beings. Ghoulish crea
 "type": "undead"
 "alignment": "Unaligned"
 "ac": !!int "15"
+"ac_class": "natural armor"
 "hp": !!int "85"
 "hit_dice": "10d8 + 40"
 "stats":
@@ -61,17 +62,17 @@ Vampiric mind flayers are physically and mentally unstable beings. Ghoulish crea
 - "desc": "The mind flayer makes two Claw attacks or one Claw attack and one Tentacles\
     \ attack."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) slashing damage plus dice: 3d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 4|text(8) (1d8 + 4) slashing damage plus dice:3d6|text(10)\
     \ (3d6) necrotic damage."
   "name": "Claw"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing damage, and if the target is\
-    \ a creature, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape\
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one creature.\
+    \ Hit: dice:1d6 + 4|text(7) (1d6 + 4) piercing damage, and if the target\
+    \ is a creature, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape\
     \ DC 15)."
   "name": "Tentacles"
 - "desc": "The mind flayer targets one creature it is grappling. The target must succeed\
-    \ on a DC 15 Wisdom saving throw or take dice: 4d6|avg (4d6) psychic damage\
+    \ on a DC 15 Wisdom saving throw or take dice:4d6|text(14) (4d6) psychic damage\
     \ and gain 1 level of [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]].\
     \ The mind flayer regains a number of hit points equal to the psychic damage dealt.\
     \ A creature reduced to 0 hit points by the psychic damage dies."

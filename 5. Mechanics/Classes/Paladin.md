@@ -252,7 +252,7 @@ This feature has no effect on undead and constructs.
 
 ### Divine Smite (Level 2)
 
-Starting at 2nd level, when you hit a creature with a melee weapon attack, you can expend one spell slot to deal radiant damage to the target, in addition to the weapon's damage. The extra damage is `dice: 2d8|avg` (`2d8`) for a 1st-level spell slot, plus `dice: 1d8|avg` (`1d8`) for each spell level higher than 1st, to a maximum of `dice: 5d8|avg` (`5d8`). The damage increases by `dice: 1d8|avg` (`1d8`) if the target is an undead or a fiend, to a maximum of `dice: 6d8|avg` (`6d8`).
+Starting at 2nd level, when you hit a creature with a melee weapon attack, you can expend one spell slot to deal radiant damage to the target, in addition to the weapon's damage. The extra damage is `dice: 2d8|avg|noform` (`2d8`) for a 1st-level spell slot, plus `dice: 1d8|avg|noform` (`1d8`) for each spell level higher than 1st, to a maximum of `dice: 5d8|avg|noform` (`5d8`). The damage increases by `dice: 1d8|avg|noform` (`1d8`) if the target is an undead or a fiend, to a maximum of `dice: 6d8|avg|noform` (`6d8`).
 
 ### Fighting Style (Level 2)
 
@@ -370,7 +370,7 @@ At 18th level, the range of this aura increases to 30 feet.
 
 ### Improved Divine Smite (Level 11)
 
-By 11th level, you are so suffused with righteous might that all your melee weapon strikes carry divine power with them. Whenever you hit a creature with a melee weapon, the creature takes an extra `dice: 1d8|avg` (`1d8`) radiant damage.
+By 11th level, you are so suffused with righteous might that all your melee weapon strikes carry divine power with them. Whenever you hit a creature with a melee weapon, the creature takes an extra `dice: 1d8|avg|noform` (`1d8`) radiant damage.
 
 ### Ability Score Improvement (Level 12)
 

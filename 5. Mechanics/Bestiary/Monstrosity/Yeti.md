@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Yeti
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Yeti.md|Yeti]]
+# [[5. Mechanics/Bestiary/Monstrosity/Yeti.md|Yeti]]
 *Source: Monster Manual p. 305. Available in the Basic Rules.*
 
 A yeti's windborne howl sounds out across remote mountains, striking fear into the hearts of the scattered miners and herders that dwell there. These hulking creatures stalk alpine peaks in a ceaseless hunt for food. Their snow-white fur lets them move like ghosts against the frozen landscape. A yeti's icy simian eyes can freeze its prey in place.
@@ -47,6 +47,7 @@ An abominable yeti is larger than a normal yeti, standing three times as tall as
 "type": "monstrosity"
 "alignment": "Chaotic Evil"
 "ac": !!int "12"
+"ac_class": "natural armor"
 "hp": !!int "51"
 "hit_dice": "6d10 + 18"
 "stats":
@@ -77,18 +78,18 @@ An abominable yeti is larger than a normal yeti, standing three times as tall as
 "actions":
 - "desc": "The yeti can use its Chilling Gaze and makes two claw attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 4|avg (1d6 + 4) slashing damage plus dice: 1d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 4|text(7) (1d6 + 4) slashing damage plus dice:1d6|text(3)\
     \ (1d6) cold damage."
   "name": "Claw"
 - "desc": "The yeti targets one creature it can see within 30 feet of it. If the target\
     \ can see the yeti, the target must succeed on a DC 13 Constitution saving throw\
-    \ against this magic or take dice: 3d6|avg (3d6) cold damage and then be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
-    \ for 1 minute, unless it is immune to cold damage. The target can repeat the\
-    \ saving throw at the end of each of its turns, ending the effect on itself on\
-    \ a success. If the target's saving throw is successful, or if the effect ends\
-    \ on it, the target is immune to the Chilling Gaze of all yetis (but not abominable\
-    \ yetis) for 1 hour."
+    \ against this magic or take dice:3d6|text(10) (3d6) cold damage and then\
+    \ be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]] for 1 minute, unless\
+    \ it is immune to cold damage. The target can repeat the saving throw at the end\
+    \ of each of its turns, ending the effect on itself on a success. If the target's\
+    \ saving throw is successful, or if the effect ends on it, the target is immune\
+    \ to the Chilling Gaze of all yetis (but not abominable yetis) for 1 hour."
   "name": "Chilling Gaze"
 "source":
 - "MM"

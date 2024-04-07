@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Grell
 ---
-# [[5. Mechanics\Bestiary\Aberration\Grell.md|Grell]]
+# [[5. Mechanics/Bestiary/Aberration/Grell.md|Grell]]
 *Source: Monster Manual p. 172*
 
 A grell resembles a bulbous floating brain with a wide, sharp beak. Its ten long tentacles are made of hundreds of ring-shaped muscles sheathed in tough fibrous hide. Sharp barbs line the tip each tentacle and inject paralytic venom. The grell can partially retract its barbs into its tentacles to handle or manipulate objects it doesn't want to pierce or tear.
@@ -62,9 +62,9 @@ A grell will sometimes allow adventurers to wage war on the other monstrous inha
 "actions":
 - "desc": "The grell makes two attacks: one with its tentacles and one with its beak."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 10 ft., one creature.\
-    \ Hit: dice: 1d10 + 2|avg (1d10 + 2) piercing damage, and the target must\
-    \ succeed on a DC 11 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 10 ft., one creature.\
+    \ Hit: dice:1d10 + 2|text(7) (1d10 + 2) piercing damage, and the target\
+    \ must succeed on a DC 11 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
     \ for 1 minute. The [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] target\
     \ is [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], and it can repeat\
     \ the saving throw at the end of each of its turns, ending the effect on a success.\n\
@@ -75,8 +75,8 @@ A grell will sometimes allow adventurers to wage war on the other monstrous inha
     \ When the grell moves, any Medium or smaller target it is grappling moves with\
     \ it."
   "name": "Tentacles"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4 + 2|avg (2d4 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d4 + 2|text(7) (2d4 + 2) piercing damage."
   "name": "Beak"
 "source":
 - "MM"

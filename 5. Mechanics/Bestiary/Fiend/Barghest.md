@@ -15,7 +15,7 @@ statblock: inline
 aliases:
   - Barghest
 ---
-# [[5. Mechanics\Bestiary\Fiend\Barghest.md|Barghest]]
+# [[5. Mechanics/Bestiary/Fiend/Barghest.md|Barghest]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 60, Volo's Guide to Monsters p. 123*
 
 Long ago, the god Maglubiyet—conqueror and then lord of early goblinoids—bargained with the General of Gehenna for aid. The General provided yugoloths, which then died in service to Maglubiyet. Yet when the time came to honor his part of the compact, Maglubiyet reneged on the deal. In vengeance, the General of Gehenna created the soul-devouring barghests to devour goblinoid souls.
@@ -32,6 +32,7 @@ Any conflagration larger than its body acts as a gateway to Gehenna and banishes
 "type": "fiend"
 "alignment": "Typically  Neutral Evil"
 "ac": !!int "17"
+"ac_class": "natural armor"
 "hp": !!int "60"
 "hit_dice": "8d10 + 16"
 "stats":
@@ -77,11 +78,11 @@ Any conflagration larger than its body acts as a gateway to Gehenna and banishes
 "actions":
 - "desc": "The barghest makes one Bite attack and one Claw attack."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d8 + 4|text(13) (2d8 + 4) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 4|text(8) (1d8 + 4) slashing damage."
   "name": "Claw"
 "bonus_actions":
 - "desc": "The barghest transforms into a Small goblin or back into its true form.\

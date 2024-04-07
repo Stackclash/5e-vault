@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vgm
-aliases: ["Roleplaying a Hag; Hag Bonds"]
+  - compendium/src/5e/vgm
+aliases:
+  - Roleplaying a Hag; Hag Bonds
 ---
 # Roleplaying a Hag; Hag Bonds
 *Source: Volo's Guide to Monsters p. 54* 

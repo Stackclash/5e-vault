@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Troglodyte
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Troglodyte.md|Troglodyte]]
+# [[5. Mechanics/Bestiary/Humanoid/Troglodyte.md|Troglodyte]]
 *Source: Monster Manual p. 290*
 
 The savage, degenerate troglodytes squat in the shallow depths of the Underdark in a constant state of war against their neighbors and one another. They mark the borders of their territories with cracked bones and skulls, or with pictographs painted in blood or dung.
@@ -40,6 +40,7 @@ Some troglodytes venerate Laogzed, a demonic, monstrously fat toad-lizard that s
 "subtype": "troglodyte"
 "alignment": "Chaotic Evil"
 "ac": !!int "11"
+"ac_class": "natural armor"
 "hp": !!int "13"
 "hit_dice": "2d8 + 4"
 "stats":
@@ -72,11 +73,11 @@ Some troglodytes venerate Laogzed, a demonic, monstrously fat toad-lizard that s
 - "desc": "The troglodyte makes three attacks: one with its bite and two with its\
     \ claws."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d4 + 2|text(4) (1d4 + 2) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d4 + 2|text(4) (1d4 + 2) slashing damage."
   "name": "Claw"
 "source":
 - "MM"

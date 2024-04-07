@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Basilisk
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Basilisk.md|Basilisk]]
+# [[5. Mechanics/Bestiary/Monstrosity/Basilisk.md|Basilisk]]
 *Source: Monster Manual p. 24. Available in the SRD and the Basic Rules.*
 
 Travelers sometimes find objects that look like pieces of remarkably lifelike stone carvings of wildlife. Missing parts appear to have been bitten off. Seasoned explorers regard such relics as warnings, knowing that the basilisk that created them is likely to be nearby.
@@ -39,6 +39,7 @@ Some alchemists are said to know how to process the basilisk's gullet and the fl
 "type": "monstrosity"
 "alignment": "Unaligned"
 "ac": !!int "15"
+"ac_class": "natural armor"
 "hp": !!int "52"
 "hit_dice": "8d8 + 16"
 "stats":
@@ -68,8 +69,8 @@ Some alchemists are said to know how to process the basilisk's gullet and the fl
     \ light, it mistakes itself for a rival and targets itself with its gaze."
   "name": "Petrifying Gaze"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) piercing damage plus dice: 2d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 3|text(10) (2d6 + 3) piercing damage plus dice:2d6|text(7)\
     \ (2d6) poison damage."
   "name": "Bite"
 "source":

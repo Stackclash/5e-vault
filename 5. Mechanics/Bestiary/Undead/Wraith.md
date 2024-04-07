@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Wraith
 ---
-# [[5. Mechanics\Bestiary\Undead\Wraith.md|Wraith]]
+# [[5. Mechanics/Bestiary/Undead/Wraith.md|Wraith]]
 *Source: Monster Manual p. 302, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD.*
 
 A wraith is malice incarnate, concentrated into an incorporeal form that seeks to quench all life. The creature is suffused with negative energy, and its mere passage through the world leaves nearby plants blackened and withered. Animals flee from its presence. Even small fires can be extinguished by the sucking oblivion of the wraith's horrifying existence.
@@ -64,20 +64,20 @@ A wraith doesn't require air, food, drink, or sleep.
 "cr": "5"
 "traits":
 - "desc": "The wraith can move through other creatures and objects as if they were\
-    \ difficult terrain. It takes dice: 1d10|avg (1d10) force damage if it ends\
-    \ its turn inside an object."
+    \ difficult terrain. It takes dice:1d10|text(5) (1d10) force damage if it\
+    \ ends its turn inside an object."
   "name": "Incorporeal Movement"
 - "desc": "While in sunlight, the wraith has disadvantage on attack rolls, as well\
     \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that\
     \ rely on sight."
   "name": "Sunlight Sensitivity"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 4d8 + 3|avg (4d8 + 3) necrotic damage. The target must succeed\
-    \ on a DC 14 Constitution saving throw or its hit point maximum is reduced by\
-    \ an amount equal to the damage taken. This reduction lasts until the target finishes\
-    \ a long rest. The target dies if this effect reduces its hit point maximum to\
-    \ 0."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one creature.\
+    \ Hit: dice:4d8 + 3|text(21) (4d8 + 3) necrotic damage. The target must\
+    \ succeed on a DC 14 Constitution saving throw or its hit point maximum is reduced\
+    \ by an amount equal to the damage taken. This reduction lasts until the target\
+    \ finishes a long rest. The target dies if this effect reduces its hit point maximum\
+    \ to 0."
   "name": "Life Drain"
 - "desc": "The wraith targets a humanoid within 10 feet of it that has been dead for\
     \ no longer than 1 minute and died violently. The target's spirit rises as a [[5. Mechanics/Bestiary/Undead/Specter.md|specter]]\

@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Radiant Idol
 ---
-# [[5. Mechanics\Bestiary\Celestial\Radiant Idol.md|Radiant Idol]]
+# [[5. Mechanics/Bestiary/Celestial/Radiant Idol.md|Radiant Idol]]
 *Source: Eberron: Rising from the Last War p. 308*
 
 A radiant idol was an angel that was banished from the celestial realm of Syrania and cast down to the Material Plane. One sin led to their fall: the desire to be worshiped by mortals. Now in the mortal realm, most radiant idols gather cults of devoted followers.
@@ -33,6 +33,7 @@ A radiant idol doesn't require food, drink, or sleep.
 "type": "celestial"
 "alignment": "Lawful Evil"
 "ac": !!int "18"
+"ac_class": "natural armor"
 "hp": !!int "142"
 "hit_dice": "15d10 + 60"
 "stats":
@@ -80,16 +81,16 @@ A radiant idol doesn't require food, drink, or sleep.
 "actions":
 - "desc": "The radiant idol makes two melee attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 6|avg (1d8 + 6) bludgeoning damage plus dice: 4d8|avg\
+- "desc": "Melee Weapon Attack: dice: d20+10 (+10) to hit, reach 5 ft., one\
+    \ target. Hit: dice:1d8 + 6|text(10) (1d8 + 6) bludgeoning damage plus dice:4d8|text(18)\
     \ (4d8) radiant damage."
   "name": "Flail"
 - "desc": "The radiant idol chooses a point on the ground it can see within 60 feet\
     \ of it. A 30-foot-radius, 40-foot-high cylinder of bright light appears there\
     \ until the start of the radiant idol's next turn. Each creature in the cylinder\
     \ when it appears or that ends its turn there must make a DC 17 Constitution saving\
-    \ throw, taking dice: 8d8|avg (8d8) radiant damage on a failed save, or half\
-    \ as much damage on a successful one."
+    \ throw, taking dice:8d8|text(36) (8d8) radiant damage on a failed save, or\
+    \ half as much damage on a successful one."
   "name": "Radiant Strike (1/Day)"
 "source":
 - "ERLW"

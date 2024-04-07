@@ -39,8 +39,8 @@ The [[5. Mechanics/Items/Eye Of Vecna.md\|Eye of Vecna]] and the Hand of Vecna e
 Your alignment changes to neutral evil, and you gain the following benefits:
 
 - Your Strength score becomes 20, unless it is already 20 or higher.  
-- Any melee spell attack you make with the hand, and any melee weapon attack made with a weapon held by it, deals an extra `dice: 2d8|avg` (`2d8`) cold damage on a hit.  
-- The hand has 8 charges. You can use an action and expend 1 or more charges to cast one of the following spells (save DC 18) from it: [[5. Mechanics/Spells/Finger Of Death.md\|finger of death]] (5 charges), [[5. Mechanics/Spells/Sleep.md\|sleep]] (1 charge), [[5. Mechanics/Spells/Slow.md\|slow]] (2 charges), or [[5. Mechanics/Spells/Teleport.md\|teleport]] (3 charges). The hand regains `dice: 1d4 + 4|avg` (`1d4 + 4`) expended charges daily at dawn. Each time you cast a spell from the hand, it casts the [[5. Mechanics/Spells/Suggestion.md\|suggestion]] spell on you (save DC 18), demanding that you commit an evil act. The hand might have a specific act in mind or leave it up to you.  
+- Any melee spell attack you make with the hand, and any melee weapon attack made with a weapon held by it, deals an extra `dice: 2d8|avg|noform` (`2d8`) cold damage on a hit.  
+- The hand has 8 charges. You can use an action and expend 1 or more charges to cast one of the following spells (save DC 18) from it: [[5. Mechanics/Spells/Finger Of Death.md\|finger of death]] (5 charges), [[5. Mechanics/Spells/Sleep.md\|sleep]] (1 charge), [[5. Mechanics/Spells/Slow.md\|slow]] (2 charges), or [[5. Mechanics/Spells/Teleport.md\|teleport]] (3 charges). The hand regains `dice: 1d4 + 4|avg|noform` (`1d4 + 4`) expended charges daily at dawn. Each time you cast a spell from the hand, it casts the [[5. Mechanics/Spells/Suggestion.md\|suggestion]] spell on you (save DC 18), demanding that you commit an evil act. The hand might have a specific act in mind or leave it up to you.  
 
 ## Properties of the Eye and Hand
 
@@ -49,7 +49,7 @@ If you are attuned to both the hand and eye, you gain the following additional b
 - You are immune to disease and poison.  
 - Using the eye's X-ray vision never causes you to suffer [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]].  
 - You experience premonitions of danger and, unless you are [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]], can't be surprised.  
-- If you start your turn with at least 1 hit point, you regain `dice: 1d10|avg` (`1d10`) hit points.  
+- If you start your turn with at least 1 hit point, you regain `dice: 1d10|avg|noform` (`1d10`) hit points.  
 - If a creature has a skeleton, you can attempt to turn its bones to jelly with a touch of the Hand of Vecna. You can do so by using an action to make a melee attack against a creature you can reach, using your choice of your melee attack bonus for weapons or spells. On a hit, the target must succeed on a DC 18 Constitution saving throw or drop to 0 hit points.  
 - You can use an action to cast [[5. Mechanics/Spells/Wish.md\|wish]]. This property can't be used again until 30 days have passed.  
 

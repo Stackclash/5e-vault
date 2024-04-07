@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Giant Shark
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Shark.md|Giant Shark]]
+# [[5. Mechanics/Bestiary/Beast/Giant Shark.md|Giant Shark]]
 *Source: Monster Manual p. 328. Available in the SRD and the Basic Rules.*
 
 A giant shark is 30 feet long and normally found in deep oceans. Utterly fearless, it preys on anything that crosses its path, including whales and ships.
@@ -22,6 +22,7 @@ A giant shark is 30 feet long and normally found in deep oceans. Utterly fearles
 "type": "beast"
 "alignment": "Unaligned"
 "ac": !!int "13"
+"ac_class": "natural armor"
 "hp": !!int "126"
 "hit_dice": "11d12 + 55"
 "stats":
@@ -44,8 +45,8 @@ A giant shark is 30 feet long and normally found in deep oceans. Utterly fearles
 - "desc": "The shark can breathe only underwater."
   "name": "Water Breathing"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 3d10 + 6|avg (3d10 + 6) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 5 ft., one target.\
+    \ Hit: dice:3d10 + 6|text(22) (3d10 + 6) piercing damage."
   "name": "Bite"
 "source":
 - "MM"

@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Skull Lord
 ---
-# [[5. Mechanics\Bestiary\Undead\Skull Lord.md|Skull Lord]]
+# [[5. Mechanics/Bestiary/Undead/Skull Lord.md|Skull Lord]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 220, Mordenkainen's Tome of Foes p. 230*
 
 Skull lords have claimed vast regions of the Shadowfell as their dominion. From these blighted lands, they wage war against their rivals, commanding hordes of the undying in a bid to establish dominance. Yet skull lords always prove to be their own worst enemies; each is a combined being born from three hateful individuals, and they constantly plot against themselves.
@@ -27,6 +27,7 @@ Infighting and treachery brought skull lords into existence. The first of them a
 "subtype": "sorcerer"
 "alignment": "Typically  Lawful Evil"
 "ac": !!int "18"
+"ac_class": "[[5. Mechanics/Items/Plate Armor.md|plate]]"
 "hp": !!int "112"
 "hit_dice": "15d8 + 45"
 "stats":
@@ -67,20 +68,20 @@ Infighting and treachery brought skull lords into existence. The first of them a
 - "desc": "If the skull lord fails a saving throw, it can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
 - "desc": "While within 30 feet of the skull lord, any Undead ally of the skull lord\
-    \ makes saving throws with advantage, and that ally regains dice: 1d6|avg (1d6)\
-    \ hit points whenever it starts its turn there."
+    \ makes saving throws with advantage, and that ally regains dice: 1d6|avg|noform\
+    \ (1d6) hit points whenever it starts its turn there."
   "name": "Master of the Grave"
 - "desc": "The skull lord doesn't require air, food, drink, or sleep."
   "name": "Unusual Nature"
 "actions":
 - "desc": "The skull lord makes three Bone Staff or Deathly Ray attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) bludgeoning damage plus dice: 6d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 3|text(7) (1d8 + 3) bludgeoning damage plus dice:6d6|text(21)\
     \ (6d6) necrotic damage."
   "name": "Bone Staff"
-- "desc": "Ranged Spell Attack: dice: d20+10 (+10 to hit), range 60 ft., one target.\
-    \ Hit: dice: 5d8 + 5|avg (5d8 + 5) necrotic damage."
+- "desc": "Ranged Spell Attack: dice: d20+10 (+10) to hit, range 60 ft., one\
+    \ target. Hit: dice:5d8 + 5|text(27) (5d8 + 5) necrotic damage."
   "name": "Deathly Ray"
 "legendary_actions":
 - "desc": "The skull lord makes one Bone Staff or Deathly Ray attack."

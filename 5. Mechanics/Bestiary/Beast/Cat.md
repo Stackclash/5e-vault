@@ -14,7 +14,7 @@ statblock: inline
 aliases:
   - Cat
 ---
-# [[5. Mechanics\Bestiary\Beast\Cat.md|Cat]]
+# [[5. Mechanics/Bestiary/Beast/Cat.md|Cat]]
 *Source: Monster Manual p. 320, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*
 
 ```statblock
@@ -44,7 +44,7 @@ aliases:
     \ checks that rely on smell."
   "name": "Keen Smell"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+0 (+0 to hit), reach 5 ft., one target.\
+- "desc": "Melee Weapon Attack: dice: d20+0 (+0) to hit, reach 5 ft., one target.\
     \ Hit: 1 slashing damage."
   "name": "Claws"
 "source":

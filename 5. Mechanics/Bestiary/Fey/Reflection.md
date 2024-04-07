@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Reflection
 ---
-# [[5. Mechanics\Bestiary\Fey\Reflection.md|Reflection]]
+# [[5. Mechanics/Bestiary/Fey/Reflection.md|Reflection]]
 *Source: Tasha's Cauldron of Everything p. 158*
 
 ```statblock
@@ -54,12 +54,13 @@ aliases:
     \ checks, and saving throws."
   "name": "Sunlight Weakness"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 2d6 + 2|avg (2d6 + 2) necrotic damage, and the target's Strength\
-    \ score is reduced by dice: 1d4|avg (1d4). The target dies if this reduces\
-    \ its Strength to 0. Otherwise, the reduction lasts until the target finishes\
-    \ a short or long rest.\n\nIf a non-evil humanoid dies from this attack, a new\
-    \ reflection rises from the corpse dice: 1d4|avg (1d4) hours later."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one creature.\
+    \ Hit: dice:2d6 + 2|text(9) (2d6 + 2) necrotic damage, and the target's\
+    \ Strength score is reduced by dice: 1d4|avg|noform (1d4). The target dies\
+    \ if this reduces its Strength to 0. Otherwise, the reduction lasts until the\
+    \ target finishes a short or long rest.\n\nIf a non-evil humanoid dies from this\
+    \ attack, a new reflection rises from the corpse dice: 1d4|avg|noform (1d4)\
+    \ hours later."
   "name": "Strength Drain"
 "source":
 - "TCE"

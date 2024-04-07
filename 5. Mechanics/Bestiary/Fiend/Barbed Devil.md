@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Barbed Devil
 ---
-# [[5. Mechanics\Bestiary\Fiend\Barbed Devil.md|Barbed Devil]]
+# [[5. Mechanics/Bestiary/Fiend/Barbed Devil.md|Barbed Devil]]
 *Source: Monster Manual p. 70, Tasha's Cauldron of Everything. Available in the SRD.*
 
 Creatures of unbridled greed and desire, barbed devils act as guards to the more powerful denizens of the Nine Hells and their vaults. Resembling a tall humanoid covered in sharp barbs, spines, and hooks, a barbed devil has gleaming eyes that are ever watchful for objects and creatures it might claim for itself. These fiends welcome any chance to fight when victory promises reward.
@@ -128,11 +128,11 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 > 
 > - A barbed devil has a 30% chance chance of summoning one barbed devil.  
 > - A bearded devil has a 30% chance chance of summoning one bearded devil.  
-> - A bone devil has a 40% chance chance of summoning `dice: 2d6|avg` (`2d6`) spined devils or one bone devil.  
-> - An erinyes has a 50% chance chance of summoning `dice: 3d6|avg` (`3d6`) spined devils, `dice: 1d6|avg` (`1d6`) bearded devils, or one erinyes.  
+> - A bone devil has a 40% chance chance of summoning `dice: 2d6|avg|noform` (`2d6`) spined devils or one bone devil.  
+> - An erinyes has a 50% chance chance of summoning `dice: 3d6|avg|noform` (`3d6`) spined devils, `dice: 1d6|avg|noform` (`1d6`) bearded devils, or one erinyes.  
 > - A horned devil has a 30% chance chance of summoning one horned devil.  
 > - An ice devil has a 60% chance chance of summoning one ice devil.  
-> - A pit fiend summons `dice: 2d4|avg` (`2d4`) bearded devils, `dice: 1d4|avg` (`1d4`) barbed devils, or one erinyes with no chance of failure.  
+> - A pit fiend summons `dice: 2d4|avg|noform` (`2d4`) bearded devils, `dice: 1d4|avg|noform` (`1d4`) barbed devils, or one erinyes with no chance of failure.  
 > 
 > A summoned devil appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other devils. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 ^variant-devil-summoning
@@ -144,6 +144,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 "subtype": "devil"
 "alignment": "Lawful Evil"
 "ac": !!int "15"
+"ac_class": "natural armor"
 "hp": !!int "110"
 "hit_dice": "13d8 + 52"
 "stats":
@@ -171,7 +172,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 "languages": "Infernal, telepathy 120 ft."
 "cr": "5"
 "traits":
-- "desc": "At the start of each of its turns, the barbed devil deals dice: 1d10|avg\
+- "desc": "At the start of each of its turns, the barbed devil deals dice:1d10|text(5)\
     \ (1d10) piercing damage to any creature grappling it."
   "name": "Barbed Hide"
 - "desc": "Magical darkness doesn't impede the devil's darkvision."
@@ -183,15 +184,15 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - "desc": "The devil makes three melee attacks: one with its tail and two with its\
     \ claws. Alternatively, it can use Hurl Flame twice."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 3|text(6) (1d6 + 3) piercing damage."
   "name": "Claw"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 3|text(10) (2d6 + 3) piercing damage."
   "name": "Tail"
-- "desc": "Ranged Spell Attack: dice: d20+5 (+5 to hit), range 150 ft., one target.\
-    \ Hit: dice: 3d6|avg (3d6) fire damage. If the target is a flammable object\
-    \ that isn't being worn or carried, it also catches fire."
+- "desc": "Ranged Spell Attack: dice: d20+5 (+5) to hit, range 150 ft., one\
+    \ target. Hit: dice:3d6|text(10) (3d6) fire damage. If the target is a flammable\
+    \ object that isn't being worn or carried, it also catches fire."
   "name": "Hurl Flame"
 "source":
 - "MM"

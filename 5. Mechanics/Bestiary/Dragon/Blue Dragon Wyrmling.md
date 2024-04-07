@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Blue Dragon Wyrmling
 ---
-# [[5. Mechanics\Bestiary\Dragon\Blue Dragon Wyrmling.md|Blue Dragon Wyrmling]]
+# [[5. Mechanics/Bestiary/Dragon/Blue Dragon Wyrmling.md|Blue Dragon Wyrmling]]
 *Source: Monster Manual p. 91. Available in the SRD.*
 
 Vain and territorial, blue dragons soar through the skies over deserts, preying on caravans and plundering herds and settlements in the verdant lands beyond the desert's reach. These dragons can also be found in dry steppes, searing badlands, and rocky coasts. They guard their territories against all potential competitors, especially brass dragons.
@@ -103,6 +103,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 "type": "dragon"
 "alignment": "Lawful Evil"
 "ac": !!int "17"
+"ac_class": "natural armor"
 "hp": !!int "52"
 "hit_dice": "8d8 + 16"
 "stats":
@@ -126,14 +127,14 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 "languages": "Draconic"
 "cr": "3"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d10 + 3|avg (1d10 + 3) piercing damage plus dice: 1d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d10 + 3|text(8) (1d10 + 3) piercing damage plus dice:1d6|text(3)\
     \ (1d6) lightning damage."
   "name": "Bite"
 - "desc": "The dragon exhales lightning in a 30-foot line that is 5 feet wide. Each\
-    \ creature in that line must make a DC 12 Dexterity saving throw, taking dice:\
-    \ 4d10|avg (4d10) lightning damage on a failed save, or half as much damage\
-    \ on a successful one."
+    \ creature in that line must make a DC 12 Dexterity saving throw, taking dice:4d10|text(22)\
+    \ (4d10) lightning damage on a failed save, or half as much damage on a successful\
+    \ one."
   "name": "Lightning Breath (Recharge 5-6)"
 "source":
 - "MM"

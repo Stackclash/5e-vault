@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vgm
-aliases: ["Roleplaying a Yuan-ti; Yuan-ti Flaws"]
+  - compendium/src/5e/vgm
+aliases:
+  - Roleplaying a Yuan-ti; Yuan-ti Flaws
 ---
 # Roleplaying a Yuan-ti; Yuan-ti Flaws
 *Source: Volo's Guide to Monsters p. 98* 

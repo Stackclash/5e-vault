@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Shadow Mastiff Alpha
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Shadow Mastiff Alpha.md|Shadow Mastiff Alpha]]
+# [[5. Mechanics/Bestiary/Monstrosity/Shadow Mastiff Alpha.md|Shadow Mastiff Alpha]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 215, Volo's Guide to Monsters p. 190*
 
 Each pack of shadow mastiffs is led by an alpha, the smartest one of the group. The sound of an alpha's howl strikes terror into those who hear it and is a sure sign that a pack is on the prowl.
@@ -53,9 +53,9 @@ Shadow mastiffs—hounds of the Shadowfell—move invisibly through the shadows,
     \ on attack rolls, ability checks, and saving throws."
   "name": "Sunlight Weakness"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) piercing damage. If the target is a creature,\
-    \ it must succeed on a DC 13 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 3|text(10) (2d6 + 3) piercing damage. If the target is\
+    \ a creature, it must succeed on a DC 13 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Bite"
 - "desc": "The shadow mastiff howls. Any Beast or Humanoid within 300 feet of it must\
     \ succeed on a DC 11 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\

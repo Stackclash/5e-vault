@@ -14,7 +14,7 @@ statblock: inline
 aliases:
   - Swarm of Bats
 ---
-# [[5. Mechanics\Bestiary\Beast\Swarm Of Bats.md|Swarm of Bats]]
+# [[5. Mechanics/Bestiary/Beast/Swarm Of Bats.md|Swarm of Bats]]
 *Source: Monster Manual p. 337, Curse of Strahd. Available in the SRD and the Basic Rules.*
 
 > [!note] The Nature of Swarms
@@ -57,10 +57,10 @@ aliases:
     \ hit points or gain temporary hit points."
   "name": "Swarm"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 0 ft., one creature\
-    \ in the swarm's space. Hit: dice: 2d4|avg (2d4) piercing damage, or dice:\
-    \ 1d4|avg (1d4) piercing damage if the swarm has half of its hit points or\
-    \ fewer."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 0 ft., one creature\
+    \ in the swarm's space. Hit: dice:2d4|text(5) (2d4) piercing damage, or\
+    \ dice:1d4|text(2) (1d4) piercing damage if the swarm has half of its hit\
+    \ points or fewer."
   "name": "Bites"
 "source":
 - "MM"

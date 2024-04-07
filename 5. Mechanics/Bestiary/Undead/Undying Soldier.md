@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Undying Soldier
 ---
-# [[5. Mechanics\Bestiary\Undead\Undying Soldier.md|Undying Soldier]]
+# [[5. Mechanics/Bestiary/Undead/Undying Soldier.md|Undying Soldier]]
 *Source: Eberron: Rising from the Last War p. 311*
 
 Undying soldiers make up the army of Aerenal's City of the Dead. They guard the temples of the Undying Court and the mansions of the noble lines of Aerenal, and Aereni ambassadors are often accompanied by undead bodyguards. Undying soldiers wear heirloom armor and wield ornate weaponry.
@@ -45,6 +45,7 @@ An undying doesn't require air, food, drink, or sleep.
 "type": "undead"
 "alignment": "Neutral Good"
 "ac": !!int "17"
+"ac_class": "[[5. Mechanics/Items/Breastplate.md|breastplate]], [[5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "26"
 "hit_dice": "4d8 + 8"
 "stats":
@@ -80,11 +81,11 @@ An undying doesn't require air, food, drink, or sleep.
 "actions":
 - "desc": "The soldier makes two spear attacks."
   "name": "Multiattack"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing\
-    \ damage or dice: 1d8 + 3|avg (1d8 + 3) piercing damage if used with two hands\
-    \ to make a melee attack, plus dice: 2d8|avg (2d8) radiant damage if the target\
-    \ is a fiend or undead."
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: dice:1d6 + 3|text(6) (1d6 + 3) piercing\
+    \ damage or dice:1d8 + 3|text(7) (1d8 + 3) piercing damage if used with two\
+    \ hands to make a melee attack, plus dice:2d8|text(9) (2d8) radiant damage\
+    \ if the target is a fiend or undead."
   "name": "Spear"
 "source":
 - "ERLW"

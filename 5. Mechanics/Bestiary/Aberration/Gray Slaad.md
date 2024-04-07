@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Gray Slaad
 ---
-# [[5. Mechanics\Bestiary\Aberration\Gray Slaad.md|Gray Slaad]]
+# [[5. Mechanics/Bestiary/Aberration/Gray Slaad.md|Gray Slaad]]
 *Source: Monster Manual p. 277*
 
 Outside of Limbo, gray slaadi act as living extensions of the will of their masters, the death slaadi. A gray slaad journeys to the Material Plane on errands of doom, often taking humanoid form. A gray slaad learns how to master the use of a greatsword and imbue it with its own innate magic.
@@ -48,7 +48,7 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 > 
 > A [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]] spell cast on the slaad destroys the gem without harming the slaad.
 > 
-> Someone who is proficient in Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) can remove the gem from an [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) check. Each failed attempt deals `dice: 4d10|avg` (`4d10`) psychic damage to the slaad.
+> Someone who is proficient in Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) can remove the gem from an [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) check. Each failed attempt deals `dice:4d10|text(22)` (`4d10`) psychic damage to the slaad.
 ^variant-slaad-control-gems
 
 > [!quote]-  
@@ -63,6 +63,7 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 "subtype": "shapechanger"
 "alignment": "Chaotic Neutral"
 "ac": !!int "18"
+"ac_class": "natural armor"
 "hp": !!int "127"
 "hit_dice": "17d8 + 51"
 "stats":
@@ -106,14 +107,14 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 - "desc": "The slaad makes three attacks: one with its bite and two with its claws\
     \ or greatsword."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 3|text(6) (1d6 + 3) piercing damage."
   "name": "Bite (Slaad Form Only)"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d10 + 3|avg (1d10 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d10 + 3|text(8) (1d10 + 3) slashing damage."
   "name": "Claws (Slaad Form Only)"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 3|text(10) (2d6 + 3) slashing damage."
   "name": "Greatsword"
 "source":
 - "MM"

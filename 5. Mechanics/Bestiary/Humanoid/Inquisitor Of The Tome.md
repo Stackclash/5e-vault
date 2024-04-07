@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Inquisitor of the Tome
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Inquisitor Of The Tome.md|Inquisitor of the Tome]]
+# [[5. Mechanics/Bestiary/Humanoid/Inquisitor Of The Tome.md|Inquisitor of the Tome]]
 *Source: Van Richten's Guide to Ravenloft p. 249*
 
 "Evil lurks everywhere. With our minds, we will unearth it, we will plumb its depths, and we will annihilate it." With those words, the psychically gifted priest Ulmed founded the Ulmist Inquisition, an order of psionic inquisitors that seeks to discover the wickedness hiding in people's souls.
@@ -62,17 +62,19 @@ Today the inquisition rules the city of Malitain, a vast city-state to the north
 "actions":
 - "desc": "The inquisitor attacks twice."
   "name": "Multiattack"
-- "desc": "Ranged Spell Attack: dice: d20+7 (+7 to hit), range 120 ft., one target.\
-    \ Hit: dice: 4d8 + 4|avg (4d8 + 4) force damage, and if the target is a\
-    \ Large or smaller creature, the inquisitor can push it up to 10 feet away."
+- "desc": "Ranged Spell Attack: dice: d20+7 (+7) to hit, range 120 ft., one\
+    \ target. Hit: dice:4d8 + 4|text(22) (4d8 + 4) force damage, and if the\
+    \ target is a Large or smaller creature, the inquisitor can push it up to 10 feet\
+    \ away."
   "name": "Force Bolt"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) slashing damage, or dice: 1d10 + 4|avg\
-    \ (1d10 + 4) if used with two hands, plus dice: 4d8|avg (4d8) force damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 4|text(8) (1d8 + 4) slashing damage, or dice:1d10 + 4|text(9)\
+    \ (1d10 + 4) if used with two hands, plus dice:4d8|text(18) (4d8) force\
+    \ damage."
   "name": "Silver Longsword"
 - "desc": "Each creature in a 20-foot-radius sphere centered on a point the inquisitor\
     \ can see within 120 feet of it must succeed on a DC 15 Constitution saving throw\
-    \ or take dice: 6d8 + 4|avg (6d8 + 4) force damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]\
+    \ or take dice:6d8 + 4|text(31) (6d8 + 4) force damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]\
     \ and moved to the unoccupied space closest to the sphere's center. Large and\
     \ smaller objects that aren't being worn or carried in the sphere automatically\
     \ take the damage and are similarly moved."

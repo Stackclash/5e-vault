@@ -56,7 +56,7 @@ If appropriate, pick a monster or a location that is a thematic fit for the item
 
 In addition to facing a specific creature, creating an item comes with a gold piece cost covering other materials, tools, and so on, based on the item's rarity. Those values, as well as the time a character needs to work in order to complete the item, are shown on the Magic Item Crafting Time and Cost table. Halve the listed price and creation time for any consumable items.
 
-![Crafting Magic Items; Magic Item Crafting Time and Cost](compendium/tables/crafting-magic-items-magic-item-crafting-time-and-cost-xge.md)
+![[5. Mechanics/Tables/Crafting Magic Items Magic Item Crafting Time And Cost.md\|Crafting Magic Items; Magic Item Crafting Time and Cost]]
 
 To complete a magic item, a character also needs whatever tool proficiency is appropriate, as for crafting a nonmagical object, or proficiency in the [[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]] skill.
 

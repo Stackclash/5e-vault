@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Magmin
 ---
-# [[5. Mechanics\Bestiary\Elemental\Magmin.md|Magmin]]
+# [[5. Mechanics/Bestiary/Elemental/Magmin.md|Magmin]]
 *Source: Monster Manual p. 212. Available in the SRD.*
 
 A grinning, mischievous magmin resembles a stumpy humanoid sculpted from a black shell of magma. Even when it isn't ablaze and radiating heat like a bonfire, small jets of flame erupt from its porous skin.
@@ -31,6 +31,7 @@ If it has the opportunity while in service to its master, a magmin seeks out are
 "type": "elemental"
 "alignment": "Chaotic Neutral"
 "ac": !!int "14"
+"ac_class": "natural armor"
 "hp": !!int "9"
 "hit_dice": "2d6 + 2"
 "stats":
@@ -48,8 +49,8 @@ If it has the opportunity while in service to its master, a magmin seeks out are
 "cr": "1/2"
 "traits":
 - "desc": "When the magmin dies, it explodes in a burst of fire and magma. Each creature\
-    \ within 10 feet of it must make a DC 11 Dexterity saving throw, taking dice:\
-    \ 2d6|avg (2d6) fire damage on a failed save, or half as much damage on a successful\
+    \ within 10 feet of it must make a DC 11 Dexterity saving throw, taking dice:2d6|text(7)\
+    \ (2d6) fire damage on a failed save, or half as much damage on a successful\
     \ one. Flammable objects that aren't being worn or carried in that area are ignited."
   "name": "Death Burst"
 - "desc": "As a bonus action, the magmin can set itself ablaze or extinguish its flames.\
@@ -57,11 +58,11 @@ If it has the opportunity while in service to its master, a magmin seeks out are
     \ for an additional 10 feet."
   "name": "Ignited Illumination"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6|avg (2d6) fire damage. If the target is a creature or a\
-    \ flammable object, it ignites. Until a creature takes an action to douse the\
-    \ fire, the target takes dice: 1d6|avg (1d6) fire damage at the end of each\
-    \ of its turns."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6|text(7) (2d6) fire damage. If the target is a creature or\
+    \ a flammable object, it ignites. Until a creature takes an action to douse the\
+    \ fire, the target takes dice:1d6|text(3) (1d6) fire damage at the end of\
+    \ each of its turns."
   "name": "Touch"
 "source":
 - "MM"

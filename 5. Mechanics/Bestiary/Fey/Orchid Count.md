@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Orchid Count
 ---
-# [[5. Mechanics\Bestiary\Fey\Orchid Count.md|Orchid Count]]
+# [[5. Mechanics/Bestiary/Fey/Orchid Count.md|Orchid Count]]
 *Source: Strongholds and Followers p. 180*
 
 The dashing archer-sorcerer of the Court, the Count is often seen flanked by two Mantis Knights, dueling and carousing their way through Alloy, the City of Four Elements, known in some realms as the City of Brass.
@@ -31,6 +31,7 @@ The Count relies on his Now You See Me... Now You Don't... combo to get in and o
 "type": "fey"
 "alignment": "Chaotic"
 "ac": !!int "16"
+"ac_class": "[[5. Mechanics/Items/Studded Leather Armor.md|studded leather armor]]"
 "hp": !!int "97"
 "hit_dice": "13d8 + 39"
 "stats":
@@ -76,17 +77,17 @@ The Count relies on his Now You See Me... Now You Don't... combo to get in and o
 - "desc": "As a reaction, if an enemy the Count can see makes a successful melee or\
     \ ranged attack roll against him, he casts misty step."
   "name": "Now You Don't... (Recharge 4-6)"
-- "desc": "If the Count has advantage on an attack roll, he deals an extra dice:\
-    \ 2d6|avg (2d6) damage."
+- "desc": "If the Count has advantage on an attack roll, he deals an extra dice:2d6|text(7)\
+    \ (2d6) damage."
   "name": "Tactical Advantage"
 "actions":
 - "desc": "The count makes three attacks with his rapier or longbow in any combination."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 4|text(8) (1d8 + 4) piercing damage."
   "name": "Rapier"
-- "desc": "Ranged Weapon Attack: dice: d20+7 (+7 to hit), range 150/600 ft., one\
-    \ target. Hit: dice: 2d6 + 4|avg (2d6 + 4) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+7 (+7) to hit, range 150/600 ft.,\
+    \ one target. Hit: dice:2d6 + 4|text(11) (2d6 + 4) piercing damage."
   "name": "Longbow"
 "source":
 - "SaF"

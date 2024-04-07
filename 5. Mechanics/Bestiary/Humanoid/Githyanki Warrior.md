@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Githyanki Warrior
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Githyanki Warrior.md|Githyanki Warrior]]
+# [[5. Mechanics/Bestiary/Humanoid/Githyanki Warrior.md|Githyanki Warrior]]
 *Source: Monster Manual p. 160*
 
 The githyanki plunder countless worlds from the decks of their astral vessels and the backs of red dragons. Feathers, beads, gems, and precious metals decorate their armor and weapons-the legendary silver swords with which they cut through their foes. Since winning their freedom from the mind flayers, the githyanki have become ruthless conquerors under the rulership of their dread lich-queen, Vlaakith.
@@ -63,6 +63,7 @@ Whether these tall, gaunt creatures were peaceful or savage, cultured or primiti
 "subtype": "gith"
 "alignment": "Lawful Evil"
 "ac": !!int "17"
+"ac_class": "[[5. Mechanics/Items/Half Plate Armor.md|half plate armor]]"
 "hp": !!int "49"
 "hit_dice": "9d8 + 9"
 "stats":
@@ -90,8 +91,8 @@ Whether these tall, gaunt creatures were peaceful or savage, cultured or primiti
 "actions":
 - "desc": "The githyanki makes two greatsword attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 2|avg (2d6 + 2) slashing damage plus dice: 2d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 2|text(9) (2d6 + 2) slashing damage plus dice:2d6|text(7)\
     \ (2d6) psychic damage."
   "name": "Greatsword"
 "source":

@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Zakya Rakshasa
 ---
-# [[5. Mechanics\Bestiary\Fiend\Zakya Rakshasa.md|Zakya Rakshasa]]
+# [[5. Mechanics/Bestiary/Fiend/Zakya Rakshasa.md|Zakya Rakshasa]]
 *Source: Eberron: Rising from the Last War p. 309*
 
 Millions of years before the rise of the humanoid races, the rakshasas of Eberron ruled a civilization that spanned Khorvaire. Masters of combat, the rakshasas of Eberron wield their weapons with demonic fury, rushing into battle seeking vengeance against those who bound their fiendish masters.
@@ -25,6 +25,7 @@ Zakya rakshasas are the bloodthirsty foot soldiers of the rakshasa horde. They a
 "type": "fiend"
 "alignment": "Lawful Evil"
 "ac": !!int "18"
+"ac_class": "[[5. Mechanics/Items/Scale Mail.md|scale mail]], [[5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "59"
 "hit_dice": "7d8 + 28"
 "stats":
@@ -56,8 +57,8 @@ Zakya rakshasas are the bloodthirsty foot soldiers of the rakshasa horde. They a
 - "desc": "The rakshasa's weapon attacks are magical."
   "name": "Magic Weapons"
 - "desc": "When the rakshasa hits a creature with a melee weapon attack, the attack\
-    \ deals an extra dice: 2d10|avg (2d10) damage of the weapon's type, and the\
-    \ creature must make a DC 15 Strength saving throw. On a failure, the rakshasa\
+    \ deals an extra dice:2d10|text(11) (2d10) damage of the weapon's type, and\
+    \ the creature must make a DC 15 Strength saving throw. On a failure, the rakshasa\
     \ can push the creature up to 10 feet away from it, knock the creature [[/5. Mechanics/Rules/Conditions.md#prone|prone]],\
     \ or make the creature drop one item it is holding of the rakshasa's choice."
   "name": "Martial Prowess (1/Turn)"
@@ -65,12 +66,12 @@ Zakya rakshasas are the bloodthirsty foot soldiers of the rakshasa horde. They a
 - "desc": "The rakshasa makes three melee weapon attacks. Alternatively, it can make\
     \ two ranged attacks with its javelins."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) slashing damage, or dice: 1d10 + 4|avg\
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 4|text(8) (1d8 + 4) slashing damage, or dice:1d10 + 4|text(9)\
     \ (1d10 + 4) slashing damage if used with two hands."
   "name": "Longsword"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft.\
-    \ or range 30/120 ft., one target. Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing\
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft.\
+    \ or range 30/120 ft., one target. Hit: dice:1d6 + 4|text(7) (1d6 + 4) piercing\
     \ damage."
   "name": "Javelin"
 "source":

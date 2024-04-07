@@ -13,7 +13,6 @@ aliases:
   - Thorn Whip
 ---
 # Thorn Whip
-%%-- Embedded content starts on the next line. --%%
 *cantrip, Transmutation*  
 
 - **Casting time:** 1 action
@@ -21,9 +20,9 @@ aliases:
 - **Components:** V, S, the stem of a plant with thorns
 - **Duration:** Instantaneous
 
-You create a long, vine-like whip covered in thorns that lashes out at your command toward a creature in range. Make a melee spell attack against the target. If the attack hits, the creature takes `dice: 1d6|avg` (`1d6`) piercing damage, and if the creature is Large or smaller, you pull the creature up to 10 feet closer to you.
+You create a long, vine-like whip covered in thorns that lashes out at your command toward a creature in range. Make a melee spell attack against the target. If the attack hits, the creature takes `dice: 1d6|avg|noform` (`1d6`) piercing damage, and if the creature is Large or smaller, you pull the creature up to 10 feet closer to you.
 
-This spell's damage increases by `dice: 1d6|avg` (`1d6`) when you reach 5th level (`dice: 2d6|avg` (`2d6`)), 11th level (`dice: 3d6|avg` (`3d6`)), and 17th level (`dice: 4d6|avg` (`4d6`)).
+This spell's damage increases by `dice: 1d6|avg|noform` (`1d6`) when you reach 5th level (`dice: 2d6|avg|noform` (`2d6`)), 11th level (`dice: 3d6|avg|noform` (`3d6`)), and 17th level (`dice: 4d6|avg|noform` (`4d6`)).
 
 **Classes**: [[5. Mechanics/Classes/Artificer.md\|Artificer]], [[5. Mechanics/Classes/Cleric Nature Domain.md\|Cleric (Nature Domain)]], [[5. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Druid.md\|Druid]]
 

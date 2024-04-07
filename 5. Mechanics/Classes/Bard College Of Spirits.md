@@ -30,7 +30,7 @@ You can reach out to spirits to guide you and others. You learn the [[5. Mechani
 
 You employ tools that aid you in channeling spirits, be they historical figures or fictional archetypes. You can use the following objects as a spellcasting focus for your bard spells: a candle, crystal ball, skull, spirit board, or [[5. Mechanics/Decks/Tarokka Deck.md\|tarokka deck]].
 
-Starting at 6th level, when you cast a bard spell that deals damage or restores hit points through the Spiritual Focus, roll a `dice: d6|avg` (`d6`), and you gain a bonus to one damage or healing roll of the spell equal to the number rolled.
+Starting at 6th level, when you cast a bard spell that deals damage or restores hit points through the Spiritual Focus, roll a `dice: d6|avg|noform` (`d6`), and you gain a bonus to one damage or healing roll of the spell equal to the number rolled.
 
 ### Tales from Beyond (Level 3)
 
@@ -48,7 +48,7 @@ If the tale requires a saving throw, the DC equals your spell save DC.
 
 | Bardic Insp. Die | Tale Told Through You |
 |------------------|-----------------------|
-| 1 | Tale of the Clever Animal. For the next 10 minutes, whenever the target makes an Intelligence, a Wisdom, or a Charisma check, the target can roll an extra die immediately after rolling the `dice: d20\|avg` (`d20`) and add the extra die's number to the check. The extra die is the same type as your Bardic Inspiration die. |
+| 1 | Tale of the Clever Animal. For the next 10 minutes, whenever the target makes an Intelligence, a Wisdom, or a Charisma check, the target can roll an extra die immediately after rolling the `dice: d20\|avg|noform` (`d20`) and add the extra die's number to the check. The extra die is the same type as your Bardic Inspiration die. |
 | 2 | Tale of the Renowned Duelist. You make a melee spell attack against the target. On a hit, the target takes force damage equal to two rolls of your Bardic Inspiration die + your Charisma modifier. |
 | 3 | Tale of the Beloved Friends. The target and another creature of its choice it can see within 5 feet of it gains temporary hit points equal to a roll of your Bardic Inspiration die + your Charisma modifier. |
 | 4 | Tale of the Runaway. The target can immediately use its reaction to teleport up to 30 feet to an unoccupied space it can see. When the target teleports, it can choose a number of creatures it can see within 30 feet of it up to your Charisma modifier (minimum of 0) to immediately use the same reaction. |

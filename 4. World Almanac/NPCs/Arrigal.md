@@ -121,6 +121,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 "subtype": "human"
 "alignment": "Neutral Evil"
 "ac": !!int "15"
+"ac_class": "[[5. Mechanics/Items/Studded Leather Armor.md|studded leather]]"
 "hp": !!int "78"
 "hit_dice": "12d8 + 24"
 "stats":
@@ -152,23 +153,24 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ saving throw to take only half damage, Arrigal instead takes no damage if it\
     \ succeeds on the saving throw, and only half damage if it fails."
   "name": "Evasion"
-- "desc": "Arrigal deals an extra dice: 4d6|avg (4d6) damage when it hits a target\
-    \ with a weapon attack and has advantage on the attack roll, or when the target\
-    \ is within 5 feet of an ally of Arrigal that isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
+- "desc": "Arrigal deals an extra dice:4d6|text(14) (4d6) damage when it hits\
+    \ a target with a weapon attack and has advantage on the attack roll, or when\
+    \ the target is within 5 feet of an ally of Arrigal that isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
     \ and Arrigal doesn't have disadvantage on the attack roll."
   "name": "Sneak Attack (1/Turn)"
 "actions":
 - "desc": "Arrigal makes two shortsword attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage, and the target must\
-    \ make a DC 15 Constitution saving throw, taking dice: 7d6|avg (7d6) poison\
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 3|text(6) (1d6 + 3) piercing damage, and the target must\
+    \ make a DC 15 Constitution saving throw, taking dice:7d6|text(24) (7d6) poison\
     \ damage on a failed save, or half as much damage on a successful one."
   "name": "Shortsword"
-- "desc": "Ranged Weapon Attack: dice: d20+6 (+6 to hit), range 80/320 ft., one\
-    \ target. Hit: dice: 1d8 + 3|avg (1d8 + 3) piercing damage, and the target\
-    \ must make a DC 15 Constitution saving throw, taking dice: 7d6|avg (7d6)\
-    \ poison damage on a failed save, or half as much damage on a successful one."
+- "desc": "Ranged Weapon Attack: dice: d20+6 (+6) to hit, range 80/320 ft.,\
+    \ one target. Hit: dice:1d8 + 3|text(7) (1d8 + 3) piercing damage, and the\
+    \ target must make a DC 15 Constitution saving throw, taking dice:7d6|text(24)\
+    \ (7d6) poison damage on a failed save, or half as much damage on a successful\
+    \ one."
   "name": "Light Crossbow"
 "source":
 - "CoS"

@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Broom of Animated Attack
 ---
-# [[5. Mechanics\Bestiary\Construct\Broom Of Animated Attack.md|Broom of Animated Attack]]
+# [[5. Mechanics/Bestiary/Construct/Broom Of Animated Attack.md|Broom of Animated Attack]]
 *Source: Curse of Strahd p. 226*
 
 A broom of animated attack is easily mistaken for a broom of flying. It attacks any creature that grabs it or tries to ride it.
@@ -25,6 +25,7 @@ Some brooms of animated attack allow their creators to ride them, in which case 
 "type": "construct"
 "alignment": "Unaligned"
 "ac": !!int "15"
+"ac_class": "natural armor"
 "hp": !!int "17"
 "hit_dice": "5d6"
 "stats":
@@ -63,8 +64,8 @@ Some brooms of animated attack allow their creators to ride them, in which case 
 "actions":
 - "desc": "The broom makes two melee attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d4 + 3|text(5) (1d4 + 3) bludgeoning damage."
   "name": "Broomstick"
 "reactions":
 - "desc": "If the broom is motionless and a creature grabs hold of it, the broom makes\

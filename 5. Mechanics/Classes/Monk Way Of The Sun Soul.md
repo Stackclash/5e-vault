@@ -22,7 +22,7 @@ Monks of the Way of the Sun Soul learn to channel their life energy into searing
 
 Starting when you choose this tradition at 3rd level, you can hurl searing bolts of magical radiance.
 
-You gain a new attack option that you can use with the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action. The special attack is a ranged spell attack with a range of 30 feet. You are proficient with it, and you add your Dexterity modifier to its attack and damage rolls. Its damage is radiant, and its damage die is a `dice: d4|avg` (`d4`). This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.
+You gain a new attack option that you can use with the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action. The special attack is a ranged spell attack with a range of 30 feet. You are proficient with it, and you add your Dexterity modifier to its attack and damage rolls. Its damage is radiant, and its damage die is a `dice: d4|avg|noform` (`d4`). This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.
 
 When you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action on your turn and use this special attack as part of it, you can spend 1 ki point to make the special attack twice as a bonus action. When you gain the Extra Attack feature, this special attack can be used for any of the attacks you make as part of the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action.
 
@@ -36,9 +36,9 @@ You can spend additional ki points to cast [[5. Mechanics/Spells/Burning Hands.m
 
 At 11th level, you gain the ability to create an orb of light that erupts into a devastating explosion. As an action, you magically create an orb and hurl it at a point you choose within 150 feet, where it erupts into a sphere of radiant light for a brief but deadly instant.
 
-Each creature in that 20-foot-radius sphere must succeed on a Constitution saving throw or take `dice: 2d6|avg` (`2d6`) radiant damage. A creature doesn't need to make the save if the creature is behind total cover that is opaque.
+Each creature in that 20-foot-radius sphere must succeed on a Constitution saving throw or take `dice: 2d6|avg|noform` (`2d6`) radiant damage. A creature doesn't need to make the save if the creature is behind total cover that is opaque.
 
-You can increase the sphere's damage by spending ki points. Each point you spend, to a maximum of 3, increases the damage by `dice: 2d6|avg` (`2d6`).
+You can increase the sphere's damage by spending ki points. Each point you spend, to a maximum of 3, increases the damage by `dice: 2d6|avg|noform` (`2d6`).
 
 ### Sun Shield (Level 17)
 

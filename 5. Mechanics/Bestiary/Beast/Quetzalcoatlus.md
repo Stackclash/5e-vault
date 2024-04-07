@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Quetzalcoatlus
 ---
-# [[5. Mechanics\Bestiary\Beast\Quetzalcoatlus.md|Quetzalcoatlus]]
+# [[5. Mechanics/Bestiary/Beast/Quetzalcoatlus.md|Quetzalcoatlus]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 96, Volo's Guide to Monsters p. 140*
 
 This giant relative of the pteranodon has a wingspan exceeding 30 feet. Although it can walk like a quadruped, it is more comfortable in the air.
@@ -25,6 +25,7 @@ This giant relative of the pteranodon has a wingspan exceeding 30 feet. Although
 "subtype": "dinosaur"
 "alignment": "Unaligned"
 "ac": !!int "13"
+"ac_class": "natural armor"
 "hp": !!int "30"
 "hit_dice": "4d12 + 4"
 "stats":
@@ -45,10 +46,10 @@ This giant relative of the pteranodon has a wingspan exceeding 30 feet. Although
     \ when it flies out of an enemy's reach."
   "name": "Flyby"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 10 ft., one creature.\
-    \ Hit: dice: 3d6 + 2|avg (3d6 + 2) piercing damage. If the quetzalcoatlus\
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 10 ft., one creature.\
+    \ Hit: dice:3d6 + 2|text(12) (3d6 + 2) piercing damage. If the quetzalcoatlus\
     \ flew least 30 feet toward the target immediately before the hit, the target\
-    \ takes an extra dice: 3d6|avg (3d6) piercing damage."
+    \ takes an extra dice:3d6|text(10) (3d6) piercing damage."
   "name": "Bite"
 "source":
 - "MPMM"

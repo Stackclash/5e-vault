@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Death Kiss
 ---
-# [[5. Mechanics\Bestiary\Aberration\Death Kiss.md|Death Kiss]]
+# [[5. Mechanics/Bestiary/Aberration/Death Kiss.md|Death Kiss]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 85, Volo's Guide to Monsters p. 124*
 
 A death kiss is a lesser beholder that can come into being when a true beholder has a vivid nightmare about losing blood. Its coloration and shape resemble those of the beholder that dreamed it into existence, but its hue is more muted, and instead of magical eye rays, it has ten long tentacles, each ending in a mouth full of teeth. It can speak through any of its tentacle-maws in a high-pitched, nasal voice.
@@ -29,6 +29,7 @@ A death kiss lacks the combat finesse and intelligence of a true beholder. In mo
 "subtype": "beholder"
 "alignment": "Typically  Neutral Evil"
 "ac": !!int "15"
+"ac_class": "natural armor"
 "hp": !!int "142"
 "hit_dice": "15d10 + 60"
 "stats":
@@ -50,7 +51,7 @@ A death kiss lacks the combat finesse and intelligence of a true beholder. In mo
 "languages": "Deep Speech, Undercommon"
 "cr": "10"
 "traits":
-- "desc": "A creature within 5 feet of the death kiss takes dice: 1d10|avg (1d10)\
+- "desc": "A creature within 5 feet of the death kiss takes dice:1d10|text(5) (1d10)\
     \ lightning damage whenever it hits the death kiss with a melee attack that deals\
     \ piercing or slashing damage."
   "name": "Lightning Blood"
@@ -58,17 +59,17 @@ A death kiss lacks the combat finesse and intelligence of a true beholder. In mo
 - "desc": "The death kiss makes three Tentacle attacks. Up to three of these attacks\
     \ can be replaced by Blood Drain—one replacement per tentacle grappling a creature."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 20 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) piercing damage, and the target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ (escape DC 14) if it is a Huge or smaller creature. Until this grapple ends,\
-    \ the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]], and\
-    \ the death kiss can't use the same tentacle on another target. The death kiss\
-    \ has ten tentacles."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 20 ft., one target.\
+    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) piercing damage, and the target is\
+    \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 14) if it is\
+    \ a Huge or smaller creature. Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+    \ and the death kiss can't use the same tentacle on another target. The death\
+    \ kiss has ten tentacles."
   "name": "Tentacle"
 - "desc": "One creature [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] by a\
     \ tentacle of the death kiss must make a DC 16 Constitution saving throw. On a\
-    \ failed save, the target takes dice: 4d10|avg (4d10) lightning damage, and\
-    \ the death kiss regains half as many hit points."
+    \ failed save, the target takes dice:4d10|text(22) (4d10) lightning damage,\
+    \ and the death kiss regains half as many hit points."
   "name": "Blood Drain"
 "source":
 - "MPMM"

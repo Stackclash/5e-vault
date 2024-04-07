@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Raven
 ---
-# [[5. Mechanics\Bestiary\Beast\Raven.md|Raven]]
+# [[5. Mechanics/Bestiary/Beast/Raven.md|Raven]]
 *Source: Monster Manual p. 335, Curse of Strahd. Available in the SRD and the Basic Rules.*
 
 ```statblock
@@ -44,7 +44,7 @@ aliases:
     \ check."
   "name": "Mimicry"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
     \ Hit: 1 piercing damage."
   "name": "Beak"
 "source":

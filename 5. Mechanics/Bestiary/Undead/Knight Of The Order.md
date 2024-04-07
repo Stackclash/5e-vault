@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Knight of the Order
 ---
-# [[5. Mechanics\Bestiary\Undead\Knight Of The Order.md|Knight of the Order]]
+# [[5. Mechanics/Bestiary/Undead/Knight Of The Order.md|Knight of the Order]]
 *Source: Curse of Strahd p. 139*
 
 ```statblock
@@ -19,6 +19,7 @@ aliases:
 "type": "undead"
 "alignment": "Lawful Evil"
 "ac": !!int "13"
+"ac_class": "broken chainmail"
 "hp": !!int "136"
 "hit_dice": "16d8 + 64"
 "stats":
@@ -63,17 +64,17 @@ aliases:
 "actions":
 - "desc": "The knight makes two longsword attacks or two fist attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d10 + 4|avg (2d10 + 4) slashing damage. If the target is a\
-    \ creature against which the knight has sworn vengeance, the target takes an extra\
-    \ dice: 4d6|avg (4d6) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d10 + 4|text(15) (2d10 + 4) slashing damage. If the target\
+    \ is a creature against which the knight has sworn vengeance, the target takes\
+    \ an extra dice:4d6|text(14) (4d6) slashing damage."
   "name": "Longsword"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) bludgeoning damage. If the target is\
-    \ a creature against which the knight has sworn vengeance, the target takes an\
-    \ extra dice: 4d6|avg (4d6) bludgeoning damage. Instead of dealing damage,\
-    \ the knight can grapple the target (escape DC 14) provided the target is Large\
-    \ or smaller."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) bludgeoning damage. If the target\
+    \ is a creature against which the knight has sworn vengeance, the target takes\
+    \ an extra dice:4d6|text(14) (4d6) bludgeoning damage. Instead of dealing\
+    \ damage, the knight can grapple the target (escape DC 14) provided the target\
+    \ is Large or smaller."
   "name": "Fist"
 - "desc": "The knight targets one creature it can see within 30 feet of it and against\
     \ which it has sworn vengeance. The target must make a DC 15 Wisdom saving throw.\

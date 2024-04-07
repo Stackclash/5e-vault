@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Valenar Steed
 ---
-# [[5. Mechanics\Bestiary\Fey\Valenar Steed.md|Valenar Steed]]
+# [[5. Mechanics/Bestiary/Fey/Valenar Steed.md|Valenar Steed]]
 *Source: Eberron: Rising from the Last War p. 313*
 
 The elves of Valenar say that when their ancestors fought the giants of Xen'drik, elf druids took the forms of animals on the battlefield. The cruel and mighty Emperor Cul'sir of the giants laid a curse upon the druids and trapped them in the forms of animals. Just as the ancestors of the Valenar guide their warriors in battle, the spirits of these druids can awaken power in an animal to create a companion worthy of a champion.
@@ -68,8 +68,8 @@ Each Valenar animal can be customized with an ancestral gift, a supernatural tra
     \ communicate telepathically with each other at a distance of up to 100 feet."
   "name": "Bonding"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 3|text(10) (2d6 + 3) bludgeoning damage."
   "name": "Hooves"
 "source":
 - "ERLW"

@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Alienist
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Alienist.md|Alienist]]
+# [[5. Mechanics/Bestiary/Humanoid/Alienist.md|Alienist]]
 *Source: Strongholds and Followers p. 80*
 
 ```statblock
@@ -20,6 +20,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "13"
+"ac_class": "Light"
 "stats":
 - !!int "14"
 - !!int "14"
@@ -46,7 +47,7 @@ aliases:
   "name": "Retainer"
 "actions":
 - "desc": "The alienist casts the [[5. Mechanics/Spells/Eldritch Blast.md|eldritch blast]]\
-    \ cantrip (dice: d20+6 (+6 to hit)).\n\nAt 7th level, retainers can take two\
+    \ cantrip (dice: d20+6 (+6) to hit).\n\nAt 7th level, retainers can take two\
     \ signature attacks per round."
   "name": "Signature Attack"
 - "desc": "Prerequisite: 3rd-level retainer\n\nThe alienist casts the [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]]\

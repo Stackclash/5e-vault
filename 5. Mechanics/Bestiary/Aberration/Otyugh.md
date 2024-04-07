@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Otyugh
 ---
-# [[5. Mechanics\Bestiary\Aberration\Otyugh.md|Otyugh]]
+# [[5. Mechanics/Bestiary/Aberration/Otyugh.md|Otyugh]]
 *Source: Monster Manual p. 248. Available in the SRD.*
 
 An otyugh is a grotesque, bulbous creature borne along on three sturdy legs, its eyes and nose set along a vine-like stalk that snakes from the top of its bloated body. Two rubbery tentacles end in spiky, leaf-like appendages that the otyugh uses to shovel food into its gaping maw.
@@ -36,6 +36,7 @@ Sentient subterranean beings can coexist with otyughs, employing them as garbage
 "type": "aberration"
 "alignment": "Neutral"
 "ac": !!int "14"
+"ac_class": "natural armor"
 "hp": !!int "114"
 "hit_dice": "12d10 + 48"
 "stats":
@@ -59,18 +60,18 @@ Sentient subterranean beings can coexist with otyughs, employing them as garbage
 "actions":
 - "desc": "The otyugh makes three attacks: one with its bite and two with its tentacles."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 3|avg (2d8 + 3) piercing damage. If the target is a creature,\
-    \ it must succeed on a DC 15 Constitution saving throw against disease or become\
-    \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] until the disease is cured.\
-    \ Every 24 hours that elapse, the target must repeat the saving throw, reducing\
-    \ its hit point maximum by dice: 1d10|avg (1d10) on a failure. The disease\
-    \ is cured on a success. The target dies if the disease reduces its hit point\
-    \ maximum to 0. This reduction to the target's hit point maximum lasts until the\
-    \ disease is cured."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d8 + 3|text(12) (2d8 + 3) piercing damage. If the target is\
+    \ a creature, it must succeed on a DC 15 Constitution saving throw against disease\
+    \ or become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] until the disease\
+    \ is cured. Every 24 hours that elapse, the target must repeat the saving throw,\
+    \ reducing its hit point maximum by dice:1d10|text(5) (1d10) on a failure.\
+    \ The disease is cured on a success. The target dies if the disease reduces its\
+    \ hit point maximum to 0. This reduction to the target's hit point maximum lasts\
+    \ until the disease is cured."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) bludgeoning damage plus dice: 1d8|avg\
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 10 ft., one target.\
+    \ Hit: dice:1d8 + 3|text(7) (1d8 + 3) bludgeoning damage plus dice:1d8|text(4)\
     \ (1d8) piercing damage. If the target is Medium or smaller, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ (escape DC 13) and [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
     \ until the grapple ends. The otyugh has two tentacles, each of which can grapple\
@@ -78,7 +79,7 @@ Sentient subterranean beings can coexist with otyughs, employing them as garbage
   "name": "Tentacle"
 - "desc": "The otyugh slams creatures [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ by it into each other or a solid surface. Each creature must succeed on a DC\
-    \ 14 Constitution saving throw or take dice: 2d6 + 3|avg (2d6 + 3) bludgeoning\
+    \ 14 Constitution saving throw or take dice:2d6 + 3|text(10) (2d6 + 3) bludgeoning\
     \ damage and be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]] until the end\
     \ of the otyugh's next turn. On a successful save, the target takes half the bludgeoning\
     \ damage and isn't [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]."

@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Troubadour-warrior
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Troubadour Warrior.md|Troubadour-warrior]]
+# [[5. Mechanics/Bestiary/Humanoid/Troubadour Warrior.md|Troubadour-warrior]]
 *Source: Strongholds and Followers p. 73*
 
 ```statblock
@@ -20,6 +20,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "13"
+"ac_class": "Light"
 "stats":
 - !!int "14"
 - !!int "14"
@@ -46,14 +47,14 @@ aliases:
 - "desc": "This creature is a Retainer, as described in \"Strongholds and Followers\""
   "name": "Retainer"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) slashing damage.\n\nAt 7th level, retainers\
-    \ can take two signature attacks per round."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 3|text(7) (1d8 + 3) slashing damage.\n\nAt 7th level,\
+    \ retainers can take two signature attacks per round."
   "name": "Signature Attack"
 "reactions":
 - "desc": "Prerequisite: 3rd-level retainer\n\nAfter an ally within 60 feet that\
-    \ the troubadour-warrior can see makes an attack, roll a dice: d6|avg (d6)\
-    \ and add the result to the ally's result."
+    \ the troubadour-warrior can see makes an attack, roll a dice: d6|avg|noform\
+    \ (d6) and add the result to the ally's result."
   "name": "Cheer (3/Day)"
 - "desc": "Prerequisite: 5th-level retainer\n\nAfter an ally hits an enemy creature,\
     \ the troubadour-warrior can convert the hit into a critical hit."

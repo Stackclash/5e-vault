@@ -13,7 +13,6 @@ aliases:
   - Sunburst
 ---
 # Sunburst
-%%-- Embedded content starts on the next line. --%%
 *8th-level, Evocation*  
 
 - **Casting time:** 1 action
@@ -21,7 +20,7 @@ aliases:
 - **Components:** V, S, fire and a piece of sunstone
 - **Duration:** Instantaneous
 
-Brilliant sunlight flashes in a 60-foot radius centered on a point you choose within range. Each creature in that light must make a Constitution saving throw. On a failed save, a creature takes `dice: 12d6|avg` (`12d6`) radiant damage and is [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]] for 1 minute. On a successful save, it takes half as much damage and isn't [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]] by this spell. Undead and oozes have disadvantage on this saving throw.
+Brilliant sunlight flashes in a 60-foot radius centered on a point you choose within range. Each creature in that light must make a Constitution saving throw. On a failed save, a creature takes `dice: 12d6|avg|noform` (`12d6`) radiant damage and is [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]] for 1 minute. On a successful save, it takes half as much damage and isn't [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]] by this spell. Undead and oozes have disadvantage on this saving throw.
 
 A creature [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]] by this spell makes another Constitution saving throw at the end of each of its turns. On a successful save, it is no longer [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]].
 

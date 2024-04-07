@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Monodrone
 ---
-# [[5. Mechanics\Bestiary\Construct\Monodrone.md|Monodrone]]
+# [[5. Mechanics/Bestiary/Construct/Monodrone.md|Monodrone]]
 *Source: Monster Manual p. 224*
 
 A monodrone can perform one simple task at a time and can relay a single message of up to forty-eight words.
@@ -53,6 +53,7 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
 "type": "construct"
 "alignment": "Lawful Neutral"
 "ac": !!int "15"
+"ac_class": "natural armor"
 "hp": !!int "5"
 "hit_dice": "1d8 + 1"
 "stats":
@@ -74,11 +75,12 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
     \ its weapons and anything else it was carrying."
   "name": "Disintegration"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 1|avg (1d4 + 1) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d4 + 1|text(3) (1d4 + 1) piercing damage."
   "name": "Dagger"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft.\
-    \ or range 30/120 ft., one target. Hit: dice: 1d6|avg (1d6) piercing damage."
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+2 (+2) to hit, reach 5 ft.\
+    \ or range 30/120 ft., one target. Hit: dice:1d6|text(3) (1d6) piercing\
+    \ damage."
   "name": "Javelin"
 "source":
 - "MM"

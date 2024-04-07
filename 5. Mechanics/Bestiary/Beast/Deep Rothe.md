@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Deep Rothé
 ---
-# [Deep Rothé](compendium\bestiary\beast/deep-rothe-mpmm.md)
+# [Deep Rothé](compendium/bestiary/beast/deep-rothe-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 71, Volo's Guide to Monsters p. 208*
 
 Deep rothe are Underdark cattle that communicate with one another using the dancing lights spell. Some scholars speculate that rothe came originally from the Feywild and brought the ability to cast the spell with them. Other sages attribute the ability to the centuries rothe have spent in the Underdark, where ambient magic slowly transforms everything.
@@ -49,10 +49,10 @@ Many kinds of cattle roam the multiverse, some of them domesticated and others f
     \ its carrying capacity."
   "name": "Beast of Burden"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing damage. If the rothé moved at\
-    \ least 20 feet straight toward the target immediately before the hit, the target\
-    \ takes an extra dice: 2d6|avg (2d6) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 4|text(7) (1d6 + 4) piercing damage. If the rothé moved\
+    \ at least 20 feet straight toward the target immediately before the hit, the\
+    \ target takes an extra dice:2d6|text(7) (2d6) piercing damage."
   "name": "Gore"
 "source":
 - "MPMM"

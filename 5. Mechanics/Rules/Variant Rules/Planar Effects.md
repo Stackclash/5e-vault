@@ -31,7 +31,7 @@ Whenever a creature or group of creatures leaves the Feywild after spending at l
 
 A melancholic atmosphere pervades the Shadowfell. Extended forays to this plane can afflict characters with despair, as reflected in this optional rule.
 
-When you deem it appropriate, though usually not more than once per day, you can require a character not native to the Shadowfell to make a DC 10 Wisdom saving throw. On a failure, the character is affected by despair. Roll a `dice: d6|avg` (`d6`) to determine the effects, using the Shadowfell Despair table. You can substitute different despair effects of your own creation.
+When you deem it appropriate, though usually not more than once per day, you can require a character not native to the Shadowfell to make a DC 10 Wisdom saving throw. On a failure, the character is affected by despair. Roll a `dice: d6|avg|noform` (`d6`) to determine the effects, using the Shadowfell Despair table. You can substitute different despair effects of your own creation.
 
 ![[5. Mechanics/Tables/Shadowfell Despair.md\|Shadowfell Despair]]
 
@@ -49,7 +49,7 @@ In contrast to the dissonance experienced by evil creatures here, good creatures
 
 ## Bytopia: Pervasive Goodwill
 
-At the end of each long rest taken on this plane, a visitor that is neither lawful good nor neutral good must make a DC 10 Wisdom saving throw. On a failed save, the creature's alignment changes to lawful good or neutral good (whichever is closer to the creature's current alignment). The change becomes permanent if the creature doesn't leave the plane within `dice: 1d4|avg` (`1d4`) days. Otherwise, the creature's alignment reverts to normal after one day spent on a plane other than Bytopia. Casting the [[5. Mechanics/Spells/Dispel Evil And Good.md\|dispel evil and good]] spell on the creature also restores its original alignment.
+At the end of each long rest taken on this plane, a visitor that is neither lawful good nor neutral good must make a DC 10 Wisdom saving throw. On a failed save, the creature's alignment changes to lawful good or neutral good (whichever is closer to the creature's current alignment). The change becomes permanent if the creature doesn't leave the plane within `dice: 1d4|avg|noform` (`1d4`) days. Otherwise, the creature's alignment reverts to normal after one day spent on a plane other than Bytopia. Casting the [[5. Mechanics/Spells/Dispel Evil And Good.md\|dispel evil and good]] spell on the creature also restores its original alignment.
 
 ## Elysium: Overwhelming Joy
 
@@ -89,7 +89,7 @@ A non-evil visitor that finishes a long rest in the Abyss must make a DC 10 Char
 
 After finishing a long rest, a corrupted creature can make a DC 15 Charisma saving throw. On a successful save, the corruption effect ends. A [[5. Mechanics/Spells/Dispel Evil And Good.md\|dispel evil and good]] spell or any magic that removes a curse also ends the effect.
 
-If a corrupted creature doesn't leave the plane within `dice: 1d4 + 2|avg` (`1d4 + 2`) days, its alignment changes to chaotic evil. Casting the [[5. Mechanics/Spells/Dispel Evil And Good.md\|dispel evil and good]] spell on the creature restores its original alignment.
+If a corrupted creature doesn't leave the plane within `dice: 1d4 + 2|avg|noform` (`1d4 + 2`) days, its alignment changes to chaotic evil. Casting the [[5. Mechanics/Spells/Dispel Evil And Good.md\|dispel evil and good]] spell on the creature restores its original alignment.
 
 **Abyssal Corruption**
 
@@ -121,7 +121,7 @@ The plane's cruel nature makes it difficult for visitors to help one another. Wh
 
 ## The Nine Hells: Pervasive Evil
 
-Evil pervades the Nine Hells, and visitors to this plane feel its influence. At the end of each long rest taken on this plane, a visitor that isn't evil must make a DC 10 Wisdom saving throw. On a failed save, the creature's alignment changes to lawful evil. The change becomes permanent if the creature doesn't leave the plane within `dice: 1d4|avg` (`1d4`) days. Otherwise, the creature's alignment reverts to normal after one day spent on a plane other than the Nine Hells. Casting the [[5. Mechanics/Spells/Dispel Evil And Good.md\|dispel evil and good]] spell on the creature also restores its original alignment.
+Evil pervades the Nine Hells, and visitors to this plane feel its influence. At the end of each long rest taken on this plane, a visitor that isn't evil must make a DC 10 Wisdom saving throw. On a failed save, the creature's alignment changes to lawful evil. The change becomes permanent if the creature doesn't leave the plane within `dice: 1d4|avg|noform` (`1d4`) days. Otherwise, the creature's alignment reverts to normal after one day spent on a plane other than the Nine Hells. Casting the [[5. Mechanics/Spells/Dispel Evil And Good.md\|dispel evil and good]] spell on the creature also restores its original alignment.
 
 ## Acheron: Bloodlust
 
@@ -129,7 +129,7 @@ Acheron rewards a creature for harming other creatures by imbuing that creature 
 
 ## Mechanus: Law of Averages
 
-While on Mechanus, creatures always use the average damage result for attacks and spells. For example, an attack that normally deals `dice: 1d10 + 5|avg` (`1d10 + 5`) damage always deals 10 damage on Mechanus.
+While on Mechanus, creatures always use the average damage result for attacks and spells. For example, an attack that normally deals `dice: 1d10 + 5|avg|noform` (`1d10 + 5`) damage always deals 10 damage on Mechanus.
 
 ## Mechanus: Imposing Order
 

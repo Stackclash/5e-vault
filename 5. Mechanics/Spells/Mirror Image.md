@@ -17,7 +17,6 @@ aliases:
   - Mirror Image
 ---
 # Mirror Image
-%%-- Embedded content starts on the next line. --%%
 *2nd-level, Illusion*  
 
 - **Casting time:** 1 action
@@ -27,7 +26,7 @@ aliases:
 
 Three illusory duplicates of yourself appear in your space. Until the spell ends, the duplicates move with you and mimic your actions, shifting position so it's impossible to track which image is real. You can use your action to dismiss the illusory duplicates.
 
-Each time a creature targets you with an attack during the spell's duration, roll a `dice: d20|avg` (`d20`) to determine whether the attack instead targets one of your duplicates.
+Each time a creature targets you with an attack during the spell's duration, roll a `dice: d20|avg|noform` (`d20`) to determine whether the attack instead targets one of your duplicates.
 
 If you have three duplicates, you must roll a 6 or higher to change the attack's target to a duplicate. With two duplicates, you must roll an 8 or higher. With one duplicate, you must roll an 11 or higher.
 

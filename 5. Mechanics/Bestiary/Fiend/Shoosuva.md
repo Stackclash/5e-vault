@@ -14,7 +14,7 @@ statblock: inline
 aliases:
   - Shoosuva
 ---
-# [[5. Mechanics\Bestiary\Fiend\Shoosuva.md|Shoosuva]]
+# [[5. Mechanics/Bestiary/Fiend/Shoosuva.md|Shoosuva]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 216, Volo's Guide to Monsters p. 137*
 
 > [!quote]- A quote from Mordenkainen  
@@ -36,6 +36,7 @@ Each shoosuva is bonded to a particular worshiper of Yeenoghu and fights alongsi
 "subtype": "demon"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "14"
+"ac_class": "natural armor"
 "hp": !!int "136"
 "hit_dice": "16d10 + 48"
 "stats":
@@ -60,11 +61,11 @@ Each shoosuva is bonded to a particular worshiper of Yeenoghu and fights alongsi
 "actions":
 - "desc": "The shoosuva makes one Bite attack and one Tail Stinger attack."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 4d10 + 4|avg (4d10 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:4d10 + 4|text(26) (4d10 + 4) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 15 ft., one creature.\
-    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) piercing damage, and the target must\
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 15 ft., one creature.\
+    \ Hit: dice:2d8 + 4|text(13) (2d8 + 4) piercing damage, and the target must\
     \ succeed on a DC 14 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]].\
     \ While [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in this way, the\
     \ target is also [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]. The target\

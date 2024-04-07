@@ -42,7 +42,7 @@ At 1st level, you learn the [[5. Mechanics/Spells/Sacred Flame.md\|sacred flame]
 
 ### Healing Light (Level 1)
 
-At 1st level, you gain the ability to channel celestial energy to heal wounds. You have a pool of `dice: d6|avg` (`d6`)s that you spend to fuel this healing. The number of dice in the pool equals 1 + your warlock level.
+At 1st level, you gain the ability to channel celestial energy to heal wounds. You have a pool of `dice: d6|avg|noform` (`d6`)s that you spend to fuel this healing. The number of dice in the pool equals 1 + your warlock level.
 
 As a bonus action, you can heal one creature you can see within 60 feet of you, spending dice from the pool. The maximum number of dice you can spend at once equals your Charisma modifier (minimum of one die). Roll the dice you spend, add them together, and restore a number of hit points equal to the total.
 
@@ -58,6 +58,6 @@ Starting at 10th level, you gain temporary hit points whenever you finish a shor
 
 ### Searing Vengeance (Level 14)
 
-Starting at 14th level, the radiant energy you channel allows you to resist death. When you have to make a death saving throw at the start of your turn, you can instead spring back to your feet with a burst of radiant energy. You regain hit points equal to half your hit point maximum, and then you stand up if you so choose. Each creature of your choice that is within 30 feet of you takes radiant damage equal to `dice: 2d8|avg` (`2d8`) + your Charisma modifier, and it is [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]] until the end of the current turn.
+Starting at 14th level, the radiant energy you channel allows you to resist death. When you have to make a death saving throw at the start of your turn, you can instead spring back to your feet with a burst of radiant energy. You regain hit points equal to half your hit point maximum, and then you stand up if you so choose. Each creature of your choice that is within 30 feet of you takes radiant damage equal to `dice: 2d8|avg|noform` (`2d8`) + your Charisma modifier, and it is [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]] until the end of the current turn.
 
 Once you use this feature, you can't use it again until you finish a long rest.

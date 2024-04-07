@@ -27,7 +27,7 @@ In order to attune to this item, you must hold it while killing someone you deem
 
 Whenever you cast a spell above 2nd-level while holding this staff, you have a 50% chance chance to create an illusory duplicate of yourself in your own space that lasts until the end of your next turn. On your turn, you may move the illusory duplicate a distance equal to your walking speed (no action required). The duplicate has your AC and disappears early if it suffers any damage or if a creature physically interacts with it in some way. The duplicate is otherwise indistinguishable from the real you and can only be identified as an illusion by a creature that uses its action to perform a successful Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check against your spell save DC.
 
-You may also use the staff as a [[5. Mechanics/Items/Quarterstaff.md\|quarterstaff]] with a +2 bonus to attack and damage rolls. If you hit a creature with it, they must succeed on a DC 18 Wisdom saving throw or take an additional `dice: 2d6|avg` (`2d6`) psychic damage.
+You may also use the staff as a [[5. Mechanics/Items/Quarterstaff.md\|quarterstaff]] with a +2 bonus to attack and damage rolls. If you hit a creature with it, they must succeed on a DC 18 Wisdom saving throw or take an additional `dice: 2d6|avg|noform` (`2d6`) psychic damage.
 
 ## Random Properties
 
@@ -64,6 +64,6 @@ When you become attuned to the staff, you become cursed. Whenever you finish a l
 
 ## Destroying the Staff
 
-This staff can only be destroyed if the creature attuned to it is slain by a creature attuned to an item made from a material harvested from another Demon Lord. If this occurs, the staff splits down its length into two parts and loses its power. However, if these two parts are thrown together into the waters of the Gaping Maw, the pieces will disappear and then reappear `dice: 1d100|avg` (`1d100`) years later in a random place in the multiverse, fixed and restored to full power.
+This staff can only be destroyed if the creature attuned to it is slain by a creature attuned to an item made from a material harvested from another Demon Lord. If this occurs, the staff splits down its length into two parts and loses its power. However, if these two parts are thrown together into the waters of the Gaping Maw, the pieces will disappear and then reappear `dice: 1d100|avg|noform` (`1d100`) years later in a random place in the multiverse, fixed and restored to full power.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 106. Available in the SRD and the Basic Rules.*

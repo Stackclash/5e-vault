@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Mastiff
 ---
-# [[5. Mechanics\Bestiary\Beast\Mastiff.md|Mastiff]]
+# [[5. Mechanics/Bestiary/Beast/Mastiff.md|Mastiff]]
 *Source: Monster Manual p. 332, Curse of Strahd, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*
 
 Mastiffs are impressive hounds prized by humanoids for their loyalty and keen senses. Mastiffs can be trained as guard dogs, hunting dogs, and war dogs. Halflings and other Small humanoids ride them as mounts.
@@ -44,9 +44,9 @@ Mastiffs are impressive hounds prized by humanoids for their loyalty and keen se
     \ checks that rely on hearing or smell."
   "name": "Keen Hearing and Smell"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 1|avg (1d6 + 1) piercing damage. If the target is a creature,\
-    \ it must succeed on a DC 11 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 1|text(4) (1d6 + 1) piercing damage. If the target is\
+    \ a creature, it must succeed on a DC 11 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Bite"
 "source":
 - "MM"

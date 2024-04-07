@@ -16,7 +16,7 @@ In some cases you need to determine damage on the fly. The Improvising Damage ta
 
 The Damage Severity and Level table is a guide to how deadly these damage numbers are for characters of various levels. Cross-reference a character's level with the damage being dealt to gauge the severity of the damage.
 
-![Improvising Damage; Damage Severity and Level](compendium/tables/improvising-damage-damage-severity-and-level.md)
+![[5. Mechanics/Tables/Improvising Damage Damage Severity And Level.md\|Improvising Damage; Damage Severity and Level]]
 
 Damage sufficient to cause a **setback** rarely poses a risk of death to characters of the level shown, but a severely weakened character might be laid low by this damage.
 

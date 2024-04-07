@@ -14,7 +14,7 @@ statblock: inline
 aliases:
   - Spirit Troll
 ---
-# [[5. Mechanics\Bestiary\Giant\Spirit Troll.md|Spirit Troll]]
+# [[5. Mechanics/Bestiary/Giant/Spirit Troll.md|Spirit Troll]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 247, Mordenkainen's Tome of Foes p. 244*
 
 A troll blasted with psychic energy can take a non physical form upon regenerating. The troll's psyche survives, but the body is as insubstantial as shadow. The troll might be unaware of the transition—the creature still moves and attacks with teeth and claws as ever—but now the troll strikes at victims' minds.
@@ -35,6 +35,7 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
 "type": "giant"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "17"
+"ac_class": "natural armor"
 "hp": !!int "130"
 "hit_dice": "20d10 + 20"
 "stats":
@@ -58,8 +59,8 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
 "cr": "11"
 "traits":
 - "desc": "The troll can move through other creatures and objects as if they were\
-    \ difficult terrain. It takes dice: 1d10|avg (1d10) force damage if it ends\
-    \ its turn inside an object."
+    \ difficult terrain. It takes dice:1d10|text(5) (1d10) force damage if it\
+    \ ends its turn inside an object."
   "name": "Incorporeal Movement"
 - "desc": "The troll regains 10 hit points at the start of each of its turns. If the\
     \ troll takes psychic or force damage, this trait doesn't function at the start\
@@ -69,15 +70,15 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
 "actions":
 - "desc": "The troll makes one Bite attack and two Claw attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 3d10 + 3|avg (3d10 + 3) psychic damage, and the target must\
-    \ succeed on a DC 15 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one creature.\
+    \ Hit: dice:3d10 + 3|text(19) (3d10 + 3) psychic damage, and the target\
+    \ must succeed on a DC 15 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
     \ for 1 minute. The [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]] target\
     \ can repeat the saving throw at the end of each of its turns, ending the effect\
     \ on itself on a success."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 3d10 + 3|avg (3d10 + 3) psychic damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one creature.\
+    \ Hit: dice:3d10 + 3|text(19) (3d10 + 3) psychic damage."
   "name": "Claws"
 "source":
 - "MPMM"

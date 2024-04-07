@@ -29,7 +29,7 @@ You gain a +3 bonus to attack and damage rolls made with this magic weapon. At d
 
 ## Thrown Weapon
 
-Whelm has the thrown property, with a normal range of 20 feet and a long range of 60 feet. When you hit with a ranged weapon attack using it, the target takes an extra `dice: 1d8|avg` (`1d8`) bludgeoning damage, or an extra `dice: 2d8|avg` (`2d8`) bludgeoning damage if the target is a giant. Each time you throw the weapon, it flies back to your hand after the attack. If you don't have a hand free, the weapon lands at your feet.
+Whelm has the thrown property, with a normal range of 20 feet and a long range of 60 feet. When you hit with a ranged weapon attack using it, the target takes an extra `dice: 1d8|avg|noform` (`1d8`) bludgeoning damage, or an extra `dice: 2d8|avg|noform` (`2d8`) bludgeoning damage if the target is a giant. Each time you throw the weapon, it flies back to your hand after the attack. If you don't have a hand free, the weapon lands at your feet.
 
 ## Shock Wave
 

@@ -16,7 +16,6 @@ aliases:
   - Web
 ---
 # Web
-%%-- Embedded content starts on the next line. --%%
 *2nd-level, Conjuration*  
 ![[5. Mechanics/Spells/img/web.webp#right]]  
 
@@ -33,7 +32,7 @@ Each creature that starts its turn in the webs or that enters them during its tu
 
 A creature [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]] by the webs can use its action to make a Strength check against your spell save DC. If it succeeds, it is no longer [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]].
 
-The webs are flammable. Any 5-foot cube of webs exposed to fire burns away in 1 round, dealing `dice: 2d4|avg` (`2d4`) fire damage to any creature that starts its turn in the fire.
+The webs are flammable. Any 5-foot cube of webs exposed to fire burns away in 1 round, dealing `dice: 2d4|avg|noform` (`2d4`) fire damage to any creature that starts its turn in the fire.
 
 **Classes**: [[5. Mechanics/Classes/Artificer.md\|Artificer]], [[5. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Ranger Swarmkeeper.md\|Ranger (Swarmkeeper)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 

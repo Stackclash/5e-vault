@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Mezzoloth
 ---
-# [[5. Mechanics\Bestiary\Fiend\Mezzoloth.md|Mezzoloth]]
+# [[5. Mechanics/Bestiary/Fiend/Mezzoloth.md|Mezzoloth]]
 *Source: Monster Manual p. 313*
 
 The bulk of the yugoloth population is made up of mezzoloths, which are human-sized insect creatures covered in dense chitinous plates. Mezzoloths serve as foot soldiers in yugoloth armies, their wide-set eyes glowing red as the mezzoloths bear down on their foes.
@@ -57,8 +57,8 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 > 
 > - An arcanaloth has a 40% chance chance of summoning one arcanaloth.  
 > - A mezzoloth has a 30% chance chance of summoning one mezzoloth.  
-> - A nycaloth has a 50% chance chance of summoning `dice: 1d4|avg` (`1d4`) mezzoloths or one nycaloth.  
-> - An ultroloth has a 50% chance chance of summoning `dice: 1d6|avg` (`1d6`) mezzoloths, `dice: 1d4|avg` (`1d4`) nycaloths, or one ultroloth.  
+> - A nycaloth has a 50% chance chance of summoning `dice: 1d4|avg|noform` (`1d4`) mezzoloths or one nycaloth.  
+> - An ultroloth has a 50% chance chance of summoning `dice: 1d6|avg|noform` (`1d6`) mezzoloths, `dice: 1d4|avg|noform` (`1d4`) nycaloths, or one ultroloth.  
 > 
 > A summoned yugoloth appears in an unoccupied space within 60 feet of its summoner, does as it pleases (unless its summoner is an ultroloth, in which case it acts as an ally of its summoner), and can't summon other yugoloths. The summoned yugoloth remains for l minute, until it or its summoner dies, or until its summoner takes a bonus action to dismiss it
 ^variant-yugoloth-summoning
@@ -75,6 +75,7 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 "subtype": "yugoloth"
 "alignment": "Neutral Evil"
 "ac": !!int "18"
+"ac_class": "natural armor"
 "hp": !!int "75"
 "hit_dice": "10d8 + 30"
 "stats":
@@ -108,13 +109,13 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 "actions":
 - "desc": "The mezzoloth makes two attacks: one with its claws and one with its trident."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4 + 4|avg (2d4 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d4 + 4|text(9) (2d4 + 4) slashing damage."
   "name": "Claws"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing\
-    \ damage, or dice: 1d8 + 4|avg (1d8 + 4) piercing damage when held with two\
-    \ claws and used to make a melee attack."
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: dice:1d6 + 4|text(7) (1d6 + 4) piercing\
+    \ damage, or dice:1d8 + 4|text(8) (1d8 + 4) piercing damage when held with\
+    \ two claws and used to make a melee attack."
   "name": "Trident"
 - "desc": "The mezzoloth magically teleports, along with any equipment it is wearing\
     \ or carrying, up to 60 feet to an unoccupied space it can see."

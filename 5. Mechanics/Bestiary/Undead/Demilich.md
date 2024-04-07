@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Demilich
 ---
-# [[5. Mechanics\Bestiary\Undead\Demilich.md|Demilich]]
+# [[5. Mechanics/Bestiary/Undead/Demilich.md|Demilich]]
 *Source: Monster Manual p. 48*
 
 The immortality granted to a lich lasts only as long as it feeds mortal souls to its phylactery. If it falters or fails in that task, its bones turn to dust until only its skull remains. This "demilich" contains only a fragment of the lich's malevolent life force-just enough so that if it is disturbed, these remains rise into the air and assume a wraith-like form. The skull then emits a terrifying howl that can slay the weak-hearted and leave others trembling with fear. Left alone, it sinks back down and returns to the empty peace of its existence.
@@ -19,7 +19,7 @@ Few liches seek to become demiliches, for it means an end to the existence they 
 
 ## Enduring Existence
 
-Even after a lich is reduced to a demilich state, its phylactery survives. As long as its phylactery is intact, the demilich can't be permanently destroyed. Its skull reforms after `dice: 1d10|avg` (`1d10`) days, restoring the creature to its wretched state. If it has the presence of mind to do so, a demilich can reclaim its former power by feeding just one soul to its phylactery. Doing so restores the demilich to lich form, reconstituting its undead body.
+Even after a lich is reduced to a demilich state, its phylactery survives. As long as its phylactery is intact, the demilich can't be permanently destroyed. Its skull reforms after `dice: 1d10|avg|noform` (`1d10`) days, restoring the creature to its wretched state. If it has the presence of mind to do so, a demilich can reclaim its former power by feeding just one soul to its phylactery. Doing so restores the demilich to lich form, reconstituting its undead body.
 
 ## Undead Nature
 
@@ -41,7 +41,7 @@ Acererak or another demilich like him has a challenge rating of 21 (33,000 XP), 
 
 ### Trap Soul
 
-The demilich targets one creature that it can see within 30 feet of it. The target must make a DC 19 Charisma saving throw. On a failed save, the target's soul is magically trapped inside one of the demilich's gems. While the soul is trapped, the target's body and all the equipment it is carrying cease to exist. On a successful save, the target takes `dice: 7d6|avg` (`7d6`) necrotic damage, and if this damage reduces the target to 0 hit points, its soul is trapped as if it failed the saving throw. A soul trapped in a gem for 24 hours is devoured and ceases to exist.
+The demilich targets one creature that it can see within 30 feet of it. The target must make a DC 19 Charisma saving throw. On a failed save, the target's soul is magically trapped inside one of the demilich's gems. While the soul is trapped, the target's body and all the equipment it is carrying cease to exist. On a successful save, the target takes `dice:7d6|text(24)` (`7d6`) necrotic damage, and if this damage reduces the target to 0 hit points, its soul is trapped as if it failed the saving throw. A soul trapped in a gem for 24 hours is devoured and ceases to exist.
 
 If the demilich drops to 0 hit points, it is destroyed and turns to powder, leaving behind its gems. Crushing a gem releases any soul trapped within, at which point the target's body re-forms in an unoccupied space nearest to the gem and in the same state as when it was trapped.
 
@@ -56,6 +56,7 @@ If the demilich drops to 0 hit points, it is destroyed and turns to powder, leav
 "type": "undead"
 "alignment": "Neutral Evil"
 "ac": !!int "20"
+"ac_class": "natural armor"
 "hp": !!int "80"
 "hit_dice": "32d4"
 "stats":
@@ -99,7 +100,7 @@ If the demilich drops to 0 hit points, it is destroyed and turns to powder, leav
   "name": "Howl (Recharge 5-6)"
 - "desc": "The demilich targets up to three creatures that it can see within 10 feet\
     \ of it. Each target must succeed on a DC 19 Constitution saving throw or take\
-    \ dice: 6d6|avg (6d6) necrotic damage, and the demilich regains hit points\
+    \ dice:6d6|text(21) (6d6) necrotic damage, and the demilich regains hit points\
     \ equal to the total damage dealt to all targets."
   "name": "Life Drain"
 "legendary_actions":
@@ -113,9 +114,9 @@ If the demilich drops to 0 hit points, it is destroyed and turns to powder, leav
   "name": "Cloud of Dust"
 - "desc": "Each creature with in 30 feet of the demilich must make a DC 15 Constitution\
     \ saving throw. On a failed save, the creature's hit point maximum is magically\
-    \ reduced by dice: 3d6|avg (3d6). If a creature's hit point maximum is reduced\
-    \ to 0 by this effect, the creature dies. A creature's hit point maximum can be\
-    \ restored with the  [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
+    \ reduced by dice:3d6|text(10) (3d6). If a creature's hit point maximum is\
+    \ reduced to 0 by this effect, the creature dies. A creature's hit point maximum\
+    \ can be restored with the  [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
     \ spell or similar magic."
   "name": "Energy Drain (Costs 2 Actions)"
 - "desc": "The demilich targets one creature it can see within 30 feet of it. The\
@@ -126,9 +127,9 @@ If the demilich drops to 0 hit points, it is destroyed and turns to powder, leav
   "name": "Vile Curse (Costs 3 Actions)"
 "lair_actions":
 - "desc": "On initiative count 20 (losing initiative ties), the demilich rolls a dice:\
-    \ d20|avg (d20). On a result of 11 or higher, the demilich takes a lair action\
-    \ to cause one of the following effects. It can't use the same effect two rounds\
-    \ in a row."
+    \ d20|avg|noform (d20). On a result of 11 or higher, the demilich takes a lair\
+    \ action to cause one of the following effects. It can't use the same effect two\
+    \ rounds in a row."
   "name": ""
 - "desc": "- The tomb trembles violently for a moment. Each creature on the floor\
     \ of the tomb must succeed on a DC 19 Dexterity saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
@@ -142,8 +143,8 @@ If the demilich drops to 0 hit points, it is destroyed and turns to powder, leav
 - "desc": "A demilich's tomb might have any or all of the following effects in place:"
   "name": ""
 - "desc": "- The first time a non-evil creature enters the tomb's area, the creature\
-    \ takes dice: 3d10|avg (3d10) necrotic damage.  \n- Monsters in the tomb have\
-    \ advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
+    \ takes dice:3d10|text(16) (3d10) necrotic damage.  \n- Monsters in the tomb\
+    \ have advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
     \ or [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], and against features\
     \ that turn undead.  \n- The tomb is warded against the magical travel of creatures\
     \ the demilich hasn't authorized. Such creatures can't teleport into or out of\

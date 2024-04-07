@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Abjurer Wizard
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Abjurer Wizard.md|Abjurer Wizard]]
+# [[5. Mechanics/Bestiary/Humanoid/Abjurer Wizard.md|Abjurer Wizard]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 260, Volo's Guide to Monsters p. 209*
 
 Abjurers specialize in creating protective magical wards. Monarchs, nobles, and other wealthy individuals commonly hire abjurers to provide protection.
@@ -26,6 +26,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "12"
+"ac_class": "15 with [[5. Mechanics/Spells/Mage Armor.md|mage armor]]"
 "hp": !!int "104"
 "hit_dice": "16d8 + 32"
 "stats":
@@ -59,20 +60,20 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "actions":
 - "desc": "The abjurer makes three Arcane Burst attacks."
   "name": "Multiattack"
-- "desc": "Melee or Ranged Spell Attack: dice: d20+6 (+6 to hit), reach 5 ft.\
-    \ or range 120 ft., one target. Hit: dice: 3d10 + 4|avg (3d10 + 4) force\
+- "desc": "Melee or Ranged Spell Attack: dice: d20+6 (+6) to hit, reach 5 ft.\
+    \ or range 120 ft., one target. Hit: dice:3d10 + 4|text(20) (3d10 + 4) force\
     \ damage."
   "name": "Arcane Burst"
 - "desc": "Each creature in a 20-foot cube originating from the abjurer must make\
-    \ a DC 16 Constitution saving throw. On a failed save, a creature takes dice:\
-    \ 8d8|avg (8d8) force damage and is pushed up to 10 feet away from the abjurer.\
-    \ On a successful save, a creature takes half as much damage and isn't pushed."
+    \ a DC 16 Constitution saving throw. On a failed save, a creature takes dice:8d8|text(36)\
+    \ (8d8) force damage and is pushed up to 10 feet away from the abjurer. On a\
+    \ successful save, a creature takes half as much damage and isn't pushed."
   "name": "Force Blast"
 "reactions":
 - "desc": "When the abjurer or a creature it can see within 30 feet of it takes damage,\
     \ the abjurer magically creates a protective barrier around itself or the other\
-    \ creature. The barrier reduces the damage to the protected creature by dice:\
-    \ 4d10 + 4|avg (4d10 + 4), to a minimum of 0, and then vanishes."
+    \ creature. The barrier reduces the damage to the protected creature by dice:4d10\
+    \ + 4|text(26) (4d10 + 4), to a minimum of 0, and then vanishes."
   "name": "Arcane Ward (Recharge 4-6)"
 "source":
 - "MPMM"

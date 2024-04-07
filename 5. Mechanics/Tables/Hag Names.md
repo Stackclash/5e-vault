@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vgm
-aliases: ["Hag Names"]
+  - compendium/src/5e/vgm
+aliases:
+  - Hag Names
 ---
 # Hag Names
 *Source: Volo's Guide to Monsters p. 55* 

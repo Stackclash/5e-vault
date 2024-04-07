@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/mm
-aliases: ["Appendix B: Nonplayer Characters"]
+  - compendium/src/5e/mm
+aliases:
+  - 'Appendix B: Nonplayer Characters'
 ---
 # Appendix B: Nonplayer Characters
 *Source: Monster Manual, p. 342* 

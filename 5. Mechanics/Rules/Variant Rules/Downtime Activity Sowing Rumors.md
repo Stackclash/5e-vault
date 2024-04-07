@@ -17,9 +17,9 @@ Sowing a rumor about an individual or organization requires a number of days dep
 
 | Settlement Size | Time Required |
 |-----------------|---------------|
-| Village | `dice: 2d6\|avg` (`2d6`) days |
-| Town | `dice: 4d6\|avg` (`4d6`) days |
-| City | `dice: 6d6\|avg` (`6d6`) days |
+| Village | `dice: 2d6\|avg|noform` (`2d6`) days |
+| Town | `dice: 4d6\|avg|noform` (`4d6`) days |
+| City | `dice: 6d6\|avg|noform` (`6d6`) days |
 ^sowing-rumors
 
 The character must spend 1 gp per day to cover the cost of drinks, social appearances, and the like. At the end of the time spent sowing the rumor, the character must make a DC 15 Charisma ([[/5. Mechanics/Rules/Skills.md#Deception\|Deception]] or [[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]) check. If the check succeeds, the community's prevailing attitude toward the subject shifts one step toward friendly or hostile, as the character wishes. If the check fails, the rumor gains no traction, and further attempts to propagate it fail.

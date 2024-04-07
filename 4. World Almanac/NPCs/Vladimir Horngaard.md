@@ -80,7 +80,7 @@ Vladimir Horngaard has the statistics of a revenant with the following modificat
 - His Armor Class is 17 (half plate).  
 - He has 192 hit points.  
 - He speaks Common and Draconic.  
-- Vladimir wields a +2 greatsword with a hilt sculpted to resemble silver dragon wings and a pommel shaped like a silver dragon's head clutching a black opal between its teeth. As an action, he can make two attacks with the sword (+9 to hit). It deals `dice: 4d6 + 6|avg` (`4d6 + 6`) slashing damage on a hit. Against Strahd, Vladimir deals an extra `dice: 4d6|avg` (`4d6`) slashing damage with the weapon.  
+- Vladimir wields a +2 greatsword with a hilt sculpted to resemble silver dragon wings and a pommel shaped like a silver dragon's head clutching a black opal between its teeth. As an action, he can make two attacks with the sword (+9 to hit). It deals `dice:4d6 + 6|text(20)` (`4d6 + 6`) slashing damage on a hit. Against Strahd, Vladimir deals an extra `dice:4d6|text(14)` (`4d6`) slashing damage with the weapon.  
 - Vladimir has a challenge rating of 7 (2,900 XP).  
 
 ## Vladimir Horngaard's Traits
@@ -175,6 +175,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 "type": "undead"
 "alignment": "Lawful Evil"
 "ac": !!int "17"
+"ac_class": "[[5. Mechanics/Items/Half Plate Armor.md|half plate armor]]"
 "hp": !!int "192"
 "hit_dice": "16d8 + 64"
 "stats":
@@ -222,15 +223,16 @@ await dv.view("npcRelationships", { current: dv.current() })
 "actions":
 - "desc": "Vladimir makes two fist attacks or two attacks with his +2 Greatsword."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) bludgeoning damage. Strahd, the target\
-    \ of Vladimir's sworn vengeance, takes an extra dice: 4d6|avg (4d6) bludgeoning\
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) bludgeoning damage. Strahd, the target\
+    \ of Vladimir's sworn vengeance, takes an extra dice:4d6|text(14) (4d6) bludgeoning\
     \ damage. Instead of dealing damage, Vladimir can grapple the target (escape DC\
     \ 14) provided the target is Large or smaller."
   "name": "Fist"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 4d6 + 6|avg (4d6 + 6) slashing damage. Against Strahd, Vladimir\
-    \ deals an extra dice: 4d6|avg (4d6) slashing damage with this weapon."
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 5 ft., one target.\
+    \ Hit: dice:4d6 + 6|text(20) (4d6 + 6) slashing damage. Against Strahd,\
+    \ Vladimir deals an extra dice:4d6|text(14) (4d6) slashing damage with this\
+    \ weapon."
   "name": "Greatsword +2"
 - "desc": "Vladimir can target Strahd within 30 feet provided he can see Strahd. Strahd\
     \ must make a DC 15 Wisdom saving throw. One a failure, Strahd is [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\

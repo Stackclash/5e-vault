@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Ogre Howdah
 ---
-# [[5. Mechanics\Bestiary\Giant\Ogre Howdah.md|Ogre Howdah]]
+# [[5. Mechanics/Bestiary/Giant/Ogre Howdah.md|Ogre Howdah]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 201, Mordenkainen's Tome of Foes p. 221*
 
 The most unusual of the specialized ogres, the howdah carries a palisaded wooden fort on its back. The fort serves as a fighting platform for up to four Small people. Ogre howdahs are most often seen bearing bow- and spear-wielding [[5. Mechanics/Bestiary/Humanoid/Goblin.md|goblins]] into battle, or perhaps [[5. Mechanics/Bestiary/Humanoid/Kobold.md|kobolds]] or [[5. Mechanics/Bestiary/Humanoid/Deep Gnome Svirfneblin.md|deep gnomes]], but they might also transport other Small folk.
@@ -28,6 +28,7 @@ Ogres love to rush headlong into battle, but with enough time and patience, some
 "type": "giant"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "15"
+"ac_class": "[[5. Mechanics/Items/Breastplate.md|breastplate]], [[5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "59"
 "hit_dice": "7d10 + 21"
 "stats":
@@ -50,8 +51,8 @@ Ogres love to rush headlong into battle, but with enough time and patience, some
     \ within 5 feet of the ogre."
   "name": "Howdah"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) bludgeoning damage."
   "name": "Mace"
 "source":
 - "MPMM"

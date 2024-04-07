@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Mule
 ---
-# [[5. Mechanics\Bestiary\Beast\Mule.md|Mule]]
+# [[5. Mechanics/Bestiary/Beast/Mule.md|Mule]]
 *Source: Monster Manual p. 333, Curse of Strahd. Available in the SRD and the Basic Rules.*
 
 ```statblock
@@ -43,8 +43,8 @@ aliases:
     \ effects that would knock it [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Sure-Footed"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+2 (+2) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d4 + 2|text(4) (1d4 + 2) bludgeoning damage."
   "name": "Hooves"
 "source":
 - "MM"

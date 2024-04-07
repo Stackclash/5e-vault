@@ -43,7 +43,7 @@ You can speak, read, and write Common and Halfling. The Halfling language isn't 
 
 ### Medical Intuition
 
-When you make a Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine\|Medicine]]) check or an ability check using an [[5. Mechanics/Items/Herbalism Kit.md\|herbalism kit]], you can roll a `dice: d4|avg` (`d4`) and add the number rolled to the ability check.
+When you make a Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine\|Medicine]]) check or an ability check using an [[5. Mechanics/Items/Herbalism Kit.md\|herbalism kit]], you can roll a `dice: d4|avg|noform` (`d4`) and add the number rolled to the ability check.
 
 ### Healing Touch
 

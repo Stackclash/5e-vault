@@ -31,7 +31,7 @@ You can speak, read, and write Common and one extra language of your choice. Hum
 
 ### Sentinel's Intuition
 
-When you make a Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight\|Insight]]) or Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check, you can roll a `dice: d4|avg` (`d4`) and add the number rolled to the ability check.
+When you make a Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight\|Insight]]) or Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check, you can roll a `dice: d4|avg|noform` (`d4`) and add the number rolled to the ability check.
 
 ### Guardian's Shield
 

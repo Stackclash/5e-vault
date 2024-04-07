@@ -20,7 +20,7 @@ As an archetypal Inquisitive, you excel at rooting out secrets and unraveling my
 
 ### Ear for Deceit (Level 3)
 
-When you choose this archetype at 3rd level, you develop a talent for picking out lies. Whenever you make a Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight\|Insight]]) check to determine whether a creature is lying, treat a roll of 7 or lower on the `dice: d20|avg` (`d20`) as an 8.
+When you choose this archetype at 3rd level, you develop a talent for picking out lies. Whenever you make a Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight\|Insight]]) check to determine whether a creature is lying, treat a roll of 7 or lower on the `dice: d20|avg|noform` (`d20`) as an 8.
 
 ### Eye for Detail (Level 3)
 
@@ -44,4 +44,4 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 
 ### Eye for Weakness (Level 17)
 
-At 17th level, you learn to exploit a creature's weaknesses by carefully studying its tactics and movement. While your Insightful Fighting feature applies to a creature, your Sneak Attack damage against that creature increases by `dice: 3d6|avg` (`3d6`).
+At 17th level, you learn to exploit a creature's weaknesses by carefully studying its tactics and movement. While your Insightful Fighting feature applies to a creature, your Sneak Attack damage against that creature increases by `dice: 3d6|avg|noform` (`3d6`).

@@ -14,7 +14,6 @@ aliases:
   - Astral Projection
 ---
 # Astral Projection
-%%-- Embedded content starts on the next line. --%%
 *9th-level, Necromancy*  
 
 - **Casting time:** 1 hour

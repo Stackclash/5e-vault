@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Bone Devil
 ---
-# [[5. Mechanics\Bestiary\Fiend\Bone Devil.md|Bone Devil]]
+# [[5. Mechanics/Bestiary/Fiend/Bone Devil.md|Bone Devil]]
 *Source: Monster Manual p. 71. Available in the SRD.*
 
 Driven by hate, lust, and envy, bone devils act as the cruel taskmasters of the Nine Hells. They set weaker devils to work, taking special delight in seeing fiends that defy them demoted. At the same time, they long for promotion and are bitterly envious of their superiors, attempting to curry favor though it irks them to do so.
@@ -128,11 +128,11 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 > 
 > - A barbed devil has a 30% chance chance of summoning one barbed devil.  
 > - A bearded devil has a 30% chance chance of summoning one bearded devil.  
-> - A bone devil has a 40% chance chance of summoning `dice: 2d6|avg` (`2d6`) spined devils or one bone devil.  
-> - An erinyes has a 50% chance chance of summoning `dice: 3d6|avg` (`3d6`) spined devils, `dice: 1d6|avg` (`1d6`) bearded devils, or one erinyes.  
+> - A bone devil has a 40% chance chance of summoning `dice: 2d6|avg|noform` (`2d6`) spined devils or one bone devil.  
+> - An erinyes has a 50% chance chance of summoning `dice: 3d6|avg|noform` (`3d6`) spined devils, `dice: 1d6|avg|noform` (`1d6`) bearded devils, or one erinyes.  
 > - A horned devil has a 30% chance chance of summoning one horned devil.  
 > - An ice devil has a 60% chance chance of summoning one ice devil.  
-> - A pit fiend summons `dice: 2d4|avg` (`2d4`) bearded devils, `dice: 1d4|avg` (`1d4`) barbed devils, or one erinyes with no chance of failure.  
+> - A pit fiend summons `dice: 2d4|avg|noform` (`2d4`) bearded devils, `dice: 1d4|avg|noform` (`1d4`) barbed devils, or one erinyes with no chance of failure.  
 > 
 > A summoned devil appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other devils. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 ^variant-devil-summoning
@@ -144,6 +144,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 "subtype": "devil"
 "alignment": "Lawful Evil"
 "ac": !!int "19"
+"ac_class": "natural armor"
 "hp": !!int "142"
 "hit_dice": "15d10 + 60"
 "stats":
@@ -177,11 +178,11 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 "actions":
 - "desc": "The devil makes three attacks: two with its claws and one with its sting."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 10 ft., one target.\
+    \ Hit: dice:1d8 + 4|text(8) (1d8 + 4) slashing damage."
   "name": "Claw"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) piercing damage plus dice: 5d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 10 ft., one target.\
+    \ Hit: dice:2d8 + 4|text(13) (2d8 + 4) piercing damage plus dice:5d6|text(17)\
     \ (5d6) poison damage, and the target must succeed on a DC 14 Constitution saving\
     \ throw or become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for 1 minute.\
     \ The target can repeat the saving throw at the end of each of its turns, ending\

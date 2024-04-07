@@ -225,7 +225,7 @@ At 6th level, you can choose two more of your proficiencies (in skills or with [
 
 ### Sneak Attack (Level 1)
 
-Beginning at 1st level, you know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra `dice: 1d6|avg` (`1d6`) damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.
+Beginning at 1st level, you know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra `dice: 1d6|avg|noform` (`1d6`) damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.
 
 You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]], and you don't have disadvantage on the attack roll.
 
@@ -288,7 +288,7 @@ If your DM allows the use of feats, you may instead take a feat.
 
 ### Reliable Talent (Level 11)
 
-By 11th level, you have refined your chosen skills until they approach perfection. Whenever you make an ability check that lets you add your proficiency bonus, you can treat a `dice: d20|avg` (`d20`) roll of 9 or lower as a 10.
+By 11th level, you have refined your chosen skills until they approach perfection. Whenever you make an ability check that lets you add your proficiency bonus, you can treat a `dice: d20|avg|noform` (`d20`) roll of 9 or lower as a 10.
 
 ### Ability Score Improvement (Level 12)
 
@@ -330,6 +330,6 @@ If your DM allows the use of feats, you may instead take a feat.
 
 ### Stroke of Luck (Level 20)
 
-At 20th level, you have an uncanny knack for succeeding when you need to. If your attack misses a target within range, you can turn the miss into a hit. Alternatively, if you fail an ability check, you can treat the `dice: d20|avg` (`d20`) roll as a 20.
+At 20th level, you have an uncanny knack for succeeding when you need to. If your attack misses a target within range, you can turn the miss into a hit. Alternatively, if you fail an ability check, you can treat the `dice: d20|avg|noform` (`d20`) roll as a 20.
 
 Once you use this feature, you can't use it again until you finish a short or long rest.

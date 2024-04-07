@@ -231,11 +231,11 @@ _Source: Tasha's Cauldron of Everything p. 56_
 
 When you hit a creature with an attack roll, you can call on your mystical bond with nature to mark the target as your favored enemy for 1 minute or until you lose your [[/5. Mechanics/Rules/Conditions.md#concentration\|concentration]] (as if you were concentrating on a spell).
 
-The first time on each of your turns that you hit the favored enemy and deal damage to it, including when you mark it, you can increase that damage by `dice: 1d4|avg` (`1d4`).
+The first time on each of your turns that you hit the favored enemy and deal damage to it, including when you mark it, you can increase that damage by `dice: 1d4|avg|noform` (`1d4`).
 
 You can use this feature to mark a favored enemy a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
-This feature's extra damage increases when you reach certain levels in this class: to `dice: 1d6|avg` (`1d6`) at 6th level and to `dice: 1d8|avg` (`1d8`) at 14th level.
+This feature's extra damage increases when you reach certain levels in this class: to `dice: 1d6|avg|noform` (`1d6`) at 6th level and to `dice: 1d8|avg|noform` (`1d8`) at 14th level.
 
 ### Natural Explorer (Level 1)
 
@@ -409,7 +409,7 @@ You gain an additional benefit when you reach 10th level in this class.
 
 #### Tireless
 
-As an action, you can give yourself a number of temporary hit points equal to `dice: 1d8|avg` (`1d8`) + your Wisdom modifier (minimum of 1 temporary hit point). You can use this action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+As an action, you can give yourself a number of temporary hit points equal to `dice: 1d8|avg|noform` (`1d8`) + your Wisdom modifier (minimum of 1 temporary hit point). You can use this action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 In addition, whenever you finish a short rest, your [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]] level, if any, is decreased by 1.
 

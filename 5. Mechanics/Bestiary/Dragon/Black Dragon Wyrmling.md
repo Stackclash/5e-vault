@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Black Dragon Wyrmling
 ---
-# [[5. Mechanics\Bestiary\Dragon\Black Dragon Wyrmling.md|Black Dragon Wyrmling]]
+# [[5. Mechanics/Bestiary/Dragon/Black Dragon Wyrmling.md|Black Dragon Wyrmling]]
 *Source: Monster Manual p. 88. Available in the SRD.*
 
 The most evil-tempered and vile of the chromatic dragons, black dragons collect the wreckage and treasures of fallen peoples. These dragons loathe seeing the weak prosper and revel in the collapse of humanoid kingdoms. They make their homes in fetid swamps and crumbling ruins where kingdoms once stood.
@@ -95,6 +95,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 "type": "dragon"
 "alignment": "Chaotic Evil"
 "ac": !!int "17"
+"ac_class": "natural armor"
 "hp": !!int "33"
 "hit_dice": "6d8 + 6"
 "stats":
@@ -121,12 +122,12 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "desc": "The dragon can breathe air and water."
   "name": "Amphibious"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d10 + 2|avg (1d10 + 2) piercing damage plus dice: 1d4|avg\
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d10 + 2|text(7) (1d10 + 2) piercing damage plus dice:1d4|text(2)\
     \ (1d4) acid damage."
   "name": "Bite"
 - "desc": "The dragon exhales acid in a 15-foot line that is 5 feet wide. Each creature\
-    \ in that line must make a DC 11 Dexterity saving throw, taking dice: 5d8|avg\
+    \ in that line must make a DC 11 Dexterity saving throw, taking dice:5d8|text(22)\
     \ (5d8) acid damage on a failed save, or half as much damage on a successful\
     \ one."
   "name": "Acid Breath (Recharge 5-6)"

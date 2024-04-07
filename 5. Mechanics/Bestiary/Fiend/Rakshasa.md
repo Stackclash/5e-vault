@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Rakshasa
 ---
-# [[5. Mechanics\Bestiary\Fiend\Rakshasa.md|Rakshasa]]
+# [[5. Mechanics/Bestiary/Fiend/Rakshasa.md|Rakshasa]]
 *Source: Monster Manual p. 257, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD.*
 
 The rakshasa employs delicacy and misdirection in its pursuit of dominion over others. Few creatures ever see the fiend in its true form, for it can take on any guise it wants, although it prefers to masquerade as someone powerful or influential: a noble, cardinal, or rich merchant, for example. A rakshasa's true form combines the features of a human and a tiger, with one noteworthy deformity: its palms are where the backs of the hands would be on a human.
@@ -41,6 +41,7 @@ Like devils, rakshasas killed in the Nine Hells are forever destroyed.
 "type": "fiend"
 "alignment": "Lawful Evil"
 "ac": !!int "16"
+"ac_class": "natural armor"
 "hp": !!int "110"
 "hit_dice": "13d8 + 52"
 "stats":
@@ -61,9 +62,9 @@ Like devils, rakshasas killed in the Nine Hells are forever destroyed.
 "cr": "13"
 "traits":
 - "desc": "The rakshasa's innate spellcasting ability is Charisma (spell save DC 18,\
-    \ dice: d20+10 (+10 to hit) with spell attacks). The rakshasa can innately cast\
-    \ the following spells, requiring no material components:\n\nAt will: [detect\
-    \ thoughts](compendium/spells/detect-thoughts.md), [[5. Mechanics/Spells/Disguise Self.md|disguise self]],\
+    \ dice: d20+10 (+10) to hit with spell attacks). The rakshasa can innately\
+    \ cast the following spells, requiring no material components:\n\nAt will:\
+    \ [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[5. Mechanics/Spells/Disguise Self.md|disguise self]],\
     \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]]\n\
     \n1/day each: [[5. Mechanics/Spells/Dominate Person.md|dominate person]], [[5. Mechanics/Spells/Fly.md|fly]],\
     \ [[5. Mechanics/Spells/Plane Shift.md|plane shift]], [[5. Mechanics/Spells/True Seeing.md|true seeing]]\n\
@@ -78,12 +79,12 @@ Like devils, rakshasas killed in the Nine Hells are forever destroyed.
 "actions":
 - "desc": "The rakshasa makes two claw attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 2|avg (2d6 + 2) slashing damage, and the target is cursed\
-    \ if it is a creature. The magical curse takes effect whenever the target takes\
-    \ a short or long rest, filling the target's thoughts with horrible images and\
-    \ dreams. The cursed target gains no benefit from finishing a short or long rest.\
-    \ The curse lasts until it is lifted by a [[5. Mechanics/Spells/Remove Curse.md|remove curse]]\
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 2|text(9) (2d6 + 2) slashing damage, and the target is\
+    \ cursed if it is a creature. The magical curse takes effect whenever the target\
+    \ takes a short or long rest, filling the target's thoughts with horrible images\
+    \ and dreams. The cursed target gains no benefit from finishing a short or long\
+    \ rest. The curse lasts until it is lifted by a [[5. Mechanics/Spells/Remove Curse.md|remove curse]]\
     \ spell or similar magic."
   "name": "Claw"
 "source":

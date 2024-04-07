@@ -1,27 +1,29 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: null
 condition: healthy
-image: https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/baron-malgas.jpg
+image: >-
+  https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/baron-malgas.jpg
 relationships: []
-tags: 
-aliases: [Baron Malgas]
-pronounced: 
-race: 
-gender: 
-age: 
+tags: null
+aliases:
+  - Baron Malgas
+pronounced: null
+race: null
+gender: null
+age: null
 alignment: Chaotic
-occupation: 
+occupation: null
 groups: []
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]
@@ -124,6 +126,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 "type": "aberration"
 "alignment": "Chaotic"
 "ac": !!int "20"
+"ac_class": "[[5. Mechanics/Items/Plate Armor.md|plate armor]], [[5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "71"
 "hit_dice": "11d8 + 22"
 "stats":
@@ -157,12 +160,12 @@ await dv.view("npcRelationships", { current: dv.current() })
 - "desc": "Baron Malgas makes three attacks with his flail. He can use Melt Flesh\
     \ in place of one flail attack."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), range 5 ft., one target.\
-    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, range 5 ft., one target.\
+    \ Hit: dice:1d8 + 3|text(7) (1d8 + 3) bludgeoning damage."
   "name": "Flail"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft.\
-    \ or range 30/120 ft., one target. Hit: dice: 2d8 + 3|avg (2d8 + 3) piercing\
-    \ damage."
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft.\
+    \ or range 30/120 ft., one target. Hit: dice:2d8 + 3|text(12) (2d8 + 3)\
+    \ piercing damage."
   "name": "Javelin"
 - "desc": "Baron Malgas chooses a target he can see within 30 feet. The target must\
     \ succeed on a DC 13 Wisdom saving throw or watch as their dominant hand melts\

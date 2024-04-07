@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Barovian Witch
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Barovian Witch.md|Barovian Witch]]
+# [[5. Mechanics/Bestiary/Humanoid/Barovian Witch.md|Barovian Witch]]
 *Source: Curse of Strahd p. 229*
 
 The mad women and men known as Barovian witches forge pacts with Strahd and the Dark Powers of Ravenloft in exchange for magic and longevity. They prefer to live in the shadows and can see in the dark. When traveling in the open, they use [[5. Mechanics/Spells/Alter Self.md|alter self]] spells to assume less conspicuous forms. They also use these spells to grow long, sharp claws with which they can attack.
@@ -50,7 +50,7 @@ Barovian witches use the [[5. Mechanics/Spells/Find Familiar.md|find familiar]] 
 "cr": "1/2"
 "traits":
 - "desc": "The witch is a 3rd-level spellcaster. Its spellcasting ability is Intelligence\
-    \ (spell save DC 12, dice: d20+4 (+4 to hit) with spell attacks). The witch\
+    \ (spell save DC 12, dice: d20+4 (+4) to hit with spell attacks). The witch\
     \ has the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
     \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]], [[5. Mechanics/Spells/Ray Of Frost.md|ray of frost]]\n\
     \n1st level (4 slots): [[5. Mechanics/Spells/Ray Of Sickness.md|ray of sickness]],\
@@ -58,11 +58,11 @@ Barovian witches use the [[5. Mechanics/Spells/Find Familiar.md|find familiar]] 
     \n2nd level (2 slots): [[5. Mechanics/Spells/Alter Self.md|alter self]], [[5. Mechanics/Spells/Invisibility.md|invisibility]]"
   "name": "spells"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 1|avg (1d6 + 1) slashing damage. This attack is magical."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 1|text(4) (1d6 + 1) slashing damage. This attack is magical."
   "name": "Claws (Requires Alter Self)"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 1d4|avg (1d4) piercing damage."
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+2 (+2) to hit, reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: dice:1d4|text(2) (1d4) piercing damage."
   "name": "Dagger"
 "source":
 - "CoS"

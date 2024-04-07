@@ -15,7 +15,6 @@ aliases:
   - Evard's Black Tentacles
 ---
 # Evard's Black Tentacles
-%%-- Embedded content starts on the next line. --%%
 *4th-level, Conjuration*  
 
 - **Casting time:** 1 action
@@ -25,7 +24,7 @@ aliases:
 
 Squirming, ebony tentacles fill a 20-foot square on ground that you can see within range. For the duration, these tentacles turn the ground in the area into difficult terrain.
 
-When a creature enters the affected area for the first time on a turn or starts its turn there, the creature must succeed on a Dexterity saving throw or take `dice: 3d6|avg` (`3d6`) bludgeoning damage and be [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]] by the tentacles until the spell ends. A creature that starts its turn in the area and is already [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]] by the tentacles takes `dice: 3d6|avg` (`3d6`) bludgeoning damage.
+When a creature enters the affected area for the first time on a turn or starts its turn there, the creature must succeed on a Dexterity saving throw or take `dice: 3d6|avg|noform` (`3d6`) bludgeoning damage and be [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]] by the tentacles until the spell ends. A creature that starts its turn in the area and is already [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]] by the tentacles takes `dice: 3d6|avg|noform` (`3d6`) bludgeoning damage.
 
 A creature [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]] by the tentacles can use its action to make a Strength or Dexterity check (its choice) against your spell save DC. On a success, it frees itself.
 

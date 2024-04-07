@@ -17,7 +17,6 @@ aliases:
   - Fire Shield
 ---
 # Fire Shield
-%%-- Embedded content starts on the next line. --%%
 *4th-level, Evocation*  
 
 - **Casting time:** 1 action
@@ -29,7 +28,7 @@ Thin and wispy flames wreathe your body for the duration, shedding bright light 
 
 The flames provide you with a warm shield or a chill shield, as you choose. The warm shield grants you resistance to cold damage, and the chill shield grants you resistance to fire damage.
 
-In addition, whenever a creature within 5 feet of you hits you with a melee attack, the shield erupts with flame. The attacker takes `dice: 2d8|avg` (`2d8`) fire damage from a warm shield, or `dice: 2d8|avg` (`2d8`) cold damage from a cold shield.
+In addition, whenever a creature within 5 feet of you hits you with a melee attack, the shield erupts with flame. The attacker takes `dice: 2d8|avg|noform` (`2d8`) fire damage from a warm shield, or `dice: 2d8|avg|noform` (`2d8`) cold damage from a cold shield.
 
 **Classes**: [[5. Mechanics/Classes/Artificer Armorer.md\|Artificer (Armorer)]], [[5. Mechanics/Classes/Artificer Battle Smith.md\|Artificer (Battle Smith)]], [[5. Mechanics/Classes/Druid Circle Of Wildfire.md\|Druid (Circle of Wildfire)]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Warlock The Fiend.md\|Warlock (The Fiend)]], [[5. Mechanics/Classes/Warlock The Genie.md\|Warlock (The Genie)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 

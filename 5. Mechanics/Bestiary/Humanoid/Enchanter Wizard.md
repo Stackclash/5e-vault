@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Enchanter Wizard
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Enchanter Wizard.md|Enchanter Wizard]]
+# [[5. Mechanics/Bestiary/Humanoid/Enchanter Wizard.md|Enchanter Wizard]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 261, Volo's Guide to Monsters p. 213*
 
 Enchanters know how to magically influence minds. Benign enchanters use this magic to defuse violence and sow peace, while malevolent enchanters are some of the most evil of all spellcasters.
@@ -26,6 +26,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "12"
+"ac_class": "15 with [[5. Mechanics/Spells/Mage Armor.md|mage armor]]"
 "hp": !!int "49"
 "hit_dice": "11d8"
 "stats":
@@ -56,8 +57,8 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "actions":
 - "desc": "The enchanter makes three Arcane Burst attacks."
   "name": "Multiattack"
-- "desc": "Melee or Ranged Spell Attack: dice: d20+6 (+6 to hit), reach 5 ft.\
-    \ or range 120 ft., one target. Hit: dice: 3d10 + 3|avg (3d10 + 3) psychic\
+- "desc": "Melee or Ranged Spell Attack: dice: d20+6 (+6) to hit, reach 5 ft.\
+    \ or range 120 ft., one target. Hit: dice:3d10 + 3|text(19) (3d10 + 3) psychic\
     \ damage."
   "name": "Arcane Burst"
 "reactions":

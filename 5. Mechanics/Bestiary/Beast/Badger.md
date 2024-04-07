@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Badger
 ---
-# [[5. Mechanics\Bestiary\Beast\Badger.md|Badger]]
+# [[5. Mechanics/Bestiary/Beast/Badger.md|Badger]]
 *Source: Monster Manual p. 318. Available in the SRD and the Basic Rules.*
 
 ```statblock
@@ -38,7 +38,7 @@ aliases:
     \ checks that rely on smell."
   "name": "Keen Smell"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
+- "desc": "Melee Weapon Attack: dice: d20+2 (+2) to hit, reach 5 ft., one target.\
     \ Hit: 1 piercing damage."
   "name": "Bite"
 "source":

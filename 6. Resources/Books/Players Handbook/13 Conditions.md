@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Conditions"]
+  - compendium/src/5e/phb
+aliases:
+  - Conditions
 ---
 # Conditions
 *Source: Player's Handbook, p. 289* 

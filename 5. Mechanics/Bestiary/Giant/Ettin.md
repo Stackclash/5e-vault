@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Ettin
 ---
-# [[5. Mechanics\Bestiary\Giant\Ettin.md|Ettin]]
+# [[5. Mechanics/Bestiary/Giant/Ettin.md|Ettin]]
 *Source: Monster Manual p. 132. Available in the SRD.*
 
 An ettin is a foul, two-headed giant with the crude characteristics of an orc. It never bathes if it can help it, and its thick skin is usually encrusted with a thick layer of dirt and grime beneath the stinking hides it wears. Its long stringy hair hangs in an unkempt mess about its faces, and its breath reeks from mouths filled with crooked teeth and tusks.
@@ -48,6 +48,7 @@ Whatever the truth of the ettins' origin, orcs treat them as distant cousins, an
 "type": "giant"
 "alignment": "Chaotic Evil"
 "ac": !!int "12"
+"ac_class": "natural armor"
 "hp": !!int "85"
 "hit_dice": "10d10 + 30"
 "stats":
@@ -75,11 +76,11 @@ Whatever the truth of the ettins' origin, orcs treat them as distant cousins, an
 "actions":
 - "desc": "The ettin makes two attacks: one with its battleaxe and one with its morningstar."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 5|avg (2d8 + 5) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d8 + 5|text(14) (2d8 + 5) slashing damage."
   "name": "Battleaxe"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 5|avg (2d8 + 5) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d8 + 5|text(14) (2d8 + 5) piercing damage."
   "name": "Morningstar"
 "source":
 - "MM"

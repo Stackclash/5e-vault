@@ -41,7 +41,7 @@ The Hexblade lets you choose from an expanded list of spells when you learn a wa
 Starting at 1st level, you gain the ability to place a baleful curse on someone. As a bonus action, choose one creature you can see within 30 feet of you. The target is cursed for 1 minute. The curse ends early if the target dies, you die, or you are [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]. Until the curse ends, you gain the following benefits:
 
 - You gain a bonus to damage rolls against the cursed target. The bonus equals your proficiency bonus.  
-- Any attack roll you make against the cursed target is a critical hit on a roll of 19 or 20 on the `dice: d20|avg` (`d20`).  
+- Any attack roll you make against the cursed target is a critical hit on a roll of 19 or 20 on the `dice: d20|avg|noform` (`d20`).  
 - If the cursed target dies, you regain hit points equal to your warlock level + your Charisma modifier (minimum of 1 hit point).  
 
 You can't use this feature again until you finish a short or long rest.
@@ -62,7 +62,7 @@ Once you bind a specter with this feature, you can't use the feature again until
 
 ### Armor of Hexes (Level 10)
 
-At 10th level, your hex grows more powerful. If the target cursed by your Hexblade's Curse hits you with an attack roll, you can use your reaction to roll a `dice: d6|avg` (`d6`). On a 4 or higher, the attack instead misses you, regardless of its roll.
+At 10th level, your hex grows more powerful. If the target cursed by your Hexblade's Curse hits you with an attack roll, you can use your reaction to roll a `dice: d6|avg|noform` (`d6`). On a 4 or higher, the attack instead misses you, regardless of its roll.
 
 ### Master of Hexes (Level 14)
 

@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Drow Priestess of Lolth
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Drow Priestess Of Lolth.md|Drow Priestess of Lolth]]
+# [[5. Mechanics/Bestiary/Humanoid/Drow Priestess Of Lolth.md|Drow Priestess of Lolth]]
 *Source: Monster Manual p. 129*
 
 Female drow with blood ties to a noble house are molded and trained from birth to become priestesses of Lolth. The Spider Queen doesn't allow male drow to hold such positions.
@@ -79,6 +79,7 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
 "subtype": "elf"
 "alignment": "Neutral Evil"
 "ac": !!int "16"
+"ac_class": "[[5. Mechanics/Items/Scale Mail.md|scale mail]]"
 "hp": !!int "71"
 "hit_dice": "13d8 + 13"
 "stats":
@@ -109,7 +110,7 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
     \ [[5. Mechanics/Spells/Levitate.md|levitate]] (self only)"
   "name": "innate"
 - "desc": "The drow is a 10th-level spellcaster. Her spellcasting ability is Wisdom\
-    \ (save DC 14, dice: d20+6 (+6 to hit) with spell attacks). The drow has the\
+    \ (save DC 14, dice: d20+6 (+6) to hit with spell attacks). The drow has the\
     \ following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Guidance.md|guidance]],\
     \ [[5. Mechanics/Spells/Poison Spray.md|poison spray]], [[5. Mechanics/Spells/Resistance.md|resistance]],\
     \ [[5. Mechanics/Spells/Spare The Dying.md|spare the dying]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
@@ -134,16 +135,16 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
 "actions":
 - "desc": "The drow makes two scourge attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage plus dice: 5d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 2|text(5) (1d6 + 2) piercing damage plus dice:5d6|text(17)\
     \ (5d6) poison damage."
   "name": "Scourge"
 - "desc": "The drow attempts to magically summon a [[5. Mechanics/Bestiary/Fiend/Yochlol.md|yochlol]]\
-    \ with a 30% chance chance of success. If the attempt fails, the drow takes dice:\
-    \ 1d10|avg (1d10) psychic damage. Otherwise, the summoned demon appears in\
-    \ an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner,\
-    \ and can't summon other demons. It remains for 10 minutes, until it or its summoner\
-    \ dies, or until its summoner dismisses it as an action."
+    \ with a 30% chance chance of success. If the attempt fails, the drow takes dice:1d10|text(5)\
+    \ (1d10) psychic damage. Otherwise, the summoned demon appears in an unoccupied\
+    \ space within 60 feet of its summoner, acts as an ally of its summoner, and can't\
+    \ summon other demons. It remains for 10 minutes, until it or its summoner dies,\
+    \ or until its summoner dismisses it as an action."
   "name": "Summon Demon (1/Day)"
 "source":
 - "MM"

@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Panther
 ---
-# [[5. Mechanics\Bestiary\Beast\Panther.md|Panther]]
+# [[5. Mechanics/Bestiary/Beast/Panther.md|Panther]]
 *Source: Monster Manual p. 333. Available in the SRD and the Basic Rules.*
 
 ```statblock
@@ -49,11 +49,11 @@ aliases:
     \ can make one bite attack against it as a bonus action."
   "name": "Pounce"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 2|text(5) (1d6 + 2) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d4 + 2|text(4) (1d4 + 2) slashing damage."
   "name": "Claw"
 "source":
 - "MM"

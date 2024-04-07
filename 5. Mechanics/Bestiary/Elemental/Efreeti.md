@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Efreeti
 ---
-# [[5. Mechanics\Bestiary\Elemental\Efreeti.md|Efreeti]]
+# [[5. Mechanics/Bestiary/Elemental/Efreeti.md|Efreeti]]
 *Source: Monster Manual p. 145, Tasha's Cauldron of Everything. Available in the SRD.*
 
 Hulking genies of the Elemental Plane of Fire, the efreet are masters of flame, immune to fire and able to create it on a whim. Fine silk caftans and damask robes drape their magma-red or coal-black skin, and they bedeck themselves in brass and gold torcs, chains, and rings, all glittering with jewels. When an efreeti flies, its lower body transforms into a column of smoke and embers.
@@ -72,6 +72,7 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
 "type": "elemental"
 "alignment": "Lawful Evil"
 "ac": !!int "17"
+"ac_class": "natural armor"
 "hp": !!int "200"
 "hit_dice": "16d10 + 112"
 "stats":
@@ -92,7 +93,7 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
 "cr": "11"
 "traits":
 - "desc": "The efreeti's innate spellcasting ability is Charisma (spell save DC 15,\
-    \ dice: d20+7 (+7 to hit) with spell attacks). It can innately cast the following\
+    \ dice: d20+7 (+7) to hit with spell attacks). It can innately cast the following\
     \ spells, requiring no material components:\n\nAt will: [[5. Mechanics/Spells/Detect Magic.md|detect magic]]\n\
     \n1/day each: [[5. Mechanics/Spells/Conjure Elemental.md|conjure elemental]]\
     \ ([[5. Mechanics/Bestiary/Elemental/Fire Elemental.md|fire elemental]] only), [gaseous\
@@ -107,12 +108,12 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
 "actions":
 - "desc": "The efreeti makes two scimitar attacks or uses its Hurl Flame twice."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 6|avg (2d6 + 6) slashing damage plus dice: 2d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+10 (+10) to hit, reach 5 ft., one\
+    \ target. Hit: dice:2d6 + 6|text(13) (2d6 + 6) slashing damage plus dice:2d6|text(7)\
     \ (2d6) fire damage."
   "name": "Scimitar"
-- "desc": "Ranged Spell Attack: dice: d20+7 (+7 to hit), range 120 ft., one target.\
-    \ Hit: dice: 5d6|avg (5d6) fire damage."
+- "desc": "Ranged Spell Attack: dice: d20+7 (+7) to hit, range 120 ft., one\
+    \ target. Hit: dice:5d6|text(17) (5d6) fire damage."
   "name": "Hurl Flame"
 "source":
 - "MM"

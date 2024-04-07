@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Appendix C: Maps"]
+  - compendium/src/5e/dmg
+aliases:
+  - 'Appendix C: Maps'
 ---
 # Appendix C: Maps
 *Source: Dungeon Master's Guide, p. 310* 

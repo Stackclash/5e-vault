@@ -14,7 +14,7 @@ statblock: inline
 aliases:
   - Archdruid
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Archdruid.md|Archdruid]]
+# [[5. Mechanics/Bestiary/Humanoid/Archdruid.md|Archdruid]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 48, Volo's Guide to Monsters p. 210*
 
 Archdruids watch over the natural wonders of their domains. They seldom interact with folk away from their druid groves and shrines, unless there is a great threat to the natural order or to a nearby community. An archdruid typically has one or more pupils who are [[5. Mechanics/Bestiary/Humanoid/Druid.md|druids]], and the archdruid's lair is usually guarded by loyal Beasts and Fey creatures.
@@ -44,6 +44,7 @@ When an archdruid uses their Change Shape action, you may choose the creature th
 "subtype": "druid"
 "alignment": "Any alignment"
 "ac": !!int "14"
+"ac_class": "[[5. Mechanics/Items/Hide Armor.md|hide armor]]"
 "hp": !!int "154"
 "hit_dice": "28d8 + 28"
 "stats":
@@ -78,13 +79,14 @@ When an archdruid uses their Change Shape action, you may choose the creature th
 - "desc": "The archdruid makes three Staff or Wildfire attacks. It can replace one\
     \ attack with a use of Spellcasting."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) bludgeoning damage plus dice: 6d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 2|text(5) (1d6 + 2) bludgeoning damage plus dice:6d6|text(21)\
     \ (6d6) poison damage."
   "name": "Staff"
-- "desc": "Ranged Spell Attack: dice: d20+9 (+9 to hit), range 120 ft., one target.\
-    \ Hit: dice: 6d6 + 5|avg (6d6 + 5) fire damage, and the target is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]\
-    \ until the start of the druid's next turn."
+- "desc": "Ranged Spell Attack: dice: d20+9 (+9) to hit, range 120 ft., one\
+    \ target. Hit: dice:6d6 + 5|text(26) (6d6 + 5) fire damage, and the target\
+    \ is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] until the start of the\
+    \ druid's next turn."
   "name": "Wildfire"
 "bonus_actions":
 - "desc": "The archdruid magically transforms into a Beast or an Elemental with a\

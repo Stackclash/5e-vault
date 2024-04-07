@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vgm
-aliases: ["Assorted Beasts"]
+  - compendium/src/5e/vgm
+aliases:
+  - Assorted Beasts
 ---
 # Assorted Beasts
 *Source: Volo's Guide to Monsters* 

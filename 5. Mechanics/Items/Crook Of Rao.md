@@ -26,7 +26,7 @@ The artifact has the following random properties, which you can determine by rol
 
 ## Spells
 
-The crook has 6 charges. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells (save DC 18) from it: [[5. Mechanics/Spells/Aura Of Life.md\|aura of life]] (2 charges), [[5. Mechanics/Spells/Aura Of Purity.md\|aura of purity]] (2 charges), [[5. Mechanics/Spells/Banishment.md\|banishment]] (1 charge), [[5. Mechanics/Spells/Beacon Of Hope.md\|beacon of hope]] (1 charge), [[5. Mechanics/Spells/Mass Cure Wounds.md\|mass cure wounds]] (3 charges). The crook regains `dice: 1d6|avg` (`1d6`) expended charges daily at dawn.
+The crook has 6 charges. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells (save DC 18) from it: [[5. Mechanics/Spells/Aura Of Life.md\|aura of life]] (2 charges), [[5. Mechanics/Spells/Aura Of Purity.md\|aura of purity]] (2 charges), [[5. Mechanics/Spells/Banishment.md\|banishment]] (1 charge), [[5. Mechanics/Spells/Beacon Of Hope.md\|beacon of hope]] (1 charge), [[5. Mechanics/Spells/Mass Cure Wounds.md\|mass cure wounds]] (3 charges). The crook regains `dice: 1d6|avg|noform` (`1d6`) expended charges daily at dawn.
 
 ## Absolute Banishment
 
@@ -47,9 +47,9 @@ When the Crook was last used against Iggwilv, the Witch Queen lashed out at the 
 | dice: d100 | Effect |
 |------------|--------|
 | 1-25 | A portal to a random plane opens. The portal closes after 5 minutes. |
-| 26-45 | `dice: 2d4\|avg` (`2d4`) [[5. Mechanics/Bestiary/Fiend/Imp.md\|imps]] and `dice: 2d4\|avg` (`2d4`) [[5. Mechanics/Bestiary/Fiend/Quasit.md\|quasits]] appear. |
-| 46-60 | `dice: 1d8\|avg` (`1d8`) [[5. Mechanics/Bestiary/Fiend/Succubus.md\|succubi]]/[[5. Mechanics/Bestiary/Fiend/Incubus.md\|incubi]] appear. |
-| 61-70 | `dice: 1d10\|avg` (`1d10`) [[5. Mechanics/Bestiary/Fiend/Barbed Devil.md\|barbed devils]] and `dice: 1d10\|avg` (`1d10`) [[5. Mechanics/Bestiary/Fiend/Vrock.md\|vrocks]] appear. |
+| 26-45 | `dice: 2d4\|avg|noform` (`2d4`) [[5. Mechanics/Bestiary/Fiend/Imp.md\|imps]] and `dice: 2d4\|avg|noform` (`2d4`) [[5. Mechanics/Bestiary/Fiend/Quasit.md\|quasits]] appear. |
+| 46-60 | `dice: 1d8\|avg|noform` (`1d8`) [[5. Mechanics/Bestiary/Fiend/Succubus.md\|succubi]]/[[5. Mechanics/Bestiary/Fiend/Incubus.md\|incubi]] appear. |
+| 61-70 | `dice: 1d10\|avg|noform` (`1d10`) [[5. Mechanics/Bestiary/Fiend/Barbed Devil.md\|barbed devils]] and `dice: 1d10\|avg|noform` (`1d10`) [[5. Mechanics/Bestiary/Fiend/Vrock.md\|vrocks]] appear. |
 | 71-80 | 1 [[5. Mechanics/Bestiary/Fiend/Arcanaloth.md\|arcanaloth]], 1 [[5. Mechanics/Bestiary/Fiend/Night Hag.md\|night hag]], and 1 [[5. Mechanics/Bestiary/Fiend/Rakshasa.md\|rakshasa]] appear. |
 | 81-85 | 1 [[5. Mechanics/Bestiary/Fiend/Ice Devil.md\|ice devil]] and 1 [[5. Mechanics/Bestiary/Fiend/Marilith.md\|marilith]] appear. |
 | 86-90 | 1 [[5. Mechanics/Bestiary/Fiend/Balor.md\|balor]] and 1 [[5. Mechanics/Bestiary/Fiend/Pit Fiend.md\|pit fiend]] appear. At the DM's discretion, a portal opens into the presence of an archdevil or demon lord instead, then closes after 5 minutes. |

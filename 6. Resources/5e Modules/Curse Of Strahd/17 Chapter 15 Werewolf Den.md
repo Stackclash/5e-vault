@@ -153,7 +153,7 @@ The ceiling here is 20 feet high. The statue is a crude depiction of Mother Nigh
 
 Kiril has ordered Zuleika to guard the prisoners. If the characters rescue Emil and return him safely to Zuleika, she gladly releases the children. If the characters confirm that Emil is truly dead, either by their hand or Strahd's, she still might let the prisoners go if the characters help her deal with [[4. World Almanac/NPCs/Kiril Stoyanovich.md\|Kiril Stoyanovich]], whom she blames above all. Zuleika sees the characters as the answer to her prayers and asks them to kill Kiril when he returns from his latest hunt (see "Leader of the Pack" in the "Special Events" section below).
 
-Each of the eight children imprisoned here has AC 10, 1 hit point, and no effective attacks. To determine a child's age in years, roll `dice: 1d6 + 6|avg` (`1d6 + 6`). The rocks piled atop each occupied cage can be knocked or lifted off, allowing the cages to be opened. The children are in shock. Those who are set free don't wander far from the characters for fear of being eaten by wolves and werewolves.
+Each of the eight children imprisoned here has AC 10, 1 hit point, and no effective attacks. To determine a child's age in years, roll `dice: 1d6 + 6|avg|noform` (`1d6 + 6`). The rocks piled atop each occupied cage can be knocked or lifted off, allowing the cages to be opened. The children are in shock. Those who are set free don't wander far from the characters for fear of being eaten by wolves and werewolves.
 
 The corpses hanging on the wall behind the statue are two Barovian adults, a man and a woman, killed by the pack and presented as offerings to Mother Night. The werewolves consider the feasting maggots to be emblematic of Mother Night's "feedings." When the flesh of these corpses has been eaten away, the pack searches for new offerings to take their place.
 
@@ -198,7 +198,7 @@ This event doesn't occur if the characters previously encountered and defeated K
 
 ![[6. Resources/5e Modules/Curse Of Strahd/img/130-cos15-04.webp#center\|Kiril Stoyanovich]]
 
-Every hour the characters spend inside the werewolf den, roll a `dice: d20|avg` (`d20`). On a roll of 18 or higher, the werewolf hunting party returns, dragging a dead mountain goat. It's a meager feast, at best. The party consists of [[4. World Almanac/NPCs/Kiril Stoyanovich.md\|Kiril Stoyanovich]] (a [[5. Mechanics/Bestiary/Humanoid/Werewolf.md\|werewolf]] with 90 hit points), six normal [[5. Mechanics/Bestiary/Humanoid/Werewolf.md\|werewolves]], and nine [[5. Mechanics/Bestiary/Beast/Wolf.md\|wolves]]. All the werewolves arrive in wolf form.
+Every hour the characters spend inside the werewolf den, roll a `dice: d20|avg|noform` (`d20`). On a roll of 18 or higher, the werewolf hunting party returns, dragging a dead mountain goat. It's a meager feast, at best. The party consists of [[4. World Almanac/NPCs/Kiril Stoyanovich.md\|Kiril Stoyanovich]] (a [[5. Mechanics/Bestiary/Humanoid/Werewolf.md\|werewolf]] with 90 hit points), six normal [[5. Mechanics/Bestiary/Humanoid/Werewolf.md\|werewolves]], and nine [[5. Mechanics/Bestiary/Beast/Wolf.md\|wolves]]. All the werewolves arrive in wolf form.
 
 If the wolves can see evidence of an assault on the den (such as if the guards at area Z2 are absent or dead), the werewolves assume hybrid form. Kiril sends three werewolves up the mountainside to area Z8 to enter the den from above while he and the remainder of the hunting party make their way deeper into the den.
 

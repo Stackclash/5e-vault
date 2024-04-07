@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Planetar
 ---
-# [[5. Mechanics\Bestiary\Celestial\Planetar.md|Planetar]]
+# [[5. Mechanics/Bestiary/Celestial/Planetar.md|Planetar]]
 *Source: Monster Manual p. 17. Available in the SRD.*
 
 An angel is a celestial agent sent forth into the planes to further its god's agenda for weal or woe. Its sublime beauty and presence can drive awestruck onlookers to their knees. Yet angels are destroyers too, and their appearance portends doom as often as it signals hope.
@@ -43,6 +43,7 @@ Planetars are muscular and hairless and have opalescent green skin and white-fea
 "type": "celestial"
 "alignment": "Lawful Good"
 "ac": !!int "19"
+"ac_class": "natural armor"
 "hp": !!int "200"
 "hit_dice": "16d10 + 112"
 "stats":
@@ -76,8 +77,8 @@ Planetars are muscular and hairless and have opalescent green skin and white-fea
     \ [[5. Mechanics/Spells/Flame Strike.md|flame strike]], [[5. Mechanics/Spells/Raise Dead.md|raise dead]]"
   "name": "innate"
 - "desc": "The planetar's weapon attacks are magical. When the planetar hits with\
-    \ any weapon, the weapon deals an extra dice: 5d8|avg (5d8) radiant damage\
-    \ (included in the attack)."
+    \ any weapon, the weapon deals an extra dice: 5d8|avg|noform (5d8) radiant\
+    \ damage (included in the attack)."
   "name": "Angelic Weapons"
 - "desc": "The planetar knows if it hears a lie."
   "name": "Divine Awareness"
@@ -87,12 +88,12 @@ Planetars are muscular and hairless and have opalescent green skin and white-fea
 "actions":
 - "desc": "The planetar makes two melee attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+12 (+12 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 4d6 + 7|avg (4d6 + 7) slashing damage plus dice: 5d8|avg\
+- "desc": "Melee Weapon Attack: dice: d20+12 (+12) to hit, reach 5 ft., one\
+    \ target. Hit: dice:4d6 + 7|text(21) (4d6 + 7) slashing damage plus dice:5d8|text(22)\
     \ (5d8) radiant damage."
   "name": "Greatsword"
-- "desc": "The planetar touches another creature. The target magically regains dice:\
-    \ 6d8 + 3|avg (6d8 + 3) hit points and is freed from any curse, disease, poison,\
+- "desc": "The planetar touches another creature. The target magically regains dice:6d8\
+    \ + 3|text(30) (6d8 + 3) hit points and is freed from any curse, disease, poison,\
     \ blindness, or deafness."
   "name": "Healing Touch (4/Day)"
 "source":

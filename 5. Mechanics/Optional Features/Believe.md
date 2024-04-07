@@ -27,7 +27,7 @@ On its next action, the target will move to the closest ally and attack it.
 
 ## Chasm
 
-The target perceives a chasm opening up beneath it. It falls [[/5. Mechanics/Rules/Conditions.md#prone\|prone]] and takes `dice: 1d8|avg` (`1d8`) psychic damage. This belief persists—at the start of each round, the target makes an Intelligence saving throw. On a failed save, it continues feeling as though it is falling into an infinite abyss, taking `dice: 1d8|avg` (`1d8`) psychic damage.
+The target perceives a chasm opening up beneath it. It falls [[/5. Mechanics/Rules/Conditions.md#prone\|prone]] and takes `dice: 1d8|avg|noform` (`1d8`) psychic damage. This belief persists—at the start of each round, the target makes an Intelligence saving throw. On a failed save, it continues feeling as though it is falling into an infinite abyss, taking `dice: 1d8|avg|noform` (`1d8`) psychic damage.
 
 ## Wonder:
 

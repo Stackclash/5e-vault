@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Merregon
 ---
-# [[5. Mechanics\Bestiary\Fiend\Merregon.md|Merregon]]
+# [[5. Mechanics/Bestiary/Fiend/Merregon.md|Merregon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 179, Mordenkainen's Tome of Foes p. 166*
 
 The souls of fallen soldiers, mercenaries, and bodyguards who served evil without reservation often find everlasting servitude in the Nine Hells as merregons. These faceless foot soldiers are the Hells' legionnaires, tasked with protecting their infernal plane and its rulers against intruders.
@@ -26,6 +26,7 @@ Because of their unshakable loyalty, merregons form the backbone of many devils'
 "subtype": "devil"
 "alignment": "Typically  Lawful Evil"
 "ac": !!int "16"
+"ac_class": "natural armor"
 "hp": !!int "45"
 "hit_dice": "6d8 + 18"
 "stats":
@@ -53,11 +54,11 @@ Because of their unshakable loyalty, merregons form the backbone of many devils'
 "actions":
 - "desc": "The merregon makes three Halberd attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 1d10 + 4|avg (1d10 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 10 ft., one target.\
+    \ Hit: dice:1d10 + 4|text(9) (1d10 + 4) slashing damage."
   "name": "Halberd"
-- "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 100/400 ft., one\
-    \ target. Hit: dice: 1d10 + 2|avg (1d10 + 2) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+4 (+4) to hit, range 100/400 ft.,\
+    \ one target. Hit: dice:1d10 + 2|text(7) (1d10 + 2) piercing damage."
   "name": "Heavy Crossbow"
 "reactions":
 - "desc": "When another Fiend within 5 feet of the merregon is hit by an attack roll,\

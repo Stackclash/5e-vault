@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Karrnathi Undead Soldier
 ---
-# [[5. Mechanics\Bestiary\Undead\Karrnathi Undead Soldier.md|Karrnathi Undead Soldier]]
+# [[5. Mechanics/Bestiary/Undead/Karrnathi Undead Soldier.md|Karrnathi Undead Soldier]]
 *Source: Eberron: Rising from the Last War p. 295*
 
 Undead soldiers form the elite core of the army of Karrnath. Fearless and tireless, they are a terrifying sight on the battlefield. With the end of the Last War, most Karrnathi undead have been sealed in vaults below the city of Atur. However, the Karrnathi army keeps numerous undead in its service, while others have been commandeered by the malevolent Order of the Emerald Claw.
@@ -41,6 +41,7 @@ A Karrnathi undead soldier doesn't require air, food, drink, or sleep.
 "type": "undead"
 "alignment": "Lawful Evil"
 "ac": !!int "17"
+"ac_class": "[[5. Mechanics/Items/Half Plate Armor.md|half plate armor]]"
 "hp": !!int "52"
 "hit_dice": "7d8 + 21"
 "stats":
@@ -72,12 +73,12 @@ A Karrnathi undead soldier doesn't require air, food, drink, or sleep.
 "actions":
 - "desc": "The soldier attacks three times with one of its weapons."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) slashing damage, or dice: 1d10 + 3|avg\
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 3|text(7) (1d8 + 3) slashing damage, or dice:1d10 + 3|text(8)\
     \ (1d10 + 3) slashing damage if used with two hands."
   "name": "Longsword"
-- "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 150/600 ft., one\
-    \ target. Hit: dice: 1d8 + 2|avg (1d8 + 2) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+4 (+4) to hit, range 150/600 ft.,\
+    \ one target. Hit: dice:1d8 + 2|text(6) (1d8 + 2) piercing damage."
   "name": "Longbow"
 "reactions":
 - "desc": "The soldier adds 3 to its AC against one melee attack that would hit it.\

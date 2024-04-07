@@ -11,8 +11,8 @@ aliases:
 
 | Members | Number Present |
 |---------|----------------|
-| [[5. Mechanics/Bestiary/Humanoid/Duergar.md\|Duergar]] | `dice: 2d6 + 5\|avg` (`2d6 + 5`) |
-| [[5. Mechanics/Bestiary/Humanoid/Duergar Stone Guard.md\|Duergar stone guards]] | `dice: 1d4 + 1\|avg` (`1d4 + 1`) |
-| [[5. Mechanics/Bestiary/Humanoid/Duergar Kavalrachni.md\|Duergar kavalrachni]] | `dice: 1d4\|avg` (`1d4`) |
-| [[5. Mechanics/Bestiary/Monstrosity/Male Steeder.md\|Male steeders]] | `dice: 1d4\|avg` (`1d4`) |
+| [[5. Mechanics/Bestiary/Humanoid/Duergar.md\|Duergar]] | `dice: 2d6 + 5\|avg|noform` (`2d6 + 5`) |
+| [[5. Mechanics/Bestiary/Humanoid/Duergar Stone Guard.md\|Duergar stone guards]] | `dice: 1d4 + 1\|avg|noform` (`1d4 + 1`) |
+| [[5. Mechanics/Bestiary/Humanoid/Duergar Kavalrachni.md\|Duergar kavalrachni]] | `dice: 1d4\|avg|noform` (`1d4`) |
+| [[5. Mechanics/Bestiary/Monstrosity/Male Steeder.md\|Male steeders]] | `dice: 1d4\|avg|noform` (`1d4`) |
 ^members-number-present

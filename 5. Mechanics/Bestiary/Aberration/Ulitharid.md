@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Ulitharid
 ---
-# [[5. Mechanics\Bestiary\Aberration\Ulitharid.md|Ulitharid]]
+# [[5. Mechanics/Bestiary/Aberration/Ulitharid.md|Ulitharid]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 249, Volo's Guide to Monsters p. 175*
 
 Very rarely, when a tadpole from the brine pool of an [[5. Mechanics/Bestiary/Aberration/Elder Brain.md|elder brain]] is implanted into a creature, that creature transforms into an ulitharid: a larger and more potent [[5. Mechanics/Bestiary/Aberration/Mind Flayer.md|mind flayer]] with six tentacles. Illithids innately recognize that an ulitharid's survival is more important than their own. An [[5. Mechanics/Bestiary/Aberration/Elder Brain.md|elder brain's]] reaction to the rise of an ulitharid varies. In most colonies, the ulitharid becomes an elder brain's most favored servant, invested with power and authority. In others, the [[5. Mechanics/Bestiary/Aberration/Elder Brain.md|elder brain]] perceives an ulitharid as a potential rival and manipulates or quashes the ulitharid's ambitions accordingly.
@@ -27,6 +27,7 @@ This process doesn't work on the brain of an ulitharid that dies a natural death
 "subtype": "mind flayer"
 "alignment": "Typically  Lawful Evil"
 "ac": !!int "15"
+"ac_class": "[[5. Mechanics/Items/Breastplate.md|breastplate]]"
 "hp": !!int "127"
 "hit_dice": "17d10 + 14"
 "stats":
@@ -78,21 +79,21 @@ This process doesn't work on the brain of an ulitharid that dies a natural death
     \ at any time (no action required)."
   "name": "Psionic Hub"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 10 ft., one creature.\
-    \ Hit: dice: 4d10 + 5|avg (4d10 + 5) psychic damage. If the target is Large\
-    \ or smaller, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape\
-    \ DC 14) and must succeed on a DC 17 Intelligence saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 10 ft., one creature.\
+    \ Hit: dice:4d10 + 5|text(27) (4d10 + 5) psychic damage. If the target is\
+    \ Large or smaller, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ (escape DC 14) and must succeed on a DC 17 Intelligence saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
     \ until this grapple ends."
   "name": "Tentacles"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 5 ft., one [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
     \ Humanoid [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] by the ulitharid.\
-    \ Hit: dice: 10d10|avg (10d10) piercing damage. If this damage reduces the\
-    \ target to 0 hit points, the ulitharid kills the target by extracting and devouring\
-    \ its brain."
+    \ Hit: dice:10d10|text(55) (10d10) piercing damage. If this damage reduces\
+    \ the target to 0 hit points, the ulitharid kills the target by extracting and\
+    \ devouring its brain."
   "name": "Extract Brain"
 - "desc": "The ulitharid magically emits psychic energy in a 60-foot cone. Each creature\
-    \ in that area must succeed on a DC 17 Intelligence saving throw or take dice:\
-    \ 4d12 + 5|avg (4d12 + 5) psychic damage and be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+    \ in that area must succeed on a DC 17 Intelligence saving throw or take dice:4d12\
+    \ + 5|text(31) (4d12 + 5) psychic damage and be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
     \ for 1 minute. A target can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success."
   "name": "Mind Blast (Recharge 5-6)"

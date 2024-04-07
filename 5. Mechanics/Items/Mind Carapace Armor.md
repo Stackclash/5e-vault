@@ -2,16 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/vgm
-- item/attunement/required
-- item/rarity/uncommon
-- item/wondrous/wondrous-item
-aliases: 
-- "Mind Carapace Armor"
-- "Mind Carapace Chain Mail"
-- "Mind Carapace Plate Armor"
-- "Mind Carapace Splint Armor"
-- "Mind Carapace Ring Mail"
+  - compendium/src/5e/vgm
+  - item/attunement/required
+  - item/rarity/uncommon
+  - item/wondrous/wondrous-item
+aliases:
+  - Mind Carapace Armor
+  - Mind Carapace Chain Mail
+  - Mind Carapace Plate Armor
+  - Mind Carapace Splint Armor
+  - Mind Carapace Ring Mail
 ---
 # Mind Carapace Armor
 *Generic Variant, uncommon (requires attunement by a specific individual)*  

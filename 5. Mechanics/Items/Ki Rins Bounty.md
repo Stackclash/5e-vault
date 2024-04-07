@@ -22,7 +22,7 @@ A strain of gingko tree with leaves that shine as bright as gold and which alway
 
 ## Effect:
 
-For 4 hours after using this herb, anytime a dice would be rolled to restore hit points to yourself, the highest value of that dice is used instead. For example, instead of restoring `dice: 2d6|avg` (`2d6`) hit points, you would regain `dice: 12|avg` (`12`) hit points. If an effect would restore hit points to both you and another creature simultaneously, a separate dice roll is made as normal for them.
+For 4 hours after using this herb, anytime a dice would be rolled to restore hit points to yourself, the highest value of that dice is used instead. For example, instead of restoring `dice: 2d6|avg|noform` (`2d6`) hit points, you would regain `dice: 12|avg|noform` (`12`) hit points. If an effect would restore hit points to both you and another creature simultaneously, a separate dice roll is made as normal for them.
 
 > [!quote]- A quote from Hamund  
 > 

@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Maw Demon
 ---
-# [[5. Mechanics\Bestiary\Fiend\Maw Demon.md|Maw Demon]]
+# [[5. Mechanics/Bestiary/Fiend/Maw Demon.md|Maw Demon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 176, Volo's Guide to Monsters p. 137*
 
 > [!quote]- A quote from Tasha  
@@ -47,6 +47,7 @@ Because maw demons are indiscriminate in their hunger, their stomachs contain al
 "subtype": "demon"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "13"
+"ac_class": "natural armor"
 "hp": !!int "33"
 "hit_dice": "6d8 + 6"
 "stats":
@@ -65,12 +66,12 @@ Because maw demons are indiscriminate in their hunger, their stomachs contain al
 "languages": "understands Abyssal but can't speak"
 "cr": "1"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 2|avg (2d8 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d8 + 2|text(11) (2d8 + 2) piercing damage."
   "name": "Bite"
 - "desc": "The demon vomits in a 15-foot cube. Each creature in that area must succeed\
-    \ on a DC 11 Dexterity saving throw or take dice: 2d10|avg (2d10) acid damage\
-    \ and fall [[/5. Mechanics/Rules/Conditions.md#prone|prone]] in the spew."
+    \ on a DC 11 Dexterity saving throw or take dice:2d10|text(11) (2d10) acid\
+    \ damage and fall [[/5. Mechanics/Rules/Conditions.md#prone|prone]] in the spew."
   "name": "Disgorge (Recharge 6)"
 "source":
 - "MPMM"

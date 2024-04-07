@@ -1,27 +1,29 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: null
 condition: healthy
-image: https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/korsoth-vastikan.jpg
+image: >-
+  https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/korsoth-vastikan.jpg
 relationships: []
-tags: 
-aliases: [Korsoth Vastikan]
-pronounced: 
-race: 
-gender: 
-age: 
+tags: null
+aliases:
+  - Korsoth Vastikan
+pronounced: null
+race: null
+gender: null
+age: null
 alignment: Chaotic
-occupation: 
+occupation: null
 groups: []
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]
@@ -124,6 +126,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 "type": "aberration"
 "alignment": "Chaotic"
 "ac": !!int "16"
+"ac_class": "[[5. Mechanics/Items/Studded Leather Armor.md|studded leather armor]]"
 "hp": !!int "78"
 "hit_dice": "12d8 + 24"
 "stats":
@@ -165,11 +168,11 @@ await dv.view("npcRelationships", { current: dv.current() })
 "actions":
 - "desc": "Vastikan makes four longbow attacks."
   "name": "Multiattack"
-- "desc": "Ranged Weapon Attack: dice: d20+7 (+7 to hit), range 150/600 ft., one\
-    \ target. Hit: dice: 1d8 + 4|avg (1d8 + 4) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+7 (+7) to hit, range 150/600 ft.,\
+    \ one target. Hit: dice:1d8 + 4|text(8) (1d8 + 4) piercing damage."
   "name": "Longbow"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 4|text(8) (1d8 + 4) piercing damage."
   "name": "Shortsword"
 "source":
 - "SaF"

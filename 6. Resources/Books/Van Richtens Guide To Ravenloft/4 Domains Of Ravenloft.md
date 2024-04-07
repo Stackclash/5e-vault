@@ -31,13 +31,13 @@ The Dark Powers also grant Darklords limited ability to manipulate the Mists sur
 
 Most Darklords can keep their domains' borders closed indefinitely and can reopen them at will. For some Darklords, slightly varied effects manifest when they close their domains. Others are limited in their ability to affect their borders. For each domain, specifics appear in the "Closing the Borders" portion of the section on that domain's Darklord.
 
-If a domain's borders are open, the domain is still not easy to escape from. The area within the Mists remains heavily obscured, but the Mists don't cause creatures to gain levels of [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]]. Characters intent on passing through the Mists travel for `dice: 1d6|avg` (`1d6`) hours, then roll on the Wandering the Mists table to determine what happens.
+If a domain's borders are open, the domain is still not easy to escape from. The area within the Mists remains heavily obscured, but the Mists don't cause creatures to gain levels of [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]]. Characters intent on passing through the Mists travel for `dice: 1d6|avg|noform` (`1d6`) hours, then roll on the Wandering the Mists table to determine what happens.
 
 ![[5. Mechanics/Tables/Wandering The Mists.md\|Wandering the Mists]]
 
 #### Mist Talismans
 
-A Mist talisman is a nonmagical object, akin to a dowsing rod or a lodestone, that resonates with the unique nature of the domain where it originates, allowing the creature holding it to find a path through the Mists to that domain. By holding the talisman and focusing on its domain of origin, a creature in the Mists can reach that domain after `dice: 2d6|avg` (`2d6`) hours of travel. Any creatures that willingly follow the creature with the Mist talisman also reach the same destination. A Mist talisman is no help to a creature imprisoned within a domain's closed borders. If the borders of the destination domain are closed, roll on the Wandering the Mists table to determine what happens.
+A Mist talisman is a nonmagical object, akin to a dowsing rod or a lodestone, that resonates with the unique nature of the domain where it originates, allowing the creature holding it to find a path through the Mists to that domain. By holding the talisman and focusing on its domain of origin, a creature in the Mists can reach that domain after `dice: 2d6|avg|noform` (`2d6`) hours of travel. Any creatures that willingly follow the creature with the Mist talisman also reach the same destination. A Mist talisman is no help to a creature imprisoned within a domain's closed borders. If the borders of the destination domain are closed, roll on the Wandering the Mists table to determine what happens.
 
 Mist talismans take ominous forms, and no two are alike. A family's burned holy book, a battered stuffed toy, a papyrus scroll, or any of the items on the [[5. Mechanics/Items/Horror Trinket.md\|Horror Trinkets]] in "chapter 1" might serve as Mist talismans. Few who dwell in the Domains of Dread know how to use Mist talismans or have interest in traveling to other domains. Those who do, though, might share a Mist talisman with adventurers or could know where such an item is located. You can use Mist talismans to guide characters from one domain to another as your adventures require.
 
@@ -314,15 +314,15 @@ When building your version of Tatyana, use the Tatyana's Incarnation table to de
 
 Once you know what form Tatyana's current incarnation takes, consider how the character feels toward Barovia's Darklord. If your version of Tatyana wants to stay away from Strahd, whether or not the incarnation knows they possess Tatyana's soul, roll on the Avoiding Strahd table. Alternatively, if they're compelled to destroy Strahd, roll on the Hunting Strahd table.
 
-![Connection to Strahd; Avoiding Strahd](compendium/tables/connection-to-strahd-avoiding-strahd-vrgr.md)
+![[5. Mechanics/Tables/Connection To Strahd Avoiding Strahd.md\|Connection to Strahd; Avoiding Strahd]]
 
-![Connection to Strahd; Hunting Strahd](compendium/tables/connection-to-strahd-hunting-strahd-vrgr.md)
+![[5. Mechanics/Tables/Connection To Strahd Hunting Strahd.md\|Connection to Strahd; Hunting Strahd]]
 
 #### Beyond Barovia
 
 It's not necessary to have Tatyana's incarnation appear within Barovia. Rather, Tatyana's spirit might arise in another land or under strange circumstances. The Lost Tatyana table provides suggestions for such characters and their objectives.
 
-![Beyond Barovia; Lost Tatyana](compendium/tables/beyond-barovia-lost-tatyana-vrgr.md)
+![[5. Mechanics/Tables/Beyond Barovia Lost Tatyana.md\|Beyond Barovia; Lost Tatyana]]
 
 ![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/043-03-004-tatyana.webp#center\|"Tatyana might be reborn in any number of guises, such as Ireena Kolyana or Lyssa von Zarovich"]]
 
@@ -452,13 +452,13 @@ Lost memories might gradually reveal themselves in response to events in adventu
 
 The mind flayers of Bluetspur might leave evidence of their bizarre plots behind in other domains. Use the artifacts on the Aberrant Evidence table to provoke investigations, trigger lost memories, or even serve as Mist talismans.
 
-![Alien Artifacts; Aberrant Evidence](compendium/tables/alien-artifacts-aberrant-evidence-vrgr.md)
+![[5. Mechanics/Tables/Alien Artifacts Aberrant Evidence.md\|Alien Artifacts; Aberrant Evidence]]
 
 #### Lost Memories
 
 When revealing lost memories, cultivate the disquiet that comes with vivid recollections out of sync with a character's history. The scenes on the Suppressed Memories table include deliberately disjointed specifics that you can adjust or leave incoherent as you please. Many can also be used as the first moments of a longer memory. If you'd like the memory to continue, ask the player of the character remembering the event what happens next.
 
-![Lost Memories; Suppressed Memories](compendium/tables/lost-memories-suppressed-memories-vrgr.md)
+![[5. Mechanics/Tables/Lost Memories Suppressed Memories.md\|Lost Memories; Suppressed Memories]]
 
 #### Adventures Out of Time
 
@@ -526,7 +526,7 @@ Each of the domain's prominent families maintains an opulent and extravagantly n
 
 Among the most decadent noble holdings is Misericordia, the Boritsi estate. Situated amid miles of fields, greenhouses, and alchemy labs used to create exceptional Boritsi-branded perfumes and tinctures, the manor features multiple widow's walks and more than three hundred rooms. An awe-inspiring array of unique plants grows within the estate's private conservatory wings. The distillates from these plants furnish the lady of the house, Ivana Boritsi, with a room-sized perfume organ—along with a hidden, parallel collection of remarkable poisons.
 
-![Misericordia and Other Noble Estates; Noble Families and Estates](compendium/tables/misericordia-and-other-noble-estates-noble-families-and-estates-vrgr.md)
+![[5. Mechanics/Tables/Misericordia And Other Noble Estates Noble Families And Estates.md\|Misericordia and Other Noble Estates; Noble Families and Estates]]
 
 > [!note] Domain with Two Darklords
 > 
@@ -707,7 +707,7 @@ Characters readily win contacts among Borca's nobility, since the elite seem eas
 
 Between adventures, a noble contact might share their problems with a character or seek favors from a character. Roll or choose an option from the Ignoble Request table to determine what the contact wishes. These requests target a specific rival or member of another family, and lead to increasingly dramatic treacheries.
 
-![Ignoble Bonds; Ignoble Request](compendium/tables/ignoble-bonds-ignoble-request-vrgr.md)
+![[5. Mechanics/Tables/Ignoble Bonds Ignoble Request.md\|Ignoble Bonds; Ignoble Request]]
 
 #### Lethal Leverage
 
@@ -882,7 +882,7 @@ The Carnival deals in fabricated spectacles and cheap surprises, but it disguise
 
 Consider the plots on the Carnival Adventures table when planning adventures in this domain.
 
-![Adventures in the Carnival; Carnival Adventures](compendium/tables/adventures-in-the-carnival-carnival-adventures-vrgr.md)
+![[5. Mechanics/Tables/Adventures In The Carnival Carnival Adventures.md\|Adventures in the Carnival; Carnival Adventures]]
 
 ## Darkon
 
@@ -1030,7 +1030,7 @@ When Azalin Rex disappeared during the Hour of Ascension, Darkon lost its Darklo
 
 ![[5. Mechanics/Tables/Darkons Destruction.md\|Darkon's Destruction]]
 
-![The Secret of Darkon's Doom; Azalin's Fate](compendium/tables/the-secret-of-darkons-doom-azalins-fate-vrgr.md)
+![[5. Mechanics/Tables/The Secret Of Darkons Doom Azalins Fate.md\|The Secret of Darkon's Doom; Azalin's Fate]]
 
 > [!note] The Shroud
 > 
@@ -1207,7 +1207,7 @@ The horror of the Grand Masquerade focuses on the fear of discovery—being forc
 
 For the people of Port-a-Lucine, attending the Grand Masquerade signals a victory in their ceaseless quest for status. Visiting Duchess Saidra's estate, tasting her refreshments, moving in her social circle, and dancing to the music of her first-class orchestra are delights to be savored—and entirely worth the risk of discovery. To adventurers, though, these delights might not be sufficient motivation to take that risk. The Grand Masquerade is a fantastic adventure backdrop, but not a complete adventure. Adventurers need a good reason to attend; you can give them one by rolling on the Grand Masquerade Objectives table that follows. Link these objectives to larger adventures in Dementlieu, such as those growing from the seeds on the Dementlieu Adventures table.
 
-![The Grand Masquerade; Grand Masquerade Objectives](compendium/tables/the-grand-masquerade-grand-masquerade-objectives-vrgr.md)
+![[5. Mechanics/Tables/The Grand Masquerade Grand Masquerade Objectives.md\|The Grand Masquerade; Grand Masquerade Objectives]]
 
 Once the characters have a reason to be at the Grand Masquerade, they face a series of dangerous trials as they navigate the social intricacies of the ball. Common challenges include securing an invitation, acquiring a costume, navigating social niceties, and dancing. Random complications can arise at any point during the ball, heightening the constant risk of unmasking.
 
@@ -1248,7 +1248,7 @@ Characters might try to learn the basic dances as they prepare for the Grand Mas
 
 Use the Grand Masquerade Complications table to arbitrarily introduce a new element to the ball and keep the players on their toes.
 
-![Random Complications; Grand Masquerade Complications](compendium/tables/random-complications-grand-masquerade-complications-vrgr.md)
+![[5. Mechanics/Tables/Random Complications Grand Masquerade Complications.md\|Random Complications; Grand Masquerade Complications]]
 
 #### Unmasking
 
@@ -1434,19 +1434,19 @@ The streets are packed with poorly armed commoners and cruel Talon soldiers. Any
 
 Run the siege as a series of encounters rather than one extended battle. As terrible events unfold around the characters, it's up to them to determine who and how they'll help.
 
-Begin the siege with zombies approaching Lekar's walls. The characters might pick off distant zombies or enact plans to destroy dozens at a time. The characters' strategies are likely successful, but the horde soon begins overwhelming defenses nearby. Once the characters defeat a few zombies, roll `dice: 1d6|avg` (`1d6`) and consult the Zombie Siege Encounters table. The event rolled unfolds within sight of one of the characters. It's up to the characters to either take action or let the event transpire. When the characters complete an encounter, roll on the table again. If the characters ignore one of these events, the defenders' situation worsens. Add +2 to the next roll on the table.
+Begin the siege with zombies approaching Lekar's walls. The characters might pick off distant zombies or enact plans to destroy dozens at a time. The characters' strategies are likely successful, but the horde soon begins overwhelming defenses nearby. Once the characters defeat a few zombies, roll `dice: 1d6|avg|noform` (`1d6`) and consult the Zombie Siege Encounters table. The event rolled unfolds within sight of one of the characters. It's up to the characters to either take action or let the event transpire. When the characters complete an encounter, roll on the table again. If the characters ignore one of these events, the defenders' situation worsens. Add +2 to the next roll on the table.
 
 The siege lasts as long as you like. Use frantic rushes between emergencies to describe small horrors and victories while wearing down the characters' resources with brief zombie attacks. If the characters feel completely overwhelmed, Talon [[5. Mechanics/Bestiary/Humanoid/Priest.md\|priests]] with [[5. Mechanics/Items/Potion Of Healing.md\|potions of healing]] might appear, or an officer can enlist characters to deliver orders from General Drakov (likely related to the siege's climax).
 
-As the battle reaches what you determine to be the halfway point, start rolling `dice: 2d6|avg` (`2d6`) on the Zombie Siege Encounters table and consult the ""Concluding the Siege"" section to guide the battle toward its climax.
+As the battle reaches what you determine to be the halfway point, start rolling `dice: 2d6|avg|noform` (`2d6`) on the Zombie Siege Encounters table and consult the ""Concluding the Siege"" section to guide the battle toward its climax.
 
-![During the Siege; Zombie Siege Encounters](compendium/tables/during-the-siege-zombie-siege-encounters-vrgr.md)
+![[5. Mechanics/Tables/During The Siege Zombie Siege Encounters.md\|During the Siege; Zombie Siege Encounters]]
 
 #### Concluding the Siege
 
 After several encounters and hours of battle, guide the siege toward its conclusion. Use crumbling fortifications, routed defenders, and surprise zombie appearances to make it clear that a section of Lekar is lost. General Drakov puts a desperate plan from the Zombie Siege Climax table into effect if the characters don't stop her.
 
-![Concluding the Siege; Zombie Siege Climax](compendium/tables/concluding-the-siege-zombie-siege-climax-vrgr.md)
+![[5. Mechanics/Tables/Concluding The Siege Zombie Siege Climax.md\|Concluding the Siege; Zombie Siege Climax]]
 
 Drakov's scheme might be even more alarming, involving magical or monstrous secret weapons.
 
@@ -1570,7 +1570,7 @@ The priests of Har'Akir's gods work Ankhtepot's will. Most priests believe thems
 
 ##### Closing the Borders
 
-When Ankhtepot wishes to close the borders of Har'Akir, mighty sandstorms rise at the edges of the domain. Those who enter the storms are affected as detailed in ""The Mists"" at the start of this chapter, but in addition, they take `dice: 2d6|avg` (`2d6`) slashing damage per round from the scouring sands.
+When Ankhtepot wishes to close the borders of Har'Akir, mighty sandstorms rise at the edges of the domain. Those who enter the storms are affected as detailed in ""The Mists"" at the start of this chapter, but in addition, they take `dice: 2d6|avg|noform` (`2d6`) slashing damage per round from the scouring sands.
 
 #### Ankhtepot's Torment
 
@@ -1630,13 +1630,13 @@ Above all things, Pharaoh Ankhtepot seeks to retrieve his ka, the missing piece 
 
 Before tasking characters with retrieving it, determine what form the pharaoh's ka takes. It might be a physical object, a living creature, or a spiritual concept that needs to be summoned into being. Roll or choose an option from the Ankhtepot's Soul table to determine the form of the Darklord's ka.
 
-![The Soul's Shape; Ankhtepot's Soul](compendium/tables/the-souls-shape-ankhtepots-soul-vrgr.md)
+![[5. Mechanics/Tables/The Souls Shape Ankhtepots Soul.md\|The Soul's Shape; Ankhtepot's Soul]]
 
 #### The Hunters' Role
 
 Once you know the form of Pharaoh Ankhtepot's ka, determine how the characters become involved with the hunt for it. Events might make finding the soul to be in the characters' best interests, or they might already possess it—making them the Darklord's quarry. In any case, while it's well known that the pharaoh seeks some lost treasure, he doesn't advertise that what he seeks is his own ka, making this revelation part of any successful hunt. Roll or choose an option from the Hunt for the Ka table to determine what form the domain-spanning quest takes.
 
-![The Hunters' Role; Hunt for the Ka](compendium/tables/the-hunters-role-hunt-for-the-ka-vrgr.md)
+![[5. Mechanics/Tables/The Hunters Role Hunt For The Ka.md\|The Hunters' Role; Hunt for the Ka]]
 
 #### The Resurrection Ritual
 
@@ -1655,7 +1655,7 @@ If the ritual is successful, Ankhtepot is reborn.
 
 Roll or choose an option from the Ankhtepot Reborn table to determine what this means for Har'Akir.
 
-![The Pharaoh's Return; Ankhtepot Reborn](compendium/tables/the-pharaohs-return-ankhtepot-reborn-vrgr.md)
+![[5. Mechanics/Tables/The Pharaohs Return Ankhtepot Reborn.md\|The Pharaoh's Return; Ankhtepot Reborn]]
 
 ## Hazlan
 
@@ -1814,7 +1814,7 @@ Magic is a source of both prestige and terror in Hazlan. Commoners fear it but k
 
 #### Hazlan Wild Magic
 
-Excessive experimentation has caused the nature of magic in Hazlan to fray, making the entire domain a region of wild magic. Whenever a character in Hazlan expends a spell slot to cast a spell of 1st level or higher or actives a magic item, an additional effect might occur. The character's player rolls a `dice: d10|avg` (`d10`). If they roll a 1, roll on the Hazlan Wild Magic table to determine the effect. Only Hazlik is unaffected by the domain's wild magic.
+Excessive experimentation has caused the nature of magic in Hazlan to fray, making the entire domain a region of wild magic. Whenever a character in Hazlan expends a spell slot to cast a spell of 1st level or higher or actives a magic item, an additional effect might occur. The character's player rolls a `dice: d10|avg|noform` (`d10`). If they roll a 1, roll on the Hazlan Wild Magic table to determine the effect. Only Hazlik is unaffected by the domain's wild magic.
 
 ![[5. Mechanics/Tables/Hazlan Wild Magic.md\|Hazlan Wild Magic]]
 
@@ -1998,7 +1998,7 @@ Anyone who sleeps in I'Cath enters Tsien Chiang's dream of a bustling, beautiful
 
 ##### Nature of the Dream
 
-Creatures in the dream of I'Cath have the statistics they do in waking life. If a creature dies in the dream, it takes `dice: 3d6|avg` (`3d6`) psychic damage, returns to the waking world, and does not receive any benefit from the rest that just ended.
+Creatures in the dream of I'Cath have the statistics they do in waking life. If a creature dies in the dream, it takes `dice: 3d6|avg|noform` (`3d6`) psychic damage, returns to the waking world, and does not receive any benefit from the rest that just ended.
 
 ##### The Nightingale Bell
 
@@ -2249,7 +2249,7 @@ The Kalakeri military and traditionalists throughout the domain back Maharani Ra
 
 Those who gain certain thresholds of renown with the loyalists can make requests of that faction and Maharani Ramya. These requests and the threshold at which they'll be entertained are detailed on the Loyalist Benefits table—along with how the request adjusts the character's renown score with the faction, if applicable. Ramya treats those with a renown score of 25 or higher as trusted advisors and reveals her undead nature to them.
 
-![Benefits of Renown; Loyalist Benefits](compendium/tables/benefits-of-renown-loyalist-benefits-vrgr.md)
+![[5. Mechanics/Tables/Benefits Of Renown Loyalist Benefits.md\|Benefits of Renown; Loyalist Benefits]]
 
 #### Rebels of Kalakeri
 
@@ -2259,7 +2259,7 @@ Since Arijani and Reeva's murder and monstrous resurrection, control of the Sapp
 
 Those who gain certain thresholds of renown with the rebels can make requests of that faction, Arijani, and Reeva. These requests and the threshold at which they'll be entertained are detailed on the Rebel Benefits table—along with how the request adjusts the character's renown score with the faction, if applicable. Arijani and Reeva never reveal their true natures to anyone.
 
-![Benefits of Renown; Rebel Benefits](compendium/tables/benefits-of-renown-rebel-benefits-vrgr.md)
+![[5. Mechanics/Tables/Benefits Of Renown Rebel Benefits.md\|Benefits of Renown; Rebel Benefits]]
 
 ## Kartakass
 
@@ -2356,7 +2356,7 @@ Lukas owns this intimate, traditional tavern in Skald. Nightly, either Harkon Lu
 
 ##### Closing the Borders
 
-When Harkon chooses to close Kartakass's borders, a soothing song fills the Mists. The Mists function as detailed in ""The Mists"" at the start of this chapter, but in addition, any creature in the Mists that has its speed reduced to 0 by [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]] falls [[/5. Mechanics/Rules/Conditions.md#unconscious\|unconscious]] and is teleported out of the Mists. The creature awakes at the Mists' edge back in Kartakass `dice: 1d6|avg` (`1d6`) hours later.
+When Harkon chooses to close Kartakass's borders, a soothing song fills the Mists. The Mists function as detailed in ""The Mists"" at the start of this chapter, but in addition, any creature in the Mists that has its speed reduced to 0 by [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]] falls [[/5. Mechanics/Rules/Conditions.md#unconscious\|unconscious]] and is teleported out of the Mists. The creature awakes at the Mists' edge back in Kartakass `dice: 1d6|avg|noform` (`1d6`) hours later.
 
 #### Harkon Lukas's Torment
 
@@ -2409,7 +2409,7 @@ Harkon Lukas approaches the characters as an ally who eagerly sponsors their adv
 
 Through sycophants and werewolf allies, the Darklord learns of noteworthy characters before they hear of him. By manufacturing a chance encounter, Harkon takes the opportunity to be impressed by or indebt himself to the characters. He then uses tactics on the Favors for Harkon Lukas table to share a goal with intriguing characters. However Harkon comes to need or employ the characters, he encourages and compliments them. Afterward, he seeks to employ the characters further, either on personal jobs or by tipping them off about grander quests.
 
-![Meeting the Darklord; Favors for Harkon Lukas](compendium/tables/meeting-the-darklord-favors-for-harkon-lukas-vrgr.md)
+![[5. Mechanics/Tables/Meeting The Darklord Favors For Harkon Lukas.md\|Meeting the Darklord; Favors for Harkon Lukas]]
 
 ![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/079-03-023-akriel-lukas.webp#center\|Akriel Lukas]]
 
@@ -2508,7 +2508,7 @@ Dr. Viktra Mordenheim dresses in functional, bloodstained lab wear. Her statisti
 
 Dr. Mordenheim can create any Construct or corporeal Undead by working in her laboratory for a number of uninterrupted days equal to the creature's challenge rating. At the end of the final day, the creature is complete and obeys her will. She uses this ability to create [[5. Mechanics/Bestiary/Construct/Flesh Golem.md\|flesh golems]] and [[5. Mechanics/Bestiary/Construct/Homunculus.md\|homunculi]], as well as [[5. Mechanics/Bestiary/Undead/Zombie.md\|zombies]], [[5. Mechanics/Bestiary/Undead/Deaths Head.md\|death's heads]], and [[5. Mechanics/Bestiary/Undead/Brain In A Jar.md\|brains in jars]] (see "chapter 5").
 
-- **Reborn Maker.** A side effect of Dr. Mordenheim's experiments is the creation of reborn (see "chapter 1"). It takes her `dice: 1d4|avg` (`1d4`) days and the dead bodies of two Medium or Small Humanoids to create one reborn.  
+- **Reborn Maker.** A side effect of Dr. Mordenheim's experiments is the creation of reborn (see "chapter 1"). It takes her `dice: 1d4|avg|noform` (`1d4`) days and the dead bodies of two Medium or Small Humanoids to create one reborn.  
 - **Brain Swap.** Dr. Mordenheim can place a creature's brain or head into another body, moving it from a donor to a recipient. The process requires the donor to have a brain and either be [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]] or to have been dead for less than 24 hours. In an operation that takes 1 hour, the doctor transfers the donor's brain or head from their body to the [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]] or dead corporeal body of a creature without a brain. The donor awakes 1 hour later with control of the recipient's body.  
 
 While controlling the recipient's body, the donor retains their alignment, Intelligence, Wisdom, and Charisma scores. They otherwise use the recipient's body's statistics, but don't gain access to the recipient's knowledge, class features, or proficiencies. Dr. Mordenheim can swap a donor's brain or head back from the recipient's body to their original body through this same process, as long as the original body exists and no more than 1 week has passed. This period can be extended if steps are taken to preserve the original body, such as by keeping it in cold storage or under the effect of a [[5. Mechanics/Spells/Gentle Repose.md\|gentle repose]] spell.
@@ -2604,7 +2604,7 @@ The characters are legitimately defeated during another adventure. Rather than t
 
 Once the characters become subject to Dr. Mordenheim's schemes, consider what she wants of them and what bodies she fashions to ensure that her new agents can fulfill her goals. While she could create a device or a chemical dependency that encourages the characters to serve her, holding their original bodies hostage is probably enticement enough. The Serving Dr. Mordenheim table suggests schemes the doctor might coerce the party to take part in. Whether she intends to fulfill her promises or keep her new agents hostage forever is up to you.
 
-![Mordenheim's Designs; Serving Dr. Mordenheim](compendium/tables/mordenheims-designs-serving-dr-mordenheim-vrgr.md)
+![[5. Mechanics/Tables/Mordenheims Designs Serving Dr Mordenheim.md\|Mordenheim's Designs; Serving Dr. Mordenheim]]
 
 ## Mordent
 
@@ -2762,13 +2762,13 @@ Because elements of a ghost's mortal life define and foreshadow the course of th
 
 Ghosts embody the pain and grief that surround death. To build an effective ghost story adventure, present either the ghost or those they haunt as the tragic victims of painful circumstance. The Tragic Elements table offers suggestions, framing each as a tragic element for either the ghost or their victims.
 
-![Tragedy; Tragic Elements](compendium/tables/tragedy-tragic-elements-vrgr.md)
+![[5. Mechanics/Tables/Tragedy Tragic Elements.md\|Tragedy; Tragic Elements]]
 
 #### Romance
 
 Issues of love and romance are intimately bound to the tragic elements of a ghost story, or can supplement those elements to make the ghost sympathetic. The Romantic Elements table offers suggestions.
 
-![Romance; Romantic Elements](compendium/tables/romance-romantic-elements-vrgr.md)
+![[5. Mechanics/Tables/Romance Romantic Elements.md\|Romance; Romantic Elements]]
 
 ![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/087-03-028-all-who-die.webp#center\|"All who die in Mordent become captives to the will of Lord Wilfred Godefroy"]]
 
@@ -2945,7 +2945,7 @@ Creatures exposed to the disease must succeed on a DC 10 Constitution saving thr
 
 #### Symptoms
 
-It takes `dice: 1d2|avg` (`1d2`) days for the Gnawing Plague's symptoms to manifest in an infected creature. The infected creature then gains 1 level of [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]], regains only half the normal number of hit points from spending Hit Dice, and regains no hit points from finishing a long rest.
+It takes `dice: 1d2|avg|noform` (`1d2`) days for the Gnawing Plague's symptoms to manifest in an infected creature. The infected creature then gains 1 level of [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]], regains only half the normal number of hit points from spending Hit Dice, and regains no hit points from finishing a long rest.
 
 The plague's symptoms include buboes, fatigue, splotchy rashes, sweats, and shaking, particularly facial tremors. Locals liken these twitches to the sniffing of rats. Sufferers often have scraps of leather placed in their mouths to prevent their teeth from clattering, though they inevitably gnaw through these scraps.
 
@@ -2967,7 +2967,7 @@ The Gnawing Plague is an ever-present threat in Richemulot. At any given time, e
 
 The plague's progress begins at stage one, advances to stage four, and then either wanes back to stage one or ends when everyone in a community is dead. Each stage can last for days or weeks, as appropriate for your adventures.
 
-Alternatively, if you'd like to have the plague play out more randomly, roll a `dice: d20|avg` (`d20`) each day. If you roll 2 or lower, the stage decreases by one. If you roll a 17 or higher, the stage increases by one. If the characters spend at least 1 hour during the day working to treat the sick, the stage decreases by one if you roll a 4 or lower.
+Alternatively, if you'd like to have the plague play out more randomly, roll a `dice: d20|avg|noform` (`d20`) each day. If you roll 2 or lower, the stage decreases by one. If you roll a 17 or higher, the stage increases by one. If the characters spend at least 1 hour during the day working to treat the sick, the stage decreases by one if you roll a 4 or lower.
 
 Let the plague's cycle proceed for as long as your adventures demand, waxing or waning whenever it's most dramatic. The plague will never kill everyone in Richemulot; there will always be miraculous cures or reasons for Jacqueline Renier to withdraw her infected rat swarms. The cities then repopulate swiftly, with new residents emerging from the Mists to little notice. This ensures that after a period of relative peace, the plague's next wave is just as devastating as the last.
 
@@ -2979,19 +2979,19 @@ At its calmest, the plague isn't obvious in the population. The plague behaves a
 
 Coughing can be heard in the streets. Furtive looks pass between strangers, and the Casques Silencieux appear in increasing numbers. During this stage, whenever a character goes out in public, roll or choose an encounter from the Stage Two Encounters table. If exposed to the Gnawing Plague, a character must succeed on a Constitution saving throw to resist the disease with the DC listed in the table entry for that encounter.
 
-![Stage Two: Outbreak; Stage Two Encounters](compendium/tables/stage-two-outbreak-stage-two-encounters-vrgr.md)
+![[5. Mechanics/Tables/Stage Two Outbreak Stage Two Encounters.md\|Stage Two: Outbreak; Stage Two Encounters]]
 
 #### Stage Three: Illness
 
 All businesses close, and the gates to walled communities are sealed. The Casques Silencieux usher anyone on the streets back into their homes. Those without shelter congregate in alleys, where the rats grow bold. During this stage, whenever a character goes out in public, roll or choose an encounter from the Stage Three Encounters table. If exposed to the Gnawing Plague, a character must succeed on a Constitution saving throw to resist the disease with the DC listed in the table entry for that encounter.
 
-![Stage Three: Illness; Stage Three Encounters](compendium/tables/stage-three-illness-stage-three-encounters-vrgr.md)
+![[5. Mechanics/Tables/Stage Three Illness Stage Three Encounters.md\|Stage Three: Illness; Stage Three Encounters]]
 
 #### Stage Four: Pestilence
 
 The dead lie in the streets. Neighbors shun one another. Everyone hears the gnawing sounds in the dark, but no one searches out the source. During this stage, whenever a character goes out in public, roll or choose an encounter from the Stage Four Encounters table. If exposed to the Gnawing Plague, a character must succeed on a Constitution saving throw to resist the disease with the DC listed in the table entry for that encounter.
 
-![Stage Four: Pestilence; Stage Four Encounters](compendium/tables/stage-four-pestilence-stage-four-encounters-vrgr.md)
+![[5. Mechanics/Tables/Stage Four Pestilence Stage Four Encounters.md\|Stage Four: Pestilence; Stage Four Encounters]]
 
 ## Tepest
 
@@ -3144,7 +3144,7 @@ When the characters visit Viktal, roll or choose options from the Sights in Vikt
 
 ![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/095-03-032-a-visitor.webp#center\|"A visitor enjoys the hospitality of Viktal during the Tithe"]]
 
-![Welcome to Viktal; Sights in Viktal](compendium/tables/welcome-to-viktal-sights-in-viktal-vrgr.md)
+![[5. Mechanics/Tables/Welcome To Viktal Sights In Viktal.md\|Welcome to Viktal; Sights in Viktal]]
 
 #### The Tithe
 
@@ -3168,7 +3168,7 @@ At midnight, amid ceremony and solemnity, Mother appears to her worshipers. Moth
 
 The particulars of how this ritual plays out are up to you, but it always culminates in Laoirse's attack. Whether a character is chosen as Mother's Favorite or the party tries to defend the victim, roll or choose an option from the Lorinda's Daughter table to determine what horror arrives at the ritual's climax. Creatures on the table marked with an asterisk are detailed in "chapter 5".
 
-![Mother's Blessing; Lorinda's Daughter](compendium/tables/mothers-blessing-lorindas-daughter-vrgr.md)
+![[5. Mechanics/Tables/Mothers Blessing Lorindas Daughter.md\|Mother's Blessing; Lorinda's Daughter]]
 
 ## Valachan
 
@@ -3554,7 +3554,7 @@ The characters in your adventures should feel special if they travel the Mists, 
 
 The following sections present groups and individuals who routinely travel the Mists. The Strangers in the Mists table also suggests the kinds of people characters might encounter amid the Mists.
 
-![Travelers in the Mists; Strangers in the Mists](compendium/tables/travelers-in-the-mists-strangers-in-the-mists-vrgr.md)
+![[5. Mechanics/Tables/Travelers In The Mists Strangers In The Mists.md\|Travelers in the Mists; Strangers in the Mists]]
 
 ### Keepers of the Feather
 

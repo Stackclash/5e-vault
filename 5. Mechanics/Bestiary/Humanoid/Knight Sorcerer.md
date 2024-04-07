@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Knight-Sorcerer
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Knight Sorcerer.md|Knight-Sorcerer]]
+# [[5. Mechanics/Bestiary/Humanoid/Knight Sorcerer.md|Knight-Sorcerer]]
 *Source: Strongholds and Followers p. 75*
 
 ```statblock
@@ -20,6 +20,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "18"
+"ac_class": "Heavy"
 "stats":
 - !!int "18"
 - !!int "14"
@@ -45,8 +46,8 @@ aliases:
 - "desc": "This creature is a Retainer, as described in \"Strongholds and Followers\""
   "name": "Retainer"
 "actions":
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing\
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: dice:1d6 + 3|text(4) (1d6 + 3) piercing\
     \ damage.\n\nAt 7th level, retainers can take two signature attacks per round."
   "name": "Signature Attack"
 - "desc": "Prerequisite: 3rd-level retainer\n\nThe Knight-Sorcerer casts the [[5. Mechanics/Spells/Shield.md|shield]]\

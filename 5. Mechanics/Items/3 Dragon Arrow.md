@@ -15,7 +15,7 @@ aliases:
 - **Properties**: Crafted by
 - **Weight**: 0.05 lbs.
 
-You have a +3 bonus to your attack and damage rolls made with this arrow corresponding to its rarity. When you make a successful hit with this arrow, you also deal an additional `dice: 3d8|avg` (`3d8`) damage of the type corresponding to the damage type this arrow was crafted from. You also have advantage on attacks made with this ammunition against any targets with the dragon creature type.
+You have a +3 bonus to your attack and damage rolls made with this arrow corresponding to its rarity. When you make a successful hit with this arrow, you also deal an additional `dice: 3d8|avg|noform` (`3d8`) damage of the type corresponding to the damage type this arrow was crafted from. You also have advantage on attacks made with this ammunition against any targets with the dragon creature type.
 
 When used in a successful attack, there is a 70% chance that this arrow loses all magical properties and becomes a normal arrow.
 

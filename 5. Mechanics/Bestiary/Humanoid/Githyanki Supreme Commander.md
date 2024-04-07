@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Githyanki Supreme Commander
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Githyanki Supreme Commander.md|Githyanki Supreme Commander]]
+# [[5. Mechanics/Bestiary/Humanoid/Githyanki Supreme Commander.md|Githyanki Supreme Commander]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 141, Mordenkainen's Tome of Foes p. 206*
 
 Supreme commanders lead armies, each one commanding ten kith'raks, who in turn lead the rest of their forces. Most supreme commanders ride [[5. Mechanics/Bestiary/Dragon/Adult Red Dragon.md|red dragons]] into battle.
@@ -29,6 +29,7 @@ Githyanki descend from an ancient people who were also the progenitors of githze
 "subtype": "gith"
 "alignment": "Any alignment"
 "ac": !!int "18"
+"ac_class": "[[5. Mechanics/Items/Plate Armor.md|plate]]"
 "hp": !!int "187"
 "hit_dice": "22d8 + 88"
 "stats":
@@ -63,8 +64,8 @@ Githyanki descend from an ancient people who were also the progenitors of githze
 "actions":
 - "desc": "The githyanki makes two Silver Greatsword attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+12 (+12 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 7|avg (2d6 + 7) slashing damage plus dice: 5d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+12 (+12) to hit, reach 5 ft., one\
+    \ target. Hit: dice:2d6 + 7|text(14) (2d6 + 7) slashing damage plus dice:5d6|text(17)\
     \ (5d6) psychic damage. On a critical hit against a target in an astral body\
     \ (as with the [[5. Mechanics/Spells/Astral Projection.md|astral projection]] spell),\
     \ the githyanki can cut the silvery cord that tethers the target to its material\

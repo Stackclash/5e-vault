@@ -1,27 +1,29 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: null
 condition: healthy
-image: https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/queen-of-bones.jpg
+image: >-
+  https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/queen-of-bones.jpg
 relationships: []
-tags: 
-aliases: [The Queen of Bones]
-pronounced: 
-race: 
-gender: 
-age: 
+tags: null
+aliases:
+  - The Queen of Bones
+pronounced: null
+race: null
+gender: null
+age: null
 alignment: Chaotic
-occupation: 
+occupation: null
 groups: []
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]
@@ -128,6 +130,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 "type": "aberration"
 "alignment": "Chaotic"
 "ac": !!int "15"
+"ac_class": "natural armor"
 "hp": !!int "71"
 "hit_dice": "13d8 + 13"
 "stats":
@@ -154,8 +157,8 @@ await dv.view("npcRelationships", { current: dv.current() })
 "cr": "7"
 "traits":
 - "desc": "The Queen is a 9th-level spellcaster. Her spellcasting ability is Wisdom\
-    \ (spell save DC 16, dice: d20+8 (+8 to hit) with spell attacks). She has the\
-    \ following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Guidance.md|guidance]],\
+    \ (spell save DC 16, dice: d20+8 (+8) to hit with spell attacks). She has\
+    \ the following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Guidance.md|guidance]],\
     \ [[5. Mechanics/Spells/Mending.md|mending]], [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]],\
     \ [[5. Mechanics/Spells/Spare The Dying.md|spare the dying]]\n\n1st level (4 slots):\
     \ [[5. Mechanics/Spells/Bane.md|bane]], [[5. Mechanics/Spells/Inflict Wounds.md|inflict wounds]],\
@@ -180,12 +183,12 @@ await dv.view("npcRelationships", { current: dv.current() })
 "actions":
 - "desc": "The Queen makes two attacks with her Bone Bow."
   "name": "Multiattack"
-- "desc": "Ranged Weapon Attack: dice: d20+5 (+5 to hit), range 150/600 ft., one\
-    \ target. Hit: dice: 2d8 + 2|avg (2d8 + 2) damage."
+- "desc": "Ranged Weapon Attack: dice: d20+5 (+5) to hit, range 150/600 ft.,\
+    \ one target. Hit: dice:2d8 + 2|text(11) (2d8 + 2) damage."
   "name": "Bone Bow"
 - "desc": "The Queen targets one creature she can see within 30 feet of her and turns\
     \ its own skeleton into a jail. The target must make a DC 16 Constitution saving\
-    \ throw against this magic. On a failed save, it takes dice: 4d6|avg (4d6)\
+    \ throw against this magic. On a failed save, it takes dice:4d6|text(14) (4d6)\
     \ necrotic damage and is [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
     \ for 1 minute. At the end of each of its turns, the target can repeat this saving\
     \ throw, ending the effect on itself on a success. If the target succeeds on the\

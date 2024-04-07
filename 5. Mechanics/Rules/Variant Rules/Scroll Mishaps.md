@@ -11,4 +11,4 @@ aliases:
 
 A creature who tries and fails to cast a spell from a [[5. Mechanics/Items/Spell Scroll.md\|spell scroll]] must make a DC 10 Intelligence saving throw. If the saving throw fails, roll on the Scroll Mishap table.
 
-![Variant: Scroll Mishaps; Scroll Mishap](compendium/tables/variant-scroll-mishaps-scroll-mishap.md)
+![[5. Mechanics/Tables/Variant Scroll Mishaps Scroll Mishap.md\|Variant: Scroll Mishaps; Scroll Mishap]]

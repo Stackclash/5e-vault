@@ -21,6 +21,6 @@ When you drink this clear potion, you transform into a water-like liquid form fo
 - While you remain motionless, you are indistinguishable from a puddle, unless an observer succeeds on a DC 18 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check.  
 - While underwater, you have advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks made to hide, and you can take the [[/5. Mechanics/Rules/Actions.md#Hide\|Hide]] action as a bonus action.  
 
-Once the hour is over, you return to your normal form. If you return to your normal form in a space that would not support your normal form, you take `dice: 4d8|avg` (`4d8`) force damage at the start of each of your turns until you are in a space that can support you.
+Once the hour is over, you return to your normal form. If you return to your normal form in a space that would not support your normal form, you take `dice: 4d8|avg|noform` (`4d8`) force damage at the start of each of your turns until you are in a space that can support you.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 63*

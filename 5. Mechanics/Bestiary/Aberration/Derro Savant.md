@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Derro Savant
 ---
-# [[5. Mechanics\Bestiary\Aberration\Derro Savant.md|Derro Savant]]
+# [[5. Mechanics/Bestiary/Aberration/Derro Savant.md|Derro Savant]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 92, Mordenkainen's Tome of Foes p. 159*
 
 > [!quote]- A quote from Mordenkainen  
@@ -35,6 +35,7 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
 "subtype": "sorcerer"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "13"
+"ac_class": "[[5. Mechanics/Items/Leather Armor.md|leather armor]]"
 "hp": !!int "36"
 "hit_dice": "8d6 + 8"
 "stats":
@@ -65,13 +66,13 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
     \ rely on sight."
   "name": "Sunlight Sensitivity"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+1 (+1 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 - 1|avg (1d6 - 1) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+1 (+1) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 - 1|text(2) (1d6 - 1) bludgeoning damage."
   "name": "Quarterstaff"
 - "desc": "The derro launches a brilliant beam of magical energy in a 5-foot-wide\
     \ line that is 60 feet long. Each creature in the line must make a DC 12 Dexterity\
-    \ saving throw, taking dice: 6d6|avg (6d6) radiant damage on a failed save,\
-    \ or half as much damage on a successful one."
+    \ saving throw, taking dice:6d6|text(21) (6d6) radiant damage on a failed\
+    \ save, or half as much damage on a successful one."
   "name": "Chromatic Beam"
 "source":
 - "MPMM"

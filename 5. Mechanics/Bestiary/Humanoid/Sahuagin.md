@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Sahuagin
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Sahuagin.md|Sahuagin]]
+# [[5. Mechanics/Bestiary/Humanoid/Sahuagin.md|Sahuagin]]
 *Source: Monster Manual p. 263. Available in the SRD.*
 
 Across fog-shrouded coasts or endless ocean swells, an ominous drone sounded on a conch shell chills the blood of all who hear it. This is the sound of the sahuagin hunting horn-a call to raid and battle. Coastal settlers refer to sahuagin as "sea devils," for sahuagin have no compassion in them, slaughtering the crews of ships and decimating coastal villages.
@@ -49,6 +49,7 @@ The sahuagin put the malenti to good use as spies and assassins in aquatic elf c
 "subtype": "sahuagin"
 "alignment": "Lawful Evil"
 "ac": !!int "12"
+"ac_class": "natural armor"
 "hp": !!int "22"
 "hit_dice": "4d8 + 4"
 "stats":
@@ -78,15 +79,15 @@ The sahuagin put the malenti to good use as spies and assassins in aquatic elf c
 - "desc": "The sahuagin makes two melee attacks: one with its bite and one with its\
     \ claws or spear."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 1|avg (1d4 + 1) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d4 + 1|text(3) (1d4 + 1) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 1|avg (1d4 + 1) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d4 + 1|text(3) (1d4 + 1) slashing damage."
   "name": "Claws"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 1d6 + 1|avg (1d6 + 1) piercing\
-    \ damage, or dice: 1d8 + 1|avg (1d8 + 1) piercing damage if used with two\
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: dice:1d6 + 1|text(4) (1d6 + 1) piercing\
+    \ damage, or dice:1d8 + 1|text(5) (1d8 + 1) piercing damage if used with two\
     \ hands to make a melee attack."
   "name": "Spear"
 "source":

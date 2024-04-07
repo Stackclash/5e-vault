@@ -29,6 +29,6 @@ If the sword is on your person, you can call on its luck (no action required) to
 
 ## Wish
 
-The sword has `dice: 1d4 - 1|avg` (`1d4 - 1`) charges. While holding it, you can use an action to expend 1 charge and cast the [[5. Mechanics/Spells/Wish.md\|wish]] spell from it. This property can't be used again until the next dawn. The sword loses this property if it has no charges.
+The sword has `dice: 1d4 - 1|avg|noform` (`1d4 - 1`) charges. While holding it, you can use an action to expend 1 charge and cast the [[5. Mechanics/Spells/Wish.md\|wish]] spell from it. This property can't be used again until the next dawn. The sword loses this property if it has no charges.
 
 *Source: Dungeon Master's Guide p. 179. Available in the SRD.*

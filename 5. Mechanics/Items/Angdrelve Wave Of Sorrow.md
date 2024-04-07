@@ -27,7 +27,7 @@ When you attune to this weapon, your appearance changes to become supernaturally
 
 ## Magic Weapon
 
-You gain a +3 bonus to attack and damage rolls made with this magic weapon. In addition, whenever you successfully hit with this weapon, you may choose to deal an additional `dice: 3d6|avg` (`3d6`) acid damage to your target.
+You gain a +3 bonus to attack and damage rolls made with this magic weapon. In addition, whenever you successfully hit with this weapon, you may choose to deal an additional `dice: 3d6|avg|noform` (`3d6`) acid damage to your target.
 
 ## Random Properties
 

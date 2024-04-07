@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Bugbear
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Bugbear.md|Bugbear]]
+# [[5. Mechanics/Bestiary/Humanoid/Bugbear.md|Bugbear]]
 *Source: Monster Manual p. 33, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*
 
 Bugbears are born for battle and mayhem. Surviving by raiding and hunting, they bully the weak and despise being bossed around, but their love of carnage means they will fight for powerful masters if bloodshed and treasure are assured.
@@ -37,6 +37,7 @@ Despite their intimidating builds, bugbears move with surprising stealth. They a
 "subtype": "goblinoid"
 "alignment": "Chaotic Evil"
 "ac": !!int "16"
+"ac_class": "[[5. Mechanics/Items/Hide Armor.md|hide armor]], [[5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "27"
 "hit_dice": "5d8 + 5"
 "stats":
@@ -58,16 +59,16 @@ Despite their intimidating builds, bugbears move with surprising stealth. They a
     \ with it (included in the attack)."
   "name": "Brute"
 - "desc": "If the bugbear surprises a creature and hits it with an attack during the\
-    \ first round of combat, the target takes an extra dice: 2d6|avg (2d6) damage\
-    \ from the attack."
+    \ first round of combat, the target takes an extra dice:2d6|text(7) (2d6)\
+    \ damage from the attack."
   "name": "Surprise Attack"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 2|avg (2d8 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d8 + 2|text(11) (2d8 + 2) piercing damage."
   "name": "Morningstar"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft.\
-    \ or range 30/120 ft., one target. Hit: dice: 2d6 + 2|avg (2d6 + 2) piercing\
-    \ damage in melee or dice: 1d6 + 2|avg (1d6 + 2) piercing damage at range."
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft.\
+    \ or range 30/120 ft., one target. Hit: dice:2d6 + 2|text(9) (2d6 + 2) piercing\
+    \ damage in melee or dice:1d6 + 2|text(5) (1d6 + 2) piercing damage at range."
   "name": "Javelin"
 "source":
 - "MM"

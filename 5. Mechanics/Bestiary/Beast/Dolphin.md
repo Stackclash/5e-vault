@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Dolphin
 ---
-# [[5. Mechanics\Bestiary\Beast\Dolphin.md|Dolphin]]
+# [[5. Mechanics/Bestiary/Beast/Dolphin.md|Dolphin]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 97, Volo's Guide to Monsters p. 208*
 
 Dolphins are symbols of wisdom and playfulness among the sea folk of many worlds. Found in oceans and in the Elemental Plane of Water, dolphins are befriended by druids and rangers, and many tales speak of dolphins that appeared out of nowhere to protect swimmers from sharks and other aquatic predators.
@@ -27,6 +27,7 @@ Dolphins are clever, social marine mammals that feed on small fish and squid. An
 "type": "beast"
 "alignment": "Unaligned"
 "ac": !!int "12"
+"ac_class": "natural armor"
 "hp": !!int "11"
 "hit_dice": "2d8 + 2"
 "stats":
@@ -46,10 +47,10 @@ Dolphins are clever, social marine mammals that feed on small fish and squid. An
 - "desc": "The dolphin can hold its breath for 20 minutes."
   "name": "Hold Breath"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) bludgeoning damage. If the dolphin moved\
-    \ at least 30 feet straight toward the target immediately before the hit, the\
-    \ target takes an extra dice: 1d6|avg (1d6) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 2|text(5) (1d6 + 2) bludgeoning damage. If the dolphin\
+    \ moved at least 30 feet straight toward the target immediately before the hit,\
+    \ the target takes an extra dice:1d6|text(3) (1d6) bludgeoning damage."
   "name": "Slam"
 "source":
 - "MPMM"

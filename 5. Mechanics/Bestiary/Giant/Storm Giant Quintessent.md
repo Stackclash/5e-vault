@@ -14,7 +14,7 @@ statblock: inline
 aliases:
   - Storm Giant Quintessent
 ---
-# [[5. Mechanics\Bestiary\Giant\Storm Giant Quintessent.md|Storm Giant Quintessent]]
+# [[5. Mechanics/Bestiary/Giant/Storm Giant Quintessent.md|Storm Giant Quintessent]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 235, Volo's Guide to Monsters p. 151*
 
 To forestall the inevitable, some storm giants approaching the end of their natural life spans seek an escape from death. They plumb the depths of their powerful connection to the elements and disperse themselves into nature, transforming into semiconscious storms. The blizzard that rages unendingly around a mountain peak, the vortex that swirls around a remote island, or the thunderstorm that howls ceaselessly up and down a rugged coastline could, in fact, be the undying form of a storm giant clinging to existence.
@@ -65,12 +65,12 @@ A storm giant quintessent has no need for castles or dungeon lairs. Their lair i
 "actions":
 - "desc": "The giant makes two Lightning Sword attacks, or it uses Wind Javelin twice."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+14 (+14 to hit), reach 15 ft., one target.\
-    \ Hit: dice: 9d6 + 9|avg (9d6 + 9) lightning damage."
+- "desc": "Melee Weapon Attack: dice: d20+14 (+14) to hit, reach 15 ft., one\
+    \ target. Hit: dice:9d6 + 9|text(40) (9d6 + 9) lightning damage."
   "name": "Lightning Sword"
 - "desc": "The giant coalesces wind into a javelin-like form and hurls it at a creature\
-    \ it can see within 600 feet of it. The javelin deals dice: 3d6 + 9|avg (3d6\
-    \ + 9) force damage to the target, striking unerringly. The javelin disappears\
+    \ it can see within 600 feet of it. The javelin deals dice:3d6 + 9|text(19)\
+    \ (3d6 + 9) force damage to the target, striking unerringly. The javelin disappears\
     \ after it hits."
   "name": "Wind Javelin"
 "legendary_actions":
@@ -80,7 +80,7 @@ A storm giant quintessent has no need for castles or dungeon lairs. Their lair i
     \ chooses."
   "name": "Gust"
 - "desc": "The giant hurls a thunderbolt at a creature it can see within 600 feet\
-    \ of it. The target must make a DC 18 Dexterity saving throw, taking dice: 4d10|avg\
+    \ of it. The target must make a DC 18 Dexterity saving throw, taking dice:4d10|text(22)\
     \ (4d10) thunder damage on a failed save, or half as much damage on a successful\
     \ one."
   "name": "Thunderbolt (Costs 2 Actions)"
@@ -128,7 +128,7 @@ A storm giant quintessent has no need for castles or dungeon lairs. Their lair i
   "name": ""
 - "desc": "If the giant dies, the lightning, thunder, and high wind regional effects\
     \ end immediately. Rain, snow, and blowing dust abate gradually within dice:\
-    \ 1d8|avg (1d8) days."
+    \ 1d8|avg|noform (1d8) days."
   "name": ""
 "source":
 - "MPMM"

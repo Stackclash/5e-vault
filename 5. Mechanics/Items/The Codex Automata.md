@@ -30,7 +30,7 @@ You gain magic resistance.
 
 Once per year as an action, you can summon a tall square tower made of metal and gears. The tower is 20 feet on a side and 60 feet high, with windows on all sides and a battlement on top. The tower has six mechanical legs, granting it a movement speed of 24 miles per day. The interior is divided into five floors connected by an automated moving staircase on the inner wall. The stairs end at a trapdoor leading to the roof. When summoned, the tower side facing you has a door proportional to your size. The door will only open on your command, which you can speak as a bonus action. Magic of less than 7th level will not open the door.
 
-Each creature in the area where the tower appears must make a DC 13 Dexterity saving throw, taking `dice: 13d8|avg` (`13d8`) bludgeoning damage on a failed save, or half as much damage on a successful one. All creatures in the area are pushed to an unoccupied space outside but next to the tower. Objects in the area are pushed automatically.
+Each creature in the area where the tower appears must make a DC 13 Dexterity saving throw, taking `dice: 13d8|avg|noform` (`13d8`) bludgeoning damage on a failed save, or half as much damage on a successful one. All creatures in the area are pushed to an unoccupied space outside but next to the tower. Objects in the area are pushed automatically.
 
 The tower is made of metal. The roof, door, and walls each have 300 hit points, immunity to damage from nonmagical weapons except siege weapons, and resistance to all other damage. It cannot be repaired, but can be dismissed as an action. The next time the tower is summoned, it is complete and free of damage.
 
@@ -48,7 +48,7 @@ By spending 1 week in a laboratory worth at least 1,000 gp, you can produce a [[
 
 ## Master of Golems
 
-No construct will attack you. As an action, you can make a Command check against a construct within 30 feet by rolling `dice: 1d20|avg` (`1d20`) and adding your Wisdom bonus + 2. If the result is greater than the construct's Hit Dice, then the construct is yours to command, as though you were its creator.
+No construct will attack you. As an action, you can make a Command check against a construct within 30 feet by rolling `dice: 1d20|avg|noform` (`1d20`) and adding your Wisdom bonus + 2. If the result is greater than the construct's Hit Dice, then the construct is yours to command, as though you were its creator.
 
 This control lasts 1 hour, after which the construct is free of your influence and cannot be commanded again in this way.
 

@@ -25,7 +25,7 @@ aliases:
 *Generic Variant, rare*  
 
 
-You gain a +1 to attack and damage rolls made with this weapon. If you are a good-aligned character, when you hit a creature with this weapon, you may deal an additional `dice: 2d6|avg` (`2d6`) radiant damage in addition to the weapon's damage.
+You gain a +1 to attack and damage rolls made with this weapon. If you are a good-aligned character, when you hit a creature with this weapon, you may deal an additional `dice: 2d6|avg|noform` (`2d6`) radiant damage in addition to the weapon's damage.
 
 Once you use this ability you may not use it again for one hour, or until you have landed the killing blow on an evil-aligned creature, whichever comes first.
 

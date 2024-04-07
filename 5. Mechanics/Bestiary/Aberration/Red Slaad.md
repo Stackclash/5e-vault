@@ -10,10 +10,10 @@ statblock: inline
 aliases:
   - Red Slaad
 ---
-# [[5. Mechanics\Bestiary\Aberration\Red Slaad.md|Red Slaad]]
+# [[5. Mechanics/Bestiary/Aberration/Red Slaad.md|Red Slaad]]
 *Source: Monster Manual p. 276*
 
-When a red slaad claws a humanoid creature, it can inject an egg from a gland under one of its claws. The egg works its way into its host and gestates, eventually forming a slaad tadpole. Such a tadpole then eats its way out of the host's body, feeds on the host's remains, and then seeks any other fresh meat it can find. The tadpole transforms into a fully grown blue slaad-or green slaad if the host had the ability to cast 3rd level spells or higher-within `dice: 2d12|avg` (`2d12`) hours.
+When a red slaad claws a humanoid creature, it can inject an egg from a gland under one of its claws. The egg works its way into its host and gestates, eventually forming a slaad tadpole. Such a tadpole then eats its way out of the host's body, feeds on the host's remains, and then seeks any other fresh meat it can find. The tadpole transforms into a fully grown blue slaad-or green slaad if the host had the ability to cast 3rd level spells or higher-within `dice: 2d12|avg|noform` (`2d12`) hours.
 
 ## Slaadi
 
@@ -45,7 +45,7 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 > 
 > A [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]] spell cast on the slaad destroys the gem without harming the slaad.
 > 
-> Someone who is proficient in Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) can remove the gem from an [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) check. Each failed attempt deals `dice: 4d10|avg` (`4d10`) psychic damage to the slaad.
+> Someone who is proficient in Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) can remove the gem from an [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) check. Each failed attempt deals `dice:4d10|text(22)` (`4d10`) psychic damage to the slaad.
 ^variant-slaad-control-gems
 
 > [!quote]-  
@@ -59,6 +59,7 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 "type": "aberration"
 "alignment": "Chaotic Neutral"
 "ac": !!int "14"
+"ac_class": "natural armor"
 "hp": !!int "93"
 "hit_dice": "11d10 + 33"
 "stats":
@@ -85,16 +86,16 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 "actions":
 - "desc": "The slaad makes three attacks: one with its bite and two with its claws."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4 + 3|avg (2d4 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d4 + 3|text(8) (2d4 + 3) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) piercing damage. If the target is a humanoid,\
-    \ it must succeed on a DC 14 Constitution saving throw or be infected with a disease—\
-    a minuscule slaad egg.\n\nA humanoid host can carry only one slaad egg to term\
-    \ at a time. Over three months, the egg moves to the chest cavity, gestates, and\
-    \ forms a [[5. Mechanics/Bestiary/Aberration/Slaad Tadpole.md|slaad tadpole]]. In\
-    \ the 24-hour period before giving birth, the host starts to feel unwell, its\
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 3|text(7) (1d8 + 3) piercing damage. If the target is\
+    \ a humanoid, it must succeed on a DC 14 Constitution saving throw or be infected\
+    \ with a disease—a minuscule slaad egg.\n\nA humanoid host can carry only one\
+    \ slaad egg to term at a time. Over three months, the egg moves to the chest cavity,\
+    \ gestates, and forms a [[5. Mechanics/Bestiary/Aberration/Slaad Tadpole.md|slaad tadpole]].\
+    \ In the 24-hour period before giving birth, the host starts to feel unwell, its\
     \ speed is halved, and it has disadvantage on attack rolls, ability checks, and\
     \ saving throws. At birth, the tadpole chews its way through vital organs and\
     \ out of the host's chest in 1 round, killing the host in the process.\n\nIf the\

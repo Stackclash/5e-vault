@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Lizard
 ---
-# [[5. Mechanics\Bestiary\Beast\Lizard.md|Lizard]]
+# [[5. Mechanics/Bestiary/Beast/Lizard.md|Lizard]]
 *Source: Monster Manual p. 332. Available in the SRD and the Basic Rules.*
 
 ```statblock
@@ -33,7 +33,7 @@ aliases:
 "languages": ""
 "cr": "0"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+0 (+0 to hit), reach 5 ft., one target.\
+- "desc": "Melee Weapon Attack: dice: d20+0 (+0) to hit, reach 5 ft., one target.\
     \ Hit: 1 piercing damage."
   "name": "Bite"
 "source":

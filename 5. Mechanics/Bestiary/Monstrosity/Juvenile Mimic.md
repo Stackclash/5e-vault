@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Juvenile Mimic
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Juvenile Mimic.md|Juvenile Mimic]]
+# [[5. Mechanics/Bestiary/Monstrosity/Juvenile Mimic.md|Juvenile Mimic]]
 *Source: Tasha's Cauldron of Everything p. 167*
 
 ```statblock
@@ -45,8 +45,8 @@ aliases:
     \ without needing to make an ability check."
   "name": "Spider Climb"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: 1 piercing damage plus dice: 1d4|avg (1d4) acid damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
+    \ Hit: 1 piercing damage plus dice:1d4|text(2) (1d4) acid damage."
   "name": "Bite"
 - "desc": "The mimic polymorphs into an object or back into its true, amorphous form.\
     \ Its statistics are the same in each form. Any equipment it is wearing or carrying\

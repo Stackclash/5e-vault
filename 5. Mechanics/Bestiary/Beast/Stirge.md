@@ -19,7 +19,7 @@ statblock: inline
 aliases:
   - Stirge
 ---
-# [[5. Mechanics\Bestiary\Beast\Stirge.md|Stirge]]
+# [[5. Mechanics/Bestiary/Beast/Stirge.md|Stirge]]
 *Source: Monster Manual p. 284. Available in the SRD and the Basic Rules.*
 
 This horrid flying creature looks like a cross between a large bat and an oversized mosquito. Its legs end in sharp pincers, and its long, needle-like proboscis slashes the air as it seeks its next meal.
@@ -36,6 +36,7 @@ A stirge attacks by landing on a victim, finding a vulnerable spot, and plunging
 "type": "beast"
 "alignment": "Unaligned"
 "ac": !!int "14"
+"ac_class": "natural armor"
 "hp": !!int "2"
 "hit_dice": "1d4"
 "stats":
@@ -50,11 +51,11 @@ A stirge attacks by landing on a victim, finding a vulnerable spot, and plunging
 "languages": ""
 "cr": "1/8"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) piercing damage, and the stirge attaches\
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one creature.\
+    \ Hit: dice:1d4 + 3|text(5) (1d4 + 3) piercing damage, and the stirge attaches\
     \ to the target. While attached, the stirge doesn't attack. Instead, at the start\
-    \ of each of the stirge's turns, the target loses dice: 1d4 + 3|avg (1d4 +\
-    \ 3) hit points due to blood loss.\n\nThe stirge can detach itself by spending\
+    \ of each of the stirge's turns, the target loses dice:1d4 + 3|text(5) (1d4\
+    \ + 3) hit points due to blood loss.\n\nThe stirge can detach itself by spending\
     \ 5 feet of its movement. It does so after it drains 10 hit points of blood from\
     \ the target or the target dies. A creature, including the target, can use its\
     \ action to detach the stirge."

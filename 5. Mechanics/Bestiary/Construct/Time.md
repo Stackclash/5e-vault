@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Time
 ---
-# [[5. Mechanics\Bestiary\Construct\Time.md|Time]]
+# [[5. Mechanics/Bestiary/Construct/Time.md|Time]]
 *Source: Strongholds and Followers p. 231*
 
 Time is something of the hypocrite among the Inexorables, perfectly happy to speed things up for itself while denying that same ability to anyone else. Many of the Inexorables don't mind if their allies bend the rules so long as their enemies toe the line, and if this seems like commentary on the nature of law and how it tends to be applied, of course it is. Or is it? Maybe it's the opposite.
@@ -27,6 +27,7 @@ Time prevents enemies from taking bonus actions or reactions, which is very usef
 "type": "construct"
 "alignment": "Lawful"
 "ac": !!int "19"
+"ac_class": "natural armor"
 "hp": !!int "161"
 "hit_dice": "17d10 + 68"
 "stats":
@@ -57,8 +58,8 @@ Time prevents enemies from taking bonus actions or reactions, which is very usef
 "actions":
 - "desc": "Time makes three slam attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d10 + 5|avg (2d10 + 5) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 10 ft., one target.\
+    \ Hit: dice:2d10 + 5|text(16) (2d10 + 5) bludgeoning damage."
   "name": "Slam"
 - "desc": "Until the end of its next turn, Time magically gains a +2 bonus to its\
     \ AC, has advantage on Dexterity saving throws, and can use its slam attack as\

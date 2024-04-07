@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Ogre Battering Ram
 ---
-# [[5. Mechanics\Bestiary\Giant\Ogre Battering Ram.md|Ogre Battering Ram]]
+# [[5. Mechanics/Bestiary/Giant/Ogre Battering Ram.md|Ogre Battering Ram]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 200, Mordenkainen's Tome of Foes p. 220*
 
 An ogre battering ram carries an enormous club that's primarily used for bashing doors into kindling but also works well for smashing foes. These ogres are drilled in two simple tasks: rushing forward to shatter enemy fortifications and using their weapons to force an advancing enemy to halt.
@@ -28,6 +28,7 @@ Ogres love to rush headlong into battle, but with enough time and patience, some
 "type": "giant"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "11"
+"ac_class": "[[5. Mechanics/Items/Hide Armor.md|hide armor]]"
 "hp": !!int "76"
 "hit_dice": "9d10 + 27"
 "stats":
@@ -47,9 +48,9 @@ Ogres love to rush headlong into battle, but with enough time and patience, some
 "actions":
 - "desc": "The ogre makes two Bash attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d10 + 4|avg (2d10 + 4) bludgeoning damage, and the ogre can\
-    \ push the target 5 feet away if the target is Huge or smaller."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d10 + 4|text(15) (2d10 + 4) bludgeoning damage, and the ogre\
+    \ can push the target 5 feet away if the target is Huge or smaller."
   "name": "Bash"
 "reactions":
 - "desc": "When a creature enters a space within 5 feet of the ogre, the ogre makes\

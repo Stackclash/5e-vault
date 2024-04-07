@@ -59,8 +59,8 @@ At 15th level, the paladin gains resistance to bludgeoning, piercing, and slashi
 
 ### Dread Lord (Level 20)
 
-At 20th level, the paladin can, as an action, surround himself or herself with an aura of gloom that lasts for 1 minute. The aura reduces any bright light in a 30-foot radius around the paladin to dim light. Whenever an enemy that is [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] by the paladin starts its turn in the aura, it takes `dice: 4d10|avg` (`4d10`) psychic damage. Additionally, the paladin and creatures he or she chooses in the aura are draped in deeper shadow. Creatures that rely on sight have disadvantage on attack rolls against creatures draped in this shadow.
+At 20th level, the paladin can, as an action, surround himself or herself with an aura of gloom that lasts for 1 minute. The aura reduces any bright light in a 30-foot radius around the paladin to dim light. Whenever an enemy that is [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] by the paladin starts its turn in the aura, it takes `dice: 4d10|avg|noform` (`4d10`) psychic damage. Additionally, the paladin and creatures he or she chooses in the aura are draped in deeper shadow. Creatures that rely on sight have disadvantage on attack rolls against creatures draped in this shadow.
 
-While the aura lasts, the paladin can use a bonus action on his or her turn to cause the shadows in the aura to attack one creature. The paladin makes a melee spell attack against the target. If the attack hits, the target takes necrotic damage equal to `dice: 3d10|avg` (`3d10`) + the paladin's Charisma modifier.
+While the aura lasts, the paladin can use a bonus action on his or her turn to cause the shadows in the aura to attack one creature. The paladin makes a melee spell attack against the target. If the attack hits, the target takes necrotic damage equal to `dice: 3d10|avg|noform` (`3d10`) + the paladin's Charisma modifier.
 
 After activating the aura, the paladin can't do so again until he or she finishes a long rest.

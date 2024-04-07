@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Xvart Warlock of Raxivort
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Xvart Warlock Of Raxivort.md|Xvart Warlock of Raxivort]]
+# [[5. Mechanics/Bestiary/Monstrosity/Xvart Warlock Of Raxivort.md|Xvart Warlock of Raxivort]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 267, Volo's Guide to Monsters p. 200*
 
 Some xvarts are spawned with a trace of Raxivort's divine energy. These xvarts usually form a pact with him and wield magic in his service as warlocks.
@@ -62,11 +62,11 @@ Raxivort spent centuries watching over the treasury of Graz'zt, and in time, Rax
 "actions":
 - "desc": "The xvart makes two Scimitar or Raxivort's Bite attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 2|text(5) (1d6 + 2) slashing damage."
   "name": "Scimitar"
-- "desc": "Ranged Spell Attack: dice: d20+3 (+3 to hit), range 30 ft., one creature.\
-    \ Hit: dice: 1d10 + 2|avg (1d10 + 2) poison damage."
+- "desc": "Ranged Spell Attack: dice: d20+3 (+3) to hit, range 30 ft., one creature.\
+    \ Hit: dice:1d10 + 2|text(7) (1d10 + 2) poison damage."
   "name": "Raxivort's Bite"
 "bonus_actions":
 - "desc": "The xvart takes the [[/5. Mechanics/Rules/Actions.md#Disengage|Disengage]]\

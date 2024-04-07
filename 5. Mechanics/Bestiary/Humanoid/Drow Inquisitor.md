@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Drow Inquisitor
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Drow Inquisitor.md|Drow Inquisitor]]
+# [[5. Mechanics/Bestiary/Humanoid/Drow Inquisitor.md|Drow Inquisitor]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 102, Mordenkainen's Tome of Foes p. 184*
 
 Lolth's worshipers expect treachery—the Spider Queen encourages it, after all. A certain amount of backstabbing and double-crossing can be managed, but too much can undermine an entire community. To keep some semblance of order and to root out traitors, priestesses of Lolth employ inquisitors. Inquisitors are chosen from the ranks of the priesthood, and their authority is equaled only by that of the [[5. Mechanics/Bestiary/Humanoid/Drow Matron Mother.md|drow matron mothers]] (also in this book) of the noble houses. Anyone they decide is at odds with the hierarchy faces painful interrogation and usually an excruciating death.
@@ -24,6 +24,7 @@ Lolth's worshipers expect treachery—the Spider Queen encourages it, after all.
 "subtype": "cleric, elf"
 "alignment": "Typically  Neutral Evil"
 "ac": !!int "16"
+"ac_class": "[[5. Mechanics/Items/Breastplate.md|breastplate]]"
 "hp": !!int "149"
 "hit_dice": "23d8 + 46"
 "stats":
@@ -71,17 +72,17 @@ Lolth's worshipers expect treachery—the Spider Queen encourages it, after all.
 "actions":
 - "desc": "The drow makes three Death Lance attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 5|avg (1d6 + 5) piercing damage plus dice: 4d8|avg\
+- "desc": "Melee Weapon Attack: dice: d20+10 (+10) to hit, reach 5 ft., one\
+    \ target. Hit: dice:1d6 + 5|text(8) (1d6 + 5) piercing damage plus dice:4d8|text(18)\
     \ (4d8) necrotic damage. The target's hit point maximum is reduced by an amount\
     \ equal to the necrotic damage taken. This reduction lasts until the target finishes\
     \ a long rest. The target dies if its hit point maximum is reduced to 0."
   "name": "Death Lance"
 "bonus_actions":
 - "desc": "The drow conjures a floating, spectral dagger within 60 feet of itself.\
-    \ The drow can make a melee spell attack (dice: d20+10 (+10 to hit)) against\
-    \ one creature within 5 feet of the dagger. On a hit, the target takes dice:\
-    \ 1d8 + 5|avg (1d8 + 5) force damage.\n\nThe dagger lasts for 1 minute. As\
+    \ The drow can make a melee spell attack (dice: d20+10 (+10) to hit) against\
+    \ one creature within 5 feet of the dagger. On a hit, the target takes dice:1d8\
+    \ + 5|text(9) (1d8 + 5) force damage.\n\nThe dagger lasts for 1 minute. As\
     \ a bonus action on later turns, the drow can move the dagger up to 20 feet and\
     \ repeat the attack against one creature within 5 feet of the dagger."
   "name": "Spectral Dagger (Recharges after a Short or Long Rest)"

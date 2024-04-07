@@ -13,7 +13,6 @@ aliases:
   - Control Weather
 ---
 # Control Weather
-%%-- Embedded content starts on the next line. --%%
 *8th-level, Transmutation*  
 
 - **Casting time:** 10 minute

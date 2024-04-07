@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Mighty Servant of Leuk-o
 ---
-# [[5. Mechanics\Bestiary\Construct\Mighty Servant Of Leuk O.md|Mighty Servant of Leuk-o]]
+# [[5. Mechanics/Bestiary/Construct/Mighty Servant Of Leuk O.md|Mighty Servant of Leuk-o]]
 *Source: Tasha's Cauldron of Everything p. 131*
 
 ```statblock
@@ -19,6 +19,7 @@ aliases:
 "type": "construct"
 "alignment": "Unaligned"
 "ac": !!int "22"
+"ac_class": "natural armor"
 "hp": !!int "310"
 "hit_dice": "27d12 + 135"
 "stats":
@@ -64,19 +65,19 @@ aliases:
 - "desc": "The servant doesn't require air, food, drink, or sleep."
   "name": "Unusual Nature"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+17 (+17 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 4d12 + 10|avg (4d12 + 10) force damage. Or Ranged Weapon Attack:\
-    \ dice: d20+17 (+17 to hit), range 120 ft., one target. Hit: dice: 4d12 +\
-    \ 10|avg (4d12 + 10) force damage. If the target is an object, it takes triple\
-    \ damage."
+- "desc": "Melee Weapon Attack: dice: d20+17 (+17) to hit, reach 10 ft., one\
+    \ target. Hit: dice:4d12 + 10|text(36) (4d12 + 10) force damage. Or Ranged\
+    \ Weapon Attack: dice: d20+17 (+17) to hit, range 120 ft., one target. Hit:\
+    \ dice:4d12 + 10|text(36) (4d12 + 10) force damage. If the target is an object,\
+    \ it takes triple damage."
   "name": "Destructive Fist"
 - "desc": "If the servant jumps at least 25 feet as part of its movement, it can then\
     \ use this action to land on its feet in a space that contains one or more other\
     \ creatures. Each of those creatures is pushed to an unoccupied space within 5\
     \ feet of the servant and must make a DC 25 Dexterity saving throw. On a failed\
-    \ save, a creature takes dice: 4d12|avg (4d12) bludgeoning damage and is knocked\
-    \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]]. On a successful save, a creature\
-    \ takes half as much damage and isn't knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ save, a creature takes dice:4d12|text(26) (4d12) bludgeoning damage and\
+    \ is knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]. On a successful save,\
+    \ a creature takes half as much damage and isn't knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Crushing Leap"
 "source":
 - "TCE"

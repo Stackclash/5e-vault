@@ -25,13 +25,13 @@ _Source: Dungeon Master's Guide p. 257. Available in the SRD._
 
 This disease targets humanoids, although gnomes are strangely immune. While in the grips of this disease, victims frequently succumb to fits of mad laughter, giving the disease its common name and its morbid nickname: "the shrieks."
 
-Symptoms manifest `dice: 1d4|avg` (`1d4`) hours after infection and include fever and disorientation. The infected creature gains one level of [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]] that can't be removed until the disease is cured.
+Symptoms manifest `dice: 1d4|avg|noform` (`1d4`) hours after infection and include fever and disorientation. The infected creature gains one level of [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]] that can't be removed until the disease is cured.
 
 Any event that causes the infected creature great stress—including entering combat, taking damage, experiencing fear, or having a nightmare—forces the creature to make a DC 13 Constitution saving throw.
 
-On a failed save, the creature takes `dice: 1d10|avg` (`1d10`) psychic damage and becomes [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]] with mad laughter for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the mad laughter and the [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]] condition on a success. Any humanoid creature that starts its turn within 10 feet of an infected creature in the throes of mad laughter must succeed on a DC 10 Constitution saving throw or also become infected with the disease. Once a creature succeeds on this save, it is immune to the mad laughter of that particular infected creature for 24 hours.
+On a failed save, the creature takes `dice:1d10|text(5)` (`1d10`) psychic damage and becomes [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]] with mad laughter for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the mad laughter and the [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]] condition on a success. Any humanoid creature that starts its turn within 10 feet of an infected creature in the throes of mad laughter must succeed on a DC 10 Constitution saving throw or also become infected with the disease. Once a creature succeeds on this save, it is immune to the mad laughter of that particular infected creature for 24 hours.
 
-At the end of each long rest, an infected creature can make a DC 13 Constitution saving throw. On a successful save, the DC for this save and for the save to avoid an attack of mad laughter drops by `dice: 1d6|avg` (`1d6`). When the saving throw DC drops to 0, the creature recovers from the disease. A creature that fails three of these saving throws gains a randomly determined form of [[/5. Mechanics/Rules/Variant Rules/Madness.md\|Madness]].
+At the end of each long rest, an infected creature can make a DC 13 Constitution saving throw. On a successful save, the DC for this save and for the save to avoid an attack of mad laughter drops by `dice: 1d6|avg|noform` (`1d6`). When the saving throw DC drops to 0, the creature recovers from the disease. A creature that fails three of these saving throws gains a randomly determined form of [[/5. Mechanics/Rules/Variant Rules/Madness.md\|Madness]].
 
 ## Crone's Disease
 _Source: Hamund's Harvesting Handbook: Volume I p. 62, Hamund's Harvesting Handbook: Volume II p. 26_
@@ -59,9 +59,9 @@ The creature's flesh decays. The creature has disadvantage on Charisma checks an
 ## Gut Rot
 _Source: Hamund's Harvesting Handbook: Volume I p. 129_
 
-While afflicted with gut rot, any time you attempt to swallow food, you instead suffer `dice: 4|avg` (`4`) necrotic damage and regurgitate that food. At the end of a long rest, you may attempt the saving throw again, ending the disease on a success.
+While afflicted with gut rot, any time you attempt to swallow food, you instead suffer `dice: 4|avg|noform` (`4`) necrotic damage and regurgitate that food. At the end of a long rest, you may attempt the saving throw again, ending the disease on a success.
 
-If a creature dies while afflicted with gut rot, a [[5. Mechanics/Bestiary/Plant/Violet Fungus.md\|violet fungus]] sprouts from the mouldering corpse, growing to full size in `dice: 2d6|avg` (`2d6`) days.
+If a creature dies while afflicted with gut rot, a [[5. Mechanics/Bestiary/Plant/Violet Fungus.md\|violet fungus]] sprouts from the mouldering corpse, growing to full size in `dice: 2d6|avg|noform` (`2d6`) days.
 
 ## Influence of Zuggtmoy
 _Source: Hamund's Harvesting Handbook: Volume III p. 105_
@@ -91,7 +91,7 @@ Sewer plague is a generic term for a broad category of illnesses that incubate i
 
 When a humanoid creature is bitten by a creature that carries the disease, or when it comes into contact with filth or offal contaminated by the disease, the creature must succeed on a DC 11 Constitution saving throw or become infected.
 
-It takes `dice: 1d4|avg` (`1d4`) days for sewer plague's symptoms to manifest in an infected creature. Symptoms include fatigue and cramps. The infected creature suffers one level of [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]], and it regains only half the normal number of hit points from spending Hit Dice and no hit points from finishing a long rest.
+It takes `dice: 1d4|avg|noform` (`1d4`) days for sewer plague's symptoms to manifest in an infected creature. Symptoms include fatigue and cramps. The infected creature suffers one level of [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]], and it regains only half the normal number of hit points from spending Hit Dice and no hit points from finishing a long rest.
 
 At the end of each long rest, an infected creature must make a DC 11 Constitution saving throw. On a failed save, the character gains one level of [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]].
 
@@ -134,7 +134,7 @@ Creatures exposed to the disease must succeed on a DC 10 Constitution saving thr
 
 ### Symptoms
 
-It takes `dice: 1d2|avg` (`1d2`) days for the Gnawing Plague's symptoms to manifest in an infected creature. The infected creature then gains 1 level of [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]], regains only half the normal number of hit points from spending Hit Dice, and regains no hit points from finishing a long rest.
+It takes `dice: 1d2|avg|noform` (`1d2`) days for the Gnawing Plague's symptoms to manifest in an infected creature. The infected creature then gains 1 level of [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]], regains only half the normal number of hit points from spending Hit Dice, and regains no hit points from finishing a long rest.
 
 The plague's symptoms include buboes, fatigue, splotchy rashes, sweats, and shaking, particularly facial tremors. Locals liken these twitches to the sniffing of rats. Sufferers often have scraps of leather placed in their mouths to prevent their teeth from clattering, though they inevitably gnaw through these scraps.
 

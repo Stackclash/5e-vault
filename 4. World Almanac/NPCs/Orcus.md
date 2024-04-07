@@ -1,27 +1,28 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: null
 condition: healthy
 image: 4. World Almanac/NPCs/img/orcus.webp
 relationships: []
-tags: 
-aliases: [Orcus]
-pronounced: 
-race: 
-gender: 
-age: 
+tags: null
+aliases:
+  - Orcus
+pronounced: null
+race: null
+gender: null
+age: null
 alignment: Chaotic Evil
-occupation: 
+occupation: null
 groups: []
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]
@@ -128,6 +129,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 "subtype": "demon"
 "alignment": "Chaotic Evil"
 "ac": !!int "17"
+"ac_class": "natural armor; 20 from with the [[5. Mechanics/Items/Wand Of Orcus.md|Wand of Orcus]]"
 "hp": !!int "405"
 "hit_dice": "30d12 + 210"
 "stats":
@@ -161,8 +163,9 @@ await dv.view("npcRelationships", { current: dv.current() })
 - "desc": "While holding the [[5. Mechanics/Items/Wand Of Orcus.md|Wand of Orcus]], Orcus\
     \ casts one of the following spells (spell save DC 18), some of which require\
     \ charges; the wand has 7 charges to fuel these spells, and it regains dice:\
-    \ 1d4 + 3|avg (1d4 + 3) charges daily at dawn:\n\nAt will: [[5. Mechanics/Spells/Animate Dead.md|animate dead]]\
-    \ (as an action), [[5. Mechanics/Spells/Blight.md|blight]], [[5. Mechanics/Spells/Speak With Dead.md|speak with dead]]"
+    \ 1d4 + 3|avg|noform (1d4 + 3) charges daily at dawn:\n\nAt will: [animate\
+    \ dead](compendium/spells/animate-dead.md) (as an action), [[5. Mechanics/Spells/Blight.md|blight]],\
+    \ [[5. Mechanics/Spells/Speak With Dead.md|speak with dead]]"
   "name": "spells"
 - "desc": "If Orcus fails a saving throw, he can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
@@ -179,16 +182,16 @@ await dv.view("npcRelationships", { current: dv.current() })
 "actions":
 - "desc": "Orcus makes three Wand of Orcus, Tail, or Necrotic Bolt attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+19 (+19 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 3d8 + 11|avg (3d8 + 11) bludgeoning damage plus dice: 2d12|avg\
-    \ (2d12) necrotic damage."
+- "desc": "Melee Weapon Attack: dice: d20+19 (+19) to hit, reach 10 ft., one\
+    \ target. Hit: dice:3d8 + 11|text(24) (3d8 + 11) bludgeoning damage plus\
+    \ dice:2d12|text(13) (2d12) necrotic damage."
   "name": "Wand of Orcus"
-- "desc": "Melee Weapon Attack: dice: d20+16 (+16 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 3d8 + 8|avg (3d8 + 8) force damage plus dice: 2d8|avg (2d8)\
-    \ poison damage."
+- "desc": "Melee Weapon Attack: dice: d20+16 (+16) to hit, reach 10 ft., one\
+    \ target. Hit: dice:3d8 + 8|text(21) (3d8 + 8) force damage plus dice:2d8|text(9)\
+    \ (2d8) poison damage."
   "name": "Tail"
-- "desc": "Ranged Spell Attack: dice: d20+15 (+15 to hit), range 120 ft., one\
-    \ target. Hit: dice: 5d8 + 7|avg (5d8 + 7) necrotic damage."
+- "desc": "Ranged Spell Attack: dice: d20+15 (+15) to hit, range 120 ft., one\
+    \ target. Hit: dice:5d8 + 7|text(29) (5d8 + 7) necrotic damage."
   "name": "Necrotic Bolt"
 - "desc": "While holding the [[5. Mechanics/Items/Wand Of Orcus.md|Wand of Orcus]], Orcus\
     \ conjures Undead creatures whose combined average hit points don't exceed 500.\
@@ -235,8 +238,8 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ Beasts periodically animate as Undead mockeries of their former selves. Skeletal\
     \ and zombie versions of local wildlife are commonly seen in the area.  "
   "name": ""
-- "desc": "If Orcus dies, these effects fade over the course of dice: 1d10|avg (1d10)\
-    \ days."
+- "desc": "If Orcus dies, these effects fade over the course of dice: 1d10|avg|noform\
+    \ (1d10) days."
   "name": ""
 "source":
 - "MPMM"

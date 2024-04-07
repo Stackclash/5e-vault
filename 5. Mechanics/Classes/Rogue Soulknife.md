@@ -26,11 +26,11 @@ As a Soulknife, your psionic abilities might have haunted you since you were a c
 
 *3rd-level Soulknife feature*
 
-You harbor a wellspring of psionic energy within yourself. This energy is represented by your Psionic Energy dice, which are each a `dice: d6|avg` (`d6`). You have a number of these dice equal to twice your proficiency bonus, and they fuel various psionic powers you have, which are detailed below.
+You harbor a wellspring of psionic energy within yourself. This energy is represented by your Psionic Energy dice, which are each a `dice: d6|avg|noform` (`d6`). You have a number of these dice equal to twice your proficiency bonus, and they fuel various psionic powers you have, which are detailed below.
 
 Some of your powers expend the Psionic Energy die they use, as specified in a power's description, and you can't use a power if it requires you to use a die when your dice are all expended. You regain all your expended Psionic Energy dice when you finish a long rest. In addition, as a bonus action, you can regain one expended Psionic Energy die, but you can't do so again until you finish a short or long rest.
 
-When you reach certain levels in this class, the size of your Psionic Energy dice increases: at 5th level (`dice: d8|avg` (`d8`)), 11th level (`dice: d10|avg` (`d10`)), and 17th level (`dice: d12|avg` (`d12`)).
+When you reach certain levels in this class, the size of your Psionic Energy dice increases: at 5th level (`dice: d8|avg|noform` (`d8`)), 11th level (`dice: d10|avg|noform` (`d10`)), and 17th level (`dice: d12|avg|noform` (`d12`)).
 
 The powers below use your Psionic Energy dice.
 
@@ -48,9 +48,9 @@ The powers below use your Psionic Energy dice.
 
 *3rd-level Soulknife feature*
 
-You can manifest your psionic power as shimmering blades of psychic energy. Whenever you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action, you can manifest a psychic blade from your free hand and make the attack with that blade. This magic blade is a simple melee weapon with the finesse and thrown properties. It has a normal range of 60 feet and no long range, and on a hit, it deals psychic damage equal to `dice: 1d6|avg` (`1d6`) plus the ability modifier you used for the attack roll. The blade vanishes immediately after it hits or misses its target, and it leaves no mark on its target if it deals damage.
+You can manifest your psionic power as shimmering blades of psychic energy. Whenever you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action, you can manifest a psychic blade from your free hand and make the attack with that blade. This magic blade is a simple melee weapon with the finesse and thrown properties. It has a normal range of 60 feet and no long range, and on a hit, it deals psychic damage equal to `dice: 1d6|avg|noform` (`1d6`) plus the ability modifier you used for the attack roll. The blade vanishes immediately after it hits or misses its target, and it leaves no mark on its target if it deals damage.
 
-After you attack with the blade, you can make a melee or ranged weapon attack with a second psychic blade as a bonus action on the same turn, provided your other hand is free to create it. The damage die of this bonus attack is `dice: 1d4|avg` (`1d4`), instead of `dice: 1d6|avg` (`1d6`).
+After you attack with the blade, you can make a melee or ranged weapon attack with a second psychic blade as a bonus action on the same turn, provided your other hand is free to create it. The damage die of this bonus attack is `dice: 1d4|avg|noform` (`1d4`), instead of `dice: 1d6|avg|noform` (`1d6`).
 
 ### Soul Blades (Level 9)
 

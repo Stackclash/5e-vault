@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Sprite
 ---
-# [[5. Mechanics\Bestiary\Fey\Sprite.md|Sprite]]
+# [[5. Mechanics/Bestiary/Fey/Sprite.md|Sprite]]
 *Source: Monster Manual p. 283, Eberron: Rising from the Last War. Available in the SRD.*
 
 In secret groves and shaded glens, tiny sprites with dragonfly wings flutter. For all their fey splendor, however, sprites lack warmth and compassion. They are aggressive and hardy warriors, taking severe measures to ward strangers away from their homes. Interlopers that come too close have their moral character judged, then are put to sleep or frightened off.
@@ -45,6 +45,7 @@ Unlike pixies, sprites rarely indulge in frivolous merriment and fun. They are f
 "type": "fey"
 "alignment": "Neutral Good"
 "ac": !!int "15"
+"ac_class": "[[5. Mechanics/Items/Leather Armor.md|leather armor]]"
 "hp": !!int "2"
 "hit_dice": "1d4"
 "stats":
@@ -62,12 +63,12 @@ Unlike pixies, sprites rarely indulge in frivolous merriment and fun. They are f
 "languages": "Common, Elvish, Sylvan"
 "cr": "1/4"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
+- "desc": "Melee Weapon Attack: dice: d20+2 (+2) to hit, reach 5 ft., one target.\
     \ Hit: 1 slashing damage."
   "name": "Longsword"
-- "desc": "Ranged Weapon Attack: dice: d20+6 (+6 to hit), range 40/160 ft., one\
-    \ target. Hit: 1 piercing damage, and the target must succeed on a DC 10 Constitution\
-    \ saving throw or become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+- "desc": "Ranged Weapon Attack: dice: d20+6 (+6) to hit, range 40/160 ft.,\
+    \ one target. Hit: 1 piercing damage, and the target must succeed on a DC 10\
+    \ Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
     \ for 1 minute. If its saving throw result is 5 or lower, the [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
     \ target falls [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]] for\
     \ the same duration, or until it takes damage or another creature takes an action\

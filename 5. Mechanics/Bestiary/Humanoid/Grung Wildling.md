@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Grung Wildling
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Grung Wildling.md|Grung Wildling]]
+# [[5. Mechanics/Bestiary/Humanoid/Grung Wildling.md|Grung Wildling]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 150, Volo's Guide to Monsters p. 157*
 
 Gifted with druidic magic, a grung wildling typically serves as an advisor, a healer, and a nurturer of crops.
@@ -28,6 +28,7 @@ Born in a wide range of colors, grungs most often appear in shades of green, blu
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "16"
+"ac_class": "natural armor"
 "hp": !!int "27"
 "hit_dice": "5d6 + 10"
 "stats":
@@ -73,12 +74,12 @@ Born in a wide range of colors, grungs most often appear in shades of green, blu
     \ only through magic or by immersing itself in water for at least 1 hour."
   "name": "Water Dependency"
 "actions":
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 1d4 + 3|avg (1d4 + 3) piercing\
-    \ damage plus dice: 2d4|avg (2d4) poison damage."
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: dice:1d4 + 3|text(5) (1d4 + 3) piercing\
+    \ damage plus dice:2d4|text(5) (2d4) poison damage."
   "name": "Dagger"
-- "desc": "Ranged Weapon Attack: dice: d20+5 (+5 to hit), range 80/320 ft., one\
-    \ target. Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage plus dice: 2d4|avg\
+- "desc": "Ranged Weapon Attack: dice: d20+5 (+5) to hit, range 80/320 ft.,\
+    \ one target. Hit: dice:1d6 + 3|text(6) (1d6 + 3) piercing damage plus dice:2d4|text(5)\
     \ (2d4) poison damage."
   "name": "Shortbow"
 "source":

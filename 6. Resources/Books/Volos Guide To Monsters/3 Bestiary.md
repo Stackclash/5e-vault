@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vgm
-aliases: ["Bestiary"]
+  - compendium/src/5e/vgm
+aliases:
+  - Bestiary
 ---
 # Bestiary
 *Source: Volo's Guide to Monsters* 

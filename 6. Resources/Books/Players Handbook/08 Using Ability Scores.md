@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Using Ability Scores"]
+  - compendium/src/5e/phb
+aliases:
+  - Using Ability Scores
 ---
 # Using Ability Scores
 *Source: Player's Handbook, p. 173* 
@@ -69,7 +70,7 @@ An ability check tests a character's or monster's innate talent and training in 
 
 For every ability check, the DM decides which of the six abilities is relevant to the task at hand and the difficulty of the task, represented by a Difficulty Class. The more difficult a task, the higher its DC. The Typical Difficulty Classes table shows the most common DCs.
 
-![Ability Checks; Typical Difficulty Classes](compendium/tables/ability-checks-typical-difficulty-classes.md)
+![[5. Mechanics/Tables/Ability Checks Typical Difficulty Classes.md\|Ability Checks; Typical Difficulty Classes]]
 
 To make an ability check, roll a d20 and add the relevant ability modifier.
 

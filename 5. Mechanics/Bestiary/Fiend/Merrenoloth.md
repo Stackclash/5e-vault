@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Merrenoloth
 ---
-# [[5. Mechanics\Bestiary\Fiend\Merrenoloth.md|Merrenoloth]]
+# [[5. Mechanics/Bestiary/Fiend/Merrenoloth.md|Merrenoloth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 180, Mordenkainen's Tome of Foes p. 250*
 
 The grim captains of the ferries on the River Styx, merrenoloths can navigate safely through the worst storms and always stay on course. Wielding fiery oars, merrenoloths strike fear into anyone who forcefully boards their vessels.
@@ -61,8 +61,8 @@ The grim captains of the ferries on the River Styx, merrenoloths can navigate sa
 "actions":
 - "desc": "The merrenoloth makes one Oar attack and uses Fear Gaze."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4 + 3|avg (2d4 + 3) fire damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d4 + 3|text(8) (2d4 + 3) fire damage."
   "name": "Oar"
 - "desc": "The merrenoloth targets one creature it can see within 60 feet of it. The\
     \ target must succeed on a DC 13 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
@@ -85,7 +85,7 @@ The grim captains of the ferries on the River Styx, merrenoloths can navigate sa
     \ there, it must succeed on a DC 13 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
     \  \n- Propel. A strong wind propels the vessel, increasing its speed by 30\
     \ feet until initiative count 20 on the next round.  \n- Repair. The vessel\
-    \ regains dice: 4d10|avg (4d10) hit points.  "
+    \ regains dice:4d10|text(22) (4d10) hit points.  "
   "name": ""
 "regional_effects":
 - "desc": "A merrenoloth imbues its vessel with magic that creates one or more of\
@@ -95,7 +95,7 @@ The grim captains of the ferries on the River Styx, merrenoloths can navigate sa
     \ merrenoloth names.  \n- Unsinkable. The vessel doesn't sink even if its\
     \ hull is breached.  "
   "name": ""
-- "desc": "If the merrenoloth dies, these effects fade over the course of dice: 1d6|avg\
+- "desc": "If the merrenoloth dies, these effects fade over the course of dice: 1d6|avg|noform\
     \ (1d6) hours."
   "name": ""
 "source":

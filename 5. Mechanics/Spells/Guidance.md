@@ -17,7 +17,6 @@ aliases:
   - Guidance
 ---
 # Guidance
-%%-- Embedded content starts on the next line. --%%
 *cantrip, Divination*  
 
 - **Casting time:** 1 action
@@ -25,7 +24,7 @@ aliases:
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 
-You touch one willing creature. Once before the spell ends, the target can roll a `dice: d4|avg` (`d4`) and add the number rolled to one ability check of its choice. It can roll the die before or after making the ability check. The spell then ends.
+You touch one willing creature. Once before the spell ends, the target can roll a `dice: d4|avg|noform` (`d4`) and add the number rolled to one ability check of its choice. It can roll the die before or after making the ability check. The spell then ends.
 
 **Classes**: [[5. Mechanics/Classes/Artificer.md\|Artificer]], [[5. Mechanics/Classes/Bard College Of Spirits.md\|Bard (College of Spirits)]], [[5. Mechanics/Classes/Cleric Nature Domain.md\|Cleric (Nature Domain)]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Druid Circle Of Stars.md\|Druid (Circle of Stars)]], [[5. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]]
 

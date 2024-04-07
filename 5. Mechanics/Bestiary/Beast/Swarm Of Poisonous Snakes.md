@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Swarm of Poisonous Snakes
 ---
-# [[5. Mechanics\Bestiary\Beast\Swarm Of Poisonous Snakes.md|Swarm of Poisonous Snakes]]
+# [[5. Mechanics/Bestiary/Beast/Swarm Of Poisonous Snakes.md|Swarm of Poisonous Snakes]]
 *Source: Monster Manual p. 338, Curse of Strahd. Available in the SRD and the Basic Rules.*
 
 > [!note] The Nature of Swarms
@@ -50,12 +50,12 @@ aliases:
     \ regain hit points or gain temporary hit points."
   "name": "Swarm"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 0 ft., one creature\
-    \ in the swarm's space. Hit: dice: 2d6|avg (2d6) piercing damage, or dice:\
-    \ 1d6|avg (1d6) piercing damage if the swarm has half of its hit points or\
-    \ fewer. The target must make a DC 10 Constitution saving throw, taking dice:\
-    \ 4d6|avg (4d6) poison damage on a failed save, or half as much damage on a\
-    \ successful one."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 0 ft., one creature\
+    \ in the swarm's space. Hit: dice:2d6|text(7) (2d6) piercing damage, or\
+    \ dice:1d6|text(3) (1d6) piercing damage if the swarm has half of its hit\
+    \ points or fewer. The target must make a DC 10 Constitution saving throw, taking\
+    \ dice:4d6|text(14) (4d6) poison damage on a failed save, or half as much\
+    \ damage on a successful one."
   "name": "Bites"
 "source":
 - "MM"

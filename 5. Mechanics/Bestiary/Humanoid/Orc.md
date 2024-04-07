@@ -17,7 +17,7 @@ statblock: inline
 aliases:
   - Orc
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Orc.md|Orc]]
+# [[5. Mechanics/Bestiary/Humanoid/Orc.md|Orc]]
 *Source: Monster Manual p. 246, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*
 
 Orcs are savage raiders and pillagers with stooped postures, low foreheads, and piggish faces with prominent lower canines that resemble tusks.
@@ -57,6 +57,7 @@ Luthic, the orc goddess of fertility and wife of Gruumsh, demands that orcs proc
 "subtype": "orc"
 "alignment": "Chaotic Evil"
 "ac": !!int "13"
+"ac_class": "[[5. Mechanics/Items/Hide Armor.md|hide armor]]"
 "hp": !!int "15"
 "hit_dice": "2d8 + 6"
 "stats":
@@ -77,11 +78,11 @@ Luthic, the orc goddess of fertility and wife of Gruumsh, demands that orcs proc
     \ that it can see."
   "name": "Aggressive"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d12 + 3|avg (1d12 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d12 + 3|text(9) (1d12 + 3) slashing damage."
   "name": "Greataxe"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft.\
-    \ or range 30/120 ft., one target. Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing\
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft.\
+    \ or range 30/120 ft., one target. Hit: dice:1d6 + 3|text(6) (1d6 + 3) piercing\
     \ damage."
   "name": "Javelin"
 "source":

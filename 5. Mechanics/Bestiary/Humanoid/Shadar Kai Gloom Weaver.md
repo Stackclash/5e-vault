@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Shadar-kai Gloom Weaver
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Shadar Kai Gloom Weaver.md|Shadar-kai Gloom Weaver]]
+# [[5. Mechanics/Bestiary/Humanoid/Shadar Kai Gloom Weaver.md|Shadar-kai Gloom Weaver]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 213, Mordenkainen's Tome of Foes p. 224*
 
 Although they're formidable warriors, gloom weavers are often content to hide in the shadows, watching as their very presence affects their victims. Their bleak energy weighs down the heart, causing those nearby to feel the approach of death. If detected, gloom weavers use their shadow magic to reduce enemies to ghastly corpses.
@@ -79,10 +79,11 @@ Shadar-kai encountered outside the Shadowfell are often on quests to find the mo
 - "desc": "The shadar-kai makes three Shadow Spear attacks. It can replace one attack\
     \ with a use of Spellcasting."
   "name": "Multiattack"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft.\
-    \ or range 30/120, one target. Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing\
-    \ damage plus dice: 4d12|avg (4d12) necrotic damage. Hit or Miss: The spear\
-    \ magically returns to the shadar-kai's hand immediately after a ranged attack."
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft.\
+    \ or range 30/120, one target. Hit: dice:1d6 + 4|text(7) (1d6 + 4) piercing\
+    \ damage plus dice:4d12|text(26) (4d12) necrotic damage. Hit or Miss: The\
+    \ spear magically returns to the shadar-kai's hand immediately after a ranged\
+    \ attack."
   "name": "Shadow Spear"
 "reactions":
 - "desc": "When the shadar-kai takes damage, it turns [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]]\

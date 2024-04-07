@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Spells"]
+  - compendium/src/5e/phb
+aliases:
+  - Spells
 ---
 # Spells
 *Source: Player's Handbook, p. 207* 

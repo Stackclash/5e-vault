@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Topaz Wyrmling
 ---
-# [[5. Mechanics\Bestiary\Dragon\Topaz Wyrmling.md|Topaz Wyrmling]]
+# [[5. Mechanics/Bestiary/Dragon/Topaz Wyrmling.md|Topaz Wyrmling]]
 *Source: Strongholds and Followers p. 219*
 
 The youngest species, the most enthusiastic about the world, the one you're most likely to meet, topaz dragons study magic obsessively, and their older kin consider this juvenile. When you're older you'll realize magic is just ambient interference from overlapping manifolds constrained by oblique functions. Well, poo on that, look, I made a fireball!
@@ -27,6 +27,7 @@ They're approachable and easy to talk to as long as you don't mind never getting
 "type": "dragon"
 "alignment": "Neutral Good"
 "ac": !!int "16"
+"ac_class": "natural armor"
 "hp": !!int "27"
 "hit_dice": "6d8 + 0"
 "stats":
@@ -53,13 +54,14 @@ They're approachable and easy to talk to as long as you don't mind never getting
 "cr": "2"
 "traits":
 - "desc": ". . [[/5. Mechanics/Rules/Variant Rules/Gemstone Dragon Psionics.md|Gemstone Dragon Psionics]].\
-    \ Charges: 6 • Recharge: dice: 1d4|avg (1d4) • Fracture: 5"
+    \ Charges: 6 • Recharge: dice: 1d4|avg|noform (1d4) • Fracture:\
+    \ 5"
   "name": ""
 - "desc": "All allies within 30 feet gain +1 on Intelligence checks and saving throws."
   "name": "Uplift Aura"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d10 + 1|avg (1d10 + 1) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d10 + 1|text(6) (1d10 + 1) piercing damage."
   "name": "Bite"
 "source":
 - "SaF"

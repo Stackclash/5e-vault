@@ -10,14 +10,14 @@ statblock: inline
 aliases:
   - Death's Head
 ---
-# [[5. Mechanics\Bestiary\Undead\Deaths Head.md|Death's Head]]
+# [[5. Mechanics/Bestiary/Undead/Deaths Head.md|Death's Head]]
 *Source: Van Richten's Guide to Ravenloft p. 232*
 
 A death's head is a disembodied, flying head. The type of creature one of these grotesque undead originated from determines how it terrorizes it prey. A death's head that arises from a person or animal swoops down to rip apart victims with its gnashing teeth. One with the head of monster like a nothic or medusa, though, retains a measure of the power it had in life and can befuddle the minds or petrify the bodies of its victims.
 
 ## Death's Head Tree
 
-In cursed wilds grow death's head trees, awakened trees from which `dice: 2d6|avg` (`2d6`) death's heads dangle like foul fruit. The heads detach to protect the tree if it's threatened. Should the tree be destroyed, the heads scatter and plant themselves in unholy ground. A new death's head tree emerges from each planted head `dice: 1d12|avg` (`1d12`) months later.
+In cursed wilds grow death's head trees, awakened trees from which `dice: 2d6|avg|noform` (`2d6`) death's heads dangle like foul fruit. The heads detach to protect the tree if it's threatened. Should the tree be destroyed, the heads scatter and plant themselves in unholy ground. A new death's head tree emerges from each planted head `dice: 1d12|avg|noform` (`1d12`) months later.
 
 ```statblock
 "name": "Deaths Head"
@@ -25,6 +25,7 @@ In cursed wilds grow death's head trees, awakened trees from which `dice: 2d6|av
 "type": "undead"
 "alignment": "Unaligned"
 "ac": !!int "16"
+"ac_class": "natural armor"
 "hp": !!int "17"
 "hit_dice": "5d4 + 5"
 "stats":
@@ -46,19 +47,19 @@ In cursed wilds grow death's head trees, awakened trees from which `dice: 2d6|av
 - "desc": "The death's head doesn't require air, food, drink, or sleep."
   "name": "Unusual Nature"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 1|avg (1d6 + 1) piercing damage plus dice: 2d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 1|text(4) (1d6 + 1) piercing damage plus dice:2d6|text(7)\
     \ (2d6) necrotic damage."
   "name": "Gnashing Bite (Gnashing Head Only)"
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 1|avg (1d6 + 1) piercing damage plus dice: 1d10|avg\
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 1|text(4) (1d6 + 1) piercing damage plus dice:1d10|text(5)\
     \ (1d10) necrotic damage, and the target must succeed on a DC 10 Intelligence\
     \ saving throw or it can't take a reaction until the end of its next turn. Moreover,\
     \ on its next turn, the target must choose whether it gets a move, an action,\
     \ or a bonus action; it gets only one of the three."
   "name": "Mind-Bending Bite (Aberrant Head Only)"
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 1|avg (1d4 + 1) piercing damage, and the target must\
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d4 + 1|text(3) (1d4 + 1) piercing damage, and the target must\
     \ succeed on a DC 10 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
     \ as it begins to turn to stone. The target must repeat the saving throw at the\
     \ end of its next turn. On a success, the effect ends. On a failure, the target\

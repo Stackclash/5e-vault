@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Giant Sea Horse
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Sea Horse.md|Giant Sea Horse]]
+# [[5. Mechanics/Bestiary/Beast/Giant Sea Horse.md|Giant Sea Horse]]
 *Source: Monster Manual p. 328. Available in the SRD and the Basic Rules.*
 
 Like their smaller kin, giant sea horses are shy, colorful fish with elongated bodies and curled tails. Aquatic elves train them as mounts.
@@ -22,6 +22,7 @@ Like their smaller kin, giant sea horses are shy, colorful fish with elongated b
 "type": "beast"
 "alignment": "Unaligned"
 "ac": !!int "13"
+"ac_class": "natural armor"
 "hp": !!int "16"
 "hit_dice": "3d10"
 "stats":
@@ -37,15 +38,15 @@ Like their smaller kin, giant sea horses are shy, colorful fish with elongated b
 "cr": "1/2"
 "traits":
 - "desc": "If the sea horse moves at least 20 feet straight toward a target and then\
-    \ hits it with a ram attack on the same turn, the target takes an extra dice:\
-    \ 2d6|avg (2d6) bludgeoning damage. If the target is a creature, it must succeed\
-    \ on a DC 11 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ hits it with a ram attack on the same turn, the target takes an extra dice:2d6|text(7)\
+    \ (2d6) bludgeoning damage. If the target is a creature, it must succeed on\
+    \ a DC 11 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Charge"
 - "desc": "The sea horse can breathe only underwater."
   "name": "Water Breathing"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 1|avg (1d6 + 1) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 1|text(4) (1d6 + 1) bludgeoning damage."
   "name": "Ram"
 "source":
 - "MM"

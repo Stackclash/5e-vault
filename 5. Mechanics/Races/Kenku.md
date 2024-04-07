@@ -29,7 +29,7 @@ When you copy writing or craftwork produced by yourself or someone else, you hav
 
 Thanks to your supernaturally good memory, you have proficiency in two skills of your choice.
 
-Moreover, when you make an ability check using any skill in which you have proficiency, you can give yourself advantage on the check before rolling the `dice: d20|avg` (`d20`). You can give yourself advantage in this way a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+Moreover, when you make an ability check using any skill in which you have proficiency, you can give yourself advantage on the check before rolling the `dice: d20|avg|noform` (`d20`). You can give yourself advantage in this way a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 ### Mimicry
 

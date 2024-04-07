@@ -2,19 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/vgm
-- monster/cr/3
-- monster/environment/forest
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/environment/urban
-- monster/size/medium
-- monster/type/humanoid/orc
+  - compendium/src/5e/vgm
+  - monster/cr/3
+  - monster/environment/forest
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/environment/urban
+  - monster/size/medium
+  - monster/type/humanoid/orc
 statblock: inline
-aliases: ["Orc Red Fang of Shargaas"]
+aliases:
+  - Orc Red Fang of Shargaas
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Orc Red Fang Of Shargaas.md|Orc Red Fang of Shargaas]]
+# [[5. Mechanics/Bestiary/Humanoid/Orc Red Fang Of Shargaas.md|Orc Red Fang of Shargaas]]
 *Source: Volo's Guide to Monsters p. 185*
 
 To the common folk of the world, an orc is an orc. They know that any one of these savages can tear an ordinary person to pieces, so no further distinction is necessary.
@@ -38,6 +39,7 @@ Most Red Fang enclaves keep and nurture giant bats, creatures that are sacred to
 "subtype": "orc"
 "alignment": "Chaotic Evil"
 "ac": !!int "15"
+"ac_class": "[[5. Mechanics/Items/Studded Leather Armor.md|studded leather]]"
 "hp": !!int "52"
 "hit_dice": "8d8 + 16"
 "stats":
@@ -71,11 +73,11 @@ Most Red Fang enclaves keep and nurture giant bats, creatures that are sacred to
 "actions":
 - "desc": "The orc makes two scimitar or dart attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 3d6 + 3|avg (3d6 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:3d6 + 3|text(13) (3d6 + 3) slashing damage."
   "name": "Scimitar"
-- "desc": "Ranged Weapon Attack: dice: d20+5 (+5 to hit), range 20/60 ft., one\
-    \ target. Hit: dice: 3d4 + 3|avg (3d4 + 3) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+5 (+5) to hit, range 20/60 ft., one\
+    \ target. Hit: dice:3d4 + 3|text(10) (3d4 + 3) piercing damage."
   "name": "Dart"
 - "desc": "The orc casts [[5. Mechanics/Spells/Darkness.md|darkness]] without any components.\
     \ Wisdom is its spellcasting ability."

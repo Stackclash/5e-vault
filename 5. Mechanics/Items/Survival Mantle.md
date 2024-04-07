@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/vgm
-- item/armor/medium
-- item/rarity/unknown
-aliases: 
-- "Survival Mantle"
+  - compendium/src/5e/vgm
+  - item/armor/medium
+  - item/rarity/unknown
+aliases:
+  - Survival Mantle
 ---
 # Survival Mantle
 *Medium Armor, unknown*  

@@ -11,7 +11,6 @@ aliases:
   - Wrath of Nature
 ---
 # Wrath of Nature
-%%-- Embedded content starts on the next line. --%%
 *5th-level, Evocation*  
 
 - **Casting time:** 1 action
@@ -27,7 +26,7 @@ Any area of ground in the cube that is covered by grass or undergrowth is diffic
 
 ## Trees
 
-At the start of each of your turns, each of your enemies within 10 feet of any tree in the cube must succeed on a Dexterity saving throw or take `dice: 4d6|avg` (`4d6`) slashing damage from whipping branches.
+At the start of each of your turns, each of your enemies within 10 feet of any tree in the cube must succeed on a Dexterity saving throw or take `dice: 4d6|avg|noform` (`4d6`) slashing damage from whipping branches.
 
 ## Roots and Vines
 
@@ -35,7 +34,7 @@ At the end of each of your turns, one creature of your choice that is on the gro
 
 ## Rocks
 
-As a bonus action on your turn, you can cause a loose rock in the cube to launch at a creature you can see in the cube. Make a ranged spell attack against the target. On a hit, the target takes `dice: 3d8|avg` (`3d8`) nonmagical bludgeoning damage, and it must succeed on a Strength saving throw or fall [[/5. Mechanics/Rules/Conditions.md#prone\|prone]].
+As a bonus action on your turn, you can cause a loose rock in the cube to launch at a creature you can see in the cube. Make a ranged spell attack against the target. On a hit, the target takes `dice: 3d8|avg|noform` (`3d8`) nonmagical bludgeoning damage, and it must succeed on a Strength saving throw or fall [[/5. Mechanics/Rules/Conditions.md#prone\|prone]].
 
 ## Summary
 

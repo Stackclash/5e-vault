@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Archmage
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Archmage.md|Archmage]]
+# [[5. Mechanics/Bestiary/Humanoid/Archmage.md|Archmage]]
 *Source: Monster Manual p. 342, Curse of Strahd, Eberron: Rising from the Last War. Available in the SRD.*
 
 Archmages are powerful (and usually quite old) spellcasters dedicated to the study of the arcane arts. Benevolent ones counsel kings and queens, while evil ones rule as tyrants and pursue lichdom. Those who are neither good nor evil sequester themselves in remote towers to practice their magic without interruption.
@@ -25,6 +25,7 @@ An archmage typically has one or more apprentice mages, and an archmage's abode 
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "12"
+"ac_class": "15 with [[5. Mechanics/Spells/Mage Armor.md|mage armor]]"
 "hp": !!int "99"
 "hit_dice": "18d8 + 18"
 "stats":
@@ -48,7 +49,7 @@ An archmage typically has one or more apprentice mages, and an archmage's abode 
 "cr": "12"
 "traits":
 - "desc": "The archmage is an 18th-level spellcaster. Its spellcasting ability is\
-    \ Intelligence (spell save DC 17, dice: d20+9 (+9 to hit) with spell attacks).\
+    \ Intelligence (spell save DC 17, dice: d20+9 (+9) to hit with spell attacks).\
     \ The archmage can cast [[5. Mechanics/Spells/Disguise Self.md|disguise self]] and\
     \ [[5. Mechanics/Spells/Invisibility.md|invisibility]] at will and has the following\
     \ wizard spells prepared:\n\nAt will: [[5. Mechanics/Spells/Disguise Self.md|disguise self]],\
@@ -76,8 +77,8 @@ An archmage typically has one or more apprentice mages, and an archmage's abode 
     \ effects."
   "name": "Magic Resistance"
 "actions":
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing\
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: dice:1d4 + 2|text(4) (1d4 + 2) piercing\
     \ damage."
   "name": "Dagger"
 "source":

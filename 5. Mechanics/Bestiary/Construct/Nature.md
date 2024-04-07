@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Nature
 ---
-# [[5. Mechanics\Bestiary\Construct\Nature.md|Nature]]
+# [[5. Mechanics/Bestiary/Construct/Nature.md|Nature]]
 *Source: Strongholds and Followers p. 232*
 
 Chief amongst the Knights of Axiom is Nature. The Law of Nature states that all actions must proceed according to the fundamental axioms of the universe.. Magic is a tool used by those who would bypass those laws and act on the world using their will alone. This cannot be permitted. Nature can reflexively attempt to counter a spell as it's being cast, pointing at the caster and bellowing, "OBEY!" or "CONFORM!"
@@ -27,6 +27,7 @@ Nature's counterspell reaction has a range of 60 feet, so Nature can pummel easy
 "type": "construct"
 "alignment": "Lawful"
 "ac": !!int "20"
+"ac_class": "natural armor"
 "hp": !!int "190"
 "hit_dice": "20d10 + 80"
 "stats":
@@ -65,8 +66,8 @@ Nature's counterspell reaction has a range of 60 feet, so Nature can pummel easy
 "actions":
 - "desc": "Nature makes two slam attacks or makes one slam attack and casts banishment."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d6 + 5|avg (2d6 + 5) bludgeoning damage plus dice: 4d8|avg\
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 10 ft., one target.\
+    \ Hit: dice:2d6 + 5|text(12) (2d6 + 5) bludgeoning damage plus dice:4d8|text(18)\
     \ (4d8) force damage."
   "name": "Slam"
 "source":

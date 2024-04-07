@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Sea Hag
 ---
-# [[5. Mechanics\Bestiary\Fey\Sea Hag.md|Sea Hag]]
+# [[5. Mechanics/Bestiary/Fey/Sea Hag.md|Sea Hag]]
 *Source: Monster Manual p. 179. Available in the SRD.*
 
 Sea hags live in dismal and polluted underwater lairs, surrounded by merrow and other aquatic monsters.
@@ -84,7 +84,7 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
 > 
 > For casting these spells, each hag is a 12th-level spellcaster that uses Intelligence as her spellcasting ability. The spell save DC is 12 + the hag's Intelligence modifier, and the spell attack bonus is 4 + the hag's Intelligence modifier.
 > 
-> **Hag Eye.** A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and [[/5. Mechanics/Rules/Senses.md#darkvision|darkvision]] with a radius of 60 feet. If it is destroyed, each coven member takes `dice: 3d10|avg` (`3d10`) psychic damage and is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] for 24 hours.
+> **Hag Eye.** A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and [[/5. Mechanics/Rules/Senses.md#darkvision|darkvision]] with a radius of 60 feet. If it is destroyed, each coven member takes `dice: 3d10|avg|noform` (`3d10`) psychic damage and is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] for 24 hours.
 > 
 > A hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can't perform it while [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]. During the ritual, if the hags take any action other than performing the ritual, they must start over.
 ^hag-covens
@@ -95,6 +95,7 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
 "type": "fey"
 "alignment": "Chaotic Evil"
 "ac": !!int "14"
+"ac_class": "natural armor"
 "hp": !!int "52"
 "hit_dice": "7d8 + 21"
 "stats":
@@ -124,8 +125,8 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
     \ disadvantage on attack rolls against the hag."
   "name": "Horrific Appearance"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 3|text(10) (2d6 + 3) slashing damage."
   "name": "Claws"
 - "desc": "The hag targets one [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
     \ creature she can see within 30 feet of her. If the target can see the hag, it\
@@ -178,7 +179,8 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
     \ single hag, including some that can directly harm intruders. Any regional effect\
     \ that requires a creature to make a saving throw uses the save DC of the hag's\
     \ most powerful ability. These effects either end immediately if the hag dies\
-    \ or abandons the lair, or take up to dice: 2d10|avg (2d10) days to fade away."
+    \ or abandons the lair, or take up to dice: 2d10|avg|noform (2d10) days to\
+    \ fade away."
   "name": ""
 - "desc": "The region within 1 mile of a grandmother hag's lair is warped by the creature's\
     \ fell magic, which creates one or more of the following effects:"

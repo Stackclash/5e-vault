@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Guild Adept
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Guild Adept.md|Guild Adept]]
+# [[5. Mechanics/Bestiary/Humanoid/Guild Adept.md|Guild Adept]]
 *Source: Strongholds and Followers p. 78*
 
 ```statblock
@@ -20,6 +20,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "13"
+"ac_class": "Light"
 "stats":
 - !!int "14"
 - !!int "18"
@@ -47,9 +48,9 @@ aliases:
 - "desc": "This creature is a Retainer, as described in \"Strongholds and Followers\""
   "name": "Retainer"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) slashing damage.\n\nAt 7th level, retainers\
-    \ can take two signature attacks per round."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 3|text(7) (1d8 + 3) slashing damage.\n\nAt 7th level,\
+    \ retainers can take two signature attacks per round."
   "name": "Signature Attack"
 - "desc": "Prerequisite: 3rd-level retainer\n\nThe guild adept casts [[5. Mechanics/Spells/Blur.md|blur]]\
     \ on themselves and their leader."

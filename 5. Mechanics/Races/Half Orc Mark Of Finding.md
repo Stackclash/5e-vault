@@ -31,7 +31,7 @@ You can see in dim light within 60 feet of you as if it were bright light, and i
 
 ### Hunter's Intuition
 
-When you make a Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) or Wisdom ([[/5. Mechanics/Rules/Skills.md#Survival\|Survival]]) check, you can roll a `dice: d4|avg` (`d4`) and add the number rolled to the ability check.
+When you make a Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) or Wisdom ([[/5. Mechanics/Rules/Skills.md#Survival\|Survival]]) check, you can roll a `dice: d4|avg|noform` (`d4`) and add the number rolled to the ability check.
 
 ### Finder's Magic
 

@@ -2,19 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/vgm
-- monster/cr/2
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/humanoid/orc
+  - compendium/src/5e/vgm
+  - monster/cr/2
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/humanoid/orc
 statblock: inline
-aliases: ["Orc Hand of Yurtrus"]
+aliases:
+  - Orc Hand of Yurtrus
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Orc Hand Of Yurtrus.md|Orc Hand of Yurtrus]]
+# [[5. Mechanics/Bestiary/Humanoid/Orc Hand Of Yurtrus.md|Orc Hand of Yurtrus]]
 *Source: Volo's Guide to Monsters p. 184*
 
 To the common folk of the world, an orc is an orc. They know that any one of these savages can tear an ordinary person to pieces, so no further distinction is necessary.
@@ -40,6 +41,7 @@ As befits followers of a god who doesn't speak, hands of Yurtrus remove their to
 "subtype": "orc"
 "alignment": "Chaotic Evil"
 "ac": !!int "12"
+"ac_class": "[[5. Mechanics/Items/Hide Armor.md|hide armor]]"
 "hp": !!int "30"
 "hit_dice": "4d8 + 12"
 "stats":
@@ -60,7 +62,7 @@ As befits followers of a god who doesn't speak, hands of Yurtrus remove their to
 "cr": "2"
 "traits":
 - "desc": "The orc is a 4th-level spellcaster. Its spellcasting ability is Wisdom\
-    \ (spell save DC 12, dice: d20+4 (+4 to hit) with spell attacks). It requires\
+    \ (spell save DC 12, dice: d20+4 (+4) to hit with spell attacks). It requires\
     \ no verbal components to cast its spells. The orc has the following cleric spells\
     \ prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Guidance.md|guidance]],\
     \ [[5. Mechanics/Spells/Mending.md|mending]], [[5. Mechanics/Spells/Resistance.md|resistance]],\
@@ -75,8 +77,8 @@ As befits followers of a god who doesn't speak, hands of Yurtrus remove their to
     \ that it can see."
   "name": "Aggressive"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8|avg (2d8) necrotic damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d8|text(9) (2d8) necrotic damage."
   "name": "Touch of the White Hand"
 "source":
 - "VGM"

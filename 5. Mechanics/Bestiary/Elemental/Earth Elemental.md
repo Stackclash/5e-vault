@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Earth Elemental
 ---
-# [[5. Mechanics\Bestiary\Elemental\Earth Elemental.md|Earth Elemental]]
+# [[5. Mechanics/Bestiary/Elemental/Earth Elemental.md|Earth Elemental]]
 *Source: Monster Manual p. 124, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*
 
 An earth elemental plods forward like a walking hill, club-like arms of jagged stone swinging at its sides. Its head and body consist of dirt and stone, occasionally set with chunks of metal, gems, and bright minerals.
@@ -44,6 +44,7 @@ An elemental doesn't require air, food, drink, or sleep.
 "type": "elemental"
 "alignment": "Neutral"
 "ac": !!int "17"
+"ac_class": "natural armor"
 "hp": !!int "126"
 "hit_dice": "12d10 + 60"
 "stats":
@@ -72,8 +73,8 @@ An elemental doesn't require air, food, drink, or sleep.
 "actions":
 - "desc": "The elemental makes two slam attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d8 + 5|avg (2d8 + 5) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 10 ft., one target.\
+    \ Hit: dice:2d8 + 5|text(14) (2d8 + 5) bludgeoning damage."
   "name": "Slam"
 "source":
 - "MM"

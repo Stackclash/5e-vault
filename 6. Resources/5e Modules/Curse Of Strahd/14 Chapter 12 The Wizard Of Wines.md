@@ -264,7 +264,7 @@ Unless they have been drawn outside, five [[5. Mechanics/Bestiary/Plant/Needle B
 > Something moves behind the eastern wine rack. Through the holes, you glimpse a half dozen humanoid figures, one with a full rack of antlers. You hear a gravelly voice mutter the words of a spell.
 ^5b7
 
-On his first turn, from behind the wine rack, the druid casts a [[5. Mechanics/Spells/Thunderwave.md\|thunderwave]] spell, which shatters `dice: 1d20 + 10|avg` (`1d20 + 10`) of the wine bottles as it resounds throughout the cellar. The druid then orders the needle blights to attack.
+On his first turn, from behind the wine rack, the druid casts a [[5. Mechanics/Spells/Thunderwave.md\|thunderwave]] spell, which shatters `dice: 1d20 + 10|avg|noform` (`1d20 + 10`) of the wine bottles as it resounds throughout the cellar. The druid then orders the needle blights to attack.
 
 The cellar gets markedly colder the closer one gets to the north wall. Against that wall in the eastern portion of the cellar rest three frosty barrels containing Purple Grapemash No. 3, a fact that is emblazoned on each barrel's side. A single bottle of Purple Grapemash No. 3 lies on the flagstone floor in the western half of the cellar.
 

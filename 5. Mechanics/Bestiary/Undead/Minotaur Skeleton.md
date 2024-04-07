@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Minotaur Skeleton
 ---
-# [[5. Mechanics\Bestiary\Undead\Minotaur Skeleton.md|Minotaur Skeleton]]
+# [[5. Mechanics/Bestiary/Undead/Minotaur Skeleton.md|Minotaur Skeleton]]
 *Source: Monster Manual p. 273. Available in the SRD.*
 
 Skeletons arise when animated by dark magic. They heed the summons of spellcasters who call them from their stony tombs and ancient battlefields, or rise of their own accord in places saturated with death and loss, awakened by stirrings of necromantic energy or the presence of corrupting evil.
@@ -46,6 +46,7 @@ A skeleton doesn't require air, food, drink, or sleep.
 "type": "undead"
 "alignment": "Lawful Evil"
 "ac": !!int "12"
+"ac_class": "natural armor"
 "hp": !!int "67"
 "hit_dice": "9d10 + 18"
 "stats":
@@ -65,17 +66,16 @@ A skeleton doesn't require air, food, drink, or sleep.
 "cr": "2"
 "traits":
 - "desc": "If the skeleton moves at least 10 feet straight toward a target and then\
-    \ hits it with a gore attack on the same turn, the target takes an extra dice:\
-    \ 2d8|avg (2d8) piercing damage. If the target is a creature, it must succeed\
-    \ on a DC 14 Strength saving throw or be pushed up to 10 feet away and knocked\
-    \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ hits it with a gore attack on the same turn, the target takes an extra dice:2d8|text(9)\
+    \ (2d8) piercing damage. If the target is a creature, it must succeed on a DC\
+    \ 14 Strength saving throw or be pushed up to 10 feet away and knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Charge"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d12 + 4|avg (2d12 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d12 + 4|text(17) (2d12 + 4) slashing damage."
   "name": "Greataxe"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d8 + 4|text(13) (2d8 + 4) piercing damage."
   "name": "Gore"
 "source":
 - "MM"

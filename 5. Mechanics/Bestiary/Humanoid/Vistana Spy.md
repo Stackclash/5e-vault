@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Vistana Spy
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Vistana Spy.md|Vistana Spy]]
+# [[5. Mechanics/Bestiary/Humanoid/Vistana Spy.md|Vistana Spy]]
 *Source: Curse of Strahd p. 28*
 
 ```statblock
@@ -45,19 +45,19 @@ aliases:
 - "desc": "On each of its turns, the spy can use a bonus action to take the Dash,\
     \ Disengage, or Hide action."
   "name": "Cunning Action"
-- "desc": "The spy deals an extra dice: 2d6|avg (2d6) damage when it hits a target\
-    \ with a weapon attack and has advantage on the attack roll, or when the target\
-    \ is within 5 feet of an ally of the spy that isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
+- "desc": "The spy deals an extra dice:2d6|text(7) (2d6) damage when it hits a\
+    \ target with a weapon attack and has advantage on the attack roll, or when the\
+    \ target is within 5 feet of an ally of the spy that isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
     \ and the spy doesn't have disadvantage on the attack roll."
   "name": "Sneak Attack (1/Turn)"
 "actions":
 - "desc": "The spy makes two melee attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 2|text(5) (1d6 + 2) piercing damage."
   "name": "Shortsword"
-- "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 30/120 ft., one\
-    \ target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+4 (+4) to hit, range 30/120 ft.,\
+    \ one target. Hit: dice:1d6 + 2|text(5) (1d6 + 2) piercing damage."
   "name": "Hand Crossbow"
 "source":
 - "CoS"

@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Gray Render
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Gray Render.md|Gray Render]]
+# [[5. Mechanics/Bestiary/Monstrosity/Gray Render.md|Gray Render]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 146, Mordenkainen's Tome of Foes p. 209*
 
 A curious impulse drives the gray render. Despite its hulking form and terrible appetite, it wants most of all to bond with an intelligent creature and, once bonded, to give its life to protect that creature. Great strength and a ferocious nature make gray renders fierce guardians, but they lack a shred of cunning.
@@ -49,6 +49,7 @@ The Gray Render Quirks table presents possible quirks for gray renders that can 
 "type": "monstrosity"
 "alignment": "Typically  Chaotic Neutral"
 "ac": !!int "19"
+"ac_class": "natural armor"
 "hp": !!int "189"
 "hit_dice": "18d10 + 90"
 "stats":
@@ -70,13 +71,13 @@ The Gray Render Quirks table presents possible quirks for gray renders that can 
 "actions":
 - "desc": "The gray render makes one Bite attack and two Claw attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d12 + 4|avg (2d12 + 4) piercing damage. If the target is Medium\
-    \ or smaller, the target must succeed on a DC 16 Strength saving throw or be knocked\
-    \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d12 + 4|text(17) (2d12 + 4) piercing damage. If the target\
+    \ is Medium or smaller, the target must succeed on a DC 16 Strength saving throw\
+    \ or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) slashing damage, plus dice: 3d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 10 ft., one target.\
+    \ Hit: dice:2d8 + 4|text(13) (2d8 + 4) slashing damage, plus dice:3d6|text(10)\
     \ (3d6) bludgeoning damage if the target is [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Claw"
 "reactions":

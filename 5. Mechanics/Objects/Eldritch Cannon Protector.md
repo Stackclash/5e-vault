@@ -19,7 +19,7 @@ title: Eldritch Cannon, Protector
 *Unknown Unknown*
 
 - **Armor Class** 18 
-- **Hit Points** null (equal to five times your artificer level)
+- **Hit Points** equal to five times your artificer level (equal to five times your artificer level)
 - **Speed** 
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -31,6 +31,6 @@ title: Eldritch Cannon, Protector
 
 ## Actions
 
-***Protector.*** The cannon emits a burst of positive energy that grants itself and each creature of your choice within 10 feet of it a number of temporary hit points equal to `dice: 1d8|avg` (`1d8`) + your Intelligence modifier (minimum of +1).
+***Protector.*** The cannon emits a burst of positive energy that grants itself and each creature of your choice within 10 feet of it a number of temporary hit points equal to `dice: 1d8|avg|noform` (`1d8`) + your Intelligence modifier (minimum of +1).
 ```
 ^statblock

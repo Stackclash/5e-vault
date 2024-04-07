@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Octopus
 ---
-# [[5. Mechanics\Bestiary\Beast\Octopus.md|Octopus]]
+# [[5. Mechanics/Bestiary/Beast/Octopus.md|Octopus]]
 *Source: Monster Manual p. 333. Available in the SRD and the Basic Rules.*
 
 ```statblock
@@ -44,7 +44,7 @@ aliases:
 - "desc": "The octopus can breathe only underwater."
   "name": "Water Breathing"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
     \ Hit: 1 bludgeoning damage, and the target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ (escape DC 10). Until this grapple ends, the octopus can't use its tentacles\
     \ on another target."

@@ -43,7 +43,7 @@ Once you gain access to one of these spells, you always have it prepared, and it
 
 You can summon the primal spirit bound to your soul. As an action, you can expend one use of your Wild Shape feature to summon your wildfire spirit, rather than assuming a beast form.
 
-The spirit appears in an unoccupied space of your choice that you can see within 30 feet of you. Each creature within 10 feet of the spirit (other than you) when it appears must succeed on a Dexterity saving throw against your spell save DC or take `dice: 2d6|avg` (`2d6`) fire damage.
+The spirit appears in an unoccupied space of your choice that you can see within 30 feet of you. Each creature within 10 feet of the spirit (other than you) when it appears must succeed on a Dexterity saving throw against your spell save DC or take `dice: 2d6|avg|noform` (`2d6`) fire damage.
 
 The spirit is friendly to you and your companions and obeys your commands. See this creature's game statistics in the [[5. Mechanics/Bestiary/Elemental/Wildfire Spirit.md\|Wildfire Spirit]] stat block, which uses your proficiency bonus (PB) in several places. You determine the spirit's appearance. Some spirits take the form of a humanoid figure made of gnarled branches covered in flame, while others look like beasts wreathed in fire.
 
@@ -55,7 +55,7 @@ The spirit manifests for 1 hour, until it is reduced to 0 hit points, until you 
 
 *6th-level Circle of Wildfire feature*
 
-The bond with your wildfire spirit enhances your destructive and restorative spells. Whenever you cast a spell that deals fire damage or restores hit points while your wildfire spirit is summoned, roll a `dice: d8|avg` (`d8`), and you gain a bonus equal to the number rolled to one damage or healing roll of the spell.
+The bond with your wildfire spirit enhances your destructive and restorative spells. Whenever you cast a spell that deals fire damage or restores hit points while your wildfire spirit is summoned, roll a `dice: d8|avg|noform` (`d8`), and you gain a bonus equal to the number rolled to one damage or healing roll of the spell.
 
 In addition, when you cast a spell with a range other than self, the spell can originate from you or your wildfire spirit.
 
@@ -63,7 +63,7 @@ In addition, when you cast a spell with a range other than self, the spell can o
 
 *10th-level Circle of Wildfire feature*
 
-You gain the ability to turn death into magical flames that can heal or incinerate. When a Small or larger creature dies within 30 feet of you or your wildfire spirit, a harmless spectral flame springs forth in the dead creature's space and flickers there for 1 minute. When a creature you can see enters that space, you can use your reaction to extinguish the spectral flame there and either heal the creature or deal fire damage to it. The healing or damage equals `dice: 2d10|avg` (`2d10`) + your Wisdom modifier.
+You gain the ability to turn death into magical flames that can heal or incinerate. When a Small or larger creature dies within 30 feet of you or your wildfire spirit, a harmless spectral flame springs forth in the dead creature's space and flickers there for 1 minute. When a creature you can see enters that space, you can use your reaction to extinguish the spectral flame there and either heal the creature or deal fire damage to it. The healing or damage equals `dice: 2d10|avg|noform` (`2d10`) + your Wisdom modifier.
 
 You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 

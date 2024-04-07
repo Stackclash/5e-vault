@@ -15,7 +15,7 @@ aliases:
 
 - **Properties**: Crafted by
 
-While wearing these lenses, you may target a creature you can see within 30 feet of you. The target must make a DC 16 Constitution saving throw, suffering `dice: 8d8|avg` (`8d8`) necrotic damage on a failed save, or half that on a success. If the saving throw fails by 5 or more, the target instead takes `dice: 64|avg` (`64`) necrotic damage. The target dies if reduced to 0 hit points by this ability.
+While wearing these lenses, you may target a creature you can see within 30 feet of you. The target must make a DC 16 Constitution saving throw, suffering `dice: 8d8|avg|noform` (`8d8`) necrotic damage on a failed save, or half that on a success. If the saving throw fails by 5 or more, the target instead takes `dice: 64|avg|noform` (`64`) necrotic damage. The target dies if reduced to 0 hit points by this ability.
 
 Once used, this ability may not be used again until the next dawn.
 

@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Killer Whale
 ---
-# [[5. Mechanics\Bestiary\Beast\Killer Whale.md|Killer Whale]]
+# [[5. Mechanics/Bestiary/Beast/Killer Whale.md|Killer Whale]]
 *Source: Monster Manual p. 331. Available in the SRD and the Basic Rules.*
 
 ```statblock
@@ -20,6 +20,7 @@ aliases:
 "type": "beast"
 "alignment": "Unaligned"
 "ac": !!int "12"
+"ac_class": "natural armor"
 "hp": !!int "90"
 "hit_dice": "12d12 + 12"
 "stats":
@@ -44,8 +45,8 @@ aliases:
     \ checks that rely on hearing."
   "name": "Keen Hearing"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 5d6 + 4|avg (5d6 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:5d6 + 4|text(21) (5d6 + 4) piercing damage."
   "name": "Bite"
 "source":
 - "MM"

@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Amethyst Wyrmling
 ---
-# [[5. Mechanics\Bestiary\Dragon\Amethyst Wyrmling.md|Amethyst Wyrmling]]
+# [[5. Mechanics/Bestiary/Dragon/Amethyst Wyrmling.md|Amethyst Wyrmling]]
 *Source: Strongholds and Followers p. 223*
 
 The renegades of the jeweled dragons, the amethyst dragons seek new knowledge and so manipulate mortals to do dangerous, even deadly things in order to push the boundary of the known.
@@ -27,6 +27,7 @@ When encountered, they are often conciliatory, deferent. They want to put you at
 "type": "dragon"
 "alignment": "Lawful Evil"
 "ac": !!int "17"
+"ac_class": "natural armor"
 "hp": !!int "36"
 "hit_dice": "8d8 + 0"
 "stats":
@@ -51,15 +52,16 @@ When encountered, they are often conciliatory, deferent. They want to put you at
 "cr": "3"
 "traits":
 - "desc": ". . [[/5. Mechanics/Rules/Variant Rules/Gemstone Dragon Psionics.md|Gemstone Dragon Psionics]].\
-    \ Charges: 8 • Recharge: dice: 1d4|avg (1d4) • Fracture: 7"
+    \ Charges: 8 • Recharge: dice: 1d4|avg|noform (1d4) • Fracture:\
+    \ 7"
   "name": ""
 - "desc": "Each time the dragon takes damage, all creatures within 30 feet must succeed\
-    \ on a DC 12 Intelligence saving throw or else take dice: 1d6|avg (1d6) psychic\
-    \ damage."
+    \ on a DC 12 Intelligence saving throw or else take dice:1d6|text(3) (1d6)\
+    \ psychic damage."
   "name": "Feedback Aura"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d10 + 2|avg (1d10 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d10 + 2|text(7) (1d10 + 2) piercing damage."
   "name": "Bite"
 "source":
 - "SaF"

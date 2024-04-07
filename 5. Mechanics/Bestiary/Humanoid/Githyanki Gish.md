@@ -14,7 +14,7 @@ statblock: inline
 aliases:
   - Githyanki Gish
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Githyanki Gish.md|Githyanki Gish]]
+# [[5. Mechanics/Bestiary/Humanoid/Githyanki Gish.md|Githyanki Gish]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 140, Mordenkainen's Tome of Foes p. 205*
 
 Gish blend their magical abilities with swordplay to become dangerous foes in battle. Their specialized capabilities make them well suited for assassination, raiding, and espionage.
@@ -30,6 +30,7 @@ Githyanki descend from an ancient people who were also the progenitors of githze
 "subtype": "gith, wizard"
 "alignment": "Any alignment"
 "ac": !!int "17"
+"ac_class": "[[5. Mechanics/Items/Half Plate Armor.md|half plate]]"
 "hp": !!int "130"
 "hit_dice": "20d8 + 40"
 "stats":
@@ -65,13 +66,13 @@ Githyanki descend from an ancient people who were also the progenitors of githze
 - "desc": "The githyanki makes three Longsword or Telekinetic Bolt attacks, or it\
     \ makes one of those attacks and uses Spellcasting."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) slashing damage, or dice: 1d10 + 3|avg\
-    \ (1d10 + 3) slashing damage if used with two hands, plus dice: 5d8|avg (5d8)\
-    \ psychic damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 3|text(7) (1d8 + 3) slashing damage, or dice:1d10 + 3|text(8)\
+    \ (1d10 + 3) slashing damage if used with two hands, plus dice:5d8|text(22)\
+    \ (5d8) psychic damage."
   "name": "Longsword"
-- "desc": "Ranged Spell Attack: dice: d20+7 (+7 to hit), range 120 ft., one target.\
-    \ Hit: dice: 8d6|avg (8d6) force damage."
+- "desc": "Ranged Spell Attack: dice: d20+7 (+7) to hit, range 120 ft., one\
+    \ target. Hit: dice:8d6|text(28) (8d6) force damage."
   "name": "Telekinetic Bolt"
 "bonus_actions":
 - "desc": "The githyanki teleports, along with any equipment it is wearing or carrying,\

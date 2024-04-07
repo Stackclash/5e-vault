@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Phantom Warrior
 ---
-# [[5. Mechanics\Bestiary\Undead\Phantom Warrior.md|Phantom Warrior]]
+# [[5. Mechanics/Bestiary/Undead/Phantom Warrior.md|Phantom Warrior]]
 *Source: Curse of Strahd p. 235*
 
 A phantom warrior is the spectral remnant of a willful soldier or knight who perished on the battlefield or died performing its sworn duty. It appears like a translucent version of its living self.
@@ -21,7 +21,7 @@ Although one is often mistaken for a ghost, a phantom warrior isn't bound by a y
 
 ## Faded Memories
 
-A phantom warrior retains the alignment and personality it had before it died, and it remembers how it died. Memories of its life from shortly before it died are hazy, and older memories are forgotten. A phantom warrior can usually remember the last `dice: 1d10 + 10|avg` (`1d10 + 10`) days of its life; everything that happened before that is an impenetrable fog.
+A phantom warrior retains the alignment and personality it had before it died, and it remembers how it died. Memories of its life from shortly before it died are hazy, and older memories are forgotten. A phantom warrior can usually remember the last `dice: 1d10 + 10|avg|noform` (`1d10 + 10`) days of its life; everything that happened before that is an impenetrable fog.
 
 ## Forceful Presence
 
@@ -65,7 +65,7 @@ A phantom warrior doesn't require air, food, drink, or sleep.
     \ on the Material Plane, and vice versa."
   "name": "Ethereal Sight"
 - "desc": "The phantom warrior can move through other creatures and objects as if\
-    \ they were difficult terrain. It takes dice: 1d10|avg (1d10) force damage\
+    \ they were difficult terrain. It takes dice:1d10|text(5) (1d10) force damage\
     \ if it ends its turn inside an object."
   "name": "Incorporeal Movement"
 - "desc": "The phantom warrior's AC accounts for its spectral armor and shield."
@@ -73,8 +73,8 @@ A phantom warrior doesn't require air, food, drink, or sleep.
 "actions":
 - "desc": "The phantom warrior makes two attacks with its spectral longsword."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) force damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 3|text(7) (1d8 + 3) force damage."
   "name": "Spectral Longsword"
 - "desc": "The phantom warrior enters the Ethereal Plane from the Material Plane,\
     \ or vice versa. It is visible on the Material Plane while it is in the Border\

@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Yochlol
 ---
-# [[5. Mechanics\Bestiary\Fiend\Yochlol.md|Yochlol]]
+# [[5. Mechanics/Bestiary/Fiend/Yochlol.md|Yochlol]]
 *Source: Monster Manual p. 65*
 
 The yochlols are the Handmaidens of Lolth-extensions of the Spider Queen's will dedicated to acting as her spies, taskmasters, and agents of villainy. They attend their goddess in the Demonweb Pits, but Lolth sometimes dispatches yochlols to the Material Plane to guard her temples and to aid her most devout priestesses. Yochlols don't form outside Lolth's realm of the Demonweb, and they serve no demon lords except their queen.
@@ -167,14 +167,14 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 > 
 > Some demons can have an action option that allows them to summon other demons. Summon Demon (1/Day). The demon chooses what to summon and attempts a magical summoning.
 > 
-> - A balor has a 50% chance chance of summoning `dice: 1d8|avg` (`1d8`) vrocks, `dice: 1d6|avg` (`1d6`) hezrous, `dice: 1d4|avg` (`1d4`) glabrezus, `dice: 1d3|avg` (`1d3`) nalfeshnees, `dice: 1d2|avg` (`1d2`) mariliths, or one goristro.  
+> - A balor has a 50% chance chance of summoning `dice: 1d8|avg|noform` (`1d8`) vrocks, `dice: 1d6|avg|noform` (`1d6`) hezrous, `dice: 1d4|avg|noform` (`1d4`) glabrezus, `dice: 1d3|avg|noform` (`1d3`) nalfeshnees, `dice: 1d2|avg|noform` (`1d2`) mariliths, or one goristro.  
 > - A barlgura has a 30% chance chance of summoning one barlgura.  
 > - A chasme has a 30% chance chance of summoning one chasme.  
-> - A glabrezu has a 30% chance chance of summoning `dice: 1d3|avg` (`1d3`) vrocks, `dice: 1d2|avg` (`1d2`) hezrous, or one glabrezu.  
-> - A hezrou has a 30% chance chance of summoning `dice: 2d6|avg` (`2d6`) dretches or one hezrou.  
-> - A marilith has a 50% chance chance of summoning `dice: 1d6|avg` (`1d6`) vrocks, `dice: 1d4|avg` (`1d4`) hezrous, `dice: 1d3|avg` (`1d3`) glabrezus, `dice: 1d2|avg` (`1d2`) nalfeshnees, or one marilith.  
-> - A nalfeshnee has a 50% chance chance of summoning `dice: 1d4|avg` (`1d4`) vrocks, `dice: 1d3|avg` (`1d3`) hezrous, `dice: 1d2|avg` (`1d2`) glabrezus, or one nalfeshnee.  
-> - A vrock has a 30% chance chance of summoning `dice: 2d4|avg` (`2d4`) dretches or one vrock.  
+> - A glabrezu has a 30% chance chance of summoning `dice: 1d3|avg|noform` (`1d3`) vrocks, `dice: 1d2|avg|noform` (`1d2`) hezrous, or one glabrezu.  
+> - A hezrou has a 30% chance chance of summoning `dice: 2d6|avg|noform` (`2d6`) dretches or one hezrou.  
+> - A marilith has a 50% chance chance of summoning `dice: 1d6|avg|noform` (`1d6`) vrocks, `dice: 1d4|avg|noform` (`1d4`) hezrous, `dice: 1d3|avg|noform` (`1d3`) glabrezus, `dice: 1d2|avg|noform` (`1d2`) nalfeshnees, or one marilith.  
+> - A nalfeshnee has a 50% chance chance of summoning `dice: 1d4|avg|noform` (`1d4`) vrocks, `dice: 1d3|avg|noform` (`1d3`) hezrous, `dice: 1d2|avg|noform` (`1d2`) glabrezus, or one nalfeshnee.  
+> - A vrock has a 30% chance chance of summoning `dice: 2d4|avg|noform` (`2d4`) dretches or one vrock.  
 > - A yochlol has a 50% chance chance of summoning one yochlol.  
 > 
 > A summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
@@ -192,6 +192,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "subtype": "demon, shapechanger"
 "alignment": "Chaotic Evil"
 "ac": !!int "15"
+"ac_class": "natural armor"
 "hp": !!int "136"
 "hit_dice": "16d8 + 64"
 "stats":
@@ -239,9 +240,9 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "actions":
 - "desc": "The yochlol makes two melee attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft. (10 feet\
-    \ in demon form), one target. Hit: dice: 1d6 + 2|avg (1d6 + 2) bludgeoning\
-    \ (piercing in spider form) damage plus dice: 6d6|avg (6d6) poison damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft. (10 feet\
+    \ in demon form), one target. Hit: dice:1d6 + 2|text(5) (1d6 + 2) bludgeoning\
+    \ (piercing in spider form) damage plus dice:6d6|text(21) (6d6) poison damage."
   "name": "Slam (Bite in Spider Form)"
 - "desc": "The yochlol transforms into toxic mist or reverts to its true form. Any\
     \ equipment it is wearing or carrying is also transformed. It reverts to its true\

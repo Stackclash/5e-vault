@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Guardian Naga
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Guardian Naga.md|Guardian Naga]]
+# [[5. Mechanics/Bestiary/Monstrosity/Guardian Naga.md|Guardian Naga]]
 *Source: Monster Manual p. 234. Available in the SRD.*
 
 Wise and good, the beautiful guardian nagas protect sacred places and items of magical power from falling into evil hands. In their hidden redoubts, they research spells and hatch convoluted plots to thwart the evil designs of their enemies.
@@ -45,6 +45,7 @@ A naga doesn't require air, food, drink, or sleep.
 "type": "monstrosity"
 "alignment": "Lawful Good"
 "ac": !!int "18"
+"ac_class": "natural armor"
 "hp": !!int "127"
 "hit_dice": "15d10 + 45"
 "stats":
@@ -68,7 +69,7 @@ A naga doesn't require air, food, drink, or sleep.
 "cr": "10"
 "traits":
 - "desc": "The naga is an 11th-level spellcaster. Its spellcasting ability is Wisdom\
-    \ (spell save DC 16, dice: d20+8 (+8 to hit) with spell attacks), and it needs\
+    \ (spell save DC 16, dice: d20+8 (+8) to hit with spell attacks), and it needs\
     \ only verbal components to cast its spells. It has the following cleric spells\
     \ prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Mending.md|mending]],\
     \ [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
@@ -81,20 +82,20 @@ A naga doesn't require air, food, drink, or sleep.
     \n5th level (2 slots): [[5. Mechanics/Spells/Flame Strike.md|flame strike]],\
     \ [[5. Mechanics/Spells/Geas.md|geas]]\n\n6th level (1 slots): [[5. Mechanics/Spells/True Seeing.md|true seeing]]"
   "name": "spells"
-- "desc": "If it dies, the naga returns to life in dice: 1d6|avg (1d6) days and\
-    \ regains all its hit points. Only a [[5. Mechanics/Spells/Wish.md|wish]] spell can\
-    \ prevent this trait from functioning."
+- "desc": "If it dies, the naga returns to life in dice: 1d6|avg|noform (1d6)\
+    \ days and regains all its hit points. Only a [[5. Mechanics/Spells/Wish.md|wish]]\
+    \ spell can prevent this trait from functioning."
   "name": "Rejuvenation"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one creature.\
-    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) piercing damage, and the target must\
-    \ make a DC 15 Constitution saving throw, taking dice: 10d8|avg (10d8) poison\
-    \ damage on a failed save, or half as much damage on a successful one."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 10 ft., one creature.\
+    \ Hit: dice:1d8 + 4|text(8) (1d8 + 4) piercing damage, and the target must\
+    \ make a DC 15 Constitution saving throw, taking dice:10d8|text(45) (10d8)\
+    \ poison damage on a failed save, or half as much damage on a successful one."
   "name": "Bite"
-- "desc": "Ranged Weapon Attack: dice: d20+8 (+8 to hit), range 15/30 ft., one\
+- "desc": "Ranged Weapon Attack: dice: d20+8 (+8) to hit, range 15/30 ft., one\
     \ creature. Hit: The target must make a DC 15 Constitution saving throw, taking\
-    \ dice: 10d8|avg (10d8) poison damage on a failed save, or half as much damage\
-    \ on a successful one."
+    \ dice:10d8|text(45) (10d8) poison damage on a failed save, or half as much\
+    \ damage on a successful one."
   "name": "Spit Poison"
 "source":
 - "MM"

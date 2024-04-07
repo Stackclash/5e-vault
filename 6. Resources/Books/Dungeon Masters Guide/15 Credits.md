@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Credits"]
+  - compendium/src/5e/dmg
+aliases:
+  - Credits
 ---
 # Credits
 *Source: Dungeon Master's Guide* 

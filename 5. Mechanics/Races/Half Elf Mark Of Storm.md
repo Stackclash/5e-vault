@@ -35,7 +35,7 @@ You have advantage on saving throws against being [[/5. Mechanics/Rules/Conditio
 
 ### Windwright's Intuition
 
-When you make a Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]]) check or any ability check involving [[5. Mechanics/Items/Navigators Tools.md\|navigator's tools]], you can roll a `dice: d4|avg` (`d4`) and add the number rolled to the ability check.
+When you make a Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]]) check or any ability check involving [[5. Mechanics/Items/Navigators Tools.md\|navigator's tools]], you can roll a `dice: d4|avg|noform` (`d4`) and add the number rolled to the ability check.
 
 ### Languages
 

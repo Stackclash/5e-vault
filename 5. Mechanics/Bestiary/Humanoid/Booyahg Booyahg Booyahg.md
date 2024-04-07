@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/vgm
-- monster/cr/6
-- monster/size/medium
-- monster/type/humanoid/any-race
+  - compendium/src/5e/vgm
+  - monster/cr/6
+  - monster/size/medium
+  - monster/type/humanoid/any-race
 statblock: inline
-aliases: ["Booyahg Booyahg Booyahg"]
+aliases:
+  - Booyahg Booyahg Booyahg
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Booyahg Booyahg Booyahg.md|Booyahg Booyahg Booyahg]]
+# [[5. Mechanics/Bestiary/Humanoid/Booyahg Booyahg Booyahg.md|Booyahg Booyahg Booyahg]]
 *Source: Volo's Guide to Monsters p. 43*
 
 This goblin is a sorcerer with the wild magic origin whose every casting, including cantrips, is accompanied by a wild magic surge. Each time the goblin casts a spell, there is an accompanying surge of wild magic; roll on the [[5. Mechanics/Tables/Wild Magic Surge.md|Wild Magic Surge]] table in the "Player's Handbook" to determine the wild magic effect.
@@ -29,6 +30,7 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "12"
+"ac_class": "15 with [[5. Mechanics/Spells/Mage Armor.md|mage armor]]"
 "hp": !!int "40"
 "hit_dice": "9d8"
 "stats":
@@ -50,7 +52,7 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
 "cr": "6"
 "traits":
 - "desc": "The goblin is a 9th-level spellcaster. Its spellcasting ability is Intelligence\
-    \ (spell save DC 14, dice: d20+6 (+6 to hit) with spell attacks). The goblin\
+    \ (spell save DC 14, dice: d20+6 (+6) to hit with spell attacks). The goblin\
     \ has the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]],\
     \ [[5. Mechanics/Spells/Light.md|light]], [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
     \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n1st level (4\
@@ -68,8 +70,8 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
     \ table in the \"Player's Handbook\" to determine the wild magic effect."
   "name": "Wild Magic"
 "actions":
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing\
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: dice:1d4 + 2|text(4) (1d4 + 2) piercing\
     \ damage."
   "name": "Dagger"
 "source":

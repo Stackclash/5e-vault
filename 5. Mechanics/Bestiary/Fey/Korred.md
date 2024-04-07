@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Korred
 ---
-# [[5. Mechanics\Bestiary\Fey\Korred.md|Korred]]
+# [[5. Mechanics/Bestiary/Fey/Korred.md|Korred]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 166, Volo's Guide to Monsters p. 168*
 
 Korreds are unpredictable, secretive Fey with strong ties to earth and stone. Because of their magical hair and mystical understanding of minerals, they are sought after by treasure-hunting dwarves and others who desire wealth beneath the earth.
@@ -30,6 +30,7 @@ Korreds have hair all over their bodies, but the hair that grows from their head
 "type": "fey"
 "alignment": "Typically  Chaotic Neutral"
 "ac": !!int "17"
+"ac_class": "natural armor"
 "hp": !!int "93"
 "hit_dice": "11d6 + 55"
 "stats":
@@ -61,13 +62,14 @@ Korreds have hair all over their bodies, but the hair that grows from their head
 "actions":
 - "desc": "The korred makes two Greatclub or Rock attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 6|avg (1d8 + 6) bludgeoning damage, or dice: 3d8 + 6|avg\
-    \ (3d8 + 6) bludgeoning damage if the korred is on the ground."
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 6|text(10) (1d8 + 6) bludgeoning damage, or dice:3d8\
+    \ + 6|text(19) (3d8 + 6) bludgeoning damage if the korred is on the ground."
   "name": "Greatclub"
-- "desc": "Ranged Weapon Attack: dice: d20+9 (+9 to hit), range 60/120 ft., one\
-    \ target. Hit: dice: 1d8 + 6|avg (1d8 + 6) bludgeoning damage, or dice:\
-    \ 3d8 + 6|avg (3d8 + 6) bludgeoning damage if the korred is on the ground."
+- "desc": "Ranged Weapon Attack: dice: d20+9 (+9) to hit, range 60/120 ft.,\
+    \ one target. Hit: dice:1d8 + 6|text(10) (1d8 + 6) bludgeoning damage, or\
+    \ dice:3d8 + 6|text(19) (3d8 + 6) bludgeoning damage if the korred is on the\
+    \ ground."
   "name": "Rock"
 "bonus_actions":
 - "desc": "The korred has at least one 50-foot-long rope woven out of its hair. The\

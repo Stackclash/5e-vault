@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Death Slaad
 ---
-# [[5. Mechanics\Bestiary\Aberration\Death Slaad.md|Death Slaad]]
+# [[5. Mechanics/Bestiary/Aberration/Death Slaad.md|Death Slaad]]
 *Source: Monster Manual p. 278, Curse of Strahd, Tasha's Cauldron of Everything*
 
 Death slaadi are suffused with energy from the Negative Energy Plane and exemplify evil's corruption of chaos, and they take sadistic pleasure in bringing harm to others. They propagate their race by dragooning mobs of red and blue slaadi and invading other planes. Humanoids who survive the incursion become incubators for new slaadi.
@@ -45,7 +45,7 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 > 
 > A [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]] spell cast on the slaad destroys the gem without harming the slaad.
 > 
-> Someone who is proficient in Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) can remove the gem from an [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) check. Each failed attempt deals `dice: 4d10|avg` (`4d10`) psychic damage to the slaad.
+> Someone who is proficient in Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) can remove the gem from an [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) check. Each failed attempt deals `dice:4d10|text(22)` (`4d10`) psychic damage to the slaad.
 ^variant-slaad-control-gems
 
 > [!quote]-  
@@ -60,6 +60,7 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 "subtype": "shapechanger"
 "alignment": "Chaotic Evil"
 "ac": !!int "18"
+"ac_class": "natural armor"
 "hp": !!int "170"
 "hit_dice": "20d8 + 80"
 "stats":
@@ -79,8 +80,8 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 "cr": "10"
 "traits":
 - "desc": "The slaad's innate spellcasting ability is Charisma (spell save DC 15,\
-    \ dice: d20+7 (+7 to hit) with spell attacks). The slaad can innately cast the\
-    \ following spells, requiring no material components:\n\nAt will: [detect\
+    \ dice: d20+7 (+7) to hit with spell attacks). The slaad can innately cast\
+    \ the following spells, requiring no material components:\n\nAt will: [detect\
     \ magic](compendium/spells/detect-magic.md), [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
     \ [[5. Mechanics/Spells/Invisibility.md|invisibility]] (self only), [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
     \ [[5. Mechanics/Spells/Major Image.md|major image]]\n\n1/day each: [[5. Mechanics/Spells/Cloudkill.md|cloudkill]],\
@@ -105,16 +106,16 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 - "desc": "The slaad makes three attacks: one with its bite and two with its claws\
     \ or greatsword."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 5|avg (1d8 + 5) piercing damage plus dice: 2d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 5|text(9) (1d8 + 5) piercing damage plus dice:2d6|text(7)\
     \ (2d6) necrotic damage."
   "name": "Bite (Slaad Form Only)"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d10 + 5|avg (1d10 + 5) slashing damage plus dice: 2d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d10 + 5|text(10) (1d10 + 5) slashing damage plus dice:2d6|text(7)\
     \ (2d6) necrotic damage."
   "name": "Claws (Slaad Form Only)"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 5|avg (2d6 + 5) slashing damage plus dice: 2d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 5|text(12) (2d6 + 5) slashing damage plus dice:2d6|text(7)\
     \ (2d6) necrotic damage."
   "name": "Greatsword"
 "source":

@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Young Black Dragon
 ---
-# [[5. Mechanics\Bestiary\Dragon\Young Black Dragon.md|Young Black Dragon]]
+# [[5. Mechanics/Bestiary/Dragon/Young Black Dragon.md|Young Black Dragon]]
 *Source: Monster Manual p. 88. Available in the SRD.*
 
 The most evil-tempered and vile of the chromatic dragons, black dragons collect the wreckage and treasures of fallen peoples. These dragons loathe seeing the weak prosper and revel in the collapse of humanoid kingdoms. They make their homes in fetid swamps and crumbling ruins where kingdoms once stood.
@@ -96,6 +96,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 "type": "dragon"
 "alignment": "Chaotic Evil"
 "ac": !!int "18"
+"ac_class": "natural armor"
 "hp": !!int "127"
 "hit_dice": "15d10 + 45"
 "stats":
@@ -124,15 +125,15 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 "actions":
 - "desc": "The dragon makes three attacks: one with its bite and two with its claws."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d10 + 4|avg (2d10 + 4) piercing damage plus dice: 1d8|avg\
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 10 ft., one target.\
+    \ Hit: dice:2d10 + 4|text(15) (2d10 + 4) piercing damage plus dice:1d8|text(4)\
     \ (1d8) acid damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) slashing damage."
   "name": "Claw"
 - "desc": "The dragon exhales acid in a 30-foot line that is 5 feet wide. Each creature\
-    \ in that line must make a DC 14 Dexterity saving throw, taking dice: 11d8|avg\
+    \ in that line must make a DC 14 Dexterity saving throw, taking dice:11d8|text(49)\
     \ (11d8) acid damage on a failed save, or half as much damage on a successful\
     \ one."
   "name": "Acid Breath (Recharge 5-6)"

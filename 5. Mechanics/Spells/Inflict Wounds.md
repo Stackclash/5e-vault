@@ -12,7 +12,6 @@ aliases:
   - Inflict Wounds
 ---
 # Inflict Wounds
-%%-- Embedded content starts on the next line. --%%
 *1st-level, Necromancy*  
 
 - **Casting time:** 1 action
@@ -20,9 +19,9 @@ aliases:
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-Make a melee spell attack against a creature you can reach. On a hit, the target takes `dice: 3d10|avg` (`3d10`) necrotic damage.
+Make a melee spell attack against a creature you can reach. On a hit, the target takes `dice: 3d10|avg|noform` (`3d10`) necrotic damage.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st.
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by `1d10` for each slot level above 1st.
 
 **Classes**: [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Paladin Oathbreaker.md\|Paladin (Oathbreaker)]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]]
 

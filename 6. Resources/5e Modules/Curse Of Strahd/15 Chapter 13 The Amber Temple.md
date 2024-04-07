@@ -166,7 +166,7 @@ Set into the middle of the temple's north wall is a secret door. A character who
 
 ### X5c. Locked Doors
 
-These amber doors are sealed with an [[5. Mechanics/Spells/Arcane Lock.md\|arcane lock]] spell. The password to suppress it is "Etherna." A character can push open the doors with a successful DC 25 Strength check. The doors (AC 15, 60 hit points) can also be smashed. If they are reduced to 0 hit points, necrotic energy fills the 30-foot cube directly north of the them. A creature in that area takes `dice: 4d10|avg` (`4d10`) necrotic damage, turning to dust if reduced to 0 hit points. Beyond the doors lie the temple catacombs (area X31).
+These amber doors are sealed with an [[5. Mechanics/Spells/Arcane Lock.md\|arcane lock]] spell. The password to suppress it is "Etherna." A character can push open the doors with a successful DC 25 Strength check. The doors (AC 15, 60 hit points) can also be smashed. If they are reduced to 0 hit points, necrotic energy fills the 30-foot cube directly north of the them. A creature in that area takes `dice:4d10|text(22)` (`4d10`) necrotic damage, turning to dust if reduced to 0 hit points. Beyond the doors lie the temple catacombs (area X31).
 
 ### X5d. Amber Reflections
 
@@ -596,7 +596,7 @@ Several of these amber-glazed rooms are located along the periphery of the compl
 
 #### X33a. Vault of Shalx
 
-The amber door to this room is sealed with an [[5. Mechanics/Spells/Arcane Lock.md\|arcane lock]] spell. The password to suppress the spell is "Shalx." A character can push open the doors with a successful DC 25 Strength check. The door (AC 15, 30 hit points) can also be smashed. If the door is reduced to 0 hit points, necrotic energy fills the 30-foot cube directly in front of it. A creature in the area takes `dice: 4d10|avg` (`4d10`) necrotic damage, turning to dust and bones if reduced to 0 hit points.
+The amber door to this room is sealed with an [[5. Mechanics/Spells/Arcane Lock.md\|arcane lock]] spell. The password to suppress the spell is "Shalx." A character can push open the doors with a successful DC 25 Strength check. The door (AC 15, 30 hit points) can also be smashed. If the door is reduced to 0 hit points, necrotic energy fills the 30-foot cube directly in front of it. A creature in the area takes `dice:4d10|text(22)` (`4d10`) necrotic damage, turning to dust and bones if reduced to 0 hit points.
 
 Adjust the following text if the creatures in this room have already been encountered and destroyed.
 
@@ -924,7 +924,7 @@ Six piles of treasure are numbered on the map.
 
 #### Fortunes of Ravenloft
 
-If your card reading reveals that a treasure is here, it's buried in a random pile of treasure (roll a `dice: d6|avg` (`d6`)).
+If your card reading reveals that a treasure is here, it's buried in a random pile of treasure (roll a `dice: d6|avg|noform` (`d6`)).
 
 ### X41. Fissure
 

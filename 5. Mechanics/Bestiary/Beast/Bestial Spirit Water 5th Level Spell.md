@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - 'Bestial Spirit (Water, 5th-Level Spell)'
 ---
-# [[5. Mechanics\Bestiary\Beast\Bestial Spirit Water 5th Level Spell.md|Bestial Spirit (Water, 5th-Level Spell)]]
+# [[5. Mechanics/Bestiary/Beast/Bestial Spirit Water 5th Level Spell.md|Bestial Spirit (Water, 5th-Level Spell)]]
 *Source: Tasha's Cauldron of Everything p. 109*
 
 ```statblock
@@ -19,6 +19,7 @@ aliases:
 "type": "beast"
 "alignment": "Unaligned"
 "ac": !!int "16"
+"ac_class": "natural armor"
 "hp": !!int "45"
 "stats":
 - !!int "18"

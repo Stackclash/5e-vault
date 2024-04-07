@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Warhorse Skeleton
 ---
-# [[5. Mechanics\Bestiary\Undead\Warhorse Skeleton.md|Warhorse Skeleton]]
+# [[5. Mechanics/Bestiary/Undead/Warhorse Skeleton.md|Warhorse Skeleton]]
 *Source: Monster Manual p. 273, Curse of Strahd. Available in the SRD.*
 
 Skeletons arise when animated by dark magic. They heed the summons of spellcasters who call them from their stony tombs and ancient battlefields, or rise of their own accord in places saturated with death and loss, awakened by stirrings of necromantic energy or the presence of corrupting evil.
@@ -45,6 +45,7 @@ A skeleton doesn't require air, food, drink, or sleep.
 "type": "undead"
 "alignment": "Lawful Evil"
 "ac": !!int "13"
+"ac_class": "barding scraps"
 "hp": !!int "22"
 "hit_dice": "3d10 + 6"
 "stats":
@@ -63,8 +64,8 @@ A skeleton doesn't require air, food, drink, or sleep.
 "languages": ""
 "cr": "1/2"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) bludgeoning damage."
   "name": "Hooves"
 "source":
 - "MM"

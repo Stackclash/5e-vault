@@ -14,7 +14,7 @@ statblock: inline
 aliases:
   - Couatl
 ---
-# [[5. Mechanics\Bestiary\Celestial\Couatl.md|Couatl]]
+# [[5. Mechanics/Bestiary/Celestial/Couatl.md|Couatl]]
 *Source: Monster Manual p. 43. Available in the SRD.*
 
 Couatls are benevolent serpentine beings of great intellect and insight. Their brilliantly colored wings and gentle manner speak to their celestial origins.
@@ -39,6 +39,7 @@ The mating ritual of couatls is a beautiful and elaborate dance of magic and lig
 "type": "celestial"
 "alignment": "Lawful Good"
 "ac": !!int "19"
+"ac_class": "natural armor"
 "hp": !!int "97"
 "hit_dice": "13d8 + 39"
 "stats":
@@ -76,16 +77,16 @@ The mating ritual of couatls is a beautiful and elaborate dance of magic and lig
     \ emotions, read its thoughts, or detect its location."
   "name": "Shielded Mind"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 1d6 + 5|avg (1d6 + 5) piercing damage, and the target must\
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one creature.\
+    \ Hit: dice:1d6 + 5|text(8) (1d6 + 5) piercing damage, and the target must\
     \ succeed on a DC 13 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
     \ for 24 hours. Until this poison ends, the target is [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]].\
     \ Another creature can use an action to shake the target awake."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 10 ft., one Medium\
-    \ or smaller creature. Hit: dice: 2d6 + 3|avg (2d6 + 3) bludgeoning damage,\
-    \ and the target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape\
-    \ DC 15). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 10 ft., one Medium\
+    \ or smaller creature. Hit: dice:2d6 + 3|text(10) (2d6 + 3) bludgeoning\
+    \ damage, and the target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ (escape DC 15). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
     \ and the couatl can't constrict another target."
   "name": "Constrict"
 - "desc": "The couatl magically polymorphs into a humanoid or beast that has a challenge\

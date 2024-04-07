@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Creating Nonplayer Characters"]
+  - compendium/src/5e/dmg
+aliases:
+  - Creating Nonplayer Characters
 ---
 # Creating Nonplayer Characters
 *Source: Dungeon Master's Guide, p. 88* 
@@ -71,7 +72,7 @@ In one sentence, describe one mannerism that will help players remember the NPC.
 
 In one sentence, describe how the NPC interacts with others, using the NPC Interaction Traits table if necessary. An NPC's behavior can change depending on who he or she is interacting with. For example, an innkeeper might be friendly toward guests and rude to her staff.
 
-![Interactions with Others; NPC Interaction Traits](compendium/tables/interactions-with-others-npc-interaction-traits.md)
+![[5. Mechanics/Tables/Interactions With Others Npc Interaction Traits.md\|Interactions with Others; NPC Interaction Traits]]
 
 #### Useful Knowledge
 
@@ -99,7 +100,7 @@ In one sentence, describe the NPC's flaw-some element of the character's persona
 
 The NPC Flaws and Secrets table provides several ideas. The backgrounds in the *Player's Handbook* can be used to create more detailed flaws. Player characters who uncover an NPC'sflaw or secret can use what they've learned to influence the NPC in a social interaction (as discussed in chapter 8).
 
-![Flaw or Secret; NPC Flaws and Secrets](compendium/tables/flaw-or-secret-npc-flaws-and-secrets.md)
+![[5. Mechanics/Tables/Flaw Or Secret Npc Flaws And Secrets.md\|Flaw or Secret; NPC Flaws and Secrets]]
 
 ### Monsters as NPCs
 
@@ -175,9 +176,9 @@ An NPC's loyalty is measured on a numerical scale from 0 to 20. The NPC's maximu
 
 Keep track of an NPC's loyalty score in secret so that the players won't know for sure whether an NPC party member is loyal or disloyal (even if the NPC is currently under a player's control).
 
-An NPC's loyalty score increases by `dice: 1d4|avg` (`1d4`) if other party members help the NPC achieve a goal tied to its bond. Likewise, an NPC's loyalty score increases by `dice: 1d4|avg` (`1d4`) if the NPC is treated particularly well (for example, given a magic weapon as a gift) or rescued by another party member. An NPC's loyalty score can never be raised above its maximum.
+An NPC's loyalty score increases by `dice: 1d4|avg|noform` (`1d4`) if other party members help the NPC achieve a goal tied to its bond. Likewise, an NPC's loyalty score increases by `dice: 1d4|avg|noform` (`1d4`) if the NPC is treated particularly well (for example, given a magic weapon as a gift) or rescued by another party member. An NPC's loyalty score can never be raised above its maximum.
 
-When other party members act in a manner that runs counter to the NPC's alignment or bond, reduce the NPC's loyalty score by `dice: 1d4|avg` (`1d4`). Reduce the NPC's loyalty score by `dice: 2d4|avg` (`2d4`) if the character is abused, misled, or endangered by other party members for purely selfish reasons.
+When other party members act in a manner that runs counter to the NPC's alignment or bond, reduce the NPC's loyalty score by `dice: 1d4|avg|noform` (`1d4`). Reduce the NPC's loyalty score by `dice: 2d4|avg|noform` (`2d4`) if the character is abused, misled, or endangered by other party members for purely selfish reasons.
 
 An NPC whose loyalty score drops to 0 is no longer loyal to the party and might part ways with them. A loyalty score can never drop below 0.
 
@@ -215,15 +216,15 @@ Whenever extras are present, be prepared to come up with names and mannerisms on
 
 By their actions, villains provide job security for heroes. Chapter 3 helps you determine suitable villains for your adventures, while this section helps you flesh out their evil schemes, methods, and weaknesses. Let the tables that follow inspire you.
 
-![Villains; Villain's Scheme](compendium/tables/villains-villains-scheme.md)
+![[5. Mechanics/Tables/Villains Villains Scheme.md\|Villains; Villain's Scheme]]
 
-![Villains; Villain's Methods](compendium/tables/villains-villains-methods.md)
+![[5. Mechanics/Tables/Villains Villains Methods.md\|Villains; Villain's Methods]]
 
 ### Villain's Secret Weakness
 
 Finding and exploiting a villain's weakness can be very gratifying for players, although a smart villain tries to conceal its weakness. A lich, for example, has a phylactery-a magical receptacle for its soul-that it keeps well hidden. Only by destroying the phylactery can the characters ensure the lich's destruction.
 
-![Villain's Secret Weakness; Villain's Weakness](compendium/tables/villains-secret-weakness-villains-weakness.md)
+![[5. Mechanics/Tables/Villains Secret Weakness Villains Weakness.md\|Villain's Secret Weakness; Villain's Weakness]]
 
 ## Villainous Class Options
 

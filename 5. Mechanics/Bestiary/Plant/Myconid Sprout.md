@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Myconid Sprout
 ---
-# [[5. Mechanics\Bestiary\Plant\Myconid Sprout.md|Myconid Sprout]]
+# [[5. Mechanics/Bestiary/Plant/Myconid Sprout.md|Myconid Sprout]]
 *Source: Monster Manual p. 230*
 
 Myconids are intelligent, ambulatory fungi that live in the Underdark, seek enlightenment, and deplore violence. If approached peacefully, myconids gladly provide shelter or allow safe passage through their colonies.
@@ -54,8 +54,8 @@ Like other fungi, myconids reproduce by mundane sporing. They carefully control 
     \ direct sunlight."
   "name": "Sun Sickness"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+1 (+1 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 - 1|avg (1d4 - 1) bludgeoning damage plus dice: 1d4|avg\
+- "desc": "Melee Weapon Attack: dice: d20+1 (+1) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d4 - 1|text(1) (1d4 - 1) bludgeoning damage plus dice:1d4|text(2)\
     \ (1d4) poison damage."
   "name": "Fist"
 - "desc": "A 10-foot radius of spores extends from the myconid. These spores can go\

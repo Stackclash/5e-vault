@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Tortle
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Tortle.md|Tortle]]
+# [[5. Mechanics/Bestiary/Humanoid/Tortle.md|Tortle]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 244, Mordenkainen's Tome of Foes p. 242*
 
 The generic tortle stat block here represents a warrior, especially the sort who travels far and wide.
@@ -28,6 +28,7 @@ Most tortles like to see how other folk live. A tortle can spend decades away fr
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "17"
+"ac_class": "natural armor"
 "hp": !!int "22"
 "hit_dice": "4d8 + 4"
 "stats":
@@ -48,16 +49,16 @@ Most tortles like to see how other folk live. A tortle can spend decades away fr
 - "desc": "The tortle can hold its breath for 1 hour."
   "name": "Hold Breath"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d4 + 2|text(4) (1d4 + 2) slashing damage."
   "name": "Claw"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing\
-    \ damage, or dice: 1d8 + 2|avg (1d8 + 2) piercing damage if used with two\
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: dice:1d6 + 2|text(5) (1d6 + 2) piercing\
+    \ damage, or dice:1d8 + 2|text(6) (1d8 + 2) piercing damage if used with two\
     \ hands in melee."
   "name": "Spear"
-- "desc": "Ranged Weapon Attack: dice: d20+2 (+2 to hit), range 80/320 ft., one\
-    \ target. Hit: dice: 1d8|avg (1d8) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+2 (+2) to hit, range 80/320 ft.,\
+    \ one target. Hit: dice:1d8|text(4) (1d8) piercing damage."
   "name": "Light Crossbow"
 - "desc": "The tortle withdraws into its shell. Until it emerges, it gains a +4 bonus\
     \ to AC and has advantage on Strength and Constitution saving throws. While in\

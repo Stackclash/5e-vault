@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Alkilith
 ---
-# [[5. Mechanics\Bestiary\Fiend\Alkilith.md|Alkilith]]
+# [[5. Mechanics/Bestiary/Fiend/Alkilith.md|Alkilith]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 44, Mordenkainen's Tome of Foes p. 130*
 
 An alkilith is easily mistaken for some kind of foul fungal growth that appears on doorways, windows, and other portals. These dripping infestations conceal the demonic nature of the alkilith, making what should be a dire warning appear strange but otherwise innocuous. Wherever alkiliths take root, they weaken the fabric of reality, creating a portal through which even nastier demons can invade.
@@ -28,6 +28,7 @@ Alkiliths spring from cast-off bits of the hideous, shuddering body of Juiblex. 
 "subtype": "demon"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "17"
+"ac_class": "natural armor"
 "hp": !!int "168"
 "hit_dice": "16d8 + 96"
 "stats":
@@ -53,8 +54,8 @@ Alkiliths spring from cast-off bits of the hideous, shuddering body of Juiblex. 
 "cr": "11"
 "traits":
 - "desc": "If the alkilith surrounds a door, window, or similar opening continuously\
-    \ for dice: 6d6|avg (6d6) days, the opening becomes a permanent portal to\
-    \ a random layer of the Abyss."
+    \ for dice: 6d6|avg|noform (6d6) days, the opening becomes a permanent portal\
+    \ to a random layer of the Abyss."
   "name": "Abyssal Rift"
 - "desc": "The alkilith can move through a space as narrow as 1 inch wide without\
     \ squeezing."
@@ -84,8 +85,8 @@ Alkiliths spring from cast-off bits of the hideous, shuddering body of Juiblex. 
 "actions":
 - "desc": "The alkilith makes three Tentacle attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 15 ft., one target.\
-    \ Hit: dice: 4d6 + 4|avg (4d6 + 4) acid damage."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 15 ft., one target.\
+    \ Hit: dice:4d6 + 4|text(18) (4d6 + 4) acid damage."
   "name": "Tentacle"
 "source":
 - "MPMM"

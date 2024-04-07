@@ -14,7 +14,6 @@ aliases:
   - Knock
 ---
 # Knock
-%%-- Embedded content starts on the next line. --%%
 *2nd-level, Transmutation*  
 
 - **Casting time:** 1 action

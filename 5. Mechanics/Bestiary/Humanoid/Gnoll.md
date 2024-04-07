@@ -14,7 +14,7 @@ statblock: inline
 aliases:
   - Gnoll
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Gnoll.md|Gnoll]]
+# [[5. Mechanics/Bestiary/Humanoid/Gnoll.md|Gnoll]]
 *Source: Monster Manual p. 163, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*
 
 Gnolls are feral humanoids that attack settlements along the frontiers and borderlands of civilization without warning, slaughtering their victims and devouring their flesh.
@@ -40,6 +40,7 @@ No goodness or compassion resides in the heart of a gnoll. Like a demon, it lack
 "subtype": "gnoll"
 "alignment": "Chaotic Evil"
 "ac": !!int "15"
+"ac_class": "[[5. Mechanics/Items/Hide Armor.md|hide armor]], [[5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "22"
 "hit_dice": "5d8"
 "stats":
@@ -59,16 +60,16 @@ No goodness or compassion resides in the heart of a gnoll. Like a demon, it lack
     \ make a bite attack."
   "name": "Rampage"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one creature.\
+    \ Hit: dice:1d4 + 2|text(4) (1d4 + 2) piercing damage."
   "name": "Bite"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing\
-    \ damage, or dice: 1d8 + 2|avg (1d8 + 2) piercing damage if used with two\
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: dice:1d6 + 2|text(5) (1d6 + 2) piercing\
+    \ damage, or dice:1d8 + 2|text(6) (1d8 + 2) piercing damage if used with two\
     \ hands to make a melee attack."
   "name": "Spear"
-- "desc": "Ranged Weapon Attack: dice: d20+3 (+3 to hit), range 150/600 ft., one\
-    \ target. Hit: dice: 1d8 + 1|avg (1d8 + 1) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+3 (+3) to hit, range 150/600 ft.,\
+    \ one target. Hit: dice:1d8 + 1|text(5) (1d8 + 1) piercing damage."
   "name": "Longbow"
 "source":
 - "MM"

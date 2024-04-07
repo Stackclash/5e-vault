@@ -35,7 +35,7 @@ Your base walking speed increases to 35 feet.
 
 ### Intuitive Motion
 
-When you make a Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]]) check or any ability check to operate or maintain a land vehicle, you can roll a `dice: d4|avg` (`d4`) and add the number rolled to the ability check.
+When you make a Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]]) check or any ability check to operate or maintain a land vehicle, you can roll a `dice: d4|avg|noform` (`d4`) and add the number rolled to the ability check.
 
 ### Magical Passage
 

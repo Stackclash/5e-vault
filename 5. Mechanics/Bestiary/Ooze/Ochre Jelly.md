@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Ochre Jelly
 ---
-# [[5. Mechanics\Bestiary\Ooze\Ochre Jelly.md|Ochre Jelly]]
+# [[5. Mechanics/Bestiary/Ooze/Ochre Jelly.md|Ochre Jelly]]
 *Source: Monster Manual p. 243, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*
 
 Ochre jellies are yellowish blobs that can slide under doors and through narrow cracks in pursuit of creatures to devour. They have enough bestial cunning to avoid large groups of enemies.
@@ -75,8 +75,8 @@ An ooze doesn't require sleep.
     \ without needing to make an ability check."
   "name": "Spider Climb"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 2|avg (2d6 + 2) bludgeoning damage plus dice: 1d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 2|text(9) (2d6 + 2) bludgeoning damage plus dice:1d6|text(3)\
     \ (1d6) acid damage."
   "name": "Pseudopod"
 "reactions":

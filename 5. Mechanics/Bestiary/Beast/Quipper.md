@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Quipper
 ---
-# [[5. Mechanics\Bestiary\Beast\Quipper.md|Quipper]]
+# [[5. Mechanics/Bestiary/Beast/Quipper.md|Quipper]]
 *Source: Monster Manual p. 335. Available in the SRD and the Basic Rules.*
 
 A quipper is a carnivorous fish with sharp teeth.
@@ -44,7 +44,7 @@ Quippers can adapt to any aquatic environment, including cold subterranean lakes
 - "desc": "The quipper can breathe only underwater."
   "name": "Water Breathing"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
     \ Hit: 1 piercing damage."
   "name": "Bite"
 "source":

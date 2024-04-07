@@ -312,6 +312,15 @@ With this option, a creature uses the special [[/5. Mechanics/Rules/Actions.md#s
 
 This action is an optional addition to the game, from the optional/variant rule [[/5. Mechanics/Rules/Variant Rules/Action Options.md\|Action Options]].
 
+## Stabilize a Creature
+_Source: Player's Handbook p. 197. Available in the SRD and the Basic Rules._
+
+- **Duration**: 1 action
+
+You can use your action to administer first aid to an [[/5. Mechanics/Rules/Conditions.md#unconscious\|unconscious]] creature and attempt to stabilize it, which requires a successful DC 10 Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine\|Medicine]]) check.
+
+A stable creature doesn't make death saving throws, even though it has 0 hit points, but it does remain [[/5. Mechanics/Rules/Conditions.md#unconscious\|unconscious]]. The creature stops being stable, and must start making death saving throws again, if it takes any damage. A stable creature that isn't healed regains 1 hit point after `dice: 1d4|avg|noform` (`1d4`) hours.
+
 ## Tumble
 _Source: Dungeon Master's Guide p. 272_
 

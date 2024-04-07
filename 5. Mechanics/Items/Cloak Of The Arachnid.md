@@ -21,7 +21,7 @@ Each of these legs has a reach roughly equal to the length of one of your legs, 
 
 - You have a climb speed equal to your movement speed and you can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check. In addition, because your spider legs do the climbing for you, you retain use of both of your normal hands even while climbing.  
 - You ignore movement restrictions caused by webbing and you may cast the [[5. Mechanics/Spells/Web.md\|web]] spell at will.  
-- You may use your bonus action to make an unarmed strike with your spider legs at a target adjacent to you. This attack deals `dice: 1d8|avg` (`1d8`) + your Strength modifier in slashing damage, instead of the bludgeoning damage normal for an unarmed strike.  
+- You may use your bonus action to make an unarmed strike with your spider legs at a target adjacent to you. This attack deals `dice: 1d8|avg|noform` (`1d8`) + your Strength modifier in slashing damage, instead of the bludgeoning damage normal for an unarmed strike.  
 
 These spider legs last for 1 hour or until you cancel them early by speaking the command word again, after which they recede into your back and your cloak reappears. Once used once, this item may not be used again until the next dawn.
 

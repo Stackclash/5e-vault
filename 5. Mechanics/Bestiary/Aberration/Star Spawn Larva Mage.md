@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Star Spawn Larva Mage
 ---
-# [[5. Mechanics\Bestiary\Aberration\Star Spawn Larva Mage.md|Star Spawn Larva Mage]]
+# [[5. Mechanics/Bestiary/Aberration/Star Spawn Larva Mage.md|Star Spawn Larva Mage]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 228, Mordenkainen's Tome of Foes p. 235*
 
 A larva mage is a nightmarish combination of a mortal body and otherworldly substance. When a powerful cultist of a wormlike entity such as Kyuss or Kezef—usually a warlock or other spellcaster—contacts the comet-borne emissary of an Elder Evil, the emissary can merge with a mortal consciousness to create a larva mage. None of the original cultist's personality survives the transformation; what emerges is wholly alien.
@@ -46,6 +46,7 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 "type": "aberration"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "16"
+"ac_class": "natural armor"
 "hp": !!int "168"
 "hit_dice": "16d8 + 96"
 "stats":
@@ -84,21 +85,21 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 "actions":
 - "desc": "The mage makes three Slam or Eldritch Bolt attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) bludgeoning damage, and the target must\
-    \ succeed on a DC 19 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 10 ft., one target.\
+    \ Hit: dice:1d8 + 3|text(7) (1d8 + 3) bludgeoning damage, and the target\
+    \ must succeed on a DC 19 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
     \ until the end of its next turn."
   "name": "Slam"
-- "desc": "Ranged Spell Attack: dice: d20+8 (+8 to hit), range 60 ft., one target.\
-    \ Hit: dice: 3d10 + 3|avg (3d10 + 3) force damage."
+- "desc": "Ranged Spell Attack: dice: d20+8 (+8) to hit, range 60 ft., one target.\
+    \ Hit: dice:3d10 + 3|text(19) (3d10 + 3) force damage."
   "name": "Eldritch Bolt"
 - "desc": "Each creature other than a star spawn within 10 feet of the mage must succeed\
-    \ on a DC 19 Dexterity saving throw or take dice: 5d8|avg (5d8) necrotic damage\
-    \ and be [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] and [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
-    \ by masses of swarming worms. The affected creature takes dice: 5d8|avg (5d8)\
-    \ necrotic damage at the start of each of the mage's turns. The creature can repeat\
-    \ the saving throw at the end of each of its turns, ending the effect on itself\
-    \ on a success."
+    \ on a DC 19 Dexterity saving throw or take dice:5d8|text(22) (5d8) necrotic\
+    \ damage and be [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] and [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
+    \ by masses of swarming worms. The affected creature takes dice:5d8|text(22)\
+    \ (5d8) necrotic damage at the start of each of the mage's turns. The creature\
+    \ can repeat the saving throw at the end of each of its turns, ending the effect\
+    \ on itself on a success."
   "name": "Plague of Worms (Recharge 6)"
 "reactions":
 - "desc": "When a creature within 20 feet of the mage fails a saving throw, the mage\
@@ -110,7 +111,7 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 - "desc": "The mage makes one Eldritch Bolt attack."
   "name": "Eldritch Bolt (Costs 2 Actions)"
 - "desc": "Each creature [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
-    \ by the mage's Plague of Worms takes dice: 3d8|avg (3d8) necrotic damage,\
+    \ by the mage's Plague of Worms takes dice:3d8|text(13) (3d8) necrotic damage,\
     \ and the mage gains 6 temporary hit points."
   "name": "Feed (Costs 3 Actions)"
 "source":

@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Wildfire Spirit
 ---
-# [[5. Mechanics\Bestiary\Elemental\Wildfire Spirit.md|Wildfire Spirit]]
+# [[5. Mechanics/Bestiary/Elemental/Wildfire Spirit.md|Wildfire Spirit]]
 *Source: Tasha's Cauldron of Everything p. 40*
 
 ```statblock
@@ -19,6 +19,7 @@ aliases:
 "type": "elemental"
 "alignment": "Unaligned"
 "ac": !!int "13"
+"ac_class": "natural armor"
 "stats":
 - !!int "10"
 - !!int "14"

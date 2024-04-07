@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Cloud Giant
 ---
-# [[5. Mechanics\Bestiary\Giant\Cloud Giant.md|Cloud Giant]]
+# [[5. Mechanics/Bestiary/Giant/Cloud Giant.md|Cloud Giant]]
 *Source: Monster Manual p. 154. Available in the SRD.*
 
 Cloud giants live extravagant lives high above the world, showing little concern for the plights of other races except as amusement. They are muscular with light skin and have hair of silver or blue.
@@ -88,6 +88,7 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 "type": "giant"
 "alignment": "Neutral Good or Neutral Evil"
 "ac": !!int "14"
+"ac_class": "natural armor"
 "hp": !!int "200"
 "hit_dice": "16d12 + 96"
 "stats":
@@ -123,11 +124,11 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 "actions":
 - "desc": "The giant makes two morningstar attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+12 (+12 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 3d8 + 8|avg (3d8 + 8) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+12 (+12) to hit, reach 10 ft., one\
+    \ target. Hit: dice:3d8 + 8|text(21) (3d8 + 8) piercing damage."
   "name": "Morningstar"
-- "desc": "Ranged Weapon Attack: dice: d20+12 (+12 to hit), range 60/240 ft.,\
-    \ one target. Hit: dice: 4d10 + 8|avg (4d10 + 8) bludgeoning damage."
+- "desc": "Ranged Weapon Attack: dice: d20+12 (+12) to hit, range 60/240 ft.,\
+    \ one target. Hit: dice:4d10 + 8|text(30) (4d10 + 8) bludgeoning damage."
   "name": "Rock"
 "source":
 - "MM"

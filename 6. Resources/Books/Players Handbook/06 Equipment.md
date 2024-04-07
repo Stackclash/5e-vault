@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Equipment"]
+  - compendium/src/5e/phb
+aliases:
+  - Equipment
 ---
 # Equipment
 *Source: Player's Handbook, p. 143* 
@@ -20,7 +21,7 @@ When you create your character, you receive equipment based on a combination of 
 
 You decide how your character came by this starting equipment. It might have been an inheritance, or goods that the character purchased during his or her upbringing. You might have been equipped with a weapon, armor, and a backpack as part of military service. You might even have stolen your gear. A weapon could be a family heirloom, passed down from generation to generation until your character finally took up the mantle and followed in an ancestor's adventurous footsteps.
 
-![Starting Equipment; Starting Wealth by Class](compendium/tables/starting-equipment-starting-wealth-by-class.md)
+![[5. Mechanics/Tables/Starting Equipment Starting Wealth By Class.md\|Starting Equipment; Starting Wealth by Class]]
 
 ## Wealth
 
@@ -42,7 +43,7 @@ A standard coin weighs about a third of an ounce, so fifty coins weigh a pound.
 
 ![[6. Resources/Books/Players Handbook/img/c51.webp#center]]
 
-![Coinage; Standard Exchange Rates](compendium/tables/coinage-standard-exchange-rates.md)
+![[5. Mechanics/Tables/Coinage Standard Exchange Rates.md\|Coinage; Standard Exchange Rates]]
 
 ### Selling Treasure
 
@@ -70,7 +71,7 @@ D&D worlds are a vast tapestry made up of many different cultures, each with its
 
 The Armor table shows the cost, weight, and other properties of the common types of armor worn in the worlds of D&D.
 
-![Armor and Shields; Armor](compendium/tables/armor-and-shields-armor.md)
+![[5. Mechanics/Tables/Armor And Shields Armor.md\|Armor and Shields; Armor]]
 
 ### Armor Proficiency
 
@@ -177,7 +178,7 @@ This is the time it takes to put on armor. You benefit from the armor's AC only 
 
 This is the time it takes to take off armor. If you have help, reduce this time by half.
 
-![Getting Into and Out of Armor; Donning and Doffing Armor](compendium/tables/getting-into-and-out-of-armor-donning-and-doffing-armor.md)
+![[5. Mechanics/Tables/Getting Into And Out Of Armor Donning And Doffing Armor.md\|Getting Into and Out of Armor; Donning and Doffing Armor]]
 
 ## Weapons
 
@@ -459,7 +460,7 @@ A torch burns for 1 hour, providing bright light in a 20-foot radius and dim lig
 
 ![[6. Resources/Books/Players Handbook/img/c58.webp#center]]
 
-![Adventuring Gear; Container Capacity](compendium/tables/adventuring-gear-container-capacity.md)
+![[5. Mechanics/Tables/Adventuring Gear Container Capacity.md\|Adventuring Gear; Container Capacity]]
 
 > [!note] Equipment Packs
 > 
@@ -552,11 +553,11 @@ Keelboats and rowboats are used on lakes and rivers. If going downstream, add th
 
 ![[6. Resources/Books/Players Handbook/img/c510.webp#center]]
 
-![Mounts and Vehicles; Mounts and Other Animals](compendium/tables/mounts-and-vehicles-mounts-and-other-animals.md)
+![[5. Mechanics/Tables/Mounts And Vehicles Mounts And Other Animals.md\|Mounts and Vehicles; Mounts and Other Animals]]
 
-![Mounts and Vehicles; Tack, Harness, and Drawn Vehicles](compendium/tables/mounts-and-vehicles-tack-harness-and-drawn-vehicles.md)
+![[5. Mechanics/Tables/Mounts And Vehicles Tack Harness And Drawn Vehicles.md\|Mounts and Vehicles; Tack, Harness, and Drawn Vehicles]]
 
-![Mounts and Vehicles; Waterborne Vehicles](compendium/tables/mounts-and-vehicles-waterborne-vehicles.md)
+![[5. Mechanics/Tables/Mounts And Vehicles Waterborne Vehicles.md\|Mounts and Vehicles; Waterborne Vehicles]]
 
 ![[6. Resources/Books/Players Handbook/img/c511.webp#center]]
 

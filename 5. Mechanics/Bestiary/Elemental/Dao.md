@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Dao
 ---
-# [[5. Mechanics\Bestiary\Elemental\Dao.md|Dao]]
+# [[5. Mechanics/Bestiary/Elemental/Dao.md|Dao]]
 *Source: Monster Manual p. 143, Tasha's Cauldron of Everything*
 
 Dao are greedy, malicious genies from the Elemental Plane of Earth. They adorn themselves with jewelry crafted from precious gems and rare metals, and when they fly, their lower bodies become columns of swirling sand. A dao isn't happy unless it is the envy of other dao.
@@ -66,6 +66,7 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
 "type": "elemental"
 "alignment": "Neutral Evil"
 "ac": !!int "18"
+"ac_class": "natural armor"
 "hp": !!int "187"
 "hit_dice": "15d10 + 105"
 "stats":
@@ -86,8 +87,8 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
 "cr": "11"
 "traits":
 - "desc": "The dao's innate spellcasting ability is Charisma (spell save DC 14, dice:\
-    \ d20+6 (+6 to hit) with spell attacks). It can innately cast the following spells,\
-    \ requiring no material components:\n\nAt will: [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]],\
+    \ d20+6 (+6) to hit with spell attacks). It can innately cast the following\
+    \ spells, requiring no material components:\n\nAt will: [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]],\
     \ [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Stone Shape.md|stone shape]]\n\
     \n1/day each: [[5. Mechanics/Spells/Conjure Elemental.md|conjure elemental]]\
     \ ([[5. Mechanics/Bestiary/Elemental/Earth Elemental.md|earth elemental]] only),\
@@ -108,13 +109,13 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
 "actions":
 - "desc": "The Dao makes two fist attacks or two maul attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 6|avg (2d8 + 6) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+10 (+10) to hit, reach 5 ft., one\
+    \ target. Hit: dice:2d8 + 6|text(15) (2d8 + 6) bludgeoning damage."
   "name": "Fist"
-- "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 4d6 + 6|avg (4d6 + 6) bludgeoning damage. If the target is\
-    \ a Huge or smaller creature, it must succeed on a DC 18 Strength check or be\
-    \ knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+- "desc": "Melee Weapon Attack: dice: d20+10 (+10) to hit, reach 5 ft., one\
+    \ target. Hit: dice:4d6 + 6|text(20) (4d6 + 6) bludgeoning damage. If the\
+    \ target is a Huge or smaller creature, it must succeed on a DC 18 Strength check\
+    \ or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Maul"
 "source":
 - "MM"

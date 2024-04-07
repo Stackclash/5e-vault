@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Shambling Mound
 ---
-# [[5. Mechanics\Bestiary\Plant\Shambling Mound.md|Shambling Mound]]
+# [[5. Mechanics/Bestiary/Plant/Shambling Mound.md|Shambling Mound]]
 *Source: Monster Manual p. 270, Curse of Strahd. Available in the SRD.*
 
 A shambling mound, sometimes called a shambler, trudges ponderously through bleak swamps, dismal marshes, and rain forests, consuming any organic matter in its path. This rotting heap of animated vegetation looms up half again as tall as a human, tapering into a faceless "head" at its top.
@@ -47,6 +47,7 @@ If a shambling mound faces defeat before an overwhelming foe, the root-stem can 
 "type": "plant"
 "alignment": "Unaligned"
 "ac": !!int "15"
+"ac_class": "natural armor"
 "hp": !!int "136"
 "hit_dice": "16d10 + 48"
 "stats":
@@ -75,16 +76,16 @@ If a shambling mound faces defeat before an overwhelming foe, the root-stem can 
     \ or smaller target, the target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ (escape DC 14), and the shambling mound uses its Engulf on it."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d8 + 4|text(13) (2d8 + 4) bludgeoning damage."
   "name": "Slam"
 - "desc": "The shambling mound engulfs a Medium or smaller creature [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ by it. The engulfed target is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]],\
     \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]], and unable to breathe,\
     \ and it must succeed on a DC 14 Constitution saving throw at the start of each\
-    \ of the mound's turns or take dice: 2d8 + 4|avg (2d8 + 4) bludgeoning damage.\
-    \ If the mound moves, the engulfed target moves with it. The mound can have only\
-    \ one creature engulfed at a time."
+    \ of the mound's turns or take dice:2d8 + 4|text(13) (2d8 + 4) bludgeoning\
+    \ damage. If the mound moves, the engulfed target moves with it. The mound can\
+    \ have only one creature engulfed at a time."
   "name": "Engulf"
 "source":
 - "MM"

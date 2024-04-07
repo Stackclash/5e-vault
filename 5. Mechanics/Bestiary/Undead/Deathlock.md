@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Deathlock
 ---
-# [[5. Mechanics\Bestiary\Undead\Deathlock.md|Deathlock]]
+# [[5. Mechanics/Bestiary/Undead/Deathlock.md|Deathlock]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 86, Mordenkainen's Tome of Foes p. 128*
 
 An overpowering urge to serve consumes the mind of a newly awakened deathlock. Any goals and ambitions it had in life that don't please its patron fall away as its master's desires become the purpose that drives it. The deathlock immediately resumes work on its patron's behalf.
@@ -71,11 +71,11 @@ An powerful necromancer might also discover the wicked methods of creating a dea
 "actions":
 - "desc": "The deathlock makes two Deathly Claw or Grave Bolt attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 2|avg (2d6 + 2) necrotic damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 2|text(9) (2d6 + 2) necrotic damage."
   "name": "Deathly Claw"
-- "desc": "Ranged Spell Attack: dice: d20+5 (+5 to hit), range 120 ft., one target.\
-    \ Hit: dice: 2d10 + 3|avg (2d10 + 3) necrotic damage."
+- "desc": "Ranged Spell Attack: dice: d20+5 (+5) to hit, range 120 ft., one\
+    \ target. Hit: dice:2d10 + 3|text(14) (2d10 + 3) necrotic damage."
   "name": "Grave Bolt"
 "source":
 - "MPMM"

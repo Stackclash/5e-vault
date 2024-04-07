@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - White Tusk Juggernaut
 ---
-# [[5. Mechanics\Bestiary\Humanoid\White Tusk Juggernaut.md|White Tusk Juggernaut]]
+# [[5. Mechanics/Bestiary/Humanoid/White Tusk Juggernaut.md|White Tusk Juggernaut]]
 *Source: Strongholds and Followers p. 138*
 
 The White Tusk orc clan named itself after its hulking warriors who, in addition to their massive bodies, possessed enormous white tusks. White Tusk juggernauts pride themselves not just in their battle prowess but also in the size and sharpness of their monstrous lower canines. Some juggernauts have their tusks pierced and display fearsome jewelry from their teeth, others decorate them with ink or paint, and those who can withstand the pain even have symbols or runes inscribed upon them.
@@ -24,6 +24,7 @@ A juggernaut's immense muscles allow them to wield oversized weapons worthy of t
 "subtype": "orc"
 "alignment": "Chaotic Evil"
 "ac": !!int "20"
+"ac_class": "[[5. Mechanics/Items/Plate Armor.md|plate armor]], [[5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "95"
 "hit_dice": "10d10 + 40"
 "stats":
@@ -54,12 +55,12 @@ A juggernaut's immense muscles allow them to wield oversized weapons worthy of t
 "actions":
 - "desc": "The White Tusk juggernaut makes one tusk attack and one longsword attack."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) piercing damage. If the target is a creature,\
-    \ it must succeed on a DC 14 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 10 ft., one target.\
+    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) piercing damage. If the target is\
+    \ a creature, it must succeed on a DC 14 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Tusk"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 10 ft., one target.\
+    \ Hit: dice:2d8 + 4|text(13) (2d8 + 4) slashing damage."
   "name": "Longsword"
 "reactions":
 - "desc": "When a creature within 5 feet of the orc is attacked by a creature the\

@@ -1,27 +1,29 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: null
 condition: healthy
-image: https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/socr-pinna.jpg
+image: >-
+  https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/socr-pinna.jpg
 relationships: []
-tags: 
-aliases: [Pinna]
-pronounced: 
-race: 
-gender: 
-age: 
+tags: null
+aliases:
+  - Pinna
+pronounced: null
+race: null
+gender: null
+age: null
 alignment: Neutral Good
-occupation: 
+occupation: null
 groups: []
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]
@@ -137,7 +139,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 "cr": "1"
 "traits":
 - "desc": "Pinna is a 3rd-level spellcaster. Her spellcasting ability is Intelligence\
-    \ (spell save DC 13, dice: d20+5 (+5 to hit) with spell attacks). Pinna has\
+    \ (spell save DC 13, dice: d20+5 (+5) to hit with spell attacks). Pinna has\
     \ the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]],\
     \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]],\
     \ [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]]\n\n1st level (4 slots): [color\
@@ -146,8 +148,8 @@ await dv.view("npcRelationships", { current: dv.current() })
     \n2nd level (2 slots): [[5. Mechanics/Spells/Blur.md|blur]], [[5. Mechanics/Spells/Web.md|web]]"
   "name": "spells"
 "actions":
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 1d4 + 0|avg (1d4 + 0) piercing\
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+2 (+2) to hit, reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: dice:1d4 + 0|text(2) (1d4 + 0) piercing\
     \ damage."
   "name": "Dagger"
 "source":

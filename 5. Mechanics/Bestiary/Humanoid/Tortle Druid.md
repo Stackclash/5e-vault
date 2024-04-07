@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Tortle Druid
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Tortle Druid.md|Tortle Druid]]
+# [[5. Mechanics/Bestiary/Humanoid/Tortle Druid.md|Tortle Druid]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 244, Mordenkainen's Tome of Foes p. 242*
 
 Many tortles view the world as a place of wonder. They live for the chance to hear a soft wind blowing through trees, to watch a frog croaking on a lily pad, or to stand in a crowded marketplace. A tortle druid savors such things more than most, channeling the natural magic of the world around them.
@@ -28,6 +28,7 @@ Most tortles like to see how other folk live. A tortle can spend decades away fr
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "17"
+"ac_class": "natural armor"
 "hp": !!int "33"
 "hit_dice": "6d8 + 6"
 "stats":
@@ -58,11 +59,11 @@ Most tortles like to see how other folk live. A tortle can spend decades away fr
 - "desc": "The tortle makes four Claw attacks or two [[/5. Mechanics/Rules/Skills.md#Nature|Nature]]'s\
     \ Wrath attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d4 + 2|text(4) (1d4 + 2) slashing damage."
   "name": "Claw"
-- "desc": "Ranged Spell Attack: dice: d20+4 (+4 to hit), range 90 ft., one target.\
-    \ Hit: dice: 2d6 + 2|avg (2d6 + 2) damage of a type chosen by the tortle:\
+- "desc": "Ranged Spell Attack: dice: d20+4 (+4) to hit, range 90 ft., one target.\
+    \ Hit: dice:2d6 + 2|text(9) (2d6 + 2) damage of a type chosen by the tortle:\
     \ cold, fire, lightning, or thunder."
   "name": "Nature's Wrath"
 - "desc": "The tortle withdraws into its shell. Until it emerges, it gains a +4 bonus\

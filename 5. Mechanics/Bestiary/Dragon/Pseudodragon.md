@@ -16,7 +16,7 @@ statblock: inline
 aliases:
   - Pseudodragon
 ---
-# [[5. Mechanics\Bestiary\Dragon\Pseudodragon.md|Pseudodragon]]
+# [[5. Mechanics/Bestiary/Dragon/Pseudodragon.md|Pseudodragon]]
 *Source: Monster Manual p. 254, Eberron: Rising from the Last War. Available in the SRD.*
 
 The elusive pseudodragon dwells in the quiet places of the world, making its home in the hollows of trees and small caves. With its red-brown scales, horns, and a maw filled with sharp teeth, a pseudodragon resembles a tiny red dragon but its disposition is playful.
@@ -80,11 +80,11 @@ The pseudodragon can serve another creature as a familiar, forming a magic, tele
     \ a language."
   "name": "Limited Telepathy"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d4 + 2|text(4) (1d4 + 2) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage, and the target must\
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one creature.\
+    \ Hit: dice:1d4 + 2|text(4) (1d4 + 2) piercing damage, and the target must\
     \ succeed on a DC 11 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
     \ for 1 hour. If the saving throw fails by 5 or more, the target falls [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]\
     \ for the same duration, or until it takes damage or another creature uses an\

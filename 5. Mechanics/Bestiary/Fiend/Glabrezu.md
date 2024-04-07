@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Glabrezu
 ---
-# [[5. Mechanics\Bestiary\Fiend\Glabrezu.md|Glabrezu]]
+# [[5. Mechanics/Bestiary/Fiend/Glabrezu.md|Glabrezu]]
 *Source: Monster Manual p. 58. Available in the SRD.*
 
 A glabrezu takes great pleasure in destroying mortals through temptation, and these creatures are among the few demons to offer their service to creatures foolish enough to summon them.
@@ -166,14 +166,14 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 > 
 > Some demons can have an action option that allows them to summon other demons. Summon Demon (1/Day). The demon chooses what to summon and attempts a magical summoning.
 > 
-> - A balor has a 50% chance chance of summoning `dice: 1d8|avg` (`1d8`) vrocks, `dice: 1d6|avg` (`1d6`) hezrous, `dice: 1d4|avg` (`1d4`) glabrezus, `dice: 1d3|avg` (`1d3`) nalfeshnees, `dice: 1d2|avg` (`1d2`) mariliths, or one goristro.  
+> - A balor has a 50% chance chance of summoning `dice: 1d8|avg|noform` (`1d8`) vrocks, `dice: 1d6|avg|noform` (`1d6`) hezrous, `dice: 1d4|avg|noform` (`1d4`) glabrezus, `dice: 1d3|avg|noform` (`1d3`) nalfeshnees, `dice: 1d2|avg|noform` (`1d2`) mariliths, or one goristro.  
 > - A barlgura has a 30% chance chance of summoning one barlgura.  
 > - A chasme has a 30% chance chance of summoning one chasme.  
-> - A glabrezu has a 30% chance chance of summoning `dice: 1d3|avg` (`1d3`) vrocks, `dice: 1d2|avg` (`1d2`) hezrous, or one glabrezu.  
-> - A hezrou has a 30% chance chance of summoning `dice: 2d6|avg` (`2d6`) dretches or one hezrou.  
-> - A marilith has a 50% chance chance of summoning `dice: 1d6|avg` (`1d6`) vrocks, `dice: 1d4|avg` (`1d4`) hezrous, `dice: 1d3|avg` (`1d3`) glabrezus, `dice: 1d2|avg` (`1d2`) nalfeshnees, or one marilith.  
-> - A nalfeshnee has a 50% chance chance of summoning `dice: 1d4|avg` (`1d4`) vrocks, `dice: 1d3|avg` (`1d3`) hezrous, `dice: 1d2|avg` (`1d2`) glabrezus, or one nalfeshnee.  
-> - A vrock has a 30% chance chance of summoning `dice: 2d4|avg` (`2d4`) dretches or one vrock.  
+> - A glabrezu has a 30% chance chance of summoning `dice: 1d3|avg|noform` (`1d3`) vrocks, `dice: 1d2|avg|noform` (`1d2`) hezrous, or one glabrezu.  
+> - A hezrou has a 30% chance chance of summoning `dice: 2d6|avg|noform` (`2d6`) dretches or one hezrou.  
+> - A marilith has a 50% chance chance of summoning `dice: 1d6|avg|noform` (`1d6`) vrocks, `dice: 1d4|avg|noform` (`1d4`) hezrous, `dice: 1d3|avg|noform` (`1d3`) glabrezus, `dice: 1d2|avg|noform` (`1d2`) nalfeshnees, or one marilith.  
+> - A nalfeshnee has a 50% chance chance of summoning `dice: 1d4|avg|noform` (`1d4`) vrocks, `dice: 1d3|avg|noform` (`1d3`) hezrous, `dice: 1d2|avg|noform` (`1d2`) glabrezus, or one nalfeshnee.  
+> - A vrock has a 30% chance chance of summoning `dice: 2d4|avg|noform` (`2d4`) dretches or one vrock.  
 > - A yochlol has a 50% chance chance of summoning one yochlol.  
 > 
 > A summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
@@ -191,6 +191,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "subtype": "demon"
 "alignment": "Chaotic Evil"
 "ac": !!int "17"
+"ac_class": "natural armor"
 "hp": !!int "157"
 "hit_dice": "15d10 + 75"
 "stats":
@@ -227,14 +228,14 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - "desc": "The glabrezu makes four attacks: two with its pincers and two with its\
     \ fists. Alternatively, it makes two attacks with its pincers and casts one spell."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d10 + 5|avg (2d10 + 5) bludgeoning damage. If the target is\
-    \ a Medium or smaller creature, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 10 ft., one target.\
+    \ Hit: dice:2d10 + 5|text(16) (2d10 + 5) bludgeoning damage. If the target\
+    \ is a Medium or smaller creature, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ (escape DC 15). The glabrezu has two pincers, each of which can grapple only\
     \ one target."
   "name": "Pincer"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4 + 2|avg (2d4 + 2) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d4 + 2|text(7) (2d4 + 2) bludgeoning damage."
   "name": "Fist"
 "source":
 - "MM"

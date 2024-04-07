@@ -15,7 +15,7 @@ statblock: inline
 aliases:
   - Skulk
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Skulk.md|Skulk]]
+# [[5. Mechanics/Bestiary/Monstrosity/Skulk.md|Skulk]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 219, Mordenkainen's Tome of Foes p. 227*
 
 > [!quote]- A quote from Mordenkainen  
@@ -65,8 +65,8 @@ Cruel and chaotic, skulks carry out their orders in the most violent manner poss
     \ headed."
   "name": "Trackless"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 4|avg (1d4 + 4) slashing damage plus dice: 1d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d4 + 4|text(6) (1d4 + 4) slashing damage plus dice:1d6|text(3)\
     \ (1d6) necrotic damage."
   "name": "Claw"
 "source":

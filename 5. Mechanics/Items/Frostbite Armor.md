@@ -20,6 +20,6 @@ aliases:
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 65.0 lbs.
 
-You gain a +1 bonus to AC and resistance to cold damage while wearing this armor. In addition, the first time in a turn that a creature within 5 feet hits you with a melee weapon attack while you are wearing this armor, they suffer `dice: 2d6|avg` (`2d6`) cold damage.
+You gain a +1 bonus to AC and resistance to cold damage while wearing this armor. In addition, the first time in a turn that a creature within 5 feet hits you with a melee weapon attack while you are wearing this armor, they suffer `dice: 2d6|avg|noform` (`2d6`) cold damage.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 128*

@@ -22,7 +22,7 @@ A breed of amaranth with a sickly, pale-purple colouration. Unlike the more wide
 
 ## Effect:
 
-This herb has `dice: 1d4|avg` (`1d4`) charges. As an action, you may use a charge to toss a pinch of this herb's pollen ata creature you can see within 5 feet of you, forcing them to succeed on a DC 16 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] for 10 minutes. While [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] in this way, the creature also suffers an additional random effect determined by rolling on the table below. The [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] creature may attempt the saving throw again at the end of each of their turns, ending the effect on a success.
+This herb has `dice: 1d4|avg|noform` (`1d4`) charges. As an action, you may use a charge to toss a pinch of this herb's pollen ata creature you can see within 5 feet of you, forcing them to succeed on a DC 16 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] for 10 minutes. While [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] in this way, the creature also suffers an additional random effect determined by rolling on the table below. The [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] creature may attempt the saving throw again at the end of each of their turns, ending the effect on a success.
 
 `dice: [[Blighted Pollen.md#^effect]]`
 

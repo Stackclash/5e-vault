@@ -20,9 +20,9 @@ The ghastly Wand of Orcus rarely leaves [[4. World Almanac/NPCs/Orcus.md\|Orcus'
 
 Made from bones as hard as iron, the wand is topped with a magically enlarged skull that once belonged to a human hero slain by [[4. World Almanac/NPCs/Orcus.md\|Orcus]]. The wand can magically change in size to better conform to the grip of its user. Plants wither, drinks spoil, flesh rots, and vermin thrive in the wand's presence.
 
-Any creature besides [[4. World Almanac/NPCs/Orcus.md\|Orcus]] that tries to attune to the wand must make a DC 17 Constitution saving throw. On a successful save, the creature takes `dice: 10d6|avg` (`10d6`) necrotic damage. On a failed save, the creature dies and rises as a [[5. Mechanics/Bestiary/Undead/Zombie.md\|zombie]].
+Any creature besides [[4. World Almanac/NPCs/Orcus.md\|Orcus]] that tries to attune to the wand must make a DC 17 Constitution saving throw. On a successful save, the creature takes `dice: 10d6|avg|noform` (`10d6`) necrotic damage. On a failed save, the creature dies and rises as a [[5. Mechanics/Bestiary/Undead/Zombie.md\|zombie]].
 
-In the hands of one who is attuned to it, the wand can be wielded as a magic [[5. Mechanics/Items/Mace.md\|mace]] that grants a +3 bonus to attack and damage rolls made with it. The wand deals an extra `dice: 2d12|avg` (`2d12`) necrotic damage on a hit.
+In the hands of one who is attuned to it, the wand can be wielded as a magic [[5. Mechanics/Items/Mace.md\|mace]] that grants a +3 bonus to attack and damage rolls made with it. The wand deals an extra `dice: 2d12|avg|noform` (`2d12`) necrotic damage on a hit.
 
 ## Random Properties
 
@@ -41,7 +41,7 @@ You gain a +3 bonus to Armor Class while holding the wand.
 
 ## Spells
 
-The wand has 7 charges. While holding it, you can use an action and expend 1 or more of its charges to cast one of the following spells (save DC 18) from it: [[5. Mechanics/Spells/Animate Dead.md\|animate dead]] (1 charge), [[5. Mechanics/Spells/Blight.md\|blight]] (2 charges), [[5. Mechanics/Spells/Circle Of Death.md\|circle of death]] (3 charges), [[5. Mechanics/Spells/Finger Of Death.md\|finger of death]] (3 charges), [[5. Mechanics/Spells/Power Word Kill.md\|power word kill]] (4 charges), or [[5. Mechanics/Spells/Speak With Dead.md\|speak with dead]] (1 charge). The wand regains `dice: 1d4 + 3|avg` (`1d4 + 3`) expended charges daily at dawn.
+The wand has 7 charges. While holding it, you can use an action and expend 1 or more of its charges to cast one of the following spells (save DC 18) from it: [[5. Mechanics/Spells/Animate Dead.md\|animate dead]] (1 charge), [[5. Mechanics/Spells/Blight.md\|blight]] (2 charges), [[5. Mechanics/Spells/Circle Of Death.md\|circle of death]] (3 charges), [[5. Mechanics/Spells/Finger Of Death.md\|finger of death]] (3 charges), [[5. Mechanics/Spells/Power Word Kill.md\|power word kill]] (4 charges), or [[5. Mechanics/Spells/Speak With Dead.md\|speak with dead]] (1 charge). The wand regains `dice: 1d4 + 3|avg|noform` (`1d4 + 3`) expended charges daily at dawn.
 
 While attuned to the wand, [[4. World Almanac/NPCs/Orcus.md\|Orcus]] or a follower blessed by him can cast each of the wand's spells using 2 fewer charges (minimum of 0).
 

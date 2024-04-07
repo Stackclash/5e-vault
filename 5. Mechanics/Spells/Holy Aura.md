@@ -11,7 +11,6 @@ aliases:
   - Holy Aura
 ---
 # Holy Aura
-%%-- Embedded content starts on the next line. --%%
 *8th-level, Abjuration*  
 
 - **Casting time:** 1 action

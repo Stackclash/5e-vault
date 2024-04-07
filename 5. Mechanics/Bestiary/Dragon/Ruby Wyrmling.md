@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Ruby Wyrmling
 ---
-# [[5. Mechanics\Bestiary\Dragon\Ruby Wyrmling.md|Ruby Wyrmling]]
+# [[5. Mechanics/Bestiary/Dragon/Ruby Wyrmling.md|Ruby Wyrmling]]
 *Source: Strongholds and Followers p. 205*
 
 The rubies protect the knowledge of reality, which they call realitas, the essential thing that separates real things from illusion.
@@ -25,6 +25,7 @@ They are measured and formal, slow to give trust. They like seeing things done p
 "type": "dragon"
 "alignment": "Lawful Neutral"
 "ac": !!int "17"
+"ac_class": "natural armor"
 "hp": !!int "49"
 "hit_dice": "9d8 + 9"
 "stats":
@@ -49,14 +50,15 @@ They are measured and formal, slow to give trust. They like seeing things done p
 "cr": "3"
 "traits":
 - "desc": ". . [[/5. Mechanics/Rules/Variant Rules/Gemstone Dragon Psionics.md|Gemstone Dragon Psionics]].\
-    \ Charges: 9 • Recharge: dice: 1d4|avg (1d4) • Fracture: 8"
+    \ Charges: 9 • Recharge: dice: 1d4|avg|noform (1d4) • Fracture:\
+    \ 8"
   "name": ""
 - "desc": "Allies' spells cast within 30 feet have their saving throw DC increased\
     \ by 1."
   "name": "Amplification Aura"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d10 + 2|avg (1d10 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d10 + 2|text(7) (1d10 + 2) piercing damage."
   "name": "Bite"
 "source":
 - "SaF"

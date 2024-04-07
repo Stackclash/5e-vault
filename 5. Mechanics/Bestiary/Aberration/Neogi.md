@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Neogi
 ---
-# [[5. Mechanics\Bestiary\Aberration\Neogi.md|Neogi]]
+# [[5. Mechanics/Bestiary/Aberration/Neogi.md|Neogi]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 192, Volo's Guide to Monsters p. 180*
 
 The mentality of neogi is alien to many other peoples. Because adult neogi have the power to control minds, they consider doing so to be entirely appropriate. Their society makes no distinction between individuals, aside from the ability that a given creature has to control others, and they don't comprehend the emotional aspects of existence that humans and similar beings experience. To a neogi, hatred is as foreign a sensation as love, and showing loyalty in the absence of authority is foolishness.
@@ -35,6 +35,7 @@ Neogi usually dwell in far-flung locations on the Material Plane, as well as in 
 "type": "aberration"
 "alignment": "Typically  Lawful Evil"
 "ac": !!int "15"
+"ac_class": "natural armor"
 "hp": !!int "33"
 "hit_dice": "6d6 + 12"
 "stats":
@@ -62,15 +63,15 @@ Neogi usually dwell in far-flung locations on the Material Plane, as well as in 
 "actions":
 - "desc": "The neogi makes one Bite attack and two Claw attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage plus dice: 4d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 3|text(6) (1d6 + 3) piercing damage plus dice:4d6|text(14)\
     \ (4d6) poison damage, and the target must succeed on a DC 12 Constitution saving\
     \ throw or become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for 1 minute.\
     \ A target can repeat the saving throw at the end of each of its turns, ending\
     \ the effect on itself on a success."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4 + 3|avg (2d4 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d4 + 3|text(8) (2d4 + 3) slashing damage."
   "name": "Claw"
 "bonus_actions":
 - "desc": "The neogi targets one creature it can see within 30 feet of it. The target\

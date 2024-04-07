@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vgm
-aliases: ["Roleplaying a Mind Flayer; Mind Flayer Flaws"]
+  - compendium/src/5e/vgm
+aliases:
+  - Roleplaying a Mind Flayer; Mind Flayer Flaws
 ---
 # Roleplaying a Mind Flayer; Mind Flayer Flaws
 *Source: Volo's Guide to Monsters p. 74* 

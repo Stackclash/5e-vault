@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Appendix D: Dungeon Master Inspiration"]
+  - compendium/src/5e/dmg
+aliases:
+  - 'Appendix D: Dungeon Master Inspiration'
 ---
 # Appendix D: Dungeon Master Inspiration
 *Source: Dungeon Master's Guide, p. 316* 

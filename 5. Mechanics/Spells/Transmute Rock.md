@@ -12,7 +12,6 @@ aliases:
   - Transmute Rock
 ---
 # Transmute Rock
-%%-- Embedded content starts on the next line. --%%
 *5th-level, Transmutation*  
 
 - **Casting time:** 1 action
@@ -28,7 +27,7 @@ Nonmagical rock of any sort in the area becomes an equal volume of thick, flowin
 
 The ground in the spell's area becomes muddy enough that creatures can sink into it. Each foot that a creature moves through the mud costs 4 feet of movement, and any creature on the ground when you cast the spell must make a Strength saving throw. A creature must also make the saving throw when it moves into the area for the first time on a turn or ends its turn there. On a failed save, a creature sinks into the mud and is [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]], though it can use an action to end the [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]] condition on itself by pulling itself free of the mud.
 
-If you cast the spell on a ceiling, the mud falls. Any creature under the mud when it falls must make a Dexterity saving throw. A creature takes `dice: 4d8|avg` (`4d8`) bludgeoning damage on a failed save, or half as much damage on a successful one.
+If you cast the spell on a ceiling, the mud falls. Any creature under the mud when it falls must make a Dexterity saving throw. A creature takes `dice: 4d8|avg|noform` (`4d8`) bludgeoning damage on a failed save, or half as much damage on a successful one.
 
 ## Transmute Mud to Rock
 

@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Master Thief
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Master Thief.md|Master Thief]]
+# [[5. Mechanics/Bestiary/Humanoid/Master Thief.md|Master Thief]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 174, Volo's Guide to Monsters p. 216*
 
 Master thieves are known for perpetrating daring heists. They tend to develop a romanticized reputation. A master thief might "retire" from hands-on work to run a thieves' guild, spearhead some covert enterprise, or enjoy a quiet life of luxury.
@@ -42,6 +42,7 @@ When a master thief completes a challenging heist, they often leave behind a cal
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "16"
+"ac_class": "[[5. Mechanics/Items/Studded Leather Armor.md|studded leather]]"
 "hp": !!int "84"
 "hit_dice": "13d8 + 26"
 "stats":
@@ -73,12 +74,12 @@ When a master thief completes a challenging heist, they often leave behind a cal
 "actions":
 - "desc": "The thief makes three Shortsword or Shortbow attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing damage plus dice: 1d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 4|text(7) (1d6 + 4) piercing damage plus dice:1d6|text(3)\
     \ (1d6) poison damage."
   "name": "Shortsword"
-- "desc": "Ranged Weapon Attack: dice: d20+7 (+7 to hit), range 80/320 ft., one\
-    \ target. Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing damage plus dice: 1d6|avg\
+- "desc": "Ranged Weapon Attack: dice: d20+7 (+7) to hit, range 80/320 ft.,\
+    \ one target. Hit: dice:1d6 + 4|text(7) (1d6 + 4) piercing damage plus dice:1d6|text(3)\
     \ (1d6) poison damage."
   "name": "Shortbow"
 "bonus_actions":

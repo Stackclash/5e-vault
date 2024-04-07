@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Changeling
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Changeling.md|Changeling]]
+# [[5. Mechanics/Bestiary/Humanoid/Changeling.md|Changeling]]
 *Source: Eberron: Rising from the Last War p. 317*
 
 Changelings are a humanoid race of shapechangers who conceal their true identities behind false faces. Their gifts of mimicry allow them to appear as members of any humanoid culture, playing the part of a dwarf one day and a dragonborn the next. Although changelings can adopt any guise, most rely on a few established personas, each with a developed history and a network of friends and acquaintances.
@@ -23,6 +23,7 @@ Changelings are a humanoid race of shapechangers who conceal their true identiti
 "subtype": "changeling, shapechanger"
 "alignment": "Any alignment"
 "ac": !!int "13"
+"ac_class": "[[5. Mechanics/Items/Leather Armor.md|leather armor]]"
 "hp": !!int "22"
 "hit_dice": "4d8 + 4"
 "stats":
@@ -51,8 +52,8 @@ Changelings are a humanoid race of shapechangers who conceal their true identiti
 "actions":
 - "desc": "The changeling makes two attacks with its dagger."
   "name": "Multiattack"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing\
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: dice:1d4 + 2|text(4) (1d4 + 2) piercing\
     \ damage."
   "name": "Dagger"
 - "desc": "Each creature within 30 feet of the changeling must succeed on a DC 13\

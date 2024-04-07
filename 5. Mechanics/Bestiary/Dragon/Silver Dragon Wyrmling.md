@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Silver Dragon Wyrmling
 ---
-# [[5. Mechanics\Bestiary\Dragon\Silver Dragon Wyrmling.md|Silver Dragon Wyrmling]]
+# [[5. Mechanics/Bestiary/Dragon/Silver Dragon Wyrmling.md|Silver Dragon Wyrmling]]
 *Source: Monster Manual p. 118. Available in the SRD.*
 
 The friendliest and most social of the metallic dragons, silver dragons cheerfully assist good creatures in need.
@@ -91,6 +91,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 "type": "dragon"
 "alignment": "Lawful Good"
 "ac": !!int "17"
+"ac_class": "natural armor"
 "hp": !!int "45"
 "hit_dice": "6d8 + 18"
 "stats":
@@ -114,12 +115,12 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 "languages": "Draconic"
 "cr": "2"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d10 + 4|avg (1d10 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d10 + 4|text(9) (1d10 + 4) piercing damage."
   "name": "Bite"
 - "desc": "The dragon uses one of the following breath weapons.\n\n- Cold Breath.\
     \ The dragon exhales an icy blast in a 15-foot cone. Each creature in that area\
-    \ must make a DC 13 Constitution saving throw, taking dice: 4d8|avg (4d8)\
+    \ must make a DC 13 Constitution saving throw, taking dice:4d8|text(18) (4d8)\
     \ cold damage on a failed save, or half as much damage on a successful one.  \n\
     - Paralyzing Breath. The dragon exhales paralyzing gas in a 15-foot cone.\
     \ Each creature in that area must succeed on a DC 13 Constitution saving throw\

@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Helmed Horror
 ---
-# [[5. Mechanics\Bestiary\Construct\Helmed Horror.md|Helmed Horror]]
+# [[5. Mechanics/Bestiary/Construct/Helmed Horror.md|Helmed Horror]]
 *Source: Monster Manual p. 183*
 
 This construct possesses intelligence, the ability to reason and adjust its tactics, and an unswerving devotion to its maker that persists even after its maker's demise. Resembling an animated suit of empty plate armor, a helmed horror serves without ambition or emotion.
@@ -33,6 +33,7 @@ A helmed horror doesn't require air, food, drink, or sleep.
 "type": "construct"
 "alignment": "Unaligned"
 "ac": !!int "20"
+"ac_class": "[[5. Mechanics/Items/Plate Armor.md|plate armor]], [[5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "60"
 "hit_dice": "8d8 + 24"
 "stats":
@@ -66,8 +67,8 @@ A helmed horror doesn't require air, food, drink, or sleep.
 "actions":
 - "desc": "The helmed horror makes two longsword attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) slashing damage, or dice: 1d10 + 4|avg\
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 4|text(8) (1d8 + 4) slashing damage, or dice:1d10 + 4|text(9)\
     \ (1d10 + 4) slashing damage if used with two hands."
   "name": "Longsword"
 "source":

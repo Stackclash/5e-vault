@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Stone Giant
 ---
-# [[5. Mechanics\Bestiary\Giant\Stone Giant.md|Stone Giant]]
+# [[5. Mechanics/Bestiary/Giant/Stone Giant.md|Stone Giant]]
 *Source: Monster Manual p. 156. Available in the SRD.*
 
 Stone giants are reclusive, quiet, and peaceful as long as they are left alone. Their granite-gray skin, gaunt features, and black, sunken eyes endow stone giants with a stern countenance. They are private creatures, hiding their lives and art away from the world.
@@ -84,6 +84,7 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 "type": "giant"
 "alignment": "Neutral"
 "ac": !!int "17"
+"ac_class": "natural armor"
 "hp": !!int "126"
 "hit_dice": "11d12 + 55"
 "stats":
@@ -111,13 +112,13 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 "actions":
 - "desc": "The giant makes two greatclub attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 15 ft., one target.\
-    \ Hit: dice: 3d8 + 6|avg (3d8 + 6) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 15 ft., one target.\
+    \ Hit: dice:3d8 + 6|text(19) (3d8 + 6) bludgeoning damage."
   "name": "Greatclub"
-- "desc": "Ranged Weapon Attack: dice: d20+9 (+9 to hit), range 60/240 ft., one\
-    \ target. Hit: dice: 4d10 + 6|avg (4d10 + 6) bludgeoning damage. If the\
-    \ target is a creature, it must succeed on a DC 17 Strength saving throw or be\
-    \ knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+- "desc": "Ranged Weapon Attack: dice: d20+9 (+9) to hit, range 60/240 ft.,\
+    \ one target. Hit: dice:4d10 + 6|text(28) (4d10 + 6) bludgeoning damage.\
+    \ If the target is a creature, it must succeed on a DC 17 Strength saving throw\
+    \ or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Rock"
 "reactions":
 - "desc": "If a rock or similar object is hurled at the giant, the giant can, with\

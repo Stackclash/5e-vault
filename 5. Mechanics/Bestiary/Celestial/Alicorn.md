@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Alicorn
 ---
-# [[5. Mechanics\Bestiary\Celestial\Alicorn.md|Alicorn]]
+# [[5. Mechanics/Bestiary/Celestial/Alicorn.md|Alicorn]]
 *Source: Strongholds and Followers p. 55*
 
 Natives of Arcadia, the winged [[5. Mechanics/Bestiary/Celestial/Unicorn.md|unicorn]] (not to be confused with the horned [[5. Mechanics/Bestiary/Celestial/Pegasus.md|pegasus]]) can be summoned by a particularly devout paladin to serve as their mount. They do not particularly like the Mundane World, but they enjoy and find satisfaction in hunting evil and chaos. They will serve as mount and companion to a holy knight only so long as it brings the opportunity to smash evil, a sport they are denied on their home plane.
@@ -52,9 +52,9 @@ Natives of Arcadia, the winged [[5. Mechanics/Bestiary/Celestial/Unicorn.md|unic
     \ evil and good](compendium/spells/dispel-evil-and-good.md), [[5. Mechanics/Spells/Entangle.md|entangle]]"
   "name": "innate"
 - "desc": "If the alicorn moves at least 20 feet straight toward a target and then\
-    \ hits it with a horn attack on the same turn, the target takes an extra dice:\
-    \ 2d8|avg (2d8) piercing damage. If the target is a creature, it must succeed\
-    \ on a DC 15 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ hits it with a horn attack on the same turn, the target takes an extra dice:2d8|text(9)\
+    \ (2d8) piercing damage. If the target is a creature, it must succeed on a DC\
+    \ 15 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Charge"
 - "desc": "The alicorn has advantage on saving throws against spells and other magical\
     \ effects."
@@ -64,15 +64,15 @@ Natives of Arcadia, the winged [[5. Mechanics/Bestiary/Celestial/Unicorn.md|unic
 "actions":
 - "desc": "The alicorn makes two attacks: one with its hooves and one with its horn."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) bludgeoning damage."
   "name": "Hooves"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 4|text(8) (1d8 + 4) piercing damage."
   "name": "Horn"
 - "desc": "The alicorn touches another creature with its horn. The target magically\
-    \ regains dice: 2d8 + 2|avg (2d8 + 2) hit points. In addition, the touch removes\
-    \ all diseases and neutralizes all poisons afflicting the target."
+    \ regains dice:2d8 + 2|text(11) (2d8 + 2) hit points. In addition, the touch\
+    \ removes all diseases and neutralizes all poisons afflicting the target."
   "name": "Healing Touch (3/Day)"
 - "desc": "The alicorn magically teleports itself and up to three willing creatures\
     \ it can see within 5 feet of it, along with any equipment they are wearing or\
@@ -85,7 +85,8 @@ Natives of Arcadia, the winged [[5. Mechanics/Bestiary/Celestial/Unicorn.md|unic
     \ creature it can see within 60 feet of it. The target gains a +2 bonus to AC\
     \ until the end of the alicorn's next turn."
   "name": "Prismatic Barrier (Costs 2 Actions)"
-- "desc": "The alicorn magically restores dice: 2d8 + 2|avg (2d8 + 2) hit points."
+- "desc": "The alicorn magically restores dice:2d8 + 2|text(11) (2d8 + 2) hit\
+    \ points."
   "name": "Heal Self (Costs 3 Actions)"
 "source":
 - "SaF"

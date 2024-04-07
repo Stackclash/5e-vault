@@ -10,7 +10,6 @@ aliases:
   - Astral Brig
 ---
 # Astral Brig
-%%-- Embedded content starts on the next line. --%%
 *Source: Mordenkainen's Tome of Foes p. 90*  
 
 
@@ -30,6 +29,6 @@ title: Astral Brig
 
 ## Weapon: Ballistas (2)
 
-*Ranged Weapon Attack:* `dice: d20+6` (+6 to hit), range 120/480 ft., one target. *Hit:* `dice: 3d10|avg` (`3d10`) piercing damage.
+*Ranged Weapon Attack:* `dice: d20+6` (`+6`) to hit, range 120/480 ft., one target. *Hit:* `dice:3d10|text(16)` (`3d10`) piercing damage.
 ```
 ^statblock

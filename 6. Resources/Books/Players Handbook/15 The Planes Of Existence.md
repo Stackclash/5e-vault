@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["The Planes of Existence"]
+  - compendium/src/5e/phb
+aliases:
+  - The Planes of Existence
 ---
 # The Planes of Existence
 *Source: Player's Handbook, p. 300* 

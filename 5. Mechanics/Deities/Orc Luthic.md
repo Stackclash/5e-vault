@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- compendium/src/5e/vgm
-- deity/orc
-- domain/life
-- domain/nature
-aliases: ["Luthic"]
+  - compendium/src/5e/vgm
+  - deity/orc
+  - domain/life
+  - domain/nature
+aliases:
+  - Luthic
 ---
 # Luthic
 *Source: Volo's Guide to Monsters p. 84* 

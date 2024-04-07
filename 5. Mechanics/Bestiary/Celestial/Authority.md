@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Authority
 ---
-# [[5. Mechanics\Bestiary\Celestial\Authority.md|Authority]]
+# [[5. Mechanics/Bestiary/Celestial/Authority.md|Authority]]
 *Source: Strongholds and Followers p. 157*
 
 Pretty much what you'd expect from an angelic being called an Authority. It is the knight of the Celestial Court. What paladins would like to be when they grow up. The Authority arrives on our plane in heavy armor, armed with the Brightsword and looking for evil to smash. It is responsible for maintaining celestial order, and while it's still absolutely committed to smashing evil, it tends to smash chaotic evil a little more than other evils.
@@ -23,7 +23,7 @@ If Dar's record describes the Authority, then there is reason to believe the Aut
 
 ## Tactics
 
-Well, it finds the biggest, most evil thing and bashes the hell out of it (perhaps literally) with the Brightsword. This thing does `dice: 3d6 + 4d8 + 4|avg` (`3d6 + 4d8 + 4`) damage to evil creatures, which is like 32 damage on average, and it can do this three times per turn. And it has wings and a fly speed of 40 feet, so it can get where it needs to, to do what it must.
+Well, it finds the biggest, most evil thing and bashes the hell out of it (perhaps literally) with the Brightsword. This thing does `dice: 3d6 + 4d8 + 4|avg|noform` (`3d6 + 4d8 + 4`) damage to evil creatures, which is like 32 damage on average, and it can do this three times per turn. And it has wings and a fly speed of 40 feet, so it can get where it needs to, to do what it must.
 
 ```statblock
 "name": "Authority"
@@ -31,6 +31,7 @@ Well, it finds the biggest, most evil thing and bashes the hell out of it (perha
 "type": "celestial"
 "alignment": "Any Good alignment"
 "ac": !!int "19"
+"ac_class": "natural armor"
 "hp": !!int "97"
 "hit_dice": "13d8 + 39"
 "stats":
@@ -53,7 +54,7 @@ Well, it finds the biggest, most evil thing and bashes the hell out of it (perha
 "cr": "6"
 "traits":
 - "desc": "The Authority's weapon attacks are magical. When the Authority hits with\
-    \ any weapon, the weapon deals an extra dice: 2d8|avg (2d8) radiant damage\
+    \ any weapon, the weapon deals an extra dice:2d8|text(9) (2d8) radiant damage\
     \ (included in the attack)."
   "name": "Angelic Weapons"
 - "desc": "The Authority has advantage on saving throws against spells and other magical\
@@ -69,10 +70,10 @@ Well, it finds the biggest, most evil thing and bashes the hell out of it (perha
 "actions":
 - "desc": "The Authority makes three attacks with the Brightsword."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 3d6 + 4|avg (3d6 + 4) slashing damage and dice: 2d8|avg (2d8)\
-    \ radiant damage. Evil creatures take an extra dice: 2d8|avg (2d8) radiant\
-    \ damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 10 ft., one target.\
+    \ Hit: dice:3d6 + 4|text(14) (3d6 + 4) slashing damage and dice:2d8|text(9)\
+    \ (2d8) radiant damage. Evil creatures take an extra dice:2d8|text(9) (2d8)\
+    \ radiant damage."
   "name": "Brightsword"
 "source":
 - "SaF"

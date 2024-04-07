@@ -50,7 +50,7 @@ You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle i
 
 ### Cunning Intuition
 
-When you make a Charisma ([[/5. Mechanics/Rules/Skills.md#Performance\|Performance]]) or Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) check, you can roll a `dice: d4|avg` (`d4`) and add the number rolled to the ability check.
+When you make a Charisma ([[/5. Mechanics/Rules/Skills.md#Performance\|Performance]]) or Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) check, you can roll a `dice: d4|avg|noform` (`d4`) and add the number rolled to the ability check.
 
 ### Shape Shadows
 

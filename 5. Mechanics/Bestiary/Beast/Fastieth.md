@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Fastieth
 ---
-# [[5. Mechanics\Bestiary\Beast\Fastieth.md|Fastieth]]
+# [[5. Mechanics/Bestiary/Beast/Fastieth.md|Fastieth]]
 *Source: Eberron: Rising from the Last War p. 289*
 
 Fastieth are human-sized, two-legged saurians with large eyes, brightly colored and patterned scales, and strong legs. They are the most common mounts of the halflings of the Talenta Plains, bred for speed. Although too small to bear larger riders, a fastieth can carry a halfling with light gear easily and at a good pace. Fastieths are typically stubborn creatures, so specimens with an even temperament are prized among the Talenta tribes.
@@ -42,8 +42,8 @@ Dinosaurs are widespread on Eberron, particularly in Q'barra, the Talenta Plains
 - "desc": "The fastieth can take the Dodge action as a bonus action."
   "name": "Quickness (Recharge 5-6)"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 4|text(8) (1d8 + 4) piercing damage."
   "name": "Bite"
 "source":
 - "ERLW"

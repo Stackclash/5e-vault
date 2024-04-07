@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Adventure Environments"]
+  - compendium/src/5e/dmg
+aliases:
+  - Adventure Environments
 ---
 # Adventure Environments
 *Source: Dungeon Master's Guide, p. 99* 
@@ -32,7 +33,7 @@ You can use the Dungeon Location table to determine the locale of your dungeon. 
 
 ![[5. Mechanics/Tables/Dungeon Location.md\|Dungeon Location]]
 
-![Dungeon Location; Exotic Location](compendium/tables/dungeon-location-exotic-location.md)
+![[5. Mechanics/Tables/Dungeon Location Exotic Location.md\|Dungeon Location; Exotic Location]]
 
 #### Dungeon Creator
 
@@ -44,11 +45,11 @@ The Dungeon Creator table includes creatures that typically build dungeons. You 
 
 ![[5. Mechanics/Tables/Dungeon Creator.md\|Dungeon Creator]]
 
-![Dungeon Creator; Cults and Religions](compendium/tables/dungeon-creator-cults-and-religions.md)
+![[5. Mechanics/Tables/Dungeon Creator Cults And Religions.md\|Dungeon Creator; Cults and Religions]]
 
-![Dungeon Creator; NPC Alignment](compendium/tables/dungeon-creator-npc-alignment.md)
+![[5. Mechanics/Tables/Dungeon Creator Npc Alignment.md\|Dungeon Creator; NPC Alignment]]
 
-![Dungeon Creator; NPC Class](compendium/tables/dungeon-creator-npc-class.md)
+![[5. Mechanics/Tables/Dungeon Creator Npc Class.md\|Dungeon Creator; NPC Class]]
 
 #### Dungeon Purpose
 
@@ -325,9 +326,9 @@ You can pick weather to fit your campaign or roll on the Weather table to determ
 
 ![[5. Mechanics/Tables/Weather.md\|Weather]]
 
-![Weather; Wind](compendium/tables/weather-wind.md)
+![[5. Mechanics/Tables/Weather Wind.md\|Weather; Wind]]
 
-![Weather; Precipitation](compendium/tables/weather-precipitation.md)
+![[5. Mechanics/Tables/Weather Precipitation.md\|Weather; Precipitation]]
 
 #### Extreme Cold
 
@@ -377,7 +378,7 @@ A creature can be immersed in frigid water for a number of minutes equal to its 
 
 #### Quicksand
 
-A quicksand pit covers the ground in roughly a 10-foot square area and is usually 10 feet deep. When a creature enters the area, it sinks `dice: 1d4+1|avg` (`1d4+1`) feet into the quicksand and becomes [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]]. At the start of each of the creature's turns, it sinks another `dice: 1d4|avg` (`1d4`) feet. As long as the creature isn't completely submerged in quicksand, it can escape by using its action and succeeding on a Strength check. The DC is 10 plus the number of feet the creature has sunk into the quicksand. A creature that is completely submerged in quicksand can't breathe (see the "suffocation" rules in the *Player's Handbook*).
+A quicksand pit covers the ground in roughly a 10-foot square area and is usually 10 feet deep. When a creature enters the area, it sinks `dice: 1d4+1|avg|noform` (`1d4+1`) feet into the quicksand and becomes [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]]. At the start of each of the creature's turns, it sinks another `dice: 1d4|avg|noform` (`1d4`) feet. As long as the creature isn't completely submerged in quicksand, it can escape by using its action and succeeding on a Strength check. The DC is 10 plus the number of feet the creature has sunk into the quicksand. A creature that is completely submerged in quicksand can't breathe (see the "suffocation" rules in the *Player's Handbook*).
 
 A creature can pull another creature within its reach out of a quicksand pit by using its action and succeeding on a Strength check. The DC is 5 plus the number of feet the target creature has sunk into the quicksand.
 
@@ -385,7 +386,7 @@ A creature can pull another creature within its reach out of a quicksand pit by 
 
 Razorvine is a plant that grows in wild tangles and hedges. It also clings to the sides of buildings and other surfaces as ivy does. A 10-foot-high, 10-foot-wide, 5-foot-thick wall or hedge of razorvine has AC 11, 25 hit points, and immunity to bludgeoning, piercing, and psychic damage.
 
-When a creature comes into direct contact with razorvine for the first time on a turn, the creature must succeed on a DC 10 Dexterity saving throw or take `dice: 1d10|avg` (`1d10`) slashing damage from the razorvine's bladelike thorns.
+When a creature comes into direct contact with razorvine for the first time on a turn, the creature must succeed on a DC 10 Dexterity saving throw or take `dice:1d10|text(5)` (`1d10`) slashing damage from the razorvine's bladelike thorns.
 
 #### Slippery Ice
 
@@ -401,7 +402,7 @@ Characters can gather food and water as the party travels at a normal or slow pa
 
 ![[5. Mechanics/Tables/Foraging Dcs.md\|Foraging DCs]]
 
-If multiple characters forage, each character makes a separate check. A foraging character finds nothing on a failed check. On a successful check, roll `dice: 1d6|avg` (`1d6`) + the character's Wisdom modifier to determine how much food (in pounds) the character finds, then repeat the roll for water (in gallons).
+If multiple characters forage, each character makes a separate check. A foraging character finds nothing on a failed check. On a successful check, roll `dice: 1d6|avg|noform` (`1d6`) + the character's Wisdom modifier to determine how much food (in pounds) the character finds, then repeat the roll for water (in gallons).
 
 #### Food and Water
 
@@ -413,9 +414,9 @@ The food and water requirements noted in the Player's Handbook are for character
 
 Unless they are following a path, or something like it, adventurers traveling in the wilderness run the risk of becoming lost. The party's navigator makes a Wisdom ([[/5. Mechanics/Rules/Skills.md#Survival\|Survival]]) check when you decide it's appropriate, against a DC determined by the prevailing terrain, as shown on the Wilderness Navigation table. If the party is moving at a slow pace, the navigator gains a +5 bonus to the check, and a fast pace imposes a -5 penalty. If the party has an accurate map of the region or can see the sun or stars, the navigator has advantage on the check.
 
-If the Wisdom ([[/5. Mechanics/Rules/Skills.md#Survival\|Survival]]) check succeeds, the party travels in the desired direction without becoming lost. If the check fails, the party inadvertently travels in the wrong direction and becomes lost. The party's navigator can repeat the check after the party spends `dice: 1d6|avg` (`1d6`) hours trying to get back on course.
+If the Wisdom ([[/5. Mechanics/Rules/Skills.md#Survival\|Survival]]) check succeeds, the party travels in the desired direction without becoming lost. If the check fails, the party inadvertently travels in the wrong direction and becomes lost. The party's navigator can repeat the check after the party spends `dice: 1d6|avg|noform` (`1d6`) hours trying to get back on course.
 
-![Becoming Lost; Wilderness Navigation](compendium/tables/becoming-lost-wilderness-navigation.md)
+![[5. Mechanics/Tables/Becoming Lost Wilderness Navigation.md\|Becoming Lost; Wilderness Navigation]]
 
 ## Settlement
 
@@ -427,15 +428,15 @@ When creating a settlement for your campaign, focus on the locations that are mo
 
 The following tables allow you to quickly create a settlement. They assume that you've already determined its size and its basic form of government.
 
-![Random Settlements; Race Relations](compendium/tables/random-settlements-race-relations.md)
+![[5. Mechanics/Tables/Random Settlements Race Relations.md\|Random Settlements; Race Relations]]
 
-![Random Settlements; Ruler's Status](compendium/tables/random-settlements-rulers-status.md)
+![[5. Mechanics/Tables/Random Settlements Rulers Status.md\|Random Settlements; Ruler's Status]]
 
-![Random Settlements; Notable Traits](compendium/tables/random-settlements-notable-traits.md)
+![[5. Mechanics/Tables/Random Settlements Notable Traits.md\|Random Settlements; Notable Traits]]
 
-![Random Settlements; Known For Its...](compendium/tables/random-settlements-known-for-its.md)
+![[5. Mechanics/Tables/Random Settlements Known For Its.md\|Random Settlements; Known For Its...]]
 
-![Random Settlements; Current Calamity](compendium/tables/random-settlements-current-calamity.md)
+![[5. Mechanics/Tables/Random Settlements Current Calamity.md\|Random Settlements; Current Calamity]]
 
 ## Random Buildings
 
@@ -443,19 +444,19 @@ Pulse-pounding chases and harrowing escapes within the confines of a town or cit
 
 If a roll makes no sense considering where the characters are (such as a lavish mansion in a rundown part of town), you can always roll again or simply choose another result. However, such unexpected results can prompt creativity and memorable locations that help make your urban encounters distinct.
 
-![Random Buildings; Building Type](compendium/tables/random-buildings-building-type.md)
+![[5. Mechanics/Tables/Random Buildings Building Type.md\|Random Buildings; Building Type]]
 
-![Random Buildings; Residence](compendium/tables/random-buildings-residence.md)
+![[5. Mechanics/Tables/Random Buildings Residence.md\|Random Buildings; Residence]]
 
-![Random Buildings; Religious Building](compendium/tables/random-buildings-religious-building.md)
+![[5. Mechanics/Tables/Random Buildings Religious Building.md\|Random Buildings; Religious Building]]
 
-![Random Buildings; Tavern](compendium/tables/random-buildings-tavern.md)
+![[5. Mechanics/Tables/Random Buildings Tavern.md\|Random Buildings; Tavern]]
 
-![Random Buildings; Tavern Name Generator](compendium/tables/random-buildings-tavern-name-generator.md)
+![[5. Mechanics/Tables/Random Buildings Tavern Name Generator.md\|Random Buildings; Tavern Name Generator]]
 
-![Random Buildings; Warehouse](compendium/tables/random-buildings-warehouse.md)
+![[5. Mechanics/Tables/Random Buildings Warehouse.md\|Random Buildings; Warehouse]]
 
-![Random Buildings; Shop](compendium/tables/random-buildings-shop.md)
+![[5. Mechanics/Tables/Random Buildings Shop.md\|Random Buildings; Shop]]
 
 ## Mapping a Settlement
 
@@ -503,7 +504,7 @@ A brawl erupts near the adventurers. It could be a tavern brawl; a battle betwee
 
 #### Bullies
 
-The characters witness `dice: 1d4 + 2|avg` (`1d4 + 2`) bullies harassing an out-of-towner (use the commoner statistics in the Monster Manual for all of them). A bully flees as soon as he or she takes any amount of damage.
+The characters witness `dice: 1d4 + 2|avg|noform` (`1d4 + 2`) bullies harassing an out-of-towner (use the commoner statistics in the Monster Manual for all of them). A bully flees as soon as he or she takes any amount of damage.
 
 #### Companion
 
@@ -537,7 +538,7 @@ You can determine the trinket by rolling on the [[5. Mechanics/Items/Trinket.md\
 
 #### Guard Harassment
 
-The adventurers are cornered by `dice: 1d4 + 1|avg` (`1d4 + 1`) guards eager to throw their weight around. If threatened, the guards call out for help and might attract the attention of other guards or citizens nearby.
+The adventurers are cornered by `dice: 1d4 + 1|avg|noform` (`1d4 + 1`) guards eager to throw their weight around. If threatened, the guards call out for help and might attract the attention of other guards or citizens nearby.
 
 #### Pickpocket
 
@@ -664,7 +665,7 @@ A ship has immunity to all damage unless it takes an amount of damage equal to o
 
 Repairs to a damaged ship can be made while the vessel is berthed. Repairing 1 hit point of damage requires 1 day and costs 20 gp for materials and labor.
 
-![Owning a Ship; Airborne and Waterborne Vehicles](compendium/tables/owning-a-ship-airborne-and-waterborne-vehicles.md)
+![[5. Mechanics/Tables/Owning A Ship Airborne And Waterborne Vehicles.md\|Owning a Ship; Airborne and Waterborne Vehicles]]
 
 ### The Sky
 
@@ -714,9 +715,9 @@ The attack bonus of a trap, the save DC to resist its effects, and the damage it
 
 A trap intended to be a **setback** is unlikely to kill or seriously harm characters of the indicated levels, whereas a **dangerous** trap is likely to seriously injure (and potentially kill) characters of the indicated levels. A *deadly* trap is likely to kill characters of the indicated levels.
 
-![Trap Effects; Trap Save DCs and Attack Bonuses](compendium/tables/trap-effects-trap-save-dcs-and-attack-bonuses.md)
+![[5. Mechanics/Tables/Trap Effects Trap Save Dcs And Attack Bonuses.md\|Trap Effects; Trap Save DCs and Attack Bonuses]]
 
-![Trap Effects; Damage Severity by Level](compendium/tables/trap-effects-damage-severity-by-level.md)
+![[5. Mechanics/Tables/Trap Effects Damage Severity By Level.md\|Trap Effects; Damage Severity by Level]]
 
 #### Complex Traps
 

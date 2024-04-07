@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Githzerai Enlightened
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Githzerai Enlightened.md|Githzerai Enlightened]]
+# [[5. Mechanics/Bestiary/Humanoid/Githzerai Enlightened.md|Githzerai Enlightened]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 143, Mordenkainen's Tome of Foes p. 208*
 
 Some spiritual githzerai spend long hours in meditation to transcend the limits of their forms and to apprehend the nature of reality. Zerths who complete the next tier of their training become known as the enlightened.
@@ -29,6 +29,7 @@ Githzerai are otherworldly folk with psionic powers who share an ancestral link 
 "subtype": "gith"
 "alignment": "Any alignment"
 "ac": !!int "18"
+"ac_class": "psychic defense"
 "hp": !!int "112"
 "hit_dice": "15d8 + 45"
 "stats":
@@ -64,12 +65,12 @@ Githzerai are otherworldly folk with psionic powers who share an ancestral link 
 "actions":
 - "desc": "The githzerai makes three Unarmed Strike attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) bludgeoning damage plus dice: 4d8|avg\
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d8 + 4|text(13) (2d8 + 4) bludgeoning damage plus dice:4d8|text(18)\
     \ (4d8) psychic damage."
   "name": "Unarmed Strike"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) bludgeoning damage plus dice: 8d12|avg\
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one creature.\
+    \ Hit: dice:2d8 + 4|text(13) (2d8 + 4) bludgeoning damage plus dice:8d12|text(52)\
     \ (8d12) psychic damage. The target must succeed on a DC 16 Wisdom saving throw\
     \ or move 1 round forward in time. A target moved forward in time vanishes for\
     \ the duration. When the effect ends, the target reappears in the space it left\

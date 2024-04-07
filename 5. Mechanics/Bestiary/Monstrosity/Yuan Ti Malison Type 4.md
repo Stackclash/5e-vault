@@ -2,18 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/vgm
-- monster/cr/3
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/swamp
-- monster/size/medium
-- monster/type/monstrosity/shapechanger
-- monster/type/monstrosity/yuan-ti
+  - compendium/src/5e/vgm
+  - monster/cr/3
+  - monster/environment/desert
+  - monster/environment/forest
+  - monster/environment/swamp
+  - monster/size/medium
+  - monster/type/monstrosity/shapechanger
+  - monster/type/monstrosity/yuan-ti
 statblock: inline
-aliases: ["Yuan-ti Malison (Type 4)"]
+aliases:
+  - Yuan-ti Malison (Type 4)
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Yuan Ti Malison Type 4.md|Yuan-ti Malison (Type 4)]]
+# [[5. Mechanics/Bestiary/Monstrosity/Yuan Ti Malison Type 4.md|Yuan-ti Malison (Type 4)]]
 *Source: Volo's Guide to Monsters p. 96*
 
 ## Yuan-ti Malison Variants: Types 4 and 5
@@ -109,15 +110,15 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
 "actions":
 - "desc": "The yuan-ti makes two ranged attacks or two melee attacks."
   "name": "Multiattack (Yuan-ti Form Only)"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) piercing damage plus dice: 2d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one creature.\
+    \ Hit: dice:1d4 + 3|text(5) (1d4 + 3) piercing damage plus dice:2d6|text(7)\
     \ (2d6) poison damage."
   "name": "Bite (Snake Form Only)"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 3|text(6) (1d6 + 3) slashing damage."
   "name": "Scimitar (Yuan-ti Form Only)"
-- "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 150/600 ft., one\
-    \ target. Hit: dice: 1d8 + 2|avg (1d8 + 2) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+4 (+4) to hit, range 150/600 ft.,\
+    \ one target. Hit: dice:1d8 + 2|text(6) (1d8 + 2) piercing damage."
   "name": "Longbow (Yuan-ti Form Only)"
 "source":
 - "VGM"

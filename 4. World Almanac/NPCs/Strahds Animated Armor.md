@@ -120,6 +120,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 "type": "construct"
 "alignment": "Lawful Evil"
 "ac": !!int "21"
+"ac_class": "natural armor"
 "hp": !!int "112"
 "hit_dice": "15d8 + 45"
 "stats":
@@ -160,13 +161,13 @@ await dv.view("npcRelationships", { current: dv.current() })
 "actions":
 - "desc": "The armor makes two melee attacks or uses Shocking Bolt twice."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) slashing damage plus dice: 1d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 3|text(10) (2d6 + 3) slashing damage plus dice:1d6|text(3)\
     \ (1d6) lightning damage."
   "name": "Greatsword"
-- "desc": "Ranged Spell Attack: dice: d20+4 (+4 to hit) (with advantage on the\
+- "desc": "Ranged Spell Attack: dice: d20+4 (+4) to hit (with advantage on the\
     \ attack roll if the target is wearing armor made of metal), range 60 ft., one\
-    \ target. Hit: dice: 3d6|avg (3d6) lightning damage."
+    \ target. Hit: dice:3d6|text(10) (3d6) lightning damage."
   "name": "Shocking Bolt"
 "source":
 - "CoS"

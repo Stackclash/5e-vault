@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Nycaloth
 ---
-# [[5. Mechanics\Bestiary\Fiend\Nycaloth.md|Nycaloth]]
+# [[5. Mechanics/Bestiary/Fiend/Nycaloth.md|Nycaloth]]
 *Source: Monster Manual p. 314, Tasha's Cauldron of Everything*
 
 The elite airborne shock troops of the yugoloths, nycaloths look like muscular gargoyles. Powerful bat wings bear them swiftly aloft in battle, and the razorsharp claws of their hands and feet cut through flesh and bone with ease. A nightmarish foe, a nycaloth strikes hard and fast without warning, then teleports away. It uses its innate magic to turn [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]] or create illusory doubles of itself, further confounding its enemies.
@@ -57,8 +57,8 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 > 
 > - An arcanaloth has a 40% chance chance of summoning one arcanaloth.  
 > - A mezzoloth has a 30% chance chance of summoning one mezzoloth.  
-> - A nycaloth has a 50% chance chance of summoning `dice: 1d4|avg` (`1d4`) mezzoloths or one nycaloth.  
-> - An ultroloth has a 50% chance chance of summoning `dice: 1d6|avg` (`1d6`) mezzoloths, `dice: 1d4|avg` (`1d4`) nycaloths, or one ultroloth.  
+> - A nycaloth has a 50% chance chance of summoning `dice: 1d4|avg|noform` (`1d4`) mezzoloths or one nycaloth.  
+> - An ultroloth has a 50% chance chance of summoning `dice: 1d6|avg|noform` (`1d6`) mezzoloths, `dice: 1d4|avg|noform` (`1d4`) nycaloths, or one ultroloth.  
 > 
 > A summoned yugoloth appears in an unoccupied space within 60 feet of its summoner, does as it pleases (unless its summoner is an ultroloth, in which case it acts as an ally of its summoner), and can't summon other yugoloths. The summoned yugoloth remains for l minute, until it or its summoner dies, or until its summoner takes a bonus action to dismiss it
 ^variant-yugoloth-summoning
@@ -75,6 +75,7 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 "subtype": "yugoloth"
 "alignment": "Neutral Evil"
 "ac": !!int "18"
+"ac_class": "natural armor"
 "hp": !!int "123"
 "hit_dice": "13d10 + 52"
 "stats":
@@ -112,17 +113,17 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 - "desc": "The nycaloth makes two melee attacks, or it makes one melee attack and\
     \ teleports before or after the attack."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 5|avg (2d6 + 5) slashing damage. If the target is a creature,\
-    \ it must succeed on a DC 16 Constitution saving throw or take dice: 2d4|avg\
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 5|text(12) (2d6 + 5) slashing damage. If the target is\
+    \ a creature, it must succeed on a DC 16 Constitution saving throw or take dice:2d4|text(5)\
     \ (2d4) slashing damage at the start of each of its turns due to a fiendish\
     \ wound. Each time the nycaloth hits the wounded target with this attack, the\
-    \ damage dealt by the wound increases by dice: 2d4|avg (2d4). Any creature\
+    \ damage dealt by the wound increases by dice:2d4|text(5) (2d4). Any creature\
     \ can take an action to stanch the wound with a successful DC 13 Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]])\
     \ check. The wound also closes if the target receives magical healing."
   "name": "Claw"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d12 + 5|avg (2d12 + 5) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d12 + 5|text(18) (2d12 + 5) slashing damage."
   "name": "Greataxe"
 - "desc": "The nycaloth magically teleports, along with any equipment it is wearing\
     \ or carrying, up to 60 feet to an unoccupied space it can see."

@@ -117,6 +117,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 "subtype": "human"
 "alignment": "Lawful Good"
 "ac": !!int "15"
+"ac_class": "[[5. Mechanics/Items/Breastplate.md|breastplate]]"
 "hp": !!int "14"
 "hit_dice": "2d8"
 "stats":
@@ -135,8 +136,8 @@ await dv.view("npcRelationships", { current: dv.current() })
 "languages": "any two languages"
 "cr": "1/8"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 1|avg (1d8 + 1) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 1|text(5) (1d8 + 1) piercing damage."
   "name": "Rapier"
 "reactions":
 - "desc": "Ireena adds 2 to its AC against one melee attack that would hit it. To\

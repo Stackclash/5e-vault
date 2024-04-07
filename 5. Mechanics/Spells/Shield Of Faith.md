@@ -13,7 +13,6 @@ aliases:
   - Shield of Faith
 ---
 # Shield of Faith
-%%-- Embedded content starts on the next line. --%%
 *1st-level, Abjuration*  
 
 - **Casting time:** 1 bonus

@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Shadow Demon
 ---
-# [[5. Mechanics\Bestiary\Fiend\Shadow Demon.md|Shadow Demon]]
+# [[5. Mechanics/Bestiary/Fiend/Shadow Demon.md|Shadow Demon]]
 *Source: Monster Manual p. 64, Curse of Strahd*
 
 When a demon's body is destroyed but the fiend is prevented from reforming in the Abyss, its essence sometimes takes on a vague physical form. These shadow demons exist outside the normal abyssal hierarchy, since their creation results most often from mortal magic, not from transformation or promotion.
@@ -170,14 +170,14 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 > 
 > Some demons can have an action option that allows them to summon other demons. Summon Demon (1/Day). The demon chooses what to summon and attempts a magical summoning.
 > 
-> - A balor has a 50% chance chance of summoning `dice: 1d8|avg` (`1d8`) vrocks, `dice: 1d6|avg` (`1d6`) hezrous, `dice: 1d4|avg` (`1d4`) glabrezus, `dice: 1d3|avg` (`1d3`) nalfeshnees, `dice: 1d2|avg` (`1d2`) mariliths, or one goristro.  
+> - A balor has a 50% chance chance of summoning `dice: 1d8|avg|noform` (`1d8`) vrocks, `dice: 1d6|avg|noform` (`1d6`) hezrous, `dice: 1d4|avg|noform` (`1d4`) glabrezus, `dice: 1d3|avg|noform` (`1d3`) nalfeshnees, `dice: 1d2|avg|noform` (`1d2`) mariliths, or one goristro.  
 > - A barlgura has a 30% chance chance of summoning one barlgura.  
 > - A chasme has a 30% chance chance of summoning one chasme.  
-> - A glabrezu has a 30% chance chance of summoning `dice: 1d3|avg` (`1d3`) vrocks, `dice: 1d2|avg` (`1d2`) hezrous, or one glabrezu.  
-> - A hezrou has a 30% chance chance of summoning `dice: 2d6|avg` (`2d6`) dretches or one hezrou.  
-> - A marilith has a 50% chance chance of summoning `dice: 1d6|avg` (`1d6`) vrocks, `dice: 1d4|avg` (`1d4`) hezrous, `dice: 1d3|avg` (`1d3`) glabrezus, `dice: 1d2|avg` (`1d2`) nalfeshnees, or one marilith.  
-> - A nalfeshnee has a 50% chance chance of summoning `dice: 1d4|avg` (`1d4`) vrocks, `dice: 1d3|avg` (`1d3`) hezrous, `dice: 1d2|avg` (`1d2`) glabrezus, or one nalfeshnee.  
-> - A vrock has a 30% chance chance of summoning `dice: 2d4|avg` (`2d4`) dretches or one vrock.  
+> - A glabrezu has a 30% chance chance of summoning `dice: 1d3|avg|noform` (`1d3`) vrocks, `dice: 1d2|avg|noform` (`1d2`) hezrous, or one glabrezu.  
+> - A hezrou has a 30% chance chance of summoning `dice: 2d6|avg|noform` (`2d6`) dretches or one hezrou.  
+> - A marilith has a 50% chance chance of summoning `dice: 1d6|avg|noform` (`1d6`) vrocks, `dice: 1d4|avg|noform` (`1d4`) hezrous, `dice: 1d3|avg|noform` (`1d3`) glabrezus, `dice: 1d2|avg|noform` (`1d2`) nalfeshnees, or one marilith.  
+> - A nalfeshnee has a 50% chance chance of summoning `dice: 1d4|avg|noform` (`1d4`) vrocks, `dice: 1d3|avg|noform` (`1d3`) hezrous, `dice: 1d2|avg|noform` (`1d2`) glabrezus, or one nalfeshnee.  
+> - A vrock has a 30% chance chance of summoning `dice: 2d4|avg|noform` (`2d4`) dretches or one vrock.  
 > - A yochlol has a 50% chance chance of summoning one yochlol.  
 > 
 > A summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
@@ -223,8 +223,8 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "cr": "4"
 "traits":
 - "desc": "The demon can move through other creatures and objects as if they were\
-    \ difficult terrain. It takes dice: 1d10|avg (1d10) force damage if it ends\
-    \ its turn inside an object."
+    \ difficult terrain. It takes dice:1d10|text(5) (1d10) force damage if it\
+    \ ends its turn inside an object."
   "name": "Incorporeal Movement"
 - "desc": "While in bright light, the demon has disadvantage on attack rolls, as well\
     \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that\
@@ -234,9 +234,9 @@ Demonologists organize the chaotic distribution of demons into broad categories 
     \ bonus action."
   "name": "Shadow Stealth"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) psychic damage or, if the demon had advantage\
-    \ on the attack roll, dice: 4d6 + 3|avg (4d6 + 3) psychic damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one creature.\
+    \ Hit: dice:2d6 + 3|text(10) (2d6 + 3) psychic damage or, if the demon had\
+    \ advantage on the attack roll, dice:4d6 + 3|text(17) (4d6 + 3) psychic damage."
   "name": "Claws"
 "source":
 - "MM"

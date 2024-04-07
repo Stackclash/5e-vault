@@ -14,7 +14,7 @@ statblock: inline
 aliases:
   - Gnoll Hunter
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Gnoll Hunter.md|Gnoll Hunter]]
+# [[5. Mechanics/Bestiary/Monstrosity/Gnoll Hunter.md|Gnoll Hunter]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 144, Volo's Guide to Monsters p. 154*
 
 Hunters are the stealthiest gnolls in a war band. In the vanguard, they creep around, picking off isolated opposition while clearing the way for the rest of the force to advance.
@@ -31,6 +31,7 @@ The first gnolls were hyenas transformed by magic. Many of them were then corrup
 "type": "monstrosity"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "13"
+"ac_class": "[[5. Mechanics/Items/Leather Armor.md|leather armor]]"
 "hp": !!int "22"
 "hit_dice": "4d8 + 4"
 "stats":
@@ -50,17 +51,17 @@ The first gnolls were hyenas transformed by magic. Many of them were then corrup
 "actions":
 - "desc": "The gnoll makes two Bite, Spear, or Longbow attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d4 + 2|text(4) (1d4 + 2) piercing damage."
   "name": "Bite"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing\
-    \ damage, or dice: 1d8 + 2|avg (1d8 + 2) piercing damage when used with two\
-    \ hands to make a melee attack."
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: dice:1d6 + 2|text(5) (1d6 + 2) piercing\
+    \ damage, or dice:1d8 + 2|text(6) (1d8 + 2) piercing damage when used with\
+    \ two hands to make a melee attack."
   "name": "Spear"
-- "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 150/600 ft., one\
-    \ target. Hit: dice: 1d8 + 2|avg (1d8 + 2) piercing damage, and the target's\
-    \ speed is reduced by 10 feet until the end of its next turn."
+- "desc": "Ranged Weapon Attack: dice: d20+4 (+4) to hit, range 150/600 ft.,\
+    \ one target. Hit: dice:1d8 + 2|text(6) (1d8 + 2) piercing damage, and the\
+    \ target's speed is reduced by 10 feet until the end of its next turn."
   "name": "Longbow"
 "bonus_actions":
 - "desc": "After the gnoll reduces a creature to 0 hit points with a melee attack\

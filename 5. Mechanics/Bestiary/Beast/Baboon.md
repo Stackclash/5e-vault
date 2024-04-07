@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Baboon
 ---
-# [[5. Mechanics\Bestiary\Beast\Baboon.md|Baboon]]
+# [[5. Mechanics/Bestiary/Beast/Baboon.md|Baboon]]
 *Source: Monster Manual p. 318, Curse of Strahd. Available in the SRD and the Basic Rules.*
 
 ```statblock
@@ -40,8 +40,8 @@ aliases:
     \ [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
   "name": "Pack Tactics"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+1 (+1 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 - 1|avg (1d4 - 1) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+1 (+1) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d4 - 1|text(1) (1d4 - 1) piercing damage."
   "name": "Bite"
 "source":
 - "MM"

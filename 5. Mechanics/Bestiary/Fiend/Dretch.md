@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Dretch
 ---
-# [[5. Mechanics\Bestiary\Fiend\Dretch.md|Dretch]]
+# [[5. Mechanics/Bestiary/Fiend/Dretch.md|Dretch]]
 *Source: Monster Manual p. 57, Curse of Strahd. Available in the SRD.*
 
 Dretches are among the weakest of demons-repulsive, self-loathing creatures doomed to spend eternity in a state of perpetual discontent. Their low intelligence makes dretches unsuitable for anything but the simplest tasks. However, what they lack in potential, they make up for in sheer malice. Dretches mill about in mobs, voicing their displeasure as an unsettling din of hoots, snarls, and grunts.
@@ -164,14 +164,14 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 > 
 > Some demons can have an action option that allows them to summon other demons. Summon Demon (1/Day). The demon chooses what to summon and attempts a magical summoning.
 > 
-> - A balor has a 50% chance chance of summoning `dice: 1d8|avg` (`1d8`) vrocks, `dice: 1d6|avg` (`1d6`) hezrous, `dice: 1d4|avg` (`1d4`) glabrezus, `dice: 1d3|avg` (`1d3`) nalfeshnees, `dice: 1d2|avg` (`1d2`) mariliths, or one goristro.  
+> - A balor has a 50% chance chance of summoning `dice: 1d8|avg|noform` (`1d8`) vrocks, `dice: 1d6|avg|noform` (`1d6`) hezrous, `dice: 1d4|avg|noform` (`1d4`) glabrezus, `dice: 1d3|avg|noform` (`1d3`) nalfeshnees, `dice: 1d2|avg|noform` (`1d2`) mariliths, or one goristro.  
 > - A barlgura has a 30% chance chance of summoning one barlgura.  
 > - A chasme has a 30% chance chance of summoning one chasme.  
-> - A glabrezu has a 30% chance chance of summoning `dice: 1d3|avg` (`1d3`) vrocks, `dice: 1d2|avg` (`1d2`) hezrous, or one glabrezu.  
-> - A hezrou has a 30% chance chance of summoning `dice: 2d6|avg` (`2d6`) dretches or one hezrou.  
-> - A marilith has a 50% chance chance of summoning `dice: 1d6|avg` (`1d6`) vrocks, `dice: 1d4|avg` (`1d4`) hezrous, `dice: 1d3|avg` (`1d3`) glabrezus, `dice: 1d2|avg` (`1d2`) nalfeshnees, or one marilith.  
-> - A nalfeshnee has a 50% chance chance of summoning `dice: 1d4|avg` (`1d4`) vrocks, `dice: 1d3|avg` (`1d3`) hezrous, `dice: 1d2|avg` (`1d2`) glabrezus, or one nalfeshnee.  
-> - A vrock has a 30% chance chance of summoning `dice: 2d4|avg` (`2d4`) dretches or one vrock.  
+> - A glabrezu has a 30% chance chance of summoning `dice: 1d3|avg|noform` (`1d3`) vrocks, `dice: 1d2|avg|noform` (`1d2`) hezrous, or one glabrezu.  
+> - A hezrou has a 30% chance chance of summoning `dice: 2d6|avg|noform` (`2d6`) dretches or one hezrou.  
+> - A marilith has a 50% chance chance of summoning `dice: 1d6|avg|noform` (`1d6`) vrocks, `dice: 1d4|avg|noform` (`1d4`) hezrous, `dice: 1d3|avg|noform` (`1d3`) glabrezus, `dice: 1d2|avg|noform` (`1d2`) nalfeshnees, or one marilith.  
+> - A nalfeshnee has a 50% chance chance of summoning `dice: 1d4|avg|noform` (`1d4`) vrocks, `dice: 1d3|avg|noform` (`1d3`) hezrous, `dice: 1d2|avg|noform` (`1d2`) glabrezus, or one nalfeshnee.  
+> - A vrock has a 30% chance chance of summoning `dice: 2d4|avg|noform` (`2d4`) dretches or one vrock.  
 > - A yochlol has a 50% chance chance of summoning one yochlol.  
 > 
 > A summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
@@ -189,6 +189,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "subtype": "demon"
 "alignment": "Chaotic Evil"
 "ac": !!int "11"
+"ac_class": "natural armor"
 "hp": !!int "18"
 "hit_dice": "4d6 + 4"
 "stats":
@@ -209,11 +210,11 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "actions":
 - "desc": "The dretch makes two attacks: one with its bite and one with its claws."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6|avg (1d6) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+2 (+2) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6|text(3) (1d6) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4|avg (2d4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+2 (+2) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d4|text(5) (2d4) slashing damage."
   "name": "Claws"
 - "desc": "A 10-foot radius of disgusting green gas extends out from the dretch. The\
     \ gas spreads around corners, and its area is lightly obscured. It lasts for 1\

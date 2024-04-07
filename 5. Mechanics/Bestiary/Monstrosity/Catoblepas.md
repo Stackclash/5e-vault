@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Catoblepas
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Catoblepas.md|Catoblepas]]
+# [[5. Mechanics/Bestiary/Monstrosity/Catoblepas.md|Catoblepas]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 70, Volo's Guide to Monsters p. 129*
 
 The catoblepas is as loathsome as the vile swamplands in which it lives, a conglomeration of bloated buffalo, dinosaur, warthog, and hippopotamus parts. Despite its ungainly physiology, a catoblepas resembles a natural animal in its behavior, ambling through its marshy home, munching choice vegetation, eating the occasional bit of carrion, and wallowing in mire. A catoblepas might be found with the one mate it chooses for life and, on occasion, with a calf. A catoblepas attacks anyone that moves too close, especially if guarding its young.
@@ -34,6 +34,7 @@ Sages say that gods of pestilence and rot created catoblepases as embodiments of
 "type": "monstrosity"
 "alignment": "Unaligned"
 "ac": !!int "14"
+"ac_class": "natural armor"
 "hp": !!int "84"
 "hit_dice": "8d10 + 40"
 "stats":
@@ -56,15 +57,15 @@ Sages say that gods of pestilence and rot created catoblepases as embodiments of
     \ creature is immune to the Stench of any catoblepas for 1 hour."
   "name": "Stench"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 5d6 + 4|avg (5d6 + 4) bludgeoning damage, and the target must\
-    \ succeed on a DC 16 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 10 ft., one target.\
+    \ Hit: dice:5d6 + 4|text(21) (5d6 + 4) bludgeoning damage, and the target\
+    \ must succeed on a DC 16 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
     \ until the start of the catoblepas's next turn."
   "name": "Tail"
 - "desc": "The catoblepas targets one creature it can see within 30 feet of it. The\
-    \ target must make a DC 16 Constitution saving throw, taking dice: 8d8|avg (8d8)\
-    \ necrotic damage on a failed save, or half as much damage on a successful one.\
-    \ If the saving throw fails by 5 or more, the target instead takes 64 necrotic\
+    \ target must make a DC 16 Constitution saving throw, taking dice:8d8|text(36)\
+    \ (8d8) necrotic damage on a failed save, or half as much damage on a successful\
+    \ one. If the saving throw fails by 5 or more, the target instead takes 64 necrotic\
     \ damage. The target dies if reduced to 0 hit points by this ray."
   "name": "Death Ray (Recharge 5-6)"
 "source":

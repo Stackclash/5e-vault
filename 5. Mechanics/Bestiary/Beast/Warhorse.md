@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Warhorse
 ---
-# [[5. Mechanics\Bestiary\Beast\Warhorse.md|Warhorse]]
+# [[5. Mechanics/Bestiary/Beast/Warhorse.md|Warhorse]]
 *Source: Monster Manual p. 340, Curse of Strahd. Available in the SRD and the Basic Rules.*
 
 ```statblock
@@ -41,8 +41,8 @@ aliases:
     \ make another attack with its hooves against it as a bonus action."
   "name": "Trampling Charge"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) bludgeoning damage."
   "name": "Hooves"
 "source":
 - "MM"

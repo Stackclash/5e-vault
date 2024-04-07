@@ -13,7 +13,6 @@ aliases:
   - Symbol
 ---
 # Symbol
-%%-- Embedded content starts on the next line. --%%
 *7th-level, Abjuration*  
 
 - **Casting time:** 1 minute
@@ -33,7 +32,7 @@ When you inscribe the glyph, choose one of the options below for its effect. Onc
 
 ## Death
 
-Each target must make a Constitution saving throw, taking `dice: 10d10|avg` (`10d10`) necrotic damage on a failed save, or half as much damage on a successful save.
+Each target must make a Constitution saving throw, taking `dice: 10d10|avg|noform` (`10d10`) necrotic damage on a failed save, or half as much damage on a successful save.
 
 ## Discord
 

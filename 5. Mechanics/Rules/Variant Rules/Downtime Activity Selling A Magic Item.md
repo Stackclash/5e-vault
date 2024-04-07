@@ -19,7 +19,7 @@ A character can find a buyer for one magic item by spending one workweek and 25 
 
 A character who wants to sell an item must make a Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]) check to determine what kind of offer comes in. The character can always opt not to sell, instead forfeiting the workweek of effort and trying again later. Use the Magic Item Base Prices and Magic Item Offer tables to determine the sale price.
 
-![Resolution; Magic Item Base Prices](compendium/tables/resolution-magic-item-base-prices-xge.md)
+![[5. Mechanics/Tables/Resolution Magic Item Base Prices.md\|Resolution; Magic Item Base Prices]]
 
 **Magic Item Offer**
 

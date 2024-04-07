@@ -343,7 +343,7 @@ _Source: Tasha's Cauldron of Everything p. 65_
 
 *5th-level sorcerer [[/5. Mechanics/Rules/Variant Rules/Optional Class Features.md\|optional class features]]*
 
-You can tap into your inner wellspring of magic to try to conjure success from failure. When you make an ability check that fails, you can spend 1 sorcery point to reroll the `dice: d20|avg` (`d20`), and you must use the new roll, potentially turning the failure into a success.
+You can tap into your inner wellspring of magic to try to conjure success from failure. When you make an ability check that fails, you can spend 1 sorcery point to reroll the `dice: d20|avg|noform` (`d20`), and you must use the new roll, potentially turning the failure into a success.
 
 ### Sorcerous Origin feature (Level 6)
 

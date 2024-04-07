@@ -14,6 +14,6 @@ cost: 50000
 
 - **Cost**: 500 gp
 
-A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or take `dice: 3d6|avg` (`3d6`) poison damage, and must repeat the saving throw at the start of each of its turns. On each successive failed save, the character takes `dice: 1d6|avg` (`1d6`) poison damage. After three successful saves, the poison ends.
+A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or take `dice:3d6|text(10)` (`3d6`) poison damage, and must repeat the saving throw at the start of each of its turns. On each successive failed save, the character takes `dice:1d6|text(3)` (`1d6`) poison damage. After three successful saves, the poison ends.
 
 *Source: Dungeon Master's Guide p. 258. Available in the SRD.*

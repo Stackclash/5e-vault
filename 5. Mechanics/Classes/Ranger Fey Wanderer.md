@@ -22,9 +22,9 @@ A fey mystique surrounds you, thanks to the boon of an archfey, the shining frui
 
 *3rd-level Fey Wanderer feature*
 
-You can augment your weapon strikes with mind-scarring magic, drawn from the gloomy hollows of the Feywild. When you hit a creature with a weapon, you can deal an extra `dice: 1d4|avg` (`1d4`) psychic damage to the target, which can take this extra damage only once per turn.
+You can augment your weapon strikes with mind-scarring magic, drawn from the gloomy hollows of the Feywild. When you hit a creature with a weapon, you can deal an extra `dice: 1d4|avg|noform` (`1d4`) psychic damage to the target, which can take this extra damage only once per turn.
 
-The extra damage increases to `dice: 1d6|avg` (`1d6`) when you reach 11th level in this class.
+The extra damage increases to `dice: 1d6|avg|noform` (`1d6`) when you reach 11th level in this class.
 
 ### Fey Wanderer Magic (Level 3)
 

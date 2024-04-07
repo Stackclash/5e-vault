@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Valenar Hound
 ---
-# [[5. Mechanics\Bestiary\Fey\Valenar Hound.md|Valenar Hound]]
+# [[5. Mechanics/Bestiary/Fey/Valenar Hound.md|Valenar Hound]]
 *Source: Eberron: Rising from the Last War p. 312*
 
 The elves of Valenar say that when their ancestors fought the giants of Xen'drik, elf druids took the forms of animals on the battlefield. The cruel and mighty Emperor Cul'sir of the giants laid a curse upon the druids and trapped them in the forms of animals. Just as the ancestors of the Valenar guide their warriors in battle, the spirits of these druids can awaken power in an animal to create a companion worthy of a champion.
@@ -45,6 +45,7 @@ Each Valenar animal can be customized with an ancestral gift, a supernatural tra
 "type": "fey"
 "alignment": "Neutral"
 "ac": !!int "14"
+"ac_class": "natural armor"
 "hp": !!int "19"
 "hit_dice": "3d8 + 6"
 "stats":
@@ -71,9 +72,9 @@ Each Valenar animal can be customized with an ancestral gift, a supernatural tra
     \ checks that rely on hearing or smell."
   "name": "Keen Hearing and Smell"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage. If the target is a creature,\
-    \ it must succeed on a DC 13 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 3|text(6) (1d6 + 3) piercing damage. If the target is\
+    \ a creature, it must succeed on a DC 13 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Bite"
 "source":
 - "ERLW"

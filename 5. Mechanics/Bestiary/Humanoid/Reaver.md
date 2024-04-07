@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Reaver
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Reaver.md|Reaver]]
+# [[5. Mechanics/Bestiary/Humanoid/Reaver.md|Reaver]]
 *Source: Strongholds and Followers p. 72*
 
 ```statblock
@@ -20,6 +20,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "15"
+"ac_class": "Medium"
 "stats":
 - !!int "18"
 - !!int "14"
@@ -45,9 +46,9 @@ aliases:
 - "desc": "This creature is a Retainer, as described in \"Strongholds and Followers\""
   "name": "Retainer"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d12 + 3|avg (1d12 + 3) slashing damage.\n\nAt 7th level, retainers\
-    \ can take two signature attacks per round."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d12 + 3|text(9) (1d12 + 3) slashing damage.\n\nAt 7th level,\
+    \ retainers can take two signature attacks per round."
   "name": "Signature Attack"
 - "desc": "Prerequisite: 5th-level retainer\n\nThe reaver immediately makes three\
     \ attacks with their signature attack that score a critical hit on a 18–20."

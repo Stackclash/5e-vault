@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Medusa
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Medusa.md|Medusa]]
+# [[5. Mechanics/Bestiary/Monstrosity/Medusa.md|Medusa]]
 *Source: Monster Manual p. 214, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*
 
 As deadly as they are ravishing, the serpent-haired medusas suffer an immortal curse brought on by their vanity. They lurk in quiet exile among the tumbled ruins of their former lives, surrounded by the petrified remains of past admirers and would-be heroes.
@@ -32,6 +32,7 @@ A medusa is subject to its own curse. By looking vainly on its reflection, it tu
 "type": "monstrosity"
 "alignment": "Lawful Evil"
 "ac": !!int "15"
+"ac_class": "natural armor"
 "hp": !!int "127"
 "hit_dice": "17d8 + 51"
 "stats":
@@ -73,15 +74,15 @@ A medusa is subject to its own curse. By looking vainly on its reflection, it tu
 - "desc": "The medusa makes either three melee attacks—one with its snake hair and\
     \ two with its shortsword—or two ranged attacks with its longbow."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage plus dice: 4d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one creature.\
+    \ Hit: dice:1d4 + 2|text(4) (1d4 + 2) piercing damage plus dice:4d6|text(14)\
     \ (4d6) poison damage."
   "name": "Snake Hair"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 2|text(5) (1d6 + 2) piercing damage."
   "name": "Shortsword"
-- "desc": "Ranged Weapon Attack: dice: d20+5 (+5 to hit), range 150/600 ft., one\
-    \ target. Hit: dice: 1d8 + 2|avg (1d8 + 2) piercing damage plus dice: 2d6|avg\
+- "desc": "Ranged Weapon Attack: dice: d20+5 (+5) to hit, range 150/600 ft.,\
+    \ one target. Hit: dice:1d8 + 2|text(6) (1d8 + 2) piercing damage plus dice:2d6|text(7)\
     \ (2d6) poison damage."
   "name": "Longbow"
 "source":

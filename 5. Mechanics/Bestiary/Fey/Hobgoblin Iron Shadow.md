@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Hobgoblin Iron Shadow
 ---
-# [[5. Mechanics\Bestiary\Fey\Hobgoblin Iron Shadow.md|Hobgoblin Iron Shadow]]
+# [[5. Mechanics/Bestiary/Fey/Hobgoblin Iron Shadow.md|Hobgoblin Iron Shadow]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 154, Volo's Guide to Monsters p. 162*
 
 Iron shadows are hobgoblin martial artists who serve fey and mortal courts as secret police, scouts, and assassins. They spy to ferret out treachery, rebellion, and betrayal and deal with it ruthlessly. Iron shadows possess agility and stamina matched only by their ironclad commitment to the will of their masters. They wield a deadly combination of unarmed fighting techniques and shadow magic to deceive and defeat their foes. While on secret missions, they wear masks crafted to resemble monsters, both to conceal their identities and to strike fear into their foes.
@@ -27,6 +27,7 @@ An iron shadow is usually recruited from the ranks of the Feywild's hobgoblin ar
 "subtype": "goblinoid"
 "alignment": "Typically  Lawful Neutral"
 "ac": !!int "15"
+"ac_class": "Unarmored Defense"
 "hp": !!int "32"
 "hit_dice": "5d8 + 10"
 "stats":
@@ -59,11 +60,11 @@ An iron shadow is usually recruited from the ranks of the Feywild's hobgoblin ar
     \ or a Dart attack. It can also use\n\nShadow Jaunt once, either before or after\
     \ one of the attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d4 + 3|text(5) (1d4 + 3) bludgeoning damage."
   "name": "Unarmed Strike"
-- "desc": "Ranged Weapon Attack: dice: d20+5 (+5 to hit), range 20/60 ft., one\
-    \ target. Hit: dice: 1d4 + 3|avg (1d4 + 3) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+5 (+5) to hit, range 20/60 ft., one\
+    \ target. Hit: dice:1d4 + 3|text(5) (1d4 + 3) piercing damage."
   "name": "Dart"
 - "desc": "The hobgoblin teleports, along with any equipment it is wearing or carrying,\
     \ up to 30 feet to an unoccupied space it can see. Both the space it leaves and\

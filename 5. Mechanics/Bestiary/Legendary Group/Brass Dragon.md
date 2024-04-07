@@ -21,7 +21,7 @@ On initiative count 20 (losing initiative ties), the dragon takes a lair action 
 
 At your discretion, a legendary ([[5. Mechanics/Bestiary/Dragon/Adult Brass Dragon.md|adult]] or [[5. Mechanics/Bestiary/Dragon/Ancient Brass Dragon.md|ancient]]) brass dragon can use one or more of the following additional lair actions while in its lair:
 
-- **Animate Statues.** The dragon chooses up to three statues in the lair that it can see. Each of these statues briefly animates and attacks one creature within 5 feet of it, with a +7 bonus to hit and dealing `dice: 3d6|avg` (`3d6`) bludgeoning damage on a hit.  
+- **Animate Statues.** The dragon chooses up to three statues in the lair that it can see. Each of these statues briefly animates and attacks one creature within 5 feet of it, with a +7 bonus to hit and dealing `dice:3d6|text(10)` (`3d6`) bludgeoning damage on a hit.  
 - **Blast of Wind.** A mighty wind sweeps through the lair in a direction of the dragon's choice, blowing along a line 40 feet wide and 100 feet long. Each creature in that area except the dragon must succeed on a DC 15 Strength saving throw or be pushed 15 feet in the wind's direction and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]. Gases and vapors are dispersed by the wind, and unprotected flames are extinguished. Protected flames, such as lanterns, have a 50% chance chance of being extinguished. If the dragon is within the area of the wind, it can choose to be pushed 15 feet in the wind's direction, and the wind can't knock the dragon [[/5. Mechanics/Rules/Conditions.md#prone|prone]].  
 - **Obscuring Sand.** Dust and sand fill the air within 120 feet of the dragon, making the area lightly obscured until initiative count 20 on the next round.  
 
@@ -34,7 +34,7 @@ The region containing a legendary brass dragon's lair is warped by the dragon's 
 - Images of Large or smaller monsters haunt the desert sands within 1 mile of the dragon's lair. These illusions move and appear real, although they can do no harm. A creature that examines an image from a distance can tell it's an illusion with a successful DC 20 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation|Investigation]]) check. Any physical interaction with an image reveals it to be an illusion, because objects pass through it.  
 - Whenever a creature with an Intelligence of 3 or higher comes within 30 feet of a water source within 1 mile of the dragon's lair, the dragon becomes aware of the creature's presence and location.  
 
-If the dragon dies, the tracks fade in `dice: 1d10|avg` (`1d10`) days, but the other effects fade immediately.
+If the dragon dies, the tracks fade in `dice: 1d10|avg|noform` (`1d10`) days, but the other effects fade immediately.
 
 ### Additional Regional Effects
 

@@ -16,7 +16,7 @@ statblock: inline
 aliases:
   - Orog
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Orog.md|Orog]]
+# [[5. Mechanics/Bestiary/Humanoid/Orog.md|Orog]]
 *Source: Monster Manual p. 247*
 
 Orcs are savage raiders and pillagers with stooped postures, low foreheads, and piggish faces with prominent lower canines that resemble tusks.
@@ -76,6 +76,7 @@ Mistrusted by orcs, some orogs form independent mercenary war bands that sell th
 "subtype": "orc"
 "alignment": "Chaotic Evil"
 "ac": !!int "18"
+"ac_class": "[[5. Mechanics/Items/Plate Armor.md|plate armor]]"
 "hp": !!int "42"
 "hit_dice": "5d8 + 20"
 "stats":
@@ -99,11 +100,11 @@ Mistrusted by orcs, some orogs form independent mercenary war bands that sell th
 "actions":
 - "desc": "The orog makes two greataxe attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d12 + 4|avg (1d12 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d12 + 4|text(10) (1d12 + 4) slashing damage."
   "name": "Greataxe"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft.\
-    \ or range 30/120 ft., one target. Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing\
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft.\
+    \ or range 30/120 ft., one target. Hit: dice:1d6 + 4|text(7) (1d6 + 4) piercing\
     \ damage."
   "name": "Javelin"
 "source":

@@ -1,27 +1,28 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: null
 condition: healthy
 image: 4. World Almanac/NPCs/img/isolde.webp
 relationships: []
-tags: 
-aliases: [Isolde]
-pronounced: 
-race: 
-gender: 
-age: 
+tags: null
+aliases:
+  - Isolde
+pronounced: null
+race: null
+gender: null
+age: null
 alignment: Any Evil alignment
-occupation: 
+occupation: null
 groups: []
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]
@@ -121,6 +122,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 "subtype": "elf"
 "alignment": "Any Evil alignment"
 "ac": !!int "19"
+"ac_class": "[[5. Mechanics/Items/Scale Mail.md|scale mail]]"
 "hp": !!int "82"
 "hit_dice": "11d8 + 33"
 "stats":
@@ -163,14 +165,14 @@ await dv.view("npcRelationships", { current: dv.current() })
 "actions":
 - "desc": "Isolde makes two melee attacks or uses its Fire Ray twice."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft.., one target.\
-    \ Hit: dice: 1d8 + 7|avg (1d8 + 7) slashing damage, or dice: 1d10 + 7|avg\
-    \ (1d10 + 7) slashing damage if used with two hands to make a melee attack.\
-    \ If the target is a fiend or an undead, it takes an extra dice: 2d10|avg (2d10)\
-    \ radiant damage."
+- "desc": "Melee Weapon Attack: dice: d20+10 (+10) to hit, reach 5 ft.., one\
+    \ target. Hit: dice:1d8 + 7|text(11) (1d8 + 7) slashing damage, or dice:1d10\
+    \ + 7|text(12) (1d10 + 7) slashing damage if used with two hands to make a\
+    \ melee attack. If the target is a fiend or an undead, it takes an extra dice:2d10|text(11)\
+    \ (2d10) radiant damage."
   "name": "Nepenthe"
-- "desc": "Ranged Spell Attack: dice: d20+7 (+7 to hit), range 120 ft., one target.\
-    \ Hit: dice: 3d6|avg (3d6) fire damage."
+- "desc": "Ranged Spell Attack: dice: d20+7 (+7) to hit, range 120 ft., one\
+    \ target. Hit: dice:3d6|text(10) (3d6) fire damage."
   "name": "Fire Ray"
 - "desc": "One humanoid Isolde can see within 30 feet of it must succeed on a DC 14\
     \ Wisdom saving throw or be magically [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\

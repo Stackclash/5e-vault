@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Giant Fly (DMG)
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Fly.md|Giant Fly (DMG)]]
+# [[5. Mechanics/Bestiary/Beast/Giant Fly.md|Giant Fly (DMG)]]
 *Source: Dungeon Master's Guide p. 169*
 
 ```statblock

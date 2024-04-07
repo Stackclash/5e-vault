@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Shield Guardian
 ---
-# [[5. Mechanics\Bestiary\Construct\Shield Guardian.md|Shield Guardian]]
+# [[5. Mechanics/Bestiary/Construct/Shield Guardian.md|Shield Guardian]]
 *Source: Monster Manual p. 271, Curse of Strahd. Available in the SRD.*
 
 Wizards and other spellcasters create shield guardians for protection. A shield guardian treads beside its master, absorbing damage to keep its master alive as long as possible.
@@ -38,6 +38,7 @@ A shield guardian doesn't require air, food, drink, or sleep.
 "type": "construct"
 "alignment": "Unaligned"
 "ac": !!int "17"
+"ac_class": "natural armor"
 "hp": !!int "142"
 "hit_dice": "15d10 + 60"
 "stats":
@@ -76,8 +77,8 @@ A shield guardian doesn't require air, food, drink, or sleep.
 "actions":
 - "desc": "The guardian makes two fist attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) bludgeoning damage."
   "name": "Fist"
 "reactions":
 - "desc": "When a creature makes an attack against the wearer of the guardian's amulet,\

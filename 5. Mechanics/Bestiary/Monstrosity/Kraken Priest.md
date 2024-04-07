@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Kraken Priest
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Kraken Priest.md|Kraken Priest]]
+# [[5. Mechanics/Bestiary/Monstrosity/Kraken Priest.md|Kraken Priest]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 167, Volo's Guide to Monsters p. 215*
 
 A kraken can seem godlike to folk who have faced its fury. Those who mistake its might for divine power and those who seek to appease the monster through veneration are sometimes rewarded with power, to serve thereafter as kraken priests.
@@ -25,6 +25,7 @@ Every kraken priest undergoes a change in appearance that reflects the kraken's 
 "type": "monstrosity"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "15"
+"ac_class": "natural armor"
 "hp": !!int "75"
 "hit_dice": "10d8 + 30"
 "stats":
@@ -53,12 +54,12 @@ Every kraken priest undergoes a change in appearance that reflects the kraken's 
 "actions":
 - "desc": "The priest makes two Thunderous Touch or Thunderbolt attacks."
   "name": "Multiattack"
-- "desc": "Melee Spell Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 5d10|avg (5d10) thunder damage."
+- "desc": "Melee Spell Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:5d10|text(27) (5d10) thunder damage."
   "name": "Thunderous Touch"
-- "desc": "Ranged Spell Attack: dice: d20+5 (+5 to hit), range 60 ft., one target.\
-    \ Hit: dice: 2d10|avg (2d10) lightning damage plus dice: 2d10|avg (2d10)\
-    \ thunder damage, and the target is knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+- "desc": "Ranged Spell Attack: dice: d20+5 (+5) to hit, range 60 ft., one target.\
+    \ Hit: dice:2d10|text(11) (2d10) lightning damage plus dice:2d10|text(11)\
+    \ (2d10) thunder damage, and the target is knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Thunderbolt"
 - "desc": "A kraken speaks through the priest with a thunderous voice audible within\
     \ 300 feet. Creatures of the priest's choice that can hear the kraken's words\

@@ -16,7 +16,7 @@ statblock: inline
 aliases:
   - Nagpa
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Nagpa.md|Nagpa]]
+# [[5. Mechanics/Bestiary/Monstrosity/Nagpa.md|Nagpa]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 189, Mordenkainen's Tome of Foes p. 215*
 
 Long ago, the Raven Queen cursed a cabal of powerful wizards for meddling in a ritual that would have helped avert a war between the gods. She transformed them into the scabrous, birdlike creatures known as nagpas and rendered them able to acquire new lore and magical power only from the ruins of fallen civilizations and great calamities.
@@ -32,6 +32,7 @@ Hungry to claim more power despite the Raven Queen's curse, nagpas strive to bri
 "subtype": "wizard"
 "alignment": "Typically  Neutral Evil"
 "ac": !!int "19"
+"ac_class": "natural armor"
 "hp": !!int "203"
 "hit_dice": "37d8 + 37"
 "stats":
@@ -69,12 +70,12 @@ Hungry to claim more power despite the Raven Queen's curse, nagpas strive to bri
 - "desc": "The nagpa makes three Staff or Deathly Ray attacks. It can replace one\
     \ attack with a use of Spellcasting."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 2|avg (2d6 + 2) bludgeoning damage plus dice: 7d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 2|text(9) (2d6 + 2) bludgeoning damage plus dice:7d6|text(24)\
     \ (7d6) necrotic damage."
   "name": "Staff"
-- "desc": "Ranged Spell Attack: dice: d20+12 (+12 to hit), range 120 ft., one\
-    \ target. Hit: dice: 7d6 + 6|avg (7d6 + 6) necrotic damage."
+- "desc": "Ranged Spell Attack: dice: d20+12 (+12) to hit, range 120 ft., one\
+    \ target. Hit: dice:7d6 + 6|text(30) (7d6 + 6) necrotic damage."
   "name": "Deathly Ray"
 "bonus_actions":
 - "desc": "The nagpa targets one creature it can see within 90 feet of it. The target\

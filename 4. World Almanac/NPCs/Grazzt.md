@@ -1,27 +1,28 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: null
 condition: healthy
 image: 4. World Almanac/NPCs/img/grazzt.webp
 relationships: []
-tags: 
-aliases: [Graz'zt]
-pronounced: 
-race: 
-gender: 
-age: 
+tags: null
+aliases:
+  - Graz'zt
+pronounced: null
+race: null
+gender: null
+age: null
 alignment: Chaotic Evil
-occupation: 
+occupation: null
 groups: []
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]
@@ -132,6 +133,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 "subtype": "demon"
 "alignment": "Chaotic Evil"
 "ac": !!int "20"
+"ac_class": "natural armor"
 "hp": !!int "346"
 "hit_dice": "33d10 + 165"
 "stats":
@@ -175,9 +177,9 @@ await dv.view("npcRelationships", { current: dv.current() })
 - "desc": "Graz'zt makes two Wave of Sorrow attacks. He can replace one attack with\
     \ a use of Spellcasting."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 4d6 + 6|avg (4d6 + 6) force damage plus dice: 4d6|avg (4d6)\
-    \ acid damage."
+- "desc": "Melee Weapon Attack: dice: d20+13 (+13) to hit, reach 10 ft., one\
+    \ target. Hit: dice:4d6 + 6|text(20) (4d6 + 6) force damage plus dice:4d6|text(14)\
+    \ (4d6) acid damage."
   "name": "Wave of Sorrow (Greatsword)"
 - "desc": "Graz'zt teleports, along with any equipment he is wearing or carrying,\
     \ up to 120 feet to an unoccupied space he can see."
@@ -230,7 +232,7 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ made of stone or metal become highly reflective, as though polished to a shine.\
     \ These surfaces become supernaturally mirrorlike.  "
   "name": ""
-- "desc": "If Graz'zt dies, these effects fade over the course of dice: 1d10|avg\
+- "desc": "If Graz'zt dies, these effects fade over the course of dice: 1d10|avg|noform\
     \ (1d10) days."
   "name": ""
 "source":

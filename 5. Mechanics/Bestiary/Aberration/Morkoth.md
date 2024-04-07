@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Morkoth
 ---
-# [[5. Mechanics\Bestiary\Aberration\Morkoth.md|Morkoth]]
+# [[5. Mechanics/Bestiary/Aberration/Morkoth.md|Morkoth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 186, Volo's Guide to Monsters p. 177*
 
 Ancient and devious, morkoths are voracious collectors. Each one floats through the planes on a strange, mobile island, amassing the valuables, oddities, and castoffs of the multiverse in a massive, ever-growing collection.
@@ -39,6 +39,7 @@ A morkoth encountered in its lair has a challenge rating of 12 (8,400 XP).
 "type": "aberration"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "17"
+"ac_class": "natural armor"
 "hp": !!int "165"
 "hit_dice": "22d10 + 44"
 "stats":
@@ -75,16 +76,16 @@ A morkoth encountered in its lair has a challenge rating of 12 (8,400 XP).
 - "desc": "The morkoth makes either two Bite attacks and one Tentacles attack or three\
     \ Bite attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 2|avg (2d6 + 2) slashing damage plus dice: 3d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 2|text(9) (2d6 + 2) slashing damage plus dice:3d6|text(10)\
     \ (3d6) psychic damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 15 ft., one target.\
-    \ Hit: dice: 3d8 + 2|avg (3d8 + 2) bludgeoning damage, and the target is\
-    \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 14) if it is\
-    \ a Large or smaller creature. Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
-    \ and takes dice: 3d8 + 2|avg (3d8 + 2) bludgeoning damage at the start of\
-    \ each of its turns, and the morkoth can't use its tentacles on another target."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 15 ft., one target.\
+    \ Hit: dice:3d8 + 2|text(15) (3d8 + 2) bludgeoning damage, and the target\
+    \ is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 14) if it\
+    \ is a Large or smaller creature. Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
+    \ and takes dice:3d8 + 2|text(15) (3d8 + 2) bludgeoning damage at the start\
+    \ of each of its turns, and the morkoth can't use its tentacles on another target."
   "name": "Tentacles"
 - "desc": "The morkoth projects a 30-foot cone of magical energy. Each creature in\
     \ that area must make a DC 17 Wisdom saving throw. On a failed save, the creature\

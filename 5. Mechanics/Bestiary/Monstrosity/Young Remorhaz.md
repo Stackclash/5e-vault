@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Young Remorhaz
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Young Remorhaz.md|Young Remorhaz]]
+# [[5. Mechanics/Bestiary/Monstrosity/Young Remorhaz.md|Young Remorhaz]]
 *Source: Monster Manual p. 258*
 
 From beneath the snow and ice bursts a remorhaz in a cloud of steam, its body pulsing with internal fire. Wing like fins flare from the back of the creature's head, and its wide mouth brims with jagged teeth.
@@ -30,6 +30,7 @@ Frost giant hunters scour the icy wastes for remorhaz nests and eggs. The giants
 "type": "monstrosity"
 "alignment": "Unaligned"
 "ac": !!int "14"
+"ac_class": "natural armor"
 "hp": !!int "93"
 "hit_dice": "11d10 + 33"
 "stats":
@@ -46,11 +47,11 @@ Frost giant hunters scour the icy wastes for remorhaz nests and eggs. The giants
 "cr": "5"
 "traits":
 - "desc": "A creature that touches the remorhaz or hits it with a melee attack while\
-    \ within 5 feet of it takes dice: 2d6|avg (2d6) fire damage."
+    \ within 5 feet of it takes dice:2d6|text(7) (2d6) fire damage."
   "name": "Heated Body"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 3d10 + 4|avg (3d10 + 4) piercing damage plus dice: 2d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:3d10 + 4|text(20) (3d10 + 4) piercing damage plus dice:2d6|text(7)\
     \ (2d6) fire damage."
   "name": "Bite"
 "source":

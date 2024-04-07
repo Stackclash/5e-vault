@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Young Green Dragon
 ---
-# [[5. Mechanics\Bestiary\Dragon\Young Green Dragon.md|Young Green Dragon]]
+# [[5. Mechanics/Bestiary/Dragon/Young Green Dragon.md|Young Green Dragon]]
 *Source: Monster Manual p. 94. Available in the SRD and the Basic Rules.*
 
 The most cunning and treacherous of true dragons, green dragons use misdirection and trickery to get the upper hand against their enemies. Nasty tempered and thoroughly evil, they take special pleasure in subverting and corrupting the good-hearted. In the ancient forests they roam, green dragons demonstrate an aggression that is often less about territory than it is about gaining power and wealth with as little effort as possible.
@@ -110,6 +110,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 "type": "dragon"
 "alignment": "Lawful Evil"
 "ac": !!int "18"
+"ac_class": "natural armor"
 "hp": !!int "136"
 "hit_dice": "16d10 + 48"
 "stats":
@@ -140,16 +141,17 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 "actions":
 - "desc": "The dragon makes three attacks: one with its bite and two with its claws."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d10 + 4|avg (2d10 + 4) piercing damage plus dice: 2d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 10 ft., one target.\
+    \ Hit: dice:2d10 + 4|text(15) (2d10 + 4) piercing damage plus dice:2d6|text(7)\
     \ (2d6) poison damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) slashing damage."
   "name": "Claw"
 - "desc": "The dragon exhales poisonous gas in a 30-foot cone. Each creature in that\
-    \ area must make a DC 14 Constitution saving throw, taking dice: 12d6|avg (12d6)\
-    \ poison damage on a failed save, or half as much damage on a successful one."
+    \ area must make a DC 14 Constitution saving throw, taking dice:12d6|text(42)\
+    \ (12d6) poison damage on a failed save, or half as much damage on a successful\
+    \ one."
   "name": "Poison Breath (Recharge 5-6)"
 "source":
 - "MM"

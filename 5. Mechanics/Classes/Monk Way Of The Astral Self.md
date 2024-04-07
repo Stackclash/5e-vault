@@ -75,7 +75,7 @@ While the spectral body is present, you gain the following benefits.
 #### Deflect Energy
 _Source: Tasha's Cauldron of Everything_
 
-When you take acid, cold, fire, force, lightning, or thunder damage, you can use your reaction to deflect it. When you do so, the damage you take is reduced by `dice: 1d10|avg` (`1d10`) + your Wisdom modifier (minimum reduction of 1).
+When you take acid, cold, fire, force, lightning, or thunder damage, you can use your reaction to deflect it. When you do so, the damage you take is reduced by `dice: 1d10|avg|noform` (`1d10`) + your Wisdom modifier (minimum reduction of 1).
 
 #### Empowered Arms
 _Source: Tasha's Cauldron of Everything_

@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Ghast
 ---
-# [[5. Mechanics\Bestiary\Undead\Ghast.md|Ghast]]
+# [[5. Mechanics/Bestiary/Undead/Ghast.md|Ghast]]
 *Source: Monster Manual p. 148, Curse of Strahd. Available in the SRD.*
 
 Ghouls roam the night in packs, driven by an insatiable hunger for humanoid flesh.
@@ -63,15 +63,15 @@ Orcus sometimes infuses a ghoul with a stronger dose of abyssal energy, making a
     \ throws against effects that turn undead."
   "name": "Turn Defiance"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 2d8 + 3|avg (2d8 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one creature.\
+    \ Hit: dice:2d8 + 3|text(12) (2d8 + 3) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) slashing damage. If the target is a creature\
-    \ other than an undead, it must succeed on a DC 10 Constitution saving throw or\
-    \ be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]] for 1 minute. The\
-    \ target can repeat the saving throw at the end of each of its turns, ending the\
-    \ effect on itself on a success."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 3|text(10) (2d6 + 3) slashing damage. If the target is\
+    \ a creature other than an undead, it must succeed on a DC 10 Constitution saving\
+    \ throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]] for 1 minute.\
+    \ The target can repeat the saving throw at the end of each of its turns, ending\
+    \ the effect on itself on a success."
   "name": "Claws"
 "source":
 - "MM"

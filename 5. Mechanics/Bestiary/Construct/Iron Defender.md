@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Iron Defender
 ---
-# [[5. Mechanics\Bestiary\Construct\Iron Defender.md|Iron Defender]]
+# [[5. Mechanics/Bestiary/Construct/Iron Defender.md|Iron Defender]]
 *Source: Eberron: Rising from the Last War p. 293*
 
 An iron defender fights for its creator. They come in many shapes and are often crafted in the form of animals. More creative artificers craft iron defenders in the shape of hybrid animals or other fantastical creatures.
@@ -29,6 +29,7 @@ Each kind of homunculus has a body constructed from different kinds of materials
 "type": "construct"
 "alignment": "Neutral"
 "ac": !!int "17"
+"ac_class": "natural armor"
 "hp": !!int "30"
 "hit_dice": "4d8 + 12"
 "stats":
@@ -57,10 +58,10 @@ Each kind of homunculus has a body constructed from different kinds of materials
     \ telepathically."
   "name": "Telepathic Bond"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage. If the target is a creature,\
-    \ it must succeed on a DC 13 Strength saving throw or take an extra dice: 1d6|avg\
-    \ (1d6) piercing damage and be [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 3|text(6) (1d6 + 3) piercing damage. If the target is\
+    \ a creature, it must succeed on a DC 13 Strength saving throw or take an extra\
+    \ dice:1d6|text(3) (1d6) piercing damage and be [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ (escape DC 13). The defender can have only one creature [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ in this way at a time."
   "name": "Bite"

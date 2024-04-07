@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Young Ruby Dragon
 ---
-# [[5. Mechanics\Bestiary\Dragon\Young Ruby Dragon.md|Young Ruby Dragon]]
+# [[5. Mechanics/Bestiary/Dragon/Young Ruby Dragon.md|Young Ruby Dragon]]
 *Source: Strongholds and Followers p. 205*
 
 The rubies protect the knowledge of reality, which they call realitas, the essential thing that separates real things from illusion.
@@ -25,6 +25,7 @@ They are measured and formal, slow to give trust. They like seeing things done p
 "type": "dragon"
 "alignment": "Lawful Neutral"
 "ac": !!int "18"
+"ac_class": "natural armor"
 "hp": !!int "104"
 "hit_dice": "16d10 + 16"
 "stats":
@@ -49,7 +50,8 @@ They are measured and formal, slow to give trust. They like seeing things done p
 "cr": "9"
 "traits":
 - "desc": ". . [[/5. Mechanics/Rules/Variant Rules/Gemstone Dragon Psionics.md|Gemstone Dragon Psionics]].\
-    \ Charges: 16 • Recharge: dice: 1d6|avg (1d6) • Fracture: 16"
+    \ Charges: 16 • Recharge: dice: 1d6|avg|noform (1d6) • Fracture:\
+    \ 16"
   "name": ""
 - "desc": "Allies' spells cast within 30 feet have their saving throw DC increased\
     \ by 2."
@@ -57,11 +59,11 @@ They are measured and formal, slow to give trust. They like seeing things done p
 "actions":
 - "desc": "The dragon makes three attacks: one with its bite and two with its claws."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d10 + 3|avg (2d10 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 10 ft., one target.\
+    \ Hit: dice:2d10 + 3|text(14) (2d10 + 3) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 3|text(10) (2d6 + 3) slashing damage."
   "name": "Claw"
 "source":
 - "SaF"

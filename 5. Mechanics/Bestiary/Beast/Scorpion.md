@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Scorpion
 ---
-# [[5. Mechanics\Bestiary\Beast\Scorpion.md|Scorpion]]
+# [[5. Mechanics/Bestiary/Beast/Scorpion.md|Scorpion]]
 *Source: Monster Manual p. 337. Available in the SRD and the Basic Rules.*
 
 ```statblock
@@ -20,6 +20,7 @@ aliases:
 "type": "beast"
 "alignment": "Unaligned"
 "ac": !!int "11"
+"ac_class": "natural armor"
 "hp": !!int "1"
 "hit_dice": "1d4 - 1"
 "stats":
@@ -34,10 +35,10 @@ aliases:
 "languages": ""
 "cr": "0"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one creature.\
+- "desc": "Melee Weapon Attack: dice: d20+2 (+2) to hit, reach 5 ft., one creature.\
     \ Hit: 1 piercing damage, and the target must make a DC 9 Constitution saving\
-    \ throw, taking dice: 1d8|avg (1d8) poison damage on a failed save, or half\
-    \ as much damage on a successful one."
+    \ throw, taking dice:1d8|text(4) (1d8) poison damage on a failed save, or\
+    \ half as much damage on a successful one."
   "name": "Sting"
 "source":
 - "MM"

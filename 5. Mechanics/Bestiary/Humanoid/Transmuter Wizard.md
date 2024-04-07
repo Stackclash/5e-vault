@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Transmuter Wizard
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Transmuter Wizard.md|Transmuter Wizard]]
+# [[5. Mechanics/Bestiary/Humanoid/Transmuter Wizard.md|Transmuter Wizard]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 265, Volo's Guide to Monsters p. 218*
 
 Transmuters are masters at transforming physical forms. They typically view magical transmutation as a path to riches, enlightenment, or apotheosis.
@@ -26,6 +26,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "12"
+"ac_class": "15 with [[5. Mechanics/Spells/Mage Armor.md|mage armor]]"
 "hp": !!int "49"
 "hit_dice": "11d8"
 "stats":
@@ -67,8 +68,8 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "actions":
 - "desc": "The transmuter makes three Arcane Burst attacks."
   "name": "Multiattack"
-- "desc": "Melee or Ranged Spell Attack: dice: d20+6 (+6 to hit), reach 5 ft.\
-    \ or range 120 ft., one target. Hit: dice: 3d10 + 3|avg (3d10 + 3) acid\
+- "desc": "Melee or Ranged Spell Attack: dice: d20+6 (+6) to hit, reach 5 ft.\
+    \ or range 120 ft., one target. Hit: dice:3d10 + 3|text(19) (3d10 + 3) acid\
     \ damage."
   "name": "Arcane Burst"
 "bonus_actions":

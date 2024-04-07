@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Necromancer
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Necromancer.md|Necromancer]]
+# [[5. Mechanics/Bestiary/Humanoid/Necromancer.md|Necromancer]]
 *Source: Strongholds and Followers p. 81*
 
 ```statblock
@@ -20,6 +20,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "13"
+"ac_class": "Light"
 "stats":
 - !!int "14"
 - !!int "14"
@@ -46,14 +47,14 @@ aliases:
   "name": "Retainer"
 "actions":
 - "desc": "The necromancer casts the [[5. Mechanics/Spells/Chill Touch.md|chill touch]]\
-    \ cantrip (dice: d20+6 (+6 to hit)).\n\nAt 7th level, retainers can take two\
+    \ cantrip (dice: d20+6 (+6) to hit).\n\nAt 7th level, retainers can take two\
     \ signature attacks per round."
   "name": "Signature Attack"
 - "desc": "Prerequisite: 3rd-level retainer\n\nThe necromancer casts the [blindness/deafness](compendium/spells/blindness-deafness.md)\
     \ spell (spell save DC 13 at 3rd level, 14 at 5th level, and 15 at 7th level)."
   "name": "Blindness/Deafness (3/Day)"
 - "desc": "Prerequisite: 5th-level retainer\n\nThe necromancer casts the [vampiric\
-    \ touch](compendium/spells/vampiric-touch.md) spell (dice: d20+6 (+6 to hit))."
+    \ touch](compendium/spells/vampiric-touch.md) spell (dice: d20+6 (+6) to hit)."
   "name": "Vampiric Touch (1/Day)"
 - "desc": "Prerequisite: 7th-level retainer\n\nThe necromancer casts the [[5. Mechanics/Spells/Blight.md|blight]]\
     \ spell (spell save DC 15)."

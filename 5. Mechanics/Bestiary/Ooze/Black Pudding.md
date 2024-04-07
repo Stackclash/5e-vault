@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Black Pudding
 ---
-# [[5. Mechanics\Bestiary\Ooze\Black Pudding.md|Black Pudding]]
+# [[5. Mechanics/Bestiary/Ooze/Black Pudding.md|Black Pudding]]
 *Source: Monster Manual p. 241, Curse of Strahd. Available in the SRD.*
 
 A black pudding resembles a heaving mound of sticky black sludge. In dim passageways, the pudding appears to be little more than a blot of shadow.
@@ -71,7 +71,7 @@ An ooze doesn't require sleep.
 - "desc": "The pudding can move through a space as narrow as 1 inch wide without squeezing."
   "name": "Amorphous"
 - "desc": "A creature that touches the pudding or hits it with a melee attack while\
-    \ within 5 feet of it takes dice: 1d8|avg (1d8) acid damage. Any nonmagical\
+    \ within 5 feet of it takes dice:1d8|text(4) (1d8) acid damage. Any nonmagical\
     \ weapon made of metal or wood that hits the pudding corrodes. After dealing damage,\
     \ the weapon takes a permanent and cumulative −1 penalty to damage rolls. If its\
     \ penalty drops to −5, the weapon is destroyed. Nonmagical ammunition made of\
@@ -82,8 +82,8 @@ An ooze doesn't require sleep.
     \ without needing to make an ability check."
   "name": "Spider Climb"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) bludgeoning damage plus dice: 4d8|avg\
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 3|text(6) (1d6 + 3) bludgeoning damage plus dice:4d8|text(18)\
     \ (4d8) acid damage. In addition, nonmagical armor worn by the target is partly\
     \ dissolved and takes a permanent and cumulative −1 penalty to the AC it offers.\
     \ The armor is destroyed if the penalty reduces its AC to 10."

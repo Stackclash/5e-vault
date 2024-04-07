@@ -36,7 +36,7 @@ The following boxed text assumes that the characters approach Berez from the nor
 
 The river ranges in depth but is never more than 10 feet deep. Muriel Vinshaw, a wereraven in human form, lurks amid the circle of standing stones (area U6) and is using a lantern to signal the heroes. In the village proper, fog prevents a creature from seeing any other creature or object more than 120 feet away.
 
-A few sections of dirt road have survived, and these places are not difficult terrain. The marsh, however, is difficult terrain. Whenever the characters take a short or long rest in the marsh, even if they barricade themselves in a ruined building, they are accosted by `dice: 1d4|avg` (`1d4`) swarms of hungry flies (use the [[5. Mechanics/Bestiary/Beast/Swarm Of Wasps.md\|swarm of insects (wasps)]] stat block in the "Monster Manual"). The swarms don't trouble characters in areas U3 or U5.
+A few sections of dirt road have survived, and these places are not difficult terrain. The marsh, however, is difficult terrain. Whenever the characters take a short or long rest in the marsh, even if they barricade themselves in a ruined building, they are accosted by `dice: 1d4|avg|noform` (`1d4`) swarms of hungry flies (use the [[5. Mechanics/Bestiary/Beast/Swarm Of Wasps.md\|swarm of insects (wasps)]] stat block in the "Monster Manual"). The swarms don't trouble characters in areas U3 or U5.
 
 ### Marsh Scarecrows
 
@@ -140,7 +140,7 @@ Beneath the hut's rotting floorboards is a 3-foot-deep cavity containing the mag
 
 #### Treasure
 
-The wooden chest in the hut is protected by a [[5. Mechanics/Spells/Glyph Of Warding.md\|glyph of warding]] that requires a successful DC 17 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check to find. The glyph deals `dice: 5d8|avg` (`5d8`) thunder damage when triggered. Opening the lid releases four [[5. Mechanics/Bestiary/Undead/Crawling Claw.md\|crawling claws]] that fight until destroyed. Also contained in the chest are various items that [[4. World Almanac/NPCs/Baba Lysaga.md\|Baba Lysaga]] has taken from dead adventurers over the years:
+The wooden chest in the hut is protected by a [[5. Mechanics/Spells/Glyph Of Warding.md\|glyph of warding]] that requires a successful DC 17 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check to find. The glyph deals `dice: 5d8|avg|noform` (`5d8`) thunder damage when triggered. Opening the lid releases four [[5. Mechanics/Bestiary/Undead/Crawling Claw.md\|crawling claws]] that fight until destroyed. Also contained in the chest are various items that [[4. World Almanac/NPCs/Baba Lysaga.md\|Baba Lysaga]] has taken from dead adventurers over the years:
 
 - 1,300 gp  
 - Five 500 gp gemstones  
@@ -216,7 +216,7 @@ The circle is 100 feet across, and the menhirs are spaced apart at regular inter
 
 The standing stones are nonmagical. However, druid characters who enter the circle can sense that powerful gods once blessed this site, and that it still holds some measure of power. They can also sense one of its properties, namely that creatures within the circle can't be targeted by any divination magic or perceived through magical scrying sensors.
 
-The circle has another property that druid characters can't sense but might discover when they use the Wild Shape feature within the circle's confines. Any druid that uses the Wild Shape feature within the circle gains the maximum number of hit points available to the new form. For example, a druid character using the Wild Shape feature to assume the form of a giant eagle would have `dice: 4d10 + 4|avg` (`4d10 + 4`) hit points while in that form.
+The circle has another property that druid characters can't sense but might discover when they use the Wild Shape feature within the circle's confines. Any druid that uses the Wild Shape feature within the circle gains the maximum number of hit points available to the new form. For example, a druid character using the Wild Shape feature to assume the form of a giant eagle would have `dice:4d10 + 4|text(44)` (`4d10 + 4`) hit points while in that form.
 
 At your discretion, the circle might have other strange properties that have been forgotten over time. Although she knows something of the circle's history, Muriel is unaware of its properties.
 

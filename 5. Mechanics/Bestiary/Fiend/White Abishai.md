@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - White Abishai
 ---
-# [[5. Mechanics\Bestiary\Fiend\White Abishai.md|White Abishai]]
+# [[5. Mechanics/Bestiary/Fiend/White Abishai.md|White Abishai]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 41, Mordenkainen's Tome of Foes p. 163*
 
 White abishais fight with a reckless fury, making them ideally suited for bolstering the ranks of Tiamat's armies. White abishais fight without fear, becoming whirlwinds of destruction on the battlefield.
@@ -31,6 +31,7 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
 "subtype": "devil"
 "alignment": "Typically  Lawful Evil"
 "ac": !!int "15"
+"ac_class": "natural armor"
 "hp": !!int "68"
 "hit_dice": "8d8 + 32"
 "stats":
@@ -64,15 +65,15 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
 "actions":
 - "desc": "The abishai makes one Bite attack, one Claw attack, and one Longsword attack."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) piercing damage plus dice: 1d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d4 + 3|text(5) (1d4 + 3) piercing damage plus dice:1d6|text(3)\
     \ (1d6) cold damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d10 + 3|avg (1d10 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d10 + 3|text(8) (1d10 + 3) slashing damage."
   "name": "Claw"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) force damage, or dice: 1d10 + 3|avg\
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 3|text(7) (1d8 + 3) force damage, or dice:1d10 + 3|text(8)\
     \ (1d10 + 3) force damage if used with two hands."
   "name": "Longsword"
 "reactions":

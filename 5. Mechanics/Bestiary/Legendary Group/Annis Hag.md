@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vgm
-- monster/legendary-group
-aliases: ["Annis Hag"]
+  - compendium/src/5e/vgm
+  - monster/legendary-group
+aliases:
+  - Annis Hag
 ---
 # Annis Hag
 
@@ -20,12 +21,12 @@ On initiative count 20 (losing initiative ties), the hag can take a lair action 
 
 A powerful annis hag might have the following additional lair action:
 
-- The hag creates a thick cloud of caustic black smoke that fills a 20-foot-radius sphere centered on a point she can see within 120 feet her. The cloud lasts until initiative count 20 on the next round. Creatures and objects in or behind the smoke are heavily obscured. A creature that enters the cloud for the first time on a turn or starts its turn there takes `dice: 3d6|avg` (`3d6`) acid damage.  
+- The hag creates a thick cloud of caustic black smoke that fills a 20-foot-radius sphere centered on a point she can see within 120 feet her. The cloud lasts until initiative count 20 on the next round. Creatures and objects in or behind the smoke are heavily obscured. A creature that enters the cloud for the first time on a turn or starts its turn there takes `dice:3d6|text(10)` (`3d6`) acid damage.  
 
 ## Regional effects
 _Source: Volo's Guide to Monsters_
 
-Each hag's lair is the source of three to five regional effects; the home of a grandmother, an auntie, or a coven has more effects than the lair of a single hag, including some that can directly harm intruders. Any regional effect that requires a creature to make a saving throw uses the save DC of the hag's most powerful ability. These effects either end immediately if the hag dies or abandons the lair, or take up to `dice: 2d10|avg` (`2d10`) days to fade away.
+Each hag's lair is the source of three to five regional effects; the home of a grandmother, an auntie, or a coven has more effects than the lair of a single hag, including some that can directly harm intruders. Any regional effect that requires a creature to make a saving throw uses the save DC of the hag's most powerful ability. These effects either end immediately if the hag dies or abandons the lair, or take up to `dice: 2d10|avg|noform` (`2d10`) days to fade away.
 
 The region within 1 mile of a grandmother hag's lair is warped by the creature's fell magic, which creates one or more of the following effects:
 

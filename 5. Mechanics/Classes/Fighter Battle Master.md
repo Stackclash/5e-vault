@@ -34,7 +34,7 @@ You learn two additional maneuvers of your choice at 7th, 10th, and 15th level. 
 
 #### Superiority Dice
 
-You have four superiority dice, which are `dice: d8|avg` (`d8`)s. A superiority die is expended when you use it. You regain all of your expended superiority dice when you finish a short or long rest.
+You have four superiority dice, which are `dice: d8|avg|noform` (`d8`)s. A superiority die is expended when you use it. You regain all of your expended superiority dice when you finish a short or long rest.
 
 You gain another superiority die at 7th level and one more at 15th level.
 
@@ -98,7 +98,7 @@ At 10th level, you learn two additional maneuvers of your choice.
 
 ### Improved Combat Superiority (d10) (Level 10)
 
-At 10th level, your superiority dice turn into `dice: d10|avg` (`d10`)s.
+At 10th level, your superiority dice turn into `dice: d10|avg|noform` (`d10`)s.
 
 ### Additional Maneuvers (Level 15)
 
@@ -114,7 +114,7 @@ Starting at 15th level, when you roll initiative and have no superiority dice re
 
 ### Improved Combat Superiority (d12) (Level 18)
 
-At 18th level, your superiority dice turn into `dice: d12|avg` (`d12`)s.
+At 18th level, your superiority dice turn into `dice: d12|avg|noform` (`d12`)s.
 
 ## Optional Features
 

@@ -14,7 +14,7 @@ statblock: inline
 aliases:
   - Darkling
 ---
-# [[5. Mechanics\Bestiary\Fey\Darkling.md|Darkling]]
+# [[5. Mechanics/Bestiary/Fey/Darkling.md|Darkling]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 84, Volo's Guide to Monsters p. 134*
 
 The Summer Queen's curse causes a darkling's body to absorb light, which wizens the creature, much like the effect of rapid aging. For this reason, darklings cover their entire bodies with clothing when exposure to light is a risk. The light darklings absorb over the course of their lives explodes outward when they die, incinerating the creatures and much of their possessions.
@@ -29,6 +29,7 @@ Ancient legends speak of a seelie fey who betrayed the Summer Queen. In the Summ
 "type": "fey"
 "alignment": "Typically  Chaotic Neutral"
 "ac": !!int "14"
+"ac_class": "[[5. Mechanics/Items/Leather Armor.md|leather armor]]"
 "hp": !!int "13"
 "hit_dice": "3d6 + 3"
 "stats":
@@ -59,9 +60,9 @@ Ancient legends speak of a seelie fey who betrayed the Summer Queen. In the Summ
     \ that rely on sight."
   "name": "Light Sensitivity"
 "actions":
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 1d4 + 3|avg (1d4 + 3) piercing\
-    \ damage plus dice: 2d6|avg (2d6) necrotic damage."
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: dice:1d4 + 3|text(5) (1d4 + 3) piercing\
+    \ damage plus dice:2d6|text(7) (2d6) necrotic damage."
   "name": "Dagger"
 "source":
 - "MPMM"

@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Night Hag
 ---
-# [[5. Mechanics\Bestiary\Fiend\Night Hag.md|Night Hag]]
+# [[5. Mechanics/Bestiary/Fiend/Night Hag.md|Night Hag]]
 *Source: Monster Manual p. 178, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD.*
 
 Sly and subversive, night hags want to see the virtuous turn to villainy: love turned into obsession, kindness turned to hate, devotion to disregard, and generosity to selfishness. Night hags take perverse joy in corrupting mortals.
@@ -91,7 +91,7 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
 > 
 > For casting these spells, each hag is a 12th-level spellcaster that uses Intelligence as her spellcasting ability. The spell save DC is 12 + the hag's Intelligence modifier, and the spell attack bonus is 4 + the hag's Intelligence modifier.
 > 
-> **Hag Eye.** A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and [[/5. Mechanics/Rules/Senses.md#darkvision|darkvision]] with a radius of 60 feet. If it is destroyed, each coven member takes `dice: 3d10|avg` (`3d10`) psychic damage and is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] for 24 hours.
+> **Hag Eye.** A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and [[/5. Mechanics/Rules/Senses.md#darkvision|darkvision]] with a radius of 60 feet. If it is destroyed, each coven member takes `dice: 3d10|avg|noform` (`3d10`) psychic damage and is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] for 24 hours.
 > 
 > A hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can't perform it while [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]. During the ritual, if the hags take any action other than performing the ritual, they must start over.
 ^hag-covens
@@ -102,6 +102,7 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
 "type": "fiend"
 "alignment": "Neutral Evil"
 "ac": !!int "17"
+"ac_class": "natural armor"
 "hp": !!int "112"
 "hit_dice": "15d8 + 45"
 "stats":
@@ -125,7 +126,7 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
 "cr": "5"
 "traits":
 - "desc": "The hag's innate spellcasting ability is Charisma (spell save DC 14, dice:\
-    \ d20+6 (+6 to hit) with spell attacks). She can innately cast the following\
+    \ d20+6 (+6) to hit with spell attacks). She can innately cast the following\
     \ spells, requiring no material components:\n\nAt will: [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
     \ [[5. Mechanics/Spells/Magic Missile.md|magic missile]]\n\n2/day each: [plane\
     \ shift](compendium/spells/plane-shift.md) (self only), [[5. Mechanics/Spells/Ray Of Enfeeblement.md|ray of enfeeblement]],\
@@ -146,8 +147,8 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
     \ 7 days and a humanoid sacrifice (whose flesh is used to make the bag)."
   "name": "Night Hag Items"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d8 + 4|text(13) (2d8 + 4) slashing damage."
   "name": "Claws (Hag Form Only)"
 - "desc": "The hag magically polymorphs into a Small or Medium female humanoid, or\
     \ back into her true form. Her statistics are the same in each form. Any equipment\
@@ -162,7 +163,7 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
     \ spell cast on the target prevents this contact, as does a magic circle. As long\
     \ as the contact persists, the target has dreadful visions. If these visions last\
     \ for at least 1 hour, the target gains no benefit from its rest, and its hit\
-    \ point maximum is reduced by dice: 1d10|avg (1d10). If this effect reduces\
+    \ point maximum is reduced by dice:1d10|text(5) (1d10). If this effect reduces\
     \ the target's hit point maximum to 0, the target dies, and if the target was\
     \ evil, its soul is trapped in the hag's soul bag. The reduction to the target's\
     \ hit point maximum lasts until removed by the  [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
@@ -198,8 +199,8 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
     \  \n- The hag targets up to three creatures that she can see within 60 feet of\
     \ her. Each target must succeed on a DC 15 Constitution saving throw or be flung\
     \ up to 30 feet through the air. A creature that strikes a solid object or is\
-    \ released in midair takes dice: 1d6|avg (1d6) bludgeoning damage for every\
-    \ 10 feet moved or fallen.  "
+    \ released in midair takes dice: 1d6|avg|noform (1d6) bludgeoning damage for\
+    \ every 10 feet moved or fallen.  "
   "name": ""
 "regional_effects":
 - "desc": "Each hag's lair is the source of three to five regional effects; the home\
@@ -207,7 +208,8 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
     \ single hag, including some that can directly harm intruders. Any regional effect\
     \ that requires a creature to make a saving throw uses the save DC of the hag's\
     \ most powerful ability. These effects either end immediately if the hag dies\
-    \ or abandons the lair, or take up to dice: 2d10|avg (2d10) days to fade away."
+    \ or abandons the lair, or take up to dice: 2d10|avg|noform (2d10) days to\
+    \ fade away."
   "name": ""
 - "desc": "The region within 1 mile of a grandmother hag's lair is warped by the creature's\
     \ fell magic, which creates one or more of the following effects:"

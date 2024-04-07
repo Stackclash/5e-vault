@@ -14,7 +14,7 @@ aliases:
 
 - **Properties**: Crafted by
 
-When you drink this potion, you recover `dice: 10d4 + 10|avg` (`10d4 + 10`) hit points. In addition, you gain resistance to the damage type of the dragon it was crafted from for 1 hour.
+When you drink this potion, you recover `dice: 10d4 + 10|avg|noform` (`10d4 + 10`) hit points. In addition, you gain resistance to the damage type of the dragon it was crafted from for 1 hour.
 
 > [!embed-table]- Dragon Types
 > ![[5. Mechanics/Tables/Dragon Types.md\|Dragon Types]]

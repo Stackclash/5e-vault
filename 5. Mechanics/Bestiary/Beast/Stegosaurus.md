@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Stegosaurus
 ---
-# [[5. Mechanics\Bestiary\Beast\Stegosaurus.md|Stegosaurus]]
+# [[5. Mechanics/Bestiary/Beast/Stegosaurus.md|Stegosaurus]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 96, Volo's Guide to Monsters p. 140*
 
 This heavily built dinosaur has rows of plates on its back and a flexible, spiked tail held high to strike predators. It tends to travel in herds of mixed ages.
@@ -24,6 +24,7 @@ This heavily built dinosaur has rows of plates on its back and a flexible, spike
 "subtype": "dinosaur"
 "alignment": "Unaligned"
 "ac": !!int "13"
+"ac_class": "natural armor"
 "hp": !!int "76"
 "hit_dice": "8d12 + 24"
 "stats":
@@ -38,8 +39,8 @@ This heavily built dinosaur has rows of plates on its back and a flexible, spike
 "languages": ""
 "cr": "4"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 6d6 + 5|avg (6d6 + 5) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 10 ft., one target.\
+    \ Hit: dice:6d6 + 5|text(26) (6d6 + 5) piercing damage."
   "name": "Tail"
 "source":
 - "MPMM"

@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Myconid Sovereign
 ---
-# [[5. Mechanics\Bestiary\Plant\Myconid Sovereign.md|Myconid Sovereign]]
+# [[5. Mechanics/Bestiary/Plant/Myconid Sovereign.md|Myconid Sovereign]]
 *Source: Monster Manual p. 232*
 
 Myconids are intelligent, ambulatory fungi that live in the Underdark, seek enlightenment, and deplore violence. If approached peacefully, myconids gladly provide shelter or allow safe passage through their colonies.
@@ -32,6 +32,7 @@ Like other fungi, myconids reproduce by mundane sporing. They carefully control 
 "type": "plant"
 "alignment": "Lawful Neutral"
 "ac": !!int "13"
+"ac_class": "natural armor"
 "hp": !!int "60"
 "hit_dice": "8d10 + 16"
 "stats":
@@ -57,13 +58,13 @@ Like other fungi, myconids reproduce by mundane sporing. They carefully control 
 - "desc": "The myconid uses either its Hallucination Spores or its Pacifying Spores,\
     \ then makes a fist attack."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 3d4 + 1|avg (3d4 + 1) bludgeoning damage plus dice: 3d4|avg\
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
+    \ Hit: dice:3d4 + 1|text(8) (3d4 + 1) bludgeoning damage plus dice:3d4|text(7)\
     \ (3d4) poison damage."
   "name": "Fist"
 - "desc": "The myconid targets one corpse of a humanoid or a Large or smaller beast\
     \ within 5 feet of it and releases spores at the corpse. In 24 hours, the corpse\
-    \ rises as a spore servant. The corpse stays animated for dice: 1d4 + 1|avg\
+    \ rises as a spore servant. The corpse stays animated for dice: 1d4 + 1|avg|noform\
     \ (1d4 + 1) weeks or until destroyed, and it can't be animated again in this\
     \ way."
   "name": "Animating Spores (3/Day)"

@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Monarchon
 ---
-# [[5. Mechanics\Bestiary\Fey\Monarchon.md|Monarchon]]
+# [[5. Mechanics/Bestiary/Fey/Monarchon.md|Monarchon]]
 *Source: Strongholds and Followers p. 179*
 
 The Monarchon is the embodiment of youth and death, spring and fall. It is gay and sprightly and a harbinger of doom. Once, mortals knew that to gaze upon the death's-head skull of the Monarchon spelled the end. Now, it's been so long since last the Arcadians lived in the Mundane World that mortals must learn these lessons all over again.
@@ -45,6 +45,7 @@ Finally, if she is attacked or otherwise there is great need, she will land and 
 "type": "fey"
 "alignment": "Chaotic"
 "ac": !!int "17"
+"ac_class": "natural armor"
 "hp": !!int "110"
 "hit_dice": "13d10 + 39"
 "stats":
@@ -74,7 +75,7 @@ Finally, if she is attacked or otherwise there is great need, she will land and 
     \ components:\n\nAt will: [[5. Mechanics/Spells/Enthrall.md|enthrall]], [[5. Mechanics/Spells/Sleep.md|sleep]]"
   "name": "innate"
 - "desc": "The Monarchon is a 7th-level spellcaster. Her spellcasting ability is Wisdom\
-    \ (spell save DC 15, dice: d20+7 (+7 to hit) with spell attacks). The Monarchon\
+    \ (spell save DC 15, dice: d20+7 (+7) to hit with spell attacks). The Monarchon\
     \ has the following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Guidance.md|guidance]],\
     \ [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]]\n\n1st level (4 slots):\
     \ [[5. Mechanics/Spells/Bane.md|bane]], [[5. Mechanics/Spells/Bless.md|bless]], [[5. Mechanics/Spells/Command.md|command]]\n\
@@ -93,8 +94,8 @@ Finally, if she is attacked or otherwise there is great need, she will land and 
     \ (DC 15) at will on any fey creature or elf."
   "name": "Command Fey"
 "actions":
-- "desc": "Melee Spell Attack: dice: d20+7 (+7 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 2d10 + 4|avg (2d10 + 4) necrotic damage."
+- "desc": "Melee Spell Attack: dice: d20+7 (+7) to hit, reach 5 ft., one creature.\
+    \ Hit: dice:2d10 + 4|text(15) (2d10 + 4) necrotic damage."
   "name": "Withering Touch"
 - "desc": "The Monarchon spreads her wings and their false eyes pulsate with a rainbow\
     \ of colors, targeting one creature she can see within 30 feet. If the target\

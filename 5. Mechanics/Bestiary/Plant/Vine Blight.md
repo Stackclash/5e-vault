@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Vine Blight
 ---
-# [[5. Mechanics\Bestiary\Plant\Vine Blight.md|Vine Blight]]
+# [[5. Mechanics/Bestiary/Plant/Vine Blight.md|Vine Blight]]
 *Source: Monster Manual p. 32, Curse of Strahd*
 
 Appearing as masses of slithering creepers, vine blights hide in undergrowth and wait for prey to draw near. By animating the plants around them, vine blights entangle and hinder their foes before attacking. Vine blights are the only blights capable of speech. Through its connection to the evil spirit of the Gulthias tree it serves, a vine blight speaks in a fractured version of its dead master's voice, taunting victims or bargaining with powerful foes.
@@ -45,6 +45,7 @@ Blights are independent creatures, but most act under a Gulthias tree's control,
 "type": "plant"
 "alignment": "Neutral Evil"
 "ac": !!int "12"
+"ac_class": "natural armor"
 "hp": !!int "26"
 "hit_dice": "4d8 + 4"
 "stats":
@@ -66,10 +67,10 @@ Blights are independent creatures, but most act under a Gulthias tree's control,
     \ of vines."
   "name": "False Appearance"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d6 + 2|avg (2d6 + 2) bludgeoning damage, and a Large or smaller\
-    \ target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 12).\
-    \ Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 10 ft., one target.\
+    \ Hit: dice:2d6 + 2|text(9) (2d6 + 2) bludgeoning damage, and a Large or\
+    \ smaller target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape\
+    \ DC 12). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
     \ and the blight can't constrict another target."
   "name": "Constrict"
 - "desc": "Grasping roots and vines sprout in a 15-foot radius centered on the blight,\

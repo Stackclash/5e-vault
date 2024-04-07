@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Githyanki Knight
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Githyanki Knight.md|Githyanki Knight]]
+# [[5. Mechanics/Bestiary/Humanoid/Githyanki Knight.md|Githyanki Knight]]
 *Source: Monster Manual p. 160*
 
 The githyanki plunder countless worlds from the decks of their astral vessels and the backs of red dragons. Feathers, beads, gems, and precious metals decorate their armor and weapons-the legendary silver swords with which they cut through their foes. Since winning their freedom from the mind flayers, the githyanki have become ruthless conquerors under the rulership of their dread lich-queen, Vlaakith.
@@ -63,6 +63,7 @@ Whether these tall, gaunt creatures were peaceful or savage, cultured or primiti
 "subtype": "gith"
 "alignment": "Lawful Evil"
 "ac": !!int "18"
+"ac_class": "[[5. Mechanics/Items/Plate Armor.md|plate armor]]"
 "hp": !!int "91"
 "hit_dice": "14d8 + 28"
 "stats":
@@ -82,8 +83,8 @@ Whether these tall, gaunt creatures were peaceful or savage, cultured or primiti
 "cr": "8"
 "traits":
 - "desc": "The githyanki's innate spellcasting ability is Intelligence (spell save\
-    \ DC 13, dice: d20+5 (+5 to hit) with spell attacks). It can innately cast the\
-    \ following spells, requiring no components:\n\nAt will: [[5. Mechanics/Spells/Mage Hand.md|mage hand]]\
+    \ DC 13, dice: d20+5 (+5) to hit with spell attacks). It can innately cast\
+    \ the following spells, requiring no components:\n\nAt will: [[5. Mechanics/Spells/Mage Hand.md|mage hand]]\
     \ (the hand is invisible)\n\n1/day each: [[5. Mechanics/Spells/Plane Shift.md|plane shift]],\
     \ [[5. Mechanics/Spells/Telekinesis.md|telekinesis]]\n\n3/day each: [[5. Mechanics/Spells/Jump.md|jump]],\
     \ [[5. Mechanics/Spells/Misty Step.md|misty step]], [[5. Mechanics/Spells/Nondetection.md|nondetection]]\
@@ -92,8 +93,8 @@ Whether these tall, gaunt creatures were peaceful or savage, cultured or primiti
 "actions":
 - "desc": "The githyanki makes two silver greatsword attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 6|avg (2d6 + 6) slashing damage plus dice: 3d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 6|text(13) (2d6 + 6) slashing damage plus dice:3d6|text(10)\
     \ (3d6) psychic damage. This is a magic weapon attack. On a critical hit against\
     \ a target in an astral body (as with the [[5. Mechanics/Spells/Astral Projection.md|astral projection]]\
     \ spell), the githyanki can cut the silvery cord that tethers the target to its\

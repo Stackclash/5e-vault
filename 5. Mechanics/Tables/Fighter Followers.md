@@ -15,14 +15,14 @@ aliases:
 
 | dice: d100 | Follower |
 |------------|----------|
-| 01–04 | Regular Medium Infantry (Size `dice: 1d8\|avg` (`1d8`)), Unit |
-| 05–07 | Regular Heavy Infantry (Size `dice: 1d8\|avg` (`1d8`)), Unit |
-| 08–10 | Seasoned Medium Infantry (Size `dice: 1d8\|avg` (`1d8`)), Unit |
-| 11–13 | Regular Medium Cavalry (Size `dice: 1d6\|avg` (`1d6`)), Unit |
-| 14–15 | Seasoned Medium Cavalry (Size `dice: 1d6\|avg` (`1d6`)), Unit |
-| 16–17 | Veteran Medium Cavalry (Size `dice: 1d4\|avg` (`1d4`)), Unit |
-| 18–19 | Seasoned Medium Archers (Size `dice: 1d6\|avg` (`1d6`)), Unit |
-| 20 | Seasoned Heavy Archers (Size `dice: 1d4\|avg` (`1d4`)), Unit |
+| 01–04 | Regular Medium Infantry (Size `dice: 1d8\|avg|noform` (`1d8`)), Unit |
+| 05–07 | Regular Heavy Infantry (Size `dice: 1d8\|avg|noform` (`1d8`)), Unit |
+| 08–10 | Seasoned Medium Infantry (Size `dice: 1d8\|avg|noform` (`1d8`)), Unit |
+| 11–13 | Regular Medium Cavalry (Size `dice: 1d6\|avg|noform` (`1d6`)), Unit |
+| 14–15 | Seasoned Medium Cavalry (Size `dice: 1d6\|avg|noform` (`1d6`)), Unit |
+| 16–17 | Veteran Medium Cavalry (Size `dice: 1d4\|avg|noform` (`1d4`)), Unit |
+| 18–19 | Seasoned Medium Archers (Size `dice: 1d6\|avg|noform` (`1d6`)), Unit |
+| 20 | Seasoned Heavy Archers (Size `dice: 1d4\|avg|noform` (`1d4`)), Unit |
 | 21 | [[5. Mechanics/Bestiary/Humanoid/Theurgist.md\|Theurgist]] (3rd Level), Retainer |
 | 22 | [[5. Mechanics/Bestiary/Humanoid/Spirit Warden.md\|Spirit Warden]] (3rd Level), Retainer |
 | 23 | [[5. Mechanics/Bestiary/Humanoid/Diabolist.md\|Diabolist]] (3rd Level), Retainer |

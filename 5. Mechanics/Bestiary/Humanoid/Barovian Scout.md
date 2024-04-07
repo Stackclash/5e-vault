@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Barovian Scout
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Barovian Scout.md|Barovian Scout]]
+# [[5. Mechanics/Bestiary/Humanoid/Barovian Scout.md|Barovian Scout]]
 *Source: Curse of Strahd p. 29*
 
 ```statblock
@@ -20,6 +20,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "13"
+"ac_class": "[[5. Mechanics/Items/Leather Armor.md|leather armor]]"
 "hp": !!int "16"
 "hit_dice": "3d8 + 3"
 "stats":
@@ -45,11 +46,11 @@ aliases:
 "actions":
 - "desc": "The scout makes two melee attacks or two ranged attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 2|text(5) (1d6 + 2) piercing damage."
   "name": "Shortsword"
-- "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), ranged 80/320 ft., one\
-    \ target. Hit: dice: 1d8 + 2|avg (1d8 + 2) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+4 (+4) to hit, ranged 80/320 ft.,\
+    \ one target. Hit: dice:1d8 + 2|text(6) (1d8 + 2) piercing damage."
   "name": "Light Crossbows"
 "source":
 - "CoS"

@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Elder Oblex
 ---
-# [[5. Mechanics\Bestiary\Ooze\Elder Oblex.md|Elder Oblex]]
+# [[5. Mechanics/Bestiary/Ooze/Elder Oblex.md|Elder Oblex]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 199, Mordenkainen's Tome of Foes p. 219*
 
 Older oblexes, called adults and elders, have eaten so many memories that they can form duplicates of the creatures they have devoured from the substance of their bodies, sending these copies off to lure prey into their clutches while remaining tethered to the slime by long tendrils of goo. These duplicated creatures are indistinguishable from their victims except for a faint sulfurous smell. Oblexes use these duplicates to lead prey into danger or to infiltrate settlements so they can feed on superior victims.
@@ -82,22 +82,22 @@ When oblexes feed on thoughts, they can form weird copies of their prey to use a
 "actions":
 - "desc": "The elder oblex makes two Pseudopod attacks, and it uses Eat Memories."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 4d6 + 3|avg (4d6 + 3) bludgeoning damage plus dice: 4d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 10 ft., one target.\
+    \ Hit: dice:4d6 + 3|text(17) (4d6 + 3) bludgeoning damage plus dice:4d6|text(14)\
     \ (4d6) psychic damage."
   "name": "Pseudopod"
 - "desc": "The oblex targets one creature it can see within 5 feet of it. The target\
-    \ must succeed on a DC 18 Wisdom saving throw or take dice: 8d10|avg (8d10)\
+    \ must succeed on a DC 18 Wisdom saving throw or take dice:8d10|text(44) (8d10)\
     \ psychic damage and become memory drained until it finishes a short or long rest\
     \ or until it benefits from the [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
     \ or [[5. Mechanics/Spells/Heal.md|heal]] spell. Constructs, Oozes, Plants, and Undead\
     \ succeed on the save automatically.\n\nWhile memory drained, the target must\
-    \ roll a dice: d4|avg (d4) and subtract the number rolled from any ability\
-    \ check or attack roll it makes. Each time the target is memory drained beyond\
-    \ the first, the die size increases by one: the dice: d4|avg (d4) becomes\
-    \ a dice: d6|avg (d6), the dice: d6|avg (d6) becomes a dice: d8|avg\
-    \ (d8), and so on until the die becomes a dice: d20|avg (d20), at which\
-    \ point the target becomes [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]\
+    \ roll a dice: d4|avg|noform (d4) and subtract the number rolled from any\
+    \ ability check or attack roll it makes. Each time the target is memory drained\
+    \ beyond the first, the die size increases by one: the dice: d4|avg|noform (d4)\
+    \ becomes a dice: d6|avg|noform (d6), the dice: d6|avg|noform (d6) becomes\
+    \ a dice: d8|avg|noform (d8), and so on until the die becomes a dice: d20|avg|noform\
+    \ (d20), at which point the target becomes [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]\
     \ for 1 hour. The effect then ends.\n\nThe oblex learns all the languages a memory-drained\
     \ target knows and gains all its skill proficiencies."
   "name": "Eat Memories"
@@ -105,9 +105,9 @@ When oblexes feed on thoughts, they can form weird copies of their prey to use a
 - "desc": "The oblex extrudes a piece of itself that assumes the appearance of one\
     \ Medium or smaller creature whose memories it has stolen. This simulacrum appears,\
     \ feels, and sounds exactly like the creature it impersonates, though it smells\
-    \ faintly of sulfur. The oblex can impersonate dice: 2d6 + 1|avg (2d6 + 1)\
-    \ different creatures, each one tethered to its body by a strand of slime that\
-    \ can extend up to 120 feet away. The simulacrum is an extension of the oblex,\
+    \ faintly of sulfur. The oblex can impersonate dice: 2d6 + 1|avg|noform (2d6\
+    \ + 1) different creatures, each one tethered to its body by a strand of slime\
+    \ that can extend up to 120 feet away. The simulacrum is an extension of the oblex,\
     \ meaning that the oblex occupies its space and the simulacrum's space simultaneously.\
     \ The tether is immune to damage, but it is severed if there is no opening at\
     \ least 1 inch wide between the oblex and the simulacrum. The simulacrum disappears\

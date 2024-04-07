@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Evoker
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Evoker.md|Evoker]]
+# [[5. Mechanics/Bestiary/Humanoid/Evoker.md|Evoker]]
 *Source: Strongholds and Followers p. 80*
 
 ```statblock
@@ -20,6 +20,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "13"
+"ac_class": "Light"
 "stats":
 - !!int "14"
 - !!int "14"
@@ -46,11 +47,11 @@ aliases:
   "name": "Retainer"
 "actions":
 - "desc": "The evoker casts the [[5. Mechanics/Spells/Ray Of Frost.md|ray of frost]]\
-    \ cantrip (dice: d20+6 (+6 to hit)).\n\nAt 7th level, retainers can take two\
+    \ cantrip (dice: d20+6 (+6) to hit).\n\nAt 7th level, retainers can take two\
     \ signature attacks per round."
   "name": "Signature Attack"
 - "desc": "Prerequisite: 3rd-level retainer\n\nThe evoker casts the [[5. Mechanics/Spells/Scorching Ray.md|scorching ray]]\
-    \ spell (dice: d20+6 (+6 to hit))."
+    \ spell (dice: d20+6 (+6) to hit)."
   "name": "Acid Arrow (3/Day)"
 - "desc": "Prerequisite: 5th-level retainer\n\nThe evoker casts the [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]]\
     \ spell (spell save DC 14 at 5th level, and 15 at 7th level)."

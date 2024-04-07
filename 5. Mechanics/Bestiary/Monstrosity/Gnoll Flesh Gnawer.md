@@ -14,7 +14,7 @@ statblock: inline
 aliases:
   - Gnoll Flesh Gnawer
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Gnoll Flesh Gnawer.md|Gnoll Flesh Gnawer]]
+# [[5. Mechanics/Bestiary/Monstrosity/Gnoll Flesh Gnawer.md|Gnoll Flesh Gnawer]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 144, Volo's Guide to Monsters p. 154*
 
 These gnolls eschew the use of ranged weapons in favor of short blades that they wield with great speed and efficiency. In the thick of a fight, they dash across the battlefield, slashing and snarling as they run down stragglers and finish off wounded foes.
@@ -29,6 +29,7 @@ The first gnolls were hyenas transformed by magic. Many of them were then corrup
 "type": "monstrosity"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "14"
+"ac_class": "[[5. Mechanics/Items/Studded Leather Armor.md|studded leather]]"
 "hp": !!int "22"
 "hit_dice": "4d8 + 4"
 "stats":
@@ -47,11 +48,11 @@ The first gnolls were hyenas transformed by magic. Many of them were then corrup
 "actions":
 - "desc": "The gnoll makes one Bite attack and two Shortsword attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d4 + 2|text(4) (1d4 + 2) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 2|text(5) (1d6 + 2) piercing damage."
   "name": "Shortsword"
 - "desc": "Until the end of the turn, the gnoll's speed increases by 60 feet and it\
     \ doesn't provoke opportunity attacks."

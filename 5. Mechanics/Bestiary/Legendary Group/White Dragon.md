@@ -14,8 +14,8 @@ _Source: Monster Manual_
 
 On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can't use the same effect two rounds in a row:
 
-- Freezing fog fills a 20-foot-radius sphere centered on a point the dragon can see within 120 feet of it. The fog spreads around corners, and its area is heavily obscured. Each creature in the fog when it appears must make a DC 10 Constitution saving throw, taking `dice: 3d6|avg` (`3d6`) cold damage on a failed save, or half as much damage on a successful one. A creature that ends its turn in the fog takes `dice: 3d6|avg` (`3d6`) cold damage. A wind of at least 20 miles per hour disperses the fog. The fog otherwise lasts until the dragon uses this lair action again or until the dragon dies.  
-- Jagged ice shards fall from the ceiling, striking up to three creatures underneath that the dragon can see within 120 feet of it. The dragon makes one ranged attack roll (`dice: d20+7` (+7 to hit)) against each target. On a hit, the target takes `dice: 3d6|avg` (`3d6`) piercing damage.  
+- Freezing fog fills a 20-foot-radius sphere centered on a point the dragon can see within 120 feet of it. The fog spreads around corners, and its area is heavily obscured. Each creature in the fog when it appears must make a DC 10 Constitution saving throw, taking `dice:3d6|text(10)` (`3d6`) cold damage on a failed save, or half as much damage on a successful one. A creature that ends its turn in the fog takes `dice:3d6|text(10)` (`3d6`) cold damage. A wind of at least 20 miles per hour disperses the fog. The fog otherwise lasts until the dragon uses this lair action again or until the dragon dies.  
+- Jagged ice shards fall from the ceiling, striking up to three creatures underneath that the dragon can see within 120 feet of it. The dragon makes one ranged attack roll (`dice: d20+7` (`+7`) to hit) against each target. On a hit, the target takes `dice:3d6|text(10)` (`3d6`) piercing damage.  
 - The dragon creates an opaque wall of ice on a solid surface it can see within 120 feet of it. The wall can be up to 30 feet long, 30 feet high, and 1 foot thick. When the wall appears, each creature within its area is pushed 5 feet out of the wall's space; appearing on whichever side of the wall it wants. Each 10-foot section of the wall has AC 5, 30 hit points, vulnerability to fire damage, and immunity to acid, cold, necrotic, poison, and psychic damage. The wall disappears when the dragon uses this lair action again or when the dragon dies.  
 
 ### Additional Lair Actions
@@ -35,7 +35,7 @@ The region containing a legendary white dragon's lair is warped by the dragon's 
 - Icy walls block off areas in the dragon's lair. Each wall is 6 inches thick, and a 10-foot section has AC 5, 15 hit points, vulnerability to fire damage, and immunity to acid, cold, necrotic, poison, and psychic damage.  
 - If the dragon wishes to move through a wall, it can do so without slowing down. The portion of the wall the dragon moves through is destroyed, however.  
 
-If the dragon dies, the fog and precipitation fade within 1 day. The ice walls melt over the course of `dice: 1d10|avg` (`1d10`) days.
+If the dragon dies, the fog and precipitation fade within 1 day. The ice walls melt over the course of `dice: 1d10|avg|noform` (`1d10`) days.
 
 ### Additional Regional Effects
 

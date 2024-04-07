@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Swarm of Scarabs
 ---
-# [[5. Mechanics\Bestiary\Beast\Swarm Of Scarabs.md|Swarm of Scarabs]]
+# [[5. Mechanics/Bestiary/Beast/Swarm Of Scarabs.md|Swarm of Scarabs]]
 *Source: Van Richten's Guide to Ravenloft p. 247*
 
 Base creatures are among the first to respond to sinister forces at work in a land. As nefarious powers grip an area, populations of maggots, scarabs, and similar scavenging insects explode and become aggressive predators. Roll on the Swarm Behavior table to see how such swarms might manifest.
@@ -33,6 +33,7 @@ Base creatures are among the first to respond to sinister forces at work in a la
 "type": "beast"
 "alignment": "Unaligned"
 "ac": !!int "13"
+"ac_class": "natural armor"
 "hp": !!int "27"
 "hit_dice": "5d8 + 5"
 "stats":
@@ -64,15 +65,15 @@ Base creatures are among the first to respond to sinister forces at work in a la
     \ without needing to make an ability check."
   "name": "Spider Climb"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 0 ft., one target\
-    \ in the swarm's space. Hit: dice: 4d6|avg (4d6) piercing damage, or dice:\
-    \ 2d6|avg (2d6) piercing damage if the swarm has half of its hit points or\
-    \ fewer. If the target is a creature, scarabs burrow into its body, and the creature\
-    \ takes dice: 1d6|avg (1d6) piercing damage at the start of each of its turns.\
-    \ Any creature can use an action to kill or remove the scarabs with fire or a\
-    \ weapon that deals piercing damage, causing 1 damage of the appropriate type\
-    \ to the target. A creature reduced to 0 hit points by the swarm's piercing damage\
-    \ dies."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 0 ft., one target\
+    \ in the swarm's space. Hit: dice:4d6|text(14) (4d6) piercing damage, or\
+    \ dice:2d6|text(7) (2d6) piercing damage if the swarm has half of its hit\
+    \ points or fewer. If the target is a creature, scarabs burrow into its body,\
+    \ and the creature takes dice:1d6|text(3) (1d6) piercing damage at the start\
+    \ of each of its turns. Any creature can use an action to kill or remove the scarabs\
+    \ with fire or a weapon that deals piercing damage, causing 1 damage of the appropriate\
+    \ type to the target. A creature reduced to 0 hit points by the swarm's piercing\
+    \ damage dies."
   "name": "Ravenous Bites"
 "source":
 - "VRGR"

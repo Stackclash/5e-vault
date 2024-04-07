@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Annis Hag
 ---
-# [[5. Mechanics\Bestiary\Fey\Annis Hag.md|Annis Hag]]
+# [[5. Mechanics/Bestiary/Fey/Annis Hag.md|Annis Hag]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 47, Volo's Guide to Monsters p. 159*
 
 Annis hags lair in mountains or hills. These hunchbacked and hump-shouldered hags are the largest and most physically imposing of their kind, standing eight feet tall. They can easily tear a fully grown person apart, but they love hunting the young, preferring their flesh above all others.
@@ -37,6 +37,7 @@ A hag can have up to three iron tokens active at one time. As an action, the hag
 "type": "fey"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "17"
+"ac_class": "natural armor"
 "hp": !!int "90"
 "hit_dice": "12d10 + 24"
 "stats":
@@ -64,17 +65,17 @@ A hag can have up to three iron tokens active at one time. As an action, the hag
 "actions":
 - "desc": "The annis makes one Bite attack and two Claw attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 3d6 + 5|avg (3d6 + 5) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one target.\
+    \ Hit: dice:3d6 + 5|text(15) (3d6 + 5) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 3d6 + 5|avg (3d6 + 5) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one target.\
+    \ Hit: dice:3d6 + 5|text(15) (3d6 + 5) slashing damage."
   "name": "Claw"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 9d6 + 5|avg (9d6 + 5) bludgeoning damage, and the target is\
-    \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 15) if it is\
-    \ a Large or smaller creature. Until the grapple ends, the target takes dice:\
-    \ 9d6 + 5|avg (9d6 + 5) bludgeoning damage at the start of each of the hag's\
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one target.\
+    \ Hit: dice:9d6 + 5|text(36) (9d6 + 5) bludgeoning damage, and the target\
+    \ is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 15) if it\
+    \ is a Large or smaller creature. Until the grapple ends, the target takes dice:9d6\
+    \ + 5|text(36) (9d6 + 5) bludgeoning damage at the start of each of the hag's\
     \ turns. The hag can't make attacks while grappling a creature in this way."
   "name": "Crushing Hug"
 "source":

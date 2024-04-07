@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Hashalaq Quori
 ---
-# [[5. Mechanics\Bestiary\Aberration\Hashalaq Quori.md|Hashalaq Quori]]
+# [[5. Mechanics/Bestiary/Aberration/Hashalaq Quori.md|Hashalaq Quori]]
 *Source: Eberron: Rising from the Last War p. 305*
 
 Hashalaq quori are loremasters and judges, and are commonly known as dreamstealers. In their natural form, hashalaqs are composed of hundreds of translucent tendrils. They can compress and configure these tendrils to form a wide range of simple shapes. A point of blue light suspended within its tendrils serves as the hashalaq's sensory organ, which can be moved around to suit the creature's current shape.
@@ -31,6 +31,7 @@ Dal Quor is the plane of dreams and is currently dominated by a dark power known
 "type": "aberration"
 "alignment": "Lawful Evil"
 "ac": !!int "17"
+"ac_class": "natural armor"
 "hp": !!int "99"
 "hit_dice": "18d8 + 18"
 "stats":
@@ -64,13 +65,13 @@ Dal Quor is the plane of dreams and is currently dominated by a dark power known
 "actions":
 - "desc": "The quori uses its Mind Thrust twice."
   "name": "Multiattack"
-- "desc": "Melee Spell Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d10 + 4|avg (1d10 + 4) force damage. If the target is a creature,\
-    \ it must succeed on a DC 16 Wisdom saving throw or fall [[/5. Mechanics/Rules/Conditions.md#prone|prone]]\
+- "desc": "Melee Spell Attack: dice: d20+8 (+8) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d10 + 4|text(9) (1d10 + 4) force damage. If the target is a\
+    \ creature, it must succeed on a DC 16 Wisdom saving throw or fall [[/5. Mechanics/Rules/Conditions.md#prone|prone]]\
     \ in a fit of laughter."
   "name": "Idyllic Touch"
 - "desc": "The quori targets a creature it can see within 60 feet of it. The target\
-    \ must make a DC 16 Wisdom saving throw, taking dice: 4d8|avg (4d8) psychic\
+    \ must make a DC 16 Wisdom saving throw, taking dice:4d8|text(18) (4d8) psychic\
     \ damage on a failed save, or half as much damage on a successful one."
   "name": "Mind Thrust"
 - "desc": "One humanoid that the quori can see within 5 feet of it must succeed on\
@@ -92,7 +93,7 @@ Dal Quor is the plane of dreams and is currently dominated by a dark power known
 "reactions":
 - "desc": "When the quori takes damage from a creature it can see within 60 feet of\
     \ it, the quori can force that creature to succeed on a DC 16 Intelligence saving\
-    \ throw or take dice: 2d10|avg (2d10) psychic damage."
+    \ throw or take dice:2d10|text(11) (2d10) psychic damage."
   "name": "Empathic Feedback"
 "source":
 - "ERLW"

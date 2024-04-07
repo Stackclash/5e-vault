@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Winter Eladrin
 ---
-# [[5. Mechanics\Bestiary\Fey\Winter Eladrin.md|Winter Eladrin]]
+# [[5. Mechanics/Bestiary/Fey/Winter Eladrin.md|Winter Eladrin]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 117, Mordenkainen's Tome of Foes p. 197*
 
 When sorrow distresses eladrin, they enter the winter season, becoming figures of melancholy. Frozen tears drop from their cheeks, and their palpable sadness emanates from them as icy cold.
@@ -42,6 +42,7 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
 "subtype": "elf"
 "alignment": "Typically  Chaotic Neutral"
 "ac": !!int "19"
+"ac_class": "natural armor"
 "hp": !!int "165"
 "hit_dice": "22d8 + 66"
 "stats":
@@ -81,12 +82,13 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
 - "desc": "The eladrin makes two Longsword or Longbow attacks. It can replace one\
     \ attack with a use of Spellcasting."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8|avg (1d8) slashing damage, or dice: 1d10|avg (1d10)\
-    \ slashing damage if used with two hands, plus dice: 3d8|avg (3d8) cold damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8|text(4) (1d8) slashing damage, or dice:1d10|text(5) (1d10)\
+    \ slashing damage if used with two hands, plus dice:3d8|text(13) (3d8) cold\
+    \ damage."
   "name": "Longsword"
-- "desc": "Ranged Weapon Attack: dice: d20+7 (+7 to hit), range 150/600 ft., one\
-    \ target. Hit: dice: 1d8 + 3|avg (1d8 + 3) piercing damage plus dice: 3d8|avg\
+- "desc": "Ranged Weapon Attack: dice: d20+7 (+7) to hit, range 150/600 ft.,\
+    \ one target. Hit: dice:1d8 + 3|text(7) (1d8 + 3) piercing damage plus dice:3d8|text(13)\
     \ (3d8) cold damage."
   "name": "Longbow"
 "bonus_actions":
@@ -96,7 +98,7 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
 "reactions":
 - "desc": "When the eladrin takes damage from a creature the eladrin can see within\
     \ 60 feet of it, the eladrin can force that creature to make a DC 16 Constitution\
-    \ saving throw. On a failed save, the creature takes dice: 2d10|avg (2d10)\
+    \ saving throw. On a failed save, the creature takes dice:2d10|text(11) (2d10)\
     \ cold damage."
   "name": "Frigid Rebuke"
 "source":

@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Androsphinx
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Androsphinx.md|Androsphinx]]
+# [[5. Mechanics/Bestiary/Monstrosity/Androsphinx.md|Androsphinx]]
 *Source: Monster Manual p. 281. Available in the SRD.*
 
 An androsphinx bears the head of a humanoid male on its lion's body. Outwardly gruff and downcast, it often begins conversations with insults or negative observations. Beneath this gruff exterior, however, an androsphinx has a noble heart. It has no wish to lie or deceive, but it doesn't give away information readily, choosing its words as wisely as it guards its secrets.
@@ -62,6 +62,7 @@ A sphinx presides over an ancient temple, sepulcher, or vault, within which are 
 "type": "monstrosity"
 "alignment": "Lawful Neutral"
 "ac": !!int "17"
+"ac_class": "natural armor"
 "hp": !!int "199"
 "hit_dice": "19d10 + 95"
 "stats":
@@ -88,7 +89,7 @@ A sphinx presides over an ancient temple, sepulcher, or vault, within which are 
 "cr": "17"
 "traits":
 - "desc": "The sphinx is a 12th-level spellcaster. Its spellcasting ability is Wisdom\
-    \ (spell save DC 18, dice: d20+10 (+10 to hit) with spell attacks). It requires\
+    \ (spell save DC 18, dice: d20+10 (+10) to hit with spell attacks). It requires\
     \ no material components to cast its spells. The sphinx has the following cleric\
     \ spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]],\
     \ [[5. Mechanics/Spells/Spare The Dying.md|spare the dying]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
@@ -111,8 +112,8 @@ A sphinx presides over an ancient temple, sepulcher, or vault, within which are 
 "actions":
 - "desc": "The sphinx makes two claw attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+12 (+12 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d10 + 6|avg (2d10 + 6) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+12 (+12) to hit, reach 5 ft., one\
+    \ target. Hit: dice:2d10 + 6|text(17) (2d10 + 6) slashing damage."
   "name": "Claw"
 - "desc": "The sphinx emits a magical roar. Each time it roars before finishing a\
     \ long rest, the roar is louder and the effect is different, as detailed below.\
@@ -127,7 +128,7 @@ A sphinx presides over an ancient temple, sepulcher, or vault, within which are 
     \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] creature is [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
     \ and can repeat the saving throw at the end of each of its turns, ending the\
     \ effect on itself on a success.  \n- Third Roar. Each creature makes a DC\
-    \ 18 Constitution saving throw. On a failed save, a creature takes dice: 8d10|avg\
+    \ 18 Constitution saving throw. On a failed save, a creature takes dice:8d10|text(44)\
     \ (8d10) thunder damage and is knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
     \ On a successful save, the creature takes half as much damage and isn't knocked\
     \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]].  "
@@ -149,8 +150,8 @@ A sphinx presides over an ancient temple, sepulcher, or vault, within which are 
 - "desc": "- The flow of time is altered such that every creature in the lair must\
     \ reroll initiative. The sphinx can choose not to reroll.  \n- The effects of\
     \ time are altered such that every creature in the lair must succeed on a DC 15\
-    \ Constitution saving throw or become dice: 1d20|avg (1d20) years older or\
-    \ younger (the sphinx's choice), but never any younger than 1 year old. A [greater\
+    \ Constitution saving throw or become dice: 1d20|avg|noform (1d20) years older\
+    \ or younger (the sphinx's choice), but never any younger than 1 year old. A [greater\
     \ restoration](compendium/spells/greater-restoration.md) spell can restore a creature's\
     \ age to normal.  \n- The flow of time within the lair is altered such that everything\
     \ within moves up to 10 years forward or backward (sphinx's choice). Only the\

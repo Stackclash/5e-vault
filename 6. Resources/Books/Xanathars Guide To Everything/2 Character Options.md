@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/xge
-aliases: ["Character Options"]
+  - compendium/src/5e/xge
+aliases:
+  - Character Options
 ---
 # Character Options
 *Source: Xanathar's Guide to Everything, p. 7* 
@@ -18,7 +19,7 @@ Following the subclasses, the section called "this is your life" presents a seri
 
 The chapter concludes with a selection of feats for the races in the player's handbook, offering ways to delve deeper into a character's racial identity.
 
-![Character Options; Subclasses](compendium/tables/character-options-subclasses-xge.md)
+![[5. Mechanics/Tables/Character Options Subclasses.md\|Character Options; Subclasses]]
 
 ## This is Your Life
 
@@ -117,7 +118,7 @@ You can decide any other details you like about each sibling, including gender, 
 
 ![[5. Mechanics/Tables/Number Of Siblings.md\|Number of Siblings]]
 
-![Other Details; Birth Order](compendium/tables/other-details-birth-order-xge.md)
+![[5. Mechanics/Tables/Other Details Birth Order.md\|Other Details; Birth Order]]
 
 #### Family and Friends
 
@@ -133,15 +134,15 @@ Next, refer to the Family Lifestyle table to determine the general circumstances
 
 You can roll on the Relationship table to determine how your family members or other important figures in your life feel about you. You can also use the Race, Occupation, and Alignment tables to learn more about the family members or guardians who raised you. **Developer's Note:** Below you will find a link to a **Story Template** which uses the tables in this and the sections below to randomly determine your back story. Instructions on how to use the template are given in the template itself.
 
-![Supplemental Tables; Family](compendium/tables/supplemental-tables-family-xge.md)
+![[5. Mechanics/Tables/Supplemental Tables Family.md\|Supplemental Tables; Family]]
 
-![Supplemental Tables; Absent Parent](compendium/tables/supplemental-tables-absent-parent-xge.md)
+![[5. Mechanics/Tables/Supplemental Tables Absent Parent.md\|Supplemental Tables; Absent Parent]]
 
-![Supplemental Tables; Family Lifestyle](compendium/tables/supplemental-tables-family-lifestyle-xge.md)
+![[5. Mechanics/Tables/Supplemental Tables Family Lifestyle.md\|Supplemental Tables; Family Lifestyle]]
 
-![Supplemental Tables; Childhood Home](compendium/tables/supplemental-tables-childhood-home-xge.md)
+![[5. Mechanics/Tables/Supplemental Tables Childhood Home.md\|Supplemental Tables; Childhood Home]]
 
-![Supplemental Tables; Childhood Memories](compendium/tables/supplemental-tables-childhood-memories-xge.md)
+![[5. Mechanics/Tables/Supplemental Tables Childhood Memories.md\|Supplemental Tables; Childhood Memories]]
 
 ### Personal Decisions
 
@@ -339,7 +340,7 @@ Roll on the appropriate table in this section as soon as you decide your backgro
 
 #### Class Training
 
-If you haven't chosen your class yet, do so now, keeping in mind your background and all the other details you have established so far. Once you've made your selection, roll a `dice: d6|avg` (`d6`) and find the number you rolled on the appropriate table in this section, which describes how you came to be a member of that class.
+If you haven't chosen your class yet, do so now, keeping in mind your background and all the other details you have established so far. Once you've made your selection, roll a `dice: d6|avg|noform` (`d6`) and find the number you rolled on the appropriate table in this section, which describes how you came to be a member of that class.
 
 The class sections earlier in this chapter have further story suggestions, which you can use in concert with the material here.
 
@@ -533,23 +534,23 @@ After you know the number of life events your character has experienced, roll on
 
 These tables add detail to many of the results on the Life Events table. The tables are in alphabetical order.
 
-![Secondary Tables; Adventures](compendium/tables/secondary-tables-adventures-xge.md)
+![[5. Mechanics/Tables/Secondary Tables Adventures.md\|Secondary Tables; Adventures]]
 
-![Secondary Tables; Arcane Matters](compendium/tables/secondary-tables-arcane-matters-xge.md)
+![[5. Mechanics/Tables/Secondary Tables Arcane Matters.md\|Secondary Tables; Arcane Matters]]
 
-![Secondary Tables; Boons](compendium/tables/secondary-tables-boons-xge.md)
+![[5. Mechanics/Tables/Secondary Tables Boons.md\|Secondary Tables; Boons]]
 
-![Secondary Tables; Crime](compendium/tables/secondary-tables-crime-xge.md)
+![[5. Mechanics/Tables/Secondary Tables Crime.md\|Secondary Tables; Crime]]
 
-![Secondary Tables; Punishment](compendium/tables/secondary-tables-punishment-xge.md)
+![[5. Mechanics/Tables/Secondary Tables Punishment.md\|Secondary Tables; Punishment]]
 
-![Secondary Tables; Supernatural Events](compendium/tables/secondary-tables-supernatural-events-xge.md)
+![[5. Mechanics/Tables/Secondary Tables Supernatural Events.md\|Secondary Tables; Supernatural Events]]
 
-![Secondary Tables; Tragedies](compendium/tables/secondary-tables-tragedies-xge.md)
+![[5. Mechanics/Tables/Secondary Tables Tragedies.md\|Secondary Tables; Tragedies]]
 
-![Secondary Tables; War](compendium/tables/secondary-tables-war-xge.md)
+![[5. Mechanics/Tables/Secondary Tables War.md\|Secondary Tables; War]]
 
-![Secondary Tables; Weird Stuff](compendium/tables/secondary-tables-weird-stuff-xge.md)
+![[5. Mechanics/Tables/Secondary Tables Weird Stuff.md\|Secondary Tables; Weird Stuff]]
 
 ### Supplemental Tables
 
@@ -557,19 +558,19 @@ The supplemental tables below give you a way to randomly determine characteristi
 
 ![[6. Resources/Books/Xanathars Guide To Everything/img/c1044.webp#center]]
 
-![Supplemental Tables; Alignment](compendium/tables/supplemental-tables-alignment-xge.md)
+![[5. Mechanics/Tables/Supplemental Tables Alignment.md\|Supplemental Tables; Alignment]]
 
-![Supplemental Tables; Cause of Death](compendium/tables/supplemental-tables-cause-of-death-xge.md)
+![[5. Mechanics/Tables/Supplemental Tables Cause Of Death.md\|Supplemental Tables; Cause of Death]]
 
-![Supplemental Tables; Class](compendium/tables/supplemental-tables-class-xge.md)
+![[5. Mechanics/Tables/Supplemental Tables Class.md\|Supplemental Tables; Class]]
 
-![Supplemental Tables; Occupation](compendium/tables/supplemental-tables-occupation-xge.md)
+![[5. Mechanics/Tables/Supplemental Tables Occupation.md\|Supplemental Tables; Occupation]]
 
-![Supplemental Tables; Race](compendium/tables/supplemental-tables-race-xge.md)
+![[5. Mechanics/Tables/Supplemental Tables Race.md\|Supplemental Tables; Race]]
 
-![Supplemental Tables; Relationship](compendium/tables/supplemental-tables-relationship-xge.md)
+![[5. Mechanics/Tables/Supplemental Tables Relationship.md\|Supplemental Tables; Relationship]]
 
-![Supplemental Tables; Status](compendium/tables/supplemental-tables-status-xge.md)
+![[5. Mechanics/Tables/Supplemental Tables Status.md\|Supplemental Tables; Status]]
 
 ### What's Next?
 

@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Star Spawn Seer
 ---
-# [[5. Mechanics\Bestiary\Aberration\Star Spawn Seer.md|Star Spawn Seer]]
+# [[5. Mechanics/Bestiary/Aberration/Star Spawn Seer.md|Star Spawn Seer]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 230, Mordenkainen's Tome of Foes p. 236*
 
 A star spawn seer is most often encountered as the leader of a cult dedicated to one or more Elder Evils. Usually, the seer is the only cult member that grasps the full extent of the horror the cult is venerating. The seer's goal is to tap into vast energy sources and perform the dire rites that will extend a bridge between the Material Plane and the squirming chaos of an Elder Evil's realm.
@@ -52,6 +52,7 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 "type": "aberration"
 "alignment": "Typically  Neutral Evil"
 "ac": !!int "17"
+"ac_class": "natural armor"
 "hp": !!int "153"
 "hit_dice": "18d8 + 72"
 "stats":
@@ -78,29 +79,29 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 "traits":
 - "desc": "The seer can move through other creatures and objects as if they were difficult\
     \ terrain, and its movement doesn't provoke opportunity attacks.\n\nEach creature\
-    \ it moves through takes dice: 1d10|avg (1d10) psychic damage; no creature\
-    \ can take this damage more than once per turn.\n\nThe seer takes dice: 1d10|avg\
+    \ it moves through takes dice:1d10|text(5) (1d10) psychic damage; no creature\
+    \ can take this damage more than once per turn.\n\nThe seer takes dice:1d10|text(5)\
     \ (1d10) force damage if it ends its turn inside an object."
   "name": "Out-Of-Phase Movement"
 "actions":
 - "desc": "The seer makes two Comet Staff or Psychic Orb attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+11 (+11 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 6|avg (1d8 + 6) bludgeoning damage plus dice: 4d8|avg\
+- "desc": "Melee Weapon Attack: dice: d20+11 (+11) to hit, reach 5 ft., one\
+    \ target. Hit: dice:1d8 + 6|text(10) (1d8 + 6) bludgeoning damage plus dice:4d8|text(18)\
     \ (4d8) psychic damage, and if the target is a creature, it must succeed on\
     \ a DC 19 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
     \ until the end of its next turn."
   "name": "Comet Staff"
-- "desc": "Ranged Spell Attack: dice: d20+11 (+11 to hit), range 120 feet, one\
-    \ creature. Hit: dice: 5d10|avg (5d10) psychic damage."
+- "desc": "Ranged Spell Attack: dice: d20+11 (+11) to hit, range 120 feet, one\
+    \ creature. Hit: dice:5d10|text(27) (5d10) psychic damage."
   "name": "Psychic Orb"
 - "desc": "The seer warps space around one creature it can see within 30 feet of it.\
     \ That creature must make a DC 19 Wisdom saving throw. On a failed save, the target,\
     \ along with any equipment it is wearing or carrying, is teleported up to 60 feet\
     \ to an unoccupied space the seer can see, and then each creature within 10 feet\
-    \ of the target's original space takes dice: 6d12|avg (6d12) psychic damage.\
-    \ On a successful save, the target takes dice: 3d12|avg (3d12) psychic damage\
-    \ and isn't teleported."
+    \ of the target's original space takes dice:6d12|text(39) (6d12) psychic damage.\
+    \ On a successful save, the target takes dice:3d12|text(19) (3d12) psychic\
+    \ damage and isn't teleported."
   "name": "Collapse Distance (Recharge 6)"
 "reactions":
 - "desc": "When the seer would be hit by an attack roll, it teleports, along with\

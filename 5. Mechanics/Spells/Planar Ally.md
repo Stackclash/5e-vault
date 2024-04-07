@@ -11,7 +11,6 @@ aliases:
   - Planar Ally
 ---
 # Planar Ally
-%%-- Embedded content starts on the next line. --%%
 *6th-level, Conjuration*  
 
 - **Casting time:** 10 minute

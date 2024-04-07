@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Aberrant Spirit (8th-level Spell)
 ---
-# [[5. Mechanics\Bestiary\Aberration\Aberrant Spirit 8th Level Spell.md|Aberrant Spirit (8th-level Spell)]]
+# [[5. Mechanics/Bestiary/Aberration/Aberrant Spirit 8th Level Spell.md|Aberrant Spirit (8th-level Spell)]]
 *Source: Tasha's Cauldron of Everything p. 109*
 
 ```statblock
@@ -19,6 +19,7 @@ aliases:
 "type": "aberration"
 "alignment": "Unaligned"
 "ac": !!int "19"
+"ac_class": "natural armor"
 "hp": !!int "80"
 "stats":
 - !!int "16"
@@ -37,8 +38,8 @@ aliases:
   "name": "Regeneration (Slaad Only)"
 - "desc": "At the start of each of the aberration's turns, each creature within 5\
     \ feet of the aberration must succeed on a Wisdom saving throw against your spell\
-    \ save DC or take dice: 2d6|avg (2d6) psychic damage, provided that the aberration\
-    \ isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ save DC or take dice: 2d6|avg|noform (2d6) psychic damage, provided that\
+    \ the aberration isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
   "name": "Whispering Aura (Star Spawn Only)"
 "actions":
 - "desc": "The aberration makes a number of attacks equal to half this spell's level\

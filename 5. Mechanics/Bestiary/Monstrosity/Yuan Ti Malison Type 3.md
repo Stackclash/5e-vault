@@ -14,7 +14,7 @@ statblock: inline
 aliases:
   - Yuan-ti Malison (Type 3)
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Yuan Ti Malison Type 3.md|Yuan-ti Malison (Type 3)]]
+# [[5. Mechanics/Bestiary/Monstrosity/Yuan Ti Malison Type 3.md|Yuan-ti Malison (Type 3)]]
 *Source: Monster Manual p. 309*
 
 A malison is a hideous blend of human and serpentine features. Three different types of malisons are known to exist, and other types are possible. Malisons form the middle caste of yuan-ti society and hunt with arrows tipped with their own venom. They use their magical powers of suggestion to force their enemies' surrender.
@@ -108,21 +108,21 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
 - "desc": "The yuan-ti makes two ranged attacks or two melee attacks, but can constrict\
     \ only once."
   "name": "Multiattack (Yuan-ti Form Only)"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) piercing damage plus dice: 2d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one creature.\
+    \ Hit: dice:1d4 + 3|text(5) (1d4 + 3) piercing damage plus dice:2d6|text(7)\
     \ (2d6) poison damage."
   "name": "Bite (Snake Form Only)"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) bludgeoning damage, and the target is\
-    \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 13). Until this\
-    \ grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 3|text(10) (2d6 + 3) bludgeoning damage, and the target\
+    \ is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 13). Until\
+    \ this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
     \ and the yuan-ti can't constrict another target."
   "name": "Constrict"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 3|text(6) (1d6 + 3) slashing damage."
   "name": "Scimitar (Yuan-ti Form Only)"
-- "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 150/600 ft., one\
-    \ target. Hit: dice: 1d8 + 2|avg (1d8 + 2) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+4 (+4) to hit, range 150/600 ft.,\
+    \ one target. Hit: dice:1d8 + 2|text(6) (1d8 + 2) piercing damage."
   "name": "Longbow (Yuan-ti Form Only)"
 "source":
 - "MM"

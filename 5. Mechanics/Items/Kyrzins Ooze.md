@@ -25,7 +25,7 @@ As an action, you can speak a command word and cause your body to assume the amo
 
 ## Acid Breath
 
-As an action, you can exhale acid in a 30-foot line that is 5 feet wide. Each creature in that line must make a DC 15 Dexterity saving throw, taking `dice: 8d8|avg` (`8d8`) acid damage on a failed save, or half as much damage on a successful one. Once you use this property, it can't be used again until the next dawn.
+As an action, you can exhale acid in a 30-foot line that is 5 feet wide. Each creature in that line must make a DC 15 Dexterity saving throw, taking `dice:8d8|text(36)` (`8d8`) acid damage on a failed save, or half as much damage on a successful one. Once you use this property, it can't be used again until the next dawn.
 
 ## Symbiotic Nature
 

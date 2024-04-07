@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Customization Options"]
+  - compendium/src/5e/phb
+aliases:
+  - Customization Options
 ---
 # Customization Options
 *Source: Player's Handbook, p. 163* 
@@ -88,7 +89,7 @@ For example, if you are the aforementioned ranger 4/wizard 3, you count as a 5th
 
 If you have both the Spellcasting class feature and the Pact Magic class feature from the warlock class, you can use the spell slots you gain from the Pact Magic feature to cast spells you know or have prepared from classes with the Spellcasting class feature, and you can use the spell slots you gain from the Spellcasting class feature to cast warlock spells you know.
 
-![Spellcasting; Multiclass Spellcaster: Spell Slots per Spell Level](compendium/tables/spellcasting-multiclass-spellcaster-spell-slots-per-spell-level.md)
+![[5. Mechanics/Tables/Spellcasting Multiclass Spellcaster Spell Slots Per Spell Level.md\|Spellcasting; Multiclass Spellcaster: Spell Slots per Spell Level]]
 
 #### Starting Equipment
 

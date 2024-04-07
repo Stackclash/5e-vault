@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Vistana Commoner
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Vistana Commoner.md|Vistana Commoner]]
+# [[5. Mechanics/Bestiary/Humanoid/Vistana Commoner.md|Vistana Commoner]]
 *Source: Curse of Strahd p. 28*
 
 ```statblock
@@ -34,8 +34,8 @@ aliases:
 "languages": "any one language (usually Common)"
 "cr": "0"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4|avg (1d4) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+2 (+2) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d4|text(2) (1d4) bludgeoning damage."
   "name": "Club"
 "source":
 - "CoS"

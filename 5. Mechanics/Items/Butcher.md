@@ -34,7 +34,7 @@ Angdrelve has the following randomly determined properties:
 
 When you successfully hit a creature with this weapon, you may choose one of the following additional effects:
 
-- The attack deals an extra `dice: 2d12|avg` (`2d12`) bludgeoning damage.  
+- The attack deals an extra `dice: 2d12|avg|noform` (`2d12`) bludgeoning damage.  
 - The target must succeed on a DC 17 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]] until the start of your next turn.  
 - The target must succeed on a DC 17 Wisdom saving throw or be affected by the [[5. Mechanics/Spells/Confusion.md\|confusion]] spell until the start of your next turn. You may only use this feature once per turn.  
 

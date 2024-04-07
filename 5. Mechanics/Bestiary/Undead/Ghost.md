@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Ghost
 ---
-# [[5. Mechanics\Bestiary\Undead\Ghost.md|Ghost]]
+# [[5. Mechanics/Bestiary/Undead/Ghost.md|Ghost]]
 *Source: Monster Manual p. 147, Curse of Strahd, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*
 
 A ghost is the soul of a once-living creature, bound to haunt a specific location, creature, or object that held significance to it in its life.
@@ -63,12 +63,12 @@ A ghost doesn't require air, food, drink, or sleep.
     \ Plane, and vice versa."
   "name": "Ethereal Sight"
 - "desc": "The ghost can move through other creatures and objects as if they were\
-    \ difficult terrain. It takes dice: 1d10|avg (1d10) force damage if it ends\
-    \ its turn inside an object."
+    \ difficult terrain. It takes dice:1d10|text(5) (1d10) force damage if it\
+    \ ends its turn inside an object."
   "name": "Incorporeal Movement"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 4d6 + 3|avg (4d6 + 3) necrotic damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:4d6 + 3|text(17) (4d6 + 3) necrotic damage."
   "name": "Withering Touch"
 - "desc": "The ghost enters the Ethereal Plane from the Material Plane, or vice versa.\
     \ It is visible on the Material Plane while it is in the Border Ethereal, and\

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/mtf
-aliases: ["Elves"]
+  - compendium/src/5e/mtf
+aliases:
+  - Elves
 ---
 # Elves
 *Source: Mordenkainen's Tome of Foes, p. 35* 
@@ -759,10 +760,10 @@ This section provides tables for players and DMs who want to choose or randomly 
 
 [[5. Mechanics/Items/Elven Trinket.md\|Elven Trinkets]]
 
-![Elf Tables; Elf (Non-drow) Adventurer Story Hooks](compendium/tables/elf-tables-elf-non-drow-adventurer-story-hooks-mtf.md)
+![[5. Mechanics/Tables/Elf Tables Elf Non Drow Adventurer Story Hooks.md\|Elf Tables; Elf (Non-drow) Adventurer Story Hooks]]
 
 ![[6. Resources/Books/Mordenkainens Tome Of Foes/img/315616_cn_wmask.webp#center]]
 
-![Elf Tables; Drow Adventurer Story Hooks](compendium/tables/elf-tables-drow-adventurer-story-hooks-mtf.md)
+![[5. Mechanics/Tables/Elf Tables Drow Adventurer Story Hooks.md\|Elf Tables; Drow Adventurer Story Hooks]]
 
-![Elf Tables; Drow House Specialty](compendium/tables/elf-tables-drow-house-specialty-mtf.md)
+![[5. Mechanics/Tables/Elf Tables Drow House Specialty.md\|Elf Tables; Drow House Specialty]]

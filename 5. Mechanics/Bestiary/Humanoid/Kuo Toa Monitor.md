@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Kuo-toa Monitor
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Kuo Toa Monitor.md|Kuo-toa Monitor]]
+# [[5. Mechanics/Bestiary/Humanoid/Kuo Toa Monitor.md|Kuo-toa Monitor]]
 *Source: Monster Manual p. 198*
 
 Kuo-toa are degenerate fishlike humanoids that once inhabited the shores and islands of the surface world. Long ago humans and their ilk drove the kuo-toa underground, where they dwell in madness and everlasting night. Kuo-toa can no longer abide daylight.
@@ -46,9 +46,9 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 > 
 > **Multiattack.** The kuo-toa makes one bite attack and two unarmed strikes.
 > 
-> **Bite.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: `dice: 1d4 + 2|avg` (`1d4 + 2`) piercing damage.
+> **Bite.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: `dice:1d4 + 2|text(4)` (`1d4 + 2`) piercing damage.
 > 
-> **Unarmed Strike.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: `dice: 1d6 + 2|avg` (`1d6 + 2`) bludgeoning damage + `dice: 1d6|avg` (`1d6`) lightning damage, and the target can't take reactions until the end of the kuo-toa's next turn.
+> **Unarmed Strike.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: `dice:1d6 + 2|text(5)` (`1d6 + 2`) bludgeoning damage + `dice:1d6|text(3)` (`1d6`) lightning damage, and the target can't take reactions until the end of the kuo-toa's next turn.
 ^variant-kuo-toa-monitor
 
 > [!quote]- A quote from Sabal Mizzrym of Menzoberranzan  
@@ -63,6 +63,7 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 "subtype": "kuo-toa"
 "alignment": "Neutral Evil"
 "ac": !!int "13"
+"ac_class": "natural armor, Unarmored Defense"
 "hp": !!int "65"
 "hit_dice": "10d8 + 20"
 "stats":
@@ -98,11 +99,11 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 "actions":
 - "desc": "The kuo-toa makes one bite attack and two unarmed strikes."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d4 + 2|text(4) (1d4 + 2) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) bludgeoning damage plus dice: 1d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 2|text(5) (1d6 + 2) bludgeoning damage plus dice:1d6|text(3)\
     \ (1d6) lightning damage, and the target can't take reactions until the end\
     \ of the kuo-toa's next turn."
   "name": "Unarmed Strike"

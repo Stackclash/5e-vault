@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Pillar of Water
 ---
-# [[5. Mechanics\Bestiary\Elemental\Pillar Of Water.md|Pillar of Water]]
+# [[5. Mechanics/Bestiary/Elemental/Pillar Of Water.md|Pillar of Water]]
 *Source: Strongholds and Followers p. 189*
 
 If the Sources are watchmen of Alloy, the Pillars are the jailors. They spring from the ground, imprisoning those caught violating the law of the Lady. Like the Sources, they have an attitude, but not much actual personality.
@@ -33,6 +33,7 @@ The Pillar can imprison up to four creatures, but it doesn't have to. If there's
 "type": "elemental"
 "alignment": "Neutral"
 "ac": !!int "13"
+"ac_class": "natural armor"
 "hp": !!int "149"
 "hit_dice": "13d10 + 78"
 "stats":
@@ -66,8 +67,8 @@ The Pillar can imprison up to four creatures, but it doesn't have to. If there's
     \ empty space adjacent to the pillar.\n\nUp to four Medium creatures, or one Large\
     \ creature, can be contained in the pillar. Creatures suspended in the pillar\
     \ can't breathe unless they can breathe water, are [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
-    \ and take dice: 6d6|avg (6d6) bludgeoning damage at the start of each of\
-    \ the pillar's turns.\n\nAs an action, a [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
+    \ and take dice:6d6|text(21) (6d6) bludgeoning damage at the start of each\
+    \ of the pillar's turns.\n\nAs an action, a [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
     \ creature can make a DC 15 Strength ([[/5. Mechanics/Rules/Skills.md#Athletics|Athletics]])\
     \ check. On a success, it escapes from the column of water."
   "name": "Geyser"

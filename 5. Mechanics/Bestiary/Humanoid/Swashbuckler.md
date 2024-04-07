@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Swashbuckler
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Swashbuckler.md|Swashbuckler]]
+# [[5. Mechanics/Bestiary/Humanoid/Swashbuckler.md|Swashbuckler]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 238, Volo's Guide to Monsters p. 217*
 
 Swashbucklers are charming ne'er-do-wells who live by their own codes of honor. They crave notoriety, often indulge in romantic trysts, and eke out livings as pirates and corsairs, rarely staying in one place for too long.
@@ -41,6 +41,7 @@ Many swashbucklers have a signature flourish with which they embellish their act
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "17"
+"ac_class": "[[5. Mechanics/Items/Leather Armor.md|leather armor]], suave defense"
 "hp": !!int "66"
 "hit_dice": "12d8 + 12"
 "stats":
@@ -65,12 +66,12 @@ Many swashbucklers have a signature flourish with which they embellish their act
 "actions":
 - "desc": "The swashbuckler makes one Dagger attack and two Rapier attacks."
   "name": "Multiattack"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 1d4 + 4|avg (1d4 + 4) piercing\
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: dice:1d4 + 4|text(6) (1d4 + 4) piercing\
     \ damage."
   "name": "Dagger"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 4|text(8) (1d8 + 4) piercing damage."
   "name": "Rapier"
 "bonus_actions":
 - "desc": "The swashbuckler takes the [[/5. Mechanics/Rules/Actions.md#Dash|Dash]] or\

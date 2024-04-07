@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Duergar Soulblade
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Duergar Soulblade.md|Duergar Soulblade]]
+# [[5. Mechanics/Bestiary/Humanoid/Duergar Soulblade.md|Duergar Soulblade]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 109, Mordenkainen's Tome of Foes p. 190*
 
 Soulblades are duergar combatants whose mastery of psionics allows them to manifest blades of psychic energy to slice apart their foes.
@@ -44,6 +44,7 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 "subtype": "dwarf"
 "alignment": "Any alignment"
 "ac": !!int "14"
+"ac_class": "[[5. Mechanics/Items/Leather Armor.md|leather armor]]"
 "hp": !!int "27"
 "hit_dice": "6d8"
 "stats":
@@ -68,8 +69,8 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
     \ rely on sight."
   "name": "Sunlight Sensitivity"
 "actions":
-- "desc": "Melee Spell Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) force damage, or dice: 3d6 + 3|avg\
+- "desc": "Melee Spell Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 3|text(10) (2d6 + 3) force damage, or dice:3d6 + 3|text(13)\
     \ (3d6 + 3) force damage while under the effect of Enlarge."
   "name": "Soulblade"
 - "desc": "The duergar magically turns [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]]\

@@ -263,13 +263,13 @@ This section presents optional features for any background. You may replace the 
 
 Characters in a horror-focused campaign might have distinct motivations and characteristics. Use the following tables to supplement your background's suggested characteristics or to inspire those of your own design.
 
-![Horror Characteristics; Horror Character Personality Traits](compendium/tables/horror-characteristics-horror-character-personality-traits-vrgr.md)
+![[5. Mechanics/Tables/Horror Characteristics Horror Character Personality Traits.md\|Horror Characteristics; Horror Character Personality Traits]]
 
-![Horror Characteristics; Horror Character Ideals](compendium/tables/horror-characteristics-horror-character-ideals-vrgr.md)
+![[5. Mechanics/Tables/Horror Characteristics Horror Character Ideals.md\|Horror Characteristics; Horror Character Ideals]]
 
-![Horror Characteristics; Horror Character Bonds](compendium/tables/horror-characteristics-horror-character-bonds-vrgr.md)
+![[5. Mechanics/Tables/Horror Characteristics Horror Character Bonds.md\|Horror Characteristics; Horror Character Bonds]]
 
-![Horror Characteristics; Horror Character Flaws](compendium/tables/horror-characteristics-horror-character-flaws-vrgr.md)
+![[5. Mechanics/Tables/Horror Characteristics Horror Character Flaws.md\|Horror Characteristics; Horror Character Flaws]]
 
 ### Horror Trinkets
 

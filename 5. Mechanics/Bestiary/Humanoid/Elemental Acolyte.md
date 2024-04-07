@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Elemental Acolyte
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Elemental Acolyte.md|Elemental Acolyte]]
+# [[5. Mechanics/Bestiary/Humanoid/Elemental Acolyte.md|Elemental Acolyte]]
 *Source: Strongholds and Followers p. 76*
 
 ```statblock
@@ -20,6 +20,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "15"
+"ac_class": "Medium"
 "stats":
 - !!int "14"
 - !!int "18"
@@ -45,13 +46,13 @@ aliases:
 - "desc": "This creature is a Retainer, as described in \"Strongholds and Followers\""
   "name": "Retainer"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) bludgeoning damage.\n\nAt 7th level,\
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 3|text(7) (1d8 + 3) bludgeoning damage.\n\nAt 7th level,\
     \ retainers can take two signature attacks per round."
   "name": "Signature Attack"
 - "desc": "Prerequisite: 3rd-level retainer\n\nIntense winds swirl around the ends\
-    \ of the acolyte's weapon, causing their next two attacks to deal an extra dice:\
-    \ 2d6|avg (2d6) bludgeoning damage."
+    \ of the acolyte's weapon, causing their next two attacks to deal an extra dice:2d6|text(7)\
+    \ (2d6) bludgeoning damage."
   "name": "Wind (3/Day)"
 - "desc": "Prerequisite: 5th-level retainer\n\nThe acolyte makes a signature attack\
     \ and assumes a stance that lets them dodge all incoming melee attacks until the\
@@ -59,8 +60,9 @@ aliases:
   "name": "Water (3/Day)"
 - "desc": "Prerequisite: 7th-level retainer\n\nThe acolyte stomps the ground, dislodging\
     \ two large pieces of earth, and kicks them toward a target within 30 feet. The\
-    \ target must make a Dexterity saving throw or take dice: 6d8|avg (6d8) bludgeoning\
-    \ damage on a failed save, or half as much damage on a successful one."
+    \ target must make a Dexterity saving throw or take dice:6d8|text(27) (6d8)\
+    \ bludgeoning damage on a failed save, or half as much damage on a successful\
+    \ one."
   "name": "Earth (1/Day)"
 "source":
 - "SaF"

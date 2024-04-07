@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Undying Councilor
 ---
-# [[5. Mechanics\Bestiary\Undead\Undying Councilor.md|Undying Councilor]]
+# [[5. Mechanics/Bestiary/Undead/Undying Councilor.md|Undying Councilor]]
 *Source: Eberron: Rising from the Last War p. 311*
 
 Undying councilors guide and protect the people of Aerenal. They are the most powerful members of the Undying Court who still maintain their physical forms. While many undying councilors spend their days advising the living, some devote years projecting their consciousness into the Astral Plane, seeking new knowledge to share with their people. Still, not all minds are capable of assimilating immortality, and undying councilors sometimes buckle under the strain and go mad.
@@ -45,6 +45,7 @@ An undying doesn't require air, food, drink, or sleep.
 "type": "undead"
 "alignment": "Neutral Good"
 "ac": !!int "17"
+"ac_class": "natural armor"
 "hp": !!int "104"
 "hit_dice": "16d8 + 32"
 "stats":
@@ -75,7 +76,7 @@ An undying doesn't require air, food, drink, or sleep.
 "cr": "10"
 "traits":
 - "desc": "The councilor is a 13th-level spellcaster. Its spellcasting ability is\
-    \ Wisdom (spell save DC 17, dice: d20+9 (+9 to hit) with spell attacks). It\
+    \ Wisdom (spell save DC 17, dice: d20+9 (+9) to hit with spell attacks). It\
     \ has the following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Guidance.md|guidance]],\
     \ [[5. Mechanics/Spells/Mending.md|mending]], [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]],\
     \ [[5. Mechanics/Spells/Spare The Dying.md|spare the dying]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
@@ -104,20 +105,21 @@ An undying doesn't require air, food, drink, or sleep.
 "actions":
 - "desc": "The councilor makes two Radiant Touch attacks."
   "name": "Multiattack"
-- "desc": "Melee Spell Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 3d6 + 5|avg (3d6 + 5) radiant damage."
+- "desc": "Melee Spell Attack: dice: d20+9 (+9) to hit, reach 5 ft., one target.\
+    \ Hit: dice:3d6 + 5|text(15) (3d6 + 5) radiant damage."
   "name": "Radiant Touch"
-- "desc": "The councilor touches another creature. The target magically regains dice:\
-    \ 3d8 + 5|avg (3d8 + 5) hit points and is freed from one curse afflicting it\
-    \ (councilor's choice)."
+- "desc": "The councilor touches another creature. The target magically regains dice:3d8\
+    \ + 5|text(18) (3d8 + 5) hit points and is freed from one curse afflicting\
+    \ it (councilor's choice)."
   "name": "Healing Touch (3/Day)"
 - "desc": "The councilor chooses a point it can see within 60 feet of it. Each creature\
     \ in a 10-foot-radius, 40-foot-high cylinder centered on that point must make\
-    \ a DC 17 Dexterity saving throw. A creature takes dice: 4d6|avg (4d6) fire\
-    \ damage and dice: 4d6|avg (4d6) radiant damage on a failed save, or half\
-    \ as much damage on a successful one. If the councilor casts this spell using\
-    \ a spell slot of 6th level or higher, the fire damage or the radiant damage (its\
-    \ choice) increases by dice: 1d6|avg (1d6) for each slot level above 5th."
+    \ a DC 17 Dexterity saving throw. A creature takes dice:4d6|text(14) (4d6)\
+    \ fire damage and dice:4d6|text(14) (4d6) radiant damage on a failed save,\
+    \ or half as much damage on a successful one. If the councilor casts this spell\
+    \ using a spell slot of 6th level or higher, the fire damage or the radiant damage\
+    \ (its choice) increases by dice: 1d6|avg|noform (1d6) for each slot level\
+    \ above 5th."
   "name": "Flame Strike (5th-Level Spell; Requires a Spell Slot)"
 "legendary_actions":
 - "desc": "The councilor makes one attack with its Radiant Touch."

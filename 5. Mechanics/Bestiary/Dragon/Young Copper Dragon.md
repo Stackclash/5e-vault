@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Young Copper Dragon
 ---
-# [[5. Mechanics\Bestiary\Dragon\Young Copper Dragon.md|Young Copper Dragon]]
+# [[5. Mechanics/Bestiary/Dragon/Young Copper Dragon.md|Young Copper Dragon]]
 *Source: Monster Manual p. 112. Available in the SRD.*
 
 Copper dragons are incorrigible pranksters, joke tellers, and riddlers that live in hills and rocky uplands. Despite their gregarious and even-tempered natures, they possess a covetous, miserly streak, and can become dangerous when their hoards are threatened.
@@ -86,6 +86,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 "type": "dragon"
 "alignment": "Chaotic Good"
 "ac": !!int "17"
+"ac_class": "natural armor"
 "hp": !!int "119"
 "hit_dice": "14d10 + 42"
 "stats":
@@ -112,15 +113,15 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 "actions":
 - "desc": "The dragon makes three attacks: one with its bite and two with its claws."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d10 + 4|avg (2d10 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 10 ft., one target.\
+    \ Hit: dice:2d10 + 4|text(15) (2d10 + 4) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) slashing damage."
   "name": "Claw"
 - "desc": "The dragon uses one of the following breath weapons.\n\n- Acid Breath.\
     \ The dragon exhales acid in a 40-foot line that is 5 feet wide. Each creature\
-    \ in that line must make a DC 14 Dexterity saving throw, taking dice: 9d8|avg\
+    \ in that line must make a DC 14 Dexterity saving throw, taking dice:9d8|text(40)\
     \ (9d8) acid damage on a failed save, or half as much damage on a successful\
     \ one.  \n- Slowing Breath. The dragon exhales gas in a 30-foot cone. Each\
     \ creature in that area must succeed on a DC 14 Constitution saving throw. On\

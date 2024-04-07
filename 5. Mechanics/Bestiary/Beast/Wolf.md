@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Wolf
 ---
-# [[5. Mechanics\Bestiary\Beast\Wolf.md|Wolf]]
+# [[5. Mechanics/Bestiary/Beast/Wolf.md|Wolf]]
 *Source: Monster Manual p. 341, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*
 
 ```statblock
@@ -22,6 +22,7 @@ aliases:
 "type": "beast"
 "alignment": "Unaligned"
 "ac": !!int "13"
+"ac_class": "natural armor"
 "hp": !!int "11"
 "hit_dice": "2d8 + 2"
 "stats":
@@ -47,9 +48,9 @@ aliases:
     \ [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
   "name": "Pack Tactics"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4 + 2|avg (2d4 + 2) piercing damage. If the target is a creature,\
-    \ it must succeed on a DC 11 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d4 + 2|text(7) (2d4 + 2) piercing damage. If the target is\
+    \ a creature, it must succeed on a DC 11 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Bite"
 "source":
 - "MM"

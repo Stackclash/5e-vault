@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Stone Giant Dreamwalker
 ---
-# [[5. Mechanics\Bestiary\Giant\Stone Giant Dreamwalker.md|Stone Giant Dreamwalker]]
+# [[5. Mechanics/Bestiary/Giant/Stone Giant Dreamwalker.md|Stone Giant Dreamwalker]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 234, Volo's Guide to Monsters p. 150*
 
 The surface of the world is an alien realm to stone giants: fluctuating, temporary, exposed to gusting wind and sudden rain. It is as wildly changeable as a dream, and that's how they regard it—as a dream. Nothing there is permanent, so nothing there is real. What happens on the surface doesn't matter. Promises and bargains made there needn't be honored. Life and even art hold less value there.
@@ -30,6 +30,7 @@ Dreamwalkers become divorced from reality by isolation, shame, and their unendin
 "type": "giant"
 "alignment": "Typically  Chaotic Neutral"
 "ac": !!int "18"
+"ac_class": "natural armor"
 "hp": !!int "161"
 "hit_dice": "14d12 + 70"
 "stats":
@@ -63,13 +64,13 @@ Dreamwalkers become divorced from reality by isolation, shame, and their unendin
 "actions":
 - "desc": "The giant makes two Greatclub or Rock attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 15 ft., one target.\
-    \ Hit: dice: 4d8 + 6|avg (4d8 + 6) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+10 (+10) to hit, reach 15 ft., one\
+    \ target. Hit: dice:4d8 + 6|text(24) (4d8 + 6) bludgeoning damage."
   "name": "Greatclub"
-- "desc": "Ranged Weapon Attack: dice: d20+10 (+10 to hit), range 60/240 ft.,\
-    \ one target. Hit: dice: 3d10 + 6|avg (3d10 + 6) bludgeoning damage. If\
-    \ the target is a creature, it must succeed on a DC 17 Strength saving throw or\
-    \ be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+- "desc": "Ranged Weapon Attack: dice: d20+10 (+10) to hit, range 60/240 ft.,\
+    \ one target. Hit: dice:3d10 + 6|text(22) (3d10 + 6) bludgeoning damage.\
+    \ If the target is a creature, it must succeed on a DC 17 Strength saving throw\
+    \ or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Rock"
 - "desc": "The giant touches one Medium or smaller creature within 10 feet of it that\
     \ is [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] by it. The target must\

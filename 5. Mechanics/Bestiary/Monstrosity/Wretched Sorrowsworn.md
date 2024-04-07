@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Wretched Sorrowsworn
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Wretched Sorrowsworn.md|Wretched Sorrowsworn]]
+# [[5. Mechanics/Bestiary/Monstrosity/Wretched Sorrowsworn.md|Wretched Sorrowsworn]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 224, Mordenkainen's Tome of Foes p. 233*
 
 Horrid little monsters, wretched sorrowsworn—or the Wretched—gather in packs to scour the Shadowfell for prey. These desperate entities subsist on life force; when they find a creature, they surge forward to sink their fangs into their victims and drink deep.
@@ -28,6 +28,7 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
 "type": "monstrosity"
 "alignment": "Typically  Neutral Evil"
 "ac": !!int "15"
+"ac_class": "natural armor"
 "hp": !!int "10"
 "hit_dice": "4d6 - 4"
 "stats":
@@ -49,11 +50,11 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
     \ sorrowsworn otherwise has disadvantage on attack rolls."
   "name": "Wretched Pack Tactics"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d10 + 1|avg (1d10 + 1) piercing damage, and the sorrowsworn\
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d10 + 1|text(6) (1d10 + 1) piercing damage, and the sorrowsworn\
     \ attaches to the target. While attached, the sorrowsworn can't attack, and at\
-    \ the start of each of the sorrowsworn's turns, the target takes dice: 1d10 +\
-    \ 1|avg (1d10 + 1) necrotic damage.\n\nThe attached sorrowsworn moves with\
+    \ the start of each of the sorrowsworn's turns, the target takes dice:1d10 +\
+    \ 1|text(6) (1d10 + 1) necrotic damage.\n\nThe attached sorrowsworn moves with\
     \ the target whenever the target moves, requiring none of the sorrowsworn's movement.\
     \ The sorrowsworn can detach itself by spending 5 feet of its movement on its\
     \ turn. A creature, including the target, can use its action to detach the sorrowsworn."

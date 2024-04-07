@@ -11,10 +11,10 @@ statblock: inline
 aliases:
   - Violet Fungus
 ---
-# [[5. Mechanics\Bestiary\Plant\Violet Fungus.md|Violet Fungus]]
+# [[5. Mechanics/Bestiary/Plant/Violet Fungus.md|Violet Fungus]]
 *Source: Monster Manual p. 138. Available in the SRD.*
 
-This purplish mushroom uses root-like feelers growing from its base to creep across cavern floors. The four stalks protruding from a violet fungi's central mass are used to lash out at prey, rotting flesh with the slightest touch. Any creature killed by a violet fungus decomposes rapidly. A new violet fungus sprouts from the moldering corpse, growing to full size in `dice: 2d6|avg` (`2d6`) days.
+This purplish mushroom uses root-like feelers growing from its base to creep across cavern floors. The four stalks protruding from a violet fungi's central mass are used to lash out at prey, rotting flesh with the slightest touch. Any creature killed by a violet fungus decomposes rapidly. A new violet fungus sprouts from the moldering corpse, growing to full size in `dice: 2d6|avg|noform` (`2d6`) days.
 
 ## Fungi
 
@@ -50,10 +50,10 @@ Not needing sunlight or warmth to grow, fungi thrive in every corner and crevice
     \ an ordinary fungus."
   "name": "False Appearance"
 "actions":
-- "desc": "The fungus makes dice: 1d4|avg (1d4) Rotting Touch attacks."
+- "desc": "The fungus makes dice: 1d4|avg|noform (1d4) Rotting Touch attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 10 ft., one creature.\
-    \ Hit: dice: 1d8|avg (1d8) necrotic damage."
+- "desc": "Melee Weapon Attack: dice: d20+2 (+2) to hit, reach 10 ft., one creature.\
+    \ Hit: dice:1d8|text(4) (1d8) necrotic damage."
   "name": "Rotting Touch"
 "source":
 - "MM"

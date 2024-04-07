@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Young Red Shadow Dragon
 ---
-# [[5. Mechanics\Bestiary\Dragon\Young Red Shadow Dragon.md|Young Red Shadow Dragon]]
+# [[5. Mechanics/Bestiary/Dragon/Young Red Shadow Dragon.md|Young Red Shadow Dragon]]
 *Source: Monster Manual p. 85*
 
 Shadow dragons are true dragons that were either born in the Shadowfell or transformed by years spent within its dismal confines. Some shadow dragons embrace the Shadowfell for its bleak landscapes and desolation. Others seek to return to the Material Plane, hungry to spread the darkness and evil of the Plane of Shadow.
@@ -68,6 +68,7 @@ Any damage-dealing breath weapon possessed by the dragon deals necrotic damage i
 "type": "dragon"
 "alignment": "Chaotic Evil"
 "ac": !!int "18"
+"ac_class": "natural armor"
 "hp": !!int "178"
 "hit_dice": "17d10 + 85"
 "stats":
@@ -105,15 +106,15 @@ Any damage-dealing breath weapon possessed by the dragon deals necrotic damage i
 "actions":
 - "desc": "The dragon makes three attacks: one with its bite and two with its claws."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+11 (+11 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d10 + 6|avg (2d10 + 6) piercing damage plus dice: 1d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+11 (+11) to hit, reach 10 ft., one\
+    \ target. Hit: dice:2d10 + 6|text(17) (2d10 + 6) piercing damage plus dice:1d6|text(3)\
     \ (1d6) necrotic damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+11 (+11 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 6|avg (2d6 + 6) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+11 (+11) to hit, reach 5 ft., one\
+    \ target. Hit: dice:2d6 + 6|text(13) (2d6 + 6) slashing damage."
   "name": "Claw"
 - "desc": "The dragon exhales shadowy fire in a 30-foot cone. Each creature in that\
-    \ area must make a DC 18 Dexterity saving throw, taking dice: 16d6|avg (16d6)\
+    \ area must make a DC 18 Dexterity saving throw, taking dice:16d6|text(56) (16d6)\
     \ necrotic damage on a failed save, or half as much damage on a successful one.\
     \ A humanoid reduced to 0 hit points by this damage dies, and an undead [[5. Mechanics/Bestiary/Undead/Shadow.md|shadow]]\
     \ rises from its corpse and acts immediately after the dragon in the initiative\

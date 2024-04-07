@@ -24,7 +24,7 @@ Beginning when you select this school at 2nd level, the gold and time you must s
 
 ### Portent (Level 2)
 
-Starting at 2nd level when you choose this school, glimpses of the future begin to press in on your awareness. When you finish a long rest, roll two `dice: d20|avg` (`d20`)s and record the numbers rolled. You can replace any attack roll, saving throw, or ability check made by you or a creature that you can see with one of these foretelling rolls. You must choose to do so before the roll, and you can replace a roll in this way only once per turn.
+Starting at 2nd level when you choose this school, glimpses of the future begin to press in on your awareness. When you finish a long rest, roll two `dice: d20|avg|noform` (`d20`)s and record the numbers rolled. You can replace any attack roll, saving throw, or ability check made by you or a creature that you can see with one of these foretelling rolls. You must choose to do so before the roll, and you can replace a roll in this way only once per turn.
 
 Each foretelling roll can be used only once. When you finish a long rest, you lose any unused foretelling rolls.
 
@@ -43,4 +43,4 @@ Starting at 10th level, you can use your action to increase your powers of perce
 
 ### Greater Portent (Level 14)
 
-Starting at 14th level, the visions in your dreams intensify and paint a more accurate picture in your mind of what is to come. You roll three `dice: d20|avg` (`d20`)s for your Portent feature, rather than two.
+Starting at 14th level, the visions in your dreams intensify and paint a more accurate picture in your mind of what is to come. You roll three `dice: d20|avg|noform` (`d20`)s for your Portent feature, rather than two.

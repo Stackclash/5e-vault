@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Conjurer Wizard
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Conjurer Wizard.md|Conjurer Wizard]]
+# [[5. Mechanics/Bestiary/Humanoid/Conjurer Wizard.md|Conjurer Wizard]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 260, Volo's Guide to Monsters p. 212*
 
 Conjurers summon creatures from other planes of existence and teleport themselves and others in the blink of an eye.
@@ -26,6 +26,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "12"
+"ac_class": "15 with [[5. Mechanics/Spells/Mage Armor.md|mage armor]]"
 "hp": !!int "58"
 "hit_dice": "13d8"
 "stats":
@@ -56,8 +57,8 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "actions":
 - "desc": "The conjurer makes three Arcane Burst attacks."
   "name": "Multiattack"
-- "desc": "Melee or Ranged Spell Attack: dice: d20+8 (+8 to hit), reach 5 ft.\
-    \ or range 120 ft., one target. Hit: dice: 3d10 + 3|avg (3d10 + 3) force\
+- "desc": "Melee or Ranged Spell Attack: dice: d20+8 (+8) to hit, reach 5 ft.\
+    \ or range 120 ft., one target. Hit: dice:3d10 + 3|text(19) (3d10 + 3) force\
     \ damage."
   "name": "Arcane Burst"
 "bonus_actions":

@@ -16,7 +16,7 @@ On initiative count 20 (losing initiative ties), the kraken takes a lair action 
 
 - A strong current moves through the kraken's lair. Each creature within 60 feet of the kraken must succeed on a DC 23 Strength saving throw or be pushed up to 60 feet away from the kraken. On a success, the creature is pushed 10 feet away from the kraken.  
 - Creatures in the water within 60 feet of the kraken have vulnerability to lightning damage until initiative count 20 on the next round.  
-- The water in the kraken's lair becomes electrically charged. All creatures within 120 feet of the kraken must succeed on a DC 23 Constitution saving throw, taking `dice: 3d6|avg` (`3d6`) lightning damage on a failed save, or half as much damage on a successful one.  
+- The water in the kraken's lair becomes electrically charged. All creatures within 120 feet of the kraken must succeed on a DC 23 Constitution saving throw, taking `dice:3d6|text(10)` (`3d6`) lightning damage on a failed save, or half as much damage on a successful one.  
 
 ## Regional effects
 _Source: Monster Manual_

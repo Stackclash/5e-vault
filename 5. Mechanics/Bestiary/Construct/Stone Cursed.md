@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Stone Cursed
 ---
-# [[5. Mechanics\Bestiary\Construct\Stone Cursed.md|Stone Cursed]]
+# [[5. Mechanics/Bestiary/Construct/Stone Cursed.md|Stone Cursed]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 233, Mordenkainen's Tome of Foes p. 240*
 
 Stone cursed are spawned through a foul alchemical ritual performed on a Humanoid that has been turned to stone. The ritual, which requires a mixture of basilisk blood and the ashes from the burned feathers of a cockatrice, awakens a dim echo of the [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]] victim's spirit, animating the statue and turning it into a useful guardian.
@@ -32,6 +32,7 @@ Even though a creature transformed into a stone cursed is long dead, a vague whi
 "type": "construct"
 "alignment": "Typically  Lawful Evil"
 "ac": !!int "17"
+"ac_class": "natural armor"
 "hp": !!int "19"
 "hit_dice": "3d8 + 6"
 "stats":
@@ -61,12 +62,12 @@ Even though a creature transformed into a stone cursed is long dead, a vague whi
 - "desc": "The stone cursed doesn't require air, food, drink, or sleep."
   "name": "Unusual Nature"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 3|avg (2d8 + 3) slashing damage. If the target is a creature,\
-    \ it must succeed on a DC 12 Constitution saving throw, or it begins to turn to\
-    \ stone and is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]] until\
-    \ the end of its next turn, when it must repeat the saving throw. The effect ends\
-    \ if the second save is successful; otherwise the target is [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]]\
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d8 + 3|text(12) (2d8 + 3) slashing damage. If the target is\
+    \ a creature, it must succeed on a DC 12 Constitution saving throw, or it begins\
+    \ to turn to stone and is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
+    \ until the end of its next turn, when it must repeat the saving throw. The effect\
+    \ ends if the second save is successful; otherwise the target is [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]]\
     \ for 24 hours."
   "name": "Petrifying Claws"
 "source":

@@ -1,27 +1,29 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: null
 condition: healthy
-image: https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/sir-pelliton.jpg
+image: >-
+  https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/sir-pelliton.jpg
 relationships: []
-tags: 
-aliases: [Sir Pelliton]
-pronounced: 
-race: 
-gender: 
-age: 
+tags: null
+aliases:
+  - Sir Pelliton
+pronounced: null
+race: null
+gender: null
+age: null
 alignment: Chaotic Evil
-occupation: 
+occupation: null
 groups: []
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]
@@ -117,6 +119,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 "subtype": "human"
 "alignment": "Chaotic Evil"
 "ac": !!int "20"
+"ac_class": "[[5. Mechanics/Items/Plate Armor.md|plate armor]], [[5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "76"
 "hit_dice": "9d10 + 27"
 "stats":
@@ -143,7 +146,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 - "desc": "Sir Pelliton has gained the power to cast dark magic. All spells he casts\
     \ with this feature are cast as if using a 5th-level spell slot, and he casts\
     \ cantrips as if he were an 11th-level warlock. His spellcasting ability is Wisdom\
-    \ (DC 16, dice: d20+8 (+8 to hit) with spell attacks).\n\nAt will: [acid\
+    \ (DC 16, dice: d20+8 (+8) to hit with spell attacks).\n\nAt will: [acid\
     \ splash](compendium/spells/acid-splash.md), [[5. Mechanics/Spells/Eldritch Blast.md|eldritch blast]]\
     \ (3 beams), [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]], [[5. Mechanics/Spells/Hellish Rebuke.md|hellish rebuke]]\n\
     \n1/day each: [[5. Mechanics/Spells/Cone Of Cold.md|cone of cold]], [[5. Mechanics/Spells/Eyebite.md|eyebite]],\
@@ -164,12 +167,12 @@ await dv.view("npcRelationships", { current: dv.current() })
 - "desc": "Sir Pelliton makes three melee attacks or makes two melee attacks and casts\
     \ eldritch blast."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) slashing damage plus dice: 1d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 4|text(8) (1d8 + 4) slashing damage plus dice:1d6|text(3)\
     \ (1d6) cold damage."
   "name": "Frost Brand Longsword"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 1d12 + 4|avg (1d12 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 10 ft., one target.\
+    \ Hit: dice:1d12 + 4|text(10) (1d12 + 4) piercing damage."
   "name": "Lance"
 "reactions":
 - "desc": "As a reaction, when a minion dies, issue a command to your other minions.\

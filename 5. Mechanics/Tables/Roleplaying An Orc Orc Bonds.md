@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vgm
-aliases: ["Roleplaying an Orc; Orc Bonds"]
+  - compendium/src/5e/vgm
+aliases:
+  - Roleplaying an Orc; Orc Bonds
 ---
 # Roleplaying an Orc; Orc Bonds
 *Source: Volo's Guide to Monsters p. 87* 

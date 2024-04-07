@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Banderhobb
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Banderhobb.md|Banderhobb]]
+# [[5. Mechanics/Bestiary/Monstrosity/Banderhobb.md|Banderhobb]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 56, Volo's Guide to Monsters p. 122*
 
 A banderhobb is a hybrid of shadow and flesh. Through vile magic, these components take on an enormous and horrific upright shape resembling a bipedal toad. In this form, a banderhobb temporarily serves its creator as a thug, a thief, and a kidnapper that swallows the unwary.
@@ -28,6 +28,7 @@ A banderhobb fulfills its duties until its existence ends. When it expires, usua
 "type": "monstrosity"
 "alignment": "Typically  Neutral Evil"
 "ac": !!int "15"
+"ac_class": "natural armor"
 "hp": !!int "84"
 "hit_dice": "8d10 + 40"
 "stats":
@@ -54,28 +55,28 @@ A banderhobb fulfills its duties until its existence ends. When it expires, usua
 - "desc": "The banderhobb makes one Bite attack and one Tongue attack. It can replace\
     \ one attack with a use of Shadow Step."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 3d6 + 5|avg (3d6 + 5) piercing damage, and the target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ (escape DC 16) if it is a Large or smaller creature. Until this grapple ends,\
-    \ the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]], and\
-    \ the banderhobb can't use its Bite attack or Tongue attack on another target."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one target.\
+    \ Hit: dice:3d6 + 5|text(15) (3d6 + 5) piercing damage, and the target is\
+    \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 16) if it is\
+    \ a Large or smaller creature. Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+    \ and the banderhobb can't use its Bite attack or Tongue attack on another target."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 15 ft., one creature.\
-    \ Hit: dice: 3d6|avg (3d6) necrotic damage, and the target must make a DC\
-    \ 16 Strength saving throw. On a failed save, the target is pulled to a space\
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 15 ft., one creature.\
+    \ Hit: dice:3d6|text(10) (3d6) necrotic damage, and the target must make\
+    \ a DC 16 Strength saving throw. On a failed save, the target is pulled to a space\
     \ within 5 feet of the banderhobb."
   "name": "Tongue"
 - "desc": "The banderhobb teleports up to 30 feet to an un occupied space of dim light\
     \ or darkness that it can see."
   "name": "Shadow Step"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one Medium\
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one Medium\
     \ or smaller creature [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] by\
-    \ the banderhobb. Hit: dice: 3d6 + 5|avg (3d6 + 5) piercing damage. The\
-    \ creature is also swallowed, and the grapple ends. The swallowed creature is\
-    \ [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] and [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+    \ the banderhobb. Hit: dice:3d6 + 5|text(15) (3d6 + 5) piercing damage.\
+    \ The creature is also swallowed, and the grapple ends. The swallowed creature\
+    \ is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] and [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
     \ it has total cover against attacks and other effects outside the banderhobb,\
-    \ and it takes dice: 3d6|avg (3d6) necrotic damage at the start of each of\
-    \ the banderhobb's turns. A creature reduced to 0 hit points in this way stops\
+    \ and it takes dice:3d6|text(10) (3d6) necrotic damage at the start of each\
+    \ of the banderhobb's turns. A creature reduced to 0 hit points in this way stops\
     \ taking the necrotic damage and becomes stable.\n\nThe banderhobb can have only\
     \ one creature swallowed at a time. While the banderhobb isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]],\
     \ it can regurgitate the creature at any time (no action required) in a space\

@@ -19,7 +19,7 @@ title: Eldritch Cannon, Flamethrower
 *Unknown Unknown*
 
 - **Armor Class** 18 
-- **Hit Points** null (equal to five times your artificer level)
+- **Hit Points** equal to five times your artificer level (equal to five times your artificer level)
 - **Speed** 
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -31,6 +31,6 @@ title: Eldritch Cannon, Flamethrower
 
 ## Actions
 
-***Flamethrower.*** The cannon exhales fire in an adjacent 15-foot cone that you designate. Each creature in that area must make a Dexterity saving throw against your spell save DC, taking `dice: 2d8|avg` (`2d8`) fire damage on a failed save or half as much damage on a successful one. The fire ignites any flammable objects in the area that aren't being worn or carried.
+***Flamethrower.*** The cannon exhales fire in an adjacent 15-foot cone that you designate. Each creature in that area must make a Dexterity saving throw against your spell save DC, taking `dice: 2d8|avg|noform` (`2d8`) fire damage on a failed save or half as much damage on a successful one. The fire ignites any flammable objects in the area that aren't being worn or carried.
 ```
 ^statblock

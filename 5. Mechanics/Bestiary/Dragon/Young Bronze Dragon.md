@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Young Bronze Dragon
 ---
-# [[5. Mechanics\Bestiary\Dragon\Young Bronze Dragon.md|Young Bronze Dragon]]
+# [[5. Mechanics/Bestiary/Dragon/Young Bronze Dragon.md|Young Bronze Dragon]]
 *Source: Monster Manual p. 108. Available in the SRD.*
 
 Bronze dragons are coastal dwellers that feed primarily on aquatic plants and fish. They take the forms of friendly animals to observe other creatures of interest. They are also fascinated by warfare and eagerly join armies fighting for a just cause.
@@ -86,6 +86,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 "type": "dragon"
 "alignment": "Lawful Good"
 "ac": !!int "18"
+"ac_class": "natural armor"
 "hp": !!int "142"
 "hit_dice": "15d10 + 60"
 "stats":
@@ -115,15 +116,15 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 "actions":
 - "desc": "The dragon makes three attacks: one with its bite and two with its claws."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d10 + 5|avg (2d10 + 5) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 10 ft., one target.\
+    \ Hit: dice:2d10 + 5|text(16) (2d10 + 5) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 5|avg (2d6 + 5) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 5|text(12) (2d6 + 5) slashing damage."
   "name": "Claw"
 - "desc": "The dragon uses one of the following breath weapons.\n\n- Lightning Breath.\
     \ The dragon exhales lightning in a 60-foot line that is 5 feet wide. Each creature\
-    \ in that line must make a DC 15 Dexterity saving throw, taking dice: 10d10|avg\
+    \ in that line must make a DC 15 Dexterity saving throw, taking dice:10d10|text(55)\
     \ (10d10) lightning damage on a failed save, or half as much damage on a successful\
     \ one.  \n- Repulsion Breath. The dragon exhales repulsion energy in a 30-foot\
     \ cone. Each creature in that area must succeed on a DC 15 Strength saving throw.\

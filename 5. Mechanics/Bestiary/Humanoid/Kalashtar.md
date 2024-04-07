@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Kalashtar
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Kalashtar.md|Kalashtar]]
+# [[5. Mechanics/Bestiary/Humanoid/Kalashtar.md|Kalashtar]]
 *Source: Eberron: Rising from the Last War p. 317*
 
 The kalashtar have bonded with good-aligned quori spirits, which communicate with their hosts through dreams and visions. Descended from monks who offered their bodies as sanctuaries to those quori escaping the evil of Dal Quor, the kalashtar now fight to herald in a new age of light and balance.
@@ -44,12 +44,12 @@ The kalashtar have bonded with good-aligned quori spirits, which communicate wit
 - "desc": "The kalashtar has advantage on Wisdom saving throws."
   "name": "Dual Mind"
 "actions":
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing\
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: dice:1d4 + 2|text(4) (1d4 + 2) piercing\
     \ damage."
   "name": "Dagger"
 - "desc": "The kalashtar targets a creature it can see within 30 feet of it. The target\
-    \ must succeed on a DC 12 Wisdom saving throw or take dice: 2d10|avg (2d10)\
+    \ must succeed on a DC 12 Wisdom saving throw or take dice:2d10|text(11) (2d10)\
     \ psychic damage."
   "name": "Mind Thrust"
 "source":

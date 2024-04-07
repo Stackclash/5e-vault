@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Vistana Bandit Captain
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Vistana Bandit Captain.md|Vistana Bandit Captain]]
+# [[5. Mechanics/Bestiary/Humanoid/Vistana Bandit Captain.md|Vistana Bandit Captain]]
 *Source: Curse of Strahd p. 28*
 
 ```statblock
@@ -20,6 +20,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Any Non-Lawful alignment"
 "ac": !!int "15"
+"ac_class": "[[5. Mechanics/Items/Studded Leather Armor.md|studded leather]]"
 "hp": !!int "65"
 "hit_dice": "10d8 + 20"
 "stats":
@@ -44,11 +45,11 @@ aliases:
 - "desc": "The captain makes three melee attacks: two with its scimitar and one with\
     \ its dagger. Or the captain makes two ranged attacks with its daggers."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 3|text(6) (1d6 + 3) slashing damage."
   "name": "Scimitar"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 1d4 + 3|avg (1d4 + 3) piercing\
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: dice:1d4 + 3|text(5) (1d4 + 3) piercing\
     \ damage."
   "name": "Dagger"
 "reactions":

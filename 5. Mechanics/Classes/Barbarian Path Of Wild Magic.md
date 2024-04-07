@@ -42,8 +42,8 @@ If the effect requires a saving throw, the DC equals 8 + your proficiency bonus 
 
 You can harness your wild magic to bolster yourself or a companion. As an action, you can touch one creature (which can be yourself) and confer one of the following benefits of your choice to that creature:
 
-- For 10 minutes, the creature can roll a `dice: d3|avg` (`d3`) whenever making an attack roll or an ability check and add the number rolled to the `dice: d20|avg` (`d20`) roll.  
-- Roll a `dice: d3|avg` (`d3`). The creature regains one expended spell slot, the level of which equals the number rolled or lower (the creature's choice). Once a creature receives this benefit, that creature can't receive it again until after a long rest.  
+- For 10 minutes, the creature can roll a `dice: d3|avg|noform` (`d3`) whenever making an attack roll or an ability check and add the number rolled to the `dice: d20|avg|noform` (`d20`) roll.  
+- Roll a `dice: d3|avg|noform` (`d3`). The creature regains one expended spell slot, the level of which equals the number rolled or lower (the creature's choice). Once a creature receives this benefit, that creature can't receive it again until after a long rest.  
 
 You can take this action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 

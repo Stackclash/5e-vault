@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Cadaver Collector
 ---
-# [[5. Mechanics\Bestiary\Construct\Cadaver Collector.md|Cadaver Collector]]
+# [[5. Mechanics/Bestiary/Construct/Cadaver Collector.md|Cadaver Collector]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 68, Mordenkainen's Tome of Foes p. 122*
 
 The ancient war machines known as cadaver collectors lumber aimlessly across the blasted plains of Acheron until they are called upon by a necromancer to bolster the ranks of a conquering army on the Material Plane. These fearsome Constructs obey their summoners until they are dismissed back to Acheron, but if a summoner comes to a bad end, a cadaver collector might wander the Material Plane for centuries, collecting corpses while searching for a way to return home.
@@ -26,6 +26,7 @@ Corpses that accumulate on a cadaver collector's shell aren't just grisly battle
 "type": "construct"
 "alignment": "Typically  Lawful Evil"
 "ac": !!int "17"
+"ac_class": "natural armor"
 "hp": !!int "189"
 "hit_dice": "18d10 + 90"
 "stats":
@@ -53,8 +54,8 @@ Corpses that accumulate on a cadaver collector's shell aren't just grisly battle
 "actions":
 - "desc": "The collector makes two Slam attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 3d8 + 5|avg (3d8 + 5) bludgeoning damage plus dice: 3d10|avg\
+- "desc": "Melee Weapon Attack: dice: d20+10 (+10) to hit, reach 5 ft., one\
+    \ target. Hit: dice:3d8 + 5|text(18) (3d8 + 5) bludgeoning damage plus dice:3d10|text(16)\
     \ (3d10) necrotic damage."
   "name": "Slam"
 - "desc": "The collector releases paralyzing gas in a 30-foot cone. Each creature\
@@ -65,7 +66,7 @@ Corpses that accumulate on a cadaver collector's shell aren't just grisly battle
   "name": "Paralyzing Breath (Recharge 5-6)"
 "bonus_actions":
 - "desc": "The collector calls up the enslaved spirits of those it has slain; dice:\
-    \ 1d4|avg (1d4) [[5. Mechanics/Bestiary/Undead/Specter.md|specters]] (without\
+    \ 1d4|avg|noform (1d4) [[5. Mechanics/Bestiary/Undead/Specter.md|specters]] (without\
     \ Sunlight Sensitivity) arise in unoccupied spaces within 15 feet of it. The specters\
     \ act right after the collector on the same initiative count and fight until they're\
     \ destroyed. They disappear when the collector is destroyed."

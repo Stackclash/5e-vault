@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Leviathan
 ---
-# [[5. Mechanics\Bestiary\Elemental\Leviathan.md|Leviathan]]
+# [[5. Mechanics/Bestiary/Elemental/Leviathan.md|Leviathan]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 171, Mordenkainen's Tome of Foes p. 198*
 
 A leviathan is an immense creature that acts as a force of nature, dragging ships down to the ocean's depths and washing away coastal settlements. When called forth, a leviathan arises from a large body of water and takes on the form of a gigantic serpent.
@@ -63,18 +63,18 @@ Usually found only on the Elemental Plane of Water, a leviathan sometimes swims 
 "actions":
 - "desc": "The leviathan makes one Slam attack and one Tail attack."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+14 (+14 to hit), reach 20 ft., one target.\
-    \ Hit: dice: 2d12 + 8|avg (2d12 + 8) bludgeoning damage plus dice: 2d12|avg\
-    \ (2d12) acid damage."
+- "desc": "Melee Weapon Attack: dice: d20+14 (+14) to hit, reach 20 ft., one\
+    \ target. Hit: dice:2d12 + 8|text(21) (2d12 + 8) bludgeoning damage plus\
+    \ dice:2d12|text(13) (2d12) acid damage."
   "name": "Slam"
-- "desc": "Melee Weapon Attack: dice: d20+14 (+14 to hit), reach 20 ft., one target.\
-    \ Hit: dice: 2d10 + 8|avg (2d10 + 8) bludgeoning damage plus dice: 3d6|avg\
-    \ (3d6) acid damage."
+- "desc": "Melee Weapon Attack: dice: d20+14 (+14) to hit, reach 20 ft., one\
+    \ target. Hit: dice:2d10 + 8|text(19) (2d10 + 8) bludgeoning damage plus\
+    \ dice:3d6|text(10) (3d6) acid damage."
   "name": "Tail"
 - "desc": "The leviathan magically creates a wave of water that extends from a point\
     \ it can see within 120 feet of itself. The wave is up to 250 feet long, up to\
     \ 250 feet tall, and up to 50 feet wide. Each creature in the wave must make a\
-    \ DC 24 Strength saving throw. On a failed save, a creature takes dice: 7d12|avg\
+    \ DC 24 Strength saving throw. On a failed save, a creature takes dice:7d12|text(45)\
     \ (7d12) bludgeoning damage and is knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
     \ On a successful save, a creature takes half as much damage and isn't knocked\
     \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]]. The water spreads out across\

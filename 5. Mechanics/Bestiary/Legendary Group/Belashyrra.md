@@ -27,4 +27,4 @@ Belashyrra's lair is known to touch remote areas of the Shadow Marches and caver
 - Beasts that live within 5 miles of the passage undergo magical transmutation, growing eyes or eyestalks that Belashyrra can see through.  
 - A humanoid who spends at least 1 hour within 1 mile of the passage must succeed on a DC 21 Wisdom saving throw or descend into a type of madness (see "Madness of Belashyrra" below). A creature that succeeds on this saving throw can't be affected by this regional effect again for 24 hours.  
 
-If Belashyrra dies, these effects fade over the course of `dice: 1d10|avg` (`1d10`) days.
+If Belashyrra dies, these effects fade over the course of `dice: 1d10|avg|noform` (`1d10`) days.

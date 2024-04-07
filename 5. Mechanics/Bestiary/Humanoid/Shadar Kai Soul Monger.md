@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Shadar-kai Soul Monger
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Shadar Kai Soul Monger.md|Shadar-kai Soul Monger]]
+# [[5. Mechanics/Bestiary/Humanoid/Shadar Kai Soul Monger.md|Shadar-kai Soul Monger]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 214, Mordenkainen's Tome of Foes p. 226*
 
 Wracked with despair over the loss of memories of a brighter time, soul mongers crave the vitality of others. The aching void within a soul monger radiates outward, manifesting as an unbearable weight that drains the vigor of anyone unfortunate enough to be in their presence. Those who have escaped the onslaught of a soul monger can hardly shake the memory of the sound they make—the moan of a tortured soul, lost in a bottomless well of tragedy.
@@ -40,6 +40,7 @@ Shadar-kai encountered outside the Shadowfell are often on quests to find the mo
 "subtype": "elf"
 "alignment": "Typically  Neutral Evil"
 "ac": !!int "15"
+"ac_class": "[[5. Mechanics/Items/Studded Leather Armor.md|studded leather]]"
 "hp": !!int "136"
 "hit_dice": "21d8 + 42"
 "stats":
@@ -86,16 +87,16 @@ Shadar-kai encountered outside the Shadowfell are often on quests to find the mo
 "actions":
 - "desc": "The shadar-kai makes two Shadow Dagger attacks."
   "name": "Multiattack"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 4d4 + 3|avg (4d4 + 3) piercing\
-    \ damage plus dice: 3d12|avg (3d12) necrotic damage, and the target has disadvantage\
-    \ on saving throws until the end of the shadar-kai's next turn. Hit or Miss: The\
-    \ dagger magically returns to the shadar-kai's hand immediately after a ranged\
-    \ attack."
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: dice:4d4 + 3|text(13) (4d4 + 3) piercing\
+    \ damage plus dice:3d12|text(19) (3d12) necrotic damage, and the target has\
+    \ disadvantage on saving throws until the end of the shadar-kai's next turn. Hit\
+    \ or Miss: The dagger magically returns to the shadar-kai's hand immediately after\
+    \ a ranged attack."
   "name": "Shadow Dagger"
 - "desc": "The shadar-kai emits weariness in a 60-foot cube. Each creature in that\
     \ area must make a DC 16 Constitution saving throw. On a failed save, a creature\
-    \ takes dice: 10d8|avg (10d8) psychic damage and suffers 1 level of [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]].\
+    \ takes dice:10d8|text(45) (10d8) psychic damage and suffers 1 level of [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]].\
     \ On a successful save, it takes half as much damage and doesn't gain a level\
     \ of [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]]."
   "name": "Wave of Weariness (Recharge 4-6)"

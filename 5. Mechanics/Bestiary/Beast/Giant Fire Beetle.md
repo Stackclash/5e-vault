@@ -11,10 +11,10 @@ statblock: inline
 aliases:
   - Giant Fire Beetle
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Fire Beetle.md|Giant Fire Beetle]]
+# [[5. Mechanics/Bestiary/Beast/Giant Fire Beetle.md|Giant Fire Beetle]]
 *Source: Monster Manual p. 325. Available in the SRD and the Basic Rules.*
 
-A giant fire beetle is a nocturnal creature that takes its name from a pair of glowing glands that give off light. Miners and adventurers prize these creatures, for a giant fire beetle's glands continue to shed light for `dice: 1d6|avg` (`1d6`) days after the beetle dies. Giant fire beetles are most commonly found underground and in dark forests.
+A giant fire beetle is a nocturnal creature that takes its name from a pair of glowing glands that give off light. Miners and adventurers prize these creatures, for a giant fire beetle's glands continue to shed light for `dice: 1d6|avg|noform` (`1d6`) days after the beetle dies. Giant fire beetles are most commonly found underground and in dark forests.
 
 ```statblock
 "name": "Giant Fire Beetle"
@@ -22,6 +22,7 @@ A giant fire beetle is a nocturnal creature that takes its name from a pair of g
 "type": "beast"
 "alignment": "Unaligned"
 "ac": !!int "13"
+"ac_class": "natural armor"
 "hp": !!int "4"
 "hit_dice": "1d6 + 1"
 "stats":
@@ -40,8 +41,8 @@ A giant fire beetle is a nocturnal creature that takes its name from a pair of g
     \ additional 10 ft.."
   "name": "Illumination"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+1 (+1 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 - 1|avg (1d6 - 1) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+1 (+1) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 - 1|text(2) (1d6 - 1) slashing damage."
   "name": "Bite"
 "source":
 - "MM"

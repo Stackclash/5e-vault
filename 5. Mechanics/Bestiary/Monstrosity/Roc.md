@@ -15,7 +15,7 @@ statblock: inline
 aliases:
   - Roc
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Roc.md|Roc]]
+# [[5. Mechanics/Bestiary/Monstrosity/Roc.md|Roc]]
 *Source: Monster Manual p. 260, Curse of Strahd. Available in the SRD.*
 
 At first sight, a roc's silhouette looks much like any other bird of prey. As it descends, however, its unearthly size becomes terrifyingly clear. In flight, a roc's wingspan spreads two hundred feet or more. At rest, perched upon the mountain peaks that are its home, this monstrous bird rivals the oldest dragons in size.
@@ -40,6 +40,7 @@ Sometimes a roc's nest contains treasures from the caravans or ships they raid, 
 "type": "monstrosity"
 "alignment": "Unaligned"
 "ac": !!int "15"
+"ac_class": "natural armor"
 "hp": !!int "248"
 "hit_dice": "16d20 + 80"
 "stats":
@@ -67,12 +68,13 @@ Sometimes a roc's nest contains treasures from the caravans or ships they raid, 
 "actions":
 - "desc": "The roc makes two attacks: one with its beak and one with its talons."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 4d8 + 9|avg (4d8 + 9) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+13 (+13) to hit, reach 10 ft., one\
+    \ target. Hit: dice:4d8 + 9|text(27) (4d8 + 9) piercing damage."
   "name": "Beak"
-- "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 4d6 + 9|avg (4d6 + 9) slashing damage, and the target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ (escape DC 19). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+- "desc": "Melee Weapon Attack: dice: d20+13 (+13) to hit, reach 5 ft., one\
+    \ target. Hit: dice:4d6 + 9|text(23) (4d6 + 9) slashing damage, and the\
+    \ target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 19).\
+    \ Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
     \ and the roc can't use its talons on another target."
   "name": "Talons"
 "source":

@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/vgm
-- monster/cr/6
-- monster/size/medium
-- monster/type/humanoid/any-race
+  - compendium/src/5e/vgm
+  - monster/cr/6
+  - monster/size/medium
+  - monster/type/humanoid/any-race
 statblock: inline
-aliases: ["Booyahg Slave of the Great Old One"]
+aliases:
+  - Booyahg Slave of the Great Old One
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Booyahg Slave Of The Great Old One.md|Booyahg Slave of the Great Old One]]
+# [[5. Mechanics/Bestiary/Humanoid/Booyahg Slave Of The Great Old One.md|Booyahg Slave of the Great Old One]]
 *Source: Volo's Guide to Monsters p. 42*
 
 This goblin warlock serves a patron who can extract payment in flesh if the goblin doesn't do as promised. Often this patron is a coven of hags serving as the tribe's boss, a fiend that has made its way into the world, or an undying lord such as a lich or a vampire. (For more information on undying lord patrons, see the "Sword Coast Adventurer's Guide").
@@ -29,6 +30,7 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "12"
+"ac_class": "15 with [[5. Mechanics/Spells/Mage Armor.md|mage armor]]"
 "hp": !!int "91"
 "hit_dice": "14d8 + 28"
 "stats":
@@ -58,7 +60,7 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
     \ each: [[5. Mechanics/Spells/Arcane Gate.md|arcane gate]], [[5. Mechanics/Spells/True Seeing.md|true seeing]]"
   "name": "innate"
 - "desc": "The goblin is a 14th-level spellcaster. Its spellcasting ability is Charisma\
-    \ (spell save DC 15, dice: d20+7 (+7 to hit) with spell attacks). It regains\
+    \ (spell save DC 15, dice: d20+7 (+7) to hit with spell attacks). It regains\
     \ its expended spell slots when it finishes a short or long rest. It knows the\
     \ following warlock spells:\n\nCantrips (at will): [[5. Mechanics/Spells/Chill Touch.md|chill touch]],\
     \ [[5. Mechanics/Spells/Eldritch Blast.md|eldritch blast]], [[5. Mechanics/Spells/Guidance.md|guidance]],\
@@ -72,12 +74,12 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
     \ [[5. Mechanics/Spells/Telekinesis.md|telekinesis]], [[5. Mechanics/Spells/Vampiric Touch.md|vampiric touch]]"
   "name": "spells"
 - "desc": "At the start of each of the goblin's turns, each creature of its choice\
-    \ within 5 feet of it must succeed on a DC 15 Wisdom saving throw or take dice:\
-    \ 3d6|avg (3d6) psychic damage, provided that the goblin isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ within 5 feet of it must succeed on a DC 15 Wisdom saving throw or take dice:3d6|text(10)\
+    \ (3d6) psychic damage, provided that the goblin isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
   "name": "Whispering Aura"
 "actions":
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing\
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: dice:1d4 + 2|text(4) (1d4 + 2) piercing\
     \ damage."
   "name": "Dagger"
 "source":

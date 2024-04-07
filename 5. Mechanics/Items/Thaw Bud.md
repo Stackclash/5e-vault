@@ -22,6 +22,6 @@ In their flower stage, these buds have large purple, star-shaped petals and are 
 
 ## Effect:
 
-This herb contains `dice: 1d6|avg` (`1d6`) charges, corresponding to the number of buds picked. As an action, you may use a charge to crush one of these buds and rub the resulting secretion on a patch of ice or snow, causing it to melt. One charge can melt a patch with an area that is up to 5-foot square and 1 inch thick.
+This herb contains `dice: 1d6|avg|noform` (`1d6`) charges, corresponding to the number of buds picked. As an action, you may use a charge to crush one of these buds and rub the resulting secretion on a patch of ice or snow, causing it to melt. One charge can melt a patch with an area that is up to 5-foot square and 1 inch thick.
 
 *Source: Hamund's Herbalism Handbook p. 35*

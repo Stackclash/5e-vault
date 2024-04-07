@@ -43,7 +43,7 @@ You can speak, read, and write Common and Halfling. The Halfling language isn't 
 
 ### Ever Hospitable
 
-When you make a Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]) check or an ability check involving [[5. Mechanics/Items/Brewers Supplies.md\|brewer's supplies]] or [[5. Mechanics/Items/Cooks Utensils.md\|cook's utensils]], you can roll a `dice: d4|avg` (`d4`) and add the number rolled to the ability check.
+When you make a Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]) check or an ability check involving [[5. Mechanics/Items/Brewers Supplies.md\|brewer's supplies]] or [[5. Mechanics/Items/Cooks Utensils.md\|cook's utensils]], you can roll a `dice: d4|avg|noform` (`d4`) and add the number rolled to the ability check.
 
 ### Innkeeper's Magic
 

@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Adult Kruthik
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Adult Kruthik.md|Adult Kruthik]]
+# [[5. Mechanics/Bestiary/Monstrosity/Adult Kruthik.md|Adult Kruthik]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 169, Mordenkainen's Tome of Foes p. 212*
 
 It takes six months of steady eating for a [[5. Mechanics/Bestiary/Monstrosity/Young Kruthik.md|young kruthik]] to reach adult size. The natural life span of an adult kruthik is roughly seven years.
@@ -46,6 +46,7 @@ Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and th
 "type": "monstrosity"
 "alignment": "Unaligned"
 "ac": !!int "18"
+"ac_class": "natural armor"
 "hp": !!int "39"
 "hit_dice": "6d8 + 12"
 "stats":
@@ -72,11 +73,11 @@ Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and th
 "actions":
 - "desc": "The kruthik makes two Stab or Spike attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 3|text(6) (1d6 + 3) piercing damage."
   "name": "Stab"
-- "desc": "Ranged Weapon Attack: dice: d20+5 (+5 to hit), range 20/60 ft., one\
-    \ target. Hit: dice: 1d4 + 3|avg (1d4 + 3) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+5 (+5) to hit, range 20/60 ft., one\
+    \ target. Hit: dice:1d4 + 3|text(5) (1d4 + 3) piercing damage."
   "name": "Spike"
 "source":
 - "MPMM"

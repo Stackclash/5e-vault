@@ -13,4 +13,4 @@ A character might drink one potion while still under the effects of another, or 
 
 When a character mixes two potions together, you can roll on the Potion Miscibility table. If more than two are combined, roll again for each subsequent potion, combining the results. Unless the effects are immediately obvious, reveal them only when they become evident.
 
-![Variant: Mixing Potions; Potion Miscibility](compendium/tables/variant-mixing-potions-potion-miscibility.md)
+![[5. Mechanics/Tables/Variant Mixing Potions Potion Miscibility.md\|Variant: Mixing Potions; Potion Miscibility]]

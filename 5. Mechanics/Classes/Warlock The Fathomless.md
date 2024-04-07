@@ -46,7 +46,7 @@ The Fathomless lets you choose from an expanded list of spells when you learn a 
 
 You can magically summon a spectral tentacle that strikes at your foes. As a bonus action, you create a 10-foot-long tentacle at a point you can see within 60 feet of you. The tentacle lasts for 1 minute or until you use this feature to create another tentacle.
 
-When you create the tentacle, you can make a melee spell attack against one creature within 10 feet of it. On a hit, the target takes `dice: 1d8|avg` (`1d8`) cold damage, and its speed is reduced by 10 feet until the start of your next turn. When you reach 10th level in this class, the damage increases to `dice: 2d8|avg` (`2d8`).
+When you create the tentacle, you can make a melee spell attack against one creature within 10 feet of it. On a hit, the target takes `dice: 1d8|avg|noform` (`1d8`) cold damage, and its speed is reduced by 10 feet until the start of your next turn. When you reach 10th level in this class, the damage increases to `dice: 2d8|avg|noform` (`2d8`).
 
 As a bonus action on your turn, you can move the tentacle up to 30 feet and repeat the attack.
 
@@ -68,7 +68,7 @@ You are now even more at home in the depths. You gain resistance to cold damage.
 
 *6th-level Fathomless feature*
 
-Your Tentacle of the Deeps can defend you and others, interposing itself between them and harm. When you or a creature you can see takes damage while within 10 feet of the tentacle, you can use your reaction to choose one of those creatures and reduce the damage to that creature by `dice: 1d8|avg` (`1d8`). When you reach 10th level in this class, the damage reduced by the tentacle increases to `dice: 2d8|avg` (`2d8`).
+Your Tentacle of the Deeps can defend you and others, interposing itself between them and harm. When you or a creature you can see takes damage while within 10 feet of the tentacle, you can use your reaction to choose one of those creatures and reduce the damage to that creature by `dice: 1d8|avg|noform` (`1d8`). When you reach 10th level in this class, the damage reduced by the tentacle increases to `dice: 2d8|avg|noform` (`2d8`).
 
 ### Grasping Tentacles (Level 10)
 

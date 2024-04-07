@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Warforged Soldier
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Warforged Soldier.md|Warforged Soldier]]
+# [[5. Mechanics/Bestiary/Humanoid/Warforged Soldier.md|Warforged Soldier]]
 *Source: Eberron: Rising from the Last War p. 320*
 
 Warforged soldiers are humanoids formed from wood and steel, then magically imbued with life and sentience. The warforged were created to fight in the Last War, and in the aftermath of that conflict, they struggle to understand their place in the world.
@@ -24,6 +24,7 @@ Most warforged soldiers still serve their former masters, often guarding dragonm
 "subtype": "warforged"
 "alignment": "Any alignment"
 "ac": !!int "16"
+"ac_class": "natural armor, [[5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "30"
 "hit_dice": "4d8 + 12"
 "stats":
@@ -49,11 +50,11 @@ Most warforged soldiers still serve their former masters, often guarding dragonm
 "actions":
 - "desc": "The warforged makes two armblade attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 3|text(6) (1d6 + 3) slashing damage."
   "name": "Armblade"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft.\
-    \ or range 30/120 ft., one target. Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing\
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft.\
+    \ or range 30/120 ft., one target. Hit: dice:1d6 + 3|text(6) (1d6 + 3) piercing\
     \ damage."
   "name": "Javelin"
 "reactions":

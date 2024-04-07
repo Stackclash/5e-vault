@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Rat
 ---
-# [[5. Mechanics\Bestiary\Beast\Rat.md|Rat]]
+# [[5. Mechanics/Bestiary/Beast/Rat.md|Rat]]
 *Source: Monster Manual p. 335. Available in the SRD and the Basic Rules.*
 
 ```statblock
@@ -39,7 +39,7 @@ aliases:
     \ checks that rely on smell."
   "name": "Keen Smell"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+0 (+0 to hit), reach 5 ft., one target.\
+- "desc": "Melee Weapon Attack: dice: d20+0 (+0) to hit, reach 5 ft., one target.\
     \ Hit: 1 piercing damage."
   "name": "Bite"
 "source":

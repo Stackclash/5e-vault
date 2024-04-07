@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Brown Bear
 ---
-# [[5. Mechanics\Bestiary\Beast\Brown Bear.md|Brown Bear]]
+# [[5. Mechanics/Bestiary/Beast/Brown Bear.md|Brown Bear]]
 *Source: Monster Manual p. 319. Available in the SRD and the Basic Rules.*
 
 ```statblock
@@ -22,6 +22,7 @@ aliases:
 "type": "beast"
 "alignment": "Unaligned"
 "ac": !!int "11"
+"ac_class": "natural armor"
 "hp": !!int "34"
 "hit_dice": "4d10 + 12"
 "stats":
@@ -44,11 +45,11 @@ aliases:
 "actions":
 - "desc": "The bear makes two attacks: one with its bite and one with its claws."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 4|text(8) (1d8 + 4) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) slashing damage."
   "name": "Claws"
 "source":
 - "MM"

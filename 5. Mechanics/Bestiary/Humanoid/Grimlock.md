@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Grimlock
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Grimlock.md|Grimlock]]
+# [[5. Mechanics/Bestiary/Humanoid/Grimlock.md|Grimlock]]
 *Source: Monster Manual p. 175. Available in the SRD.*
 
 The degenerate subterranean grimlocks were once human, but their worship of the mind flayers over generations of prowling the Underdark transformed them into blind, monstrous cannibals long ago.
@@ -71,8 +71,8 @@ Grimlocks still venerate the mind flayers, serving them whenever possible. Griml
     \ checks made to hide in rocky terrain."
   "name": "Stone Camouflage"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) bludgeoning damage plus dice: 1d4|avg\
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d4 + 3|text(5) (1d4 + 3) bludgeoning damage plus dice:1d4|text(2)\
     \ (1d4) piercing damage."
   "name": "Spiked Bone Club"
 "source":

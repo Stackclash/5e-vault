@@ -2,19 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/vgm
-- monster/cr/4
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/size/medium
-- monster/type/humanoid/orc
+  - compendium/src/5e/vgm
+  - monster/cr/4
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/environment/underdark
+  - monster/size/medium
+  - monster/type/humanoid/orc
 statblock: inline
-aliases: ["Orc Blade of Ilneval"]
+aliases:
+  - Orc Blade of Ilneval
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Orc Blade Of Ilneval.md|Orc Blade of Ilneval]]
+# [[5. Mechanics/Bestiary/Humanoid/Orc Blade Of Ilneval.md|Orc Blade of Ilneval]]
 *Source: Volo's Guide to Monsters p. 183*
 
 To the common folk of the world, an orc is an orc. They know that any one of these savages can tear an ordinary person to pieces, so no further distinction is necessary.
@@ -36,6 +37,7 @@ The wisest among these leaders gain Ilneval's favor and rise to become known as 
 "subtype": "orc"
 "alignment": "Chaotic Evil"
 "ac": !!int "18"
+"ac_class": "[[5. Mechanics/Items/Chain Mail.md|chain mail]], [[5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "60"
 "hit_dice": "8d8 + 24"
 "stats":
@@ -67,12 +69,12 @@ The wisest among these leaders gain Ilneval's favor and rise to become known as 
     \ with its javelins. If Ilneval's Command is available to use, the orc can use\
     \ it after these attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 3|avg (2d8 + 3) slashing damage, or dice: 2d10 + 3|avg\
-    \ (2d10 + 3) slashing damage when used with two hands."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d8 + 3|text(12) (2d8 + 3) slashing damage, or dice:2d10 +\
+    \ 3|text(14) (2d10 + 3) slashing damage when used with two hands."
   "name": "Longsword"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft.\
-    \ or range 30/120 ft., one target. Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing\
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft.\
+    \ or range 30/120 ft., one target. Hit: dice:1d6 + 3|text(6) (1d6 + 3) piercing\
     \ damage."
   "name": "Javelin"
 - "desc": "Up to three allied orcs within 120 feet of this orc that can hear it can\

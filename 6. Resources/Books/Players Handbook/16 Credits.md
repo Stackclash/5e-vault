@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Credits"]
+  - compendium/src/5e/phb
+aliases:
+  - Credits
 ---
 # Credits
 *Source: Player's Handbook* 

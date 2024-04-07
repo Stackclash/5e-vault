@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Swarm of Quippers
 ---
-# [[5. Mechanics\Bestiary\Beast\Swarm Of Quippers.md|Swarm of Quippers]]
+# [[5. Mechanics/Bestiary/Beast/Swarm Of Quippers.md|Swarm of Quippers]]
 *Source: Monster Manual p. 338. Available in the SRD and the Basic Rules.*
 
 > [!note] The Nature of Swarms
@@ -54,10 +54,10 @@ aliases:
 - "desc": "The swarm can breathe only underwater."
   "name": "Water Breathing"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 0 ft., one creature\
-    \ in the swarm's space. Hit: dice: 4d6|avg (4d6) piercing damage, or dice:\
-    \ 2d6|avg (2d6) piercing damage if the swarm has half of its hit points or\
-    \ fewer."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 0 ft., one creature\
+    \ in the swarm's space. Hit: dice:4d6|text(14) (4d6) piercing damage, or\
+    \ dice:2d6|text(7) (2d6) piercing damage if the swarm has half of its hit\
+    \ points or fewer."
   "name": "Bites"
 "source":
 - "MM"

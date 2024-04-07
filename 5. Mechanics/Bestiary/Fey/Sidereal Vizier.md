@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Sidereal Vizier
 ---
-# [[5. Mechanics\Bestiary\Fey\Sidereal Vizier.md|Sidereal Vizier]]
+# [[5. Mechanics/Bestiary/Fey/Sidereal Vizier.md|Sidereal Vizier]]
 *Source: Strongholds and Followers p. 184*
 
 Val's magus, the Vizier is the most powerful mage in Arcadia. When a concordant petitions the Court for an ally, the Vizier reviews their case and chooses who among the Arcadians to send. Thus, when the Sidereal Vizier arrives on the battlefield, it is because he chose to come, deeming the situation dire enough, or the concordant pious enough, to attend to the matter personally.
@@ -33,6 +33,7 @@ If a spell can solve the problem, the Vizier knows it and has it prepared. The l
 "type": "fey"
 "alignment": "Chaotic"
 "ac": !!int "17"
+"ac_class": "natural armor; 19 with [[5. Mechanics/Spells/Mage Armor.md|mage armor]]"
 "hp": !!int "152"
 "hit_dice": "18d10 + 53"
 "stats":
@@ -64,7 +65,7 @@ If a spell can solve the problem, the Vizier knows it and has it prepared. The l
     \ person](compendium/spells/dominate-person.md)\n\n1/day: [[5. Mechanics/Spells/Power Word Stun.md|power word stun]]"
   "name": "innate"
 - "desc": "The Vizier is a 15th-level spellcaster. His spellcasting ability is Intelligence\
-    \ (spell save DC 17, dice: d20+9 (+9 to hit) with spell attacks). The Vizier\
+    \ (spell save DC 17, dice: d20+9 (+9) to hit with spell attacks). The Vizier\
     \ has the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]],\
     \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]],\
     \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n1st level (4\
@@ -92,8 +93,8 @@ If a spell can solve the problem, the Vizier knows it and has it prepared. The l
     \ or elf."
   "name": "Command Fey"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 3|text(7) (1d8 + 3) piercing damage."
   "name": "Longsword"
 "source":
 - "SaF"

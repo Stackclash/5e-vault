@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Hill Giant
 ---
-# [[5. Mechanics\Bestiary\Giant\Hill Giant.md|Hill Giant]]
+# [[5. Mechanics/Bestiary/Giant/Hill Giant.md|Hill Giant]]
 *Source: Monster Manual p. 155, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*
 
 Hill giants are selfish, dimwitted brutes that hunt, forage, and raid in constant search of food. They blunder through hills and forests devouring what they can, bullying smaller creatures into feeding them. Their laziness and dullness would long ago have spelled their end if not for their formidable size and strength.
@@ -90,6 +90,7 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 "type": "giant"
 "alignment": "Chaotic Evil"
 "ac": !!int "13"
+"ac_class": "natural armor"
 "hp": !!int "105"
 "hit_dice": "10d12 + 40"
 "stats":
@@ -108,11 +109,11 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 "actions":
 - "desc": "The giant makes two greatclub attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 3d8 + 5|avg (3d8 + 5) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 10 ft., one target.\
+    \ Hit: dice:3d8 + 5|text(18) (3d8 + 5) bludgeoning damage."
   "name": "Greatclub"
-- "desc": "Ranged Weapon Attack: dice: d20+8 (+8 to hit), range 60/240 ft., one\
-    \ target. Hit: dice: 3d10 + 5|avg (3d10 + 5) bludgeoning damage."
+- "desc": "Ranged Weapon Attack: dice: d20+8 (+8) to hit, range 60/240 ft.,\
+    \ one target. Hit: dice:3d10 + 5|text(21) (3d10 + 5) bludgeoning damage."
   "name": "Rock"
 "source":
 - "MM"

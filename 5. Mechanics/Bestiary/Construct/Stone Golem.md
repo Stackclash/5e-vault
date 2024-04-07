@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Stone Golem
 ---
-# [[5. Mechanics\Bestiary\Construct\Stone Golem.md|Stone Golem]]
+# [[5. Mechanics/Bestiary/Construct/Stone Golem.md|Stone Golem]]
 *Source: Monster Manual p. 170, Curse of Strahd. Available in the SRD and the Basic Rules.*
 
 Stone golems display great variety in shape and form, cut and chiseled from stone to appear as tall, impressive statues. Though most bear humanoid features, stone golems can be carved in any form the sculptor can imagine. Ancient stone golems found in sealed tombs or flanking the gates of lost cities sometimes take the forms of giant beasts.
@@ -51,6 +51,7 @@ A golem doesn't require air, food, drink, or sleep.
 "type": "construct"
 "alignment": "Unaligned"
 "ac": !!int "17"
+"ac_class": "natural armor"
 "hp": !!int "178"
 "hit_dice": "17d10 + 85"
 "stats":
@@ -80,8 +81,8 @@ A golem doesn't require air, food, drink, or sleep.
 "actions":
 - "desc": "The golem makes two slam attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 3d8 + 6|avg (3d8 + 6) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+10 (+10) to hit, reach 5 ft., one\
+    \ target. Hit: dice:3d8 + 6|text(19) (3d8 + 6) bludgeoning damage."
   "name": "Slam"
 - "desc": "The golem targets one or more creatures it can see within 10 feet of it.\
     \ Each target must make a DC 17 Wisdom saving throw against this magic. On a failed\

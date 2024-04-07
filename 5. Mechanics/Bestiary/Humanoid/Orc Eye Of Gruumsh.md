@@ -17,7 +17,7 @@ statblock: inline
 aliases:
   - Orc Eye of Gruumsh
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Orc Eye Of Gruumsh.md|Orc Eye of Gruumsh]]
+# [[5. Mechanics/Bestiary/Humanoid/Orc Eye Of Gruumsh.md|Orc Eye of Gruumsh]]
 *Source: Monster Manual p. 247*
 
 Orcs are savage raiders and pillagers with stooped postures, low foreheads, and piggish faces with prominent lower canines that resemble tusks.
@@ -63,6 +63,7 @@ If the orc plucks out one of its eyes, Gruumsh might grant the orc spellcasting 
 "subtype": "orc"
 "alignment": "Chaotic Evil"
 "ac": !!int "16"
+"ac_class": "[[5. Mechanics/Items/Ring Mail.md|ring mail]], [[5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "45"
 "hit_dice": "6d8 + 18"
 "stats":
@@ -81,8 +82,8 @@ If the orc plucks out one of its eyes, Gruumsh might grant the orc spellcasting 
 "cr": "2"
 "traits":
 - "desc": "The orc is a 3rd-level spellcaster. Its spellcasting ability is Wisdom\
-    \ (spell save DC 11, dice: d20+3 (+3 to hit) with spell attacks). The orc has\
-    \ the following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Guidance.md|guidance]],\
+    \ (spell save DC 11, dice: d20+3 (+3) to hit with spell attacks). The orc\
+    \ has the following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Guidance.md|guidance]],\
     \ [[5. Mechanics/Spells/Resistance.md|resistance]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
     \n1st level (4 slots): [[5. Mechanics/Spells/Bless.md|bless]], [[5. Mechanics/Spells/Command.md|command]]\n\
     \n2nd level (2 slots): [[5. Mechanics/Spells/Augury.md|augury]], [[5. Mechanics/Spells/Spiritual Weapon.md|spiritual weapon]]\
@@ -91,14 +92,14 @@ If the orc plucks out one of its eyes, Gruumsh might grant the orc spellcasting 
 - "desc": "As a bonus action, the orc can move up to its speed toward a hostile creature\
     \ that it can see."
   "name": "Aggressive"
-- "desc": "The orc deals an extra dice: 1d8|avg (1d8) damage when it hits with\
+- "desc": "The orc deals an extra dice:1d8|text(4) (1d8) damage when it hits with\
     \ a weapon attack (included in the attacks)."
   "name": "Gruumsh's Fury"
 "actions":
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: 11 (dice: 1d6 + 3|avg (1d6 + 3) plus\
-    \ dice: 1d8|avg (1d8)) piercing damage, or dice: 2d8 + 3|avg (2d8 + 3)\
-    \ piercing damage if used with two hands to make a melee attack."
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: 11 (dice: 1d6 + 3|avg|noform (1d6\
+    \ + 3) plus dice: 1d8|avg|noform (1d8)) piercing damage, or dice:2d8 + 3|text(12)\
+    \ (2d8 + 3) piercing damage if used with two hands to make a melee attack."
   "name": "Spear"
 "source":
 - "MM"

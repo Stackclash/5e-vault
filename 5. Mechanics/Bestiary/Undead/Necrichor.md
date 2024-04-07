@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Necrichor
 ---
-# [[5. Mechanics\Bestiary\Undead\Necrichor.md|Necrichor]]
+# [[5. Mechanics/Bestiary/Undead/Necrichor.md|Necrichor]]
 *Source: Van Richten's Guide to Ravenloft p. 238*
 
 A necrichor is a being of living blood, formed from the ichor of evil gods or the sludge in the crypts of failed liches. Despite the loss of a solid physical form, these foul creatures retain their terrible intellects and aspire to megalomaniacal goals—the first of which involves regaining a body. To do this, they seek servants to exact their will, coercing even the most stubborn potential minions by turning their own blood against them.
@@ -53,7 +53,7 @@ Necrichors prove exceptionally difficult to destroy, since they leave a trace of
   "name": "Legendary Resistance (2/Day)"
 - "desc": "Unless its lifeless remains are splashed with holy water or placed in a\
     \ vessel under the effects of the [[5. Mechanics/Spells/Hallow.md|hallow]] spell,\
-    \ the destroyed necrichor re-forms in dice: 1d10|avg (1d10) days, regaining\
+    \ the destroyed necrichor re-forms in dice: 1d10|avg|noform (1d10) days, regaining\
     \ all its hits points and appearing in the place it died or in the nearest unoccupied\
     \ space."
   "name": "Rejuvenation"
@@ -65,14 +65,14 @@ Necrichors prove exceptionally difficult to destroy, since they leave a trace of
 "actions":
 - "desc": "The necrichor makes two attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) necrotic damage, and the target must\
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 10 ft., one target.\
+    \ Hit: dice:1d6 + 2|text(5) (1d6 + 2) necrotic damage, and the target must\
     \ succeed on a DC 14 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
     \ until the start of the necrichor's next turn."
   "name": "Pseudopod"
-- "desc": "Ranged Spell Attack: dice: d20+6 (+6 to hit), range 120 ft., one creature.\
-    \ Hit: dice: 2d8 + 3|avg (2d8 + 3) necrotic damage, and the target can't\
-    \ regain hit points until the start of the necrichor's next turn."
+- "desc": "Ranged Spell Attack: dice: d20+6 (+6) to hit, range 120 ft., one\
+    \ creature. Hit: dice:2d8 + 3|text(12) (2d8 + 3) necrotic damage, and the\
+    \ target can't regain hit points until the start of the necrichor's next turn."
   "name": "Necrotic Bolt"
 - "desc": "The necrichor targets a creature it can see within 5 feet of it that is\
     \ missing any of its hit points. If the target isn't a Construct or an Undead,\

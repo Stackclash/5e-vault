@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Warforged Titan
 ---
-# [[5. Mechanics\Bestiary\Construct\Warforged Titan.md|Warforged Titan]]
+# [[5. Mechanics/Bestiary/Construct/Warforged Titan.md|Warforged Titan]]
 *Source: Eberron: Rising from the Last War p. 315*
 
 Warforged titans are hulking constructs built to wreak paths of destruction through enemy armies. Some of the most feared combatants of the Last War, warforged titans are barely sentient, with just enough intelligence to follow commands.
@@ -25,6 +25,7 @@ In the Age of Giants, giant artificers built mindless war golems to aid them in 
 "type": "construct"
 "alignment": "Lawful Neutral"
 "ac": !!int "20"
+"ac_class": "natural armor"
 "hp": !!int "125"
 "hit_dice": "10d12 + 60"
 "stats":
@@ -53,18 +54,19 @@ In the Age of Giants, giant artificers built mindless war golems to aid them in 
 "actions":
 - "desc": "The warforged titan makes one axehand attack and one hammerfist attack."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 3d8 + 6|avg (3d8 + 6) slashing damage, plus dice: 2d10|avg\
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 10 ft., one target.\
+    \ Hit: dice:3d8 + 6|text(19) (3d8 + 6) slashing damage, plus dice:2d10|text(11)\
     \ (2d10) slashing damage if the target is [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Axehand"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 3d8 + 6|avg (3d8 + 6) bludgeoning damage. If the target is\
-    \ a creature, it must succeed on a DC 17 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 10 ft., one target.\
+    \ Hit: dice:3d8 + 6|text(19) (3d8 + 6) bludgeoning damage. If the target\
+    \ is a creature, it must succeed on a DC 17 Strength saving throw or be knocked\
+    \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Hammerfist"
 - "desc": "The warforged titan makes a sweep with its axehand, and each creature within\
-    \ 10 feet of it must make a DC 17 Dexterity saving throw. A creature takes dice:\
-    \ 3d8 + 6|avg (3d8 + 6) slashing damage on a failed save, or half as much damage\
-    \ on a successful one."
+    \ 10 feet of it must make a DC 17 Dexterity saving throw. A creature takes dice:3d8\
+    \ + 6|text(19) (3d8 + 6) slashing damage on a failed save, or half as much\
+    \ damage on a successful one."
   "name": "Sweeping Axe (Recharge 6)"
 "source":
 - "ERLW"

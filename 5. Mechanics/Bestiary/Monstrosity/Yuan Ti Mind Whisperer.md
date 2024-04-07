@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Yuan-ti Mind Whisperer
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Yuan Ti Mind Whisperer.md|Yuan-ti Mind Whisperer]]
+# [[5. Mechanics/Bestiary/Monstrosity/Yuan Ti Mind Whisperer.md|Yuan-ti Mind Whisperer]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 274, Volo's Guide to Monsters p. 204*
 
 Mind whisperers are yuan-ti malison spellcasters who enter into a pact with the serpent god Sseth, the Sibilant Death. They use their abilities to convert others to their faith, increase their personal power, and befuddle the minds of their enemies.
@@ -27,6 +27,7 @@ Mind whisperers are elusive, manipulative, unpredictable, and willing to cheat o
 "subtype": "warlock"
 "alignment": "Typically  Neutral Evil"
 "ac": !!int "14"
+"ac_class": "natural armor"
 "hp": !!int "71"
 "hit_dice": "13d8 + 13"
 "stats":
@@ -68,15 +69,15 @@ Mind whisperers are elusive, manipulative, unpredictable, and willing to cheat o
 - "desc": "The yuan-ti makes two Bite attacks and one Scimitar attack, or it makes\
     \ two Spectral Fangs attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) piercing damage plus dice: 2d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d4 + 3|text(5) (1d4 + 3) piercing damage plus dice:2d6|text(7)\
     \ (2d6) poison damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 3|text(6) (1d6 + 3) slashing damage."
   "name": "Scimitar (Yuan-ti Form Only)"
-- "desc": "Ranged Spell Attack: dice: d20+5 (+5 to hit), range 120 ft., one target.\
-    \ Hit: dice: 3d8 + 3|avg (3d8 + 3) psychic damage."
+- "desc": "Ranged Spell Attack: dice: d20+5 (+5) to hit, range 120 ft., one\
+    \ target. Hit: dice:3d8 + 3|text(16) (3d8 + 3) psychic damage."
   "name": "Spectral Fangs"
 "bonus_actions":
 - "desc": "The yuan-ti transforms into a Medium snake or back into its true form.\

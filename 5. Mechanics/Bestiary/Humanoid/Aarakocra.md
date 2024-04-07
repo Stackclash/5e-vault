@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Aarakocra
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Aarakocra.md|Aarakocra]]
+# [[5. Mechanics/Bestiary/Humanoid/Aarakocra.md|Aarakocra]]
 *Source: Monster Manual p. 12*
 
 Aarakocra range the Howling Gyre, an endless storm of mighty winds and lashing rains that surrounds the tranquil realm of Aaqa in the Elemental Plane of Air. Making aerial patrols, these birdlike humanoids guard the windy borders of their home against invaders from the Elemental Plane of Earth, such as gargoyles, their sworn enemies.
@@ -58,14 +58,14 @@ The Wind Dukes of Aaqa come from a race of elemental beings called the vaati, wh
 "traits":
 - "desc": "If the aarakocra is flying and dives at least 30 feet straight toward a\
     \ target and then hits it with a melee weapon attack, the attack deals an extra\
-    \ dice: 1d6|avg (1d6) damage to the target."
+    \ dice:1d6|text(3) (1d6) damage to the target."
   "name": "Dive Attack"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d4 + 2|text(4) (1d4 + 2) slashing damage."
   "name": "Talon"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft.\
-    \ or range 30/120 ft., one target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing\
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft.\
+    \ or range 30/120 ft., one target. Hit: dice:1d6 + 2|text(5) (1d6 + 2) piercing\
     \ damage."
   "name": "Javelin"
 - "desc": "Five aarakocra within 30 feet of each other can magically summon an [air\

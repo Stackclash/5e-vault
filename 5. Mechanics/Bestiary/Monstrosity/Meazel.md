@@ -18,7 +18,7 @@ statblock: inline
 aliases:
   - Meazel
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Meazel.md|Meazel]]
+# [[5. Mechanics/Bestiary/Monstrosity/Meazel.md|Meazel]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 177, Mordenkainen's Tome of Foes p. 214*
 
 Meazels are malicious hermits who fled to the Shadowfell to escape their mortal existence and contemplate their misery. There the shadows transformed them, and their bitterness made them twisted and cruel. Now hate burns in their hearts, and they resent any intrusion into their suffering, waylaying travelers who venture too close to their lairs.
@@ -50,16 +50,16 @@ Any creatures meazels draw through the shadows are cursed by the meazels' balefu
 "languages": "Common"
 "cr": "1"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target\
-    \ of the meazel's size or smaller. Hit: dice: 1d6 + 3|avg (1d6 + 3) bludgeoning\
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target\
+    \ of the meazel's size or smaller. Hit: dice:1d6 + 3|text(6) (1d6 + 3) bludgeoning\
     \ damage, and the target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ (escape DC 13 with disadvantage). Until the grapple ends, the target takes dice:\
-    \ 2d6 + 3|avg (2d6 + 3) bludgeoning damage at the start of each of the meazel's\
+    \ (escape DC 13 with disadvantage). Until the grapple ends, the target takes dice:2d6\
+    \ + 3|text(10) (2d6 + 3) bludgeoning damage at the start of each of the meazel's\
     \ turns. The meazel can't make weapon attacks while grappling a creature in this\
     \ way."
   "name": "Garrote"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage plus dice: 1d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 3|text(6) (1d6 + 3) piercing damage plus dice:1d6|text(3)\
     \ (1d6) necrotic damage"
   "name": "Shortsword"
 - "desc": "The meazel, any equipment it is wearing or carrying, and any creature it\

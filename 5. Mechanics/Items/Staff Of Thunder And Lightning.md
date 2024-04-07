@@ -25,7 +25,7 @@ This staff can be wielded as a magic quarterstaff that grants a +2 bonus to atta
 
 ## Lightning
 
-When you hit with a melee attack using the staff, you can cause the target to take an extra `dice: 2d6|avg` (`2d6`) lightning damage.
+When you hit with a melee attack using the staff, you can cause the target to take an extra `dice: 2d6|avg|noform` (`2d6`) lightning damage.
 
 ## Thunder
 
@@ -33,11 +33,11 @@ When you hit with a melee attack using the staff, you can cause the staff to emi
 
 ## Lightning Strike
 
-You can use an action to cause a bolt of lightning to leap from the staff's tip in a line that is 5 feet wide and 120 feet long. Each creature in that line must make a DC 17 Dexterity saving throw, taking `dice: 9d6|avg` (`9d6`) lightning damage on a failed save, or half as much damage on a successful one.
+You can use an action to cause a bolt of lightning to leap from the staff's tip in a line that is 5 feet wide and 120 feet long. Each creature in that line must make a DC 17 Dexterity saving throw, taking `dice: 9d6|avg|noform` (`9d6`) lightning damage on a failed save, or half as much damage on a successful one.
 
 ## Thunderclap
 
-You can use an action to cause the staff to issue a deafening thunderclap, audible out to 600 feet. Each creature within 60 feet of you (not including you) must make a DC 17 Constitution saving throw. On a failed save, a creature takes `dice: 2d6|avg` (`2d6`) thunder damage and becomes [[/5. Mechanics/Rules/Conditions.md#deafened\|deafened]] for 1 minute. On a successful save, a creature takes half damage and isn't [[/5. Mechanics/Rules/Conditions.md#deafened\|deafened]].
+You can use an action to cause the staff to issue a deafening thunderclap, audible out to 600 feet. Each creature within 60 feet of you (not including you) must make a DC 17 Constitution saving throw. On a failed save, a creature takes `dice: 2d6|avg|noform` (`2d6`) thunder damage and becomes [[/5. Mechanics/Rules/Conditions.md#deafened\|deafened]] for 1 minute. On a successful save, a creature takes half damage and isn't [[/5. Mechanics/Rules/Conditions.md#deafened\|deafened]].
 
 ## Thunder and Lightning
 

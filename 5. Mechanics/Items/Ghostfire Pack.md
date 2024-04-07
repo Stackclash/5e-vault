@@ -19,6 +19,6 @@ This 1-foot cube mechanical pack contains the key components of a cadaver collec
 
 - The wearer of the suit's Strength score increases to 18 if it was less than that before.  
 - The wearer of the suit is immune to the [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]] condition and has advantage on Constitution saving throws.  
-- The wearer of the suit may use their bonus action to imbue themselves with necrotic energy, causing their next successful weapon attack this turn to deal an extra `dice: 2d6|avg` (`2d6`) necrotic damage. Once this ability has been used once, it cannot be used again until the wearer has killed another creature.  
+- The wearer of the suit may use their bonus action to imbue themselves with necrotic energy, causing their next successful weapon attack this turn to deal an extra `dice: 2d6|avg|noform` (`2d6`) necrotic damage. Once this ability has been used once, it cannot be used again until the wearer has killed another creature.  
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 88*

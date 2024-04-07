@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - White Tusk Warspeaker
 ---
-# [[5. Mechanics\Bestiary\Humanoid\White Tusk Warspeaker.md|White Tusk Warspeaker]]
+# [[5. Mechanics/Bestiary/Humanoid/White Tusk Warspeaker.md|White Tusk Warspeaker]]
 *Source: Strongholds and Followers p. 140*
 
 Priests of Grole, orcish god of war and slaughter, live for the chance to kill in the name of their bloodstained god. Dressed in war-robes of scavenged leather and mail, these priests bestow the blessing of pain upon their allies, goading them to die gloriously in combat in the name of Grole.
@@ -24,6 +24,7 @@ Warspeakers seek conflict constantly, flying into a frothing rage at the slighte
 "subtype": "orc"
 "alignment": "Chaotic Evil"
 "ac": !!int "14"
+"ac_class": "[[5. Mechanics/Items/Chain Mail.md|chain mail]] scraps"
 "hp": !!int "65"
 "hit_dice": "10d8 + 20"
 "stats":
@@ -44,8 +45,8 @@ Warspeakers seek conflict constantly, flying into a frothing rage at the slighte
 "cr": "3"
 "traits":
 - "desc": "The orc is a 5th-level spellcaster. Its spellcasting ability is Wisdom\
-    \ (spell save DC 13, dice: d20+5 (+5 to hit) with spell attacks). The orc has\
-    \ the following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Resistance.md|resistance]],\
+    \ (spell save DC 13, dice: d20+5 (+5) to hit with spell attacks). The orc\
+    \ has the following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Resistance.md|resistance]],\
     \ [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
     \n1st level (4 slots): [[5. Mechanics/Spells/Cure Wounds.md|cure wounds]], [guiding\
     \ bolt](compendium/spells/guiding-bolt.md), [[5. Mechanics/Spells/Inflict Wounds.md|inflict wounds]]\n\
@@ -65,13 +66,13 @@ Warspeakers seek conflict constantly, flying into a frothing rage at the slighte
 - "desc": "The White Tusk warspeaker makes a goading lash attack and two spiked club\
     \ attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one allied\
-    \ target. Hit: dice: 1d4 + 3|avg (1d4 + 3) slashing damage. The next melee\
-    \ weapon attack the target makes before the end of its next turn has advantage\
-    \ and deals an extra dice: 3d6|avg (3d6) damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one allied\
+    \ target. Hit: dice:1d4 + 3|text(5) (1d4 + 3) slashing damage. The next\
+    \ melee weapon attack the target makes before the end of its next turn has advantage\
+    \ and deals an extra dice:3d6|text(10) (3d6) damage."
   "name": "Goading Lash"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 3|text(10) (2d6 + 3) piercing damage."
   "name": "Spiked Club"
 "source":
 - "SaF"

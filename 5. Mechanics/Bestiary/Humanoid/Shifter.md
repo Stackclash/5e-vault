@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Shifter
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Shifter.md|Shifter]]
+# [[5. Mechanics/Bestiary/Humanoid/Shifter.md|Shifter]]
 *Source: Eberron: Rising from the Last War p. 319*
 
 Shifters are tied to primal spirits, which most of them refer to as the beast within. They are lithe of form and have bestial features: large eyes, flat noses, pointed ears, and light fur over much of their bodies. When a shifter fully embraces the beast within by "shifting," these features become even more pronounced.
@@ -22,6 +22,7 @@ Shifters are tied to primal spirits, which most of them refer to as the beast wi
 "subtype": "shifter"
 "alignment": "Any alignment"
 "ac": !!int "14"
+"ac_class": "[[5. Mechanics/Items/Leather Armor.md|leather armor]]"
 "hp": !!int "19"
 "hit_dice": "3d8 + 6"
 "stats":
@@ -47,11 +48,11 @@ Shifters are tied to primal spirits, which most of them refer to as the beast wi
     \ turns while in its bestial form."
   "name": "Shifting (Recharges after a Short or Long Rest)"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 3|text(6) (1d6 + 3) piercing damage."
   "name": "Shortsword"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one creature.\
+    \ Hit: dice:1d4 + 3|text(5) (1d4 + 3) piercing damage."
   "name": "Bite"
 "source":
 - "ERLW"

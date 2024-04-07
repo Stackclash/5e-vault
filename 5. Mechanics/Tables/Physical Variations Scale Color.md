@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vgm
-aliases: ["Physical Variations; Scale Color"]
+  - compendium/src/5e/vgm
+aliases:
+  - Physical Variations; Scale Color
 ---
 # Physical Variations; Scale Color
 *Source: Volo's Guide to Monsters p. 66* 

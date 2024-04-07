@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Githyanki Kith'rak
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Githyanki Kithrak.md|Githyanki Kith'rak]]
+# [[5. Mechanics/Bestiary/Humanoid/Githyanki Kithrak.md|Githyanki Kith'rak]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 140, Mordenkainen's Tome of Foes p. 205*
 
 Militarized githyanki cultures assign ranks and responsibilities to citizens. Groups of ten warriors follow the commands of sarths ([[5. Mechanics/Bestiary/Humanoid/Githyanki Warrior.md|githyanki warriors]]), while ten sarths obey the commands of a mighty kith'rak. These champions undergo torturous training and psionic testing until they can command the respect of their underlings.
@@ -29,6 +29,7 @@ Githyanki descend from an ancient people who were also the progenitors of githze
 "subtype": "gith"
 "alignment": "Any alignment"
 "ac": !!int "18"
+"ac_class": "[[5. Mechanics/Items/Plate Armor.md|plate]]"
 "hp": !!int "180"
 "hit_dice": "24d8 + 72"
 "stats":
@@ -60,8 +61,8 @@ Githyanki descend from an ancient people who were also the progenitors of githze
 "actions":
 - "desc": "The githyanki makes three Greatsword attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) slashing damage plus dice: 5d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) slashing damage plus dice:5d6|text(17)\
     \ (5d6) psychic damage."
   "name": "Greatsword"
 "bonus_actions":

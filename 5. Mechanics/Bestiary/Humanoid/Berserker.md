@@ -16,7 +16,7 @@ statblock: inline
 aliases:
   - Berserker
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Berserker.md|Berserker]]
+# [[5. Mechanics/Bestiary/Humanoid/Berserker.md|Berserker]]
 *Source: Monster Manual p. 344, Curse of Strahd. Available in the SRD and the Basic Rules.*
 
 Hailing from uncivilized lands, unpredictable berserkers come together in war parties and seek conflict wherever they can find it.
@@ -28,6 +28,7 @@ Hailing from uncivilized lands, unpredictable berserkers come together in war pa
 "subtype": "any race"
 "alignment": "Any Chaotic alignment"
 "ac": !!int "13"
+"ac_class": "[[5. Mechanics/Items/Hide Armor.md|hide armor]]"
 "hp": !!int "67"
 "hit_dice": "9d8 + 27"
 "stats":
@@ -47,8 +48,8 @@ Hailing from uncivilized lands, unpredictable berserkers come together in war pa
     \ until the start of its next turn."
   "name": "Reckless"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d12 + 3|avg (1d12 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d12 + 3|text(9) (1d12 + 3) slashing damage."
   "name": "Greataxe"
 "source":
 - "MM"

@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Water Weird
 ---
-# [[5. Mechanics\Bestiary\Elemental\Water Weird.md|Water Weird]]
+# [[5. Mechanics/Bestiary/Elemental/Water Weird.md|Water Weird]]
 *Source: Monster Manual p. 299*
 
 A water weird is an elemental guardian bound to a specific water-filled location, such as a pool or fountain.
@@ -67,9 +67,9 @@ A water weird doesn't require air, food, drink, or sleep.
     \ that water is destroyed."
   "name": "Water Bound"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 10 ft., one creature.\
-    \ Hit: dice: 3d6 + 3|avg (3d6 + 3) bludgeoning damage. If the target is\
-    \ Medium or smaller, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 10 ft., one creature.\
+    \ Hit: dice:3d6 + 3|text(13) (3d6 + 3) bludgeoning damage. If the target\
+    \ is Medium or smaller, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ (escape DC 13) and pulled 5 feet toward the water weird. Until this grapple\
     \ ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
     \ the water weird tries to drown it, and the water weird can't constrict another\

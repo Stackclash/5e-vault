@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Tiger
 ---
-# [[5. Mechanics\Bestiary\Beast\Tiger.md|Tiger]]
+# [[5. Mechanics/Bestiary/Beast/Tiger.md|Tiger]]
 *Source: Monster Manual p. 339. Available in the SRD and the Basic Rules.*
 
 ```statblock
@@ -48,11 +48,11 @@ aliases:
     \ make one bite attack against it as a bonus action."
   "name": "Pounce"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d10 + 3|avg (1d10 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d10 + 3|text(8) (1d10 + 3) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 3|text(7) (1d8 + 3) slashing damage."
   "name": "Claw"
 "source":
 - "MM"

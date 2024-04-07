@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Spider
 ---
-# [[5. Mechanics\Bestiary\Beast\Spider.md|Spider]]
+# [[5. Mechanics/Bestiary/Beast/Spider.md|Spider]]
 *Source: Monster Manual p. 337. Available in the SRD and the Basic Rules.*
 
 ```statblock
@@ -44,9 +44,9 @@ aliases:
 - "desc": "The spider ignores movement restrictions caused by webbing."
   "name": "Web Walker"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one creature.\
     \ Hit: 1 piercing damage, and the target must succeed on a DC 9 Constitution\
-    \ saving throw or take dice: 1d4|avg (1d4) poison damage."
+    \ saving throw or take dice:1d4|text(2) (1d4) poison damage."
   "name": "Bite"
 "source":
 - "MM"

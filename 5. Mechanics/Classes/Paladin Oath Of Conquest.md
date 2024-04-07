@@ -84,6 +84,6 @@ At 20th level, you gain the ability to harness extraordinary martial prowess. As
 
 - You have resistance to all damage.  
 - When you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action on your turn, you can make one additional attack as part of that action.  
-- Your melee weapon attacks score a critical hit on a roll of 19 or 20 on the `dice: d20|avg` (`d20`).  
+- Your melee weapon attacks score a critical hit on a roll of 19 or 20 on the `dice: d20|avg|noform` (`d20`).  
 
 Once you use this feature, you can't use it again until you finish a long rest.

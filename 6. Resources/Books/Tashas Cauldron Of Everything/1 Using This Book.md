@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/tce
-aliases: ["Using This Book"]
+  - compendium/src/5e/tce
+aliases:
+  - Using This Book
 ---
 # Using This Book
 *Source: Tasha's Cauldron of Everything, p. 4* 

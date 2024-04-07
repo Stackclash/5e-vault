@@ -36,7 +36,7 @@ If you press button 6, the rod assumes or remains in its normal form and indicat
 
 ## Drain Life
 
-When you hit a creature with a melee attack using the rod, you can force the target to make a DC 17 Constitution saving throw. On a failure, the target rakes an extra `dice: 4d6|avg` (`4d6`) necrotic damage, and you regain a number of hit points equal to half that necrotic damage. This property can't be used again until the next dawn.
+When you hit a creature with a melee attack using the rod, you can force the target to make a DC 17 Constitution saving throw. On a failure, the target rakes an extra `dice: 4d6|avg|noform` (`4d6`) necrotic damage, and you regain a number of hit points equal to half that necrotic damage. This property can't be used again until the next dawn.
 
 ## Paralyze
 

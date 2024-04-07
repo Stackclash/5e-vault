@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Twig Blight
 ---
-# [[5. Mechanics\Bestiary\Plant\Twig Blight.md|Twig Blight]]
+# [[5. Mechanics/Bestiary/Plant/Twig Blight.md|Twig Blight]]
 *Source: Monster Manual p. 32, Curse of Strahd. Available in the Basic Rules.*
 
 Twig blights can root in soil, which they do when living prey are scarce. While rooted, they resemble woody shrubs. When it pulls its roots free of the ground to move, a twig blight's branches twist together to form a humanoid-looking body with a head and limbs.
@@ -49,6 +49,7 @@ Blights are independent creatures, but most act under a Gulthias tree's control,
 "type": "plant"
 "alignment": "Neutral Evil"
 "ac": !!int "13"
+"ac_class": "natural armor"
 "hp": !!int "4"
 "hit_dice": "1d6 + 1"
 "stats":
@@ -71,8 +72,8 @@ Blights are independent creatures, but most act under a Gulthias tree's control,
     \ shrub."
   "name": "False Appearance"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 1|avg (1d4 + 1) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d4 + 1|text(3) (1d4 + 1) piercing damage."
   "name": "Claws"
 "source":
 - "MM"

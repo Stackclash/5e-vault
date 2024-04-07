@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vgm
-aliases: ["Physical Variations; Yuan-ti Scale Color"]
+  - compendium/src/5e/vgm
+aliases:
+  - Physical Variations; Yuan-ti Scale Color
 ---
 # Physical Variations; Yuan-ti Scale Color
 *Source: Volo's Guide to Monsters p. 97* 

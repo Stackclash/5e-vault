@@ -16,7 +16,7 @@ statblock: inline
 aliases:
   - Giant Poisonous Snake
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Poisonous Snake.md|Giant Poisonous Snake]]
+# [[5. Mechanics/Bestiary/Beast/Giant Poisonous Snake.md|Giant Poisonous Snake]]
 *Source: Monster Manual p. 327, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*
 
 ```statblock
@@ -41,9 +41,9 @@ aliases:
 "languages": ""
 "cr": "1/4"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 1d4 + 4|avg (1d4 + 4) piercing damage, and the target must\
-    \ make a DC 11 Constitution saving throw, taking dice: 3d6|avg (3d6) poison\
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 10 ft., one target.\
+    \ Hit: dice:1d4 + 4|text(6) (1d4 + 4) piercing damage, and the target must\
+    \ make a DC 11 Constitution saving throw, taking dice:3d6|text(10) (3d6) poison\
     \ damage on a failed save, or half as much damage on a successful one."
   "name": "Bite"
 "source":

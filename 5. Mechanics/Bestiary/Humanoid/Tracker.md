@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Tracker
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Tracker.md|Tracker]]
+# [[5. Mechanics/Bestiary/Humanoid/Tracker.md|Tracker]]
 *Source: Strongholds and Followers p. 78*
 
 ```statblock
@@ -20,6 +20,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "15"
+"ac_class": "Medium"
 "stats":
 - !!int "14"
 - !!int "18"
@@ -45,9 +46,9 @@ aliases:
 - "desc": "This creature is a Retainer, as described in \"Strongholds and Followers\""
   "name": "Retainer"
 "actions":
-- "desc": "Ranged Weapon Attack: dice: d20+6 (+6 to hit), range 150/600 ft., one\
-    \ target. Hit: dice: 1d8 + 4|avg (1d8 + 4) piercing damage.\n\nAt 7th level,\
-    \ retainers can take two signature attacks per round."
+- "desc": "Ranged Weapon Attack: dice: d20+6 (+6) to hit, range 150/600 ft.,\
+    \ one target. Hit: dice:1d8 + 4|text(8) (1d8 + 4) piercing damage.\n\nAt\
+    \ 7th level, retainers can take two signature attacks per round."
   "name": "Signature Attack"
 - "desc": "Prerequisite: 3rd-level retainer\n\nThe tracker casts the [[5. Mechanics/Spells/Hunters Mark.md|hunter's mark]]\
     \ spell."

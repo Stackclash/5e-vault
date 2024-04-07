@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Steel Predator
 ---
-# [[5. Mechanics\Bestiary\Construct\Steel Predator.md|Steel Predator]]
+# [[5. Mechanics/Bestiary/Construct/Steel Predator.md|Steel Predator]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 232, Mordenkainen's Tome of Foes p. 239*
 
 A steel predator is a merciless machine with one purpose: to locate and kill its target regardless of distance and obstacles.
@@ -30,6 +30,7 @@ If all goes according to plan, a steel predator slays its target and then volunt
 "type": "construct"
 "alignment": "Typically  Lawful Neutral"
 "ac": !!int "20"
+"ac_class": "natural armor"
 "hp": !!int "207"
 "hit_dice": "18d10 + 108"
 "stats":
@@ -68,15 +69,15 @@ If all goes according to plan, a steel predator slays its target and then volunt
 "actions":
 - "desc": "The steel predator makes one Bite attack and two Claw attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+12 (+12 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d10 + 7|avg (2d10 + 7) lightning damage."
+- "desc": "Melee Weapon Attack: dice: d20+12 (+12) to hit, reach 5 ft., one\
+    \ target. Hit: dice:2d10 + 7|text(18) (2d10 + 7) lightning damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+12 (+12 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 7|avg (2d8 + 7) force damage."
+- "desc": "Melee Weapon Attack: dice: d20+12 (+12) to hit, reach 5 ft., one\
+    \ target. Hit: dice:2d8 + 7|text(16) (2d8 + 7) force damage."
   "name": "Claw"
 - "desc": "The steel predator emits a roar in a 60-foot cone. Each creature in that\
     \ area must make a DC 19 Constitution saving throw. On a failed save, a creature\
-    \ takes dice: 6d10|avg (6d10) thunder damage, drops everything it's holding,\
+    \ takes dice:6d10|text(33) (6d10) thunder damage, drops everything it's holding,\
     \ and is [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]] for 1 minute. The\
     \ [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]] creature can repeat the saving\
     \ throw at the end of each of its turns, ending the effect on itself on a success.\

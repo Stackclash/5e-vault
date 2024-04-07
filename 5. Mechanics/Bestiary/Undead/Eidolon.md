@@ -16,7 +16,7 @@ statblock: inline
 aliases:
   - Eidolon
 ---
-# [[5. Mechanics\Bestiary\Undead\Eidolon.md|Eidolon]]
+# [[5. Mechanics/Bestiary/Undead/Eidolon.md|Eidolon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 114, Mordenkainen's Tome of Foes p. 194*
 
 To protect sites they deem holy, gods often rely on eidolons, ghostly spirits bound to safeguard a sacred place. Forged from the souls of those with unwavering devotion, eidolons stalk temples and vaults to ensure that no enemy defiles, damages, or plunders these sites. If an enemy sets foot inside a warded location, the [[5. Mechanics/Bestiary/Undead/Eidolon.md|eidolon]] plunges into a [[5. Mechanics/Bestiary/Construct/Sacred Statue.md|statue]] specially prepared to house its soul; it then animates this effigy and uses the statue to drive out the intruders.
@@ -54,8 +54,8 @@ To protect sites they deem holy, gods often rely on eidolons, ghostly spirits bo
 "cr": "12"
 "traits":
 - "desc": "The eidolon can move through other creatures and objects as if they were\
-    \ difficult terrain. It takes dice: 1d10|avg (1d10) force damage if it ends\
-    \ its turn inside an object other than a [[5. Mechanics/Bestiary/Construct/Sacred Statue.md|sacred statue]]."
+    \ difficult terrain. It takes dice:1d10|text(5) (1d10) force damage if it\
+    \ ends its turn inside an object other than a [[5. Mechanics/Bestiary/Construct/Sacred Statue.md|sacred statue]]."
   "name": "Incorporeal Movement"
 - "desc": "When the eidolon moves into a space occupied by a [[5. Mechanics/Bestiary/Construct/Sacred Statue.md|sacred statue]],\
     \ the eidolon can disappear, causing the statue to become a creature under the\

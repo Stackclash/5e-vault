@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Cambion
 ---
-# [[5. Mechanics\Bestiary\Fiend\Cambion.md|Cambion]]
+# [[5. Mechanics/Bestiary/Fiend/Cambion.md|Cambion]]
 *Source: Monster Manual p. 36*
 
 A cambion is the offspring of a fiend (usually a succubus or incubus) and a humanoid (usually a human). Cambions inherit aspects of both parents, but their horns, leathery wings, and sinewy tails are hallmarks of their otherworldly parentage.
@@ -39,6 +39,7 @@ The demon lord Graz'zt is fond of procreating with humanoids who have made pacts
 "type": "fiend"
 "alignment": "Any Evil alignment"
 "ac": !!int "19"
+"ac_class": "[[5. Mechanics/Items/Scale Mail.md|scale mail]]"
 "hp": !!int "82"
 "hit_dice": "11d8 + 33"
 "stats":
@@ -76,13 +77,13 @@ The demon lord Graz'zt is fond of procreating with humanoids who have made pacts
 "actions":
 - "desc": "The cambion makes two melee attacks or uses its Fire Ray twice."
   "name": "Multiattack"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing\
-    \ damage, or dice: 1d8 + 4|avg (1d8 + 4) piercing damage if used with two\
-    \ hands to make a melee attack, plus dice: 1d6|avg (1d6) fire damage."
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: dice:1d6 + 4|text(7) (1d6 + 4) piercing\
+    \ damage, or dice:1d8 + 4|text(8) (1d8 + 4) piercing damage if used with two\
+    \ hands to make a melee attack, plus dice:1d6|text(3) (1d6) fire damage."
   "name": "Spear"
-- "desc": "Ranged Spell Attack: dice: d20+7 (+7 to hit), range 120 ft., one target.\
-    \ Hit: dice: 3d6|avg (3d6) fire damage."
+- "desc": "Ranged Spell Attack: dice: d20+7 (+7) to hit, range 120 ft., one\
+    \ target. Hit: dice:3d6|text(10) (3d6) fire damage."
   "name": "Fire Ray"
 - "desc": "One humanoid the cambion can see within 30 feet of it must succeed on a\
     \ DC 14 Wisdom saving throw or be magically [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\

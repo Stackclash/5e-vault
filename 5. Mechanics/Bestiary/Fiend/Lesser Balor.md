@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Lesser Balor
 ---
-# [[5. Mechanics\Bestiary\Fiend\Lesser Balor.md|Lesser Balor]]
+# [[5. Mechanics/Bestiary/Fiend/Lesser Balor.md|Lesser Balor]]
 *Source: Strongholds and Followers p. 153*
 
 ```statblock
@@ -20,6 +20,7 @@ aliases:
 "subtype": "demon"
 "alignment": "Chaotic Evil"
 "ac": !!int "18"
+"ac_class": "natural armor"
 "hp": !!int "123"
 "hit_dice": "13d10 + 52"
 "stats":
@@ -45,13 +46,13 @@ aliases:
 "traits":
 - "desc": "When the lesser balor dies, it explodes. Each creature within 20 feet of\
     \ it must make a DC 16 Dexterity saving throw. On a failed save, a creature takes\
-    \ dice: 10d6|avg (10d6) fire damage, or half as much damage on a successful\
+    \ dice:10d6|text(35) (10d6) fire damage, or half as much damage on a successful\
     \ one. The explosion destroys the lesser balor's weapons."
   "name": "Fiery End"
 - "desc": "At the start of each of the lesser balor's turns, each creature within\
-    \ 5 feet of it takes dice: 2d6|avg (2d6) fire damage. A creature that touches\
+    \ 5 feet of it takes dice:2d6|text(7) (2d6) fire damage. A creature that touches\
     \ the lesser balor or hits it with a melee attack while within 5 feet of it takes\
-    \ dice: 2d6|avg (2d6) fire damage."
+    \ dice:2d6|text(7) (2d6) fire damage."
   "name": "Singeing Aura"
 - "desc": "The lesser balor has advantage on saving throws against spells and other\
     \ magical effects."
@@ -62,13 +63,13 @@ aliases:
 - "desc": "The lesser balor makes one attack with its longsword and one attack with\
     \ its whip."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d8 + 5|avg (2d8 + 5) slashing damage plus dice: 2d8|avg\
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 10 ft., one target.\
+    \ Hit: dice:2d8 + 5|text(14) (2d8 + 5) slashing damage plus dice:2d8|text(9)\
     \ (2d8) lightning damage. If the lesser balor scores a critical hit, it rolls\
     \ damage dice three times, instead of twice."
   "name": "Longsword"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 30 ft., one target.\
-    \ Hit: dice: 2d6 + 5|avg (2d6 + 5) slashing damage plus dice: 2d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 30 ft., one target.\
+    \ Hit: dice:2d6 + 5|text(12) (2d6 + 5) slashing damage plus dice:2d6|text(7)\
     \ (2d6) fire damage, and the target must succeed on a DC 16 Strength saving\
     \ throw or be pulled up to 15 feet toward the lesser balor."
   "name": "Whip"

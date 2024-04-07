@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Bone Knight
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Bone Knight.md|Bone Knight]]
+# [[5. Mechanics/Bestiary/Humanoid/Bone Knight.md|Bone Knight]]
 *Source: Eberron: Rising from the Last War p. 316*
 
 Bone knights are the champions of the Order of the Emerald Claw. Clad in distinctive bonecraft armor—heavy armor adorned with the bones of fallen enemies—these fearsome warriors command squads of undead soldiers as they pursue the sinister goals of Lady Illmarrow.
@@ -32,6 +32,7 @@ During the Last War, many bone knights took service with the Order of the Emeral
 "subtype": "any race"
 "alignment": "Any Non-Good alignment"
 "ac": !!int "20"
+"ac_class": "bonecraft armor"
 "hp": !!int "84"
 "hit_dice": "13d8 + 26"
 "stats":
@@ -55,7 +56,7 @@ During the Last War, many bone knights took service with the Order of the Emeral
 "cr": "5"
 "traits":
 - "desc": "The knight is an 8th-level spellcaster. Its spellcasting ability is Charisma\
-    \ (spell save DC 14, dice: d20+6 (+6 to hit) with spell attacks). It has the\
+    \ (spell save DC 14, dice: d20+6 (+6) to hit with spell attacks). It has the\
     \ following paladin spells prepared:\n\n1st level (4 slots): [[5. Mechanics/Spells/Command.md|command]],\
     \ [[5. Mechanics/Spells/Compelled Duel.md|compelled duel]], [[5. Mechanics/Spells/Hellish Rebuke.md|hellish rebuke]],\
     \ [[5. Mechanics/Spells/Wrathful Smite.md|wrathful smite]]\n\n2nd level (3 slots):\
@@ -75,11 +76,11 @@ During the Last War, many bone knights took service with the Order of the Emeral
 "actions":
 - "desc": "The knight attacks twice with one of its weapons."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) slashing damage."
   "name": "Greatsword"
-- "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 150/600 ft., one\
-    \ target. Hit: dice: 1d8 + 1|avg (1d8 + 1) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+4 (+4) to hit, range 150/600 ft.,\
+    \ one target. Hit: dice:1d8 + 1|text(5) (1d8 + 1) piercing damage."
   "name": "Longbow"
 "source":
 - "ERLW"

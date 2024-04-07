@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Narzugon
 ---
-# [[5. Mechanics\Bestiary\Fiend\Narzugon.md|Narzugon]]
+# [[5. Mechanics/Bestiary/Fiend/Narzugon.md|Narzugon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 190, Mordenkainen's Tome of Foes p. 167*
 
 Paladins who make deals with devils and carry their twisted sense of honor into the afterlife are especially valuable to the archdukes of the Nine Hells. These narzugons act as horrific perversions of knights errant, carrying out their masters' will.
@@ -26,6 +26,7 @@ Each narzugon claims a [[5. Mechanics/Bestiary/Fiend/Nightmare.md|nightmare]] as
 "subtype": "devil"
 "alignment": "Typically  Lawful Evil"
 "ac": !!int "20"
+"ac_class": "[[5. Mechanics/Items/Plate Armor.md|plate armor]], [[5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "112"
 "hit_dice": "15d8 + 45"
 "stats":
@@ -62,14 +63,14 @@ Each narzugon claims a [[5. Mechanics/Bestiary/Fiend/Nightmare.md|nightmare]] as
 - "desc": "The narzugon makes three Hellfire Lance attacks. It also uses Infernal\
     \ Command or Terrifying Command."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 1d12 + 5|avg (1d12 + 5) piercing damage plus dice: 3d10|avg\
+- "desc": "Melee Weapon Attack: dice: d20+10 (+10) to hit, reach 10 ft., one\
+    \ target. Hit: dice:1d12 + 5|text(11) (1d12 + 5) piercing damage plus dice:3d10|text(16)\
     \ (3d10) fire damage. If this damage kills a creature with a soul, the soul\
     \ rises from the River Styx as a [[5. Mechanics/Bestiary/Fiend/Lemure.md|lemure]]\
-    \ in Avernus in dice: 1d4|avg (1d4) hours. If the creature isn't revived before\
-    \ then, only a [[5. Mechanics/Spells/Wish.md|wish]] spell or killing the lemure and\
-    \ casting true resurrection on the creature's original body can restore it to\
-    \ life. Constructs and devils are immune to this effect."
+    \ in Avernus in dice: 1d4|avg|noform (1d4) hours. If the creature isn't revived\
+    \ before then, only a [[5. Mechanics/Spells/Wish.md|wish]] spell or killing the lemure\
+    \ and casting true resurrection on the creature's original body can restore it\
+    \ to life. Constructs and devils are immune to this effect."
   "name": "Hellfire Lance"
 - "desc": "Each ally of the narzugon within 60 feet of it can't be [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
     \ or [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] until the end of\

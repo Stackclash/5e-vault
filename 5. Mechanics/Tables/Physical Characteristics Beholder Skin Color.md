@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vgm
-aliases: ["Physical Characteristics; Beholder Skin Color"]
+  - compendium/src/5e/vgm
+aliases:
+  - Physical Characteristics; Beholder Skin Color
 ---
 # Physical Characteristics; Beholder Skin Color
 *Source: Volo's Guide to Monsters p. 8* 

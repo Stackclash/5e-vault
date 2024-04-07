@@ -1,27 +1,28 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: null
 condition: healthy
 image: 4. World Almanac/NPCs/img/yeenoghu.webp
 relationships: []
-tags: 
-aliases: [Yeenoghu]
-pronounced: 
-race: 
-gender: 
-age: 
+tags: null
+aliases:
+  - Yeenoghu
+pronounced: null
+race: null
+gender: null
+age: null
 alignment: Chaotic Evil
-occupation: 
+occupation: null
 groups: []
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]
@@ -130,6 +131,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 "subtype": "demon"
 "alignment": "Chaotic Evil"
 "ac": !!int "20"
+"ac_class": "natural armor"
 "hp": !!int "333"
 "hit_dice": "23d12 + 184"
 "stats":
@@ -169,18 +171,18 @@ await dv.view("npcRelationships", { current: dv.current() })
 "actions":
 - "desc": "Yeenoghu makes three Flail attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+16 (+16 to hit), reach 15 ft., one target.\
-    \ Hit: dice: 2d12 + 9|avg (2d12 + 9) force damage. If it's his turn, Yeenoghu\
-    \ can cause the target to suffer one of the following additional effects, each\
-    \ of which he can apply only once per turn\n\n- Confusion. The target must\
-    \ succeed on a DC 17 Wisdom saving throw or be affected by the confusion spell\
-    \ until the start of Yeenoghu's next turn.  \n- Force. The target takes an\
-    \ extra dice: 2d12|avg (2d12) force damage.  \n- Paralysis. The target\
-    \ must succeed on a DC 17 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
+- "desc": "Melee Weapon Attack: dice: d20+16 (+16) to hit, reach 15 ft., one\
+    \ target. Hit: dice:2d12 + 9|text(22) (2d12 + 9) force damage. If it's his\
+    \ turn, Yeenoghu can cause the target to suffer one of the following additional\
+    \ effects, each of which he can apply only once per turn\n\n- Confusion. The\
+    \ target must succeed on a DC 17 Wisdom saving throw or be affected by the confusion\
+    \ spell until the start of Yeenoghu's next turn.  \n- Force. The target takes\
+    \ an extra dice:2d12|text(13) (2d12) force damage.  \n- Paralysis. The\
+    \ target must succeed on a DC 17 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
     \ until the start of Yeenoghu's next turn.  "
   "name": "Flail"
-- "desc": "Melee Weapon Attack: dice: d20+16 (+16 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d10 + 9|avg (2d10 + 9) acid damage."
+- "desc": "Melee Weapon Attack: dice: d20+16 (+16) to hit, reach 10 ft., one\
+    \ target. Hit: dice:2d10 + 9|text(20) (2d10 + 9) acid damage."
   "name": "Bite"
 "bonus_actions":
 - "desc": "When Yeenoghu reduces a creature to 0 hit points with a melee attack, he\
@@ -208,12 +210,12 @@ await dv.view("npcRelationships", { current: dv.current() })
     \  \n- Iron Spike. Yeenoghu causes an iron spike—5 feet tall and 1 inch in\
     \ diameter—to burst from the ground at a point he can see within 100 feet of him.\
     \ Any creature in the space where the spike emerges must make a DC 24 Dexterity\
-    \ saving throw. On a failed save, the creature takes dice: 6d8|avg (6d8) piercing\
-    \ damage and is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]] by being\
-    \ impaled on the spike. A creature can use an action to remove itself (or a creature\
-    \ it can reach) from the spike, ending the restrained condition.  \n- Pack Rush.\
-    \ Each gnoll or hyena that Yeenoghu can see can use its reaction to move up to\
-    \ its speed.  "
+    \ saving throw. On a failed save, the creature takes dice:6d8|text(27) (6d8)\
+    \ piercing damage and is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
+    \ by being impaled on the spike. A creature can use an action to remove itself\
+    \ (or a creature it can reach) from the spike, ending the restrained condition.\
+    \  \n- Pack Rush. Each gnoll or hyena that Yeenoghu can see can use its reaction\
+    \ to move up to its speed.  "
   "name": ""
 "regional_effects":
 - "desc": "The region containing Yeenoghu's lair is warped by his magic, creating\
@@ -224,7 +226,7 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ prey are left to rot in an unnatural display of wasteful slaughter.  \n- Spiky\
     \ Terrain. Within 1 mile of the lair, large iron spikes grow out of the ground\
     \ and stone surfaces. Yeenoghu impales the bodies of the slain on these spikes.\
-    \  \n- If Yeenoghu dies, these effects fade over the course of dice: 1d10|avg\
+    \  \n- If Yeenoghu dies, these effects fade over the course of dice: 1d10|avg|noform\
     \ (1d10) days.  "
   "name": ""
 "source":

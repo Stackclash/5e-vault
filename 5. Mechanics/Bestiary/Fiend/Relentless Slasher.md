@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Relentless Slasher
 ---
-# [[5. Mechanics\Bestiary\Fiend\Relentless Slasher.md|Relentless Slasher]]
+# [[5. Mechanics/Bestiary/Fiend/Relentless Slasher.md|Relentless Slasher]]
 *Source: Van Richten's Guide to Ravenloft p. 242*
 
 A relentless slasher conducts its bloody work in silence then vanishes into shadow and infamy. Fixated on a specific individual or type of victim, it pursues its target with single-minded obsession.
@@ -57,6 +57,7 @@ Relentless killers come into being and undertake their terrifying sprees for a s
 "type": "fiend"
 "alignment": "Unaligned"
 "ac": !!int "15"
+"ac_class": "natural armor"
 "hp": !!int "84"
 "hit_dice": "13d8 + 26"
 "stats":
@@ -89,19 +90,19 @@ Relentless killers come into being and undertake their terrifying sprees for a s
 "actions":
 - "desc": "The slasher makes two Slasher's Knife attacks."
   "name": "Multiattack"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft.\
-    \ or range 30/60 ft., one target. Hit: dice: 1d4 + 4|avg (1d4 + 4) slashing\
-    \ damage plus dice: 6d6|avg (6d6) necrotic damage. If the target is a creature,\
-    \ it suffers a lingering wound that causes it to take dice: 2d6|avg (2d6)\
-    \ necrotic damage at the start of each of its turns. Each time the slasher hits\
-    \ the wounded target with this attack, the damage dealt by the wound increases\
-    \ by dice: 1d6|avg (1d6). The wound ends if the target regains hit points\
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft.\
+    \ or range 30/60 ft., one target. Hit: dice:1d4 + 4|text(6) (1d4 + 4) slashing\
+    \ damage plus dice:6d6|text(21) (6d6) necrotic damage. If the target is a\
+    \ creature, it suffers a lingering wound that causes it to take dice:2d6|text(7)\
+    \ (2d6) necrotic damage at the start of each of its turns. Each time the slasher\
+    \ hits the wounded target with this attack, the damage dealt by the wound increases\
+    \ by dice:1d6|text(3) (1d6). The wound ends if the target regains hit points\
     \ or if a creature uses an action to stanch the wound, which requires a successful\
     \ DC 15 Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) check."
   "name": "Slasher's Knife"
 "legendary_actions":
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft.\
-    \ or range 30/60 ft., one target. Hit: dice: 1d6 + 4|avg (1d6 + 4) slashing\
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft.\
+    \ or range 30/60 ft., one target. Hit: dice:1d6 + 4|text(7) (1d6 + 4) slashing\
     \ damage."
   "name": "Slice"
 - "desc": "The slasher makes one Slasher's Knife attack. After the attack hits or\

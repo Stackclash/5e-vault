@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Iron Golem
 ---
-# [[5. Mechanics\Bestiary\Construct\Iron Golem.md|Iron Golem]]
+# [[5. Mechanics/Bestiary/Construct/Iron Golem.md|Iron Golem]]
 *Source: Monster Manual p. 170, Curse of Strahd. Available in the SRD.*
 
 The mightiest of the golems, the iron golem is a massive, towering giant wrought of heavy metal. An iron golem's shape can be worked into any form, though most are fashioned to look like giant suits of armor. Its fist can destroy creatures with a single blow, and its clanging steps shake the earth beneath its feet. Iron golems wield enormous blades to extend their reach, and all can belch clouds of deadly poison.
@@ -55,6 +55,7 @@ A golem doesn't require air, food, drink, or sleep.
 "type": "construct"
 "alignment": "Unaligned"
 "ac": !!int "20"
+"ac_class": "natural armor"
 "hp": !!int "210"
 "hit_dice": "20d10 + 100"
 "stats":
@@ -87,15 +88,16 @@ A golem doesn't require air, food, drink, or sleep.
 "actions":
 - "desc": "The golem makes two melee attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 3d8 + 7|avg (3d8 + 7) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+13 (+13) to hit, reach 5 ft., one\
+    \ target. Hit: dice:3d8 + 7|text(20) (3d8 + 7) bludgeoning damage."
   "name": "Slam"
-- "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 3d10 + 7|avg (3d10 + 7) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+13 (+13) to hit, reach 10 ft., one\
+    \ target. Hit: dice:3d10 + 7|text(23) (3d10 + 7) slashing damage."
   "name": "Sword"
 - "desc": "The golem exhales poisonous gas in a 15-foot cone. Each creature in that\
-    \ area must make a DC 19 Constitution saving throw, taking dice: 10d8|avg (10d8)\
-    \ poison damage on a failed save, or half as much damage on a successful one."
+    \ area must make a DC 19 Constitution saving throw, taking dice:10d8|text(45)\
+    \ (10d8) poison damage on a failed save, or half as much damage on a successful\
+    \ one."
   "name": "Poison Breath (Recharge 5-6)"
 "source":
 - "MM"

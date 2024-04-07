@@ -27,7 +27,7 @@ This trident's three horns are made of a chimera's goat horn, lion tooth, and dr
 
 - You force the creature you hit to succeed on a DC 15 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]].  
 - The next weapon attack by one of your allies that is made against the creature you hit is made with advantage so long as you are within melee range of that creature.  
-- You deal an additional `dice: 1d8|avg` (`1d8`) fire damage.  
+- You deal an additional `dice: 1d8|avg|noform` (`1d8`) fire damage.  
 
 Once used, an individual ability may not be used again until the next dawn.
 

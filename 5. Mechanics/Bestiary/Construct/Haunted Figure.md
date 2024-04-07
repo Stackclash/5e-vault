@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Haunted Figure
 ---
-# [[5. Mechanics\Bestiary\Construct\Haunted Figure.md|Haunted Figure]]
+# [[5. Mechanics/Bestiary/Construct/Haunted Figure.md|Haunted Figure]]
 *Source: Hamund's Harvesting Handbook: Volume III p. 89*
 
 ```statblock
@@ -44,12 +44,12 @@ aliases:
     \ figure makes a Charisma check contested by the target's Strength check. If the\
     \ haunted figure wins the contest, the haunted figure hurls the target up to 30\
     \ feet in any direction, including upward. If the target then comes into contact\
-    \ with a hard surface or heavy object, the target takes dice: 1d6|avg (1d6)\
-    \ damage per 10 feet moved. If the target is an object that isn't being worn or\
-    \ carried, the haunted figure hurls it up to 30 feet in any direction. The haunted\
-    \ figure can use the object as a ranged weapon, attacking one creature along the\
-    \ object's path (dice: d20+4 (+4 to hit)) and dealing dice: 2d4|avg (2d4)\
-    \ bludgeoning damage on a hit."
+    \ with a hard surface or heavy object, the target takes dice: 1d6|avg|noform\
+    \ (1d6) damage per 10 feet moved. If the target is an object that isn't being\
+    \ worn or carried, the haunted figure hurls it up to 30 feet in any direction.\
+    \ The haunted figure can use the object as a ranged weapon, attacking one creature\
+    \ along the object's path (dice: d20+4 (+4) to hit) and dealing dice: 2d4|avg|noform\
+    \ (2d4) bludgeoning damage on a hit."
   "name": "Telekinetic Thrust"
 "source":
 - "HHHVIII"

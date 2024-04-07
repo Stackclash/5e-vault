@@ -12,4 +12,4 @@ aliases:
 
 ***Prerequisites*** 3rd-level Monk (Observed Form)
 
-Your natural stance allows you to fight freely and utilise your energy efficiently. While in this stance, whenever you spend 1 or more ki points to use an ability, you may roll a `dice: d20|avg` (`d20`). If you roll an 18, 19, or 20 on this roll, you instantly regain the ki points you just spent.
+Your natural stance allows you to fight freely and utilise your energy efficiently. While in this stance, whenever you spend 1 or more ki points to use an ability, you may roll a `dice: d20|avg|noform` (`d20`). If you roll an 18, 19, or 20 on this roll, you instantly regain the ki points you just spent.

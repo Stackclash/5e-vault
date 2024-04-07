@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Star Spawn Hulk
 ---
-# [[5. Mechanics\Bestiary\Aberration\Star Spawn Hulk.md|Star Spawn Hulk]]
+# [[5. Mechanics/Bestiary/Aberration/Star Spawn Hulk.md|Star Spawn Hulk]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 227, Mordenkainen's Tome of Foes p. 234*
 
 The hulk is one of the largest of the known star spawn, with glistening, translucent skin. Pale and seemingly lidless eyes glare balefully from a face distorted by too many teeth and too little nose. Hulks are seldom encountered without a commanding star spawn seer (also in this book) nearby. A hulk appears to have little will of its own and is driven to protect its master.
@@ -45,6 +45,7 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 "type": "aberration"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "16"
+"ac_class": "natural armor"
 "hp": !!int "136"
 "hit_dice": "13d10 + 65"
 "stats":
@@ -72,12 +73,12 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
   "name": "Psychic Mirror"
 "actions":
 - "desc": "The hulk makes two Slam attacks. If both attacks hit the same target, the\
-    \ target also takes dice: 2d8|avg (2d8) psychic damage and must succeed on\
-    \ a DC 17 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+    \ target also takes dice:2d8|text(9) (2d8) psychic damage and must succeed\
+    \ on a DC 17 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
     \ until the end of the target's next turn."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d8 + 5|avg (2d8 + 5) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 10 ft., one target.\
+    \ Hit: dice:2d8 + 5|text(14) (2d8 + 5) bludgeoning damage."
   "name": "Slam"
 - "desc": "The hulk makes a separate Slam attack against each creature within 10 feet\
     \ of it. Each creature that is hit must also succeed on a DC 17 Dexterity saving\

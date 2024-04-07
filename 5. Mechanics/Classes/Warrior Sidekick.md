@@ -90,7 +90,7 @@ Each warrior focuses on offense or defense in their training. Choose one of the 
 
 *2nd-level Warrior feature*
 
-The sidekick can use a bonus action on its turn to regain hit points equal to `dice: 1d10|avg` (`1d10`) + its level in this class. Once it uses this feature, it must finish a short or long rest before it can use it again.
+The sidekick can use a bonus action on its turn to regain hit points equal to `dice: 1d10|avg|noform` (`1d10`) + its level in this class. Once it uses this feature, it must finish a short or long rest before it can use it again.
 
 The sidekick can use this feature twice between rests starting at 20th level.
 
@@ -98,7 +98,7 @@ The sidekick can use this feature twice between rests starting at 20th level.
 
 *3rd-level Warrior feature*
 
-The sidekick's attack rolls score a critical hit on a roll of 19 or 20 on the `dice: d20|avg` (`d20`).
+The sidekick's attack rolls score a critical hit on a roll of 19 or 20 on the `dice: d20|avg|noform` (`d20`).
 
 ### Ability Score Improvement (Level 4)
 

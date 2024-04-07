@@ -51,7 +51,7 @@ title: Generic Object
 *Varies Generic*
 
 - **Armor Class** (Varies (see below))
-- **Hit Points** null (Varies (see below))
+- **Hit Points** Varies (see below) (Varies (see below))
 - **Speed** 
 
 |STR|DEX|CON|INT|WIS|CHA|

@@ -53,10 +53,10 @@ You can create additional *experimental elixirs* by expending a spell slot of 1s
 
 | dice: d6 | Effect |
 |----------|--------|
-| 1 | **Healing**. The drinker regains a number of hit points equal to `dice: 2d4\|avg` (`2d4`) + your Intelligence modifier. |
+| 1 | **Healing**. The drinker regains a number of hit points equal to `dice: 2d4\|avg|noform` (`2d4`) + your Intelligence modifier. |
 | 2 | **Swiftness**. The drinker's walking speed increases by 10 feet for 1 hour. |
 | 3 | **Resilience**. The drinker gains a +1 bonus to AC for 10 minutes. |
-| 4 | **Boldness**. The drinker can roll a `dice: d4\|avg` (`d4`) and add the number rolled to every attack roll and saving throw they make for the next minute. |
+| 4 | **Boldness**. The drinker can roll a `dice: d4\|avg|noform` (`d4`) and add the number rolled to every attack roll and saving throw they make for the next minute. |
 | 5 | **Flight**. The drinker gains a flying speed of 10 feet for 10 minutes. |
 | 6 | **Transformation**. The drinker's body is transformed as if by the [[5. Mechanics/Spells/Alter Self.md\|alter self]] spell. The drinker determines the transformation caused by the spell, the effects of which last for 10 minutes. |
 ^experimental-elixir
@@ -69,7 +69,7 @@ At 5th level, you develop masterful command of magical chemicals, enhancing the 
 
 Starting at 9th level, you can incorporate restorative reagents into some of your works:
 
-- Whenever a creature drinks an *experimental elixir* you created, the creature gains temporary hit points equal to `dice: 2d6|avg` (`2d6`) + your Intelligence modifier (minimum of 1 temporary hit point).  
+- Whenever a creature drinks an *experimental elixir* you created, the creature gains temporary hit points equal to `dice: 2d6|avg|noform` (`2d6`) + your Intelligence modifier (minimum of 1 temporary hit point).  
 - You can cast [[5. Mechanics/Spells/Lesser Restoration.md\|lesser restoration]] without expending a spell slot and without preparing the spell, provided you use [[5. Mechanics/Items/Alchemists Supplies.md\|alchemist's supplies]] as the spellcasting focus. You can do so a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a long rest.  
 
 ### Chemical Mastery (Level 15)

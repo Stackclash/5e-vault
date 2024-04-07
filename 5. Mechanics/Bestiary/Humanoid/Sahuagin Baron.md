@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Sahuagin Baron
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Sahuagin Baron.md|Sahuagin Baron]]
+# [[5. Mechanics/Bestiary/Humanoid/Sahuagin Baron.md|Sahuagin Baron]]
 *Source: Monster Manual p. 264*
 
 Across fog-shrouded coasts or endless ocean swells, an ominous drone sounded on a conch shell chills the blood of all who hear it. This is the sound of the sahuagin hunting horn-a call to raid and battle. Coastal settlers refer to sahuagin as "sea devils," for sahuagin have no compassion in them, slaughtering the crews of ships and decimating coastal villages.
@@ -49,6 +49,7 @@ The sahuagin put the malenti to good use as spies and assassins in aquatic elf c
 "subtype": "sahuagin"
 "alignment": "Lawful Evil"
 "ac": !!int "16"
+"ac_class": "[[5. Mechanics/Items/Breastplate.md|breastplate]]"
 "hp": !!int "76"
 "hit_dice": "9d10 + 27"
 "stats":
@@ -83,16 +84,16 @@ The sahuagin put the malenti to good use as spies and assassins in aquatic elf c
 - "desc": "The sahuagin makes three attacks: one with his bite and two with his claws\
     \ or trident."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4 + 4|avg (2d4 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d4 + 4|text(9) (2d4 + 4) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) slashing damage."
   "name": "Claws"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 2d6 + 4|avg (2d6 + 4) piercing\
-    \ damage, or dice: 2d8 + 4|avg (2d8 + 4) piercing damage if used with two\
-    \ hands to make a melee attack."
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: dice:2d6 + 4|text(11) (2d6 + 4) piercing\
+    \ damage, or dice:2d8 + 4|text(13) (2d8 + 4) piercing damage if used with\
+    \ two hands to make a melee attack."
   "name": "Trident"
 "source":
 - "MM"

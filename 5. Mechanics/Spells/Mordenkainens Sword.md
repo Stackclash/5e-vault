@@ -11,7 +11,6 @@ aliases:
   - Mordenkainen's Sword
 ---
 # Mordenkainen's Sword
-%%-- Embedded content starts on the next line. --%%
 *7th-level, Evocation*  
 ![[5. Mechanics/Spells/img/mordenkainens-sword.webp#right]]  
 
@@ -22,7 +21,7 @@ aliases:
 
 You create a sword-shaped plane of force that hovers within range. It lasts for the duration.
 
-When the sword appears, you make a melee spell attack against a target of your choice within 5 feet of the sword. On a hit, the target takes `dice: 3d10|avg` (`3d10`) force damage. Until the spell ends, you can use a bonus action on each of your turns to move the sword up to 20 feet to a spot you can see and repeat this attack against the same target or a different one.
+When the sword appears, you make a melee spell attack against a target of your choice within 5 feet of the sword. On a hit, the target takes `dice: 3d10|avg|noform` (`3d10`) force damage. Until the spell ends, you can use a bonus action on each of your turns to move the sword up to 20 feet to a spot you can see and repeat this attack against the same target or a different one.
 
 **Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 

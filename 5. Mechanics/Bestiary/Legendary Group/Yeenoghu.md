@@ -14,7 +14,7 @@ _Source: Mordenkainen's Tome of Foes_
 
 On Initiative count 20 (losing initiative ties), Yeenoghu can take a lair action to cause one of the following effects; he can't use the same effect two rounds in a row:
 
-- Yeenoghu causes an iron spike - 5 feet tall and 1 inch in diameter - to burst from the ground at a point he can see within 100 feet of him. Any creature in the space where the spike emerges must make a DC 24 Dexterity saving throw. On a failed save, the creature takes `dice: 6d8|avg` (`6d8`) piercing damage and is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]] by being impaled on the spike. A creature can use an action to remove itself (or a creature it can reach) from the spike, ending the [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]] condition.  
+- Yeenoghu causes an iron spike - 5 feet tall and 1 inch in diameter - to burst from the ground at a point he can see within 100 feet of him. Any creature in the space where the spike emerges must make a DC 24 Dexterity saving throw. On a failed save, the creature takes `dice:6d8|text(27)` (`6d8`) piercing damage and is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]] by being impaled on the spike. A creature can use an action to remove itself (or a creature it can reach) from the spike, ending the [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]] condition.  
 - Each gnoll or hyena that Yeenoghu can see can use its reaction to move up to its speed.  
 - Until the next initiative count 20, all gnolls and hyenas within the lair are enraged, causing them to have advantage on melee weapon attack rolls and causing attack rolls to have advantage against them.  
 
@@ -27,7 +27,7 @@ The region containing Yeenoghu's lair is warped by his magic, creating one or mo
 - Predatory beasts within 6 miles of the lair become unusually savage, killing far more than what they need for food. Carcasses of prey are left to rot in an unnatural display of wasteful slaughter.  
 - If a humanoid spends at least 1 hour within 1 mile of the lair, that creature must succeed on a DC 17 Wisdom saving throw or descend into a madness determined by the Madness of Yeenoghu table. A creature that succeeds on this saving throw can't be affected by this regional effect again for 24 hours.  
 
-If Yeenoghu dies, these effects fade over the course of `dice: 1d10|avg` (`1d10`) days.
+If Yeenoghu dies, these effects fade over the course of `dice: 1d10|avg|noform` (`1d10`) days.
 
 ### Madness of Yeenoghu
 

@@ -1,27 +1,28 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: null
 condition: healthy
 image: 4. World Almanac/NPCs/img/rak-tulkhesh.webp
 relationships: []
-tags: 
-aliases: [Rak Tulkhesh]
-pronounced: 
-race: 
-gender: 
-age: 
+tags: null
+aliases:
+  - Rak Tulkhesh
+pronounced: null
+race: null
+gender: null
+age: null
 alignment: Neutral Evil
-occupation: 
+occupation: null
 groups: []
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]
@@ -136,6 +137,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 "type": "fiend"
 "alignment": "Neutral Evil"
 "ac": !!int "23"
+"ac_class": "natural armor; 25 versus ranged attacks"
 "hp": !!int "478"
 "hit_dice": "33d12 + 264"
 "stats":
@@ -180,17 +182,17 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ effects."
   "name": "Magic Resistance"
 - "desc": "A magical aura of weapons surrounds Rak Tulkhesh in a 10 foot radius. At\
-    \ the start of each of his turns, any other creature in the aura takes dice:\
-    \ 4d6|avg (4d6) force damage."
+    \ the start of each of his turns, any other creature in the aura takes dice:4d6|text(14)\
+    \ (4d6) force damage."
   "name": "Whirlwind of Weapons"
 "actions":
 - "desc": "Rak Tulkhesh makes four weapon attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+17 (+17 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 3d12 + 9|avg (3d12 + 9) force damage."
+- "desc": "Melee Weapon Attack: dice: d20+17 (+17) to hit, reach 10 ft., one\
+    \ target. Hit: dice:3d12 + 9|text(28) (3d12 + 9) force damage."
   "name": "Spawned Melee Weapon"
-- "desc": "Ranged Weapon Attack: dice: d20+12 (+12 to hit), range 150/600 ft.,\
-    \ one target. Hit: dice: 3d8 + 4|avg (3d8 + 4) force damage."
+- "desc": "Ranged Weapon Attack: dice: d20+12 (+12) to hit, range 150/600 ft.,\
+    \ one target. Hit: dice:3d8 + 4|text(17) (3d8 + 4) force damage."
   "name": "Spawned Ranged Weapon"
 - "desc": "Rak Tulkhesh magically polymorphs into a humanoid, beast, or giant that\
     \ has a challenge rating no higher than his own, or back into his true form. He\

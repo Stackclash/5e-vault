@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Rutterkin
 ---
-# [[5. Mechanics\Bestiary\Fiend\Rutterkin.md|Rutterkin]]
+# [[5. Mechanics/Bestiary/Fiend/Rutterkin.md|Rutterkin]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 210, Mordenkainen's Tome of Foes p. 136*
 
 > [!quote]- A quote from Tasha  
@@ -60,13 +60,13 @@ Creatures bitten by rutterkins are exposed to a terrible disease that infects th
     \ Fear of all rutterkins for 24 hours."
   "name": "Immobilizing Fear"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 3d6 + 2|avg (3d6 + 2) piercing damage. If the target is a creature,\
-    \ it must succeed on a DC 13 Constitution saving throw against disease or become\
-    \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]. At the end of each long\
-    \ rest, the [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] target can repeat\
-    \ the saving throw, ending the effect on itself on a success. If the target is\
-    \ reduced to 0 hit points while [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:3d6 + 2|text(12) (3d6 + 2) piercing damage. If the target is\
+    \ a creature, it must succeed on a DC 13 Constitution saving throw against disease\
+    \ or become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]. At the end of\
+    \ each long rest, the [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] target\
+    \ can repeat the saving throw, ending the effect on itself on a success. If the\
+    \ target is reduced to 0 hit points while [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
     \ in this way, it dies and instantly transforms into a living [[5. Mechanics/Bestiary/Fiend/Manes.md|manes]].\
     \ The transformation can be undone only by a [[5. Mechanics/Spells/Wish.md|wish]]\
     \ spell."

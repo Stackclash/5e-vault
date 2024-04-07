@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/vgm
-- item/rarity/unknown
-- item/wondrous/wondrous-item
-aliases: 
-- "Flensing Claws (Small)"
+  - compendium/src/5e/vgm
+  - item/rarity/unknown
+  - item/wondrous/wondrous-item
+aliases:
+  - Flensing Claws (Small)
 ---
 # Flensing Claws (Small)
 *Other, unknown*  

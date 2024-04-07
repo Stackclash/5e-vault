@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Hawk
 ---
-# [[5. Mechanics\Bestiary\Beast\Hawk.md|Hawk]]
+# [[5. Mechanics/Bestiary/Beast/Hawk.md|Hawk]]
 *Source: Monster Manual p. 330. Available in the SRD and the Basic Rules.*
 
 ```statblock
@@ -39,7 +39,7 @@ aliases:
     \ checks that rely on sight."
   "name": "Keen Sight"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
     \ Hit: 1 slashing damage."
   "name": "Talons"
 "source":

@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Choker
 ---
-# [[5. Mechanics\Bestiary\Aberration\Choker.md|Choker]]
+# [[5. Mechanics/Bestiary/Aberration/Choker.md|Choker]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 76, Mordenkainen's Tome of Foes p. 123*
 
 The choker is a subterranean predator far more dangerous than its small size and spindly, rubbery limbs would suggest.
@@ -32,6 +32,7 @@ Chokers tend to set their ambushes alone, rather than working in concert, but wh
 "type": "aberration"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "16"
+"ac_class": "natural armor"
 "hp": !!int "13"
 "hit_dice": "3d6 + 3"
 "stats":
@@ -59,9 +60,9 @@ Chokers tend to set their ambushes alone, rather than working in concert, but wh
 "actions":
 - "desc": "The choker makes two Tentacle attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) piercing damage. If the target is a Large\
-    \ or smaller creature, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 10 ft., one target.\
+    \ Hit: dice:1d4 + 3|text(5) (1d4 + 3) piercing damage. If the target is\
+    \ a Large or smaller creature, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ (escape DC 15). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
     \ and the choker can't use this tentacle on another target. The choker has two\
     \ tentacles. If this attack is a critical hit, the target also can't breathe or\

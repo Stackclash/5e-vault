@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Hell Hound
 ---
-# [[5. Mechanics\Bestiary\Fiend\Hell Hound.md|Hell Hound]]
+# [[5. Mechanics/Bestiary/Fiend/Hell Hound.md|Hell Hound]]
 *Source: Monster Manual p. 182, Curse of Strahd. Available in the SRD and the Basic Rules.*
 
 Monstrous, fire-breathing fiends that take the form of powerful dogs, hell hounds are found on the battlefields of Acheron and throughout the Lower Planes. On the Material Plane, hell hounds are most commonly seen in service to devils, fire giants, and other evil creatures that use them as guard animals and companions.
@@ -33,6 +33,7 @@ Hell hounds are smarter than mundane beasts, and their lawful nature makes them 
 "type": "fiend"
 "alignment": "Lawful Evil"
 "ac": !!int "15"
+"ac_class": "natural armor"
 "hp": !!int "45"
 "hit_dice": "7d8 + 14"
 "stats":
@@ -58,13 +59,13 @@ Hell hounds are smarter than mundane beasts, and their lawful nature makes them 
     \ [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
   "name": "Pack Tactics"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) piercing damage plus dice: 2d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 3|text(7) (1d8 + 3) piercing damage plus dice:2d6|text(7)\
     \ (2d6) fire damage."
   "name": "Bite"
 - "desc": "The hound exhales fire in a 15-foot cone. Each creature in that area must\
-    \ make a DC 12 Dexterity saving throw, taking dice: 6d6|avg (6d6) fire damage\
-    \ on a failed save, or half as much damage on a successful one."
+    \ make a DC 12 Dexterity saving throw, taking dice:6d6|text(21) (6d6) fire\
+    \ damage on a failed save, or half as much damage on a successful one."
   "name": "Fire Breath (Recharge 5-6)"
 "source":
 - "MM"

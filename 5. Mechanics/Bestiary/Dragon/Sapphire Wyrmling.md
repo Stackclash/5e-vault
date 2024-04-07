@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Sapphire Wyrmling
 ---
-# [[5. Mechanics\Bestiary\Dragon\Sapphire Wyrmling.md|Sapphire Wyrmling]]
+# [[5. Mechanics/Bestiary/Dragon/Sapphire Wyrmling.md|Sapphire Wyrmling]]
 *Source: Strongholds and Followers p. 215*
 
 Eldest, first, the sapphire dragons inspire awe in any who see them. They guard the knowledge of past and future and the power that lets one shift between them. They approve of the dwarves, who imposed the rigid rules of causality on the world, and consider the remnant domains of the elves, the wodes, as a danger. Not a threat per se, because they know it is in the elves' nature to ignore past and future, but when mortals exploit this or discover the means to move through time, or summon creatures from the past and future, then the sapphire dragons get riled up.
@@ -25,6 +25,7 @@ Being oldest, they are also the most reserved, taciturn. Even the young sapphire
 "type": "dragon"
 "alignment": "Neutral"
 "ac": !!int "18"
+"ac_class": "natural armor"
 "hp": !!int "55"
 "hit_dice": "10d8 + 10"
 "stats":
@@ -49,7 +50,8 @@ Being oldest, they are also the most reserved, taciturn. Even the young sapphire
 "cr": "4"
 "traits":
 - "desc": ". . [[/5. Mechanics/Rules/Variant Rules/Gemstone Dragon Psionics.md|Gemstone Dragon Psionics]].\
-    \ Charges: 10 • Recharge: dice: 1d4|avg (1d4) • Fracture: 9"
+    \ Charges: 10 • Recharge: dice: 1d4|avg|noform (1d4) • Fracture:\
+    \ 9"
   "name": ""
 - "desc": "All creatures within 30 feet must make a DC 13 Charisma saving throw in\
     \ order to attack this dragon. On a failed save, the attacking creature's turn\
@@ -57,8 +59,8 @@ Being oldest, they are also the most reserved, taciturn. Even the young sapphire
     \ gemstone dragons for 1 week."
   "name": "Awe Aura"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d10 + 2|avg (1d10 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d10 + 2|text(7) (1d10 + 2) piercing damage."
   "name": "Bite"
 "source":
 - "SaF"

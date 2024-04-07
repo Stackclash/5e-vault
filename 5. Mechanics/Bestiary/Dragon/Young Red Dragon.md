@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Young Red Dragon
 ---
-# [[5. Mechanics\Bestiary\Dragon\Young Red Dragon.md|Young Red Dragon]]
+# [[5. Mechanics/Bestiary/Dragon/Young Red Dragon.md|Young Red Dragon]]
 *Source: Monster Manual p. 98. Available in the SRD.*
 
 The most covetous of the true dragons, red dragons tirelessly seek to increase their treasure hoards. They are exceptionally vain, even for dragons, and their conceit is reflected in their proud bearing and their disdain for other creatures. The odor of sulfur and pumice surrounds a red dragon, whose swept-back horns and spinal frill define its silhouette. Its beaked snout vents smoke at all times, and its eyes dance with flame when it is angry. Its wings are the longest of any chromatic dragon, and have a blue-black tint along the trailing edge that resembles metal burned blue by fire.
@@ -99,6 +99,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 "type": "dragon"
 "alignment": "Chaotic Evil"
 "ac": !!int "18"
+"ac_class": "natural armor"
 "hp": !!int "178"
 "hit_dice": "17d10 + 85"
 "stats":
@@ -124,16 +125,16 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 "actions":
 - "desc": "The dragon makes three attacks: one with its bite and two with its claws."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d10 + 6|avg (2d10 + 6) piercing damage plus dice: 1d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+10 (+10) to hit, reach 10 ft., one\
+    \ target. Hit: dice:2d10 + 6|text(17) (2d10 + 6) piercing damage plus dice:1d6|text(3)\
     \ (1d6) fire damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 6|avg (2d6 + 6) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+10 (+10) to hit, reach 5 ft., one\
+    \ target. Hit: dice:2d6 + 6|text(13) (2d6 + 6) slashing damage."
   "name": "Claw"
 - "desc": "The dragon exhales fire in a 30-foot cone. Each creature in that area must\
-    \ make a DC 17 Dexterity saving throw, taking dice: 16d6|avg (16d6) fire damage\
-    \ on a failed save, or half as much damage on a successful one."
+    \ make a DC 17 Dexterity saving throw, taking dice:16d6|text(56) (16d6) fire\
+    \ damage on a failed save, or half as much damage on a successful one."
   "name": "Fire Breath (Recharge 5-6)"
 "source":
 - "MM"

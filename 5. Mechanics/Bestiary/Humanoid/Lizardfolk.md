@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Lizardfolk
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Lizardfolk.md|Lizardfolk]]
+# [[5. Mechanics/Bestiary/Humanoid/Lizardfolk.md|Lizardfolk]]
 *Source: Monster Manual p. 204, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*
 
 Lizardfolk are primitive reptilian humanoids that lurk in the swamps and jungles of the world. Their hut villages thrive in forbidding grottos, half-sunken ruins, and watery caverns.
@@ -59,6 +59,7 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
 "subtype": "lizardfolk"
 "alignment": "Neutral"
 "ac": !!int "15"
+"ac_class": "natural armor, [[5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "22"
 "hit_dice": "4d8 + 4"
 "stats":
@@ -82,18 +83,18 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
 "actions":
 - "desc": "The lizardfolk makes two melee attacks, each one with a different weapon."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 2|text(5) (1d6 + 2) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 2|text(5) (1d6 + 2) bludgeoning damage."
   "name": "Heavy Club"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft.\
-    \ or range 30/120 ft., one target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing\
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft.\
+    \ or range 30/120 ft., one target. Hit: dice:1d6 + 2|text(5) (1d6 + 2) piercing\
     \ damage."
   "name": "Javelin"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 2|text(5) (1d6 + 2) piercing damage."
   "name": "Spiked Shield"
 "source":
 - "MM"

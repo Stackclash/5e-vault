@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Drow House Captain
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Drow House Captain.md|Drow House Captain]]
+# [[5. Mechanics/Bestiary/Humanoid/Drow House Captain.md|Drow House Captain]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 101, Mordenkainen's Tome of Foes p. 184*
 
 > [!quote]- A quote from Tasha  
@@ -29,6 +29,7 @@ Among Lolth's devotees in the city of Menzoberranzan in the Forgotten Realms, ea
 "subtype": "elf"
 "alignment": "Any alignment"
 "ac": !!int "16"
+"ac_class": "[[5. Mechanics/Items/Chain Mail.md|chain mail]]"
 "hp": !!int "162"
 "hit_dice": "25d8 + 50"
 "stats":
@@ -66,16 +67,16 @@ Among Lolth's devotees in the city of Menzoberranzan in the Forgotten Realms, ea
 "actions":
 - "desc": "The drow makes two Scimitar attacks and one Whip or Hand Crossbow attack."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 4|avg (1d6 + 4) slashing damage plus dice: 4d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 4|text(7) (1d6 + 4) slashing damage plus dice:4d6|text(14)\
     \ (4d6) poison damage."
   "name": "Scimitar"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 1d4 + 4|avg (1d4 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 10 ft., one target.\
+    \ Hit: dice:1d4 + 4|text(6) (1d4 + 4) slashing damage."
   "name": "Whip"
-- "desc": "Ranged Weapon Attack: dice: d20+8 (+8 to hit), range 30/120 ft., one\
-    \ target. Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing damage, and the target\
-    \ must succeed on a DC 13 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+- "desc": "Ranged Weapon Attack: dice: d20+8 (+8) to hit, range 30/120 ft.,\
+    \ one target. Hit: dice:1d6 + 4|text(7) (1d6 + 4) piercing damage, and the\
+    \ target must succeed on a DC 13 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
     \ for 1 hour. If the saving throw fails by 5 or more, the target is also [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]\
     \ while [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in this way. The\
     \ target regains consciousness if it takes damage or if another creature takes\

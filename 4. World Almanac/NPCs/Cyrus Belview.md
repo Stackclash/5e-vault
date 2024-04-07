@@ -123,6 +123,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 "subtype": "mongrelfolk"
 "alignment": "Any alignment"
 "ac": !!int "11"
+"ac_class": "natural armor"
 "hp": !!int "26"
 "hit_dice": "4d8 + 8"
 "stats":
@@ -151,14 +152,14 @@ await dv.view("npcRelationships", { current: dv.current() })
 "actions":
 - "desc": "Cyrus makes two attacks: one with its bite and one with its claw or dagger."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 1|avg (1d4 + 1) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d4 + 1|text(3) (1d4 + 1) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 1|avg (1d4 + 1) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d4 + 1|text(3) (1d4 + 1) slashing damage."
   "name": "Claw"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 1d4 + 1|avg (1d4 + 1) piercing\
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: dice:1d4 + 1|text(3) (1d4 + 1) piercing\
     \ damage."
   "name": "Dagger"
 "source":

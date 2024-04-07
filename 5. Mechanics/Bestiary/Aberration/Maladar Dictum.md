@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Maladar Dictum
 ---
-# [[5. Mechanics\Bestiary\Aberration\Maladar Dictum.md|Maladar Dictum]]
+# [[5. Mechanics/Bestiary/Aberration/Maladar Dictum.md|Maladar Dictum]]
 *Source: Strongholds and Followers p. 175*
 
 Currently one of the Dukes of Chaos, Lord Dictum serves the Red Queen. He is ambitious and plans to replace both the King and Queen...but so do all the Dukes and Duchesses of Chaos. For now, Dictum bides his time and waits.
@@ -33,6 +33,7 @@ If you really want to see things get out of control very quickly, watch Maladar 
 "type": "aberration"
 "alignment": "Chaotic"
 "ac": !!int "20"
+"ac_class": "[[5. Mechanics/Items/Plate Armor.md|plate armor]], [[5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "210"
 "hit_dice": "20d12 + 80"
 "stats":
@@ -67,22 +68,22 @@ If you really want to see things get out of control very quickly, watch Maladar 
 - "desc": "Maladar is immune to any spell or effect that would alter his form."
   "name": "Formless Shape"
 - "desc": "Each time Maladar takes damage in combat, his arm grows another limb, increasing\
-    \ the damage of his Smash attack by dice: 1d8|avg (1d8). There is no limit\
-    \ to the number of limbs, tentacles, and claws Maladar can grow this way."
+    \ the damage of his Smash attack by dice: 1d8|avg|noform (1d8). There is no\
+    \ limit to the number of limbs, tentacles, and claws Maladar can grow this way."
   "name": "Reform"
 "actions":
 - "desc": "Maladar makes two attacks with Changer plus one smash attack."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 5|avg (2d6 + 5) slashing damage plus dice: 2d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 5|text(12) (2d6 + 5) slashing damage plus dice:2d6|text(7)\
     \ (2d6) necrotic damage."
   "name": "Changer (Greatsword)"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d8 + 5|avg (2d8 + 5) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 10 ft., one target.\
+    \ Hit: dice:2d8 + 5|text(14) (2d8 + 5) bludgeoning damage."
   "name": "Smash"
 - "desc": "Maladar Dictum has a 50% chance of summoning a member of his court in an\
-    \ adjacent unoccupied space. If successful, roll a dice: d12|avg (d12) and\
-    \ consult the below chart. Each member of his court may only be summoned once\
+    \ adjacent unoccupied space. If successful, roll a dice: d12|avg|noform (d12)\
+    \ and consult the below chart. Each member of his court may only be summoned once\
     \ per day in this manner. If the same member is summoned twice, nothing happens.\n\
     \ndice: [[Maladar Dictum.md#^member-summoned]]\n\n| dice: d12 | Member Summoned\
     \ |\n|-----------|-----------------|\n| 1-4 | [[4. World Almanac/NPCs/Baron Malgas.md|Baron Malgas]]\

@@ -19,7 +19,7 @@ statblock: inline
 aliases:
   - Kobold
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Kobold.md|Kobold]]
+# [[5. Mechanics/Bestiary/Humanoid/Kobold.md|Kobold]]
 *Source: Monster Manual p. 195, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*
 
 Kobolds are craven reptilian humanoids that worship evil dragons as demigods and serve them as minions and toadies. Kobolds inhabit dragons' lairs when they can but more commonly infest dungeons, gathering treasures and trinkets to add to their own tiny hoards.
@@ -66,11 +66,11 @@ In addition to the dragons they revere, kobolds worship a lesser god named Kurtu
     \ [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
   "name": "Pack Tactics"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d4 + 2|text(4) (1d4 + 2) piercing damage."
   "name": "Dagger"
-- "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 30/120 ft., one\
-    \ target. Hit: dice: 1d4 + 2|avg (1d4 + 2) bludgeoning damage."
+- "desc": "Ranged Weapon Attack: dice: d20+4 (+4) to hit, range 30/120 ft.,\
+    \ one target. Hit: dice:1d4 + 2|text(4) (1d4 + 2) bludgeoning damage."
   "name": "Sling"
 "source":
 - "MM"

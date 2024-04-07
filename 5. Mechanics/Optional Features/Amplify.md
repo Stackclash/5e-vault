@@ -15,4 +15,4 @@ aliases:
 - **Range:** Self  
 - **Charges:** 4  
 
-The dragon focuses the power of its mind and wreaths its teeth, claws, and tail in glowing psionic force. For the next minute, all of its melee attacks deal an extra `dice: 3d8|avg` (`3d8`) psychic damage.
+The dragon focuses the power of its mind and wreaths its teeth, claws, and tail in glowing psionic force. For the next minute, all of its melee attacks deal an extra `dice: 3d8|avg|noform` (`3d8`) psychic damage.

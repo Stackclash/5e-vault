@@ -15,6 +15,6 @@ aliases:
 
 - **Properties**: Crafted by
 
-While wearing and attuned to this amulet, your Intelligence score increases by 2, as does your maximum for that score. In addition, any attempt to [[/5. Mechanics/Rules/Conditions.md#charmed\|charm]] you or read your thoughts without your permission fails, and the creature attempting to do so suffers `dice: 2d8|avg` (`2d8`) psychic damage.
+While wearing and attuned to this amulet, your Intelligence score increases by 2, as does your maximum for that score. In addition, any attempt to [[/5. Mechanics/Rules/Conditions.md#charmed\|charm]] you or read your thoughts without your permission fails, and the creature attempting to do so suffers `dice: 2d8|avg|noform` (`2d8`) psychic damage.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 81*

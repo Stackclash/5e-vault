@@ -26,7 +26,7 @@ Suffused with confidence born of a righteous victory, Markovia advanced on Castl
 
 The essence of Markovia's saintliness passed partly into her bones as the rest of her body decomposed. Her remaining thighbone is imbued with power that inflicts grievous injury on the undead.
 
-[[5. Mechanics/Items/Mace Of Disruption.md\|Mace of Disruption]]. When you hit a fiend or an undead with this magic weapon, that creature takes an extra `dice: 2d6|avg` (`2d6`) radiant damage. If the target has 25 hit points or fewer after taking this damage, it must succeed on a DC 15 Wisdom saving throw or be destroyed. On a successful save, the creature becomes [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] of you until the end of your next turn.
+[[5. Mechanics/Items/Mace Of Disruption.md\|Mace of Disruption]]. When you hit a fiend or an undead with this magic weapon, that creature takes an extra `dice: 2d6|avg|noform` (`2d6`) radiant damage. If the target has 25 hit points or fewer after taking this damage, it must succeed on a DC 15 Wisdom saving throw or be destroyed. On a successful save, the creature becomes [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] of you until the end of your next turn.
 
 While you hold this weapon, it sheds bright light in a 20-foot radius and dim light for an additional 20 feet.
 

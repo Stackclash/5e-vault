@@ -19,7 +19,6 @@ aliases:
   - Cure Wounds
 ---
 # Cure Wounds
-%%-- Embedded content starts on the next line. --%%
 *1st-level, Evocation*  
 
 - **Casting time:** 1 action
@@ -27,9 +26,9 @@ aliases:
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-A creature you touch regains a number of hit points equal to `dice: 1d8|avg` (`1d8`) + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+A creature you touch regains a number of hit points equal to `dice: 1d8|avg|noform` (`1d8`) + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the healing increases by `1d8` for each slot level above 1st.
 
 **Classes**: [[5. Mechanics/Classes/Artificer.md\|Artificer]], [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Cleric Life Domain.md\|Cleric (Life Domain)]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Druid Circle Of Wildfire.md\|Druid (Circle of Wildfire)]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Paladin.md\|Paladin]], [[5. Mechanics/Classes/Ranger.md\|Ranger]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Warlock The Celestial.md\|Warlock (The Celestial)]]
 

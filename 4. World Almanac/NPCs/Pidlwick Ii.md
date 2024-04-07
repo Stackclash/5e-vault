@@ -148,6 +148,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 "type": "construct"
 "alignment": "Neutral Evil"
 "ac": !!int "14"
+"ac_class": "natural armor"
 "hp": !!int "10"
 "hit_dice": "3d6"
 "stats":
@@ -171,11 +172,11 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ against any creature that hasn't had a turn yet."
   "name": "Ambusher"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4|avg (1d4) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+2 (+2) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d4|text(2) (1d4) bludgeoning damage."
   "name": "Club"
-- "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 20/60 ft., one\
-    \ target. Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+4 (+4) to hit, range 20/60 ft., one\
+    \ target. Hit: dice:1d4 + 2|text(4) (1d4 + 2) piercing damage."
   "name": "Dart"
 "source":
 - "CoS"

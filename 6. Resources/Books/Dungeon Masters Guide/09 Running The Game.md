@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Running the Game"]
+  - compendium/src/5e/dmg
+aliases:
+  - Running the Game
 ---
 # Running the Game
 *Source: Dungeon Master's Guide, p. 235* 
@@ -159,19 +160,19 @@ Other times, a situation arises that clearly calls for a saving throw, especiall
 
 It's your job to establish the Difficulty Class for an ability check or a saving throw when a rule or an adventure doesn't give you one. Sometimes you'll even want to change such established DCs. When you do so, think of how difficult a task is and then pick the associated DC from the Typical DCs table.
 
-![Difficulty Class; Typical DCs](compendium/tables/difficulty-class-typical-dcs.md)
+![[5. Mechanics/Tables/Difficulty Class Typical Dcs.md\|Difficulty Class; Typical DCs]]
 
 The numbers associated with these categories of difficulty are meant to be easy to keep in your head, so that you don't have to refer to this book every time you decide on a DC. Here are some tips for using DC categories at the gaming table.
 
 If you've decided that an ability check is called for, then most likely the task at hand isn't a very easy one. Most people can accomplish a DC 5 task with little chance of failure. Unless circumstances are unusual, let characters succeed at such a task without making a check.
 
-Then ask yourself, "Is this task's difficulty easy, moderate, or hard?" If the only DCs you ever use are 10, 15, and 20, your game will run just fine. Keep in mind that a character with a 10 in the associated ability and no proficiency will succeed at an easy task around 50 percent of the time. A moderate task requires a higher score or proficiency for success, whereas a hard task typically requires both. A big dose of luck with the `dice: d20|avg` (`d20`) also doesn't hurt.
+Then ask yourself, "Is this task's difficulty easy, moderate, or hard?" If the only DCs you ever use are 10, 15, and 20, your game will run just fine. Keep in mind that a character with a 10 in the associated ability and no proficiency will succeed at an easy task around 50 percent of the time. A moderate task requires a higher score or proficiency for success, whereas a hard task typically requires both. A big dose of luck with the `dice: d20|avg|noform` (`d20`) also doesn't hurt.
 
 If you find yourself thinking, "This task is especially hard," you can use a higher DC, but do so with caution and consider the level of the characters. A DC 25 task is very hard for low-level characters to accomplish, but it becomes more reasonable after 10th level or so. A DC 30 check is nearly impossible for most low-level characters. A 20th-level character with proficiency and a relevant ability score of 20 still needs a 19 or 20 on the die roll to succeed at a task of this difficulty.
 
 #### Variant: Automatic Success
 
-Sometimes the randomness of a `dice: d20|avg` (`d20`) roll leads to ludicrous results. Let's say a door requires a DC 15 Strength check to batter down. A fighter with Strength 20 might helplessly flail against the door due to bad die rolls. Meanwhile, the rogue with a 10 Strength rolls a natural 20 on her first check and knocks the door from its hinges.
+Sometimes the randomness of a `dice: d20|avg|noform` (`d20`) roll leads to ludicrous results. Let's say a door requires a DC 15 Strength check to batter down. A fighter with Strength 20 might helplessly flail against the door due to bad die rolls. Meanwhile, the rogue with a 10 Strength rolls a natural 20 on her first check and knocks the door from its hinges.
 
 If such results bother you, allow automatic success on checks for characters with high ability scores. Under this optional rule, a character automatically succeeds on any ability check with a DC less than or equal to the relevant ability score minus 5. So in the above example, the fighter would automatically kick in the door. This rule doesn't apply to contests, saving throws, or attack rolls.
 
@@ -248,7 +249,7 @@ Take into account each player's roleplaying style, and try not to favor one styl
 
 You can use inspiration to encourage player characters to take risks. A fighter might not normally hurl himself over a balcony to land in the midst of a pack of hungry ghouls, but you can reward the character's daring maneuver with inspiration. Such a reward tells the players that you want them to embrace swashbuckling action.
 
-This approach is great for campaigns that emphasize action-packed heroics. For such campaigns, consider allowing inspiration to be spent after a `dice: d20|avg` (`d20`) roll, rather than before. This approach turns inspiration into a cushion against failure-and a guarantee that it comes into play only when a player is faced directly by failure. Such an assurance makes risky tactics less daunting.
+This approach is great for campaigns that emphasize action-packed heroics. For such campaigns, consider allowing inspiration to be spent after a `dice: d20|avg|noform` (`d20`) roll, rather than before. This approach turns inspiration into a cushion against failure-and a guarantee that it comes into play only when a player is faced directly by failure. Such an assurance makes risky tactics less daunting.
 
 ##### A Reward for Victory
 
@@ -282,7 +283,7 @@ Start with awarding inspiration after an action, especially for your first campa
 
 #### Tracking Inspiration
 
-A player typically notes on a character sheet whether he or she has inspiration, or you can use poker chips or some other token Alternatively, you can hand out special `dice: d20|avg` (`d20`)s to represent inspiration. When a player spends inspiration, he or she rolls the die and then hands it back to you. If the player instead gives the inspiration to someone else, the `dice: d20|avg` (`d20`) can go to that other person.
+A player typically notes on a character sheet whether he or she has inspiration, or you can use poker chips or some other token Alternatively, you can hand out special `dice: d20|avg|noform` (`d20`)s to represent inspiration. When a player spends inspiration, he or she rolls the die and then hands it back to you. If the player instead gives the inspiration to someone else, the `dice: d20|avg|noform` (`d20`) can go to that other person.
 
 #### Ignoring Inspiration
 
@@ -341,7 +342,7 @@ Whatever environment the adventurers are exploring, you can use a map to follow 
 
 The Map Travel Pace table helps you track travel on maps of different scales. The table shows how much distance on a map the adventurers can cover on foot in minutes, hours, or days. The table uses the travel paces-slow, normal, and fast-described in the Player's Handbook. Characters moving at a normal pace can walk about 24 miles in a day.
 
-![Using a Map; Map Travel Pace](compendium/tables/using-a-map-map-travel-pace.md)
+![[5. Mechanics/Tables/Using A Map Map Travel Pace.md\|Using a Map; Map Travel Pace]]
 
 ### Special Travel Pace
 
@@ -616,7 +617,7 @@ You might also try keeping a supply of index cards on hand, marked with conditio
 
 ### Monsters and Critical Hits
 
-A monster follows the same rule for critical hits as a player character. That said, if you use a monster's average damage, rather than rolling, you might wonder how to handle a critical hit. When the monster scores a critical hit, roll all the damage dice associated with the hit and add them to the average damage. For example, if a goblin normally deals `dice: 1d6 + 2|avg` (`1d6 + 2`) slashing damage on a hit and scores a critical hit, it deals `dice: 1d6 + 5|avg` (`1d6 + 5`) slashing damage.
+A monster follows the same rule for critical hits as a player character. That said, if you use a monster's average damage, rather than rolling, you might wonder how to handle a critical hit. When the monster scores a critical hit, roll all the damage dice associated with the hit and add them to the average damage. For example, if a goblin normally deals `dice:1d6 + 2|text(5)` (`1d6 + 2`) slashing damage on a hit and scores a critical hit, it deals `dice: 1d6 + 5|avg|noform` (`1d6 + 5`) slashing damage.
 
 ### Improvising Damage
 
@@ -626,7 +627,7 @@ A monster or effect typically specifies the amount of damage it deals. In some c
 
 The Damage Severity and Level table is a guide to how deadly these damage numbers are for characters of various levels. Cross-reference a character's level with the damage being dealt to gauge the severity of the damage.
 
-![Improvising Damage; Damage Severity and Level](compendium/tables/improvising-damage-damage-severity-and-level.md)
+![[5. Mechanics/Tables/Improvising Damage Damage Severity And Level.md\|Improvising Damage; Damage Severity and Level]]
 
 Damage sufficient to cause a **setback** rarely poses a risk of death to characters of the level shown, but a severely weakened character might be laid low by this damage.
 
@@ -640,9 +641,9 @@ Many spells and other game features create areas of effect, such as the cone and
 
 If you would like more guidance, consider using the Targets in Areas of Effect table. To use the table, imagine which combatants are near one another, and let the table guide you in determining the number of those combatants that are caught in an area of effect.
 
-Add or subtract targets based on how bunched up the potential targets are. Consider rolling `dice: 1d3|avg` (`1d3`) to determine the amount to add or subtract.
+Add or subtract targets based on how bunched up the potential targets are. Consider rolling `dice: 1d3|avg|noform` (`1d3`) to determine the amount to add or subtract.
 
-![Adjudicating Areas of Effect; Targets in Areas of Effect](compendium/tables/adjudicating-areas-of-effect-targets-in-areas-of-effect.md)
+![[5. Mechanics/Tables/Adjudicating Areas Of Effect Targets In Areas Of Effect.md\|Adjudicating Areas of Effect; Targets in Areas of Effect]]
 
 For example, if a wizard directs burning hands (a 15-foot cone) at a nearby group of orcs, you could use the table and say that two orcs are targeted (15 ÷ 10 = 1.5, rounded up to 2). Similarly, a sorcerer could launch a lightning bolt (100-foot line) at some ogres and hobgoblins, and you could use the table to say four of the monsters are targeted (100 ÷ 30 = 3.33, rounded up to 4).
 
@@ -652,9 +653,9 @@ This approach aims at simplicity instead of spatial precision. If you prefer mor
 
 Keeping combat moving along at a brisk pace can be difficult when there are dozens of monsters involved in a battle. When handling a crowded battlefield, you can speed up play by forgoing attack rolls in favor of approximating the average number of hits a large group of monsters can inflict on a target.
 
-Instead of rolling an attack roll, determine the minimum `dice: d20|avg` (`d20`) roll a creature needs in order to hit a target by subtracting its attack bonus from the target's AC. You'll need to refer to the result throughout the battle, so it's best to write it down.
+Instead of rolling an attack roll, determine the minimum `dice: d20|avg|noform` (`d20`) roll a creature needs in order to hit a target by subtracting its attack bonus from the target's AC. You'll need to refer to the result throughout the battle, so it's best to write it down.
 
-Look up the minimum `dice: d20|avg` (`d20`) roll needed on the Mob Attacks table. The table shows you how many creatures that need that die roll or higher must attack a target in order for one of them to hit. If that many creatures attack the target, their combined efforts result in one of them hitting the target.
+Look up the minimum `dice: d20|avg|noform` (`d20`) roll needed on the Mob Attacks table. The table shows you how many creatures that need that die roll or higher must attack a target in order for one of them to hit. If that many creatures attack the target, their combined efforts result in one of them hitting the target.
 
 For example, eight orcs surround a fighter. The orcs' attack bonus is +5, and the fighter's AC is 19. The orcs need a 14 or higher to hit the fighter. According to the table, for every three orcs that attack the fighter, one of them hits. There are enough orcs for two groups of three. The remaining two orcs fail to hit the fighter.
 
@@ -662,7 +663,7 @@ If the attacking creatures deal different amounts of damage, assume that the cre
 
 This attack resolution system ignores critical hits in favor of reducing the number of die rolls. As the number of combatants dwindles, switch back to using individual die rolls to avoid situations where one side can't possibly hit the other.
 
-![Handling Mobs; Mob Attacks](compendium/tables/handling-mobs-mob-attacks.md)
+![[5. Mechanics/Tables/Handling Mobs Mob Attacks.md\|Handling Mobs; Mob Attacks]]
 
 ### Using Miniatures
 
@@ -680,7 +681,7 @@ The most common unit for tactical maps is the 5-foot square, and maps with grids
 
 A creature's size determines how much space it occupies on squares or hexes, as shown in the Creature Size and Space table. If the miniature you use for a monster takes up an amount of space different from what's on the table, that's fine, but treat the monster as its official size for all other rules. For example, you might use a miniature that has a Large base to represent a Huge giant. The giant takes up less space on the battlefield than its size suggests, but it is still Huge for the purposes of rules like grappling.
 
-![Creature Size on Squares and Hexes; Creature Size and Space](compendium/tables/creature-size-on-squares-and-hexes-creature-size-and-space.md)
+![[5. Mechanics/Tables/Creature Size On Squares And Hexes Creature Size And Space.md\|Creature Size on Squares and Hexes; Creature Size and Space]]
 
 ![[6. Resources/Books/Dungeon Masters Guide/img/monster_size_chart.webp#center]]
 
@@ -794,7 +795,7 @@ If the quarry is never out of the lead pursuer's sight, the check fails automati
 
 The quarry gains advantage or disadvantage on its check based on prevailing circumstances, as shown in the Escape Factors table. If one or more factors give the quarry both advantage and disadvantage on its check, the quarry has neither, as usual.
 
-![Ending a Chase; Escape Factors](compendium/tables/ending-a-chase-escape-factors.md)
+![[5. Mechanics/Tables/Ending A Chase Escape Factors.md\|Ending a Chase; Escape Factors]]
 
 Other factors might help or hinder the quarry's ability to escape, at your discretion. For example, a quarry with a faerie fire spell cast on it might have disadvantage on checks made to escape because it's much easier to spot.
 
@@ -802,7 +803,7 @@ Escape doesn't necessarily mean the quarry has outpaced its pursuers. For exampl
 
 ### Chase Complications
 
-As with any good chase scene, complications can arise to make a chase more pulse-pounding. The Urban Chase Complications table and the Wilderness Chase Complications table provide several examples. Complications occur randomly. Each participant in the chase rolls a `dice: d20|avg` (`d20`) at the end of its turn. Consult the appropriate table to determine whether a complication occurs. If it does, it affects the next chase participant in the initiative order, not the participant who rolled the die. The participant who rolled the die or the participant affected by the complication can spend inspiration to negate the complication.
+As with any good chase scene, complications can arise to make a chase more pulse-pounding. The Urban Chase Complications table and the Wilderness Chase Complications table provide several examples. Complications occur randomly. Each participant in the chase rolls a `dice: d20|avg|noform` (`d20`) at the end of its turn. Consult the appropriate table to determine whether a complication occurs. If it does, it affects the next chase participant in the initiative order, not the participant who rolled the die. The participant who rolled the die or the participant affected by the complication can spend inspiration to negate the complication.
 
 Characters can create their own complications to shake off pursuers (for example, casting the web spell in a narrow alleyway). Adjudicate these as you see fit.
 
@@ -911,7 +912,7 @@ The Poisons table gives suggested prices for single doses of various poisons.
 
 During downtime between adventures, a character can use the crafting rules in the Player's Handbook to create basic poison if the character has proficiency with a [[5. Mechanics/Items/Poisoners Kit.md\|poisoner's kit]]. At your discretion, the character can craft other kinds of poison. Not all poison ingredients are available for purchase, and tracking down certain ingredients might form the basis of an entire adventure.
 
-A character can instead attempt to harvest poison from a poisonous creature, such as a snake, wyvern, or carrion crawler. The creature must be incapacitated or dead, and the harvesting requires `dice: 1d6|avg` (`1d6`) minutes followed by a DC 20 Intelligence ([[/5. Mechanics/Rules/Skills.md#Nature\|Nature]]) check. (Proficiency with the [[5. Mechanics/Items/Poisoners Kit.md\|poisoner's kit]] applies to this check if the character doesn't have proficiency in Nature.) On a successful check, the character harvests enough poison for a single dose. On a failed check, the character is unable to extract any poison. If the character fails the check by 5 or more, the character is subjected to the creature's poison.
+A character can instead attempt to harvest poison from a poisonous creature, such as a snake, wyvern, or carrion crawler. The creature must be incapacitated or dead, and the harvesting requires `dice: 1d6|avg|noform` (`1d6`) minutes followed by a DC 20 Intelligence ([[/5. Mechanics/Rules/Skills.md#Nature\|Nature]]) check. (Proficiency with the [[5. Mechanics/Items/Poisoners Kit.md\|poisoner's kit]] applies to this check if the character doesn't have proficiency in Nature.) On a successful check, the character harvests enough poison for a single dose. On a failed check, the character is unable to extract any poison. If the character fails the check by 5 or more, the character is subjected to the creature's poison.
 
 ## Madness
 
@@ -927,7 +928,7 @@ Resisting a madness-inducing effect usually requires a Wisdom or Charisma saving
 
 Madness can be short-term, long-term, or indefinite. Most relatively mundane effects impose short-term madness, which lasts for just a few minutes. More horrific effects or cumulative effects can result in long-term or indefinite madness.
 
-A character afflicted with **short-term madness** is subjected to an effect from the Short-Term Madness table for `dice: 1d10|avg` (`1d10`) minutes.
+A character afflicted with **short-term madness** is subjected to an effect from the Short-Term Madness table for `dice: 1d10|avg|noform` (`1d10`) minutes.
 
 A character afflicted with **long-term madness** is subjected to an effect from the Long-Term Madness table for `1d10 × 10` hours.
 

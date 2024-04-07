@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Drow Shadowblade
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Drow Shadowblade.md|Drow Shadowblade]]
+# [[5. Mechanics/Bestiary/Humanoid/Drow Shadowblade.md|Drow Shadowblade]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 105, Mordenkainen's Tome of Foes p. 187*
 
 Drow shadowblades steal down the dim passages of the Underdark, bound on errands of mayhem. They protect enclaves and Underdark cities from enemies and track down thieves who make off with prized treasures. In the city of Menzoberranzan in the Forgotten Realms, noble houses often employ shadowblades to eliminate rivals from other houses. In communities free of Lolth's sway, they serve as spies tasked with foiling the plots of that demon lord's cult. In any role they take on, they move undetected until the moment they attack—and then they are the last thing their victims see.
@@ -25,6 +25,7 @@ A shadowblade gains their powers over shadow via a ritual in which they kill a s
 "subtype": "elf"
 "alignment": "Any alignment"
 "ac": !!int "17"
+"ac_class": "[[5. Mechanics/Items/Studded Leather Armor.md|studded leather]]"
 "hp": !!int "150"
 "hit_dice": "20d8 + 60"
 "stats":
@@ -65,13 +66,13 @@ A shadowblade gains their powers over shadow via a ritual in which they kill a s
 - "desc": "The drow makes three Shadow Sword attacks. One of the attacks can be replaced\
     \ by a Hand Crossbow attack. The drow can also use Spellcasting to cast darkness."
   "name": "Multiattack"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft.\
-    \ or range 30/60 ft., one target. Hit: dice: 7d6 + 5|avg (7d6 + 5) necrotic\
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+9 (+9) to hit, reach 5 ft.\
+    \ or range 30/60 ft., one target. Hit: dice:7d6 + 5|text(27) (7d6 + 5) necrotic\
     \ damage."
   "name": "Shadow Sword"
-- "desc": "Ranged Weapon Attack: dice: d20+9 (+9 to hit), range 30/120 ft., one\
-    \ target. Hit: dice: 1d6 + 5|avg (1d6 + 5) piercing damage, and the target\
-    \ must succeed on a DC 13 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+- "desc": "Ranged Weapon Attack: dice: d20+9 (+9) to hit, range 30/120 ft.,\
+    \ one target. Hit: dice:1d6 + 5|text(8) (1d6 + 5) piercing damage, and the\
+    \ target must succeed on a DC 13 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
     \ for 1 hour. If the saving throw fails by 5 or more, the target is also [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]\
     \ while [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in this way. The\
     \ target regains consciousness if it takes damage or if another creature takes\

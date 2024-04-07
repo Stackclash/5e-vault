@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vgm
-aliases: ["Physical Characteristics; Beholder Eye Color"]
+  - compendium/src/5e/vgm
+aliases:
+  - Physical Characteristics; Beholder Eye Color
 ---
 # Physical Characteristics; Beholder Eye Color
 *Source: Volo's Guide to Monsters p. 8* 
@@ -23,5 +24,5 @@ aliases: ["Physical Characteristics; Beholder Eye Color"]
 | 7 | Pink |
 | 8 | Brown |
 | 9 | Black |
-| 10 | Metallic (roll `dice: d6\|avg` (`d6`) for color) |
+| 10 | Metallic (roll `dice: d6\|avg|noform` (`d6`) for color) |
 ^beholder-eye-color

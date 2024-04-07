@@ -1,27 +1,28 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: null
 condition: healthy
-image:
+image: null
 relationships: []
-tags: 
-aliases: [Faldric the Archer]
-pronounced: 
-race: 
-gender: 
-age: 
+tags: null
+aliases:
+  - Faldric the Archer
+pronounced: null
+race: null
+gender: null
+age: null
 alignment: Lawful Evil
-occupation: 
+occupation: null
 groups: []
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]
@@ -115,6 +116,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 "subtype": "human"
 "alignment": "Lawful Evil"
 "ac": !!int "15"
+"ac_class": "[[5. Mechanics/Items/Studded Leather Armor.md|studded leather armor]]"
 "hp": !!int "44"
 "hit_dice": "8d8 + 8"
 "stats":
@@ -139,11 +141,11 @@ await dv.view("npcRelationships", { current: dv.current() })
 "actions":
 - "desc": "Faldric makes two attacks."
   "name": "Multiattack"
-- "desc": "Ranged Weapon Attack: dice: d20+5 (+5 to hit), range 150/600 ft., one\
-    \ target. Hit: dice: 1d8 + 3|avg (1d8 + 3) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+5 (+5) to hit, range 150/600 ft.,\
+    \ one target. Hit: dice:1d8 + 3|text(7) (1d8 + 3) piercing damage."
   "name": "Longbow"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 3|text(6) (1d6 + 3) piercing damage."
   "name": "Shortsword"
 "reactions":
 - "desc": "When a creature Faldric can see enters a space adjacent to Sir Pelliton,\

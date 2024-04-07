@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Abyssal Wretch
 ---
-# [[5. Mechanics\Bestiary\Fiend\Abyssal Wretch.md|Abyssal Wretch]]
+# [[5. Mechanics/Bestiary/Fiend/Abyssal Wretch.md|Abyssal Wretch]]
 *Source: Mordenkainen's Tome of Foes p. 136*
 
 ```statblock
@@ -38,8 +38,8 @@ aliases:
 "languages": "understands Abyssal but can't speak"
 "cr": "1/4"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 1|avg (1d8 + 1) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 1|text(5) (1d8 + 1) slashing damage."
   "name": "Bite"
 "source":
 - "MTF"

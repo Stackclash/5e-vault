@@ -83,7 +83,7 @@ Now we figure out which of your units will inflict casualties. Use the chart bel
 
 Inflict casualties. Distribute the casualties you suffered among your units according to the Order of Battle: Levies, then Infantry, then Archers, then Cavalry, then Flying.
 
-> Lisa suffered 8 casualties from the necromancer's army. She has to assign them to her levies first, which eliminates her levies (size `dice: 1d8|avg` (`1d8`)). She has assigned all her casualties, lost her levies, but still has the rest of her army.
+> Lisa suffered 8 casualties from the necromancer's army. She has to assign them to her levies first, which eliminates her levies (size `dice: 1d8|avg|noform` (`1d8`)). She has assigned all her casualties, lost her levies, but still has the rest of her army.
 > 
 > The GM takes the 15 casualties Lisa inflicted, and assigns 12 casualties to his levies. He has two levy units, zombies sized 1d8 and skeletons sized 1d10, he assigns 7 casualties to the zombies and 8 casualties to the skeletons. They're both still in the conflict and can absorb more casualties, but because they are now diminished, they no longer contribute to their army's strength total in step one.
 > 
@@ -93,4 +93,4 @@ Inflict casualties. Distribute the casualties you suffered among your units acco
 
 Determine retreats. If an army loses all their infantry, they immediately retreat. If both sides retreat, neither side wins objectives ^[Determined by the GM—for example, why was Lady Mandrake attacking the necromancer?]. Either side can, at this point, choose to retreat and quit the field, granting the opposing side a victory and yielding any objectives. If either side retreats, the battle is over. Otherwise, return to step one, and fight another battle.
 
-![Simple Warfare; Simple Combat Resolution](compendium/tables/simple-warfare-simple-combat-resolution-saf.md)
+![[5. Mechanics/Tables/Simple Warfare Simple Combat Resolution.md\|Simple Warfare; Simple Combat Resolution]]

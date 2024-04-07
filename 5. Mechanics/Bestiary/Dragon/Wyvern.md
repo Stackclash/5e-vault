@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Wyvern
 ---
-# [[5. Mechanics\Bestiary\Dragon\Wyvern.md|Wyvern]]
+# [[5. Mechanics/Bestiary/Dragon/Wyvern.md|Wyvern]]
 *Source: Monster Manual p. 303. Available in the SRD and the Basic Rules.*
 
 Travelers in the wild sometimes look to the skies to see the dark-winged shape of a wyvern carrying its prey. These cousins to the great dragons hunt the same tangled forests and caverns as their kin. Their appearance sends ripples of alarm through the borderlands of civilization.
@@ -39,6 +39,7 @@ A wyvern can be tamed for use as a mount, but doing so presents a difficult and 
 "type": "dragon"
 "alignment": "Unaligned"
 "ac": !!int "13"
+"ac_class": "natural armor"
 "hp": !!int "110"
 "hit_dice": "13d10 + 39"
 "stats":
@@ -58,16 +59,16 @@ A wyvern can be tamed for use as a mount, but doing so presents a difficult and 
 - "desc": "The wyvern makes two attacks: one with its bite and one with its stinger.\
     \ While flying, it can use its claws in place of one other attack."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one creature.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 10 ft., one creature.\
+    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d8 + 4|text(13) (2d8 + 4) slashing damage."
   "name": "Claws"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one creature.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) piercing damage. The target must make\
-    \ a DC 15 Constitution saving throw, taking dice: 7d6|avg (7d6) poison damage\
-    \ on a failed save, or half as much damage on a successful one."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 10 ft., one creature.\
+    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) piercing damage. The target must\
+    \ make a DC 15 Constitution saving throw, taking dice:7d6|text(24) (7d6) poison\
+    \ damage on a failed save, or half as much damage on a successful one."
   "name": "Stinger"
 "source":
 - "MM"

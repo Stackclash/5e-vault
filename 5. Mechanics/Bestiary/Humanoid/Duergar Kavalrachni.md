@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Duergar Kavalrachni
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Duergar Kavalrachni.md|Duergar Kavalrachni]]
+# [[5. Mechanics/Bestiary/Humanoid/Duergar Kavalrachni.md|Duergar Kavalrachni]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 107, Mordenkainen's Tome of Foes p. 189*
 
 Kavalrachni are duergar cavalry trained to fight while riding [[5. Mechanics/Bestiary/Monstrosity/Female Steeder.md|female steeders]] (in this book) or other Underdark creatures as mounts.
@@ -44,6 +44,7 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 "subtype": "dwarf"
 "alignment": "Any alignment"
 "ac": !!int "16"
+"ac_class": "[[5. Mechanics/Items/Scale Mail.md|scale mail]], [[5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "26"
 "hit_dice": "4d8 + 8"
 "stats":
@@ -73,12 +74,12 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 "actions":
 - "desc": "The duergar makes two War Pick attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 2|avg (1d8 + 2) piercing damage plus dice: 2d4|avg\
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 2|text(6) (1d8 + 2) piercing damage plus dice:2d4|text(5)\
     \ (2d4) poison damage."
   "name": "War Pick"
-- "desc": "Ranged Weapon Attack: dice: d20+2 (+2 to hit), range 100/400 ft., one\
-    \ target. Hit: dice: 1d10|avg (1d10) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+2 (+2) to hit, range 100/400 ft.,\
+    \ one target. Hit: dice:1d10|text(5) (1d10) piercing damage."
   "name": "Heavy Crossbow"
 - "desc": "The duergar magically turns [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]]\
     \ for up to 1 hour or until it attacks, it forces a creature to make a saving\

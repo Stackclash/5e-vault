@@ -22,7 +22,7 @@ Adherents of the College of Eloquence master the art of oratory. Persuasion is r
 
 *3rd-level College of Eloquence feature*
 
-You are a master at saying the right thing at the right time. When you make a Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]) or Charisma ([[/5. Mechanics/Rules/Skills.md#Deception\|Deception]]) check, you can treat a `dice: d20|avg` (`d20`) roll of 9 or lower as a 10.
+You are a master at saying the right thing at the right time. When you make a Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]) or Charisma ([[/5. Mechanics/Rules/Skills.md#Deception\|Deception]]) check, you can treat a `dice: d20|avg|noform` (`d20`) roll of 9 or lower as a 10.
 
 ### Unsettling Words (Level 3)
 

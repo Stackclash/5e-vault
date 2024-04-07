@@ -15,7 +15,7 @@ statblock: inline
 aliases:
   - Dire Troll
 ---
-# [[5. Mechanics\Bestiary\Giant\Dire Troll.md|Dire Troll]]
+# [[5. Mechanics/Bestiary/Giant/Dire Troll.md|Dire Troll]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 246, Mordenkainen's Tome of Foes p. 243*
 
 Trolls kill and eat almost anything—including, in rare cases, other trolls. This cannibalism has the effect of causing a troll to grow to an unusually large size. The resulting dire trolls crave more and more troll flesh to fuel their continued growth.
@@ -38,6 +38,7 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
 "type": "giant"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "15"
+"ac_class": "natural armor"
 "hp": !!int "172"
 "hit_dice": "15d12 + 75"
 "stats":
@@ -68,16 +69,16 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
 "actions":
 - "desc": " The troll makes one Bite attack and four Claw attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+11 (+11 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 1d8 + 6|avg (1d8 + 6) piercing damage plus dice: 1d10|avg\
+- "desc": "Melee Weapon Attack: dice: d20+11 (+11) to hit, reach 10 ft., one\
+    \ target. Hit: dice:1d8 + 6|text(10) (1d8 + 6) piercing damage plus dice:1d10|text(5)\
     \ (1d10) poison damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+11 (+11 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 3d6 + 6|avg (3d6 + 6) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+11 (+11) to hit, reach 10 ft., one\
+    \ target. Hit: dice:3d6 + 6|text(16) (3d6 + 6) slashing damage."
   "name": "Claws"
 - "desc": "Each creature within 10 feet of the troll must make a DC 19 Dexterity saving\
-    \ throw, taking dice: 8d10|avg (8d10) slashing damage on a failed save, or\
-    \ half as much damage on a successful one."
+    \ throw, taking dice:8d10|text(44) (8d10) slashing damage on a failed save,\
+    \ or half as much damage on a successful one."
   "name": "Whirlwind of Claws (Recharge 5-6)"
 "source":
 - "MPMM"

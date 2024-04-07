@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Cloud Giant Smiling One
 ---
-# [[5. Mechanics\Bestiary\Giant\Cloud Giant Smiling One.md|Cloud Giant Smiling One]]
+# [[5. Mechanics/Bestiary/Giant/Cloud Giant Smiling One.md|Cloud Giant Smiling One]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 81, Volo's Guide to Monsters p. 146*
 
 Smiling ones are cloud giants who honor and emulate the craftiness and deceit of the deity Memnor above all else. They are tricksters supreme who use sleight of hand, deception, misdirection, and magic in their pursuit of wealth. They also possess a flair for unpredictability and a wicked sense of humor. Smiling ones overstep all bounds of decorum with their behavior, doing and saying things that even other knavish folk consider beneath their dignity.
@@ -24,6 +24,7 @@ Smiling ones take their name from the strange two-faced masks they wear. The smi
 "type": "giant"
 "alignment": "Typically  Chaotic Neutral"
 "ac": !!int "15"
+"ac_class": "natural armor"
 "hp": !!int "250"
 "hit_dice": "20d12 + 120"
 "stats":
@@ -62,12 +63,12 @@ Smiling ones take their name from the strange two-faced masks they wear. The smi
 "actions":
 - "desc": "The giant makes two Slam attacks or two Telekinetic Strike attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+12 (+12 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 3d8 + 8|avg (3d8 + 8) bludgeoning damage plus dice: 1d10|avg\
+- "desc": "Melee Weapon Attack: dice: d20+12 (+12) to hit, reach 10 ft., one\
+    \ target. Hit: dice:3d8 + 8|text(21) (3d8 + 8) bludgeoning damage plus dice:1d10|text(5)\
     \ (1d10) psychic damage."
   "name": "Slam"
-- "desc": "Ranged Spell Attack: dice: d20+7 (+7 to hit), range 240 ft., one target.\
-    \ Hit: dice: 4d10 + 3|avg (4d10 + 3) force damage."
+- "desc": "Ranged Spell Attack: dice: d20+7 (+7) to hit, range 240 ft., one\
+    \ target. Hit: dice:4d10 + 3|text(25) (4d10 + 3) force damage."
   "name": "Telekinetic Strike"
 - "desc": "The giant magically transforms to look and feel like a Beast or a Humanoid\
     \ it has seen or to return to its true form. Any equipment the giant is wearing\

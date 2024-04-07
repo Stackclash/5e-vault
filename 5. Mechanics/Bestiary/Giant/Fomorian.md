@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Fomorian
 ---
-# [[5. Mechanics\Bestiary\Giant\Fomorian.md|Fomorian]]
+# [[5. Mechanics/Bestiary/Giant/Fomorian.md|Fomorian]]
 *Source: Monster Manual p. 136*
 
 The most hideous and wicked of all giantkind are the godless fomorians, whose deformed bodies reflect their vile demeanors. Some have facial features randomly distributed around their misshapen, warty heads. Others have limbs of grossly different sizes and shapes, or emit terrible howls each time they draw breath through misshapen mouths. Their wretched appearance rarely evokes sympathy, however, for the fomorians brought their doom upon themselves with the evil that rules their hearts and minds.
@@ -40,6 +40,7 @@ Fomorians can pass their curse onto others using a power called the evil eye-a l
 "type": "giant"
 "alignment": "Chaotic Evil"
 "ac": !!int "14"
+"ac_class": "natural armor"
 "hp": !!int "149"
 "hit_dice": "13d12 + 65"
 "stats":
@@ -60,12 +61,13 @@ Fomorians can pass their curse onto others using a power called the evil eye-a l
 - "desc": "The fomorian attacks twice with its greatclub or makes one greatclub attack\
     \ and uses Evil Eye once."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 15 ft., one target.\
-    \ Hit: dice: 3d8 + 6|avg (3d8 + 6) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 15 ft., one target.\
+    \ Hit: dice:3d8 + 6|text(19) (3d8 + 6) bludgeoning damage."
   "name": "Greatclub"
 - "desc": "The fomorian magically forces a creature it can see within 60 feet of it\
-    \ to make a DC 14 Charisma saving throw. The creature takes dice: 6d8|avg (6d8)\
-    \ psychic damage on a failed save, or half as much damage on a successful one."
+    \ to make a DC 14 Charisma saving throw. The creature takes dice:6d8|text(27)\
+    \ (6d8) psychic damage on a failed save, or half as much damage on a successful\
+    \ one."
   "name": "Evil Eye"
 - "desc": "With a stare, the fomorian uses Evil Eye, but on a failed save, the creature\
     \ is also cursed with magical deformities. While deformed, the creature has its\

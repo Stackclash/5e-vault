@@ -1,27 +1,28 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: null
 condition: healthy
 image: 4. World Almanac/NPCs/img/geryon.webp
 relationships: []
-tags: 
-aliases: [Geryon]
-pronounced: 
-race: 
-gender: 
-age: 
+tags: null
+aliases:
+  - Geryon
+pronounced: null
+race: null
+gender: null
+age: null
 alignment: Lawful Evil
-occupation: 
+occupation: null
 groups: []
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]
@@ -126,6 +127,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 "subtype": "devil"
 "alignment": "Lawful Evil"
 "ac": !!int "19"
+"ac_class": "natural armor"
 "hp": !!int "300"
 "hit_dice": "24d12 + 144"
 "stats":
@@ -174,19 +176,19 @@ await dv.view("npcRelationships", { current: dv.current() })
 "actions":
 - "desc": "Geryon makes one Claw attack and one Stinger attack."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+16 (+16 to hit), reach 15 ft., one target.\
-    \ Hit: dice: 4d6 + 9|avg (4d6 + 9) cold damage. If the target is Large or\
-    \ smaller, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (DC 24),\
-    \ and it is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]] until the\
-    \ grapple ends. Geryon can grapple one creature at a time. If the target is already\
-    \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] by Geryon, the target takes\
-    \ an extra dice: 6d8|avg (6d8) cold damage."
+- "desc": "Melee Weapon Attack: dice: d20+16 (+16) to hit, reach 15 ft., one\
+    \ target. Hit: dice:4d6 + 9|text(23) (4d6 + 9) cold damage. If the target\
+    \ is Large or smaller, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ (DC 24), and it is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
+    \ until the grapple ends. Geryon can grapple one creature at a time. If the target\
+    \ is already [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] by Geryon, the\
+    \ target takes an extra dice:6d8|text(27) (6d8) cold damage."
   "name": "Claw"
-- "desc": "Melee Weapon Attack: dice: d20+16 (+16 to hit), reach 20 ft., one creature.\
-    \ Hit: dice: 2d4 + 9|avg (2d4 + 9) force damage, and the target must succeed\
-    \ on a DC 21 Constitution saving throw or take dice: 2d12|avg (2d12) poison\
-    \ damage and become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] until\
-    \ it finishes a short or long rest. The target's hit point maximum is reduced\
+- "desc": "Melee Weapon Attack: dice: d20+16 (+16) to hit, reach 20 ft., one\
+    \ creature. Hit: dice:2d4 + 9|text(14) (2d4 + 9) force damage, and the target\
+    \ must succeed on a DC 21 Constitution saving throw or take dice:2d12|text(13)\
+    \ (2d12) poison damage and become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ until it finishes a short or long rest. The target's hit point maximum is reduced\
     \ by an amount equal to half the poison damage taken. This reduction lasts until\
     \ the [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] condition is removed.\
     \ The target dies if its hit point maximum is reduced to 0."
@@ -212,9 +214,9 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ Geryon causes a blast of cold to burst from the ground at a point he can see\
     \ within 120 feet of him. The cold fills a cube, 10 feet on each side, centered\
     \ on that point. Each creature in that area must succeed on a DC 21 Constitution\
-    \ saving throw or take dice: 8d6|avg (8d6) cold damage.  \n- Hateful Restraints.\
-    \ Geryon targets one creature he can see within 60 feet of him. The target must\
-    \ succeed on a DC 21 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
+    \ saving throw or take dice:8d6|text(28) (8d6) cold damage.  \n- Hateful\
+    \ Restraints. Geryon targets one creature he can see within 60 feet of him.\
+    \ The target must succeed on a DC 21 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
     \ for 1 minute. The target can end the effect on itself if it deals any damage\
     \ to one or more of its allies.  "
   "name": ""
@@ -230,7 +232,7 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ the lair frequently see shimmering portals leading to places they consider safe.\
     \ Passing through a portal always deposits a traveler somewhere in Stygia.  "
   "name": ""
-- "desc": "If Geryon dies, these effects fade over the course of dice: 1d10|avg\
+- "desc": "If Geryon dies, these effects fade over the course of dice: 1d10|avg|noform\
     \ (1d10) days."
   "name": ""
 "source":

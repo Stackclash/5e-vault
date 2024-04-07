@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Barovian Commoner
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Barovian Commoner.md|Barovian Commoner]]
+# [[5. Mechanics/Bestiary/Humanoid/Barovian Commoner.md|Barovian Commoner]]
 *Source: Curse of Strahd p. 29*
 
 ```statblock
@@ -34,8 +34,8 @@ aliases:
 "languages": "any one language (usually Common)"
 "cr": "0"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6|avg (1d6) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+2 (+2) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6|text(3) (1d6) piercing damage."
   "name": "Pitchfork"
 "source":
 - "CoS"

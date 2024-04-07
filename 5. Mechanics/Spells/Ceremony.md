@@ -13,7 +13,6 @@ aliases:
   - Ceremony
 ---
 # Ceremony
-%%-- Embedded content starts on the next line. --%%
 *1st-level, Abjuration (ritual)*  
 
 - **Casting time:** 1 hour unless cast as a ritual
@@ -33,11 +32,11 @@ You touch one [[5. Mechanics/Items/Vial.md\|vial]] of water and cause it to beco
 
 ## Coming of Age
 
-You touch one humanoid who is a young adult. For the next 24 hours, whenever the target makes an ability check, it can roll a `dice: d4|avg` (`d4`) and add the number rolled to the ability check. A creature can benefit from this rite only once.
+You touch one humanoid who is a young adult. For the next 24 hours, whenever the target makes an ability check, it can roll a `dice: d4|avg|noform` (`d4`) and add the number rolled to the ability check. A creature can benefit from this rite only once.
 
 ## Dedication
 
-You touch one humanoid who wishes to be dedicated to your god's service. For the next 24 hours, whenever the target makes a saving throw, it can roll a `dice: d4|avg` (`d4`) and add the number rolled to the save. A creature can benefit from this rite only once.
+You touch one humanoid who wishes to be dedicated to your god's service. For the next 24 hours, whenever the target makes a saving throw, it can roll a `dice: d4|avg|noform` (`d4`) and add the number rolled to the save. A creature can benefit from this rite only once.
 
 ## Funeral Rite
 

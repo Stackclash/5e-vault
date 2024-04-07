@@ -14,7 +14,7 @@ statblock: inline
 aliases:
   - Harpy
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Harpy.md|Harpy]]
+# [[5. Mechanics/Bestiary/Monstrosity/Harpy.md|Harpy]]
 *Source: Monster Manual p. 181, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*
 
 Taking glee in suffering and death, the sadistic harpy is always on the hunt for prey. Its sweet song has lured countless adventurers to their deaths, drawing them in close for the harpy to kill and then consume.
@@ -65,11 +65,11 @@ Harpies take shiny baubles, valuable objects, and other trophies from their vict
 "actions":
 - "desc": "The harpy makes two attacks: one with its claws and one with its club."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4 + 1|avg (2d4 + 1) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d4 + 1|text(6) (2d4 + 1) slashing damage."
   "name": "Claws"
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 1|avg (1d4 + 1) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d4 + 1|text(3) (1d4 + 1) bludgeoning damage."
   "name": "Club"
 - "desc": "The harpy sings a magical melody. Every humanoid and giant within 300 feet\
     \ of the harpy that can hear the song must succeed on a DC 11 Wisdom saving throw\

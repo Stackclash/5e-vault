@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Allosaurus
 ---
-# [[5. Mechanics\Bestiary\Beast\Allosaurus.md|Allosaurus]]
+# [[5. Mechanics/Bestiary/Beast/Allosaurus.md|Allosaurus]]
 *Source: Monster Manual p. 79. Available in the Basic Rules.*
 
 The allosaurus is a predator possessing great size, strength, and speed. It can run down almost any prey over open ground, pouncing to pull creatures down with its wicked claws.
@@ -28,6 +28,7 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
 "type": "beast"
 "alignment": "Unaligned"
 "ac": !!int "13"
+"ac_class": "natural armor"
 "hp": !!int "51"
 "hit_dice": "6d10 + 18"
 "stats":
@@ -51,11 +52,11 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
     \ can make one bite attack against it as a bonus action."
   "name": "Pounce"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d10 + 4|avg (2d10 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d10 + 4|text(15) (2d10 + 4) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 4|text(8) (1d8 + 4) slashing damage."
   "name": "Claw"
 "source":
 - "MM"

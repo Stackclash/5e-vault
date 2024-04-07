@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Kenku
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Kenku.md|Kenku]]
+# [[5. Mechanics/Bestiary/Humanoid/Kenku.md|Kenku]]
 *Source: Monster Manual p. 194, Eberron: Rising from the Last War*
 
 Kenku are feathered humanoids that wander the world as vagabonds, driven by greed. They can perfectly imitate any sound they hear.
@@ -72,11 +72,11 @@ All kenku pine for the ability to fly, and thus the punishments they mete out to
     \ ([[/5. Mechanics/Rules/Skills.md#Insight|Insight]]) check."
   "name": "Mimicry"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 3|text(6) (1d6 + 3) piercing damage."
   "name": "Shortsword"
-- "desc": "Ranged Weapon Attack: dice: d20+5 (+5 to hit), range 80/320 ft., one\
-    \ target. Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+5 (+5) to hit, range 80/320 ft.,\
+    \ one target. Hit: dice:1d6 + 3|text(6) (1d6 + 3) piercing damage."
   "name": "Shortbow"
 "source":
 - "MM"

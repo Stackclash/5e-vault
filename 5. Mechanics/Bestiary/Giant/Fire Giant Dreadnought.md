@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Fire Giant Dreadnought
 ---
-# [[5. Mechanics\Bestiary\Giant\Fire Giant Dreadnought.md|Fire Giant Dreadnought]]
+# [[5. Mechanics/Bestiary/Giant/Fire Giant Dreadnought.md|Fire Giant Dreadnought]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 124, Volo's Guide to Monsters p. 147*
 
 > [!quote]- A quote from Mordenkainen  
@@ -33,6 +33,7 @@ When not called on to fight, dreadnoughts maintain their strength by using their
 "type": "giant"
 "alignment": "Typically  Lawful Evil"
 "ac": !!int "21"
+"ac_class": "[[5. Mechanics/Items/Plate Armor.md|plate]], [[5. Mechanics/Items/Shield.md|Dual Shields]]"
 "hp": !!int "187"
 "hit_dice": "15d12 + 90"
 "stats":
@@ -61,18 +62,18 @@ When not called on to fight, dreadnoughts maintain their strength by using their
 "actions":
 - "desc": "The giant makes two Fireshield or Rock attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 4d6 + 8|avg (4d6 + 8) bludgeoning damage plus dice: 2d6|avg\
-    \ (2d6) fire damage plus dice: 2d6|avg (2d6) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+13 (+13) to hit, reach 5 ft., one\
+    \ target. Hit: dice:4d6 + 8|text(22) (4d6 + 8) bludgeoning damage plus dice:2d6|text(7)\
+    \ (2d6) fire damage plus dice:2d6|text(7) (2d6) piercing damage."
   "name": "Fireshield"
-- "desc": "Ranged Weapon Attack: dice: d20+13 (+13 to hit), range 60/240 ft.,\
-    \ one target. Hit: dice: 4d10 + 8|avg (4d10 + 8) bludgeoning damage."
+- "desc": "Ranged Weapon Attack: dice: d20+13 (+13) to hit, range 60/240 ft.,\
+    \ one target. Hit: dice:4d10 + 8|text(30) (4d10 + 8) bludgeoning damage."
   "name": "Rock"
 - "desc": "The giant moves up to 30 feet in a straight line and can move through the\
     \ space of any creature smaller than Huge. The first time it enters a creature's\
     \ space during this move, that creature must succeed on a DC 21 Strength saving\
-    \ throw or take dice: 8d6 + 8|avg (8d6 + 8) bludgeoning damage plus dice:\
-    \ 4d6|avg (4d6) fire damage and be pushed up to 30 feet and knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ throw or take dice:8d6 + 8|text(36) (8d6 + 8) bludgeoning damage plus dice:4d6|text(14)\
+    \ (4d6) fire damage and be pushed up to 30 feet and knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Shield Charge (Recharge 5-6)"
 "source":
 - "MPMM"

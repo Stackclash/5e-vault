@@ -16,7 +16,7 @@ statblock: inline
 aliases:
   - Cyclops
 ---
-# [[5. Mechanics\Bestiary\Giant\Cyclops.md|Cyclops]]
+# [[5. Mechanics/Bestiary/Giant/Cyclops.md|Cyclops]]
 *Source: Monster Manual p. 45. Available in the Basic Rules.*
 
 Cyclopes are one-eyed giants that eke out a meager existence in wild lands. Isolationists by nature, they avoid contact with other races and try to drive away strangers in their territory.
@@ -41,6 +41,7 @@ Cyclopes aren't great thinkers or strategists. Slow to learn and bound to their 
 "type": "giant"
 "alignment": "Chaotic Neutral"
 "ac": !!int "14"
+"ac_class": "natural armor"
 "hp": !!int "138"
 "hit_dice": "12d12 + 60"
 "stats":
@@ -61,11 +62,11 @@ Cyclopes aren't great thinkers or strategists. Slow to learn and bound to their 
 "actions":
 - "desc": "The cyclops makes two greatclub attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 3d8 + 6|avg (3d8 + 6) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 10 ft., one target.\
+    \ Hit: dice:3d8 + 6|text(19) (3d8 + 6) bludgeoning damage."
   "name": "Greatclub"
-- "desc": "Ranged Weapon Attack: dice: d20+9 (+9 to hit), range 30/120 ft., one\
-    \ target. Hit: dice: 4d10 + 6|avg (4d10 + 6) bludgeoning damage."
+- "desc": "Ranged Weapon Attack: dice: d20+9 (+9) to hit, range 30/120 ft.,\
+    \ one target. Hit: dice:4d10 + 6|text(28) (4d10 + 6) bludgeoning damage."
   "name": "Rock"
 "source":
 - "MM"

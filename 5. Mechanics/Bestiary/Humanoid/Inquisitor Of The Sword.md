@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Inquisitor of the Sword
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Inquisitor Of The Sword.md|Inquisitor of the Sword]]
+# [[5. Mechanics/Bestiary/Humanoid/Inquisitor Of The Sword.md|Inquisitor of the Sword]]
 *Source: Van Richten's Guide to Ravenloft p. 249*
 
 "Evil lurks everywhere. With our minds, we will unearth it, we will plumb its depths, and we will annihilate it." With those words, the psychically gifted priest Ulmed founded the Ulmist Inquisition, an order of psionic inquisitors that seeks to discover the wickedness hiding in people's souls.
@@ -27,6 +27,7 @@ Today the inquisition rules the city of Malitain, a vast city-state to the north
 "type": "humanoid"
 "alignment": "Unaligned"
 "ac": !!int "16"
+"ac_class": "[[5. Mechanics/Items/Breastplate.md|breastplate]]"
 "hp": !!int "91"
 "hit_dice": "14d8 + 28"
 "stats":
@@ -67,9 +68,10 @@ Today the inquisition rules the city of Malitain, a vast city-state to the north
     \ misses with an attack, the inquisitor can teleport up to 30 feet to an unoccupied\
     \ space it can see."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) slashing damage, or dice: 1d10 + 4|avg\
-    \ (1d10 + 4) if used with two hands, plus dice: 4d8|avg (4d8) force damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 4|text(8) (1d8 + 4) slashing damage, or dice:1d10 + 4|text(9)\
+    \ (1d10 + 4) if used with two hands, plus dice:4d8|text(18) (4d8) force\
+    \ damage."
   "name": "Silver Longsword"
 "bonus_actions":
 - "desc": "The inquisitor teleports up to 60 feet to an unoccupied space it can see."

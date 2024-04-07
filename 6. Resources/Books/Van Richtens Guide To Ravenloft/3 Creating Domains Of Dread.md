@@ -58,7 +58,7 @@ Detailing the Darklord's personality gives them a unique identity that will help
 - **Bond.** In one sentence, describe a person, place, or object that the Darklord desires. Avoid a bond that is simply about power; power isn't an end in itself—power is a means to obtain a bond.  
 - **Flaws.** In one sentence, describe how the Darklord's personality causes them to act against their own best interests, especially in their quest to win their bonds and desires. Flaws are often a negative emotion or destructive behavior—such as fear, hatred, insecurity, jealousy, mayhem, obsession, selfishness, shame—that drives an irrational habit causing the Darklord or others harm. Alternatively, you can choose or randomly determine a flaw from the Fatal Flaws table.  
 
-![Wicked Personality; Fatal Flaws](compendium/tables/wicked-personality-fatal-flaws-vrgr.md)
+![[5. Mechanics/Tables/Wicked Personality Fatal Flaws.md\|Wicked Personality; Fatal Flaws]]
 
 ### Corrupt Beyond Redemption
 
@@ -191,9 +191,9 @@ The story of a Darklord and their domain is one and the same. Once you know your
 - **Entangling the Heroes.** The Darklord might instantly sense visitors entering their domain, while the heroes have no reliable means of identifying the Darklord. Describe why the Darklord is interested in the characters. The Darklord Connections table provides examples of such connections.  
 - **Interactions with the Darklord.** Imagine situations that allow the players' characters and the Darklord to socialize without the encounter immediately spiraling into violence. For inspiration, consider the circumstances on the Darklord Interactions table.  
 
-![Adventures; Darklord Connections](compendium/tables/adventures-darklord-connections-vrgr.md)
+![[5. Mechanics/Tables/Adventures Darklord Connections.md\|Adventures; Darklord Connections]]
 
-![Adventures; Darklord Interactions](compendium/tables/adventures-darklord-interactions-vrgr.md)
+![[5. Mechanics/Tables/Adventures Darklord Interactions.md\|Adventures; Darklord Interactions]]
 
 ### The Domain's Downfall
 

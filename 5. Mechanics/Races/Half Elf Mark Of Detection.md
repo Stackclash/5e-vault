@@ -35,7 +35,7 @@ You have advantage on saving throws against being [[/5. Mechanics/Rules/Conditio
 
 ### Deductive Intuition
 
-When you make an Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) or a Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight\|Insight]]) check, you can roll a `dice: d4|avg` (`d4`) and add the number rolled to the ability check.
+When you make an Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) or a Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight\|Insight]]) check, you can roll a `dice: d4|avg|noform` (`d4`) and add the number rolled to the ability check.
 
 ### Languages
 

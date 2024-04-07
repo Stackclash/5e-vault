@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Animated Armor
 ---
-# [[5. Mechanics\Bestiary\Construct\Animated Armor.md|Animated Armor]]
+# [[5. Mechanics/Bestiary/Construct/Animated Armor.md|Animated Armor]]
 *Source: Monster Manual p. 19, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*
 
 This empty steel shell clamors as it moves, heavy plates banging and grinding against one another like the vengeful spirit of a fallen knight. Ponderous but persistent, this magical guardian is almost always a suit of plate armor.
@@ -31,6 +31,7 @@ An animated object doesn't require air, food, drink, or sleep. The magic that an
 "type": "construct"
 "alignment": "Unaligned"
 "ac": !!int "18"
+"ac_class": "natural armor"
 "hp": !!int "33"
 "hit_dice": "6d8 + 6"
 "stats":
@@ -63,8 +64,8 @@ An animated object doesn't require air, food, drink, or sleep. The magic that an
 "actions":
 - "desc": "The armor makes two melee attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 2|text(5) (1d6 + 2) bludgeoning damage."
   "name": "Slam"
 "source":
 - "MM"

@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Animated Object (Small)
 ---
-# [[5. Mechanics\Bestiary\Construct\Animated Object Small.md|Animated Object (Small)]]
+# [[5. Mechanics/Bestiary/Construct/Animated Object Small.md|Animated Object (Small)]]
 *Source: Player's Handbook p. 213*
 
 ```statblock
@@ -19,6 +19,7 @@ aliases:
 "type": "construct"
 "alignment": "Unaligned"
 "ac": !!int "16"
+"ac_class": "natural armor"
 "hp": !!int "25"
 "stats":
 - !!int "6"
@@ -40,8 +41,8 @@ aliases:
     \ slashing or piercing damage based on its form."
   "name": "Animated"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 2|avg (1d8 + 2) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 2|text(6) (1d8 + 2) bludgeoning damage."
   "name": "Slam"
 "source":
 - "PHB"

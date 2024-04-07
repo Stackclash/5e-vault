@@ -34,6 +34,6 @@ title: Trebuchet
 
 ## Actions
 
-***Trebuchet Stone.*** *Ranged Weapon Attack:* +5 to hit, range 300/1,200 ft. (can't hit targets within 60 feet of it), one target. *Hit:* 44 (`dice: 8d10|avg` (`8d10`)) bludgeoning damage.
+***Trebuchet Stone.*** *Ranged Weapon Attack:* `dice: d20+5` (`+5`) to hit, range 300/1,200 ft. (can't hit targets within 60 feet of it), one target. *Hit:* 44 (`dice: 8d10|avg|noform` (`8d10`)) bludgeoning damage.
 ```
 ^statblock

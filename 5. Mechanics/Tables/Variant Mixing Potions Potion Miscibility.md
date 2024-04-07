@@ -15,7 +15,7 @@ aliases:
 
 | dice: d100 | Result |
 |------------|--------|
-| 01 | The mixture creates a magical explosion, dealing `dice: 6d10\|avg` (`6d10`) force damage to the mixer and `dice: 1d10\|avg` (`1d10`) force damage to each creature within 5 feet of the mixer. |
+| 01 | The mixture creates a magical explosion, dealing `dice: 6d10\|avg|noform` (`6d10`) force damage to the mixer and `dice: 1d10\|avg|noform` (`1d10`) force damage to each creature within 5 feet of the mixer. |
 | 02-08 | The mixture becomes an ingested poison of the DM's choice. |
 | 09-15 | Both potions lose their effects. |
 | 16-25 | One potion loses its effect. |

@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Amnizu
 ---
-# [[5. Mechanics\Bestiary\Fiend\Amnizu.md|Amnizu]]
+# [[5. Mechanics/Bestiary/Fiend/Amnizu.md|Amnizu]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 46, Mordenkainen's Tome of Foes p. 164*
 
 Amnizus lead infernal legions into battle and command guardians at the gateways to the Hells. Amnizus are arrogant, bullying, and ruthless, but they're also highly intelligent tacticians and unfailingly loyal—qualities the hellish archdukes value.
@@ -24,6 +24,7 @@ Some amnizus perform the critical task of watching over the River Styx from fort
 "subtype": "devil"
 "alignment": "Typically  Lawful Evil"
 "ac": !!int "21"
+"ac_class": "natural armor"
 "hp": !!int "202"
 "hit_dice": "27d8 + 81"
 "stats":
@@ -63,18 +64,18 @@ Some amnizus perform the critical task of watching over the River Styx from fort
 - "desc": "The amnizu uses Blinding Rot or Forgetfulness, if available. It also makes\
     \ two Taskmaster Whip attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+11 (+11 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 1d8 + 5|avg (1d8 + 5) slashing damage plus dice: 3d10|avg\
+- "desc": "Melee Weapon Attack: dice: d20+11 (+11) to hit, reach 10 ft., one\
+    \ target. Hit: dice:1d8 + 5|text(9) (1d8 + 5) slashing damage plus dice:3d10|text(16)\
     \ (3d10) force damage."
   "name": "Taskmaster Whip"
 - "desc": "The amnizu targets one or two creatures that it can see within 60 feet\
-    \ of it. Each target must succeed on a DC 19 Wisdom saving throw or take dice:\
-    \ 4d12|avg (4d12) necrotic damage and be [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]\
+    \ of it. Each target must succeed on a DC 19 Wisdom saving throw or take dice:4d12|text(26)\
+    \ (4d12) necrotic damage and be [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]\
     \ until the start of the amnizu's next turn."
   "name": "Blinding Rot"
 - "desc": "The amnizu targets one creature it can see within 60 feet of it. That creature\
-    \ must succeed on a DC 18 Intelligence saving throw or take dice: 4d12|avg (4d12)\
-    \ psychic damage and become [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+    \ must succeed on a DC 18 Intelligence saving throw or take dice:4d12|text(26)\
+    \ (4d12) psychic damage and become [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
     \ for 1 minute. A [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]] creature\
     \ repeats the saving throw at the end of each of its turns, ending the effect\
     \ on itself on a success. If the target is [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\

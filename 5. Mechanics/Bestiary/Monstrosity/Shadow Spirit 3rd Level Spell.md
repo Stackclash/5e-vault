@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Shadow Spirit (3rd-level Spell)
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Shadow Spirit 3rd Level Spell.md|Shadow Spirit (3rd-level Spell)]]
+# [[5. Mechanics/Bestiary/Monstrosity/Shadow Spirit 3rd Level Spell.md|Shadow Spirit (3rd-level Spell)]]
 *Source: Tasha's Cauldron of Everything p. 114*
 
 ```statblock
@@ -19,6 +19,7 @@ aliases:
 "type": "monstrosity"
 "alignment": "Unaligned"
 "ac": !!int "14"
+"ac_class": "natural armor"
 "hp": !!int "35"
 "stats":
 - !!int "13"

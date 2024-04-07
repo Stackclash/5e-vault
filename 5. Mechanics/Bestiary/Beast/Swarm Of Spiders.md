@@ -17,7 +17,7 @@ statblock: inline
 aliases:
   - Swarm of Spiders
 ---
-# [[5. Mechanics\Bestiary\Beast\Swarm Of Spiders.md|Swarm of Spiders]]
+# [[5. Mechanics/Bestiary/Beast/Swarm Of Spiders.md|Swarm of Spiders]]
 *Source: Monster Manual p. 338, Curse of Strahd. Available in the SRD.*
 
 > [!note] The Nature of Swarms
@@ -31,6 +31,7 @@ aliases:
 "type": "beast"
 "alignment": "Unaligned"
 "ac": !!int "12"
+"ac_class": "natural armor"
 "hp": !!int "22"
 "hit_dice": "5d8"
 "stats":
@@ -63,10 +64,10 @@ aliases:
 - "desc": "The swarm ignores movement restrictions caused by webbing."
   "name": "Web Walker"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 0 ft., one target\
-    \ in the swarm's space. Hit: dice: 4d4|avg (4d4) piercing damage, or dice:\
-    \ 2d4|avg (2d4) piercing damage if the swarm has half of its hit points or\
-    \ fewer."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 0 ft., one target\
+    \ in the swarm's space. Hit: dice:4d4|text(10) (4d4) piercing damage, or\
+    \ dice:2d4|text(5) (2d4) piercing damage if the swarm has half of its hit\
+    \ points or fewer."
   "name": "Bites"
 "source":
 - "MM"

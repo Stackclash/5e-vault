@@ -9,7 +9,7 @@ aliases:
 # Falling
 *Source: Xanathar's Guide to Everything p. 77* 
 
-Falling from a great height is a significant risk for adventurers and their foes. The rule given in the "Player's Handbook" is simple: at the end of a fall, you take `dice: 1d6|avg` (`1d6`) bludgeoning damage for every 10 feet you fell, to a maximum of `dice: 20d6|avg` (`20d6`). You also land [[/5. Mechanics/Rules/Conditions.md#prone\|prone]], unless you somehow avoid taking damage from the fall. Here are two optional rules that expand on that simple rule.
+Falling from a great height is a significant risk for adventurers and their foes. The rule given in the "Player's Handbook" is simple: at the end of a fall, you take `dice: 1d6|avg|noform` (`1d6`) bludgeoning damage for every 10 feet you fell, to a maximum of `dice: 20d6|avg|noform` (`20d6`). You also land [[/5. Mechanics/Rules/Conditions.md#prone\|prone]], unless you somehow avoid taking damage from the fall. Here are two optional rules that expand on that simple rule.
 
 ## Rate of Falling
 

@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Noble
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Noble.md|Noble]]
+# [[5. Mechanics/Bestiary/Humanoid/Noble.md|Noble]]
 *Source: Monster Manual p. 348, Curse of Strahd, Eberron: Rising from the Last War. Available in the SRD.*
 
 Nobles wield great authority and influence as members of the upper class, possessing wealth and connections that can make them as powerful as monarchs and generals. A noble often travels in the company of guards, as well as servants who are commoners.
@@ -25,6 +25,7 @@ The noble's statistics can also be used to represent courtiers who aren't of nob
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "15"
+"ac_class": "[[5. Mechanics/Items/Breastplate.md|breastplate]]"
 "hp": !!int "9"
 "hit_dice": "2d8"
 "stats":
@@ -43,8 +44,8 @@ The noble's statistics can also be used to represent courtiers who aren't of nob
 "languages": "any two languages"
 "cr": "1/8"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 1|avg (1d8 + 1) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 1|text(5) (1d8 + 1) piercing damage."
   "name": "Rapier"
 "reactions":
 - "desc": "The noble adds 2 to its AC against one melee attack that would hit it.\

@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Kruthik Hive Lord
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Kruthik Hive Lord.md|Kruthik Hive Lord]]
+# [[5. Mechanics/Bestiary/Monstrosity/Kruthik Hive Lord.md|Kruthik Hive Lord]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 169, Mordenkainen's Tome of Foes p. 212*
 
 A hive lord rules each kruthik hive. When the hive lord dies, the surviving members of the hive abandon their lair and search for a new one. When a suitable location is found, the largest kruthik in the hive undergoes a metamorphosis, forming a cocoon around itself and emerging several weeks later as a hive lord—a bigger and smarter kruthik with the ability to spray digestive acid from its maw. The hive lord claims the largest chamber of the lair and keeps several adult kruthiks nearby as bodyguards.
@@ -44,6 +44,7 @@ Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and th
 "type": "monstrosity"
 "alignment": "Unaligned"
 "ac": !!int "20"
+"ac_class": "natural armor"
 "hp": !!int "102"
 "hit_dice": "12d10 + 36"
 "stats":
@@ -70,15 +71,15 @@ Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and th
 "actions":
 - "desc": "The kruthik makes two Stab or Spike attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 1d10 + 4|avg (1d10 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 10 ft., one target.\
+    \ Hit: dice:1d10 + 4|text(9) (1d10 + 4) piercing damage."
   "name": "Stab"
-- "desc": "Ranged Weapon Attack: dice: d20+6 (+6 to hit), range 30/120 ft., one\
-    \ target. Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+6 (+6) to hit, range 30/120 ft.,\
+    \ one target. Hit: dice:1d6 + 4|text(7) (1d6 + 4) piercing damage."
   "name": "Spike"
 - "desc": "The kruthik sprays acid in a 15-foot cone. Each creature in that area must\
-    \ make a DC 14 Dexterity saving throw, taking dice: 4d10|avg (4d10) acid damage\
-    \ on a failed save, or half as much damage on a successful one."
+    \ make a DC 14 Dexterity saving throw, taking dice:4d10|text(22) (4d10) acid\
+    \ damage on a failed save, or half as much damage on a successful one."
   "name": "Acid Spray (Recharge 5-6)"
 "source":
 - "MPMM"

@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Ankylosaurus
 ---
-# [[5. Mechanics\Bestiary\Beast\Ankylosaurus.md|Ankylosaurus]]
+# [[5. Mechanics/Bestiary/Beast/Ankylosaurus.md|Ankylosaurus]]
 *Source: Monster Manual p. 79. Available in the Basic Rules.*
 
 Thick armor plating covers the body of the plant-eating ankylosaurus, which defends itself against predators with a knobbed tail that delivers a devastating strike. Some varieties of ankylosaurus have spiked tails that deal piercing damage instead of bludgeoning damage.
@@ -28,6 +28,7 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
 "type": "beast"
 "alignment": "Unaligned"
 "ac": !!int "15"
+"ac_class": "natural armor"
 "hp": !!int "68"
 "hit_dice": "8d12 + 16"
 "stats":
@@ -42,9 +43,10 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
 "languages": ""
 "cr": "3"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 4d6 + 4|avg (4d6 + 4) bludgeoning damage. If the target is\
-    \ a creature, it must succeed on a DC 14 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 10 ft., one target.\
+    \ Hit: dice:4d6 + 4|text(18) (4d6 + 4) bludgeoning damage. If the target\
+    \ is a creature, it must succeed on a DC 14 Strength saving throw or be knocked\
+    \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Tail"
 "source":
 - "MM"

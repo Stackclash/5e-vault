@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Bat
 ---
-# [[5. Mechanics\Bestiary\Beast\Bat.md|Bat]]
+# [[5. Mechanics/Bestiary/Beast/Bat.md|Bat]]
 *Source: Monster Manual p. 318, Curse of Strahd. Available in the SRD and the Basic Rules.*
 
 ```statblock
@@ -39,7 +39,7 @@ aliases:
     \ checks that rely on hearing."
   "name": "Keen Hearing"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+0 (+0 to hit), reach 5 ft., one creature.\
+- "desc": "Melee Weapon Attack: dice: d20+0 (+0) to hit, reach 5 ft., one creature.\
     \ Hit: 1 piercing damage."
   "name": "Bite"
 "source":

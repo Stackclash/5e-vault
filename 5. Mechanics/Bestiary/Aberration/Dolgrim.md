@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Dolgrim
 ---
-# [[5. Mechanics\Bestiary\Aberration\Dolgrim.md|Dolgrim]]
+# [[5. Mechanics/Bestiary/Aberration/Dolgrim.md|Dolgrim]]
 *Source: Eberron: Rising from the Last War p. 291*
 
 Dolgrims are squat, deformed things. Warped by the daelkyr, a dolgrim is essentially two goblins crushed into one creature, their misshapen body boasting four arms and a pair of twisted mouths that gibber and slather at the front of a headless torso. The two mouths of a dolgrim sometimes carry on demented conversations with one another. However, a dolgrim has only a single personality—sadistic, bloodthirsty, and brutally dedicated to serving itself.
@@ -23,6 +23,7 @@ Small numbers of these creatures sometimes make their way to the surface, often 
 "type": "aberration"
 "alignment": "Chaotic Evil"
 "ac": !!int "15"
+"ac_class": "natural armor, [[5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "13"
 "hit_dice": "3d6 + 3"
 "stats":
@@ -45,16 +46,16 @@ Small numbers of these creatures sometimes make their way to the surface, often 
 "actions":
 - "desc": "The dolgrim makes three attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 2|avg (1d8 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 2|text(6) (1d8 + 2) piercing damage."
   "name": "Morningstar"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing\
-    \ damage, or dice: 1d8 + 2|avg (1d8 + 2) piercing damage if used with two\
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: dice:1d6 + 2|text(5) (1d6 + 2) piercing\
+    \ damage, or dice:1d8 + 2|text(6) (1d8 + 2) piercing damage if used with two\
     \ hands to make a melee attack."
   "name": "Spear"
-- "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 30/120 ft., one\
-    \ target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+4 (+4) to hit, range 30/120 ft.,\
+    \ one target. Hit: dice:1d6 + 2|text(5) (1d6 + 2) piercing damage."
   "name": "Hand Crossbow"
 "source":
 - "ERLW"

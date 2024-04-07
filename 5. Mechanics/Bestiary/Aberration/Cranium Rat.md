@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Cranium Rat
 ---
-# [[5. Mechanics\Bestiary\Aberration\Cranium Rat.md|Cranium Rat]]
+# [[5. Mechanics/Bestiary/Aberration/Cranium Rat.md|Cranium Rat]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 83, Volo's Guide to Monsters p. 133*
 
 ## Cranium Rat
@@ -45,7 +45,7 @@ A single cranium rat uses its natural telepathy to communicate hunger, fear, and
     \ read its thoughts, as well as to all divination spells."
   "name": "Telepathic Shroud"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
     \ Hit: 1 piercing damage."
   "name": "Bite"
 "bonus_actions":

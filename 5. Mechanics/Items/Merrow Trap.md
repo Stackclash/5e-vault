@@ -22,6 +22,6 @@ An extremely common type of seagrass found all over the ocean, this plant unfort
 
 ## Effect:
 
-This herb contains `dice: 1d20|avg` (`1d20`) charges, with each charge corresponding to a blade of seagrass. You may expend 1 charge and spend 1 minute attaching a blade of seagrass to a [[5. Mechanics/Items/Crossbow Bolt.md\|bolt]] or [[5. Mechanics/Items/Arrow.md\|arrow]]. If you do so, that bolt or arrow suffers no penalties associated with being used underwater.
+This herb contains `dice: 1d20|avg|noform` (`1d20`) charges, with each charge corresponding to a blade of seagrass. You may expend 1 charge and spend 1 minute attaching a blade of seagrass to a [[5. Mechanics/Items/Crossbow Bolt.md\|bolt]] or [[5. Mechanics/Items/Arrow.md\|arrow]]. If you do so, that bolt or arrow suffers no penalties associated with being used underwater.
 
 *Source: Hamund's Herbalism Handbook p. 23*

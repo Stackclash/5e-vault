@@ -16,7 +16,6 @@ aliases:
   - Lightning Bolt
 ---
 # Lightning Bolt
-%%-- Embedded content starts on the next line. --%%
 *3rd-level, Evocation*  
 
 - **Casting time:** 1 action
@@ -24,11 +23,11 @@ aliases:
 - **Components:** V, S, a bit of fur and a rod of amber, crystal, or glass
 - **Duration:** Instantaneous
 
-A stroke of lightning forming a line 100 feet long and 5 feet wide blasts out from you in a direction you choose. Each creature in the line must make a Dexterity saving throw. A creature takes `dice: 8d6|avg` (`8d6`) lightning damage on a failed save, or half as much damage on a successful one.
+A stroke of lightning forming a line 100 feet long and 5 feet wide blasts out from you in a direction you choose. Each creature in the line must make a Dexterity saving throw. A creature takes `dice: 8d6|avg|noform` (`8d6`) lightning damage on a failed save, or half as much damage on a successful one.
 
 The lightning ignites flammable objects in the area that aren't being worn or carried.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
+**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by `1d6` for each slot level above 3rd.
 
 **Classes**: [[5. Mechanics/Classes/Artificer Armorer.md\|Artificer (Armorer)]], [[5. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock The Fathomless.md\|Warlock (The Fathomless)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 

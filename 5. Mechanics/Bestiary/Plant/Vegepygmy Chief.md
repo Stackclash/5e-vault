@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Vegepygmy Chief
 ---
-# [[5. Mechanics\Bestiary\Plant\Vegepygmy Chief.md|Vegepygmy Chief]]
+# [[5. Mechanics/Bestiary/Plant/Vegepygmy Chief.md|Vegepygmy Chief]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 253, Volo's Guide to Monsters p. 197*
 
 As a [[5. Mechanics/Bestiary/Plant/Vegepygmy.md|vegepygmy]] ages, it grows tougher and develops spore clusters on its body. Other vegepygmies defer to these so-called chiefs. A chief can expel its spores in a burst, infecting nearby creatures. If a creature dies while infected, its corpse produces vegepygmies the same way [[5. Mechanics/Traps Hazards/Russet Mold.md|russet mold]] does.
@@ -29,6 +29,7 @@ Although they prefer to eat fresh meat, bone, and blood, vegepygmies can absorb 
 "type": "plant"
 "alignment": "Typically  Neutral"
 "ac": !!int "14"
+"ac_class": "natural armor"
 "hp": !!int "33"
 "hit_dice": "6d6 + 12"
 "stats":
@@ -58,19 +59,19 @@ Although they prefer to eat fresh meat, bone, and blood, vegepygmies can absorb 
 "actions":
 - "desc": "The vegepygmy makes two Claw attacks or two melee Spear attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 2|text(5) (1d6 + 2) slashing damage."
   "name": "Claws"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing\
-    \ damage, or dice: 1d8 + 2|avg (1d8 + 2) piercing damage if used with two\
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: dice:1d6 + 2|text(5) (1d6 + 2) piercing\
+    \ damage, or dice:1d8 + 2|text(6) (1d8 + 2) piercing damage if used with two\
     \ hands to make a melee attack."
   "name": "Spear"
 - "desc": "A 15-foot-radius cloud of toxic spores extends out from the vegepygmy.\
     \ The spores spread around corners. Each creature in that area that isn't a Plant\
     \ must succeed on a DC 12 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]].\
     \ While [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in this way, a target\
-    \ takes dice: 2d8|avg (2d8) poison damage at the start of each of its turns.\
+    \ takes dice:2d8|text(9) (2d8) poison damage at the start of each of its turns.\
     \ A target can repeat the saving throw at the end of each of its turns, ending\
     \ the effect on itself on a success."
   "name": "Spores (1/Day)"

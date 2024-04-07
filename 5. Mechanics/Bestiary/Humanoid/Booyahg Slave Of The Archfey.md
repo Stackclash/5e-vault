@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/vgm
-- monster/cr/4
-- monster/size/medium
-- monster/type/humanoid/any-race
+  - compendium/src/5e/vgm
+  - monster/cr/4
+  - monster/size/medium
+  - monster/type/humanoid/any-race
 statblock: inline
-aliases: ["Booyahg Slave of the Archfey"]
+aliases:
+  - Booyahg Slave of the Archfey
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Booyahg Slave Of The Archfey.md|Booyahg Slave of the Archfey]]
+# [[5. Mechanics/Bestiary/Humanoid/Booyahg Slave Of The Archfey.md|Booyahg Slave of the Archfey]]
 *Source: Volo's Guide to Monsters p. 42*
 
 This goblin warlock serves a patron who can extract payment in flesh if the goblin doesn't do as promised. Often this patron is a coven of hags serving as the tribe's boss, a fiend that has made its way into the world, or an undying lord such as a lich or a vampire. (For more information on undying lord patrons, see the "Sword Coast Adventurer's Guide").
@@ -29,6 +30,7 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "11"
+"ac_class": "14 with [[5. Mechanics/Spells/Mage Armor.md|mage armor]]"
 "hp": !!int "49"
 "hit_dice": "11d8"
 "stats":
@@ -59,7 +61,7 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
     \ animals](compendium/spells/speak-with-animals.md)\n\n1/day: [[5. Mechanics/Spells/Conjure Fey.md|conjure fey]]"
   "name": "innate"
 - "desc": "The goblin is an 11th-level spellcaster. Its spellcasting ability is Charisma\
-    \ (spell save DC 14, dice: d20+6 (+6 to hit) with spell attacks). It regains\
+    \ (spell save DC 14, dice: d20+6 (+6) to hit with spell attacks). It regains\
     \ its expended spell slots when it finishes a short or long rest. It knows the\
     \ following warlock spells:\n\nCantrips (at will): [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]],\
     \ [[5. Mechanics/Spells/Eldritch Blast.md|eldritch blast]], [[5. Mechanics/Spells/Friends.md|friends]],\
@@ -73,8 +75,8 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
     \ [[5. Mechanics/Spells/Sleep.md|sleep]]"
   "name": "spells"
 "actions":
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing\
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: dice:1d4 + 2|text(4) (1d4 + 2) piercing\
     \ damage."
   "name": "Dagger"
 "reactions":

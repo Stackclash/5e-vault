@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vgm
-aliases: ["Random Hag Minions; Brutes"]
+  - compendium/src/5e/vgm
+aliases:
+  - Random Hag Minions; Brutes
 ---
 # Random Hag Minions; Brutes
 *Source: Volo's Guide to Monsters p. 61* 

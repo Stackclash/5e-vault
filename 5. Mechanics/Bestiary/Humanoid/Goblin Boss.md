@@ -14,7 +14,7 @@ statblock: inline
 aliases:
   - Goblin Boss
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Goblin Boss.md|Goblin Boss]]
+# [[5. Mechanics/Bestiary/Humanoid/Goblin Boss.md|Goblin Boss]]
 *Source: Monster Manual p. 166, Tasha's Cauldron of Everything*
 
 Goblins are small, black-hearted, selfish humanoids that lair in caves, abandoned mines, despoiled dungeons, and other dismal settings. Individually weak, goblins gather in large-sometimes overwhelming-numbers. They crave power and regularly abuse whatever authority they obtain.
@@ -55,6 +55,7 @@ Maglubiyet the Mighty One, the Lord of Depths and Darkness, is the greater god o
 "subtype": "goblinoid"
 "alignment": "Neutral Evil"
 "ac": !!int "17"
+"ac_class": "[[5. Mechanics/Items/Chain Shirt.md|chain shirt]], [[5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "21"
 "hit_dice": "6d6"
 "stats":
@@ -77,11 +78,12 @@ Maglubiyet the Mighty One, the Lord of Depths and Darkness, is the greater god o
 "actions":
 - "desc": "The goblin makes two attacks with its scimitar. The second attack has disadvantage."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 2|text(5) (1d6 + 2) slashing damage."
   "name": "Scimitar"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft.\
-    \ or range 30/120 ft., one target. Hit: dice: 1d6|avg (1d6) piercing damage."
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+2 (+2) to hit, reach 5 ft.\
+    \ or range 30/120 ft., one target. Hit: dice:1d6|text(3) (1d6) piercing\
+    \ damage."
   "name": "Javelin"
 "reactions":
 - "desc": "When a creature the goblin can see targets it with an attack, the goblin\

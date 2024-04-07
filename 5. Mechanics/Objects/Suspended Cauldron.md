@@ -32,6 +32,6 @@ title: Suspended Cauldron
 
 ## Actions
 
-***Boiling Oil.*** The cauldron pours boiling oil onto a 10-foot-square area directly below it. Any creature in the area must make a DC 15 Dexterity saving throw, taking `dice: 3d6|avg` (`3d6`) fire damage on a failed save, or half as much damage on a successful one.
+***Boiling Oil.*** The cauldron pours boiling oil onto a 10-foot-square area directly below it. Any creature in the area must make a DC 15 Dexterity saving throw, taking `dice:3d6|text(10)` (`3d6`) fire damage on a failed save, or half as much damage on a successful one.
 ```
 ^statblock

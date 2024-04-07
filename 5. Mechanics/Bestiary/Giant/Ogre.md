@@ -19,7 +19,7 @@ statblock: inline
 aliases:
   - Ogre
 ---
-# [[5. Mechanics\Bestiary\Giant\Ogre.md|Ogre]]
+# [[5. Mechanics/Bestiary/Giant/Ogre.md|Ogre]]
 *Source: Monster Manual p. 237, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*
 
 Ogres are as lazy of mind as they are strong of body. They live by raiding, scavenging, and killing for food and pleasure. The average adult specimen stands between 9 and 10 feet tall and weighs close to a thousand pounds.
@@ -63,6 +63,7 @@ Whenever possible, ogres gang up with other monsters to bully or prey on creatur
 "type": "giant"
 "alignment": "Chaotic Evil"
 "ac": !!int "11"
+"ac_class": "[[5. Mechanics/Items/Hide Armor.md|hide armor]]"
 "hp": !!int "59"
 "hit_dice": "7d10 + 21"
 "stats":
@@ -77,12 +78,12 @@ Whenever possible, ogres gang up with other monsters to bully or prey on creatur
 "languages": "Common, Giant"
 "cr": "2"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d8 + 4|text(13) (2d8 + 4) bludgeoning damage."
   "name": "Greatclub"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft.\
-    \ or range 30/120 ft., one target. Hit: dice: 2d6 + 4|avg (2d6 + 4) piercing\
-    \ damage."
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft.\
+    \ or range 30/120 ft., one target. Hit: dice:2d6 + 4|text(11) (2d6 + 4)\
+    \ piercing damage."
   "name": "Javelin"
 "source":
 - "MM"

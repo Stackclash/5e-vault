@@ -27,7 +27,7 @@ The region containing Zuggtmoy's lair is warped by his magic, creating one or mo
 - Plant life within 1 mile of the lair becomes infested with parasitic fungi, slowly mutating as it is overwhelmed.  
 - If a humanoid spends at least 1 hour within 1 mile of the lair, that creature must succeed on a DC 17 Wisdom saving throw or descend into a madness determined by the Madness of Zuggtmoy table. A creature that succeeds on this saving throw can't be affected by this regional effect again for 24 hours.  
 
-If Zuggtmoy dies, these effects fade over the course of `dice: 1d10|avg` (`1d10`) days.
+If Zuggtmoy dies, these effects fade over the course of `dice: 1d10|avg|noform` (`1d10`) days.
 
 ### Madness of Zuggtmoy
 

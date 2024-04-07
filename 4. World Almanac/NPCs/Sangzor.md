@@ -114,6 +114,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 "type": "beast"
 "alignment": "Chaotic Evil"
 "ac": !!int "11"
+"ac_class": "natural armor"
 "hp": !!int "33"
 "hit_dice": "3d10 + 3"
 "stats":
@@ -130,7 +131,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 "cr": "1"
 "traits":
 - "desc": "If Sangzor moves at least 20 feet straight toward a target and then hits\
-    \ it with a ram attack on the same turn, the target takes an extra dice: 2d4|avg\
+    \ it with a ram attack on the same turn, the target takes an extra dice:2d4|text(5)\
     \ (2d4) bludgeoning damage. If the target is a creature, it must succeed on\
     \ a DC 13 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Charge"
@@ -138,8 +139,8 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ effects that would knock it [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Sure-Footed"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4 + 3|avg (2d4 + 3) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d4 + 3|text(8) (2d4 + 3) bludgeoning damage."
   "name": "Ram"
 "source":
 - "CoS"

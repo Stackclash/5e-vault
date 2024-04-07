@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-aliases: ["Appendix B: Monster Lists"]
+  - compendium/src/5e/dmg
+aliases:
+  - 'Appendix B: Monster Lists'
 ---
 # Appendix B: Monster Lists
 *Source: Dungeon Master's Guide, p. 302* 

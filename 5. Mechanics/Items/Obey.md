@@ -25,6 +25,6 @@ You have a +1 bonus to attack and damage rolls made with this magic weapon. If i
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon. When this weapon strikes a magic-user concentrating on a spell, their concentration is broken and they are knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]].
 
-When you score a critical hit, roll a `dice: d6|avg` (`d6`) on the Inexorables row of the [[5. Mechanics/Tables/Servitors.md\|Servitors]] chart (page 31). A glowing white door opens in front of you, the rolled servitor steps through, and the door vanishes. This servitor fights for you and obeys your commands. They return to Axiom after 1 minute or if they drop to 0 hit points. If this weapon strikes a member of the Court of All Flesh, they are immediately returned to Primordius.
+When you score a critical hit, roll a `dice: d6|avg|noform` (`d6`) on the Inexorables row of the [[5. Mechanics/Tables/Servitors.md\|Servitors]] chart (page 31). A glowing white door opens in front of you, the rolled servitor steps through, and the door vanishes. This servitor fights for you and obeys your commands. They return to Axiom after 1 minute or if they drop to 0 hit points. If this weapon strikes a member of the Court of All Flesh, they are immediately returned to Primordius.
 
 *Source: Strongholds and Followers p. 262*

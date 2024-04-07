@@ -114,6 +114,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 "type": "undead"
 "alignment": "Any Evil alignment"
 "ac": !!int "17"
+"ac_class": "natural armor"
 "hp": !!int "99"
 "hit_dice": "18d8 + 54"
 "stats":
@@ -143,13 +144,13 @@ await dv.view("npcRelationships", { current: dv.current() })
 "cr": "10"
 "traits":
 - "desc": "Exethanter is an 18th-level spellcaster. Its spellcasting ability is Intelligence\
-    \ (spell save DC 20, dice: d20+12 (+12 to hit) with spell attacks). Exethanter\
+    \ (spell save DC 20, dice: d20+12 (+12) to hit with spell attacks). Exethanter\
     \ has the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
     \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]], [[5. Mechanics/Spells/Ray Of Frost.md|ray of frost]]"
   "name": "spells"
 - "desc": "If Exethanter fails a saving throw, it can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
-- "desc": "If it has a phylactery, a destroyed lich gains a new body in dice: 1d10|avg\
+- "desc": "If it has a phylactery, a destroyed lich gains a new body in dice: 1d10|avg|noform\
     \ (1d10) days, regaining all its hit points and becoming active again. The new\
     \ body appears within 5 feet of the phylactery."
   "name": "Rejuvenation"
@@ -157,9 +158,9 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ undead."
   "name": "Turn Resistance"
 "actions":
-- "desc": "Melee Spell Attack: dice: d20+12 (+12 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 3d6|avg (3d6) cold damage. The target must succeed on a DC\
-    \ 18 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
+- "desc": "Melee Spell Attack: dice: d20+12 (+12) to hit, reach 5 ft., one creature.\
+    \ Hit: dice:3d6|text(10) (3d6) cold damage. The target must succeed on a\
+    \ DC 18 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
     \ for 1 minute. The target can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success."
   "name": "Paralyzing Touch"
@@ -177,7 +178,7 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ it, the target is immune to Exethanter's gaze for the next 24 hours."
   "name": "Frightening Gaze (Costs 2 Actions)"
 - "desc": "Each non-undead creature within 20 feet of Exethanter must make a DC 18\
-    \ Constitution saving throw against this magic, taking dice: 6d6|avg (6d6)\
+    \ Constitution saving throw against this magic, taking dice:6d6|text(21) (6d6)\
     \ necrotic damage on a failed save, or half as much damage on a successful one."
   "name": "Disrupt Life (Costs 3 Actions)"
 "source":

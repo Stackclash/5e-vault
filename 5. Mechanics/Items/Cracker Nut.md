@@ -22,6 +22,6 @@ The nuts of the *gunneria quercus* are loaded with an expanding gas that causes 
 
 ## Effect:
 
-This herb contains `dice: 1d8|avg` (`1d8`) charges, corresponding to the amount of nuts harvested. As an action, you may expend a charge to throw a nut at a point you can see within 30 feet of you, causing it to burst upon impact and creating a loud cracking sound that can be heard up to 100 feet away.
+This herb contains `dice: 1d8|avg|noform` (`1d8`) charges, corresponding to the amount of nuts harvested. As an action, you may expend a charge to throw a nut at a point you can see within 30 feet of you, causing it to burst upon impact and creating a loud cracking sound that can be heard up to 100 feet away.
 
 *Source: Hamund's Herbalism Handbook p. 10*

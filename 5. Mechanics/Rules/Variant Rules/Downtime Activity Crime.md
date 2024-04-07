@@ -31,7 +31,7 @@ If two checks are successful, the heist is a partial success, netting the charac
 
 If all three checks are successful, the character earns the full value of the loot.
 
-![Crime; Loot Value](compendium/tables/crime-loot-value-xge.md)
+![[5. Mechanics/Tables/Crime Loot Value.md\|Crime; Loot Value]]
 
 ## Complications
 

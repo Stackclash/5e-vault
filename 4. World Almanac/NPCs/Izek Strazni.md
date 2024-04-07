@@ -153,6 +153,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 "subtype": "human"
 "alignment": "Neutral Evil"
 "ac": !!int "14"
+"ac_class": "[[5. Mechanics/Items/Studded Leather Armor.md|studded leather]]"
 "hp": !!int "112"
 "hit_dice": "15d8 + 45"
 "stats":
@@ -176,13 +177,13 @@ await dv.view("npcRelationships", { current: dv.current() })
 "actions":
 - "desc": "Izek makes two attacks with his battleaxe."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) slashing damage, or dice: 2d10 + 4|avg\
-    \ (2d10 + 4) when used with two hands."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d8 + 4|text(13) (2d8 + 4) slashing damage, or dice:2d10 +\
+    \ 4|text(15) (2d10 + 4) when used with two hands."
   "name": "Battleaxe"
-- "desc": "Ranged Spell Attack: dice: d20+5 (+5 to hit), range 60 ft., one target.\
-    \ Hit: dice: 3d6|avg (3d6) fire damage. If the target is a flammable object\
-    \ that isn't being worn or carried, it catches fire."
+- "desc": "Ranged Spell Attack: dice: d20+5 (+5) to hit, range 60 ft., one target.\
+    \ Hit: dice:3d6|text(10) (3d6) fire damage. If the target is a flammable\
+    \ object that isn't being worn or carried, it catches fire."
   "name": "Hurl Flame"
 "source":
 - "CoS"

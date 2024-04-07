@@ -13,7 +13,6 @@ aliases:
   - Find the Path
 ---
 # Find the Path
-%%-- Embedded content starts on the next line. --%%
 *6th-level, Divination*  
 
 - **Casting time:** 1 minute

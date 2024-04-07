@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Thorny Vegepygmy
 ---
-# [[5. Mechanics\Bestiary\Plant\Thorny Vegepygmy.md|Thorny Vegepygmy]]
+# [[5. Mechanics/Bestiary/Plant/Thorny Vegepygmy.md|Thorny Vegepygmy]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 253, Volo's Guide to Monsters p. 197*
 
 If a Beast such as a dog or a bear dies from [[5. Mechanics/Traps Hazards/Russet Mold.md|russet mold]], the result is a bestial moldy called a thorny, instead of a bipedal vegepygmy. Thornies are less intelligent than other vegepygmies, but they are larger and more ferocious and have thorn-covered bodies.
@@ -29,6 +29,7 @@ Although they prefer to eat fresh meat, bone, and blood, vegepygmies can absorb 
 "type": "plant"
 "alignment": "Typically  Neutral"
 "ac": !!int "14"
+"ac_class": "natural armor"
 "hp": !!int "27"
 "hit_dice": "5d8 + 5"
 "stats":
@@ -55,12 +56,12 @@ Although they prefer to eat fresh meat, bone, and blood, vegepygmies can absorb 
     \ next turn. The thorny dies only if it starts its turn with 0 hit points and\
     \ doesn't regenerate."
   "name": "Regeneration"
-- "desc": "At the start of its turn, the thorny deals dice: 1d4|avg (1d4) piercing\
+- "desc": "At the start of its turn, the thorny deals dice:1d4|text(2) (1d4) piercing\
     \ damage to any creature grappling it."
   "name": "Thorny Body"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 1|avg (2d8 + 1) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d8 + 1|text(10) (2d8 + 1) piercing damage."
   "name": "Bite"
 "source":
 - "MPMM"

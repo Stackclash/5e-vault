@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Personality and Background"]
+  - compendium/src/5e/phb
+aliases:
+  - Personality and Background
 ---
 # Personality and Background
 *Source: Player's Handbook, p. 121* 

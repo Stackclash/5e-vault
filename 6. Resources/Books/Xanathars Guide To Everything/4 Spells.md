@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/xge
-aliases: ["Spells"]
+  - compendium/src/5e/xge
+aliases:
+  - Spells
 ---
 # Spells
 *Source: Xanathar's Guide to Everything, p. 147* 

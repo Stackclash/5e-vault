@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Bullywug
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Bullywug.md|Bullywug]]
+# [[5. Mechanics/Bestiary/Humanoid/Bullywug.md|Bullywug]]
 *Source: Monster Manual p. 35*
 
 Life as a bullywug is nasty, brutish, and wet. These frog-headed amphibious humanoids must stay constantly moist, dwelling in rainy forests, marshes, and damp caves. Always hungry and thoroughly evil, bullywugs overwhelm opponents with superior numbers when they can, but they flee from serious threats to search for easier prey.
@@ -43,6 +43,7 @@ Simple concepts in the language are understandable to frogs and toads. Bullywugs
 "subtype": "bullywug"
 "alignment": "Neutral Evil"
 "ac": !!int "15"
+"ac_class": "[[5. Mechanics/Items/Hide Armor.md|hide armor]], [[5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "11"
 "hit_dice": "2d8 + 2"
 "stats":
@@ -74,12 +75,12 @@ Simple concepts in the language are understandable to frogs and toads. Bullywugs
 - "desc": "The bullywug makes two melee attacks: one with its bite and one with its\
     \ spear."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 1|avg (1d4 + 1) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d4 + 1|text(3) (1d4 + 1) bludgeoning damage."
   "name": "Bite"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 1d6 + 1|avg (1d6 + 1) piercing\
-    \ damage, or dice: 1d8 + 1|avg (1d8 + 1) piercing damage if used with two\
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: dice:1d6 + 1|text(4) (1d6 + 1) piercing\
+    \ damage, or dice:1d8 + 1|text(5) (1d8 + 1) piercing damage if used with two\
     \ hands to make a melee attack."
   "name": "Spear"
 "source":

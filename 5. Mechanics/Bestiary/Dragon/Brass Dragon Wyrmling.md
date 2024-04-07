@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Brass Dragon Wyrmling
 ---
-# [[5. Mechanics\Bestiary\Dragon\Brass Dragon Wyrmling.md|Brass Dragon Wyrmling]]
+# [[5. Mechanics/Bestiary/Dragon/Brass Dragon Wyrmling.md|Brass Dragon Wyrmling]]
 *Source: Monster Manual p. 106. Available in the SRD.*
 
 The most gregarious of the true dragons, brass dragons crave conversation, sunlight, and hot, dry climates.
@@ -85,6 +85,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 "type": "dragon"
 "alignment": "Chaotic Good"
 "ac": !!int "16"
+"ac_class": "natural armor"
 "hp": !!int "16"
 "hit_dice": "3d8 + 3"
 "stats":
@@ -108,12 +109,12 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 "languages": "Draconic"
 "cr": "1"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d10 + 2|avg (1d10 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d10 + 2|text(7) (1d10 + 2) piercing damage."
   "name": "Bite"
 - "desc": "The dragon uses one of the following breath weapons.\n\n- Fire Breath.\
     \ The dragon exhales fire in a 20-foot line that is 5 feet wide. Each creature\
-    \ in that line must make a DC 11 Dexterity saving throw, taking dice: 4d6|avg\
+    \ in that line must make a DC 11 Dexterity saving throw, taking dice:4d6|text(14)\
     \ (4d6) fire damage on a failed save, or half as much damage on a successful\
     \ one.  \n- Sleep Breath. The dragon exhales sleep gas in a 15-foot cone.\
     \ Each creature in that area must succeed on a DC 11 Constitution saving throw\

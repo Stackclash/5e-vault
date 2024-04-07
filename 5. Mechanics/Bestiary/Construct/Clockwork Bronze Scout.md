@@ -14,7 +14,7 @@ statblock: inline
 aliases:
   - Clockwork Bronze Scout
 ---
-# [[5. Mechanics\Bestiary\Construct\Clockwork Bronze Scout.md|Clockwork Bronze Scout]]
+# [[5. Mechanics/Bestiary/Construct/Clockwork Bronze Scout.md|Clockwork Bronze Scout]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 79, Mordenkainen's Tome of Foes p. 125*
 
 A bronze scout seldom emerges from underground. Its telescoping eyestalks observe foes at close range while most of its segmented body remains buried. If detected, it sends electrical shocks through the ground toward pursuers while it retreats.
@@ -51,13 +51,13 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
 
 | dice: d8 | Malfunction |
 |----------|-------------|
-| 1 | **Faulty Sensors.** Roll a `dice: d6\|avg` (`d6`) at the start of the clock work's turn. If you roll a 1, the clockwork is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] until the end of its turn. |
-| 2 | **Flawed Targeting.** Roll a `dice: d6\|avg` (`d6`) at the start of the clock work's turn. If you roll a 1, the clockwork makes attack rolls with disadvantage until the end of its turn. |
+| 1 | **Faulty Sensors.** Roll a `dice: d6\|avg|noform` (`d6`) at the start of the clock work's turn. If you roll a 1, the clockwork is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] until the end of its turn. |
+| 2 | **Flawed Targeting.** Roll a `dice: d6\|avg|noform` (`d6`) at the start of the clock work's turn. If you roll a 1, the clockwork makes attack rolls with disadvantage until the end of its turn. |
 | 3 | **Ground Fault.** The clockwork has vulnerability to lightning damage. |
-| 4 | **Imprinting Loop.** Roll a `dice: d6\|avg` (`d6`) at the start of the clock work's turn. If you roll a 1, the clockwork mistakes one creature it can see within 30 feet for its creator. The clockwork won't willingly harm that creature for 1 minute or until that creature attacks or dam ages it. |
+| 4 | **Imprinting Loop.** Roll a `dice: d6\|avg|noform` (`d6`) at the start of the clock work's turn. If you roll a 1, the clockwork mistakes one creature it can see within 30 feet for its creator. The clockwork won't willingly harm that creature for 1 minute or until that creature attacks or dam ages it. |
 | 5 | **Limited Steering.** The clockwork must move in a straight line. It can turn up to 90 degrees before moving and again at the midpoint of its movement. It can rotate freely if it doesn't use any of its speeds on its turn. |
-| 6 | **Overactive Sense of Self-Preservation.** If the clock work has half its hit points or fewer at the start of its turn in combat, roll a `dice: d6\|avg` (`d6`). If you roll a 1, it retreats from combat if possible. It otherwise keeps fighting. |
-| 7 | **Overheats.** Roll a `dice: d6\|avg` (`d6`) at the start of the clockwork's turn. If you roll a 1, the clockwork is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] until the end of its turn. |
+| 6 | **Overactive Sense of Self-Preservation.** If the clock work has half its hit points or fewer at the start of its turn in combat, roll a `dice: d6\|avg|noform` (`d6`). If you roll a 1, it retreats from combat if possible. It otherwise keeps fighting. |
+| 7 | **Overheats.** Roll a `dice: d6\|avg|noform` (`d6`) at the start of the clockwork's turn. If you roll a 1, the clockwork is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] until the end of its turn. |
 | 8 | **Rusty Gears.** The clockwork has disadvantage on initiative rolls, and its speed decreases by 10 feet. |
 ^clockwork-malfunctions
 
@@ -96,13 +96,13 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
 - "desc": "The clockwork doesn't require air, food, drink, or sleep."
   "name": "Unusual Nature"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) piercing damage plus dice: 1d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d4 + 3|text(5) (1d4 + 3) piercing damage plus dice:1d6|text(3)\
     \ (1d6) lightning damage."
   "name": "Bite"
 - "desc": "Each creature in contact with the ground within 15 feet of the clockwork\
-    \ must make a DC 13 Dexterity saving throw, taking dice: 4d6|avg (4d6) lightning\
-    \ damage on a failed save, or half as much damage on a successful one."
+    \ must make a DC 13 Dexterity saving throw, taking dice:4d6|text(14) (4d6)\
+    \ lightning damage on a failed save, or half as much damage on a successful one."
   "name": "Lightning Flare (Recharges after a Short or Long Rest)"
 "source":
 - "MPMM"

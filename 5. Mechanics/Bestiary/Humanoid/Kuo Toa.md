@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Kuo-toa
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Kuo Toa.md|Kuo-toa]]
+# [[5. Mechanics/Bestiary/Humanoid/Kuo Toa.md|Kuo-toa]]
 *Source: Monster Manual p. 199*
 
 Kuo-toa are degenerate fishlike humanoids that once inhabited the shores and islands of the surface world. Long ago humans and their ilk drove the kuo-toa underground, where they dwell in madness and everlasting night. Kuo-toa can no longer abide daylight.
@@ -46,9 +46,9 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 > 
 > **Multiattack.** The kuo-toa makes one bite attack and two unarmed strikes.
 > 
-> **Bite.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: `dice: 1d4 + 2|avg` (`1d4 + 2`) piercing damage.
+> **Bite.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: `dice:1d4 + 2|text(4)` (`1d4 + 2`) piercing damage.
 > 
-> **Unarmed Strike.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: `dice: 1d6 + 2|avg` (`1d6 + 2`) bludgeoning damage + `dice: 1d6|avg` (`1d6`) lightning damage, and the target can't take reactions until the end of the kuo-toa's next turn.
+> **Unarmed Strike.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: `dice:1d6 + 2|text(5)` (`1d6 + 2`) bludgeoning damage + `dice:1d6|text(3)` (`1d6`) lightning damage, and the target can't take reactions until the end of the kuo-toa's next turn.
 ^variant-kuo-toa-monitor
 
 > [!quote]- A quote from Sabal Mizzrym of Menzoberranzan  
@@ -63,6 +63,7 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 "subtype": "kuo-toa"
 "alignment": "Neutral Evil"
 "ac": !!int "13"
+"ac_class": "natural armor, [[5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "18"
 "hit_dice": "4d8"
 "stats":
@@ -93,15 +94,15 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
     \ rely on sight."
   "name": "Sunlight Sensitivity"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 1|avg (1d4 + 1) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d4 + 1|text(3) (1d4 + 1) piercing damage."
   "name": "Bite"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 1d6 + 1|avg (1d6 + 1) piercing\
-    \ damage, or dice: 1d8 + 1|avg (1d8 + 1) piercing damage if used with two\
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: dice:1d6 + 1|text(4) (1d6 + 1) piercing\
+    \ damage, or dice:1d8 + 1|text(5) (1d8 + 1) piercing damage if used with two\
     \ hands to make a melee attack."
   "name": "Spear"
-- "desc": "Ranged Weapon Attack: dice: d20+3 (+3 to hit), range 5/15 ft., one\
+- "desc": "Ranged Weapon Attack: dice: d20+3 (+3) to hit, range 5/15 ft., one\
     \ Large or smaller creature. Hit: The target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]].\
     \ A creature can use its action to make a DC 10 Strength check to free itself\
     \ or another creature in a net, ending the effect on a success. Dealing 5 slashing\

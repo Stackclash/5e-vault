@@ -1,27 +1,28 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: null
 condition: healthy
 image: 4. World Almanac/NPCs/img/the-lord-of-blades.webp
 relationships: []
-tags: 
-aliases: [The Lord of Blades]
-pronounced: 
-race: 
-gender: 
-age: 
+tags: null
+aliases:
+  - The Lord of Blades
+pronounced: null
+race: null
+gender: null
+age: null
 alignment: Lawful Evil
-occupation: 
+occupation: null
 groups: []
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]
@@ -121,6 +122,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 "subtype": "warforged"
 "alignment": "Lawful Evil"
 "ac": !!int "19"
+"ac_class": "natural armor"
 "hp": !!int "195"
 "hit_dice": "23d8 + 92"
 "stats":
@@ -149,13 +151,14 @@ await dv.view("npcRelationships", { current: dv.current() })
 "cr": "18"
 "traits":
 - "desc": "The Lord of Blades is a 20th-level spellcaster. His spellcasting ability\
-    \ is Intelligence (spell save DC 18, dice: d20+10 (+10 to hit) with spell attacks).\
-    \ He has the following artificer spells prepared:\n\nCantrips (at will): [fire\
-    \ bolt](compendium/spells/fire-bolt.md) (see \"Actions\" below), [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
-    \ [[5. Mechanics/Spells/Mending.md|mending]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\
-    \n1st level (4 slots): [[5. Mechanics/Spells/Expeditious Retreat.md|expeditious retreat]],\
-    \ [[5. Mechanics/Spells/Sanctuary.md|sanctuary]], [[5. Mechanics/Spells/Thunderwave.md|thunderwave]]\n\
-    \n2nd level (3 slots): [[5. Mechanics/Spells/Blur.md|blur]], [[5. Mechanics/Spells/Heat Metal.md|heat metal]],\
+    \ is Intelligence (spell save DC 18, dice: d20+10 (+10) to hit with spell\
+    \ attacks). He has the following artificer spells prepared:\n\nCantrips (at\
+    \ will): [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]] (see \"Actions\" below),\
+    \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Mending.md|mending]],\
+    \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n1st level (4\
+    \ slots): [[5. Mechanics/Spells/Expeditious Retreat.md|expeditious retreat]], [[5. Mechanics/Spells/Sanctuary.md|sanctuary]],\
+    \ [[5. Mechanics/Spells/Thunderwave.md|thunderwave]]\n\n2nd level (3 slots):\
+    \ [[5. Mechanics/Spells/Blur.md|blur]], [[5. Mechanics/Spells/Heat Metal.md|heat metal]],\
     \ [[5. Mechanics/Spells/Scorching Ray.md|scorching ray]], [[5. Mechanics/Spells/See Invisibility.md|see invisibility]]\n\
     \n3rd level (3 slots): [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
     \ [[5. Mechanics/Spells/Fly.md|fly]], [[5. Mechanics/Spells/Haste.md|haste]]\n\n4th\
@@ -167,13 +170,13 @@ await dv.view("npcRelationships", { current: dv.current() })
 - "desc": "Any critical hit against the Lord of Blades becomes a normal hit."
   "name": "Adamantine Plating"
 - "desc": "A creature that grapples the Lord of Blades or is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ by him takes dice: 3d8|avg (3d8) slashing damage. A creature takes dice:\
-    \ 3d8|avg (3d8) slashing damage if it starts its turn grappling or being [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ by him takes dice:3d8|text(13) (3d8) slashing damage. A creature takes dice:3d8|text(13)\
+    \ (3d8) slashing damage if it starts its turn grappling or being [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ by the Lord of Blades."
   "name": "Bladed Armor"
 - "desc": "If the Lord of Blades moves at least 10 feet straight toward a target and\
     \ then hits it with his adamantine sixblade on the same turn, the target takes\
-    \ an extra dice: 2d10|avg (2d10) slashing damage. If the target is a creature,\
+    \ an extra dice:2d10|text(11) (2d10) slashing damage. If the target is a creature,\
     \ it must succeed on a DC 19 Strength saving throw or be pushed up to 10 feet\
     \ away and knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Charge"
@@ -184,16 +187,16 @@ await dv.view("npcRelationships", { current: dv.current() })
 - "desc": "The Lord of Blades makes three attacks: two with his adamantine sixblade\
     \ and one with his bladed wings."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+11 (+11 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 3d10 + 5|avg (3d10 + 5) slashing damage plus dice: 2d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+11 (+11) to hit, reach 10 ft., one\
+    \ target. Hit: dice:3d10 + 5|text(21) (3d10 + 5) slashing damage plus dice:2d6|text(7)\
     \ (2d6) force damage."
   "name": "Adamantine Sixblade"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+11 (+11 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 1d6 + 5|avg (1d6 + 5) slashing\
-    \ damage."
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+11 (+11) to hit, reach 5\
+    \ ft. or range 20/60 ft., one target. Hit: dice:1d6 + 5|text(8) (1d6 + 5)\
+    \ slashing damage."
   "name": "Bladed Wings"
-- "desc": "Ranged Spell Attack: dice: d20+10 (+10 to hit), range 120 ft., one\
-    \ target. Hit: dice: 4d10|avg (4d10) fire damage."
+- "desc": "Ranged Spell Attack: dice: d20+10 (+10) to hit, range 120 ft., one\
+    \ target. Hit: dice:4d10|text(22) (4d10) fire damage."
   "name": "Fire Bolt (Cantrip)"
 "legendary_actions":
 - "desc": "The Lord of Blades makes one weapon attack."

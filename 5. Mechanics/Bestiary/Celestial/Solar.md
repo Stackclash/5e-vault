@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Solar
 ---
-# [[5. Mechanics\Bestiary\Celestial\Solar.md|Solar]]
+# [[5. Mechanics/Bestiary/Celestial/Solar.md|Solar]]
 *Source: Monster Manual p. 18. Available in the SRD.*
 
 An angel is a celestial agent sent forth into the planes to further its god's agenda for weal or woe. Its sublime beauty and presence can drive awestruck onlookers to their knees. Yet angels are destroyers too, and their appearance portends doom as often as it signals hope.
@@ -45,6 +45,7 @@ It is said that only twenty-four solars exist. The few solars that are known are
 "type": "celestial"
 "alignment": "Lawful Good"
 "ac": !!int "21"
+"ac_class": "natural armor"
 "hp": !!int "243"
 "hit_dice": "18d10 + 144"
 "stats":
@@ -77,8 +78,8 @@ It is said that only twenty-four solars exist. The few solars that are known are
     \ [[5. Mechanics/Spells/Dispel Evil And Good.md|dispel evil and good]], [[5. Mechanics/Spells/Resurrection.md|resurrection]]"
   "name": "innate"
 - "desc": "The solar's weapon attacks are magical. When the solar hits with any weapon,\
-    \ the weapon deals an extra dice: 6d8|avg (6d8) radiant damage (included in\
-    \ the attack)."
+    \ the weapon deals an extra dice: 6d8|avg|noform (6d8) radiant damage (included\
+    \ in the attack)."
   "name": "Angelic Weapons"
 - "desc": "The solar knows if it hears a lie."
   "name": "Divine Awareness"
@@ -88,14 +89,15 @@ It is said that only twenty-four solars exist. The few solars that are known are
 "actions":
 - "desc": "The solar makes two greatsword attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+15 (+15 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 4d6 + 8|avg (4d6 + 8) slashing damage plus dice: 6d8|avg\
+- "desc": "Melee Weapon Attack: dice: d20+15 (+15) to hit, reach 5 ft., one\
+    \ target. Hit: dice:4d6 + 8|text(22) (4d6 + 8) slashing damage plus dice:6d8|text(27)\
     \ (6d8) radiant damage."
   "name": "Greatsword"
-- "desc": "Ranged Weapon Attack: dice: d20+13 (+13 to hit), range 150/600 ft.,\
-    \ one target. Hit: dice: 2d8 + 6|avg (2d8 + 6) piercing damage plus dice:\
-    \ 6d8|avg (6d8) radiant damage. If the target is a creature that has 100 hit\
-    \ points or fewer, it must succeed on a DC 15 Constitution saving throw or die."
+- "desc": "Ranged Weapon Attack: dice: d20+13 (+13) to hit, range 150/600 ft.,\
+    \ one target. Hit: dice:2d8 + 6|text(15) (2d8 + 6) piercing damage plus\
+    \ dice:6d8|text(27) (6d8) radiant damage. If the target is a creature that\
+    \ has 100 hit points or fewer, it must succeed on a DC 15 Constitution saving\
+    \ throw or die."
   "name": "Slaying Longbow"
 - "desc": "The solar releases its greatsword to hover magically in an unoccupied space\
     \ within 5 feet of it. If the solar can see the sword, the solar can mentally\
@@ -104,8 +106,8 @@ It is said that only twenty-four solars exist. The few solars that are known are
     \ by any effect, the solar is considered to be holding it. The hovering sword\
     \ falls if the solar dies."
   "name": "Flying Sword"
-- "desc": "The solar touches another creature. The target magically regains dice:\
-    \ 8d8 + 4|avg (8d8 + 4) hit points and is freed from any curse, disease, poison,\
+- "desc": "The solar touches another creature. The target magically regains dice:8d8\
+    \ + 4|text(40) (8d8 + 4) hit points and is freed from any curse, disease, poison,\
     \ blindness, or deafness."
   "name": "Healing Touch (4/Day)"
 "legendary_actions":
@@ -113,8 +115,8 @@ It is said that only twenty-four solars exist. The few solars that are known are
     \ carrying, up to 120 feet to an unoccupied space it can see."
   "name": "Teleport"
 - "desc": "The solar emits magical, divine energy. Each creature of its choice in\
-    \ a 10-foot radius must make a DC 23 Dexterity saving throw, taking dice: 4d6|avg\
-    \ (4d6) fire damage plus dice: 4d6|avg (4d6) radiant damage on a failed\
+    \ a 10-foot radius must make a DC 23 Dexterity saving throw, taking dice:4d6|text(14)\
+    \ (4d6) fire damage plus dice:4d6|text(14) (4d6) radiant damage on a failed\
     \ save, or half as much damage on a successful one."
   "name": "Searing Burst (Costs 2 Actions)"
 - "desc": "The solar targets one creature it can see within 30 feet of it. If the\

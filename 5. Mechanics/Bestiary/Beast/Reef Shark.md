@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Reef Shark
 ---
-# [[5. Mechanics\Bestiary\Beast\Reef Shark.md|Reef Shark]]
+# [[5. Mechanics/Bestiary/Beast/Reef Shark.md|Reef Shark]]
 *Source: Monster Manual p. 336. Available in the SRD and the Basic Rules.*
 
 Smaller than giant sharks and hunter sharks, reef sharks inhabit shallow waters and coral reefs, gathering in small packs to hunt. A full-grown specimen measures 6 to 10 feet long.
@@ -22,6 +22,7 @@ Smaller than giant sharks and hunter sharks, reef sharks inhabit shallow waters 
 "type": "beast"
 "alignment": "Unaligned"
 "ac": !!int "12"
+"ac_class": "natural armor"
 "hp": !!int "22"
 "hit_dice": "4d8 + 4"
 "stats":
@@ -45,8 +46,8 @@ Smaller than giant sharks and hunter sharks, reef sharks inhabit shallow waters 
 - "desc": "The shark can breathe only underwater."
   "name": "Water Breathing"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 2|avg (1d8 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 2|text(6) (1d8 + 2) piercing damage."
   "name": "Bite"
 "source":
 - "MM"

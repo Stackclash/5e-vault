@@ -16,7 +16,7 @@ statblock: inline
 aliases:
   - Troll
 ---
-# [[5. Mechanics\Bestiary\Giant\Troll.md|Troll]]
+# [[5. Mechanics/Bestiary/Giant/Troll.md|Troll]]
 *Source: Monster Manual p. 291. Available in the SRD and the Basic Rules.*
 
 Born with horrific appetites, trolls eat anything they can catch and devour. They have no society to speak of, but they do serve as mercenaries to orcs, ogres, ettins, hags, and giants. As payment, trolls demand food and treasure. Trolls are difficult to control, however, doing as they please even when working with more powerful creatures.
@@ -35,6 +35,7 @@ Their regenerative capabilities make trolls especially susceptible to mutation. 
 "type": "giant"
 "alignment": "Chaotic Evil"
 "ac": !!int "15"
+"ac_class": "natural armor"
 "hp": !!int "84"
 "hit_dice": "8d10 + 40"
 "stats":
@@ -62,11 +63,11 @@ Their regenerative capabilities make trolls especially susceptible to mutation. 
 "actions":
 - "desc": "The troll makes three attacks: one with its bite and two with its claws."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 4|text(7) (1d6 + 4) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) slashing damage."
   "name": "Claw"
 "source":
 - "MM"

@@ -14,7 +14,7 @@ aliases:
 
 Starts as a basic gray potion with no effect. However, if a material component is added, it gains one of the following effects:
 
-- **Potion of Bear's Endurance.** You gain `dice: 2d6|avg` (`2d6`) temporary hit points and have advantage on Constitution checks for 1 hour. Requires a hair from a bear.  
+- **Potion of Bear's Endurance.** You gain `dice: 2d6|avg|noform` (`2d6`) temporary hit points and have advantage on Constitution checks for 1 hour. Requires a hair from a bear.  
 - **Potion of Bull's Strength.** You have advantage on Strength checks and your carrying capacity doubles for 1 hour. Requires a tail-hair from a bull.  
 - **Potion of Cat's Grace.** You have advantage on Dexterity checks and do not take damage from falling up to 20 feet while you are not [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]] for 1 hour. Requires a cat's claw.  
 - **Potion of Eagle's Splendor.** You have advantage on Charisma checks for 1 hour. Requires an eagle's feather.  

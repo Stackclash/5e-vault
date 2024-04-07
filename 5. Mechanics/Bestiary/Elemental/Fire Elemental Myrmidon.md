@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Fire Elemental Myrmidon
 ---
-# [[5. Mechanics\Bestiary\Elemental\Fire Elemental Myrmidon.md|Fire Elemental Myrmidon]]
+# [[5. Mechanics/Bestiary/Elemental/Fire Elemental Myrmidon.md|Fire Elemental Myrmidon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 123, Mordenkainen's Tome of Foes p. 203*
 
 ## Elemental Myrmidons
@@ -23,6 +23,7 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 "type": "elemental"
 "alignment": "Typically  Neutral"
 "ac": !!int "18"
+"ac_class": "[[5. Mechanics/Items/Plate Armor.md|plate]]"
 "hp": !!int "123"
 "hit_dice": "19d8 + 38"
 "stats":
@@ -45,16 +46,16 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
     \ 40-foot radius."
   "name": "Illumination"
 - "desc": "For every 5 feet the myrmidon moves in 1 foot or more of water, it takes\
-    \ dice: 1d4|avg (1d4) cold damage."
+    \ dice:1d4|text(2) (1d4) cold damage."
   "name": "Water Susceptibility"
 "actions":
 - "desc": "The myrmidon makes three Scimitar attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 4|avg (1d6 + 4) force damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 4|text(7) (1d6 + 4) force damage."
   "name": "Scimitar"
-- "desc": "The myrmidon uses Multiattack. Each attack that hits deals an extra dice:\
-    \ 2d6|avg (2d6) fire damage."
+- "desc": "The myrmidon uses Multiattack. Each attack that hits deals an extra dice:2d6|text(7)\
+    \ (2d6) fire damage."
   "name": "Fiery Strikes (Recharge 6)"
 "source":
 - "MPMM"

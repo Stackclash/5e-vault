@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- compendium/src/5e/vgm
-- deity/orc
-- domain/tempest
-- domain/war
-aliases: ["Gruumsh"]
+  - compendium/src/5e/vgm
+  - deity/orc
+  - domain/tempest
+  - domain/war
+aliases:
+  - Gruumsh
 ---
 # Gruumsh
 *Source: Volo's Guide to Monsters p. 82* 

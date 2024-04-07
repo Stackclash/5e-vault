@@ -14,7 +14,7 @@ statblock: inline
 aliases:
   - Boggle
 ---
-# [[5. Mechanics\Bestiary\Fey\Boggle.md|Boggle]]
+# [[5. Mechanics/Bestiary/Fey/Boggle.md|Boggle]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 65, Volo's Guide to Monsters p. 128*
 
 Boggles are the little bogeys of fairy tales. They lurk in the fringes of the Feywild and are also found on the Material Plane, where they hide under beds and in closets, waiting to frighten and bedevil folk with their mischief.
@@ -50,8 +50,8 @@ A boggle can create magical openings to travel short distances or to pilfer item
 "languages": "Sylvan"
 "cr": "1/8"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+1 (+1 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 - 1|avg (1d6 - 1) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+1 (+1) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 - 1|text(2) (1d6 - 1) bludgeoning damage."
   "name": "Pummel"
 - "desc": "The boggle creates a puddle of nonflammable oil. The puddle is 1 inch deep\
     \ and covers the ground in the boggle's space. The puddle is difficult terrain\

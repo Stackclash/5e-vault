@@ -13,7 +13,6 @@ aliases:
   - Rary's Telepathic Bond
 ---
 # Rary's Telepathic Bond
-%%-- Embedded content starts on the next line. --%%
 *5th-level, Divination (ritual)*  
 
 - **Casting time:** 1 action unless cast as a ritual

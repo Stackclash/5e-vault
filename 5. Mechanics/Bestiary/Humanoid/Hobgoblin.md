@@ -15,7 +15,7 @@ statblock: inline
 aliases:
   - Hobgoblin
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Hobgoblin.md|Hobgoblin]]
+# [[5. Mechanics/Bestiary/Humanoid/Hobgoblin.md|Hobgoblin]]
 *Source: Monster Manual p. 186, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*
 
 War horns sound, stones fly from catapults, and the thunder of a thousand booted feet echoes across the land as hobgoblins march to battle. Across the borderlands of civilization, settlements and settlers must contend with these aggressive humanoids, whose thirst for conquest is never satisfied.
@@ -82,6 +82,7 @@ Hobgoblins worship Maglubiyet the Mighty One, the greater god of goblinoids. As 
 "subtype": "goblinoid"
 "alignment": "Lawful Evil"
 "ac": !!int "18"
+"ac_class": "[[5. Mechanics/Items/Chain Mail.md|chain mail]], [[5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "11"
 "hit_dice": "2d8 + 2"
 "stats":
@@ -96,17 +97,17 @@ Hobgoblins worship Maglubiyet the Mighty One, the greater god of goblinoids. As 
 "languages": "Common, Goblin"
 "cr": "1/2"
 "traits":
-- "desc": "Once per turn, the hobgoblin can deal an extra dice: 2d6|avg (2d6)\
+- "desc": "Once per turn, the hobgoblin can deal an extra dice:2d6|text(7) (2d6)\
     \ damage to a creature it hits with a weapon attack if that creature is within\
     \ 5 feet of an ally of the hobgoblin that isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
   "name": "Martial Advantage"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 1|avg (1d8 + 1) slashing damage, or dice: 1d10 + 1|avg\
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 1|text(5) (1d8 + 1) slashing damage, or dice:1d10 + 1|text(6)\
     \ (1d10 + 1) slashing damage if used with two hands."
   "name": "Longsword"
-- "desc": "Ranged Weapon Attack: dice: d20+3 (+3 to hit), range 150/600 ft., one\
-    \ target. Hit: dice: 1d8 + 1|avg (1d8 + 1) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+3 (+3) to hit, range 150/600 ft.,\
+    \ one target. Hit: dice:1d8 + 1|text(5) (1d8 + 1) piercing damage."
   "name": "Longbow"
 "source":
 - "MM"

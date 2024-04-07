@@ -15,14 +15,14 @@ aliases:
 
 | dice: d100 | Follower |
 |------------|----------|
-| 01–04 | Seasoned Light Infantry (Size `dice: 1d8\|avg` (`1d8`)), Unit |
-| 05–07 | Seasoned Medium Infantry (Size `dice: 1d8\|avg` (`1d8`)), Unit |
-| 08–10 | Veteran Light Infantry (Size `dice: 1d8\|avg` (`1d8`)), Unit |
-| 11–13 | Veteran Heavy Infantry (Size `dice: 1d6\|avg` (`1d6`)), Unit |
-| 14–15 | Regular Medium Cavalry (Size `dice: 1d6\|avg` (`1d6`)), Unit |
-| 16–17 | Seasoned Medium Cavalry (Size `dice: 1d6\|avg` (`1d6`)), Unit |
-| 18–19 | Veteran Medium Cavalry (Size `dice: 1d6\|avg` (`1d6`)), Unit |
-| 20 | Elite Light Cavalry (Size `dice: 1d4\|avg` (`1d4`)), Unit |
+| 01–04 | Seasoned Light Infantry (Size `dice: 1d8\|avg|noform` (`1d8`)), Unit |
+| 05–07 | Seasoned Medium Infantry (Size `dice: 1d8\|avg|noform` (`1d8`)), Unit |
+| 08–10 | Veteran Light Infantry (Size `dice: 1d8\|avg|noform` (`1d8`)), Unit |
+| 11–13 | Veteran Heavy Infantry (Size `dice: 1d6\|avg|noform` (`1d6`)), Unit |
+| 14–15 | Regular Medium Cavalry (Size `dice: 1d6\|avg|noform` (`1d6`)), Unit |
+| 16–17 | Seasoned Medium Cavalry (Size `dice: 1d6\|avg|noform` (`1d6`)), Unit |
+| 18–19 | Veteran Medium Cavalry (Size `dice: 1d6\|avg|noform` (`1d6`)), Unit |
+| 20 | Elite Light Cavalry (Size `dice: 1d4\|avg|noform` (`1d4`)), Unit |
 | 21 | [[5. Mechanics/Bestiary/Humanoid/Mystic.md\|Mystic]] (3rd Level), Retainer |
 | 22 | [[5. Mechanics/Bestiary/Humanoid/Acolyte Of The Way.md\|Acolyte of the Way]] (3rd Level), Retainer |
 | 23 | [[5. Mechanics/Bestiary/Humanoid/Loremaster.md\|Loremaster]] (3rd Level), Retainer |

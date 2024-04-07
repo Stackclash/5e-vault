@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/tce
-aliases: ["Group Patrons"]
+  - compendium/src/5e/tce
+aliases:
+  - Group Patrons
 ---
 # Group Patrons
 *Source: Tasha's Cauldron of Everything, p. 83* 
@@ -139,7 +140,7 @@ With the ancient being as your group's patron, you gain the following perks.
 
 ##### Equipment
 
-Your patron's network has access to certain magic items. You can purchase common magic items from your patron contact. The DM determines the available stock or can call for a group Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check to ascertain if the ancient being's network can successfully locate a desired item. The DC for this check is 10 in a city, 15 in a town, and 20 in a village. If the check fails, `dice: 1d8|avg` (`1d8`) days must pass before the same item can be searched for again in that community.
+Your patron's network has access to certain magic items. You can purchase common magic items from your patron contact. The DM determines the available stock or can call for a group Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check to ascertain if the ancient being's network can successfully locate a desired item. The DC for this check is 10 in a city, 15 in a town, and 20 in a village. If the check fails, `dice: 1d8|avg|noform` (`1d8`) days must pass before the same item can be searched for again in that community.
 
  The DM sets the price of a common magic item or determines it randomly: `2d4 × 10` gp, or half as much for a consumable item such as a potion or scroll.
 
@@ -255,7 +256,7 @@ Criminal syndicates range from the local thieves' guild, to a corrupt consortium
 
  Roll or pick from the Syndicate Types table to determine what type of criminal organization you serve.
 
-![Types of Criminal Syndicates; Syndicate Types](compendium/tables/types-of-criminal-syndicates-syndicate-types-tce.md)
+![[5. Mechanics/Tables/Types Of Criminal Syndicates Syndicate Types.md\|Types of Criminal Syndicates; Syndicate Types]]
 
 #### Criminal Syndicate Perks
 
@@ -287,7 +288,7 @@ Each member of the syndicate has a place in the organization. You report to a co
 
  Roll or pick from the Syndicate Contact table to determine your contact within a criminal organization.
 
-![Criminal Syndicate Contact; Syndicate Contact](compendium/tables/criminal-syndicate-contact-syndicate-contact-tce.md)
+![[5. Mechanics/Tables/Criminal Syndicate Contact Syndicate Contact.md\|Criminal Syndicate Contact; Syndicate Contact]]
 
 ![[6. Resources/Books/Tashas Cauldron Of Everything/img/063-02-005.webp#center\|"Ott Steeltoes holds aloft Sylgar, the infamous fish of the crime lord Xanathar"]]
 
@@ -417,7 +418,7 @@ Your primary contact within your hierarchy is your superior officer, the person 
 
 Roll or pick from the Military Force Contact table to determine who assigns you missions.
 
-![Military Force Contact; Commanding Officer](compendium/tables/military-force-contact-commanding-officer-tce.md)
+![[5. Mechanics/Tables/Military Force Contact Commanding Officer.md\|Military Force Contact; Commanding Officer]]
 
 #### Military Force Envoys
 

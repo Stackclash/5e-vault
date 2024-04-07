@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Drow
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Drow.md|Drow]]
+# [[5. Mechanics/Bestiary/Humanoid/Drow.md|Drow]]
 *Source: Monster Manual p. 128. Available in the SRD.*
 
 ## Drow
@@ -75,6 +75,7 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
 "subtype": "elf"
 "alignment": "Neutral Evil"
 "ac": !!int "15"
+"ac_class": "[[5. Mechanics/Items/Chain Shirt.md|chain shirt]]"
 "hp": !!int "13"
 "hit_dice": "3d8"
 "stats":
@@ -105,12 +106,12 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
     \ rely on sight."
   "name": "Sunlight Sensitivity"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 2|text(5) (1d6 + 2) piercing damage."
   "name": "Shortsword"
-- "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 30/120 ft., one\
-    \ target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage, and the target\
-    \ must succeed on a DC 13 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+- "desc": "Ranged Weapon Attack: dice: d20+4 (+4) to hit, range 30/120 ft.,\
+    \ one target. Hit: dice:1d6 + 2|text(5) (1d6 + 2) piercing damage, and the\
+    \ target must succeed on a DC 13 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
     \ for 1 hour. If the saving throw fails by 5 or more, the target is also [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]\
     \ while [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in this way. The\
     \ target wakes up if it takes damage or if another creature takes an action to\

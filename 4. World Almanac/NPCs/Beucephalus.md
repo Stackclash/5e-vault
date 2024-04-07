@@ -114,6 +114,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 "type": "fiend"
 "alignment": "Neutral Evil"
 "ac": !!int "13"
+"ac_class": "natural armor"
 "hp": !!int "104"
 "hit_dice": "8d10 + 24"
 "stats":
@@ -135,8 +136,8 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ additional 10 feet."
   "name": "Illumination"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) bludgeoning damage plus dice: 2d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d8 + 4|text(13) (2d8 + 4) bludgeoning damage plus dice:2d6|text(7)\
     \ (2d6) fire damage."
   "name": "Hooves"
 - "desc": "Beucephalus and up to three willing creatures within 5 feet of it magically\

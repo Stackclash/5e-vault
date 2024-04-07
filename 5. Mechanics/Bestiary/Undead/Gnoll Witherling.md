@@ -14,7 +14,7 @@ statblock: inline
 aliases:
   - Gnoll Witherling
 ---
-# [[5. Mechanics\Bestiary\Undead\Gnoll Witherling.md|Gnoll Witherling]]
+# [[5. Mechanics/Bestiary/Undead/Gnoll Witherling.md|Gnoll Witherling]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 145, Volo's Guide to Monsters p. 155*
 
 > [!quote]- A quote from Mordenkainen  
@@ -33,6 +33,7 @@ Witherlings travel with their comrades and try to kill anything in their path. T
 "type": "undead"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "12"
+"ac_class": "natural armor"
 "hp": !!int "11"
 "hit_dice": "2d8 + 2"
 "stats":
@@ -55,11 +56,11 @@ Witherlings travel with their comrades and try to kill anything in their path. T
 "actions":
 - "desc": "The witherling makes two Bite or Spiked Club attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) necrotic damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d4 + 2|text(4) (1d4 + 2) necrotic damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d4 + 2|text(4) (1d4 + 2) piercing damage."
   "name": "Spiked Club"
 "bonus_actions":
 - "desc": "After the witherling reduces a creature to 0 hit points with a melee attack\

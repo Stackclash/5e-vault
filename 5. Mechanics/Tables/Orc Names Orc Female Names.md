@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vgm
-aliases: ["Orc Names; Orc Female Names"]
+  - compendium/src/5e/vgm
+aliases:
+  - Orc Names; Orc Female Names
 ---
 # Orc Names; Orc Female Names
 *Source: Volo's Guide to Monsters p. 88* 

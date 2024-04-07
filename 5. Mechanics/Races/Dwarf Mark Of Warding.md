@@ -55,7 +55,7 @@ You can speak, read, and write Common and Dwarvish. Dwarvish is full of hard con
 
 ### Warder's Intuition
 
-When you make an Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check or an ability check using [[5. Mechanics/Items/Thieves Tools.md\|thieves' tools]], you can roll a `dice: d4|avg` (`d4`) and add the number rolled to the ability check.
+When you make an Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check or an ability check using [[5. Mechanics/Items/Thieves Tools.md\|thieves' tools]], you can roll a `dice: d4|avg|noform` (`d4`) and add the number rolled to the ability check.
 
 ### Wards and Seals
 

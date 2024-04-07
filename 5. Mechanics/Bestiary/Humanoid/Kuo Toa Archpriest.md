@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Kuo-toa Archpriest
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Kuo Toa Archpriest.md|Kuo-toa Archpriest]]
+# [[5. Mechanics/Bestiary/Humanoid/Kuo Toa Archpriest.md|Kuo-toa Archpriest]]
 *Source: Monster Manual p. 200*
 
 Kuo-toa are degenerate fishlike humanoids that once inhabited the shores and islands of the surface world. Long ago humans and their ilk drove the kuo-toa underground, where they dwell in madness and everlasting night. Kuo-toa can no longer abide daylight.
@@ -46,9 +46,9 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 > 
 > **Multiattack.** The kuo-toa makes one bite attack and two unarmed strikes.
 > 
-> **Bite.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: `dice: 1d4 + 2|avg` (`1d4 + 2`) piercing damage.
+> **Bite.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: `dice:1d4 + 2|text(4)` (`1d4 + 2`) piercing damage.
 > 
-> **Unarmed Strike.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: `dice: 1d6 + 2|avg` (`1d6 + 2`) bludgeoning damage + `dice: 1d6|avg` (`1d6`) lightning damage, and the target can't take reactions until the end of the kuo-toa's next turn.
+> **Unarmed Strike.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: `dice:1d6 + 2|text(5)` (`1d6 + 2`) bludgeoning damage + `dice:1d6|text(3)` (`1d6`) lightning damage, and the target can't take reactions until the end of the kuo-toa's next turn.
 ^variant-kuo-toa-monitor
 
 > [!quote]- A quote from Sabal Mizzrym of Menzoberranzan  
@@ -63,6 +63,7 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 "subtype": "kuo-toa"
 "alignment": "Neutral Evil"
 "ac": !!int "13"
+"ac_class": "natural armor"
 "hp": !!int "97"
 "hit_dice": "13d8 + 39"
 "stats":
@@ -81,7 +82,7 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 "cr": "6"
 "traits":
 - "desc": "The kuo-toa is a 10th-level spellcaster. Its spellcasting ability is Wisdom\
-    \ (spell save DC 14, dice: d20+6 (+6 to hit) with spell attacks). The kuo-toa\
+    \ (spell save DC 14, dice: d20+6 (+6) to hit with spell attacks). The kuo-toa\
     \ has the following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Guidance.md|guidance]],\
     \ [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
     \n1st level (4 slots): [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
@@ -109,12 +110,12 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 "actions":
 - "desc": "The kuo-toa makes two melee attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) bludgeoning damage plus dice: 4d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 3|text(6) (1d6 + 3) bludgeoning damage plus dice:4d6|text(14)\
     \ (4d6) lightning damage."
   "name": "Scepter"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d4 + 3|text(5) (1d4 + 3) bludgeoning damage."
   "name": "Unarmed Strike"
 "source":
 - "MM"

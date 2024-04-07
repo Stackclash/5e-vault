@@ -16,7 +16,7 @@ On initiative count 20 (losing initiative ties), the mummy lord takes a lair act
 
 - Each undead creature in the lair can pinpoint the location of each living creature within 120 feet of it until initiative count 20 on the next round.  
 - Each undead in the lair has advantage on saving throws against effects that turn undead until initiative count 20 on the next round.  
-- Until initiative count 20 on the next round, any non-undead creature that tries to cast a spell of 4th level or lower in the mummy lord's lair is wracked with pain. The creature can choose another action, but if it tries to cast the spell, it must make a DC 16 Constitution saving throw. On a failed save, it takes `dice: 1d6|avg` (`1d6`) necrotic damage per level of the spell, and the spell has no effect and is wasted.  
+- Until initiative count 20 on the next round, any non-undead creature that tries to cast a spell of 4th level or lower in the mummy lord's lair is wracked with pain. The creature can choose another action, but if it tries to cast the spell, it must make a DC 16 Constitution saving throw. On a failed save, it takes `dice: 1d6|avg|noform` (`1d6`) necrotic damage per level of the spell, and the spell has no effect and is wasted.  
 
 ## Regional effects
 _Source: Monster Manual_

@@ -26,9 +26,9 @@ Starting when you choose this path at 3rd level, spectral warriors appear when y
 
 ### Spirit Shield (Level 6)
 
-Beginning at 6th level, the guardian spirits that aid you can provide supernatural protection to those you defend. If you are raging and another creature you can see within 30 feet of you takes damage, you can use your reaction to reduce that damage by `dice: 2d6|avg` (`2d6`).
+Beginning at 6th level, the guardian spirits that aid you can provide supernatural protection to those you defend. If you are raging and another creature you can see within 30 feet of you takes damage, you can use your reaction to reduce that damage by `dice: 2d6|avg|noform` (`2d6`).
 
-When you reach certain levels in this class, you can reduce the damage by more: by `dice: 3d6|avg` (`3d6`) at 10th level and by `dice: 4d6|avg` (`4d6`) at 14th level.
+When you reach certain levels in this class, you can reduce the damage by more: by `dice: 3d6|avg|noform` (`3d6`) at 10th level and by `dice: 4d6|avg|noform` (`4d6`) at 14th level.
 
 ### Consult the Spirits (Level 10)
 

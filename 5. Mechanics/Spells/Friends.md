@@ -15,7 +15,6 @@ aliases:
   - Friends
 ---
 # Friends
-%%-- Embedded content starts on the next line. --%%
 *cantrip, Enchantment*  
 
 - **Casting time:** 1 action

@@ -11,7 +11,6 @@ aliases:
   - Word of Radiance
 ---
 # Word of Radiance
-%%-- Embedded content starts on the next line. --%%
 *cantrip, Evocation*  
 
 - **Casting time:** 1 action
@@ -19,9 +18,9 @@ aliases:
 - **Components:** V, a holy symbol
 - **Duration:** Instantaneous
 
-You utter a divine word, and burning radiance erupts from you. Each creature of your choice that you can see within range must succeed on a Constitution saving throw or take `dice: 1d6|avg` (`1d6`) radiant damage.
+You utter a divine word, and burning radiance erupts from you. Each creature of your choice that you can see within range must succeed on a Constitution saving throw or take `dice: 1d6|avg|noform` (`1d6`) radiant damage.
 
-The spell's damage increases by `dice: 1d6|avg` (`1d6`) when you reach 5th level (`dice: 2d6|avg` (`2d6`)), 11th level (`dice: 3d6|avg` (`3d6`)), and 17th level (`dice: 4d6|avg` (`4d6`)).
+The spell's damage increases by `dice: 1d6|avg|noform` (`1d6`) when you reach 5th level (`dice: 2d6|avg|noform` (`2d6`)), 11th level (`dice: 3d6|avg|noform` (`3d6`)), and 17th level (`dice: 4d6|avg|noform` (`4d6`)).
 
 **Classes**: [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Sorcerer Divine Soul.md\|Sorcerer (Divine Soul)]]
 

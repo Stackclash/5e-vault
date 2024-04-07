@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Dhergoloth
 ---
-# [[5. Mechanics\Bestiary\Fiend\Dhergoloth.md|Dhergoloth]]
+# [[5. Mechanics/Bestiary/Fiend/Dhergoloth.md|Dhergoloth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 94, Mordenkainen's Tome of Foes p. 248*
 
 > [!quote]- A quote from Mordenkainen  
@@ -31,6 +31,7 @@ Since dhergoloths are little more than brutes, employers must use caution when i
 "subtype": "yugoloth"
 "alignment": "Typically  Neutral Evil"
 "ac": !!int "15"
+"ac_class": "natural armor"
 "hp": !!int "119"
 "hit_dice": "14d8 + 56"
 "stats":
@@ -61,13 +62,13 @@ Since dhergoloths are little more than brutes, employers must use caution when i
 "actions":
 - "desc": "The dhergoloth makes two Claw attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 3|avg (2d8 + 3) force damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d8 + 3|text(12) (2d8 + 3) force damage."
   "name": "Claw"
 - "desc": "The dhergoloth moves up to its speed in a straight line and targets each\
     \ creature within 5 feet of it during its movement. Each target must succeed on\
-    \ a DC 14 Dexterity saving throw or take dice: 3d12 + 3|avg (3d12 + 3) force\
-    \ damage."
+    \ a DC 14 Dexterity saving throw or take dice:3d12 + 3|text(22) (3d12 + 3)\
+    \ force damage."
   "name": "Flailing Claws (Recharge 5-6)"
 - "desc": "The dhergoloth teleports, along with any equipment it is wearing or carrying,\
     \ up to 60 feet to an unoccupied space it can see."

@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Pony
 ---
-# [[5. Mechanics\Bestiary\Beast\Pony.md|Pony]]
+# [[5. Mechanics/Bestiary/Beast/Pony.md|Pony]]
 *Source: Monster Manual p. 335. Available in the SRD and the Basic Rules.*
 
 ```statblock
@@ -34,8 +34,8 @@ aliases:
 "languages": ""
 "cr": "1/8"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4 + 2|avg (2d4 + 2) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d4 + 2|text(7) (2d4 + 2) bludgeoning damage."
   "name": "Hooves"
 "source":
 - "MM"

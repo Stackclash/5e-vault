@@ -34,7 +34,7 @@ At 1st level, whenever you attempt to "harvest" a creature's skin, hide, or pelt
 
 ### Malleable Form (Level 6)
 
-Starting at 6th level, your malleable form makes transmutation and illusion magic cast on you effortless. Whenever you use a spell slot to cast either a transmutation spell on yourself or an illusion spell that changes your appearance, roll a `dice: d20|avg` (`d20`). If you roll a number lower than your sorcerer level, the spell slot you used is instantly restored.
+Starting at 6th level, your malleable form makes transmutation and illusion magic cast on you effortless. Whenever you use a spell slot to cast either a transmutation spell on yourself or an illusion spell that changes your appearance, roll a `dice: d20|avg|noform` (`d20`). If you roll a number lower than your sorcerer level, the spell slot you used is instantly restored.
 
 ### Full Embodiment (Level 14)
 

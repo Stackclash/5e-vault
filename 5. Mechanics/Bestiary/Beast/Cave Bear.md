@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Cave Bear
 ---
-# [[5. Mechanics\Bestiary\Beast\Cave Bear.md|Cave Bear]]
+# [[5. Mechanics/Bestiary/Beast/Cave Bear.md|Cave Bear]]
 *Source: Monster Manual p. 334*
 
 ```statblock
@@ -21,6 +21,7 @@ aliases:
 "type": "beast"
 "alignment": "Unaligned"
 "ac": !!int "12"
+"ac_class": "natural armor"
 "hp": !!int "42"
 "hit_dice": "5d10 + 15"
 "stats":
@@ -43,11 +44,11 @@ aliases:
 "actions":
 - "desc": "The bear makes two attacks: one with its bite and one with its claws."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 5|avg (1d8 + 5) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 5|text(9) (1d8 + 5) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 5|avg (2d6 + 5) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 5|text(12) (2d6 + 5) slashing damage."
   "name": "Claws"
 "source":
 - "MM"

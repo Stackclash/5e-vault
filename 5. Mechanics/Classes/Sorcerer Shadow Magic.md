@@ -48,7 +48,7 @@ After the saving throw succeeds, you can't use this feature again until you fini
 
 ### Hound of Ill Omen (Level 6)
 
-At 6th level, you gain the ability to call forth a howling creature of darkness to harass your foes. As a bonus action, you can spend 3 sorcery points to magically summon a hound of ill omen to target one creature you can see within 120 feet of you. The hound uses the [[5. Mechanics/Bestiary/Beast/Dire Wolf.md\|dire wolf]]'s statistics (see the Monster Manual or appendix C in the Player's Handbook), with the following changes:
+At 6th level, you gain the ability to call forth a howling creature of darkness to harass your foes. As a bonus action, you can spend 3 sorcery points to magically summon a [[5. Mechanics/Bestiary/Monstrosity/Hound Of Ill Omen.md\|hound of ill omen]] to target one creature you can see within 120 feet of you. The hound uses the [[5. Mechanics/Bestiary/Beast/Dire Wolf.md\|dire wolf]]'s statistics (see the Monster Manual or appendix C in the Player's Handbook), with the following changes:
 
 - The hound is size Medium, not Large, and it counts as a monstrosity, not a beast.  
 - It appears with a number of temporary hit points equal to half your sorcerer level.  

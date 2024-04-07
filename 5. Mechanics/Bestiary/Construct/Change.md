@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Change
 ---
-# [[5. Mechanics\Bestiary\Construct\Change.md|Change]]
+# [[5. Mechanics/Bestiary/Construct/Change.md|Change]]
 *Source: Strongholds and Followers p. 229*
 
 A close cousin to the Inexorables of Death and Fate, the Law of Change states that what has been done cannot be undone. Change opposes any magical attempt to reverse what is done, such as using magical healing to close a wound. "You cannot rewrite the world."
@@ -31,6 +31,7 @@ Change is more versatile than its simpler cousins. Its javelin grants it facilit
 "type": "construct"
 "alignment": "Lawful"
 "ac": !!int "18"
+"ac_class": "natural armor"
 "hp": !!int "120"
 "hit_dice": "16d8 + 48"
 "stats":
@@ -58,9 +59,9 @@ Change is more versatile than its simpler cousins. Its javelin grants it facilit
 "actions":
 - "desc": "Change makes three javelin attacks."
   "name": "Multiattack"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft.\
-    \ or range 30/120 ft., one target. Hit: dice: 2d8 + 3|avg (2d8 + 3) piercing\
-    \ damage."
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft.\
+    \ or range 30/120 ft., one target. Hit: dice:2d8 + 3|text(12) (2d8 + 3)\
+    \ piercing damage."
   "name": "Javelin"
 "source":
 - "SaF"

@@ -29,7 +29,7 @@ aliases:
 | 61-65 | While attuned to the artifact, you can't smell. |
 | 66-70 | While attuned to the artifact, nonmagical flames are extinguished within 30 feet of you. |
 | 71-80 | While you are attuned to the artifact, other creatures can't take short or long rests while within 300 feet of you. |
-| 81-85 | While attuned to the artifact, you deal `dice: 1d6\|avg` (`1d6`) necrotic damage to any plant you touch that isn't a creature. |
+| 81-85 | While attuned to the artifact, you deal `dice: 1d6\|avg|noform` (`1d6`) necrotic damage to any plant you touch that isn't a creature. |
 | 86-90 | While you are attuned to the artifact, animals within 30 feet of you are hostile toward you. |
 | 91-95 | While attuned to the artifact, you must eat and drink six times the normal amount each day. |
 | 96-00 | While you are attuned to the artifact, your flaw is amplified in a way determined by the DM. |

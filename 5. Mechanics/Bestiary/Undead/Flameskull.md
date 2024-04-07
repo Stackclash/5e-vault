@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Flameskull
 ---
-# [[5. Mechanics\Bestiary\Undead\Flameskull.md|Flameskull]]
+# [[5. Mechanics/Bestiary/Undead/Flameskull.md|Flameskull]]
 *Source: Monster Manual p. 134, Curse of Strahd, Tasha's Cauldron of Everything. Available in the Basic Rules.*
 
 Blazing green flames and mad, echoing laughter follow a disembodied skull as it patrols its demesne. When the undead flameskull discovers trespassers, it blasts the intruders with fiery rays from its eyes and dreadful spells called up from the dark recesses of its memory.
@@ -67,7 +67,7 @@ A flameskull doesn't require air, food, drink, or sleep
 "cr": "4"
 "traits":
 - "desc": "The flameskull is a 5th-level spellcaster. Its spellcasting ability is\
-    \ Intelligence (spell save DC 13, dice: d20+5 (+5 to hit) with spell attacks).\
+    \ Intelligence (spell save DC 13, dice: d20+5 (+5) to hit with spell attacks).\
     \ It requires no somatic or material components to cast its spells. The flameskull\
     \ has the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Mage Hand.md|mage hand]]\n\
     \n1st level (3 slots): [[5. Mechanics/Spells/Magic Missile.md|magic missile]],\
@@ -89,8 +89,8 @@ A flameskull doesn't require air, food, drink, or sleep
 "actions":
 - "desc": "The flameskull uses Fire Ray twice."
   "name": "Multiattack"
-- "desc": "Ranged Spell Attack: dice: d20+5 (+5 to hit), range 30 ft., one target.\
-    \ Hit: dice: 3d6|avg (3d6) fire damage."
+- "desc": "Ranged Spell Attack: dice: d20+5 (+5) to hit, range 30 ft., one target.\
+    \ Hit: dice:3d6|text(10) (3d6) fire damage."
   "name": "Fire Ray"
 "source":
 - "MM"

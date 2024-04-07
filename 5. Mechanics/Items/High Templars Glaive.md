@@ -22,7 +22,7 @@ aliases:
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon. Each time you attack, you choose whether it deals fire, cold, lightning, or slashing damage.
 
-Whenever you score a critical hit, roll a `dice: d6|avg` (`d6`) on the Court of Elements row of the [[5. Mechanics/Tables/Servitors.md\|Servitors]] chart (page 31). A tear opens to the elemental plane of Quintessence and the rolled servitor steps through. This servitor fights for you and obeys your commands. They return to Alloy, the Burning City, after 1 minute or if they drop to 0 hit points.
+Whenever you score a critical hit, roll a `dice: d6|avg|noform` (`d6`) on the Court of Elements row of the [[5. Mechanics/Tables/Servitors.md\|Servitors]] chart (page 31). A tear opens to the elemental plane of Quintessence and the rolled servitor steps through. This servitor fights for you and obeys your commands. They return to Alloy, the Burning City, after 1 minute or if they drop to 0 hit points.
 
 The glaive has a large brass blade on the end of a teak shaft with elemental runes carved into it. The runes glow faintly in the presence of an extraplanar being.
 

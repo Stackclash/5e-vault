@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Cavalier
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Cavalier.md|Cavalier]]
+# [[5. Mechanics/Bestiary/Humanoid/Cavalier.md|Cavalier]]
 *Source: Strongholds and Followers p. 77*
 
 ```statblock
@@ -20,6 +20,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "18"
+"ac_class": "Heavy"
 "stats":
 - !!int "18"
 - !!int "14"
@@ -45,12 +46,12 @@ aliases:
 - "desc": "This creature is a Retainer, as described in \"Strongholds and Followers\""
   "name": "Retainer"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d12 + 3|avg (1d12 + 3) piercing damage.\n\nAt 7th level, retainers\
-    \ can take two signature attacks per round."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d12 + 3|text(9) (1d12 + 3) piercing damage.\n\nAt 7th level,\
+    \ retainers can take two signature attacks per round."
   "name": "Signature Attack"
 - "desc": "Prerequisite: 3rd-level retainer\n\nThe cavalier's lance glows with radiant\
-    \ light. The cavalier takes their signature attack and deals an extra dice: 2d8|avg\
+    \ light. The cavalier takes their signature attack and deals an extra dice:2d8|text(9)\
     \ (2d8) radiant damage on a hit."
   "name": "Radiant Lance (3/Day)"
 - "desc": "Prerequisite: 5th-level retainer\n\nThe cavalier casts the [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]]\

@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/vgm
-- monster/cr/1-4
-- monster/size/small
-- monster/type/humanoid/goblinoid
+  - compendium/src/5e/vgm
+  - monster/cr/1-4
+  - monster/size/small
+  - monster/type/humanoid/goblinoid
 statblock: inline
-aliases: ["Booyahg Caster"]
+aliases:
+  - Booyahg Caster
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Booyahg Caster.md|Booyahg Caster]]
+# [[5. Mechanics/Bestiary/Humanoid/Booyahg Caster.md|Booyahg Caster]]
 *Source: Volo's Guide to Monsters p. 42*
 
 This goblin served under a hobgoblin wizard, stole a look at its master's spellbook, and learned a little wizardry by aping the gestures and words it remembered. The goblin can cast a randomly determined 1st-level wizard spell once per day. Intelligence is its spellcasting ability.
@@ -29,6 +30,7 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
 "subtype": "goblinoid"
 "alignment": "Neutral Evil"
 "ac": !!int "15"
+"ac_class": "[[5. Mechanics/Items/Leather Armor.md|leather armor]], [[5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "7"
 "hit_dice": "2d6"
 "stats":
@@ -47,17 +49,17 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
 "traits":
 - "desc": "The goblin can cast a randomly determined 1st-level wizard spell once per\
     \ day. Intelligence is its spellcasting ability (spell save DC 10, dice: d20+2\
-    \ (+2 to hit) with spell attacks).\n"
+    \ (+2) to hit with spell attacks).\n"
   "name": "spells"
 - "desc": "The goblin can take the Disengage or Hide action as a bonus action on each\
     \ of its turns."
   "name": "Nimble Escape"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 2|text(5) (1d6 + 2) slashing damage."
   "name": "Scimitar"
-- "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 80/320 ft., one\
-    \ target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+4 (+4) to hit, range 80/320 ft.,\
+    \ one target. Hit: dice:1d6 + 2|text(5) (1d6 + 2) piercing damage."
   "name": "Shortbow"
 "source":
 - "VGM"

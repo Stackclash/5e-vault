@@ -22,6 +22,6 @@ As can be gleaned from this herb's morbid name, corpse hands resemble a rotting 
 
 ## Effect:
 
-This herb may be applied to one melee weapon or up to 10 pieces of ammunition. A weapon that has had this herb applied to it is considered magical and deals an additional `dice: 1d8|avg` (`1d8`) necrotic damage upon its first successful hit in a turn. This effect lasts for 1 hour.
+This herb may be applied to one melee weapon or up to 10 pieces of ammunition. A weapon that has had this herb applied to it is considered magical and deals an additional `dice: 1d8|avg|noform` (`1d8`) necrotic damage upon its first successful hit in a turn. This effect lasts for 1 hour.
 
 *Source: Hamund's Herbalism Handbook p. 10*

@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Chain Devil
 ---
-# [[5. Mechanics\Bestiary\Fiend\Chain Devil.md|Chain Devil]]
+# [[5. Mechanics/Bestiary/Fiend/Chain Devil.md|Chain Devil]]
 *Source: Monster Manual p. 72. Available in the SRD.*
 
 This ominous fiend wears chains like a shroud. Driving lesser creatures before it with its fearsome gaze, a chain devil animates the chains that cover its body as well as inanimate chains nearby, which sprout hooks, blades, and spikes to eviscerate enemies.
@@ -128,11 +128,11 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 > 
 > - A barbed devil has a 30% chance chance of summoning one barbed devil.  
 > - A bearded devil has a 30% chance chance of summoning one bearded devil.  
-> - A bone devil has a 40% chance chance of summoning `dice: 2d6|avg` (`2d6`) spined devils or one bone devil.  
-> - An erinyes has a 50% chance chance of summoning `dice: 3d6|avg` (`3d6`) spined devils, `dice: 1d6|avg` (`1d6`) bearded devils, or one erinyes.  
+> - A bone devil has a 40% chance chance of summoning `dice: 2d6|avg|noform` (`2d6`) spined devils or one bone devil.  
+> - An erinyes has a 50% chance chance of summoning `dice: 3d6|avg|noform` (`3d6`) spined devils, `dice: 1d6|avg|noform` (`1d6`) bearded devils, or one erinyes.  
 > - A horned devil has a 30% chance chance of summoning one horned devil.  
 > - An ice devil has a 60% chance chance of summoning one ice devil.  
-> - A pit fiend summons `dice: 2d4|avg` (`2d4`) bearded devils, `dice: 1d4|avg` (`1d4`) barbed devils, or one erinyes with no chance of failure.  
+> - A pit fiend summons `dice: 2d4|avg|noform` (`2d4`) bearded devils, `dice: 1d4|avg|noform` (`1d4`) barbed devils, or one erinyes with no chance of failure.  
 > 
 > A summoned devil appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other devils. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 ^variant-devil-summoning
@@ -144,6 +144,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 "subtype": "devil"
 "alignment": "Lawful Evil"
 "ac": !!int "16"
+"ac_class": "natural armor"
 "hp": !!int "85"
 "hit_dice": "10d8 + 40"
 "stats":
@@ -174,12 +175,12 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 "actions":
 - "desc": "The devil makes two attacks with its chains."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) slashing damage. The target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 10 ft., one target.\
+    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) slashing damage. The target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ (escape DC 14) if the devil isn't already grappling a creature. Until this grapple\
     \ ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
-    \ and takes dice: 2d6|avg (2d6) piercing damage at the start of each of its\
-    \ turns."
+    \ and takes dice:2d6|text(7) (2d6) piercing damage at the start of each of\
+    \ its turns."
   "name": "Chain"
 - "desc": "Up to four chains the devil can see within 60 feet of it magically sprout\
     \ razor-edged barbs and animate under the devil's control, provided that the chains\

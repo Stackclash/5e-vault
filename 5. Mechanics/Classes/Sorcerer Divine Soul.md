@@ -41,7 +41,7 @@ In addition, choose an affinity for the source of your divine power: good, evil,
 
 ### Favored by the Gods (Level 1)
 
-Starting at 1st level, divine power guards your destiny. If you fail a saving throw or miss with an attack roll, you can roll `dice: 2d4|avg` (`2d4`) and add it to the total, possibly changing the outcome. Once you use this feature, you can't use it again until you finish a short or long rest.
+Starting at 1st level, divine power guards your destiny. If you fail a saving throw or miss with an attack roll, you can roll `dice: 2d4|avg|noform` (`2d4`) and add it to the total, possibly changing the outcome. Once you use this feature, you can't use it again until you finish a short or long rest.
 
 ### Empowered Healing (Level 6)
 

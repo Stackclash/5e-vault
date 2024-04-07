@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/vgm
-- monster/cr/7
-- monster/size/medium
-- monster/type/humanoid/any-race
+  - compendium/src/5e/vgm
+  - monster/cr/7
+  - monster/size/medium
+  - monster/type/humanoid/any-race
 statblock: inline
-aliases: ["Booyahg Slave of the Fiend"]
+aliases:
+  - Booyahg Slave of the Fiend
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Booyahg Slave Of The Fiend.md|Booyahg Slave of the Fiend]]
+# [[5. Mechanics/Bestiary/Humanoid/Booyahg Slave Of The Fiend.md|Booyahg Slave of the Fiend]]
 *Source: Volo's Guide to Monsters p. 42*
 
 This goblin warlock serves a patron who can extract payment in flesh if the goblin doesn't do as promised. Often this patron is a coven of hags serving as the tribe's boss, a fiend that has made its way into the world, or an undying lord such as a lich or a vampire. (For more information on undying lord patrons, see the "Sword Coast Adventurer's Guide").
@@ -29,6 +30,7 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "12"
+"ac_class": "15 with [[5. Mechanics/Spells/Mage Armor.md|mage armor]]"
 "hp": !!int "78"
 "hit_dice": "12d8 + 24"
 "stats":
@@ -61,7 +63,7 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
     \ [[5. Mechanics/Spells/Plane Shift.md|plane shift]]"
   "name": "innate"
 - "desc": "The goblin is a 17th-level spellcaster. Its spellcasting ability is Charisma\
-    \ (spell save DC 15, dice: d20+7 (+7 to hit) with spell attacks). It regains\
+    \ (spell save DC 15, dice: d20+7 (+7) to hit with spell attacks). It regains\
     \ its expended spell slots when it finishes a short or long rest. It knows the\
     \ following warlock spells:\n\nCantrips (at will): [[5. Mechanics/Spells/Eldritch Blast.md|eldritch blast]],\
     \ [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]], [[5. Mechanics/Spells/Friends.md|friends]],\
@@ -75,13 +77,13 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
     \ [[5. Mechanics/Spells/Wall Of Fire.md|wall of fire]]"
   "name": "spells"
 - "desc": "When the goblin makes an ability check or saving throw, it can add a dice:\
-    \ d10|avg (d10) to the roll. It can do this after the roll is made but before\
-    \ any of the roll's effects occur."
+    \ d10|avg|noform (d10) to the roll. It can do this after the roll is made but\
+    \ before any of the roll's effects occur."
   "name": "Dark One's Own Luck (Recharges after a Short or Long Rest)"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6|avg (1d6) bludgeoning damage plus dice: 3d6|avg (3d6)\
-    \ fire damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6|text(3) (1d6) bludgeoning damage plus dice:3d6|text(10)\
+    \ (3d6) fire damage."
   "name": "Mace"
 "source":
 - "VGM"

@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Weasel
 ---
-# [[5. Mechanics\Bestiary\Beast\Weasel.md|Weasel]]
+# [[5. Mechanics/Bestiary/Beast/Weasel.md|Weasel]]
 *Source: Monster Manual p. 340. Available in the SRD and the Basic Rules.*
 
 ```statblock
@@ -40,7 +40,7 @@ aliases:
     \ checks that rely on hearing or smell."
   "name": "Keen Hearing and Smell"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one creature.\
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one creature.\
     \ Hit: 1 piercing damage."
   "name": "Bite"
 "source":

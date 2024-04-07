@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Goristro
 ---
-# [[5. Mechanics\Bestiary\Fiend\Goristro.md|Goristro]]
+# [[5. Mechanics/Bestiary/Fiend/Goristro.md|Goristro]]
 *Source: Monster Manual p. 59*
 
 The goristro resembles a fiendish minotaur towering more than twenty feet tall. When controlled by a demon lord, goristros make formidable living siege engines and prized pets. Goristros possess preternatural cunning when navigating labyrinthine passages and shifting corridors, pursuing foes in a terrifying hunt.
@@ -166,14 +166,14 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 > 
 > Some demons can have an action option that allows them to summon other demons. Summon Demon (1/Day). The demon chooses what to summon and attempts a magical summoning.
 > 
-> - A balor has a 50% chance chance of summoning `dice: 1d8|avg` (`1d8`) vrocks, `dice: 1d6|avg` (`1d6`) hezrous, `dice: 1d4|avg` (`1d4`) glabrezus, `dice: 1d3|avg` (`1d3`) nalfeshnees, `dice: 1d2|avg` (`1d2`) mariliths, or one goristro.  
+> - A balor has a 50% chance chance of summoning `dice: 1d8|avg|noform` (`1d8`) vrocks, `dice: 1d6|avg|noform` (`1d6`) hezrous, `dice: 1d4|avg|noform` (`1d4`) glabrezus, `dice: 1d3|avg|noform` (`1d3`) nalfeshnees, `dice: 1d2|avg|noform` (`1d2`) mariliths, or one goristro.  
 > - A barlgura has a 30% chance chance of summoning one barlgura.  
 > - A chasme has a 30% chance chance of summoning one chasme.  
-> - A glabrezu has a 30% chance chance of summoning `dice: 1d3|avg` (`1d3`) vrocks, `dice: 1d2|avg` (`1d2`) hezrous, or one glabrezu.  
-> - A hezrou has a 30% chance chance of summoning `dice: 2d6|avg` (`2d6`) dretches or one hezrou.  
-> - A marilith has a 50% chance chance of summoning `dice: 1d6|avg` (`1d6`) vrocks, `dice: 1d4|avg` (`1d4`) hezrous, `dice: 1d3|avg` (`1d3`) glabrezus, `dice: 1d2|avg` (`1d2`) nalfeshnees, or one marilith.  
-> - A nalfeshnee has a 50% chance chance of summoning `dice: 1d4|avg` (`1d4`) vrocks, `dice: 1d3|avg` (`1d3`) hezrous, `dice: 1d2|avg` (`1d2`) glabrezus, or one nalfeshnee.  
-> - A vrock has a 30% chance chance of summoning `dice: 2d4|avg` (`2d4`) dretches or one vrock.  
+> - A glabrezu has a 30% chance chance of summoning `dice: 1d3|avg|noform` (`1d3`) vrocks, `dice: 1d2|avg|noform` (`1d2`) hezrous, or one glabrezu.  
+> - A hezrou has a 30% chance chance of summoning `dice: 2d6|avg|noform` (`2d6`) dretches or one hezrou.  
+> - A marilith has a 50% chance chance of summoning `dice: 1d6|avg|noform` (`1d6`) vrocks, `dice: 1d4|avg|noform` (`1d4`) hezrous, `dice: 1d3|avg|noform` (`1d3`) glabrezus, `dice: 1d2|avg|noform` (`1d2`) nalfeshnees, or one marilith.  
+> - A nalfeshnee has a 50% chance chance of summoning `dice: 1d4|avg|noform` (`1d4`) vrocks, `dice: 1d3|avg|noform` (`1d3`) hezrous, `dice: 1d2|avg|noform` (`1d2`) glabrezus, or one nalfeshnee.  
+> - A vrock has a 30% chance chance of summoning `dice: 2d4|avg|noform` (`2d4`) dretches or one vrock.  
 > - A yochlol has a 50% chance chance of summoning one yochlol.  
 > 
 > A summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
@@ -191,6 +191,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "subtype": "demon"
 "alignment": "Chaotic Evil"
 "ac": !!int "19"
+"ac_class": "natural armor"
 "hp": !!int "310"
 "hit_dice": "23d12 + 161"
 "stats":
@@ -217,10 +218,9 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "cr": "17"
 "traits":
 - "desc": "If the goristro moves at least 15 feet straight toward a target and then\
-    \ hits it with a gore attack on the same turn, the target takes an extra dice:\
-    \ 7d10|avg (7d10) piercing damage. If the target is a creature, it must succeed\
-    \ on a DC 21 Strength saving throw or be pushed up to 20 feet away and knocked\
-    \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ hits it with a gore attack on the same turn, the target takes an extra dice:7d10|text(38)\
+    \ (7d10) piercing damage. If the target is a creature, it must succeed on a\
+    \ DC 21 Strength saving throw or be pushed up to 20 feet away and knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Charge"
 - "desc": "The goristro can perfectly recall any path it has traveled."
   "name": "Labyrinthine Recall"
@@ -232,15 +232,16 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "actions":
 - "desc": "The goristro makes three attacks: two with its fists and one with its hoof."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 3d8 + 7|avg (3d8 + 7) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+13 (+13) to hit, reach 10 ft., one\
+    \ target. Hit: dice:3d8 + 7|text(20) (3d8 + 7) bludgeoning damage."
   "name": "Fist"
-- "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 3d10 + 7|avg (3d10 + 7) bludgeoning damage. If the target is\
-    \ a creature, it must succeed on a DC 21 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+- "desc": "Melee Weapon Attack: dice: d20+13 (+13) to hit, reach 5 ft., one\
+    \ target. Hit: dice:3d10 + 7|text(23) (3d10 + 7) bludgeoning damage. If\
+    \ the target is a creature, it must succeed on a DC 21 Strength saving throw or\
+    \ be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Hoof"
-- "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 7d10 + 7|avg (7d10 + 7) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+13 (+13) to hit, reach 10 ft., one\
+    \ target. Hit: dice:7d10 + 7|text(45) (7d10 + 7) piercing damage."
   "name": "Gore"
 "source":
 - "MM"

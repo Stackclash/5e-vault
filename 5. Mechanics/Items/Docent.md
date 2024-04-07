@@ -27,11 +27,11 @@ Whenever you end your turn with 0 hit points, the docent can make a Wisdom ([[/5
 
 A docent has the following properties:
 
-**Languages**. The docent knows Common, Giant, and `dice: 1d4|avg` (`1d4`) additional languages chosen by the DM. If a docent knows fewer than six languages, it can learn a new language after it hears or reads the language through your senses.
+**Languages**. The docent knows Common, Giant, and `dice: 1d4|avg|noform` (`1d4`) additional languages chosen by the DM. If a docent knows fewer than six languages, it can learn a new language after it hears or reads the language through your senses.
 
-**Skills**. The docent has a +7 bonus to one of the following skills (roll a `dice: d4|avg` (`d4`)): (1) [[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]], (2) [[/5. Mechanics/Rules/Skills.md#History\|History]], (3) [[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]], or (4) [[/5. Mechanics/Rules/Skills.md#Nature\|Nature]].
+**Skills**. The docent has a +7 bonus to one of the following skills (roll a `dice: d4|avg|noform` (`d4`)): (1) [[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]], (2) [[/5. Mechanics/Rules/Skills.md#History\|History]], (3) [[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]], or (4) [[/5. Mechanics/Rules/Skills.md#Nature\|Nature]].
 
-**Spells**. The docent knows one of the following spells and can cast it at will, requiring no components (roll a `dice: d6|avg` (`d6`)): (1–2) [[5. Mechanics/Spells/Detect Evil And Good.md\|detect evil and good]] or (3–6) [[5. Mechanics/Spells/Detect Magic.md\|detect magic]]. The docent decides when to cast the spell.
+**Spells**. The docent knows one of the following spells and can cast it at will, requiring no components (roll a `dice: d6|avg|noform` (`d6`)): (1–2) [[5. Mechanics/Spells/Detect Evil And Good.md\|detect evil and good]] or (3–6) [[5. Mechanics/Spells/Detect Magic.md\|detect magic]]. The docent decides when to cast the spell.
 
 ## Personality
 

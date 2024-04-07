@@ -116,6 +116,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 "subtype": "human"
 "alignment": "Neutral Evil"
 "ac": !!int "12"
+"ac_class": "15 with [[5. Mechanics/Spells/Mage Armor.md|mage armor]]"
 "hp": !!int "40"
 "hit_dice": "9d8"
 "stats":
@@ -137,7 +138,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 "cr": "6"
 "traits":
 - "desc": "Victor is a 9th-level spellcaster. Its spellcasting ability is Intelligence\
-    \ (spell save DC 14, dice: d20+6 (+6 to hit) with spell attacks). Victor has\
+    \ (spell save DC 14, dice: d20+6 (+6) to hit with spell attacks). Victor has\
     \ the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]],\
     \ [[5. Mechanics/Spells/Light.md|light]], [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
     \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n1st level (4\
@@ -151,8 +152,8 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ of cold](compendium/spells/cone-of-cold.md)"
   "name": "spells"
 "actions":
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing\
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: dice:1d4 + 2|text(4) (1d4 + 2) piercing\
     \ damage."
   "name": "Dagger"
 "source":

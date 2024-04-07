@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Retriever
 ---
-# [[5. Mechanics\Bestiary\Construct\Retriever.md|Retriever]]
+# [[5. Mechanics/Bestiary/Construct/Retriever.md|Retriever]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 209, Mordenkainen's Tome of Foes p. 222*
 
 The retriever is a potent, spider-like Construct conceived and built by Underdark followers of Lolth for one original purpose—to prowl the Abyss and capture demons for these cultists to enslave or use in their rituals. The automatons proved so effective and so fearsome that they now perform many different missions.
@@ -26,6 +26,7 @@ Though retrievers were created to operate only in the Abyss, they are sometimes 
 "type": "construct"
 "alignment": "Typically  Lawful Evil"
 "ac": !!int "19"
+"ac_class": "natural armor"
 "hp": !!int "210"
 "hit_dice": "20d10 + 100"
 "stats":
@@ -69,12 +70,13 @@ Though retrievers were created to operate only in the Abyss, they are sometimes 
 - "desc": "The retriever makes two Foreleg attacks, and it uses Force Beam or Paralyzing\
     \ Beam, if available."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+11 (+11 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d8 + 6|avg (2d8 + 6) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+11 (+11) to hit, reach 10 ft., one\
+    \ target. Hit: dice:2d8 + 6|text(15) (2d8 + 6) slashing damage."
   "name": "Foreleg"
 - "desc": "The retriever targets one creature it can see within 60 feet of it. The\
-    \ target must make a DC 16 Dexterity saving throw, taking dice: 5d10|avg (5d10)\
-    \ force damage on a failed save, or half as much damage on a successful one."
+    \ target must make a DC 16 Dexterity saving throw, taking dice:5d10|text(27)\
+    \ (5d10) force damage on a failed save, or half as much damage on a successful\
+    \ one."
   "name": "Force Beam"
 - "desc": "The retriever targets one creature it can see within 60 feet of it. The\
     \ target must succeed on a DC 18 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\

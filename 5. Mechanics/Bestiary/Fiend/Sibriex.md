@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Sibriex
 ---
-# [[5. Mechanics\Bestiary\Fiend\Sibriex.md|Sibriex]]
+# [[5. Mechanics/Bestiary/Fiend/Sibriex.md|Sibriex]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 217, Mordenkainen's Tome of Foes p. 137*
 
 Thought to be as old as the Abyss itself, sibriexes haunt remote parts of that plane, where they use their vile abilities to create new horrors and they seek ancient lore. Rivulets of blood and bile cascade from a sibriex's body, polluting the surrounding landscape.
@@ -27,6 +27,7 @@ Sibriexes can channel the power of the Abyss to create new demons from other cre
 "subtype": "demon"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "19"
+"ac_class": "natural armor"
 "hp": !!int "150"
 "hit_dice": "12d12 + 72"
 "stats":
@@ -60,7 +61,7 @@ Sibriexes can channel the power of the Abyss to create new demons from other cre
 - "desc": "The sibriex emits an aura of corruption 30 feet in every direction. Vegetation\
     \ withers in the aura, and the ground in the aura is difficult terrain for other\
     \ creatures. Any creature that starts its turn in the aura must succeed on a DC\
-    \ 20 Constitution saving throw or take dice: 4d6|avg (4d6) poison damage.\
+    \ 20 Constitution saving throw or take dice:4d6|text(14) (4d6) poison damage.\
     \ A creature that succeeds on the save is immune to this sibriex's Contamination\
     \ for 24 hours."
   "name": "Contamination"
@@ -72,11 +73,11 @@ Sibriexes can channel the power of the Abyss to create new demons from other cre
 "actions":
 - "desc": "The sibriex makes three Chain attacks, and it uses Squirt Bile."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 15 ft., one target.\
-    \ Hit: dice: 2d12 + 7|avg (2d12 + 7) force damage."
+- "desc": "Melee Weapon Attack: dice: d20+13 (+13) to hit, reach 15 ft., one\
+    \ target. Hit: dice:2d12 + 7|text(20) (2d12 + 7) force damage."
   "name": "Chain"
 - "desc": "The sibriex targets one creature it can see within 120 feet of it. The\
-    \ target must succeed on a DC 20 Dexterity saving throw or take dice: 9d6|avg\
+    \ target must succeed on a DC 20 Dexterity saving throw or take dice:9d6|text(31)\
     \ (9d6) acid damage."
   "name": "Squirt Bile"
 - "desc": "The sibriex targets up to three creatures it can see within 120 feet of\

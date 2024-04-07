@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Blue Abishai
 ---
-# [[5. Mechanics\Bestiary\Fiend\Blue Abishai.md|Blue Abishai]]
+# [[5. Mechanics/Bestiary/Fiend/Blue Abishai.md|Blue Abishai]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 39, Mordenkainen's Tome of Foes p. 161*
 
 Seekers of forgotten lore and lost relics, blue abishais are the most cunning and learned of their kind. Their research into occult subjects gleaned from tomes plundered from across the multiverse enables them to become accomplished spellcasters. They use their magic to devastate Tiamat's enemies.
@@ -33,6 +33,7 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
 "subtype": "devil, wizard"
 "alignment": "Typically  Lawful Evil"
 "ac": !!int "19"
+"ac_class": "natural armor"
 "hp": !!int "202"
 "hit_dice": "27d8 + 81"
 "stats":
@@ -71,12 +72,12 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
 "actions":
 - "desc": "The abishai makes three Bite or Lightning Strike attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d10 + 2|avg (2d10 + 2) piercing damage plus dice: 4d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d10 + 2|text(13) (2d10 + 2) piercing damage plus dice:4d6|text(14)\
     \ (4d6) lightning damage."
   "name": "Bite"
-- "desc": "Ranged Spell Attack: dice: d20+12 (+12 to hit), range 120 ft., one\
-    \ target. Hit: dice: 8d8|avg (8d8) lightning damage."
+- "desc": "Ranged Spell Attack: dice: d20+12 (+12) to hit, range 120 ft., one\
+    \ target. Hit: dice:8d8|text(36) (8d8) lightning damage."
   "name": "Lightning Strike"
 "bonus_actions":
 - "desc": "The abishai teleports, along with any equipment it is wearing or carrying,\

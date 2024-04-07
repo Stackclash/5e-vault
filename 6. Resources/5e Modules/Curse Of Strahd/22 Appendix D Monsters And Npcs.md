@@ -102,7 +102,7 @@ The hut is a 15-foot-square, ramshackle wooden building with a gently sloping th
 
 The gemstone that has given life to [[4. World Almanac/NPCs/Baba Lysaga.md|Baba Lysaga]]'s hut was previously buried in the Wizard of Wines vineyard. The gem was one of three imbued with life-giving magic that made the grapevines in the vineyard healthier, guaranteeing the finest wines. [[4. World Almanac/NPCs/Baba Lysaga.md|Baba Lysaga]] stole one of the gems and perverted its magic, using it instead to animate her wooden hut.
 
-Removing the gem from the hut renders the hut [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]. That task is easier said than done, however. The glowing green gem is contained in a cavity in the stump, beneath the rotted floorboards of the hut. The floorboards can be ripped up with a successful DC 14 Strength check or smashed by dealing 10 damage to them. Once the floorboards are out of the way, a creature can reach into the cavity and snatch the gem. But if someone attempts this while the hut is alive, the cavity sprouts wooden teeth, becoming a mouth that bites anything that tries to remove the gem; a creature trying to remove the gem must make a DC 20 Dexterity saving throw. On a successful save, the creature claims the stone without getting bitten. On a failed save, the creature is bitten for `dice: 3d6|avg` (`3d6`) piercing damage and fails to obtain the gem.
+Removing the gem from the hut renders the hut [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]. That task is easier said than done, however. The glowing green gem is contained in a cavity in the stump, beneath the rotted floorboards of the hut. The floorboards can be ripped up with a successful DC 14 Strength check or smashed by dealing 10 damage to them. Once the floorboards are out of the way, a creature can reach into the cavity and snatch the gem. But if someone attempts this while the hut is alive, the cavity sprouts wooden teeth, becoming a mouth that bites anything that tries to remove the gem; a creature trying to remove the gem must make a DC 20 Dexterity saving throw. On a successful save, the creature claims the stone without getting bitten. On a failed save, the creature is bitten for `dice:3d6|text(10)` (`3d6`) piercing damage and fails to obtain the gem.
 
 #### Broom of Animated Attack
 
@@ -403,7 +403,7 @@ Although one is often mistaken for a ghost, a phantom warrior isn't bound by a y
 
 #### Faded Memories
 
-A phantom warrior retains the alignment and personality it had before it died, and it remembers how it died. Memories of its life from shortly before it died are hazy, and older memories are forgotten. A phantom warrior can usually remember the last `dice: 1d10 + 10|avg` (`1d10 + 10`) days of its life; everything that happened before that is an impenetrable fog.
+A phantom warrior retains the alignment and personality it had before it died, and it remembers how it died. Memories of its life from shortly before it died are hazy, and older memories are forgotten. A phantom warrior can usually remember the last `dice: 1d10 + 10|avg|noform` (`1d10 + 10`) days of its life; everything that happened before that is an impenetrable fog.
 
 #### Forceful Presence
 
@@ -551,7 +551,7 @@ When you run an encounter with Strahd, keep the following facts in mind:
 
 #### The Vampire's Minions
 
-Whenever Strahd appears in a location other than his tomb or the place indicated by the card reading, roll a `dice: d20|avg` (`d20`) and consult the Strahd's Minions table to determine what creatures he brings with him, if any.
+Whenever Strahd appears in a location other than his tomb or the place indicated by the card reading, roll a `dice: d20|avg|noform` (`d20`) and consult the Strahd's Minions table to determine what creatures he brings with him, if any.
 
 **Strahd's Minions**
 
@@ -559,12 +559,12 @@ Whenever Strahd appears in a location other than his tomb or the place indicated
 
 | dice: d20 | Creatures |
 |-----------|-----------|
-| 1–3 | `dice: 1d4 + 2\|avg` (`1d4 + 2`) [[5. Mechanics/Bestiary/Beast/Dire Wolf.md|dire wolves]] |
-| 4–6 | `dice: 1d6 + 3\|avg` (`1d6 + 3`) [[5. Mechanics/Bestiary/Undead/Ghoul.md|ghouls]] |
-| 7–9 | `dice: 1d4 + 2\|avg` (`1d4 + 2`) [[5. Mechanics/Bestiary/Undead/Strahd Zombie.md|Strahd zombies]] (in this appendix) |
-| 10–12 | `dice: 2d4\|avg` (`2d4`) [[5. Mechanics/Bestiary/Beast/Swarm Of Bats.md|swarms of bats]] |
-| 13–15 | `dice: 1d4 + 1\|avg` (`1d4 + 1`) [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md|vampire spawns]] |
-| 16–18 | `dice: 3d6\|avg` (`3d6`) [[5. Mechanics/Bestiary/Beast/Wolf.md|wolves]] |
+| 1–3 | `dice: 1d4 + 2\|avg|noform` (`1d4 + 2`) [[5. Mechanics/Bestiary/Beast/Dire Wolf.md|dire wolves]] |
+| 4–6 | `dice: 1d6 + 3\|avg|noform` (`1d6 + 3`) [[5. Mechanics/Bestiary/Undead/Ghoul.md|ghouls]] |
+| 7–9 | `dice: 1d4 + 2\|avg|noform` (`1d4 + 2`) [[5. Mechanics/Bestiary/Undead/Strahd Zombie.md|Strahd zombies]] (in this appendix) |
+| 10–12 | `dice: 2d4\|avg|noform` (`2d4`) [[5. Mechanics/Bestiary/Beast/Swarm Of Bats.md|swarms of bats]] |
+| 13–15 | `dice: 1d4 + 1\|avg|noform` (`1d4 + 1`) [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md|vampire spawns]] |
+| 16–18 | `dice: 3d6\|avg|noform` (`3d6`) [[5. Mechanics/Bestiary/Beast/Wolf.md|wolves]] |
 | 19–20 | None |
 ^strahds-minions
 
@@ -633,7 +633,7 @@ Were Vladimir to let go of his hatred, his spirit would find peace and could rem
 - His Armor Class is 17 (half plate).  
 - He has 192 hit points.  
 - He speaks Common and Draconic.  
-- Vladimir wields a [greatsword, +2](compendium/items/2-weapon.md) with a hilt sculpted to resemble silver dragon wings and a pommel shaped like a silver dragon's head clutching a black opal between its teeth. As an action, he can make two attacks with the sword (+9 to hit). It deals `dice: 4d6 + 6|avg` (`4d6 + 6`) slashing damage on a hit. Against Strahd, Vladimir deals an extra `dice: 4d6|avg` (`4d6`) slashing damage with the weapon.  
+- Vladimir wields a [greatsword, +2](compendium/items/2-weapon.md) with a hilt sculpted to resemble silver dragon wings and a pommel shaped like a silver dragon's head clutching a black opal between its teeth. As an action, he can make two attacks with the sword (+9 to hit). It deals `dice:4d6 + 6|text(20)` (`4d6 + 6`) slashing damage on a hit. Against Strahd, Vladimir deals an extra `dice:4d6|text(14)` (`4d6`) slashing damage with the weapon.  
 - Vladimir has a challenge rating of 7 (2,900 XP).  
 
 ![[6. Resources/5e Modules/Curse Of Strahd/img/154-cos19-11.webp#center]]

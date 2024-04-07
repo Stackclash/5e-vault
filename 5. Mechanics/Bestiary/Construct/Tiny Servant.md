@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Tiny Servant
 ---
-# [[5. Mechanics\Bestiary\Construct\Tiny Servant.md|Tiny Servant]]
+# [[5. Mechanics/Bestiary/Construct/Tiny Servant.md|Tiny Servant]]
 *Source: Xanathar's Guide to Everything p. 169*
 
 ```statblock
@@ -19,6 +19,7 @@ aliases:
 "type": "construct"
 "alignment": "Unaligned"
 "ac": !!int "15"
+"ac_class": "natural armor"
 "hp": !!int "10"
 "hit_dice": "4d4"
 "stats":
@@ -37,8 +38,8 @@ aliases:
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 10"
 "languages": ""
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d4 + 3|text(5) (1d4 + 3) bludgeoning damage."
   "name": "Slam"
 "source":
 - "XGE"

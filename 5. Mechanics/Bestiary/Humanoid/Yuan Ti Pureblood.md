@@ -14,7 +14,7 @@ statblock: inline
 aliases:
   - Yuan-ti Pureblood
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Yuan Ti Pureblood.md|Yuan-ti Pureblood]]
+# [[5. Mechanics/Bestiary/Humanoid/Yuan Ti Pureblood.md|Yuan-ti Pureblood]]
 *Source: Monster Manual p. 310*
 
 Purebloods form the lowest caste of yuan-ti society. They closely resemble humans, yet a pureblood can't pass for human under close scrutiny because there's always some hint of its true nature, such as scaly patches of skin, serpentine eyes, pointed teeth, or a forked tongue. Wearing cloaks and cowls, they masquerade as humans and infiltrate civilized lands to gather information, kidnap prisoners for interrogation and sacrifice, and trade with anyone who has something that can further their myriad plots.
@@ -100,11 +100,11 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
 "actions":
 - "desc": "The yuan-ti makes two melee attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 1|avg (1d6 + 1) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 1|text(4) (1d6 + 1) slashing damage."
   "name": "Scimitar"
-- "desc": "Ranged Weapon Attack: dice: d20+3 (+3 to hit), range 80/320 ft., one\
-    \ target. Hit: dice: 1d6 + 1|avg (1d6 + 1) piercing damage plus dice: 2d6|avg\
+- "desc": "Ranged Weapon Attack: dice: d20+3 (+3) to hit, range 80/320 ft.,\
+    \ one target. Hit: dice:1d6 + 1|text(4) (1d6 + 1) piercing damage plus dice:2d6|text(7)\
     \ (2d6) poison damage."
   "name": "Shortbow"
 "source":

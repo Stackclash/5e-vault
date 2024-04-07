@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vgm
-aliases: ["Random Yuan-ti Servants; Yuan-ti Protectors"]
+  - compendium/src/5e/vgm
+aliases:
+  - Random Yuan-ti Servants; Yuan-ti Protectors
 ---
 # Random Yuan-ti Servants; Yuan-ti Protectors
 *Source: Volo's Guide to Monsters p. 102* 

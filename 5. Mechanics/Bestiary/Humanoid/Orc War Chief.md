@@ -17,7 +17,7 @@ statblock: inline
 aliases:
   - Orc War Chief
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Orc War Chief.md|Orc War Chief]]
+# [[5. Mechanics/Bestiary/Humanoid/Orc War Chief.md|Orc War Chief]]
 *Source: Monster Manual p. 246*
 
 Orcs are savage raiders and pillagers with stooped postures, low foreheads, and piggish faces with prominent lower canines that resemble tusks.
@@ -81,6 +81,7 @@ Gruumsh bestows special blessings upon war chiefs who prove themselves in battle
 "subtype": "orc"
 "alignment": "Chaotic Evil"
 "ac": !!int "16"
+"ac_class": "[[5. Mechanics/Items/Chain Mail.md|chain mail]]"
 "hp": !!int "93"
 "hit_dice": "11d8 + 44"
 "stats":
@@ -104,20 +105,20 @@ Gruumsh bestows special blessings upon war chiefs who prove themselves in battle
 - "desc": "As a bonus action, the orc can move up to its speed toward a hostile creature\
     \ that it can see."
   "name": "Aggressive"
-- "desc": "The orc deals an extra dice: 1d8|avg (1d8) damage when it hits with\
+- "desc": "The orc deals an extra dice:1d8|text(4) (1d8) damage when it hits with\
     \ a weapon attack (included in the attacks)."
   "name": "Gruumsh's Fury"
 "actions":
 - "desc": "The orc makes two attacks with its greataxe or its spear."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: 15 (dice: 1d12 + 4|avg (1d12 + 4) plus dice: 1d8|avg (1d8)) slashing\
-    \ damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: 15 (dice: 1d12 + 4|avg|noform (1d12 + 4) plus dice: 1d8|avg|noform\
+    \ (1d8)) slashing damage."
   "name": "Greataxe"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: 12 (dice: 1d6 + 4|avg (1d6 + 4) plus\
-    \ dice: 1d8|avg (1d8)) piercing damage, or dice: 2d8 + 4|avg (2d8 + 4)\
-    \ piercing damage if used with two hands to make a melee attack."
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: 12 (dice: 1d6 + 4|avg|noform (1d6\
+    \ + 4) plus dice: 1d8|avg|noform (1d8)) piercing damage, or dice:2d8 + 4|text(13)\
+    \ (2d8 + 4) piercing damage if used with two hands to make a melee attack."
   "name": "Spear"
 - "desc": "Each creature of the war chief's choice that is within 30 feet of it, can\
     \ hear it, and not already affected by Battle Cry gain advantage on attack rolls\

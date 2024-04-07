@@ -1,27 +1,28 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: null
 condition: healthy
-image:
+image: null
 relationships: []
-tags: 
-aliases: [Garra]
-pronounced: 
-race: 
-gender: 
-age: 
+tags: null
+aliases:
+  - Garra
+pronounced: null
+race: null
+gender: null
+age: null
 alignment: Chaotic Evil
-occupation: 
+occupation: null
 groups: []
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]
@@ -114,6 +115,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 "type": "giant"
 "alignment": "Chaotic Evil"
 "ac": !!int "12"
+"ac_class": "[[5. Mechanics/Items/Hide Armor.md|hide armor]]"
 "hp": !!int "30"
 "hit_dice": "4d10 + 8"
 "stats":
@@ -128,13 +130,13 @@ await dv.view("npcRelationships", { current: dv.current() })
 "languages": "Common, Giant"
 "cr": "1"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 3|avg (2d8 + 3) slashing damage, or dice: 2d10 + 3|avg\
-    \ (2d10 + 3) slashing damage if used with two hands."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d8 + 3|text(12) (2d8 + 3) slashing damage, or dice:2d10 +\
+    \ 3|text(14) (2d10 + 3) slashing damage if used with two hands."
   "name": "Battleaxe"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft.\
-    \ or range 30/120 ft., one target. Hit: dice: 2d6 + 3|avg (2d6 + 3) piercing\
-    \ damage."
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft.\
+    \ or range 30/120 ft., one target. Hit: dice:2d6 + 3|text(10) (2d6 + 3)\
+    \ piercing damage."
   "name": "Javelin"
 "source":
 - "ERLW"

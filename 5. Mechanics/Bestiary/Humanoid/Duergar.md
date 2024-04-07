@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Duergar
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Duergar.md|Duergar]]
+# [[5. Mechanics/Bestiary/Humanoid/Duergar.md|Duergar]]
 *Source: Monster Manual p. 122. Available in the SRD.*
 
 The tyrannical duergar, also known as gray dwarves, dwell in fantastic cities deep in the Underdark. Using ancient dwarven knowledge and myriad slaves, they work tirelessly to expand their subterranean kingdoms.
@@ -43,6 +43,7 @@ Asmodeus, Lord of the Nine Hells, has been known to impersonate duergar gods in 
 "subtype": "dwarf"
 "alignment": "Lawful Evil"
 "ac": !!int "16"
+"ac_class": "[[5. Mechanics/Items/Scale Mail.md|scale mail]], [[5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "26"
 "hit_dice": "4d8 + 4"
 "stats":
@@ -74,13 +75,13 @@ Asmodeus, Lord of the Nine Hells, has been known to impersonate duergar gods in 
     \ lacks the room to become Large, it attains the maximum size possible in the\
     \ space available."
   "name": "Enlarge (Recharges after a Short or Long Rest)"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 2|avg (1d8 + 2) piercing damage, or dice: 2d8 + 2|avg\
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 2|text(6) (1d8 + 2) piercing damage, or dice:2d8 + 2|text(11)\
     \ (2d8 + 2) piercing damage while enlarged."
   "name": "War Pick"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft.\
-    \ or range 30/120 ft., one target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing\
-    \ damage, or dice: 2d6 + 2|avg (2d6 + 2) piercing damage while enlarged."
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft.\
+    \ or range 30/120 ft., one target. Hit: dice:1d6 + 2|text(5) (1d6 + 2) piercing\
+    \ damage, or dice:2d6 + 2|text(9) (2d6 + 2) piercing damage while enlarged."
   "name": "Javelin"
 - "desc": "The duergar magically turns [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]]\
     \ until it attacks, casts a spell, or uses its Enlarge, or until its [[/5. Mechanics/Rules/Conditions.md#concentration|concentration]]\

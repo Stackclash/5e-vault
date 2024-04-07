@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Imp
 ---
-# [[5. Mechanics\Bestiary\Fiend\Imp.md|Imp]]
+# [[5. Mechanics/Bestiary/Fiend/Imp.md|Imp]]
 *Source: Monster Manual p. 76, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD.*
 
 Imps are found throughout the Lower Planes, either running errands for their infernal masters, spying on rivals, or misleading and waylaying mortals. An imp will proudly serve an evil master of any kind, but it can't be relied on to carry out tasks with any speed or efficiency.
@@ -135,11 +135,11 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 > 
 > - A barbed devil has a 30% chance chance of summoning one barbed devil.  
 > - A bearded devil has a 30% chance chance of summoning one bearded devil.  
-> - A bone devil has a 40% chance chance of summoning `dice: 2d6|avg` (`2d6`) spined devils or one bone devil.  
-> - An erinyes has a 50% chance chance of summoning `dice: 3d6|avg` (`3d6`) spined devils, `dice: 1d6|avg` (`1d6`) bearded devils, or one erinyes.  
+> - A bone devil has a 40% chance chance of summoning `dice: 2d6|avg|noform` (`2d6`) spined devils or one bone devil.  
+> - An erinyes has a 50% chance chance of summoning `dice: 3d6|avg|noform` (`3d6`) spined devils, `dice: 1d6|avg|noform` (`1d6`) bearded devils, or one erinyes.  
 > - A horned devil has a 30% chance chance of summoning one horned devil.  
 > - An ice devil has a 60% chance chance of summoning one ice devil.  
-> - A pit fiend summons `dice: 2d4|avg` (`2d4`) bearded devils, `dice: 1d4|avg` (`1d4`) barbed devils, or one erinyes with no chance of failure.  
+> - A pit fiend summons `dice: 2d4|avg|noform` (`2d4`) bearded devils, `dice: 1d4|avg|noform` (`1d4`) barbed devils, or one erinyes with no chance of failure.  
 > 
 > A summoned devil appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other devils. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 ^variant-devil-summoning
@@ -186,9 +186,9 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
     \ effects."
   "name": "Magic Resistance"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) piercing damage, and the target must\
-    \ make a DC 11 Constitution saving throw, taking dice: 3d6|avg (3d6) poison\
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d4 + 3|text(5) (1d4 + 3) piercing damage, and the target must\
+    \ make a DC 11 Constitution saving throw, taking dice:3d6|text(10) (3d6) poison\
     \ damage on a failed save, or half as much damage on a successful one."
   "name": "Sting (Bite in Beast Form)"
 - "desc": "The imp magically turns [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]]\

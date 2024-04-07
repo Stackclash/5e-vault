@@ -35,6 +35,8 @@ aliases:
 - **Playtesters.** Robert Alaniz,* Mal A'menz,* Glen Ausse, Jerry Behrendt, Teddy Benson, Anthony Caroselli,* Christopher D'Andrea,* Jason Fransella,* Jeff Galper, Elyssa Grant, Steve Heitke, Mary Hershey, Sterling Hershey, Justin Hicks, Shaun Horner, Donald Jacobs, James Krot, Yan Lacharité,* Jonathan Longstaff,* Michael LeClair, Ray Lillard, Eric Lopez, J.M., Matt Maranda,* Cris McDaniel, Randy Merkel, Lou Michelli,* Mike Mihalas,* Daniel Norton,* Lucas Pierce, Claudio Pozas,* John Proudfoot,* Rob Quillen II, Karl Resch,* Jason Riley, Sarah Riley, Arthur Severance,* Sam Sherry,* Zach Sielaff, David "Oak" Stark,* Jayson Thiry, Steve Townshend,* Kyle Turner,* Will Vaughn, Peter Youngs  
 - **This playtester provided feedback for a group.*  
 
+> [!note] 
+> 
 > The following D&D books also provided material and inspiration:
 > 
 > Cordell, Bruce R. and James Wyatt. *Expedition to Castle Ravenloft*. 2006.
@@ -50,5 +52,6 @@ aliases:
 > TSR, Inc. *Van Richten's Monster Hunter's Compendium, Volume One*. 1999.
 > 
 > ———. *Van Richten's Monster Hunter's Compendium, Volume Three*. 2000.
+^326
 
 ![[6. Resources/5e Modules/Curse Of Strahd/img/credits.webp#center\|"On the Cover: the master of Ravenloft is having guests for dinner, and you are invited. Ben Oliver sheds light on the vampire Strahd von Zarovich, whose dark past is a tale to be told, and whose evil knows no bounds."]]

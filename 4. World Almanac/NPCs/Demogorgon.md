@@ -1,27 +1,28 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: null
 condition: healthy
 image: 4. World Almanac/NPCs/img/demogorgon.webp
 relationships: []
-tags: 
-aliases: [Demogorgon]
-pronounced: 
-race: 
-gender: 
-age: 
+tags: null
+aliases:
+  - Demogorgon
+pronounced: null
+race: null
+gender: null
+age: null
 alignment: Chaotic Evil
-occupation: 
+occupation: null
 groups: []
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]
@@ -132,6 +133,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 "subtype": "demon"
 "alignment": "Chaotic Evil"
 "ac": !!int "22"
+"ac_class": "natural armor"
 "hp": !!int "464"
 "hit_dice": "32d12 + 256"
 "stats":
@@ -178,16 +180,16 @@ await dv.view("npcRelationships", { current: dv.current() })
 - "desc": "Demogorgon makes two Tentacle attacks. He can replace one attack with a\
     \ use of Gaze."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+17 (+17 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 3d12 + 9|avg (3d12 + 9) force damage. If the target is a creature,\
-    \ it must succeed on a DC 23 Constitution saving throw, or its hit point maximum\
-    \ is reduced by an amount equal to the damage taken. This reduction lasts until\
-    \ the target finishes a long rest. The target dies if its hit point maximum is\
-    \ reduced to 0."
+- "desc": "Melee Weapon Attack: dice: d20+17 (+17) to hit, reach 10 ft., one\
+    \ target. Hit: dice:3d12 + 9|text(28) (3d12 + 9) force damage. If the target\
+    \ is a creature, it must succeed on a DC 23 Constitution saving throw, or its\
+    \ hit point maximum is reduced by an amount equal to the damage taken. This reduction\
+    \ lasts until the target finishes a long rest. The target dies if its hit point\
+    \ maximum is reduced to 0."
   "name": "Tentacle"
 - "desc": "Demogorgon turns his magical gaze toward one creature he can see within\
     \ 120 feet of him. The target must succeed on a DC 23 Wisdom saving throw or suffer\
-    \ one of the following effects (choose one or roll a dice: d6|avg (d6)):\n\
+    \ one of the following effects (choose one or roll a dice: d6|avg|noform (d6)):\n\
     \n- 1–2 Beguiling Gaze. The target is [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
     \ until the start of Demogorgon's next turn or until Demogorgon is no longer within\
     \ line of sight.  \n- 3–4 Confusing Gaze. The target suffers the effect of\
@@ -201,9 +203,9 @@ await dv.view("npcRelationships", { current: dv.current() })
 "legendary_actions":
 - "desc": "Demogorgon uses Gaze and must use either Beguiling Gaze or Confusing Gaze."
   "name": "Gaze"
-- "desc": "Melee Weapon Attack: dice: d20+17 (+17 to hit), reach 15 ft., one target.\
-    \ Hit: dice: 2d10 + 9|avg (2d10 + 9) bludgeoning damage plus dice: 2d10|avg\
-    \ (2d10) necrotic damage."
+- "desc": "Melee Weapon Attack: dice: d20+17 (+17) to hit, reach 15 ft., one\
+    \ target. Hit: dice:2d10 + 9|text(20) (2d10 + 9) bludgeoning damage plus\
+    \ dice:2d10|text(11) (2d10) necrotic damage."
   "name": "Tail"
 - "desc": "Demogorgon uses Spellcasting."
   "name": "Cast a Spell (Costs 2 Actions)"
@@ -238,7 +240,7 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ with [[5. Mechanics/Bestiary/Beast/Poisonous Snake.md|poisonous snakes]] and other\
     \ venomous Beasts.  "
   "name": ""
-- "desc": "If Demogorgon dies, these effects fade over the course of dice: 1d10|avg\
+- "desc": "If Demogorgon dies, these effects fade over the course of dice: 1d10|avg|noform\
     \ (1d10) days."
   "name": ""
 "source":

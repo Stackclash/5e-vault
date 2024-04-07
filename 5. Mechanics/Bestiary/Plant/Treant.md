@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Treant
 ---
-# [[5. Mechanics\Bestiary\Plant\Treant.md|Treant]]
+# [[5. Mechanics/Bestiary/Plant/Treant.md|Treant]]
 *Source: Monster Manual p. 289, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD.*
 
 Treants are awakened trees that dwell in ancient forests. Although treants prefer to while away the days, months, and years in quiet contemplation, they fiercely protect their woodland demesnes from outside threats.
@@ -36,6 +36,7 @@ Woodcutters who avoid culling healthy living trees and hunters who take only wha
 "type": "plant"
 "alignment": "Chaotic Good"
 "ac": !!int "16"
+"ac_class": "natural armor"
 "hp": !!int "138"
 "hit_dice": "12d12 + 60"
 "stats":
@@ -60,11 +61,11 @@ Woodcutters who avoid culling healthy living trees and hunters who take only wha
 "actions":
 - "desc": "The treant makes two slam attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 3d6 + 6|avg (3d6 + 6) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+10 (+10) to hit, reach 5 ft., one\
+    \ target. Hit: dice:3d6 + 6|text(16) (3d6 + 6) bludgeoning damage."
   "name": "Slam"
-- "desc": "Ranged Weapon Attack: dice: d20+10 (+10 to hit), range 60/180 ft.,\
-    \ one target. Hit: dice: 4d10 + 6|avg (4d10 + 6) bludgeoning damage."
+- "desc": "Ranged Weapon Attack: dice: d20+10 (+10) to hit, range 60/180 ft.,\
+    \ one target. Hit: dice:4d10 + 6|text(28) (4d10 + 6) bludgeoning damage."
   "name": "Rock"
 - "desc": "The treant magically animates one or two trees it can see within 60 feet\
     \ of it. These trees have the same statistics as a [[5. Mechanics/Bestiary/Plant/Treant.md|treant]],\

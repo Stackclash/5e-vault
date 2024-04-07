@@ -14,7 +14,7 @@ statblock: inline
 aliases:
   - Kobold Dragonshield
 ---
-# [[5. Mechanics\Bestiary\Dragon\Kobold Dragonshield.md|Kobold Dragonshield]]
+# [[5. Mechanics/Bestiary/Dragon/Kobold Dragonshield.md|Kobold Dragonshield]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 163, Volo's Guide to Monsters p. 165*
 
 > [!quote]- A quote from Mordenkainen  
@@ -31,6 +31,7 @@ Dragonshields know they have a place of honor among those who venerate dragons, 
 "type": "dragon"
 "alignment": "Any alignment"
 "ac": !!int "15"
+"ac_class": "[[5. Mechanics/Items/Leather Armor.md|leather]], [[5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "44"
 "hit_dice": "8d6 + 16"
 "stats":
@@ -49,9 +50,9 @@ Dragonshields know they have a place of honor among those who venerate dragons, 
 "cr": "1"
 "traits":
 - "desc": "The kobold has resistance to a type of damage based on the color of dragon\
-    \ that invested it with power (choose or roll a dice: d10|avg (d10)): 1–2,\
-    \ acid (black or copper); 3–4, cold (silver or white); 5–6, fire (brass, gold,\
-    \ or red); 7–8, lightning (blue or bronze); 9–10, poison (green)."
+    \ that invested it with power (choose or roll a dice: d10|avg|noform (d10)):\
+    \ 1–2, acid (black or copper); 3–4, cold (silver or white); 5–6, fire (brass,\
+    \ gold, or red); 7–8, lightning (blue or bronze); 9–10, poison (green)."
   "name": "Dragon's Resistance"
 - "desc": "If the kobold is [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
     \ or [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]] by an effect that\
@@ -71,9 +72,9 @@ Dragonshields know they have a place of honor among those who venerate dragons, 
 "actions":
 - "desc": "The kobold makes two Spear attacks."
   "name": "Multiattack"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 1d6 + 1|avg (1d6 + 1) piercing\
-    \ damage, or dice: 1d8 + 1|avg (1d8 + 1) piercing damage if used with two\
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: dice:1d6 + 1|text(4) (1d6 + 1) piercing\
+    \ damage, or dice:1d8 + 1|text(5) (1d8 + 1) piercing damage if used with two\
     \ hands to make a melee attack."
   "name": "Spear"
 "source":

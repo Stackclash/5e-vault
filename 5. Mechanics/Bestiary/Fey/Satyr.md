@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Satyr
 ---
-# [[5. Mechanics\Bestiary\Fey\Satyr.md|Satyr]]
+# [[5. Mechanics/Bestiary/Fey/Satyr.md|Satyr]]
 *Source: Monster Manual p. 267. Available in the SRD and the Basic Rules.*
 
 Satyrs are raucous fey that frolic in wild forests, driven by curiosity and hedonism in equal measure.
@@ -61,6 +61,7 @@ Inebriated on drink and pleasure, satyrs give no thought to the consequences of 
 "type": "fey"
 "alignment": "Chaotic Neutral"
 "ac": !!int "14"
+"ac_class": "[[5. Mechanics/Items/Leather Armor.md|leather armor]]"
 "hp": !!int "31"
 "hit_dice": "7d8"
 "stats":
@@ -83,14 +84,14 @@ Inebriated on drink and pleasure, satyrs give no thought to the consequences of 
     \ effects."
   "name": "Magic Resistance"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4 + 1|avg (2d4 + 1) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d4 + 1|text(6) (2d4 + 1) bludgeoning damage."
   "name": "Ram"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 3|text(6) (1d6 + 3) piercing damage."
   "name": "Shortsword"
-- "desc": "Ranged Weapon Attack: dice: d20+5 (+5 to hit), range 80/320 ft., one\
-    \ target. Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+5 (+5) to hit, range 80/320 ft.,\
+    \ one target. Hit: dice:1d6 + 3|text(6) (1d6 + 3) piercing damage."
   "name": "Shortbow"
 "source":
 - "MM"

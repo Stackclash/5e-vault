@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/tce
-aliases: ["Magical Miscellany"]
+  - compendium/src/5e/tce
+aliases:
+  - Magical Miscellany
 ---
 # Magical Miscellany
 *Source: Tasha's Cauldron of Everything, p. 105* 
@@ -46,7 +47,7 @@ Further still, a druid could choose a cherry blossom theme for their magic, caus
 
 The Magic Themes table offers just a few suggestions that might inspire you while personalizing your character's spells.
 
-![Personalizing Spells; Magic Themes](compendium/tables/personalizing-spells-magic-themes-tce.md)
+![[5. Mechanics/Tables/Personalizing Spells Magic Themes.md\|Personalizing Spells; Magic Themes]]
 
 ![[6. Resources/Books/Tashas Cauldron Of Everything/img/075-03-007.webp#center\|"A farmer sorcerer hurls magic missiles that look like chickens"]]
 
@@ -72,7 +73,7 @@ The rarer a magic tattoo is, the more space it typically occupies on a creature'
 
 ![[6. Resources/Books/Tashas Cauldron Of Everything/img/076-03-008.webp#center\|An orc artist creates a tattoo on his elf friend]]
 
-![Magic Tattoos; Magic Tattoo Coverage](compendium/tables/magic-tattoos-magic-tattoo-coverage-tce.md)
+![[5. Mechanics/Tables/Magic Tattoos Magic Tattoo Coverage.md\|Magic Tattoos; Magic Tattoo Coverage]]
 
 ### Magic Item Descriptions
 

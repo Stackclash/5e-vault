@@ -201,7 +201,9 @@ The secrets of creating and operating gunpowder weapons have been discovered in 
 
 ### Magical Tinkering (Level 1)
 
-At 1st level, you learn how to invest a spark of magic into mundane objects. To use this ability, you must have [[5. Mechanics/Items/Thieves Tools.md\|thieves' tools]] or [[5. Mechanics/Items/Artisans Tools.md\|artisan's tools]] in hand. You then touch a Tiny nonmagical object as an action and give it one of the following magical properties of your choice:
+*1st-level artificer feature*
+
+You've learned how to invest a spark of magic into mundane objects. To use this ability, you must have [[5. Mechanics/Items/Thieves Tools.md\|thieves' tools]] or [[5. Mechanics/Items/Artisans Tools.md\|artisan's tools]] in hand. You then touch a Tiny nonmagical object as an action and give it one of the following magical properties of your choice:
 
 - The object sheds bright light in a 5-foot radius and dim light for an additional 5 feet.  
 - Whenever tapped by a creature, the object emits a recorded message that can be heard up to 10 feet away. You utter the message when you bestow this property on the object, and the recording can be no more than 6 seconds long.  
@@ -214,7 +216,9 @@ You can bestow magic on multiple objects, touching one object each time you use 
 
 ### Spellcasting (Level 1)
 
-You have studied the workings of magic and how to channel it through objects. As a result, you have gained the ability to cast spells. To observers, you don't appear to be casting spells in a conventional way; you look as if you're producing wonders using mundane items or outlandish inventions.
+*1st-level artificer feature*
+
+You've studied the workings of magic and how to cast spells, channeling the magic through objects. To observers, you don't appear to be casting spells in a conventional way; you appear to produce wonders from mundane items and outlandish inventions.
 
 #### Tools Required
 
@@ -261,7 +265,9 @@ You can cast an artificer spell as a ritual if that spell has the ritual tag and
 
 ### Infuse Item (Level 2)
 
-At 2nd level, you gain the ability to imbue mundane items with certain magical infusions. The magic items you create with this feature are effectively prototypes of permanent items.
+*2nd-level artificer feature*
+
+You've gained the ability to imbue mundane items with certain magical infusions, turning those objects into magic items.
 
 ### Infusions Known (Level 2)
 
@@ -292,13 +298,19 @@ If an infusion ends on an item that contains other things, like a bag of holding
 
 ### Artificer Specialist (Level 3)
 
-At 3rd level, you choose the type of specialist you are, each of which is detailed at the end of the class's description. Your choice grants you features at 5th level and again at 9th and 15th level.
+*3rd-level artificer feature*
+
+Choose the type of specialist you are, each of which is detailed at the end of the class's description. Your choice grants you features at 5th level and again at 9th and 15th level.
 
 ### The Right Tool for the Job (Level 3)
 
-At 3rd level, you learn how to produce exactly the tool you need: with [[5. Mechanics/Items/Thieves Tools.md\|thieves' tools]] or [[5. Mechanics/Items/Artisans Tools.md\|artisan's tools]] in hand, you can magically create one set of [[5. Mechanics/Items/Artisans Tools.md\|artisan's tools]] in an unoccupied space within 5 feet of you. This creation requires 1 hour of uninterrupted work, which can coincide with a short or long rest. Though the product of magic, the tools are nonmagical, and they vanish when you use this feature again.
+*3rd-level artificer feature*
+
+You've learned how to produce exactly the tool you need: with [[5. Mechanics/Items/Thieves Tools.md\|thieves' tools]] or [[5. Mechanics/Items/Artisans Tools.md\|artisan's tools]] in hand, you can magically create one set of [[5. Mechanics/Items/Artisans Tools.md\|artisan's tools]] in an unoccupied space within 5 feet of you. This creation requires 1 hour of uninterrupted work, which can coincide with a short or long rest. Though the product of magic, the tools are nonmagical, and they vanish when you use this feature again.
 
 ### Ability Score Improvement (Level 4)
+
+*4th-level artificer feature*
 
 When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
@@ -306,19 +318,27 @@ If your DM allows the use of feats, you may instead take a feat.
 
 ### Artificer Specialist Feature (Level 5)
 
-At 5th level, you gain a feature granted by your Artificer Specialist choice.
+*5th-level artificer feature*
+
+You gain a feature granted by your Artificer Specialist choice.
 
 ### Tool Expertise (Level 6)
 
-Starting at 6th level, your proficiency bonus is doubled for any ability check you make that uses your proficiency with a tool.
+*6th-level artificer feature*
+
+Your proficiency bonus is now doubled for any ability check you make that uses your proficiency with a tool.
 
 ### Flash of Genius (Level 7)
 
-Starting at 7th level, you gain the ability to come up with solutions under pressure. When you or another creature you can see within 30 feet of you makes an ability check or a saving throw, you can use your reaction to add your Intelligence modifier to the roll.
+*7th-level artificer feature*
+
+You've gained the ability to come up with solutions under pressure. When you or another creature you can see within 30 feet of you makes an ability check or a saving throw, you can use your reaction to add your Intelligence modifier to the roll.
 
 You can use this feature a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a long rest.
 
 ### Ability Score Improvement (Level 8)
+
+*8th-level artificer feature*
 
 When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
@@ -326,22 +346,30 @@ If your DM allows the use of feats, you may instead take a feat.
 
 ### Artificer Specialist Feature (Level 9)
 
-At 9th level, you gain a feature granted by your Artificer Specialist choice.
+*9th-level artificer feature*
+
+You gain a feature granted by your Artificer Specialist choice.
 
 ### Magic Item Adept (Level 10)
 
-When you reach 10th level, you achieve a profound understanding of how to use and make magic items:
+*10th-level artificer feature*
+
+You've achieved a profound understanding of how to use and make magic items:
 
 - You can attune to up to four magic items at once.  
 - If you craft a magic item with a rarity of common or uncommon, it takes you a quarter of the normal time, and it costs you half as much of the usual gold.  
 
 ### Spell-Storing Item (Level 11)
 
-At 11th level, you learn how to store a spell in an object. Whenever you finish a long rest, you can touch one simple or martial weapon or one item that you can use as a spellcasting focus, and you store a spell in it, choosing a 1st- or 2nd-level spell from the artificer spell list that requires 1 action to cast (you needn't have it prepared).
+*11th-level artificer feature*
+
+You can now store a spell in an object. Whenever you finish a long rest, you can touch one simple or martial weapon or one item that you can use as a spellcasting focus, and you store a spell in it, choosing a 1st- or 2nd-level spell from the artificer spell list that requires 1 action to cast (you needn't have it prepared).
 
 While holding the object, a creature can take an action to produce the spell's effect from it, using your spellcasting ability modifier. If the spell requires [[/5. Mechanics/Rules/Conditions.md#concentration\|concentration]], the creature must concentrate. The spell stays in the object until it's been used a number of times equal to twice your Intelligence modifier (minimum of twice) or until you use this feature again to store a spell in an object.
 
 ### Ability Score Improvement (Level 12)
+
+*12th-level artificer feature*
 
 When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
@@ -349,16 +377,22 @@ If your DM allows the use of feats, you may instead take a feat.
 
 ### Magic Item Savant (Level 14)
 
-At 14th level, your skill with magic items deepens more:
+*14th-level artificer feature*
+
+Your skill with magic items deepens:
 
 - You can attune to up to five magic items at once.  
 - You ignore all class, race, spell, and level requirements on attuning to or using a magic item.  
 
 ### Artificer Specialist Feature (Level 15)
 
-At 15th level, you gain a feature granted by your Artificer Specialist choice.
+*15th-level artificer feature*
+
+You gain a feature granted by your Artificer Specialist choice.
 
 ### Ability Score Improvement (Level 16)
+
+*16th-level artificer feature*
 
 When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
@@ -366,9 +400,13 @@ If your DM allows the use of feats, you may instead take a feat.
 
 ### Magic Item Master (Level 18)
 
-Starting at 18th level, you can attune to up to six magic items at once.
+*18th-level artificer feature*
+
+You can now attune to up to six magic items at once.
 
 ### Ability Score Improvement (Level 19)
+
+*19th-level artificer feature*
 
 When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
@@ -376,7 +414,9 @@ If your DM allows the use of feats, you may instead take a feat.
 
 ### Soul of Artifice (Level 20)
 
-At 20th level, you develop a mystical connection to your magic items, which you can draw on for protection:
+*20th-level artificer feature*
+
+You have developed a mystical connection to your magic items, which you can draw on for protection:
 
 - You gain a +1 bonus to all saving throws per magic item you are currently attuned to.  
 - If you're reduced to 0 hit points but not killed outright, you can use your reaction to end one of your artificer infusions, causing you to drop to 1 hit point instead of 0.  

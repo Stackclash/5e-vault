@@ -16,7 +16,7 @@ statblock: inline
 aliases:
   - Poisonous Snake
 ---
-# [[5. Mechanics\Bestiary\Beast\Poisonous Snake.md|Poisonous Snake]]
+# [[5. Mechanics/Bestiary/Beast/Poisonous Snake.md|Poisonous Snake]]
 *Source: Monster Manual p. 334. Available in the SRD and the Basic Rules.*
 
 ```statblock
@@ -39,10 +39,10 @@ aliases:
 "languages": ""
 "cr": "1/8"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
     \ Hit: 1 piercing damage, and the target must make a DC 10 Constitution saving\
-    \ throw, taking dice: 2d4|avg (2d4) poison damage on a failed save, or half\
-    \ as much damage on a successful one."
+    \ throw, taking dice:2d4|text(5) (2d4) poison damage on a failed save, or\
+    \ half as much damage on a successful one."
   "name": "Bite"
 "source":
 - "MM"

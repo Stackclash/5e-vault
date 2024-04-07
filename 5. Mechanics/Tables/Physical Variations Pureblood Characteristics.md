@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vgm
-aliases: ["Physical Variations; Pureblood Characteristics"]
+  - compendium/src/5e/vgm
+aliases:
+  - Physical Variations; Pureblood Characteristics
 ---
 # Physical Variations; Pureblood Characteristics
 *Source: Volo's Guide to Monsters p. 97* 

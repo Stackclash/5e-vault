@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Yuan-ti Pit Master
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Yuan Ti Pit Master.md|Yuan-ti Pit Master]]
+# [[5. Mechanics/Bestiary/Monstrosity/Yuan Ti Pit Master.md|Yuan-ti Pit Master]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 276, Volo's Guide to Monsters p. 206*
 
 With snakes for arms, pit masters are yuan-ti malison priests who have made a pact with the god Merrshaulk and seek to rouse him from his slumber by sacrificing Humanoids to him. They are the most traditionalist yuan-ti and believe that they are best equipped to achieve the goals of their people.
@@ -27,6 +27,7 @@ Pit masters are deeply involved in yuan-ti's longterm plan to take over Humanoid
 "subtype": "warlock"
 "alignment": "Typically  Neutral Evil"
 "ac": !!int "14"
+"ac_class": "natural armor"
 "hp": !!int "88"
 "hit_dice": "16d8 + 16"
 "stats":
@@ -64,12 +65,12 @@ Pit masters are deeply involved in yuan-ti's longterm plan to take over Humanoid
 "actions":
 - "desc": "The yuan-ti makes three Bite attacks or two Spectral Fangs attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) piercing damage plus dice: 2d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d4 + 3|text(5) (1d4 + 3) piercing damage plus dice:2d6|text(7)\
     \ (2d6) poison damage."
   "name": "Bite"
-- "desc": "Ranged Spell Attack: dice: d20+6 (+6 to hit), range 120 ft., one target.\
-    \ Hit: dice: 3d8 + 3|avg (3d8 + 3) poison damage."
+- "desc": "Ranged Spell Attack: dice: d20+6 (+6) to hit, range 120 ft., one\
+    \ target. Hit: dice:3d8 + 3|text(16) (3d8 + 3) poison damage."
   "name": "Spectral Fangs"
 - "desc": "The yuan-ti targets up to five creatures that it can see within 60 feet\
     \ of it. Each target must succeed on a DC 13 Constitution saving throw or fall\

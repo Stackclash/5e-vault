@@ -20,6 +20,6 @@ When you use a Metamagic option on a spell while you are holding or wearing the 
 
 ## Property
 
-Choose one creature who takes damage from the spell. That target takes an extra `dice: 3d6|avg` (`3d6`) necrotic damage.
+Choose one creature who takes damage from the spell. That target takes an extra `dice: 3d6|avg|noform` (`3d6`) necrotic damage.
 
 *Source: Tasha's Cauldron of Everything p. 133*

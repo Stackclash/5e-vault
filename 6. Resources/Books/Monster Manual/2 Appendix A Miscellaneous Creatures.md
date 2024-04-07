@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/mm
-aliases: ["Appendix A: Miscellaneous Creatures"]
+  - compendium/src/5e/mm
+aliases:
+  - 'Appendix A: Miscellaneous Creatures'
 ---
 # Appendix A: Miscellaneous Creatures
 *Source: Monster Manual, p. 317* 

@@ -17,7 +17,7 @@ Scribing a [[5. Mechanics/Items/Spell Scroll.md\|spell scroll]] takes an amount 
 
 If the scribed spell is a cantrip, the version on the scroll works as if the caster were 1st level.
 
-![Resources; Spell Scroll Costs](compendium/tables/resources-spell-scroll-costs-xge.md)
+![[5. Mechanics/Tables/Resources Spell Scroll Costs.md\|Resources; Spell Scroll Costs]]
 
 ## Complications
 

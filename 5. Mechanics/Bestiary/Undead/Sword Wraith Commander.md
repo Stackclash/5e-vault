@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Sword Wraith Commander
 ---
-# [[5. Mechanics\Bestiary\Undead\Sword Wraith Commander.md|Sword Wraith Commander]]
+# [[5. Mechanics/Bestiary/Undead/Sword Wraith Commander.md|Sword Wraith Commander]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 239, Mordenkainen's Tome of Foes p. 241*
 
 Sword wraith commanders haunt battlefields, attacking anyone who questions their valor but looking kindly on those who sing their praises.
@@ -27,6 +27,7 @@ When glory-obsessed warriors die in battle without honor, they might haunt the s
 "type": "undead"
 "alignment": "Typically  Lawful Evil"
 "ac": !!int "18"
+"ac_class": "[[5. Mechanics/Items/Breastplate.md|breastplate]], [[5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "127"
 "hit_dice": "15d8 + 60"
 "stats":
@@ -56,24 +57,24 @@ When glory-obsessed warriors die in battle without honor, they might haunt the s
 "actions":
 - "desc": "The commander makes two Longsword or Longbow attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) slashing damage, or dice: 1d10 + 4|avg\
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 4|text(8) (1d8 + 4) slashing damage, or dice:1d10 + 4|text(9)\
     \ (1d10 + 4) slashing damage if used with two hands."
   "name": "Longsword"
-- "desc": "Ranged Weapon Attack: dice: d20+5 (+5 to hit), range 150/600 ft., one\
-    \ target. Hit: dice: 1d8 + 2|avg (1d8 + 2) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+5 (+5) to hit, range 150/600 ft.,\
+    \ one target. Hit: dice:1d8 + 2|text(6) (1d8 + 2) piercing damage."
   "name": "Longbow"
 - "desc": "If the commander has taken damage during this combat, it gives itself advantage\
-    \ on attack rolls until the end of its next turn, and dice: 1d4 + 1|avg (1d4\
-    \ + 1) [[5. Mechanics/Bestiary/Undead/Sword Wraith Warrior.md|sword wraith warriors]]\
+    \ on attack rolls until the end of its next turn, and dice: 1d4 + 1|avg|noform\
+    \ (1d4 + 1) [[5. Mechanics/Bestiary/Undead/Sword Wraith Warrior.md|sword wraith warriors]]\
     \ appear in unoccupied spaces within 30 feet of it. The warriors last until they\
     \ drop to 0 hit points, and they take their turns immediately after the commander's\
     \ turn on the same initiative count."
   "name": "Call to Honor (1/Day)"
 "bonus_actions":
 - "desc": "The commander makes one Longsword or Longbow attack, which deals an extra\
-    \ dice: 2d8|avg (2d8) necrotic damage on a hit, and attack rolls against it\
-    \ have advantage until the start of its next turn."
+    \ dice:2d8|text(9) (2d8) necrotic damage on a hit, and attack rolls against\
+    \ it have advantage until the start of its next turn."
   "name": "Martial Fury"
 "source":
 - "MPMM"

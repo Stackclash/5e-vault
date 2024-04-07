@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Curate
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Curate.md|Curate]]
+# [[5. Mechanics/Bestiary/Humanoid/Curate.md|Curate]]
 *Source: Strongholds and Followers p. 73*
 
 ```statblock
@@ -20,6 +20,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "15"
+"ac_class": "Medium"
 "stats":
 - !!int "14"
 - !!int "14"

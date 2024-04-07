@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/mtf
-aliases: ["The Blood War"]
+  - compendium/src/5e/mtf
+aliases:
+  - The Blood War
 ---
 # The Blood War
 *Source: Mordenkainen's Tome of Foes, p. 5* 
@@ -133,7 +134,7 @@ From his throne at the bottom of the Nine Hells, Asmodeus commands a sprawling b
 
 Asmodeus and the other archdevils rule over the nine layers that comprise the Hells. The devil lords make up a hierarchy that is both rigid and fragile. Although Asmodeus is more powerful than any other lord, he has to be constantly wary of treachery within his ranks. It could be said that the true ruler of the Nine Hells is the immense body of rules and regulations that dictate how all devils, even Asmodeus, must conduct themselves.
 
-![Lords of the Nine; Layers and Rulers of the Nine Hells](compendium/tables/lords-of-the-nine-layers-and-rulers-of-the-nine-hells-mtf.md)
+![[5. Mechanics/Tables/Lords Of The Nine Layers And Rulers Of The Nine Hells.md\|Lords of the Nine; Layers and Rulers of the Nine Hells]]
 
 ### Asmodeus
 
@@ -840,15 +841,15 @@ In addition, this cambion can use its Innate Spellcasting ability to cast animat
 
 This section provides tables useful for DMs who want to customize certain demons.
 
-![Demon Customization Tables; Demon Personality Traits](compendium/tables/demon-customization-tables-demon-personality-traits-mtf.md)
+![[5. Mechanics/Tables/Demon Customization Tables Demon Personality Traits.md\|Demon Customization Tables; Demon Personality Traits]]
 
-![Demon Customization Tables; Demon Ideals](compendium/tables/demon-customization-tables-demon-ideals-mtf.md)
+![[5. Mechanics/Tables/Demon Customization Tables Demon Ideals.md\|Demon Customization Tables; Demon Ideals]]
 
-![Demon Customization Tables; Demon Bonds](compendium/tables/demon-customization-tables-demon-bonds-mtf.md)
+![[5. Mechanics/Tables/Demon Customization Tables Demon Bonds.md\|Demon Customization Tables; Demon Bonds]]
 
-![Demon Customization Tables; Demon Flaws](compendium/tables/demon-customization-tables-demon-flaws-mtf.md)
+![[5. Mechanics/Tables/Demon Customization Tables Demon Flaws.md\|Demon Customization Tables; Demon Flaws]]
 
-![Demon Customization Tables; Unusual Demon Features](compendium/tables/demon-customization-tables-unusual-demon-features-mtf.md)
+![[5. Mechanics/Tables/Demon Customization Tables Unusual Demon Features.md\|Demon Customization Tables; Unusual Demon Features]]
 
 Use the following template to quickly customize a Demon
 
@@ -858,14 +859,14 @@ The following tables can be used to generate random cults dedicated to fiends. R
 
 ![[6. Resources/Books/Mordenkainens Tome Of Foes/img/315588_cn_wmask.webp#center]]
 
-![Fiendish Cults; Cult Goals](compendium/tables/fiendish-cults-cult-goals-mtf.md)
+![[5. Mechanics/Tables/Fiendish Cults Cult Goals.md\|Fiendish Cults; Cult Goals]]
 
-![Fiendish Cults; Cult Resources](compendium/tables/fiendish-cults-cult-resources-mtf.md)
+![[5. Mechanics/Tables/Fiendish Cults Cult Resources.md\|Fiendish Cults; Cult Resources]]
 
 ![[6. Resources/Books/Mordenkainens Tome Of Foes/img/315589_cn.webp#center]]
 
-![Fiendish Cults; Cult Organization](compendium/tables/fiendish-cults-cult-organization-mtf.md)
+![[5. Mechanics/Tables/Fiendish Cults Cult Organization.md\|Fiendish Cults; Cult Organization]]
 
-![Fiendish Cults; Cult Hardship](compendium/tables/fiendish-cults-cult-hardship-mtf.md)
+![[5. Mechanics/Tables/Fiendish Cults Cult Hardship.md\|Fiendish Cults; Cult Hardship]]
 
 Use the template linked above to quickly draw up some information on a Fiendish Cult.

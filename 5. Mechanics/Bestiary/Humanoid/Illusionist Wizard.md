@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Illusionist Wizard
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Illusionist Wizard.md|Illusionist Wizard]]
+# [[5. Mechanics/Bestiary/Humanoid/Illusionist Wizard.md|Illusionist Wizard]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 263, Volo's Guide to Monsters p. 214*
 
 Illusionists twist light, sound, and even thought to create illusory effects. Some illusionists are delightful entertainers, while others are devilish tricksters.
@@ -26,6 +26,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "12"
+"ac_class": "15 with [[5. Mechanics/Spells/Mage Armor.md|mage armor]]"
 "hp": !!int "44"
 "hit_dice": "8d8 + 8"
 "stats":
@@ -56,8 +57,8 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "actions":
 - "desc": "The illusionist makes two Arcane Burst attacks."
   "name": "Multiattack"
-- "desc": "Melee or Ranged Spell Attack: dice: d20+5 (+5 to hit), reach 5 ft.\
-    \ or range 120 ft., one target. Hit: dice: 2d10 + 3|avg (2d10 + 3) psychic\
+- "desc": "Melee or Ranged Spell Attack: dice: d20+5 (+5) to hit, reach 5 ft.\
+    \ or range 120 ft., one target. Hit: dice:2d10 + 3|text(14) (2d10 + 3) psychic\
     \ damage."
   "name": "Arcane Burst"
 "bonus_actions":

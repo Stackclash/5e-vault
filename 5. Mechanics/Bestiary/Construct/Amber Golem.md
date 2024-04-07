@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Amber Golem
 ---
-# [[5. Mechanics\Bestiary\Construct\Amber Golem.md|Amber Golem]]
+# [[5. Mechanics/Bestiary/Construct/Amber Golem.md|Amber Golem]]
 *Source: Curse of Strahd p. 186*
 
 ```statblock
@@ -19,6 +19,7 @@ aliases:
 "type": "construct"
 "alignment": "Unaligned"
 "ac": !!int "17"
+"ac_class": "natural armor"
 "hp": !!int "178"
 "hit_dice": "17d10 + 85"
 "stats":
@@ -48,8 +49,8 @@ aliases:
 "actions":
 - "desc": "The golem makes two slam attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 3d8 + 6|avg (3d8 + 6) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+10 (+10) to hit, reach 5 ft., one\
+    \ target. Hit: dice:3d8 + 6|text(19) (3d8 + 6) bludgeoning damage."
   "name": "Slam"
 - "desc": "The golem targets one or more creatures it can see within 10 feet of it.\
     \ Each target must make a DC 17 Wisdom saving throw against this magic. On a failed\

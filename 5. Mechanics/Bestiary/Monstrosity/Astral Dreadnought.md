@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Astral Dreadnought
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Astral Dreadnought.md|Astral Dreadnought]]
+# [[5. Mechanics/Bestiary/Monstrosity/Astral Dreadnought.md|Astral Dreadnought]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 51, Mordenkainen's Tome of Foes p. 117*
 
 Enormous and terrifying, astral dreadnoughts haunt the silvery void of the Astral Plane, causing planar travelers to shudder at the very thought of them. Dreadnoughts have been gliding through the astral mists since the dawn of the multiverse, trying to devour all other creatures they encounter.
@@ -24,6 +24,7 @@ Covered from head to tail in layers of thick, spiked plates, a dreadnought has t
 "subtype": "titan"
 "alignment": "Unaligned"
 "ac": !!int "20"
+"ac_class": "natural armor"
 "hp": !!int "297"
 "hit_dice": "17d20 + 119"
 "stats":
@@ -77,15 +78,15 @@ Covered from head to tail in layers of thick, spiked plates, a dreadnought has t
 "actions":
 - "desc": "The dreadnought makes one Bite attack and two Claw attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+16 (+16 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 5d10 + 9|avg (5d10 + 9) force damage. If the target is a Huge\
-    \ or smaller creature and this damage reduces it to 0 hit points or it is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]],\
-    \ the dreadnought swallows it. The swallowed target, along with everything it\
-    \ is wearing and carrying, appears in an unoccupied space on the floor of the\
-    \ Demiplanar Donjon."
+- "desc": "Melee Weapon Attack: dice: d20+16 (+16) to hit, reach 10 ft., one\
+    \ target. Hit: dice:5d10 + 9|text(36) (5d10 + 9) force damage. If the target\
+    \ is a Huge or smaller creature and this damage reduces it to 0 hit points or\
+    \ it is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]], the dreadnought\
+    \ swallows it. The swallowed target, along with everything it is wearing and carrying,\
+    \ appears in an unoccupied space on the floor of the Demiplanar Donjon."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+16 (+16 to hit), reach 20 ft., one target.\
-    \ Hit: dice: 3d6 + 9|avg (3d6 + 9) force damage."
+- "desc": "Melee Weapon Attack: dice: d20+16 (+16) to hit, reach 20 ft., one\
+    \ target. Hit: dice:3d6 + 9|text(19) (3d6 + 9) force damage."
   "name": "Claw"
 "legendary_actions":
 - "desc": "The dreadnought makes one Claw attack."
@@ -97,8 +98,8 @@ Covered from head to tail in layers of thick, spiked plates, a dreadnought has t
     \ that space is occupied."
   "name": "Donjon Visit (Costs 2 Actions)"
 - "desc": "Each creature within 60 feet of the dreadnought must make a DC 19 Wisdom\
-    \ saving throw, taking dice: 4d10 + 4|avg (4d10 + 4) psychic damage on a failed\
-    \ save, or half as much damage on a successful one."
+    \ saving throw, taking dice:4d10 + 4|text(26) (4d10 + 4) psychic damage on\
+    \ a failed save, or half as much damage on a successful one."
   "name": "Psychic Projection (Costs 3 Actions)"
 "source":
 - "MPMM"

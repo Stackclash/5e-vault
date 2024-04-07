@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Peryton
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Peryton.md|Peryton]]
+# [[5. Mechanics/Bestiary/Monstrosity/Peryton.md|Peryton]]
 *Source: Monster Manual p. 251*
 
 Although this monstrous carnivore feeds on any creature, it prefers humanoids, especially elves, half-elves, and humans. When it kills a humanoid, a peryton rips out its prey's heart and takes it back to its nest to be devoured.
@@ -37,6 +37,7 @@ Established settlements are attractive to perytons as a renewable food source. A
 "type": "monstrosity"
 "alignment": "Chaotic Evil"
 "ac": !!int "13"
+"ac_class": "natural armor"
 "hp": !!int "33"
 "hit_dice": "6d8 + 6"
 "stats":
@@ -55,8 +56,8 @@ Established settlements are attractive to perytons as a renewable food source. A
 "cr": "2"
 "traits":
 - "desc": "If the peryton is flying and dives at least 30 feet straight toward a target\
-    \ and then hits it with a melee weapon attack, the attack deals an extra dice:\
-    \ 2d8|avg (2d8) damage to the target."
+    \ and then hits it with a melee weapon attack, the attack deals an extra dice:2d8|text(9)\
+    \ (2d8) damage to the target."
   "name": "Dive Attack"
 - "desc": "The peryton doesn't provoke an opportunity attack when it flies out of\
     \ an enemy's reach."
@@ -67,11 +68,11 @@ Established settlements are attractive to perytons as a renewable food source. A
 "actions":
 - "desc": "The peryton makes one gore attack and one talon attack."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 3|text(7) (1d8 + 3) piercing damage."
   "name": "Gore"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4 + 3|avg (2d4 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d4 + 3|text(8) (2d4 + 3) piercing damage."
   "name": "Talons"
 "source":
 - "MM"

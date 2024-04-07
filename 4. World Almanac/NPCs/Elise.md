@@ -1,27 +1,28 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: null
 condition: healthy
 image: 4. World Almanac/NPCs/img/elise.webp
 relationships: []
-tags: 
-aliases: [Elise]
-pronounced: 
-race: 
-gender: 
-age: 
+tags: null
+aliases:
+  - Elise
+pronounced: null
+race: null
+gender: null
+age: null
 alignment: Neutral
-occupation: 
+occupation: null
 groups: []
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]
@@ -147,8 +148,8 @@ await dv.view("npcRelationships", { current: dv.current() })
 "actions":
 - "desc": "Elise makes two slam attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d8 + 4|text(13) (2d8 + 4) bludgeoning damage."
   "name": "Slam"
 "source":
 - "VRGR"

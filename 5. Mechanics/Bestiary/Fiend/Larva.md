@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Larva (DMG)
 ---
-# [[5. Mechanics\Bestiary\Fiend\Larva.md|Larva (DMG)]]
+# [[5. Mechanics/Bestiary/Fiend/Larva.md|Larva (DMG)]]
 *Source: Dungeon Master's Guide p. 63*
 
 ```statblock
@@ -33,8 +33,8 @@ aliases:
 "languages": "understands the languages it knew in life but can't speak"
 "cr": "0"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+1 (+1 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 - 1|avg (1d4 - 1) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+1 (+1) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d4 - 1|text(1) (1d4 - 1) piercing damage."
   "name": "Bite"
 "source":
 - "DMG"

@@ -37,7 +37,7 @@ An Orb of Dragonkind has the following random properties:
 
 ## Spells
 
-The orb has 7 charges and regains `dice: 1d4 + 3|avg` (`1d4 + 3`) expended charges daily at dawn. If you control the orb, you can use an action and expend 1 or more charges to cast one of the following spells (save DC 18) from it: [[5. Mechanics/Spells/Cure Wounds.md\|cure wounds]] (5th-level version, 3 charges), [[5. Mechanics/Spells/Daylight.md\|daylight]] (1 charge), [[5. Mechanics/Spells/Death Ward.md\|death ward]] (2 charges), or [[5. Mechanics/Spells/Scrying.md\|scrying]] (3 charges). You can also use an action to cast the [[5. Mechanics/Spells/Detect Magic.md\|detect magic]] spell from the orb without using any charges.
+The orb has 7 charges and regains `dice: 1d4 + 3|avg|noform` (`1d4 + 3`) expended charges daily at dawn. If you control the orb, you can use an action and expend 1 or more charges to cast one of the following spells (save DC 18) from it: [[5. Mechanics/Spells/Cure Wounds.md\|cure wounds]] (5th-level version, 3 charges), [[5. Mechanics/Spells/Daylight.md\|daylight]] (1 charge), [[5. Mechanics/Spells/Death Ward.md\|death ward]] (2 charges), or [[5. Mechanics/Spells/Scrying.md\|scrying]] (3 charges). You can also use an action to cast the [[5. Mechanics/Spells/Detect Magic.md\|detect magic]] spell from the orb without using any charges.
 
 ## Call Dragons
 

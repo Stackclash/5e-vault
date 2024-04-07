@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Ankheg
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Ankheg.md|Ankheg]]
+# [[5. Mechanics/Bestiary/Monstrosity/Ankheg.md|Ankheg]]
 *Source: Monster Manual p. 21. Available in the SRD.*
 
 An ankheg resembles an enormous many-legged insect, its long antennae twitching in response to any movement around it. Its legs end in sharp hooks adapted for burrowing and grasping its prey, and its powerful mandibles can snap a small tree in half.
@@ -35,6 +35,7 @@ As it burrows through earth, the ankheg leaves a narrow, partially collapsed tun
 "type": "monstrosity"
 "alignment": "Unaligned"
 "ac": !!int "14"
+"ac_class": "natural armor; 11 while prone"
 "hp": !!int "39"
 "hit_dice": "6d10 + 6"
 "stats":
@@ -49,8 +50,8 @@ As it burrows through earth, the ankheg leaves a narrow, partially collapsed tun
 "languages": ""
 "cr": "2"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) slashing damage plus dice: 1d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 3|text(10) (2d6 + 3) slashing damage plus dice:1d6|text(3)\
     \ (1d6) acid damage. If the target is a Large or smaller creature, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ (escape DC 13). Until this grapple ends, the ankheg can bite only the [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ creature and has advantage on attack rolls to do so."
@@ -58,7 +59,7 @@ As it burrows through earth, the ankheg leaves a narrow, partially collapsed tun
 - "desc": "The ankheg spits acid in a line that is 30 feet long and 5 feet wide, provided\
     \ that it has no creature [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]].\
     \ Each creature in that line must make a DC 13 Dexterity saving throw, taking\
-    \ dice: 3d6|avg (3d6) acid damage on a failed save, or half as much damage\
+    \ dice:3d6|text(10) (3d6) acid damage on a failed save, or half as much damage\
     \ on a successful one."
   "name": "Acid Spray (Recharge 6)"
 "source":

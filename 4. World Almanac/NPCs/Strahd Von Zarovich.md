@@ -67,7 +67,7 @@ When you run an encounter with Strahd, keep the following facts in mind:
 
 ## The Vampire's Minions
 
-Whenever Strahd appears in a location other than his tomb or the place indicated by the card reading, roll a `dice: d20|avg` (`d20`) and consult the Strahd's Minions table to determine what creatures he brings with him, if any.
+Whenever Strahd appears in a location other than his tomb or the place indicated by the card reading, roll a `dice: d20|avg|noform` (`d20`) and consult the Strahd's Minions table to determine what creatures he brings with him, if any.
 
 ## Strahd's Minions
 
@@ -75,12 +75,12 @@ Whenever Strahd appears in a location other than his tomb or the place indicated
 
 | dice: d20 | Creatures |
 |-----------|-----------|
-| 1–3 | `dice: 1d4 + 2\|avg` (`1d4 + 2`) [[5. Mechanics/Bestiary/Beast/Dire Wolf.md|dire wolves]] |
-| 4–6 | `dice: 1d6 + 3\|avg` (`1d6 + 3`) [[5. Mechanics/Bestiary/Undead/Ghoul.md|ghouls]] |
-| 7–9 | `dice: 1d4 + 2\|avg` (`1d4 + 2`) [[5. Mechanics/Bestiary/Undead/Strahd Zombie.md|Strahd zombies]] (in this appendix) |
-| 10–12 | `dice: 2d4\|avg` (`2d4`) [[5. Mechanics/Bestiary/Beast/Swarm Of Bats.md|swarms of bats]] |
-| 13–15 | `dice: 1d4 + 1\|avg` (`1d4 + 1`) [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md|vampire spawn]] |
-| 16–18 | `dice: 3d6\|avg` (`3d6`) [[5. Mechanics/Bestiary/Beast/Wolf.md|wolves]] |
+| 1–3 | `dice: 1d4 + 2\|avg|noform` (`1d4 + 2`) [[5. Mechanics/Bestiary/Beast/Dire Wolf.md|dire wolves]] |
+| 4–6 | `dice: 1d6 + 3\|avg|noform` (`1d6 + 3`) [[5. Mechanics/Bestiary/Undead/Ghoul.md|ghouls]] |
+| 7–9 | `dice: 1d4 + 2\|avg|noform` (`1d4 + 2`) [[5. Mechanics/Bestiary/Undead/Strahd Zombie.md|Strahd zombies]] (in this appendix) |
+| 10–12 | `dice: 2d4\|avg|noform` (`2d4`) [[5. Mechanics/Bestiary/Beast/Swarm Of Bats.md|swarms of bats]] |
+| 13–15 | `dice: 1d4 + 1\|avg|noform` (`1d4 + 1`) [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md|vampire spawn]] |
+| 16–18 | `dice: 3d6\|avg|noform` (`3d6`) [[5. Mechanics/Bestiary/Beast/Wolf.md|wolves]] |
 | 19–20 | None |
 ^creatures
 
@@ -159,6 +159,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 "subtype": "shapechanger"
 "alignment": "Lawful Evil"
 "ac": !!int "16"
+"ac_class": "natural armor"
 "hp": !!int "144"
 "hit_dice": "17d8 + 68"
 "stats":
@@ -184,8 +185,8 @@ await dv.view("npcRelationships", { current: dv.current() })
 "cr": "15"
 "traits":
 - "desc": "Strahd is a 9th-level spellcaster. His spellcasting ability is Intelligence\
-    \ (spell save DC 18, dice: d20+10 (+10 to hit) with spell attacks). He has the\
-    \ following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
+    \ (spell save DC 18, dice: d20+10 (+10) to hit with spell attacks). He has\
+    \ the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
     \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]], [[5. Mechanics/Spells/Ray Of Frost.md|ray of frost]]\n\
     \n1st level (4 slots): [[5. Mechanics/Spells/Comprehend Languages.md|comprehend languages]],\
     \ [[5. Mechanics/Spells/Fog Cloud.md|fog cloud]], [[5. Mechanics/Spells/Sleep.md|sleep]]\n\
@@ -243,21 +244,21 @@ await dv.view("npcRelationships", { current: dv.current() })
 "actions":
 - "desc": "Strahd makes two attacks, only one of which can be a bite attack."
   "name": "Multiattack (Vampire Form Only)"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) slashing damage, plus dice: 4d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 4|text(8) (1d8 + 4) slashing damage, plus dice:4d6|text(14)\
     \ (4d6) necrotic damage. If the target is a creature, Strahd can grapple it\
     \ (escape DC 18) instead of dealing the slashing damage."
   "name": "Unarmed Strike (Vampire or Wolf Form Only)"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one willing\
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 5 ft., one willing\
     \ creature, or a creature that is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ by Strahd, [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]], or\
-    \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]. Hit: dice: 1d6\
-    \ + 4|avg (1d6 + 4) piercing damage plus dice: 3d6|avg (3d6) necrotic damage.\
-    \ The target's hit point maximum is reduced by an amount equal to the necrotic\
-    \ damage taken, and Strahd regains hit points equal to that amount. The reduction\
-    \ lasts until the target finishes a long rest. The target dies if its hit point\
-    \ maximum is reduced to 0. A humanoid slain in this way and then buried in the\
-    \ ground rises the following night as a [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md|vampire spawn]]\
+    \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]. Hit: dice:1d6 +\
+    \ 4|text(7) (1d6 + 4) piercing damage plus dice:3d6|text(10) (3d6) necrotic\
+    \ damage. The target's hit point maximum is reduced by an amount equal to the\
+    \ necrotic damage taken, and Strahd regains hit points equal to that amount. The\
+    \ reduction lasts until the target finishes a long rest. The target dies if its\
+    \ hit point maximum is reduced to 0. A humanoid slain in this way and then buried\
+    \ in the ground rises the following night as a [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md|vampire spawn]]\
     \ under Strahd's control."
   "name": "Bite"
 - "desc": "Strahd targets one humanoid he can see within 30 feet of him. If the target\
@@ -271,12 +272,13 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ Strahd is destroyed, is on a different plane of existence than the target, or\
     \ takes a bonus action to end the effect."
   "name": "Charm"
-- "desc": "Strahd magically calls dice: 2d4|avg (2d4) [[5. Mechanics/Bestiary/Beast/Swarm Of Bats.md|swarms of bats]]\
+- "desc": "Strahd magically calls dice: 2d4|avg|noform (2d4) [[5. Mechanics/Bestiary/Beast/Swarm Of Bats.md|swarms of bats]]\
     \ or [[5. Mechanics/Bestiary/Beast/Swarm Of Rats.md|swarms of rats]], provided that\
-    \ the sun isn't up. While outdoors, Strahd can call dice: 3d6|avg (3d6) [[5. Mechanics/Bestiary/Beast/Wolf.md|wolves]]\
-    \ instead. The called creatures arrive in dice: 1d4|avg (1d4) rounds, acting\
-    \ as allies of Strahd and obeying his spoken commands. The beasts remain for 1\
-    \ hour, until Strahd dies, or until he dismisses them as a bonus action."
+    \ the sun isn't up. While outdoors, Strahd can call dice: 3d6|avg|noform (3d6)\
+    \ [[5. Mechanics/Bestiary/Beast/Wolf.md|wolves]] instead. The called creatures arrive\
+    \ in dice: 1d4|avg|noform (1d4) rounds, acting as allies of Strahd and obeying\
+    \ his spoken commands. The beasts remain for 1 hour, until Strahd dies, or until\
+    \ he dismisses them as a bonus action."
   "name": "Children of the Night (1/Day)"
 "legendary_actions":
 - "desc": "Strahd moves up to his speed without provoking opportunity attacks."

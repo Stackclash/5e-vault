@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Young Sapphire Dragon
 ---
-# [[5. Mechanics\Bestiary\Dragon\Young Sapphire Dragon.md|Young Sapphire Dragon]]
+# [[5. Mechanics/Bestiary/Dragon/Young Sapphire Dragon.md|Young Sapphire Dragon]]
 *Source: Strongholds and Followers p. 215*
 
 Eldest, first, the sapphire dragons inspire awe in any who see them. They guard the knowledge of past and future and the power that lets one shift between them. They approve of the dwarves, who imposed the rigid rules of causality on the world, and consider the remnant domains of the elves, the wodes, as a danger. Not a threat per se, because they know it is in the elves' nature to ignore past and future, but when mortals exploit this or discover the means to move through time, or summon creatures from the past and future, then the sapphire dragons get riled up.
@@ -25,6 +25,7 @@ Being oldest, they are also the most reserved, taciturn. Even the young sapphire
 "type": "dragon"
 "alignment": "Neutral"
 "ac": !!int "19"
+"ac_class": "natural armor"
 "hp": !!int "127"
 "hit_dice": "17d10 + 34"
 "stats":
@@ -51,7 +52,8 @@ Being oldest, they are also the most reserved, taciturn. Even the young sapphire
 "cr": "10"
 "traits":
 - "desc": ". . [[/5. Mechanics/Rules/Variant Rules/Gemstone Dragon Psionics.md|Gemstone Dragon Psionics]].\
-    \ Charges: 17 • Recharge: dice: 1d6|avg (1d6) • Fracture: 17"
+    \ Charges: 17 • Recharge: dice: 1d6|avg|noform (1d6) • Fracture:\
+    \ 17"
   "name": ""
 - "desc": "All creatures within 30 feet must make a DC 16 Charisma saving throw in\
     \ order to attack this dragon. On a failed save, the attacking creature's turn\
@@ -61,11 +63,11 @@ Being oldest, they are also the most reserved, taciturn. Even the young sapphire
 "actions":
 - "desc": "The dragon makes three attacks: one with its bite and two with its claws."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d10 + 4|avg (2d10 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 10 ft., one target.\
+    \ Hit: dice:2d10 + 4|text(15) (2d10 + 4) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) slashing damage."
   "name": "Claw"
 "source":
 - "SaF"

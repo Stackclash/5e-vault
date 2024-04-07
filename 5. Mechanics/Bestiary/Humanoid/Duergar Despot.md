@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Duergar Despot
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Duergar Despot.md|Duergar Despot]]
+# [[5. Mechanics/Bestiary/Humanoid/Duergar Despot.md|Duergar Despot]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 107, Mordenkainen's Tome of Foes p. 188*
 
 Duergar despots replace parts of their bodies with mechanical devices that they control through their psionic abilities.
@@ -44,6 +44,7 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 "subtype": "dwarf"
 "alignment": "Any alignment"
 "ac": !!int "21"
+"ac_class": "natural armor"
 "hp": !!int "119"
 "hit_dice": "14d8 + 56"
 "stats":
@@ -74,7 +75,7 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
     \ effects."
   "name": "Magic Resistance"
 - "desc": "When the duergar suffers a critical hit or is reduced to 0 hit points,\
-    \ psychic energy erupts from its frame to deal dice: 4d6|avg (4d6) psychic\
+    \ psychic energy erupts from its frame to deal dice:4d6|text(14) (4d6) psychic\
     \ damage to each creature within 5 feet of it."
   "name": "Psychic Engine"
 - "desc": "While in sunlight, the duergar has disadvantage on attack rolls, as well\
@@ -86,18 +87,19 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
     \ After one of the attacks, the duergar can move up to its speed without provoking\
     \ opportunity attacks. It can replace one of the attacks with a use of Flame Jet."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 4d8 + 5|avg (4d8 + 5) bludgeoning damage. If the target is\
-    \ a Large or smaller creature, it must succeed on a DC 17 Strength saving throw\
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 5 ft., one target.\
+    \ Hit: dice:4d8 + 5|text(23) (4d8 + 5) bludgeoning damage. If the target\
+    \ is a Large or smaller creature, it must succeed on a DC 17 Strength saving throw\
     \ or be pushed up to 30 feet away in a straight line and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Iron Fist"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d10 + 5|avg (1d10 + 5) bludgeoning damage, or dice: 3d10\
-    \ + 5|avg (3d10 + 5) to a [[/5. Mechanics/Rules/Conditions.md#prone|prone]] target."
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d10 + 5|text(10) (1d10 + 5) bludgeoning damage, or dice:3d10\
+    \ + 5|text(21) (3d10 + 5) to a [[/5. Mechanics/Rules/Conditions.md#prone|prone]]\
+    \ target."
   "name": "Stomping Foot"
 - "desc": "The duergar spews flames in a line 100 feet long and 5 feet wide. Each\
-    \ creature in the line must make a DC 16 Dexterity saving throw, taking dice:\
-    \ 4d8|avg (4d8) fire damage on a failed save, or half as much damage on a successful\
+    \ creature in the line must make a DC 16 Dexterity saving throw, taking dice:4d8|text(18)\
+    \ (4d8) fire damage on a failed save, or half as much damage on a successful\
     \ one."
   "name": "Flame Jet"
 "source":

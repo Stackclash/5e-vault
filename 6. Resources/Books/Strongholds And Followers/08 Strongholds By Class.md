@@ -145,7 +145,7 @@ The bard's theater promises drama and entertainment! Poetry and song. But also r
 On initiative count 20 (losing initiative ties), the bard takes a stronghold action with one of the following effects. The bard must be in the same hex or province as their stronghold and cannot use the same effect again until after a short rest.
 
 - Until initiative count 20 on the next round, all inspiration dice produce their maximum result when rolled, followed by the sounding of a two-note chord: one root note and another a fifth higher than the root.  
-- A three-piece band arrives singing your praises. Until initiative count 20 on the next turn, enemies make saving throws against your magic by rolling three `dice: d20|avg` (`d20`)s and using the worst of the three. The band has exceptionally good rhythm and world-class lute fingering, and the singer has an unusually high voice.  
+- A three-piece band arrives singing your praises. Until initiative count 20 on the next turn, enemies make saving throws against your magic by rolling three `dice: d20|avg|noform` (`d20`)s and using the worst of the three. The band has exceptionally good rhythm and world-class lute fingering, and the singer has an unusually high voice.  
 - You regain all inspiration dice.  
 
 ### Class Feature Improvement: Encouraging Inspiration
@@ -176,7 +176,7 @@ On initiative count 20 (losing initiative ties), the cleric takes a stronghold a
 
 ### Class Feature Improvement: Manifest Divinity
 
-When using your Channel Divinity class feature, all allies within 30 feet regain `dice: 3d8|avg` (`3d8`) hit points. You can do this a number of times equal to your stronghold level, after which you must take an extended rest to refresh this ability.
+When using your Channel Divinity class feature, all allies within 30 feet regain `dice: 3d8|avg|noform` (`3d8`) hit points. You can do this a number of times equal to your stronghold level, after which you must take an extended rest to refresh this ability.
 
 ![[5. Mechanics/Tables/Cleric Followers.md\|Cleric Followers]]
 
@@ -196,9 +196,9 @@ The druid's grove ^[This is a notional, narrative term. It doesn't necessarily m
 
 On initiative count 20 (losing initiative ties), the druid takes a stronghold action to cause one of the following effects. The druid must be in the same hex or province as their stronghold, and can't use the same effect again until after a short rest.
 
-- Grasping vines rise from the ground for 1 minute. Every enemy within 60 feet must make a Dexterity saving throw or be [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]] for the duration, taking `dice: 3d8|avg` (`3d8`) damage at the start of each of their rounds from stabbing thorns. At the end of its turn, an affected enemy can make another saving throw to escape.  
+- Grasping vines rise from the ground for 1 minute. Every enemy within 60 feet must make a Dexterity saving throw or be [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]] for the duration, taking `dice: 3d8|avg|noform` (`3d8`) damage at the start of each of their rounds from stabbing thorns. At the end of its turn, an affected enemy can make another saving throw to escape.  
 - You cast [[5. Mechanics/Spells/Banishment.md\|banishment]] on an enemy, sending them to Arcadia on a failed save.  
-- You summon `dice: 1d4+1|avg` (`1d4+1`) [[5. Mechanics/Bestiary/Plant/Shambling Mound.md\|shambling mounds]] who fight for you for 1 minute.  
+- You summon `dice: 1d4+1|avg|noform` (`1d4+1`) [[5. Mechanics/Bestiary/Plant/Shambling Mound.md\|shambling mounds]] who fight for you for 1 minute.  
 
 ### Class Feature Improvement: Savage Shape
 
@@ -233,7 +233,7 @@ The fighter's fortress is a bastion against intruders, and it rewards those who 
 
 On initiative count 20 (losing initiative ties), the fighter takes a stronghold action to cause one of the following effects. The fighter must be in the same hex or province as their stronghold, and can't use the same effect again until after a short rest.
 
-- Until initiative count 20 on the next round, any enemy who tries to cast a spell in your demesne experiences searing pain. The enemy can choose another action, but if it chooses to cast the spell, it must make a DC 16 Constitution saving throw. On a failed save, it takes `dice: 1d6|avg` (`1d6`) force damage per level of the spell, and the spell has no effect and is wasted.  
+- Until initiative count 20 on the next round, any enemy who tries to cast a spell in your demesne experiences searing pain. The enemy can choose another action, but if it chooses to cast the spell, it must make a DC 16 Constitution saving throw. On a failed save, it takes `dice: 1d6|avg|noform` (`1d6`) force damage per level of the spell, and the spell has no effect and is wasted.  
 - Until the end of your next turn, you and all your allies' weapon attacks hit automatically. Roll anyway, though—you might score a crit!  
 - You and all your allies are restored to full hit points.  
 
@@ -320,7 +320,7 @@ The ranger's lodge is a place of good hunting and security, creating one or more
 ### Demesne Effects
 
 - Stags, harts, and other game are always plentiful in the ranger's demesne, but they are larger and fiercer than normal.  
-- Enemies of the ranger and the locals must make DC 15 [[/5. Mechanics/Rules/Skills.md#Survival\|Survival]] checks to navigate the ranger's demesne. On a failure, they are attacked by `dice: 2d6|avg` (`2d6`) winter wolves.  
+- Enemies of the ranger and the locals must make DC 15 [[/5. Mechanics/Rules/Skills.md#Survival\|Survival]] checks to navigate the ranger's demesne. On a failure, they are attacked by `dice: 2d6|avg|noform` (`2d6`) winter wolves.  
 - Allies treat the ranger's demesne as favored terrain when moving their units. Enemy units treat it as difficult terrain.  
 
 ### Stronghold Actions
@@ -329,7 +329,7 @@ On initiative count 20 (losing initiative ties), the ranger takes a stronghold a
 
 - Small targets appear on the vulnerable spots of nearby enemies. Until initiative count 20 on the next round, all enemies within 60 feet have vulnerability to your attacks.  
 - You summon a fog cloud in a 60-foot radius that lasts for 1 minute. You and your allies can see through this fog as though it were merely a hazy mist that did not obscure vision.  
-- Until initiative count 20 on the next turn, all of your successful attacks also cause the target to bleed. A bleeding creature takes `dice: 3d8|avg` (`3d8`) damage at the start of each of its following turns, and can make a DC 18 Constitution save at the end of each of its turns to end the bleeding.  
+- Until initiative count 20 on the next turn, all of your successful attacks also cause the target to bleed. A bleeding creature takes `dice: 3d8|avg|noform` (`3d8`) damage at the start of each of its following turns, and can make a DC 18 Constitution save at the end of each of its turns to end the bleeding.  
 
 ### Class Feature Improvement: Chosen Enemy
 
@@ -347,13 +347,13 @@ The rogue's tavern is a hotbed of intrigue and information, creating one or more
 
 - One ally per level of the rogue's stronghold can hide in the rogue's demesne, and no mundane or magical means will reveal their location. This ability does not work on the owner of the stronghold.  
 - Creatures trespassing in the rogue's demesne have the overwhelming sensation they are being spied upon.  
-- When a creature hostile to the rogue and aware of their existence finishes a long rest within the rogue's demesne, roll a `dice: d20|avg` (`d20`). On a roll of 10 or less, the creature triggers a hidden trap, taking `dice: 3d8|avg` (`3d8`) piercing damage.  
+- When a creature hostile to the rogue and aware of their existence finishes a long rest within the rogue's demesne, roll a `dice: d20|avg|noform` (`d20`). On a roll of 10 or less, the creature triggers a hidden trap, taking `dice: 3d8|avg|noform` (`3d8`) piercing damage.  
 
 ### Stronghold Actions
 
 On initiative count 20 (losing initiative ties), the rogue takes a stronghold action to cause one of the following effects. The rogue must be in the same hex or province as their stronghold and can't use the same effect again until after a short rest.
 
-- All enemies within 60 feet are marked for death. For the next minute, if you hit a marked enemy, you can remove its mark to deal an extra `dice: 6d6|avg` (`6d6`) slashing damage.  
+- All enemies within 60 feet are marked for death. For the next minute, if you hit a marked enemy, you can remove its mark to deal an extra `dice: 6d6|avg|noform` (`6d6`) slashing damage.  
 - Enemies within 60 feet are revealed, losing stealth and invisibility.  
 - You gain a Coin of Fate. Each time you are hit in combat, you may flip the coin. Heads, the attack misses instead. Tails, the attack hits as normal and you lose the coin.  
 
@@ -381,7 +381,7 @@ On initiative count 20 (losing initiative ties), the sorcerer takes a stronghold
 
 - You cast three spells from your list of prepared spells, using spell slots as normal.  
 - For the next minute, all of your spells are heightened, as per [[5. Mechanics/Optional Features/Heightened Spell.md\|heightened spell]]. You cannot use sorcery points to heighten an already heightened spell.  
-- You are wreathed by a [[5. Mechanics/Spells/Fire Shield.md\|fire shield]]. Enemies who strike the shield take `dice: 4d8|avg` (`4d8`) damage instead of `dice: 2d8|avg` (`2d8`).  
+- You are wreathed by a [[5. Mechanics/Spells/Fire Shield.md\|fire shield]]. Enemies who strike the shield take `dice: 4d8|avg|noform` (`4d8`) damage instead of `dice: 2d8|avg|noform` (`2d8`).  
 
 ### Class Feature Improvement: Source of Magic
 
@@ -506,7 +506,7 @@ This is a dramatic way to introduce a villain and hint to the players that there
 
 ## Special Allies
 
-Congratulations! You rolled well on your follower chart and attracted a special ally! Allies are like followers in that they approve of what you're doing in the world and want to help, but allies are powerful beings, often more powerful than your character. They cannot be ordered around, and they can be unreliable. Find your alignment on the chart below and roll a `dice: d12|avg` (`d12`) to see which cool beastie shows up to help you out.
+Congratulations! You rolled well on your follower chart and attracted a special ally! Allies are like followers in that they approve of what you're doing in the world and want to help, but allies are powerful beings, often more powerful than your character. They cannot be ordered around, and they can be unreliable. Find your alignment on the chart below and roll a `dice: d12|avg|noform` (`d12`) to see which cool beastie shows up to help you out.
 
 ![[5. Mechanics/Tables/Special Allies.md\|Special Allies]]
 

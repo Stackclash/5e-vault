@@ -11,7 +11,6 @@ aliases:
   - Temple of the Gods
 ---
 # Temple of the Gods
-%%-- Embedded content starts on the next line. --%%
 *7th-level, Conjuration*  
 
 - **Casting time:** 1 hour
@@ -25,7 +24,7 @@ You make all decisions about the temple's appearance. The interior is enclosed b
 
 The temple's interior is an open space with an idol or altar at one end. You decide whether the temple is illuminated and whether that illumination is bright light or dim light. The smell of burning incense fills the air within, and the temperature is mild.
 
-The temple opposes types of creatures you choose when you cast this spell. Choose one or more of the following: celestials, elementals, fey, fiends, or undead. If a creature of the chosen type attempts to enter the temple, that creature must make a Charisma saving throw. On a failed save, it can't enter the temple for 24 hours. Even if the creature can enter the temple, the magic there hinders it; whenever it makes an attack roll, an ability check, or a saving throw inside the temple, it must roll a `dice: d4|avg` (`d4`) and subtract the number rolled from the `dice: d20|avg` (`d20`) roll.
+The temple opposes types of creatures you choose when you cast this spell. Choose one or more of the following: celestials, elementals, fey, fiends, or undead. If a creature of the chosen type attempts to enter the temple, that creature must make a Charisma saving throw. On a failed save, it can't enter the temple for 24 hours. Even if the creature can enter the temple, the magic there hinders it; whenever it makes an attack roll, an ability check, or a saving throw inside the temple, it must roll a `dice: d4|avg|noform` (`d4`) and subtract the number rolled from the `dice: d20|avg|noform` (`d20`) roll.
 
 In addition, the sensors created by divination spells can't appear inside the temple, and creatures within can't be targeted by divination spells.
 

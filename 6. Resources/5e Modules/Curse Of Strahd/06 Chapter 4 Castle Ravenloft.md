@@ -23,7 +23,7 @@ The poster map that accompanies this book displays the castle in its entirety. M
 
 The first time the characters enter a castle area that isn't otherwise occupied, check for a random encounter. Also check for a random encounter every 10 minutes the characters spend resting in the castle.
 
-In most circumstances, a random encounter occurs on a roll of 18 or higher on a `dice: d20|avg` (`d20`). To determine what the characters encounter, consult the table below.
+In most circumstances, a random encounter occurs on a roll of 18 or higher on a `dice: d20|avg|noform` (`d20`). To determine what the characters encounter, consult the table below.
 
 **Random Encounters in Castle Ravenloft**
 
@@ -33,20 +33,20 @@ In most circumstances, a random encounter occurs on a roll of 18 or higher on a 
 | 3 | [[4. World Almanac/NPCs/Rahadin.md\|Rahadin]] (see appendix D) |
 | 4 | 1 black [[5. Mechanics/Bestiary/Beast/Cat.md\|cat]] |
 | 5 | 1 [[5. Mechanics/Bestiary/Construct/Broom Of Animated Attack.md\|broom of animated attack]] (see appendix D) |
-| 6 | `dice: 1d4 + 1\|avg` (`1d4 + 1`) [[5. Mechanics/Bestiary/Construct/Flying Sword.md\|flying swords]] |
+| 6 | `dice: 1d4 + 1\|avg|noform` (`1d4 + 1`) [[5. Mechanics/Bestiary/Construct/Flying Sword.md\|flying swords]] |
 | 7 | Blinsky toy |
 | 8 | [[5. Mechanics/Spells/Unseen Servant.md\|Unseen servant]] |
-| 9 | `dice: 1d4\|avg` (`1d4`) [[5. Mechanics/Bestiary/Humanoid/Barovian Commoner.md\|commoners]] |
-| 10 | `dice: 2d6\|avg` (`2d6`) [[5. Mechanics/Bestiary/Undead/Crawling Claw.md\|crawling claws]] |
-| 11 | `dice: 1d6\|avg` (`1d6`) [[5. Mechanics/Bestiary/Undead/Shadow.md\|shadows]] |
-| 12 | `dice: 1d6\|avg` (`1d6`) [[5. Mechanics/Bestiary/Beast/Swarm Of Bats.md\|swarms of bats]] |
+| 9 | `dice: 1d4\|avg|noform` (`1d4`) [[5. Mechanics/Bestiary/Humanoid/Barovian Commoner.md\|commoners]] |
+| 10 | `dice: 2d6\|avg|noform` (`2d6`) [[5. Mechanics/Bestiary/Undead/Crawling Claw.md\|crawling claws]] |
+| 11 | `dice: 1d6\|avg|noform` (`1d6`) [[5. Mechanics/Bestiary/Undead/Shadow.md\|shadows]] |
+| 12 | `dice: 1d6\|avg|noform` (`1d6`) [[5. Mechanics/Bestiary/Beast/Swarm Of Bats.md\|swarms of bats]] |
 | 13 | 1 crawling [[5. Mechanics/Bestiary/Undead/Strahd Zombie.md\|Strahd zombie]] (see appendix D) |
-| 14 | `dice: 1d4 + 1\|avg` (`1d4 + 1`) Vistani [[5. Mechanics/Bestiary/Humanoid/Vistana Thug.md\|thugs]] |
-| 15 | `dice: 1d4\|avg` (`1d4`) [[5. Mechanics/Bestiary/Undead/Wight.md\|wights]] |
+| 14 | `dice: 1d4 + 1\|avg|noform` (`1d4 + 1`) Vistani [[5. Mechanics/Bestiary/Humanoid/Vistana Thug.md\|thugs]] |
+| 15 | `dice: 1d4\|avg|noform` (`1d4`) [[5. Mechanics/Bestiary/Undead/Wight.md\|wights]] |
 | 16 | Trinket |
 | 17 | Giant spider cocoon |
 | 18 | 1 [[5. Mechanics/Bestiary/Humanoid/Barovian Witch.md\|Barovian witch]] (see appendix D) |
-| 19 | `dice: 1d4 + 1\|avg` (`1d4 + 1`) [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md\|vampire spawn]] |
+| 19 | `dice: 1d4 + 1\|avg|noform` (`1d4 + 1`) [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md\|vampire spawn]] |
 | 20 | [[4. World Almanac/NPCs/Strahd Von Zarovich.md\|Strahd von Zarovich]] (see appendix D) |
 ^random-encounters-in-castle-ravenloft
 
@@ -96,7 +96,7 @@ A Blinsky toy is encountered only if the characters are moving about the castle 
 > You find a discarded toy—something no child could love.
 ^17b
 
-The toy has a slogan stitched or printed on it in tiny letters: "Is No Fun, Is No Blinsky!" Roll a `dice: d6|avg` (`d6`) to determine the specific toy:
+The toy has a slogan stitched or printed on it in tiny letters: "Is No Fun, Is No Blinsky!" Roll a `dice: d6|avg|noform` (`d6`) to determine the specific toy:
 
 `dice: [[06 Chapter 4 Castle Ravenloft.md#^toy]]`
 
@@ -172,7 +172,7 @@ A giant spider cocoon is encountered only if the characters are moving about the
 > A white cocoon is suspended from the ceiling amid thick webs and appears to hold something human-like.
 ^188
 
-A giant spider made this cocoon. Characters who can reach it can cut it open to free whatever is inside. Roll a `dice: d6|avg` (`d6`) to determine the cocoon's contents:
+A giant spider made this cocoon. Characters who can reach it can cut it open to free whatever is inside. Roll a `dice: d6|avg|noform` (`d6`) to determine the cocoon's contents:
 
 `dice: [[06 Chapter 4 Castle Ravenloft.md#^cocoons-contents]]`
 
@@ -195,7 +195,7 @@ If [[4. World Almanac/NPCs/Rahadin.md\|Rahadin]] was killed or captured in a pre
 > "The master wishes to see you," intones a grim voice in the darkness.
 ^18a
 
-[[4. World Almanac/NPCs/Rahadin.md\|Rahadin]] directs the characters to a random location in the castle, determined by rolling a `dice: d6|avg` (`d6`):
+[[4. World Almanac/NPCs/Rahadin.md\|Rahadin]] directs the characters to a random location in the castle, determined by rolling a `dice: d6|avg|noform` (`d6`):
 
 `dice: [[06 Chapter 4 Castle Ravenloft.md#^location]]`
 
@@ -262,17 +262,17 @@ To determine what the character finds, roll on the [[5. Mechanics/Items/Trinket.
 > A curious object drifts into view, as though held aloft by an invisible force.
 ^195
 
-This unseen servant was created by Strahd and is permanent until destroyed (see the [[5. Mechanics/Spells/Unseen Servant.md\|unseen servant]] spell in the "Player's Handbook"). Roll a `dice: d6|avg` (`d6`) to determine what the servant is carrying, or choose one of the options below.
+This unseen servant was created by Strahd and is permanent until destroyed (see the [[5. Mechanics/Spells/Unseen Servant.md\|unseen servant]] spell in the "Player's Handbook"). Roll a `dice: d6|avg|noform` (`d6`) to determine what the servant is carrying, or choose one of the options below.
 
 `dice: [[06 Chapter 4 Castle Ravenloft.md#^items]]`
 
 | dice: d6 | Items |
 |----------|-------|
 | 1 | A tarnished silver platter with a lid (worth 25 gp). If a character comes within 5 feet of the servant, it lifts the lid, revealing a bunch of moldy scones. The first character to eat a scone gains inspiration. On later occurrences of this encounter, the platter holds a [[5. Mechanics/Bestiary/Undead/Crawling Claw.md\|crawling claw]] that attacks the nearest character. |
-| 2 | A silver goblet (worth 50 gp) filled to the brim with wine. A character who drinks the wine must make a DC 15 Constitution saving throw, taking 44 (`dice: 8d10\|avg` (`8d10`)) poison damage on a failed save, or half as much damage on a successful one. On future occurrences of this encounter, the wine acts as a [[5. Mechanics/Items/Potion Of Healing.md\|potion of healing]]. |
+| 2 | A silver goblet (worth 50 gp) filled to the brim with wine. A character who drinks the wine must make a DC 15 Constitution saving throw, taking `dice:8d10|text(44)` (`8d10`) poison damage on a failed save, or half as much damage on a successful one. On future occurrences of this encounter, the wine acts as a [[5. Mechanics/Items/Potion Of Healing.md\|potion of healing]]. |
 | 3 | A gold candelabrum (worth 150 gp) with three branches, each one holding an unlit candle. |
 | 4 | A purple silk handkerchief with white ruffled edges (worth 1 gp). On future occurrences of this encounter, the handkerchief is smeared with fresh blood. |
-| 5 | A crystal dinner bell (worth 25 gp). The unseen servant rings the bell if the characters come within 10 feet of it. The sound attracts `dice: 1d4\|avg` (`1d4`) hungry [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md\|vampire spawn]] (see below), which arrive in `dice: 1d4 + 1\|avg` (`1d4 + 1`) rounds. |
+| 5 | A crystal dinner bell (worth 25 gp). The unseen servant rings the bell if the characters come within 10 feet of it. The sound attracts `dice: 1d4\|avg|noform` (`1d4`) hungry [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md\|vampire spawn]] (see below), which arrive in `dice: 1d4 + 1\|avg|noform` (`1d4 + 1`) rounds. |
 | 6 | A wizard's spellbook with a black velvet dust jacket over its stitched leather cover. The book contains all the spells Strahd has prepared (see appendix D). On subsequent occurrences of this encounter, the tome is a nonmagical leather-bound storybook worth 25 gp. |
 ^items
 
@@ -298,7 +298,7 @@ A small group of Vistani (NE male and female human [[5. Mechanics/Bestiary/Human
 
 ##### Treasure
 
-One Vistani thug carries a pouch that holds `dice: 2d8|avg` (`2d8`) small gemstones (50 gp each).
+One Vistani thug carries a pouch that holds `dice: 2d8|avg|noform` (`2d8`) small gemstones (50 gp each).
 
 #### Wights
 
@@ -311,7 +311,7 @@ If the characters are moving quietly and not carrying light sources, they can tr
 
 ##### Treasure
 
-The wights carry longswords that have the crest of Barovia worked into their cross guards. Each wight also carries a pouch holding `dice: 2d20|avg` (`2d20`) ep, each coin of Barovian mintage and featuring the profiled visage of [[4. World Almanac/NPCs/Strahd Von Zarovich.md\|Strahd von Zarovich]].
+The wights carry longswords that have the crest of Barovia worked into their cross guards. Each wight also carries a pouch holding `dice: 2d20|avg|noform` (`2d20`) ep, each coin of Barovian mintage and featuring the profiled visage of [[4. World Almanac/NPCs/Strahd Von Zarovich.md\|Strahd von Zarovich]].
 
 ## Walls of Ravenloft
 
@@ -554,7 +554,7 @@ A sculpted stone railing cordons off the upstairs balcony, which is described in
 
 #### Treasure
 
-The statuette on the altar is an artifact called the [[5. Mechanics/Items/Icon Of Ravenloft.md\|Icon of Ravenloft]] (see appendix C). Any evil creature that touches the statuette must make a DC 17 Constitution saving throw, taking `dice: 16d10|avg` (`16d10`) radiant damage on a failed save, or half as much damage on a successful one. The statuette is safe for all creatures to handle once it is no longer in contact with the altar.
+The statuette on the altar is an artifact called the [[5. Mechanics/Items/Icon Of Ravenloft.md\|Icon of Ravenloft]] (see appendix C). Any evil creature that touches the statuette must make a DC 17 Constitution saving throw, taking `dice:16d10|text(88)` (`16d10`) radiant damage on a failed save, or half as much damage on a successful one. The statuette is safe for all creatures to handle once it is no longer in contact with the altar.
 
 Gustav's corpse wears a handsome, fur-lined black cloak embroidered with golden thread (worth 250 gp) and a suit of [[5. Mechanics/Items/Chain Mail.md\|chain mail]], both nonmagical. Gustav's black mace is a [[5. Mechanics/Items/Mace Of Terror.md\|mace of terror]].
 
@@ -618,7 +618,7 @@ Both staircases on the south wall climb to area K25. The massive stairs lead dow
 
 Both suits of armor are mechanical traps, each one activated by a pressure plate hidden in the floor in front of its alcove. A character who searches for traps in one of these locations notices both pressure plates with a successful DC 15 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check.
 
-When 40 or more pounds of weight are placed on a pressure plate, the suit of armor nearest to that plate springs forward, flailing its arms and wielding its mace. Any creature standing on a pressure plate when its trap triggers must succeed on a DC 14 Dexterity saving throw or take `dice: 2d6|avg` (`2d6`) bludgeoning damage from the flailing armor. After leaping out and attacking, the armor retracts. The pressure plate resets after 1 minute, after which its armor trap can be triggered again.
+When 40 or more pounds of weight are placed on a pressure plate, the suit of armor nearest to that plate springs forward, flailing its arms and wielding its mace. Any creature standing on a pressure plate when its trap triggers must succeed on a DC 14 Dexterity saving throw or take `dice:2d6|text(7)` (`2d6`) bludgeoning damage from the flailing armor. After leaping out and attacking, the armor retracts. The pressure plate resets after 1 minute, after which its armor trap can be triggered again.
 
 The suits of armor act much like metal puppets—a little joke intended to spook visitors more than damage them. A pressure plate can be disabled by a character who uses thieves' tools and makes a successful DC 15 Dexterity check. A trap can also be disabled by destroying its suit of armor, which has AC 18, 5 hit points, and immunity to psychic and poison damage.
 
@@ -658,7 +658,7 @@ The Heart of Sorrow is held aloft by the will of Strahd. Casting [[5. Mechanics/
 
 ##### Animated Halberds
 
-Mounted on the walls along the section of staircase nearest the heart are ten [[5. Mechanics/Bestiary/Construct/Animated Halberd.md\|animated halberds]]; use the stat block for the [[5. Mechanics/Bestiary/Construct/Flying Sword.md\|flying sword]] in the "Monster Manual", but increase each halberd's damage to `dice: 1d10 + 1|avg` (`1d10 + 1`) and reduce its AC to 15. The halberds attack any creature that threatens the Heart of Sorrow.
+Mounted on the walls along the section of staircase nearest the heart are ten [[5. Mechanics/Bestiary/Construct/Animated Halberd.md\|animated halberds]]; use the stat block for the [[5. Mechanics/Bestiary/Construct/Flying Sword.md\|flying sword]] in the "Monster Manual", but increase each halberd's damage to `dice: 1d10 + 1|avg|noform` (`1d10 + 1`) and reduce its AC to 15. The halberds attack any creature that threatens the Heart of Sorrow.
 
 ##### Vampire Spawn
 
@@ -811,16 +811,16 @@ The figure is [[4. World Almanac/NPCs/Lief Lipsiege.md\|Lief Lipsiege]] (CE male
 
 ![[6. Resources/5e Modules/Curse Of Strahd/img/029-cos04-07.webp#center\|Lief Lipsiege]]
 
-Pulling the rope requires an action. When the rope is pulled, a tremendously loud gong sounds. One or more creatures arrive `dice: 1d6|avg` (`1d6`) rounds later, attacking any characters still in the room. Determine the creatures randomly by rolling a `dice: d4|avg` (`d4`):
+Pulling the rope requires an action. When the rope is pulled, a tremendously loud gong sounds. One or more creatures arrive `dice: 1d6|avg|noform` (`1d6`) rounds later, attacking any characters still in the room. Determine the creatures randomly by rolling a `dice: d4|avg|noform` (`d4`):
 
 `dice: [[06 Chapter 4 Castle Ravenloft.md#^creature]]`
 
 | dice: d4 | Creature |
 |----------|----------|
-| 1 | `dice: 1d6\|avg` (`1d6`) [[5. Mechanics/Bestiary/Undead/Shadow.md\|shadows]] |
-| 2 | `dice: 1d4\|avg` (`1d4`) [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md\|vampire spawn]] |
-| 3 | `dice: 1d4\|avg` (`1d4`) [[5. Mechanics/Bestiary/Undead/Wight.md\|wights]] |
-| 4 | 1 [[5. Mechanics/Bestiary/Undead/Wraith.md\|wraith]] and `dice: 1d4 + 1\|avg` (`1d4 + 1`) [[5. Mechanics/Bestiary/Undead/Specter.md\|specters]] |
+| 1 | `dice: 1d6\|avg|noform` (`1d6`) [[5. Mechanics/Bestiary/Undead/Shadow.md\|shadows]] |
+| 2 | `dice: 1d4\|avg|noform` (`1d4`) [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md\|vampire spawn]] |
+| 3 | `dice: 1d4\|avg|noform` (`1d4`) [[5. Mechanics/Bestiary/Undead/Wight.md\|wights]] |
+| 4 | 1 [[5. Mechanics/Bestiary/Undead/Wraith.md\|wraith]] and `dice: 1d4 + 1\|avg|noform` (`1d4 + 1`) [[5. Mechanics/Bestiary/Undead/Specter.md\|specters]] |
 ^creature
 
 Lief was pressed into service by Strahd many years ago. He keeps all the books for Strahd, recording the vampire's riches and conquests. Lief has been here longer than he can remember. He is grumpy because Strahd doesn't allow him to know about all his treasures. Even so, Lief has found out where one of Strahd's secret treasures lies. If he is treated with kindness, Lief will divulge the hiding place of the [[5. Mechanics/Items/Holy Symbol Of Ravenkind.md\|Holy Symbol of Ravenkind]], as indicated by your card reading. Lief can draw a crude map showing a route to that location. His map is geographically accurate, but he admits that it doesn't acknowledge or avoid any dangers that might lie along the way. Lief doesn't necessarily know the most direct path to the symbol's location.
@@ -989,7 +989,7 @@ This chamber has several exits, including a large set of double doors in the wes
 
 The painting above the fireplace depicts Tatyana, a beautiful young woman with auburn hair. Strahd commissioned the painting over four centuries ago to impress his beloved. The fact that [[4. World Almanac/NPCs/Ireena Kolyana.md\|Ireena Kolyana]] looks exactly like Tatyana is proof to Strahd that both women were born with the same soul.
 
-The back wall of the fireplace contains a secret door, which is opened by lifting the poker from its stand. The fire must be extinguished in order for anyone to reach the secret door safely. Otherwise, a creature that enters the fireplace for the first time on a turn or starts its turn there takes `dice: 1d10|avg` (`1d10`) fire damage and catches fire. Until someone takes an action to douse the flames on the creature, it takes `dice: 1d10|avg` (`1d10`) fire damage at the start of each of its turns. (This fire damage is cumulative with the damage from standing in the fireplace.)
+The back wall of the fireplace contains a secret door, which is opened by lifting the poker from its stand. The fire must be extinguished in order for anyone to reach the secret door safely. Otherwise, a creature that enters the fireplace for the first time on a turn or starts its turn there takes `dice:1d10|text(5)` (`1d10`) fire damage and catches fire. Until someone takes an action to douse the flames on the creature, it takes `dice:1d10|text(5)` (`1d10`) fire damage at the start of each of its turns. (This fire damage is cumulative with the damage from standing in the fireplace.)
 
 The secret door provides access to area K38.
 
@@ -997,7 +997,7 @@ The secret door provides access to area K38.
 
 The real treasure here is Strahd's collection of books—over one thousand unique tomes in all. The collection is worth 80,000 gp. Transporting it would be a challenge.
 
-Roll a `dice: d12|avg` (`d12`) and consult the following table to determine the subject matter of a randomly chosen book.
+Roll a `dice: d12|avg|noform` (`d12`) and consult the following table to determine the subject matter of a randomly chosen book.
 
 ![[6. Resources/5e Modules/Curse Of Strahd/img/031-cos04-09.webp#center\|Tatyana]]
 
@@ -1249,7 +1249,7 @@ On the third finger of his left hand, [[4. World Almanac/NPCs/Escher.md\|Escher]
 > A large bed sits in the center of this room, its four corner posts supporting a black canopy trimmed with gold tassels. Several comfortable divans are placed about the room. There is a banded door in the west wall and a smaller unbanded door in the east wall.
 ^22d
 
-There is no danger in this area during the day. But if the characters try to take a short rest here during the night, the rest is interrupted by the arrival of `dice: 1d4|avg` (`1d4`) [[5. Mechanics/Bestiary/Humanoid/Barovian Witch.md\|Barovian witches]] from area K56. They try to subdue the party with [[5. Mechanics/Spells/Sleep.md\|sleep]] spells. A witch retreats to area K56 if wounded.
+There is no danger in this area during the day. But if the characters try to take a short rest here during the night, the rest is interrupted by the arrival of `dice: 1d4|avg|noform` (`1d4`) [[5. Mechanics/Bestiary/Humanoid/Barovian Witch.md\|Barovian witches]] from area K56. They try to subdue the party with [[5. Mechanics/Spells/Sleep.md\|sleep]] spells. A witch retreats to area K56 if wounded.
 
 ### K51. Closet
 
@@ -1269,7 +1269,7 @@ The trapdoor can be found after a search of the room and a successful DC 13 Wisd
 > Jutting from the steeply sloping rooftop of the castle, a spindly smokestack, five feet in diameter at the top, rises thirty feet above the roof's peak. Smoke belches from its iron-pronged capstone.
 ^231
 
-The chimney leads down 60 feet to the blazing fireplace in area K37. A creature that starts its turn in the chimney takes `dice: 1d6|avg` (`1d6`) fire damage.
+The chimney leads down 60 feet to the blazing fireplace in area K37. A creature that starts its turn in the chimney takes `dice:1d6|text(3)` (`1d6`) fire damage.
 
 ### K53. Rooftop
 
@@ -1343,7 +1343,7 @@ Captured witches will trade information in exchange for their lives and freedom,
 
 Each witch carries a [[5. Mechanics/Items/Potion Of Healing.md\|potion of healing]] that she made herself. There is a 30% chance chance that a potion has "gone bad," in which case it's actually a [[5. Mechanics/Items/Potion Of Poison.md\|potion of poison]].
 
-Not visible from the entrance is a small table behind the cauldron on which sits an opened spellbook, seemingly on the verge of falling apart. The book is evil. Any non-evil creature that touches it or starts its turn with the book in its possession takes `dice: 1d10|avg` (`1d10`) psychic damage. The book contains the following spells:
+Not visible from the entrance is a small table behind the cauldron on which sits an opened spellbook, seemingly on the verge of falling apart. The book is evil. Any non-evil creature that touches it or starts its turn with the book in its possession takes `dice:1d10|text(5)` (`1d10`) psychic damage. The book contains the following spells:
 
 > [!note] 
 > 
@@ -1403,7 +1403,7 @@ If the characters see [[4. World Almanac/NPCs/Pidlwick Ii.md\|Pidlwick II]] in b
 
 If the characters show kindness to the clockwork effigy, it accompanies them and tries its best to be helpful and entertaining. It knows its way around the castle and can serve as a silent guide.
 
-If one or more characters are mean toward [[4. World Almanac/NPCs/Pidlwick Ii.md\|Pidlwick II]], its quiet resentment of them grows, and at some point when the group is at the top of a staircase, it pushes one of the offending party members down the stairs. The target must succeed on a DC 10 Dexterity saving throw or tumble to the bottom of the staircase, taking `dice: 1d6|avg` (`1d6`) bludgeoning damage per 10 feet fallen.
+If one or more characters are mean toward [[4. World Almanac/NPCs/Pidlwick Ii.md\|Pidlwick II]], its quiet resentment of them grows, and at some point when the group is at the top of a staircase, it pushes one of the offending party members down the stairs. The target must succeed on a DC 10 Dexterity saving throw or tumble to the bottom of the staircase, taking `dice: 1d6|avg|noform` (`1d6`) bludgeoning damage per 10 feet fallen.
 
 ### K60. North Tower Peak
 
@@ -1482,7 +1482,7 @@ All creatures trapped inside the elevator (including [[/5. Mechanics/Rules/Condi
 
 A character who uses an action to search the ceiling of the elevator finds a secret trapdoor with a successful DC 10 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check. The trapdoor opens downward.
 
-Any creature on top of the elevator when it reaches the top of the shaft must make a successful DC 15 Dexterity saving throw to avoid being crushed against the ceiling of the shaft. The character takes `dice: 8d10|avg` (`8d10`) bludgeoning damage on a failed save, or half as much damage on a successful one. When the elevator comes to a stop, its portcullises retract.
+Any creature on top of the elevator when it reaches the top of the shaft must make a successful DC 15 Dexterity saving throw to avoid being crushed against the ceiling of the shaft. The character takes `dice:8d10|text(44)` (`8d10`) bludgeoning damage on a failed save, or half as much damage on a successful one. When the elevator comes to a stop, its portcullises retract.
 
 The elevator remains at the top of the shaft until the lever in area K31 is moved to the "down" position. When that happens, the trap resets in 1 round: the portcullises come down, and the elevator compartment descends to its place in the hallway at the bottom of the shaft as the stone block rises to the top of the shaft. When the elevator reaches the bottom, its portcullises rise again.
 
@@ -2025,7 +2025,7 @@ Each crypt houses the remains of the person or persons whose epitaph is inscribe
 
 Unless noted otherwise, each crypt contains a 3-foot-by-6-foot rectangular bier of marble, 3 feet high, with a skeleton draped in rags lying atop it.
 
-The catacombs are home to tens of thousands of bats. The bats hang here during daytime hours and fly out in the evening through the high tower's central shaft (area K18a) to hunt at night. They will not attack intruders unless they are provoked or are specifically commanded to do so by Strahd. If one or more bats within a 10-foot square on the map are attacked or caught in the area of a harmful spell, `dice: 2d4|avg` (`2d4`) [[5. Mechanics/Bestiary/Beast/Swarm Of Bats.md\|swarms of bats]] form in that area and attack. No more swarms can be formed in that square until the next dawn, when more bats arrive to replenish those that were killed.
+The catacombs are home to tens of thousands of bats. The bats hang here during daytime hours and fly out in the evening through the high tower's central shaft (area K18a) to hunt at night. They will not attack intruders unless they are provoked or are specifically commanded to do so by Strahd. If one or more bats within a 10-foot square on the map are attacked or caught in the area of a harmful spell, `dice: 2d4|avg|noform` (`2d4`) [[5. Mechanics/Bestiary/Beast/Swarm Of Bats.md\|swarms of bats]] form in that area and attack. No more swarms can be formed in that square until the next dawn, when more bats arrive to replenish those that were killed.
 
 #### Teleport Traps
 
@@ -2206,7 +2206,7 @@ The helm has three evenly spaced visors crafted to look like human faces—one s
 
 The slab upon which the helm rests is weight-sensitive. If the helm is removed from the slab without 10 pounds of weight immediately being added, poisonous gas pours out of the slab's hollow interior and fills the crypt. A character who searches the slab for traps and succeeds on a DC 12 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check spots tiny holes bored into the slab's marble base. It's from these holes that the gas spews forth.
 
-A creature in the crypt when the gas is released must make a DC 14 Constitution saving throw, taking `dice: 4d10|avg` (`4d10`) poison damage on a failed save, or half as much damage on a successful one.
+A creature in the crypt when the gas is released must make a DC 14 Constitution saving throw, taking `dice:4d10|text(22)` (`4d10`) poison damage on a failed save, or half as much damage on a successful one.
 
 #### Crypt 13
 
@@ -2260,7 +2260,7 @@ This vault contains fifteen [[5. Mechanics/Bestiary/Undead/Wight.md\|wights]] (o
 
 Each wight remains inactive until it is teleported away or until its coffin is opened, whereupon it attacks.
 
-The bones and rusty swords cover the floor to a depth of 6 inches, and are the remains of servants who swore to avenge Stahbal Indi-Bhak's family. Whenever a wight is killed in this vault, some of the bones knit together, forming `dice: 2d6|avg` (`2d6`) animated human [[5. Mechanics/Bestiary/Undead/Skeleton.md\|skeletons]]. These skeletons attack intruders on sight but have no ranged attacks. There are enough bones and swords in the room for one hundred skeletons to form in this manner.
+The bones and rusty swords cover the floor to a depth of 6 inches, and are the remains of servants who swore to avenge Stahbal Indi-Bhak's family. Whenever a wight is killed in this vault, some of the bones knit together, forming `dice: 2d6|avg|noform` (`2d6`) animated human [[5. Mechanics/Bestiary/Undead/Skeleton.md\|skeletons]]. These skeletons attack intruders on sight but have no ranged attacks. There are enough bones and swords in the room for one hundred skeletons to form in this manner.
 
 #### Crypt 15
 
@@ -2277,7 +2277,7 @@ Khazan was a powerful archmage who unlocked the secrets of lichdom, then later t
 
 The skull's [[5. Mechanics/Items/Black Opal.md\|black opal eye-gems]] are worth 1,000 gp apiece. The skull also has eight amber teeth worth 100 gp each.
 
-Any creature that stands inside the crypt and boldly speaks the name "Khazan" causes the Pillarstone of Ravenloft to tremble as a [[5. Mechanics/Items/Staff Of Power.md\|staff of power]] materializes above the marble slab and hovers in place. The first creature to grab hold of the staff must make a DC 17 Constitution saving throw, taking `dice: 8d10|avg` (`8d10`) lightning damage on a failed save, or half as much damage on a successful one. Afterward, the [[5. Mechanics/Items/Staff Of Power.md\|staff of power]] can be held and used normally. If no one grabs the staff within 1 round of its appearance, it vanishes, never to return.
+Any creature that stands inside the crypt and boldly speaks the name "Khazan" causes the Pillarstone of Ravenloft to tremble as a [[5. Mechanics/Items/Staff Of Power.md\|staff of power]] materializes above the marble slab and hovers in place. The first creature to grab hold of the staff must make a DC 17 Constitution saving throw, taking `dice:8d10|text(44)` (`8d10`) lightning damage on a failed save, or half as much damage on a successful one. Afterward, the [[5. Mechanics/Items/Staff Of Power.md\|staff of power]] can be held and used normally. If no one grabs the staff within 1 round of its appearance, it vanishes, never to return.
 
 #### Crypt 16
 
@@ -2435,7 +2435,7 @@ Three [[5. Mechanics/Bestiary/Beast/Giant Wolf Spider.md\|giant wolf spiders]] i
 > A skeleton draped in white linen lies atop a marble slab in the center of the crypt, clutching a bell to its sunken chest. Fitted over its skull is a tall chef's hat.
 ^2f3
 
-If the bell is rung inside the crypt, magic fire sweeps through the crypt to scorch Chef Ofenheiss's bones. A creature in the crypt must make a DC 17 Dexterity saving throw, taking `dice: 4d10|avg` (`4d10`) fire damage on a failed save, or half damage on a successful one. Any creature that fails its save catches fire, taking `dice: 1d10|avg` (`1d10`) fire damage at the end of each of its turns until it or another creature uses an action to douse the flames.
+If the bell is rung inside the crypt, magic fire sweeps through the crypt to scorch Chef Ofenheiss's bones. A creature in the crypt must make a DC 17 Dexterity saving throw, taking `dice:4d10|text(22)` (`4d10`) fire damage on a failed save, or half damage on a successful one. Any creature that fails its save catches fire, taking `dice:1d10|text(5)` (`1d10`) fire damage at the end of each of its turns until it or another creature uses an action to douse the flames.
 
 ##### Treasure
 
@@ -2471,7 +2471,7 @@ The carved ravens are ominous yet harmless.
 
 ##### Treasure
 
-The prefect's gold holy symbol is festooned with tiny gemstones and is worth 750 gp. If touched by an evil creature, the holy symbol is consumed in a blast of intense light that deals `dice: 2d10|avg` (`2d10`) radiant damage to all creatures within 5 feet of it. Characters familiar with Barovian religion recognize the symbol as that of the Morninglord.
+The prefect's gold holy symbol is festooned with tiny gemstones and is worth 750 gp. If touched by an evil creature, the holy symbol is consumed in a blast of intense light that deals `dice:2d10|text(11)` (`2d10`) radiant damage to all creatures within 5 feet of it. Characters familiar with Barovian religion recognize the symbol as that of the Morninglord.
 
 #### Crypt 31
 
@@ -2572,7 +2572,7 @@ This crypt contains nothing of interest.
 
 The staff is a nonmagical quarterstaff.
 
-Inspection of the marble slab reveals a shallow, concave recess at one end. If the marble-knobbed end of Gralmore's staff is placed in the recess, the slab levitates 5 feet upward, revealing a compartment underneath (see "Treasure" below). The slab slowly sinks back into place after 1 minute. If the brass-knobbed end of the staff is placed in the recess, the holder of the staff takes `dice: 4d10|avg` (`4d10`) lightning damage.
+Inspection of the marble slab reveals a shallow, concave recess at one end. If the marble-knobbed end of Gralmore's staff is placed in the recess, the slab levitates 5 feet upward, revealing a compartment underneath (see "Treasure" below). The slab slowly sinks back into place after 1 minute. If the brass-knobbed end of the staff is placed in the recess, the holder of the staff takes `dice:4d10|text(22)` (`4d10`) lightning damage.
 
 ##### Treasure
 

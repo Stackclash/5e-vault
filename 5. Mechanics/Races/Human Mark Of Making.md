@@ -31,7 +31,7 @@ You can speak, read, and write Common and one extra language of your choice. Hum
 
 ### Artisan's Intuition
 
-When you make an [[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]] check or an ability check involving artisan's tools, you can roll a `dice: d4|avg` (`d4`) and add the number rolled to the ability check.
+When you make an [[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]] check or an ability check involving artisan's tools, you can roll a `dice: d4|avg|noform` (`d4`) and add the number rolled to the ability check.
 
 ### Maker's Gift
 

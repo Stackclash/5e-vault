@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Spring Eladrin
 ---
-# [[5. Mechanics\Bestiary\Fey\Spring Eladrin.md|Spring Eladrin]]
+# [[5. Mechanics/Bestiary/Fey/Spring Eladrin.md|Spring Eladrin]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 116, Mordenkainen's Tome of Foes p. 196*
 
 Their hearts filled with joy, spring eladrin cavort through their sylvan realms, their songs and laughter filling the air. These playful eladrin beguile other creatures to fill them with the joy of spring. Their antics can lead other creatures into danger and make mischief for them.
@@ -42,6 +42,7 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
 "subtype": "elf"
 "alignment": "Typically  Chaotic Neutral"
 "ac": !!int "19"
+"ac_class": "natural armor"
 "hp": !!int "165"
 "hit_dice": "22d8 + 66"
 "stats":
@@ -80,13 +81,13 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
 - "desc": "The eladrin makes two Longsword or Longbow attacks. It can replace one\
     \ attack with a use of Spellcasting."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 2|avg (1d8 + 2) slashing damage, or dice: 1d10 + 2|avg\
-    \ (1d10 + 2) slashing damage if used with two hands, plus dice: 5d8|avg (5d8)\
-    \ psychic damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 2|text(6) (1d8 + 2) slashing damage, or dice:1d10 + 2|text(7)\
+    \ (1d10 + 2) slashing damage if used with two hands, plus dice:5d8|text(22)\
+    \ (5d8) psychic damage."
   "name": "Longsword"
-- "desc": "Ranged Weapon Attack: dice: d20+7 (+7 to hit), range 150/600 ft., one\
-    \ target. Hit: dice: 1d8 + 3|avg (1d8 + 3) piercing damage plus dice: 5d8|avg\
+- "desc": "Ranged Weapon Attack: dice: d20+7 (+7) to hit, range 150/600 ft.,\
+    \ one target. Hit: dice:1d8 + 3|text(7) (1d8 + 3) piercing damage plus dice:5d8|text(22)\
     \ (5d8) psychic damage."
   "name": "Longbow"
 "bonus_actions":

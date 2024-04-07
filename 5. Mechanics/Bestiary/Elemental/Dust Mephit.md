@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Dust Mephit
 ---
-# [[5. Mechanics\Bestiary\Elemental\Dust Mephit.md|Dust Mephit]]
+# [[5. Mechanics/Bestiary/Elemental/Dust Mephit.md|Dust Mephit]]
 *Source: Monster Manual p. 215. Available in the SRD.*
 
 ## Mephits
@@ -65,8 +65,8 @@ Composed of earth and air, dust mephits are drawn to catacombs and find death mo
     \ on a success."
   "name": "Death Burst"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one creature.\
+    \ Hit: dice:1d4 + 2|text(4) (1d4 + 2) slashing damage."
   "name": "Claws"
 - "desc": "The mephit exhales a 15-foot cone of blinding dust. Each creature in that\
     \ area must succeed on a DC 10 Dexterity saving throw or be [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]\

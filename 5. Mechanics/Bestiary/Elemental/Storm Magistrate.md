@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Storm Magistrate
 ---
-# [[5. Mechanics\Bestiary\Elemental\Storm Magistrate.md|Storm Magistrate]]
+# [[5. Mechanics/Bestiary/Elemental/Storm Magistrate.md|Storm Magistrate]]
 *Source: Strongholds and Followers p. 191*
 
 The Magistrates of the Burning City are the priests and judges of the Lady of Fire. The motes, sources, and knights are diagnosticians. They identify and evaluate the problem. The Lords of Storm cure it.
@@ -33,6 +33,7 @@ The Magistrate's deadliest weapon is Storm Strike, which combines chain lightnin
 "type": "elemental"
 "alignment": "Neutral"
 "ac": !!int "16"
+"ac_class": "natural armor"
 "hp": !!int "157"
 "hit_dice": "15d10 + 75"
 "stats":
@@ -57,7 +58,7 @@ The Magistrate's deadliest weapon is Storm Strike, which combines chain lightnin
 "cr": "9"
 "traits":
 - "desc": "The magistrate is a 13th-level spellcaster. Its spellcasting ability is\
-    \ Wisdom (spell save DC 17, dice: d20+9 (+9 to hit) with spell attacks). It\
+    \ Wisdom (spell save DC 17, dice: d20+9 (+9) to hit with spell attacks). It\
     \ can innately cast the following spells, requiring no components:\n\nAt will:\
     \ [[5. Mechanics/Spells/Enhance Ability.md|enhance ability]]"
   "name": "innate"
@@ -81,16 +82,16 @@ The Magistrate's deadliest weapon is Storm Strike, which combines chain lightnin
 "actions":
 - "desc": "The Magistrate makes two attacks with its morningstar."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d8 + 3|avg (2d8 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 10 ft., one target.\
+    \ Hit: dice:2d8 + 3|text(12) (2d8 + 3) piercing damage."
   "name": "Morningstar"
 - "desc": "Lightning arcs from the magistrate toward up to three targets it can see\
     \ within 120 feet. Three bolts then leap from those targets to as many as three\
     \ other targets, each of which must be within 10 feet of the first target. A creature\
     \ can be targeted by only one bolt.\n\nA target must make a DC 17 Dexterity saving\
-    \ throw. A creature takes dice: 4d6|avg (4d6) lightning damage and dice:\
-    \ 4d6|avg (4d6) radiant damage on a failed save, or half as much damage on\
-    \ a successful one."
+    \ throw. A creature takes dice:4d6|text(14) (4d6) lightning damage and dice:4d6|text(14)\
+    \ (4d6) radiant damage on a failed save, or half as much damage on a successful\
+    \ one."
   "name": "Storm Strike (Recharge 6-6)"
 "source":
 - "SaF"

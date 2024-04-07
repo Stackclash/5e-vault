@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Valenar Hawk
 ---
-# [[5. Mechanics\Bestiary\Fey\Valenar Hawk.md|Valenar Hawk]]
+# [[5. Mechanics/Bestiary/Fey/Valenar Hawk.md|Valenar Hawk]]
 *Source: Eberron: Rising from the Last War p. 312*
 
 The elves of Valenar say that when their ancestors fought the giants of Xen'drik, elf druids took the forms of animals on the battlefield. The cruel and mighty Emperor Cul'sir of the giants laid a curse upon the druids and trapped them in the forms of animals. Just as the ancestors of the Valenar guide their warriors in battle, the spirits of these druids can awaken power in an animal to create a companion worthy of a champion.
@@ -71,8 +71,8 @@ Each Valenar animal can be customized with an ancestral gift, a supernatural tra
     \ checks that rely on sight."
   "name": "Keen Sight"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 4|avg (1d4 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d4 + 4|text(6) (1d4 + 4) slashing damage."
   "name": "Talons"
 "source":
 - "ERLW"

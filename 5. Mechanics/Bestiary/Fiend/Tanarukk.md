@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Tanarukk
 ---
-# [[5. Mechanics\Bestiary\Fiend\Tanarukk.md|Tanarukk]]
+# [[5. Mechanics/Bestiary/Fiend/Tanarukk.md|Tanarukk]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 240, Volo's Guide to Monsters p. 186*
 
 > [!quote]- A quote from Tasha  
@@ -33,6 +33,7 @@ Although tanarukks are valued as fearsome fighters, they are a threat to their a
 "subtype": "demon"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "14"
+"ac_class": "natural armor"
 "hp": !!int "95"
 "hit_dice": "10d8 + 50"
 "stats":
@@ -57,11 +58,11 @@ Although tanarukks are valued as fearsome fighters, they are a threat to their a
 "actions":
 - "desc": "The tanarukk makes one Bite attack and one Greatsword attack."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 4|text(8) (1d8 + 4) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) slashing damage."
   "name": "Greatsword"
 "bonus_actions":
 - "desc": "The tanarukk moves up to its speed toward an enemy that it can see."

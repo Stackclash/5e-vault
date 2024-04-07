@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Air Elemental
 ---
-# [[5. Mechanics\Bestiary\Elemental\Air Elemental.md|Air Elemental]]
+# [[5. Mechanics/Bestiary/Elemental/Air Elemental.md|Air Elemental]]
 *Source: Monster Manual p. 124, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*
 
 An air elemental is a funneling cloud of whirling air with a vague semblance of a face. Although it likes to race across the ground, picking up dust and debris as it goes, it can also fly and attack from above.
@@ -73,14 +73,14 @@ An elemental doesn't require air, food, drink, or sleep.
 "actions":
 - "desc": "The elemental makes two slam attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 5|avg (2d8 + 5) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d8 + 5|text(14) (2d8 + 5) bludgeoning damage."
   "name": "Slam"
 - "desc": "Each creature in the elemental's space must make a DC 13 Strength saving\
-    \ throw. On a failure, a target takes dice: 3d8 + 2|avg (3d8 + 2) bludgeoning\
+    \ throw. On a failure, a target takes dice:3d8 + 2|text(15) (3d8 + 2) bludgeoning\
     \ damage and is flung up 20 feet away from the elemental in a random direction\
     \ and knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]. If a thrown target\
-    \ strikes an object, such as a wall or floor, the target takes dice: 1d6|avg\
+    \ strikes an object, such as a wall or floor, the target takes dice:1d6|text(3)\
     \ (1d6) bludgeoning damage for every 10 feet it was thrown. If the target is\
     \ thrown at another creature, that creature must succeed on a DC 13 Dexterity\
     \ saving throw or take the same damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\n\

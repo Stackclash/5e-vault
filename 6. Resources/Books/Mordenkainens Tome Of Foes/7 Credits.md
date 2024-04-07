@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/mtf
-aliases: ["Credits"]
+  - compendium/src/5e/mtf
+aliases:
+  - Credits
 ---
 # Credits
 *Source: Mordenkainen's Tome of Foes* 

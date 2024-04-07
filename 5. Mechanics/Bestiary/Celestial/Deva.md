@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Deva
 ---
-# [[5. Mechanics\Bestiary\Celestial\Deva.md|Deva]]
+# [[5. Mechanics/Bestiary/Celestial/Deva.md|Deva]]
 *Source: Monster Manual p. 16, Curse of Strahd. Available in the SRD.*
 
 An angel is a celestial agent sent forth into the planes to further its god's agenda for weal or woe. Its sublime beauty and presence can drive awestruck onlookers to their knees. Yet angels are destroyers too, and their appearance portends doom as often as it signals hope.
@@ -43,6 +43,7 @@ Legend tells of angels that take mortal form for years, lending aid, hope, and c
 "type": "celestial"
 "alignment": "Lawful Good"
 "ac": !!int "17"
+"ac_class": "natural armor"
 "hp": !!int "136"
 "hit_dice": "16d8 + 64"
 "stats":
@@ -72,8 +73,8 @@ Legend tells of angels that take mortal form for years, lending aid, hope, and c
     \n1/day each: [[5. Mechanics/Spells/Commune.md|commune]], [[5. Mechanics/Spells/Raise Dead.md|raise dead]]"
   "name": "innate"
 - "desc": "The deva's weapon attacks are magical. When the deva hits with any weapon,\
-    \ the weapon deals an extra dice: 4d8|avg (4d8) radiant damage (included in\
-    \ the attack)."
+    \ the weapon deals an extra dice: 4d8|avg|noform (4d8) radiant damage (included\
+    \ in the attack)."
   "name": "Angelic Weapons"
 - "desc": "The deva has advantage on saving throws against spells and other magical\
     \ effects."
@@ -81,12 +82,12 @@ Legend tells of angels that take mortal form for years, lending aid, hope, and c
 "actions":
 - "desc": "The deva makes two melee attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 4|avg (1d6 + 4) bludgeoning damage plus dice: 4d8|avg\
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 4|text(7) (1d6 + 4) bludgeoning damage plus dice:4d8|text(18)\
     \ (4d8) radiant damage."
   "name": "Mace"
-- "desc": "The deva touches another creature. The target magically regains dice:\
-    \ 4d8 + 2|avg (4d8 + 2) hit points and is freed from any curse, disease, poison,\
+- "desc": "The deva touches another creature. The target magically regains dice:4d8\
+    \ + 2|text(20) (4d8 + 2) hit points and is freed from any curse, disease, poison,\
     \ blindness, or deafness."
   "name": "Healing Touch (3/Day)"
 - "desc": "The deva magically polymorphs into a humanoid or beast that has a challenge\

@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Healer
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Healer.md|Healer]]
+# [[5. Mechanics/Bestiary/Humanoid/Healer.md|Healer]]
 *Source: Strongholds and Followers p. 73*
 
 ```statblock
@@ -20,6 +20,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "18"
+"ac_class": "Heavy"
 "stats":
 - !!int "14"
 - !!int "14"
@@ -46,13 +47,13 @@ aliases:
   "name": "Retainer"
 "actions":
 - "desc": "As an action, choose an ally the healer can see within 30 feet. On their\
-    \ next attack or saving throw roll, roll a dice: d4|avg (d4) and add the result\
-    \ to the ally's result. > [!note]\n> Not, strictly speaking, an attack but it\
-    \ otherwise obeys all the rules of a signature attack.\n\nAt 7th level, retainers\
-    \ can take two signature attacks per round."
+    \ next attack or saving throw roll, roll a dice: d4|avg|noform (d4) and add\
+    \ the result to the ally's result. > [!note]\n> Not, strictly speaking, an attack\
+    \ but it otherwise obeys all the rules of a signature attack.\n\nAt 7th level,\
+    \ retainers can take two signature attacks per round."
   "name": "Orison"
 - "desc": "Prerequisite: 3rd-level retainer\n\nAn ally the healer can see within\
-    \ 30 feet regains dice: 1d8 + 3|avg (1d8 + 3) hit points."
+    \ 30 feet regains dice:1d8 + 3|text(7) (1d8 + 3) hit points."
   "name": "Minor Heal (5/Day)"
 - "desc": "Prerequisite: 5th-level retainer\n\nThe Healer casts the [[5. Mechanics/Spells/Revivify.md|revivify]]\
     \ spell."

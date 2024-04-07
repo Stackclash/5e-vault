@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Balor
 ---
-# [[5. Mechanics\Bestiary\Fiend\Balor.md|Balor]]
+# [[5. Mechanics/Bestiary/Fiend/Balor.md|Balor]]
 *Source: Monster Manual p. 55, Tasha's Cauldron of Everything. Available in the SRD.*
 
 Figures of ancient and terrible evil, balors rule as generals over demonic armies, yearning to seize power while destroying any creatures that oppose them.
@@ -166,14 +166,14 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 > 
 > Some demons can have an action option that allows them to summon other demons. Summon Demon (1/Day). The demon chooses what to summon and attempts a magical summoning.
 > 
-> - A balor has a 50% chance chance of summoning `dice: 1d8|avg` (`1d8`) vrocks, `dice: 1d6|avg` (`1d6`) hezrous, `dice: 1d4|avg` (`1d4`) glabrezus, `dice: 1d3|avg` (`1d3`) nalfeshnees, `dice: 1d2|avg` (`1d2`) mariliths, or one goristro.  
+> - A balor has a 50% chance chance of summoning `dice: 1d8|avg|noform` (`1d8`) vrocks, `dice: 1d6|avg|noform` (`1d6`) hezrous, `dice: 1d4|avg|noform` (`1d4`) glabrezus, `dice: 1d3|avg|noform` (`1d3`) nalfeshnees, `dice: 1d2|avg|noform` (`1d2`) mariliths, or one goristro.  
 > - A barlgura has a 30% chance chance of summoning one barlgura.  
 > - A chasme has a 30% chance chance of summoning one chasme.  
-> - A glabrezu has a 30% chance chance of summoning `dice: 1d3|avg` (`1d3`) vrocks, `dice: 1d2|avg` (`1d2`) hezrous, or one glabrezu.  
-> - A hezrou has a 30% chance chance of summoning `dice: 2d6|avg` (`2d6`) dretches or one hezrou.  
-> - A marilith has a 50% chance chance of summoning `dice: 1d6|avg` (`1d6`) vrocks, `dice: 1d4|avg` (`1d4`) hezrous, `dice: 1d3|avg` (`1d3`) glabrezus, `dice: 1d2|avg` (`1d2`) nalfeshnees, or one marilith.  
-> - A nalfeshnee has a 50% chance chance of summoning `dice: 1d4|avg` (`1d4`) vrocks, `dice: 1d3|avg` (`1d3`) hezrous, `dice: 1d2|avg` (`1d2`) glabrezus, or one nalfeshnee.  
-> - A vrock has a 30% chance chance of summoning `dice: 2d4|avg` (`2d4`) dretches or one vrock.  
+> - A glabrezu has a 30% chance chance of summoning `dice: 1d3|avg|noform` (`1d3`) vrocks, `dice: 1d2|avg|noform` (`1d2`) hezrous, or one glabrezu.  
+> - A hezrou has a 30% chance chance of summoning `dice: 2d6|avg|noform` (`2d6`) dretches or one hezrou.  
+> - A marilith has a 50% chance chance of summoning `dice: 1d6|avg|noform` (`1d6`) vrocks, `dice: 1d4|avg|noform` (`1d4`) hezrous, `dice: 1d3|avg|noform` (`1d3`) glabrezus, `dice: 1d2|avg|noform` (`1d2`) nalfeshnees, or one marilith.  
+> - A nalfeshnee has a 50% chance chance of summoning `dice: 1d4|avg|noform` (`1d4`) vrocks, `dice: 1d3|avg|noform` (`1d3`) hezrous, `dice: 1d2|avg|noform` (`1d2`) glabrezus, or one nalfeshnee.  
+> - A vrock has a 30% chance chance of summoning `dice: 2d4|avg|noform` (`2d4`) dretches or one vrock.  
 > - A yochlol has a 50% chance chance of summoning one yochlol.  
 > 
 > A summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
@@ -191,6 +191,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "subtype": "demon"
 "alignment": "Chaotic Evil"
 "ac": !!int "19"
+"ac_class": "natural armor"
 "hp": !!int "262"
 "hit_dice": "21d12 + 126"
 "stats":
@@ -215,15 +216,15 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "cr": "19"
 "traits":
 - "desc": "When the balor dies, it explodes, and each creature within 30 feet of it\
-    \ must make a DC 20 Dexterity saving throw, taking dice: 20d6|avg (20d6) fire\
-    \ damage on a failed save, or half as much damage on a successful one. The explosion\
-    \ ignites flammable objects in that area that aren't being worn or carried, and\
-    \ it destroys the balor's weapons."
+    \ must make a DC 20 Dexterity saving throw, taking dice:20d6|text(70) (20d6)\
+    \ fire damage on a failed save, or half as much damage on a successful one. The\
+    \ explosion ignites flammable objects in that area that aren't being worn or carried,\
+    \ and it destroys the balor's weapons."
   "name": "Death Throes"
 - "desc": "At the start of each of the balor's turns, each creature within 5 feet\
-    \ of it takes dice: 3d6|avg (3d6) fire damage, and flammable objects in the\
-    \ aura that aren't being worn or carried ignite. A creature that touches the balor\
-    \ or hits it with a melee attack while within 5 feet of it takes dice: 3d6|avg\
+    \ of it takes dice:3d6|text(10) (3d6) fire damage, and flammable objects in\
+    \ the aura that aren't being worn or carried ignite. A creature that touches the\
+    \ balor or hits it with a melee attack while within 5 feet of it takes dice:3d6|text(10)\
     \ (3d6) fire damage."
   "name": "Fire Aura"
 - "desc": "The balor has advantage on saving throws against spells and other magical\
@@ -234,13 +235,13 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "actions":
 - "desc": "The balor makes two attacks: one with its longsword and one with its whip."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+14 (+14 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 3d8 + 8|avg (3d8 + 8) slashing damage plus dice: 3d8|avg\
+- "desc": "Melee Weapon Attack: dice: d20+14 (+14) to hit, reach 10 ft., one\
+    \ target. Hit: dice:3d8 + 8|text(21) (3d8 + 8) slashing damage plus dice:3d8|text(13)\
     \ (3d8) lightning damage. If the balor scores a critical hit, it rolls damage\
     \ dice three times, instead of twice."
   "name": "Longsword"
-- "desc": "Melee Weapon Attack: dice: d20+14 (+14 to hit), reach 30 ft., one target.\
-    \ Hit: dice: 2d6 + 8|avg (2d6 + 8) slashing damage plus dice: 3d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+14 (+14) to hit, reach 30 ft., one\
+    \ target. Hit: dice:2d6 + 8|text(15) (2d6 + 8) slashing damage plus dice:3d6|text(10)\
     \ (3d6) fire damage, and the target must succeed on a DC 20 Strength saving\
     \ throw or be pulled up to 25 feet toward the balor."
   "name": "Whip"

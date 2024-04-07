@@ -31,7 +31,7 @@ This system, therefore, is opt-in. You can award your players units, they can hi
 
 This system deploys a lot of jargon that evokes the feel of real strategy and tactics—"heavy infantry," "flanking," "morale"—and those terms all have real mechanical meaning. But we don't track position at all. The Order of Battle (page 239) describes which units that a unit can legally attack, but **the physical positions of your units are entirely abstract**. The armies clash outside the castle walls, or over the nearby hill, or along the road leading to the town, but we don't worry about where the units are standing, or how far away they are from each other, or which unit is next to which. We presume the armies know how to do their job and are doing their best to maintain position and carry out orders.
 
-Likewise, **we do not track individual soldiers** nor do we worry overmuch about exactly how big a unit is. The typical Medium Infantry unit is assumed to be 100 soldiers, give or take. A group of 12 knights could be a unit unto themselves, and they would have very good stats indeed, but a very small casualty die (probably a `dice: d4|avg` (`d4`), see "The Casualty Die" on page 242).
+Likewise, **we do not track individual soldiers** nor do we worry overmuch about exactly how big a unit is. The typical Medium Infantry unit is assumed to be 100 soldiers, give or take. A group of 12 knights could be a unit unto themselves, and they would have very good stats indeed, but a very small casualty die (probably a `dice: d4|avg|noform` (`d4`), see "The Casualty Die" on page 242).
 
 ## Individuals Don't Matter
 
@@ -207,7 +207,7 @@ Choose an ancestry below and add its stat bonuses to the unit card. Then find th
 | Mindless | This unit cannot fail Morale checks. | 100 |
 | Regenerate | When this unit refreshes, increment its casualty die. This ability ceases To function if the unit suffers a casualty from battle magic. | 200 |
 | Ravenous | While there is a diminished enemy unit, this unit can spend a round feeding on the corpses. increment their casualty die. | 50 |
-| Hurl Rocks | If this unit succeeds on an Attack check, it inflicts 2 casualties.  Against fortifications it inflicts `dice: 1d6\|avg` (`1d6`) casualties. | 250 |
+| Hurl Rocks | If this unit succeeds on an Attack check, it inflicts 2 casualties.  Against fortifications it inflicts `dice: 1d6\|avg|noform` (`1d6`) casualties. | 250 |
 | Savage | This unit has advantage on the first Attack check it makes each battle. | 50 |
 | Stalwart | Enemy battle magic has disadvantage on power tests against this unit. | 50 |
 | Twisting Roots | As an action, this unit can sap the walls of a fortification. siege units have advantage on power checks against sapped fortifications. | 200 |
@@ -451,6 +451,6 @@ This represents the morale bonus the winners gain for defeating the losers and h
 
 Units recover one casualty the day after a battle. Units that fight a subsequent battle, or who fight more than one battle in a day, begin the battle with their original casualty die set at their current casualty level.
 
-A wounded unit's size continues to increase by one each week until its size is equal to any casualty die (`dice: d4|avg` (`d4`), `dice: d6|avg` (`d6`), `dice: d8|avg` (`d8`), `dice: d10|avg` (`d10`), `dice: d12|avg` (`d12`)). **This is the new size of the unit.** Its upkeep cost is adjusted accordingly. You may spend gold to improve the unit's size as normal.
+A wounded unit's size continues to increase by one each week until its size is equal to any casualty die (`dice: d4|avg|noform` (`d4`), `dice: d6|avg|noform` (`d6`), `dice: d8|avg|noform` (`d8`), `dice: d10|avg|noform` (`d10`), `dice: d12|avg|noform` (`d12`)). **This is the new size of the unit.** Its upkeep cost is adjusted accordingly. You may spend gold to improve the unit's size as normal.
 
-> Lindsay's `dice: d8|avg` (`d8`) unit of heavy infantry suffers three casualties in a battle, reducing it to size 5. If she fights another battle this day, the unit is fielded with size 5. The next day it recovers one casualty. It is now a size 6 unit, and stops recovering.
+> Lindsay's `dice: d8|avg|noform` (`d8`) unit of heavy infantry suffers three casualties in a battle, reducing it to size 5. If she fights another battle this day, the unit is fielded with size 5. The next day it recovers one casualty. It is now a size 6 unit, and stops recovering.

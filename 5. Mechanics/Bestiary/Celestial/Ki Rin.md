@@ -14,7 +14,7 @@ statblock: inline
 aliases:
   - Ki-rin
 ---
-# [[5. Mechanics\Bestiary\Celestial\Ki Rin.md|Ki-rin]]
+# [[5. Mechanics/Bestiary/Celestial/Ki Rin.md|Ki-rin]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 162, Volo's Guide to Monsters p. 163*
 
 Ki-rins are noble, celestial creatures. In the Outer Planes, ki-rins in service to benevolent deities take a direct role in the eternal struggle between good and evil. In the mortal world, ki-rins are celebrated far and wide as harbingers of destiny, guardians of the sacred, and counterbalances to the forces of evil.
@@ -39,6 +39,7 @@ When viewed from the outside, a ki-rin's lair is indistinguishable from a natura
 "type": "celestial"
 "alignment": "Typically  Lawful Good"
 "ac": !!int "20"
+"ac_class": "natural armor"
 "hp": !!int "153"
 "hit_dice": "18d10 + 54"
 "stats":
@@ -80,14 +81,14 @@ When viewed from the outside, a ki-rin's lair is indistinguishable from a natura
 - "desc": "The ki-rin makes two Hoof attacks and one Horn attack, or it makes two\
     \ Sacred Fire attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 15 ft., one target.\
-    \ Hit: dice: 2d4 + 5|avg (2d4 + 5) force damage."
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 15 ft., one target.\
+    \ Hit: dice:2d4 + 5|text(10) (2d4 + 5) force damage."
   "name": "Hoof"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 5|avg (2d8 + 5) radiant damage."
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d8 + 5|text(14) (2d8 + 5) radiant damage."
   "name": "Horn"
-- "desc": "Ranged Spell Attack: dice: d20+9 (+9 to hit), range 120 ft., one target.\
-    \ Hit: dice: 3d8 + 5|avg (3d8 + 5) radiant damage."
+- "desc": "Ranged Spell Attack: dice: d20+9 (+9) to hit, range 120 ft., one\
+    \ target. Hit: dice:3d8 + 5|text(18) (3d8 + 5) radiant damage."
   "name": "Sacred Fire"
 "legendary_actions":
 - "desc": "The ki-rin moves up to half its speed without provoking opportunity attacks."

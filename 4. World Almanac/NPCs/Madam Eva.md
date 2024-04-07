@@ -172,7 +172,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 "cr": "10"
 "traits":
 - "desc": "Madam Eva is a 16th-level spellcaster. Her spellcasting ability is Wisdom\
-    \ (spell save DC 17, dice: d20+9 (+9 to hit) with spell attacks). Madam Eva\
+    \ (spell save DC 17, dice: d20+9 (+9) to hit with spell attacks). Madam Eva\
     \ has the following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Light.md|light]],\
     \ [[5. Mechanics/Spells/Mending.md|mending]], [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]],\
     \ [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\n1st level (4 slots):\
@@ -194,15 +194,15 @@ await dv.view("npcRelationships", { current: dv.current() })
     \n8th level (1 slots): [[5. Mechanics/Spells/Earthquake.md|earthquake]]"
   "name": "spells"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4|avg (1d4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d4|text(2) (1d4) piercing damage."
   "name": "Dagger"
 - "desc": "Madam Eva targets one creature that she can see within 30 feet of her.\
     \ The target must succeed on a DC 17 Wisdom saving throw or be cursed. While cursed,\
     \ the target is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] and [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]].\
     \ The curse lasts until ended with a [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
     \ spell, a [[5. Mechanics/Spells/Remove Curse.md|remove curse]] spell, or similar\
-    \ magic. When the curse ends, Madam Eva takes dice: 5d6|avg (5d6) psychic\
+    \ magic. When the curse ends, Madam Eva takes dice: 5d6|avg|noform (5d6) psychic\
     \ damage."
   "name": "Curse (Recharges after a Long Rest)"
 - "desc": "Madam Eva targets one creature that she can see within 10 feet of her and\

@@ -11,7 +11,6 @@ aliases:
   - Divine Favor
 ---
 # Divine Favor
-%%-- Embedded content starts on the next line. --%%
 *1st-level, Evocation*  
 
 - **Casting time:** 1 bonus
@@ -19,7 +18,7 @@ aliases:
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 
-Your prayer empowers you with divine radiance. Until the spell ends, your weapon attacks deal an extra `dice: 1d4|avg` (`1d4`) radiant damage on a hit.
+Your prayer empowers you with divine radiance. Until the spell ends, your weapon attacks deal an extra `dice: 1d4|avg|noform` (`1d4`) radiant damage on a hit.
 
 **Classes**: [[5. Mechanics/Classes/Cleric War Domain.md\|Cleric (War Domain)]], [[5. Mechanics/Classes/Paladin.md\|Paladin]]
 

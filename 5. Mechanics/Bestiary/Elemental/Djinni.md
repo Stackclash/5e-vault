@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Djinni
 ---
-# [[5. Mechanics\Bestiary\Elemental\Djinni.md|Djinni]]
+# [[5. Mechanics/Bestiary/Elemental/Djinni.md|Djinni]]
 *Source: Monster Manual p. 144, Tasha's Cauldron of Everything. Available in the SRD.*
 
 Proud, sensuous genies from the Elemental Plane of Air, the djinn are attractive, tall, well-muscled humanoids with blue skin and dark eyes. They dress in airy, shimmering silks, designed as much for comfort as to flaunt their musculature.
@@ -70,6 +70,7 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
 "type": "elemental"
 "alignment": "Chaotic Good"
 "ac": !!int "17"
+"ac_class": "natural armor"
 "hp": !!int "161"
 "hit_dice": "14d10 + 84"
 "stats":
@@ -90,7 +91,7 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
 "cr": "11"
 "traits":
 - "desc": "The djinni's innate spellcasting ability is Charisma (spell save DC 17,\
-    \ dice: d20+9 (+9 to hit) with spell attacks). It can innately cast the following\
+    \ dice: d20+9 (+9) to hit with spell attacks). It can innately cast the following\
     \ spells, requiring no material components:\n\nAt will: [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]],\
     \ [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Thunderwave.md|thunderwave]]\n\
     \n1/day each: [[5. Mechanics/Spells/Conjure Elemental.md|conjure elemental]]\
@@ -107,8 +108,8 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
 "actions":
 - "desc": "The djinni makes three scimitar attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 5|avg (2d6 + 5) slashing damage plus dice: 1d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 5|text(12) (2d6 + 5) slashing damage plus dice:1d6|text(3)\
     \ (1d6) lightning or thunder damage (djinni's choice)."
   "name": "Scimitar"
 - "desc": "A 5-foot-radius, 30-foot-tall cylinder of swirling air magically forms\

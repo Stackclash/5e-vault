@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Giant Wasp
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Wasp.md|Giant Wasp]]
+# [[5. Mechanics/Bestiary/Beast/Giant Wasp.md|Giant Wasp]]
 *Source: Monster Manual p. 329. Available in the SRD and the Basic Rules.*
 
 ```statblock
@@ -36,9 +36,9 @@ aliases:
 "languages": ""
 "cr": "1/2"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage, and the target must\
-    \ make a DC 11 Constitution saving throw, taking dice: 3d6|avg (3d6) poison\
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one creature.\
+    \ Hit: dice:1d6 + 2|text(5) (1d6 + 2) piercing damage, and the target must\
+    \ make a DC 11 Constitution saving throw, taking dice:3d6|text(10) (3d6) poison\
     \ damage on a failed save, or half as much damage on a successful one. If the\
     \ poison damage reduces the target to 0 hit points, the target is stable but [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
     \ for 1 hour, even after regaining hit points, and is [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\

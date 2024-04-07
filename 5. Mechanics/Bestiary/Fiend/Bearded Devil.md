@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Bearded Devil
 ---
-# [[5. Mechanics\Bestiary\Fiend\Bearded Devil.md|Bearded Devil]]
+# [[5. Mechanics/Bestiary/Fiend/Bearded Devil.md|Bearded Devil]]
 *Source: Monster Manual p. 70. Available in the SRD.*
 
 Bearded devils serve archdevils as shock troops, fighting shoulder-to-shoulder and reveling in the glory of battle. They respond with violence to any slight, real or imagined, gorging themselves on violence as their infernal saw-toothed glaives carve a path through their foes.
@@ -128,11 +128,11 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 > 
 > - A barbed devil has a 30% chance chance of summoning one barbed devil.  
 > - A bearded devil has a 30% chance chance of summoning one bearded devil.  
-> - A bone devil has a 40% chance chance of summoning `dice: 2d6|avg` (`2d6`) spined devils or one bone devil.  
-> - An erinyes has a 50% chance chance of summoning `dice: 3d6|avg` (`3d6`) spined devils, `dice: 1d6|avg` (`1d6`) bearded devils, or one erinyes.  
+> - A bone devil has a 40% chance chance of summoning `dice: 2d6|avg|noform` (`2d6`) spined devils or one bone devil.  
+> - An erinyes has a 50% chance chance of summoning `dice: 3d6|avg|noform` (`3d6`) spined devils, `dice: 1d6|avg|noform` (`1d6`) bearded devils, or one erinyes.  
 > - A horned devil has a 30% chance chance of summoning one horned devil.  
 > - An ice devil has a 60% chance chance of summoning one ice devil.  
-> - A pit fiend summons `dice: 2d4|avg` (`2d4`) bearded devils, `dice: 1d4|avg` (`1d4`) barbed devils, or one erinyes with no chance of failure.  
+> - A pit fiend summons `dice: 2d4|avg|noform` (`2d4`) bearded devils, `dice: 1d4|avg|noform` (`1d4`) barbed devils, or one erinyes with no chance of failure.  
 > 
 > A summoned devil appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other devils. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 ^variant-devil-summoning
@@ -144,6 +144,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 "subtype": "devil"
 "alignment": "Lawful Evil"
 "ac": !!int "13"
+"ac_class": "natural armor"
 "hp": !!int "52"
 "hit_dice": "8d8 + 16"
 "stats":
@@ -177,19 +178,19 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 "actions":
 - "desc": "The devil makes two attacks: one with its beard and one with its glaive."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 1d8 + 2|avg (1d8 + 2) piercing damage, and the target must\
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one creature.\
+    \ Hit: dice:1d8 + 2|text(6) (1d8 + 2) piercing damage, and the target must\
     \ succeed on a DC 12 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
     \ for 1 minute. While [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in\
     \ this way, the target can't regain hit points. The target can repeat the saving\
     \ throw at the end of each of its turns, ending the effect on itself on a success."
   "name": "Beard"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 1d10 + 3|avg (1d10 + 3) slashing damage. If the target is a\
-    \ creature other than an undead or a construct, it must succeed on a DC 12 Constitution\
-    \ saving throw or lose dice: 1d10|avg (1d10) hit points at the start of each\
-    \ of its turns due to an infernal wound. Each time the devil hits the wounded\
-    \ target with this attack, the damage dealt by the wound increases by dice: 1d10|avg\
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 10 ft., one target.\
+    \ Hit: dice:1d10 + 3|text(8) (1d10 + 3) slashing damage. If the target is\
+    \ a creature other than an undead or a construct, it must succeed on a DC 12 Constitution\
+    \ saving throw or lose dice:1d10|text(5) (1d10) hit points at the start of\
+    \ each of its turns due to an infernal wound. Each time the devil hits the wounded\
+    \ target with this attack, the damage dealt by the wound increases by dice:1d10|text(5)\
     \ (1d10). Any creature can take an action to stanch the wound with a successful\
     \ DC 12 Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) check. The wound\
     \ also closes if the target receives magical healing."

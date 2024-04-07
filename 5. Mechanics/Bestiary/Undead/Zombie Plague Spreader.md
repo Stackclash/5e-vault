@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Zombie Plague Spreader
 ---
-# [[5. Mechanics\Bestiary\Undead\Zombie Plague Spreader.md|Zombie Plague Spreader]]
+# [[5. Mechanics/Bestiary/Undead/Zombie Plague Spreader.md|Zombie Plague Spreader]]
 *Source: Van Richten's Guide to Ravenloft p. 255*
 
 Among the undead, a lone zombie ranks far from the most menacing. The horror of the shambling dead lies not in their individual menace, though, but their numbers, their persistence, and their disregard for their own well-being. A throng of zombies will douse a forest fire with their own ashes or march into a dragon's maw until the monster chokes. In the course of their relentless marches, zombies might suffer all manner of trauma, potentially reducing them to masses of crawling limbs (see swarm of zombie limbs), infecting them with terrible diseases, or crushing an entire horde into a single, rotting titan (see zombie clot).
@@ -70,17 +70,17 @@ Among the types of horror adventures detailed in "chapter 2", tales of uncontrol
 "actions":
 - "desc": "The plague spreader makes two Slam attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) bludgeoning damage plus dice: 2d8|avg\
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 3|text(6) (1d6 + 3) bludgeoning damage plus dice:2d8|text(9)\
     \ (2d8) necrotic damage."
   "name": "Slam"
 - "desc": "The plague spreader releases toxic gas in a 30-foot-radius sphere centered\
     \ on itself. Each creature in that area must make a DC 12 Constitution saving\
-    \ throw, taking dice: 4d6|avg (4d6) poison damage on a failed save, or half\
-    \ as much damage on a successful one. A Humanoid reduced to 0 hit points by this\
-    \ damage dies and rises as a zombie (see its stat block in the Monster Manual)\
-    \ 1 minute later. The zombie acts immediately after the plague spreader in the\
-    \ initiative count."
+    \ throw, taking dice:4d6|text(14) (4d6) poison damage on a failed save, or\
+    \ half as much damage on a successful one. A Humanoid reduced to 0 hit points\
+    \ by this damage dies and rises as a zombie (see its stat block in the Monster\
+    \ Manual) 1 minute later. The zombie acts immediately after the plague spreader\
+    \ in the initiative count."
   "name": "Virulent Miasma (1/Day)"
 "source":
 - "VRGR"

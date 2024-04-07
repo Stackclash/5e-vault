@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Living Lightning Bolt
 ---
-# [[5. Mechanics\Bestiary\Construct\Living Lightning Bolt.md|Living Lightning Bolt]]
+# [[5. Mechanics/Bestiary/Construct/Living Lightning Bolt.md|Living Lightning Bolt]]
 *Source: Eberron: Rising from the Last War p. 299*
 
 ## Constructed Nature
@@ -50,6 +50,7 @@ For example, if you turn [[5. Mechanics/Spells/Fireball.md|fireball]] (a 3rd-lev
 "type": "construct"
 "alignment": "Unaligned"
 "ac": !!int "15"
+"ac_class": "natural armor"
 "hp": !!int "57"
 "hit_dice": "6d10 + 24"
 "stats":
@@ -79,13 +80,13 @@ For example, if you turn [[5. Mechanics/Spells/Fireball.md|fireball]] (a 3rd-lev
 "actions":
 - "desc": "The living spell makes two Magical Strike attacks."
   "name": "Multiattack"
-- "desc": "Melee Spell Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 5d6 + 4|avg (5d6 + 4) lightning damage."
+- "desc": "Melee Spell Attack: dice: d20+7 (+7) to hit, reach 10 ft., one target.\
+    \ Hit: dice:5d6 + 4|text(21) (5d6 + 4) lightning damage."
   "name": "Magical Strike"
 - "desc": "The living spell unleashes a stroke of lightning in a line 100 feet long\
     \ and 5 feet wide. Each creature in the line must make a DC 15 Dexterity saving\
-    \ throw, taking dice: 8d6|avg (8d6) lightning damage on a failed save, or\
-    \ half as much damage on a successful one."
+    \ throw, taking dice:8d6|text(28) (8d6) lightning damage on a failed save,\
+    \ or half as much damage on a successful one."
   "name": "Spell Mimicry (Recharge 5-6)"
 "source":
 - "ERLW"

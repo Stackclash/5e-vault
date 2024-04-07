@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/mtf
-aliases: ["Halflings and Gnomes"]
+  - compendium/src/5e/mtf
+aliases:
+  - Halflings and Gnomes
 ---
 # Halflings and Gnomes
 *Source: Mordenkainen's Tome of Foes, p. 99* 
@@ -295,15 +296,15 @@ Of course, not every journey into the world involves risking one's life or claim
 
 This section provides a number of tables useful for players and DMs who want to choose or randomly generate details about halfling characters or villages.
 
-![Halfling Tables; Halfling Personality Traits](compendium/tables/halfling-tables-halfling-personality-traits-mtf.md)
+![[5. Mechanics/Tables/Halfling Tables Halfling Personality Traits.md\|Halfling Tables; Halfling Personality Traits]]
 
-![Halfling Tables; Halfling Ideals](compendium/tables/halfling-tables-halfling-ideals-mtf.md)
+![[5. Mechanics/Tables/Halfling Tables Halfling Ideals.md\|Halfling Tables; Halfling Ideals]]
 
-![Halfling Tables; Halfling Bonds](compendium/tables/halfling-tables-halfling-bonds-mtf.md)
+![[5. Mechanics/Tables/Halfling Tables Halfling Bonds.md\|Halfling Tables; Halfling Bonds]]
 
-![Halfling Tables; Halfling Flaws](compendium/tables/halfling-tables-halfling-flaws-mtf.md)
+![[5. Mechanics/Tables/Halfling Tables Halfling Flaws.md\|Halfling Tables; Halfling Flaws]]
 
-![Halfling Tables; Reasons for Adventuring](compendium/tables/halfling-tables-reasons-for-adventuring-mtf.md)
+![[5. Mechanics/Tables/Halfling Tables Reasons For Adventuring.md\|Halfling Tables; Reasons for Adventuring]]
 
 ## Gnomes
 
@@ -450,7 +451,7 @@ A consensus of sorts emerges from the totality of these beliefs. Most gnomes bel
 
 The Gnome Deities table lists the members of the gnome pantheon. For each god, the table notes alignment, province (the god's main areas of interest and responsibility), suggested domains for clerics who serve the god, and a common symbol of the god. Several of the gods in the table are described below.
 
-![Gnome Gods; Gnome Deities](compendium/tables/gnome-gods-gnome-deities-mtf.md)
+![[5. Mechanics/Tables/Gnome Gods Gnome Deities.md\|Gnome Gods; Gnome Deities]]
 
 #### Garl Glittergold
 
@@ -601,10 +602,10 @@ At the DM's discretion, you can play a deep gnome character. When you choose the
 
 This section provides several tables useful for players and DMs who want to create gnome characters.
 
-![Gnome Tables; Gnome Personality Traits](compendium/tables/gnome-tables-gnome-personality-traits-mtf.md)
+![[5. Mechanics/Tables/Gnome Tables Gnome Personality Traits.md\|Gnome Tables; Gnome Personality Traits]]
 
-![Gnome Tables; Gnome Ideals](compendium/tables/gnome-tables-gnome-ideals-mtf.md)
+![[5. Mechanics/Tables/Gnome Tables Gnome Ideals.md\|Gnome Tables; Gnome Ideals]]
 
-![Gnome Tables; Gnome Bonds](compendium/tables/gnome-tables-gnome-bonds-mtf.md)
+![[5. Mechanics/Tables/Gnome Tables Gnome Bonds.md\|Gnome Tables; Gnome Bonds]]
 
-![Gnome Tables; Gnome Flaws](compendium/tables/gnome-tables-gnome-flaws-mtf.md)
+![[5. Mechanics/Tables/Gnome Tables Gnome Flaws.md\|Gnome Tables; Gnome Flaws]]

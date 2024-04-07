@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Green Hag
 ---
-# [[5. Mechanics\Bestiary\Fey\Green Hag.md|Green Hag]]
+# [[5. Mechanics/Bestiary/Fey/Green Hag.md|Green Hag]]
 *Source: Monster Manual p. 177, Tasha's Cauldron of Everything. Available in the SRD.*
 
 The wretched and hateful green hags dwell in dying forests, lonely swamps, and misty moors, making their homes in caves. Green hags love to manipulate other creatures into doing their bidding, masking their intentions behind layers of deception. They lure victims to them by mimicking voices calling out for help, or drive unwanted visitors away by imitating the cries of fierce beasts.
@@ -83,7 +83,7 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
 > 
 > For casting these spells, each hag is a 12th-level spellcaster that uses Intelligence as her spellcasting ability. The spell save DC is 12 + the hag's Intelligence modifier, and the spell attack bonus is 4 + the hag's Intelligence modifier.
 > 
-> **Hag Eye.** A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and [[/5. Mechanics/Rules/Senses.md#darkvision|darkvision]] with a radius of 60 feet. If it is destroyed, each coven member takes `dice: 3d10|avg` (`3d10`) psychic damage and is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] for 24 hours.
+> **Hag Eye.** A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and [[/5. Mechanics/Rules/Senses.md#darkvision|darkvision]] with a radius of 60 feet. If it is destroyed, each coven member takes `dice: 3d10|avg|noform` (`3d10`) psychic damage and is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] for 24 hours.
 > 
 > A hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can't perform it while [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]. During the ritual, if the hags take any action other than performing the ritual, they must start over.
 ^hag-covens
@@ -94,6 +94,7 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
 "type": "fey"
 "alignment": "Neutral Evil"
 "ac": !!int "17"
+"ac_class": "natural armor"
 "hp": !!int "82"
 "hit_dice": "11d8 + 33"
 "stats":
@@ -125,8 +126,8 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
     \ check."
   "name": "Mimicry"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d8 + 4|text(13) (2d8 + 4) slashing damage."
   "name": "Claws"
 - "desc": "The hag covers herself and anything she is wearing or carrying with a magical\
     \ illusion that makes her look like another creature of her general size and humanoid\
@@ -182,7 +183,8 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
     \ single hag, including some that can directly harm intruders. Any regional effect\
     \ that requires a creature to make a saving throw uses the save DC of the hag's\
     \ most powerful ability. These effects either end immediately if the hag dies\
-    \ or abandons the lair, or take up to dice: 2d10|avg (2d10) days to fade away."
+    \ or abandons the lair, or take up to dice: 2d10|avg|noform (2d10) days to\
+    \ fade away."
   "name": ""
 - "desc": "The region within 1 mile of a grandmother hag's lair is warped by the creature's\
     \ fell magic, which creates one or more of the following effects:"

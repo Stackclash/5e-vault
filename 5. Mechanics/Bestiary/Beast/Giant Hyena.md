@@ -14,7 +14,7 @@ statblock: inline
 aliases:
   - Giant Hyena
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Hyena.md|Giant Hyena]]
+# [[5. Mechanics/Bestiary/Beast/Giant Hyena.md|Giant Hyena]]
 *Source: Monster Manual p. 326. Available in the SRD and the Basic Rules.*
 
 ```statblock
@@ -44,8 +44,8 @@ aliases:
     \ make a bite attack."
   "name": "Rampage"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 3|text(10) (2d6 + 3) piercing damage."
   "name": "Bite"
 "source":
 - "MM"

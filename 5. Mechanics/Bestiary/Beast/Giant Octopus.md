@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Giant Octopus
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Octopus.md|Giant Octopus]]
+# [[5. Mechanics/Bestiary/Beast/Giant Octopus.md|Giant Octopus]]
 *Source: Monster Manual p. 326, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*
 
 ```statblock
@@ -45,9 +45,9 @@ aliases:
 - "desc": "The octopus can breathe only underwater."
   "name": "Water Breathing"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 15 ft., one target.\
-    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) bludgeoning damage. If the target is\
-    \ a creature, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape\
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 15 ft., one target.\
+    \ Hit: dice:2d6 + 3|text(10) (2d6 + 3) bludgeoning damage. If the target\
+    \ is a creature, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape\
     \ DC 16). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
     \ and the octopus can't use its tentacles on another target."
   "name": "Tentacles"

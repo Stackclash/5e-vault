@@ -1,27 +1,28 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: null
 condition: healthy
 image: 4. World Almanac/NPCs/img/bael.webp
 relationships: []
-tags: 
-aliases: [Bael]
-pronounced: 
-race: 
-gender: 
-age: 
+tags: null
+aliases:
+  - Bael
+pronounced: null
+race: null
+gender: null
+age: null
 alignment: Lawful Evil
-occupation: 
+occupation: null
 groups: []
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]
@@ -123,6 +124,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 "subtype": "devil"
 "alignment": "Lawful Evil"
 "ac": !!int "18"
+"ac_class": "[[5. Mechanics/Items/Plate Armor.md|plate]]"
 "hp": !!int "189"
 "hit_dice": "18d10 + 90"
 "stats":
@@ -175,9 +177,9 @@ await dv.view("npcRelationships", { current: dv.current() })
 "actions":
 - "desc": "Bael makes two Hellish Morningstar attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 20 ft., one target.\
-    \ Hit: dice: 2d8 + 7|avg (2d8 + 7) force damage plus dice: 2d8|avg (2d8)\
-    \ necrotic damage."
+- "desc": "Melee Weapon Attack: dice: d20+13 (+13) to hit, reach 20 ft., one\
+    \ target. Hit: dice:2d8 + 7|text(16) (2d8 + 7) force damage plus dice:2d8|text(9)\
+    \ (2d8) necrotic damage."
   "name": "Hellish Morningstar"
 - "desc": "Each of Bael's allies within 60 feet of him can't be [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
     \ or [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] until the end of\

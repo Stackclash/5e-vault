@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Space
 ---
-# [[5. Mechanics\Bestiary\Construct\Space.md|Space]]
+# [[5. Mechanics/Bestiary/Construct/Space.md|Space]]
 *Source: Strongholds and Followers p. 227*
 
 The Inexorable limitations of Space forbid anyone from moving from point A to point Z without passing through the rest of the alphabet. Certainly nothing as vulgar as teleportation is allowed on Axiom.
@@ -29,6 +29,7 @@ Space is the light infantry of the Inexorables, and pretty easy to use in combat
 "type": "construct"
 "alignment": "Lawful"
 "ac": !!int "16"
+"ac_class": "natural armor"
 "hp": !!int "112"
 "hit_dice": "15d8 + 45"
 "stats":
@@ -56,8 +57,8 @@ Space is the light infantry of the Inexorables, and pretty easy to use in combat
 "actions":
 - "desc": "Space makes three slam attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 3|avg (2d8 + 3) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d8 + 3|text(12) (2d8 + 3) bludgeoning damage."
   "name": "Slam"
 "source":
 - "SaF"

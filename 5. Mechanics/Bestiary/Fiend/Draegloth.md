@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Draegloth
 ---
-# [[5. Mechanics\Bestiary\Fiend\Draegloth.md|Draegloth]]
+# [[5. Mechanics/Bestiary/Fiend/Draegloth.md|Draegloth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 98, Volo's Guide to Monsters p. 141*
 
 A draegloth is a demon created by an elf priest of Lolth in an unholy, dangerous ritual in which it is infused with the fey essence of the creator and the fiendish essence of a [[5. Mechanics/Bestiary/Fiend/Glabrezu.md|glabrezu]]. This ritual rarely succeeds, but Lolth's faithful consider it worth the risk, as the resulting creature is gifted with innate magic and physical might. The draegloth usually serves its creator, lending its thirst for destruction to the creator's plans to triumph over rivals.
@@ -29,6 +29,7 @@ Although draegloths plays an important part in the plans of Lolth's cult, a drae
 "subtype": "demon"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "15"
+"ac_class": "natural armor"
 "hp": !!int "123"
 "hit_dice": "13d10 + 52"
 "stats":
@@ -60,11 +61,11 @@ Although draegloths plays an important part in the plans of Lolth's cult, a drae
 "actions":
 - "desc": "The draegloth makes one Bite attack and two Claw attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 2d10 + 5|avg (2d10 + 5) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one creature.\
+    \ Hit: dice:2d10 + 5|text(16) (2d10 + 5) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d10 + 5|avg (2d10 + 5) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 10 ft., one target.\
+    \ Hit: dice:2d10 + 5|text(16) (2d10 + 5) slashing damage."
   "name": "Claw"
 "source":
 - "MPMM"

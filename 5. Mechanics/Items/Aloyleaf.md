@@ -22,6 +22,6 @@ An absolutely wondrous leaf found on bushes and hedges that have grown on top of
 
 ## Effect:
 
-This herb provides enough leaves to cover `dice: 1d6|avg` (`1d6`) square feet. These leaves are as hard as steel, but are as lightweight as normal leaves and never decompose unless buried under soil.
+This herb provides enough leaves to cover `dice: 1d6|avg|noform` (`1d6`) square feet. These leaves are as hard as steel, but are as lightweight as normal leaves and never decompose unless buried under soil.
 
 *Source: Hamund's Herbalism Handbook p. 5*

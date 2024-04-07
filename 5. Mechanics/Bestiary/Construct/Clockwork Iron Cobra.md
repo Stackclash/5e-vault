@@ -14,7 +14,7 @@ statblock: inline
 aliases:
   - Clockwork Iron Cobra
 ---
-# [[5. Mechanics\Bestiary\Construct\Clockwork Iron Cobra.md|Clockwork Iron Cobra]]
+# [[5. Mechanics/Bestiary/Construct/Clockwork Iron Cobra.md|Clockwork Iron Cobra]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 79, Mordenkainen's Tome of Foes p. 125*
 
 An iron cobra is exactly what its name implies: a metal snake with a poisonous bite. Gnomes load this clockwork with alchemical concoctions that can paralyze creatures and cloud the mind.
@@ -51,13 +51,13 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
 
 | dice: d8 | Malfunction |
 |----------|-------------|
-| 1 | **Faulty Sensors.** Roll a `dice: d6\|avg` (`d6`) at the start of the clock work's turn. If you roll a 1, the clockwork is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] until the end of its turn. |
-| 2 | **Flawed Targeting.** Roll a `dice: d6\|avg` (`d6`) at the start of the clock work's turn. If you roll a 1, the clockwork makes attack rolls with disadvantage until the end of its turn. |
+| 1 | **Faulty Sensors.** Roll a `dice: d6\|avg|noform` (`d6`) at the start of the clock work's turn. If you roll a 1, the clockwork is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] until the end of its turn. |
+| 2 | **Flawed Targeting.** Roll a `dice: d6\|avg|noform` (`d6`) at the start of the clock work's turn. If you roll a 1, the clockwork makes attack rolls with disadvantage until the end of its turn. |
 | 3 | **Ground Fault.** The clockwork has vulnerability to lightning damage. |
-| 4 | **Imprinting Loop.** Roll a `dice: d6\|avg` (`d6`) at the start of the clock work's turn. If you roll a 1, the clockwork mistakes one creature it can see within 30 feet for its creator. The clockwork won't willingly harm that creature for 1 minute or until that creature attacks or dam ages it. |
+| 4 | **Imprinting Loop.** Roll a `dice: d6\|avg|noform` (`d6`) at the start of the clock work's turn. If you roll a 1, the clockwork mistakes one creature it can see within 30 feet for its creator. The clockwork won't willingly harm that creature for 1 minute or until that creature attacks or dam ages it. |
 | 5 | **Limited Steering.** The clockwork must move in a straight line. It can turn up to 90 degrees before moving and again at the midpoint of its movement. It can rotate freely if it doesn't use any of its speeds on its turn. |
-| 6 | **Overactive Sense of Self-Preservation.** If the clock work has half its hit points or fewer at the start of its turn in combat, roll a `dice: d6\|avg` (`d6`). If you roll a 1, it retreats from combat if possible. It otherwise keeps fighting. |
-| 7 | **Overheats.** Roll a `dice: d6\|avg` (`d6`) at the start of the clockwork's turn. If you roll a 1, the clockwork is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] until the end of its turn. |
+| 6 | **Overactive Sense of Self-Preservation.** If the clock work has half its hit points or fewer at the start of its turn in combat, roll a `dice: d6\|avg|noform` (`d6`). If you roll a 1, it retreats from combat if possible. It otherwise keeps fighting. |
+| 7 | **Overheats.** Roll a `dice: d6\|avg|noform` (`d6`) at the start of the clockwork's turn. If you roll a 1, the clockwork is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] until the end of its turn. |
 | 8 | **Rusty Gears.** The clockwork has disadvantage on initiative rolls, and its speed decreases by 10 feet. |
 ^clockwork-malfunctions
 
@@ -93,18 +93,18 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
 - "desc": "The clockwork doesn't require air, food, drink, or sleep."
   "name": "Unusual Nature"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage. If the target is a creature,\
-    \ it must succeed on a DC 13 Constitution saving throw or suffer one random effect\
-    \ (roll a dice: d6|avg (d6)):\n\n- 1–2 Confusion. On its next turn, the\
-    \ target must use its action to make one weapon attack against a random creature\
-    \ it can see within 30 feet of it, using whatever weapon it has in hand and moving\
-    \ beforehand if necessary to get in range. If it's holding no weapon, it makes\
-    \ an unarmed strike. If no creature is visible within 30 feet, it takes the [[/5. Mechanics/Rules/Actions.md#Dash|Dash]]\
-    \ action, moving toward the nearest creature.  \n- 3–4 Paralysis. The target\
-    \ is [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]] until the end of its\
-    \ next turn.  \n- 5–6 Poison. The target takes dice: 3d8|avg (3d8) poison\
-    \ damage.  "
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 3|text(6) (1d6 + 3) piercing damage. If the target is\
+    \ a creature, it must succeed on a DC 13 Constitution saving throw or suffer one\
+    \ random effect (roll a dice: d6|avg|noform (d6)):\n\n- 1–2 Confusion.\
+    \ On its next turn, the target must use its action to make one weapon attack against\
+    \ a random creature it can see within 30 feet of it, using whatever weapon it\
+    \ has in hand and moving beforehand if necessary to get in range. If it's holding\
+    \ no weapon, it makes an unarmed strike. If no creature is visible within 30 feet,\
+    \ it takes the [[/5. Mechanics/Rules/Actions.md#Dash|Dash]] action, moving toward\
+    \ the nearest creature.  \n- 3–4 Paralysis. The target is [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
+    \ until the end of its next turn.  \n- 5–6 Poison. The target takes dice:3d8|text(13)\
+    \ (3d8) poison damage.  "
   "name": "Bite"
 "source":
 - "MPMM"

@@ -1,27 +1,28 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: null
 condition: healthy
 image: 4. World Almanac/NPCs/img/fraz-urbluu.webp
 relationships: []
-tags: 
-aliases: [Fraz-Urb'luu]
-pronounced: 
-race: 
-gender: 
-age: 
+tags: null
+aliases:
+  - Fraz-Urb'luu
+pronounced: null
+race: null
+gender: null
+age: null
 alignment: Chaotic Evil
-occupation: 
+occupation: null
 groups: []
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]
@@ -132,6 +133,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 "subtype": "demon"
 "alignment": "Chaotic Evil"
 "ac": !!int "18"
+"ac_class": "natural armor"
 "hp": !!int "337"
 "hit_dice": "27d10 + 189"
 "stats":
@@ -180,21 +182,21 @@ await dv.view("npcRelationships", { current: dv.current() })
 - "desc": "Fraz-Urb'luu makes one Bite attack and two Fist attacks, and he uses Phantasmal\
     \ Terror."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+16 (+16 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 3d6 + 9|avg (3d6 + 9) force damage."
+- "desc": "Melee Weapon Attack: dice: d20+16 (+16) to hit, reach 10 ft., one\
+    \ target. Hit: dice:3d6 + 9|text(19) (3d6 + 9) force damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+16 (+16 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 3d8 + 9|avg (3d8 + 9) force damage."
+- "desc": "Melee Weapon Attack: dice: d20+16 (+16) to hit, reach 10 ft., one\
+    \ target. Hit: dice:3d8 + 9|text(22) (3d8 + 9) force damage."
   "name": "Fist"
 - "desc": "Fraz-Urb'luu targets one creature he can see within 120 feet of him. The\
-    \ target must succeed on a DC 23 Wisdom saving throw, or it takes dice: 3d10|avg\
+    \ target must succeed on a DC 23 Wisdom saving throw, or it takes dice:3d10|text(16)\
     \ (3d10) psychic damage and is [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
     \ of Fraz-Urb'luu until the end of its next turn."
   "name": "Phantasmal Terror"
 "legendary_actions":
-- "desc": "Melee Weapon Attack: dice: d20+16 (+16 to hit), reach 15 ft., one target.\
-    \ Hit: dice: 2d10 + 9|avg (2d10 + 9) force damage. If the target is a Large\
-    \ or smaller creature, it is also [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+- "desc": "Melee Weapon Attack: dice: d20+16 (+16) to hit, reach 15 ft., one\
+    \ target. Hit: dice:2d10 + 9|text(20) (2d10 + 9) force damage. If the target\
+    \ is a Large or smaller creature, it is also [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ (escape DC 24), and it is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
     \ until the grapple ends. Fraz-Urb'luu can grapple only one creature with his\
     \ tail at a time."
@@ -210,7 +212,7 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ the lair to become walls and an equal number of doors to appear on walls where\
     \ there previously were none.  \n- Psychic Anguish. Fraz-Urb'luu creates a\
     \ wave of anguish. Each creature he can see within the lair must succeed on a\
-    \ DC 23 Wisdom saving throw or take dice: 6d10|avg (6d10) psychic damage.\
+    \ DC 23 Wisdom saving throw or take dice:6d10|text(33) (6d10) psychic damage.\
     \  \n- Simulacrum. Fraz-Urb'luu chooses one Humanoid within the lair and instantly\
     \ creates a simulacrum of that creature (as if created with the [[5. Mechanics/Spells/Simulacrum.md|simulacrum]]\
     \ spell). This simulacrum obeys Fraz-Urb'luu's commands and is destroyed on the\
@@ -230,7 +232,7 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ lair twist and turn back on themselves, making navigation in the area exceedingly\
     \ difficult.  "
   "name": ""
-- "desc": "If Fraz-Urb'luu dies, these effects fade over the course of dice: 1d10|avg\
+- "desc": "If Fraz-Urb'luu dies, these effects fade over the course of dice: 1d10|avg|noform\
     \ (1d10) days."
   "name": ""
 "source":

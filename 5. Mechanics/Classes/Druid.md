@@ -234,6 +234,9 @@ These tables can also help you and your DM determine which animals you might see
 
 The tables include all the individual beasts that are eligible for Wild Shape (up to a challenge rating of 1) or the Circle Forms feature of the Circle of the Moon (up to a challenge rating of 6).
 
+### 
+_Source: Xanathar's Guide to Everything_
+
 **Arctic**
 
 | CR | Beast | Fly/Swim |

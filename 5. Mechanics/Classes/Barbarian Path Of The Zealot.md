@@ -22,7 +22,7 @@ A variety of gods across the worlds of D&D inspire their followers to embrace th
 
 ### Divine Fury (Level 3)
 
-Starting when you choose this path at 3rd level, you can channel divine fury into your weapon strikes. While you're raging, the first creature you hit on each of your turns with a weapon attack takes extra damage equal to `dice: 1d6|avg` (`1d6`) + half your barbarian level. The extra damage is necrotic or radiant; you choose the type of damage when you gain this feature.
+Starting when you choose this path at 3rd level, you can channel divine fury into your weapon strikes. While you're raging, the first creature you hit on each of your turns with a weapon attack takes extra damage equal to `dice: 1d6|avg|noform` (`1d6`) + half your barbarian level. The extra damage is necrotic or radiant; you choose the type of damage when you gain this feature.
 
 ### Warrior of the Gods (Level 3)
 

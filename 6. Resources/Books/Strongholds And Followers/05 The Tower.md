@@ -157,15 +157,15 @@ Find your damage type on the list below.
 - (Acid) **Melting**: Objects carried by the target are hit and take damage equal to the spell's damage.  
 - (Bludgeoning) Sundering: For the spell's duration, armor worn by the targets degrades by 2. Sundering effects do not stack.  
 - (Cold) **Chilling**: Affected targets are grappled until the end of their next turn.  
-- (Fire) **Incinerating**: Affected targets continue to burn, taking an extra `dice: 1d6|avg` (`1d6`) damage at the start of each round until they spend an action extinguishing the flames.  
+- (Fire) **Incinerating**: Affected targets continue to burn, taking an extra `dice: 1d6|avg|noform` (`1d6`) damage at the start of each round until they spend an action extinguishing the flames.  
 - (Force) **Detonating**: Affected targets are knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]. On their next turn, they must make a Wisdom saving throw to stand up. On their following turn, they may stand up normally without making a save.  
 - (Lightning) **Shocking**: Affected targets have disadvantage on all saving throws until the end of your next turn.  
-- (Necrotic) **Unholy**: ^[Yeah I know some folks don't consider raising the dead to be evil or "unholy."] `dice: 1d4|avg` (`1d4`) ghouls rise from the ground, each anywhere you choose within 30 feet. They obey your commands for a number of rounds equal to your spellcasting modifier, then crumble to dust.  
+- (Necrotic) **Unholy**: ^[Yeah I know some folks don't consider raising the dead to be evil or "unholy."] `dice: 1d4|avg|noform` (`1d4`) ghouls rise from the ground, each anywhere you choose within 30 feet. They obey your commands for a number of rounds equal to your spellcasting modifier, then crumble to dust.  
 - (Piercing) **Puncturing**: For 10 minutes, weapon attacks against affected targets score critical hits on attack rolls of 15 or higher ^[In other words, your spell creates a "weak spot" in the target's armor or hide that others can exploit.]  
 - (Poison) **Nauseating**: Affected targets forgo their next turn, spending it vomiting.  
 - (Psychic) **Hallucinating**: On their next turn, the targets perceive allies as enemies and enemies as allies, and act accordingly.  
 - (Radiant) **Dazzling**: Each target is blind until the end of its next turn.  
-- (Slashing) **Wounding**: Each target takes `dice: 1d10|avg` (`1d10`) damage at the end of its next turn.  
+- (Slashing) **Wounding**: Each target takes `dice: 1d10|avg|noform` (`1d10`) damage at the end of its next turn.  
 - (Thunder) **Concussive**: The targets are pushed 20 feet back.  
 
 ### "I Got a Result I Don't Like"

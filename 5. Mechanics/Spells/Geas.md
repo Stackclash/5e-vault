@@ -15,7 +15,6 @@ aliases:
   - Geas
 ---
 # Geas
-%%-- Embedded content starts on the next line. --%%
 *5th-level, Enchantment*  
 
 - **Casting time:** 1 minute
@@ -23,7 +22,7 @@ aliases:
 - **Components:** V
 - **Duration:** 30 day
 
-You place a magical command on a creature that you can see within range, forcing it to carry out some service or refrain from some action or course of activity as you decide. If the creature can understand you, it must succeed on a Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] by you for the duration. While the creature is [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] by you, it takes `dice: 5d10|avg` (`5d10`) psychic damage each time it acts in a manner directly counter to your instructions, but no more than once each day. A creature that can't understand you is unaffected by the spell.
+You place a magical command on a creature that you can see within range, forcing it to carry out some service or refrain from some action or course of activity as you decide. If the creature can understand you, it must succeed on a Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] by you for the duration. While the creature is [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] by you, it takes `dice: 5d10|avg|noform` (`5d10`) psychic damage each time it acts in a manner directly counter to your instructions, but no more than once each day. A creature that can't understand you is unaffected by the spell.
 
 You can issue any command you choose, short of an activity that would result in certain death. Should you issue a suicidal command, the spell ends.
 

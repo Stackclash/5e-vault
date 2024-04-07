@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Gynosphinx
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Gynosphinx.md|Gynosphinx]]
+# [[5. Mechanics/Bestiary/Monstrosity/Gynosphinx.md|Gynosphinx]]
 *Source: Monster Manual p. 282. Available in the SRD.*
 
 A gynosphinx bears the head of a humanoid female. Many have the regal countenances of worldly queens, but some are marked with wild, leonine features. A gynosphinx's eyes see beyond the present time and place, and penetrate veils of invisibility and magic.
@@ -64,6 +64,7 @@ A sphinx presides over an ancient temple, sepulcher, or vault, within which are 
 "type": "monstrosity"
 "alignment": "Lawful Neutral"
 "ac": !!int "17"
+"ac_class": "natural armor"
 "hp": !!int "136"
 "hit_dice": "16d10 + 48"
 "stats":
@@ -87,7 +88,7 @@ A sphinx presides over an ancient temple, sepulcher, or vault, within which are 
 "cr": "11"
 "traits":
 - "desc": "The sphinx is a 9th-level spellcaster. Its spellcasting ability is Intelligence\
-    \ (spell save DC 16, dice: d20+8 (+8 to hit) with spell attacks). It requires\
+    \ (spell save DC 16, dice: d20+8 (+8) to hit with spell attacks). It requires\
     \ no material components to cast its spells. The sphinx has the following wizard\
     \ spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
     \ [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\
@@ -110,8 +111,8 @@ A sphinx presides over an ancient temple, sepulcher, or vault, within which are 
 "actions":
 - "desc": "The sphinx makes two claw attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d8 + 4|text(13) (2d8 + 4) slashing damage."
   "name": "Claw"
 "legendary_actions":
 - "desc": "The sphinx makes one claw attack."
@@ -130,8 +131,8 @@ A sphinx presides over an ancient temple, sepulcher, or vault, within which are 
 - "desc": "- The flow of time is altered such that every creature in the lair must\
     \ reroll initiative. The sphinx can choose not to reroll.  \n- The effects of\
     \ time are altered such that every creature in the lair must succeed on a DC 15\
-    \ Constitution saving throw or become dice: 1d20|avg (1d20) years older or\
-    \ younger (the sphinx's choice), but never any younger than 1 year old. A [greater\
+    \ Constitution saving throw or become dice: 1d20|avg|noform (1d20) years older\
+    \ or younger (the sphinx's choice), but never any younger than 1 year old. A [greater\
     \ restoration](compendium/spells/greater-restoration.md) spell can restore a creature's\
     \ age to normal.  \n- The flow of time within the lair is altered such that everything\
     \ within moves up to 10 years forward or backward (sphinx's choice). Only the\

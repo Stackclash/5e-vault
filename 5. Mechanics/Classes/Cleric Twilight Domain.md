@@ -81,7 +81,7 @@ You can use your Channel Divinity to refresh your allies with soothing twilight.
 
 As an action, you present your holy symbol, and a sphere of twilight emanates from you. The sphere is centered on you, has a 30-foot radius, and is filled with dim light. The sphere moves with you, and it lasts for 1 minute or until you are [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]] or die. Whenever a creature (including you) ends its turn in the sphere, you can grant that creature one of these benefits:
 
-- You grant it temporary hit points equal to `dice: 1d6|avg` (`1d6`) plus your cleric level.  
+- You grant it temporary hit points equal to `dice: 1d6|avg|noform` (`1d6`) plus your cleric level.  
 - You end one effect on it causing it to be [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] or [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]].  
 
 ### Steps of Night (Level 6)
@@ -94,13 +94,13 @@ You can draw on the mystical power of night to rise into the air. As a bonus act
 
 *8th-level Twilight Domain feature*
 
-You gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice: 1d8|avg` (`1d8`) radiant damage. When you reach 14th level, the extra damage increases to `dice: 2d8|avg` (`2d8`).
+You gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice: 1d8|avg|noform` (`1d8`) radiant damage. When you reach 14th level, the extra damage increases to `dice: 2d8|avg|noform` (`2d8`).
 
 ### Blessed Strikes (Level 8)
 
 *8th-level cleric [[/5. Mechanics/Rules/Variant Rules/Optional Class Features.md\|optional class features]], which replaces the Divine Strike feature*
 
-You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice: 1d8|avg` (`1d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
+You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice: 1d8|avg|noform` (`1d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 
 ### Twilight Shroud (Level 17)
 

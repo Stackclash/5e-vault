@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vgm
-aliases: ["Roleplaying a Giant; Giant Flaws"]
+  - compendium/src/5e/vgm
+aliases:
+  - Roleplaying a Giant; Giant Flaws
 ---
 # Roleplaying a Giant; Giant Flaws
 *Source: Volo's Guide to Monsters p. 23* 

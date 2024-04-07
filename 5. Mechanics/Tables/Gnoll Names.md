@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vgm
-aliases: ["Gnoll Names"]
+  - compendium/src/5e/vgm
+aliases:
+  - Gnoll Names
 ---
 # Gnoll Names
 *Source: Volo's Guide to Monsters p. 36* 

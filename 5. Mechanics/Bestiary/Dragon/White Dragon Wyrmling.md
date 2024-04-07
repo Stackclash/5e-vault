@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - White Dragon Wyrmling
 ---
-# [[5. Mechanics\Bestiary\Dragon\White Dragon Wyrmling.md|White Dragon Wyrmling]]
+# [[5. Mechanics/Bestiary/Dragon/White Dragon Wyrmling.md|White Dragon Wyrmling]]
 *Source: Monster Manual p. 102. Available in the SRD.*
 
 The smallest, least intelligent, and most animalistic of the chromatic dragons, white dragons dwell in frigid climes, favoring arctic areas or icy mountains. They are vicious, cruel reptiles driven by hunger and greed.
@@ -101,6 +101,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 "type": "dragon"
 "alignment": "Chaotic Evil"
 "ac": !!int "16"
+"ac_class": "natural armor"
 "hp": !!int "32"
 "hit_dice": "5d8 + 10"
 "stats":
@@ -124,12 +125,12 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 "languages": "Draconic"
 "cr": "2"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d10 + 2|avg (1d10 + 2) piercing damage plus dice: 1d4|avg\
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d10 + 2|text(7) (1d10 + 2) piercing damage plus dice:1d4|text(2)\
     \ (1d4) cold damage."
   "name": "Bite"
 - "desc": "The dragon exhales an icy blast of hail in a 15-foot cone. Each creature\
-    \ in that area must make a DC 12 Constitution saving throw, taking dice: 5d8|avg\
+    \ in that area must make a DC 12 Constitution saving throw, taking dice:5d8|text(22)\
     \ (5d8) cold damage on a failed save, or half as much damage on a successful\
     \ one."
   "name": "Cold Breath (Recharge 5-6)"

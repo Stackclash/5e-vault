@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- compendium/src/5e/vgm
-- deity/orc
-- domain/trickery
-aliases: ["Shargaas"]
+  - compendium/src/5e/vgm
+  - deity/orc
+  - domain/trickery
+aliases:
+  - Shargaas
 ---
 # Shargaas
 *Source: Volo's Guide to Monsters p. 84* 

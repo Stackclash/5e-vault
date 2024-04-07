@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vgm
-aliases: ["Roleplaying Gnolls and Cultists of Yeenoghu"]
+  - compendium/src/5e/vgm
+aliases:
+  - Roleplaying Gnolls and Cultists of Yeenoghu
 ---
 # Roleplaying Gnolls and Cultists of Yeenoghu
 *Source: Volo's Guide to Monsters p. 36* 

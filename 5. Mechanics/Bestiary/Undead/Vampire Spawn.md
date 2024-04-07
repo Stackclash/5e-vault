@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Vampire Spawn
 ---
-# [[5. Mechanics\Bestiary\Undead\Vampire Spawn.md|Vampire Spawn]]
+# [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md|Vampire Spawn]]
 *Source: Monster Manual p. 298, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD.*
 
 Awakened to an endless night, vampires hunger for the life they have lost and sate that hunger by drinking the blood of the living. Vampires abhor sunlight, for its touch burns them. They never cast shadows or reflections, and any vampire wishing to move unnoticed among the living keeps to the darkness and far from reflective surfaces.
@@ -66,6 +66,7 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
 "type": "undead"
 "alignment": "Neutral Evil"
 "ac": !!int "15"
+"ac_class": "natural armor"
 "hp": !!int "82"
 "hit_dice": "11d8 + 33"
 "stats":
@@ -107,19 +108,19 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
 "actions":
 - "desc": "The vampire makes two attacks, only one of which can be a bite attack."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one willing\
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one willing\
     \ creature, or a creature that is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ by the vampire, [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]],\
-    \ or [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]. Hit: dice: 1d6\
-    \ + 3|avg (1d6 + 3) piercing damage plus dice: 2d6|avg (2d6) necrotic damage.\
-    \ The target's hit point maximum is reduced by an amount equal to the necrotic\
-    \ damage taken, and the vampire regains hit points equal to that amount. The reduction\
-    \ lasts until the target finishes a long rest. The target dies if this effect\
-    \ reduces its hit point maximum to 0."
+    \ or [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]. Hit: dice:1d6\
+    \ + 3|text(6) (1d6 + 3) piercing damage plus dice:2d6|text(7) (2d6) necrotic\
+    \ damage. The target's hit point maximum is reduced by an amount equal to the\
+    \ necrotic damage taken, and the vampire regains hit points equal to that amount.\
+    \ The reduction lasts until the target finishes a long rest. The target dies if\
+    \ this effect reduces its hit point maximum to 0."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 2d4 + 3|avg (2d4 + 3) slashing damage. Instead of dealing damage,\
-    \ the vampire can grapple the target (escape DC 13)."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one creature.\
+    \ Hit: dice:2d4 + 3|text(8) (2d4 + 3) slashing damage. Instead of dealing\
+    \ damage, the vampire can grapple the target (escape DC 13)."
   "name": "Claws"
 "source":
 - "MM"

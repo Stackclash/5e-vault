@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vgm
-aliases: ["Kobold Names"]
+  - compendium/src/5e/vgm
+aliases:
+  - Kobold Names
 ---
 # Kobold Names
 *Source: Volo's Guide to Monsters p. 66* 

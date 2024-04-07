@@ -12,7 +12,6 @@ aliases:
   - Conjure Elemental
 ---
 # Conjure Elemental
-%%-- Embedded content starts on the next line. --%%
 *5th-level, Conjuration*  
 
 - **Casting time:** 1 minute

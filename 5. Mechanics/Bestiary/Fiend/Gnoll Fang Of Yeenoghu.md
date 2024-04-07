@@ -14,7 +14,7 @@ statblock: inline
 aliases:
   - Gnoll Fang of Yeenoghu
 ---
-# [[5. Mechanics\Bestiary\Fiend\Gnoll Fang Of Yeenoghu.md|Gnoll Fang of Yeenoghu]]
+# [[5. Mechanics/Bestiary/Fiend/Gnoll Fang Of Yeenoghu.md|Gnoll Fang of Yeenoghu]]
 *Source: Monster Manual p. 163*
 
 Gnolls celebrate their victories by performing demonic rituals and making blood offerings to Yeenoghu.
@@ -46,6 +46,7 @@ No goodness or compassion resides in the heart of a gnoll. Like a demon, it lack
 "subtype": "gnoll"
 "alignment": "Chaotic Evil"
 "ac": !!int "14"
+"ac_class": "[[5. Mechanics/Items/Hide Armor.md|hide armor]]"
 "hp": !!int "65"
 "hit_dice": "10d8 + 20"
 "stats":
@@ -71,13 +72,13 @@ No goodness or compassion resides in the heart of a gnoll. Like a demon, it lack
 "actions":
 - "desc": "The gnoll makes three attacks: one with its bite and two with its claws."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage, and the target must\
-    \ succeed on a DC 12 Constitution saving throw or take dice: 2d6|avg (2d6)\
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one creature.\
+    \ Hit: dice:1d6 + 3|text(6) (1d6 + 3) piercing damage, and the target must\
+    \ succeed on a DC 12 Constitution saving throw or take dice:2d6|text(7) (2d6)\
     \ poison damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 3|text(7) (1d8 + 3) slashing damage."
   "name": "Claw"
 "source":
 - "MM"

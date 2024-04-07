@@ -2,16 +2,17 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/vgm
-- monster/cr/1-8
-- monster/environment/hill
-- monster/environment/underdark
-- monster/size/small
-- monster/type/humanoid/xvart
+  - compendium/src/5e/vgm
+  - monster/cr/1-8
+  - monster/environment/hill
+  - monster/environment/underdark
+  - monster/size/small
+  - monster/type/humanoid/xvart
 statblock: inline
-aliases: ["Xvart Speaker"]
+aliases:
+  - Xvart Speaker
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Xvart Speaker.md|Xvart Speaker]]
+# [[5. Mechanics/Bestiary/Humanoid/Xvart Speaker.md|Xvart Speaker]]
 *Source: Volo's Guide to Monsters p. 200*
 
 Xvarts are cruel, cowardly humanoids spawned by a cowardly, renegade demigod. They have blue skin, vivid orange eyes, and receding hairlines, mirroring their creator's appearance. They stand about 3 feet tall.
@@ -61,6 +62,7 @@ Raxivort's warlocks are respected and feared in xvart society, but they have lit
 "subtype": "xvart"
 "alignment": "Chaotic Evil"
 "ac": !!int "13"
+"ac_class": "[[5. Mechanics/Items/Leather Armor.md|leather armor]]"
 "hp": !!int "7"
 "hit_dice": "2d6"
 "stats":
@@ -88,11 +90,11 @@ Raxivort's warlocks are respected and feared in xvart society, but they have lit
     \ bats and giant rats."
   "name": "Raxivort's Tongue"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 2|text(5) (1d6 + 2) piercing damage."
   "name": "Shortsword"
-- "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 30/120 ft., one\
-    \ target. Hit: dice: 1d4 + 2|avg (1d4 + 2) bludgeoning damage."
+- "desc": "Ranged Weapon Attack: dice: d20+4 (+4) to hit, range 30/120 ft.,\
+    \ one target. Hit: dice:1d4 + 2|text(4) (1d4 + 2) bludgeoning damage."
   "name": "Sling"
 "source":
 - "VGM"

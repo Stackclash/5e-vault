@@ -106,4 +106,4 @@ Many terrors lurk in the shadows—some in the corner of perception, and others 
 
 The creatures in this chapter are organized by their challenge rating in the Creatures by Challenge Rating table.
 
-![Bestiary; Creatures by Challenge Rating](compendium/tables/bestiary-creatures-by-challenge-rating-vrgr.md)
+![[5. Mechanics/Tables/Bestiary Creatures By Challenge Rating.md\|Bestiary; Creatures by Challenge Rating]]

@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Adult Red Dragon
 ---
-# [[5. Mechanics\Bestiary\Dragon\Adult Red Dragon.md|Adult Red Dragon]]
+# [[5. Mechanics/Bestiary/Dragon/Adult Red Dragon.md|Adult Red Dragon]]
 *Source: Monster Manual p. 98. Available in the SRD and the Basic Rules.*
 
 The most covetous of the true dragons, red dragons tirelessly seek to increase their treasure hoards. They are exceptionally vain, even for dragons, and their conceit is reflected in their proud bearing and their disdain for other creatures. The odor of sulfur and pumice surrounds a red dragon, whose swept-back horns and spinal frill define its silhouette. Its beaked snout vents smoke at all times, and its eyes dance with flame when it is angry. Its wings are the longest of any chromatic dragon, and have a blue-black tint along the trailing edge that resembles metal burned blue by fire.
@@ -99,6 +99,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 "type": "dragon"
 "alignment": "Chaotic Evil"
 "ac": !!int "19"
+"ac_class": "natural armor"
 "hp": !!int "256"
 "hit_dice": "19d12 + 133"
 "stats":
@@ -128,15 +129,15 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "desc": "The dragon can use its Frightful Presence. It then makes three attacks:\
     \ one with its bite and two with its claws."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+14 (+14 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d10 + 8|avg (2d10 + 8) piercing damage plus dice: 2d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+14 (+14) to hit, reach 10 ft., one\
+    \ target. Hit: dice:2d10 + 8|text(19) (2d10 + 8) piercing damage plus dice:2d6|text(7)\
     \ (2d6) fire damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+14 (+14 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 8|avg (2d6 + 8) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+14 (+14) to hit, reach 5 ft., one\
+    \ target. Hit: dice:2d6 + 8|text(15) (2d6 + 8) slashing damage."
   "name": "Claw"
-- "desc": "Melee Weapon Attack: dice: d20+14 (+14 to hit), reach 15 ft., one target.\
-    \ Hit: dice: 2d8 + 8|avg (2d8 + 8) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+14 (+14) to hit, reach 15 ft., one\
+    \ target. Hit: dice:2d8 + 8|text(17) (2d8 + 8) bludgeoning damage."
   "name": "Tail"
 - "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
     \ and aware of it must succeed on a DC 19 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
@@ -146,8 +147,8 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ Frightful Presence for the next 24 hours."
   "name": "Frightful Presence"
 - "desc": "The dragon exhales fire in a 60-foot cone. Each creature in that area must\
-    \ make a DC 21 Dexterity saving throw, taking dice: 18d6|avg (18d6) fire damage\
-    \ on a failed save, or half as much damage on a successful one."
+    \ make a DC 21 Dexterity saving throw, taking dice:18d6|text(63) (18d6) fire\
+    \ damage on a failed save, or half as much damage on a successful one."
   "name": "Fire Breath (Recharge 5-6)"
 "legendary_actions":
 - "desc": "The dragon makes a Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
@@ -156,8 +157,8 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "desc": "The dragon makes a tail attack."
   "name": "Tail Attack"
 - "desc": "The dragon beats its wings. Each creature within 10 feet of the dragon\
-    \ must succeed on a DC 22 Dexterity saving throw or take dice: 2d6 + 8|avg (2d6\
-    \ + 8) bludgeoning damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
+    \ must succeed on a DC 22 Dexterity saving throw or take dice:2d6 + 8|text(15)\
+    \ (2d6 + 8) bludgeoning damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
     \ The dragon can then fly up to half its flying speed."
   "name": "Wing Attack (Costs 2 Actions)"
 "lair_actions":
@@ -167,7 +168,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   "name": ""
 - "desc": "- Magma erupts from a point on the ground the dragon can see within 120\
     \ feet of it, creating a 20-foot-high, 5-foot-radius geyser. Each creature in\
-    \ the geyser's area must make a DC 15 Dexterity saving throw, taking dice: 6d6|avg\
+    \ the geyser's area must make a DC 15 Dexterity saving throw, taking dice:6d6|text(21)\
     \ (6d6) fire damage on a failed save, or half as much damage on a successful\
     \ one.  \n- A tremor shakes the lair in a 60-foot radius around the dragon. Each\
     \ creature other than the dragon on the ground in that area must succeed on a\
@@ -193,9 +194,9 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ next round.  \n- Searing Heat. Searing heat spreads out in a 15-foot-radius\
     \ sphere centered on a point the dragon can see within 120 feet of it. Any creature\
     \ that enters the affected area or starts its turn there must make a DC 15 Constitution\
-    \ saving throw, taking dice: 3d6|avg (3d6) fire damage on a failed save, or\
-    \ half as much damage on a successful one. The heat lasts until initiative count\
-    \ 20 on the next round.  "
+    \ saving throw, taking dice:3d6|text(10) (3d6) fire damage on a failed save,\
+    \ or half as much damage on a successful one. The heat lasts until initiative\
+    \ count 20 on the next round.  "
   "name": "Additional Lair Actions"
 "regional_effects":
 - "desc": "The region containing a legendary red dragon's lair is warped by the dragon's\
@@ -207,7 +208,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ to the Elemental Plane of Fire, allowing creatures of elemental fire into the\
     \ world to dwell nearby.  "
   "name": ""
-- "desc": "If the dragon dies, these effects fade over the course of dice: 1d10|avg\
+- "desc": "If the dragon dies, these effects fade over the course of dice: 1d10|avg|noform\
     \ (1d10) days."
   "name": ""
 - "desc": "Any of these effects might appear in the area around a red dragon's lair,\

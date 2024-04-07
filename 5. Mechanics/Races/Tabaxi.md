@@ -27,7 +27,7 @@ Your walking speed is 30 feet, and you have a climbing speed equal to your walki
 
 ### Cat's Claws
 
-You can use your claws to make unarmed strikes. When you hit with them, the strike deals `dice: 1d6|avg` (`1d6`) + your Strength modifier slashing damage, instead of the bludgeoning damage normal for an unarmed strike.
+You can use your claws to make unarmed strikes. When you hit with them, the strike deals `dice: 1d6|avg|noform` (`1d6`) + your Strength modifier slashing damage, instead of the bludgeoning damage normal for an unarmed strike.
 
 ### Cat's Talent
 

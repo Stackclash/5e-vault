@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Avatar of Death (DMG)
 ---
-# [[5. Mechanics\Bestiary\Undead\Avatar Of Death.md|Avatar of Death (DMG)]]
+# [[5. Mechanics/Bestiary/Undead/Avatar Of Death.md|Avatar of Death (DMG)]]
 *Source: Dungeon Master's Guide p. 164, Tasha's Cauldron of Everything. Available in the SRD.*
 
 Summoned by the "Skull" card from the [[5. Mechanics/Items/Deck Of Many Things.md|Deck of Many Things]].
@@ -37,14 +37,14 @@ Summoned by the "Skull" card from the [[5. Mechanics/Items/Deck Of Many Things.m
 "languages": "all languages known to its summoner"
 "traits":
 - "desc": "The avatar can move through other creatures and objects as if they were\
-    \ difficult terrain. It takes dice: 1d10|avg (1d10) force damage if it ends\
-    \ its turn inside an object."
+    \ difficult terrain. It takes dice:1d10|text(5) (1d10) force damage if it\
+    \ ends its turn inside an object."
   "name": "Incorporeal Movement"
 - "desc": "The avatar is immune to features that turn undead."
   "name": "Turn Immunity"
 "actions":
 - "desc": "The avatar sweeps its spectral scythe through a creature within 5 feet\
-    \ of it, dealing dice: 1d8 + 3|avg (1d8 + 3) slashing damage plus dice: 1d8|avg\
+    \ of it, dealing dice:1d8 + 3|text(7) (1d8 + 3) slashing damage plus dice:1d8|text(4)\
     \ (1d8) necrotic damage."
   "name": "Reaping Scythe"
 "source":

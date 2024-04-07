@@ -30,7 +30,7 @@ Whenever you use it to reduce a creature to 0 hit points, the sword slays the cr
 
 When it devours a soul, Blackrazor grants you temporary hit points equal to the slain creature's hit point maximum. These hit points fade after 24 hours. As long as these temporary hit points last and you keep Blackrazor in hand, you have advantage on attack rolls, saving throws, and ability checks.
 
-If you hit an undead with this weapon, you take `dice: 1d10|avg` (`1d10`) necrotic damage and the target regains `dice: 1d10|avg` (`1d10`) hit points. If this necrotic damage reduces you to 0 hit points, Blackrazor devours your soul.
+If you hit an undead with this weapon, you take `dice: 1d10|avg|noform` (`1d10`) necrotic damage and the target regains `dice: 1d10|avg|noform` (`1d10`) hit points. If this necrotic damage reduces you to 0 hit points, Blackrazor devours your soul.
 
 ## Soul Hunter
 

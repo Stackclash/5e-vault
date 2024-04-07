@@ -39,7 +39,7 @@ Starting at 1st level, when you reduce a hostile creature to 0 hit points, you g
 
 ### Dark One's Own Luck (Level 6)
 
-Starting at 6th level, you can call on your patron to alter fate in your favor. When you make an ability check or a saving throw, you can use this feature to add a `dice: d10|avg` (`d10`) to your roll. You can do so after seeing the initial roll but before any of the roll's effects occur.
+Starting at 6th level, you can call on your patron to alter fate in your favor. When you make an ability check or a saving throw, you can use this feature to add a `dice: d10|avg|noform` (`d10`) to your roll. You can do so after seeing the initial roll but before any of the roll's effects occur.
 
 Once you use this feature, you can't use it again until you finish a short or long rest.
 
@@ -51,6 +51,6 @@ Starting at 10th level, you can choose one damage type when you finish a short o
 
 Starting at 14th level, when you hit a creature with an attack, you can use this feature to instantly transport the target through the lower planes. The creature disappears and hurtles through a nightmare landscape.
 
-At the end of your next turn, the target returns to the space it previously occupied, or the nearest unoccupied space. If the target is not a fiend, it takes `dice: 10d10|avg` (`10d10`) psychic damage as it reels from its horrific experience.
+At the end of your next turn, the target returns to the space it previously occupied, or the nearest unoccupied space. If the target is not a fiend, it takes `dice: 10d10|avg|noform` (`10d10`) psychic damage as it reels from its horrific experience.
 
 Once you use this feature, you can't use it again until you finish a long rest.

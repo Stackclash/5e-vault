@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- compendium/src/5e/vgm
-- deity/orc
-- domain/war
-aliases: ["Ilneval"]
+  - compendium/src/5e/vgm
+  - deity/orc
+  - domain/war
+aliases:
+  - Ilneval
 ---
 # Ilneval
 *Source: Volo's Guide to Monsters p. 83* 

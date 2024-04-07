@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Displacer Beast
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Displacer Beast.md|Displacer Beast]]
+# [[5. Mechanics/Bestiary/Monstrosity/Displacer Beast.md|Displacer Beast]]
 *Source: Monster Manual p. 81, Eberron: Rising from the Last War*
 
 This monstrous predator takes its name from its ability to displace light so that it appears to be several feet away from its actual location. A displacer beast resembles a sleek great cat covered in blue-black fur.
@@ -36,6 +36,7 @@ Displacer beasts hunt alone or in small prides that demonstrate skill at setting
 "type": "monstrosity"
 "alignment": "Lawful Evil"
 "ac": !!int "13"
+"ac_class": "natural armor"
 "hp": !!int "85"
 "hit_dice": "10d10 + 30"
 "stats":
@@ -64,8 +65,8 @@ Displacer beasts hunt alone or in small prides that demonstrate skill at setting
 "actions":
 - "desc": "The displacer beast makes two attacks with its tentacles."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 1d6 + 4|avg (1d6 + 4) bludgeoning damage plus dice: 1d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 10 ft., one target.\
+    \ Hit: dice:1d6 + 4|text(7) (1d6 + 4) bludgeoning damage plus dice:1d6|text(3)\
     \ (1d6) piercing damage."
   "name": "Tentacle"
 "source":

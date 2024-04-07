@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Mantis Knight
 ---
-# [[5. Mechanics\Bestiary\Fey\Mantis Knight.md|Mantis Knight]]
+# [[5. Mechanics/Bestiary/Fey/Mantis Knight.md|Mantis Knight]]
 *Source: Strongholds and Followers p. 176*
 
 The swashbuckling adventurers of the Arcadians, the Mantis Knights love dueling and drinking and terrible poetry. The greatest of them, like Lady Eweshtleth, keep an air of grave dignity about them, because they have known battle across the Myriad Worlds. But most Mantis Knights just want to show up, do something dashing and acrobatic, spit an enemy upon their sword, and then go carousing with the mortals who summoned them.
@@ -27,6 +27,7 @@ Otherwise, they enjoy dancing around the battlefield, laying into enemies with t
 "type": "fey"
 "alignment": "Chaotic"
 "ac": !!int "16"
+"ac_class": "natural armor"
 "hp": !!int "71"
 "hit_dice": "11d8 + 22"
 "stats":
@@ -72,8 +73,8 @@ Otherwise, they enjoy dancing around the battlefield, laying into enemies with t
 - "desc": "The knight makes four attacks with its rapiers, or makes two attacks and\
     \ casts heroism or shield of faith on an ally."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 4|text(8) (1d8 + 4) piercing damage."
   "name": "Rapier"
 "source":
 - "SaF"

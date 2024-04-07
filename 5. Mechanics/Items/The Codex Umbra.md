@@ -36,7 +36,7 @@ Once per day as an action, you can summon 6 shadows, placing each anywhere withi
 
 Once per year as an action, you can summon a round spire made of solid darkness. The tower is 30 feet in diameter and 40 feet high with windows on all sides and a battlement on top. The interior is divided into three floors, with a spiral staircase on the inner wall connecting them. The stairs end at a trapdoor leading to the roof. When summoned, the tower side facing you has a door proportional to your size. The door will only open on your command, which you can speak as a bonus action. Magic of less than 7th level will not open the door.
 
-Each creature in the area where the tower appears must make a DC 13 Dexterity saving throw, taking `dice: 12d10|avg` (`12d10`) bludgeoning damage on a failed save, or half as much damage on a successful one. All creatures in the area are pushed to an unoccupied space outside but next to the tower. Objects in the area are pushed automatically.
+Each creature in the area where the tower appears must make a DC 13 Dexterity saving throw, taking `dice: 12d10|avg|noform` (`12d10`) bludgeoning damage on a failed save, or half as much damage on a successful one. All creatures in the area are pushed to an unoccupied space outside but next to the tower. Objects in the area are pushed automatically.
 
 The sky above the tower is always dark, and the tower itself is made of substantial shadow and melds with the ground, preventing it from being tipped over. The roof, door, and walls each have 90 hit points, immunity to damage from nonmagical weapons except siege weapons, and resistance to all other damage. It cannot be repaired, but can be dismissed as an action. The next time the tower is summoned, it is complete and free of damage.
 

@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Horned Devil
 ---
-# [[5. Mechanics\Bestiary\Fiend\Horned Devil.md|Horned Devil]]
+# [[5. Mechanics/Bestiary/Fiend/Horned Devil.md|Horned Devil]]
 *Source: Monster Manual p. 74. Available in the SRD.*
 
 Horned devils are lazy to the point of belligerence and reluctant to put themselves in harm's way. Moreover, they hate and fear any creature stronger than themselves. When they are sufficiently provoked or antagonized, the fury of these fiends can be terrifying.
@@ -128,11 +128,11 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 > 
 > - A barbed devil has a 30% chance chance of summoning one barbed devil.  
 > - A bearded devil has a 30% chance chance of summoning one bearded devil.  
-> - A bone devil has a 40% chance chance of summoning `dice: 2d6|avg` (`2d6`) spined devils or one bone devil.  
-> - An erinyes has a 50% chance chance of summoning `dice: 3d6|avg` (`3d6`) spined devils, `dice: 1d6|avg` (`1d6`) bearded devils, or one erinyes.  
+> - A bone devil has a 40% chance chance of summoning `dice: 2d6|avg|noform` (`2d6`) spined devils or one bone devil.  
+> - An erinyes has a 50% chance chance of summoning `dice: 3d6|avg|noform` (`3d6`) spined devils, `dice: 1d6|avg|noform` (`1d6`) bearded devils, or one erinyes.  
 > - A horned devil has a 30% chance chance of summoning one horned devil.  
 > - An ice devil has a 60% chance chance of summoning one ice devil.  
-> - A pit fiend summons `dice: 2d4|avg` (`2d4`) bearded devils, `dice: 1d4|avg` (`1d4`) barbed devils, or one erinyes with no chance of failure.  
+> - A pit fiend summons `dice: 2d4|avg|noform` (`2d4`) bearded devils, `dice: 1d4|avg|noform` (`1d4`) barbed devils, or one erinyes with no chance of failure.  
 > 
 > A summoned devil appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other devils. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 ^variant-devil-summoning
@@ -144,6 +144,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 "subtype": "devil"
 "alignment": "Lawful Evil"
 "ac": !!int "18"
+"ac_class": "natural armor"
 "hp": !!int "178"
 "hit_dice": "17d10 + 85"
 "stats":
@@ -176,22 +177,22 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - "desc": "The devil makes three melee attacks: two with its fork and one with its\
     \ tail. It can use Hurl Flame in place of any melee attack."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d8 + 6|avg (2d8 + 6) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+10 (+10) to hit, reach 10 ft., one\
+    \ target. Hit: dice:2d8 + 6|text(15) (2d8 + 6) piercing damage."
   "name": "Fork"
-- "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 1d8 + 6|avg (1d8 + 6) piercing damage. If the target is a creature\
-    \ other than an undead or a construct, it must succeed on a DC 17 Constitution\
-    \ saving throw or lose dice: 3d6|avg (3d6) hit points at the start of each\
-    \ of its turns due to an infernal wound. Each time the devil hits the wounded\
-    \ target with this attack, the damage dealt by the wound increases by dice: 3d6|avg\
-    \ (3d6). Any creature can take an action to stanch the wound with a successful\
-    \ DC 12 Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) check. The wound\
-    \ also closes if the target receives magical healing."
+- "desc": "Melee Weapon Attack: dice: d20+10 (+10) to hit, reach 10 ft., one\
+    \ target. Hit: dice:1d8 + 6|text(10) (1d8 + 6) piercing damage. If the target\
+    \ is a creature other than an undead or a construct, it must succeed on a DC 17\
+    \ Constitution saving throw or lose dice:3d6|text(10) (3d6) hit points at\
+    \ the start of each of its turns due to an infernal wound. Each time the devil\
+    \ hits the wounded target with this attack, the damage dealt by the wound increases\
+    \ by dice:3d6|text(10) (3d6). Any creature can take an action to stanch the\
+    \ wound with a successful DC 12 Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]])\
+    \ check. The wound also closes if the target receives magical healing."
   "name": "Tail"
-- "desc": "Ranged Spell Attack: dice: d20+7 (+7 to hit), range 150 ft., one target.\
-    \ Hit: dice: 4d6|avg (4d6) fire damage. If the target is a flammable object\
-    \ that isn't being worn or carried, it also catches fire."
+- "desc": "Ranged Spell Attack: dice: d20+7 (+7) to hit, range 150 ft., one\
+    \ target. Hit: dice:4d6|text(14) (4d6) fire damage. If the target is a flammable\
+    \ object that isn't being worn or carried, it also catches fire."
   "name": "Hurl Flame"
 "source":
 - "MM"

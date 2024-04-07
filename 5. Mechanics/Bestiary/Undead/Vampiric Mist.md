@@ -18,7 +18,7 @@ statblock: inline
 aliases:
   - Vampiric Mist
 ---
-# [[5. Mechanics\Bestiary\Undead\Vampiric Mist.md|Vampiric Mist]]
+# [[5. Mechanics/Bestiary/Undead/Vampiric Mist.md|Vampiric Mist]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 250, Mordenkainen's Tome of Foes p. 246*
 
 In billowing clouds of fog lurk vampiric mists, the wretched remnants of [[5. Mechanics/Bestiary/Undead/Vampire.md|vampires]] that were prevented from finding rest. Indistinguishable from the mists they lurk within, they strike unseen and undetected to bleed their victims dry.
@@ -78,7 +78,7 @@ Like sharks in water, vampiric mists can scent blood from up to a mile away. Any
 "actions":
 - "desc": "The mist touches one creature in its space. The target must succeed on\
     \ a DC 13 Constitution saving throw (Undead and Constructs automatically succeed),\
-    \ or it takes dice: 2d6 + 3|avg (2d6 + 3) necrotic damage, the mist regains\
+    \ or it takes dice:2d6 + 3|text(10) (2d6 + 3) necrotic damage, the mist regains\
     \ 10 hit points, and the target's hit point maximum is reduced by an amount equal\
     \ to the necrotic damage taken. This reduction lasts until the target finishes\
     \ a long rest. The target dies if its hit point maximum is reduced to 0."

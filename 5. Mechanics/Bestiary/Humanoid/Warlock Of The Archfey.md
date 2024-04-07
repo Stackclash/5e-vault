@@ -15,7 +15,7 @@ statblock: inline
 aliases:
   - Warlock of the Archfey
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Warlock Of The Archfey.md|Warlock of the Archfey]]
+# [[5. Mechanics/Bestiary/Humanoid/Warlock Of The Archfey.md|Warlock of the Archfey]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 255, Volo's Guide to Monsters p. 219*
 
 Warlocks of the Archfey gain their powers through magical pacts forged with lords of the Feywild. These warlocks commonly associate with lesser Fey creatures such as [[5. Mechanics/Bestiary/Fey/Boggle.md|boggles]], [[5. Mechanics/Bestiary/Fey/Quickling.md|quicklings]], and [[5. Mechanics/Bestiary/Fey/Redcap.md|redcaps]] (all appear in "this book") or even [[5. Mechanics/Bestiary/Fey/Satyr.md|satyrs]] and [[5. Mechanics/Bestiary/Fey/Sprite.md|sprites]].
@@ -30,6 +30,7 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "13"
+"ac_class": "16 with [[5. Mechanics/Spells/Mage Armor.md|mage armor]]"
 "hp": !!int "67"
 "hit_dice": "15d8"
 "stats":
@@ -64,13 +65,13 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
 "actions":
 - "desc": "The warlock makes two Rapier attacks, or it uses Bewildering Word twice."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) piercing damage plus dice: 2d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 3|text(7) (1d8 + 3) piercing damage plus dice:2d6|text(7)\
     \ (2d6) piercing damage."
   "name": "Rapier"
 - "desc": "The warlock utters a magical bewilderment, targeting one creature it can\
     \ see within 60 feet of it. The target must succeed on a DC 14 Wisdom saving throw\
-    \ or take dice: 2d8|avg (2d8) psychic damage and have disadvantage on attack\
+    \ or take dice:2d8|text(9) (2d8) psychic damage and have disadvantage on attack\
     \ rolls until the end of the warlock's next turn."
   "name": "Bewildering Word"
 "reactions":

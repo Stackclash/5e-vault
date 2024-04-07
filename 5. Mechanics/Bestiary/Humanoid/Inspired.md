@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Inspired
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Inspired.md|Inspired]]
+# [[5. Mechanics/Bestiary/Humanoid/Inspired.md|Inspired]]
 *Source: Eberron: Rising from the Last War p. 294*
 
 The rulers of distant Sarlona are known as the Inspired. These noble families are said to be bound to celestial spirits that guide and empower them, but the truth is far darker. The Inspired are the mortal hosts of the nightmare spirits of Dal Quor, and they carry out the foul agenda of the Dreaming Dark.
@@ -26,6 +26,7 @@ Most of the people of the Five Nations have heard of the Inspired lords in Riedr
 "subtype": "human"
 "alignment": "Lawful Evil"
 "ac": !!int "12"
+"ac_class": "15 with [[5. Mechanics/Spells/Mage Armor.md|mage armor]]"
 "hp": !!int "40"
 "hit_dice": "9d8"
 "stats":
@@ -62,15 +63,15 @@ Most of the people of the Five Nations have heard of the Inspired lords in Riedr
 - "desc": "The Inspired makes two crysteel dagger attacks. It can replace one attack\
     \ with vicious mockery."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage plus dice: 3d6|avg\
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d4 + 2|text(4) (1d4 + 2) piercing damage plus dice:3d6|text(10)\
     \ (3d6) force damage."
   "name": "Crysteel Dagger"
 - "desc": "The Inspired unleashes a string of insults laced with subtle enchantments\
     \ at one creature it can see within 60 feet of it. If the target can hear the\
-    \ Inspired, the target must succeed on a DC 13 Wisdom saving throw or take dice:\
-    \ 1d4|avg (1d4) psychic damage and have disadvantage on the next attack roll\
-    \ it makes before the end of its next turn."
+    \ Inspired, the target must succeed on a DC 13 Wisdom saving throw or take dice:1d4|text(2)\
+    \ (1d4) psychic damage and have disadvantage on the next attack roll it makes\
+    \ before the end of its next turn."
   "name": "Vicious Mockery (Cantrip)"
 "source":
 - "ERLW"

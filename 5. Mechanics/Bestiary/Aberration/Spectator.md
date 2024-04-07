@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Spectator
 ---
-# [[5. Mechanics\Bestiary\Aberration\Spectator.md|Spectator]]
+# [[5. Mechanics/Bestiary/Aberration/Spectator.md|Spectator]]
 *Source: Monster Manual p. 30. Available in the Basic Rules.*
 
 A spectator is a lesser beholder that is summoned from another plane of existence by a magical ritual, the components of which include four beholder eyestalks that are consumed by the ritual's magic. Appropriately, a spectator has four eyestalks, two on each side of the wide eye at the center of its four-foot diameter body.
@@ -36,6 +36,7 @@ When a spectator has fulfilled its service, it is free to do as it pleases. Many
 "type": "aberration"
 "alignment": "Lawful Neutral"
 "ac": !!int "14"
+"ac_class": "natural armor"
 "hp": !!int "39"
 "hit_dice": "6d8 + 12"
 "stats":
@@ -53,8 +54,8 @@ When a spectator has fulfilled its service, it is free to do as it pleases. Many
 "languages": "Deep Speech, Undercommon, telepathy 120 ft."
 "cr": "3"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+1 (+1 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 - 1|avg (1d6 - 1) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+1 (+1) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 - 1|text(2) (1d6 - 1) piercing damage."
   "name": "Bite"
 - "desc": "The spectator shoots up to two of the following magical eye rays at one\
     \ or two creatures it can see within 90 feet of it. It can use each ray only once\
@@ -70,7 +71,7 @@ When a spectator has fulfilled its service, it is free to do as it pleases. Many
     \ for 1 minute. The target can repeat the saving throw at the end of each of its\
     \ turns, with disadvantage if the spectator is visible to the target, ending the\
     \ effect on itself on a success.  \n- 4. Wounding Ray. The target must make\
-    \ a DC 13 Constitution saving throw, taking dice: 3d10|avg (3d10) necrotic\
+    \ a DC 13 Constitution saving throw, taking dice:3d10|text(16) (3d10) necrotic\
     \ damage on a failed save, or half as much damage on a successful one.  "
   "name": "Eye Rays"
 - "desc": "The spectator magically creates enough food and water to sustain itself\

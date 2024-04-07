@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Princip
 ---
-# [[5. Mechanics\Bestiary\Celestial\Princip.md|Princip]]
+# [[5. Mechanics/Bestiary/Celestial/Princip.md|Princip]]
 *Source: Strongholds and Followers p. 155*
 
 Herald of the Righteous Power, the Princip arrives ready to crown an ally, bestowing on them a greater destiny, granting them immunity to spells that charm or dominate and raising one ability to god-like levels.
@@ -43,6 +43,7 @@ Um, what? The endless what now? Well, it tried. It probably means, "You're gonna
 "type": "celestial"
 "alignment": "Any Good alignment"
 "ac": !!int "15"
+"ac_class": "natural armor"
 "hp": !!int "82"
 "hit_dice": "11d8 + 33"
 "stats":
@@ -72,8 +73,8 @@ Um, what? The endless what now? Well, it tried. It probably means, "You're gonna
     \ [[5. Mechanics/Spells/Stoneskin.md|stoneskin]]"
   "name": "innate"
 - "desc": "The princip's weapon attacks are magical. When the princip hits with any\
-    \ weapon, the weapon deals an extra dice: 2d8|avg (2d8) radiant damage (included\
-    \ in the attack)."
+    \ weapon, the weapon deals an extra dice:2d8|text(9) (2d8) radiant damage\
+    \ (included in the attack)."
   "name": "Angelic Weapons"
 - "desc": "The princip has advantage on saving throws against spells and other magical\
     \ effects from evil characters and sources."
@@ -88,8 +89,8 @@ Um, what? The endless what now? Well, it tried. It probably means, "You're gonna
 "actions":
 - "desc": "The princip makes three attacks with the Scepter of Celestial Will."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 3|avg (2d8 + 3) bludgeoning damage and dice: 2d8|avg\
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d8 + 3|text(12) (2d8 + 3) bludgeoning damage and dice:2d8|text(9)\
     \ (2d8) radiant damage."
   "name": "Scepter of Celestial Will"
 - "desc": "The princip selects an ally. A golden crown appears over the ally's head.\

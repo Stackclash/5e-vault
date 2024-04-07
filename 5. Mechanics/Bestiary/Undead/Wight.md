@@ -14,7 +14,7 @@ statblock: inline
 aliases:
   - Wight
 ---
-# [[5. Mechanics\Bestiary\Undead\Wight.md|Wight]]
+# [[5. Mechanics/Bestiary/Undead/Wight.md|Wight]]
 *Source: Monster Manual p. 300, Curse of Strahd. Available in the SRD and the Basic Rules.*
 
 The word "wight" meant "person" in days of yore, but the name now refers to evil undead who were once mortals driven by dark desire and great vanity. When death stills such a creature's heart and snuffs its living breath, its spirit cries out to the demon lord Orcus or some vile god of the underworld for a reprieve: undeath in return for eternal war on the living. If a dark power answers the call, the spirit is granted undeath so that it can pursue its own malevolent agenda.
@@ -43,6 +43,7 @@ A wight doesn't require air, food, drink, or sleep.
 "type": "undead"
 "alignment": "Neutral Evil"
 "ac": !!int "14"
+"ac_class": "[[5. Mechanics/Items/Studded Leather Armor.md|studded leather]]"
 "hp": !!int "45"
 "hit_dice": "6d8 + 18"
 "stats":
@@ -73,8 +74,8 @@ A wight doesn't require air, food, drink, or sleep.
 - "desc": "The wight makes two longsword attacks or two longbow attacks. It can use\
     \ its Life Drain in place of one longsword attack."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) necrotic damage. The target must succeed\
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one creature.\
+    \ Hit: dice:1d6 + 2|text(5) (1d6 + 2) necrotic damage. The target must succeed\
     \ on a DC 13 Constitution saving throw or its hit point maximum is reduced by\
     \ an amount equal to the damage taken. This reduction lasts until the target finishes\
     \ a long rest. The target dies if this effect reduces its hit point maximum to\
@@ -83,12 +84,12 @@ A wight doesn't require air, food, drink, or sleep.
     \ is destroyed. The wight can have no more than twelve zombies under its control\
     \ at one time."
   "name": "Life Drain"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 2|avg (1d8 + 2) slashing damage, or dice: 1d10 + 2|avg\
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 2|text(6) (1d8 + 2) slashing damage, or dice:1d10 + 2|text(7)\
     \ (1d10 + 2) slashing damage if used with two hands."
   "name": "Longsword"
-- "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 150/600 ft., one\
-    \ target. Hit: dice: 1d8 + 2|avg (1d8 + 2) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+4 (+4) to hit, range 150/600 ft.,\
+    \ one target. Hit: dice:1d8 + 2|text(6) (1d8 + 2) piercing damage."
   "name": "Longbow"
 "source":
 - "MM"

@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Lizard King
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Lizard King.md|Lizard King]]
+# [[5. Mechanics/Bestiary/Humanoid/Lizard King.md|Lizard King]]
 *Source: Monster Manual p. 205, Tasha's Cauldron of Everything*
 
 Lizardfolk are primitive reptilian humanoids that lurk in the swamps and jungles of the world. Their hut villages thrive in forbidding grottos, half-sunken ruins, and watery caverns.
@@ -59,6 +59,7 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
 "subtype": "lizardfolk"
 "alignment": "Chaotic Evil"
 "ac": !!int "15"
+"ac_class": "natural armor"
 "hp": !!int "78"
 "hit_dice": "12d8 + 24"
 "stats":
@@ -84,22 +85,22 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
 - "desc": "The lizardfolk can hold its breath for 15 minutes."
   "name": "Hold Breath"
 - "desc": "Once per turn, when the lizardfolk makes a melee attack with its trident\
-    \ and hits, the target takes an extra dice: 3d6|avg (3d6) damage, and the\
-    \ lizardfolk gains temporary hit points equal to the extra damage dealt."
+    \ and hits, the target takes an extra dice:3d6|text(10) (3d6) damage, and\
+    \ the lizardfolk gains temporary hit points equal to the extra damage dealt."
   "name": "Skewer"
 "actions":
 - "desc": "The lizardfolk makes two attacks: one with its bite and one with its claws\
     \ or trident or two melee attacks with its trident."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 3|text(6) (1d6 + 3) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d4 + 3|text(5) (1d4 + 3) slashing damage."
   "name": "Claws"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing\
-    \ damage, or dice: 1d8 + 3|avg (1d8 + 3) piercing damage if used with two\
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: dice:1d6 + 3|text(6) (1d6 + 3) piercing\
+    \ damage, or dice:1d8 + 3|text(7) (1d8 + 3) piercing damage if used with two\
     \ hands to make a melee attack."
   "name": "Trident"
 "source":

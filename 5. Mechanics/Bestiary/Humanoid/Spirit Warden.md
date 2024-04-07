@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Spirit Warden
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Spirit Warden.md|Spirit Warden]]
+# [[5. Mechanics/Bestiary/Humanoid/Spirit Warden.md|Spirit Warden]]
 *Source: Strongholds and Followers p. 72*
 
 ```statblock
@@ -20,6 +20,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "15"
+"ac_class": "Medium"
 "stats":
 - !!int "18"
 - !!int "14"
@@ -45,8 +46,8 @@ aliases:
 - "desc": "This creature is a Retainer, as described in \"Strongholds and Followers\""
   "name": "Retainer"
 "actions":
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 2d6 + 2|avg (2d6 + 2) slashing\
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: dice:2d6 + 2|text(9) (2d6 + 2) slashing\
     \ damage.\n\nAt 7th level, retainers can take two signature attacks per round."
   "name": "Signature Attack"
 - "desc": "Prerequisite: 3rd-level retainer\n\nThe spirit warden and their leader\
@@ -57,7 +58,7 @@ aliases:
   "name": "Raptor Dive (3/Day, Bonus Action)"
 - "desc": "Prerequisite: 7th-level retainer\n\nThe spirit warden immediately makes\
     \ an attack with their signature attack against all adjacent enemies. Hits deal\
-    \ an extra dice: 1d12|avg (1d12) slashing damage."
+    \ an extra dice:1d12|text(6) (1d12) slashing damage."
   "name": "Ferocious Whirlwind (1/Day)"
 "source":
 - "SaF"

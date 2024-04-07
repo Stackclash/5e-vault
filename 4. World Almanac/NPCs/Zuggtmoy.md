@@ -1,27 +1,28 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: null
 condition: healthy
 image: 4. World Almanac/NPCs/img/zuggtmoy.webp
 relationships: []
-tags: 
-aliases: [Zuggtmoy]
-pronounced: 
-race: 
-gender: 
-age: 
+tags: null
+aliases:
+  - Zuggtmoy
+pronounced: null
+race: null
+gender: null
+age: null
 alignment: Chaotic Evil
-occupation: 
+occupation: null
 groups: []
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]
@@ -130,6 +131,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 "subtype": "demon"
 "alignment": "Chaotic Evil"
 "ac": !!int "18"
+"ac_class": "natural armor"
 "hp": !!int "304"
 "hit_dice": "32d10 + 128"
 "stats":
@@ -169,8 +171,9 @@ await dv.view("npcRelationships", { current: dv.current() })
 "actions":
 - "desc": "Zuggtmoy makes three Pseudopod attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: dice:\
-    \ 2d8 + 6|avg (2d8 + 6) force damage plus dice: 2d8|avg (2d8) poison damage."
+- "desc": "Melee Weapon Attack: dice: d20+13 (+13) to hit, reach 10 ft., one\
+    \ target. Hit: dice:2d8 + 6|text(15) (2d8 + 6) force damage plus dice:2d8|text(9)\
+    \ (2d8) poison damage."
   "name": "Pseudopod"
 "bonus_actions":
 - "desc": "Zuggtmoy releases spores that burst out in a cloud that fills a 20-foot-radius\
@@ -231,7 +234,7 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ of the lair, even where they would normally find no purchase.  \n- Mutating\
     \ Vegetation. Vegetation within 1 mile of the lair becomes infested with parasitic\
     \ fungi, slowly mutating as it is overwhelmed.  \n- If Zuggtmoy dies, these effects\
-    \ fade over the course of dice: 1d10|avg (1d10) days.  "
+    \ fade over the course of dice: 1d10|avg|noform (1d10) days.  "
   "name": ""
 "source":
 - "MPMM"

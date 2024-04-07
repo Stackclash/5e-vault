@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Yagnoloth
 ---
-# [[5. Mechanics\Bestiary\Fiend\Yagnoloth.md|Yagnoloth]]
+# [[5. Mechanics/Bestiary/Fiend/Yagnoloth.md|Yagnoloth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 268, Mordenkainen's Tome of Foes p. 252*
 
 Anyone who would contract yugoloths for a task usually ends up dealing with a yagnoloth. Cunning negotiators, these strange Fiends handle the writing of contracts for their fellow yugoloths. Once a yagnoloth is hired, it communicates its employer's desires to the yugoloths it commands.
@@ -27,6 +27,7 @@ A yagnoloth has one arm of human size and one giant-sized arm. During negotiatio
 "subtype": "yugoloth"
 "alignment": "Typically  Neutral Evil"
 "ac": !!int "17"
+"ac_class": "natural armor"
 "hp": !!int "147"
 "hit_dice": "14d10 + 70"
 "stats":
@@ -70,22 +71,22 @@ A yagnoloth has one arm of human size and one giant-sized arm. During negotiatio
     \ or it makes one Massive Arm attack and uses Battlefield Cunning, if available,\
     \ or Teleport."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 6d8|avg (6d8) lightning damage."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one target.\
+    \ Hit: dice:6d8|text(27) (6d8) lightning damage."
   "name": "Electrified Touch"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 15 ft., one target.\
-    \ Hit: dice: 3d12 + 4|avg (3d12 + 4) force damage. If the target is a creature,\
-    \ it must succeed on a DC 16 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 15 ft., one target.\
+    \ Hit: dice:3d12 + 4|text(23) (3d12 + 4) force damage. If the target is\
+    \ a creature, it must succeed on a DC 16 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
     \ until the end of the yagnoloth's next turn."
   "name": "Massive Arm"
 - "desc": "Up to two allied yugoloths within 60 feet of the yagnoloth that can hear\
     \ it can use their reactions to make one melee attack each."
   "name": "Battlefield Cunning (Recharge 4-6)"
 - "desc": "The yagnoloth touches one [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
-    \ creature within 15 feet of it. The target takes dice: 7d8 + 4|avg (7d8 +\
-    \ 4) necrotic damage, and the yagnoloth gains temporary hit points equal to half\
-    \ the damage dealt. The target must succeed on a DC 16 Constitution saving throw,\
-    \ or its hit point maximum is reduced by an amount equal to half the necrotic\
+    \ creature within 15 feet of it. The target takes dice:7d8 + 4|text(36) (7d8\
+    \ + 4) necrotic damage, and the yagnoloth gains temporary hit points equal to\
+    \ half the damage dealt. The target must succeed on a DC 16 Constitution saving\
+    \ throw, or its hit point maximum is reduced by an amount equal to half the necrotic\
     \ damage taken. This reduction lasts until the target finishes a long rest, and\
     \ the target dies if its hit point maximum is reduced to 0."
   "name": "Life Leech"

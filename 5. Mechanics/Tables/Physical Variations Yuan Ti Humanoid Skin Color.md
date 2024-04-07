@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vgm
-aliases: ["Physical Variations; Yuan-ti Humanoid Skin Color"]
+  - compendium/src/5e/vgm
+aliases:
+  - Physical Variations; Yuan-ti Humanoid Skin Color
 ---
 # Physical Variations; Yuan-ti Humanoid Skin Color
 *Source: Volo's Guide to Monsters p. 97* 

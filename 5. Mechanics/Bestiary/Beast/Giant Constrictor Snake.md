@@ -15,7 +15,7 @@ statblock: inline
 aliases:
   - Giant Constrictor Snake
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Constrictor Snake.md|Giant Constrictor Snake]]
+# [[5. Mechanics/Bestiary/Beast/Giant Constrictor Snake.md|Giant Constrictor Snake]]
 *Source: Monster Manual p. 324. Available in the SRD and the Basic Rules.*
 
 ```statblock
@@ -40,13 +40,13 @@ aliases:
 "languages": ""
 "cr": "2"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 10 ft., one creature.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 10 ft., one creature.\
+    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) bludgeoning damage, and the target is\
-    \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 16). Until this\
-    \ grapple ends, the creature is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one creature.\
+    \ Hit: dice:2d8 + 4|text(13) (2d8 + 4) bludgeoning damage, and the target\
+    \ is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 16). Until\
+    \ this grapple ends, the creature is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
     \ and the snake can't constrict another target."
   "name": "Constrict"
 "source":

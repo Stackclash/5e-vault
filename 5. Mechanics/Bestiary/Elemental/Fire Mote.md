@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Fire Mote
 ---
-# [[5. Mechanics\Bestiary\Elemental\Fire Mote.md|Fire Mote]]
+# [[5. Mechanics/Bestiary/Elemental/Fire Mote.md|Fire Mote]]
 *Source: Strongholds and Followers p. 186*
 
 The motes are elemental sprites, tricksters, mischievous imps who enjoy sticking their noses into other people's business, harassing anyone who looks suspicious until the more puissant authorities arrive.
@@ -27,6 +27,7 @@ The fire mote has an instinctive awareness of which enemies on the battlefield r
 "type": "elemental"
 "alignment": "Neutral"
 "ac": !!int "13"
+"ac_class": "natural armor"
 "hp": !!int "49"
 "hit_dice": "11d6 + 11"
 "stats":
@@ -58,8 +59,8 @@ The fire mote has an instinctive awareness of which enemies on the battlefield r
 "actions":
 - "desc": "The mote makes three touch attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) fire damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 3|text(7) (1d8 + 3) fire damage."
   "name": "Touch"
 "source":
 - "SaF"

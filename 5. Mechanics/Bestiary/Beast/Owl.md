@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Owl
 ---
-# [[5. Mechanics\Bestiary\Beast\Owl.md|Owl]]
+# [[5. Mechanics/Bestiary/Beast/Owl.md|Owl]]
 *Source: Monster Manual p. 333. Available in the SRD and the Basic Rules.*
 
 ```statblock
@@ -45,7 +45,7 @@ aliases:
     \ checks that rely on hearing or sight."
   "name": "Keen Hearing and Sight"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
     \ Hit: 1 slashing damage."
   "name": "Talons"
 "source":

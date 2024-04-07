@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Introduction"]
+  - compendium/src/5e/phb
+aliases:
+  - Introduction
 ---
 # Introduction
 *Source: Player's Handbook, p. 5* 

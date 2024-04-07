@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Tyrannosaurus Rex
 ---
-# [[5. Mechanics\Bestiary\Beast\Tyrannosaurus Rex.md|Tyrannosaurus Rex]]
+# [[5. Mechanics/Bestiary/Beast/Tyrannosaurus Rex.md|Tyrannosaurus Rex]]
 *Source: Monster Manual p. 80. Available in the SRD and the Basic Rules.*
 
 This enormous predator terrorizes all other creatures in its territory. Despite its size and weight, a tyrannosaurus is a swift runner. It chases anything it thinks it can eat, and there are few creatures it won't try to devour whole. While prowling for substantial prey, a tyrannosaurus subsists on carrion, and on any smaller creatures that try to dart in to steal its meal.
@@ -28,6 +28,7 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
 "type": "beast"
 "alignment": "Unaligned"
 "ac": !!int "13"
+"ac_class": "natural armor"
 "hp": !!int "136"
 "hit_dice": "13d12 + 52"
 "stats":
@@ -47,14 +48,14 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
 - "desc": "The tyrannosaurus makes two attacks: one with its bite and one with its\
     \ tail. It can't make both attacks against the same target."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 4d12 + 7|avg (4d12 + 7) piercing damage. If the target is a\
-    \ Medium or smaller creature, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+- "desc": "Melee Weapon Attack: dice: d20+10 (+10) to hit, reach 10 ft., one\
+    \ target. Hit: dice:4d12 + 7|text(33) (4d12 + 7) piercing damage. If the\
+    \ target is a Medium or smaller creature, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ (escape DC 17). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
     \ and the tyrannosaurus can't bite another target."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 3d8 + 7|avg (3d8 + 7) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+10 (+10) to hit, reach 10 ft., one\
+    \ target. Hit: dice:3d8 + 7|text(20) (3d8 + 7) bludgeoning damage."
   "name": "Tail"
 "source":
 - "MM"

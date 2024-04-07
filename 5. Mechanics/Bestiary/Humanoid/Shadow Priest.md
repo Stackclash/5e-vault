@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Shadow Priest
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Shadow Priest.md|Shadow Priest]]
+# [[5. Mechanics/Bestiary/Humanoid/Shadow Priest.md|Shadow Priest]]
 *Source: Strongholds and Followers p. 74*
 
 ```statblock
@@ -20,6 +20,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "15"
+"ac_class": "Medium"
 "stats":
 - !!int "14"
 - !!int "14"

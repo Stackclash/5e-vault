@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Piercer
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Piercer.md|Piercer]]
+# [[5. Mechanics/Bestiary/Monstrosity/Piercer.md|Piercer]]
 *Source: Monster Manual p. 252*
 
 Clinging to the ceilings of caverns and large subterranean passages, piercers blend in perfectly with natural rock, dropping in silence to impale unsuspecting foes on the ground below.
@@ -30,6 +30,7 @@ Piercers gather in colonies to maximize the effectiveness of their attacks, drop
 "type": "monstrosity"
 "alignment": "Unaligned"
 "ac": !!int "15"
+"ac_class": "natural armor"
 "hp": !!int "22"
 "hit_dice": "3d8 + 9"
 "stats":
@@ -53,10 +54,10 @@ Piercers gather in colonies to maximize the effectiveness of their attacks, drop
     \ without needing to make an ability check."
   "name": "Spider Climb"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), one creature directly\
-    \ underneath the piercer. Hit: dice: 1d6|avg (1d6) piercing damage per 10\
-    \ feet fallen, up to dice: 6d6|avg (6d6). Miss: The piercer takes half the\
-    \ normal falling damage for the distance fallen."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, one creature directly\
+    \ underneath the piercer. Hit: dice:1d6|text(3) (1d6) piercing damage per\
+    \ 10 feet fallen, up to dice:6d6|text(21) (6d6). Miss: The piercer takes half\
+    \ the normal falling damage for the distance fallen."
   "name": "Drop"
 "source":
 - "MM"

@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/vgm
-- monster/cr/1-4
-- monster/size/small
-- monster/type/humanoid/goblinoid
+  - compendium/src/5e/vgm
+  - monster/cr/1-4
+  - monster/size/small
+  - monster/type/humanoid/goblinoid
 statblock: inline
-aliases: ["Booyahg Wielder"]
+aliases:
+  - Booyahg Wielder
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Booyahg Wielder.md|Booyahg Wielder]]
+# [[5. Mechanics/Bestiary/Humanoid/Booyahg Wielder.md|Booyahg Wielder]]
 *Source: Volo's Guide to Monsters p. 42*
 
 This goblin found a magic item (a [[5. Mechanics/Items/Necklace Of Fireballs.md|necklace of fireballs]], a [[5. Mechanics/Items/Circlet Of Blasting.md|circlet of blasting]], or the like) and learned how to use it.
@@ -29,6 +30,7 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
 "subtype": "goblinoid"
 "alignment": "Neutral Evil"
 "ac": !!int "15"
+"ac_class": "[[5. Mechanics/Items/Leather Armor.md|leather armor]], [[5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "7"
 "hit_dice": "2d6"
 "stats":
@@ -53,11 +55,11 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
     \ and learned how to use it."
   "name": "Special Equipment"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 2|text(5) (1d6 + 2) slashing damage."
   "name": "Scimitar"
-- "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 80/320 ft., one\
-    \ target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+4 (+4) to hit, range 80/320 ft.,\
+    \ one target. Hit: dice:1d6 + 2|text(5) (1d6 + 2) piercing damage."
   "name": "Shortbow"
 "source":
 - "VGM"

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
-aliases: ["Gods of the Multiverse"]
+  - compendium/src/5e/phb
+aliases:
+  - Gods of the Multiverse
 ---
 # Gods of the Multiverse
 *Source: Player's Handbook, p. 293* 
@@ -71,13 +72,13 @@ The Celtic, Egyptian, Greek, and Norse pantheons are fantasy interpretations of 
 
 It's said that something wild lurks in the heart of every soul, a space that thrills to the sound of geese calling at night, to the whispering wind through the pines, to the unexpected red of mistletoe on an oak—and it is in this space that the Celtic gods dwell. They sprang from the brook and stream, their might heightened by the strength of the oak and the beauty of the woodlands and open moor. When the first forester dared put a name to the face seen in the bole of a tree or the voice babbling in a brook, these gods forced themselves into being. The Celtic gods are as often served by druids as by clerics, for they are closely aligned with the forces of nature that druids revere.
 
-![The Celtic Pantheon; Celtic Deities](compendium/tables/the-celtic-pantheon-celtic-deities.md)
+![[5. Mechanics/Tables/The Celtic Pantheon Celtic Deities.md\|The Celtic Pantheon; Celtic Deities]]
 
 ### The Greek Pantheon
 
 The gods of Olympus make themselves known with the gentle lap of waves against the shores and the crash of the thunder among the cloud—enshrouded peaks. The thick boar-infested woods and the sere, olive-covered hillsides hold evidence of their passing. Every aspect of nature echoes with their presence, and they've made a place for themselves inside the human heart, too.
 
-![The Greek Pantheon; Greek Deities](compendium/tables/the-greek-pantheon-greek-deities.md)
+![[5. Mechanics/Tables/The Greek Pantheon Greek Deities.md\|The Greek Pantheon; Greek Deities]]
 
 ### The Egyptian Pantheon
 
@@ -87,7 +88,7 @@ The Egyptian pantheon is unusual in having three gods with the Death domain of d
 
 Anubis is the lawful neutral god of the afterlife, who judges the souls of the dead. Set is a chaotic evil god of murder, perhaps best known for killing his brother Osiris. And Nephthys is a chaotic good goddess of mourning. Thus, although most clerics of the Death domain (found in the Dungeon Master's Guide) are villainous characters, clerics who serve Anubis or Nephthys need not be.
 
-![The Egyptian Pantheon; Egyptian Deities](compendium/tables/the-egyptian-pantheon-egyptian-deities.md)
+![[5. Mechanics/Tables/The Egyptian Pantheon Egyptian Deities.md\|The Egyptian Pantheon; Egyptian Deities]]
 
 ### The Norse Pantheon
 
@@ -95,4 +96,4 @@ Where the land plummets from the snowy hills into the icy fjords below, where th
 
 The Norse pantheon includes two main families, the Aesir (deities of war and destiny) and the Vanir (gods of fertility and prosperity). Once enemies, these two families are now closely allied against their common enemies, the giants (including the gods Surtur and Thrym). Like the gods of Greyhawk, gods in different families sometimes have overlap in their spheres of influence: Frey (of the Vanir) and Odur (of the Aesir) are both associated with the sun, for example.
 
-![The Norse Pantheon; Norse Deities](compendium/tables/the-norse-pantheon-norse-deities.md)
+![[5. Mechanics/Tables/The Norse Pantheon Norse Deities.md\|The Norse Pantheon; Norse Deities]]

@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Giant Bat
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Bat.md|Giant Bat]]
+# [[5. Mechanics/Bestiary/Beast/Giant Bat.md|Giant Bat]]
 *Source: Monster Manual p. 323, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*
 
 ```statblock
@@ -41,8 +41,8 @@ aliases:
     \ checks that rely on hearing."
   "name": "Keen Hearing"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one creature.\
+    \ Hit: dice:1d6 + 2|text(5) (1d6 + 2) piercing damage."
   "name": "Bite"
 "source":
 - "MM"

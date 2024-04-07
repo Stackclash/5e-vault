@@ -28,7 +28,7 @@ Strahd employed a powerful wizard named Khazan to destroy the weapon after Serge
 
 The hilt, which is sentient, knows that it can never be reunited with its original crystal blade. It has, however, gained the properties of a [[5. Mechanics/Items/Sun Blade.md\|sun blade]]:
 
-- You gain a +2 bonus to attack and damage rolls made with this weapon, which deals radiant damage instead of slashing damage. When you hit an undead with it, that target takes an extra `dice: 1d8|avg` (`1d8`) radiant damage.  
+- You gain a +2 bonus to attack and damage rolls made with this weapon, which deals radiant damage instead of slashing damage. When you hit an undead with it, that target takes an extra `dice: 1d8|avg|noform` (`1d8`) radiant damage.  
 - The sword's luminous blade emits bright light in a 15-foot radius and dim light for an additional 15 feet. The light is sunlight. While the blade persists, you can use an action to expand or reduce its radius of bright and dim light by 5 feet each, to a maximum of 30 feet each or a minimum of 10 feet each.  
 
 ## Sentience

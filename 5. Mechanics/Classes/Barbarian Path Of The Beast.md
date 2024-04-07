@@ -40,9 +40,9 @@ When you enter your rage, you can transform, revealing the bestial power within 
 
 You choose the weapon's form each time you rage:
 
-- **Bite.** Your mouth transforms into a bestial muzzle or great mandibles (your choice). It deals `dice: 1d8|avg` (`1d8`) piercing damage on a hit. Once on each of your turns when you damage a creature with this bite, you regain a number of hit points equal to your proficiency bonus, provided you have less than half your hit points when you hit.  
-- **Claws.** Each of your hands transforms into a claw, which you can use as a weapon if it's empty. It deals `dice: 1d6|avg` (`1d6`) slashing damage on a hit. Once on each of your turns when you attack with a claw using the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action, you can make one additional claw attack as part of the same action.  
-- **Tail.** You grow a lashing, spiny tail, which deals `dice: 1d8|avg` (`1d8`) piercing damage on a hit and has the reach property. If a creature you can see within 10 feet of you hits you with an attack roll, you can use your reaction to swipe your tail and roll a `dice: d8|avg` (`d8`), applying a bonus to your AC equal to the number rolled, potentially causing the attack to miss you.  
+- **Bite.** Your mouth transforms into a bestial muzzle or great mandibles (your choice). It deals `dice: 1d8|avg|noform` (`1d8`) piercing damage on a hit. Once on each of your turns when you damage a creature with this bite, you regain a number of hit points equal to your proficiency bonus, provided you have less than half your hit points when you hit.  
+- **Claws.** Each of your hands transforms into a claw, which you can use as a weapon if it's empty. It deals `dice: 1d6|avg|noform` (`1d6`) slashing damage on a hit. Once on each of your turns when you attack with a claw using the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action, you can make one additional claw attack as part of the same action.  
+- **Tail.** You grow a lashing, spiny tail, which deals `dice: 1d8|avg|noform` (`1d8`) piercing damage on a hit and has the reach property. If a creature you can see within 10 feet of you hits you with an attack roll, you can use your reaction to swipe your tail and roll a `dice: d8|avg|noform` (`d8`), applying a bonus to your AC equal to the number rolled, potentially causing the attack to miss you.  
 
 ### Bestial Soul (Level 6)
 
@@ -63,7 +63,7 @@ You can also alter your form to help you adapt to your surroundings. When you fi
 When you hit a creature with your natural weapons while you are raging, the beast within you can curse your target with rabid fury. The target must succeed on a Wisdom saving throw (DC equal to 8 + your Constitution modifier + your proficiency bonus) or suffer one of the following effects (your choice):
 
 - The target must use its reaction to make a melee attack against another creature of your choice that you can see.  
-- The target takes `dice: 2d12|avg` (`2d12`) psychic damage.  
+- The target takes `dice: 2d12|avg|noform` (`2d12`) psychic damage.  
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
@@ -73,6 +73,6 @@ You can use this feature a number of times equal to your proficiency bonus, and 
 
 The beast within you grows so powerful that you can spread its ferocity to others and gain resilience from them joining your hunt. When you enter your rage, you can choose a number of other willing creatures you can see within 30 feet of you equal to your Constitution modifier (minimum of one creature).
 
-You gain 5 temporary hit points for each creature that accepts this feature. Until the rage ends, the chosen creatures can each use the following benefit once on each of their turns: when the creature hits a target with an attack roll and deals damage to it, the creature can roll a `dice: d6|avg` (`d6`) and gain a bonus to the damage equal to the number rolled.
+You gain 5 temporary hit points for each creature that accepts this feature. Until the rage ends, the chosen creatures can each use the following benefit once on each of their turns: when the creature hits a target with an attack roll and deals damage to it, the creature can roll a `dice: d6|avg|noform` (`d6`) and gain a bonus to the damage equal to the number rolled.
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.

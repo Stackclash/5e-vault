@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Frost Giant Everlasting One
 ---
-# [[5. Mechanics\Bestiary\Giant\Frost Giant Everlasting One.md|Frost Giant Everlasting One]]
+# [[5. Mechanics/Bestiary/Giant/Frost Giant Everlasting One.md|Frost Giant Everlasting One]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 131, Volo's Guide to Monsters p. 148*
 
 To hold its place or rise within the ordning, a frost giant must routinely face mighty foes in single combat. Some seek out magic that will aid them, but enchanted objects can be taken or lost. True greatness relies on personal prowess. Faced with this truth, a frost giant might seek a supernatural gift from Vaprak the Destroyer.
@@ -26,6 +26,7 @@ After devouring the troll sent by Vaprak, bones and all, a frost giant becomes a
 "type": "giant"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "15"
+"ac_class": "patchwork armor"
 "hp": !!int "189"
 "hit_dice": "14d12 + 98"
 "stats":
@@ -63,12 +64,12 @@ After devouring the troll sent by Vaprak, bones and all, a frost giant becomes a
 "actions":
 - "desc": "The giant makes two Greataxe or Rock attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+11 (+11 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 3d12 + 7|avg (3d12 + 7) slashing damage, or dice: 3d12 + 11|avg\
-    \ (3d12 + 11) slashing damage while raging."
+- "desc": "Melee Weapon Attack: dice: d20+11 (+11) to hit, reach 10 ft., one\
+    \ target. Hit: dice:3d12 + 7|text(26) (3d12 + 7) slashing damage, or dice:3d12\
+    \ + 11|text(30) (3d12 + 11) slashing damage while raging."
   "name": "Greataxe"
-- "desc": "Ranged Weapon Attack: dice: d20+11 (+11 to hit), range 60/240 ft.,\
-    \ one target. Hit: dice: 4d10 + 7|avg (4d10 + 7) bludgeoning damage."
+- "desc": "Ranged Weapon Attack: dice: d20+11 (+11) to hit, range 60/240 ft.,\
+    \ one target. Hit: dice:4d10 + 7|text(29) (4d10 + 7) bludgeoning damage."
   "name": "Rock"
 "bonus_actions":
 - "desc": "The giant enters a rage. The rage lasts for 1 minute or until the giant\

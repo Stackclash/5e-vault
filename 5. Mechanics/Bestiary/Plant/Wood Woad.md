@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Wood Woad
 ---
-# [[5. Mechanics\Bestiary\Plant\Wood Woad.md|Wood Woad]]
+# [[5. Mechanics/Bestiary/Plant/Wood Woad.md|Wood Woad]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 266, Volo's Guide to Monsters p. 198*
 
 A wood woad is a powerful bipedal Plant invested with the soul of someone who gave up life to become an everlasting guardian.
@@ -34,6 +34,7 @@ Wood woads are drawn to creatures that have close ties to nature and that protec
 "type": "plant"
 "alignment": "Typically  Lawful Neutral"
 "ac": !!int "18"
+"ac_class": "natural armor, [[5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "75"
 "hit_dice": "10d8 + 30"
 "stats":
@@ -71,8 +72,8 @@ Wood woads are drawn to creatures that have close ties to nature and that protec
 "actions":
 - "desc": "The wood woad makes two Club attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 4d4 + 4|avg (4d4 + 4) force damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:4d4 + 4|text(14) (4d4 + 4) force damage."
   "name": "Club"
 "source":
 - "MPMM"

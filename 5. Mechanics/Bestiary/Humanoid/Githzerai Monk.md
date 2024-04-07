@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Githzerai Monk
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Githzerai Monk.md|Githzerai Monk]]
+# [[5. Mechanics/Bestiary/Humanoid/Githzerai Monk.md|Githzerai Monk]]
 *Source: Monster Manual p. 161*
 
 Focused philosophers and austere ascetics, the githzerai pursue lives of rigid order. Lean and muscular, they wear unadorned clothing free of ornamentation, keeping their own counsel and trusting few creatures outside of their own kind. Having turned their backs on their warlike githyanki kin, the githzerai maintain a strict monastic lifestyle, dwelling on islands of order in the vast sea of chaos that is the plane of Limbo.
@@ -101,8 +101,8 @@ Whether these tall, gaunt creatures were peaceful or savage, cultured or primiti
 "actions":
 - "desc": "The githzerai makes two unarmed strikes."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 2|avg (1d8 + 2) bludgeoning damage plus dice: 2d8|avg\
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 2|text(6) (1d8 + 2) bludgeoning damage plus dice:2d8|text(9)\
     \ (2d8) psychic damage. This is a magic weapon attack."
   "name": "Unarmed Strike"
 "source":

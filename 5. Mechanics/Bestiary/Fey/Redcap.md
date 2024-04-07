@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Redcap
 ---
-# [[5. Mechanics\Bestiary\Fey\Redcap.md|Redcap]]
+# [[5. Mechanics/Bestiary/Fey/Redcap.md|Redcap]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 208, Volo's Guide to Monsters p. 188*
 
 A redcap is a homicidal Fey creature born of blood lust. Redcaps, although small, have formidable strength, which they use to hunt and kill without hesitation or regret.
@@ -34,6 +34,7 @@ In any case, if a redcap works with another being, the redcap demands to be paid
 "type": "fey"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "14"
+"ac_class": "natural armor"
 "hp": !!int "45"
 "hit_dice": "6d6 + 24"
 "stats":
@@ -60,12 +61,13 @@ In any case, if a redcap works with another being, the redcap demands to be paid
 "actions":
 - "desc": "The redcap makes three Wicked Sickle attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4 + 4|avg (2d4 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d4 + 4|text(9) (2d4 + 4) slashing damage."
   "name": "Wicked Sickle"
 - "desc": "The redcap moves up to its speed to a creature it can see and kicks with\
     \ its iron boots. The target must succeed on a DC 14 Dexterity saving throw or\
-    \ take dice: 3d10 + 4|avg (3d10 + 4) bludgeoning damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ take dice:3d10 + 4|text(20) (3d10 + 4) bludgeoning damage and be knocked\
+    \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Ironbound Pursuit"
 "source":
 - "MPMM"

@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Green Slaad
 ---
-# [[5. Mechanics\Bestiary\Aberration\Green Slaad.md|Green Slaad]]
+# [[5. Mechanics/Bestiary/Aberration/Green Slaad.md|Green Slaad]]
 *Source: Monster Manual p. 277*
 
 Green slaadi are surprisingly intelligent and possess innate spellcasting ability. A green slaad can change its shape to appear as a humanoid. If it was born of a humanoid host, the slaad usually adopts its host's form.
@@ -47,7 +47,7 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 > 
 > A [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]] spell cast on the slaad destroys the gem without harming the slaad.
 > 
-> Someone who is proficient in Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) can remove the gem from an [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) check. Each failed attempt deals `dice: 4d10|avg` (`4d10`) psychic damage to the slaad.
+> Someone who is proficient in Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) can remove the gem from an [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) check. Each failed attempt deals `dice:4d10|text(22)` (`4d10`) psychic damage to the slaad.
 ^variant-slaad-control-gems
 
 > [!quote]-  
@@ -62,6 +62,7 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 "subtype": "shapechanger"
 "alignment": "Chaotic Neutral"
 "ac": !!int "16"
+"ac_class": "natural armor"
 "hp": !!int "127"
 "hit_dice": "15d10 + 45"
 "stats":
@@ -102,17 +103,17 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 - "desc": "The slaad makes three attacks: one with its bite and two with its claws\
     \ or staff. Alternatively, it uses its Hurl Flame twice."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) piercing damage."
   "name": "Bite (Slaad Form Only)"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 4|avg (1d6 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 4|text(7) (1d6 + 4) slashing damage."
   "name": "Claw (Slaad Form Only)"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) bludgeoning damage."
   "name": "Staff"
-- "desc": "Ranged Spell Attack: dice: d20+4 (+4 to hit), range 60 ft., one target.\
-    \ Hit: dice: 3d6|avg (3d6) fire damage. The fire ignites flammable objects\
+- "desc": "Ranged Spell Attack: dice: d20+4 (+4) to hit, range 60 ft., one target.\
+    \ Hit: dice:3d6|text(10) (3d6) fire damage. The fire ignites flammable objects\
     \ that aren't being worn or carried."
   "name": "Hurl Flame"
 "source":

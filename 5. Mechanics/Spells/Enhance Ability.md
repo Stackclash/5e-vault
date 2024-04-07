@@ -18,7 +18,6 @@ aliases:
   - Enhance Ability
 ---
 # Enhance Ability
-%%-- Embedded content starts on the next line. --%%
 *2nd-level, Transmutation*  
 
 - **Casting time:** 1 action
@@ -30,7 +29,7 @@ You touch a creature and bestow upon it a magical enhancement. Choose one of the
 
 ## Bear's Endurance
 
-The target has advantage on Constitution checks. It also gains `dice: 2d6|avg` (`2d6`) temporary hit points, which are lost when the spell ends.
+The target has advantage on Constitution checks. It also gains `dice: 2d6|avg|noform` (`2d6`) temporary hit points, which are lost when the spell ends.
 
 ## Bull's Strength
 

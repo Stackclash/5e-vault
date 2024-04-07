@@ -16,7 +16,7 @@ statblock: inline
 aliases:
   - Revenant
 ---
-# [[5. Mechanics\Bestiary\Undead\Revenant.md|Revenant]]
+# [[5. Mechanics/Bestiary/Undead/Revenant.md|Revenant]]
 *Source: Monster Manual p. 259, Curse of Strahd, Eberron: Rising from the Last War*
 
 A revenant forms from the soul of a mortal who met a cruel and undeserving fate. It claws its way back into the world to seek revenge against the one who wronged it. The revenant reclaims its mortal body and superficially resembles a zombie. However, instead of lifeless eyes, a revenant's eyes burn with resolve and flare in the presence of its adversary. If the revenant's original body was destroyed or is otherwise unavailable, the spirit of the revenant enters another humanoid corpse. Regardless of the body the revenant uses as a vessel, its adversary always recognizes the revenant for what it truly is.
@@ -39,6 +39,7 @@ A revenant doesn't require air, food, drink, or sleep.
 "type": "undead"
 "alignment": "Neutral"
 "ac": !!int "13"
+"ac_class": "[[5. Mechanics/Items/Leather Armor.md|leather armor]]"
 "hp": !!int "136"
 "hit_dice": "16d8 + 64"
 "stats":
@@ -83,12 +84,12 @@ A revenant doesn't require air, food, drink, or sleep.
 "actions":
 - "desc": "The revenant makes two fist attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) bludgeoning damage. If the target is\
-    \ a creature against which the revenant has sworn vengeance, the target takes\
-    \ an extra dice: 4d6|avg (4d6) bludgeoning damage. Instead of dealing damage,\
-    \ the revenant can grapple the target (escape DC 14) provided the target is Large\
-    \ or smaller."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) bludgeoning damage. If the target\
+    \ is a creature against which the revenant has sworn vengeance, the target takes\
+    \ an extra dice:4d6|text(14) (4d6) bludgeoning damage. Instead of dealing\
+    \ damage, the revenant can grapple the target (escape DC 14) provided the target\
+    \ is Large or smaller."
   "name": "Fist"
 - "desc": "The revenant targets one creature it can see within 30 feet of it and against\
     \ which it has sworn vengeance. The target must make a DC 15 Wisdom saving throw.\

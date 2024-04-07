@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Black Bear
 ---
-# [[5. Mechanics\Bestiary\Beast\Black Bear.md|Black Bear]]
+# [[5. Mechanics/Bestiary/Beast/Black Bear.md|Black Bear]]
 *Source: Monster Manual p. 318. Available in the SRD and the Basic Rules.*
 
 ```statblock
@@ -20,6 +20,7 @@ aliases:
 "type": "beast"
 "alignment": "Unaligned"
 "ac": !!int "11"
+"ac_class": "natural armor"
 "hp": !!int "19"
 "hit_dice": "3d8 + 6"
 "stats":
@@ -42,11 +43,11 @@ aliases:
 "actions":
 - "desc": "The bear makes two attacks: one with its bite and one with its claws."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 2|text(5) (1d6 + 2) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4 + 2|avg (2d4 + 2) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d4 + 2|text(7) (2d4 + 2) slashing damage."
   "name": "Claws"
 "source":
 - "MM"

@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Rug of Smothering
 ---
-# [[5. Mechanics\Bestiary\Construct\Rug Of Smothering.md|Rug of Smothering]]
+# [[5. Mechanics/Bestiary/Construct/Rug Of Smothering.md|Rug of Smothering]]
 *Source: Monster Manual p. 20, Curse of Strahd. Available in the SRD.*
 
 Would-be thieves and careless heroes arrive at the doorsteps of an enemy's abode, eyes and ears alert for traps, only to end their quest prematurely as the rugs beneath their feet animate and smother them to death.
@@ -66,13 +66,13 @@ An animated object doesn't require air, food, drink, or sleep. The magic that an
     \ rug."
   "name": "False Appearance"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one Medium\
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one Medium\
     \ or smaller creature. Hit: The creature is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ (escape DC 13). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
     \ [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], and at risk of suffocating,\
     \ and the rug can't smother another target. In addition, at the start of each\
-    \ of the target's turns, the target takes dice: 2d6 + 3|avg (2d6 + 3) bludgeoning\
-    \ damage."
+    \ of the target's turns, the target takes dice:2d6 + 3|text(10) (2d6 + 3)\
+    \ bludgeoning damage."
   "name": "Smother"
 "source":
 - "MM"

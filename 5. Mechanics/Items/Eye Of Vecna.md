@@ -40,7 +40,7 @@ Your alignment changes to neutral evil, and you gain the following benefits:
 
 - You have [[/5. Mechanics/Rules/Senses.md#truesight\|truesight]].  
 - You can use an action to see as if you were wearing a [[5. Mechanics/Items/Ring Of X Ray Vision.md\|ring of X-ray vision]]. You can end this effect as a bonus action.  
-- The eye has 8 charges. You can use an action and expend 1 or more charges to cast one of the following spells (save DC 18) from it: [[5. Mechanics/Spells/Clairvoyance.md\|clairvoyance]] (2 charges), [[5. Mechanics/Spells/Crown Of Madness.md\|crown of madness]] (1 charge), [[5. Mechanics/Spells/Disintegrate.md\|disintegrate]] (4 charges), [[5. Mechanics/Spells/Dominate Monster.md\|dominate monster]] (5 charges), or [[5. Mechanics/Spells/Eyebite.md\|eyebite]] (4 charges). The eye regains `dice: 1d4 + 4|avg` (`1d4 + 4`) expended charges daily at dawn. Each time you cast a spell from the eye, there is a 5% chance chance that Vecna tears your soul from your body, devours it, and then takes control of the body like a puppet. If that happens, you become an NPC under the DM's control.  
+- The eye has 8 charges. You can use an action and expend 1 or more charges to cast one of the following spells (save DC 18) from it: [[5. Mechanics/Spells/Clairvoyance.md\|clairvoyance]] (2 charges), [[5. Mechanics/Spells/Crown Of Madness.md\|crown of madness]] (1 charge), [[5. Mechanics/Spells/Disintegrate.md\|disintegrate]] (4 charges), [[5. Mechanics/Spells/Dominate Monster.md\|dominate monster]] (5 charges), or [[5. Mechanics/Spells/Eyebite.md\|eyebite]] (4 charges). The eye regains `dice: 1d4 + 4|avg|noform` (`1d4 + 4`) expended charges daily at dawn. Each time you cast a spell from the eye, there is a 5% chance chance that Vecna tears your soul from your body, devours it, and then takes control of the body like a puppet. If that happens, you become an NPC under the DM's control.  
 
 ## Properties of the Eye and Hand
 
@@ -49,7 +49,7 @@ If you are attuned to both the hand and eye, you gain the following additional b
 - You are immune to disease and poison.  
 - Using the eye's X-ray vision never causes you to suffer [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]].  
 - You experience premonitions of danger and, unless you are [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]], can't be surprised.  
-- If you start your turn with at least 1 hit point, you regain `dice: 1d10|avg` (`1d10`) hit points.  
+- If you start your turn with at least 1 hit point, you regain `dice: 1d10|avg|noform` (`1d10`) hit points.  
 - If a creature has a skeleton, you can attempt to turn its bones to jelly with a touch of the [[5. Mechanics/Items/Hand Of Vecna.md\|Hand of Vecna]]. You can do so by using an action to make a melee attack against a creature you can reach, using your choice of your melee attack bonus for weapons or spells. On a hit, the target must succeed on a DC 18 Constitution saving throw or drop to 0 hit points.  
 - You can use an action to cast [[5. Mechanics/Spells/Wish.md\|wish]]. This property can't be used again until 30 days have passed.  
 

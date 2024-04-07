@@ -15,7 +15,7 @@ statblock: inline
 aliases:
   - Manticore
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Manticore.md|Manticore]]
+# [[5. Mechanics/Bestiary/Monstrosity/Manticore.md|Manticore]]
 *Source: Monster Manual p. 213. Available in the SRD and the Basic Rules.*
 
 A monster in every sense of the word, a manticore has a vaguely humanoid head, the body of a lion, and the wings of a dragon. A bristling mane stretches down the creature's back, and its long tail ends in a cluster of deadly spikes that can impale prey at impressive range.
@@ -43,6 +43,7 @@ The manticores' greatest territorial rivals include chimeras, griffons, perytons
 "type": "monstrosity"
 "alignment": "Lawful Evil"
 "ac": !!int "14"
+"ac_class": "natural armor"
 "hp": !!int "68"
 "hit_dice": "8d10 + 24"
 "stats":
@@ -64,14 +65,14 @@ The manticores' greatest territorial rivals include chimeras, griffons, perytons
 - "desc": "The manticore makes three attacks: one with its bite and two with its claws\
     \ or three with its tail spikes."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 3|text(7) (1d8 + 3) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 3|text(6) (1d6 + 3) slashing damage."
   "name": "Claw"
-- "desc": "Ranged Weapon Attack: dice: d20+5 (+5 to hit), range 100/200 ft., one\
-    \ target. Hit: dice: 1d8 + 3|avg (1d8 + 3) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+5 (+5) to hit, range 100/200 ft.,\
+    \ one target. Hit: dice:1d8 + 3|text(7) (1d8 + 3) piercing damage."
   "name": "Tail Spike"
 "source":
 - "MM"

@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Giant Goat
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Goat.md|Giant Goat]]
+# [[5. Mechanics/Bestiary/Beast/Giant Goat.md|Giant Goat]]
 *Source: Monster Manual p. 326, Curse of Strahd. Available in the SRD and the Basic Rules.*
 
 ```statblock
@@ -22,6 +22,7 @@ aliases:
 "type": "beast"
 "alignment": "Unaligned"
 "ac": !!int "11"
+"ac_class": "natural armor"
 "hp": !!int "19"
 "hit_dice": "3d10 + 3"
 "stats":
@@ -37,7 +38,7 @@ aliases:
 "cr": "1/2"
 "traits":
 - "desc": "If the goat moves at least 20 feet straight toward a target and then hits\
-    \ it with a ram attack on the same turn, the target takes an extra dice: 2d4|avg\
+    \ it with a ram attack on the same turn, the target takes an extra dice:2d4|text(5)\
     \ (2d4) bludgeoning damage. If the target is a creature, it must succeed on\
     \ a DC 13 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Charge"
@@ -45,8 +46,8 @@ aliases:
     \ effects that would knock it [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Sure-Footed"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4 + 3|avg (2d4 + 3) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d4 + 3|text(8) (2d4 + 3) bludgeoning damage."
   "name": "Ram"
 "source":
 - "MM"

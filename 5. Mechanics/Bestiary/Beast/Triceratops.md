@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Triceratops
 ---
-# [[5. Mechanics\Bestiary\Beast\Triceratops.md|Triceratops]]
+# [[5. Mechanics/Bestiary/Beast/Triceratops.md|Triceratops]]
 *Source: Monster Manual p. 80. Available in the SRD and the Basic Rules.*
 
 One of the most aggressive of the herbivorous dinosaurs, a triceratops has a skull that flares out to form a protective plate of bone. With its great horns and formidable speed, a triceratops gores and tramples would-be predators to death.
@@ -28,6 +28,7 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
 "type": "beast"
 "alignment": "Unaligned"
 "ac": !!int "13"
+"ac_class": "natural armor"
 "hp": !!int "95"
 "hit_dice": "10d12 + 30"
 "stats":
@@ -49,11 +50,11 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
     \ can make one stomp attack against it as a bonus action."
   "name": "Trampling Charge"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 4d8 + 6|avg (4d8 + 6) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 5 ft., one target.\
+    \ Hit: dice:4d8 + 6|text(24) (4d8 + 6) piercing damage."
   "name": "Gore"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one [[/5. Mechanics/Rules/Conditions.md#prone|prone]]\
-    \ creature. Hit: dice: 3d10 + 6|avg (3d10 + 6) bludgeoning damage"
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 5 ft., one [[/5. Mechanics/Rules/Conditions.md#prone|prone]]\
+    \ creature. Hit: dice:3d10 + 6|text(22) (3d10 + 6) bludgeoning damage"
   "name": "Stomp"
 "source":
 - "MM"

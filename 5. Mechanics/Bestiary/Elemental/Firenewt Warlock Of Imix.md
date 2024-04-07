@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Firenewt Warlock of Imix
 ---
-# [[5. Mechanics\Bestiary\Elemental\Firenewt Warlock Of Imix.md|Firenewt Warlock of Imix]]
+# [[5. Mechanics/Bestiary/Elemental/Firenewt Warlock Of Imix.md|Firenewt Warlock of Imix]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 125, Volo's Guide to Monsters p. 143*
 
 Firenewts who serve Imix, Prince of Evil Fire, live in militaristic theocracies that revere elemental fire in its most destructive incarnation and promote aggression and cruelty. Firenewt warlocks of Imix lead these theocracies or serve as advisors to a high priest.
@@ -58,11 +58,11 @@ Originally from the Elemental Plane of Fire, firenewts can be found on the Mater
 "actions":
 - "desc": "The firenewt makes three Morningstar or Fire Ray attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 1|avg (1d8 + 1) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 1|text(5) (1d8 + 1) piercing damage."
   "name": "Morningstar"
-- "desc": "Ranged Spell Attack: dice: d20+4 (+4 to hit), range 120 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) fire damage."
+- "desc": "Ranged Spell Attack: dice: d20+4 (+4) to hit, range 120 ft., one\
+    \ target. Hit: dice:1d6 + 2|text(5) (1d6 + 2) fire damage."
   "name": "Fire Ray"
 "source":
 - "MPMM"

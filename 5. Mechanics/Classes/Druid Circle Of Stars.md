@@ -61,17 +61,17 @@ Whenever you assume your starry form, choose which of the following constellatio
 #### Archer
 _Source: Tasha's Cauldron of Everything_
 
-A constellation of an archer appears on you. When you activate this form, and as a bonus action on your subsequent turns while it lasts, you can make a ranged spell attack, hurling a luminous arrow that targets one creature within 60 feet of you. On a hit, the attack deals radiant damage equal to `dice: 1d8|avg` (`1d8`) + your Wisdom modifier.
+A constellation of an archer appears on you. When you activate this form, and as a bonus action on your subsequent turns while it lasts, you can make a ranged spell attack, hurling a luminous arrow that targets one creature within 60 feet of you. On a hit, the attack deals radiant damage equal to `dice: 1d8|avg|noform` (`1d8`) + your Wisdom modifier.
 
 #### Chalice
 _Source: Tasha's Cauldron of Everything_
 
-A constellation of a life-giving goblet appears on you. Whenever you cast a spell using a spell slot that restores hit points to a creature, you or another creature within 30 feet of you can regain hit points equal to `dice: 1d8|avg` (`1d8`) + your Wisdom modifier.
+A constellation of a life-giving goblet appears on you. Whenever you cast a spell using a spell slot that restores hit points to a creature, you or another creature within 30 feet of you can regain hit points equal to `dice: 1d8|avg|noform` (`1d8`) + your Wisdom modifier.
 
 #### Dragon
 _Source: Tasha's Cauldron of Everything_
 
-A constellation of a wise dragon appears on you. When you make an Intelligence or a Wisdom check or a Constitution saving throw to maintain [[/5. Mechanics/Rules/Conditions.md#concentration\|concentration]] on a spell, you can treat a roll of 9 or lower on the `dice: d20|avg` (`d20`) as a 10.
+A constellation of a wise dragon appears on you. When you make an Intelligence or a Wisdom check or a Constitution saving throw to maintain [[/5. Mechanics/Rules/Conditions.md#concentration\|concentration]] on a spell, you can treat a roll of 9 or lower on the `dice: d20|avg|noform` (`d20`) as a 10.
 
 ### Cosmic Omen (Level 6)
 
@@ -79,8 +79,8 @@ A constellation of a wise dragon appears on you. When you make an Intelligence o
 
 Whenever you finish a long rest, you can consult your Star Map for omens. When you do so, roll a die. Until you finish your next long rest, you gain access to a special reaction based on whether you rolled an even or an odd number on the die:
 
-- **Weal (even).** Whenever a creature you can see within 30 feet of you is about to make an attack roll, a saving throw, or an ability check, you can use your reaction to roll a `dice: d6|avg` (`d6`) and add the number rolled to the total.  
-- **Woe (odd).** Whenever a creature you can see within 30 feet of you is about to make an attack roll, a saving throw, or an ability check, you can use your reaction to roll a `dice: d6|avg` (`d6`) and subtract the number rolled from the total.  
+- **Weal (even).** Whenever a creature you can see within 30 feet of you is about to make an attack roll, a saving throw, or an ability check, you can use your reaction to roll a `dice: d6|avg|noform` (`d6`) and add the number rolled to the total.  
+- **Woe (odd).** Whenever a creature you can see within 30 feet of you is about to make an attack roll, a saving throw, or an ability check, you can use your reaction to roll a `dice: d6|avg|noform` (`d6`) and subtract the number rolled from the total.  
 
 You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
@@ -88,7 +88,7 @@ You can use this reaction a number of times equal to your proficiency bonus, and
 
 *10th-level Circle of the Stars feature*
 
-The constellations of your Starry Form improve. The `dice: 1d8|avg` (`1d8`) of the Archer and the Chalice becomes `dice: 2d8|avg` (`2d8`), and while the Dragon is active, you have a flying speed of 20 feet and can hover.
+The constellations of your Starry Form improve. The `dice: 1d8|avg|noform` (`1d8`) of the Archer and the Chalice becomes `dice: 2d8|avg|noform` (`2d8`), and while the Dragon is active, you have a flying speed of 20 feet and can hover.
 
 Moreover, at the start of each of your turns while in your Starry Form, you can change which constellation glimmers on your body.
 

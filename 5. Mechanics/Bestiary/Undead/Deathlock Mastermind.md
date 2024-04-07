@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Deathlock Mastermind
 ---
-# [[5. Mechanics\Bestiary\Undead\Deathlock Mastermind.md|Deathlock Mastermind]]
+# [[5. Mechanics/Bestiary/Undead/Deathlock Mastermind.md|Deathlock Mastermind]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 87, Mordenkainen's Tome of Foes p. 129*
 
 Though deathlocks exist to serve their patrons, they retain some freedom when it comes to devising tactics and carrying out plans. Powerful deathlocks recruit lesser creatures to help them carry out their missions, becoming the masterminds behind vast conspiracies and intrigues that culminate in the accomplishment of great acts of evil.
@@ -72,13 +72,14 @@ An powerful necromancer might also discover the wicked methods of creating a dea
 "actions":
 - "desc": "The deathlock makes two Deathly Claw or Grave Bolt attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: 13 (dice: 3d6 + 3|avg (3d6 + 3) necrotic damage)."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: 13 (dice: 3d6 + 3|avg|noform (3d6 + 3) necrotic damage)."
   "name": "Deathly Claw"
-- "desc": "Ranged Spell Attack: dice: d20+6 (+6 to hit), range 120 ft., one target.\
-    \ Hit: dice: 3d8|avg (3d8) necrotic damage. If the target is Large or smaller,\
-    \ it must succeed on a DC 16 Strength saving throw or become [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
-    \ as shadowy tendrils wrap around it for 1 minute. A [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
+- "desc": "Ranged Spell Attack: dice: d20+6 (+6) to hit, range 120 ft., one\
+    \ target. Hit: dice:3d8|text(13) (3d8) necrotic damage. If the target is\
+    \ Large or smaller, it must succeed on a DC 16 Strength saving throw or become\
+    \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]] as shadowy tendrils\
+    \ wrap around it for 1 minute. A [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
     \ target can use its action to repeat the saving throw, ending the effect on itself\
     \ on a success."
   "name": "Grave Bolt"

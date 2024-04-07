@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Illusionist
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Illusionist.md|Illusionist]]
+# [[5. Mechanics/Bestiary/Humanoid/Illusionist.md|Illusionist]]
 *Source: Strongholds and Followers p. 81*
 
 ```statblock
@@ -20,6 +20,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "13"
+"ac_class": "Light"
 "stats":
 - !!int "14"
 - !!int "14"

@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Swarm of Zombie Limbs
 ---
-# [[5. Mechanics\Bestiary\Undead\Swarm Of Zombie Limbs.md|Swarm of Zombie Limbs]]
+# [[5. Mechanics/Bestiary/Undead/Swarm Of Zombie Limbs.md|Swarm of Zombie Limbs]]
 *Source: Van Richten's Guide to Ravenloft p. 254*
 
 Among the undead, a lone zombie ranks far from the most menacing. The horror of the shambling dead lies not in their individual menace, though, but their numbers, their persistence, and their disregard for their own well-being. A throng of zombies will douse a forest fire with their own ashes or march into a dragon's maw until the monster chokes. In the course of their relentless marches, zombies might suffer all manner of trauma, potentially reducing them to masses of crawling limbs, infecting them with terrible diseases (see zombie plague spreader), or crushing an entire horde into a single, rotting titan (see zombie clot).
@@ -67,18 +67,18 @@ Among the types of horror adventures detailed in "chapter 2", tales of uncontrol
 "actions":
 - "desc": "The swarm makes one Undead Mass attack and one Grasping Limbs attack."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 0 ft., one target\
-    \ in the swarm's space. Hit: dice: 1d6 + 2|avg (1d6 + 2) bludgeoning damage,\
-    \ or dice: 1d4 + 2|avg (1d4 + 2) bludgeoning damage if the swarm has half\
-    \ of its hit points or fewer."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 0 ft., one target\
+    \ in the swarm's space. Hit: dice:1d6 + 2|text(5) (1d6 + 2) bludgeoning\
+    \ damage, or dice:1d4 + 2|text(4) (1d4 + 2) bludgeoning damage if the swarm\
+    \ has half of its hit points or fewer."
   "name": "Undead Mass"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 0 ft., one creature\
-    \ in the swarm's space. Hit: dice: 2d6|avg (2d6) necrotic damage, and the\
-    \ creature must succeed on a DC 12 Strength saving throw or be [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]].\
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 0 ft., one creature\
+    \ in the swarm's space. Hit: dice:2d6|text(7) (2d6) necrotic damage, and\
+    \ the creature must succeed on a DC 12 Strength saving throw or be [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]].\
     \ The creature can repeat the saving throw at the end of each of its turns, taking\
-    \ dice: 2d6|avg (2d6) necrotic damage on a failed save. The creature is freed\
-    \ if it succeeds on this saving throw, the swarm moves out of the creature's space,\
-    \ or the swarm dies."
+    \ dice:2d6|text(7) (2d6) necrotic damage on a failed save. The creature is\
+    \ freed if it succeeds on this saving throw, the swarm moves out of the creature's\
+    \ space, or the swarm dies."
   "name": "Grasping Limbs"
 "source":
 - "VRGR"

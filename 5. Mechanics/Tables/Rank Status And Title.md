@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vgm
-aliases: ["Rank, Status, and Title"]
+  - compendium/src/5e/vgm
+aliases:
+  - 'Rank, Status, and Title'
 ---
 # Rank, Status, and Title
 *Source: Volo's Guide to Monsters p. 46* 

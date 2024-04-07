@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Mage
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Mage.md|Mage]]
+# [[5. Mechanics/Bestiary/Humanoid/Mage.md|Mage]]
 *Source: Monster Manual p. 347, Curse of Strahd, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*
 
 Mages spend their lives in the study and practice of magic. Good-aligned mages offer counsel to nobles and others in power, while evil mages dwell in isolated sites to perform unspeakable experiments without interference.
@@ -23,6 +23,7 @@ Mages spend their lives in the study and practice of magic. Good-aligned mages o
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "12"
+"ac_class": "15 with [[5. Mechanics/Spells/Mage Armor.md|mage armor]]"
 "hp": !!int "40"
 "hit_dice": "9d8"
 "stats":
@@ -44,8 +45,8 @@ Mages spend their lives in the study and practice of magic. Good-aligned mages o
 "cr": "6"
 "traits":
 - "desc": "The mage is a 9th-level spellcaster. Its spellcasting ability is Intelligence\
-    \ (spell save DC 14, dice: d20+6 (+6 to hit) with spell attacks). The mage has\
-    \ the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]],\
+    \ (spell save DC 14, dice: d20+6 (+6) to hit with spell attacks). The mage\
+    \ has the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]],\
     \ [[5. Mechanics/Spells/Light.md|light]], [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
     \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n1st level (4\
     \ slots): [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Mage Armor.md|mage armor]],\
@@ -58,8 +59,8 @@ Mages spend their lives in the study and practice of magic. Good-aligned mages o
     \ of cold](compendium/spells/cone-of-cold.md)"
   "name": "spells"
 "actions":
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing\
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: dice:1d4 + 2|text(4) (1d4 + 2) piercing\
     \ damage."
   "name": "Dagger"
 "source":

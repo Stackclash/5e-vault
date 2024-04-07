@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Bugbear Chief
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Bugbear Chief.md|Bugbear Chief]]
+# [[5. Mechanics/Bestiary/Humanoid/Bugbear Chief.md|Bugbear Chief]]
 *Source: Monster Manual p. 33*
 
 Bugbears are born for battle and mayhem. Surviving by raiding and hunting, they bully the weak and despise being bossed around, but their love of carnage means they will fight for powerful masters if bloodshed and treasure are assured.
@@ -37,6 +37,7 @@ Despite their intimidating builds, bugbears move with surprising stealth. They a
 "subtype": "goblinoid"
 "alignment": "Chaotic Evil"
 "ac": !!int "17"
+"ac_class": "[[5. Mechanics/Items/Chain Shirt.md|chain shirt]], [[5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "65"
 "hit_dice": "10d8 + 20"
 "stats":
@@ -59,8 +60,8 @@ Despite their intimidating builds, bugbears move with surprising stealth. They a
     \ with it (included in the attack)."
   "name": "Brute"
 - "desc": "If the bugbear surprises a creature and hits it with an attack during the\
-    \ first round of combat, the target takes an extra dice: 2d6|avg (2d6) damage\
-    \ from the attack."
+    \ first round of combat, the target takes an extra dice:2d6|text(7) (2d6)\
+    \ damage from the attack."
   "name": "Surprise Attack"
 - "desc": "The bugbear has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
     \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
@@ -70,12 +71,12 @@ Despite their intimidating builds, bugbears move with surprising stealth. They a
 "actions":
 - "desc": "The bugbear makes two melee attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 3|avg (2d8 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d8 + 3|text(11) (2d8 + 3) piercing damage."
   "name": "Morningstar"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft.\
-    \ or range 30/120 ft., one target. Hit: dice: 2d6 + 3|avg (2d6 + 3) piercing\
-    \ damage in melee or dice: 1d6 + 3|avg (1d6 + 3) piercing damage at range."
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft.\
+    \ or range 30/120 ft., one target. Hit: dice:2d6 + 3|text(9) (2d6 + 3) piercing\
+    \ damage in melee or dice:1d6 + 3|text(5) (1d6 + 3) piercing damage at range."
   "name": "Javelin"
 "source":
 - "MM"

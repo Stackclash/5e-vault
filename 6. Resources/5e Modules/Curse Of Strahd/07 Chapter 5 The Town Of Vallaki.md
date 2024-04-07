@@ -48,20 +48,20 @@ Three tall gates made of iron bars lead into town:
 
 Heavy iron chains with iron padlocks keep the gates shut at night. During the day, the gates are closed but not typically locked.
 
-Two town [[5. Mechanics/Bestiary/Humanoid/Guard.md\|guards]] (LG male and female humans) stand just inside each gate. Instead of spears, they carry pikes (reach 10 ft., `dice: 1d10 + 1|avg` (`1d10 + 1`) piercing damage on a hit). These weapons are long enough to stab creatures through the bars of the gate. The guards greet all visitors with suspicion, particularly those who arrive at night. If the characters arrive at night, one or more of them must succeed on a DC 20 Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]) check to convince the guards to unlock the gate and let them enter.
+Two town [[5. Mechanics/Bestiary/Humanoid/Guard.md\|guards]] (LG male and female humans) stand just inside each gate. Instead of spears, they carry pikes (reach 10 ft., `dice: 1d10 + 1|avg|noform` (`1d10 + 1`) piercing damage on a hit). These weapons are long enough to stab creatures through the bars of the gate. The guards greet all visitors with suspicion, particularly those who arrive at night. If the characters arrive at night, one or more of them must succeed on a DC 20 Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]) check to convince the guards to unlock the gate and let them enter.
 
 If trouble breaks out at one of the gates, the guards there cry out, "To arms!" Their shouts are echoed across Vallaki, putting the entire town on alert within minutes. Vallaki has twenty-four human [[5. Mechanics/Bestiary/Humanoid/Guard.md\|guards]], half of whom are on duty at any given time (six stand watch at the gates, six patrol the walls). The town can also muster a militia of fifty able-bodied human [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoners]] armed with clubs, daggers, and torches.
 
 ### House Occupants
 
-If the characters explore a residence other than the burgomaster's mansion (area N3), roll a `dice: d20|avg` (`d20`) and consult the following table to determine the house's occupant.
+If the characters explore a residence other than the burgomaster's mansion (area N3), roll a `dice: d20|avg|noform` (`d20`) and consult the following table to determine the house's occupant.
 
 `dice: [[07 Chapter 5 The Town Of Vallaki.md#^occupant]]`
 
 | dice: d20 | Occupant |
 |-----------|----------|
 | 1–3 | None |
-| 4–5 | `dice: 2d4\|avg` (`2d4`) [[5. Mechanics/Bestiary/Beast/Swarm Of Rats.md\|swarms of rats]] |
+| 4–5 | `dice: 2d4\|avg|noform` (`2d4`) [[5. Mechanics/Bestiary/Beast/Swarm Of Rats.md\|swarms of rats]] |
 | 6–18 | Vallakian townsfolk |
 | 19–20 | Vallakian cultists |
 ^occupant
@@ -72,11 +72,11 @@ A house infested with rats appears abandoned at first. The rats are servants of 
 
 #### Townsfolk
 
-A house of Vallakian townsfolk contains `dice: 1d4|avg` (`1d4`) adults (male and female human [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoners]]) and `dice: 1d8|avg` (`1d8`)−1 children (male and female human noncombatants). Anyone who listens at the door hears chatter from within. Townsfolk won't willingly invite strangers into their homes, but they will speak with characters from behind closed doors or while standing in their vestibules.
+A house of Vallakian townsfolk contains `dice: 1d4|avg|noform` (`1d4`) adults (male and female human [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoners]]) and `dice: 1d8|avg|noform` (`1d8`)−1 children (male and female human noncombatants). Anyone who listens at the door hears chatter from within. Townsfolk won't willingly invite strangers into their homes, but they will speak with characters from behind closed doors or while standing in their vestibules.
 
 #### Cultists
 
-A cult haven contains `dice: 2d4|avg` (`2d4`) Vallakian adults (LE male and female [[5. Mechanics/Bestiary/Humanoid/Cultist.md\|cultists]]) and one [[5. Mechanics/Bestiary/Humanoid/Cult Fanatic.md\|cult fanatic]] (LE male or female) who leads them in prayer or orchestrates ritual sacrifices. These cultists worship devils and consider [[4. World Almanac/NPCs/Lady Fiona Wachter.md\|Lady Fiona Wachter]] (see area N4) to be their spiritual leader.
+A cult haven contains `dice: 2d4|avg|noform` (`2d4`) Vallakian adults (LE male and female [[5. Mechanics/Bestiary/Humanoid/Cultist.md\|cultists]]) and one [[5. Mechanics/Bestiary/Humanoid/Cult Fanatic.md\|cult fanatic]] (LE male or female) who leads them in prayer or orchestrates ritual sacrifices. These cultists worship devils and consider [[4. World Almanac/NPCs/Lady Fiona Wachter.md\|Lady Fiona Wachter]] (see area N4) to be their spiritual leader.
 
 ### Vallaki Lore
 
@@ -113,14 +113,14 @@ This church is dedicated to the Morninglord and named after St. Andral, whose bo
 
 Father Lucian Petrovich (LG male human [[5. Mechanics/Bestiary/Humanoid/Priest.md\|priest]]) oversees the church and does his best to raise spirits. Assisting him is an orphan and altar boy named Yeska (LG male human noncombatant). A brawny lad with a perpetually furrowed brow named [[4. World Almanac/NPCs/Milivoj.md\|Milivoj]] (see below) tends the grounds and digs graves.
 
-At night, the church is packed with `dice: 2d6 + 6|avg` (`2d6 + 6`) [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] Vallakian adults (male and female human [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoners]]) and `dice: 2d6|avg` (`2d6`) equally terrified Vallakian children (male and female human noncombatants). Father Lucian offers his nightly congregation his prayers and the promise of St. Andral's protection. Among Father Lucian's nightly flock is a sad old woman named Willemina Rikalova. Her son, the shoemaker Udo Lukovich, has been imprisoned for speaking out against the burgomaster (see area N3m). She prays that her son will be set free.
+At night, the church is packed with `dice: 2d6 + 6|avg|noform` (`2d6 + 6`) [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] Vallakian adults (male and female human [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoners]]) and `dice: 2d6|avg|noform` (`2d6`) equally terrified Vallakian children (male and female human noncombatants). Father Lucian offers his nightly congregation his prayers and the promise of St. Andral's protection. Among Father Lucian's nightly flock is a sad old woman named Willemina Rikalova. Her son, the shoemaker Udo Lukovich, has been imprisoned for speaking out against the burgomaster (see area N3m). She prays that her son will be set free.
 
 ![[6. Resources/5e Modules/Curse Of Strahd/img/049-cos05-03.webp#center\|Milivoj]]
 
 [[4. World Almanac/NPCs/Milivoj.md\|Milivoj]] (N male human [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoner]]) is rarely seen without a shovel, which he wields like a club. Modify his statistics as follows:
 
 - His Strength is 15 (+2).  
-- His melee weapon attack bonus is +4, and he deals `dice: 1d4 + 2|avg` (`1d4 + 2`) bludgeoning damage when he hits with the blunt head of his shovel.  
+- His melee weapon attack bonus is +4, and he deals `dice:1d4 + 2|text(4)` (`1d4 + 2`) bludgeoning damage when he hits with the blunt head of his shovel.  
 
 [[4. World Almanac/NPCs/Milivoj.md\|Milivoj]] rejects the burgomaster's proclamation that "All will be well!" and is frustrated that he can't protect his younger siblings. He wants to be free of Barovia's curse but sees no hope of escape.
 
@@ -157,9 +157,9 @@ The inn's wine supply is almost depleted, and the latest delivery from the Wizar
 
 [[4. World Almanac/NPCs/Urwin Martikov.md\|Urwin Martikov]] (LG male human) is a [[5. Mechanics/Bestiary/Humanoid/Wereraven.md\|wereraven]] (see appendix D) and a high-ranking member of the Keepers of the Feather, a secret society of wereravens that opposes Strahd. Urwin's wife and business partner, [[4. World Almanac/NPCs/Danika Dorakova.md\|Danika Dorakova]] (LG female human), is also a [[5. Mechanics/Bestiary/Humanoid/Wereraven.md\|wereraven]], as are their two sons, Brom and Bray. The boys have only 7 hit points each and, at ages eleven and nine, are too young to be effective combatants.
 
-At any given time, another `dice: 1d4|avg` (`1d4`) [[5. Mechanics/Bestiary/Humanoid/Wereraven.md\|wereravens]] (members of the Keepers of the Feather) are present at the inn, either perched on the rooftop in raven form or huddled inside in human form. These wereravens are loyal friends of the Martikovs and help protect the inn.
+At any given time, another `dice: 1d4|avg|noform` (`1d4`) [[5. Mechanics/Bestiary/Humanoid/Wereraven.md\|wereravens]] (members of the Keepers of the Feather) are present at the inn, either perched on the rooftop in raven form or huddled inside in human form. These wereravens are loyal friends of the Martikovs and help protect the inn.
 
-If the characters earn the trust of the wereravens in Vallaki, the Keepers of the Feather will watch their backs. The next time the characters get themselves in serious trouble, you can have a group of `dice: 1d4|avg` (`1d4`) [[5. Mechanics/Bestiary/Humanoid/Wereraven.md\|wereravens]] show up to rescue or otherwise help them.
+If the characters earn the trust of the wereravens in Vallaki, the Keepers of the Feather will watch their backs. The next time the characters get themselves in serious trouble, you can have a group of `dice: 1d4|avg|noform` (`1d4`) [[5. Mechanics/Bestiary/Humanoid/Wereraven.md\|wereravens]] show up to rescue or otherwise help them.
 
 #### Fortunes of Ravenloft
 
@@ -197,7 +197,7 @@ Danika Martikov usually tends bar while her husband busies himself in the kitche
 
 Between dawn and noon, there are no patrons here, and the Martikovs are upstairs in their bedrooms (areas N2o and N2p) or in the attic (area N2q).
 
-From noon to dusk, the taproom holds `dice: 2d4|avg` (`2d4`) local patrons (male and female [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoners]]). Between dusk and midnight, `dice: 2d8|avg` (`2d8`) Vallakians are here. In addition, one or more of the following people might be present during this time.
+From noon to dusk, the taproom holds `dice: 2d4|avg|noform` (`2d4`) local patrons (male and female [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoners]]). Between dusk and midnight, `dice: 2d8|avg|noform` (`2d8`) Vallakians are here. In addition, one or more of the following people might be present during this time.
 
 ##### Wolf Hunters
 
@@ -726,7 +726,7 @@ Victor spends most of his time here, leaving only when he needs food or spell co
 > Someone has carved a large skull into this door. Hanging from the doorknob is a wooden sign that reads "ALL IS NOT WELL!" You hear a young man's voice beyond.
 ^395
 
-Anyone who inspects the carving and succeeds on a DC 14 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check notices a small, nearly invisible glyph etched into the skull's forehead. This is a [[5. Mechanics/Spells/Glyph Of Warding.md\|glyph of warding]] (`dice: 5d8|avg` (`5d8`) lightning damage) that triggers if anyone other than Victor opens the door.
+Anyone who inspects the carving and succeeds on a DC 14 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check notices a small, nearly invisible glyph etched into the skull's forehead. This is a [[5. Mechanics/Spells/Glyph Of Warding.md\|glyph of warding]] (`dice: 5d8|avg|noform` (`5d8`) lightning damage) that triggers if anyone other than Victor opens the door.
 
 The voice belongs to Victor. He is reading aloud from his spellbook. Anyone who listens at the door and succeeds on a DC 14 Intelligence ([[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]]) check can tell he's badly pronouncing some kind of teleportation spell.
 
@@ -758,7 +758,7 @@ The trunk contains several bolts of silk cloth, needles and thread, and a half-f
 
 Victor's spellbook contains incomplete text for a [[5. Mechanics/Spells/Teleportation Circle.md\|teleportation circle]] spell, along with the sigil sequences of three permanent teleportation circles, the locations of which aren't described. There's not enough text to prepare the spell properly, but that hasn't stopped Victor from trying to learn to cast it.
 
-Victor recently inscribed his own version of a teleportation circle on the floor. It's hidden under the rug so that his parents don't find it. In the past couple of weeks, Victor has managed to imbue the circle with magic, but he failed to account for several factors. His circle doesn't fade after use, nor does it function like the [[5. Mechanics/Spells/Teleportation Circle.md\|teleportation circle]] spell. If the circle is used in the casting of a [[5. Mechanics/Spells/Teleportation Circle.md\|teleportation circle]] spell, whether the actual spell or Victor's version of it, any creature standing on the circle when the spell is cast takes `dice: 3d10|avg` (`3d10`) force damage and isn't teleported anywhere. If this damage reduces the creature to 0 hit points, the creature is disintegrated. Any character who studies the circle and succeeds on a DC 15 Intelligence ([[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]]) check realizes that Victor's circle is horribly flawed and potentially deadly when used.
+Victor recently inscribed his own version of a teleportation circle on the floor. It's hidden under the rug so that his parents don't find it. In the past couple of weeks, Victor has managed to imbue the circle with magic, but he failed to account for several factors. His circle doesn't fade after use, nor does it function like the [[5. Mechanics/Spells/Teleportation Circle.md\|teleportation circle]] spell. If the circle is used in the casting of a [[5. Mechanics/Spells/Teleportation Circle.md\|teleportation circle]] spell, whether the actual spell or Victor's version of it, any creature standing on the circle when the spell is cast takes `dice: 3d10|avg|noform` (`3d10`) force damage and isn't teleported anywhere. If this damage reduces the creature to 0 hit points, the creature is disintegrated. Any character who studies the circle and succeeds on a DC 15 Intelligence ([[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]]) check realizes that Victor's circle is horribly flawed and potentially deadly when used.
 
 Victor has tested his circle on two reluctant servants (compelled by his [[5. Mechanics/Spells/Suggestion.md\|suggestion]] spell), in both cases linking his circle to one of the other circles whose sigils are in his spellbook. Each servant was torn apart before Victor's eyes before vanishing in a flash of purple light. Victor doesn't know how to fix the circle but plans to make more modifications to it before testing it again.
 
@@ -1361,7 +1361,7 @@ In addition to [[4. World Almanac/NPCs/Luvash.md\|Luvash]], [[4. World Almanac/N
 
 ##### Dealing with Luvash
 
-[[4. World Almanac/NPCs/Luvash.md\|Luvash]] is unhappy because his seven-year-old daughter, [[4. World Almanac/NPCs/Arabelle.md\|Arabelle]], has vanished. She's been gone for a little more than a day. Because everyone in the camp was drunk and [[4. World Almanac/NPCs/Arrigal.md\|Arrigal]] was away, no one remembers seeing or hearing anything strange. [[4. World Almanac/NPCs/Luvash.md\|Luvash]] is determined to find her, no matter what the cost, and most of his camp is out scouring the woods when the characters arrive. (Missing from the camp are twelve [[5. Mechanics/Bestiary/Humanoid/Vistana Bandit.md\|bandits]]. Each hour that passes, `dice: 1d4|avg` (`1d4`) of them return to camp with no news on [[4. World Almanac/NPCs/Arabelle.md\|Arabelle]]'s whereabouts.)
+[[4. World Almanac/NPCs/Luvash.md\|Luvash]] is unhappy because his seven-year-old daughter, [[4. World Almanac/NPCs/Arabelle.md\|Arabelle]], has vanished. She's been gone for a little more than a day. Because everyone in the camp was drunk and [[4. World Almanac/NPCs/Arrigal.md\|Arrigal]] was away, no one remembers seeing or hearing anything strange. [[4. World Almanac/NPCs/Luvash.md\|Luvash]] is determined to find her, no matter what the cost, and most of his camp is out scouring the woods when the characters arrive. (Missing from the camp are twelve [[5. Mechanics/Bestiary/Humanoid/Vistana Bandit.md\|bandits]]. Each hour that passes, `dice: 1d4|avg|noform` (`1d4`) of them return to camp with no news on [[4. World Almanac/NPCs/Arabelle.md\|Arabelle]]'s whereabouts.)
 
 If an alarm is sounded, nine Vistani [[5. Mechanics/Bestiary/Humanoid/Vistana Bandit.md\|bandits]] (NE male and female humans) emerge from three of the surrounding wagons (area N9g) and arrive at the tent with weapons drawn in 2 rounds.
 
@@ -1408,7 +1408,7 @@ There are four of these wagons at the camp.
 > You hear heavy snores from within this barrel-topped wagon.
 ^3fd
 
-Each of these wagons contains `dice: 1d4|avg` (`1d4`) sleeping Vistani (CN male and female human [[5. Mechanics/Bestiary/Humanoid/Vistana Bandit.md\|bandits]]). These Vistani wake up if their wagon is shaken or if they take damage and have at least 1 hit point remaining.
+Each of these wagons contains `dice: 1d4|avg|noform` (`1d4`) sleeping Vistani (CN male and female human [[5. Mechanics/Bestiary/Humanoid/Vistana Bandit.md\|bandits]]). These Vistani wake up if their wagon is shaken or if they take damage and have at least 1 hit point remaining.
 
 #### N9g. Wagon of Gambling Vistani
 
@@ -1430,7 +1430,7 @@ There are three of these wagons at the camp.
 > This barrel-topped wagon is filled with the raucous screams and laughter of children.
 ^401
 
-Each of these wagons contains one Vistani adult (male or female human [[5. Mechanics/Bestiary/Humanoid/Vistana Commoner.md\|commoner]]) and `dice: 1d4 + 1|avg` (`1d4 + 1`) Vistani children (male and female human noncombatants). The adult is watching the children playing games, teaching the children about their heritage, or telling a scary story to frighten the children.
+Each of these wagons contains one Vistani adult (male or female human [[5. Mechanics/Bestiary/Humanoid/Vistana Commoner.md\|commoner]]) and `dice: 1d4 + 1|avg|noform` (`1d4 + 1`) Vistani children (male and female human noncombatants). The adult is watching the children playing games, teaching the children about their heritage, or telling a scary story to frighten the children.
 
 #### N9i. Vistani Treasure Wagon
 

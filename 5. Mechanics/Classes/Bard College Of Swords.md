@@ -59,7 +59,7 @@ Starting at 6th level, you can attack twice, instead of once, whenever you take 
 
 ### Master's Flourish (Level 14)
 
-Starting at 14th level, whenever you use a Blade Flourish option, you can roll a `dice: d6|avg` (`d6`) and use it instead of expending a Bardic Inspiration die.
+Starting at 14th level, whenever you use a Blade Flourish option, you can roll a `dice: d6|avg|noform` (`d6`) and use it instead of expending a Bardic Inspiration die.
 
 ## Optional Features
 

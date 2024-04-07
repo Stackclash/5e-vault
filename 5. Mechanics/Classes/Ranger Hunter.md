@@ -24,7 +24,7 @@ At 3rd level, you gain one of the following features of your choice.
 
 - **Colossus Slayer**  
 
-    Your tenacity can wear down the most potent foes. When you hit a creature with a weapon attack, the creature takes an extra `dice: 1d8|avg` (`1d8`) damage if it's below its hit point maximum. You can deal this extra damage only once per turn.  
+    Your tenacity can wear down the most potent foes. When you hit a creature with a weapon attack, the creature takes an extra `dice: 1d8|avg|noform` (`1d8`) damage if it's below its hit point maximum. You can deal this extra damage only once per turn.  
 
 - **Giant Killer**  
 

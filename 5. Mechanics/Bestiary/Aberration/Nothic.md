@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Nothic
 ---
-# [[5. Mechanics\Bestiary\Aberration\Nothic.md|Nothic]]
+# [[5. Mechanics/Bestiary/Aberration/Nothic.md|Nothic]]
 *Source: Monster Manual p. 236, Curse of Strahd. Available in the Basic Rules.*
 
 A baleful eye peers out from the darkness, its gleam hinting at a weird intelligence and unnerving malevolence. Most times, a nothic is content to watch, weighing and assessing the creatures it encounters. When driven to violence, it uses its horrific gaze to rot the flesh from its enemies' bones.
@@ -34,6 +34,7 @@ Nothics are notorious for infiltrating arcane academies and other places rich in
 "type": "aberration"
 "alignment": "Neutral Evil"
 "ac": !!int "15"
+"ac_class": "natural armor"
 "hp": !!int "45"
 "hit_dice": "6d8 + 18"
 "stats":
@@ -59,12 +60,12 @@ Nothics are notorious for infiltrating arcane academies and other places rich in
 "actions":
 - "desc": "The nothic makes two claw attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 3|text(6) (1d6 + 3) slashing damage."
   "name": "Claw"
 - "desc": "The nothic targets one creature it can see within 30 feet of it. The target\
     \ must succeed on a DC 12 Constitution saving throw against this magic or take\
-    \ dice: 3d6|avg (3d6) necrotic damage."
+    \ dice:3d6|text(10) (3d6) necrotic damage."
   "name": "Rotting Gaze"
 - "desc": "The nothic targets one creature it can see within 30 feet of it. The target\
     \ must contest its Charisma ([[/5. Mechanics/Rules/Skills.md#Deception|Deception]])\

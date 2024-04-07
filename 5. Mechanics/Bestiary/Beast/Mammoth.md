@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Mammoth
 ---
-# [[5. Mechanics\Bestiary\Beast\Mammoth.md|Mammoth]]
+# [[5. Mechanics/Bestiary/Beast/Mammoth.md|Mammoth]]
 *Source: Monster Manual p. 332. Available in the SRD and the Basic Rules.*
 
 A mammoth is an elephantine creature with thick fur and long tusks. Stockier and fiercer than normal elephants, mammoths inhabit a wide range of climes, from subarctic to subtropical.
@@ -22,6 +22,7 @@ A mammoth is an elephantine creature with thick fur and long tusks. Stockier and
 "type": "beast"
 "alignment": "Unaligned"
 "ac": !!int "13"
+"ac_class": "natural armor"
 "hp": !!int "126"
 "hit_dice": "11d12 + 55"
 "stats":
@@ -43,11 +44,12 @@ A mammoth is an elephantine creature with thick fur and long tusks. Stockier and
     \ can make one stomp attack against it as a bonus action."
   "name": "Trampling Charge"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 4d8 + 7|avg (4d8 + 7) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+10 (+10) to hit, reach 10 ft., one\
+    \ target. Hit: dice:4d8 + 7|text(25) (4d8 + 7) piercing damage."
   "name": "Gore"
-- "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one [[/5. Mechanics/Rules/Conditions.md#prone|prone]]\
-    \ creature. Hit: dice: 4d10 + 7|avg (4d10 + 7) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+10 (+10) to hit, reach 5 ft., one\
+    \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]] creature. Hit: dice:4d10 +\
+    \ 7|text(29) (4d10 + 7) bludgeoning damage."
   "name": "Stomp"
 "source":
 - "MM"

@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Crab
 ---
-# [[5. Mechanics\Bestiary\Beast\Crab.md|Crab]]
+# [[5. Mechanics/Bestiary/Beast/Crab.md|Crab]]
 *Source: Monster Manual p. 320. Available in the SRD and the Basic Rules.*
 
 ```statblock
@@ -20,6 +20,7 @@ aliases:
 "type": "beast"
 "alignment": "Unaligned"
 "ac": !!int "11"
+"ac_class": "natural armor"
 "hp": !!int "2"
 "hit_dice": "1d4"
 "stats":
@@ -39,7 +40,7 @@ aliases:
 - "desc": "The crab can breathe air and water."
   "name": "Amphibious"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+0 (+0 to hit), reach 5 ft., one target.\
+- "desc": "Melee Weapon Attack: dice: d20+0 (+0) to hit, reach 5 ft., one target.\
     \ Hit: 1 bludgeoning damage."
   "name": "Claw"
 "source":

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/vgm
-aliases: ["Credits"]
+  - compendium/src/5e/vgm
+aliases:
+  - Credits
 ---
 # Credits
 *Source: Volo's Guide to Monsters* 

@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Shadow Spirit (8th-level Spell)
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Shadow Spirit 8th Level Spell.md|Shadow Spirit (8th-level Spell)]]
+# [[5. Mechanics/Bestiary/Monstrosity/Shadow Spirit 8th Level Spell.md|Shadow Spirit (8th-level Spell)]]
 *Source: Tasha's Cauldron of Everything p. 114*
 
 ```statblock
@@ -19,6 +19,7 @@ aliases:
 "type": "monstrosity"
 "alignment": "Unaligned"
 "ac": !!int "19"
+"ac_class": "natural armor"
 "hp": !!int "110"
 "stats":
 - !!int "13"

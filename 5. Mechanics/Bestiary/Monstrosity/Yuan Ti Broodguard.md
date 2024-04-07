@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Yuan-ti Broodguard
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Yuan Ti Broodguard.md|Yuan-ti Broodguard]]
+# [[5. Mechanics/Bestiary/Monstrosity/Yuan Ti Broodguard.md|Yuan-ti Broodguard]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 273, Volo's Guide to Monsters p. 203*
 
 > [!quote]- A quote from Mordekainen  
@@ -32,6 +32,7 @@ Most broodguards are made from human captives forced to consume a magical brew t
 "type": "monstrosity"
 "alignment": "Typically  Neutral Evil"
 "ac": !!int "14"
+"ac_class": "natural armor"
 "hp": !!int "45"
 "hit_dice": "7d8 + 14"
 "stats":
@@ -62,11 +63,11 @@ Most broodguards are made from human captives forced to consume a magical brew t
 "actions":
 - "desc": "The broodguard makes one Bite attack and two Claw attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 2|avg (1d8 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d8 + 2|text(6) (1d8 + 2) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 2|text(5) (1d6 + 2) slashing damage."
   "name": "Claw"
 "source":
 - "MPMM"

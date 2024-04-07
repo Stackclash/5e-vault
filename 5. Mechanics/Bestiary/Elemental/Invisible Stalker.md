@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Invisible Stalker
 ---
-# [[5. Mechanics\Bestiary\Elemental\Invisible Stalker.md|Invisible Stalker]]
+# [[5. Mechanics/Bestiary/Elemental/Invisible Stalker.md|Invisible Stalker]]
 *Source: Monster Manual p. 192, Curse of Strahd. Available in the SRD.*
 
 An invisible stalker is an air elemental that has been summoned from its native plane and transformed by powerful magic. Its sole purpose is to hunt down creatures and retrieve objects for its summoner. When it is defeated or the magic that binds it expires, an invisible stalker vanishes in a gust of wind.
@@ -69,8 +69,8 @@ An invisible stalker requires no air, food, drink, or sleep.
 "actions":
 - "desc": "The stalker makes two slam attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 3|text(10) (2d6 + 3) bludgeoning damage."
   "name": "Slam"
 "source":
 - "MM"

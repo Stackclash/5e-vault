@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Adult Brass Dragon
 ---
-# [[5. Mechanics\Bestiary\Dragon\Adult Brass Dragon.md|Adult Brass Dragon]]
+# [[5. Mechanics/Bestiary/Dragon/Adult Brass Dragon.md|Adult Brass Dragon]]
 *Source: Monster Manual p. 105. Available in the SRD.*
 
 The most gregarious of the true dragons, brass dragons crave conversation, sunlight, and hot, dry climates.
@@ -86,6 +86,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 "type": "dragon"
 "alignment": "Chaotic Good"
 "ac": !!int "18"
+"ac_class": "natural armor"
 "hp": !!int "172"
 "hit_dice": "15d12 + 75"
 "stats":
@@ -117,14 +118,14 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "desc": "The dragon can use its Frightful Presence. It then makes three attacks:\
     \ one with its bite and two with its claws."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+11 (+11 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d10 + 6|avg (2d10 + 6) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+11 (+11) to hit, reach 10 ft., one\
+    \ target. Hit: dice:2d10 + 6|text(17) (2d10 + 6) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+11 (+11 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 6|avg (2d6 + 6) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+11 (+11) to hit, reach 5 ft., one\
+    \ target. Hit: dice:2d6 + 6|text(13) (2d6 + 6) slashing damage."
   "name": "Claw"
-- "desc": "Melee Weapon Attack: dice: d20+11 (+11 to hit), reach 15 ft., one target.\
-    \ Hit: dice: 2d8 + 6|avg (2d8 + 6) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+11 (+11) to hit, reach 15 ft., one\
+    \ target. Hit: dice:2d8 + 6|text(15) (2d8 + 6) bludgeoning damage."
   "name": "Tail"
 - "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
     \ and aware of it must succeed on a DC 16 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
@@ -135,7 +136,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   "name": "Frightful Presence"
 - "desc": "The dragon uses one of the following breath weapons.\n\n- Fire Breath.\
     \ The dragon exhales fire in a 60-foot line that is 5 feet wide. Each creature\
-    \ in that line must make a DC 18 Dexterity saving throw, taking dice: 13d6|avg\
+    \ in that line must make a DC 18 Dexterity saving throw, taking dice:13d6|text(45)\
     \ (13d6) fire damage on a failed save, or half as much damage on a successful\
     \ one.  \n- Sleep Breath. The dragon exhales sleep gas in a 60-foot cone.\
     \ Each creature in that area must succeed on a DC 18 Constitution saving throw\
@@ -150,8 +151,8 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "desc": "The dragon makes a tail attack."
   "name": "Tail Attack"
 - "desc": "The dragon beats its wings. Each creature within 10 feet of the dragon\
-    \ must succeed on a DC 19 Dexterity saving throw or take dice: 2d6 + 6|avg (2d6\
-    \ + 6) bludgeoning damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
+    \ must succeed on a DC 19 Dexterity saving throw or take dice:2d6 + 6|text(13)\
+    \ (2d6 + 6) bludgeoning damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
     \ The dragon can then fly up to half its flying speed."
   "name": "Wing Attack (Costs 2 Actions)"
 "lair_actions":
@@ -175,16 +176,16 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ can use one or more of the following additional lair actions while in its lair:\n\
     \n- Animate Statues. The dragon chooses up to three statues in the lair that\
     \ it can see. Each of these statues briefly animates and attacks one creature\
-    \ within 5 feet of it, with a +7 bonus to hit and dealing dice: 3d6|avg (3d6)\
-    \ bludgeoning damage on a hit.  \n- Blast of Wind. A mighty wind sweeps through\
-    \ the lair in a direction of the dragon's choice, blowing along a line 40 feet\
-    \ wide and 100 feet long. Each creature in that area except the dragon must succeed\
-    \ on a DC 15 Strength saving throw or be pushed 15 feet in the wind's direction\
-    \ and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]. Gases and vapors\
-    \ are dispersed by the wind, and unprotected flames are extinguished. Protected\
-    \ flames, such as lanterns, have a 50% chance chance of being extinguished. If\
-    \ the dragon is within the area of the wind, it can choose to be pushed 15 feet\
-    \ in the wind's direction, and the wind can't knock the dragon [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
+    \ within 5 feet of it, with a +7 bonus to hit and dealing dice:3d6|text(10)\
+    \ (3d6) bludgeoning damage on a hit.  \n- Blast of Wind. A mighty wind sweeps\
+    \ through the lair in a direction of the dragon's choice, blowing along a line\
+    \ 40 feet wide and 100 feet long. Each creature in that area except the dragon\
+    \ must succeed on a DC 15 Strength saving throw or be pushed 15 feet in the wind's\
+    \ direction and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]. Gases\
+    \ and vapors are dispersed by the wind, and unprotected flames are extinguished.\
+    \ Protected flames, such as lanterns, have a 50% chance chance of being extinguished.\
+    \ If the dragon is within the area of the wind, it can choose to be pushed 15\
+    \ feet in the wind's direction, and the wind can't knock the dragon [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
     \  \n- Obscuring Sand. Dust and sand fill the air within 120 feet of the dragon,\
     \ making the area lightly obscured until initiative count 20 on the next round.\
     \  "
@@ -205,8 +206,8 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ of 3 or higher comes within 30 feet of a water source within 1 mile of the dragon's\
     \ lair, the dragon becomes aware of the creature's presence and location.  "
   "name": ""
-- "desc": "If the dragon dies, the tracks fade in dice: 1d10|avg (1d10) days,\
-    \ but the other effects fade immediately."
+- "desc": "If the dragon dies, the tracks fade in dice: 1d10|avg|noform (1d10)\
+    \ days, but the other effects fade immediately."
   "name": ""
 - "desc": "Any of these effects might appear in the area around a brass dragon's lair,\
     \ in addition to or instead of the effects described in the Monster Manual:\n\

@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Necromancer Wizard
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Necromancer Wizard.md|Necromancer Wizard]]
+# [[5. Mechanics/Bestiary/Humanoid/Necromancer Wizard.md|Necromancer Wizard]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 264, Volo's Guide to Monsters p. 217*
 
 Necromancers study the interaction of life, death, and undeath. Some necromancers dig up or purchase corpses to create Undead servitors. A few instead use their powers for good, hunting Undead.
@@ -27,6 +27,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "12"
+"ac_class": "15 with [[5. Mechanics/Spells/Mage Armor.md|mage armor]]"
 "hp": !!int "110"
 "hit_dice": "20d8 + 20"
 "stats":
@@ -59,8 +60,8 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "actions":
 - "desc": "The necromancer makes three Arcane Burst attacks."
   "name": "Multiattack"
-- "desc": "Melee or Ranged Spell Attack: dice: d20+7 (+7 to hit), reach 5 ft.\
-    \ or range 120 ft., one target. Hit: dice: 4d10 + 3|avg (4d10 + 3) necrotic\
+- "desc": "Melee or Ranged Spell Attack: dice: d20+7 (+7) to hit, reach 5 ft.\
+    \ or range 120 ft., one target. Hit: dice:4d10 + 3|text(25) (4d10 + 3) necrotic\
     \ damage."
   "name": "Arcane Burst"
 "bonus_actions":
@@ -73,7 +74,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
   "name": "Summon Undead (1/Day)"
 "reactions":
 - "desc": "When the necromancer kills a creature with necrotic damage, the necromancer\
-    \ regains dice: 2d8|avg (2d8) hit points. "
+    \ regains dice:2d8|text(9) (2d8) hit points. "
   "name": "Grim Harvest (1/Turn)"
 "source":
 - "MPMM"

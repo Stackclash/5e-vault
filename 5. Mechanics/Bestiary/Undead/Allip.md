@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Allip
 ---
-# [[5. Mechanics\Bestiary\Undead\Allip.md|Allip]]
+# [[5. Mechanics/Bestiary/Undead/Allip.md|Allip]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 45, Mordenkainen's Tome of Foes p. 116*
 
 When a creature uncovers a secret that a powerful being has protected with a mighty curse, the result is often the creation of an allip. Secrets protected in this manner range in scope from a demon lord's true name to the hidden truths of the cosmic order. The creature acquires the secret, but the curse annihilates its body and leaves behind a spectral being composed of fragments from the victim's psyche and overwhelming psychic agony.
@@ -58,25 +58,25 @@ An allip might attempt to share its lore to escape its curse and enter the after
 "cr": "5"
 "traits":
 - "desc": "The allip can move through other creatures and objects as if they were\
-    \ difficult terrain. It takes dice: 1d10|avg (1d10) force damage if it ends\
-    \ its turn inside an object."
+    \ difficult terrain. It takes dice:1d10|text(5) (1d10) force damage if it\
+    \ ends its turn inside an object."
   "name": "Incorporeal Movement"
 - "desc": "The allip doesn't require air, food, drink, or sleep."
   "name": "Unusual Nature"
 "actions":
-- "desc": "Melee Spell Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 4d6 + 3|avg (4d6 + 3) psychic damage."
+- "desc": "Melee Spell Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:4d6 + 3|text(17) (4d6 + 3) psychic damage."
   "name": "Maddening Touch"
 - "desc": "Each creature within 30 feet of the allip that can hear it must make a\
-    \ DC 14 Wisdom saving throw. On a failed save, a target takes dice: 2d8 + 3|avg\
+    \ DC 14 Wisdom saving throw. On a failed save, a target takes dice:2d8 + 3|text(12)\
     \ (2d8 + 3) psychic damage, and it is [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
     \ until the end of its next turn. On a successful save, it takes half as much\
     \ damage and isn't [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]. Constructs\
     \ and Undead are immune to this effect."
   "name": "Howling Babble (Recharge 6)"
 - "desc": "The allip chooses up to three creatures it can see within 60 feet of it.\
-    \ Each target must succeed on a DC 14 Wisdom saving throw, or it takes dice:\
-    \ 2d8 + 3|avg (2d8 + 3) psychic damage and must use its reaction to make a\
+    \ Each target must succeed on a DC 14 Wisdom saving throw, or it takes dice:2d8\
+    \ + 3|text(12) (2d8 + 3) psychic damage and must use its reaction to make a\
     \ melee weapon attack against one creature of the allip's choice that the allip\
     \ can see. Constructs and Undead are immune to this effect."
   "name": "Whispers of Compulsion"

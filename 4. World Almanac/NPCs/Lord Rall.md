@@ -1,27 +1,29 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: null
 condition: healthy
-image: https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/lord-rall.jpg
+image: >-
+  https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/lord-rall.jpg
 relationships: []
-tags: 
-aliases: [Lord Rall]
-pronounced: 
-race: 
-gender: 
-age: 
+tags: null
+aliases:
+  - Lord Rall
+pronounced: null
+race: null
+gender: null
+age: null
 alignment: Chaotic
-occupation: 
+occupation: null
 groups: []
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]
@@ -124,6 +126,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 "type": "aberration"
 "alignment": "Chaotic"
 "ac": !!int "12"
+"ac_class": "15 with [[5. Mechanics/Spells/Mage Armor.md|mage armor]]"
 "hp": !!int "91"
 "hit_dice": "14d8 + 28"
 "stats":
@@ -150,7 +153,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 "cr": "8"
 "traits":
 - "desc": "Lord Rall is a 10th-level spellcaster. His spellcasting ability is Intelligence\
-    \ (spell save DC 16, dice: d20+8 (+8 to hit) with spell attacks). He has the\
+    \ (spell save DC 16, dice: d20+8 (+8) to hit with spell attacks). He has the\
     \ following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
     \ [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]], [[5. Mechanics/Spells/Ray Of Frost.md|ray of frost]]\n\
     \n1st level (4 slots): [[5. Mechanics/Spells/Mage Armor.md|mage armor]], [magic\
@@ -180,9 +183,9 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ a DC of 16. Lord Rall does not need to concentrate on this spell to maintain\
     \ it."
   "name": "The Staff of Changing (Recharge 5-6)"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 1|avg (2d6 + 1) bludgeoning damage, or dice: 2d8 + 1|avg\
-    \ (2d8 + 1) bludgeoning damage if wielded with two hands."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
+    \ Hit: dice:2d6 + 1|text(8) (2d6 + 1) bludgeoning damage, or dice:2d8 +\
+    \ 1|text(10) (2d8 + 1) bludgeoning damage if wielded with two hands."
   "name": "Greatstaff"
 - "desc": "When he drops to 0 hit points, Lord Rall can reform himself from any corpse\
     \ within 120 feet instead of falling [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]].\

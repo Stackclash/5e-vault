@@ -45,7 +45,7 @@ See the "Planar Travel" section in chapter 2 of the Dungeon Master's Guide for e
 
 At 3rd level, you learn to draw on the energy of the multiverse to augment your attacks.
 
-As a bonus action, choose one creature you can see within 30 feet of you. The next time you hit that creature on this turn with a weapon attack, all damage dealt by the attack becomes force damage, and the creature takes an extra `dice: 1d8|avg` (`1d8`) force damage from the attack. When you reach 11th level in this class, the extra damage increases to `dice: 2d8|avg` (`2d8`).
+As a bonus action, choose one creature you can see within 30 feet of you. The next time you hit that creature on this turn with a weapon attack, all damage dealt by the attack becomes force damage, and the creature takes an extra `dice: 1d8|avg|noform` (`1d8`) force damage from the attack. When you reach 11th level in this class, the extra damage increases to `dice: 2d8|avg|noform` (`2d8`).
 
 ### Ethereal Step (Level 7)
 

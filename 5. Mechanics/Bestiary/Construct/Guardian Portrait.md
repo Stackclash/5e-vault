@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Guardian Portrait
 ---
-# [[5. Mechanics\Bestiary\Construct\Guardian Portrait.md|Guardian Portrait]]
+# [[5. Mechanics/Bestiary/Construct/Guardian Portrait.md|Guardian Portrait]]
 *Source: Curse of Strahd p. 227*
 
 A guardian portrait looks like a finely rendered and beautifully framed work of art, usually depicting someone important in a realistic manner. The picture and its frame are bound with powerful magic and are inseparable.
@@ -29,6 +29,7 @@ When a guardian portrait attacks, the figure in the painting animates and moves 
 "type": "construct"
 "alignment": "Unaligned"
 "ac": !!int "5"
+"ac_class": "natural armor"
 "hp": !!int "22"
 "hit_dice": "5d8"
 "stats":

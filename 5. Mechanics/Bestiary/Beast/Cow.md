@@ -2,15 +2,16 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/vgm
-- monster/cr/1-4
-- monster/environment/grassland
-- monster/size/large
-- monster/type/beast
+  - compendium/src/5e/vgm
+  - monster/cr/1-4
+  - monster/environment/grassland
+  - monster/size/large
+  - monster/type/beast
 statblock: inline
-aliases: ["Cow"]
+aliases:
+  - Cow
 ---
-# [[5. Mechanics\Bestiary\Beast\Cow.md|Cow]]
+# [[5. Mechanics/Bestiary/Beast/Cow.md|Cow]]
 *Source: Volo's Guide to Monsters p. 207*
 
 There are many kinds of cattle, from common oxen to more unusual, magical variants.
@@ -36,12 +37,12 @@ There are many kinds of cattle, from common oxen to more unusual, magical varian
 "cr": "1/4"
 "traits":
 - "desc": "If the cow moves at least 20 feet straight toward a target and then hits\
-    \ it with a gore attack on the same turn, the target takes an extra dice: 2d6|avg\
+    \ it with a gore attack on the same turn, the target takes an extra dice:2d6|text(7)\
     \ (2d6) piercing damage."
   "name": "Charge"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
+    \ Hit: dice:1d6 + 4|text(7) (1d6 + 4) piercing damage."
   "name": "Gore"
 "source":
 - "VGM"

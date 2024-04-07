@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Dominion
 ---
-# [[5. Mechanics\Bestiary\Celestial\Dominion.md|Dominion]]
+# [[5. Mechanics/Bestiary/Celestial/Dominion.md|Dominion]]
 *Source: Strongholds and Followers p. 161*
 
 Now, see? This looks more like a regular angel thing. Why can't they all look like this—why do they have to be wheels and wings and mouths and hands?
@@ -25,7 +25,7 @@ The Dominion is so impressive and the force of her presence so overwhelming it's
 
 ## Tactics
 
-The great thing about the Dominion is that you don't have to choose whether to attack an enemy or heal an ally. The Ray of Salvation does both, making the Dominion one of the most straightforward servitors you can summon. It flies, it has a pretty good ranged attack, and its resistances mean it's going to be extremely difficult for enemies to deal with. It doesn't do much damage for a CR 8 creature, unless it's fighting evil. `dice: 3d6|avg` (`3d6`) twice isn't the end of the world, but the fact that it's healing your allies while damaging your enemies means it will change the tide of battle. Which is the point of servitors!
+The great thing about the Dominion is that you don't have to choose whether to attack an enemy or heal an ally. The Ray of Salvation does both, making the Dominion one of the most straightforward servitors you can summon. It flies, it has a pretty good ranged attack, and its resistances mean it's going to be extremely difficult for enemies to deal with. It doesn't do much damage for a CR 8 creature, unless it's fighting evil. `dice: 3d6|avg|noform` (`3d6`) twice isn't the end of the world, but the fact that it's healing your allies while damaging your enemies means it will change the tide of battle. Which is the point of servitors!
 
 Obviously it should focus on those enemies adjacent to one or more of your allies! But it doesn't have to, if a well-placed bolt of light from its scepter would make a difference.
 
@@ -35,6 +35,7 @@ Obviously it should focus on those enemies adjacent to one or more of your allie
 "type": "celestial"
 "alignment": "Any Good alignment"
 "ac": !!int "15"
+"ac_class": "natural armor"
 "hp": !!int "133"
 "hit_dice": "14d10 + 56"
 "stats":
@@ -57,7 +58,7 @@ Obviously it should focus on those enemies adjacent to one or more of your allie
 "cr": "8"
 "traits":
 - "desc": "The dominion's Ray of Salvation is magical. When the dominion hits with\
-    \ it, the ray deals an extra dice: 2d8|avg (2d8) radiant damage (included\
+    \ it, the ray deals an extra dice:2d8|text(9) (2d8) radiant damage (included\
     \ in the attack)."
   "name": "Angelic Weapons"
 - "desc": "The dominion has advantage on saving throws against spells and other magical\
@@ -73,10 +74,10 @@ Obviously it should focus on those enemies adjacent to one or more of your allie
 "actions":
 - "desc": "The dominion makes two attacks with the Ray of Salvation."
   "name": "Multiattack"
-- "desc": "Ranged Spell Attack: dice: d20+7 (+7 to hit), range 60 ft., one target.\
-    \ Hit: dice: 3d6|avg (3d6) fire damage and dice: 2d8|avg (2d8) radiant\
-    \ damage. If the ray does damage, any allies adjacent to the target gain 10 temporary\
-    \ hit points."
+- "desc": "Ranged Spell Attack: dice: d20+7 (+7) to hit, range 60 ft., one target.\
+    \ Hit: dice:3d6|text(10) (3d6) fire damage and dice:2d8|text(9) (2d8)\
+    \ radiant damage. If the ray does damage, any allies adjacent to the target gain\
+    \ 10 temporary hit points."
   "name": "Ray of Salvation"
 "source":
 - "SaF"

@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Sacred Statue
 ---
-# [[5. Mechanics\Bestiary\Construct\Sacred Statue.md|Sacred Statue]]
+# [[5. Mechanics/Bestiary/Construct/Sacred Statue.md|Sacred Statue]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 114, Mordenkainen's Tome of Foes p. 194*
 
 To protect sites they deem holy, gods often rely on eidolons, ghostly spirits bound to safeguard a sacred place. Forged from the souls of those with unwavering devotion, eidolons stalk temples and vaults to ensure that no enemy defiles, damages, or plunders these sites. If an enemy sets foot inside a warded location, the [[5. Mechanics/Bestiary/Undead/Eidolon.md|eidolon]] plunges into a [[5. Mechanics/Bestiary/Construct/Sacred Statue.md|statue]] specially prepared to house its soul; it then animates this effigy and uses the statue to drive out the intruders.
@@ -21,6 +21,7 @@ To protect sites they deem holy, gods often rely on eidolons, ghostly spirits bo
 "type": "construct"
 "alignment": "as the eidolon's alignment"
 "ac": !!int "19"
+"ac_class": "natural armor"
 "hp": !!int "95"
 "hit_dice": "10d10 + 40"
 "stats":
@@ -63,11 +64,11 @@ To protect sites they deem holy, gods often rely on eidolons, ghostly spirits bo
 "actions":
 - "desc": "The statue makes two Slam or Rock attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 6d12 + 4|avg (6d12 + 4) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 10 ft., one target.\
+    \ Hit: dice:6d12 + 4|text(43) (6d12 + 4) bludgeoning damage."
   "name": "Slam"
-- "desc": "Ranged Weapon Attack: dice: d20+8 (+8 to hit), range 60 ft./240 ft.,\
-    \ one target. Hit: dice: 6d10 + 4|avg (6d10 + 4) bludgeoning damage."
+- "desc": "Ranged Weapon Attack: dice: d20+8 (+8) to hit, range 60 ft./240 ft.,\
+    \ one target. Hit: dice:6d10 + 4|text(37) (6d10 + 4) bludgeoning damage."
   "name": "Rock"
 "source":
 - "MPMM"
