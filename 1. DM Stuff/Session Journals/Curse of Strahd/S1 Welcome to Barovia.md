@@ -4,7 +4,7 @@ date: 2023-07-08
 summary: Players were drawn together by mysterious fog and lured by the ghosts of two children into a haunted mansion.
 fc-date: 973-2-11
 timelines:
-  - CoS
+  - COS
 aat-render-enabled: true
 fc-category: Session
 party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"

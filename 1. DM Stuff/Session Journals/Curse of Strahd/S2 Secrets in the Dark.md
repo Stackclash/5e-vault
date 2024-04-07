@@ -4,7 +4,7 @@ date: 2023-07-22T00:00:00-05:00
 summary: Exploring the basement of the mansion. They find dark ritual items and an altar made for sacrifices. After refusing to sacrifice something they battle a large monster.
 fc-date: 973-2-11
 timelines:
-  - CoS
+  - COS
 aat-render-enabled: true
 fc-category: Session
 party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"

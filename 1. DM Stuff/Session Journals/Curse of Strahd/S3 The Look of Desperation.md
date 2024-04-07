@@ -4,7 +4,7 @@ date: 2023-08-05
 summary: The party struggles to escape the mansion and eventually find the inn in the village of Barovia. They get contracted to take Ireena to Vallaki.
 fc-date: 973-2-11
 timelines:
-  - CoS
+  - COS
 aat-render-enabled: true
 fc-category: Session
 party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
