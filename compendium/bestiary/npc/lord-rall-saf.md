@@ -1,0 +1,209 @@
+---
+obsidianUIMode: preview
+statblock: inline
+location: 
+condition: healthy
+image: https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/lord-rall.jpg
+relationships: []
+tags: 
+aliases: [Lord Rall]
+pronounced: 
+race: 
+gender: 
+age: 
+alignment: Chaotic
+occupation: 
+groups: []
+religions: []
+personality: 
+ideal: 
+bond: 
+flaw: 
+goals: 
+likes: 
+dislikes: 
+---
+
+> [!infobox]
+> # `=this.file.name`
+> **Pronounced:**  `INPUT[text:pronounced]`
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+> ```
+> ###### Bio
+>  |
+>  ---|---|
+> **Race** | `INPUT[suggester(optionQuery("5. Mechanics/Races")):race]` |
+> **Gender** | `INPUT[inlineSelect(option(male),option(female)):gender]` |
+> **Age** | `INPUT[number:age]` |
+> **Alignment** | `INPUT[inlineSelect(option(Lawful Good),option(Neutral Good),option(Chaotic Good),option(Lawful Neutral),option(Neutral),option(Chaotic Neutral),option(Lawful Evil),option(Neutral Evil),option(Chaotic Evil)):alignment]` |
+> **Condition** | `INPUT[inlineSelect(option(healthy),option(injured),option(dead)):condition]` |
+> ###### Info
+>  |
+>  ---|---|
+> **Alias(es)** | `INPUT[inlineList:aliases]` |
+> **Occupation(s)** | `INPUT[inlineList:occupation]` |
+> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Religion(s)** | `INPUT[inlineList:religions]` |
+> **Current Location** | `INPUT[suggester(optionQuery("4. World Almanac/Places of Interest"),optionQuery("4. World Almanac/Settlements"),optionQuery("4. World Almanac/Shops")):location]` |
+
+# **`=this.file.name`**
+*Source: Strongholds and Followers p. 171*
+
+The Vizier of the Court, Lord Rall is Maladar's personal wizard. Once Lord Rall had a more conventional form, but he forgot it somewhere and never seemed to notice. As he demonstrates in battle, he can reform himself out of any old organs you may have lying around.
+
+Rall is precise and surgical. Tactical. He likes experimenting on his enemies. He is fascinated by creatures with one set form. Creatures who find their identities wrapped up in their shape. How strange, Lord Rall thinks. Imagine what a different person you would be if you wore your brains on the outside. Or if you had many fewer, or many more, limbs. Only fools fear change.
+
+Rall has no ambition, does not plot or scheme. For this reason he does not rise higher than vizier to this, the lower court. But neither does he need fear betrayal.
+
+## Tactics
+
+Rall is a potent wizard. Unlike the Queen of Bone, Rall is not particularly interested in helping his allies, preferring to drop cloudkill on his enemies or lock them in place with black tentacles.
+
+Lord Rall channels his power through The Staff of Changing ^[Like all the servitor items, it possesses no magic of its own, so the players don't suddenly come into possession of a powerful artifact if they kill Lord Rall.], molding enemies to suit his terrible whims. Because of his deep understanding of form and changing, he does not need to concentrate on this. He fully expects to be able to turn every enemy in the battle into slimy things, given time.
+
+## Traits/Goals
+> [!column] Traits
+>> [!metadata|text-Center bg-c-gray] Personality
+>> `INPUT[textArea:personality]`
+>
+>> [!metadata|text-Center bg-c-gray] Ideal
+>> `INPUT[textArea:ideal]`
+>
+>> [!metadata|text-Center bg-c-gray] Bond
+>> `INPUT[textArea:bond]`
+>
+>> [!metadata|text-Center bg-c-gray] Flaw
+>> `INPUT[textArea:flaw]`
+>
+>> [!metadata|text-Center bg-c-green] Likes
+>> `INPUT[textArea:likes]`
+>
+>> [!metadata|text-Center bg-c-red] Dislikes
+>> `INPUT[textArea:dislikes]`
+
+> [!column|dataview] Goals
+>> `INPUT[textArea:goals]`
+
+## Relationships
+`BUTTON[add-relationship,remove-relationship]`
+```meta-bind-button
+style: primary
+label: Add Relationship
+id: add-relationship
+hidden: true
+actions:
+  - type: command
+    command: templater-obsidian:insert-templater
+  - type: input
+    str: add
+  - type: input
+    str: relationship
+```
+```meta-bind-button
+style: destructive
+label: Remove Relationship
+id: remove-relationship
+hidden: true
+actions:
+  - type: command
+    command: templater-obsidian:insert-templater
+  - type: input
+    str: remove
+  - type: input
+    str: relationship
+```
+```dataviewjs
+await dv.view("npcRelationships", { current: dv.current() })
+```
+
+## Stats
+```statblock
+"name": "Lord Rall (SaF)"
+"size": "Medium"
+"type": "aberration"
+"alignment": "Chaotic"
+"ac": !!int "12"
+"hp": !!int "91"
+"hit_dice": "14d8 + 28"
+"stats":
+- !!int "13"
+- !!int "10"
+- !!int "14"
+- !!int "20"
+- !!int "15"
+- !!int "16"
+"speed": "30 ft., fly 10 ft. (hover)"
+"saves":
+  "Charisma": !!int "6"
+  "Wisdom": !!int "5"
+  "Intelligence": !!int "8"
+"skillsaves":
+  "Deception": !!int "6"
+  "Insight": !!int "5"
+  "History": !!int "8"
+  "Arcana": !!int "8"
+"damage_resistances": "psychic"
+"condition_immunities": "[charmed](/compendium/rules/conditions.md#charmed), [petrified](/compendium/rules/conditions.md#petrified)"
+"senses": "darkvision 60 ft., passive Perception 15"
+"languages": "Common, Deep Speech, Primordial"
+"cr": "8"
+"traits":
+- "desc": "Lord Rall is a 10th-level spellcaster. His spellcasting ability is Intelligence\
+    \ (spell save DC 16, dice: d20+8 (+8 to hit) with spell attacks). He has the\
+    \ following wizard spells prepared:\n\nCantrips (at will): [mage hand](compendium/spells/mage-hand.md),\
+    \ [minor illusion](compendium/spells/minor-illusion.md), [ray of frost](compendium/spells/ray-of-frost.md)\n\
+    \n1st level (4 slots): [mage armor](compendium/spells/mage-armor.md), [magic\
+    \ missile](compendium/spells/magic-missile.md), [sleep](compendium/spells/sleep.md)\n\
+    \n2nd level (3 slots): [ray of enfeeblement](compendium/spells/ray-of-enfeeblement.md),\
+    \ [mirror image](compendium/spells/mirror-image.md)\n\n3rd level (3 slots):\
+    \ [lightning bolt](compendium/spells/lightning-bolt.md), [haste](compendium/spells/haste.md)\n\
+    \n4th level (3 slots): [black tentacles](compendium/spells/evards-black-tentacles.md),\
+    \ [blight](compendium/spells/blight.md)\n\n5th level (2 slots): [cloudkill](compendium/spells/cloudkill.md)"
+  "name": "spells"
+- "desc": "The Court of All Flesh are beings of pure chaos. Because their minds are\
+    \ pure disorder, they cannot be driven mad or [charmed](/compendium/rules/conditions.md#charmed)\
+    \ and any attempts to magically compel their behavior fails."
+  "name": "Everchanging Changers"
+- "desc": "Lord Rall is immune to any spell or effect that would alter his form."
+  "name": "Formless Shape"
+- "desc": "As an action, Lord Rall can polymorph into a Small or Medium creature or\
+    \ back into his true form. His statistics, other than his size, are the same in\
+    \ each form. Any worn or carried equipment isn't transformed. He reverts to his\
+    \ true form if he dies."
+  "name": "Shapechanger"
+"actions":
+- "desc": "Lord Rall makes two melee attacks with the Staff of Changing."
+  "name": "Multiattack"
+- "desc": "Rall's staff remakes a target into any shape he desires. He casts polymorph\
+    \ from it as an action. The range is 30 feet, and the Wisdom saving throw has\
+    \ a DC of 16. Lord Rall does not need to concentrate on this spell to maintain\
+    \ it."
+  "name": "The Staff of Changing (Recharge 5-6)"
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 2d6 + 1|avg (2d6 + 1) bludgeoning damage, or dice: 2d8 + 1|avg\
+    \ (2d8 + 1) bludgeoning damage if wielded with two hands."
+  "name": "Greatstaff"
+- "desc": "When he drops to 0 hit points, Lord Rall can reform himself from any corpse\
+    \ within 120 feet instead of falling [unconscious](/compendium/rules/conditions.md#unconscious).\
+    \ Lord Rall does not need to see the corpse in order to use it. The process happens\
+    \ in an instant, and the newly formed Lord Rall appears with only half of his\
+    \ maximum hit points."
+  "name": "Any Pile of Organs Will Do (Recharge 6-6)"
+"source":
+- "SaF"
+"image": "compendium/bestiary/npc/token/lord-rall-saf.webp"
+```
+^statblock
+
+## History
+TBD
+
+## DM Notes
+### Plot Hooks
+
+
+### Hidden Details
+
+
+### General Notes
