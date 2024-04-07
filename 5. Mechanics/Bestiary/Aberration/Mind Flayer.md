@@ -76,8 +76,8 @@ An illithid experiences euphoria as it devours the brain of a humanoid, along wi
 - "desc": "The mind flayer's innate spellcasting ability is Intelligence (spell save\
     \ DC 15). It can innately cast the following spells, requiring no components:\n\
     \nAt will: [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[5. Mechanics/Spells/Levitate.md|levitate]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Dominate Monster.md|dominate monster]], [plane\
-    \ shift](compendium/spells/plane-shift.md) (self only)"
+    \n1/day each: [[5. Mechanics/Spells/Dominate Monster.md|dominate monster]], [[5. Mechanics/Spells/Plane Shift.md|plane\
+    \ shift]] (self only)"
   "name": "innate"
 - "desc": "The mind flayer has advantage on saving throws against spells and other\
     \ magical effects."

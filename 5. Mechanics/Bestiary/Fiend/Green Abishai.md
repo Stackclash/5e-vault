@@ -62,8 +62,8 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
     \ and using Charisma as the spellcasting ability (spell save DC 17):\n\nAt will:\
     \ [[5. Mechanics/Spells/Alter Self.md|alter self]], [[5. Mechanics/Spells/Major Image.md|major image]]\n\
     \n1/day each: [[5. Mechanics/Spells/Confusion.md|confusion]], [[5. Mechanics/Spells/Dominate Person.md|dominate person]],\
-    \ [[5. Mechanics/Spells/Mass Suggestion.md|mass suggestion]]\n\n3/day each: [charm\
-    \ person](compendium/spells/charm-person.md), [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
+    \ [[5. Mechanics/Spells/Mass Suggestion.md|mass suggestion]]\n\n3/day each: [[5. Mechanics/Spells/Charm Person.md|charm\
+    \ person]], [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
     \ [[5. Mechanics/Spells/Fear.md|fear]]"
   "name": "spells"
 - "desc": "Magical darkness doesn't impede the abishai's [[/5. Mechanics/Rules/Senses.md#darkvision|darkvision]]."

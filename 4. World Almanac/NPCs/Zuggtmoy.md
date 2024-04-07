@@ -217,8 +217,8 @@ await dv.view("npcRelationships", { current: dv.current() })
   "name": ""
 - "desc": "- Rally Plants. Up to four plant creatures that are friendly to Zuggtmoy\
     \ and that Zuggtmoy can see can use their reactions to move up to their speed\
-    \ and make one weapon attack.  \n- Summon Fungi. Zuggtmoy causes four [gas\
-    \ spores](compendium/bestiary/plant/gas-spore.md) or [[5. Mechanics/Bestiary/Plant/Violet Fungus.md|violet fungi]]\
+    \ and make one weapon attack.  \n- Summon Fungi. Zuggtmoy causes four [[5. Mechanics/Bestiary/Plant/Gas Spore.md|gas\
+    \ spores]] or [[5. Mechanics/Bestiary/Plant/Violet Fungus.md|violet fungi]]\
     \ to appear in unoccupied spaces that she chooses within the lair. They vanish\
     \ after 1 hour.  \n- Unleash Spores. Zuggtmoy uses either her Infestation\
     \ Spores or her Mind Control Spores, centered on a mushroom or other fungus within\

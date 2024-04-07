@@ -75,8 +75,8 @@ An intellect devourer consumes a creature's mind and memories, then turns the ho
     \ at least one point of Intelligence."
   "name": "Devour Intellect"
 - "desc": "The intellect devourer initiates an Intelligence contest with an [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
-    \ humanoid within 5 feet of it that isn't protected by [protection from evil and\
-    \ good](compendium/spells/protection-from-evil-and-good.md). If it wins the contest,\
+    \ humanoid within 5 feet of it that isn't protected by [[5. Mechanics/Spells/Protection From Evil And Good.md|protection from evil and\
+    \ good]]. If it wins the contest,\
     \ the intellect devourer magically consumes the target's brain, teleports into\
     \ the target's skull, and takes control of the target's body. While inside a creature,\
     \ the intellect devourer has total cover against attacks and other effects originating\

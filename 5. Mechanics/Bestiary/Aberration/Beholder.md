@@ -70,8 +70,8 @@ A beholder's central lair is typically a large, spacious cavern with high ceilin
 "languages": "Deep Speech, Undercommon"
 "cr": "13"
 "traits":
-- "desc": "The beholder's central eye creates an area of antimagic, as in the [antimagic\
-    \ field](compendium/spells/antimagic-field.md) spell, in a 150-foot cone. At the\
+- "desc": "The beholder's central eye creates an area of antimagic, as in the [[5. Mechanics/Spells/Antimagic Field.md|antimagic\
+    \ field]] spell, in a 150-foot cone. At the\
     \ start of each of its turns, the beholder decides which way the cone faces and\
     \ whether the cone is active. The area works against the beholder's own eye rays."
   "name": "Antimagic Cone"

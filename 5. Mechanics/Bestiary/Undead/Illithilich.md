@@ -143,8 +143,8 @@ The lich uses a spell slot to cast a 1st-, 2nd-, or 3rd-level spell that it has 
 - "desc": "The illithilich's innate spellcasting ability is Intelligence (spell save\
     \ DC 20). It can innately cast the following spells, requiring no components.\n\
     \nAt will: [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[5. Mechanics/Spells/Levitate.md|levitate]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Dominate Monster.md|dominate monster]], [plane\
-    \ shift](compendium/spells/plane-shift.md) (self only)"
+    \n1/day each: [[5. Mechanics/Spells/Dominate Monster.md|dominate monster]], [[5. Mechanics/Spells/Plane Shift.md|plane\
+    \ shift]] (self only)"
   "name": "innate"
 - "desc": "The illithilich is an 18th-level spellcaster. Its spellcasting ability\
     \ is Intelligence (spell save DC 20, dice: d20+12 (+12) to hit with spell\

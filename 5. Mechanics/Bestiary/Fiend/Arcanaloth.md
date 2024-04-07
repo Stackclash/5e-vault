@@ -122,9 +122,9 @@ Whatever the case, no fiend finds the General unless the General desires it. His
     \ [[5. Mechanics/Spells/Mirror Image.md|mirror image]], [[5. Mechanics/Spells/Phantasmal Force.md|phantasmal force]],\
     \ [[5. Mechanics/Spells/Suggestion.md|suggestion]]\n\n3rd level (3 slots): [[5. Mechanics/Spells/Counterspell.md|counterspell]],\
     \ [[5. Mechanics/Spells/Fear.md|fear]], [[5. Mechanics/Spells/Fireball.md|fireball]]\n\
-    \n4th level (3 slots): [[5. Mechanics/Spells/Banishment.md|banishment]], [dimension\
-    \ door](compendium/spells/dimension-door.md)\n\n5th level (2 slots): [contact\
-    \ other plane](compendium/spells/contact-other-plane.md), [[5. Mechanics/Spells/Hold Monster.md|hold monster]]\n\
+    \n4th level (3 slots): [[5. Mechanics/Spells/Banishment.md|banishment]], [[5. Mechanics/Spells/Dimension Door.md|dimension\
+    \ door]]\n\n5th level (2 slots): [[5. Mechanics/Spells/Contact Other Plane.md|contact\
+    \ other plane]], [[5. Mechanics/Spells/Hold Monster.md|hold monster]]\n\
     \n6th level (1 slots): [[5. Mechanics/Spells/Chain Lightning.md|chain lightning]]\n\
     \n7th level (1 slots): [[5. Mechanics/Spells/Finger Of Death.md|finger of death]]\n\
     \n8th level (1 slots): [[5. Mechanics/Spells/Mind Blank.md|mind blank]]"

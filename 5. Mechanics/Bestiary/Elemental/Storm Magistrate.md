@@ -73,10 +73,10 @@ The Magistrate's deadliest weapon is Storm Strike, which combines chain lightnin
     \ [[5. Mechanics/Spells/Beacon Of Hope.md|beacon of hope]], [[5. Mechanics/Spells/Magic Circle.md|magic circle]],\
     \ [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[5. Mechanics/Spells/Revivify.md|revivify]],\
     \ [[5. Mechanics/Spells/Spirit Guardians.md|spirit guardians]], [[5. Mechanics/Spells/Mass Healing Word.md|mass healing word]]\n\
-    \n4th level (3 slots): [[5. Mechanics/Spells/Banishment.md|banishment]], [freedom\
-    \ of movement](compendium/spells/freedom-of-movement.md), [[5. Mechanics/Spells/Guardian Of Faith.md|guardian of faith]],\
-    \ [[5. Mechanics/Spells/Stoneskin.md|stoneskin]]\n\n5th level (1 slots): [flame\
-    \ strike](compendium/spells/flame-strike.md), [[5. Mechanics/Spells/Mass Cure Wounds.md|mass cure wounds]],\
+    \n4th level (3 slots): [[5. Mechanics/Spells/Banishment.md|banishment]], [[5. Mechanics/Spells/Freedom Of Movement.md|freedom\
+    \ of movement]], [[5. Mechanics/Spells/Guardian Of Faith.md|guardian of faith]],\
+    \ [[5. Mechanics/Spells/Stoneskin.md|stoneskin]]\n\n5th level (1 slots): [[5. Mechanics/Spells/Flame Strike.md|flame\
+    \ strike]], [[5. Mechanics/Spells/Mass Cure Wounds.md|mass cure wounds]],\
     \ [[5. Mechanics/Spells/Hold Monster.md|hold monster]]"
   "name": "spells"
 "actions":

@@ -56,8 +56,8 @@ Some favored consorts work behind the scenes to undermine the evils encouraged b
     \ will: [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]], [[5. Mechanics/Spells/Mage Armor.md|mage armor]],\
     \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Message.md|message]]\n\
     \n1/day each: [[5. Mechanics/Spells/Darkness.md|darkness]], [[5. Mechanics/Spells/Faerie Fire.md|faerie fire]],\
-    \ [[5. Mechanics/Spells/Levitate.md|levitate]] (self only)\n\n3/day each: [dimension\
-    \ door](compendium/spells/dimension-door.md), [[5. Mechanics/Spells/Fireball.md|fireball]],\
+    \ [[5. Mechanics/Spells/Levitate.md|levitate]] (self only)\n\n3/day each: [[5. Mechanics/Spells/Dimension Door.md|dimension\
+    \ door]], [[5. Mechanics/Spells/Fireball.md|fireball]],\
     \ [[5. Mechanics/Spells/Invisibility.md|invisibility]]"
   "name": "spells"
 - "desc": "The drow has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\

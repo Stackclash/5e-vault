@@ -87,12 +87,12 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
     \ [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
     \n1st level (4 slots): [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
     \ [[5. Mechanics/Spells/Sanctuary.md|sanctuary]], [[5. Mechanics/Spells/Shield Of Faith.md|shield of faith]]\n\
-    \n2nd level (3 slots): [[5. Mechanics/Spells/Hold Person.md|hold person]], [spiritual\
-    \ weapon](compendium/spells/spiritual-weapon.md)\n\n3rd level (3 slots): [spirit\
-    \ guardians](compendium/spells/spirit-guardians.md), [[5. Mechanics/Spells/Tongues.md|tongues]]\n\
+    \n2nd level (3 slots): [[5. Mechanics/Spells/Hold Person.md|hold person]], [[5. Mechanics/Spells/Spiritual Weapon.md|spiritual\
+    \ weapon]]\n\n3rd level (3 slots): [[5. Mechanics/Spells/Spirit Guardians.md|spirit\
+    \ guardians]], [[5. Mechanics/Spells/Tongues.md|tongues]]\n\
     \n4th level (3 slots): [[5. Mechanics/Spells/Control Water.md|control water]],\
-    \ [[5. Mechanics/Spells/Divination.md|divination]]\n\n5th level (2 slots): [mass\
-    \ cure wounds](compendium/spells/mass-cure-wounds.md), [[5. Mechanics/Spells/Scrying.md|scrying]]"
+    \ [[5. Mechanics/Spells/Divination.md|divination]]\n\n5th level (2 slots): [[5. Mechanics/Spells/Mass Cure Wounds.md|mass\
+    \ cure wounds]], [[5. Mechanics/Spells/Scrying.md|scrying]]"
   "name": "spells"
 - "desc": "The kuo-toa can breathe air and water."
   "name": "Amphibious"

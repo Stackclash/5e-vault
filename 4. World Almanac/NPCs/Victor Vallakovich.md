@@ -148,8 +148,8 @@ await dv.view("npcRelationships", { current: dv.current() })
     \n3rd level (3 slots): [[5. Mechanics/Spells/Counterspell.md|counterspell]],\
     \ [[5. Mechanics/Spells/Fireball.md|fireball]], [[5. Mechanics/Spells/Fly.md|fly]]\n\
     \n4th level (3 slots): [[5. Mechanics/Spells/Greater Invisibility.md|greater invisibility]],\
-    \ [[5. Mechanics/Spells/Ice Storm.md|ice storm]]\n\n5th level (1 slots): [cone\
-    \ of cold](compendium/spells/cone-of-cold.md)"
+    \ [[5. Mechanics/Spells/Ice Storm.md|ice storm]]\n\n5th level (1 slots): [[5. Mechanics/Spells/Cone Of Cold.md|cone\
+    \ of cold]]"
   "name": "spells"
 "actions":
 - "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft.\

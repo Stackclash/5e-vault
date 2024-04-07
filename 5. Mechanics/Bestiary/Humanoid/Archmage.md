@@ -63,8 +63,8 @@ An archmage typically has one or more apprentice mages, and an archmage's abode 
     \ [[5. Mechanics/Spells/Mirror Image.md|mirror image]], [[5. Mechanics/Spells/Misty Step.md|misty step]]\n\
     \n3rd level (3 slots): [[5. Mechanics/Spells/Counterspell.md|counterspell]],\
     \ [[5. Mechanics/Spells/Fly.md|fly]], [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]]\n\
-    \n4th level (3 slots): [[5. Mechanics/Spells/Banishment.md|banishment]], [fire\
-    \ shield](compendium/spells/fire-shield.md), [[5. Mechanics/Spells/Stoneskin.md|stoneskin]]\n\
+    \n4th level (3 slots): [[5. Mechanics/Spells/Banishment.md|banishment]], [[5. Mechanics/Spells/Fire Shield.md|fire\
+    \ shield]], [[5. Mechanics/Spells/Stoneskin.md|stoneskin]]\n\
     \n5th level (3 slots): [[5. Mechanics/Spells/Cone Of Cold.md|cone of cold]],\
     \ [[5. Mechanics/Spells/Scrying.md|scrying]], [[5. Mechanics/Spells/Wall Of Force.md|wall of force]]\n\
     \n6th level (1 slots): [[5. Mechanics/Spells/Globe Of Invulnerability.md|globe of invulnerability]]\n\

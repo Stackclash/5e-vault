@@ -140,8 +140,8 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ save DC 13, dice: d20+5 (+5) to hit with spell attacks). Fiona has the following\
     \ cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Light.md|light]],\
     \ [[5. Mechanics/Spells/Mending.md|mending]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
-    \n1st level (4 slots): [[5. Mechanics/Spells/Command.md|command]], [purify food\
-    \ and drink](compendium/spells/purify-food-and-drink.md), [[5. Mechanics/Spells/Sanctuary.md|sanctuary]]\n\
+    \n1st level (4 slots): [[5. Mechanics/Spells/Command.md|command]], [[5. Mechanics/Spells/Purify Food And Drink.md|purify food\
+    \ and drink]], [[5. Mechanics/Spells/Sanctuary.md|sanctuary]]\n\
     \n2nd level (3 slots): [[5. Mechanics/Spells/Augury.md|augury]], [[5. Mechanics/Spells/Gentle Repose.md|gentle repose]],\
     \ [[5. Mechanics/Spells/Hold Person.md|hold person]]\n\n3rd level (2 slots):\
     \ [[5. Mechanics/Spells/Animate Dead.md|animate dead]], [[5. Mechanics/Spells/Create Food And Water.md|create food and water]]"

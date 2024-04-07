@@ -168,10 +168,10 @@ await dv.view("npcRelationships", { current: dv.current() })
 "traits":
 - "desc": "Rak Tulkhesh's spellcasting ability is Charisma (spell save DC 24). He\
     \ can innately cast the following spells, requiring no material components:\n\n\
-    At will: [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [dispel\
-    \ magic](compendium/spells/dispel-magic.md), [[5. Mechanics/Spells/Spirit Guardians.md|spirit guardians]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Banishing Smite.md|banishing smite]], [blinding\
-    \ smite](compendium/spells/blinding-smite.md), [[5. Mechanics/Spells/Staggering Smite.md|staggering smite]]"
+    At will: [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[5. Mechanics/Spells/Dispel Magic.md|dispel\
+    \ magic]], [[5. Mechanics/Spells/Spirit Guardians.md|spirit guardians]]\n\
+    \n1/day each: [[5. Mechanics/Spells/Banishing Smite.md|banishing smite]], [[5. Mechanics/Spells/Blinding Smite.md|blinding\
+    \ smite]], [[5. Mechanics/Spells/Staggering Smite.md|staggering smite]]"
   "name": "innate"
 - "desc": "Rak Tulkhesh scores a critical hit on a roll of 19 or 20 and rolls the\
     \ damage dice three times, instead of twice."

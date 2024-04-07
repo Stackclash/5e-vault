@@ -156,8 +156,8 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ (spell save DC 16, dice: d20+8 (+8) to hit with spell attacks). He has the\
     \ following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
     \ [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]], [[5. Mechanics/Spells/Ray Of Frost.md|ray of frost]]\n\
-    \n1st level (4 slots): [[5. Mechanics/Spells/Mage Armor.md|mage armor]], [magic\
-    \ missile](compendium/spells/magic-missile.md), [[5. Mechanics/Spells/Sleep.md|sleep]]\n\
+    \n1st level (4 slots): [[5. Mechanics/Spells/Mage Armor.md|mage armor]], [[5. Mechanics/Spells/Magic Missile.md|magic\
+    \ missile]], [[5. Mechanics/Spells/Sleep.md|sleep]]\n\
     \n2nd level (3 slots): [[5. Mechanics/Spells/Ray Of Enfeeblement.md|ray of enfeeblement]],\
     \ [[5. Mechanics/Spells/Mirror Image.md|mirror image]]\n\n3rd level (3 slots):\
     \ [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]], [[5. Mechanics/Spells/Haste.md|haste]]\n\

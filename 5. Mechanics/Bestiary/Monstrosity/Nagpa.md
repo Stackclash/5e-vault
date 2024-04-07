@@ -60,8 +60,8 @@ Hungry to claim more power despite the Raven Queen's curse, nagpas strive to bri
 - "desc": "The nagpa casts one of the following spells, using Intelligence as the\
     \ spellcasting ability (spell save DC 20):\n\nAt will: [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
     \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Message.md|message]],\
-    \ [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]]\n\n1/day each: [dominate\
-    \ person](compendium/spells/dominate-person.md), [[5. Mechanics/Spells/Etherealness.md|etherealness]],\
+    \ [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]]\n\n1/day each: [[5. Mechanics/Spells/Dominate Person.md|dominate\
+    \ person]], [[5. Mechanics/Spells/Etherealness.md|etherealness]],\
     \ [[5. Mechanics/Spells/Feeblemind.md|feeblemind]]\n\n2/day each: [[5. Mechanics/Spells/Fireball.md|fireball]],\
     \ [[5. Mechanics/Spells/Fly.md|fly]], [[5. Mechanics/Spells/Hold Person.md|hold person]],\
     \ [[5. Mechanics/Spells/Suggestion.md|suggestion]], [[5. Mechanics/Spells/Wall Of Fire.md|wall of fire]]"

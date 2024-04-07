@@ -85,8 +85,8 @@ Destroying a periapt of mind trapping consigns those trapped within it to oblivi
     \ will: [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]], [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
     \ [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[5. Mechanics/Spells/Disguise Self.md|disguise self]],\
     \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Dominate Monster.md|dominate monster]], [globe\
-    \ of invulnerability](compendium/spells/globe-of-invulnerability.md), [[5. Mechanics/Spells/Invisibility.md|invisibility]],\
+    \n1/day each: [[5. Mechanics/Spells/Dominate Monster.md|dominate monster]], [[5. Mechanics/Spells/Globe Of Invulnerability.md|globe\
+    \ of invulnerability]], [[5. Mechanics/Spells/Invisibility.md|invisibility]],\
     \ [[5. Mechanics/Spells/Modify Memory.md|modify memory]], [[5. Mechanics/Spells/Plane Shift.md|plane shift]]\
     \ (self only), [[5. Mechanics/Spells/Wall Of Force.md|wall of force]]"
   "name": "spells"

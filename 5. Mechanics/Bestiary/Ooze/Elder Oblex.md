@@ -68,8 +68,8 @@ When oblexes feed on thoughts, they can form weird copies of their prey to use a
 - "desc": "The oblex casts one of the following spells, requiring no spell components\
     \ and using Intelligence as the spellcasting ability (spell save DC 18):\n\nAt\
     \ will: [[5. Mechanics/Spells/Charm Person.md|charm person]] (as 5th-level spell),\
-    \ [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]]\n\n3/day each: [dimension\
-    \ door](compendium/spells/dimension-door.md), [[5. Mechanics/Spells/Dominate Person.md|dominate person]],\
+    \ [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]]\n\n3/day each: [[5. Mechanics/Spells/Dimension Door.md|dimension\
+    \ door]], [[5. Mechanics/Spells/Dominate Person.md|dominate person]],\
     \ [[5. Mechanics/Spells/Hypnotic Pattern.md|hypnotic pattern]], [[5. Mechanics/Spells/Telekinesis.md|telekinesis]]"
   "name": "spells"
 - "desc": "The oblex can move through a space as narrow as 1 inch wide without squeezing."

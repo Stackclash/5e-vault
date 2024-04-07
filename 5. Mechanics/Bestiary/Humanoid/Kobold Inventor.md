@@ -66,8 +66,8 @@ A kobold inventor builds improvised weapons to gain an advantage in combat. Thes
     \ Hit: dice:1d4|text(2) (1d4) fire damage at the start of each of the target's\
     \ turns. The target can end this damage by using its action to make a DC 10 Dexterity\
     \ check to extinguish the flames.  \n- 3 Basket of Centipedes. The kobold\
-    \ throws a small basket into a 5-foot-square space within 20 feet of it. A [swarm\
-    \ of insects (centipedes)](compendium/bestiary/beast/swarm-of-centipedes.md) with\
+    \ throws a small basket into a 5-foot-square space within 20 feet of it. A [[5. Mechanics/Bestiary/Beast/Swarm Of Centipedes.md|swarm\
+    \ of insects (centipedes)]] with\
     \ 11 hit points emerges from the basket and rolls initiative. At the end of each\
     \ of the swarm's turns, there's a 50% chance chance that the swarm disperses.\
     \  \n- 4 Green Slime Pot. The kobold throws a clay pot full of green slime\

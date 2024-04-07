@@ -76,8 +76,8 @@ Oinoloths solve thorny problems by killing everyone involved. They are typically
     \ or [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]. The target then gains\
     \ 1 level of [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]], and its\
     \ hit point maximum is reduced by dice:2d6|text(7) (2d6). This reduction can\
-    \ be removed only by a [[5. Mechanics/Spells/Wish.md|wish]] spell or by casting [greater\
-    \ restoration](compendium/spells/greater-restoration.md) on the target three times\
+    \ be removed only by a [[5. Mechanics/Spells/Wish.md|wish]] spell or by casting [[5. Mechanics/Spells/Greater Restoration.md|greater\
+    \ restoration]] on the target three times\
     \ within the same hour. The target dies if its hit point maximum is reduced to\
     \ 0."
   "name": "Corrupted Healing (Recharge 6)"

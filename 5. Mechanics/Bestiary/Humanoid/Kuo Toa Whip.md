@@ -83,8 +83,8 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 "traits":
 - "desc": "The kuo-toa is a 2nd-level spellcaster. Its spellcasting ability is Wisdom\
     \ (spell save DC 12, dice: d20+4 (+4) to hit with spell attacks). The kuo-toa\
-    \ has the following cleric spells prepared:\n\nCantrips (at will): [sacred\
-    \ flame](compendium/spells/sacred-flame.md), [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
+    \ has the following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Sacred Flame.md|sacred\
+    \ flame]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
     \n1st level (3 slots): [[5. Mechanics/Spells/Bane.md|bane]], [[5. Mechanics/Spells/Shield Of Faith.md|shield of faith]]"
   "name": "spells"
 - "desc": "The kuo-toa can breathe air and water."

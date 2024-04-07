@@ -53,8 +53,8 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
     \ the spellcasting ability (spell save DC 15):\n\nAt will: [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]],\
     \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\
     \n1/day each: [[5. Mechanics/Spells/Circle Of Death.md|circle of death]]\n\n\
-    2/day each: [[5. Mechanics/Spells/Bestow Curse.md|bestow curse]], [dimension\
-    \ door](compendium/spells/dimension-door.md), [[5. Mechanics/Spells/Mage Armor.md|mage armor]],\
+    2/day each: [[5. Mechanics/Spells/Bestow Curse.md|bestow curse]], [[5. Mechanics/Spells/Dimension Door.md|dimension\
+    \ door]], [[5. Mechanics/Spells/Mage Armor.md|mage armor]],\
     \ [[5. Mechanics/Spells/Web.md|web]]"
   "name": "spells"
 "actions":

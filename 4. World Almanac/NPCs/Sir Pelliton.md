@@ -146,12 +146,12 @@ await dv.view("npcRelationships", { current: dv.current() })
 - "desc": "Sir Pelliton has gained the power to cast dark magic. All spells he casts\
     \ with this feature are cast as if using a 5th-level spell slot, and he casts\
     \ cantrips as if he were an 11th-level warlock. His spellcasting ability is Wisdom\
-    \ (DC 16, dice: d20+8 (+8) to hit with spell attacks).\n\nAt will: [acid\
-    \ splash](compendium/spells/acid-splash.md), [[5. Mechanics/Spells/Eldritch Blast.md|eldritch blast]]\
+    \ (DC 16, dice: d20+8 (+8) to hit with spell attacks).\n\nAt will: [[5. Mechanics/Spells/Acid Splash.md|acid\
+    \ splash]], [[5. Mechanics/Spells/Eldritch Blast.md|eldritch blast]]\
     \ (3 beams), [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]], [[5. Mechanics/Spells/Hellish Rebuke.md|hellish rebuke]]\n\
     \n1/day each: [[5. Mechanics/Spells/Cone Of Cold.md|cone of cold]], [[5. Mechanics/Spells/Eyebite.md|eyebite]],\
-    \ [[5. Mechanics/Spells/Mass Suggestion.md|mass suggestion]]\n\nUnknown: [branding\
-    \ smite](compendium/spells/branding-smite.md), [[5. Mechanics/Spells/Evards Black Tentacles.md|black tentacles]],\
+    \ [[5. Mechanics/Spells/Mass Suggestion.md|mass suggestion]]\n\nUnknown: [[5. Mechanics/Spells/Branding Smite.md|branding\
+    \ smite]], [[5. Mechanics/Spells/Evards Black Tentacles.md|black tentacles]],\
     \ [[5. Mechanics/Spells/Counterspell.md|counterspell]], [[5. Mechanics/Spells/Dimension Door.md|dimension door]],\
     \ [[5. Mechanics/Spells/Hold Person.md|hold person]]"
   "name": "innate"

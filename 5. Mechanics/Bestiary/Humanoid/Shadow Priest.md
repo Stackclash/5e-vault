@@ -50,14 +50,14 @@ aliases:
     \ cantrip (spell save DC 13 at 3rd level, 14 at 5th level, and 15 at 7th level).\n\
     \nAt 7th level, retainers can take two signature attacks per round."
   "name": "Signature Attack"
-- "desc": "Prerequisite: 3rd-level retainer\n\nThe Shadow Priest casts the [pass\
-    \ without trace](compendium/spells/pass-without-trace.md) spell."
+- "desc": "Prerequisite: 3rd-level retainer\n\nThe Shadow Priest casts the [[5. Mechanics/Spells/Pass Without Trace.md|pass\
+    \ without trace]] spell."
   "name": "Pass Without Trace (3/Day)"
-- "desc": "Prerequisite: 5th-level retainer\n\nThe Shadow Priest casts the [dispel\
-    \ magic](compendium/spells/dispel-magic.md) spell."
+- "desc": "Prerequisite: 5th-level retainer\n\nThe Shadow Priest casts the [[5. Mechanics/Spells/Dispel Magic.md|dispel\
+    \ magic]] spell."
   "name": "Dispel Magic (1/Day)"
-- "desc": "Prerequisite: 7th-level retainer\n\nThe Shadow Priest casts the [dimension\
-    \ door](compendium/spells/dimension-door.md) spell."
+- "desc": "Prerequisite: 7th-level retainer\n\nThe Shadow Priest casts the [[5. Mechanics/Spells/Dimension Door.md|dimension\
+    \ door]] spell."
   "name": "Dimension Door (1/Day)"
 "source":
 - "SaF"

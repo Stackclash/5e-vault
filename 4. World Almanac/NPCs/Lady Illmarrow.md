@@ -178,8 +178,8 @@ await dv.view("npcRelationships", { current: dv.current() })
 "traits":
 - "desc": "Illmarrow is a 20th-level spellcaster. Her spellcasting ability is Intelligence\
     \ (spell save DC 23, dice: d20+15 (+15) to hit with spell attacks). Illmarrow\
-    \ has the following wizard spells prepared:\n\nCantrips (at will): [chill\
-    \ touch](compendium/spells/chill-touch.md) (see \"Actions\" below), [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]],\
+    \ has the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Chill Touch.md|chill\
+    \ touch]] (see \"Actions\" below), [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]],\
     \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]],\
     \ [[5. Mechanics/Spells/Ray Of Frost.md|ray of frost]]\n\n1st level (4 slots):\
     \ [[5. Mechanics/Spells/Magic Missile.md|magic missile]], [[5. Mechanics/Spells/Shield.md|shield]],\

@@ -81,8 +81,8 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 "traits":
 - "desc": "The slaad's innate spellcasting ability is Charisma (spell save DC 15,\
     \ dice: d20+7 (+7) to hit with spell attacks). The slaad can innately cast\
-    \ the following spells, requiring no material components:\n\nAt will: [detect\
-    \ magic](compendium/spells/detect-magic.md), [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
+    \ the following spells, requiring no material components:\n\nAt will: [[5. Mechanics/Spells/Detect Magic.md|detect\
+    \ magic]], [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
     \ [[5. Mechanics/Spells/Invisibility.md|invisibility]] (self only), [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
     \ [[5. Mechanics/Spells/Major Image.md|major image]]\n\n1/day each: [[5. Mechanics/Spells/Cloudkill.md|cloudkill]],\
     \ [[5. Mechanics/Spells/Plane Shift.md|plane shift]]\n\n2/day each: [[5. Mechanics/Spells/Fear.md|fear]],\

@@ -78,16 +78,16 @@ Illithids subsist on the brains of humanoids. The brains provide enzymes, hormon
     \ will: [[5. Mechanics/Spells/Guidance.md|guidance]], [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
     \ [[5. Mechanics/Spells/Vicious Mockery.md|vicious mockery]], [[5. Mechanics/Spells/True Strike.md|true strike]],\
     \ [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[5. Mechanics/Spells/Levitate.md|levitate]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Dominate Monster.md|dominate monster]], [plane\
-    \ shift](compendium/spells/plane-shift.md) (self only)\n\n1st level (4 slots):\
+    \n1/day each: [[5. Mechanics/Spells/Dominate Monster.md|dominate monster]], [[5. Mechanics/Spells/Plane Shift.md|plane\
+    \ shift]] (self only)\n\n1st level (4 slots):\
     \ [[5. Mechanics/Spells/Charm Person.md|charm person]], [[5. Mechanics/Spells/Command.md|command]],\
     \ [[5. Mechanics/Spells/Comprehend Languages.md|comprehend languages]], [[5. Mechanics/Spells/Sanctuary.md|sanctuary]]\n\
     \n2nd level (3 slots): [[5. Mechanics/Spells/Crown Of Madness.md|crown of madness]],\
     \ [[5. Mechanics/Spells/Phantasmal Force.md|phantasmal force]], [[5. Mechanics/Spells/See Invisibility.md|see invisibility]]\n\
     \n3rd level (3 slots): [[5. Mechanics/Spells/Clairvoyance.md|clairvoyance]],\
     \ [[5. Mechanics/Spells/Fear.md|fear]], [[5. Mechanics/Spells/Meld Into Stone.md|meld into stone]]\n\
-    \n4th level (3 slots): [[5. Mechanics/Spells/Confusion.md|confusion]], [stone\
-    \ shape](compendium/spells/stone-shape.md)\n\n5th level (2 slots): [[5. Mechanics/Spells/Scrying.md|scrying]],\
+    \n4th level (3 slots): [[5. Mechanics/Spells/Confusion.md|confusion]], [[5. Mechanics/Spells/Stone Shape.md|stone\
+    \ shape]]\n\n5th level (2 slots): [[5. Mechanics/Spells/Scrying.md|scrying]],\
     \ [[5. Mechanics/Spells/Telekinesis.md|telekinesis]]"
   "name": "innate"
 - "desc": "The mind flayer has advantage on saving throws against spells and other\

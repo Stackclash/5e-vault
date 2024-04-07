@@ -195,8 +195,8 @@ await dv.view("npcRelationships", { current: dv.current() })
     \n3rd level (3 slots): [[5. Mechanics/Spells/Animate Dead.md|animate dead]],\
     \ [[5. Mechanics/Spells/Fireball.md|fireball]], [[5. Mechanics/Spells/Nondetection.md|nondetection]]\n\
     \n4th level (3 slots): [[5. Mechanics/Spells/Blight.md|blight]], [[5. Mechanics/Spells/Greater Invisibility.md|greater invisibility]],\
-    \ [[5. Mechanics/Spells/Polymorph.md|polymorph]]\n\n5th level (1 slots): [animate\
-    \ objects](compendium/spells/animate-objects.md), [[5. Mechanics/Spells/Scrying.md|scrying]]"
+    \ [[5. Mechanics/Spells/Polymorph.md|polymorph]]\n\n5th level (1 slots): [[5. Mechanics/Spells/Animate Objects.md|animate\
+    \ objects]], [[5. Mechanics/Spells/Scrying.md|scrying]]"
   "name": "spells"
 - "desc": "If Strahd isn't in running water or sunlight, he can use his action to\
     \ polymorph into a Tiny bat, a Medium wolf, or a Medium cloud of mist, or back\

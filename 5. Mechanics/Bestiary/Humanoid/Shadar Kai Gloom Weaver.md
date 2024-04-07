@@ -63,8 +63,8 @@ Shadar-kai encountered outside the Shadowfell are often on quests to find the mo
     \ components and using Charisma as the spellcasting ability (spell save DC 16):\n\
     \nAt will: [[5. Mechanics/Spells/Arcane Eye.md|arcane eye]], [[5. Mechanics/Spells/Mage Armor.md|mage armor]],\
     \ [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]],\
-    \ [[5. Mechanics/Spells/Speak With Dead.md|speak with dead]]\n\n1/day each: [arcane\
-    \ gate](compendium/spells/arcane-gate.md), [[5. Mechanics/Spells/Bane.md|bane]],\
+    \ [[5. Mechanics/Spells/Speak With Dead.md|speak with dead]]\n\n1/day each: [[5. Mechanics/Spells/Arcane Gate.md|arcane\
+    \ gate]], [[5. Mechanics/Spells/Bane.md|bane]],\
     \ [[5. Mechanics/Spells/Confusion.md|confusion]], [[5. Mechanics/Spells/Darkness.md|darkness]],\
     \ [[5. Mechanics/Spells/Fear.md|fear]], [[5. Mechanics/Spells/Major Image.md|major image]],\
     \ [[5. Mechanics/Spells/True Seeing.md|true seeing]]"

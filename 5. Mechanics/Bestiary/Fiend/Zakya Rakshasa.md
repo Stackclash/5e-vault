@@ -47,8 +47,8 @@ Zakya rakshasas are the bloodthirsty foot soldiers of the rakshasa horde. They a
 "traits":
 - "desc": "The rakshasa's innate spellcasting ability is Charisma (spell save DC 11).\
     \ The rakshasa can innately cast the following spells, requiring no material components:\n\
-    \nAt will: [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [disguise\
-    \ self](compendium/spells/disguise-self.md)\n\n1/day: [[5. Mechanics/Spells/Shield.md|shield]]"
+    \nAt will: [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[5. Mechanics/Spells/Disguise Self.md|disguise\
+    \ self]]\n\n1/day: [[5. Mechanics/Spells/Shield.md|shield]]"
   "name": "innate"
 - "desc": "The rakshasa can't be affected or detected by spells of 1st level or lower\
     \ unless it wishes to be. It has advantage on saving throws against all other\

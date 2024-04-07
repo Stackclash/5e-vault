@@ -50,15 +50,15 @@ aliases:
     \ cantrip (spell save DC 13 at 3rd level, 14 at 5th level, and 15 at 7th level).\n\
     \nAt 7th level, retainers can take two signature attacks per round."
   "name": "Signature Attack"
-- "desc": "Prerequisite: 3rd-level retainer\n\nThe illusionist casts the [hypnotic\
-    \ pattern](compendium/spells/hypnotic-pattern.md) spell (spell save DC 13 at 3rd\
+- "desc": "Prerequisite: 3rd-level retainer\n\nThe illusionist casts the [[5. Mechanics/Spells/Hypnotic Pattern.md|hypnotic\
+    \ pattern]] spell (spell save DC 13 at 3rd\
     \ level, 14 at 5th level, and 15 at 7th level)."
   "name": "Hypnotic Pattern (3/Day)"
 - "desc": "Prerequisite: 5th-level retainer\n\nThe illusionist casts the [[5. Mechanics/Spells/Slow.md|slow]]\
     \ spell (spell save DC 14 at 5th level, and 15 at 7th level)."
   "name": "Slow (3/Day)"
-- "desc": "Prerequisite: 7th-level retainer\n\nThe illusionist casts the [phantasmal\
-    \ killer](compendium/spells/phantasmal-killer.md) spell (spell save DC 15)."
+- "desc": "Prerequisite: 7th-level retainer\n\nThe illusionist casts the [[5. Mechanics/Spells/Phantasmal Killer.md|phantasmal\
+    \ killer]] spell (spell save DC 15)."
   "name": "Phantasmal Killer (1/Day)"
 "source":
 - "SaF"

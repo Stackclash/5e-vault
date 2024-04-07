@@ -176,8 +176,8 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ [[5. Mechanics/Spells/Cure Wounds.md|cure wounds]], [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]],\
     \ [[5. Mechanics/Spells/Protection From Evil And Good.md|protection from evil and good]],\
     \ [[5. Mechanics/Spells/Sanctuary.md|sanctuary]]\n\n2nd level (3 slots): [[5. Mechanics/Spells/Augury.md|augury]],\
-    \ [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]], [protection from\
-    \ poison](compendium/spells/protection-from-poison.md)\n\n3rd level (3 slots):\
+    \ [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]], [[5. Mechanics/Spells/Protection From Poison.md|protection from\
+    \ poison]]\n\n3rd level (3 slots):\
     \ [[5. Mechanics/Spells/Magic Circle.md|magic circle]], [[5. Mechanics/Spells/Remove Curse.md|remove curse]],\
     \ [[5. Mechanics/Spells/Speak With Dead.md|speak with dead]]\n\n4th level (3 slots):\
     \ [[5. Mechanics/Spells/Death Ward.md|death ward]], [[5. Mechanics/Spells/Freedom Of Movement.md|freedom of movement]]\n\

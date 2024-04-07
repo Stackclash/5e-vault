@@ -61,8 +61,8 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
     \ spellcasting ability (spell save DC 20):\n\nAt will: [[5. Mechanics/Spells/Disguise Self.md|disguise self]],\
     \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]]\n\
     \n2/day each: [[5. Mechanics/Spells/Charm Person.md|charm person]], [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
-    \ [[5. Mechanics/Spells/Greater Invisibility.md|greater invisibility]], [wall of\
-    \ force](compendium/spells/wall-of-force.md)"
+    \ [[5. Mechanics/Spells/Greater Invisibility.md|greater invisibility]], [[5. Mechanics/Spells/Wall Of Force.md|wall of\
+    \ force]]"
   "name": "spells"
 - "desc": "Magical darkness doesn't impede the abishai's [[/5. Mechanics/Rules/Senses.md#darkvision|darkvision]]."
   "name": "Devil's Sight"

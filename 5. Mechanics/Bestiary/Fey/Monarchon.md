@@ -79,11 +79,11 @@ Finally, if she is attacked or otherwise there is great need, she will land and 
     \ has the following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Guidance.md|guidance]],\
     \ [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]]\n\n1st level (4 slots):\
     \ [[5. Mechanics/Spells/Bane.md|bane]], [[5. Mechanics/Spells/Bless.md|bless]], [[5. Mechanics/Spells/Command.md|command]]\n\
-    \n2nd level (3 slots): [[5. Mechanics/Spells/Hold Person.md|hold person]], [zone\
-    \ of truth](compendium/spells/zone-of-truth.md)\n\n3rd level (3 slots): [dispel\
-    \ magic](compendium/spells/dispel-magic.md), [[5. Mechanics/Spells/Revivify.md|revivify]]\n\
-    \n4th level (1 slots): [[5. Mechanics/Spells/Banishment.md|banishment]], [death\
-    \ ward](compendium/spells/death-ward.md)"
+    \n2nd level (3 slots): [[5. Mechanics/Spells/Hold Person.md|hold person]], [[5. Mechanics/Spells/Zone Of Truth.md|zone\
+    \ of truth]]\n\n3rd level (3 slots): [[5. Mechanics/Spells/Dispel Magic.md|dispel\
+    \ magic]], [[5. Mechanics/Spells/Revivify.md|revivify]]\n\
+    \n4th level (1 slots): [[5. Mechanics/Spells/Banishment.md|banishment]], [[5. Mechanics/Spells/Death Ward.md|death\
+    \ ward]]"
   "name": "spells"
 - "desc": "Magic cannot put the Monarchon to sleep."
   "name": "Fey Ancestry"

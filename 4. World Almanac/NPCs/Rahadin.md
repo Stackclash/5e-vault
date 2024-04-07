@@ -186,8 +186,8 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ [[5. Mechanics/Spells/Nondetection.md|nondetection]]\n\n3/day: [[5. Mechanics/Spells/Misty Step.md|misty step]],\
     \ [[5. Mechanics/Spells/Phantom Steed.md|phantom steed]]"
   "name": "innate"
-- "desc": "Any creature within 10 feet of Rahadin that isn't protected by a [mind\
-    \ blank](compendium/spells/mind-blank.md) spell hears in its mind the screams\
+- "desc": "Any creature within 10 feet of Rahadin that isn't protected by a [[5. Mechanics/Spells/Mind Blank.md|mind\
+    \ blank]] spell hears in its mind the screams\
     \ of the thousands of people Rahadin has killed. As a bonus action, Rahadin can\
     \ force all creatures that can hear the screams to make a DC 16 Wisdom saving\
     \ throw. Each creature takes dice:3d10|text(16) (3d10) psychic damage on a\

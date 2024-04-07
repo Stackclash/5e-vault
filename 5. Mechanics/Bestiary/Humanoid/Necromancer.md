@@ -53,8 +53,8 @@ aliases:
 - "desc": "Prerequisite: 3rd-level retainer\n\nThe necromancer casts the [blindness/deafness](compendium/spells/blindness-deafness.md)\
     \ spell (spell save DC 13 at 3rd level, 14 at 5th level, and 15 at 7th level)."
   "name": "Blindness/Deafness (3/Day)"
-- "desc": "Prerequisite: 5th-level retainer\n\nThe necromancer casts the [vampiric\
-    \ touch](compendium/spells/vampiric-touch.md) spell (dice: d20+6 (+6) to hit)."
+- "desc": "Prerequisite: 5th-level retainer\n\nThe necromancer casts the [[5. Mechanics/Spells/Vampiric Touch.md|vampiric\
+    \ touch]] spell (dice: d20+6 (+6) to hit)."
   "name": "Vampiric Touch (1/Day)"
 - "desc": "Prerequisite: 7th-level retainer\n\nThe necromancer casts the [[5. Mechanics/Spells/Blight.md|blight]]\
     \ spell (spell save DC 15)."

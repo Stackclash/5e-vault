@@ -149,10 +149,10 @@ await dv.view("npcRelationships", { current: dv.current() })
 "traits":
 - "desc": "Mordakhesh's spellcasting ability is Charisma (spell save DC 18, dice:\
     \ d20+10 (+10) to hit with spell attacks). Mordakhesh can innately cast the\
-    \ following spells, requiring no material components:\n\nAt will: [chromatic\
-    \ orb](compendium/spells/chromatic-orb.md) (see \"Actions\" below), [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
-    \ [[5. Mechanics/Spells/Disguise Self.md|disguise self]]\n\n1/day each: [banishing\
-    \ smite](compendium/spells/banishing-smite.md), [[5. Mechanics/Spells/Destructive Wave.md|destructive wave]],\
+    \ following spells, requiring no material components:\n\nAt will: [[5. Mechanics/Spells/Chromatic Orb.md|chromatic\
+    \ orb]] (see \"Actions\" below), [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
+    \ [[5. Mechanics/Spells/Disguise Self.md|disguise self]]\n\n1/day each: [[5. Mechanics/Spells/Banishing Smite.md|banishing\
+    \ smite]], [[5. Mechanics/Spells/Destructive Wave.md|destructive wave]],\
     \ [[5. Mechanics/Spells/Fly.md|fly]], [[5. Mechanics/Spells/Mass Suggestion.md|mass suggestion]],\
     \ [[5. Mechanics/Spells/Staggering Smite.md|staggering smite]], [[5. Mechanics/Spells/Suggestion.md|suggestion]],\
     \ [[5. Mechanics/Spells/True Seeing.md|true seeing]]"

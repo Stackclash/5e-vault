@@ -68,8 +68,8 @@ As befits followers of a god who doesn't speak, hands of Yurtrus remove their to
     \ [[5. Mechanics/Spells/Mending.md|mending]], [[5. Mechanics/Spells/Resistance.md|resistance]],\
     \ [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\n1st level (4 slots):\
     \ [[5. Mechanics/Spells/Bane.md|bane]], [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
-    \ [[5. Mechanics/Spells/Inflict Wounds.md|inflict wounds]], [protection from evil\
-    \ and good](compendium/spells/protection-from-evil-and-good.md)\n\n2nd level\
+    \ [[5. Mechanics/Spells/Inflict Wounds.md|inflict wounds]], [[5. Mechanics/Spells/Protection From Evil And Good.md|protection from evil\
+    \ and good]]\n\n2nd level\
     \ (3 slots): [blindness/deafness](compendium/spells/blindness-deafness.md),\
     \ [[5. Mechanics/Spells/Silence.md|silence]]"
   "name": "spells"

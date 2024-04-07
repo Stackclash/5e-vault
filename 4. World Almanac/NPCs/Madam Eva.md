@@ -177,18 +177,18 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ [[5. Mechanics/Spells/Mending.md|mending]], [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]],\
     \ [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\n1st level (4 slots):\
     \ [[5. Mechanics/Spells/Bane.md|bane]], [[5. Mechanics/Spells/Command.md|command]],\
-    \ [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]], [protection\
-    \ from evil and good](compendium/spells/protection-from-evil-and-good.md)\n\n\
+    \ [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]], [[5. Mechanics/Spells/Protection From Evil And Good.md|protection\
+    \ from evil and good]]\n\n\
     2nd level (3 slots): [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]],\
-    \ [[5. Mechanics/Spells/Protection From Poison.md|protection from poison]], [spiritual\
-    \ weapon](compendium/spells/spiritual-weapon.md)\n\n3rd level (3 slots): [create\
-    \ food and water](compendium/spells/create-food-and-water.md), [[5. Mechanics/Spells/Speak With Dead.md|speak with dead]],\
+    \ [[5. Mechanics/Spells/Protection From Poison.md|protection from poison]], [[5. Mechanics/Spells/Spiritual Weapon.md|spiritual\
+    \ weapon]]\n\n3rd level (3 slots): [[5. Mechanics/Spells/Create Food And Water.md|create\
+    \ food and water]], [[5. Mechanics/Spells/Speak With Dead.md|speak with dead]],\
     \ [[5. Mechanics/Spells/Spirit Guardians.md|spirit guardians]]\n\n4th level (3\
     \ slots): [[5. Mechanics/Spells/Divination.md|divination]], [[5. Mechanics/Spells/Freedom Of Movement.md|freedom of movement]],\
     \ [[5. Mechanics/Spells/Guardian Of Faith.md|guardian of faith]]\n\n5th level (2\
-    \ slots): [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]], [raise\
-    \ dead](compendium/spells/raise-dead.md)\n\n6th level (1 slots): [find the\
-    \ path](compendium/spells/find-the-path.md), [[5. Mechanics/Spells/Harm.md|harm]],\
+    \ slots): [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]], [[5. Mechanics/Spells/Raise Dead.md|raise\
+    \ dead]]\n\n6th level (1 slots): [[5. Mechanics/Spells/Find The Path.md|find the\
+    \ path]], [[5. Mechanics/Spells/Harm.md|harm]],\
     \ [[5. Mechanics/Spells/True Seeing.md|true seeing]]\n\n7th level (1 slots):\
     \ [[5. Mechanics/Spells/Fire Storm.md|fire storm]], [[5. Mechanics/Spells/Regenerate.md|regenerate]]\n\
     \n8th level (1 slots): [[5. Mechanics/Spells/Earthquake.md|earthquake]]"

@@ -57,8 +57,8 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
 - "desc": "The goblin's innate spellcasting ability is Charisma. It can innately cast\
     \ the following spells (spell save DC 15), requiring no material components:\n\
     \nAt will: [[5. Mechanics/Spells/Disguise Self.md|disguise self]], [[5. Mechanics/Spells/Mage Armor.md|mage armor]]\
-    \ (self only), [[5. Mechanics/Spells/Silent Image.md|silent image]], [speak with\
-    \ animals](compendium/spells/speak-with-animals.md)\n\n1/day: [[5. Mechanics/Spells/Conjure Fey.md|conjure fey]]"
+    \ (self only), [[5. Mechanics/Spells/Silent Image.md|silent image]], [[5. Mechanics/Spells/Speak With Animals.md|speak with\
+    \ animals]]\n\n1/day: [[5. Mechanics/Spells/Conjure Fey.md|conjure fey]]"
   "name": "innate"
 - "desc": "The goblin is an 11th-level spellcaster. Its spellcasting ability is Charisma\
     \ (spell save DC 14, dice: d20+6 (+6) to hit with spell attacks). It regains\

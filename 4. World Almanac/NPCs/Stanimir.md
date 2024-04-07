@@ -147,8 +147,8 @@ await dv.view("npcRelationships", { current: dv.current() })
     \n3rd level (3 slots): [[5. Mechanics/Spells/Bestow Curse.md|bestow curse]],\
     \ [[5. Mechanics/Spells/Phantom Steed.md|phantom steed]], [[5. Mechanics/Spells/Vampiric Touch.md|vampiric touch]]\n\
     \n4th level (3 slots): [[5. Mechanics/Spells/Greater Invisibility.md|greater invisibility]],\
-    \ [[5. Mechanics/Spells/Stoneskin.md|stoneskin]]\n\n5th level (1 slots): [dominate\
-    \ person](compendium/spells/dominate-person.md)"
+    \ [[5. Mechanics/Spells/Stoneskin.md|stoneskin]]\n\n5th level (1 slots): [[5. Mechanics/Spells/Dominate Person.md|dominate\
+    \ person]]"
   "name": "spells"
 "actions":
 - "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft.\

@@ -53,11 +53,11 @@ aliases:
 - "desc": "Prerequisite: 3rd-level retainer\n\nThe diabolist casts the [[5. Mechanics/Spells/Blink.md|blink]]\
     \ spell."
   "name": "Blink (3/Day)"
-- "desc": "Prerequisite: 5th-level retainer\n\nThe diabolist casts the [greater\
-    \ invisibility](compendium/spells/greater-invisibility.md) spell."
+- "desc": "Prerequisite: 5th-level retainer\n\nThe diabolist casts the [[5. Mechanics/Spells/Greater Invisibility.md|greater\
+    \ invisibility]] spell."
   "name": "Greater Invisibility (1/Day)"
-- "desc": "Prerequisite: 7th-level retainer\n\nThe diabolist casts the [dominate\
-    \ person](compendium/spells/dominate-person.md) spell (spell save DC 15)."
+- "desc": "Prerequisite: 7th-level retainer\n\nThe diabolist casts the [[5. Mechanics/Spells/Dominate Person.md|dominate\
+    \ person]] spell (spell save DC 15)."
   "name": "Dominate Person (3/Day)"
 "source":
 - "SaF"

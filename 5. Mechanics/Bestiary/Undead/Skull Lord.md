@@ -57,8 +57,8 @@ Infighting and treachery brought skull lords into existence. The first of them a
 - "desc": "The skull, lord casts one of the following spells, using Charisma as the\
     \ spellcasting ability (spell save DC 18):\n\nAt will: [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
     \ [[5. Mechanics/Spells/Message.md|message]]\n\n1/day each: [[5. Mechanics/Spells/Cloudkill.md|cloudkill]],\
-    \ [[5. Mechanics/Spells/Cone Of Cold.md|cone of cold]]\n\n2/day each: [dimension\
-    \ door](compendium/spells/dimension-door.md), [[5. Mechanics/Spells/Fear.md|fear]]"
+    \ [[5. Mechanics/Spells/Cone Of Cold.md|cone of cold]]\n\n2/day each: [[5. Mechanics/Spells/Dimension Door.md|dimension\
+    \ door]], [[5. Mechanics/Spells/Fear.md|fear]]"
   "name": "spells"
 - "desc": "If the skull lord is subjected to an effect that allows it to make a Dexterity\
     \ saving throw to take only half the damage, the skull lord instead takes no damage\

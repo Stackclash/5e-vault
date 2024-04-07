@@ -47,7 +47,7 @@ As an action, you may choose one creature you can see within 60 feet of you and 
 
 ## Curse
 
-When you become attuned to the amulet, you become cursed. Whenever you finish a long rest while cursed in this way, you must roll on the [[4. World Almanac/NPCs/Fraz Urbluu.md\|Madness of Fraz-Urb'luu table]]* ^[See the info tab] and gain the corresponding flaw until you finish your next long rest. If you are targeted by an effect that removes a curse such as a [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] or [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell, the user of that effect may choose to either end your attunement to this item and end the madness immediately, or they may choose to continue your attunement and simply end your current madness. If they choose the latter, you are still considered cursed and must roll on the table as usual at the end of your next long rest.
+When you become attuned to the amulet, you become cursed. Whenever you finish a long rest while cursed in this way, you must roll on the [[4. World Almanac/NPCs/Fraz Urbluu.md\|Madness of Fraz-Urb'luu table]]* ^[[5. Mechanics/Spells/Greater Restoration.md\|See the info tab] and gain the corresponding flaw until you finish your next long rest. If you are targeted by an effect that removes a curse such as a [greater restoration]] or [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell, the user of that effect may choose to either end your attunement to this item and end the madness immediately, or they may choose to continue your attunement and simply end your current madness. If they choose the latter, you are still considered cursed and must roll on the table as usual at the end of your next long rest.
 
 ## Destroying the Mask
 

@@ -54,8 +54,8 @@ The knowledge that berbalangs accumulate makes them great sources of information
 "traits":
 - "desc": "The berbalang casts one of the following spells, requiring no material\
     \ components and using Intelligence as the spellcasting ability:\n\nAt will:\
-    \ [[5. Mechanics/Spells/Speak With Dead.md|speak with dead]]\n\n1/day: [plane\
-    \ shift](compendium/spells/plane-shift.md) (self only)"
+    \ [[5. Mechanics/Spells/Speak With Dead.md|speak with dead]]\n\n1/day: [[5. Mechanics/Spells/Plane Shift.md|plane\
+    \ shift]] (self only)"
   "name": "spells"
 "actions":
 - "desc": "The berbalang makes one Bite attack and one\n\nClaw attack."

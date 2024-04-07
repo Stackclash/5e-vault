@@ -108,8 +108,8 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
     \ [[5. Mechanics/Spells/Ray Of Frost.md|ray of frost]]\n\n1st level (4 slots):\
     \ [[5. Mechanics/Spells/Mage Armor.md|mage armor]], [[5. Mechanics/Spells/Magic Missile.md|magic missile]],\
     \ [[5. Mechanics/Spells/Shield.md|shield]], [[5. Mechanics/Spells/Witch Bolt.md|witch bolt]]\n\
-    \n2nd level (3 slots): [[5. Mechanics/Spells/Alter Self.md|alter self]], [misty\
-    \ step](compendium/spells/misty-step.md), [[5. Mechanics/Spells/Web.md|web]]\n\n\
+    \n2nd level (3 slots): [[5. Mechanics/Spells/Alter Self.md|alter self]], [[5. Mechanics/Spells/Misty Step.md|misty\
+    \ step]], [[5. Mechanics/Spells/Web.md|web]]\n\n\
     3rd level (3 slots): [[5. Mechanics/Spells/Fly.md|fly]], [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]]\n\
     \n4th level (3 slots): [[5. Mechanics/Spells/Evards Black Tentacles.md|Evard's black tentacles]],\
     \ [[5. Mechanics/Spells/Greater Invisibility.md|greater invisibility]]\n\n5th level\

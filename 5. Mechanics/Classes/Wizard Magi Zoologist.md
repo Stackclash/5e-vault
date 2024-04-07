@@ -36,7 +36,7 @@ Starting at 6th level, if you are subjected to a saving throw imposed by the abi
 
 ### Monster Tamer (Level 10)
 
-At 10th level, your study of the behaviour of creatures allows you to weave magic into your words, allowing you to placate and calm them. You add the [[5. Mechanics/Spells/Charm Monster.md\|charm monster]] spell [...] ^[The following text has been removed with this homebrew: (Xanathars Guide to Everything)] to your spellbook if you did not already know it, and you always have it prepared; having it prepared in this way does not count towards your total amount of spells prepared for that day. In addition, if you cast [[5. Mechanics/Spells/Charm Monster.md\|charm monster]] on a creature with an Intelligence score lower than yours, they have disadvantage on the saving throw to resist the effect.
+At 10th level, your study of the behaviour of creatures allows you to weave magic into your words, allowing you to placate and calm them. You add the [[5. Mechanics/Spells/Charm Monster.md\|charm monster]] spell [[5. Mechanics/Spells/Charm Monster.md\|...] ^[The following text has been removed with this homebrew: (Xanathars Guide to Everything)] to your spellbook if you did not already know it, and you always have it prepared; having it prepared in this way does not count towards your total amount of spells prepared for that day. In addition, if you cast [charm monster]] on a creature with an Intelligence score lower than yours, they have disadvantage on the saving throw to resist the effect.
 
 ### Counter-Ability (Level 14)
 

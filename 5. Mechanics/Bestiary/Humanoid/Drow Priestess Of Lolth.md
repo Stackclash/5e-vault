@@ -117,12 +117,12 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
     \n1st level (4 slots): [[5. Mechanics/Spells/Animal Friendship.md|animal friendship]],\
     \ [[5. Mechanics/Spells/Cure Wounds.md|cure wounds]], [[5. Mechanics/Spells/Detect Poison And Disease.md|detect poison and disease]],\
     \ [[5. Mechanics/Spells/Ray Of Sickness.md|ray of sickness]]\n\n2nd level (3 slots):\
-    \ [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]], [protection from\
-    \ poison](compendium/spells/protection-from-poison.md), [[5. Mechanics/Spells/Web.md|web]]\n\
+    \ [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]], [[5. Mechanics/Spells/Protection From Poison.md|protection from\
+    \ poison]], [[5. Mechanics/Spells/Web.md|web]]\n\
     \n3rd level (3 slots): [[5. Mechanics/Spells/Conjure Animals.md|conjure animals]]\
     \ (2 [[5. Mechanics/Bestiary/Beast/Giant Spider.md|giant spiders]]), [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]]\n\
-    \n4th level (3 slots): [[5. Mechanics/Spells/Divination.md|divination]], [freedom\
-    \ of movement](compendium/spells/freedom-of-movement.md)\n\n5th level (2 slots):\
+    \n4th level (3 slots): [[5. Mechanics/Spells/Divination.md|divination]], [[5. Mechanics/Spells/Freedom Of Movement.md|freedom\
+    \ of movement]]\n\n5th level (2 slots):\
     \ [[5. Mechanics/Spells/Insect Plague.md|insect plague]], [[5. Mechanics/Spells/Mass Cure Wounds.md|mass cure wounds]]"
   "name": "spells"
 - "desc": "The drow has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\

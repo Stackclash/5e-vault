@@ -67,8 +67,8 @@ An elder brain's ambitions are always tempered by its relative immobility. Altho
 - "desc": "The elder brain casts one of the following spells, requiring no spell components\
     \ and using Intelligence as the spellcasting ability (spell save DC 18):\n\nAt\
     \ will: [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[5. Mechanics/Spells/Levitate.md|levitate]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Dominate Monster.md|dominate monster]], [plane\
-    \ shift](compendium/spells/plane-shift.md) (self only)\n\n3/day: [[5. Mechanics/Spells/Modify Memory.md|modify memory]]"
+    \n1/day each: [[5. Mechanics/Spells/Dominate Monster.md|dominate monster]], [[5. Mechanics/Spells/Plane Shift.md|plane\
+    \ shift]] (self only)\n\n3/day: [[5. Mechanics/Spells/Modify Memory.md|modify memory]]"
   "name": "spells"
 - "desc": "The elder brain is aware of creatures within 5 miles of it that have an\
     \ Intelligence score of 4 or higher. It knows the distance and direction to each\

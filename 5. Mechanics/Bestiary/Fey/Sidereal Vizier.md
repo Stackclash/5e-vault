@@ -61,8 +61,8 @@ If a spell can solve the problem, the Vizier knows it and has it prepared. The l
 "traits":
 - "desc": "The Sidereal Vizier's innate spellcasting ability is Intelligence (spell\
     \ save DC 17). He can innately cast the following spells, requiring no material\
-    \ components:\n\nAt will: [[5. Mechanics/Spells/Darkness.md|darkness]], [dominate\
-    \ person](compendium/spells/dominate-person.md)\n\n1/day: [[5. Mechanics/Spells/Power Word Stun.md|power word stun]]"
+    \ components:\n\nAt will: [[5. Mechanics/Spells/Darkness.md|darkness]], [[5. Mechanics/Spells/Dominate Person.md|dominate\
+    \ person]]\n\n1/day: [[5. Mechanics/Spells/Power Word Stun.md|power word stun]]"
   "name": "innate"
 - "desc": "The Vizier is a 15th-level spellcaster. His spellcasting ability is Intelligence\
     \ (spell save DC 17, dice: d20+9 (+9) to hit with spell attacks). The Vizier\
@@ -75,9 +75,9 @@ If a spell can solve the problem, the Vizier knows it and has it prepared. The l
     \ [[5. Mechanics/Spells/Mirror Image.md|mirror image]], [[5. Mechanics/Spells/Scorching Ray.md|scorching ray]],\
     \ [[5. Mechanics/Spells/Misty Step.md|misty step]]\n\n3rd level (3 slots): [[5. Mechanics/Spells/Counterspell.md|counterspell]],\
     \ [[5. Mechanics/Spells/Fly.md|fly]], [[5. Mechanics/Spells/Fireball.md|fireball]]\n\
-    \n4th level (3 slots): [[5. Mechanics/Spells/Banishment.md|banishment]], [dimension\
-    \ door](compendium/spells/dimension-door.md)\n\n5th level (2 slots): [cone\
-    \ of cold](compendium/spells/cone-of-cold.md), [[5. Mechanics/Spells/Hold Monster.md|hold monster]]\n\
+    \n4th level (3 slots): [[5. Mechanics/Spells/Banishment.md|banishment]], [[5. Mechanics/Spells/Dimension Door.md|dimension\
+    \ door]]\n\n5th level (2 slots): [[5. Mechanics/Spells/Cone Of Cold.md|cone\
+    \ of cold]], [[5. Mechanics/Spells/Hold Monster.md|hold monster]]\n\
     \n6th level (1 slots): [[5. Mechanics/Spells/Chain Lightning.md|chain lightning]]\n\
     \n7th level (1 slots): [[5. Mechanics/Spells/Finger Of Death.md|finger of death]]\n\
     \n8th level (1 slots): [[5. Mechanics/Spells/Maze.md|maze]]\n\nHe casts these\
@@ -88,8 +88,8 @@ If a spell can solve the problem, the Vizier knows it and has it prepared. The l
 - "desc": "The Vizier has advantage on saving throws against magic and other magical\
     \ effects."
   "name": "Magic Resistance"
-- "desc": "As a member of the Court of Arcadia, the Sidereal Vizier can cast [dominate\
-    \ monster](compendium/spells/dominate-monster.md) (DC 17) at will on any fey creature\
+- "desc": "As a member of the Court of Arcadia, the Sidereal Vizier can cast [[5. Mechanics/Spells/Dominate Monster.md|dominate\
+    \ monster]] (DC 17) at will on any fey creature\
     \ or elf."
   "name": "Command Fey"
 "actions":

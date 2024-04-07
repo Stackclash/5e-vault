@@ -128,8 +128,8 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
 - "desc": "The hag's innate spellcasting ability is Charisma (spell save DC 14, dice:\
     \ d20+6 (+6) to hit with spell attacks). She can innately cast the following\
     \ spells, requiring no material components:\n\nAt will: [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
-    \ [[5. Mechanics/Spells/Magic Missile.md|magic missile]]\n\n2/day each: [plane\
-    \ shift](compendium/spells/plane-shift.md) (self only), [[5. Mechanics/Spells/Ray Of Enfeeblement.md|ray of enfeeblement]],\
+    \ [[5. Mechanics/Spells/Magic Missile.md|magic missile]]\n\n2/day each: [[5. Mechanics/Spells/Plane Shift.md|plane\
+    \ shift]] (self only), [[5. Mechanics/Spells/Ray Of Enfeeblement.md|ray of enfeeblement]],\
     \ [[5. Mechanics/Spells/Sleep.md|sleep]]"
   "name": "innate"
 - "desc": "The hag has advantage on saving throws against spells and other magical\

@@ -73,17 +73,17 @@ His spells are almost all offensive, but he is always ready with counterspell to
     \ [[5. Mechanics/Spells/Gust Of Wind.md|gust of wind]], [[5. Mechanics/Spells/Misty Step.md|misty step]]\n\
     \n3rd level (3 slots): [[5. Mechanics/Spells/Counterspell.md|counterspell]],\
     \ [[5. Mechanics/Spells/Fly.md|fly]], [[5. Mechanics/Spells/Fireball.md|fireball]]\n\
-    \n4th level (3 slots): [[5. Mechanics/Spells/Banishment.md|banishment]], [dimension\
-    \ door](compendium/spells/dimension-door.md)\n\n5th level (1 slots): [cone\
-    \ of cold](compendium/spells/cone-of-cold.md), [[5. Mechanics/Spells/Hold Monster.md|hold monster]]"
+    \n4th level (3 slots): [[5. Mechanics/Spells/Banishment.md|banishment]], [[5. Mechanics/Spells/Dimension Door.md|dimension\
+    \ door]]\n\n5th level (1 slots): [[5. Mechanics/Spells/Cone Of Cold.md|cone\
+    \ of cold]], [[5. Mechanics/Spells/Hold Monster.md|hold monster]]"
   "name": "spells"
 - "desc": "Magic cannot put the marshal to sleep."
   "name": "Fey Ancestry"
 - "desc": "The marshal has advantage on saving throws against magic and other magical\
     \ effects."
   "name": "Magic Resistance"
-- "desc": "As a member of the Court of Arcadia, the Ash Marshal can cast [dominate\
-    \ monster](compendium/spells/dominate-monster.md) (DC 15) at will on any fey creature\
+- "desc": "As a member of the Court of Arcadia, the Ash Marshal can cast [[5. Mechanics/Spells/Dominate Monster.md|dominate\
+    \ monster]] (DC 15) at will on any fey creature\
     \ or elf."
   "name": "Command Fey"
 "actions":

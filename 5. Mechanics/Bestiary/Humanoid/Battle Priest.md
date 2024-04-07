@@ -50,12 +50,12 @@ aliases:
     \ Hit: dice:1d8 + 4|text(8) (1d8 + 4) bludgeoning damage.\n\nAt 7th level,\
     \ retainers can take two signature attacks per round."
   "name": "Signature Attack"
-- "desc": "Prerequisite: 3rd-level retainer\n\nThe Battle Priest casts the [spiritual\
-    \ weapon](compendium/spells/spiritual-weapon.md) spell (dice: d20+6 (+6) to\
+- "desc": "Prerequisite: 3rd-level retainer\n\nThe Battle Priest casts the [[5. Mechanics/Spells/Spiritual Weapon.md|spiritual\
+    \ weapon]] spell (dice: d20+6 (+6) to\
     \ hit)."
   "name": "Spiritual Weapon (3/Day)"
-- "desc": "Prerequisite: 5th-level retainer\n\nThe Battle Priest casts the [spirit\
-    \ guardians](compendium/spells/spirit-guardians.md) spell (spell save DC 14 at\
+- "desc": "Prerequisite: 5th-level retainer\n\nThe Battle Priest casts the [[5. Mechanics/Spells/Spirit Guardians.md|spirit\
+    \ guardians]] spell (spell save DC 14 at\
     \ 5th level, and 15 at 7th level)."
   "name": "Spirit Guardians (1/Day)"
 - "desc": "Prerequisite: 7th-level retainer\n\nThe Battle Priest casts the [[5. Mechanics/Spells/Banishment.md|banishment]]\

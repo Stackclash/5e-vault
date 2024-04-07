@@ -64,12 +64,12 @@ A death knight doesn't require air, food, drink, or sleep.
     \ is Charisma (spell save DC 18, dice: d20+10 (+10) to hit with spell attacks).\
     \ It has the following paladin spells prepared:\n\n1st level (4 slots): [[5. Mechanics/Spells/Command.md|command]],\
     \ [[5. Mechanics/Spells/Compelled Duel.md|compelled duel]], [[5. Mechanics/Spells/Searing Smite.md|searing smite]]\n\
-    \n2nd level (3 slots): [[5. Mechanics/Spells/Hold Person.md|hold person]], [magic\
-    \ weapon](compendium/spells/magic-weapon.md)\n\n3rd level (3 slots): [dispel\
-    \ magic](compendium/spells/dispel-magic.md), [[5. Mechanics/Spells/Elemental Weapon.md|elemental weapon]]\n\
-    \n4th level (3 slots): [[5. Mechanics/Spells/Banishment.md|banishment]], [staggering\
-    \ smite](compendium/spells/staggering-smite.md)\n\n5th level (2 slots): [destructive\
-    \ wave](compendium/spells/destructive-wave.md) (necrotic)"
+    \n2nd level (3 slots): [[5. Mechanics/Spells/Hold Person.md|hold person]], [[5. Mechanics/Spells/Magic Weapon.md|magic\
+    \ weapon]]\n\n3rd level (3 slots): [[5. Mechanics/Spells/Dispel Magic.md|dispel\
+    \ magic]], [[5. Mechanics/Spells/Elemental Weapon.md|elemental weapon]]\n\
+    \n4th level (3 slots): [[5. Mechanics/Spells/Banishment.md|banishment]], [[5. Mechanics/Spells/Staggering Smite.md|staggering\
+    \ smite]]\n\n5th level (2 slots): [[5. Mechanics/Spells/Destructive Wave.md|destructive\
+    \ wave]] (necrotic)"
   "name": "spells"
 - "desc": "The death knight has advantage on saving throws against spells and other\
     \ magical effects."

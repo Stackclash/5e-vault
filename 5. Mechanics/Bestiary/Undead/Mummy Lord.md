@@ -112,8 +112,8 @@ A mummy lord watches over an ancient temple or tomb that is protected by lesser 
     \ [[5. Mechanics/Spells/Hold Person.md|hold person]], [[5. Mechanics/Spells/Silence.md|silence]],\
     \ [[5. Mechanics/Spells/Spiritual Weapon.md|spiritual weapon]]\n\n3rd level (3\
     \ slots): [[5. Mechanics/Spells/Animate Dead.md|animate dead]], [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]]\n\
-    \n4th level (3 slots): [[5. Mechanics/Spells/Divination.md|divination]], [guardian\
-    \ of faith](compendium/spells/guardian-of-faith.md)\n\n5th level (2 slots):\
+    \n4th level (3 slots): [[5. Mechanics/Spells/Divination.md|divination]], [[5. Mechanics/Spells/Guardian Of Faith.md|guardian\
+    \ of faith]]\n\n5th level (2 slots):\
     \ [[5. Mechanics/Spells/Contagion.md|contagion]], [[5. Mechanics/Spells/Insect Plague.md|insect plague]]\n\
     \n6th level (1 slots): [[5. Mechanics/Spells/Harm.md|harm]]"
   "name": "spells"

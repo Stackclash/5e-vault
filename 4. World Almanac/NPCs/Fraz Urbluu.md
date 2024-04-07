@@ -164,10 +164,10 @@ await dv.view("npcRelationships", { current: dv.current() })
 - "desc": "Fraz-Urb'luu casts one of the following spells, requiring no material components\
     \ and using Charisma as the spellcasting ability (spell save DC 23):\n\nAt will:\
     \ [[5. Mechanics/Spells/Alter Self.md|alter self]] (can become Medium when changing\
-    \ his appearance), [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [dispel\
-    \ magic](compendium/spells/dispel-magic.md), [[5. Mechanics/Spells/Phantasmal Force.md|phantasmal force]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Modify Memory.md|modify memory]], [project\
-    \ image](compendium/spells/project-image.md)\n\n3/day each: [[5. Mechanics/Spells/Mislead.md|mislead]],\
+    \ his appearance), [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Dispel Magic.md|dispel\
+    \ magic]], [[5. Mechanics/Spells/Phantasmal Force.md|phantasmal force]]\n\
+    \n1/day each: [[5. Mechanics/Spells/Modify Memory.md|modify memory]], [[5. Mechanics/Spells/Project Image.md|project\
+    \ image]]\n\n3/day each: [[5. Mechanics/Spells/Mislead.md|mislead]],\
     \ [[5. Mechanics/Spells/Programmed Illusion.md|programmed illusion]], [[5. Mechanics/Spells/Seeming.md|seeming]]"
   "name": "spells"
 - "desc": "If Fraz-Urb'luu fails a saving throw, he can choose to succeed instead."

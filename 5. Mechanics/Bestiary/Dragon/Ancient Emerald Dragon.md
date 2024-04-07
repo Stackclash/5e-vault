@@ -92,8 +92,8 @@ Their interest in our world and its relation to others makes them experts on the
     \ action to cause one of the following effects. The dragon can't use the same\
     \ effect two rounds in a row."
   "name": ""
-- "desc": "- The dragon summons a water elemental.  \n- The dragon casts [control\
-    \ water](compendium/spells/control-water.md) (save DC 22). It does not require\
+- "desc": "- The dragon summons a water elemental.  \n- The dragon casts [[5. Mechanics/Spells/Control Water.md|control\
+    \ water]] (save DC 22). It does not require\
     \ concentration to maintain.  \n- The dragon casts [[5. Mechanics/Spells/Thunderwave.md|thunderwave]]\
     \ with DC 22. The area is a 30-foot cube, and the damage is 4d8.  "
   "name": ""

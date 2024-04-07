@@ -72,13 +72,13 @@ Marids are champion tale-tellers, whose favorite legends emphasize the prowess o
 "traits":
 - "desc": "The marid's innate spellcasting ability is Charisma (spell save DC 16,\
     \ dice: d20+8 (+8) to hit with spell attacks). It can innately cast the following\
-    \ spells, requiring no material components:\n\nAt will: [create or destroy\
-    \ water](compendium/spells/create-or-destroy-water.md), [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]],\
+    \ spells, requiring no material components:\n\nAt will: [[5. Mechanics/Spells/Create Or Destroy Water.md|create or destroy\
+    \ water]], [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]],\
     \ [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Fog Cloud.md|fog cloud]],\
     \ [[5. Mechanics/Spells/Purify Food And Drink.md|purify food and drink]]\n\n1/day\
-    \ each: [[5. Mechanics/Spells/Conjure Elemental.md|conjure elemental]] ([water\
-    \ elemental](compendium/bestiary/elemental/water-elemental.md) only), [control\
-    \ water](compendium/spells/control-water.md), [[5. Mechanics/Spells/Gaseous Form.md|gaseous form]],\
+    \ each: [[5. Mechanics/Spells/Conjure Elemental.md|conjure elemental]] ([[5. Mechanics/Bestiary/Elemental/Water Elemental.md|water\
+    \ elemental]] only), [[5. Mechanics/Spells/Control Water.md|control\
+    \ water]], [[5. Mechanics/Spells/Gaseous Form.md|gaseous form]],\
     \ [[5. Mechanics/Spells/Invisibility.md|invisibility]], [[5. Mechanics/Spells/Plane Shift.md|plane shift]]\n\
     \n3/day each: [[5. Mechanics/Spells/Tongues.md|tongues]], [[5. Mechanics/Spells/Water Breathing.md|water breathing]],\
     \ [[5. Mechanics/Spells/Water Walk.md|water walk]]"

@@ -54,8 +54,8 @@ In their natural form, dybbuks appear as translucent flying jellyfish, trailing 
 "traits":
 - "desc": "The dybbuk casts one of the following spells, requiring no material components\
     \ and using Charisma as the spellcasting ability (spell save DC 12):\n\nAt will:\
-    \ [[5. Mechanics/Spells/Dimension Door.md|dimension door]]\n\n3/day: [phantasmal\
-    \ force](compendium/spells/phantasmal-force.md)"
+    \ [[5. Mechanics/Spells/Dimension Door.md|dimension door]]\n\n3/day: [[5. Mechanics/Spells/Phantasmal Force.md|phantasmal\
+    \ force]]"
   "name": "spells"
 - "desc": "The dybbuk can move through other creatures and objects as if they were\
     \ difficult terrain. It takes dice:1d10|text(5) (1d10) force damage if it\

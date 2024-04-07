@@ -163,8 +163,8 @@ await dv.view("npcRelationships", { current: dv.current() })
 - "desc": "While holding the [[5. Mechanics/Items/Wand Of Orcus.md|Wand of Orcus]], Orcus\
     \ casts one of the following spells (spell save DC 18), some of which require\
     \ charges; the wand has 7 charges to fuel these spells, and it regains dice:\
-    \ 1d4 + 3|avg|noform (1d4 + 3) charges daily at dawn:\n\nAt will: [animate\
-    \ dead](compendium/spells/animate-dead.md) (as an action), [[5. Mechanics/Spells/Blight.md|blight]],\
+    \ 1d4 + 3|avg|noform (1d4 + 3) charges daily at dawn:\n\nAt will: [[5. Mechanics/Spells/Animate Dead.md|animate\
+    \ dead]] (as an action), [[5. Mechanics/Spells/Blight.md|blight]],\
     \ [[5. Mechanics/Spells/Speak With Dead.md|speak with dead]]"
   "name": "spells"
 - "desc": "If Orcus fails a saving throw, he can choose to succeed instead."

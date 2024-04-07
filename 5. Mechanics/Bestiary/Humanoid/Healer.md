@@ -58,8 +58,8 @@ aliases:
 - "desc": "Prerequisite: 5th-level retainer\n\nThe Healer casts the [[5. Mechanics/Spells/Revivify.md|revivify]]\
     \ spell."
   "name": "Revivify (3/Day)"
-- "desc": "Prerequisite: 7th-level retainer\n\nThe Healer casts the [guardian of\
-    \ faith](compendium/spells/guardian-of-faith.md) spell."
+- "desc": "Prerequisite: 7th-level retainer\n\nThe Healer casts the [[5. Mechanics/Spells/Guardian Of Faith.md|guardian of\
+    \ faith]] spell."
   "name": "Guardian of Faith (3/Day)"
 "source":
 - "SaF"

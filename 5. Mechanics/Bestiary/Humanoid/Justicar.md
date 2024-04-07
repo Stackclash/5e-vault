@@ -54,8 +54,8 @@ aliases:
     \ The target must make a Wisdom save or be [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
     \ until the end of its next turn."
   "name": "Terrifying Strike (3/Day)"
-- "desc": "Prerequisite: 5th-level retainer\n\nThe justicar casts the [hunter's\
-    \ mark](compendium/spells/hunters-mark.md) spell."
+- "desc": "Prerequisite: 5th-level retainer\n\nThe justicar casts the [[5. Mechanics/Spells/Hunters Mark.md|hunter's\
+    \ mark]] spell."
   "name": "Hunter's Mark (3/Day)"
 - "desc": "Prerequisite: 7th-level retainer\n\nThe justicar issues a holy decree\
     \ challenging an enemy to a duel. That enemy must make a Wisdom saving throw.\

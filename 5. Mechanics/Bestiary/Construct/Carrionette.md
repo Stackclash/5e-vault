@@ -59,8 +59,8 @@ Carrionettes might appear as any type of toy or piece of art. While marionettes 
     \ from each ability check or attack roll it makes."
   "name": "Silver Needle"
 - "desc": "The carrionette targets a creature it can see within 15 feet of it that\
-    \ is cursed by its Silver Needle. Unless the target is protected by a [protection\
-    \ from evil and good](compendium/spells/protection-from-evil-and-good.md) spell,\
+    \ is cursed by its Silver Needle. Unless the target is protected by a [[5. Mechanics/Spells/Protection From Evil And Good.md|protection\
+    \ from evil and good]] spell,\
     \ it must succeed on a DC 12 Charisma saving throw or have its consciousness swapped\
     \ with the carrionette. The carrionette gains control of the target's body, and\
     \ the target is [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]] for\

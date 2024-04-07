@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- compendium/src/5e/cos
-- item/property/martial
-- item/property/versatile
-- item/rarity/unknown/magic
-- item/weapon/martial/melee
-aliases: 
-- "Yester Hill Axe"
+  - compendium/src/5e/cos
+  - item/property/martial
+  - item/property/versatile
+  - item/rarity/unknown/magic
+  - item/weapon/martial/melee
+aliases:
+  - Yester Hill Axe
 ---
 # Yester Hill Axe
 *Melee Weapon, unknown (magic)*  

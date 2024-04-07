@@ -49,8 +49,8 @@ Covered from head to tail in layers of thick, spiked plates, a dreadnought has t
 "languages": ""
 "cr": "21"
 "traits":
-- "desc": "The dreadnought's eye creates an area of antimagic, as in the [antimagic\
-    \ field](compendium/spells/antimagic-field.md) spell, in a 150-foot cone. At the\
+- "desc": "The dreadnought's eye creates an area of antimagic, as in the [[5. Mechanics/Spells/Antimagic Field.md|antimagic\
+    \ field]] spell, in a 150-foot cone. At the\
     \ start of each of its turns, it decides which way the cone faces. The cone doesn't\
     \ function while the eye is closed or while the dreadnought is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]."
   "name": "Antimagic Cone"

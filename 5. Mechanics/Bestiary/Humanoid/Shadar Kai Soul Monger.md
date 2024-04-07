@@ -66,8 +66,8 @@ Shadar-kai encountered outside the Shadowfell are often on quests to find the mo
 "traits":
 - "desc": "The shadar-kai casts one of the following spells, requiring no material\
     \ components and using Intelligence as the spellcasting ability (spell save DC\
-    \ 16):\n\n1/day each: [[5. Mechanics/Spells/Bestow Curse.md|bestow curse]], [finger\
-    \ of death](compendium/spells/finger-of-death.md), [[5. Mechanics/Spells/Gaseous Form.md|gaseous form]],\
+    \ 16):\n\n1/day each: [[5. Mechanics/Spells/Bestow Curse.md|bestow curse]], [[5. Mechanics/Spells/Finger Of Death.md|finger\
+    \ of death]], [[5. Mechanics/Spells/Gaseous Form.md|gaseous form]],\
     \ [[5. Mechanics/Spells/Seeming.md|seeming]]"
   "name": "spells"
 - "desc": "The shadar-kai has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\

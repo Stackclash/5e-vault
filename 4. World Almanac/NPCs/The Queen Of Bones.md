@@ -163,15 +163,15 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ [[5. Mechanics/Spells/Spare The Dying.md|spare the dying]]\n\n1st level (4 slots):\
     \ [[5. Mechanics/Spells/Bane.md|bane]], [[5. Mechanics/Spells/Inflict Wounds.md|inflict wounds]],\
     \ [[5. Mechanics/Spells/Healing Word.md|healing word]], [[5. Mechanics/Spells/Shield Of Faith.md|shield of faith]]\n\
-    \n2nd level (3 slots): [[5. Mechanics/Spells/Hold Person.md|hold person]], [lesser\
-    \ restoration](compendium/spells/lesser-restoration.md), [[5. Mechanics/Spells/Magic Weapon.md|magic weapon]],\
+    \n2nd level (3 slots): [[5. Mechanics/Spells/Hold Person.md|hold person]], [[5. Mechanics/Spells/Lesser Restoration.md|lesser\
+    \ restoration]], [[5. Mechanics/Spells/Magic Weapon.md|magic weapon]],\
     \ [[5. Mechanics/Spells/Silence.md|silence]], [[5. Mechanics/Spells/Spiritual Weapon.md|spiritual weapon]]\n\
     \n3rd level (3 slots): [[5. Mechanics/Spells/Animate Dead.md|animate dead]],\
     \ [[5. Mechanics/Spells/Bestow Curse.md|bestow curse]], \n\n4th level (3 slots):\
     \ [[5. Mechanics/Spells/Banishment.md|banishment]], [[5. Mechanics/Spells/Death Ward.md|death ward]],\
     \ [[5. Mechanics/Spells/Freedom Of Movement.md|freedom of movement]], [[5. Mechanics/Spells/Stoneskin.md|stoneskin]]\n\
-    \n5th level (1 slots): [[5. Mechanics/Spells/Contagion.md|contagion]], [flame\
-    \ strike](compendium/spells/flame-strike.md), [[5. Mechanics/Spells/Insect Plague.md|insect plague]]\n\
+    \n5th level (1 slots): [[5. Mechanics/Spells/Contagion.md|contagion]], [[5. Mechanics/Spells/Flame Strike.md|flame\
+    \ strike]], [[5. Mechanics/Spells/Insect Plague.md|insect plague]]\n\
     \ndispel magic, protection from energy, revivify, water walk"
   "name": "spells"
 - "desc": "The Court of All Flesh are beings of pure chaos. Because their minds are\

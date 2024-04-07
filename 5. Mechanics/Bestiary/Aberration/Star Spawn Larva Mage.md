@@ -75,11 +75,11 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 - "desc": "The mage casts one of the following spells, requiring no material components\
     \ and using Charisma as the spellcasting ability (spell save DC 16):\n\nAt will:\
     \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Message.md|message]],\
-    \ [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]]\n\n1/day: [dominate\
-    \ monster](compendium/spells/dominate-monster.md)"
+    \ [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]]\n\n1/day: [[5. Mechanics/Spells/Dominate Monster.md|dominate\
+    \ monster]]"
   "name": "spells"
-- "desc": "When the mage is reduced to 0 hit points, it breaks apart into a [swarm\
-    \ of insects](compendium/bestiary/beast/swarm-of-insects.md) in the same space.\
+- "desc": "When the mage is reduced to 0 hit points, it breaks apart into a [[5. Mechanics/Bestiary/Beast/Swarm Of Insects.md|swarm\
+    \ of insects]] in the same space.\
     \ Unless the swarm is destroyed, the mage reforms from it 24 hours later."
   "name": "Return to Worms"
 "actions":

@@ -142,8 +142,8 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ (spell save DC 13, dice: d20+5 (+5) to hit with spell attacks). Pinna has\
     \ the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]],\
     \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]],\
-    \ [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]]\n\n1st level (4 slots): [color\
-    \ spray](compendium/spells/color-spray.md), [[5. Mechanics/Spells/Silent Image.md|silent image]],\
+    \ [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]]\n\n1st level (4 slots): [[5. Mechanics/Spells/Color Spray.md|color\
+    \ spray]], [[5. Mechanics/Spells/Silent Image.md|silent image]],\
     \ [[5. Mechanics/Spells/Identify.md|identify]], [[5. Mechanics/Spells/Magic Missile.md|magic missile]]\n\
     \n2nd level (2 slots): [[5. Mechanics/Spells/Blur.md|blur]], [[5. Mechanics/Spells/Web.md|web]]"
   "name": "spells"

@@ -78,8 +78,8 @@ An illithid experiences euphoria as it devours the brain of a humanoid, along wi
 - "desc": "The mind flayer's innate spellcasting ability is Intelligence (spell save\
     \ DC 15). It can innately cast the following spells, requiring no components:\n\
     \nAt will: [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[5. Mechanics/Spells/Levitate.md|levitate]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Dominate Monster.md|dominate monster]], [plane\
-    \ shift](compendium/spells/plane-shift.md) (self only)"
+    \n1/day each: [[5. Mechanics/Spells/Dominate Monster.md|dominate monster]], [[5. Mechanics/Spells/Plane Shift.md|plane\
+    \ shift]] (self only)"
   "name": "innate"
 - "desc": "The mind flayer is a 10th-level spellcaster. Its spellcasting ability is\
     \ Intelligence (save DC 15, dice: d20+7 (+7) to hit with spell attacks). The\
@@ -92,8 +92,8 @@ An illithid experiences euphoria as it devours the brain of a humanoid, along wi
     \ [[5. Mechanics/Spells/Invisibility.md|invisibility]], [[5. Mechanics/Spells/Ray Of Enfeeblement.md|ray of enfeeblement]]\n\
     \n3rd level (3 slots): [[5. Mechanics/Spells/Clairvoyance.md|clairvoyance]],\
     \ [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]], [[5. Mechanics/Spells/Sending.md|sending]]\n\
-    \n4th level (3 slots): [[5. Mechanics/Spells/Confusion.md|confusion]], [hallucinatory\
-    \ terrain](compendium/spells/hallucinatory-terrain.md)\n\n5th level (2 slots):\
+    \n4th level (3 slots): [[5. Mechanics/Spells/Confusion.md|confusion]], [[5. Mechanics/Spells/Hallucinatory Terrain.md|hallucinatory\
+    \ terrain]]\n\n5th level (2 slots):\
     \ [[5. Mechanics/Spells/Telekinesis.md|telekinesis]], [[5. Mechanics/Spells/Wall Of Force.md|wall of force]]"
   "name": "spells"
 - "desc": "The mind flayer has advantage on saving throws against spells and other\

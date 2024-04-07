@@ -133,8 +133,8 @@ If the demilich drops to 0 hit points, it is destroyed and turns to powder, leav
   "name": ""
 - "desc": "- The tomb trembles violently for a moment. Each creature on the floor\
     \ of the tomb must succeed on a DC 19 Dexterity saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
-    \  \n- The demilich targets one creature it can see within 60 feet of it. An [antimagic\
-    \ field](compendium/spells/antimagic-field.md) fills the space of the target,\
+    \  \n- The demilich targets one creature it can see within 60 feet of it. An [[5. Mechanics/Spells/Antimagic Field.md|antimagic\
+    \ field]] fills the space of the target,\
     \ moving with it until initiative count 20 on the next round.  \n- The demilich\
     \ targets any number of creatures it can see within 30 feet of it. No target can\
     \ regain hit points until initiative count 20 on the next round.  "

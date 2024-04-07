@@ -46,8 +46,8 @@ Priests bring the teachings of their gods to the common folk. They are the spiri
     \ (spell save DC 13, dice: d20+5 (+5) to hit with spell attacks). The priest\
     \ has the following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Light.md|light]],\
     \ [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
-    \n1st level (4 slots): [[5. Mechanics/Spells/Cure Wounds.md|cure wounds]], [guiding\
-    \ bolt](compendium/spells/guiding-bolt.md), [[5. Mechanics/Spells/Sanctuary.md|sanctuary]]\n\
+    \n1st level (4 slots): [[5. Mechanics/Spells/Cure Wounds.md|cure wounds]], [[5. Mechanics/Spells/Guiding Bolt.md|guiding\
+    \ bolt]], [[5. Mechanics/Spells/Sanctuary.md|sanctuary]]\n\
     \n2nd level (3 slots): [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]],\
     \ [[5. Mechanics/Spells/Spiritual Weapon.md|spiritual weapon]]\n\n3rd level (2\
     \ slots): [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[5. Mechanics/Spells/Spirit Guardians.md|spirit guardians]]"

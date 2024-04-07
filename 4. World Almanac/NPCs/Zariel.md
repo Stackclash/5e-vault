@@ -166,8 +166,8 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ her appearance), [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]],\
     \ [[5. Mechanics/Spells/Fireball.md|fireball]], [[5. Mechanics/Spells/Invisibility.md|invisibility]]\
     \ (self only), [[5. Mechanics/Spells/Major Image.md|major image]], [[5. Mechanics/Spells/Wall Of Fire.md|wall of fire]]\n\
-    \n3/day each: [[5. Mechanics/Spells/Blade Barrier.md|blade barrier]], [dispel\
-    \ evil and good](compendium/spells/dispel-evil-and-good.md), [[5. Mechanics/Spells/Finger Of Death.md|finger of death]]"
+    \n3/day each: [[5. Mechanics/Spells/Blade Barrier.md|blade barrier]], [[5. Mechanics/Spells/Dispel Evil And Good.md|dispel\
+    \ evil and good]], [[5. Mechanics/Spells/Finger Of Death.md|finger of death]]"
   "name": "spells"
 - "desc": "Magical darkness doesn't impede Zariel's [[/5. Mechanics/Rules/Senses.md#darkvision|darkvision]]."
   "name": "Devil's Sight"

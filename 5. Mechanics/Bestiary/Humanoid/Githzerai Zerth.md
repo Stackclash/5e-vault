@@ -93,8 +93,8 @@ Whether these tall, gaunt creatures were peaceful or savage, cultured or primiti
 - "desc": "The githzerai's innate spellcasting ability is Wisdom. It can innately\
     \ cast the following spells, requiring no components:\n\nAt will: [[5. Mechanics/Spells/Mage Hand.md|mage hand]]\
     \ (the hand is invisible)\n\n1/day each: [[5. Mechanics/Spells/Phantasmal Killer.md|phantasmal killer]],\
-    \ [[5. Mechanics/Spells/Plane Shift.md|plane shift]]\n\n3/day each: [feather\
-    \ fall](compendium/spells/feather-fall.md), [[5. Mechanics/Spells/Jump.md|jump]],\
+    \ [[5. Mechanics/Spells/Plane Shift.md|plane shift]]\n\n3/day each: [[5. Mechanics/Spells/Feather Fall.md|feather\
+    \ fall]], [[5. Mechanics/Spells/Jump.md|jump]],\
     \ [[5. Mechanics/Spells/See Invisibility.md|see invisibility]], [[5. Mechanics/Spells/Shield.md|shield]]"
   "name": "innate"
 - "desc": "While the githzerai is wearing no armor and wielding no shield, its AC\

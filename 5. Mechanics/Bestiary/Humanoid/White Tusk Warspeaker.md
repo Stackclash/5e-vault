@@ -48,12 +48,12 @@ Warspeakers seek conflict constantly, flying into a frothing rage at the slighte
     \ (spell save DC 13, dice: d20+5 (+5) to hit with spell attacks). The orc\
     \ has the following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Resistance.md|resistance]],\
     \ [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
-    \n1st level (4 slots): [[5. Mechanics/Spells/Cure Wounds.md|cure wounds]], [guiding\
-    \ bolt](compendium/spells/guiding-bolt.md), [[5. Mechanics/Spells/Inflict Wounds.md|inflict wounds]]\n\
+    \n1st level (4 slots): [[5. Mechanics/Spells/Cure Wounds.md|cure wounds]], [[5. Mechanics/Spells/Guiding Bolt.md|guiding\
+    \ bolt]], [[5. Mechanics/Spells/Inflict Wounds.md|inflict wounds]]\n\
     \n2nd level (3 slots): [blindness/deafness](compendium/spells/blindness-deafness.md),\
     \ [[5. Mechanics/Spells/Spiritual Weapon.md|spiritual weapon]] (greataxe)\n\n3rd\
-    \ level (2 slots): [[5. Mechanics/Spells/Bestow Curse.md|bestow curse]], [spirit\
-    \ guardians](compendium/spells/spirit-guardians.md)"
+    \ level (2 slots): [[5. Mechanics/Spells/Bestow Curse.md|bestow curse]], [[5. Mechanics/Spells/Spirit Guardians.md|spirit\
+    \ guardians]]"
   "name": "spells"
 - "desc": "As a bonus action, the orc can move up to its speed toward a hostile creature\
     \ it can see."

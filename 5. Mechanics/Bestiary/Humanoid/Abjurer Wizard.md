@@ -53,8 +53,8 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
     \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n1/day each:\
     \ [[5. Mechanics/Spells/Arcane Lock.md|arcane lock]], [[5. Mechanics/Spells/Banishment.md|banishment]],\
     \ [[5. Mechanics/Spells/Globe Of Invulnerability.md|globe of invulnerability]], [[5. Mechanics/Spells/Invisibility.md|invisibility]],\
-    \ [[5. Mechanics/Spells/Wall Of Force.md|wall of force]]\n\n2/day each: [dispel\
-    \ magic](compendium/spells/dispel-magic.md), [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]],\
+    \ [[5. Mechanics/Spells/Wall Of Force.md|wall of force]]\n\n2/day each: [[5. Mechanics/Spells/Dispel Magic.md|dispel\
+    \ magic]], [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]],\
     \ [[5. Mechanics/Spells/Mage Armor.md|mage armor]]"
   "name": "spells"
 "actions":

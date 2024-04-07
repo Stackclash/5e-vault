@@ -50,8 +50,8 @@ aliases:
     \ cantrip (spell save DC 13 at 3rd level, 14 at 5th level, and 15 at 7th level).\n\
     \nAt 7th level, retainers can take two signature attacks per round."
   "name": "Signature Attack"
-- "desc": "Prerequisite: 3rd-level retainer\n\nThe Exorcist casts the [scorching\
-    \ ray](compendium/spells/scorching-ray.md) spell (dice: d20+6 (+6) to hit)."
+- "desc": "Prerequisite: 3rd-level retainer\n\nThe Exorcist casts the [[5. Mechanics/Spells/Scorching Ray.md|scorching\
+    \ ray]] spell (dice: d20+6 (+6) to hit)."
   "name": "Scorching Ray (3/Day)"
 - "desc": "Prerequisite: 5th-level retainer\n\nThe Exorcist casts the [[5. Mechanics/Spells/Fireball.md|fireball]]\
     \ spell (spell save DC 14 at 5th level, and 15 at 7th level)."

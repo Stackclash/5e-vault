@@ -89,8 +89,8 @@ A storm giant quintessent has no need for castles or dungeon lairs. Their lair i
     \ once more and appearing in any location it chooses within its lair. While dispersed,\
     \ the giant can't take any actions other than lair actions, and it can't be targeted\
     \ by attacks, spells, or other effects. The giant can't use this ability outside\
-    \ its lair, nor can it use this ability if another creature is using a [control\
-    \ weather](compendium/spells/control-weather.md) spell or similar magic to quell\
+    \ its lair, nor can it use this ability if another creature is using a [[5. Mechanics/Spells/Control Weather.md|control\
+    \ weather]] spell or similar magic to quell\
     \ the storm."
   "name": "One with the Storm (Costs 3 Actions)"
 "lair_actions":

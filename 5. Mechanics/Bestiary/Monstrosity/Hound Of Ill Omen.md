@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/xge
-- monster/cr/1
-- monster/size/medium
-- monster/type/monstrosity
+  - compendium/src/5e/xge
+  - monster/cr/1
+  - monster/size/medium
+  - monster/type/monstrosity
 statblock: inline
-aliases: ["Hound of Ill Omen"]
+aliases:
+  - Hound of Ill Omen
 ---
 # [[5. Mechanics/Bestiary/Monstrosity/Hound Of Ill Omen.md|Hound of Ill Omen]]
 *Source: Xanathar's Guide to Everything p. 50*

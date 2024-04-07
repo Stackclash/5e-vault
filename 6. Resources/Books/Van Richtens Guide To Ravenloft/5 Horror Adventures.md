@@ -11,7 +11,7 @@ aliases:
 
 Creating your own horror adventures is like crafting any other D&D adventure with one exception: your goal is to horrify your players in the most fun way possible. Frightening adventures benefit from an atmosphere of dread, conceived through a combination of terrifying narratives, dramatic presentation, and game elements encouraging fear. Drawing out the anxiety and anticipation of players requires deliberate consideration, though. The tools and techniques in this chapter provide ways to make sure your game is both spooky and safe in ways right for your specific group. A toolbox of horror-focused rules also provides options for what sort of grim adventures you might create. At the end of this chapter, a horror adventure puts these methods to use and leads characters on their first steps into the Domains of Dread.
 
-![During a séance, a spirit ...](compendium/books/van-richtens-guide-to-ravenloft/img/105-04-001-intro-splash.webp#center "During a séance, a spirit makes itself known to the Keepers of the Feather")
+![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/105-04-001-intro-splash.webp#center\|"During a séance, a spirit makes itself known to the Keepers of the Feather"]]
 
 ## Preparing for Horror
 

@@ -67,8 +67,8 @@ CR 1 (200 XP) For a red, orange, or yellow faerie dragon; 2 (450 XP) for a green
 "traits":
 - "desc": "The dragon's innate spellcasting ability is Charisma (spell save DC 13).\
     \ It can innately cast a number of spells, requiring no material components:\n\
-    \n1/day each: [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]], [mage\
-    \ hand](compendium/spells/mage-hand.md), [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]]"
+    \n1/day each: [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]], [[5. Mechanics/Spells/Mage Hand.md|mage\
+    \ hand]], [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]]"
   "name": "innate"
 - "desc": "A faerie dragon's scales change hue as it ages, moving through all the\
     \ colors of the rainbow. All faerie dragons have innate spellcasting ability,\

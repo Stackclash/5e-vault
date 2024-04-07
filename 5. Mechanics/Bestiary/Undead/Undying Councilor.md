@@ -90,8 +90,8 @@ An undying doesn't require air, food, drink, or sleep.
     \ [[5. Mechanics/Spells/Guardian Of Faith.md|guardian of faith]]\n\n5th level (2\
     \ slots): [[5. Mechanics/Spells/Dispel Evil And Good.md|dispel evil and good]],\
     \ [[5. Mechanics/Spells/Flame Strike.md|flame strike]] (see \"Actions\" below), [[5. Mechanics/Spells/Scrying.md|scrying]]\n\
-    \n6th level (1 slots): [[5. Mechanics/Spells/Forbiddance.md|forbiddance]], [planar\
-    \ ally](compendium/spells/planar-ally.md)\n\n7th level (1 slots): [[5. Mechanics/Spells/Plane Shift.md|plane shift]]"
+    \n6th level (1 slots): [[5. Mechanics/Spells/Forbiddance.md|forbiddance]], [[5. Mechanics/Spells/Planar Ally.md|planar\
+    \ ally]]\n\n7th level (1 slots): [[5. Mechanics/Spells/Plane Shift.md|plane shift]]"
   "name": "spells"
 - "desc": "The councilor magically sheds bright light in a 15-foot radius and dim\
     \ light for an additional 15 feet. The councilor can extinguish or restore this\

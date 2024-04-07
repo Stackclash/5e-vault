@@ -52,8 +52,8 @@ Nightmare speakers revel in torturing others, keeping their victims in a constan
 "traits":
 - "desc": "The yuan-ti casts one of the following spells, requiring no material components\
     \ and using Charisma as the spellcasting ability (spell save DC 13):\n\nAt will:\
-    \ [[5. Mechanics/Spells/Animal Friendship.md|animal friendship]] (snakes only), [mage\
-    \ hand](compendium/spells/mage-hand.md), [[5. Mechanics/Spells/Message.md|message]],\
+    \ [[5. Mechanics/Spells/Animal Friendship.md|animal friendship]] (snakes only), [[5. Mechanics/Spells/Mage Hand.md|mage\
+    \ hand]], [[5. Mechanics/Spells/Message.md|message]],\
     \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n2/day each:\
     \ [[5. Mechanics/Spells/Darkness.md|darkness]], [[5. Mechanics/Spells/Fear.md|fear]]\n\
     \n3/day: [[5. Mechanics/Spells/Suggestion.md|suggestion]]"

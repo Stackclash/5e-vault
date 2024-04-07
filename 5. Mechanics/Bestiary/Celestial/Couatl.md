@@ -62,13 +62,13 @@ The mating ritual of couatls is a beautiful and elaborate dance of magic and lig
 "traits":
 - "desc": "The couatl's spellcasting ability is Charisma (spell save DC 14). It can\
     \ innately cast the following spells, requiring only verbal components:\n\nAt\
-    \ will: [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]], [detect\
-    \ magic](compendium/spells/detect-magic.md), [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]]\n\
+    \ will: [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]], [[5. Mechanics/Spells/Detect Magic.md|detect\
+    \ magic]], [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]]\n\
     \n1/day each: [[5. Mechanics/Spells/Dream.md|dream]], [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]],\
     \ [[5. Mechanics/Spells/Scrying.md|scrying]]\n\n3/day each: [[5. Mechanics/Spells/Bless.md|bless]],\
     \ [[5. Mechanics/Spells/Create Food And Water.md|create food and water]], [[5. Mechanics/Spells/Cure Wounds.md|cure wounds]],\
-    \ [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]], [protection from\
-    \ poison](compendium/spells/protection-from-poison.md), [[5. Mechanics/Spells/Sanctuary.md|sanctuary]],\
+    \ [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]], [[5. Mechanics/Spells/Protection From Poison.md|protection from\
+    \ poison]], [[5. Mechanics/Spells/Sanctuary.md|sanctuary]],\
     \ [[5. Mechanics/Spells/Shield.md|shield]]"
   "name": "innate"
 - "desc": "The couatl's weapon attacks are magical."

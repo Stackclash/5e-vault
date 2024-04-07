@@ -50,8 +50,8 @@ aliases:
     \ cantrip (dice: d20+6 (+6) to hit).\n\nAt 7th level, retainers can take two\
     \ signature attacks per round."
   "name": "Signature Attack"
-- "desc": "Prerequisite: 3rd-level retainer\n\nThe theurgist casts the [pass without\
-    \ trace](compendium/spells/pass-without-trace.md) spell."
+- "desc": "Prerequisite: 3rd-level retainer\n\nThe theurgist casts the [[5. Mechanics/Spells/Pass Without Trace.md|pass without\
+    \ trace]] spell."
   "name": "Blink (3/Day)"
 - "desc": "Prerequisite: 5th-level retainer\n\nThe theurgist casts the [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]]\
     \ spell."

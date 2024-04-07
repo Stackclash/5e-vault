@@ -71,8 +71,8 @@ When an archdruid uses their Change Shape action, you may choose the creature th
     \ [[5. Mechanics/Spells/Entangle.md|entangle]], [[5. Mechanics/Spells/Speak With Animals.md|speak with animals]]\n\
     \n1/day each: [[5. Mechanics/Spells/Commune With Nature.md|commune with nature]]\
     \ (as an action), [[5. Mechanics/Spells/Mass Cure Wounds.md|mass cure wounds]]\n\n\
-    3/day each: [[5. Mechanics/Spells/Animal Messenger.md|animal messenger]], [dominate\
-    \ beast](compendium/spells/dominate-beast.md), [[5. Mechanics/Spells/Faerie Fire.md|faerie fire]],\
+    3/day each: [[5. Mechanics/Spells/Animal Messenger.md|animal messenger]], [[5. Mechanics/Spells/Dominate Beast.md|dominate\
+    \ beast]], [[5. Mechanics/Spells/Faerie Fire.md|faerie fire]],\
     \ [[5. Mechanics/Spells/Tree Stride.md|tree stride]]"
   "name": "spells"
 "actions":

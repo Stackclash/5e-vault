@@ -46,13 +46,13 @@ Whenever you use a spell or feature that allows you to target a creature and inf
 
 While you have a creature [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] by you, you may use your bonus action to force them to make a saving throw against the save DC of the amulet. On a failure, you may impose one of the following effects:
 
-- The target must roll on [[4. World Almanac/NPCs/Grazzt.md\|the Madness of Graz'zt table]]* ^[See the info tab] and suffer the resulting flaw. This flaw persists until cured as outlined in the [[/5. Mechanics/Rules/Variant Rules/Madness.md\|madness]]  
+- The target must roll on [[4. World Almanac/NPCs/Grazzt.md\|the Madness of Graz'zt table]]* ^[[/5. Mechanics/Rules/Variant Rules/Madness.md\|See the info tab] and suffer the resulting flaw. This flaw persists until cured as outlined in the [madness]]  
 - The target must use its reaction to move up to its speed in a direction you choose.  
 - The target enters a trance-like state and drops their guard. Until the start of your next turn, attack rolls against that target are made at advantage.  
 
 ## Curse
 
-When you become attuned to the amulet, you become cursed. Whenever you finish a long rest while cursed in this way, you must roll on the [[4. World Almanac/NPCs/Grazzt.md\|the Madness of Graz'zt table]]* ^[See the info tab] and gain the corresponding flaw until you finish your next long rest. If you are targeted by an effect that removes a curse such as a [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] or [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell, the user of that effect may choose to either end your attunement to this item and end the madness immediately, or they may choose to continue your attunement and simply end your current madness. If they choose the latter, you are still considered cursed and must roll on the table as usual at the end of your next long rest.
+When you become attuned to the amulet, you become cursed. Whenever you finish a long rest while cursed in this way, you must roll on the [[4. World Almanac/NPCs/Grazzt.md\|the Madness of Graz'zt table]]* ^[[5. Mechanics/Spells/Greater Restoration.md\|See the info tab] and gain the corresponding flaw until you finish your next long rest. If you are targeted by an effect that removes a curse such as a [greater restoration]] or [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell, the user of that effect may choose to either end your attunement to this item and end the madness immediately, or they may choose to continue your attunement and simply end your current madness. If they choose the latter, you are still considered cursed and must roll on the table as usual at the end of your next long rest.
 
 ## Destroying the Amulet
 

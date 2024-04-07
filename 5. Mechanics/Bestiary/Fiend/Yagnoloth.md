@@ -60,8 +60,8 @@ A yagnoloth has one arm of human size and one giant-sized arm. During negotiatio
     \ components and using Charisma as the spellcasting ability (spell save DC 16):\n\
     \nAt will: [[5. Mechanics/Spells/Darkness.md|darkness]], [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
     \ [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[5. Mechanics/Spells/Invisibility.md|invisibility]]\
-    \ (self only), [[5. Mechanics/Spells/Suggestion.md|suggestion]]\n\n3/day: [lightning\
-    \ bolt](compendium/spells/lightning-bolt.md)"
+    \ (self only), [[5. Mechanics/Spells/Suggestion.md|suggestion]]\n\n3/day: [[5. Mechanics/Spells/Lightning Bolt.md|lightning\
+    \ bolt]]"
   "name": "spells"
 - "desc": "The yagnoloth has advantage on saving throws against spells and other magical\
     \ effects."

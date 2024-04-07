@@ -50,6 +50,6 @@ Once per week as an action, the holder of the codex umbra can summon a [[5. Mech
 
 Completing this 1-hour ritual replaces the sun with a negative counterpart. The sun winks out and darkness rules the land—a land dominated by a blazing black sun in a sky filled with red stars.
 
-This is a supernatural darkness, and all intelligent creatures who live on the surface of the Mundane World can sense it. All diurnal ^[Those who sleep at night and are awake during the day.] creatures with an Intelligence score greater than 5 gain darkness sensitivity, giving them disadvantage on attack rolls and Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks that rely on sight. As the owner of the codex umbra, you do not suffer this sensitivity. However, while the Black Star blazes, you must sacrifice 1 Hit Die at the end of each hour.
+This is a supernatural darkness, and all intelligent creatures who live on the surface of the Mundane World can sense it. All diurnal ^[[/5. Mechanics/Rules/Skills.md#Perception\|Those who sleep at night and are awake during the day.] creatures with an Intelligence score greater than 5 gain darkness sensitivity, giving them disadvantage on attack rolls and Wisdom ([Perception]]) checks that rely on sight. As the owner of the codex umbra, you do not suffer this sensitivity. However, while the Black Star blazes, you must sacrifice 1 Hit Die at the end of each hour.
 
 *Source: Strongholds and Followers p. 249*

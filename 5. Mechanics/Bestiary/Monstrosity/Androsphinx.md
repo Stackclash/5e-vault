@@ -93,13 +93,13 @@ A sphinx presides over an ancient temple, sepulcher, or vault, within which are 
     \ no material components to cast its spells. The sphinx has the following cleric\
     \ spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]],\
     \ [[5. Mechanics/Spells/Spare The Dying.md|spare the dying]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
-    \n1st level (4 slots): [[5. Mechanics/Spells/Command.md|command]], [detect evil\
-    \ and good](compendium/spells/detect-evil-and-good.md), [[5. Mechanics/Spells/Detect Magic.md|detect magic]]\n\
+    \n1st level (4 slots): [[5. Mechanics/Spells/Command.md|command]], [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil\
+    \ and good]], [[5. Mechanics/Spells/Detect Magic.md|detect magic]]\n\
     \n2nd level (3 slots): [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]],\
     \ [[5. Mechanics/Spells/Zone Of Truth.md|zone of truth]]\n\n3rd level (3 slots):\
     \ [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[5. Mechanics/Spells/Tongues.md|tongues]]\n\
-    \n4th level (3 slots): [[5. Mechanics/Spells/Banishment.md|banishment]], [freedom\
-    \ of movement](compendium/spells/freedom-of-movement.md)\n\n5th level (2 slots):\
+    \n4th level (3 slots): [[5. Mechanics/Spells/Banishment.md|banishment]], [[5. Mechanics/Spells/Freedom Of Movement.md|freedom\
+    \ of movement]]\n\n5th level (2 slots):\
     \ [[5. Mechanics/Spells/Flame Strike.md|flame strike]], [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\n\
     \n6th level (1 slots): [[5. Mechanics/Spells/Heroes Feast.md|heroes' feast]]"
   "name": "spells"
@@ -151,8 +151,8 @@ A sphinx presides over an ancient temple, sepulcher, or vault, within which are 
     \ reroll initiative. The sphinx can choose not to reroll.  \n- The effects of\
     \ time are altered such that every creature in the lair must succeed on a DC 15\
     \ Constitution saving throw or become dice: 1d20|avg|noform (1d20) years older\
-    \ or younger (the sphinx's choice), but never any younger than 1 year old. A [greater\
-    \ restoration](compendium/spells/greater-restoration.md) spell can restore a creature's\
+    \ or younger (the sphinx's choice), but never any younger than 1 year old. A [[5. Mechanics/Spells/Greater Restoration.md|greater\
+    \ restoration]] spell can restore a creature's\
     \ age to normal.  \n- The flow of time within the lair is altered such that everything\
     \ within moves up to 10 years forward or backward (sphinx's choice). Only the\
     \ sphinx is immediately aware of the time change. A [[5. Mechanics/Spells/Wish.md|wish]]\

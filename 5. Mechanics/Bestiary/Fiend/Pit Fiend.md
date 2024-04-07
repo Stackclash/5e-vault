@@ -176,8 +176,8 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - "desc": "The pit fiend's spellcasting ability is Charisma (spell save DC 21). The\
     \ pit fiend can innately cast the following spells, requiring no material components:\n\
     \nAt will: [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Fireball.md|fireball]]\n\
-    \n3/day each: [[5. Mechanics/Spells/Hold Monster.md|hold monster]], [wall of\
-    \ fire](compendium/spells/wall-of-fire.md)"
+    \n3/day each: [[5. Mechanics/Spells/Hold Monster.md|hold monster]], [[5. Mechanics/Spells/Wall Of Fire.md|wall of\
+    \ fire]]"
   "name": "innate"
 - "desc": "Any creature hostile to the pit fiend that starts its turn within 20 feet\
     \ of the pit fiend must make a DC 21 Wisdom saving throw, unless the pit fiend\

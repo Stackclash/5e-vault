@@ -59,8 +59,8 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
     \ [[5. Mechanics/Spells/Disguise Self.md|disguise self]], [[5. Mechanics/Spells/Mage Armor.md|mage armor]]\
     \ (self only), [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]],\
     \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]], [[5. Mechanics/Spells/Speak With Animals.md|speak with animals]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Charm Person.md|charm person]], [dimension\
-    \ door](compendium/spells/dimension-door.md), [[5. Mechanics/Spells/Hold Monster.md|hold monster]]"
+    \n1/day each: [[5. Mechanics/Spells/Charm Person.md|charm person]], [[5. Mechanics/Spells/Dimension Door.md|dimension\
+    \ door]], [[5. Mechanics/Spells/Hold Monster.md|hold monster]]"
   "name": "spells"
 "actions":
 - "desc": "The warlock makes two Rapier attacks, or it uses Bewildering Word twice."

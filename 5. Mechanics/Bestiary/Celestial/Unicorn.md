@@ -79,8 +79,8 @@ A unicorn's lair might be an ancient ruin overgrown with vines, a misty clearing
     \ The unicorn can innately cast the following spells, requiring no components:\n\
     \nAt will: [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]],\
     \ [[5. Mechanics/Spells/Druidcraft.md|druidcraft]], [[5. Mechanics/Spells/Pass Without Trace.md|pass without trace]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Calm Emotions.md|calm emotions]], [dispel\
-    \ evil and good](compendium/spells/dispel-evil-and-good.md), [[5. Mechanics/Spells/Entangle.md|entangle]]"
+    \n1/day each: [[5. Mechanics/Spells/Calm Emotions.md|calm emotions]], [[5. Mechanics/Spells/Dispel Evil And Good.md|dispel\
+    \ evil and good]], [[5. Mechanics/Spells/Entangle.md|entangle]]"
   "name": "innate"
 - "desc": "If the unicorn moves at least 20 feet straight toward a target and then\
     \ hits it with a horn attack on the same turn, the target takes an extra dice:2d8|text(9)\

@@ -112,8 +112,8 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
     \ It can innately cast the following spells, requiring no material components:\n\
     \nAt will: [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Feather Fall.md|feather fall]],\
     \ [[5. Mechanics/Spells/Levitate.md|levitate]], [[5. Mechanics/Spells/Light.md|light]]\n\
-    \n3/day each: [[5. Mechanics/Spells/Control Weather.md|control weather]], [water\
-    \ breathing](compendium/spells/water-breathing.md)"
+    \n3/day each: [[5. Mechanics/Spells/Control Weather.md|control weather]], [[5. Mechanics/Spells/Water Breathing.md|water\
+    \ breathing]]"
   "name": "innate"
 - "desc": "The giant can breathe air and water."
   "name": "Amphibious"

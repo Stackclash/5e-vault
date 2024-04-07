@@ -50,8 +50,8 @@ aliases:
     \ cantrip (spell save DC 13 at 3rd level, 14 at 5th level, and 15 at 7th level).\n\
     \nAt 7th level, retainers can take two signature attacks per round."
   "name": "Signature Attack"
-- "desc": "Prerequisite: 3rd-level retainer\n\nThe conjurer casts the [stinking\
-    \ cloud](compendium/spells/stinking-cloud.md) spell (spell save DC 13 at 3rd level,\
+- "desc": "Prerequisite: 3rd-level retainer\n\nThe conjurer casts the [[5. Mechanics/Spells/Stinking Cloud.md|stinking\
+    \ cloud]] spell (spell save DC 13 at 3rd level,\
     \ 14 at 5th level, and 15 at 7th level)."
   "name": "Stinking Cloud (3/Day)"
 - "desc": "Prerequisite: 5th-level retainer\n\nThe conjurer casts the [[5. Mechanics/Spells/Conjure Elemental.md|conjure elemental]]\

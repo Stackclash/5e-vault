@@ -53,8 +53,8 @@ aliases:
 - "desc": "Prerequisite: 3rd-level retainer\n\nThe Stormspeaker casts the [[5. Mechanics/Spells/Shatter.md|shatter]]\
     \ spell (spell save DC 13 at 3rd level, 14 at 5th level, and 15 at 7th level)."
   "name": "Shatter (3/Day)"
-- "desc": "Prerequisite: 5th-level retainer\n\nThe Stormspeaker casts the [call\
-    \ lightning](compendium/spells/call-lightning.md) spell (spell save DC 14 at 5th\
+- "desc": "Prerequisite: 5th-level retainer\n\nThe Stormspeaker casts the [[5. Mechanics/Spells/Call Lightning.md|call\
+    \ lightning]] spell (spell save DC 14 at 5th\
     \ level, and 15 at 7th level)."
   "name": "Call Lightning (1/Day)"
 - "desc": "Prerequisite: 7th-level retainer\n\nThe Stormspeaker casts the [[5. Mechanics/Spells/Ice Storm.md|ice storm]]\

@@ -180,10 +180,10 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\
     \n1st level (4 slots): [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
     \ [[5. Mechanics/Spells/Magic Missile.md|magic missile]], [[5. Mechanics/Spells/Sleep.md|sleep]],\
-    \ [[5. Mechanics/Spells/Witch Bolt.md|witch bolt]]\n\n2nd level (3 slots): [crown\
-    \ of madness](compendium/spells/crown-of-madness.md), [enlarge/reduce](compendium/spells/enlarge-reduce.md),\
-    \ [[5. Mechanics/Spells/Misty Step.md|misty step]]\n\n3rd level (3 slots): [dispel\
-    \ magic](compendium/spells/dispel-magic.md), [[5. Mechanics/Spells/Fireball.md|fireball]],\
+    \ [[5. Mechanics/Spells/Witch Bolt.md|witch bolt]]\n\n2nd level (3 slots): [[5. Mechanics/Spells/Crown Of Madness.md|crown\
+    \ of madness]], [enlarge/reduce](compendium/spells/enlarge-reduce.md),\
+    \ [[5. Mechanics/Spells/Misty Step.md|misty step]]\n\n3rd level (3 slots): [[5. Mechanics/Spells/Dispel Magic.md|dispel\
+    \ magic]], [[5. Mechanics/Spells/Fireball.md|fireball]],\
     \ [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]]\n\n4th level (3 slots):\
     \ [[5. Mechanics/Spells/Blight.md|blight]], [[5. Mechanics/Spells/Evards Black Tentacles.md|Evard's black tentacles]],\
     \ [[5. Mechanics/Spells/Polymorph.md|polymorph]]\n\n5th level (2 slots): [[5. Mechanics/Spells/Cloudkill.md|cloudkill]],\

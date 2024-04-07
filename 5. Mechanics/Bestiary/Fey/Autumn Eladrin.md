@@ -62,8 +62,8 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
 "traits":
 - "desc": "The eladrin casts one of the following spells, requiring no material components\
     \ and using Charisma as the spellcasting ability (spell save DC 16):\n\nAt will:\
-    \ [[5. Mechanics/Spells/Hold Person.md|hold person]]\n\n1/day each: [greater\
-    \ restoration](compendium/spells/greater-restoration.md), [[5. Mechanics/Spells/Revivify.md|revivify]]\n\
+    \ [[5. Mechanics/Spells/Hold Person.md|hold person]]\n\n1/day each: [[5. Mechanics/Spells/Greater Restoration.md|greater\
+    \ restoration]], [[5. Mechanics/Spells/Revivify.md|revivify]]\n\
     \n2/day each: [[5. Mechanics/Spells/Cure Wounds.md|cure wounds]] (as a 5th-level\
     \ spell), [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]]"
   "name": "spells"

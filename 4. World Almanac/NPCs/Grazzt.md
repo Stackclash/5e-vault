@@ -163,8 +163,8 @@ await dv.view("npcRelationships", { current: dv.current() })
 - "desc": "Graz'zt casts one of the following spells, requiring no material components\
     \ and using Charisma as the spellcasting ability (spell save DC 23):\n\nAt will:\
     \ [[5. Mechanics/Spells/Charm Person.md|charm person]], [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
-    \ [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]]\n\n1/day each: [dominate\
-    \ monster](compendium/spells/dominate-monster.md), [[5. Mechanics/Spells/Greater Invisibility.md|greater invisibility]]\n\
+    \ [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]]\n\n1/day each: [[5. Mechanics/Spells/Dominate Monster.md|dominate\
+    \ monster]], [[5. Mechanics/Spells/Greater Invisibility.md|greater invisibility]]\n\
     \n3/day each: [[5. Mechanics/Spells/Darkness.md|darkness]], [[5. Mechanics/Spells/Dominate Person.md|dominate person]],\
     \ [[5. Mechanics/Spells/Telekinesis.md|telekinesis]], [[5. Mechanics/Spells/Teleport.md|teleport]]"
   "name": "spells"
