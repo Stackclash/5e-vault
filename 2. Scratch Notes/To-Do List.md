@@ -13,8 +13,8 @@
 - [ ] Insert travel times into Settlements template (watch [video](https://www.youtube.com/watch?v=X6AT9G0uV-Y&t=1805s))
 - [ ] Look into weather generation (watch [video](https://www.youtube.com/watch?v=mDSHjLJyyTs&t=222s))
 - [ ] Look into using AI for generating notes (watch [Obsidian - Create Random Notes with ChatGPT Templates](https://www.youtube.com/watch?v=X9tlAZC6DSU&t=111s), [Obsidian - Creating TTRPG Calculators with DataviewJS and ChatGPT](https://www.youtube.com/watch?v=LgljhGhNWCA))
-- [ ] Create a DM Screen (watch [video](https://www.youtube.com/watch?v=PuZNjzwQCmI))
-- [ ] Create Soundboard (watch [video](https://www.youtube.com/watch?v=PeAzPP5XeZ8&t=407s))
+- [x] Create a DM Screen (watch [video](https://www.youtube.com/watch?v=PuZNjzwQCmI))
+- [x] Create Soundboard (watch [video](https://www.youtube.com/watch?v=PeAzPP5XeZ8&t=407s))
 - [ ] Fill out information for all:
 	- [ ] Regions
 	- [ ] Places of Interest
