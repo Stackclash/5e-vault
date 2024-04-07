@@ -1,31 +1,5 @@
 {
-  "mapMarkers": [
-    {
-      "id": "Barovia",
-      "locked": true,
-      "lastAccessed": 1708087220227,
-      "markers": [],
-      "overlays": [
-        {
-          "radius": 0.311182095977898,
-          "loc": [
-            8.8123779296875,
-            3.503784774638775
-          ],
-          "color": "blue",
-          "layer": "%5B%5BBarovia.jpg%5D%5D",
-          "unit": "miles",
-          "desc": "",
-          "mutable": true,
-          "marker": null
-        }
-      ],
-      "shapes": [],
-      "files": [
-        "4. World Almanac/Regions/Barovia.md"
-      ]
-    }
-  ],
+  "mapMarkers": [],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",

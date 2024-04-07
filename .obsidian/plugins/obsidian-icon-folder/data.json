@@ -96,6 +96,12 @@
         "for": "everything",
         "order": 11,
         "useFilePath": true
+      },
+      {
+        "rule": "4\\. World Almanac\\/NPCs.*",
+        "icon": "FasPerson",
+        "for": "everything",
+        "order": 12
       }
     ],
     "extraMargin": {
