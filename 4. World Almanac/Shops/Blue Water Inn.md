@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-location: ""
+location: "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
 owners:
   - "[[4. World Almanac/NPCs/Urwin Martikov.md|Urwin Martikov]]"
   - "[[4. World Almanac/NPCs/Danika Dorakova.md|Danika Dorakova]]"

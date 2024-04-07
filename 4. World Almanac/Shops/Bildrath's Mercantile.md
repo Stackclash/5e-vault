@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-location: ""
+location: "[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]"
 owners: []
 staff:
   - "[[4. World Almanac/NPCs/Parriwimple.md|Parriwimple]]"
