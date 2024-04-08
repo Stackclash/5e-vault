@@ -36,8 +36,8 @@ speed: normal
 TABLE WITHOUT ID
 >	link(file.path, name) AS "Name",
 >	summary
-> FROM "3. The Party/Session Journals"
-> WHERE party = this.file.name
+> FROM "1. DM Stuff/Session Journals"
+> WHERE party = this.file.link
 > SORT file.frontmatter.date DESC
 >```
 
