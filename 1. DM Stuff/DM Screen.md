@@ -26,5 +26,3 @@
 > ![[Conditions#Prone]]
 > ![[Conditions#Restrained]]
 > ![[Conditions#Stunned]]
-
- 
