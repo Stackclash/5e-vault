@@ -30,7 +30,7 @@
 
 /* Fixes Text Area to be small enough to fit with infobox */
 .mb-input-type-textArea > textarea {
-  width: 75%;
+  width: calc(100% - 30%)
 }
 
 /* Hides node files and folders */
