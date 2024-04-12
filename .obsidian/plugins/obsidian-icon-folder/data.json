@@ -116,7 +116,8 @@
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true,
     "iconsInLinksEnabled": true,
-    "iconIdentifier": ":"
+    "iconIdentifier": ":",
+    "debugMode": false
   },
   "1. DM Stuff/Tools/Herbs.md": "RaFlowers",
   "1. DM Stuff/Configuration.md": "FasGears",
