@@ -29,11 +29,11 @@ prep-notes: "[[2024-02-24]]"
 
 ## Key Learnings
 - Strahd's home kingdom is Mauristatia #remember
-- Stahd's childhood was in 473
+- Stahd's childhood was in 473 #remember
 - [[Redgrave]] figures out that a lot of Barovians are without souls and that the souls are reborn into new bodies
 - [[Redgrave]] thinks that [[Izek Strazni]] had a doll made for each reincarnation of [[Ireena Kolyana]] 
-- Commander in Strahd's army is Delus
-- [[Seluvis Felo'melorn]] learned about [[Barrier Coral]] 
+- Commander in Strahd's army is Delus #remember
+- [[Seluvis Felo'melorn]] learned about [[Barrier Coral]] #remember
 
 ## Items Of Importance
 - Kahkan's Wand of Secrets
