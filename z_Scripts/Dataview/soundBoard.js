@@ -40,15 +40,10 @@ function mp3Link(mp3) {
 let mp3s = goThroughFilesAndFolders(path.resolve(vaultPath, './z_Assets/Music'))
 console.log(mp3s)
 mp3s = mp3s.reduce((accum, value) => {
-    console.log(value)
     const regex = /Music[\\\/]([a-zA-Z\s]+)[\\\/]*([a-zA-Z\s]*)[\\\/][a-zA-Z\s]+\.mp3$/g
-    
+
     const [match, group, category] = regex.exec(value)
-    if (!match) {
-        console.log('ERROR',value)
-    } else {
-        console.log('SAFE', value)
-    }
+
     const safeMatch = match.replaceAll('\\', '/')
 
     if (accum.hasOwnProperty(group)) {
