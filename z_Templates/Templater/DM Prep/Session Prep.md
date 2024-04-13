@@ -10,7 +10,9 @@ date: <% formattedDate %>
 
 
 ## Details to Remember
-
+```dataviewjs
+dv.list(dv.pages('"1. DM Stuff/Session Journals"').file.lists.where(t => t.text.includes("#remember")).map((t) => t.text))
+```
 
 ## Strong Start  
 
