@@ -163,7 +163,8 @@ A secret door at the north end of the east wall can be pushed open to reveal a s
 If the beacon of Argynvostholt (area Q53) has not been lit, read the following text when the characters approach the fireplace for the first time:
 
 > [!readaloud] 
-> 
+> ![[Pyroblast.mp3]]
+> ![[Snake Hiss.mp3]]
 > A fire erupts in the dead hearth and assumes a draconic form. It hisses, crackles, and unfurls its smoky wings.
 ^43a
 
