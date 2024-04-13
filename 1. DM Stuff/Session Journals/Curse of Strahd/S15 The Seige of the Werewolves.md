@@ -40,3 +40,5 @@ N/A
 - The werewolves storms the tower, climbing up the walls and eventually breaking down the front door
 - [[Seluvis Felo'melorn]], [[Faerah Duskrane]], and [[Izek Strazni]] stay on the top floor to fend off the werewolves coming in from the ceiling
 - [[Seluvis Felo'melorn]] gets bitten by a werewolf and is infected with lycanthropy #remember 
+- [[Yevelda Ovak]] deals the killing blow to [[Kiril Stoyanovich]] 
+- There is a internal power struggle among the werewolves with [[Kiril Stoyanovich|Kiril Stoyanovich's]] death #remember #secret 
