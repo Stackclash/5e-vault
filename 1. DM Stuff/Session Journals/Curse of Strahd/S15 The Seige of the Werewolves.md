@@ -40,6 +40,6 @@ N/A
 - The werewolves storms the tower, climbing up the walls and eventually breaking down the front door
 - [[Seluvis Felo'melorn]], [[Faerah Duskrane]], and [[Izek Strazni]] stay on the top floor to fend off the werewolves coming in from the ceiling
 - [[Seluvis Felo'melorn]] gets bitten by a werewolf and is infected with lycanthropy. [[Redgrave]] attempted to cure him with [[Remove Curse]] #remember 
-- [[Seluvis Felo'melorn]] is actually not cured. He will need to be cured with a mixture of Wolfsbane, the ground up heart of the werewolf that bit him and [[Fiends Chilli]]. [[Fiends Chilli]] can by [[Ezmerelda Davenir]] knows of this cure. #remember #secret  
+- [[Seluvis Felo'melorn]] is actually not cured. He will need to be cured with a mixture of Wolfsbane, the ground up heart of the werewolf that bit him and [[Fiends Chilli]]. [[Fiends Chilli]] can be found on the sloops of Mt. Ghakis. [[Ezmerelda Davenir]] knows of this cure. #remember #secret  
 - [[Yevelda Ovak]] deals the killing blow to [[Kiril Stoyanovich]] 
 - There is a internal power struggle among the werewolves with [[Kiril Stoyanovich|Kiril Stoyanovich's]] death #remember #secret 
