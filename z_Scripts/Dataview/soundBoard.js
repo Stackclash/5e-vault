@@ -7,6 +7,7 @@ const vaultPath = app.vault.adapter.getBasePath()
 
 function goThroughFilesAndFolders(folderPath, filesList=[]) {
     const files = fs.readdirSync(folderPath)
+    console.log(files)
 
     files.forEach(file => {
         const filePath = path.resolve(folderPath, file)
