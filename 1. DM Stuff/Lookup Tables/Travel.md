@@ -20,7 +20,7 @@ FamiliarRoute: true
 PartyMembers: 6
 LifestyleCostSP: 1
 IncludeMeals: false
-TravelCalc: '[MB_EXPRESSION] "failed to evaluate expression" caused by error "Unexpected type of argument in function multiplyScalar (expected: number or Unit or string or boolean or BigNumber or Complex or Fraction, actual: identifier | null, index: 1)"'
+TravelCalc: 9
 ---
 
 # Travel Speed
