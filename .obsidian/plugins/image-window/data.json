@@ -22,10 +22,10 @@
           "maximized": true
         },
         "Ricks-MBP.lan": {
-          "x": 320,
-          "y": 0,
-          "width": 1280,
-          "height": 775,
+          "x": 0,
+          "y": 133,
+          "width": 1024,
+          "height": 800,
           "fullscreen": false,
           "maximized": false
         }
@@ -43,8 +43,8 @@
         },
         "Ricks-MBP.lan": {
           "x": 0,
-          "y": 0,
-          "width": 1920,
+          "y": 37,
+          "width": 1728,
           "height": 1080,
           "fullscreen": true,
           "maximized": false
