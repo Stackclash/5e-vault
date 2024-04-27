@@ -16,6 +16,7 @@ aliases:
   - Identify Vitals
 ---
 # Identify Vitals
+%%-- Embedded content starts on the next line. --%%
 *1st-level, Enchantment (ritual)*  
 
 - **Casting time:** 1 action unless cast as a ritual

@@ -11,6 +11,7 @@ aliases:
   - Word of Recall
 ---
 # Word of Recall
+%%-- Embedded content starts on the next line. --%%
 *6th-level, Conjuration*  
 
 - **Casting time:** 1 action

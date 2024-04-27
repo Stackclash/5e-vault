@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Evoker Wizard
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Evoker Wizard.md|Evoker Wizard]]
+# [[5. Mechanics\Bestiary\Humanoid\Evoker Wizard.md|Evoker Wizard]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 262, Volo's Guide to Monsters p. 214*
 
 Evokers harness arcane energy to destroy. Many armies employ evokers to rain destruction down on enemy forces.
@@ -53,7 +53,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
     \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n1/day each:\
     \ [[5. Mechanics/Spells/Wall Of Ice.md|wall of ice]]\n\n2/day each: [[5. Mechanics/Spells/Ice Storm.md|ice storm]],\
     \ [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]], [[5. Mechanics/Spells/Mage Armor.md|mage armor]]"
-  "name": "spells"
+  "name": "Spellcasting"
 "actions":
 - "desc": "The evoker makes three Arcane Burst attacks."
   "name": "Multiattack"

@@ -156,7 +156,7 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ [[5. Mechanics/Spells/Invisibility.md|invisibility]] (self only), [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]],\
     \ [[5. Mechanics/Spells/Suggestion.md|suggestion]], [[5. Mechanics/Spells/Wall Of Fire.md|wall of fire]]\n\
     \n3/day: [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "Each creature within 30 feet of Hutijin that isn't a devil makes saving\
     \ throws with disadvantage."
   "name": "Infernal Despair"

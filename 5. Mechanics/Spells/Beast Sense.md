@@ -13,6 +13,7 @@ aliases:
   - Beast Sense
 ---
 # Beast Sense
+%%-- Embedded content starts on the next line. --%%
 *2nd-level, Divination (ritual)*  
 
 - **Casting time:** 1 action unless cast as a ritual

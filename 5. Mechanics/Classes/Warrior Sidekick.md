@@ -56,10 +56,6 @@ You are proficient with the following items.
 - **Skills**: Choose 2 from *Acrobatics*, *Animal Handling*, *Athletics*, *Intimidation*, *Nature*, *Perception*, *Survival*
 
 
-## Warrior Sidekick
-
-A Warrior sidekick grows in martial prowess as it fights by your side. It might be a soldier, a town guard, a battle-trained beast, or any other creature honed for combat.
-
 ## Class Features
 
 ### Sidekick Class (Level 1)

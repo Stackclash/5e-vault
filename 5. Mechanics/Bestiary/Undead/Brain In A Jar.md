@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Brain in a Jar
 ---
-# [[5. Mechanics/Bestiary/Undead/Brain In A Jar.md|Brain in a Jar]]
+# [[5. Mechanics\Bestiary\Undead\Brain In A Jar.md|Brain in a Jar]]
 *Source: Van Richten's Guide to Ravenloft p. 278*
 
 Through an eldritch ritual combining alchemy, necromancy, and grim surgical precision, the brain of a mortal being (willing or unwilling) is encased in a glass jar filled with preserving fluids and the liquefied goop of their body's flesh. The transformation renders the brain immortal and imbues it with psionic power, so that it can spend eternity plotting and executing its desires.
@@ -60,7 +60,7 @@ The brain floats in a jar of solution, pulsating as it reacts to its surrounding
     \n1/day each: [[5. Mechanics/Spells/Compulsion.md|compulsion]], [[5. Mechanics/Spells/Hold Monster.md|hold monster]],\
     \ [[5. Mechanics/Spells/Sleep.md|sleep]] (3rd-level version), [[5. Mechanics/Spells/Tashas Hideous Laughter.md|Tasha's hideous laughter]]\n\
     \n3/day each: [[5. Mechanics/Spells/Charm Person.md|charm person]], [[5. Mechanics/Spells/Hold Person.md|hold person]]"
-  "name": "innate"
+  "name": "Innate Spellcasting (Psionics)"
 - "desc": "The brain can sense the presence and location of any creature within 300\
     \ feet of it that has an Intelligence of 3 or higher, regardless of interposing\
     \ barriers, unless the creature is protected by a [[5. Mechanics/Spells/Mind Blank.md|mind blank]]\

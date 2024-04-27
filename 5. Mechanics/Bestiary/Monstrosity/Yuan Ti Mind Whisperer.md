@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Yuan-ti Mind Whisperer
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Yuan Ti Mind Whisperer.md|Yuan-ti Mind Whisperer]]
+# [[5. Mechanics\Bestiary\Monstrosity\Yuan Ti Mind Whisperer.md|Yuan-ti Mind Whisperer]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 274, Volo's Guide to Monsters p. 204*
 
 Mind whisperers are yuan-ti malison spellcasters who enter into a pact with the serpent god Sseth, the Sibilant Death. They use their abilities to convert others to their faith, increase their personal power, and befuddle the minds of their enemies.
@@ -56,7 +56,7 @@ Mind whisperers are elusive, manipulative, unpredictable, and willing to cheat o
     \ [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\
     \n2/day each: [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[5. Mechanics/Spells/Hypnotic Pattern.md|hypnotic\
     \ pattern]]\n\n3/day: [[5. Mechanics/Spells/Suggestion.md|suggestion]]"
-  "name": "spells"
+  "name": "Spellcasting (Yuan-ti Form Only)"
 - "desc": "Magical darkness doesn't impede the yuan-ti's [[/5. Mechanics/Rules/Senses.md#darkvision|darkvision]]."
   "name": "Devil's Sight"
 - "desc": "The yuan-ti has advantage on saving throws against spells and other magical\

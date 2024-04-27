@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Death Knight
 ---
-# [[5. Mechanics/Bestiary/Undead/Death Knight.md|Death Knight]]
+# [[5. Mechanics\Bestiary\Undead\Death Knight.md|Death Knight]]
 *Source: Monster Manual p. 47, Tasha's Cauldron of Everything*
 
 When a paladin that falls from grace dies without seeking atonement, dark powers can transform the once-mortal knight into a hateful undead creature. A death knight is a skeletal warrior clad in fearsome plate armor. Beneath its helmet, one can see the knight's skull with malevolent pinpoints of light burning in its eye sockets.
@@ -70,7 +70,7 @@ A death knight doesn't require air, food, drink, or sleep.
     \n4th level (3 slots): [[5. Mechanics/Spells/Banishment.md|banishment]], [[5. Mechanics/Spells/Staggering Smite.md|staggering\
     \ smite]]\n\n5th level (2 slots): [[5. Mechanics/Spells/Destructive Wave.md|destructive\
     \ wave]] (necrotic)"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "The death knight has advantage on saving throws against spells and other\
     \ magical effects."
   "name": "Magic Resistance"

@@ -162,7 +162,7 @@ await dv.view("npcRelationships", { current: dv.current() })
     \n1/day each: [[5. Mechanics/Spells/Etherealness.md|etherealness]], [[5. Mechanics/Spells/Teleport.md|teleport]]\n\
     \n3/day each: [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[5. Mechanics/Spells/Entangle.md|entangle]],\
     \ [[5. Mechanics/Spells/Plant Growth.md|plant growth]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "If Zuggtmoy fails a saving throw, she can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
 - "desc": "Zuggtmoy has advantage on saving throws against spells and other magical\

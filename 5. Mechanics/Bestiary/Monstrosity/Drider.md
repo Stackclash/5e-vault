@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Drider
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Drider.md|Drider]]
+# [[5. Mechanics\Bestiary\Monstrosity\Drider.md|Drider]]
 *Source: Monster Manual p. 120. Available in the SRD.*
 
 When a drow shows great promise, Lolth summons it to the Demonweb Pits for a test of faith and strength. Those that pass the test rise higher in the Spider Queen's favor. Those that fail are transformed into driders-a horrid hybrid of a drow and a giant spider that serves as a living reminder of Lolth's power. Only drow can be turned into driders, and the power to create these creatures resides with Lolth alone.
@@ -55,7 +55,7 @@ On rare occasion, a drider returns to the fringes of drow society despite its cu
     \ The drider can innately cast the following spells, requiring no material components:\n\
     \nAt will: [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]]\n\n1/day\
     \ each: [[5. Mechanics/Spells/Darkness.md|darkness]], [[5. Mechanics/Spells/Faerie Fire.md|faerie fire]]"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "The drider has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
     \ and magic can't put the drider to sleep."
   "name": "Fey Ancestry"

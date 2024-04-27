@@ -176,7 +176,8 @@ await dv.view("npcRelationships", { current: dv.current() })
   "name": "Shortsword"
 "source":
 - "SaF"
-"image": "4. World Almanac/NPCs/token/korsoth-vastikan-saf.webp"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Korsoth\
+  \ Vastikan.png"
 ```
 ^statblock
 

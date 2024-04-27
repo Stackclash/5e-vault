@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Beholder Zombie
 ---
-# [[5. Mechanics/Bestiary/Undead/Beholder Zombie.md|Beholder Zombie]]
+# [[5. Mechanics\Bestiary\Undead\Beholder Zombie.md|Beholder Zombie]]
 *Source: Monster Manual p. 316*
 
 From somewhere in the darkness, a gurgling moan is heard. A form lurches into view, dragging one foot as it raises bloated arms and broken hands. The zombie advances, driven to kill anyone too slow to escape its grasp.

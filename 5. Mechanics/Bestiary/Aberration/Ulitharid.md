@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Ulitharid
 ---
-# [[5. Mechanics/Bestiary/Aberration/Ulitharid.md|Ulitharid]]
+# [[5. Mechanics\Bestiary\Aberration\Ulitharid.md|Ulitharid]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 249, Volo's Guide to Monsters p. 175*
 
 Very rarely, when a tadpole from the brine pool of an [[5. Mechanics/Bestiary/Aberration/Elder Brain.md|elder brain]] is implanted into a creature, that creature transforms into an ulitharid: a larger and more potent [[5. Mechanics/Bestiary/Aberration/Mind Flayer.md|mind flayer]] with six tentacles. Illithids innately recognize that an ulitharid's survival is more important than their own. An [[5. Mechanics/Bestiary/Aberration/Elder Brain.md|elder brain's]] reaction to the rise of an ulitharid varies. In most colonies, the ulitharid becomes an elder brain's most favored servant, invested with power and authority. In others, the [[5. Mechanics/Bestiary/Aberration/Elder Brain.md|elder brain]] perceives an ulitharid as a potential rival and manipulates or quashes the ulitharid's ambitions accordingly.
@@ -58,7 +58,7 @@ This process doesn't work on the brain of an ulitharid that dies a natural death
     \ [[5. Mechanics/Spells/Mass Suggestion.md|mass suggestion]], [[5. Mechanics/Spells/Plane Shift.md|plane shift]]\
     \ (self only), [[5. Mechanics/Spells/Project Image.md|project image]], [[5. Mechanics/Spells/Scrying.md|scrying]],\
     \ [[5. Mechanics/Spells/Telekinesis.md|telekinesis]]"
-  "name": "spells"
+  "name": "Spellcasting (Psionics)"
 - "desc": "The ulitharid is aware of the presence of creatures within 2 miles of it\
     \ that have an Intelligence score of 4 or higher. It knows the distance and direction\
     \ to each creature, as well as each creature's intelligence score, but can't sense\

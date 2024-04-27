@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Sahuagin Priestess
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Sahuagin Priestess.md|Sahuagin Priestess]]
+# [[5. Mechanics\Bestiary\Humanoid\Sahuagin Priestess.md|Sahuagin Priestess]]
 *Source: Monster Manual p. 264*
 
 Across fog-shrouded coasts or endless ocean swells, an ominous drone sounded on a conch shell chills the blood of all who hear it. This is the sound of the sahuagin hunting horn-a call to raid and battle. Coastal settlers refer to sahuagin as "sea devils," for sahuagin have no compassion in them, slaughtering the crews of ships and decimating coastal villages.
@@ -76,7 +76,7 @@ The sahuagin put the malenti to good use as spies and assassins in aquatic elf c
     \ [[5. Mechanics/Spells/Hold Person.md|hold person]], [[5. Mechanics/Spells/Spiritual Weapon.md|spiritual weapon]]\
     \ (trident)\n\n3rd level (3 slots): [[5. Mechanics/Spells/Mass Healing Word.md|mass healing word]],\
     \ [[5. Mechanics/Spells/Tongues.md|tongues]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "The sahuagin has advantage on melee attack rolls against any creature that\
     \ doesn't have all its hit points."
   "name": "Blood Frenzy"

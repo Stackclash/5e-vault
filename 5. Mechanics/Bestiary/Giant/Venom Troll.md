@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Venom Troll
 ---
-# [[5. Mechanics/Bestiary/Giant/Venom Troll.md|Venom Troll]]
+# [[5. Mechanics\Bestiary\Giant\Venom Troll.md|Venom Troll]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 248, Mordenkainen's Tome of Foes p. 245*
 
 A troll that survives massive doses of poison might transform into a venom troll. Lingering poison infuses the troll's blood and tissue, and poison leaks from the pores to coat the troll's fangs and claws. These creatures are especially dangerous in close combat because poison drips off their flesh and sprays out from every wound they receive.

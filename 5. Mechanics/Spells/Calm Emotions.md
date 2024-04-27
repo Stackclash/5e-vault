@@ -15,6 +15,7 @@ aliases:
   - Calm Emotions
 ---
 # Calm Emotions
+%%-- Embedded content starts on the next line. --%%
 *2nd-level, Enchantment*  
 
 - **Casting time:** 1 action

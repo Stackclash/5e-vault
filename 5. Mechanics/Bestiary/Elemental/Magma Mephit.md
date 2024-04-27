@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Magma Mephit
 ---
-# [[5. Mechanics/Bestiary/Elemental/Magma Mephit.md|Magma Mephit]]
+# [[5. Mechanics\Bestiary\Elemental\Magma Mephit.md|Magma Mephit]]
 *Source: Monster Manual p. 216. Available in the SRD.*
 
 ## Mephits
@@ -56,7 +56,7 @@ Composed of earth and fire, magma mephits glow a dull red color as they perspire
 - "desc": "The mephit can innately cast [[5. Mechanics/Spells/Heat Metal.md|heat metal]]\
     \ (spell save DC 10), requiring no material components. Its innate spellcasting\
     \ ability is Charisma.\n\nAt will: [[5. Mechanics/Spells/Heat Metal.md|heat metal]]"
-  "name": "innate"
+  "name": "Innate Spellcasting (1/Day)"
 - "desc": "When the mephit dies, it explodes in a burst of lava. Each creature within\
     \ 5 feet of it must make a DC 11 Dexterity saving throw, taking dice:2d6|text(7)\
     \ (2d6) fire damage on a failed save, or half as much damage on a successful\

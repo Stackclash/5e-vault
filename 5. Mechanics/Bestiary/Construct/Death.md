@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Death
 ---
-# [[5. Mechanics/Bestiary/Construct/Death.md|Death]]
+# [[5. Mechanics\Bestiary\Construct\Death.md|Death]]
 *Source: Strongholds and Followers p. 228*
 
 > [!quote]-  
@@ -54,7 +54,7 @@ This thing is powerful, but not hard to run. Its Law of Death radiates damage to
 - "desc": "Death's innate spellcasting ability is Charisma (spell save DC 13). It\
     \ can innately cast the following spells, requiring no material components:\n\n\
     3/day: [[5. Mechanics/Spells/Death Ward.md|death ward]]"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "At the start of each of Death's turns, undead within 10 feet of it take\
     \ 10 force damage."
   "name": "The Law of Death"
@@ -76,7 +76,7 @@ This thing is powerful, but not hard to run. Its Law of Death radiates damage to
   "name": "Death to Undeath"
 "source":
 - "SaF"
-"image": "5. Mechanics/Bestiary/Construct/token/death-saf.webp"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Death.png"
 ```
 ^statblock
 

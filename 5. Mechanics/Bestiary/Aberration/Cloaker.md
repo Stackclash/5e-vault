@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Cloaker
 ---
-# [[5. Mechanics/Bestiary/Aberration/Cloaker.md|Cloaker]]
+# [[5. Mechanics\Bestiary\Aberration\Cloaker.md|Cloaker]]
 *Source: Monster Manual p. 41. Available in the SRD.*
 
 Cloakers earned their names for the resemblance they bear to dark leathery cloaks. Lurking in remote dungeons and caves, these stealthy predators wait to slay lone or injured prey stumbling through the darkness.

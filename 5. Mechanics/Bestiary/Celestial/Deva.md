@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Deva
 ---
-# [[5. Mechanics/Bestiary/Celestial/Deva.md|Deva]]
+# [[5. Mechanics\Bestiary\Celestial\Deva.md|Deva]]
 *Source: Monster Manual p. 16, Curse of Strahd. Available in the SRD.*
 
 An angel is a celestial agent sent forth into the planes to further its god's agenda for weal or woe. Its sublime beauty and presence can drive awestruck onlookers to their knees. Yet angels are destroyers too, and their appearance portends doom as often as it signals hope.
@@ -71,7 +71,7 @@ Legend tells of angels that take mortal form for years, lending aid, hope, and c
     \ can innately cast the following spells, requiring only verbal components:\n\n\
     At will: [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]]\n\
     \n1/day each: [[5. Mechanics/Spells/Commune.md|commune]], [[5. Mechanics/Spells/Raise Dead.md|raise dead]]"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "The deva's weapon attacks are magical. When the deva hits with any weapon,\
     \ the weapon deals an extra dice: 4d8|avg|noform (4d8) radiant damage (included\
     \ in the attack)."

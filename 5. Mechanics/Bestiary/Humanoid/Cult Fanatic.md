@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Cult Fanatic
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Cult Fanatic.md|Cult Fanatic]]
+# [[5. Mechanics\Bestiary\Humanoid\Cult Fanatic.md|Cult Fanatic]]
 *Source: Monster Manual p. 345, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD.*
 
 Fanatics are often part of a cult's leadership, using their charisma and dogma to influence and prey on those of weak will. Most are interested in personal power above all else
@@ -49,7 +49,7 @@ Fanatics are often part of a cult's leadership, using their charisma and dogma t
     \n1st level (4 slots): [[5. Mechanics/Spells/Command.md|command]], [[5. Mechanics/Spells/Inflict Wounds.md|inflict wounds]],\
     \ [[5. Mechanics/Spells/Shield Of Faith.md|shield of faith]]\n\n2nd level (3 slots):\
     \ [[5. Mechanics/Spells/Hold Person.md|hold person]], [[5. Mechanics/Spells/Spiritual Weapon.md|spiritual weapon]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "The fanatic has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
     \ or [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]."
   "name": "Dark Devotion"

@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Lich
 ---
-# [[5. Mechanics/Bestiary/Undead/Lich.md|Lich]]
+# [[5. Mechanics\Bestiary\Undead\Lich.md|Lich]]
 *Source: Monster Manual p. 202, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD.*
 
 Liches are the remains of great wizards who embrace undeath as a means of preserving themselves. They further their own power at any cost, having no interest in the affairs of the living except where those affairs interfere with their own. Scheming and insane, they hunger for long-forgotten knowledge and the most terrible secrets. Because the shadow of death doesn't hang over them, they can conceive plans that take years, decades, or centuries to come to fruition.
@@ -112,7 +112,7 @@ A lich encountered in its lair has a challenge rating of 22 (41,000 XP).
     \ [[5. Mechanics/Spells/Plane Shift.md|plane shift]]\n\n8th level (1 slots):\
     \ [[5. Mechanics/Spells/Dominate Monster.md|dominate monster]], [[5. Mechanics/Spells/Power Word Stun.md|power word stun]]\n\
     \n9th level (1 slots): [[5. Mechanics/Spells/Power Word Kill.md|power word kill]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "If the lich fails a saving throw, it can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
 - "desc": "If it has a phylactery, a destroyed lich gains a new body in dice: 1d10|avg|noform\

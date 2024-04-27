@@ -10,6 +10,7 @@ aliases:
   - Druid Grove
 ---
 # Druid Grove
+%%-- Embedded content starts on the next line. --%%
 *6th-level, Abjuration*  
 
 - **Casting time:** 10 minute

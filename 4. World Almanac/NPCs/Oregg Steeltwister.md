@@ -150,7 +150,7 @@ await dv.view("npcRelationships", { current: dv.current() })
     \n1st level (4 slots): [[5. Mechanics/Spells/Magic Missile.md|magic missile]],\
     \ [[5. Mechanics/Spells/Shield.md|shield]]\n\n2nd level (3 slots): [[5. Mechanics/Spells/Heat Metal.md|heat metal]]\n\
     \n3rd level (2 slots): [[5. Mechanics/Spells/Fly.md|fly]], [[5. Mechanics/Spells/Fireball.md|fireball]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "As a bonus action, the orc can move up to its speed toward a hostile creature\
     \ it can see."
   "name": "Aggressive"
@@ -172,7 +172,8 @@ await dv.view("npcRelationships", { current: dv.current() })
   "name": "Poison Spray"
 "source":
 - "SaF"
-"image": "4. World Almanac/NPCs/token/oregg-steeltwister-saf.webp"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Oregg\
+  \ Steeltwister.png"
 ```
 ^statblock
 

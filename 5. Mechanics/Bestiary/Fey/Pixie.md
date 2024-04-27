@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Pixie
 ---
-# [[5. Mechanics/Bestiary/Fey/Pixie.md|Pixie]]
+# [[5. Mechanics\Bestiary\Fey\Pixie.md|Pixie]]
 *Source: Monster Manual p. 253, Eberron: Rising from the Last War*
 
 Standing barely a foot tall, pixies resemble diminutive elves with gossamer wings like those of dragonflies or butterflies, bright as the clear dawn and as luminous as the full moonrise.
@@ -74,7 +74,7 @@ Unlike their fey cousins, the sprites, pixies abhor weapons and would sooner fle
     \ [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[5. Mechanics/Spells/Entangle.md|entangle]],\
     \ [[5. Mechanics/Spells/Fly.md|fly]], [[5. Mechanics/Spells/Phantasmal Force.md|phantasmal force]],\
     \ [[5. Mechanics/Spells/Polymorph.md|polymorph]], [[5. Mechanics/Spells/Sleep.md|sleep]]"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "The pixie has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"

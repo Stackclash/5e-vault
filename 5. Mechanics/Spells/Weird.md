@@ -10,6 +10,7 @@ aliases:
   - Weird
 ---
 # Weird
+%%-- Embedded content starts on the next line. --%%
 *9th-level, Illusion*  
 
 - **Casting time:** 1 action

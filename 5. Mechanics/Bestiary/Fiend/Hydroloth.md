@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Hydroloth
 ---
-# [[5. Mechanics/Bestiary/Fiend/Hydroloth.md|Hydroloth]]
+# [[5. Mechanics\Bestiary\Fiend\Hydroloth.md|Hydroloth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 158, Mordenkainen's Tome of Foes p. 249*
 
 Like the thought-stealing waters of the River Styx they inhabit, hydroloths filch the memories of creatures they attack, stealing away thoughts for delivery to whatever master they happen to serve. Hydroloths also savor finding lost things, especially those that have been swallowed up in the deeps.
@@ -53,7 +53,7 @@ For amphibious assaults or underwater conflicts, hydroloths have no equal among 
     \ (self only)\n\n3/day each: [[5. Mechanics/Spells/Control Water.md|control water]],\
     \ [[5. Mechanics/Spells/Crown Of Madness.md|crown of madness]], [[5. Mechanics/Spells/Fear.md|fear]],\
     \ [[5. Mechanics/Spells/Suggestion.md|suggestion]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "The hydroloth can breathe air and water."
   "name": "Amphibious"
 - "desc": "The hydroloth has advantage on saving throws against spells and other magical\

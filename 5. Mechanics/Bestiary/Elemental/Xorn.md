@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Xorn
 ---
-# [[5. Mechanics/Bestiary/Elemental/Xorn.md|Xorn]]
+# [[5. Mechanics\Bestiary\Elemental\Xorn.md|Xorn]]
 *Source: Monster Manual p. 304. Available in the SRD.*
 
 Bizarre creatures native to the Elemental Plane of Earth, xorn sniff out gemstones and precious metals, then tunnel through earth and rock to consume those treasures. On the Material Plane, xorn must range far and wide through the Underdark to sustain themselves, becoming aggressive toward miners and treasure hunters when the valuable minerals of their diet are scarce.

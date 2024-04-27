@@ -15,6 +15,7 @@ aliases:
   - Illusory Script
 ---
 # Illusory Script
+%%-- Embedded content starts on the next line. --%%
 *1st-level, Illusion (ritual)*  
 
 - **Casting time:** 1 minute unless cast as a ritual

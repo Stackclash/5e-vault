@@ -13,6 +13,7 @@ aliases:
   - Feeblemind
 ---
 # Feeblemind
+%%-- Embedded content starts on the next line. --%%
 *8th-level, Enchantment*  
 
 - **Casting time:** 1 action

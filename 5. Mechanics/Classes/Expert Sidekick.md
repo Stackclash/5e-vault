@@ -56,10 +56,6 @@ You are proficient with the following items.
 - **Skills**: Choose 5 from *Acrobatics*, *Animal Handling*, *Arcana*, *Athletics*, *Deception*, *History*, *Insight*, *Intimidation*, *Investigation*, *Medicine*, *Nature*, *Perception*, *Performance*, *Persuasion*, *Religion*, *Sleight of Hand*, *Stealth*, *Survival*, *Spellcasting*
 
 
-## Expert Sidekick
-
-The Expert is a master of certain tasks or knowledge, favoring cunning over brawn. It might be a scout, a musician, a librarian, a clever street kid, a wily merchant, or a burglar.
-
 ## Class Features
 
 ### Sidekick Class (Level 1)

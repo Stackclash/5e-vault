@@ -145,7 +145,7 @@ await dv.view("npcRelationships", { current: dv.current() })
     \n2nd level (3 slots): [[5. Mechanics/Spells/Augury.md|augury]], [[5. Mechanics/Spells/Gentle Repose.md|gentle repose]],\
     \ [[5. Mechanics/Spells/Hold Person.md|hold person]]\n\n3rd level (2 slots):\
     \ [[5. Mechanics/Spells/Animate Dead.md|animate dead]], [[5. Mechanics/Spells/Create Food And Water.md|create food and water]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "As a bonus action, Fiona can expend a spell slot to cause its melee weapon\
     \ attacks to magically deal an extra dice:3d6|text(10) (3d6) radiant damage\
     \ to a target on a hit. This benefit lasts until the end of the turn. If Fiona\

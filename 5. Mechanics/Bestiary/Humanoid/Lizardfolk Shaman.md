@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Lizardfolk Shaman
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Lizardfolk Shaman.md|Lizardfolk Shaman]]
+# [[5. Mechanics\Bestiary\Humanoid\Lizardfolk Shaman.md|Lizardfolk Shaman]]
 *Source: Monster Manual p. 205*
 
 Lizardfolk are primitive reptilian humanoids that lurk in the swamps and jungles of the world. Their hut villages thrive in forbidding grottos, half-sunken ruins, and watery caverns.
@@ -87,7 +87,7 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
     \ metal]], [[5. Mechanics/Spells/Spike Growth.md|spike growth]]\n\
     \n3rd level (2 slots): [[5. Mechanics/Spells/Conjure Animals.md|conjure animals]]\
     \ (reptiles only), [[5. Mechanics/Spells/Plant Growth.md|plant growth]]"
-  "name": "spells"
+  "name": "Spellcasting (Lizardfolk Form Only)"
 - "desc": "The lizardfolk can hold its breath for 15 minutes."
   "name": "Hold Breath"
 "actions":

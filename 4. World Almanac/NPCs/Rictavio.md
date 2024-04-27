@@ -182,7 +182,7 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ [[5. Mechanics/Spells/Speak With Dead.md|speak with dead]]\n\n4th level (3 slots):\
     \ [[5. Mechanics/Spells/Death Ward.md|death ward]], [[5. Mechanics/Spells/Freedom Of Movement.md|freedom of movement]]\n\
     \n5th level (1 slots): [[5. Mechanics/Spells/Dispel Evil And Good.md|dispel evil and good]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "In addition to his sword cane, Rictavio wears a [[5. Mechanics/Items/Hat Of Disguise.md|hat of disguise]]\
     \ and a [[5. Mechanics/Items/Ring Of Mind Shielding.md|ring of mind shielding]],\
     \ and he carries a [[5. Mechanics/Items/Spell Scroll 5th Level.md|spell scroll]]\

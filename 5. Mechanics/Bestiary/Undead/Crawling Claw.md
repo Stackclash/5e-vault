@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Crawling Claw
 ---
-# [[5. Mechanics/Bestiary/Undead/Crawling Claw.md|Crawling Claw]]
+# [[5. Mechanics\Bestiary\Undead\Crawling Claw.md|Crawling Claw]]
 *Source: Monster Manual p. 44, Curse of Strahd*
 
 Crawling claws are the severed hands of murderers animated by dark magic so that they can go on killing. Wizards and warlocks of a dark bent use crawling claws as extra hands in their labors.

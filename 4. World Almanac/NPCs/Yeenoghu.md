@@ -162,7 +162,7 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ [[5. Mechanics/Spells/Detect Magic.md|detect magic]]\n\n1/day: [[5. Mechanics/Spells/Teleport.md|teleport]]\n\
     \n3/day each: [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[5. Mechanics/Spells/Fear.md|fear]],\
     \ [[5. Mechanics/Spells/Invisibility.md|invisibility]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "If Yeenoghu fails a saving throw, he can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
 - "desc": "Yeenoghu has advantage on saving throws against spells and other magical\

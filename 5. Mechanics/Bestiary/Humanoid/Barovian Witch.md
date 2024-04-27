@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Barovian Witch
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Barovian Witch.md|Barovian Witch]]
+# [[5. Mechanics\Bestiary\Humanoid\Barovian Witch.md|Barovian Witch]]
 *Source: Curse of Strahd p. 229*
 
 The mad women and men known as Barovian witches forge pacts with Strahd and the Dark Powers of Ravenloft in exchange for magic and longevity. They prefer to live in the shadows and can see in the dark. When traveling in the open, they use [[5. Mechanics/Spells/Alter Self.md|alter self]] spells to assume less conspicuous forms. They also use these spells to grow long, sharp claws with which they can attack.
@@ -56,7 +56,7 @@ Barovian witches use the [[5. Mechanics/Spells/Find Familiar.md|find familiar]] 
     \n1st level (4 slots): [[5. Mechanics/Spells/Ray Of Sickness.md|ray of sickness]],\
     \ [[5. Mechanics/Spells/Sleep.md|sleep]], [[5. Mechanics/Spells/Tashas Hideous Laughter.md|Tasha's hideous laughter]]\n\
     \n2nd level (2 slots): [[5. Mechanics/Spells/Alter Self.md|alter self]], [[5. Mechanics/Spells/Invisibility.md|invisibility]]"
-  "name": "spells"
+  "name": "Spellcasting"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
     \ Hit: dice:1d6 + 1|text(4) (1d6 + 1) slashing damage. This attack is magical."

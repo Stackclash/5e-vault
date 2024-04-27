@@ -169,7 +169,7 @@ await dv.view("npcRelationships", { current: dv.current() })
     \n1/day each: [[5. Mechanics/Spells/Modify Memory.md|modify memory]], [[5. Mechanics/Spells/Project Image.md|project\
     \ image]]\n\n3/day each: [[5. Mechanics/Spells/Mislead.md|mislead]],\
     \ [[5. Mechanics/Spells/Programmed Illusion.md|programmed illusion]], [[5. Mechanics/Spells/Seeming.md|seeming]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "If Fraz-Urb'luu fails a saving throw, he can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
 - "desc": "Fraz-Urb'luu has advantage on saving throws against spells and other magical\

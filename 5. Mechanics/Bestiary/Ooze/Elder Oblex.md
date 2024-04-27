@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Elder Oblex
 ---
-# [[5. Mechanics/Bestiary/Ooze/Elder Oblex.md|Elder Oblex]]
+# [[5. Mechanics\Bestiary\Ooze\Elder Oblex.md|Elder Oblex]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 199, Mordenkainen's Tome of Foes p. 219*
 
 Older oblexes, called adults and elders, have eaten so many memories that they can form duplicates of the creatures they have devoured from the substance of their bodies, sending these copies off to lure prey into their clutches while remaining tethered to the slime by long tendrils of goo. These duplicated creatures are indistinguishable from their victims except for a faint sulfurous smell. Oblexes use these duplicates to lead prey into danger or to infiltrate settlements so they can feed on superior victims.
@@ -71,7 +71,7 @@ When oblexes feed on thoughts, they can form weird copies of their prey to use a
     \ [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]]\n\n3/day each: [[5. Mechanics/Spells/Dimension Door.md|dimension\
     \ door]], [[5. Mechanics/Spells/Dominate Person.md|dominate person]],\
     \ [[5. Mechanics/Spells/Hypnotic Pattern.md|hypnotic pattern]], [[5. Mechanics/Spells/Telekinesis.md|telekinesis]]"
-  "name": "spells"
+  "name": "Spellcasting (Psionics)"
 - "desc": "The oblex can move through a space as narrow as 1 inch wide without squeezing."
   "name": "Amorphous"
 - "desc": "If the oblex takes fire damage, it has disadvantage on attack rolls and\

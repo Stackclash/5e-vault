@@ -275,24 +275,24 @@ If an encounter occurs, roll on the daytime or the nighttime encounter table, de
 
 | d12 + d8 | Encounter |
 |----------|-----------|
-| 2 | `dice: 3d6\|avg|noform` (`3d6`) [[5. Mechanics/Bestiary/Humanoid/Barovian Commoner.md\|commoners]] |
-| 3 | `dice: 1d6\|avg|noform` (`1d6`) [[5. Mechanics/Bestiary/Humanoid/Barovian Scout.md\|scouts]] |
+| 2 | `dice: 3d6\|avg\|noform` (`3d6`) [[5. Mechanics/Bestiary/Humanoid/Barovian Commoner.md\|commoners]] |
+| 3 | `dice: 1d6\|avg\|noform` (`1d6`) [[5. Mechanics/Bestiary/Humanoid/Barovian Scout.md\|scouts]] |
 | 4 | Hunting trap |
 | 5 | Grave |
 | 6 | False trail |
-| 7 | `dice: 1d4 + 1\|avg|noform` (`1d4 + 1`) [[5. Mechanics/Bestiary/Humanoid/Vistana Bandit.md\|Vistani bandits]] |
+| 7 | `dice: 1d4 + 1\|avg\|noform` (`1d4 + 1`) [[5. Mechanics/Bestiary/Humanoid/Vistana Bandit.md\|Vistani bandits]] |
 | 8 | Skeletal rider |
 | 9 | Trinket |
 | 10 | Hidden bundle |
-| 11 | `dice: 1d4\|avg|noform` (`1d4`) [[5. Mechanics/Bestiary/Beast/Swarm Of Ravens.md\|swarm of ravens]] (50%) or 1 [[5. Mechanics/Bestiary/Humanoid/Wereraven.md\|wereraven]] (see appendix D) in raven form (50%) |
-| 12 | `dice: 1d6\|avg|noform` (`1d6`) [[5. Mechanics/Bestiary/Beast/Dire Wolf.md\|dire wolves]] |
-| 13 | `dice: 3d6\|avg|noform` (`3d6`) [[5. Mechanics/Bestiary/Beast/Wolf.md\|wolves]] |
-| 14 | `dice: 1d4\|avg|noform` (`1d4`) [[5. Mechanics/Bestiary/Humanoid/Berserker.md\|berserkers]] |
+| 11 | `dice: 1d4\|avg\|noform` (`1d4`) [[5. Mechanics/Bestiary/Beast/Swarm Of Ravens.md\|swarm of ravens]] (50%) or 1 [[5. Mechanics/Bestiary/Humanoid/Wereraven.md\|wereraven]] (see appendix D) in raven form (50%) |
+| 12 | `dice: 1d6\|avg\|noform` (`1d6`) [[5. Mechanics/Bestiary/Beast/Dire Wolf.md\|dire wolves]] |
+| 13 | `dice: 3d6\|avg\|noform` (`3d6`) [[5. Mechanics/Bestiary/Beast/Wolf.md\|wolves]] |
+| 14 | `dice: 1d4\|avg\|noform` (`1d4`) [[5. Mechanics/Bestiary/Humanoid/Berserker.md\|berserkers]] |
 | 15 | Corpse |
-| 16 | `dice: 1d6\|avg|noform` (`1d6`) [[5. Mechanics/Bestiary/Humanoid/Werewolf.md\|werewolves]] in human form |
-| 17 | 1 [[5. Mechanics/Bestiary/Humanoid/Druid.md\|druid]] with `dice: 2d6\|avg|noform` (`2d6`) [[5. Mechanics/Bestiary/Plant/Twig Blight.md\|twig blights]] |
-| 18 | `dice: 2d4\|avg|noform` (`2d4`) [[5. Mechanics/Bestiary/Plant/Needle Blight.md\|needle blights]] |
-| 19 | `dice: 1d6\|avg|noform` (`1d6`) [[5. Mechanics/Bestiary/Construct/Scarecrow.md\|scarecrows]] |
+| 16 | `dice: 1d6\|avg\|noform` (`1d6`) [[5. Mechanics/Bestiary/Humanoid/Werewolf.md\|werewolves]] in human form |
+| 17 | 1 [[5. Mechanics/Bestiary/Humanoid/Druid.md\|druid]] with `dice: 2d6\|avg\|noform` (`2d6`) [[5. Mechanics/Bestiary/Plant/Twig Blight.md\|twig blights]] |
+| 18 | `dice: 2d4\|avg\|noform` (`2d4`) [[5. Mechanics/Bestiary/Plant/Needle Blight.md\|needle blights]] |
+| 19 | `dice: 1d6\|avg\|noform` (`1d6`) [[5. Mechanics/Bestiary/Construct/Scarecrow.md\|scarecrows]] |
 | 20 | 1 [[5. Mechanics/Bestiary/Undead/Revenant.md\|revenant]] |
 ^daytime-random-encounters-in-barovia
 
@@ -307,16 +307,16 @@ If an encounter occurs, roll on the daytime or the nighttime encounter table, de
 | 6 | Corpse |
 | 7 | Hidden bundle |
 | 8 | Skeletal rider |
-| 9 | `dice: 1d8\|avg|noform` (`1d8`) [[5. Mechanics/Bestiary/Beast/Swarm Of Bats.md\|swarm of bats]] |
-| 10 | `dice: 1d6\|avg|noform` (`1d6`) [[5. Mechanics/Bestiary/Beast/Dire Wolf.md\|dire wolves]] |
-| 11 | `dice: 3d6\|avg|noform` (`3d6`) [[5. Mechanics/Bestiary/Beast/Wolf.md\|wolves]] |
-| 12 | `dice: 1d4\|avg|noform` (`1d4`) [[5. Mechanics/Bestiary/Humanoid/Berserker.md\|berserkers]] |
-| 13 | 1 [[5. Mechanics/Bestiary/Humanoid/Druid.md\|druid]] and `dice: 2d6\|avg|noform` (`2d6`) [[5. Mechanics/Bestiary/Plant/Twig Blight.md\|twig blights]] |
-| 14 | `dice: 2d4\|avg|noform` (`2d4`) [[5. Mechanics/Bestiary/Plant/Needle Blight.md\|needle blights]] |
-| 15 | `dice: 1d6\|avg|noform` (`1d6`) [[5. Mechanics/Bestiary/Humanoid/Werewolf.md\|werewolves]] in wolf form |
-| 16 | `dice: 3d6\|avg|noform` (`3d6`) [[5. Mechanics/Bestiary/Undead/Zombie.md\|zombies]] |
-| 17 | `dice: 1d6\|avg|noform` (`1d6`) [[5. Mechanics/Bestiary/Construct/Scarecrow.md\|scarecrows]] |
-| 18 | `dice: 1d8\|avg|noform` (`1d8`) [[5. Mechanics/Bestiary/Undead/Strahd Zombie.md\|Strahd zombies]] (see appendix D) |
+| 9 | `dice: 1d8\|avg\|noform` (`1d8`) [[5. Mechanics/Bestiary/Beast/Swarm Of Bats.md\|swarm of bats]] |
+| 10 | `dice: 1d6\|avg\|noform` (`1d6`) [[5. Mechanics/Bestiary/Beast/Dire Wolf.md\|dire wolves]] |
+| 11 | `dice: 3d6\|avg\|noform` (`3d6`) [[5. Mechanics/Bestiary/Beast/Wolf.md\|wolves]] |
+| 12 | `dice: 1d4\|avg\|noform` (`1d4`) [[5. Mechanics/Bestiary/Humanoid/Berserker.md\|berserkers]] |
+| 13 | 1 [[5. Mechanics/Bestiary/Humanoid/Druid.md\|druid]] and `dice: 2d6\|avg\|noform` (`2d6`) [[5. Mechanics/Bestiary/Plant/Twig Blight.md\|twig blights]] |
+| 14 | `dice: 2d4\|avg\|noform` (`2d4`) [[5. Mechanics/Bestiary/Plant/Needle Blight.md\|needle blights]] |
+| 15 | `dice: 1d6\|avg\|noform` (`1d6`) [[5. Mechanics/Bestiary/Humanoid/Werewolf.md\|werewolves]] in wolf form |
+| 16 | `dice: 3d6\|avg\|noform` (`3d6`) [[5. Mechanics/Bestiary/Undead/Zombie.md\|zombies]] |
+| 17 | `dice: 1d6\|avg\|noform` (`1d6`) [[5. Mechanics/Bestiary/Construct/Scarecrow.md\|scarecrows]] |
+| 18 | `dice: 1d8\|avg\|noform` (`1d8`) [[5. Mechanics/Bestiary/Undead/Strahd Zombie.md\|Strahd zombies]] (see appendix D) |
 | 19 | 1 [[5. Mechanics/Bestiary/Undead/Will O Wisp.md\|will-o'-wisp]] |
 | 20 | 1 [[5. Mechanics/Bestiary/Undead/Revenant.md\|revenant]] |
 ^nighttime-random-encounters-in-barovia
@@ -835,8 +835,8 @@ For each Vistani tent or wagon that the characters search, roll once on the foll
 |-----------|----------|
 | 1–10 | None |
 | 11–13 | Sack of 100 ep (each coin stamped with Strahd's visage in profile) |
-| 14–16 | Pouch containing `dice: 4d6\|avg|noform` (`4d6`) gemstones worth 100 gp each |
-| 17–19 | Sack containing `dice: 3d6\|avg|noform` (`3d6`) pieces of cheap jewelry worth 25 gp total and `dice: 1d6\|avg|noform` (`1d6`) pieces of fine jewelry worth 250 gp each |
+| 14–16 | Pouch containing `dice: 4d6\|avg\|noform` (`4d6`) gemstones worth 100 gp each |
+| 17–19 | Sack containing `dice: 3d6\|avg\|noform` (`3d6`) pieces of cheap jewelry worth 25 gp total and `dice: 1d6\|avg\|noform` (`1d6`) pieces of fine jewelry worth 250 gp each |
 | 20 | One magic item (roll once on [[5. Mechanics/Tables/Magic Item Table B.md\|Magic Item Table B]] in the "Dungeon Master's Guide") |
 ^treasure
 

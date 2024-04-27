@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Myconid Sprout
 ---
-# [[5. Mechanics/Bestiary/Plant/Myconid Sprout.md|Myconid Sprout]]
+# [[5. Mechanics\Bestiary\Plant\Myconid Sprout.md|Myconid Sprout]]
 *Source: Monster Manual p. 230*
 
 Myconids are intelligent, ambulatory fungi that live in the Underdark, seek enlightenment, and deplore violence. If approached peacefully, myconids gladly provide shelter or allow safe passage through their colonies.

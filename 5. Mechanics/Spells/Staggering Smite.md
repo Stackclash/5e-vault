@@ -11,6 +11,7 @@ aliases:
   - Staggering Smite
 ---
 # Staggering Smite
+%%-- Embedded content starts on the next line. --%%
 *4th-level, Evocation*  
 
 - **Casting time:** 1 bonus

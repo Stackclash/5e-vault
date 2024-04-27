@@ -11,6 +11,7 @@ aliases:
   - Programmed Illusion
 ---
 # Programmed Illusion
+%%-- Embedded content starts on the next line. --%%
 *6th-level, Illusion*  
 
 - **Casting time:** 1 action

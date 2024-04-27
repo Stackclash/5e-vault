@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Efreeti
 ---
-# [[5. Mechanics/Bestiary/Elemental/Efreeti.md|Efreeti]]
+# [[5. Mechanics\Bestiary\Elemental\Efreeti.md|Efreeti]]
 *Source: Monster Manual p. 145, Tasha's Cauldron of Everything. Available in the SRD.*
 
 Hulking genies of the Elemental Plane of Fire, the efreet are masters of flame, immune to fire and able to create it on a whim. Fine silk caftans and damask robes drape their magma-red or coal-black skin, and they bedeck themselves in brass and gold torcs, chains, and rings, all glittering with jewels. When an efreeti flies, its lower body transforms into a column of smoke and embers.
@@ -101,7 +101,7 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
     \ [[5. Mechanics/Spells/Major Image.md|major image]], [[5. Mechanics/Spells/Plane Shift.md|plane shift]],\
     \ [[5. Mechanics/Spells/Wall Of Fire.md|wall of fire]]\n\n3/day each: [enlarge/reduce](compendium/spells/enlarge-reduce.md),\
     \ [[5. Mechanics/Spells/Tongues.md|tongues]]"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "If the efreeti dies, its body disintegrates in a flash of fire and puff\
     \ of smoke, leaving behind only equipment the efreeti was wearing or carrying."
   "name": "Elemental Demise"

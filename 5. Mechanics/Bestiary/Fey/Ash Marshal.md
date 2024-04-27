@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Ash Marshal
 ---
-# [[5. Mechanics/Bestiary/Fey/Ash Marshal.md|Ash Marshal]]
+# [[5. Mechanics\Bestiary\Fey\Ash Marshal.md|Ash Marshal]]
 *Source: Strongholds and Followers p. 183*
 
 Tasked with defending and escorting guests to Arcadia, the Ash Marshal is also the only member of the Court to be regularly sent seeking across the planes, dispatched by Val to bring those who would harm his creation ^[The elves.] to justice. He is Val's timescape ^["Timescape" is the sages' term for the multiverse, or space-time.] hunter and as such carries much deep lore about the multiverse.
@@ -61,7 +61,7 @@ His spells are almost all offensive, but he is always ready with counterspell to
     \ 15). The Marshal can innately cast the following spells, requiring no material\
     \ components:\n\nAt will: [[5. Mechanics/Spells/Hunters Mark.md|hunter's mark]],\
     \ [[5. Mechanics/Spells/Branding Smite.md|branding smite]]\n\n1/day: [[5. Mechanics/Spells/Raise Dead.md|raise dead]]"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "The Marshal is a 9th-level spellcaster. His spellcasting ability is Charisma\
     \ (spell save DC 15, dice: d20+7 (+7) to hit with spell attacks). The Marshal\
     \ has the following spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]],\
@@ -76,7 +76,7 @@ His spells are almost all offensive, but he is always ready with counterspell to
     \n4th level (3 slots): [[5. Mechanics/Spells/Banishment.md|banishment]], [[5. Mechanics/Spells/Dimension Door.md|dimension\
     \ door]]\n\n5th level (1 slots): [[5. Mechanics/Spells/Cone Of Cold.md|cone\
     \ of cold]], [[5. Mechanics/Spells/Hold Monster.md|hold monster]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "Magic cannot put the marshal to sleep."
   "name": "Fey Ancestry"
 - "desc": "The marshal has advantage on saving throws against magic and other magical\
@@ -96,7 +96,8 @@ His spells are almost all offensive, but he is always ready with counterspell to
   "name": "Ashsword"
 "source":
 - "SaF"
-"image": "5. Mechanics/Bestiary/Fey/token/ash-marshal-saf.webp"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Ash\
+  \ Marshal.png"
 ```
 ^statblock
 

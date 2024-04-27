@@ -14,7 +14,7 @@ statblock: inline
 aliases:
   - Yuan-ti Malison (Type 3)
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Yuan Ti Malison Type 3.md|Yuan-ti Malison (Type 3)]]
+# [[5. Mechanics\Bestiary\Monstrosity\Yuan Ti Malison Type 3.md|Yuan-ti Malison (Type 3)]]
 *Source: Monster Manual p. 309*
 
 A malison is a hideous blend of human and serpentine features. Three different types of malisons are known to exist, and other types are possible. Malisons form the middle caste of yuan-ti society and hunt with arrows tipped with their own venom. They use their magical powers of suggestion to force their enemies' surrender.
@@ -91,7 +91,7 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
     \ The yuan-ti can innately cast the following spells, requiring no material components:\n\
     \nAt will: [[5. Mechanics/Spells/Animal Friendship.md|animal friendship]] (snakes\
     \ only)\n\n3/day: [[5. Mechanics/Spells/Suggestion.md|suggestion]]"
-  "name": "innate"
+  "name": "Innate Spellcasting (Yuan-ti Form Only)"
 - "desc": "The yuan-ti can use its action to polymorph into a Medium snake, or back\
     \ into its true form. Its statistics are the same in each form. Any equipment\
     \ it is wearing or carrying isn't transformed. It doesn't change form if it dies."

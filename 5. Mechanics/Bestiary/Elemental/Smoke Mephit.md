@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Smoke Mephit
 ---
-# [[5. Mechanics/Bestiary/Elemental/Smoke Mephit.md|Smoke Mephit]]
+# [[5. Mechanics\Bestiary\Elemental\Smoke Mephit.md|Smoke Mephit]]
 *Source: Monster Manual p. 217, Curse of Strahd*
 
 ## Mephits
@@ -56,7 +56,7 @@ Smoke mephits are crude, lazy creatures of air and fire that billow smoke consta
 - "desc": "The mephit can innately cast [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]],\
     \ requiring no material components. Its innate spellcasting ability is Charisma.\n\
     \nAt will: [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]]"
-  "name": "innate"
+  "name": "Innate Spellcasting (1/Day)"
 - "desc": "When the mephit dies, it leaves behind a cloud of smoke that fills a 5-foot-radius\
     \ sphere centered on its space. The sphere is heavily obscured. Wind disperses\
     \ the cloud, which otherwise lasts for 1 minute."

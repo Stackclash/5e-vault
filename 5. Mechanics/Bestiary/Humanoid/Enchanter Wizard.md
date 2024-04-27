@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Enchanter Wizard
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Enchanter Wizard.md|Enchanter Wizard]]
+# [[5. Mechanics\Bestiary\Humanoid\Enchanter Wizard.md|Enchanter Wizard]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 261, Volo's Guide to Monsters p. 213*
 
 Enchanters know how to magically influence minds. Benign enchanters use this magic to defuse violence and sow peace, while malevolent enchanters are some of the most evil of all spellcasters.
@@ -53,7 +53,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
     \n2/day each: [[5. Mechanics/Spells/Charm Person.md|charm person]], [[5. Mechanics/Spells/Mage Armor.md|mage armor]],\
     \ [[5. Mechanics/Spells/Hold Person.md|hold person]], [[5. Mechanics/Spells/Invisibility.md|invisibility]],\
     \ [[5. Mechanics/Spells/Suggestion.md|suggestion]], [[5. Mechanics/Spells/Tongues.md|tongues]]"
-  "name": "spells"
+  "name": "Spellcasting"
 "actions":
 - "desc": "The enchanter makes three Arcane Burst attacks."
   "name": "Multiattack"

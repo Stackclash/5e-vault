@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Hunter Shark
 ---
-# [[5. Mechanics/Bestiary/Beast/Hunter Shark.md|Hunter Shark]]
+# [[5. Mechanics\Bestiary\Beast\Hunter Shark.md|Hunter Shark]]
 *Source: Monster Manual p. 330. Available in the SRD and the Basic Rules.*
 
 Smaller than a giant shark but larger and fiercer than a reef shark, a hunter shark haunts deep waters. It usually hunts alone, but multiple hunter sharks might feed in the same area. A fully grown hunter shark is 15 to 20 feet long.

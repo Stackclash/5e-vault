@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Nature
 ---
-# [[5. Mechanics/Bestiary/Construct/Nature.md|Nature]]
+# [[5. Mechanics\Bestiary\Construct\Nature.md|Nature]]
 *Source: Strongholds and Followers p. 232*
 
 Chief amongst the Knights of Axiom is Nature. The Law of Nature states that all actions must proceed according to the fundamental axioms of the universe.. Magic is a tool used by those who would bypass those laws and act on the world using their will alone. This cannot be permitted. Nature can reflexively attempt to counter a spell as it's being cast, pointing at the caster and bellowing, "OBEY!" or "CONFORM!"
@@ -54,7 +54,7 @@ Nature's counterspell reaction has a range of 60 feet, so Nature can pummel easy
 - "desc": "Nature's innate spellcasting ability is Charisma (spell save DC 17). It\
     \ can innately cast the following spells, requiring no material components:\n\n\
     3/day: [[5. Mechanics/Spells/Banishment.md|banishment]], [[5. Mechanics/Spells/Counterspell.md|counterspell]]"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "Allies within 20 feet have advantage on all saving throws."
   "name": "The Law of Nature"
 - "desc": "The Inexorables are immune to any effects that would slow them or deny\
@@ -72,7 +72,7 @@ Nature's counterspell reaction has a range of 60 feet, so Nature can pummel easy
   "name": "Slam"
 "source":
 - "SaF"
-"image": "5. Mechanics/Bestiary/Construct/token/nature-saf.webp"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Nature.png"
 ```
 ^statblock
 

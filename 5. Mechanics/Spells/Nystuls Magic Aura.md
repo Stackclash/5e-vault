@@ -12,6 +12,7 @@ aliases:
   - Nystul's Magic Aura
 ---
 # Nystul's Magic Aura
+%%-- Embedded content starts on the next line. --%%
 *2nd-level, Illusion*  
 
 - **Casting time:** 1 action

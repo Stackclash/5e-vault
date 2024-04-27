@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Mage
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Mage.md|Mage]]
+# [[5. Mechanics\Bestiary\Humanoid\Mage.md|Mage]]
 *Source: Monster Manual p. 347, Curse of Strahd, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*
 
 Mages spend their lives in the study and practice of magic. Good-aligned mages offer counsel to nobles and others in power, while evil mages dwell in isolated sites to perform unspeakable experiments without interference.
@@ -57,7 +57,7 @@ Mages spend their lives in the study and practice of magic. Good-aligned mages o
     \n4th level (3 slots): [[5. Mechanics/Spells/Greater Invisibility.md|greater invisibility]],\
     \ [[5. Mechanics/Spells/Ice Storm.md|ice storm]]\n\n5th level (1 slots): [[5. Mechanics/Spells/Cone Of Cold.md|cone\
     \ of cold]]"
-  "name": "spells"
+  "name": "Spellcasting"
 "actions":
 - "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft.\
     \ or range 20/60 ft., one target. Hit: dice:1d4 + 2|text(4) (1d4 + 2) piercing\

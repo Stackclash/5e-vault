@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Pillar of Water
 ---
-# [[5. Mechanics/Bestiary/Elemental/Pillar Of Water.md|Pillar of Water]]
+# [[5. Mechanics\Bestiary\Elemental\Pillar Of Water.md|Pillar of Water]]
 *Source: Strongholds and Followers p. 189*
 
 If the Sources are watchmen of Alloy, the Pillars are the jailors. They spring from the ground, imprisoning those caught violating the law of the Lady. Like the Sources, they have an attitude, but not much actual personality.
@@ -79,7 +79,8 @@ The Pillar can imprison up to four creatures, but it doesn't have to. If there's
   "name": "Reform"
 "source":
 - "SaF"
-"image": "5. Mechanics/Bestiary/Elemental/token/pillar-of-water-saf.webp"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Pillar\
+  \ of Water.png"
 ```
 ^statblock
 

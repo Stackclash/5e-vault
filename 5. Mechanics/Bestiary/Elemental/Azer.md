@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Azer
 ---
-# [[5. Mechanics/Bestiary/Elemental/Azer.md|Azer]]
+# [[5. Mechanics\Bestiary\Elemental\Azer.md|Azer]]
 *Source: Monster Manual p. 22. Available in the SRD.*
 
 Natives of the Elemental Plane of Fire, azers are master crafters, expert miners, and sworn foes of the efreet. In appearance and manner, an azer resembles a male dwarf, but this is a facade. Beneath its metallic looking skin, an azer is a being of fire, which outwardly manifests in its fiery hair and beard.

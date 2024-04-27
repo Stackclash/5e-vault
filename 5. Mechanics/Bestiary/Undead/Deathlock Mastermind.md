@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Deathlock Mastermind
 ---
-# [[5. Mechanics/Bestiary/Undead/Deathlock Mastermind.md|Deathlock Mastermind]]
+# [[5. Mechanics\Bestiary\Undead\Deathlock Mastermind.md|Deathlock Mastermind]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 87, Mordenkainen's Tome of Foes p. 129*
 
 Though deathlocks exist to serve their patrons, they retain some freedom when it comes to devising tactics and carrying out plans. Powerful deathlocks recruit lesser creatures to help them carry out their missions, becoming the masterminds behind vast conspiracies and intrigues that culminate in the accomplishment of great acts of evil.
@@ -61,7 +61,7 @@ An powerful necromancer might also discover the wicked methods of creating a dea
     \ [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]]\n\n1/day each: [[5. Mechanics/Spells/Darkness.md|darkness]],\
     \ [[5. Mechanics/Spells/Dimension Door.md|dimension door]], [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
     \ [[5. Mechanics/Spells/Fly.md|fly]], [[5. Mechanics/Spells/Invisibility.md|invisibility]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "Magical darkness doesn't impede the deathlock's [[/5. Mechanics/Rules/Senses.md#darkvision|darkvision]]."
   "name": "Devil's Sight"
 - "desc": "The deathlock has advantage on saving throws against any effect that turns\

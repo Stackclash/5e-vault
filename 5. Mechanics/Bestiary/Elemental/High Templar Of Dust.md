@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - High Templar of Dust
 ---
-# [[5. Mechanics/Bestiary/Elemental/High Templar Of Dust.md|High Templar of Dust]]
+# [[5. Mechanics\Bestiary\Elemental\High Templar Of Dust.md|High Templar of Dust]]
 *Source: Strongholds and Followers p. 192*
 
 The High Templars serve the Lady of Brass, but unlike the rest of the Court of Elements they were not created by her. They were the original Elemental Lords who dwelled on the Plane of Quintessence before the arrival of the Lady. Before the construction of Alloy, the City of Brass, began. When Quintessence was a wasteland.
@@ -90,7 +90,8 @@ The High Templar of Dust focuses on movement, moving through enemies to use its 
   "name": "Fire"
 "source":
 - "SaF"
-"image": "5. Mechanics/Bestiary/Elemental/token/high-templar-of-dust-saf.webp"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/High\
+  \ Templar of Dust.png"
 ```
 ^statblock
 

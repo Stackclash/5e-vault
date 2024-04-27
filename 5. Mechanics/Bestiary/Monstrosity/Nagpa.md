@@ -16,7 +16,7 @@ statblock: inline
 aliases:
   - Nagpa
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Nagpa.md|Nagpa]]
+# [[5. Mechanics\Bestiary\Monstrosity\Nagpa.md|Nagpa]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 189, Mordenkainen's Tome of Foes p. 215*
 
 Long ago, the Raven Queen cursed a cabal of powerful wizards for meddling in a ritual that would have helped avert a war between the gods. She transformed them into the scabrous, birdlike creatures known as nagpas and rendered them able to acquire new lore and magical power only from the ruins of fallen civilizations and great calamities.
@@ -65,7 +65,7 @@ Hungry to claim more power despite the Raven Queen's curse, nagpas strive to bri
     \ [[5. Mechanics/Spells/Feeblemind.md|feeblemind]]\n\n2/day each: [[5. Mechanics/Spells/Fireball.md|fireball]],\
     \ [[5. Mechanics/Spells/Fly.md|fly]], [[5. Mechanics/Spells/Hold Person.md|hold person]],\
     \ [[5. Mechanics/Spells/Suggestion.md|suggestion]], [[5. Mechanics/Spells/Wall Of Fire.md|wall of fire]]"
-  "name": "spells"
+  "name": "Spellcasting"
 "actions":
 - "desc": "The nagpa makes three Staff or Deathly Ray attacks. It can replace one\
     \ attack with a use of Spellcasting."

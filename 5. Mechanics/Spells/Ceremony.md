@@ -13,6 +13,7 @@ aliases:
   - Ceremony
 ---
 # Ceremony
+%%-- Embedded content starts on the next line. --%%
 *1st-level, Abjuration (ritual)*  
 
 - **Casting time:** 1 hour unless cast as a ritual

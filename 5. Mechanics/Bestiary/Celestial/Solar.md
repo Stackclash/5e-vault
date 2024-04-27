@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Solar
 ---
-# [[5. Mechanics/Bestiary/Celestial/Solar.md|Solar]]
+# [[5. Mechanics\Bestiary\Celestial\Solar.md|Solar]]
 *Source: Monster Manual p. 18. Available in the SRD.*
 
 An angel is a celestial agent sent forth into the planes to further its god's agenda for weal or woe. Its sublime beauty and presence can drive awestruck onlookers to their knees. Yet angels are destroyers too, and their appearance portends doom as often as it signals hope.
@@ -76,7 +76,7 @@ It is said that only twenty-four solars exist. The few solars that are known are
     \ (self only)\n\n1/day each: [[5. Mechanics/Spells/Commune.md|commune]], [[5. Mechanics/Spells/Control Weather.md|control\
     \ weather]]\n\n3/day each: [[5. Mechanics/Spells/Blade Barrier.md|blade barrier]],\
     \ [[5. Mechanics/Spells/Dispel Evil And Good.md|dispel evil and good]], [[5. Mechanics/Spells/Resurrection.md|resurrection]]"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "The solar's weapon attacks are magical. When the solar hits with any weapon,\
     \ the weapon deals an extra dice: 6d8|avg|noform (6d8) radiant damage (included\
     \ in the attack)."

@@ -10,6 +10,7 @@ aliases:
   - Astral Skiff
 ---
 # Astral Skiff
+%%-- Embedded content starts on the next line. --%%
 *Source: Mordenkainen's Tome of Foes p. 90*  
 
 

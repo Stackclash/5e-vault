@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Empyrean
 ---
-# [[5. Mechanics/Bestiary/Celestial/Empyrean.md|Empyrean]]
+# [[5. Mechanics\Bestiary\Celestial\Empyrean.md|Empyrean]]
 *Source: Monster Manual p. 130*
 
 Empyreans are the celestial children of the gods of the Upper Planes. They are universally beautiful, statuesque, and self-assured.
@@ -66,7 +66,7 @@ Empyreans don't age but can be slain. Because few empyreans can imagine their ow
     \n1/day each: [[5. Mechanics/Spells/Commune.md|commune]], [[5. Mechanics/Spells/Dispel Evil And Good.md|dispel evil and good]],\
     \ [[5. Mechanics/Spells/Earthquake.md|earthquake]], [[5. Mechanics/Spells/Fire Storm.md|fire storm]],\
     \ [[5. Mechanics/Spells/Plane Shift.md|plane shift]] (self only)"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "If the empyrean fails a saving throw, it can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
 - "desc": "The empyrean has advantage on saving throws against spells and other magical\

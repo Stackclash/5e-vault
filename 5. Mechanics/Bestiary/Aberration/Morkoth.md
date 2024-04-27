@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Morkoth
 ---
-# [[5. Mechanics/Bestiary/Aberration/Morkoth.md|Morkoth]]
+# [[5. Mechanics\Bestiary\Aberration\Morkoth.md|Morkoth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 186, Volo's Guide to Monsters p. 177*
 
 Ancient and devious, morkoths are voracious collectors. Each one floats through the planes on a strange, mobile island, amassing the valuables, oddities, and castoffs of the multiverse in a massive, ever-growing collection.
@@ -69,7 +69,7 @@ A morkoth encountered in its lair has a challenge rating of 12 (8,400 XP).
     \n3/day each: [[5. Mechanics/Spells/Darkness.md|darkness]], [[5. Mechanics/Spells/Dimension Door.md|dimension door]],\
     \ [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]],\
     \ [[5. Mechanics/Spells/Sending.md|sending]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "The morkoth can breathe air and water."
   "name": "Amphibious"
 "actions":

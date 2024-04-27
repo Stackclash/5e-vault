@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Xvart Speaker
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Xvart Speaker.md|Xvart Speaker]]
+# [[5. Mechanics\Bestiary\Humanoid\Xvart Speaker.md|Xvart Speaker]]
 *Source: Volo's Guide to Monsters p. 200*
 
 Xvarts are cruel, cowardly humanoids spawned by a cowardly, renegade demigod. They have blue skin, vivid orange eyes, and receding hairlines, mirroring their creator's appearance. They stand about 3 feet tall.

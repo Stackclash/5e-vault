@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Oni
 ---
-# [[5. Mechanics/Bestiary/Giant/Oni.md|Oni]]
+# [[5. Mechanics\Bestiary\Giant\Oni.md|Oni]]
 *Source: Monster Manual p. 239, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD.*
 
 In nursery rhymes, oni are fearsome bogeymen that haunt the nightmares of children and adults alike, yet they are very real and always hungry. They find human babies especially delicious. Oni look like demonic ogres with blue or green skin, dark hair, and a pair of short ivory horns protruding from their foreheads. Their eyes are dark with strikingly white pupils, and their teeth and claws are jet black.
@@ -80,7 +80,7 @@ Oni are sometimes called ogre mages because of their innate magical ability. Tho
     \n1/day each: [[5. Mechanics/Spells/Charm Person.md|charm person]], [[5. Mechanics/Spells/Cone Of Cold.md|cone of\
     \ cold]], [[5. Mechanics/Spells/Gaseous Form.md|gaseous form]],\
     \ [[5. Mechanics/Spells/Sleep.md|sleep]]"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "The oni's weapon attacks are magical."
   "name": "Magic Weapons"
 - "desc": "The oni regains 10 hit points at the start of its turn if it has at least\

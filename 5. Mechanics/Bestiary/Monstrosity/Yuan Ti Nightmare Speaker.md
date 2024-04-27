@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Yuan-ti Nightmare Speaker
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Yuan Ti Nightmare Speaker.md|Yuan-ti Nightmare Speaker]]
+# [[5. Mechanics\Bestiary\Monstrosity\Yuan Ti Nightmare Speaker.md|Yuan-ti Nightmare Speaker]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 275, Volo's Guide to Monsters p. 205*
 
 Nightmare speakers are yuan-ti malison priests who make a pact with the Dendar the Night Serpent to feed their deity the fears and nightmares of their victims in exchange for power in the mortal world. These priests receive nightmarish visions from Dendar that they interpret as prophecies, and they then use their magic and influence to make these visions come true.
@@ -57,7 +57,7 @@ Nightmare speakers revel in torturing others, keeping their victims in a constan
     \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n2/day each:\
     \ [[5. Mechanics/Spells/Darkness.md|darkness]], [[5. Mechanics/Spells/Fear.md|fear]]\n\
     \n3/day: [[5. Mechanics/Spells/Suggestion.md|suggestion]]"
-  "name": "spells"
+  "name": "Spellcasting (Yuan-ti Form Only)"
 - "desc": "Magical darkness doesn't impede the yuan-ti's [[/5. Mechanics/Rules/Senses.md#darkvision|darkvision]]."
   "name": "Devil's Sight"
 - "desc": "The yuan-ti has advantage on saving throws against spells and other magical\

@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Molydeus
 ---
-# [[5. Mechanics/Bestiary/Fiend/Molydeus.md|Molydeus]]
+# [[5. Mechanics\Bestiary\Fiend\Molydeus.md|Molydeus]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 184, Mordenkainen's Tome of Foes p. 134*
 
 The fearsome molydeus speaks for the demon lord it serves and enforces its master's will. This demon is 12 feet tall, and its bipedal body has a slavering wolfs head and a fanged serpent's head. Its demon lord can speak and see through the serpent head; this master also uses the molydeus to guard treasures, slay foes, and terrify troops into obedience.
@@ -57,7 +57,7 @@ A molydeus's demon lord bestows on it a powerful weapon that dissolves if the mo
     \ [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[5. Mechanics/Spells/Polymorph.md|polymorph]],\
     \ [[5. Mechanics/Spells/Telekinesis.md|telekinesis]], [[5. Mechanics/Spells/Teleport.md|teleport]]\n\
     \n3/day: [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "If the molydeus fails a saving throw, it can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
 - "desc": "The molydeus has advantage on saving throws against spells and other magical\

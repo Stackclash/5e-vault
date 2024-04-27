@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Planetar
 ---
-# [[5. Mechanics/Bestiary/Celestial/Planetar.md|Planetar]]
+# [[5. Mechanics\Bestiary\Celestial\Planetar.md|Planetar]]
 *Source: Monster Manual p. 17. Available in the SRD.*
 
 An angel is a celestial agent sent forth into the planes to further its god's agenda for weal or woe. Its sublime beauty and presence can drive awestruck onlookers to their knees. Yet angels are destroyers too, and their appearance portends doom as often as it signals hope.
@@ -75,7 +75,7 @@ Planetars are muscular and hairless and have opalescent green skin and white-fea
     \ [[5. Mechanics/Spells/Insect Plague.md|insect plague]]\n\n3/day each: [[5. Mechanics/Spells/Blade Barrier.md|blade\
     \ barrier]], [[5. Mechanics/Spells/Dispel Evil And Good.md|dispel evil and good]],\
     \ [[5. Mechanics/Spells/Flame Strike.md|flame strike]], [[5. Mechanics/Spells/Raise Dead.md|raise dead]]"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "The planetar's weapon attacks are magical. When the planetar hits with\
     \ any weapon, the weapon deals an extra dice: 5d8|avg|noform (5d8) radiant\
     \ damage (included in the attack)."

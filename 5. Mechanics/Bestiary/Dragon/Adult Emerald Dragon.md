@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Adult Emerald Dragon
 ---
-# [[5. Mechanics/Bestiary/Dragon/Adult Emerald Dragon.md|Adult Emerald Dragon]]
+# [[5. Mechanics\Bestiary\Dragon\Adult Emerald Dragon.md|Adult Emerald Dragon]]
 *Source: Strongholds and Followers p. 200*
 
 One of the oldest species of gemstone dragons, the emeralds studied the lore of the sea and the unique, chaotic boundary between sea and land. It was the tide pools and estuaries that fascinated them, and they developed a theory of the timescape based on this intermingling. The Estuarial Hypothesis holds that the Mundane World lies on an interspace boundary between the worlds, and for this reason good, evil, chaos, and law all intermingle here.
@@ -89,7 +89,8 @@ Their interest in our world and its relation to others makes them experts on the
   "name": "Psionic Shift (Costs 2 Actions)"
 "source":
 - "SaF"
-"image": "5. Mechanics/Bestiary/Dragon/token/adult-emerald-dragon-saf.webp"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Large\
+  \ Emerald Dragon.png"
 ```
 ^statblock
 

@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Lesser Marilith
 ---
-# [[5. Mechanics/Bestiary/Fiend/Lesser Marilith.md|Lesser Marilith]]
+# [[5. Mechanics\Bestiary\Fiend\Lesser Marilith.md|Lesser Marilith]]
 *Source: Strongholds and Followers p. 151*
 
 ```statblock

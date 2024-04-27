@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Lamia
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Lamia.md|Lamia]]
+# [[5. Mechanics\Bestiary\Monstrosity\Lamia.md|Lamia]]
 *Source: Monster Manual p. 201. Available in the SRD.*
 
 Ruined desert cities and the tombs of forgotten monarchs make perfect lairs for the wicked lamias. These decadent monsters take what has been forgotten and make it the seat of their hedonistic rule, surrounding themselves with sycophants. Lamias rely on [[5. Mechanics/Bestiary/Humanoid/Jackalwere.md|jackalweres]] to perform various tasks, sending them across the wastes to capture slaves or steal treasures from caravans, encampments, or villages, concealed by the lamia's magic as they attack.
@@ -67,7 +67,7 @@ The demon lord Graz'zt creates lamias from his mortal servants, granting them im
     \ form), [[5. Mechanics/Spells/Major Image.md|major image]]\n\n1/day: [[5. Mechanics/Spells/Geas.md|geas]]\n\
     \n3/day each: [[5. Mechanics/Spells/Charm Person.md|charm person]], [[5. Mechanics/Spells/Mirror Image.md|mirror image]],\
     \ [[5. Mechanics/Spells/Scrying.md|scrying]], [[5. Mechanics/Spells/Suggestion.md|suggestion]]"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 "actions":
 - "desc": "The lamia makes two attacks: one with its claws and one with its dagger\
     \ or Intoxicating Touch."

@@ -72,8 +72,6 @@ When the characters first come within sight of Argynvostholt, read:
 > 
 > High above the river valley juts a quiet promontory upon which looms a sepulchral mansion, its turrets capped with fairytale cones, its towers lined with sculpted battlements. A third of the structure has collapsed, as has part of the roof, but the rest appears intact. A dark, octagonal tower rises above the surrounding architecture.
 > 
-> ![[Rolling Thunder.mp3]]
-> ![[Wolf Howl.mp3]]
 > Out of the fog comes a distant peal of thunder, quickly accompanied by the howling of wolves in the woods below, but the house stands silent, seeming like the fossilized remains of some long-dead thing smote upon the mountainside.
 ^429
 
@@ -123,7 +121,7 @@ The tapestry is torn in places and worthless. It is a portrait of Lord Argynvost
 The first time the characters pass through this foyer, read:
 
 > [!readaloud] 
-> ![[Snake Hiss.mp3]]
+> 
 > A great shadow with wings moves across the walls and disappears. You hear the soft bestial hiss in the darkness.
 ^432
 
@@ -163,8 +161,7 @@ A secret door at the north end of the east wall can be pushed open to reveal a s
 If the beacon of Argynvostholt (area Q53) has not been lit, read the following text when the characters approach the fireplace for the first time:
 
 > [!readaloud] 
-> ![[Pyroblast.mp3]]
-> ![[Snake Hiss.mp3]]
+> 
 > A fire erupts in the dead hearth and assumes a draconic form. It hisses, crackles, and unfurls its smoky wings.
 ^43a
 

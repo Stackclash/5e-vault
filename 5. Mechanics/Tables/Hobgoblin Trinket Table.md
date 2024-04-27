@@ -19,6 +19,6 @@ aliases:
 | 4 | 1 rainskin | 2 gp | 4 lb |
 | 5 | 30 feet of [[5. Mechanics/Items/Hempen Rope 50 Feet.md\|rope]] | 5 sp | 5 lb |
 | 6 | 1 small [[5. Mechanics/Items/Pouch.md\|pouch]] of anaesthetic herbs | 3 gp | 1 lb |
-| 7 | `dice: 1d4\|avg|noform` (`1d4`) rolls of bandages | 6 sp | 1 lb |
+| 7 | `dice: 1d4\|avg\|noform` (`1d4`) rolls of bandages | 6 sp | 1 lb |
 | 8 | 1 set of dogtags | 1 gp | 1 lb |
 ^item-value-weight

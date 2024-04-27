@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Gray Slaad
 ---
-# [[5. Mechanics/Bestiary/Aberration/Gray Slaad.md|Gray Slaad]]
+# [[5. Mechanics\Bestiary\Aberration\Gray Slaad.md|Gray Slaad]]
 *Source: Monster Manual p. 277*
 
 Outside of Limbo, gray slaadi act as living extensions of the will of their masters, the death slaadi. A gray slaad journeys to the Material Plane on errands of doom, often taking humanoid form. A gray slaad learns how to master the use of a greatsword and imbue it with its own innate magic.
@@ -89,7 +89,7 @@ Some slaadi can transform into the humanoid creatures from which they were origi
     \ [[5. Mechanics/Spells/Major Image.md|major image]]\n\n1/day: [[5. Mechanics/Spells/Plane Shift.md|plane shift]]\
     \ (self only)\n\n2/day each: [[5. Mechanics/Spells/Fear.md|fear]], [[5. Mechanics/Spells/Fly.md|fly]],\
     \ [[5. Mechanics/Spells/Fireball.md|fireball]], [[5. Mechanics/Spells/Tongues.md|tongues]]"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "The slaad can use its action to polymorph into a Small or Medium humanoid,\
     \ or back into its true form. Its statistics, other than its size, are the same\
     \ in each form. Any equipment it is wearing or carrying isn't transformed. It\

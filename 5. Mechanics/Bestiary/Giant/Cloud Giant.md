@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Cloud Giant
 ---
-# [[5. Mechanics/Bestiary/Giant/Cloud Giant.md|Cloud Giant]]
+# [[5. Mechanics\Bestiary\Giant\Cloud Giant.md|Cloud Giant]]
 *Source: Monster Manual p. 154. Available in the SRD.*
 
 Cloud giants live extravagant lives high above the world, showing little concern for the plights of other races except as amusement. They are muscular with light skin and have hair of silver or blue.
@@ -117,7 +117,7 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
     \ [[5. Mechanics/Spells/Gaseous Form.md|gaseous form]]\n\n3/day each: [[5. Mechanics/Spells/Feather Fall.md|feather\
     \ fall]], [[5. Mechanics/Spells/Fly.md|fly]], [[5. Mechanics/Spells/Misty Step.md|misty\
     \ step]], [[5. Mechanics/Spells/Telekinesis.md|telekinesis]]"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "The giant has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
     \ checks that rely on smell."
   "name": "Keen Smell"

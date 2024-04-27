@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Sibriex
 ---
-# [[5. Mechanics/Bestiary/Fiend/Sibriex.md|Sibriex]]
+# [[5. Mechanics\Bestiary\Fiend\Sibriex.md|Sibriex]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 217, Mordenkainen's Tome of Foes p. 137*
 
 Thought to be as old as the Abyss itself, sibriexes haunt remote parts of that plane, where they use their vile abilities to create new horrors and they seek ancient lore. Rivulets of blood and bile cascade from a sibriex's body, polluting the surrounding landscape.
@@ -57,7 +57,7 @@ Sibriexes can channel the power of the Abyss to create new demons from other cre
     \ and using Charisma as the spellcasting ability (spell save DC 21):\n\nAt will:\
     \ [[5. Mechanics/Spells/Command.md|command]], [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
     \ [[5. Mechanics/Spells/Hold Monster.md|hold monster]]\n\n1/day: [[5. Mechanics/Spells/Feeblemind.md|feeblemind]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "The sibriex emits an aura of corruption 30 feet in every direction. Vegetation\
     \ withers in the aura, and the ground in the aura is difficult terrain for other\
     \ creatures. Any creature that starts its turn in the aura must succeed on a DC\

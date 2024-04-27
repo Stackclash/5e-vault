@@ -10,6 +10,7 @@ aliases:
   - Clone
 ---
 # Clone
+%%-- Embedded content starts on the next line. --%%
 *8th-level, Necromancy*  
 
 - **Casting time:** 1 hour

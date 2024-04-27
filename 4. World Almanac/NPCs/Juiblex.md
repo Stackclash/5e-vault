@@ -163,7 +163,7 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ and using Wisdom as the spellcasting ability (spell save DC 20):\n\nAt will:\
     \ [[5. Mechanics/Spells/Detect Magic.md|detect magic]]\n\n3/day each: [[5. Mechanics/Spells/Contagion.md|contagion]],\
     \ [[5. Mechanics/Spells/Gaseous Form.md|gaseous form]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "Any creature other than an Ooze that starts its turn within 10 feet of\
     \ Juiblex must succeed on a DC 21 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
     \ until the start of the creature's next turn."

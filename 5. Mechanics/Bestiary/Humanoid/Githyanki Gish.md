@@ -14,7 +14,7 @@ statblock: inline
 aliases:
   - Githyanki Gish
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Githyanki Gish.md|Githyanki Gish]]
+# [[5. Mechanics\Bestiary\Humanoid\Githyanki Gish.md|Githyanki Gish]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 140, Mordenkainen's Tome of Foes p. 205*
 
 Gish blend their magical abilities with swordplay to become dangerous foes in battle. Their specialized capabilities make them well suited for assassination, raiding, and espionage.
@@ -61,7 +61,7 @@ Githyanki descend from an ancient people who were also the progenitors of githze
     \ [[5. Mechanics/Spells/Telekinesis.md|telekinesis]]\n\n3/day each: [[5. Mechanics/Spells/Fireball.md|fireball]],\
     \ [[5. Mechanics/Spells/Invisibility.md|invisibility]], [[5. Mechanics/Spells/Nondetection.md|nondetection]]\
     \ (self only)"
-  "name": "spells"
+  "name": "Spellcasting (Psionics)"
 "actions":
 - "desc": "The githyanki makes three Longsword or Telekinetic Bolt attacks, or it\
     \ makes one of those attacks and uses Spellcasting."

@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Bone Knight
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Bone Knight.md|Bone Knight]]
+# [[5. Mechanics\Bestiary\Humanoid\Bone Knight.md|Bone Knight]]
 *Source: Eberron: Rising from the Last War p. 316*
 
 Bone knights are the champions of the Order of the Emerald Claw. Clad in distinctive bonecraft armor—heavy armor adorned with the bones of fallen enemies—these fearsome warriors command squads of undead soldiers as they pursue the sinister goals of Lady Illmarrow.
@@ -63,7 +63,7 @@ During the Last War, many bone knights took service with the Order of the Emeral
     \ [[5. Mechanics/Spells/Branding Smite.md|branding smite]], [[5. Mechanics/Spells/Crown Of Madness.md|crown of madness]],\
     \ [[5. Mechanics/Spells/Darkness.md|darkness]], [[5. Mechanics/Spells/Find Steed.md|find steed]],\
     \ [[5. Mechanics/Spells/Magic Weapon.md|magic weapon]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "As a bonus action, the knight can target one skeleton or zombie it can\
     \ see within 30 feet of it. The target must make a DC 14 Wisdom saving throw.\
     \ On a failed save, the target must obey the knight's commands until the knight\

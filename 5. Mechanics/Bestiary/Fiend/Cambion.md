@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Cambion
 ---
-# [[5. Mechanics/Bestiary/Fiend/Cambion.md|Cambion]]
+# [[5. Mechanics\Bestiary\Fiend\Cambion.md|Cambion]]
 *Source: Monster Manual p. 36*
 
 A cambion is the offspring of a fiend (usually a succubus or incubus) and a humanoid (usually a human). Cambions inherit aspects of both parents, but their horns, leathery wings, and sinewy tails are hallmarks of their otherworldly parentage.
@@ -71,7 +71,7 @@ The demon lord Graz'zt is fond of procreating with humanoids who have made pacts
     \n1/day: [[5. Mechanics/Spells/Plane Shift.md|plane shift]] (self only)\n\n3/day\
     \ each: [[5. Mechanics/Spells/Alter Self.md|alter self]], [[5. Mechanics/Spells/Command.md|command]],\
     \ [[5. Mechanics/Spells/Detect Magic.md|detect magic]]"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "The AC of the cambion includes its Charisma bonus."
   "name": "Fiendish Blessing"
 "actions":

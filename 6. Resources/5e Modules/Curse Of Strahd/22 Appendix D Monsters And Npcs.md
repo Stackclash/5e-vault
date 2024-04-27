@@ -559,12 +559,12 @@ Whenever Strahd appears in a location other than his tomb or the place indicated
 
 | dice: d20 | Creatures |
 |-----------|-----------|
-| 1–3 | `dice: 1d4 + 2\|avg|noform` (`1d4 + 2`) [[5. Mechanics/Bestiary/Beast/Dire Wolf.md|dire wolves]] |
-| 4–6 | `dice: 1d6 + 3\|avg|noform` (`1d6 + 3`) [[5. Mechanics/Bestiary/Undead/Ghoul.md|ghouls]] |
-| 7–9 | `dice: 1d4 + 2\|avg|noform` (`1d4 + 2`) [[5. Mechanics/Bestiary/Undead/Strahd Zombie.md|Strahd zombies]] (in this appendix) |
-| 10–12 | `dice: 2d4\|avg|noform` (`2d4`) [[5. Mechanics/Bestiary/Beast/Swarm Of Bats.md|swarms of bats]] |
-| 13–15 | `dice: 1d4 + 1\|avg|noform` (`1d4 + 1`) [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md|vampire spawns]] |
-| 16–18 | `dice: 3d6\|avg|noform` (`3d6`) [[5. Mechanics/Bestiary/Beast/Wolf.md|wolves]] |
+| 1–3 | `dice: 1d4 + 2\|avg\|noform` (`1d4 + 2`) [[5. Mechanics/Bestiary/Beast/Dire Wolf.md|dire wolves]] |
+| 4–6 | `dice: 1d6 + 3\|avg\|noform` (`1d6 + 3`) [[5. Mechanics/Bestiary/Undead/Ghoul.md|ghouls]] |
+| 7–9 | `dice: 1d4 + 2\|avg\|noform` (`1d4 + 2`) [[5. Mechanics/Bestiary/Undead/Strahd Zombie.md|Strahd zombies]] (in this appendix) |
+| 10–12 | `dice: 2d4\|avg\|noform` (`2d4`) [[5. Mechanics/Bestiary/Beast/Swarm Of Bats.md|swarms of bats]] |
+| 13–15 | `dice: 1d4 + 1\|avg\|noform` (`1d4 + 1`) [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md|vampire spawns]] |
+| 16–18 | `dice: 3d6\|avg\|noform` (`3d6`) [[5. Mechanics/Bestiary/Beast/Wolf.md|wolves]] |
 | 19–20 | None |
 ^strahds-minions
 

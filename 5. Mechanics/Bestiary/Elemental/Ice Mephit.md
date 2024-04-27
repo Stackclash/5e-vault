@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Ice Mephit
 ---
-# [[5. Mechanics/Bestiary/Elemental/Ice Mephit.md|Ice Mephit]]
+# [[5. Mechanics\Bestiary\Elemental\Ice Mephit.md|Ice Mephit]]
 *Source: Monster Manual p. 215. Available in the SRD.*
 
 ## Mephits
@@ -57,7 +57,7 @@ Comprising frigid air and water, ice mephits are aloof and cold, surpassing all 
 - "desc": "The mephit can innately cast [[5. Mechanics/Spells/Fog Cloud.md|fog cloud]],\
     \ requiring no material components. Its innate spellcasting ability is Charisma.\n\
     \nAt will: [[5. Mechanics/Spells/Fog Cloud.md|fog cloud]]"
-  "name": "innate"
+  "name": "Innate Spellcasting (1/Day)"
 - "desc": "When the mephit dies, it explodes in a burst of jagged ice. Each creature\
     \ within 5 feet of it must make a DC 10 Dexterity saving throw, taking dice:1d8|text(4)\
     \ (1d8) slashing damage on a failed save, or half as much damage on a successful\

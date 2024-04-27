@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Grung Wildling
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Grung Wildling.md|Grung Wildling]]
+# [[5. Mechanics\Bestiary\Humanoid\Grung Wildling.md|Grung Wildling]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 150, Volo's Guide to Monsters p. 157*
 
 Gifted with druidic magic, a grung wildling typically serves as an advisor, a healer, and a nurturer of crops.
@@ -56,7 +56,7 @@ Born in a wide range of colors, grungs most often appear in shades of green, blu
     \ ability (spell save DC 12):\n\nAt will: [[5. Mechanics/Spells/Druidcraft.md|druidcraft]]\n\
     \n2/day: [[5. Mechanics/Spells/Plant Growth.md|plant growth]]\n\n3/day each:\
     \ [[5. Mechanics/Spells/Cure Wounds.md|cure wounds]], [[5. Mechanics/Spells/Spike Growth.md|spike growth]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "The grung can breathe air and water."
   "name": "Amphibious"
 - "desc": "Any creature that grapples the grung or otherwise comes into direct contact\

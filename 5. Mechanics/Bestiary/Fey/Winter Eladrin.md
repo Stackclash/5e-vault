@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Winter Eladrin
 ---
-# [[5. Mechanics/Bestiary/Fey/Winter Eladrin.md|Winter Eladrin]]
+# [[5. Mechanics\Bestiary\Fey\Winter Eladrin.md|Winter Eladrin]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 117, Mordenkainen's Tome of Foes p. 197*
 
 When sorrow distresses eladrin, they enter the winter season, becoming figures of melancholy. Frozen tears drop from their cheeks, and their palpable sadness emanates from them as icy cold.
@@ -62,7 +62,7 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
     \ and using Intelligence as the spellcasting ability (spell save DC 16):\n\nAt\
     \ will: [[5. Mechanics/Spells/Fog Cloud.md|fog cloud]], [[5. Mechanics/Spells/Gust Of Wind.md|gust of wind]],\
     \ [[5. Mechanics/Spells/Sleet Storm.md|sleet storm]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "The eladrin has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"

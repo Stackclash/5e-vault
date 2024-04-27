@@ -17,7 +17,7 @@ statblock: inline
 aliases:
   - Swarm of Beetles
 ---
-# [[5. Mechanics/Bestiary/Beast/Swarm Of Beetles.md|Swarm of Beetles]]
+# [[5. Mechanics\Bestiary\Beast\Swarm Of Beetles.md|Swarm of Beetles]]
 *Source: Monster Manual p. 338. Available in the SRD.*
 
 > [!note] The Nature of Swarms

@@ -19,6 +19,7 @@ aliases:
   - Wall of Fire
 ---
 # Wall of Fire
+%%-- Embedded content starts on the next line. --%%
 *4th-level, Evocation*  
 
 - **Casting time:** 1 action

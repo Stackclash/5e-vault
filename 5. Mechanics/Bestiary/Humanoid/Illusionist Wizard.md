@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Illusionist Wizard
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Illusionist Wizard.md|Illusionist Wizard]]
+# [[5. Mechanics\Bestiary\Humanoid\Illusionist Wizard.md|Illusionist Wizard]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 263, Volo's Guide to Monsters p. 214*
 
 Illusionists twist light, sound, and even thought to create illusory effects. Some illusionists are delightful entertainers, while others are devilish tricksters.
@@ -53,7 +53,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
     \n2/day each: [[5. Mechanics/Spells/Disguise Self.md|disguise self]], [[5. Mechanics/Spells/Invisibility.md|invisibility]],\
     \ [[5. Mechanics/Spells/Mage Armor.md|mage armor]], [[5. Mechanics/Spells/Major Image.md|major image]],\
     \ [[5. Mechanics/Spells/Phantasmal Force.md|phantasmal force]], [[5. Mechanics/Spells/Phantom Steed.md|phantom steed]]"
-  "name": "spells"
+  "name": "Spellcasting"
 "actions":
 - "desc": "The illusionist makes two Arcane Burst attacks."
   "name": "Multiattack"

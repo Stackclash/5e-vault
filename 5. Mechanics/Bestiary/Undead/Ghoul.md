@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Ghoul
 ---
-# [[5. Mechanics/Bestiary/Undead/Ghoul.md|Ghoul]]
+# [[5. Mechanics\Bestiary\Undead\Ghoul.md|Ghoul]]
 *Source: Monster Manual p. 148, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*
 
 Ghouls roam the night in packs, driven by an insatiable hunger for humanoid flesh.

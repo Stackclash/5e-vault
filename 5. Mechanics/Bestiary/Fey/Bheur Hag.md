@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Bheur Hag
 ---
-# [[5. Mechanics/Bestiary/Fey/Bheur Hag.md|Bheur Hag]]
+# [[5. Mechanics\Bestiary\Fey\Bheur Hag.md|Bheur Hag]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 62, Volo's Guide to Monsters p. 160*
 
 Bheur hags live in wintry lands, favoring snowy mountains. These hags become more active during winter, using their ice and weather magic to make life miserable for nearby settlements.
@@ -56,7 +56,7 @@ In combat, a bheur hag also strives to inspire horror. When near a recently slai
     \ ability (spell save DC 14):\n\nAt will: [[5. Mechanics/Spells/Hold Person.md|hold person]]\n\
     \n1/day each: [[5. Mechanics/Spells/Cone Of Cold.md|cone of cold]], [[5. Mechanics/Spells/Ice Storm.md|ice storm]],\
     \ [[5. Mechanics/Spells/Wall Of Ice.md|wall of ice]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "The hag can cast the [[5. Mechanics/Spells/Control Weather.md|control weather]]\
     \ spell, requiring no material components and using Charisma as the spellcasting\
     \ ability."

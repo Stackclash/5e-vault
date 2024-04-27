@@ -29,8 +29,8 @@ You have a +2 bonus to attack and damage rolls made with this weapon. When you m
 
 | dice: d4 | Effect |
 |----------|--------|
-| 1 | You deal `dice: 1d8\|avg|noform` (`1d8`) necrotic damage and gain temporary hit points equal to the damage dealt (this damage is not doubled). |
-| 2 | You deal an additional `dice: 2d8\|avg|noform` (`2d8`) lightning damage to your target (this damage is not doubled). |
+| 1 | You deal `dice: 1d8\|avg\|noform` (`1d8`) necrotic damage and gain temporary hit points equal to the damage dealt (this damage is not doubled). |
+| 2 | You deal an additional `dice: 2d8\|avg\|noform` (`2d8`) lightning damage to your target (this damage is not doubled). |
 | 3 | Your target must succeed on a DC 16 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]] until the end of your next turn. |
 | 4 | You teleport, along with any equipment you are wearing or carrying, up to 60 feet to an unoccupied space you can see. |
 ^effect

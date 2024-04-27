@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Arcanaloth
 ---
-# [[5. Mechanics/Bestiary/Fiend/Arcanaloth.md|Arcanaloth]]
+# [[5. Mechanics\Bestiary\Fiend\Arcanaloth.md|Arcanaloth]]
 *Source: Monster Manual p. 313, Curse of Strahd, Tasha's Cauldron of Everything*
 
 Arcanaloths are sly, jackal-headed beings with humanoid bodies, but they can employ magic to take any humanoid form. They do so to gain the trust of creatures with whom they negotiate, replacing jackal snarls with winsome smiles. Regardless of its chosen form, an arcanaloth appears well groomed, clothing itself in fine robes. Highly intelligent spellcasters who hunger for knowledge and power, arcanaloths command units of lesser yugoloths and maintain the contracts, records, and accounts of their kind.
@@ -109,7 +109,7 @@ Whatever the case, no fiend finds the General unless the General desires it. His
     \ components:\n\nAt will: [[5. Mechanics/Spells/Alter Self.md|alter self]], [[5. Mechanics/Spells/Darkness.md|darkness]],\
     \ [[5. Mechanics/Spells/Heat Metal.md|heat metal]], [[5. Mechanics/Spells/Invisibility.md|invisibility]]\
     \ (self only), [[5. Mechanics/Spells/Magic Missile.md|magic missile]]"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "The arcanaloth is a 16th-level spellcaster. Its spellcasting ability is\
     \ Intelligence (spell save DC 17, dice: d20+9 (+9) to hit with spell attacks).\
     \ The arcanaloth has the following wizard spells prepared:\n\nCantrips (at will):\
@@ -128,7 +128,7 @@ Whatever the case, no fiend finds the General unless the General desires it. His
     \n6th level (1 slots): [[5. Mechanics/Spells/Chain Lightning.md|chain lightning]]\n\
     \n7th level (1 slots): [[5. Mechanics/Spells/Finger Of Death.md|finger of death]]\n\
     \n8th level (1 slots): [[5. Mechanics/Spells/Mind Blank.md|mind blank]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "The arcanaloth has advantage on saving throws against spells and other\
     \ magical effects."
   "name": "Magic Resistance"

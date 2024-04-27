@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Orchid Count
 ---
-# [[5. Mechanics/Bestiary/Fey/Orchid Count.md|Orchid Count]]
+# [[5. Mechanics\Bestiary\Fey\Orchid Count.md|Orchid Count]]
 *Source: Strongholds and Followers p. 180*
 
 The dashing archer-sorcerer of the Court, the Count is often seen flanked by two Mantis Knights, dueling and carousing their way through Alloy, the City of Four Elements, known in some realms as the City of Brass.
@@ -59,7 +59,7 @@ The Count relies on his Now You See Me... Now You Don't... combo to get in and o
     \ He can innately cast the following spells, requiring no material components:\n\
     \nAt will: [[5. Mechanics/Spells/Misty Step.md|misty step]], [[5. Mechanics/Spells/Hunters Mark.md|hunter's mark]]\n\
     \n3/day: [[5. Mechanics/Spells/Blur.md|blur]], [[5. Mechanics/Spells/Mirror Image.md|mirror image]]"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "The count is unaffected by difficult terrain."
   "name": "Fey Step"
 - "desc": "Magic cannot put the count to sleep."
@@ -91,7 +91,8 @@ The Count relies on his Now You See Me... Now You Don't... combo to get in and o
   "name": "Longbow"
 "source":
 - "SaF"
-"image": "5. Mechanics/Bestiary/Fey/token/orchid-count-saf.webp"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Orchid\
+  \ Count.png"
 ```
 ^statblock
 

@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Booyahg Slave of the Fiend
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Booyahg Slave Of The Fiend.md|Booyahg Slave of the Fiend]]
+# [[5. Mechanics\Bestiary\Humanoid\Booyahg Slave Of The Fiend.md|Booyahg Slave of the Fiend]]
 *Source: Volo's Guide to Monsters p. 42*
 
 This goblin warlock serves a patron who can extract payment in flesh if the goblin doesn't do as promised. Often this patron is a coven of hags serving as the tribe's boss, a fiend that has made its way into the world, or an undying lord such as a lich or a vampire. (For more information on undying lord patrons, see the "Sword Coast Adventurer's Guide").
@@ -61,7 +61,7 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
     \ (self only), [[5. Mechanics/Spells/Silent Image.md|silent image]]\n\n1/day each:\
     \ [[5. Mechanics/Spells/Feeblemind.md|feeblemind]], [[5. Mechanics/Spells/Finger Of Death.md|finger of death]],\
     \ [[5. Mechanics/Spells/Plane Shift.md|plane shift]]"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "The goblin is a 17th-level spellcaster. Its spellcasting ability is Charisma\
     \ (spell save DC 15, dice: d20+7 (+7) to hit with spell attacks). It regains\
     \ its expended spell slots when it finishes a short or long rest. It knows the\
@@ -75,7 +75,7 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
     \ [[5. Mechanics/Spells/Scorching Ray.md|scorching ray]], [[5. Mechanics/Spells/Scrying.md|scrying]],\
     \ [[5. Mechanics/Spells/Stinking Cloud.md|stinking cloud]], [[5. Mechanics/Spells/Suggestion.md|suggestion]],\
     \ [[5. Mechanics/Spells/Wall Of Fire.md|wall of fire]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "When the goblin makes an ability check or saving throw, it can add a dice:\
     \ d10|avg|noform (d10) to the roll. It can do this after the roll is made but\
     \ before any of the roll's effects occur."

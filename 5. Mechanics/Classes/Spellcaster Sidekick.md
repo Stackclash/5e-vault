@@ -83,10 +83,6 @@ You are proficient with the following items.
 - **Skills**: Choose 2 from *Arcana*, *History*, *Insight*, *Investigation*, *Medicine*, *Performance*, *Persuasion*, *Religion*
 
 
-## Spellcaster Sidekick
-
-A sidekick who becomes a Spellcaster walks the paths of magic. The sidekick might be a hedge wizard, a priest, a soothsayer, a magical performer, or a person with magic in their veins.
-
 ## Class Features
 
 ### Sidekick Class (Level 1)

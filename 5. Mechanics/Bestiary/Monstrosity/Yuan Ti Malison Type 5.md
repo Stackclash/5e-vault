@@ -14,7 +14,7 @@ statblock: inline
 aliases:
   - Yuan-ti Malison (Type 5)
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Yuan Ti Malison Type 5.md|Yuan-ti Malison (Type 5)]]
+# [[5. Mechanics\Bestiary\Monstrosity\Yuan Ti Malison Type 5.md|Yuan-ti Malison (Type 5)]]
 *Source: Volo's Guide to Monsters p. 96*
 
 ## Yuan-ti Malison Variants: Types 4 and 5
@@ -95,7 +95,7 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
     \ The yuan-ti can innately cast the following spells, requiring no material components:\n\
     \nAt will: [[5. Mechanics/Spells/Animal Friendship.md|animal friendship]] (snakes\
     \ only)\n\n3/day: [[5. Mechanics/Spells/Suggestion.md|suggestion]]"
-  "name": "innate"
+  "name": "Innate Spellcasting (Yuan-ti Form Only)"
 - "desc": "The yuan-ti can use its action to polymorph into a Medium snake, or back\
     \ into its true form. Its statistics are the same in each form. Any equipment\
     \ it is wearing or carrying isn't transformed. It doesn't change form if it dies."

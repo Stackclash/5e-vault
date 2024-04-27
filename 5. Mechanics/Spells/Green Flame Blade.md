@@ -15,6 +15,7 @@ aliases:
   - Green-Flame Blade
 ---
 # Green-Flame Blade
+%%-- Embedded content starts on the next line. --%%
 *cantrip, Evocation*  
 
 - **Casting time:** 1 action

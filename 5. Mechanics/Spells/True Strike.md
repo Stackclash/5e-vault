@@ -15,6 +15,7 @@ aliases:
   - True Strike
 ---
 # True Strike
+%%-- Embedded content starts on the next line. --%%
 *cantrip, Divination*  
 
 - **Casting time:** 1 action

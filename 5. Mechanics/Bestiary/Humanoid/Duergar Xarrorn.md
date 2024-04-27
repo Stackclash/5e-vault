@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Duergar Xarrorn
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Duergar Xarrorn.md|Duergar Xarrorn]]
+# [[5. Mechanics\Bestiary\Humanoid\Duergar Xarrorn.md|Duergar Xarrorn]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 111, Mordenkainen's Tome of Foes p. 193*
 
 Xarrorn are specialists who construct weapons using a mixture of alchemy and psionics.

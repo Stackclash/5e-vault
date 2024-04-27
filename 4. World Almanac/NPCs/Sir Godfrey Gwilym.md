@@ -158,7 +158,7 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ [[5. Mechanics/Spells/Magic Weapon.md|magic weapon]]\n\n3rd level (3 slots):\
     \ [[5. Mechanics/Spells/Blinding Smite.md|blinding smite]], [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]]\n\
     \n4th level (2 slots): [[5. Mechanics/Spells/Staggering Smite.md|staggering smite]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "The knight regains 10 hit points at the start of its turn. If the knight\
     \ takes fire or radiant damage, this trait doesn't function at the start of the\
     \ knight's next turn. The knight's body is destroyed only if it starts its turn\

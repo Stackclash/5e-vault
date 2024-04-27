@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Kuo-toa Whip
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Kuo Toa Whip.md|Kuo-toa Whip]]
+# [[5. Mechanics\Bestiary\Humanoid\Kuo Toa Whip.md|Kuo-toa Whip]]
 *Source: Monster Manual p. 200*
 
 Kuo-toa are degenerate fishlike humanoids that once inhabited the shores and islands of the surface world. Long ago humans and their ilk drove the kuo-toa underground, where they dwell in madness and everlasting night. Kuo-toa can no longer abide daylight.
@@ -86,7 +86,7 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
     \ has the following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Sacred Flame.md|sacred\
     \ flame]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
     \n1st level (3 slots): [[5. Mechanics/Spells/Bane.md|bane]], [[5. Mechanics/Spells/Shield Of Faith.md|shield of faith]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "The kuo-toa can breathe air and water."
   "name": "Amphibious"
 - "desc": "The kuo-toa can sense the presence of any creature within 30 feet of it\

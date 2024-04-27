@@ -43,8 +43,8 @@ A moonblade has one rune on its blade for each master it has served (typically `
 | 83-84 | The moonblade gains the thrown property (range 20/60 feet). |
 | 85-86 | The moonblade functions as a [[5. Mechanics/Items/Defender.md\|defender]]. |
 | 87-90 | The moon blade scores a critical hit on a roll of 19 or 20. |
-| 91-92 | When you hit with an attack using the moon blade, the attack deals an extra `dice: 1d6\|avg|noform` (`1d6`) slashing damage. |
-| 93-94 | When you hit a creature of a specific type (such as dragon, fiend, or undead) with the moonblade, the target takes an extra `dice: 1d6\|avg|noform` (`1d6`) damage of one of these types: acid, cold, fire, lightning, or thunder. |
+| 91-92 | When you hit with an attack using the moon blade, the attack deals an extra `dice: 1d6\|avg\|noform` (`1d6`) slashing damage. |
+| 93-94 | When you hit a creature of a specific type (such as dragon, fiend, or undead) with the moonblade, the target takes an extra `dice: 1d6\|avg\|noform` (`1d6`) damage of one of these types: acid, cold, fire, lightning, or thunder. |
 | 95-96 | You can use a bonus action to cause the moonblade to flash brightly. Each creature that can see you and is within 30 feet of you must succeed on a DC 15 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]] for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. This property can't be used again until you take a short rest while attuned to the weapon. |
 | 97-98 | The moonblade functions as a [[5. Mechanics/Items/Ring Of Spell Storing.md\|ring of spell storing]]. |
 | 99 | You can use an action to call forth an elfshadow, provided that you don't already have one serving you. The elfshadow appears in an unoccupied space within 120 feet of you. It uses the statistics for a [[5. Mechanics/Bestiary/Undead/Shadow.md\|shadow]], except it is neutral, immune to effects that turn undead, and doesn't create new shadows. You control this creature, deciding how it acts and moves. It remains until it drops to 0 hit points or you dismiss it as an action. |

@@ -156,7 +156,7 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ [[5. Mechanics/Spells/Fly.md|fly]], [[5. Mechanics/Spells/Mass Suggestion.md|mass suggestion]],\
     \ [[5. Mechanics/Spells/Staggering Smite.md|staggering smite]], [[5. Mechanics/Spells/Suggestion.md|suggestion]],\
     \ [[5. Mechanics/Spells/True Seeing.md|true seeing]]"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "Mordakhesh can't be affected or detected by spells of 6th level or lower\
     \ unless he wishes to be. Mordakhesh has advantage on saving throws against all\
     \ other spells and magical effects."

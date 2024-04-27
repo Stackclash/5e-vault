@@ -11,6 +11,7 @@ aliases:
   - Hunger of Hadar
 ---
 # Hunger of Hadar
+%%-- Embedded content starts on the next line. --%%
 *3rd-level, Conjuration*  
 
 - **Casting time:** 1 action

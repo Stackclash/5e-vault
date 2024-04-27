@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Choldrith
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Choldrith.md|Choldrith]]
+# [[5. Mechanics\Bestiary\Monstrosity\Choldrith.md|Choldrith]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 77, Volo's Guide to Monsters p. 132*
 
 Choldriths are monstrous spiderlike creatures originally created to serve Lolth. They rule colonies of chitines (in this book) and lead them into battle in Lolth's war against her enemies.
@@ -52,7 +52,7 @@ Choldriths are born with a mystical connection to Lolth, which gives them divine
     \ ability (spell save DC 12):\n\nAt will: [[5. Mechanics/Spells/Guidance.md|guidance]],\
     \ [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\n1/day each: [[5. Mechanics/Spells/Bane.md|bane]],\
     \ [[5. Mechanics/Spells/Hold Person.md|hold person]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "The choldrith has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
     \ and magic can't put the choldrith to sleep."
   "name": "Fey Ancestry"

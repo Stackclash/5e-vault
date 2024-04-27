@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Stormspeaker
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Stormspeaker.md|Stormspeaker]]
+# [[5. Mechanics\Bestiary\Humanoid\Stormspeaker.md|Stormspeaker]]
 *Source: Strongholds and Followers p. 74*
 
 ```statblock

@@ -17,6 +17,7 @@ aliases:
   - Silence
 ---
 # Silence
+%%-- Embedded content starts on the next line. --%%
 *2nd-level, Illusion (ritual)*  
 
 - **Casting time:** 1 action unless cast as a ritual

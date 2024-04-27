@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Marut
 ---
-# [[5. Mechanics/Bestiary/Construct/Marut.md|Marut]]
+# [[5. Mechanics\Bestiary\Construct\Marut.md|Marut]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 173, Mordenkainen's Tome of Foes p. 213*
 
 The nigh-unstoppable inevitables serve a singular purpose: they enforce contracts forged in the Hall of Concordance in the city of Sigil. Primus, the leader of the modrons, created maruts and other inevitables to bring order to dealings between planar folk. A wide array of disparate creatures, including yugoloths, will enter into a contract with inevitables if asked.
@@ -61,7 +61,7 @@ Inevitables care nothing for the spirit of an agreement, only the letter. A maru
     \ targeted creature must succeed on a DC 20 Charisma saving throw or be banished\
     \ to a teleportation circle in the Hall of Concordance in Sigil.\n\n3/day:\
     \ [[5. Mechanics/Spells/Plane Shift.md|plane shift]]"
-  "name": "spells"
+  "name": "Plane Shift (3/Day)"
 - "desc": "The marut is immune to any spell or effect that would alter its form."
   "name": "Immutable Form"
 - "desc": "If the marut fails a saving throw, it can choose to succeed instead."

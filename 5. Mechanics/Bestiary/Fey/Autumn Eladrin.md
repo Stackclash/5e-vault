@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Autumn Eladrin
 ---
-# [[5. Mechanics/Bestiary/Fey/Autumn Eladrin.md|Autumn Eladrin]]
+# [[5. Mechanics\Bestiary\Fey\Autumn Eladrin.md|Autumn Eladrin]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 115, Mordenkainen's Tome of Foes p. 195*
 
 Eladrin often enter the autumn season when they are overcome by feelings of goodwill. In this aspect, they defuse conflicts and alleviate suffering by using their magic to relieve any ailments that afflict the people who come to them for aid. They tolerate no violence in their presence and move quickly to settle disputes, to ensure that peace continues to reign.
@@ -66,7 +66,7 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
     \ restoration]], [[5. Mechanics/Spells/Revivify.md|revivify]]\n\
     \n2/day each: [[5. Mechanics/Spells/Cure Wounds.md|cure wounds]] (as a 5th-level\
     \ spell), [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "Any non-eladrin creature that starts its turn within 60 feet of the eladrin\
     \ must make a DC 16 Wisdom saving throw. On a failed save, the creature becomes\
     \ [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] by the eladrin for 1 minute.\

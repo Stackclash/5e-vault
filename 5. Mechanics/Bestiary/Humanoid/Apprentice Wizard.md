@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Apprentice Wizard
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Apprentice Wizard.md|Apprentice Wizard]]
+# [[5. Mechanics\Bestiary\Humanoid\Apprentice Wizard.md|Apprentice Wizard]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 259, Volo's Guide to Monsters p. 209*
 
 Apprentices are novice arcane spellcasters who serve more experienced wizards or attend school. They perform menial work like cooking or cleaning in exchange for education in the ways of magic.
@@ -49,7 +49,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
     \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n1/day each:\
     \ [[5. Mechanics/Spells/Burning Hands.md|burning hands]], [[5. Mechanics/Spells/Disguise Self.md|disguise self]],\
     \ [[5. Mechanics/Spells/Mage Armor.md|mage armor]]"
-  "name": "spells"
+  "name": "Spellcasting"
 "actions":
 - "desc": "Melee or Ranged Spell Attack: dice: d20+4 (+4) to hit, reach 5 ft.\
     \ or range 120 ft., one target. Hit: dice:1d10 + 2|text(7) (1d10 + 2) force\

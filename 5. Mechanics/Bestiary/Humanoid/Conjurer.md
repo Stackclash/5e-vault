@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Conjurer
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Conjurer.md|Conjurer]]
+# [[5. Mechanics\Bestiary\Humanoid\Conjurer.md|Conjurer]]
 *Source: Strongholds and Followers p. 80*
 
 ```statblock

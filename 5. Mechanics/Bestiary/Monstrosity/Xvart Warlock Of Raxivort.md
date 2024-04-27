@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Xvart Warlock of Raxivort
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Xvart Warlock Of Raxivort.md|Xvart Warlock of Raxivort]]
+# [[5. Mechanics\Bestiary\Monstrosity\Xvart Warlock Of Raxivort.md|Xvart Warlock of Raxivort]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 267, Volo's Guide to Monsters p. 200*
 
 Some xvarts are spawned with a trace of Raxivort's divine energy. These xvarts usually form a pact with him and wield magic in his service as warlocks.
@@ -51,7 +51,7 @@ Raxivort spent centuries watching over the treasury of Graz'zt, and in time, Rax
     \ (self only), [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]],\
     \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n1/day each:\
     \ [[5. Mechanics/Spells/Burning Hands.md|burning hands]], [[5. Mechanics/Spells/Invisibility.md|invisibility]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "When the xvart reduces an enemy to 0 hit points, the xvart gains 4 temporary\
     \ hit points."
   "name": "Raxivort's Blessing"

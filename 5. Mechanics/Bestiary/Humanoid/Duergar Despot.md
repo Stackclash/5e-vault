@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Duergar Despot
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Duergar Despot.md|Duergar Despot]]
+# [[5. Mechanics\Bestiary\Humanoid\Duergar Despot.md|Duergar Despot]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 107, Mordenkainen's Tome of Foes p. 188*
 
 Duergar despots replace parts of their bodies with mechanical devices that they control through their psionic abilities.
@@ -70,7 +70,7 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
     \ and using Intelligence as the spellcasting ability (spell save DC 12):\n\nAt\
     \ will: [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]]\n\
     \n1/day: [[5. Mechanics/Spells/Stinking Cloud.md|stinking cloud]]"
-  "name": "spells"
+  "name": "Spellcasting (Psionics)"
 - "desc": "The duergar has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"

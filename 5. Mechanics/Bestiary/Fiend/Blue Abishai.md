@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Blue Abishai
 ---
-# [[5. Mechanics/Bestiary/Fiend/Blue Abishai.md|Blue Abishai]]
+# [[5. Mechanics\Bestiary\Fiend\Blue Abishai.md|Blue Abishai]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 39, Mordenkainen's Tome of Foes p. 161*
 
 Seekers of forgotten lore and lost relics, blue abishais are the most cunning and learned of their kind. Their research into occult subjects gleaned from tomes plundered from across the multiverse enables them to become accomplished spellcasters. They use their magic to devastate Tiamat's enemies.
@@ -63,7 +63,7 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
     \n2/day each: [[5. Mechanics/Spells/Charm Person.md|charm person]], [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
     \ [[5. Mechanics/Spells/Greater Invisibility.md|greater invisibility]], [[5. Mechanics/Spells/Wall Of Force.md|wall of\
     \ force]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "Magical darkness doesn't impede the abishai's [[/5. Mechanics/Rules/Senses.md#darkvision|darkvision]]."
   "name": "Devil's Sight"
 - "desc": "The abishai has advantage on saving throws against spells and other magical\

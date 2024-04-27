@@ -17,6 +17,7 @@ aliases:
   - Mage Hand
 ---
 # Mage Hand
+%%-- Embedded content starts on the next line. --%%
 *cantrip, Conjuration*  
 
 - **Casting time:** 1 action

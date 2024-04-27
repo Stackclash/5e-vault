@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Chitine
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Chitine.md|Chitine]]
+# [[5. Mechanics\Bestiary\Monstrosity\Chitine.md|Chitine]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 75, Volo's Guide to Monsters p. 131*
 
 Dedicated to Lolth, chitines are multiarmed bipeds with arachnid qualities. Most live in colonies in the Underdark and fight the enemies of the Demon Queen of Spiders. Long ago, the cult of Lolth first subjected elf prisoners to horrible rituals that transformed them into creatures with both elven and spider traits, which their creators dubbed chitines. The intention was to create servile warriors dedicated first to the cult and then, only by association with it, to Lolth. The goddess found this arrangement unacceptable.

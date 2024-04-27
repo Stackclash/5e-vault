@@ -11,6 +11,7 @@ aliases:
   - Maddening Darkness
 ---
 # Maddening Darkness
+%%-- Embedded content starts on the next line. --%%
 *8th-level, Evocation*  
 
 - **Casting time:** 1 action

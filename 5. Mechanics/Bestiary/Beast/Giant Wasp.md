@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Giant Wasp
 ---
-# [[5. Mechanics/Bestiary/Beast/Giant Wasp.md|Giant Wasp]]
+# [[5. Mechanics\Bestiary\Beast\Giant Wasp.md|Giant Wasp]]
 *Source: Monster Manual p. 329. Available in the SRD and the Basic Rules.*
 
 ```statblock

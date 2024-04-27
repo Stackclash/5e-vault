@@ -19,7 +19,7 @@ statblock: inline
 aliases:
   - Winged Kobold
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Winged Kobold.md|Winged Kobold]]
+# [[5. Mechanics\Bestiary\Humanoid\Winged Kobold.md|Winged Kobold]]
 *Source: Monster Manual p. 195*
 
 Kobolds are craven reptilian humanoids that worship evil dragons as demigods and serve them as minions and toadies. Kobolds inhabit dragons' lairs when they can but more commonly infest dungeons, gathering treasures and trinkets to add to their own tiny hoards.

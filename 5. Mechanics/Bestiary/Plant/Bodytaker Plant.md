@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Bodytaker Plant
 ---
-# [[5. Mechanics/Bestiary/Plant/Bodytaker Plant.md|Bodytaker Plant]]
+# [[5. Mechanics\Bestiary\Plant\Bodytaker Plant.md|Bodytaker Plant]]
 *Source: Van Richten's Guide to Ravenloft p. 226*
 
 Whether hailing from the stars or sprouting from hidden depths, the malicious vegetation known as bodytaker plants seek to become the dominant form of life wherever they appear. These invasive organisms subvert whole societies by consuming individuals and replacing them with duplicates called podlings. Bodytaker plants view themselves as perfect organisms and seek to dominate the lands where they grow. To their minds, a world would be healthier and more efficient were they in control. Anyone who disagrees either lacks perspective or is fit to serve only as fertilizer.

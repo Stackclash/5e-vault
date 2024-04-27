@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Tortle Druid
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Tortle Druid.md|Tortle Druid]]
+# [[5. Mechanics\Bestiary\Humanoid\Tortle Druid.md|Tortle Druid]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 244, Mordenkainen's Tome of Foes p. 242*
 
 Many tortles view the world as a place of wonder. They live for the chance to hear a soft wind blowing through trees, to watch a frog croaking on a lily pad, or to stand in a crowded marketplace. A tortle druid savors such things more than most, channeling the natural magic of the world around them.
@@ -52,7 +52,7 @@ Most tortles like to see how other folk live. A tortle can spend decades away fr
     \ [[5. Mechanics/Spells/Guidance.md|guidance]]\n\n2/day each: [[5. Mechanics/Spells/Cure Wounds.md|cure wounds]],\
     \ [[5. Mechanics/Spells/Hold Person.md|hold person]], [[5. Mechanics/Spells/Speak With Animals.md|speak with animals]],\
     \ [[5. Mechanics/Spells/Thunderwave.md|thunderwave]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "The tortle can hold its breath for 1 hour."
   "name": "Hold Breath"
 "actions":

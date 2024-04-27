@@ -198,7 +198,7 @@ await dv.view("npcRelationships", { current: dv.current() })
     \n8th level (1 slots): [[5. Mechanics/Spells/Incendiary Cloud.md|incendiary cloud]],\
     \ [[5. Mechanics/Spells/Maze.md|maze]]\n\n9th level (1 slots): [[5. Mechanics/Spells/Power Word Kill.md|power word kill]],\
     \ [[5. Mechanics/Spells/Time Stop.md|time stop]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "If Illmarrow fails a saving throw, she can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
 - "desc": "Illmarrow has advantage on saving throws against spells and other magical\

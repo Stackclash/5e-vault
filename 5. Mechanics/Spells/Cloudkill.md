@@ -17,6 +17,7 @@ aliases:
   - Cloudkill
 ---
 # Cloudkill
+%%-- Embedded content starts on the next line. --%%
 *5th-level, Conjuration*  
 ![[5. Mechanics/Spells/img/cloudkill.webp#right]]  
 

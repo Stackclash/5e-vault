@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Oinoloth
 ---
-# [[5. Mechanics/Bestiary/Fiend/Oinoloth.md|Oinoloth]]
+# [[5. Mechanics\Bestiary\Fiend\Oinoloth.md|Oinoloth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 202, Mordenkainen's Tome of Foes p. 251*
 
 Grim specters of death, oinoloths bring pestilence wherever they go. When armies recognize their awful forms, their mere appearance causes soldiers to break ranks and flee, lest they succumb to one of the awful plagues that oinoloths let loose.
@@ -58,7 +58,7 @@ Oinoloths solve thorny problems by killing everyone involved. They are typically
     \ [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[5. Mechanics/Spells/Hold Monster.md|hold monster]],\
     \ [[5. Mechanics/Spells/Invisibility.md|invisibility]] (self only)\n\n1/day each:\
     \ [[5. Mechanics/Spells/Feeblemind.md|feeblemind]], [[5. Mechanics/Spells/Globe Of Invulnerability.md|globe of invulnerability]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "The oinoloth has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"

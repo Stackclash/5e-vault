@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Priest of Osybus
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Priest Of Osybus.md|Priest of Osybus]]
+# [[5. Mechanics\Bestiary\Humanoid\Priest Of Osybus.md|Priest of Osybus]]
 *Source: Van Richten's Guide to Ravenloft p. 241*
 
 Necromancers of deep evil, the priests of Osybus steal the souls of others to fuel the priests' malevolent magic. Using this soul power, each priest can defy death and become an undead creature, potentially cheating the grave over and over.
@@ -41,8 +41,8 @@ When a priest of Osybus drops to 0 hit points, the priest might revive with a be
 | 2 | **Ectoplasmic.** An otherworldly slime drips off the priest and fades away moments later, leaving a greenish stain. When any creature starts its turn within 10 feet of the priest, the priest can reduce that creature's speed by 10 feet until the start of the creature's next turn, until which the creature is covered by ectoplasm. In addition, as an action, the priest can use the slime to make itself look and feel like any creature that is Medium or Small, while retaining its game statistics. This transformation lasts for 8 hours or until the priest drops to 0 hit points. |
 | 3 | **Vampiric.** When the priest deals necrotic damage to any creature, the priest gains a number of temporary hit points equal to half that necrotic damage. The priest's speed also increases by 10 feet. |
 | 4 | **Blazing.** The priest sloughs off its flesh, and its skeleton crumbles away, leaving only its skull. Its stat block is replaced by that of a flameskull, but it retains its Tattoo of Osybus trait, and all fire damage it deals becomes necrotic damage. The Tattoo of Osybus now appears carved into the skull's forehead. |
-| 5 | **Spectral.** The priest now appears wraithlike, and its challenge rating increases by 1. It gains resistance to all damage but force, radiant, and psychic, and it is vulnerable to radiant damage. It can also move through creatures and objects as if they were difficult terrain, but it takes `dice:1d10|text(5)` (`1d10`) force damage if it ends its turn inside a creature or an object. |
-| 6 | **Deathly.** The priest's visage becomes bone white, and its challenge rating increases by 1. It can cast [[5. Mechanics/Spells/Animate Dead.md|animate dead]] and create undead once per day each, using Intelligence as the spellcasting ability, and it gains the following action: Circle of Death (Spell. Each creature in a 60-foot-radius sphere centered on a point the priest can see within 150 feet of it must make a DC 15 Constitution saving throw, taking `dice:8d6|text(28)` (`8d6`) necrotic damage on a failed save, or half as much damage on a successful one. |
+| 5 | **Spectral.** The priest now appears wraithlike, and its challenge rating increases by 1. It gains resistance to all damage but force, radiant, and psychic, and it is vulnerable to radiant damage. It can also move through creatures and objects as if they were difficult terrain, but it takes `dice:1d10\|text(5)` (`1d10`) force damage if it ends its turn inside a creature or an object. |
+| 6 | **Deathly.** The priest's visage becomes bone white, and its challenge rating increases by 1. It can cast [[5. Mechanics/Spells/Animate Dead.md|animate dead]] and create undead once per day each, using Intelligence as the spellcasting ability, and it gains the following action: Circle of Death (Spell. Each creature in a 60-foot-radius sphere centered on a point the priest can see within 150 feet of it must make a DC 15 Constitution saving throw, taking `dice:8d6\|text(28)` (`8d6`) necrotic damage on a failed save, or half as much damage on a successful one. |
 ^boons-of-undeath
 
 ```statblock

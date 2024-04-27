@@ -166,7 +166,7 @@ await dv.view("npcRelationships", { current: dv.current() })
     \n1/day each: [[5. Mechanics/Spells/Feeblemind.md|feeblemind]], [[5. Mechanics/Spells/Project Image.md|project image]]\n\
     \n3/day each: [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[5. Mechanics/Spells/Fear.md|fear]],\
     \ [[5. Mechanics/Spells/Telekinesis.md|telekinesis]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "If Demogorgon fails a saving throw, he can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
 - "desc": "Demogorgon has advantage on saving throws against spells and other magical\

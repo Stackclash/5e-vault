@@ -172,7 +172,7 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ magic]], [[5. Mechanics/Spells/Spirit Guardians.md|spirit guardians]]\n\
     \n1/day each: [[5. Mechanics/Spells/Banishing Smite.md|banishing smite]], [[5. Mechanics/Spells/Blinding Smite.md|blinding\
     \ smite]], [[5. Mechanics/Spells/Staggering Smite.md|staggering smite]]"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "Rak Tulkhesh scores a critical hit on a roll of 19 or 20 and rolls the\
     \ damage dice three times, instead of twice."
   "name": "Deadly Critical"

@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Bone Naga (Guardian)
 ---
-# [[5. Mechanics/Bestiary/Undead/Bone Naga Guardian.md|Bone Naga (Guardian)]]
+# [[5. Mechanics\Bestiary\Undead\Bone Naga Guardian.md|Bone Naga (Guardian)]]
 *Source: Monster Manual p. 233*
 
 In response to the long history of conflict between the yuan-ti and the nagas, yuan-ti created a necromantic ritual that could halt a naga's resurrection by transforming the living naga into a skeletal undead servitor. A bone naga retains only a few of the spells it knew in life.
@@ -69,7 +69,7 @@ A naga doesn't require air, food, drink, or sleep.
     \n2nd level (3 slots): [[5. Mechanics/Spells/Calm Emotions.md|calm emotions]],\
     \ [[5. Mechanics/Spells/Hold Person.md|hold person]]\n\n3rd level (2 slots):\
     \ [[5. Mechanics/Spells/Bestow Curse.md|bestow curse]]"
-  "name": "spells"
+  "name": "Spellcasting"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 10 ft., one creature.\
     \ Hit: dice:2d6 + 3|text(10) (2d6 + 3) piercing damage plus dice:3d6|text(10)\

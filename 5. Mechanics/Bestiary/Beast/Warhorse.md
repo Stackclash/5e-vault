@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Warhorse
 ---
-# [[5. Mechanics/Bestiary/Beast/Warhorse.md|Warhorse]]
+# [[5. Mechanics\Bestiary\Beast\Warhorse.md|Warhorse]]
 *Source: Monster Manual p. 340, Curse of Strahd. Available in the SRD and the Basic Rules.*
 
 ```statblock

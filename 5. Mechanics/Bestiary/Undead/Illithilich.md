@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Illithilich
 ---
-# [[5. Mechanics/Bestiary/Undead/Illithilich.md|Illithilich]]
+# [[5. Mechanics\Bestiary\Undead\Illithilich.md|Illithilich]]
 *Source: Volo's Guide to Monsters p. 172*
 
 Mind flayers that pursue arcane magic are exiled as deviants, and for them no eternal communion with an elder brain is possible. The road to lichdom offers a way to escape the permanency of death, but that path is long and solitary. Alhoons are mind flayers that use a shortcut.
@@ -145,7 +145,7 @@ The lich uses a spell slot to cast a 1st-, 2nd-, or 3rd-level spell that it has 
     \nAt will: [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[5. Mechanics/Spells/Levitate.md|levitate]]\n\
     \n1/day each: [[5. Mechanics/Spells/Dominate Monster.md|dominate monster]], [[5. Mechanics/Spells/Plane Shift.md|plane\
     \ shift]] (self only)"
-  "name": "innate"
+  "name": "Innate Spellcasting (Psionics)"
 - "desc": "The illithilich is an 18th-level spellcaster. Its spellcasting ability\
     \ is Intelligence (spell save DC 20, dice: d20+12 (+12) to hit with spell\
     \ attacks). The lich has the following wizard spells prepared:\n\nCantrips (at\
@@ -166,7 +166,7 @@ The lich uses a spell slot to cast a 1st-, 2nd-, or 3rd-level spell that it has 
     \ [[5. Mechanics/Spells/Plane Shift.md|plane shift]]\n\n8th level (1 slots):\
     \ [[5. Mechanics/Spells/Dominate Monster.md|dominate monster]], [[5. Mechanics/Spells/Power Word Stun.md|power word stun]]\n\
     \n9th level (1 slots): [[5. Mechanics/Spells/Power Word Kill.md|power word kill]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "If the illithilich fails a saving throw, it can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
 - "desc": "If it has a phylactery, a destroyed illithilich gains a new body in dice:\

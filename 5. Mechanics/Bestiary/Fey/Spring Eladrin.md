@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Spring Eladrin
 ---
-# [[5. Mechanics/Bestiary/Fey/Spring Eladrin.md|Spring Eladrin]]
+# [[5. Mechanics\Bestiary\Fey\Spring Eladrin.md|Spring Eladrin]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 116, Mordenkainen's Tome of Foes p. 196*
 
 Their hearts filled with joy, spring eladrin cavort through their sylvan realms, their songs and laughter filling the air. These playful eladrin beguile other creatures to fill them with the joy of spring. Their antics can lead other creatures into danger and make mischief for them.
@@ -65,7 +65,7 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
     \ and using Charisma as the spellcasting ability (spell save DC 16):\n\nAt will:\
     \ [[5. Mechanics/Spells/Tashas Hideous Laughter.md|Tasha's hideous laughter]]\n\n\
     1/day each: [[5. Mechanics/Spells/Major Image.md|major image]], [[5. Mechanics/Spells/Suggestion.md|suggestion]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "Any non-eladrin creature that starts its turn within 60 feet of the eladrin\
     \ must make a DC 16 Wisdom saving throw. On a failed save, the creature becomes\
     \ [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] by the eladrin for 1 minute.\

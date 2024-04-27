@@ -11,6 +11,7 @@ aliases:
   - Hunter's Mark
 ---
 # Hunter's Mark
+%%-- Embedded content starts on the next line. --%%
 *1st-level, Divination*  
 
 - **Casting time:** 1 bonus

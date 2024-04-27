@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Flameskull
 ---
-# [[5. Mechanics/Bestiary/Undead/Flameskull.md|Flameskull]]
+# [[5. Mechanics\Bestiary\Undead\Flameskull.md|Flameskull]]
 *Source: Monster Manual p. 134, Curse of Strahd, Tasha's Cauldron of Everything. Available in the Basic Rules.*
 
 Blazing green flames and mad, echoing laughter follow a disembodied skull as it patrols its demesne. When the undead flameskull discovers trespassers, it blasts the intruders with fiery rays from its eyes and dreadful spells called up from the dark recesses of its memory.
@@ -74,7 +74,7 @@ A flameskull doesn't require air, food, drink, or sleep
     \ [[5. Mechanics/Spells/Shield.md|shield]]\n\n2nd level (2 slots): [[5. Mechanics/Spells/Blur.md|blur]],\
     \ [[5. Mechanics/Spells/Flaming Sphere.md|flaming sphere]]\n\n3rd level (1 slots):\
     \ [[5. Mechanics/Spells/Fireball.md|fireball]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "The flameskull sheds either dim light in a 15-foot radius, or bright light\
     \ in a 15-foot radius and dim light for an additional 15 feet. It can switch between\
     \ the options as an action."

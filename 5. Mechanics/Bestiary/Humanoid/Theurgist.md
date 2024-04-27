@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Theurgist
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Theurgist.md|Theurgist]]
+# [[5. Mechanics\Bestiary\Humanoid\Theurgist.md|Theurgist]]
 *Source: Strongholds and Followers p. 81*
 
 ```statblock

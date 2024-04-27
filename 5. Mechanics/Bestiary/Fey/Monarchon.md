@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Monarchon
 ---
-# [[5. Mechanics/Bestiary/Fey/Monarchon.md|Monarchon]]
+# [[5. Mechanics\Bestiary\Fey\Monarchon.md|Monarchon]]
 *Source: Strongholds and Followers p. 179*
 
 The Monarchon is the embodiment of youth and death, spring and fall. It is gay and sprightly and a harbinger of doom. Once, mortals knew that to gaze upon the death's-head skull of the Monarchon spelled the end. Now, it's been so long since last the Arcadians lived in the Mundane World that mortals must learn these lessons all over again.
@@ -73,7 +73,7 @@ Finally, if she is attacked or otherwise there is great need, she will land and 
 - "desc": "The monarchon's innate spellcasting ability is Wisdom (spell save DC 15).\
     \ The monarchon can innately cast the following spells, requiring no material\
     \ components:\n\nAt will: [[5. Mechanics/Spells/Enthrall.md|enthrall]], [[5. Mechanics/Spells/Sleep.md|sleep]]"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "The Monarchon is a 7th-level spellcaster. Her spellcasting ability is Wisdom\
     \ (spell save DC 15, dice: d20+7 (+7) to hit with spell attacks). The Monarchon\
     \ has the following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Guidance.md|guidance]],\
@@ -84,7 +84,7 @@ Finally, if she is attacked or otherwise there is great need, she will land and 
     \ magic]], [[5. Mechanics/Spells/Revivify.md|revivify]]\n\
     \n4th level (1 slots): [[5. Mechanics/Spells/Banishment.md|banishment]], [[5. Mechanics/Spells/Death Ward.md|death\
     \ ward]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "Magic cannot put the Monarchon to sleep."
   "name": "Fey Ancestry"
 - "desc": "The Monarchon has advantage on saving throws against magic and other magical\
@@ -108,7 +108,7 @@ Finally, if she is attacked or otherwise there is great need, she will land and 
   "name": "Hypnotic Display"
 "source":
 - "SaF"
-"image": "5. Mechanics/Bestiary/Fey/token/monarchon-saf.webp"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Monarchon.png"
 ```
 ^statblock
 

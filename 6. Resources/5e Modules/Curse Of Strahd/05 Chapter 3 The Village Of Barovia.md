@@ -43,9 +43,9 @@ If the characters explore a residence other than [[4. World Almanac/NPCs/Mad Mar
 | dice: d20 | Occupants |
 |-----------|-----------|
 | 1–3 | None |
-| 4–8 | `dice: 2d4\|avg|noform` (`2d4`) [[5. Mechanics/Bestiary/Beast/Swarm Of Rats.md\|swarms of rats]] |
+| 4–8 | `dice: 2d4\|avg\|noform` (`2d4`) [[5. Mechanics/Bestiary/Beast/Swarm Of Rats.md\|swarms of rats]] |
 | 9–16 | Barovian villagers |
-| 17–20 | `dice: 2d4\|avg|noform` (`2d4`) [[5. Mechanics/Bestiary/Undead/Strahd Zombie.md\|Strahd zombies]] (see appendix D) |
+| 17–20 | `dice: 2d4\|avg\|noform` (`2d4`) [[5. Mechanics/Bestiary/Undead/Strahd Zombie.md\|Strahd zombies]] (see appendix D) |
 ^occupants-of-houses-in-barovia
 
 #### Rats

@@ -10,6 +10,7 @@ aliases:
   - Simulacrum
 ---
 # Simulacrum
+%%-- Embedded content starts on the next line. --%%
 *7th-level, Illusion*  
 
 - **Casting time:** 12 hour

@@ -166,7 +166,7 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ [[5. Mechanics/Spells/Fly.md|fly]], [[5. Mechanics/Spells/Major Image.md|major image]],\
     \ [[5. Mechanics/Spells/Stinking Cloud.md|stinking cloud]], [[5. Mechanics/Spells/Suggestion.md|suggestion]],\
     \ [[5. Mechanics/Spells/Wall Of Fire.md|wall of fire]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "If Moloch fails a saving throw, he can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
 - "desc": "Moloch has advantage on saving throws against spells and other magical\

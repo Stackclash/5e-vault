@@ -12,6 +12,7 @@ aliases:
   - Dispel Evil and Good
 ---
 # Dispel Evil and Good
+%%-- Embedded content starts on the next line. --%%
 *5th-level, Abjuration*  
 
 - **Casting time:** 1 action

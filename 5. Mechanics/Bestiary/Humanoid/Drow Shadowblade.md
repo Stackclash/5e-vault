@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Drow Shadowblade
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Drow Shadowblade.md|Drow Shadowblade]]
+# [[5. Mechanics\Bestiary\Humanoid\Drow Shadowblade.md|Drow Shadowblade]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 105, Mordenkainen's Tome of Foes p. 187*
 
 Drow shadowblades steal down the dim passages of the Underdark, bound on errands of mayhem. They protect enclaves and Underdark cities from enemies and track down thieves who make off with prized treasures. In the city of Menzoberranzan in the Forgotten Realms, noble houses often employ shadowblades to eliminate rivals from other houses. In communities free of Lolth's sway, they serve as spies tasked with foiling the plots of that demon lord's cult. In any role they take on, they move undetected until the moment they attack—and then they are the last thing their victims see.
@@ -52,7 +52,7 @@ A shadowblade gains their powers over shadow via a ritual in which they kill a s
     \ [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]], [[5. Mechanics/Spells/Darkness.md|darkness]]\n\
     \n1/day each: [[5. Mechanics/Spells/Faerie Fire.md|faerie fire]], [[5. Mechanics/Spells/Levitate.md|levitate]]\
     \ (self only)"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "Magical darkness doesn't impede the drow's [[/5. Mechanics/Rules/Senses.md#darkvision|darkvision]]."
   "name": "Devil's Sight"
 - "desc": "The drow has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\

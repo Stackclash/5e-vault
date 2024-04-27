@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Mind Flayer
 ---
-# [[5. Mechanics/Bestiary/Aberration/Mind Flayer.md|Mind Flayer]]
+# [[5. Mechanics\Bestiary\Aberration\Mind Flayer.md|Mind Flayer]]
 *Source: Monster Manual p. 222, Eberron: Rising from the Last War, Tasha's Cauldron of Everything*
 
 Mind flayers, also called illithids, are the scourge of sentient creatures across countless worlds. Psionic tyrants, slavers, and interdimensional voyagers, they are insidious masterminds that harvest entire races for their own twisted ends. Four tentacles snake from their octopus-like heads, flexing in hungry anticipation when sentient creatures come near.
@@ -78,7 +78,7 @@ An illithid experiences euphoria as it devours the brain of a humanoid, along wi
     \nAt will: [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[5. Mechanics/Spells/Levitate.md|levitate]]\n\
     \n1/day each: [[5. Mechanics/Spells/Dominate Monster.md|dominate monster]], [[5. Mechanics/Spells/Plane Shift.md|plane\
     \ shift]] (self only)"
-  "name": "innate"
+  "name": "Innate Spellcasting (Psionics)"
 - "desc": "The mind flayer has advantage on saving throws against spells and other\
     \ magical effects."
   "name": "Magic Resistance"

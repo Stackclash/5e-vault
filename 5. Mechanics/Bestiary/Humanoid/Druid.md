@@ -19,7 +19,7 @@ statblock: inline
 aliases:
   - Druid
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Druid.md|Druid]]
+# [[5. Mechanics\Bestiary\Humanoid\Druid.md|Druid]]
 *Source: Monster Manual p. 346, Curse of Strahd. Available in the SRD.*
 
 Druids dwell in forests and other secluded wilderness locations, where they protect the natural world from monsters and the encroachment of civilization. Some are tribal shamans who heal the sick, pray to animal spirits, and provide spiritual guidance.
@@ -58,7 +58,7 @@ Druids dwell in forests and other secluded wilderness locations, where they prot
     \ [[5. Mechanics/Spells/Speak With Animals.md|speak with animals]], [[5. Mechanics/Spells/Thunderwave.md|thunderwave]]\n\
     \n2nd level (3 slots): [[5. Mechanics/Spells/Animal Messenger.md|animal messenger]],\
     \ [[5. Mechanics/Spells/Barkskin.md|barkskin]]"
-  "name": "spells"
+  "name": "Spellcasting"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+2 (+2) to hit (dice: d20+4 (+4)\
     \ to hit with shillelagh), reach 5 ft., one target. Hit: dice:1d6|text(3)\

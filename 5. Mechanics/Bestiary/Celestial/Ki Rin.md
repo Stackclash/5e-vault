@@ -14,7 +14,7 @@ statblock: inline
 aliases:
   - Ki-rin
 ---
-# [[5. Mechanics/Bestiary/Celestial/Ki Rin.md|Ki-rin]]
+# [[5. Mechanics\Bestiary\Celestial\Ki Rin.md|Ki-rin]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 162, Volo's Guide to Monsters p. 163*
 
 Ki-rins are noble, celestial creatures. In the Outer Planes, ki-rins in service to benevolent deities take a direct role in the eternal struggle between good and evil. In the mortal world, ki-rins are celebrated far and wide as harbingers of destiny, guardians of the sacred, and counterbalances to the forces of evil.
@@ -71,7 +71,7 @@ When viewed from the outside, a ki-rin's lair is indistinguishable from a natura
     \ [[5. Mechanics/Spells/Revivify.md|revivify]], [[5. Mechanics/Spells/Wind Walk.md|wind walk]]\n\
     \n3/day each: [[5. Mechanics/Spells/Cure Wounds.md|cure wounds]], [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
     \ [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]], [[5. Mechanics/Spells/Sending.md|sending]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "If the ki-rin fails a saving throw, it can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
 - "desc": "The ki-rin has advantage on saving throws against spells and other magical\

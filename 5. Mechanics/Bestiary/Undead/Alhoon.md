@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Alhoon
 ---
-# [[5. Mechanics/Bestiary/Undead/Alhoon.md|Alhoon]]
+# [[5. Mechanics\Bestiary\Undead\Alhoon.md|Alhoon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 43, Volo's Guide to Monsters p. 172*
 
 > [!quote]- A quote from Mordenkainen  
@@ -89,7 +89,7 @@ Destroying a periapt of mind trapping consigns those trapped within it to oblivi
     \ of invulnerability]], [[5. Mechanics/Spells/Invisibility.md|invisibility]],\
     \ [[5. Mechanics/Spells/Modify Memory.md|modify memory]], [[5. Mechanics/Spells/Plane Shift.md|plane shift]]\
     \ (self only), [[5. Mechanics/Spells/Wall Of Force.md|wall of force]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "The alhoon has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"

@@ -14,7 +14,7 @@ statblock: inline
 aliases:
   - Couatl
 ---
-# [[5. Mechanics/Bestiary/Celestial/Couatl.md|Couatl]]
+# [[5. Mechanics\Bestiary\Celestial\Couatl.md|Couatl]]
 *Source: Monster Manual p. 43. Available in the SRD.*
 
 Couatls are benevolent serpentine beings of great intellect and insight. Their brilliantly colored wings and gentle manner speak to their celestial origins.
@@ -70,7 +70,7 @@ The mating ritual of couatls is a beautiful and elaborate dance of magic and lig
     \ [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]], [[5. Mechanics/Spells/Protection From Poison.md|protection from\
     \ poison]], [[5. Mechanics/Spells/Sanctuary.md|sanctuary]],\
     \ [[5. Mechanics/Spells/Shield.md|shield]]"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "The couatl's weapon attacks are magical."
   "name": "Magic Weapons"
 - "desc": "The couatl is immune to scrying and to any effect that would sense its\

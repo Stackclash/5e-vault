@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Camel
 ---
-# [[5. Mechanics/Bestiary/Beast/Camel.md|Camel]]
+# [[5. Mechanics\Bestiary\Beast\Camel.md|Camel]]
 *Source: Monster Manual p. 320. Available in the SRD and the Basic Rules.*
 
 ```statblock

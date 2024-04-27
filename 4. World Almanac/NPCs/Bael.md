@@ -160,7 +160,7 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ [[5. Mechanics/Spells/Major Image.md|major image]]\n\n1/day: [[5. Mechanics/Spells/Dominate Monster.md|dominate monster]]\n\
     \n3/day each: [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[5. Mechanics/Spells/Fly.md|fly]],\
     \ [[5. Mechanics/Spells/Suggestion.md|suggestion]], [[5. Mechanics/Spells/Wall Of Fire.md|wall of fire]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "Any creature, other than a devil, that starts its turn within 10 feet of\
     \ Bael must succeed on a DC 22 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
     \ of him until the start of its next turn. A creature succeeds on this saving\

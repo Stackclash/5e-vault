@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Deep Gnome (Svirfneblin)
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Deep Gnome Svirfneblin.md|Deep Gnome (Svirfneblin)]]
+# [[5. Mechanics\Bestiary\Humanoid\Deep Gnome Svirfneblin.md|Deep Gnome (Svirfneblin)]]
 *Source: Monster Manual p. 164. Available in the SRD.*
 
 Deep gnomes, or svirfneblin, live far below the world's surface in twisting warrens and sculpted caverns. They survive by virtue of their stealth, cleverness, and tenacity. Their gray skin allows them to blend in with surrounding stonework. They are also surprisingly heavy and strong for their size. An average adult weighs 100 to 120 pounds and stands 3 feet tall.
@@ -61,7 +61,7 @@ Deep gnomes are often encountered in the company of creatures from the Elemental
     \nAt will: [[5. Mechanics/Spells/Nondetection.md|nondetection]] (self only)\n\
     \n1/day each: [blindness/deafness](compendium/spells/blindness-deafness.md),\
     \ [[5. Mechanics/Spells/Blur.md|blur]], [[5. Mechanics/Spells/Disguise Self.md|disguise self]]"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "The gnome has advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]])\
     \ checks made to hide in rocky terrain."
   "name": "Stone Camouflage"

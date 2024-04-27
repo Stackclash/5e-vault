@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Female Steeder
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Female Steeder.md|Female Steeder]]
+# [[5. Mechanics\Bestiary\Monstrosity\Female Steeder.md|Female Steeder]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 231, Mordenkainen's Tome of Foes p. 238*
 
 ## Steeders

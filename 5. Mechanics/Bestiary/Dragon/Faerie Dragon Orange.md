@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Faerie Dragon (Orange)
 ---
-# [[5. Mechanics/Bestiary/Dragon/Faerie Dragon Orange.md|Faerie Dragon (Orange)]]
+# [[5. Mechanics\Bestiary\Dragon\Faerie Dragon Orange.md|Faerie Dragon (Orange)]]
 *Source: Monster Manual p. 133*
 
 A faerie dragon is a cat-sized dragon with butterfly wings. It wears a sharp-toothed grin and expresses its delight by the twitching of its tail, its merriment fading only if it is attacked.
@@ -69,7 +69,7 @@ CR 1 (200 XP) For a red, orange, or yellow faerie dragon; 2 (450 XP) for a green
     \ It can innately cast a number of spells, requiring no material components:\n\
     \n1/day each: [[5. Mechanics/Spells/Color Spray.md|color spray]], [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]],\
     \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]]"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "A faerie dragon's scales change hue as it ages, moving through all the\
     \ colors of the rainbow. All faerie dragons have innate spellcasting ability,\
     \ gaining new spells as they mature.\n\nRed—5 years or less\n\nOrange—6–10 years\n\

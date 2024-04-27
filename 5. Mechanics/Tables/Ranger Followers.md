@@ -15,9 +15,9 @@ aliases:
 
 | dice: d100 | Follower |
 |------------|----------|
-| 01–04 | Regular Light Archers (Size `dice: 1d6\|avg|noform` (`1d6`)), Unit |
-| 05–07 | Seasoned Light Archers (Size `dice: 1d6\|avg|noform` (`1d6`)), Unit |
-| 08–10 | Seasoned Light Airborne (Size `dice: 1d6\|avg|noform` (`1d6`)), Unit |
+| 01–04 | Regular Light Archers (Size `dice: 1d6\|avg\|noform` (`1d6`)), Unit |
+| 05–07 | Seasoned Light Archers (Size `dice: 1d6\|avg\|noform` (`1d6`)), Unit |
+| 08–10 | Seasoned Light Airborne (Size `dice: 1d6\|avg\|noform` (`1d6`)), Unit |
 | 11–12 | [[5. Mechanics/Bestiary/Humanoid/Thaumaturgist.md\|Thaumaturgist]] (3rd Level), Retainer |
 | 13–14 | [[5. Mechanics/Bestiary/Humanoid/Stormspeaker.md\|Stormspeaker]] (3rd Level), Retainer |
 | 15–16 | [[5. Mechanics/Bestiary/Humanoid/Warden.md\|Warden]] (3rd Level), Retainer |

@@ -160,7 +160,7 @@ await dv.view("npcRelationships", { current: dv.current() })
     7th level (1 slots): [[5. Mechanics/Spells/Mordenkainens Magnificent Mansion.md|Mordenkainen's magnificent mansion]]\n\
     \n8th level (1 slots): [[5. Mechanics/Spells/Mind Blank.md|mind blank]]\n\n9th\
     \ level (1 slots): [[5. Mechanics/Spells/Time Stop.md|time stop]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "The Mad Mage has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"

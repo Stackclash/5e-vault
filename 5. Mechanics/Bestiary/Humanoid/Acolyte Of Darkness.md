@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Acolyte of Darkness
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Acolyte Of Darkness.md|Acolyte of Darkness]]
+# [[5. Mechanics\Bestiary\Humanoid\Acolyte Of Darkness.md|Acolyte of Darkness]]
 *Source: Strongholds and Followers p. 76*
 
 ```statblock

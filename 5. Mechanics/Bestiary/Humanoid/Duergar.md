@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Duergar
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Duergar.md|Duergar]]
+# [[5. Mechanics\Bestiary\Humanoid\Duergar.md|Duergar]]
 *Source: Monster Manual p. 122. Available in the SRD.*
 
 The tyrannical duergar, also known as gray dwarves, dwell in fantastic cities deep in the Underdark. Using ancient dwarven knowledge and myriad slaves, they work tirelessly to expand their subterranean kingdoms.

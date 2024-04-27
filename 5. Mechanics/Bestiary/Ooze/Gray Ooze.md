@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Gray Ooze
 ---
-# [[5. Mechanics/Bestiary/Ooze/Gray Ooze.md|Gray Ooze]]
+# [[5. Mechanics\Bestiary\Ooze\Gray Ooze.md|Gray Ooze]]
 *Source: Monster Manual p. 243, Curse of Strahd. Available in the SRD.*
 
 A gray ooze is stone turned to liquid by chaos. When it moves, it slithers like a liquid snake, rising to strike.

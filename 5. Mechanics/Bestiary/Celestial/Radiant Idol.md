@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Radiant Idol
 ---
-# [[5. Mechanics/Bestiary/Celestial/Radiant Idol.md|Radiant Idol]]
+# [[5. Mechanics\Bestiary\Celestial\Radiant Idol.md|Radiant Idol]]
 *Source: Eberron: Rising from the Last War p. 308*
 
 A radiant idol was an angel that was banished from the celestial realm of Syrania and cast down to the Material Plane. One sin led to their fall: the desire to be worshiped by mortals. Now in the mortal realm, most radiant idols gather cults of devoted followers.
@@ -66,7 +66,7 @@ A radiant idol doesn't require food, drink, or sleep.
     \ [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\n1/day each: [[5. Mechanics/Spells/Commune.md|commune]],\
     \ [[5. Mechanics/Spells/Dominate Person.md|dominate person]], [[5. Mechanics/Spells/Insect Plague.md|insect plague]],\
     \ [[5. Mechanics/Spells/Mass Suggestion.md|mass suggestion]], [[5. Mechanics/Spells/Raise Dead.md|raise dead]]"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "A creature that starts its turn within 30 feet of the radiant idol must\
     \ make a DC 17 Wisdom saving throw, provided the radiant idol isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]].\
     \ On a failed save, the creature is [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\

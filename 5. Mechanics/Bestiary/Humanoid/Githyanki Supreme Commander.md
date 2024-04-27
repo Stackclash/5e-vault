@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Githyanki Supreme Commander
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Githyanki Supreme Commander.md|Githyanki Supreme Commander]]
+# [[5. Mechanics\Bestiary\Humanoid\Githyanki Supreme Commander.md|Githyanki Supreme Commander]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 141, Mordenkainen's Tome of Foes p. 206*
 
 Supreme commanders lead armies, each one commanding ten kith'raks, who in turn lead the rest of their forces. Most supreme commanders ride [[5. Mechanics/Bestiary/Dragon/Adult Red Dragon.md|red dragons]] into battle.
@@ -58,7 +58,7 @@ Githyanki descend from an ancient people who were also the progenitors of githze
     \ [[5. Mechanics/Spells/Plane Shift.md|plane shift]], [[5. Mechanics/Spells/Telekinesis.md|telekinesis]]\n\
     \n3/day each: [[5. Mechanics/Spells/Levitate.md|levitate]] (self only), [[5. Mechanics/Spells/Nondetection.md|nondetection]]\
     \ (self only)"
-  "name": "spells"
+  "name": "Spellcasting (Psionics)"
 - "desc": "If the githyanki fails a saving throw, it can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
 "actions":

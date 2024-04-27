@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Warforged Colossus
 ---
-# [[5. Mechanics/Bestiary/Construct/Warforged Colossus.md|Warforged Colossus]]
+# [[5. Mechanics\Bestiary\Construct\Warforged Colossus.md|Warforged Colossus]]
 *Source: Eberron: Rising from the Last War p. 314*
 
 In the final days of the Last War, House Cannith unleashed its mightiest creations: the warforged colossi. These enormous mechanical warriors thundered across Cyre, crushing everything in their paths and leaving ruin behind them. Meant to end the war decisively, the colossi pulverized hundreds of soldiers beneath their feet and incinerated whole legions with beams of fiery light that shot from their mouths. This rampage was cut short on the Day of Mourning. The arcane cataclysm that engulfed Cyre destroyed most of the warforged colossi, causing them to collapse into lifeless heaps.

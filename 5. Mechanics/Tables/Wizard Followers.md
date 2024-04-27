@@ -15,12 +15,12 @@ aliases:
 
 | dice: d100 | Follower |
 |------------|----------|
-| 01–03 | Regular Light Infantry (Size `dice: 1d6\|avg|noform` (`1d6`)), Unit |
-| 04–06 | Regular Medium Infantry (Size `dice: 1d4\|avg|noform` (`1d4`)), Unit |
-| 07–09 | Regular Light Archers (Size `dice: 1d6\|avg|noform` (`1d6`)), Unit |
-| 10–11 | Regular Medium Archers (Size `dice: 1d4\|avg|noform` (`1d4`)), Unit |
-| 12–13 | Regular Light Airborne (Size `dice: 1d4\|avg|noform` (`1d4`)), Unit |
-| 14–15 | Regular Medium Airborne (Size `dice: 1d4\|avg|noform` (`1d4`)), Unit |
+| 01–03 | Regular Light Infantry (Size `dice: 1d6\|avg\|noform` (`1d6`)), Unit |
+| 04–06 | Regular Medium Infantry (Size `dice: 1d4\|avg\|noform` (`1d4`)), Unit |
+| 07–09 | Regular Light Archers (Size `dice: 1d6\|avg\|noform` (`1d6`)), Unit |
+| 10–11 | Regular Medium Archers (Size `dice: 1d4\|avg\|noform` (`1d4`)), Unit |
+| 12–13 | Regular Light Airborne (Size `dice: 1d4\|avg\|noform` (`1d4`)), Unit |
+| 14–15 | Regular Medium Airborne (Size `dice: 1d4\|avg\|noform` (`1d4`)), Unit |
 | 16 | [[5. Mechanics/Bestiary/Humanoid/Swordmaster.md\|Swordmaster]] (3rd Level), Retainer |
 | 17 | [[5. Mechanics/Bestiary/Humanoid/Spirit Warden.md\|Spirit Warden]] (3rd Level), Retainer |
 | 18 | [[5. Mechanics/Bestiary/Humanoid/Mystic.md\|Mystic]] (3rd Level), Retainer |

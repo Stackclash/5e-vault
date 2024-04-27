@@ -12,6 +12,7 @@ aliases:
   - Mass Polymorph
 ---
 # Mass Polymorph
+%%-- Embedded content starts on the next line. --%%
 *9th-level, Transmutation*  
 
 - **Casting time:** 1 action

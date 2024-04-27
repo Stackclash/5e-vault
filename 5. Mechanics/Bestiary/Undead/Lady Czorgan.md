@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Lady Czorgan
 ---
-# [[5. Mechanics/Bestiary/Undead/Lady Czorgan.md|Lady Czorgan]]
+# [[5. Mechanics\Bestiary\Undead\Lady Czorgan.md|Lady Czorgan]]
 *Source: Strongholds and Followers p. 258*
 
 ```statblock
@@ -49,7 +49,7 @@ aliases:
     \ weapon]]\n\n3rd level (3 slots): [[5. Mechanics/Spells/Dispel Magic.md|dispel\
     \ magic]], [[5. Mechanics/Spells/Vampiric Touch.md|vampiric touch]]\n\
     \n4th level (1 slots): [[5. Mechanics/Spells/Banishment.md|banishment]], [[5. Mechanics/Spells/Blight.md|blight]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "Lady Czorgan has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"

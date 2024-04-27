@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Swarm of Cranium Rats
 ---
-# [[5. Mechanics/Bestiary/Aberration/Swarm Of Cranium Rats.md|Swarm of Cranium Rats]]
+# [[5. Mechanics\Bestiary\Aberration\Swarm Of Cranium Rats.md|Swarm of Cranium Rats]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 83, Volo's Guide to Monsters p. 133*
 
 ## Cranium Rat
@@ -51,7 +51,7 @@ A single cranium rat uses its natural telepathy to communicate hunger, fear, and
     \ as the spellcasting ability (spell save DC 13):\n\nAt will: [[5. Mechanics/Spells/Command.md|command]],\
     \ [[5. Mechanics/Spells/Comprehend Languages.md|comprehend languages]], [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]]\n\
     \n1/day each: [[5. Mechanics/Spells/Confusion.md|confusion]], [[5. Mechanics/Spells/Dominate Monster.md|dominate monster]]"
-  "name": "spells"
+  "name": "Spellcasting (Psionics)"
 - "desc": "The swarm can occupy another creature's space and vice versa, and the swarm\
     \ can move through any opening large enough for a Tiny rat. The swarm can't regain\
     \ hit points or gain temporary hit points."

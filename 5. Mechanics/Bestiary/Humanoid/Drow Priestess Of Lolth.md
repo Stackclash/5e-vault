@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Drow Priestess of Lolth
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Drow Priestess Of Lolth.md|Drow Priestess of Lolth]]
+# [[5. Mechanics\Bestiary\Humanoid\Drow Priestess Of Lolth.md|Drow Priestess of Lolth]]
 *Source: Monster Manual p. 129*
 
 Female drow with blood ties to a noble house are molded and trained from birth to become priestesses of Lolth. The Spider Queen doesn't allow male drow to hold such positions.
@@ -108,7 +108,7 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
     \ will: [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]]\n\n1/day each:\
     \ [[5. Mechanics/Spells/Darkness.md|darkness]], [[5. Mechanics/Spells/Faerie Fire.md|faerie fire]],\
     \ [[5. Mechanics/Spells/Levitate.md|levitate]] (self only)"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "The drow is a 10th-level spellcaster. Her spellcasting ability is Wisdom\
     \ (save DC 14, dice: d20+6 (+6) to hit with spell attacks). The drow has the\
     \ following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Guidance.md|guidance]],\
@@ -124,7 +124,7 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
     \n4th level (3 slots): [[5. Mechanics/Spells/Divination.md|divination]], [[5. Mechanics/Spells/Freedom Of Movement.md|freedom\
     \ of movement]]\n\n5th level (2 slots):\
     \ [[5. Mechanics/Spells/Insect Plague.md|insect plague]], [[5. Mechanics/Spells/Mass Cure Wounds.md|mass cure wounds]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "The drow has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
     \ and magic can't put the drow to sleep."
   "name": "Fey Ancestry"

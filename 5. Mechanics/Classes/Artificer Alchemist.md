@@ -53,10 +53,10 @@ You can create additional *experimental elixirs* by expending a spell slot of 1s
 
 | dice: d6 | Effect |
 |----------|--------|
-| 1 | **Healing**. The drinker regains a number of hit points equal to `dice: 2d4\|avg|noform` (`2d4`) + your Intelligence modifier. |
+| 1 | **Healing**. The drinker regains a number of hit points equal to `dice: 2d4\|avg\|noform` (`2d4`) + your Intelligence modifier. |
 | 2 | **Swiftness**. The drinker's walking speed increases by 10 feet for 1 hour. |
 | 3 | **Resilience**. The drinker gains a +1 bonus to AC for 10 minutes. |
-| 4 | **Boldness**. The drinker can roll a `dice: d4\|avg|noform` (`d4`) and add the number rolled to every attack roll and saving throw they make for the next minute. |
+| 4 | **Boldness**. The drinker can roll a `dice: d4\|avg\|noform` (`d4`) and add the number rolled to every attack roll and saving throw they make for the next minute. |
 | 5 | **Flight**. The drinker gains a flying speed of 10 feet for 10 minutes. |
 | 6 | **Transformation**. The drinker's body is transformed as if by the [[5. Mechanics/Spells/Alter Self.md\|alter self]] spell. The drinker determines the transformation caused by the spell, the effects of which last for 10 minutes. |
 ^experimental-elixir

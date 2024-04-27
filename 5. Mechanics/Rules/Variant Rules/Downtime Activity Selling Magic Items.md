@@ -25,10 +25,10 @@ You determine a buyer's identity. Buyers sometimes procure rare and very rare it
 
 | Rarity | Base Price | Days to Find Buyer | d100 Roll Modifier* |
 |--------|------------|--------------------|---------------------|
-| Common | 100 gp | `dice: 1d4\|avg|noform` (`1d4`) | +10 |
-| Uncommon | 500 gp | `dice: 1d6\|avg|noform` (`1d6`) | +0 |
-| Rare | 5,000 gp | `dice: 1d8\|avg|noform` (`1d8`) | -10 |
-| Very rare | 50,000 gp | `dice: 1d10\|avg|noform` (`1d10`) | -20 |
+| Common | 100 gp | `dice: 1d4\|avg\|noform` (`1d4`) | +10 |
+| Uncommon | 500 gp | `dice: 1d6\|avg\|noform` (`1d6`) | +0 |
+| Rare | 5,000 gp | `dice: 1d8\|avg\|noform` (`1d8`) | -10 |
+| Very rare | 50,000 gp | `dice: 1d10\|avg\|noform` (`1d10`) | -20 |
 ^salable-magic-items
 
 *Apply this modifier to rolls on the Selling a Magic Item table.

@@ -13,6 +13,7 @@ aliases:
   - Cornucopia
 ---
 # Cornucopia
+%%-- Embedded content starts on the next line. --%%
 *5th-level, Transmutation (ritual)*  
 
 - **Casting time:** 10 minute unless cast as a ritual

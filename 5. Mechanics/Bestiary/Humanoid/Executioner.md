@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Executioner
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Executioner.md|Executioner]]
+# [[5. Mechanics\Bestiary\Humanoid\Executioner.md|Executioner]]
 *Source: Strongholds and Followers p. 78*
 
 ```statblock

@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Mezzoloth
 ---
-# [[5. Mechanics/Bestiary/Fiend/Mezzoloth.md|Mezzoloth]]
+# [[5. Mechanics\Bestiary\Fiend\Mezzoloth.md|Mezzoloth]]
 *Source: Monster Manual p. 313*
 
 The bulk of the yugoloth population is made up of mezzoloths, which are human-sized insect creatures covered in dense chitinous plates. Mezzoloths serve as foot soldiers in yugoloth armies, their wide-set eyes glowing red as the mezzoloths bear down on their foes.
@@ -100,7 +100,7 @@ Whatever the case, no fiend finds the General unless the General desires it. His
     \ 11). The mezzoloth can innately cast the following spells, requiring no material\
     \ components:\n\n1/day: [[5. Mechanics/Spells/Cloudkill.md|cloudkill]]\n\n2/day\
     \ each: [[5. Mechanics/Spells/Darkness.md|darkness]], [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]]"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "The mezzoloth has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"

@@ -13,6 +13,7 @@ aliases:
   - Animal Messenger
 ---
 # Animal Messenger
+%%-- Embedded content starts on the next line. --%%
 *2nd-level, Enchantment (ritual)*  
 
 - **Casting time:** 1 action unless cast as a ritual

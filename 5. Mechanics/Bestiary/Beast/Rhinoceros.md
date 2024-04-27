@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Rhinoceros
 ---
-# [[5. Mechanics/Bestiary/Beast/Rhinoceros.md|Rhinoceros]]
+# [[5. Mechanics\Bestiary\Beast\Rhinoceros.md|Rhinoceros]]
 *Source: Monster Manual p. 336. Available in the SRD and the Basic Rules.*
 
 ```statblock

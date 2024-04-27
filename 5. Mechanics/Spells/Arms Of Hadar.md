@@ -11,6 +11,7 @@ aliases:
   - Arms of Hadar
 ---
 # Arms of Hadar
+%%-- Embedded content starts on the next line. --%%
 *1st-level, Conjuration*  
 
 - **Casting time:** 1 action

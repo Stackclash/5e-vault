@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Alicorn
 ---
-# [[5. Mechanics/Bestiary/Celestial/Alicorn.md|Alicorn]]
+# [[5. Mechanics\Bestiary\Celestial\Alicorn.md|Alicorn]]
 *Source: Strongholds and Followers p. 55*
 
 Natives of Arcadia, the winged [[5. Mechanics/Bestiary/Celestial/Unicorn.md|unicorn]] (not to be confused with the horned [[5. Mechanics/Bestiary/Celestial/Pegasus.md|pegasus]]) can be summoned by a particularly devout paladin to serve as their mount. They do not particularly like the Mundane World, but they enjoy and find satisfaction in hunting evil and chaos. They will serve as mount and companion to a holy knight only so long as it brings the opportunity to smash evil, a sport they are denied on their home plane.
@@ -50,7 +50,7 @@ Natives of Arcadia, the winged [[5. Mechanics/Bestiary/Celestial/Unicorn.md|unic
     \ [[5. Mechanics/Spells/Druidcraft.md|druidcraft]], [[5. Mechanics/Spells/Pass Without Trace.md|pass without trace]]\n\
     \n1/day each: [[5. Mechanics/Spells/Calm Emotions.md|calm emotions]], [[5. Mechanics/Spells/Dispel Evil And Good.md|dispel\
     \ evil and good]], [[5. Mechanics/Spells/Entangle.md|entangle]]"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "If the alicorn moves at least 20 feet straight toward a target and then\
     \ hits it with a horn attack on the same turn, the target takes an extra dice:2d8|text(9)\
     \ (2d8) piercing damage. If the target is a creature, it must succeed on a DC\

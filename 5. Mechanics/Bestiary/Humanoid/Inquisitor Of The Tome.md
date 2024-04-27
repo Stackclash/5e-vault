@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Inquisitor of the Tome
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Inquisitor Of The Tome.md|Inquisitor of the Tome]]
+# [[5. Mechanics\Bestiary\Humanoid\Inquisitor Of The Tome.md|Inquisitor of the Tome]]
 *Source: Van Richten's Guide to Ravenloft p. 249*
 
 "Evil lurks everywhere. With our minds, we will unearth it, we will plumb its depths, and we will annihilate it." With those words, the psychically gifted priest Ulmed founded the Ulmist Inquisition, an order of psionic inquisitors that seeks to discover the wickedness hiding in people's souls.
@@ -58,7 +58,7 @@ Today the inquisition rules the city of Malitain, a vast city-state to the north
     \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Sending.md|sending]]\n\
     \n1/day each: [[5. Mechanics/Spells/Otilukes Resilient Sphere.md|Otiluke's resilient sphere]],\
     \ [[5. Mechanics/Spells/Telekinesis.md|telekinesis]]"
-  "name": "innate"
+  "name": "Innate Spellcasting (Psionics)"
 "actions":
 - "desc": "The inquisitor attacks twice."
   "name": "Multiattack"

@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Retriever
 ---
-# [[5. Mechanics/Bestiary/Construct/Retriever.md|Retriever]]
+# [[5. Mechanics\Bestiary\Construct\Retriever.md|Retriever]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 209, Mordenkainen's Tome of Foes p. 222*
 
 The retriever is a potent, spider-like Construct conceived and built by Underdark followers of Lolth for one original purpose—to prowl the Abyss and capture demons for these cultists to enslave or use in their rituals. The automatons proved so effective and so fearsome that they now perform many different missions.
@@ -58,7 +58,7 @@ Though retrievers were created to operate only in the Abyss, they are sometimes 
     \n3/day each: [[5. Mechanics/Spells/Plane Shift.md|plane shift]] (only self and\
     \ up to one incapacitated creature, which is considered willing for the spell),\
     \ [[5. Mechanics/Spells/Web.md|web]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "The retriever is given a quarry by its master. The quarry can be a specific\
     \ creature or object the master is personally acquainted with, or it can be a\
     \ general type of creature or object the master has seen before. The retriever\

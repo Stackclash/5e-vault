@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Young Red Shadow Dragon
 ---
-# [[5. Mechanics/Bestiary/Dragon/Young Red Shadow Dragon.md|Young Red Shadow Dragon]]
+# [[5. Mechanics\Bestiary\Dragon\Young Red Shadow Dragon.md|Young Red Shadow Dragon]]
 *Source: Monster Manual p. 85*
 
 Shadow dragons are true dragons that were either born in the Shadowfell or transformed by years spent within its dismal confines. Some shadow dragons embrace the Shadowfell for its bleak landscapes and desolation. Others seek to return to the Material Plane, hungry to spread the darkness and evil of the Plane of Shadow.

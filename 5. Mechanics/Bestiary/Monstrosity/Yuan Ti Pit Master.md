@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Yuan-ti Pit Master
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Yuan Ti Pit Master.md|Yuan-ti Pit Master]]
+# [[5. Mechanics\Bestiary\Monstrosity\Yuan Ti Pit Master.md|Yuan-ti Pit Master]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 276, Volo's Guide to Monsters p. 206*
 
 With snakes for arms, pit masters are yuan-ti malison priests who have made a pact with the god Merrshaulk and seek to rouse him from his slumber by sacrificing Humanoids to him. They are the most traditionalist yuan-ti and believe that they are best equipped to achieve the goals of their people.
@@ -56,7 +56,7 @@ Pit masters are deeply involved in yuan-ti's longterm plan to take over Humanoid
     \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Message.md|message]]\n\
     \n2/day each: [[5. Mechanics/Spells/Hold Person.md|hold person]], [[5. Mechanics/Spells/Invisibility.md|invisibility]]\n\
     \n3/day: [[5. Mechanics/Spells/Suggestion.md|suggestion]]"
-  "name": "spells"
+  "name": "Spellcasting (Yuan-ti Form Only)"
 - "desc": "Magical darkness doesn't impede the yuan-ti's [[/5. Mechanics/Rules/Senses.md#darkvision|darkvision]]."
   "name": "Devil's Sight"
 - "desc": "The yuan-ti has advantage on saving throws against spells and other magical\

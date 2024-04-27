@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Seer
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Seer.md|Seer]]
+# [[5. Mechanics\Bestiary\Humanoid\Seer.md|Seer]]
 *Source: Strongholds and Followers p. 81*
 
 ```statblock

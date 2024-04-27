@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Green Hag
 ---
-# [[5. Mechanics/Bestiary/Fey/Green Hag.md|Green Hag]]
+# [[5. Mechanics\Bestiary\Fey\Green Hag.md|Green Hag]]
 *Source: Monster Manual p. 177, Tasha's Cauldron of Everything. Available in the SRD.*
 
 The wretched and hateful green hags dwell in dying forests, lonely swamps, and misty moors, making their homes in caves. Green hags love to manipulate other creatures into doing their bidding, masking their intentions behind layers of deception. They lure victims to them by mimicking voices calling out for help, or drive unwanted visitors away by imitating the cries of fierce beasts.
@@ -118,7 +118,7 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
     \ can innately cast the following spells, requiring no material components:\n\n\
     At will: [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]], [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]],\
     \ [[5. Mechanics/Spells/Vicious Mockery.md|vicious mockery]]"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "The hag can breathe air and water."
   "name": "Amphibious"
 - "desc": "The hag can mimic animal sounds and humanoid voices. A creature that hears\
@@ -205,8 +205,8 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
     \ them as if she were present and standing in the duplicate's space. If the illusory\
     \ duplicate takes any damage, it disappears.  \n- The region takes twice as long\
     \ as normal to traverse, since the plants grow thick and twisted, and the swamps\
-    \ are thick with reeking mud.  \n- Trees transform into awakened trees and attack\
-    \ when hostile intruders are near.  "
+    \ are thick with reeking mud.  \n- Trees transform into [[5. Mechanics/Bestiary/Plant/Awakened Tree.md|awakened trees]]\
+    \ and attack when hostile intruders are near.  "
   "name": ""
 "source":
 - "MM"

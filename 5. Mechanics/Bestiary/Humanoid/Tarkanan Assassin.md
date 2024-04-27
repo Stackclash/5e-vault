@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Tarkanan Assassin
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Tarkanan Assassin.md|Tarkanan Assassin]]
+# [[5. Mechanics\Bestiary\Humanoid\Tarkanan Assassin.md|Tarkanan Assassin]]
 *Source: Eberron: Rising from the Last War p. 320*
 
 Tarkanan assassins are the elite killers, spies, and thieves who work for House Tarkanan, a criminal organization specializing in theft and assassination. In addition to their deadly skill, a Tarkanan assassin possesses an aberrant dragonmark—a twisted sigil that provides them with magical power. House Tarkanan actively seeks and recruits people with aberrant dragonmarks.
@@ -23,12 +23,12 @@ Tarkanan assassins are the elite killers, spies, and thieves who work for House 
 > 
 > | dice: d6 | At Will | 1/Day |
 > |----------|---------|-------|
-> | 1 | [[5. Mechanics/Spells/Fire Bolt.md|Fire bolt]] (`dice: 2d10\|avg|noform` (`2d10`)) | [[5. Mechanics/Spells/Burning Hands.md|Burning hands]] (`dice: 3d6\|avg|noform` (`3d6`)) |
-> | 2 | [[5. Mechanics/Spells/Shocking Grasp.md|Shocking grasp]] (`dice: 2d8\|avg|noform` (`2d8`)) | [[5. Mechanics/Spells/Chromatic Orb.md|Chromatic orb]] (`dice: 4d8\|avg|noform` (`4d8`)) |
-> | 3 | [[5. Mechanics/Spells/Poison Spray.md|Poison spray]] (`dice: 2d12\|avg|noform` (`2d12`)) | [[5. Mechanics/Spells/Ray Of Sickness.md|Ray of sickness]] (`dice: 3d8\|avg|noform` (`3d8`)) |
+> | 1 | [[5. Mechanics/Spells/Fire Bolt.md|Fire bolt]] (`dice: 2d10\|avg\|noform` (`2d10`)) | [[5. Mechanics/Spells/Burning Hands.md|Burning hands]] (`dice: 3d6\|avg\|noform` (`3d6`)) |
+> | 2 | [[5. Mechanics/Spells/Shocking Grasp.md|Shocking grasp]] (`dice: 2d8\|avg\|noform` (`2d8`)) | [[5. Mechanics/Spells/Chromatic Orb.md|Chromatic orb]] (`dice: 4d8\|avg\|noform` (`4d8`)) |
+> | 3 | [[5. Mechanics/Spells/Poison Spray.md|Poison spray]] (`dice: 2d12\|avg\|noform` (`2d12`)) | [[5. Mechanics/Spells/Ray Of Sickness.md|Ray of sickness]] (`dice: 3d8\|avg\|noform` (`3d8`)) |
 > | 4 | [[5. Mechanics/Spells/Friends.md|Friends]] | [[5. Mechanics/Spells/Charm Person.md|Charm person]] (two creatures) |
-> | 5 | [[5. Mechanics/Spells/Minor Illusion.md|Minor illusion]] | [[5. Mechanics/Spells/Thunderwave.md|Thunderwave]] (`dice: 2d8\|avg|noform` (`2d8`)) |
-> | 6 | [[5. Mechanics/Spells/Dancing Lights.md|Dancing lights]] | [[5. Mechanics/Spells/Sleep.md|Sleep]] (`dice: 7d8\|avg|noform` (`7d8`)) |
+> | 5 | [[5. Mechanics/Spells/Minor Illusion.md|Minor illusion]] | [[5. Mechanics/Spells/Thunderwave.md|Thunderwave]] (`dice: 2d8\|avg\|noform` (`2d8`)) |
+> | 6 | [[5. Mechanics/Spells/Dancing Lights.md|Dancing lights]] | [[5. Mechanics/Spells/Sleep.md|Sleep]] (`dice: 7d8\|avg\|noform` (`7d8`)) |
 > ^at-will-1-day
 ^aberrant-dragonmark-innate-spells
 
@@ -64,7 +64,7 @@ Tarkanan assassins are the elite killers, spies, and thieves who work for House 
     \ to hit with spell attacks). It can innately cast the following spells, requiring\
     \ no material components:\n\nAt will: [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]]\n\
     \n1/day: [[5. Mechanics/Spells/Chromatic Orb.md|chromatic orb]]"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "When the assassin casts an innate spell, each creature within 10 feet of\
     \ the assassin must make a DC 12 Constitution saving throw, taking dice:1d8|text(4)\
     \ (1d8) force damage on a failed save, or half as much damage on a successful\

@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Kalaraq Quori
 ---
-# [[5. Mechanics/Bestiary/Aberration/Kalaraq Quori.md|Kalaraq Quori]]
+# [[5. Mechanics\Bestiary\Aberration\Kalaraq Quori.md|Kalaraq Quori]]
 *Source: Eberron: Rising from the Last War p. 306*
 
 The most powerful quori are the kalaraqs, also known as eyebinders—entities formed of pure shadow that is outlined by a nimbus of energy. A host of disembodied eyes whirl around a kalaraq, each reflecting a consciousness the creature has consumed.
@@ -60,7 +60,7 @@ Dal Quor is the plane of dreams and is currently dominated by a dark power known
     \ spells, requiring no components:\n\nAt will: [[5. Mechanics/Spells/Arcane Eye.md|arcane eye]]\n\
     \n3/day each: [[5. Mechanics/Spells/Clairvoyance.md|clairvoyance]], [[5. Mechanics/Spells/Confusion.md|confusion]],\
     \ [[5. Mechanics/Spells/Dream.md|dream]], [[5. Mechanics/Spells/Eyebite.md|eyebite]]"
-  "name": "innate"
+  "name": "Innate Spellcasting (Psionics)"
 - "desc": "The quori can't be surprised while it isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
   "name": "All-Around Vision"
 - "desc": "The quori can move through other creatures and objects as if they were\

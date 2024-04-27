@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Drow Arachnomancer
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Drow Arachnomancer.md|Drow Arachnomancer]]
+# [[5. Mechanics\Bestiary\Humanoid\Drow Arachnomancer.md|Drow Arachnomancer]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 99, Mordenkainen's Tome of Foes p. 182*
 
 Drow spellcasters who seek to devote themselves wholly to Lolth, the Spider Queen, sometimes walk the sinister path of the arachnomancer. By offering up body and soul to Lolth, they gain tremendous power and a supernatural connection to the ancient spiders of the Demonweb Pits, channeling magic from that dread place.
@@ -55,7 +55,7 @@ Drow spellcasters who seek to devote themselves wholly to Lolth, the Spider Quee
     \ [[5. Mechanics/Spells/Etherealness.md|etherealness]], [[5. Mechanics/Spells/Faerie Fire.md|faerie fire]],\
     \ [[5. Mechanics/Spells/Fly.md|fly]], [[5. Mechanics/Spells/Insect Plague.md|insect plague]],\
     \ [[5. Mechanics/Spells/Invisibility.md|invisibility]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "The drow has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
     \ and magic can't put the drow to sleep."
   "name": "Fey Ancestry"

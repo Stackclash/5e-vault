@@ -164,7 +164,7 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ [[5. Mechanics/Spells/Teleport.md|teleport]]\n\n3/day each: [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
     \ [[5. Mechanics/Spells/Dominate Beast.md|dominate beast]], [[5. Mechanics/Spells/Maze.md|maze]],\
     \ [[5. Mechanics/Spells/Wall Of Stone.md|wall of stone]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "Baphomet can perfectly recall any path he has traveled, and he is immune\
     \ to the [[5. Mechanics/Spells/Maze.md|maze]] spell."
   "name": "Labyrinthine Recall"

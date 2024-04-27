@@ -166,7 +166,7 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ [[5. Mechanics/Spells/Mordenkainens Faithful Hound.md|Mordenkainen's faithful hound]]\n\
     \n5th level (2 slots): [[5. Mechanics/Spells/Animate Objects.md|animate objects]],\
     \ [[5. Mechanics/Spells/Wall Of Force.md|wall of force]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "Any critical hit against the Lord of Blades becomes a normal hit."
   "name": "Adamantine Plating"
 - "desc": "A creature that grapples the Lord of Blades or is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\

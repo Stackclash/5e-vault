@@ -13,9 +13,9 @@ aliases:
 
 | War Band Composition | Number Appearing |
 |----------------------|------------------|
-| Gnoll fangs ofYeenoghu | `dice: 1d4 + 1\|avg|noform` (`1d4 + 1`) |
-| Gnoll hunters | `dice: 1d4 + 1\|avg|noform` (`1d4 + 1`) |
-| Gnoll flesh gnawers | `dice: 2d4\|avg|noform` (`2d4`) |
-| Warriors (common gnolls) | `dice: 6d6\|avg|noform` (`6d6`) |
-| Hyenas | `dice: 4d6\|avg|noform` (`4d6`) |
+| Gnoll fangs ofYeenoghu | `dice: 1d4 + 1\|avg\|noform` (`1d4 + 1`) |
+| Gnoll hunters | `dice: 1d4 + 1\|avg\|noform` (`1d4 + 1`) |
+| Gnoll flesh gnawers | `dice: 2d4\|avg\|noform` (`2d4`) |
+| Warriors (common gnolls) | `dice: 6d6\|avg\|noform` (`6d6`) |
+| Hyenas | `dice: 4d6\|avg\|noform` (`4d6`) |
 ^gnoll-war-band-composition

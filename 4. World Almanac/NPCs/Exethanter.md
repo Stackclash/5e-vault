@@ -147,7 +147,7 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ (spell save DC 20, dice: d20+12 (+12) to hit with spell attacks). Exethanter\
     \ has the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
     \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]], [[5. Mechanics/Spells/Ray Of Frost.md|ray of frost]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "If Exethanter fails a saving throw, it can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
 - "desc": "If it has a phylactery, a destroyed lich gains a new body in dice: 1d10|avg|noform\

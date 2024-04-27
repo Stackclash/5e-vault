@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - War Priest
 ---
-# [[5. Mechanics/Bestiary/Humanoid/War Priest.md|War Priest]]
+# [[5. Mechanics\Bestiary\Humanoid\War Priest.md|War Priest]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 254, Volo's Guide to Monsters p. 218*
 
 War priests worship deities of war, protection, and strategy. They plan tactics, lead soldiers into battle, confront enemy spellcasters, and tend to casualties. A war priest might command an army or serve as the right hand of a [[5. Mechanics/Bestiary/Humanoid/Warlord.md|warlord]] (appears in "this book") on the battlefield.
@@ -70,7 +70,7 @@ War priests typically adorn themselves with a symbol of their faith. You can rol
     \ [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[5. Mechanics/Spells/Flame Strike.md|flame strike]],\
     \ [[5. Mechanics/Spells/Guardian Of Faith.md|guardian of faith]], [[5. Mechanics/Spells/Hold Person.md|hold person]],\
     \ [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]], [[5. Mechanics/Spells/Revivify.md|revivify]]"
-  "name": "spells"
+  "name": "Spellcasting"
 "actions":
 - "desc": "The war priest makes two Maul attacks, and it uses Holy Fire."
   "name": "Multiattack"

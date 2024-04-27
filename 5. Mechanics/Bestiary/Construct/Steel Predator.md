@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Steel Predator
 ---
-# [[5. Mechanics/Bestiary/Construct/Steel Predator.md|Steel Predator]]
+# [[5. Mechanics\Bestiary\Construct\Steel Predator.md|Steel Predator]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 232, Mordenkainen's Tome of Foes p. 239*
 
 A steel predator is a merciless machine with one purpose: to locate and kill its target regardless of distance and obstacles.
@@ -60,7 +60,7 @@ If all goes according to plan, a steel predator slays its target and then volunt
     \ components and using Wisdom as the spellcasting ability:\n\n3/day each:\
     \ [[5. Mechanics/Spells/Dimension Door.md|dimension door]] (self only), [[5. Mechanics/Spells/Plane Shift.md|plane shift]]\
     \ (self only)"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "The steel predator has advantage on saving throws against spells and other\
     \ magical effects."
   "name": "Magic Resistance"

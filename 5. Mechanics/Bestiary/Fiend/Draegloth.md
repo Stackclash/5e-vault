@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Draegloth
 ---
-# [[5. Mechanics/Bestiary/Fiend/Draegloth.md|Draegloth]]
+# [[5. Mechanics\Bestiary\Fiend\Draegloth.md|Draegloth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 98, Volo's Guide to Monsters p. 141*
 
 A draegloth is a demon created by an elf priest of Lolth in an unholy, dangerous ritual in which it is infused with the fey essence of the creator and the fiendish essence of a [[5. Mechanics/Bestiary/Fiend/Glabrezu.md|glabrezu]]. This ritual rarely succeeds, but Lolth's faithful consider it worth the risk, as the resulting creature is gifted with innate magic and physical might. The draegloth usually serves its creator, lending its thirst for destruction to the creator's plans to triumph over rivals.
@@ -54,7 +54,7 @@ Although draegloths plays an important part in the plans of Lolth's cult, a drae
     \ components and using Charisma as the spellcasting ability (spell save DC 11):\n\
     \nAt will: [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]], [[5. Mechanics/Spells/Darkness.md|darkness]]\n\
     \n1/day each: [[5. Mechanics/Spells/Confusion.md|confusion]], [[5. Mechanics/Spells/Faerie Fire.md|faerie fire]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "The draegloth has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
     \ and magic can't put it to sleep."
   "name": "Fey Ancestry"

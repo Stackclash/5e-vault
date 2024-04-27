@@ -14,7 +14,7 @@ statblock: inline
 aliases:
   - Darkling Elder
 ---
-# [[5. Mechanics/Bestiary/Fey/Darkling Elder.md|Darkling Elder]]
+# [[5. Mechanics\Bestiary\Fey\Darkling Elder.md|Darkling Elder]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 84, Volo's Guide to Monsters p. 134*
 
 A wise and respected darkling can undergo a ritual to become an elder. Other elders mark the supplicant with glowing tattoos, channeling away some of the darkling's absorbed light. If the ritual succeeds, the darkling grows into a taller, elf-like form. The darkling perishes if the ritual fails.
@@ -51,7 +51,7 @@ Ancient legends speak of a seelie fey who betrayed the Summer Queen. In the Summ
 "traits":
 - "desc": "The darkling elder casts [[5. Mechanics/Spells/Darkness.md|darkness]], requiring\
     \ no spell components and using Wisdom as the spellcasting ability.\n"
-  "name": "spells"
+  "name": "Darkness (Recharges after a Short or Long Rest)"
 - "desc": "When the darkling elder dies, magical light flashes out from it in a 10-foot\
     \ radius as its body and possessions, other than metal or magic objects, burn\
     \ to ash. Any creature in that area must make a DC 11 Constitution saving throw.\

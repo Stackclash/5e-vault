@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Inspired
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Inspired.md|Inspired]]
+# [[5. Mechanics\Bestiary\Humanoid\Inspired.md|Inspired]]
 *Source: Eberron: Rising from the Last War p. 294*
 
 The rulers of distant Sarlona are known as the Inspired. These noble families are said to be bound to celestial spirits that guide and empower them, but the truth is far darker. The Inspired are the mortal hosts of the nightmare spirits of Dal Quor, and they carry out the foul agenda of the Dreaming Dark.
@@ -56,7 +56,7 @@ Most of the people of the Five Nations have heard of the Inspired lords in Riedr
     \ (see \"Actions\" below)\n\n1/day each: [[5. Mechanics/Spells/Charm Person.md|charm person]],\
     \ [[5. Mechanics/Spells/Dissonant Whispers.md|dissonant whispers]], [[5. Mechanics/Spells/Hex.md|hex]],\
     \ [[5. Mechanics/Spells/Hold Person.md|hold person]], [[5. Mechanics/Spells/Mage Armor.md|mage armor]]"
-  "name": "innate"
+  "name": "Innate Spellcasting (Psionics)"
 - "desc": "The Inspired has advantage on Wisdom saving throws."
   "name": "Dual Mind"
 "actions":

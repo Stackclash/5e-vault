@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Annis Hag
 ---
-# [[5. Mechanics/Bestiary/Fey/Annis Hag.md|Annis Hag]]
+# [[5. Mechanics\Bestiary\Fey\Annis Hag.md|Annis Hag]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 47, Volo's Guide to Monsters p. 159*
 
 Annis hags lair in mountains or hills. These hunchbacked and hump-shouldered hags are the largest and most physically imposing of their kind, standing eight feet tall. They can easily tear a fully grown person apart, but they love hunting the young, preferring their flesh above all others.
@@ -61,7 +61,7 @@ A hag can have up to three iron tokens active at one time. As an action, the hag
 - "desc": "The hag casts one of the following spells, using Charisma as the spellcasting\
     \ ability (spell save DC 13):\n\n3/day each: [[5. Mechanics/Spells/Disguise Self.md|disguise self]]\
     \ (including the form of a Medium Humanoid), [[5. Mechanics/Spells/Fog Cloud.md|Fog cloud]]"
-  "name": "spells"
+  "name": "Spellcasting"
 "actions":
 - "desc": "The annis makes one Bite attack and two Claw attacks."
   "name": "Multiattack"

@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Mummy Lord
 ---
-# [[5. Mechanics/Bestiary/Undead/Mummy Lord.md|Mummy Lord]]
+# [[5. Mechanics\Bestiary\Undead\Mummy Lord.md|Mummy Lord]]
 *Source: Monster Manual p. 229, Tasha's Cauldron of Everything. Available in the SRD.*
 
 Raised by dark funerary rituals, a mummy shambles from the shrouded stillness of a time-lost temple or tomb. Having been awoken from its rest, it punishes transgressors with the power of its unholy curse.
@@ -116,7 +116,7 @@ A mummy lord watches over an ancient temple or tomb that is protected by lesser 
     \ of faith]]\n\n5th level (2 slots):\
     \ [[5. Mechanics/Spells/Contagion.md|contagion]], [[5. Mechanics/Spells/Insect Plague.md|insect plague]]\n\
     \n6th level (1 slots): [[5. Mechanics/Spells/Harm.md|harm]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "The mummy lord has advantage on saving throws against spells and other\
     \ magical effects."
   "name": "Magic Resistance"

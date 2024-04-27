@@ -14,6 +14,7 @@ aliases:
   - Recomposition
 ---
 # Recomposition
+%%-- Embedded content starts on the next line. --%%
 *3rd-level, Necromancy (ritual)*  
 
 - **Casting time:** 1 minute unless cast as a ritual

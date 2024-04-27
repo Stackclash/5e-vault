@@ -154,7 +154,7 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ smite]], [[5. Mechanics/Spells/Evards Black Tentacles.md|black tentacles]],\
     \ [[5. Mechanics/Spells/Counterspell.md|counterspell]], [[5. Mechanics/Spells/Dimension Door.md|dimension door]],\
     \ [[5. Mechanics/Spells/Hold Person.md|hold person]]"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "While mounted, Sir Pelliton has advantage on melee attack rolls against\
     \ unmounted creatures that are smaller than his mount."
   "name": "Mounted Combatant"
@@ -181,7 +181,8 @@ await dv.view("npcRelationships", { current: dv.current() })
   "name": "Villain Ability: Warlord"
 "source":
 - "SaF"
-"image": "4. World Almanac/NPCs/token/sir-pelliton-saf.webp"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Sir\
+  \ Pelliton.png"
 ```
 ^statblock
 

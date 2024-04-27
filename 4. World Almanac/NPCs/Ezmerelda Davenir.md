@@ -200,7 +200,7 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ [[5. Mechanics/Spells/Clairvoyance.md|clairvoyance]], [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]],\
     \ [[5. Mechanics/Spells/Magic Circle.md|magic circle]]\n\n4th level (1 slots):\
     \ [[5. Mechanics/Spells/Greater Invisibility.md|greater invisibility]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "In addition to her magic armor and weapons, Ezmerelda has two [[5. Mechanics/Items/Potion Of Greater Healing.md|potions\
     \ of greater healing]], six [[5. Mechanics/Items/Holy Water Flask.md|vials\
     \ of holy water]], and three wooden stakes."

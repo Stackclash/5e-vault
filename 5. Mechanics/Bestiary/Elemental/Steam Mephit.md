@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Steam Mephit
 ---
-# [[5. Mechanics/Bestiary/Elemental/Steam Mephit.md|Steam Mephit]]
+# [[5. Mechanics\Bestiary\Elemental\Steam Mephit.md|Steam Mephit]]
 *Source: Monster Manual p. 217. Available in the SRD.*
 
 ## Mephits
@@ -53,7 +53,7 @@ Composed of fire and water, steam mephits leave trails of hot water wherever the
 - "desc": "The mephit can innately cast [[5. Mechanics/Spells/Blur.md|blur]], requiring\
     \ no material components. Its innate spellcasting ability is Charisma.\n\nAt\
     \ will: [[5. Mechanics/Spells/Blur.md|blur]]"
-  "name": "innate"
+  "name": "Innate Spellcasting (1/Day)"
 - "desc": "When the mephit dies, it explodes in a cloud of steam. Each creature within\
     \ 5 feet of the mephit must succeed on a DC 10 Dexterity saving throw or take\
     \ dice:1d8|text(4) (1d8) fire damage."

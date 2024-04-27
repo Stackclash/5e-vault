@@ -192,7 +192,7 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ [[5. Mechanics/Spells/True Seeing.md|true seeing]]\n\n7th level (1 slots):\
     \ [[5. Mechanics/Spells/Finger Of Death.md|finger of death]], [[5. Mechanics/Spells/Mirage Arcane.md|mirage arcane]]\n\
     \n8th level (1 slots): [[5. Mechanics/Spells/Power Word Stun.md|power word stun]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "Baba Lysaga can use an action to polymorph into a [[5. Mechanics/Bestiary/Beast/Swarm Of Insects.md|swarm of insects]]\
     \ (flies), or back into her true form. While in swarm form, she has a walking\
     \ speed of 5 feet and a flying speed of 30 feet. Anything she is wearing transforms\

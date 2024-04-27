@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Reflection
 ---
-# [[5. Mechanics/Bestiary/Fey/Reflection.md|Reflection]]
+# [[5. Mechanics\Bestiary\Fey\Reflection.md|Reflection]]
 *Source: Tasha's Cauldron of Everything p. 158*
 
 ```statblock

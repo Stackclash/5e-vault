@@ -17,8 +17,8 @@ aliases:
 | 2 | 1 idol of Raxivort | 5 gp | 2 lb |
 | 3 | 1 poorly crafted set of pipes | 1 gp | 3 lb |
 | 4 | 1 set of tattered clothes | 7 sp | 4 lb |
-| 5 | `dice: 1d4\|avg|noform` (`1d4`) [[5. Mechanics/Items/Pouch.md\|pouches]] of vermin feed | 2 sp | 2 lb |
-| 6 | `dice: 1d6\|avg|noform` (`1d6`) stolen trinkets | 3 gp | 2 lb |
+| 5 | `dice: 1d4\|avg\|noform` (`1d4`) [[5. Mechanics/Items/Pouch.md\|pouches]] of vermin feed | 2 sp | 2 lb |
+| 6 | `dice: 1d6\|avg\|noform` (`1d6`) stolen trinkets | 3 gp | 2 lb |
 | 7 | 1 soiled blanket | 3 sp | 3 lb |
-| 8 | `dice: 2d10\|avg|noform` (`2d10`) [[5. Mechanics/Items/Silver Sp.md\|silver pieces]] | Varies | Varies |
+| 8 | `dice: 2d10\|avg\|noform` (`2d10`) [[5. Mechanics/Items/Silver Sp.md\|silver pieces]] | Varies | Varies |
 ^item-value-weight

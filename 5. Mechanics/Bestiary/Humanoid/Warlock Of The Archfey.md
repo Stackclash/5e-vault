@@ -15,7 +15,7 @@ statblock: inline
 aliases:
   - Warlock of the Archfey
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Warlock Of The Archfey.md|Warlock of the Archfey]]
+# [[5. Mechanics\Bestiary\Humanoid\Warlock Of The Archfey.md|Warlock of the Archfey]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 255, Volo's Guide to Monsters p. 219*
 
 Warlocks of the Archfey gain their powers through magical pacts forged with lords of the Feywild. These warlocks commonly associate with lesser Fey creatures such as [[5. Mechanics/Bestiary/Fey/Boggle.md|boggles]], [[5. Mechanics/Bestiary/Fey/Quickling.md|quicklings]], and [[5. Mechanics/Bestiary/Fey/Redcap.md|redcaps]] (all appear in "this book") or even [[5. Mechanics/Bestiary/Fey/Satyr.md|satyrs]] and [[5. Mechanics/Bestiary/Fey/Sprite.md|sprites]].
@@ -61,7 +61,7 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
     \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]], [[5. Mechanics/Spells/Speak With Animals.md|speak with animals]]\n\
     \n1/day each: [[5. Mechanics/Spells/Charm Person.md|charm person]], [[5. Mechanics/Spells/Dimension Door.md|dimension\
     \ door]], [[5. Mechanics/Spells/Hold Monster.md|hold monster]]"
-  "name": "spells"
+  "name": "Spellcasting"
 "actions":
 - "desc": "The warlock makes two Rapier attacks, or it uses Bewildering Word twice."
   "name": "Multiattack"

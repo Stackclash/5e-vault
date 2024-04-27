@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Shadar-kai Shadow Dancer
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Shadar Kai Shadow Dancer.md|Shadar-kai Shadow Dancer]]
+# [[5. Mechanics\Bestiary\Humanoid\Shadar Kai Shadow Dancer.md|Shadar-kai Shadow Dancer]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 213, Mordenkainen's Tome of Foes p. 225*
 
 Those who have fought shadow dancers describe the experience as similar to fighting a living darkness. Every dim alcove and darkened nook is a place the lithe and acrobatic shadow dancers can emerge from to ambush their prey. Using this tactic, they attack their enemies from all angles with a flurry of entangling chains that hold fast and corrupt the flesh. When their quarry is helpless, they dispatch it and then loot the corpse for trinkets, particularly anything colorful and lively to gaze at after they return to the gloom of the Shadowfell.

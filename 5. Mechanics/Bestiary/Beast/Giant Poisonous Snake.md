@@ -16,7 +16,7 @@ statblock: inline
 aliases:
   - Giant Poisonous Snake
 ---
-# [[5. Mechanics/Bestiary/Beast/Giant Poisonous Snake.md|Giant Poisonous Snake]]
+# [[5. Mechanics\Bestiary\Beast\Giant Poisonous Snake.md|Giant Poisonous Snake]]
 *Source: Monster Manual p. 327, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*
 
 ```statblock

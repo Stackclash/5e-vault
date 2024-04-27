@@ -14,6 +14,7 @@ aliases:
   - Legend Lore
 ---
 # Legend Lore
+%%-- Embedded content starts on the next line. --%%
 *5th-level, Divination*  
 
 - **Casting time:** 10 minute

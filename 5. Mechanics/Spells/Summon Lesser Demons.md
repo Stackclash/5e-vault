@@ -13,6 +13,7 @@ aliases:
   - Summon Lesser Demons
 ---
 # Summon Lesser Demons
+%%-- Embedded content starts on the next line. --%%
 *3rd-level, Conjuration*  
 
 - **Casting time:** 1 action

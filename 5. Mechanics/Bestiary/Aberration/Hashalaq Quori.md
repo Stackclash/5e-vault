@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Hashalaq Quori
 ---
-# [[5. Mechanics/Bestiary/Aberration/Hashalaq Quori.md|Hashalaq Quori]]
+# [[5. Mechanics\Bestiary\Aberration\Hashalaq Quori.md|Hashalaq Quori]]
 *Source: Eberron: Rising from the Last War p. 305*
 
 Hashalaq quori are loremasters and judges, and are commonly known as dreamstealers. In their natural form, hashalaqs are composed of hundreds of translucent tendrils. They can compress and configure these tendrils to form a wide range of simple shapes. A point of blue light suspended within its tendrils serves as the hashalaq's sensory organ, which can be moved around to suit the creature's current shape.
@@ -61,7 +61,7 @@ Dal Quor is the plane of dreams and is currently dominated by a dark power known
     \ [[5. Mechanics/Spells/Charm Person.md|charm person]]\n\n1/day: [[5. Mechanics/Spells/Dominate Person.md|dominate person]],\
     \ [[5. Mechanics/Spells/Dream.md|dream]]\n\n3/day each: [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
     \ [[5. Mechanics/Spells/Disguise Self.md|disguise self]], [[5. Mechanics/Spells/Suggestion.md|suggestion]]"
-  "name": "innate"
+  "name": "Innate Spellcasting (Psionics)"
 "actions":
 - "desc": "The quori uses its Mind Thrust twice."
   "name": "Multiattack"

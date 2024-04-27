@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Mind Flayer Arcanist
 ---
-# [[5. Mechanics/Bestiary/Aberration/Mind Flayer Arcanist.md|Mind Flayer Arcanist]]
+# [[5. Mechanics\Bestiary\Aberration\Mind Flayer Arcanist.md|Mind Flayer Arcanist]]
 *Source: Monster Manual p. 222*
 
 A few mind flayers supplement their psionic power with arcane spells. However, they are regarded as deviants by their illithid peers and usually shunned.
@@ -80,7 +80,7 @@ An illithid experiences euphoria as it devours the brain of a humanoid, along wi
     \nAt will: [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[5. Mechanics/Spells/Levitate.md|levitate]]\n\
     \n1/day each: [[5. Mechanics/Spells/Dominate Monster.md|dominate monster]], [[5. Mechanics/Spells/Plane Shift.md|plane\
     \ shift]] (self only)"
-  "name": "innate"
+  "name": "Innate Spellcasting (Psionics)"
 - "desc": "The mind flayer is a 10th-level spellcaster. Its spellcasting ability is\
     \ Intelligence (save DC 15, dice: d20+7 (+7) to hit with spell attacks). The\
     \ mind flayer has the following wizard spells prepared:\n\nCantrips (at will):\
@@ -95,7 +95,7 @@ An illithid experiences euphoria as it devours the brain of a humanoid, along wi
     \n4th level (3 slots): [[5. Mechanics/Spells/Confusion.md|confusion]], [[5. Mechanics/Spells/Hallucinatory Terrain.md|hallucinatory\
     \ terrain]]\n\n5th level (2 slots):\
     \ [[5. Mechanics/Spells/Telekinesis.md|telekinesis]], [[5. Mechanics/Spells/Wall Of Force.md|wall of force]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "The mind flayer has advantage on saving throws against spells and other\
     \ magical effects."
   "name": "Magic Resistance"

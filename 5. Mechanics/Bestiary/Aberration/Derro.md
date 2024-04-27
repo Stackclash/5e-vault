@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Derro
 ---
-# [[5. Mechanics/Bestiary/Aberration/Derro.md|Derro]]
+# [[5. Mechanics\Bestiary\Aberration\Derro.md|Derro]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 91, Mordenkainen's Tome of Foes p. 158*
 
 > [!quote]- A quote from Mordenkainen  

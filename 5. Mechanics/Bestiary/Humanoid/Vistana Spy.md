@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Vistana Spy
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Vistana Spy.md|Vistana Spy]]
+# [[5. Mechanics\Bestiary\Humanoid\Vistana Spy.md|Vistana Spy]]
 *Source: Curse of Strahd p. 28*
 
 ```statblock

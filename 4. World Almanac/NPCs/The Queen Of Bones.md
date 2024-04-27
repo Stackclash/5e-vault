@@ -173,7 +173,7 @@ await dv.view("npcRelationships", { current: dv.current() })
     \n5th level (1 slots): [[5. Mechanics/Spells/Contagion.md|contagion]], [[5. Mechanics/Spells/Flame Strike.md|flame\
     \ strike]], [[5. Mechanics/Spells/Insect Plague.md|insect plague]]\n\
     \ndispel magic, protection from energy, revivify, water walk"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "The Court of All Flesh are beings of pure chaos. Because their minds are\
     \ pure disorder, they cannot be driven mad or [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
     \ and any attempts to magically compel their behavior fails."
@@ -197,7 +197,8 @@ await dv.view("npcRelationships", { current: dv.current() })
   "name": "Ossuary"
 "source":
 - "SaF"
-"image": "4. World Almanac/NPCs/token/the-queen-of-bones-saf.webp"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/The\
+  \ Queen of Bones.png"
 ```
 ^statblock
 

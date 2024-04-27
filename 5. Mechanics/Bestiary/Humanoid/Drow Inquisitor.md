@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Drow Inquisitor
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Drow Inquisitor.md|Drow Inquisitor]]
+# [[5. Mechanics\Bestiary\Humanoid\Drow Inquisitor.md|Drow Inquisitor]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 102, Mordenkainen's Tome of Foes p. 184*
 
 Lolth's worshipers expect treachery—the Spider Queen encourages it, after all. A certain amount of backstabbing and double-crossing can be managed, but too much can undermine an entire community. To keep some semblance of order and to root out traitors, priestesses of Lolth employ inquisitors. Inquisitors are chosen from the ranks of the priesthood, and their authority is equaled only by that of the [[5. Mechanics/Bestiary/Humanoid/Drow Matron Mother.md|drow matron mothers]] (also in this book) of the noble houses. Anyone they decide is at odds with the hierarchy faces painful interrogation and usually an excruciating death.
@@ -58,7 +58,7 @@ Lolth's worshipers expect treachery—the Spider Queen encourages it, after all.
     \ [[5. Mechanics/Spells/Faerie Fire.md|faerie fire]], [[5. Mechanics/Spells/Levitate.md|levitate]]\
     \ (self only), [[5. Mechanics/Spells/Silence.md|silence]], [[5. Mechanics/Spells/Suggestion.md|suggestion]],\
     \ [[5. Mechanics/Spells/True Seeing.md|true seeing]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "The drow discerns when a creature in earshot speaks a lie in a language\
     \ the drow knows."
   "name": "Discern Lie"

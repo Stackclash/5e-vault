@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Acolyte
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Acolyte.md|Acolyte]]
+# [[5. Mechanics\Bestiary\Humanoid\Acolyte.md|Acolyte]]
 *Source: Monster Manual p. 342, Curse of Strahd, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*
 
 Acolytes are junior members of a clergy, usually answerable to a priest. They perform a variety of functions in a temple and are granted minor spellcasting power by their deities.
@@ -46,7 +46,7 @@ Acolytes are junior members of a clergy, usually answerable to a priest. They pe
     \ [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
     \n1st level (3 slots): [[5. Mechanics/Spells/Bless.md|bless]], [[5. Mechanics/Spells/Cure Wounds.md|cure wounds]],\
     \ [[5. Mechanics/Spells/Sanctuary.md|sanctuary]]"
-  "name": "spells"
+  "name": "Spellcasting"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+2 (+2) to hit, reach 5 ft., one target.\
     \ Hit: dice:1d4|text(2) (1d4) bludgeoning damage."

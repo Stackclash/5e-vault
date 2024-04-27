@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Dryad
 ---
-# [[5. Mechanics/Bestiary/Fey/Dryad.md|Dryad]]
+# [[5. Mechanics\Bestiary\Fey\Dryad.md|Dryad]]
 *Source: Monster Manual p. 121. Available in the SRD.*
 
 Travelers entering a forest might catch a glimpse of a feminine form flitting through the trees. Warm laughter hangs on the air, drawing those who hear it deeper into the emerald shadows.
@@ -62,7 +62,7 @@ Dryads can speak with plants and animals. They can teleport from one tree to ano
     \ [[5. Mechanics/Spells/Barkskin.md|barkskin]], [[5. Mechanics/Spells/Pass Without Trace.md|pass without trace]],\
     \ [[5. Mechanics/Spells/Shillelagh.md|shillelagh]]\n\n3/day each: [[5. Mechanics/Spells/Entangle.md|entangle]],\
     \ [[5. Mechanics/Spells/Goodberry.md|goodberry]]"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "The dryad has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"

@@ -24,5 +24,5 @@ aliases:
 | 7 | Pink |
 | 8 | Brown |
 | 9 | Black |
-| 10 | Metallic (roll `dice: d6\|avg|noform` (`d6`) for color) |
+| 10 | Metallic (roll `dice: d6\|avg\|noform` (`d6`) for color) |
 ^beholder-eye-color

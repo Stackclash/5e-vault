@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Zakya Rakshasa
 ---
-# [[5. Mechanics/Bestiary/Fiend/Zakya Rakshasa.md|Zakya Rakshasa]]
+# [[5. Mechanics\Bestiary\Fiend\Zakya Rakshasa.md|Zakya Rakshasa]]
 *Source: Eberron: Rising from the Last War p. 309*
 
 Millions of years before the rise of the humanoid races, the rakshasas of Eberron ruled a civilization that spanned Khorvaire. Masters of combat, the rakshasas of Eberron wield their weapons with demonic fury, rushing into battle seeking vengeance against those who bound their fiendish masters.
@@ -49,7 +49,7 @@ Zakya rakshasas are the bloodthirsty foot soldiers of the rakshasa horde. They a
     \ The rakshasa can innately cast the following spells, requiring no material components:\n\
     \nAt will: [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[5. Mechanics/Spells/Disguise Self.md|disguise\
     \ self]]\n\n1/day: [[5. Mechanics/Spells/Shield.md|shield]]"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "The rakshasa can't be affected or detected by spells of 1st level or lower\
     \ unless it wishes to be. It has advantage on saving throws against all other\
     \ spells and magical effects."

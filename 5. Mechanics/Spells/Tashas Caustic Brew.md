@@ -12,6 +12,7 @@ aliases:
   - Tasha's Caustic Brew
 ---
 # Tasha's Caustic Brew
+%%-- Embedded content starts on the next line. --%%
 *1st-level, Evocation*  
 
 - **Casting time:** 1 action

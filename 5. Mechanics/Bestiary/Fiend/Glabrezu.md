@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Glabrezu
 ---
-# [[5. Mechanics/Bestiary/Fiend/Glabrezu.md|Glabrezu]]
+# [[5. Mechanics\Bestiary\Fiend\Glabrezu.md|Glabrezu]]
 *Source: Monster Manual p. 58. Available in the SRD.*
 
 A glabrezu takes great pleasure in destroying mortals through temptation, and these creatures are among the few demons to offer their service to creatures foolish enough to summon them.
@@ -220,7 +220,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
     \nAt will: [[5. Mechanics/Spells/Darkness.md|darkness]], [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
     \ [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]]\n\n1/day each: [[5. Mechanics/Spells/Confusion.md|confusion]],\
     \ [[5. Mechanics/Spells/Fly.md|fly]], [[5. Mechanics/Spells/Power Word Stun.md|power word stun]]"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "The glabrezu has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"

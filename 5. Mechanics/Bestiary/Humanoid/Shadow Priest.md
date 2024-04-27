@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Shadow Priest
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Shadow Priest.md|Shadow Priest]]
+# [[5. Mechanics\Bestiary\Humanoid\Shadow Priest.md|Shadow Priest]]
 *Source: Strongholds and Followers p. 74*
 
 ```statblock

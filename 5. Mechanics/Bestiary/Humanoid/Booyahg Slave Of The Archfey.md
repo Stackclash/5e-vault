@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Booyahg Slave of the Archfey
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Booyahg Slave Of The Archfey.md|Booyahg Slave of the Archfey]]
+# [[5. Mechanics\Bestiary\Humanoid\Booyahg Slave Of The Archfey.md|Booyahg Slave of the Archfey]]
 *Source: Volo's Guide to Monsters p. 42*
 
 This goblin warlock serves a patron who can extract payment in flesh if the goblin doesn't do as promised. Often this patron is a coven of hags serving as the tribe's boss, a fiend that has made its way into the world, or an undying lord such as a lich or a vampire. (For more information on undying lord patrons, see the "Sword Coast Adventurer's Guide").
@@ -59,7 +59,7 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
     \nAt will: [[5. Mechanics/Spells/Disguise Self.md|disguise self]], [[5. Mechanics/Spells/Mage Armor.md|mage armor]]\
     \ (self only), [[5. Mechanics/Spells/Silent Image.md|silent image]], [[5. Mechanics/Spells/Speak With Animals.md|speak with\
     \ animals]]\n\n1/day: [[5. Mechanics/Spells/Conjure Fey.md|conjure fey]]"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "The goblin is an 11th-level spellcaster. Its spellcasting ability is Charisma\
     \ (spell save DC 14, dice: d20+6 (+6) to hit with spell attacks). It regains\
     \ its expended spell slots when it finishes a short or long rest. It knows the\
@@ -73,7 +73,7 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
     \ [[5. Mechanics/Spells/Hold Monster.md|hold monster]], [[5. Mechanics/Spells/Misty Step.md|misty step]],\
     \ [[5. Mechanics/Spells/Phantasmal Force.md|phantasmal force]], [[5. Mechanics/Spells/Seeming.md|seeming]],\
     \ [[5. Mechanics/Spells/Sleep.md|sleep]]"
-  "name": "spells"
+  "name": "Spellcasting"
 "actions":
 - "desc": "Melee or Ranged Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft.\
     \ or range 20/60 ft., one target. Hit: dice:1d4 + 2|text(4) (1d4 + 2) piercing\

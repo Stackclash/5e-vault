@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Dybbuk
 ---
-# [[5. Mechanics/Bestiary/Fiend/Dybbuk.md|Dybbuk]]
+# [[5. Mechanics\Bestiary\Fiend\Dybbuk.md|Dybbuk]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 113, Mordenkainen's Tome of Foes p. 132*
 
 Dybbuks are demons that terrorize mortals on the Material Plane by possessing corpses and giving them a semblance of life, after which the demons use them to engage in a range of sordid activities.
@@ -56,7 +56,7 @@ In their natural form, dybbuks appear as translucent flying jellyfish, trailing 
     \ and using Charisma as the spellcasting ability (spell save DC 12):\n\nAt will:\
     \ [[5. Mechanics/Spells/Dimension Door.md|dimension door]]\n\n3/day: [[5. Mechanics/Spells/Phantasmal Force.md|phantasmal\
     \ force]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "The dybbuk can move through other creatures and objects as if they were\
     \ difficult terrain. It takes dice:1d10|text(5) (1d10) force damage if it\
     \ ends its turn inside an object."

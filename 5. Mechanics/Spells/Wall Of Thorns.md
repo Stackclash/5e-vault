@@ -10,6 +10,7 @@ aliases:
   - Wall of Thorns
 ---
 # Wall of Thorns
+%%-- Embedded content starts on the next line. --%%
 *6th-level, Conjuration*  
 
 - **Casting time:** 1 action

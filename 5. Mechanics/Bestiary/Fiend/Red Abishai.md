@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Red Abishai
 ---
-# [[5. Mechanics/Bestiary/Fiend/Red Abishai.md|Red Abishai]]
+# [[5. Mechanics\Bestiary\Fiend\Red Abishai.md|Red Abishai]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 40, Mordenkainen's Tome of Foes p. 160*
 
 Red abishais have no equals among the abishais when it comes to leadership ability and raw power. Red abishais lead other devils into battle or take charge of troublesome cults to ensure that they continue to carry out Tiamat's commands. A red abishai cuts a fearsome figure, and that sight can be inspiring to the abishai's allies, filling them with a fanatical willingness to fight.

@@ -39,7 +39,7 @@ aliases:
 |  | 4 | Overthrow a government |
 |  | 5 | Trigger a natural disaster |
 |  | 6 | Utterly destroy a bloodline or clan |
-| 5 | Passion (`dice: d4\|avg|noform` (`d4`)) |  |
+| 5 | Passion (`dice: d4\|avg\|noform` (`d4`)) |  |
 |  | 1 | Prolong the life of a loved one |
 |  | 2 | Prove worthy of another person's love |
 |  | 3 | Raise or restore a dead loved one |
@@ -49,7 +49,7 @@ aliases:
 |  | 2 | Seize control of an army |
 |  | 3 | Become the power behind the throne |
 |  | 4 | Gain the favor of a ruler |
-| 7 | Revenge (`dice: d4\|avg|noform` (`d4`)) |  |
+| 7 | Revenge (`dice: d4\|avg\|noform` (`d4`)) |  |
 |  | 1 | Avenge a past humiliation or insult |
 |  | 2 | Avenge a past imprisonment or injury |
 |  | 3 | Avenge the death of a loved one |

@@ -11,6 +11,7 @@ aliases:
   - Mordenkainen's Magnificent Mansion
 ---
 # Mordenkainen's Magnificent Mansion
+%%-- Embedded content starts on the next line. --%%
 *7th-level, Conjuration*  
 
 - **Casting time:** 1 minute

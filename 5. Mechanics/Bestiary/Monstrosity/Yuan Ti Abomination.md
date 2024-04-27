@@ -14,7 +14,7 @@ statblock: inline
 aliases:
   - Yuan-ti Abomination
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Yuan Ti Abomination.md|Yuan-ti Abomination]]
+# [[5. Mechanics\Bestiary\Monstrosity\Yuan Ti Abomination.md|Yuan-ti Abomination]]
 *Source: Monster Manual p. 308*
 
 Monstrous serpents with burly humanoid torsos and arms, abominations form the highest caste of yuan-ti society, and they most closely resemble the race as the serpent gods intended it. They mastermind elaborate schemes and perform dark rites in the hope of one day ruling the world.
@@ -92,7 +92,7 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
     \ The yuan-ti can innately cast the following spells, requiring no material components:\n\
     \nAt will: [[5. Mechanics/Spells/Animal Friendship.md|animal friendship]] (snakes\
     \ only)\n\n1/day: [[5. Mechanics/Spells/Fear.md|fear]]\n\n3/day: [[5. Mechanics/Spells/Suggestion.md|suggestion]]"
-  "name": "innate"
+  "name": "Innate Spellcasting (Abomination Form Only)"
 - "desc": "The yuan-ti can use its action to polymorph into a Large snake, or back\
     \ into its true form. Its statistics are the same in each form. Any equipment\
     \ it is wearing or carrying isn't transformed. It doesn't change form if it dies."

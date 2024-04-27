@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Yagnoloth
 ---
-# [[5. Mechanics/Bestiary/Fiend/Yagnoloth.md|Yagnoloth]]
+# [[5. Mechanics\Bestiary\Fiend\Yagnoloth.md|Yagnoloth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 268, Mordenkainen's Tome of Foes p. 252*
 
 Anyone who would contract yugoloths for a task usually ends up dealing with a yagnoloth. Cunning negotiators, these strange Fiends handle the writing of contracts for their fellow yugoloths. Once a yagnoloth is hired, it communicates its employer's desires to the yugoloths it commands.
@@ -62,7 +62,7 @@ A yagnoloth has one arm of human size and one giant-sized arm. During negotiatio
     \ [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[5. Mechanics/Spells/Invisibility.md|invisibility]]\
     \ (self only), [[5. Mechanics/Spells/Suggestion.md|suggestion]]\n\n3/day: [[5. Mechanics/Spells/Lightning Bolt.md|lightning\
     \ bolt]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "The yagnoloth has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"

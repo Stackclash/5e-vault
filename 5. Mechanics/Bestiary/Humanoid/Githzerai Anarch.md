@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Githzerai Anarch
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Githzerai Anarch.md|Githzerai Anarch]]
+# [[5. Mechanics\Bestiary\Humanoid\Githzerai Anarch.md|Githzerai Anarch]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 142, Mordenkainen's Tome of Foes p. 207*
 
 Anarchs are githzerai sages and mystics who lead communities and maintain the adamantine citadels that serve as strong points in Limbo and on other planes. They have formidable psionic capabilities and are able to manipulate the unformed substance of their adopted plane with a thought.
@@ -62,7 +62,7 @@ Githzerai are otherworldly folk with psionic powers who share an ancestral link 
     \ each: [[5. Mechanics/Spells/Globe Of Invulnerability.md|globe of invulnerability]],\
     \ [[5. Mechanics/Spells/Plane Shift.md|plane shift]], [[5. Mechanics/Spells/Wall Of Force.md|wall of force]]\n\
     \n3/day each: [[5. Mechanics/Spells/See Invisibility.md|see invisibility]], [[5. Mechanics/Spells/Telekinesis.md|telekinesis]]"
-  "name": "spells"
+  "name": "Spellcasting (Psionics)"
 - "desc": "If the githzerai fails a saving throw, it can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
 - "desc": "While the githzerai is wearing no armor and wielding no shield, its AC\

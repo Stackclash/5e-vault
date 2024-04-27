@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - White Tusk Juggernaut
 ---
-# [[5. Mechanics/Bestiary/Humanoid/White Tusk Juggernaut.md|White Tusk Juggernaut]]
+# [[5. Mechanics\Bestiary\Humanoid\White Tusk Juggernaut.md|White Tusk Juggernaut]]
 *Source: Strongholds and Followers p. 138*
 
 The White Tusk orc clan named itself after its hulking warriors who, in addition to their massive bodies, possessed enormous white tusks. White Tusk juggernauts pride themselves not just in their battle prowess but also in the size and sharpness of their monstrous lower canines. Some juggernauts have their tusks pierced and display fearsome jewelry from their teeth, others decorate them with ink or paint, and those who can withstand the pain even have symbols or runes inscribed upon them.
@@ -69,7 +69,8 @@ A juggernaut's immense muscles allow them to wield oversized weapons worthy of t
   "name": "Horde Protector"
 "source":
 - "SaF"
-"image": "5. Mechanics/Bestiary/Humanoid/token/white-tusk-juggernaut-saf.webp"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/White\
+  \ Tusk Juggernaut.png"
 ```
 ^statblock
 

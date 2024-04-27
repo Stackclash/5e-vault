@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Machine Lieutenant
 ---
-# [[5. Mechanics/Bestiary/Construct/Machine Lieutenant.md|Machine Lieutenant]]
+# [[5. Mechanics\Bestiary\Construct\Machine Lieutenant.md|Machine Lieutenant]]
 *Source: Strongholds and Followers p. 252*
 
 ```statblock

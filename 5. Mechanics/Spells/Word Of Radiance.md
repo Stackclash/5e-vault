@@ -11,6 +11,7 @@ aliases:
   - Word of Radiance
 ---
 # Word of Radiance
+%%-- Embedded content starts on the next line. --%%
 *cantrip, Evocation*  
 
 - **Casting time:** 1 action

@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Bard
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Bard.md|Bard]]
+# [[5. Mechanics\Bestiary\Humanoid\Bard.md|Bard]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 59, Volo's Guide to Monsters p. 211*
 
 Bards are gifted poets, storytellers, and entertainers who travel far and wide. They're commonly found in taverns or in the company of jolly bands of adventurers, rough-and-tumble mercenaries, and wealthy patrons.
@@ -69,7 +69,7 @@ Each bard is a master of at least one type of performance. You may choose a bard
     \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\
     \n1/day each: [[5. Mechanics/Spells/Charm Person.md|charm person]], [[5. Mechanics/Spells/Invisibility.md|invisibility]],\
     \ [[5. Mechanics/Spells/Sleep.md|sleep]]"
-  "name": "spells"
+  "name": "Spellcasting"
 "actions":
 - "desc": "The bard makes two Shortsword or Shortbow attacks. It can replace one attack\
     \ with a use of Spellcasting."

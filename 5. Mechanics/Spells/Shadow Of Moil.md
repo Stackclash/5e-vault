@@ -10,6 +10,7 @@ aliases:
   - Shadow of Moil
 ---
 # Shadow of Moil
+%%-- Embedded content starts on the next line. --%%
 *4th-level, Necromancy*  
 
 - **Casting time:** 1 action

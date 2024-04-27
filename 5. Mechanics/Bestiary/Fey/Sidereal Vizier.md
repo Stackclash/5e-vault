@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Sidereal Vizier
 ---
-# [[5. Mechanics/Bestiary/Fey/Sidereal Vizier.md|Sidereal Vizier]]
+# [[5. Mechanics\Bestiary\Fey\Sidereal Vizier.md|Sidereal Vizier]]
 *Source: Strongholds and Followers p. 184*
 
 Val's magus, the Vizier is the most powerful mage in Arcadia. When a concordant petitions the Court for an ally, the Vizier reviews their case and chooses who among the Arcadians to send. Thus, when the Sidereal Vizier arrives on the battlefield, it is because he chose to come, deeming the situation dire enough, or the concordant pious enough, to attend to the matter personally.
@@ -63,7 +63,7 @@ If a spell can solve the problem, the Vizier knows it and has it prepared. The l
     \ save DC 17). He can innately cast the following spells, requiring no material\
     \ components:\n\nAt will: [[5. Mechanics/Spells/Darkness.md|darkness]], [[5. Mechanics/Spells/Dominate Person.md|dominate\
     \ person]]\n\n1/day: [[5. Mechanics/Spells/Power Word Stun.md|power word stun]]"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "The Vizier is a 15th-level spellcaster. His spellcasting ability is Intelligence\
     \ (spell save DC 17, dice: d20+9 (+9) to hit with spell attacks). The Vizier\
     \ has the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]],\
@@ -82,7 +82,7 @@ If a spell can solve the problem, the Vizier knows it and has it prepared. The l
     \n7th level (1 slots): [[5. Mechanics/Spells/Finger Of Death.md|finger of death]]\n\
     \n8th level (1 slots): [[5. Mechanics/Spells/Maze.md|maze]]\n\nHe casts these\
     \ spells on himself before combat."
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "Magic cannot put the vizier to sleep."
   "name": "Fey Ancestry"
 - "desc": "The Vizier has advantage on saving throws against magic and other magical\
@@ -98,7 +98,8 @@ If a spell can solve the problem, the Vizier knows it and has it prepared. The l
   "name": "Longsword"
 "source":
 - "SaF"
-"image": "5. Mechanics/Bestiary/Fey/token/sidereal-vizier-saf.webp"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Sidereal\
+  \ Vizier.png"
 ```
 ^statblock
 

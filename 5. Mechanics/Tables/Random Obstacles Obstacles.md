@@ -20,10 +20,10 @@ aliases:
 | 3 | [[5. Mechanics/Spells/Blade Barrier.md\|Blade barrier]] blocks passage |
 | 4-8 | Cave-in |
 | 9-12 | Chasm `1d4 × 10` ft. wide and `2d6 × 10` ft. deep, possibly connected to other levels of the dungeon |
-| 13-14 | Flooding leaves `dice: 2d10\|avg|noform` (`2d10`) ft. of water in the area; create nearby upward-sloping passages, raised floors, or rising sta irs to contain the water |
+| 13-14 | Flooding leaves `dice: 2d10\|avg\|noform` (`2d10`) ft. of water in the area; create nearby upward-sloping passages, raised floors, or rising sta irs to contain the water |
 | 15 | Lava flows through the area (50% chance chance of a stone bridge crossing it) |
 | 16 | Overgrown mushrooms block progress and must be hacked down (25% chance chance of a mold or fungus dungeon hazard hidden among them) |
-| 17 | Poisonous gas (deals `dice: 1d6\|avg|noform` (`1d6`) poison damage per minute of exposure) |
+| 17 | Poisonous gas (deals `dice: 1d6\|avg\|noform` (`1d6`) poison damage per minute of exposure) |
 | 18 | Reverse gravity effect causes creatures to fall toward the ceiling |
 | 19 | [[5. Mechanics/Spells/Wall Of Fire.md\|Wall of fire]] blocks passage |
 | 20 | [[5. Mechanics/Spells/Wall Of Force.md\|Wall of force]] blocks passage |

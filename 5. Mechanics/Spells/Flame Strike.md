@@ -19,6 +19,7 @@ aliases:
   - Flame Strike
 ---
 # Flame Strike
+%%-- Embedded content starts on the next line. --%%
 *5th-level, Evocation*  
 
 - **Casting time:** 1 action

@@ -160,7 +160,7 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ [[5. Mechanics/Spells/Nondetection.md|nondetection]], [[5. Mechanics/Spells/Sending.md|sending]],\
     \ [[5. Mechanics/Spells/Suggestion.md|suggestion]]\n\n3/day each: [[5. Mechanics/Spells/Mislead.md|mislead]],\
     \ [[5. Mechanics/Spells/Modify Memory.md|modify memory]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "If Titivilus fails a saving throw, he can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
 - "desc": "Titivilus has advantage on saving throws against spells and other magical\

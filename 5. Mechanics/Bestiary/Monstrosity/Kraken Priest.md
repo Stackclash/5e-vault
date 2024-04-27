@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Kraken Priest
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Kraken Priest.md|Kraken Priest]]
+# [[5. Mechanics\Bestiary\Monstrosity\Kraken Priest.md|Kraken Priest]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 167, Volo's Guide to Monsters p. 215*
 
 A kraken can seem godlike to folk who have faced its fury. Those who mistake its might for divine power and those who seek to appease the monster through veneration are sometimes rewarded with power, to serve thereafter as kraken priests.
@@ -48,7 +48,7 @@ Every kraken priest undergoes a change in appearance that reflects the kraken's 
     \n1/day: [[5. Mechanics/Spells/Evards Black Tentacles.md|Evard's black tentacles]]\n\
     \n3/day each: [[5. Mechanics/Spells/Control Water.md|control water]], [[5. Mechanics/Spells/Darkness.md|darkness]],\
     \ [[5. Mechanics/Spells/Water Breathing.md|water breathing]], [[5. Mechanics/Spells/Water Walk.md|water walk]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "The priest can breathe air and water."
   "name": "Amphibious"
 "actions":

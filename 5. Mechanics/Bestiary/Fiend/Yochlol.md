@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Yochlol
 ---
-# [[5. Mechanics/Bestiary/Fiend/Yochlol.md|Yochlol]]
+# [[5. Mechanics\Bestiary\Fiend\Yochlol.md|Yochlol]]
 *Source: Monster Manual p. 65*
 
 The yochlols are the Handmaidens of Lolth-extensions of the Spider Queen's will dedicated to acting as her spies, taskmasters, and agents of villainy. They attend their goddess in the Demonweb Pits, but Lolth sometimes dispatches yochlols to the Material Plane to guard her temples and to aid her most devout priestesses. Yochlols don't form outside Lolth's realm of the Demonweb, and they serve no demon lords except their queen.
@@ -223,7 +223,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
     \ yochlol can innately cast the following spells, requiring no material components:\n\
     \nAt will: [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[5. Mechanics/Spells/Web.md|web]]\n\
     \n1/day: [[5. Mechanics/Spells/Dominate Person.md|dominate person]]"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "The yochlol can use its action to polymorph into a form that resembles\
     \ a female drow or giant spider, or back into its true form. Its statistics are\
     \ the same in each form. Any equipment it is wearing or carrying isn't transformed.\

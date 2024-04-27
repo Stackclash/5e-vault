@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Mystic
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Mystic.md|Mystic]]
+# [[5. Mechanics\Bestiary\Humanoid\Mystic.md|Mystic]]
 *Source: Strongholds and Followers p. 74*
 
 ```statblock

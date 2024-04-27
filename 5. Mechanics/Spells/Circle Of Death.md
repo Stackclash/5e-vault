@@ -12,6 +12,7 @@ aliases:
   - Circle of Death
 ---
 # Circle of Death
+%%-- Embedded content starts on the next line. --%%
 *6th-level, Necromancy*  
 
 - **Casting time:** 1 action

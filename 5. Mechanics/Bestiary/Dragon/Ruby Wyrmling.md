@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Ruby Wyrmling
 ---
-# [[5. Mechanics/Bestiary/Dragon/Ruby Wyrmling.md|Ruby Wyrmling]]
+# [[5. Mechanics\Bestiary\Dragon\Ruby Wyrmling.md|Ruby Wyrmling]]
 *Source: Strongholds and Followers p. 205*
 
 The rubies protect the knowledge of reality, which they call realitas, the essential thing that separates real things from illusion.
@@ -62,7 +62,8 @@ They are measured and formal, slow to give trust. They like seeing things done p
   "name": "Bite"
 "source":
 - "SaF"
-"image": "5. Mechanics/Bestiary/Dragon/token/ruby-wyrmling-saf.webp"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Medium\
+  \ Ruby Dragon.png"
 ```
 ^statblock
 

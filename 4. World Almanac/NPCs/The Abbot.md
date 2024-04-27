@@ -142,7 +142,7 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ can innately cast the following spells, requiring only verbal components:\n\n\
     At will: [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]]\n\
     \n1/day each: [[5. Mechanics/Spells/Commune.md|commune]], [[5. Mechanics/Spells/Raise Dead.md|raise dead]]"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "The Abbot's weapon attacks are magical. When The Abbot hits with any weapon,\
     \ the weapon deals an extra dice: 4d8|avg|noform (4d8) radiant damage (included\
     \ in the attack)."

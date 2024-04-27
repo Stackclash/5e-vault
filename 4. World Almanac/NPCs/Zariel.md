@@ -168,7 +168,7 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ (self only), [[5. Mechanics/Spells/Major Image.md|major image]], [[5. Mechanics/Spells/Wall Of Fire.md|wall of fire]]\n\
     \n3/day each: [[5. Mechanics/Spells/Blade Barrier.md|blade barrier]], [[5. Mechanics/Spells/Dispel Evil And Good.md|dispel\
     \ evil and good]], [[5. Mechanics/Spells/Finger Of Death.md|finger of death]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "Magical darkness doesn't impede Zariel's [[/5. Mechanics/Rules/Senses.md#darkvision|darkvision]]."
   "name": "Devil's Sight"
 - "desc": "If Zariel fails a saving throw, she can choose to succeed instead."

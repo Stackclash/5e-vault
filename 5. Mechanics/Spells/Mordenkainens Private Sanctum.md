@@ -13,6 +13,7 @@ aliases:
   - Mordenkainen's Private Sanctum
 ---
 # Mordenkainen's Private Sanctum
+%%-- Embedded content starts on the next line. --%%
 *4th-level, Abjuration*  
 
 - **Casting time:** 10 minute

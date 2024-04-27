@@ -11,6 +11,7 @@ aliases:
   - Abi-Dalzim's Horrid Wilting
 ---
 # Abi-Dalzim's Horrid Wilting
+%%-- Embedded content starts on the next line. --%%
 *8th-level, Necromancy*  
 
 - **Casting time:** 1 action

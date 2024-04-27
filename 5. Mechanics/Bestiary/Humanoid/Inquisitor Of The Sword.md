@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Inquisitor of the Sword
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Inquisitor Of The Sword.md|Inquisitor of the Sword]]
+# [[5. Mechanics\Bestiary\Humanoid\Inquisitor Of The Sword.md|Inquisitor of the Sword]]
 *Source: Van Richten's Guide to Ravenloft p. 249*
 
 "Evil lurks everywhere. With our minds, we will unearth it, we will plumb its depths, and we will annihilate it." With those words, the psychically gifted priest Ulmed founded the Ulmist Inquisition, an order of psionic inquisitors that seeks to discover the wickedness hiding in people's souls.
@@ -58,7 +58,7 @@ Today the inquisition rules the city of Malitain, a vast city-state to the north
     \ [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[5. Mechanics/Spells/Sending.md|sending]]\n\
     \n1/day each: [[5. Mechanics/Spells/Dimension Door.md|dimension door]], [[5. Mechanics/Spells/Fly.md|fly]],\
     \ [[5. Mechanics/Spells/Greater Invisibility.md|greater invisibility]]"
-  "name": "innate"
+  "name": "Innate Spellcasting (Psionics)"
 - "desc": "At the start of each of its turns, the inquisitor regains 10 hit points\
     \ and can end one condition on itself, provided the inquisitor has at least 1\
     \ hit point."

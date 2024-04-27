@@ -179,7 +179,8 @@ await dv.view("npcRelationships", { current: dv.current() })
   "name": "Melt Flesh"
 "source":
 - "SaF"
-"image": "4. World Almanac/NPCs/token/baron-malgas-saf.webp"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Baron\
+  \ Malgas.png"
 ```
 ^statblock
 

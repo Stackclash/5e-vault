@@ -15,7 +15,7 @@ statblock: inline
 aliases:
   - Warlock of the Great Old One
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Warlock Of The Great Old One.md|Warlock of the Great Old One]]
+# [[5. Mechanics\Bestiary\Humanoid\Warlock Of The Great Old One.md|Warlock of the Great Old One]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 256, Volo's Guide to Monsters p. 220*
 
 Warlocks of the Great Old One gain their powers through magical pacts forged with eldritch entities from strange and distant realms of existence. Some of these warlocks associate with cultists devoted to these entities, as well as Aberrations that share their goals, yet other warlocks of the Great Old One are experts at rooting out the chaos and wickedness inspired by bizarre beings from beyond the stars.
@@ -59,7 +59,7 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
     \ [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\
     \n1/day each: [[5. Mechanics/Spells/Arcane Gate.md|arcane gate]], [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
     \ [[5. Mechanics/Spells/True Seeing.md|true seeing]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "At the start of each of the warlock's turns, each creature of its choice\
     \ within 10 feet of it must succeed on a DC 15 Wisdom saving throw or take dice:3d6|text(10)\
     \ (3d6) psychic damage, provided that the warlock isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."

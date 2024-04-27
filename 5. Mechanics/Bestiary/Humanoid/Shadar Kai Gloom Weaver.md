@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Shadar-kai Gloom Weaver
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Shadar Kai Gloom Weaver.md|Shadar-kai Gloom Weaver]]
+# [[5. Mechanics\Bestiary\Humanoid\Shadar Kai Gloom Weaver.md|Shadar-kai Gloom Weaver]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 213, Mordenkainen's Tome of Foes p. 224*
 
 Although they're formidable warriors, gloom weavers are often content to hide in the shadows, watching as their very presence affects their victims. Their bleak energy weighs down the heart, causing those nearby to feel the approach of death. If detected, gloom weavers use their shadow magic to reduce enemies to ghastly corpses.
@@ -68,7 +68,7 @@ Shadar-kai encountered outside the Shadowfell are often on quests to find the mo
     \ [[5. Mechanics/Spells/Confusion.md|confusion]], [[5. Mechanics/Spells/Darkness.md|darkness]],\
     \ [[5. Mechanics/Spells/Fear.md|fear]], [[5. Mechanics/Spells/Major Image.md|major image]],\
     \ [[5. Mechanics/Spells/True Seeing.md|true seeing]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "Beasts and Humanoids (except elves) have disadvantage on saving throws\
     \ while within 10 feet of the shadar-kai."
   "name": "Burden of Time"

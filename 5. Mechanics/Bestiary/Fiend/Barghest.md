@@ -15,7 +15,7 @@ statblock: inline
 aliases:
   - Barghest
 ---
-# [[5. Mechanics/Bestiary/Fiend/Barghest.md|Barghest]]
+# [[5. Mechanics\Bestiary\Fiend\Barghest.md|Barghest]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 60, Volo's Guide to Monsters p. 123*
 
 Long ago, the god Maglubiyet—conqueror and then lord of early goblinoids—bargained with the General of Gehenna for aid. The General provided yugoloths, which then died in service to Maglubiyet. Yet when the time came to honor his part of the compact, Maglubiyet reneged on the deal. In vengeance, the General of Gehenna created the soul-devouring barghests to devour goblinoid souls.
@@ -62,7 +62,7 @@ Any conflagration larger than its body acts as a gateway to Gehenna and banishes
     \ [[5. Mechanics/Spells/Pass Without Trace.md|pass without trace]]\n\n1/day each:\
     \ [[5. Mechanics/Spells/Charm Person.md|charm person]], [[5. Mechanics/Spells/Dimension Door.md|dimension door]],\
     \ [[5. Mechanics/Spells/Suggestion.md|suggestion]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "When the barghest starts its turn engulfed in flames that are at least\
     \ 10 feet high or wide, it must succeed on a DC 15 Charisma saving throw or be\
     \ instantly banished to Gehenna"

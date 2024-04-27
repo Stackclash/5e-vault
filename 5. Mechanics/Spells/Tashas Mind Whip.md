@@ -11,6 +11,7 @@ aliases:
   - Tasha's Mind Whip
 ---
 # Tasha's Mind Whip
+%%-- Embedded content starts on the next line. --%%
 *2nd-level, Enchantment*  
 ![[5. Mechanics/Spells/img/tashas-mind-whip.webp#right]]  
 

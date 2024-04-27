@@ -146,7 +146,7 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ spray]], [[5. Mechanics/Spells/Silent Image.md|silent image]],\
     \ [[5. Mechanics/Spells/Identify.md|identify]], [[5. Mechanics/Spells/Magic Missile.md|magic missile]]\n\
     \n2nd level (2 slots): [[5. Mechanics/Spells/Blur.md|blur]], [[5. Mechanics/Spells/Web.md|web]]"
-  "name": "spells"
+  "name": "Spellcasting"
 "actions":
 - "desc": "Melee or Ranged Weapon Attack: dice: d20+2 (+2) to hit, reach 5 ft.\
     \ or range 20/60 ft., one target. Hit: dice:1d4 + 0|text(2) (1d4 + 0) piercing\
@@ -154,7 +154,7 @@ await dv.view("npcRelationships", { current: dv.current() })
   "name": "Dagger"
 "source":
 - "SaF"
-"image": "4. World Almanac/NPCs/token/pinna-saf.webp"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Pinna.png"
 ```
 ^statblock
 

@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Cow
 ---
-# [[5. Mechanics/Bestiary/Beast/Cow.md|Cow]]
+# [[5. Mechanics\Bestiary\Beast\Cow.md|Cow]]
 *Source: Volo's Guide to Monsters p. 207*
 
 There are many kinds of cattle, from common oxen to more unusual, magical variants.

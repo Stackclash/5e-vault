@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Mind Flayer Psion
 ---
-# [[5. Mechanics/Bestiary/Aberration/Mind Flayer Psion.md|Mind Flayer Psion]]
+# [[5. Mechanics\Bestiary\Aberration\Mind Flayer Psion.md|Mind Flayer Psion]]
 *Source: Volo's Guide to Monsters p. 71*
 
 Mind flayers sometimes devote themselves to deeper study of psionic power, and many excel at using their innate psionic energy to duplicate the casting of spells.
@@ -89,7 +89,7 @@ Illithids subsist on the brains of humanoids. The brains provide enzymes, hormon
     \n4th level (3 slots): [[5. Mechanics/Spells/Confusion.md|confusion]], [[5. Mechanics/Spells/Stone Shape.md|stone\
     \ shape]]\n\n5th level (2 slots): [[5. Mechanics/Spells/Scrying.md|scrying]],\
     \ [[5. Mechanics/Spells/Telekinesis.md|telekinesis]]"
-  "name": "innate"
+  "name": "Innate Spellcasting (Psionics)"
 - "desc": "The mind flayer has advantage on saving throws against spells and other\
     \ magical effects."
   "name": "Magic Resistance"

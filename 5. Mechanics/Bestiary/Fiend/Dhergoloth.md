@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Dhergoloth
 ---
-# [[5. Mechanics/Bestiary/Fiend/Dhergoloth.md|Dhergoloth]]
+# [[5. Mechanics\Bestiary\Fiend\Dhergoloth.md|Dhergoloth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 94, Mordenkainen's Tome of Foes p. 248*
 
 > [!quote]- A quote from Mordenkainen  
@@ -55,7 +55,7 @@ Since dhergoloths are little more than brutes, employers must use caution when i
 - "desc": "The dhergoloth casts one of the following spells, requiring no material\
     \ components and using Charisma as the spellcasting ability (spell save DC 10):\n\
     \nAt will: [[5. Mechanics/Spells/Darkness.md|darkness]], [[5. Mechanics/Spells/Fear.md|fear]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "The dhergoloth has advantage on saving throws against spells and other\
     \ magical effects."
   "name": "Magic Resistance"

@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Priest
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Priest.md|Priest]]
+# [[5. Mechanics\Bestiary\Humanoid\Priest.md|Priest]]
 *Source: Monster Manual p. 348, Curse of Strahd, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*
 
 Priests bring the teachings of their gods to the common folk. They are the spiritual leaders of temples and shrines and often hold positions of influence in their communities. Evil priests might work openly under a tyrant, or they might be the leaders of religious sects hidden in the shadows of good society, overseeing depraved rites. A priest typically has one or more acolytes to help with religious ceremonies and other sacred duties.
@@ -51,7 +51,7 @@ Priests bring the teachings of their gods to the common folk. They are the spiri
     \n2nd level (3 slots): [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]],\
     \ [[5. Mechanics/Spells/Spiritual Weapon.md|spiritual weapon]]\n\n3rd level (2\
     \ slots): [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[5. Mechanics/Spells/Spirit Guardians.md|spirit guardians]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "As a bonus action, the priest can expend a spell slot to cause its melee\
     \ weapon attacks to magically deal an extra dice:3d6|text(10) (3d6) radiant\
     \ damage to a target on a hit. This benefit lasts until the end of the turn. If\

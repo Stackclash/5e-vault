@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Abjurer Wizard
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Abjurer Wizard.md|Abjurer Wizard]]
+# [[5. Mechanics\Bestiary\Humanoid\Abjurer Wizard.md|Abjurer Wizard]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 260, Volo's Guide to Monsters p. 209*
 
 Abjurers specialize in creating protective magical wards. Monarchs, nobles, and other wealthy individuals commonly hire abjurers to provide protection.
@@ -56,7 +56,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
     \ [[5. Mechanics/Spells/Wall Of Force.md|wall of force]]\n\n2/day each: [[5. Mechanics/Spells/Dispel Magic.md|dispel\
     \ magic]], [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]],\
     \ [[5. Mechanics/Spells/Mage Armor.md|mage armor]]"
-  "name": "spells"
+  "name": "Spellcasting"
 "actions":
 - "desc": "The abjurer makes three Arcane Burst attacks."
   "name": "Multiattack"

@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Source of Earth
 ---
-# [[5. Mechanics/Bestiary/Elemental/Source Of Earth.md|Source of Earth]]
+# [[5. Mechanics\Bestiary\Elemental\Source Of Earth.md|Source of Earth]]
 *Source: Strongholds and Followers p. 187*
 
 The Sources hover at the crossroads of Alloy pronouncing the Lady's law and reminding citizens of important dates. They can also be depended upon to grant aid to newcomers, including help as mundane as directions. The Sources of Earth seem most to enjoy helping visitors, and while their pronouncements are booming and melodramatic, they are enthusiastic about their task.
@@ -85,7 +85,8 @@ The Source of Earth hovers over the battlefield, with only 10 feet of movement. 
   "name": "Wall of Stone (1/Day)"
 "source":
 - "SaF"
-"image": "5. Mechanics/Bestiary/Elemental/token/source-of-earth-saf.webp"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Source\
+  \ of Earth.png"
 ```
 ^statblock
 

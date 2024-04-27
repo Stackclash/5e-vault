@@ -192,7 +192,7 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ [[5. Mechanics/Spells/True Seeing.md|true seeing]]\n\n7th level (1 slots):\
     \ [[5. Mechanics/Spells/Fire Storm.md|fire storm]], [[5. Mechanics/Spells/Regenerate.md|regenerate]]\n\
     \n8th level (1 slots): [[5. Mechanics/Spells/Earthquake.md|earthquake]]"
-  "name": "spells"
+  "name": "Spellcasting"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
     \ Hit: dice:1d4|text(2) (1d4) piercing damage."

@@ -192,7 +192,7 @@ await dv.view("npcRelationships", { current: dv.current() })
   "name": "Meld Flesh"
 "source":
 - "SaF"
-"image": "4. World Almanac/NPCs/token/uursovk-saf.webp"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Uursovk.png"
 ```
 ^statblock
 

@@ -163,7 +163,7 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ [[5. Mechanics/Spells/Invisibility.md|invisibility]] (self only), [[5. Mechanics/Spells/Locate Object.md|locate object]],\
     \ [[5. Mechanics/Spells/Suggestion.md|suggestion]], [[5. Mechanics/Spells/Wall Of Ice.md|wall of ice]]\n\
     \n1/day: [[5. Mechanics/Spells/Banishment.md|banishment]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "If Geryon fails a saving throw, he can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
 - "desc": "Geryon has advantage on saving throws against spells and other magical\

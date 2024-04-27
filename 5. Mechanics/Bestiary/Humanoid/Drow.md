@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Drow
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Drow.md|Drow]]
+# [[5. Mechanics\Bestiary\Humanoid\Drow.md|Drow]]
 *Source: Monster Manual p. 128. Available in the SRD.*
 
 ## Drow
@@ -97,7 +97,7 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
     \ innately cast the following spells, requiring no material components:\n\nAt\
     \ will: [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]]\n\n1/day each:\
     \ [[5. Mechanics/Spells/Darkness.md|darkness]], [[5. Mechanics/Spells/Faerie Fire.md|faerie fire]]"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "The drow has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
     \ and magic can't put the drow to sleep."
   "name": "Fey Ancestry"

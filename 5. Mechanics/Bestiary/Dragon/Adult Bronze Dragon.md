@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Adult Bronze Dragon
 ---
-# [[5. Mechanics/Bestiary/Dragon/Adult Bronze Dragon.md|Adult Bronze Dragon]]
+# [[5. Mechanics\Bestiary\Dragon\Adult Bronze Dragon.md|Adult Bronze Dragon]]
 *Source: Monster Manual p. 108. Available in the SRD.*
 
 Bronze dragons are coastal dwellers that feed primarily on aquatic plants and fish. They take the forms of friendly animals to observe other creatures of interest. They are also fascinated by warfare and eagerly join armies fighting for a just cause.

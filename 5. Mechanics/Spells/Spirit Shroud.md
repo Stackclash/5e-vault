@@ -12,6 +12,7 @@ aliases:
   - Spirit Shroud
 ---
 # Spirit Shroud
+%%-- Embedded content starts on the next line. --%%
 *3rd-level, Necromancy*  
 
 - **Casting time:** 1 bonus

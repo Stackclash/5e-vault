@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Undying Councilor
 ---
-# [[5. Mechanics/Bestiary/Undead/Undying Councilor.md|Undying Councilor]]
+# [[5. Mechanics\Bestiary\Undead\Undying Councilor.md|Undying Councilor]]
 *Source: Eberron: Rising from the Last War p. 311*
 
 Undying councilors guide and protect the people of Aerenal. They are the most powerful members of the Undying Court who still maintain their physical forms. While many undying councilors spend their days advising the living, some devote years projecting their consciousness into the Astral Plane, seeking new knowledge to share with their people. Still, not all minds are capable of assimilating immortality, and undying councilors sometimes buckle under the strain and go mad.
@@ -92,7 +92,7 @@ An undying doesn't require air, food, drink, or sleep.
     \ [[5. Mechanics/Spells/Flame Strike.md|flame strike]] (see \"Actions\" below), [[5. Mechanics/Spells/Scrying.md|scrying]]\n\
     \n6th level (1 slots): [[5. Mechanics/Spells/Forbiddance.md|forbiddance]], [[5. Mechanics/Spells/Planar Ally.md|planar\
     \ ally]]\n\n7th level (1 slots): [[5. Mechanics/Spells/Plane Shift.md|plane shift]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "The councilor magically sheds bright light in a 15-foot radius and dim\
     \ light for an additional 15 feet. The councilor can extinguish or restore this\
     \ light as a bonus action. If the bright light overlaps with an area of darkness\

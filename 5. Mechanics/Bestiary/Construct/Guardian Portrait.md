@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Guardian Portrait
 ---
-# [[5. Mechanics/Bestiary/Construct/Guardian Portrait.md|Guardian Portrait]]
+# [[5. Mechanics\Bestiary\Construct\Guardian Portrait.md|Guardian Portrait]]
 *Source: Curse of Strahd p. 227*
 
 A guardian portrait looks like a finely rendered and beautifully framed work of art, usually depicting someone important in a realistic manner. The picture and its frame are bound with powerful magic and are inseparable.
@@ -55,7 +55,7 @@ When a guardian portrait attacks, the figure in the painting animates and moves 
     \ components:\n\n3/day each: [[5. Mechanics/Spells/Counterspell.md|counterspell]],\
     \ [[5. Mechanics/Spells/Crown Of Madness.md|crown of madness]], [[5. Mechanics/Spells/Hypnotic Pattern.md|hypnotic pattern]],\
     \ [[5. Mechanics/Spells/Telekinesis.md|telekinesis]]"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "An animated object doesn't require air, food, drink, or sleep.\n\nThe magic\
     \ that animates an object is dispelled when the construct drops to 0 hit points.\
     \ An animated object reduced to 0 hit points becomes inanimate and is too damaged\

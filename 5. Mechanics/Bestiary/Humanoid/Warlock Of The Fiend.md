@@ -14,7 +14,7 @@ statblock: inline
 aliases:
   - Warlock of the Fiend
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Warlock Of The Fiend.md|Warlock of the Fiend]]
+# [[5. Mechanics\Bestiary\Humanoid\Warlock Of The Fiend.md|Warlock of the Fiend]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 255, Volo's Guide to Monsters p. 219*
 
 Warlocks of the Fiend gain their powers through magical pacts forged with archfiends of the Lower Planes. These warlocks often keep [[5. Mechanics/Bestiary/Fiend/Imp.md|imps]] or [[5. Mechanics/Bestiary/Fiend/Quasit.md|quasits]] as companions, and they tend toward philosophical extremes: consorting with fiendish cults or dedicating their lives to destroying such cults.
@@ -58,7 +58,7 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
     \ [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\
     \n1/day each: [[5. Mechanics/Spells/Banishment.md|banishment]], [[5. Mechanics/Spells/Plane Shift.md|plane shift]],\
     \ [[5. Mechanics/Spells/Suggestion.md|suggestion]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "When the warlock makes an ability check or saving throw, it can add a dice:\
     \ d10|avg|noform (d10) to the roll. It can do this after the roll is made but\
     \ before any of the roll's effects occur."

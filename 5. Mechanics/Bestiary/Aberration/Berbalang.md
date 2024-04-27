@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Berbalang
 ---
-# [[5. Mechanics/Bestiary/Aberration/Berbalang.md|Berbalang]]
+# [[5. Mechanics\Bestiary\Aberration\Berbalang.md|Berbalang]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 61, Mordenkainen's Tome of Foes p. 120*
 
 Berbalangs creep across the [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]] remains of dead gods adrift on the Astral Plane. Obsessed with gathering secrets, both from the gods they inhabit and from the bones of dead creatures, they call forth the spirits of the dead and force them to divulge what they learned in life.
@@ -56,7 +56,7 @@ The knowledge that berbalangs accumulate makes them great sources of information
     \ components and using Intelligence as the spellcasting ability:\n\nAt will:\
     \ [[5. Mechanics/Spells/Speak With Dead.md|speak with dead]]\n\n1/day: [[5. Mechanics/Spells/Plane Shift.md|plane\
     \ shift]] (self only)"
-  "name": "spells"
+  "name": "Spellcasting"
 "actions":
 - "desc": "The berbalang makes one Bite attack and one\n\nClaw attack."
   "name": "Multiattack"

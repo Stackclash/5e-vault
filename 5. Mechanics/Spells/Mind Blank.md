@@ -11,6 +11,7 @@ aliases:
   - Mind Blank
 ---
 # Mind Blank
+%%-- Embedded content starts on the next line. --%%
 *8th-level, Abjuration*  
 
 - **Casting time:** 1 action

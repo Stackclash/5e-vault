@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Githzerai Enlightened
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Githzerai Enlightened.md|Githzerai Enlightened]]
+# [[5. Mechanics\Bestiary\Humanoid\Githzerai Enlightened.md|Githzerai Enlightened]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 143, Mordenkainen's Tome of Foes p. 208*
 
 Some spiritual githzerai spend long hours in meditation to transcend the limits of their forms and to apprehend the nature of reality. Zerths who complete the next tier of their training become known as the enlightened.
@@ -58,7 +58,7 @@ Githzerai are otherworldly folk with psionic powers who share an ancestral link 
     \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]] (the hand is invisible)\n\n1/day\
     \ each: [[5. Mechanics/Spells/Plane Shift.md|plane shift]], [[5. Mechanics/Spells/Teleport.md|teleport]]\n\
     \n3/day: [[5. Mechanics/Spells/See Invisibility.md|see invisibility]]"
-  "name": "spells"
+  "name": "Spellcasting (Psionics)"
 - "desc": "While the githzerai is wearing no armor and wielding no shield, its AC\
     \ includes its Wisdom modifier."
   "name": "Psychic Defense"

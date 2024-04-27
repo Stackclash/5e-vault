@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Illusionist
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Illusionist.md|Illusionist]]
+# [[5. Mechanics\Bestiary\Humanoid\Illusionist.md|Illusionist]]
 *Source: Strongholds and Followers p. 81*
 
 ```statblock

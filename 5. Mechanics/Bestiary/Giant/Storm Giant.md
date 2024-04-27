@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Storm Giant
 ---
-# [[5. Mechanics/Bestiary/Giant/Storm Giant.md|Storm Giant]]
+# [[5. Mechanics\Bestiary\Giant\Storm Giant.md|Storm Giant]]
 *Source: Monster Manual p. 156. Available in the SRD.*
 
 Storm giants are contemplative seers that live in places far removed from mortal civilization. Most have pale purple-gray skin and hair, and glittering emerald eyes.
@@ -114,7 +114,7 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
     \ [[5. Mechanics/Spells/Levitate.md|levitate]], [[5. Mechanics/Spells/Light.md|light]]\n\
     \n3/day each: [[5. Mechanics/Spells/Control Weather.md|control weather]], [[5. Mechanics/Spells/Water Breathing.md|water\
     \ breathing]]"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "The giant can breathe air and water."
   "name": "Amphibious"
 "actions":

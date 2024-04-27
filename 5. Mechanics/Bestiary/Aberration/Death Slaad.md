@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Death Slaad
 ---
-# [[5. Mechanics/Bestiary/Aberration/Death Slaad.md|Death Slaad]]
+# [[5. Mechanics\Bestiary\Aberration\Death Slaad.md|Death Slaad]]
 *Source: Monster Manual p. 278, Curse of Strahd, Tasha's Cauldron of Everything*
 
 Death slaadi are suffused with energy from the Negative Energy Plane and exemplify evil's corruption of chaos, and they take sadistic pleasure in bringing harm to others. They propagate their race by dragooning mobs of red and blue slaadi and invading other planes. Humanoids who survive the incursion become incubators for new slaadi.
@@ -88,7 +88,7 @@ Some slaadi can transform into the humanoid creatures from which they were origi
     \ [[5. Mechanics/Spells/Plane Shift.md|plane shift]]\n\n2/day each: [[5. Mechanics/Spells/Fear.md|fear]],\
     \ [[5. Mechanics/Spells/Fireball.md|fireball]], [[5. Mechanics/Spells/Fly.md|fly]],\
     \ [[5. Mechanics/Spells/Tongues.md|tongues]]"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "The slaad can use its action to polymorph into a Small or Medium humanoid,\
     \ or back into its true form. Its statistics, other than its size, are the same\
     \ in each form. Any equipment it is wearing or carrying isn't transformed. It\

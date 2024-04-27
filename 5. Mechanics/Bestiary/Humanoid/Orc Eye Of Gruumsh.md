@@ -17,7 +17,7 @@ statblock: inline
 aliases:
   - Orc Eye of Gruumsh
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Orc Eye Of Gruumsh.md|Orc Eye of Gruumsh]]
+# [[5. Mechanics\Bestiary\Humanoid\Orc Eye Of Gruumsh.md|Orc Eye of Gruumsh]]
 *Source: Monster Manual p. 247*
 
 Orcs are savage raiders and pillagers with stooped postures, low foreheads, and piggish faces with prominent lower canines that resemble tusks.
@@ -88,7 +88,7 @@ If the orc plucks out one of its eyes, Gruumsh might grant the orc spellcasting 
     \n1st level (4 slots): [[5. Mechanics/Spells/Bless.md|bless]], [[5. Mechanics/Spells/Command.md|command]]\n\
     \n2nd level (2 slots): [[5. Mechanics/Spells/Augury.md|augury]], [[5. Mechanics/Spells/Spiritual Weapon.md|spiritual weapon]]\
     \ (spear)"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "As a bonus action, the orc can move up to its speed toward a hostile creature\
     \ that it can see."
   "name": "Aggressive"

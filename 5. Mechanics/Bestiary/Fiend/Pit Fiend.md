@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Pit Fiend
 ---
-# [[5. Mechanics/Bestiary/Fiend/Pit Fiend.md|Pit Fiend]]
+# [[5. Mechanics\Bestiary\Fiend\Pit Fiend.md|Pit Fiend]]
 *Source: Monster Manual p. 77, Tasha's Cauldron of Everything. Available in the SRD.*
 
 The undisputed lords of most other devils, pit fiends attend the archdukes and archduchesses of the Nine Hells and carry out their wishes. These mighty devils are the generals of the Nine Hells, leading its infernal legions into battle.
@@ -178,7 +178,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
     \nAt will: [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Fireball.md|fireball]]\n\
     \n3/day each: [[5. Mechanics/Spells/Hold Monster.md|hold monster]], [[5. Mechanics/Spells/Wall Of Fire.md|wall of\
     \ fire]]"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "Any creature hostile to the pit fiend that starts its turn within 20 feet\
     \ of the pit fiend must make a DC 21 Wisdom saving throw, unless the pit fiend\
     \ is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]. On a failed\

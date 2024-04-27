@@ -14,7 +14,7 @@ statblock: inline
 aliases:
   - Archdruid
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Archdruid.md|Archdruid]]
+# [[5. Mechanics\Bestiary\Humanoid\Archdruid.md|Archdruid]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 48, Volo's Guide to Monsters p. 210*
 
 Archdruids watch over the natural wonders of their domains. They seldom interact with folk away from their druid groves and shrines, unless there is a great threat to the natural order or to a nearby community. An archdruid typically has one or more pupils who are [[5. Mechanics/Bestiary/Humanoid/Druid.md|druids]], and the archdruid's lair is usually guarded by loyal Beasts and Fey creatures.
@@ -74,7 +74,7 @@ When an archdruid uses their Change Shape action, you may choose the creature th
     3/day each: [[5. Mechanics/Spells/Animal Messenger.md|animal messenger]], [[5. Mechanics/Spells/Dominate Beast.md|dominate\
     \ beast]], [[5. Mechanics/Spells/Faerie Fire.md|faerie fire]],\
     \ [[5. Mechanics/Spells/Tree Stride.md|tree stride]]"
-  "name": "spells"
+  "name": "Spellcasting"
 "actions":
 - "desc": "The archdruid makes three Staff or Wildfire attacks. It can replace one\
     \ attack with a use of Spellcasting."

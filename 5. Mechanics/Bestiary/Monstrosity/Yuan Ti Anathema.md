@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Yuan-ti Anathema
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Yuan Ti Anathema.md|Yuan-ti Anathema]]
+# [[5. Mechanics\Bestiary\Monstrosity\Yuan Ti Anathema.md|Yuan-ti Anathema]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 272, Volo's Guide to Monsters p. 202*
 
 As part of their quest for godhood, a yuan-ti abomination might perform a ritual that, if successful, transforms them into an even greater form: a yuan-ti anathema. This ritual demands the sacrifice of hundreds of snakes and requires the abomination to bathe in the blood of their enemies. The transformation is quick but painful.
@@ -55,7 +55,7 @@ Anathemas don't age, allowing them to pursue their goals until the end of days. 
     3/day each: [[5. Mechanics/Spells/Darkness.md|darkness]], [[5. Mechanics/Spells/Entangle.md|entangle]],\
     \ [[5. Mechanics/Spells/Fear.md|fear]], [[5. Mechanics/Spells/Polymorph.md|polymorph]],\
     \ [[5. Mechanics/Spells/Suggestion.md|suggestion]]"
-  "name": "spells"
+  "name": "Spellcasting (Anathema Form Only)"
 - "desc": "The anathema has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"

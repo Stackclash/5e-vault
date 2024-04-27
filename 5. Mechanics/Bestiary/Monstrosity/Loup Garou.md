@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Loup Garou
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Loup Garou.md|Loup Garou]]
+# [[5. Mechanics\Bestiary\Monstrosity\Loup Garou.md|Loup Garou]]
 *Source: Van Richten's Guide to Ravenloft p. 237*
 
 Loup garou possess a strain of lycanthropy more virulent than that carried by common werewolves. Aside from being deadlier than their werewolf cousins, loup garou aggressively spread the plague of lycanthropy. Only through the death of a loup garou might those afflicted by it escape their curse.

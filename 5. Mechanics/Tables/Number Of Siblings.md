@@ -16,8 +16,8 @@ aliases:
 | dice: d10 | Siblings |
 |-----------|----------|
 | 1-2 | None |
-| 3-4 | `dice: 1d3\|avg|noform` (`1d3`) |
-| 5-6 | `dice: 1d4+1\|avg|noform` (`1d4+1`) |
-| 7-8 | `dice: 1d6+2\|avg|noform` (`1d6+2`) |
-| 9-10 | `dice: 1d8+3\|avg|noform` (`1d8+3`) |
+| 3-4 | `dice: 1d3\|avg\|noform` (`1d3`) |
+| 5-6 | `dice: 1d4+1\|avg\|noform` (`1d4+1`) |
+| 7-8 | `dice: 1d6+2\|avg\|noform` (`1d6+2`) |
+| 9-10 | `dice: 1d8+3\|avg\|noform` (`1d8+3`) |
 ^number-of-siblings

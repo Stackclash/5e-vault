@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Dao
 ---
-# [[5. Mechanics/Bestiary/Elemental/Dao.md|Dao]]
+# [[5. Mechanics\Bestiary\Elemental\Dao.md|Dao]]
 *Source: Monster Manual p. 143, Tasha's Cauldron of Everything*
 
 Dao are greedy, malicious genies from the Elemental Plane of Earth. They adorn themselves with jewelry crafted from precious gems and rare metals, and when they fly, their lower bodies become columns of swirling sand. A dao isn't happy unless it is the envy of other dao.
@@ -96,7 +96,7 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
     \ [[5. Mechanics/Spells/Phantasmal Killer.md|phantasmal killer]], [[5. Mechanics/Spells/Plane Shift.md|plane shift]],\
     \ [[5. Mechanics/Spells/Wall Of Stone.md|wall of stone]]\n\n3/day each: [[5. Mechanics/Spells/Passwall.md|passwall]],\
     \ [[5. Mechanics/Spells/Move Earth.md|move earth]], [[5. Mechanics/Spells/Tongues.md|tongues]]"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "The dao can burrow through nonmagical, unworked earth and stone. While\
     \ doing so, the dao doesn't disturb the material it moves through."
   "name": "Earth Glide"

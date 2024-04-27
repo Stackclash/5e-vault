@@ -12,6 +12,7 @@ aliases:
   - Arcane Gate
 ---
 # Arcane Gate
+%%-- Embedded content starts on the next line. --%%
 *6th-level, Conjuration*  
 
 - **Casting time:** 1 action

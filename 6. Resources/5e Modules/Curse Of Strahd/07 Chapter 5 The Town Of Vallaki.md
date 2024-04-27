@@ -61,7 +61,7 @@ If the characters explore a residence other than the burgomaster's mansion (area
 | dice: d20 | Occupant |
 |-----------|----------|
 | 1–3 | None |
-| 4–5 | `dice: 2d4\|avg|noform` (`2d4`) [[5. Mechanics/Bestiary/Beast/Swarm Of Rats.md\|swarms of rats]] |
+| 4–5 | `dice: 2d4\|avg\|noform` (`2d4`) [[5. Mechanics/Bestiary/Beast/Swarm Of Rats.md\|swarms of rats]] |
 | 6–18 | Vallakian townsfolk |
 | 19–20 | Vallakian cultists |
 ^occupant

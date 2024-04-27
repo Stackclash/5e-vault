@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Booyahg Slave of the Great Old One
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Booyahg Slave Of The Great Old One.md|Booyahg Slave of the Great Old One]]
+# [[5. Mechanics\Bestiary\Humanoid\Booyahg Slave Of The Great Old One.md|Booyahg Slave of the Great Old One]]
 *Source: Volo's Guide to Monsters p. 42*
 
 This goblin warlock serves a patron who can extract payment in flesh if the goblin doesn't do as promised. Often this patron is a coven of hags serving as the tribe's boss, a fiend that has made its way into the world, or an undying lord such as a lich or a vampire. (For more information on undying lord patrons, see the "Sword Coast Adventurer's Guide").
@@ -58,7 +58,7 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
     \ [[5. Mechanics/Spells/Levitate.md|levitate]], [[5. Mechanics/Spells/Mage Armor.md|mage armor]]\
     \ (self only), [[5. Mechanics/Spells/Speak With Dead.md|speak with dead]]\n\n1/day\
     \ each: [[5. Mechanics/Spells/Arcane Gate.md|arcane gate]], [[5. Mechanics/Spells/True Seeing.md|true seeing]]"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "The goblin is a 14th-level spellcaster. Its spellcasting ability is Charisma\
     \ (spell save DC 15, dice: d20+7 (+7) to hit with spell attacks). It regains\
     \ its expended spell slots when it finishes a short or long rest. It knows the\
@@ -72,7 +72,7 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
     \ [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[5. Mechanics/Spells/Dimension Door.md|dimension door]],\
     \ [[5. Mechanics/Spells/Dissonant Whispers.md|dissonant whispers]], [[5. Mechanics/Spells/Dominate Beast.md|dominate beast]],\
     \ [[5. Mechanics/Spells/Telekinesis.md|telekinesis]], [[5. Mechanics/Spells/Vampiric Touch.md|vampiric touch]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "At the start of each of the goblin's turns, each creature of its choice\
     \ within 5 feet of it must succeed on a DC 15 Wisdom saving throw or take dice:3d6|text(10)\
     \ (3d6) psychic damage, provided that the goblin isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."

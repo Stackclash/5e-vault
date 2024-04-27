@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Firenewt Warlock of Imix
 ---
-# [[5. Mechanics/Bestiary/Elemental/Firenewt Warlock Of Imix.md|Firenewt Warlock of Imix]]
+# [[5. Mechanics\Bestiary\Elemental\Firenewt Warlock Of Imix.md|Firenewt Warlock of Imix]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 125, Volo's Guide to Monsters p. 143*
 
 Firenewts who serve Imix, Prince of Evil Fire, live in militaristic theocracies that revere elemental fire in its most destructive incarnation and promote aggression and cruelty. Firenewt warlocks of Imix lead these theocracies or serve as advisors to a high priest.
@@ -47,7 +47,7 @@ Originally from the Elemental Plane of Fire, firenewts can be found on the Mater
     \ ability (spell save DC 12):\n\nAt will: [[5. Mechanics/Spells/Guidance.md|guidance]],\
     \ [[5. Mechanics/Spells/Light.md|light]], [[5. Mechanics/Spells/Mage Armor.md|mage armor]],\
     \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "The firenewt can breathe air and water."
   "name": "Amphibious"
 - "desc": "Magical darkness doesn't impede the firenewt's [[/5. Mechanics/Rules/Senses.md#darkvision|darkvision]]."

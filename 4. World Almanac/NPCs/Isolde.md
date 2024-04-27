@@ -154,7 +154,7 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ [[5. Mechanics/Spells/Plane Shift.md|plane shift]] (self only)\n\n3/day each:\
     \ [[5. Mechanics/Spells/Alter Self.md|alter self]], [[5. Mechanics/Spells/Command.md|command]],\
     \ [[5. Mechanics/Spells/Detect Magic.md|detect magic]]"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "The AC of Isolde includes her Charisma bonus."
   "name": "Fiendish Blessing"
 - "desc": "While holding [[5. Mechanics/Items/Nepenthe.md|Nepenthe]], Isolde creates\

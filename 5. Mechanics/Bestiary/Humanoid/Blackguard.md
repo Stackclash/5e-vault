@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Blackguard
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Blackguard.md|Blackguard]]
+# [[5. Mechanics\Bestiary\Humanoid\Blackguard.md|Blackguard]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 63, Volo's Guide to Monsters p. 211*
 
 Blackguards are paladins who broke their sacred oaths and now indulge their own villainous ambitions. They consort with Fiends and Undead, and they reject many of the goodly things from their former lives.
@@ -67,7 +67,7 @@ Blackguards often adorn their armor and weapons with dread accoutrements or are 
 - "desc": "The blackguard casts one of the following spells, using Charisma as the\
     \ spellcasting ability (spell save DC 13):\n\n2/day each: [[5. Mechanics/Spells/Command.md|command]],\
     \ [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[5. Mechanics/Spells/Find Steed.md|find steed]]"
-  "name": "spells"
+  "name": "Spellcasting"
 "actions":
 - "desc": "The blackguard makes three attacks, using Glaive, Shortbow, or both."
   "name": "Multiattack"

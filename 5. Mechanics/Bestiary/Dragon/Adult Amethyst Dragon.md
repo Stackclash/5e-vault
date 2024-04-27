@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Adult Amethyst Dragon
 ---
-# [[5. Mechanics/Bestiary/Dragon/Adult Amethyst Dragon.md|Adult Amethyst Dragon]]
+# [[5. Mechanics\Bestiary\Dragon\Adult Amethyst Dragon.md|Adult Amethyst Dragon]]
 *Source: Strongholds and Followers p. 220*
 
 The renegades of the jeweled dragons, the amethyst dragons seek new knowledge and so manipulate mortals to do dangerous, even deadly things in order to push the boundary of the known.
@@ -90,7 +90,8 @@ When encountered, they are often conciliatory, deferent. They want to put you at
   "name": "Psionic Shift (Costs 2 Actions)"
 "source":
 - "SaF"
-"image": "5. Mechanics/Bestiary/Dragon/token/adult-amethyst-dragon-saf.webp"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Large\
+  \ Amethyst Dragon.png"
 ```
 ^statblock
 

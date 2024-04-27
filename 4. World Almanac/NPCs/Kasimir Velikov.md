@@ -149,7 +149,7 @@ await dv.view("npcRelationships", { current: dv.current() })
     \n4th level (3 slots): [[5. Mechanics/Spells/Greater Invisibility.md|greater invisibility]],\
     \ [[5. Mechanics/Spells/Ice Storm.md|ice storm]]\n\n5th level (1 slots): [[5. Mechanics/Spells/Cone Of Cold.md|cone\
     \ of cold]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "Kasimir has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
     \ and magic can't put the him to sleep."
   "name": "Fey Ancestry"

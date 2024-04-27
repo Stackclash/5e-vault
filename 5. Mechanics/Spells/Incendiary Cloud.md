@@ -11,6 +11,7 @@ aliases:
   - Incendiary Cloud
 ---
 # Incendiary Cloud
+%%-- Embedded content starts on the next line. --%%
 *8th-level, Conjuration*  
 
 - **Casting time:** 1 action

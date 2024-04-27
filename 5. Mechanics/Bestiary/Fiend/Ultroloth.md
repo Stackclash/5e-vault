@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Ultroloth
 ---
-# [[5. Mechanics/Bestiary/Fiend/Ultroloth.md|Ultroloth]]
+# [[5. Mechanics\Bestiary\Fiend\Ultroloth.md|Ultroloth]]
 *Source: Monster Manual p. 314*
 
 Ultroloths command the yugoloth armies of the Blood War. An ultroloth looks like a slender gray-skinned humanoid with an elongated head. Its face bears no features except for two ovoid eyes. These eyes can become sparkling pools of light that can transfix other creatures and leave them reeling and helpless.
@@ -110,7 +110,7 @@ Whatever the case, no fiend finds the General unless the General desires it. His
     \n1/day each: [[5. Mechanics/Spells/Fire Storm.md|fire storm]], [[5. Mechanics/Spells/Mass Suggestion.md|mass suggestion]]\n\
     \n3/day each: [[5. Mechanics/Spells/Dimension Door.md|dimension door]], [[5. Mechanics/Spells/Fear.md|fear]],\
     \ [[5. Mechanics/Spells/Wall Of Fire.md|wall of fire]]"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "The ultroloth has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"

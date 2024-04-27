@@ -18,7 +18,7 @@ aliases:
 |----|----|----|----|
 | Attack: | `dice: d20+0` (`+0`) | Defense: | 15 |
 | Power: | `dice: d20+2` (`+2`) | Toughness: | 14 |
-| Morale: | — | Size: | `dice: 1d6\|avg|noform` (`1d6`) |
+| Morale: | — | Size: | `dice: 1d6\|avg\|noform` (`1d6`) |
 
 ## Traits
 

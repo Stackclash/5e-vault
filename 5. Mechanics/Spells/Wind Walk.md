@@ -10,6 +10,7 @@ aliases:
   - Wind Walk
 ---
 # Wind Walk
+%%-- Embedded content starts on the next line. --%%
 *6th-level, Transmutation*  
 
 - **Casting time:** 1 minute

@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Nalfeshnee
 ---
-# [[5. Mechanics/Bestiary/Fiend/Nalfeshnee.md|Nalfeshnee]]
+# [[5. Mechanics\Bestiary\Fiend\Nalfeshnee.md|Nalfeshnee]]
 *Source: Monster Manual p. 62. Available in the SRD.*
 
 The nalfeshnee is one of the most grotesque demons-a corpulent mockery of ape and boar standing twice the height of a human, with feathered wings that seem too small for its bloated body. These brutish features conceal a remarkable intelligence and cunning.

@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Neogi Master
 ---
-# [[5. Mechanics/Bestiary/Aberration/Neogi Master.md|Neogi Master]]
+# [[5. Mechanics\Bestiary\Aberration\Neogi Master.md|Neogi Master]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 192, Volo's Guide to Monsters p. 180*
 
 Neogi masters use magic, as a result of a pact between neogi and aberrant entities they met during their journey from their home world. These entities—known by such names as Acamar, Caiphon, Gibbeth, and Hadar—resemble stars and embody the essence of evil.
@@ -63,7 +63,7 @@ Neogi usually dwell in far-flung locations on the Material Plane, as well as in 
     \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n1/day each:\
     \ [[5. Mechanics/Spells/Dimension Door.md|dimension door]], [[5. Mechanics/Spells/Hold Person.md|hold person]],\
     \ [[5. Mechanics/Spells/Hunger Of Hadar.md|hunger of Hadar]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "Magical darkness doesn't impede the neogi's [[/5. Mechanics/Rules/Senses.md#darkvision|darkvision]]."
   "name": "Devil's Sight"
 - "desc": "The neogi has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\

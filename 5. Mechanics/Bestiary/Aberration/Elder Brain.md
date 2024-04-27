@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Elder Brain
 ---
-# [[5. Mechanics/Bestiary/Aberration/Elder Brain.md|Elder Brain]]
+# [[5. Mechanics\Bestiary\Aberration\Elder Brain.md|Elder Brain]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 120, Volo's Guide to Monsters p. 173*
 
 The ultimate expression of mind flayer domination, an elder brain sprawls within a vat of viscous brine, cared for by mind flayer minions as it touches the thoughts of creatures near and far. It scrawls upon the canvas of the creatures' minds, rewriting their thoughts and authoring their dreams.
@@ -69,7 +69,7 @@ An elder brain's ambitions are always tempered by its relative immobility. Altho
     \ will: [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[5. Mechanics/Spells/Levitate.md|levitate]]\n\
     \n1/day each: [[5. Mechanics/Spells/Dominate Monster.md|dominate monster]], [[5. Mechanics/Spells/Plane Shift.md|plane\
     \ shift]] (self only)\n\n3/day: [[5. Mechanics/Spells/Modify Memory.md|modify memory]]"
-  "name": "spells"
+  "name": "Spellcasting (Psionics)"
 - "desc": "The elder brain is aware of creatures within 5 miles of it that have an\
     \ Intelligence score of 4 or higher. It knows the distance and direction to each\
     \ creature, as well as each one's Intelligence score, but can't sense anything\

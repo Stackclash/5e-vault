@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Warden
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Warden.md|Warden]]
+# [[5. Mechanics\Bestiary\Humanoid\Warden.md|Warden]]
 *Source: Strongholds and Followers p. 74*
 
 ```statblock

@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Vampire Spellcaster
 ---
-# [[5. Mechanics/Bestiary/Undead/Vampire Spellcaster.md|Vampire Spellcaster]]
+# [[5. Mechanics\Bestiary\Undead\Vampire Spellcaster.md|Vampire Spellcaster]]
 *Source: Monster Manual p. 298*
 
 Awakened to an endless night, vampires hunger for the life they have lost and sate that hunger by drinking the blood of the living. Vampires abhor sunlight, for its touch burns them. They never cast shadows or reflections, and any vampire wishing to move unnoticed among the living keeps to the darkness and far from reflective surfaces.
@@ -101,7 +101,7 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
     \ [[5. Mechanics/Spells/Bestow Curse.md|bestow curse]], [[5. Mechanics/Spells/Nondetection.md|nondetection]]\n\
     \n4th level (3 slots): [[5. Mechanics/Spells/Blight.md|blight]], [[5. Mechanics/Spells/Greater Invisibility.md|greater invisibility]]\n\
     \n5th level (1 slots): [[5. Mechanics/Spells/Dominate Person.md|dominate person]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "If the vampire isn't in sunlight or running water, it can use its action\
     \ to polymorph into a Tiny bat or a Medium cloud of mist, or back into its true\
     \ form.\n\nWhile in bat form, the vampire can't speak, its walking speed is 5\

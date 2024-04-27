@@ -13,6 +13,7 @@ aliases:
   - Find Familiar
 ---
 # Find Familiar
+%%-- Embedded content starts on the next line. --%%
 *1st-level, Conjuration (ritual)*  
 
 - **Casting time:** 1 hour unless cast as a ritual

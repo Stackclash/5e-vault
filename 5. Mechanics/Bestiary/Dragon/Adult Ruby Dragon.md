@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Adult Ruby Dragon
 ---
-# [[5. Mechanics/Bestiary/Dragon/Adult Ruby Dragon.md|Adult Ruby Dragon]]
+# [[5. Mechanics\Bestiary\Dragon\Adult Ruby Dragon.md|Adult Ruby Dragon]]
 *Source: Strongholds and Followers p. 204*
 
 The rubies protect the knowledge of reality, which they call realitas, the essential thing that separates real things from illusion.
@@ -87,7 +87,8 @@ They are measured and formal, slow to give trust. They like seeing things done p
   "name": "Psionic Shift (Costs 2 Actions)"
 "source":
 - "SaF"
-"image": "5. Mechanics/Bestiary/Dragon/token/adult-ruby-dragon-saf.webp"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Large\
+  \ Ruby Dragon.png"
 ```
 ^statblock
 

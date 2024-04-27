@@ -185,7 +185,7 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ cast the following spells, requiring no components:\n\n1/day: [[5. Mechanics/Spells/Magic Weapon.md|magic weapon]],\
     \ [[5. Mechanics/Spells/Nondetection.md|nondetection]]\n\n3/day: [[5. Mechanics/Spells/Misty Step.md|misty step]],\
     \ [[5. Mechanics/Spells/Phantom Steed.md|phantom steed]]"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "Any creature within 10 feet of Rahadin that isn't protected by a [[5. Mechanics/Spells/Mind Blank.md|mind\
     \ blank]] spell hears in its mind the screams\
     \ of the thousands of people Rahadin has killed. As a bonus action, Rahadin can\

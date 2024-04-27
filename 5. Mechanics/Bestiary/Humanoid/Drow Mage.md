@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Drow Mage
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Drow Mage.md|Drow Mage]]
+# [[5. Mechanics\Bestiary\Humanoid\Drow Mage.md|Drow Mage]]
 *Source: Monster Manual p. 129*
 
 ## Drow
@@ -100,7 +100,7 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
     \ will: [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]]\n\n1/day each:\
     \ [[5. Mechanics/Spells/Darkness.md|darkness]], [[5. Mechanics/Spells/Faerie Fire.md|faerie fire]],\
     \ [[5. Mechanics/Spells/Levitate.md|levitate]] (self only)"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "The drow is a 10th-level spellcaster. Its spellcasting ability is Intelligence\
     \ (spell save DC 14, dice: d20+6 (+6) to hit with spell attacks). The drow\
     \ has the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
@@ -114,7 +114,7 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
     \n4th level (3 slots): [[5. Mechanics/Spells/Evards Black Tentacles.md|Evard's black tentacles]],\
     \ [[5. Mechanics/Spells/Greater Invisibility.md|greater invisibility]]\n\n5th level\
     \ (2 slots): [[5. Mechanics/Spells/Cloudkill.md|cloudkill]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "The drow has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
     \ and magic can't put the drow to sleep."
   "name": "Fey Ancestry"

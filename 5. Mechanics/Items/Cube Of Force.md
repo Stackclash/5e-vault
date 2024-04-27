@@ -35,11 +35,11 @@ The cube loses charges when the barrier is targeted by certain spells or comes i
 
 | Spell or item | Charges Lost |
 |---------------|--------------|
-| [[5. Mechanics/Spells/Disintegrate.md\|Disintegrate]] | `dice: 1d12\|avg|noform` (`1d12`) |
-| [[5. Mechanics/Items/Horn Of Blasting.md\|Horn of blasting]] | `dice: 1d10\|avg|noform` (`1d10`) |
-| [[5. Mechanics/Spells/Passwall.md\|Passwall]] | `dice: 1d6\|avg|noform` (`1d6`) |
-| [[5. Mechanics/Spells/Prismatic Spray.md\|Prismatic spray]] | `dice: 1d20\|avg|noform` (`1d20`) |
-| [[5. Mechanics/Spells/Wall Of Fire.md\|Wall of fire]] | `dice: 1d4\|avg|noform` (`1d4`) |
+| [[5. Mechanics/Spells/Disintegrate.md\|Disintegrate]] | `dice: 1d12\|avg\|noform` (`1d12`) |
+| [[5. Mechanics/Items/Horn Of Blasting.md\|Horn of blasting]] | `dice: 1d10\|avg\|noform` (`1d10`) |
+| [[5. Mechanics/Spells/Passwall.md\|Passwall]] | `dice: 1d6\|avg\|noform` (`1d6`) |
+| [[5. Mechanics/Spells/Prismatic Spray.md\|Prismatic spray]] | `dice: 1d20\|avg\|noform` (`1d20`) |
+| [[5. Mechanics/Spells/Wall Of Fire.md\|Wall of fire]] | `dice: 1d4\|avg\|noform` (`1d4`) |
 ^spell-or-item-charges-lost
 
 *Source: Dungeon Master's Guide p. 159. Available in the SRD.*

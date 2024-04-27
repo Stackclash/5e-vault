@@ -17,6 +17,7 @@ aliases:
   - Water Walk
 ---
 # Water Walk
+%%-- Embedded content starts on the next line. --%%
 *3rd-level, Transmutation (ritual)*  
 
 - **Casting time:** 1 action unless cast as a ritual

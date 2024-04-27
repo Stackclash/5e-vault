@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Orc Claw of Luthic
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Orc Claw Of Luthic.md|Orc Claw of Luthic]]
+# [[5. Mechanics\Bestiary\Humanoid\Orc Claw Of Luthic.md|Orc Claw of Luthic]]
 *Source: Volo's Guide to Monsters p. 183*
 
 To the common folk of the world, an orc is an orc. They know that any one of these savages can tear an ordinary person to pieces, so no further distinction is necessary.
@@ -63,7 +63,7 @@ Orc females devoted to Luthic are in charge of fortifying and maintaining an orc
     \ [[5. Mechanics/Spells/Augury.md|augury]], [[5. Mechanics/Spells/Warding Bond.md|warding bond]]\n\
     \n3rd level (2 slots): [[5. Mechanics/Spells/Bestow Curse.md|bestow curse]],\
     \ [[5. Mechanics/Spells/Create Food And Water.md|create food and water]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "As a bonus action, the orc can move up to its speed toward a hostile creature\
     \ that it can see."
   "name": "Aggressive"

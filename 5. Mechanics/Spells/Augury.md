@@ -16,6 +16,7 @@ aliases:
   - Augury
 ---
 # Augury
+%%-- Embedded content starts on the next line. --%%
 *2nd-level, Divination (ritual)*  
 
 - **Casting time:** 1 minute unless cast as a ritual

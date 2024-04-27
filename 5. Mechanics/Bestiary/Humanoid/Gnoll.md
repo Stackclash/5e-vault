@@ -14,7 +14,7 @@ statblock: inline
 aliases:
   - Gnoll
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Gnoll.md|Gnoll]]
+# [[5. Mechanics\Bestiary\Humanoid\Gnoll.md|Gnoll]]
 *Source: Monster Manual p. 163, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*
 
 Gnolls are feral humanoids that attack settlements along the frontiers and borderlands of civilization without warning, slaughtering their victims and devouring their flesh.

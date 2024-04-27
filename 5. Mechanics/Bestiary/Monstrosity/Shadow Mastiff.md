@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Shadow Mastiff
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Shadow Mastiff.md|Shadow Mastiff]]
+# [[5. Mechanics\Bestiary\Monstrosity\Shadow Mastiff.md|Shadow Mastiff]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 215, Volo's Guide to Monsters p. 190*
 
 Shunning sunlight, these hounds are usually met as a pack. Some faiths devoted to deities of gloom and night, such as that of Shar in the Forgotten Realms, perform unholy rites to summon shadow mastiffs to work as temple sentinels and bodyguards.

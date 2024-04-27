@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Maw Demon
 ---
-# [[5. Mechanics/Bestiary/Fiend/Maw Demon.md|Maw Demon]]
+# [[5. Mechanics\Bestiary\Fiend\Maw Demon.md|Maw Demon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 176, Volo's Guide to Monsters p. 137*
 
 > [!quote]- A quote from Tasha  

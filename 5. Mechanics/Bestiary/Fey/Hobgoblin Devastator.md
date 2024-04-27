@@ -13,7 +13,7 @@ statblock: inline
 aliases:
   - Hobgoblin Devastator
 ---
-# [[5. Mechanics/Bestiary/Fey/Hobgoblin Devastator.md|Hobgoblin Devastator]]
+# [[5. Mechanics\Bestiary\Fey\Hobgoblin Devastator.md|Hobgoblin Devastator]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 153, Volo's Guide to Monsters p. 161*
 
 Hobgoblins with a prodigious talent for magic sometimes undergo grueling training to become hobgoblin devastators. Devastators are spellcasters who call down fireballs and other destructive magic in the defense of the court they serve, whether that court is in the Feywild or the Material Plane. A hobgoblin devastator on the battlefield is a boon to their allies and a threat to every foe around them.
@@ -57,7 +57,7 @@ In the Feywild, many archfey seek to bolster their armies' might with the servic
     \ [[5. Mechanics/Spells/Fireball.md|fireball]], [[5. Mechanics/Spells/Fly.md|fly]],\
     \ [[5. Mechanics/Spells/Fog Cloud.md|fog cloud]], [[5. Mechanics/Spells/Gust Of Wind.md|gust of wind]],\
     \ [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "When the hobgoblin casts a spell that causes damage or that forces other\
     \ creatures to make a saving throw, it can choose itself and any number of allies\
     \ to be immune to the damage caused by the spell and to succeed on the required\

@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Dust Mephit
 ---
-# [[5. Mechanics/Bestiary/Elemental/Dust Mephit.md|Dust Mephit]]
+# [[5. Mechanics\Bestiary\Elemental\Dust Mephit.md|Dust Mephit]]
 *Source: Monster Manual p. 215. Available in the SRD.*
 
 ## Mephits
@@ -57,7 +57,7 @@ Composed of earth and air, dust mephits are drawn to catacombs and find death mo
 - "desc": "The mephit can innately cast [[5. Mechanics/Spells/Sleep.md|sleep]], requiring\
     \ no material components. Its innate spellcasting ability is Charisma.\n\nAt\
     \ will: [[5. Mechanics/Spells/Sleep.md|sleep]]"
-  "name": "innate"
+  "name": "Innate Spellcasting (1/Day)"
 - "desc": "When the mephit dies, it explodes in a burst of dust. Each creature within\
     \ 5 feet of it must then succeed on a DC 10 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]\
     \ for 1 minute. A [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] creature\

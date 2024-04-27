@@ -38,11 +38,11 @@ Once per week as an action, you may sacrifice Hit Dice to summon a [[5. Mechanic
 
 | Hit Dice Sacrificed | Size of Unit |
 |---------------------|--------------|
-| 2 | `dice: 1d4\|avg|noform` (`1d4`) |
-| 4 | `dice: 1d6\|avg|noform` (`1d6`) |
-| 6 | `dice: 1d8\|avg|noform` (`1d8`) |
-| 8 | `dice: 1d10\|avg|noform` (`1d10`) |
-| 10 | `dice: 1d12\|avg|noform` (`1d12`) |
+| 2 | `dice: 1d4\|avg\|noform` (`1d4`) |
+| 4 | `dice: 1d6\|avg\|noform` (`1d6`) |
+| 6 | `dice: 1d8\|avg\|noform` (`1d8`) |
+| 8 | `dice: 1d10\|avg\|noform` (`1d10`) |
+| 10 | `dice: 1d12\|avg\|noform` (`1d12`) |
 ^hit-dice-sacrificed-size-of-unit
 
 ## The Key to the Gate

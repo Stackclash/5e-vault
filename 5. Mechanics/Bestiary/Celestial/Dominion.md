@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Dominion
 ---
-# [[5. Mechanics/Bestiary/Celestial/Dominion.md|Dominion]]
+# [[5. Mechanics\Bestiary\Celestial\Dominion.md|Dominion]]
 *Source: Strongholds and Followers p. 161*
 
 Now, see? This looks more like a regular angel thing. Why can't they all look like this—why do they have to be wheels and wings and mouths and hands?
@@ -81,7 +81,7 @@ Obviously it should focus on those enemies adjacent to one or more of your allie
   "name": "Ray of Salvation"
 "source":
 - "SaF"
-"image": "5. Mechanics/Bestiary/Celestial/token/dominion-saf.webp"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Dominion.png"
 ```
 ^statblock
 

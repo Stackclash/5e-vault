@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - White Tusk Orc
 ---
-# [[5. Mechanics/Bestiary/Humanoid/White Tusk Orc.md|White Tusk Orc]]
+# [[5. Mechanics\Bestiary\Humanoid\White Tusk Orc.md|White Tusk Orc]]
 *Source: Strongholds and Followers p. 137*
 
 The rank and file of the White Tusk clan pride themselves on being larger and, thanks to Bonebreaker Dorokor's leadership since the investiture of Castle Rend, more devastating in combat than normal orcs.
@@ -61,7 +61,8 @@ They are a chaotic evil tribe who care only for strength and the subjugation of 
   "name": "Javelin"
 "source":
 - "SaF"
-"image": "5. Mechanics/Bestiary/Humanoid/token/white-tusk-orc-saf.webp"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/White\
+  \ Tusk Orc.png"
 ```
 ^statblock
 

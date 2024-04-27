@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Guardian Naga
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Guardian Naga.md|Guardian Naga]]
+# [[5. Mechanics\Bestiary\Monstrosity\Guardian Naga.md|Guardian Naga]]
 *Source: Monster Manual p. 234. Available in the SRD.*
 
 Wise and good, the beautiful guardian nagas protect sacred places and items of magical power from falling into evil hands. In their hidden redoubts, they research spells and hatch convoluted plots to thwart the evil designs of their enemies.
@@ -81,7 +81,7 @@ A naga doesn't require air, food, drink, or sleep.
     \ [[5. Mechanics/Spells/Banishment.md|banishment]], [[5. Mechanics/Spells/Freedom Of Movement.md|freedom of movement]]\n\
     \n5th level (2 slots): [[5. Mechanics/Spells/Flame Strike.md|flame strike]],\
     \ [[5. Mechanics/Spells/Geas.md|geas]]\n\n6th level (1 slots): [[5. Mechanics/Spells/True Seeing.md|true seeing]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "If it dies, the naga returns to life in dice: 1d6|avg|noform (1d6)\
     \ days and regains all its hit points. Only a [[5. Mechanics/Spells/Wish.md|wish]]\
     \ spell can prevent this trait from functioning."

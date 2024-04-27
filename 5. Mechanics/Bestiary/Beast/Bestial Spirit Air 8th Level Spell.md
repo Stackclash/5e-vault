@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - 'Bestial Spirit (Air, 8th-Level Spell)'
 ---
-# [[5. Mechanics/Bestiary/Beast/Bestial Spirit Air 8th Level Spell.md|Bestial Spirit (Air, 8th-Level Spell)]]
+# [[5. Mechanics\Bestiary\Beast\Bestial Spirit Air 8th Level Spell.md|Bestial Spirit (Air, 8th-Level Spell)]]
 *Source: Tasha's Cauldron of Everything p. 109*
 
 ```statblock

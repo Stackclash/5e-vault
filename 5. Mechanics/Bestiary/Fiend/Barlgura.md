@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Barlgura
 ---
-# [[5. Mechanics/Bestiary/Fiend/Barlgura.md|Barlgura]]
+# [[5. Mechanics\Bestiary\Fiend\Barlgura.md|Barlgura]]
 *Source: Monster Manual p. 56*
 
 The barlgura represents the savagery and brutality of the Abyss. Barlguras gather in packs to take down tougher foes, keep gruesome trophies from their victories, and decorate their territory with such objects.
@@ -220,7 +220,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
     1/day each: [[5. Mechanics/Spells/Entangle.md|entangle]], [[5. Mechanics/Spells/Phantasmal Force.md|phantasmal force]]\n\
     \n2/day each: [[5. Mechanics/Spells/Disguise Self.md|disguise self]], [[5. Mechanics/Spells/Invisibility.md|invisibility]]\
     \ (self only)"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "At the start of its turn, the barlgura can gain advantage on all melee\
     \ weapon attack rolls it makes during that turn, but attack rolls against it have\
     \ advantage until the start of its next turn."

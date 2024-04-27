@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Drow House Captain
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Drow House Captain.md|Drow House Captain]]
+# [[5. Mechanics\Bestiary\Humanoid\Drow House Captain.md|Drow House Captain]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 101, Mordenkainen's Tome of Foes p. 184*
 
 > [!quote]- A quote from Tasha  
@@ -56,7 +56,7 @@ Among Lolth's devotees in the city of Menzoberranzan in the Forgotten Realms, ea
     \ [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]]\n\n1/day each: [[5. Mechanics/Spells/Darkness.md|darkness]],\
     \ [[5. Mechanics/Spells/Faerie Fire.md|faerie fire]], [[5. Mechanics/Spells/Levitate.md|levitate]]\
     \ (self only)"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "The drow has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
     \ and magic can't put the drow to sleep."
   "name": "Fey Ancestry"

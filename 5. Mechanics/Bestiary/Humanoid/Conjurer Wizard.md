@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Conjurer Wizard
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Conjurer Wizard.md|Conjurer Wizard]]
+# [[5. Mechanics\Bestiary\Humanoid\Conjurer Wizard.md|Conjurer Wizard]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 260, Volo's Guide to Monsters p. 212*
 
 Conjurers summon creatures from other planes of existence and teleport themselves and others in the blink of an eye.
@@ -53,7 +53,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
     \n1/day each: [[5. Mechanics/Spells/Fly.md|fly]], [[5. Mechanics/Spells/Stinking Cloud.md|stinking cloud]],\
     \ [[5. Mechanics/Spells/Web.md|web]]\n\n2/day each: [[5. Mechanics/Spells/Fireball.md|fireball]],\
     \ [[5. Mechanics/Spells/Mage Armor.md|mage armor]], [[5. Mechanics/Spells/Unseen Servant.md|unseen servant]]"
-  "name": "spells"
+  "name": "Spellcasting"
 "actions":
 - "desc": "The conjurer makes three Arcane Burst attacks."
   "name": "Multiattack"

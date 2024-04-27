@@ -163,7 +163,7 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]], [[5. Mechanics/Spells/Haste.md|haste]]\n\
     \n4th level (3 slots): [[5. Mechanics/Spells/Evards Black Tentacles.md|black tentacles]],\
     \ [[5. Mechanics/Spells/Blight.md|blight]]\n\n5th level (2 slots): [[5. Mechanics/Spells/Cloudkill.md|cloudkill]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "The Court of All Flesh are beings of pure chaos. Because their minds are\
     \ pure disorder, they cannot be driven mad or [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
     \ and any attempts to magically compel their behavior fails."
@@ -195,7 +195,8 @@ await dv.view("npcRelationships", { current: dv.current() })
   "name": "Any Pile of Organs Will Do (Recharge 6-6)"
 "source":
 - "SaF"
-"image": "4. World Almanac/NPCs/token/lord-rall-saf.webp"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Lord\
+  \ Rall.png"
 ```
 ^statblock
 

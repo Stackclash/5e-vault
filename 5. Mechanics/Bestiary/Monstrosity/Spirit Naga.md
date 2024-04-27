@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Spirit Naga
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Spirit Naga.md|Spirit Naga]]
+# [[5. Mechanics\Bestiary\Monstrosity\Spirit Naga.md|Spirit Naga]]
 *Source: Monster Manual p. 234. Available in the SRD.*
 
 Spirit nagas live in gloom and spitefulness, constantly plotting vengeance against creatures that have wronged them-or that they believe have wronged them. Lairing in dismal caverns and ruins, they devote their time to developing new spells and enslaving the mortals with which they surround themselves. A spirit naga likes to charm its foes, drawing them close so that it can sink its poisonous fangs into their flesh.
@@ -80,7 +80,7 @@ A naga doesn't require air, food, drink, or sleep.
     \ [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]], [[5. Mechanics/Spells/Water Breathing.md|water breathing]]\n\
     \n4th level (3 slots): [[5. Mechanics/Spells/Blight.md|blight]], [[5. Mechanics/Spells/Dimension Door.md|dimension door]]\n\
     \n5th level (2 slots): [[5. Mechanics/Spells/Dominate Person.md|dominate person]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "If it dies, the naga returns to life in dice: 1d6|avg|noform (1d6)\
     \ days and regains all its hit points. Only a [[5. Mechanics/Spells/Wish.md|wish]]\
     \ spell can prevent this trait from functioning."

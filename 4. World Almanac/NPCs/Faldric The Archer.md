@@ -154,7 +154,8 @@ await dv.view("npcRelationships", { current: dv.current() })
   "name": "Pelliton's Archer"
 "source":
 - "SaF"
-"image": "4. World Almanac/NPCs/token/faldric-the-archer-saf.webp"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Faldric\
+  \ the Archer.png"
 ```
 ^statblock
 

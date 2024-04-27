@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Green Slaad
 ---
-# [[5. Mechanics/Bestiary/Aberration/Green Slaad.md|Green Slaad]]
+# [[5. Mechanics\Bestiary\Aberration\Green Slaad.md|Green Slaad]]
 *Source: Monster Manual p. 277*
 
 Green slaadi are surprisingly intelligent and possess innate spellcasting ability. A green slaad can change its shape to appear as a humanoid. If it was born of a humanoid host, the slaad usually adopts its host's form.
@@ -87,7 +87,7 @@ Some slaadi can transform into the humanoid creatures from which they were origi
     \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]]\n\n1/day: [[5. Mechanics/Spells/Fireball.md|fireball]]\n\
     \n2/day each: [[5. Mechanics/Spells/Fear.md|fear]], [[5. Mechanics/Spells/Invisibility.md|invisibility]]\
     \ (self only)"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "The slaad can use its action to polymorph into a Small or Medium humanoid,\
     \ or back into its true form. Its statistics, other than its size, are the same\
     \ in each form. Any equipment it is wearing or carrying isn't transformed. It\

@@ -15,12 +15,12 @@ aliases:
 
 | dice: d100 | Follower |
 |------------|----------|
-| 01–03 | Regular Light Infantry (Size `dice: 1d6\|avg|noform` (`1d6`)), Unit |
-| 04–06 | Regular Medium Infantry (Size `dice: 1d6\|avg|noform` (`1d6`)), Unit |
-| 07–09 | Seasoned Light Infantry (Size `dice: 1d6\|avg|noform` (`1d6`)), Unit |
-| 10–11 | Seasoned Medium Infantry (Size `dice: 1d4\|avg|noform` (`1d4`)), Unit |
-| 12–13 | Veteran Light Infantry (Size `dice: 1d4\|avg|noform` (`1d4`)), Unit |
-| 14–15 | Veteran Medium Infantry (Size `dice: 1d4\|avg|noform` (`1d4`)), Unit |
+| 01–03 | Regular Light Infantry (Size `dice: 1d6\|avg\|noform` (`1d6`)), Unit |
+| 04–06 | Regular Medium Infantry (Size `dice: 1d6\|avg\|noform` (`1d6`)), Unit |
+| 07–09 | Seasoned Light Infantry (Size `dice: 1d6\|avg\|noform` (`1d6`)), Unit |
+| 10–11 | Seasoned Medium Infantry (Size `dice: 1d4\|avg\|noform` (`1d4`)), Unit |
+| 12–13 | Veteran Light Infantry (Size `dice: 1d4\|avg\|noform` (`1d4`)), Unit |
+| 14–15 | Veteran Medium Infantry (Size `dice: 1d4\|avg\|noform` (`1d4`)), Unit |
 | 16 | [[5. Mechanics/Bestiary/Humanoid/Seer.md\|Seer]] (3rd Level), Retainer |
 | 17 | [[5. Mechanics/Bestiary/Humanoid/Exorcist.md\|Exorcist]] (3rd Level), Retainer |
 | 18 | [[5. Mechanics/Bestiary/Humanoid/Knight Of The Green Order.md\|Knight of the Green Order]] (3rd Level), Retainer |

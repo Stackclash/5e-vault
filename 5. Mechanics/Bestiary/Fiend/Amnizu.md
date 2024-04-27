@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Amnizu
 ---
-# [[5. Mechanics/Bestiary/Fiend/Amnizu.md|Amnizu]]
+# [[5. Mechanics\Bestiary\Fiend\Amnizu.md|Amnizu]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 46, Mordenkainen's Tome of Foes p. 164*
 
 Amnizus lead infernal legions into battle and command guardians at the gateways to the Hells. Amnizus are arrogant, bullying, and ruthless, but they're also highly intelligent tacticians and unfailingly loyal—qualities the hellish archdukes value.
@@ -54,7 +54,7 @@ Some amnizus perform the critical task of watching over the River Styx from fort
     \ and using Intelligence as the spellcasting ability (spell save DC 19):\n\nAt\
     \ will: [[5. Mechanics/Spells/Command.md|command]]\n\n1/day: [[5. Mechanics/Spells/Feeblemind.md|feeblemind]]\n\
     \n3/day: [[5. Mechanics/Spells/Dominate Monster.md|dominate monster]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "Magical darkness doesn't impede the amnizu's [[/5. Mechanics/Rules/Senses.md#darkvision|darkvision]]."
   "name": "Devil's Sight"
 - "desc": "The amnizu has advantage on saving throws against spells and other magical\

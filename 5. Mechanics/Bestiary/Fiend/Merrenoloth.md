@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Merrenoloth
 ---
-# [[5. Mechanics/Bestiary/Fiend/Merrenoloth.md|Merrenoloth]]
+# [[5. Mechanics\Bestiary\Fiend\Merrenoloth.md|Merrenoloth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 180, Mordenkainen's Tome of Foes p. 250*
 
 The grim captains of the ferries on the River Styx, merrenoloths can navigate safely through the worst storms and always stay on course. Wielding fiery oars, merrenoloths strike fear into anyone who forcefully boards their vessels.
@@ -54,7 +54,7 @@ The grim captains of the ferries on the River Styx, merrenoloths can navigate sa
     \ 13):\n\nAt will: [[5. Mechanics/Spells/Charm Person.md|charm person]], [[5. Mechanics/Spells/Darkness.md|darkness]],\
     \ [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
     \ [[5. Mechanics/Spells/Gust Of Wind.md|gust of wind]]\n\n3/day: [[5. Mechanics/Spells/Control Water.md|control water]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "The merrenoloth has advantage on saving throws against spells and other\
     \ magical effects."
   "name": "Magic Resistance"

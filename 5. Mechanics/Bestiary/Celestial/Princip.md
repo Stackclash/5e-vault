@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Princip
 ---
-# [[5. Mechanics/Bestiary/Celestial/Princip.md|Princip]]
+# [[5. Mechanics\Bestiary\Celestial\Princip.md|Princip]]
 *Source: Strongholds and Followers p. 155*
 
 Herald of the Righteous Power, the Princip arrives ready to crown an ally, bestowing on them a greater destiny, granting them immunity to spells that charm or dominate and raising one ability to god-like levels.
@@ -71,7 +71,7 @@ Um, what? The endless what now? Well, it tried. It probably means, "You're gonna
     \ [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]], [[5. Mechanics/Spells/Shield Of Faith.md|shield of faith]]\n\
     \n3/day each: [[5. Mechanics/Spells/Haste.md|haste]], [[5. Mechanics/Spells/Remove Curse.md|remove curse]],\
     \ [[5. Mechanics/Spells/Stoneskin.md|stoneskin]]"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "The princip's weapon attacks are magical. When the princip hits with any\
     \ weapon, the weapon deals an extra dice:2d8|text(9) (2d8) radiant damage\
     \ (included in the attack)."
@@ -102,7 +102,7 @@ Um, what? The endless what now? Well, it tried. It probably means, "You're gonna
   "name": "Crown of Glory"
 "source":
 - "SaF"
-"image": "5. Mechanics/Bestiary/Celestial/token/princip-saf.webp"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Princip.png"
 ```
 ^statblock
 

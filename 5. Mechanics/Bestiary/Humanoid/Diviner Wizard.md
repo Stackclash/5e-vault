@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Diviner Wizard
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Diviner Wizard.md|Diviner Wizard]]
+# [[5. Mechanics\Bestiary\Humanoid\Diviner Wizard.md|Diviner Wizard]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 261, Volo's Guide to Monsters p. 213*
 
 Diviners peer into the future and know that knowledge is power. They might act aloof and mysterious, hinting at omens and secrets, or they might be know-it-alls, spilling insights to advance their own status.
@@ -55,7 +55,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
     \ [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[5. Mechanics/Spells/Fly.md|fly]],\
     \ [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]], [[5. Mechanics/Spells/Locate Object.md|locate object]],\
     \ [[5. Mechanics/Spells/Mage Armor.md|mage armor]], [[5. Mechanics/Spells/Rarys Telepathic Bond.md|Rary's telepathic bond]]"
-  "name": "spells"
+  "name": "Spellcasting"
 "actions":
 - "desc": "The diviner makes three Arcane Burst attacks."
   "name": "Multiattack"

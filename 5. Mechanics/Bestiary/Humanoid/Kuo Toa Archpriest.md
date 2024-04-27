@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Kuo-toa Archpriest
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Kuo Toa Archpriest.md|Kuo-toa Archpriest]]
+# [[5. Mechanics\Bestiary\Humanoid\Kuo Toa Archpriest.md|Kuo-toa Archpriest]]
 *Source: Monster Manual p. 200*
 
 Kuo-toa are degenerate fishlike humanoids that once inhabited the shores and islands of the surface world. Long ago humans and their ilk drove the kuo-toa underground, where they dwell in madness and everlasting night. Kuo-toa can no longer abide daylight.
@@ -93,7 +93,7 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
     \n4th level (3 slots): [[5. Mechanics/Spells/Control Water.md|control water]],\
     \ [[5. Mechanics/Spells/Divination.md|divination]]\n\n5th level (2 slots): [[5. Mechanics/Spells/Mass Cure Wounds.md|mass\
     \ cure wounds]], [[5. Mechanics/Spells/Scrying.md|scrying]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "The kuo-toa can breathe air and water."
   "name": "Amphibious"
 - "desc": "The kuo-toa can sense the presence of any creature within 30 feet of it\

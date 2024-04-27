@@ -18,6 +18,7 @@ aliases:
   - Dimension Door
 ---
 # Dimension Door
+%%-- Embedded content starts on the next line. --%%
 *4th-level, Conjuration*  
 ![[5. Mechanics/Spells/img/dimension-door.webp#right]]  
 

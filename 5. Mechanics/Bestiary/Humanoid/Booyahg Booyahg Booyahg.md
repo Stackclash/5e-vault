@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Booyahg Booyahg Booyahg
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Booyahg Booyahg Booyahg.md|Booyahg Booyahg Booyahg]]
+# [[5. Mechanics\Bestiary\Humanoid\Booyahg Booyahg Booyahg.md|Booyahg Booyahg Booyahg]]
 *Source: Volo's Guide to Monsters p. 43*
 
 This goblin is a sorcerer with the wild magic origin whose every casting, including cantrips, is accompanied by a wild magic surge. Each time the goblin casts a spell, there is an accompanying surge of wild magic; roll on the [[5. Mechanics/Tables/Wild Magic Surge.md|Wild Magic Surge]] table in the "Player's Handbook" to determine the wild magic effect.
@@ -64,7 +64,7 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
     \n4th level (3 slots): [[5. Mechanics/Spells/Greater Invisibility.md|greater invisibility]],\
     \ [[5. Mechanics/Spells/Ice Storm.md|ice storm]]\n\n5th level (1 slots): [[5. Mechanics/Spells/Cone Of Cold.md|cone\
     \ of cold]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "Each time the goblin casts a spell (including cantrips), there is an accompanying\
     \ surge of wild magic; roll on the [[5. Mechanics/Tables/Wild Magic Surge.md|Wild Magic Surge]]\
     \ table in the \"Player's Handbook\" to determine the wild magic effect."

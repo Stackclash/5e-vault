@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Erinyes
 ---
-# [[5. Mechanics/Bestiary/Fiend/Erinyes.md|Erinyes]]
+# [[5. Mechanics\Bestiary\Fiend\Erinyes.md|Erinyes]]
 *Source: Monster Manual p. 73. Available in the SRD.*
 
 The most beautiful and striking of all lesser and greater devils, the erinyes are fierce and disciplined warriors. Sweeping down from the skies, they bring swift death to creatures that have wronged their masters or defied the edicts of Asmodeus. The erinyes appear as male or female humanoids with statuesque builds and large feathery wings. Most wear stylized armor and horned helms, and carry exquisite swords and bows. A few also use ropes of entanglement to ensnare powerful foes.

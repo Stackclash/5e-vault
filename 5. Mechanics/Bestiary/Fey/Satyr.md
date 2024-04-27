@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Satyr
 ---
-# [[5. Mechanics/Bestiary/Fey/Satyr.md|Satyr]]
+# [[5. Mechanics\Bestiary\Fey\Satyr.md|Satyr]]
 *Source: Monster Manual p. 267. Available in the SRD and the Basic Rules.*
 
 Satyrs are raucous fey that frolic in wild forests, driven by curiosity and hedonism in equal measure.

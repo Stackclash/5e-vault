@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Drow Favored Consort
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Drow Favored Consort.md|Drow Favored Consort]]
+# [[5. Mechanics\Bestiary\Humanoid\Drow Favored Consort.md|Drow Favored Consort]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 100, Mordenkainen's Tome of Foes p. 183*
 
 Nearly every priestess of Lolth, including the powerful [[5. Mechanics/Bestiary/Humanoid/Drow Matron Mother.md|drow matron mother]] in this book, takes an attractive drow as consort. Chosen as much for beauty as for magical might, a drow favored consort can hold their own in both conversation and combat. Combining the roles of advisor, protector, and beloved, some favored consorts are content with a supporting role, while more ambitious consorts aspire to be the power behind the throne—or even to claim the throne themselves.
@@ -59,7 +59,7 @@ Some favored consorts work behind the scenes to undermine the evils encouraged b
     \ [[5. Mechanics/Spells/Levitate.md|levitate]] (self only)\n\n3/day each: [[5. Mechanics/Spells/Dimension Door.md|dimension\
     \ door]], [[5. Mechanics/Spells/Fireball.md|fireball]],\
     \ [[5. Mechanics/Spells/Invisibility.md|invisibility]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "The drow has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
     \ and magic can't put the drow to sleep."
   "name": "Fey Ancestry"

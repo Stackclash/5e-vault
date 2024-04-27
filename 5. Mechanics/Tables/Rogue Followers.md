@@ -15,9 +15,9 @@ aliases:
 
 | dice: d100 | Follower |
 |------------|----------|
-| 01–04 | Seasoned Light Infantry (Size `dice: 1d6\|avg|noform` (`1d6`)), Unit |
-| 05–07 | Seasoned Medium Infantry (Size `dice: 1d4\|avg|noform` (`1d4`)), Unit |
-| 08–10 | Seasoned Medium Archers (Size `dice: 1d4\|avg|noform` (`1d4`)), Unit |
+| 01–04 | Seasoned Light Infantry (Size `dice: 1d6\|avg\|noform` (`1d6`)), Unit |
+| 05–07 | Seasoned Medium Infantry (Size `dice: 1d4\|avg\|noform` (`1d4`)), Unit |
+| 08–10 | Seasoned Medium Archers (Size `dice: 1d4\|avg\|noform` (`1d4`)), Unit |
 | 11–12 | [[5. Mechanics/Bestiary/Humanoid/Theurgist.md\|Theurgist]] (3rd Level), Retainer |
 | 13–14 | [[5. Mechanics/Bestiary/Humanoid/Swordmaster.md\|Swordmaster]] (3rd Level), Retainer |
 | 15–16 | [[5. Mechanics/Bestiary/Humanoid/Justicar.md\|Justicar]] (3rd Level), Retainer |

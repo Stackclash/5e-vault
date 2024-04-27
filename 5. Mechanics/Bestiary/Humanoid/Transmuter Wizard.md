@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Transmuter Wizard
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Transmuter Wizard.md|Transmuter Wizard]]
+# [[5. Mechanics\Bestiary\Humanoid\Transmuter Wizard.md|Transmuter Wizard]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 265, Volo's Guide to Monsters p. 218*
 
 Transmuters are masters at transforming physical forms. They typically view magical transmutation as a path to riches, enlightenment, or apotheosis.
@@ -54,7 +54,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
     \ [[5. Mechanics/Spells/Fireball.md|fireball]], [[5. Mechanics/Spells/Hold Person.md|hold person]],\
     \ [[5. Mechanics/Spells/Knock.md|knock]], [[5. Mechanics/Spells/Mage Armor.md|mage armor]],\
     \ [[5. Mechanics/Spells/Polymorph.md|polymorph]], [[5. Mechanics/Spells/Slow.md|slow]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "The transmuter carries a magic stone it crafted. The stone grants it one\
     \ of the following benefits while bearing the stone; the transmuter chooses the\
     \ benefit at the end of each long rest:\n\n- Darkvision. The transmuter has\

@@ -75,12 +75,12 @@ Whenever Strahd appears in a location other than his tomb or the place indicated
 
 | dice: d20 | Creatures |
 |-----------|-----------|
-| 1–3 | `dice: 1d4 + 2\|avg|noform` (`1d4 + 2`) [[5. Mechanics/Bestiary/Beast/Dire Wolf.md|dire wolves]] |
-| 4–6 | `dice: 1d6 + 3\|avg|noform` (`1d6 + 3`) [[5. Mechanics/Bestiary/Undead/Ghoul.md|ghouls]] |
-| 7–9 | `dice: 1d4 + 2\|avg|noform` (`1d4 + 2`) [[5. Mechanics/Bestiary/Undead/Strahd Zombie.md|Strahd zombies]] (in this appendix) |
-| 10–12 | `dice: 2d4\|avg|noform` (`2d4`) [[5. Mechanics/Bestiary/Beast/Swarm Of Bats.md|swarms of bats]] |
-| 13–15 | `dice: 1d4 + 1\|avg|noform` (`1d4 + 1`) [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md|vampire spawn]] |
-| 16–18 | `dice: 3d6\|avg|noform` (`3d6`) [[5. Mechanics/Bestiary/Beast/Wolf.md|wolves]] |
+| 1–3 | `dice: 1d4 + 2\|avg\|noform` (`1d4 + 2`) [[5. Mechanics/Bestiary/Beast/Dire Wolf.md|dire wolves]] |
+| 4–6 | `dice: 1d6 + 3\|avg\|noform` (`1d6 + 3`) [[5. Mechanics/Bestiary/Undead/Ghoul.md|ghouls]] |
+| 7–9 | `dice: 1d4 + 2\|avg\|noform` (`1d4 + 2`) [[5. Mechanics/Bestiary/Undead/Strahd Zombie.md|Strahd zombies]] (in this appendix) |
+| 10–12 | `dice: 2d4\|avg\|noform` (`2d4`) [[5. Mechanics/Bestiary/Beast/Swarm Of Bats.md|swarms of bats]] |
+| 13–15 | `dice: 1d4 + 1\|avg\|noform` (`1d4 + 1`) [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md|vampire spawn]] |
+| 16–18 | `dice: 3d6\|avg\|noform` (`3d6`) [[5. Mechanics/Bestiary/Beast/Wolf.md|wolves]] |
 | 19–20 | None |
 ^creatures
 
@@ -197,7 +197,7 @@ await dv.view("npcRelationships", { current: dv.current() })
     \n4th level (3 slots): [[5. Mechanics/Spells/Blight.md|blight]], [[5. Mechanics/Spells/Greater Invisibility.md|greater invisibility]],\
     \ [[5. Mechanics/Spells/Polymorph.md|polymorph]]\n\n5th level (1 slots): [[5. Mechanics/Spells/Animate Objects.md|animate\
     \ objects]], [[5. Mechanics/Spells/Scrying.md|scrying]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "If Strahd isn't in running water or sunlight, he can use his action to\
     \ polymorph into a Tiny bat, a Medium wolf, or a Medium cloud of mist, or back\
     \ into his true form.\n\nWhile in bat or wolf form, Strahd can't speak. In bat\

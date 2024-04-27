@@ -20,6 +20,7 @@ aliases:
   - Locate Creature
 ---
 # Locate Creature
+%%-- Embedded content starts on the next line. --%%
 *4th-level, Divination*  
 
 - **Casting time:** 1 action

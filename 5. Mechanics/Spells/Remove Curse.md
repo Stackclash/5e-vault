@@ -16,6 +16,7 @@ aliases:
   - Remove Curse
 ---
 # Remove Curse
+%%-- Embedded content starts on the next line. --%%
 *3rd-level, Abjuration*  
 
 - **Casting time:** 1 action

@@ -33,20 +33,20 @@ In most circumstances, a random encounter occurs on a roll of 18 or higher on a 
 | 3 | [[4. World Almanac/NPCs/Rahadin.md\|Rahadin]] (see appendix D) |
 | 4 | 1 black [[5. Mechanics/Bestiary/Beast/Cat.md\|cat]] |
 | 5 | 1 [[5. Mechanics/Bestiary/Construct/Broom Of Animated Attack.md\|broom of animated attack]] (see appendix D) |
-| 6 | `dice: 1d4 + 1\|avg|noform` (`1d4 + 1`) [[5. Mechanics/Bestiary/Construct/Flying Sword.md\|flying swords]] |
+| 6 | `dice: 1d4 + 1\|avg\|noform` (`1d4 + 1`) [[5. Mechanics/Bestiary/Construct/Flying Sword.md\|flying swords]] |
 | 7 | Blinsky toy |
 | 8 | [[5. Mechanics/Spells/Unseen Servant.md\|Unseen servant]] |
-| 9 | `dice: 1d4\|avg|noform` (`1d4`) [[5. Mechanics/Bestiary/Humanoid/Barovian Commoner.md\|commoners]] |
-| 10 | `dice: 2d6\|avg|noform` (`2d6`) [[5. Mechanics/Bestiary/Undead/Crawling Claw.md\|crawling claws]] |
-| 11 | `dice: 1d6\|avg|noform` (`1d6`) [[5. Mechanics/Bestiary/Undead/Shadow.md\|shadows]] |
-| 12 | `dice: 1d6\|avg|noform` (`1d6`) [[5. Mechanics/Bestiary/Beast/Swarm Of Bats.md\|swarms of bats]] |
+| 9 | `dice: 1d4\|avg\|noform` (`1d4`) [[5. Mechanics/Bestiary/Humanoid/Barovian Commoner.md\|commoners]] |
+| 10 | `dice: 2d6\|avg\|noform` (`2d6`) [[5. Mechanics/Bestiary/Undead/Crawling Claw.md\|crawling claws]] |
+| 11 | `dice: 1d6\|avg\|noform` (`1d6`) [[5. Mechanics/Bestiary/Undead/Shadow.md\|shadows]] |
+| 12 | `dice: 1d6\|avg\|noform` (`1d6`) [[5. Mechanics/Bestiary/Beast/Swarm Of Bats.md\|swarms of bats]] |
 | 13 | 1 crawling [[5. Mechanics/Bestiary/Undead/Strahd Zombie.md\|Strahd zombie]] (see appendix D) |
-| 14 | `dice: 1d4 + 1\|avg|noform` (`1d4 + 1`) Vistani [[5. Mechanics/Bestiary/Humanoid/Vistana Thug.md\|thugs]] |
-| 15 | `dice: 1d4\|avg|noform` (`1d4`) [[5. Mechanics/Bestiary/Undead/Wight.md\|wights]] |
+| 14 | `dice: 1d4 + 1\|avg\|noform` (`1d4 + 1`) Vistani [[5. Mechanics/Bestiary/Humanoid/Vistana Thug.md\|thugs]] |
+| 15 | `dice: 1d4\|avg\|noform` (`1d4`) [[5. Mechanics/Bestiary/Undead/Wight.md\|wights]] |
 | 16 | Trinket |
 | 17 | Giant spider cocoon |
 | 18 | 1 [[5. Mechanics/Bestiary/Humanoid/Barovian Witch.md\|Barovian witch]] (see appendix D) |
-| 19 | `dice: 1d4 + 1\|avg|noform` (`1d4 + 1`) [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md\|vampire spawn]] |
+| 19 | `dice: 1d4 + 1\|avg\|noform` (`1d4 + 1`) [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md\|vampire spawn]] |
 | 20 | [[4. World Almanac/NPCs/Strahd Von Zarovich.md\|Strahd von Zarovich]] (see appendix D) |
 ^random-encounters-in-castle-ravenloft
 
@@ -269,10 +269,10 @@ This unseen servant was created by Strahd and is permanent until destroyed (see 
 | dice: d6 | Items |
 |----------|-------|
 | 1 | A tarnished silver platter with a lid (worth 25 gp). If a character comes within 5 feet of the servant, it lifts the lid, revealing a bunch of moldy scones. The first character to eat a scone gains inspiration. On later occurrences of this encounter, the platter holds a [[5. Mechanics/Bestiary/Undead/Crawling Claw.md\|crawling claw]] that attacks the nearest character. |
-| 2 | A silver goblet (worth 50 gp) filled to the brim with wine. A character who drinks the wine must make a DC 15 Constitution saving throw, taking `dice:8d10|text(44)` (`8d10`) poison damage on a failed save, or half as much damage on a successful one. On future occurrences of this encounter, the wine acts as a [[5. Mechanics/Items/Potion Of Healing.md\|potion of healing]]. |
+| 2 | A silver goblet (worth 50 gp) filled to the brim with wine. A character who drinks the wine must make a DC 15 Constitution saving throw, taking `dice:8d10\|text(44)` (`8d10`) poison damage on a failed save, or half as much damage on a successful one. On future occurrences of this encounter, the wine acts as a [[5. Mechanics/Items/Potion Of Healing.md\|potion of healing]]. |
 | 3 | A gold candelabrum (worth 150 gp) with three branches, each one holding an unlit candle. |
 | 4 | A purple silk handkerchief with white ruffled edges (worth 1 gp). On future occurrences of this encounter, the handkerchief is smeared with fresh blood. |
-| 5 | A crystal dinner bell (worth 25 gp). The unseen servant rings the bell if the characters come within 10 feet of it. The sound attracts `dice: 1d4\|avg|noform` (`1d4`) hungry [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md\|vampire spawn]] (see below), which arrive in `dice: 1d4 + 1\|avg|noform` (`1d4 + 1`) rounds. |
+| 5 | A crystal dinner bell (worth 25 gp). The unseen servant rings the bell if the characters come within 10 feet of it. The sound attracts `dice: 1d4\|avg\|noform` (`1d4`) hungry [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md\|vampire spawn]] (see below), which arrive in `dice: 1d4 + 1\|avg\|noform` (`1d4 + 1`) rounds. |
 | 6 | A wizard's spellbook with a black velvet dust jacket over its stitched leather cover. The book contains all the spells Strahd has prepared (see appendix D). On subsequent occurrences of this encounter, the tome is a nonmagical leather-bound storybook worth 25 gp. |
 ^items
 
@@ -320,6 +320,10 @@ Refer to map 2 of the castle for areas K1 through K6.
 > [!gallery]
 > ![[6. Resources/5e Modules/Curse Of Strahd/img/024-005.webp#gallery\|Map 2: Walls of Ravenloft]]
 > ![[6. Resources/5e Modules/Curse Of Strahd/img/024-005-player.webp#gallery\|Player Version]]
+
+> [!gallery]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/map-4-02-walls.webp#gallery\|Walls of Ravenloft (Battlemap; DM Version)]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/map-4-02-walls-player.webp#gallery\|Walls of Ravenloft (Battlemap; Player Version)]]
 
 ### K1. Front Courtyard
 
@@ -414,6 +418,10 @@ Refer to map 3 of the castle for areas K7 through K24.
 > [!gallery]
 > ![[6. Resources/5e Modules/Curse Of Strahd/img/025-006.webp#gallery\|Map 3: Main Floor]]
 > ![[6. Resources/5e Modules/Curse Of Strahd/img/025-006-player.webp#gallery\|Player Version]]
+
+> [!gallery]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/map-4-03-main-floor.webp#gallery\|Main Floor (Battlemap; DM Version)]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/map-4-03-main-floor-player.webp#gallery\|Main Floor (Battlemap; Player Version)]]
 
 ### K7. Entry
 
@@ -716,6 +724,10 @@ Refer to map 4 of the castle for areas K25 through K34.
 > ![[6. Resources/5e Modules/Curse Of Strahd/img/028-007.webp#gallery\|Map 4: Court of the Count]]
 > ![[6. Resources/5e Modules/Curse Of Strahd/img/028-007-player.webp#gallery\|Player Version]]
 
+> [!gallery]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/map-4-04-court-revised.webp#gallery\|Court of the Count (Battlemap; DM Version)]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/map-4-04-court-player-revised.webp#gallery\|Court of the Count (Battlemap; Player Version)]]
+
 ### K25. Audience Hall
 
 > [!readaloud] 
@@ -817,10 +829,10 @@ Pulling the rope requires an action. When the rope is pulled, a tremendously lou
 
 | dice: d4 | Creature |
 |----------|----------|
-| 1 | `dice: 1d6\|avg|noform` (`1d6`) [[5. Mechanics/Bestiary/Undead/Shadow.md\|shadows]] |
-| 2 | `dice: 1d4\|avg|noform` (`1d4`) [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md\|vampire spawn]] |
-| 3 | `dice: 1d4\|avg|noform` (`1d4`) [[5. Mechanics/Bestiary/Undead/Wight.md\|wights]] |
-| 4 | 1 [[5. Mechanics/Bestiary/Undead/Wraith.md\|wraith]] and `dice: 1d4 + 1\|avg|noform` (`1d4 + 1`) [[5. Mechanics/Bestiary/Undead/Specter.md\|specters]] |
+| 1 | `dice: 1d6\|avg\|noform` (`1d6`) [[5. Mechanics/Bestiary/Undead/Shadow.md\|shadows]] |
+| 2 | `dice: 1d4\|avg\|noform` (`1d4`) [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md\|vampire spawn]] |
+| 3 | `dice: 1d4\|avg\|noform` (`1d4`) [[5. Mechanics/Bestiary/Undead/Wight.md\|wights]] |
+| 4 | 1 [[5. Mechanics/Bestiary/Undead/Wraith.md\|wraith]] and `dice: 1d4 + 1\|avg\|noform` (`1d4 + 1`) [[5. Mechanics/Bestiary/Undead/Specter.md\|specters]] |
 ^creature
 
 Lief was pressed into service by Strahd many years ago. He keeps all the books for Strahd, recording the vampire's riches and conquests. Lief has been here longer than he can remember. He is grumpy because Strahd doesn't allow him to know about all his treasures. Even so, Lief has found out where one of Strahd's secret treasures lies. If he is treated with kindness, Lief will divulge the hiding place of the [[5. Mechanics/Items/Holy Symbol Of Ravenkind.md\|Holy Symbol of Ravenkind]], as indicated by your card reading. Lief can draw a crude map showing a route to that location. His map is geographically accurate, but he admits that it doesn't acknowledge or avoid any dangers that might lie along the way. Lief doesn't necessarily know the most direct path to the symbol's location.
@@ -933,6 +945,10 @@ Refer to map 5 of the castle for areas K35 through K46.
 > [!gallery]
 > ![[6. Resources/5e Modules/Curse Of Strahd/img/030-008.webp#gallery\|Map 5: Rooms of Weeping]]
 > ![[6. Resources/5e Modules/Curse Of Strahd/img/030-008-player.webp#gallery\|Player Version]]
+
+> [!gallery]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/map-4-05-weeping.webp#gallery\|Rooms of Weeping (Battlemap; DM Version)]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/map-4-05-weeping-player.webp#gallery\|Rooms of Weeping (Battlemap; Player Version)]]
 
 ### K35. Guardian Vermin
 
@@ -1192,6 +1208,10 @@ Refer to maps 6 through 10 of Castle Ravenloft for areas K47 through K60.
 > [!gallery]
 > ![[6. Resources/5e Modules/Curse Of Strahd/img/033-009.webp#gallery\|Map 6: Spires of Ravenloft]]
 > ![[6. Resources/5e Modules/Curse Of Strahd/img/033-009-player.webp#gallery\|Player Version]]
+
+> [!gallery]
+> ![Spires and Tower of Ravenl...](compendium/adventures/curse-of-strahd/img/map-4-06-spires12.webp#gallery "Spires and Tower of Ravenloft (Battlemap; DM Version)")
+> ![Spires and Tower of Ravenl...](compendium/adventures/curse-of-strahd/img/map-4-06-spires12-player.webp#gallery "Spires and Tower of Ravenloft (Battlemap; Player Version)")
 
 ### K47. Portrait of Strahd
 
@@ -1454,6 +1474,14 @@ Refer to map 11 of the castle for areas K61 through K72.
 > [!gallery]
 > ![[6. Resources/5e Modules/Curse Of Strahd/img/038-011.webp#gallery\|"Map 11: Larders of Ill Omen & Map 12: Dungeon and Catacombs"]]
 > ![[6. Resources/5e Modules/Curse Of Strahd/img/038-011-player.webp#gallery\|Player Version]]
+
+> [!gallery]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/map-4-08-larders.webp#gallery\|Larders of Ill Omen (Battlemap; DM Version)]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/map-4-08-larders-player.webp#gallery\|Larders of Ill Omen (Battlemap; Player Version)]]
+
+> [!gallery]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/map-4-09-dungeons-and-catacombs.webp#gallery\|Dungeon and Catacombs (Battlemap; DM Version)]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/map-4-09-dungeons-and-catacombs-player.webp#gallery\|Dungeon and Catacombs (Battlemap; Player Version)]]
 
 ### K61. Elevator Trap
 

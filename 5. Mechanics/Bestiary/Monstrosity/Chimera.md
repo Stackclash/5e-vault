@@ -14,7 +14,7 @@ statblock: inline
 aliases:
   - Chimera
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Chimera.md|Chimera]]
+# [[5. Mechanics\Bestiary\Monstrosity\Chimera.md|Chimera]]
 *Source: Monster Manual p. 39. Available in the SRD and the Basic Rules.*
 
 Chimeras were created after mortals summoned Demogorgon to the world. The Prince of Demons, unimpressed with the creatures that surrounded it, transformed them into horrific, multi-headed monstrosities. This act gave rise to the first chimeras.

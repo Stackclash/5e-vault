@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Shadow
 ---
-# [[5. Mechanics/Bestiary/Undead/Shadow.md|Shadow]]
+# [[5. Mechanics\Bestiary\Undead\Shadow.md|Shadow]]
 *Source: Monster Manual p. 269, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD.*
 
 Shadows are undead that resemble dark exaggerations of humanoid shadows.

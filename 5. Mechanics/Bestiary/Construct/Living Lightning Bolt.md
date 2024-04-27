@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Living Lightning Bolt
 ---
-# [[5. Mechanics/Bestiary/Construct/Living Lightning Bolt.md|Living Lightning Bolt]]
+# [[5. Mechanics\Bestiary\Construct\Living Lightning Bolt.md|Living Lightning Bolt]]
 *Source: Eberron: Rising from the Last War p. 299*
 
 ## Constructed Nature

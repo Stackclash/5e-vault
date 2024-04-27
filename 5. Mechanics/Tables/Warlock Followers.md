@@ -15,9 +15,9 @@ aliases:
 
 | dice: d100 | Follower |
 |------------|----------|
-| 01–04 | Regular Light Infantry (Size `dice: 1d6\|avg|noform` (`1d6`)), Unit |
-| 05–08 | Seasoned Light Infantry (Size `dice: 1d6\|avg|noform` (`1d6`)), Unit |
-| 09–12 | Veteran Light Infantry (Size `dice: 1d4\|avg|noform` (`1d4`)), Unit |
+| 01–04 | Regular Light Infantry (Size `dice: 1d6\|avg\|noform` (`1d6`)), Unit |
+| 05–08 | Seasoned Light Infantry (Size `dice: 1d6\|avg\|noform` (`1d6`)), Unit |
+| 09–12 | Veteran Light Infantry (Size `dice: 1d4\|avg\|noform` (`1d4`)), Unit |
 | 13–15 | Seasoned Medium Archers (Size), Unit |
 | 16–17 | [[5. Mechanics/Bestiary/Humanoid/Spirit Warden.md\|Spirit Warden]] (3rd Level), Retainer |
 | 18–19 | [[5. Mechanics/Bestiary/Humanoid/Necromancer.md\|Necromancer]] (3rd Level), Retainer |

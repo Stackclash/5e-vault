@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Storm Magistrate
 ---
-# [[5. Mechanics/Bestiary/Elemental/Storm Magistrate.md|Storm Magistrate]]
+# [[5. Mechanics\Bestiary\Elemental\Storm Magistrate.md|Storm Magistrate]]
 *Source: Strongholds and Followers p. 191*
 
 The Magistrates of the Burning City are the priests and judges of the Lady of Fire. The motes, sources, and knights are diagnosticians. They identify and evaluate the problem. The Lords of Storm cure it.
@@ -61,7 +61,7 @@ The Magistrate's deadliest weapon is Storm Strike, which combines chain lightnin
     \ Wisdom (spell save DC 17, dice: d20+9 (+9) to hit with spell attacks). It\
     \ can innately cast the following spells, requiring no components:\n\nAt will:\
     \ [[5. Mechanics/Spells/Enhance Ability.md|enhance ability]]"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "The magistrate has the following cleric spells prepared:\n\nCantrips\
     \ (at will): [[5. Mechanics/Spells/Light.md|light]], [[5. Mechanics/Spells/Guidance.md|guidance]],\
     \ [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]], [[5. Mechanics/Spells/Spare The Dying.md|spare the dying]]\n\
@@ -78,7 +78,7 @@ The Magistrate's deadliest weapon is Storm Strike, which combines chain lightnin
     \ [[5. Mechanics/Spells/Stoneskin.md|stoneskin]]\n\n5th level (1 slots): [[5. Mechanics/Spells/Flame Strike.md|flame\
     \ strike]], [[5. Mechanics/Spells/Mass Cure Wounds.md|mass cure wounds]],\
     \ [[5. Mechanics/Spells/Hold Monster.md|hold monster]]"
-  "name": "spells"
+  "name": "Spellcasting"
 "actions":
 - "desc": "The Magistrate makes two attacks with its morningstar."
   "name": "Multiattack"
@@ -95,7 +95,8 @@ The Magistrate's deadliest weapon is Storm Strike, which combines chain lightnin
   "name": "Storm Strike (Recharge 6-6)"
 "source":
 - "SaF"
-"image": "5. Mechanics/Bestiary/Elemental/token/storm-magistrate-saf.webp"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Storm\
+  \ Magistrate.png"
 ```
 ^statblock
 

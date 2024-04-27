@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Giff
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Giff.md|Giff]]
+# [[5. Mechanics\Bestiary\Humanoid\Giff.md|Giff]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 138, Mordenkainen's Tome of Foes p. 204*
 
 > [!quote]- A quote from Mordenkainen  

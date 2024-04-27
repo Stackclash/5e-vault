@@ -743,7 +743,7 @@ The eyes of the beneficiary become starry voids until the dark gift vanishes. Th
 
 ##### West Sarcophagus
 
-The vestige within this sarcophagus offers the dark gift of Great Taar Haak, the Five-Headed Destroyer. Taar Haak's gift is great strength. This dark gift grants its beneficiary the benefit of a [[5. Mechanics/Items/Belt Of Fire Giant Strength.md\|belt of fire giant strength]]. This benefit lasts for 10 days, after which the dark giftvanishes.
+The vestige within this sarcophagus offers the dark gift of Great Taar Haak, the Five-Headed Destroyer. Taar Haak's gift is great strength. This dark gift grants its beneficiary the benefit of a [[5. Mechanics/Items/Belt Of Fire Giant Strength.md\|belt of fire giant strength]]. This benefit lasts for 10 days, after which the dark gift vanishes.
 
 The beneficiary of this dark gift the following flaw: "I like to bully others and make them feel weak and inferior."
 

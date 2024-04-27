@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Star Spawn Larva Mage
 ---
-# [[5. Mechanics/Bestiary/Aberration/Star Spawn Larva Mage.md|Star Spawn Larva Mage]]
+# [[5. Mechanics\Bestiary\Aberration\Star Spawn Larva Mage.md|Star Spawn Larva Mage]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 228, Mordenkainen's Tome of Foes p. 235*
 
 A larva mage is a nightmarish combination of a mortal body and otherworldly substance. When a powerful cultist of a wormlike entity such as Kyuss or Kezef—usually a warlock or other spellcaster—contacts the comet-borne emissary of an Elder Evil, the emissary can merge with a mortal consciousness to create a larva mage. None of the original cultist's personality survives the transformation; what emerges is wholly alien.
@@ -77,7 +77,7 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
     \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Message.md|message]],\
     \ [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]]\n\n1/day: [[5. Mechanics/Spells/Dominate Monster.md|dominate\
     \ monster]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "When the mage is reduced to 0 hit points, it breaks apart into a [[5. Mechanics/Bestiary/Beast/Swarm Of Insects.md|swarm\
     \ of insects]] in the same space.\
     \ Unless the swarm is destroyed, the mage reforms from it 24 hours later."

@@ -159,14 +159,14 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ and using Charisma as the spellcasting ability (spell save DC 23):\n\nAt will:\
     \ [[5. Mechanics/Spells/Detect Magic.md|detect magic]]\n\n1/day: [[5. Mechanics/Spells/Time Stop.md|time stop]]\n\
     \n3/day: [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "While holding the [[5. Mechanics/Items/Wand Of Orcus.md|Wand of Orcus]], Orcus\
     \ casts one of the following spells (spell save DC 18), some of which require\
     \ charges; the wand has 7 charges to fuel these spells, and it regains dice:\
     \ 1d4 + 3|avg|noform (1d4 + 3) charges daily at dawn:\n\nAt will: [[5. Mechanics/Spells/Animate Dead.md|animate\
     \ dead]] (as an action), [[5. Mechanics/Spells/Blight.md|blight]],\
     \ [[5. Mechanics/Spells/Speak With Dead.md|speak with dead]]"
-  "name": "spells"
+  "name": "Wand Spellcasting"
 - "desc": "If Orcus fails a saving throw, he can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
 - "desc": "Orcus has advantage on saving throws against spells and other magical effects."

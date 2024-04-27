@@ -12,7 +12,7 @@ statblock: inline
 aliases:
   - Necromancer Wizard
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Necromancer Wizard.md|Necromancer Wizard]]
+# [[5. Mechanics\Bestiary\Humanoid\Necromancer Wizard.md|Necromancer Wizard]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 264, Volo's Guide to Monsters p. 217*
 
 Necromancers study the interaction of life, death, and undeath. Some necromancers dig up or purchase corpses to create Undead servitors. A few instead use their powers for good, hunting Undead.
@@ -56,7 +56,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
     2/day each: [[5. Mechanics/Spells/Bestow Curse.md|bestow curse]], [[5. Mechanics/Spells/Dimension Door.md|dimension\
     \ door]], [[5. Mechanics/Spells/Mage Armor.md|mage armor]],\
     \ [[5. Mechanics/Spells/Web.md|web]]"
-  "name": "spells"
+  "name": "Spellcasting"
 "actions":
 - "desc": "The necromancer makes three Arcane Burst attacks."
   "name": "Multiattack"

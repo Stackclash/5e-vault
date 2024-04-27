@@ -15,7 +15,7 @@ statblock: inline
 aliases:
   - Orc Hand of Yurtrus
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Orc Hand Of Yurtrus.md|Orc Hand of Yurtrus]]
+# [[5. Mechanics\Bestiary\Humanoid\Orc Hand Of Yurtrus.md|Orc Hand of Yurtrus]]
 *Source: Volo's Guide to Monsters p. 184*
 
 To the common folk of the world, an orc is an orc. They know that any one of these savages can tear an ordinary person to pieces, so no further distinction is necessary.
@@ -72,7 +72,7 @@ As befits followers of a god who doesn't speak, hands of Yurtrus remove their to
     \ and good]]\n\n2nd level\
     \ (3 slots): [blindness/deafness](compendium/spells/blindness-deafness.md),\
     \ [[5. Mechanics/Spells/Silence.md|silence]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "As a bonus action, the orc can move up to its speed toward a hostile creature\
     \ that it can see."
   "name": "Aggressive"

@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Space
 ---
-# [[5. Mechanics/Bestiary/Construct/Space.md|Space]]
+# [[5. Mechanics\Bestiary\Construct\Space.md|Space]]
 *Source: Strongholds and Followers p. 227*
 
 The Inexorable limitations of Space forbid anyone from moving from point A to point Z without passing through the rest of the alphabet. Certainly nothing as vulgar as teleportation is allowed on Axiom.
@@ -62,7 +62,7 @@ Space is the light infantry of the Inexorables, and pretty easy to use in combat
   "name": "Slam"
 "source":
 - "SaF"
-"image": "5. Mechanics/Bestiary/Construct/token/space-saf.webp"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Space.png"
 ```
 ^statblock
 

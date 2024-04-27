@@ -179,7 +179,7 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ [[5. Mechanics/Spells/Create Undead.md|create undead]], [[5. Mechanics/Spells/Dream.md|dream]],\
     \ [[5. Mechanics/Spells/Hold Monster.md|hold monster]], [[5. Mechanics/Spells/Mass Suggestion.md|mass suggestion]],\
     \ [[5. Mechanics/Spells/Scrying.md|scrying]]"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "If Sul Khatesh fails a saving throw, she can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
 - "desc": "Sul Khatesh has advantage on saving throws against spells and other magical\

@@ -143,7 +143,7 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ [[5. Mechanics/Spells/Magic Missile.md|magic missile]]\n\n2/day each: [[5. Mechanics/Spells/Plane Shift.md|plane\
     \ shift]] (self only), [[5. Mechanics/Spells/Ray Of Enfeeblement.md|ray of enfeeblement]],\
     \ [[5. Mechanics/Spells/Sleep.md|sleep]]"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "Morgantha has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"

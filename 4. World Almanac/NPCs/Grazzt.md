@@ -167,7 +167,7 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ monster]], [[5. Mechanics/Spells/Greater Invisibility.md|greater invisibility]]\n\
     \n3/day each: [[5. Mechanics/Spells/Darkness.md|darkness]], [[5. Mechanics/Spells/Dominate Person.md|dominate person]],\
     \ [[5. Mechanics/Spells/Telekinesis.md|telekinesis]], [[5. Mechanics/Spells/Teleport.md|teleport]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "If Graz'zt fails a saving throw, he can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
 - "desc": "Graz'zt has advantage on saving throws against spells and other magical\

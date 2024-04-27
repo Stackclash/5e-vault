@@ -161,7 +161,7 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ level (1 slots): [[5. Mechanics/Spells/Mind Blank.md|mind blank]]\n\n9th level\
     \ (1 slots): [[5. Mechanics/Spells/Time Stop.md|time stop]]\n\nPatrina casts these\
     \ spells on itself before combat."
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "Patrina has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"

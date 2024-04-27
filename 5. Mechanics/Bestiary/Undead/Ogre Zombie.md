@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Ogre Zombie
 ---
-# [[5. Mechanics/Bestiary/Undead/Ogre Zombie.md|Ogre Zombie]]
+# [[5. Mechanics\Bestiary\Undead\Ogre Zombie.md|Ogre Zombie]]
 *Source: Monster Manual p. 316. Available in the SRD.*
 
 From somewhere in the darkness, a gurgling moan is heard. A form lurches into view, dragging one foot as it raises bloated arms and broken hands. The zombie advances, driven to kill anyone too slow to escape its grasp.

@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Mantis Knight
 ---
-# [[5. Mechanics/Bestiary/Fey/Mantis Knight.md|Mantis Knight]]
+# [[5. Mechanics\Bestiary\Fey\Mantis Knight.md|Mantis Knight]]
 *Source: Strongholds and Followers p. 176*
 
 The swashbuckling adventurers of the Arcadians, the Mantis Knights love dueling and drinking and terrible poetry. The greatest of them, like Lady Eweshtleth, keep an air of grave dignity about them, because they have known battle across the Myriad Worlds. But most Mantis Knights just want to show up, do something dashing and acrobatic, spit an enemy upon their sword, and then go carousing with the mortals who summoned them.
@@ -57,7 +57,7 @@ Otherwise, they enjoy dancing around the battlefield, laying into enemies with t
 - "desc": "The knight's innate spellcasting ability is Charisma (spell save DC 12).\
     \ The knight can innately cast the following spells, requiring no material components:\n\
     \nAt will: [[5. Mechanics/Spells/Heroism.md|heroism]], [[5. Mechanics/Spells/Shield Of Faith.md|shield of faith]]"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "The knight's armor is perpetually slick. Any attempts to grapple the knight\
     \ have disadvantage."
   "name": "Sunbeetle Armor"
@@ -78,7 +78,8 @@ Otherwise, they enjoy dancing around the battlefield, laying into enemies with t
   "name": "Rapier"
 "source":
 - "SaF"
-"image": "5. Mechanics/Bestiary/Fey/token/mantis-knight-saf.webp"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Mantis\
+  \ Knight.png"
 ```
 ^statblock
 

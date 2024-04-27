@@ -16,6 +16,7 @@ aliases:
   - Counterspell
 ---
 # Counterspell
+%%-- Embedded content starts on the next line. --%%
 *3rd-level, Abjuration*  
 
 - **Casting time:** 1 reaction

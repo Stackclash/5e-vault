@@ -16,6 +16,7 @@ aliases:
   - Control Flames
 ---
 # Control Flames
+%%-- Embedded content starts on the next line. --%%
 *cantrip, Transmutation*  
 ![[5. Mechanics/Spells/img/control-flames.webp#right]]  
 

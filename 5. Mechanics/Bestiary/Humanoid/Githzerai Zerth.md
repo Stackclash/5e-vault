@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Githzerai Zerth
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Githzerai Zerth.md|Githzerai Zerth]]
+# [[5. Mechanics\Bestiary\Humanoid\Githzerai Zerth.md|Githzerai Zerth]]
 *Source: Monster Manual p. 161*
 
 Focused philosophers and austere ascetics, the githzerai pursue lives of rigid order. Lean and muscular, they wear unadorned clothing free of ornamentation, keeping their own counsel and trusting few creatures outside of their own kind. Having turned their backs on their warlike githyanki kin, the githzerai maintain a strict monastic lifestyle, dwelling on islands of order in the vast sea of chaos that is the plane of Limbo.
@@ -96,7 +96,7 @@ Whether these tall, gaunt creatures were peaceful or savage, cultured or primiti
     \ [[5. Mechanics/Spells/Plane Shift.md|plane shift]]\n\n3/day each: [[5. Mechanics/Spells/Feather Fall.md|feather\
     \ fall]], [[5. Mechanics/Spells/Jump.md|jump]],\
     \ [[5. Mechanics/Spells/See Invisibility.md|see invisibility]], [[5. Mechanics/Spells/Shield.md|shield]]"
-  "name": "innate"
+  "name": "Innate Spellcasting (Psionics)"
 - "desc": "While the githzerai is wearing no armor and wielding no shield, its AC\
     \ includes its Wisdom modifier."
   "name": "Psychic Defense"

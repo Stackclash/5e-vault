@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Korred
 ---
-# [[5. Mechanics/Bestiary/Fey/Korred.md|Korred]]
+# [[5. Mechanics\Bestiary\Fey\Korred.md|Korred]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 166, Volo's Guide to Monsters p. 168*
 
 Korreds are unpredictable, secretive Fey with strong ties to earth and stone. Because of their magical hair and mystical understanding of minerals, they are sought after by treasure-hunting dwarves and others who desire wealth beneath the earth.
@@ -55,7 +55,7 @@ Korreds have hair all over their bodies, but the hair that grows from their head
     \ [[5. Mechanics/Spells/Commune With Nature.md|commune with nature]] (as an action),\
     \ [[5. Mechanics/Spells/Meld Into Stone.md|meld into stone]], [[5. Mechanics/Spells/Stone Shape.md|stone shape]]\n\
     \n1/day: [[5. Mechanics/Spells/Ottos Irresistible Dance.md|Otto's irresistible dance]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "The korred has advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]])\
     \ checks made to hide in rocky terrain."
   "name": "Stone Camouflage"

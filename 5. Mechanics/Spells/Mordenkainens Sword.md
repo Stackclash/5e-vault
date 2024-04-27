@@ -11,6 +11,7 @@ aliases:
   - Mordenkainen's Sword
 ---
 # Mordenkainen's Sword
+%%-- Embedded content starts on the next line. --%%
 *7th-level, Evocation*  
 ![[5. Mechanics/Spells/img/mordenkainens-sword.webp#right]]  
 

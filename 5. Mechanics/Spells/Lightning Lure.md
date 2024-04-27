@@ -15,6 +15,7 @@ aliases:
   - Lightning Lure
 ---
 # Lightning Lure
+%%-- Embedded content starts on the next line. --%%
 *cantrip, Evocation*  
 
 - **Casting time:** 1 action

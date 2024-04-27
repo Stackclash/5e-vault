@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Enchanter
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Enchanter.md|Enchanter]]
+# [[5. Mechanics\Bestiary\Humanoid\Enchanter.md|Enchanter]]
 *Source: Strongholds and Followers p. 80*
 
 ```statblock

@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Derro Savant
 ---
-# [[5. Mechanics/Bestiary/Aberration/Derro Savant.md|Derro Savant]]
+# [[5. Mechanics\Bestiary\Aberration\Derro Savant.md|Derro Savant]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 92, Mordenkainen's Tome of Foes p. 159*
 
 > [!quote]- A quote from Mordenkainen  
@@ -57,7 +57,7 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
     \ [[5. Mechanics/Spells/Message.md|message]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\
     \n1/day each: [[5. Mechanics/Spells/Invisibility.md|invisibility]], [[5. Mechanics/Spells/Sleep.md|sleep]],\
     \ [[5. Mechanics/Spells/Spider Climb.md|spider climb]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "The derro has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"

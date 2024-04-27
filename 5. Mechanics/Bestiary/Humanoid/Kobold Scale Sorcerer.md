@@ -15,7 +15,7 @@ statblock: inline
 aliases:
   - Kobold Scale Sorcerer
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Kobold Scale Sorcerer.md|Kobold Scale Sorcerer]]
+# [[5. Mechanics\Bestiary\Humanoid\Kobold Scale Sorcerer.md|Kobold Scale Sorcerer]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 165, Volo's Guide to Monsters p. 167*
 
 Kobold scale sorcerers have an innate talent for arcane magic, making them highly valuable members of their communities. These sorcerers typically fill the role of advisor, and when threatened, a scale sorcerer lashes out with colorful magic.
@@ -51,7 +51,7 @@ A scale sorcerer who resides in or near a dragon's lair may serve as that dragon
     \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\
     \n2/day each: [[5. Mechanics/Spells/Charm Person.md|charm person]], [[5. Mechanics/Spells/Fog Cloud.md|fog cloud]],\
     \ [[5. Mechanics/Spells/Levitate.md|levitate]]"
-  "name": "spells"
+  "name": "Spellcasting"
 - "desc": "The kobold has advantage on an attack roll against a creature if at least\
     \ one of the kobold's allies is within 5 feet of the creature and the ally isn't\
     \ [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."

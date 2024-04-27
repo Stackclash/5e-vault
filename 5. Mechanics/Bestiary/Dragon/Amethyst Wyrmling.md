@@ -10,7 +10,7 @@ statblock: inline
 aliases:
   - Amethyst Wyrmling
 ---
-# [[5. Mechanics/Bestiary/Dragon/Amethyst Wyrmling.md|Amethyst Wyrmling]]
+# [[5. Mechanics\Bestiary\Dragon\Amethyst Wyrmling.md|Amethyst Wyrmling]]
 *Source: Strongholds and Followers p. 223*
 
 The renegades of the jeweled dragons, the amethyst dragons seek new knowledge and so manipulate mortals to do dangerous, even deadly things in order to push the boundary of the known.
@@ -65,7 +65,8 @@ When encountered, they are often conciliatory, deferent. They want to put you at
   "name": "Bite"
 "source":
 - "SaF"
-"image": "5. Mechanics/Bestiary/Dragon/token/amethyst-wyrmling-saf.webp"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Medium\
+  \ Amethyst Dragon.png"
 ```
 ^statblock
 

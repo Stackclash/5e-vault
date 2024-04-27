@@ -11,7 +11,7 @@ statblock: inline
 aliases:
   - Rakshasa
 ---
-# [[5. Mechanics/Bestiary/Fiend/Rakshasa.md|Rakshasa]]
+# [[5. Mechanics\Bestiary\Fiend\Rakshasa.md|Rakshasa]]
 *Source: Monster Manual p. 257, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD.*
 
 The rakshasa employs delicacy and misdirection in its pursuit of dominion over others. Few creatures ever see the fiend in its true form, for it can take on any guise it wants, although it prefers to masquerade as someone powerful or influential: a noble, cardinal, or rich merchant, for example. A rakshasa's true form combines the features of a human and a tiger, with one noteworthy deformity: its palms are where the backs of the hands would be on a human.
@@ -71,7 +71,7 @@ Like devils, rakshasas killed in the Nine Hells are forever destroyed.
     \n3/day each: [[5. Mechanics/Spells/Charm Person.md|charm person]], [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
     \ [[5. Mechanics/Spells/Invisibility.md|invisibility]], [[5. Mechanics/Spells/Major Image.md|major image]],\
     \ [[5. Mechanics/Spells/Suggestion.md|suggestion]]"
-  "name": "innate"
+  "name": "Innate Spellcasting"
 - "desc": "The rakshasa can't be affected or detected by spells of 6th level or lower\
     \ unless it wishes to be. It has advantage on saving throws against all other\
     \ spells and magical effects."
