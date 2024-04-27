@@ -1,7 +1,13 @@
 <%*
+const dv = app.plugins.getPlugin("dataview").api
+
 let date = await tp.system.prompt("What date is this session supposed to happen? (MM-DD-YYYY)")
 let formattedDate = moment(date).format("MM-DD-YYYY")
-await tp.file.move('1. DM Stuff/Session Prep/' + formattedDate)
+
+let parties = dv.pages('"3. The Party/Parties"')
+let selectedParty = await tp.system.suggester(parties.map(p => p.file.name), parties.map(p => p.file.name), false, "What party is this Session for?")
+
+await tp.file.move('1. DM Stuff/Session Prep/' + selectedParty + '/' + formattedDate)
 -%>
 ---
 date: <% formattedDate %>
