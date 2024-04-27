@@ -38,7 +38,7 @@ aliases:
   "name": "Regeneration (Slaad Only)"
 - "desc": "At the start of each of the aberration's turns, each creature within 5\
     \ feet of the aberration must succeed on a Wisdom saving throw against your spell\
-    \ save DC or take dice: 2d6\\|avg\\|noform (2d6) psychic damage, provided that\
+    \ save DC or take dice: 2d6|avg|noform (2d6) psychic damage, provided that\
     \ the aberration isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
   "name": "Whispering Aura (Star Spawn Only)"
 "actions":
