@@ -20,7 +20,7 @@ FamiliarRoute: true
 PartyMembers: 6
 LifestyleCostSP: 1
 IncludeMeals: false
-TravelCalc: 9
+TravelCalc: 14.998875084368672
 ---
 
 # Travel Speed

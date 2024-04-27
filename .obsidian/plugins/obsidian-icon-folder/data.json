@@ -117,7 +117,9 @@
     "iconsInNotesEnabled": true,
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
-    "debugMode": false
+    "debugMode": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor"
   },
   "1. DM Stuff/Tools/Herbs.md": "RaFlowers",
   "1. DM Stuff/Configuration.md": "FasGears",

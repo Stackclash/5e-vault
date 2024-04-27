@@ -1991,7 +1991,7 @@ var require_base64_js = __commonJS({
   }
 });
 
-// node_modules/js-tiktoken/dist/chunk-DRAV7SPV.js
+// node_modules/js-tiktoken/dist/chunk-P6KNE6HN.js
 function bytePairMerge(piece, ranks) {
   let parts = Array.from(
     { length: piece.length },
@@ -2067,6 +2067,8 @@ function getEncodingNameForModel(model) {
     case "text-similarity-davinci-001": {
       return "r50k_base";
     }
+    case "gpt-3.5-turbo-instruct-0914":
+    case "gpt-3.5-turbo-instruct":
     case "gpt-3.5-turbo-16k-0613":
     case "gpt-3.5-turbo-16k":
     case "gpt-3.5-turbo-0613":
@@ -2082,6 +2084,11 @@ function getEncodingNameForModel(model) {
     case "gpt-35-turbo":
     case "gpt-4-1106-preview":
     case "gpt-4-vision-preview":
+    case "gpt-3.5-turbo-0125":
+    case "gpt-4-turbo":
+    case "gpt-4-turbo-2024-04-09":
+    case "gpt-4-turbo-preview":
+    case "gpt-4-0125-preview":
     case "text-embedding-ada-002": {
       return "cl100k_base";
     }
@@ -2090,8 +2097,8 @@ function getEncodingNameForModel(model) {
   }
 }
 var import_base64_js, __defProp2, __defNormalProp2, __publicField2, _Tiktoken, Tiktoken;
-var init_chunk_DRAV7SPV = __esm({
-  "node_modules/js-tiktoken/dist/chunk-DRAV7SPV.js"() {
+var init_chunk_P6KNE6HN = __esm({
+  "node_modules/js-tiktoken/dist/chunk-P6KNE6HN.js"() {
     import_base64_js = __toESM(require_base64_js(), 1);
     __defProp2 = Object.defineProperty;
     __defNormalProp2 = (obj, key, value) => key in obj ? __defProp2(obj, key, { enumerable: true, configurable: true, writable: true, value }) : obj[key] = value;
@@ -2219,7 +2226,7 @@ var init_chunk_DRAV7SPV = __esm({
 // node_modules/js-tiktoken/dist/lite.js
 var init_lite = __esm({
   "node_modules/js-tiktoken/dist/lite.js"() {
-    init_chunk_DRAV7SPV();
+    init_chunk_P6KNE6HN();
   }
 });
 
@@ -4952,7 +4959,7 @@ var init_console = __esm({
 });
 
 // node_modules/langsmith/dist/utils/async_caller.js
-var import_p_retry2, import_p_queue2, STATUS_NO_RETRY2, AsyncCaller2;
+var import_p_retry2, import_p_queue2, STATUS_NO_RETRY2, STATUS_IGNORE, AsyncCaller2;
 var init_async_caller2 = __esm({
   "node_modules/langsmith/dist/utils/async_caller.js"() {
     import_p_retry2 = __toESM(require_p_retry(), 1);
@@ -4965,7 +4972,10 @@ var init_async_caller2 = __esm({
       405,
       406,
       407,
-      408,
+      408
+      // Request Timeout
+    ];
+    STATUS_IGNORE = [
       409
       // Conflict
     ];
@@ -5013,14 +5023,18 @@ var init_async_caller2 = __esm({
               throw error;
             }
             const status = (_a2 = error == null ? void 0 : error.response) == null ? void 0 : _a2.status;
-            if (status && STATUS_NO_RETRY2.includes(+status)) {
-              throw error;
+            if (status) {
+              if (STATUS_NO_RETRY2.includes(+status)) {
+                throw error;
+              } else if (STATUS_IGNORE.includes(+status)) {
+                return;
+              }
             }
           },
-          retries: this.maxRetries,
-          randomize: true
           // If needed we can change some of the defaults here,
           // but they're quite sensible.
+          retries: this.maxRetries,
+          randomize: true
         }), { throwOnTimeout: true });
       }
       // eslint-disable-next-line @typescript-eslint/no-explicit-any
@@ -5072,10 +5086,46 @@ async function getRuntimeEnvironment2() {
     runtimeEnvironment2 = {
       library: "langsmith",
       runtime: env,
+      sdk: "langsmith-js",
+      sdk_version: __version__,
       ...releaseEnv
     };
   }
   return runtimeEnvironment2;
+}
+function getLangChainEnvVarsMetadata() {
+  const allEnvVars = getEnvironmentVariables() || {};
+  const envVars = {};
+  const excluded = [
+    "LANGCHAIN_API_KEY",
+    "LANGCHAIN_ENDPOINT",
+    "LANGCHAIN_TRACING_V2",
+    "LANGCHAIN_PROJECT",
+    "LANGCHAIN_SESSION"
+  ];
+  for (const [key, value] of Object.entries(allEnvVars)) {
+    if (key.startsWith("LANGCHAIN_") && typeof value === "string" && !excluded.includes(key) && !key.toLowerCase().includes("key") && !key.toLowerCase().includes("secret") && !key.toLowerCase().includes("token")) {
+      if (key === "LANGCHAIN_REVISION_ID") {
+        envVars["revision_id"] = value;
+      } else {
+        envVars[key] = value;
+      }
+    }
+  }
+  return envVars;
+}
+function getEnvironmentVariables() {
+  try {
+    if (typeof process !== "undefined" && process.env) {
+      return Object.entries(process.env).reduce((acc, [key, value]) => {
+        acc[key] = String(value);
+        return acc;
+      }, {});
+    }
+    return void 0;
+  } catch (e) {
+    return void 0;
+  }
 }
 function getEnvironmentVariable2(name) {
   var _a2;
@@ -5123,35 +5173,60 @@ function getShas() {
   cachedCommitSHAs = shas;
   return shas;
 }
-var isBrowser2, isWebWorker2, isJsDom2, isDeno2, isNode2, getEnv2, runtimeEnvironment2, cachedCommitSHAs;
+var globalEnv, isBrowser2, isWebWorker2, isJsDom2, isDeno2, isNode2, getEnv2, runtimeEnvironment2, cachedCommitSHAs;
 var init_env2 = __esm({
   "node_modules/langsmith/dist/utils/env.js"() {
+    init_dist();
     isBrowser2 = () => typeof window !== "undefined" && typeof window.document !== "undefined";
     isWebWorker2 = () => typeof globalThis === "object" && globalThis.constructor && globalThis.constructor.name === "DedicatedWorkerGlobalScope";
     isJsDom2 = () => typeof window !== "undefined" && window.name === "nodejs" || typeof navigator !== "undefined" && (navigator.userAgent.includes("Node.js") || navigator.userAgent.includes("jsdom"));
     isDeno2 = () => typeof Deno !== "undefined";
     isNode2 = () => typeof process !== "undefined" && typeof process.versions !== "undefined" && typeof process.versions.node !== "undefined" && !isDeno2();
     getEnv2 = () => {
-      let env;
-      if (isBrowser2()) {
-        env = "browser";
-      } else if (isNode2()) {
-        env = "node";
-      } else if (isWebWorker2()) {
-        env = "webworker";
-      } else if (isJsDom2()) {
-        env = "jsdom";
-      } else if (isDeno2()) {
-        env = "deno";
-      } else {
-        env = "other";
+      if (globalEnv) {
+        return globalEnv;
       }
-      return env;
+      if (isBrowser2()) {
+        globalEnv = "browser";
+      } else if (isNode2()) {
+        globalEnv = "node";
+      } else if (isWebWorker2()) {
+        globalEnv = "webworker";
+      } else if (isJsDom2()) {
+        globalEnv = "jsdom";
+      } else if (isDeno2()) {
+        globalEnv = "deno";
+      } else {
+        globalEnv = "other";
+      }
+      return globalEnv;
     };
   }
 });
 
 // node_modules/langsmith/dist/client.js
+async function mergeRuntimeEnvIntoRunCreates(runs) {
+  const runtimeEnv = await getRuntimeEnvironment2();
+  const envVars = getLangChainEnvVarsMetadata();
+  return runs.map((run) => {
+    var _a2, _b;
+    const extra = (_a2 = run.extra) != null ? _a2 : {};
+    const metadata = extra.metadata;
+    run.extra = {
+      ...extra,
+      runtime: {
+        ...runtimeEnv,
+        ...extra == null ? void 0 : extra.runtime
+      },
+      metadata: {
+        ...envVars,
+        ...envVars.revision_id || run.revision_id ? { revision_id: (_b = run.revision_id) != null ? _b : envVars.revision_id } : {},
+        ...metadata
+      }
+    };
+    return run;
+  });
+}
 async function toArray(iterable) {
   const result = [];
   for await (const item of iterable) {
@@ -5165,30 +5240,30 @@ function trimQuotes(str) {
   }
   return str.trim().replace(/^"(.*)"$/, "$1").replace(/^'(.*)'$/, "$1");
 }
-function hideInputs(inputs) {
-  if (getEnvironmentVariable2("LANGCHAIN_HIDE_INPUTS") === "true") {
-    return {};
-  }
-  return inputs;
-}
-function hideOutputs(outputs) {
-  if (getEnvironmentVariable2("LANGCHAIN_HIDE_OUTPUTS") === "true") {
-    return {};
-  }
-  return outputs;
-}
 function assertUuid(str) {
   if (!validate_default(str)) {
     throw new Error(`Invalid UUID: ${str}`);
   }
 }
-var isLocalhost, raiseForStatus, Client;
+var getTracingSamplingRate, isLocalhost, raiseForStatus, Client;
 var init_client = __esm({
   "node_modules/langsmith/dist/client.js"() {
     init_esm_browser();
     init_async_caller2();
     init_messages();
     init_env2();
+    init_dist();
+    getTracingSamplingRate = () => {
+      const samplingRateStr = getEnvironmentVariable2("LANGCHAIN_TRACING_SAMPLING_RATE");
+      if (samplingRateStr === void 0) {
+        return void 0;
+      }
+      const samplingRate = parseFloat(samplingRateStr);
+      if (samplingRate < 0 || samplingRate > 1) {
+        throw new Error(`LANGCHAIN_TRACING_SAMPLING_RATE must be between 0 and 1 if set. Got: ${samplingRate}`);
+      }
+      return samplingRate;
+    };
     isLocalhost = (url) => {
       const strippedUrl = url.replace("http://", "").replace("https://", "");
       const hostname = strippedUrl.split("/")[0].split(":")[0];
@@ -5202,7 +5277,7 @@ var init_client = __esm({
     };
     Client = class {
       constructor(config = {}) {
-        var _a2, _b, _c, _d, _e, _f;
+        var _a2, _b, _c, _d, _e, _f, _g, _h, _i, _j;
         Object.defineProperty(this, "apiKey", {
           enumerable: true,
           configurable: true,
@@ -5239,22 +5314,97 @@ var init_client = __esm({
           writable: true,
           value: null
         });
+        Object.defineProperty(this, "hideInputs", {
+          enumerable: true,
+          configurable: true,
+          writable: true,
+          value: void 0
+        });
+        Object.defineProperty(this, "hideOutputs", {
+          enumerable: true,
+          configurable: true,
+          writable: true,
+          value: void 0
+        });
+        Object.defineProperty(this, "tracingSampleRate", {
+          enumerable: true,
+          configurable: true,
+          writable: true,
+          value: void 0
+        });
+        Object.defineProperty(this, "sampledPostUuids", {
+          enumerable: true,
+          configurable: true,
+          writable: true,
+          value: /* @__PURE__ */ new Set()
+        });
+        Object.defineProperty(this, "autoBatchTracing", {
+          enumerable: true,
+          configurable: true,
+          writable: true,
+          value: false
+        });
+        Object.defineProperty(this, "batchEndpointSupported", {
+          enumerable: true,
+          configurable: true,
+          writable: true,
+          value: void 0
+        });
+        Object.defineProperty(this, "pendingAutoBatchedRuns", {
+          enumerable: true,
+          configurable: true,
+          writable: true,
+          value: []
+        });
+        Object.defineProperty(this, "pendingAutoBatchedRunLimit", {
+          enumerable: true,
+          configurable: true,
+          writable: true,
+          value: 100
+        });
+        Object.defineProperty(this, "autoBatchTimeout", {
+          enumerable: true,
+          configurable: true,
+          writable: true,
+          value: void 0
+        });
+        Object.defineProperty(this, "autoBatchInitialDelayMs", {
+          enumerable: true,
+          configurable: true,
+          writable: true,
+          value: 250
+        });
+        Object.defineProperty(this, "autoBatchAggregationDelayMs", {
+          enumerable: true,
+          configurable: true,
+          writable: true,
+          value: 50
+        });
         const defaultConfig = Client.getDefaultClientConfig();
+        this.tracingSampleRate = getTracingSamplingRate();
         this.apiUrl = (_b = trimQuotes((_a2 = config.apiUrl) != null ? _a2 : defaultConfig.apiUrl)) != null ? _b : "";
         this.apiKey = trimQuotes((_c = config.apiKey) != null ? _c : defaultConfig.apiKey);
         this.webUrl = trimQuotes((_d = config.webUrl) != null ? _d : defaultConfig.webUrl);
         this.validateApiKeyIfHosted();
-        this.timeout_ms = (_e = config.timeout_ms) != null ? _e : 4e3;
+        this.timeout_ms = (_e = config.timeout_ms) != null ? _e : 12e3;
         this.caller = new AsyncCaller2((_f = config.callerOptions) != null ? _f : {});
+        this.hideInputs = (_g = config.hideInputs) != null ? _g : defaultConfig.hideInputs;
+        this.hideOutputs = (_h = config.hideOutputs) != null ? _h : defaultConfig.hideOutputs;
+        this.autoBatchTracing = (_i = config.autoBatchTracing) != null ? _i : this.autoBatchTracing;
+        this.pendingAutoBatchedRunLimit = (_j = config.pendingAutoBatchedRunLimit) != null ? _j : this.pendingAutoBatchedRunLimit;
       }
       static getDefaultClientConfig() {
         var _a2;
         const apiKey = getEnvironmentVariable2("LANGCHAIN_API_KEY");
-        const apiUrl = (_a2 = getEnvironmentVariable2("LANGCHAIN_ENDPOINT")) != null ? _a2 : apiKey ? "https://api.smith.langchain.com" : "http://localhost:1984";
+        const apiUrl = (_a2 = getEnvironmentVariable2("LANGCHAIN_ENDPOINT")) != null ? _a2 : "https://api.smith.langchain.com";
+        const hideInputs = getEnvironmentVariable2("LANGCHAIN_HIDE_INPUTS") === "true";
+        const hideOutputs = getEnvironmentVariable2("LANGCHAIN_HIDE_OUTPUTS") === "true";
         return {
           apiUrl,
           apiKey,
-          webUrl: void 0
+          webUrl: void 0,
+          hideInputs,
+          hideOutputs
         };
       }
       validateApiKeyIfHosted() {
@@ -5269,7 +5419,7 @@ var init_client = __esm({
         } else if (isLocalhost(this.apiUrl)) {
           this.webUrl = "http://localhost";
           return "http://localhost";
-        } else if (this.apiUrl.includes("/api")) {
+        } else if (this.apiUrl.includes("/api") && !this.apiUrl.split(".", 1)[0].endsWith("api")) {
           this.webUrl = this.apiUrl.replace("/api", "");
           return this.webUrl;
         } else if (this.apiUrl.split(".", 1)[0].includes("dev")) {
@@ -5281,11 +5431,35 @@ var init_client = __esm({
         }
       }
       get headers() {
-        const headers = {};
+        const headers = {
+          "User-Agent": `langsmith-js/${__version__}`
+        };
         if (this.apiKey) {
           headers["x-api-key"] = `${this.apiKey}`;
         }
         return headers;
+      }
+      processInputs(inputs) {
+        if (this.hideInputs) {
+          return {};
+        }
+        return inputs;
+      }
+      processOutputs(outputs) {
+        if (this.hideOutputs) {
+          return {};
+        }
+        return outputs;
+      }
+      prepareRunCreateOrUpdateInputs(run) {
+        const runParams = { ...run };
+        if (runParams.inputs !== void 0) {
+          runParams.inputs = this.processInputs(runParams.inputs);
+        }
+        if (runParams.outputs !== void 0) {
+          runParams.outputs = this.processOutputs(runParams.outputs);
+        }
+        return runParams;
       }
       async _getResponse(path, queryParams) {
         var _a2;
@@ -5332,7 +5506,7 @@ var init_client = __esm({
         }
       }
       async *_getCursorPaginatedList(path, body = null, requestMethod = "POST", dataKey = "runs") {
-        let bodyParams = body ? { ...body } : {};
+        const bodyParams = body ? { ...body } : {};
         while (true) {
           const response = await this.caller.call(fetch, `${this.apiUrl}${path}`, {
             method: requestMethod,
@@ -5358,43 +5532,192 @@ var init_client = __esm({
           bodyParams.cursor = cursors.next;
         }
       }
-      async createRun(run) {
-        var _a2;
-        const headers = { ...this.headers, "Content-Type": "application/json" };
-        const extra = (_a2 = run.extra) != null ? _a2 : {};
-        const runtimeEnv = await getRuntimeEnvironment2();
-        const session_name = run.project_name;
-        delete run.project_name;
-        const runCreate = {
-          session_name,
-          ...run,
-          extra: {
-            ...run.extra,
-            runtime: {
-              ...runtimeEnv,
-              ...extra.runtime
+      _filterForSampling(runs, patch = false) {
+        if (this.tracingSampleRate === void 0) {
+          return runs;
+        }
+        if (patch) {
+          const sampled = [];
+          for (const run of runs) {
+            if (this.sampledPostUuids.has(run.id)) {
+              sampled.push(run);
+              this.sampledPostUuids.delete(run.id);
             }
           }
-        };
-        runCreate.inputs = hideInputs(runCreate.inputs);
-        if (runCreate.outputs) {
-          runCreate.outputs = hideOutputs(runCreate.outputs);
+          return sampled;
+        } else {
+          const sampled = [];
+          for (const run of runs) {
+            if (Math.random() < this.tracingSampleRate) {
+              sampled.push(run);
+              this.sampledPostUuids.add(run.id);
+            }
+          }
+          return sampled;
         }
+      }
+      async triggerAutoBatchSend(runs) {
+        let batch = runs;
+        if (batch === void 0) {
+          batch = this.pendingAutoBatchedRuns.slice(0, this.pendingAutoBatchedRunLimit);
+          this.pendingAutoBatchedRuns = this.pendingAutoBatchedRuns.slice(this.pendingAutoBatchedRunLimit);
+        }
+        await this.batchIngestRuns({
+          runCreates: batch.filter((item) => item.action === "create").map((item) => item.item),
+          runUpdates: batch.filter((item) => item.action === "update").map((item) => item.item)
+        });
+      }
+      appendRunCreateToAutoBatchQueue(item) {
+        const oldTimeout = this.autoBatchTimeout;
+        clearTimeout(this.autoBatchTimeout);
+        this.autoBatchTimeout = void 0;
+        this.pendingAutoBatchedRuns.push(item);
+        while (this.pendingAutoBatchedRuns.length >= this.pendingAutoBatchedRunLimit) {
+          const batch = this.pendingAutoBatchedRuns.slice(0, this.pendingAutoBatchedRunLimit);
+          this.pendingAutoBatchedRuns = this.pendingAutoBatchedRuns.slice(this.pendingAutoBatchedRunLimit);
+          void this.triggerAutoBatchSend(batch);
+        }
+        if (this.pendingAutoBatchedRuns.length > 0) {
+          if (!oldTimeout) {
+            this.autoBatchTimeout = setTimeout(() => {
+              this.autoBatchTimeout = void 0;
+              void this.triggerAutoBatchSend();
+            }, this.autoBatchInitialDelayMs);
+          } else {
+            this.autoBatchTimeout = setTimeout(() => {
+              this.autoBatchTimeout = void 0;
+              void this.triggerAutoBatchSend();
+            }, this.autoBatchAggregationDelayMs);
+          }
+        }
+      }
+      async batchEndpointIsSupported() {
+        const response = await fetch(`${this.apiUrl}/info`, {
+          method: "GET",
+          headers: { Accept: "application/json" },
+          signal: AbortSignal.timeout(this.timeout_ms)
+        });
+        if (!response.ok) {
+          await response.text();
+          return false;
+        }
+        return true;
+      }
+      async createRun(run) {
+        var _a2;
+        if (!this._filterForSampling([run]).length) {
+          return;
+        }
+        const headers = { ...this.headers, "Content-Type": "application/json" };
+        const session_name = run.project_name;
+        delete run.project_name;
+        const runCreate = this.prepareRunCreateOrUpdateInputs({
+          session_name,
+          ...run,
+          start_time: (_a2 = run.start_time) != null ? _a2 : Date.now()
+        });
+        if (this.autoBatchTracing && runCreate.trace_id !== void 0 && runCreate.dotted_order !== void 0) {
+          this.appendRunCreateToAutoBatchQueue({
+            action: "create",
+            item: runCreate
+          });
+          return;
+        }
+        const mergedRunCreateParams = await mergeRuntimeEnvIntoRunCreates([
+          runCreate
+        ]);
         const response = await this.caller.call(fetch, `${this.apiUrl}/runs`, {
           method: "POST",
           headers,
-          body: JSON.stringify(runCreate),
+          body: JSON.stringify(mergedRunCreateParams[0]),
           signal: AbortSignal.timeout(this.timeout_ms)
         });
         await raiseForStatus(response, "create run");
       }
+      /**
+       * Batch ingest/upsert multiple runs in the Langsmith system.
+       * @param runs
+       */
+      async batchIngestRuns({ runCreates, runUpdates }) {
+        var _a2, _b;
+        if (runCreates === void 0 && runUpdates === void 0) {
+          return;
+        }
+        let preparedCreateParams = (_a2 = runCreates == null ? void 0 : runCreates.map((create) => this.prepareRunCreateOrUpdateInputs(create))) != null ? _a2 : [];
+        let preparedUpdateParams = (_b = runUpdates == null ? void 0 : runUpdates.map((update) => this.prepareRunCreateOrUpdateInputs(update))) != null ? _b : [];
+        if (preparedCreateParams.length > 0 && preparedUpdateParams.length > 0) {
+          const createById = preparedCreateParams.reduce((params, run) => {
+            if (!run.id) {
+              return params;
+            }
+            params[run.id] = run;
+            return params;
+          }, {});
+          const standaloneUpdates = [];
+          for (const updateParam of preparedUpdateParams) {
+            if (updateParam.id !== void 0 && createById[updateParam.id]) {
+              createById[updateParam.id] = {
+                ...createById[updateParam.id],
+                ...updateParam
+              };
+            } else {
+              standaloneUpdates.push(updateParam);
+            }
+          }
+          preparedCreateParams = Object.values(createById);
+          preparedUpdateParams = standaloneUpdates;
+        }
+        const body = {
+          post: this._filterForSampling(preparedCreateParams),
+          patch: this._filterForSampling(preparedUpdateParams, true)
+        };
+        if (!body.post.length && !body.patch.length) {
+          return;
+        }
+        preparedCreateParams = await mergeRuntimeEnvIntoRunCreates(preparedCreateParams);
+        if (this.batchEndpointSupported === void 0) {
+          this.batchEndpointSupported = await this.batchEndpointIsSupported();
+        }
+        if (!this.batchEndpointSupported) {
+          this.autoBatchTracing = false;
+          for (const preparedCreateParam of body.post) {
+            await this.createRun(preparedCreateParam);
+          }
+          for (const preparedUpdateParam of body.patch) {
+            if (preparedUpdateParam.id !== void 0) {
+              await this.updateRun(preparedUpdateParam.id, preparedUpdateParam);
+            }
+          }
+          return;
+        }
+        const headers = {
+          ...this.headers,
+          "Content-Type": "application/json",
+          Accept: "application/json"
+        };
+        const response = await this.caller.call(fetch, `${this.apiUrl}/runs/batch`, {
+          method: "POST",
+          headers,
+          body: JSON.stringify(body),
+          signal: AbortSignal.timeout(this.timeout_ms)
+        });
+        await raiseForStatus(response, "batch create run");
+      }
       async updateRun(runId, run) {
         assertUuid(runId);
         if (run.inputs) {
-          run.inputs = hideInputs(run.inputs);
+          run.inputs = this.processInputs(run.inputs);
         }
         if (run.outputs) {
-          run.outputs = hideOutputs(run.outputs);
+          run.outputs = this.processOutputs(run.outputs);
+        }
+        const data = { ...run, id: runId };
+        if (!this._filterForSampling([data], true).length) {
+          return;
+        }
+        if (this.autoBatchTracing && data.trace_id !== void 0 && data.dotted_order !== void 0) {
+          this.appendRunCreateToAutoBatchQueue({ action: "update", item: data });
+          return;
         }
         const headers = { ...this.headers, "Content-Type": "application/json" };
         const response = await this.caller.call(fetch, `${this.apiUrl}/runs/${runId}`, {
@@ -5467,16 +5790,18 @@ var init_client = __esm({
         }
         return run;
       }
-      async *listRuns({ projectId, projectName, parentRunId, referenceExampleId, startTime, executionOrder, runType, error, id, query, filter, limit }) {
-        let projectId_ = projectId;
+      async *listRuns({ projectId, projectName, parentRunId, traceId, referenceExampleId, startTime, executionOrder, runType, error, id, query, filter, limit }) {
+        let projectIds = [];
+        if (projectId) {
+          projectIds = Array.isArray(projectId) ? projectId : [projectId];
+        }
         if (projectName) {
-          if (projectId) {
-            throw new Error("Only one of projectId or projectName may be given");
-          }
-          projectId_ = (await this.readProject({ projectName })).id;
+          const projectNames = Array.isArray(projectName) ? projectName : [projectName];
+          const projectIds_ = await Promise.all(projectNames.map((name) => this.readProject({ projectName: name }).then((project) => project.id)));
+          projectIds.push(...projectIds_);
         }
         const body = {
-          session: projectId_ ? [projectId_] : null,
+          session: projectIds.length ? projectIds : null,
           run_type: runType,
           reference_example: referenceExampleId,
           query,
@@ -5486,7 +5811,8 @@ var init_client = __esm({
           start_time: startTime ? startTime.toISOString() : null,
           error,
           id,
-          limit
+          limit,
+          trace: traceId
         };
         for await (const runs of this._getCursorPaginatedList("/runs/query", body)) {
           yield* runs;
@@ -5660,7 +5986,7 @@ var init_client = __esm({
         }
         return result;
       }
-      async readProject({ projectId, projectName }) {
+      async hasProject({ projectId, projectName }) {
         let path = "/sessions";
         const params = new URLSearchParams();
         if (projectId !== void 0 && projectName !== void 0) {
@@ -5672,6 +5998,40 @@ var init_client = __esm({
           params.append("name", projectName);
         } else {
           throw new Error("Must provide projectName or projectId");
+        }
+        const response = await this.caller.call(fetch, `${this.apiUrl}${path}?${params}`, {
+          method: "GET",
+          headers: this.headers,
+          signal: AbortSignal.timeout(this.timeout_ms)
+        });
+        try {
+          const result = await response.json();
+          if (!response.ok) {
+            return false;
+          }
+          if (Array.isArray(result)) {
+            return result.length > 0;
+          }
+          return true;
+        } catch (e) {
+          return false;
+        }
+      }
+      async readProject({ projectId, projectName, includeStats }) {
+        let path = "/sessions";
+        const params = new URLSearchParams();
+        if (projectId !== void 0 && projectName !== void 0) {
+          throw new Error("Must provide either projectName or projectId, not both");
+        } else if (projectId !== void 0) {
+          assertUuid(projectId);
+          path += `/${projectId}`;
+        } else if (projectName !== void 0) {
+          params.append("name", projectName);
+        } else {
+          throw new Error("Must provide projectName or projectId");
+        }
+        if (includeStats !== void 0) {
+          params.append("include_stats", includeStats.toString());
         }
         const response = await this._get(path, params);
         let result;
@@ -5901,7 +6261,7 @@ var init_client = __esm({
           dataset_id: datasetId_,
           inputs,
           outputs,
-          created_at: createdAt_.toISOString(),
+          created_at: createdAt_ == null ? void 0 : createdAt_.toISOString(),
           id: exampleId
         };
         const response = await this.caller.call(fetch, `${this.apiUrl}/examples`, {
@@ -5912,6 +6272,38 @@ var init_client = __esm({
         });
         if (!response.ok) {
           throw new Error(`Failed to create example: ${response.status} ${response.statusText}`);
+        }
+        const result = await response.json();
+        return result;
+      }
+      async createExamples(props) {
+        const { inputs, outputs, sourceRunIds, exampleIds, datasetId, datasetName } = props;
+        let datasetId_ = datasetId;
+        if (datasetId_ === void 0 && datasetName === void 0) {
+          throw new Error("Must provide either datasetName or datasetId");
+        } else if (datasetId_ !== void 0 && datasetName !== void 0) {
+          throw new Error("Must provide either datasetName or datasetId, not both");
+        } else if (datasetId_ === void 0) {
+          const dataset = await this.readDataset({ datasetName });
+          datasetId_ = dataset.id;
+        }
+        const formattedExamples = inputs.map((input, idx) => {
+          return {
+            dataset_id: datasetId_,
+            inputs: input,
+            outputs: outputs ? outputs[idx] : void 0,
+            id: exampleIds ? exampleIds[idx] : void 0,
+            source_run_id: sourceRunIds ? sourceRunIds[idx] : void 0
+          };
+        });
+        const response = await this.caller.call(fetch, `${this.apiUrl}/examples/bulk`, {
+          method: "POST",
+          headers: { ...this.headers, "Content-Type": "application/json" },
+          body: JSON.stringify(formattedExamples),
+          signal: AbortSignal.timeout(this.timeout_ms)
+        });
+        if (!response.ok) {
+          throw new Error(`Failed to create examples: ${response.status} ${response.statusText}`);
         }
         const result = await response.json();
         return result;
@@ -5983,7 +6375,8 @@ var init_client = __esm({
         const result = await response.json();
         return result;
       }
-      async evaluateRun(run, evaluator, { sourceInfo, loadChildRuns } = { loadChildRuns: false }) {
+      async evaluateRun(run, evaluator, { sourceInfo, loadChildRuns, referenceExample } = { loadChildRuns: false }) {
+        var _a2;
         let run_;
         if (typeof run === "string") {
           run_ = await this.readRun(run, { loadChildRuns });
@@ -5992,7 +6385,6 @@ var init_client = __esm({
         } else {
           throw new Error(`Invalid run type: ${typeof run}`);
         }
-        let referenceExample = void 0;
         if (run_.reference_example_id !== null && run_.reference_example_id !== void 0) {
           referenceExample = await this.readExample(run_.reference_example_id);
         }
@@ -6001,13 +6393,15 @@ var init_client = __esm({
         if (feedbackResult.evaluatorInfo) {
           sourceInfo_ = { ...sourceInfo_, ...feedbackResult.evaluatorInfo };
         }
-        return await this.createFeedback(run_.id, feedbackResult.key, {
-          score: feedbackResult.score,
-          value: feedbackResult.value,
-          comment: feedbackResult.comment,
-          correction: feedbackResult.correction,
+        const runId = (_a2 = feedbackResult.targetRunId) != null ? _a2 : run_.id;
+        return await this.createFeedback(runId, feedbackResult.key, {
+          score: feedbackResult == null ? void 0 : feedbackResult.score,
+          value: feedbackResult == null ? void 0 : feedbackResult.value,
+          comment: feedbackResult == null ? void 0 : feedbackResult.comment,
+          correction: feedbackResult == null ? void 0 : feedbackResult.correction,
           sourceInfo: sourceInfo_,
-          feedbackSourceType: "model"
+          feedbackSourceType: "model",
+          sourceRunId: feedbackResult == null ? void 0 : feedbackResult.sourceRunId
         });
       }
       async createFeedback(runId, key, { score, value, correction, comment, sourceInfo, feedbackSourceType = "api", sourceRunId, feedbackId, eager = false }) {
@@ -6116,10 +6510,12 @@ var init_run_trees = __esm({
 });
 
 // node_modules/langsmith/dist/index.js
+var __version__;
 var init_dist = __esm({
   "node_modules/langsmith/dist/index.js"() {
     init_client();
     init_run_trees();
+    __version__ = "0.0.70";
   }
 });
 
@@ -9868,17 +10264,19 @@ var init_errorMessages = __esm({
 });
 
 // node_modules/zod-to-json-schema/dist/esm/Options.js
-var defaultOptions, getDefaultOptions;
+var ignoreOverride, defaultOptions, getDefaultOptions;
 var init_Options = __esm({
   "node_modules/zod-to-json-schema/dist/esm/Options.js"() {
+    ignoreOverride = Symbol("Let zodToJsonSchema decide on which parser to use");
     defaultOptions = {
       name: void 0,
       $refStrategy: "root",
       basePath: ["#"],
       effectStrategy: "input",
       pipeStrategy: "all",
-      dateStrategy: "string",
+      dateStrategy: "format:date-time",
       mapStrategy: "entries",
+      removeAdditionalStrategy: "passthrough",
       definitionPath: "definitions",
       target: "jsonSchema7",
       strictUnions: false,
@@ -13603,14 +14001,27 @@ var init_catch = __esm({
 });
 
 // node_modules/zod-to-json-schema/dist/esm/parsers/date.js
-function parseDateDef(def, refs) {
-  if (refs.dateStrategy == "integer") {
-    return integerDateParser(def, refs);
-  } else {
+function parseDateDef(def, refs, overrideDateStrategy) {
+  const strategy = overrideDateStrategy != null ? overrideDateStrategy : refs.dateStrategy;
+  if (Array.isArray(strategy)) {
     return {
-      type: "string",
-      format: "date-time"
+      anyOf: strategy.map((item, i) => parseDateDef(def, refs, item))
     };
+  }
+  switch (strategy) {
+    case "string":
+    case "format:date-time":
+      return {
+        type: "string",
+        format: "date-time"
+      };
+    case "format:date":
+      return {
+        type: "string",
+        format: "date"
+      };
+    case "integer":
+      return integerDateParser(def, refs);
   }
 }
 var integerDateParser;
@@ -13622,31 +14033,30 @@ var init_date = __esm({
         type: "integer",
         format: "unix-time"
       };
+      if (refs.target === "openApi3") {
+        return res;
+      }
       for (const check of def.checks) {
         switch (check.kind) {
           case "min":
-            if (refs.target === "jsonSchema7") {
-              setResponseValueAndErrors(
-                res,
-                "minimum",
-                check.value,
-                // This is in milliseconds
-                check.message,
-                refs
-              );
-            }
+            setResponseValueAndErrors(
+              res,
+              "minimum",
+              check.value,
+              // This is in milliseconds
+              check.message,
+              refs
+            );
             break;
           case "max":
-            if (refs.target === "jsonSchema7") {
-              setResponseValueAndErrors(
-                res,
-                "maximum",
-                check.value,
-                // This is in milliseconds
-                check.message,
-                refs
-              );
-            }
+            setResponseValueAndErrors(
+              res,
+              "maximum",
+              check.value,
+              // This is in milliseconds
+              check.message,
+              refs
+            );
             break;
         }
       }
@@ -14166,6 +14576,8 @@ function parseNullableDef(def, refs) {
       ...refs,
       currentPath: [...refs.currentPath]
     });
+    if (base2 && "$ref" in base2)
+      return { allOf: [base2], nullable: true };
     return base2 && { ...base2, nullable: true };
   }
   const base = parseDef(def.innerType._def, {
@@ -14236,8 +14648,21 @@ var init_number = __esm({
 });
 
 // node_modules/zod-to-json-schema/dist/esm/parsers/object.js
+function decideAdditionalProperties(def, refs) {
+  var _a2, _b;
+  if (refs.removeAdditionalStrategy === "strict") {
+    return def.catchall._def.typeName === "ZodNever" ? def.unknownKeys !== "strict" : (_a2 = parseDef(def.catchall._def, {
+      ...refs,
+      currentPath: [...refs.currentPath, "additionalProperties"]
+    })) != null ? _a2 : true;
+  } else {
+    return def.catchall._def.typeName === "ZodNever" ? def.unknownKeys === "passthrough" : (_b = parseDef(def.catchall._def, {
+      ...refs,
+      currentPath: [...refs.currentPath, "additionalProperties"]
+    })) != null ? _b : true;
+  }
+}
 function parseObjectDef(def, refs) {
-  var _a2;
   const result = {
     type: "object",
     ...Object.entries(def.shape()).reduce((acc, [propName, propDef]) => {
@@ -14255,10 +14680,7 @@ function parseObjectDef(def, refs) {
         required: propDef.isOptional() ? acc.required : [...acc.required, propName]
       };
     }, { properties: {}, required: [] }),
-    additionalProperties: def.catchall._def.typeName === "ZodNever" ? def.unknownKeys === "passthrough" : (_a2 = parseDef(def.catchall._def, {
-      ...refs,
-      currentPath: [...refs.currentPath, "additionalProperties"]
-    })) != null ? _a2 : true
+    additionalProperties: decideAdditionalProperties(def, refs)
   };
   if (!result.required.length)
     delete result.required;
@@ -14424,7 +14846,14 @@ var init_readonly = __esm({
 
 // node_modules/zod-to-json-schema/dist/esm/parseDef.js
 function parseDef(def, refs, forceResolution = false) {
+  var _a2;
   const seenItem = refs.seen.get(def);
+  if (refs.override) {
+    const overrideResult = (_a2 = refs.override) == null ? void 0 : _a2.call(refs, def, refs, seenItem, forceResolution);
+    if (overrideResult !== ignoreOverride) {
+      return overrideResult;
+    }
+  }
   if (seenItem && !forceResolution) {
     const seenSchema = get$ref(seenItem, refs);
     if (seenSchema !== void 0) {
@@ -14474,6 +14903,7 @@ var init_parseDef = __esm({
     init_union();
     init_unknown();
     init_readonly();
+    init_Options();
     get$ref = (item, refs) => {
       switch (refs.$refStrategy) {
         case "root":
@@ -17116,13 +17546,14 @@ var LLM2 = class {
 
 // src/llm/openai_llm.ts
 var OpenAIModel = /* @__PURE__ */ ((OpenAIModel2) => {
-  OpenAIModel2["GPT_3_5"] = "gpt-3.5-turbo";
   OpenAIModel2["GPT_3_5_16k"] = "gpt-3.5-turbo-16k";
   OpenAIModel2["GPT_3_5_INSTRUCT"] = "gpt-3.5-turbo-instruct";
   OpenAIModel2["GPT_3_5_TURBO_PREVIEW"] = "gpt-3.5-turbo-1106";
+  OpenAIModel2["GPT_3_5_TURBO"] = "gpt-3.5-turbo";
   OpenAIModel2["GPT_4"] = "gpt-4";
   OpenAIModel2["GPT_4_32K"] = "gpt-4-32k";
   OpenAIModel2["GPT_4_TURBO_PREVIEW"] = "gpt-4-1106-preview";
+  OpenAIModel2["GPT_4_TURBO"] = "gpt-4-turbo";
   return OpenAIModel2;
 })(OpenAIModel || {});
 var OpenAILLM = class extends LLM2 {
@@ -17175,13 +17606,14 @@ var LOCATION_SETTING = {
   ["APPEND_TO_FILE" /* APPEND_TO_FILE */.toString()]: "Append to a file specified below"
 };
 var MODEL_NAMES = {
-  ["gpt-3.5-turbo" /* GPT_3_5 */]: "OpenAI GPT-3.5",
   ["gpt-3.5-turbo-16k" /* GPT_3_5_16k */]: "OpenAI GPT-3.5-16k",
   ["gpt-3.5-turbo-instruct" /* GPT_3_5_INSTRUCT */]: "OpenAI GPT-3.5-instruct",
+  ["gpt-3.5-turbo-1106" /* GPT_3_5_TURBO_PREVIEW */]: "OpenAI GPT-3.5-turbo-preview",
+  ["gpt-3.5-turbo" /* GPT_3_5_TURBO */]: "OpenAI GPT-3.5-turbo",
   ["gpt-4" /* GPT_4 */]: "OpenAI GPT-4",
   ["gpt-4-32k" /* GPT_4_32K */]: "OpenAI GPT-4-32k",
-  ["gpt-3.5-turbo-1106" /* GPT_3_5_TURBO_PREVIEW */]: "OpenAI GPT-3.5-turbo-preview",
-  ["gpt-4-1106-preview" /* GPT_4_TURBO_PREVIEW */]: "OpenAI GPT-4-turbo-preview"
+  ["gpt-4-1106-preview" /* GPT_4_TURBO_PREVIEW */]: "OpenAI GPT-4-turbo-preview",
+  ["gpt-4-turbo" /* GPT_4_TURBO */]: "OpenAI GPT-4-turbo"
 };
 function locationDictionary() {
   return Object.values(Location).reduce((obj, value) => {
@@ -17288,7 +17720,7 @@ var DummyLLM = class extends LLM2 {
 var import_obsidian2 = require("obsidian");
 
 // src/llm/models.ts
-var DEFAULT_MODEL = "gpt-3.5-turbo-1106" /* GPT_3_5_TURBO_PREVIEW */;
+var DEFAULT_MODEL = "gpt-3.5-turbo" /* GPT_3_5_TURBO */;
 
 // src/llm/factory.ts
 var LLMFactory = class {
@@ -17462,8 +17894,9 @@ var DeletionModal = class extends import_obsidian4.Modal {
 
 // src/modals/action_editor.ts
 var ActionEditModal = class extends import_obsidian5.Modal {
-  constructor(app, user_action, onSave, onDelete) {
+  constructor(app, plugin, user_action, onSave, onDelete) {
     super(app);
+    this.plugin = plugin;
     this.action = user_action;
     this.onSave = onSave;
     this.onDelete = onDelete;
@@ -17483,7 +17916,7 @@ var ActionEditModal = class extends import_obsidian5.Modal {
     );
     new import_obsidian5.Setting(contentEl).setName("LLM Model selection").setDesc("What model would be used to process your input").addDropdown((dropdown) => {
       if (this.action.model == void 0) {
-        this.action.model = "gpt-3.5-turbo-1106" /* GPT_3_5_TURBO_PREVIEW */;
+        this.action.model = this.plugin.settings.defaultModel.toString();
       }
       dropdown.addOptions(modelDictionary()).setValue(this.action.model.toString()).onChange((value) => {
         this.action.model = value;
@@ -17651,6 +18084,7 @@ var AIEditorSettingTab = class extends import_obsidian6.PluginSettingTab {
     };
     new ActionEditModal(
       this.app,
+      this.plugin,
       DUMMY_ACTION,
       async (action) => {
         this.plugin.settings.customActions.push(action);
@@ -17662,6 +18096,7 @@ var AIEditorSettingTab = class extends import_obsidian6.PluginSettingTab {
   displayActionEditModalByActionAndIndex(userAction, index) {
     new ActionEditModal(
       this.app,
+      this.plugin,
       userAction,
       async (action) => {
         await this.saveUserActionAndRefresh(index, action);
