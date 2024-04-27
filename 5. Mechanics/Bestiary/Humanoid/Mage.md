@@ -45,8 +45,8 @@ Mages spend their lives in the study and practice of magic. Good-aligned mages o
 "cr": "6"
 "traits":
 - "desc": "The mage is a 9th-level spellcaster. Its spellcasting ability is Intelligence\
-    \ (spell save DC 14, dice: d20+6 (+6) to hit with spell attacks). The mage\
-    \ has the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]],\
+    \ (spell save DC 14, +6 to hit with spell attacks). The mage has the following\
+    \ wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]],\
     \ [[5. Mechanics/Spells/Light.md|light]], [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
     \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n1st level (4\
     \ slots): [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Mage Armor.md|mage armor]],\
@@ -59,9 +59,8 @@ Mages spend their lives in the study and practice of magic. Good-aligned mages o
     \ of cold]]"
   "name": "Spellcasting"
 "actions":
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice:1d4 + 2|text(4) (1d4 + 2) piercing\
-    \ damage."
+- "desc": "Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60\
+    \ ft., one target. Hit: 4 (1d4 + 2) piercing damage."
   "name": "Dagger"
 "source":
 - "MM"

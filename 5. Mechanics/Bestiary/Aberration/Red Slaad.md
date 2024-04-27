@@ -86,15 +86,14 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 "actions":
 - "desc": "The slaad makes three attacks: one with its bite and two with its claws."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d4 + 3|text(8) (2d4 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (2d4\
+    \ + 3) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d8 + 3|text(7) (1d8 + 3) piercing damage. If the target is\
-    \ a humanoid, it must succeed on a DC 14 Constitution saving throw or be infected\
-    \ with a disease—a minuscule slaad egg.\n\nA humanoid host can carry only one\
-    \ slaad egg to term at a time. Over three months, the egg moves to the chest cavity,\
-    \ gestates, and forms a [[5. Mechanics/Bestiary/Aberration/Slaad Tadpole.md|slaad tadpole]].\
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8\
+    \ + 3) piercing damage. If the target is a humanoid, it must succeed on a DC 14\
+    \ Constitution saving throw or be infected with a disease—a minuscule slaad egg.\n\
+    \nA humanoid host can carry only one slaad egg to term at a time. Over three months,\
+    \ the egg moves to the chest cavity, gestates, and forms a [[5. Mechanics/Bestiary/Aberration/Slaad Tadpole.md|slaad tadpole]].\
     \ In the 24-hour period before giving birth, the host starts to feel unwell, its\
     \ speed is halved, and it has disadvantage on attack rolls, ability checks, and\
     \ saving throws. At birth, the tadpole chews its way through vital organs and\

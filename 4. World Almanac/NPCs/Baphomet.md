@@ -177,18 +177,17 @@ await dv.view("npcRelationships", { current: dv.current() })
 - "desc": "Baphomet makes one Bite attack, one Gore attack, and one Heartcleaver attack.\
     \ He also uses Frightful Presence."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+17 (+17) to hit, reach 10 ft., one\
-    \ target. Hit: dice:2d8 + 10|text(19) (2d8 + 10) piercing damage."
+- "desc": "Melee Weapon Attack: +17 to hit, reach 10 ft., one target. Hit: 19\
+    \ (2d8 + 10) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+17 (+17) to hit, reach 10 ft., one\
-    \ target. Hit: dice:2d6 + 10|text(17) (2d6 + 10) piercing damage. If Baphomet\
-    \ moved at least 10 feet straight toward the target immediately before the hit,\
-    \ the target takes an extra dice:3d10|text(16) (3d10) piercing damage. If\
-    \ the target is a creature, it must succeed on a DC 25 Strength saving throw or\
-    \ be pushed up to 10 feet away and knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+- "desc": "Melee Weapon Attack: +17 to hit, reach 10 ft., one target. Hit: 17\
+    \ (2d6 + 10) piercing damage. If Baphomet moved at least 10 feet straight toward\
+    \ the target immediately before the hit, the target takes an extra 16 (3d10) piercing\
+    \ damage. If the target is a creature, it must succeed on a DC 25 Strength saving\
+    \ throw or be pushed up to 10 feet away and knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Gore"
-- "desc": "Melee Weapon Attack: dice: d20+17 (+17) to hit, reach 15 ft., one\
-    \ target. Hit: dice:2d10 + 10|text(21) (2d10 + 10) force damage."
+- "desc": "Melee Weapon Attack: +17 to hit, reach 15 ft., one target. Hit: 21\
+    \ (2d10 + 10) force damage."
   "name": "Heartcleaver"
 - "desc": "Each creature of Baphomet's choice within 120 feet of him and aware of\
     \ him must succeed on a DC 18 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
@@ -238,8 +237,7 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ and disoriented, as though constantly under threat of being hunted, and might\
     \ lash out or panic even when no visible threat is nearby.  "
   "name": ""
-- "desc": "If Baphomet dies, these effects fade over the course of dice: 1d10|avg|noform\
-    \ (1d10) days."
+- "desc": "If Baphomet dies, these effects fade over the course of 1d10 days."
   "name": ""
 "source":
 - "MPMM"

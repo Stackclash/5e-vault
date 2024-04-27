@@ -72,11 +72,11 @@ A jackalwere might also use its gaze to incapacitate a deadly enemy long enough 
     \ ally isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
   "name": "Pack Tactics"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d4 + 2|text(4) (1d4 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4\
+    \ + 2) piercing damage."
   "name": "Bite (Jackal or Hybrid Form Only)"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d6 + 2|text(5) (1d6 + 2) slashing damage."
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+    \ + 2) slashing damage."
   "name": "Scimitar (Human or Hybrid Form Only)"
 - "desc": "The jackalwere gazes at one creature it can see within 30 feet of it. The\
     \ target must make a DC 10 Wisdom saving throw. On a failed save, the target succumbs\

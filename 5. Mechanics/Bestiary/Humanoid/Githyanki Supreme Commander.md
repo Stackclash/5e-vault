@@ -64,12 +64,11 @@ Githyanki descend from an ancient people who were also the progenitors of githze
 "actions":
 - "desc": "The githyanki makes two Silver Greatsword attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+12 (+12) to hit, reach 5 ft., one\
-    \ target. Hit: dice:2d6 + 7|text(14) (2d6 + 7) slashing damage plus dice:5d6|text(17)\
-    \ (5d6) psychic damage. On a critical hit against a target in an astral body\
-    \ (as with the [[5. Mechanics/Spells/Astral Projection.md|astral projection]] spell),\
-    \ the githyanki can cut the silvery cord that tethers the target to its material\
-    \ body, instead of dealing damage."
+- "desc": "Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 14 (2d6\
+    \ + 7) slashing damage plus 17 (5d6) psychic damage. On a critical hit against\
+    \ a target in an astral body (as with the [[5. Mechanics/Spells/Astral Projection.md|astral projection]]\
+    \ spell), the githyanki can cut the silvery cord that tethers the target to its\
+    \ material body, instead of dealing damage."
   "name": "Silver Greatsword"
 "bonus_actions":
 - "desc": "The githyanki teleports, along with any equipment it is wearing or carrying,\

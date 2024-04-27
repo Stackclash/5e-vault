@@ -63,13 +63,13 @@ Unlike pixies, sprites rarely indulge in frivolous merriment and fun. They are f
 "languages": "Common, Elvish, Sylvan"
 "cr": "1/4"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+2 (+2) to hit, reach 5 ft., one target.\
-    \ Hit: 1 slashing damage."
+- "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 1 slashing\
+    \ damage."
   "name": "Longsword"
-- "desc": "Ranged Weapon Attack: dice: d20+6 (+6) to hit, range 40/160 ft.,\
-    \ one target. Hit: 1 piercing damage, and the target must succeed on a DC 10\
-    \ Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
-    \ for 1 minute. If its saving throw result is 5 or lower, the [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+- "desc": "Ranged Weapon Attack: +6 to hit, range 40/160 ft., one target. Hit:\
+    \ 1 piercing damage, and the target must succeed on a DC 10 Constitution saving\
+    \ throw or become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for 1 minute.\
+    \ If its saving throw result is 5 or lower, the [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
     \ target falls [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]] for\
     \ the same duration, or until it takes damage or another creature takes an action\
     \ to shake it awake."

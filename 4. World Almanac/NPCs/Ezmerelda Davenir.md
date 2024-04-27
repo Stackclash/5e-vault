@@ -189,8 +189,8 @@ await dv.view("npcRelationships", { current: dv.current() })
 "cr": "8"
 "traits":
 - "desc": "Ezmerelda is a 7th-level spellcaster. Her spellcasting ability is Intelligence\
-    \ (spell save DC 14, dice: d20+6 (+6) to hit with spell attacks). Ezmerelda\
-    \ has the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]],\
+    \ (spell save DC 14, +6 to hit with spell attacks). Ezmerelda has the following\
+    \ wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]],\
     \ [[5. Mechanics/Spells/Light.md|light]], [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
     \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n1st level (4\
     \ slots): [[5. Mechanics/Spells/Protection From Evil And Good.md|protection from evil and good]],\
@@ -209,23 +209,21 @@ await dv.view("npcRelationships", { current: dv.current() })
 - "desc": "Ezmerelda makes three attacks: two with her +1 rapier and one with her\
     \ +1 handaxe or her silvered shortsword."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d8 + 5|text(9) (1d8 + 5) piercing damage."
+- "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 9 (1d8\
+    \ + 5) piercing damage."
   "name": "Rapier +1"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice:1d6 + 3|text(6) (1d6 + 3) slashing\
-    \ damage."
+- "desc": "Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60\
+    \ ft., one target. Hit: 6 (1d6 + 3) slashing damage."
   "name": "Handaxe +1"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d6 + 4|text(7) (1d6 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6\
+    \ + 4) piercing damage."
   "name": "Silvered Shortsword"
 - "desc": "Ezmerelda targets one creature that she can see within 30 feet of her.\
     \ The target must succeed on a DC 14 Wisdom saving throw or be cursed. While cursed,\
     \ the target has vulnerability to one type of damage of Ezmerelda's choice. The\
     \ curse lasts until ended with a [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
     \ spell, a [[5. Mechanics/Spells/Remove Curse.md|remove curse]] spell, or similar\
-    \ magic. When the curse ends, Ezmerelda takes dice: 3d6|avg|noform (3d6) psychic\
-    \ damage."
+    \ magic. When the curse ends, Ezmerelda takes 3d6 psychic damage."
   "name": "Curse (Recharges after a Long Rest)"
 - "desc": "Ezmerelda targets one creature that she can see within 10 feet of her and\
     \ casts one of the following spells on the target (save DC 14), requiring neither\

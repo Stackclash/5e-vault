@@ -73,8 +73,8 @@ Aboleths lair in subterranean lakes or the rocky depths of the ocean, often surr
 - "desc": "While underwater, the aboleth is surrounded by transformative mucus. A\
     \ creature that touches the aboleth or that hits it with a melee attack while\
     \ within 5 feet of it must make a DC 14 Constitution saving throw. On a failure,\
-    \ the creature is diseased for dice: 1d4|avg|noform (1d4) hours. The diseased\
-    \ creature can breathe only underwater."
+    \ the creature is diseased for 1d4 hours. The diseased creature can breathe only\
+    \ underwater."
   "name": "Mucous Cloud"
 - "desc": "If a creature communicates telepathically with the aboleth, the aboleth\
     \ learns the creature's greatest desires if the aboleth can see the creature."
@@ -82,19 +82,19 @@ Aboleths lair in subterranean lakes or the rocky depths of the ocean, often surr
 "actions":
 - "desc": "The aboleth makes three tentacle attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 10 ft., one target.\
-    \ Hit: dice:2d6 + 5|text(12) (2d6 + 5) bludgeoning damage. If the target\
-    \ is a creature, it must succeed on a DC 14 Constitution saving throw or become\
-    \ diseased. The disease has no effect for 1 minute and can be removed by any magic\
-    \ that cures disease. After 1 minute, the diseased creature's skin becomes translucent\
-    \ and slimy, the creature can't regain hit points unless it is underwater, and\
-    \ the disease can be removed only by [[5. Mechanics/Spells/Heal.md|heal]] or another\
-    \ disease-curing spell of 6th level or higher. When the creature is outside a\
-    \ body of water, it takes dice:1d12|text(6) (1d12) acid damage every 10 minutes\
-    \ unless moisture is applied to the skin before 10 minutes have passed."
+- "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 12 (2d6\
+    \ + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC\
+    \ 14 Constitution saving throw or become diseased. The disease has no effect for\
+    \ 1 minute and can be removed by any magic that cures disease. After 1 minute,\
+    \ the diseased creature's skin becomes translucent and slimy, the creature can't\
+    \ regain hit points unless it is underwater, and the disease can be removed only\
+    \ by [[5. Mechanics/Spells/Heal.md|heal]] or another disease-curing spell of 6th\
+    \ level or higher. When the creature is outside a body of water, it takes 6 (1d12)\
+    \ acid damage every 10 minutes unless moisture is applied to the skin before 10\
+    \ minutes have passed."
   "name": "Tentacle"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 10 ft., one target.\
-    \ Hit: dice:3d6 + 5|text(15) (3d6 + 5) bludgeoning damage."
+- "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 15 (3d6\
+    \ + 5) bludgeoning damage."
   "name": "Tail"
 - "desc": "The aboleth targets one creature it can see within 30 feet of it. The target\
     \ must succeed on a DC 14 Wisdom saving throw or be magically [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
@@ -114,8 +114,8 @@ Aboleths lair in subterranean lakes or the rocky depths of the ocean, often surr
 - "desc": "The aboleth makes one tail attack."
   "name": "Tail Swipe"
 - "desc": "One creature [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] by the\
-    \ aboleth takes dice:3d6|text(10) (3d6) psychic damage, and the aboleth regains\
-    \ hit points equal to the damage the creature takes."
+    \ aboleth takes 10 (3d6) psychic damage, and the aboleth regains hit points equal\
+    \ to the damage the creature takes."
   "name": "Psychic Drain (Costs 2 Actions)"
 "lair_actions":
 - "desc": "When fighting inside its lair, an aboleth can invoke the ambient magic\
@@ -136,8 +136,8 @@ Aboleths lair in subterranean lakes or the rocky depths of the ocean, often surr
     \  \n- Water in the aboleth's lair magically becomes a conduit for the creature's\
     \ rage. The aboleth can target any number of creatures it can see in such water\
     \ within 90 feet of it. A target must succeed on a DC 14 Wisdom saving throw or\
-    \ take dice:2d6|text(7) (2d6) psychic damage. The aboleth can't use this lair\
-    \ action again until it has used a different one.  "
+    \ take 7 (2d6) psychic damage. The aboleth can't use this lair action again until\
+    \ it has used a different one.  "
   "name": ""
 "regional_effects":
 - "desc": "The region containing an aboleth's lair is warped by the creature's presence,\
@@ -156,8 +156,8 @@ Aboleths lair in subterranean lakes or the rocky depths of the ocean, often surr
     \ telepathy from the image's position as if present at that position. If the image\
     \ takes any damage, it disappears.  "
   "name": ""
-- "desc": "If the aboleth dies, the first two effects fade over the course of dice:\
-    \ 3d10|avg|noform (3d10) days."
+- "desc": "If the aboleth dies, the first two effects fade over the course of 3d10\
+    \ days."
   "name": ""
 "source":
 - "MM"

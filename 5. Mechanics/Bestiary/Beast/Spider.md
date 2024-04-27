@@ -44,9 +44,9 @@ aliases:
 - "desc": "The spider ignores movement restrictions caused by webbing."
   "name": "Web Walker"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one creature.\
-    \ Hit: 1 piercing damage, and the target must succeed on a DC 9 Constitution\
-    \ saving throw or take dice:1d4|text(2) (1d4) poison damage."
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 1 piercing\
+    \ damage, and the target must succeed on a DC 9 Constitution saving throw or take\
+    \ 2 (1d4) poison damage."
   "name": "Bite"
 "source":
 - "MM"

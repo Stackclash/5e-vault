@@ -52,20 +52,20 @@ To snare its prey, a giant spider spins elaborate webs or shoots sticky strands 
 - "desc": "The spider ignores movement restrictions caused by webbing."
   "name": "Web Walker"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one creature.\
-    \ Hit: dice:1d8 + 3|text(7) (1d8 + 3) piercing damage, and the target must\
-    \ make a DC 11 Constitution saving throw, taking dice:2d8|text(9) (2d8) poison\
-    \ damage on a failed save, or half as much damage on a successful one. If the\
-    \ poison damage reduces the target to 0 hit points, the target is stable but [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
-    \ for 1 hour, even after regaining hit points, and is [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 7 (1d8\
+    \ + 3) piercing damage, and the target must make a DC 11 Constitution saving throw,\
+    \ taking 9 (2d8) poison damage on a failed save, or half as much damage on a successful\
+    \ one. If the poison damage reduces the target to 0 hit points, the target is\
+    \ stable but [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for 1 hour,\
+    \ even after regaining hit points, and is [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
     \ while [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in this way."
   "name": "Bite"
-- "desc": "Ranged Weapon Attack: dice: d20+5 (+5) to hit, range 30/60 ft., one\
-    \ creature. Hit: The target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
-    \ by webbing. As an action, the [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
-    \ target can make a DC 12 Strength check, bursting the webbing on a success. The\
-    \ webbing can also be attacked and destroyed (AC 10; hp 5; vulnerability to fire\
-    \ damage; immunity to bludgeoning, poison, and psychic damage)."
+- "desc": "Ranged Weapon Attack: +5 to hit, range 30/60 ft., one creature. Hit:\
+    \ The target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]] by webbing.\
+    \ As an action, the [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]] target\
+    \ can make a DC 12 Strength check, bursting the webbing on a success. The webbing\
+    \ can also be attacked and destroyed (AC 10; hp 5; vulnerability to fire damage;\
+    \ immunity to bludgeoning, poison, and psychic damage)."
   "name": "Web (Recharge 5-6)"
 "source":
 - "MM"

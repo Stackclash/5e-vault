@@ -136,15 +136,14 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "desc": "The dragon can use its Frightful Presence. It then makes three attacks:\
     \ one with its bite and two with its claws."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+14 (+14) to hit, reach 15 ft., one\
-    \ target. Hit: dice:2d10 + 8|text(19) (2d10 + 8) piercing damage plus dice:2d8|text(9)\
-    \ (2d8) cold damage."
+- "desc": "Melee Weapon Attack: +14 to hit, reach 15 ft., one target. Hit: 19\
+    \ (2d10 + 8) piercing damage plus 9 (2d8) cold damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+14 (+14) to hit, reach 10 ft., one\
-    \ target. Hit: dice:2d6 + 8|text(15) (2d6 + 8) slashing damage."
+- "desc": "Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 15\
+    \ (2d6 + 8) slashing damage."
   "name": "Claw"
-- "desc": "Melee Weapon Attack: dice: d20+14 (+14) to hit, reach 20 ft., one\
-    \ target. Hit: dice:2d8 + 8|text(17) (2d8 + 8) bludgeoning damage."
+- "desc": "Melee Weapon Attack: +14 to hit, reach 20 ft., one target. Hit: 17\
+    \ (2d8 + 8) bludgeoning damage."
   "name": "Tail"
 - "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
     \ and aware of it must succeed on a DC 16 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
@@ -154,9 +153,8 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ Frightful Presence for the next 24 hours."
   "name": "Frightful Presence"
 - "desc": "The dragon exhales an icy blast in a 90-foot cone. Each creature in that\
-    \ area must make a DC 22 Constitution saving throw, taking dice:16d8|text(72)\
-    \ (16d8) cold damage on a failed save, or half as much damage on a successful\
-    \ one."
+    \ area must make a DC 22 Constitution saving throw, taking 72 (16d8) cold damage\
+    \ on a failed save, or half as much damage on a successful one."
   "name": "Cold Breath (Recharge 5-6)"
 "legendary_actions":
 - "desc": "The dragon makes a Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
@@ -165,9 +163,9 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "desc": "The dragon makes a tail attack."
   "name": "Tail Attack"
 - "desc": "The dragon beats its wings. Each creature within 15 feet of the dragon\
-    \ must succeed on a DC 22 Dexterity saving throw or take dice:2d6 + 8|text(15)\
-    \ (2d6 + 8) bludgeoning damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
-    \ The dragon can then fly up to half its flying speed."
+    \ must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning\
+    \ damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]. The dragon\
+    \ can then fly up to half its flying speed."
   "name": "Wing Attack (Costs 2 Actions)"
 "lair_actions":
 - "desc": "On initiative count 20 (losing initiative ties), the dragon takes a lair\
@@ -177,16 +175,15 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "desc": "- Freezing fog fills a 20-foot-radius sphere centered on a point the dragon\
     \ can see within 120 feet of it. The fog spreads around corners, and its area\
     \ is heavily obscured. Each creature in the fog when it appears must make a DC\
-    \ 10 Constitution saving throw, taking dice:3d6|text(10) (3d6) cold damage\
-    \ on a failed save, or half as much damage on a successful one. A creature that\
-    \ ends its turn in the fog takes dice:3d6|text(10) (3d6) cold damage. A wind\
-    \ of at least 20 miles per hour disperses the fog. The fog otherwise lasts until\
-    \ the dragon uses this lair action again or until the dragon dies.  \n- Jagged\
-    \ ice shards fall from the ceiling, striking up to three creatures underneath\
-    \ that the dragon can see within 120 feet of it. The dragon makes one ranged attack\
-    \ roll (dice: d20+7 (+7) to hit) against each target. On a hit, the target\
-    \ takes dice:3d6|text(10) (3d6) piercing damage.  \n- The dragon creates an\
-    \ opaque wall of ice on a solid surface it can see within 120 feet of it. The\
+    \ 10 Constitution saving throw, taking 10 (3d6) cold damage on a failed save,\
+    \ or half as much damage on a successful one. A creature that ends its turn in\
+    \ the fog takes 10 (3d6) cold damage. A wind of at least 20 miles per hour disperses\
+    \ the fog. The fog otherwise lasts until the dragon uses this lair action again\
+    \ or until the dragon dies.  \n- Jagged ice shards fall from the ceiling, striking\
+    \ up to three creatures underneath that the dragon can see within 120 feet of\
+    \ it. The dragon makes one ranged attack roll (+7 to hit) against each target.\
+    \ On a hit, the target takes 10 (3d6) piercing damage.  \n- The dragon creates\
+    \ an opaque wall of ice on a solid surface it can see within 120 feet of it. The\
     \ wall can be up to 30 feet long, 30 feet high, and 1 foot thick. When the wall\
     \ appears, each creature within its area is pushed 5 feet out of the wall's space;\
     \ appearing on whichever side of the wall it wants. Each 10-foot section of the\
@@ -221,7 +218,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ dragon moves through is destroyed, however.  "
   "name": ""
 - "desc": "If the dragon dies, the fog and precipitation fade within 1 day. The ice\
-    \ walls melt over the course of dice: 1d10|avg|noform (1d10) days."
+    \ walls melt over the course of 1d10 days."
   "name": ""
 - "desc": "Any of these effects might appear in the area around a white dragon's lair,\
     \ in addition to or instead of the effects described in the Monster Manual:\n\

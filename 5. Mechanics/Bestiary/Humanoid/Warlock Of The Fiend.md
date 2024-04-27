@@ -59,28 +59,26 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
     \n1/day each: [[5. Mechanics/Spells/Banishment.md|banishment]], [[5. Mechanics/Spells/Plane Shift.md|plane shift]],\
     \ [[5. Mechanics/Spells/Suggestion.md|suggestion]]"
   "name": "Spellcasting"
-- "desc": "When the warlock makes an ability check or saving throw, it can add a dice:\
-    \ d10|avg|noform (d10) to the roll. It can do this after the roll is made but\
-    \ before any of the roll's effects occur."
+- "desc": "When the warlock makes an ability check or saving throw, it can add a d10\
+    \ to the roll. It can do this after the roll is made but before any of the roll's\
+    \ effects occur."
   "name": "Dark One's Own Luck (Recharges after a Short or Long Rest)"
 "actions":
 - "desc": "The warlock makes three Scimitar attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d6 + 3|text(6) (1d6 + 3) slashing damage plus dice:4d6|text(14)\
-    \ (4d6) fire damage."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6\
+    \ + 3) slashing damage plus 14 (4d6) fire damage."
   "name": "Scimitar"
 - "desc": "Green flame explodes in a 10-foot-radius sphere centered on a point within\
     \ 120 feet of the warlock. Each creature in that area must make a DC 15 Dexterity\
-    \ saving throw, taking dice:3d10|text(16) (3d10) fire damage and dice:2d10|text(11)\
-    \ (2d10) necrotic damage on a failed save, or half as much damage on a successful\
-    \ one."
+    \ saving throw, taking 16 (3d10) fire damage and 11 (2d10) necrotic damage on\
+    \ a failed save, or half as much damage on a successful one."
   "name": "Hellfire"
 "reactions":
 - "desc": "In response to being damaged by a visible creature within 60 feet of it,\
     \ the warlock forces that creature to make a DC 15 Constitution saving throw,\
-    \ taking dice:4d10|text(22) (4d10) necrotic damage on a failed save, or half\
-    \ as much damage on a successful one."
+    \ taking 22 (4d10) necrotic damage on a failed save, or half as much damage on\
+    \ a successful one."
   "name": "Fiendish Rebuke (3/Day)"
 "source":
 - "MPMM"

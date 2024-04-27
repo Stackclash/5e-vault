@@ -113,14 +113,13 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
 "actions":
 - "desc": "The drow makes two shortsword attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d6 + 4|text(7) (1d6 + 4) piercing damage plus dice:3d6|text(10)\
-    \ (3d6) poison damage."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6\
+    \ + 4) piercing damage plus 10 (3d6) poison damage."
   "name": "Shortsword"
-- "desc": "Ranged Weapon Attack: dice: d20+7 (+7) to hit, range 30/120 ft.,\
-    \ one target. Hit: dice:1d6 + 4|text(7) (1d6 + 4) piercing damage, and the\
-    \ target must succeed on a DC 13 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
-    \ for 1 hour. If the saving throw fails by 5 or more, the target is also [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]\
+- "desc": "Ranged Weapon Attack: +7 to hit, range 30/120 ft., one target. Hit:\
+    \ 7 (1d6 + 4) piercing damage, and the target must succeed on a DC 13 Constitution\
+    \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for\
+    \ 1 hour. If the saving throw fails by 5 or more, the target is also [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]\
     \ while [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in this way. The\
     \ target wakes up if it takes damage or if another creature takes an action to\
     \ shake it awake."

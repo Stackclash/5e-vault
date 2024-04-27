@@ -34,6 +34,6 @@ title: Ram
 
 ## Actions
 
-***Ram.*** *Melee Weapon Attack:* `dice: d20+8` (`+8`) to hit, reach 5 ft., one object. *Hit:* 16 (`dice: 3d10|avg|noform` (`3d10`)) bludgeoning damage.
+***Ram.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one object. *Hit:* 16 (3d10) bludgeoning damage.
 ```
 ^statblock

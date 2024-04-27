@@ -67,9 +67,9 @@ The Pillar can imprison up to four creatures, but it doesn't have to. If there's
     \ empty space adjacent to the pillar.\n\nUp to four Medium creatures, or one Large\
     \ creature, can be contained in the pillar. Creatures suspended in the pillar\
     \ can't breathe unless they can breathe water, are [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
-    \ and take dice:6d6|text(21) (6d6) bludgeoning damage at the start of each\
-    \ of the pillar's turns.\n\nAs an action, a [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
-    \ creature can make a DC 15 Strength ([[/5. Mechanics/Rules/Skills.md#Athletics|Athletics]])\
+    \ and take 21 (6d6) bludgeoning damage at the start of each of the pillar's turns.\n\
+    \nAs an action, a [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]] creature\
+    \ can make a DC 15 Strength ([[/5. Mechanics/Rules/Skills.md#Athletics|Athletics]])\
     \ check. On a success, it escapes from the column of water."
   "name": "Geyser"
 "actions":

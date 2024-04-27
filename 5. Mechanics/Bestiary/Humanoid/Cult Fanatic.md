@@ -43,8 +43,8 @@ Fanatics are often part of a cult's leadership, using their charisma and dogma t
 "cr": "2"
 "traits":
 - "desc": "The fanatic is a 4th-level spellcaster. Its spellcasting ability is Wisdom\
-    \ (spell save DC 11, dice: d20+3 (+3) to hit with spell attacks). The fanatic\
-    \ has the following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Light.md|light]],\
+    \ (spell save DC 11, +3 to hit with spell attacks). The fanatic has the following\
+    \ cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Light.md|light]],\
     \ [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
     \n1st level (4 slots): [[5. Mechanics/Spells/Command.md|command]], [[5. Mechanics/Spells/Inflict Wounds.md|inflict wounds]],\
     \ [[5. Mechanics/Spells/Shield Of Faith.md|shield of faith]]\n\n2nd level (3 slots):\
@@ -56,9 +56,8 @@ Fanatics are often part of a cult's leadership, using their charisma and dogma t
 "actions":
 - "desc": "The fanatic makes two melee attacks."
   "name": "Multiattack"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft.\
-    \ or range 20/60 ft., one creature. Hit: dice:1d4 + 2|text(4) (1d4 + 2)\
-    \ piercing damage."
+- "desc": "Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60\
+    \ ft., one creature. Hit: 4 (1d4 + 2) piercing damage."
   "name": "Dagger"
 "source":
 - "MM"

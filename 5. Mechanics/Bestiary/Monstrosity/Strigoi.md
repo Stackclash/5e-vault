@@ -55,17 +55,16 @@ Many strigoi seek ways to return to their former existence while being compelled
 "actions":
 - "desc": "The strigoi makes one Claw attack and makes one Proboscis attack."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d8 + 3|text(7) (1d8 + 3) slashing damage plus dice:1d12|text(6)\
-    \ (1d12) acid damage."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8\
+    \ + 3) slashing damage plus 6 (1d12) acid damage."
   "name": "Claw"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one creature.\
-    \ Hit: dice:1d10 + 3|text(8) (1d10 + 3) piercing damage plus dice:3d6|text(10)\
-    \ (3d6) necrotic damage, and the strigoi regains hit points equal to the amount\
-    \ of necrotic damage dealt. A creature reduced to 0 hit points from this attack\
-    \ dies and leaves nothing behind except its skin and its equipment."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 8 (1d10\
+    \ + 3) piercing damage plus 10 (3d6) necrotic damage, and the strigoi regains\
+    \ hit points equal to the amount of necrotic damage dealt. A creature reduced\
+    \ to 0 hit points from this attack dies and leaves nothing behind except its skin\
+    \ and its equipment."
   "name": "Proboscis"
-- "desc": "The strigoi magically summons dice: 1d4 + 2|avg|noform (1d4 + 2) [[5. Mechanics/Bestiary/Beast/Stirge.md|stirges]]\
+- "desc": "The strigoi magically summons 1d4 + 2 [[5. Mechanics/Bestiary/Beast/Stirge.md|stirges]]\
     \ (see their entry in the Monster Manual) in unoccupied spaces it can see within\
     \ 30 feet of it. The stirges are under the strigoi's control and act immediately\
     \ after the strigoi in the initiative order. The stirges disappear after 1 hour,\

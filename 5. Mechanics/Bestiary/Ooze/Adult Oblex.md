@@ -80,22 +80,19 @@ When oblexes feed on thoughts, they can form weird copies of their prey to use a
 "actions":
 - "desc": "The oblex makes two pseudopod attacks, and it uses Eat Memories."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) bludgeoning damage plus dice:2d6|text(7)\
-    \ (2d6) psychic damage."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6\
+    \ + 4) bludgeoning damage plus 7 (2d6) psychic damage."
   "name": "Pseudopod"
 - "desc": "The oblex targets one creature it can see within 5 feet of it. The target\
-    \ must succeed on a DC 15 Wisdom saving throw or take dice:4d8|text(18) (4d8)\
-    \ psychic damage and become memory drained until it finishes a short or long rest\
-    \ or until it benefits from the [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
+    \ must succeed on a DC 15 Wisdom saving throw or take 18 (4d8) psychic damage\
+    \ and become memory drained until it finishes a short or long rest or until it\
+    \ benefits from the [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
     \ or [[5. Mechanics/Spells/Heal.md|heal]] spell. Constructs, Oozes, Plants, and Undead\
     \ succeed on the save automatically.\n\nWhile memory drained, the target must\
-    \ roll a dice: d4|avg|noform (d4) and subtract the number rolled from its\
-    \ ability checks and attack rolls. Each time the target is memory drained beyond\
-    \ the first, the die size increases by one: the dice: d4|avg|noform (d4) becomes\
-    \ a dice: d6|avg|noform (d6), the dice: d6|avg|noform (d6) becomes a dice:\
-    \ d8|avg|noform (d8), and so on until the die becomes a dice: d20|avg|noform\
-    \ (d20), at which point the target becomes [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]\
+    \ roll a d4 and subtract the number rolled from its ability checks and attack\
+    \ rolls. Each time the target is memory drained beyond the first, the die size\
+    \ increases by one: the d4 becomes a d6, the d6 becomes a d8, and so on until\
+    \ the die becomes a d20, at which point the target becomes [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]\
     \ for 1 hour. The effect then ends.\n\nThe oblex learns all the languages a memory-drained\
     \ target knows and gains all its skill proficiencies."
   "name": "Eat Memories"
@@ -103,13 +100,12 @@ When oblexes feed on thoughts, they can form weird copies of their prey to use a
 - "desc": "The oblex extrudes a piece of itself that assumes the appearance of one\
     \ Medium or smaller creature whose memories it has stolen. This simulacrum appears,\
     \ feels, and sounds exactly like the creature it impersonates, though it smells\
-    \ faintly of sulfur. The oblex can impersonate dice: 1d4 + 1|avg|noform (1d4\
-    \ + 1) different creatures, each one tethered to its body by a strand of slime\
-    \ that can extend up to 120 feet away. The simulacrum is an extension of the oblex,\
-    \ meaning that the oblex occupies its space and the simulacrum's space simultaneously.\
-    \ The tether is immune to damage, but it is severed if there is no opening at\
-    \ least 1 inch wide between the oblex and the simulacrum. The simulacrum disappears\
-    \ if the tether is severed."
+    \ faintly of sulfur. The oblex can impersonate 1d4 + 1 different creatures, each\
+    \ one tethered to its body by a strand of slime that can extend up to 120 feet\
+    \ away. The simulacrum is an extension of the oblex, meaning that the oblex occupies\
+    \ its space and the simulacrum's space simultaneously. The tether is immune to\
+    \ damage, but it is severed if there is no opening at least 1 inch wide between\
+    \ the oblex and the simulacrum. The simulacrum disappears if the tether is severed."
   "name": "Sulfurous Impersonation"
 "source":
 - "MPMM"

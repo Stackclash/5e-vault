@@ -126,8 +126,8 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
     \ check."
   "name": "Mimicry"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d8 + 4|text(13) (2d8 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8\
+    \ + 4) slashing damage."
   "name": "Claws"
 - "desc": "The hag covers herself and anything she is wearing or carrying with a magical\
     \ illusion that makes her look like another creature of her general size and humanoid\
@@ -183,8 +183,7 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
     \ single hag, including some that can directly harm intruders. Any regional effect\
     \ that requires a creature to make a saving throw uses the save DC of the hag's\
     \ most powerful ability. These effects either end immediately if the hag dies\
-    \ or abandons the lair, or take up to dice: 2d10|avg|noform (2d10) days to\
-    \ fade away."
+    \ or abandons the lair, or take up to 2d10 days to fade away."
   "name": ""
 - "desc": "The region within 1 mile of a grandmother hag's lair is warped by the creature's\
     \ fell magic, which creates one or more of the following effects:"

@@ -66,11 +66,11 @@ Once trained, a griffon is a fierce and loyal steed. It bonds with one master fo
 "actions":
 - "desc": "The griffon makes two attacks: one with its beak and one with its claws."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d8 + 4|text(8) (1d8 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8\
+    \ + 4) piercing damage."
   "name": "Beak"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6\
+    \ + 4) slashing damage."
   "name": "Claws"
 "source":
 - "MM"

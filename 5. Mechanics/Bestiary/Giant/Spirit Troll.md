@@ -59,8 +59,8 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
 "cr": "11"
 "traits":
 - "desc": "The troll can move through other creatures and objects as if they were\
-    \ difficult terrain. It takes dice:1d10|text(5) (1d10) force damage if it\
-    \ ends its turn inside an object."
+    \ difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside\
+    \ an object."
   "name": "Incorporeal Movement"
 - "desc": "The troll regains 10 hit points at the start of each of its turns. If the\
     \ troll takes psychic or force damage, this trait doesn't function at the start\
@@ -70,15 +70,15 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
 "actions":
 - "desc": "The troll makes one Bite attack and two Claw attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one creature.\
-    \ Hit: dice:3d10 + 3|text(19) (3d10 + 3) psychic damage, and the target\
-    \ must succeed on a DC 15 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
-    \ for 1 minute. The [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]] target\
-    \ can repeat the saving throw at the end of each of its turns, ending the effect\
-    \ on itself on a success."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 19\
+    \ (3d10 + 3) psychic damage, and the target must succeed on a DC 15 Wisdom saving\
+    \ throw or be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]] for 1 minute.\
+    \ The [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]] target can repeat the\
+    \ saving throw at the end of each of its turns, ending the effect on itself on\
+    \ a success."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one creature.\
-    \ Hit: dice:3d10 + 3|text(19) (3d10 + 3) psychic damage."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 19\
+    \ (3d10 + 3) psychic damage."
   "name": "Claws"
 "source":
 - "MPMM"

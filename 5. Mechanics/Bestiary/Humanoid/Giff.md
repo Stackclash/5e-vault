@@ -56,26 +56,25 @@ Every other keg of gunpowder within 20 feet of an exploding keg has a 50% chance
   "name": "Firearms Knowledge"
 - "desc": "The giff can try to knock a creature over; if the giff moves at least 20\
     \ feet in a straight line and ends within 5 feet of a Large or smaller creature,\
-    \ that creature must succeed on a DC 14 Strength saving throw or take dice:2d6|text(7)\
-    \ (2d6) bludgeoning damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ that creature must succeed on a DC 14 Strength saving throw or take 7 (2d6)\
+    \ bludgeoning damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Headfirst Charge"
 "actions":
 - "desc": "The giff makes two Longsword, Musket, or Pistol attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d8 + 4|text(8) (1d8 + 4) slashing damage, or dice:1d10 + 4|text(9)\
-    \ (1d10 + 4) slashing damage if used with two hands."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8\
+    \ + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands."
   "name": "Longsword"
-- "desc": "Ranged Weapon Attack: dice: d20+4 (+4) to hit, range 40/120 ft.,\
-    \ one target. Hit: dice:1d12 + 2|text(8) (1d12 + 2) piercing damage."
+- "desc": "Ranged Weapon Attack: +4 to hit, range 40/120 ft., one target. Hit:\
+    \ 8 (1d12 + 2) piercing damage."
   "name": "Musket"
-- "desc": "Ranged Weapon Attack: dice: d20+4 (+4) to hit, range 30/90 ft., one\
-    \ target. Hit: dice:1d10 + 2|text(7) (1d10 + 2) piercing damage."
+- "desc": "Ranged Weapon Attack: +4 to hit, range 30/90 ft., one target. Hit:\
+    \ 7 (1d10 + 2) piercing damage."
   "name": "Pistol"
 - "desc": "The giff throws a grenade up to 60 feet, and the grenade explodes in a\
     \ 20-foot-radius sphere. Each creature in that area must make a DC 15 Dexterity\
-    \ saving throw, taking dice:5d6|text(17) (5d6) piercing damage on a failed\
-    \ save, or half as much damage on a successful one."
+    \ saving throw, taking 17 (5d6) piercing damage on a failed save, or half as much\
+    \ damage on a successful one."
   "name": "Fragmentation Grenade (1/Day)"
 "source":
 - "MPMM"

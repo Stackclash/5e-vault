@@ -180,21 +180,20 @@ await dv.view("npcRelationships", { current: dv.current() })
 - "desc": "Moloch makes one Bite attack, one Claw attack, and one Many-Tailed Whip\
     \ attack."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+15 (+15) to hit, reach 5 ft., one\
-    \ target. Hit: dice:4d8 + 8|text(26) (4d8 + 8) fire damage."
+- "desc": "Melee Weapon Attack: +15 to hit, reach 5 ft., one target. Hit: 26 (4d8\
+    \ + 8) fire damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+15 (+15) to hit, reach 10 ft., one\
-    \ target. Hit: dice:2d8 + 8|text(17) (2d8 + 8) force damage."
+- "desc": "Melee Weapon Attack: +15 to hit, reach 10 ft., one target. Hit: 17\
+    \ (2d8 + 8) force damage."
   "name": "Claw"
-- "desc": "Melee Weapon Attack: dice: d20+15 (+15) to hit, reach 30 ft., one\
-    \ target. Hit: dice:2d4 + 8|text(13) (2d4 + 8) lightning damage plus dice:2d10|text(11)\
-    \ (2d10) thunder damage. If the target is a creature, it must succeed on a DC\
-    \ 24 Strength saving throw or be pulled up to 30 feet in a straight line toward\
-    \ Moloch."
+- "desc": "Melee Weapon Attack: +15 to hit, reach 30 ft., one target. Hit: 13\
+    \ (2d4 + 8) lightning damage plus 11 (2d10) thunder damage. If the target is a\
+    \ creature, it must succeed on a DC 24 Strength saving throw or be pulled up to\
+    \ 30 feet in a straight line toward Moloch."
   "name": "Many-Tailed Whip"
 - "desc": "Moloch exhales in a 30-foot cube. Each creature in that area must succeed\
-    \ on a DC 21 Wisdom saving throw or take dice:5d10|text(27) (5d10) psychic\
-    \ damage, drop whatever it is holding, and become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ on a DC 21 Wisdom saving throw or take 27 (5d10) psychic damage, drop whatever\
+    \ it is holding, and become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
     \ of Moloch for 1 minute. While [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
     \ in this way, a creature must take the [[/5. Mechanics/Rules/Actions.md#Dash|Dash]]\
     \ action and move away from Moloch by the safest available route on each of its\

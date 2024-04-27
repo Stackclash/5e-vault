@@ -68,8 +68,8 @@ Hydras are natural swimmers, dwelling in rivers, along lakeshores, in ocean shal
 "actions":
 - "desc": "The hydra makes as many bite attacks as it has heads."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 10 ft., one target.\
-    \ Hit: dice:1d10 + 5|text(10) (1d10 + 5) piercing damage."
+- "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 10 (1d10\
+    \ + 5) piercing damage."
   "name": "Bite"
 "source":
 - "MM"

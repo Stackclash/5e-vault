@@ -230,12 +230,11 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - "desc": "The marilith can make seven attacks: six with its longswords and one with\
     \ its tail."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d8 + 4|text(13) (2d8 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 13 (2d8\
+    \ + 4) slashing damage."
   "name": "Longsword"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 10 ft., one creature.\
-    \ Hit: dice:2d10 + 4|text(15) (2d10 + 4) bludgeoning damage. If the target\
-    \ is Medium or smaller, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+- "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft., one creature. Hit: 15\
+    \ (2d10 + 4) bludgeoning damage. If the target is Medium or smaller, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ (escape DC 19). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
     \ the marilith can automatically hit the target with its tail, and the marilith\
     \ can't make tail attacks against other targets."

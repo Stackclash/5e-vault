@@ -108,16 +108,14 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
 - "desc": "The yuan-ti makes two ranged attacks or two melee attacks, but can use\
     \ its bite only once."
   "name": "Multiattack (Yuan-ti Form Only)"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one creature.\
-    \ Hit: dice:1d4 + 3|text(5) (1d4 + 3) piercing damage plus dice:2d6|text(7)\
-    \ (2d6) poison damage."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 5 (1d4\
+    \ + 3) piercing damage plus 7 (2d6) poison damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d6 + 3|text(6) (1d6 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6\
+    \ + 3) slashing damage."
   "name": "Scimitar (Yuan-ti Form Only)"
-- "desc": "Ranged Weapon Attack: dice: d20+4 (+4) to hit, range 150/600 ft.,\
-    \ one target. Hit: dice:1d8 + 2|text(6) (1d8 + 2) piercing damage plus dice:2d6|text(7)\
-    \ (2d6) poison damage."
+- "desc": "Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit:\
+    \ 6 (1d8 + 2) piercing damage plus 7 (2d6) poison damage."
   "name": "Longbow (Yuan-ti Form Only)"
 "source":
 - "MM"

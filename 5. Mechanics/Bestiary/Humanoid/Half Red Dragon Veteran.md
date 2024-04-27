@@ -82,19 +82,18 @@ Here the half-dragon template has been applied to a human [[5. Mechanics/Bestiar
 - "desc": "The veteran makes two longsword attacks. If it has a shortsword drawn,\
     \ it can also make a shortsword attack."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d8 + 3|text(7) (1d8 + 3) slashing damage, or dice:1d10 + 3|text(8)\
-    \ (1d10 + 3) slashing damage if used with two hands."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8\
+    \ + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands."
   "name": "Longsword"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d6 + 3|text(6) (1d6 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6\
+    \ + 3) piercing damage."
   "name": "Shortsword"
-- "desc": "Ranged Weapon Attack: dice: d20+3 (+3) to hit, range 100/400 ft.,\
-    \ one target. Hit: dice:1d10 + 1|text(6) (1d10 + 1) piercing damage."
+- "desc": "Ranged Weapon Attack: +3 to hit, range 100/400 ft., one target. Hit:\
+    \ 6 (1d10 + 1) piercing damage."
   "name": "Heavy Crossbow"
 - "desc": "The veteran exhales fire in a 15-foot cone. Each creature in that area\
-    \ must make a DC 15 Dexterity saving throw, taking dice:7d6|text(24) (7d6)\
-    \ fire damage on a failed save, or half as much damage on a successful one."
+    \ must make a DC 15 Dexterity saving throw, taking 24 (7d6) fire damage on a failed\
+    \ save, or half as much damage on a successful one."
   "name": "Fire Breath (Recharge 5-6)"
 "source":
 - "MM"

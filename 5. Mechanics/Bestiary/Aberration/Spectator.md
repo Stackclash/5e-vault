@@ -54,8 +54,8 @@ When a spectator has fulfilled its service, it is free to do as it pleases. Many
 "languages": "Deep Speech, Undercommon, telepathy 120 ft."
 "cr": "3"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+1 (+1) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d6 - 1|text(2) (1d6 - 1) piercing damage."
+- "desc": "Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 2 (1d6\
+    \ - 1) piercing damage."
   "name": "Bite"
 - "desc": "The spectator shoots up to two of the following magical eye rays at one\
     \ or two creatures it can see within 90 feet of it. It can use each ray only once\
@@ -71,8 +71,8 @@ When a spectator has fulfilled its service, it is free to do as it pleases. Many
     \ for 1 minute. The target can repeat the saving throw at the end of each of its\
     \ turns, with disadvantage if the spectator is visible to the target, ending the\
     \ effect on itself on a success.  \n- 4. Wounding Ray. The target must make\
-    \ a DC 13 Constitution saving throw, taking dice:3d10|text(16) (3d10) necrotic\
-    \ damage on a failed save, or half as much damage on a successful one.  "
+    \ a DC 13 Constitution saving throw, taking 16 (3d10) necrotic damage on a failed\
+    \ save, or half as much damage on a successful one.  "
   "name": "Eye Rays"
 - "desc": "The spectator magically creates enough food and water to sustain itself\
     \ for 24 hours."

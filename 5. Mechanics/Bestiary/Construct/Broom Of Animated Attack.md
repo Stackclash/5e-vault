@@ -64,8 +64,8 @@ Some brooms of animated attack allow their creators to ride them, in which case 
 "actions":
 - "desc": "The broom makes two melee attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d4 + 3|text(5) (1d4 + 3) bludgeoning damage."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4\
+    \ + 3) bludgeoning damage."
   "name": "Broomstick"
 "reactions":
 - "desc": "If the broom is motionless and a creature grabs hold of it, the broom makes\

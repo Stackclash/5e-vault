@@ -218,9 +218,9 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "cr": "17"
 "traits":
 - "desc": "If the goristro moves at least 15 feet straight toward a target and then\
-    \ hits it with a gore attack on the same turn, the target takes an extra dice:7d10|text(38)\
-    \ (7d10) piercing damage. If the target is a creature, it must succeed on a\
-    \ DC 21 Strength saving throw or be pushed up to 20 feet away and knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ hits it with a gore attack on the same turn, the target takes an extra 38 (7d10)\
+    \ piercing damage. If the target is a creature, it must succeed on a DC 21 Strength\
+    \ saving throw or be pushed up to 20 feet away and knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Charge"
 - "desc": "The goristro can perfectly recall any path it has traveled."
   "name": "Labyrinthine Recall"
@@ -232,16 +232,15 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "actions":
 - "desc": "The goristro makes three attacks: two with its fists and one with its hoof."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+13 (+13) to hit, reach 10 ft., one\
-    \ target. Hit: dice:3d8 + 7|text(20) (3d8 + 7) bludgeoning damage."
+- "desc": "Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 20\
+    \ (3d8 + 7) bludgeoning damage."
   "name": "Fist"
-- "desc": "Melee Weapon Attack: dice: d20+13 (+13) to hit, reach 5 ft., one\
-    \ target. Hit: dice:3d10 + 7|text(23) (3d10 + 7) bludgeoning damage. If\
-    \ the target is a creature, it must succeed on a DC 21 Strength saving throw or\
-    \ be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+- "desc": "Melee Weapon Attack: +13 to hit, reach 5 ft., one target. Hit: 23 (3d10\
+    \ + 7) bludgeoning damage. If the target is a creature, it must succeed on a DC\
+    \ 21 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Hoof"
-- "desc": "Melee Weapon Attack: dice: d20+13 (+13) to hit, reach 10 ft., one\
-    \ target. Hit: dice:7d10 + 7|text(45) (7d10 + 7) piercing damage."
+- "desc": "Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 45\
+    \ (7d10 + 7) piercing damage."
   "name": "Gore"
 "source":
 - "MM"

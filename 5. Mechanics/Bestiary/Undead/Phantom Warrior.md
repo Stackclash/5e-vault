@@ -65,16 +65,16 @@ A phantom warrior doesn't require air, food, drink, or sleep.
     \ on the Material Plane, and vice versa."
   "name": "Ethereal Sight"
 - "desc": "The phantom warrior can move through other creatures and objects as if\
-    \ they were difficult terrain. It takes dice:1d10|text(5) (1d10) force damage\
-    \ if it ends its turn inside an object."
+    \ they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn\
+    \ inside an object."
   "name": "Incorporeal Movement"
 - "desc": "The phantom warrior's AC accounts for its spectral armor and shield."
   "name": "Spectral Armor and Shield"
 "actions":
 - "desc": "The phantom warrior makes two attacks with its spectral longsword."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d8 + 3|text(7) (1d8 + 3) force damage."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8\
+    \ + 3) force damage."
   "name": "Spectral Longsword"
 - "desc": "The phantom warrior enters the Ethereal Plane from the Material Plane,\
     \ or vice versa. It is visible on the Material Plane while it is in the Border\

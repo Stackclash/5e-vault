@@ -50,19 +50,19 @@ Barovian witches use the [[5. Mechanics/Spells/Find Familiar.md|find familiar]] 
 "cr": "1/2"
 "traits":
 - "desc": "The witch is a 3rd-level spellcaster. Its spellcasting ability is Intelligence\
-    \ (spell save DC 12, dice: d20+4 (+4) to hit with spell attacks). The witch\
-    \ has the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
+    \ (spell save DC 12, +4 to hit with spell attacks). The witch has the following\
+    \ wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
     \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]], [[5. Mechanics/Spells/Ray Of Frost.md|ray of frost]]\n\
     \n1st level (4 slots): [[5. Mechanics/Spells/Ray Of Sickness.md|ray of sickness]],\
     \ [[5. Mechanics/Spells/Sleep.md|sleep]], [[5. Mechanics/Spells/Tashas Hideous Laughter.md|Tasha's hideous laughter]]\n\
     \n2nd level (2 slots): [[5. Mechanics/Spells/Alter Self.md|alter self]], [[5. Mechanics/Spells/Invisibility.md|invisibility]]"
   "name": "Spellcasting"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d6 + 1|text(4) (1d6 + 1) slashing damage. This attack is magical."
+- "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6\
+    \ + 1) slashing damage. This attack is magical."
   "name": "Claws (Requires Alter Self)"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+2 (+2) to hit, reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice:1d4|text(2) (1d4) piercing damage."
+- "desc": "Melee or Ranged Weapon Attack: +2 to hit, reach 5 ft. or range 20/60\
+    \ ft., one target. Hit: 2 (1d4) piercing damage."
   "name": "Dagger"
 "source":
 - "CoS"

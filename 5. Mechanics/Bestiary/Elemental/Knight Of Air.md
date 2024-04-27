@@ -58,8 +58,8 @@ Otherwise, the Wind Lords use their high Armor Class and crazy-good movement to 
 "cr": "8"
 "traits":
 - "desc": "The Knight of Air's innate spellcasting ability is Wisdom (spell save DC\
-    \ 13, dice: d20+5 (+5) to hit with spell attacks). It can innately cast the\
-    \ following spells, requiring no components:\n\n1/day each: [[5. Mechanics/Spells/Wind Wall.md|wind wall]],\
+    \ 13, +5 to hit with spell attacks). It can innately cast the following spells,\
+    \ requiring no components:\n\n1/day each: [[5. Mechanics/Spells/Wind Wall.md|wind wall]],\
     \ [[5. Mechanics/Spells/Gaseous Form.md|gaseous form]]\n\n3/day each: [[5. Mechanics/Spells/Invisibility.md|invisibility]],\
     \ [[5. Mechanics/Spells/Misty Step.md|misty step]], [[5. Mechanics/Spells/Gust Of Wind.md|gust of wind]]\n\
     \nCantrips (at will): [[5. Mechanics/Spells/Mage Hand.md|mage hand]] (the hand\
@@ -68,8 +68,8 @@ Otherwise, the Wind Lords use their high Armor Class and crazy-good movement to 
 "actions":
 - "desc": "The Knight makes three attacks with the Sword of Clouds."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d8 + 6|text(15) (2d8 + 6) piercing damage."
+- "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 15 (2d8\
+    \ + 6) piercing damage."
   "name": "The Sword of Clouds"
 "source":
 - "SaF"

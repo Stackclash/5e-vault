@@ -77,17 +77,17 @@ The Count relies on his Now You See Me... Now You Don't... combo to get in and o
 - "desc": "As a reaction, if an enemy the Count can see makes a successful melee or\
     \ ranged attack roll against him, he casts misty step."
   "name": "Now You Don't... (Recharge 4-6)"
-- "desc": "If the Count has advantage on an attack roll, he deals an extra dice:2d6|text(7)\
-    \ (2d6) damage."
+- "desc": "If the Count has advantage on an attack roll, he deals an extra 7 (2d6)\
+    \ damage."
   "name": "Tactical Advantage"
 "actions":
 - "desc": "The count makes three attacks with his rapier or longbow in any combination."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d8 + 4|text(8) (1d8 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8\
+    \ + 4) piercing damage."
   "name": "Rapier"
-- "desc": "Ranged Weapon Attack: dice: d20+7 (+7) to hit, range 150/600 ft.,\
-    \ one target. Hit: dice:2d6 + 4|text(11) (2d6 + 4) piercing damage."
+- "desc": "Ranged Weapon Attack: +7 to hit, range 150/600 ft., one target. Hit:\
+    \ 11 (2d6 + 4) piercing damage."
   "name": "Longbow"
 "source":
 - "SaF"

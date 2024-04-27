@@ -50,8 +50,7 @@ They are measured and formal, slow to give trust. They like seeing things done p
 "cr": "9"
 "traits":
 - "desc": ". . [[/5. Mechanics/Rules/Variant Rules/Gemstone Dragon Psionics.md|Gemstone Dragon Psionics]].\
-    \ Charges: 16 • Recharge: dice: 1d6|avg|noform (1d6) • Fracture:\
-    \ 16"
+    \ Charges: 16 • Recharge: 1d6 • Fracture: 16"
   "name": ""
 - "desc": "Allies' spells cast within 30 feet have their saving throw DC increased\
     \ by 2."
@@ -59,11 +58,11 @@ They are measured and formal, slow to give trust. They like seeing things done p
 "actions":
 - "desc": "The dragon makes three attacks: one with its bite and two with its claws."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 10 ft., one target.\
-    \ Hit: dice:2d10 + 3|text(14) (2d10 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 14 (2d10\
+    \ + 3) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d6 + 3|text(10) (2d6 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 10 (2d6\
+    \ + 3) slashing damage."
   "name": "Claw"
 "source":
 - "SaF"

@@ -68,12 +68,11 @@ After finishing a long rest, a greater star spawn emissary regains its lesser fo
 "actions":
 - "desc": "The emissary makes three attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+11 (+11) to hit, reach 15 ft., one\
-    \ target. Hit: dice:2d10 + 5|text(16) (2d10 + 5) piercing damage plus dice:3d8|text(13)\
-    \ (3d8) acid damage."
+- "desc": "Melee Weapon Attack: +11 to hit, reach 15 ft., one target. Hit: 16\
+    \ (2d10 + 5) piercing damage plus 13 (3d8) acid damage."
   "name": "Lashing Maw"
-- "desc": "Ranged Spell Attack: dice: d20+13 (+13) to hit, range 120 ft., one\
-    \ creature. Hit: dice:2d10 + 7|text(18) (2d10 + 7) psychic damage."
+- "desc": "Ranged Spell Attack: +13 to hit, range 120 ft., one creature. Hit:\
+    \ 18 (2d10 + 7) psychic damage."
   "name": "Psychic Orb"
 - "desc": "The emissary polymorphs into a Small or Medium creature of its choice or\
     \ back into its true form. Its statistics, other than its size, are the same in\
@@ -87,7 +86,7 @@ After finishing a long rest, a greater star spawn emissary regains its lesser fo
   "name": "Teleportation Maw (Costs 2 Actions)"
 - "desc": "The emissary targets a creature it can see within 30 feet of it and psychically\
     \ lashes at that creature's mind. The target must succeed on a DC 21 Wisdom saving\
-    \ throw or take dice:8d8|text(36) (8d8) psychic damage and be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+    \ throw or take 36 (8d8) psychic damage and be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
     \ until the start of its next turn."
   "name": "Psychic Lash (Costs 3 Actions)"
 "source":

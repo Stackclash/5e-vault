@@ -47,9 +47,9 @@ aliases:
 - "desc": "This creature is a Retainer, as described in \"Strongholds and Followers\""
   "name": "Retainer"
 "actions":
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft.,\
-    \ one target. Hit: dice:1d12 + 4|text(10) (1d12 + 4) piercing damage.\n\n\
-    At 7th level, retainers can take two signature attacks per round."
+- "desc": "Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft., one target. Hit:\
+    \ 10 (1d12 + 4) piercing damage.\n\nAt 7th level, retainers can take two signature\
+    \ attacks per round."
   "name": "Signature Attack"
 - "desc": "Prerequisite: 3rd-level retainer\n\nThe warlord takes their signature\
     \ attack and selects an ally within 30 feet who can see and hear the warlord and\
@@ -60,8 +60,8 @@ aliases:
     \ and selects an ally, who can immediately move up to 30 feet and make an attack\
     \ or cast a spell."
   "name": "Charge (3/Day)"
-- "desc": "Prerequisite: 7th-level retainer\n\nAll allies within 60 feet gain dice:\
-    \ 3d8|avg|noform (3d8) temporary hit points."
+- "desc": "Prerequisite: 7th-level retainer\n\nAll allies within 60 feet gain 3d8\
+    \ temporary hit points."
   "name": "Rallying Cry (3/Day)"
 "source":
 - "SaF"

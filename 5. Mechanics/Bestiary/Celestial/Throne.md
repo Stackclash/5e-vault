@@ -58,8 +58,7 @@ It chooses the most evil enemy creature (by whatever metric you want) and attack
 "cr": "9"
 "traits":
 - "desc": "The throne's weapon attacks are magical. When the throne hits with any\
-    \ weapon, the weapon deals an extra dice:2d8|text(9) (2d8) radiant damage\
-    \ (included in the attack)."
+    \ weapon, the weapon deals an extra 9 (2d8) radiant damage (included in the attack)."
   "name": "Angelic Weapons"
 - "desc": "The throne has advantage on saving throws against spells and other magical\
     \ effects from evil characters and sources."
@@ -72,18 +71,16 @@ It chooses the most evil enemy creature (by whatever metric you want) and attack
     \ magic, the ally has advantage on any new saving throw against the relevant effect."
   "name": "Aura of Protection Against Evil"
 "actions":
-- "desc": "Ranged Spell Attack: dice: d20+8 (+8) to hit, range 120 ft., one\
-    \ target. Hit: dice:3d6|text(10) (3d6) fire damage plus dice:2d8|text(9)\
-    \ (2d8) radiant damage. If the target is Medium or smaller, it must succeed\
-    \ on a DC 16 Dexterity saving throw or be teleported into the throne's burning\
-    \ rings. The target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape\
-    \ DC 17). Until the grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+- "desc": "Ranged Spell Attack: +8 to hit, range 120 ft., one target. Hit: 10\
+    \ (3d6) fire damage plus 9 (2d8) radiant damage. If the target is Medium or smaller,\
+    \ it must succeed on a DC 16 Dexterity saving throw or be teleported into the\
+    \ throne's burning rings. The target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ (escape DC 17). Until the grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
     \ and the throne uses Radiant Burn as its first action on each of its subsequent\
     \ turns. Only one creature can be imprisoned at a time."
   "name": "The Burning Wheel"
 - "desc": "The wheel spins around the creature [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ by it, dealing dice:3d8|text(13) (3d8) fire damage plus dice:2d8|text(9)\
-    \ (2d8) radiant damage"
+    \ by it, dealing 13 (3d8) fire damage plus 9 (2d8) radiant damage"
   "name": "Radiant Burn"
 "source":
 - "SaF"

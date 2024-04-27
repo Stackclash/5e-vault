@@ -54,19 +54,17 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
 "cr": "9"
 "traits":
 - "desc": "At the end of each of the troll's turns, each creature within 5 feet of\
-    \ it takes dice:2d10|text(11) (2d10) necrotic damage, unless the troll has\
-    \ taken acid or fire damage since the end of its last turn."
+    \ it takes 11 (2d10) necrotic damage, unless the troll has taken acid or fire\
+    \ damage since the end of its last turn."
   "name": "Rancid Degeneration"
 "actions":
 - "desc": "The troll makes one Bite attack and two Claw attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d10 + 4|text(9) (1d10 + 4) piercing damage plus dice:3d10|text(16)\
-    \ (3d10) necrotic damage."
+- "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 9 (1d10\
+    \ + 4) piercing damage plus 16 (3d10) necrotic damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) slashing damage plus dice:2d6|text(7)\
-    \ (2d6) necrotic damage."
+- "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 11 (2d6\
+    \ + 4) slashing damage plus 7 (2d6) necrotic damage."
   "name": "Claws"
 "source":
 - "MPMM"

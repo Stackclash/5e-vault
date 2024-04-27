@@ -66,9 +66,8 @@ Nature's counterspell reaction has a range of 60 feet, so Nature can pummel easy
 "actions":
 - "desc": "Nature makes two slam attacks or makes one slam attack and casts banishment."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 10 ft., one target.\
-    \ Hit: dice:2d6 + 5|text(12) (2d6 + 5) bludgeoning damage plus dice:4d8|text(18)\
-    \ (4d8) force damage."
+- "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 12 (2d6\
+    \ + 5) bludgeoning damage plus 18 (4d8) force damage."
   "name": "Slam"
 "source":
 - "SaF"

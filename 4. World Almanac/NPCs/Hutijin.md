@@ -173,23 +173,22 @@ await dv.view("npcRelationships", { current: dv.current() })
 - "desc": "Hutijin makes one Bite attack, one Claw attack, one Mace attack, and one\
     \ Tail attack."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+15 (+15) to hit, reach 5 ft., one\
-    \ target. Hit: dice:2d6 + 8|text(15) (2d6 + 8) fire damage. The target must\
-    \ succeed on a DC 22 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]].\
-    \ While [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in this way, the\
-    \ target can't regain hit points, and it takes dice:3d6|text(10) (3d6) poison\
+- "desc": "Melee Weapon Attack: +15 to hit, reach 5 ft., one target. Hit: 15 (2d6\
+    \ + 8) fire damage. The target must succeed on a DC 22 Constitution saving throw\
+    \ or become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]. While [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ in this way, the target can't regain hit points, and it takes 10 (3d6) poison\
     \ damage at the start of each of its turns. The [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
     \ target can repeat the saving throw at the end of each of its turns, ending the\
     \ effect on itself on a success."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+15 (+15) to hit, reach 10 ft., one\
-    \ target. Hit: dice:2d8 + 8|text(17) (2d8 + 8) cold damage."
+- "desc": "Melee Weapon Attack: +15 to hit, reach 10 ft., one target. Hit: 17\
+    \ (2d8 + 8) cold damage."
   "name": "Claw"
-- "desc": "Melee Weapon Attack: dice: d20+15 (+15) to hit, reach 5 ft., one\
-    \ target. Hit: dice:2d6 + 8|text(15) (2d6 + 8) force damage."
+- "desc": "Melee Weapon Attack: +15 to hit, reach 5 ft., one target. Hit: 15 (2d6\
+    \ + 8) force damage."
   "name": "Mace"
-- "desc": "Melee Weapon Attack: dice: d20+15 (+15) to hit, reach 10 ft., one\
-    \ target. Hit: dice:2d10 + 8|text(19) (2d10 + 8) thunder damage."
+- "desc": "Melee Weapon Attack: +15 to hit, reach 10 ft., one target. Hit: 19\
+    \ (2d10 + 8) thunder damage."
   "name": "Tail"
 - "desc": "Hutijin teleports, along with any equipment he is wearing and carrying,\
     \ up to 120 feet to an unoccupied space he can see."
@@ -209,8 +208,8 @@ await dv.view("npcRelationships", { current: dv.current() })
   "name": "Teleport"
 - "desc": "Hutijin releases lightning in a 30-foot radius, blocked only by total cover.\
     \ All other creatures in that area must each make a DC 22 Dexterity saving throw,\
-    \ taking dice:4d8|text(18) (4d8) lightning damage on a failed save, or half\
-    \ as much damage on a successful one."
+    \ taking 18 (4d8) lightning damage on a failed save, or half as much damage on\
+    \ a successful one."
   "name": "Lightning Storm (Costs 2 Actions)"
 "source":
 - "MPMM"

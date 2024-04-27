@@ -62,11 +62,11 @@ Like devils, rakshasas killed in the Nine Hells are forever destroyed.
 "cr": "13"
 "traits":
 - "desc": "The rakshasa's innate spellcasting ability is Charisma (spell save DC 18,\
-    \ dice: d20+10 (+10) to hit with spell attacks). The rakshasa can innately\
-    \ cast the following spells, requiring no material components:\n\nAt will:\
-    \ [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[5. Mechanics/Spells/Disguise Self.md|disguise self]],\
-    \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Dominate Person.md|dominate person]], [[5. Mechanics/Spells/Fly.md|fly]],\
+    \ +10 to hit with spell attacks). The rakshasa can innately cast the following\
+    \ spells, requiring no material components:\n\nAt will: [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
+    \ [[5. Mechanics/Spells/Disguise Self.md|disguise self]], [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
+    \ [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]]\n\n1/day each: [[5. Mechanics/Spells/Dominate Person.md|dominate\
+    \ person]], [[5. Mechanics/Spells/Fly.md|fly]],\
     \ [[5. Mechanics/Spells/Plane Shift.md|plane shift]], [[5. Mechanics/Spells/True Seeing.md|true seeing]]\n\
     \n3/day each: [[5. Mechanics/Spells/Charm Person.md|charm person]], [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
     \ [[5. Mechanics/Spells/Invisibility.md|invisibility]], [[5. Mechanics/Spells/Major Image.md|major image]],\
@@ -79,13 +79,12 @@ Like devils, rakshasas killed in the Nine Hells are forever destroyed.
 "actions":
 - "desc": "The rakshasa makes two claw attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d6 + 2|text(9) (2d6 + 2) slashing damage, and the target is\
-    \ cursed if it is a creature. The magical curse takes effect whenever the target\
-    \ takes a short or long rest, filling the target's thoughts with horrible images\
-    \ and dreams. The cursed target gains no benefit from finishing a short or long\
-    \ rest. The curse lasts until it is lifted by a [[5. Mechanics/Spells/Remove Curse.md|remove curse]]\
-    \ spell or similar magic."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (2d6\
+    \ + 2) slashing damage, and the target is cursed if it is a creature. The magical\
+    \ curse takes effect whenever the target takes a short or long rest, filling the\
+    \ target's thoughts with horrible images and dreams. The cursed target gains no\
+    \ benefit from finishing a short or long rest. The curse lasts until it is lifted\
+    \ by a [[5. Mechanics/Spells/Remove Curse.md|remove curse]] spell or similar magic."
   "name": "Claw"
 "source":
 - "MM"

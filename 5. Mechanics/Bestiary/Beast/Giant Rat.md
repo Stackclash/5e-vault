@@ -45,8 +45,8 @@ aliases:
     \ [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
   "name": "Pack Tactics"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d4 + 2|text(4) (1d4 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4\
+    \ + 2) piercing damage."
   "name": "Bite"
 "source":
 - "MM"

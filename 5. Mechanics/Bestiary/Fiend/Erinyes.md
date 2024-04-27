@@ -177,8 +177,8 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 "languages": "Infernal, telepathy 120 ft."
 "cr": "12"
 "traits":
-- "desc": "The erinyes's weapon attacks are magical and deal an extra dice:3d8|text(13)\
-    \ (3d8) poison damage on a hit (included in the attacks)."
+- "desc": "The erinyes's weapon attacks are magical and deal an extra 13 (3d8) poison\
+    \ damage on a hit (included in the attacks)."
   "name": "Hellish Weapons"
 - "desc": "The erinyes has advantage on saving throws against spells and other magical\
     \ effects."
@@ -186,16 +186,14 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 "actions":
 - "desc": "The erinyes makes three attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d8 + 4|text(8) (1d8 + 4) slashing damage, or dice:1d10 + 4|text(9)\
-    \ (1d10 + 4) slashing damage if used with two hands, plus dice:3d8|text(13)\
-    \ (3d8) poison damage."
+- "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 8 (1d8\
+    \ + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands,\
+    \ plus 13 (3d8) poison damage."
   "name": "Longsword"
-- "desc": "Ranged Weapon Attack: dice: d20+7 (+7) to hit, range 150/600 ft.,\
-    \ one target. Hit: dice:1d8 + 3|text(7) (1d8 + 3) piercing damage plus dice:3d8|text(13)\
-    \ (3d8) poison damage, and the target must succeed on a DC 14 Constitution saving\
-    \ throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]. The poison\
-    \ lasts until it is removed by the [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]]\
+- "desc": "Ranged Weapon Attack: +7 to hit, range 150/600 ft., one target. Hit:\
+    \ 7 (1d8 + 3) piercing damage plus 13 (3d8) poison damage, and the target must\
+    \ succeed on a DC 14 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]].\
+    \ The poison lasts until it is removed by the [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]]\
     \ spell or similar magic."
   "name": "Longbow"
 "reactions":

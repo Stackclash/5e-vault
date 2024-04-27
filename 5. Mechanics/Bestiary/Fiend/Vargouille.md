@@ -48,9 +48,8 @@ Vargouilles that roam free on the Material Plane are a dire threat to all creatu
   \ a vargouille but can't speak"
 "cr": "1"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d6 + 2|text(5) (1d6 + 2) piercing damage plus dice:3d6|text(10)\
-    \ (3d6) poison damage."
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+    \ + 2) piercing damage plus 10 (3d6) poison damage."
   "name": "Bite"
 - "desc": "The vargouille targets one [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
     \ Humanoid within 5 feet of it. The target must succeed on a DC 12 Charisma saving\

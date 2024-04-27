@@ -129,8 +129,8 @@ await dv.view("npcRelationships", { current: dv.current() })
 "languages": "any one language (usually Common)"
 "cr": "0"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d4 + 2|text(4) (1d4 + 2) bludgeoning damage."
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4\
+    \ + 2) bludgeoning damage."
   "name": "Shovel"
 "source":
 - "CoS"

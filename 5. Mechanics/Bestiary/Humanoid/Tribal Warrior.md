@@ -51,10 +51,9 @@ Tribal warriors live beyond civilization, most often subsisting on fishing and h
     \ [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
   "name": "Pack Tactics"
 "actions":
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice:1d6 + 1|text(4) (1d6 + 1) piercing\
-    \ damage, or dice:1d8 + 1|text(5) (1d8 + 1) piercing damage if used with two\
-    \ hands to make a melee attack."
+- "desc": "Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60\
+    \ ft., one target. Hit: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing\
+    \ damage if used with two hands to make a melee attack."
   "name": "Spear"
 "source":
 - "MM"

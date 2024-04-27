@@ -93,18 +93,17 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
 - "desc": "The clockwork doesn't require air, food, drink, or sleep."
   "name": "Unusual Nature"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d6 + 3|text(6) (1d6 + 3) piercing damage. If the target is\
-    \ a creature, it must succeed on a DC 13 Constitution saving throw or suffer one\
-    \ random effect (roll a dice: d6|avg|noform (d6)):\n\n- 1–2 Confusion.\
-    \ On its next turn, the target must use its action to make one weapon attack against\
-    \ a random creature it can see within 30 feet of it, using whatever weapon it\
-    \ has in hand and moving beforehand if necessary to get in range. If it's holding\
-    \ no weapon, it makes an unarmed strike. If no creature is visible within 30 feet,\
-    \ it takes the [[/5. Mechanics/Rules/Actions.md#Dash|Dash]] action, moving toward\
-    \ the nearest creature.  \n- 3–4 Paralysis. The target is [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
-    \ until the end of its next turn.  \n- 5–6 Poison. The target takes dice:3d8|text(13)\
-    \ (3d8) poison damage.  "
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6\
+    \ + 3) piercing damage. If the target is a creature, it must succeed on a DC 13\
+    \ Constitution saving throw or suffer one random effect (roll a d6):\n\n- 1–\
+    2 Confusion. On its next turn, the target must use its action to make one weapon\
+    \ attack against a random creature it can see within 30 feet of it, using whatever\
+    \ weapon it has in hand and moving beforehand if necessary to get in range. If\
+    \ it's holding no weapon, it makes an unarmed strike. If no creature is visible\
+    \ within 30 feet, it takes the [[/5. Mechanics/Rules/Actions.md#Dash|Dash]] action,\
+    \ moving toward the nearest creature.  \n- 3–4 Paralysis. The target is [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
+    \ until the end of its next turn.  \n- 5–6 Poison. The target takes 13 (3d8)\
+    \ poison damage.  "
   "name": "Bite"
 "source":
 - "MPMM"

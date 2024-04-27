@@ -58,27 +58,27 @@ An allip might attempt to share its lore to escape its curse and enter the after
 "cr": "5"
 "traits":
 - "desc": "The allip can move through other creatures and objects as if they were\
-    \ difficult terrain. It takes dice:1d10|text(5) (1d10) force damage if it\
-    \ ends its turn inside an object."
+    \ difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside\
+    \ an object."
   "name": "Incorporeal Movement"
 - "desc": "The allip doesn't require air, food, drink, or sleep."
   "name": "Unusual Nature"
 "actions":
-- "desc": "Melee Spell Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:4d6 + 3|text(17) (4d6 + 3) psychic damage."
+- "desc": "Melee Spell Attack: +6 to hit, reach 5 ft., one target. Hit: 17 (4d6\
+    \ + 3) psychic damage."
   "name": "Maddening Touch"
 - "desc": "Each creature within 30 feet of the allip that can hear it must make a\
-    \ DC 14 Wisdom saving throw. On a failed save, a target takes dice:2d8 + 3|text(12)\
-    \ (2d8 + 3) psychic damage, and it is [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
-    \ until the end of its next turn. On a successful save, it takes half as much\
-    \ damage and isn't [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]. Constructs\
-    \ and Undead are immune to this effect."
+    \ DC 14 Wisdom saving throw. On a failed save, a target takes 12 (2d8 + 3) psychic\
+    \ damage, and it is [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]] until the\
+    \ end of its next turn. On a successful save, it takes half as much damage and\
+    \ isn't [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]. Constructs and Undead\
+    \ are immune to this effect."
   "name": "Howling Babble (Recharge 6)"
 - "desc": "The allip chooses up to three creatures it can see within 60 feet of it.\
-    \ Each target must succeed on a DC 14 Wisdom saving throw, or it takes dice:2d8\
-    \ + 3|text(12) (2d8 + 3) psychic damage and must use its reaction to make a\
-    \ melee weapon attack against one creature of the allip's choice that the allip\
-    \ can see. Constructs and Undead are immune to this effect."
+    \ Each target must succeed on a DC 14 Wisdom saving throw, or it takes 12 (2d8\
+    \ + 3) psychic damage and must use its reaction to make a melee weapon attack\
+    \ against one creature of the allip's choice that the allip can see. Constructs\
+    \ and Undead are immune to this effect."
   "name": "Whispers of Compulsion"
 "source":
 - "MPMM"

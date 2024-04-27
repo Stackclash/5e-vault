@@ -34,8 +34,8 @@ aliases:
 "languages": ""
 "cr": "1/4"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d4 + 4|text(9) (2d4 + 4) bludgeoning damage."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d4\
+    \ + 4) bludgeoning damage."
   "name": "Hooves"
 "source":
 - "MM"

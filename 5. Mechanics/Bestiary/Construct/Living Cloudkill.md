@@ -80,18 +80,17 @@ For example, if you turn [[5. Mechanics/Spells/Fireball.md|fireball]] (a 3rd-lev
 "actions":
 - "desc": "The living spell makes two Magical Strike attacks."
   "name": "Multiattack"
-- "desc": "Melee Spell Attack: dice: d20+8 (+8) to hit, reach 10 ft., one target.\
-    \ Hit: dice:5d6 + 5|text(22) (5d6 + 5) poison damage."
+- "desc": "Melee Spell Attack: +8 to hit, reach 10 ft., one target. Hit: 22 (5d6\
+    \ + 5) poison damage."
   "name": "Magical Strike"
 - "desc": "The living spell creates a 40-foot-diameter sphere of fog within 60 feet\
     \ of it (the fog spreads around corners). When a creature enters the fog for the\
     \ first time on a turn or starts its turn there, it must make a DC 16 Constitution\
-    \ saving throw, taking dice:5d8|text(22) (5d8) poison damage on a failed save,\
-    \ or half as much damage on a successful one.\n\nThe fog moves 10 feet away from\
-    \ the living spell at the start of each of its turns, rolling along the ground\
-    \ and through openings. The fog lasts for 10 minutes or until the living spell's\
-    \ [[/5. Mechanics/Rules/Conditions.md#concentration|concentration]] ends (as if concentrating\
-    \ on a spell)."
+    \ saving throw, taking 22 (5d8) poison damage on a failed save, or half as much\
+    \ damage on a successful one.\n\nThe fog moves 10 feet away from the living spell\
+    \ at the start of each of its turns, rolling along the ground and through openings.\
+    \ The fog lasts for 10 minutes or until the living spell's [[/5. Mechanics/Rules/Conditions.md#concentration|concentration]]\
+    \ ends (as if concentrating on a spell)."
   "name": "Spell Mimicry (Recharge 5-6)"
 "source":
 - "ERLW"

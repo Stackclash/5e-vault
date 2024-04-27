@@ -54,10 +54,9 @@ Piercers gather in colonies to maximize the effectiveness of their attacks, drop
     \ without needing to make an ability check."
   "name": "Spider Climb"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, one creature directly\
-    \ underneath the piercer. Hit: dice:1d6|text(3) (1d6) piercing damage per\
-    \ 10 feet fallen, up to dice:6d6|text(21) (6d6). Miss: The piercer takes half\
-    \ the normal falling damage for the distance fallen."
+- "desc": "Melee Weapon Attack: +3 to hit, one creature directly underneath the\
+    \ piercer. Hit: 3 (1d6) piercing damage per 10 feet fallen, up to 21 (6d6).\
+    \ Miss: The piercer takes half the normal falling damage for the distance fallen."
   "name": "Drop"
 "source":
 - "MM"

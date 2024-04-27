@@ -100,8 +100,8 @@ If the demilich drops to 0 hit points, it is destroyed and turns to powder, leav
   "name": "Howl (Recharge 5-6)"
 - "desc": "The demilich targets up to three creatures that it can see within 10 feet\
     \ of it. Each target must succeed on a DC 19 Constitution saving throw or take\
-    \ dice:6d6|text(21) (6d6) necrotic damage, and the demilich regains hit points\
-    \ equal to the total damage dealt to all targets."
+    \ 21 (6d6) necrotic damage, and the demilich regains hit points equal to the total\
+    \ damage dealt to all targets."
   "name": "Life Drain"
 "legendary_actions":
 - "desc": "The demilich flies up to half its flying speed."
@@ -114,10 +114,10 @@ If the demilich drops to 0 hit points, it is destroyed and turns to powder, leav
   "name": "Cloud of Dust"
 - "desc": "Each creature with in 30 feet of the demilich must make a DC 15 Constitution\
     \ saving throw. On a failed save, the creature's hit point maximum is magically\
-    \ reduced by dice:3d6|text(10) (3d6). If a creature's hit point maximum is\
-    \ reduced to 0 by this effect, the creature dies. A creature's hit point maximum\
-    \ can be restored with the  [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
-    \ spell or similar magic."
+    \ reduced by 10 (3d6). If a creature's hit point maximum is reduced to 0 by this\
+    \ effect, the creature dies. A creature's hit point maximum can be restored with\
+    \ the  [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]] spell or\
+    \ similar magic."
   "name": "Energy Drain (Costs 2 Actions)"
 - "desc": "The demilich targets one creature it can see within 30 feet of it. The\
     \ target must succeed on a DC 15 Wisdom saving throw or be magically cursed. Until\
@@ -126,10 +126,9 @@ If the demilich drops to 0 hit points, it is destroyed and turns to powder, leav
     \ the curse on a success."
   "name": "Vile Curse (Costs 3 Actions)"
 "lair_actions":
-- "desc": "On initiative count 20 (losing initiative ties), the demilich rolls a dice:\
-    \ d20|avg|noform (d20). On a result of 11 or higher, the demilich takes a lair\
-    \ action to cause one of the following effects. It can't use the same effect two\
-    \ rounds in a row."
+- "desc": "On initiative count 20 (losing initiative ties), the demilich rolls a d20.\
+    \ On a result of 11 or higher, the demilich takes a lair action to cause one of\
+    \ the following effects. It can't use the same effect two rounds in a row."
   "name": ""
 - "desc": "- The tomb trembles violently for a moment. Each creature on the floor\
     \ of the tomb must succeed on a DC 19 Dexterity saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
@@ -143,8 +142,8 @@ If the demilich drops to 0 hit points, it is destroyed and turns to powder, leav
 - "desc": "A demilich's tomb might have any or all of the following effects in place:"
   "name": ""
 - "desc": "- The first time a non-evil creature enters the tomb's area, the creature\
-    \ takes dice:3d10|text(16) (3d10) necrotic damage.  \n- Monsters in the tomb\
-    \ have advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
+    \ takes 16 (3d10) necrotic damage.  \n- Monsters in the tomb have advantage on\
+    \ saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
     \ or [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], and against features\
     \ that turn undead.  \n- The tomb is warded against the magical travel of creatures\
     \ the demilich hasn't authorized. Such creatures can't teleport into or out of\

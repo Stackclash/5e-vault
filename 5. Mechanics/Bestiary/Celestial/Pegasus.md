@@ -61,8 +61,8 @@ Pegasi mate for life, build their nests in hard-to-reach locations, and give bir
 "languages": "understands Celestial, Common, Elvish, and Sylvan but can't speak"
 "cr": "2"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) bludgeoning damage."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6\
+    \ + 4) bludgeoning damage."
   "name": "Hooves"
 "source":
 - "MM"

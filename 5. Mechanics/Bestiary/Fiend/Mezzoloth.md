@@ -109,13 +109,12 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 "actions":
 - "desc": "The mezzoloth makes two attacks: one with its claws and one with its trident."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d4 + 4|text(9) (2d4 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (2d4\
+    \ + 4) slashing damage."
   "name": "Claws"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice:1d6 + 4|text(7) (1d6 + 4) piercing\
-    \ damage, or dice:1d8 + 4|text(8) (1d8 + 4) piercing damage when held with\
-    \ two claws and used to make a melee attack."
+- "desc": "Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60\
+    \ ft., one target. Hit: 7 (1d6 + 4) piercing damage, or 8 (1d8 + 4) piercing\
+    \ damage when held with two claws and used to make a melee attack."
   "name": "Trident"
 - "desc": "The mezzoloth magically teleports, along with any equipment it is wearing\
     \ or carrying, up to 60 feet to an unoccupied space it can see."

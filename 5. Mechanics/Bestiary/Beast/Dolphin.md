@@ -47,10 +47,10 @@ Dolphins are clever, social marine mammals that feed on small fish and squid. An
 - "desc": "The dolphin can hold its breath for 20 minutes."
   "name": "Hold Breath"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d6 + 2|text(5) (1d6 + 2) bludgeoning damage. If the dolphin\
-    \ moved at least 30 feet straight toward the target immediately before the hit,\
-    \ the target takes an extra dice:1d6|text(3) (1d6) bludgeoning damage."
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+    \ + 2) bludgeoning damage. If the dolphin moved at least 30 feet straight toward\
+    \ the target immediately before the hit, the target takes an extra 3 (1d6) bludgeoning\
+    \ damage."
   "name": "Slam"
 "source":
 - "MPMM"

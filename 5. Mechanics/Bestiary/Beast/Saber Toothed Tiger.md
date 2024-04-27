@@ -48,11 +48,11 @@ aliases:
     \ make one bite attack against it as a bonus action."
   "name": "Pounce"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d10 + 5|text(10) (1d10 + 5) piercing damage."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (1d10\
+    \ + 5) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d6 + 5|text(12) (2d6 + 5) slashing damage."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12 (2d6\
+    \ + 5) slashing damage."
   "name": "Claw"
 "source":
 - "MM"

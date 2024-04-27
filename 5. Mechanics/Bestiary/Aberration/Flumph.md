@@ -71,18 +71,18 @@ Flumphs live in complex and organized groups called cloisters, within which each
     \ its thoughts, as well as all divination spells."
   "name": "Telepathic Shroud"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one creature.\
-    \ Hit: dice:1d4 + 2|text(4) (1d4 + 2) piercing damage plus dice:1d4|text(2)\
-    \ (1d4) acid damage. At the end of each of its turns, the target must make a\
-    \ DC 10 Constitution saving throw, taking dice:1d4|text(2) (1d4) acid damage\
-    \ on a failure or ending the recurring acid damage on a success. A [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]]\
-    \ spell cast on the target also ends the recurring acid damage."
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 4 (1d4\
+    \ + 2) piercing damage plus 2 (1d4) acid damage. At the end of each of its turns,\
+    \ the target must make a DC 10 Constitution saving throw, taking 2 (1d4) acid\
+    \ damage on a failure or ending the recurring acid damage on a success. A [[5. Mechanics/Spells/Lesser Restoration.md|lesser\
+    \ restoration]] spell cast on the target\
+    \ also ends the recurring acid damage."
   "name": "Tendrils"
 - "desc": "Each creature in a 15-foot cone originating from the flumph must succeed\
     \ on a DC 10 Dexterity saving throw or be coated in a foul-smelling liquid. A\
-    \ coated creature exudes a horrible stench for dice: 1d4|avg|noform (1d4)\
-    \ hours. The coated creature is [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
-    \ as long as the stench lasts, and other creatures are [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ coated creature exudes a horrible stench for 1d4 hours. The coated creature\
+    \ is [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] as long as the stench\
+    \ lasts, and other creatures are [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
     \ while with in 5 feet of the coated creature. A creature can remove the stench\
     \ on itself by using a short rest to bathe in water, alcohol, or vinegar."
   "name": "Stench Spray (1/Day)"

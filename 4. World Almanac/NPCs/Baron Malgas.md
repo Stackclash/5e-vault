@@ -160,12 +160,11 @@ await dv.view("npcRelationships", { current: dv.current() })
 - "desc": "Baron Malgas makes three attacks with his flail. He can use Melt Flesh\
     \ in place of one flail attack."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, range 5 ft., one target.\
-    \ Hit: dice:1d8 + 3|text(7) (1d8 + 3) bludgeoning damage."
+- "desc": "Melee Weapon Attack: +6 to hit, range 5 ft., one target. Hit: 7 (1d8\
+    \ + 3) bludgeoning damage."
   "name": "Flail"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft.\
-    \ or range 30/120 ft., one target. Hit: dice:2d8 + 3|text(12) (2d8 + 3)\
-    \ piercing damage."
+- "desc": "Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 30/120\
+    \ ft., one target. Hit: 12 (2d8 + 3) piercing damage."
   "name": "Javelin"
 - "desc": "Baron Malgas chooses a target he can see within 30 feet. The target must\
     \ succeed on a DC 13 Wisdom saving throw or watch as their dominant hand melts\

@@ -174,8 +174,8 @@ await dv.view("npcRelationships", { current: dv.current() })
 "cr": "11"
 "traits":
 - "desc": "Baba Lysaga is a 16th-level spellcaster. Her spellcasting ability is Intelligence\
-    \ (spell save DC 17, dice: d20+9 (+9) to hit with spell attacks). Baba Lysaga\
-    \ has the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Acid Splash.md|acid splash]],\
+    \ (spell save DC 17, +9 to hit with spell attacks). Baba Lysaga has the following\
+    \ wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Acid Splash.md|acid splash]],\
     \ [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]], [[5. Mechanics/Spells/Light.md|light]],\
     \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\
     \n1st level (4 slots): [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
@@ -204,14 +204,13 @@ await dv.view("npcRelationships", { current: dv.current() })
 "actions":
 - "desc": "Baba Lysaga makes three attacks with her quarterstaff."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d6 + 4|text(7) (1d6 + 4) bludgeoning damage, or dice:1d8 +\
-    \ 4|text(8) (1d8 + 4) bludgeoning damage if wielded with two hands."
+- "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 7 (1d6\
+    \ + 4) bludgeoning damage, or 8 (1d8 + 4) bludgeoning damage if wielded with two\
+    \ hands."
   "name": "Quarterstaff"
-- "desc": "Baba Lysaga summons dice: 1d4|avg|noform (1d4) swarms of insects. A\
-    \ summoned swarm appears in an unoccupied space within 60 feet of Baba Lysaga\
-    \ and acts as her ally. It remains until it dies or until Baba Lysaga dismisses\
-    \ it as an action."
+- "desc": "Baba Lysaga summons 1d4 swarms of insects. A summoned swarm appears in\
+    \ an unoccupied space within 60 feet of Baba Lysaga and acts as her ally. It remains\
+    \ until it dies or until Baba Lysaga dismisses it as an action."
   "name": "Summon Swarms of Insects (Recharges after a Short or Long Rest)"
 "source":
 - "CoS"

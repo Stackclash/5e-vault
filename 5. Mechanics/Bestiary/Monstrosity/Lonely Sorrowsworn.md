@@ -47,8 +47,8 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
 "cr": "9"
 "traits":
 - "desc": "At the start of each of the sorrowsworn's turns, each creature within 5\
-    \ feet of it must succeed on a DC 15 Wisdom saving throw or take dice:3d6|text(10)\
-    \ (3d6) psychic damage."
+    \ feet of it must succeed on a DC 15 Wisdom saving throw or take 10 (3d6) psychic\
+    \ damage."
   "name": "Psychic Leech"
 - "desc": "The sorrowsworn has advantage on attack rolls while it is within 30 feet\
     \ of at least two other creatures. It otherwise has disadvantage on attack rolls."
@@ -56,17 +56,16 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
 "actions":
 - "desc": "The sorrowsworn makes one Harpoon Arm attack, and it uses Sorrowful Embrace."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 60 ft., one target.\
-    \ Hit: dice:4d8 + 3|text(21) (4d8 + 3) piercing damage, and the target is\
-    \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 15) if it is\
-    \ a Large or smaller creature. The sorrowsworn has two harpoon arms and can grapple\
-    \ up to two creatures at once."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 60 ft., one target. Hit: 21 (4d8\
+    \ + 3) piercing damage, and the target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ (escape DC 15) if it is a Large or smaller creature. The sorrowsworn has two\
+    \ harpoon arms and can grapple up to two creatures at once."
   "name": "Harpoon Arm"
 - "desc": "Each creature [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] by the\
-    \ sorrowsworn must make a DC 15 Wisdom saving throw, taking dice:4d8|text(18)\
-    \ (4d8) psychic damage on a failed save, or half as much damage on a successful\
-    \ one. In either case, the sorrowsworn pulls each of those creatures up to 30\
-    \ feet straight toward it."
+    \ sorrowsworn must make a DC 15 Wisdom saving throw, taking 18 (4d8) psychic damage\
+    \ on a failed save, or half as much damage on a successful one. In either case,\
+    \ the sorrowsworn pulls each of those creatures up to 30 feet straight toward\
+    \ it."
   "name": "Sorrowful Embrace"
 "source":
 - "MPMM"

@@ -66,13 +66,12 @@ An animated object doesn't require air, food, drink, or sleep. The magic that an
     \ rug."
   "name": "False Appearance"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one Medium\
-    \ or smaller creature. Hit: The creature is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one Medium or smaller creature.\
+    \ Hit: The creature is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ (escape DC 13). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
     \ [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], and at risk of suffocating,\
     \ and the rug can't smother another target. In addition, at the start of each\
-    \ of the target's turns, the target takes dice:2d6 + 3|text(10) (2d6 + 3)\
-    \ bludgeoning damage."
+    \ of the target's turns, the target takes 10 (2d6 + 3) bludgeoning damage."
   "name": "Smother"
 "source":
 - "MM"

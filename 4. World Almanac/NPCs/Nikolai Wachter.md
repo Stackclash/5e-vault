@@ -135,8 +135,8 @@ await dv.view("npcRelationships", { current: dv.current() })
 "languages": "any two languages"
 "cr": "1/8"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d8 + 1|text(5) (1d8 + 1) piercing damage."
+- "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8\
+    \ + 1) piercing damage."
   "name": "Rapier"
 "reactions":
 - "desc": "Nikolai adds 2 to its AC against one melee attack that would hit it. To\

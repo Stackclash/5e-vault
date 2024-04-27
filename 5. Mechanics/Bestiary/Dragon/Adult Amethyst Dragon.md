@@ -56,26 +56,24 @@ When encountered, they are often conciliatory, deferent. They want to put you at
 "cr": "16"
 "traits":
 - "desc": ". . [[/5. Mechanics/Rules/Variant Rules/Gemstone Dragon Psionics.md|Gemstone Dragon Psionics]].\
-    \ Charges: 18 • Recharge: dice: 1d8|avg|noform (1d8) • Fracture:\
-    \ 21"
+    \ Charges: 18 • Recharge: 1d8 • Fracture: 21"
   "name": ""
 - "desc": "If the dragon fails a saving throw, it can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
 - "desc": "Each time the dragon takes damage, all creatures within 30 feet must succeed\
-    \ on a DC 18 Intelligence saving throw or else take dice:3d6|text(10) (3d6)\
-    \ psychic damage."
+    \ on a DC 18 Intelligence saving throw or else take 10 (3d6) psychic damage."
   "name": "Feedback Aura"
 "actions":
 - "desc": "The dragon makes three attacks: one with its bite and two with its claws."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+10 (+10) to hit, reach 10 ft., one\
-    \ target. Hit: dice:2d10 + 5|text(16) (2d10 + 5) piercing damage."
+- "desc": "Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 16\
+    \ (2d10 + 5) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+10 (+10) to hit, reach 5 ft., one\
-    \ target. Hit: dice:2d6 + 5|text(12) (2d6 + 5) slashing damage."
+- "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 12 (2d6\
+    \ + 5) slashing damage."
   "name": "Claw"
-- "desc": "Melee Weapon Attack: dice: d20+10 (+10) to hit; reach 15 ft., one\
-    \ target. Hit: dice:2d8 + 5|text(14) (2d8 + 5) bludgeoning damage."
+- "desc": "Melee Weapon Attack: +10 to hit; reach 15 ft., one target. Hit: 14\
+    \ (2d8 + 5) bludgeoning damage."
   "name": "Tail"
 "legendary_actions":
 - "desc": "The dragon makes a Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
@@ -84,8 +82,8 @@ When encountered, they are often conciliatory, deferent. They want to put you at
 - "desc": "The dragon uses a [[5. Mechanics/Optional Features/List Psionic Manifestation.md|psionic ability]]."
   "name": "Psionics"
 - "desc": "The dragon releases a wave of telekinetic energy from its mind. Every creature\
-    \ within 15 feet must make a DC 24 Intelligence saving throw or take dice:2d6\
-    \ + 5|text(12) (2d6 + 5) force damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
+    \ within 15 feet must make a DC 24 Intelligence saving throw or take 12 (2d6 +\
+    \ 5) force damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
     \ The dragon then can move up to half its movement speed."
   "name": "Psionic Shift (Costs 2 Actions)"
 "source":

@@ -41,8 +41,8 @@ aliases:
     \ slashing or piercing damage based on its form."
   "name": "Animated"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d12 + 4|text(16) (2d12 + 4) bludgeoning damage."
+- "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 16 (2d12\
+    \ + 4) bludgeoning damage."
   "name": "Slam"
 "source":
 - "PHB"

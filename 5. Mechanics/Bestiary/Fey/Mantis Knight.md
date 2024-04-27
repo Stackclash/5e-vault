@@ -73,8 +73,8 @@ Otherwise, they enjoy dancing around the battlefield, laying into enemies with t
 - "desc": "The knight makes four attacks with its rapiers, or makes two attacks and\
     \ casts heroism or shield of faith on an ally."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d8 + 4|text(8) (1d8 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8\
+    \ + 4) piercing damage."
   "name": "Rapier"
 "source":
 - "SaF"

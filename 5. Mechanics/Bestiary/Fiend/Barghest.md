@@ -78,11 +78,11 @@ Any conflagration larger than its body acts as a gateway to Gehenna and banishes
 "actions":
 - "desc": "The barghest makes one Bite attack and one Claw attack."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d8 + 4|text(13) (2d8 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8\
+    \ + 4) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d8 + 4|text(8) (1d8 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8\
+    \ + 4) slashing damage."
   "name": "Claw"
 "bonus_actions":
 - "desc": "The barghest transforms into a Small goblin or back into its true form.\

@@ -51,15 +51,14 @@ Darkmantles are found throughout the Underdark, but they are equally common on t
     \ cave formation such as a stalactite or stalagmite."
   "name": "False Appearance"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one creature.\
-    \ Hit: dice:1d6 + 3|text(6) (1d6 + 3) bludgeoning damage, and the darkmantle\
-    \ attaches to the target. If the target is Medium or smaller and the darkmantle\
-    \ has advantage on the attack roll, it attaches by engulfing the target's head,\
-    \ and the target is also [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] and\
-    \ unable to breathe while the darkmantle is attached in this way.\n\nWhile attached\
-    \ to the target, the darkmantle can attack no other creature except the target\
-    \ but has advantage on its attack rolls. The darkmantle's speed also becomes 0,\
-    \ it can't benefit from any bonus to its speed, and it moves with the target.\n\
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 6 (1d6\
+    \ + 3) bludgeoning damage, and the darkmantle attaches to the target. If the target\
+    \ is Medium or smaller and the darkmantle has advantage on the attack roll, it\
+    \ attaches by engulfing the target's head, and the target is also [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]\
+    \ and unable to breathe while the darkmantle is attached in this way.\n\nWhile\
+    \ attached to the target, the darkmantle can attack no other creature except the\
+    \ target but has advantage on its attack rolls. The darkmantle's speed also becomes\
+    \ 0, it can't benefit from any bonus to its speed, and it moves with the target.\n\
     \nA creature can detach the darkmantle by making a successful DC 13 Strength check\
     \ as an action. On its turn, the darkmantle can detach itself from the target\
     \ by using 5 feet of movement."

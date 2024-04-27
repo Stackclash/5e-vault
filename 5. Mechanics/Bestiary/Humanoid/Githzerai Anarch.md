@@ -71,9 +71,8 @@ Githzerai are otherworldly folk with psionic powers who share an ancestral link 
 "actions":
 - "desc": "The githzerai makes three Unarmed Strike attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+10 (+10) to hit, reach 5 ft., one\
-    \ target. Hit: dice:1d8 + 5|text(9) (1d8 + 5) bludgeoning damage plus dice:4d8|text(18)\
-    \ (4d8) psychic damage."
+- "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 9 (1d8\
+    \ + 5) bludgeoning damage plus 18 (4d8) psychic damage."
   "name": "Unarmed Strike"
 "legendary_actions":
 - "desc": "The githzerai makes one Unarmed Strike attack."
@@ -117,10 +116,9 @@ Githzerai are otherworldly folk with psionic powers who share an ancestral link 
     \ for as long as the anarch remains within 1 mile of it (no action required).\
     \  "
   "name": ""
-- "desc": "If the anarch dies, these effects end after dice: 1d6|avg|noform (1d6)\
-    \ rounds. All formed substance becomes a chaotic churn of energy and matter, unraveling\
-    \ into unformed substance that dissipates dice: 1d6|avg|noform (1d6) rounds\
-    \ later."
+- "desc": "If the anarch dies, these effects end after 1d6 rounds. All formed substance\
+    \ becomes a chaotic churn of energy and matter, unraveling into unformed substance\
+    \ that dissipates 1d6 rounds later."
   "name": ""
 "source":
 - "MPMM"

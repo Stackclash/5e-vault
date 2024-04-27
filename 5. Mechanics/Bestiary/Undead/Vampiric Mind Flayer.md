@@ -62,20 +62,18 @@ Vampiric mind flayers are physically and mentally unstable beings. Ghoulish crea
 - "desc": "The mind flayer makes two Claw attacks or one Claw attack and one Tentacles\
     \ attack."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d8 + 4|text(8) (1d8 + 4) slashing damage plus dice:3d6|text(10)\
-    \ (3d6) necrotic damage."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8\
+    \ + 4) slashing damage plus 10 (3d6) necrotic damage."
   "name": "Claw"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one creature.\
-    \ Hit: dice:1d6 + 4|text(7) (1d6 + 4) piercing damage, and if the target\
-    \ is a creature, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape\
-    \ DC 15)."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 7 (1d6\
+    \ + 4) piercing damage, and if the target is a creature, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ (escape DC 15)."
   "name": "Tentacles"
 - "desc": "The mind flayer targets one creature it is grappling. The target must succeed\
-    \ on a DC 15 Wisdom saving throw or take dice:4d6|text(14) (4d6) psychic damage\
-    \ and gain 1 level of [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]].\
-    \ The mind flayer regains a number of hit points equal to the psychic damage dealt.\
-    \ A creature reduced to 0 hit points by the psychic damage dies."
+    \ on a DC 15 Wisdom saving throw or take 14 (4d6) psychic damage and gain 1 level\
+    \ of [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]]. The mind flayer\
+    \ regains a number of hit points equal to the psychic damage dealt. A creature\
+    \ reduced to 0 hit points by the psychic damage dies."
   "name": "Drink Sapience"
 "bonus_actions":
 - "desc": "The mind flayer magically emits psionic energy in a 30-foot-radius sphere\

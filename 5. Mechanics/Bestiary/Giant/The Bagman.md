@@ -64,11 +64,11 @@ Any character might know the story of the Bagman. What the Bagman is and how you
 "actions":
 - "desc": "The Bagman makes three attacks: one with its bite and two with its claws."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d6 + 4|text(7) (1d6 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6\
+    \ + 4) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6\
+    \ + 4) slashing damage."
   "name": "Claw"
 "source":
 - "VRGR"

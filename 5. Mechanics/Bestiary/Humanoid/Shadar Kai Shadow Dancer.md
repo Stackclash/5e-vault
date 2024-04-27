@@ -70,14 +70,13 @@ Shadar-kai encountered outside the Shadowfell are often on quests to find the mo
 - "desc": "The shadar-kai makes three Spiked Chain attacks.\n\nIt can use Shadow Jump\
     \ after one of these attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 10 ft., one target.\
-    \ Hit: dice:2d6 + 3|text(10) (2d6 + 3) piercing damage. The target must\
-    \ succeed on a DC 14 Dexterity saving throw or suffer one of the following effects\
-    \ (choose one or roll a dice: d6|avg|noform (d6)):\n\n- 1–2 Decay. The\
-    \ target takes dice:4d10|text(22) (4d10) necrotic damage.  \n- 3–4 Grapple.\
-    \ The target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC\
-    \ 14) if it is a Medium or smaller creature. Until the grapple ends, the target\
-    \ is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]], and the shadar-kai\
+- "desc": "Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 10 (2d6\
+    \ + 3) piercing damage. The target must succeed on a DC 14 Dexterity saving throw\
+    \ or suffer one of the following effects (choose one or roll a d6):\n\n- 1–\
+    2 Decay. The target takes 22 (4d10) necrotic damage.  \n- 3–4 Grapple. The\
+    \ target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 14)\
+    \ if it is a Medium or smaller creature. Until the grapple ends, the target is\
+    \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]], and the shadar-kai\
     \ can't grapple another target.  \n- 5–6 Topple. The target is knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
     \  "
   "name": "Spiked Chain"

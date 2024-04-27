@@ -146,15 +146,14 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "desc": "The dragon can use its Frightful Presence. It then makes three attacks:\
     \ one with its bite and two with its claws."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+11 (+11) to hit, reach 10 ft., one\
-    \ target. Hit: dice:2d10 + 6|text(17) (2d10 + 6) piercing damage plus dice:2d6|text(7)\
-    \ (2d6) poison damage."
+- "desc": "Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 17\
+    \ (2d10 + 6) piercing damage plus 7 (2d6) poison damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+11 (+11) to hit, reach 5 ft., one\
-    \ target. Hit: dice:2d6 + 6|text(13) (2d6 + 6) slashing damage."
+- "desc": "Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 13 (2d6\
+    \ + 6) slashing damage."
   "name": "Claw"
-- "desc": "Melee Weapon Attack: dice: d20+11 (+11) to hit, reach 15 ft., one\
-    \ target. Hit: dice:2d8 + 6|text(15) (2d8 + 6) bludgeoning damage."
+- "desc": "Melee Weapon Attack: +11 to hit, reach 15 ft., one target. Hit: 15\
+    \ (2d8 + 6) bludgeoning damage."
   "name": "Tail"
 - "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
     \ and aware of it must succeed on a DC 16 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
@@ -164,9 +163,8 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ Frightful Presence for the next 24 hours."
   "name": "Frightful Presence"
 - "desc": "The dragon exhales poisonous gas in a 60-foot cone. Each creature in that\
-    \ area must make a DC 18 Constitution saving throw, taking dice:16d6|text(56)\
-    \ (16d6) poison damage on a failed save, or half as much damage on a successful\
-    \ one."
+    \ area must make a DC 18 Constitution saving throw, taking 56 (16d6) poison damage\
+    \ on a failed save, or half as much damage on a successful one."
   "name": "Poison Breath (Recharge 5-6)"
 "legendary_actions":
 - "desc": "The dragon makes a Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
@@ -175,9 +173,9 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "desc": "The dragon makes a tail attack."
   "name": "Tail Attack"
 - "desc": "The dragon beats its wings. Each creature within 10 feet of the dragon\
-    \ must succeed on a DC 19 Dexterity saving throw or take dice:2d6 + 6|text(13)\
-    \ (2d6 + 6) bludgeoning damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
-    \ The dragon can then fly up to half its flying speed."
+    \ must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning\
+    \ damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]. The dragon\
+    \ can then fly up to half its flying speed."
   "name": "Wing Attack (Costs 2 Actions)"
 "lair_actions":
 - "desc": "On initiative count 20 (losing initiative ties), the dragon takes a lair\
@@ -195,19 +193,18 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ surface within 120 feet of the dragon. The wall is up to 60 feet long, 10 feet\
     \ high, and 5 feet thick, and it blocks line of sight. When the wall appears,\
     \ each creature in its area must make a DC 15 Dexterity saving throw. A creature\
-    \ that fails the save takes dice:4d8|text(18) (4d8) piercing damage and is\
-    \ pushed 5 feet out of the wall's space, appearing on whichever side of the wall\
-    \ it wants. A creature can move through the wall, albeit slowly and painfully.\
-    \ For every 1 foot a creature travels through the wall, it must spend 4 feet of\
-    \ movement. Furthermore, a creature in the wall's space must make a DC 15 Dexterity\
-    \ saving throw once each round it's in contact with the wall, taking dice:4d8|text(18)\
-    \ (4d8) piercing damage on a failed save, or half as much damage on a successful\
-    \ one. Each 10-foot section of wall has AC 5, 15 hit points, vulnerability to\
-    \ fire damage, resistance to bludgeoning and piercing damage, and immunity to\
-    \ psychic damage. The wall sinks back into the ground when the dragon uses this\
-    \ lair action again or when the dragon dies.  \n- Magical fog billows around one\
-    \ creature the dragon can see within 120 feet of it. The creature must succeed\
-    \ on a DC 15 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
+    \ that fails the save takes 18 (4d8) piercing damage and is pushed 5 feet out\
+    \ of the wall's space, appearing on whichever side of the wall it wants. A creature\
+    \ can move through the wall, albeit slowly and painfully. For every 1 foot a creature\
+    \ travels through the wall, it must spend 4 feet of movement. Furthermore, a creature\
+    \ in the wall's space must make a DC 15 Dexterity saving throw once each round\
+    \ it's in contact with the wall, taking 18 (4d8) piercing damage on a failed save,\
+    \ or half as much damage on a successful one. Each 10-foot section of wall has\
+    \ AC 5, 15 hit points, vulnerability to fire damage, resistance to bludgeoning\
+    \ and piercing damage, and immunity to psychic damage. The wall sinks back into\
+    \ the ground when the dragon uses this lair action again or when the dragon dies.\
+    \  \n- Magical fog billows around one creature the dragon can see within 120 feet\
+    \ of it. The creature must succeed on a DC 15 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
     \ by the dragon until initiative count 20 on the next round.  "
   "name": ""
 - "desc": "At your discretion, a legendary ([[5. Mechanics/Bestiary/Dragon/Adult Green Dragon.md|adult]]\
@@ -219,9 +216,9 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ to an inanimate corpse after 1 minute, when the dragon uses this lair action\
     \ again, or when the zombie is destroyed.  \n- Lashing Root. One large root\
     \ or branch that is part of the lair makes a melee attack roll against a creature\
-    \ within 10 feet of it. It has a +7 bonus to hit and deals dice:3d6|text(10)\
-    \ (3d6) bludgeoning damage on a hit. If the target is a Medium or smaller creature,\
-    \ it must succeed on a DC 15 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
+    \ within 10 feet of it. It has a +7 bonus to hit and deals 10 (3d6) bludgeoning\
+    \ damage on a hit. If the target is a Medium or smaller creature, it must succeed\
+    \ on a DC 15 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
     \  "
   "name": "Additional Lair Actions"
 "regional_effects":
@@ -233,21 +230,21 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ Creatures can move through the thickets, with every 1 foot a creature moves\
     \ costing it 4 feet of movement. A creature in the thickets must make a DC 15\
     \ Dexterity saving throw once each round it's in contact with the thickets or\
-    \ take dice:1d6|text(3) (1d6) piercing damage from thorns.  \n\n    Each 10-foot-cube\
-    \ of thickets has AC 5, 30 hit points, resistance to bludgeoning and piercing\
-    \ damage, vulnerability to fire damage, and immunity to psychic and thunder damage.\
-    \  \n- Within 1 mile of its lair, the dragon leaves no physical evidence of its\
-    \ passage unless it wishes to. Tracking it there is impossible except by magical\
-    \ means. In addition, it ignores movement impediments and damage from plants in\
-    \ this area that are neither magical nor creatures, including the thickets described\
-    \ above. The plants remove themselves from the dragon's path.  \n- Rodents and\
-    \ birds within 1 mile of the dragon's lair serve as the dragon's eyes and ears.\
-    \ Deer and other large game are strangely absent, hinting at the presence of an\
-    \ unnaturally hungry predator.  "
+    \ take 3 (1d6) piercing damage from thorns.  \n\n    Each 10-foot-cube of thickets\
+    \ has AC 5, 30 hit points, resistance to bludgeoning and piercing damage, vulnerability\
+    \ to fire damage, and immunity to psychic and thunder damage.  \n- Within 1 mile\
+    \ of its lair, the dragon leaves no physical evidence of its passage unless it\
+    \ wishes to. Tracking it there is impossible except by magical means. In addition,\
+    \ it ignores movement impediments and damage from plants in this area that are\
+    \ neither magical nor creatures, including the thickets described above. The plants\
+    \ remove themselves from the dragon's path.  \n- Rodents and birds within 1 mile\
+    \ of the dragon's lair serve as the dragon's eyes and ears. Deer and other large\
+    \ game are strangely absent, hinting at the presence of an unnaturally hungry\
+    \ predator.  "
   "name": ""
 - "desc": "If the dragon dies, the rodents and birds lose their supernatural link\
-    \ to it. The thickets remain, but within dice: 1d10|avg|noform (1d10) days,\
-    \ they become mundane plants and normal difficult terrain, losing their thorns."
+    \ to it. The thickets remain, but within 1d10 days, they become mundane plants\
+    \ and normal difficult terrain, losing their thorns."
   "name": ""
 - "desc": "Either or both of these effects might appear in the area around a green\
     \ dragon's lair, in addition to or instead of those described in the Monster\

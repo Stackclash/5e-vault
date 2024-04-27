@@ -89,12 +89,11 @@ Oni are sometimes called ogre mages because of their innate magical ability. Tho
 "actions":
 - "desc": "The oni makes two attacks, either with its claws or its glaive."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d8 + 4|text(8) (1d8 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8\
+    \ + 4) slashing damage."
   "name": "Claw (Oni Form Only)"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 10 ft., one target.\
-    \ Hit: dice:2d10 + 4|text(15) (2d10 + 4) slashing damage, or dice:1d10\
-    \ + 4|text(9) (1d10 + 4) slashing damage in Small or Medium form."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 15 (2d10\
+    \ + 4) slashing damage, or 9 (1d10 + 4) slashing damage in Small or Medium form."
   "name": "Glaive"
 - "desc": "The oni magically polymorphs into a Small or Medium humanoid, into a Large\
     \ giant, or back into its true form. Other than its size, its statistics are the\

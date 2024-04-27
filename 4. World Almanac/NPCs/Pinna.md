@@ -139,8 +139,8 @@ await dv.view("npcRelationships", { current: dv.current() })
 "cr": "1"
 "traits":
 - "desc": "Pinna is a 3rd-level spellcaster. Her spellcasting ability is Intelligence\
-    \ (spell save DC 13, dice: d20+5 (+5) to hit with spell attacks). Pinna has\
-    \ the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]],\
+    \ (spell save DC 13, +5 to hit with spell attacks). Pinna has the following wizard\
+    \ spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]],\
     \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]],\
     \ [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]]\n\n1st level (4 slots): [[5. Mechanics/Spells/Color Spray.md|color\
     \ spray]], [[5. Mechanics/Spells/Silent Image.md|silent image]],\
@@ -148,9 +148,8 @@ await dv.view("npcRelationships", { current: dv.current() })
     \n2nd level (2 slots): [[5. Mechanics/Spells/Blur.md|blur]], [[5. Mechanics/Spells/Web.md|web]]"
   "name": "Spellcasting"
 "actions":
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+2 (+2) to hit, reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice:1d4 + 0|text(2) (1d4 + 0) piercing\
-    \ damage."
+- "desc": "Melee or Ranged Weapon Attack: +2 to hit, reach 5 ft. or range 20/60\
+    \ ft., one target. Hit: 2 (1d4 + 0) piercing damage."
   "name": "Dagger"
 "source":
 - "SaF"

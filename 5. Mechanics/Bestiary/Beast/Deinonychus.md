@@ -51,11 +51,11 @@ This larger cousin of the velociraptor kills by gripping its target with its cla
 "actions":
 - "desc": "The deinonychus makes one Bite attack and two Claw attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d8 + 2|text(6) (1d8 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8\
+    \ + 2) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d8 + 2|text(6) (1d8 + 2) slashing damage."
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8\
+    \ + 2) slashing damage."
   "name": "Claw"
 "source":
 - "MPMM"

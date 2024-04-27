@@ -222,20 +222,20 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "actions":
 - "desc": "The vrock makes two attacks: one with its beak and one with its talons."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d6 + 3|text(10) (2d6 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6\
+    \ + 3) piercing damage."
   "name": "Beak"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d10 + 3|text(14) (2d10 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 14 (2d10\
+    \ + 3) slashing damage."
   "name": "Talons"
 - "desc": "A 15-foot-radius cloud of toxic spores extends out from the vrock. The\
     \ spores spread around corners. Each creature in that area must succeed on a DC\
     \ 14 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]].\
     \ While [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in this way, a target\
-    \ takes dice:1d10|text(5) (1d10) poison damage at the start of each of its\
-    \ turns. A target can repeat the saving throw at the end of each of its turns,\
-    \ ending the effect on itself on a success. Emptying a vial of holy water on the\
-    \ target also ends the effect on it."
+    \ takes 5 (1d10) poison damage at the start of each of its turns. A target can\
+    \ repeat the saving throw at the end of each of its turns, ending the effect on\
+    \ itself on a success. Emptying a vial of holy water on the target also ends the\
+    \ effect on it."
   "name": "Spores (Recharge 6)"
 - "desc": "The vrock emits a horrific screech. Each creature within 20 feet of it\
     \ that can hear it and that isn't a demon must succeed on a DC 14 Constitution\

@@ -100,12 +100,11 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
 "actions":
 - "desc": "The yuan-ti makes two melee attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d6 + 1|text(4) (1d6 + 1) slashing damage."
+- "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6\
+    \ + 1) slashing damage."
   "name": "Scimitar"
-- "desc": "Ranged Weapon Attack: dice: d20+3 (+3) to hit, range 80/320 ft.,\
-    \ one target. Hit: dice:1d6 + 1|text(4) (1d6 + 1) piercing damage plus dice:2d6|text(7)\
-    \ (2d6) poison damage."
+- "desc": "Ranged Weapon Attack: +3 to hit, range 80/320 ft., one target. Hit:\
+    \ 4 (1d6 + 1) piercing damage plus 7 (2d6) poison damage."
   "name": "Shortbow"
 "source":
 - "MM"

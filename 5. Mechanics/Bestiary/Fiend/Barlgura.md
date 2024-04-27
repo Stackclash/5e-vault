@@ -231,11 +231,11 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "actions":
 - "desc": "The barlgura makes three attacks: one with its bite and two with its fists."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6\
+    \ + 4) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d10 + 4|text(9) (1d10 + 4) bludgeoning damage."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (1d10\
+    \ + 4) bludgeoning damage."
   "name": "Fist"
 "source":
 - "MM"

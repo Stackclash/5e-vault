@@ -69,15 +69,14 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
     \ rely on sight."
   "name": "Sunlight Sensitivity"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 10 ft., one target.\
-    \ Hit: dice:1d12 + 3|text(9) (1d12 + 3) piercing damage, or dice:2d12 +\
-    \ 3|text(16) (2d12 + 3) piercing damage while under the effect of Enlarge,\
-    \ plus dice:1d6|text(3) (1d6) fire damage."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 9 (1d12\
+    \ + 3) piercing damage, or 16 (2d12 + 3) piercing damage while under the effect\
+    \ of Enlarge, plus 3 (1d6) fire damage."
   "name": "Fire Lance"
 - "desc": "From its fire lance, the duergar shoots a 15-foot cone of fire or a line\
     \ of fire 30 feet long and 5 feet wide. Each creature in that area must make a\
-    \ DC 12 Dexterity saving throw, taking dice:3d6|text(10) (3d6) fire damage\
-    \ on a failed save, or half as much damage on a successful one."
+    \ DC 12 Dexterity saving throw, taking 10 (3d6) fire damage on a failed save,\
+    \ or half as much damage on a successful one."
   "name": "Fire Spray (Recharge 5-6)"
 - "desc": "The duergar magically turns [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]]\
     \ for up to 1 hour or until it attacks, it forces a creature to make a saving\

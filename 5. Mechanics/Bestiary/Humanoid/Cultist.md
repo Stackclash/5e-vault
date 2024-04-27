@@ -45,8 +45,8 @@ Cultists swear allegiance to dark powers such as elemental princes, demon lords,
     \ or [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]."
   "name": "Dark Devotion"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one creature.\
-    \ Hit: dice:1d6 + 1|text(4) (1d6 + 1) slashing damage."
+- "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. Hit: 4 (1d6\
+    \ + 1) slashing damage."
   "name": "Scimitar"
 "source":
 - "MM"

@@ -73,15 +73,14 @@ An elemental doesn't require air, food, drink, or sleep.
 "actions":
 - "desc": "The elemental makes two slam attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d8 + 5|text(14) (2d8 + 5) bludgeoning damage."
+- "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 14 (2d8\
+    \ + 5) bludgeoning damage."
   "name": "Slam"
 - "desc": "Each creature in the elemental's space must make a DC 13 Strength saving\
-    \ throw. On a failure, a target takes dice:3d8 + 2|text(15) (3d8 + 2) bludgeoning\
-    \ damage and is flung up 20 feet away from the elemental in a random direction\
-    \ and knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]. If a thrown target\
-    \ strikes an object, such as a wall or floor, the target takes dice:1d6|text(3)\
-    \ (1d6) bludgeoning damage for every 10 feet it was thrown. If the target is\
+    \ throw. On a failure, a target takes 15 (3d8 + 2) bludgeoning damage and is flung\
+    \ up 20 feet away from the elemental in a random direction and knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
+    \ If a thrown target strikes an object, such as a wall or floor, the target takes\
+    \ 3 (1d6) bludgeoning damage for every 10 feet it was thrown. If the target is\
     \ thrown at another creature, that creature must succeed on a DC 13 Dexterity\
     \ saving throw or take the same damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\n\
     \nIf the saving throw is successful, the target takes half the bludgeoning damage\

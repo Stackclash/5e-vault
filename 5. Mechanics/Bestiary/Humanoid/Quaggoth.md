@@ -63,14 +63,14 @@ Generations of hunting venomous subterranean creatures and perpetual exposure to
 "cr": "2"
 "traits":
 - "desc": "While it has 10 hit points or fewer, the quaggoth has advantage on attack\
-    \ rolls. In addition, it deals an extra dice:2d6|text(7) (2d6) damage to any\
-    \ target it hits with a melee attack."
+    \ rolls. In addition, it deals an extra 7 (2d6) damage to any target it hits with\
+    \ a melee attack."
   "name": "Wounded Fury"
 "actions":
 - "desc": "The quaggoth makes two claw attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d6 + 3|text(6) (1d6 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6\
+    \ + 3) slashing damage."
   "name": "Claw"
 "source":
 - "MM"

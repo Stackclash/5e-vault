@@ -72,9 +72,8 @@ A crawling claw doesn't require air, food, drink, or sleep.
 - "desc": "The claw is immune to effects that turn undead."
   "name": "Turn Immunity"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d4 + 1|text(3) (1d4 + 1) bludgeoning or slashing damage (claw's\
-    \ choice)."
+- "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4\
+    \ + 1) bludgeoning or slashing damage (claw's choice)."
   "name": "Claw"
 "source":
 - "MM"

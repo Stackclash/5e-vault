@@ -119,9 +119,8 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 "actions":
 - "desc": "The ultroloth can use its Hypnotic Gaze and makes three melee attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d8 + 3|text(7) (1d8 + 3) slashing damage, or dice:1d10 + 3|text(8)\
-    \ (1d10 + 3) slashing damage if used with two hands."
+- "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 7 (1d8\
+    \ + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands."
   "name": "Longsword"
 - "desc": "The ultroloth's eyes sparkle with opalescent light as it targets one creature\
     \ it can see within 30 feet of it. If the target can see the ultroloth, the target\

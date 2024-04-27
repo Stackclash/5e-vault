@@ -67,12 +67,12 @@ This thing is powerful, but not hard to run. Its Law of Death radiates damage to
 - "desc": "Death makes three slam attacks or makes one slam attack and one Death to\
     \ Undeath attack."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d8 + 3|text(12) (2d8 + 3) bludgeoning damage."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12 (2d8\
+    \ + 3) bludgeoning damage."
   "name": "Slam"
 - "desc": "Death points at an undead creature within 60 feet. The target must make\
-    \ a DC 13 Wisdom saving throw or take dice:6d10|text(33) (6d10) force damage.\
-    \ On a successful save, the target takes half that damage."
+    \ a DC 13 Wisdom saving throw or take 33 (6d10) force damage. On a successful\
+    \ save, the target takes half that damage."
   "name": "Death to Undeath"
 "source":
 - "SaF"

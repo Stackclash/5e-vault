@@ -124,11 +124,11 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 "actions":
 - "desc": "The giant makes two morningstar attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+12 (+12) to hit, reach 10 ft., one\
-    \ target. Hit: dice:3d8 + 8|text(21) (3d8 + 8) piercing damage."
+- "desc": "Melee Weapon Attack: +12 to hit, reach 10 ft., one target. Hit: 21\
+    \ (3d8 + 8) piercing damage."
   "name": "Morningstar"
-- "desc": "Ranged Weapon Attack: dice: d20+12 (+12) to hit, range 60/240 ft.,\
-    \ one target. Hit: dice:4d10 + 8|text(30) (4d10 + 8) bludgeoning damage."
+- "desc": "Ranged Weapon Attack: +12 to hit, range 60/240 ft., one target. Hit:\
+    \ 30 (4d10 + 8) bludgeoning damage."
   "name": "Rock"
 "source":
 - "MM"

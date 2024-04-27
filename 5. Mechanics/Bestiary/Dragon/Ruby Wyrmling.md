@@ -50,15 +50,14 @@ They are measured and formal, slow to give trust. They like seeing things done p
 "cr": "3"
 "traits":
 - "desc": ". . [[/5. Mechanics/Rules/Variant Rules/Gemstone Dragon Psionics.md|Gemstone Dragon Psionics]].\
-    \ Charges: 9 • Recharge: dice: 1d4|avg|noform (1d4) • Fracture:\
-    \ 8"
+    \ Charges: 9 • Recharge: 1d4 • Fracture: 8"
   "name": ""
 - "desc": "Allies' spells cast within 30 feet have their saving throw DC increased\
     \ by 1."
   "name": "Amplification Aura"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d10 + 2|text(7) (1d10 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (1d10\
+    \ + 2) piercing damage."
   "name": "Bite"
 "source":
 - "SaF"

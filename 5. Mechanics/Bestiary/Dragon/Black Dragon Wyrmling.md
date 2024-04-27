@@ -122,14 +122,12 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "desc": "The dragon can breathe air and water."
   "name": "Amphibious"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d10 + 2|text(7) (1d10 + 2) piercing damage plus dice:1d4|text(2)\
-    \ (1d4) acid damage."
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (1d10\
+    \ + 2) piercing damage plus 2 (1d4) acid damage."
   "name": "Bite"
 - "desc": "The dragon exhales acid in a 15-foot line that is 5 feet wide. Each creature\
-    \ in that line must make a DC 11 Dexterity saving throw, taking dice:5d8|text(22)\
-    \ (5d8) acid damage on a failed save, or half as much damage on a successful\
-    \ one."
+    \ in that line must make a DC 11 Dexterity saving throw, taking 22 (5d8) acid\
+    \ damage on a failed save, or half as much damage on a successful one."
   "name": "Acid Breath (Recharge 5-6)"
 "source":
 - "MM"

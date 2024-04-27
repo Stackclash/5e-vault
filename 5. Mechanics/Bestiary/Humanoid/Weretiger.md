@@ -100,19 +100,18 @@ Some individuals see little point in fighting the curse and accept what they are
 - "desc": "In humanoid form, the weretiger makes two scimitar attacks or two longbow\
     \ attacks. In hybrid form, it can attack like a humanoid or make two claw attacks."
   "name": "Multiattack (Humanoid or Hybrid Form Only)"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d10 + 3|text(8) (1d10 + 3) piercing damage. If the target is\
-    \ a humanoid, it must succeed on a DC 13 Constitution saving throw or be cursed\
-    \ with weretiger lycanthropy."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10\
+    \ + 3) piercing damage. If the target is a humanoid, it must succeed on a DC 13\
+    \ Constitution saving throw or be cursed with weretiger lycanthropy."
   "name": "Bite (Tiger or Hybrid Form Only)"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d8 + 3|text(7) (1d8 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8\
+    \ + 3) slashing damage."
   "name": "Claw (Tiger or Hybrid Form Only)"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d6 + 3|text(6) (1d6 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6\
+    \ + 3) slashing damage."
   "name": "Scimitar (Humanoid or Hybrid Form Only)"
-- "desc": "Ranged Weapon Attack: dice: d20+4 (+4) to hit, range 150/600 ft.,\
-    \ one target. Hit: dice:1d8 + 2|text(6) (1d8 + 2) piercing damage."
+- "desc": "Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit:\
+    \ 6 (1d8 + 2) piercing damage."
   "name": "Longbow (Humanoid or Hybrid Form Only)"
 "source":
 - "MM"

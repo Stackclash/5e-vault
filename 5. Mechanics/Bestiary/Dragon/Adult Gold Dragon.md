@@ -123,14 +123,14 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "desc": "The dragon can use its Frightful Presence. It then makes three attacks:\
     \ one with its bite and two with its claws."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+14 (+14) to hit, reach 10 ft., one\
-    \ target. Hit: dice:2d10 + 8|text(19) (2d10 + 8) piercing damage."
+- "desc": "Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 19\
+    \ (2d10 + 8) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+14 (+14) to hit, reach 5 ft., one\
-    \ target. Hit: dice:2d6 + 8|text(15) (2d6 + 8) slashing damage."
+- "desc": "Melee Weapon Attack: +14 to hit, reach 5 ft., one target. Hit: 15 (2d6\
+    \ + 8) slashing damage."
   "name": "Claw"
-- "desc": "Melee Weapon Attack: dice: d20+14 (+14) to hit, reach 15 ft., one\
-    \ target. Hit: dice:2d8 + 8|text(17) (2d8 + 8) bludgeoning damage."
+- "desc": "Melee Weapon Attack: +14 to hit, reach 15 ft., one target. Hit: 17\
+    \ (2d8 + 8) bludgeoning damage."
   "name": "Tail"
 - "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
     \ and aware of it must succeed on a DC 21 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
@@ -141,13 +141,13 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   "name": "Frightful Presence"
 - "desc": "The dragon uses one of the following breath weapons.\n\n- Fire Breath.\
     \ The dragon exhales fire in a 60-foot cone. Each creature in that area must make\
-    \ a DC 21 Dexterity saving throw, taking dice:12d10|text(66) (12d10) fire\
-    \ damage on a failed save, or half as much damage on a successful one.  \n- Weakening\
-    \ Breath. The dragon exhales gas in a 60-foot cone. Each creature in that area\
-    \ must succeed on a DC 21 Strength saving throw or have disadvantage on Strength-based\
-    \ attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature\
-    \ can repeat the saving throw at the end of each of its turns, ending the effect\
-    \ on itself on a success.  "
+    \ a DC 21 Dexterity saving throw, taking 66 (12d10) fire damage on a failed save,\
+    \ or half as much damage on a successful one.  \n- Weakening Breath. The dragon\
+    \ exhales gas in a 60-foot cone. Each creature in that area must succeed on a\
+    \ DC 21 Strength saving throw or have disadvantage on Strength-based attack rolls,\
+    \ Strength checks, and Strength saving throws for 1 minute. A creature can repeat\
+    \ the saving throw at the end of each of its turns, ending the effect on itself\
+    \ on a success.  "
   "name": "Breath Weapons (Recharge 5-6)"
 - "desc": "The dragon magically polymorphs into a humanoid or beast that has a challenge\
     \ rating no higher than its own, or back into its true form. It reverts to its\
@@ -166,9 +166,9 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "desc": "The dragon makes a tail attack."
   "name": "Tail Attack"
 - "desc": "The dragon beats its wings. Each creature within 10 feet of the dragon\
-    \ must succeed on a DC 22 Dexterity saving throw or take dice:2d6 + 8|text(15)\
-    \ (2d6 + 8) bludgeoning damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
-    \ The dragon can then fly up to half its flying speed."
+    \ must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning\
+    \ damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]. The dragon\
+    \ can then fly up to half its flying speed."
   "name": "Wing Attack (Costs 2 Actions)"
 "lair_actions":
 - "desc": "On initiative count 20 (losing initiative ties), the dragon takes a lair\

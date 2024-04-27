@@ -6,7 +6,7 @@ const matter = require('gray-matter')
 
 const config = {
     dryRun: false,
-    limit: 7000,
+    limit: 10000,
     rootVaultPath: path.resolve(__dirname, '../../'),
     compendiumPath: 'compendium',
     logs: {

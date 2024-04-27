@@ -151,8 +151,8 @@ await dv.view("npcRelationships", { current: dv.current() })
 "cr": "6"
 "traits":
 - "desc": "Sir Godfrey is a 16th-level spellcaster. His spellcasting ability is Wisdom\
-    \ (spell save DC 14, dice: d20+6 (+6) to hit with spell attacks). He has the\
-    \ following paladin spells prepared:\n\n1st level (4 slots): [[5. Mechanics/Spells/Command.md|command]],\
+    \ (spell save DC 14, +6 to hit with spell attacks). He has the following paladin\
+    \ spells prepared:\n\n1st level (4 slots): [[5. Mechanics/Spells/Command.md|command]],\
     \ [[5. Mechanics/Spells/Divine Favor.md|divine favor]], [[5. Mechanics/Spells/Thunderous Smite.md|thunderous smite]]\n\
     \n2nd level (3 slots): [[5. Mechanics/Spells/Branding Smite.md|branding smite]],\
     \ [[5. Mechanics/Spells/Magic Weapon.md|magic weapon]]\n\n3rd level (3 slots):\
@@ -179,17 +179,15 @@ await dv.view("npcRelationships", { current: dv.current() })
 "actions":
 - "desc": "The knight makes two longsword attacks or two fist attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d10 + 4|text(15) (2d10 + 4) slashing damage. If the target\
-    \ is a creature against which the knight has sworn vengeance, the target takes\
-    \ an extra dice:4d6|text(14) (4d6) slashing damage."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 15 (2d10\
+    \ + 4) slashing damage. If the target is a creature against which the knight has\
+    \ sworn vengeance, the target takes an extra 14 (4d6) slashing damage."
   "name": "Longsword"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) bludgeoning damage. If the target\
-    \ is a creature against which the knight has sworn vengeance, the target takes\
-    \ an extra dice:4d6|text(14) (4d6) bludgeoning damage. Instead of dealing\
-    \ damage, the knight can grapple the target (escape DC 14) provided the target\
-    \ is Large or smaller."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6\
+    \ + 4) bludgeoning damage. If the target is a creature against which the knight\
+    \ has sworn vengeance, the target takes an extra 14 (4d6) bludgeoning damage.\
+    \ Instead of dealing damage, the knight can grapple the target (escape DC 14)\
+    \ provided the target is Large or smaller."
   "name": "Fist"
 - "desc": "The knight targets one creature it can see within 30 feet of it and against\
     \ which it has sworn vengeance. The target must make a DC 15 Wisdom saving throw.\

@@ -58,9 +58,8 @@ The Magistrate's deadliest weapon is Storm Strike, which combines chain lightnin
 "cr": "9"
 "traits":
 - "desc": "The magistrate is a 13th-level spellcaster. Its spellcasting ability is\
-    \ Wisdom (spell save DC 17, dice: d20+9 (+9) to hit with spell attacks). It\
-    \ can innately cast the following spells, requiring no components:\n\nAt will:\
-    \ [[5. Mechanics/Spells/Enhance Ability.md|enhance ability]]"
+    \ Wisdom (spell save DC 17, +9 to hit with spell attacks). It can innately cast\
+    \ the following spells, requiring no components:\n\nAt will: [[5. Mechanics/Spells/Enhance Ability.md|enhance ability]]"
   "name": "Innate Spellcasting"
 - "desc": "The magistrate has the following cleric spells prepared:\n\nCantrips\
     \ (at will): [[5. Mechanics/Spells/Light.md|light]], [[5. Mechanics/Spells/Guidance.md|guidance]],\
@@ -82,16 +81,15 @@ The Magistrate's deadliest weapon is Storm Strike, which combines chain lightnin
 "actions":
 - "desc": "The Magistrate makes two attacks with its morningstar."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 10 ft., one target.\
-    \ Hit: dice:2d8 + 3|text(12) (2d8 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 12 (2d8\
+    \ + 3) piercing damage."
   "name": "Morningstar"
 - "desc": "Lightning arcs from the magistrate toward up to three targets it can see\
     \ within 120 feet. Three bolts then leap from those targets to as many as three\
     \ other targets, each of which must be within 10 feet of the first target. A creature\
     \ can be targeted by only one bolt.\n\nA target must make a DC 17 Dexterity saving\
-    \ throw. A creature takes dice:4d6|text(14) (4d6) lightning damage and dice:4d6|text(14)\
-    \ (4d6) radiant damage on a failed save, or half as much damage on a successful\
-    \ one."
+    \ throw. A creature takes 14 (4d6) lightning damage and 14 (4d6) radiant damage\
+    \ on a failed save, or half as much damage on a successful one."
   "name": "Storm Strike (Recharge 6-6)"
 "source":
 - "SaF"

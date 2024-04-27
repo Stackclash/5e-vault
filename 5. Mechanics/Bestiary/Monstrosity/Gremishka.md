@@ -39,20 +39,18 @@ Gremishkas have an unstable relationship with magic. Spells cast near a gremishk
 "languages": "understands Common but can't speak"
 "cr": "1/8"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d4 + 2|text(2) (1d4 + 2) piercing damage plus dice:1d6|text(3)\
-    \ (1d6) force damage."
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 2 (1d4\
+    \ + 2) piercing damage plus 3 (1d6) force damage."
   "name": "Bite"
 "reactions":
 - "desc": "Immediately after a creature within 30 feet of the gremishka casts a spell,\
-    \ the gremishka can spontaneously react to the magic. Roll a dice: d6|avg|noform\
-    \ (d6) to determine the effect:\n\n1-2. The gremishka emanates magical energy.\
-    \ Each creature within 30 feet of the gremishka must succeed on a DC 10 Constitution\
-    \ saving throw or take dice:1d6|text(3) (1d6) force damage.\n\n3-4. The\
-    \ gremishka surges with magical energy and regains dice:1d6|text(3) (1d6)\
-    \ hit points.\n\n5-6. The gremishka explodes and dies, and one swarm of gremishkas\
-    \ instantly appears in the space where this gremishka died. The swarm uses the\
-    \ gremishka's initiative."
+    \ the gremishka can spontaneously react to the magic. Roll a d6 to determine the\
+    \ effect:\n\n1-2. The gremishka emanates magical energy. Each creature within\
+    \ 30 feet of the gremishka must succeed on a DC 10 Constitution saving throw or\
+    \ take 3 (1d6) force damage.\n\n3-4. The gremishka surges with magical energy\
+    \ and regains 3 (1d6) hit points.\n\n5-6. The gremishka explodes and dies,\
+    \ and one swarm of gremishkas instantly appears in the space where this gremishka\
+    \ died. The swarm uses the gremishka's initiative."
   "name": "Magic Allergy (1/Day)"
 "source":
 - "VRGR"

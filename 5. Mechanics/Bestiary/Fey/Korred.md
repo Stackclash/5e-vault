@@ -62,14 +62,13 @@ Korreds have hair all over their bodies, but the hair that grows from their head
 "actions":
 - "desc": "The korred makes two Greatclub or Rock attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d8 + 6|text(10) (1d8 + 6) bludgeoning damage, or dice:3d8\
-    \ + 6|text(19) (3d8 + 6) bludgeoning damage if the korred is on the ground."
+- "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 10 (1d8\
+    \ + 6) bludgeoning damage, or 19 (3d8 + 6) bludgeoning damage if the korred is\
+    \ on the ground."
   "name": "Greatclub"
-- "desc": "Ranged Weapon Attack: dice: d20+9 (+9) to hit, range 60/120 ft.,\
-    \ one target. Hit: dice:1d8 + 6|text(10) (1d8 + 6) bludgeoning damage, or\
-    \ dice:3d8 + 6|text(19) (3d8 + 6) bludgeoning damage if the korred is on the\
-    \ ground."
+- "desc": "Ranged Weapon Attack: +9 to hit, range 60/120 ft., one target. Hit:\
+    \ 10 (1d8 + 6) bludgeoning damage, or 19 (3d8 + 6) bludgeoning damage if the korred\
+    \ is on the ground."
   "name": "Rock"
 "bonus_actions":
 - "desc": "The korred has at least one 50-foot-long rope woven out of its hair. The\

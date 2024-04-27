@@ -43,8 +43,8 @@ Priests bring the teachings of their gods to the common folk. They are the spiri
 "cr": "2"
 "traits":
 - "desc": "The priest is a 5th-level spellcaster. Its spellcasting ability is Wisdom\
-    \ (spell save DC 13, dice: d20+5 (+5) to hit with spell attacks). The priest\
-    \ has the following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Light.md|light]],\
+    \ (spell save DC 13, +5 to hit with spell attacks). The priest has the following\
+    \ cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Light.md|light]],\
     \ [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
     \n1st level (4 slots): [[5. Mechanics/Spells/Cure Wounds.md|cure wounds]], [[5. Mechanics/Spells/Guiding Bolt.md|guiding\
     \ bolt]], [[5. Mechanics/Spells/Sanctuary.md|sanctuary]]\n\
@@ -53,14 +53,14 @@ Priests bring the teachings of their gods to the common folk. They are the spiri
     \ slots): [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[5. Mechanics/Spells/Spirit Guardians.md|spirit guardians]]"
   "name": "Spellcasting"
 - "desc": "As a bonus action, the priest can expend a spell slot to cause its melee\
-    \ weapon attacks to magically deal an extra dice:3d6|text(10) (3d6) radiant\
-    \ damage to a target on a hit. This benefit lasts until the end of the turn. If\
-    \ the priest expends a spell slot of 2nd level or higher, the extra damage increases\
-    \ by dice: 1d6|avg|noform (1d6) for each level above 1st."
+    \ weapon attacks to magically deal an extra 10 (3d6) radiant damage to a target\
+    \ on a hit. This benefit lasts until the end of the turn. If the priest expends\
+    \ a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each\
+    \ level above 1st."
   "name": "Divine Eminence"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+2 (+2) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d6|text(3) (1d6) bludgeoning damage."
+- "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (1d6)\
+    \ bludgeoning damage."
   "name": "Mace"
 "source":
 - "MM"

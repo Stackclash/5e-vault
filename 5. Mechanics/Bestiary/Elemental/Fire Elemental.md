@@ -65,12 +65,11 @@ An elemental doesn't require air, food, drink, or sleep.
 "traits":
 - "desc": "The elemental can move through a space as narrow as 1 inch wide without\
     \ squeezing. A creature that touches the elemental or hits it with a melee attack\
-    \ while within 5 feet of it takes dice:1d10|text(5) (1d10) fire damage. In\
-    \ addition, the elemental can enter a hostile creature's space and stop there.\
-    \ The first time it enters a creature's space on a turn, that creature takes dice:1d10|text(5)\
-    \ (1d10) fire damage and catches fire; until someone takes an action to douse\
-    \ the fire, the creature takes dice:1d10|text(5) (1d10) fire damage at the\
-    \ start of each of its turns."
+    \ while within 5 feet of it takes 5 (1d10) fire damage. In addition, the elemental\
+    \ can enter a hostile creature's space and stop there. The first time it enters\
+    \ a creature's space on a turn, that creature takes 5 (1d10) fire damage and catches\
+    \ fire; until someone takes an action to douse the fire, the creature takes 5\
+    \ (1d10) fire damage at the start of each of its turns."
   "name": "Fire Form"
 - "desc": "The elemental sheds bright light in a 30-foot radius and dim light in an\
     \ additional 30 feet."
@@ -81,11 +80,10 @@ An elemental doesn't require air, food, drink, or sleep.
 "actions":
 - "desc": "The elemental makes two touch attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d6 + 3|text(10) (2d6 + 3) fire damage. If the target is a creature\
-    \ or a flammable object, it ignites. Until a creature takes an action to douse\
-    \ the fire, the target takes dice:1d10|text(5) (1d10) fire damage at the start\
-    \ of each of its turns."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6\
+    \ + 3) fire damage. If the target is a creature or a flammable object, it ignites.\
+    \ Until a creature takes an action to douse the fire, the target takes 5 (1d10)\
+    \ fire damage at the start of each of its turns."
   "name": "Touch"
 "source":
 - "MM"

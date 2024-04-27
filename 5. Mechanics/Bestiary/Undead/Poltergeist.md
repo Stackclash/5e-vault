@@ -46,8 +46,8 @@ A poltergeist is the confused, invisible spirit of an individual with no sense o
 "cr": "2"
 "traits":
 - "desc": "The poltergeist can move through other creatures and objects as if they\
-    \ were difficult terrain. It takes dice:1d10|text(5) (1d10) force damage if\
-    \ it ends its turn inside an object."
+    \ were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside\
+    \ an object."
   "name": "Incorporeal Movement"
 - "desc": "While in sunlight, the poltergeist has disadvantage on attack rolls, as\
     \ well as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks\
@@ -56,8 +56,8 @@ A poltergeist is the confused, invisible spirit of an individual with no sense o
 - "desc": "The poltergeist is [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]]."
   "name": "Invisibility"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one creature.\
-    \ Hit: dice:3d6|text(10) (3d6) force damage."
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 10\
+    \ (3d6) force damage."
   "name": "Forceful Slam"
 - "desc": "The poltergeist targets a creature or unattended object within 30 feet\
     \ of it. A creature must be Medium or smaller to be affected by this magic, and\
@@ -65,12 +65,11 @@ A poltergeist is the confused, invisible spirit of an individual with no sense o
     \ makes a Charisma check contested by the target's Strength check. If the poltergeist\
     \ wins the contest, the poltergeist hurls the target up to 30 feet in any direction,\
     \ including upward. If the target then comes into contact with a hard surface\
-    \ or heavy object, the target takes dice: 1d6|avg|noform (1d6) damage per\
-    \ 10 feet moved.\n\nIf the target is an object that isn't being worn or carried,\
-    \ the poltergeist hurls it up to 30 feet in any direction. The poltergeist can\
-    \ use the object as a ranged weapon, attacking one creature along the object's\
-    \ path (dice: d20+4 (+4) to hit) and dealing dice:2d4|text(5) (2d4) bludgeoning\
-    \ damage on a hit."
+    \ or heavy object, the target takes 1d6 damage per 10 feet moved.\n\nIf the target\
+    \ is an object that isn't being worn or carried, the poltergeist hurls it up to\
+    \ 30 feet in any direction. The poltergeist can use the object as a ranged weapon,\
+    \ attacking one creature along the object's path (+4 to hit) and dealing 5 (2d4)\
+    \ bludgeoning damage on a hit."
   "name": "Telekinetic Thrust"
 "source":
 - "MM"

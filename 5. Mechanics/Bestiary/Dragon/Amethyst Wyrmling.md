@@ -52,16 +52,14 @@ When encountered, they are often conciliatory, deferent. They want to put you at
 "cr": "3"
 "traits":
 - "desc": ". . [[/5. Mechanics/Rules/Variant Rules/Gemstone Dragon Psionics.md|Gemstone Dragon Psionics]].\
-    \ Charges: 8 • Recharge: dice: 1d4|avg|noform (1d4) • Fracture:\
-    \ 7"
+    \ Charges: 8 • Recharge: 1d4 • Fracture: 7"
   "name": ""
 - "desc": "Each time the dragon takes damage, all creatures within 30 feet must succeed\
-    \ on a DC 12 Intelligence saving throw or else take dice:1d6|text(3) (1d6)\
-    \ psychic damage."
+    \ on a DC 12 Intelligence saving throw or else take 3 (1d6) psychic damage."
   "name": "Feedback Aura"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d10 + 2|text(7) (1d10 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (1d10\
+    \ + 2) piercing damage."
   "name": "Bite"
 "source":
 - "SaF"

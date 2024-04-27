@@ -68,13 +68,11 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
 - "desc": "The abishai makes one Bite attack and one Claw attack, and it can use Frightful\
     \ Presence or Incite Fanaticism."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+12 (+12) to hit, reach 5 ft., one\
-    \ target. Hit: dice:3d10 + 6|text(22) (3d10 + 6) piercing damage plus dice:7d10|text(38)\
-    \ (7d10) fire damage."
+- "desc": "Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 22 (3d10\
+    \ + 6) piercing damage plus 38 (7d10) fire damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+12 (+12) to hit, reach 5 ft., one\
-    \ target. Hit: dice:2d10 + 6|text(17) (2d10 + 6) force damage plus dice:2d10|text(11)\
-    \ (2d10) fire damage."
+- "desc": "Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 17 (2d10\
+    \ + 6) force damage plus 11 (2d10) fire damage."
   "name": "Claw"
 - "desc": "Each creature of the abishai's choice that is within 120 feet and aware\
     \ of the abishai must succeed on a DC 18 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\

@@ -48,8 +48,8 @@ Hailing from uncivilized lands, unpredictable berserkers come together in war pa
     \ until the start of its next turn."
   "name": "Reckless"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d12 + 3|text(9) (1d12 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 9 (1d12\
+    \ + 3) slashing damage."
   "name": "Greataxe"
 "source":
 - "MM"

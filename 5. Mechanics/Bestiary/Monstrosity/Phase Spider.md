@@ -53,13 +53,12 @@ A phase spider possesses the magical ability to phase in and out of the Ethereal
 - "desc": "The spider ignores movement restrictions caused by webbing."
   "name": "Web Walker"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one creature.\
-    \ Hit: dice:1d10 + 2|text(7) (1d10 + 2) piercing damage, and the target\
-    \ must make a DC 11 Constitution saving throw, taking dice:4d8|text(18) (4d8)\
-    \ poison damage on a failed save, or half as much damage on a successful one.\
-    \ If the poison damage reduces the target to 0 hit points, the target is stable\
-    \ but [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for 1 hour, even after\
-    \ regaining hit points, and is [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 7 (1d10\
+    \ + 2) piercing damage, and the target must make a DC 11 Constitution saving throw,\
+    \ taking 18 (4d8) poison damage on a failed save, or half as much damage on a\
+    \ successful one. If the poison damage reduces the target to 0 hit points, the\
+    \ target is stable but [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for\
+    \ 1 hour, even after regaining hit points, and is [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
     \ while [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in this way."
   "name": "Bite"
 "source":

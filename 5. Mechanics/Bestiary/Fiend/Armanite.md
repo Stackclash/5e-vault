@@ -52,22 +52,20 @@ Part of what makes armanites so fearsome is the number of weapons they have at t
 - "desc": "The armanite makes one Claw attack, one Hooves attack, and one Serrated\
     \ Tail attack."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d4 + 5|text(10) (2d4 + 5) slashing damage plus dice:2d8|text(9)\
-    \ (2d8) lightning damage."
+- "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 10 (2d4\
+    \ + 5) slashing damage plus 9 (2d8) lightning damage."
   "name": "Claw"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d6 + 5|text(12) (2d6 + 5) bludgeoning damage. If the target\
-    \ is a Large or smaller creature, it must succeed on a DC 16 Strength saving throw\
-    \ or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+- "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d6\
+    \ + 5) bludgeoning damage. If the target is a Large or smaller creature, it must\
+    \ succeed on a DC 16 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Hooves"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 10 ft., one target.\
-    \ Hit: dice:2d10 + 5|text(16) (2d10 + 5) slashing damage."
+- "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 16 (2d10\
+    \ + 5) slashing damage."
   "name": "Serrated Tail"
 - "desc": "The armanite looses a bolt of lightning in a line that is 60 feet long\
     \ and 10 feet wide. Each creature in the line must make a DC 15 Dexterity saving\
-    \ throw, taking dice:8d8|text(36) (8d8) lightning damage on a failed save,\
-    \ or half as much damage on a successful one."
+    \ throw, taking 36 (8d8) lightning damage on a failed save, or half as much damage\
+    \ on a successful one."
   "name": "Lightning Lance (Recharge 5-6)"
 "source":
 - "MPMM"

@@ -43,8 +43,8 @@ aliases:
     \ effects that would knock it [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Sure-Footed"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+2 (+2) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d4 + 2|text(4) (1d4 + 2) bludgeoning damage."
+- "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 4 (1d4\
+    \ + 2) bludgeoning damage."
   "name": "Hooves"
 "source":
 - "MM"

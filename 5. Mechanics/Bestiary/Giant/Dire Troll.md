@@ -69,16 +69,15 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
 "actions":
 - "desc": " The troll makes one Bite attack and four Claw attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+11 (+11) to hit, reach 10 ft., one\
-    \ target. Hit: dice:1d8 + 6|text(10) (1d8 + 6) piercing damage plus dice:1d10|text(5)\
-    \ (1d10) poison damage."
+- "desc": "Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 10\
+    \ (1d8 + 6) piercing damage plus 5 (1d10) poison damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+11 (+11) to hit, reach 10 ft., one\
-    \ target. Hit: dice:3d6 + 6|text(16) (3d6 + 6) slashing damage."
+- "desc": "Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 16\
+    \ (3d6 + 6) slashing damage."
   "name": "Claws"
 - "desc": "Each creature within 10 feet of the troll must make a DC 19 Dexterity saving\
-    \ throw, taking dice:8d10|text(44) (8d10) slashing damage on a failed save,\
-    \ or half as much damage on a successful one."
+    \ throw, taking 44 (8d10) slashing damage on a failed save, or half as much damage\
+    \ on a successful one."
   "name": "Whirlwind of Claws (Recharge 5-6)"
 "source":
 - "MPMM"

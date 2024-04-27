@@ -46,9 +46,9 @@ aliases:
 - "desc": "This creature is a Retainer, as described in \"Strongholds and Followers\""
   "name": "Retainer"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d6 + 3|text(10) (2d6 + 3) slashing damage.\n\nAt 7th level,\
-    \ retainers can take two signature attacks per round."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6\
+    \ + 3) slashing damage.\n\nAt 7th level, retainers can take two signature attacks\
+    \ per round."
   "name": "Signature Attack"
 - "desc": "Prerequisite: 3rd-level retainer\n\nThe justicar makes a signature attack.\
     \ The target must make a Wisdom save or be [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\

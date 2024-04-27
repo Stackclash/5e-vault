@@ -100,12 +100,11 @@ Mistrusted by orcs, some orogs form independent mercenary war bands that sell th
 "actions":
 - "desc": "The orog makes two greataxe attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d12 + 4|text(10) (1d12 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (1d12\
+    \ + 4) slashing damage."
   "name": "Greataxe"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft.\
-    \ or range 30/120 ft., one target. Hit: dice:1d6 + 4|text(7) (1d6 + 4) piercing\
-    \ damage."
+- "desc": "Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 30/120\
+    \ ft., one target. Hit: 7 (1d6 + 4) piercing damage."
   "name": "Javelin"
 "source":
 - "MM"

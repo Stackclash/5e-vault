@@ -86,16 +86,15 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 "actions":
 - "desc": "The slaad makes three attacks: one with its bite and two with its claws."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d6 + 5|text(12) (2d6 + 5) piercing damage."
+- "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d6\
+    \ + 5) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d6 + 5|text(12) (2d6 + 5) slashing damage. If the target is\
-    \ a humanoid, it must succeed on a DC 15 Constitution saving throw or be infected\
-    \ with a disease called chaos phage. While infected, the target can't regain hit\
-    \ points, and its hit point maximum is reduced by dice:3d6|text(10) (3d6)\
-    \ every 24 hours. If the disease reduces the target's hit point maximum to 0,\
-    \ the target instantly transforms into a [[5. Mechanics/Bestiary/Aberration/Red Slaad.md|red slaad]]\
+- "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d6\
+    \ + 5) slashing damage. If the target is a humanoid, it must succeed on a DC 15\
+    \ Constitution saving throw or be infected with a disease called chaos phage.\
+    \ While infected, the target can't regain hit points, and its hit point maximum\
+    \ is reduced by 10 (3d6) every 24 hours. If the disease reduces the target's hit\
+    \ point maximum to 0, the target instantly transforms into a [[5. Mechanics/Bestiary/Aberration/Red Slaad.md|red slaad]]\
     \ or, if it has the ability to cast spells of 3rd level or higher, a [[5. Mechanics/Bestiary/Aberration/Green Slaad.md|green slaad]].\
     \ Only a [[5. Mechanics/Spells/Wish.md|wish]] spell can reverse the transformation."
   "name": "Claw"

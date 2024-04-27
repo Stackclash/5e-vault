@@ -48,11 +48,11 @@ This feathered dinosaur is about the size of a large turkey. It is an aggressive
 "actions":
 - "desc": "The velociraptor makes one Bite attack and one Claw attack."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one creature.\
-    \ Hit: dice:1d6 + 2|text(5) (1d6 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5 (1d6\
+    \ + 2) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d4 + 2|text(4) (1d4 + 2) slashing damage."
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4\
+    \ + 2) slashing damage."
   "name": "Claw"
 "source":
 - "MPMM"

@@ -44,8 +44,8 @@ aliases:
 - "desc": "The octopus can breathe only underwater."
   "name": "Water Breathing"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
-    \ Hit: 1 bludgeoning damage, and the target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 1 bludgeoning\
+    \ damage, and the target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ (escape DC 10). Until this grapple ends, the octopus can't use its tentacles\
     \ on another target."
   "name": "Tentacles"

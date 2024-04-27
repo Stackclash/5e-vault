@@ -59,13 +59,12 @@ Hell hounds are smarter than mundane beasts, and their lawful nature makes them 
     \ [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
   "name": "Pack Tactics"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d8 + 3|text(7) (1d8 + 3) piercing damage plus dice:2d6|text(7)\
-    \ (2d6) fire damage."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8\
+    \ + 3) piercing damage plus 7 (2d6) fire damage."
   "name": "Bite"
 - "desc": "The hound exhales fire in a 15-foot cone. Each creature in that area must\
-    \ make a DC 12 Dexterity saving throw, taking dice:6d6|text(21) (6d6) fire\
-    \ damage on a failed save, or half as much damage on a successful one."
+    \ make a DC 12 Dexterity saving throw, taking 21 (6d6) fire damage on a failed\
+    \ save, or half as much damage on a successful one."
   "name": "Fire Breath (Recharge 5-6)"
 "source":
 - "MM"

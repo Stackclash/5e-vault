@@ -69,11 +69,11 @@ A naga doesn't require air, food, drink, or sleep.
 "cr": "10"
 "traits":
 - "desc": "The naga is an 11th-level spellcaster. Its spellcasting ability is Wisdom\
-    \ (spell save DC 16, dice: d20+8 (+8) to hit with spell attacks), and it needs\
-    \ only verbal components to cast its spells. It has the following cleric spells\
-    \ prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Mending.md|mending]],\
-    \ [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
-    \n1st level (4 slots): [[5. Mechanics/Spells/Command.md|command]], [[5. Mechanics/Spells/Cure Wounds.md|cure wounds]],\
+    \ (spell save DC 16, +8 to hit with spell attacks), and it needs only verbal components\
+    \ to cast its spells. It has the following cleric spells prepared:\n\nCantrips\
+    \ (at will): [[5. Mechanics/Spells/Mending.md|mending]], [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]],\
+    \ [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\n1st level (4 slots):\
+    \ [[5. Mechanics/Spells/Command.md|command]], [[5. Mechanics/Spells/Cure Wounds.md|cure wounds]],\
     \ [[5. Mechanics/Spells/Shield Of Faith.md|shield of faith]]\n\n2nd level (3 slots):\
     \ [[5. Mechanics/Spells/Calm Emotions.md|calm emotions]], [[5. Mechanics/Spells/Hold Person.md|hold person]]\n\
     \n3rd level (3 slots): [[5. Mechanics/Spells/Bestow Curse.md|bestow curse]],\
@@ -82,20 +82,19 @@ A naga doesn't require air, food, drink, or sleep.
     \n5th level (2 slots): [[5. Mechanics/Spells/Flame Strike.md|flame strike]],\
     \ [[5. Mechanics/Spells/Geas.md|geas]]\n\n6th level (1 slots): [[5. Mechanics/Spells/True Seeing.md|true seeing]]"
   "name": "Spellcasting"
-- "desc": "If it dies, the naga returns to life in dice: 1d6|avg|noform (1d6)\
-    \ days and regains all its hit points. Only a [[5. Mechanics/Spells/Wish.md|wish]]\
-    \ spell can prevent this trait from functioning."
+- "desc": "If it dies, the naga returns to life in 1d6 days and regains all its hit\
+    \ points. Only a [[5. Mechanics/Spells/Wish.md|wish]] spell can prevent this trait\
+    \ from functioning."
   "name": "Rejuvenation"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 10 ft., one creature.\
-    \ Hit: dice:1d8 + 4|text(8) (1d8 + 4) piercing damage, and the target must\
-    \ make a DC 15 Constitution saving throw, taking dice:10d8|text(45) (10d8)\
-    \ poison damage on a failed save, or half as much damage on a successful one."
+- "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one creature. Hit: 8\
+    \ (1d8 + 4) piercing damage, and the target must make a DC 15 Constitution saving\
+    \ throw, taking 45 (10d8) poison damage on a failed save, or half as much damage\
+    \ on a successful one."
   "name": "Bite"
-- "desc": "Ranged Weapon Attack: dice: d20+8 (+8) to hit, range 15/30 ft., one\
-    \ creature. Hit: The target must make a DC 15 Constitution saving throw, taking\
-    \ dice:10d8|text(45) (10d8) poison damage on a failed save, or half as much\
-    \ damage on a successful one."
+- "desc": "Ranged Weapon Attack: +8 to hit, range 15/30 ft., one creature. Hit:\
+    \ The target must make a DC 15 Constitution saving throw, taking 45 (10d8) poison\
+    \ damage on a failed save, or half as much damage on a successful one."
   "name": "Spit Poison"
 "source":
 - "MM"

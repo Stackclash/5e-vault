@@ -90,11 +90,11 @@ Raxivort's warlocks are respected and feared in xvart society, but they have lit
     \ bats and giant rats."
   "name": "Raxivort's Tongue"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d6 + 2|text(5) (1d6 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+    \ + 2) piercing damage."
   "name": "Shortsword"
-- "desc": "Ranged Weapon Attack: dice: d20+4 (+4) to hit, range 30/120 ft.,\
-    \ one target. Hit: dice:1d4 + 2|text(4) (1d4 + 2) bludgeoning damage."
+- "desc": "Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit:\
+    \ 4 (1d4 + 2) bludgeoning damage."
   "name": "Sling"
 "source":
 - "VGM"

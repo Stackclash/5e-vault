@@ -50,8 +50,8 @@ A giant lizard can be ridden or used as a draft animal. Lizardfolk also keep the
 "languages": ""
 "cr": "1/4"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d8 + 2|text(6) (1d8 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8\
+    \ + 2) piercing damage."
   "name": "Bite"
 "source":
 - "MM"

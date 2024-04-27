@@ -182,15 +182,14 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - "desc": "The devil makes two attacks: one with its bite and one with its fork or\
     \ two with its tail spines."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+2 (+2) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d4|text(5) (2d4) slashing damage."
+- "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 5 (2d4)\
+    \ slashing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+2 (+2) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d6|text(3) (1d6) piercing damage."
+- "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (1d6)\
+    \ piercing damage."
   "name": "Fork"
-- "desc": "Ranged Weapon Attack: dice: d20+4 (+4) to hit, range 20/80 ft., one\
-    \ target. Hit: dice:1d4 + 2|text(4) (1d4 + 2) piercing damage plus dice:1d6|text(3)\
-    \ (1d6) fire damage."
+- "desc": "Ranged Weapon Attack: +4 to hit, range 20/80 ft., one target. Hit:\
+    \ 4 (1d4 + 2) piercing damage plus 3 (1d6) fire damage."
   "name": "Tail Spine"
 "source":
 - "MM"

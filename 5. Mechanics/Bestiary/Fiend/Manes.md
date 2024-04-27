@@ -214,8 +214,8 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "languages": "understands Abyssal but can't speak"
 "cr": "1/8"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+2 (+2) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d4|text(5) (2d4) slashing damage."
+- "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 5 (2d4)\
+    \ slashing damage."
   "name": "Claws"
 "source":
 - "MM"

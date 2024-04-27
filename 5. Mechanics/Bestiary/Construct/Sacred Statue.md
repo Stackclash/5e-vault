@@ -64,11 +64,11 @@ To protect sites they deem holy, gods often rely on eidolons, ghostly spirits bo
 "actions":
 - "desc": "The statue makes two Slam or Rock attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 10 ft., one target.\
-    \ Hit: dice:6d12 + 4|text(43) (6d12 + 4) bludgeoning damage."
+- "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 43 (6d12\
+    \ + 4) bludgeoning damage."
   "name": "Slam"
-- "desc": "Ranged Weapon Attack: dice: d20+8 (+8) to hit, range 60 ft./240 ft.,\
-    \ one target. Hit: dice:6d10 + 4|text(37) (6d10 + 4) bludgeoning damage."
+- "desc": "Ranged Weapon Attack: +8 to hit, range 60 ft./240 ft., one target. Hit:\
+    \ 37 (6d10 + 4) bludgeoning damage."
   "name": "Rock"
 "source":
 - "MPMM"

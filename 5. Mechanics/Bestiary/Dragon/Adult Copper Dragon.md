@@ -117,14 +117,14 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "desc": "The dragon can use its Frightful Presence. It then makes three attacks:\
     \ one with its bite and two with its claws."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+11 (+11) to hit, reach 10 ft., one\
-    \ target. Hit: dice:2d10 + 6|text(17) (2d10 + 6) piercing damage."
+- "desc": "Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 17\
+    \ (2d10 + 6) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+11 (+11) to hit, reach 5 ft., one\
-    \ target. Hit: dice:2d6 + 6|text(13) (2d6 + 6) slashing damage."
+- "desc": "Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 13 (2d6\
+    \ + 6) slashing damage."
   "name": "Claw"
-- "desc": "Melee Weapon Attack: dice: d20+11 (+11) to hit, reach 15 ft., one\
-    \ target. Hit: dice:2d8 + 6|text(15) (2d8 + 6) bludgeoning damage."
+- "desc": "Melee Weapon Attack: +11 to hit, reach 15 ft., one target. Hit: 15\
+    \ (2d8 + 6) bludgeoning damage."
   "name": "Tail"
 - "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
     \ and aware of it must succeed on a DC 16 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
@@ -135,15 +135,15 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   "name": "Frightful Presence"
 - "desc": "The dragon uses one of the following breath weapons.\n\n- Acid Breath.\
     \ The dragon exhales acid in a 60-foot line that is 5 feet wide. Each creature\
-    \ in that line must make a DC 18 Dexterity saving throw, taking dice:12d8|text(54)\
-    \ (12d8) acid damage on a failed save, or half as much damage on a successful\
-    \ one.  \n- Slowing Breath. The dragon exhales gas in a 60-foot cone. Each\
-    \ creature in that area must succeed on a DC 18 Constitution saving throw. On\
-    \ a failed save, the creature can't use reactions, its speed is halved, and it\
-    \ can't make more than one attack on its turn. In addition, the creature can use\
-    \ either an action or a bonus action on its turn, but not both. These effects\
-    \ last for 1 minute. The creature can repeat the saving throw at the end of each\
-    \ of its turns, ending the effect on itself with a successful save.  "
+    \ in that line must make a DC 18 Dexterity saving throw, taking 54 (12d8) acid\
+    \ damage on a failed save, or half as much damage on a successful one.  \n- Slowing\
+    \ Breath. The dragon exhales gas in a 60-foot cone. Each creature in that area\
+    \ must succeed on a DC 18 Constitution saving throw. On a failed save, the creature\
+    \ can't use reactions, its speed is halved, and it can't make more than one attack\
+    \ on its turn. In addition, the creature can use either an action or a bonus action\
+    \ on its turn, but not both. These effects last for 1 minute. The creature can\
+    \ repeat the saving throw at the end of each of its turns, ending the effect on\
+    \ itself with a successful save.  "
   "name": "Breath Weapons (Recharge 5-6)"
 "legendary_actions":
 - "desc": "The dragon makes a Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
@@ -152,9 +152,9 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "desc": "The dragon makes a tail attack."
   "name": "Tail Attack"
 - "desc": "The dragon beats its wings. Each creature within 10 feet of the dragon\
-    \ must succeed on a DC 19 Dexterity saving throw or take dice:2d6 + 6|text(13)\
-    \ (2d6 + 6) bludgeoning damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
-    \ The dragon can then fly up to half its flying speed."
+    \ must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning\
+    \ damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]. The dragon\
+    \ can then fly up to half its flying speed."
   "name": "Wing Attack (Costs 2 Actions)"
 "lair_actions":
 - "desc": "On initiative count 20 (losing initiative ties), the dragon takes a lair\
@@ -198,8 +198,8 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \  \n- Intelligent creatures within 1 mile of the dragon's lair are prone to fits\
     \ of giggling. Even serious matters suddenly seem amusing.  "
   "name": ""
-- "desc": "If the dragon dies, the magic carvings fade over the course of dice: 1d10|avg|noform\
-    \ (1d10) days. The other effects end immediately."
+- "desc": "If the dragon dies, the magic carvings fade over the course of 1d10 days.\
+    \ The other effects end immediately."
   "name": ""
 - "desc": "Either of these effects might appear in the area around a copper dragon's\
     \ lair, in addition to or instead of the effects described in the Monster Manual:\n\

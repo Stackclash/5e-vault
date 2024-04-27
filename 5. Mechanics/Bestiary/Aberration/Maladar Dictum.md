@@ -68,26 +68,24 @@ If you really want to see things get out of control very quickly, watch Maladar 
 - "desc": "Maladar is immune to any spell or effect that would alter his form."
   "name": "Formless Shape"
 - "desc": "Each time Maladar takes damage in combat, his arm grows another limb, increasing\
-    \ the damage of his Smash attack by dice: 1d8|avg|noform (1d8). There is no\
-    \ limit to the number of limbs, tentacles, and claws Maladar can grow this way."
+    \ the damage of his Smash attack by 1d8. There is no limit to the number of limbs,\
+    \ tentacles, and claws Maladar can grow this way."
   "name": "Reform"
 "actions":
 - "desc": "Maladar makes two attacks with Changer plus one smash attack."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d6 + 5|text(12) (2d6 + 5) slashing damage plus dice:2d6|text(7)\
-    \ (2d6) necrotic damage."
+- "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 12 (2d6\
+    \ + 5) slashing damage plus 7 (2d6) necrotic damage."
   "name": "Changer (Greatsword)"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 10 ft., one target.\
-    \ Hit: dice:2d8 + 5|text(14) (2d8 + 5) bludgeoning damage."
+- "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 14 (2d8\
+    \ + 5) bludgeoning damage."
   "name": "Smash"
 - "desc": "Maladar Dictum has a 50% chance of summoning a member of his court in an\
-    \ adjacent unoccupied space. If successful, roll a dice: d12|avg|noform (d12)\
-    \ and consult the below chart. Each member of his court may only be summoned once\
-    \ per day in this manner. If the same member is summoned twice, nothing happens.\n\
-    \ndice: [[Maladar Dictum.md#^member-summoned]]\n\n| dice: d12 | Member Summoned\
-    \ |\n|-----------|-----------------|\n| 1-4 | [[4. World Almanac/NPCs/Baron Malgas.md|Baron Malgas]]\
-    \ |\n| 5-7 | [[4. World Almanac/NPCs/Korsoth Vastikan.md|Korsoth Vastikan]]\
+    \ adjacent unoccupied space. If successful, roll a d12 and consult the below chart.\
+    \ Each member of his court may only be summoned once per day in this manner. If\
+    \ the same member is summoned twice, nothing happens.\n\ndice: [[Maladar Dictum.md#^member-summoned]]\n\
+    \n| dice: d12 | Member Summoned |\n|-----------|-----------------|\n| 1-4 | [[4. World Almanac/NPCs/Baron Malgas.md|Baron\
+    \ Malgas]] |\n| 5-7 | [[4. World Almanac/NPCs/Korsoth Vastikan.md|Korsoth Vastikan]]\
     \ |\n| 8-9 | [[4. World Almanac/NPCs/The Queen Of Bones.md|The Queen of Bones]]\
     \ |\n| 10-11 | [[4. World Almanac/NPCs/Lord Rall.md|Lord Rall]] |\n| 12 |\
     \ [[4. World Almanac/NPCs/Uursovk.md|Uursovk]] |\n^member-summoned"

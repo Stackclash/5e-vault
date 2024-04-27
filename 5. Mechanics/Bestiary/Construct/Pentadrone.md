@@ -79,8 +79,8 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
 "actions":
 - "desc": "The pentadrone makes five arm attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d6 + 2|text(5) (1d6 + 2) bludgeoning damage."
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+    \ + 2) bludgeoning damage."
   "name": "Arm"
 - "desc": "The pentadrone exhales a 30-foot cone of gas. Each creature in that area\
     \ must succeed on a DC 11 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\

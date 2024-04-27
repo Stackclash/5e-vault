@@ -64,8 +64,8 @@ An animated object doesn't require air, food, drink, or sleep. The magic that an
 "actions":
 - "desc": "The armor makes two melee attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d6 + 2|text(5) (1d6 + 2) bludgeoning damage."
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+    \ + 2) bludgeoning damage."
   "name": "Slam"
 "source":
 - "MM"

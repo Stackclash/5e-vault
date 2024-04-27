@@ -45,8 +45,8 @@ Smaller than a giant shark but larger and fiercer than a reef shark, a hunter sh
 - "desc": "The shark can breathe only underwater."
   "name": "Water Breathing"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d8 + 4|text(13) (2d8 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8\
+    \ + 4) piercing damage."
   "name": "Bite"
 "source":
 - "MM"

@@ -78,12 +78,11 @@ Luthic, the orc goddess of fertility and wife of Gruumsh, demands that orcs proc
     \ that it can see."
   "name": "Aggressive"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d12 + 3|text(9) (1d12 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 9 (1d12\
+    \ + 3) slashing damage."
   "name": "Greataxe"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft.\
-    \ or range 30/120 ft., one target. Hit: dice:1d6 + 3|text(6) (1d6 + 3) piercing\
-    \ damage."
+- "desc": "Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 30/120\
+    \ ft., one target. Hit: 6 (1d6 + 3) piercing damage."
   "name": "Javelin"
 "source":
 - "MM"

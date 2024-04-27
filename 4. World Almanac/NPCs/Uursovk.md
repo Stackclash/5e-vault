@@ -173,11 +173,11 @@ await dv.view("npcRelationships", { current: dv.current() })
 "actions":
 - "desc": "Uursovk makes three attacks with bite or three attacks with bone spine."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 5 ft., one creature.\
-    \ Hit: dice:1d10 + 5|text(10) (1d10 + 5) piercing damage."
+- "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one creature. Hit: 10\
+    \ (1d10 + 5) piercing damage."
   "name": "Bite"
-- "desc": "Ranged Weapon Attack: dice: d20+6 (+6) to hit, range 60/180 ft.,\
-    \ one target. Hit: dice:2d8 + 2|text(11) (2d8 + 2) piercing damage."
+- "desc": "Ranged Weapon Attack: +6 to hit, range 60/180 ft., one target. Hit:\
+    \ 11 (2d8 + 2) piercing damage."
   "name": "Bone Spine"
 - "desc": "Uursovk targets two adjacent creatures, who must each make a DC 16 Constitution\
     \ saving throw. If both fail, they meld into one gestalt entity, shedding any\

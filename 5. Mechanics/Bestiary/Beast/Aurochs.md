@@ -44,12 +44,11 @@ Many kinds of cattle roam the multiverse, some of them domesticated and others f
 "languages": ""
 "cr": "2"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d8 + 5|text(14) (2d8 + 5) piercing damage. If the aurochs moved\
-    \ at least 20 feet straight toward the target immediately before the hit, the\
-    \ target takes an extra dice:2d8|text(9) (2d8) piercing damage, and the target\
-    \ must succeed on a DC 15 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]\
-    \ if it is a creature."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (2d8\
+    \ + 5) piercing damage. If the aurochs moved at least 20 feet straight toward\
+    \ the target immediately before the hit, the target takes an extra 9 (2d8) piercing\
+    \ damage, and the target must succeed on a DC 15 Strength saving throw or be knocked\
+    \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]] if it is a creature."
   "name": "Gore"
 "source":
 - "MPMM"

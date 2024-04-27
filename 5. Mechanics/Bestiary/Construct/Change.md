@@ -59,9 +59,8 @@ Change is more versatile than its simpler cousins. Its javelin grants it facilit
 "actions":
 - "desc": "Change makes three javelin attacks."
   "name": "Multiattack"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft.\
-    \ or range 30/120 ft., one target. Hit: dice:2d8 + 3|text(12) (2d8 + 3)\
-    \ piercing damage."
+- "desc": "Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 30/120\
+    \ ft., one target. Hit: 12 (2d8 + 3) piercing damage."
   "name": "Javelin"
 "source":
 - "SaF"

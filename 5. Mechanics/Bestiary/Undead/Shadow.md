@@ -67,13 +67,11 @@ A shadow doesn't require air, food, drink, or sleep
     \ checks, and saving throws."
   "name": "Sunlight Weakness"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one creature.\
-    \ Hit: dice:2d6 + 2|text(9) (2d6 + 2) necrotic damage, and the target's\
-    \ Strength score is reduced by dice: 1d4|avg|noform (1d4). The target dies\
-    \ if this reduces its Strength to 0. Otherwise, the reduction lasts until the\
-    \ target finishes a short or long rest.\n\nIf a non-evil humanoid dies from this\
-    \ attack, a new shadow rises from the corpse dice: 1d4|avg|noform (1d4) hours\
-    \ later."
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 9 (2d6\
+    \ + 2) necrotic damage, and the target's Strength score is reduced by 1d4. The\
+    \ target dies if this reduces its Strength to 0. Otherwise, the reduction lasts\
+    \ until the target finishes a short or long rest.\n\nIf a non-evil humanoid dies\
+    \ from this attack, a new shadow rises from the corpse 1d4 hours later."
   "name": "Strength Drain"
 "source":
 - "MM"

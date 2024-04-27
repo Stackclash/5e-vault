@@ -62,11 +62,11 @@ Raxivort spent centuries watching over the treasury of Graz'zt, and in time, Rax
 "actions":
 - "desc": "The xvart makes two Scimitar or Raxivort's Bite attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d6 + 2|text(5) (1d6 + 2) slashing damage."
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+    \ + 2) slashing damage."
   "name": "Scimitar"
-- "desc": "Ranged Spell Attack: dice: d20+3 (+3) to hit, range 30 ft., one creature.\
-    \ Hit: dice:1d10 + 2|text(7) (1d10 + 2) poison damage."
+- "desc": "Ranged Spell Attack: +3 to hit, range 30 ft., one creature. Hit: 7\
+    \ (1d10 + 2) poison damage."
   "name": "Raxivort's Bite"
 "bonus_actions":
 - "desc": "The xvart takes the [[/5. Mechanics/Rules/Actions.md#Disengage|Disengage]]\

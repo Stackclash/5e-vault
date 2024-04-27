@@ -59,9 +59,8 @@ Among the types of horror adventures detailed in "chapter 2", tales of uncontrol
 "cr": "6"
 "traits":
 - "desc": "Any creature that starts its turn within 10 feet of the zombie must succeed\
-    \ on a DC 14 Constitution saving throw or take dice:2d8|text(9) (2d8) poison\
-    \ damage and be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] until the\
-    \ start of the creature's next turn."
+    \ on a DC 14 Constitution saving throw or take 9 (2d8) poison damage and be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ until the start of the creature's next turn."
   "name": "Deathly Stench"
 - "desc": "If damage reduces the zombie to 0 hit points, it must make a Constitution\
     \ saving throw with a DC of 5 + the damage taken, unless the damage is radiant\
@@ -72,19 +71,18 @@ Among the types of horror adventures detailed in "chapter 2", tales of uncontrol
 "actions":
 - "desc": "The zombie makes two Slam attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 10 ft., one target.\
-    \ Hit: dice:3d8 + 5|text(18) (3d8 + 5) bludgeoning damage."
+- "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 18 (3d8\
+    \ + 5) bludgeoning damage."
   "name": "Slam"
 - "desc": "The zombie flings a detached clump of corpses at a creature it can see\
     \ within 30 feet of it. The target must succeed on a DC 16 Strength saving throw\
-    \ or take dice:3d10|text(16) (3d10) bludgeoning damage, and if the target\
-    \ is a Large or smaller creature, it becomes entombed in dead flesh.\n\nA creature\
-    \ entombed in the dead flesh is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
-    \ has total cover against attacks and other effects outside the dead flesh, and\
-    \ takes dice:3d6|text(10) (3d6) necrotic damage at the start of each of its\
-    \ turns. The creature can be freed if the dead flesh is destroyed. The dead flesh\
-    \ is a Large object with AC 10, 25 hit points, and immunity to poison and psychic\
-    \ damage."
+    \ or take 16 (3d10) bludgeoning damage, and if the target is a Large or smaller\
+    \ creature, it becomes entombed in dead flesh.\n\nA creature entombed in the dead\
+    \ flesh is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]], has total\
+    \ cover against attacks and other effects outside the dead flesh, and takes 10\
+    \ (3d6) necrotic damage at the start of each of its turns. The creature can be\
+    \ freed if the dead flesh is destroyed. The dead flesh is a Large object with\
+    \ AC 10, 25 hit points, and immunity to poison and psychic damage."
   "name": "Flesh Entomb (Recharge 5-6)"
 "source":
 - "VRGR"

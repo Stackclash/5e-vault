@@ -230,13 +230,12 @@ Demonologists organize the chaotic distribution of demons into broad categories 
     \ without needing to make an ability check."
   "name": "Spider Climb"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one creature.\
-    \ Hit: dice:4d6 + 2|text(16) (4d6 + 2) piercing damage plus dice:7d6|text(24)\
-    \ (7d6) necrotic damage, and the target's hit point maximum is reduced by an\
-    \ amount equal to the necrotic damage taken. If this effect reduces a creature's\
-    \ hit point maximum to 0, the creature dies. This reduction to a creature's hit\
-    \ point maximum lasts until the creature finishes a long rest or until it is affected\
-    \ by a spell like  [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 16\
+    \ (4d6 + 2) piercing damage plus 24 (7d6) necrotic damage, and the target's hit\
+    \ point maximum is reduced by an amount equal to the necrotic damage taken. If\
+    \ this effect reduces a creature's hit point maximum to 0, the creature dies.\
+    \ This reduction to a creature's hit point maximum lasts until the creature finishes\
+    \ a long rest or until it is affected by a spell like  [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]."
   "name": "Proboscis"
 "source":
 - "MM"

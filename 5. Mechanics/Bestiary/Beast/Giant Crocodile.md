@@ -42,16 +42,14 @@ aliases:
 "actions":
 - "desc": "The crocodile makes two attacks: one with its bite and one with its tail."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one target.\
-    \ Hit: dice:3d10 + 5|text(21) (3d10 + 5) piercing damage, and the target\
-    \ is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 16). Until\
-    \ this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+- "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 21 (3d10\
+    \ + 5) piercing damage, and the target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ (escape DC 16). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
     \ and the crocodile can't bite another target."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 10 ft., one target\
-    \ not [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] by the crocodile. Hit:\
-    \ dice:2d8 + 5|text(14) (2d8 + 5) bludgeoning damage. If the target is a creature,\
-    \ it must succeed on a DC 16 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+- "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target not [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ by the crocodile. Hit: 14 (2d8 + 5) bludgeoning damage. If the target is a\
+    \ creature, it must succeed on a DC 16 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Tail"
 "source":
 - "MM"

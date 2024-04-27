@@ -43,8 +43,8 @@ A blink dog takes its name from its ability to blink in and out of existence, a 
     \ checks that rely on hearing or smell."
   "name": "Keen Hearing and Smell"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d6 + 1|text(4) (1d6 + 1) piercing damage."
+- "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6\
+    \ + 1) piercing damage."
   "name": "Bite"
 - "desc": "The dog magically teleports, along with any equipment it is wearing or\
     \ carrying, up to 40 feet to an unoccupied space it can see. Before or after teleporting,\

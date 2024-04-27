@@ -46,16 +46,15 @@ Small numbers of these creatures sometimes make their way to the surface, often 
 "actions":
 - "desc": "The dolgrim makes three attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d8 + 2|text(6) (1d8 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8\
+    \ + 2) piercing damage."
   "name": "Morningstar"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice:1d6 + 2|text(5) (1d6 + 2) piercing\
-    \ damage, or dice:1d8 + 2|text(6) (1d8 + 2) piercing damage if used with two\
-    \ hands to make a melee attack."
+- "desc": "Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60\
+    \ ft., one target. Hit: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing\
+    \ damage if used with two hands to make a melee attack."
   "name": "Spear"
-- "desc": "Ranged Weapon Attack: dice: d20+4 (+4) to hit, range 30/120 ft.,\
-    \ one target. Hit: dice:1d6 + 2|text(5) (1d6 + 2) piercing damage."
+- "desc": "Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit:\
+    \ 5 (1d6 + 2) piercing damage."
   "name": "Hand Crossbow"
 "source":
 - "ERLW"

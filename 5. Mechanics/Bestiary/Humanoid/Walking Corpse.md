@@ -40,8 +40,8 @@ aliases:
     \ The snakes are hungry and fight until slain."
   "name": "Violent Death"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+2 (+2) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d4|text(2) (1d4) bludgeoning damage."
+- "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4)\
+    \ bludgeoning damage."
   "name": "Club"
 "source":
 - "CoS"

@@ -72,12 +72,11 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
 "actions":
 - "desc": "The abishai makes three Bite or Lightning Strike attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d10 + 2|text(13) (2d10 + 2) piercing damage plus dice:4d6|text(14)\
-    \ (4d6) lightning damage."
+- "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 13 (2d10\
+    \ + 2) piercing damage plus 14 (4d6) lightning damage."
   "name": "Bite"
-- "desc": "Ranged Spell Attack: dice: d20+12 (+12) to hit, range 120 ft., one\
-    \ target. Hit: dice:8d8|text(36) (8d8) lightning damage."
+- "desc": "Ranged Spell Attack: +12 to hit, range 120 ft., one target. Hit: 36\
+    \ (8d8) lightning damage."
   "name": "Lightning Strike"
 "bonus_actions":
 - "desc": "The abishai teleports, along with any equipment it is wearing or carrying,\

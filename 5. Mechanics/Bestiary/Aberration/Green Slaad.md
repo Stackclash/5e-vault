@@ -103,18 +103,17 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 - "desc": "The slaad makes three attacks: one with its bite and two with its claws\
     \ or staff. Alternatively, it uses its Hurl Flame twice."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6\
+    \ + 4) piercing damage."
   "name": "Bite (Slaad Form Only)"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d6 + 4|text(7) (1d6 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6\
+    \ + 4) slashing damage."
   "name": "Claw (Slaad Form Only)"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) bludgeoning damage."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6\
+    \ + 4) bludgeoning damage."
   "name": "Staff"
-- "desc": "Ranged Spell Attack: dice: d20+4 (+4) to hit, range 60 ft., one target.\
-    \ Hit: dice:3d6|text(10) (3d6) fire damage. The fire ignites flammable objects\
-    \ that aren't being worn or carried."
+- "desc": "Ranged Spell Attack: +4 to hit, range 60 ft., one target. Hit: 10 (3d6)\
+    \ fire damage. The fire ignites flammable objects that aren't being worn or carried."
   "name": "Hurl Flame"
 "source":
 - "MM"

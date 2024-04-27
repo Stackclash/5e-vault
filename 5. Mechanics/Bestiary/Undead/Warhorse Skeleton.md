@@ -64,8 +64,8 @@ A skeleton doesn't require air, food, drink, or sleep.
 "languages": ""
 "cr": "1/2"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) bludgeoning damage."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6\
+    \ + 4) bludgeoning damage."
   "name": "Hooves"
 "source":
 - "MM"

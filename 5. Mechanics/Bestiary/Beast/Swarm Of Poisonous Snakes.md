@@ -50,11 +50,10 @@ aliases:
     \ regain hit points or gain temporary hit points."
   "name": "Swarm"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 0 ft., one creature\
-    \ in the swarm's space. Hit: dice:2d6|text(7) (2d6) piercing damage, or\
-    \ dice:1d6|text(3) (1d6) piercing damage if the swarm has half of its hit\
-    \ points or fewer. The target must make a DC 10 Constitution saving throw, taking\
-    \ dice:4d6|text(14) (4d6) poison damage on a failed save, or half as much\
+- "desc": "Melee Weapon Attack: +6 to hit, reach 0 ft., one creature in the swarm's\
+    \ space. Hit: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm\
+    \ has half of its hit points or fewer. The target must make a DC 10 Constitution\
+    \ saving throw, taking 14 (4d6) poison damage on a failed save, or half as much\
     \ damage on a successful one."
   "name": "Bites"
 "source":

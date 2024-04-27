@@ -59,8 +59,8 @@ Each kind of homunculus has a body constructed from different kinds of materials
     \ telepathically."
   "name": "Telepathic Bond"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d4 + 3|text(5) (1d4 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4\
+    \ + 3) piercing damage."
   "name": "Bite"
 "source":
 - "ERLW"

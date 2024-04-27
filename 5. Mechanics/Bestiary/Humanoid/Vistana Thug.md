@@ -44,11 +44,11 @@ aliases:
 "actions":
 - "desc": "The thug makes two melee attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one creature.\
-    \ Hit: dice:1d6 + 2|text(5) (1d6 + 2) bludgeoning damage."
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5 (1d6\
+    \ + 2) bludgeoning damage."
   "name": "Mace"
-- "desc": "Ranged Weapon Attack: dice: d20+2 (+2) to hit, range 100/400 ft.,\
-    \ one target. Hit: dice:1d10|text(5) (1d10) piercing damage."
+- "desc": "Ranged Weapon Attack: +2 to hit, range 100/400 ft., one target. Hit:\
+    \ 5 (1d10) piercing damage."
   "name": "Heavy Crossbow"
 "source":
 - "CoS"

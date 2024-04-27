@@ -59,8 +59,8 @@ The fire mote has an instinctive awareness of which enemies on the battlefield r
 "actions":
 - "desc": "The mote makes three touch attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d8 + 3|text(7) (1d8 + 3) fire damage."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8\
+    \ + 3) fire damage."
   "name": "Touch"
 "source":
 - "SaF"

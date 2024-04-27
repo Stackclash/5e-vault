@@ -83,9 +83,9 @@ A unicorn's lair might be an ancient ruin overgrown with vines, a misty clearing
     \ evil and good]], [[5. Mechanics/Spells/Entangle.md|entangle]]"
   "name": "Innate Spellcasting"
 - "desc": "If the unicorn moves at least 20 feet straight toward a target and then\
-    \ hits it with a horn attack on the same turn, the target takes an extra dice:2d8|text(9)\
-    \ (2d8) piercing damage. If the target is a creature, it must succeed on a DC\
-    \ 15 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ hits it with a horn attack on the same turn, the target takes an extra 9 (2d8)\
+    \ piercing damage. If the target is a creature, it must succeed on a DC 15 Strength\
+    \ saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Charge"
 - "desc": "The unicorn has advantage on saving throws against spells and other magical\
     \ effects."
@@ -95,15 +95,15 @@ A unicorn's lair might be an ancient ruin overgrown with vines, a misty clearing
 "actions":
 - "desc": "The unicorn makes two attacks: one with its hooves and one with its horn."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) bludgeoning damage."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6\
+    \ + 4) bludgeoning damage."
   "name": "Hooves"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d8 + 4|text(8) (1d8 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8\
+    \ + 4) piercing damage."
   "name": "Horn"
 - "desc": "The unicorn touches another creature with its horn. The target magically\
-    \ regains dice:2d8 + 2|text(11) (2d8 + 2) hit points. In addition, the touch\
-    \ removes all diseases and neutralizes all poisons afflicting the target."
+    \ regains 11 (2d8 + 2) hit points. In addition, the touch removes all diseases\
+    \ and neutralizes all poisons afflicting the target."
   "name": "Healing Touch (3/Day)"
 - "desc": "The unicorn magically teleports itself and up to three willing creatures\
     \ it can see within 5 feet of it, along with any equipment they are wearing or\
@@ -116,7 +116,7 @@ A unicorn's lair might be an ancient ruin overgrown with vines, a misty clearing
     \ creature it can see within 60 feet of it. The target gains a +2 bonus to AC\
     \ until the end of the unicorn's next turn."
   "name": "Shimmering Shield (Costs 2 Actions)"
-- "desc": "The unicorn magically regains dice:2d8 + 2|text(11) (2d8 + 2) hit points."
+- "desc": "The unicorn magically regains 11 (2d8 + 2) hit points."
   "name": "Heal Self (Costs 3 Actions)"
 "regional_effects":
 - "desc": "Transformed by the creature's celestial presence, the domain of a unicorn\

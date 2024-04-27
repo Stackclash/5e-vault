@@ -178,15 +178,14 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 "actions":
 - "desc": "The devil makes three attacks: two with its claws and one with its sting."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 10 ft., one target.\
-    \ Hit: dice:1d8 + 4|text(8) (1d8 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 8 (1d8\
+    \ + 4) slashing damage."
   "name": "Claw"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 10 ft., one target.\
-    \ Hit: dice:2d8 + 4|text(13) (2d8 + 4) piercing damage plus dice:5d6|text(17)\
-    \ (5d6) poison damage, and the target must succeed on a DC 14 Constitution saving\
-    \ throw or become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for 1 minute.\
-    \ The target can repeat the saving throw at the end of each of its turns, ending\
-    \ the effect on itself on a success."
+- "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 13 (2d8\
+    \ + 4) piercing damage plus 17 (5d6) poison damage, and the target must succeed\
+    \ on a DC 14 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ for 1 minute. The target can repeat the saving throw at the end of each of its\
+    \ turns, ending the effect on itself on a success."
   "name": "Sting"
 "source":
 - "MM"

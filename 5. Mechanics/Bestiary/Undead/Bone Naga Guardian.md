@@ -60,10 +60,10 @@ A naga doesn't require air, food, drink, or sleep.
 "languages": "Common plus one other language"
 "cr": "4"
 "traits":
-- "desc": "The naga is a 5th-level spellcaster (spell save DC 12, dice: d20+4 (+4)\
-    \ to hit with spell attacks) that needs only verbal components to cast its spells.\
-    \ Its spellcasting ability is Wisdom, and it has the following cleric spells prepared:\n\
-    \nCantrips (at will): [[5. Mechanics/Spells/Mending.md|mending]], [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]],\
+- "desc": "The naga is a 5th-level spellcaster (spell save DC 12, +4 to hit with spell\
+    \ attacks) that needs only verbal components to cast its spells. Its spellcasting\
+    \ ability is Wisdom, and it has the following cleric spells prepared:\n\nCantrips\
+    \ (at will): [[5. Mechanics/Spells/Mending.md|mending]], [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]],\
     \ [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\n1st level (4 slots):\
     \ [[5. Mechanics/Spells/Command.md|command]], [[5. Mechanics/Spells/Shield Of Faith.md|shield of faith]]\n\
     \n2nd level (3 slots): [[5. Mechanics/Spells/Calm Emotions.md|calm emotions]],\
@@ -71,9 +71,8 @@ A naga doesn't require air, food, drink, or sleep.
     \ [[5. Mechanics/Spells/Bestow Curse.md|bestow curse]]"
   "name": "Spellcasting"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 10 ft., one creature.\
-    \ Hit: dice:2d6 + 3|text(10) (2d6 + 3) piercing damage plus dice:3d6|text(10)\
-    \ (3d6) poison damage."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 10 ft., one creature. Hit: 10\
+    \ (2d6 + 3) piercing damage plus 10 (3d6) poison damage."
   "name": "Bite"
 "source":
 - "MM"

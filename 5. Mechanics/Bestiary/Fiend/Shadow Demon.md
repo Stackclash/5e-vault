@@ -223,8 +223,8 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "cr": "4"
 "traits":
 - "desc": "The demon can move through other creatures and objects as if they were\
-    \ difficult terrain. It takes dice:1d10|text(5) (1d10) force damage if it\
-    \ ends its turn inside an object."
+    \ difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside\
+    \ an object."
   "name": "Incorporeal Movement"
 - "desc": "While in bright light, the demon has disadvantage on attack rolls, as well\
     \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that\
@@ -234,9 +234,9 @@ Demonologists organize the chaotic distribution of demons into broad categories 
     \ bonus action."
   "name": "Shadow Stealth"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one creature.\
-    \ Hit: dice:2d6 + 3|text(10) (2d6 + 3) psychic damage or, if the demon had\
-    \ advantage on the attack roll, dice:4d6 + 3|text(17) (4d6 + 3) psychic damage."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 10\
+    \ (2d6 + 3) psychic damage or, if the demon had advantage on the attack roll,\
+    \ 17 (4d6 + 3) psychic damage."
   "name": "Claws"
 "source":
 - "MM"

@@ -115,18 +115,17 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 "languages": "Draconic"
 "cr": "2"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d10 + 4|text(9) (1d10 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (1d10\
+    \ + 4) piercing damage."
   "name": "Bite"
 - "desc": "The dragon uses one of the following breath weapons.\n\n- Cold Breath.\
     \ The dragon exhales an icy blast in a 15-foot cone. Each creature in that area\
-    \ must make a DC 13 Constitution saving throw, taking dice:4d8|text(18) (4d8)\
-    \ cold damage on a failed save, or half as much damage on a successful one.  \n\
-    - Paralyzing Breath. The dragon exhales paralyzing gas in a 15-foot cone.\
-    \ Each creature in that area must succeed on a DC 13 Constitution saving throw\
-    \ or be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]] for 1 minute. A\
-    \ creature can repeat the saving throw at the end of each of its turns, ending\
-    \ the effect on itself on a success.  "
+    \ must make a DC 13 Constitution saving throw, taking 18 (4d8) cold damage on\
+    \ a failed save, or half as much damage on a successful one.  \n- Paralyzing\
+    \ Breath. The dragon exhales paralyzing gas in a 15-foot cone. Each creature\
+    \ in that area must succeed on a DC 13 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
+    \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
+    \ turns, ending the effect on itself on a success.  "
   "name": "Breath Weapons (Recharge 5-6)"
 "source":
 - "MM"

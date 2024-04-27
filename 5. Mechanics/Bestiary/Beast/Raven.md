@@ -44,8 +44,8 @@ aliases:
     \ check."
   "name": "Mimicry"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
-    \ Hit: 1 piercing damage."
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 1 piercing\
+    \ damage."
   "name": "Beak"
 "source":
 - "MM"

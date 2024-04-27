@@ -59,13 +59,13 @@ Creatures that ingest water corrupted by a wastrilith risk their very souls. Tho
     \ a current clears it away. Water in containers remains corrupted until it evaporates.\n\
     \nA creature that consumes this foul water or swims in it must make a DC 18 Constitution\
     \ saving throw. On a successful save, the creature is immune to the foul water\
-    \ for 24 hours. On a failed save, the creature takes dice:4d6|text(14) (4d6)\
-    \ poison damage and is [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for\
-    \ 1 minute. At the end of this time, the [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
-    \ creature must repeat the saving throw. On a failure, the creature takes dice:4d8|text(18)\
-    \ (4d8) poison damage and is [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
-    \ until it finishes a long rest.\n\nIf another demon drinks the foul water as\
-    \ an action, it gains dice:2d10|text(11) (2d10) temporary hit points."
+    \ for 24 hours. On a failed save, the creature takes 14 (4d6) poison damage and\
+    \ is [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for 1 minute. At the\
+    \ end of this time, the [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] creature\
+    \ must repeat the saving throw. On a failure, the creature takes 18 (4d8) poison\
+    \ damage and is [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] until it\
+    \ finishes a long rest.\n\nIf another demon drinks the foul water as an action,\
+    \ it gains 11 (2d10) temporary hit points."
   "name": "Corrupt Water"
 - "desc": "The wastrilith has advantage on saving throws against spells and other\
     \ magical effects."
@@ -74,17 +74,17 @@ Creatures that ingest water corrupted by a wastrilith risk their very souls. Tho
 - "desc": "The wastrilith makes one Bite attack and two Claw attacks, and it uses\
     \ Grasping Spout."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 10 ft., one target.\
-    \ Hit: dice:4d12 + 4|text(30) (4d12 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 30 (4d12\
+    \ + 4) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 10 ft., one target.\
-    \ Hit: dice:4d6 + 4|text(18) (4d6 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 18 (4d6\
+    \ + 4) slashing damage."
   "name": "Claws"
 - "desc": "The wastrilith magically launches a spout of water at one creature it can\
     \ see within 60 feet of it. The target must make a DC 17 Strength saving throw,\
-    \ and it has disadvantage if it's underwater. On a failed save, it takes dice:4d8\
-    \ + 4|text(22) (4d8 + 4) acid damage and is pulled up to 60 feet toward the\
-    \ wastrilith. On a successful save, it takes half as much damage and isn't pulled."
+    \ and it has disadvantage if it's underwater. On a failed save, it takes 22 (4d8\
+    \ + 4) acid damage and is pulled up to 60 feet toward the wastrilith. On a successful\
+    \ save, it takes half as much damage and isn't pulled."
   "name": "Grasping Spout"
 "bonus_actions":
 - "desc": "If the wastrilith is underwater, it causes all water within 60 feet of\

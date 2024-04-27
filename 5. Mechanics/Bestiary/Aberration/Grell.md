@@ -62,12 +62,12 @@ A grell will sometimes allow adventurers to wage war on the other monstrous inha
 "actions":
 - "desc": "The grell makes two attacks: one with its tentacles and one with its beak."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 10 ft., one creature.\
-    \ Hit: dice:1d10 + 2|text(7) (1d10 + 2) piercing damage, and the target\
-    \ must succeed on a DC 11 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
-    \ for 1 minute. The [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] target\
-    \ is [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], and it can repeat\
-    \ the saving throw at the end of each of its turns, ending the effect on a success.\n\
+- "desc": "Melee Weapon Attack: +4 to hit, reach 10 ft., one creature. Hit: 7\
+    \ (1d10 + 2) piercing damage, and the target must succeed on a DC 11 Constitution\
+    \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for\
+    \ 1 minute. The [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] target is\
+    \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], and it can repeat the\
+    \ saving throw at the end of each of its turns, ending the effect on a success.\n\
     \nThe target is also [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape\
     \ DC 15). If the target is Medium or smaller, it is also [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
     \ until this grapple ends. While grappling the target, the grell has advantage\
@@ -75,8 +75,8 @@ A grell will sometimes allow adventurers to wage war on the other monstrous inha
     \ When the grell moves, any Medium or smaller target it is grappling moves with\
     \ it."
   "name": "Tentacles"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d4 + 2|text(7) (2d4 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4\
+    \ + 2) piercing damage."
   "name": "Beak"
 "source":
 - "MM"

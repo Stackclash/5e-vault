@@ -57,10 +57,9 @@ aliases:
     \ hit points or gain temporary hit points."
   "name": "Swarm"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 0 ft., one creature\
-    \ in the swarm's space. Hit: dice:2d4|text(5) (2d4) piercing damage, or\
-    \ dice:1d4|text(2) (1d4) piercing damage if the swarm has half of its hit\
-    \ points or fewer."
+- "desc": "Melee Weapon Attack: +4 to hit, reach 0 ft., one creature in the swarm's\
+    \ space. Hit: 5 (2d4) piercing damage, or 2 (1d4) piercing damage if the swarm\
+    \ has half of its hit points or fewer."
   "name": "Bites"
 "source":
 - "MM"

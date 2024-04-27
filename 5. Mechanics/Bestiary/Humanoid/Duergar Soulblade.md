@@ -69,9 +69,8 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
     \ rely on sight."
   "name": "Sunlight Sensitivity"
 "actions":
-- "desc": "Melee Spell Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d6 + 3|text(10) (2d6 + 3) force damage, or dice:3d6 + 3|text(13)\
-    \ (3d6 + 3) force damage while under the effect of Enlarge."
+- "desc": "Melee Spell Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6\
+    \ + 3) force damage, or 13 (3d6 + 3) force damage while under the effect of Enlarge."
   "name": "Soulblade"
 - "desc": "The duergar magically turns [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]]\
     \ for up to 1 hour or until it attacks, it forces a creature to make a saving\

@@ -78,15 +78,15 @@ Covered from head to tail in layers of thick, spiked plates, a dreadnought has t
 "actions":
 - "desc": "The dreadnought makes one Bite attack and two Claw attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+16 (+16) to hit, reach 10 ft., one\
-    \ target. Hit: dice:5d10 + 9|text(36) (5d10 + 9) force damage. If the target\
-    \ is a Huge or smaller creature and this damage reduces it to 0 hit points or\
-    \ it is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]], the dreadnought\
-    \ swallows it. The swallowed target, along with everything it is wearing and carrying,\
-    \ appears in an unoccupied space on the floor of the Demiplanar Donjon."
+- "desc": "Melee Weapon Attack: +16 to hit, reach 10 ft., one target. Hit: 36\
+    \ (5d10 + 9) force damage. If the target is a Huge or smaller creature and this\
+    \ damage reduces it to 0 hit points or it is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]],\
+    \ the dreadnought swallows it. The swallowed target, along with everything it\
+    \ is wearing and carrying, appears in an unoccupied space on the floor of the\
+    \ Demiplanar Donjon."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+16 (+16) to hit, reach 20 ft., one\
-    \ target. Hit: dice:3d6 + 9|text(19) (3d6 + 9) force damage."
+- "desc": "Melee Weapon Attack: +16 to hit, reach 20 ft., one target. Hit: 19\
+    \ (3d6 + 9) force damage."
   "name": "Claw"
 "legendary_actions":
 - "desc": "The dreadnought makes one Claw attack."
@@ -98,8 +98,8 @@ Covered from head to tail in layers of thick, spiked plates, a dreadnought has t
     \ that space is occupied."
   "name": "Donjon Visit (Costs 2 Actions)"
 - "desc": "Each creature within 60 feet of the dreadnought must make a DC 19 Wisdom\
-    \ saving throw, taking dice:4d10 + 4|text(26) (4d10 + 4) psychic damage on\
-    \ a failed save, or half as much damage on a successful one."
+    \ saving throw, taking 26 (4d10 + 4) psychic damage on a failed save, or half\
+    \ as much damage on a successful one."
   "name": "Psychic Projection (Costs 3 Actions)"
 "source":
 - "MPMM"

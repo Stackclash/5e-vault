@@ -153,8 +153,8 @@ await dv.view("npcRelationships", { current: dv.current() })
 "cr": "8"
 "traits":
 - "desc": "Lord Rall is a 10th-level spellcaster. His spellcasting ability is Intelligence\
-    \ (spell save DC 16, dice: d20+8 (+8) to hit with spell attacks). He has the\
-    \ following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
+    \ (spell save DC 16, +8 to hit with spell attacks). He has the following wizard\
+    \ spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
     \ [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]], [[5. Mechanics/Spells/Ray Of Frost.md|ray of frost]]\n\
     \n1st level (4 slots): [[5. Mechanics/Spells/Mage Armor.md|mage armor]], [[5. Mechanics/Spells/Magic Missile.md|magic\
     \ missile]], [[5. Mechanics/Spells/Sleep.md|sleep]]\n\
@@ -183,9 +183,9 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ a DC of 16. Lord Rall does not need to concentrate on this spell to maintain\
     \ it."
   "name": "The Staff of Changing (Recharge 5-6)"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d6 + 1|text(8) (2d6 + 1) bludgeoning damage, or dice:2d8 +\
-    \ 1|text(10) (2d8 + 1) bludgeoning damage if wielded with two hands."
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 8 (2d6\
+    \ + 1) bludgeoning damage, or 10 (2d8 + 1) bludgeoning damage if wielded with\
+    \ two hands."
   "name": "Greatstaff"
 - "desc": "When he drops to 0 hit points, Lord Rall can reform himself from any corpse\
     \ within 120 feet instead of falling [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]].\

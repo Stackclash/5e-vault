@@ -43,11 +43,11 @@ Ogres love to rush headlong into battle, but with enough time and patience, some
 "languages": "Common, Giant"
 "cr": "2"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d4 + 4|text(9) (2d4 + 4) bludgeoning damage."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d4\
+    \ + 4) bludgeoning damage."
   "name": "Fist"
-- "desc": "Ranged Weapon Attack: dice: d20+3 (+3) to hit, range 120/480 ft.,\
-    \ one target. Hit: dice:3d10 + 1|text(17) (3d10 + 1) piercing damage."
+- "desc": "Ranged Weapon Attack: +3 to hit, range 120/480 ft., one target. Hit:\
+    \ 17 (3d10 + 1) piercing damage."
   "name": "Bolt Launcher"
 "source":
 - "MPMM"

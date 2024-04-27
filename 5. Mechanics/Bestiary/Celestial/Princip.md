@@ -73,8 +73,7 @@ Um, what? The endless what now? Well, it tried. It probably means, "You're gonna
     \ [[5. Mechanics/Spells/Stoneskin.md|stoneskin]]"
   "name": "Innate Spellcasting"
 - "desc": "The princip's weapon attacks are magical. When the princip hits with any\
-    \ weapon, the weapon deals an extra dice:2d8|text(9) (2d8) radiant damage\
-    \ (included in the attack)."
+    \ weapon, the weapon deals an extra 9 (2d8) radiant damage (included in the attack)."
   "name": "Angelic Weapons"
 - "desc": "The princip has advantage on saving throws against spells and other magical\
     \ effects from evil characters and sources."
@@ -89,9 +88,8 @@ Um, what? The endless what now? Well, it tried. It probably means, "You're gonna
 "actions":
 - "desc": "The princip makes three attacks with the Scepter of Celestial Will."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d8 + 3|text(12) (2d8 + 3) bludgeoning damage and dice:2d8|text(9)\
-    \ (2d8) radiant damage."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12 (2d8\
+    \ + 3) bludgeoning damage and 9 (2d8) radiant damage."
   "name": "Scepter of Celestial Will"
 - "desc": "The princip selects an ally. A golden crown appears over the ally's head.\
     \ While the crown remains, the ally cannot be compelled to act in a manner contrary\

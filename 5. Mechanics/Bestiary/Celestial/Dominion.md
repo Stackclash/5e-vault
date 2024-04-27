@@ -58,8 +58,7 @@ Obviously it should focus on those enemies adjacent to one or more of your allie
 "cr": "8"
 "traits":
 - "desc": "The dominion's Ray of Salvation is magical. When the dominion hits with\
-    \ it, the ray deals an extra dice:2d8|text(9) (2d8) radiant damage (included\
-    \ in the attack)."
+    \ it, the ray deals an extra 9 (2d8) radiant damage (included in the attack)."
   "name": "Angelic Weapons"
 - "desc": "The dominion has advantage on saving throws against spells and other magical\
     \ effects from evil characters and sources."
@@ -74,10 +73,9 @@ Obviously it should focus on those enemies adjacent to one or more of your allie
 "actions":
 - "desc": "The dominion makes two attacks with the Ray of Salvation."
   "name": "Multiattack"
-- "desc": "Ranged Spell Attack: dice: d20+7 (+7) to hit, range 60 ft., one target.\
-    \ Hit: dice:3d6|text(10) (3d6) fire damage and dice:2d8|text(9) (2d8)\
-    \ radiant damage. If the ray does damage, any allies adjacent to the target gain\
-    \ 10 temporary hit points."
+- "desc": "Ranged Spell Attack: +7 to hit, range 60 ft., one target. Hit: 10 (3d6)\
+    \ fire damage and 9 (2d8) radiant damage. If the ray does damage, any allies adjacent\
+    \ to the target gain 10 temporary hit points."
   "name": "Ray of Salvation"
 "source":
 - "SaF"

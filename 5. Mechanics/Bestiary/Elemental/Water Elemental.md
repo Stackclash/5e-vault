@@ -75,20 +75,20 @@ An elemental doesn't require air, food, drink, or sleep.
 "actions":
 - "desc": "The elemental makes two slam attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d8 + 4|text(13) (2d8 + 4) bludgeoning damage."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8\
+    \ + 4) bludgeoning damage."
   "name": "Slam"
 - "desc": "Each creature in the elemental's space must make a DC 15 Strength saving\
-    \ throw. On a failure, a target takes dice:2d8 + 4|text(13) (2d8 + 4) bludgeoning\
-    \ damage. If it is Large or smaller, it is also [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ throw. On a failure, a target takes 13 (2d8 + 4) bludgeoning damage. If it is\
+    \ Large or smaller, it is also [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ (escape DC 14). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
     \ and unable to breathe unless it can breathe water. If the saving throw is successful,\
     \ the target is pushed out of the elemental's space.\n\nThe elemental can grapple\
     \ one Large creature or up to two Medium or smaller creatures at one time. At\
     \ the start of each of the elemental's turns, each target [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ by it takes dice:2d8 + 4|text(13) (2d8 + 4) bludgeoning damage. A creature\
-    \ within 5 feet of the elemental can pull a creature or object out of it by taking\
-    \ an action to make a DC 14 Strength check and succeeding."
+    \ by it takes 13 (2d8 + 4) bludgeoning damage. A creature within 5 feet of the\
+    \ elemental can pull a creature or object out of it by taking an action to make\
+    \ a DC 14 Strength check and succeeding."
   "name": "Whelm (Recharge 4-6)"
 "source":
 - "MM"

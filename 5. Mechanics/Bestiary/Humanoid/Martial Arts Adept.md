@@ -65,23 +65,21 @@ Some martial artists adorn themselves with tattoos to honor inspirations or inst
 "actions":
 - "desc": "The adept makes three Unarmed Strike attacks or five Dart attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d8 + 3|text(7) (1d8 + 3) bludgeoning damage. Once per turn,\
-    \ the adept can cause one of the following additional effects (choose one or roll\
-    \ a dice: d4|avg|noform (d4)):\n\n- 1–2 Knock Down.. The target must succeed\
-    \ on a DC 13 Dexterity saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8\
+    \ + 3) bludgeoning damage. Once per turn, the adept can cause one of the following\
+    \ additional effects (choose one or roll a d4):\n\n- 1–2 Knock Down.. The\
+    \ target must succeed on a DC 13 Dexterity saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
     \  \n- 3–4 Push.. The target must succeed on a DC 13 Strength saving throw\
     \ or be pushed up to 10 feet directly away from the adept.  "
   "name": "Unarmed Strike"
-- "desc": "Ranged Weapon Attack: dice: d20+5 (+5) to hit, range 20/60 ft., one\
-    \ target. Hit: dice:1d4 + 3|text(5) (1d4 + 3) piercing damage."
+- "desc": "Ranged Weapon Attack: +5 to hit, range 20/60 ft., one target. Hit:\
+    \ 5 (1d4 + 3) piercing damage."
   "name": "Dart"
 "reactions":
 - "desc": "In response to being hit by a ranged weapon attack, the adept deflects\
-    \ the missile. The damage it takes from the attack is reduced by dice: 1d10 +\
-    \ 3|avg|noform (1d10 + 3). If the damage is reduced to 0, the adept catches\
-    \ the missile if it's small enough to hold in one hand and the adept has a hand\
-    \ free."
+    \ the missile. The damage it takes from the attack is reduced by 1d10 + 3. If\
+    \ the damage is reduced to 0, the adept catches the missile if it's small enough\
+    \ to hold in one hand and the adept has a hand free."
   "name": "Deflect Missile"
 "source":
 - "MPMM"

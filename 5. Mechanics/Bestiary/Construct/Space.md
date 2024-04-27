@@ -57,8 +57,8 @@ Space is the light infantry of the Inexorables, and pretty easy to use in combat
 "actions":
 - "desc": "Space makes three slam attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d8 + 3|text(12) (2d8 + 3) bludgeoning damage."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12 (2d8\
+    \ + 3) bludgeoning damage."
   "name": "Slam"
 "source":
 - "SaF"

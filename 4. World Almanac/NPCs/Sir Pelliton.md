@@ -146,10 +146,10 @@ await dv.view("npcRelationships", { current: dv.current() })
 - "desc": "Sir Pelliton has gained the power to cast dark magic. All spells he casts\
     \ with this feature are cast as if using a 5th-level spell slot, and he casts\
     \ cantrips as if he were an 11th-level warlock. His spellcasting ability is Wisdom\
-    \ (DC 16, dice: d20+8 (+8) to hit with spell attacks).\n\nAt will: [[5. Mechanics/Spells/Acid Splash.md|acid\
-    \ splash]], [[5. Mechanics/Spells/Eldritch Blast.md|eldritch blast]]\
-    \ (3 beams), [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]], [[5. Mechanics/Spells/Hellish Rebuke.md|hellish rebuke]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Cone Of Cold.md|cone of cold]], [[5. Mechanics/Spells/Eyebite.md|eyebite]],\
+    \ (DC 16, +8 to hit with spell attacks).\n\nAt will: [[5. Mechanics/Spells/Acid Splash.md|acid splash]],\
+    \ [[5. Mechanics/Spells/Eldritch Blast.md|eldritch blast]] (3 beams), [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]],\
+    \ [[5. Mechanics/Spells/Hellish Rebuke.md|hellish rebuke]]\n\n1/day each: [[5. Mechanics/Spells/Cone Of Cold.md|cone\
+    \ of cold]], [[5. Mechanics/Spells/Eyebite.md|eyebite]],\
     \ [[5. Mechanics/Spells/Mass Suggestion.md|mass suggestion]]\n\nUnknown: [[5. Mechanics/Spells/Branding Smite.md|branding\
     \ smite]], [[5. Mechanics/Spells/Evards Black Tentacles.md|black tentacles]],\
     \ [[5. Mechanics/Spells/Counterspell.md|counterspell]], [[5. Mechanics/Spells/Dimension Door.md|dimension door]],\
@@ -167,12 +167,11 @@ await dv.view("npcRelationships", { current: dv.current() })
 - "desc": "Sir Pelliton makes three melee attacks or makes two melee attacks and casts\
     \ eldritch blast."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d8 + 4|text(8) (1d8 + 4) slashing damage plus dice:1d6|text(3)\
-    \ (1d6) cold damage."
+- "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 8 (1d8\
+    \ + 4) slashing damage plus 3 (1d6) cold damage."
   "name": "Frost Brand Longsword"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 10 ft., one target.\
-    \ Hit: dice:1d12 + 4|text(10) (1d12 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 10 (1d12\
+    \ + 4) piercing damage."
   "name": "Lance"
 "reactions":
 - "desc": "As a reaction, when a minion dies, issue a command to your other minions.\

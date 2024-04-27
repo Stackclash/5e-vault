@@ -37,13 +37,12 @@ aliases:
 "languages": ""
 "cr": "1/4"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one creature.\
-    \ Hit: dice:1d6 + 2|text(5) (1d6 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5 (1d6\
+    \ + 2) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one creature.\
-    \ Hit: dice:1d8 + 2|text(6) (1d8 + 2) bludgeoning damage, and the target\
-    \ is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 14). Until\
-    \ this grapple ends, the creature is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 6 (1d8\
+    \ + 2) bludgeoning damage, and the target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ (escape DC 14). Until this grapple ends, the creature is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
     \ and the snake can't constrict another target."
   "name": "Constrict"
 "source":

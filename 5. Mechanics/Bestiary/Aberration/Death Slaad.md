@@ -80,14 +80,13 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 "cr": "10"
 "traits":
 - "desc": "The slaad's innate spellcasting ability is Charisma (spell save DC 15,\
-    \ dice: d20+7 (+7) to hit with spell attacks). The slaad can innately cast\
-    \ the following spells, requiring no material components:\n\nAt will: [[5. Mechanics/Spells/Detect Magic.md|detect\
-    \ magic]], [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
-    \ [[5. Mechanics/Spells/Invisibility.md|invisibility]] (self only), [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
-    \ [[5. Mechanics/Spells/Major Image.md|major image]]\n\n1/day each: [[5. Mechanics/Spells/Cloudkill.md|cloudkill]],\
-    \ [[5. Mechanics/Spells/Plane Shift.md|plane shift]]\n\n2/day each: [[5. Mechanics/Spells/Fear.md|fear]],\
-    \ [[5. Mechanics/Spells/Fireball.md|fireball]], [[5. Mechanics/Spells/Fly.md|fly]],\
-    \ [[5. Mechanics/Spells/Tongues.md|tongues]]"
+    \ +7 to hit with spell attacks). The slaad can innately cast the following spells,\
+    \ requiring no material components:\n\nAt will: [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
+    \ [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[5. Mechanics/Spells/Invisibility.md|invisibility]]\
+    \ (self only), [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Major Image.md|major image]]\n\
+    \n1/day each: [[5. Mechanics/Spells/Cloudkill.md|cloudkill]], [[5. Mechanics/Spells/Plane Shift.md|plane shift]]\n\
+    \n2/day each: [[5. Mechanics/Spells/Fear.md|fear]], [[5. Mechanics/Spells/Fireball.md|fireball]],\
+    \ [[5. Mechanics/Spells/Fly.md|fly]], [[5. Mechanics/Spells/Tongues.md|tongues]]"
   "name": "Innate Spellcasting"
 - "desc": "The slaad can use its action to polymorph into a Small or Medium humanoid,\
     \ or back into its true form. Its statistics, other than its size, are the same\
@@ -106,17 +105,14 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 - "desc": "The slaad makes three attacks: one with its bite and two with its claws\
     \ or greatsword."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d8 + 5|text(9) (1d8 + 5) piercing damage plus dice:2d6|text(7)\
-    \ (2d6) necrotic damage."
+- "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 9 (1d8\
+    \ + 5) piercing damage plus 7 (2d6) necrotic damage."
   "name": "Bite (Slaad Form Only)"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d10 + 5|text(10) (1d10 + 5) slashing damage plus dice:2d6|text(7)\
-    \ (2d6) necrotic damage."
+- "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 10 (1d10\
+    \ + 5) slashing damage plus 7 (2d6) necrotic damage."
   "name": "Claws (Slaad Form Only)"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d6 + 5|text(12) (2d6 + 5) slashing damage plus dice:2d6|text(7)\
-    \ (2d6) necrotic damage."
+- "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 12 (2d6\
+    \ + 5) slashing damage plus 7 (2d6) necrotic damage."
   "name": "Greatsword"
 "source":
 - "MM"

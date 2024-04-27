@@ -64,13 +64,12 @@ A scale sorcerer who resides in or near a dragon's lair may serve as that dragon
 - "desc": "The kobold makes two Dagger or Chromatic Bolt attacks. It can replace one\
     \ attack with a use of Spellcasting."
   "name": "Multiattack"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice:1d4 + 2|text(4) (1d4 + 2) piercing\
-    \ damage."
+- "desc": "Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60\
+    \ ft., one target. Hit: 4 (1d4 + 2) piercing damage."
   "name": "Dagger"
-- "desc": "Ranged Spell Attack: dice: d20+4 (+4) to hit, range 60 feet, one\
-    \ target. Hit: dice:2d6 + 2|text(9) (2d6 + 2) of a type of the kobold's\
-    \ choice: acid, cold, fire, lightning, poison, or thunder."
+- "desc": "Ranged Spell Attack: +4 to hit, range 60 feet, one target. Hit: 9 (2d6\
+    \ + 2) of a type of the kobold's choice: acid, cold, fire, lightning, poison,\
+    \ or thunder."
   "name": "Chromatic Bolt"
 "source":
 - "MPMM"

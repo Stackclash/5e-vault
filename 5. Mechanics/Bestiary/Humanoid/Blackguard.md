@@ -71,12 +71,11 @@ Blackguards often adorn their armor and weapons with dread accoutrements or are 
 "actions":
 - "desc": "The blackguard makes three attacks, using Glaive, Shortbow, or both."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 10 ft., one target.\
-    \ Hit: dice:1d10 + 4|text(9) (1d10 + 4) slashing damage plus dice:2d8|text(9)\
-    \ (2d8) necrotic damage."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 9 (1d10\
+    \ + 4) slashing damage plus 9 (2d8) necrotic damage."
   "name": "Glaive"
-- "desc": "Ranged Weapon Attack: dice: d20+3 (+3) to hit, range 80/320 ft.,\
-    \ one target. Hit: dice:1d6 + 2|text(5) (1d6 + 2) piercing damage."
+- "desc": "Ranged Weapon Attack: +3 to hit, range 80/320 ft., one target. Hit:\
+    \ 5 (1d6 + 2) piercing damage."
   "name": "Shortbow"
 - "desc": "Each enemy within 30 feet of the blackguard must succeed on a DC 13 Wisdom\
     \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\

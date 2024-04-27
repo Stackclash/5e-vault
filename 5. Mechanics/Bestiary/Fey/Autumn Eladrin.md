@@ -82,14 +82,12 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
 - "desc": "The eladrin makes two Longsword or Longbow attacks. It can replace one\
     \ attack with a use of Spellcasting."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d8 + 1|text(5) (1d8 + 1) slashing damage, or dice:1d10 + 1|text(6)\
-    \ (1d10 + 1) slashing damage if used with two hands, plus dice:5d8|text(22)\
-    \ (5d8) psychic damage."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d8\
+    \ + 1) slashing damage, or 6 (1d10 + 1) slashing damage if used with two hands,\
+    \ plus 22 (5d8) psychic damage."
   "name": "Longsword"
-- "desc": "Ranged Weapon Attack: dice: d20+7 (+7) to hit, range 150/600 ft.,\
-    \ one target. Hit: dice:1d8 + 3|text(7) (1d8 + 3) piercing damage plus dice:5d8|text(22)\
-    \ (5d8) psychic damage."
+- "desc": "Ranged Weapon Attack: +7 to hit, range 150/600 ft., one target. Hit:\
+    \ 7 (1d8 + 3) piercing damage plus 22 (5d8) psychic damage."
   "name": "Longbow"
 "bonus_actions":
 - "desc": "The eladrin teleports, along with any equipment it is wearing or carrying,\

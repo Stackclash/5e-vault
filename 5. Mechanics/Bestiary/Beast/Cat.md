@@ -44,8 +44,8 @@ aliases:
     \ checks that rely on smell."
   "name": "Keen Smell"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+0 (+0) to hit, reach 5 ft., one target.\
-    \ Hit: 1 slashing damage."
+- "desc": "Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 1 slashing\
+    \ damage."
   "name": "Claws"
 "source":
 - "MM"

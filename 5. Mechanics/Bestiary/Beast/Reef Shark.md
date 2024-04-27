@@ -46,8 +46,8 @@ Smaller than giant sharks and hunter sharks, reef sharks inhabit shallow waters 
 - "desc": "The shark can breathe only underwater."
   "name": "Water Breathing"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d8 + 2|text(6) (1d8 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8\
+    \ + 2) piercing damage."
   "name": "Bite"
 "source":
 - "MM"

@@ -87,35 +87,32 @@ Any temple of Lolth also functions as a matron mother's lair while she is inside
 - "desc": "The drow makes two Demon Staff attacks or one Demon Staff attack and three\
     \ Tentacle Rod attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+10 (+10) to hit, reach 5 ft., one\
-    \ target. Hit: dice:1d6 + 4|text(7) (1d6 + 4) bludgeoning damage, or dice:1d8\
-    \ + 4|text(8) (1d8 + 4) bludgeoning damage if used with two hands, plus dice:4d6|text(14)\
-    \ (4d6) psychic damage. The target must succeed on a DC 19 Wisdom saving throw\
-    \ or become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] of the drow\
-    \ for 1 minute. The [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] target\
-    \ can repeat the saving throw at the end of each of its turns, ending the effect\
-    \ on itself on a success."
+- "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 7 (1d6\
+    \ + 4) bludgeoning damage, or 8 (1d8 + 4) bludgeoning damage if used with two\
+    \ hands, plus 14 (4d6) psychic damage. The target must succeed on a DC 19 Wisdom\
+    \ saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ of the drow for 1 minute. The [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ target can repeat the saving throw at the end of each of its turns, ending the\
+    \ effect on itself on a success."
   "name": "Demon Staff"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 15 ft., one creature.\
-    \ Hit: dice:1d6|text(3) (1d6) bludgeoning damage. If the target is hit three\
-    \ times by the [[5. Mechanics/Items/Tentacle Rod.md|rod]] on one turn, the target\
-    \ must succeed on a DC 15 Constitution saving throw or suffer the following effects\
-    \ for 1 minute: the target's speed is halved, it has disadvantage on Dexterity\
-    \ saving throws, and it can't use reactions. Moreover, on each of its turns, it\
-    \ can take either an action or a bonus action, but not both. At the end of each\
-    \ of its turns, it can repeat the saving throw, ending the effect on itself on\
-    \ a success."
+- "desc": "Melee Weapon Attack: +9 to hit, reach 15 ft., one creature. Hit: 3\
+    \ (1d6) bludgeoning damage. If the target is hit three times by the [[5. Mechanics/Items/Tentacle Rod.md|rod]]\
+    \ on one turn, the target must succeed on a DC 15 Constitution saving throw or\
+    \ suffer the following effects for 1 minute: the target's speed is halved, it\
+    \ has disadvantage on Dexterity saving throws, and it can't use reactions. Moreover,\
+    \ on each of its turns, it can take either an action or a bonus action, but not\
+    \ both. At the end of each of its turns, it can repeat the saving throw, ending\
+    \ the effect on itself on a success."
   "name": "Tentacle Rod"
 - "desc": "A 10-foot-radius, 40-foot-high column of divine fire sprouts in an area\
     \ up to 120 feet away from the drow. Each creature in the column must make a DC\
-    \ 20 Dexterity saving throw, taking dice:4d6|text(14) (4d6) fire damage and\
-    \ dice:4d6|text(14) (4d6) radiant damage on a failed save, or half as much\
-    \ damage on a successful one."
+    \ 20 Dexterity saving throw, taking 14 (4d6) fire damage and 14 (4d6) radiant\
+    \ damage on a failed save, or half as much damage on a successful one."
   "name": "Divine Flame (2/Day)"
 "bonus_actions":
 - "desc": "The drow bestows the Spider Queen's blessing on one ally she can see within\
-    \ 30 feet of her. The ally takes dice:2d6|text(7) (2d6) psychic damage but\
-    \ has advantage on the next attack roll it makes before the end of its next turn."
+    \ 30 feet of her. The ally takes 7 (2d6) psychic damage but has advantage on the\
+    \ next attack roll it makes before the end of its next turn."
   "name": "Lolth's Fickle Favor"
 - "desc": "The drow magically summons a [[5. Mechanics/Bestiary/Fiend/Glabrezu.md|glabrezu]]\
     \ or a [[5. Mechanics/Bestiary/Fiend/Yochlol.md|yochlol]]. The summoned creature\
@@ -147,10 +144,9 @@ Any temple of Lolth also functions as a matron mother's lair while she is inside
     \ turns, ending the effect on itself on a success.  \n- Telekinetic Throw.\
     \ The drow targets one creature she can see within 60 feet of her and attempts\
     \ to expel it from her presence. The target must succeed on a DC 19 Strength saving\
-    \ throw or be flung 2d6 × 10 feet through the air. A creature smashed into a\
-    \ solid object takes dice: 1d6|avg|noform (1d6) bludgeoning damage for every\
-    \ 10 feet moved. If released in midair, the creature takes falling damage as normal.\
-    \  "
+    \ throw or be flung 2d6 × 10 feet through the air. A creature smashed into a solid\
+    \ object takes 1d6 bludgeoning damage for every 10 feet moved. If released in\
+    \ midair, the creature takes falling damage as normal.  "
   "name": ""
 "source":
 - "MPMM"

@@ -69,13 +69,11 @@ The wisest among these leaders gain Ilneval's favor and rise to become known as 
     \ with its javelins. If Ilneval's Command is available to use, the orc can use\
     \ it after these attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d8 + 3|text(12) (2d8 + 3) slashing damage, or dice:2d10 +\
-    \ 3|text(14) (2d10 + 3) slashing damage when used with two hands."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 12 (2d8\
+    \ + 3) slashing damage, or 14 (2d10 + 3) slashing damage when used with two hands."
   "name": "Longsword"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft.\
-    \ or range 30/120 ft., one target. Hit: dice:1d6 + 3|text(6) (1d6 + 3) piercing\
-    \ damage."
+- "desc": "Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 30/120\
+    \ ft., one target. Hit: 6 (1d6 + 3) piercing damage."
   "name": "Javelin"
 - "desc": "Up to three allied orcs within 120 feet of this orc that can hear it can\
     \ use their reactions to each make one weapon attack."

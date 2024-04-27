@@ -40,10 +40,9 @@ aliases:
 - "desc": "The crab can breathe air and water."
   "name": "Amphibious"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d6 + 1|text(4) (1d6 + 1) bludgeoning damage, and the target\
-    \ is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 11). The\
-    \ crab has two claws, each of which can grapple only one target."
+- "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6\
+    \ + 1) bludgeoning damage, and the target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ (escape DC 11). The crab has two claws, each of which can grapple only one target."
   "name": "Claw"
 "source":
 - "MM"

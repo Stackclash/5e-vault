@@ -156,19 +156,18 @@ await dv.view("npcRelationships", { current: dv.current() })
 "actions":
 - "desc": "Volenta makes two attacks, only one of which can be a bite attack."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one willing\
-    \ creature, or a creature that is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ by Volenta, [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]],\
-    \ or [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]. Hit: dice:1d6\
-    \ + 3|text(6) (1d6 + 3) piercing damage plus dice:2d6|text(7) (2d6) necrotic\
-    \ damage. The target's hit point maximum is reduced by an amount equal to the\
-    \ necrotic damage taken, and Volenta regains hit points equal to that amount.\
-    \ The reduction lasts until the target finishes a long rest. The target dies if\
-    \ this effect reduces its hit point maximum to 0."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one willing creature, or\
+    \ a creature that is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] by Volenta,\
+    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]], or [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]].\
+    \ Hit: 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's\
+    \ hit point maximum is reduced by an amount equal to the necrotic damage taken,\
+    \ and Volenta regains hit points equal to that amount. The reduction lasts until\
+    \ the target finishes a long rest. The target dies if this effect reduces its\
+    \ hit point maximum to 0."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one creature.\
-    \ Hit: dice:2d4 + 3|text(8) (2d4 + 3) slashing damage. Instead of dealing\
-    \ damage, Volenta can grapple the target (escape DC 13)."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 8 (2d4\
+    \ + 3) slashing damage. Instead of dealing damage, Volenta can grapple the target\
+    \ (escape DC 13)."
   "name": "Claws"
 "source":
 - "CoS"

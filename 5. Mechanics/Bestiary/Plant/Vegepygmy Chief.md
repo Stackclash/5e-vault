@@ -59,21 +59,20 @@ Although they prefer to eat fresh meat, bone, and blood, vegepygmies can absorb 
 "actions":
 - "desc": "The vegepygmy makes two Claw attacks or two melee Spear attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d6 + 2|text(5) (1d6 + 2) slashing damage."
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+    \ + 2) slashing damage."
   "name": "Claws"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice:1d6 + 2|text(5) (1d6 + 2) piercing\
-    \ damage, or dice:1d8 + 2|text(6) (1d8 + 2) piercing damage if used with two\
-    \ hands to make a melee attack."
+- "desc": "Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60\
+    \ ft., one target. Hit: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing\
+    \ damage if used with two hands to make a melee attack."
   "name": "Spear"
 - "desc": "A 15-foot-radius cloud of toxic spores extends out from the vegepygmy.\
     \ The spores spread around corners. Each creature in that area that isn't a Plant\
     \ must succeed on a DC 12 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]].\
     \ While [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in this way, a target\
-    \ takes dice:2d8|text(9) (2d8) poison damage at the start of each of its turns.\
-    \ A target can repeat the saving throw at the end of each of its turns, ending\
-    \ the effect on itself on a success."
+    \ takes 9 (2d8) poison damage at the start of each of its turns. A target can\
+    \ repeat the saving throw at the end of each of its turns, ending the effect on\
+    \ itself on a success."
   "name": "Spores (1/Day)"
 "source":
 - "MPMM"

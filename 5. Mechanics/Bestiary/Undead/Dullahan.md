@@ -76,17 +76,16 @@ Dullahans are known for seeking their lost heads, giving rise to regional legend
 "actions":
 - "desc": "The dullahan makes two attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d8 + 4|text(8) (1d8 + 4) slashing damage, or dice:1d10 + 4|text(9)\
-    \ (1d10 + 4) slashing damage if used with two hands, plus dice:2d10|text(11)\
-    \ (2d10) necrotic damage. If the dullahan scores a critical hit against a creature,\
-    \ the target must succeed on a DC 15 Constitution saving throw or the dullahan\
-    \ cuts off the target's head. The target dies if it can't survive without the\
-    \ lost head. A creature that doesn't have or need a head, or has legendary actions,\
-    \ instead takes an extra dice:6d8|text(27) (6d8) slashing damage."
+- "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 8 (1d8\
+    \ + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands,\
+    \ plus 11 (2d10) necrotic damage. If the dullahan scores a critical hit against\
+    \ a creature, the target must succeed on a DC 15 Constitution saving throw or\
+    \ the dullahan cuts off the target's head. The target dies if it can't survive\
+    \ without the lost head. A creature that doesn't have or need a head, or has legendary\
+    \ actions, instead takes an extra 27 (6d8) slashing damage."
   "name": "Battleaxe"
-- "desc": "Ranged Spell Attack: dice: d20+7 (+7) to hit, range 120 ft., one\
-    \ target. Hit: dice:2d10 + 3|text(14) (2d10 + 3) fire damage."
+- "desc": "Ranged Spell Attack: +7 to hit, range 120 ft., one target. Hit: 14\
+    \ (2d10 + 3) fire damage."
   "name": "Fiery Skull"
 "legendary_actions":
 - "desc": "The dullahan makes one attack."
@@ -97,8 +96,7 @@ Dullahans are known for seeking their lost heads, giving rise to regional legend
   "name": "Frightful Presence (Costs 2 Actions)"
 - "desc": "The dullahan moves up to its speed without provoking opportunity attacks\
     \ and makes one Battleaxe attack with advantage. If the attack hits, but is not\
-    \ a critical hit, the attack deals an extra dice:6d8|text(27) (6d8) necrotic\
-    \ damage."
+    \ a critical hit, the attack deals an extra 27 (6d8) necrotic damage."
   "name": "Head Hunt (Costs 3 Actions)"
 "source":
 - "VRGR"

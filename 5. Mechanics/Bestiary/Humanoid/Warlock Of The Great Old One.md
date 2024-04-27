@@ -61,22 +61,21 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
     \ [[5. Mechanics/Spells/True Seeing.md|true seeing]]"
   "name": "Spellcasting"
 - "desc": "At the start of each of the warlock's turns, each creature of its choice\
-    \ within 10 feet of it must succeed on a DC 15 Wisdom saving throw or take dice:3d6|text(10)\
+    \ within 10 feet of it must succeed on a DC 15 Wisdom saving throw or take 10\
     \ (3d6) psychic damage, provided that the warlock isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
   "name": "Whispering Aura"
 "actions":
 - "desc": "The warlock makes two Dagger attacks."
   "name": "Multiattack"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice:1d4 + 3|text(5) (1d4 + 3) piercing\
-    \ damage plus dice:3d6|text(10) (3d6) psychic damage."
+- "desc": "Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60\
+    \ ft., one target. Hit: 5 (1d4 + 3) piercing damage plus 10 (3d6) psychic damage."
   "name": "Dagger"
 - "desc": "The warlock opens a momentary extraplanar rift within 60 feet of it. The\
     \ rift is a scream-filled, 20-foot cube. Each creature in that area must make\
-    \ a DC 15 Wisdom saving throw. On a failed save, a creature takes dice:2d8|text(9)\
-    \ (2d8) psychic damage and is [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
-    \ of the warlock until the start of the warlock's next turn. On a successful save,\
-    \ a creature takes half as much damage and isn't [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]."
+    \ a DC 15 Wisdom saving throw. On a failed save, a creature takes 9 (2d8) psychic\
+    \ damage and is [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] of the\
+    \ warlock until the start of the warlock's next turn. On a successful save, a\
+    \ creature takes half as much damage and isn't [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]."
   "name": "Howling Void"
 "source":
 - "MPMM"

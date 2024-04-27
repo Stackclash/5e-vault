@@ -69,9 +69,8 @@ Some alchemists are said to know how to process the basilisk's gullet and the fl
     \ light, it mistakes itself for a rival and targets itself with its gaze."
   "name": "Petrifying Gaze"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d6 + 3|text(10) (2d6 + 3) piercing damage plus dice:2d6|text(7)\
-    \ (2d6) poison damage."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6\
+    \ + 3) piercing damage plus 7 (2d6) poison damage."
   "name": "Bite"
 "source":
 - "MM"

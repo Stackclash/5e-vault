@@ -73,8 +73,7 @@ Legend tells of angels that take mortal form for years, lending aid, hope, and c
     \n1/day each: [[5. Mechanics/Spells/Commune.md|commune]], [[5. Mechanics/Spells/Raise Dead.md|raise dead]]"
   "name": "Innate Spellcasting"
 - "desc": "The deva's weapon attacks are magical. When the deva hits with any weapon,\
-    \ the weapon deals an extra dice: 4d8|avg|noform (4d8) radiant damage (included\
-    \ in the attack)."
+    \ the weapon deals an extra 4d8 radiant damage (included in the attack)."
   "name": "Angelic Weapons"
 - "desc": "The deva has advantage on saving throws against spells and other magical\
     \ effects."
@@ -82,13 +81,12 @@ Legend tells of angels that take mortal form for years, lending aid, hope, and c
 "actions":
 - "desc": "The deva makes two melee attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d6 + 4|text(7) (1d6 + 4) bludgeoning damage plus dice:4d8|text(18)\
-    \ (4d8) radiant damage."
+- "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 7 (1d6\
+    \ + 4) bludgeoning damage plus 18 (4d8) radiant damage."
   "name": "Mace"
-- "desc": "The deva touches another creature. The target magically regains dice:4d8\
-    \ + 2|text(20) (4d8 + 2) hit points and is freed from any curse, disease, poison,\
-    \ blindness, or deafness."
+- "desc": "The deva touches another creature. The target magically regains 20 (4d8\
+    \ + 2) hit points and is freed from any curse, disease, poison, blindness, or\
+    \ deafness."
   "name": "Healing Touch (3/Day)"
 - "desc": "The deva magically polymorphs into a humanoid or beast that has a challenge\
     \ rating equal to or less than its own, or back into its true form. It reverts\

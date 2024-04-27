@@ -45,8 +45,8 @@ aliases:
     \ checks that rely on hearing or sight."
   "name": "Keen Hearing and Sight"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
-    \ Hit: 1 slashing damage."
+- "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 1 slashing\
+    \ damage."
   "name": "Talons"
 "source":
 - "MM"

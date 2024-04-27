@@ -64,12 +64,11 @@ After devouring the troll sent by Vaprak, bones and all, a frost giant becomes a
 "actions":
 - "desc": "The giant makes two Greataxe or Rock attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+11 (+11) to hit, reach 10 ft., one\
-    \ target. Hit: dice:3d12 + 7|text(26) (3d12 + 7) slashing damage, or dice:3d12\
-    \ + 11|text(30) (3d12 + 11) slashing damage while raging."
+- "desc": "Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 26\
+    \ (3d12 + 7) slashing damage, or 30 (3d12 + 11) slashing damage while raging."
   "name": "Greataxe"
-- "desc": "Ranged Weapon Attack: dice: d20+11 (+11) to hit, range 60/240 ft.,\
-    \ one target. Hit: dice:4d10 + 7|text(29) (4d10 + 7) bludgeoning damage."
+- "desc": "Ranged Weapon Attack: +11 to hit, range 60/240 ft., one target. Hit:\
+    \ 29 (4d10 + 7) bludgeoning damage."
   "name": "Rock"
 "bonus_actions":
 - "desc": "The giant enters a rage. The rage lasts for 1 minute or until the giant\

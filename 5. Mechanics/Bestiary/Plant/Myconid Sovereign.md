@@ -58,15 +58,13 @@ Like other fungi, myconids reproduce by mundane sporing. They carefully control 
 - "desc": "The myconid uses either its Hallucination Spores or its Pacifying Spores,\
     \ then makes a fist attack."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
-    \ Hit: dice:3d4 + 1|text(8) (3d4 + 1) bludgeoning damage plus dice:3d4|text(7)\
-    \ (3d4) poison damage."
+- "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 8 (3d4\
+    \ + 1) bludgeoning damage plus 7 (3d4) poison damage."
   "name": "Fist"
 - "desc": "The myconid targets one corpse of a humanoid or a Large or smaller beast\
     \ within 5 feet of it and releases spores at the corpse. In 24 hours, the corpse\
-    \ rises as a spore servant. The corpse stays animated for dice: 1d4 + 1|avg|noform\
-    \ (1d4 + 1) weeks or until destroyed, and it can't be animated again in this\
-    \ way."
+    \ rises as a spore servant. The corpse stays animated for 1d4 + 1 weeks or until\
+    \ destroyed, and it can't be animated again in this way."
   "name": "Animating Spores (3/Day)"
 - "desc": "The myconid ejects spores at one creature it can see within 5 feet of it.\
     \ The target must succeed on a DC 12 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\

@@ -45,8 +45,8 @@ A giant shark is 30 feet long and normally found in deep oceans. Utterly fearles
 - "desc": "The shark can breathe only underwater."
   "name": "Water Breathing"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 5 ft., one target.\
-    \ Hit: dice:3d10 + 6|text(22) (3d10 + 6) piercing damage."
+- "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 22 (3d10\
+    \ + 6) piercing damage."
   "name": "Bite"
 "source":
 - "MM"

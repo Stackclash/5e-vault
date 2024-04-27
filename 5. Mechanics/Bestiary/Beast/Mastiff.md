@@ -44,9 +44,9 @@ Mastiffs are impressive hounds prized by humanoids for their loyalty and keen se
     \ checks that rely on hearing or smell."
   "name": "Keen Hearing and Smell"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d6 + 1|text(4) (1d6 + 1) piercing damage. If the target is\
-    \ a creature, it must succeed on a DC 11 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+- "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6\
+    \ + 1) piercing damage. If the target is a creature, it must succeed on a DC 11\
+    \ Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Bite"
 "source":
 - "MM"

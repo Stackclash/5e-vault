@@ -42,8 +42,8 @@ An awakened shrub is an ordinary shrub given sentience and mobility by the [[5. 
     \ shrub."
   "name": "False Appearance"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+1 (+1) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d4 - 1|text(1) (1d4 - 1) slashing damage."
+- "desc": "Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 1 (1d4\
+    \ - 1) slashing damage."
   "name": "Rake"
 "source":
 - "MM"

@@ -60,30 +60,28 @@ Tarkanan assassins are the elite killers, spies, and thieves who work for House 
 "languages": "Common, Thieves' cant"
 "cr": "2"
 "traits":
-- "desc": "The assassin's spellcasting ability is Constitution (dice: d20+4 (+4)\
-    \ to hit with spell attacks). It can innately cast the following spells, requiring\
-    \ no material components:\n\nAt will: [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]]\n\
-    \n1/day: [[5. Mechanics/Spells/Chromatic Orb.md|chromatic orb]]"
+- "desc": "The assassin's spellcasting ability is Constitution (+4 to hit with spell\
+    \ attacks). It can innately cast the following spells, requiring no material components:\n\
+    \nAt will: [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]]\n\n1/day: [[5. Mechanics/Spells/Chromatic Orb.md|chromatic\
+    \ orb]]"
   "name": "Innate Spellcasting"
 - "desc": "When the assassin casts an innate spell, each creature within 10 feet of\
-    \ the assassin must make a DC 12 Constitution saving throw, taking dice:1d8|text(4)\
-    \ (1d8) force damage on a failed save, or half as much damage on a successful\
-    \ one."
+    \ the assassin must make a DC 12 Constitution saving throw, taking 4 (1d8) force\
+    \ damage on a failed save, or half as much damage on a successful one."
   "name": "Unstable Mark"
 "actions":
 - "desc": "The assassin makes two shortsword attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d6 + 3|text(6) (1d6 + 3) piercing damage plus dice:2d6|text(7)\
-    \ (2d6) poison damage."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6\
+    \ + 3) piercing damage plus 7 (2d6) poison damage."
   "name": "Shortsword"
-- "desc": "Ranged Spell Attack: dice: d20+4 (+4) to hit, range 120 ft., one\
-    \ target. Hit: dice:2d10|text(11) (2d10) fire damage. A flammable object\
-    \ hit by this spell ignites if it isn't being worn or carried."
+- "desc": "Ranged Spell Attack: +4 to hit, range 120 ft., one target. Hit: 11\
+    \ (2d10) fire damage. A flammable object hit by this spell ignites if it isn't\
+    \ being worn or carried."
   "name": "Fire Bolt (Cantrip)"
-- "desc": "Ranged Spell Attack: dice: d20+4 (+4) to hit, range 90 ft., one creature.\
-    \ Hit: dice:4d8|text(18) (4d8) damage of a type chosen by the assassin:\
-    \ acid, cold, fire, lightning, poison, or thunder."
+- "desc": "Ranged Spell Attack: +4 to hit, range 90 ft., one creature. Hit: 18\
+    \ (4d8) damage of a type chosen by the assassin: acid, cold, fire, lightning,\
+    \ poison, or thunder."
   "name": "Chromatic Orb (1/Day)"
 "source":
 - "ERLW"

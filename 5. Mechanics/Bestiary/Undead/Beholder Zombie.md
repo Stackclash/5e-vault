@@ -73,8 +73,8 @@ A zombie doesn't require air, food, drink, or sleep.
     \ or from a critical hit. On a success, the zombie drops to 1 hit point instead."
   "name": "Undead Fortitude"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
-    \ Hit: dice:4d6|text(14) (4d6) piercing damage."
+- "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 14 (4d6)\
+    \ piercing damage."
   "name": "Bite"
 - "desc": "The zombie uses a random magical eye ray, choosing a target that it can\
     \ see within 60 feet of it.\n\n- 1. Paralyzing Ray. The targeted creature\
@@ -84,15 +84,15 @@ A zombie doesn't require air, food, drink, or sleep.
     \ creature must succeed on a DC 14 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
     \ for 1 minute. The target can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success.  \n- 3. Enervation Ray.\
-    \ The targeted creature must make a DC 14 Constitution saving throw, taking dice:8d8|text(36)\
+    \ The targeted creature must make a DC 14 Constitution saving throw, taking 36\
     \ (8d8) necrotic damage on a failed save, or half as much damage on a successful\
     \ one.  \n- 4. Disintegration Ray. If the target is a creature, it must succeed\
-    \ on a DC 14 Dexterity saving throw or take dice:10d8|text(45) (10d8) force\
-    \ damage. If this damage reduces the creature to 0 hit points, its body becomes\
-    \ a pile of fine gray dust.  \n\n    If the target is a Large or smaller nonmagical\
-    \ object or creation of magical force, it is disintegrated without a saving throw.\
-    \ If the target is a Huge or larger nonmagical object or creation of magical force,\
-    \ this ray disintegrates a 10-foot cube of it.  "
+    \ on a DC 14 Dexterity saving throw or take 45 (10d8) force damage. If this damage\
+    \ reduces the creature to 0 hit points, its body becomes a pile of fine gray dust.\
+    \  \n\n    If the target is a Large or smaller nonmagical object or creation of\
+    \ magical force, it is disintegrated without a saving throw. If the target is\
+    \ a Huge or larger nonmagical object or creation of magical force, this ray disintegrates\
+    \ a 10-foot cube of it.  "
   "name": "Eye Ray"
 "source":
 - "MM"

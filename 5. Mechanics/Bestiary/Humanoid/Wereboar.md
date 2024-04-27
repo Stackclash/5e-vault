@@ -86,9 +86,9 @@ Some individuals see little point in fighting the curse and accept what they are
     \ carrying isn't transformed. It reverts to its true form if it dies."
   "name": "Shapechanger"
 - "desc": "If the wereboar moves at least 15 feet straight toward a target and then\
-    \ hits it with its tusks on the same turn, the target takes an extra dice:2d6|text(7)\
-    \ (2d6) slashing damage. If the target is a creature, it must succeed on a DC\
-    \ 13 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ hits it with its tusks on the same turn, the target takes an extra 7 (2d6) slashing\
+    \ damage. If the target is a creature, it must succeed on a DC 13 Strength saving\
+    \ throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Charge (Boar or Hybrid Form Only)"
 - "desc": "If the wereboar takes 14 damage or less that would reduce it to 0 hit points,\
     \ it is reduced to 1 hit point instead."
@@ -96,13 +96,12 @@ Some individuals see little point in fighting the curse and accept what they are
 "actions":
 - "desc": "The wereboar makes two attacks, only one of which can be with its tusks."
   "name": "Multiattack (Humanoid or Hybrid Form Only)"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d6 + 3|text(10) (2d6 + 3) bludgeoning damage."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6\
+    \ + 3) bludgeoning damage."
   "name": "Maul (Humanoid or Hybrid Form Only)"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d6 + 3|text(10) (2d6 + 3) slashing damage. If the target is\
-    \ a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed\
-    \ with wereboar lycanthropy."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6\
+    \ + 3) slashing damage. If the target is a humanoid, it must succeed on a DC 12\
+    \ Constitution saving throw or be cursed with wereboar lycanthropy."
   "name": "Tusks (Boar or Hybrid Form Only)"
 "source":
 - "MM"

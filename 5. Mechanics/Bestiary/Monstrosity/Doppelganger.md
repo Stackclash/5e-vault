@@ -63,14 +63,14 @@ Doppelgangers are too lazy or self-interested to raise their young. They assume 
     \ rolls against any creature it surprised."
   "name": "Ambusher"
 - "desc": "If the doppelganger surprises a creature and hits it with an attack during\
-    \ the first round of combat, the target takes an extra dice:3d6|text(10) (3d6)\
-    \ damage from the attack."
+    \ the first round of combat, the target takes an extra 10 (3d6) damage from the\
+    \ attack."
   "name": "Surprise Attack"
 "actions":
 - "desc": "The doppelganger makes two melee attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d6 + 4|text(7) (1d6 + 4) bludgeoning damage."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6\
+    \ + 4) bludgeoning damage."
   "name": "Slam"
 - "desc": "The doppelganger magically reads the surface thoughts of one creature within\
     \ 60 feet of it. The effect can penetrate barriers, but 3 feet of wood or dirt,\

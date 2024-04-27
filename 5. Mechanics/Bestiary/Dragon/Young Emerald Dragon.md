@@ -52,8 +52,7 @@ Their interest in our world and its relation to others makes them experts on the
 "cr": "8"
 "traits":
 - "desc": ". . [[/5. Mechanics/Rules/Variant Rules/Gemstone Dragon Psionics.md|Gemstone Dragon Psionics]].\
-    \ Charges: 14 • Recharge: dice: 1d6|avg|noform (1d6) • Fracture:\
-    \ 14"
+    \ Charges: 14 • Recharge: 1d6 • Fracture: 14"
   "name": ""
 - "desc": "Enemies within 30 feet must make a DC 14 Intelligence saving throw every\
     \ round to maintain spells that require concentration."
@@ -61,11 +60,11 @@ Their interest in our world and its relation to others makes them experts on the
 "actions":
 - "desc": "The dragon makes three attacks: one with its bite and two with its claws."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 10 ft., one target.\
-    \ Hit: dice:2d10 + 3|text(14) (2d10 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 14 (2d10\
+    \ + 3) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d6 + 3|text(10) (2d6 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6\
+    \ + 3) slashing damage."
   "name": "Claw"
 "source":
 - "SaF"

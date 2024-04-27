@@ -62,12 +62,12 @@ A leucrotta's stench would normally warn away prey long before the creature coul
 "actions":
 - "desc": "The leucrotta makes one Bite attack and one Hooves attack."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d8 + 4|text(8) (1d8 + 4) piercing damage. If the leucrotta\
-    \ scores a critical hit, it rolls the damage dice three times, instead of twice."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8\
+    \ + 4) piercing damage. If the leucrotta scores a critical hit, it rolls the damage\
+    \ dice three times, instead of twice."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) bludgeoning damage."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6\
+    \ + 4) bludgeoning damage."
   "name": "Hooves"
 "bonus_actions":
 - "desc": "Immediately after the leucrotta makes a Hooves attack, it takes the [[/5. Mechanics/Rules/Actions.md#Disengage|Disengage]]\

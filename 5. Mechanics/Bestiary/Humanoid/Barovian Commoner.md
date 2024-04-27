@@ -34,8 +34,8 @@ aliases:
 "languages": "any one language (usually Common)"
 "cr": "0"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+2 (+2) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d6|text(3) (1d6) piercing damage."
+- "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (1d6)\
+    \ piercing damage."
   "name": "Pitchfork"
 "source":
 - "CoS"

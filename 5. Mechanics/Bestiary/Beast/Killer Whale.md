@@ -45,8 +45,8 @@ aliases:
     \ checks that rely on hearing."
   "name": "Keen Hearing"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:5d6 + 4|text(21) (5d6 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 21 (5d6\
+    \ + 4) piercing damage."
   "name": "Bite"
 "source":
 - "MM"

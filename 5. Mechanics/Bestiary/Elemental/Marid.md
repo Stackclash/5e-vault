@@ -71,14 +71,13 @@ Marids are champion tale-tellers, whose favorite legends emphasize the prowess o
 "cr": "11"
 "traits":
 - "desc": "The marid's innate spellcasting ability is Charisma (spell save DC 16,\
-    \ dice: d20+8 (+8) to hit with spell attacks). It can innately cast the following\
-    \ spells, requiring no material components:\n\nAt will: [[5. Mechanics/Spells/Create Or Destroy Water.md|create or destroy\
-    \ water]], [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]],\
-    \ [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Fog Cloud.md|fog cloud]],\
-    \ [[5. Mechanics/Spells/Purify Food And Drink.md|purify food and drink]]\n\n1/day\
-    \ each: [[5. Mechanics/Spells/Conjure Elemental.md|conjure elemental]] ([[5. Mechanics/Bestiary/Elemental/Water Elemental.md|water\
-    \ elemental]] only), [[5. Mechanics/Spells/Control Water.md|control\
-    \ water]], [[5. Mechanics/Spells/Gaseous Form.md|gaseous form]],\
+    \ +8 to hit with spell attacks). It can innately cast the following spells, requiring\
+    \ no material components:\n\nAt will: [[5. Mechanics/Spells/Create Or Destroy Water.md|create or destroy water]],\
+    \ [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]], [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
+    \ [[5. Mechanics/Spells/Fog Cloud.md|fog cloud]], [[5. Mechanics/Spells/Purify Food And Drink.md|purify food and drink]]\n\
+    \n1/day each: [[5. Mechanics/Spells/Conjure Elemental.md|conjure elemental]]\
+    \ ([[5. Mechanics/Bestiary/Elemental/Water Elemental.md|water elemental]] only),\
+    \ [[5. Mechanics/Spells/Control Water.md|control water]], [[5. Mechanics/Spells/Gaseous Form.md|gaseous form]],\
     \ [[5. Mechanics/Spells/Invisibility.md|invisibility]], [[5. Mechanics/Spells/Plane Shift.md|plane shift]]\n\
     \n3/day each: [[5. Mechanics/Spells/Tongues.md|tongues]], [[5. Mechanics/Spells/Water Breathing.md|water breathing]],\
     \ [[5. Mechanics/Spells/Water Walk.md|water walk]]"
@@ -91,15 +90,14 @@ Marids are champion tale-tellers, whose favorite legends emphasize the prowess o
 "actions":
 - "desc": "The marid makes two trident attacks."
   "name": "Multiattack"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+10 (+10) to hit, reach 5\
-    \ ft. or range 20/60 ft., one target. Hit: dice:2d6 + 6|text(13) (2d6 + 6)\
-    \ piercing damage, or dice:2d8 + 6|text(15) (2d8 + 6) piercing damage if used\
-    \ with two hands to make a melee attack."
+- "desc": "Melee or Ranged Weapon Attack: +10 to hit, reach 5 ft. or range 20/60\
+    \ ft., one target. Hit: 13 (2d6 + 6) piercing damage, or 15 (2d8 + 6) piercing\
+    \ damage if used with two hands to make a melee attack."
   "name": "Trident"
 - "desc": "The marid magically shoots water in a 60-foot line that is 5 feet wide.\
     \ Each creature in that line must make a DC 16 Dexterity saving throw. On a failure,\
-    \ a target takes dice:6d6|text(21) (6d6) bludgeoning damage and, if it is\
-    \ Huge or smaller, is pushed up to 20 feet away from the marid and knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
+    \ a target takes 21 (6d6) bludgeoning damage and, if it is Huge or smaller, is\
+    \ pushed up to 20 feet away from the marid and knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
     \ On a success, a target takes half the bludgeoning damage, but is neither pushed\
     \ nor knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Water Jet"

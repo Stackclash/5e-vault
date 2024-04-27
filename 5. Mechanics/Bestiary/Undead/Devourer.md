@@ -50,9 +50,8 @@ Devourers hunt Humanoids with the intent of consuming them body and soul. After 
 - "desc": "The devourer makes two Claw attacks and can use either Imprison Soul or\
     \ Soul Rend, if available."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+10 (+10) to hit, reach 5 ft., one\
-    \ target. Hit: dice:2d6 + 5|text(12) (2d6 + 5) slashing damage plus dice:6d6|text(21)\
-    \ (6d6) necrotic damage."
+- "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 12 (2d6\
+    \ + 5) slashing damage plus 21 (6d6) necrotic damage."
   "name": "Claw"
 - "desc": "The devourer chooses a living Humanoid with 0 hit points that it can see\
     \ within 30 feet of it. That creature is teleported inside the devourer's ribcage\
@@ -68,8 +67,8 @@ Devourers hunt Humanoids with the intent of consuming them body and soul. After 
   "name": "Imprison Soul"
 - "desc": "The devourer creates a vortex of life-draining energy in a 20-foot radius\
     \ centered on itself. Each creature in that area must make a DC 18 Constitution\
-    \ saving throw, taking dice:8d10|text(44) (8d10) necrotic damage on a failed\
-    \ save, or half as much damage on a successful one."
+    \ saving throw, taking 44 (8d10) necrotic damage on a failed save, or half as\
+    \ much damage on a successful one."
   "name": "Soul Rend (Recharge 6)"
 "source":
 - "MPMM"

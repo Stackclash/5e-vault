@@ -50,17 +50,17 @@ As it burrows through earth, the ankheg leaves a narrow, partially collapsed tun
 "languages": ""
 "cr": "2"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d6 + 3|text(10) (2d6 + 3) slashing damage plus dice:1d6|text(3)\
-    \ (1d6) acid damage. If the target is a Large or smaller creature, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ (escape DC 13). Until this grapple ends, the ankheg can bite only the [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6\
+    \ + 3) slashing damage plus 3 (1d6) acid damage. If the target is a Large or smaller\
+    \ creature, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape\
+    \ DC 13). Until this grapple ends, the ankheg can bite only the [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ creature and has advantage on attack rolls to do so."
   "name": "Bite"
 - "desc": "The ankheg spits acid in a line that is 30 feet long and 5 feet wide, provided\
     \ that it has no creature [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]].\
     \ Each creature in that line must make a DC 13 Dexterity saving throw, taking\
-    \ dice:3d6|text(10) (3d6) acid damage on a failed save, or half as much damage\
-    \ on a successful one."
+    \ 10 (3d6) acid damage on a failed save, or half as much damage on a successful\
+    \ one."
   "name": "Acid Spray (Recharge 6)"
 "source":
 - "MM"

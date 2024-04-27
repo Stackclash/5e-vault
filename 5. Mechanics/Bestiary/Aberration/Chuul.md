@@ -67,10 +67,10 @@ Although the aboleths' ancient empire fell long ago, the psychic bonds between t
 - "desc": "The chuul makes two pincer attacks. If the chuul is grappling a creature,\
     \ the chuul can also use its tentacles once."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 10 ft., one target.\
-    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) bludgeoning damage. The target is\
-    \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 14) if it is\
-    \ a Large or smaller creature and the chuul doesn't have two other creatures [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 11 (2d6\
+    \ + 4) bludgeoning damage. The target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ (escape DC 14) if it is a Large or smaller creature and the chuul doesn't have\
+    \ two other creatures [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]."
   "name": "Pincer"
 - "desc": "One creature [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] by the\
     \ chuul must succeed on a DC 13 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\

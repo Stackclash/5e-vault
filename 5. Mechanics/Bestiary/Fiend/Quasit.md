@@ -221,10 +221,9 @@ Demonologists organize the chaotic distribution of demons into broad categories 
     \ effects."
   "name": "Magic Resistance"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d4 + 3|text(5) (1d4 + 3) piercing damage, and the target must\
-    \ succeed on a DC 10 Constitution saving throw or take dice:2d4|text(5) (2d4)\
-    \ poison damage and become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d4\
+    \ + 3) piercing damage, and the target must succeed on a DC 10 Constitution saving\
+    \ throw or take 5 (2d4) poison damage and become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
     \ for 1 minute. The target can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success."
   "name": "Claw (Bite in Beast Form)"

@@ -84,12 +84,11 @@ A revenant doesn't require air, food, drink, or sleep.
 "actions":
 - "desc": "The revenant makes two fist attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) bludgeoning damage. If the target\
-    \ is a creature against which the revenant has sworn vengeance, the target takes\
-    \ an extra dice:4d6|text(14) (4d6) bludgeoning damage. Instead of dealing\
-    \ damage, the revenant can grapple the target (escape DC 14) provided the target\
-    \ is Large or smaller."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6\
+    \ + 4) bludgeoning damage. If the target is a creature against which the revenant\
+    \ has sworn vengeance, the target takes an extra 14 (4d6) bludgeoning damage.\
+    \ Instead of dealing damage, the revenant can grapple the target (escape DC 14)\
+    \ provided the target is Large or smaller."
   "name": "Fist"
 - "desc": "The revenant targets one creature it can see within 30 feet of it and against\
     \ which it has sworn vengeance. The target must make a DC 15 Wisdom saving throw.\

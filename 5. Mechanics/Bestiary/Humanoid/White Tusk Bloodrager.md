@@ -45,11 +45,11 @@ Through constant training, orcish bloodragers have developed a state of pure foc
 "cr": "4"
 "traits":
 - "desc": "As a bonus action, the orc can enter a cold fury for 1 minute. While in\
-    \ a fury, its melee weapon attacks deal an extra dice:1d6|text(3) (1d6) damage.\n\
-    \nAlso, if the orc is reduced to 0 hit points while in a cold fury, unless it\
-    \ was dealt with a critical hit, the orc makes a Constitution saving throw with\
-    \ a DC of 5 plus the damage taken. On a success, the orc instead drops to 1 hit\
-    \ point and its fury ends."
+    \ a fury, its melee weapon attacks deal an extra 3 (1d6) damage.\n\nAlso, if the\
+    \ orc is reduced to 0 hit points while in a cold fury, unless it was dealt with\
+    \ a critical hit, the orc makes a Constitution saving throw with a DC of 5 plus\
+    \ the damage taken. On a success, the orc instead drops to 1 hit point and its\
+    \ fury ends."
   "name": "Cold Fury (Recharges after a Short or Long Rest)"
 - "desc": "As a bonus action, the orc can move up to its speed toward a hostile creature\
     \ it can see."
@@ -61,8 +61,8 @@ Through constant training, orcish bloodragers have developed a state of pure foc
 "actions":
 - "desc": "The White Tusk Bloodrager makes three falchion attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d4 + 3|text(8) (2d4 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (2d4\
+    \ + 3) slashing damage."
   "name": "Falchion"
 "source":
 - "SaF"

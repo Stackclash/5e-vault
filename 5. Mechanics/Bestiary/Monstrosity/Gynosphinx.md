@@ -88,14 +88,13 @@ A sphinx presides over an ancient temple, sepulcher, or vault, within which are 
 "cr": "11"
 "traits":
 - "desc": "The sphinx is a 9th-level spellcaster. Its spellcasting ability is Intelligence\
-    \ (spell save DC 16, dice: d20+8 (+8) to hit with spell attacks). It requires\
-    \ no material components to cast its spells. The sphinx has the following wizard\
-    \ spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
-    \ [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\
-    \n1st level (4 slots): [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
-    \ [[5. Mechanics/Spells/Identify.md|identify]], [[5. Mechanics/Spells/Shield.md|shield]]\n\
-    \n2nd level (3 slots): [[5. Mechanics/Spells/Darkness.md|darkness]], [[5. Mechanics/Spells/Locate Object.md|locate\
-    \ object]], [[5. Mechanics/Spells/Suggestion.md|suggestion]]\n\
+    \ (spell save DC 16, +8 to hit with spell attacks). It requires no material components\
+    \ to cast its spells. The sphinx has the following wizard spells prepared:\n\n\
+    Cantrips (at will): [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]],\
+    \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n1st level (4\
+    \ slots): [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Identify.md|identify]],\
+    \ [[5. Mechanics/Spells/Shield.md|shield]]\n\n2nd level (3 slots): [[5. Mechanics/Spells/Darkness.md|darkness]],\
+    \ [[5. Mechanics/Spells/Locate Object.md|locate object]], [[5. Mechanics/Spells/Suggestion.md|suggestion]]\n\
     \n3rd level (3 slots): [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
     \ [[5. Mechanics/Spells/Remove Curse.md|remove curse]], [[5. Mechanics/Spells/Tongues.md|tongues]]\n\
     \n4th level (3 slots): [[5. Mechanics/Spells/Banishment.md|banishment]], [[5. Mechanics/Spells/Greater Invisibility.md|greater\
@@ -111,8 +110,8 @@ A sphinx presides over an ancient temple, sepulcher, or vault, within which are 
 "actions":
 - "desc": "The sphinx makes two claw attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d8 + 4|text(13) (2d8 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 13 (2d8\
+    \ + 4) slashing damage."
   "name": "Claw"
 "legendary_actions":
 - "desc": "The sphinx makes one claw attack."
@@ -131,17 +130,17 @@ A sphinx presides over an ancient temple, sepulcher, or vault, within which are 
 - "desc": "- The flow of time is altered such that every creature in the lair must\
     \ reroll initiative. The sphinx can choose not to reroll.  \n- The effects of\
     \ time are altered such that every creature in the lair must succeed on a DC 15\
-    \ Constitution saving throw or become dice: 1d20|avg|noform (1d20) years older\
-    \ or younger (the sphinx's choice), but never any younger than 1 year old. A [[5. Mechanics/Spells/Greater Restoration.md|greater\
-    \ restoration]] spell can restore a creature's\
-    \ age to normal.  \n- The flow of time within the lair is altered such that everything\
-    \ within moves up to 10 years forward or backward (sphinx's choice). Only the\
-    \ sphinx is immediately aware of the time change. A [[5. Mechanics/Spells/Wish.md|wish]]\
-    \ spell can return the caster and up to seven other creatures designated by the\
-    \ caster to their normal time.  \n- The sphinx shifts itself and up to seven other\
-    \ creatures it can see within in its lair to another plane of existence. Once\
-    \ outside its lair, the sphinx can't use lair actions, but it can return to its\
-    \ lair as a bonus action on its turn, taking up to seven creatures with it.  "
+    \ Constitution saving throw or become 1d20 years older or younger (the sphinx's\
+    \ choice), but never any younger than 1 year old. A [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
+    \ spell can restore a creature's age to normal.  \n- The flow of time within the\
+    \ lair is altered such that everything within moves up to 10 years forward or\
+    \ backward (sphinx's choice). Only the sphinx is immediately aware of the time\
+    \ change. A [[5. Mechanics/Spells/Wish.md|wish]] spell can return the caster and\
+    \ up to seven other creatures designated by the caster to their normal time. \
+    \ \n- The sphinx shifts itself and up to seven other creatures it can see within\
+    \ in its lair to another plane of existence. Once outside its lair, the sphinx\
+    \ can't use lair actions, but it can return to its lair as a bonus action on its\
+    \ turn, taking up to seven creatures with it.  "
   "name": ""
 "source":
 - "MM"

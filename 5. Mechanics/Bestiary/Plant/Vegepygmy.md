@@ -57,11 +57,11 @@ Although they prefer to eat fresh meat, bone, and blood, vegepygmies can absorb 
     \ 0 hit points and doesn't regenerate."
   "name": "Regeneration"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d6 + 2|text(5) (1d6 + 2) slashing damage."
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+    \ + 2) slashing damage."
   "name": "Claws"
-- "desc": "Ranged Weapon Attack: dice: d20+4 (+4) to hit, range 30/120 ft.,\
-    \ one target. Hit: dice:1d4 + 2|text(4) (1d4 + 2) bludgeoning damage."
+- "desc": "Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit:\
+    \ 4 (1d4 + 2) bludgeoning damage."
   "name": "Sling"
 "source":
 - "MPMM"

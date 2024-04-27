@@ -35,10 +35,10 @@ aliases:
 "languages": ""
 "cr": "0"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+2 (+2) to hit, reach 5 ft., one creature.\
-    \ Hit: 1 piercing damage, and the target must make a DC 9 Constitution saving\
-    \ throw, taking dice:1d8|text(4) (1d8) poison damage on a failed save, or\
-    \ half as much damage on a successful one."
+- "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one creature. Hit: 1 piercing\
+    \ damage, and the target must make a DC 9 Constitution saving throw, taking 4\
+    \ (1d8) poison damage on a failed save, or half as much damage on a successful\
+    \ one."
   "name": "Sting"
 "source":
 - "MM"

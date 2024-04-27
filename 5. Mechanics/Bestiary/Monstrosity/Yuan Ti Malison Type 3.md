@@ -108,21 +108,19 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
 - "desc": "The yuan-ti makes two ranged attacks or two melee attacks, but can constrict\
     \ only once."
   "name": "Multiattack (Yuan-ti Form Only)"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one creature.\
-    \ Hit: dice:1d4 + 3|text(5) (1d4 + 3) piercing damage plus dice:2d6|text(7)\
-    \ (2d6) poison damage."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 5 (1d4\
+    \ + 3) piercing damage plus 7 (2d6) poison damage."
   "name": "Bite (Snake Form Only)"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d6 + 3|text(10) (2d6 + 3) bludgeoning damage, and the target\
-    \ is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 13). Until\
-    \ this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6\
+    \ + 3) bludgeoning damage, and the target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ (escape DC 13). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
     \ and the yuan-ti can't constrict another target."
   "name": "Constrict"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d6 + 3|text(6) (1d6 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6\
+    \ + 3) slashing damage."
   "name": "Scimitar (Yuan-ti Form Only)"
-- "desc": "Ranged Weapon Attack: dice: d20+4 (+4) to hit, range 150/600 ft.,\
-    \ one target. Hit: dice:1d8 + 2|text(6) (1d8 + 2) piercing damage."
+- "desc": "Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit:\
+    \ 6 (1d8 + 2) piercing damage."
   "name": "Longbow (Yuan-ti Form Only)"
 "source":
 - "MM"

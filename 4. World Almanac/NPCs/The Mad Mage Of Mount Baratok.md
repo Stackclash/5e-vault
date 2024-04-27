@@ -139,8 +139,8 @@ await dv.view("npcRelationships", { current: dv.current() })
 "cr": "12"
 "traits":
 - "desc": "The mad mage is an 18th-level spellcaster. His spellcasting ability is\
-    \ Intelligence (spell save DC 17, dice: d20+9 (+9) to hit with spell attacks).\
-    \ He can cast [[5. Mechanics/Spells/Disguise Self.md|disguise self]] and [[5. Mechanics/Spells/Invisibility.md|invisibility]]\
+    \ Intelligence (spell save DC 17, +9 to hit with spell attacks). He can cast [[5. Mechanics/Spells/Disguise Self.md|disguise\
+    \ self]] and [[5. Mechanics/Spells/Invisibility.md|invisibility]]\
     \ at will and has the following wizard spells prepared:\n\nAt will: [[5. Mechanics/Spells/Disguise Self.md|disguise\
     \ self]], [[5. Mechanics/Spells/Invisibility.md|invisibility]]\n\
     \nCantrips (at will): [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]], [[5. Mechanics/Spells/Light.md|light]],\
@@ -165,9 +165,8 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ effects."
   "name": "Magic Resistance"
 "actions":
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice:1d4 + 2|text(4) (1d4 + 2) piercing\
-    \ damage."
+- "desc": "Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60\
+    \ ft., one target. Hit: 4 (1d4 + 2) piercing damage."
   "name": "Dagger"
 "source":
 - "CoS"

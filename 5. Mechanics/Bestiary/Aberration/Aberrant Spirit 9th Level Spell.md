@@ -38,8 +38,7 @@ aliases:
   "name": "Regeneration (Slaad Only)"
 - "desc": "At the start of each of the aberration's turns, each creature within 5\
     \ feet of the aberration must succeed on a Wisdom saving throw against your spell\
-    \ save DC or take dice: 2d6|avg|noform (2d6) psychic damage, provided that\
-    \ the aberration isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ save DC or take 2d6 psychic damage, provided that the aberration isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
   "name": "Whispering Aura (Star Spawn Only)"
 "actions":
 - "desc": "The aberration makes a number of attacks equal to half this spell's level\
@@ -49,9 +48,9 @@ aliases:
     \ 150 ft., one creature. Hit: 1d8 + 3 + summonSpellLevel psychic damage."
   "name": "Eye Ray (Beholderkin Only)"
 - "desc": "Melee Weapon Attack: the summoner's spell attack modifier to hit, reach\
-    \ 5 ft., one target. Hit: 1d10 + 3 + summonSpellLevel slashing damage. If\
-    \ the target is a creature, it can't regain hit points until the start of the\
-    \ aberration's next turn."
+    \ 5 ft., one target. Hit: 1d10 + 3 + summonSpellLevel slashing damage. If the\
+    \ target is a creature, it can't regain hit points until the start of the aberration's\
+    \ next turn."
   "name": "Claws (Slaad Only)"
 - "desc": "Melee Spell Attack: the summoner's spell attack modifier to hit, reach\
     \ 5 ft., one creature. Hit: 1d8 + 3 + summonSpellLevel psychic damage."

@@ -75,10 +75,9 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
 - "desc": "The abishai makes two Fiendish Claw attacks, or it makes one Fiendish Claw\
     \ attack and uses Spellcasting."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d8 + 3|text(12) (2d8 + 3) force damage. If the target is a\
-    \ creature, it must succeed on a DC 16 Constitution saving throw or take dice:3d10|text(16)\
-    \ (3d10) poison damage and become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+- "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d8\
+    \ + 3) force damage. If the target is a creature, it must succeed on a DC 16 Constitution\
+    \ saving throw or take 16 (3d10) poison damage and become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
     \ for 1 minute. The [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] target\
     \ can repeat the saving throw at the end of each of its turns, ending the effect\
     \ on itself on a success."

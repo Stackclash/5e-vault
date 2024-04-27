@@ -46,13 +46,13 @@ aliases:
 - "desc": "This creature is a Retainer, as described in \"Strongholds and Followers\""
   "name": "Retainer"
 "actions":
-- "desc": "Ranged Weapon Attack: dice: d20+6 (+6) to hit, range 150/600 ft.,\
-    \ one target. Hit: dice:1d8 + 4|text(8) (1d8 + 4) piercing damage.\n\nAt\
-    \ 7th level, retainers can take two signature attacks per round."
+- "desc": "Ranged Weapon Attack: +6 to hit, range 150/600 ft., one target. Hit:\
+    \ 8 (1d8 + 4) piercing damage.\n\nAt 7th level, retainers can take two signature\
+    \ attacks per round."
   "name": "Signature Attack"
 - "desc": "Prerequisite: 3rd-level retainer\n\nA hawk appears and attacks the eyes\
     \ of a creature within 60 feet. The target must make a Dexterity saving throw\
-    \ or take dice:1d4|text(2) (1d4) slashing damage and be [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]\
+    \ or take 2 (1d4) slashing damage and be [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]\
     \ until the end of its next turn."
   "name": "Hawk Strike (3/Day)"
 - "desc": "Prerequisite: 5th-level retainer\n\nSpectral wolves appear around every\
@@ -62,8 +62,8 @@ aliases:
 - "desc": "Prerequisite: 7th-level retainer\n\nA dire bear appears and attacks an\
     \ enemy within 60 feet. The target must make a Strength saving throw or be knocked\
     \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]] and [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]].\
-    \ On each of its following turns, the target takes dice:2d6 + 3|text(10) (2d6\
-    \ + 3) slashing damage and can make a Strength ([[/5. Mechanics/Rules/Skills.md#Athletics|Athletics]])\
+    \ On each of its following turns, the target takes 10 (2d6 + 3) slashing damage\
+    \ and can make a Strength ([[/5. Mechanics/Rules/Skills.md#Athletics|Athletics]])\
     \ check to escape. If it escapes, the bear disappears."
   "name": "Bear Slam (1/Day)"
 "source":

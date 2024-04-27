@@ -67,22 +67,20 @@ This inherent heat is an asset to salamanders' skill as smiths, allowing them to
 "cr": "5"
 "traits":
 - "desc": "A creature that touches the salamander or hits it with a melee attack while\
-    \ within 5 feet of it takes dice:2d6|text(7) (2d6) fire damage."
+    \ within 5 feet of it takes 7 (2d6) fire damage."
   "name": "Heated Body"
-- "desc": "Any metal melee weapon the salamander wields deals an extra dice:1d6|text(3)\
-    \ (1d6) fire damage on a hit (included in the attack)."
+- "desc": "Any metal melee weapon the salamander wields deals an extra 3 (1d6) fire\
+    \ damage on a hit (included in the attack)."
   "name": "Heated Weapons"
 "actions":
 - "desc": "The salamander makes two attacks: one with its spear and one with its tail."
   "name": "Multiattack"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice:2d6 + 4|text(11) (2d6 + 4) piercing\
-    \ damage, or dice:2d8 + 4|text(13) (2d8 + 4) piercing damage if used with\
-    \ two hands to make a melee attack, plus dice:1d6|text(3) (1d6) fire damage."
+- "desc": "Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60\
+    \ ft., one target. Hit: 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing\
+    \ damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage."
   "name": "Spear"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 10 ft., one target.\
-    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) bludgeoning damage plus dice:2d6|text(7)\
-    \ (2d6) fire damage, and the target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+- "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 11 (2d6\
+    \ + 4) bludgeoning damage plus 7 (2d6) fire damage, and the target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ (escape DC 14). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
     \ the salamander can automatically hit the target with its tail, and the salamander\
     \ can't make tail attacks against other targets."

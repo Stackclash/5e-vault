@@ -104,10 +104,10 @@ A mummy lord watches over an ancient temple or tomb that is protected by lesser 
 "cr": "15"
 "traits":
 - "desc": "The mummy lord is a 10th-level spellcaster. Its spellcasting ability is\
-    \ Wisdom (spell save DC 17, dice: d20+9 (+9) to hit with spell attacks). The\
-    \ mummy lord has the following cleric spells prepared:\n\nCantrips (at will):\
-    \ [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
-    \n1st level (4 slots): [[5. Mechanics/Spells/Command.md|command]], [[5. Mechanics/Spells/Guiding Bolt.md|guiding bolt]],\
+    \ Wisdom (spell save DC 17, +9 to hit with spell attacks). The mummy lord has\
+    \ the following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]],\
+    \ [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\n1st level (4 slots):\
+    \ [[5. Mechanics/Spells/Command.md|command]], [[5. Mechanics/Spells/Guiding Bolt.md|guiding bolt]],\
     \ [[5. Mechanics/Spells/Shield Of Faith.md|shield of faith]]\n\n2nd level (3 slots):\
     \ [[5. Mechanics/Spells/Hold Person.md|hold person]], [[5. Mechanics/Spells/Silence.md|silence]],\
     \ [[5. Mechanics/Spells/Spiritual Weapon.md|spiritual weapon]]\n\n3rd level (3\
@@ -128,15 +128,14 @@ A mummy lord watches over an ancient temple or tomb that is protected by lesser 
 - "desc": "The mummy can use its Dreadful Glare and makes one attack with its rotting\
     \ fist."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 5 ft., one target.\
-    \ Hit: dice:3d6 + 4|text(14) (3d6 + 4) bludgeoning damage plus dice:6d6|text(21)\
-    \ (6d6) necrotic damage. If the target is a creature, it must succeed on a DC\
-    \ 16 Constitution saving throw or be cursed with mummy rot. The cursed target\
-    \ can't regain hit points, and its hit point maximum decreases by dice:3d6|text(10)\
-    \ (3d6) for every 24 hours that elapse. If the curse reduces the target's hit\
-    \ point maximum to 0, the target dies, and its body turns to dust. The curse lasts\
-    \ until removed by the [[5. Mechanics/Spells/Remove Curse.md|remove curse]] spell\
-    \ or other magic."
+- "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 14 (3d6\
+    \ + 4) bludgeoning damage plus 21 (6d6) necrotic damage. If the target is a creature,\
+    \ it must succeed on a DC 16 Constitution saving throw or be cursed with mummy\
+    \ rot. The cursed target can't regain hit points, and its hit point maximum decreases\
+    \ by 10 (3d6) for every 24 hours that elapse. If the curse reduces the target's\
+    \ hit point maximum to 0, the target dies, and its body turns to dust. The curse\
+    \ lasts until removed by the [[5. Mechanics/Spells/Remove Curse.md|remove curse]]\
+    \ spell or other magic."
   "name": "Rotting Fist"
 - "desc": "The mummy lord targets one creature it can see within 60 feet of it. If\
     \ the target can see the mummy lord, it must succeed on a DC 16 Wisdom saving\
@@ -183,9 +182,8 @@ A mummy lord watches over an ancient temple or tomb that is protected by lesser 
     \ count 20 on the next round, any non-undead creature that tries to cast a spell\
     \ of 4th level or lower in the mummy lord's lair is wracked with pain. The creature\
     \ can choose another action, but if it tries to cast the spell, it must make a\
-    \ DC 16 Constitution saving throw. On a failed save, it takes dice: 1d6|avg|noform\
-    \ (1d6) necrotic damage per level of the spell, and the spell has no effect\
-    \ and is wasted.  "
+    \ DC 16 Constitution saving throw. On a failed save, it takes 1d6 necrotic damage\
+    \ per level of the spell, and the spell has no effect and is wasted.  "
   "name": ""
 "regional_effects":
 - "desc": "A mummy lord's temple or tomb is warped in any of the following ways by\

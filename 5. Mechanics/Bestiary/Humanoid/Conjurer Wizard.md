@@ -57,9 +57,8 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "actions":
 - "desc": "The conjurer makes three Arcane Burst attacks."
   "name": "Multiattack"
-- "desc": "Melee or Ranged Spell Attack: dice: d20+8 (+8) to hit, reach 5 ft.\
-    \ or range 120 ft., one target. Hit: dice:3d10 + 3|text(19) (3d10 + 3) force\
-    \ damage."
+- "desc": "Melee or Ranged Spell Attack: +8 to hit, reach 5 ft. or range 120 ft.,\
+    \ one target. Hit: 19 (3d10 + 3) force damage."
   "name": "Arcane Burst"
 "bonus_actions":
 - "desc": "The conjurer teleports, along with any equipment it is wearing or carrying,\

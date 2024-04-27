@@ -79,9 +79,9 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 "actions":
 - "desc": "The mangler makes two Claw attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d8 + 4|text(8) (1d8 + 4) slashing damage. If the attack roll\
-    \ has advantage, the target also takes dice:2d6|text(7) (2d6) psychic damage."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8\
+    \ + 4) slashing damage. If the attack roll has advantage, the target also takes\
+    \ 7 (2d6) psychic damage."
   "name": "Claw"
 - "desc": "The mangler makes six Claw attacks. Either before or after these attacks,\
     \ it can move up to its speed without provoking opportunity attacks."

@@ -91,9 +91,8 @@ Whether these tall, gaunt creatures were peaceful or savage, cultured or primiti
 "actions":
 - "desc": "The githyanki makes two greatsword attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d6 + 2|text(9) (2d6 + 2) slashing damage plus dice:2d6|text(7)\
-    \ (2d6) psychic damage."
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6\
+    \ + 2) slashing damage plus 7 (2d6) psychic damage."
   "name": "Greatsword"
 "source":
 - "MM"

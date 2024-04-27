@@ -50,8 +50,8 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
 - "desc": "The plesiosaurus can hold its breath for 1 hour."
   "name": "Hold Breath"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 10 ft., one target.\
-    \ Hit: dice:3d6 + 4|text(14) (3d6 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 14 (3d6\
+    \ + 4) piercing damage."
   "name": "Bite"
 "source":
 - "MM"

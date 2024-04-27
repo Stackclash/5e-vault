@@ -93,8 +93,8 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
 "cr": "11"
 "traits":
 - "desc": "The efreeti's innate spellcasting ability is Charisma (spell save DC 15,\
-    \ dice: d20+7 (+7) to hit with spell attacks). It can innately cast the following\
-    \ spells, requiring no material components:\n\nAt will: [[5. Mechanics/Spells/Detect Magic.md|detect magic]]\n\
+    \ +7 to hit with spell attacks). It can innately cast the following spells, requiring\
+    \ no material components:\n\nAt will: [[5. Mechanics/Spells/Detect Magic.md|detect magic]]\n\
     \n1/day each: [[5. Mechanics/Spells/Conjure Elemental.md|conjure elemental]]\
     \ ([[5. Mechanics/Bestiary/Elemental/Fire Elemental.md|fire elemental]] only), [[5. Mechanics/Spells/Gaseous Form.md|gaseous\
     \ form]], [[5. Mechanics/Spells/Invisibility.md|invisibility]],\
@@ -108,12 +108,11 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
 "actions":
 - "desc": "The efreeti makes two scimitar attacks or uses its Hurl Flame twice."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+10 (+10) to hit, reach 5 ft., one\
-    \ target. Hit: dice:2d6 + 6|text(13) (2d6 + 6) slashing damage plus dice:2d6|text(7)\
-    \ (2d6) fire damage."
+- "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 13 (2d6\
+    \ + 6) slashing damage plus 7 (2d6) fire damage."
   "name": "Scimitar"
-- "desc": "Ranged Spell Attack: dice: d20+7 (+7) to hit, range 120 ft., one\
-    \ target. Hit: dice:5d6|text(17) (5d6) fire damage."
+- "desc": "Ranged Spell Attack: +7 to hit, range 120 ft., one target. Hit: 17\
+    \ (5d6) fire damage."
   "name": "Hurl Flame"
 "source":
 - "MM"

@@ -60,9 +60,8 @@ Ancient legends speak of a seelie fey who betrayed the Summer Queen. In the Summ
     \ that rely on sight."
   "name": "Light Sensitivity"
 "actions":
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice:1d4 + 3|text(5) (1d4 + 3) piercing\
-    \ damage plus dice:2d6|text(7) (2d6) necrotic damage."
+- "desc": "Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60\
+    \ ft., one target. Hit: 5 (1d4 + 3) piercing damage plus 7 (2d6) necrotic damage."
   "name": "Dagger"
 "source":
 - "MPMM"

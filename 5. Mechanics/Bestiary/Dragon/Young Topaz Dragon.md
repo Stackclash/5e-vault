@@ -54,19 +54,18 @@ They're approachable and easy to talk to as long as you don't mind never getting
 "cr": "7"
 "traits":
 - "desc": ". . [[/5. Mechanics/Rules/Variant Rules/Gemstone Dragon Psionics.md|Gemstone Dragon Psionics]].\
-    \ Charges: 13 • Recharge: dice: 1d6|avg|noform (1d6) • Fracture:\
-    \ 10"
+    \ Charges: 13 • Recharge: 1d6 • Fracture: 10"
   "name": ""
 - "desc": "All allies within 30 feet gain +2 on Intelligence checks and saving throws."
   "name": "Uplift Aura"
 "actions":
 - "desc": "The dragon makes three attacks: one with its bite and two with its claws."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 10 ft., one target.\
-    \ Hit: dice:2d10 + 2|text(13) (2d10 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 13 (2d10\
+    \ + 2) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d6 + 2|text(9) (2d6 + 2) slashing damage."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 9 (2d6\
+    \ + 2) slashing damage."
   "name": "Claw"
 "source":
 - "SaF"

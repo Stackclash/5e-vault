@@ -74,8 +74,8 @@ Lacking physical attacks, Nerium relies on Implant Nightmare to overwhelm her en
     \ and manifests the target's deepest fear. The target must make a DC 16 Wisdom\
     \ saving throw. On a failed save, the target becomes [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
     \ for 1 minute. At the start of each of the target's turns, the target must repeat\
-    \ the saving throw or take dice:4d10|text(22) (4d10) psychic damage. On a\
-    \ successful save, the nightmare ends."
+    \ the saving throw or take 22 (4d10) psychic damage. On a successful save, the\
+    \ nightmare ends."
   "name": "Implant Nightmare"
 - "desc": "The dragon exhales a swirling cloud of pollen and red and purple petals\
     \ in a 60-foot cone. Each creature in the area must make a DC 16 Wisdom saving\
@@ -84,10 +84,10 @@ Lacking physical attacks, Nerium relies on Implant Nightmare to overwhelm her en
     \ affected by Pollen Breath for 24 hours."
   "name": "Pollen Breath (Recharge 5-6)"
 - "desc": "The oleander dragon sings a magical song. Each enemy that can hear it must\
-    \ succeed on a DC 16 Intelligence saving throw or take dice:4d8 + 4|text(22)\
-    \ (4d8 + 4) psychic damage and be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
-    \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
-    \ turns, ending the effect on itself on a success."
+    \ succeed on a DC 16 Intelligence saving throw or take 22 (4d8 + 4) psychic damage\
+    \ and be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]] for 1 minute. A creature\
+    \ can repeat the saving throw at the end of each of its turns, ending the effect\
+    \ on itself on a success."
   "name": "Song of Cestilani (1/day)"
 "source":
 - "SaF"

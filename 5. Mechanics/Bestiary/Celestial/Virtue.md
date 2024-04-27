@@ -91,11 +91,10 @@ See? Proper Celestial gibberish!
 - "desc": "While the Virtue sings, each ally may choose one condition they're suffering\
     \ from at the start of their turn and end it."
   "name": "Chorus of Succor"
-- "desc": "While the Virtue sings, each ally may add a dice: d6|avg|noform (d6)\
-    \ to the result of any attack roll or saving throw, once per round. The ally can\
-    \ wait until after they roll the dice: d20|avg|noform (d20) before deciding\
-    \ to use the inspiration die, but must decide before the GM says whether the roll\
-    \ succeeds or fails."
+- "desc": "While the Virtue sings, each ally may add a d6 to the result of any attack\
+    \ roll or saving throw, once per round. The ally can wait until after they roll\
+    \ the d20 before deciding to use the inspiration die, but must decide before the\
+    \ GM says whether the roll succeeds or fails."
   "name": "Chorus of Inspiration"
 - "desc": "While the Virtue sings, any enemy who deals damage to one of the Virtue's\
     \ allies immediately takes 5 thunder damage."

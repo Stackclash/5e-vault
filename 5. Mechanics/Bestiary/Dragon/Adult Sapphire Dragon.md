@@ -55,8 +55,7 @@ Being oldest, they are also the most reserved, taciturn. Even the young sapphire
 "cr": "17"
 "traits":
 - "desc": ". . [[/5. Mechanics/Rules/Variant Rules/Gemstone Dragon Psionics.md|Gemstone Dragon Psionics]].\
-    \ Charges: 19 • Recharge: dice: 1d8|avg|noform (1d8) • Fracture:\
-    \ 23"
+    \ Charges: 19 • Recharge: 1d8 • Fracture: 23"
   "name": ""
 - "desc": "If the dragon fails a saving throw, it can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
@@ -68,14 +67,14 @@ Being oldest, they are also the most reserved, taciturn. Even the young sapphire
 "actions":
 - "desc": "The dragon makes three attacks: one with its bite and two with its claws."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+11 (+11) to hit, reach 10 ft., one\
-    \ target. Hit: dice:2d10 + 5|text(16) (2d10 + 5) piercing damage."
+- "desc": "Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 16\
+    \ (2d10 + 5) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+11 (+11) to hit, reach 5 ft., one\
-    \ target. Hit: dice:2d6 + 5|text(12) (2d6 + 5) slashing damage."
+- "desc": "Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 12 (2d6\
+    \ + 5) slashing damage."
   "name": "Claw"
-- "desc": "Melee Weapon Attack: dice: d20+11 (+11) to hit; reach 15 ft., one\
-    \ target. Hit: dice:2d8 + 5|text(14) (2d8 + 5) bludgeoning damage."
+- "desc": "Melee Weapon Attack: +11 to hit; reach 15 ft., one target. Hit: 14\
+    \ (2d8 + 5) bludgeoning damage."
   "name": "Tail"
 "legendary_actions":
 - "desc": "The dragon makes a Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
@@ -84,8 +83,8 @@ Being oldest, they are also the most reserved, taciturn. Even the young sapphire
 - "desc": "The dragon uses a [[5. Mechanics/Optional Features/List Psionic Manifestation.md|psionic ability]]."
   "name": "Psionics"
 - "desc": "The dragon releases a wave of telekinetic energy from its mind. Every creature\
-    \ within 15 feet must make a DC 24 Intelligence saving throw or take dice:2d6\
-    \ + 6|text(13) (2d6 + 6) force damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
+    \ within 15 feet must make a DC 24 Intelligence saving throw or take 13 (2d6 +\
+    \ 6) force damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
     \ The dragon then can move up to half its movement speed."
   "name": "Psionic Shift (Costs 2 Actions)"
 "source":

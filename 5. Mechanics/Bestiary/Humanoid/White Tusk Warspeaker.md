@@ -45,8 +45,8 @@ Warspeakers seek conflict constantly, flying into a frothing rage at the slighte
 "cr": "3"
 "traits":
 - "desc": "The orc is a 5th-level spellcaster. Its spellcasting ability is Wisdom\
-    \ (spell save DC 13, dice: d20+5 (+5) to hit with spell attacks). The orc\
-    \ has the following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Resistance.md|resistance]],\
+    \ (spell save DC 13, +5 to hit with spell attacks). The orc has the following\
+    \ cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Resistance.md|resistance]],\
     \ [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
     \n1st level (4 slots): [[5. Mechanics/Spells/Cure Wounds.md|cure wounds]], [[5. Mechanics/Spells/Guiding Bolt.md|guiding\
     \ bolt]], [[5. Mechanics/Spells/Inflict Wounds.md|inflict wounds]]\n\
@@ -66,13 +66,12 @@ Warspeakers seek conflict constantly, flying into a frothing rage at the slighte
 - "desc": "The White Tusk warspeaker makes a goading lash attack and two spiked club\
     \ attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one allied\
-    \ target. Hit: dice:1d4 + 3|text(5) (1d4 + 3) slashing damage. The next\
-    \ melee weapon attack the target makes before the end of its next turn has advantage\
-    \ and deals an extra dice:3d6|text(10) (3d6) damage."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one allied target. Hit:\
+    \ 5 (1d4 + 3) slashing damage. The next melee weapon attack the target makes before\
+    \ the end of its next turn has advantage and deals an extra 10 (3d6) damage."
   "name": "Goading Lash"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d6 + 3|text(10) (2d6 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6\
+    \ + 3) piercing damage."
   "name": "Spiked Club"
 "source":
 - "SaF"

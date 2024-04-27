@@ -59,13 +59,13 @@ Empyreans don't age but can be slain. Because few empyreans can imagine their ow
 "cr": "23"
 "traits":
 - "desc": "The empyrean's innate spellcasting ability is Charisma (spell save DC 23,\
-    \ dice: d20+15 (+15) to hit with spell attacks). It can innately cast the\
-    \ following spells, requiring no material components:\n\nAt will: [[5. Mechanics/Spells/Greater Restoration.md|greater\
-    \ restoration]], [[5. Mechanics/Spells/Pass Without Trace.md|pass without trace]],\
-    \ [[5. Mechanics/Spells/Water Breathing.md|water breathing]], [[5. Mechanics/Spells/Water Walk.md|water walk]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Commune.md|commune]], [[5. Mechanics/Spells/Dispel Evil And Good.md|dispel evil and good]],\
-    \ [[5. Mechanics/Spells/Earthquake.md|earthquake]], [[5. Mechanics/Spells/Fire Storm.md|fire storm]],\
-    \ [[5. Mechanics/Spells/Plane Shift.md|plane shift]] (self only)"
+    \ +15 to hit with spell attacks). It can innately cast the following spells, requiring\
+    \ no material components:\n\nAt will: [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]],\
+    \ [[5. Mechanics/Spells/Pass Without Trace.md|pass without trace]], [[5. Mechanics/Spells/Water Breathing.md|water breathing]],\
+    \ [[5. Mechanics/Spells/Water Walk.md|water walk]]\n\n1/day each: [[5. Mechanics/Spells/Commune.md|commune]],\
+    \ [[5. Mechanics/Spells/Dispel Evil And Good.md|dispel evil and good]], [[5. Mechanics/Spells/Earthquake.md|earthquake]],\
+    \ [[5. Mechanics/Spells/Fire Storm.md|fire storm]], [[5. Mechanics/Spells/Plane Shift.md|plane shift]]\
+    \ (self only)"
   "name": "Innate Spellcasting"
 - "desc": "If the empyrean fails a saving throw, it can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
@@ -75,15 +75,14 @@ Empyreans don't age but can be slain. Because few empyreans can imagine their ow
 - "desc": "The empyrean's weapon attacks are magical."
   "name": "Magic Weapons"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+17 (+17) to hit, reach 10 ft., one\
-    \ target. Hit: dice:6d6 + 10|text(31) (6d6 + 10) bludgeoning damage. If\
-    \ the target is a creature, it must succeed on a DC 15 Constitution saving throw\
-    \ or be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]] until the end of the\
-    \ empyrean's next turn."
+- "desc": "Melee Weapon Attack: +17 to hit, reach 10 ft., one target. Hit: 31\
+    \ (6d6 + 10) bludgeoning damage. If the target is a creature, it must succeed\
+    \ on a DC 15 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+    \ until the end of the empyrean's next turn."
   "name": "Maul"
-- "desc": "Ranged Spell Attack: dice: d20+15 (+15) to hit, range 600 ft., one\
-    \ target. Hit: dice:7d6|text(24) (7d6) damage of one of the following types\
-    \ (empyrean's choice): acid, cold, fire, force, lightning, radiant, or thunder."
+- "desc": "Ranged Spell Attack: +15 to hit, range 600 ft., one target. Hit: 24\
+    \ (7d6) damage of one of the following types (empyrean's choice): acid, cold,\
+    \ fire, force, lightning, radiant, or thunder."
   "name": "Bolt"
 "legendary_actions":
 - "desc": "The empyrean makes one attack."

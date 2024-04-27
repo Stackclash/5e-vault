@@ -69,8 +69,8 @@ An invisible stalker requires no air, food, drink, or sleep.
 "actions":
 - "desc": "The stalker makes two slam attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d6 + 3|text(10) (2d6 + 3) bludgeoning damage."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6\
+    \ + 3) bludgeoning damage."
   "name": "Slam"
 "source":
 - "MM"

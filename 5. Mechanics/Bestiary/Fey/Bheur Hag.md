@@ -73,13 +73,12 @@ In combat, a bheur hag also strives to inspire horror. When near a recently slai
 "actions":
 - "desc": "The hag makes two Slam or Frost Shard attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d8 + 1|text(10) (2d8 + 1) bludgeoning damage plus dice:4d8|text(18)\
-    \ (4d8) cold damage."
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 10 (2d8\
+    \ + 1) bludgeoning damage plus 18 (4d8) cold damage."
   "name": "Slam"
-- "desc": "Ranged Spell Attack: dice: d20+6 (+6) to hit, range 60 ft., one target.\
-    \ Hit: dice:6d8 + 3|text(30) (6d8 + 3) cold damage, and the target's speed\
-    \ is reduced by 10 feet until the start of the hag's next turn."
+- "desc": "Ranged Spell Attack: +6 to hit, range 60 ft., one target. Hit: 30 (6d8\
+    \ + 3) cold damage, and the target's speed is reduced by 10 feet until the start\
+    \ of the hag's next turn."
   "name": "Frost Shard"
 - "desc": "The hag feeds on the corpse of one enemy within reach that died within\
     \ the past minute. Each creature of the hag's choice that is within 60 feet and\

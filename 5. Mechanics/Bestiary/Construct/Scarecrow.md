@@ -52,9 +52,9 @@ A scarecrow is animated by the bound spirit of a slain evil creature, granting i
 "actions":
 - "desc": "The scarecrow makes two claw attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d4 + 1|text(6) (2d4 + 1) slashing damage. If the target is\
-    \ a creature, it must succeed on a DC 11 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+- "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (2d4\
+    \ + 1) slashing damage. If the target is a creature, it must succeed on a DC 11\
+    \ Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
     \ until the end of the scarecrow's next turn."
   "name": "Claw"
 - "desc": "The scarecrow targets one creature it can see within 30 feet of it. If\

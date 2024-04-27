@@ -62,9 +62,8 @@ A babau demon has the cunning of a devil and the bloodthirstiness of a demon. It
 - "desc": "The babau makes two Claw attacks. It can replace one attack with a use\
     \ of Spellcasting or Weakening Gaze."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d4 + 4|text(6) (1d4 + 4) slashing damage plus dice:1d4|text(2)\
-    \ (1d4) acid damage."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d4\
+    \ + 4) slashing damage plus 2 (1d4) acid damage."
   "name": "Claw"
 - "desc": "The babau targets one creature that it can see within 20 feet of it. The\
     \ target must make a DC 13 Constitution saving throw. On a failed save, the target\

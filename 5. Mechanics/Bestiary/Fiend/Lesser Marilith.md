@@ -51,12 +51,11 @@ aliases:
 - "desc": "The lesser marilith makes three attacks with its longsword and one attack\
     \ with its tail."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d8 + 3|text(7) (1d8 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8\
+    \ + 3) slashing damage."
   "name": "Longsword"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 10 ft., one creature.\
-    \ Hit: dice:2d8 + 3|text(12) (2d8 + 3) bludgeoning damage. If the target\
-    \ is Medium or smaller, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+- "desc": "Melee Weapon Attack: +6 to hit, reach 10 ft., one creature. Hit: 12\
+    \ (2d8 + 3) bludgeoning damage. If the target is Medium or smaller, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ (escape DC 14). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
     \ the lesser marilith can automatically hit the target with its tail, and the\
     \ lesser marilith cannot make tail attacks against other targets."

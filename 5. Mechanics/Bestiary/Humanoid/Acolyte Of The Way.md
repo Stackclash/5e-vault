@@ -46,9 +46,9 @@ aliases:
 - "desc": "This creature is a Retainer, as described in \"Strongholds and Followers\""
   "name": "Retainer"
 "actions":
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft.,\
-    \ one target. Hit: dice:2d4 + 4|text(9) (2d4 + 4) bludgeoning damage.\n\n\
-    At 7th level, retainers can take two signature attacks per round."
+- "desc": "Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft., one target. Hit:\
+    \ 9 (2d4 + 4) bludgeoning damage.\n\nAt 7th level, retainers can take two signature\
+    \ attacks per round."
   "name": "Signature Attack"
 - "desc": "Prerequisite: 3rd-level retainer"
   "name": "Fists of Fury (3/Day)"

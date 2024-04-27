@@ -59,8 +59,8 @@ Hook horrors live in extended family groups or clans. Each clan is ruled by the 
 "actions":
 - "desc": "The hook horror makes two hook attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 10 ft., one target.\
-    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 11 (2d6\
+    \ + 4) piercing damage."
   "name": "Hook"
 "source":
 - "MM"

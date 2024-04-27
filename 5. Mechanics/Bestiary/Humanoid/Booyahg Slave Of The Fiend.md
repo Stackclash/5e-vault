@@ -63,9 +63,9 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
     \ [[5. Mechanics/Spells/Plane Shift.md|plane shift]]"
   "name": "Innate Spellcasting"
 - "desc": "The goblin is a 17th-level spellcaster. Its spellcasting ability is Charisma\
-    \ (spell save DC 15, dice: d20+7 (+7) to hit with spell attacks). It regains\
-    \ its expended spell slots when it finishes a short or long rest. It knows the\
-    \ following warlock spells:\n\nCantrips (at will): [[5. Mechanics/Spells/Eldritch Blast.md|eldritch blast]],\
+    \ (spell save DC 15, +7 to hit with spell attacks). It regains its expended spell\
+    \ slots when it finishes a short or long rest. It knows the following warlock\
+    \ spells:\n\nCantrips (at will): [[5. Mechanics/Spells/Eldritch Blast.md|eldritch blast]],\
     \ [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]], [[5. Mechanics/Spells/Friends.md|friends]],\
     \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]],\
     \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]], [[5. Mechanics/Spells/Shocking Grasp.md|shocking grasp]]\n\
@@ -76,14 +76,13 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
     \ [[5. Mechanics/Spells/Stinking Cloud.md|stinking cloud]], [[5. Mechanics/Spells/Suggestion.md|suggestion]],\
     \ [[5. Mechanics/Spells/Wall Of Fire.md|wall of fire]]"
   "name": "Spellcasting"
-- "desc": "When the goblin makes an ability check or saving throw, it can add a dice:\
-    \ d10|avg|noform (d10) to the roll. It can do this after the roll is made but\
-    \ before any of the roll's effects occur."
+- "desc": "When the goblin makes an ability check or saving throw, it can add a d10\
+    \ to the roll. It can do this after the roll is made but before any of the roll's\
+    \ effects occur."
   "name": "Dark One's Own Luck (Recharges after a Short or Long Rest)"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d6|text(3) (1d6) bludgeoning damage plus dice:3d6|text(10)\
-    \ (3d6) fire damage."
+- "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d6)\
+    \ bludgeoning damage plus 10 (3d6) fire damage."
   "name": "Mace"
 "source":
 - "VGM"

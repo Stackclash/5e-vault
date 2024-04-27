@@ -184,22 +184,20 @@ await dv.view("npcRelationships", { current: dv.current() })
 - "desc": "Zariel makes three Flail or Longsword attacks. She can replace one attack\
     \ with a use of Horrid Touch, if available."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+16 (+16) to hit, reach 10 ft., one\
-    \ target. Hit: dice:2d8 + 8|text(17) (2d8 + 8) force damage plus dice:8d8|text(36)\
-    \ (8d8) fire damage."
+- "desc": "Melee Weapon Attack: +16 to hit, reach 10 ft., one target. Hit: 17\
+    \ (2d8 + 8) force damage plus 36 (8d8) fire damage."
   "name": "Flail"
-- "desc": "Melee Weapon Attack: dice: d20+16 (+16) to hit, reach 10 ft., one\
-    \ target. Hit: dice:2d8 + 8|text(17) (2d8 + 8) radiant damage, or dice:2d10\
-    \ + 8|text(19) (2d10 + 8) radiant damage when used with two hands, plus dice:8d8|text(36)\
-    \ (8d8) fire damage."
+- "desc": "Melee Weapon Attack: +16 to hit, reach 10 ft., one target. Hit: 17\
+    \ (2d8 + 8) radiant damage, or 19 (2d10 + 8) radiant damage when used with two\
+    \ hands, plus 36 (8d8) fire damage."
   "name": "Longsword"
 - "desc": "Zariel touches one creature within 10 feet of her. The target must succeed\
-    \ on a DC 26 Constitution saving throw or take dice:8d10|text(44) (8d10) necrotic\
-    \ damage and be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for 1 minute.\
-    \ While [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in this way, the\
-    \ target is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] and [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]].\
-    \ The target can repeat the saving throw at the end of each of its turns, ending\
-    \ the effect on itself on a success."
+    \ on a DC 26 Constitution saving throw or take 44 (8d10) necrotic damage and be\
+    \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for 1 minute. While [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ in this way, the target is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]\
+    \ and [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]]. The target can repeat\
+    \ the saving throw at the end of each of its turns, ending the effect on itself\
+    \ on a success."
   "name": "Horrid Touch (Recharge 5-6)"
 - "desc": "Zariel teleports, along with any equipment she is wearing or carrying,\
     \ up to 120 feet to an unoccupied space she can see."
@@ -209,7 +207,7 @@ await dv.view("npcRelationships", { current: dv.current() })
   "name": "Teleport"
 - "desc": "Zariel turns her magical gaze toward one creature she can see within 120\
     \ feet of her and commands it to burn. The target must succeed on a DC 26 Wisdom\
-    \ saving throw or take dice:4d10|text(22) (4d10) fire damage."
+    \ saving throw or take 22 (4d10) fire damage."
   "name": "Immolating Gaze (Costs 2 Actions)"
 "lair_actions":
 - "desc": "On initiative count 20 (losing initiative ties), Zariel can take one of\
@@ -233,14 +231,12 @@ await dv.view("npcRelationships", { current: dv.current() })
 - "desc": "- Hellscape. The area within 9 miles of the lair is filled with screaming\
     \ voices and the stench of burning meat.  \n- Pyres. Once every 60 feet within\
     \ 1 mile of the lair, 10-foot-high gouts of flame rise from the ground. Any creature\
-    \ or object that touches the flame takes 7 (dice: 2d6|avg|noform (2d6) fire\
-    \ damage, though it can take this damage no more than once per round.  \n- Smoke.\
-    \ The area within 2 miles of the lair, but no closer than 500 feet, is filled\
-    \ with smoke, which causes the area to be heavily obscured. The smoke can't be\
-    \ cleared away.  "
+    \ or object that touches the flame takes 7 (2d6 fire damage, though it can take\
+    \ this damage no more than once per round.  \n- Smoke. The area within 2 miles\
+    \ of the lair, but no closer than 500 feet, is filled with smoke, which causes\
+    \ the area to be heavily obscured. The smoke can't be cleared away.  "
   "name": ""
-- "desc": "If Zariel dies, these effects fade over the course of dice: 1d10|avg|noform\
-    \ (1d10) days."
+- "desc": "If Zariel dies, these effects fade over the course of 1d10 days."
   "name": ""
 "source":
 - "MPMM"

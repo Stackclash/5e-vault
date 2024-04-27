@@ -175,12 +175,11 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 "actions":
 - "desc": "The devil makes two attacks with its chains."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 10 ft., one target.\
-    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) slashing damage. The target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+- "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 11 (2d6\
+    \ + 4) slashing damage. The target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ (escape DC 14) if the devil isn't already grappling a creature. Until this grapple\
     \ ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
-    \ and takes dice:2d6|text(7) (2d6) piercing damage at the start of each of\
-    \ its turns."
+    \ and takes 7 (2d6) piercing damage at the start of each of its turns."
   "name": "Chain"
 - "desc": "Up to four chains the devil can see within 60 feet of it magically sprout\
     \ razor-edged barbs and animate under the devil's control, provided that the chains\

@@ -140,12 +140,11 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ Plane, and vice versa."
   "name": "Ethereal Sight"
 - "desc": "Thorn can move through other creatures and objects as if they were difficult\
-    \ terrain. It takes dice:1d10|text(5) (1d10) force damage if it ends its turn\
-    \ inside an object."
+    \ terrain. It takes 5 (1d10) force damage if it ends its turn inside an object."
   "name": "Incorporeal Movement"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
-    \ Hit: dice:4d6 + 3|text(17) (4d6 + 3) necrotic damage."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 17 (4d6\
+    \ + 3) necrotic damage."
   "name": "Withering Touch"
 - "desc": "Thorn enters the Ethereal Plane from the Material Plane, or vice versa.\
     \ It is visible on the Material Plane while it is in the Border Ethereal, and\

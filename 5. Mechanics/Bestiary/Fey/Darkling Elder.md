@@ -55,17 +55,15 @@ Ancient legends speak of a seelie fey who betrayed the Summer Queen. In the Summ
 - "desc": "When the darkling elder dies, magical light flashes out from it in a 10-foot\
     \ radius as its body and possessions, other than metal or magic objects, burn\
     \ to ash. Any creature in that area must make a DC 11 Constitution saving throw.\
-    \ On a failed save, the creature takes dice:2d6|text(7) (2d6) radiant damage\
-    \ and is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] until the end of its\
-    \ next turn. On a successful save, the creature takes half as much damage and\
-    \ isn't [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]."
+    \ On a failed save, the creature takes 7 (2d6) radiant damage and is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]\
+    \ until the end of its next turn. On a successful save, the creature takes half\
+    \ as much damage and isn't [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]."
   "name": "Death Burn"
 "actions":
 - "desc": "The darkling elder makes two Scimitar attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d6 + 3|text(6) (1d6 + 3) slashing damage plus dice:2d6|text(7)\
-    \ (2d6) necrotic damage."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6\
+    \ + 3) slashing damage plus 7 (2d6) necrotic damage."
   "name": "Scimitar"
 "source":
 - "MPMM"

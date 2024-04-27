@@ -53,10 +53,9 @@ Merfolk defend their communities with spears crafted from whatever materials the
 - "desc": "The merfolk can breathe air and water."
   "name": "Amphibious"
 "actions":
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+2 (+2) to hit, reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice:1d6|text(3) (1d6) piercing damage,\
-    \ or dice:1d8|text(4) (1d8) piercing damage if used with two hands to make\
-    \ a melee attack."
+- "desc": "Melee or Ranged Weapon Attack: +2 to hit, reach 5 ft. or range 20/60\
+    \ ft., one target. Hit: 3 (1d6) piercing damage, or 4 (1d8) piercing damage\
+    \ if used with two hands to make a melee attack."
   "name": "Spear"
 "source":
 - "MM"

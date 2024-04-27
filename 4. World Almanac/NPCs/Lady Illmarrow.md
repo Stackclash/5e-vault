@@ -177,10 +177,10 @@ await dv.view("npcRelationships", { current: dv.current() })
 "cr": "22"
 "traits":
 - "desc": "Illmarrow is a 20th-level spellcaster. Her spellcasting ability is Intelligence\
-    \ (spell save DC 23, dice: d20+15 (+15) to hit with spell attacks). Illmarrow\
-    \ has the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Chill Touch.md|chill\
-    \ touch]] (see \"Actions\" below), [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]],\
-    \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]],\
+    \ (spell save DC 23, +15 to hit with spell attacks). Illmarrow has the following\
+    \ wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Chill Touch.md|chill touch]]\
+    \ (see \"Actions\" below), [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]], [[5. Mechanics/Spells/Mage Hand.md|mage\
+    \ hand]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]],\
     \ [[5. Mechanics/Spells/Ray Of Frost.md|ray of frost]]\n\n1st level (4 slots):\
     \ [[5. Mechanics/Spells/Magic Missile.md|magic missile]], [[5. Mechanics/Spells/Shield.md|shield]],\
     \ [[5. Mechanics/Spells/Sleep.md|sleep]]\n\n2nd level (3 slots): [[5. Mechanics/Spells/Blur.md|blur]],\
@@ -205,27 +205,25 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ effects."
   "name": "Magic Resistance"
 - "desc": "Illmarrow's body turns to dust when she drops to 0 hit points, and her\
-    \ equipment is left behind. She gains a new body after dice: 1d10|avg|noform\
-    \ (1d10) days, regaining all her hit points and becoming active again. The new\
-    \ body appears within two hundred miles of the location at which she was destroyed."
+    \ equipment is left behind. She gains a new body after 1d10 days, regaining all\
+    \ her hit points and becoming active again. The new body appears within two hundred\
+    \ miles of the location at which she was destroyed."
   "name": "Rejuvenation"
 "actions":
-- "desc": "Ranged Spell Attack: dice: d20+15 (+15) to hit, range 120 ft., one\
-    \ creature. Hit: dice:4d8|text(18) (4d8) necrotic damage, and the target\
-    \ can't regain hit points until the start of Illmarrow's next turn. If the target\
-    \ is undead, it also has disadvantage on attack rolls against Illmarrow until\
-    \ the end of her next turn."
+- "desc": "Ranged Spell Attack: +15 to hit, range 120 ft., one creature. Hit:\
+    \ 18 (4d8) necrotic damage, and the target can't regain hit points until the start\
+    \ of Illmarrow's next turn. If the target is undead, it also has disadvantage\
+    \ on attack rolls against Illmarrow until the end of her next turn."
   "name": "Chill Touch (Cantrip)"
-- "desc": "Melee Weapon Attack: dice: d20+10 (+10) to hit, reach 5 ft., one\
-    \ creature. Hit: dice:3d6 + 3|text(13) (3d6 + 3) slashing damage plus dice:3d6|text(10)\
-    \ (3d6) cold damage, and the target must succeed on a DC 20 Constitution saving\
-    \ throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]] for 1 minute.\
-    \ The target can repeat the saving throw at the end of each of its turns, ending\
-    \ the effect on itself on a success."
+- "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one creature. Hit: 13\
+    \ (3d6 + 3) slashing damage plus 10 (3d6) cold damage, and the target must succeed\
+    \ on a DC 20 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
+    \ for 1 minute. The target can repeat the saving throw at the end of each of its\
+    \ turns, ending the effect on itself on a success."
   "name": "Paralyzing Claw"
 - "desc": "Illmarrow exhales poisonous gas in a 30-foot cone. Each creature in that\
     \ area must make a DC 20 Constitution saving throw. On a failed save, a creature\
-    \ takes dice:10d6|text(35) (10d6) poison damage and is [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ takes 35 (10d6) poison damage and is [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
     \ for 1 minute. While [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in\
     \ this way, the creature can't regain hit points. On a successful save, the creature\
     \ takes half as much damage and isn't [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]].\n\

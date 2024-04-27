@@ -58,15 +58,14 @@ The Wind Dukes of Aaqa come from a race of elemental beings called the vaati, wh
 "traits":
 - "desc": "If the aarakocra is flying and dives at least 30 feet straight toward a\
     \ target and then hits it with a melee weapon attack, the attack deals an extra\
-    \ dice:1d6|text(3) (1d6) damage to the target."
+    \ 3 (1d6) damage to the target."
   "name": "Dive Attack"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d4 + 2|text(4) (1d4 + 2) slashing damage."
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4\
+    \ + 2) slashing damage."
   "name": "Talon"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft.\
-    \ or range 30/120 ft., one target. Hit: dice:1d6 + 2|text(5) (1d6 + 2) piercing\
-    \ damage."
+- "desc": "Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 30/120\
+    \ ft., one target. Hit: 5 (1d6 + 2) piercing damage."
   "name": "Javelin"
 - "desc": "Five aarakocra within 30 feet of each other can magically summon an [[5. Mechanics/Bestiary/Elemental/Air Elemental.md|air\
     \ elemental]]. Each of the five\

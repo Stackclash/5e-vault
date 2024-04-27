@@ -84,16 +84,15 @@ The sahuagin put the malenti to good use as spies and assassins in aquatic elf c
 - "desc": "The sahuagin makes three attacks: one with his bite and two with his claws\
     \ or trident."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d4 + 4|text(9) (2d4 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (2d4\
+    \ + 4) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6\
+    \ + 4) slashing damage."
   "name": "Claws"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice:2d6 + 4|text(11) (2d6 + 4) piercing\
-    \ damage, or dice:2d8 + 4|text(13) (2d8 + 4) piercing damage if used with\
-    \ two hands to make a melee attack."
+- "desc": "Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60\
+    \ ft., one target. Hit: 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing\
+    \ damage if used with two hands to make a melee attack."
   "name": "Trident"
 "source":
 - "MM"

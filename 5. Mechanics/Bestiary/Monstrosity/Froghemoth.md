@@ -61,26 +61,25 @@ If [[5. Mechanics/Bestiary/Humanoid/Bullywug.md|bullywugs]] come across a froghe
 - "desc": "The froghemoth makes one Bite attack and two Tentacle attacks, and it can\
     \ use Tongue."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+10 (+10) to hit, reach 5 ft., one\
-    \ target. Hit: dice:3d10 + 6|text(22) (3d10 + 6) piercing damage, and the\
-    \ target is swallowed if it is a Medium or smaller creature. A swallowed creature\
-    \ is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] and [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
-    \ has total cover against attacks and other effects outside the froghemoth, and\
-    \ takes dice:3d6|text(10) (3d6) acid damage at the start of each of the froghemoth's\
-    \ turns.\n\nThe froghemoth's gullet can hold up to two creatures at a time. If\
-    \ the froghemoth takes 20 damage or more on a single turn from a creature inside\
-    \ it, the froghemoth must succeed on a DC 20 Constitution saving throw at the\
-    \ end of that turn or regurgitate all swallowed creatures, each of which falls\
-    \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]] in a space within 10 feet of\
-    \ the froghemoth. If the froghemoth dies, any swallowed creature is no longer\
-    \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]] by it and can escape\
-    \ from the corpse using 10 feet of movement, exiting [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+- "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 22 (3d10\
+    \ + 6) piercing damage, and the target is swallowed if it is a Medium or smaller\
+    \ creature. A swallowed creature is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]\
+    \ and [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]], has total cover\
+    \ against attacks and other effects outside the froghemoth, and takes 10 (3d6)\
+    \ acid damage at the start of each of the froghemoth's turns.\n\nThe froghemoth's\
+    \ gullet can hold up to two creatures at a time. If the froghemoth takes 20 damage\
+    \ or more on a single turn from a creature inside it, the froghemoth must succeed\
+    \ on a DC 20 Constitution saving throw at the end of that turn or regurgitate\
+    \ all swallowed creatures, each of which falls [[/5. Mechanics/Rules/Conditions.md#prone|prone]]\
+    \ in a space within 10 feet of the froghemoth. If the froghemoth dies, any swallowed\
+    \ creature is no longer [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
+    \ by it and can escape from the corpse using 10 feet of movement, exiting [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+10 (+10) to hit, reach 20 ft., one\
-    \ target. Hit: dice:3d8 + 6|text(19) (3d8 + 6) bludgeoning damage, and the\
-    \ target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 16)\
-    \ if it is a Huge or smaller creature. Until the grapple ends, the froghemoth\
-    \ can't use this tentacle on another target. The froghemoth has four tentacles."
+- "desc": "Melee Weapon Attack: +10 to hit, reach 20 ft., one target. Hit: 19\
+    \ (3d8 + 6) bludgeoning damage, and the target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ (escape DC 16) if it is a Huge or smaller creature. Until the grapple ends,\
+    \ the froghemoth can't use this tentacle on another target. The froghemoth has\
+    \ four tentacles."
   "name": "Tentacle"
 - "desc": "The froghemoth targets one Medium or smaller creature that it can see within\
     \ 20 feet of it. The target must make a DC 18 Strength saving throw. On a failed\

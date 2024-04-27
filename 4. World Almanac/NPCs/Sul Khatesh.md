@@ -167,9 +167,9 @@ await dv.view("npcRelationships", { current: dv.current() })
 "languages": "all, telepathy 150 ft."
 "cr": "28"
 "traits":
-- "desc": "Sul Khatesh's spellcasting ability is Intelligence (spell save DC 26, dice:\
-    \ d20+18 (+18) to hit with spell attacks). She can innately cast the following\
-    \ spells, requiring no material components:\n\nAt will: [[5. Mechanics/Spells/Counterspell.md|counterspell]],\
+- "desc": "Sul Khatesh's spellcasting ability is Intelligence (spell save DC 26, +18\
+    \ to hit with spell attacks). She can innately cast the following spells, requiring\
+    \ no material components:\n\nAt will: [[5. Mechanics/Spells/Counterspell.md|counterspell]],\
     \ [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
     \ [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[5. Mechanics/Spells/Eyebite.md|eyebite]],\
     \ [[5. Mechanics/Spells/Fireball.md|fireball]], [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]],\
@@ -190,20 +190,20 @@ await dv.view("npcRelationships", { current: dv.current() })
 "actions":
 - "desc": "Sul Khatesh makes four attacks with Arcane Blast."
   "name": "Multiattack"
-- "desc": "Ranged Spell Attack: dice: d20+18 (+18) to hit, range 120 ft., one\
-    \ target. Hit: dice:1d10 + 10|text(15) (1d10 + 10) force damage."
+- "desc": "Ranged Spell Attack: +18 to hit, range 120 ft., one target. Hit: 15\
+    \ (1d10 + 10) force damage."
   "name": "Arcane Blast"
-- "desc": "Melee Weapon Attack: dice: d20+12 (+12) to hit, reach 5 ft., one\
-    \ target. Hit: dice:5d12 + 4|text(36) (5d12 + 4) force damage."
+- "desc": "Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 36 (5d12\
+    \ + 4) force damage."
   "name": "Magic Staff"
 - "desc": "Sul Khatesh conjures orbs of magical energy that plummet to the ground\
     \ at three different points she can see within 1 mile of her. Each creature in\
     \ a 40-foot-radius sphere centered on each point must make a DC 26 Dexterity saving\
-    \ throw, taking dice:11d12|text(71) (11d12) force damage on a failed save\
-    \ or half as much damage on a successful one. A creature in the area of more than\
-    \ one arcane burst is affected only once. The area of each arcane burst then acts\
-    \ as an [[5. Mechanics/Spells/Antimagic Field.md|antimagic field]] for 1 hour. Sul\
-    \ Khatesh and spells she casts are unaffected by these fields."
+    \ throw, taking 71 (11d12) force damage on a failed save or half as much damage\
+    \ on a successful one. A creature in the area of more than one arcane burst is\
+    \ affected only once. The area of each arcane burst then acts as an [[5. Mechanics/Spells/Antimagic Field.md|antimagic\
+    \ field]] for 1 hour. Sul Khatesh and spells\
+    \ she casts are unaffected by these fields."
   "name": "Arcane Cataclysm (Recharges after a Long Rest)"
 - "desc": "Sul Khatesh magically polymorphs into a humanoid, beast, or giant that\
     \ has a challenge rating no higher than her own, or back into her true form. She\
@@ -226,9 +226,9 @@ await dv.view("npcRelationships", { current: dv.current() })
   "name": "Consume Magic (Costs 2 Actions)"
 - "desc": "Sul Khatesh whispers an arcane secret into the mind of a creature she can\
     \ see within 60 feet of her. The target must succeed on a DC 26 Wisdom saving\
-    \ throw or expend one of its spell slots of 3rd level or lower and deal dice:4d12|text(26)\
-    \ (4d12) force damage to each creature within 30 feet of it. A creature that\
-    \ fails the saving throw but can't expend a spell slot is instead [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+    \ throw or expend one of its spell slots of 3rd level or lower and deal 26 (4d12)\
+    \ force damage to each creature within 30 feet of it. A creature that fails the\
+    \ saving throw but can't expend a spell slot is instead [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
     \ until the end of its next turn."
   "name": "Maddening Secrets (Costs 3 Actions)"
 "source":

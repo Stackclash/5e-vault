@@ -61,25 +61,24 @@ Not needing sunlight or warmth to grow, fungi thrive in every corner and crevice
 "cr": "1/2"
 "traits":
 - "desc": "The gas spore explodes when it drops to 0 hit points. Each creature within\
-    \ 20 feet of it must succeed on a DC 15 Constitution saving throw or take dice:3d6|text(10)\
-    \ (3d6) poison damage and become infected with a disease on a failed save. Creatures\
+    \ 20 feet of it must succeed on a DC 15 Constitution saving throw or take 10 (3d6)\
+    \ poison damage and become infected with a disease on a failed save. Creatures\
     \ immune to the [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] condition\
     \ are immune to this disease.\n\nSpores invade an infected creature's system,\
-    \ killing the creature in a number of hours equal to dice: 1d12|avg|noform (1d12)\
-    \ + the creature's Constitution score, unless the disease is removed. In half\
-    \ that time, the creature becomes [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
-    \ for the rest of the duration. After the creature dies, it sprouts dice: 2d4|avg|noform\
-    \ (2d4) Tiny gas spores that grow to full size in 7 days."
+    \ killing the creature in a number of hours equal to 1d12 + the creature's Constitution\
+    \ score, unless the disease is removed. In half that time, the creature becomes\
+    \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for the rest of the duration.\
+    \ After the creature dies, it sprouts 2d4 Tiny gas spores that grow to full size\
+    \ in 7 days."
   "name": "Death Burst"
 - "desc": "The gas spore resembles a beholder. A creature that can see the gas spore\
     \ can discern its true nature with a successful DC 15 Intelligence ([[/5. Mechanics/Rules/Skills.md#Nature|Nature]])\
     \ check."
   "name": "Eerie Resemblance"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+0 (+0) to hit, reach 5 ft., one creature.\
-    \ Hit: 1 poison damage, and the creature must succeed on a DC 10 Constitution\
-    \ saving throw or become infected with the disease described in the Death Burst\
-    \ trait."
+- "desc": "Melee Weapon Attack: +0 to hit, reach 5 ft., one creature. Hit: 1 poison\
+    \ damage, and the creature must succeed on a DC 10 Constitution saving throw or\
+    \ become infected with the disease described in the Death Burst trait."
   "name": "Touch"
 "source":
 - "MM"

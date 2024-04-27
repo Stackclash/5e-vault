@@ -81,14 +81,14 @@ When viewed from the outside, a ki-rin's lair is indistinguishable from a natura
 - "desc": "The ki-rin makes two Hoof attacks and one Horn attack, or it makes two\
     \ Sacred Fire attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 15 ft., one target.\
-    \ Hit: dice:2d4 + 5|text(10) (2d4 + 5) force damage."
+- "desc": "Melee Weapon Attack: +9 to hit, reach 15 ft., one target. Hit: 10 (2d4\
+    \ + 5) force damage."
   "name": "Hoof"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d8 + 5|text(14) (2d8 + 5) radiant damage."
+- "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 14 (2d8\
+    \ + 5) radiant damage."
   "name": "Horn"
-- "desc": "Ranged Spell Attack: dice: d20+9 (+9) to hit, range 120 ft., one\
-    \ target. Hit: dice:3d8 + 5|text(18) (3d8 + 5) radiant damage."
+- "desc": "Ranged Spell Attack: +9 to hit, range 120 ft., one target. Hit: 18\
+    \ (3d8 + 5) radiant damage."
   "name": "Sacred Fire"
 "legendary_actions":
 - "desc": "The ki-rin moves up to half its speed without provoking opportunity attacks."

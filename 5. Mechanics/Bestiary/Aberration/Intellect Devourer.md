@@ -63,16 +63,15 @@ An intellect devourer consumes a creature's mind and memories, then turns the ho
 - "desc": "The intellect devourer makes one attack with its claws and uses Devour\
     \ Intellect."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d4 + 2|text(7) (2d4 + 2) slashing damage."
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4\
+    \ + 2) slashing damage."
   "name": "Claws"
 - "desc": "The intellect devourer targets one creature it can see within 10 feet of\
     \ it that has a brain. The target must succeed on a DC 12 Intelligence saving\
-    \ throw against this magic or take dice:2d10|text(11) (2d10) psychic damage.\
-    \ Also on a failure, roll dice: 3d6|avg|noform (3d6): If the total equals\
-    \ or exceeds the target's Intelligence score, that score is reduced to 0. The\
-    \ target is [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]] until it regains\
-    \ at least one point of Intelligence."
+    \ throw against this magic or take 11 (2d10) psychic damage. Also on a failure,\
+    \ roll 3d6: If the total equals or exceeds the target's Intelligence score, that\
+    \ score is reduced to 0. The target is [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+    \ until it regains at least one point of Intelligence."
   "name": "Devour Intellect"
 - "desc": "The intellect devourer initiates an Intelligence contest with an [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
     \ humanoid within 5 feet of it that isn't protected by [[5. Mechanics/Spells/Protection From Evil And Good.md|protection from evil and\

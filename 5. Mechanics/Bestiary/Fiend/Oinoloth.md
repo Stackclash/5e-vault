@@ -65,9 +65,8 @@ Oinoloths solve thorny problems by killing everyone involved. They are typically
 "actions":
 - "desc": "The oinoloth makes two Claw attacks, and it uses Spellcasting or Teleport."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one target.\
-    \ Hit: dice:3d6 + 4|text(14) (3d6 + 4) slashing damage plus dice:4d10|text(22)\
-    \ (4d10) necrotic damage."
+- "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 14 (3d6\
+    \ + 4) slashing damage plus 22 (4d10) necrotic damage."
   "name": "Claw"
 - "desc": "The oinoloth touches one willing creature within 5 feet of it. The target\
     \ regains all its hit points. In addition, the oinoloth can end one disease on\
@@ -75,11 +74,10 @@ Oinoloths solve thorny problems by killing everyone involved. They are typically
     \ [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
     \ or [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]. The target then gains\
     \ 1 level of [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]], and its\
-    \ hit point maximum is reduced by dice:2d6|text(7) (2d6). This reduction can\
-    \ be removed only by a [[5. Mechanics/Spells/Wish.md|wish]] spell or by casting [[5. Mechanics/Spells/Greater Restoration.md|greater\
-    \ restoration]] on the target three times\
-    \ within the same hour. The target dies if its hit point maximum is reduced to\
-    \ 0."
+    \ hit point maximum is reduced by 7 (2d6). This reduction can be removed only\
+    \ by a [[5. Mechanics/Spells/Wish.md|wish]] spell or by casting [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
+    \ on the target three times within the same hour. The target dies if its hit point\
+    \ maximum is reduced to 0."
   "name": "Corrupted Healing (Recharge 6)"
 - "desc": "The oinoloth teleports, along with any equipment it is wearing or carrying,\
     \ up to 60 feet to an unoccupied space it can see."
@@ -89,15 +87,15 @@ Oinoloths solve thorny problems by killing everyone involved. They are typically
     \ The blight lasts for 24 hours. While the area is blighted, all normal plants\
     \ there wither and die.\n\nFurthermore, when a creature moves into the blighted\
     \ area or starts its turn there, that creature must make a DC 16 Constitution\
-    \ saving throw. On a failed save, the creature takes dice:4d6|text(14) (4d6)\
-    \ poison damage and is [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]. On\
-    \ a successful save, the creature is immune to the oinoloth's Bringer of Plagues\
-    \ for the next 24 hours.\n\nThe [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
-    \ creature can't regain hit points. After every 24 hours that elapse, the [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ saving throw. On a failed save, the creature takes 14 (4d6) poison damage and\
+    \ is [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]. On a successful save,\
+    \ the creature is immune to the oinoloth's Bringer of Plagues for the next 24\
+    \ hours.\n\nThe [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] creature\
+    \ can't regain hit points. After every 24 hours that elapse, the [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
     \ creature can repeat the saving throw. On a failed save, the creature's hit point\
-    \ maximum is reduced by dice:1d10|text(5) (1d10). This reduction lasts until\
-    \ the poison ends, and the target dies if its hit point maximum is reduced to\
-    \ 0. The poison ends after the creature successfully saves against it three times."
+    \ maximum is reduced by 5 (1d10). This reduction lasts until the poison ends,\
+    \ and the target dies if its hit point maximum is reduced to 0. The poison ends\
+    \ after the creature successfully saves against it three times."
   "name": "Bringer of Plagues (Recharge 5-6)"
 "source":
 - "MPMM"

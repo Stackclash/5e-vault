@@ -40,8 +40,8 @@ aliases:
     \ checks that rely on hearing or smell."
   "name": "Keen Hearing and Smell"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one creature.\
-    \ Hit: 1 piercing damage."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 1 piercing\
+    \ damage."
   "name": "Bite"
 "source":
 - "MM"

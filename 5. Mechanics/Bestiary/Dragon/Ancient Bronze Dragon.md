@@ -119,14 +119,14 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "desc": "The dragon can use its Frightful Presence. It then makes three attacks:\
     \ one with its bite and two with its claws."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+16 (+16) to hit, reach 15 ft., one\
-    \ target. Hit: dice:2d10 + 9|text(20) (2d10 + 9) piercing damage."
+- "desc": "Melee Weapon Attack: +16 to hit, reach 15 ft., one target. Hit: 20\
+    \ (2d10 + 9) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+16 (+16) to hit, reach 10 ft., one\
-    \ target. Hit: dice:2d6 + 9|text(16) (2d6 + 9) slashing damage."
+- "desc": "Melee Weapon Attack: +16 to hit, reach 10 ft., one target. Hit: 16\
+    \ (2d6 + 9) slashing damage."
   "name": "Claw"
-- "desc": "Melee Weapon Attack: dice: d20+16 (+16) to hit, reach 20 ft., one\
-    \ target. Hit: dice:2d8 + 9|text(18) (2d8 + 9) bludgeoning damage."
+- "desc": "Melee Weapon Attack: +16 to hit, reach 20 ft., one target. Hit: 18\
+    \ (2d8 + 9) bludgeoning damage."
   "name": "Tail"
 - "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
     \ and aware of it must succeed on a DC 20 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
@@ -137,11 +137,11 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   "name": "Frightful Presence"
 - "desc": "The dragon uses one of the following breath weapons.\n\n- Lightning Breath.\
     \ The dragon exhales lightning in a 120-foot line that is 10 feet wide. Each creature\
-    \ in that line must make a DC 23 Dexterity saving throw, taking dice:16d10|text(88)\
-    \ (16d10) lightning damage on a failed save, or half as much damage on a successful\
-    \ one.  \n- Repulsion Breath. The dragon exhales repulsion energy in a 30-foot\
-    \ cone. Each creature in that area must succeed on a DC 23 Strength saving throw.\
-    \ On a failed save, the creature is pushed 60 feet away from the dragon.  "
+    \ in that line must make a DC 23 Dexterity saving throw, taking 88 (16d10) lightning\
+    \ damage on a failed save, or half as much damage on a successful one.  \n- Repulsion\
+    \ Breath. The dragon exhales repulsion energy in a 30-foot cone. Each creature\
+    \ in that area must succeed on a DC 23 Strength saving throw. On a failed save,\
+    \ the creature is pushed 60 feet away from the dragon.  "
   "name": "Breath Weapons (Recharge 5-6)"
 - "desc": "The dragon magically polymorphs into a humanoid or beast that has a challenge\
     \ rating no higher than its own, or back into its true form. It reverts to its\
@@ -160,9 +160,9 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "desc": "The dragon makes a tail attack."
   "name": "Tail Attack"
 - "desc": "The dragon beats its wings. Each creature within 15 feet of the dragon\
-    \ must succeed on a DC 24 Dexterity saving throw or take dice:2d6 + 9|text(16)\
-    \ (2d6 + 9) bludgeoning damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
-    \ The dragon can then fly up to half its flying speed."
+    \ must succeed on a DC 24 Dexterity saving throw or take 16 (2d6 + 9) bludgeoning\
+    \ damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]. The dragon\
+    \ can then fly up to half its flying speed."
   "name": "Wing Attack (Costs 2 Actions)"
 "lair_actions":
 - "desc": "On initiative count 20 (losing initiative ties), the dragon takes a lair\
@@ -172,7 +172,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ spell. The fog lasts until initiative count 20 on the next round.  \n- A thunderclap\
     \ originates at a point the dragon can see within 120 feet of it. Each creature\
     \ within a 20-foot radius centered on that point must make a DC 15 Constitution\
-    \ saving throw or take dice:1d10|text(5) (1d10) thunder damage and be [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]]\
+    \ saving throw or take 5 (1d10) thunder damage and be [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]]\
     \ until the end of its next turn.  "
   "name": ""
 - "desc": "At your discretion, a legendary ([[5. Mechanics/Bestiary/Dragon/Adult Bronze Dragon.md|adult]]\
@@ -180,16 +180,15 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ can use one or more of the following additional lair actions while in its lair:\n\
     \n- Ocean's Call. The dragon conjures a swarm of spectral dolphins. Each creature\
     \ in the water within 120 feet of the dragon must succeed on a DC 15 Dexterity\
-    \ saving throw or take dice:1d10|text(5) (1d10) slashing damage; then the\
-    \ swarm vanishes.  \n- Salt Burst. The dragon chooses a point it can see in\
-    \ the lair. The air in a 20-foot-radius sphere centered on that point bursts with\
-    \ abrasive salt crystals. Each creature in that area must succeed on a DC 15 Dexterity\
-    \ saving throw or take dice:3d6|text(10) (3d6) slashing damage.  \n- Whelming\
-    \ Water. The dragon causes a strong current to course through the water in its\
-    \ lair. The dragon chooses any number of creatures it can see that are standing\
-    \ or swimming in water within 120 feet of it. Each chosen creature must succeed\
-    \ on a DC 15 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
-    \  "
+    \ saving throw or take 5 (1d10) slashing damage; then the swarm vanishes.  \n\
+    - Salt Burst. The dragon chooses a point it can see in the lair. The air in\
+    \ a 20-foot-radius sphere centered on that point bursts with abrasive salt crystals.\
+    \ Each creature in that area must succeed on a DC 15 Dexterity saving throw or\
+    \ take 10 (3d6) slashing damage.  \n- Whelming Water. The dragon causes a\
+    \ strong current to course through the water in its lair. The dragon chooses any\
+    \ number of creatures it can see that are standing or swimming in water within\
+    \ 120 feet of it. Each chosen creature must succeed on a DC 15 Strength saving\
+    \ throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].  "
   "name": "Additional Lair Actions"
 "regional_effects":
 - "desc": "The region containing a legendary bronze dragon's lair is warped by the\
@@ -204,7 +203,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ of the lair.  "
   "name": ""
 - "desc": "If the dragon dies, changed weather reverts to normal, as described in\
-    \ the spell, and the other effects fade in dice: 1d10|avg|noform (1d10) days."
+    \ the spell, and the other effects fade in 1d10 days."
   "name": ""
 - "desc": "Any of these effects might appear in the area around a bronze dragon's\
     \ lair, in addition to or instead of the effects described in the Monster Manual:\n\

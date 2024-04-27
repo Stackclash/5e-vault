@@ -99,13 +99,12 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 "actions":
 - "desc": "The kuo-toa makes one bite attack and two unarmed strikes."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d4 + 2|text(4) (1d4 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 4 (1d4\
+    \ + 2) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d6 + 2|text(5) (1d6 + 2) bludgeoning damage plus dice:1d6|text(3)\
-    \ (1d6) lightning damage, and the target can't take reactions until the end\
-    \ of the kuo-toa's next turn."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+    \ + 2) bludgeoning damage plus 3 (1d6) lightning damage, and the target can't\
+    \ take reactions until the end of the kuo-toa's next turn."
   "name": "Unarmed Strike"
 "source":
 - "MM"

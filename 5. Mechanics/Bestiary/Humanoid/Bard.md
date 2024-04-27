@@ -74,16 +74,16 @@ Each bard is a master of at least one type of performance. You may choose a bard
 - "desc": "The bard makes two Shortsword or Shortbow attacks. It can replace one attack\
     \ with a use of Spellcasting."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d6 + 2|text(5) (1d6 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+    \ + 2) piercing damage."
   "name": "Shortsword"
-- "desc": "Ranged Weapon Attack: dice: d20+4 (+4) to hit, range 80/320 ft.,\
-    \ one target. Hit: dice:1d6 + 2|text(5) (1d6 + 2) piercing damage."
+- "desc": "Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit:\
+    \ 5 (1d6 + 2) piercing damage."
   "name": "Shortbow"
 - "desc": "Each creature in a 15-foot cube originating from the bard must make a DC\
-    \ 12 Constitution saving throw. On a failed save, a creature takes dice:2d8|text(9)\
-    \ (2d8) thunder damage and is pushed up to 10 feet away from the bard. On a\
-    \ successful save, a creature takes half as much damage and isn't pushed."
+    \ 12 Constitution saving throw. On a failed save, a creature takes 9 (2d8) thunder\
+    \ damage and is pushed up to 10 feet away from the bard. On a successful save,\
+    \ a creature takes half as much damage and isn't pushed."
   "name": "Cacophony (Recharge 4-6)"
 "bonus_actions":
 - "desc": "The bard targets one creature within 30 feet of it. If the target can hear\

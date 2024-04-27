@@ -102,8 +102,8 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
     \ [[5. Mechanics/Spells/Levitate.md|levitate]] (self only)"
   "name": "Innate Spellcasting"
 - "desc": "The drow is a 10th-level spellcaster. Its spellcasting ability is Intelligence\
-    \ (spell save DC 14, dice: d20+6 (+6) to hit with spell attacks). The drow\
-    \ has the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
+    \ (spell save DC 14, +6 to hit with spell attacks). The drow has the following\
+    \ wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
     \ [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]], [[5. Mechanics/Spells/Poison Spray.md|poison spray]],\
     \ [[5. Mechanics/Spells/Ray Of Frost.md|ray of frost]]\n\n1st level (4 slots):\
     \ [[5. Mechanics/Spells/Mage Armor.md|mage armor]], [[5. Mechanics/Spells/Magic Missile.md|magic missile]],\
@@ -123,10 +123,9 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
     \ rely on sight."
   "name": "Sunlight Sensitivity"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+2 (+2) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d6 - 1|text(2) (1d6 - 1) bludgeoning damage, or dice:1d8 -\
-    \ 1|text(3) (1d8 - 1) bludgeoning damage if used with two hands, plus dice:1d6|text(3)\
-    \ (1d6) poison damage."
+- "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d6\
+    \ - 1) bludgeoning damage, or 3 (1d8 - 1) bludgeoning damage if used with two\
+    \ hands, plus 3 (1d6) poison damage."
   "name": "Staff"
 - "desc": "The drow magically summons a [[5. Mechanics/Bestiary/Fiend/Quasit.md|quasit]],\
     \ or attempts to summon a [[5. Mechanics/Bestiary/Fiend/Shadow Demon.md|shadow demon]]\

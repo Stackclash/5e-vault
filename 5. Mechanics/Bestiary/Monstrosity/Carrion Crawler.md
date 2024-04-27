@@ -57,15 +57,15 @@ Whether in subterranean darkness or while hunting at night, light signals a pote
 - "desc": "The carrion crawler makes two attacks: one with its tentacles and one with\
     \ its bite."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 10 ft., one creature.\
-    \ Hit: dice:1d4 + 2|text(4) (1d4 + 2) poison damage, and the target must\
-    \ succeed on a DC 13 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
-    \ for 1 minute. Until this poison ends, the target is [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]].\
+- "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one creature. Hit: 4\
+    \ (1d4 + 2) poison damage, and the target must succeed on a DC 13 Constitution\
+    \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for\
+    \ 1 minute. Until this poison ends, the target is [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]].\
     \ The target can repeat the saving throw at the end of each of its turns, ending\
     \ the poison on itself on a success."
   "name": "Tentacles"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d4 + 2|text(7) (2d4 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4\
+    \ + 2) piercing damage."
   "name": "Bite"
 "source":
 - "MM"

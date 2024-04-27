@@ -15,6 +15,7 @@
         "rules": "/compendium/rules/"
     },
     "useDiceRoller": true,
+    "yamlStatblocks": true,
     "images": {
         "copyInternal": true,
         "copyExternal": false,

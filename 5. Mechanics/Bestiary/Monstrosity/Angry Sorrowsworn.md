@@ -53,15 +53,15 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
 - "desc": "If another creature deals damage to the sorrowsworn, the sorrowsworn's\
     \ attack rolls have advantage until the end of its next turn, and the first time\
     \ it hits with a Hook attack on its next turn, the attack's target takes an extra\
-    \ dice:3d12|text(19) (3d12) psychic damage.\n\nOn its turn, the sorrowsworn\
-    \ has disadvantage on attack rolls if no other creature has dealt damage to it\
-    \ since the end of its last turn."
+    \ 19 (3d12) psychic damage.\n\nOn its turn, the sorrowsworn has disadvantage on\
+    \ attack rolls if no other creature has dealt damage to it since the end of its\
+    \ last turn."
   "name": "Rising Anger"
 "actions":
 - "desc": "The sorrowsworn makes two Hook attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d12 + 3|text(16) (2d12 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 16 (2d12\
+    \ + 3) piercing damage."
   "name": "Hook"
 "source":
 - "MPMM"

@@ -50,10 +50,10 @@ Not needing sunlight or warmth to grow, fungi thrive in every corner and crevice
     \ an ordinary fungus."
   "name": "False Appearance"
 "actions":
-- "desc": "The fungus makes dice: 1d4|avg|noform (1d4) Rotting Touch attacks."
+- "desc": "The fungus makes 1d4 Rotting Touch attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+2 (+2) to hit, reach 10 ft., one creature.\
-    \ Hit: dice:1d8|text(4) (1d8) necrotic damage."
+- "desc": "Melee Weapon Attack: +2 to hit, reach 10 ft., one creature. Hit: 4\
+    \ (1d8) necrotic damage."
   "name": "Rotting Touch"
 "source":
 - "MM"

@@ -38,16 +38,16 @@ aliases:
 "cr": "2"
 "traits":
 - "desc": "If the boar moves at least 20 feet straight toward a target and then hits\
-    \ it with a tusk attack on the same turn, the target takes an extra dice:2d6|text(7)\
-    \ (2d6) slashing damage. If the target is a creature, it must succeed on a DC\
-    \ 13 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ it with a tusk attack on the same turn, the target takes an extra 7 (2d6) slashing\
+    \ damage. If the target is a creature, it must succeed on a DC 13 Strength saving\
+    \ throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Charge"
 - "desc": "If the boar takes 10 damage or less that would reduce it to 0 hit points,\
     \ it is reduced to 1 hit point instead."
   "name": "Relentless (Recharges after a Short or Long Rest)"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d6 + 3|text(10) (2d6 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6\
+    \ + 3) slashing damage."
   "name": "Tusk"
 "source":
 - "MM"

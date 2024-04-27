@@ -59,14 +59,14 @@ Over time, grick lairs accumulate the cast-off possessions of intelligent prey, 
     \ If it hits with its tentacles, the grick can make one beak attack against the\
     \ same target."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 10 ft., one target.\
-    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) bludgeoning damage."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 11 (2d6\
+    \ + 4) bludgeoning damage."
   "name": "Tail"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 10 ft., one target.\
-    \ Hit: dice:4d8 + 4|text(22) (4d8 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 22 (4d8\
+    \ + 4) slashing damage."
   "name": "Tentacles"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 10 ft., one target.\
-    \ Hit: dice:2d8 + 4|text(13) (2d8 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 13 (2d8\
+    \ + 4) piercing damage."
   "name": "Beak"
 "source":
 - "MM"

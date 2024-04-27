@@ -79,11 +79,11 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
 "actions":
 - "desc": "The quadrone makes two fist attacks or four shortbow attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d4 + 1|text(3) (1d4 + 1) bludgeoning damage."
+- "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4\
+    \ + 1) bludgeoning damage."
   "name": "Fist"
-- "desc": "Ranged Weapon Attack: dice: d20+4 (+4) to hit, range 80/320 ft.,\
-    \ one target. Hit: dice:1d6 + 2|text(5) (1d6 + 2) piercing damage."
+- "desc": "Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit:\
+    \ 5 (1d6 + 2) piercing damage."
   "name": "Shortbow"
 "source":
 - "MM"

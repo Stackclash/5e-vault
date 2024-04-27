@@ -195,24 +195,23 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - "desc": "The pit fiend makes four attacks: one with its bite, one with its claw,\
     \ one with its mace, and one with its tail."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+14 (+14) to hit, reach 5 ft., one\
-    \ target. Hit: dice:4d6 + 8|text(22) (4d6 + 8) piercing damage. The target\
-    \ must succeed on a DC 21 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]].\
-    \ While [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in this way, the\
-    \ target can't regain hit points, and it takes dice:6d6|text(21) (6d6) poison\
-    \ damage at the start of each of its turns. The [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+- "desc": "Melee Weapon Attack: +14 to hit, reach 5 ft., one target. Hit: 22 (4d6\
+    \ + 8) piercing damage. The target must succeed on a DC 21 Constitution saving\
+    \ throw or become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]. While\
+    \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in this way, the target\
+    \ can't regain hit points, and it takes 21 (6d6) poison damage at the start of\
+    \ each of its turns. The [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
     \ target can repeat the saving throw at the end of each of its turns, ending the\
     \ effect on itself on a success."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+14 (+14) to hit, reach 10 ft., one\
-    \ target. Hit: dice:2d8 + 8|text(17) (2d8 + 8) slashing damage."
+- "desc": "Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 17\
+    \ (2d8 + 8) slashing damage."
   "name": "Claw"
-- "desc": "Melee Weapon Attack: dice: d20+14 (+14) to hit, reach 10 ft., one\
-    \ target. Hit: dice:2d6 + 8|text(15) (2d6 + 8) bludgeoning damage plus dice:6d6|text(21)\
-    \ (6d6) fire damage."
+- "desc": "Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 15\
+    \ (2d6 + 8) bludgeoning damage plus 21 (6d6) fire damage."
   "name": "Mace"
-- "desc": "Melee Weapon Attack: dice: d20+14 (+14) to hit, reach 10 ft., one\
-    \ target. Hit: dice:3d10 + 8|text(24) (3d10 + 8) bludgeoning damage."
+- "desc": "Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 24\
+    \ (3d10 + 8) bludgeoning damage."
   "name": "Tail"
 "source":
 - "MM"

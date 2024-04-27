@@ -77,15 +77,14 @@ The mating ritual of couatls is a beautiful and elaborate dance of magic and lig
     \ emotions, read its thoughts, or detect its location."
   "name": "Shielded Mind"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one creature.\
-    \ Hit: dice:1d6 + 5|text(8) (1d6 + 5) piercing damage, and the target must\
-    \ succeed on a DC 13 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
-    \ for 24 hours. Until this poison ends, the target is [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]].\
+- "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. Hit: 8 (1d6\
+    \ + 5) piercing damage, and the target must succeed on a DC 13 Constitution saving\
+    \ throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for 24 hours.\
+    \ Until this poison ends, the target is [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]].\
     \ Another creature can use an action to shake the target awake."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 10 ft., one Medium\
-    \ or smaller creature. Hit: dice:2d6 + 3|text(10) (2d6 + 3) bludgeoning\
-    \ damage, and the target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+- "desc": "Melee Weapon Attack: +6 to hit, reach 10 ft., one Medium or smaller creature.\
+    \ Hit: 10 (2d6 + 3) bludgeoning damage, and the target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ (escape DC 15). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
     \ and the couatl can't constrict another target."
   "name": "Constrict"

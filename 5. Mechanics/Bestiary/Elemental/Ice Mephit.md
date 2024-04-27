@@ -59,21 +59,19 @@ Comprising frigid air and water, ice mephits are aloof and cold, surpassing all 
     \nAt will: [[5. Mechanics/Spells/Fog Cloud.md|fog cloud]]"
   "name": "Innate Spellcasting (1/Day)"
 - "desc": "When the mephit dies, it explodes in a burst of jagged ice. Each creature\
-    \ within 5 feet of it must make a DC 10 Dexterity saving throw, taking dice:1d8|text(4)\
-    \ (1d8) slashing damage on a failed save, or half as much damage on a successful\
-    \ one."
+    \ within 5 feet of it must make a DC 10 Dexterity saving throw, taking 4 (1d8)\
+    \ slashing damage on a failed save, or half as much damage on a successful one."
   "name": "Death Burst"
 - "desc": "While the mephit remains motionless, it is indistinguishable from an ordinary\
     \ shard of ice."
   "name": "False Appearance"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one creature.\
-    \ Hit: dice:1d4 + 1|text(3) (1d4 + 1) slashing damage plus dice:1d4|text(2)\
-    \ (1d4) cold damage."
+- "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. Hit: 3 (1d4\
+    \ + 1) slashing damage plus 2 (1d4) cold damage."
   "name": "Claws"
 - "desc": "The mephit exhales a 15-foot cone of cold air. Each creature in that area\
-    \ must succeed on a DC 10 Dexterity saving throw, taking dice:2d4|text(5) (2d4)\
-    \ cold damage on a failed save, or half as much damage on a successful one."
+    \ must succeed on a DC 10 Dexterity saving throw, taking 5 (2d4) cold damage on\
+    \ a failed save, or half as much damage on a successful one."
   "name": "Frost Breath (Recharge 6)"
 "source":
 - "MM"

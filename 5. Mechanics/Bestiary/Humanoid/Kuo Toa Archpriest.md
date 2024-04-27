@@ -82,8 +82,8 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 "cr": "6"
 "traits":
 - "desc": "The kuo-toa is a 10th-level spellcaster. Its spellcasting ability is Wisdom\
-    \ (spell save DC 14, dice: d20+6 (+6) to hit with spell attacks). The kuo-toa\
-    \ has the following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Guidance.md|guidance]],\
+    \ (spell save DC 14, +6 to hit with spell attacks). The kuo-toa has the following\
+    \ cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Guidance.md|guidance]],\
     \ [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
     \n1st level (4 slots): [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
     \ [[5. Mechanics/Spells/Sanctuary.md|sanctuary]], [[5. Mechanics/Spells/Shield Of Faith.md|shield of faith]]\n\
@@ -110,12 +110,11 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 "actions":
 - "desc": "The kuo-toa makes two melee attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d6 + 3|text(6) (1d6 + 3) bludgeoning damage plus dice:4d6|text(14)\
-    \ (4d6) lightning damage."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6\
+    \ + 3) bludgeoning damage plus 14 (4d6) lightning damage."
   "name": "Scepter"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d4 + 3|text(5) (1d4 + 3) bludgeoning damage."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 5 (1d4\
+    \ + 3) bludgeoning damage."
   "name": "Unarmed Strike"
 "source":
 - "MM"

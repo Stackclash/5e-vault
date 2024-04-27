@@ -90,20 +90,18 @@ Relentless killers come into being and undertake their terrifying sprees for a s
 "actions":
 - "desc": "The slasher makes two Slasher's Knife attacks."
   "name": "Multiattack"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft.\
-    \ or range 30/60 ft., one target. Hit: dice:1d4 + 4|text(6) (1d4 + 4) slashing\
-    \ damage plus dice:6d6|text(21) (6d6) necrotic damage. If the target is a\
-    \ creature, it suffers a lingering wound that causes it to take dice:2d6|text(7)\
-    \ (2d6) necrotic damage at the start of each of its turns. Each time the slasher\
-    \ hits the wounded target with this attack, the damage dealt by the wound increases\
-    \ by dice:1d6|text(3) (1d6). The wound ends if the target regains hit points\
-    \ or if a creature uses an action to stanch the wound, which requires a successful\
-    \ DC 15 Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) check."
+- "desc": "Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 30/60\
+    \ ft., one target. Hit: 6 (1d4 + 4) slashing damage plus 21 (6d6) necrotic damage.\
+    \ If the target is a creature, it suffers a lingering wound that causes it to\
+    \ take 7 (2d6) necrotic damage at the start of each of its turns. Each time the\
+    \ slasher hits the wounded target with this attack, the damage dealt by the wound\
+    \ increases by 3 (1d6). The wound ends if the target regains hit points or if\
+    \ a creature uses an action to stanch the wound, which requires a successful DC\
+    \ 15 Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) check."
   "name": "Slasher's Knife"
 "legendary_actions":
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft.\
-    \ or range 30/60 ft., one target. Hit: dice:1d6 + 4|text(7) (1d6 + 4) slashing\
-    \ damage."
+- "desc": "Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 30/60\
+    \ ft., one target. Hit: 7 (1d6 + 4) slashing damage."
   "name": "Slice"
 - "desc": "The slasher makes one Slasher's Knife attack. After the attack hits or\
     \ misses, the slasher can teleport up to 30 feet to an unoccupied space it can\

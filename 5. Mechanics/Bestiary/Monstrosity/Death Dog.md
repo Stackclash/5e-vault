@@ -48,13 +48,12 @@ A death dog is an ugly two-headed hound that roams plains, deserts, and the Unde
 "actions":
 - "desc": "The dog makes two bite attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d6 + 2|text(5) (1d6 + 2) piercing damage. If the target is\
-    \ a creature, it must succeed on a DC 12 Constitution saving throw against disease\
-    \ or become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] until the disease\
-    \ is cured. Every 24 hours that elapse, the creature must repeat the saving throw,\
-    \ reducing its hit point maximum by dice:1d10|text(5) (1d10) on a failure.\
-    \ This reduction lasts until the disease is cured. The creature dies if the disease\
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+    \ + 2) piercing damage. If the target is a creature, it must succeed on a DC 12\
+    \ Constitution saving throw against disease or become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ until the disease is cured. Every 24 hours that elapse, the creature must repeat\
+    \ the saving throw, reducing its hit point maximum by 5 (1d10) on a failure. This\
+    \ reduction lasts until the disease is cured. The creature dies if the disease\
     \ reduces its hit point maximum to 0."
   "name": "Bite"
 "source":

@@ -55,17 +55,17 @@ Dal Quor is the plane of dreams and is currently dominated by a dark power known
 "languages": "all, telepathy 120 ft."
 "cr": "19"
 "traits":
-- "desc": "The quori's spellcasting ability is Charisma (spell save DC 21, dice:\
-    \ d20+13 (+13) to hit with spell attacks). It can innately cast the following\
-    \ spells, requiring no components:\n\nAt will: [[5. Mechanics/Spells/Arcane Eye.md|arcane eye]]\n\
+- "desc": "The quori's spellcasting ability is Charisma (spell save DC 21, +13 to\
+    \ hit with spell attacks). It can innately cast the following spells, requiring\
+    \ no components:\n\nAt will: [[5. Mechanics/Spells/Arcane Eye.md|arcane eye]]\n\
     \n3/day each: [[5. Mechanics/Spells/Clairvoyance.md|clairvoyance]], [[5. Mechanics/Spells/Confusion.md|confusion]],\
     \ [[5. Mechanics/Spells/Dream.md|dream]], [[5. Mechanics/Spells/Eyebite.md|eyebite]]"
   "name": "Innate Spellcasting (Psionics)"
 - "desc": "The quori can't be surprised while it isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
   "name": "All-Around Vision"
 - "desc": "The quori can move through other creatures and objects as if they were\
-    \ difficult terrain. It takes dice:1d10|text(5) (1d10) force damage if it\
-    \ ends its turn inside an object."
+    \ difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside\
+    \ an object."
   "name": "Incorporeal Movement"
 - "desc": "The quori has advantage on saving throws against spells and other magical\
     \ effects."
@@ -74,14 +74,14 @@ Dal Quor is the plane of dreams and is currently dominated by a dark power known
 - "desc": "The quori makes two Soul Binding attacks. Alternatively, it can make four\
     \ attacks with Arcane Blast."
   "name": "Multiattack"
-- "desc": "Ranged Spell Attack: dice: d20+13 (+13) to hit, range 120 ft., one\
-    \ target. Hit: dice:1d10 + 7|text(12) (1d10 + 7) force damage."
+- "desc": "Ranged Spell Attack: +13 to hit, range 120 ft., one target. Hit: 12\
+    \ (1d10 + 7) force damage."
   "name": "Arcane Blast"
-- "desc": "Melee Spell Attack: dice: d20+13 (+13) to hit, reach 5 ft., one target.\
-    \ Hit: dice:4d10 + 7|text(29) (4d10 + 7) necrotic damage. A creature reduced\
-    \ to 0 hit points from this attack dies and has its soul imprisoned in one of\
-    \ the quori's eyes. The target can't be revived by any means short of a [[5. Mechanics/Spells/Wish.md|wish]]\
-    \ spell until the quori is destroyed."
+- "desc": "Melee Spell Attack: +13 to hit, reach 5 ft., one target. Hit: 29 (4d10\
+    \ + 7) necrotic damage. A creature reduced to 0 hit points from this attack dies\
+    \ and has its soul imprisoned in one of the quori's eyes. The target can't be\
+    \ revived by any means short of a [[5. Mechanics/Spells/Wish.md|wish]] spell until\
+    \ the quori is destroyed."
   "name": "Soul Binding"
 - "desc": "The quori touches one humanoid, which must succeed on a DC 21 Intelligence\
     \ saving throw or be cursed. The curse lasts until it's removed by a remove curse\
@@ -97,7 +97,7 @@ Dal Quor is the plane of dreams and is currently dominated by a dark power known
 - "desc": "The quori creates a swarm of spectral eyes that fills a 30-foot-radius\
     \ sphere centered on a point it can see within 60 feet of it. Each creature in\
     \ that area must make a DC 21 Wisdom saving throw. On a failure, a creature takes\
-    \ dice:10d8|text(45) (10d8) psychic damage, and it is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]\
+    \ 45 (10d8) psychic damage, and it is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]\
     \ for 1 minute. On a success, a creature takes half as much damage and isn't [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]].\
     \ A [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] creature can repeat the\
     \ saving throw at the end of each of its turns, ending the effect on itself on\

@@ -68,10 +68,9 @@ As part of their training, orcish shamans bond with a single animal, typically a
 "actions":
 - "desc": "The White Tusk Shaman makes two blood-searing spear attacks."
   "name": "Multiattack"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft.\
-    \ or range 30/60 ft., one target. Hit: dice:1d6 + 3|text(6) (1d6 + 3) piercing\
-    \ damage plus dice:2d6|text(7) (2d6) poison damage. This magical poison only\
-    \ functions when the spear is wielded by an orc shaman."
+- "desc": "Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 30/60\
+    \ ft., one target. Hit: 6 (1d6 + 3) piercing damage plus 7 (2d6) poison damage.\
+    \ This magical poison only functions when the spear is wielded by an orc shaman."
   "name": "Blood-Searing Spear"
 "source":
 - "SaF"

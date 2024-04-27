@@ -210,11 +210,11 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "actions":
 - "desc": "The dretch makes two attacks: one with its bite and one with its claws."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+2 (+2) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d6|text(3) (1d6) piercing damage."
+- "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (1d6)\
+    \ piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+2 (+2) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d4|text(5) (2d4) slashing damage."
+- "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 5 (2d4)\
+    \ slashing damage."
   "name": "Claws"
 - "desc": "A 10-foot radius of disgusting green gas extends out from the dretch. The\
     \ gas spreads around corners, and its area is lightly obscured. It lasts for 1\

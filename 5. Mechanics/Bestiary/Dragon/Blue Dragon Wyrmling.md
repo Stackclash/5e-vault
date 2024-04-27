@@ -127,14 +127,12 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 "languages": "Draconic"
 "cr": "3"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d10 + 3|text(8) (1d10 + 3) piercing damage plus dice:1d6|text(3)\
-    \ (1d6) lightning damage."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10\
+    \ + 3) piercing damage plus 3 (1d6) lightning damage."
   "name": "Bite"
 - "desc": "The dragon exhales lightning in a 30-foot line that is 5 feet wide. Each\
-    \ creature in that line must make a DC 12 Dexterity saving throw, taking dice:4d10|text(22)\
-    \ (4d10) lightning damage on a failed save, or half as much damage on a successful\
-    \ one."
+    \ creature in that line must make a DC 12 Dexterity saving throw, taking 22 (4d10)\
+    \ lightning damage on a failed save, or half as much damage on a successful one."
   "name": "Lightning Breath (Recharge 5-6)"
 "source":
 - "MM"

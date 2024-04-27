@@ -111,14 +111,13 @@ Whatever the case, no fiend finds the General unless the General desires it. His
     \ (self only), [[5. Mechanics/Spells/Magic Missile.md|magic missile]]"
   "name": "Innate Spellcasting"
 - "desc": "The arcanaloth is a 16th-level spellcaster. Its spellcasting ability is\
-    \ Intelligence (spell save DC 17, dice: d20+9 (+9) to hit with spell attacks).\
-    \ The arcanaloth has the following wizard spells prepared:\n\nCantrips (at will):\
-    \ [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]], [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
-    \ [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\
-    \n1st level (4 slots): [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
-    \ [[5. Mechanics/Spells/Identify.md|identify]], [[5. Mechanics/Spells/Shield.md|shield]],\
-    \ [[5. Mechanics/Spells/Tensers Floating Disk.md|Tenser's floating disk]]\n\n2nd\
-    \ level (3 slots): [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
+    \ Intelligence (spell save DC 17, +9 to hit with spell attacks). The arcanaloth\
+    \ has the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]],\
+    \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]],\
+    \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n1st level (4\
+    \ slots): [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Identify.md|identify]],\
+    \ [[5. Mechanics/Spells/Shield.md|shield]], [[5. Mechanics/Spells/Tensers Floating Disk.md|Tenser's floating disk]]\n\
+    \n2nd level (3 slots): [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
     \ [[5. Mechanics/Spells/Mirror Image.md|mirror image]], [[5. Mechanics/Spells/Phantasmal Force.md|phantasmal force]],\
     \ [[5. Mechanics/Spells/Suggestion.md|suggestion]]\n\n3rd level (3 slots): [[5. Mechanics/Spells/Counterspell.md|counterspell]],\
     \ [[5. Mechanics/Spells/Fear.md|fear]], [[5. Mechanics/Spells/Fireball.md|fireball]]\n\
@@ -135,10 +134,10 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 - "desc": "The arcanaloth's weapon attacks are magical."
   "name": "Magic Weapons"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d4 + 3|text(8) (2d4 + 3) slashing damage. The target must make\
-    \ a DC 14 Constitution saving throw, taking dice:3d6|text(10) (3d6) poison\
-    \ damage on a failed save, or half as much damage on a successful one."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (2d4\
+    \ + 3) slashing damage. The target must make a DC 14 Constitution saving throw,\
+    \ taking 10 (3d6) poison damage on a failed save, or half as much damage on a\
+    \ successful one."
   "name": "Claws"
 - "desc": "The arcanaloth magically teleports, along with any equipment it is wearing\
     \ or carrying, up to 60 feet to an unoccupied space it can see."

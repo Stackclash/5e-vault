@@ -81,16 +81,15 @@ A radiant idol doesn't require food, drink, or sleep.
 "actions":
 - "desc": "The radiant idol makes two melee attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+10 (+10) to hit, reach 5 ft., one\
-    \ target. Hit: dice:1d8 + 6|text(10) (1d8 + 6) bludgeoning damage plus dice:4d8|text(18)\
-    \ (4d8) radiant damage."
+- "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 10 (1d8\
+    \ + 6) bludgeoning damage plus 18 (4d8) radiant damage."
   "name": "Flail"
 - "desc": "The radiant idol chooses a point on the ground it can see within 60 feet\
     \ of it. A 30-foot-radius, 40-foot-high cylinder of bright light appears there\
     \ until the start of the radiant idol's next turn. Each creature in the cylinder\
     \ when it appears or that ends its turn there must make a DC 17 Constitution saving\
-    \ throw, taking dice:8d8|text(36) (8d8) radiant damage on a failed save, or\
-    \ half as much damage on a successful one."
+    \ throw, taking 36 (8d8) radiant damage on a failed save, or half as much damage\
+    \ on a successful one."
   "name": "Radiant Strike (1/Day)"
 "source":
 - "ERLW"

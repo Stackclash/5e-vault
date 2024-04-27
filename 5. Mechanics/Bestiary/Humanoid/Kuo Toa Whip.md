@@ -82,10 +82,10 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 "cr": "1"
 "traits":
 - "desc": "The kuo-toa is a 2nd-level spellcaster. Its spellcasting ability is Wisdom\
-    \ (spell save DC 12, dice: d20+4 (+4) to hit with spell attacks). The kuo-toa\
-    \ has the following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Sacred Flame.md|sacred\
-    \ flame]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
-    \n1st level (3 slots): [[5. Mechanics/Spells/Bane.md|bane]], [[5. Mechanics/Spells/Shield Of Faith.md|shield of faith]]"
+    \ (spell save DC 12, +4 to hit with spell attacks). The kuo-toa has the following\
+    \ cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]],\
+    \ [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\n1st level (3 slots):\
+    \ [[5. Mechanics/Spells/Bane.md|bane]], [[5. Mechanics/Spells/Shield Of Faith.md|shield of faith]]"
   "name": "Spellcasting"
 - "desc": "The kuo-toa can breathe air and water."
   "name": "Amphibious"
@@ -104,12 +104,11 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 - "desc": "The kuo-toa makes two attacks: one with its bite and one with its pincer\
     \ staff."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d4 + 2|text(4) (1d4 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4\
+    \ + 2) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 10 ft., one target.\
-    \ Hit: dice:1d6 + 2|text(5) (1d6 + 2) piercing damage. If the target is\
-    \ a Medium or smaller creature, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+- "desc": "Melee Weapon Attack: +4 to hit, reach 10 ft., one target. Hit: 5 (1d6\
+    \ + 2) piercing damage. If the target is a Medium or smaller creature, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ (escape DC 14). Until this grapple ends, the kuo-toa can't use its pincer staff\
     \ on another target."
   "name": "Pincer Staff"

@@ -78,12 +78,11 @@ Maglubiyet the Mighty One, the Lord of Depths and Darkness, is the greater god o
 "actions":
 - "desc": "The goblin makes two attacks with its scimitar. The second attack has disadvantage."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d6 + 2|text(5) (1d6 + 2) slashing damage."
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+    \ + 2) slashing damage."
   "name": "Scimitar"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+2 (+2) to hit, reach 5 ft.\
-    \ or range 30/120 ft., one target. Hit: dice:1d6|text(3) (1d6) piercing\
-    \ damage."
+- "desc": "Melee or Ranged Weapon Attack: +2 to hit, reach 5 ft. or range 30/120\
+    \ ft., one target. Hit: 3 (1d6) piercing damage."
   "name": "Javelin"
 "reactions":
 - "desc": "When a creature the goblin can see targets it with an attack, the goblin\

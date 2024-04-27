@@ -56,12 +56,12 @@ Although they prefer to eat fresh meat, bone, and blood, vegepygmies can absorb 
     \ next turn. The thorny dies only if it starts its turn with 0 hit points and\
     \ doesn't regenerate."
   "name": "Regeneration"
-- "desc": "At the start of its turn, the thorny deals dice:1d4|text(2) (1d4) piercing\
-    \ damage to any creature grappling it."
+- "desc": "At the start of its turn, the thorny deals 2 (1d4) piercing damage to any\
+    \ creature grappling it."
   "name": "Thorny Body"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d8 + 1|text(10) (2d8 + 1) piercing damage."
+- "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 10 (2d8\
+    \ + 1) piercing damage."
   "name": "Bite"
 "source":
 - "MPMM"

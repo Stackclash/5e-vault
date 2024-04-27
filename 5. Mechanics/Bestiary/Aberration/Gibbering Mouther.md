@@ -60,20 +60,20 @@ A gibbering mouther leaves nothing of its prey behind. However, even as the last
     \ [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]. Each creature\
     \ that starts its turn within 20 feet of the mouther and can hear the gibbering\
     \ must succeed on a DC 10 Wisdom saving throw. On a failure, the creature can't\
-    \ take reactions until the start of its next turn and rolls a dice: d8|avg|noform\
-    \ (d8) to determine what it does during its turn. On a 1 to 4, the creature\
-    \ does nothing. On a 5 or 6, the creature takes no action or bonus action and\
-    \ uses all its movement to move in a randomly determined direction. On a 7 or\
-    \ 8, the creature makes a melee attack against a randomly determined creature\
-    \ within its reach or does nothing if it can't make such an attack."
+    \ take reactions until the start of its next turn and rolls a d8 to determine\
+    \ what it does during its turn. On a 1 to 4, the creature does nothing. On a 5\
+    \ or 6, the creature takes no action or bonus action and uses all its movement\
+    \ to move in a randomly determined direction. On a 7 or 8, the creature makes\
+    \ a melee attack against a randomly determined creature within its reach or does\
+    \ nothing if it can't make such an attack."
   "name": "Gibbering"
 "actions":
 - "desc": "The gibbering mouther makes one bite attack and, if it can, uses its Blinding\
     \ Spittle."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+2 (+2) to hit, reach 5 ft., one creature.\
-    \ Hit: dice:5d6|text(17) (5d6) piercing damage. If the target is Medium\
-    \ or smaller, it must succeed on a DC 10 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
+- "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one creature. Hit: 17\
+    \ (5d6) piercing damage. If the target is Medium or smaller, it must succeed on\
+    \ a DC 10 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
     \ If the target is killed by this damage, it is absorbed into the mouther."
   "name": "Bites"
 - "desc": "The mouther spits a chemical glob at a point it can see within 15 feet\

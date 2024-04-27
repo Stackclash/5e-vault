@@ -47,8 +47,8 @@ aliases:
   "name": "Retainer"
 "actions":
 - "desc": "The theurgist casts the [[5. Mechanics/Spells/Ray Of Frost.md|ray of frost]]\
-    \ cantrip (dice: d20+6 (+6) to hit).\n\nAt 7th level, retainers can take two\
-    \ signature attacks per round."
+    \ cantrip (+6 to hit).\n\nAt 7th level, retainers can take two signature attacks\
+    \ per round."
   "name": "Signature Attack"
 - "desc": "Prerequisite: 3rd-level retainer\n\nThe theurgist casts the [[5. Mechanics/Spells/Pass Without Trace.md|pass without\
     \ trace]] spell."

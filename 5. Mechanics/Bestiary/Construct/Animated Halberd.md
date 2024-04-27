@@ -52,8 +52,8 @@ aliases:
     \ from a normal sword."
   "name": "False Appearance"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d10 + 1|text(5) (1d10 + 1) slashing damage."
+- "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d10\
+    \ + 1) slashing damage."
   "name": "Halberd"
 "source":
 - "CoS"

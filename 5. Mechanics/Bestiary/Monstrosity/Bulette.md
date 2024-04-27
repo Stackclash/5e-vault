@@ -61,20 +61,19 @@ Some sages believe the bulette is the result of a mad wizard's experiments at cr
     \ feet, with or without a running start."
   "name": "Standing Leap"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
-    \ Hit: dice:4d12 + 4|text(30) (4d12 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 30 (4d12\
+    \ + 4) piercing damage."
   "name": "Bite"
 - "desc": "If the bulette jumps at least 15 feet as part of its movement, it can then\
     \ use this action to land on its feet in a space that contains one or more other\
     \ creatures. Each of those creatures must succeed on a DC 16 Strength or Dexterity\
     \ saving throw (target's choice) or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]\
-    \ and take dice:3d6 + 4|text(14) (3d6 + 4) bludgeoning damage plus dice:3d6\
-    \ + 4|text(14) (3d6 + 4) slashing damage. On a successful save, the creature\
-    \ takes only half the damage, isn't knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]],\
-    \ and is pushed 5 feet out of the bulette's space into an unoccupied space of\
-    \ the creature's choice. If no unoccupied space is within range, the creature\
-    \ instead falls [[/5. Mechanics/Rules/Conditions.md#prone|prone]] in the bulette's\
-    \ space."
+    \ and take 14 (3d6 + 4) bludgeoning damage plus 14 (3d6 + 4) slashing damage.\
+    \ On a successful save, the creature takes only half the damage, isn't knocked\
+    \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]], and is pushed 5 feet out of\
+    \ the bulette's space into an unoccupied space of the creature's choice. If no\
+    \ unoccupied space is within range, the creature instead falls [[/5. Mechanics/Rules/Conditions.md#prone|prone]]\
+    \ in the bulette's space."
   "name": "Deadly Leap"
 "source":
 - "MM"

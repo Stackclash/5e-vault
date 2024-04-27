@@ -54,9 +54,8 @@ Corpses that accumulate on a cadaver collector's shell aren't just grisly battle
 "actions":
 - "desc": "The collector makes two Slam attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+10 (+10) to hit, reach 5 ft., one\
-    \ target. Hit: dice:3d8 + 5|text(18) (3d8 + 5) bludgeoning damage plus dice:3d10|text(16)\
-    \ (3d10) necrotic damage."
+- "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 18 (3d8\
+    \ + 5) bludgeoning damage plus 16 (3d10) necrotic damage."
   "name": "Slam"
 - "desc": "The collector releases paralyzing gas in a 30-foot cone. Each creature\
     \ in that area must make a successful DC 18 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
@@ -65,11 +64,11 @@ Corpses that accumulate on a cadaver collector's shell aren't just grisly battle
     \ on itself with a success."
   "name": "Paralyzing Breath (Recharge 5-6)"
 "bonus_actions":
-- "desc": "The collector calls up the enslaved spirits of those it has slain; dice:\
-    \ 1d4|avg|noform (1d4) [[5. Mechanics/Bestiary/Undead/Specter.md|specters]] (without\
-    \ Sunlight Sensitivity) arise in unoccupied spaces within 15 feet of it. The specters\
-    \ act right after the collector on the same initiative count and fight until they're\
-    \ destroyed. They disappear when the collector is destroyed."
+- "desc": "The collector calls up the enslaved spirits of those it has slain; 1d4\
+    \ [[5. Mechanics/Bestiary/Undead/Specter.md|specters]] (without Sunlight Sensitivity)\
+    \ arise in unoccupied spaces within 15 feet of it. The specters act right after\
+    \ the collector on the same initiative count and fight until they're destroyed.\
+    \ They disappear when the collector is destroyed."
   "name": "Summon Specters (Recharges after a Short or Long Rest)"
 "source":
 - "MPMM"

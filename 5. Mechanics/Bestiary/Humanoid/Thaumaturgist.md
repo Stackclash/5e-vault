@@ -47,13 +47,13 @@ aliases:
   "name": "Retainer"
 "actions":
 - "desc": "The thaumaturgist casts the [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]]\
-    \ cantrip (dice: d20+6 (+6) to hit).\n\nAt 7th level, retainers can take two\
-    \ signature attacks per round."
+    \ cantrip (+6 to hit).\n\nAt 7th level, retainers can take two signature attacks\
+    \ per round."
   "name": "Signature Attack"
 - "desc": "Prerequisite: 3rd-level retainer\n\nThe thaumaturgist breathes fire in\
     \ a 15-foot cone in front of them. Each creature in the cone must make a Dexterity\
-    \ saving throw. On a failed save, it takes dice:2d8|text(9) (2d8) fire damage,\
-    \ or half as much damage on a successful one."
+    \ saving throw. On a failed save, it takes 9 (2d8) fire damage, or half as much\
+    \ damage on a successful one."
   "name": "Fire Breath (3/Day)"
 - "desc": "Prerequisite: 5th-level retainer\n\nThe thaumaturgist roars with draconic\
     \ might. Each enemy within 60 feet must make a Charisma saving throw or become\
@@ -64,9 +64,9 @@ aliases:
   "name": "Dragon's Roar (1/Day)"
 - "desc": "Prerequisite: 7th-level retainer\n\nA wave of fire radiates in a 10-foot\
     \ radius out from the thaumaturgist. Each creature caught in the wave must make\
-    \ a Charisma saving throw. On a failed save, it takes dice:3d10|text(16) (3d10)\
-    \ fire damage and is pushed back 10 feet. On a success, it takes half as much\
-    \ damage and is not pushed back."
+    \ a Charisma saving throw. On a failed save, it takes 16 (3d10) fire damage and\
+    \ is pushed back 10 feet. On a success, it takes half as much damage and is not\
+    \ pushed back."
   "name": "Fire Wave (3/Day)"
 "source":
 - "SaF"

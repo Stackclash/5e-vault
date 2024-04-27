@@ -47,8 +47,8 @@ aliases:
   "name": "Retainer"
 "actions":
 - "desc": "The alienist casts the [[5. Mechanics/Spells/Eldritch Blast.md|eldritch blast]]\
-    \ cantrip (dice: d20+6 (+6) to hit).\n\nAt 7th level, retainers can take two\
-    \ signature attacks per round."
+    \ cantrip (+6 to hit).\n\nAt 7th level, retainers can take two signature attacks\
+    \ per round."
   "name": "Signature Attack"
 - "desc": "Prerequisite: 3rd-level retainer\n\nThe alienist casts the [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]]\
     \ spell (spell save DC 13 at 3rd level, 14 at 5th level, and 15 at 7th level)."

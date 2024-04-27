@@ -54,19 +54,17 @@ In the Age of Giants, giant artificers built mindless war golems to aid them in 
 "actions":
 - "desc": "The warforged titan makes one axehand attack and one hammerfist attack."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 10 ft., one target.\
-    \ Hit: dice:3d8 + 6|text(19) (3d8 + 6) slashing damage, plus dice:2d10|text(11)\
-    \ (2d10) slashing damage if the target is [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+- "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 19 (3d8\
+    \ + 6) slashing damage, plus 11 (2d10) slashing damage if the target is [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Axehand"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 10 ft., one target.\
-    \ Hit: dice:3d8 + 6|text(19) (3d8 + 6) bludgeoning damage. If the target\
-    \ is a creature, it must succeed on a DC 17 Strength saving throw or be knocked\
-    \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+- "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 19 (3d8\
+    \ + 6) bludgeoning damage. If the target is a creature, it must succeed on a DC\
+    \ 17 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Hammerfist"
 - "desc": "The warforged titan makes a sweep with its axehand, and each creature within\
-    \ 10 feet of it must make a DC 17 Dexterity saving throw. A creature takes dice:3d8\
-    \ + 6|text(19) (3d8 + 6) slashing damage on a failed save, or half as much\
-    \ damage on a successful one."
+    \ 10 feet of it must make a DC 17 Dexterity saving throw. A creature takes 19\
+    \ (3d8 + 6) slashing damage on a failed save, or half as much damage on a successful\
+    \ one."
   "name": "Sweeping Axe (Recharge 6)"
 "source":
 - "ERLW"

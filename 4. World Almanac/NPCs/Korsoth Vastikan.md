@@ -168,11 +168,11 @@ await dv.view("npcRelationships", { current: dv.current() })
 "actions":
 - "desc": "Vastikan makes four longbow attacks."
   "name": "Multiattack"
-- "desc": "Ranged Weapon Attack: dice: d20+7 (+7) to hit, range 150/600 ft.,\
-    \ one target. Hit: dice:1d8 + 4|text(8) (1d8 + 4) piercing damage."
+- "desc": "Ranged Weapon Attack: +7 to hit, range 150/600 ft., one target. Hit:\
+    \ 8 (1d8 + 4) piercing damage."
   "name": "Longbow"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d8 + 4|text(8) (1d8 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8\
+    \ + 4) piercing damage."
   "name": "Shortsword"
 "source":
 - "SaF"

@@ -70,17 +70,15 @@ Among the types of horror adventures detailed in "chapter 2", tales of uncontrol
 "actions":
 - "desc": "The plague spreader makes two Slam attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d6 + 3|text(6) (1d6 + 3) bludgeoning damage plus dice:2d8|text(9)\
-    \ (2d8) necrotic damage."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6\
+    \ + 3) bludgeoning damage plus 9 (2d8) necrotic damage."
   "name": "Slam"
 - "desc": "The plague spreader releases toxic gas in a 30-foot-radius sphere centered\
     \ on itself. Each creature in that area must make a DC 12 Constitution saving\
-    \ throw, taking dice:4d6|text(14) (4d6) poison damage on a failed save, or\
-    \ half as much damage on a successful one. A Humanoid reduced to 0 hit points\
-    \ by this damage dies and rises as a zombie (see its stat block in the Monster\
-    \ Manual) 1 minute later. The zombie acts immediately after the plague spreader\
-    \ in the initiative count."
+    \ throw, taking 14 (4d6) poison damage on a failed save, or half as much damage\
+    \ on a successful one. A Humanoid reduced to 0 hit points by this damage dies\
+    \ and rises as a zombie (see its stat block in the Monster Manual) 1 minute later.\
+    \ The zombie acts immediately after the plague spreader in the initiative count."
   "name": "Virulent Miasma (1/Day)"
 "source":
 - "VRGR"

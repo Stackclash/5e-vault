@@ -74,16 +74,14 @@ A medusa is subject to its own curse. By looking vainly on its reflection, it tu
 - "desc": "The medusa makes either three melee attacks—one with its snake hair and\
     \ two with its shortsword—or two ranged attacks with its longbow."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one creature.\
-    \ Hit: dice:1d4 + 2|text(4) (1d4 + 2) piercing damage plus dice:4d6|text(14)\
-    \ (4d6) poison damage."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 4 (1d4\
+    \ + 2) piercing damage plus 14 (4d6) poison damage."
   "name": "Snake Hair"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d6 + 2|text(5) (1d6 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+    \ + 2) piercing damage."
   "name": "Shortsword"
-- "desc": "Ranged Weapon Attack: dice: d20+5 (+5) to hit, range 150/600 ft.,\
-    \ one target. Hit: dice:1d8 + 2|text(6) (1d8 + 2) piercing damage plus dice:2d6|text(7)\
-    \ (2d6) poison damage."
+- "desc": "Ranged Weapon Attack: +5 to hit, range 150/600 ft., one target. Hit:\
+    \ 6 (1d8 + 2) piercing damage plus 7 (2d6) poison damage."
   "name": "Longbow"
 "source":
 - "MM"

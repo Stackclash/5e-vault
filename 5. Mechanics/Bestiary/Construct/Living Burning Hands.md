@@ -78,13 +78,12 @@ For example, if you turn [[5. Mechanics/Spells/Fireball.md|fireball]] (a 3rd-lev
     \ magical effects."
   "name": "Magic Resistance"
 "actions":
-- "desc": "Melee Spell Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d6 + 3|text(6) (1d6 + 3) fire damage."
+- "desc": "Melee Spell Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6\
+    \ + 3) fire damage."
   "name": "Magical Strike"
 - "desc": "The living spell unleashes a thin sheet of flames in a 15-foot cone. Each\
-    \ creature in that area must make a DC 13 Dexterity saving throw, taking dice:3d6|text(10)\
-    \ (3d6) fire damage on a failed save, or half as much damage on a successful\
-    \ one."
+    \ creature in that area must make a DC 13 Dexterity saving throw, taking 10 (3d6)\
+    \ fire damage on a failed save, or half as much damage on a successful one."
   "name": "Spell Mimicry (Recharge 5-6)"
 "source":
 - "ERLW"

@@ -47,8 +47,8 @@ aliases:
   "name": "Retainer"
 "actions":
 - "desc": "The diabolist casts the [[5. Mechanics/Spells/Eldritch Blast.md|eldritch blast]]\
-    \ cantrip (dice: d20+6 (+6) to hit).\n\nAt 7th level, retainers can take two\
-    \ signature attacks per round."
+    \ cantrip (+6 to hit).\n\nAt 7th level, retainers can take two signature attacks\
+    \ per round."
   "name": "Signature Attack"
 - "desc": "Prerequisite: 3rd-level retainer\n\nThe diabolist casts the [[5. Mechanics/Spells/Burning Hands.md|burning\
     \ hands]] spell (spell save DC 13 at 3rd level,\

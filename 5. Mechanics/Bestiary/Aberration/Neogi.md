@@ -63,15 +63,14 @@ Neogi usually dwell in far-flung locations on the Material Plane, as well as in 
 "actions":
 - "desc": "The neogi makes one Bite attack and two Claw attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d6 + 3|text(6) (1d6 + 3) piercing damage plus dice:4d6|text(14)\
-    \ (4d6) poison damage, and the target must succeed on a DC 12 Constitution saving\
-    \ throw or become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for 1 minute.\
-    \ A target can repeat the saving throw at the end of each of its turns, ending\
-    \ the effect on itself on a success."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6\
+    \ + 3) piercing damage plus 14 (4d6) poison damage, and the target must succeed\
+    \ on a DC 12 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ for 1 minute. A target can repeat the saving throw at the end of each of its\
+    \ turns, ending the effect on itself on a success."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d4 + 3|text(8) (2d4 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d4\
+    \ + 3) slashing damage."
   "name": "Claw"
 "bonus_actions":
 - "desc": "The neogi targets one creature it can see within 30 feet of it. The target\

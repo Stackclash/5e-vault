@@ -107,9 +107,8 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
 "actions":
 - "desc": "The yuan-ti makes two bite attacks using its snake arms."
   "name": "Multiattack (Yuan-ti Form Only)"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one creature.\
-    \ Hit: dice:1d4 + 3|text(5) (1d4 + 3) piercing damage plus dice:2d6|text(7)\
-    \ (2d6) poison damage."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 5 (1d4\
+    \ + 3) piercing damage plus 7 (2d6) poison damage."
   "name": "Bite"
 "source":
 - "MM"

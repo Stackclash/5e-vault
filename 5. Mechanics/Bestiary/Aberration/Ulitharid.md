@@ -79,21 +79,19 @@ This process doesn't work on the brain of an ulitharid that dies a natural death
     \ at any time (no action required)."
   "name": "Psionic Hub"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 10 ft., one creature.\
-    \ Hit: dice:4d10 + 5|text(27) (4d10 + 5) psychic damage. If the target is\
-    \ Large or smaller, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+- "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft., one creature. Hit: 27\
+    \ (4d10 + 5) psychic damage. If the target is Large or smaller, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ (escape DC 14) and must succeed on a DC 17 Intelligence saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
     \ until this grapple ends."
   "name": "Tentacles"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 5 ft., one [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
+- "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
     \ Humanoid [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] by the ulitharid.\
-    \ Hit: dice:10d10|text(55) (10d10) piercing damage. If this damage reduces\
-    \ the target to 0 hit points, the ulitharid kills the target by extracting and\
-    \ devouring its brain."
+    \ Hit: 55 (10d10) piercing damage. If this damage reduces the target to 0 hit\
+    \ points, the ulitharid kills the target by extracting and devouring its brain."
   "name": "Extract Brain"
 - "desc": "The ulitharid magically emits psychic energy in a 60-foot cone. Each creature\
-    \ in that area must succeed on a DC 17 Intelligence saving throw or take dice:4d12\
-    \ + 5|text(31) (4d12 + 5) psychic damage and be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+    \ in that area must succeed on a DC 17 Intelligence saving throw or take 31 (4d12\
+    \ + 5) psychic damage and be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
     \ for 1 minute. A target can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success."
   "name": "Mind Blast (Recharge 5-6)"

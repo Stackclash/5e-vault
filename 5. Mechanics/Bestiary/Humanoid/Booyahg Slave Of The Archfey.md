@@ -61,9 +61,9 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
     \ animals]]\n\n1/day: [[5. Mechanics/Spells/Conjure Fey.md|conjure fey]]"
   "name": "Innate Spellcasting"
 - "desc": "The goblin is an 11th-level spellcaster. Its spellcasting ability is Charisma\
-    \ (spell save DC 14, dice: d20+6 (+6) to hit with spell attacks). It regains\
-    \ its expended spell slots when it finishes a short or long rest. It knows the\
-    \ following warlock spells:\n\nCantrips (at will): [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]],\
+    \ (spell save DC 14, +6 to hit with spell attacks). It regains its expended spell\
+    \ slots when it finishes a short or long rest. It knows the following warlock\
+    \ spells:\n\nCantrips (at will): [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]],\
     \ [[5. Mechanics/Spells/Eldritch Blast.md|eldritch blast]], [[5. Mechanics/Spells/Friends.md|friends]],\
     \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]],\
     \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]], [[5. Mechanics/Spells/Vicious Mockery.md|vicious mockery]]\n\
@@ -75,9 +75,8 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
     \ [[5. Mechanics/Spells/Sleep.md|sleep]]"
   "name": "Spellcasting"
 "actions":
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice:1d4 + 2|text(4) (1d4 + 2) piercing\
-    \ damage."
+- "desc": "Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60\
+    \ ft., one target. Hit: 4 (1d4 + 2) piercing damage."
   "name": "Dagger"
 "reactions":
 - "desc": "In response to taking damage, the goblin turns [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]]\

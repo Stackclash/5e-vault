@@ -73,11 +73,11 @@ Most Red Fang enclaves keep and nurture giant bats, creatures that are sacred to
 "actions":
 - "desc": "The orc makes two scimitar or dart attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
-    \ Hit: dice:3d6 + 3|text(13) (3d6 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 13 (3d6\
+    \ + 3) slashing damage."
   "name": "Scimitar"
-- "desc": "Ranged Weapon Attack: dice: d20+5 (+5) to hit, range 20/60 ft., one\
-    \ target. Hit: dice:3d4 + 3|text(10) (3d4 + 3) piercing damage."
+- "desc": "Ranged Weapon Attack: +5 to hit, range 20/60 ft., one target. Hit:\
+    \ 10 (3d4 + 3) piercing damage."
   "name": "Dart"
 - "desc": "The orc casts [[5. Mechanics/Spells/Darkness.md|darkness]] without any components.\
     \ Wisdom is its spellcasting ability."

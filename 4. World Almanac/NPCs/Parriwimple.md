@@ -145,15 +145,13 @@ await dv.view("npcRelationships", { current: dv.current() })
 "actions":
 - "desc": "Parriwimple makes three melee attacks or two ranged attacks."
   "name": "Multiattack"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft.\
-    \ and range 20/60 ft., one target. Hit: dice:2d6 + 4|text(11) (2d6 + 4)\
-    \ piercing damage, or dice:2d8 + 4|text(13) (2d8 + 4) piercing damage if used\
-    \ with two hands to make a melee attack."
+- "desc": "Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. and range 20/60\
+    \ ft., one target. Hit: 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing\
+    \ damage if used with two hands to make a melee attack."
   "name": "Spear"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one creature.\
-    \ Hit: dice:2d4 + 4|text(9) (2d4 + 4) bludgeoning damage. If the target\
-    \ is a Medium or smaller creature, it must succeed on a DC 15 Strength saving\
-    \ throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 9 (2d4\
+    \ + 4) bludgeoning damage. If the target is a Medium or smaller creature, it must\
+    \ succeed on a DC 15 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Shield Bash"
 "reactions":
 - "desc": "Parriwimple adds 3 to its AC against one melee attack that would hit it.\

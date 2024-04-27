@@ -72,15 +72,15 @@ The demon lord Graz'zt creates lamias from his mortal servants, granting them im
 - "desc": "The lamia makes two attacks: one with its claws and one with its dagger\
     \ or Intoxicating Touch."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d10 + 3|text(14) (2d10 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 14 (2d10\
+    \ + 3) slashing damage."
   "name": "Claws"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d4 + 3|text(5) (1d4 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4\
+    \ + 3) piercing damage."
   "name": "Dagger"
-- "desc": "Melee Spell Attack: dice: d20+5 (+5) to hit, reach 5 ft., one creature.\
-    \ Hit: The target is magically cursed for 1 hour. Until the curse ends, the\
-    \ target has disadvantage on Wisdom saving throws and all ability checks."
+- "desc": "Melee Spell Attack: +5 to hit, reach 5 ft., one creature. Hit: The\
+    \ target is magically cursed for 1 hour. Until the curse ends, the target has\
+    \ disadvantage on Wisdom saving throws and all ability checks."
   "name": "Intoxicating Touch"
 "source":
 - "MM"

@@ -77,8 +77,8 @@ A shield guardian doesn't require air, food, drink, or sleep.
 "actions":
 - "desc": "The guardian makes two fist attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) bludgeoning damage."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6\
+    \ + 4) bludgeoning damage."
   "name": "Fist"
 "reactions":
 - "desc": "When a creature makes an attack against the wearer of the guardian's amulet,\

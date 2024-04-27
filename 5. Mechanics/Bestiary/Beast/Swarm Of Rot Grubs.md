@@ -56,15 +56,14 @@ Any creature that comes into contact with a single rot grub must succeed on a DC
     \ regain hit points or gain temporary hit points."
   "name": "Swarm"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+0 (+0) to hit, reach 0 ft., one creature\
-    \ in the swarm's space. Hit: dice:2d6|text(7) (2d6) piercing damage, and\
-    \ the target must succeed on a DC 10 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]].\
+- "desc": "Melee Weapon Attack: +0 to hit, reach 0 ft., one creature in the swarm's\
+    \ space. Hit: 7 (2d6) piercing damage, and the target must succeed on a DC 10\
+    \ Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]].\
     \ At the end of each of the [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
-    \ target's turns, the target takes dice:1d6|text(3) (1d6) poison damage. Whenever\
-    \ the [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] target takes fire damage,\
-    \ the target can repeat the saving throw, ending the effect on itself on a success.\
-    \ If the [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] target ends its\
-    \ turn with 0 hit points, it dies."
+    \ target's turns, the target takes 3 (1d6) poison damage. Whenever the [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ target takes fire damage, the target can repeat the saving throw, ending the\
+    \ effect on itself on a success. If the [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ target ends its turn with 0 hit points, it dies."
   "name": "Bites"
 "source":
 - "MPMM"

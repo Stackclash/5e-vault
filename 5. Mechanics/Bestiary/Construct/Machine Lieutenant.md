@@ -53,9 +53,8 @@ aliases:
 "actions":
 - "desc": "The lieutenant makes two longsword attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d8 + 4|text(8) (1d8 + 4) slashing damage or dice:1d10 + 4|text(9)\
-    \ (1d10 + 4) slashing damage if used with two hands."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8\
+    \ + 4) slashing damage or 9 (1d10 + 4) slashing damage if used with two hands."
   "name": "Longsword"
 "source":
 - "SaF"

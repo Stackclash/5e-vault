@@ -53,8 +53,8 @@ The brain floats in a jar of solution, pulsating as it reacts to its surrounding
 "cr": "3"
 "traits":
 - "desc": "The brain's innate spellcasting ability is Intelligence (spell save DC\
-    \ 14, dice: d20+6 (+6) to hit with spell attacks). It can innately cast the\
-    \ following spells, requiring no components:\n\nAt will: [[5. Mechanics/Spells/Chill Touch.md|chill touch]]\
+    \ 14, +6 to hit with spell attacks). It can innately cast the following spells,\
+    \ requiring no components:\n\nAt will: [[5. Mechanics/Spells/Chill Touch.md|chill touch]]\
     \ (see \"Actions\" below), [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
     \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Zone Of Truth.md|zone of truth]]\n\
     \n1/day each: [[5. Mechanics/Spells/Compulsion.md|compulsion]], [[5. Mechanics/Spells/Hold Monster.md|hold monster]],\
@@ -72,15 +72,14 @@ The brain floats in a jar of solution, pulsating as it reacts to its surrounding
 - "desc": "The brain doesn't require air, food, drink, or sleep."
   "name": "Unusual Nature"
 "actions":
-- "desc": "Ranged Spell Attack: dice: d20+6 (+6) to hit, range 120 ft., one\
-    \ creature. Hit: dice:3d8|text(13) (3d8) necrotic damage, and the target\
-    \ can't regain hit points until the start of the brain's next turn. If the target\
-    \ is undead, it also has disadvantage on attack rolls against the brain until\
-    \ the end of the brain's next turn."
+- "desc": "Ranged Spell Attack: +6 to hit, range 120 ft., one creature. Hit: 13\
+    \ (3d8) necrotic damage, and the target can't regain hit points until the start\
+    \ of the brain's next turn. If the target is undead, it also has disadvantage\
+    \ on attack rolls against the brain until the end of the brain's next turn."
   "name": "Chill Touch (Cantrip)"
 - "desc": "The brain magically emits psychic energy in a 60-foot cone. Each creature\
-    \ in that area must succeed on a DC 14 Intelligence saving throw or take dice:3d8\
-    \ + 4|text(17) (3d8 + 4) psychic damage and be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+    \ in that area must succeed on a DC 14 Intelligence saving throw or take 17 (3d8\
+    \ + 4) psychic damage and be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
     \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success."
   "name": "Mind Blast (Recharge 5-6)"

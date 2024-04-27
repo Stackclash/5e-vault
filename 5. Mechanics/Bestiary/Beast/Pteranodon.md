@@ -51,8 +51,8 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
     \ an enemy's reach."
   "name": "Flyby"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d4 + 1|text(6) (2d4 + 1) piercing damage"
+- "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (2d4\
+    \ + 1) piercing damage"
   "name": "Bite"
 "source":
 - "MM"

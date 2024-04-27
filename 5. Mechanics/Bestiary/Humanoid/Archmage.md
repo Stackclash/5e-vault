@@ -49,12 +49,11 @@ An archmage typically has one or more apprentice mages, and an archmage's abode 
 "cr": "12"
 "traits":
 - "desc": "The archmage is an 18th-level spellcaster. Its spellcasting ability is\
-    \ Intelligence (spell save DC 17, dice: d20+9 (+9) to hit with spell attacks).\
-    \ The archmage can cast [[5. Mechanics/Spells/Disguise Self.md|disguise self]] and\
-    \ [[5. Mechanics/Spells/Invisibility.md|invisibility]] at will and has the following\
-    \ wizard spells prepared:\n\nAt will: [[5. Mechanics/Spells/Disguise Self.md|disguise self]],\
-    \ [[5. Mechanics/Spells/Invisibility.md|invisibility]]\n\nCantrips (at will):\
-    \ [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]], [[5. Mechanics/Spells/Light.md|light]],\
+    \ Intelligence (spell save DC 17, +9 to hit with spell attacks). The archmage\
+    \ can cast [[5. Mechanics/Spells/Disguise Self.md|disguise self]] and [[5. Mechanics/Spells/Invisibility.md|invisibility]]\
+    \ at will and has the following wizard spells prepared:\n\nAt will: [[5. Mechanics/Spells/Disguise Self.md|disguise\
+    \ self]], [[5. Mechanics/Spells/Invisibility.md|invisibility]]\n\
+    \nCantrips (at will): [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]], [[5. Mechanics/Spells/Light.md|light]],\
     \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]],\
     \ [[5. Mechanics/Spells/Shocking Grasp.md|shocking grasp]]\n\n1st level (4 slots):\
     \ [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Identify.md|identify]],\
@@ -77,9 +76,8 @@ An archmage typically has one or more apprentice mages, and an archmage's abode 
     \ effects."
   "name": "Magic Resistance"
 "actions":
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice:1d4 + 2|text(4) (1d4 + 2) piercing\
-    \ damage."
+- "desc": "Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60\
+    \ ft., one target. Hit: 4 (1d4 + 2) piercing damage."
   "name": "Dagger"
 "source":
 - "MM"

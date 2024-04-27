@@ -56,17 +56,15 @@ Composed of fire and water, steam mephits leave trails of hot water wherever the
   "name": "Innate Spellcasting (1/Day)"
 - "desc": "When the mephit dies, it explodes in a cloud of steam. Each creature within\
     \ 5 feet of the mephit must succeed on a DC 10 Dexterity saving throw or take\
-    \ dice:1d8|text(4) (1d8) fire damage."
+    \ 4 (1d8) fire damage."
   "name": "Death Burst"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+2 (+2) to hit, reach 5 ft., one creature.\
-    \ Hit: dice:1d4|text(2) (1d4) slashing damage plus dice:1d4|text(2) (1d4)\
-    \ fire damage."
+- "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one creature. Hit: 2 (1d4)\
+    \ slashing damage plus 2 (1d4) fire damage."
   "name": "Claws"
 - "desc": "The mephit exhales a 15-foot cone of scalding steam. Each creature in that\
-    \ area must succeed on a DC 10 Dexterity saving throw, taking dice:1d8|text(4)\
-    \ (1d8) fire damage on a failed save, or half as much damage on a successful\
-    \ one."
+    \ area must succeed on a DC 10 Dexterity saving throw, taking 4 (1d8) fire damage\
+    \ on a failed save, or half as much damage on a successful one."
   "name": "Steam Breath (Recharge 6)"
 "source":
 - "MM"

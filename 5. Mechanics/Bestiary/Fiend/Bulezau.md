@@ -53,7 +53,7 @@ Disfiguring ailments plague bulezaus: crusted eyes, maggots wriggling in open so
 "traits":
 - "desc": "When any creature that isn't a demon starts its turn within 30 feet of\
     \ the bulezau, that creature must succeed on a DC 13 Constitution saving throw\
-    \ or take dice:1d6|text(3) (1d6) necrotic damage."
+    \ or take 3 (1d6) necrotic damage."
   "name": "Rotting Presence"
 - "desc": "The bulezau's long jump is up to 20 feet and its high jump is up to 10\
     \ feet, with or without a running start."
@@ -62,16 +62,16 @@ Disfiguring ailments plague bulezaus: crusted eyes, maggots wriggling in open so
     \ against effects that would knock it [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Sure-Footed"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d12 + 2|text(8) (1d12 + 2) piercing damage plus dice:1d8|text(4)\
-    \ (1d8) necrotic damage. If the target is a creature, it must succeed on a DC\
-    \ 13 Constitution saving throw against disease or become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
-    \ until the disease ends. While [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
-    \ in this way, the target sports festering boils, coughs up flies, and sheds rotting\
-    \ skin, and the target must repeat the saving throw after every 24 hours that\
-    \ elapse. On a successful save, the disease ends. On a failed save, the target's\
-    \ hit point maximum is reduced by dice:1d8|text(4) (1d8). The target dies\
-    \ if its hit point maximum is reduced to 0."
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 8 (1d12\
+    \ + 2) piercing damage plus 4 (1d8) necrotic damage. If the target is a creature,\
+    \ it must succeed on a DC 13 Constitution saving throw against disease or become\
+    \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] until the disease ends.\
+    \ While [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in this way, the\
+    \ target sports festering boils, coughs up flies, and sheds rotting skin, and\
+    \ the target must repeat the saving throw after every 24 hours that elapse. On\
+    \ a successful save, the disease ends. On a failed save, the target's hit point\
+    \ maximum is reduced by 4 (1d8). The target dies if its hit point maximum is reduced\
+    \ to 0."
   "name": "Barbed Tail"
 "source":
 - "MPMM"

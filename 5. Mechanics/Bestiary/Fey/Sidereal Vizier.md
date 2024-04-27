@@ -65,8 +65,8 @@ If a spell can solve the problem, the Vizier knows it and has it prepared. The l
     \ person]]\n\n1/day: [[5. Mechanics/Spells/Power Word Stun.md|power word stun]]"
   "name": "Innate Spellcasting"
 - "desc": "The Vizier is a 15th-level spellcaster. His spellcasting ability is Intelligence\
-    \ (spell save DC 17, dice: d20+9 (+9) to hit with spell attacks). The Vizier\
-    \ has the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]],\
+    \ (spell save DC 17, +9 to hit with spell attacks). The Vizier has the following\
+    \ wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]],\
     \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]],\
     \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n1st level (4\
     \ slots): [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Identify.md|identify]],\
@@ -93,8 +93,8 @@ If a spell can solve the problem, the Vizier knows it and has it prepared. The l
     \ or elf."
   "name": "Command Fey"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d8 + 3|text(7) (1d8 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d8\
+    \ + 3) piercing damage."
   "name": "Longsword"
 "source":
 - "SaF"

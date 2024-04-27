@@ -68,22 +68,20 @@ For amphibious assaults or underwater conflicts, hydroloths have no equal among 
 - "desc": "The hydroloth makes two Bite or Claw attacks. It can replace one attack\
     \ with a use of Spellcasting."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d10 + 5|text(16) (2d10 + 5) force damage plus dice:2d10|text(9)\
-    \ (2d10) psychic damage."
+- "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 16 (2d10\
+    \ + 5) force damage plus 9 (2d10) psychic damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 5 ft., one target.\
-    \  Hit: dice:2d8 + 5|text(14) (2d8 + 5) force damage plus dice:2d10|text(9)\
-    \ (2d10) psychic damage."
+- "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target.  Hit: 14 (2d8\
+    \ + 5) force damage plus 9 (2d10) psychic damage."
   "name": "Claw"
 - "desc": "The hydroloth targets one creature it can see within 60 feet of it. The\
-    \ target takes dice:4d6|text(14) (4d6) psychic damage, and it must make a\
-    \ DC 16 Intelligence saving throw. On a successful save, the target becomes immune\
-    \ to this hydroloth's Steal Memory for 24 hours. On a failed save, the target\
-    \ loses all proficiencies; it can't cast spells; it can't understand language;\
-    \ and if its Intelligence and Charisma scores are higher than 5, they become 5.\
-    \ Each time the target finishes a long rest, it can repeat the saving throw, ending\
-    \ the effect on itself on a success. A [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
+    \ target takes 14 (4d6) psychic damage, and it must make a DC 16 Intelligence\
+    \ saving throw. On a successful save, the target becomes immune to this hydroloth's\
+    \ Steal Memory for 24 hours. On a failed save, the target loses all proficiencies;\
+    \ it can't cast spells; it can't understand language; and if its Intelligence\
+    \ and Charisma scores are higher than 5, they become 5. Each time the target finishes\
+    \ a long rest, it can repeat the saving throw, ending the effect on itself on\
+    \ a success. A [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
     \ or [[5. Mechanics/Spells/Remove Curse.md|remove curse]] spell cast on the target\
     \ ends this effect early."
   "name": "Steal Memory (1/Day)"

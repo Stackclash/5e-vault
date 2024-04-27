@@ -68,20 +68,19 @@ Infighting and treachery brought skull lords into existence. The first of them a
 - "desc": "If the skull lord fails a saving throw, it can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
 - "desc": "While within 30 feet of the skull lord, any Undead ally of the skull lord\
-    \ makes saving throws with advantage, and that ally regains dice: 1d6|avg|noform\
-    \ (1d6) hit points whenever it starts its turn there."
+    \ makes saving throws with advantage, and that ally regains 1d6 hit points whenever\
+    \ it starts its turn there."
   "name": "Master of the Grave"
 - "desc": "The skull lord doesn't require air, food, drink, or sleep."
   "name": "Unusual Nature"
 "actions":
 - "desc": "The skull lord makes three Bone Staff or Deathly Ray attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d8 + 3|text(7) (1d8 + 3) bludgeoning damage plus dice:6d6|text(21)\
-    \ (6d6) necrotic damage."
+- "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 7 (1d8\
+    \ + 3) bludgeoning damage plus 21 (6d6) necrotic damage."
   "name": "Bone Staff"
-- "desc": "Ranged Spell Attack: dice: d20+10 (+10) to hit, range 60 ft., one\
-    \ target. Hit: dice:5d8 + 5|text(27) (5d8 + 5) necrotic damage."
+- "desc": "Ranged Spell Attack: +10 to hit, range 60 ft., one target. Hit: 27\
+    \ (5d8 + 5) necrotic damage."
   "name": "Deathly Ray"
 "legendary_actions":
 - "desc": "The skull lord makes one Bone Staff or Deathly Ray attack."

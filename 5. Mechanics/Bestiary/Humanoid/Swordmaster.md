@@ -46,15 +46,15 @@ aliases:
 - "desc": "This creature is a Retainer, as described in \"Strongholds and Followers\""
   "name": "Retainer"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d8 + 2|text(11) (2d8 + 2) slashing damage.\n\nAt 7th level,\
-    \ retainers can take two signature attacks per round."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d8\
+    \ + 2) slashing damage.\n\nAt 7th level, retainers can take two signature attacks\
+    \ per round."
   "name": "Signature Attack"
 - "desc": "Prerequisite: 3rd-level retainer\n\nThe swordmaster makes an attack with\
     \ their signature attack against an adjacent creature. On a hit, the target starts\
-    \ bleeding, taking dice:1d6|text(3) (1d6) damage at the start of each of its\
-    \ following turns. At the end of each of its turns, it can make a Constitution\
-    \ save to stop the bleeding."
+    \ bleeding, taking 3 (1d6) damage at the start of each of its following turns.\
+    \ At the end of each of its turns, it can make a Constitution save to stop the\
+    \ bleeding."
   "name": "Gaping Wound (3/Day)"
 - "desc": "Prerequisite: 5th-level retainer\n\nThe swordmaster issues a challenge\
     \ to an adjacent creature. For 1 minute, if that creature attempts to attack a\

@@ -148,8 +148,8 @@ await dv.view("npcRelationships", { current: dv.current() })
 "actions":
 - "desc": "Elise makes two slam attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d8 + 4|text(13) (2d8 + 4) bludgeoning damage."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8\
+    \ + 4) bludgeoning damage."
   "name": "Slam"
 "source":
 - "VRGR"

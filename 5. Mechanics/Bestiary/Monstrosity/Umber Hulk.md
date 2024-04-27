@@ -56,15 +56,15 @@ Many survivors of an umber hulk encounter recollect little about the attack, bec
     \ able to see the umber hulk's eyes, the umber hulk can magically force it to\
     \ make a DC 15 Charisma saving throw, unless the umber hulk is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]].\n\
     \nOn a failed saving throw, the creature can't take reactions until the start\
-    \ of its next turn and rolls a dice: d8|avg|noform (d8) to determine what\
-    \ it does during that turn. On a 1 to 4, the creature does nothing. On a 5 or\
-    \ 6, the creature takes no action but uses all its movement to move in a random\
-    \ direction. On a 7 or 8, the creature makes one melee attack against a random\
-    \ creature, or it does nothing if no creature is within reach.\n\nUnless surprised,\
-    \ a creature can avert its eyes to avoid the saving throw at the start of its\
-    \ turn. If the creature does so, it can't see the umber hulk until the start of\
-    \ its next turn, when it can avert its eyes again. If the creature looks at the\
-    \ umber hulk in the meantime, it must immediately make the save."
+    \ of its next turn and rolls a d8 to determine what it does during that turn.\
+    \ On a 1 to 4, the creature does nothing. On a 5 or 6, the creature takes no action\
+    \ but uses all its movement to move in a random direction. On a 7 or 8, the creature\
+    \ makes one melee attack against a random creature, or it does nothing if no creature\
+    \ is within reach.\n\nUnless surprised, a creature can avert its eyes to avoid\
+    \ the saving throw at the start of its turn. If the creature does so, it can't\
+    \ see the umber hulk until the start of its next turn, when it can avert its eyes\
+    \ again. If the creature looks at the umber hulk in the meantime, it must immediately\
+    \ make the save."
   "name": "Confusing Gaze"
 - "desc": "The umber hulk can burrow through solid rock at half its burrowing speed\
     \ and leaves a 5 foot-wide, 8-foot-high tunnel in its wake."
@@ -73,11 +73,11 @@ Many survivors of an umber hulk encounter recollect little about the attack, bec
 - "desc": "The umber hulk makes three attacks: two with its claws and one with its\
     \ mandibles."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d8 + 5|text(9) (1d8 + 5) slashing damage."
+- "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 9 (1d8\
+    \ + 5) slashing damage."
   "name": "Claw"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d8 + 5|text(14) (2d8 + 5) slashing damage."
+- "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 14 (2d8\
+    \ + 5) slashing damage."
   "name": "Mandibles"
 "source":
 - "MM"

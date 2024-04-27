@@ -133,17 +133,17 @@ await dv.view("npcRelationships", { current: dv.current() })
 "languages": "understands the languages of its creator but can't speak"
 "cr": "5"
 "traits":
-- "desc": "Whenever Vasilka starts its turn with 40 hit points or fewer, roll a dice:\
-    \ d6|avg|noform (d6). On a 6, Vasilka goes berserk. On each of its turns while\
-    \ berserk, Vasilka attacks the nearest creature it can see. If no creature is\
-    \ near enough to move to and attack, Vasilka attacks an object, with preference\
-    \ for an object smaller than itself. Once Vasilka goes berserk, it continues to\
-    \ do so until it is destroyed or regains all its hit points.\n\nVasilka's creator,\
-    \ if within 60 feet of the berserk golem, can try to calm it by speaking firmly\
-    \ and persuasively. Vasilka must be able to hear its creator, who must take an\
-    \ action to make a DC 15 Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion|Persuasion]])\
-    \ check. If the check succeeds, Vasilka ceases being berserk. If it takes damage\
-    \ while still at 40 hit points or fewer, Vasilka might go berserk again."
+- "desc": "Whenever Vasilka starts its turn with 40 hit points or fewer, roll a d6.\
+    \ On a 6, Vasilka goes berserk. On each of its turns while berserk, Vasilka attacks\
+    \ the nearest creature it can see. If no creature is near enough to move to and\
+    \ attack, Vasilka attacks an object, with preference for an object smaller than\
+    \ itself. Once Vasilka goes berserk, it continues to do so until it is destroyed\
+    \ or regains all its hit points.\n\nVasilka's creator, if within 60 feet of the\
+    \ berserk golem, can try to calm it by speaking firmly and persuasively. Vasilka\
+    \ must be able to hear its creator, who must take an action to make a DC 15 Charisma\
+    \ ([[/5. Mechanics/Rules/Skills.md#Persuasion|Persuasion]]) check. If the check succeeds,\
+    \ Vasilka ceases being berserk. If it takes damage while still at 40 hit points\
+    \ or fewer, Vasilka might go berserk again."
   "name": "Berserk"
 - "desc": "If Vasilka takes fire damage, it has disadvantage on attack rolls and ability\
     \ checks until the end of its next turn."
@@ -161,8 +161,8 @@ await dv.view("npcRelationships", { current: dv.current() })
 "actions":
 - "desc": "Vasilka makes two slam attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d8 + 4|text(13) (2d8 + 4) bludgeoning damage."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8\
+    \ + 4) bludgeoning damage."
   "name": "Slam"
 "source":
 - "CoS"

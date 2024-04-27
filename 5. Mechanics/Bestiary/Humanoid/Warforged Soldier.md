@@ -50,12 +50,11 @@ Most warforged soldiers still serve their former masters, often guarding dragonm
 "actions":
 - "desc": "The warforged makes two armblade attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d6 + 3|text(6) (1d6 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6\
+    \ + 3) slashing damage."
   "name": "Armblade"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft.\
-    \ or range 30/120 ft., one target. Hit: dice:1d6 + 3|text(6) (1d6 + 3) piercing\
-    \ damage."
+- "desc": "Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 30/120\
+    \ ft., one target. Hit: 6 (1d6 + 3) piercing damage."
   "name": "Javelin"
 "reactions":
 - "desc": "When an attacker the warforged can see makes an attack roll against a creature\

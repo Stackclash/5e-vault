@@ -76,15 +76,13 @@ A typical champion bears a coat of arms, heraldry that is associated with the ch
 "actions":
 - "desc": "The champion makes three Greatsword or Shortbow attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d6 + 5|text(12) (2d6 + 5) slashing damage, plus dice:2d6|text(7)\
-    \ (2d6) slashing damage if the champion has more than half of its total hit\
-    \ points remaining."
+- "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 12 (2d6\
+    \ + 5) slashing damage, plus 7 (2d6) slashing damage if the champion has more\
+    \ than half of its total hit points remaining."
   "name": "Greatsword"
-- "desc": "Ranged Weapon Attack: dice: d20+6 (+6) to hit, range 80/320 ft.,\
-    \ one target. Hit: dice:1d6 + 2|text(5) (1d6 + 2) piercing damage, plus\
-    \ dice:2d6|text(7) (2d6) piercing damage if the champion has more than half\
-    \ of its total hit points remaining."
+- "desc": "Ranged Weapon Attack: +6 to hit, range 80/320 ft., one target. Hit:\
+    \ 5 (1d6 + 2) piercing damage, plus 7 (2d6) piercing damage if the champion has\
+    \ more than half of its total hit points remaining."
   "name": "Shortbow"
 "bonus_actions":
 - "desc": "The champion regains 20 hit points."

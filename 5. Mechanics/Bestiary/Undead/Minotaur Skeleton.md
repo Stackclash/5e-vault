@@ -66,16 +66,16 @@ A skeleton doesn't require air, food, drink, or sleep.
 "cr": "2"
 "traits":
 - "desc": "If the skeleton moves at least 10 feet straight toward a target and then\
-    \ hits it with a gore attack on the same turn, the target takes an extra dice:2d8|text(9)\
-    \ (2d8) piercing damage. If the target is a creature, it must succeed on a DC\
-    \ 14 Strength saving throw or be pushed up to 10 feet away and knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ hits it with a gore attack on the same turn, the target takes an extra 9 (2d8)\
+    \ piercing damage. If the target is a creature, it must succeed on a DC 14 Strength\
+    \ saving throw or be pushed up to 10 feet away and knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Charge"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d12 + 4|text(17) (2d12 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 17 (2d12\
+    \ + 4) slashing damage."
   "name": "Greataxe"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d8 + 4|text(13) (2d8 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8\
+    \ + 4) piercing damage."
   "name": "Gore"
 "source":
 - "MM"

@@ -74,10 +74,9 @@ Dryads can speak with plants and animals. They can teleport from one tree to ano
     \ the second tree. Both trees must be large or bigger."
   "name": "Tree Stride"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+2 (+2) to hit (dice: d20+6 (+6)\
-    \ to hit with shillelagh), reach 5 ft., one target. Hit: dice:1d4|text(2)\
-    \ (1d4) bludgeoning damage, or dice:1d8 + 4|text(8) (1d8 + 4) bludgeoning\
-    \ damage with shillelagh."
+- "desc": "Melee Weapon Attack: +2 to hit (+6 to hit with shillelagh), reach 5 ft.,\
+    \ one target. Hit: 2 (1d4) bludgeoning damage, or 8 (1d8 + 4) bludgeoning damage\
+    \ with shillelagh."
   "name": "Club"
 - "desc": "The dryad targets one humanoid or beast that she can see within 30 feet\
     \ of her. If the target can see the dryad, it must succeed on a DC 14 Wisdom saving\

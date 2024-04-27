@@ -40,8 +40,8 @@ aliases:
 - "desc": "The crab can breathe air and water."
   "name": "Amphibious"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+0 (+0) to hit, reach 5 ft., one target.\
-    \ Hit: 1 bludgeoning damage."
+- "desc": "Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 1 bludgeoning\
+    \ damage."
   "name": "Claw"
 "source":
 - "MM"

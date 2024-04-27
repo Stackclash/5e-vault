@@ -54,24 +54,22 @@ Tlincallis rarely build cities, make clothing, or mine metals. Instead, they sca
 - "desc": "The tlincalli makes one Longsword or Spiked Chain attack and one Sting\
     \ attack."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d8 + 3|text(7) (1d8 + 3) slashing damage, or dice:1d10 + 3|text(8)\
-    \ (1d10 + 3) slashing damage if used with two hands."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8\
+    \ + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands."
   "name": "Longsword"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 10 ft., one target.\
-    \ Hit: dice:1d6 + 3|text(6) (1d6 + 3) piercing damage, and the target is\
-    \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 11) if it is\
-    \ a Large or smaller creature. Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
-    \ and the tlincalli can't use the spiked chain against another target."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 6 (1d6\
+    \ + 3) piercing damage, and the target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ (escape DC 11) if it is a Large or smaller creature. Until this grapple ends,\
+    \ the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]], and\
+    \ the tlincalli can't use the spiked chain against another target."
   "name": "Spiked Chain"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one creature.\
-    \ Hit: dice:1d6 + 3|text(6) (1d6 + 3) piercing damage plus dice:4d6|text(14)\
-    \ (4d6) poison damage, and the target must succeed on a DC 14 Constitution saving\
-    \ throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for 1 minute.\
-    \ If it fails the saving throw by 5 or more, the target is also [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
-    \ while [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]. The target can repeat\
-    \ the saving throw at the end of each of its turns, ending the effect on itself\
-    \ on a success."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 6 (1d6\
+    \ + 3) piercing damage plus 14 (4d6) poison damage, and the target must succeed\
+    \ on a DC 14 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ for 1 minute. If it fails the saving throw by 5 or more, the target is also\
+    \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]] while [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]].\
+    \ The target can repeat the saving throw at the end of each of its turns, ending\
+    \ the effect on itself on a success."
   "name": "Sting"
 "source":
 - "MPMM"

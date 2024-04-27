@@ -96,13 +96,12 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
 - "desc": "The clockwork doesn't require air, food, drink, or sleep."
   "name": "Unusual Nature"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d4 + 3|text(5) (1d4 + 3) piercing damage plus dice:1d6|text(3)\
-    \ (1d6) lightning damage."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4\
+    \ + 3) piercing damage plus 3 (1d6) lightning damage."
   "name": "Bite"
 - "desc": "Each creature in contact with the ground within 15 feet of the clockwork\
-    \ must make a DC 13 Dexterity saving throw, taking dice:4d6|text(14) (4d6)\
-    \ lightning damage on a failed save, or half as much damage on a successful one."
+    \ must make a DC 13 Dexterity saving throw, taking 14 (4d6) lightning damage on\
+    \ a failed save, or half as much damage on a successful one."
   "name": "Lightning Flare (Recharges after a Short or Long Rest)"
 "source":
 - "MPMM"

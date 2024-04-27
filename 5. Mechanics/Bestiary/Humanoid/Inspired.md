@@ -63,15 +63,14 @@ Most of the people of the Five Nations have heard of the Inspired lords in Riedr
 - "desc": "The Inspired makes two crysteel dagger attacks. It can replace one attack\
     \ with vicious mockery."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d4 + 2|text(4) (1d4 + 2) piercing damage plus dice:3d6|text(10)\
-    \ (3d6) force damage."
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4\
+    \ + 2) piercing damage plus 10 (3d6) force damage."
   "name": "Crysteel Dagger"
 - "desc": "The Inspired unleashes a string of insults laced with subtle enchantments\
     \ at one creature it can see within 60 feet of it. If the target can hear the\
-    \ Inspired, the target must succeed on a DC 13 Wisdom saving throw or take dice:1d4|text(2)\
-    \ (1d4) psychic damage and have disadvantage on the next attack roll it makes\
-    \ before the end of its next turn."
+    \ Inspired, the target must succeed on a DC 13 Wisdom saving throw or take 2 (1d4)\
+    \ psychic damage and have disadvantage on the next attack roll it makes before\
+    \ the end of its next turn."
   "name": "Vicious Mockery (Cantrip)"
 "source":
 - "ERLW"

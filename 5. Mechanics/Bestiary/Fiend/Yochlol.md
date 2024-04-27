@@ -240,9 +240,9 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "actions":
 - "desc": "The yochlol makes two melee attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft. (10 feet\
-    \ in demon form), one target. Hit: dice:1d6 + 2|text(5) (1d6 + 2) bludgeoning\
-    \ (piercing in spider form) damage plus dice:6d6|text(21) (6d6) poison damage."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft. (10 feet in demon form),\
+    \ one target. Hit: 5 (1d6 + 2) bludgeoning (piercing in spider form) damage\
+    \ plus 21 (6d6) poison damage."
   "name": "Slam (Bite in Spider Form)"
 - "desc": "The yochlol transforms into toxic mist or reverts to its true form. Any\
     \ equipment it is wearing or carrying is also transformed. It reverts to its true\

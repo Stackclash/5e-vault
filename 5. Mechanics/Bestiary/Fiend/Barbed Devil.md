@@ -172,8 +172,8 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 "languages": "Infernal, telepathy 120 ft."
 "cr": "5"
 "traits":
-- "desc": "At the start of each of its turns, the barbed devil deals dice:1d10|text(5)\
-    \ (1d10) piercing damage to any creature grappling it."
+- "desc": "At the start of each of its turns, the barbed devil deals 5 (1d10) piercing\
+    \ damage to any creature grappling it."
   "name": "Barbed Hide"
 - "desc": "Magical darkness doesn't impede the devil's darkvision."
   "name": "Devil's Sight"
@@ -184,15 +184,15 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - "desc": "The devil makes three melee attacks: one with its tail and two with its\
     \ claws. Alternatively, it can use Hurl Flame twice."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d6 + 3|text(6) (1d6 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6\
+    \ + 3) piercing damage."
   "name": "Claw"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d6 + 3|text(10) (2d6 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6\
+    \ + 3) piercing damage."
   "name": "Tail"
-- "desc": "Ranged Spell Attack: dice: d20+5 (+5) to hit, range 150 ft., one\
-    \ target. Hit: dice:3d6|text(10) (3d6) fire damage. If the target is a flammable\
-    \ object that isn't being worn or carried, it also catches fire."
+- "desc": "Ranged Spell Attack: +5 to hit, range 150 ft., one target. Hit: 10\
+    \ (3d6) fire damage. If the target is a flammable object that isn't being worn\
+    \ or carried, it also catches fire."
   "name": "Hurl Flame"
 "source":
 - "MM"

@@ -64,15 +64,15 @@ Because Fate does not use dice (see The Law of Fate, below) there may be enemies
 "actions":
 - "desc": "Fate makes three slam attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d8 + 3|text(12) (2d8 + 3) bludgeoning damage."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12 (2d8\
+    \ + 3) bludgeoning damage."
   "name": "Slam"
 - "desc": "Fate fires a beam of Destiny Light at a target it can see within 60 feet.\
     \ The target must make a DC 13 Constitution saving throw. On a failed save, it\
-    \ takes dice:8d8|text(36) (8d8) necrotic damage, and it only deals average\
-    \ damage and uses 10 for its attack rolls (before bonuses) for the next 10 minutes.\
-    \ On a successful save, it takes half as much damage, and its attack and damage\
-    \ rolls are not affected."
+    \ takes 36 (8d8) necrotic damage, and it only deals average damage and uses 10\
+    \ for its attack rolls (before bonuses) for the next 10 minutes. On a successful\
+    \ save, it takes half as much damage, and its attack and damage rolls are not\
+    \ affected."
   "name": "The Destiny Light (Recharge 5-6)"
 "source":
 - "SaF"

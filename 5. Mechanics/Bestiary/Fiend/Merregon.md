@@ -54,11 +54,11 @@ Because of their unshakable loyalty, merregons form the backbone of many devils'
 "actions":
 - "desc": "The merregon makes three Halberd attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 10 ft., one target.\
-    \ Hit: dice:1d10 + 4|text(9) (1d10 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 9 (1d10\
+    \ + 4) slashing damage."
   "name": "Halberd"
-- "desc": "Ranged Weapon Attack: dice: d20+4 (+4) to hit, range 100/400 ft.,\
-    \ one target. Hit: dice:1d10 + 2|text(7) (1d10 + 2) piercing damage."
+- "desc": "Ranged Weapon Attack: +4 to hit, range 100/400 ft., one target. Hit:\
+    \ 7 (1d10 + 2) piercing damage."
   "name": "Heavy Crossbow"
 "reactions":
 - "desc": "When another Fiend within 5 feet of the merregon is hit by an attack roll,\

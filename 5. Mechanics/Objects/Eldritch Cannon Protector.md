@@ -31,6 +31,6 @@ title: Eldritch Cannon, Protector
 
 ## Actions
 
-***Protector.*** The cannon emits a burst of positive energy that grants itself and each creature of your choice within 10 feet of it a number of temporary hit points equal to `dice: 1d8|avg|noform` (`1d8`) + your Intelligence modifier (minimum of +1).
+***Protector.*** The cannon emits a burst of positive energy that grants itself and each creature of your choice within 10 feet of it a number of temporary hit points equal to 1d8 + your Intelligence modifier (minimum of +1).
 ```
 ^statblock

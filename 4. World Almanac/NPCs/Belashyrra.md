@@ -200,29 +200,28 @@ await dv.view("npcRelationships", { current: dv.current() })
 "actions":
 - "desc": "Belashyrra makes two attacks with its claws and uses its Eye Ray once."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+14 (+14) to hit, reach 5 ft., one\
-    \ target. Hit: dice:3d6 + 7|text(17) (3d6 + 7) slashing damage."
+- "desc": "Melee Weapon Attack: +14 to hit, reach 5 ft., one target. Hit: 17 (3d6\
+    \ + 7) slashing damage."
   "name": "Claw"
 - "desc": "Belashyrra shoots one of the following magical eye rays of its choice,\
     \ targeting one creature it can see within 120 feet of it:\n\n- 1. Psyche-Reconstruction\
-    \ Ray. The target must make a DC 22 Wisdom saving throw, taking dice:9d10|text(49)\
-    \ (9d10) psychic damage on a failed save, or half as much damage on a successful\
-    \ one. If this damage reduces a creature to 0 hit points, it dies and transforms\
-    \ into a spectator under Belashyrra's control and acts immediately after Belashyrra\
-    \ in the initiative order. The target can't be returned to its original form by\
-    \ any means short of a [[5. Mechanics/Spells/Wish.md|wish]] spell.  \n- 2. Domination\
-    \ Ray. The target must succeed on a DC 22 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
+    \ Ray. The target must make a DC 22 Wisdom saving throw, taking 49 (9d10) psychic\
+    \ damage on a failed save, or half as much damage on a successful one. If this\
+    \ damage reduces a creature to 0 hit points, it dies and transforms into a spectator\
+    \ under Belashyrra's control and acts immediately after Belashyrra in the initiative\
+    \ order. The target can't be returned to its original form by any means short\
+    \ of a [[5. Mechanics/Spells/Wish.md|wish]] spell.  \n- 2. Domination Ray. The\
+    \ target must succeed on a DC 22 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
     \ by Belashyrra for 1 minute or until the target takes damage. Belashyrra can\
     \ issue telepathic commands to the [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
     \ creature (no action required), which it does its best to obey.  \n- 3. Mind-Weakening\
     \ Ray. The target must succeed on a DC 22 Intelligence saving throw or take\
-    \ dice:8d8|text(36) (8d8) psychic damage and be unable to cast spells or activate\
-    \ magic items for 1 minute. The target can repeat the saving throw at the end\
-    \ of each of its turns, ending the effect on itself on a success.  \n- 4. Blinding\
-    \ Ray. The target and each creature within 10 feet of it must succeed on a DC\
-    \ 22 Constitution saving throw or take dice:3d12|text(19) (3d12) radiant damage\
-    \ and be [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] for 1 minute. Until\
-    \ this blindness ends, Belyshyrra can see through the [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]\
+    \ 36 (8d8) psychic damage and be unable to cast spells or activate magic items\
+    \ for 1 minute. The target can repeat the saving throw at the end of each of its\
+    \ turns, ending the effect on itself on a success.  \n- 4. Blinding Ray. The\
+    \ target and each creature within 10 feet of it must succeed on a DC 22 Constitution\
+    \ saving throw or take 19 (3d12) radiant damage and be [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]\
+    \ for 1 minute. Until this blindness ends, Belyshyrra can see through the [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]\
     \ creature's eyes. The [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] creature\
     \ can repeat the saving throw at the end of each of its turns, ending the effect\
     \ on itself on a success.  "
@@ -231,13 +230,13 @@ await dv.view("npcRelationships", { current: dv.current() })
 - "desc": "Belashyrra makes one claw attack."
   "name": "Claw"
 - "desc": "Belashyrra targets a creature it can see within 60 feet of it. The target\
-    \ must succeed on a DC 22 Wisdom saving throw or take dice:4d10|text(22) (4d10)\
-    \ psychic damage and immediately use its reaction, if available, to move as far\
-    \ as its speed allows away from Belashyrra."
+    \ must succeed on a DC 22 Wisdom saving throw or take 22 (4d10) psychic damage\
+    \ and immediately use its reaction, if available, to move as far as its speed\
+    \ allows away from Belashyrra."
   "name": "Implant Fear (Costs 2 Actions)"
 - "desc": "Belashyrra rips at the bonds of reality in its immediate area. Each creature\
     \ within 10 feet of Belashyrra must succeed on a DC 22 Constitution saving throw\
-    \ or take dice:3d12|text(19) (3d12) force damage and gain one level of [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]]."
+    \ or take 19 (3d12) force damage and gain one level of [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]]."
   "name": "Rend Reality (Costs 3 Actions)"
 "lair_actions":
 - "desc": "While within the Citadel of Lidless Eyes, Belashyrra can invoke the ambient\
@@ -279,8 +278,7 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ of Belashyrra\" below). A creature that succeeds on this saving throw can't\
     \ be affected by this regional effect again for 24 hours.  "
   "name": ""
-- "desc": "If Belashyrra dies, these effects fade over the course of dice: 1d10|avg|noform\
-    \ (1d10) days."
+- "desc": "If Belashyrra dies, these effects fade over the course of 1d10 days."
   "name": ""
 "source":
 - "ERLW"

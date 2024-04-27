@@ -43,8 +43,8 @@ aliases:
     \ checks that rely on sight."
   "name": "Keen Sight"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d4 + 2|text(4) (1d4 + 2) slashing damage."
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4\
+    \ + 2) slashing damage."
   "name": "Talons"
 "source":
 - "MM"

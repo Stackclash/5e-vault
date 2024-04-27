@@ -50,12 +50,11 @@ When glory-obsessed warriors die in battle without honor, they might haunt the s
 - "desc": "The warrior doesn't require air, food, drink, or sleep."
   "name": "Unusual Nature"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d8 + 4|text(8) (1d8 + 4) slashing damage, or dice:1d10 + 4|text(9)\
-    \ (1d10 + 4) slashing damage if used with two hands."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8\
+    \ + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands."
   "name": "Battleaxe"
-- "desc": "Ranged Weapon Attack: dice: d20+3 (+3) to hit, range 150/600 ft.,\
-    \ one target. Hit: dice:1d8 + 1|text(5) (1d8 + 1) piercing damage."
+- "desc": "Ranged Weapon Attack: +3 to hit, range 150/600 ft., one target. Hit:\
+    \ 5 (1d8 + 1) piercing damage."
   "name": "Longbow"
 "bonus_actions":
 - "desc": "The warrior makes one Battleaxe or Longbow attack, and attack rolls against\

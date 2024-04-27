@@ -147,10 +147,10 @@ await dv.view("npcRelationships", { current: dv.current() })
 "languages": "Common, Infernal"
 "cr": "15"
 "traits":
-- "desc": "Mordakhesh's spellcasting ability is Charisma (spell save DC 18, dice:\
-    \ d20+10 (+10) to hit with spell attacks). Mordakhesh can innately cast the\
-    \ following spells, requiring no material components:\n\nAt will: [[5. Mechanics/Spells/Chromatic Orb.md|chromatic\
-    \ orb]] (see \"Actions\" below), [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
+- "desc": "Mordakhesh's spellcasting ability is Charisma (spell save DC 18, +10 to\
+    \ hit with spell attacks). Mordakhesh can innately cast the following spells,\
+    \ requiring no material components:\n\nAt will: [[5. Mechanics/Spells/Chromatic Orb.md|chromatic orb]]\
+    \ (see \"Actions\" below), [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
     \ [[5. Mechanics/Spells/Disguise Self.md|disguise self]]\n\n1/day each: [[5. Mechanics/Spells/Banishing Smite.md|banishing\
     \ smite]], [[5. Mechanics/Spells/Destructive Wave.md|destructive wave]],\
     \ [[5. Mechanics/Spells/Fly.md|fly]], [[5. Mechanics/Spells/Mass Suggestion.md|mass suggestion]],\
@@ -164,13 +164,12 @@ await dv.view("npcRelationships", { current: dv.current() })
 "actions":
 - "desc": "Mordakhesh makes three greatsword attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+10 (+10) to hit, reach 5 ft., one\
-    \ target. Hit: dice:2d6 + 5|text(12) (2d6 + 5) slashing damage plus dice:1d10|text(5)\
-    \ (1d10) force damage."
+- "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 12 (2d6\
+    \ + 5) slashing damage plus 5 (1d10) force damage."
   "name": "Greatsword"
-- "desc": "Ranged Spell Attack: dice: d20+10 (+10) to hit, range 120 ft., one\
-    \ creature. Hit: dice:3d8|text(13) (3d8) damage of a type chosen by Mordakhesh:\
-    \ acid, cold, fire, lightning, poison, or thunder."
+- "desc": "Ranged Spell Attack: +10 to hit, range 120 ft., one creature. Hit:\
+    \ 13 (3d8) damage of a type chosen by Mordakhesh: acid, cold, fire, lightning,\
+    \ poison, or thunder."
   "name": "Chromatic Orb"
 "legendary_actions":
 - "desc": "Mordakhesh makes one weapon attack or casts [[5. Mechanics/Spells/Chromatic Orb.md|chromatic orb]]."

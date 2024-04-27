@@ -62,12 +62,11 @@ As befits followers of a god who doesn't speak, hands of Yurtrus remove their to
 "cr": "2"
 "traits":
 - "desc": "The orc is a 4th-level spellcaster. Its spellcasting ability is Wisdom\
-    \ (spell save DC 12, dice: d20+4 (+4) to hit with spell attacks). It requires\
-    \ no verbal components to cast its spells. The orc has the following cleric spells\
-    \ prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Guidance.md|guidance]],\
-    \ [[5. Mechanics/Spells/Mending.md|mending]], [[5. Mechanics/Spells/Resistance.md|resistance]],\
-    \ [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\n1st level (4 slots):\
-    \ [[5. Mechanics/Spells/Bane.md|bane]], [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
+    \ (spell save DC 12, +4 to hit with spell attacks). It requires no verbal components\
+    \ to cast its spells. The orc has the following cleric spells prepared:\n\nCantrips\
+    \ (at will): [[5. Mechanics/Spells/Guidance.md|guidance]], [[5. Mechanics/Spells/Mending.md|mending]],\
+    \ [[5. Mechanics/Spells/Resistance.md|resistance]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
+    \n1st level (4 slots): [[5. Mechanics/Spells/Bane.md|bane]], [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
     \ [[5. Mechanics/Spells/Inflict Wounds.md|inflict wounds]], [[5. Mechanics/Spells/Protection From Evil And Good.md|protection from evil\
     \ and good]]\n\n2nd level\
     \ (3 slots): [blindness/deafness](compendium/spells/blindness-deafness.md),\
@@ -77,8 +76,8 @@ As befits followers of a god who doesn't speak, hands of Yurtrus remove their to
     \ that it can see."
   "name": "Aggressive"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d8|text(9) (2d8) necrotic damage."
+- "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 9 (2d8)\
+    \ necrotic damage."
   "name": "Touch of the White Hand"
 "source":
 - "VGM"

@@ -72,13 +72,12 @@ No goodness or compassion resides in the heart of a gnoll. Like a demon, it lack
 "actions":
 - "desc": "The gnoll makes three attacks: one with its bite and two with its claws."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one creature.\
-    \ Hit: dice:1d6 + 3|text(6) (1d6 + 3) piercing damage, and the target must\
-    \ succeed on a DC 12 Constitution saving throw or take dice:2d6|text(7) (2d6)\
-    \ poison damage."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 6 (1d6\
+    \ + 3) piercing damage, and the target must succeed on a DC 12 Constitution saving\
+    \ throw or take 7 (2d6) poison damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d8 + 3|text(7) (1d8 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8\
+    \ + 3) slashing damage."
   "name": "Claw"
 "source":
 - "MM"

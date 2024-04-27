@@ -52,8 +52,7 @@ Being oldest, they are also the most reserved, taciturn. Even the young sapphire
 "cr": "10"
 "traits":
 - "desc": ". . [[/5. Mechanics/Rules/Variant Rules/Gemstone Dragon Psionics.md|Gemstone Dragon Psionics]].\
-    \ Charges: 17 • Recharge: dice: 1d6|avg|noform (1d6) • Fracture:\
-    \ 17"
+    \ Charges: 17 • Recharge: 1d6 • Fracture: 17"
   "name": ""
 - "desc": "All creatures within 30 feet must make a DC 16 Charisma saving throw in\
     \ order to attack this dragon. On a failed save, the attacking creature's turn\
@@ -63,11 +62,11 @@ Being oldest, they are also the most reserved, taciturn. Even the young sapphire
 "actions":
 - "desc": "The dragon makes three attacks: one with its bite and two with its claws."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 10 ft., one target.\
-    \ Hit: dice:2d10 + 4|text(15) (2d10 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 15 (2d10\
+    \ + 4) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 11 (2d6\
+    \ + 4) slashing damage."
   "name": "Claw"
 "source":
 - "SaF"

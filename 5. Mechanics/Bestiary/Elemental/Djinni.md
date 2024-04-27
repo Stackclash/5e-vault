@@ -91,8 +91,8 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
 "cr": "11"
 "traits":
 - "desc": "The djinni's innate spellcasting ability is Charisma (spell save DC 17,\
-    \ dice: d20+9 (+9) to hit with spell attacks). It can innately cast the following\
-    \ spells, requiring no material components:\n\nAt will: [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]],\
+    \ +9 to hit with spell attacks). It can innately cast the following spells, requiring\
+    \ no material components:\n\nAt will: [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]],\
     \ [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Thunderwave.md|thunderwave]]\n\
     \n1/day each: [[5. Mechanics/Spells/Conjure Elemental.md|conjure elemental]]\
     \ ([[5. Mechanics/Bestiary/Elemental/Air Elemental.md|air elemental]] only), [[5. Mechanics/Spells/Creation.md|creation]],\
@@ -108,9 +108,8 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
 "actions":
 - "desc": "The djinni makes three scimitar attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d6 + 5|text(12) (2d6 + 5) slashing damage plus dice:1d6|text(3)\
-    \ (1d6) lightning or thunder damage (djinni's choice)."
+- "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 12 (2d6\
+    \ + 5) slashing damage plus 3 (1d6) lightning or thunder damage (djinni's choice)."
   "name": "Scimitar"
 - "desc": "A 5-foot-radius, 30-foot-tall cylinder of swirling air magically forms\
     \ on a point the djinni can see within 120 feet of it. The whirlwind lasts as\

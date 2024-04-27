@@ -77,12 +77,11 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
 "actions":
 - "desc": "The tridrone makes three fist attacks or three javelin attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d4 + 1|text(3) (1d4 + 1) bludgeoning damage."
+- "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4\
+    \ + 1) bludgeoning damage."
   "name": "Fist"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft.\
-    \ or range 30/120 ft., one target. Hit: dice:1d6 + 1|text(4) (1d6 + 1) piercing\
-    \ damage."
+- "desc": "Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 30/120\
+    \ ft., one target. Hit: 4 (1d6 + 1) piercing damage."
   "name": "Javelin"
 "source":
 - "MM"

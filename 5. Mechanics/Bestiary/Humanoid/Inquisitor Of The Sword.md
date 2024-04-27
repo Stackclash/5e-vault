@@ -68,10 +68,9 @@ Today the inquisition rules the city of Malitain, a vast city-state to the north
     \ misses with an attack, the inquisitor can teleport up to 30 feet to an unoccupied\
     \ space it can see."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d8 + 4|text(8) (1d8 + 4) slashing damage, or dice:1d10 + 4|text(9)\
-    \ (1d10 + 4) if used with two hands, plus dice:4d8|text(18) (4d8) force\
-    \ damage."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8\
+    \ + 4) slashing damage, or 9 (1d10 + 4) if used with two hands, plus 18 (4d8)\
+    \ force damage."
   "name": "Silver Longsword"
 "bonus_actions":
 - "desc": "The inquisitor teleports up to 60 feet to an unoccupied space it can see."

@@ -49,20 +49,19 @@ If it has the opportunity while in service to its master, a magmin seeks out are
 "cr": "1/2"
 "traits":
 - "desc": "When the magmin dies, it explodes in a burst of fire and magma. Each creature\
-    \ within 10 feet of it must make a DC 11 Dexterity saving throw, taking dice:2d6|text(7)\
-    \ (2d6) fire damage on a failed save, or half as much damage on a successful\
-    \ one. Flammable objects that aren't being worn or carried in that area are ignited."
+    \ within 10 feet of it must make a DC 11 Dexterity saving throw, taking 7 (2d6)\
+    \ fire damage on a failed save, or half as much damage on a successful one. Flammable\
+    \ objects that aren't being worn or carried in that area are ignited."
   "name": "Death Burst"
 - "desc": "As a bonus action, the magmin can set itself ablaze or extinguish its flames.\
     \ While ablaze, the magmin sheds bright light in a 10-foot radius and dim light\
     \ for an additional 10 feet."
   "name": "Ignited Illumination"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d6|text(7) (2d6) fire damage. If the target is a creature or\
-    \ a flammable object, it ignites. Until a creature takes an action to douse the\
-    \ fire, the target takes dice:1d6|text(3) (1d6) fire damage at the end of\
-    \ each of its turns."
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d6)\
+    \ fire damage. If the target is a creature or a flammable object, it ignites.\
+    \ Until a creature takes an action to douse the fire, the target takes 3 (1d6)\
+    \ fire damage at the end of each of its turns."
   "name": "Touch"
 "source":
 - "MM"

@@ -73,12 +73,11 @@ A Karrnathi undead soldier doesn't require air, food, drink, or sleep.
 "actions":
 - "desc": "The soldier attacks three times with one of its weapons."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d8 + 3|text(7) (1d8 + 3) slashing damage, or dice:1d10 + 3|text(8)\
-    \ (1d10 + 3) slashing damage if used with two hands."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8\
+    \ + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands."
   "name": "Longsword"
-- "desc": "Ranged Weapon Attack: dice: d20+4 (+4) to hit, range 150/600 ft.,\
-    \ one target. Hit: dice:1d8 + 2|text(6) (1d8 + 2) piercing damage."
+- "desc": "Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit:\
+    \ 6 (1d8 + 2) piercing damage."
   "name": "Longbow"
 "reactions":
 - "desc": "The soldier adds 3 to its AC against one melee attack that would hit it.\

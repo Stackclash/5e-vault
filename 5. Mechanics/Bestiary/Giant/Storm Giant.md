@@ -120,16 +120,16 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 "actions":
 - "desc": "The giant makes two greatsword attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+14 (+14) to hit, reach 10 ft., one\
-    \ target. Hit: dice:6d6 + 9|text(30) (6d6 + 9) slashing damage."
+- "desc": "Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 30\
+    \ (6d6 + 9) slashing damage."
   "name": "Greatsword"
-- "desc": "Ranged Weapon Attack: dice: d20+14 (+14) to hit, range 60/240 ft.,\
-    \ one target. Hit: dice:4d12 + 9|text(35) (4d12 + 9) bludgeoning damage."
+- "desc": "Ranged Weapon Attack: +14 to hit, range 60/240 ft., one target. Hit:\
+    \ 35 (4d12 + 9) bludgeoning damage."
   "name": "Rock"
 - "desc": "The giant hurls a magical lightning bolt at a point it can see within 500\
     \ feet of it. Each creature within 10 feet of that point must make a DC 17 Dexterity\
-    \ saving throw, taking dice:12d8|text(54) (12d8) lightning damage on a failed\
-    \ save, or half as much damage on a successful one."
+    \ saving throw, taking 54 (12d8) lightning damage on a failed save, or half as\
+    \ much damage on a successful one."
   "name": "Lightning Strike (Recharge 5-6)"
 "source":
 - "MM"

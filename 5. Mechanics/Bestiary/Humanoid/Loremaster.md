@@ -47,9 +47,9 @@ aliases:
 - "desc": "This creature is a Retainer, as described in \"Strongholds and Followers\""
   "name": "Retainer"
 "actions":
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft.,\
-    \ one target. Hit: dice:1d8 + 2|text(6) (1d8 + 2) slashing damage.\n\nAt\
-    \ 7th level, retainers can take two signature attacks per round."
+- "desc": "Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft., one target. Hit:\
+    \ 6 (1d8 + 2) slashing damage.\n\nAt 7th level, retainers can take two signature\
+    \ attacks per round."
   "name": "Signature Attack"
 - "desc": "Prerequisite: 5th-level retainer\n\nThe loremaster plays an inspiring\
     \ tune, allowing all allies within 60 feet to spend a Hit Die in order to roll\
@@ -62,8 +62,7 @@ aliases:
 "reactions":
 - "desc": "Prerequisite: 3rd-level retainer\n\nAfter a creature the loremaster can\
     \ see within 60 feet makes an attack, ability check, or damage roll, the loremaster\
-    \ can roll a dice: d6|avg|noform (d6) and subtract the result from that creature's\
-    \ result."
+    \ can roll a d6 and subtract the result from that creature's result."
   "name": "Insult (3/Day)"
 "source":
 - "SaF"

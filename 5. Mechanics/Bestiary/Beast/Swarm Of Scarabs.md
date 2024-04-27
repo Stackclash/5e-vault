@@ -65,12 +65,11 @@ Base creatures are among the first to respond to sinister forces at work in a la
     \ without needing to make an ability check."
   "name": "Spider Climb"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 0 ft., one target\
-    \ in the swarm's space. Hit: dice:4d6|text(14) (4d6) piercing damage, or\
-    \ dice:2d6|text(7) (2d6) piercing damage if the swarm has half of its hit\
-    \ points or fewer. If the target is a creature, scarabs burrow into its body,\
-    \ and the creature takes dice:1d6|text(3) (1d6) piercing damage at the start\
-    \ of each of its turns. Any creature can use an action to kill or remove the scarabs\
+- "desc": "Melee Weapon Attack: +4 to hit, reach 0 ft., one target in the swarm's\
+    \ space. Hit: 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm\
+    \ has half of its hit points or fewer. If the target is a creature, scarabs burrow\
+    \ into its body, and the creature takes 3 (1d6) piercing damage at the start of\
+    \ each of its turns. Any creature can use an action to kill or remove the scarabs\
     \ with fire or a weapon that deals piercing damage, causing 1 damage of the appropriate\
     \ type to the target. A creature reduced to 0 hit points by the swarm's piercing\
     \ damage dies."

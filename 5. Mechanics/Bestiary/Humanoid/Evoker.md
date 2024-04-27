@@ -47,11 +47,11 @@ aliases:
   "name": "Retainer"
 "actions":
 - "desc": "The evoker casts the [[5. Mechanics/Spells/Ray Of Frost.md|ray of frost]]\
-    \ cantrip (dice: d20+6 (+6) to hit).\n\nAt 7th level, retainers can take two\
-    \ signature attacks per round."
+    \ cantrip (+6 to hit).\n\nAt 7th level, retainers can take two signature attacks\
+    \ per round."
   "name": "Signature Attack"
 - "desc": "Prerequisite: 3rd-level retainer\n\nThe evoker casts the [[5. Mechanics/Spells/Scorching Ray.md|scorching ray]]\
-    \ spell (dice: d20+6 (+6) to hit)."
+    \ spell (+6 to hit)."
   "name": "Acid Arrow (3/Day)"
 - "desc": "Prerequisite: 5th-level retainer\n\nThe evoker casts the [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]]\
     \ spell (spell save DC 14 at 5th level, and 15 at 7th level)."

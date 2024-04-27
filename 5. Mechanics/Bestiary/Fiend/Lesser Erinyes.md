@@ -44,8 +44,8 @@ aliases:
 "languages": "Infernal, telepathy 60 ft."
 "cr": "7"
 "traits":
-- "desc": "The lesser erinyes's weapon attacks are magical and deal an extra dice:1d8|text(4)\
-    \ (1d8) poison damage on a hit (included in its attacks)."
+- "desc": "The lesser erinyes's weapon attacks are magical and deal an extra 4 (1d8)\
+    \ poison damage on a hit (included in its attacks)."
   "name": "Poisoned Weapons"
 - "desc": "The lesser erinyes has advantage on saving throws against spells and other\
     \ magical effects."
@@ -53,16 +53,14 @@ aliases:
 "actions":
 - "desc": "The lesser erinyes makes three attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d8 + 3|text(7) (1d8 + 3) slashing damage, or dice:1d10 + 3|text(8)\
-    \ (1d10 + 3) slashing damage if used with two hands, plus dice:1d8|text(4)\
-    \ (1d8) poison damage."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8\
+    \ + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands,\
+    \ plus 4 (1d8) poison damage."
   "name": "Longsword"
-- "desc": "Ranged Weapon Attack: dice: d20+5 (+5) to hit, range 150/600 ft.,\
-    \ one target. Hit: dice:1d8 + 2|text(6) (1d8 + 2) piercing damage plus dice:1d8|text(4)\
-    \ (1d8) poison damage, and the target must succeed on a DC 11 Constitution saving\
-    \ throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]. The poison\
-    \ lasts until it is removed by the [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]]\
+- "desc": "Ranged Weapon Attack: +5 to hit, range 150/600 ft., one target. Hit:\
+    \ 6 (1d8 + 2) piercing damage plus 4 (1d8) poison damage, and the target must\
+    \ succeed on a DC 11 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]].\
+    \ The poison lasts until it is removed by the [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]]\
     \ spell or similar magic."
   "name": "Longbow"
 "reactions":

@@ -165,11 +165,11 @@ await dv.view("npcRelationships", { current: dv.current() })
 - "desc": "The hut makes three attacks with its roots. It can replace one of these\
     \ attacks with a rock attack."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+12 (+12) to hit, reach 60 ft., one\
-    \ target. Hit: dice:4d10 + 8|text(30) (4d10 + 8) bludgeoning damage."
+- "desc": "Melee Weapon Attack: +12 to hit, reach 60 ft., one target. Hit: 30\
+    \ (4d10 + 8) bludgeoning damage."
   "name": "Root"
-- "desc": "Ranged Weapon Attack: dice: d20+12 (+12) to hit, range 120 ft., one\
-    \ target. Hit: dice:3d8 + 8|text(21) (3d8 + 8) bludgeoning damage."
+- "desc": "Ranged Weapon Attack: +12 to hit, range 120 ft., one target. Hit: 21\
+    \ (3d8 + 8) bludgeoning damage."
   "name": "Rock"
 "source":
 - "CoS"

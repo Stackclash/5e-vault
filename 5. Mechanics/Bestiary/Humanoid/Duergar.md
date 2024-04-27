@@ -75,13 +75,12 @@ Asmodeus, Lord of the Nine Hells, has been known to impersonate duergar gods in 
     \ lacks the room to become Large, it attains the maximum size possible in the\
     \ space available."
   "name": "Enlarge (Recharges after a Short or Long Rest)"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d8 + 2|text(6) (1d8 + 2) piercing damage, or dice:2d8 + 2|text(11)\
-    \ (2d8 + 2) piercing damage while enlarged."
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8\
+    \ + 2) piercing damage, or 11 (2d8 + 2) piercing damage while enlarged."
   "name": "War Pick"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft.\
-    \ or range 30/120 ft., one target. Hit: dice:1d6 + 2|text(5) (1d6 + 2) piercing\
-    \ damage, or dice:2d6 + 2|text(9) (2d6 + 2) piercing damage while enlarged."
+- "desc": "Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 30/120\
+    \ ft., one target. Hit: 5 (1d6 + 2) piercing damage, or 9 (2d6 + 2) piercing\
+    \ damage while enlarged."
   "name": "Javelin"
 - "desc": "The duergar magically turns [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]]\
     \ until it attacks, casts a spell, or uses its Enlarge, or until its [[/5. Mechanics/Rules/Conditions.md#concentration|concentration]]\

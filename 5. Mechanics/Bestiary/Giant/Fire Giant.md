@@ -114,11 +114,11 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 "actions":
 - "desc": "The giant makes two greatsword attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+11 (+11) to hit, reach 10 ft., one\
-    \ target. Hit: dice:6d6 + 7|text(28) (6d6 + 7) slashing damage."
+- "desc": "Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 28\
+    \ (6d6 + 7) slashing damage."
   "name": "Greatsword"
-- "desc": "Ranged Weapon Attack: dice: d20+11 (+11) to hit, range 60/240 ft.,\
-    \ one target. Hit: dice:4d10 + 7|text(29) (4d10 + 7) bludgeoning damage."
+- "desc": "Ranged Weapon Attack: +11 to hit, range 60/240 ft., one target. Hit:\
+    \ 29 (4d10 + 7) bludgeoning damage."
   "name": "Rock"
 "source":
 - "MM"

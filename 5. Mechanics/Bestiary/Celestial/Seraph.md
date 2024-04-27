@@ -54,8 +54,7 @@ In spite of not having like...a face, or eyes, the Seraph cannot be flanked or s
 "cr": "10"
 "traits":
 - "desc": "The seraph's weapon attacks are magical. When the seraph hits with any\
-    \ weapon, the weapon deals an extra dice:2d8|text(9) (2d8) radiant damage\
-    \ (included in the attack)."
+    \ weapon, the weapon deals an extra 9 (2d8) radiant damage (included in the attack)."
   "name": "Angelic Weapons"
 - "desc": "The seraph has advantage on saving throws against spells and other magical\
     \ effects from evil characters and sources."
@@ -73,30 +72,28 @@ In spite of not having like...a face, or eyes, the Seraph cannot be flanked or s
 - "desc": "The Seraph makes four attacks with any combination of Good, Law, Alpha,\
     \ and Omega, but no more than two with the same weapon."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d6 + 4|text(7) (1d6 + 4) bludgeoning damage plus dice:2d8|text(9)\
-    \ (2d8) radiant damage. If the target is evil and has 25 hit points or fewer\
-    \ after taking this damage, it must succeed on a DC 17 Wisdom saving throw or\
-    \ be destroyed. On a successful save, the creature becomes [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
-    \ of the seraph until the end of the seraph's next turn."
+- "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 7 (1d6\
+    \ + 4) bludgeoning damage plus 9 (2d8) radiant damage. If the target is evil and\
+    \ has 25 hit points or fewer after taking this damage, it must succeed on a DC\
+    \ 17 Wisdom saving throw or be destroyed. On a successful save, the creature becomes\
+    \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] of the seraph until\
+    \ the end of the seraph's next turn."
   "name": "Good"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d6 + 4|text(7) (1d6 + 4) bludgeoning damage plus dice:2d8|text(9)\
-    \ (2d8) radiant damage. If the target is chaotic and has 25 hit points or fewer\
-    \ after taking this damage, it must succeed on a DC 17 Wisdom saving throw or\
-    \ be destroyed. On a successful save, the creature becomes [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
-    \ of the seraph until the end of the seraph's turn."
+- "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 7 (1d6\
+    \ + 4) bludgeoning damage plus 9 (2d8) radiant damage. If the target is chaotic\
+    \ and has 25 hit points or fewer after taking this damage, it must succeed on\
+    \ a DC 17 Wisdom saving throw or be destroyed. On a successful save, the creature\
+    \ becomes [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] of the seraph\
+    \ until the end of the seraph's turn."
   "name": "Law"
-- "desc": "Ranged Weapon Attack: dice: d20+8 (+8) to hit, range 150/600 ft.,\
-    \ one target. Hit: dice:2d8 + 4|text(13) (2d8 + 4) piercing damage plus\
-    \ dice:2d8|text(9) (2d8) radiant damage. On a hit, all allies adjacent to\
-    \ the target restore dice: 1d8 + 5|avg|noform (1d8 + 5) hit points."
+- "desc": "Ranged Weapon Attack: +8 to hit, range 150/600 ft., one target. Hit:\
+    \ 13 (2d8 + 4) piercing damage plus 9 (2d8) radiant damage. On a hit, all allies\
+    \ adjacent to the target restore 1d8 + 5 hit points."
   "name": "Alpha"
-- "desc": "Ranged Weapon Attack: dice: d20+8 (+8) to hit, range 150/600 ft.,\
-    \ one target. Hit: dice:2d8 + 4|text(13) (2d8 + 4) piercing damage plus\
-    \ dice:2d8|text(9) (2d8) radiant damage. If the target is chaotic or evil,\
-    \ it suffers the effects of a [[5. Mechanics/Spells/Bane.md|bane]] spell until the\
-    \ end of its next turn."
+- "desc": "Ranged Weapon Attack: +8 to hit, range 150/600 ft., one target. Hit:\
+    \ 13 (2d8 + 4) piercing damage plus 9 (2d8) radiant damage. If the target is chaotic\
+    \ or evil, it suffers the effects of a [[5. Mechanics/Spells/Bane.md|bane]] spell\
+    \ until the end of its next turn."
   "name": "Omega"
 "source":
 - "SaF"

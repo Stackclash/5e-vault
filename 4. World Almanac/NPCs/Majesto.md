@@ -150,10 +150,10 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ effects."
   "name": "Magic Resistance"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d4 + 3|text(5) (1d4 + 3) piercing damage, and the target must\
-    \ make a DC 11 Constitution saving throw, taking dice:3d6|text(10) (3d6) poison\
-    \ damage on a failed save, or half as much damage on a successful one."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4\
+    \ + 3) piercing damage, and the target must make a DC 11 Constitution saving throw,\
+    \ taking 10 (3d6) poison damage on a failed save, or half as much damage on a\
+    \ successful one."
   "name": "Sting (Bite in Beast Form)"
 - "desc": "Majesto magically turns [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]]\
     \ until it attacks, or until its [[/5. Mechanics/Rules/Conditions.md#concentration|concentration]]\

@@ -54,8 +54,8 @@ Well, it finds the biggest, most evil thing and bashes the hell out of it (perha
 "cr": "6"
 "traits":
 - "desc": "The Authority's weapon attacks are magical. When the Authority hits with\
-    \ any weapon, the weapon deals an extra dice:2d8|text(9) (2d8) radiant damage\
-    \ (included in the attack)."
+    \ any weapon, the weapon deals an extra 9 (2d8) radiant damage (included in the\
+    \ attack)."
   "name": "Angelic Weapons"
 - "desc": "The Authority has advantage on saving throws against spells and other magical\
     \ effects from evil characters and sources."
@@ -70,10 +70,9 @@ Well, it finds the biggest, most evil thing and bashes the hell out of it (perha
 "actions":
 - "desc": "The Authority makes three attacks with the Brightsword."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 10 ft., one target.\
-    \ Hit: dice:3d6 + 4|text(14) (3d6 + 4) slashing damage and dice:2d8|text(9)\
-    \ (2d8) radiant damage. Evil creatures take an extra dice:2d8|text(9) (2d8)\
-    \ radiant damage."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 14 (3d6\
+    \ + 4) slashing damage and 9 (2d8) radiant damage. Evil creatures take an extra\
+    \ 9 (2d8) radiant damage."
   "name": "Brightsword"
 "source":
 - "SaF"

@@ -72,23 +72,23 @@ Drow spellcasters who seek to devote themselves wholly to Lolth, the Spider Quee
 - "desc": "The drow makes three attacks, using Bite, Poisonous Touch, Web, or a combination\
     \ of them. One attack can be replaced by a use of Spellcasting."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d8 + 3|text(12) (2d8 + 3) piercing damage, and the target must\
-    \ make a DC 15 Constitution saving throw, taking dice:7d8|text(31) (7d8) poison\
-    \ damage on a failed save, or half as much damage on a successful one. If the\
-    \ poison damage reduces the target to 0 hit points, the target is stable but [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
-    \ for 1 hour, even after regaining hit points, and is [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
+- "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d8\
+    \ + 3) piercing damage, and the target must make a DC 15 Constitution saving throw,\
+    \ taking 31 (7d8) poison damage on a failed save, or half as much damage on a\
+    \ successful one. If the poison damage reduces the target to 0 hit points, the\
+    \ target is stable but [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for\
+    \ 1 hour, even after regaining hit points, and is [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
     \ while [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in this way."
   "name": "Bite (Spider Form Only)"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one target.\
-    \ Hit: dice:10d6|text(35) (10d6) poison damage."
+- "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 35 (10d6)\
+    \ poison damage."
   "name": "Poisonous Touch (Humanoid Form Only)"
-- "desc": "Ranged Weapon Attack: dice: d20+8 (+8) to hit, range 30/60 ft., one\
-    \ target. Hit: The target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
-    \ by webbing. As an action, the [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
-    \ target can make a DC 15 Strength check, bursting the webbing on a success. The\
-    \ webbing can also be attacked and destroyed (AC 10; hp 5; vulnerability to fire\
-    \ damage; immunity to bludgeoning, poison, and psychic damage)."
+- "desc": "Ranged Weapon Attack: +8 to hit, range 30/60 ft., one target. Hit:\
+    \ The target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]] by webbing.\
+    \ As an action, the [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]] target\
+    \ can make a DC 15 Strength check, bursting the webbing on a success. The webbing\
+    \ can also be attacked and destroyed (AC 10; hp 5; vulnerability to fire damage;\
+    \ immunity to bludgeoning, poison, and psychic damage)."
   "name": "Web (Spider Form Only; (Recharge 5-6))"
 "bonus_actions":
 - "desc": "The drow magically transforms into a Large spider, remaining in that form\

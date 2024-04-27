@@ -75,8 +75,8 @@ Finally, if she is attacked or otherwise there is great need, she will land and 
     \ components:\n\nAt will: [[5. Mechanics/Spells/Enthrall.md|enthrall]], [[5. Mechanics/Spells/Sleep.md|sleep]]"
   "name": "Innate Spellcasting"
 - "desc": "The Monarchon is a 7th-level spellcaster. Her spellcasting ability is Wisdom\
-    \ (spell save DC 15, dice: d20+7 (+7) to hit with spell attacks). The Monarchon\
-    \ has the following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Guidance.md|guidance]],\
+    \ (spell save DC 15, +7 to hit with spell attacks). The Monarchon has the following\
+    \ cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Guidance.md|guidance]],\
     \ [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]]\n\n1st level (4 slots):\
     \ [[5. Mechanics/Spells/Bane.md|bane]], [[5. Mechanics/Spells/Bless.md|bless]], [[5. Mechanics/Spells/Command.md|command]]\n\
     \n2nd level (3 slots): [[5. Mechanics/Spells/Hold Person.md|hold person]], [[5. Mechanics/Spells/Zone Of Truth.md|zone\
@@ -94,8 +94,8 @@ Finally, if she is attacked or otherwise there is great need, she will land and 
     \ (DC 15) at will on any fey creature or elf."
   "name": "Command Fey"
 "actions":
-- "desc": "Melee Spell Attack: dice: d20+7 (+7) to hit, reach 5 ft., one creature.\
-    \ Hit: dice:2d10 + 4|text(15) (2d10 + 4) necrotic damage."
+- "desc": "Melee Spell Attack: +7 to hit, reach 5 ft., one creature. Hit: 15 (2d10\
+    \ + 4) necrotic damage."
   "name": "Withering Touch"
 - "desc": "The Monarchon spreads her wings and their false eyes pulsate with a rainbow\
     \ of colors, targeting one creature she can see within 30 feet. If the target\

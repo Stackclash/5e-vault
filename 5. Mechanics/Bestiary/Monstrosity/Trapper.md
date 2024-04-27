@@ -57,9 +57,8 @@ A trapper needs to eat a [[5. Mechanics/Races/Halfling.md|halfling]]-sized meal 
 "actions":
 - "desc": "One Large or smaller creature within 10 feet of the trapper must succeed\
     \ on a DC 13 Dexterity saving throw or be [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ (escape DC 14). Until the grapple ends, the target takes dice:3d6 + 3|text(13)\
-    \ (3d6 + 3) bludgeoning damage plus dice:1d6|text(3) (1d6) acid damage at\
-    \ the start of each of its turns. While [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ (escape DC 14). Until the grapple ends, the target takes 13 (3d6 + 3) bludgeoning\
+    \ damage plus 3 (1d6) acid damage at the start of each of its turns. While [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ in this way, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
     \ [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], and deprived of air. The\
     \ trapper can smother only one creature at a time."

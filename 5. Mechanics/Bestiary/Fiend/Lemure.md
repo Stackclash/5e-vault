@@ -165,13 +165,12 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - "desc": "Magical darkness doesn't impede the lemure's darkvision."
   "name": "Devil's Sight"
 - "desc": "A lemure that dies in the Nine Hells comes back to life with all its hit\
-    \ points in dice: 1d10|avg|noform (1d10) days unless it is killed by a good-aligned\
-    \ creature with a [[5. Mechanics/Spells/Bless.md|bless]] spell cast on that creature\
-    \ or its remains are sprinkled with holy water."
+    \ points in 1d10 days unless it is killed by a good-aligned creature with a [[5. Mechanics/Spells/Bless.md|bless]]\
+    \ spell cast on that creature or its remains are sprinkled with holy water."
   "name": "Hellish Rejuvenation"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d4|text(2) (1d4) bludgeoning damage"
+- "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 2 (1d4)\
+    \ bludgeoning damage"
   "name": "Fist"
 "source":
 - "MM"

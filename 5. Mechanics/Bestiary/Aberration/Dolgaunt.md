@@ -59,19 +59,19 @@ When the daelkyr were defeated, the dolgaunts descended into the depths of Khybe
 - "desc": "The dolgaunt makes two tentacle attacks and two unarmed strikes. Up to\
     \ two tentacle attacks can be replaced by Vitality Drain."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 15 ft., one target.\
-    \ Hit: dice:1d6 + 4|text(7) (1d6 + 4) bludgeoning damage. The target is\
-    \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 12) if it is\
-    \ a Large or smaller creature. Until this grapple ends, the dolgaunt can't use\
-    \ the same tentacle on another target. The dolgaunt has two tentacles."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 15 ft., one target. Hit: 7 (1d6\
+    \ + 4) bludgeoning damage. The target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ (escape DC 12) if it is a Large or smaller creature. Until this grapple ends,\
+    \ the dolgaunt can't use the same tentacle on another target. The dolgaunt has\
+    \ two tentacles."
   "name": "Tentacle"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d4 + 4|text(6) (1d4 + 4) bludgeoning damage."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d4\
+    \ + 4) bludgeoning damage."
   "name": "Unarmed Strike"
 - "desc": "One creature [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] by a\
     \ tentacle of the dolgaunt must make a DC 11 Constitution saving throw. On a failed\
-    \ save, the target takes dice:2d8|text(9) (2d8) necrotic damage, and the dolgaunt\
-    \ regains a number of hit points equal to half the necrotic damage taken."
+    \ save, the target takes 9 (2d8) necrotic damage, and the dolgaunt regains a number\
+    \ of hit points equal to half the necrotic damage taken."
   "name": "Vitality Drain"
 "source":
 - "ERLW"

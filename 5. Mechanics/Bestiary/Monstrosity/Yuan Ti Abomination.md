@@ -104,22 +104,19 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
 - "desc": "The yuan-ti makes two ranged attacks or three melee attacks, but can use\
     \ its bite and constrict attacks only once each."
   "name": "Multiattack (Abomination Form Only)"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one creature.\
-    \ Hit: dice:1d6 + 4|text(7) (1d6 + 4) piercing damage plus dice:3d6|text(10)\
-    \ (3d6) poison damage."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 7 (1d6\
+    \ + 4) piercing damage plus 10 (3d6) poison damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 10 ft., one target.\
-    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) bludgeoning damage, and the target\
-    \ is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 14). Until\
-    \ this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+- "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 11 (2d6\
+    \ + 4) bludgeoning damage, and the target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ (escape DC 14). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
     \ and the yuan-ti can't constrict another target."
   "name": "Constrict"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6\
+    \ + 4) slashing damage."
   "name": "Scimitar (Abomination Form Only)"
-- "desc": "Ranged Weapon Attack: dice: d20+6 (+6) to hit, range 150/600 ft.,\
-    \ one target. Hit: dice:2d8 + 3|text(12) (2d8 + 3) piercing damage plus\
-    \ dice:3d6|text(10) (3d6) poison damage."
+- "desc": "Ranged Weapon Attack: +6 to hit, range 150/600 ft., one target. Hit:\
+    \ 12 (2d8 + 3) piercing damage plus 10 (3d6) poison damage."
   "name": "Longbow (Abomination Form Only)"
 "source":
 - "MM"

@@ -59,13 +59,13 @@ A galeb duhr can become one with the earth around it, allowing it to imbue nearb
     \ normal boulder."
   "name": "False Appearance"
 - "desc": "If the galeb duhr rolls at least 20 feet straight toward a target and then\
-    \ hits it with a slam attack on the same turn, the target takes an extra dice:2d6|text(7)\
-    \ (2d6) bludgeoning damage. If the target is a creature, it must succeed on\
-    \ a DC 16 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ hits it with a slam attack on the same turn, the target takes an extra 7 (2d6)\
+    \ bludgeoning damage. If the target is a creature, it must succeed on a DC 16\
+    \ Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Rolling Charge"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d6 + 5|text(12) (2d6 + 5) bludgeoning damage."
+- "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d6\
+    \ + 5) bludgeoning damage."
   "name": "Slam"
 - "desc": "The galeb duhr magically animates up to two boulders it can see within\
     \ 60 feet of it. A boulder has statistics like those of a galeb duhr, except it\

@@ -47,8 +47,7 @@ aliases:
   "name": "Retainer"
 "actions":
 - "desc": "The seer casts the [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]] cantrip\
-    \ (dice: d20+6 (+6) to hit).\n\nAt 7th level, retainers can take two signature\
-    \ attacks per round."
+    \ (+6 to hit).\n\nAt 7th level, retainers can take two signature attacks per round."
   "name": "Signature Attack"
 - "desc": "Prerequisite: 3rd-level retainer\n\nThe seer casts the [[5. Mechanics/Spells/Hold Person.md|hold person]]\
     \ spell (spell save DC 13 at 3rd level, 14 at 5th level, and 15 at 7th level)."

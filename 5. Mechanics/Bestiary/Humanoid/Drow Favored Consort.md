@@ -71,13 +71,12 @@ Some favored consorts work behind the scenes to undermine the evils encouraged b
 - "desc": "The drow makes three Scimitar or Arcane Eruption attacks. The drow can\
     \ replace one of the attacks with a use of Spellcasting."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+11 (+11) to hit, reach 5 ft., one\
-    \ target. Hit: dice:1d6 + 5|text(8) (1d6 + 5) slashing damage plus dice:6d8|text(27)\
-    \ (6d8) poison damage."
+- "desc": "Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 8 (1d6\
+    \ + 5) slashing damage plus 27 (6d8) poison damage."
   "name": "Scimitar"
-- "desc": "Ranged Spell Attack: dice: d20+10 (+10) to hit, range 120 ft., one\
-    \ target. Hit: dice:8d8|text(36) (8d8) force damage, and the drow can push\
-    \ the target up to 10 feet away if it is a Large or smaller creature."
+- "desc": "Ranged Spell Attack: +10 to hit, range 120 ft., one target. Hit: 36\
+    \ (8d8) force damage, and the drow can push the target up to 10 feet away if it\
+    \ is a Large or smaller creature."
   "name": "Arcane Eruption"
 "reactions":
 - "desc": "When the drow or a creature within 10 feet of it is hit by an attack roll,\

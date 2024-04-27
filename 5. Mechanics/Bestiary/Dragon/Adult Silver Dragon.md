@@ -125,14 +125,14 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "desc": "The dragon can use its Frightful Presence. It then makes three attacks:\
     \ one with its bite and two with its claws."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+13 (+13) to hit, reach 10 ft., one\
-    \ target. Hit: dice:2d10 + 8|text(19) (2d10 + 8) piercing damage."
+- "desc": "Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 19\
+    \ (2d10 + 8) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+13 (+13) to hit, reach 5 ft., one\
-    \ target. Hit: dice:2d6 + 8|text(15) (2d6 + 8) slashing damage."
+- "desc": "Melee Weapon Attack: +13 to hit, reach 5 ft., one target. Hit: 15 (2d6\
+    \ + 8) slashing damage."
   "name": "Claw"
-- "desc": "Melee Weapon Attack: dice: d20+13 (+13) to hit, reach 15 ft., one\
-    \ target. Hit: dice:2d8 + 8|text(17) (2d8 + 8) bludgeoning damage."
+- "desc": "Melee Weapon Attack: +13 to hit, reach 15 ft., one target. Hit: 17\
+    \ (2d8 + 8) bludgeoning damage."
   "name": "Tail"
 - "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
     \ and aware of it must succeed on a DC 18 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
@@ -143,13 +143,12 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   "name": "Frightful Presence"
 - "desc": "The dragon uses one of the following breath weapons.\n\n- Cold Breath.\
     \ The dragon exhales an icy blast in a 60-foot cone. Each creature in that area\
-    \ must make a DC 20 Constitution saving throw, taking dice:13d8|text(58) (13d8)\
-    \ cold damage on a failed save, or half as much damage on a successful one.  \n\
-    - Paralyzing Breath. The dragon exhales paralyzing gas in a 60-foot cone.\
-    \ Each creature in that area must succeed on a DC 20 Constitution saving throw\
-    \ or be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]] for 1 minute. A\
-    \ creature can repeat the saving throw at the end of each of its turns, ending\
-    \ the effect on itself on a success.  "
+    \ must make a DC 20 Constitution saving throw, taking 58 (13d8) cold damage on\
+    \ a failed save, or half as much damage on a successful one.  \n- Paralyzing\
+    \ Breath. The dragon exhales paralyzing gas in a 60-foot cone. Each creature\
+    \ in that area must succeed on a DC 20 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
+    \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
+    \ turns, ending the effect on itself on a success.  "
   "name": "Breath Weapons (Recharge 5-6)"
 - "desc": "The dragon magically polymorphs into a humanoid or beast that has a challenge\
     \ rating no higher than its own, or back into its true form. It reverts to its\
@@ -168,9 +167,9 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "desc": "The dragon makes a tail attack."
   "name": "Tail Attack"
 - "desc": "The dragon beats its wings. Each creature within 10 feet of the dragon\
-    \ must succeed on a DC 22 Dexterity saving throw or take dice:2d6 + 8|text(15)\
-    \ (2d6 + 8) bludgeoning damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
-    \ The dragon can then fly up to half its flying speed."
+    \ must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning\
+    \ damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]. The dragon\
+    \ can then fly up to half its flying speed."
   "name": "Wing Attack (Costs 2 Actions)"
 "lair_actions":
 - "desc": "On initiative count 20 (losing initiative ties), the dragon takes a lair\
@@ -179,10 +178,10 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "desc": "- The dragon creates fog as if it had cast the [[5. Mechanics/Spells/Fog Cloud.md|fog cloud]]\
     \ spell. The fog lasts until initiative count 20 on the next round.  \n- A blisteringly\
     \ cold wind blows through the lair near the dragon. Each creature within 120 feet\
-    \ of the dragon must succeed on a DC 15 Constitution saving throw or take dice:1d10|text(5)\
-    \ (1d10) cold damage. Gases and vapors are dispersed by the wind, and unprotected\
-    \ flames are extinguished. Protected flames, such as lanterns, have a 50% chance\
-    \ chance of being extinguished.  "
+    \ of the dragon must succeed on a DC 15 Constitution saving throw or take 5 (1d10)\
+    \ cold damage. Gases and vapors are dispersed by the wind, and unprotected flames\
+    \ are extinguished. Protected flames, such as lanterns, have a 50% chance chance\
+    \ of being extinguished.  "
   "name": ""
 - "desc": "At your discretion, a legendary ([[5. Mechanics/Bestiary/Dragon/Adult Silver Dragon.md|adult]]\
     \ or [[5. Mechanics/Bestiary/Dragon/Ancient Silver Dragon.md|ancient]]) silver dragon\
@@ -208,7 +207,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ structures and other objects as it wishes.  "
   "name": ""
 - "desc": "If the dragon dies, changed weather reverts to normal, as described in\
-    \ the spell, and the other effects fade in dice: 1d10|avg|noform (1d10) days."
+    \ the spell, and the other effects fade in 1d10 days."
   "name": ""
 "source":
 - "MM"

@@ -107,14 +107,14 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 - "desc": "The slaad makes three attacks: one with its bite and two with its claws\
     \ or greatsword."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d6 + 3|text(6) (1d6 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 6 (1d6\
+    \ + 3) piercing damage."
   "name": "Bite (Slaad Form Only)"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d10 + 3|text(8) (1d10 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d10\
+    \ + 3) slashing damage."
   "name": "Claws (Slaad Form Only)"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d6 + 3|text(10) (2d6 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 10 (2d6\
+    \ + 3) slashing damage."
   "name": "Greatsword"
 "source":
 - "MM"

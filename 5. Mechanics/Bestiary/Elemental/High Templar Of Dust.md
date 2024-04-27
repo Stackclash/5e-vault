@@ -65,28 +65,27 @@ The High Templar of Dust focuses on movement, moving through enemies to use its 
 "cr": "10"
 "traits":
 - "desc": "At the start of each of the templar's turns, each creature within 5 feet\
-    \ of it takes dice:1d10|text(5) (1d10) piercing damage."
+    \ of it takes 5 (1d10) piercing damage."
   "name": "Sandstorm"
 - "desc": "The Templar moves up to its speed without provoking opportunity attacks.\n\
     \nIt can move through creatures, and each creature it passes through must make\
-    \ a DC 15 Constitution saving throw or take dice:3d6|text(10) (3d6) force\
-    \ damage."
+    \ a DC 15 Constitution saving throw or take 10 (3d6) force damage."
   "name": "Scour (Recharge 5-6)"
 "actions":
 - "desc": "The Templar makes four attacks with its halberd, Lightning, or Fire. Lightning\
     \ and Fire can only be used twice each."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 10 ft., one target.\
-    \ Hit: dice:1d10 + 5|text(10) (1d10 + 5) slashing damage."
+- "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 10 (1d10\
+    \ + 5) slashing damage."
   "name": "Halberd"
-- "desc": "Ranged Spell Attack: dice: d20+7 (+7) to hit, range 60 ft., one target.\
-    \ Hit: dice:3d6|text(10) (3d6) lightning damage."
+- "desc": "Ranged Spell Attack: +7 to hit, range 60 ft., one target. Hit: 10 (3d6)\
+    \ lightning damage."
   "name": "Lightning"
 - "desc": "The templar hurls a ball of fire that explodes at a point it can see within\
     \ 60 feet. Each creature within a sphere of 10-foot radius centered on that point\
     \ must make a DC 15 Dexterity saving throw. The sphere spreads around corners.\
-    \ On a failed save, a creature takes dice:3d6|text(10) (3d6) fire damage,\
-    \ or half as much damage on a successful one."
+    \ On a failed save, a creature takes 10 (3d6) fire damage, or half as much damage\
+    \ on a successful one."
   "name": "Fire"
 "source":
 - "SaF"

@@ -30,6 +30,6 @@ title: Ballista
 
 ## Actions
 
-***Bolt.*** *Ranged Weapon Attack:* `dice: d20+6` (`+6`) to hit, range 120/480 ft., one target. *Hit:* 16 (`dice: 3d10|avg|noform` (`3d10`)) piercing damage.
+***Bolt.*** *Ranged Weapon Attack:* +6 to hit, range 120/480 ft., one target. *Hit:* 16 (3d10) piercing damage.
 ```
 ^statblock

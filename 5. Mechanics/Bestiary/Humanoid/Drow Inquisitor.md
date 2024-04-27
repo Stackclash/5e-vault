@@ -72,19 +72,19 @@ Lolth's worshipers expect treachery—the Spider Queen encourages it, after all.
 "actions":
 - "desc": "The drow makes three Death Lance attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+10 (+10) to hit, reach 5 ft., one\
-    \ target. Hit: dice:1d6 + 5|text(8) (1d6 + 5) piercing damage plus dice:4d8|text(18)\
-    \ (4d8) necrotic damage. The target's hit point maximum is reduced by an amount\
-    \ equal to the necrotic damage taken. This reduction lasts until the target finishes\
-    \ a long rest. The target dies if its hit point maximum is reduced to 0."
+- "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 8 (1d6\
+    \ + 5) piercing damage plus 18 (4d8) necrotic damage. The target's hit point maximum\
+    \ is reduced by an amount equal to the necrotic damage taken. This reduction lasts\
+    \ until the target finishes a long rest. The target dies if its hit point maximum\
+    \ is reduced to 0."
   "name": "Death Lance"
 "bonus_actions":
 - "desc": "The drow conjures a floating, spectral dagger within 60 feet of itself.\
-    \ The drow can make a melee spell attack (dice: d20+10 (+10) to hit) against\
-    \ one creature within 5 feet of the dagger. On a hit, the target takes dice:1d8\
-    \ + 5|text(9) (1d8 + 5) force damage.\n\nThe dagger lasts for 1 minute. As\
-    \ a bonus action on later turns, the drow can move the dagger up to 20 feet and\
-    \ repeat the attack against one creature within 5 feet of the dagger."
+    \ The drow can make a melee spell attack (+10 to hit) against one creature within\
+    \ 5 feet of the dagger. On a hit, the target takes 9 (1d8 + 5) force damage.\n\
+    \nThe dagger lasts for 1 minute. As a bonus action on later turns, the drow can\
+    \ move the dagger up to 20 feet and repeat the attack against one creature within\
+    \ 5 feet of the dagger."
   "name": "Spectral Dagger (Recharges after a Short or Long Rest)"
 "source":
 - "MPMM"

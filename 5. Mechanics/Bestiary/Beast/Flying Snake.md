@@ -43,8 +43,8 @@ A flying snake is a brightly colored, winged serpent found in remote jungles. Tr
     \ reach."
   "name": "Flyby"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: 1 piercing damage plus dice:3d4|text(7) (3d4) poison damage."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 1 piercing\
+    \ damage plus 7 (3d4) poison damage."
   "name": "Bite"
 "source":
 - "MM"

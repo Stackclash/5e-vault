@@ -199,28 +199,27 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ can replace its Tentacle Whip attack with Extract Brain if it has a creature\
     \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+15 (+15) to hit, reach 10 ft., one\
-    \ target. Hit: dice:3d10 + 8|text(24) (3d10 + 8) slashing damage. If the\
-    \ target is a Medium or smaller creature, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ (escape DC 23), pulled into an unoccupied space within 5 feet of Dyrrn, and\
-    \ must succeed on a DC 23 Intelligence saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+- "desc": "Melee Weapon Attack: +15 to hit, reach 10 ft., one target. Hit: 24\
+    \ (3d10 + 8) slashing damage. If the target is a Medium or smaller creature, it\
+    \ is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 23), pulled\
+    \ into an unoccupied space within 5 feet of Dyrrn, and must succeed on a DC 23\
+    \ Intelligence saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
     \ until this grapple ends. Dyrrn can't use the same tentacle whip on another target\
     \ until this grapple ends. Dyrrn has two tentacle whips."
   "name": "Tentacle Whip"
 - "desc": "Dyrrn targets one creature it can see within 60 feet of it. The target\
-    \ must succeed on a DC 23 Constitution saving throw or take dice:4d6 + 8|text(22)\
-    \ (4d6 + 8) necrotic damage and become corrupted for 1 minute.\n\nA corrupted\
-    \ creature's flesh twists in alien ways. The creature has disadvantage on attack\
-    \ rolls, its speed is reduced by half, and if it tries to cast a spell, it must\
-    \ first succeed on a DC 15 Intelligence check or the spell fails and is wasted.\
-    \ The corrupted creature can repeat the saving throw at the end of each of its\
-    \ turns, ending the effect on itself on a success."
+    \ must succeed on a DC 23 Constitution saving throw or take 22 (4d6 + 8) necrotic\
+    \ damage and become corrupted for 1 minute.\n\nA corrupted creature's flesh twists\
+    \ in alien ways. The creature has disadvantage on attack rolls, its speed is reduced\
+    \ by half, and if it tries to cast a spell, it must first succeed on a DC 15 Intelligence\
+    \ check or the spell fails and is wasted. The corrupted creature can repeat the\
+    \ saving throw at the end of each of its turns, ending the effect on itself on\
+    \ a success."
   "name": "Corruption"
-- "desc": "Melee Weapon Attack: dice: d20+15 (+15) to hit, reach 5 ft., one\
-    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] creature [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ by Dyrrn. Hit: dice:10d10|text(55) (10d10) piercing damage. If this damage\
-    \ reduces the target to 0 hit points, Dyrrn kills the target by extracting and\
-    \ devouring its brain."
+- "desc": "Melee Weapon Attack: +15 to hit, reach 5 ft., one [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
+    \ creature [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] by Dyrrn. Hit:\
+    \ 55 (10d10) piercing damage. If this damage reduces the target to 0 hit points,\
+    \ Dyrrn kills the target by extracting and devouring its brain."
   "name": "Extract Brain"
 "legendary_actions":
 - "desc": "Dyrrn makes one attack with its Tentacle Whip."
@@ -230,8 +229,8 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ after Dyrrn in the initiative order."
   "name": "Spawn Aberration (Costs 2 Actions)"
 - "desc": "Dyrrn magically emits psychic energy in a 60-foot cone. Each creature in\
-    \ that area must succeed on a DC 23 Intelligence saving throw or take dice:5d8\
-    \ + 8|text(30) (5d8 + 8) psychic damage and be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+    \ that area must succeed on a DC 23 Intelligence saving throw or take 30 (5d8\
+    \ + 8) psychic damage and be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
     \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success."
   "name": "Mind Blast (Costs 3 Actions)"
@@ -248,12 +247,11 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ A creature can escape the tentacles with a successful DC 23 Strength ([[/5. Mechanics/Rules/Skills.md#Athletics|Athletics]])\
     \ or Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics|Acrobatics]]) check as\
     \ an action.  \n- Each creature of Dyrrn's choice that it can see within 120 feet\
-    \ of it must succeed on a DC 23 Wisdom saving throw or take dice:4d12|text(26)\
-    \ (4d12) psychic damage. Unless the target has immunity to psychic damage, its\
-    \ Intelligence score is reduced by dice: 1d4|avg|noform (1d4) each time it\
-    \ fails the saving throw for this lair action. The target dies if its Intelligence\
-    \ score is reduced to 0. The reduction lasts until the target finishes a short\
-    \ or long rest.  "
+    \ of it must succeed on a DC 23 Wisdom saving throw or take 26 (4d12) psychic\
+    \ damage. Unless the target has immunity to psychic damage, its Intelligence score\
+    \ is reduced by 1d4 each time it fails the saving throw for this lair action.\
+    \ The target dies if its Intelligence score is reduced to 0. The reduction lasts\
+    \ until the target finishes a short or long rest.  "
   "name": ""
 "regional_effects":
 - "desc": "A region containing a passage to Dyrrn's lair is warped in one or more\
@@ -268,8 +266,7 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ this saving throw can't be affected by this regional effect again for 24 hours.\
     \  "
   "name": ""
-- "desc": "If Dyrrn dies, these effects fade away after dice: 1d10|avg|noform (1d10)\
-    \ days."
+- "desc": "If Dyrrn dies, these effects fade away after 1d10 days."
   "name": ""
 - "desc": "If a creature goes mad in Dyrrn's lair or while it can see the daelkyr,\
     \ it gains a form of indefinite madness. Roll on the Madness of Dyrrn table to\

@@ -73,8 +73,8 @@ An elemental doesn't require air, food, drink, or sleep.
 "actions":
 - "desc": "The elemental makes two slam attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 10 ft., one target.\
-    \ Hit: dice:2d8 + 5|text(14) (2d8 + 5) bludgeoning damage."
+- "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 14 (2d8\
+    \ + 5) bludgeoning damage."
   "name": "Slam"
 "source":
 - "MM"

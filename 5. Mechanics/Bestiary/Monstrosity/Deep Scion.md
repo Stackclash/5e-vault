@@ -55,15 +55,14 @@ The training to which a deep scion is subjected rids it of empathy for those the
 - "desc": "The deep scion makes two Battleaxe attacks, or it makes one Bite attack\
     \ and two Claw attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d8 + 4|text(8) (1d8 + 4) slashing damage, or dice:1d10 + 4|text(9)\
-    \ (1d10 + 4) slashing damage if used with two hands."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8\
+    \ + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands."
   "name": "Battleaxe"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one creature.\
-    \ Hit: dice:1d4 + 4|text(6) (1d4 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 6 (1d4\
+    \ + 4) piercing damage."
   "name": "Bite (Hybrid Form Only)"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d6 + 4|text(7) (1d6 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6\
+    \ + 4) slashing damage."
   "name": "Claw (Hybrid Form Only)"
 - "desc": "The deep scion emits a terrible scream audible within 300 feet. Creatures\
     \ within 30 feet of the deep scion must succeed on a DC 13 Wisdom saving throw\

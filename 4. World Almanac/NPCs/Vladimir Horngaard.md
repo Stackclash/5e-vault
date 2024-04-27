@@ -223,16 +223,14 @@ await dv.view("npcRelationships", { current: dv.current() })
 "actions":
 - "desc": "Vladimir makes two fist attacks or two attacks with his +2 Greatsword."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) bludgeoning damage. Strahd, the target\
-    \ of Vladimir's sworn vengeance, takes an extra dice:4d6|text(14) (4d6) bludgeoning\
-    \ damage. Instead of dealing damage, Vladimir can grapple the target (escape DC\
-    \ 14) provided the target is Large or smaller."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6\
+    \ + 4) bludgeoning damage. Strahd, the target of Vladimir's sworn vengeance, takes\
+    \ an extra 14 (4d6) bludgeoning damage. Instead of dealing damage, Vladimir can\
+    \ grapple the target (escape DC 14) provided the target is Large or smaller."
   "name": "Fist"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 5 ft., one target.\
-    \ Hit: dice:4d6 + 6|text(20) (4d6 + 6) slashing damage. Against Strahd,\
-    \ Vladimir deals an extra dice:4d6|text(14) (4d6) slashing damage with this\
-    \ weapon."
+- "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 20 (4d6\
+    \ + 6) slashing damage. Against Strahd, Vladimir deals an extra 14 (4d6) slashing\
+    \ damage with this weapon."
   "name": "Greatsword +2"
 - "desc": "Vladimir can target Strahd within 30 feet provided he can see Strahd. Strahd\
     \ must make a DC 15 Wisdom saving throw. One a failure, Strahd is [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\

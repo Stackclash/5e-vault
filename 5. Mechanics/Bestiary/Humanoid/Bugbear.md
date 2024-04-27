@@ -59,16 +59,15 @@ Despite their intimidating builds, bugbears move with surprising stealth. They a
     \ with it (included in the attack)."
   "name": "Brute"
 - "desc": "If the bugbear surprises a creature and hits it with an attack during the\
-    \ first round of combat, the target takes an extra dice:2d6|text(7) (2d6)\
-    \ damage from the attack."
+    \ first round of combat, the target takes an extra 7 (2d6) damage from the attack."
   "name": "Surprise Attack"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d8 + 2|text(11) (2d8 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 11 (2d8\
+    \ + 2) piercing damage."
   "name": "Morningstar"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft.\
-    \ or range 30/120 ft., one target. Hit: dice:2d6 + 2|text(9) (2d6 + 2) piercing\
-    \ damage in melee or dice:1d6 + 2|text(5) (1d6 + 2) piercing damage at range."
+- "desc": "Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 30/120\
+    \ ft., one target. Hit: 9 (2d6 + 2) piercing damage in melee or 5 (1d6 + 2)\
+    \ piercing damage at range."
   "name": "Javelin"
 "source":
 - "MM"

@@ -82,39 +82,38 @@ An illithid experiences euphoria as it devours the brain of a humanoid, along wi
     \ shift]] (self only)"
   "name": "Innate Spellcasting (Psionics)"
 - "desc": "The mind flayer is a 10th-level spellcaster. Its spellcasting ability is\
-    \ Intelligence (save DC 15, dice: d20+7 (+7) to hit with spell attacks). The\
-    \ mind flayer has the following wizard spells prepared:\n\nCantrips (at will):\
-    \ [[5. Mechanics/Spells/Blade Ward.md|blade ward]], [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]],\
-    \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Shocking Grasp.md|shocking grasp]]\n\
-    \n1st level (4 slots): [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
-    \ [[5. Mechanics/Spells/Disguise Self.md|disguise self]], [[5. Mechanics/Spells/Shield.md|shield]],\
-    \ [[5. Mechanics/Spells/Sleep.md|sleep]]\n\n2nd level (3 slots): [[5. Mechanics/Spells/Blur.md|blur]],\
-    \ [[5. Mechanics/Spells/Invisibility.md|invisibility]], [[5. Mechanics/Spells/Ray Of Enfeeblement.md|ray of enfeeblement]]\n\
-    \n3rd level (3 slots): [[5. Mechanics/Spells/Clairvoyance.md|clairvoyance]],\
-    \ [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]], [[5. Mechanics/Spells/Sending.md|sending]]\n\
-    \n4th level (3 slots): [[5. Mechanics/Spells/Confusion.md|confusion]], [[5. Mechanics/Spells/Hallucinatory Terrain.md|hallucinatory\
-    \ terrain]]\n\n5th level (2 slots):\
-    \ [[5. Mechanics/Spells/Telekinesis.md|telekinesis]], [[5. Mechanics/Spells/Wall Of Force.md|wall of force]]"
+    \ Intelligence (save DC 15, +7 to hit with spell attacks). The mind flayer has\
+    \ the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Blade Ward.md|blade ward]],\
+    \ [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]], [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
+    \ [[5. Mechanics/Spells/Shocking Grasp.md|shocking grasp]]\n\n1st level (4 slots):\
+    \ [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Disguise Self.md|disguise self]],\
+    \ [[5. Mechanics/Spells/Shield.md|shield]], [[5. Mechanics/Spells/Sleep.md|sleep]]\n\
+    \n2nd level (3 slots): [[5. Mechanics/Spells/Blur.md|blur]], [[5. Mechanics/Spells/Invisibility.md|invisibility]],\
+    \ [[5. Mechanics/Spells/Ray Of Enfeeblement.md|ray of enfeeblement]]\n\n3rd level\
+    \ (3 slots): [[5. Mechanics/Spells/Clairvoyance.md|clairvoyance]], [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]],\
+    \ [[5. Mechanics/Spells/Sending.md|sending]]\n\n4th level (3 slots): [[5. Mechanics/Spells/Confusion.md|confusion]],\
+    \ [[5. Mechanics/Spells/Hallucinatory Terrain.md|hallucinatory terrain]]\n\n5th\
+    \ level (2 slots): [[5. Mechanics/Spells/Telekinesis.md|telekinesis]], [[5. Mechanics/Spells/Wall Of Force.md|wall of\
+    \ force]]"
   "name": "Spellcasting"
 - "desc": "The mind flayer has advantage on saving throws against spells and other\
     \ magical effects."
   "name": "Magic Resistance"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one creature.\
-    \ Hit: dice:2d10 + 4|text(15) (2d10 + 4) psychic damage. If the target is\
-    \ Medium or smaller, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 15\
+    \ (2d10 + 4) psychic damage. If the target is Medium or smaller, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ (escape DC 15) and must succeed on a DC 15 Intelligence saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
     \ until this grapple ends."
   "name": "Tentacles"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
+- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
     \ humanoid [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] by the mind flayer.\
-    \ Hit: The target takes dice:10d10|text(55) (10d10) piercing damage. If\
-    \ this damage reduces the target to 0 hit points, the mind flayer kills the target\
-    \ by extracting and devouring its brain."
+    \ Hit: The target takes 55 (10d10) piercing damage. If this damage reduces the\
+    \ target to 0 hit points, the mind flayer kills the target by extracting and devouring\
+    \ its brain."
   "name": "Extract Brain"
 - "desc": "The mind flayer magically emits psychic energy in a 60-foot cone. Each\
     \ creature in that area must succeed on a DC 15 Intelligence saving throw or take\
-    \ dice:4d8 + 4|text(22) (4d8 + 4) psychic damage and be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+    \ 22 (4d8 + 4) psychic damage and be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
     \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success."
   "name": "Mind Blast (Recharge 5-6)"

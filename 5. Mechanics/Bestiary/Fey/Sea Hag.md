@@ -125,8 +125,8 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
     \ disadvantage on attack rolls against the hag."
   "name": "Horrific Appearance"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d6 + 3|text(10) (2d6 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6\
+    \ + 3) slashing damage."
   "name": "Claws"
 - "desc": "The hag targets one [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
     \ creature she can see within 30 feet of her. If the target can see the hag, it\
@@ -179,8 +179,7 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
     \ single hag, including some that can directly harm intruders. Any regional effect\
     \ that requires a creature to make a saving throw uses the save DC of the hag's\
     \ most powerful ability. These effects either end immediately if the hag dies\
-    \ or abandons the lair, or take up to dice: 2d10|avg|noform (2d10) days to\
-    \ fade away."
+    \ or abandons the lair, or take up to 2d10 days to fade away."
   "name": ""
 - "desc": "The region within 1 mile of a grandmother hag's lair is warped by the creature's\
     \ fell magic, which creates one or more of the following effects:"

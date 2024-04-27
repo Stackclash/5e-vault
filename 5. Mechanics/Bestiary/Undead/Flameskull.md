@@ -67,9 +67,9 @@ A flameskull doesn't require air, food, drink, or sleep
 "cr": "4"
 "traits":
 - "desc": "The flameskull is a 5th-level spellcaster. Its spellcasting ability is\
-    \ Intelligence (spell save DC 13, dice: d20+5 (+5) to hit with spell attacks).\
-    \ It requires no somatic or material components to cast its spells. The flameskull\
-    \ has the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Mage Hand.md|mage hand]]\n\
+    \ Intelligence (spell save DC 13, +5 to hit with spell attacks). It requires no\
+    \ somatic or material components to cast its spells. The flameskull has the following\
+    \ wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Mage Hand.md|mage hand]]\n\
     \n1st level (3 slots): [[5. Mechanics/Spells/Magic Missile.md|magic missile]],\
     \ [[5. Mechanics/Spells/Shield.md|shield]]\n\n2nd level (2 slots): [[5. Mechanics/Spells/Blur.md|blur]],\
     \ [[5. Mechanics/Spells/Flaming Sphere.md|flaming sphere]]\n\n3rd level (1 slots):\
@@ -89,8 +89,8 @@ A flameskull doesn't require air, food, drink, or sleep
 "actions":
 - "desc": "The flameskull uses Fire Ray twice."
   "name": "Multiattack"
-- "desc": "Ranged Spell Attack: dice: d20+5 (+5) to hit, range 30 ft., one target.\
-    \ Hit: dice:3d6|text(10) (3d6) fire damage."
+- "desc": "Ranged Spell Attack: +5 to hit, range 30 ft., one target. Hit: 10 (3d6)\
+    \ fire damage."
   "name": "Fire Ray"
 "source":
 - "MM"

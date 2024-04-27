@@ -50,14 +50,14 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
     \ sorrowsworn otherwise has disadvantage on attack rolls."
   "name": "Wretched Pack Tactics"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d10 + 1|text(6) (1d10 + 1) piercing damage, and the sorrowsworn\
-    \ attaches to the target. While attached, the sorrowsworn can't attack, and at\
-    \ the start of each of the sorrowsworn's turns, the target takes dice:1d10 +\
-    \ 1|text(6) (1d10 + 1) necrotic damage.\n\nThe attached sorrowsworn moves with\
-    \ the target whenever the target moves, requiring none of the sorrowsworn's movement.\
-    \ The sorrowsworn can detach itself by spending 5 feet of its movement on its\
-    \ turn. A creature, including the target, can use its action to detach the sorrowsworn."
+- "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (1d10\
+    \ + 1) piercing damage, and the sorrowsworn attaches to the target. While attached,\
+    \ the sorrowsworn can't attack, and at the start of each of the sorrowsworn's\
+    \ turns, the target takes 6 (1d10 + 1) necrotic damage.\n\nThe attached sorrowsworn\
+    \ moves with the target whenever the target moves, requiring none of the sorrowsworn's\
+    \ movement. The sorrowsworn can detach itself by spending 5 feet of its movement\
+    \ on its turn. A creature, including the target, can use its action to detach\
+    \ the sorrowsworn."
   "name": "Bite"
 "source":
 - "MPMM"

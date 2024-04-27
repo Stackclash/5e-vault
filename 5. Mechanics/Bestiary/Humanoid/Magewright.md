@@ -67,9 +67,8 @@ The magewright stat block provides the baseline statistics for a magewright. You
     \ spells:\n\nAt will: [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]"
   "name": "Spellcasting"
 "actions":
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice:1d4 + 1|text(3) (1d4 + 1) piercing\
-    \ damage."
+- "desc": "Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60\
+    \ ft., one target. Hit: 3 (1d4 + 1) piercing damage."
   "name": "Dagger"
 "source":
 - "ERLW"

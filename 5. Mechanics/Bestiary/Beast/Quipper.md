@@ -44,8 +44,8 @@ Quippers can adapt to any aquatic environment, including cold subterranean lakes
 - "desc": "The quipper can breathe only underwater."
   "name": "Water Breathing"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
-    \ Hit: 1 piercing damage."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 piercing\
+    \ damage."
   "name": "Bite"
 "source":
 - "MM"

@@ -94,16 +94,15 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
     \ rely on sight."
   "name": "Sunlight Sensitivity"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d4 + 1|text(3) (1d4 + 1) piercing damage."
+- "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4\
+    \ + 1) piercing damage."
   "name": "Bite"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice:1d6 + 1|text(4) (1d6 + 1) piercing\
-    \ damage, or dice:1d8 + 1|text(5) (1d8 + 1) piercing damage if used with two\
-    \ hands to make a melee attack."
+- "desc": "Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60\
+    \ ft., one target. Hit: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing\
+    \ damage if used with two hands to make a melee attack."
   "name": "Spear"
-- "desc": "Ranged Weapon Attack: dice: d20+3 (+3) to hit, range 5/15 ft., one\
-    \ Large or smaller creature. Hit: The target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]].\
+- "desc": "Ranged Weapon Attack: +3 to hit, range 5/15 ft., one Large or smaller\
+    \ creature. Hit: The target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]].\
     \ A creature can use its action to make a DC 10 Strength check to free itself\
     \ or another creature in a net, ending the effect on a success. Dealing 5 slashing\
     \ damage to the net (AC 10) frees the target without harming it and destroys the\

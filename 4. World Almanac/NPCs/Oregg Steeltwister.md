@@ -143,9 +143,9 @@ await dv.view("npcRelationships", { current: dv.current() })
 "cr": "5"
 "traits":
 - "desc": "Oregg Steeltwister is a 5th-level\n\nspellcaster. His spellcasting ability\
-    \ modifier is\n\nCharisma (spell save DC 15, dice: d20+7 (+7) to hit with\
-    \ spell\n\nattacks). He has the following sorcerer spells prepared:\n\nCantrips\
-    \ (at will): [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]], [[5. Mechanics/Spells/Message.md|message]],\
+    \ modifier is\n\nCharisma (spell save DC 15, +7 to hit with spell\n\nattacks).\
+    \ He has the following sorcerer spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Fire Bolt.md|fire\
+    \ bolt]], [[5. Mechanics/Spells/Message.md|message]],\
     \ [[5. Mechanics/Spells/Poison Spray.md|poison spray]], [[5. Mechanics/Spells/True Strike.md|true strike]]\n\
     \n1st level (4 slots): [[5. Mechanics/Spells/Magic Missile.md|magic missile]],\
     \ [[5. Mechanics/Spells/Shield.md|shield]]\n\n2nd level (3 slots): [[5. Mechanics/Spells/Heat Metal.md|heat metal]]\n\
@@ -155,20 +155,19 @@ await dv.view("npcRelationships", { current: dv.current() })
     \ it can see."
   "name": "Aggressive"
 - "desc": "Whenever Oregg casts a spell of 1st level or higher, he gains a number\
-    \ of temporary hit points equal to Xdice: d10|avg|noform (d10), where X is\
-    \ the level of the spell."
+    \ of temporary hit points equal to Xd10, where X is the level of the spell."
   "name": "Rune-Tattooed"
 "actions":
 - "desc": "Oregg makes two longsword attacks and can cast a cantrip as a bonus action."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d10 + 2|text(7) (1d10 + 2) slashing damage."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d10\
+    \ + 2) slashing damage."
   "name": "Longsword"
-- "desc": "Ranged Spell Attack: dice: d20+7 (+7) to hit, range 120 ft., one\
-    \ target. Hit: dice:2d10|text(11) (2d10) fire damage."
+- "desc": "Ranged Spell Attack: +7 to hit, range 120 ft., one target. Hit: 11\
+    \ (2d10) fire damage."
   "name": "Firebolt"
 - "desc": "One creature within 10 feet of Oregg must make a successful DC 15 Constitution\
-    \ saving throw or take dice:2d12|text(13) (2d12) poison damage."
+    \ saving throw or take 13 (2d12) poison damage."
   "name": "Poison Spray"
 "source":
 - "SaF"

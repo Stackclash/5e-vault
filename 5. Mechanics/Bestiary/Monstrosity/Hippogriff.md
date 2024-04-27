@@ -54,11 +54,11 @@ A hippogriff raised in captivity can be trained to be a faithful companion and m
 "actions":
 - "desc": "The hippogriff makes two attacks: one with its beak and one with its claws."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d10 + 3|text(8) (1d10 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10\
+    \ + 3) piercing damage."
   "name": "Beak"
-- "desc": "Melee Weapon Attack: dice: d20+5 (+5) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d6 + 3|text(10) (2d6 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6\
+    \ + 3) slashing damage."
   "name": "Claws"
 "source":
 - "MM"

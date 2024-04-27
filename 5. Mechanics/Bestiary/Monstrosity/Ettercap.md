@@ -66,18 +66,17 @@ Ettercaps are natural enemies of fey creatures. The foul creatures set web snare
 "actions":
 - "desc": "The ettercap makes two attacks: one with its bite and one with its claws."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one creature.\
-    \ Hit: dice:1d8 + 2|text(6) (1d8 + 2) piercing damage plus dice:1d8|text(4)\
-    \ (1d8) poison damage. The target must succeed on a DC 11 Constitution saving\
-    \ throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for 1 minute.\
-    \ The creature can repeat the saving throw at the end of each of its turns, ending\
-    \ the effect on itself on a success."
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 6 (1d8\
+    \ + 2) piercing damage plus 4 (1d8) poison damage. The target must succeed on\
+    \ a DC 11 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ for 1 minute. The creature can repeat the saving throw at the end of each of\
+    \ its turns, ending the effect on itself on a success."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d4 + 2|text(7) (2d4 + 2) slashing damage."
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4\
+    \ + 2) slashing damage."
   "name": "Claws"
-- "desc": "Ranged Weapon Attack: dice: d20+4 (+4) to hit, range 30/60 ft., one\
-    \ Large or smaller creature. Hit: The creature is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
+- "desc": "Ranged Weapon Attack: +4 to hit, range 30/60 ft., one Large or smaller\
+    \ creature. Hit: The creature is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
     \ by webbing. As an action, the [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
     \ creature can make a DC 11 Strength check, escaping from the webbing on a success.\
     \ The effect ends if the webbing is destroyed. The webbing has AC 10, 5 hit points,\

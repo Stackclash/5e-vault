@@ -50,11 +50,11 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
     \ can make one stomp attack against it as a bonus action."
   "name": "Trampling Charge"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 5 ft., one target.\
-    \ Hit: dice:4d8 + 6|text(24) (4d8 + 6) piercing damage."
+- "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 24 (4d8\
+    \ + 6) piercing damage."
   "name": "Gore"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9) to hit, reach 5 ft., one [[/5. Mechanics/Rules/Conditions.md#prone|prone]]\
-    \ creature. Hit: dice:3d10 + 6|text(22) (3d10 + 6) bludgeoning damage"
+- "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one [[/5. Mechanics/Rules/Conditions.md#prone|prone]]\
+    \ creature. Hit: 22 (3d10 + 6) bludgeoning damage"
   "name": "Stomp"
 "source":
 - "MM"

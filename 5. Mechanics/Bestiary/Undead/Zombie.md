@@ -72,8 +72,8 @@ A zombie doesn't require air, food, drink, or sleep.
     \ or from a critical hit. On a success, the zombie drops to 1 hit point instead."
   "name": "Undead Fortitude"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d6 + 1|text(4) (1d6 + 1) bludgeoning damage."
+- "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6\
+    \ + 1) bludgeoning damage."
   "name": "Slam"
 "source":
 - "MM"

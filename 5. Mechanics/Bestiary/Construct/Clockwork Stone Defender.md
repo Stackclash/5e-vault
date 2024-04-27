@@ -92,9 +92,9 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
 - "desc": "The clockwork doesn't require air, food, drink, or sleep."
   "name": "Unusual Nature"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:2d6 + 4|text(11) (2d6 + 4) bludgeoning damage, and if the target\
-    \ is Large or smaller, it is knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6\
+    \ + 4) bludgeoning damage, and if the target is Large or smaller, it is knocked\
+    \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Slam"
 "reactions":
 - "desc": "In response to another creature within 5 feet of it being hit by an attack\

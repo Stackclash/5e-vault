@@ -66,21 +66,21 @@ A will-o'-wisp doesn't require air, drink, or sleep.
 - "desc": "As a bonus action, the will-o'-wisp can target one creature it can see\
     \ within 5 feet of it that has 0 hit points and is still alive. The target must\
     \ succeed on a DC 10 Constitution saving throw against this magic or die. If the\
-    \ target dies, the will-o'-wisp regains dice:3d6|text(10) (3d6) hit points."
+    \ target dies, the will-o'-wisp regains 10 (3d6) hit points."
   "name": "Consume Life"
 - "desc": "The will-o'-wisp can't wear or carry anything."
   "name": "Ephemeral"
 - "desc": "The will-o'-wisp can move through other creatures and objects as if they\
-    \ were difficult terrain. It takes dice:1d10|text(5) (1d10) force damage if\
-    \ it ends its turn inside an object."
+    \ were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside\
+    \ an object."
   "name": "Incorporeal Movement"
 - "desc": "The will-o'-wisp sheds bright light in a 5 to 20-foot radius and dim light\
     \ for an additional number of ft. equal to the chosen radius. The will-o'-wisp\
     \ can alter the radius as a bonus action."
   "name": "Variable Illumination"
 "actions":
-- "desc": "Melee Spell Attack: dice: d20+4 (+4) to hit, reach 5 ft., one creature.\
-    \ Hit: dice:2d8|text(9) (2d8) lightning damage."
+- "desc": "Melee Spell Attack: +4 to hit, reach 5 ft., one creature. Hit: 9 (2d8)\
+    \ lightning damage."
   "name": "Shock"
 - "desc": "The will-o'-wisp and its light magically become [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]]\
     \ until it attacks or uses its Consume Life, or until its [[/5. Mechanics/Rules/Conditions.md#concentration|concentration]]\

@@ -99,16 +99,15 @@ Destroying a periapt of mind trapping consigns those trapped within it to oblivi
 "actions":
 - "desc": "The alhoon makes two Chilling Grasp or Arcane Bolt attacks."
   "name": "Multiattack"
-- "desc": "Melee Spell Attack: dice: d20+8 (+8) to hit, reach 5 ft., one target.\
-    \ Hit: dice:4d6|text(14) (4d6) cold damage, and the alhoon regains 14 hit\
-    \ points."
+- "desc": "Melee Spell Attack: +8 to hit, reach 5 ft., one target. Hit: 14 (4d6)\
+    \ cold damage, and the alhoon regains 14 hit points."
   "name": "Chilling Grasp"
-- "desc": "Ranged Spell Attack: dice: d20+8 (+8) to hit, range 120 ft., one\
-    \ target. Hit: dice:8d6|text(28) (8d6) force damage."
+- "desc": "Ranged Spell Attack: +8 to hit, range 120 ft., one target. Hit: 28\
+    \ (8d6) force damage."
   "name": "Arcane Bolt"
 - "desc": "The alhoon magically emits psychic energy in a 60-foot cone. Each creature\
-    \ in that area must succeed on a DC 16 Intelligence saving throw or take dice:4d8\
-    \ + 4|text(22) (4d8 + 4) psychic damage and be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+    \ in that area must succeed on a DC 16 Intelligence saving throw or take 22 (4d8\
+    \ + 4) psychic damage and be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
     \ for 1 minute. A target can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success."
   "name": "Mind Blast (Recharge 5-6)"

@@ -66,14 +66,13 @@ A shadowblade gains their powers over shadow via a ritual in which they kill a s
 - "desc": "The drow makes three Shadow Sword attacks. One of the attacks can be replaced\
     \ by a Hand Crossbow attack. The drow can also use Spellcasting to cast darkness."
   "name": "Multiattack"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+9 (+9) to hit, reach 5 ft.\
-    \ or range 30/60 ft., one target. Hit: dice:7d6 + 5|text(27) (7d6 + 5) necrotic\
-    \ damage."
+- "desc": "Melee or Ranged Weapon Attack: +9 to hit, reach 5 ft. or range 30/60\
+    \ ft., one target. Hit: 27 (7d6 + 5) necrotic damage."
   "name": "Shadow Sword"
-- "desc": "Ranged Weapon Attack: dice: d20+9 (+9) to hit, range 30/120 ft.,\
-    \ one target. Hit: dice:1d6 + 5|text(8) (1d6 + 5) piercing damage, and the\
-    \ target must succeed on a DC 13 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
-    \ for 1 hour. If the saving throw fails by 5 or more, the target is also [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]\
+- "desc": "Ranged Weapon Attack: +9 to hit, range 30/120 ft., one target. Hit:\
+    \ 8 (1d6 + 5) piercing damage, and the target must succeed on a DC 13 Constitution\
+    \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for\
+    \ 1 hour. If the saving throw fails by 5 or more, the target is also [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]\
     \ while [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in this way. The\
     \ target regains consciousness if it takes damage or if another creature takes\
     \ an action to shake it."

@@ -95,23 +95,21 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
 - "desc": "The clockwork makes two Lancing Bolt attacks or one Lancing Bolt attack\
     \ and one Harpoon attack."
   "name": "Multiattack"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft.\
-    \ or range 100/400 ft., one target. Hit: dice:2d10 + 4|text(15) (2d10 + 4)\
-    \ piercing damage."
+- "desc": "Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 100/400\
+    \ ft., one target. Hit: 15 (2d10 + 4) piercing damage."
   "name": "Lancing Bolt"
-- "desc": "Ranged Weapon Attack: dice: d20+7 (+7) to hit, range 50/200 ft.,\
-    \ one target. Hit: dice:1d10 + 4|text(9) (1d10 + 4) piercing damage, and\
-    \ the target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC\
-    \ 12). While [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] in this way,\
-    \ a creature's speed isn't reduced, but it can move only in directions that bring\
-    \ it closer to the clockwork. A creature takes dice:1d10|text(5) (1d10) slashing\
-    \ damage if it escapes from the grapple or if it tries and fails. The clockwork\
-    \ can grapple only one creature at a time with its harpoon."
+- "desc": "Ranged Weapon Attack: +7 to hit, range 50/200 ft., one target. Hit:\
+    \ 9 (1d10 + 4) piercing damage, and the target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ (escape DC 12). While [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] in\
+    \ this way, a creature's speed isn't reduced, but it can move only in directions\
+    \ that bring it closer to the clockwork. A creature takes 5 (1d10) slashing damage\
+    \ if it escapes from the grapple or if it tries and fails. The clockwork can grapple\
+    \ only one creature at a time with its harpoon."
   "name": "Harpoon"
 - "desc": "The clockwork launches an explosive charge at a point within 120 feet.\
     \ Each creature in a 20-foot-radius sphere centered on that point must make a\
-    \ DC 15 Dexterity saving throw, taking dice:5d6|text(17) (5d6) fire damage\
-    \ on a failed save, or half as much damage on a successful one."
+    \ DC 15 Dexterity saving throw, taking 17 (5d6) fire damage on a failed save,\
+    \ or half as much damage on a successful one."
   "name": "Explosive Bolt (Recharge 5-6)"
 "bonus_actions":
 - "desc": "The clockwork pulls the creature [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\

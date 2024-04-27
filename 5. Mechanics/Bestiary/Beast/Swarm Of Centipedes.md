@@ -56,12 +56,11 @@ aliases:
     \ regain hit points or gain temporary hit points."
   "name": "Swarm"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+3 (+3) to hit, reach 0 ft., one target\
-    \ in the swarm's space. Hit: dice:4d4|text(10) (4d4) piercing damage, or\
-    \ dice:2d4|text(5) (2d4) piercing damage if the swarm has half of its hit\
-    \ points or fewer.\n\nA creature reduced to 0 hit points by a swarm of centipedes\
-    \ is stable but [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for 1 hour,\
-    \ even after regaining hit points, and [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
+- "desc": "Melee Weapon Attack: +3 to hit, reach 0 ft., one target in the swarm's\
+    \ space. Hit: 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm\
+    \ has half of its hit points or fewer.\n\nA creature reduced to 0 hit points by\
+    \ a swarm of centipedes is stable but [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ for 1 hour, even after regaining hit points, and [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
     \ while [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in this way."
   "name": "Bites"
 "source":

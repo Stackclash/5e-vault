@@ -92,16 +92,15 @@ Some individuals see little point in fighting the curse and accept what they are
 "actions":
 - "desc": "The wererat makes two attacks, only one of which can be a bite."
   "name": "Multiattack (Humanoid or Hybrid Form Only)"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d4 + 2|text(4) (1d4 + 2) piercing damage. If the target is\
-    \ a humanoid, it must succeed on a DC 11 Constitution saving throw or be cursed\
-    \ with wererat lycanthropy."
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4\
+    \ + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 11\
+    \ Constitution saving throw or be cursed with wererat lycanthropy."
   "name": "Bite (Rat or Hybrid Form Only)"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d6 + 2|text(5) (1d6 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+    \ + 2) piercing damage."
   "name": "Shortsword (Humanoid or Hybrid Form Only)"
-- "desc": "Ranged Weapon Attack: dice: d20+4 (+4) to hit, range 30/120 ft.,\
-    \ one target. Hit: dice:1d6 + 2|text(5) (1d6 + 2) piercing damage."
+- "desc": "Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit:\
+    \ 5 (1d6 + 2) piercing damage."
   "name": "Hand Crossbow (Humanoid or Hybrid Form Only)"
 "source":
 - "MM"

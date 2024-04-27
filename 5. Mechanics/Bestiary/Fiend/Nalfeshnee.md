@@ -222,11 +222,11 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - "desc": "The nalfeshnee uses Horror Nimbus if it can. It then makes three attacks:\
     \ one with its bite and two with its claws."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+10 (+10) to hit, reach 5 ft., one\
-    \ target. Hit: dice:5d10 + 5|text(32) (5d10 + 5) piercing damage."
+- "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 32 (5d10\
+    \ + 5) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+10 (+10) to hit, reach 10 ft., one\
-    \ target. Hit: dice:3d6 + 5|text(15) (3d6 + 5) slashing damage."
+- "desc": "Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 15\
+    \ (3d6 + 5) slashing damage."
   "name": "Claw"
 - "desc": "The nalfeshnee magically emits scintillating, multicolored light. Each\
     \ creature within 15 feet of the nalfeshnee that can see the light must succeed\

@@ -151,10 +151,9 @@ await dv.view("npcRelationships", { current: dv.current() })
 "cr": "18"
 "traits":
 - "desc": "The Lord of Blades is a 20th-level spellcaster. His spellcasting ability\
-    \ is Intelligence (spell save DC 18, dice: d20+10 (+10) to hit with spell\
-    \ attacks). He has the following artificer spells prepared:\n\nCantrips (at\
-    \ will): [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]] (see \"Actions\" below),\
-    \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Mending.md|mending]],\
+    \ is Intelligence (spell save DC 18, +10 to hit with spell attacks). He has the\
+    \ following artificer spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]]\
+    \ (see \"Actions\" below), [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Mending.md|mending]],\
     \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n1st level (4\
     \ slots): [[5. Mechanics/Spells/Expeditious Retreat.md|expeditious retreat]], [[5. Mechanics/Spells/Sanctuary.md|sanctuary]],\
     \ [[5. Mechanics/Spells/Thunderwave.md|thunderwave]]\n\n2nd level (3 slots):\
@@ -170,15 +169,15 @@ await dv.view("npcRelationships", { current: dv.current() })
 - "desc": "Any critical hit against the Lord of Blades becomes a normal hit."
   "name": "Adamantine Plating"
 - "desc": "A creature that grapples the Lord of Blades or is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ by him takes dice:3d8|text(13) (3d8) slashing damage. A creature takes dice:3d8|text(13)\
-    \ (3d8) slashing damage if it starts its turn grappling or being [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ by him takes 13 (3d8) slashing damage. A creature takes 13 (3d8) slashing damage\
+    \ if it starts its turn grappling or being [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ by the Lord of Blades."
   "name": "Bladed Armor"
 - "desc": "If the Lord of Blades moves at least 10 feet straight toward a target and\
     \ then hits it with his adamantine sixblade on the same turn, the target takes\
-    \ an extra dice:2d10|text(11) (2d10) slashing damage. If the target is a creature,\
-    \ it must succeed on a DC 19 Strength saving throw or be pushed up to 10 feet\
-    \ away and knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ an extra 11 (2d10) slashing damage. If the target is a creature, it must succeed\
+    \ on a DC 19 Strength saving throw or be pushed up to 10 feet away and knocked\
+    \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Charge"
 - "desc": "The Lord of Blades has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]],\
     \ is immune to disease, and magic can't put him to sleep."
@@ -187,16 +186,14 @@ await dv.view("npcRelationships", { current: dv.current() })
 - "desc": "The Lord of Blades makes three attacks: two with his adamantine sixblade\
     \ and one with his bladed wings."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+11 (+11) to hit, reach 10 ft., one\
-    \ target. Hit: dice:3d10 + 5|text(21) (3d10 + 5) slashing damage plus dice:2d6|text(7)\
-    \ (2d6) force damage."
+- "desc": "Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 21\
+    \ (3d10 + 5) slashing damage plus 7 (2d6) force damage."
   "name": "Adamantine Sixblade"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+11 (+11) to hit, reach 5\
-    \ ft. or range 20/60 ft., one target. Hit: dice:1d6 + 5|text(8) (1d6 + 5)\
-    \ slashing damage."
+- "desc": "Melee or Ranged Weapon Attack: +11 to hit, reach 5 ft. or range 20/60\
+    \ ft., one target. Hit: 8 (1d6 + 5) slashing damage."
   "name": "Bladed Wings"
-- "desc": "Ranged Spell Attack: dice: d20+10 (+10) to hit, range 120 ft., one\
-    \ target. Hit: dice:4d10|text(22) (4d10) fire damage."
+- "desc": "Ranged Spell Attack: +10 to hit, range 120 ft., one target. Hit: 22\
+    \ (4d10) fire damage."
   "name": "Fire Bolt (Cantrip)"
 "legendary_actions":
 - "desc": "The Lord of Blades makes one weapon attack."

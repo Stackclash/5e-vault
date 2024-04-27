@@ -46,19 +46,17 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
 "traits":
 - "desc": "If a creature within 60 feet of the sorrowsworn regains hit points, the\
     \ sorrowsworn gains two benefits until the end of its next turn: it has advantage\
-    \ on attack rolls, and its Bite deals an extra dice:4d10|text(22) (4d10) necrotic\
-    \ damage on a hit."
+    \ on attack rolls, and its Bite deals an extra 22 (4d10) necrotic damage on a\
+    \ hit."
   "name": "Life Hunger"
 "actions":
 - "desc": "The sorrowsworn makes one Bite attack and one Claw attack."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d8 + 4|text(8) (1d8 + 4) piercing damage plus dice:3d8|text(13)\
-    \ (3d8) necrotic damage."
+- "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 8 (1d8\
+    \ + 4) piercing damage plus 13 (3d8) necrotic damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+8 (+8) to hit, reach 10 ft., one target.\
-    \ Hit: dice:4d6 + 4|text(18) (4d6 + 4) slashing damage. If the target is\
-    \ Medium or smaller, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+- "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 18 (4d6\
+    \ + 4) slashing damage. If the target is Medium or smaller, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ (escape DC 16), and it is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
     \ until the grapple ends. While grappling a creature, the sorrowsworn can't make\
     \ a Claw attack."

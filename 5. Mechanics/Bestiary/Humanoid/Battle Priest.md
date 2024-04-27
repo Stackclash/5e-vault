@@ -46,13 +46,12 @@ aliases:
 - "desc": "This creature is a Retainer, as described in \"Strongholds and Followers\""
   "name": "Retainer"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d8 + 4|text(8) (1d8 + 4) bludgeoning damage.\n\nAt 7th level,\
-    \ retainers can take two signature attacks per round."
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8\
+    \ + 4) bludgeoning damage.\n\nAt 7th level, retainers can take two signature attacks\
+    \ per round."
   "name": "Signature Attack"
 - "desc": "Prerequisite: 3rd-level retainer\n\nThe Battle Priest casts the [[5. Mechanics/Spells/Spiritual Weapon.md|spiritual\
-    \ weapon]] spell (dice: d20+6 (+6) to\
-    \ hit)."
+    \ weapon]] spell (+6 to hit)."
   "name": "Spiritual Weapon (3/Day)"
 - "desc": "Prerequisite: 5th-level retainer\n\nThe Battle Priest casts the [[5. Mechanics/Spells/Spirit Guardians.md|spirit\
     \ guardians]] spell (spell save DC 14 at\

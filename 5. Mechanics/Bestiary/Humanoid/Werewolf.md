@@ -96,18 +96,16 @@ Some individuals see little point in fighting the curse and accept what they are
 - "desc": "The werewolf makes two attacks: two with its spear (humanoid form) or one\
     \ with its bite and one with its claws (hybrid form)."
   "name": "Multiattack (Humanoid or Hybrid Form Only)"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one target.\
-    \ Hit: dice:1d8 + 2|text(6) (1d8 + 2) piercing damage. If the target is\
-    \ a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed\
-    \ with werewolf lycanthropy."
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8\
+    \ + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 12\
+    \ Constitution saving throw or be cursed with werewolf lycanthropy."
   "name": "Bite (Wolf or Hybrid Form Only)"
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one creature.\
-    \ Hit: dice:2d4 + 2|text(7) (2d4 + 2) slashing damage."
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 7 (2d4\
+    \ + 2) slashing damage."
   "name": "Claws (Hybrid Form Only)"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft.\
-    \ or range 20/60 ft., one creature. Hit: dice:1d6 + 2|text(5) (1d6 + 2)\
-    \ piercing damage, or dice:1d8 + 2|text(6) (1d8 + 2) piercing damage if used\
-    \ with two hands to make a melee attack."
+- "desc": "Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60\
+    \ ft., one creature. Hit: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing\
+    \ damage if used with two hands to make a melee attack."
   "name": "Spear (Humanoid Form Only)"
 "source":
 - "MM"

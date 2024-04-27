@@ -68,12 +68,12 @@ A roper has six nubs set along its body, through which it extrudes sticky tendri
 - "desc": "The roper makes four attacks with its tendrils, uses Reel, and makes one\
     \ attack with its bite."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 5 ft., one target.\
-    \ Hit: dice:4d8 + 4|text(22) (4d8 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 22 (4d8\
+    \ + 4) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7) to hit, reach 50 ft., one creature.\
-    \ Hit: The target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape\
-    \ DC 15). Until the grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
+- "desc": "Melee Weapon Attack: +7 to hit, reach 50 ft., one creature. Hit: The\
+    \ target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 15).\
+    \ Until the grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
     \ and has disadvantage on Strength checks and Strength saving throws, and the\
     \ roper can't use the same tendril on another target."
   "name": "Tendril"

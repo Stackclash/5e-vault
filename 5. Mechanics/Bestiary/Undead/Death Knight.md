@@ -61,8 +61,8 @@ A death knight doesn't require air, food, drink, or sleep.
 "cr": "17"
 "traits":
 - "desc": "The death knight is a 19th-level spellcaster. Its spellcasting ability\
-    \ is Charisma (spell save DC 18, dice: d20+10 (+10) to hit with spell attacks).\
-    \ It has the following paladin spells prepared:\n\n1st level (4 slots): [[5. Mechanics/Spells/Command.md|command]],\
+    \ is Charisma (spell save DC 18, +10 to hit with spell attacks). It has the following\
+    \ paladin spells prepared:\n\n1st level (4 slots): [[5. Mechanics/Spells/Command.md|command]],\
     \ [[5. Mechanics/Spells/Compelled Duel.md|compelled duel]], [[5. Mechanics/Spells/Searing Smite.md|searing smite]]\n\
     \n2nd level (3 slots): [[5. Mechanics/Spells/Hold Person.md|hold person]], [[5. Mechanics/Spells/Magic Weapon.md|magic\
     \ weapon]]\n\n3rd level (3 slots): [[5. Mechanics/Spells/Dispel Magic.md|dispel\
@@ -81,17 +81,15 @@ A death knight doesn't require air, food, drink, or sleep.
 "actions":
 - "desc": "The death knight makes three longsword attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: dice: d20+11 (+11) to hit, reach 5 ft., one\
-    \ target. Hit: dice:1d8 + 5|text(9) (1d8 + 5) slashing damage, or dice:1d10\
-    \ + 5|text(10) (1d10 + 5) slashing damage if used with two hands, plus dice:4d8|text(18)\
-    \ (4d8) necrotic damage."
+- "desc": "Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 9 (1d8\
+    \ + 5) slashing damage, or 10 (1d10 + 5) slashing damage if used with two hands,\
+    \ plus 18 (4d8) necrotic damage."
   "name": "Longsword"
 - "desc": "The death knight hurls a magical ball of fire that explodes at a point\
     \ it can see within 120 feet of it. Each creature in a 20-foot-radius sphere centered\
     \ on that point must make a DC 18 Dexterity saving throw. The sphere spreads around\
-    \ corners. A creature takes dice:10d6|text(35) (10d6) fire damage and dice:10d6|text(35)\
-    \ (10d6) necrotic damage on a failed save, or half as much damage on a successful\
-    \ one."
+    \ corners. A creature takes 35 (10d6) fire damage and 35 (10d6) necrotic damage\
+    \ on a failed save, or half as much damage on a successful one."
   "name": "Hellfire Orb (1/Day)"
 "reactions":
 - "desc": "The death knight adds 6 to its AC against one melee attack that would hit\

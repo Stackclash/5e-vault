@@ -60,16 +60,15 @@ No goodness or compassion resides in the heart of a gnoll. Like a demon, it lack
     \ make a bite attack."
   "name": "Rampage"
 "actions":
-- "desc": "Melee Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft., one creature.\
-    \ Hit: dice:1d4 + 2|text(4) (1d4 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 4 (1d4\
+    \ + 2) piercing damage."
   "name": "Bite"
-- "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4) to hit, reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice:1d6 + 2|text(5) (1d6 + 2) piercing\
-    \ damage, or dice:1d8 + 2|text(6) (1d8 + 2) piercing damage if used with two\
-    \ hands to make a melee attack."
+- "desc": "Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60\
+    \ ft., one target. Hit: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing\
+    \ damage if used with two hands to make a melee attack."
   "name": "Spear"
-- "desc": "Ranged Weapon Attack: dice: d20+3 (+3) to hit, range 150/600 ft.,\
-    \ one target. Hit: dice:1d8 + 1|text(5) (1d8 + 1) piercing damage."
+- "desc": "Ranged Weapon Attack: +3 to hit, range 150/600 ft., one target. Hit:\
+    \ 5 (1d8 + 1) piercing damage."
   "name": "Longbow"
 "source":
 - "MM"
