@@ -18,8 +18,8 @@ CoachCostPerM: 100
 DangerLevel: 3
 FamiliarRoute: true
 PartyMembers: 6
-LifestyleCostSP: 1
-IncludeMeals: false
+LifestyleCostSP: 10
+IncludeMeals: true
 TravelCalc: 14.998875084368672
 ---
 
