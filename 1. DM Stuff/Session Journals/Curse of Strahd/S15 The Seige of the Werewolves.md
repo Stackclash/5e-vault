@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-date: 2024-03-30T00:00:00.000-05:00
+date: 2024-03-30
 summary: The party is attacked in the middle of the night by a band of werewolves led by Kiril Stroyanovich. The party is able to fend off the werewolves and kill their leader, but Seluvis is infected by a bite from one of the werewolves.
 fc-date: 973-2-18
 timelines:

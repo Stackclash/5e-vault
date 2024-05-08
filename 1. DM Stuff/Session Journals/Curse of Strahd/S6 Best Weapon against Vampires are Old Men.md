@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-date: '2023-11-04'
+date: 2023-11-04
 summary: >-
   The party discovers where St. Andral's Bones are kept by talking the Milvoj.
   The bones are protected by a nest of vampire spawn in the house of Henrik, the

@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-date: '2023-12-16'
+date: 2023-12-16
 summary: >-
   The party helps calm an entire town of angry villagers looking for revenger
   against their leader

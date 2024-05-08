@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-date: '2023-09-17'
+date: 2023-09-17
 summary: >-
   Encounters a werewolf outside of Vallaki. They leave one alive and tie them to
   a tree. Once inside of Vallaki they speak to the priest and he confide in them

@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-date: '2023-11-10'
+date: 2023-11-10
 summary: >-
   Everyone is invited to a dinner at Baron Vargas' home. The Baron makes the
   proposition to have Ireena marry their son, Victor. He doesn't want to and
