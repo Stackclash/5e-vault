@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-date: '2023-12-30'
+date: 2023-12-30
 summary: ''
 fc-date: 973-2-16
 timelines:

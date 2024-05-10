@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-date: '2023-11-25'
+date: 2023-11-25
 summary: >-
   The party attends the Festival of the Blazing Sun and when it ultimately falls
   apart a guard laughs at the misfortune. The Baron has him arrested. Yevelda

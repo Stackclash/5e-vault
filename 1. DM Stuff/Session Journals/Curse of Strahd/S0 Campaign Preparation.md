@@ -1,5 +1,5 @@
 ---
-date: 2023-06-24T00:00:00.000-05:00
+date: 2023-06-24
 summary: Went over theme of campaign and characters.
 party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
 ---
