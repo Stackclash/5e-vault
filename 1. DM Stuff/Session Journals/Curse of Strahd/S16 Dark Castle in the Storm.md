@@ -40,4 +40,6 @@ Description
 - The party discovers [[Argynvostholt]] and begin exploring
 - The party finds Savid who was looking for a missing Vistani girl and was hiding from all of the undead
 - The party confronts and fights the mournful 3
-- [[Redgrave]]
+- [[Redgrave]] is able to convince the [[5. Mechanics/Bestiary/Undead/Revenant|Revenant]] that they come in peace
+- The party is brought before [[Vladimir Horngaard]] and was told that [[4. World Almanac/NPCs/Strahd Von Zarovich|Strahd Von Zarovich's]] suffering must not end
+- [[Vladimir Horngaard]] agreed to let them go if they passed a trail. The party walks through a wall of fire
