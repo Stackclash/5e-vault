@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 date: 2024-04-13
-summary:
+summary: 
 fc-date: 973-2-19
 timelines:
   - COS
 aat-render-enabled: true
 fc-category: Session
 party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
-prep-notes:
+prep-notes: "[[1. DM Stuff/Session Prep/Curse of Strahd/2024-04-13.md|2024-04-13]]"
 ---
 > [!infobox]
 > ## Info
@@ -29,7 +29,6 @@ prep-notes:
 
 ## Key Learnings
 - Hearts of werewolves can be used for the cure to lycanthropy and a healing potion
-- [[Seluvis Felo'melorn]] learns that the full
 - Town of Zmei is right next to [[Argynvostholt]] #remember
 
 ## Items Of Importance
@@ -38,4 +37,5 @@ Description
 ## What Happened
 - [[Izek Strazni]] and [[Ireena Kolyana]] stay in [[Van Richten's Tower]] 
 - [[Ezmerelda Davenir]] leaves going east to find Richten
-
+- The party discovers [[Argynvostholt]] and begin exploring
+- 
