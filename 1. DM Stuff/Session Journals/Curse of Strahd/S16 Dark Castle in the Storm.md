@@ -38,4 +38,6 @@ Description
 - [[Izek Strazni]] and [[Ireena Kolyana]] stay in [[Van Richten's Tower]] 
 - [[Ezmerelda Davenir]] leaves going east to find Richten
 - The party discovers [[Argynvostholt]] and begin exploring
-- 
+- The party finds Savid who was looking for a missing Vistani girl and was hiding from all of the undead
+- The party confronts and fights the mournful 3
+- [[Redgrave]]
