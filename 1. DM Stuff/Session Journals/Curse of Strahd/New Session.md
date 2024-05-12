@@ -48,4 +48,6 @@ fc-end: 973-2-19
 	4. Who imprisoned Strahd here?
 - The party discusses whether to bring Savid with them in the [[Bag Of Holding]]
 - They decide to take Savid
-- The party finds [[Redgrave]]/
+- The party finds [[Redgrave]]/Godfry Gwilym's grave
+- [[Marin]] digs up [[Redgrave|Redgrave's]] grave and finds a silver dragon made from silver wire
+- [[Redgrave]] has a flashback when he touched the silver dragon. He had a vision of a really good friend (Emeric). Emeric was leaving to investigate a danger which turned out to be Eludrax, Redgra
