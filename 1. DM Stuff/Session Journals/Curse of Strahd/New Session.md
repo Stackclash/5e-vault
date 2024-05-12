@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 date: 2024-05-11
 summary: 
-fc-date: 
-timelines: 
+fc-date: 973-2-19
+timelines:
+  - CoS
 aat-render-enabled: true
 fc-category: Session
 party: 
 prep-notes: "[[1. DM Stuff/Session Prep/Curse of Strahd/2024-05-11.md|2024-05-11]]"
+fc-end: 973-2-19
 ---
 > [!infobox]
 > ## Info
@@ -28,7 +30,8 @@ prep-notes: "[[1. DM Stuff/Session Prep/Curse of Strahd/2024-05-11.md|2024-05-11
 
 ## Key Learnings
 - It is late summer #remember
-- [[Redgrave]] finds a diary of Godfrey
+- [[Redgrave]] finds a diary of Godfrey Gwilym
+- 
 
 ## Items Of Importance
 Description
