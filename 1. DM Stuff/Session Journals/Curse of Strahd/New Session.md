@@ -33,6 +33,7 @@ fc-end: 973-2-19
 - Magic works in [[Bag Of Holding]]
 - There is no oxygen in [[Bag Of Holding]]
 - Time passes by much faster in [[Bag Of Holding]] (20 seconds = 20 minutes)
+- 
 
 ## Items Of Importance
 - 4 [[Potion Of Invulnerability|potion of Invulnerability]]
@@ -47,3 +48,4 @@ fc-end: 973-2-19
 	4. Who imprisoned Strahd here?
 - The party discusses whether to bring Savid with them in the [[Bag Of Holding]]
 - They decide to take Savid
+- The party finds [[Redgrave]]/
