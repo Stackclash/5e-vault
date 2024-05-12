@@ -28,6 +28,7 @@ prep-notes: "[[1. DM Stuff/Session Prep/Curse of Strahd/2024-05-11.md|2024-05-11
 
 ## Key Learnings
 - It is late summer #remember
+- [[Redgrave]] finds a diary of Godfrey
 
 ## Items Of Importance
 Description
