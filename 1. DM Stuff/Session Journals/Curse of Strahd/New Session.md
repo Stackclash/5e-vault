@@ -50,4 +50,4 @@ fc-end: 973-2-19
 - They decide to take Savid
 - The party finds [[Redgrave]]/Godfry Gwilym's grave
 - [[Marin]] digs up [[Redgrave|Redgrave's]] grave and finds a silver dragon made from silver wire
-- [[Redgrave]] has a flashback when he touched the silver dragon. He had a vision of a really good friend (Emeric). Emeric was leaving to investigate a danger which turned out to be Eludrax, Redgra
+- [[Redgrave]] has a flashback when he touched the silver dragon. He had a vision of a really good friend (Emeric). Emeric was leaving to investigate a danger which turned out to be Eludrax, [[Redgrave|Redgrave's]] creator. Godfrey followed his friend and eventually battles Eludrax.
