@@ -27,8 +27,7 @@ prep-notes: "[[1. DM Stuff/Session Prep/Curse of Strahd/2024-05-11.md|2024-05-11
 `INPUT[textArea:summary]`
 
 ## Key Learnings
-Description of any important information that the party learned.
-Who Did They Meet?
+- It is late summer #remember
 
 ## Items Of Importance
 Description
