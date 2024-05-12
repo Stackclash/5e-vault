@@ -30,7 +30,9 @@ fc-end: 973-2-19
 
 ## Key Learnings
 - It is late summer #remember
-- 
+- Magic works in [[Bag Of Holding]]
+- There is no oxygen in [[Bag Of Holding]]
+- Time passes by much faster in [[Bag Of Holding]] (20 seconds = 20 minutes)
 
 ## Items Of Importance
 - 4 [[Potion Of Invulnerability|potion of Invulnerability]]
@@ -43,3 +45,5 @@ fc-end: 973-2-19
 	2. What were you doing here?
 	3. Why can the Vistani leave?
 	4. Who imprisoned Strahd here?
+- The party discusses whether to bring Savid with them in the [[Bag Of Holding]]
+- They decide to take Savid
