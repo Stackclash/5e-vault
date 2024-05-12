@@ -37,3 +37,4 @@ fc-end: 973-2-19
 
 ## What Happened
 - [[Redgrave]] finds a diary of Godfrey Gwilym
+- [[Marin]] casts [[Speak With Dead]] 
