@@ -37,5 +37,9 @@ fc-end: 973-2-19
 
 ## What Happened
 - [[Redgrave]] finds a diary of Godfrey Gwilym
-- Savid was killed by something while the party was 
-- [[Marin]] casts [[Speak With Dead]] 
+- Savid was killed by something while the party was away
+- [[Marin]] casts [[Speak With Dead]] on Savid and asks the following questions:
+	1. What killed you?
+	2. What were you doing here?
+	3. Why can the Vistani leave?
+	4. Who imprisoned Strahd here?
