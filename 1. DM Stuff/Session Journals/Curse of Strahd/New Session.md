@@ -33,4 +33,4 @@ prep-notes: "[[1. DM Stuff/Session Prep/Curse of Strahd/2024-05-11.md|2024-05-11
 Description
 
 ## What Happened
-Small description.
+- Redgrave 
