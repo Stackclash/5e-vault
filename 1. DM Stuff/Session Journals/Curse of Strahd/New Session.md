@@ -4,7 +4,7 @@ date: 2024-05-11
 summary: 
 fc-date: 973-2-19
 timelines:
-  - CoS
+  - COS
 aat-render-enabled: true
 fc-category: Session
 party: 
@@ -30,11 +30,10 @@ fc-end: 973-2-19
 
 ## Key Learnings
 - It is late summer #remember
-- [[Redgrave]] finds a diary of Godfrey Gwilym
 - 
 
 ## Items Of Importance
-Description
+- 4 [[Potion Of Invulnerability|potion of Invulnerability]]
 
 ## What Happened
-- Redgrave 
+- [[Redgrave]] finds a diary of Godfrey Gwilym
