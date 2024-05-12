@@ -37,4 +37,5 @@ fc-end: 973-2-19
 
 ## What Happened
 - [[Redgrave]] finds a diary of Godfrey Gwilym
+- Savid was killed by something while the party was 
 - [[Marin]] casts [[Speak With Dead]] 
