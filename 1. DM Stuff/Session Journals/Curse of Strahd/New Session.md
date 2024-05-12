@@ -9,7 +9,7 @@ aat-render-enabled: true
 fc-category: Session
 party: 
 prep-notes: "[[1. DM Stuff/Session Prep/Curse of Strahd/2024-05-11.md|2024-05-11]]"
-fc-end: 973-2-19
+fc-end: 973-2-20
 ---
 > [!infobox]
 > ## Info
