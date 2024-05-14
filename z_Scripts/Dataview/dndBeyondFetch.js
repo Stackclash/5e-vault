@@ -1,7 +1,9 @@
+const fs = require('fs')
+
 const dndBeyondId = input.id
 const dndBeyondUrl = `https://character-service.dndbeyond.com/character/v5/character/${dndBeyondId}`
-console.log(dndBeyondUrl)
 
-const data = await request(dndBeyondUrl).json()
+const data = JSON.parse(await request(dndBeyondUrl)).data
 
-console.log(typeof data)
+fs.writeFileSync('test.json', JSON.stringify(data))
+console.log('done')
