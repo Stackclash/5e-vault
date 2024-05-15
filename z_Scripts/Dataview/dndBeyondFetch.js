@@ -27,11 +27,10 @@ class DnDBeyondCharacter {
         9: 'Chaotic Evil'
     }
 
-    id;
-
+    #id;
 
     constructor(id) {
-        this.id = id
+        this.#id = id
     }
 
     async initialize() {
@@ -41,4 +40,6 @@ class DnDBeyondCharacter {
     }
 }
 
-console.log(DnDBeyondCharacter)
+const character = new DnDBeyondCharacter(dndBeyondId)
+
+console.log(character.id)
