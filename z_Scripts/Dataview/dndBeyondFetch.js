@@ -29,6 +29,15 @@ class DnDBeyondCharacter {
 
     #id;
 
+    stats = {
+        str: 0,
+        dex: 0,
+        con: 0,
+        int: 0,
+        wis: 0,
+        cha: 0
+    }
+
     constructor(id) {
         this.#id = id
     }
@@ -36,10 +45,22 @@ class DnDBeyondCharacter {
     async initialize() {
         const data = JSON.parse(await request(`https://character-service.dndbeyond.com/character/v5/character/${dndBeyondId}`)).data
 
+        this.#buildStats(data)
+    }
 
+    #buildStats(data) {
+        this.stats.str = this.#buildStat(1, data)
+    }
+
+    #buildStat(statId, data) {
+        statValue = data.stats.find(s => s.id === statId).value
+        statValue += data.bonusStats.find(s => s.id === statId).value
+        statValue += data.modifiers.race.find(s => s.type === 'bonus' && s.entityId === statId).value
+        statValue += data.modifiers.class.find(s => s.type === 'bonus' && s.entityId === statId).value
+        return statValue
     }
 }
 
-const character = new DnDBeyondCharacter(dndBeyondId)
+const character = new DnDBeyondCharacter(dndBeyondId).initialize()
 
-console.log(character.id)
+console.log(character)
