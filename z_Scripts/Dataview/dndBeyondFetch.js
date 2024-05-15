@@ -53,7 +53,8 @@ class DnDBeyondCharacter {
     }
 
     #buildStat(statId, data) {
-        statValue = data.stats.find(s => s.id === statId).value
+        console.log(data.bonusStats.find(s => s.id === statId))
+        let statValue = data.stats.find(s => s.id === statId).value
         statValue += data.bonusStats.find(s => s.id === statId).value
         statValue += data.modifiers.race.find(s => s.type === 'bonus' && s.entityId === statId).value
         statValue += data.modifiers.class.find(s => s.type === 'bonus' && s.entityId === statId).value
@@ -61,6 +62,9 @@ class DnDBeyondCharacter {
     }
 }
 
-const character = new DnDBeyondCharacter(dndBeyondId).initialize()
+const character = new DnDBeyondCharacter(dndBeyondId)
 
-console.log(character)
+character.initialize()
+.then(() => {
+    console.log(character)
+})
