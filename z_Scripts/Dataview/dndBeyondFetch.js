@@ -1,9 +1,9 @@
+const fs = require('fs')
 const util = require('util')
 util.inspect.defaultOptions.getters = true
 util.inspect.defaultOptions.depth = 20
 
-const dndBeyondId = 29682199
-
+const dndBeyondId = 118587843
 
 class DnDBeyondCharacter {
 
@@ -80,7 +80,27 @@ class DnDBeyondCharacter {
     this.#id = id
     Object.defineProperties(this, {
       modifiers: {
-        get: () => Object.entries(this.#data.modifiers).reduce((accum, [key, value]) => accum.concat(value), [])
+        get: () => Object.entries(this.#data.modifiers).reduce((accum, [key, value]) => {
+          const activeFormattedMods = value.map(mod => ({
+            entityId: mod.entityId,
+            modType: key,
+            type: mod.type,
+            subType: mod.subType,
+            value: mod.value,
+            componentId: mod.componentId,
+            friendlyTypeName: mod.friendlyTypeName,
+            restriction: mod.restriction
+          }))
+          .filter(mod => {
+            if (mod.modType === 'item') {
+              return this.inventory.some(inv => inv.id === mod.componentId && (inv.canEquip ? inv.equipped : true) && (inv.canAttune ? inv.isAttuned : true))
+            } else {
+              return true
+            }
+          })
+          
+          return accum.concat(activeFormattedMods)
+        }, [])
       },
       url: {
         get: () => this.#data.readonlyUrl,
@@ -110,14 +130,16 @@ class DnDBeyondCharacter {
         get: () => this.classes.reduce((accum, dndClass) => accum + dndClass.level, 0),
         enumerable: true
       },
-      // Still needs farther calculation
-      // Can't find extra modifiers
       hp: {
-        get: () => ({
-          baseValue: this.#data.baseHitPoints,
-          current: this.#data.baseHitPoints + this.#data.temporaryHitPoints - this.#data.removedHitPoints,
-          temporary: this.#data.temporaryHitPoints
-        }),
+        get: () => {
+          const maxHp = Math.floor(this.#data.baseHitPoints + (this.level * this.abilityScores.constitution.modifier))
+
+          return {
+            max: maxHp,
+            current: maxHp + this.#data.temporaryHitPoints - this.#data.removedHitPoints,
+            temporary: this.#data.temporaryHitPoints
+          }
+        },
         enumerable: true
       },
       // Still needs farther calculation
@@ -132,8 +154,26 @@ class DnDBeyondCharacter {
         },
         enumerable: true
       },
+      initiative: {
+        get: () => this.abilityScores.dexterity.modifier,
+        enumerable: true
+      },
       alignment: {
         get: () => DnDBeyondCharacter.ALIGNMENT[this.#data.alignmentId],
+        enumerable: true
+      },
+      background: {
+        get: () => ({
+          background: {
+            name: this.#data.background.definition.name,
+            description: this.#data.background.definition.shortDescription
+          },
+          backstory: this.#data.notes.backstory,
+          organizations: this.#data.notes.organizations,
+          allies: this.#data.notes.allies,
+          enemies: this.#data.notes.enemies,
+          notes: this.#data.notes.otherNotes
+        }),
         enumerable: true
       },
       proficiencyBonus: {
@@ -172,7 +212,6 @@ class DnDBeyondCharacter {
         },
         enumerable: true
       },
-      // Need to toggle adding modifiers when an item is removed
       savingThrows: {
         get: () => {
           let savingThrows = Object.entries(DnDBeyondCharacter.ABILITY_SCORES).reduce((accum, [key, value]) => {
@@ -230,11 +269,14 @@ class DnDBeyondCharacter {
       inventory: {
         get: () => {
           return this.#data.inventory.map(inv => ({
+            id: inv.definition.id,
             name: inv.definition.name,
             type: inv.definition.filterType,
             quantity: inv.quantity,
             equipped: inv.equipped,
-            isAttuned: inv.isAttuned
+            isAttuned: inv.isAttuned,
+            canAttune: inv.definition.canAttune,
+            canEquip: inv.definition.canEquip
           }))
         },
         enumerable: true
@@ -259,5 +301,6 @@ const character = new DnDBeyondCharacter(dndBeyondId)
 
 character.initialize()
 .then(() => {
-  console.log(character)
+  // console.log(character)
+  fs.writeFileSync('test.json', JSON.stringify(character))
 })
