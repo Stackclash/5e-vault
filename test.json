@@ -1,1 +1,546 @@
-{"url":"https://dndbeyond.com/characters/118587843","image":"https://www.dndbeyond.com/avatars/21222/127/637708177804446295.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp","race":{"name":"Dragonborn","sub":null,"fullName":"Dragonborn"},"gender":null,"age":null,"level":1,"hp":{"max":7,"current":7,"temporary":0},"armorClass":{"baseValue":12},"initiative":2,"alignment":"Neutral Evil","background":{"background":{"name":"Sage","description":"<p>You spent years learning the lore of the multiverse. You scoured manuscripts, studied scrolls, and listened to the greatest experts on the subjects that interest you. Your efforts have made you a master in your fields of study.</p>"},"backstory":null,"organizations":null,"allies":null,"enemies":null,"notes":null},"proficiencyBonus":2,"classes":[{"name":"Sorcerer","subClass":"Draconic Bloodline","level":1}],"abilityScores":{"strength":{"value":14,"modifier":2},"dexterity":{"value":14,"modifier":2},"constitution":{"value":13,"modifier":1},"intelligence":{"value":10,"modifier":0},"wisdom":{"value":8,"modifier":-1},"charisma":{"value":16,"modifier":3}},"savingThrows":{"strength":{"value":2,"baseValue":2,"proficiency":false},"dexterity":{"value":2,"baseValue":2,"proficiency":false},"constitution":{"value":3,"baseValue":1,"proficiency":true},"intelligence":{"value":0,"baseValue":0,"proficiency":false},"wisdom":{"value":-1,"baseValue":-1,"proficiency":false},"charisma":{"value":5,"baseValue":3,"proficiency":true},"notes":[]},"skills":{"acrobatics":{"value":2,"baseValue":2,"proficiency":false,"expertise":false,"disadvantage":false,"advantage":false,"notes":[]},"animal-handling":{"value":1,"baseValue":-1,"proficiency":true,"expertise":false,"disadvantage":false,"advantage":false,"notes":[]},"arcana":{"value":2,"baseValue":0,"proficiency":true,"expertise":false,"disadvantage":false,"advantage":false,"notes":[]},"athletics":{"value":2,"baseValue":2,"proficiency":false,"expertise":false,"disadvantage":false,"advantage":false,"notes":[]},"deception":{"value":3,"baseValue":3,"proficiency":false,"expertise":false,"disadvantage":false,"advantage":false,"notes":[]},"history":{"value":2,"baseValue":0,"proficiency":true,"expertise":false,"disadvantage":false,"advantage":false,"notes":[]},"insight":{"value":1,"baseValue":-1,"proficiency":true,"expertise":false,"disadvantage":false,"advantage":false,"notes":[]},"intimidation":{"value":3,"baseValue":3,"proficiency":false,"expertise":false,"disadvantage":false,"advantage":false,"notes":[]},"investigation":{"value":0,"baseValue":0,"proficiency":false,"expertise":false,"disadvantage":false,"advantage":false,"notes":[]},"medicine":{"value":-1,"baseValue":-1,"proficiency":false,"expertise":false,"disadvantage":false,"advantage":false,"notes":[]},"nature":{"value":0,"baseValue":0,"proficiency":false,"expertise":false,"disadvantage":false,"advantage":false,"notes":[]},"perception":{"value":-1,"baseValue":-1,"proficiency":false,"expertise":false,"disadvantage":false,"advantage":false,"notes":[]},"performance":{"value":3,"baseValue":3,"proficiency":false,"expertise":false,"disadvantage":false,"advantage":false,"notes":[]},"persuasion":{"value":3,"baseValue":3,"proficiency":false,"expertise":false,"disadvantage":false,"advantage":false,"notes":[]},"religion":{"value":0,"baseValue":0,"proficiency":false,"expertise":false,"disadvantage":false,"advantage":false,"notes":[]},"sleight-of-hand":{"value":2,"baseValue":2,"proficiency":false,"expertise":false,"disadvantage":false,"advantage":false,"notes":[]},"stealth":{"value":2,"baseValue":2,"proficiency":false,"expertise":false,"disadvantage":false,"advantage":false,"notes":[]},"survival":{"value":-1,"baseValue":-1,"proficiency":false,"expertise":false,"disadvantage":false,"advantage":false,"notes":[]}},"spells":[{"name":"Control Flames","isPrepared":false},{"name":"Fire Bolt","isPrepared":false},{"name":"Create Bonfire","isPrepared":false},{"name":"Message","isPrepared":false},{"name":"Shield","isPrepared":false},{"name":"Magic Missile","isPrepared":false}],"inventory":[{"id":3,"name":"Dagger","type":"Weapon","quantity":1,"equipped":false,"isAttuned":false,"canAttune":false,"canEquip":true},{"id":3,"name":"Dagger","type":"Weapon","quantity":1,"equipped":false,"isAttuned":false,"canAttune":false,"canEquip":true},{"id":15,"name":"Crossbow, light","type":"Weapon","quantity":1,"equipped":false,"isAttuned":false,"canAttune":false,"canEquip":true},{"id":3,"name":"Crossbow Bolts","type":"Other Gear","quantity":20,"equipped":false,"isAttuned":false,"canAttune":false,"canEquip":true},{"id":9,"name":"Ink (1 ounce bottle)","type":"Other Gear","quantity":1,"equipped":false,"isAttuned":false,"canAttune":false,"canEquip":false},{"id":20,"name":"Backpack","type":"Other Gear","quantity":1,"equipped":false,"isAttuned":false,"canAttune":false,"canEquip":true},{"id":38,"name":"Clothes, Common","type":"Other Gear","quantity":1,"equipped":false,"isAttuned":false,"canAttune":false,"canEquip":false},{"id":154,"name":"Wand","type":"Other Gear","quantity":1,"equipped":false,"isAttuned":false,"canAttune":false,"canEquip":false},{"id":212,"name":"Small Knife","type":"Other Gear","quantity":1,"equipped":false,"isAttuned":false,"canAttune":false,"canEquip":false},{"id":24,"name":"Bedroll","type":"Other Gear","quantity":1,"equipped":false,"isAttuned":false,"canAttune":false,"canEquip":false},{"id":61,"name":"Mess Kit","type":"Other Gear","quantity":1,"equipped":false,"isAttuned":false,"canAttune":false,"canEquip":false},{"id":75,"name":"Rations (1 day)","type":"Other Gear","quantity":10,"equipped":false,"isAttuned":false,"canAttune":false,"canEquip":false},{"id":77,"name":"Rope, Hempen (50 feet)","type":"Other Gear","quantity":1,"equipped":false,"isAttuned":false,"canAttune":false,"canEquip":false},{"id":90,"name":"Tinderbox","type":"Other Gear","quantity":1,"equipped":false,"isAttuned":false,"canAttune":false,"canEquip":false},{"id":91,"name":"Torch","type":"Other Gear","quantity":10,"equipped":false,"isAttuned":false,"canAttune":false,"canEquip":false},{"id":92,"name":"Waterskin","type":"Other Gear","quantity":1,"equipped":false,"isAttuned":false,"canAttune":false,"canEquip":false}]}
+{
+  "url": "https://dndbeyond.com/characters/29682199",
+  "image": "https://www.dndbeyond.com/avatars/10846/680/1581111423-29682199.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp",
+  "race": {
+    "name": "Envoy",
+    "sub": "Warforged",
+    "fullName": "Warforged Envoy"
+  },
+  "gender": "",
+  "age": null,
+  "level": 6,
+  "hp": {
+    "max": 45,
+    "current": 45,
+    "temporary": 0
+  },
+  "size": "",
+  "speed": "",
+  "armorClass": 29,
+  "initiative": -1,
+  "alignment": "Neutral Good",
+  "background": {
+    "background": {
+      "name": "Guild Artisan / Guild Merchant",
+      "description": "<p>You are a member of an artisan’s guild, skilled in a particular field and closely associated with other artisans. You are a well-established part of the mercantile world, freed by talent and wealth from the constraints of a feudal social order. You learned your skills as an apprentice to a master artisan, under the sponsorship of your guild, until you became a master in your own right.</p>"
+    },
+    "backstory": "Forged in lightning and blood by the dark wizard Eludrax, \"Eight\" was born. The wizard's thirst for eternal life led him not to the cultivation of a new fleshy body, but a perfect one of his own design.\nUsing ancient techniques from lands quite distant, Eludrax forged machines for his allies war efforts. Nothing, however, could keep him from his true life's work.\n\n---\n\nIt was the eighth of Eludrax's shield guardians, and thus aptly named. \n\nMost of of the Lich's constructs bore no soul of their own, merely mindless automatons for his own bidding. He would often pluck lost souls from Limbo and twist and torture them to suit his machinations. \n\nBut the eight were different. They were his personal bodyguards, improved physically in every way, and candidates for his transference of life. Most importantly, they were devoid of soul.\n\nAt the aging dark wizard's command the constructs committed unspeakable atrocities. They were the harbingers of his dirty work, and Eludrax was not above committing horrors in the name of his research.\n\nEight was his magnum opus, and thus his intended vessel. His plan to transfer his own soul into the guardian was made haste, however, as Eludrax awoke one night to an adventurer's group tearing through his laboratory. He commanded Eight to follow, sending the other seven to combat the coming threat. \n\nHe clamored as fast as he could to the dark crystal machine intended to bind his soul into his vessel,  and spilled his blood on the dais with a quick slice to the palm. He grasped Eight's cool metal hand, and forced it onto the crystal. Thus, the dark ritual began. Eludrax's eyes went white as his spirit was ripped from his body and absorbed into the orb. \n\nWhat he miscalculated, however, was that a soul already existed inside his creation. It was faint, beaten down by years of cruelty and transgression, but there nonetheless.\n\nThe Lich's powerful spirit growled menacingly as it reached out to pluck the soul from Eight. Before he could, however, a burst of radiance appeared to encapsulate the soul. Eludrax's fury burned hot, but was not strong enough to pierce the veil of light. \n\nTime was not on the dark wizard's side. The party that'd breached his laboratory had finally made it into this sanctum. The group exchanged quick words, deliberating on their plan of action. Before their sorcerer could cry out, however, the paladin raised her mace and brought it crashing down on the large swirling crystal. As it shattered, the wizard's soul was cast into limbo, spiraling out of the material plane with a guttural scream.\n\n\"Am I...?\" Eight spoke aloud with a sound of relief, before collapsing to the cold stone floor with a hearty thud. \n\n---\n\nEight awoke to the stench of burning and the feel of a warm hand against its cold metal chest. In the distance the tower it'd known as its home, the place of its creation, was fervently ablaze.\n\n\"Can it understand us?\" One of the adventurers pondered out loud. \nEight nodded in response \n\nThe woman whose hand was pulsating over it with life magic leaned in a bit closer to its face.\n\"So, do you have a name?\" She asked in a soft voice, curiously, as if she were talking to a child.\n\nEight looked down at the ground, then back at the burning spire behind him. \n\n\"Redgrave,\" it muttered quietly, then returned its gaze to hers. \n\n\"My name is Redgrave.\"\n\n\"Like that tower?\" One of the men in the group asked questioningly. \n\n\"Yes,\" the forged known formerly as Eight responded.\n\"So that I may never forget what happened here.\" \n",
+    "organizations": "Forgemaster of Gond\nCleric of The Watchers over the Fallen\nArtisan's Guild Adept\n\n",
+    "allies": null,
+    "enemies": null,
+    "notes": "Since its severing from Eludrax, Redgrave has traveled the countryside with wanderlust. It was eventually taken in by an artisan's guild, and trained even further by their master craftsmen. It was quite gifted in the trade, fitting in relation to its own creation. \n\nIt found its calling in reverence to Gond, father of all smiths. It felt if nothing else, it owed its very existence to the Wonderbringer. It took solace in the fact that every one of its crafts gained it favor with its patron.\n\nLike its former master it was driven to create automatons. Its creations however were on a much smaller scale. It would often forge clockwork toys or pets, and funded its travels by selling them to wealthy families.\n\nIts smithing work in creating and embellishing arms and armor was also quite valued. No matter where it traveled, it was often easy to find work in its trade. \n\nRedgrave had avoided martial combat for years,  mostly because of its dark past. Though as fate would have it, it eventually came to find its place as the quartermaster for a group of battle healers known as the Watchers over the Fallen. It was they who taught Redgrave to embrace the light that'd been within it since the beginning of its creation. They would eventually teach it how to use that light, its god's favor, and wield it like a weapon with one hand and a blessing with the other. Through the radiance of Helm, The Vigilant One, it would be a stalwart shield to his allies.\n\nRedgrave eventually parted ways from the ranks of the Watchers, choosing to forge its own path. Its life's work was to atone for the atrocities it partook in during its servitude to the dark wizard. With peace in the land quickly deteriorating, and dark forces starting to rise once more, Redgrave set out on a new direction. It was going to take the fight to those who subjugate others, and strike them down with the divine wrath granted to it by the gods. \n\n\n"
+  },
+  "proficiencyBonus": 3,
+  "classes": [
+    {
+      "name": "Cleric",
+      "subClass": "Forge Domain",
+      "level": 6
+    }
+  ],
+  "abilityScores": {
+    "strength": {
+      "value": 15,
+      "modifier": 2
+    },
+    "dexterity": {
+      "value": 8,
+      "modifier": -1
+    },
+    "constitution": {
+      "value": 14,
+      "modifier": 2
+    },
+    "intelligence": {
+      "value": 12,
+      "modifier": 1
+    },
+    "wisdom": {
+      "value": 14,
+      "modifier": 2
+    },
+    "charisma": {
+      "value": 10,
+      "modifier": 0
+    }
+  },
+  "savingThrows": {
+    "strength": {
+      "value": 3,
+      "baseValue": 2,
+      "proficiency": false
+    },
+    "dexterity": {
+      "value": 0,
+      "baseValue": -1,
+      "proficiency": false
+    },
+    "constitution": {
+      "value": 3,
+      "baseValue": 2,
+      "proficiency": false
+    },
+    "intelligence": {
+      "value": 2,
+      "baseValue": 1,
+      "proficiency": false
+    },
+    "wisdom": {
+      "value": 6,
+      "baseValue": 2,
+      "proficiency": true
+    },
+    "charisma": {
+      "value": 4,
+      "baseValue": 0,
+      "proficiency": true
+    },
+    "notes": [
+      "Advantage Against Poison"
+    ]
+  },
+  "skills": {
+    "acrobatics": {
+      "value": -1,
+      "baseValue": -1,
+      "proficiency": false,
+      "expertise": false,
+      "disadvantage": false,
+      "advantage": false,
+      "notes": []
+    },
+    "animal-handling": {
+      "value": 2,
+      "baseValue": 2,
+      "proficiency": false,
+      "expertise": false,
+      "disadvantage": false,
+      "advantage": false,
+      "notes": []
+    },
+    "arcana": {
+      "value": 1,
+      "baseValue": 1,
+      "proficiency": false,
+      "expertise": false,
+      "disadvantage": false,
+      "advantage": false,
+      "notes": []
+    },
+    "athletics": {
+      "value": 2,
+      "baseValue": 2,
+      "proficiency": false,
+      "expertise": false,
+      "disadvantage": false,
+      "advantage": false,
+      "notes": []
+    },
+    "deception": {
+      "value": 0,
+      "baseValue": 0,
+      "proficiency": false,
+      "expertise": false,
+      "disadvantage": false,
+      "advantage": false,
+      "notes": []
+    },
+    "history": {
+      "value": 1,
+      "baseValue": 1,
+      "proficiency": false,
+      "expertise": false,
+      "disadvantage": false,
+      "advantage": false,
+      "notes": []
+    },
+    "insight": {
+      "value": 2,
+      "baseValue": 2,
+      "proficiency": false,
+      "expertise": false,
+      "disadvantage": false,
+      "advantage": false,
+      "notes": []
+    },
+    "intimidation": {
+      "value": 0,
+      "baseValue": 0,
+      "proficiency": false,
+      "expertise": false,
+      "disadvantage": false,
+      "advantage": false,
+      "notes": []
+    },
+    "investigation": {
+      "value": 1,
+      "baseValue": 1,
+      "proficiency": false,
+      "expertise": false,
+      "disadvantage": false,
+      "advantage": false,
+      "notes": []
+    },
+    "medicine": {
+      "value": 2,
+      "baseValue": 2,
+      "proficiency": false,
+      "expertise": false,
+      "disadvantage": false,
+      "advantage": false,
+      "notes": []
+    },
+    "nature": {
+      "value": 1,
+      "baseValue": 1,
+      "proficiency": false,
+      "expertise": false,
+      "disadvantage": false,
+      "advantage": false,
+      "notes": []
+    },
+    "perception": {
+      "value": 2,
+      "baseValue": 2,
+      "proficiency": false,
+      "expertise": false,
+      "disadvantage": false,
+      "advantage": false,
+      "notes": []
+    },
+    "performance": {
+      "value": 0,
+      "baseValue": 0,
+      "proficiency": false,
+      "expertise": false,
+      "disadvantage": false,
+      "advantage": false,
+      "notes": []
+    },
+    "persuasion": {
+      "value": 0,
+      "baseValue": 0,
+      "proficiency": false,
+      "expertise": false,
+      "disadvantage": false,
+      "advantage": false,
+      "notes": []
+    },
+    "religion": {
+      "value": 1,
+      "baseValue": 1,
+      "proficiency": false,
+      "expertise": false,
+      "disadvantage": false,
+      "advantage": false,
+      "notes": []
+    },
+    "sleight-of-hand": {
+      "value": -1,
+      "baseValue": -1,
+      "proficiency": false,
+      "expertise": false,
+      "disadvantage": false,
+      "advantage": false,
+      "notes": []
+    },
+    "stealth": {
+      "value": -1,
+      "baseValue": -1,
+      "proficiency": false,
+      "expertise": false,
+      "disadvantage": true,
+      "advantage": false,
+      "notes": []
+    },
+    "survival": {
+      "value": 2,
+      "baseValue": 2,
+      "proficiency": false,
+      "expertise": false,
+      "disadvantage": false,
+      "advantage": false,
+      "notes": []
+    }
+  },
+  "spells": [
+    {
+      "name": "Cure Wounds",
+      "isPrepared": true
+    },
+    {
+      "name": "Healing Word",
+      "isPrepared": true
+    },
+    {
+      "name": "Sacred Flame",
+      "isPrepared": false
+    },
+    {
+      "name": "Thaumaturgy",
+      "isPrepared": false
+    },
+    {
+      "name": "Word of Radiance",
+      "isPrepared": false
+    },
+    {
+      "name": "Spiritual Weapon",
+      "isPrepared": true
+    },
+    {
+      "name": "Spirit Guardians",
+      "isPrepared": true
+    },
+    {
+      "name": "Mending",
+      "isPrepared": false
+    },
+    {
+      "name": "Zone of Truth",
+      "isPrepared": true
+    },
+    {
+      "name": "Silence",
+      "isPrepared": true
+    },
+    {
+      "name": "Daylight",
+      "isPrepared": true
+    },
+    {
+      "name": "Revivify",
+      "isPrepared": true
+    },
+    {
+      "name": "Remove Curse",
+      "isPrepared": true
+    },
+    {
+      "name": "Detect Evil and Good",
+      "isPrepared": true
+    }
+  ],
+  "inventory": [
+    {
+      "id": 4607,
+      "name": "Cloak of Protection",
+      "type": "Wondrous item",
+      "quantity": 1,
+      "equipped": true,
+      "isAttuned": true,
+      "canAttune": true,
+      "canEquip": true,
+      "armorClass": null
+    },
+    {
+      "id": 662845,
+      "name": "Heavy Plating",
+      "type": "Armor",
+      "quantity": 1,
+      "equipped": true,
+      "isAttuned": false,
+      "canAttune": false,
+      "canEquip": true,
+      "armorClass": 16
+    },
+    {
+      "id": 8,
+      "name": "Shield",
+      "type": "Armor",
+      "quantity": 1,
+      "equipped": true,
+      "isAttuned": false,
+      "canAttune": false,
+      "canEquip": true,
+      "armorClass": 2
+    },
+    {
+      "id": 8,
+      "name": "Javelin",
+      "type": "Weapon",
+      "quantity": 6,
+      "equipped": true,
+      "isAttuned": false,
+      "canAttune": false,
+      "canEquip": true,
+      "armorClass": null
+    },
+    {
+      "id": 11,
+      "name": "Mace",
+      "type": "Weapon",
+      "quantity": 1,
+      "equipped": true,
+      "isAttuned": false,
+      "canAttune": false,
+      "canEquip": true,
+      "armorClass": null
+    },
+    {
+      "id": 12,
+      "name": "Quarterstaff",
+      "type": "Weapon",
+      "quantity": 1,
+      "equipped": true,
+      "isAttuned": false,
+      "canAttune": false,
+      "canEquip": true,
+      "armorClass": null
+    },
+    {
+      "id": 14,
+      "name": "Spear",
+      "type": "Weapon",
+      "quantity": 1,
+      "equipped": false,
+      "isAttuned": false,
+      "canAttune": false,
+      "canEquip": true,
+      "armorClass": null
+    },
+    {
+      "id": 20,
+      "name": "Backpack",
+      "type": "Other Gear",
+      "quantity": 1,
+      "equipped": false,
+      "isAttuned": false,
+      "canAttune": false,
+      "canEquip": true,
+      "armorClass": null
+    },
+    {
+      "id": 71,
+      "name": "Potion of Healing",
+      "type": "Other Gear",
+      "quantity": 0,
+      "equipped": false,
+      "isAttuned": false,
+      "canAttune": false,
+      "canEquip": false,
+      "armorClass": null
+    },
+    {
+      "id": 92,
+      "name": "Waterskin",
+      "type": "Other Gear",
+      "quantity": 1,
+      "equipped": false,
+      "isAttuned": false,
+      "canAttune": false,
+      "canEquip": false,
+      "armorClass": null
+    },
+    {
+      "id": 115,
+      "name": "Smith's Tools",
+      "type": "Other Gear",
+      "quantity": 1,
+      "equipped": false,
+      "isAttuned": false,
+      "canAttune": false,
+      "canEquip": false,
+      "armorClass": null
+    },
+    {
+      "id": 213,
+      "name": "Holy Symbol",
+      "type": "Other Gear",
+      "quantity": 1,
+      "equipped": false,
+      "isAttuned": false,
+      "canAttune": false,
+      "canEquip": false,
+      "armorClass": null
+    },
+    {
+      "id": 4797,
+      "name": "Wand of Secrets",
+      "type": "Wand",
+      "quantity": 1,
+      "equipped": false,
+      "isAttuned": false,
+      "canAttune": false,
+      "canEquip": true,
+      "armorClass": null
+    },
+    {
+      "id": 24,
+      "name": "Bedroll",
+      "type": "Other Gear",
+      "quantity": 1,
+      "equipped": false,
+      "isAttuned": false,
+      "canAttune": false,
+      "canEquip": false,
+      "armorClass": null
+    },
+    {
+      "id": 61,
+      "name": "Mess Kit",
+      "type": "Other Gear",
+      "quantity": 1,
+      "equipped": false,
+      "isAttuned": false,
+      "canAttune": false,
+      "canEquip": false,
+      "armorClass": null
+    },
+    {
+      "id": 77,
+      "name": "Rope, Hempen (50 feet)",
+      "type": "Other Gear",
+      "quantity": 1,
+      "equipped": false,
+      "isAttuned": false,
+      "canAttune": false,
+      "canEquip": false,
+      "armorClass": null
+    },
+    {
+      "id": 90,
+      "name": "Tinderbox",
+      "type": "Other Gear",
+      "quantity": 1,
+      "equipped": false,
+      "isAttuned": false,
+      "canAttune": false,
+      "canEquip": false,
+      "armorClass": null
+    },
+    {
+      "id": 91,
+      "name": "Torch",
+      "type": "Other Gear",
+      "quantity": 10,
+      "equipped": false,
+      "isAttuned": false,
+      "canAttune": false,
+      "canEquip": false,
+      "armorClass": null
+    },
+    {
+      "id": 112,
+      "name": "Mason's Tools",
+      "type": "Other Gear",
+      "quantity": 1,
+      "equipped": false,
+      "isAttuned": false,
+      "canAttune": false,
+      "canEquip": false,
+      "armorClass": null
+    },
+    {
+      "id": 116,
+      "name": "Tinker's Tools",
+      "type": "Other Gear",
+      "quantity": 1,
+      "equipped": false,
+      "isAttuned": false,
+      "canAttune": false,
+      "canEquip": false,
+      "armorClass": null
+    }
+  ]
+}

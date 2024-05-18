@@ -3,7 +3,7 @@ const util = require('util')
 util.inspect.defaultOptions.getters = true
 util.inspect.defaultOptions.depth = 20
 
-const dndBeyondId = 118587843
+const dndBeyondId = 29682199
 
 class DnDBeyondCharacter {
 
@@ -81,7 +81,18 @@ class DnDBeyondCharacter {
     Object.defineProperties(this, {
       modifiers: {
         get: () => Object.entries(this.#data.modifiers).reduce((accum, [key, value]) => {
-          const activeFormattedMods = value.map(mod => ({
+          const activeFormattedMods = value.filter(mod => {
+            if (mod.isGranted) {
+              if (mod.modType === 'item') {
+                return this.inventory.some(inv => inv.id === mod.componentId && this.#isItemActive(inv))
+              } else {
+                return true
+              }
+            } else {
+              return false
+            }
+          })
+          .map(mod => ({
             entityId: mod.entityId,
             modType: key,
             type: mod.type,
@@ -91,13 +102,6 @@ class DnDBeyondCharacter {
             friendlyTypeName: mod.friendlyTypeName,
             restriction: mod.restriction
           }))
-          .filter(mod => {
-            if (mod.modType === 'item') {
-              return this.inventory.some(inv => inv.id === mod.componentId && (inv.canEquip ? inv.equipped : true) && (inv.canAttune ? inv.isAttuned : true))
-            } else {
-              return true
-            }
-          })
           
           return accum.concat(activeFormattedMods)
         }, [])
@@ -132,7 +136,8 @@ class DnDBeyondCharacter {
       },
       hp: {
         get: () => {
-          const maxHp = Math.floor(this.#data.baseHitPoints + (this.level * this.abilityScores.constitution.modifier))
+          const hpBonus = this.modifiers.find(mod => mod.subType === 'hit-points-per-level')
+          const maxHp = Math.floor(this.#data.baseHitPoints + (this.level * this.abilityScores.constitution.modifier)) + (hpBonus ? hpBonus.value * this.level : 0)
 
           return {
             max: maxHp,
@@ -142,15 +147,36 @@ class DnDBeyondCharacter {
         },
         enumerable: true
       },
-      // Still needs farther calculation
-      // Can't find extra modifiers
+      size: {
+        get: () => '',
+        enumerable: true
+      },
+      speed: {
+        get: () => '',
+        enumerable: true
+      },
       armorClass: {
         get: () => {
-          const armorBase = this.#data.inventory.reduce((accum,inv) => accum + (inv.definition.armorClass || 0), 0)
+          let baseAc = this.modifiers.reduce((accum, mod) => accum + (mod.type === 'set' && mod.subType === 'minimum-base-armor' ? mod.value : 0), 0)
+          if (!baseAc) baseAc = 10
+          const ignoreDex = this.modifiers.some(mod => mod.type === 'ignore' && mod.subType === 'unarmored-dex-ac-bonus')
+          const maxUnamoredDexMod = this.modifiers.filter(mod => mod.type === 'set' && mod.subType === 'ac-max-dex-modifier')
+            .map(mod => mod.value)
+          const armorAc = this.inventory.filter(inv => this.#isItemActive(inv)).reduce((accum,inv) => accum + (inv.armorClass || 0), 0)
+          const bonusAc = this.modifiers.reduce((accum, mod) => {
+            let bonus = 0
 
-          return {
-            baseValue: (armorBase ? armorBase : 10) + this.abilityScores.dexterity.modifier
-          }
+            if ((mod.type === 'bonus' && mod.subType === 'armor-class') ||
+                (armorAc === 0 && mod.type === 'set' && mod.subType === 'unarmored-armor-class')) {
+              console.log(mod)
+              bonus = mod.value
+            }
+            
+            return accum + bonus
+          }, 0)
+          console.log(baseAc, ignoreDex, armorAc, bonusAc)
+
+          return baseAc + armorAc + bonusAc + (ignoreDex ? 0 : Math.min(...maxUnamoredDexMod, this.abilityScores.dexterity.modifier))
         },
         enumerable: true
       },
@@ -276,7 +302,8 @@ class DnDBeyondCharacter {
             equipped: inv.equipped,
             isAttuned: inv.isAttuned,
             canAttune: inv.definition.canAttune,
-            canEquip: inv.definition.canEquip
+            canEquip: inv.definition.canEquip,
+            armorClass: inv.definition.armorClass
           }))
         },
         enumerable: true
@@ -295,12 +322,16 @@ class DnDBeyondCharacter {
         this.#data = data
       })
   }
+
+  #isItemActive(item) {
+    return (item.canEquip ? item.equipped : true) && (item.canAttune ? item.isAttuned : true)
+  }
 }
 
 const character = new DnDBeyondCharacter(dndBeyondId)
 
 character.initialize()
 .then(() => {
-  // console.log(character)
-  fs.writeFileSync('test.json', JSON.stringify(character))
+  console.log(character.modifiers)
+  fs.writeFileSync('test.json', JSON.stringify(character, null, 2))
 })
