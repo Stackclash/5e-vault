@@ -14,6 +14,7 @@ spells:
     "": false
   preppedSpells:
     "": false
+showSpellList: false
 ---
 > [!hint | clean no-i]+ Spells
 > Show all Spells: `INPUT[toggle:showSpellList]`,  Spellcasting Class: `INPUT[inlineSelect(option(Artificer), option(Barbarian), option(Bard), option(Cleric), option(Druid), option(Fighter), option(Monk), option(Paladin), option(Ranger), option(Rogue), option(Sorcerer), option(Warlock), option(Wizard)):SpellcasterClass]`
