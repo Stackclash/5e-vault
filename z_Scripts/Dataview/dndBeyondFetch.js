@@ -168,13 +168,12 @@ class DnDBeyondCharacter {
 
             if ((mod.type === 'bonus' && mod.subType === 'armor-class') ||
                 (armorAc === 0 && mod.type === 'set' && mod.subType === 'unarmored-armor-class')) {
-              console.log(mod)
               bonus = mod.value
             }
             
             return accum + bonus
           }, 0)
-          console.log(baseAc, ignoreDex, armorAc, bonusAc)
+          console.log(baseAc, armorAc, bonusAc, this.inventory.filter(inv => this.#isItemActive(inv)))
 
           return baseAc + armorAc + bonusAc + (ignoreDex ? 0 : Math.min(...maxUnamoredDexMod, this.abilityScores.dexterity.modifier))
         },
@@ -272,8 +271,7 @@ class DnDBeyondCharacter {
               proficiency: this.modifiers.some(mod => mod.type === 'proficiency' && mod.subType === key),
               expertise: this.modifiers.some(mod => mod.type === 'expertise' && mod.subType === key),
               disadvantage: this.modifiers.some(mod => mod.type === 'disadvantage' && mod.subType === key),
-              advantage: this.modifiers.some(mod => mod.type === 'advantage' && mod.subType === key),
-              notes: []
+              advantage: this.modifiers.some(mod => mod.type === 'advantage' && mod.subType === key)
             }
 
             accum[key].value = accum[key].baseValue
@@ -332,6 +330,6 @@ const character = new DnDBeyondCharacter(dndBeyondId)
 
 character.initialize()
 .then(() => {
-  console.log(character.modifiers)
+  // console.log(character.modifiers)
   fs.writeFileSync('test.json', JSON.stringify(character, null, 2))
 })
