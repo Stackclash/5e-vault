@@ -2,14 +2,14 @@
 spells:
   slots:
     first: 1
-    second: 1
-    third: 1
-    fourth: 1
-    fifth: 1
-    sixth: 1
-    seventh: 1
-    eighth: 1
-    nineth: 1
+    second: 2
+    third: 0
+    fourth: 0
+    fifth: 0
+    sixth: 0
+    seventh: 0
+    eighth: 0
+    nineth: 0
   knownSpells:
     "": false
   preppedSpells:
