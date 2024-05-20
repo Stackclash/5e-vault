@@ -16,7 +16,7 @@
   },
   "size": "",
   "speed": "",
-  "armorClass": 29,
+  "armorClass": 22,
   "initiative": -1,
   "alignment": "Neutral Good",
   "background": {
@@ -106,8 +106,7 @@
       "proficiency": false,
       "expertise": false,
       "disadvantage": false,
-      "advantage": false,
-      "notes": []
+      "advantage": false
     },
     "animal-handling": {
       "value": 2,
@@ -115,8 +114,7 @@
       "proficiency": false,
       "expertise": false,
       "disadvantage": false,
-      "advantage": false,
-      "notes": []
+      "advantage": false
     },
     "arcana": {
       "value": 1,
@@ -124,8 +122,7 @@
       "proficiency": false,
       "expertise": false,
       "disadvantage": false,
-      "advantage": false,
-      "notes": []
+      "advantage": false
     },
     "athletics": {
       "value": 2,
@@ -133,8 +130,7 @@
       "proficiency": false,
       "expertise": false,
       "disadvantage": false,
-      "advantage": false,
-      "notes": []
+      "advantage": false
     },
     "deception": {
       "value": 0,
@@ -142,8 +138,7 @@
       "proficiency": false,
       "expertise": false,
       "disadvantage": false,
-      "advantage": false,
-      "notes": []
+      "advantage": false
     },
     "history": {
       "value": 1,
@@ -151,8 +146,7 @@
       "proficiency": false,
       "expertise": false,
       "disadvantage": false,
-      "advantage": false,
-      "notes": []
+      "advantage": false
     },
     "insight": {
       "value": 2,
@@ -160,8 +154,7 @@
       "proficiency": false,
       "expertise": false,
       "disadvantage": false,
-      "advantage": false,
-      "notes": []
+      "advantage": false
     },
     "intimidation": {
       "value": 0,
@@ -169,8 +162,7 @@
       "proficiency": false,
       "expertise": false,
       "disadvantage": false,
-      "advantage": false,
-      "notes": []
+      "advantage": false
     },
     "investigation": {
       "value": 1,
@@ -178,8 +170,7 @@
       "proficiency": false,
       "expertise": false,
       "disadvantage": false,
-      "advantage": false,
-      "notes": []
+      "advantage": false
     },
     "medicine": {
       "value": 2,
@@ -187,8 +178,7 @@
       "proficiency": false,
       "expertise": false,
       "disadvantage": false,
-      "advantage": false,
-      "notes": []
+      "advantage": false
     },
     "nature": {
       "value": 1,
@@ -196,8 +186,7 @@
       "proficiency": false,
       "expertise": false,
       "disadvantage": false,
-      "advantage": false,
-      "notes": []
+      "advantage": false
     },
     "perception": {
       "value": 2,
@@ -205,8 +194,7 @@
       "proficiency": false,
       "expertise": false,
       "disadvantage": false,
-      "advantage": false,
-      "notes": []
+      "advantage": false
     },
     "performance": {
       "value": 0,
@@ -214,8 +202,7 @@
       "proficiency": false,
       "expertise": false,
       "disadvantage": false,
-      "advantage": false,
-      "notes": []
+      "advantage": false
     },
     "persuasion": {
       "value": 0,
@@ -223,8 +210,7 @@
       "proficiency": false,
       "expertise": false,
       "disadvantage": false,
-      "advantage": false,
-      "notes": []
+      "advantage": false
     },
     "religion": {
       "value": 1,
@@ -232,8 +218,7 @@
       "proficiency": false,
       "expertise": false,
       "disadvantage": false,
-      "advantage": false,
-      "notes": []
+      "advantage": false
     },
     "sleight-of-hand": {
       "value": -1,
@@ -241,8 +226,7 @@
       "proficiency": false,
       "expertise": false,
       "disadvantage": false,
-      "advantage": false,
-      "notes": []
+      "advantage": false
     },
     "stealth": {
       "value": -1,
@@ -250,8 +234,7 @@
       "proficiency": false,
       "expertise": false,
       "disadvantage": true,
-      "advantage": false,
-      "notes": []
+      "advantage": false
     },
     "survival": {
       "value": 2,
@@ -259,8 +242,7 @@
       "proficiency": false,
       "expertise": false,
       "disadvantage": false,
-      "advantage": false,
-      "notes": []
+      "advantage": false
     }
   },
   "spells": [

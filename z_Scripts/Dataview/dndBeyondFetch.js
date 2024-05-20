@@ -157,25 +157,40 @@ class DnDBeyondCharacter {
       },
       armorClass: {
         get: () => {
-          let baseAc = this.modifiers.reduce((accum, mod) => accum + (mod.type === 'set' && mod.subType === 'minimum-base-armor' ? mod.value : 0), 0)
+          let baseAc = () => {
+            const setBaseArmor = this.modifiers.filter(mod => mod.type === 'set' && mod.subType === 'minimum-base-armor')
+          }
           if (!baseAc) baseAc = 10
           const ignoreDex = this.modifiers.some(mod => mod.type === 'ignore' && mod.subType === 'unarmored-dex-ac-bonus')
-          const maxUnamoredDexMod = this.modifiers.filter(mod => mod.type === 'set' && mod.subType === 'ac-max-dex-modifier')
+          const maxUnamoredDexMods = this.modifiers.filter(mod => mod.type === 'set' && mod.subType === 'ac-max-dex-modifier')
             .map(mod => mod.value)
           const armorAc = this.inventory.filter(inv => this.#isItemActive(inv)).reduce((accum,inv) => accum + (inv.armorClass || 0), 0)
+          const useProficiencyBonus = this.#data.inventory.some(inv => this.#isItemActive({
+            equipped: inv.equipped,
+            isAttuned: inv.isAttuned,
+            canAttune: inv.definition.canAttune,
+            canEquip: inv.definition.canEquip
+          }) && inv.definition.armorTypeId === 3)
           const bonusAc = this.modifiers.reduce((accum, mod) => {
             let bonus = 0
 
             if ((mod.type === 'bonus' && mod.subType === 'armor-class') ||
-                (armorAc === 0 && mod.type === 'set' && mod.subType === 'unarmored-armor-class')) {
+                (!this.#isArmored() && mod.type === 'set' && mod.subType === 'unarmored-armor-class')) {
               bonus = mod.value
             }
             
             return accum + bonus
           }, 0)
-          console.log(baseAc, armorAc, bonusAc, this.inventory.filter(inv => this.#isItemActive(inv)))
+          
+          let acModifier = 0
+          if (useProficiencyBonus) {
+            acModifier = this.proficiencyBonus
+          } else if (!ignoreDex) {
+            Math.min(...maxUnamoredDexMods, this.abilityScores.dexterity.modifier)
+          }
+          console.log(Math.max(baseAc, armorAc), bonusAc, acModifier)
 
-          return baseAc + armorAc + bonusAc + (ignoreDex ? 0 : Math.min(...maxUnamoredDexMod, this.abilityScores.dexterity.modifier))
+          return Math.max(baseAc, armorAc) + bonusAc + acModifier
         },
         enumerable: true
       },
@@ -323,6 +338,13 @@ class DnDBeyondCharacter {
 
   #isItemActive(item) {
     return (item.canEquip ? item.equipped : true) && (item.canAttune ? item.isAttuned : true)
+  }
+
+  #isArmored() {
+    return this.#data.inventory.some(inv =>
+      inv.definition.filterType === 'Armor' &&
+      inv.definition.armorTypeId !== 4 &&
+      inv.equipped)
   }
 }
 
