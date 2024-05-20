@@ -7635,14 +7635,14 @@ var require_lib = __commonJS({
       })
     });
     var optionalWhitespaceOrComment = parsimmon_umd_minExports.alt(parsimmon_umd_minExports.whitespace, QUERY_LANGUAGE.comment).many().map((arr) => arr.join(""));
-    var getAPI2 = (app2) => {
+    var getAPI2 = (app) => {
       var _a;
-      if (app2)
-        return (_a = app2.plugins.plugins.dataview) == null ? void 0 : _a.api;
+      if (app)
+        return (_a = app.plugins.plugins.dataview) == null ? void 0 : _a.api;
       else
         return window.DataviewAPI;
     };
-    var isPluginEnabled = (app2) => app2.plugins.enabledPlugins.has("dataview");
+    var isPluginEnabled = (app) => app.plugins.enabledPlugins.has("dataview");
     exports.DATE_SHORTHANDS = DATE_SHORTHANDS;
     exports.DURATION_TYPES = DURATION_TYPES;
     exports.EXPRESSION = EXPRESSION;
@@ -7866,8 +7866,8 @@ var require_main = __commonJS({
     var DailyNotesFolderMissingError = class extends Error {
     };
     async function createDailyNote2(date) {
-      const app2 = window.app;
-      const { vault } = app2;
+      const app = window.app;
+      const { vault } = app;
       const moment = window.moment;
       const { template, format, folder } = getDailyNoteSettings();
       const [templateContents, IFoldInfo] = await getTemplateInfo(template);
@@ -7889,7 +7889,7 @@ var require_main = __commonJS({
           }
           return currentDate.format(format);
         }).replace(/{{\s*yesterday\s*}}/gi, date.clone().subtract(1, "day").format(format)).replace(/{{\s*tomorrow\s*}}/gi, date.clone().add(1, "d").format(format)));
-        app2.foldManager.save(createdFile, IFoldInfo);
+        app.foldManager.save(createdFile, IFoldInfo);
         return createdFile;
       } catch (err) {
         console.error(`Failed to create file: '${normalizedPath}'`, err);
@@ -8173,39 +8173,39 @@ var require_main = __commonJS({
     }
     function appHasDailyNotesPluginLoaded2() {
       var _a, _b;
-      const { app: app2 } = window;
-      const dailyNotesPlugin = app2.internalPlugins.plugins["daily-notes"];
+      const { app } = window;
+      const dailyNotesPlugin = app.internalPlugins.plugins["daily-notes"];
       if (dailyNotesPlugin && dailyNotesPlugin.enabled) {
         return true;
       }
-      const periodicNotes = app2.plugins.getPlugin("periodic-notes");
+      const periodicNotes = app.plugins.getPlugin("periodic-notes");
       return periodicNotes && ((_b = (_a = periodicNotes.settings) == null ? void 0 : _a.daily) == null ? void 0 : _b.enabled);
     }
     function appHasWeeklyNotesPluginLoaded2() {
       var _a, _b;
-      const { app: app2 } = window;
-      if (app2.plugins.getPlugin("calendar")) {
+      const { app } = window;
+      if (app.plugins.getPlugin("calendar")) {
         return true;
       }
-      const periodicNotes = app2.plugins.getPlugin("periodic-notes");
+      const periodicNotes = app.plugins.getPlugin("periodic-notes");
       return periodicNotes && ((_b = (_a = periodicNotes.settings) == null ? void 0 : _a.weekly) == null ? void 0 : _b.enabled);
     }
     function appHasMonthlyNotesPluginLoaded2() {
       var _a, _b;
-      const { app: app2 } = window;
-      const periodicNotes = app2.plugins.getPlugin("periodic-notes");
+      const { app } = window;
+      const periodicNotes = app.plugins.getPlugin("periodic-notes");
       return periodicNotes && ((_b = (_a = periodicNotes.settings) == null ? void 0 : _a.monthly) == null ? void 0 : _b.enabled);
     }
     function appHasQuarterlyNotesPluginLoaded2() {
       var _a, _b;
-      const { app: app2 } = window;
-      const periodicNotes = app2.plugins.getPlugin("periodic-notes");
+      const { app } = window;
+      const periodicNotes = app.plugins.getPlugin("periodic-notes");
       return periodicNotes && ((_b = (_a = periodicNotes.settings) == null ? void 0 : _a.quarterly) == null ? void 0 : _b.enabled);
     }
     function appHasYearlyNotesPluginLoaded2() {
       var _a, _b;
-      const { app: app2 } = window;
-      const periodicNotes = app2.plugins.getPlugin("periodic-notes");
+      const { app } = window;
+      const periodicNotes = app.plugins.getPlugin("periodic-notes");
       return periodicNotes && ((_b = (_a = periodicNotes.settings) == null ? void 0 : _a.yearly) == null ? void 0 : _b.enabled);
     }
     function getPeriodicNoteSettings(granularity) {
@@ -8554,6 +8554,11 @@ var ZodError = class extends Error {
     processError(this);
     return fieldErrors;
   }
+  static assert(value) {
+    if (!(value instanceof ZodError)) {
+      throw new Error(`Not a ZodError: ${value}`);
+    }
+  }
   toString() {
     return this.message;
   }
@@ -8696,6 +8701,13 @@ var makeIssue = (params) => {
     ...issueData,
     path: fullPath
   };
+  if (issueData.message !== void 0) {
+    return {
+      ...issueData,
+      path: fullPath,
+      message: issueData.message
+    };
+  }
   let errorMessage = "";
   const maps = errorMaps.filter((m) => !!m).slice().reverse();
   for (const map of maps) {
@@ -8704,11 +8716,12 @@ var makeIssue = (params) => {
   return {
     ...issueData,
     path: fullPath,
-    message: issueData.message || errorMessage
+    message: errorMessage
   };
 };
 var EMPTY_PATH = [];
 function addIssueToContext(ctx, issueData) {
+  const overrideMap = getErrorMap();
   const issue = makeIssue({
     issueData,
     data: ctx.data,
@@ -8716,8 +8729,8 @@ function addIssueToContext(ctx, issueData) {
     errorMaps: [
       ctx.common.contextualErrorMap,
       ctx.schemaErrorMap,
-      getErrorMap(),
-      errorMap
+      overrideMap,
+      overrideMap === errorMap ? void 0 : errorMap
       // then global default map
     ].filter((x) => !!x)
   });
@@ -8749,9 +8762,11 @@ var ParseStatus = class {
   static async mergeObjectAsync(status, pairs) {
     const syncPairs = [];
     for (const pair of pairs) {
+      const key = await pair.key;
+      const value = await pair.value;
       syncPairs.push({
-        key: await pair.key,
-        value: await pair.value
+        key,
+        value
       });
     }
     return ParseStatus.mergeObjectSync(status, syncPairs);
@@ -8784,11 +8799,29 @@ var isAborted = (x) => x.status === "aborted";
 var isDirty = (x) => x.status === "dirty";
 var isValid = (x) => x.status === "valid";
 var isAsync = (x) => typeof Promise !== "undefined" && x instanceof Promise;
+function __classPrivateFieldGet(receiver, state, kind, f) {
+  if (kind === "a" && !f)
+    throw new TypeError("Private accessor was defined without a getter");
+  if (typeof state === "function" ? receiver !== state || !f : !state.has(receiver))
+    throw new TypeError("Cannot read private member from an object whose class did not declare it");
+  return kind === "m" ? f : kind === "a" ? f.call(receiver) : f ? f.value : state.get(receiver);
+}
+function __classPrivateFieldSet(receiver, state, value, kind, f) {
+  if (kind === "m")
+    throw new TypeError("Private method is not writable");
+  if (kind === "a" && !f)
+    throw new TypeError("Private accessor was defined without a setter");
+  if (typeof state === "function" ? receiver !== state || !f : !state.has(receiver))
+    throw new TypeError("Cannot write private member to an object whose class did not declare it");
+  return kind === "a" ? f.call(receiver, value) : f ? f.value = value : state.set(receiver, value), value;
+}
 var errorUtil;
 (function(errorUtil2) {
   errorUtil2.errToObj = (message) => typeof message === "string" ? { message } : message || {};
   errorUtil2.toString = (message) => typeof message === "string" ? message : message === null || message === void 0 ? void 0 : message.message;
 })(errorUtil || (errorUtil = {}));
+var _ZodEnum_cache;
+var _ZodNativeEnum_cache;
 var ParseInputLazyPath = class {
   constructor(parent, value, path, key) {
     this._cachedPath = [];
@@ -8837,12 +8870,17 @@ function processCreateParams(params) {
   if (errorMap2)
     return { errorMap: errorMap2, description };
   const customMap = (iss, ctx) => {
+    var _a, _b;
+    const { message } = params;
+    if (iss.code === "invalid_enum_value") {
+      return { message: message !== null && message !== void 0 ? message : ctx.defaultError };
+    }
+    if (typeof ctx.data === "undefined") {
+      return { message: (_a = message !== null && message !== void 0 ? message : required_error) !== null && _a !== void 0 ? _a : ctx.defaultError };
+    }
     if (iss.code !== "invalid_type")
       return { message: ctx.defaultError };
-    if (typeof ctx.data === "undefined") {
-      return { message: required_error !== null && required_error !== void 0 ? required_error : ctx.defaultError };
-    }
-    return { message: invalid_type_error !== null && invalid_type_error !== void 0 ? invalid_type_error : ctx.defaultError };
+    return { message: (_b = message !== null && message !== void 0 ? message : invalid_type_error) !== null && _b !== void 0 ? _b : ctx.defaultError };
   };
   return { errorMap: customMap, description };
 }
@@ -9090,35 +9128,40 @@ var ZodType = class {
   }
 };
 var cuidRegex = /^c[^\s-]{8,}$/i;
-var cuid2Regex = /^[a-z][a-z0-9]*$/;
+var cuid2Regex = /^[0-9a-z]+$/;
 var ulidRegex = /^[0-9A-HJKMNP-TV-Z]{26}$/;
 var uuidRegex = /^[0-9a-fA-F]{8}\b-[0-9a-fA-F]{4}\b-[0-9a-fA-F]{4}\b-[0-9a-fA-F]{4}\b-[0-9a-fA-F]{12}$/i;
-var emailRegex = /^(?!\.)(?!.*\.\.)([A-Z0-9_+-\.]*)[A-Z0-9_+-]@([A-Z0-9][A-Z0-9\-]*\.)+[A-Z]{2,}$/i;
+var nanoidRegex = /^[a-z0-9_-]{21}$/i;
+var durationRegex = /^[-+]?P(?!$)(?:(?:[-+]?\d+Y)|(?:[-+]?\d+[.,]\d+Y$))?(?:(?:[-+]?\d+M)|(?:[-+]?\d+[.,]\d+M$))?(?:(?:[-+]?\d+W)|(?:[-+]?\d+[.,]\d+W$))?(?:(?:[-+]?\d+D)|(?:[-+]?\d+[.,]\d+D$))?(?:T(?=[\d+-])(?:(?:[-+]?\d+H)|(?:[-+]?\d+[.,]\d+H$))?(?:(?:[-+]?\d+M)|(?:[-+]?\d+[.,]\d+M$))?(?:[-+]?\d+(?:[.,]\d+)?S)?)??$/;
+var emailRegex = /^(?!\.)(?!.*\.\.)([A-Z0-9_'+\-\.]*)[A-Z0-9_+-]@([A-Z0-9][A-Z0-9\-]*\.)+[A-Z]{2,}$/i;
 var _emojiRegex = `^(\\p{Extended_Pictographic}|\\p{Emoji_Component})+$`;
 var emojiRegex;
-var ipv4Regex = /^(((25[0-5])|(2[0-4][0-9])|(1[0-9]{2})|([0-9]{1,2}))\.){3}((25[0-5])|(2[0-4][0-9])|(1[0-9]{2})|([0-9]{1,2}))$/;
+var ipv4Regex = /^(?:(?:25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9][0-9]|[0-9])\.){3}(?:25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9][0-9]|[0-9])$/;
 var ipv6Regex = /^(([a-f0-9]{1,4}:){7}|::([a-f0-9]{1,4}:){0,6}|([a-f0-9]{1,4}:){1}:([a-f0-9]{1,4}:){0,5}|([a-f0-9]{1,4}:){2}:([a-f0-9]{1,4}:){0,4}|([a-f0-9]{1,4}:){3}:([a-f0-9]{1,4}:){0,3}|([a-f0-9]{1,4}:){4}:([a-f0-9]{1,4}:){0,2}|([a-f0-9]{1,4}:){5}:([a-f0-9]{1,4}:){0,1})([a-f0-9]{1,4}|(((25[0-5])|(2[0-4][0-9])|(1[0-9]{2})|([0-9]{1,2}))\.){3}((25[0-5])|(2[0-4][0-9])|(1[0-9]{2})|([0-9]{1,2})))$/;
-var datetimeRegex = (args) => {
+var base64Regex = /^([0-9a-zA-Z+/]{4})*(([0-9a-zA-Z+/]{2}==)|([0-9a-zA-Z+/]{3}=))?$/;
+var dateRegexSource = `((\\d\\d[2468][048]|\\d\\d[13579][26]|\\d\\d0[48]|[02468][048]00|[13579][26]00)-02-29|\\d{4}-((0[13578]|1[02])-(0[1-9]|[12]\\d|3[01])|(0[469]|11)-(0[1-9]|[12]\\d|30)|(02)-(0[1-9]|1\\d|2[0-8])))`;
+var dateRegex = new RegExp(`^${dateRegexSource}$`);
+function timeRegexSource(args) {
+  let regex = `([01]\\d|2[0-3]):[0-5]\\d:[0-5]\\d`;
   if (args.precision) {
-    if (args.offset) {
-      return new RegExp(`^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}\\.\\d{${args.precision}}(([+-]\\d{2}(:?\\d{2})?)|Z)$`);
-    } else {
-      return new RegExp(`^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}\\.\\d{${args.precision}}Z$`);
-    }
-  } else if (args.precision === 0) {
-    if (args.offset) {
-      return new RegExp(`^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(([+-]\\d{2}(:?\\d{2})?)|Z)$`);
-    } else {
-      return new RegExp(`^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$`);
-    }
-  } else {
-    if (args.offset) {
-      return new RegExp(`^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(\\.\\d+)?(([+-]\\d{2}(:?\\d{2})?)|Z)$`);
-    } else {
-      return new RegExp(`^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(\\.\\d+)?Z$`);
-    }
+    regex = `${regex}\\.\\d{${args.precision}}`;
+  } else if (args.precision == null) {
+    regex = `${regex}(\\.\\d+)?`;
   }
-};
+  return regex;
+}
+function timeRegex(args) {
+  return new RegExp(`^${timeRegexSource(args)}$`);
+}
+function datetimeRegex(args) {
+  let regex = `${dateRegexSource}T${timeRegexSource(args)}`;
+  const opts = [];
+  opts.push(args.local ? `Z?` : `Z`);
+  if (args.offset)
+    opts.push(`([+-]\\d{2}:?\\d{2})`);
+  regex = `${regex}(${opts.join("|")})`;
+  return new RegExp(`^${regex}$`);
+}
 function isValidIP(ip, version) {
   if ((version === "v4" || !version) && ipv4Regex.test(ip)) {
     return true;
@@ -9136,15 +9179,11 @@ var ZodString = class extends ZodType {
     const parsedType = this._getType(input);
     if (parsedType !== ZodParsedType.string) {
       const ctx2 = this._getOrReturnCtx(input);
-      addIssueToContext(
-        ctx2,
-        {
-          code: ZodIssueCode.invalid_type,
-          expected: ZodParsedType.string,
-          received: ctx2.parsedType
-        }
-        //
-      );
+      addIssueToContext(ctx2, {
+        code: ZodIssueCode.invalid_type,
+        expected: ZodParsedType.string,
+        received: ctx2.parsedType
+      });
       return INVALID;
     }
     const status = new ParseStatus();
@@ -9230,6 +9269,16 @@ var ZodString = class extends ZodType {
           ctx = this._getOrReturnCtx(input, ctx);
           addIssueToContext(ctx, {
             validation: "uuid",
+            code: ZodIssueCode.invalid_string,
+            message: check.message
+          });
+          status.dirty();
+        }
+      } else if (check.kind === "nanoid") {
+        if (!nanoidRegex.test(input.data)) {
+          ctx = this._getOrReturnCtx(input, ctx);
+          addIssueToContext(ctx, {
+            validation: "nanoid",
             code: ZodIssueCode.invalid_string,
             message: check.message
           });
@@ -9336,11 +9385,53 @@ var ZodString = class extends ZodType {
           });
           status.dirty();
         }
+      } else if (check.kind === "date") {
+        const regex = dateRegex;
+        if (!regex.test(input.data)) {
+          ctx = this._getOrReturnCtx(input, ctx);
+          addIssueToContext(ctx, {
+            code: ZodIssueCode.invalid_string,
+            validation: "date",
+            message: check.message
+          });
+          status.dirty();
+        }
+      } else if (check.kind === "time") {
+        const regex = timeRegex(check);
+        if (!regex.test(input.data)) {
+          ctx = this._getOrReturnCtx(input, ctx);
+          addIssueToContext(ctx, {
+            code: ZodIssueCode.invalid_string,
+            validation: "time",
+            message: check.message
+          });
+          status.dirty();
+        }
+      } else if (check.kind === "duration") {
+        if (!durationRegex.test(input.data)) {
+          ctx = this._getOrReturnCtx(input, ctx);
+          addIssueToContext(ctx, {
+            validation: "duration",
+            code: ZodIssueCode.invalid_string,
+            message: check.message
+          });
+          status.dirty();
+        }
       } else if (check.kind === "ip") {
         if (!isValidIP(input.data, check.version)) {
           ctx = this._getOrReturnCtx(input, ctx);
           addIssueToContext(ctx, {
             validation: "ip",
+            code: ZodIssueCode.invalid_string,
+            message: check.message
+          });
+          status.dirty();
+        }
+      } else if (check.kind === "base64") {
+        if (!base64Regex.test(input.data)) {
+          ctx = this._getOrReturnCtx(input, ctx);
+          addIssueToContext(ctx, {
+            validation: "base64",
             code: ZodIssueCode.invalid_string,
             message: check.message
           });
@@ -9377,6 +9468,9 @@ var ZodString = class extends ZodType {
   uuid(message) {
     return this._addCheck({ kind: "uuid", ...errorUtil.errToObj(message) });
   }
+  nanoid(message) {
+    return this._addCheck({ kind: "nanoid", ...errorUtil.errToObj(message) });
+  }
   cuid(message) {
     return this._addCheck({ kind: "cuid", ...errorUtil.errToObj(message) });
   }
@@ -9386,16 +9480,20 @@ var ZodString = class extends ZodType {
   ulid(message) {
     return this._addCheck({ kind: "ulid", ...errorUtil.errToObj(message) });
   }
+  base64(message) {
+    return this._addCheck({ kind: "base64", ...errorUtil.errToObj(message) });
+  }
   ip(options) {
     return this._addCheck({ kind: "ip", ...errorUtil.errToObj(options) });
   }
   datetime(options) {
-    var _a;
+    var _a, _b;
     if (typeof options === "string") {
       return this._addCheck({
         kind: "datetime",
         precision: null,
         offset: false,
+        local: false,
         message: options
       });
     }
@@ -9403,8 +9501,29 @@ var ZodString = class extends ZodType {
       kind: "datetime",
       precision: typeof (options === null || options === void 0 ? void 0 : options.precision) === "undefined" ? null : options === null || options === void 0 ? void 0 : options.precision,
       offset: (_a = options === null || options === void 0 ? void 0 : options.offset) !== null && _a !== void 0 ? _a : false,
+      local: (_b = options === null || options === void 0 ? void 0 : options.local) !== null && _b !== void 0 ? _b : false,
       ...errorUtil.errToObj(options === null || options === void 0 ? void 0 : options.message)
     });
+  }
+  date(message) {
+    return this._addCheck({ kind: "date", message });
+  }
+  time(options) {
+    if (typeof options === "string") {
+      return this._addCheck({
+        kind: "time",
+        precision: null,
+        message: options
+      });
+    }
+    return this._addCheck({
+      kind: "time",
+      precision: typeof (options === null || options === void 0 ? void 0 : options.precision) === "undefined" ? null : options === null || options === void 0 ? void 0 : options.precision,
+      ...errorUtil.errToObj(options === null || options === void 0 ? void 0 : options.message)
+    });
+  }
+  duration(message) {
+    return this._addCheck({ kind: "duration", ...errorUtil.errToObj(message) });
   }
   regex(regex, message) {
     return this._addCheck({
@@ -9484,6 +9603,15 @@ var ZodString = class extends ZodType {
   get isDatetime() {
     return !!this._def.checks.find((ch) => ch.kind === "datetime");
   }
+  get isDate() {
+    return !!this._def.checks.find((ch) => ch.kind === "date");
+  }
+  get isTime() {
+    return !!this._def.checks.find((ch) => ch.kind === "time");
+  }
+  get isDuration() {
+    return !!this._def.checks.find((ch) => ch.kind === "duration");
+  }
   get isEmail() {
     return !!this._def.checks.find((ch) => ch.kind === "email");
   }
@@ -9496,6 +9624,9 @@ var ZodString = class extends ZodType {
   get isUUID() {
     return !!this._def.checks.find((ch) => ch.kind === "uuid");
   }
+  get isNANOID() {
+    return !!this._def.checks.find((ch) => ch.kind === "nanoid");
+  }
   get isCUID() {
     return !!this._def.checks.find((ch) => ch.kind === "cuid");
   }
@@ -9507,6 +9638,9 @@ var ZodString = class extends ZodType {
   }
   get isIP() {
     return !!this._def.checks.find((ch) => ch.kind === "ip");
+  }
+  get isBase64() {
+    return !!this._def.checks.find((ch) => ch.kind === "base64");
   }
   get minLength() {
     let min = null;
@@ -10421,9 +10555,10 @@ var ZodObject = class extends ZodType {
         const syncPairs = [];
         for (const pair of pairs) {
           const key = await pair.key;
+          const value = await pair.value;
           syncPairs.push({
             key,
-            value: await pair.value,
+            value,
             alwaysSet: pair.alwaysSet
           });
         }
@@ -10774,15 +10909,25 @@ var getDiscriminator = (type) => {
   } else if (type instanceof ZodEnum) {
     return type.options;
   } else if (type instanceof ZodNativeEnum) {
-    return Object.keys(type.enum);
+    return util.objectValues(type.enum);
   } else if (type instanceof ZodDefault) {
     return getDiscriminator(type._def.innerType);
   } else if (type instanceof ZodUndefined) {
     return [void 0];
   } else if (type instanceof ZodNull) {
     return [null];
+  } else if (type instanceof ZodOptional) {
+    return [void 0, ...getDiscriminator(type.unwrap())];
+  } else if (type instanceof ZodNullable) {
+    return [null, ...getDiscriminator(type.unwrap())];
+  } else if (type instanceof ZodBranded) {
+    return getDiscriminator(type.unwrap());
+  } else if (type instanceof ZodReadonly) {
+    return getDiscriminator(type.unwrap());
+  } else if (type instanceof ZodCatch) {
+    return getDiscriminator(type._def.innerType);
   } else {
-    return null;
+    return [];
   }
 };
 var ZodDiscriminatedUnion = class extends ZodType {
@@ -10842,7 +10987,7 @@ var ZodDiscriminatedUnion = class extends ZodType {
     const optionsMap = /* @__PURE__ */ new Map();
     for (const type of options) {
       const discriminatorValues = getDiscriminator(type.shape[discriminator]);
-      if (!discriminatorValues) {
+      if (!discriminatorValues.length) {
         throw new Error(`A discriminator value for key \`${discriminator}\` could not be extracted from all schema options`);
       }
       for (const value of discriminatorValues) {
@@ -11042,7 +11187,8 @@ var ZodRecord = class extends ZodType {
     for (const key in ctx.data) {
       pairs.push({
         key: keyType._parse(new ParseInputLazyPath(ctx, key, ctx.path, key)),
-        value: valueType._parse(new ParseInputLazyPath(ctx, ctx.data[key], ctx.path, key))
+        value: valueType._parse(new ParseInputLazyPath(ctx, ctx.data[key], ctx.path, key)),
+        alwaysSet: key in ctx.data
       });
     }
     if (ctx.common.async) {
@@ -11386,6 +11532,10 @@ function createZodEnum(values, params) {
   });
 }
 var ZodEnum = class extends ZodType {
+  constructor() {
+    super(...arguments);
+    _ZodEnum_cache.set(this, void 0);
+  }
   _parse(input) {
     if (typeof input.data !== "string") {
       const ctx = this._getOrReturnCtx(input);
@@ -11397,7 +11547,10 @@ var ZodEnum = class extends ZodType {
       });
       return INVALID;
     }
-    if (this._def.values.indexOf(input.data) === -1) {
+    if (!__classPrivateFieldGet(this, _ZodEnum_cache, "f")) {
+      __classPrivateFieldSet(this, _ZodEnum_cache, new Set(this._def.values), "f");
+    }
+    if (!__classPrivateFieldGet(this, _ZodEnum_cache, "f").has(input.data)) {
       const ctx = this._getOrReturnCtx(input);
       const expectedValues = this._def.values;
       addIssueToContext(ctx, {
@@ -11433,15 +11586,26 @@ var ZodEnum = class extends ZodType {
     }
     return enumValues;
   }
-  extract(values) {
-    return ZodEnum.create(values);
+  extract(values, newDef = this._def) {
+    return ZodEnum.create(values, {
+      ...this._def,
+      ...newDef
+    });
   }
-  exclude(values) {
-    return ZodEnum.create(this.options.filter((opt) => !values.includes(opt)));
+  exclude(values, newDef = this._def) {
+    return ZodEnum.create(this.options.filter((opt) => !values.includes(opt)), {
+      ...this._def,
+      ...newDef
+    });
   }
 };
+_ZodEnum_cache = /* @__PURE__ */ new WeakMap();
 ZodEnum.create = createZodEnum;
 var ZodNativeEnum = class extends ZodType {
+  constructor() {
+    super(...arguments);
+    _ZodNativeEnum_cache.set(this, void 0);
+  }
   _parse(input) {
     const nativeEnumValues = util.getValidEnumValues(this._def.values);
     const ctx = this._getOrReturnCtx(input);
@@ -11454,7 +11618,10 @@ var ZodNativeEnum = class extends ZodType {
       });
       return INVALID;
     }
-    if (nativeEnumValues.indexOf(input.data) === -1) {
+    if (!__classPrivateFieldGet(this, _ZodNativeEnum_cache, "f")) {
+      __classPrivateFieldSet(this, _ZodNativeEnum_cache, new Set(util.getValidEnumValues(this._def.values)), "f");
+    }
+    if (!__classPrivateFieldGet(this, _ZodNativeEnum_cache, "f").has(input.data)) {
       const expectedValues = util.objectValues(nativeEnumValues);
       addIssueToContext(ctx, {
         received: ctx.data,
@@ -11469,6 +11636,7 @@ var ZodNativeEnum = class extends ZodType {
     return this._def.values;
   }
 };
+_ZodNativeEnum_cache = /* @__PURE__ */ new WeakMap();
 ZodNativeEnum.create = (values, params) => {
   return new ZodNativeEnum({
     values,
@@ -11532,26 +11700,38 @@ var ZodEffects = class extends ZodType {
     checkCtx.addIssue = checkCtx.addIssue.bind(checkCtx);
     if (effect.type === "preprocess") {
       const processed = effect.transform(ctx.data, checkCtx);
-      if (ctx.common.issues.length) {
-        return {
-          status: "dirty",
-          value: ctx.data
-        };
-      }
       if (ctx.common.async) {
-        return Promise.resolve(processed).then((processed2) => {
-          return this._def.schema._parseAsync({
+        return Promise.resolve(processed).then(async (processed2) => {
+          if (status.value === "aborted")
+            return INVALID;
+          const result = await this._def.schema._parseAsync({
             data: processed2,
             path: ctx.path,
             parent: ctx
           });
+          if (result.status === "aborted")
+            return INVALID;
+          if (result.status === "dirty")
+            return DIRTY(result.value);
+          if (status.value === "dirty")
+            return DIRTY(result.value);
+          return result;
         });
       } else {
-        return this._def.schema._parseSync({
+        if (status.value === "aborted")
+          return INVALID;
+        const result = this._def.schema._parseSync({
           data: processed,
           path: ctx.path,
           parent: ctx
         });
+        if (result.status === "aborted")
+          return INVALID;
+        if (result.status === "dirty")
+          return DIRTY(result.value);
+        if (status.value === "dirty")
+          return DIRTY(result.value);
+        return result;
       }
     }
     if (effect.type === "refinement") {
@@ -11840,10 +12020,16 @@ var ZodPipeline = class extends ZodType {
 var ZodReadonly = class extends ZodType {
   _parse(input) {
     const result = this._def.innerType._parse(input);
-    if (isValid(result)) {
-      result.value = Object.freeze(result.value);
-    }
-    return result;
+    const freeze = (data) => {
+      if (isValid(data)) {
+        data.value = Object.freeze(data.value);
+      }
+      return data;
+    };
+    return isAsync(result) ? result.then((data) => freeze(data)) : freeze(result);
+  }
+  unwrap() {
+    return this._def.innerType;
   }
 };
 ZodReadonly.create = (type, params) => {
@@ -11853,7 +12039,7 @@ ZodReadonly.create = (type, params) => {
     ...processCreateParams(params)
   });
 };
-var custom = (check, params = {}, fatal) => {
+function custom(check, params = {}, fatal) {
   if (check)
     return ZodAny.create().superRefine((data, ctx) => {
       var _a, _b;
@@ -11865,7 +12051,7 @@ var custom = (check, params = {}, fatal) => {
       }
     });
   return ZodAny.create();
-};
+}
 var late = {
   object: ZodObject.lazycreate
 };
@@ -11984,6 +12170,7 @@ var z = /* @__PURE__ */ Object.freeze({
   ZodParsedType,
   getParsedType,
   ZodType,
+  datetimeRegex,
   ZodString,
   ZodNumber,
   ZodBigInt,
@@ -12078,6 +12265,28 @@ var z = /* @__PURE__ */ Object.freeze({
 // src/utils/zod.ts
 var import_obsidian3 = require("obsidian");
 
+// src/utils/obsidian-env.ts
+var _store = {
+  app: null
+};
+var obsEnv = {
+  set app(app) {
+    _store.app = app;
+  },
+  get app() {
+    return _store.app;
+  },
+  get activeVault() {
+    return _store.app.vault;
+  },
+  get activeWorkspace() {
+    return _store.app.workspace;
+  },
+  get metadataCache() {
+    return _store.app.metadataCache;
+  }
+};
+
 // src/utils/file-handling.ts
 var import_obsidian2 = require("obsidian");
 
@@ -12093,7 +12302,7 @@ function failure(errorCode, errorMessage) {
 function enabledCommunityPlugins() {
   var _a;
   const list = Array.from(
-    ((_a = window.app.plugins) == null ? void 0 : _a.enabledPlugins) || []
+    ((_a = obsEnv.app.plugins) == null ? void 0 : _a.enabledPlugins) || []
   );
   return list.sort();
 }
@@ -12101,16 +12310,15 @@ function isCommunityPluginEnabled(pluginID) {
   return enabledCommunityPlugins().contains(pluginID);
 }
 function getEnabledCommunityPlugin(pluginID) {
-  return isCommunityPluginEnabled(pluginID) ? success(window.app.plugins.getPlugin(pluginID)) : failure(404, `Community plugin ${pluginID} is not enabled.`);
+  return isCommunityPluginEnabled(pluginID) ? success(obsEnv.app.plugins.getPlugin(pluginID)) : failure(404, `Community plugin ${pluginID} is not enabled.`);
 }
 function isCorePluginEnabled(pluginID) {
   var _a;
-  return !!((_a = window.app.internalPlugins) == null ? void 0 : _a.getEnabledPluginById(pluginID));
+  return !!((_a = obsEnv.app.internalPlugins) == null ? void 0 : _a.getEnabledPluginById(pluginID));
 }
 function getEnabledCorePlugin(pluginID) {
   var _a;
-  const { app: app2 } = window;
-  const plugin = (_a = app2.internalPlugins) == null ? void 0 : _a.getEnabledPluginById(pluginID);
+  const plugin = (_a = obsEnv.app.internalPlugins) == null ? void 0 : _a.getEnabledPluginById(pluginID);
   return plugin ? success(plugin) : failure(404, `Core plugin ${pluginID} is not enabled.`);
 }
 
@@ -12173,7 +12381,7 @@ async function pause(milliseconds) {
 var import_obsidian = require("obsidian");
 function allWorkspaceRootSplitLeaves() {
   const allLeaves = [];
-  activeWorkspace().iterateRootLeaves((leaf) => {
+  obsEnv.activeWorkspace.iterateRootLeaves((leaf) => {
     allLeaves.push(leaf);
   });
   return allLeaves;
@@ -12195,7 +12403,7 @@ function focusLeafWithFile(filepath) {
   if (!leaf) {
     return failure(405, "File currently not open");
   }
-  activeWorkspace().setActiveLeaf(leaf, { focus: true });
+  obsEnv.activeWorkspace.setActiveLeaf(leaf, { focus: true });
   return success("Open file found and focussed");
 }
 async function focusOrOpenFile(filepath) {
@@ -12205,25 +12413,16 @@ async function focusOrOpenFile(filepath) {
   }
   const res1 = await getFile(filepath);
   if (res1.isSuccess) {
-    activeWorkspace().getLeaf(true).openFile(res1.result);
+    obsEnv.activeWorkspace.getLeaf(true).openFile(res1.result);
     return success(STRINGS.note_opened);
   }
   return failure(404, STRINGS.note_not_found);
 }
 
 // src/utils/file-handling.ts
-function app() {
-  return window.app;
-}
-function activeVault() {
-  return app().vault;
-}
-function activeWorkspace() {
-  return app().workspace;
-}
 async function createNote(filepath, content) {
   filepath = sanitizeFilePath(filepath);
-  const vault = activeVault();
+  const vault = obsEnv.activeVault;
   let file = vault.getAbstractFileByPath(filepath);
   let doesFileExist = file instanceof import_obsidian2.TFile;
   if (doesFileExist) {
@@ -12243,7 +12442,7 @@ async function createNote(filepath, content) {
 }
 async function createOrOverwriteNote(filepath, content) {
   filepath = sanitizeFilePath(filepath);
-  const vault = activeVault();
+  const vault = obsEnv.activeVault;
   const file = vault.getAbstractFileByPath(filepath);
   if (file instanceof import_obsidian2.TFile) {
     await pause(500);
@@ -12256,7 +12455,7 @@ async function createOrOverwriteNote(filepath, content) {
   return newFile instanceof import_obsidian2.TFile ? success(newFile) : failure(400, STRINGS.unable_to_write_note);
 }
 async function getNoteContent(filepath) {
-  const vault = activeVault();
+  const vault = obsEnv.activeVault;
   const res = await getNote(filepath);
   if (!res.isSuccess) {
     return res;
@@ -12307,7 +12506,7 @@ async function updateNote(filepath, newFrontMatter, newBody) {
   let frontMatter = typeof newFrontMatter === "string" ? newFrontMatter : noteDetails.frontMatter;
   frontMatter = frontMatter.trim();
   const newNoteContent = frontMatter !== "" ? ["---", frontMatter, "---", body].join("\n") : body;
-  await activeVault().modify(file, newNoteContent);
+  await obsEnv.activeVault.modify(file, newNoteContent);
   await pause(200);
   return success({
     filepath,
@@ -12324,7 +12523,7 @@ async function touchNote(filepath) {
   const res2 = await getNoteDetails(filepath);
   if (!res2.isSuccess)
     return res2;
-  await activeVault().modify(res.result, res2.result.content);
+  await obsEnv.activeVault.modify(res.result, res2.result.content);
   return res;
 }
 async function searchAndReplaceInNote(filepath, searchTerm, replacement) {
@@ -12415,18 +12614,18 @@ async function prependNoteBelowHeadline(filepath, belowHeadline, textToPrepend, 
   return resFile;
 }
 function getFileMap() {
-  const vault = activeVault();
+  const vault = obsEnv.activeVault;
   const { fileMap } = vault;
   return Object.values(fileMap);
 }
 async function getFile(filepath) {
   const cleanPath = sanitizeFilePath(filepath, false);
-  const file = activeVault().getAbstractFileByPath(cleanPath);
+  const file = obsEnv.activeVault.getAbstractFileByPath(cleanPath);
   return file instanceof import_obsidian2.TFile ? success(file) : failure(404, STRINGS.note_not_found);
 }
 async function getNote(filepath) {
   const cleanPath = sanitizeFilePath(filepath);
-  const file = activeVault().getAbstractFileByPath(cleanPath);
+  const file = obsEnv.activeVault.getAbstractFileByPath(cleanPath);
   return file instanceof import_obsidian2.TFile ? success(file) : failure(404, STRINGS.note_not_found);
 }
 async function applyCorePluginTemplate(templateFile, note) {
@@ -12436,7 +12635,7 @@ async function applyCorePluginTemplate(templateFile, note) {
   const pluginInstance = pluginRes.result;
   await focusOrOpenFile(note.path);
   try {
-    const activeView = activeWorkspace().getActiveViewOfType(import_obsidian2.MarkdownView);
+    const activeView = obsEnv.activeWorkspace.getActiveViewOfType(import_obsidian2.MarkdownView);
     if (activeView && (activeView == null ? void 0 : activeView.getMode()) !== "source") {
       await activeView.setState(
         { ...activeView.getState(), mode: "source" },
@@ -12455,7 +12654,7 @@ async function applyCorePluginTemplate(templateFile, note) {
 }
 async function trashFilepath(filepath, deleteImmediately = false) {
   var _a;
-  const vault = activeVault();
+  const vault = obsEnv.activeVault;
   const fileOrFolder = vault.getAbstractFileByPath(filepath);
   if (!fileOrFolder) {
     return failure(404, STRINGS.not_found);
@@ -12469,7 +12668,7 @@ async function trashFilepath(filepath, deleteImmediately = false) {
   return success(STRINGS.trash_done);
 }
 async function renameFilepath(filepath, newFilepath) {
-  const vault = activeVault();
+  const vault = obsEnv.activeVault;
   const fileOrFolder = vault.getAbstractFileByPath(filepath);
   if (!fileOrFolder) {
     return failure(404, STRINGS.not_found);
@@ -12486,7 +12685,7 @@ async function renameFilepath(filepath, newFilepath) {
   return success(STRINGS.rename_done);
 }
 async function createFolderIfNecessary(folder) {
-  const vault = activeVault();
+  const vault = obsEnv.activeVault;
   folder = sanitizeFilePath(folder, false);
   if (folder === "" || folder === ".")
     return;
@@ -12496,10 +12695,10 @@ async function createFolderIfNecessary(folder) {
 }
 function propertiesForFile(file) {
   var _a;
-  return ((_a = app().metadataCache.getFileCache(file)) == null ? void 0 : _a.frontmatter) || {};
+  return ((_a = obsEnv.metadataCache.getFileCache(file)) == null ? void 0 : _a.frontmatter) || {};
 }
 async function createAndPause(filepath, content) {
-  await activeVault().create(filepath, content);
+  await obsEnv.activeVault.create(filepath, content);
   if (isCorePluginEnabled("templates") || isCommunityPluginEnabled("templater-obsidian")) {
     await pause(300);
   }
@@ -12597,10 +12796,10 @@ function lookupAbstractFileForFilePath(path) {
   return typeof path === "string" && path.length > 0 ? sanitizeFilePathAndGetAbstractFile(path, false) : null;
 }
 function lookupAbstractFolderForPath(path) {
-  return typeof path === "string" && path.length > 0 ? activeVault().getAbstractFileByPath(path) : null;
+  return typeof path === "string" && path.length > 0 ? obsEnv.activeVault.getAbstractFileByPath(path) : null;
 }
 function sanitizeFilePathAndGetAbstractFile(path, isNote) {
-  return activeVault().getAbstractFileByPath(sanitizeFilePath(path, isNote));
+  return obsEnv.activeVault.getAbstractFileByPath(sanitizeFilePath(path, isNote));
 }
 function lookupAbstractFileForTemplaterPath(path) {
   var _a;
@@ -12676,7 +12875,7 @@ var routePath = {
   ]
 };
 async function handleList(incomingParams) {
-  const commands = window.app.commands.listCommands().map((cmd) => ({ id: cmd.id, name: cmd.name }));
+  const commands = obsEnv.app.commands.listCommands().map((cmd) => ({ id: cmd.id, name: cmd.name }));
   return success({ commands: JSON.stringify(commands) });
 }
 async function handleExecute(incomingParams) {
@@ -12685,7 +12884,7 @@ async function handleExecute(incomingParams) {
   const pauseInMilliseconds = (params["pause-in-secs"] || 0.2) * 1e3;
   for (let idx = 0; idx < commands.length; idx++) {
     const cmd = commands[idx];
-    const wasSuccess = window.app.commands.executeCommandById(cmd);
+    const wasSuccess = obsEnv.app.commands.executeCommandById(cmd);
     if (!wasSuccess) {
       return failure(500, STRINGS.command_not_found(cmd));
     }
@@ -12722,9 +12921,8 @@ function dqlValuesMapper(dataview, v) {
 }
 async function handleDataviewQuery(type, incomingParams) {
   const params = incomingParams;
-  const { app: app2 } = window;
-  const dataview = (0, import_obsidian_dataview.getAPI)(app2);
-  if (!(0, import_obsidian_dataview.isPluginEnabled)(app2) || !dataview) {
+  const dataview = (0, import_obsidian_dataview.getAPI)(obsEnv.app);
+  if (!(0, import_obsidian_dataview.isPluginEnabled)(obsEnv.app) || !dataview) {
     return failure(412, STRINGS.dataview_plugin_not_available);
   }
   const dql = params.dql.trim() + "\n";
@@ -12783,11 +12981,11 @@ var routePath3 = {
 };
 async function handleList2(incomingParams) {
   return success({
-    paths: activeVault().getFiles().map((t) => t.path).sort()
+    paths: obsEnv.activeVault.getFiles().map((t) => t.path).sort()
   });
 }
 async function handleGetActive(incomingParams) {
-  const res = activeWorkspace().getActiveFile();
+  const res = obsEnv.activeWorkspace.getActiveFile();
   return res ? success({ filepath: res.path }) : failure(404, "No active file");
 }
 async function handleOpen(incomingParams) {
@@ -12875,8 +13073,8 @@ var import_obsidian5 = require("obsidian");
 
 // src/plugin-info.ts
 var PLUGIN_INFO = {
-  "pluginVersion": "1.5.1",
-  "pluginReleasedAt": "2024-03-27T11:54:23+0100"
+  "pluginVersion": "1.5.2",
+  "pluginReleasedAt": "2024-05-11T12:39:26+0200"
 };
 
 // src/routes/info.ts
@@ -13042,7 +13240,7 @@ var routePath6 = {
 };
 async function handleList4(incomingParams) {
   return success({
-    paths: activeVault().getMarkdownFiles().map((t) => t.path).sort()
+    paths: obsEnv.activeVault.getMarkdownFiles().map((t) => t.path).sort()
   });
 }
 async function handleGet(incomingParams) {
@@ -13054,7 +13252,7 @@ async function handleGet(incomingParams) {
   return res;
 }
 async function handleGetActive2(incomingParams) {
-  const res = activeWorkspace().getActiveFile();
+  const res = obsEnv.activeWorkspace.getActiveFile();
   if ((res == null ? void 0 : res.extension) !== "md")
     return failure(404, "No active note");
   const res1 = await getNoteDetails(res.path);
@@ -13065,7 +13263,7 @@ async function handleGetNamed(incomingParams) {
   const { file } = params;
   const sortBy = params["sort-by"] || "best-guess";
   if (sortBy === "best-guess") {
-    const res2 = app().metadataCache.getFirstLinkpathDest(sanitizeFilePath(file), "/");
+    const res2 = obsEnv.metadataCache.getFirstLinkpathDest(sanitizeFilePath(file), "/");
     return res2 ? await getNoteDetails(res2.path) : failure(404, "No note found with that name");
   }
   const sortFns = {
@@ -13076,7 +13274,7 @@ async function handleGetNamed(incomingParams) {
     "mtime-asc": (a, b) => a.stat.mtime - b.stat.mtime,
     "mtime-desc": (a, b) => b.stat.mtime - a.stat.mtime
   };
-  const res = activeVault().getMarkdownFiles().sort(sortFns[sortBy]).find((tf) => tf.name === file);
+  const res = obsEnv.activeVault.getMarkdownFiles().sort(sortFns[sortBy]).find((tf) => tf.name === file);
   if (!res)
     return failure(404, "No note found with that name");
   return await getNoteDetails(res.path);
@@ -13322,7 +13520,7 @@ async function doSearch(query) {
   }
   const pluginInstance = res.result;
   pluginInstance.openGlobalSearch(query);
-  const searchLeaf = activeWorkspace().getLeavesOfType("search")[0];
+  const searchLeaf = obsEnv.activeWorkspace.getLeavesOfType("search")[0];
   const searchView = await searchLeaf.open(searchLeaf.view);
   await pause(2e3);
   const rawSearchResult = searchView.dom.resultDomLookup;
@@ -13364,7 +13562,7 @@ async function handleSearch(incomingParams) {
 async function handleOpen3(incomingParams) {
   const params = incomingParams;
   window.open(
-    "obsidian://omnisearch?vault=" + encodeURIComponent(activeVault().getName()) + "&query=" + encodeURIComponent(params.query.trim())
+    "obsidian://omnisearch?vault=" + encodeURIComponent(obsEnv.activeVault.getName()) + "&query=" + encodeURIComponent(params.query.trim())
   );
   return success({ message: "Opened search" });
 }
@@ -13567,7 +13765,7 @@ function getHandleCreate(periodID) {
             await focusOrOpenFile(pNote.path);
           return await getNoteDetails(pNote.path);
         case "overwrite":
-          await activeVault().trash(pNote, false);
+          await obsEnv.activeVault.trash(pNote, false);
           break;
         default:
           return failure(
@@ -13864,7 +14062,7 @@ async function handleSearch2(incomingParams) {
 async function handleOpen4(incomingParams) {
   const params = incomingParams;
   window.open(
-    "obsidian://search?vault=" + encodeURIComponent(activeVault().getName()) + "&query=" + encodeURIComponent(params.query.trim())
+    "obsidian://search?vault=" + encodeURIComponent(obsEnv.activeVault.getName()) + "&query=" + encodeURIComponent(params.query.trim())
   );
   return success({ message: "Opened search" });
 }
@@ -13904,7 +14102,7 @@ async function handleClose(incomingParams) {
   return success({});
 }
 async function handleInfo2(incomingParams) {
-  const vault = activeVault();
+  const vault = obsEnv.activeVault;
   const { config } = vault;
   const basePath = vault.adapter.basePath;
   if (!config || !basePath) {
@@ -13918,11 +14116,11 @@ async function handleInfo2(incomingParams) {
 }
 async function handleListFiles(incomingParams) {
   return success({
-    paths: activeVault().getFiles().map((t) => t.path).sort()
+    paths: obsEnv.activeVault.getFiles().map((t) => t.path).sort()
   });
 }
 async function handleListFilesExceptNotes(incomingParams) {
-  const vault = activeVault();
+  const vault = obsEnv.activeVault;
   const files = vault.getFiles().map((t) => t.path);
   const notes = vault.getMarkdownFiles().map((t) => t.path);
   return success({
@@ -13942,7 +14140,7 @@ var routePath13 = {
   ]
 };
 async function handleList5(incomingParams) {
-  const tags = app().metadataCache.getTags();
+  const tags = obsEnv.metadataCache.getTags();
   return success({
     tags: Object.keys(tags).sort((a, b) => a.localeCompare(b))
   });
@@ -14040,6 +14238,7 @@ function addObjectToUrlSearchParams(obj, url, prefix = XCALLBACK_RESULT_PREFIX) 
 // src/main.ts
 var ActionsURI = class extends import_obsidian10.Plugin {
   async onload() {
+    obsEnv.app = this.app;
     this.app.workspace.onLayoutReady(() => this.registerRoutes(routes2));
   }
   onunload() {
