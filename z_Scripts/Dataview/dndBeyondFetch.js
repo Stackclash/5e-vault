@@ -157,6 +157,10 @@ class DnDBeyondCharacter {
       },
       armorClass: {
         get: () => {
+          const isArmored = this.#data.inventory.some(inv =>
+            inv.definition.filterType === 'Armor' &&
+            inv.definition.armorTypeId !== 4 &&
+            inv.equipped)
           let baseAc = () => {
             const setBaseArmor = this.modifiers.filter(mod => mod.type === 'set' && mod.subType === 'minimum-base-armor')
           }
@@ -338,13 +342,6 @@ class DnDBeyondCharacter {
 
   #isItemActive(item) {
     return (item.canEquip ? item.equipped : true) && (item.canAttune ? item.isAttuned : true)
-  }
-
-  #isArmored() {
-    return this.#data.inventory.some(inv =>
-      inv.definition.filterType === 'Armor' &&
-      inv.definition.armorTypeId !== 4 &&
-      inv.equipped)
   }
 }
 
