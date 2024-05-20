@@ -4,7 +4,6 @@ const pages = dv.pages('"4. World Almanac/Regions" or "4. World Almanac/Settleme
     return p.location && p.location.path ? p.location.path == currentPath : false
 }).sort(p => p.file.name).groupBy(p => {
     const items = p.file.folder.split('/')
-    console.log(items)
     return items[items.length - 1]
 })
 
