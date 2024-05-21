@@ -75,43 +75,44 @@ classes:
     level: 6
 abilityScores:
   strength:
-    value: 
-    modifier: 
+    value: 8
+    modifier: -1
   dexterity:
-    value: 
-    modifier: 
+    value: 16
+    modifier: 3
   constitution:
-    value: 
-    modifier: 
+    value: 13
+    modifier: 1
   intelligence:
-    value: 
-    modifier: 
+    value: 18
+    modifier: 4
   wisdom:
-    value: 
-    modifier: 
+    value: 12
+    modifier: 1
   charisma:
-    value: 
-    modifier: 
+    value: 10
+    modifier: 0
 savingThrows:
   strength:
-    value: 
-    proficiency: 
+    value: -1
+    proficiency: false
   dexterity:
-    value: 
-    proficiency: 
+    value: 3
+    proficiency: false
   constitution:
-    value: 
+    value: 4
     proficiency: true
   intelligence:
-    value: 
+    value: 7
     proficiency: true
   wisdom:
-    value: 
-    proficiency: 
+    value: 1
+    proficiency: false
   charisma:
-    value: 
-    proficiency: 
-  notes: []
+    value: 0
+    proficiency: false
+  notes:
+    - Advantage against being charmed
 skills:
   acrobatics:
   animal-handling:

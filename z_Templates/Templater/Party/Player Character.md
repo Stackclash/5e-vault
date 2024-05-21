@@ -123,43 +123,44 @@ classes:
 <% buildList(character.classes, 2) %>
 abilityScores:
   strength:
-    value: 
-    modifier: 
+    value: <% character.abilityScores.strength.value %>
+    modifier: <% character.abilityScores.strength.modifier %>
   dexterity:
-    value: 
-    modifier: 
+    value: <% character.abilityScores.dexterity.value %>
+    modifier: <% character.abilityScores.dexterity.modifier %>
   constitution:
-    value: 
-    modifier: 
+    value: <% character.abilityScores.constitution.value %>
+    modifier: <% character.abilityScores.constitution.modifier %>
   intelligence:
-    value: 
-    modifier: 
+    value: <% character.abilityScores.intelligence.value %>
+    modifier: <% character.abilityScores.intelligence.modifier %>
   wisdom:
-    value: 
-    modifier: 
+    value: <% character.abilityScores.wisdom.value %>
+    modifier: <% character.abilityScores.wisdom.modifier %>
   charisma:
-    value: 
-    modifier: 
+    value: <% character.abilityScores.charisma.value %>
+    modifier: <% character.abilityScores.charisma.modifier %>
 savingThrows:
   strength:
-    value: 
-    proficiency: 
+    value: <% character.savingThrows.strength.value %>
+    proficiency: <% character.savingThrows.strength.proficiency %>
   dexterity:
-    value: 
-    proficiency: 
+    value: <% character.savingThrows.dexterity.value %>
+    proficiency: <% character.savingThrows.dexterity.proficiency %>
   constitution:
-    value: 
-    proficiency: true
+    value: <% character.savingThrows.constitution.value %>
+    proficiency: <% character.savingThrows.constitution.proficiency %>
   intelligence:
-    value: 
-    proficiency: true
+    value: <% character.savingThrows.intelligence.value %>
+    proficiency: <% character.savingThrows.intelligence.proficiency %>
   wisdom:
-    value: 
-    proficiency: 
+    value: <% character.savingThrows.wisdom.value %>
+    proficiency: <% character.savingThrows.wisdom.proficiency %>
   charisma:
-    value: 
-    proficiency: 
-  notes: []
+    value: <% character.savingThrows.charisma.value %>
+    proficiency: <% character.savingThrows.charisma.proficiency %>
+  notes:
+<% buildList(character.savingThrows.notes, 4) %>
 skills:
   acrobatics:
   animal-handling:
