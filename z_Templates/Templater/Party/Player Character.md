@@ -1,5 +1,7 @@
 <%*
-console.log(requestUrl)
+const response = await requestUrl('https://character-service.dndbeyond.com/character/v5/character/103214475')
+console.log(response)
+
 const dv = app.plugins.getPlugin("dataview").api
 
 await tp.file.move('3. The Party/Players/' + tp.file.title)
