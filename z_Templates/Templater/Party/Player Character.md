@@ -437,8 +437,12 @@ class DnDBeyondCharacter {
   }
 
   async initialize() {
-    const data = JSON.parse(await request(`https://character-service.dndbeyond.com/character/v5/character/${dndBeyondId}`)).data
-    this.#data = data
+    return request(`https://character-service.dndbeyond.com/character/v5/character/${this.id}`)
+    .then(data => {
+      console.log(typeof data)
+      this.#data = data
+    })
+    .catch(error => console.error(error.message))
   }
 
   #isItemActive(item) {
