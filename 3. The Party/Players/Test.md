@@ -238,12 +238,9 @@ classFeatures:
   - name: "Spellcasting"
     description: "You can cast prepared artificer spells using INT as your spellcasting modifier (Spell DC 15, Spell Attack 7) and prepared artificer spells as rituals if they have the ritual tag. You must have a spellcasting focus — specifically thieves’ tools or some kind of artisan’s tool — in hand when you cast any spell with this feature."
   - name: "Infuse Item"
-    description: "Whenever you finish a long rest, you can touch up to {{scalevalue}} nonmagical objects, imbuing each of them with one of your artificer infusions, turning it into a magic item. You can attune yourself to the item the instant you infuse it, or you can forgo attunement so that someone else can attune to the item.  
-
-Your infusion remains in an item indefinitely, but when you die, the infusion vanishes after {{modifier:int@min:1#unsigned}} days. The infusion also vanishes if you give up your knowledge of the infusion or you exceed your maximum number of infusions. "
+    description: "Whenever you finish a long rest, you can touch up to {{scalevalue}} nonmagical objects, imbuing each of them with one of your artificer infusions, turning it into a magic item. You can attune yourself to the item the instant you infuse it, or you can forgo attunement so that someone else can attune to the item. Your infusion remains in an item indefinitely, but when you die, the infusion vanishes after {{modifier:int@min:1#unsigned}} days. The infusion also vanishes if you give up your knowledge of the infusion or you exceed your maximum number of infusions. "
   - name: "Artificer Infusions"
-    description: "You have invented numerous magical  infusions that rapidly create magic items. Each infusion tells you the type of item that can receive it and if the resulting magic item requires attunement.
-Some infusions specify a minimum artificer level, and unless an infusion’s description says otherwise, you can’t learn it more than once."
+    description: "You have invented numerous magical  infusions that rapidly create magic items. Each infusion tells you the type of item that can receive it and if the resulting magic item requires attunement. Some infusions specify a minimum artificer level, and unless an infusion’s description says otherwise, you can’t learn it more than once."
   - name: "Artificer Specialist"
     description: "The type of specialist are:"
   - name: "The Right Tool for the Job"

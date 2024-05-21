@@ -481,7 +481,7 @@ class DnDBeyondCharacter {
         
         return total.toString()
       })
-      .replace(/\s*\\r\\n\s*/g, '')
+      .replace(/\s*(\r\n|\n|\r)\s*/gm, ' ')
   }
 }
 
