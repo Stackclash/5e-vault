@@ -13,41 +13,41 @@ race:
   name: Elf
   subRace: High
 description:
-  gender: null
-  age: null
-  hair: null
-  eyes: null
-  skin: null
-  height: null
-  weight: null
+  gender: 
+  age: 
+  hair: 
+  eyes: 
+  skin: 
+  height: 
+  weight: 
   size: Medium
 proficiencies:
   armor:
-    - "Light Armor"
-    - "Medium Armor"
-    - "Shields"
-    - "Heavy Armor"
+    - Light Armor
+    - Medium Armor
+    - Shields
+    - Heavy Armor
   weapons:
-    - "Simple Weapons"
+    - Simple Weapons
   tools:
-    - "Thieves' Tools"
-    - "Tinker's Tools"
-    - "Smith's Tools"
-    - "Cartographer's Tools"
+    - Thieves' Tools
+    - Tinker's Tools
+    - Smith's Tools
+    - Cartographer's Tools
   languages:
-    - "Common"
-    - "Elvish"
-    - "Dwarvish"
-    - "Halfling"
+    - Common
+    - Elvish
+    - Dwarvish
+    - Halfling
 speeds: 30
 defenses:
   immunities:
-    - "magical-sleep"
+    - magical-sleep
   resistances:
-    - "all"
+    - all
 background:
   background:
-    name:  
+    name: 
     description: 
   backstory: 
   organizations: 
@@ -55,15 +55,15 @@ background:
   enemies: 
   notes: 
 classes:
-  - name: "Artificer"
-    subClass: "Armorer"
+  - name: Artificer
+    subClass: Armorer
     level: 6
 abilityScores:
   strength:
     value: 8
     modifier: -1
   dexterity:
-    value: 16
+    value: 14
     modifier: 3
   constitution:
     value: 13
@@ -97,7 +97,7 @@ savingThrows:
     value: 0
     proficiency: false
   notes:
-    - "Advantage against being charmed"
+    - Advantage against being charmed
 skills:
   acrobatics:
     value: 3
@@ -208,47 +208,46 @@ skills:
     advantage: false
     disadvantage: false
 racialTraits:
-  - name: "Darkvision"
-    description: "You can see in darkness (shades of gray) up to 60 ft."
-  - name: "Keen Senses"
-    description: "You have proficiency in the Perception skill."
-  - name: "Fey Ancestry"
-    description: "You have advantage on saves against being charmed, and magic can’t put you to sleep."
-  - name: "Trance"
-    description: "You don't need to sleep, but meditate semiconsciously for 4 hours a day. While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep."
-  - name: "Elf Weapon Training"
-    description: "You have proficiency with the longsword, shortsword, shortbow, and longbow."
-  - name: "Cantrip"
-    description: "You know one cantrip of your choice from the wizard spell list. INT is your spellcasting ability for it."
-  - name: "Extra Language"
-    description: "You can speak, read, and write one extra language of your choice."
+  - name: Darkvision
+    description: You can see in darkness (shades of gray) up to 60 ft.
+  - name: Keen Senses
+    description: You have proficiency in the Perception skill.
+  - name: Fey Ancestry
+    description: You have advantage on saves against being charmed, and magic can’t put you to sleep.
+  - name: Trance
+    description: You don't need to sleep, but meditate semiconsciously for 4 hours a day. While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
+  - name: Elf Weapon Training
+    description: You have proficiency with the longsword, shortsword, shortbow, and longbow.
+  - name: Cantrip
+    description: You know one cantrip of your choice from the wizard spell list. INT is your spellcasting ability for it.
+  - name: Extra Language
+    description: You can speak, read, and write one extra language of your choice.
 classFeatures:
-  - name: "Tools of the Trade"
-    description: "You gain proficiency with heavy armor. You also gain proficiency with smith's tools. If you already have this tool proficiency, you gain proficiency with one other type of artisan’s tools of your choice."
-  - name: "Armorer Spells"
-    description: "You always have certain spells prepared after you reach particular levels in this class, as shown in the Armorer Spells table."
-  - name: "Arcane Armor"
-    description: "Your metallurgical pursuits have led to you making armor a conduit for your magic. As an action, you can turn a suit of armor you are wearing into Arcane Armor, provided you have smith’s tools in hand."
-  - name: "Armor Model"
+  - name: Tools of the Trade
+    description: You gain proficiency with heavy armor. You also gain proficiency with smith's tools. If you already have this tool proficiency, you gain proficiency with one other type of artisan’s tools of your choice.
+  - name: Armorer Spells
+    description: You always have certain spells prepared after you reach particular levels in this class, as shown in the Armorer Spells table.
+  - name: Arcane Armor
+    description: Your metallurgical pursuits have led to you making armor a conduit for your magic. As an action, you can turn a suit of armor you are wearing into Arcane Armor, provided you have smith’s tools in hand.
+  - name: Armor Model
     description: "You can customize your Arcane Armor. When you do so, choose one of the following armor models: Guardian or Infiltrator."
-  - name: "Extra Attack"
-    description: "You can attack twice, rather than once, whenever you take the Attack action on your turn."
-  - name: "Magical Tinkering"
+  - name: Extra Attack
+    description: You can attack twice, rather than once, whenever you take the Attack action on your turn.
+  - name: Magical Tinkering
     description: "Imbue a Tiny nonmagical object with a magical property of your choice: 5ft. radius light, up to 6 second long recorded message, emits odor or nonverbal sound, static visual effect including up to 25 words of text. You can affect a maximum of {{modifier:int@min:1#unsigned}} objects at a time."
-  - name: "Spellcasting"
-    description: "You can cast prepared artificer spells using INT as your spellcasting modifier (Spell DC 15, Spell Attack 7) and prepared artificer spells as rituals if they have the ritual tag. You must have a spellcasting focus — specifically thieves’ tools or some kind of artisan’s tool — in hand when you cast any spell with this feature."
-  - name: "Infuse Item"
+  - name: Spellcasting
+    description: You can cast prepared artificer spells using INT as your spellcasting modifier (Spell DC 15, Spell Attack 7) and prepared artificer spells as rituals if they have the ritual tag. You must have a spellcasting focus — specifically thieves’ tools or some kind of artisan’s tool — in hand when you cast any spell with this feature.
+  - name: Infuse Item
     description: "Whenever you finish a long rest, you can touch up to {{scalevalue}} nonmagical objects, imbuing each of them with one of your artificer infusions, turning it into a magic item. You can attune yourself to the item the instant you infuse it, or you can forgo attunement so that someone else can attune to the item. Your infusion remains in an item indefinitely, but when you die, the infusion vanishes after {{modifier:int@min:1#unsigned}} days. The infusion also vanishes if you give up your knowledge of the infusion or you exceed your maximum number of infusions. "
-  - name: "Artificer Infusions"
-    description: "You have invented numerous magical  infusions that rapidly create magic items. Each infusion tells you the type of item that can receive it and if the resulting magic item requires attunement. Some infusions specify a minimum artificer level, and unless an infusion’s description says otherwise, you can’t learn it more than once."
-  - name: "Artificer Specialist"
+  - name: Artificer Infusions
+    description: You have invented numerous magical  infusions that rapidly create magic items. Each infusion tells you the type of item that can receive it and if the resulting magic item requires attunement. Some infusions specify a minimum artificer level, and unless an infusion’s description says otherwise, you can’t learn it more than once.
+  - name: Artificer Specialist
     description: "The type of specialist are:"
-  - name: "The Right Tool for the Job"
-    description: "With thieves’ tools or artisan’s tools in hand, you can magically create one set of artisan’s tools in an unoccupied space within 5 feet of you. This creation requires 1 hour of uninterrupted work, which can coincide with a short or long rest. Though the product of magic, the tools are nonmagical, and they vanish when you use this feature again."
-  - name: "Tool Expertise"
-    description: "Your proficiency bonus is doubled for any ability check you make that uses your proficiency with a tool."
-feats:
-
+  - name: The Right Tool for the Job
+    description: With thieves’ tools or artisan’s tools in hand, you can magically create one set of artisan’s tools in an unoccupied space within 5 feet of you. This creation requires 1 hour of uninterrupted work, which can coincide with a short or long rest. Though the product of magic, the tools are nonmagical, and they vanish when you use this feature again.
+  - name: Tool Expertise
+    description: Your proficiency bonus is doubled for any ability check you make that uses your proficiency with a tool.
+feats: 
 spells: []
 currencies:
   cp: 0
@@ -257,123 +256,123 @@ currencies:
   ep: 0
   pp: 0
 inventory:
-  - name: "Bag of Holding"
-    type: "Wondrous item"
+  - name: Bag of Holding
+    type: Wondrous item
     quantity: 1
     equipped: true
     isAttuned: false
-  - name: "Eyes of Minute Seeing"
-    type: "Wondrous item"
+  - name: Eyes of Minute Seeing
+    type: Wondrous item
     quantity: 1
     equipped: true
     isAttuned: false
-  - name: "Chain Mail"
-    type: "Armor"
+  - name: Chain Mail
+    type: Armor
     quantity: 1
     equipped: true
     isAttuned: false
-  - name: "Handaxe"
-    type: "Weapon"
+  - name: Handaxe
+    type: Weapon
     quantity: 1
     equipped: false
     isAttuned: false
-  - name: "Crossbow, light"
-    type: "Weapon"
+  - name: Crossbow, light
+    type: Weapon
     quantity: 1
     equipped: true
     isAttuned: false
-  - name: "Crossbow Bolts"
-    type: "Other Gear"
+  - name: Crossbow Bolts
+    type: Other Gear
     quantity: 20
     equipped: false
     isAttuned: false
-  - name: "Backpack"
-    type: "Other Gear"
+  - name: Backpack
+    type: Other Gear
     quantity: 1
     equipped: false
     isAttuned: false
-  - name: "Clothes, Traveler's"
-    type: "Other Gear"
+  - name: Clothes, Traveler's
+    type: Other Gear
     quantity: 1
     equipped: false
     isAttuned: false
-  - name: "Potion of Healing"
-    type: "Other Gear"
+  - name: Potion of Healing
+    type: Other Gear
     quantity: 0
     equipped: false
     isAttuned: false
-  - name: "Pouch"
-    type: "Other Gear"
+  - name: Pouch
+    type: Other Gear
     quantity: 1
     equipped: false
     isAttuned: false
-  - name: "Cartographer's Tools"
-    type: "Other Gear"
+  - name: Cartographer's Tools
+    type: Other Gear
     quantity: 1
     equipped: false
     isAttuned: false
-  - name: "Tinker's Tools"
-    type: "Other Gear"
+  - name: Tinker's Tools
+    type: Other Gear
     quantity: 1
     equipped: false
     isAttuned: false
-  - name: "Herbalism Kit"
-    type: "Other Gear"
+  - name: Herbalism Kit
+    type: Other Gear
     quantity: 1
     equipped: false
     isAttuned: false
-  - name: "Thieves' Tools"
-    type: "Other Gear"
+  - name: Thieves' Tools
+    type: Other Gear
     quantity: 1
     equipped: false
     isAttuned: false
-  - name: "Potion of Invulnerability"
-    type: "Potion"
+  - name: Potion of Invulnerability
+    type: Potion
     quantity: 4
     equipped: false
     isAttuned: false
-  - name: "Studded Leather"
-    type: "Armor"
+  - name: Studded Leather
+    type: Armor
     quantity: 1
     equipped: false
     isAttuned: false
-  - name: "Hunting Trap"
-    type: "Other Gear"
+  - name: Hunting Trap
+    type: Other Gear
     quantity: 6
     equipped: false
     isAttuned: false
-  - name: "Cook's Utensils"
-    type: "Other Gear"
+  - name: Cook's Utensils
+    type: Other Gear
     quantity: 1
     equipped: false
     isAttuned: false
-  - name: "Plate"
-    type: "Armor"
+  - name: Plate
+    type: Armor
     quantity: 1
     equipped: false
     isAttuned: false
-  - name: "Hammer"
-    type: "Other Gear"
+  - name: Hammer
+    type: Other Gear
     quantity: 1
     equipped: false
     isAttuned: false
-  - name: "Potion of Healing"
-    type: "Other Gear"
+  - name: Potion of Healing
+    type: Other Gear
     quantity: 1
     equipped: false
     isAttuned: false
-  - name: "Rations (1 day)"
-    type: "Other Gear"
+  - name: Rations (1 day)
+    type: Other Gear
     quantity: 10
     equipped: false
     isAttuned: false
-  - name: "Tinderbox"
-    type: "Other Gear"
+  - name: Tinderbox
+    type: Other Gear
     quantity: 1
     equipped: false
     isAttuned: false
-  - name: "Waterskin"
-    type: "Other Gear"
+  - name: Waterskin
+    type: Other Gear
     quantity: 1
     equipped: false
     isAttuned: false
@@ -383,8 +382,8 @@ flaw:
 likes: 
 dislikes: 
 party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
-condition:
-location:
+condition: 
+location: 
 ---
 > [!infobox|right]
 > # `=this.file.name`
@@ -403,12 +402,12 @@ location:
 > ## Stats
 > | | | |
 > | ---- | ---- | ---- |
-> | Strength | `INPUT[number:stats.str]` | `$=Math.floor((parseInt(dv.current().stats.str)-10)/2)` |
-> | Dexterity | `INPUT[number:stats.dex]` | `$=Math.floor((parseInt(dv.current().stats.dex)-10)/2)` |
-> | Constitution | `INPUT[number:stats.con]` | `$=Math.floor((parseInt(dv.current().stats.con)-10)/2)` |
-> | Intelligence | `INPUT[number:stats.int]` | `$=Math.floor((parseInt(dv.current().stats.int)-10)/2)` |
-> | Wisdom | `INPUT[number:stats.wis]` | `$=Math.floor((parseInt(dv.current().stats.wis)-10)/2)` |
-> | Charisma | `INPUT[number:stats.cha]` | `$=Math.floor((parseInt(dv.current().stats.cha)-10)/2)` |
+> | Strength | `INPUT[number:abilityScores.strength.value]` | `$=Math.floor((parseInt(dv.current().abilityScores.strength.value)-10)/2)` |
+> | Dexterity | `INPUT[number:abilityScores.dexterity.value]` | `$=Math.floor((parseInt(dv.current().abilityScores.dexterity.value)-10)/2)` |
+> | Constitution | `INPUT[number:abilityScores.constitution.value]` | `$=Math.floor((parseInt(dv.current().abilityScores.constitution.value)-10)/2)` |
+> | Intelligence | `INPUT[number:abilityScores.intelligence.value]` | `$=Math.floor((parseInt(dv.current().abilityScores.intelligence.value)-10)/2)` |
+> | Wisdom | `INPUT[number:abilityScores.wisdom.value]` | `$=Math.floor((parseInt(dv.current().abilityScores.wisdom.value)-10)/2)` |
+> | Charisma | `INPUT[number:abilityScores.charisma.value]` | `$=Math.floor((parseInt(dv.current().abilityScores.charisma.value)-10)/2)` |
 # DnD Beyond Character Sheet
 ```custom-frames
 frame: 

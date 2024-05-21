@@ -294,12 +294,12 @@ location:
 > ## Stats
 > | | | |
 > | ---- | ---- | ---- |
-> | Strength | `INPUT[number:stats.str]` | `$=Math.floor((parseInt(dv.current().stats.str)-10)/2)` |
-> | Dexterity | `INPUT[number:stats.dex]` | `$=Math.floor((parseInt(dv.current().stats.dex)-10)/2)` |
-> | Constitution | `INPUT[number:stats.con]` | `$=Math.floor((parseInt(dv.current().stats.con)-10)/2)` |
-> | Intelligence | `INPUT[number:stats.int]` | `$=Math.floor((parseInt(dv.current().stats.int)-10)/2)` |
-> | Wisdom | `INPUT[number:stats.wis]` | `$=Math.floor((parseInt(dv.current().stats.wis)-10)/2)` |
-> | Charisma | `INPUT[number:stats.cha]` | `$=Math.floor((parseInt(dv.current().stats.cha)-10)/2)` |
+> | Strength | `INPUT[number:abilityScores.strength.value]` | `$=Math.floor((parseInt(dv.current().abilityScores.strength.value)-10)/2)` |
+> | Dexterity | `INPUT[number:abilityScores.dexterity.value]` | `$=Math.floor((parseInt(dv.current().abilityScores.dexterity.value)-10)/2)` |
+> | Constitution | `INPUT[number:abilityScores.constitution.value]` | `$=Math.floor((parseInt(dv.current().abilityScores.constitution.value)-10)/2)` |
+> | Intelligence | `INPUT[number:abilityScores.intelligence.value]` | `$=Math.floor((parseInt(dv.current().abilityScores.intelligence.value)-10)/2)` |
+> | Wisdom | `INPUT[number:abilityScores.wisdom.value]` | `$=Math.floor((parseInt(dv.current().abilityScores.wisdom.value)-10)/2)` |
+> | Charisma | `INPUT[number:abilityScores.charisma.value]` | `$=Math.floor((parseInt(dv.current().abilityScores.charisma.value)-10)/2)` |
 # DnD Beyond Character Sheet
 ```custom-frames
 frame: 
