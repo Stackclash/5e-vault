@@ -26,15 +26,9 @@ if (dndBeyondInfo) {
   character = new tp.user.dndBeyondCharacter(dndBeyondId)
   await character.initialize()
 }
-const buildList = (list, spaces) => {
-  const result = list.reduce((accum, item) => {
-    accum.push(`- ${item}`.padStart(spaces))
-    return accum
-  }, []).join(`\n`)
-  console.log(result)
-  return result
-} 
 -%>
+---
+obsidianUIMode: previews
 statblock: true
 name: 
 level: <% character.level %>
@@ -45,8 +39,6 @@ url: 'https://dndbeyond.com/characters/103214475'
 image: >-
   https://www.dndbeyond.com/avatars/35471/817/1581111423-103214475.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
 name: Seluvis Felo'melorn
----
-obsidianUIMode: previews
 race:
   name: <% character.race.name %>
   subRace: <% character.race.subRace %>
