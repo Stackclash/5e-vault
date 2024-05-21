@@ -1,3 +1,5 @@
+const fs = require('fs')
+
 class DnDBeyondCharacter {
 
   static ABILITY_SCORES = {
@@ -438,6 +440,7 @@ class DnDBeyondCharacter {
   async initialize() {
     return requestUrl(`https://character-service.dndbeyond.com/character/v5/character/${this.#id}`)
       .then(response => this.#data = response.json.data)
+      .then(() => fs.writeFileSync(app.vault.adapter.getBasePath() + 'test.json', JSON.stringify(this.#data, null, 2)))
   }
 
   #isItemActive(item) {

@@ -1,36 +1,7 @@
-<%*
-const dv = app.plugins.getPlugin("dataview").api
-
-await tp.file.move('3. The Party/Players/' + tp.file.title)
-if (tp.config.run_mode === 0) {
-    let title = await tp.system.prompt("What is the name of the character?")
-    await tp.file.rename(title)
-}
-
-let images = tp.user.get_all_files(app.vault.adapter.getBasePath(), "z_Assets")
-let selectedImage = await tp.system.suggester(images.map(i => i.name), images.map(i => i.path), false, "What image to use?")
-if (!selectedImage) selectedImage = "z_Assets/PlaceholderImage.png"
-
-let parties = dv.pages('"3. The Party/Parties"')
-let selectedParty = await tp.system.suggester(parties.map(p => p.file.name), parties.map(p => [p.file.path, p.file.name]), false, "What party is the character a part of?")
-
-let dndBeyondInfo = await tp.system.prompt("Paste D&D Beyond character url or id here or press Enter to skip.")
-let character = {}
-if (dndBeyondInfo) {
-  let dndBeyondId
-  if (isNaN(dndBeyondInfo)) {
-    dndBeyondId = dndBeyondInfo.match(/\d+$/)[0]
-  } else {
-    dndBeyondId = dndBeyondInfo
-  }
-  character = new tp.user.dndBeyondCharacter(dndBeyondId)
-  await character.initialize()
-}
--%>
 ---
 obsidianUIMode: preview
 statblock: true
-level: <% character.level %>
+level: 6
 race:
 class:
 hp: 1
@@ -49,8 +20,8 @@ bond:
 flaw: 
 likes: 
 dislikes: 
-party: "[[<% selectedParty.join('|') %>]]"
-image: <% selectedImage %>
+party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
+image: z_Assets/Barovia.jpg
 condition:
 location:
 ---
