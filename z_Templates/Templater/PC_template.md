@@ -1,3 +1,16 @@
+<%*
+let dndBeyondInfo = await tp.system.prompt("Paste D&D Beyond character url or id here or press Enter to skip.")
+if (dndBeyondInfo) {
+  let dndBeyondId
+  if (isNaN(dndBeyondInfo)) {
+    dndBeyondId = dndBeyondInfo.match(/\d+$/)[0]
+  } else {
+    dndBeyondId = dndBeyondInfo
+  }
+  const character = new tp.user.dndBeyondCharacter(dndBeyondId)
+  await character.initialize()
+}
+-%>
 ---
 title: <% tp.file.title %>
 aliases:

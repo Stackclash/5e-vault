@@ -436,14 +436,8 @@ class DnDBeyondCharacter {
   }
 
   async initialize() {
-    // const data = JSON.parse(await request(`https://character-service.dndbeyond.com/character/v5/character/${dndBeyondId}`)).data
-    return fetch(`https://character-service.dndbeyond.com/character/v5/character/${this.#id}`)
-      .then(response => {
-        return response.json()
-      })
-      .then(({ data }) => {
-        this.#data = data
-      })
+    return requestUrl(`https://character-service.dndbeyond.com/character/v5/character/${this.#id}`)
+      .then(response => this.#data = response.json.data)
   }
 
   #isItemActive(item) {
@@ -488,7 +482,4 @@ class DnDBeyondCharacter {
   }
 }
 
-module.exports = {
-  test: () => 'hey',
-  DnDBeyondCharacter
-}
+module.exports = DnDBeyondCharacter
