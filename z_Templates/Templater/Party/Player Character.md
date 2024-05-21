@@ -1,6 +1,6 @@
 <%*
-const fs = require('fs')
-const path = require('path')
+const matterResponse = await requestUrl('https://unpkg.com/gray-matter')
+console.log(matterResponse)
 const dv = app.plugins.getPlugin("dataview").api
 
 await tp.file.move('3. The Party/Players/' + tp.file.title)
