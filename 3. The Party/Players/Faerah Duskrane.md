@@ -9,9 +9,7 @@ modifier: 6
 proficiency: 3
 url: https://dndbeyond.com/characters/105635812
 image: z_Assets/Barovia.jpg
-race:
-  name: Elf
-  subRace: Dark
+race: "[[5. Mechanics/Races/Elf Drow.md|Elf Drow]]"
 description:
   gender: Female
   age: 88

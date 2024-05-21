@@ -33,9 +33,7 @@ modifier: <% character.initiative %>
 proficiency: <% character.proficiencyBonus %>
 url: <% character.url %>
 image: <% selectedImage %>
-race:
-  name: <% character.race.name %>
-  subRace: <% character.race.subRace %>
+race: "[[<% foundRace.file.path %>|<% foundRace.file.name %>]]"
 description:
   gender: <% character.description.gender %>
   age: <% character.description.age %>
