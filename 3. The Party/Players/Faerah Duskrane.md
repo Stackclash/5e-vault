@@ -382,10 +382,10 @@ party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
 condition:
 location:
 ---
-> [!grid| 3 no-t]
+> [!div| grid 3 no-t]
 >> hello
 >> thieves
-> >test
+>> test
 > 
 >> next
 >> test
