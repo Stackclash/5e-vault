@@ -1,4 +1,5 @@
 <%*
+console.log(JSON.stringify(app))
 const dv = app.plugins.getPlugin("dataview").api
 
 await tp.file.move('3. The Party/Players/' + tp.file.title)
