@@ -1,47 +1,8 @@
-<%*
-const fs = require('fs')
-const path = require('path')
-const dv = app.plugins.getPlugin("dataview").api
-
-await tp.file.move('3. The Party/Players/' + tp.file.title)
-if (tp.config.run_mode === 0) {
-    let title = await tp.system.prompt("What is the name of the character?")
-    await tp.file.rename(title)
-}
-
-let images = tp.user.get_all_files(app.vault.adapter.getBasePath(), "z_Assets")
-let selectedImage = await tp.system.suggester(images.map(i => i.name), images.map(i => i.path), false, "What image to use?")
-if (!selectedImage) selectedImage = "z_Assets/PlaceholderImage.png"
-
-let parties = dv.pages('"3. The Party/Parties"')
-let selectedParty = await tp.system.suggester(parties.map(p => p.file.name), parties.map(p => [p.file.path, p.file.name]), false, "What party is the character a part of?")
-
-let dndBeyondInfo = await tp.system.prompt("Paste D&D Beyond character url or id here or press Enter to skip.")
-let character = {}
-if (dndBeyondInfo) {
-  let dndBeyondId
-  if (isNaN(dndBeyondInfo)) {
-    dndBeyondId = dndBeyondInfo.match(/\d+$/)[0]
-  } else {
-    dndBeyondId = dndBeyondInfo
-  }
-  character = new tp.user.dndBeyondCharacter(dndBeyondId)
-  await character.initialize()
-}
-const buildList = (list, spaces) => {
-  const result = list.reduce((accum, item) => {
-    accum.push(`- ${item}`.padStart(spaces))
-    return accum
-  }, []).join(`\n`)
-  fs.writeFileSync(path.join(app.vault.adapter.getBasePath(), 'test.txt'), result)
-  return result
-} 
--%>
 ---
 obsidianUIMode: previews
 statblock: true
 name: 
-level: <% character.level %>
+level: 6
 ac: 
 hp: 
 modifier: 
@@ -50,20 +11,52 @@ image: >-
   https://www.dndbeyond.com/avatars/35471/817/1581111423-103214475.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
 name: Seluvis Felo'melorn
 race:
-  name: <% character.race.name %>
-  subRace: <% character.race.subRace %>
+  name: Elf
+  subRace: High
 description:
-  gender: <% character.description.gender %>
-  age: <% character.description.age %>
-  hair: <% character.description.hair %>
-  eyes: <% character.description.eyes %>
-  skin: <% character.description.skin %>
-  height: <% character.description.height %>
-  weight: <% character.description.weight %>
-  size: <% character.description.size %>
+  gender: null
+  age: null
+  hair: null
+  eyes: null
+  skin: null
+  height: null
+  weight: null
+  size: Medium
 proficiencies:
   armor:
-<% tR += buildList(character.proficiencies.armor, 4) %>
+- Light Armor
+- Medium Armor
+- Shields
+- Heavy Armor---
+obsidianUIMode: previews
+statblock: true
+name: 
+level: rJ2KqXzxQg
+ac: 
+hp: 
+modifier: 
+url: 'https://dndbeyond.com/characters/103214475'
+image: >-
+  https://www.dndbeyond.com/avatars/35471/817/1581111423-103214475.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
+name: Seluvis Felo'melorn
+race:
+  name: rJ2KqXzxQg
+  subRace: rJ2KqXzxQg
+description:
+  gender: rJ2KqXzxQg
+  age: rJ2KqXzxQg
+  hair: rJ2KqXzxQg
+  eyes: rJ2KqXzxQg
+  skin: rJ2KqXzxQg
+  height: rJ2KqXzxQg
+  weight: rJ2KqXzxQg
+  size: rJ2KqXzxQg
+proficiencies:
+  armor:
+- Light Armor
+- Medium Armor
+- Shields
+- Heavy Armor
   weapons:
     - Simple Weapons
   tools:
@@ -197,8 +190,8 @@ bond:
 flaw: 
 likes: 
 dislikes: 
-party: "[[<% selectedParty.join('|') %>]]"
-image: <% selectedImage %>
+party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
+image: z_Assets/Barovia.jpg
 condition:
 location:
 ---

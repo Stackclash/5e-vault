@@ -1,0 +1,4 @@
+- Light Armor
+- Medium Armor
+- Shields
+- Heavy Armor
