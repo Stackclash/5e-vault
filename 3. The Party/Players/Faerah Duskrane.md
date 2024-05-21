@@ -3,7 +3,7 @@ obsidianUIMode: preview
 statblock: true
 level: 5
 race: "[[5. Mechanics/Races/Elf Drow.md|Elf Drow]]"
-class: "[[5. Mechanics/Classes/Rogue Swashbuckler (XGE).md|Rogue Swashbuckler (XGE)]]"
+class: "[[5. Mechanics/Classes/Rogue Swashbuckler.md|Rogue Swashbuckler]]"
 hp: 38
 stats:
   str: 8
@@ -25,7 +25,7 @@ condition: Healthy
 location: Vallaki
 party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
 ---
-> [!infobox|right]
+> [!infobox|left]
 > # `=this.file.name`
 > ```meta-bind
 > INPUT[imageSuggester(optionQuery("z_Assets")):image]
