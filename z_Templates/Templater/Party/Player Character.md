@@ -13,6 +13,18 @@ if (!selectedImage) selectedImage = "z_Assets/PlaceholderImage.png"
 
 let parties = dv.pages('"3. The Party/Parties"')
 let selectedParty = await tp.system.suggester(parties.map(p => p.file.name), parties.map(p => [p.file.path, p.file.name]), false, "What party is the character a part of?")
+
+let dndBeyondInfo = await tp.system.prompt("Paste D&D Beyond character url or id here or press Enter to skip.")
+if (dndBeyondInfo) {
+  let dndBeyondId
+  if (isNaN(dndBeyondInfo)) {
+    dndBeyondId = dndBeyondInfo.match(/\d+$/)[0]
+  } else {
+    dndBeyondId = dndBeyondInfo
+  }
+  console.log(dndBeyondId)
+}
+
 -%>
 ---
 obsidianUIMode: preview

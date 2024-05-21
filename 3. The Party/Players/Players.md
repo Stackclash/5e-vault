@@ -244,6 +244,7 @@ columns:
       - { label: "[[5. Mechanics/Classes/Warlock The Hexblade (XGE).md|Warlock The Hexblade (XGE)]]", value: "[[5. Mechanics/Classes/Warlock The Hexblade (XGE).md|Warlock The Hexblade (XGE)]]", color: "hsl(251, 95%, 90%)"}
       - { label: "[[5. Mechanics/Classes/Cleric Forge Domain (XGE).md|Cleric Forge Domain (XGE)]]", value: "[[5. Mechanics/Classes/Cleric Forge Domain (XGE).md|Cleric Forge Domain (XGE)]]", color: "hsl(211, 95%, 90%)"}
       - { label: "[[5. Mechanics/Classes/Artificer Armorer (TCE).md|Artificer Armorer (TCE)]]", value: "[[5. Mechanics/Classes/Artificer Armorer (TCE).md|Artificer Armorer (TCE)]]", color: "hsl(150, 95%, 90%)"}
+      - { label: "[[5. Mechanics/Classes/Rogue Swashbuckler.md|Rogue Swashbuckler]]", value: "[[5. Mechanics/Classes/Rogue Swashbuckler.md|Rogue Swashbuckler]]", color: "hsl(64, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

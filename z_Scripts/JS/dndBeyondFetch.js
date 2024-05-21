@@ -1,9 +1,4 @@
-const fs = require('fs')
-const util = require('util')
-util.inspect.defaultOptions.getters = true
-util.inspect.defaultOptions.depth = 20
-
-class DnDBeyondCharacter {
+export default class DnDBeyondCharacter {
 
   static ABILITY_SCORES = {
     1: 'strength',
@@ -492,11 +487,3 @@ class DnDBeyondCharacter {
       })
   }
 }
-
-const character = new DnDBeyondCharacter(103214475)
-
-character.initialize()
-.then(() => {
-  // console.log(character.modifiers)
-  fs.writeFileSync('test.json', JSON.stringify(character, null, 2))
-})
