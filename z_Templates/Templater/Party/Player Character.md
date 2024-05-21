@@ -1,6 +1,6 @@
 <%*
 const path = require('path')
-const DnDBeyondCharacter = require(path.join(app.vault.adapter.getBasePath(), 'z_Scripts/JS/dndBeyondFetch.js'))
+const DnDBeyondCharacter = require(path.relative(__dirname, path.join(app.vault.adapter.getBasePath(), 'z_Scripts/JS/dndBeyondFetch.js')))
 
 
 const dv = app.plugins.getPlugin("dataview").api
@@ -26,7 +26,7 @@ if (dndBeyondInfo) {
   } else {
     dndBeyondId = dndBeyondInfo
   }
-  console.log(DnDBeyondCharacter, path.join(app.vault.adapter.getBasePath(), 'z_Scripts/JS/dndBeyondFetch.js'))
+  console.log(DnDBeyondCharacter, path.relative(__dirname, path.join(app.vault.adapter.getBasePath(), 'z_Scripts/JS/dndBeyondFetch.js')))
   const character = new DnDBeyondCharacter(dndBeyondId)
   await character.initialize()
 }
