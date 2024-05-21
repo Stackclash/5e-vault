@@ -441,7 +441,6 @@ class DnDBeyondCharacter {
         url: `https://character-service.dndbeyond.com/character/v5/character/${this.#id}`
       })
       .then(response => {
-        console.log(response.json.data)
         this.#data = response.json.data
       })
       .catch(error => console.error('HEY', error))
@@ -514,7 +513,6 @@ if (dndBeyondInfo) {
   }
   const character = new DnDBeyondCharacter(dndBeyondId)
   await character.initialize()
-  console.log(character)
 }
 
 -%>
