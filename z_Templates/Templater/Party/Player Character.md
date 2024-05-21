@@ -30,7 +30,11 @@ if (dndBeyondInfo) {
 ---
 obsidianUIMode: preview
 statblock: true
+name: 
 level: <% character.level %>
+ac: 
+hp: 
+modifier: 
 race:
   name: 
   sub

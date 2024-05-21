@@ -114,7 +114,7 @@ class DnDBeyondCharacter {
       race: {
         get: () => ({
           name: this.#data.race.baseName,
-          sub: this.#data.race.subRaceShortName,
+          subRace: this.#data.race.subRaceShortName,
           fullName: this.#data.race.fullName
         }),
         enumerable: true
