@@ -35,8 +35,6 @@ const buildList = (list, spaces) => {
   return result
 } 
 -%>
----
-obsidianUIMode: preview
 statblock: true
 name: 
 level: <% character.level %>
@@ -47,6 +45,8 @@ url: 'https://dndbeyond.com/characters/103214475'
 image: >-
   https://www.dndbeyond.com/avatars/35471/817/1581111423-103214475.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
 name: Seluvis Felo'melorn
+---
+obsidianUIMode: previews
 race:
   name: <% character.race.name %>
   subRace: <% character.race.subRace %>
@@ -61,7 +61,9 @@ description:
   size: <% character.description.size %>
 proficiencies:
   armor:
-    <% tR += buildList(character.proficiencies.armor,4) %>
+<%* character.proficiencies.armor.forEach(armor => { %>
+    - <% armor %>
+<% }) %>
   weapons:
     - Simple Weapons
   tools:
