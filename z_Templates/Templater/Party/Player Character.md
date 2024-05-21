@@ -1,12 +1,6 @@
 <%*
 const dv = app.plugins.getPlugin("dataview").api
 
-await tp.file.move('3. The Party/Players/' + tp.file.title)
-if (tp.config.run_mode === 0) {
-    let title = await tp.system.prompt("What is the name of the character?")
-    await tp.file.rename(title)
-}
-
 let images = tp.user.get_all_files(app.vault.adapter.getBasePath(), "z_Assets")
 let selectedImage = await tp.system.suggester(images.map(i => i.name), images.map(i => i.path), false, "What image to use?")
 if (!selectedImage) selectedImage = "z_Assets/PlaceholderImage.png"
@@ -25,6 +19,7 @@ if (dndBeyondInfo) {
   }
   character = new tp.user.dndBeyondCharacter(dndBeyondId)
   await character.initialize()
+  await tp.file.move('3. The Party/Players/' + character.name)
 }
 const buildList = (list, spaces) => {
   let result = []

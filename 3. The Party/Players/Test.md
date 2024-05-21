@@ -1,53 +1,47 @@
 ---
 obsidianUIMode: previews
 statblock: true
-name: Seluvis Felo'melorn
+name: Faerah Duskrane
 level: 6
-ac: 19
-hp: 46
-modifier: 3
+ac: 16
+hp: 45
+modifier: 6
 proficiency: 3
-url: https://dndbeyond.com/characters/103214475
+url: https://dndbeyond.com/characters/105635812
 image: z_Assets/Barovia.jpg
 race:
   name: Elf
-  subRace: High
+  subRace: Dark
 description:
-  gender: 
-  age: 
-  hair: 
-  eyes: 
-  skin: 
-  height: 
-  weight: 
+  gender: Female
+  age: 88
+  hair: Silver
+  eyes: Lavender
+  skin: Grey-blue
+  height: 5'4
+  weight: null
   size: Medium
 proficiencies:
   armor:
-    - Light Armor
-    - Medium Armor
-    - Shields
-    - Heavy Armor
+    - "Light Armor"
   weapons:
-    - Simple Weapons
+    - "Simple Weapons"
   tools:
-    - Thieves' Tools
-    - Tinker's Tools
-    - Smith's Tools
-    - Cartographer's Tools
+    - "Thieves' Tools"
   languages:
-    - Common
-    - Elvish
-    - Dwarvish
-    - Halfling
+    - "Common"
+    - "Elvish"
+    - "Thieves’ Cant"
+    - "Undercommon"
 speeds: 30
 defenses:
   immunities:
-    - magical-sleep
+    - "magical-sleep"
   resistances:
-    - all
+
 background:
   background:
-    name: 
+    name:  
     description: 
   backstory: 
   organizations: 
@@ -55,54 +49,54 @@ background:
   enemies: 
   notes: 
 classes:
-  - name: Artificer
-    subClass: Armorer
+  - name: "Rogue"
+    subClass: "Swashbuckler"
     level: 6
 abilityScores:
   strength:
     value: 8
     modifier: -1
   dexterity:
-    value: 14
-    modifier: 3
-  constitution:
-    value: 13
-    modifier: 1
-  intelligence:
-    value: 18
+    value: 19
     modifier: 4
+  constitution:
+    value: 14
+    modifier: 2
+  intelligence:
+    value: 10
+    modifier: 0
   wisdom:
     value: 12
     modifier: 1
   charisma:
-    value: 10
-    modifier: 0
+    value: 14
+    modifier: 2
 savingThrows:
   strength:
     value: -1
     proficiency: false
   dexterity:
-    value: 3
-    proficiency: false
-  constitution:
-    value: 4
-    proficiency: true
-  intelligence:
     value: 7
+    proficiency: true
+  constitution:
+    value: 2
+    proficiency: false
+  intelligence:
+    value: 3
     proficiency: true
   wisdom:
     value: 1
     proficiency: false
   charisma:
-    value: 0
+    value: 2
     proficiency: false
   notes:
-    - Advantage against being charmed
+    - "Advantage against being charmed"
 skills:
   acrobatics:
-    value: 3
-    proficiency: false
-    expertise: false
+    value: 10
+    proficiency: true
+    expertise: true
     advantage: false
     disadvantage: false
   animal-handling:
@@ -112,46 +106,46 @@ skills:
     advantage: false
     disadvantage: false
   arcana:
-    value: 4
+    value: 0
     proficiency: false
     expertise: false
     advantage: false
     disadvantage: false
   athletics:
-    value: -1
-    proficiency: false
+    value: 2
+    proficiency: true
     expertise: false
     advantage: false
     disadvantage: false
   deception:
-    value: 0
+    value: 2
     proficiency: false
     expertise: false
     advantage: false
     disadvantage: false
   history:
-    value: 4
-    proficiency: false
-    expertise: false
-    advantage: false
-    disadvantage: false
-  insight:
-    value: 4
-    proficiency: true
-    expertise: false
-    advantage: false
-    disadvantage: false
-  intimidation:
     value: 0
     proficiency: false
     expertise: false
     advantage: false
     disadvantage: false
-  investigation:
-    value: 7
-    proficiency: true
+  insight:
+    value: 1
+    proficiency: false
     expertise: false
-    advantage: true
+    advantage: false
+    disadvantage: false
+  intimidation:
+    value: 2
+    proficiency: false
+    expertise: false
+    advantage: false
+    disadvantage: false
+  investigation:
+    value: 0
+    proficiency: false
+    expertise: false
+    advantage: false
     disadvantage: false
   medicine:
     value: 1
@@ -160,8 +154,8 @@ skills:
     advantage: false
     disadvantage: false
   nature:
-    value: 7
-    proficiency: true
+    value: 0
+    proficiency: false
     expertise: false
     advantage: false
     disadvantage: false
@@ -170,210 +164,218 @@ skills:
     proficiency: true
     expertise: false
     advantage: false
-    disadvantage: false
+    disadvantage: true
   performance:
-    value: 0
+    value: 2
     proficiency: false
     expertise: false
     advantage: false
     disadvantage: false
   persuasion:
-    value: 3
+    value: 5
     proficiency: true
     expertise: false
     advantage: false
     disadvantage: false
   religion:
-    value: 4
+    value: 0
     proficiency: false
     expertise: false
     advantage: false
     disadvantage: false
   sleight-of-hand:
-    value: 3
-    proficiency: false
-    expertise: false
+    value: 10
+    proficiency: true
+    expertise: true
     advantage: false
     disadvantage: false
   stealth:
-    value: 3
-    proficiency: false
-    expertise: false
+    value: 10
+    proficiency: true
+    expertise: true
     advantage: false
     disadvantage: false
   survival:
-    value: 1
-    proficiency: false
+    value: 4
+    proficiency: true
     expertise: false
     advantage: false
     disadvantage: false
 racialTraits:
-  - name: Darkvision
-    description: You can see in darkness (shades of gray) up to 60 ft.
-  - name: Keen Senses
-    description: You have proficiency in the Perception skill.
-  - name: Fey Ancestry
-    description: You have advantage on saves against being charmed, and magic can’t put you to sleep.
-  - name: Trance
-    description: You don't need to sleep, but meditate semiconsciously for 4 hours a day. While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
-  - name: Elf Weapon Training
-    description: You have proficiency with the longsword, shortsword, shortbow, and longbow.
-  - name: Cantrip
-    description: You know one cantrip of your choice from the wizard spell list. INT is your spellcasting ability for it.
-  - name: Extra Language
-    description: You can speak, read, and write one extra language of your choice.
+  - name: "Keen Senses"
+    description: "You have proficiency in the Perception skill."
+  - name: "Fey Ancestry"
+    description: "You have advantage on saves against being charmed, and magic can’t put you to sleep."
+  - name: "Trance"
+    description: "You don't need to sleep, but meditate semiconsciously for 4 hours a day. While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep."
+  - name: "Superior Darkvision"
+    description: "You can see in darkness (shades of gray) up to 120 ft."
+  - name: "Sunlight Sensitivity"
+    description: "You have disadvantage on attack rolls and on Perception checks that rely on sight when you, your target, or whatever you are trying to perceive is in direct sunlight."
+  - name: "Drow Magic"
+    description: "You know the dancing lights cantrip. [3rd] You can cast faerie fire once per long rest. [5th] You can cast the darkness spell once per long rest. CHA is your spellcasting ability."
+  - name: "Drow Weapon Training"
+    description: "You have proficiency with rapiers, shortswords, and hand crossbows."
 classFeatures:
-  - name: Tools of the Trade
-    description: You gain proficiency with heavy armor. You also gain proficiency with smith's tools. If you already have this tool proficiency, you gain proficiency with one other type of artisan’s tools of your choice.
-  - name: Armorer Spells
-    description: You always have certain spells prepared after you reach particular levels in this class, as shown in the Armorer Spells table.
-  - name: Arcane Armor
-    description: Your metallurgical pursuits have led to you making armor a conduit for your magic. As an action, you can turn a suit of armor you are wearing into Arcane Armor, provided you have smith’s tools in hand.
-  - name: Armor Model
-    description: "You can customize your Arcane Armor. When you do so, choose one of the following armor models: Guardian or Infiltrator."
-  - name: Extra Attack
-    description: You can attack twice, rather than once, whenever you take the Attack action on your turn.
-  - name: Magical Tinkering
-    description: "Imbue a Tiny nonmagical object with a magical property of your choice: 5ft. radius light, up to 6 second long recorded message, emits odor or nonverbal sound, static visual effect including up to 25 words of text. You can affect a maximum of {{modifier:int@min:1#unsigned}} objects at a time."
-  - name: Spellcasting
-    description: You can cast prepared artificer spells using INT as your spellcasting modifier (Spell DC 15, Spell Attack 7) and prepared artificer spells as rituals if they have the ritual tag. You must have a spellcasting focus — specifically thieves’ tools or some kind of artisan’s tool — in hand when you cast any spell with this feature.
-  - name: Infuse Item
-    description: "Whenever you finish a long rest, you can touch up to {{scalevalue}} nonmagical objects, imbuing each of them with one of your artificer infusions, turning it into a magic item. You can attune yourself to the item the instant you infuse it, or you can forgo attunement so that someone else can attune to the item. Your infusion remains in an item indefinitely, but when you die, the infusion vanishes after {{modifier:int@min:1#unsigned}} days. The infusion also vanishes if you give up your knowledge of the infusion or you exceed your maximum number of infusions. "
-  - name: Artificer Infusions
-    description: You have invented numerous magical  infusions that rapidly create magic items. Each infusion tells you the type of item that can receive it and if the resulting magic item requires attunement. Some infusions specify a minimum artificer level, and unless an infusion’s description says otherwise, you can’t learn it more than once.
-  - name: Artificer Specialist
-    description: "The type of specialist are:"
-  - name: The Right Tool for the Job
-    description: With thieves’ tools or artisan’s tools in hand, you can magically create one set of artisan’s tools in an unoccupied space within 5 feet of you. This creation requires 1 hour of uninterrupted work, which can coincide with a short or long rest. Though the product of magic, the tools are nonmagical, and they vanish when you use this feature again.
-  - name: Tool Expertise
-    description: Your proficiency bonus is doubled for any ability check you make that uses your proficiency with a tool.
-feats: 
+  - name: "Fancy Footwork"
+    description: "During your turn, if you make a melee attack against a creature, that creature can’t make opportunity attacks against you for the rest of your turn."
+  - name: "Rakish Audacity"
+    description: "You add your CHA modifier (2) to your initiative rolls. You don’t need advantage on the attack roll to use your Sneak Attack against a creature if you are within 5 ft. of it, no other creatures are within 5 ft. of you, and you don’t have disadvantage on the attack roll."
+  - name: "Expertise"
+    description: "Your proficiency bonus is doubled for any ability check you make for two chosen proficiencies. [6th] Choose two additional proficiencies."
+  - name: "Sneak Attack"
+    description: "Once per turn, you can deal an extra {{scalevalue}} damage to one creature you hit with an attack with a finesse or ranged weapon if you have advantage on the attack roll. You don’t need advantage on the attack roll if another enemy of the target is within 5 ft. of it, that enemy isn’t incapacitated, and you don’t have disadvantage on the attack roll."
+  - name: "Thieves’ Cant"
+    description: "You have learned thieves’ cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. It takes four times longer to convey such a message than it does to speak the same idea plainly."
+  - name: "Cunning Action"
+    description: "You can take a bonus action on each of your turns to take the Dash, Disengage, or Hide action."
+  - name: "Uncanny Dodge"
+    description: "When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack’s damage against you."
+  - name: "Expertise"
+    description: "Your proficiency bonus is doubled for any ability check you make that uses any of the chosen proficiencies."
+feats:
+
 spells: []
 currencies:
-  cp: 0
-  sp: 35
-  gp: 34
+  cp: 106
+  sp: 0
+  gp: 6
   ep: 0
   pp: 0
 inventory:
-  - name: Bag of Holding
-    type: Wondrous item
+  - name: "Studded Leather"
+    type: "Armor"
     quantity: 1
     equipped: true
     isAttuned: false
-  - name: Eyes of Minute Seeing
-    type: Wondrous item
-    quantity: 1
-    equipped: true
-    isAttuned: false
-  - name: Chain Mail
-    type: Armor
-    quantity: 1
-    equipped: true
-    isAttuned: false
-  - name: Handaxe
-    type: Weapon
+  - name: "Dagger"
+    type: "Weapon"
     quantity: 1
     equipped: false
     isAttuned: false
-  - name: Crossbow, light
-    type: Weapon
+  - name: "Dagger"
+    type: "Weapon"
+    quantity: 1
+    equipped: false
+    isAttuned: false
+  - name: "Quarterstaff"
+    type: "Weapon"
+    quantity: 1
+    equipped: false
+    isAttuned: false
+  - name: "Shortbow"
+    type: "Weapon"
     quantity: 1
     equipped: true
     isAttuned: false
-  - name: Crossbow Bolts
-    type: Other Gear
+  - name: "Rapier"
+    type: "Weapon"
+    quantity: 1
+    equipped: false
+    isAttuned: false
+  - name: "Scimitar"
+    type: "Weapon"
+    quantity: 1
+    equipped: true
+    isAttuned: false
+  - name: "Scimitar"
+    type: "Weapon"
+    quantity: 1
+    equipped: true
+    isAttuned: false
+  - name: "Arrows"
+    type: "Other Gear"
     quantity: 20
-    equipped: false
+    equipped: true
     isAttuned: false
-  - name: Backpack
-    type: Other Gear
+  - name: "Backpack"
+    type: "Other Gear"
     quantity: 1
     equipped: false
     isAttuned: false
-  - name: Clothes, Traveler's
-    type: Other Gear
+  - name: "Clothes, Traveler's"
+    type: "Other Gear"
     quantity: 1
     equipped: false
     isAttuned: false
-  - name: Potion of Healing
-    type: Other Gear
-    quantity: 0
+  - name: "Hunting Trap"
+    type: "Other Gear"
+    quantity: 3
     equipped: false
     isAttuned: false
-  - name: Pouch
-    type: Other Gear
+  - name: "Pouch"
+    type: "Other Gear"
     quantity: 1
     equipped: false
     isAttuned: false
-  - name: Cartographer's Tools
-    type: Other Gear
+  - name: "Thieves' Tools"
+    type: "Other Gear"
     quantity: 1
     equipped: false
     isAttuned: false
-  - name: Tinker's Tools
-    type: Other Gear
+  - name: "Ball Bearings (bag of 1,000)"
+    type: "Other Gear"
+    quantity: 1000
+    equipped: false
+    isAttuned: false
+  - name: "Bell"
+    type: "Other Gear"
     quantity: 1
     equipped: false
     isAttuned: false
-  - name: Herbalism Kit
-    type: Other Gear
+  - name: "Candle"
+    type: "Other Gear"
+    quantity: 5
+    equipped: false
+    isAttuned: false
+  - name: "Crowbar"
+    type: "Other Gear"
     quantity: 1
     equipped: false
     isAttuned: false
-  - name: Thieves' Tools
-    type: Other Gear
+  - name: "Hammer"
+    type: "Other Gear"
     quantity: 1
     equipped: false
     isAttuned: false
-  - name: Potion of Invulnerability
-    type: Potion
-    quantity: 4
-    equipped: false
-    isAttuned: false
-  - name: Studded Leather
-    type: Armor
+  - name: "Lantern, Hooded"
+    type: "Other Gear"
     quantity: 1
     equipped: false
     isAttuned: false
-  - name: Hunting Trap
-    type: Other Gear
-    quantity: 6
+  - name: "Oil (flask)"
+    type: "Other Gear"
+    quantity: 2
     equipped: false
     isAttuned: false
-  - name: Cook's Utensils
-    type: Other Gear
-    quantity: 1
-    equipped: false
-    isAttuned: false
-  - name: Plate
-    type: Armor
-    quantity: 1
-    equipped: false
-    isAttuned: false
-  - name: Hammer
-    type: Other Gear
-    quantity: 1
-    equipped: false
-    isAttuned: false
-  - name: Potion of Healing
-    type: Other Gear
-    quantity: 1
-    equipped: false
-    isAttuned: false
-  - name: Rations (1 day)
-    type: Other Gear
+  - name: "Piton"
+    type: "Other Gear"
     quantity: 10
     equipped: false
     isAttuned: false
-  - name: Tinderbox
-    type: Other Gear
+  - name: "Rations (1 day)"
+    type: "Other Gear"
+    quantity: 5
+    equipped: false
+    isAttuned: false
+  - name: "Rope, Hempen (50 feet)"
+    type: "Other Gear"
     quantity: 1
     equipped: false
     isAttuned: false
-  - name: Waterskin
-    type: Other Gear
+  - name: "Tinderbox"
+    type: "Other Gear"
     quantity: 1
+    equipped: false
+    isAttuned: false
+  - name: "Waterskin"
+    type: "Other Gear"
+    quantity: 1
+    equipped: false
+    isAttuned: false
+  - name: "String"
+    type: "Other Gear"
+    quantity: 10
     equipped: false
     isAttuned: false
 ideal: 
@@ -382,8 +384,8 @@ flaw:
 likes: 
 dislikes: 
 party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
-condition: 
-location: 
+condition:
+location:
 ---
 > [!infobox|right]
 > # `=this.file.name`

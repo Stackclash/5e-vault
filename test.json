@@ -1,52 +1,46 @@
 {
-  "url": "https://dndbeyond.com/characters/103214475",
-  "image": "https://www.dndbeyond.com/avatars/35471/817/1581111423-103214475.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp",
-  "name": "Seluvis Felo'melorn",
+  "url": "https://dndbeyond.com/characters/105635812",
+  "image": "https://www.dndbeyond.com/avatars/36048/643/1581111423-105635812.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp",
+  "name": "Faerah Duskrane",
   "race": {
     "name": "Elf",
-    "subRace": "High",
-    "fullName": "High Elf"
+    "subRace": "Dark",
+    "fullName": "Dark Elf (Drow)"
   },
   "description": {
-    "gender": null,
-    "age": null,
-    "hair": null,
-    "eyes": null,
-    "skin": null,
-    "height": null,
+    "gender": "Female",
+    "age": 88,
+    "hair": "Silver",
+    "eyes": "Lavender",
+    "skin": "Grey-blue",
+    "height": "5'4",
     "weight": null,
     "size": "Medium"
   },
   "proficiencies": {
     "armor": [
-      "Light Armor",
-      "Medium Armor",
-      "Shields",
-      "Heavy Armor"
+      "Light Armor"
     ],
     "weapons": [
       "Simple Weapons"
     ],
     "tools": [
-      "Thieves' Tools",
-      "Tinker's Tools",
-      "Smith's Tools",
-      "Cartographer's Tools"
+      "Thieves' Tools"
     ],
     "languages": [
       "Common",
       "Elvish",
-      "Dwarvish",
-      "Halfling"
+      "Thieves’ Cant",
+      "Undercommon"
     ]
   },
   "level": 6,
   "healthPoints": {
-    "max": 39,
-    "current": 46,
-    "temporary": 7
+    "max": 45,
+    "current": 45,
+    "temporary": 0
   },
-  "armorClass": 19,
+  "armorClass": 16,
   "speeds": {
     "walk": 30,
     "fly": 0,
@@ -58,27 +52,26 @@
     "immunities": [
       "magical-sleep"
     ],
-    "resistances": [
-      "all"
-    ]
+    "resistances": []
   },
-  "initiative": 3,
+  "initiative": 6,
+  "alignment": "Chaotic Good",
   "background": {
     "background": {
-      "name": "Guild Artisan / Guild Merchant",
-      "description": "<p>You are a member of an artisan’s guild, skilled in a particular field and closely associated with other artisans. You are a well-established part of the mercantile world, freed by talent and wealth from the constraints of a feudal social order. You learned your skills as an apprentice to a master artisan, under the sponsorship of your guild, until you became a master in your own right.</p>"
+      "name": "Outlander",
+      "description": "<p>You grew up in the wilds, far from the comforts of town and technology. You’ve witnessed the migration of herds larger than forests, survived weather more extreme than any city-dweller could comprehend, and enjoyed the solitude of being the only thinking creature for miles in any direction. The wilds are in your blood, whether you were a nomad, an explorer, a recluse, a hunter-gatherer, or even a marauder. Even in places where you don’t know the specific features of the terrain, you know the ways of the wild.</p>"
     },
-    "backstory": null,
-    "organizations": "I.T.E.M.S: International Traders Emporium Merchant Services - Current guild.",
+    "backstory": "I was never meant for the underdark, but then Drow really arent' welcome anywhere else. The Lolth-sworn of my kind are weak minded, following mommy dearest like lambs to slaughter. As a child I was always a free thinker and a free spirit. I'd rather explore and make friends than fight to prove my worth. I asked \"why\" too much, I could never blindly obey. It would have gotten me killed if I didn't find out just how dangerous I was to Lolth's agenda. \nWhile others of my kind would kill each other for station and ambition, I dreamt of a life beyond the confines of darkness; a life full of love, acceptance, and kindness. Of course I wouldn't have known what any of that was if my sister hadn't shown me. In secret, we made a little pact of our own. She confided in me that Drow have left the underdark before, so we decided that we would flee together after I had trained. It took years for us to find a way out and plan our escape. We lived a double life of appeasing Lolth while also gaining access to our historic records and the best trainers so I could learn and prepare. Enduring that was a special kind of hell.\nDuring that time I honed my skills in stealth, deception, and sleight of hand. My sister breathed compassion into me for the lambs who got in so deep that they lost any sense of self. \"Their free will was twisted and carved into weapons for Lolth,\" my sister would say to me. \nWe were mere weeks away from enacting our escape plan before my sister was discovered. She was murdered and made an example of. She gave me an amulet just the day before which displayed a crescent moon within a circle. She told me this stone is the color of the sky beyond the underdark. \"Look to the sky and you'll find your way,\" were her last words to me. \nI had no idea how she got the stone or what it meant at the time, but in hindsight, she knew that the plan we made together was a journey I would be walking alone. Since then I have never taken it off. My purpose is clear: release as many people as possible from the clutches of tyranny and oppression.",
+    "organizations": null,
     "allies": null,
     "enemies": null,
-    "notes": "Day 3: \"Proof of Concept\" - Weapon Construction Logs\n Redgrave and I have begun working on a device to focus magic projectiles through.  The device combined with my magical infusion would be able to be more compact than this crossbow I currently use.  (At this moment Yevelda is entering a drinking contest with a half elf for his hat, we'll see who wins.  Results are in!  She reached for his hat while passing out )  The device maybe able to be able to be attached to these Gauntlets.\n\n\n\nDay 5: Back in the bar continuing work with Redgrave.  The rest of the party has ventured out in a love mission for Yevelda.   Progress is slow...\n\n\n\n"
+    "notes": "Traps: Roll advantage on using/creating traps"
   },
   "proficiencyBonus": 3,
   "classes": [
     {
-      "name": "Artificer",
-      "subClass": "Armorer",
+      "name": "Rogue",
+      "subClass": "Swashbuckler",
       "level": 6
     }
   ],
@@ -88,24 +81,24 @@
       "modifier": -1
     },
     "dexterity": {
-      "value": 16,
-      "modifier": 3
+      "value": 19,
+      "modifier": 4
     },
     "constitution": {
-      "value": 13,
-      "modifier": 1
+      "value": 14,
+      "modifier": 2
     },
     "intelligence": {
-      "value": 18,
-      "modifier": 4
+      "value": 10,
+      "modifier": 0
     },
     "wisdom": {
       "value": 12,
       "modifier": 1
     },
     "charisma": {
-      "value": 10,
-      "modifier": 0
+      "value": 14,
+      "modifier": 2
     }
   },
   "savingThrows": {
@@ -115,18 +108,18 @@
       "proficiency": false
     },
     "dexterity": {
-      "value": 3,
-      "baseValue": 3,
-      "proficiency": false
-    },
-    "constitution": {
-      "value": 4,
-      "baseValue": 1,
-      "proficiency": true
-    },
-    "intelligence": {
       "value": 7,
       "baseValue": 4,
+      "proficiency": true
+    },
+    "constitution": {
+      "value": 2,
+      "baseValue": 2,
+      "proficiency": false
+    },
+    "intelligence": {
+      "value": 3,
+      "baseValue": 0,
       "proficiency": true
     },
     "wisdom": {
@@ -135,8 +128,8 @@
       "proficiency": false
     },
     "charisma": {
-      "value": 0,
-      "baseValue": 0,
+      "value": 2,
+      "baseValue": 2,
       "proficiency": false
     },
     "notes": [
@@ -145,10 +138,10 @@
   },
   "skills": {
     "acrobatics": {
-      "value": 3,
-      "baseValue": 3,
-      "proficiency": false,
-      "expertise": false,
+      "value": 10,
+      "baseValue": 4,
+      "proficiency": true,
+      "expertise": true,
       "disadvantage": false,
       "advantage": false
     },
@@ -161,46 +154,30 @@
       "advantage": false
     },
     "arcana": {
-      "value": 4,
-      "baseValue": 4,
+      "value": 0,
+      "baseValue": 0,
       "proficiency": false,
       "expertise": false,
       "disadvantage": false,
       "advantage": false
     },
     "athletics": {
-      "value": -1,
+      "value": 2,
       "baseValue": -1,
-      "proficiency": false,
+      "proficiency": true,
       "expertise": false,
       "disadvantage": false,
       "advantage": false
     },
     "deception": {
-      "value": 0,
-      "baseValue": 0,
+      "value": 2,
+      "baseValue": 2,
       "proficiency": false,
       "expertise": false,
       "disadvantage": false,
       "advantage": false
     },
     "history": {
-      "value": 4,
-      "baseValue": 4,
-      "proficiency": false,
-      "expertise": false,
-      "disadvantage": false,
-      "advantage": false
-    },
-    "insight": {
-      "value": 4,
-      "baseValue": 1,
-      "proficiency": true,
-      "expertise": false,
-      "disadvantage": false,
-      "advantage": false
-    },
-    "intimidation": {
       "value": 0,
       "baseValue": 0,
       "proficiency": false,
@@ -208,13 +185,29 @@
       "disadvantage": false,
       "advantage": false
     },
-    "investigation": {
-      "value": 7,
-      "baseValue": 4,
-      "proficiency": true,
+    "insight": {
+      "value": 1,
+      "baseValue": 1,
+      "proficiency": false,
       "expertise": false,
       "disadvantage": false,
-      "advantage": true
+      "advantage": false
+    },
+    "intimidation": {
+      "value": 2,
+      "baseValue": 2,
+      "proficiency": false,
+      "expertise": false,
+      "disadvantage": false,
+      "advantage": false
+    },
+    "investigation": {
+      "value": 0,
+      "baseValue": 0,
+      "proficiency": false,
+      "expertise": false,
+      "disadvantage": false,
+      "advantage": false
     },
     "medicine": {
       "value": 1,
@@ -225,9 +218,9 @@
       "advantage": false
     },
     "nature": {
-      "value": 7,
-      "baseValue": 4,
-      "proficiency": true,
+      "value": 0,
+      "baseValue": 0,
+      "proficiency": false,
       "expertise": false,
       "disadvantage": false,
       "advantage": false
@@ -237,10 +230,26 @@
       "baseValue": 1,
       "proficiency": true,
       "expertise": false,
-      "disadvantage": false,
+      "disadvantage": true,
       "advantage": false
     },
     "performance": {
+      "value": 2,
+      "baseValue": 2,
+      "proficiency": false,
+      "expertise": false,
+      "disadvantage": false,
+      "advantage": false
+    },
+    "persuasion": {
+      "value": 5,
+      "baseValue": 2,
+      "proficiency": true,
+      "expertise": false,
+      "disadvantage": false,
+      "advantage": false
+    },
+    "religion": {
       "value": 0,
       "baseValue": 0,
       "proficiency": false,
@@ -248,52 +257,32 @@
       "disadvantage": false,
       "advantage": false
     },
-    "persuasion": {
-      "value": 3,
-      "baseValue": 0,
-      "proficiency": true,
-      "expertise": false,
-      "disadvantage": false,
-      "advantage": false
-    },
-    "religion": {
-      "value": 4,
-      "baseValue": 4,
-      "proficiency": false,
-      "expertise": false,
-      "disadvantage": false,
-      "advantage": false
-    },
     "sleight-of-hand": {
-      "value": 3,
-      "baseValue": 3,
-      "proficiency": false,
-      "expertise": false,
+      "value": 10,
+      "baseValue": 4,
+      "proficiency": true,
+      "expertise": true,
       "disadvantage": false,
       "advantage": false
     },
     "stealth": {
-      "value": 3,
-      "baseValue": 3,
-      "proficiency": false,
-      "expertise": false,
+      "value": 10,
+      "baseValue": 4,
+      "proficiency": true,
+      "expertise": true,
       "disadvantage": false,
       "advantage": false
     },
     "survival": {
-      "value": 1,
+      "value": 4,
       "baseValue": 1,
-      "proficiency": false,
+      "proficiency": true,
       "expertise": false,
       "disadvantage": false,
       "advantage": false
     }
   },
   "racialTraits": [
-    {
-      "name": "Darkvision",
-      "description": "You can see in darkness (shades of gray) up to 60 ft."
-    },
     {
       "name": "Keen Senses",
       "description": "You have proficiency in the Perception skill."
@@ -307,203 +296,146 @@
       "description": "You don't need to sleep, but meditate semiconsciously for 4 hours a day. While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep."
     },
     {
-      "name": "Elf Weapon Training",
-      "description": "You have proficiency with the longsword, shortsword, shortbow, and longbow."
+      "name": "Superior Darkvision",
+      "description": "You can see in darkness (shades of gray) up to 120 ft."
     },
     {
-      "name": "Cantrip",
-      "description": "You know one cantrip of your choice from the wizard spell list. INT is your spellcasting ability for it."
+      "name": "Sunlight Sensitivity",
+      "description": "You have disadvantage on attack rolls and on Perception checks that rely on sight when you, your target, or whatever you are trying to perceive is in direct sunlight."
     },
     {
-      "name": "Extra Language",
-      "description": "You can speak, read, and write one extra language of your choice."
+      "name": "Drow Magic",
+      "description": "You know the dancing lights cantrip. [3rd] You can cast faerie fire once per long rest. [5th] You can cast the darkness spell once per long rest. CHA is your spellcasting ability."
+    },
+    {
+      "name": "Drow Weapon Training",
+      "description": "You have proficiency with rapiers, shortswords, and hand crossbows."
     }
   ],
   "classFeatures": [
     {
-      "name": "Tools of the Trade",
-      "description": "You gain proficiency with heavy armor. You also gain proficiency with smith's tools. If you already have this tool proficiency, you gain proficiency with one other type of artisan’s tools of your choice."
+      "name": "Fancy Footwork",
+      "description": "During your turn, if you make a melee attack against a creature, that creature can’t make opportunity attacks against you for the rest of your turn."
     },
     {
-      "name": "Armorer Spells",
-      "description": "You always have certain spells prepared after you reach particular levels in this class, as shown in the Armorer Spells table."
+      "name": "Rakish Audacity",
+      "description": "You add your CHA modifier (2) to your initiative rolls. You don’t need advantage on the attack roll to use your Sneak Attack against a creature if you are within 5 ft. of it, no other creatures are within 5 ft. of you, and you don’t have disadvantage on the attack roll."
     },
     {
-      "name": "Arcane Armor",
-      "description": "Your metallurgical pursuits have led to you making armor a conduit for your magic. As an action, you can turn a suit of armor you are wearing into Arcane Armor, provided you have smith’s tools in hand."
+      "name": "Expertise",
+      "description": "Your proficiency bonus is doubled for any ability check you make for two chosen proficiencies. [6th] Choose two additional proficiencies."
     },
     {
-      "name": "Armor Model",
-      "description": "You can customize your Arcane Armor. When you do so, choose one of the following armor models: Guardian or Infiltrator."
+      "name": "Sneak Attack",
+      "description": "Once per turn, you can deal an extra {{scalevalue}} damage to one creature you hit with an attack with a finesse or ranged weapon if you have advantage on the attack roll. You don’t need advantage on the attack roll if another enemy of the target is within 5 ft. of it, that enemy isn’t incapacitated, and you don’t have disadvantage on the attack roll."
     },
     {
-      "name": "Extra Attack",
-      "description": "You can attack twice, rather than once, whenever you take the Attack action on your turn."
+      "name": "Thieves’ Cant",
+      "description": "You have learned thieves’ cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. It takes four times longer to convey such a message than it does to speak the same idea plainly."
     },
     {
-      "name": "Magical Tinkering",
-      "description": "Imbue a Tiny nonmagical object with a magical property of your choice: 5ft. radius light, up to 6 second long recorded message, emits odor or nonverbal sound, static visual effect including up to 25 words of text. You can affect a maximum of {{modifier:int@min:1#unsigned}} objects at a time."
+      "name": "Cunning Action",
+      "description": "You can take a bonus action on each of your turns to take the Dash, Disengage, or Hide action."
     },
     {
-      "name": "Spellcasting",
-      "description": "You can cast prepared artificer spells using INT as your spellcasting modifier (Spell DC 15, Spell Attack 7) and prepared artificer spells as rituals if they have the ritual tag. You must have a spellcasting focus — specifically thieves’ tools or some kind of artisan’s tool — in hand when you cast any spell with this feature."
+      "name": "Uncanny Dodge",
+      "description": "When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack’s damage against you."
     },
     {
-      "name": "Infuse Item",
-      "description": "Whenever you finish a long rest, you can touch up to {{scalevalue}} nonmagical objects, imbuing each of them with one of your artificer infusions, turning it into a magic item. You can attune yourself to the item the instant you infuse it, or you can forgo attunement so that someone else can attune to the item. Your infusion remains in an item indefinitely, but when you die, the infusion vanishes after {{modifier:int@min:1#unsigned}} days. The infusion also vanishes if you give up your knowledge of the infusion or you exceed your maximum number of infusions. "
-    },
-    {
-      "name": "Artificer Infusions",
-      "description": "You have invented numerous magical  infusions that rapidly create magic items. Each infusion tells you the type of item that can receive it and if the resulting magic item requires attunement. Some infusions specify a minimum artificer level, and unless an infusion’s description says otherwise, you can’t learn it more than once."
-    },
-    {
-      "name": "Artificer Specialist",
-      "description": "The type of specialist are:"
-    },
-    {
-      "name": "The Right Tool for the Job",
-      "description": "With thieves’ tools or artisan’s tools in hand, you can magically create one set of artisan’s tools in an unoccupied space within 5 feet of you. This creation requires 1 hour of uninterrupted work, which can coincide with a short or long rest. Though the product of magic, the tools are nonmagical, and they vanish when you use this feature again."
-    },
-    {
-      "name": "Tool Expertise",
-      "description": "Your proficiency bonus is doubled for any ability check you make that uses your proficiency with a tool."
+      "name": "Expertise",
+      "description": "Your proficiency bonus is doubled for any ability check you make that uses any of the chosen proficiencies."
     }
   ],
   "feats": [],
   "spells": {
     "race": [
       {
-        "name": "Prestidigitation",
+        "name": "Dancing Lights",
         "level": 0,
         "isPrepared": true
+      },
+      {
+        "name": "Faerie Fire",
+        "level": 1,
+        "isPrepared": false
+      },
+      {
+        "name": "Darkness",
+        "level": 2,
+        "isPrepared": false
       }
     ],
-    "class": [
-      {
-        "name": "Artificer",
-        "cantripsKnown": 2,
-        "spellSlots": {
-          "max": [
-            4,
-            2,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-          ],
-          "used": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-          ]
-        },
-        "spells": [
-          {
-            "name": "Guidance",
-            "level": 0,
-            "isPrepared": true
-          },
-          {
-            "name": "Acid Splash",
-            "level": 0,
-            "isPrepared": true
-          },
-          {
-            "name": "Absorb Elements",
-            "level": 1,
-            "isPrepared": true
-          },
-          {
-            "name": "Detect Magic",
-            "level": 1,
-            "isPrepared": true
-          },
-          {
-            "name": "Grease",
-            "level": 1,
-            "isPrepared": true
-          },
-          {
-            "name": "Feather Fall",
-            "level": 1,
-            "isPrepared": true
-          },
-          {
-            "name": "Aid",
-            "level": 2,
-            "isPrepared": true
-          },
-          {
-            "name": "Invisibility",
-            "level": 2,
-            "isPrepared": true
-          },
-          {
-            "name": "Web",
-            "level": 2,
-            "isPrepared": true
-          }
-        ]
-      }
-    ]
+    "class": []
   },
   "currencies": {
-    "cp": 0,
-    "sp": 35,
-    "gp": 34,
+    "cp": 106,
+    "sp": 0,
+    "gp": 6,
     "ep": 0,
     "pp": 0
   },
   "inventory": [
     {
-      "name": "Bag of Holding",
-      "type": "Wondrous item",
-      "quantity": 1,
-      "equipped": true,
-      "isAttuned": false
-    },
-    {
-      "name": "Eyes of Minute Seeing",
-      "type": "Wondrous item",
-      "quantity": 1,
-      "equipped": true,
-      "isAttuned": false
-    },
-    {
-      "name": "Chain Mail",
+      "name": "Studded Leather",
       "type": "Armor",
       "quantity": 1,
       "equipped": true,
       "isAttuned": false
     },
     {
-      "name": "Handaxe",
+      "name": "Dagger",
       "type": "Weapon",
       "quantity": 1,
       "equipped": false,
       "isAttuned": false
     },
     {
-      "name": "Crossbow, light",
+      "name": "Dagger",
+      "type": "Weapon",
+      "quantity": 1,
+      "equipped": false,
+      "isAttuned": false
+    },
+    {
+      "name": "Quarterstaff",
+      "type": "Weapon",
+      "quantity": 1,
+      "equipped": false,
+      "isAttuned": false
+    },
+    {
+      "name": "Shortbow",
       "type": "Weapon",
       "quantity": 1,
       "equipped": true,
       "isAttuned": false
     },
     {
-      "name": "Crossbow Bolts",
+      "name": "Rapier",
+      "type": "Weapon",
+      "quantity": 1,
+      "equipped": false,
+      "isAttuned": false
+    },
+    {
+      "name": "Scimitar",
+      "type": "Weapon",
+      "quantity": 1,
+      "equipped": true,
+      "isAttuned": false
+    },
+    {
+      "name": "Scimitar",
+      "type": "Weapon",
+      "quantity": 1,
+      "equipped": true,
+      "isAttuned": false
+    },
+    {
+      "name": "Arrows",
       "type": "Other Gear",
       "quantity": 20,
-      "equipped": false,
+      "equipped": true,
       "isAttuned": false
     },
     {
@@ -521,35 +453,14 @@
       "isAttuned": false
     },
     {
-      "name": "Potion of Healing",
+      "name": "Hunting Trap",
       "type": "Other Gear",
-      "quantity": 0,
+      "quantity": 3,
       "equipped": false,
       "isAttuned": false
     },
     {
       "name": "Pouch",
-      "type": "Other Gear",
-      "quantity": 1,
-      "equipped": false,
-      "isAttuned": false
-    },
-    {
-      "name": "Cartographer's Tools",
-      "type": "Other Gear",
-      "quantity": 1,
-      "equipped": false,
-      "isAttuned": false
-    },
-    {
-      "name": "Tinker's Tools",
-      "type": "Other Gear",
-      "quantity": 1,
-      "equipped": false,
-      "isAttuned": false
-    },
-    {
-      "name": "Herbalism Kit",
       "type": "Other Gear",
       "quantity": 1,
       "equipped": false,
@@ -563,36 +474,29 @@
       "isAttuned": false
     },
     {
-      "name": "Potion of Invulnerability",
-      "type": "Potion",
-      "quantity": 4,
-      "equipped": false,
-      "isAttuned": false
-    },
-    {
-      "name": "Studded Leather",
-      "type": "Armor",
-      "quantity": 1,
-      "equipped": false,
-      "isAttuned": false
-    },
-    {
-      "name": "Hunting Trap",
+      "name": "Ball Bearings (bag of 1,000)",
       "type": "Other Gear",
-      "quantity": 6,
+      "quantity": 1000,
       "equipped": false,
       "isAttuned": false
     },
     {
-      "name": "Cook's Utensils",
+      "name": "Bell",
       "type": "Other Gear",
       "quantity": 1,
       "equipped": false,
       "isAttuned": false
     },
     {
-      "name": "Plate",
-      "type": "Armor",
+      "name": "Candle",
+      "type": "Other Gear",
+      "quantity": 5,
+      "equipped": false,
+      "isAttuned": false
+    },
+    {
+      "name": "Crowbar",
+      "type": "Other Gear",
       "quantity": 1,
       "equipped": false,
       "isAttuned": false
@@ -605,16 +509,37 @@
       "isAttuned": false
     },
     {
-      "name": "Potion of Healing",
+      "name": "Lantern, Hooded",
       "type": "Other Gear",
       "quantity": 1,
       "equipped": false,
       "isAttuned": false
     },
     {
-      "name": "Rations (1 day)",
+      "name": "Oil (flask)",
+      "type": "Other Gear",
+      "quantity": 2,
+      "equipped": false,
+      "isAttuned": false
+    },
+    {
+      "name": "Piton",
       "type": "Other Gear",
       "quantity": 10,
+      "equipped": false,
+      "isAttuned": false
+    },
+    {
+      "name": "Rations (1 day)",
+      "type": "Other Gear",
+      "quantity": 5,
+      "equipped": false,
+      "isAttuned": false
+    },
+    {
+      "name": "Rope, Hempen (50 feet)",
+      "type": "Other Gear",
+      "quantity": 1,
       "equipped": false,
       "isAttuned": false
     },
@@ -629,6 +554,13 @@
       "name": "Waterskin",
       "type": "Other Gear",
       "quantity": 1,
+      "equipped": false,
+      "isAttuned": false
+    },
+    {
+      "name": "String",
+      "type": "Other Gear",
+      "quantity": 10,
       "equipped": false,
       "isAttuned": false
     }
