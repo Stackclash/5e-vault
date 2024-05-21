@@ -3,9 +3,10 @@ obsidianUIMode: previews
 statblock: true
 name: 
 level: 6
-ac: 
-hp: 
-modifier: 
+ac: 19
+hp: 46
+modifier: 3
+proficiency: 3
 url: 'https://dndbeyond.com/characters/103214475'
 image: >-
   https://www.dndbeyond.com/avatars/35471/817/1581111423-103214475.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
@@ -40,23 +41,12 @@ proficiencies:
     - Elvish
     - Dwarvish
     - Halfling
-healthPoints:
-  max: 39
-  current: 46
-  temporary: 7
-armorClass: 19
-speeds:
-  walk: 30
-  fly: 0
-  burrow: 0
-  swim: 0
-  climb: 0
+speeds: 30
 defenses:
   immunities:
     - magical-sleep
   resistances:
     - all
-initiative: 3
 background:
   background:
     name: Guild Artisan / Guild Merchant
@@ -79,10 +69,6 @@ background:
 
     Day 5: Back in the bar continuing work with Redgrave.  The rest of the party
     has ventured out in a love mission for Yevelda.   Progress is slow...
-
-
-
-proficiencyBonus: 3
 classes:
   - name: Artificer
     subClass: Armorer

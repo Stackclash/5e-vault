@@ -49,13 +49,13 @@ const buildList = (list, spaces) => {
         accum2.push(itemString.padStart(finalSpaces + itemString.length))
 
         return accum2
-      }))
+      }, []).join(`\n`))
 
       return accum
-    }, [])
+    }, []).join(`\n`)
   }
   return result
-} 
+}
 -%>
 ---
 obsidianUIMode: previews
@@ -120,9 +120,7 @@ background:
     Day 5: Back in the bar continuing work with Redgrave.  The rest of the party
     has ventured out in a love mission for Yevelda.   Progress is slow...
 classes:
-  - name: Artificer
-    subClass: Armorer
-    level: 6
+<% buildList(character.classes, 2) %>
 abilityScores:
   strength:
     value: 
