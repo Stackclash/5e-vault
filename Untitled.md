@@ -1,20 +1,5 @@
-<%*
-let character
-let dndBeyondInfo = await tp.system.prompt("Paste D&D Beyond character url or id here or press Enter to skip.")
-if (dndBeyondInfo) {
-  let dndBeyondId
-  if (isNaN(dndBeyondInfo)) {
-    dndBeyondId = dndBeyondInfo.match(/\d+$/)[0]
-  } else {
-    dndBeyondId = dndBeyondInfo
-  }
-  character = new tp.user.dndBeyondCharacter(dndBeyondId)
-  await character.initialize()
-  console.log(character)
-}
--%>
 ---
-title: <% tp.file.title %>
+title: Untitled
 aliases:
   - 
 category: person
@@ -23,15 +8,15 @@ tags:
   - PC
 player_name: 
 race:
-  name: <% character.race.name %>
-  subRace: <% character.race.sub %>
+  name: Elf
+  subRace: High
   traits:
     - 
-totalLevel: 1
+totalLevel: 0
 class1:
-  name: <% character.classes[0].name %>
-  subClass: ­<% character.classes[0].subClass %>
-  level: ­<% character.classes[0].level %>
+  name: Artificer
+  subClass: ­Armorer
+  level: ­6
   features:
     - 
 feats:
@@ -50,42 +35,42 @@ guildGroups:
 occupation: Adventurer
 fc-calendar: Chip of the old block
 fc-category: PC Birthday
-fc-display-name: <% tp.file.title %>'s Birthday
+fc-display-name: Untitled's Birthday
 fc-date:
   day: 
   month: 
 year: 
 birthday: -30
 age: 1001
-hp: <% character.hp.current - character.hp.temporary %>
-tempHP: <% character.hp.temporary %>
-ac: <% character.armorClass %>
+hp: 39
+tempHP: 7
+ac: 5
 gender: 1
-prof: 2
+prof: 1
 abilityScores:
-  str: <% character.abilityScores.strength.value %>
-  dex: <% character.abilityScores.dexterity.value %>
-  con: <% character.abilityScores.constitution.value %>
-  int: <% character.abilityScores.intelligence.value %>
-  wis: <% character.abilityScores.wisdom.value %>
-  cha: <% character.abilityScores.charisma.value %>
+  str: 8
+  dex: 16
+  con: 13
+  int: 18
+  wis: 12
+  cha: 10
 globalMod:
   savingThrow: 0
   skillCheck: 0
   AC: 0
 passive:
-  perception: 10
-  investigation: 10
-  insight: 10
-height: <% character.description.height %>
-weight: <% character.description.weight %>
+  perception: 5
+  investigation: 5
+  insight: 5
+height: 
+weight: 
 sca_temp: 0
 sca: '[MB_EXPRESSION] "failed to evaluate expression" caused by error "Undefined symbol False"'
-gender_name: <% character.description.gender %>
+gender_name: Female
 alive: true
 day_suffix: th
-portrait: "![[<% tp.file.title %>.png]]"
-modifier: 0
+portrait: "![[Untitled.png]]"
+modifier: -5
 active: ❌
 JoaT: false
 spells:
@@ -102,7 +87,7 @@ spells:
 
 `VIEW[round(floor(({totalLevel}+7)/4),0)][math(hidden):prof]`
 
-# <% tp.file.title %> <span style="float:right">Active: `INPUT[inlineSelect(option(❌), option(✅)):active]`</span>
+# Untitled <span style="float:right">Active: `INPUT[inlineSelect(option(❌), option(✅)):active]`</span>
 
 **`VIEW[{title}]`** `VIEW[{alive} ? "is" : "was"]` a `VIEW[{age}]` year old `VIEW[{gender} == 1 ? "Male" : {gender} == 2 ? "Non-binary": "Female"][:gender_name]` `VIEW[\[\[{race.name}\]\]][text(renderMarkdown)]`.
 
@@ -247,11 +232,11 @@ spells:
 > ```
 
 > [!infobox | left clean collapse wmicro]
-> # `VIEW[!\[\[<% tp.file.title %>.png\]\]][text(renderMarkdown):portrait]`
-> # **[[<% tp.file.title %>.png | <% tp.file.title %>]]**
+> # `VIEW[!\[\[Untitled.png\]\]][text(renderMarkdown):portrait]`
+> # **[[Untitled.png | Untitled]]**
 
 > [! | clean no-i]- Inventory
-> ![[<% tp.file.title %> - Inventory| clean no-t]]
+> ![[Untitled - Inventory| clean no-t]]
 
 clothing, age, race, etc
 
