@@ -1,29 +1,485 @@
 ---
 obsidianUIMode: preview
-statblock: true
-level: 6
+statblock: inline
+url: https://dndbeyond.com/characters/103214475
+image: https://www.dndbeyond.com/avatars/35471/817/1581111423-103214475.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
+name: Seluvis Felo'melorn
 race:
-class:
-hp: 1
-stats:
-  str: 10
-  dex: 10
-  con: 10
-  int: 10
-  wis: 10
-  cha: 10
-ac: 10
-modifier:
-alignment: 
-ideal: 
-bond: 
-flaw: 
-likes: 
-dislikes: 
-party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
-image: z_Assets/Barovia.jpg
-condition:
-location:
+  name: Elf
+  sub: High
+  fullName: High Elf
+description:
+  gender: 
+  age: 
+  hair: 
+  eyes: 
+  skin: 
+  height: 
+  weight: 
+proficiencies:
+  armor:
+    - Light Armor
+    - Medium Armor
+    - Shields
+    - Heavy Armor
+  weapons:
+    - Simple Weapons
+  tools:
+    - Thieves' Tools
+    - Tinker's Tools
+    - Smith's Tools
+    - Cartographer's Tools
+  languages:
+    - Common
+    - Elvish
+    - Dwarvish
+    - Halfling
+level: 6
+hp:
+  max: 39
+  current: 46
+  temporary: 7
+armorClass: 19
+size: Medium
+speeds:
+  walk: 30
+  fly: 0
+  burrow: 0
+  swim: 0
+  climb: 0
+defenses:
+  immunities:
+    - magical-sleep
+  resistances:
+    - all
+initiative: 3
+background:
+  background:
+    name: Guild Artisan / Guild Merchant
+    description: <p>You are a member of an artisan’s guild, skilled in a particular field and closely associated with other artisans. You are a well-established part of the mercantile world, freed by talent and wealth from the constraints of a feudal social order. You learned your skills as an apprentice to a master artisan, under the sponsorship of your guild, until you became a master in your own right.</p>
+  backstory: 
+  organizations: "I.T.E.M.S: International Traders Emporium Merchant Services - Current guild."
+  allies: 
+  enemies: 
+  notes: |+
+    Day 3: "Proof of Concept" - Weapon Construction Logs
+     Redgrave and I have begun working on a device to focus magic projectiles through.  The device combined with my magical infusion would be able to be more compact than this crossbow I currently use.  (At this moment Yevelda is entering a drinking contest with a half elf for his hat, we'll see who wins.  Results are in!  She reached for his hat while passing out )  The device maybe able to be able to be attached to these Gauntlets.
+
+
+
+    Day 5: Back in the bar continuing work with Redgrave.  The rest of the party has ventured out in a love mission for Yevelda.   Progress is slow...
+
+
+
+proficiencyBonus: 3
+classes:
+  - name: Artificer
+    subClass: Armorer
+    level: 6
+abilityScores:
+  strength:
+    value: 8
+    modifier: -1
+  dexterity:
+    value: 16
+    modifier: 3
+  constitution:
+    value: 13
+    modifier: 1
+  intelligence:
+    value: 18
+    modifier: 4
+  wisdom:
+    value: 12
+    modifier: 1
+  charisma:
+    value: 10
+    modifier: 0
+savingThrows:
+  strength:
+    value: -1
+    baseValue: -1
+    proficiency: false
+  dexterity:
+    value: 3
+    baseValue: 3
+    proficiency: false
+  constitution:
+    value: 4
+    baseValue: 1
+    proficiency: true
+  intelligence:
+    value: 7
+    baseValue: 4
+    proficiency: true
+  wisdom:
+    value: 1
+    baseValue: 1
+    proficiency: false
+  charisma:
+    value: 0
+    baseValue: 0
+    proficiency: false
+  notes:
+    - Advantage against being charmed
+skills:
+  acrobatics:
+    value: 3
+    baseValue: 3
+    proficiency: false
+    expertise: false
+    disadvantage: false
+    advantage: false
+  animal-handling:
+    value: 1
+    baseValue: 1
+    proficiency: false
+    expertise: false
+    disadvantage: false
+    advantage: false
+  arcana:
+    value: 4
+    baseValue: 4
+    proficiency: false
+    expertise: false
+    disadvantage: false
+    advantage: false
+  athletics:
+    value: -1
+    baseValue: -1
+    proficiency: false
+    expertise: false
+    disadvantage: false
+    advantage: false
+  deception:
+    value: 0
+    baseValue: 0
+    proficiency: false
+    expertise: false
+    disadvantage: false
+    advantage: false
+  history:
+    value: 4
+    baseValue: 4
+    proficiency: false
+    expertise: false
+    disadvantage: false
+    advantage: false
+  insight:
+    value: 4
+    baseValue: 1
+    proficiency: true
+    expertise: false
+    disadvantage: false
+    advantage: false
+  intimidation:
+    value: 0
+    baseValue: 0
+    proficiency: false
+    expertise: false
+    disadvantage: false
+    advantage: false
+  investigation:
+    value: 7
+    baseValue: 4
+    proficiency: true
+    expertise: false
+    disadvantage: false
+    advantage: true
+  medicine:
+    value: 1
+    baseValue: 1
+    proficiency: false
+    expertise: false
+    disadvantage: false
+    advantage: false
+  nature:
+    value: 7
+    baseValue: 4
+    proficiency: true
+    expertise: false
+    disadvantage: false
+    advantage: false
+  perception:
+    value: 4
+    baseValue: 1
+    proficiency: true
+    expertise: false
+    disadvantage: false
+    advantage: false
+  performance:
+    value: 0
+    baseValue: 0
+    proficiency: false
+    expertise: false
+    disadvantage: false
+    advantage: false
+  persuasion:
+    value: 3
+    baseValue: 0
+    proficiency: true
+    expertise: false
+    disadvantage: false
+    advantage: false
+  religion:
+    value: 4
+    baseValue: 4
+    proficiency: false
+    expertise: false
+    disadvantage: false
+    advantage: false
+  sleight-of-hand:
+    value: 3
+    baseValue: 3
+    proficiency: false
+    expertise: false
+    disadvantage: false
+    advantage: false
+  stealth:
+    value: 3
+    baseValue: 3
+    proficiency: false
+    expertise: false
+    disadvantage: false
+    advantage: false
+  survival:
+    value: 1
+    baseValue: 1
+    proficiency: false
+    expertise: false
+    disadvantage: false
+    advantage: false
+racialTraits:
+  - name: Darkvision
+    description: You can see in darkness (shades of gray) up to 60 ft.
+  - name: Keen Senses
+    description: You have proficiency in the Perception skill.
+  - name: Fey Ancestry
+    description: You have advantage on saves against being charmed, and magic can’t put you to sleep.
+  - name: Trance
+    description: You don't need to sleep, but meditate semiconsciously for 4 hours a day. While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
+  - name: Elf Weapon Training
+    description: You have proficiency with the longsword, shortsword, shortbow, and longbow.
+  - name: Cantrip
+    description: You know one cantrip of your choice from the wizard spell list. INT is your spellcasting ability for it.
+  - name: Extra Language
+    description: You can speak, read, and write one extra language of your choice.
+classFeatures:
+  - name: Tools of the Trade
+    description: You gain proficiency with heavy armor. You also gain proficiency with smith's tools. If you already have this tool proficiency, you gain proficiency with one other type of artisan’s tools of your choice.
+  - name: Armorer Spells
+    description: You always have certain spells prepared after you reach particular levels in this class, as shown in the Armorer Spells table.
+  - name: Arcane Armor
+    description: Your metallurgical pursuits have led to you making armor a conduit for your magic. As an action, you can turn a suit of armor you are wearing into Arcane Armor, provided you have smith’s tools in hand.
+  - name: Armor Model
+    description: "You can customize your Arcane Armor. When you do so, choose one of the following armor models: Guardian or Infiltrator."
+  - name: Extra Attack
+    description: You can attack twice, rather than once, whenever you take the Attack action on your turn.
+  - name: Magical Tinkering
+    description: "Imbue a Tiny nonmagical object with a magical property of your choice: 5ft. radius light, up to 6 second long recorded message, emits odor or nonverbal sound, static visual effect including up to 25 words of text. You can affect a maximum of {{modifier:int@min:1#unsigned}} objects at a time."
+  - name: Spellcasting
+    description: You can cast prepared artificer spells using INT as your spellcasting modifier (Spell DC 15, Spell Attack 7) and prepared artificer spells as rituals if they have the ritual tag. You must have a spellcasting focus — specifically thieves’ tools or some kind of artisan’s tool — in hand when you cast any spell with this feature.
+  - name: Infuse Item
+    description: "Whenever you finish a long rest, you can touch up to {{scalevalue}} nonmagical objects, imbuing each of them with one of your artificer infusions, turning it into a magic item. You can attune yourself to the item the instant you infuse it, or you can forgo attunement so that someone else can attune to the item.  \r
+
+      \r
+
+      Your infusion remains in an item indefinitely, but when you die, the infusion vanishes after {{modifier:int@min:1#unsigned}} days. The infusion also vanishes if you give up your knowledge of the infusion or you exceed your maximum number of infusions. "
+  - name: Artificer Infusions
+    description: "You have invented numerous magical  infusions that rapidly create magic items. Each infusion tells you the type of item that can receive it and if the resulting magic item requires attunement.\r
+
+      Some infusions specify a minimum artificer level, and unless an infusion’s description says otherwise, you can’t learn it more than once."
+  - name: Artificer Specialist
+    description: "The type of specialist are:"
+  - name: The Right Tool for the Job
+    description: With thieves’ tools or artisan’s tools in hand, you can magically create one set of artisan’s tools in an unoccupied space within 5 feet of you. This creation requires 1 hour of uninterrupted work, which can coincide with a short or long rest. Though the product of magic, the tools are nonmagical, and they vanish when you use this feature again.
+  - name: Tool Expertise
+    description: Your proficiency bonus is doubled for any ability check you make that uses your proficiency with a tool.
+feats: 
+spells:
+  race:
+    - name: Prestidigitation
+      level: 0
+      isPrepared: true
+  class:
+    - name: Artificer
+      cantripsKnown: 2
+      spellSlots:
+        max:
+          - 4
+          - 2
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        used:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+      spells:
+        - name: Guidance
+          level: 0
+          isPrepared: true
+        - name: Acid Splash
+          level: 0
+          isPrepared: true
+        - name: Absorb Elements
+          level: 1
+          isPrepared: true
+        - name: Detect Magic
+          level: 1
+          isPrepared: true
+        - name: Grease
+          level: 1
+          isPrepared: true
+        - name: Feather Fall
+          level: 1
+          isPrepared: true
+        - name: Aid
+          level: 2
+          isPrepared: true
+        - name: Invisibility
+          level: 2
+          isPrepared: true
+        - name: Web
+          level: 2
+          isPrepared: true
+currencies:
+  cp: 0
+  sp: 35
+  gp: 34
+  ep: 0
+  pp: 0
+inventory:
+  - name: Bag of Holding
+    type: Wondrous item
+    quantity: 1
+    equipped: true
+    isAttuned: false
+  - name: Eyes of Minute Seeing
+    type: Wondrous item
+    quantity: 1
+    equipped: true
+    isAttuned: false
+  - name: Chain Mail
+    type: Armor
+    quantity: 1
+    equipped: true
+    isAttuned: false
+  - name: Handaxe
+    type: Weapon
+    quantity: 1
+    equipped: false
+    isAttuned: false
+  - name: Crossbow, light
+    type: Weapon
+    quantity: 1
+    equipped: true
+    isAttuned: false
+  - name: Crossbow Bolts
+    type: Other Gear
+    quantity: 20
+    equipped: false
+    isAttuned: false
+  - name: Backpack
+    type: Other Gear
+    quantity: 1
+    equipped: false
+    isAttuned: false
+  - name: Clothes, Traveler's
+    type: Other Gear
+    quantity: 1
+    equipped: false
+    isAttuned: false
+  - name: Potion of Healing
+    type: Other Gear
+    quantity: 0
+    equipped: false
+    isAttuned: false
+  - name: Pouch
+    type: Other Gear
+    quantity: 1
+    equipped: false
+    isAttuned: false
+  - name: Cartographer's Tools
+    type: Other Gear
+    quantity: 1
+    equipped: false
+    isAttuned: false
+  - name: Tinker's Tools
+    type: Other Gear
+    quantity: 1
+    equipped: false
+    isAttuned: false
+  - name: Herbalism Kit
+    type: Other Gear
+    quantity: 1
+    equipped: false
+    isAttuned: false
+  - name: Thieves' Tools
+    type: Other Gear
+    quantity: 1
+    equipped: false
+    isAttuned: false
+  - name: Potion of Invulnerability
+    type: Potion
+    quantity: 4
+    equipped: false
+    isAttuned: false
+  - name: Studded Leather
+    type: Armor
+    quantity: 1
+    equipped: false
+    isAttuned: false
+  - name: Hunting Trap
+    type: Other Gear
+    quantity: 6
+    equipped: false
+    isAttuned: false
+  - name: Cook's Utensils
+    type: Other Gear
+    quantity: 1
+    equipped: false
+    isAttuned: false
+  - name: Plate
+    type: Armor
+    quantity: 1
+    equipped: false
+    isAttuned: false
+  - name: Hammer
+    type: Other Gear
+    quantity: 1
+    equipped: false
+    isAttuned: false
+  - name: Potion of Healing
+    type: Other Gear
+    quantity: 1
+    equipped: false
+    isAttuned: false
+  - name: Rations (1 day)
+    type: Other Gear
+    quantity: 10
+    equipped: false
+    isAttuned: false
+  - name: Tinderbox
+    type: Other Gear
+    quantity: 1
+    equipped: false
+    isAttuned: false
+  - name: Waterskin
+    type: Other Gear
+    quantity: 1
+    equipped: false
+    isAttuned: false
 ---
 > [!infobox|right]
 > # `=this.file.name`

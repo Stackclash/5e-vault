@@ -32,6 +32,8 @@ obsidianUIMode: preview
 statblock: true
 level: <% character.level %>
 race:
+  name: 
+  sub
 class:
 hp: 1
 stats:

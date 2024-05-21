@@ -144,7 +144,7 @@ class DnDBeyondCharacter {
         get: () => this.classes.reduce((accum, dndClass) => accum + dndClass.level, 0),
         enumerable: true
       },
-      hp: {
+      healthPoints: {
         get: () => {
           const hpBonus = this.modifiers.find(mod => mod.subType === 'hit-points-per-level')
           const maxHp = Math.floor(this.#data.baseHitPoints + (this.level * this.abilityScores.constitution.modifier)) + (hpBonus ? hpBonus.value * this.level : 0)
