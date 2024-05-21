@@ -27,7 +27,12 @@ if (dndBeyondInfo) {
   await character.initialize()
 }
 const buildList = (list, spaces) => {
-  list.reduce((accum, item) => accum.push(`- ${item}`.padStart(spaces)), []).join(`\n`)
+  const result = list.reduce((accum, item) => {
+    accum.push(`- ${item}`.padStart(spaces))
+    return accum
+  }, []).join(`\n`)
+  console.log(result)
+  return result
 } 
 -%>
 ---
@@ -56,9 +61,7 @@ description:
   size: <% character.description.size %>
 proficiencies:
   armor:
-    <%*
-      character.proficiencies.armor.reduce((accum, armor) => )
-    %>
+    <% tR += buildList(character.proficiencies.armor,4) %>
   weapons:
     - Simple Weapons
   tools:
@@ -71,7 +74,6 @@ proficiencies:
     - Elvish
     - Dwarvish
     - Halfling
-level: 6
 healthPoints:
   max: 39
   current: 46
