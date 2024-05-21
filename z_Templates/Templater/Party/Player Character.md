@@ -99,26 +99,13 @@ defenses:
 <% buildList(character.defenses.resistances, 4) %>
 background:
   background:
-    name: Guild Artisan / Guild Merchant
-    description: >-
-      <p>You are a member of an artisan’s guild, skilled in a particular field
-      and closely associated with other artisans. You are a well-established
-      part of the mercantile world, freed by talent and wealth from the
-      constraints of a feudal social order. You learned your skills as an
-      apprentice to a master artisan, under the sponsorship of your guild, until
-      you became a master in your own right.</p>
-  backstory: null
-  organizations: 'I.T.E.M.S: International Traders Emporium Merchant Services - Current guild.'
-  allies: null
-  enemies: null
-  notes: >+
-    Day 3: "Proof of Concept" - Weapon Construction Logs
-     Redgrave and I have begun working on a device to focus magic projectiles through.  The device combined with my magical infusion would be able to be more compact than this crossbow I currently use.  (At this moment Yevelda is entering a drinking contest with a half elf for his hat, we'll see who wins.  Results are in!  She reached for his hat while passing out )  The device maybe able to be able to be attached to these Gauntlets.
-
-
-
-    Day 5: Back in the bar continuing work with Redgrave.  The rest of the party
-    has ventured out in a love mission for Yevelda.   Progress is slow...
+    name:  
+    description: 
+  backstory: 
+  organizations: 
+  allies: 
+  enemies: 
+  notes: 
 classes:
 <% buildList(character.classes, 2) %>
 abilityScores:

@@ -37,9 +37,9 @@ proficiencies:
     - Smith's Tools
     - Cartographer's Tools
   languages:
-    - Dwarvish
     - Common
     - Elvish
+    - Dwarvish
     - Halfling
 speeds: 30
 defenses:
@@ -49,26 +49,13 @@ defenses:
     - all
 background:
   background:
-    name: Guild Artisan / Guild Merchant
-    description: >-
-      <p>You are a member of an artisan’s guild, skilled in a particular field
-      and closely associated with other artisans. You are a well-established
-      part of the mercantile world, freed by talent and wealth from the
-      constraints of a feudal social order. You learned your skills as an
-      apprentice to a master artisan, under the sponsorship of your guild, until
-      you became a master in your own right.</p>
-  backstory: null
-  organizations: 'I.T.E.M.S: International Traders Emporium Merchant Services - Current guild.'
-  allies: null
-  enemies: null
-  notes: >+
-    Day 3: "Proof of Concept" - Weapon Construction Logs
-     Redgrave and I have begun working on a device to focus magic projectiles through.  The device combined with my magical infusion would be able to be more compact than this crossbow I currently use.  (At this moment Yevelda is entering a drinking contest with a half elf for his hat, we'll see who wins.  Results are in!  She reached for his hat while passing out )  The device maybe able to be able to be attached to these Gauntlets.
-
-
-
-    Day 5: Back in the bar continuing work with Redgrave.  The rest of the party
-    has ventured out in a love mission for Yevelda.   Progress is slow...
+    name:  
+    description: 
+  backstory: 
+  organizations: 
+  allies: 
+  enemies: 
+  notes: 
 classes:
   - name: Artificer
     subClass: Armorer
@@ -254,8 +241,6 @@ classFeatures:
     description: You can cast prepared artificer spells using INT as your spellcasting modifier (Spell DC 15, Spell Attack 7) and prepared artificer spells as rituals if they have the ritual tag. You must have a spellcasting focus — specifically thieves’ tools or some kind of artisan’s tool — in hand when you cast any spell with this feature.
   - name: Infuse Item
     description: Whenever you finish a long rest, you can touch up to {{scalevalue}} nonmagical objects, imbuing each of them with one of your artificer infusions, turning it into a magic item. You can attune yourself to the item the instant you infuse it, or you can forgo attunement so that someone else can attune to the item.  
-
-Your infusion remains in an item indefinitely, but when you die, the infusion vanishes after {{modifier:int@min:1#unsigned}} days. The infusion also vanishes if you give up your knowledge of the infusion or you exceed your maximum number of infusions. 
   - name: Artificer Infusions
     description: You have invented numerous magical  infusions that rapidly create magic items. Each infusion tells you the type of item that can receive it and if the resulting magic item requires attunement.
 Some infusions specify a minimum artificer level, and unless an infusion’s description says otherwise, you can’t learn it more than once.
@@ -266,7 +251,6 @@ Some infusions specify a minimum artificer level, and unless an infusion’s des
   - name: Tool Expertise
     description: Your proficiency bonus is doubled for any ability check you make that uses your proficiency with a tool.
 feats:
-
 spells: []
 currencies:
   cp: 0
