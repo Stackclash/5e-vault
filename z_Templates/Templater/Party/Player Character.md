@@ -35,18 +35,157 @@ level: <% character.level %>
 ac: 
 hp: 
 modifier: 
+url: 'https://dndbeyond.com/characters/103214475'
+image: >-
+  https://www.dndbeyond.com/avatars/35471/817/1581111423-103214475.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
+name: Seluvis Felo'melorn
 race:
-  name: 
-  subRace:
-class:
-stats:
-  str: 10
-  dex: 10
-  con: 10
-  int: 10
-  wis: 10
-  cha: 10
-alignment: 
+  name: <% character.race.name %>
+  subRace: <% character.race.subRace %>
+description:
+  gender: <% character.description.gender %>
+  age: <% character.description.age %>
+  hair: <% character.description.hair %>
+  eyes: <% character.description.eyes %>
+  skin: <% character.description.skin %>
+  height: <% character.description.height %>
+  weight: <% character.description.weight %>
+  size: <% character.description.size %>
+proficiencies:
+  armor:
+    - Light Armor
+    - Medium Armor
+    - Shields
+    - Heavy Armor
+  weapons:
+    - Simple Weapons
+  tools:
+    - Thieves' Tools
+    - Tinker's Tools
+    - Smith's Tools
+    - Cartographer's Tools
+  languages:
+    - Common
+    - Elvish
+    - Dwarvish
+    - Halfling
+level: 6
+healthPoints:
+  max: 39
+  current: 46
+  temporary: 7
+armorClass: 19
+speeds:
+  walk: 30
+  fly: 0
+  burrow: 0
+  swim: 0
+  climb: 0
+defenses:
+  immunities:
+    - magical-sleep
+  resistances:
+    - all
+initiative: 3
+background:
+  background:
+    name: Guild Artisan / Guild Merchant
+    description: >-
+      <p>You are a member of an artisan’s guild, skilled in a particular field
+      and closely associated with other artisans. You are a well-established
+      part of the mercantile world, freed by talent and wealth from the
+      constraints of a feudal social order. You learned your skills as an
+      apprentice to a master artisan, under the sponsorship of your guild, until
+      you became a master in your own right.</p>
+  backstory: null
+  organizations: 'I.T.E.M.S: International Traders Emporium Merchant Services - Current guild.'
+  allies: null
+  enemies: null
+  notes: >+
+    Day 3: "Proof of Concept" - Weapon Construction Logs
+     Redgrave and I have begun working on a device to focus magic projectiles through.  The device combined with my magical infusion would be able to be more compact than this crossbow I currently use.  (At this moment Yevelda is entering a drinking contest with a half elf for his hat, we'll see who wins.  Results are in!  She reached for his hat while passing out )  The device maybe able to be able to be attached to these Gauntlets.
+
+
+
+    Day 5: Back in the bar continuing work with Redgrave.  The rest of the party
+    has ventured out in a love mission for Yevelda.   Progress is slow...
+
+
+
+proficiencyBonus: 3
+classes:
+  - name: Artificer
+    subClass: Armorer
+    level: 6
+abilityScores:
+  strength:
+    value: 
+    modifier: 
+  dexterity:
+    value: 
+    modifier: 
+  constitution:
+    value: 
+    modifier: 
+  intelligence:
+    value: 
+    modifier: 
+  wisdom:
+    value: 
+    modifier: 
+  charisma:
+    value: 
+    modifier: 
+savingThrows:
+  strength:
+    value: 
+    proficiency: 
+  dexterity:
+    value: 
+    proficiency: 
+  constitution:
+    value: 
+    proficiency: true
+  intelligence:
+    value: 
+    proficiency: true
+  wisdom:
+    value: 
+    proficiency: 
+  charisma:
+    value: 
+    proficiency: 
+  notes: []
+skills:
+  acrobatics:
+  animal-handling:
+  arcana:
+  athletics:
+  deception:
+  history:
+  insight:
+  intimidation:
+  investigation:
+  medicine:
+  nature:
+  perception:
+  performance:
+  persuasion:
+  religion:
+  sleight-of-hand:
+  stealth:
+  survival:
+racialTraits: []
+classFeatures: []
+feats: []
+spells: []
+currencies:
+  cp: 0
+  sp: 35
+  gp: 34
+  ep: 0
+  pp: 0
+inventory: []
 ideal: 
 bond: 
 flaw: 
