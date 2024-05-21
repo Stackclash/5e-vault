@@ -2,12 +2,13 @@ const dv = app.plugins.getPlugin("dataview").api
 
 module.exports = (text, path) => {
     const searchTerms = text.replace(/[\(\)]/gm,'').split(' ')
-    console.log(searchTerms)
-    const scores = dv.pages(`"${path}"`).reduce((accum, page) => {
+    const scores = dv.pages(`"${path}"`).array().reduce((accum, page) => {
         let score = 0
         for (const term of searchTerms) {
-            if (text.includes(term)) score++
+            console.log(page.file.name, term, page.file.name.includes(term))
+            if (page.file.name.includes(term)) score++
         }
+        console.log(score)
         accum.push({
             value: page,
             score
