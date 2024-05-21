@@ -30,10 +30,11 @@ if (dndBeyondInfo) {
 }
 const buildList = (list, spaces) => {
   const result = list.reduce((accum, item) => {
-    accum.push(`- ${item}`.padStart(spaces))
+    const itemString = `- ${item}`
+    accum.push(itemString.padStart(spaces + itemString.length))
     return accum
   }, []).join(`\n`)
-  fs.writeFileSync(path.join(app.vault.adapter.getBasePath(), 'test.txt'), result)
+  console.log(result)
   return result
 } 
 -%>
@@ -63,7 +64,7 @@ description:
   size: <% character.description.size %>
 proficiencies:
   armor:
-<% tR += buildList(character.proficiencies.armor, 4) %>
+<% buildList(character.proficiencies.armor, 4) %>
   weapons:
     - Simple Weapons
   tools:

@@ -24,39 +24,10 @@ description:
   size: Medium
 proficiencies:
   armor:
-- Light Armor
-- Medium Armor
-- Shields
-- Heavy Armor---
-obsidianUIMode: previews
-statblock: true
-name: 
-level: rJ2KqXzxQg
-ac: 
-hp: 
-modifier: 
-url: 'https://dndbeyond.com/characters/103214475'
-image: >-
-  https://www.dndbeyond.com/avatars/35471/817/1581111423-103214475.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
-name: Seluvis Felo'melorn
-race:
-  name: rJ2KqXzxQg
-  subRace: rJ2KqXzxQg
-description:
-  gender: rJ2KqXzxQg
-  age: rJ2KqXzxQg
-  hair: rJ2KqXzxQg
-  eyes: rJ2KqXzxQg
-  skin: rJ2KqXzxQg
-  height: rJ2KqXzxQg
-  weight: rJ2KqXzxQg
-  size: rJ2KqXzxQg
-proficiencies:
-  armor:
-- Light Armor
-- Medium Armor
-- Shields
-- Heavy Armor
+    - Light Armor
+    - Medium Armor
+    - Shields
+    - Heavy Armor
   weapons:
     - Simple Weapons
   tools:
