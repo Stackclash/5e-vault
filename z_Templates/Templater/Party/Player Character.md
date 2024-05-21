@@ -26,6 +26,9 @@ if (dndBeyondInfo) {
   character = new tp.user.dndBeyondCharacter(dndBeyondId)
   await character.initialize()
 }
+const buildList = (list, spaces) => {
+  list.reduce((accum, item) => accum.push(`- ${item}`.padStart(spaces)), []).join(`\n`)
+} 
 -%>
 ---
 obsidianUIMode: preview
@@ -54,7 +57,7 @@ description:
 proficiencies:
   armor:
     <%*
-      character.proficiencies.armor.forEach(armor => tR += `- ${armor}\n`)
+      character.proficiencies.armor.reduce((accum, armor) => )
     %>
   weapons:
     - Simple Weapons
