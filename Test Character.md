@@ -43,7 +43,7 @@ ac: 10
 gender: 1
 prof: 2
 abilityScores:
-  str: 10
+  str: 15
   dex: 10
   con: 10
   int: 10
@@ -113,7 +113,7 @@ alive: true
 day_suffix: th
 portrait: "![[Untitled.png]]"
 modifier: 0
-active: ❌
+active: ✅
 JoaT: false
 spells:
   slots1: 1
