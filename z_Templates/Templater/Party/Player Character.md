@@ -29,12 +29,31 @@ if (dndBeyondInfo) {
   await character.initialize()
 }
 const buildList = (list, spaces) => {
-  const result = list.reduce((accum, item) => {
-    const itemString = `- ${item}`
-    accum.push(itemString.padStart(spaces + itemString.length))
-    return accum
-  }, []).join(`\n`)
-  console.log(result)
+  let result = []
+  if (typeof list[0] === 'string') {
+    result = list.reduce((accum, item) => {
+      const itemString = `- ${item}`
+      accum.push(itemString.padStart(spaces + itemString.length))
+      return accum
+    }, []).join(`\n`)
+  } else {
+    result = list.reduce((accum, item) => {
+      accum.push(Object.entries(item).reduce((accum2, [key, value]) => {
+        let itemString = `${key}: ${value}`
+        let finalSpaces = spaces
+        if (accum2.length === 0) {
+          itemString = `- ${itemString}`
+        } else {
+          finalSpaces += 2
+        }
+        accum2.push(itemString.padStart(finalSpaces + itemString.length))
+
+        return accum2
+      }))
+
+      return accum
+    }, [])
+  }
   return result
 } 
 -%>
@@ -43,9 +62,10 @@ obsidianUIMode: previews
 statblock: true
 name: 
 level: <% character.level %>
-ac: 
-hp: 
-modifier: 
+ac: <% character.armorClass %>
+hp: <% character.healthPoints.current %>
+modifier: <% character.initiative %>
+proficiency: <% character.proficiencyBonus %>
 url: 'https://dndbeyond.com/characters/103214475'
 image: >-
   https://www.dndbeyond.com/avatars/35471/817/1581111423-103214475.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
@@ -66,34 +86,17 @@ proficiencies:
   armor:
 <% buildList(character.proficiencies.armor, 4) %>
   weapons:
-    - Simple Weapons
+<% buildList(character.proficiencies.weapons, 4) %>
   tools:
-    - Thieves' Tools
-    - Tinker's Tools
-    - Smith's Tools
-    - Cartographer's Tools
+<% buildList(character.proficiencies.tools, 4) %>
   languages:
-    - Common
-    - Elvish
-    - Dwarvish
-    - Halfling
-healthPoints:
-  max: 39
-  current: 46
-  temporary: 7
-armorClass: 19
-speeds:
-  walk: 30
-  fly: 0
-  burrow: 0
-  swim: 0
-  climb: 0
+<% buildList(character.proficiencies.languages, 4) %>
+speeds: <% character.speeds.walk %>
 defenses:
   immunities:
-    - magical-sleep
+<% buildList(character.defenses.immunities, 4) %>
   resistances:
-    - all
-initiative: 3
+<% buildList(character.defenses.resistances, 4) %>
 background:
   background:
     name: Guild Artisan / Guild Merchant
@@ -116,10 +119,6 @@ background:
 
     Day 5: Back in the bar continuing work with Redgrave.  The rest of the party
     has ventured out in a love mission for Yevelda.   Progress is slow...
-
-
-
-proficiencyBonus: 3
 classes:
   - name: Artificer
     subClass: Armorer
