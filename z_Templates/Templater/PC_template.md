@@ -21,15 +21,15 @@ tags:
   - PC
 player_name: 
 race:
-  name: 
-  subRace: 
+  name: <% character.race.name %>
+  subRace: <% character.race.sub %>
   traits:
     - 
 totalLevel: 1
 class1:
-  name: 
-  subClass: ­
-  level: 1
+  name: <% character.classes[0].name %>
+  subClass: ­<% character.classes[0].subClass %>
+  level: ­<% character.classes[0].level %>
   features:
     - 
 feats:
