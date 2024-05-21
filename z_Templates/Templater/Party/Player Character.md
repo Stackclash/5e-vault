@@ -60,16 +60,14 @@ const buildList = (list, spaces) => {
 ---
 obsidianUIMode: previews
 statblock: true
-name: 
+name: <% character.name %>
 level: <% character.level %>
 ac: <% character.armorClass %>
 hp: <% character.healthPoints.current %>
 modifier: <% character.initiative %>
 proficiency: <% character.proficiencyBonus %>
-url: 'https://dndbeyond.com/characters/103214475'
-image: >-
-  https://www.dndbeyond.com/avatars/35471/817/1581111423-103214475.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
-name: Seluvis Felo'melorn
+url: <% character.url %>
+image: <% selectedImage %>
 race:
   name: <% character.race.name %>
   subRace: <% character.race.subRace %>
@@ -278,7 +276,6 @@ flaw:
 likes: 
 dislikes: 
 party: "[[<% selectedParty.join('|') %>]]"
-image: <% selectedImage %>
 condition:
 location:
 ---

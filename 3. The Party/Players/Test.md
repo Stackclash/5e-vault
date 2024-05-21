@@ -232,7 +232,7 @@ classFeatures:
   - name: Arcane Armor
     description: Your metallurgical pursuits have led to you making armor a conduit for your magic. As an action, you can turn a suit of armor you are wearing into Arcane Armor, provided you have smith’s tools in hand.
   - name: Armor Model
-    description: You can customize your Arcane Armor. When you do so, choose one of the following armor models: Guardian or Infiltrator.
+    description: You can customize your Arcane Armor. When you do so, choose one of the following armor models Guardian or Infiltrator.
   - name: Extra Attack
     description: You can attack twice, rather than once, whenever you take the Attack action on your turn.
   - name: Magical Tinkering
@@ -242,8 +242,7 @@ classFeatures:
   - name: Infuse Item
     description: Whenever you finish a long rest, you can touch up to {{scalevalue}} nonmagical objects, imbuing each of them with one of your artificer infusions, turning it into a magic item. You can attune yourself to the item the instant you infuse it, or you can forgo attunement so that someone else can attune to the item.  
   - name: Artificer Infusions
-    description: You have invented numerous magical  infusions that rapidly create magic items. Each infusion tells you the type of item that can receive it and if the resulting magic item requires attunement.
-Some infusions specify a minimum artificer level, and unless an infusion’s description says otherwise, you can’t learn it more than once.
+    description: You have invented numerous magical  infusions that rapidly create magic items. Each infusion tells you the type of item that can receive it and if the resulting magic item requires attunement. Some infusions specify a minimum artificer level, and unless an infusion’s description says otherwise, you can’t learn it more than once.
   - name: Artificer Specialist
     description: The type of specialist are:
   - name: The Right Tool for the Job
