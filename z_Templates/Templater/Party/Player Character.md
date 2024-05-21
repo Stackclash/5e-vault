@@ -9,18 +9,18 @@ let parties = dv.pages('"3. The Party/Parties"')
 let selectedParty = await tp.system.suggester(parties.map(p => p.file.name), parties.map(p => [p.file.path, p.file.name]), false, "What party is the character a part of?")
 
 let dndBeyondInfo = await tp.system.prompt("Paste D&D Beyond character url or id here or press Enter to skip.")
-let character = {}
-if (dndBeyondInfo) {
-  let dndBeyondId
-  if (isNaN(dndBeyondInfo)) {
-    dndBeyondId = dndBeyondInfo.match(/\d+$/)[0]
-  } else {
-    dndBeyondId = dndBeyondInfo
-  }
-  character = new tp.user.dndBeyondCharacter(dndBeyondId)
-  await character.initialize()
-  await tp.file.move('3. The Party/Players/' + character.name)
+
+let dndBeyondId
+if (isNaN(dndBeyondInfo)) {
+  dndBeyondId = dndBeyondInfo.match(/\d+$/)[0]
+} else {
+  dndBeyondId = dndBeyondInfo
 }
+const character = new tp.user.dndBeyondCharacter(dndBeyondId)
+await character.initialize()
+await tp.file.move('3. The Party/Players/' + character.name)
+
+const foundRace = tp.user.find_file(character.race.fullName, '5. Mechanics/Races')
 -%>
 ---
 obsidianUIMode: previews
