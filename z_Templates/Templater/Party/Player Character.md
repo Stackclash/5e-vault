@@ -21,34 +21,6 @@ if (dndBeyondInfo) {
   await character.initialize()
   await tp.file.move('3. The Party/Players/' + character.name)
 }
-const buildList = (list, spaces) => {
-  let result = []
-  if (typeof list[0] === 'string') {
-    result = list.reduce((accum, item) => {
-      const itemString = `- "${item}"`
-      accum.push(itemString.padStart(spaces + itemString.length))
-      return accum
-    }, []).join(`\n`)
-  } else {
-    result = list.reduce((accum, item) => {
-      accum.push(Object.entries(item).reduce((accum2, [key, value]) => {
-        let itemString = typeof value === 'string' ? `${key}: "${value}"` : `${key}: ${value}`
-        let finalSpaces = spaces
-        if (accum2.length === 0) {
-          itemString = `- ${itemString}`
-        } else {
-          finalSpaces += 2
-        }
-        accum2.push(itemString.padStart(finalSpaces + itemString.length))
-
-        return accum2
-      }, []).join(`\n`))
-
-      return accum
-    }, []).join(`\n`)
-  }
-  return result
-}
 -%>
 ---
 obsidianUIMode: previews
@@ -75,19 +47,19 @@ description:
   size: <% character.description.size %>
 proficiencies:
   armor:
-<% buildList(character.proficiencies.armor, 4) %>
+<% tp.user.build_yaml_list(character.proficiencies.armor, 4) %>
   weapons:
-<% buildList(character.proficiencies.weapons, 4) %>
+<% tp.user.build_yaml_list(character.proficiencies.weapons, 4) %>
   tools:
-<% buildList(character.proficiencies.tools, 4) %>
+<% tp.user.build_yaml_list(character.proficiencies.tools, 4) %>
   languages:
-<% buildList(character.proficiencies.languages, 4) %>
-speeds: <% character.speeds.walk %>
+<% tp.user.build_yaml_list(character.proficiencies.languages, 4) %>
+speed: <% character.speeds.walk %>
 defenses:
   immunities:
-<% buildList(character.defenses.immunities, 4) %>
+<% tp.user.build_yaml_list(character.defenses.immunities, 4) %>
   resistances:
-<% buildList(character.defenses.resistances, 4) %>
+<% tp.user.build_yaml_list(character.defenses.resistances, 4) %>
 background:
   background:
     name:  
@@ -98,7 +70,7 @@ background:
   enemies: 
   notes: 
 classes:
-<% buildList(character.classes, 2) %>
+<% tp.user.build_yaml_list(character.classes, 2) %>
 abilityScores:
   strength:
     value: <% character.abilityScores.strength.value %>
@@ -138,7 +110,7 @@ savingThrows:
     value: <% character.savingThrows.charisma.value %>
     proficiency: <% character.savingThrows.charisma.proficiency %>
   notes:
-<% buildList(character.savingThrows.notes, 4) %>
+<% tp.user.build_yaml_list(character.savingThrows.notes, 4) %>
 skills:
   acrobatics:
     value: <% character.skills.acrobatics.value %>
@@ -249,11 +221,11 @@ skills:
     advantage: <% character.skills.survival.advantage %>
     disadvantage: <% character.skills.survival.disadvantage %>
 racialTraits:
-<% buildList(character.racialTraits, 2) %>
+<% tp.user.build_yaml_list(character.racialTraits, 2) %>
 classFeatures:
-<% buildList(character.classFeatures, 2) %>
+<% tp.user.build_yaml_list(character.classFeatures, 2) %>
 feats:
-<% buildList(character.feats, 2) %>
+<% tp.user.build_yaml_list(character.feats, 2) %>
 spells: []
 currencies:
   cp: <% character.currencies.cp %>
@@ -262,7 +234,7 @@ currencies:
   ep: <% character.currencies.ep %>
   pp: <% character.currencies.pp %>
 inventory:
-<% buildList(character.inventory, 2) %>
+<% tp.user.build_yaml_list(character.inventory, 2) %>
 ideal: 
 bond: 
 flaw: 
