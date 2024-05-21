@@ -437,12 +437,13 @@ class DnDBeyondCharacter {
   }
 
   async initialize() {
-    console.log(`https://character-service.dndbeyond.com/character/v5/character/${this.id}`)
     return requestUrl({
-        url: `https://character-service.dndbeyond.com/character/v5/character/${this.id}`,
-        headers: {'Accept': 'application/json', 'Content-Type': 'application/json'}
+        url: `https://character-service.dndbeyond.com/character/v5/character/${this.#id}`
       })
-      .then(response => response.json.data)
+      .then(response => {
+        console.log(response.json.data)
+        this.#data = response.json.data
+      })
       .catch(error => console.error('HEY', error))
   }
 
