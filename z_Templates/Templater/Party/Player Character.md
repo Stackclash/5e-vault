@@ -53,10 +53,9 @@ description:
   size: <% character.description.size %>
 proficiencies:
   armor:
-    - Light Armor
-    - Medium Armor
-    - Shields
-    - Heavy Armor
+    <%*
+      character.proficiencies.armor.forEach(armor => tR += `- ${armor}\n`)
+    %>
   weapons:
     - Simple Weapons
   tools:
