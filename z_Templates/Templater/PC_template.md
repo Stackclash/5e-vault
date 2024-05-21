@@ -1,4 +1,5 @@
 <%*
+let character
 let dndBeyondInfo = await tp.system.prompt("Paste D&D Beyond character url or id here or press Enter to skip.")
 if (dndBeyondInfo) {
   let dndBeyondId
@@ -7,8 +8,9 @@ if (dndBeyondInfo) {
   } else {
     dndBeyondId = dndBeyondInfo
   }
-  const character = new tp.user.dndBeyondCharacter(dndBeyondId)
+  character = new tp.user.dndBeyondCharacter(dndBeyondId)
   await character.initialize()
+  console.log(character)
 }
 -%>
 ---
@@ -55,65 +57,65 @@ fc-date:
 year: 
 birthday: -30
 age: 1001
-hp: 1
-tempHP: 0
-ac: 10
+hp: <% character.hp.current - character.hp.temporary %>
+tempHP: <% character.hp.temporary %>
+ac: <% character.armorClass %>
 gender: 1
 prof: 2
 abilityScores:
-  str: 10
-  dex: 10
-  con: 10
-  int: 10
-  wis: 10
-  cha: 10
+  str: <% character.abilityScores.strength.value %>
+  dex: <% character.abilityScores.dexterity.value %>
+  con: <% character.abilityScores.constitution.value %>
+  int: <% character.abilityScores.intelligence.value %>
+  wis: <% character.abilityScores.wisdom.value %>
+  cha: <% character.abilityScores.charisma.value %>
 savingThrows:
-  str: false
-  dex: false
-  con: false
-  int: false
-  wis: false
-  cha: false
+  str: <% character.savingThrows.strength.proficiency %>
+  dex: <% character.savingThrows.dexterity.proficiency %>
+  con: <% character.savingThrows.constitution.proficiency %>
+  int: <% character.savingThrows.intelligence.proficiency %>
+  wis: <% character.savingThrows.wisdom.proficiency %>
+  cha: <% character.savingThrows.charisma.proficiency %>
 skills:
-  acrobatics: false
-  athletics: false
-  animalHandling: false
-  arcana: false
-  atheltics: false
-  deception: false
-  history: false
-  insight: false
-  intimidation: false
-  investigation: false
-  medicine: false
-  nature: false
-  perception: false
-  performance: false
-  persuasion: false
-  religion: false
-  sleightOfHand: false
-  stealth: false
-  survival: false
+  acrobatics: <% character.skills.acrobatics.proficiency %>
+  athletics: <% character.skills.athletics.proficiency %>
+  animalHandling: <% character.skills.animalHandling.proficiency %>
+  arcana: <% character.skills.arcana.proficiency %>
+  atheltics: <% character.skills.atheltics.proficiency %>
+  deception: <% character.skills.deception.proficiency %>
+  history: <% character.skills.history.proficiency %>
+  insight: <% character.skills.insight.proficiency %>
+  intimidation: <% character.skills.intimidation.proficiency %>
+  investigation: <% character.skills.investigation.proficiency %>
+  medicine: <% character.skills.medicine.proficiency %>
+  nature: <% character.skills.nature.proficiency %>
+  perception: <% character.skills.perception.proficiency %>
+  performance: <% character.skills.performance.proficiency %>
+  persuasion: <% character.skills.persuasion.proficiency %>
+  religion: <% character.skills.religion.proficiency %>
+  sleightOfHand: <% character.skills.sleightOfHand.proficiency %>
+  stealth: <% character.skills.stealth.proficiency %>
+  survival: <% character.skills.survival.proficiency %>
 expertise:
-  acrobatics: false
-  athletics: false
-  animalHandling: false
-  arcana: false
-  atheltics: false
-  deception: false
-  history: false
-  insight: false
-  intimidation: false
-  investigation: false
-  medicine: false
-  nature: false
-  perception: false
-  performance: false
-  persuasion: false
-  religion: false
-  sleightOfHand: false
-  stealth: false
-  survival: false
+  acrobatics: <% character.skills.acrobatics.expertise %>
+  athletics: <% character.skills.athletics.expertise %>
+  animalHandling: <% character.skills.animalHandling.expertise %>
+  arcana: <% character.skills.arcana.expertise %>
+  atheltics: <% character.skills.atheltics.expertise %>
+  deception: <% character.skills.deception.expertise %>
+  history: <% character.skills.history.expertise %>
+  insight: <% character.skills.insight.expertise %>
+  intimidation: <% character.skills.intimidation.expertise %>
+  investigation: <% character.skills.investigation.expertise %>
+  medicine: <% character.skills.medicine.expertise %>
+  nature: <% character.skills.nature.expertise %>
+  perception: <% character.skills.perception.expertise %>
+  performance: <% character.skills.performance.expertise %>
+  persuasion: <% character.skills.persuasion.expertise %>
+  religion: <% character.skills.religion.expertise %>
+  sleightOfHand: <% character.skills.sleightOfHand.expertise %>
+  stealth: <% character.skills.stealth.expertise %>
+  survival: <% character.skills.survival.expertise %>
 globalMod:
   savingThrow: 0
   skillCheck: 0
@@ -122,11 +124,11 @@ passive:
   perception: 10
   investigation: 10
   insight: 10
-height: 1.7
-weight: 70
+height: <% character.description.height %>
+weight: <% character.description.weight %>
 sca_temp: 0
 sca: '[MB_EXPRESSION] "failed to evaluate expression" caused by error "Undefined symbol False"'
-gender_name: Male
+gender_name: <% character.description.gender %>
 alive: true
 day_suffix: th
 portrait: "![[<% tp.file.title %>.png]]"
