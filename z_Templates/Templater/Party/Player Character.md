@@ -163,34 +163,128 @@ savingThrows:
 <% buildList(character.savingThrows.notes, 4) %>
 skills:
   acrobatics:
+    value: <% character.skills.acrobatics.value %>
+    proficiency: <% character.skills.acrobatics.proficiency %>
+    expertise: <% character.skills.acrobatics.expertise %>
+    advantage: <% character.skills.acrobatics.advantage %>
+    disadvantage: <% character.skills.acrobatics.disadvantage %>
   animal-handling:
+    value: <% character.skills.handling.value %>
+    proficiency: <% character.skills.handling.proficiency %>
+    expertise: <% character.skills.handling.expertise %>
+    advantage: <% character.skills.handling.advantage %>
+    disadvantage: <% character.skills.handling.disadvantage %>
   arcana:
+    value: <% character.skills.arcana.value %>
+    proficiency: <% character.skills.arcana.proficiency %>
+    expertise: <% character.skills.arcana.expertise %>
+    advantage: <% character.skills.arcana.advantage %>
+    disadvantage: <% character.skills.arcana.disadvantage %>
   athletics:
+    value: <% character.skills.athletics.value %>
+    proficiency: <% character.skills.athletics.proficiency %>
+    expertise: <% character.skills.athletics.expertise %>
+    advantage: <% character.skills.athletics.advantage %>
+    disadvantage: <% character.skills.athletics.disadvantage %>
   deception:
+    value: <% character.skills.deception.value %>
+    proficiency: <% character.skills.deception.proficiency %>
+    expertise: <% character.skills.deception.expertise %>
+    advantage: <% character.skills.deception.advantage %>
+    disadvantage: <% character.skills.deception.disadvantage %>
   history:
+    value: <% character.skills.history.value %>
+    proficiency: <% character.skills.history.proficiency %>
+    expertise: <% character.skills.history.expertise %>
+    advantage: <% character.skills.history.advantage %>
+    disadvantage: <% character.skills.history.disadvantage %>
   insight:
+    value: <% character.skills.insight.value %>
+    proficiency: <% character.skills.insight.proficiency %>
+    expertise: <% character.skills.insight.expertise %>
+    advantage: <% character.skills.insight.advantage %>
+    disadvantage: <% character.skills.insight.disadvantage %>
   intimidation:
+    value: <% character.skills.intimidation.value %>
+    proficiency: <% character.skills.intimidation.proficiency %>
+    expertise: <% character.skills.intimidation.expertise %>
+    advantage: <% character.skills.intimidation.advantage %>
+    disadvantage: <% character.skills.intimidation.disadvantage %>
   investigation:
+    value: <% character.skills.investigation.value %>
+    proficiency: <% character.skills.investigation.proficiency %>
+    expertise: <% character.skills.investigation.expertise %>
+    advantage: <% character.skills.investigation.advantage %>
+    disadvantage: <% character.skills.investigation.disadvantage %>
   medicine:
+    value: <% character.skills.medicine.value %>
+    proficiency: <% character.skills.medicine.proficiency %>
+    expertise: <% character.skills.medicine.expertise %>
+    advantage: <% character.skills.medicine.advantage %>
+    disadvantage: <% character.skills.medicine.disadvantage %>
   nature:
+    value: <% character.skills.nature.value %>
+    proficiency: <% character.skills.nature.proficiency %>
+    expertise: <% character.skills.nature.expertise %>
+    advantage: <% character.skills.nature.advantage %>
+    disadvantage: <% character.skills.nature.disadvantage %>
   perception:
+    value: <% character.skills.perception.value %>
+    proficiency: <% character.skills.perception.proficiency %>
+    expertise: <% character.skills.perception.expertise %>
+    advantage: <% character.skills.perception.advantage %>
+    disadvantage: <% character.skills.perception.disadvantage %>
   performance:
+    value: <% character.skills.performance.value %>
+    proficiency: <% character.skills.performance.proficiency %>
+    expertise: <% character.skills.performance.expertise %>
+    advantage: <% character.skills.performance.advantage %>
+    disadvantage: <% character.skills.performance.disadvantage %>
   persuasion:
+    value: <% character.skills.persuasion.value %>
+    proficiency: <% character.skills.persuasion.proficiency %>
+    expertise: <% character.skills.persuasion.expertise %>
+    advantage: <% character.skills.persuasion.advantage %>
+    disadvantage: <% character.skills.persuasion.disadvantage %>
   religion:
+    value: <% character.skills.religion.value %>
+    proficiency: <% character.skills.religion.proficiency %>
+    expertise: <% character.skills.religion.expertise %>
+    advantage: <% character.skills.religion.advantage %>
+    disadvantage: <% character.skills.religion.disadvantage %>
   sleight-of-hand:
+    value: <% character.skills.hand.value %>
+    proficiency: <% character.skills.hand.proficiency %>
+    expertise: <% character.skills.hand.expertise %>
+    advantage: <% character.skills.hand.advantage %>
+    disadvantage: <% character.skills.hand.disadvantage %>
   stealth:
+    value: <% character.skills.stealth.value %>
+    proficiency: <% character.skills.stealth.proficiency %>
+    expertise: <% character.skills.stealth.expertise %>
+    advantage: <% character.skills.stealth.advantage %>
+    disadvantage: <% character.skills.stealth.disadvantage %>
   survival:
-racialTraits: []
-classFeatures: []
-feats: []
+    value: <% character.skills.survival.value %>
+    proficiency: <% character.skills.survival.proficiency %>
+    expertise: <% character.skills.survival.expertise %>
+    advantage: <% character.skills.survival.advantage %>
+    disadvantage: <% character.skills.survival.disadvantage %>
+racialTraits:
+<% buildList(character.racialTraits, 2) %>
+classFeatures:
+<% buildList(character.classFeatures, 2) %>
+feats:
+<% buildList(character.feats, 2) %>
 spells: []
 currencies:
-  cp: 0
-  sp: 35
-  gp: 34
-  ep: 0
-  pp: 0
-inventory: []
+  cp: <% character.currencies.cp %>
+  sp: <% character.currencies.sp %>
+  gp: <% character.currencies.gp %>
+  ep: <% character.currencies.ep %>
+  pp: <% character.currencies.pp %>
+inventory:
+<% buildList(character.inventory, 2) %>
 ideal: 
 bond: 
 flaw: 
