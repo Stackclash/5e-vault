@@ -487,3 +487,5 @@ class DnDBeyondCharacter {
       })
   }
 }
+
+module.exports = DnDBeyondCharacter
