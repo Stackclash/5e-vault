@@ -1,0 +1,54 @@
+.my-mb-button-down .mb-button-inner {
+    color: rgb(205, 32, 44) !important;
+    font-size: 17px;
+    padding-right: 2px !important;
+    padding-left: 3px !important;
+}
+
+.my-mb-button-up .mb-button-inner {
+    color: rgb(0, 128, 0) !important;
+    font-size: 17px;
+    padding-right: 3px !important;
+    padding-left: 2px !important;
+}
+
+.nb-mb-35 input[type='number'] {
+    width: 35px;
+}
+
+.nb-mb-45 input[type='number'] {
+    width: 45px;
+}
+
+.nb-mb-55 input[type='number'] {
+    width: 55px;
+}
+
+.mb-input-type-toggle.star {
+    &>.checkbox-container {
+        --toggle-width: 1.5em;
+        background-color: transparent;
+        box-shadow: none;
+        isolation: isolate;
+        color: #C2B39A;
+        outline: none;
+    }
+
+    &>.checkbox-container::before {
+        content: unset;
+    }
+
+    &>.checkbox-container::after {
+        content: "★";
+        background-color: transparent;
+        font-size: 2em;
+        transform: unset;
+        translate: -5px 1px;
+        inset: unset;
+    }
+
+    &>.checkbox-container.is-enabled::after {
+        color: #EEBD00;
+        transform: unset;
+    }
+}
