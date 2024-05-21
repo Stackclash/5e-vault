@@ -25,20 +25,19 @@ if (dndBeyondInfo) {
   }
   character = new tp.user.dndBeyondCharacter(dndBeyondId)
   await character.initialize()
-  character.getFrontMatter()
 }
 const buildList = (list, spaces) => {
   let result = []
   if (typeof list[0] === 'string') {
     result = list.reduce((accum, item) => {
-      const itemString = `- ${item}`
+      const itemString = `- "${item}"`
       accum.push(itemString.padStart(spaces + itemString.length))
       return accum
     }, []).join(`\n`)
   } else {
     result = list.reduce((accum, item) => {
       accum.push(Object.entries(item).reduce((accum2, [key, value]) => {
-        let itemString = typeof value === 'string' ? `${key}: ${value}` : `${key}: "${value}"`
+        let itemString = typeof value === 'string' ? `${key}: "${value}"` : `${key}: ${value}`
         let finalSpaces = spaces
         if (accum2.length === 0) {
           itemString = `- ${itemString}`
