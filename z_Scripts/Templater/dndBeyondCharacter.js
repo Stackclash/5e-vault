@@ -442,6 +442,8 @@ class DnDBeyondCharacter {
       .then(() => fs.writeFileSync(path.join(app.vault.adapter.getBasePath(), 'test.json'), JSON.stringify(this, null, 2)))
   }
 
+
+
   #isItemActive(item) {
     let isActive = false
     if (item.definition) {

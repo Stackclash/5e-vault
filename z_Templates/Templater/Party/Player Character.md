@@ -27,6 +27,7 @@ if (dndBeyondInfo) {
   }
   character = new tp.user.dndBeyondCharacter(dndBeyondId)
   await character.initialize()
+  character.getFrontMatter()
 }
 const buildList = (list, spaces) => {
   let result = []
