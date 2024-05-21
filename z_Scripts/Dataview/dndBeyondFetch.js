@@ -3,8 +3,6 @@ const util = require('util')
 util.inspect.defaultOptions.getters = true
 util.inspect.defaultOptions.depth = 20
 
-const dndBeyondId = 29682199
-
 class DnDBeyondCharacter {
 
   static ABILITY_SCORES = {
@@ -82,14 +80,10 @@ class DnDBeyondCharacter {
       modifiers: {
         get: () => Object.entries(this.#data.modifiers).reduce((accum, [key, value]) => {
           const activeFormattedMods = value.filter(mod => {
-            if (mod.isGranted) {
-              if (mod.modType === 'item') {
-                return this.inventory.some(inv => inv.id === mod.componentId && this.#isItemActive(inv))
-              } else {
-                return true
-              }
+            if (key === 'item') {
+              return this.#data.inventory.some(inv => inv.definition.id === mod.componentId && this.#isItemActive(inv))
             } else {
-              return false
+              return true
             }
           })
           .map(mod => ({
@@ -99,7 +93,9 @@ class DnDBeyondCharacter {
             subType: mod.subType,
             value: mod.value,
             componentId: mod.componentId,
+            statId: mod.statId,
             friendlyTypeName: mod.friendlyTypeName,
+            friendlySubtypeName: mod.friendlySubtypeName,
             restriction: mod.restriction
           }))
           
@@ -114,6 +110,10 @@ class DnDBeyondCharacter {
         get: () => this.#data.decorations.avatarUrl,
         enumerable: true
       },
+      name: {
+        get: () => this.#data.name,
+        enumerable: true
+      },
       race: {
         get: () => ({
           name: this.#data.race.baseName,
@@ -122,12 +122,25 @@ class DnDBeyondCharacter {
         }),
         enumerable: true
       },
-      gender: {
-        get: () => this.#data.gender,
+      description: {
+        get: () => ({
+          gender: this.#data.gender,
+          age: this.#data.age,
+          hair: this.#data.hair,
+          eyes: this.#data.eyes,
+          skin: this.#data.skin,
+          height: this.#data.height,
+          weight: this.#data.weight
+        }),
         enumerable: true
       },
-      age: {
-        get: () => this.#data.age,
+      proficiencies: {
+        get: () => ({
+          armor: [...new Set(this.modifiers.filter(mod => mod.type === 'proficiency' && (mod.subType.endsWith('armor') || mod.subType.includes('shield'))).map(mod => mod.friendlySubtypeName))],
+          weapons: [...new Set(this.modifiers.filter(mod => mod.type === 'proficiency' && mod.subType.includes('weapon')).map(mod => mod.friendlySubtypeName))],
+          tools: [...new Set(this.modifiers.filter(mod => mod.type === 'proficiency' && mod.subType.includes('tool')).map(mod => mod.friendlySubtypeName))],
+          languages: [...new Set(this.modifiers.filter(mod => mod.type === 'language').map(mod => mod.friendlySubtypeName))],
+        }),
         enumerable: true
       },
       level: {
@@ -147,59 +160,89 @@ class DnDBeyondCharacter {
         },
         enumerable: true
       },
-      size: {
-        get: () => '',
-        enumerable: true
-      },
-      speed: {
-        get: () => '',
-        enumerable: true
-      },
       armorClass: {
         get: () => {
           const isArmored = this.#data.inventory.some(inv =>
             inv.definition.filterType === 'Armor' &&
             inv.definition.armorTypeId !== 4 &&
             inv.equipped)
-          let baseAc = () => {
-            const setBaseArmor = this.modifiers.filter(mod => mod.type === 'set' && mod.subType === 'minimum-base-armor')
-          }
-          if (!baseAc) baseAc = 10
-          const ignoreDex = this.modifiers.some(mod => mod.type === 'ignore' && mod.subType === 'unarmored-dex-ac-bonus')
-          const maxUnamoredDexMods = this.modifiers.filter(mod => mod.type === 'set' && mod.subType === 'ac-max-dex-modifier')
-            .map(mod => mod.value)
-          const armorAc = this.inventory.filter(inv => this.#isItemActive(inv)).reduce((accum,inv) => accum + (inv.armorClass || 0), 0)
-          const useProficiencyBonus = this.#data.inventory.some(inv => this.#isItemActive({
-            equipped: inv.equipped,
-            isAttuned: inv.isAttuned,
-            canAttune: inv.definition.canAttune,
-            canEquip: inv.definition.canEquip
-          }) && inv.definition.armorTypeId === 3)
-          const bonusAc = this.modifiers.reduce((accum, mod) => {
-            let bonus = 0
-
-            if ((mod.type === 'bonus' && mod.subType === 'armor-class') ||
-                (!this.#isArmored() && mod.type === 'set' && mod.subType === 'unarmored-armor-class')) {
-              bonus = mod.value
+          const baseAc = () => {
+            const setBaseArmor = this.modifiers.find(mod => mod.type === 'set' && mod.subType === 'minimum-base-armor')
+            if (!isArmored) {
+              return setBaseArmor ? setBaseArmor[0].value : 10
+            } else {
+              return 0
             }
-            
-            return accum + bonus
-          }, 0)
-          
-          let acModifier = 0
-          if (useProficiencyBonus) {
-            acModifier = this.proficiencyBonus
-          } else if (!ignoreDex) {
-            Math.min(...maxUnamoredDexMods, this.abilityScores.dexterity.modifier)
           }
-          console.log(Math.max(baseAc, armorAc), bonusAc, acModifier)
+          const unArmoredAc = () => {
+            const ignoreDex = this.modifiers.some(mod => mod.type === 'ignore' && mod.subType === 'unarmored-dex-ac-bonus')
+            const maxUnamoredDexMods = this.modifiers.filter(mod => mod.type === 'set' && mod.subType === 'ac-max-dex-modifier')
+            const unArmoredAc = this.modifiers.find(mod => mod.type === 'set' && mod.subType === 'unarmored-armor-class')
+            const unArmoredBonus = this.modifiers.reduce((accum, mod) => accum + (mod.type === 'bonus' && mod.subType === 'unarmored-armor-class' ? mod.value : 0), 0)
+            let ac = 0
+            if (!isArmored) {
+              ac += !ignoreDex ? Math.min(...maxUnamoredDexMods, this.abilityScores.dexterity.modifier) : 0
+              ac += unArmoredAc ? (unArmoredAc.value || this.abilityScores[DnDBeyondCharacter.ABILITY_SCORES[unArmoredAc.statId]].modifier) : 0
+              ac += unArmoredBonus
+            }
+            return ac
+          }
+          const armoredAc = () => {
+            const useProficiencyBonus = this.#data.inventory.some(inv => this.#isItemActive(inv) && inv.definition.armorTypeId === 3)
+            const useDexterityModifier = this.#data.inventory.some(inv => this.#isItemActive(inv) && ![3,4].includes(inv.definition.armorTypeId))
+            let ac = 0
+            if (isArmored) {
+              ac += this.#data.inventory.filter(inv => this.#isItemActive(inv)).reduce((accum,inv) => accum + (inv.definition.armorClass || 0), 0)
+              ac += this.modifiers.reduce((accum, mod) => accum + (mod.type === 'bonus' && mod.subType === 'armored-armor-class' ? mod.value : 0), 0)
+              if (useProficiencyBonus) {
+                ac += this.proficiencyBonus
+              } else if (useDexterityModifier) {
+                ac += this.abilityScores.dexterity.modifier
+              }
+            }
+            return ac
+          }
+          const acBonus = () => {
+            return this.modifiers.reduce((accum, mod) => accum + (mod.type === 'bonus' && mod.subType === 'armor-class' ? mod.value : 0), 0)
+          }
 
-          return Math.max(baseAc, armorAc) + bonusAc + acModifier
+          return baseAc() + unArmoredAc() + armoredAc() + acBonus()
         },
         enumerable: true
       },
+      size: {
+        get: () => {
+          let size = ''
+          const sizeTrait = this.#data.race.racialTraits.find(trait => /Your size is/.test(trait.definition.description))
+          if (sizeTrait) {
+            size = sizeTrait.definition.description.match(/Your size is (\w+)/)[1]
+          }
+          return size
+        },
+        enumerable: true
+      },
+      speeds: {
+        get: () => this.#data.race.weightSpeeds.normal,
+        enumerable: true
+      },
+      defenses: {
+        get: () => ({
+          immunities: this.modifiers.filter(mod => mod.type === 'immunity').map(mod => mod.subType),
+          resistances: this.modifiers.filter(mod => mod.type === 'resistance').map(mod => mod.subType)
+        }),
+        enumerable: true
+      },
       initiative: {
-        get: () => this.abilityScores.dexterity.modifier,
+        get: () => {
+          const initiativeBonus = this.modifiers.reduce((accum, mod) => {
+            if (mod.type === 'bonus' && mod.subType === 'initiative') {
+              accum += this.abilityScores[DnDBeyondCharacter.ABILITY_SCORES[mod.statId]].modifier
+            }
+
+            return accum
+          }, 0)
+          return this.abilityScores.dexterity.modifier + initiativeBonus
+        },
         enumerable: true
       },
       alignment: {
@@ -239,8 +282,19 @@ class DnDBeyondCharacter {
             const statValue = this.#data.stats.filter(s => s.id === statId)
             const bonusStat = this.#data.bonusStats.filter(s => s.id === statId)
             const modifiers = this.modifiers.filter(mod => mod.type === 'bonus' && mod.entityId === statId)
+            const abilityScoreIncreases = this.modifiers.reduce((accum, mod) => {
+              if (mod.type === 'bonus' && mod.subType === 'choose-an-ability-score') {
+                accum.push(Object.values(this.#data.modifiers).flat().find(mod2 =>
+                  mod2.type === 'bonus' &&
+                  mod2.entityId === statId &&
+                  !mod2.isGranted &&
+                  mod2.componentId === mod.componentId))
+              }
+
+              return accum
+            }, [])
             accum[value] = {
-              value: [statValue, bonusStat, modifiers].flat().reduce((accum, statObject) => {
+              value: [statValue, bonusStat, modifiers, abilityScoreIncreases].flat().reduce((accum, statObject) => {
                 if (statObject && statObject.value) {
                   accum += statObject.value
                 }
@@ -305,22 +359,79 @@ class DnDBeyondCharacter {
         },
         enumerable: true
       },
+      racialTraits: {
+        get: () => this.#data.race.racialTraits.filter(trait => 
+            trait.definition.snippet
+          ).map(trait => ({
+            name: trait.definition.name,
+            description: this.#sanitizeText(trait.definition.snippet)
+          })),
+        enumerable: true
+      },
+      classFeatures: {
+        get: () => this.#data.classes.map(dndClass => dndClass.classFeatures.filter(feature =>
+            this.level >= feature.definition.requiredLevel && feature.definition.snippet
+          ).map(feature => ({
+            name: feature.definition.name,
+            description: this.#sanitizeClassFeatureText(feature.definition.snippet, dndClass)
+          }))).flat(),
+        enumerable: true
+      },
+      feats: {
+        get: () => this.#data.feats.map(feat => ({
+          name: feat.definition.name,
+          description: this.#sanitizeText(feat.definition.snippet)
+        })),
+        enumerable: true
+      },
       spells: {
-        get: () => this.#data.classSpells.reduce((accum, classSpells) => accum.concat(classSpells.spells), []).map(spell => ({ name: spell.definition.name, isPrepared: spell.prepared || spell.alwaysPrepared })),
+        get: () => {
+          const classSpells = this.#data.classes.filter(dndClass => dndClass.definition.canCastSpells)
+            .map(dndClass => ({
+              name: dndClass.definition.name,
+              cantripsKnown: dndClass.definition.spellRules.levelCantripsKnownMaxes[this.level],
+              spellSlots: {
+                max: dndClass.definition.spellRules.levelSpellSlots[this.level],
+                used: this.#data.spellSlots.sort((a, b) => a - b).map(slot => slot.used)
+              },
+              spells: this.#data.classSpells.find(spellClass => spellClass.characterClassId === dndClass.id ).spells.map(spell => {
+                let isPrepared = spell.prepared || spell.alwaysPrepared
+                if (!isPrepared && spell.definition.level === 0) isPrepared = true
+                
+                return {
+                  name: spell.definition.name,
+                  level: spell.definition.level,
+                  isPrepared
+                }
+              }).sort((a, b) => a.level - b.level)
+            }))
+          const raceSpells = this.#data.spells.race.map(raceSpell => {
+            let isPrepared = raceSpell.prepared || raceSpell.alwaysPrepared
+            if (!isPrepared && raceSpell.definition.level === 0) isPrepared = true
+
+            return {
+              name: raceSpell.definition.name,
+              level: raceSpell.definition.level,
+              isPrepared
+            }
+          }).sort((a, b) => a.level - b.level)
+
+          return {race: raceSpells, class: classSpells}
+        },
+        enumerable: true
+      },
+      currencies: {
+        get: () => this.#data.currencies,
         enumerable: true
       },
       inventory: {
         get: () => {
           return this.#data.inventory.map(inv => ({
-            id: inv.definition.id,
             name: inv.definition.name,
             type: inv.definition.filterType,
             quantity: inv.quantity,
             equipped: inv.equipped,
-            isAttuned: inv.isAttuned,
-            canAttune: inv.definition.canAttune,
-            canEquip: inv.definition.canEquip,
-            armorClass: inv.definition.armorClass
+            isAttuned: inv.isAttuned
           }))
         },
         enumerable: true
@@ -341,11 +452,48 @@ class DnDBeyondCharacter {
   }
 
   #isItemActive(item) {
-    return (item.canEquip ? item.equipped : true) && (item.canAttune ? item.isAttuned : true)
+    let isActive = false
+    if (item.definition) {
+      isActive = (item.definition.canEquip ? item.equipped : true) && (item.definition.canAttune ? item.isAttuned : true)
+    } else {
+      isActive = (item.canEquip ? item.equipped : true) && (item.canAttune ? item.isAttuned : true)
+    }
+
+    return isActive
+  }
+
+  #sanitizeClassFeatureText(text, dndClass) {
+    return this.#sanitizeText(text)
+      .replace('{{classlevel}}', dndClass.level)
+  }
+
+  #sanitizeText(text) {
+    const getAbilityScoreObject = (ability) => this.abilityScores[Object.values(DnDBeyondCharacter.ABILITY_SCORES).find(score => score.startsWith(ability))]
+
+    return text
+      .replace(/\{\{spellattack:(\w{3})\}\}/, (match, ability) => (this.proficiencyBonus + getAbilityScoreObject(ability).modifier).toString())
+      .replace(/\{\{savedc:(\w{3})\}\}/, (match, ability) => (8 + this.proficiencyBonus + getAbilityScoreObject(ability).modifier).toString())
+      .replace(/\{\{modifier:(\w{3})\}\}/, (match, ability) => (getAbilityScoreObject(ability).modifier).toString())
+      .replace(/\{\{modifier:(\w{3}):([\-\+])(\d+).*\}\}/, (match, ability, operator, number) => {
+        const abilityScoreModifier = getAbilityScoreObject(ability).modifier
+        let total = abilityScoreModifier
+
+        switch (operator) {
+          case '-':
+            total -= parseInt(number)
+            break;
+        
+          case '+':
+            total += parseInt(number)
+            break;
+        }
+        
+        return total.toString()
+      })
   }
 }
 
-const character = new DnDBeyondCharacter(dndBeyondId)
+const character = new DnDBeyondCharacter(103214475)
 
 character.initialize()
 .then(() => {

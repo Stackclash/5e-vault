@@ -1,0 +1,25 @@
+.mb-input-type-toggle.star {
+    & > .checkbox-container {
+        --toggle-width: 1.5em;
+        background-color: transparent;
+        box-shadow: none;
+        isolation: isolate;
+        color: #C2B39A;
+	outline: none;
+    }
+    & > .checkbox-container::before {
+        content: unset;
+    }
+    & > .checkbox-container::after {
+        content: "★";
+        background-color: transparent;
+        font-size: 2em;
+	transform: unset;
+        translate: -5px 1px;
+        inset: unset;
+    }
+    & > .checkbox-container.is-enabled::after {
+        color: #EEBD00;
+        transform: unset;
+    }
+}
