@@ -26,7 +26,7 @@ if (dndBeyondInfo) {
   } else {
     dndBeyondId = dndBeyondInfo
   }
-  console.log(DnDBeyondCharacter)
+  console.log(DnDBeyondCharacter, path.join(app.vault.adapter.getBasePath(), 'z_Scripts/JS/dndBeyondFetch.js'))
   const character = new DnDBeyondCharacter(dndBeyondId)
   await character.initialize()
 }
