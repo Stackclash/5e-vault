@@ -121,15 +121,24 @@ class DnDBeyondCharacter {
         enumerable: true
       },
       description: {
-        get: () => ({
-          gender: this.#data.gender,
-          age: this.#data.age,
-          hair: this.#data.hair,
-          eyes: this.#data.eyes,
-          skin: this.#data.skin,
-          height: this.#data.height,
-          weight: this.#data.weight
-        }),
+        get: () => {
+          let size = ''
+          const sizeTrait = this.#data.race.racialTraits.find(trait => /Your size is/.test(trait.definition.description))
+          if (sizeTrait) {
+            size = sizeTrait.definition.description.match(/Your size is (\w+)/)[1]
+          }
+
+          return {
+            gender: this.#data.gender,
+            age: this.#data.age,
+            hair: this.#data.hair,
+            eyes: this.#data.eyes,
+            skin: this.#data.skin,
+            height: this.#data.height,
+            weight: this.#data.weight,
+            size: size
+          }
+        },
         enumerable: true
       },
       proficiencies: {
@@ -205,17 +214,6 @@ class DnDBeyondCharacter {
           }
 
           return baseAc() + unArmoredAc() + armoredAc() + acBonus()
-        },
-        enumerable: true
-      },
-      size: {
-        get: () => {
-          let size = ''
-          const sizeTrait = this.#data.race.racialTraits.find(trait => /Your size is/.test(trait.definition.description))
-          if (sizeTrait) {
-            size = sizeTrait.definition.description.match(/Your size is (\w+)/)[1]
-          }
-          return size
         },
         enumerable: true
       },

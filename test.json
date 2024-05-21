@@ -14,7 +14,8 @@
     "eyes": null,
     "skin": null,
     "height": null,
-    "weight": null
+    "weight": null,
+    "size": "Medium"
   },
   "proficiencies": {
     "armor": [
@@ -46,7 +47,6 @@
     "temporary": 7
   },
   "armorClass": 19,
-  "size": "Medium",
   "speeds": {
     "walk": 30,
     "fly": 0,
