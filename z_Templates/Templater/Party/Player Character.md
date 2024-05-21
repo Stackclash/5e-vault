@@ -19,8 +19,6 @@ if (isNaN(dndBeyondInfo)) {
 const character = new tp.user.dndBeyondCharacter(dndBeyondId)
 await character.initialize()
 await tp.file.move('3. The Party/Players/' + character.name)
-
-const foundRace = tp.user.find_file(character.race.fullName, '5. Mechanics/Races')
 -%>
 ---
 obsidianUIMode: previews
@@ -33,7 +31,7 @@ modifier: <% character.initiative %>
 proficiency: <% character.proficiencyBonus %>
 url: <% character.url %>
 image: <% selectedImage %>
-race: "[[<% foundRace.file.path %>|<% foundRace.file.name %>]]"
+race: "<% tp.user.find_file(character.race.fullName, '5. Mechanics/Races') %>"
 description:
   gender: <% character.description.gender %>
   age: <% character.description.age %>
@@ -67,8 +65,7 @@ background:
   allies: 
   enemies: 
   notes: 
-classes:
-<% tp.user.build_yaml_list(character.classes, 2) %>
+class: "<% tp.user.find_file(`${character.classes[0].name} ${character.classes[0].subClass}`, '5. Mechanics/Classes') %>"
 abilityScores:
   strength:
     value: <% character.abilityScores.strength.value %>

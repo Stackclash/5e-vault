@@ -14,7 +14,6 @@ module.exports = (text, path) => {
 
         return accum
     }, []).sort((a, b) => b.score - a.score)
-    console.log(scores)
 
-    return scores[0].value
+    return `[[${scores[0].value.file.path}|${scores[0].value.file.name}]]`
 }
