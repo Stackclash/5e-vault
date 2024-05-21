@@ -489,6 +489,6 @@ class DnDBeyondCharacter {
 }
 
 module.exports = {
-  test: () => 'hey'
+  test: () => 'hey',
   DnDBeyondCharacter
 }
