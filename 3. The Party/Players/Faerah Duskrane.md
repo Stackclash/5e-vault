@@ -382,29 +382,15 @@ party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
 condition:
 location:
 ---
-> [!infobox|right]
-> # `=this.file.name`
-> ```meta-bind
-> INPUT[imageSuggester(optionQuery("z_Assets")):image]
-> ```
-> ## Info
-> | | |
-> | ---- | ---- |
-> | Level | `INPUT[inlineSelect(option(1),option(2),option(3),option(4),option(5),option(6),option(7),option(8),option(9),option(10),option(11),option(12),option(13),option(14),option(15),option(16),option(17),option(18),option(19),option(20)):level]` |
-> | Class | `INPUT[suggester(optionQuery("5. Mechanics/Classes")):class]` |
-> | Race | `INPUT[suggester(optionQuery("5. Mechanics/Races")):race]` |
-> | HP | `INPUT[number:hp]` |
-> | AC | `INPUT[number:ac]` |
-> | Initiative Mod | `INPUT[number:modifier]` |
-> ## Stats
-> | | | |
-> | ---- | ---- | ---- |
-> | Strength | `INPUT[number:abilityScores.strength.value]` | `$=Math.floor((parseInt(dv.current().abilityScores.strength.value)-10)/2)` |
-> | Dexterity | `INPUT[number:abilityScores.dexterity.value]` | `$=Math.floor((parseInt(dv.current().abilityScores.dexterity.value)-10)/2)` |
-> | Constitution | `INPUT[number:abilityScores.constitution.value]` | `$=Math.floor((parseInt(dv.current().abilityScores.constitution.value)-10)/2)` |
-> | Intelligence | `INPUT[number:abilityScores.intelligence.value]` | `$=Math.floor((parseInt(dv.current().abilityScores.intelligence.value)-10)/2)` |
-> | Wisdom | `INPUT[number:abilityScores.wisdom.value]` | `$=Math.floor((parseInt(dv.current().abilityScores.wisdom.value)-10)/2)` |
-> | Charisma | `INPUT[number:abilityScores.charisma.value]` | `$=Math.floor((parseInt(dv.current().abilityScores.charisma.value)-10)/2)` |
+> [!grid| 3 no-t clean]
+> hello
+> thieves
+> test
+
+
+
+
+
 # DnD Beyond Character Sheet
 ```custom-frames
 frame: 
