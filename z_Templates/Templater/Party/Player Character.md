@@ -1,6 +1,6 @@
 <%*
 const response = await requestUrl('https://character-service.dndbeyond.com/character/v5/character/103214475')
-console.log(response)
+console.log(response.json.data)
 
 const dv = app.plugins.getPlugin("dataview").api
 
