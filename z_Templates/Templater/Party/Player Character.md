@@ -37,9 +37,8 @@ hp:
 modifier: 
 race:
   name: 
-  sub
+  subRace:
 class:
-hp: 1
 stats:
   str: 10
   dex: 10
@@ -47,8 +46,6 @@ stats:
   int: 10
   wis: 10
   cha: 10
-ac: 10
-modifier:
 alignment: 
 ideal: 
 bond: 

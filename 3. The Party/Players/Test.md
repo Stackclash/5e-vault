@@ -3,12 +3,12 @@ obsidianUIMode: preview
 statblock: true
 name: 
 level: 6
-ac:
-hp:
-modifier:
+ac: 
+hp: 
+modifier: 
 race:
   name: 
-  sub:
+  subRace:
 class:
 stats:
   str: 10
@@ -25,10 +25,9 @@ likes:
 dislikes: 
 party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
 image: z_Assets/Barovia.jpg
-condition: 
+condition:
 location:
 ---
-
 > [!infobox|right]
 > # `=this.file.name`
 > ```meta-bind

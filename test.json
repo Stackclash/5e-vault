@@ -4,7 +4,7 @@
   "name": "Seluvis Felo'melorn",
   "race": {
     "name": "Elf",
-    "sub": "High",
+    "subRace": "High",
     "fullName": "High Elf"
   },
   "description": {
@@ -40,7 +40,7 @@
     ]
   },
   "level": 6,
-  "hp": {
+  "healthPoints": {
     "max": 39,
     "current": 46,
     "temporary": 7
