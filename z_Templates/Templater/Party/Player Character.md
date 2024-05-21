@@ -169,11 +169,11 @@ skills:
     advantage: <% character.skills.acrobatics.advantage %>
     disadvantage: <% character.skills.acrobatics.disadvantage %>
   animal-handling:
-    value: <% character.skills.handling.value %>
-    proficiency: <% character.skills.handling.proficiency %>
-    expertise: <% character.skills.handling.expertise %>
-    advantage: <% character.skills.handling.advantage %>
-    disadvantage: <% character.skills.handling.disadvantage %>
+    value: <% character.skills['animal-handling'].value %>
+    proficiency: <% character.skills['animal-handling'].proficiency %>
+    expertise: <% character.skills['animal-handling'].expertise %>
+    advantage: <% character.skills['animal-handling'].advantage %>
+    disadvantage: <% character.skills['animal-handling'].disadvantage %>
   arcana:
     value: <% character.skills.arcana.value %>
     proficiency: <% character.skills.arcana.proficiency %>
@@ -253,11 +253,11 @@ skills:
     advantage: <% character.skills.religion.advantage %>
     disadvantage: <% character.skills.religion.disadvantage %>
   sleight-of-hand:
-    value: <% character.skills.hand.value %>
-    proficiency: <% character.skills.hand.proficiency %>
-    expertise: <% character.skills.hand.expertise %>
-    advantage: <% character.skills.hand.advantage %>
-    disadvantage: <% character.skills.hand.disadvantage %>
+    value: <% character.skills['sleight-of-hand'].value %>
+    proficiency: <% character.skills['sleight-of-hand'].proficiency %>
+    expertise: <% character.skills['sleight-of-hand'].expertise %>
+    advantage: <% character.skills['sleight-of-hand'].advantage %>
+    disadvantage: <% character.skills['sleight-of-hand'].disadvantage %>
   stealth:
     value: <% character.skills.stealth.value %>
     proficiency: <% character.skills.stealth.proficiency %>
