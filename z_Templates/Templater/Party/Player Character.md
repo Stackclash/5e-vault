@@ -1,6 +1,4 @@
 <%*
-const matterResponse = await requestUrl('https://unpkg.com/gray-matter')
-console.log(matterResponse)
 const dv = app.plugins.getPlugin("dataview").api
 
 await tp.file.move('3. The Party/Players/' + tp.file.title)
@@ -40,7 +38,7 @@ const buildList = (list, spaces) => {
   } else {
     result = list.reduce((accum, item) => {
       accum.push(Object.entries(item).reduce((accum2, [key, value]) => {
-        let itemString = `${key}: ${value}`
+        let itemString = typeof value === 'string' ? `${key}: ${value}` : `${key}: "${value}"`
         let finalSpaces = spaces
         if (accum2.length === 0) {
           itemString = `- ${itemString}`
