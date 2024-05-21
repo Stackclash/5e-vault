@@ -1,6 +1,6 @@
 <%*
 const path = require('path')
-const DnDBeyondCharacter = require(path.relative(__dirname, path.join(app.vault.adapter.getBasePath(), 'z_Scripts/JS/dndBeyondFetch.js')))
+const DnDBeyondCharacter = require('z_Scripts/JS/dndBeyondFetch.js')
 
 
 const dv = app.plugins.getPlugin("dataview").api
