@@ -398,7 +398,7 @@ location:
 >> ## Saving Throws
 >> || Prof ||| Prof ||
 >> :---:|:---:|:---:|:---:|:---:|:---:|
->> **Strength** | `$=dv.current().savingThrows.strength.proficiency` | `$=dv.current().savingThrows.strength.value` | **Intelligence** | `$=dv.current().savingThrows.intelligence.proficiency` | `$=dv.current().savingThrows.intelligence.value` |
+>> **Strength** | `$=dv.current().savingThrows.strength.proficiency ? ✅ : ❌` | `$=dv.current().savingThrows.strength.value` | **Intelligence** | `$=dv.current().savingThrows.intelligence.proficiency` | `$=dv.current().savingThrows.intelligence.value` |
 >> **Dexterity** | `$=dv.current().savingThrows.dexterity.proficiency` | `$=dv.current().savingThrows.dexterity.value` | **Wisdom** | `$=dv.current().savingThrows.wisdom.proficiency` | `$=dv.current().savingThrows.wisdom.value` |
 >> **Constitution** | `$=dv.current().savingThrows.constitution.proficiency` | `$=dv.current().savingThrows.constitution.value` | **Charisma** | `$=dv.current().savingThrows.charisma.proficiency` | `$=dv.current().savingThrows.charisma.value` |
 
