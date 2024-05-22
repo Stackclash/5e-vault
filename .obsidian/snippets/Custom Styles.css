@@ -1,13 +1,13 @@
 /* Fixes Encounter Builder header to be visible */
-.svelte-rwomh thead {
+/* .svelte-rwomh thead {
     color: #283846;
     background-color: #312C2C;
-}
+} */
 
 /* Hides Custom Frames icons in the sidebar */
-.clickable-icon.side-dock-ribbon-action:has(> .svg-icon.lucide-shield) {
+/* .clickable-icon.side-dock-ribbon-action:has(> .svg-icon.lucide-shield) {
     display: none;
-}
+} */
 
 /* Fixes so that Meta-bind inputs take up available space */
 .mb-input-wrapper input[type="number"] {
