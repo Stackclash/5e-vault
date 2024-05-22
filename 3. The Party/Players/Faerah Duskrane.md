@@ -382,18 +382,18 @@ party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
 condition:
 location:
 ---
-> [!div| grid 3 no-t]
->> hello
->> thieves
->> test
+> [!statblocks|3 full no-t]
+> ![Char Image|cover right circle htiny wtiny lp]()
 > 
->> next
->> test
->> world
->
->> once
->> more
->> final
+> # Name
+> > Description
+> *Basics*
+> *Basics*
+> 
+>> [!blank|no-t]
+| HP | AC | Initiative |
+|:---:|:---:|:---:|
+| | | |
 
 
 
