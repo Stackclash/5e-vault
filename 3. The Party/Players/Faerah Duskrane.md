@@ -446,26 +446,13 @@ day_suffix: th
 >  **Insight** | `$=dv.current().passives.insight` |
 
 
-> [!infobox|center n-th]
+> [!infobox|center n-th ws-med]
+> ## Description
 > |||
-> |:---:|:---:|
-> | **Race** | `$=dv.current().race` |
-> | **Gender** | `$=dv.current().description.gender` |
-> | **Age** | `$=dv.current().description.age` |
-
-
-<!-- Update to support multiple classes -->
-> [!infobox|n-th]
-> ## Classes
-> |||
-> |:---:|:---:|
-> | **Class** | `$=dv.current().class` |
-> | **Level** | `$=dv.current().level` |
-> | **Features** | `$=dv.current().classFeatures.map(feat => feat.name).join(', ')` |
-
-> [!infobox]
-> ## Race
-> `$=dv.current().race`
+> |:---:|:---:|:---:|:---:|
+> | **Race** | `$=dv.current().race` | **Height** | `$=dv.current().description.height` |
+> | **Gender** | `$=dv.current().description.gender` | **Weight** | `$=dv.current().description.weight` |
+> | **Age** | `$=dv.current().description.age` | **Size** | `$=dv.current().description.size` |
 
 
 
