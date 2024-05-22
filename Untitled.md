@@ -44,7 +44,7 @@ birthday: -30
 age: 1001
 hp: 45
 tempHP: 0
-ac: 5
+ac: 14
 gender: 1
 prof: '[MB_EXPRESSION] "failed to evaluate expression" caused by error "Cannot convert "[MB_EXPRESSION] "failed to evaluate expression" caused by error "Cannot convert "­6" to a number"" to a number"'
 abilityScores:
@@ -68,7 +68,7 @@ gender_name: Male
 alive: true
 day_suffix: th
 portrait: "![[Untitled.png]]"
-modifier: NaN
+modifier: 4
 active: ✅
 JoaT: false
 spells:
