@@ -65,7 +65,8 @@ background:
   allies: 
   enemies: 
   notes: 
-class: "<% tp.user.find_file(`${character.classes[0].name} ${character.classes[0].subClass}`, '5. Mechanics/Classes') %>"
+class:
+<% tp.user.build_class_yaml_list(character.classes, '5. Mechanics/Classes', 2) %>
 abilityScores:
   strength:
     value: <% character.abilityScores.strength.value %>
