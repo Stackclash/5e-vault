@@ -1,6 +1,0 @@
-{
-  "openAiApiKey": "",
-  "testingMode": false,
-  "defaultModel": "gpt-3.5-turbo-1106",
-  "customActions": []
-}
