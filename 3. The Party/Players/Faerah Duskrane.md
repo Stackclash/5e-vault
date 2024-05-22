@@ -388,18 +388,17 @@ location:
 >> # `$=dv.current().name`
 >> Description
 >> ## Ability Scores
->>
-| Strength | Dexterity | Constitution | Intelligenc | Wisdom | Charisma |  |
-|:---:|:---:|:---:|:---:|:---:|:---:|:--- |
-| `$=dv.current().abilityScores.strength.value` | `$=dv.current().abilityScores.dexterity.value` |  |  |  |  |  |
-| `$=dv.current().abilityScores.strength.modifier` |  |  |  |  |  | **Mod** |
-| `$=dv.current().savingThrows.strength.value` |  |  |  |  |  | **Sav** |
+>> ||
+>> :---:|:---:|:---:|:---:|
+>> STR | `INPUT[number(class(nb-mb-css)):abilityScores.str]` | INT | `INPUT[number(class(nb-mb-css)):abilityScores.int]` |
+>> DEX | `INPUT[number(class(nb-mb-css)):abilityScores.dex]` | WIS | `INPUT[number(class(nb-mb-css)):abilityScores.wis]` |
+>> CON | `INPUT[number(class(nb-mb-css)):abilityScores.con]` | CHA | `INPUT[number(class(nb-mb-css)):abilityScores.cha]` |
 > 
 >> [!blank|no-t]
 >> `$="![Char Image|cover right circle hsmall wsmall lp](" + dv.current().image + ")"`
-| HP | AC | Initiative |
-|:---:|:---:|:---:|
-| `$=dv.current().hp` | `$=dv.current().ac` | `$=dv.current().modifier` |
+>> | HP | AC | Initiative |
+>> |:---:|:---:|:---:|
+>> | `$=dv.current().hp` | `$=dv.current().ac` | `$=dv.current().modifier` |
 
 
 
