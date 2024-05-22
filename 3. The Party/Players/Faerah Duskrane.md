@@ -383,11 +383,12 @@ condition:
 location:
 ---
 `$="![Char Image\|clear left circle hsmall wsmall lp](" + dv.current().image + ")"`
-> [!infobox|left clear]
+> [!infobox|left clear n-th]
 > 
-> ||
-> **HP** | `$=dv.current().hp` |
->
+> |||
+> |:---:|:---:|
+> | **Health Points** | `$=dv.current().hp` |
+> | **Armor Class** | `$=dv.current().ac` |
 
 # `$=dv.current().name`
 > [!statblocks|columns]
@@ -395,10 +396,10 @@ location:
 >> [!blank]
 >> ## Ability Scores
 >> ||| Mod ||| Mod |
->> :---:|:---:|:---:|:---:|:---:|:---:|
->> **Strength** | `$=dv.current().abilityScores.strength.value` | `$=dv.current().abilityScores.strength.modifier` | **Intelligence** | `$=dv.current().abilityScores.intelligence.value` | `$=dv.current().abilityScores.intelligence.modifier` |
->> **Dexterity** | `$=dv.current().abilityScores.dexterity.value` | `$=dv.current().abilityScores.dexterity.modifier` | **Wisdom** | `$=dv.current().abilityScores.wisdom.value` | `$=dv.current().abilityScores.wisdom.modifier` |
->> **Constitution** | `$=dv.current().abilityScores.constitution.value` | `$=dv.current().abilityScores.constitution.modifier` | **Charisma** | `$=dv.current().abilityScores.charisma.value` | `$=dv.current().abilityScores.charisma.modifier` |
+>> |:---:|:---:|:---:|:---:|:---:|:---:|
+>> | **Strength** | `$=dv.current().abilityScores.strength.value` | `$=dv.current().abilityScores.strength.modifier` | **Intelligence** | `$=dv.current().abilityScores.intelligence.value` | `$=dv.current().abilityScores.intelligence.modifier` |
+>> | **Dexterity** | `$=dv.current().abilityScores.dexterity.value` | `$=dv.current().abilityScores.dexterity.modifier` | **Wisdom** | `$=dv.current().abilityScores.wisdom.value` | `$=dv.current().abilityScores.wisdom.modifier` |
+>> | **Constitution** | `$=dv.current().abilityScores.constitution.value` | `$=dv.current().abilityScores.constitution.modifier` | **Charisma** | `$=dv.current().abilityScores.charisma.value` | `$=dv.current().abilityScores.charisma.modifier` |
 >
 >> [!blank]
 >> ## Saving Throws
