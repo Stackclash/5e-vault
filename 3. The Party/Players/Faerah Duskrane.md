@@ -453,15 +453,21 @@ day_suffix: th
 > | **Age** | `$=dv.current().description.age` | **Size** | `$=dv.current().description.size` | **Eyes** | `$=dv.current().description.eyes` |
 
 > [!cards|dataview wfull]
+> ## Racial Traits
 > ```dataview
-> TABLE WITHOUT ID classFeatures.name AS Name, classFeatures.description AS Description
+> TABLE WITHOUT ID "**"+racialTraits.name+"**" AS Name, racialTraits.description AS Description
+> FLATTEN racialTraits
 > WHERE this.file.name = file.name
 > ```
 
-```dataview
-TABLE WITHOUT ID classFeatures.name AS Name, classFeatures.description AS Description
-WHERE this.file.name = file.name
-```
+> [!cards|dataview wfull]
+> ## Class Features
+> ```dataview
+> TABLE WITHOUT ID "**"+classFeatures.name+"**" AS Name, classFeatures.description AS Description
+> FLATTEN classFeatures
+> WHERE this.file.name = file.name
+> ```
+
 
 
 
