@@ -447,8 +447,12 @@ day_suffix: th
 
 <!-- Update to support multiple classes -->
 > [!infobox|center]
-> `$=dv.current().class`
-> `$=dv.current().level`
+> ## Classes
+> |||
+> |:---:|:---:|
+> | **Class** | `$=dv.current().class` |
+> | **Level** | `$=dv.current().level` |
+> | **Features** | `$=dv.current().classFeatures.map(feat => feat.name).join(', ')` |
 
 
 # Personality
