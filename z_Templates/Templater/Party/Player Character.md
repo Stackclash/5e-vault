@@ -266,6 +266,7 @@ location:
 >> | **Strength** | `$=dv.current().savingThrows.strength.proficiency ? '✅' : '❌'` | `$=dv.current().savingThrows.strength.value` | **Intelligence** | `$=dv.current().savingThrows.intelligence.proficiency ? '✅' : '❌'` | `$=dv.current().savingThrows.intelligence.value` |
 >> | **Dexterity** | `$=dv.current().savingThrows.dexterity.proficiency ? '✅' : '❌'` | `$=dv.current().savingThrows.dexterity.value` | **Wisdom** | `$=dv.current().savingThrows.wisdom.proficiency ? '✅' : '❌'` | `$=dv.current().savingThrows.wisdom.value` |
 >> | **Constitution** | `$=dv.current().savingThrows.constitution.proficiency ? '✅' : '❌'` | `$=dv.current().savingThrows.constitution.value` | **Charisma** | `$=dv.current().savingThrows.charisma.proficiency ? '✅' : '❌'` | `$=dv.current().savingThrows.charisma.value` |
+>> **Notes**: `$=dv.current().savingThrows.notes`
 
 > [!infobox|wfull]
 > ## Skills
@@ -281,10 +282,45 @@ location:
 > | **Intimidation (Cha)** | `$=dv.current().skills.intimidation.proficiency ? '✅' : '❌'` | `$=dv.current().skills.intimidation.expertise ? '✅' : '❌'` | `$=dv.current().skills.intimidation.value` | **Stealth (Dex)** | `$=dv.current().skills.stealth.proficiency ? '✅' : '❌'` | `$=dv.current().skills.stealth.expertise ? '✅' : '❌'` | `$=dv.current().skills.stealth.value` |
 > | **Investigation (Int)** | `$=dv.current().skills.investigation.proficiency ? '✅' : '❌'` | `$=dv.current().skills.investigation.expertise ? '✅' : '❌'` | `$=dv.current().skills.investigation.value` | **Survival (Wis)** | `$=dv.current().skills.survival.proficiency ? '✅' : '❌'` | `$=dv.current().skills.survival.expertise ? '✅' : '❌'` | `$=dv.current().skills.survival.value` |
 >
-> ## Passives
-> | **Perception** | **Investigation** | **Insight** |
-> |:---:|:---:|:---:|
-> |  |  |  |
+> [!infobox|left n-th]
+> ## Passive Skills
+> |||
+> |:---:|:---:|
+> | **Perception** | `$=dv.current().passives.perception` |
+> | **Investigation** | `$=dv.current().passives.investigation` |
+>  **Insight** | `$=dv.current().passives.insight` |
+
+> [!infobox|center n-th wm-tl]
+> ## Description
+> |||
+> |:---:|:---:|:---:|:---:|:---:|:---:|
+> | **Race** | `$=dv.current().race` | **Height** | `$=dv.current().description.height` | **Skin** | `$=dv.current().description.skin` |
+> | **Gender** | `$=dv.current().description.gender` | **Weight** | `$=dv.current().description.weight` | **Hair** | `$=dv.current().description.hair` |
+> | **Age** | `$=dv.current().description.age` | **Size** | `$=dv.current().description.size` | **Eyes** | `$=dv.current().description.eyes` |
+
+> [!cards|dataview wfull]
+> ## Racial Traits
+> ```dataview
+> TABLE WITHOUT ID "**"+racialTraits.name+"**" AS Name, racialTraits.description AS Description
+> FLATTEN racialTraits
+> WHERE this.file.name = file.name
+> ```
+
+> [!cards|dataview wfull]
+> ## Class Features
+> ```dataview
+> TABLE WITHOUT ID "**"+classFeatures.name+"**" AS Name, classFeatures.description AS Description
+> FLATTEN classFeatures
+> WHERE this.file.name = file.name
+> ```
+
+> [!cards|dataview wfull]
+> ## Feats
+> ```dataview
+> TABLE WITHOUT ID "**"+feats.name+"**" AS Name, feats.description AS Description
+> FLATTEN feats
+> WHERE this.file.name = file.name
+> ```
 
 # Personality
 ## Loves
