@@ -44,7 +44,7 @@ birthday: -30
 age: 1001
 hp: 45
 tempHP: 0
-ac: 16
+ac: 5
 gender: 1
 prof: 1
 abilityScores:
@@ -55,13 +55,11 @@ abilityScores:
   wis: 12
   cha: 14
 globalMod:
-  savingThrow: 0
-  skillCheck: 0
-  AC: 0
+  skillCheck: .nan
 passive:
-  perception: 5
-  investigation: 5
-  insight: 5
+  perception: NaN
+  investigation: NaN
+  insight: NaN
 height: 5'4
 weight: 
 sca_temp: 0
@@ -70,8 +68,8 @@ gender_name: Female
 alive: true
 day_suffix: th
 portrait: "![[Untitled.png]]"
-modifier: 0
-active: ❌
+modifier: NaN
+active: ✅
 JoaT: false
 spells:
   slots1: 1
@@ -83,6 +81,11 @@ spells:
   slots7: 1
   slots8: 1
   slots9: 1
+expertise:
+  acrobatics: true
+  animalHandling: true
+  arcana: true
+  athletics: true
 ---
 
 `VIEW[round(floor(({totalLevel}+7)/4),0)][math(hidden):prof]`
