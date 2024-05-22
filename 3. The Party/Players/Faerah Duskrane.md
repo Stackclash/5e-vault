@@ -452,7 +452,11 @@ day_suffix: th
 > | **Gender** | `$=dv.current().description.gender` | **Weight** | `$=dv.current().description.weight` | **Hair** | `$=dv.current().description.hair` |
 > | **Age** | `$=dv.current().description.age` | **Size** | `$=dv.current().description.size` | **Eyes** | `$=dv.current().description.eyes` |
 
-
+> [!cards|dataview wfull]
+> ```dataview
+> TABLE WITHOUT ID file.name, description
+> FROM this.file
+> ```
 
 
 
