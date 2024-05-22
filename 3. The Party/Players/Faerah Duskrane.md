@@ -386,19 +386,17 @@ location:
 > 
 >> [!blank]
 >> # `$=dv.current().name`
->> Description
 >> ## Ability Scores
 >> ||
 >> :---:|:---:|:---:|:---:|:---:|:---:|
->> STR | `$=dv.current().abilityScores.strength.value` | `$=dv.current().abilityScores.strength.modifier` | INT | `$=dv.current().abilityScores.intelligence.value` | `$=dv.current().abilityScores.intelligence.modifier` |
->> DEX | `$=dv.current().abilityScores.dexterity.value` | `$=dv.current().abilityScores.dexterity.modifier` | WIS | `$=dv.current().abilityScores.wisdom.value` | `$=dv.current().abilityScores.wisdom.modifier` |
->> CON | `$=dv.current().abilityScores.constitution.value` | `$=dv.current().abilityScores.constitution.modifier` | CHA | `$=dv.current().abilityScores.charisma.value` | `$=dv.current().abilityScores.charisma.modifier` |
+>> **Strength** | `$=dv.current().abilityScores.strength.value` | `$=dv.current().abilityScores.strength.modifier` | **Intelligence** | `$=dv.current().abilityScores.intelligence.value` | `$=dv.current().abilityScores.intelligence.modifier` |
+>> **Dexterity** | `$=dv.current().abilityScores.dexterity.value` | `$=dv.current().abilityScores.dexterity.modifier` | **Wisdom** | `$=dv.current().abilityScores.wisdom.value` | `$=dv.current().abilityScores.wisdom.modifier` |
+>> **Constitution** | `$=dv.current().abilityScores.constitution.value` | `$=dv.current().abilityScores.constitution.modifier` | **Charisma** | `$=dv.current().abilityScores.charisma.value` | `$=dv.current().abilityScores.charisma.modifier` |
 > 
 >> [!blank|no-t]
+>> |||
+>> | HP | `$=dv.current().hp` | |
 >> `$="![Char Image|cover right circle hsmall wsmall lp](" + dv.current().image + ")"`
->> HP | AC | Initiative |
->> :---:|:---:|:---:|
->>  `$=dv.current().hp` | `$=dv.current().ac` | `$=dv.current().modifier` |
 
 
 
