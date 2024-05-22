@@ -10,5 +10,6 @@
   "supercharged-links@@4a6f-4872-before": "⌛",
   "supercharged-links@@9934-88e3-before": "🏔️",
   "supercharged-links@@a3ec-73d2-before": "🛡️",
-  "ITS@@select": "wotc-beyond"
+  "ITS@@select": "wotc-beyond",
+  "ITS@@default-statblock": false
 }
