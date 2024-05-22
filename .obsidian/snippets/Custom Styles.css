@@ -4,19 +4,26 @@
     background-color: #312C2C;
 } */
 
-/* Fixes so that Meta-bind inputs take up available space */
-/* .mb-input-wrapper input[type="number"] {
-  width: 100%;
+/* Metabind classes to use */
+.mb-35 input {
+  width: 35px;
 }
-.mb-input-wrapper input[type="text"] {
-  width: 100%;
+
+.mb-45 input {
+  width: 45px;
 }
-.mb-input-wrapper textarea {
-  width: 100%;
+
+.mb-55 input {
+  width: 55px;
 }
-.mb-input-wrapper select {
-  width: 100%;
-} */
+
+.mb-75 input {
+  width: 75px;
+}
+
+.mb-100 input {
+  width: 100px;
+}
 
 /* Hides File Name in Meta Bind Image Suggester */
 .mb-image-suggest-footer-text {
@@ -24,9 +31,9 @@
 }
 
 /* Fixes Text Area to be small enough to fit with infobox */
-.mb-input-type-textArea > textarea {
+/* .mb-input-type-textArea > textarea {
   width: calc(100% - 30%)
-}
+} */
 
 /* Hides node files and folders */
 .tree-item:has(> div[data-path="node_modules"]) {
