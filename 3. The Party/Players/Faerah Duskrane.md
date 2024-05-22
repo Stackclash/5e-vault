@@ -3,7 +3,7 @@ obsidianUIMode: preview
 statblock: true
 name: Faerah Duskrane
 level: 6
-ac: 5
+ac: 16
 hp: 45
 modifier: -5
 proficiency: 3
@@ -436,7 +436,6 @@ day_suffix: th
 > | **Intimidation (Cha)** | `$=dv.current().skills.intimidation.proficiency ? '✅' : '❌'` | `$=dv.current().skills.intimidation.expertise ? '✅' : '❌'` | `$=dv.current().skills.intimidation.value` | **Stealth (Dex)** | `$=dv.current().skills.stealth.proficiency ? '✅' : '❌'` | `$=dv.current().skills.stealth.expertise ? '✅' : '❌'` | `$=dv.current().skills.stealth.value` |
 > | **Investigation (Int)** | `$=dv.current().skills.investigation.proficiency ? '✅' : '❌'` | `$=dv.current().skills.investigation.expertise ? '✅' : '❌'` | `$=dv.current().skills.investigation.value` | **Survival (Wis)** | `$=dv.current().skills.survival.proficiency ? '✅' : '❌'` | `$=dv.current().skills.survival.expertise ? '✅' : '❌'` | `$=dv.current().skills.survival.value` |
 
-
 > [!infobox|left n-th]
 > ## Passive Skills
 > |||
@@ -445,14 +444,13 @@ day_suffix: th
 > | **Investigation** | `$=dv.current().passives.investigation` |
 >  **Insight** | `$=dv.current().passives.insight` |
 
-
-> [!infobox|center n-th ws-med]
+> [!infobox|center n-th wm-tl]
 > ## Description
 > |||
-> |:---:|:---:|:---:|:---:|
-> | **Race** | `$=dv.current().race` | **Height** | `$=dv.current().description.height` |
-> | **Gender** | `$=dv.current().description.gender` | **Weight** | `$=dv.current().description.weight` |
-> | **Age** | `$=dv.current().description.age` | **Size** | `$=dv.current().description.size` |
+> |:---:|:---:|:---:|:---:|:---:|:---:|
+> | **Race** | `$=dv.current().race` | **Height** | `$=dv.current().description.height` | **Skin** | `$=dv.current().description.skin` |
+> | **Gender** | `$=dv.current().description.gender` | **Weight** | `$=dv.current().description.weight` | **Hair** | `$=dv.current().description.hair` |
+> | **Age** | `$=dv.current().description.age` | **Size** | `$=dv.current().description.size` | **Eyes** | `$=dv.current().description.eyes` |
 
 
 
