@@ -389,16 +389,16 @@ location:
 >> Description
 >> ## Ability Scores
 >> ||
->> :---:|:---:|:---:|:---:|
->> STR | `INPUT[number(class(nb-mb-css)):abilityScores.str]` | INT | `INPUT[number(class(nb-mb-css)):abilityScores.int]` |
->> DEX | `INPUT[number(class(nb-mb-css)):abilityScores.dex]` | WIS | `INPUT[number(class(nb-mb-css)):abilityScores.wis]` |
->> CON | `INPUT[number(class(nb-mb-css)):abilityScores.con]` | CHA | `INPUT[number(class(nb-mb-css)):abilityScores.cha]` |
+>> :---:|:---:|:---:|:---:|:---:|:---:|
+>> STR | `INPUT[number(class(nb-mb-35)):abilityScores.strength.value]` | `$=dv.current().abilityScores.strength.modifier` | INT | `INPUT[number(class(nb-mb-35)):abilityScores.intelligence.value]` |  |
+>> DEX | `INPUT[number(class(nb-mb-35)):abilityScores.dexterity.value]` |  | WIS | `INPUT[number(class(nb-mb-35)):abilityScores.wisdom.value]` |  |
+>> CON | `INPUT[number(class(nb-mb-35)):abilityScores.constitution.value]` |  | CHA | `INPUT[number(class(nb-mb-35)):abilityScores.charisma.value]` |  |
 > 
 >> [!blank|no-t]
 >> `$="![Char Image|cover right circle hsmall wsmall lp](" + dv.current().image + ")"`
->> | HP | AC | Initiative |
->> |:---:|:---:|:---:|
->> | `$=dv.current().hp` | `$=dv.current().ac` | `$=dv.current().modifier` |
+>> HP | AC | Initiative |
+>> :---:|:---:|:---:|
+>>  `$=dv.current().hp` | `$=dv.current().ac` | `$=dv.current().modifier` |
 
 
 
