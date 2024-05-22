@@ -465,12 +465,12 @@
             "size"
           ],
           "options": [
-            "Large",
-            "Medium",
-            "Huge",
-            "Gargantuan",
-            "Small",
-            "Tiny"
+            "large",
+            "medium",
+            "huge",
+            "gargantuan",
+            "small",
+            "tiny"
           ],
           "id": "ID_DEFAULT_SIZE_FILTER",
           "derive": true
@@ -496,7 +496,7 @@
             "fey",
             "giant",
             "celestial",
-            "swarm of Tiny beasts"
+            "swarm of tiny beasts"
           ],
           "id": "ID_DEFAULT_TYPE_FILTER",
           "derive": true
@@ -508,39 +508,22 @@
             "alignment"
           ],
           "options": [
-            "Lawful Evil",
+            "lawful evil",
             "any alignment",
             "chaotic evil",
-            "lawful evil",
             "chaotic good",
             "lawful good",
             "neutral",
             "lawful neutral",
             "unaligned",
-            "Unaligned",
             "any non-good alignment",
             "any non-lawful alignment",
             "neutral evil",
             "any chaotic alignment",
             "neutral good",
-            "Chaotic Evil",
-            "Chaotic Neutral",
-            "neutral good (50%) or neutral evil (50%)",
-            "Neutral Good",
-            "Neutral Evil",
-            "Neutral",
-            "any evil alignment",
             "chaotic neutral",
-            "Typically  Chaotic Evil",
-            "Typically  Neutral Evil",
-            "Typically  Lawful Neutral",
-            "Typically  Lawful Evil",
-            "Chaotic",
-            "Any Evil alignment",
-            "Lawful Good",
-            "Any alignment",
-            "Chaotic Good",
-            "Lawful Neutral"
+            "neutral good (50%) or neutral evil (50%)",
+            "any evil alignment"
           ],
           "id": "ID_DEFAULT_ALIGNMENT_FILTER",
           "derive": true

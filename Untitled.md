@@ -12,7 +12,7 @@ race:
   subRace: undefined
   traits:
     - 
-totalLevel: 0
+totalLevel: '[MB_EXPRESSION] "failed to evaluate expression" caused by error "Cannot convert "­6" to a number"'
 class1:
   name: Rogue
   subClass: ­Swashbuckler
@@ -46,7 +46,7 @@ hp: 45
 tempHP: 0
 ac: 5
 gender: 1
-prof: 1
+prof: '[MB_EXPRESSION] "failed to evaluate expression" caused by error "Cannot convert "[MB_EXPRESSION] "failed to evaluate expression" caused by error "Cannot convert "­6" to a number"" to a number"'
 abilityScores:
   str: 8
   dex: 19
@@ -55,16 +55,16 @@ abilityScores:
   wis: 12
   cha: 14
 globalMod:
-  skillCheck: .nan
+  skillCheck: 
 passive:
-  perception: NaN
-  investigation: NaN
-  insight: NaN
+  perception: 11
+  investigation: 10
+  insight: 11
 height: 5'4
 weight: 
 sca_temp: 0
 sca: '[MB_EXPRESSION] "failed to evaluate expression" caused by error "Undefined symbol False"'
-gender_name: Female
+gender_name: Male
 alive: true
 day_suffix: th
 portrait: "![[Untitled.png]]"
