@@ -332,6 +332,14 @@ location:
 > WHERE this.file.name = file.name
 > ```
 
+> [!cards|dataview 4 wfull]
+> ## Inventory
+> ```dataview
+> TABLE WITHOUT ID "**"+inventory.name+"**" AS Name, "Quantity: "+inventory.quantity AS Description
+> FLATTEN inventory
+> WHERE this.file.name = file.name
+> ```
+
 # Personality
 ## Loves
 
