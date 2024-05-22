@@ -387,8 +387,9 @@ location:
 >> [!blank|no-t]
 >> # `$=dv.current().name`
 >> Description
+>> ## Ability Scores
 >>
-| STR | DEX | CON | INT | WIS | CHA |  |
+| Strength | Dexterity | Constitution | Intelligenc | Wisdom | Charisma |  |
 |:---:|:---:|:---:|:---:|:---:|:---:|:--- |
 | `$=dv.current().abilityScores.strength.value` | `$=dv.current().abilityScores.dexterity.value` |  |  |  |  |  |
 | `$=dv.current().abilityScores.strength.modifier` |  |  |  |  |  | **Mod** |
