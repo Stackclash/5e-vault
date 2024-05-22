@@ -437,13 +437,22 @@ day_suffix: th
 > | **Investigation (Int)** | `$=dv.current().skills.investigation.proficiency ? '✅' : '❌'` | `$=dv.current().skills.investigation.expertise ? '✅' : '❌'` | `$=dv.current().skills.investigation.value` | **Survival (Wis)** | `$=dv.current().skills.survival.proficiency ? '✅' : '❌'` | `$=dv.current().skills.survival.expertise ? '✅' : '❌'` | `$=dv.current().skills.survival.value` |
 
 
-> [!infobox|n-th]
+> [!infobox|left n-th]
 > ## Passive Skills
 > |||
 > |:---:|:---:|
 > | **Perception** | `$=dv.current().passives.perception` |
 > | **Investigation** | `$=dv.current().passives.investigation` |
 >  **Insight** | `$=dv.current().passives.insight` |
+
+
+> [!infobox|center n-th]
+> |||
+> |:---:|:---:|
+> | **Race** | `$=dv.current().race` |
+> | **Gender** | `$=dv.current().description.gender` |
+> | **Age** | `$=dv.current().description.age` |
+
 
 <!-- Update to support multiple classes -->
 > [!infobox|n-th]
