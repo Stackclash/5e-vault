@@ -382,7 +382,7 @@ party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
 condition:
 location:
 ---
-> [!statblocks|columns full no-t]
+> [!statblocks|columns]
 > 
 >> [!blank]
 >> # `$=dv.current().name`
@@ -394,9 +394,9 @@ location:
 >> **Constitution** | `$=dv.current().abilityScores.constitution.value` | `$=dv.current().abilityScores.constitution.modifier` | **Charisma** | `$=dv.current().abilityScores.charisma.value` | `$=dv.current().abilityScores.charisma.modifier` |
 > 
 >> [!blank|no-t]
->> |||
->> | HP | `$=dv.current().hp` | |
+>>
 >> `$="![Char Image|cover right circle hsmall wsmall lp](" + dv.current().image + ")"`
+
 
 
 
