@@ -454,11 +454,14 @@ day_suffix: th
 
 > [!cards|dataview wfull]
 > ```dataview
-> TABLE WITHOUT ID file.name, description
-> FROM this.file
+> TABLE WITHOUT ID classFeatures.name AS Name, classFeatures.description AS Description
+> WHERE this.file.name = file.name
 > ```
 
-
+```dataview
+TABLE WITHOUT ID classFeatures.name AS Name, classFeatures.description AS Description
+WHERE this.file.name = file.name
+```
 
 
 
