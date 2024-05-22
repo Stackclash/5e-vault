@@ -384,7 +384,7 @@ location:
 ---
 > [!statblocks|columns full no-t]
 >
-> ![Char Image|cover right circle hsmall wsmall lp](https://www.dndbeyond.com/avatars/36048/643/1581111423-105635812.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp)
+> `$="![Char Image|cover right circle hsmall wsmall lp](" + dv.current().image + ")"`
 > 
 >> [!blank|no-t]
 >> # `$=dv.current().name`
