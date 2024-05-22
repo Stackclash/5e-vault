@@ -446,7 +446,7 @@ day_suffix: th
 >  **Insight** | `$=dv.current().passives.insight` |
 
 <!-- Update to support multiple classes -->
-> [!cards]
+> [!infobox|center]
 > `$=dv.current().class`
 > `$=dv.current().level`
 
