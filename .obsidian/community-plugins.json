@@ -26,5 +26,6 @@
   "media-extended",
   "obsidian-icon-folder",
   "obsidian-import-json",
-  "obsidian-javascript-init"
+  "obsidian-javascript-init",
+  "obsidian-admonition"
 ]

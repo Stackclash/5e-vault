@@ -383,53 +383,26 @@ condition:
 location:
 ---
 > [!statblocks|columns full no-t]
->
-> `$="![Char Image|cover right circle hsmall wsmall lp](" + dv.current().image + ")"`
 > 
 >> [!blank|no-t]
 >> # `$=dv.current().name`
->> Description
+>> > Description
 >> *Basics*
 >> *Basics*
 > 
 >> [!blank|no-t]
->> | HP | AC | Initiative |
->> |:---:|:---:|:---:|
->> | `$=dv.current().hp` | `$=dv.current().ac` | `$=dv.current().modifier` |
-
-
-> [!checks]
-> - **GROUP**
-> 	- Next to checkboxes
-> 	- [ ] %% %%
-> 	- [ ] %% %%
-> 	- [ ] %% %%
-> 	- [ ] %% %%
-> 	- [ ] %% %%
-> - **New Row**
-> 	- Description
-> 	- [ ] %% %%
-> 	- [ ] %% %%
-> 	- [x] %% %%
-> 	- [x] %% %%
-> 	- [x] %% %%
-> - 
-> 	- Empty root bullet is necessary to group bullets together
-> 	- [x] %% %%
-> 	- [x] %% %%
-> 	- [x] %% %%
-> 	- [ ] %% %%
-> 	- [ ] %% %%
+>> `$="![Char Image|cover right circle hsmall wsmall lp](" + dv.current().image + ")"`
+| HP | AC | Initiative |
+|:---:|:---:|:---:|
+| `$=dv.current().hp` | `$=dv.current().ac` | `$=dv.current().modifier` |
 
 
 
 
 
 
-# DnD Beyond Character Sheet
-```custom-frames
-frame: 
-```
+
+
 
 # Personality
 ## Loves
