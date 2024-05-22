@@ -384,23 +384,11 @@ location:
 ---
 `$="![Char Image\|clear left circle hsmall wsmall lp](" + dv.current().image + ")"`
 # `$=dv.current().name`
-
-<!-- > [!infobox]
-> ## Ability Scores
->
-> ||||||||
-> |:---:|:---:|:---:|:---:|:---:|:---:|
-> | **Strength** | `$=dv.current().abilityScores.strength.value` | `$=dv.current().abilityScores.strength.modifier` | **Intelligence** | `$=dv.current().abilityScores.intelligence.value` | `$=dv.current().abilityScores.intelligence.modifier` |
-> | **Dexterity** | `$=dv.current().abilityScores.dexterity.value` | `$=dv.current().abilityScores.dexterity.modifier` | **Wisdom** | `$=dv.current().abilityScores.wisdom.value` | `$=dv.current().abilityScores.wisdom.modifier` |
-> | **Constitution** | `$=dv.current().abilityScores.constitution.value` | `$=dv.current().abilityScores.constitution.modifier` | **Charisma** | `$=dv.current().abilityScores.charisma.value` | `$=dv.current().abilityScores.charisma.modifier` | -->
-
-
-
 > [!statblocks|columns]
 > 
 >> [!blank]
 >> ## Ability Scores
->> ||
+>> ||| Mod ||| Mod |
 >> :---:|:---:|:---:|:---:|:---:|:---:|
 >> **Strength** | `$=dv.current().abilityScores.strength.value` | `$=dv.current().abilityScores.strength.modifier` | **Intelligence** | `$=dv.current().abilityScores.intelligence.value` | `$=dv.current().abilityScores.intelligence.modifier` |
 >> **Dexterity** | `$=dv.current().abilityScores.dexterity.value` | `$=dv.current().abilityScores.dexterity.modifier` | **Wisdom** | `$=dv.current().abilityScores.wisdom.value` | `$=dv.current().abilityScores.wisdom.modifier` |
@@ -408,6 +396,11 @@ location:
 >
 >> [!blank]
 >> ## Saving Throws
+>> || Prof ||| Prof ||
+>> :---:|:---:|:---:|:---:|:---:|:---:|
+>> **Strength** | `$=dv.current().savingThrows.strength.proficiency` | `$=dv.current().savingThrows.strength.value` | **Intelligence** | `$=dv.current().savingThrows.intelligence.proficiency` | `$=dv.current().savingThrows.intelligence.value` |
+>> **Dexterity** | `$=dv.current().savingThrows.dexterity.proficiency` | `$=dv.current().savingThrows.dexterity.value` | **Wisdom** | `$=dv.current().savingThrows.wisdom.proficiency` | `$=dv.current().savingThrows.wisdom.value` |
+>> **Constitution** | `$=dv.current().savingThrows.constitution.proficiency` | `$=dv.current().savingThrows.constitution.value` | **Charisma** | `$=dv.current().savingThrows.charisma.proficiency` | `$=dv.current().savingThrows.charisma.value` |
 
 
 
