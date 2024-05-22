@@ -386,9 +386,13 @@ location:
 > 
 >> [!blank|no-t]
 >> # `$=dv.current().name`
->> > Description
->> *Basics*
->> *Basics*
+>> Description
+>>
+| STR | DEX | CON | INT | WIS | CHA |  |
+|:---:|:---:|:---:|:---:|:---:|:---:|:--- |
+| `$=dv.current().abilityScores.strength.value` | `$=dv.current().abilityScores.dexterity.value` |  |  |  |  |  |
+| `$=dv.current().abilityScores.strength.modifier` |  |  |  |  |  | **Mod** |
+| `$=dv.current().savingThrows.strength.value` |  |  |  |  |  | **Sav** |
 > 
 >> [!blank|no-t]
 >> `$="![Char Image|cover right circle hsmall wsmall lp](" + dv.current().image + ")"`
