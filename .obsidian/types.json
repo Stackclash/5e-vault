@@ -32,6 +32,7 @@
     "relationships": "multitext",
     "statblock": "checkbox",
     "groups": "multitext",
-    "religions": "multitext"
+    "religions": "multitext",
+    "speed": "number"
   }
 }
