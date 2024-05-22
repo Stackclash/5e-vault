@@ -384,15 +384,15 @@ location:
 ---
 > [!statblocks|columns full no-t]
 > 
->> [!blank|no-t]
+>> [!blank]
 >> # `$=dv.current().name`
 >> Description
 >> ## Ability Scores
 >> ||
 >> :---:|:---:|:---:|:---:|:---:|:---:|
->> STR | `INPUT[number(class(nb-mb-35)):abilityScores.strength.value]` | `$=dv.current().abilityScores.strength.modifier` | INT | `INPUT[number(class(nb-mb-35)):abilityScores.intelligence.value]` |  |
->> DEX | `INPUT[number(class(nb-mb-35)):abilityScores.dexterity.value]` |  | WIS | `INPUT[number(class(nb-mb-35)):abilityScores.wisdom.value]` |  |
->> CON | `INPUT[number(class(nb-mb-35)):abilityScores.constitution.value]` |  | CHA | `INPUT[number(class(nb-mb-35)):abilityScores.charisma.value]` |  |
+>> STR | `$=dv.current().abilityScores.strength.value` | `$=dv.current().abilityScores.strength.modifier` | INT | `$=dv.current().abilityScores.intelligence.value` | `$=dv.current().abilityScores.intelligence.modifier` |
+>> DEX | `$=dv.current().abilityScores.dexterity.value` | `$=dv.current().abilityScores.dexterity.modifier` | WIS | `$=dv.current().abilityScores.wisdom.value` | `$=dv.current().abilityScores.wisdom.modifier` |
+>> CON | `$=dv.current().abilityScores.constitution.value` | `$=dv.current().abilityScores.constitution.modifier` | CHA | `$=dv.current().abilityScores.charisma.value` | `$=dv.current().abilityScores.charisma.modifier` |
 > 
 >> [!blank|no-t]
 >> `$="![Char Image|cover right circle hsmall wsmall lp](" + dv.current().image + ")"`
