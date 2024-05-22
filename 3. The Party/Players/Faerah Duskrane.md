@@ -437,11 +437,19 @@ day_suffix: th
 > | **Investigation (Int)** | `$=dv.current().skills.investigation.proficiency ? '✅' : '❌'` | `$=dv.current().skills.investigation.expertise ? '✅' : '❌'` | `$=dv.current().skills.investigation.value` | **Survival (Wis)** | `$=dv.current().skills.survival.proficiency ? '✅' : '❌'` | `$=dv.current().skills.survival.expertise ? '✅' : '❌'` | `$=dv.current().skills.survival.value` |
 
 
-> [!infobox|wfull]
+> [!infobox|left n-th]
 > ## Passive Skills
-> | **Perception** | **Investigation** | **Insight** |
-> |:---:|:---:|:---:|
-> | `$=dv.current().passives.perception` | `$=dv.current().passives.investigation` | `$=dv.current().passives.insight` |
+> |||
+> |:---:|:---:|
+> | **Perception** | `$=dv.current().passives.perception` |
+> | **Investigation** | `$=dv.current().passives.investigation` |
+>  **Insight** | `$=dv.current().passives.insight` |
+
+<!-- Update to support multiple classes -->
+> [!cards]
+> `$=dv.current().class`
+> `$=dv.current().level`
+
 
 # Personality
 ## Loves
