@@ -239,33 +239,47 @@ party: "[[<% selectedParty.join('|') %>]]"
 condition:
 location:
 ---
-> [!infobox|right]
-> # `=this.file.name`
-> ```meta-bind
-> INPUT[imageSuggester(optionQuery("z_Assets")):image]
-> ```
-> ## Info
-> | | |
-> | ---- | ---- |
-> | Level | `INPUT[inlineSelect(option(1),option(2),option(3),option(4),option(5),option(6),option(7),option(8),option(9),option(10),option(11),option(12),option(13),option(14),option(15),option(16),option(17),option(18),option(19),option(20)):level]` |
-> | Class | `INPUT[suggester(optionQuery("5. Mechanics/Classes")):class]` |
-> | Race | `INPUT[suggester(optionQuery("5. Mechanics/Races")):race]` |
-> | HP | `INPUT[number:hp]` |
-> | AC | `INPUT[number:ac]` |
-> | Initiative Mod | `INPUT[number:modifier]` |
-> ## Stats
-> | | | |
-> | ---- | ---- | ---- |
-> | Strength | `INPUT[number:abilityScores.strength.value]` | `$=Math.floor((parseInt(dv.current().abilityScores.strength.value)-10)/2)` |
-> | Dexterity | `INPUT[number:abilityScores.dexterity.value]` | `$=Math.floor((parseInt(dv.current().abilityScores.dexterity.value)-10)/2)` |
-> | Constitution | `INPUT[number:abilityScores.constitution.value]` | `$=Math.floor((parseInt(dv.current().abilityScores.constitution.value)-10)/2)` |
-> | Intelligence | `INPUT[number:abilityScores.intelligence.value]` | `$=Math.floor((parseInt(dv.current().abilityScores.intelligence.value)-10)/2)` |
-> | Wisdom | `INPUT[number:abilityScores.wisdom.value]` | `$=Math.floor((parseInt(dv.current().abilityScores.wisdom.value)-10)/2)` |
-> | Charisma | `INPUT[number:abilityScores.charisma.value]` | `$=Math.floor((parseInt(dv.current().abilityScores.charisma.value)-10)/2)` |
-# DnD Beyond Character Sheet
-```custom-frames
-frame: 
-```
+`$="![Char Image\|clear left circle hsmall wsmall lp](" + dv.current().image + ")"`
+> [!infobox|left clear n-th]
+> 
+> |||
+> |:---:|:---:|
+> | **Health Points** | `$=dv.current().hp` |
+> | **Armor Class** | `$=dv.current().ac` |
+> | **Initiative** | `$=dv.current().modifier` |
+
+# `$=dv.current().name`
+> [!statblocks|columns]
+> 
+>> [!blank]
+>> ## Ability Scores
+>> ||| Mod ||| Mod |
+>> |:---:|:---:|:---:|:---:|:---:|:---:|
+>> | **Strength** | `$=dv.current().abilityScores.strength.value` | `$=dv.current().abilityScores.strength.modifier` | **Intelligence** | `$=dv.current().abilityScores.intelligence.value` | `$=dv.current().abilityScores.intelligence.modifier` |
+>> | **Dexterity** | `$=dv.current().abilityScores.dexterity.value` | `$=dv.current().abilityScores.dexterity.modifier` | **Wisdom** | `$=dv.current().abilityScores.wisdom.value` | `$=dv.current().abilityScores.wisdom.modifier` |
+>> | **Constitution** | `$=dv.current().abilityScores.constitution.value` | `$=dv.current().abilityScores.constitution.modifier` | **Charisma** | `$=dv.current().abilityScores.charisma.value` | `$=dv.current().abilityScores.charisma.modifier` |
+>
+>> [!blank]
+>> ## Saving Throws
+>> || Prof ||| Prof ||
+>> |:---:|:---:|:---:|:---:|:---:|:---:|
+>> | **Strength** | `$=dv.current().savingThrows.strength.proficiency ? '✅' : '❌'` | `$=dv.current().savingThrows.strength.value` | **Intelligence** | `$=dv.current().savingThrows.intelligence.proficiency ? '✅' : '❌'` | `$=dv.current().savingThrows.intelligence.value` |
+>> | **Dexterity** | `$=dv.current().savingThrows.dexterity.proficiency ? '✅' : '❌'` | `$=dv.current().savingThrows.dexterity.value` | **Wisdom** | `$=dv.current().savingThrows.wisdom.proficiency ? '✅' : '❌'` | `$=dv.current().savingThrows.wisdom.value` |
+>> | **Constitution** | `$=dv.current().savingThrows.constitution.proficiency ? '✅' : '❌'` | `$=dv.current().savingThrows.constitution.value` | **Charisma** | `$=dv.current().savingThrows.charisma.proficiency ? '✅' : '❌'` | `$=dv.current().savingThrows.charisma.value` |
+
+> [!infobox|wfull]
+> ## Skills
+> || **Prof** | **Exp** ||| **Prof** | **Exp** ||
+> |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+> | **Acrobatics (Dex)** | `$=dv.current().skills.acrobatics.proficiency ? '✅' : '❌'` | `$=dv.current().skills.acrobatics.expertise ? '✅' : '❌'` | `$=dv.current().skills.acrobatics.value` | **Medicine (Wis)** | `$=dv.current().skills.medicine.proficiency ? '✅' : '❌'` | `$=dv.current().skills.medicine.expertise ? '✅' : '❌'` | `$=dv.current().skills.medicine.value` |
+> | **Animal Handling (Wis)** | `$=dv.current().skills['animal-handling'].proficiency ? '✅' : '❌'` | `$=dv.current().skills['animal-handling'].expertise ? '✅' : '❌'` | `$=dv.current().skills['animal-handling'].value` | **Nature (Int)** | `$=dv.current().skills.nature.proficiency ? '✅' : '❌'` | `$=dv.current().skills.nature.expertise ? '✅' : '❌'` | `$=dv.current().skills.nature.value` |
+> | **Arcana (Int)** | `$=dv.current().skills.arcana.proficiency ? '✅' : '❌'` | `$=dv.current().skills.arcana.expertise ? '✅' : '❌'` | `$=dv.current().skills.arcana.value` | **Perception (Wis)** | `$=dv.current().skills.perception.proficiency ? '✅' : '❌'` | `$=dv.current().skills.perception.expertise ? '✅' : '❌'` | `$=dv.current().skills.perception.value` |
+> | **Athletics (Str)** | `$=dv.current().skills.athletics.proficiency ? '✅' : '❌'` | `$=dv.current().skills.athletics.expertise ? '✅' : '❌'` | `$=dv.current().skills.athletics.value` | **Performance (Cha)** | `$=dv.current().skills.performance.proficiency ? '✅' : '❌'` | `$=dv.current().skills.performance.expertise ? '✅' : '❌'` | `$=dv.current().skills.performance.value` |
+> | **Deception (Cha)** | `$=dv.current().skills.deception.proficiency ? '✅' : '❌'` | `$=dv.current().skills.deception.expertise ? '✅' : '❌'` | `$=dv.current().skills.deception.value` | **Persuasion (Cha)** | `$=dv.current().skills.persuasion.proficiency ? '✅' : '❌'` | `$=dv.current().skills.persuasion.expertise ? '✅' : '❌'` | `$=dv.current().skills.persuasion.value` |
+> | **History (Int)** | `$=dv.current().skills.history.proficiency ? '✅' : '❌'` | `$=dv.current().skills.history.expertise ? '✅' : '❌'` | `$=dv.current().skills.history.value` | **Religion (Int)** | `$=dv.current().skills.religion.proficiency ? '✅' : '❌'` | `$=dv.current().skills.religion.expertise ? '✅' : '❌'` | `$=dv.current().skills.religion.value` |
+> | **Insight (Wis)** | `$=dv.current().skills.insight.proficiency ? '✅' : '❌'` | `$=dv.current().skills.insight.expertise ? '✅' : '❌'` | `$=dv.current().skills.insight.value` | **Sleight of Hand (Dex)** | `$=dv.current().skills['sleight-of-hand'].proficiency ? '✅' : '❌'` | `$=dv.current().skills['sleight-of-hand'].expertise ? '✅' : '❌'` | `$=dv.current().skills['sleight-of-hand'].value` |
+> | **Intimidation (Cha)** | `$=dv.current().skills.intimidation.proficiency ? '✅' : '❌'` | `$=dv.current().skills.intimidation.expertise ? '✅' : '❌'` | `$=dv.current().skills.intimidation.value` | **Stealth (Dex)** | `$=dv.current().skills.stealth.proficiency ? '✅' : '❌'` | `$=dv.current().skills.stealth.expertise ? '✅' : '❌'` | `$=dv.current().skills.stealth.value` |
+> | **Investigation (Int)** | `$=dv.current().skills.investigation.proficiency ? '✅' : '❌'` | `$=dv.current().skills.investigation.expertise ? '✅' : '❌'` | `$=dv.current().skills.investigation.value` | **Survival (Wis)** | `$=dv.current().skills.survival.proficiency ? '✅' : '❌'` | `$=dv.current().skills.survival.expertise ? '✅' : '❌'` | `$=dv.current().skills.survival.value` |
 
 # Personality
 ## Loves
