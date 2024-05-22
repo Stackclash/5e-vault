@@ -299,8 +299,14 @@ location:
 > | **Gender** | `$=dv.current().description.gender` | **Weight** | `$=dv.current().description.weight` | **Hair** | `$=dv.current().description.hair` |
 > | **Age** | `$=dv.current().description.age` | **Size** | `$=dv.current().description.size` | **Eyes** | `$=dv.current().description.eyes` |
 
+<!-- Update to pull link to class and subclass -->
 > [!cards|dataview wfull]
 > ## Classes
+> ```dataview
+> TABLE WITHOUT ID classes.name AS Name, "Level: " + classes.level AS Level
+> FLATTEN classes
+> WHERE this.file.name = file.name
+> ```
 
 > [!cards|dataview wfull]
 > ## Racial Traits
