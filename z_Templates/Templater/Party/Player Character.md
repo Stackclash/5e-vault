@@ -66,7 +66,7 @@ background:
   enemies: 
   notes: 
 class:
-<% tp.user.build_class_yaml_list(character.classes, '5. Mechanics/Classes', 2) %>
+<% tp.user.build_class_yaml_list(tp, character.classes, '5. Mechanics/Classes', 2) %>
 abilityScores:
   strength:
     value: <% character.abilityScores.strength.value %>
