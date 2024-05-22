@@ -382,10 +382,10 @@ party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
 condition:
 location:
 ---
-> [!statblocks|3 full no-t]
-> ![Char Image|cover right circle htiny wtiny lp]()
+> [!statblocks|columns full no-t]
+> ![Char Image|cover right circle htiny wtiny lp](https://www.dndbeyond.com/avatars/36048/643/1581111423-105635812.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp)
 > 
-> # Name
+> # `$=dv.current().name`
 > > Description
 > *Basics*
 > *Basics*
@@ -393,7 +393,7 @@ location:
 >> [!blank|no-t]
 | HP | AC | Initiative |
 |:---:|:---:|:---:|
-| | | |
+| `$=dv.current().hp` | `$=dv.current().ac` | `$=dv.current().modifier` |
 
 
 
