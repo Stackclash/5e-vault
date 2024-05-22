@@ -1,10 +1,6 @@
 <%*
 const dv = app.plugins.getPlugin("dataview").api
 
-let images = tp.user.get_all_files(app.vault.adapter.getBasePath(), "z_Assets")
-let selectedImage = await tp.system.suggester(images.map(i => i.name), images.map(i => i.path), false, "What image to use?")
-if (!selectedImage) selectedImage = "z_Assets/PlaceholderImage.png"
-
 let parties = dv.pages('"3. The Party/Parties"')
 let selectedParty = await tp.system.suggester(parties.map(p => p.file.name), parties.map(p => [p.file.path, p.file.name]), false, "What party is the character a part of?")
 
@@ -21,7 +17,7 @@ await character.initialize()
 await tp.file.move('3. The Party/Players/' + character.name)
 -%>
 ---
-obsidianUIMode: previews
+obsidianUIMode: preview
 statblock: true
 name: <% character.name %>
 level: <% character.level %>
@@ -30,7 +26,7 @@ hp: <% character.healthPoints.current %>
 modifier: <% character.initiative %>
 proficiency: <% character.proficiencyBonus %>
 url: <% character.url %>
-image: <% selectedImage %>
+image: <% character.image %>
 race: "<% tp.user.find_file(character.race.fullName, '5. Mechanics/Races') %>"
 description:
   gender: <% character.description.gender %>
@@ -41,6 +37,10 @@ description:
   height: <% character.description.height %>
   weight: <% character.description.weight %>
   size: <% character.description.size %>
+passives:
+  perception: <% character.passives.perception %>
+  investigation: <% character.passives.investigation %>
+  insight: <% character.passives.insight %>
 proficiencies:
   armor:
 <% tp.user.build_yaml_list(character.proficiencies.armor, 4) %>

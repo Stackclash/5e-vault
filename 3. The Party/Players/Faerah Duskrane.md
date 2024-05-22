@@ -1,5 +1,5 @@
 ---
-obsidianUIMode: previews
+obsidianUIMode: preview
 statblock: true
 name: Faerah Duskrane
 level: 6
@@ -19,6 +19,10 @@ description:
   height: 5'4
   weight: null
   size: Medium
+passives:
+  perception: 14
+  investigation: 10
+  insight: 11
 proficiencies:
   armor:
     - "Light Armor"
@@ -428,13 +432,6 @@ location:
 > | **Perception** | **Investigation** | **Insight** |
 > |:---:|:---:|:---:|
 > |  |  |  |
-
-
-
-
-
-
-
 
 # Personality
 ## Loves

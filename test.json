@@ -55,6 +55,11 @@
     "resistances": []
   },
   "initiative": 6,
+  "passives": {
+    "perception": 14,
+    "investigation": 10,
+    "insight": 11
+  },
   "alignment": "Chaotic Good",
   "background": {
     "background": {

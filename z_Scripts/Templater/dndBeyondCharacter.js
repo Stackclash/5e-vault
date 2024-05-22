@@ -241,6 +241,14 @@ class DnDBeyondCharacter {
         },
         enumerable: true
       },
+      passives: {
+        get: () => ({
+          perception: 10 + this.skills.perception.value,
+          investigation: 10 + this.skills.investigation.value,
+          insight: 10 + this.skills.insight.value
+        }),
+        enumerable: true
+      },
       alignment: {
         get: () => DnDBeyondCharacter.ALIGNMENT[this.#data.alignmentId],
         enumerable: true
