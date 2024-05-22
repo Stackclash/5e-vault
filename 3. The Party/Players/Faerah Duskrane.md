@@ -437,7 +437,7 @@ day_suffix: th
 > | **Investigation (Int)** | `$=dv.current().skills.investigation.proficiency ? '✅' : '❌'` | `$=dv.current().skills.investigation.expertise ? '✅' : '❌'` | `$=dv.current().skills.investigation.value` | **Survival (Wis)** | `$=dv.current().skills.survival.proficiency ? '✅' : '❌'` | `$=dv.current().skills.survival.expertise ? '✅' : '❌'` | `$=dv.current().skills.survival.value` |
 
 
-> [!infobox|left n-th]
+> [!infobox|n-th]
 > ## Passive Skills
 > |||
 > |:---:|:---:|
@@ -446,13 +446,22 @@ day_suffix: th
 >  **Insight** | `$=dv.current().passives.insight` |
 
 <!-- Update to support multiple classes -->
-> [!infobox|center]
+> [!infobox|n-th]
 > ## Classes
 > |||
 > |:---:|:---:|
 > | **Class** | `$=dv.current().class` |
 > | **Level** | `$=dv.current().level` |
 > | **Features** | `$=dv.current().classFeatures.map(feat => feat.name).join(', ')` |
+
+> [!infobox]
+> ## Race
+> `$=dv.current().race`
+
+
+
+
+
 
 
 # Personality
