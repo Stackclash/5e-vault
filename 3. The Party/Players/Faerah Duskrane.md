@@ -246,136 +246,163 @@ currencies:
   pp: 0
 inventory:
   - name: "[[5. Mechanics/Items/Glamoured Studded Leather.md|Glamoured Studded Leather]]"
+    original: "Studded Leather"
     type: "Armor"
     quantity: 1
     equipped: true
     isAttuned: false
   - name: "[[5. Mechanics/Items/Dagger.md|Dagger]]"
+    original: "Dagger"
     type: "Weapon"
     quantity: 1
     equipped: false
     isAttuned: false
   - name: "[[5. Mechanics/Items/Dagger.md|Dagger]]"
+    original: "Dagger"
     type: "Weapon"
     quantity: 1
     equipped: false
     isAttuned: false
   - name: "[[5. Mechanics/Items/Quarterstaff.md|Quarterstaff]]"
+    original: "Quarterstaff"
     type: "Weapon"
     quantity: 1
     equipped: false
     isAttuned: false
   - name: "[[5. Mechanics/Items/Shortbow.md|Shortbow]]"
+    original: "Shortbow"
     type: "Weapon"
     quantity: 1
     equipped: true
     isAttuned: false
   - name: "[[5. Mechanics/Items/Rapier.md|Rapier]]"
+    original: "Rapier"
     type: "Weapon"
     quantity: 1
     equipped: false
     isAttuned: false
   - name: "[[5. Mechanics/Items/Scimitar.md|Scimitar]]"
+    original: "Scimitar"
     type: "Weapon"
     quantity: 1
     equipped: true
     isAttuned: false
   - name: "[[5. Mechanics/Items/Scimitar.md|Scimitar]]"
+    original: "Scimitar"
     type: "Weapon"
     quantity: 1
     equipped: true
     isAttuned: false
   - name: "[[5. Mechanics/Items/Arrows 20.md|Arrows 20]]"
+    original: "Arrows"
     type: "Other Gear"
     quantity: 20
     equipped: true
     isAttuned: false
   - name: "[[5. Mechanics/Items/Backpack.md|Backpack]]"
+    original: "Backpack"
     type: "Other Gear"
     quantity: 1
     equipped: false
     isAttuned: false
-  - name: "[[5. Mechanics/Items/1 All Purpose Tool.md|1 All Purpose Tool]]"
+  - name: "[[5. Mechanics/Items/Travelers Clothes.md|Travelers Clothes]]"
+    original: "Clothes, Traveler's"
     type: "Other Gear"
     quantity: 1
     equipped: false
     isAttuned: false
   - name: "[[5. Mechanics/Items/Hunting Trap.md|Hunting Trap]]"
+    original: "Hunting Trap"
     type: "Other Gear"
     quantity: 3
     equipped: false
     isAttuned: false
   - name: "[[5. Mechanics/Items/Pouch.md|Pouch]]"
+    original: "Pouch"
     type: "Other Gear"
     quantity: 1
     equipped: false
     isAttuned: false
-  - name: "[[5. Mechanics/Items/Artisans Tools.md|Artisans Tools]]"
+  - name: "[[5. Mechanics/Items/Thieves Tools.md|Thieves Tools]]"
+    original: "Thieves' Tools"
     type: "Other Gear"
     quantity: 1
     equipped: false
     isAttuned: false
   - name: "[[5. Mechanics/Items/Ball Bearings Bag Of 1000.md|Ball Bearings Bag Of 1000]]"
+    original: "Ball Bearings (bag of 1,000)"
     type: "Other Gear"
     quantity: 1000
     equipped: false
     isAttuned: false
   - name: "[[5. Mechanics/Items/Bell.md|Bell]]"
+    original: "Bell"
     type: "Other Gear"
     quantity: 1
     equipped: false
     isAttuned: false
   - name: "[[5. Mechanics/Items/Candle.md|Candle]]"
+    original: "Candle"
     type: "Other Gear"
     quantity: 5
     equipped: false
     isAttuned: false
   - name: "[[5. Mechanics/Items/Crowbar.md|Crowbar]]"
+    original: "Crowbar"
     type: "Other Gear"
     quantity: 1
     equipped: false
     isAttuned: false
   - name: "[[5. Mechanics/Items/Hammer.md|Hammer]]"
+    original: "Hammer"
     type: "Other Gear"
     quantity: 1
     equipped: false
     isAttuned: false
   - name: "[[5. Mechanics/Items/Hooded Lantern.md|Hooded Lantern]]"
+    original: "Lantern, Hooded"
     type: "Other Gear"
     quantity: 1
     equipped: false
     isAttuned: false
   - name: "[[5. Mechanics/Items/Abyssal Oil.md|Abyssal Oil]]"
+    original: "Oil (flask)"
     type: "Other Gear"
     quantity: 2
     equipped: false
     isAttuned: false
   - name: "[[5. Mechanics/Items/Piton.md|Piton]]"
+    original: "Piton"
     type: "Other Gear"
     quantity: 10
     equipped: false
     isAttuned: false
   - name: "[[5. Mechanics/Items/Rations 1 Day.md|Rations 1 Day]]"
+    original: "Rations (1 day)"
     type: "Other Gear"
     quantity: 5
     equipped: false
     isAttuned: false
   - name: "[[5. Mechanics/Items/Hempen Rope 50 Feet.md|Hempen Rope 50 Feet]]"
+    original: "Rope, Hempen (50 feet)"
     type: "Other Gear"
     quantity: 1
     equipped: false
     isAttuned: false
   - name: "[[5. Mechanics/Items/Tinderbox.md|Tinderbox]]"
+    original: "Tinderbox"
     type: "Other Gear"
     quantity: 1
     equipped: false
     isAttuned: false
   - name: "[[5. Mechanics/Items/Waterskin.md|Waterskin]]"
+    original: "Waterskin"
     type: "Other Gear"
     quantity: 1
     equipped: false
     isAttuned: false
   - name: "[[5. Mechanics/Items/Necklace String Of Small Pink Pearls.md|Necklace String Of Small Pink Pearls]]"
+    original: "String"
     type: "Other Gear"
     quantity: 10
     equipped: false
