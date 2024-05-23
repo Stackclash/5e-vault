@@ -480,6 +480,9 @@ location:
 
 ## Spells
 ```dataviewjs
+const spells = dv.current().spells
+console.log(spells)
+dv.span('> [!cards]\n> **Test 1**\n>\n> **Test 2**')
 ```
 
 ## Weapons
