@@ -474,11 +474,11 @@ location:
 > | **Gender** | `$=dv.current().description.gender` | **Weight** | `$=dv.current().description.weight` | **Hair** | `$=dv.current().description.hair` |
 > | **Age** | `$=dv.current().description.age` | **Size** | `$=dv.current().description.size` | **Eyes** | `$=dv.current().description.eyes` |
 
-> [!infobox|center]
+> [!infobox|center wm-tl]
 > ## Defences
 > | **Imunities** | **Resistances** |
 > |:---:|:---:|
-> | `$=dv.list(dv.current().defenses.immunities)` | `$=dv.list(dv.current().defenses.resistances)` |
+> | `$=dv.current().defenses.immunities.length > 0 ? dv.current().defenses.immunities : ""` | `$=dv.current().defenses.resistances.length > 0 ? dv.current().defenses.resistances : ""` |
 
 > [!cards|dataview wfull]
 > ## Classes
@@ -513,6 +513,12 @@ location:
 > FLATTEN feats
 > WHERE this.file.name = file.name
 > ```
+
+## Spells
+
+## Armor
+
+## Weapons
 
 > [!cards|dataview 4 wfull]
 > ## Inventory
