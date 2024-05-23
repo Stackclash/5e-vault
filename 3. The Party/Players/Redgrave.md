@@ -544,7 +544,15 @@ location:
 ## Spells
 > [!cards|dataview wfull]
 > ```dataviewjs
-> dv.table(['Name'], dv.current().classSpells.map(spell => [spell.name]))
+> const spells = dv.current().maxSpellSlots.map((slot, index) => {
+>   return {
+>     level: index+1,
+>     spells: dv.current().classSpells.filter(spell => spell.level === index+1).map(spell => spell.name),
+>     maxSpellSlots: slot,
+>     availableSpellSlots: slot - dv.current().usedSpellSlots[index]
+>   }
+> }).filter(spellLevelConfig => spellLevelConfig.maxSpellSlots > 0)
+> dv.table(['Name', 'Slots', 'Spells'], spells.map(spell => [`### Level ${spell.level}`, `${spell.availableSpellSlots}/${spell.maxSpellSlots}`, spell.spells]))
 > ```
 
 ## Weapons

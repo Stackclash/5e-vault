@@ -169,6 +169,7 @@ columns:
       - { label: "[[5. Mechanics/Races/Half Elf.md|Half Elf]]", value: "[[5. Mechanics/Races/Half Elf.md|Half Elf]]", color: "hsl(288, 95%, 90%)"}
       - { label: "[[5. Mechanics/Races/Warforged (ERLW).md|Warforged (ERLW)]]", value: "[[5. Mechanics/Races/Warforged (ERLW).md|Warforged (ERLW)]]", color: "hsl(61, 95%, 90%)"}
       - { label: "[[5. Mechanics/Races/Elf High.md|Elf High]]", value: "[[5. Mechanics/Races/Elf High.md|Elf High]]", color: "hsl(69, 95%, 90%)"}
+      - { label: "[[5. Mechanics/Races/Warforged.md|Warforged]]", value: "[[5. Mechanics/Races/Warforged.md|Warforged]]", color: "hsl(159, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
