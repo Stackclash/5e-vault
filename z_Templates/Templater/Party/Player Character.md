@@ -299,7 +299,6 @@ location:
 > | **Gender** | `$=dv.current().description.gender` | **Weight** | `$=dv.current().description.weight` | **Hair** | `$=dv.current().description.hair` |
 > | **Age** | `$=dv.current().description.age` | **Size** | `$=dv.current().description.size` | **Eyes** | `$=dv.current().description.eyes` |
 
-<!-- Update to pull link to class and subclass -->
 > [!cards|dataview wfull]
 > ## Classes
 > ```dataview
