@@ -511,8 +511,13 @@ location:
 
 > [!cards|dataview 4 wfull]
 > ## Inventory
-> ```dataviewjs
-> dv.table(['Name', 'Quantity'], dv.current().inventory.map(inv => [inv.name, inv.quantity]))
+> ```dataview
+> TABLE WITHOUT ID "**"+inventory.name+"**",
+> "Quantity: "+inventory.quantity
+> FLATTEN inventory
+> WHERE this.file.name = file.name
+> AND inventory.type != "Armor"
+> AND inventory.type != "Weapon"
 > ```
 
 # Personality

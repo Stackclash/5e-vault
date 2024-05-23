@@ -344,6 +344,8 @@ location:
 > "Quantity: "+inventory.quantity
 > FLATTEN inventory
 > WHERE this.file.name = file.name
+> AND inventory.type != "Armor"
+> AND inventory.type != "Weapon"
 > ```
 
 # Personality
