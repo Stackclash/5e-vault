@@ -328,7 +328,37 @@ location:
 > WHERE this.file.name = file.name
 > ```
 
+## Spells
+```dataviewjs
+```
+
+## Weapons
+```dataviewjs
+const weapons = dv.current().inventory.filter(inv => inv.type === 'Weapon')
+
+dv.table([
+  'Name',
+  'One Handed Damage',
+  'Two Handed Damage',
+  'Range'
+  ], weapons.map(inv => {
+  return [
+    inv.name,
+    dv.page(inv.name.path)['one-hand-damage'],
+    dv.page(inv.name.path)['two-hand-damage'],
+    dv.page(inv.name.path).range,
+  ]
+}))
+```
+
 ## Armor
+```dataviewjs
+const armor = dv.current().inventory.filter(inv => inv.type === 'Armor')
+
+dv.table(['Name', 'Armor Class'], armor.map(inv => {
+  return [inv.name, dv.page(inv.name.path).armorClass]
+}))
+```
 
 > [!cards|dataview 4 wfull]
 > ## Inventory
