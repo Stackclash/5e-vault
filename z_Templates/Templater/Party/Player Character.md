@@ -230,7 +230,7 @@ currencies:
   ep: <% character.currencies.ep %>
   pp: <% character.currencies.pp %>
 inventory:
-<% tp.user.build_yaml_list(character.inventory, 2) %>
+<% tp.user.build_inventory_yaml_list(tp, character.inventory, '5. Mechanics/Items', 2) %>
 ideal: 
 bond: 
 flaw: 

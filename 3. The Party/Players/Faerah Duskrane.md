@@ -245,137 +245,137 @@ currencies:
   ep: 0
   pp: 0
 inventory:
-  - name: "Studded Leather"
+  - name: "[[5. Mechanics/Items/Glamoured Studded Leather.md|Glamoured Studded Leather]]"
     type: "Armor"
     quantity: 1
     equipped: true
     isAttuned: false
-  - name: "Dagger"
+  - name: "[[5. Mechanics/Items/Dagger.md|Dagger]]"
     type: "Weapon"
     quantity: 1
     equipped: false
     isAttuned: false
-  - name: "Dagger"
+  - name: "[[5. Mechanics/Items/Dagger.md|Dagger]]"
     type: "Weapon"
     quantity: 1
     equipped: false
     isAttuned: false
-  - name: "Quarterstaff"
+  - name: "[[5. Mechanics/Items/Quarterstaff.md|Quarterstaff]]"
     type: "Weapon"
     quantity: 1
     equipped: false
     isAttuned: false
-  - name: "Shortbow"
+  - name: "[[5. Mechanics/Items/Shortbow.md|Shortbow]]"
     type: "Weapon"
     quantity: 1
     equipped: true
     isAttuned: false
-  - name: "Rapier"
+  - name: "[[5. Mechanics/Items/Rapier.md|Rapier]]"
     type: "Weapon"
     quantity: 1
     equipped: false
     isAttuned: false
-  - name: "Scimitar"
+  - name: "[[5. Mechanics/Items/Scimitar.md|Scimitar]]"
     type: "Weapon"
     quantity: 1
     equipped: true
     isAttuned: false
-  - name: "Scimitar"
+  - name: "[[5. Mechanics/Items/Scimitar.md|Scimitar]]"
     type: "Weapon"
     quantity: 1
     equipped: true
     isAttuned: false
-  - name: "Arrows"
+  - name: "[[5. Mechanics/Items/Arrows 20.md|Arrows 20]]"
     type: "Other Gear"
     quantity: 20
     equipped: true
     isAttuned: false
-  - name: "Backpack"
+  - name: "[[5. Mechanics/Items/Backpack.md|Backpack]]"
     type: "Other Gear"
     quantity: 1
     equipped: false
     isAttuned: false
-  - name: "Clothes, Traveler's"
+  - name: "[[5. Mechanics/Items/1 All Purpose Tool.md|1 All Purpose Tool]]"
     type: "Other Gear"
     quantity: 1
     equipped: false
     isAttuned: false
-  - name: "Hunting Trap"
+  - name: "[[5. Mechanics/Items/Hunting Trap.md|Hunting Trap]]"
     type: "Other Gear"
     quantity: 3
     equipped: false
     isAttuned: false
-  - name: "Pouch"
+  - name: "[[5. Mechanics/Items/Pouch.md|Pouch]]"
     type: "Other Gear"
     quantity: 1
     equipped: false
     isAttuned: false
-  - name: "Thieves' Tools"
+  - name: "[[5. Mechanics/Items/Artisans Tools.md|Artisans Tools]]"
     type: "Other Gear"
     quantity: 1
     equipped: false
     isAttuned: false
-  - name: "Ball Bearings (bag of 1,000)"
+  - name: "[[5. Mechanics/Items/Ball Bearings Bag Of 1000.md|Ball Bearings Bag Of 1000]]"
     type: "Other Gear"
     quantity: 1000
     equipped: false
     isAttuned: false
-  - name: "Bell"
+  - name: "[[5. Mechanics/Items/Bell.md|Bell]]"
     type: "Other Gear"
     quantity: 1
     equipped: false
     isAttuned: false
-  - name: "Candle"
+  - name: "[[5. Mechanics/Items/Candle.md|Candle]]"
     type: "Other Gear"
     quantity: 5
     equipped: false
     isAttuned: false
-  - name: "Crowbar"
+  - name: "[[5. Mechanics/Items/Crowbar.md|Crowbar]]"
     type: "Other Gear"
     quantity: 1
     equipped: false
     isAttuned: false
-  - name: "Hammer"
+  - name: "[[5. Mechanics/Items/Hammer.md|Hammer]]"
     type: "Other Gear"
     quantity: 1
     equipped: false
     isAttuned: false
-  - name: "Lantern, Hooded"
+  - name: "[[5. Mechanics/Items/Hooded Lantern.md|Hooded Lantern]]"
     type: "Other Gear"
     quantity: 1
     equipped: false
     isAttuned: false
-  - name: "Oil (flask)"
+  - name: "[[5. Mechanics/Items/Abyssal Oil.md|Abyssal Oil]]"
     type: "Other Gear"
     quantity: 2
     equipped: false
     isAttuned: false
-  - name: "Piton"
+  - name: "[[5. Mechanics/Items/Piton.md|Piton]]"
     type: "Other Gear"
     quantity: 10
     equipped: false
     isAttuned: false
-  - name: "Rations (1 day)"
+  - name: "[[5. Mechanics/Items/Rations 1 Day.md|Rations 1 Day]]"
     type: "Other Gear"
     quantity: 5
     equipped: false
     isAttuned: false
-  - name: "Rope, Hempen (50 feet)"
+  - name: "[[5. Mechanics/Items/Hempen Rope 50 Feet.md|Hempen Rope 50 Feet]]"
     type: "Other Gear"
     quantity: 1
     equipped: false
     isAttuned: false
-  - name: "Tinderbox"
+  - name: "[[5. Mechanics/Items/Tinderbox.md|Tinderbox]]"
     type: "Other Gear"
     quantity: 1
     equipped: false
     isAttuned: false
-  - name: "Waterskin"
+  - name: "[[5. Mechanics/Items/Waterskin.md|Waterskin]]"
     type: "Other Gear"
     quantity: 1
     equipped: false
     isAttuned: false
-  - name: "String"
+  - name: "[[5. Mechanics/Items/Necklace String Of Small Pink Pearls.md|Necklace String Of Small Pink Pearls]]"
     type: "Other Gear"
     quantity: 10
     equipped: false
@@ -416,7 +416,7 @@ location:
 >> | **Strength** | `$=dv.current().savingThrows.strength.proficiency ? '✅' : '❌'` | `$=dv.current().savingThrows.strength.value` | **Intelligence** | `$=dv.current().savingThrows.intelligence.proficiency ? '✅' : '❌'` | `$=dv.current().savingThrows.intelligence.value` |
 >> | **Dexterity** | `$=dv.current().savingThrows.dexterity.proficiency ? '✅' : '❌'` | `$=dv.current().savingThrows.dexterity.value` | **Wisdom** | `$=dv.current().savingThrows.wisdom.proficiency ? '✅' : '❌'` | `$=dv.current().savingThrows.wisdom.value` |
 >> | **Constitution** | `$=dv.current().savingThrows.constitution.proficiency ? '✅' : '❌'` | `$=dv.current().savingThrows.constitution.value` | **Charisma** | `$=dv.current().savingThrows.charisma.proficiency ? '✅' : '❌'` | `$=dv.current().savingThrows.charisma.value` |
->> **Notes**: `$=dv.list(dv.current().savingThrows.notes)`
+>> **Notes**: `$=dv.current().savingThrows.notes`
 
 > [!infobox|wfull]
 > ## Skills
@@ -484,14 +484,9 @@ location:
 > [!cards|dataview 4 wfull]
 > ## Inventory
 > ```dataview
-> TABLE WITHOUT ID 
-> "**"+inventory.name+"**",
-> "Quantity: "+inventory.quantity,
-> "Equipped: "+inventory.equipped,
-> "Attuned: "+inventory.isAttuned
+> TABLE WITHOUT ID "**"+inventory.name+"**" AS Name, "Quantity: "+inventory.quantity AS Description
 > FLATTEN inventory
 > WHERE this.file.name = file.name
-> AND inventory.type != "Armor" AND inventory.type != "Weapon"
 > ```
 
 # Personality
