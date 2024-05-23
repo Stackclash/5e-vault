@@ -303,7 +303,7 @@ location:
 > [!cards|dataview wfull]
 > ## Classes
 > ```dataview
-> TABLE WITHOUT ID classes.name AS Name, "Level: " + classes.level AS Level
+> TABLE WITHOUT ID "Class: " + classes.name AS Name, "SubClass: " + classes.subClass, "Level: " + classes.level AS Level
 > FLATTEN classes
 > WHERE this.file.name = file.name
 > ```
