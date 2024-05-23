@@ -1,11 +1,11 @@
 const dv = app.plugins.getPlugin("dataview").api
 
 module.exports = (text, path) => {
-    const searchTerms = text.replace(/[\(\)']/gm,'').split(' ')
+    const searchTerms = text.replace(/[\(\)']/gm,'').replace(/s$/, '').split(' ')
     const scores = dv.pages(`"${path}"`).array().reduce((accum, page) => {
         let score = 0
         for (const term of searchTerms) {
-            if (page.file.name == text || (page.aliases && page.aliases[0] === text)) {
+            if (page.file.name === text || (page.aliases && page.aliases[0] === text) || page.file.name === searchTerms.join(' ')) {
                 score += 5
             } else if (page.file.name.includes(term)) {
                 score++

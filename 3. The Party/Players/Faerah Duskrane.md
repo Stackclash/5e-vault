@@ -293,7 +293,7 @@ inventory:
     quantity: 1
     equipped: true
     isAttuned: false
-  - name: "Arrows"
+  - name: "[[5. Mechanics/Items/Arrow.md|Arrow]]"
     original: "Arrows"
     type: "Other Gear"
     quantity: 20
