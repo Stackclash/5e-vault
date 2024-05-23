@@ -331,10 +331,23 @@ location:
 > WHERE this.file.name = file.name
 > ```
 
+<!-- Needs fixing to group by class -->
+<!-- Separate sections for class/race spells -->
 ## Spells
-```dataviewjs
-```
+> [!cards|dataview wfull]
+> ```dataviewjs
+> const spells = dv.current().maxSpellSlots.map((slot, index) => {
+>   return {
+>     level: index+1,
+>     spells: dv.current().classSpells.filter(spell => spell.level === index+1).map(spell => spell.name),
+>     maxSpellSlots: slot,
+>     availableSpellSlots: slot - dv.current().usedSpellSlots[index]
+>   }
+> }).filter(spellLevelConfig => spellLevelConfig.maxSpellSlots > 0)
+> dv.table(['Name', 'Slots', 'Spells'], spells.map(spell => [`### Level ${spell.level}`, `**Slots: Left ${spell.availableSpellSlots} / Max ${spell.maxSpellSlots}**`, spell.spells]))
+> ```
 
+<!-- Need to add columns for equipped/attuned -->
 ## Weapons
 ```dataviewjs
 const weapons = dv.current().inventory.filter(inv => inv.type === 'Weapon')
@@ -354,6 +367,8 @@ dv.table([
 }))
 ```
 
+<!-- Need to add columns for equipped/attuned -->
+<!-- Add armorClass from Beyond when can't find in notes -->
 ## Armor
 ```dataviewjs
 const armor = dv.current().inventory.filter(inv => inv.type === 'Armor')

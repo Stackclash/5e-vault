@@ -552,7 +552,7 @@ location:
 >     availableSpellSlots: slot - dv.current().usedSpellSlots[index]
 >   }
 > }).filter(spellLevelConfig => spellLevelConfig.maxSpellSlots > 0)
-> dv.table(['Name', 'Slots', 'Spells'], spells.map(spell => [`### Level ${spell.level}`, `${spell.availableSpellSlots}/${spell.maxSpellSlots}`, spell.spells]))
+> dv.table(['Name', 'Slots', 'Spells'], spells.map(spell => [`### Level ${spell.level}`, `**Slots: Left ${spell.availableSpellSlots} / Max ${spell.maxSpellSlots}**`, spell.spells]))
 > ```
 
 ## Weapons
