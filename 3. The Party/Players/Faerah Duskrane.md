@@ -484,7 +484,11 @@ location:
 > [!cards|dataview 4 wfull]
 > ## Inventory
 > ```dataview
-> TABLE WITHOUT ID "**"+inventory.name+"**" AS Name, "**Quantity:** "+inventory.quantity AS Description, inventory.equipped, inventory.isAttuned
+> TABLE WITHOUT ID 
+> "**"+inventory.name+"**",
+> "Quantity: "+inventory.quantity,
+> "Equipped: "+inventory.equipped,
+> "Attuned: "+inventory.isAttuned
 > FLATTEN inventory
 > WHERE this.file.name = file.name
 > AND inventory.type != "Armor" AND inventory.type != "Weapon"
