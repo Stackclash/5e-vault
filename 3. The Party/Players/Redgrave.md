@@ -1,58 +1,525 @@
 ---
 obsidianUIMode: preview
 statblock: true
-level: 5
-race: "[[5. Mechanics/Races/Warforged (ERLW).md|Warforged (ERLW)]]"
-class: "[[5. Mechanics/Classes/Cleric Forge Domain (XGE).md|Cleric Forge Domain (XGE)]]"
-hp: 38
-stats:
-  str: 15
-  dex: 8
-  con: 14
-  int: 12
-  wis: 18
-  cha: 10
-ac: 22
+name: Redgrave
+level: 6
+ac: 23
+hp: 45
 modifier: -1
-alignment: 
+proficiency: 3
+url: https://dndbeyond.com/characters/29682199
+image: https://www.dndbeyond.com/avatars/10846/680/1581111423-29682199.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
+race: "[[5. Mechanics/Races/Warforged.md|Warforged]]"
+description:
+  gender: 
+  age: null
+  hair: 
+  eyes: Emeralds
+  skin: Metallic with gold engraving
+  height: 6'5"
+  weight: 300
+  size: Medium
+passives:
+  perception: 17
+  investigation: 11
+  insight: 17
+proficiencies:
+  armor: 
+    - "Light Armor"
+    - "Medium Armor"
+    - "Shields"
+    - "Heavy Armor"
+  weapons: 
+    - "Simple Weapons"
+  tools: 
+    - "Mason's Tools"
+    - "Smith's Tools"
+    - "Tinker's Tools"
+  languages: 
+    - "Common"
+    - "Draconic"
+    - "Elvish"
+speed: 30
+defenses:
+  immunities: 
+    - "disease"
+  resistances: 
+    - "poison"
+    - "fire"
+background:
+  background:
+    name:  
+    description: 
+  backstory: 
+  organizations: 
+  allies: 
+  enemies: 
+  notes: 
+classes: 
+  - name: "[[5. Mechanics/Classes/Cleric.md|Cleric]]"
+    subClass: "[[5. Mechanics/Classes/Cleric Forge Domain.md|Cleric Forge Domain]]"
+    level: 6
+abilityScores:
+  strength:
+    value: 15
+    modifier: 2
+  dexterity:
+    value: 8
+    modifier: -1
+  constitution:
+    value: 14
+    modifier: 2
+  intelligence:
+    value: 12
+    modifier: 1
+  wisdom:
+    value: 18
+    modifier: 4
+  charisma:
+    value: 10
+    modifier: 0
+savingThrows:
+  strength:
+    value: 3
+    proficiency: false
+  dexterity:
+    value: 0
+    proficiency: false
+  constitution:
+    value: 3
+    proficiency: false
+  intelligence:
+    value: 2
+    proficiency: false
+  wisdom:
+    value: 8
+    proficiency: true
+  charisma:
+    value: 4
+    proficiency: true
+  notes: 
+    - "Advantage Against Poison"
+skills:
+  acrobatics:
+    value: -1
+    proficiency: false
+    expertise: false
+    advantage: false
+    disadvantage: false
+  animal-handling:
+    value: 4
+    proficiency: false
+    expertise: false
+    advantage: false
+    disadvantage: false
+  arcana:
+    value: 1
+    proficiency: false
+    expertise: false
+    advantage: false
+    disadvantage: false
+  athletics:
+    value: 5
+    proficiency: true
+    expertise: false
+    advantage: false
+    disadvantage: false
+  deception:
+    value: 0
+    proficiency: false
+    expertise: false
+    advantage: false
+    disadvantage: false
+  history:
+    value: 1
+    proficiency: false
+    expertise: false
+    advantage: false
+    disadvantage: false
+  insight:
+    value: 7
+    proficiency: true
+    expertise: false
+    advantage: false
+    disadvantage: false
+  intimidation:
+    value: 0
+    proficiency: false
+    expertise: false
+    advantage: false
+    disadvantage: false
+  investigation:
+    value: 1
+    proficiency: false
+    expertise: false
+    advantage: false
+    disadvantage: false
+  medicine:
+    value: 4
+    proficiency: false
+    expertise: false
+    advantage: false
+    disadvantage: false
+  nature:
+    value: 1
+    proficiency: false
+    expertise: false
+    advantage: false
+    disadvantage: false
+  perception:
+    value: 7
+    proficiency: true
+    expertise: false
+    advantage: false
+    disadvantage: false
+  performance:
+    value: 0
+    proficiency: false
+    expertise: false
+    advantage: false
+    disadvantage: false
+  persuasion:
+    value: 3
+    proficiency: true
+    expertise: false
+    advantage: false
+    disadvantage: false
+  religion:
+    value: 4
+    proficiency: true
+    expertise: false
+    advantage: false
+    disadvantage: false
+  sleight-of-hand:
+    value: -1
+    proficiency: false
+    expertise: false
+    advantage: false
+    disadvantage: false
+  stealth:
+    value: -1
+    proficiency: false
+    expertise: false
+    advantage: false
+    disadvantage: true
+  survival:
+    value: 4
+    proficiency: false
+    expertise: false
+    advantage: false
+    disadvantage: false
+racialTraits: 
+  - name: "Warforged Resilience"
+    description: "You have advantage on saving throws against being poisoned, and you have resistance to poison damage. You are immune to disease. You don’t need to eat, drink, or breathe. You don’t need to sleep and don’t suffer the effects of exhaustion due to lack of rest, and magic can’t put you to sleep."
+  - name: "Integrated Protection"
+    description: "Your body has built-in defensive layers, which determine your armor class."
+  - name: "Sentry's Rest"
+    description: "When you take a long rest, you must spend at least 6 hours in an inactive state rather than sleeping. In this state, you appear inert, but it doesn’t render you unconscious, and you can see and hear as normal."
+  - name: "Ability Score Increase"
+    description: "Two different ability scores of your choice increase by 1."
+  - name: "Specialized Design"
+    description: "You gain one skill proficiency, one tool proficiency, and fluency in one language of your choice."
+  - name: "Integrated Tool"
+    description: "A chosen tool you are proficient with is integrated into your body, and you double your proficiency bonus for any ability checks you make with it. You must have your hands free to use this integrated tool."
+classFeatures: 
+  - name: "Domain Spells"
+    description: "You gain domain spells based on your cleric level."
+  - name: "Bonus Proficiencies"
+    description: "You gain proficiency with heavy armor and smith’s tools."
+  - name: "Blessing of the Forge"
+    description: "At the end of a long rest, you can imbue magic into a weapon or armor by touching a nonmagical version. Until your next long rest or you die, the object grants a +1 bonus to either AC or attack and damage rolls. You can't use this feature again until you finish a long rest."
+  - name: "Channel Divinity: Artisan's Blessing"
+    description: "You can use your Channel Divinity to conduct an hour-long ritual that crafts a nonmagical item that must include some metal: a simple or martial weapon, a suit of armor, ten pieces of ammunition, a set of tools, or another metal object. The thing you create can be something that is worth no more than 100 gp."
+  - name: "Soul of the Forge"
+    description: "You gain resistance to fire damage and while wearing heavy armor, you gain a +1 bonus to AC."
+  - name: "Spellcasting"
+    description: "You can cast prepared cleric spells using WIS as your spellcasting modifier (Spell DC 15, Spell Attack 7) and prepared cleric spells as rituals if they have the ritual tag. You can use a holy symbol as a spellcasting focus."
+  - name: "Divine Domain"
+    description: "You choose a divine domain that grants you additional spells and other features related to your deity."
+  - name: "Channel Divinity"
+    description: "You can channel divine energy to fuel magical effects a number of times per short rest"
+  - name: "Destroy Undead"
+    description: "When an undead fails its saving throw against your Turn Undead feature, it is instantly destroyed if its CR is lower than the threshold for your level."
+feats: []
+spells: []
+currencies:
+  cp: 0
+  sp: 498
+  gp: 0
+  ep: 0
+  pp: 0
+inventory: 
+  - name: "[[5. Mechanics/Items/Cloak Of Protection.md|Cloak Of Protection]]"
+    original: "Cloak of Protection"
+    type: "Wondrous item"
+    quantity: 1
+    equipped: true
+    isAttuned: true
+  - name: "[[5. Mechanics/Items/Astral Hull Plating.md|Astral Hull Plating]]"
+    original: "Heavy Plating"
+    type: "Armor"
+    quantity: 1
+    equipped: true
+    isAttuned: false
+  - name: "[[5. Mechanics/Items/Shield.md|Shield]]"
+    original: "Shield"
+    type: "Armor"
+    quantity: 1
+    equipped: true
+    isAttuned: false
+  - name: "[[5. Mechanics/Items/Javelin.md|Javelin]]"
+    original: "Javelin"
+    type: "Weapon"
+    quantity: 6
+    equipped: true
+    isAttuned: false
+  - name: "[[5. Mechanics/Items/Mace.md|Mace]]"
+    original: "Mace"
+    type: "Weapon"
+    quantity: 1
+    equipped: true
+    isAttuned: false
+  - name: "[[5. Mechanics/Items/Quarterstaff.md|Quarterstaff]]"
+    original: "Quarterstaff"
+    type: "Weapon"
+    quantity: 1
+    equipped: true
+    isAttuned: false
+  - name: "[[5. Mechanics/Items/Spear.md|Spear]]"
+    original: "Spear"
+    type: "Weapon"
+    quantity: 1
+    equipped: false
+    isAttuned: false
+  - name: "[[5. Mechanics/Items/Backpack.md|Backpack]]"
+    original: "Backpack"
+    type: "Other Gear"
+    quantity: 1
+    equipped: false
+    isAttuned: false
+  - name: "[[5. Mechanics/Items/Potion Of Healing.md|Potion Of Healing]]"
+    original: "Potion of Healing"
+    type: "Other Gear"
+    quantity: 0
+    equipped: false
+    isAttuned: false
+  - name: "[[5. Mechanics/Items/Waterskin.md|Waterskin]]"
+    original: "Waterskin"
+    type: "Other Gear"
+    quantity: 1
+    equipped: false
+    isAttuned: false
+  - name: "[[5. Mechanics/Items/Smiths Tools.md|Smiths Tools]]"
+    original: "Smith's Tools"
+    type: "Other Gear"
+    quantity: 1
+    equipped: false
+    isAttuned: false
+  - name: "[[5. Mechanics/Items/Holy Symbol.md|Holy Symbol]]"
+    original: "Holy Symbol"
+    type: "Other Gear"
+    quantity: 1
+    equipped: false
+    isAttuned: false
+  - name: "[[5. Mechanics/Items/Wand Of Secrets.md|Wand Of Secrets]]"
+    original: "Wand of Secrets"
+    type: "Wand"
+    quantity: 1
+    equipped: false
+    isAttuned: false
+  - name: "[[5. Mechanics/Items/Bedroll.md|Bedroll]]"
+    original: "Bedroll"
+    type: "Other Gear"
+    quantity: 1
+    equipped: false
+    isAttuned: false
+  - name: "[[5. Mechanics/Items/Mess Kit.md|Mess Kit]]"
+    original: "Mess Kit"
+    type: "Other Gear"
+    quantity: 1
+    equipped: false
+    isAttuned: false
+  - name: "[[5. Mechanics/Items/Hempen Rope 50 Feet.md|Hempen Rope 50 Feet]]"
+    original: "Rope, Hempen (50 feet)"
+    type: "Other Gear"
+    quantity: 1
+    equipped: false
+    isAttuned: false
+  - name: "[[5. Mechanics/Items/Tinderbox.md|Tinderbox]]"
+    original: "Tinderbox"
+    type: "Other Gear"
+    quantity: 1
+    equipped: false
+    isAttuned: false
+  - name: "[[5. Mechanics/Items/Torch.md|Torch]]"
+    original: "Torch"
+    type: "Other Gear"
+    quantity: 10
+    equipped: false
+    isAttuned: false
+  - name: "[[5. Mechanics/Items/Masons Tools.md|Masons Tools]]"
+    original: "Mason's Tools"
+    type: "Other Gear"
+    quantity: 1
+    equipped: false
+    isAttuned: false
+  - name: "[[5. Mechanics/Items/Tinkers Tools.md|Tinkers Tools]]"
+    original: "Tinker's Tools"
+    type: "Other Gear"
+    quantity: 1
+    equipped: false
+    isAttuned: false
 ideal: 
 bond: 
 flaw: 
 likes: 
 dislikes: 
-image: z_Assets/Redgrave.jpeg
-condition: Healthy
-location: Vallaki
 party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
-exhaustion: 0
+condition:
+location:
 ---
-> [!infobox|right]
-> # `=this.file.name`
-> ```meta-bind
-> INPUT[imageSuggester(optionQuery("z_Assets")):image]
+`$="![Char Image\|clear left circle hsmall wsmall lp](" + dv.current().image + ")"`
+> [!infobox|left clear n-th]
+> 
+> |||
+> |:---:|:---:|
+> | **Health Points** | `$=dv.current().hp` |
+> | **Armor Class** | `$=dv.current().ac` |
+> | **Initiative** | `$=dv.current().modifier` |
+> | **Speed** | `$=dv.current().speed` |
+
+# `$=dv.current().name`
+> [!statblocks|columns]
+> 
+>> [!blank]
+>> ## Ability Scores
+>> ||| Mod ||| Mod |
+>> |:---:|:---:|:---:|:---:|:---:|:---:|
+>> | **Strength** | `$=dv.current().abilityScores.strength.value` | `$=dv.current().abilityScores.strength.modifier` | **Intelligence** | `$=dv.current().abilityScores.intelligence.value` | `$=dv.current().abilityScores.intelligence.modifier` |
+>> | **Dexterity** | `$=dv.current().abilityScores.dexterity.value` | `$=dv.current().abilityScores.dexterity.modifier` | **Wisdom** | `$=dv.current().abilityScores.wisdom.value` | `$=dv.current().abilityScores.wisdom.modifier` |
+>> | **Constitution** | `$=dv.current().abilityScores.constitution.value` | `$=dv.current().abilityScores.constitution.modifier` | **Charisma** | `$=dv.current().abilityScores.charisma.value` | `$=dv.current().abilityScores.charisma.modifier` |
+>
+>> [!blank]
+>> ## Saving Throws
+>> || Prof ||| Prof ||
+>> |:---:|:---:|:---:|:---:|:---:|:---:|
+>> | **Strength** | `$=dv.current().savingThrows.strength.proficiency ? '✅' : '❌'` | `$=dv.current().savingThrows.strength.value` | **Intelligence** | `$=dv.current().savingThrows.intelligence.proficiency ? '✅' : '❌'` | `$=dv.current().savingThrows.intelligence.value` |
+>> | **Dexterity** | `$=dv.current().savingThrows.dexterity.proficiency ? '✅' : '❌'` | `$=dv.current().savingThrows.dexterity.value` | **Wisdom** | `$=dv.current().savingThrows.wisdom.proficiency ? '✅' : '❌'` | `$=dv.current().savingThrows.wisdom.value` |
+>> | **Constitution** | `$=dv.current().savingThrows.constitution.proficiency ? '✅' : '❌'` | `$=dv.current().savingThrows.constitution.value` | **Charisma** | `$=dv.current().savingThrows.charisma.proficiency ? '✅' : '❌'` | `$=dv.current().savingThrows.charisma.value` |
+>> **Notes**: `$=dv.current().savingThrows.notes`
+
+> [!infobox|wfull]
+> ## Skills
+> || **Prof** | **Exp** ||| **Prof** | **Exp** ||
+> |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+> | **Acrobatics (Dex)** | `$=dv.current().skills.acrobatics.proficiency ? '✅' : '❌'` | `$=dv.current().skills.acrobatics.expertise ? '✅' : '❌'` | `$=dv.current().skills.acrobatics.value` | **Medicine (Wis)** | `$=dv.current().skills.medicine.proficiency ? '✅' : '❌'` | `$=dv.current().skills.medicine.expertise ? '✅' : '❌'` | `$=dv.current().skills.medicine.value` |
+> | **Animal Handling (Wis)** | `$=dv.current().skills['animal-handling'].proficiency ? '✅' : '❌'` | `$=dv.current().skills['animal-handling'].expertise ? '✅' : '❌'` | `$=dv.current().skills['animal-handling'].value` | **Nature (Int)** | `$=dv.current().skills.nature.proficiency ? '✅' : '❌'` | `$=dv.current().skills.nature.expertise ? '✅' : '❌'` | `$=dv.current().skills.nature.value` |
+> | **Arcana (Int)** | `$=dv.current().skills.arcana.proficiency ? '✅' : '❌'` | `$=dv.current().skills.arcana.expertise ? '✅' : '❌'` | `$=dv.current().skills.arcana.value` | **Perception (Wis)** | `$=dv.current().skills.perception.proficiency ? '✅' : '❌'` | `$=dv.current().skills.perception.expertise ? '✅' : '❌'` | `$=dv.current().skills.perception.value` |
+> | **Athletics (Str)** | `$=dv.current().skills.athletics.proficiency ? '✅' : '❌'` | `$=dv.current().skills.athletics.expertise ? '✅' : '❌'` | `$=dv.current().skills.athletics.value` | **Performance (Cha)** | `$=dv.current().skills.performance.proficiency ? '✅' : '❌'` | `$=dv.current().skills.performance.expertise ? '✅' : '❌'` | `$=dv.current().skills.performance.value` |
+> | **Deception (Cha)** | `$=dv.current().skills.deception.proficiency ? '✅' : '❌'` | `$=dv.current().skills.deception.expertise ? '✅' : '❌'` | `$=dv.current().skills.deception.value` | **Persuasion (Cha)** | `$=dv.current().skills.persuasion.proficiency ? '✅' : '❌'` | `$=dv.current().skills.persuasion.expertise ? '✅' : '❌'` | `$=dv.current().skills.persuasion.value` |
+> | **History (Int)** | `$=dv.current().skills.history.proficiency ? '✅' : '❌'` | `$=dv.current().skills.history.expertise ? '✅' : '❌'` | `$=dv.current().skills.history.value` | **Religion (Int)** | `$=dv.current().skills.religion.proficiency ? '✅' : '❌'` | `$=dv.current().skills.religion.expertise ? '✅' : '❌'` | `$=dv.current().skills.religion.value` |
+> | **Insight (Wis)** | `$=dv.current().skills.insight.proficiency ? '✅' : '❌'` | `$=dv.current().skills.insight.expertise ? '✅' : '❌'` | `$=dv.current().skills.insight.value` | **Sleight of Hand (Dex)** | `$=dv.current().skills['sleight-of-hand'].proficiency ? '✅' : '❌'` | `$=dv.current().skills['sleight-of-hand'].expertise ? '✅' : '❌'` | `$=dv.current().skills['sleight-of-hand'].value` |
+> | **Intimidation (Cha)** | `$=dv.current().skills.intimidation.proficiency ? '✅' : '❌'` | `$=dv.current().skills.intimidation.expertise ? '✅' : '❌'` | `$=dv.current().skills.intimidation.value` | **Stealth (Dex)** | `$=dv.current().skills.stealth.proficiency ? '✅' : '❌'` | `$=dv.current().skills.stealth.expertise ? '✅' : '❌'` | `$=dv.current().skills.stealth.value` |
+> | **Investigation (Int)** | `$=dv.current().skills.investigation.proficiency ? '✅' : '❌'` | `$=dv.current().skills.investigation.expertise ? '✅' : '❌'` | `$=dv.current().skills.investigation.value` | **Survival (Wis)** | `$=dv.current().skills.survival.proficiency ? '✅' : '❌'` | `$=dv.current().skills.survival.expertise ? '✅' : '❌'` | `$=dv.current().skills.survival.value` |
+
+> [!infobox|left n-th]
+> ## Passive Skills
+> |||
+> |:---:|:---:|
+> | **Perception** | `$=dv.current().passives.perception` |
+> | **Investigation** | `$=dv.current().passives.investigation` |
+>  **Insight** | `$=dv.current().passives.insight` |
+
+> [!infobox|center n-th wm-tl]
+> ## Description
+> |||
+> |:---:|:---:|:---:|:---:|:---:|:---:|
+> | **Race** | `$=dv.current().race` | **Height** | `$=dv.current().description.height` | **Skin** | `$=dv.current().description.skin` |
+> | **Gender** | `$=dv.current().description.gender` | **Weight** | `$=dv.current().description.weight` | **Hair** | `$=dv.current().description.hair` |
+> | **Age** | `$=dv.current().description.age` | **Size** | `$=dv.current().description.size` | **Eyes** | `$=dv.current().description.eyes` |
+
+> [!infobox|center wm-tl]
+> ## Defences
+> | **Imunities** | **Resistances** |
+> |:---:|:---:|
+> | `$=dv.current().defenses.immunities.length > 0 ? dv.current().defenses.immunities : ""` | `$=dv.current().defenses.resistances.length > 0 ? dv.current().defenses.resistances : ""` |
+
+> [!cards|dataview wfull]
+> ## Classes
+> ```dataview
+> TABLE WITHOUT ID "Class: " + classes.name AS Name, "SubClass: " + classes.subClass, "Level: " + classes.level AS Level
+> FLATTEN classes
+> WHERE this.file.name = file.name
 > ```
-> ## Info
-> | | |
-> | ---- | ---- |
-> | Level | `INPUT[inlineSelect(option(1),option(2),option(3),option(4),option(5),option(6),option(7),option(8),option(9),option(10),option(11),option(12),option(13),option(14),option(15),option(16),option(17),option(18),option(19),option(20)):level]` |
-> | Class | `INPUT[suggester(optionQuery("5. Mechanics/Classes")):class]` |
-> | Race | `INPUT[suggester(optionQuery("5. Mechanics/Races")):race]` |
-> | HP | `INPUT[number:hp]` |
-> | AC | `INPUT[number:ac]` |
-> | Initiative Mod | `INPUT[number:modifier]` |
-> ## Stats
-> | | | |
-> | ---- | ---- | ---- |
-> | Strength | `INPUT[number:stats.str]` | `$=Math.floor((parseInt(dv.current().stats.str)-10)/2)` |
-> | Dexterity | `INPUT[number:stats.dex]` | `$=Math.floor((parseInt(dv.current().stats.dex)-10)/2)` |
-> | Constitution | `INPUT[number:stats.con]` | `$=Math.floor((parseInt(dv.current().stats.con)-10)/2)` |
-> | Intelligence | `INPUT[number:stats.int]` | `$=Math.floor((parseInt(dv.current().stats.int)-10)/2)` |
-> | Wisdom | `INPUT[number:stats.wis]` | `$=Math.floor((parseInt(dv.current().stats.wis)-10)/2)` |
-> | Charisma | `INPUT[number:stats.cha]` | `$=Math.floor((parseInt(dv.current().stats.cha)-10)/2)` |
-# DnD Beyond Character Sheet
-```custom-frames
-frame: DnDBGeorge
+
+> [!cards|dataview wfull]
+> ## Racial Traits
+> ```dataview
+> TABLE WITHOUT ID "**"+racialTraits.name+"**" AS Name, racialTraits.description AS Description
+> FLATTEN racialTraits
+> WHERE this.file.name = file.name
+> ```
+
+> [!cards|dataview wfull]
+> ## Class Features
+> ```dataview
+> TABLE WITHOUT ID "**"+classFeatures.name+"**",
+> classFeatures.description
+> FLATTEN classFeatures
+> WHERE this.file.name = file.name
+> ```
+
+> [!cards|dataview wfull]
+> ## Feats
+> ```dataview
+> TABLE WITHOUT ID "**"+feats.name+"**",
+> feats.description
+> FLATTEN feats
+> WHERE this.file.name = file.name
+> ```
+
+## Spells
+```dataviewjs
 ```
+
+## Weapons
+```dataviewjs
+const weapons = dv.current().inventory.filter(inv => inv.type === 'Weapon')
+
+dv.table([
+  'Name',
+  'One Handed Damage',
+  'Two Handed Damage',
+  'Range'
+  ], weapons.map(inv => {
+  return [
+    inv.name,
+    dv.page(inv.name.path)['one-hand-damage'],
+    dv.page(inv.name.path)['two-hand-damage'],
+    dv.page(inv.name.path).range,
+  ]
+}))
+```
+
+## Armor
+```dataviewjs
+const armor = dv.current().inventory.filter(inv => inv.type === 'Armor')
+
+dv.table(['Name', 'Armor Class'], armor.map(inv => {
+  return [inv.name, dv.page(inv.name.path).armorClass]
+}))
+```
+
+> [!cards|dataview 4 wfull]
+> ## Inventory
+> ```dataview
+> TABLE WITHOUT ID "**"+inventory.name+"**",
+> "Quantity: "+inventory.quantity
+> FLATTEN inventory
+> WHERE this.file.name = file.name
+> AND inventory.type != "Armor"
+> AND inventory.type != "Weapon"
+> ```
 
 # Personality
 ## Loves
@@ -66,7 +533,7 @@ frame: DnDBGeorge
 
 # History
 ## Backstory
-Forged in lightning and blood by the dark wizard Eludrax, "Eight" was born. The wizard's thirst for eternal life led him not to the cultivation of a new fleshy body, but a perfect one of his own design. Using ancient techniques from lands quite distant, Eludrax forged machines for his allies war efforts. Nothing, however, could keep him from his true life's work. --- It was the eighth of Eludrax's shield guardians, and thus aptly named. Most of of the Lich's constructs bore no soul of their own, merely mindless automatons for his own bidding. He would often pluck lost souls from Limbo and twist and torture them to suit his machinations. But the eight were different. They were his personal bodyguards, improved physically in every way, and candidates for his transference of life. Most importantly, they were devoid of soul. At the aging dark wizard's command the constructs committed unspeakable atrocities. They were the harbingers of his dirty work, and Eludrax was not above committing horrors in the name of his research. Eight was his magnum opus, and thus his intended vessel. His plan to transfer his own soul into the guardian was made haste, however, as Eludrax awoke one night to an adventurer's group tearing through his laboratory. He commanded Eight to follow, sending the other seven to combat the coming threat. He clamored as fast as he could to the dark crystal machine intended to bind his soul into his vessel, and spilled his blood on the dais with a quick slice to the palm. He grasped Eight's cool metal hand, and forced it onto the crystal. Thus, the dark ritual began. Eludrax's eyes went white as his spirit was ripped from his body and absorbed into the orb. What he miscalculated, however, was that a soul already existed inside his creation. It was faint, beaten down by years of cruelty and transgression, but there nonetheless. The Lich's powerful spirit growled menacingly as it reached out to pluck the soul from Eight. Before he could, however, a burst of radiance appeared to encapsulate the soul. Eludrax's fury burned hot, but was not strong enough to pierce the veil of light. Time was not on the dark wizard's side. The party that'd breached his laboratory had finally made it into this sanctum. The group exchanged quick words, deliberating on their plan of action. Before their sorcerer could cry out, however, the paladin raised her mace and brought it crashing down on the large swirling crystal. As it shattered, the wizard's soul was cast into limbo, spiraling out of the material plane with a guttural scream. "Am I...?" Eight spoke aloud with a sound of relief, before collapsing to the cold stone floor with a hearty thud. --- Eight awoke to the stench of burning and the feel of a warm hand against its cold metal chest. In the distance the tower it'd known as its home, the place of its creation, was fervently ablaze. "Can it understand us?" One of the adventurers pondered out loud. Eight nodded in response The woman whose hand was pulsating over it with life magic leaned in a bit closer to its face. "So, do you have a name?" She asked in a soft voice, curiously, as if she were talking to a child. Eight looked down at the ground, then back at the burning spire behind him. "Redgrave," it muttered quietly, then returned its gaze to hers. "My name is Redgrave." "Like that tower?" One of the men in the group asked questioningly. "Yes," the forged known formerly as Eight responded. "So that I may never forget what happened here."
+
 ## Religion
 
 ## Enemies
@@ -79,7 +546,3 @@ Forged in lightning and blood by the dark wizard Eludrax, "Eight" was born. The 
 ## Hidden Details
 
 ## Notes
-
-```dataviewjs
-await dv.view('pcSessionMentions', {current: dv.current()})
-```
