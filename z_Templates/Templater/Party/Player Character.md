@@ -378,6 +378,9 @@ dv.table(['Name', 'Armor Class'], armor.map(inv => {
 }))
 ```
 
+<!-- Update ttrpg-convert to put image path in frontmatter -->
+<!-- then we can pull it into this list -->
+<!-- Group by rarity? -->
 > [!cards|dataview 4 wfull]
 > ## Inventory
 > ```dataview
