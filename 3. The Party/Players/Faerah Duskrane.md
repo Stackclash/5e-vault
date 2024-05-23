@@ -516,13 +516,14 @@ location:
 
 ## Spells
 
+## Weapons
+
 ## Armor
 ```dataviewjs
-console.log(dv.current().inventory)
-dv.table(["Name"], dv.current().inventory.filter(inv => inv.type === 'Armor').map(inv => [inv.name]))
-```
+const armor = dv.current().inventory.filter(inv => inv.type === 'Armor')
 
-## Weapons
+dv.table(['Name'], armor.map(inv => [inv.name]))
+```
 
 > [!cards|dataview 4 wfull]
 > ## Inventory
