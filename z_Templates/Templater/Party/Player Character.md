@@ -213,6 +213,8 @@ classFeatures: <% tp.user.build_yaml_list(character.classFeatures, 2) %>
 feats: <% tp.user.build_yaml_list(character.feats, 2) %>
 raceSpells: <% tp.user.build_yaml_list(character.spells.race, 2) %>
 classSpells: <% tp.user.build_yaml_list(character.spells.class[0].spells, 2) %>
+maxSpellSlots: <% tp.user.build_yaml_list(character.spells.class[0].spellSlots.max, 2) %>
+usedSpellSlots: <% tp.user.build_yaml_list(character.spells.class[0].spellSlots.used, 2) %>
 currencies:
   cp: <% character.currencies.cp %>
   sp: <% character.currencies.sp %>

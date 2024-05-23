@@ -241,7 +241,70 @@ classFeatures:
   - name: "Destroy Undead"
     description: "When an undead fails its saving throw against your Turn Undead feature, it is instantly destroyed if its CR is lower than the threshold for your level."
 feats: []
-spells: []
+raceSpells: []
+classSpells: 
+  - name: "Sacred Flame"
+    level: 0
+    isPrepared: true
+  - name: "Thaumaturgy"
+    level: 0
+    isPrepared: true
+  - name: "Word of Radiance"
+    level: 0
+    isPrepared: true
+  - name: "Mending"
+    level: 0
+    isPrepared: true
+  - name: "Cure Wounds"
+    level: 1
+    isPrepared: true
+  - name: "Healing Word"
+    level: 1
+    isPrepared: true
+  - name: "Detect Evil and Good"
+    level: 1
+    isPrepared: true
+  - name: "Spiritual Weapon"
+    level: 2
+    isPrepared: true
+  - name: "Zone of Truth"
+    level: 2
+    isPrepared: true
+  - name: "Silence"
+    level: 2
+    isPrepared: true
+  - name: "Spirit Guardians"
+    level: 3
+    isPrepared: true
+  - name: "Daylight"
+    level: 3
+    isPrepared: true
+  - name: "Revivify"
+    level: 3
+    isPrepared: true
+  - name: "Remove Curse"
+    level: 3
+    isPrepared: true
+maxSpellSlots: 
+  - "4"
+  - "3"
+  - "3"
+  - "0"
+  - "0"
+  - "0"
+  - "0"
+  - "0"
+  - "0"
+usedSpellSlots: 
+  - "0"
+  - "0"
+  - "0"
+  - "0"
+  - "0"
+  - "0"
+  - "0"
+  - "0"
+  - "0"
 currencies:
   cp: 0
   sp: 498
@@ -480,9 +543,6 @@ location:
 
 ## Spells
 ```dataviewjs
-const spells = dv.current().spells
-console.log(spells)
-dv.span('> [!cards]\n> **Test 1**\n>\n> **Test 2**')
 ```
 
 ## Weapons

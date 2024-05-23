@@ -1,7 +1,7 @@
 module.exports = (list, spaces) => {
   let result = []
   if (list.length > 0) {
-    if (typeof list[0] === 'string') {
+    if (typeof list[0] !== 'object') {
       result = list.reduce((accum, item) => {
         const itemString = `- "${item}"`
         accum.push(itemString.padStart(spaces + itemString.length))
