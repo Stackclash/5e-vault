@@ -517,6 +517,10 @@ location:
 ## Spells
 
 ## Armor
+```dataviewjs
+console.log(dv.current().inventory)
+dv.table(["Name"], dv.current().inventory.filter(inv => inv.type === 'Armor').map(inv => [inv.name]))
+```
 
 ## Weapons
 

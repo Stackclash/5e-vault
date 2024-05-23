@@ -5,7 +5,10 @@ module.exports = (text, path) => {
     const scores = dv.pages(`"${path}"`).array().reduce((accum, page) => {
         let score = 0
         for (const term of searchTerms) {
-            if (page.file.name === text || (page.aliases && page.aliases[0] === text) || page.file.name === searchTerms.join(' ')) {
+            if (page.file.name === text ||
+                (page.aliases && page.aliases[0] === text) ||
+                page.file.name === searchTerms.join(' ') ||
+                page.file.name === `${searchTerms.join(' ')} Armor`) {
                 score += 5
             } else if (page.file.name.includes(term)) {
                 score++
