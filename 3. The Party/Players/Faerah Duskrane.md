@@ -515,8 +515,9 @@ location:
 > ```
 
 ## Spells
-```dataviewjs
-```
+> [!cards|dataview wfull]
+> ```dataviewjs
+> ```
 
 ## Weapons
 ```dataviewjs
