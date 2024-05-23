@@ -15,6 +15,16 @@ aliases:
 {#if resource.costCp}
 cost: {resource.costCp}
 {/if}
+{#if resource.armorClass }
+armorClass: {resource.armorClass}
+{#else if resource.damage }{#if resource.damage2h }
+one-hand-damage: {resource.damage}
+two-hand-damage: {resource.damage2h}
+{#else}
+one-hand-damage: {resource.damage}
+{/if}{#if resource.range }
+range: {resource.range}
+{/if}
 ---
 # {resource.name}
 {#if resource.detail }*{resource.detail}*  

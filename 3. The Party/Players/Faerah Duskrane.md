@@ -524,7 +524,7 @@ const armor = dv.current().inventory.filter(inv => inv.type === 'Armor')
 
 dv.table(['Name', 'Armor Class'], armor.map(inv => {
   console.log(inv.name.toObject())
-  return [inv.name, inv.name.toFile().armorClass]
+  return [inv.name, dv.page(inv.name.path).armorClass]
 }))
 ```
 
