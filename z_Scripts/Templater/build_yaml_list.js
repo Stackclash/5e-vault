@@ -7,7 +7,6 @@ module.exports = (list, spaces) => {
         accum.push(itemString.padStart(spaces + itemString.length))
         return accum
       }, []).join(`\n`)
-      result.unshift(`\n`)
     } else {
       result = list.reduce((accum, item) => {
         accum.push(Object.entries(item).reduce((accum2, [key, value]) => {
@@ -25,8 +24,8 @@ module.exports = (list, spaces) => {
   
         return accum
       }, []).join(`\n`)
-      result.unshift(`\n`)
     }
+    result = `\n${result}`
   } else {
     result = "[]"
   }

@@ -59,8 +59,7 @@ background:
   allies: 
   enemies: 
   notes: 
-classes:
-<% tp.user.build_class_yaml_list(tp, character.classes, '5. Mechanics/Classes', 2) %>
+classes: <% tp.user.build_class_yaml_list(tp, character.classes, '5. Mechanics/Classes', 2) %>
 abilityScores:
   strength:
     value: <% character.abilityScores.strength.value %>
@@ -219,8 +218,7 @@ currencies:
   gp: <% character.currencies.gp %>
   ep: <% character.currencies.ep %>
   pp: <% character.currencies.pp %>
-inventory:
-<% tp.user.build_inventory_yaml_list(tp, character.inventory, '5. Mechanics/Items', 2) %>
+inventory: <% tp.user.build_inventory_yaml_list(tp, character.inventory, '5. Mechanics/Items', 2) %>
 ideal: 
 bond: 
 flaw: 
