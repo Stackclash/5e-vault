@@ -523,7 +523,8 @@ location:
 const armor = dv.current().inventory.filter(inv => inv.type === 'Armor')
 
 dv.table(['Name', 'Armor Class'], armor.map(inv => {
-  return [inv.name]
+  console.log(inv.name.toObject())
+  return [inv.name, inv.name.toFile().armorClass]
 }))
 ```
 

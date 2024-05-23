@@ -7,6 +7,7 @@ tags:
 aliases:
   - Studded Leather Armor
 cost: 4500
+armorClass: 12 + DEX
 ---
 # Studded Leather Armor
 *Light Armor*  
