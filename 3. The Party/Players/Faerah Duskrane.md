@@ -424,6 +424,7 @@ location:
 > | **Health Points** | `$=dv.current().hp` |
 > | **Armor Class** | `$=dv.current().ac` |
 > | **Initiative** | `$=dv.current().modifier` |
+> | **Speed** | `$=dv.current().speed` |
 
 # `$=dv.current().name`
 > [!statblocks|columns]

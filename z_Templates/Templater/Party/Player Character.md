@@ -248,7 +248,7 @@ location:
 > | **Health Points** | `$=dv.current().hp` |
 > | **Armor Class** | `$=dv.current().ac` |
 > | **Initiative** | `$=dv.current().modifier` |
-> | **Speed** | `$=dv.current().speeds.walk` |
+> | **Speed** | `$=dv.current().speed` |
 
 # `$=dv.current().name`
 > [!statblocks|columns]
@@ -322,7 +322,8 @@ location:
 > [!cards|dataview wfull]
 > ## Class Features
 > ```dataview
-> TABLE WITHOUT ID "**"+classFeatures.name+"**" AS Name, classFeatures.description AS Description
+> TABLE WITHOUT ID "**"+classFeatures.name+"**",
+> classFeatures.description
 > FLATTEN classFeatures
 > WHERE this.file.name = file.name
 > ```
@@ -330,7 +331,8 @@ location:
 > [!cards|dataview wfull]
 > ## Feats
 > ```dataview
-> TABLE WITHOUT ID "**"+feats.name+"**" AS Name, feats.description AS Description
+> TABLE WITHOUT ID "**"+feats.name+"**",
+> feats.description
 > FLATTEN feats
 > WHERE this.file.name = file.name
 > ```
@@ -338,7 +340,8 @@ location:
 > [!cards|dataview 4 wfull]
 > ## Inventory
 > ```dataview
-> TABLE WITHOUT ID "**"+inventory.name+"**" AS Name, "Quantity: "+inventory.quantity AS Description
+> TABLE WITHOUT ID "**"+inventory.name+"**",
+> "Quantity: "+inventory.quantity
 > FLATTEN inventory
 > WHERE this.file.name = file.name
 > ```
