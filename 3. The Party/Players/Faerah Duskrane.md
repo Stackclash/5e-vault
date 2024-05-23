@@ -245,7 +245,7 @@ currencies:
   ep: 0
   pp: 0
 inventory:
-  - name: "[[5. Mechanics/Items/Glamoured Studded Leather.md|Glamoured Studded Leather]]"
+  - name: "Studded Leather"
     original: "Studded Leather"
     type: "Armor"
     quantity: 1
@@ -293,7 +293,7 @@ inventory:
     quantity: 1
     equipped: true
     isAttuned: false
-  - name: "[[5. Mechanics/Items/Arrows 20.md|Arrows 20]]"
+  - name: "Arrows"
     original: "Arrows"
     type: "Other Gear"
     quantity: 20
@@ -401,7 +401,7 @@ inventory:
     quantity: 1
     equipped: false
     isAttuned: false
-  - name: "[[5. Mechanics/Items/Necklace String Of Small Pink Pearls.md|Necklace String Of Small Pink Pearls]]"
+  - name: "String"
     original: "String"
     type: "Other Gear"
     quantity: 10
