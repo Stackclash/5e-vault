@@ -542,8 +542,10 @@ location:
 > ```
 
 ## Spells
-```dataviewjs
-```
+> [!cards|dataview wfull]
+> ```dataviewjs
+> dv.table(['Name'], dv.current().classSpells.map(spell => [spell.name]))
+> ```
 
 ## Weapons
 ```dataviewjs
