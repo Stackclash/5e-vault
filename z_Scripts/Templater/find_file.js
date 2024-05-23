@@ -23,7 +23,7 @@ module.exports = (text, path) => {
     }, []).sort((a, b) => b.score - a.score)
     console.log(text, scores)
 
-    return scores[0].score === 0 || scores.filter(item => item.score === scores[0].score).length > 5 || scores[0].value.file.name.length > text.length * 1.3 ?
+    return scores[0].score === 0 || scores.filter(item => item.score === scores[0].score).length > 5 || scores[0].value.file.name.length > text.length * 2 ?
         text :
         `[[${scores[0].value.file.path}|${scores[0].value.file.name}]]`
 }

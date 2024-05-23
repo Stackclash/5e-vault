@@ -243,7 +243,7 @@ currencies:
   ep: 0
   pp: 0
 inventory: 
-  - name: "Studded Leather"
+  - name: "[[5. Mechanics/Items/Studded Leather Armor.md|Studded Leather Armor]]"
     original: "Studded Leather"
     type: "Armor"
     quantity: 1
@@ -522,7 +522,9 @@ location:
 ```dataviewjs
 const armor = dv.current().inventory.filter(inv => inv.type === 'Armor')
 
-dv.table(['Name'], armor.map(inv => [inv.name]))
+dv.table(['Name', 'Armor Class'], armor.map(inv => {
+  return [inv.name]
+}))
 ```
 
 > [!cards|dataview 4 wfull]
