@@ -476,7 +476,9 @@ location:
 > | **Gender** | `$=dv.current().description.gender` | **Weight** | `$=dv.current().description.weight` | **Hair** | `$=dv.current().description.hair` |
 > | **Age** | `$=dv.current().description.age` | **Size** | `$=dv.current().description.size` | **Eyes** | `$=dv.current().description.eyes` |
 
-<!-- Update to pull link to class and subclass -->
+> [!infobox|center n-th]
+> ## Defences
+
 > [!cards|dataview wfull]
 > ## Classes
 > ```dataview
@@ -496,7 +498,8 @@ location:
 > [!cards|dataview wfull]
 > ## Class Features
 > ```dataview
-> TABLE WITHOUT ID "**"+classFeatures.name+"**" AS Name, classFeatures.description AS Description
+> TABLE WITHOUT ID "**"+classFeatures.name+"**",
+> classFeatures.description
 > FLATTEN classFeatures
 > WHERE this.file.name = file.name
 > ```
@@ -504,7 +507,8 @@ location:
 > [!cards|dataview wfull]
 > ## Feats
 > ```dataview
-> TABLE WITHOUT ID "**"+feats.name+"**" AS Name, feats.description AS Description
+> TABLE WITHOUT ID "**"+feats.name+"**",
+> feats.description
 > FLATTEN feats
 > WHERE this.file.name = file.name
 > ```
