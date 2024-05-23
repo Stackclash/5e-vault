@@ -365,7 +365,7 @@ inventory:
     quantity: 1
     equipped: false
     isAttuned: false
-  - name: "[[5. Mechanics/Items/Abyssal Oil.md|Abyssal Oil]]"
+  - name: "[[5. Mechanics/Items/Oil Flask.md|Oil Flask]]"
     original: "Oil (flask)"
     type: "Other Gear"
     quantity: 2
