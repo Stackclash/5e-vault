@@ -9,7 +9,7 @@ modifier: 6
 proficiency: 3
 url: https://dndbeyond.com/characters/105635812
 image: https://www.dndbeyond.com/avatars/36048/643/1581111423-105635812.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
-race: "[[5. Mechanics/Races/Elf Drow.md|Elf Drow]]"
+race: "[[5. Mechanics/Races/Elf.md|Elf]]"
 description:
   gender: Female
   age: 88
@@ -51,7 +51,8 @@ background:
   enemies: 
   notes: 
 classes:
-  - name: "[[5. Mechanics/Classes/Rogue Swashbuckler.md|Rogue Swashbuckler]]"
+  - name: "[[5. Mechanics/Classes/Rogue.md|Rogue]]"
+    subClass: "[[5. Mechanics/Classes/Rogue.md|Rogue]]"
     level: 6
 abilityScores:
   strength:

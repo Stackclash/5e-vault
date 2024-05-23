@@ -5,7 +5,11 @@ module.exports = (text, path) => {
     const scores = dv.pages(`"${path}"`).array().reduce((accum, page) => {
         let score = 0
         for (const term of searchTerms) {
-            if (page.file.name.includes(term)) score++
+            if (page.file.name === term) {
+                score += 5
+            } else if (page.file.name.includes(term)) {
+                score++
+            }
         }
         accum.push({
             value: page,
