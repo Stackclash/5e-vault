@@ -248,6 +248,7 @@ location:
 > | **Health Points** | `$=dv.current().hp` |
 > | **Armor Class** | `$=dv.current().ac` |
 > | **Initiative** | `$=dv.current().modifier` |
+> | **Speed** | `$=dv.current().speeds.walk` |
 
 # `$=dv.current().name`
 > [!statblocks|columns]
@@ -298,6 +299,9 @@ location:
 > | **Race** | `$=dv.current().race` | **Height** | `$=dv.current().description.height` | **Skin** | `$=dv.current().description.skin` |
 > | **Gender** | `$=dv.current().description.gender` | **Weight** | `$=dv.current().description.weight` | **Hair** | `$=dv.current().description.hair` |
 > | **Age** | `$=dv.current().description.age` | **Size** | `$=dv.current().description.size` | **Eyes** | `$=dv.current().description.eyes` |
+
+> [!infobox|center n-th]
+> ## Defences
 
 > [!cards|dataview wfull]
 > ## Classes
