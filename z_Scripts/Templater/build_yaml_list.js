@@ -3,7 +3,7 @@ module.exports = (list, spaces) => {
   if (list.length > 0) {
     if (typeof list[0] !== 'object') {
       result = list.reduce((accum, item) => {
-        const itemString = `- "${item}"`
+        const itemString = typeof item === 'string' ? `- "${item}"` : `- ${item}`
         accum.push(itemString.padStart(spaces + itemString.length))
         return accum
       }, []).join(`\n`)
