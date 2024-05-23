@@ -243,46 +243,46 @@ classFeatures:
 feats: []
 raceSpells: []
 classSpells: 
-  - name: "Sacred Flame"
+  - name: "[[5. Mechanics/Spells/Sacred Flame.md|Sacred Flame]]"
     level: 0
     isPrepared: true
-  - name: "Thaumaturgy"
+  - name: "[[5. Mechanics/Spells/Thaumaturgy.md|Thaumaturgy]]"
     level: 0
     isPrepared: true
-  - name: "Word of Radiance"
+  - name: "[[5. Mechanics/Spells/Word Of Radiance.md|Word Of Radiance]]"
     level: 0
     isPrepared: true
-  - name: "Mending"
+  - name: "[[5. Mechanics/Spells/Mending.md|Mending]]"
     level: 0
     isPrepared: true
-  - name: "Cure Wounds"
+  - name: "[[5. Mechanics/Spells/Cure Wounds.md|Cure Wounds]]"
     level: 1
     isPrepared: true
-  - name: "Healing Word"
+  - name: "[[5. Mechanics/Spells/Healing Word.md|Healing Word]]"
     level: 1
     isPrepared: true
-  - name: "Detect Evil and Good"
+  - name: "[[5. Mechanics/Spells/Detect Evil And Good.md|Detect Evil And Good]]"
     level: 1
     isPrepared: true
-  - name: "Spiritual Weapon"
+  - name: "[[5. Mechanics/Spells/Spiritual Weapon.md|Spiritual Weapon]]"
     level: 2
     isPrepared: true
-  - name: "Zone of Truth"
+  - name: "[[5. Mechanics/Spells/Zone Of Truth.md|Zone Of Truth]]"
     level: 2
     isPrepared: true
-  - name: "Silence"
+  - name: "[[5. Mechanics/Spells/Silence.md|Silence]]"
     level: 2
     isPrepared: true
-  - name: "Spirit Guardians"
+  - name: "[[5. Mechanics/Spells/Spirit Guardians.md|Spirit Guardians]]"
     level: 3
     isPrepared: true
-  - name: "Daylight"
+  - name: "[[5. Mechanics/Spells/Daylight.md|Daylight]]"
     level: 3
     isPrepared: true
-  - name: "Revivify"
+  - name: "[[5. Mechanics/Spells/Revivify.md|Revivify]]"
     level: 3
     isPrepared: true
-  - name: "Remove Curse"
+  - name: "[[5. Mechanics/Spells/Remove Curse.md|Remove Curse]]"
     level: 3
     isPrepared: true
 maxSpellSlots: 
@@ -541,6 +541,8 @@ location:
 > WHERE this.file.name = file.name
 > ```
 
+<!-- Needs fixing to group by class -->
+<!-- Separate sections for class/race spells -->
 ## Spells
 > [!cards|dataview wfull]
 > ```dataviewjs
@@ -555,6 +557,7 @@ location:
 > dv.table(['Name', 'Slots', 'Spells'], spells.map(spell => [`### Level ${spell.level}`, `**Slots: Left ${spell.availableSpellSlots} / Max ${spell.maxSpellSlots}**`, spell.spells]))
 > ```
 
+<!-- Need to add columns for equipped/attuned -->
 ## Weapons
 ```dataviewjs
 const weapons = dv.current().inventory.filter(inv => inv.type === 'Weapon')
@@ -574,6 +577,8 @@ dv.table([
 }))
 ```
 
+<!-- Need to add columns for equipped/attuned -->
+<!-- Add armorClass from Beyond when can't find in notes -->
 ## Armor
 ```dataviewjs
 const armor = dv.current().inventory.filter(inv => inv.type === 'Armor')
