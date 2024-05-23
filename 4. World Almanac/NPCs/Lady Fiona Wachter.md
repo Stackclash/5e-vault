@@ -1,13 +1,17 @@
 ---
 obsidianUIMode: preview
 statblock: inline
+tags:
+  - compendium/src/5e/cos
+  - monster/cr/2
+  - monster/size/medium
+  - monster/type/humanoid/human
 location: '[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]'
 condition: healthy
 image: null
 relationships:
   - Nikolai Wachter|son
   - Stella Wachter|daughter
-tags: null
 aliases:
   - Lady Fiona Wachter
 pronounced: null

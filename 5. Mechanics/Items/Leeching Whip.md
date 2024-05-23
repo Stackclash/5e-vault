@@ -11,6 +11,7 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Leeching Whip
+one-hand-damage: 1d4 S
 ---
 # Leeching Whip
 *Melee Weapon, rare, Crafted by*  

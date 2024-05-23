@@ -10,6 +10,8 @@ tags:
   - item/wondrous/staff
 aliases:
   - Staff of the Magi
+one-hand-damage: 1d6 B
+two-hand-damage: 1d8 B
 ---
 # Staff of the Magi
 *Staff, major, legendary (requires attunement by a sorcerer, warlock, or wizard)*  
@@ -33,7 +35,7 @@ While holding the staff, you have advantage on saving throws against spells. In 
 
 While holding the staff, you can use an action to expend some of its charges to cast one of the following spells from it, using your spell save DC and spellcasting ability: [[5. Mechanics/Spells/Conjure Elemental.md\|conjure elemental]] (7 charges), [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] (3 charges), [[5. Mechanics/Spells/Fireball.md\|fireball]] (7th-level version, 7 charges), [[5. Mechanics/Spells/Flaming Sphere.md\|flaming sphere]] (2 charges), [[5. Mechanics/Spells/Ice Storm.md\|ice storm]] (4 charges), [[5. Mechanics/Spells/Invisibility.md\|invisibility]] (2 charges), [[5. Mechanics/Spells/Knock.md\|knock]] (2 charges), [[5. Mechanics/Spells/Lightning Bolt.md\|lightning bolt]] (7th-level version, 7 charges), [[5. Mechanics/Spells/Passwall.md\|passwall]] (5 charges), [[5. Mechanics/Spells/Plane Shift.md\|plane shift]] (7 charges), [[5. Mechanics/Spells/Telekinesis.md\|telekinesis]] (5 charges), [[5. Mechanics/Spells/Wall Of Fire.md\|wall of fire]] (4 charges), or [[5. Mechanics/Spells/Web.md\|web]] (2 charges).
 
-You can also use an action to cast one of the following spells from the staff without using any charges: [[5. Mechanics/Spells/Arcane Lock.md\|arcane lock]], [[5. Mechanics/Spells/Detect Magic.md\|detect magic]], [enlarge/reduce](compendium/spells/enlarge-reduce.md), [[5. Mechanics/Spells/Light.md\|light]], [[5. Mechanics/Spells/Mage Hand.md\|mage hand]], or [[5. Mechanics/Spells/Protection From Evil And Good.md\|protection from evil and good]].
+You can also use an action to cast one of the following spells from the staff without using any charges: [[5. Mechanics/Spells/Arcane Lock.md\|arcane lock]], [[5. Mechanics/Spells/Detect Magic.md\|detect magic]], [[5. Mechanics/Spells/Enlarge Reduce.md\|enlarge/reduce]], [[5. Mechanics/Spells/Light.md\|light]], [[5. Mechanics/Spells/Mage Hand.md\|mage hand]], or [[5. Mechanics/Spells/Protection From Evil And Good.md\|protection from evil and good]].
 
 ## Retributive Strike
 

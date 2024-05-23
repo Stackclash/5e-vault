@@ -8,7 +8,7 @@ aliases:
   - Human
 ---
 # Human
-*Source: Player's Handbook p. 29. Available in the Basic Rules.*  
+*Source: Player's Handbook p. 29. Available in the SRD and the Basic Rules.*  
 ![[5. Mechanics/Races/img/human.webp#right]]  
 
 - **Ability Scores**: Strength +1, Dexterity +1, Constitution +1, Intelligence +1, Wisdom +1, Charisma +1

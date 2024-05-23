@@ -9,6 +9,8 @@ tags:
   - item/weapon/simple/melee
 aliases:
   - Baba Yaga's Pestle
+one-hand-damage: 1d6 B
+two-hand-damage: 1d8 B
 ---
 # Baba Yaga's Pestle
 *Melee Weapon, artifact (requires attunement)*  

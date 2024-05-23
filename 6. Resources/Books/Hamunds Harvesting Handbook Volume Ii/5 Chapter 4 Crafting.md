@@ -85,9 +85,9 @@ In order to understand the quantities of harvestable materials required and the 
 Craftable items are presented in alphabetical order. A craftable item's description gives the item's name, its category, its rarity, its base component, the crafter type required to make it, and its magical properties.
 
 > [!note]
-> These items are already available in Volume I. ^[collection/Jasmine Yang; Hamund's Harvesting Handbook I.json]
+> These items are already available in Volume I. ^[[5. Mechanics/Items/Amulet Of The Mind Flayer.md\|collection/Jasmine Yang; Hamund's Harvesting Handbook I.json]
 
-[[5. Mechanics/Items/Amulet Of The Mind Flayer.md\|Amulet of the Mind Flayer]]
+[Amulet of the Mind Flayer]]
 
 [[5. Mechanics/Items/Bag Of Colding.md\|Bag of Colding]]
 
@@ -218,9 +218,9 @@ Craftable items are presented in alphabetical order. A craftable item's descript
 
 [[5. Mechanics/Items/Mask Of Clouds.md\|Mask of Clouds]]
 
-[+1 Mind Hook](compendium/items/1-mind-hook-hhhvii.md)
+[[5. Mechanics/Items/1 Mind Hook.md\|+1 Mind Hook]]
 
-[+1 Mind Whip](compendium/items/1-mind-whip-hhhvii.md) > [!note]
+[[5. Mechanics/Items/1 Mind Whip.md\|+1 Mind Whip]] > [!note]
 > This item is an extension of the [[5. Mechanics/Items/Mind Whip.md\|Mind Whip (HHHVI)]].
 
 [[5. Mechanics/Items/Minor Eye Stalk Wand.md\|Minor Eye Stalk Wand]]
@@ -255,7 +255,7 @@ Craftable items are presented in alphabetical order. A craftable item's descript
 
 [[5. Mechanics/Items/Shadow Spikes.md\|Shadow Spikes]]
 
-[+1 Shield of Reflection](compendium/items/1-shield-of-reflection-hhhvii.md)
+[[5. Mechanics/Items/1 Shield Of Reflection.md\|+1 Shield of Reflection]]
 
 [[5. Mechanics/Items/Silhouette Shawl.md\|Silhouette Shawl]]
 

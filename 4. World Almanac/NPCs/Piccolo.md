@@ -1,11 +1,15 @@
 ---
 obsidianUIMode: preview
 statblock: inline
+tags:
+  - compendium/src/5e/cos
+  - monster/cr/0
+  - monster/size/small
+  - monster/type/beast
 location: null
 condition: healthy
 image: 4. World Almanac/NPCs/img/piccolo.webp
 relationships: []
-tags: null
 aliases: []
 pronounced: null
 race: null

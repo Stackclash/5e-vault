@@ -10,6 +10,7 @@ tags:
 aliases:
   - Double-Bladed Scimitar
 cost: 10000
+one-hand-damage: 2d4 S
 ---
 # Double-Bladed Scimitar
 *Melee Weapon*  

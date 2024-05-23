@@ -11,6 +11,7 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Wound
+one-hand-damage: 1d12 S
 ---
 # Wound
 *Melee Weapon, rare (requires attunement by a barbarian)*  

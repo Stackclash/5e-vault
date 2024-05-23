@@ -8,6 +8,7 @@ tags:
   - item/rarity/rare
 aliases:
   - Ironleather Splint
+armorClass: 17
 ---
 # Ironleather Splint
 *Heavy Armor, rare, Crafted by*  

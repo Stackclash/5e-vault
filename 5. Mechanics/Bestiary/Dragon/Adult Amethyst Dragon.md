@@ -88,8 +88,7 @@ When encountered, they are often conciliatory, deferent. They want to put you at
   "name": "Psionic Shift (Costs 2 Actions)"
 "source":
 - "SaF"
-"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Large\
-  \ Amethyst Dragon.png"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Large%20Amethyst%20Dragon.png"
 ```
 ^statblock
 

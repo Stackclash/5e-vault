@@ -12,7 +12,7 @@ aliases:
   - Crab
 ---
 # [[5. Mechanics\Bestiary\Beast\Crab.md|Crab]]
-*Source: Monster Manual p. 320. Available in the SRD and the Basic Rules.*
+*Source: Monster Manual p. 320, Vecna: Eve of Ruin. Available in the SRD and the Basic Rules.*
 
 ```statblock
 "name": "Crab"
@@ -48,6 +48,7 @@ aliases:
 - "ToA"
 - "GoS"
 - "BGDIA"
+- "VEoR"
 "image": "5. Mechanics/Bestiary/Beast/token/crab.webp"
 ```
 ^statblock

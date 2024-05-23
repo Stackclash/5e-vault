@@ -68,8 +68,7 @@ When encountered, they are often conciliatory, deferent. They want to put you at
   "name": "Claw"
 "source":
 - "SaF"
-"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Medium\
-  \ Amethyst Dragon.png"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Medium%20Amethyst%20Dragon.png"
 ```
 ^statblock
 

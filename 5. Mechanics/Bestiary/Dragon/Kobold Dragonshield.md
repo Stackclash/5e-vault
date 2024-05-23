@@ -19,7 +19,7 @@ aliases:
 
 > [!quote]- A quote from Mordenkainen  
 > 
-> Believe it or not, I like kobolds. I find their oscillation between bravery an cowardice endlessly entertaining. In fact,I'd say kobolds are proof of the universe's most fundamental lesson: there is always something bigger than you.
+> Believe it or not, I like kobolds. I find their oscillation between bravery and cowardice endlessly entertaining. In fact, I'd say kobolds are proof of the universe's most fundamental lesson: there is always something bigger than you.
 
 Kobold dragonshields are champions of their people. Almost all dragonshields begin life as normal kobolds, then are chosen by a dragon and invested with power for the purpose of protecting the dragon's eggs, but once every few years a kobold hatches with an innate version of the dragonshield's abilities. In either case, a dragonshield is skilled at hand-to-hand combat and bears a shield made of dragon scales, as well as scars from desperate fights.
 

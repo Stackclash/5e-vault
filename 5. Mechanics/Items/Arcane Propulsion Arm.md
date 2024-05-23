@@ -9,6 +9,8 @@ tags:
   - item/wondrous
 aliases:
   - Arcane Propulsion Arm
+one-hand-damage: 1d8 O
+range: 20/60
 ---
 # Arcane Propulsion Arm
 *Wondrous Item, very rare (requires attunement by a creature missing a hand or an arm)*  

@@ -10,6 +10,8 @@ tags:
   - item/weapon/martial/ranged
 aliases:
   - Shotgun
+one-hand-damage: 2d8 P
+range: 30/90
 ---
 # Shotgun
 *Ranged Weapon*  

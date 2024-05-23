@@ -8,6 +8,7 @@ tags:
   - item/weapon/simple/melee
 aliases:
   - Mace of Smiting
+one-hand-damage: 1d6 B
 ---
 # Mace of Smiting
 *Melee Weapon, major, rare*  

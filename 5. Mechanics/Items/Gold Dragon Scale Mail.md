@@ -9,6 +9,7 @@ tags:
   - item/tier/major
 aliases:
   - Gold Dragon Scale Mail
+armorClass: 14 + DEX (max of +2)
 ---
 # Gold Dragon Scale Mail
 *Medium Armor, major, very rare (requires attunement)*  

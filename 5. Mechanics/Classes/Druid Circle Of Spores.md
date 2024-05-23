@@ -32,7 +32,7 @@ Once you gain access to one of these spells, you always have it prepared, and it
 
 | Druid Level | Circle Spells |
 |-------------|---------------|
-| 3rd | [blindness/deafness](compendium/spells/blindness-deafness.md), [[5. Mechanics/Spells/Gentle Repose.md\|gentle repose]] |
+| 3rd | [[5. Mechanics/Spells/Blindness Deafness.md\|blindness/deafness]], [[5. Mechanics/Spells/Gentle Repose.md\|gentle repose]] |
 | 5th | [[5. Mechanics/Spells/Animate Dead.md\|animate dead]], [[5. Mechanics/Spells/Gaseous Form.md\|gaseous form]] |
 | 7th | [[5. Mechanics/Spells/Blight.md\|blight]], [[5. Mechanics/Spells/Confusion.md\|confusion]] |
 | 9th | [[5. Mechanics/Spells/Cloudkill.md\|cloudkill]], [[5. Mechanics/Spells/Contagion.md\|contagion]] |

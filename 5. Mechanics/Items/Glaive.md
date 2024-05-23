@@ -11,6 +11,7 @@ tags:
 aliases:
   - Glaive
 cost: 2000
+one-hand-damage: 1d10 S
 ---
 # Glaive
 *Melee Weapon*  

@@ -1,11 +1,15 @@
 ---
 obsidianUIMode: preview
 statblock: inline
+tags:
+  - compendium/src/5e/cos
+  - monster/cr/1
+  - monster/size/large
+  - monster/type/beast
 location: null
 condition: healthy
 image: null
 relationships: []
-tags: null
 aliases: []
 pronounced: null
 race: null

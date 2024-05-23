@@ -11,6 +11,7 @@ tags:
 aliases:
   - Halberd
 cost: 2000
+one-hand-damage: 1d10 S
 ---
 # Halberd
 *Melee Weapon*  

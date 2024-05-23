@@ -10,6 +10,8 @@ tags:
   - item/weapon/martial/ranged
 aliases:
   - Antimatter Rifle
+one-hand-damage: 6d8 N
+range: 120/360
 ---
 # Antimatter Rifle
 *Ranged Weapon*  

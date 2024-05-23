@@ -1180,7 +1180,7 @@ Upon contracting [crone's disease](/compendium/rules/diseases.md#crone's%20disea
 #### Lizardfolk King/Queen
 
 > [!embed-table]- Lizardfolk King/Queen
-> ![Lizardfolk King/Queen](compendium/tables/lizardfolk-king-queen-hhhvi.md)
+> ![[5. Mechanics/Tables/Lizardfolk King Queen.md\|Lizardfolk King/Queen]]
 
 > [!embed-table]- Lizardfolk Trinket Table
 > ![[5. Mechanics/Tables/Lizardfolk Trinket Table.md\|Lizardfolk Trinket Table]]
@@ -1588,7 +1588,7 @@ Due to their large sizes and amorphous nature, a shambling mound can potentially
 ### Succubus/Incubus
 
 > [!embed-table]- Succubus/Incubus
-> ![Succubus/Incubus](compendium/tables/succubus-incubus-hhhvi.md)
+> ![[5. Mechanics/Tables/Succubus Incubus.md\|Succubus/Incubus]]
 
 ## Harvest Table: T
 

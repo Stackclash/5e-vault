@@ -633,7 +633,7 @@ Were Vladimir to let go of his hatred, his spirit would find peace and could rem
 - His Armor Class is 17 (half plate).  
 - He has 192 hit points.  
 - He speaks Common and Draconic.  
-- Vladimir wields a [greatsword, +2](compendium/items/2-weapon.md) with a hilt sculpted to resemble silver dragon wings and a pommel shaped like a silver dragon's head clutching a black opal between its teeth. As an action, he can make two attacks with the sword (+9 to hit). It deals `dice:4d6 + 6|text(20)` (`4d6 + 6`) slashing damage on a hit. Against Strahd, Vladimir deals an extra `dice:4d6|text(14)` (`4d6`) slashing damage with the weapon.  
+- Vladimir wields a [[5. Mechanics/Items/2 Weapon.md|greatsword, +2]] with a hilt sculpted to resemble silver dragon wings and a pommel shaped like a silver dragon's head clutching a black opal between its teeth. As an action, he can make two attacks with the sword (+9 to hit). It deals `dice:4d6 + 6|text(20)` (`4d6 + 6`) slashing damage on a hit. Against Strahd, Vladimir deals an extra `dice:4d6|text(14)` (`4d6`) slashing damage with the weapon.  
 - Vladimir has a challenge rating of 7 (2,900 XP).  
 
 ![[6. Resources/5e Modules/Curse Of Strahd/img/154-cos19-11.webp#center]]

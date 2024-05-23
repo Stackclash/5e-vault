@@ -13,7 +13,7 @@ aliases:
   - Swarm of Poisonous Snakes
 ---
 # [[5. Mechanics\Bestiary\Beast\Swarm Of Poisonous Snakes.md|Swarm of Poisonous Snakes]]
-*Source: Monster Manual p. 338, Curse of Strahd. Available in the SRD and the Basic Rules.*
+*Source: Monster Manual p. 338, Curse of Strahd, Vecna: Eve of Ruin. Available in the SRD and the Basic Rules.*
 
 > [!note] The Nature of Swarms
 > 
@@ -67,6 +67,7 @@ aliases:
 - "EGW"
 - "MOT"
 - "JttRC"
+- "VEoR"
 "image": "5. Mechanics/Bestiary/Beast/token/swarm-of-poisonous-snakes.webp"
 ```
 ^statblock

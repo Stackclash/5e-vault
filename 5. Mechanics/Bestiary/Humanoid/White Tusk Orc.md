@@ -59,8 +59,7 @@ They are a chaotic evil tribe who care only for strength and the subjugation of 
   "name": "Javelin"
 "source":
 - "SaF"
-"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/White\
-  \ Tusk Orc.png"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/White%20Tusk%20Orc.png"
 ```
 ^statblock
 

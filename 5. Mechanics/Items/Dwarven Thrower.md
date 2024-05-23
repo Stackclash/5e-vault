@@ -12,6 +12,9 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Dwarven Thrower
+one-hand-damage: 1d8 B
+two-hand-damage: 1d10 B
+range: 20/60
 ---
 # Dwarven Thrower
 *Melee Weapon, major, very rare (requires attunement by a dwarf)*  

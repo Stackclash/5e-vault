@@ -9,6 +9,8 @@ tags:
 aliases:
   - Shortbow
 cost: 2500
+one-hand-damage: 1d6 P
+range: 80/320
 ---
 # Shortbow
 *Ranged Weapon*  

@@ -11,7 +11,7 @@ aliases:
   - Bearded Devil
 ---
 # [[5. Mechanics\Bestiary\Fiend\Bearded Devil.md|Bearded Devil]]
-*Source: Monster Manual p. 70. Available in the SRD.*
+*Source: Monster Manual p. 70, Vecna: Eve of Ruin. Available in the SRD.*
 
 Bearded devils serve archdevils as shock troops, fighting shoulder-to-shoulder and reveling in the glory of battle. They respond with violence to any slight, real or imagined, gorging themselves on violence as their infernal saw-toothed glaives carve a path through their foes.
 
@@ -204,6 +204,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - "IDRotF"
 - "BMT"
 - "DoDk"
+- "VEoR"
 "image": "5. Mechanics/Bestiary/Fiend/token/bearded-devil.webp"
 ```
 ^statblock

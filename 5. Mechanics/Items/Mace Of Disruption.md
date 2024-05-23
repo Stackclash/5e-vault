@@ -9,6 +9,7 @@ tags:
   - item/weapon/simple/melee
 aliases:
   - Mace of Disruption
+one-hand-damage: 1d6 B
 ---
 # Mace of Disruption
 *Melee Weapon, major, rare (requires attunement)*  

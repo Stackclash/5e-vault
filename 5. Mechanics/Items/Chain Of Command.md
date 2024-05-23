@@ -12,6 +12,7 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Chain of Command
+one-hand-damage: 1d4 S
 ---
 # Chain of Command
 *Melee Weapon, rare, Crafted by (requires attunement)*  

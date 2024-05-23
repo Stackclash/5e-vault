@@ -96,8 +96,7 @@ His spells are almost all offensive, but he is always ready with counterspell to
   "name": "Ashsword"
 "source":
 - "SaF"
-"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Ash\
-  \ Marshal.png"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Ash%20Marshal.png"
 ```
 ^statblock
 

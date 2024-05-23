@@ -1,6 +1,12 @@
 ---
 obsidianUIMode: preview
 statblock: inline
+tags:
+  - compendium/src/5e/cos
+  - monster/cr/2
+  - monster/size/medium
+  - monster/type/humanoid/human
+  - monster/type/humanoid/shapechanger
 location: null
 condition: healthy
 image: 4. World Almanac/NPCs/img/danika-dorakova.webp
@@ -8,7 +14,6 @@ relationships:
   - Urwin Martikov|husband
   - Brom Martikov|son
   - Bray Martikov|son
-tags: null
 aliases:
   - Danika Dorakova
 pronounced: null

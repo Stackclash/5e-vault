@@ -10,6 +10,8 @@ tags:
   - item/weapon/simple/melee
 aliases:
   - Staff of the Demon Prince
+one-hand-damage: 1d6 B
+two-hand-damage: 1d8 B
 ---
 # Staff of the Demon Prince
 *Melee Weapon, artifact, Crafted Artifact (requires attunement by a spellcaster)*  

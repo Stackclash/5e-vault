@@ -8,6 +8,7 @@ tags:
   - item/tier/major
 aliases:
   - Dwarven Plate
+armorClass: 18
 ---
 # Dwarven Plate
 *Heavy Armor, major, very rare*  

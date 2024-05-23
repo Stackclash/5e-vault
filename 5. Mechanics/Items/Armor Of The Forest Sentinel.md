@@ -9,6 +9,7 @@ tags:
   - item/rarity/rare
 aliases:
   - Armor of the Forest Sentinel
+armorClass: 17
 ---
 # Armor of the Forest Sentinel
 *Heavy Armor, rare, Crafted by (requires attunement)*  

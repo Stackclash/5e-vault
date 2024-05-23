@@ -89,8 +89,7 @@ Being oldest, they are also the most reserved, taciturn. Even the young sapphire
   "name": "Psionic Shift (Costs 2 Actions)"
 "source":
 - "SaF"
-"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Large\
-  \ Sapphire Dragon.png"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Large%20Sapphire%20Dragon.png"
 ```
 ^statblock
 

@@ -9,6 +9,7 @@ tags:
   - item/rarity/rare
 aliases:
   - Permafrost Plate
+armorClass: 18
 ---
 # Permafrost Plate
 *Heavy Armor, rare, Crafted by (requires attunement)*  

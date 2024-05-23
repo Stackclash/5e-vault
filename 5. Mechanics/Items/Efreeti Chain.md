@@ -9,6 +9,7 @@ tags:
   - item/tier/major
 aliases:
   - Efreeti Chain
+armorClass: 16
 ---
 # Efreeti Chain
 *Heavy Armor, major, legendary (requires attunement)*  

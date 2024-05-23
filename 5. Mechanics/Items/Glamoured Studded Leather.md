@@ -8,6 +8,7 @@ tags:
   - item/tier/major
 aliases:
   - Glamoured Studded Leather
+armorClass: 12 + DEX
 ---
 # Glamoured Studded Leather
 *Light Armor, major, rare*  

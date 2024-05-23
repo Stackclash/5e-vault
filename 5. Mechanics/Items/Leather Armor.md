@@ -7,6 +7,7 @@ tags:
 aliases:
   - Leather Armor
 cost: 1000
+armorClass: 11 + DEX
 ---
 # Leather Armor
 *Light Armor*  

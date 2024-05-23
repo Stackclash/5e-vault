@@ -59,7 +59,7 @@ Deep gnomes are often encountered in the company of creatures from the Elemental
 - "desc": "The gnome's innate spellcasting ability is Intelligence (spell save DC\
     \ 11). It can innately cast the following spells, requiring no material components:\n\
     \nAt will: [[5. Mechanics/Spells/Nondetection.md|nondetection]] (self only)\n\
-    \n1/day each: [blindness/deafness](compendium/spells/blindness-deafness.md),\
+    \n1/day each: [[5. Mechanics/Spells/Blindness Deafness.md|blindness/deafness]],\
     \ [[5. Mechanics/Spells/Blur.md|blur]], [[5. Mechanics/Spells/Disguise Self.md|disguise self]]"
   "name": "Innate Spellcasting"
 - "desc": "The gnome has advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]])\

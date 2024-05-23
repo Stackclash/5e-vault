@@ -7,6 +7,7 @@ tags:
   - item/wondrous/wondrous-item
 aliases:
   - Flensing Claws (Large)
+one-hand-damage: 1d12 S
 ---
 # Flensing Claws (Large)
 *Other, unknown*  

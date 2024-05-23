@@ -1,12 +1,16 @@
 ---
 obsidianUIMode: preview
 statblock: inline
+tags:
+  - compendium/src/5e/cos
+  - monster/cr/1-8
+  - monster/size/medium
+  - monster/type/humanoid/human
 location: '[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]'
 condition: healthy
 image: null
 relationships:
   - Lady Fiona Wachter|mother
-tags: null
 aliases: []
 pronounced: null
 race: null

@@ -11,6 +11,7 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Lance of Isolation
+one-hand-damage: 1d12 P
 ---
 # Lance of Isolation
 *Melee Weapon, rare, Crafted by*  

@@ -8,6 +8,7 @@ tags:
   - item/rarity/varies
 aliases:
   - Grick Hide Coats
+armorClass: 12 + DEX
 ---
 # Grick Hide Coats
 *Light Armor, varies, Crafted by*  

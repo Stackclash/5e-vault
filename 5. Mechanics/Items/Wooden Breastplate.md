@@ -8,6 +8,7 @@ tags:
 aliases:
   - Wooden Breastplate
 cost: 15000
+armorClass: 14 + DEX (max of +2)
 ---
 # Wooden Breastplate
 *Medium Armor, Crafted by*  

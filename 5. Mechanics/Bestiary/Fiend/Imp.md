@@ -11,7 +11,7 @@ aliases:
   - Imp
 ---
 # [[5. Mechanics\Bestiary\Fiend\Imp.md|Imp]]
-*Source: Monster Manual p. 76, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD.*
+*Source: Monster Manual p. 76, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the SRD.*
 
 Imps are found throughout the Lower Planes, either running errands for their infernal masters, spying on rivals, or misleading and waylaying mortals. An imp will proudly serve an evil master of any kind, but it can't be relied on to carry out tasks with any speed or efficiency.
 
@@ -213,6 +213,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - "ToFW"
 - "BMT"
 - "DoDk"
+- "VEoR"
 "image": "5. Mechanics/Bestiary/Fiend/token/imp.webp"
 ```
 ^statblock

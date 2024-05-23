@@ -1,13 +1,17 @@
 ---
 obsidianUIMode: preview
 statblock: inline
+tags:
+  - compendium/src/5e/cos
+  - monster/cr/8
+  - monster/size/medium
+  - monster/type/humanoid/human
 location: >-
   [[4. World Almanac/Places of Interest/Van Richten's Tower.md|Van Richten's
   Tower]]
 condition: healthy
 image: 4. World Almanac/NPCs/img/ezmerelda-davenir.webp
 relationships: []
-tags: null
 aliases: []
 pronounced: ez-meh-REL-da dah-veh-NEER
 race: '[[5. Mechanics/Races/Human.md|Human]]'
@@ -160,7 +164,7 @@ await dv.view("npcRelationships", { current: dv.current() })
 "subtype": "human"
 "alignment": "Chaotic Good"
 "ac": !!int "17"
-"ac_class": "[+1 studded leather armor](compendium/items/1-armor.md)"
+"ac_class": "[[5. Mechanics/Items/1 Armor.md|+1 studded leather armor]]"
 "hp": !!int "82"
 "hit_dice": "11d8 + 33"
 "stats":

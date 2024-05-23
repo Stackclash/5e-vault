@@ -11,6 +11,8 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Sword of Answering (Rebutter)
+one-hand-damage: 1d8 S
+two-hand-damage: 1d10 S
 ---
 # Sword of Answering (Rebutter)
 *Melee Weapon, major, legendary (requires attunement by a neutral good creature)*  

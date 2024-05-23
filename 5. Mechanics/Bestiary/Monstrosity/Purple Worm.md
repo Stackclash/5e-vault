@@ -13,7 +13,7 @@ aliases:
   - Purple Worm
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Purple Worm.md|Purple Worm]]
-*Source: Monster Manual p. 255. Available in the SRD.*
+*Source: Monster Manual p. 255, Vecna: Eve of Ruin. Available in the SRD.*
 
 The massive burrowing monster known as the purple worm terrorizes the creatures of the Underdark as it chews through solid rock in pursuit of prey. A dimwitted, ravenous force of nature, this creature regards anything it encounters as food.
 
@@ -89,6 +89,7 @@ A burrowing purple worm constantly creates new tunnels throughout the Underdark,
 - "PaBTSO"
 - "ToFW"
 - "DoDk"
+- "VEoR"
 "image": "5. Mechanics/Bestiary/Monstrosity/token/purple-worm.webp"
 ```
 ^statblock

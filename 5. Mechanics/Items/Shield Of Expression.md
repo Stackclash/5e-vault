@@ -8,6 +8,7 @@ tags:
   - item/tier/minor
 aliases:
   - Shield of Expression
+armorClass: 2
 ---
 # Shield of Expression
 *Shield, minor, common*  

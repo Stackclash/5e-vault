@@ -10,6 +10,7 @@ tags:
 aliases:
   - Greatsword
 cost: 5000
+one-hand-damage: 2d6 S
 ---
 # Greatsword
 *Melee Weapon*  

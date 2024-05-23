@@ -9,7 +9,8 @@
         "XGE",
         "TCE",
         "ERLW",
-        "MTF"
+        "MTF",
+        "VEoR"
     ],
     "paths": {
         "rules": "/compendium/rules/"
@@ -50,7 +51,8 @@
             "z_Extra/ttrpg-convert/homebrew/MCDM Productions; Strongholds and Followers.json"
         ],
         "adventure": [
-            "CoS"
+            "CoS",
+            "VEoR"
         ],
         "book": [
             "VRGR",

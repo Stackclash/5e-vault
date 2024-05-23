@@ -7,6 +7,7 @@ tags:
   - item/rarity/rare
 aliases:
   - Shield of Far Sight
+armorClass: 2
 ---
 # Shield of Far Sight
 *Shield, rare*  

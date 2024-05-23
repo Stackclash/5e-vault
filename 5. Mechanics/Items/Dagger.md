@@ -10,6 +10,8 @@ tags:
 aliases:
   - Dagger
 cost: 200
+one-hand-damage: 1d4 P
+range: 20/60
 ---
 # Dagger
 *Melee Weapon*  

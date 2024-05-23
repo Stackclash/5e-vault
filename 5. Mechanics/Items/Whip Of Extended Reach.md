@@ -12,6 +12,7 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Whip of Extended Reach
+one-hand-damage: 1d4 S
 ---
 # Whip of Extended Reach
 *Melee Weapon, rare, Crafted by (requires attunement)*  

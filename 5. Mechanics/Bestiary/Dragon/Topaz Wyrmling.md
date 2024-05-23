@@ -64,8 +64,7 @@ They're approachable and easy to talk to as long as you don't mind never getting
   "name": "Bite"
 "source":
 - "SaF"
-"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Medium\
-  \ Topaz Dragon.png"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Medium%20Topaz%20Dragon.png"
 ```
 ^statblock
 

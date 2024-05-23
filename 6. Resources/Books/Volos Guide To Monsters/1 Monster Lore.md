@@ -237,7 +237,7 @@ Unless otherwise indicated, an alternative ability has the same range as the eye
 - **Fear Ray.** [[5. Mechanics/Spells/Gaseous Form.md\|gaseous form]] (self or willing creature only), [[5. Mechanics/Spells/Moonbeam.md\|moonbeam]]  
 - **Paralyzing Ray.** [[5. Mechanics/Spells/Modify Memory.md\|modify memory]], [[5. Mechanics/Spells/Silence.md\|silence]] (1 minute)  
 - **Petrification Ray.** [[5. Mechanics/Spells/Ottos Irresistible Dance.md\|Otto's irresistible dance]] (1 minute), [[5. Mechanics/Spells/Wall Of Ice.md\|wall of ice]] (1 minute; one 10-foot-square panel)  
-- **Sleep Ray.** [blindness/deafness](compendium/spells/blindness-deafness.md), [[5. Mechanics/Spells/Misty Step.md\|misty step]] (self or willing creature only)   
+- **Sleep Ray.** [[5. Mechanics/Spells/Blindness Deafness.md\|blindness/deafness]], [[5. Mechanics/Spells/Misty Step.md\|misty step]] (self or willing creature only)   
 - **Slowing Ray.** [[5. Mechanics/Spells/Bestow Curse.md\|bestow curse]] (1 minute), [[5. Mechanics/Spells/Sleet Storm.md\|sleet storm]] (one 10-foot-cube)  
 - **Telekinesis Ray.** [[5. Mechanics/Spells/Geas.md\|geas]] (1 hour), [[5. Mechanics/Spells/Wall Of Force.md\|wall of force]] (1 minute; one 10-foot-square panel)  
 

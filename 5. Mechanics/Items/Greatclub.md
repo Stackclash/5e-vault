@@ -8,6 +8,7 @@ tags:
 aliases:
   - Greatclub
 cost: 20
+one-hand-damage: 1d8 B
 ---
 # Greatclub
 *Melee Weapon*  

@@ -1,13 +1,17 @@
 ---
 obsidianUIMode: preview
 statblock: inline
+tags:
+  - compendium/src/5e/cos
+  - monster/cr/1-4
+  - monster/size/medium
+  - monster/type/humanoid/mongrelfolk
 location: >-
   [[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of
   Saint Markovia]]
 condition: healthy
 image: 4. World Almanac/NPCs/img/cyrus-belview.webp
 relationships: []
-tags: null
 aliases: []
 pronounced: SY-rus BEL-view
 race: '[[5. Mechanics/Races/Human.md|Human]]'

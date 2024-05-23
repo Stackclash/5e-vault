@@ -9,6 +9,7 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Slaad Doublet
+armorClass: 12 + DEX (max of +2)
 ---
 # Slaad Doublet
 *Medium Armor, very rare, Crafted by (requires attunement)*  

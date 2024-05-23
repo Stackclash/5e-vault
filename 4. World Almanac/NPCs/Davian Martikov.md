@@ -1,6 +1,12 @@
 ---
 obsidianUIMode: preview
 statblock: inline
+tags:
+  - compendium/src/5e/cos
+  - monster/cr/2
+  - monster/size/medium
+  - monster/type/humanoid/human
+  - monster/type/humanoid/shapechanger
 location: null
 condition: healthy
 image: 4. World Almanac/NPCs/img/davian-martikov.webp
@@ -9,7 +15,6 @@ relationships:
   - Stefania Martikov|daughter
   - Adrian Martikov|son
   - Elvir Martikov|son
-tags: null
 aliases:
   - Davian Martikov
 pronounced: null

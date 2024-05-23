@@ -12,6 +12,7 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Death's Grip
+one-hand-damage: 1d10 P
 ---
 # Death's Grip
 *Melee Weapon, very rare, Crafted by*  

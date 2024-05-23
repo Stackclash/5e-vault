@@ -15,8 +15,8 @@ aliases:
 
 | dice: d100 | Magic Item |
 |------------|------------|
-| 01-15 | [+1 weapon](compendium/items/1-weapon.md) |
-| 16-18 | [+1 shield](compendium/items/1-shield.md) |
+| 01-15 | [[5. Mechanics/Items/1 Weapon.md\|+1 weapon]] |
+| 16-18 | [[5. Mechanics/Items/1 Shield.md\|+1 shield]] |
 | 19-21 | [[5. Mechanics/Items/Sentinel Shield.md\|Sentinel shield]] |
 | 22-23 | [[5. Mechanics/Items/Amulet Of Proof Against Detection And Location.md\|Amulet of proof against detection and location]] |
 | 24-25 | [[5. Mechanics/Items/Boots Of Elvenkind.md\|Boots of elvenkind]] |
@@ -30,14 +30,14 @@ aliases:
 | 40-41 | [[5. Mechanics/Items/Hat Of Disguise.md\|Hat of disguise]] |
 | 42-43 | [[5. Mechanics/Items/Javelin Of Lightning.md\|Javelin of lightning]] |
 | 44-45 | [[5. Mechanics/Items/Pearl Of Power.md\|Pearl of power]] |
-| 46-47 | [+1 rod of the pact keeper](compendium/items/1-rod-of-the-pact-keeper.md) |
+| 46-47 | [[5. Mechanics/Items/1 Rod Of The Pact Keeper.md\|+1 rod of the pact keeper]] |
 | 48-49 | [[5. Mechanics/Items/Slippers Of Spider Climbing.md\|Slippers of spider climbing]] |
 | 50-51 | [[5. Mechanics/Items/Staff Of The Adder.md\|Staff of the adder]] |
 | 52-53 | [[5. Mechanics/Items/Staff Of The Python.md\|Staff of the python]] |
 | 54-55 | [[5. Mechanics/Items/Sword Of Vengeance.md\|Sword of vengeance]] |
 | 56-57 | [[5. Mechanics/Items/Trident Of Fish Command.md\|Trident of fish command]] |
 | 58-59 | [[5. Mechanics/Items/Wand Of Magic Missiles.md\|Wand of magic missiles]] |
-| 60-61 | [+1 wand of the war mage](compendium/items/1-wand-of-the-war-mage.md) |
+| 60-61 | [[5. Mechanics/Items/1 Wand Of The War Mage.md\|+1 wand of the war mage]] |
 | 62-63 | [[5. Mechanics/Items/Wand Of Web.md\|Wand of web]] |
 | 64-65 | [[5. Mechanics/Items/Weapon Of Warning.md\|Weapon of warning]] |
 | 66 | [[5. Mechanics/Items/Adamantine Armor.md\|Adamantine chain mail]] |

@@ -12,7 +12,7 @@ aliases:
   - Drow Mage
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Drow Mage.md|Drow Mage]]
-*Source: Monster Manual p. 129*
+*Source: Monster Manual p. 129, Vecna: Eve of Ruin*
 
 ## Drow
 
@@ -147,6 +147,7 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
 - "IDRotF"
 - "CM"
 - "WBtW"
+- "VEoR"
 "image": "5. Mechanics/Bestiary/Humanoid/token/drow-mage.webp"
 ```
 ^statblock

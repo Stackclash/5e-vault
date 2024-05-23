@@ -1,6 +1,12 @@
 ---
 obsidianUIMode: preview
 statblock: inline
+tags:
+  - compendium/src/5e/cos
+  - monster/cr/2
+  - monster/size/small
+  - monster/type/humanoid/human
+  - monster/type/humanoid/shapechanger
 location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'
 condition: healthy
 image: 4. World Almanac/NPCs/img/brom-martikov.webp
@@ -8,7 +14,6 @@ relationships:
   - Urwin Martikov|father
   - Danika Dorakova|mother
   - Bray Martikov|brother
-tags: null
 aliases: []
 pronounced: BROM MAR-ti-kov
 race: '[[5. Mechanics/Races/Human.md|Human]]'

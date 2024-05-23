@@ -9,6 +9,8 @@ tags:
   - item/wondrous/staff
 aliases:
   - Gulthias Staff
+one-hand-damage: 1d6 B
+two-hand-damage: 1d8 B
 ---
 # Gulthias Staff
 *Staff, rare (requires attunement)*  

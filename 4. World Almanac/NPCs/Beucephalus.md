@@ -1,11 +1,15 @@
 ---
 obsidianUIMode: preview
 statblock: inline
+tags:
+  - compendium/src/5e/cos
+  - monster/cr/3
+  - monster/size/large
+  - monster/type/fiend
 location: null
 condition: healthy
 image: 4. World Almanac/NPCs/img/beucephalus.webp
 relationships: []
-tags: null
 aliases: []
 pronounced: null
 race: null

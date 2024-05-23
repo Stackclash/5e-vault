@@ -79,8 +79,7 @@ The Pillar can imprison up to four creatures, but it doesn't have to. If there's
   "name": "Reform"
 "source":
 - "SaF"
-"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Pillar\
-  \ of Water.png"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Pillar%20of%20Water.png"
 ```
 ^statblock
 

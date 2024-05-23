@@ -11,6 +11,8 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Sword of Answering (Last Quip)
+one-hand-damage: 1d8 S
+two-hand-damage: 1d10 S
 ---
 # Sword of Answering (Last Quip)
 *Melee Weapon, major, legendary (requires attunement by a chaotic neutral creature)*  

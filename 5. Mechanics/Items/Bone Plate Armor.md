@@ -8,6 +8,7 @@ tags:
 aliases:
   - Bone Plate Armor
 cost: 150000
+armorClass: 18
 ---
 # Bone Plate Armor
 *Heavy Armor, Crafted by*  

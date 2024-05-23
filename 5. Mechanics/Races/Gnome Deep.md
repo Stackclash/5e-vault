@@ -22,7 +22,7 @@ aliases:
 You have an innate ability to cast the following spells, requiring no material components:
 
 - **At will.** [[5. Mechanics/Spells/Nondetection.md\|nondetection]] (self only)  
-- **1/day each.** [blindness/deafness](compendium/spells/blindness-deafness.md), [[5. Mechanics/Spells/Blur.md\|blur]], [[5. Mechanics/Spells/Disguise Self.md\|disguise self]]  
+- **1/day each.** [[5. Mechanics/Spells/Blindness Deafness.md\|blindness/deafness]], [[5. Mechanics/Spells/Blur.md\|blur]], [[5. Mechanics/Spells/Disguise Self.md\|disguise self]]  
 
 Intelligence is your spellcasting ability for these spells.
 

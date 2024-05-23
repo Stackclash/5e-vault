@@ -11,6 +11,7 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Debilitating Whip
+one-hand-damage: 1d4 S
 ---
 # Debilitating Whip
 *Melee Weapon, rare, Crafted by*  

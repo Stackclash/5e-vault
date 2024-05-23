@@ -7,6 +7,7 @@ tags:
 aliases:
   - Plate Armor
 cost: 150000
+armorClass: 18
 ---
 # Plate Armor
 *Heavy Armor*  

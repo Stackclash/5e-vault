@@ -9,6 +9,7 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Plate of the Pursuer
+armorClass: 18
 ---
 # Plate of the Pursuer
 *Heavy Armor, very rare, Crafted by (requires attunement)*  

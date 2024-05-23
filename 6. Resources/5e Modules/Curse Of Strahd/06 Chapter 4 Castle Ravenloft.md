@@ -1113,9 +1113,9 @@ The arrow slits of the tower are 4 inches wide and 2 feet tall, and the walls of
 
 #### Treasure
 
-The ground floor of the [[5. Mechanics/Items/Daerns Instant Fortress.md\|Daern's instant fortress]] contains 50,000 cp, 10,000 sp, 10,000 gp, 1,000 pp, 15 assorted gems (100 gp each), and a [+2 shield](compendium/items/2-shield.md) emblazoned with a stylized silver dragon that is the emblem of the Order of the Silver Dragon (see chapter 7). The shield whispers warnings to its bearer, granting a +2 bonus to initiative if the bearer isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]].
+The ground floor of the [[5. Mechanics/Items/Daerns Instant Fortress.md\|Daern's instant fortress]] contains 50,000 cp, 10,000 sp, 10,000 gp, 1,000 pp, 15 assorted gems (100 gp each), and a [[5. Mechanics/Items/2 Shield.md\|+2 shield]] emblazoned with a stylized silver dragon that is the emblem of the Order of the Silver Dragon (see chapter 7). The shield whispers warnings to its bearer, granting a +2 bonus to initiative if the bearer isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]].
 
-The upper floor of the tower contains 10 pieces of jewelry (250 gp each) in a red velvet sack, an [[5. Mechanics/Items/Alchemy Jug.md\|alchemy jug]], a [[5. Mechanics/Items/Helm Of Brilliance.md\|helm of brilliance]], a [rod of the pact keeper, +1](compendium/items/1-rod-of-the-pact-keeper.md), and an unlocked wooden coffer with four compartments, each one containing a [[5. Mechanics/Items/Potion Of Greater Healing.md\|potion of greater healing]].
+The upper floor of the tower contains 10 pieces of jewelry (250 gp each) in a red velvet sack, an [[5. Mechanics/Items/Alchemy Jug.md\|alchemy jug]], a [[5. Mechanics/Items/Helm Of Brilliance.md\|helm of brilliance]], a [[5. Mechanics/Items/1 Rod Of The Pact Keeper.md\|rod of the pact keeper, +1]], and an unlocked wooden coffer with four compartments, each one containing a [[5. Mechanics/Items/Potion Of Greater Healing.md\|potion of greater healing]].
 
 #### Fortunes of Ravenloft
 
@@ -1369,7 +1369,7 @@ Not visible from the entrance is a small table behind the cauldron on which sits
 > 
 > 1st level: [[5. Mechanics/Spells/Burning Hands.md\|burning hands]], [[5. Mechanics/Spells/Charm Person.md\|charm person]], [[5. Mechanics/Spells/Detect Magic.md\|detect magic]], [[5. Mechanics/Spells/Find Familiar.md\|find familiar]], [[5. Mechanics/Spells/Fog Cloud.md\|fog cloud]], [[5. Mechanics/Spells/Mage Armor.md\|mage armor]], [[5. Mechanics/Spells/Protection From Evil And Good.md\|protection from evil and good]], [[5. Mechanics/Spells/Ray Of Sickness.md\|ray of sickness]], [[5. Mechanics/Spells/Sleep.md\|sleep]], [[5. Mechanics/Spells/Tashas Hideous Laughter.md\|Tasha's hideous laughter]], [[5. Mechanics/Spells/Unseen Servant.md\|unseen servant]], [[5. Mechanics/Spells/Witch Bolt.md\|witch bolt]]
 > 
-> 2nd level: [[5. Mechanics/Spells/Alter Self.md\|alter self]], [[5. Mechanics/Spells/Arcane Lock.md\|arcane lock]], [[5. Mechanics/Spells/Cloud Of Daggers.md\|cloud of daggers]], [[5. Mechanics/Spells/Darkness.md\|darkness]], [enlarge/reduce](compendium/spells/enlarge-reduce.md), [[5. Mechanics/Spells/Invisibility.md\|invisibility]], [[5. Mechanics/Spells/Knock.md\|knock]], [[5. Mechanics/Spells/Misty Step.md\|misty step]]
+> 2nd level: [[5. Mechanics/Spells/Alter Self.md\|alter self]], [[5. Mechanics/Spells/Arcane Lock.md\|arcane lock]], [[5. Mechanics/Spells/Cloud Of Daggers.md\|cloud of daggers]], [[5. Mechanics/Spells/Darkness.md\|darkness]], [[5. Mechanics/Spells/Enlarge Reduce.md\|enlarge/reduce]], [[5. Mechanics/Spells/Invisibility.md\|invisibility]], [[5. Mechanics/Spells/Knock.md\|knock]], [[5. Mechanics/Spells/Misty Step.md\|misty step]]
 ^23d
 
 ### K57. Tower Roof
@@ -1788,7 +1788,7 @@ This cell is linked to a teleport trap in area K73.
 
 ##### Treasure
 
-The source of the underwater glow is a sentient lawful good [+1 shortsword](compendium/items/1-weapon.md) (Intelligence 11, Wisdom 13, Charisma 13). It has hearing and normal vision out to a range of 120 feet. It communicates by transmitting emotion to the creature carrying or wielding it.
+The source of the underwater glow is a sentient lawful good [[5. Mechanics/Items/1 Weapon.md\|+1 shortsword]] (Intelligence 11, Wisdom 13, Charisma 13). It has hearing and normal vision out to a range of 120 feet. It communicates by transmitting emotion to the creature carrying or wielding it.
 
 The sword's purpose is to fight evil. The sword has the following additional properties:
 
@@ -2675,7 +2675,7 @@ The coffin opens easily to the touch of a lawful good creature. Otherwise, openi
 
 #### Treasure
 
-Sergei's embalmed body is clothed in shining [+2 plate armor](compendium/items/2-armor.md).
+Sergei's embalmed body is clothed in shining [[5. Mechanics/Items/2 Armor.md\|+2 plate armor]].
 
 #### Fortunes of Ravenloft
 

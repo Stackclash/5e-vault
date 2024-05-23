@@ -8,6 +8,7 @@ tags:
   - item/tier/major
 aliases:
   - +3 Shield
+armorClass: 2
 ---
 # +3 Shield
 *Shield, major, very rare*  

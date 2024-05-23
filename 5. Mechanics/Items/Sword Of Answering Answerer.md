@@ -11,6 +11,8 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Sword of Answering (Answerer)
+one-hand-damage: 1d8 S
+two-hand-damage: 1d10 S
 ---
 # Sword of Answering (Answerer)
 *Melee Weapon, major, legendary (requires attunement by a chaotic good creature)*  

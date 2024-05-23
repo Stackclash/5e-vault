@@ -11,6 +11,8 @@ tags:
   - item/weapon/simple/melee
 aliases:
   - Fire Dagger
+one-hand-damage: 1d4 F
+range: 20/60
 ---
 # Fire Dagger
 *Melee Weapon, uncommon, Crafted by*  

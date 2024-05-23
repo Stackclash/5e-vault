@@ -1,12 +1,16 @@
 ---
 obsidianUIMode: preview
 statblock: inline
+tags:
+  - compendium/src/5e/cos
+  - monster/cr/5
+  - monster/size/medium
+  - monster/type/undead
 location: '[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]'
 condition: healthy
 image: 4. World Almanac/NPCs/img/anastrasya-karelova.webp
 relationships:
   - Strahd Von Zarovich|cousin
-tags: null
 aliases: []
 pronounced: ah-nah-STRAH-sya ka-REL-o-va
 race: '[[5. Mechanics/Races/Human.md|Human]]'

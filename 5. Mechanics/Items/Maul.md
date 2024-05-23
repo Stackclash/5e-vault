@@ -10,6 +10,7 @@ tags:
 aliases:
   - Maul
 cost: 1000
+one-hand-damage: 2d6 B
 ---
 # Maul
 *Melee Weapon*  

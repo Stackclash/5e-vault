@@ -1,11 +1,16 @@
 ---
 obsidianUIMode: preview
 statblock: inline
+tags:
+  - compendium/src/5e/cos
+  - monster/cr/11
+  - monster/size/medium
+  - monster/type/humanoid/human
+  - monster/type/humanoid/shapechanger
 location: '[[4. World Almanac/Places of Interest/Ruins of Berez.md|Ruins of Berez]]'
 condition: healthy
 image: 4. World Almanac/NPCs/img/baba-lysaga.webp
 relationships: []
-tags: null
 aliases: []
 pronounced: BAH-bah LEE-sah-gah
 race: '[[5. Mechanics/Races/Human.md|Human]]'

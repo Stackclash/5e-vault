@@ -10,6 +10,7 @@ tags:
 aliases:
   - Lance
 cost: 1000
+one-hand-damage: 1d12 P
 ---
 # Lance
 *Melee Weapon*  

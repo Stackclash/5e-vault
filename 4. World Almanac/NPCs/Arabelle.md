@@ -1,13 +1,17 @@
 ---
 obsidianUIMode: preview
 statblock: inline
+tags:
+  - compendium/src/5e/cos
+  - monster/cr/0
+  - monster/size/medium
+  - monster/type/humanoid/human
 location: '[[4. World Almanac/Places of Interest/Lake Zarovich.md|Lake Zarovich]]'
 condition: healthy
 image: null
 relationships:
   - Luvash|father
   - Arrigal|niece
-tags: null
 aliases: []
 pronounced: null
 race: '[[5. Mechanics/Races/Human.md|Human]]'

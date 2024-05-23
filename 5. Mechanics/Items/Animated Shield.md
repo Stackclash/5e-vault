@@ -9,6 +9,7 @@ tags:
   - item/tier/major
 aliases:
   - Animated Shield
+armorClass: 2
 ---
 # Animated Shield
 *Shield, major, very rare (requires attunement)*  

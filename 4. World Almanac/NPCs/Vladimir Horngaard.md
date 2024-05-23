@@ -1,11 +1,15 @@
 ---
 obsidianUIMode: preview
 statblock: inline
+tags:
+  - compendium/src/5e/cos
+  - monster/cr/7
+  - monster/size/medium
+  - monster/type/undead
 location: null
 condition: healthy
 image: 4. World Almanac/NPCs/img/vladimir-horngaard.webp
 relationships: []
-tags: null
 aliases: []
 pronounced: null
 race: null

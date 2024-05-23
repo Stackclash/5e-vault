@@ -11,6 +11,8 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Hammer of the Eternal Quake
+one-hand-damage: 1d8x>7 B
+two-hand-damage: 1d10x>9 B
 ---
 # Hammer of the Eternal Quake
 *Melee Weapon, legendary, Crafted by (requires attunement)*  

@@ -9,6 +9,8 @@ tags:
 aliases:
   - Battleaxe
 cost: 1000
+one-hand-damage: 1d8 S
+two-hand-damage: 1d10 S
 ---
 # Battleaxe
 *Melee Weapon*  

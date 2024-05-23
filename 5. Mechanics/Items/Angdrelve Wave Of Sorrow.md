@@ -11,6 +11,8 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Angdrelve (Wave of Sorrow)
+one-hand-damage: 2d6 S
+two-hand-damage: 3d6 S
 ---
 # Angdrelve (Wave of Sorrow)
 *Melee Weapon, artifact (requires attunement)*  

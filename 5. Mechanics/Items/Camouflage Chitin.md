@@ -8,6 +8,7 @@ tags:
   - item/rarity/rare
 aliases:
   - Camouflage Chitin
+armorClass: 13 + DEX (max of +2)
 ---
 # Camouflage Chitin
 *Medium Armor, rare, Crafted by*  

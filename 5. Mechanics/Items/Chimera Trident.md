@@ -12,6 +12,9 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Chimera Trident
+one-hand-damage: 1d6 P
+two-hand-damage: 1d8 P
+range: 20/60
 ---
 # Chimera Trident
 *Melee Weapon, rare, Crafted by (requires attunement)*  

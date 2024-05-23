@@ -10,6 +10,7 @@ tags:
   - item/weapon/simple/melee
 aliases:
   - Sickle of Chaos
+one-hand-damage: 1d4 S
 ---
 # Sickle of Chaos
 *Melee Weapon, rare, Crafted by (requires attunement)*  

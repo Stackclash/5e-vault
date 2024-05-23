@@ -50,7 +50,7 @@ Warspeakers seek conflict constantly, flying into a frothing rage at the slighte
     \ [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
     \n1st level (4 slots): [[5. Mechanics/Spells/Cure Wounds.md|cure wounds]], [[5. Mechanics/Spells/Guiding Bolt.md|guiding\
     \ bolt]], [[5. Mechanics/Spells/Inflict Wounds.md|inflict wounds]]\n\
-    \n2nd level (3 slots): [blindness/deafness](compendium/spells/blindness-deafness.md),\
+    \n2nd level (3 slots): [[5. Mechanics/Spells/Blindness Deafness.md|blindness/deafness]],\
     \ [[5. Mechanics/Spells/Spiritual Weapon.md|spiritual weapon]] (greataxe)\n\n3rd\
     \ level (2 slots): [[5. Mechanics/Spells/Bestow Curse.md|bestow curse]], [[5. Mechanics/Spells/Spirit Guardians.md|spirit\
     \ guardians]]"
@@ -75,8 +75,7 @@ Warspeakers seek conflict constantly, flying into a frothing rage at the slighte
   "name": "Spiked Club"
 "source":
 - "SaF"
-"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/White\
-  \ Tusk Warspeaker.png"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/White%20Tusk%20Warspeaker.png"
 ```
 ^statblock
 

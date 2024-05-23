@@ -7,6 +7,7 @@ tags:
   - item/rarity/unknown
 aliases:
   - Survival Mantle
+armorClass: 15 + DEX (max of +2)
 ---
 # Survival Mantle
 *Medium Armor, unknown*  

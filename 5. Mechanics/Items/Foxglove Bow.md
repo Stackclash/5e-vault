@@ -12,6 +12,8 @@ tags:
   - item/weapon/martial/ranged
 aliases:
   - Foxglove Bow
+one-hand-damage: 1d8 P
+range: 150/600
 ---
 # Foxglove Bow
 *Ranged Weapon, very rare (requires attunement by a chaotic creature)*  

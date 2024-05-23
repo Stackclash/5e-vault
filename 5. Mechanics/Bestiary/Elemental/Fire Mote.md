@@ -64,8 +64,7 @@ The fire mote has an instinctive awareness of which enemies on the battlefield r
   "name": "Touch"
 "source":
 - "SaF"
-"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Fire\
-  \ Mote.png"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Fire%20Mote.png"
 ```
 ^statblock
 

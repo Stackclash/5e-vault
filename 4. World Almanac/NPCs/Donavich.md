@@ -1,12 +1,16 @@
 ---
 obsidianUIMode: preview
 statblock: inline
+tags:
+  - compendium/src/5e/cos
+  - monster/cr/1-4
+  - monster/size/medium
+  - monster/type/humanoid/human
 location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
 condition: healthy
 image: 4. World Almanac/NPCs/img/donavich.webp
 relationships:
   - Doru|son
-tags: null
 aliases: []
 pronounced: DON-a-vich
 race: '[[5. Mechanics/Races/Human.md|Human]]'

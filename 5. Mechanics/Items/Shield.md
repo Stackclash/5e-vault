@@ -7,6 +7,7 @@ tags:
 aliases:
   - Shield
 cost: 1000
+armorClass: 2
 ---
 # Shield
 *Shield*  

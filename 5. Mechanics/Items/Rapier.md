@@ -9,6 +9,7 @@ tags:
 aliases:
   - Rapier
 cost: 2500
+one-hand-damage: 1d8 P
 ---
 # Rapier
 *Melee Weapon*  

@@ -10,6 +10,8 @@ tags:
 aliases:
   - Light Crossbow
 cost: 2500
+one-hand-damage: 1d8 P
+range: 80/320
 ---
 # Light Crossbow
 *Ranged Weapon*  

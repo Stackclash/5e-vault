@@ -11,6 +11,8 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Sword of Answering (Squelcher)
+one-hand-damage: 1d8 S
+two-hand-damage: 1d10 S
 ---
 # Sword of Answering (Squelcher)
 *Melee Weapon, major, legendary (requires attunement by a neutral evil creature)*  

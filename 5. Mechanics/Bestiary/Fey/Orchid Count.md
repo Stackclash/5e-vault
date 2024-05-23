@@ -91,8 +91,7 @@ The Count relies on his Now You See Me... Now You Don't... combo to get in and o
   "name": "Longbow"
 "source":
 - "SaF"
-"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Orchid\
-  \ Count.png"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Orchid%20Count.png"
 ```
 ^statblock
 

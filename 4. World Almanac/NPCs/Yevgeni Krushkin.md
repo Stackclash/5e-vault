@@ -1,11 +1,15 @@
 ---
 obsidianUIMode: preview
 statblock: inline
+tags:
+  - compendium/src/5e/cos
+  - monster/cr/1-2
+  - monster/size/medium
+  - monster/type/humanoid/human
 location: null
 condition: healthy
 image: 4. World Almanac/NPCs/img/053-cos05-06.webp
 relationships: []
-tags: null
 aliases: []
 pronounced: null
 race: null

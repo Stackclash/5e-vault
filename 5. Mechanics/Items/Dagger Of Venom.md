@@ -11,6 +11,8 @@ tags:
   - item/weapon/simple/melee
 aliases:
   - Dagger of Venom
+one-hand-damage: 1d4 P
+range: 20/60
 ---
 # Dagger of Venom
 *Melee Weapon, major, rare*  

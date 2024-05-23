@@ -32,7 +32,7 @@ The Undead lets you choose from an expanded list of spells when you learn a warl
 | Spell Level | Spells |
 |-------------|--------|
 | 1st | [[5. Mechanics/Spells/Bane.md\|bane]], [[5. Mechanics/Spells/False Life.md\|false life]] |
-| 2nd | [blindness/deafness](compendium/spells/blindness-deafness.md), [[5. Mechanics/Spells/Phantasmal Force.md\|phantasmal force]] |
+| 2nd | [[5. Mechanics/Spells/Blindness Deafness.md\|blindness/deafness]], [[5. Mechanics/Spells/Phantasmal Force.md\|phantasmal force]] |
 | 3rd | [[5. Mechanics/Spells/Phantom Steed.md\|phantom steed]], [[5. Mechanics/Spells/Speak With Dead.md\|speak with dead]] |
 | 4th | [[5. Mechanics/Spells/Death Ward.md\|death ward]], [[5. Mechanics/Spells/Greater Invisibility.md\|greater invisibility]] |
 | 5th | [[5. Mechanics/Spells/Antilife Shell.md\|antilife shell]], [[5. Mechanics/Spells/Cloudkill.md\|cloudkill]] |

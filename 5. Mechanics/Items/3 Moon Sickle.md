@@ -9,6 +9,7 @@ tags:
   - item/weapon/simple/melee
 aliases:
   - +3 Moon Sickle
+one-hand-damage: 1d4 S
 ---
 # +3 Moon Sickle
 *Melee Weapon, very rare (requires attunement by a druid or ranger)*  

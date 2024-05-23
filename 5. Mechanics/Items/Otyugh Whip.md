@@ -11,6 +11,7 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Otyugh Whip
+one-hand-damage: 1d4 S
 ---
 # Otyugh Whip
 *Melee Weapon, rare, Crafted by*  

@@ -9,6 +9,8 @@ tags:
   - item/weapon/martial/ranged
 aliases:
   - Revolver
+one-hand-damage: 2d8 P
+range: 40/120
 ---
 # Revolver
 *Ranged Weapon*  

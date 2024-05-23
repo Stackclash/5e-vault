@@ -9,6 +9,8 @@ tags:
   - item/wondrous/staff
 aliases:
   - Staff of Birdcalls
+one-hand-damage: 1d6 B
+two-hand-damage: 1d8 B
 ---
 # Staff of Birdcalls
 *Staff, minor, common*  

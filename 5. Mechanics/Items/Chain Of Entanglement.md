@@ -12,6 +12,7 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Chain of Entanglement
+one-hand-damage: 1d4 S
 ---
 # Chain of Entanglement
 *Melee Weapon, rare, Crafted by (requires attunement)*  

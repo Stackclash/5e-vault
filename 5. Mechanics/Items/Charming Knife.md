@@ -11,6 +11,8 @@ tags:
   - item/weapon/simple/melee
 aliases:
   - Charming Knife
+one-hand-damage: 1d4 P
+range: 20/60
 ---
 # Charming Knife
 *Melee Weapon, rare, Crafted by*  

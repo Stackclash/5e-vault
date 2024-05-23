@@ -54,7 +54,7 @@ You cannot gain the benefit of training from armor, shields, or weapons you are 
 
 **Light Armor Training:** You have advantage on Dexterity checks while wearing light armor.
 
-**Medium Armor Training:** You gain 5 feet of extra movement while wearing medium armor. This movement does not provoke attacks of opportunity ^[In other words, you can move one more square, and you can choose any one square in your movement that you can leave without provoking. ].
+**Medium Armor Training:** You gain 5 feet of extra movement while wearing medium armor. This movement does not provoke attacks of opportunity ^[[04 The Keep.md#^units-raised-by-keep\|In other words, you can move one more square, and you can choose any one square in your movement that you can leave without provoking. ].
 
 **Heavy Armor Training:** You learn to present your most heavily armored facing to your foes. Ranged attacks have disadvantage against you as crossbow bolts bounce and acid arrows splash harmlessly (sometimes) off your armor.
 
@@ -74,7 +74,7 @@ You cannot gain the benefit of training from armor, shields, or weapons you are 
 
 **Units Raised by Keep**
 
-`dice: [[04 The Keep.md#^units-raised-by-keep]]`
+`dice: []]`
 
 | dice: d100 | Unite Type |
 |------------|------------|

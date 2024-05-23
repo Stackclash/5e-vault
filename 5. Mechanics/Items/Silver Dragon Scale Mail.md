@@ -9,6 +9,7 @@ tags:
   - item/tier/major
 aliases:
   - Silver Dragon Scale Mail
+armorClass: 14 + DEX (max of +2)
 ---
 # Silver Dragon Scale Mail
 *Medium Armor, major, very rare (requires attunement)*  

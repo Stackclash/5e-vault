@@ -14,7 +14,7 @@ aliases:
   - Will-o'-Wisp
 ---
 # [[5. Mechanics\Bestiary\Undead\Will O Wisp.md|Will-o'-Wisp]]
-*Source: Monster Manual p. 301, Curse of Strahd. Available in the SRD.*
+*Source: Monster Manual p. 301, Curse of Strahd, Vecna: Eve of Ruin. Available in the SRD.*
 
 Will-o'-wisps are malevolent, wispy balls of light that haunt lonely places and battlefields, bound by dark fate or dark magic to feed on fear and despair.
 
@@ -108,6 +108,7 @@ A will-o'-wisp doesn't require air, drink, or sleep.
 - "SatO"
 - "BMT"
 - "DoDk"
+- "VEoR"
 "image": "5. Mechanics/Bestiary/Undead/token/will-o-wisp.webp"
 ```
 ^statblock

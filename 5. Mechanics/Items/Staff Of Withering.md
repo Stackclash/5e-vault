@@ -10,6 +10,8 @@ tags:
   - item/wondrous/staff
 aliases:
   - Staff of Withering
+one-hand-damage: 1d6 B
+two-hand-damage: 1d8 B
 ---
 # Staff of Withering
 *Staff, major, rare (requires attunement by a cleric, druid, or warlock)*  

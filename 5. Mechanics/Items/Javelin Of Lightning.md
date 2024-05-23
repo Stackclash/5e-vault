@@ -9,6 +9,8 @@ tags:
   - item/weapon/simple/melee
 aliases:
   - Javelin of Lightning
+one-hand-damage: 1d6 P
+range: 30/120
 ---
 # Javelin of Lightning
 *Melee Weapon, major, uncommon*  

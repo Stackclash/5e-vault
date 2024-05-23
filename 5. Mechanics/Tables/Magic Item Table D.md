@@ -20,7 +20,7 @@ aliases:
 | 31-40 | [[5. Mechanics/Items/Potion Of Speed.md\|Potion of speed]] |
 | 41-50 | [[5. Mechanics/Items/Spell Scroll 6th Level.md\|Spell scroll (6th level)]] |
 | 51-57 | [[5. Mechanics/Items/Spell Scroll 7th Level.md\|Spell scroll (7th level)]] |
-| 58-62 | [+3 ammunition](compendium/items/3-ammunition.md) |
+| 58-62 | [[5. Mechanics/Items/3 Ammunition.md\|+3 ammunition]] |
 | 63-67 | [[5. Mechanics/Items/Oil Of Sharpness.md\|Oil of sharpness]] |
 | 68-72 | [[5. Mechanics/Items/Potion Of Flying.md\|Potion of flying]] |
 | 73-77 | [[5. Mechanics/Items/Potion Of Cloud Giant Strength.md\|Potion of cloud giant strength]] |

@@ -9,6 +9,7 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Plate of the Black Rider
+armorClass: 18
 ---
 # Plate of the Black Rider
 *Heavy Armor, very rare, Crafted by (requires attunement)*  

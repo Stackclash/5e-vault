@@ -78,8 +78,7 @@ Otherwise, they enjoy dancing around the battlefield, laying into enemies with t
   "name": "Rapier"
 "source":
 - "SaF"
-"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Mantis\
-  \ Knight.png"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Mantis%20Knight.png"
 ```
 ^statblock
 

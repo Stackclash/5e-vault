@@ -10,6 +10,8 @@ tags:
   - item/wondrous/staff
 aliases:
   - Staff of Power
+one-hand-damage: 1d6 B
+two-hand-damage: 1d8 B
 ---
 # Staff of Power
 *Staff, major, very rare (requires attunement by a sorcerer, warlock, or wizard)*  

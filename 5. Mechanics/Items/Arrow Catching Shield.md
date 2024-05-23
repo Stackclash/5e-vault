@@ -9,6 +9,7 @@ tags:
   - item/tier/major
 aliases:
   - Arrow-Catching Shield
+armorClass: 2
 ---
 # Arrow-Catching Shield
 *Shield, major, rare (requires attunement)*  

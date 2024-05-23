@@ -7,6 +7,7 @@ tags:
 aliases:
   - Mace
 cost: 500
+one-hand-damage: 1d6 B
 ---
 # Mace
 *Melee Weapon*  

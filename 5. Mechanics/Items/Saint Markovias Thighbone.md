@@ -8,6 +8,7 @@ tags:
   - item/weapon/simple/melee
 aliases:
   - Saint Markovia's Thighbone
+one-hand-damage: 1d6 B
 ---
 # Saint Markovia's Thighbone
 *Melee Weapon, rare (requires attunement)*  

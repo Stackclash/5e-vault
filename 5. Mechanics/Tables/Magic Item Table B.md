@@ -18,7 +18,7 @@ aliases:
 | 01-15 | [[5. Mechanics/Items/Potion Of Greater Healing.md\|Potion of greater healing]] |
 | 16-22 | [[5. Mechanics/Items/Potion Of Fire Breath.md\|Potion of fire breath]] |
 | 23-29 | [[5. Mechanics/Items/Potion Of Resistance.md\|Potion of resistance]] |
-| 30-34 | [+1 ammunition](compendium/items/1-ammunition.md) |
+| 30-34 | [[5. Mechanics/Items/1 Ammunition.md\|+1 ammunition]] |
 | 35-39 | [[5. Mechanics/Items/Potion Of Animal Friendship.md\|Potion of animal friendship]] |
 | 40-44 | [[5. Mechanics/Items/Potion Of Hill Giant Strength.md\|Potion of hill giant strength]] |
 | 45-49 | [[5. Mechanics/Items/Potion Of Growth.md\|Potion of growth]] |

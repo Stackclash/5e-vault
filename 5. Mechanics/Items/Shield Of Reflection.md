@@ -9,6 +9,7 @@ tags:
   - item/rarity/rare
 aliases:
   - Shield of Reflection
+armorClass: 2
 ---
 # Shield of Reflection
 *Shield, rare, Crafted by (requires attunement)*  

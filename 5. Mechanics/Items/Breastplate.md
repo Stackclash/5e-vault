@@ -7,6 +7,7 @@ tags:
 aliases:
   - Breastplate
 cost: 40000
+armorClass: 14 + DEX (max of +2)
 ---
 # Breastplate
 *Medium Armor*  

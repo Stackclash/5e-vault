@@ -10,6 +10,8 @@ tags:
   - item/wondrous/staff
 aliases:
   - Staff of the Adder
+one-hand-damage: 1d6 B
+two-hand-damage: 1d8 B
 ---
 # Staff of the Adder
 *Staff, major, uncommon (requires attunement by a cleric, druid, or warlock)*  

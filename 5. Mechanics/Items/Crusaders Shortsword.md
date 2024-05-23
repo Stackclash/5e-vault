@@ -11,6 +11,7 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Crusader's Shortsword
+one-hand-damage: 1d6 P
 ---
 # Crusader's Shortsword
 *Melee Weapon, unknown (magic) (requires attunement)*  
@@ -19,7 +20,7 @@ aliases:
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], Martial
 - **Weight**: 2.0 lbs.
 
-The Crusader's Shortsword is a sentient lawful good [+1 shortsword](compendium/items/1-weapon.md) (Intelligence 11, Wisdom 13, Charisma 13). It has hearing and normal vision out to a range of 120 feet. It communicates by transmitting emotion to the creature carrying or wielding it.
+The Crusader's Shortsword is a sentient lawful good [[5. Mechanics/Items/1 Weapon.md\|+1 shortsword]] (Intelligence 11, Wisdom 13, Charisma 13). It has hearing and normal vision out to a range of 120 feet. It communicates by transmitting emotion to the creature carrying or wielding it.
 
 The sword's purpose is to fight evil. The sword has the following additional properties:
 

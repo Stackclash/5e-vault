@@ -7,6 +7,7 @@ tags:
 aliases:
   - Padded Armor
 cost: 500
+armorClass: 11 + DEX
 ---
 # Padded Armor
 *Light Armor*  

@@ -11,6 +11,9 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Wave
+one-hand-damage: 1d6 P
+two-hand-damage: 1d8 P
+range: 20/60
 ---
 # Wave
 *Melee Weapon, legendary (requires attunement by a creature that worships a god of the sea)*  

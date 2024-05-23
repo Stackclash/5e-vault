@@ -12,6 +12,7 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Scimitar of Speed
+one-hand-damage: 1d6 S
 ---
 # Scimitar of Speed
 *Melee Weapon, major, very rare (requires attunement)*  

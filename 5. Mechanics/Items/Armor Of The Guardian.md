@@ -9,6 +9,7 @@ tags:
   - item/rarity/rare
 aliases:
   - Armor of the Guardian
+armorClass: 14 + DEX (max of +2)
 ---
 # Armor of the Guardian
 *Medium Armor, rare, Crafted by (requires attunement)*  

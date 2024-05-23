@@ -7,6 +7,7 @@ tags:
   - item/rarity/unknown/magic
 aliases:
   - Armor of St. Gaed the Confessor
+armorClass: 18
 ---
 # Armor of St. Gaed the Confessor
 *Heavy Armor, unknown (magic)*  

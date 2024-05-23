@@ -68,8 +68,7 @@ Their interest in our world and its relation to others makes them experts on the
   "name": "Claw"
 "source":
 - "SaF"
-"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Medium\
-  \ Emerald Dragon.png"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Medium%20Emerald%20Dragon.png"
 ```
 ^statblock
 

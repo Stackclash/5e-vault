@@ -64,7 +64,7 @@ If it doesn't make sense for a monster to carry a large pile of coins, you can c
 
 ![Individual Treasure: Challenge 11—16](compendium/tables/individual-treasure-challenge-1116.md)
 
-![Individual Treasure: Challenge 17+](compendium/tables/individual-treasure-challenge-17.md)
+![[5. Mechanics/Tables/Individual Treasure Challenge 17.md\|Individual Treasure: Challenge 17+]]
 
 #### Using the Treasure Hoard Tables
 
@@ -86,7 +86,7 @@ You can hand out as much or as little treasure as you want. Over the course of a
 
 ![Treasure Hoard: Challenge 11—16](compendium/tables/treasure-hoard-challenge-1116.md)
 
-![Treasure Hoard: Challenge 17+](compendium/tables/treasure-hoard-challenge-17.md)
+![[5. Mechanics/Tables/Treasure Hoard Challenge 17.md\|Treasure Hoard: Challenge 17+]]
 
 #### Gemstones
 

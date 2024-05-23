@@ -38,11 +38,11 @@ The wand regains `dice: 1d6 + 1|avg|noform` (`1d6 + 1`) expended charges daily a
 | 34-36 | An animal appears in the unoccupied space nearest the target. The animal isn't under your control and acts as it normally would. Roll a `dice: d100\|avg\|noform` (`d100`) to determine which animal appears. On a 01-25, a [[5. Mechanics/Bestiary/Beast/Rhinoceros.md\|rhinoceros]] appears; on a 26-50, an [[5. Mechanics/Bestiary/Beast/Elephant.md\|elephant]] appears; and on a 51-100, a [[5. Mechanics/Bestiary/Beast/Rat.md\|rat]] appears. |
 | 37-46 | You cast [[5. Mechanics/Spells/Lightning Bolt.md\|lightning bolt]]. |
 | 47-49 | A cloud of 600 oversized butterflies fills a 30-foot radius centered on the target. The area becomes heavily obscured. The butterflies remain for 10 minutes. |
-| 50-53 | You enlarge the target as if you had cast [enlarge/reduce](compendium/spells/enlarge-reduce.md). If the target can't be affected by that spell or if you didn't target a creature, you become the target. |
+| 50-53 | You enlarge the target as if you had cast [[5. Mechanics/Spells/Enlarge Reduce.md\|enlarge/reduce]]. If the target can't be affected by that spell or if you didn't target a creature, you become the target. |
 | 54-58 | You cast [[5. Mechanics/Spells/Darkness.md\|darkness]]. |
 | 59-62 | Grass grows on the ground in a 60-foot radius centered on the target. If grass is already there, it grows to ten times its normal size and remains overgrown for 1 minute. |
 | 63-65 | An object of the DM's choice disappears into the Ethereal Plane. The object must be neither worn nor carried, within 120 feet of the target, and no larger than 10 feet in any dimension. |
-| 66-69 | You shrink yourself as if you had cast [enlarge/reduce](compendium/spells/enlarge-reduce.md) on yourself. |
+| 66-69 | You shrink yourself as if you had cast [[5. Mechanics/Spells/Enlarge Reduce.md\|enlarge/reduce]] on yourself. |
 | 70-79 | You cast [[5. Mechanics/Spells/Fireball.md\|fireball]]. |
 | 80-84 | You cast [[5. Mechanics/Spells/Invisibility.md\|invisibility]] on yourself. |
 | 85-87 | Leaves grow from the target. If you chose a point in space as the target, leaves sprout from the creature nearest to that point. Unless they are picked off, the leaves turn brown and fall off after 24 hours. |

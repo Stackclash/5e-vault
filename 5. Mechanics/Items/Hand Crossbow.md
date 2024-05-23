@@ -11,6 +11,8 @@ tags:
 aliases:
   - Hand Crossbow
 cost: 7500
+one-hand-damage: 1d6 P
+range: 30/120
 ---
 # Hand Crossbow
 *Ranged Weapon*  

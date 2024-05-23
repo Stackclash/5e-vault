@@ -10,6 +10,7 @@ tags:
   - item/weapon/simple/melee
 aliases:
   - Mind Lash
+one-hand-damage: 1d4 S
 ---
 # Mind Lash
 *Melee Weapon, rare (requires attunement by a mind flayer)*  

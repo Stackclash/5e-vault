@@ -11,7 +11,7 @@ aliases:
   - Death Knight
 ---
 # [[5. Mechanics\Bestiary\Undead\Death Knight.md|Death Knight]]
-*Source: Monster Manual p. 47, Tasha's Cauldron of Everything*
+*Source: Monster Manual p. 47, Tasha's Cauldron of Everything, Vecna: Eve of Ruin*
 
 When a paladin that falls from grace dies without seeking atonement, dark powers can transform the once-mortal knight into a hateful undead creature. A death knight is a skeletal warrior clad in fearsome plate armor. Beneath its helmet, one can see the knight's skull with malevolent pinpoints of light burning in its eye sockets.
 
@@ -109,6 +109,7 @@ A death knight doesn't require air, food, drink, or sleep.
 - "AATM"
 - "SatO"
 - "BMT"
+- "VEoR"
 "image": "5. Mechanics/Bestiary/Undead/token/death-knight.webp"
 ```
 ^statblock

@@ -70,8 +70,7 @@ Being oldest, they are also the most reserved, taciturn. Even the young sapphire
   "name": "Claw"
 "source":
 - "SaF"
-"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Medium\
-  \ Sapphire Dragon.png"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Medium%20Sapphire%20Dragon.png"
 ```
 ^statblock
 

@@ -85,9 +85,9 @@ In order to understand the quantities of harvestable materials required and the 
 Craftable items are presented in alphabetical order. A craftable item's description gives the item's name, its category, its rarity, its base component, the crafter type required to make it, and its magical properties.
 
 > [!note]
-> These items are already available in Volume I. ^[collection/Jasmine Yang; Hamund's Harvesting Handbook I.json]—there are no items reprinted from Volume II. ^[collection/Jasmine Yang; Hamund's Harvesting Handbook II.json]
+> These items are already available in Volume I. ^[collection/Jasmine Yang; Hamund's Harvesting Handbook I.json]—there are no items reprinted from Volume II. ^[[5. Mechanics/Items/Anti Magic Crystal.md\|collection/Jasmine Yang; Hamund's Harvesting Handbook II.json]
 
-[[5. Mechanics/Items/Anti Magic Crystal.md\|Anti-Magic Crystal]]
+[Anti-Magic Crystal]]
 
 [[5. Mechanics/Items/Bag Of Colding.md\|Bag of Colding]]
 

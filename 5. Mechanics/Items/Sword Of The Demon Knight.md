@@ -10,6 +10,8 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Sword of the Demon Knight
+one-hand-damage: 1d8 S
+two-hand-damage: 1d10 S
 ---
 # Sword of the Demon Knight
 *Melee Weapon, very rare (requires attunement by an evil creature)*  

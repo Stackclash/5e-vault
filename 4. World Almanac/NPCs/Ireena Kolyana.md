@@ -1,13 +1,17 @@
 ---
 obsidianUIMode: preview
 statblock: inline
+tags:
+  - compendium/src/5e/cos
+  - monster/cr/1-8
+  - monster/size/medium
+  - monster/type/humanoid/human
 location: null
 condition: healthy
 image: 4. World Almanac/NPCs/img/ireena-kolyana.webp
 relationships:
   - Ismark Kolyanovich|brother
   - Izek Strazni|brother
-tags: null
 aliases: []
 pronounced: null
 race: null

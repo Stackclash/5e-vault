@@ -8,6 +8,7 @@ tags:
 aliases:
   - Club
 cost: 10
+one-hand-damage: 1d4 B
 ---
 # Club
 *Melee Weapon*  

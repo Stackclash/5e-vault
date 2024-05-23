@@ -11,7 +11,7 @@ aliases:
   - Githyanki Knight
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Githyanki Knight.md|Githyanki Knight]]
-*Source: Monster Manual p. 160*
+*Source: Monster Manual p. 160, Vecna: Eve of Ruin*
 
 The githyanki plunder countless worlds from the decks of their astral vessels and the backs of red dragons. Feathers, beads, gems, and precious metals decorate their armor and weapons-the legendary silver swords with which they cut through their foes. Since winning their freedom from the mind flayers, the githyanki have become ruthless conquerors under the rulership of their dread lich-queen, Vlaakith.
 
@@ -29,7 +29,7 @@ Of all their enemies, the githyanki most hate their former masters, the mind fla
 
 In ancient times, gith knights created special weapons to combat their mind flayer masters.
 
-These silver swords channel the force of the wielder's will, dealing psychic as well as physical damage. A githyanki can't become a knight until it masters the singular discipline needed to will such a blade into existence. A silver sword is equivalent to a [[5. Mechanics/Items/Greatsword.md|greatsword]], and takes on the properties of a [+3 greatsword](compendium/items/3-weapon.md) in the hands of its creator.
+These silver swords channel the force of the wielder's will, dealing psychic as well as physical damage. A githyanki can't become a knight until it masters the singular discipline needed to will such a blade into existence. A silver sword is equivalent to a [[5. Mechanics/Items/Greatsword.md|greatsword]], and takes on the properties of a [[5. Mechanics/Items/3 Weapon.md|+3 greatsword]] in the hands of its creator.
 
 In the eyes of the githyanki, each silver sword is a priceless relic and a work of art. Githyanki knights will hunt down and destroy any non-githyanki that dares to carry or wield a silver sword, reclaiming it for their people.
 
@@ -107,6 +107,7 @@ Whether these tall, gaunt creatures were peaceful or savage, cultured or primiti
 - "AATM"
 - "SatO"
 - "BMT"
+- "VEoR"
 "image": "5. Mechanics/Bestiary/Humanoid/token/githyanki-knight.webp"
 ```
 ^statblock

@@ -69,7 +69,7 @@ As befits followers of a god who doesn't speak, hands of Yurtrus remove their to
     \n1st level (4 slots): [[5. Mechanics/Spells/Bane.md|bane]], [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
     \ [[5. Mechanics/Spells/Inflict Wounds.md|inflict wounds]], [[5. Mechanics/Spells/Protection From Evil And Good.md|protection from evil\
     \ and good]]\n\n2nd level\
-    \ (3 slots): [blindness/deafness](compendium/spells/blindness-deafness.md),\
+    \ (3 slots): [[5. Mechanics/Spells/Blindness Deafness.md|blindness/deafness]],\
     \ [[5. Mechanics/Spells/Silence.md|silence]]"
   "name": "Spellcasting"
 - "desc": "As a bonus action, the orc can move up to its speed toward a hostile creature\

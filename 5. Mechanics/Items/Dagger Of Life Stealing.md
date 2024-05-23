@@ -12,6 +12,8 @@ tags:
   - item/weapon/simple/melee
 aliases:
   - Dagger of Life Stealing
+one-hand-damage: 1d4 P
+range: 20/60
 ---
 # Dagger of Life Stealing
 *Melee Weapon, uncommon, Crafted by (requires attunement)*  

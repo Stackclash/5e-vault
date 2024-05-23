@@ -8,6 +8,7 @@ tags:
   - item/wondrous/wand
 aliases:
   - Wand of Orcus
+one-hand-damage: 1d6 B
 ---
 # Wand of Orcus
 *Wand, artifact (requires attunement)*  

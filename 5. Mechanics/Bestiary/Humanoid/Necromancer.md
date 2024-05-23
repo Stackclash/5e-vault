@@ -50,7 +50,7 @@ aliases:
     \ cantrip (+6 to hit).\n\nAt 7th level, retainers can take two signature attacks\
     \ per round."
   "name": "Signature Attack"
-- "desc": "Prerequisite: 3rd-level retainer\n\nThe necromancer casts the [blindness/deafness](compendium/spells/blindness-deafness.md)\
+- "desc": "Prerequisite: 3rd-level retainer\n\nThe necromancer casts the [[5. Mechanics/Spells/Blindness Deafness.md|blindness/deafness]]\
     \ spell (spell save DC 13 at 3rd level, 14 at 5th level, and 15 at 7th level)."
   "name": "Blindness/Deafness (3/Day)"
 - "desc": "Prerequisite: 5th-level retainer\n\nThe necromancer casts the [[5. Mechanics/Spells/Vampiric Touch.md|vampiric\

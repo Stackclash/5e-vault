@@ -10,6 +10,8 @@ tags:
   - item/weapon/simple/melee
 aliases:
   - Scepter of Rot and Decay
+one-hand-damage: 1d6 B
+two-hand-damage: 1d8 B
 ---
 # Scepter of Rot and Decay
 *Melee Weapon, artifact, Crafted Artifact (requires attunement by a spellcaster)*  

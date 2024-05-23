@@ -9,6 +9,7 @@ tags:
   - item/tier/major
 aliases:
   - Blue Dragon Scale Mail
+armorClass: 14 + DEX (max of +2)
 ---
 # Blue Dragon Scale Mail
 *Medium Armor, major, very rare (requires attunement)*  

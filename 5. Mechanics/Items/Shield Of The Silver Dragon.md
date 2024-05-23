@@ -8,6 +8,7 @@ tags:
   - item/tier/major
 aliases:
   - Shield of the Silver Dragon
+armorClass: 2
 ---
 # Shield of the Silver Dragon
 *Shield, major, rare*  

@@ -9,6 +9,7 @@ tags:
   - item/rarity/rare
 aliases:
   - Cinder Shield
+armorClass: 2
 ---
 # Cinder Shield
 *Shield, rare, Crafted by (requires attunement)*  

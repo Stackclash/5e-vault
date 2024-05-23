@@ -10,6 +10,8 @@ tags:
   - item/wondrous/staff
 aliases:
   - Staff of Charming
+one-hand-damage: 1d6 B
+two-hand-damage: 1d8 B
 ---
 # Staff of Charming
 *Staff, major, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)*  

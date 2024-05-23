@@ -11,6 +11,7 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Greater Silver Sword
+one-hand-damage: 2d6 S
 ---
 # Greater Silver Sword
 *Melee Weapon, legendary (requires attunement by a creature that has psionic ability)*  

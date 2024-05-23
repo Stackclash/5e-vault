@@ -7,6 +7,7 @@ tags:
 aliases:
   - Chain Mail
 cost: 7500
+armorClass: 16
 ---
 # Chain Mail
 *Heavy Armor*  

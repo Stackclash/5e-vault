@@ -11,6 +11,8 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Grace
+one-hand-damage: 1d8 S
+two-hand-damage: 1d10 S
 ---
 # Grace
 *Melee Weapon, rare (requires attunement)*  

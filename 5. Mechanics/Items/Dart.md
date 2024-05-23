@@ -9,6 +9,8 @@ tags:
 aliases:
   - Dart
 cost: 5
+one-hand-damage: 1d4 P
+range: 20/60
 ---
 # Dart
 *Ranged Weapon*  

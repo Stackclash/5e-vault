@@ -8,6 +8,7 @@ tags:
   - item/weapon/ammunition
 aliases:
   - Fire Arrow
+one-hand-damage: 1d6 F
 ---
 # Fire Arrow
 *Ammunition, uncommon, Crafted by*  

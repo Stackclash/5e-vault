@@ -12,6 +12,9 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Trident of Fish Command
+one-hand-damage: 1d6 P
+two-hand-damage: 1d8 P
+range: 20/60
 ---
 # Trident of Fish Command
 *Melee Weapon, major, uncommon (requires attunement)*  

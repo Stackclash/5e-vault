@@ -12,6 +12,7 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Medusa Whip
+one-hand-damage: 1d4 S
 ---
 # Medusa Whip
 *Melee Weapon, rare, Crafted by (requires attunement)*  

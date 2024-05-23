@@ -9,6 +9,7 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Golden Sun Armor
+armorClass: 17
 ---
 # Golden Sun Armor
 *Heavy Armor, very rare, Crafted by (requires attunement)*  

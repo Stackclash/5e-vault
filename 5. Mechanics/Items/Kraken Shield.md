@@ -9,6 +9,7 @@ tags:
   - item/rarity/legendary
 aliases:
   - Kraken Shield
+armorClass: 2
 ---
 # Kraken Shield
 *Shield, legendary, Crafted by (requires attunement)*  

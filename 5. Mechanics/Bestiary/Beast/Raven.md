@@ -14,7 +14,7 @@ aliases:
   - Raven
 ---
 # [[5. Mechanics\Bestiary\Beast\Raven.md|Raven]]
-*Source: Monster Manual p. 335, Curse of Strahd. Available in the SRD and the Basic Rules.*
+*Source: Monster Manual p. 335, Curse of Strahd, Vecna: Eve of Ruin. Available in the SRD and the Basic Rules.*
 
 ```statblock
 "name": "Raven"
@@ -54,6 +54,7 @@ aliases:
 - "CM"
 - "WBtW"
 - "KftGV"
+- "VEoR"
 "image": "5. Mechanics/Bestiary/Beast/token/raven.webp"
 ```
 ^statblock

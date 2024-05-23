@@ -7,6 +7,7 @@ tags:
 aliases:
   - Half Plate Armor
 cost: 75000
+armorClass: 15 + DEX (max of +2)
 ---
 # Half Plate Armor
 *Medium Armor*  

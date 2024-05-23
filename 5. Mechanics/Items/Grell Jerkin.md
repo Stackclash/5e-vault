@@ -9,6 +9,7 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Grell Jerkin
+armorClass: 11 + DEX
 ---
 # Grell Jerkin
 *Light Armor, uncommon, Crafted by (requires attunement)*  

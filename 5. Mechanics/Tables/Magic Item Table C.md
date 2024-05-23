@@ -17,7 +17,7 @@ aliases:
 |------------|------------|
 | 01-15 | [[5. Mechanics/Items/Potion Of Superior Healing.md\|Potion of superior healing]] |
 | 16-22 | [[5. Mechanics/Items/Spell Scroll 4th Level.md\|Spell scroll (4th level)]] |
-| 23-27 | [+2 ammunition](compendium/items/2-ammunition.md) |
+| 23-27 | [[5. Mechanics/Items/2 Ammunition.md\|+2 ammunition]] |
 | 28-32 | [[5. Mechanics/Items/Potion Of Clairvoyance.md\|Potion of clairvoyance]] |
 | 33-37 | [[5. Mechanics/Items/Potion Of Diminution.md\|Potion of diminution]] |
 | 38-42 | [[5. Mechanics/Items/Potion Of Gaseous Form.md\|Potion of gaseous form]] |

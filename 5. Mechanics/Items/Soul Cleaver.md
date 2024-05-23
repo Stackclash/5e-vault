@@ -12,6 +12,7 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Soul Cleaver
+one-hand-damage: 1d12 S
 ---
 # Soul Cleaver
 *Melee Weapon, very rare, Crafted by (requires attunement)*  

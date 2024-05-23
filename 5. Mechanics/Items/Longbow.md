@@ -11,6 +11,8 @@ tags:
 aliases:
   - Longbow
 cost: 5000
+one-hand-damage: 1d8 P
+range: 150/600
 ---
 # Longbow
 *Ranged Weapon*  

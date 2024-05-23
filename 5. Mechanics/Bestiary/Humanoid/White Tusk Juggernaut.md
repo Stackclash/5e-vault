@@ -69,8 +69,7 @@ A juggernaut's immense muscles allow them to wield oversized weapons worthy of t
   "name": "Horde Protector"
 "source":
 - "SaF"
-"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/White\
-  \ Tusk Juggernaut.png"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/White%20Tusk%20Juggernaut.png"
 ```
 ^statblock
 

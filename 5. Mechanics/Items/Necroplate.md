@@ -9,6 +9,7 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Necroplate
+armorClass: 18
 ---
 # Necroplate
 *Heavy Armor, very rare, Crafted by (requires attunement)*  

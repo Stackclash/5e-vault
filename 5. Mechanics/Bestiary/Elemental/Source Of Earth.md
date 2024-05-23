@@ -85,8 +85,7 @@ The Source of Earth hovers over the battlefield, with only 10 feet of movement. 
   "name": "Wall of Stone (1/Day)"
 "source":
 - "SaF"
-"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Source\
-  \ of Earth.png"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Source%20of%20Earth.png"
 ```
 ^statblock
 

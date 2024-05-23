@@ -74,8 +74,7 @@ As part of their training, orcish shamans bond with a single animal, typically a
   "name": "Blood-Searing Spear"
 "source":
 - "SaF"
-"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/White\
-  \ Tusk Shaman.png"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/White%20Tusk%20Shaman.png"
 ```
 ^statblock
 

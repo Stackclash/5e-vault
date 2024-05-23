@@ -8,6 +8,7 @@ tags:
 aliases:
   - Sickle
 cost: 100
+one-hand-damage: 1d4 S
 ---
 # Sickle
 *Melee Weapon*  

@@ -8,6 +8,7 @@ tags:
 aliases:
   - War Pick
 cost: 500
+one-hand-damage: 1d8 P
 ---
 # War Pick
 *Melee Weapon*  

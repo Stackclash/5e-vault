@@ -9,6 +9,7 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Hide of Hiding
+armorClass: 11 + DEX
 ---
 # Hide of Hiding
 *Light Armor, very rare, Crafted by (requires attunement)*  

@@ -12,7 +12,7 @@ aliases:
   - Yochlol
 ---
 # [[5. Mechanics\Bestiary\Fiend\Yochlol.md|Yochlol]]
-*Source: Monster Manual p. 65*
+*Source: Monster Manual p. 65, Vecna: Eve of Ruin*
 
 The yochlols are the Handmaidens of Lolth-extensions of the Spider Queen's will dedicated to acting as her spies, taskmasters, and agents of villainy. They attend their goddess in the Demonweb Pits, but Lolth sometimes dispatches yochlols to the Material Plane to guard her temples and to aid her most devout priestesses. Yochlols don't form outside Lolth's realm of the Demonweb, and they serve no demon lords except their queen.
 
@@ -262,6 +262,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - "EGW"
 - "CRCotN"
 - "PaBTSO"
+- "VEoR"
 "image": "5. Mechanics/Bestiary/Fiend/token/yochlol.webp"
 ```
 ^statblock

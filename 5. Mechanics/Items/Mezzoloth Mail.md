@@ -9,6 +9,7 @@ tags:
   - item/rarity/rare
 aliases:
   - Mezzoloth Mail
+armorClass: 18
 ---
 # Mezzoloth Mail
 *Heavy Armor, rare, Crafted by (requires attunement)*  

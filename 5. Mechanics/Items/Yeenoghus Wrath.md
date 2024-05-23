@@ -12,6 +12,7 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Yeenoghu's Wrath
+one-hand-damage: 1d4 S
 ---
 # Yeenoghu's Wrath
 *Melee Weapon, rare, Crafted by (requires attunement)*  

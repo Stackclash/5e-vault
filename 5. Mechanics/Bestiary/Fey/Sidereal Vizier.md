@@ -98,8 +98,7 @@ If a spell can solve the problem, the Vizier knows it and has it prepared. The l
   "name": "Longsword"
 "source":
 - "SaF"
-"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Sidereal\
-  \ Vizier.png"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Sidereal%20Vizier.png"
 ```
 ^statblock
 

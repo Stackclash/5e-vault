@@ -12,6 +12,7 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Shadow Sword
+one-hand-damage: 1d6 P
 ---
 # Shadow Sword
 *Melee Weapon, rare, Crafted by (requires attunement)*  

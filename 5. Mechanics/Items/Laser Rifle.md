@@ -10,6 +10,8 @@ tags:
   - item/weapon/martial/ranged
 aliases:
   - Laser Rifle
+one-hand-damage: 3d8 R
+range: 100/300
 ---
 # Laser Rifle
 *Ranged Weapon*  

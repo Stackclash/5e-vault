@@ -10,6 +10,8 @@ tags:
   - item/weapon/simple/melee
 aliases:
   - Staff of Maleficence
+one-hand-damage: 1d6 B
+two-hand-damage: 1d8 B
 ---
 # Staff of Maleficence
 *Melee Weapon, legendary, Crafted by (requires attunement by a spellcaster)*  

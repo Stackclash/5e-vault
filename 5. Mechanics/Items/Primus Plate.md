@@ -9,6 +9,7 @@ tags:
   - item/rarity/legendary
 aliases:
   - Primus Plate
+armorClass: 18
 ---
 # Primus Plate
 *Heavy Armor, legendary, Crafted by (requires attunement)*  

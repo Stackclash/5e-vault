@@ -1,12 +1,16 @@
 ---
 obsidianUIMode: preview
 statblock: inline
+tags:
+  - compendium/src/5e/cos
+  - monster/cr/5
+  - monster/size/medium
+  - monster/type/undead
 location: null
 condition: healthy
 image: 4. World Almanac/NPCs/img/doru.webp
 relationships:
   - Donavich|father
-tags: null
 aliases: []
 pronounced: null
 race: null

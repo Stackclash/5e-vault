@@ -9,6 +9,8 @@ tags:
 aliases:
   - Handaxe
 cost: 500
+one-hand-damage: 1d6 S
+range: 20/60
 ---
 # Handaxe
 *Melee Weapon*  

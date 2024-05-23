@@ -12,6 +12,8 @@ tags:
   - item/weapon/simple/melee
 aliases:
   - Dagger of Apathy
+one-hand-damage: 1d4 P
+range: 20/60
 ---
 # Dagger of Apathy
 *Melee Weapon, rare, Crafted by (requires attunement)*  

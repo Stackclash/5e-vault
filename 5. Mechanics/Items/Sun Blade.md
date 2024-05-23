@@ -12,6 +12,8 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Sun Blade
+one-hand-damage: 1d8 R
+two-hand-damage: 1d10 R
 ---
 # Sun Blade
 *Melee Weapon, major, rare (requires attunement)*  

@@ -8,6 +8,7 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Grick Hide Coat
+armorClass: 12 + DEX
 ---
 # Grick Hide Coat
 *Light Armor, uncommon, Crafted by*  

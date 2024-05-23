@@ -11,6 +11,9 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Whelm
+one-hand-damage: 1d8 B
+two-hand-damage: 1d10 B
+range: 20/60
 ---
 # Whelm
 *Melee Weapon, legendary (requires attunement by a dwarf)*  

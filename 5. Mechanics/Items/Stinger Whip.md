@@ -11,6 +11,7 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Stinger Whip
+one-hand-damage: 1d4 S
 ---
 # Stinger Whip
 *Melee Weapon, rare, Crafted by*  

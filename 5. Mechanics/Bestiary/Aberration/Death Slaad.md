@@ -11,7 +11,7 @@ aliases:
   - Death Slaad
 ---
 # [[5. Mechanics\Bestiary\Aberration\Death Slaad.md|Death Slaad]]
-*Source: Monster Manual p. 278, Curse of Strahd, Tasha's Cauldron of Everything*
+*Source: Monster Manual p. 278, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin*
 
 Death slaadi are suffused with energy from the Negative Energy Plane and exemplify evil's corruption of chaos, and they take sadistic pleasure in bringing harm to others. They propagate their race by dragooning mobs of red and blue slaadi and invading other planes. Humanoids who survive the incursion become incubators for new slaadi.
 
@@ -125,6 +125,7 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 - "CM"
 - "DSotDQ"
 - "PSI"
+- "VEoR"
 "image": "5. Mechanics/Bestiary/Aberration/token/death-slaad.webp"
 ```
 ^statblock

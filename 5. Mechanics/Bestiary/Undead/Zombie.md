@@ -12,7 +12,7 @@ aliases:
   - Zombie
 ---
 # [[5. Mechanics\Bestiary\Undead\Zombie.md|Zombie]]
-*Source: Monster Manual p. 316, Curse of Strahd, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*
+*Source: Monster Manual p. 316, Curse of Strahd, Eberron: Rising from the Last War, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the SRD and the Basic Rules.*
 
 From somewhere in the darkness, a gurgling moan is heard. A form lurches into view, dragging one foot as it raises bloated arms and broken hands. The zombie advances, driven to kill anyone too slow to escape its grasp.
 
@@ -108,6 +108,7 @@ A zombie doesn't require air, food, drink, or sleep.
 - "BMT"
 - "GHLoE"
 - "DoDk"
+- "VEoR"
 "image": "5. Mechanics/Bestiary/Undead/token/zombie.webp"
 ```
 ^statblock

@@ -7,6 +7,7 @@ tags:
 aliases:
   - Splint Armor
 cost: 20000
+armorClass: 17
 ---
 # Splint Armor
 *Heavy Armor*  

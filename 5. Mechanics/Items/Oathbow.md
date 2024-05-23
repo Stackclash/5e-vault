@@ -13,6 +13,8 @@ tags:
   - item/weapon/martial/ranged
 aliases:
   - Oathbow
+one-hand-damage: 1d8 P
+range: 150/600
 ---
 # Oathbow
 *Ranged Weapon, major, very rare (requires attunement)*  

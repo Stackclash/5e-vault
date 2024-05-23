@@ -12,7 +12,7 @@ aliases:
   - Archmage
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Archmage.md|Archmage]]
-*Source: Monster Manual p. 342, Curse of Strahd, Eberron: Rising from the Last War. Available in the SRD.*
+*Source: Monster Manual p. 342, Curse of Strahd, Eberron: Rising from the Last War, Vecna: Eve of Ruin. Available in the SRD.*
 
 Archmages are powerful (and usually quite old) spellcasters dedicated to the study of the arcane arts. Benevolent ones counsel kings and queens, while evil ones rule as tyrants and pursue lichdom. Those who are neither good nor evil sequester themselves in remote towers to practice their magic without interruption.
 
@@ -102,6 +102,7 @@ An archmage typically has one or more apprentice mages, and an archmage's abode 
 - "BMT"
 - "GHLoE"
 - "DoDk"
+- "VEoR"
 "image": "5. Mechanics/Bestiary/Humanoid/token/archmage.webp"
 ```
 ^statblock

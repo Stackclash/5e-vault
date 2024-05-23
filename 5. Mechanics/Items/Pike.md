@@ -11,6 +11,7 @@ tags:
 aliases:
   - Pike
 cost: 500
+one-hand-damage: 1d10 P
 ---
 # Pike
 *Melee Weapon*  

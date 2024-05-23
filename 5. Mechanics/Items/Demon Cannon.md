@@ -13,6 +13,8 @@ tags:
   - item/weapon/martial/ranged
 aliases:
   - Demon Cannon
+one-hand-damage: 1d10 P
+range: 100/400
 ---
 # Demon Cannon
 *Ranged Weapon, very rare, Crafted by*  

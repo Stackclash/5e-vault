@@ -10,6 +10,8 @@ tags:
   - item/weapon/simple/melee
 aliases:
   - Spire of Conflux (Dormant)
+one-hand-damage: 1d6 B
+two-hand-damage: 1d8 B
 ---
 # Spire of Conflux (Dormant)
 *Melee Weapon, legendary (requires attunement by a spellcaster)*  

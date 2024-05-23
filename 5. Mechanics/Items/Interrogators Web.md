@@ -11,6 +11,7 @@ tags:
   - item/weapon/martial/ranged
 aliases:
   - Interrogator's Web
+range: 5/15
 ---
 # Interrogator's Web
 *Ranged Weapon, rare, Crafted by*  

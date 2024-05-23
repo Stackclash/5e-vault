@@ -105,8 +105,7 @@ They are measured and formal, slow to give trust. They like seeing things done p
   "name": ""
 "source":
 - "SaF"
-"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Large\
-  \ Ruby Dragon.png"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Large%20Ruby%20Dragon.png"
 ```
 ^statblock
 

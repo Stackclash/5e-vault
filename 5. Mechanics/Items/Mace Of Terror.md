@@ -9,6 +9,7 @@ tags:
   - item/weapon/simple/melee
 aliases:
   - Mace of Terror
+one-hand-damage: 1d6 B
 ---
 # Mace of Terror
 *Melee Weapon, major, rare (requires attunement)*  

@@ -546,7 +546,7 @@ Hatred so clouds Vladimir's mind that he can't remember that Sir Godfrey (area Q
 
 #### Treasure
 
-[[4. World Almanac/NPCs/Vladimir Horngaard.md\|Vladimir Horngaard]] wields a [+2 greatsword](compendium/items/2-weapon.md).
+[[4. World Almanac/NPCs/Vladimir Horngaard.md\|Vladimir Horngaard]] wields a [[5. Mechanics/Items/2 Weapon.md\|+2 greatsword]].
 
 Vladimir wears a platinum holy symbol of the Morninglord (worth 250 gp) around his neck, underneath his half plate armor.
 

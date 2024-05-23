@@ -10,6 +10,8 @@ tags:
   - item/wondrous/staff
 aliases:
   - Staff of Striking
+one-hand-damage: 1d6 B
+two-hand-damage: 1d8 B
 ---
 # Staff of Striking
 *Staff, major, very rare (requires attunement)*  

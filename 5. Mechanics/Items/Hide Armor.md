@@ -7,6 +7,7 @@ tags:
 aliases:
   - Hide Armor
 cost: 1000
+armorClass: 12 + DEX (max of +2)
 ---
 # Hide Armor
 *Medium Armor*  

@@ -9,6 +9,7 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Frostbite Armor
+armorClass: 18
 ---
 # Frostbite Armor
 *Heavy Armor, very rare, Crafted by (requires attunement)*  

@@ -1,11 +1,15 @@
 ---
 obsidianUIMode: preview
 statblock: inline
+tags:
+  - compendium/src/5e/cos
+  - monster/cr/10
+  - monster/size/medium
+  - monster/type/humanoid/human
 location: '[[4. World Almanac/Places of Interest/Tser Pool.md|Tser Pool]]'
 condition: healthy
 image: z_Assets/Madam Eva.webp
 relationships: []
-tags: null
 aliases: []
 pronounced: MAD-ame EE-vah
 race: '[[5. Mechanics/Races/Human.md|Human]]'

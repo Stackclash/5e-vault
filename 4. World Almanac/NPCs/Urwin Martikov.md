@@ -1,6 +1,12 @@
 ---
 obsidianUIMode: preview
 statblock: inline
+tags:
+  - compendium/src/5e/cos
+  - monster/cr/2
+  - monster/size/medium
+  - monster/type/humanoid/human
+  - monster/type/humanoid/shapechanger
 location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'
 condition: healthy
 image: null
@@ -9,7 +15,6 @@ relationships:
   - Danika Dorakova|wife
   - Davian Martikov|father
   - Bray Martikov|son
-tags: null
 aliases:
   - Urwin Martikov
 pronounced: null

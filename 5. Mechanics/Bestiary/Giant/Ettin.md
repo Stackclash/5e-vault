@@ -14,7 +14,7 @@ aliases:
   - Ettin
 ---
 # [[5. Mechanics\Bestiary\Giant\Ettin.md|Ettin]]
-*Source: Monster Manual p. 132. Available in the SRD.*
+*Source: Monster Manual p. 132, Vecna: Eve of Ruin. Available in the SRD.*
 
 An ettin is a foul, two-headed giant with the crude characteristics of an orc. It never bathes if it can help it, and its thick skin is usually encrusted with a thick layer of dirt and grime beneath the stinking hides it wears. Its long stringy hair hangs in an unkempt mess about its faces, and its breath reeks from mouths filled with crooked teeth and tusks.
 
@@ -91,6 +91,7 @@ Whatever the truth of the ettins' origin, orcs treat them as distant cousins, an
 - "WDMM"
 - "JttRC"
 - "ToFW"
+- "VEoR"
 "image": "5. Mechanics/Bestiary/Giant/token/ettin.webp"
 ```
 ^statblock

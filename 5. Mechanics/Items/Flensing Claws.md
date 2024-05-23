@@ -7,6 +7,7 @@ tags:
   - item/wondrous/wondrous-item
 aliases:
   - Flensing Claws
+one-hand-damage: null S
 ---
 # Flensing Claws
 *Other, unknown*  

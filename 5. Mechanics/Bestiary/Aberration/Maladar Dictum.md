@@ -92,8 +92,7 @@ If you really want to see things get out of control very quickly, watch Maladar 
   "name": "Lord of Chaos"
 "source":
 - "SaF"
-"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Maladar\
-  \ Dictum.png"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Maladar%20Dictum.png"
 ```
 ^statblock
 

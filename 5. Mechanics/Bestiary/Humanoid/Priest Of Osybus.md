@@ -11,7 +11,7 @@ aliases:
   - Priest of Osybus
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Priest Of Osybus.md|Priest of Osybus]]
-*Source: Van Richten's Guide to Ravenloft p. 241*
+*Source: Van Richten's Guide to Ravenloft p. 241, Vecna: Eve of Ruin*
 
 Necromancers of deep evil, the priests of Osybus steal the souls of others to fuel the priests' malevolent magic. Using this soul power, each priest can defy death and become an undead creature, potentially cheating the grave over and over.
 
@@ -107,6 +107,7 @@ When a priest of Osybus drops to 0 hit points, the priest might revive with a be
   "name": "Soul Tattoo (Recharge 5-6)"
 "source":
 - "VRGR"
+- "VEoR"
 "image": "5. Mechanics/Bestiary/Humanoid/token/priest-of-osybus-vrgr.webp"
 ```
 ^statblock

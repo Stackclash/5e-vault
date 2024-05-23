@@ -8,6 +8,7 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Tri-Horn Shield
+armorClass: 2
 ---
 # Tri-Horn Shield
 *Shield, uncommon, Crafted by*  

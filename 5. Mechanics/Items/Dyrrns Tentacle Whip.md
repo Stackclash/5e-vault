@@ -11,6 +11,7 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Dyrrn's Tentacle Whip
+one-hand-damage: 1d4 S
 ---
 # Dyrrn's Tentacle Whip
 *Melee Weapon, very rare (requires attunement)*  

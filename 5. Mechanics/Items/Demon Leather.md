@@ -9,6 +9,7 @@ tags:
   - item/rarity/rare
 aliases:
   - Demon Leather
+armorClass: 12 + DEX
 ---
 # Demon Leather
 *Light Armor, rare, Crafted by (requires attunement)*  

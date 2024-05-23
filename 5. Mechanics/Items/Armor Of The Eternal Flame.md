@@ -9,6 +9,7 @@ tags:
   - item/rarity/legendary
 aliases:
   - Armor of the Eternal Flame
+armorClass: 18
 ---
 # Armor of the Eternal Flame
 *Heavy Armor, legendary, Crafted by (requires attunement)*  

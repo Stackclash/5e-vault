@@ -8,6 +8,7 @@ tags:
   - item/weapon/ammunition
 aliases:
   - Fire Bolt
+one-hand-damage: 1d6 F
 ---
 # Fire Bolt
 *Ammunition, uncommon, Crafted by*  

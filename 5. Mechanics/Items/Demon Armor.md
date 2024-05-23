@@ -9,6 +9,7 @@ tags:
   - item/tier/major
 aliases:
   - Demon Armor
+armorClass: 18
 ---
 # Demon Armor
 *Heavy Armor, major, very rare (requires attunement)*  

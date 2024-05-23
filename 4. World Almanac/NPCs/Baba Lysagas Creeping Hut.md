@@ -1,11 +1,15 @@
 ---
 obsidianUIMode: preview
 statblock: inline
+tags:
+  - compendium/src/5e/cos
+  - monster/cr/11
+  - monster/size/gargantuan
+  - monster/type/construct
 location: null
 condition: healthy
 image: 4. World Almanac/NPCs/img/baba-lysagas-creeping-hut.webp
 relationships: []
-tags: null
 aliases: []
 pronounced: null
 race: null

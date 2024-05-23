@@ -23,7 +23,7 @@ The illusion lasts until its card is moved or the illusion is dispelled. When th
 |------------|--------------|----------|
 | 1 | Ace of hearts | [[5. Mechanics/Bestiary/Dragon/Adult Red Dragon.md\|Red dragon]] |
 | 2 | King of hearts | [[5. Mechanics/Bestiary/Humanoid/Knight.md\|Knight]] and four [[5. Mechanics/Bestiary/Humanoid/Guard.md\|guards]] |
-| 3 | Queen of hearts | [Succubus/Incubus](compendium/bestiary/fiend/succubus.md) |
+| 3 | Queen of hearts | [[5. Mechanics/Bestiary/Fiend/Succubus.md\|Succubus/Incubus]] |
 | 4 | Jack of hearts | [[5. Mechanics/Bestiary/Humanoid/Druid.md\|Druid]] |
 | 5 | Ten of hearts | [[5. Mechanics/Bestiary/Giant/Cloud Giant.md\|Cloud giant]] |
 | 6 | Nine of hearts | [[5. Mechanics/Bestiary/Giant/Ettin.md\|Ettin]] |

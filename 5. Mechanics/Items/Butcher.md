@@ -9,6 +9,7 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Butcher
+one-hand-damage: 1d8 B
 ---
 # Butcher
 *Melee Weapon, artifact (requires attunement)*  

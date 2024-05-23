@@ -11,6 +11,9 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Axe of the Dwarvish Lords
+one-hand-damage: 1d8 S
+two-hand-damage: 1d10 S
+range: 20/60
 ---
 # Axe of the Dwarvish Lords
 *Melee Weapon, artifact (requires attunement)*  

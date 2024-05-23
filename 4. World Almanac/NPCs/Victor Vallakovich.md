@@ -1,12 +1,16 @@
 ---
 obsidianUIMode: preview
 statblock: inline
+tags:
+  - compendium/src/5e/cos
+  - monster/cr/6
+  - monster/size/medium
+  - monster/type/humanoid/human
 location: null
 condition: healthy
 image: 4. World Almanac/NPCs/img/005-cos02-02.webp
 relationships:
   - Baron Vargas Vallakovich|father
-tags: null
 aliases: []
 pronounced: null
 race: null

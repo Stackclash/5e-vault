@@ -9,6 +9,8 @@ tags:
 aliases:
   - Warhammer
 cost: 1500
+one-hand-damage: 1d8 B
+two-hand-damage: 1d10 B
 ---
 # Warhammer
 *Melee Weapon*  

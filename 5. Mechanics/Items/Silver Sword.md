@@ -12,6 +12,7 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Silver Sword
+one-hand-damage: 2d6 S
 ---
 # Silver Sword
 *Melee Weapon, major, unknown (magic) (requires attunement by a creature that has psionic ability)*  

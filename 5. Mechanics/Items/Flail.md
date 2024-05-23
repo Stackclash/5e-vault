@@ -8,6 +8,7 @@ tags:
 aliases:
   - Flail
 cost: 1000
+one-hand-damage: 1d8 B
 ---
 # Flail
 *Melee Weapon*  

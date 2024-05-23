@@ -11,7 +11,7 @@ aliases:
   - Horned Devil
 ---
 # [[5. Mechanics\Bestiary\Fiend\Horned Devil.md|Horned Devil]]
-*Source: Monster Manual p. 74. Available in the SRD.*
+*Source: Monster Manual p. 74, Vecna: Eve of Ruin. Available in the SRD.*
 
 Horned devils are lazy to the point of belligerence and reluctant to put themselves in harm's way. Moreover, they hate and fear any creature stronger than themselves. When they are sufficiently provoked or antagonized, the fury of these fiends can be terrifying.
 
@@ -199,6 +199,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - "BGDIA"
 - "SatO"
 - "DoDk"
+- "VEoR"
 "image": "5. Mechanics/Bestiary/Fiend/token/horned-devil.webp"
 ```
 ^statblock

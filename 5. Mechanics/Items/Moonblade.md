@@ -10,6 +10,8 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Moonblade
+one-hand-damage: 1d8 S
+two-hand-damage: 1d10 S
 ---
 # Moonblade
 *Melee Weapon, legendary (requires attunement by an elf or half-elf of neutral good alignment)*  

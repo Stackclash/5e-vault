@@ -12,7 +12,7 @@ aliases:
   - Grell
 ---
 # [[5. Mechanics\Bestiary\Aberration\Grell.md|Grell]]
-*Source: Monster Manual p. 172*
+*Source: Monster Manual p. 172, Vecna: Eve of Ruin*
 
 A grell resembles a bulbous floating brain with a wide, sharp beak. Its ten long tentacles are made of hundreds of ring-shaped muscles sheathed in tough fibrous hide. Sharp barbs line the tip each tentacle and inject paralytic venom. The grell can partially retract its barbs into its tentacles to handle or manipulate objects it doesn't want to pierce or tear.
 
@@ -90,6 +90,7 @@ A grell will sometimes allow adventurers to wage war on the other monstrous inha
 - "KftGV"
 - "PaBTSO"
 - "BMT"
+- "VEoR"
 "image": "5. Mechanics/Bestiary/Aberration/token/grell.webp"
 ```
 ^statblock

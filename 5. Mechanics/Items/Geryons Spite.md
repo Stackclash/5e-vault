@@ -13,6 +13,7 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Geryon's Spite
+one-hand-damage: 1d10 P
 ---
 # Geryon's Spite
 *Melee Weapon, legendary, Crafted by (requires attunement)*  

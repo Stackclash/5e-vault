@@ -66,8 +66,7 @@ Through constant training, orcish bloodragers have developed a state of pure foc
   "name": "Falchion"
 "source":
 - "SaF"
-"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/White\
-  \ Tusk Bloodrager.png"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/White%20Tusk%20Bloodrager.png"
 ```
 ^statblock
 

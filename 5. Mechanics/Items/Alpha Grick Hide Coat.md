@@ -8,6 +8,7 @@ tags:
   - item/rarity/rare
 aliases:
   - Alpha Grick Hide Coat
+armorClass: 12 + DEX
 ---
 # Alpha Grick Hide Coat
 *Light Armor, rare, Crafted by*  

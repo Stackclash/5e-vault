@@ -26,7 +26,7 @@ At each indicated cleric level, add the listed spells to your spells prepared. T
 | Cleric Level | Spells |
 |--------------|--------|
 | 1st | [[5. Mechanics/Spells/False Life.md\|false life]], [[5. Mechanics/Spells/Ray Of Sickness.md\|ray of sickness]] |
-| 3rd | [blindness/deafness](compendium/spells/blindness-deafness.md), [[5. Mechanics/Spells/Ray Of Enfeeblement.md\|ray of enfeeblement]] |
+| 3rd | [[5. Mechanics/Spells/Blindness Deafness.md\|blindness/deafness]], [[5. Mechanics/Spells/Ray Of Enfeeblement.md\|ray of enfeeblement]] |
 | 5th | [[5. Mechanics/Spells/Animate Dead.md\|animate dead]], [[5. Mechanics/Spells/Vampiric Touch.md\|vampiric touch]] |
 | 7th | [[5. Mechanics/Spells/Blight.md\|blight]], [[5. Mechanics/Spells/Death Ward.md\|death ward]] |
 | 9th | [[5. Mechanics/Spells/Antilife Shell.md\|antilife shell]], [[5. Mechanics/Spells/Cloudkill.md\|cloudkill]] |

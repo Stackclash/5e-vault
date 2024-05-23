@@ -9,6 +9,7 @@ tags:
   - item/tier/major
 aliases:
   - Spellguard Shield
+armorClass: 2
 ---
 # Spellguard Shield
 *Shield, major, very rare (requires attunement)*  

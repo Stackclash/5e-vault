@@ -9,6 +9,7 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Stone Swim Armor
+armorClass: 18
 ---
 # Stone Swim Armor
 *Heavy Armor, very rare, Crafted by (requires attunement)*  

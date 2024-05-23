@@ -10,6 +10,9 @@ tags:
 aliases:
   - Trident
 cost: 500
+one-hand-damage: 1d6 P
+two-hand-damage: 1d8 P
+range: 20/60
 ---
 # Trident
 *Melee Weapon*  

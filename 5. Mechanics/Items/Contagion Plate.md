@@ -9,6 +9,7 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Contagion Plate
+armorClass: 18
 ---
 # Contagion Plate
 *Heavy Armor, very rare, Crafted by (requires attunement)*  

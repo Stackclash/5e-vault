@@ -11,6 +11,8 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Trickster's Hammer
+one-hand-damage: 1d8 B
+two-hand-damage: 1d10 B
 ---
 # Trickster's Hammer
 *Melee Weapon, very rare, Crafted by (requires attunement)*  

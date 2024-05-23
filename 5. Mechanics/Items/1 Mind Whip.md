@@ -12,6 +12,7 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - +1 Mind Whip
+one-hand-damage: 1d4 S
 ---
 # +1 Mind Whip
 *Melee Weapon, very rare, Crafted by (requires attunement)*  

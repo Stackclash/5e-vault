@@ -9,6 +9,8 @@ tags:
 aliases:
   - Longsword
 cost: 1500
+one-hand-damage: 1d8 S
+two-hand-damage: 1d10 S
 ---
 # Longsword
 *Melee Weapon*  

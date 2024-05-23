@@ -11,6 +11,8 @@ tags:
   - item/weapon/martial/ranged
 aliases:
   - Automatic Rifle
+one-hand-damage: 2d8 P
+range: 80/240
 ---
 # Automatic Rifle
 *Ranged Weapon*  

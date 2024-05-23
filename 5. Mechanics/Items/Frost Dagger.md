@@ -11,6 +11,8 @@ tags:
   - item/weapon/simple/melee
 aliases:
   - Frost Dagger
+one-hand-damage: 1d4 C
+range: 20/60
 ---
 # Frost Dagger
 *Melee Weapon, rare, Crafted by*  

@@ -8,6 +8,7 @@ tags:
   - item/rarity/rare
 aliases:
   - Acrobat's Plate
+armorClass: 18
 ---
 # Acrobat's Plate
 *Heavy Armor, rare, Crafted by*  

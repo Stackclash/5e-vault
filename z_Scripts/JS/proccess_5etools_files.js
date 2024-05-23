@@ -43,7 +43,7 @@ const config = {
 
                 newFileName = newFileName
                     .replaceAll(/(^|[\/\\\-])([a-z0-9])(?!mg[\/\\]|oken[\/\\])/g, (oldText, separator, letter) => separator === '-' ? ' '+letter.toUpperCase() : separator+letter.toUpperCase())
-                    .replace(/\s*(HB|DMG|MM|VRGR|XGE|VGM|TCE|MPMM|MTF|CoS|SaF|ERLW|Hhhvi|Hhhvii|Hhhviii|Hhbh)$/i, '')
+                    .replace(/\s*(HB|DMG|MM|VRGR|XGE|VGM|TCE|MPMM|MTF|CoS|SaF|ERLW|Hhhvi|Hhhvii|Hhhviii|Hhbh|VEoR)$/i, '')
                 
                 return newFileName
             }
@@ -146,6 +146,7 @@ class CompendiumFile {
         this._oldContent = !['.jpg', '.jpeg', '.png', '.webp'].includes(path.parse(filePath).ext) ? fs.readFileSync(filePath, 'utf-8') : fs.readFileSync(filePath)
         this.content = this._oldContent
         this.execute = () => {
+            let moveFile = true
             fs.mkdirSync(path.parse(this.path).dir, {recursive: true})
 
             if (fs.existsSync(this.path) && !['.jpg', '.jpeg', '.png', '.webp'].includes(this.fileExtension)) {
@@ -162,10 +163,18 @@ class CompendiumFile {
                         finalFrontMatter[prop] = newFrontMatter[prop]
                     }
                 }
-
+                
                 this.content = matter.stringify(newContent, finalFrontMatter)
             }
-            fs.writeFileSync(this.path, this.content)
+            const newFileFrontMatter = matter(this.content).data
+            if (/npc/i.test(this.path) && newFileFrontMatter.tags && !newFileFrontMatter.tags.some(tag => tag === 'compendium/src/5e/cos')) {
+                moveFile = false
+            }
+            if (moveFile) {
+                fs.writeFileSync(this.path, this.content)
+            } else {
+                console.log(`NOT MOVING ${this.path}`)
+            }
             fs.unlinkSync(this._oldPath)
         }
     }

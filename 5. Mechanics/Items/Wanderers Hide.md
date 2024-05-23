@@ -8,6 +8,7 @@ tags:
   - item/rarity/rare
 aliases:
   - Wanderer's Hide
+armorClass: 12 + DEX (max of +2)
 ---
 # Wanderer's Hide
 *Medium Armor, rare, Crafted by*  

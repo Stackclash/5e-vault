@@ -10,6 +10,7 @@ tags:
 aliases:
   - Shortsword
 cost: 1000
+one-hand-damage: 1d6 P
 ---
 # Shortsword
 *Melee Weapon*  

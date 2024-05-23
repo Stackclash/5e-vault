@@ -9,6 +9,7 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Breastplate of the Boundary
+armorClass: 14 + DEX (max of +2)
 ---
 # Breastplate of the Boundary
 *Medium Armor, very rare, Crafted by (requires attunement)*  

@@ -9,6 +9,7 @@ tags:
   - item/rarity/legendary
 aliases:
   - Armor of Nullification
+armorClass: 18
 ---
 # Armor of Nullification
 *Heavy Armor, legendary, Crafted by (requires attunement)*  

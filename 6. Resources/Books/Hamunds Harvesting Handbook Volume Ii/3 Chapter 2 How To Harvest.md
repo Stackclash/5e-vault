@@ -27,7 +27,7 @@ Appraisal DC 8 + the Harvested Creature's CR (treating any CR less than 1 as 0) 
 The DC of the check is equal to **8 + the Harvested Creature's CR** (treating any CR less than 1 as 0). Success on this check grants the player full knowledge of any useful harvesting materials on the creature, the DC requirement to harvest those materials, any special requirements to harvest them, and any potential risks in doing so. In addition, any harvesting check made on that creature by that player is rolled at advantage. A character may only attempt one appraisal check per creature.
 
 > [!embed-table]- Monster Type/Skill Check
-> ![Monster Type/Skill Check](compendium/tables/monster-type-skill-check-hhhvi.md)
+> ![[5. Mechanics/Tables/Monster Type Skill Check.md\|Monster Type/Skill Check]]
 
 ### Splitting up the responsibilities
 

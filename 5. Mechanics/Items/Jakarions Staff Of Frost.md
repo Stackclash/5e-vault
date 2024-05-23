@@ -9,6 +9,8 @@ tags:
   - item/wondrous/staff
 aliases:
   - Jakarion's Staff of Frost
+one-hand-damage: 1d6 B
+two-hand-damage: 1d8 B
 ---
 # Jakarion's Staff of Frost
 *Staff, very rare (requires attunement by a druid, sorcerer, warlock, or wizard)*  

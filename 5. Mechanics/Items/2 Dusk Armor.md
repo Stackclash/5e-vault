@@ -9,6 +9,7 @@ tags:
   - item/rarity/very-rare
 aliases:
   - +2 Dusk Armor
+armorClass: 18
 ---
 # +2 Dusk Armor
 *Heavy Armor, very rare, Crafted by (requires attunement)*  

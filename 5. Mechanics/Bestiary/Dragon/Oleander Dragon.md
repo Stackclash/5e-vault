@@ -91,8 +91,7 @@ Lacking physical attacks, Nerium relies on Implant Nightmare to overwhelm her en
   "name": "Song of Cestilani (1/day)"
 "source":
 - "SaF"
-"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Oleander\
-  \ Dragon.png"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Oleander%20Dragon.png"
 ```
 ^statblock
 

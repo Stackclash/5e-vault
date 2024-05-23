@@ -7,6 +7,7 @@ tags:
 aliases:
   - Ring Mail
 cost: 3000
+armorClass: 14
 ---
 # Ring Mail
 *Heavy Armor*  

@@ -9,6 +9,7 @@ tags:
   - item/rarity/legendary
 aliases:
   - Armor of the Infernal Enforcer
+armorClass: 12 + DEX
 ---
 # Armor of the Infernal Enforcer
 *Light Armor, legendary, Crafted by (requires attunement)*  

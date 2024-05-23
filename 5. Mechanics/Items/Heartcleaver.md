@@ -12,6 +12,7 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Heartcleaver
+one-hand-damage: 1d12 S
 ---
 # Heartcleaver
 *Melee Weapon, artifact (requires attunement)*  

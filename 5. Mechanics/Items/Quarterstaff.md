@@ -8,6 +8,8 @@ tags:
 aliases:
   - Quarterstaff
 cost: 20
+one-hand-damage: 1d6 B
+two-hand-damage: 1d8 B
 ---
 # Quarterstaff
 *Melee Weapon*  

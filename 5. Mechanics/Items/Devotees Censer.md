@@ -9,6 +9,7 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Devotee's Censer
+one-hand-damage: 1d8 B
 ---
 # Devotee's Censer
 *Melee Weapon, rare (requires attunement by a cleric or paladin)*  

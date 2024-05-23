@@ -10,6 +10,7 @@ tags:
 aliases:
   - Greataxe
 cost: 3000
+one-hand-damage: 1d12 S
 ---
 # Greataxe
 *Melee Weapon*  

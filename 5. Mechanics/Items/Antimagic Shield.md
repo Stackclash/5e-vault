@@ -9,6 +9,7 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Antimagic Shield
+armorClass: 2
 ---
 # Antimagic Shield
 *Shield, very rare, Crafted by (requires attunement)*  

@@ -8,6 +8,8 @@ tags:
 aliases:
   - Wooden Staff
 cost: 500
+one-hand-damage: 1d6 B
+two-hand-damage: 1d8 B
 ---
 # Wooden Staff
 *Spellcasting Focus*  

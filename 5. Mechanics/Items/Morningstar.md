@@ -8,6 +8,7 @@ tags:
 aliases:
   - Morningstar
 cost: 1500
+one-hand-damage: 1d8 P
 ---
 # Morningstar
 *Melee Weapon*  

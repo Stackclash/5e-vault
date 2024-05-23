@@ -1,11 +1,15 @@
 ---
 obsidianUIMode: preview
 statblock: inline
+tags:
+  - compendium/src/5e/cos
+  - monster/cr/6
+  - monster/size/medium
+  - monster/type/undead
 location: null
 condition: healthy
 image: 4. World Almanac/NPCs/img/sir-godfrey-gwilym.webp
 relationships: []
-tags: null
 aliases: []
 pronounced: sir GOD-free GWIL-im
 race: '[[5. Mechanics/Races/Human.md|Human]]'

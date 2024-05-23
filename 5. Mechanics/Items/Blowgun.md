@@ -10,6 +10,8 @@ tags:
 aliases:
   - Blowgun
 cost: 1000
+one-hand-damage: 1 P
+range: 25/100
 ---
 # Blowgun
 *Ranged Weapon*  

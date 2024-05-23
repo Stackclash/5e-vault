@@ -50,7 +50,7 @@ This chapter describes the most common spells in the worlds of Dungeons & Dragon
 - [[5. Mechanics/Spells/Unseen Servant.md\|Unseen Servant]]  
 
 - [[5. Mechanics/Spells/Animal Messenger.md\|Animal Messenger]]  
-- [Blindness/Deafness](compendium/spells/blindness-deafness.md)  
+- [[5. Mechanics/Spells/Blindness Deafness.md\|Blindness/Deafness]]  
 - [[5. Mechanics/Spells/Calm Emotions.md\|Calm Emotions]]  
 - [[5. Mechanics/Spells/Cloud Of Daggers.md\|Cloud of Daggers]]  
 - [[5. Mechanics/Spells/Crown Of Madness.md\|Crown of Madness]]  
@@ -173,7 +173,7 @@ This chapter describes the most common spells in the worlds of Dungeons & Dragon
 
 - [[5. Mechanics/Spells/Aid.md\|Aid]]  
 - [[5. Mechanics/Spells/Augury.md\|Augury]]  
-- [Blindness/Deafness](compendium/spells/blindness-deafness.md)  
+- [[5. Mechanics/Spells/Blindness Deafness.md\|Blindness/Deafness]]  
 - [[5. Mechanics/Spells/Calm Emotions.md\|Calm Emotions]]  
 - [[5. Mechanics/Spells/Continual Flame.md\|Continual Flame]]  
 - [[5. Mechanics/Spells/Enhance Ability.md\|Enhance Ability]]  
@@ -373,7 +373,7 @@ This chapter describes the most common spells in the worlds of Dungeons & Dragon
 - [[5. Mechanics/Spells/Reverse Gravity.md\|Reverse Gravity]]  
 
 - [[5. Mechanics/Spells/Animal Shapes.md\|Animal Shapes]]  
-- [Antipathy/Sympathy](compendium/spells/antipathy-sympathy.md)  
+- [[5. Mechanics/Spells/Antipathy Sympathy.md\|Antipathy/Sympathy]]  
 - [[5. Mechanics/Spells/Control Weather.md\|Control Weather]]  
 - [[5. Mechanics/Spells/Earthquake.md\|Earthquake]]  
 - [[5. Mechanics/Spells/Feeblemind.md\|Feeblemind]]  
@@ -531,7 +531,7 @@ This chapter describes the most common spells in the worlds of Dungeons & Dragon
 - [[5. Mechanics/Spells/Witch Bolt.md\|Witch Bolt]]  
 
 - [[5. Mechanics/Spells/Alter Self.md\|Alter Self]]  
-- [Blindness/Deafness](compendium/spells/blindness-deafness.md)  
+- [[5. Mechanics/Spells/Blindness Deafness.md\|Blindness/Deafness]]  
 - [[5. Mechanics/Spells/Blur.md\|Blur]]  
 - [[5. Mechanics/Spells/Cloud Of Daggers.md\|Cloud of Daggers]]  
 - [[5. Mechanics/Spells/Crown Of Madness.md\|Crown of Madness]]  
@@ -539,7 +539,7 @@ This chapter describes the most common spells in the worlds of Dungeons & Dragon
 - [[5. Mechanics/Spells/Darkvision.md\|Darkvision]]  
 - [[5. Mechanics/Spells/Detect Thoughts.md\|Detect Thoughts]]  
 - [[5. Mechanics/Spells/Enhance Ability.md\|Enhance Ability]]  
-- [Enlarge/Reduce](compendium/spells/enlarge-reduce.md)  
+- [[5. Mechanics/Spells/Enlarge Reduce.md\|Enlarge/Reduce]]  
 - [[5. Mechanics/Spells/Gust Of Wind.md\|Gust of Wind]]  
 - [[5. Mechanics/Spells/Hold Person.md\|Hold Person]]  
 - [[5. Mechanics/Spells/Invisibility.md\|Invisibility]]  
@@ -769,7 +769,7 @@ This chapter describes the most common spells in the worlds of Dungeons & Dragon
 
 - [[5. Mechanics/Spells/Alter Self.md\|Alter Self]]  
 - [[5. Mechanics/Spells/Arcane Lock.md\|Arcane Lock]]  
-- [Blindness/Deafness](compendium/spells/blindness-deafness.md)  
+- [[5. Mechanics/Spells/Blindness Deafness.md\|Blindness/Deafness]]  
 - [[5. Mechanics/Spells/Blur.md\|Blur]]  
 - [[5. Mechanics/Spells/Cloud Of Daggers.md\|Cloud of Daggers]]  
 - [[5. Mechanics/Spells/Continual Flame.md\|Continual Flame]]  
@@ -777,7 +777,7 @@ This chapter describes the most common spells in the worlds of Dungeons & Dragon
 - [[5. Mechanics/Spells/Darkness.md\|Darkness]]  
 - [[5. Mechanics/Spells/Darkvision.md\|Darkvision]]  
 - [[5. Mechanics/Spells/Detect Thoughts.md\|Detect Thoughts]]  
-- [Enlarge/Reduce](compendium/spells/enlarge-reduce.md)  
+- [[5. Mechanics/Spells/Enlarge Reduce.md\|Enlarge/Reduce]]  
 - [[5. Mechanics/Spells/Flaming Sphere.md\|Flaming Sphere]]  
 - [[5. Mechanics/Spells/Gentle Repose.md\|Gentle Repose]]  
 - [[5. Mechanics/Spells/Gust Of Wind.md\|Gust of Wind]]  
@@ -918,7 +918,7 @@ This chapter describes the most common spells in the worlds of Dungeons & Dragon
 - [[5. Mechanics/Spells/Teleport.md\|Teleport]]  
 
 - [[5. Mechanics/Spells/Antimagic Field.md\|Antimagic Field]]  
-- [Antipathy/Sympathy](compendium/spells/antipathy-sympathy.md)  
+- [[5. Mechanics/Spells/Antipathy Sympathy.md\|Antipathy/Sympathy]]  
 - [[5. Mechanics/Spells/Clone.md\|Clone]]  
 - [[5. Mechanics/Spells/Control Weather.md\|Control Weather]]  
 - [[5. Mechanics/Spells/Demiplane.md\|Demiplane]]  
@@ -959,7 +959,7 @@ The spells are presented in alphabetical order.
 - [[5. Mechanics/Spells/Animate Objects.md\|Animate Objects]]  
 - [[5. Mechanics/Spells/Antilife Shell.md\|Antilife Shell]]  
 - [[5. Mechanics/Spells/Antimagic Field.md\|Antimagic Field]]  
-- [Antipathy/Sympathy](compendium/spells/antipathy-sympathy.md)  
+- [[5. Mechanics/Spells/Antipathy Sympathy.md\|Antipathy/Sympathy]]  
 - [[5. Mechanics/Spells/Arcane Eye.md\|Arcane Eye]]  
 - [[5. Mechanics/Spells/Arcane Gate.md\|Arcane Gate]]  
 - [[5. Mechanics/Spells/Arcane Lock.md\|Arcane Lock]]  
@@ -984,7 +984,7 @@ The spells are presented in alphabetical order.
 - [[5. Mechanics/Spells/Bless.md\|Bless]]  
 - [[5. Mechanics/Spells/Blight.md\|Blight]]  
 - [[5. Mechanics/Spells/Blinding Smite.md\|Blinding Smite]]  
-- [Blindness/Deafness](compendium/spells/blindness-deafness.md)  
+- [[5. Mechanics/Spells/Blindness Deafness.md\|Blindness/Deafness]]  
 - [[5. Mechanics/Spells/Blink.md\|Blink]]  
 - [[5. Mechanics/Spells/Blur.md\|Blur]]  
 - [[5. Mechanics/Spells/Branding Smite.md\|Branding Smite]]  
@@ -1064,7 +1064,7 @@ The spells are presented in alphabetical order.
 - [[5. Mechanics/Spells/Eldritch Blast.md\|Eldritch Blast]]  
 - [[5. Mechanics/Spells/Elemental Weapon.md\|Elemental Weapon]]  
 - [[5. Mechanics/Spells/Enhance Ability.md\|Enhance Ability]]  
-- [Enlarge/Reduce](compendium/spells/enlarge-reduce.md)  
+- [[5. Mechanics/Spells/Enlarge Reduce.md\|Enlarge/Reduce]]  
 - [[5. Mechanics/Spells/Ensnaring Strike.md\|Ensnaring Strike]]  
 - [[5. Mechanics/Spells/Entangle.md\|Entangle]]  
 - [[5. Mechanics/Spells/Enthrall.md\|Enthrall]]  

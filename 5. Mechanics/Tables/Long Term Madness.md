@@ -18,7 +18,7 @@ aliases:
 | 01-10 | The character feels compelled to repeat a specific activity over and over, such as washing hands, touching things, praying, or counting coins. |
 | 11-20 | The character experiences vivid hallucinations and has disadvantage on ability checks. |
 | 21-30 | The character suffers extreme paranoia. The character has disadvantage on Wisdom and Charisma checks. |
-| 31-40 | The character regards something (usually the source of madness) with intense revulsion, as if affected by the antipathy effect of the [antipathy/sympathy](compendium/spells/antipathy-sympathy.md) spell. |
+| 31-40 | The character regards something (usually the source of madness) with intense revulsion, as if affected by the antipathy effect of the [[5. Mechanics/Spells/Antipathy Sympathy.md\|antipathy/sympathy]] spell. |
 | 41-45 | The character experiences a powerful delusion. Choose a potion. The character imagines that he or she is under its effects. |
 | 46-55 | The character becomes attached to a "lucky charm," such as a person or an object, and has disadvantage on attack rolls, ability checks, and saving throws while more than 30 feet from it. |
 | 56-65 | The character is [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]] (25%) or [[/5. Mechanics/Rules/Conditions.md#deafened\|deafened]] (75%). |

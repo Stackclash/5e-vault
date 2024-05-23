@@ -7,6 +7,7 @@ tags:
   - item/wondrous/wondrous-item
 aliases:
   - Flensing Claws (Medium)
+one-hand-damage: 1d10 S
 ---
 # Flensing Claws (Medium)
 *Other, unknown*  

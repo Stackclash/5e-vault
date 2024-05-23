@@ -10,6 +10,8 @@ tags:
   - item/weapon/simple/melee
 aliases:
   - Staff of Multiplied Recovery
+one-hand-damage: 1d6 B
+two-hand-damage: 1d8 B
 ---
 # Staff of Multiplied Recovery
 *Melee Weapon, very rare, Crafted by (requires attunement)*  

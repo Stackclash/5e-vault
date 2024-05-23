@@ -9,6 +9,7 @@ tags:
   - item/tier/major
 aliases:
   - Shield of Missile Attraction
+armorClass: 2
 ---
 # Shield of Missile Attraction
 *Shield, major, rare (requires attunement)*  

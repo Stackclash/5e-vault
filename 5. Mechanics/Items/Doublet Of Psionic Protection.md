@@ -9,6 +9,7 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Doublet of Psionic Protection
+armorClass: 12 + DEX
 ---
 # Doublet of Psionic Protection
 *Light Armor, very rare, Crafted by (requires attunement)*  

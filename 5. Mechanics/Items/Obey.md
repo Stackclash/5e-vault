@@ -10,6 +10,8 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Obey
+one-hand-damage: 1d8 S
+two-hand-damage: 1d10 S
 ---
 # Obey
 *Melee Weapon, very rare (requires attunement by a lawful creature)*  

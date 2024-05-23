@@ -8,6 +8,7 @@ tags:
   - item/tier/major
 aliases:
   - Elven Chain
+armorClass: 13 + DEX (max of +2)
 ---
 # Elven Chain
 *Medium Armor, major, rare*  

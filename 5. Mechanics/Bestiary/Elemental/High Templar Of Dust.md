@@ -89,8 +89,7 @@ The High Templar of Dust focuses on movement, moving through enemies to use its 
   "name": "Fire"
 "source":
 - "SaF"
-"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/High\
-  \ Templar of Dust.png"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/High%20Templar%20of%20Dust.png"
 ```
 ^statblock
 

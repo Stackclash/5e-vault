@@ -99,7 +99,7 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
     \ ([[5. Mechanics/Bestiary/Elemental/Fire Elemental.md|fire elemental]] only), [[5. Mechanics/Spells/Gaseous Form.md|gaseous\
     \ form]], [[5. Mechanics/Spells/Invisibility.md|invisibility]],\
     \ [[5. Mechanics/Spells/Major Image.md|major image]], [[5. Mechanics/Spells/Plane Shift.md|plane shift]],\
-    \ [[5. Mechanics/Spells/Wall Of Fire.md|wall of fire]]\n\n3/day each: [enlarge/reduce](compendium/spells/enlarge-reduce.md),\
+    \ [[5. Mechanics/Spells/Wall Of Fire.md|wall of fire]]\n\n3/day each: [[5. Mechanics/Spells/Enlarge Reduce.md|enlarge/reduce]],\
     \ [[5. Mechanics/Spells/Tongues.md|tongues]]"
   "name": "Innate Spellcasting"
 - "desc": "If the efreeti dies, its body disintegrates in a flash of fire and puff\

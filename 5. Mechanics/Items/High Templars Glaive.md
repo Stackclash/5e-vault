@@ -11,6 +11,7 @@ tags:
   - item/weapon/simple/melee
 aliases:
   - High Templar's Glaive
+one-hand-damage: 1d10 S
 ---
 # High Templar's Glaive
 *Melee Weapon, very rare (requires attunement)*  

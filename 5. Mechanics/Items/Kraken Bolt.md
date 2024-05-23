@@ -8,6 +8,7 @@ tags:
   - item/weapon/ammunition
 aliases:
   - Kraken Bolt
+range: 120/480
 ---
 # Kraken Bolt
 *Ammunition, very rare, Crafted by*  

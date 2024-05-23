@@ -9,6 +9,7 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Young Remorhaz Plate
+armorClass: 18
 ---
 # Young Remorhaz Plate
 *Heavy Armor, very rare, Crafted by (requires attunement)*  

@@ -9,6 +9,7 @@ tags:
   - item/rarity/rare
 aliases:
   - Serpent Shield
+armorClass: 2
 ---
 # Serpent Shield
 *Shield, rare, Crafted by (requires attunement)*  

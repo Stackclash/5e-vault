@@ -11,6 +11,7 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Blackrazor
+one-hand-damage: 2d6 S
 ---
 # Blackrazor
 *Melee Weapon, legendary (requires attunement by a creature of non-lawful alignment)*  

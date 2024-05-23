@@ -10,6 +10,9 @@ tags:
   - item/weapon/simple/melee
 aliases:
   - Blood Spear
+one-hand-damage: 1d6 P
+two-hand-damage: 1d8 P
+range: 20/60
 ---
 # Blood Spear
 *Melee Weapon, uncommon (requires attunement)*  

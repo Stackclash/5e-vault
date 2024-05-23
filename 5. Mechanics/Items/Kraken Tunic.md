@@ -9,6 +9,7 @@ tags:
   - item/rarity/legendary
 aliases:
   - Kraken Tunic
+armorClass: 12 + DEX
 ---
 # Kraken Tunic
 *Light Armor, legendary, Crafted by (requires attunement)*  

@@ -11,6 +11,7 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - 'The Tyrant''s Twinblades, Vincere and Punire'
+one-hand-damage: 1d6 P
 ---
 # The Tyrant's Twinblades, Vincere and Punire
 *Melee Weapon, very rare (requires attunement by an evil creature)*  

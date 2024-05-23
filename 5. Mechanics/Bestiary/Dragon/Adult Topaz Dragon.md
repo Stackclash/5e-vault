@@ -87,8 +87,7 @@ They're approachable and easy to talk to as long as you don't mind never getting
   "name": "Psionic Shift (Costs 2 Actions)"
 "source":
 - "SaF"
-"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Large\
-  \ Topaz Dragon.png"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Large%20Topaz%20Dragon.png"
 ```
 ^statblock
 

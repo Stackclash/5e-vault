@@ -8,6 +8,8 @@ tags:
 aliases:
   - Staff
 cost: 500
+one-hand-damage: 1d6 B
+two-hand-damage: 1d8 B
 ---
 # Staff
 *Spellcasting Focus*  

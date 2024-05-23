@@ -10,6 +10,8 @@ tags:
   - item/wondrous/staff
 aliases:
   - Staff of Fire
+one-hand-damage: 1d6 B
+two-hand-damage: 1d8 B
 ---
 # Staff of Fire
 *Staff, major, very rare (requires attunement by a druid, sorcerer, warlock, or wizard)*  

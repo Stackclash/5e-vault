@@ -9,6 +9,7 @@ tags:
   - item/weapon/simple/melee
 aliases:
   - Harvest
+one-hand-damage: 1d4 S
 ---
 # Harvest
 *Melee Weapon, very rare (requires attunement by an evil creature)*  

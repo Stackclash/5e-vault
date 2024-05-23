@@ -16,7 +16,7 @@ aliases:
 | dice: d10 | Effects |
 |-----------|---------|
 | 1 | The creature's skin turns an unusual color. Roll a `dice: d4\|avg\|noform` (`d4`): 1, purple with yellow splotches; 2, bright orange with tiger stripes; 3, tree-frog green with red squiggles; 4, hot pink with yellow spots. This change is permanent unless removed by a [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell or similar magic. |
-| 2 | The creature gains the enlarge or reduce effect (50% chance chance of either) of the [enlarge/reduce](compendium/spells/enlarge-reduce.md) spell for 1 hour. |
+| 2 | The creature gains the enlarge or reduce effect (50% chance chance of either) of the [[5. Mechanics/Spells/Enlarge Reduce.md\|enlarge/reduce]] spell for 1 hour. |
 | 3 | The creature regains `dice: 5d8 + 20\|avg\|noform` (`5d8 + 20`) hit points. |
 | 4 | Vocally, the creature can only cluck and croon like a chicken. The creature can also understand and speak to chickens. This curse lasts for 1 hour unless ended by a [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell or similar magic. |
 | 5 | The creature can understand and speak all languages for `dice: 1d4\|avg\|noform` (`1d4`) days. |

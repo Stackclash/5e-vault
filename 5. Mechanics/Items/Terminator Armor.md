@@ -8,6 +8,7 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Terminator Armor
+armorClass: 18
 ---
 # Terminator Armor
 *Heavy Armor, very rare, Crafted by*  

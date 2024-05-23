@@ -9,6 +9,7 @@ tags:
   - item/rarity/rare
 aliases:
   - Suit of Shadows
+armorClass: 12 + DEX (max of +2)
 ---
 # Suit of Shadows
 *Medium Armor, rare, Crafted by (requires attunement)*  

@@ -10,6 +10,8 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Disruptor
+one-hand-damage: 1d8 S
+two-hand-damage: 1d10 S
 ---
 # Disruptor
 *Melee Weapon, very rare (requires attunement by a chaotic creature)*  

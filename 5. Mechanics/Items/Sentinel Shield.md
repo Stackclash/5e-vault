@@ -8,6 +8,7 @@ tags:
   - item/tier/major
 aliases:
   - Sentinel Shield
+armorClass: 2
 ---
 # Sentinel Shield
 *Shield, major, uncommon*  

@@ -10,6 +10,7 @@ tags:
 aliases:
   - Whip
 cost: 200
+one-hand-damage: 1d4 S
 ---
 # Whip
 *Melee Weapon*  

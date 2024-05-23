@@ -11,7 +11,7 @@ aliases:
   - Lemure
 ---
 # [[5. Mechanics\Bestiary\Fiend\Lemure.md|Lemure]]
-*Source: Monster Manual p. 76. Available in the SRD.*
+*Source: Monster Manual p. 76, Vecna: Eve of Ruin. Available in the SRD.*
 
 A lemure arises when a mortal soul is twisted by evil and banished to the Nine Hells for eternity. The lowest type of devil, lemures are repugnant, shapeless creatures doomed to suffer torment until they are promoted to a higher form of devil, most commonly an imp.
 
@@ -177,6 +177,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - "WDH"
 - "BGDIA"
 - "PSI"
+- "VEoR"
 "image": "5. Mechanics/Bestiary/Fiend/token/lemure.webp"
 ```
 ^statblock

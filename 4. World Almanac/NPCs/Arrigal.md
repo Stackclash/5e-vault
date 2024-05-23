@@ -1,13 +1,17 @@
 ---
 obsidianUIMode: preview
 statblock: inline
+tags:
+  - compendium/src/5e/cos
+  - monster/cr/8
+  - monster/size/medium
+  - monster/type/humanoid/human
 location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
 condition: healthy
 image: 4. World Almanac/NPCs/img/arrigal.webp
 relationships:
   - Luvash|brother
   - Arabelle|uncle
-tags: null
 aliases: []
 pronounced: AH-ri-gal
 race: null

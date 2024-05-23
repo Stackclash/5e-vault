@@ -8,6 +8,7 @@ tags:
   - item/weapon/simple/melee
 aliases:
   - Glory
+one-hand-damage: 1d6 B
 ---
 # Glory
 *Melee Weapon, very rare (requires attunement by a good creature)*  

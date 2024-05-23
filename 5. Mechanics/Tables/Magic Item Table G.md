@@ -15,7 +15,7 @@ aliases:
 
 | dice: d100 | Magic Item |
 |------------|------------|
-| 01-11 | [+2 weapon](compendium/items/2-weapon.md) |
+| 01-11 | [[5. Mechanics/Items/2 Weapon.md\|+2 weapon]] |
 | 12-14 | **Figurine of Wondrous Power**<br /><br />`dice: [[Magic Item Table G.md#^figurine-of-wondrous-power]]`<br /><br />| dice: d8 | Magic Item |<br />|----------|------------|<br />| 01 | [[5. Mechanics/Items/Figurine Of Wondrous Power Bronze Griffon.md\|Figurine of wondrous power, bronze griffon]] |<br />| 02 | [[5. Mechanics/Items/Figurine Of Wondrous Power Ebony Fly.md\|Figurine of wondrous power, ebony fly]] |<br />| 03 | [[5. Mechanics/Items/Figurine Of Wondrous Power Golden Lions.md\|Figurine of wondrous power, golden lions]] |<br />| 04 | [[5. Mechanics/Items/Figurine Of Wondrous Power Ivory Goats.md\|Figurine of wondrous power, ivory goats]] |<br />| 05 | [[5. Mechanics/Items/Figurine Of Wondrous Power Marble Elephant.md\|Figurine of wondrous power, marble elephant]] |<br />| 06-07 | [[5. Mechanics/Items/Figurine Of Wondrous Power Onyx Dog.md\|Figurine of wondrous power, onyx dog]] |<br />| 08 | [[5. Mechanics/Items/Figurine Of Wondrous Power Serpentine Owl.md\|Figurine of wondrous power, serpentine owl]] |<br />^figurine-of-wondrous-power |
 | 15 | [[5. Mechanics/Items/Adamantine Armor.md\|Adamantine breastplate]] |
 | 16 | [[5. Mechanics/Items/Adamantine Armor.md\|Adamantine splint armor]] |
@@ -32,9 +32,9 @@ aliases:
 | 27 | [[5. Mechanics/Items/Brazier Of Commanding Fire Elementals.md\|Brazier of commanding fire elementals]] |
 | 28 | [[5. Mechanics/Items/Cape Of The Mountebank.md\|Cape of the mountebank]] |
 | 29 | [[5. Mechanics/Items/Censer Of Controlling Air Elementals.md\|Censer of controlling air elementals]] |
-| 30 | [+1 chain mail](compendium/items/1-armor.md) |
+| 30 | [[5. Mechanics/Items/1 Armor.md\|+1 chain mail]] |
 | 31 | [[5. Mechanics/Items/Armor Of Resistance.md\|Chain mail of resistance]] |
-| 32 | [+1 chain shirt](compendium/items/1-armor.md) |
+| 32 | [[5. Mechanics/Items/1 Armor.md\|+1 chain shirt]] |
 | 33 | [[5. Mechanics/Items/Armor Of Resistance.md\|Chain shirt of resistance]] |
 | 34 | [[5. Mechanics/Items/Cloak Of Displacement.md\|Cloak of displacement]] |
 | 35 | [[5. Mechanics/Items/Cloak Of The Bat.md\|Cloak of the bat]] |
@@ -58,7 +58,7 @@ aliases:
 | 53 | [[5. Mechanics/Items/Ioun Stone Reserve.md\|Ioun stone, reserve]] |
 | 54 | [[5. Mechanics/Items/Ioun Stone Sustenance.md\|Ioun stone, sustenance]] |
 | 55 | [[5. Mechanics/Items/Iron Bands Of Bilarro.md\|Iron bands of bilarro]] |
-| 56 | [+1 leather armor](compendium/items/1-armor.md) |
+| 56 | [[5. Mechanics/Items/1 Armor.md\|+1 leather armor]] |
 | 57 | [[5. Mechanics/Items/Armor Of Resistance.md\|Leather armor of resistance]] |
 | 58 | [[5. Mechanics/Items/Mace Of Disruption.md\|Mace of disruption]] |
 | 59 | [[5. Mechanics/Items/Mace Of Smiting.md\|Mace of smiting]] |
@@ -77,11 +77,11 @@ aliases:
 | 72 | [[5. Mechanics/Items/Ring Of X Ray Vision.md\|Ring of x-ray vision]] |
 | 73 | [[5. Mechanics/Items/Robe Of Eyes.md\|Robe of eyes]] |
 | 74 | [[5. Mechanics/Items/Rod Of Rulership.md\|Rod of rulership]] |
-| 75 | [+2 rod of the pact keeper](compendium/items/2-rod-of-the-pact-keeper.md) |
+| 75 | [[5. Mechanics/Items/2 Rod Of The Pact Keeper.md\|+2 rod of the pact keeper]] |
 | 76 | [[5. Mechanics/Items/Rope Of Entanglement.md\|Rope of entanglement]] |
-| 77 | [+1 scale mail](compendium/items/1-armor.md) |
+| 77 | [[5. Mechanics/Items/1 Armor.md\|+1 scale mail]] |
 | 78 | [[5. Mechanics/Items/Armor Of Resistance.md\|Scale mail of resistance]] |
-| 79 | [+2 shield](compendium/items/2-shield.md) |
+| 79 | [[5. Mechanics/Items/2 Shield.md\|+2 shield]] |
 | 80 | [[5. Mechanics/Items/Shield Of Missile Attraction.md\|Shield of missile attraction]] |
 | 81 | [[5. Mechanics/Items/Staff Of Charming.md\|Staff of charming]] |
 | 82 | [[5. Mechanics/Items/Staff Of Healing.md\|Staff of healing]] |
@@ -100,7 +100,7 @@ aliases:
 | 95 | [[5. Mechanics/Items/Wand Of Fireballs.md\|Wand of fireballs]] |
 | 96 | [[5. Mechanics/Items/Wand Of Lightning Bolts.md\|Wand of lightning bolts]] |
 | 97 | [[5. Mechanics/Items/Wand Of Paralysis.md\|Wand of paralysis]] |
-| 98 | [+2 wand of the war mage](compendium/items/2-wand-of-the-war-mage.md) |
+| 98 | [[5. Mechanics/Items/2 Wand Of The War Mage.md\|+2 wand of the war mage]] |
 | 99 | [[5. Mechanics/Items/Wand Of Wonder.md\|Wand of wonder]] |
 | 00 | [[5. Mechanics/Items/Wings Of Flying.md\|Wings of flying]] |
 ^magic-item-table-g

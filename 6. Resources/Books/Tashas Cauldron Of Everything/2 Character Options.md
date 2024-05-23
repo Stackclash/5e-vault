@@ -121,13 +121,13 @@ You gain class features in the "Player's Handbook" when you reach certain levels
 The spells in the following list expand the bard spell list in the "Player's Handbook". The list is organized by spell level, not character level. If a spell can be cast as a ritual, the ritual tag appears after the spell's name. Each spell is in the "Player's Handbook", unless it has an asterisk (a spell in chapter 3). "Xanathar's Guide to Everything" also offers more spells.
 
 - 1st level: [[5. Mechanics/Spells/Color Spray.md\|Color spray]], [[5. Mechanics/Spells/Command.md\|Command]]  
-- 2nd level: [[5. Mechanics/Spells/Aid.md\|Aid]], [Enlarge/reduce](compendium/spells/enlarge-reduce.md), [[5. Mechanics/Spells/Mirror Image.md\|Mirror image]]  
+- 2nd level: [[5. Mechanics/Spells/Aid.md\|Aid]], [[5. Mechanics/Spells/Enlarge Reduce.md\|Enlarge/reduce]], [[5. Mechanics/Spells/Mirror Image.md\|Mirror image]]  
 - 3rd level: [[5. Mechanics/Spells/Intellect Fortress.md\|Intellect fortress]],* [[5. Mechanics/Spells/Mass Healing Word.md\|Mass healing word]], [[5. Mechanics/Spells/Slow.md\|Slow]]  
 - 4th level: [[5. Mechanics/Spells/Phantasmal Killer.md\|Phantasmal killer]]  
 - 5th level: [[5. Mechanics/Spells/Rarys Telepathic Bond.md\|Rary's telepathic bond]] (ritual)  
 - 6th level: [[5. Mechanics/Spells/Heroes Feast.md\|Heroes' feast]]  
 - 7th level: [[5. Mechanics/Spells/Dream Of The Blue Veil.md\|Dream of the blue veil]],* [[5. Mechanics/Spells/Prismatic Spray.md\|Prismatic spray]]  
-- 8th level: [Antipathy/sympathy](compendium/spells/antipathy-sympathy.md)  
+- 8th level: [[5. Mechanics/Spells/Antipathy Sympathy.md\|Antipathy/sympathy]]  
 - 9th level: [[5. Mechanics/Spells/Prismatic Wall.md\|Prismatic wall]]  
 
 [Magical Inspiration](compendium/classes/bard.md#Magical%20Inspiration%20(Level%202)) (*2nd-level bard feature*)
@@ -203,7 +203,7 @@ You gain class features in the "Player's Handbook" when you reach certain levels
 The spells in the following list expand the druid spell list in the "Player's Handbook". The list is organized by spell level, not character level. If a spell can be cast as a ritual, the ritual tag appears after the spell's name. Each spell is in the "Player's Handbook", unless it has an asterisk (a spell in chapter 3). "Xanathar's Guide to Everything" also offers more spells.
 
 - 1st level: [[5. Mechanics/Spells/Protection From Evil And Good.md\|Protection from evil and good]]  
-- 2nd level: [[5. Mechanics/Spells/Augury.md\|Augury]], (ritual) [[5. Mechanics/Spells/Continual Flame.md\|Continual flame]], [Enlarge/reduce](compendium/spells/enlarge-reduce.md), [[5. Mechanics/Spells/Summon Beast.md\|Summon beast]]*  
+- 2nd level: [[5. Mechanics/Spells/Augury.md\|Augury]], (ritual) [[5. Mechanics/Spells/Continual Flame.md\|Continual flame]], [[5. Mechanics/Spells/Enlarge Reduce.md\|Enlarge/reduce]], [[5. Mechanics/Spells/Summon Beast.md\|Summon beast]]*  
 - 3rd level: [[5. Mechanics/Spells/Aura Of Vitality.md\|Aura of vitality]], [[5. Mechanics/Spells/Elemental Weapon.md\|Elemental weapon]], [[5. Mechanics/Spells/Revivify.md\|Revivify]], [[5. Mechanics/Spells/Summon Fey.md\|Summon fey]]*  
 - 4th level: [[5. Mechanics/Spells/Divination.md\|Divination]], (ritual) [[5. Mechanics/Spells/Fire Shield.md\|Fire shield]], [[5. Mechanics/Spells/Summon Elemental.md\|Summon elemental]]*  
 - 5th level: [[5. Mechanics/Spells/Cone Of Cold.md\|Cone of cold]]  

@@ -22,7 +22,7 @@ one-hand-damage: {resource.damage}
 two-hand-damage: {resource.damage2h}
 {#else}
 one-hand-damage: {resource.damage}
-{/if}{#if resource.range }
+{/if}{/if}{#if resource.range }
 range: {resource.range}
 {/if}
 ---

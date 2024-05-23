@@ -15,7 +15,7 @@ aliases:
 
 | dice: d6 | Mutation |
 |----------|----------|
-| 1 | The creature has grown to an unusual size. You can either set its new size and alter its statistics using the guidelines in the "Dungeon Master's Guide", or apply the enlarge effect of the [enlarge/reduce](compendium/spells/enlarge-reduce.md) spell to it. |
+| 1 | The creature has grown to an unusual size. You can either set its new size and alter its statistics using the guidelines in the "Dungeon Master's Guide", or apply the enlarge effect of the [[5. Mechanics/Spells/Enlarge Reduce.md\|enlarge/reduce]] spell to it. |
 | 2 | The creature has developed magical camouflage. It gains proficiency in the [[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]] skill, and it has the Chameleon Skin trait: it has advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks made to hide. |
 | 3 | The creature's body has been infused with one kind of energy: acid, cold, fire, or lightning (your choice, or determine randomly). Its melee attacks deal an extra `dice: 1d6\|avg\|noform` (`1d6`) damage of that type, and it has the Elemental Body trait: a creature that touches it or hits it with a melee attack while within 5 feet of it takes `dice:1d10\|text(5)` (`1d10`) damage of that type. You can adjust these damage numbers to suit the creature's challenge rating. |
 | 4 | The creature has the Magic Resistance trait: it has advantage on saving throws against spells and other magical effects. |

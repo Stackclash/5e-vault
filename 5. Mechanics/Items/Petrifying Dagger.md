@@ -12,6 +12,8 @@ tags:
   - item/weapon/simple/melee
 aliases:
   - Petrifying Dagger
+one-hand-damage: 1d4 P
+range: 20/60
 ---
 # Petrifying Dagger
 *Melee Weapon, uncommon, Crafted by (requires attunement)*  

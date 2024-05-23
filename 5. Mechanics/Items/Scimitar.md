@@ -10,6 +10,7 @@ tags:
 aliases:
   - Scimitar
 cost: 2500
+one-hand-damage: 1d6 S
 ---
 # Scimitar
 *Melee Weapon*  

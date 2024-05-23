@@ -93,8 +93,7 @@ The Magistrate's deadliest weapon is Storm Strike, which combines chain lightnin
   "name": "Storm Strike (Recharge 6-6)"
 "source":
 - "SaF"
-"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Storm\
-  \ Magistrate.png"
+"image": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/tokens/Storm%20Magistrate.png"
 ```
 ^statblock
 

@@ -11,6 +11,7 @@ tags:
   - item/weapon/martial/melee
 aliases:
   - Hammer of Thunderbolts
+one-hand-damage: 2d6 B
 ---
 # Hammer of Thunderbolts
 *Melee Weapon, major, legendary*  

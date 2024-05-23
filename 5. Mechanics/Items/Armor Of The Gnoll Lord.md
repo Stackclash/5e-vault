@@ -9,6 +9,7 @@ tags:
   - item/rarity/artifact
 aliases:
   - Armor of the Gnoll Lord
+armorClass: 12 + DEX
 ---
 # Armor of the Gnoll Lord
 *Light Armor, artifact, Crafted Artifact (requires attunement)*  
