@@ -451,7 +451,6 @@ location:
 > | **Initiative** | `$=dv.current().modifier` |
 > | **Speed** | `$=dv.current().speed` |
 
-# `$=dv.current().name`
 > [!statblocks|columns]
 > 
 >> [!blank]
