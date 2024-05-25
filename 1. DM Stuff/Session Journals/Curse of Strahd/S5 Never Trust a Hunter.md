@@ -1,17 +1,15 @@
 ---
 obsidianUIMode: preview
 date: 2023-09-17
-summary: >-
-  Encounters a werewolf outside of Vallaki. They leave one alive and tie them to
-  a tree. Once inside of Vallaki they speak to the priest and he confide in them
-  that sacred bones have been stolen. They spend the night at Blue Water Inn.
+summary: Encounters a werewolf outside of Vallaki. They leave one alive and tie them to a tree. Once inside of Vallaki they speak to the priest and he confide in them that sacred bones have been stolen. They spend the night at Blue Water Inn.
 fc-date: 973-2-12
 timelines:
   - COS
 aat-render-enabled: true
 fc-category: Session
-party: '[[Curse of Strahd]]'
-prep-notes: '[[2023-09-17]]'
+party: "[[Curse of Strahd]]"
+prep-notes: "[[2023-09-17]]"
+fc-end: 973-2-13
 ---
 > [!infobox]
 > ## Info
