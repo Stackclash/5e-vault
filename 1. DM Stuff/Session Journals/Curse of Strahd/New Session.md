@@ -30,9 +30,9 @@ fc-end: 973-2-20
 
 ## Key Learnings
 - It is late summer #remember
-- Magic works in [[Bag Of Holding]]
-- There is no oxygen in [[Bag Of Holding]]
-- Time passes by much faster in [[Bag Of Holding]] (20 seconds = 20 minutes)
+- Magic works in [[Bag Of Holding]] #remember 
+- There is no oxygen in [[Bag Of Holding]] #remember 
+- Time passes by much faster in [[Bag Of Holding]] (20 seconds = 20 minutes) #remember 
 - 
 
 ## Items Of Importance
@@ -51,3 +51,5 @@ fc-end: 973-2-20
 - The party finds [[Redgrave]]/Godfry Gwilym's grave
 - [[Marin]] digs up [[Redgrave|Redgrave's]] grave and finds a silver dragon made from silver wire
 - [[Redgrave]] has a flashback when he touched the silver dragon. He had a vision of a really good friend (Emeric). Emeric was leaving to investigate a danger which turned out to be Eludrax, [[Redgrave|Redgrave's]] creator. Godfrey followed his friend and eventually battles Eludrax.
+- The party travels farther south and ends up in the ruined town Berez. There they see ghosts of long dead villagers who pay no attention to them.
+- They meet the 
