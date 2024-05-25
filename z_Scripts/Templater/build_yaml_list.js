@@ -1,11 +1,3 @@
-const build_array_yaml_list = (list, spaces) => {
-  return list.reduce((accum, item) => {
-    const itemString = typeof item === 'string' ? `- "${item}"` : `- ${item}`
-    accum.push(itemString.padStart(spaces + itemString.length))
-    return accum
-  }, []).join(`\n`)
-}
-
 const build_object_yaml_list = (object, spaces) => {
   return Object.entries(object).reduce((accum, [key, value]) => {
     let finalSpaces = spaces
@@ -20,13 +12,7 @@ const build_object_yaml_list = (object, spaces) => {
     } else if (typeof value === 'object') {
       itemString = `${key}: ${build_object_yaml_list(value, spaces+2)}`
     }
-
-    if (accum.length === 0) {
-      itemString = `- ${itemString}`
-    } else {
-      finalSpaces += 2
-    }
-    accum.push(itemString.padStart(finalSpaces + itemString.length))
+    accum.push(itemString.padStart(spaces+ 2 + itemString.length))
 
     return accum
   }, []).join(`\n`)
@@ -35,9 +21,17 @@ const build_object_yaml_list = (object, spaces) => {
 module.exports = (list, spaces) => {
   let result = []
   if (list.length > 0) {
+    list.forEach(item => {
+      if (typeof item === 'string') {
+        itemString = `- "${item}"`
+      } else if (typeof item === 'number') {
+        itemString = `- ${item}`
+      } else if (typeof item === 'object') {
+        itemString = `- ${build_object_yaml_list(item, spaces+2)}`
+      }
+    })
     
-    result.join(`\n`)
-    result = `\n${result}`
+    result = `\n${result.join(`\n`)}`
   } else {
     result = "[]"
   }
