@@ -52,4 +52,4 @@ fc-end: 973-2-20
 - [[Marin]] digs up [[Redgrave|Redgrave's]] grave and finds a silver dragon made from silver wire
 - [[Redgrave]] has a flashback when he touched the silver dragon. He had a vision of a really good friend (Emeric). Emeric was leaving to investigate a danger which turned out to be Eludrax, [[Redgrave|Redgrave's]] creator. Godfrey followed his friend and eventually battles Eludrax.
 - The party travels farther south and ends up in the ruined town Berez. There they see ghosts of long dead villagers who pay no attention to them.
-- They meet the 
+- They meet the Burgomaster Ulrich who is the only one that seems to notice what is happening. He warns the party that it is not safe here and warn them of the witch that lives here.
