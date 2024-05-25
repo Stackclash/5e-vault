@@ -31,7 +31,7 @@ module.exports = (list, spaces) => {
       } else if (typeof item === 'number') {
         itemString = `- ${item}`
       } else if (typeof item === 'object') {
-        itemString = `- ${build_object_yaml_list(item, spaces+2)}`
+        itemString = `- ${build_object_yaml_list(item, spaces)}`
       }
 
       result.push(itemString.padStart(spaces + itemString.length))
