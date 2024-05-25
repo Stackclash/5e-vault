@@ -14,10 +14,10 @@
       "note": "Redgrave",
       "path": "3. The Party/Players/Redgrave.md",
       "name": "Redgrave",
-      "ac": 23,
+      "ac": 5,
       "hp": 45,
       "level": 6,
-      "modifier": -1,
+      "modifier": -5,
       "player": true
     },
     {
@@ -190,8 +190,8 @@
         "modifier": -1,
         "hp": 45,
         "currentMaxHP": 45,
-        "ac": 23,
-        "currentAC": 23,
+        "ac": 5,
+        "currentAC": 5,
         "note": "Redgrave",
         "path": "3. The Party/Players/Redgrave.md",
         "id": "ID_2b087bcaf82b",

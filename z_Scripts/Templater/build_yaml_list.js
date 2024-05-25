@@ -1,16 +1,15 @@
 const build_object_yaml_list = (object, spaces) => {
   return Object.entries(object).reduce((accum, [key, value]) => {
-    let finalSpaces = spaces
     let itemString
 
     if (typeof value === 'string') {
       itemString = `${key}: "${value}"`
-    } else if (typeof value === 'number') {
-      itemString = `${key}: ${value}`
     } else if (Array.isArray(value)) {
       itemString = `${key}: ${build_array_yaml_list(value, spaces+2)}`
     } else if (typeof value === 'object') {
       itemString = `${key}: ${build_object_yaml_list(value, spaces+2)}`
+    } else {
+      itemString = `${key}: ${value}`
     }
     accum.push(itemString.padStart(spaces+ 2 + itemString.length))
 

@@ -1,4 +1,5 @@
 module.exports = (tp, spells, path, spaces) => {
+    console.log('ERROR: spells')
     let result = []
     if (typeof spells[0] === 'string') {
         result = tp.user.build_yaml_list(spells.map(item => ({

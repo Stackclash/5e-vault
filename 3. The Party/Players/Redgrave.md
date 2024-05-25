@@ -3,16 +3,16 @@ obsidianUIMode: preview
 statblock: true
 name: Redgrave
 level: 6
-ac: 23
+ac: 5
 hp: 45
-modifier: -1
+modifier: -5
 proficiency: 3
 url: https://dndbeyond.com/characters/29682199
 image: https://www.dndbeyond.com/avatars/10846/680/1581111423-29682199.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
 race: "[[5. Mechanics/Races/Warforged.md|Warforged]]"
 description:
   gender: 
-  age: null
+  age: 
   hair: 
   eyes: Emeralds
   skin: Metallic with gold engraving
@@ -24,38 +24,38 @@ passives:
   investigation: 11
   insight: 17
 proficiencies:
-  armor: 
-    - "Light Armor"
-    - "Medium Armor"
-    - "Shields"
-    - "Heavy Armor"
-  weapons: 
-    - "Simple Weapons"
-  tools: 
-    - "Mason's Tools"
-    - "Smith's Tools"
-    - "Tinker's Tools"
-  languages: 
-    - "Common"
-    - "Draconic"
-    - "Elvish"
+  armor:
+    - Light Armor
+    - Medium Armor
+    - Shields
+    - Heavy Armor
+  weapons:
+    - Simple Weapons
+  tools:
+    - Mason's Tools
+    - Smith's Tools
+    - Tinker's Tools
+  languages:
+    - Common
+    - Draconic
+    - Elvish
 speed: 30
 defenses:
-  immunities: 
-    - "disease"
-  resistances: 
-    - "poison"
-    - "fire"
+  immunities:
+    - disease
+  resistances:
+    - poison
+    - fire
 background:
   background:
-    name:  
+    name: 
     description: 
   backstory: 
   organizations: 
   allies: 
   enemies: 
   notes: 
-classes: 
+classes:
   - name: "[[5. Mechanics/Classes/Cleric.md|Cleric]]"
     subClass: "[[5. Mechanics/Classes/Cleric Forge Domain.md|Cleric Forge Domain]]"
     level: 6
@@ -97,8 +97,8 @@ savingThrows:
   charisma:
     value: 4
     proficiency: true
-  notes: 
-    - "Advantage Against Poison"
+  notes:
+    - Advantage Against Poison
 skills:
   acrobatics:
     value: -1
@@ -208,41 +208,41 @@ skills:
     expertise: false
     advantage: false
     disadvantage: false
-racialTraits: 
-  - name: "Warforged Resilience"
-    description: "You have advantage on saving throws against being poisoned, and you have resistance to poison damage. You are immune to disease. You don’t need to eat, drink, or breathe. You don’t need to sleep and don’t suffer the effects of exhaustion due to lack of rest, and magic can’t put you to sleep."
-  - name: "Integrated Protection"
-    description: "Your body has built-in defensive layers, which determine your armor class."
-  - name: "Sentry's Rest"
-    description: "When you take a long rest, you must spend at least 6 hours in an inactive state rather than sleeping. In this state, you appear inert, but it doesn’t render you unconscious, and you can see and hear as normal."
-  - name: "Ability Score Increase"
-    description: "Two different ability scores of your choice increase by 1."
-  - name: "Specialized Design"
-    description: "You gain one skill proficiency, one tool proficiency, and fluency in one language of your choice."
-  - name: "Integrated Tool"
-    description: "A chosen tool you are proficient with is integrated into your body, and you double your proficiency bonus for any ability checks you make with it. You must have your hands free to use this integrated tool."
-classFeatures: 
-  - name: "Domain Spells"
-    description: "You gain domain spells based on your cleric level."
-  - name: "Bonus Proficiencies"
-    description: "You gain proficiency with heavy armor and smith’s tools."
-  - name: "Blessing of the Forge"
-    description: "At the end of a long rest, you can imbue magic into a weapon or armor by touching a nonmagical version. Until your next long rest or you die, the object grants a +1 bonus to either AC or attack and damage rolls. You can't use this feature again until you finish a long rest."
+racialTraits:
+  - name: Warforged Resilience
+    description: You have advantage on saving throws against being poisoned, and you have resistance to poison damage. You are immune to disease. You don’t need to eat, drink, or breathe. You don’t need to sleep and don’t suffer the effects of exhaustion due to lack of rest, and magic can’t put you to sleep.
+  - name: Integrated Protection
+    description: Your body has built-in defensive layers, which determine your armor class.
+  - name: Sentry's Rest
+    description: When you take a long rest, you must spend at least 6 hours in an inactive state rather than sleeping. In this state, you appear inert, but it doesn’t render you unconscious, and you can see and hear as normal.
+  - name: Ability Score Increase
+    description: Two different ability scores of your choice increase by 1.
+  - name: Specialized Design
+    description: You gain one skill proficiency, one tool proficiency, and fluency in one language of your choice.
+  - name: Integrated Tool
+    description: A chosen tool you are proficient with is integrated into your body, and you double your proficiency bonus for any ability checks you make with it. You must have your hands free to use this integrated tool.
+classFeatures:
+  - name: Domain Spells
+    description: You gain domain spells based on your cleric level.
+  - name: Bonus Proficiencies
+    description: You gain proficiency with heavy armor and smith’s tools.
+  - name: Blessing of the Forge
+    description: At the end of a long rest, you can imbue magic into a weapon or armor by touching a nonmagical version. Until your next long rest or you die, the object grants a +1 bonus to either AC or attack and damage rolls. You can't use this feature again until you finish a long rest.
   - name: "Channel Divinity: Artisan's Blessing"
     description: "You can use your Channel Divinity to conduct an hour-long ritual that crafts a nonmagical item that must include some metal: a simple or martial weapon, a suit of armor, ten pieces of ammunition, a set of tools, or another metal object. The thing you create can be something that is worth no more than 100 gp."
-  - name: "Soul of the Forge"
-    description: "You gain resistance to fire damage and while wearing heavy armor, you gain a +1 bonus to AC."
-  - name: "Spellcasting"
-    description: "You can cast prepared cleric spells using WIS as your spellcasting modifier (Spell DC 15, Spell Attack 7) and prepared cleric spells as rituals if they have the ritual tag. You can use a holy symbol as a spellcasting focus."
-  - name: "Divine Domain"
-    description: "You choose a divine domain that grants you additional spells and other features related to your deity."
-  - name: "Channel Divinity"
-    description: "You can channel divine energy to fuel magical effects a number of times per short rest"
-  - name: "Destroy Undead"
-    description: "When an undead fails its saving throw against your Turn Undead feature, it is instantly destroyed if its CR is lower than the threshold for your level."
+  - name: Soul of the Forge
+    description: You gain resistance to fire damage and while wearing heavy armor, you gain a +1 bonus to AC.
+  - name: Spellcasting
+    description: You can cast prepared cleric spells using WIS as your spellcasting modifier (Spell DC 15, Spell Attack 7) and prepared cleric spells as rituals if they have the ritual tag. You can use a holy symbol as a spellcasting focus.
+  - name: Divine Domain
+    description: You choose a divine domain that grants you additional spells and other features related to your deity.
+  - name: Channel Divinity
+    description: You can channel divine energy to fuel magical effects a number of times per short rest
+  - name: Destroy Undead
+    description: When an undead fails its saving throw against your Turn Undead feature, it is instantly destroyed if its CR is lower than the threshold for your level.
 feats: []
 raceSpells: []
-classSpells: 
+classSpells:
   - name: "[[5. Mechanics/Spells/Sacred Flame.md|Sacred Flame]]"
     level: 0
     isPrepared: true
@@ -285,7 +285,7 @@ classSpells:
   - name: "[[5. Mechanics/Spells/Remove Curse.md|Remove Curse]]"
     level: 3
     isPrepared: true
-maxSpellSlots: 
+maxSpellSlots:
   - 4
   - 3
   - 3
@@ -295,7 +295,7 @@ maxSpellSlots:
   - 0
   - 0
   - 0
-usedSpellSlots: 
+usedSpellSlots:
   - 0
   - 0
   - 0
@@ -311,124 +311,124 @@ currencies:
   gp: 0
   ep: 0
   pp: 0
-inventory: 
+inventory:
   - name: "[[5. Mechanics/Items/Cloak Of Protection.md|Cloak Of Protection]]"
-    original: "Cloak of Protection"
-    type: "Wondrous item"
+    original: Cloak of Protection
+    type: Wondrous item
     quantity: 1
     equipped: true
     isAttuned: true
   - name: "[[5. Mechanics/Items/Astral Hull Plating.md|Astral Hull Plating]]"
-    original: "Heavy Plating"
-    type: "Armor"
+    original: Heavy Plating
+    type: Armor
     quantity: 1
     equipped: true
     isAttuned: false
   - name: "[[5. Mechanics/Items/Shield.md|Shield]]"
-    original: "Shield"
-    type: "Armor"
+    original: Shield
+    type: Armor
     quantity: 1
     equipped: true
     isAttuned: false
   - name: "[[5. Mechanics/Items/Javelin.md|Javelin]]"
-    original: "Javelin"
-    type: "Weapon"
+    original: Javelin
+    type: Weapon
     quantity: 6
     equipped: true
     isAttuned: false
   - name: "[[5. Mechanics/Items/Mace.md|Mace]]"
-    original: "Mace"
-    type: "Weapon"
+    original: Mace
+    type: Weapon
     quantity: 1
     equipped: true
     isAttuned: false
   - name: "[[5. Mechanics/Items/Quarterstaff.md|Quarterstaff]]"
-    original: "Quarterstaff"
-    type: "Weapon"
+    original: Quarterstaff
+    type: Weapon
     quantity: 1
     equipped: true
     isAttuned: false
   - name: "[[5. Mechanics/Items/Spear.md|Spear]]"
-    original: "Spear"
-    type: "Weapon"
+    original: Spear
+    type: Weapon
     quantity: 1
     equipped: false
     isAttuned: false
   - name: "[[5. Mechanics/Items/Backpack.md|Backpack]]"
-    original: "Backpack"
-    type: "Other Gear"
+    original: Backpack
+    type: Other Gear
     quantity: 1
     equipped: false
     isAttuned: false
   - name: "[[5. Mechanics/Items/Potion Of Healing.md|Potion Of Healing]]"
-    original: "Potion of Healing"
-    type: "Other Gear"
+    original: Potion of Healing
+    type: Other Gear
     quantity: 0
     equipped: false
     isAttuned: false
   - name: "[[5. Mechanics/Items/Waterskin.md|Waterskin]]"
-    original: "Waterskin"
-    type: "Other Gear"
+    original: Waterskin
+    type: Other Gear
     quantity: 1
     equipped: false
     isAttuned: false
   - name: "[[5. Mechanics/Items/Smiths Tools.md|Smiths Tools]]"
-    original: "Smith's Tools"
-    type: "Other Gear"
+    original: Smith's Tools
+    type: Other Gear
     quantity: 1
     equipped: false
     isAttuned: false
   - name: "[[5. Mechanics/Items/Holy Symbol.md|Holy Symbol]]"
-    original: "Holy Symbol"
-    type: "Other Gear"
+    original: Holy Symbol
+    type: Other Gear
     quantity: 1
     equipped: false
     isAttuned: false
   - name: "[[5. Mechanics/Items/Wand Of Secrets.md|Wand Of Secrets]]"
-    original: "Wand of Secrets"
-    type: "Wand"
+    original: Wand of Secrets
+    type: Wand
     quantity: 1
     equipped: false
     isAttuned: false
   - name: "[[5. Mechanics/Items/Bedroll.md|Bedroll]]"
-    original: "Bedroll"
-    type: "Other Gear"
+    original: Bedroll
+    type: Other Gear
     quantity: 1
     equipped: false
     isAttuned: false
   - name: "[[5. Mechanics/Items/Mess Kit.md|Mess Kit]]"
-    original: "Mess Kit"
-    type: "Other Gear"
+    original: Mess Kit
+    type: Other Gear
     quantity: 1
     equipped: false
     isAttuned: false
   - name: "[[5. Mechanics/Items/Hempen Rope 50 Feet.md|Hempen Rope 50 Feet]]"
-    original: "Rope, Hempen (50 feet)"
-    type: "Other Gear"
+    original: Rope, Hempen (50 feet)
+    type: Other Gear
     quantity: 1
     equipped: false
     isAttuned: false
   - name: "[[5. Mechanics/Items/Tinderbox.md|Tinderbox]]"
-    original: "Tinderbox"
-    type: "Other Gear"
+    original: Tinderbox
+    type: Other Gear
     quantity: 1
     equipped: false
     isAttuned: false
   - name: "[[5. Mechanics/Items/Torch.md|Torch]]"
-    original: "Torch"
-    type: "Other Gear"
+    original: Torch
+    type: Other Gear
     quantity: 10
     equipped: false
     isAttuned: false
   - name: "[[5. Mechanics/Items/Masons Tools.md|Masons Tools]]"
-    original: "Mason's Tools"
-    type: "Other Gear"
+    original: Mason's Tools
+    type: Other Gear
     quantity: 1
     equipped: false
     isAttuned: false
   - name: "[[5. Mechanics/Items/Tinkers Tools.md|Tinkers Tools]]"
-    original: "Tinker's Tools"
-    type: "Other Gear"
+    original: Tinker's Tools
+    type: Other Gear
     quantity: 1
     equipped: false
     isAttuned: false
@@ -438,8 +438,18 @@ flaw:
 likes: 
 dislikes: 
 party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
-condition:
-location:
+condition: 
+location: 
+prof: 1
+gender_name: Female
+sca: '[MB_EXPRESSION] "failed to evaluate expression" caused by error "Undefined symbol False"'
+passive:
+  perception: '[MB_EXPRESSION] "failed to evaluate expression" caused by error "Unsupported type of condition "Object""'
+  investigation: '[MB_EXPRESSION] "failed to evaluate expression" caused by error "Unsupported type of condition "Object""'
+  insight: '[MB_EXPRESSION] "failed to evaluate expression" caused by error "Unsupported type of condition "Object""'
+totalLevel: 0
+portrait: "![[Untitled.png]]"
+day_suffix: th
 ---
 `$="![Char Image\|clear left circle hsmall wsmall lp](" + dv.current().image + ")"`
 > [!infobox|left clear n-th]
