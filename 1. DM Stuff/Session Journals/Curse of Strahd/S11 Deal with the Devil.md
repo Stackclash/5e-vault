@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 date: 2023-12-31
-summary: ''
+summary: "Back in Vallaki "
 fc-date: 973-2-16
 timelines:
   - COS
 aat-render-enabled: true
 fc-category: Session
-party: '[[Curse of Strahd]]'
-prep-notes: '[[2023-12-31]]'
+party: "[[Curse of Strahd]]"
+prep-notes: "[[2023-12-31]]"
 ---
 > [!infobox]
 > ## Info

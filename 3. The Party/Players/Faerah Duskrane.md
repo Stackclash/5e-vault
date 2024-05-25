@@ -51,8 +51,8 @@ background:
   notes: 
 classes: 
   - name: "[[5. Mechanics/Classes/Rogue.md|Rogue]]"
-subClass: "[[5. Mechanics/Classes/Rogue Swashbuckler.md|Rogue Swashbuckler]]"
-level: 6
+    subClass: "[[5. Mechanics/Classes/Rogue Swashbuckler.md|Rogue Swashbuckler]]"
+    level: 6
 abilityScores:
   strength:
     value: 8
@@ -204,47 +204,47 @@ skills:
     disadvantage: false
 racialTraits: 
   - name: "Keen Senses"
-description: "You have proficiency in the Perception skill."
+    description: "You have proficiency in the Perception skill."
   - name: "Fey Ancestry"
-description: "You have advantage on saves against being charmed, and magic can’t put you to sleep."
+    description: "You have advantage on saves against being charmed, and magic can’t put you to sleep."
   - name: "Trance"
-description: "You don't need to sleep, but meditate semiconsciously for 4 hours a day. While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep."
+    description: "You don't need to sleep, but meditate semiconsciously for 4 hours a day. While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep."
   - name: "Superior Darkvision"
-description: "You can see in darkness (shades of gray) up to 120 ft."
+    description: "You can see in darkness (shades of gray) up to 120 ft."
   - name: "Sunlight Sensitivity"
-description: "You have disadvantage on attack rolls and on Perception checks that rely on sight when you, your target, or whatever you are trying to perceive is in direct sunlight."
+    description: "You have disadvantage on attack rolls and on Perception checks that rely on sight when you, your target, or whatever you are trying to perceive is in direct sunlight."
   - name: "Drow Magic"
-description: "You know the dancing lights cantrip. [3rd] You can cast faerie fire once per long rest. [5th] You can cast the darkness spell once per long rest. CHA is your spellcasting ability."
+    description: "You know the dancing lights cantrip. [3rd] You can cast faerie fire once per long rest. [5th] You can cast the darkness spell once per long rest. CHA is your spellcasting ability."
   - name: "Drow Weapon Training"
-description: "You have proficiency with rapiers, shortswords, and hand crossbows."
+    description: "You have proficiency with rapiers, shortswords, and hand crossbows."
 classFeatures: 
   - name: "Fancy Footwork"
-description: "During your turn, if you make a melee attack against a creature, that creature can’t make opportunity attacks against you for the rest of your turn."
+    description: "During your turn, if you make a melee attack against a creature, that creature can’t make opportunity attacks against you for the rest of your turn."
   - name: "Rakish Audacity"
-description: "You add your CHA modifier (2) to your initiative rolls. You don’t need advantage on the attack roll to use your Sneak Attack against a creature if you are within 5 ft. of it, no other creatures are within 5 ft. of you, and you don’t have disadvantage on the attack roll."
+    description: "You add your CHA modifier (2) to your initiative rolls. You don’t need advantage on the attack roll to use your Sneak Attack against a creature if you are within 5 ft. of it, no other creatures are within 5 ft. of you, and you don’t have disadvantage on the attack roll."
   - name: "Expertise"
-description: "Your proficiency bonus is doubled for any ability check you make for two chosen proficiencies. [6th] Choose two additional proficiencies."
+    description: "Your proficiency bonus is doubled for any ability check you make for two chosen proficiencies. [6th] Choose two additional proficiencies."
   - name: "Sneak Attack"
-description: "Once per turn, you can deal an extra {{scalevalue}} damage to one creature you hit with an attack with a finesse or ranged weapon if you have advantage on the attack roll. You don’t need advantage on the attack roll if another enemy of the target is within 5 ft. of it, that enemy isn’t incapacitated, and you don’t have disadvantage on the attack roll."
+    description: "Once per turn, you can deal an extra {{scalevalue}} damage to one creature you hit with an attack with a finesse or ranged weapon if you have advantage on the attack roll. You don’t need advantage on the attack roll if another enemy of the target is within 5 ft. of it, that enemy isn’t incapacitated, and you don’t have disadvantage on the attack roll."
   - name: "Thieves’ Cant"
-description: "You have learned thieves’ cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. It takes four times longer to convey such a message than it does to speak the same idea plainly."
+    description: "You have learned thieves’ cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. It takes four times longer to convey such a message than it does to speak the same idea plainly."
   - name: "Cunning Action"
-description: "You can take a bonus action on each of your turns to take the Dash, Disengage, or Hide action."
+    description: "You can take a bonus action on each of your turns to take the Dash, Disengage, or Hide action."
   - name: "Uncanny Dodge"
-description: "When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack’s damage against you."
+    description: "When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack’s damage against you."
   - name: "Expertise"
-description: "Your proficiency bonus is doubled for any ability check you make that uses any of the chosen proficiencies."
+    description: "Your proficiency bonus is doubled for any ability check you make that uses any of the chosen proficiencies."
 feats: []
 raceSpells: 
   - name: "Dancing Lights"
-level: 0
-isPrepared: true
+    level: 0
+    isPrepared: true
   - name: "Faerie Fire"
-level: 1
-isPrepared: false
+    level: 1
+    isPrepared: false
   - name: "Darkness"
-level: 2
-isPrepared: false
+    level: 2
+    isPrepared: false
 classSpells: 
 currencies:
   cp: 106
@@ -254,167 +254,167 @@ currencies:
   pp: 0
 inventory: 
   - name: "[[5. Mechanics/Items/Studded Leather Armor.md|Studded Leather Armor]]"
-original: "Studded Leather"
-type: "Armor"
-quantity: 1
-equipped: true
-isAttuned: false
+    original: "Studded Leather"
+    type: "Armor"
+    quantity: 1
+    equipped: true
+    isAttuned: false
   - name: "[[5. Mechanics/Items/Dagger.md|Dagger]]"
-original: "Dagger"
-type: "Weapon"
-quantity: 1
-equipped: false
-isAttuned: false
+    original: "Dagger"
+    type: "Weapon"
+    quantity: 1
+    equipped: false
+    isAttuned: false
   - name: "[[5. Mechanics/Items/Dagger.md|Dagger]]"
-original: "Dagger"
-type: "Weapon"
-quantity: 1
-equipped: false
-isAttuned: false
+    original: "Dagger"
+    type: "Weapon"
+    quantity: 1
+    equipped: false
+    isAttuned: false
   - name: "[[5. Mechanics/Items/Quarterstaff.md|Quarterstaff]]"
-original: "Quarterstaff"
-type: "Weapon"
-quantity: 1
-equipped: false
-isAttuned: false
+    original: "Quarterstaff"
+    type: "Weapon"
+    quantity: 1
+    equipped: false
+    isAttuned: false
   - name: "[[5. Mechanics/Items/Shortbow.md|Shortbow]]"
-original: "Shortbow"
-type: "Weapon"
-quantity: 1
-equipped: true
-isAttuned: false
+    original: "Shortbow"
+    type: "Weapon"
+    quantity: 1
+    equipped: true
+    isAttuned: false
   - name: "[[5. Mechanics/Items/Rapier.md|Rapier]]"
-original: "Rapier"
-type: "Weapon"
-quantity: 1
-equipped: false
-isAttuned: false
+    original: "Rapier"
+    type: "Weapon"
+    quantity: 1
+    equipped: false
+    isAttuned: false
   - name: "[[5. Mechanics/Items/Scimitar.md|Scimitar]]"
-original: "Scimitar"
-type: "Weapon"
-quantity: 1
-equipped: true
-isAttuned: false
+    original: "Scimitar"
+    type: "Weapon"
+    quantity: 1
+    equipped: true
+    isAttuned: false
   - name: "[[5. Mechanics/Items/Scimitar.md|Scimitar]]"
-original: "Scimitar"
-type: "Weapon"
-quantity: 1
-equipped: true
-isAttuned: false
+    original: "Scimitar"
+    type: "Weapon"
+    quantity: 1
+    equipped: true
+    isAttuned: false
   - name: "[[5. Mechanics/Items/Arrow.md|Arrow]]"
-original: "Arrows"
-type: "Other Gear"
-quantity: 20
-equipped: true
-isAttuned: false
+    original: "Arrows"
+    type: "Other Gear"
+    quantity: 20
+    equipped: true
+    isAttuned: false
   - name: "[[5. Mechanics/Items/Backpack.md|Backpack]]"
-original: "Backpack"
-type: "Other Gear"
-quantity: 1
-equipped: false
-isAttuned: false
+    original: "Backpack"
+    type: "Other Gear"
+    quantity: 1
+    equipped: false
+    isAttuned: false
   - name: "[[5. Mechanics/Items/Travelers Clothes.md|Travelers Clothes]]"
-original: "Clothes, Traveler's"
-type: "Other Gear"
-quantity: 1
-equipped: false
-isAttuned: false
+    original: "Clothes, Traveler's"
+    type: "Other Gear"
+    quantity: 1
+    equipped: false
+    isAttuned: false
   - name: "[[5. Mechanics/Items/Hunting Trap.md|Hunting Trap]]"
-original: "Hunting Trap"
-type: "Other Gear"
-quantity: 3
-equipped: false
-isAttuned: false
+    original: "Hunting Trap"
+    type: "Other Gear"
+    quantity: 3
+    equipped: false
+    isAttuned: false
   - name: "[[5. Mechanics/Items/Pouch.md|Pouch]]"
-original: "Pouch"
-type: "Other Gear"
-quantity: 1
-equipped: false
-isAttuned: false
+    original: "Pouch"
+    type: "Other Gear"
+    quantity: 1
+    equipped: false
+    isAttuned: false
   - name: "[[5. Mechanics/Items/Thieves Tools.md|Thieves Tools]]"
-original: "Thieves' Tools"
-type: "Other Gear"
-quantity: 1
-equipped: false
-isAttuned: false
+    original: "Thieves' Tools"
+    type: "Other Gear"
+    quantity: 1
+    equipped: false
+    isAttuned: false
   - name: "[[5. Mechanics/Items/Ball Bearings Bag Of 1000.md|Ball Bearings Bag Of 1000]]"
-original: "Ball Bearings (bag of 1,000)"
-type: "Other Gear"
-quantity: 1000
-equipped: false
-isAttuned: false
+    original: "Ball Bearings (bag of 1,000)"
+    type: "Other Gear"
+    quantity: 1000
+    equipped: false
+    isAttuned: false
   - name: "[[5. Mechanics/Items/Bell.md|Bell]]"
-original: "Bell"
-type: "Other Gear"
-quantity: 1
-equipped: false
-isAttuned: false
+    original: "Bell"
+    type: "Other Gear"
+    quantity: 1
+    equipped: false
+    isAttuned: false
   - name: "[[5. Mechanics/Items/Candle.md|Candle]]"
-original: "Candle"
-type: "Other Gear"
-quantity: 5
-equipped: false
-isAttuned: false
+    original: "Candle"
+    type: "Other Gear"
+    quantity: 5
+    equipped: false
+    isAttuned: false
   - name: "[[5. Mechanics/Items/Crowbar.md|Crowbar]]"
-original: "Crowbar"
-type: "Other Gear"
-quantity: 1
-equipped: false
-isAttuned: false
+    original: "Crowbar"
+    type: "Other Gear"
+    quantity: 1
+    equipped: false
+    isAttuned: false
   - name: "[[5. Mechanics/Items/Hammer.md|Hammer]]"
-original: "Hammer"
-type: "Other Gear"
-quantity: 1
-equipped: false
-isAttuned: false
+    original: "Hammer"
+    type: "Other Gear"
+    quantity: 1
+    equipped: false
+    isAttuned: false
   - name: "[[5. Mechanics/Items/Hooded Lantern.md|Hooded Lantern]]"
-original: "Lantern, Hooded"
-type: "Other Gear"
-quantity: 1
-equipped: false
-isAttuned: false
+    original: "Lantern, Hooded"
+    type: "Other Gear"
+    quantity: 1
+    equipped: false
+    isAttuned: false
   - name: "[[5. Mechanics/Items/Oil Flask.md|Oil Flask]]"
-original: "Oil (flask)"
-type: "Other Gear"
-quantity: 2
-equipped: false
-isAttuned: false
+    original: "Oil (flask)"
+    type: "Other Gear"
+    quantity: 2
+    equipped: false
+    isAttuned: false
   - name: "[[5. Mechanics/Items/Piton.md|Piton]]"
-original: "Piton"
-type: "Other Gear"
-quantity: 10
-equipped: false
-isAttuned: false
+    original: "Piton"
+    type: "Other Gear"
+    quantity: 10
+    equipped: false
+    isAttuned: false
   - name: "[[5. Mechanics/Items/Rations 1 Day.md|Rations 1 Day]]"
-original: "Rations (1 day)"
-type: "Other Gear"
-quantity: 5
-equipped: false
-isAttuned: false
+    original: "Rations (1 day)"
+    type: "Other Gear"
+    quantity: 5
+    equipped: false
+    isAttuned: false
   - name: "[[5. Mechanics/Items/Hempen Rope 50 Feet.md|Hempen Rope 50 Feet]]"
-original: "Rope, Hempen (50 feet)"
-type: "Other Gear"
-quantity: 1
-equipped: false
-isAttuned: false
+    original: "Rope, Hempen (50 feet)"
+    type: "Other Gear"
+    quantity: 1
+    equipped: false
+    isAttuned: false
   - name: "[[5. Mechanics/Items/Tinderbox.md|Tinderbox]]"
-original: "Tinderbox"
-type: "Other Gear"
-quantity: 1
-equipped: false
-isAttuned: false
+    original: "Tinderbox"
+    type: "Other Gear"
+    quantity: 1
+    equipped: false
+    isAttuned: false
   - name: "[[5. Mechanics/Items/Waterskin.md|Waterskin]]"
-original: "Waterskin"
-type: "Other Gear"
-quantity: 1
-equipped: false
-isAttuned: false
+    original: "Waterskin"
+    type: "Other Gear"
+    quantity: 1
+    equipped: false
+    isAttuned: false
   - name: "String"
-original: "String"
-type: "Other Gear"
-quantity: 10
-equipped: false
-isAttuned: false
+    original: "String"
+    type: "Other Gear"
+    quantity: 10
+    equipped: false
+    isAttuned: false
 ideal: 
 bond: 
 flaw: 
