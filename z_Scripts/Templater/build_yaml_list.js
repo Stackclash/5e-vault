@@ -6,8 +6,8 @@ const build_array_yaml_list = (list, spaces) => {
   }, []).join(`\n`)
 }
 
-const build_object_yaml_list = (list, spaces) => {
-  return Object.entries(list).reduce((accum, [key, value]) => {
+const build_object_yaml_list = (object, spaces) => {
+  return Object.entries(object).reduce((accum, [key, value]) => {
     let finalSpaces = spaces
     let itemString
 
@@ -16,9 +16,9 @@ const build_object_yaml_list = (list, spaces) => {
     } else if (typeof value === 'number') {
       itemString = `${key}: ${value}`
     } else if (Array.isArray(value)) {
-      itemString = build_array_yaml_list(value, spaces+2)
+      itemString = `${key}: ${build_array_yaml_list(value, spaces+2)}`
     } else if (typeof value === 'object') {
-      itemString = build_object_yaml_list(value, spaces+2)
+      itemString = `${key}: ${build_object_yaml_list(value, spaces+2)}`
     }
 
     if (accum.length === 0) {
