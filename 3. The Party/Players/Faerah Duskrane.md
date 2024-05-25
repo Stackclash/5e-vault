@@ -1,55 +1,42 @@
-<%*
-const dv = app.plugins.getPlugin("dataview").api
-
-let parties = dv.pages('"3. The Party/Parties"')
-let selectedParty = await tp.system.suggester(parties.map(p => p.file.name), parties.map(p => [p.file.path, p.file.name]), false, "What party is the character a part of?")
-
-let dndBeyondInfo = await tp.system.prompt("Paste D&D Beyond character url or id here or press Enter to skip.")
-
-let dndBeyondId
-if (isNaN(dndBeyondInfo)) {
-  dndBeyondId = dndBeyondInfo.match(/\d+$/)[0]
-} else {
-  dndBeyondId = dndBeyondInfo
-}
-const character = new tp.user.dndBeyondCharacter(dndBeyondId)
-await character.initialize()
-await tp.file.move('3. The Party/Players/' + character.name)
--%>
 ---
 obsidianUIMode: preview
 statblock: true
-name: <% character.name %>
-level: <% character.level %>
-ac: <% character.armorClass %>
-hp: <% character.healthPoints.current %>
-modifier: <% character.initiative %>
-proficiency: <% character.proficiencyBonus %>
-url: <% character.url %>
-image: <% character.image %>
-race: "<% tp.user.find_file(character.race.fullName, '5. Mechanics/Races') %>"
+name: Faerah Duskrane
+level: 6
+ac: 16
+hp: 45
+modifier: 6
+proficiency: 3
+url: https://dndbeyond.com/characters/105635812
+image: https://www.dndbeyond.com/avatars/36048/643/1581111423-105635812.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
+race: "[[5. Mechanics/Races/Elf Drow.md|Elf Drow]]"
 description:
-  gender: <% character.description.gender %>
-  age: <% character.description.age %>
-  hair: <% character.description.hair %>
-  eyes: <% character.description.eyes %>
-  skin: <% character.description.skin %>
-  height: <% character.description.height %>
-  weight: <% character.description.weight %>
-  size: <% character.description.size %>
+  gender: Female
+  age: 88
+  hair: Silver
+  eyes: Lavender
+  skin: Grey-blue
+  height: 5'4
+  weight: null
+  size: Medium
 passives:
-  perception: <% character.passives.perception %>
-  investigation: <% character.passives.investigation %>
-  insight: <% character.passives.insight %>
+  perception: 14
+  investigation: 10
+  insight: 11
 proficiencies:
-  armor: <% tp.user.build_yaml_list(character.proficiencies.armor, 4) %>
-  weapons: <% tp.user.build_yaml_list(character.proficiencies.weapons, 4) %>
-  tools: <% tp.user.build_yaml_list(character.proficiencies.tools, 4) %>
-  languages: <% tp.user.build_yaml_list(character.proficiencies.languages, 4) %>
-speed: <% character.speeds.walk %>
+  armor: 
+
+  weapons: 
+
+  tools: 
+
+  languages: 
+
+speed: 30
 defenses:
-  immunities: <% tp.user.build_yaml_list(character.defenses.immunities, 4) %>
-  resistances: <% tp.user.build_yaml_list(character.defenses.resistances, 4) %>
+  immunities: 
+
+  resistances: []
 background:
   background:
     name:  
@@ -59,173 +46,179 @@ background:
   allies: 
   enemies: 
   notes: 
-classes: <% tp.user.build_class_yaml_list(tp, character.classes, '5. Mechanics/Classes', 2) %>
+classes: 
+
 abilityScores:
   strength:
-    value: <% character.abilityScores.strength.value %>
-    modifier: <% character.abilityScores.strength.modifier %>
+    value: 8
+    modifier: -1
   dexterity:
-    value: <% character.abilityScores.dexterity.value %>
-    modifier: <% character.abilityScores.dexterity.modifier %>
+    value: 19
+    modifier: 4
   constitution:
-    value: <% character.abilityScores.constitution.value %>
-    modifier: <% character.abilityScores.constitution.modifier %>
+    value: 14
+    modifier: 2
   intelligence:
-    value: <% character.abilityScores.intelligence.value %>
-    modifier: <% character.abilityScores.intelligence.modifier %>
+    value: 10
+    modifier: 0
   wisdom:
-    value: <% character.abilityScores.wisdom.value %>
-    modifier: <% character.abilityScores.wisdom.modifier %>
+    value: 12
+    modifier: 1
   charisma:
-    value: <% character.abilityScores.charisma.value %>
-    modifier: <% character.abilityScores.charisma.modifier %>
+    value: 14
+    modifier: 2
 savingThrows:
   strength:
-    value: <% character.savingThrows.strength.value %>
-    proficiency: <% character.savingThrows.strength.proficiency %>
+    value: -1
+    proficiency: false
   dexterity:
-    value: <% character.savingThrows.dexterity.value %>
-    proficiency: <% character.savingThrows.dexterity.proficiency %>
+    value: 7
+    proficiency: true
   constitution:
-    value: <% character.savingThrows.constitution.value %>
-    proficiency: <% character.savingThrows.constitution.proficiency %>
+    value: 2
+    proficiency: false
   intelligence:
-    value: <% character.savingThrows.intelligence.value %>
-    proficiency: <% character.savingThrows.intelligence.proficiency %>
+    value: 3
+    proficiency: true
   wisdom:
-    value: <% character.savingThrows.wisdom.value %>
-    proficiency: <% character.savingThrows.wisdom.proficiency %>
+    value: 1
+    proficiency: false
   charisma:
-    value: <% character.savingThrows.charisma.value %>
-    proficiency: <% character.savingThrows.charisma.proficiency %>
-  notes: <% tp.user.build_yaml_list(character.savingThrows.notes, 4) %>
+    value: 2
+    proficiency: false
+  notes: 
+
 skills:
   acrobatics:
-    value: <% character.skills.acrobatics.value %>
-    proficiency: <% character.skills.acrobatics.proficiency %>
-    expertise: <% character.skills.acrobatics.expertise %>
-    advantage: <% character.skills.acrobatics.advantage %>
-    disadvantage: <% character.skills.acrobatics.disadvantage %>
+    value: 10
+    proficiency: true
+    expertise: true
+    advantage: false
+    disadvantage: false
   animal-handling:
-    value: <% character.skills['animal-handling'].value %>
-    proficiency: <% character.skills['animal-handling'].proficiency %>
-    expertise: <% character.skills['animal-handling'].expertise %>
-    advantage: <% character.skills['animal-handling'].advantage %>
-    disadvantage: <% character.skills['animal-handling'].disadvantage %>
+    value: 1
+    proficiency: false
+    expertise: false
+    advantage: false
+    disadvantage: false
   arcana:
-    value: <% character.skills.arcana.value %>
-    proficiency: <% character.skills.arcana.proficiency %>
-    expertise: <% character.skills.arcana.expertise %>
-    advantage: <% character.skills.arcana.advantage %>
-    disadvantage: <% character.skills.arcana.disadvantage %>
+    value: 0
+    proficiency: false
+    expertise: false
+    advantage: false
+    disadvantage: false
   athletics:
-    value: <% character.skills.athletics.value %>
-    proficiency: <% character.skills.athletics.proficiency %>
-    expertise: <% character.skills.athletics.expertise %>
-    advantage: <% character.skills.athletics.advantage %>
-    disadvantage: <% character.skills.athletics.disadvantage %>
+    value: 2
+    proficiency: true
+    expertise: false
+    advantage: false
+    disadvantage: false
   deception:
-    value: <% character.skills.deception.value %>
-    proficiency: <% character.skills.deception.proficiency %>
-    expertise: <% character.skills.deception.expertise %>
-    advantage: <% character.skills.deception.advantage %>
-    disadvantage: <% character.skills.deception.disadvantage %>
+    value: 2
+    proficiency: false
+    expertise: false
+    advantage: false
+    disadvantage: false
   history:
-    value: <% character.skills.history.value %>
-    proficiency: <% character.skills.history.proficiency %>
-    expertise: <% character.skills.history.expertise %>
-    advantage: <% character.skills.history.advantage %>
-    disadvantage: <% character.skills.history.disadvantage %>
+    value: 0
+    proficiency: false
+    expertise: false
+    advantage: false
+    disadvantage: false
   insight:
-    value: <% character.skills.insight.value %>
-    proficiency: <% character.skills.insight.proficiency %>
-    expertise: <% character.skills.insight.expertise %>
-    advantage: <% character.skills.insight.advantage %>
-    disadvantage: <% character.skills.insight.disadvantage %>
+    value: 1
+    proficiency: false
+    expertise: false
+    advantage: false
+    disadvantage: false
   intimidation:
-    value: <% character.skills.intimidation.value %>
-    proficiency: <% character.skills.intimidation.proficiency %>
-    expertise: <% character.skills.intimidation.expertise %>
-    advantage: <% character.skills.intimidation.advantage %>
-    disadvantage: <% character.skills.intimidation.disadvantage %>
+    value: 2
+    proficiency: false
+    expertise: false
+    advantage: false
+    disadvantage: false
   investigation:
-    value: <% character.skills.investigation.value %>
-    proficiency: <% character.skills.investigation.proficiency %>
-    expertise: <% character.skills.investigation.expertise %>
-    advantage: <% character.skills.investigation.advantage %>
-    disadvantage: <% character.skills.investigation.disadvantage %>
+    value: 0
+    proficiency: false
+    expertise: false
+    advantage: false
+    disadvantage: false
   medicine:
-    value: <% character.skills.medicine.value %>
-    proficiency: <% character.skills.medicine.proficiency %>
-    expertise: <% character.skills.medicine.expertise %>
-    advantage: <% character.skills.medicine.advantage %>
-    disadvantage: <% character.skills.medicine.disadvantage %>
+    value: 1
+    proficiency: false
+    expertise: false
+    advantage: false
+    disadvantage: false
   nature:
-    value: <% character.skills.nature.value %>
-    proficiency: <% character.skills.nature.proficiency %>
-    expertise: <% character.skills.nature.expertise %>
-    advantage: <% character.skills.nature.advantage %>
-    disadvantage: <% character.skills.nature.disadvantage %>
+    value: 0
+    proficiency: false
+    expertise: false
+    advantage: false
+    disadvantage: false
   perception:
-    value: <% character.skills.perception.value %>
-    proficiency: <% character.skills.perception.proficiency %>
-    expertise: <% character.skills.perception.expertise %>
-    advantage: <% character.skills.perception.advantage %>
-    disadvantage: <% character.skills.perception.disadvantage %>
+    value: 4
+    proficiency: true
+    expertise: false
+    advantage: false
+    disadvantage: true
   performance:
-    value: <% character.skills.performance.value %>
-    proficiency: <% character.skills.performance.proficiency %>
-    expertise: <% character.skills.performance.expertise %>
-    advantage: <% character.skills.performance.advantage %>
-    disadvantage: <% character.skills.performance.disadvantage %>
+    value: 2
+    proficiency: false
+    expertise: false
+    advantage: false
+    disadvantage: false
   persuasion:
-    value: <% character.skills.persuasion.value %>
-    proficiency: <% character.skills.persuasion.proficiency %>
-    expertise: <% character.skills.persuasion.expertise %>
-    advantage: <% character.skills.persuasion.advantage %>
-    disadvantage: <% character.skills.persuasion.disadvantage %>
+    value: 5
+    proficiency: true
+    expertise: false
+    advantage: false
+    disadvantage: false
   religion:
-    value: <% character.skills.religion.value %>
-    proficiency: <% character.skills.religion.proficiency %>
-    expertise: <% character.skills.religion.expertise %>
-    advantage: <% character.skills.religion.advantage %>
-    disadvantage: <% character.skills.religion.disadvantage %>
+    value: 0
+    proficiency: false
+    expertise: false
+    advantage: false
+    disadvantage: false
   sleight-of-hand:
-    value: <% character.skills['sleight-of-hand'].value %>
-    proficiency: <% character.skills['sleight-of-hand'].proficiency %>
-    expertise: <% character.skills['sleight-of-hand'].expertise %>
-    advantage: <% character.skills['sleight-of-hand'].advantage %>
-    disadvantage: <% character.skills['sleight-of-hand'].disadvantage %>
+    value: 10
+    proficiency: true
+    expertise: true
+    advantage: false
+    disadvantage: false
   stealth:
-    value: <% character.skills.stealth.value %>
-    proficiency: <% character.skills.stealth.proficiency %>
-    expertise: <% character.skills.stealth.expertise %>
-    advantage: <% character.skills.stealth.advantage %>
-    disadvantage: <% character.skills.stealth.disadvantage %>
+    value: 10
+    proficiency: true
+    expertise: true
+    advantage: false
+    disadvantage: false
   survival:
-    value: <% character.skills.survival.value %>
-    proficiency: <% character.skills.survival.proficiency %>
-    expertise: <% character.skills.survival.expertise %>
-    advantage: <% character.skills.survival.advantage %>
-    disadvantage: <% character.skills.survival.disadvantage %>
-racialTraits: <% tp.user.build_yaml_list(character.racialTraits, 2) %>
-classFeatures: <% tp.user.build_yaml_list(character.classFeatures, 2) %>
-feats: <% tp.user.build_yaml_list(character.feats, 2) %>
-raceSpells: <% tp.user.build_yaml_list(character.spells.race, 2) %>
-classSpells: <% tp.user.build_spell_yaml_list(tp, character.spells.class, '5. Mechanics/Spells', 2) %>
+    value: 4
+    proficiency: true
+    expertise: false
+    advantage: false
+    disadvantage: false
+racialTraits: 
+
+classFeatures: 
+
+feats: []
+raceSpells: 
+
+classSpells: 
 currencies:
-  cp: <% character.currencies.cp %>
-  sp: <% character.currencies.sp %>
-  gp: <% character.currencies.gp %>
-  ep: <% character.currencies.ep %>
-  pp: <% character.currencies.pp %>
-inventory: <% tp.user.build_inventory_yaml_list(tp, character.inventory, '5. Mechanics/Items', 2) %>
+  cp: 106
+  sp: 0
+  gp: 6
+  ep: 0
+  pp: 0
+inventory: 
+
 ideal: 
 bond: 
 flaw: 
 likes: 
 dislikes: 
-party: "[[<% selectedParty.join('|') %>]]"
+party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
 condition:
 location:
 ---
