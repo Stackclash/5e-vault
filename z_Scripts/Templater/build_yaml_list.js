@@ -11,7 +11,12 @@ const build_object_yaml_list = (object, spaces) => {
     } else {
       itemString = `${key}: ${value}`
     }
-    accum.push(itemString.padStart(spaces+ 2 + itemString.length))
+
+    if (accum.length === 0) {
+      accum.push(itemString)
+    } else {
+      accum.push(itemString.padStart(spaces + 2 + itemString.length))
+    }
 
     return accum
   }, []).join(`\n`)
@@ -28,6 +33,8 @@ module.exports = (list, spaces) => {
       } else if (typeof item === 'object') {
         itemString = `- ${build_object_yaml_list(item, spaces+2)}`
       }
+
+      result.push(itemString.padStart(spaces + itemString.length))
     })
     
     result = `\n${result.join(`\n`)}`
