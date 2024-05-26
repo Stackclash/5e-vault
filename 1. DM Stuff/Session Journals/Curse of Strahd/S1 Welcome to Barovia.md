@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 date: 2023-07-08
-summary: Players were drawn together by mysterious fog and lured by the ghosts of two children into a haunted mansion.
+summary: Players were drawn together by mysterious fog and lured by the ghosts of two children (Ivy and Thorn) into a haunted mansion.
 fc-date: 973-2-11
 timelines:
   - COS
