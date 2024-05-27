@@ -652,7 +652,7 @@ dv.current().classSpells.map(classSpellConfig => {
   dv.header(3, classSpellConfig.name)
   dv.paragraph(`> [!cards|dataview wfull]
 > \`\`\`dataviewjs
-> dv.table(['Text'], dv.pages('"1. DM Stuff/Tools"').map(tst => [tst.file.name]))
+> dv.table(['Level', 'Slots', 'Spells'], ${classSpellConfig.spellSlots.max.filter(slot => slot > 0).map((slot, index) => [`#### Level ${index+1}`, `${classSpells.spellSlots.used[index]}/${slot}`, classSpells.spells.filter(spell => spell.level === index+1).map(spell => spell.name)]}))})
 \`\`\``)
 })
 ```
