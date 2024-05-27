@@ -15,11 +15,11 @@ FROM "1. DM Stuff/Lookup Tables"
 ```
 
 # Templates
-| World Building | Party |
-| ---- | ---- |
-| `BUTTON[create-npc]` | `BUTTON[create-player-character]` |
-| `BUTTON[create-location]` | `BUTTON[create-session-log]` |
-| `BUTTON[create-shop]` |  |
+| World Building            | Party                             |
+| ------------------------- | --------------------------------- |
+| `BUTTON[create-npc]`      | `BUTTON[create-player-character]` |
+| `BUTTON[create-location]` | `BUTTON[create-session-log]`      |
+| `BUTTON[create-shop]`     | `BUTTON[create-session-prep]`     |
 ```meta-bind-button
 style: primary
 label: Create NPC
@@ -68,14 +68,29 @@ actions:
 ```
 ```meta-bind-button
 style: primary
-label: Create Session Log
-id: create-session-log
+label: Create Session Journal
+id: create-session-journal
 hidden: true
 actions:
   - type: command
     command: templater-obsidian:create-new-note-from-template
   - type: input
     str: Session
+  - type: input
+    str: Journal
+```
+```meta-bind-button
+style: primary
+label: Create Session Prep
+id: create-session-prep
+hidden: true
+actions:
+  - type: command
+    command: templater-obsidian:create-new-note-from-template
+  - type: input
+    str: Session
+  - type: input
+    str: Prep
 ```
 # Stats
 ```dataviewjs
