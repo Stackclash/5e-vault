@@ -245,85 +245,68 @@ raceSpells: []
 classSpells: 
   - name: "Cleric"
     cantripsKnown: 4
-    spellSlots: max: 
-      - - - - - - - - - - - name: "Destroy Undead"
-    description: "When an undead fails its saving throw against your Turn Undead feature, it is instantly destroyed if its CR is lower than the threshold for your level."
-      - - - - - - - - - - - - name: "Destroy Undead"
-    description: "When an undead fails its saving throw against your Turn Undead feature, it is instantly destroyed if its CR is lower than the threshold for your level."
-      - - - - - - - - - - - - - name: "Destroy Undead"
-    description: "When an undead fails its saving throw against your Turn Undead feature, it is instantly destroyed if its CR is lower than the threshold for your level."
-      - - - - - - - - - - - - - - name: "Destroy Undead"
-    description: "When an undead fails its saving throw against your Turn Undead feature, it is instantly destroyed if its CR is lower than the threshold for your level."
-      - - - - - - - - - - - - - - - name: "Destroy Undead"
-    description: "When an undead fails its saving throw against your Turn Undead feature, it is instantly destroyed if its CR is lower than the threshold for your level."
-      - - - - - - - - - - - - - - - - name: "Destroy Undead"
-    description: "When an undead fails its saving throw against your Turn Undead feature, it is instantly destroyed if its CR is lower than the threshold for your level."
-      - - - - - - - - - - - - - - - - - name: "Destroy Undead"
-    description: "When an undead fails its saving throw against your Turn Undead feature, it is instantly destroyed if its CR is lower than the threshold for your level."
-      - - - - - - - - - - - - - - - - - - name: "Destroy Undead"
-    description: "When an undead fails its saving throw against your Turn Undead feature, it is instantly destroyed if its CR is lower than the threshold for your level."
-      - - - - - - - - - - - - - - - - - - - name: "Destroy Undead"
-    description: "When an undead fails its saving throw against your Turn Undead feature, it is instantly destroyed if its CR is lower than the threshold for your level."
+    spellSlots: 
+	    max: 
+	      - 4
+	      - 3
+	      - 3
+	      - 0
+	      - 0
+	      - 0
+	      - 0
+	      - 0
+	      - 0
       used: 
-      - - - - - - - - - - - - - - - - - - - - name: "Destroy Undead"
-    description: "When an undead fails its saving throw against your Turn Undead feature, it is instantly destroyed if its CR is lower than the threshold for your level."
-      - - - - - - - - - - - - - - - - - - - - - name: "Destroy Undead"
-    description: "When an undead fails its saving throw against your Turn Undead feature, it is instantly destroyed if its CR is lower than the threshold for your level."
-      - - - - - - - - - - - - - - - - - - - - - - name: "Destroy Undead"
-    description: "When an undead fails its saving throw against your Turn Undead feature, it is instantly destroyed if its CR is lower than the threshold for your level."
-      - - - - - - - - - - - - - - - - - - - - - - - name: "Destroy Undead"
-    description: "When an undead fails its saving throw against your Turn Undead feature, it is instantly destroyed if its CR is lower than the threshold for your level."
-      - - - - - - - - - - - - - - - - - - - - - - - - name: "Destroy Undead"
-    description: "When an undead fails its saving throw against your Turn Undead feature, it is instantly destroyed if its CR is lower than the threshold for your level."
-      - - - - - - - - - - - - - - - - - - - - - - - - - name: "Destroy Undead"
-    description: "When an undead fails its saving throw against your Turn Undead feature, it is instantly destroyed if its CR is lower than the threshold for your level."
-      - - - - - - - - - - - - - - - - - - - - - - - - - - name: "Destroy Undead"
-    description: "When an undead fails its saving throw against your Turn Undead feature, it is instantly destroyed if its CR is lower than the threshold for your level."
-      - - - - - - - - - - - - - - - - - - - - - - - - - - - name: "Destroy Undead"
-    description: "When an undead fails its saving throw against your Turn Undead feature, it is instantly destroyed if its CR is lower than the threshold for your level."
-      - - - - - - - - - - - - - - - - - - - - - - - - - - - - name: "Destroy Undead"
-    description: "When an undead fails its saving throw against your Turn Undead feature, it is instantly destroyed if its CR is lower than the threshold for your level."
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
     spells: 
-    - name: "Sacred Flame"
+    - name: "[[5. Mechanics/Spells/Sacred Flame.md|Sacred Flame]]"
       level: 0
       isPrepared: true
-    - name: "Thaumaturgy"
+    - name: "[[5. Mechanics/Spells/Thaumaturgy.md|Thaumaturgy]]"
       level: 0
       isPrepared: true
-    - name: "Word of Radiance"
+    - name: "[[5. Mechanics/Spells/Word Of Radiance.md|Word Of Radiance]]"
       level: 0
       isPrepared: true
-    - name: "Mending"
+    - name: "[[5. Mechanics/Spells/Mending.md|Mending]]"
       level: 0
       isPrepared: true
-    - name: "Cure Wounds"
+    - name: "[[5. Mechanics/Spells/Cure Wounds.md|Cure Wounds]]"
       level: 1
       isPrepared: true
-    - name: "Healing Word"
+    - name: "[[5. Mechanics/Spells/Healing Word.md|Healing Word]]"
       level: 1
       isPrepared: true
-    - name: "Detect Evil and Good"
+    - name: "[[5. Mechanics/Spells/Detect Evil And Good.md|Detect Evil And Good]]"
       level: 1
       isPrepared: true
-    - name: "Spiritual Weapon"
+    - name: "[[5. Mechanics/Spells/Spiritual Weapon.md|Spiritual Weapon]]"
       level: 2
       isPrepared: true
-    - name: "Zone of Truth"
+    - name: "[[5. Mechanics/Spells/Zone Of Truth.md|Zone Of Truth]]"
       level: 2
       isPrepared: true
-    - name: "Silence"
+    - name: "[[5. Mechanics/Spells/Silence.md|Silence]]"
       level: 2
       isPrepared: true
-    - name: "Spirit Guardians"
+    - name: "[[5. Mechanics/Spells/Spirit Guardians.md|Spirit Guardians]]"
       level: 3
       isPrepared: true
-    - name: "Daylight"
+    - name: "[[5. Mechanics/Spells/Daylight.md|Daylight]]"
       level: 3
       isPrepared: true
-    - name: "Revivify"
+    - name: "[[5. Mechanics/Spells/Revivify.md|Revivify]]"
       level: 3
       isPrepared: true
-    - name: "Remove Curse"
+    - name: "[[5. Mechanics/Spells/Remove Curse.md|Remove Curse]]"
       level: 3
       isPrepared: true
 currencies:

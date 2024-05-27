@@ -13,9 +13,9 @@ const build_object_yaml_list = (object, spaces, config) => {
       itemString = `${key}: "${finalValue}"`
     } else if (Array.isArray(value)) {
       if (key === 'max') console.log(object, spaces, config, key,  value, build_array_yaml_list(value, spaces+2))
-      itemString = `${key}: ${build_array_yaml_list(value, spaces+2)}`
+      itemString = `${key}: ${build_array_yaml_list(value, spaces+2, config)}`
     } else if (typeof value === 'object') {
-      itemString = `${key}: ${build_object_yaml_list(value, spaces+2)}`
+      itemString = `${key}: ${build_object_yaml_list(value, spaces+2, config)}`
     } else {
       itemString = `${key}: ${value}`
     }
@@ -35,10 +35,11 @@ const build_array_yaml_list = (list, spaces, config) => {
   let result = []
   if (list.length > 0) {
     list.forEach(item => {
+      let itemString
       if (typeof item === 'string') {
         itemString = `- "${config && typeof config === 'string' ? tp.user.find_file(item, config) : item}"`
       } else if (typeof item === 'number') {
-        itemString = `- ${itemString}`
+        itemString = `- ${item}`
       } else if (typeof item === 'object') {
         itemString = `- ${build_object_yaml_list(item, spaces, config)}`
       }
