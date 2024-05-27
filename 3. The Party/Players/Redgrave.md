@@ -658,8 +658,10 @@ dv.current().classSpells.map(classSpellConfig => {
 ```
 
 ```dataviewjs
-const classSpells = dv.current().classSpells[0].spells.groupBy(p => p.level)
-console.log(classSpells)
+const classSpells = dv.current().classSpells[0]
+dv.table(['Level', 'Slots', 'Spells'], classSpells.spellSlots.max.filter(slot => slot > 0).map((slot, index) => {
+  return [`#### Level ${index+1}`, `${classSpells.spellSlots.used[index]}/${slot}`, classSpells.spells.filter(spell => spell.level === index+1).map(spell => spell.name)]
+}))
 ```
 
 <!-- Need to add columns for equipped/attuned -->
