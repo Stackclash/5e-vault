@@ -1,5 +1,4 @@
 const tp = app.plugins.getPlugin("templater-obsidian").templater.current_functions_object
-console.log(tp)
 
 const build_object_yaml_list = (object, spaces, config) => {
   return Object.entries(object).reduce((accum, [key, value]) => {
@@ -13,6 +12,7 @@ const build_object_yaml_list = (object, spaces, config) => {
 
       itemString = `${key}: "${finalValue}"`
     } else if (Array.isArray(value)) {
+      if (key === 'max') console.log(object, spaces, config, key,  value, build_array_yaml_list(value, spaces+2))
       itemString = `${key}: ${build_array_yaml_list(value, spaces+2)}`
     } else if (typeof value === 'object') {
       itemString = `${key}: ${build_object_yaml_list(value, spaces+2)}`
