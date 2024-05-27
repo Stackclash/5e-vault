@@ -648,13 +648,16 @@ location:
 <!-- Separate sections for class/race spells -->
 ## Spells
 ```dataviewjs
+const result = []
 dv.current().classSpells.map(classSpellConfig => {
   dv.header(3, classSpellConfig.name)
-  dv.paragraph(`> [!cards|dataview wfull]
-> \`\`\`dataviewjs
-> dv.table(['Level', 'Slots', 'Spells'], ${classSpellConfig.spellSlots.max.filter(slot => slot > 0).map((slot, index) => [`#### Level ${index+1}`, `${classSpells.spellSlots.used[index]}/${slot}`, classSpells.spells.filter(spell => spell.level === index+1).map(spell => spell.name)]}))})
-\`\`\``)
+  classSpellConfig.spellSlots.max.filter(slot => slot > 0).map((slot, index) => {
+    result.push(`> ### Level ${index+1}
+> **Slots: ${classSpellConfig.spellSlots.max[index]}/${slot}**
+> ${classSpellConfig.spells.filter(spell => spell.level === (index+1)).map(spell => spell.name).join(`\n> `)}`)
+  })
 })
+dv.paragraph(`> [!cards|wfull]\n${result}`)
 ```
 
 ```dataviewjs
