@@ -657,10 +657,10 @@ dv.current().classSpells.map(classSpellConfig => {
 })
 ```
 
-> [!cards|dataview wfull]
-> ```dataviewjs
-> dv.table(['Level'], )
-> ```
+```dataviewjs
+const classSpells = dv.current().classSpells[0].spells.groupBy(p => p.level)
+console.log(classSpells)
+```
 
 <!-- Need to add columns for equipped/attuned -->
 ## Weapons
