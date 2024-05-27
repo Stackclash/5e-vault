@@ -56,8 +56,7 @@ background:
   enemies: 
   notes: 
 classes: 
-  - 
-name: "[[5. Mechanics/Classes/Cleric.md|Cleric]]"
+  - name: "[[5. Mechanics/Classes/Cleric.md|Cleric]]"
     subClass: "[[5. Mechanics/Classes/Cleric Forge Domain.md|Cleric Forge Domain]]"
     level: 6
 abilityScores:
@@ -210,60 +209,44 @@ skills:
     advantage: false
     disadvantage: false
 racialTraits: 
-  - 
-name: "Warforged Resilience"
+  - name: "Warforged Resilience"
     description: "You have advantage on saving throws against being poisoned, and you have resistance to poison damage. You are immune to disease. You don’t need to eat, drink, or breathe. You don’t need to sleep and don’t suffer the effects of exhaustion due to lack of rest, and magic can’t put you to sleep."
-  - 
-name: "Integrated Protection"
+  - name: "Integrated Protection"
     description: "Your body has built-in defensive layers, which determine your armor class."
-  - 
-name: "Sentry's Rest"
+  - name: "Sentry's Rest"
     description: "When you take a long rest, you must spend at least 6 hours in an inactive state rather than sleeping. In this state, you appear inert, but it doesn’t render you unconscious, and you can see and hear as normal."
-  - 
-name: "Ability Score Increase"
+  - name: "Ability Score Increase"
     description: "Two different ability scores of your choice increase by 1."
-  - 
-name: "Specialized Design"
+  - name: "Specialized Design"
     description: "You gain one skill proficiency, one tool proficiency, and fluency in one language of your choice."
-  - 
-name: "Integrated Tool"
+  - name: "Integrated Tool"
     description: "A chosen tool you are proficient with is integrated into your body, and you double your proficiency bonus for any ability checks you make with it. You must have your hands free to use this integrated tool."
 classFeatures: 
-  - 
-name: "Domain Spells"
+  - name: "Domain Spells"
     description: "You gain domain spells based on your cleric level."
-  - 
-name: "Bonus Proficiencies"
+  - name: "Bonus Proficiencies"
     description: "You gain proficiency with heavy armor and smith’s tools."
-  - 
-name: "Blessing of the Forge"
+  - name: "Blessing of the Forge"
     description: "At the end of a long rest, you can imbue magic into a weapon or armor by touching a nonmagical version. Until your next long rest or you die, the object grants a +1 bonus to either AC or attack and damage rolls. You can't use this feature again until you finish a long rest."
-  - 
-name: "Channel Divinity: Artisan's Blessing"
+  - name: "Channel Divinity: Artisan's Blessing"
     description: "You can use your Channel Divinity to conduct an hour-long ritual that crafts a nonmagical item that must include some metal: a simple or martial weapon, a suit of armor, ten pieces of ammunition, a set of tools, or another metal object. The thing you create can be something that is worth no more than 100 gp."
-  - 
-name: "Soul of the Forge"
+  - name: "Soul of the Forge"
     description: "You gain resistance to fire damage and while wearing heavy armor, you gain a +1 bonus to AC."
-  - 
-name: "Spellcasting"
+  - name: "Spellcasting"
     description: "You can cast prepared cleric spells using WIS as your spellcasting modifier (Spell DC 15, Spell Attack 7) and prepared cleric spells as rituals if they have the ritual tag. You can use a holy symbol as a spellcasting focus."
-  - 
-name: "Divine Domain"
+  - name: "Divine Domain"
     description: "You choose a divine domain that grants you additional spells and other features related to your deity."
-  - 
-name: "Channel Divinity"
+  - name: "Channel Divinity"
     description: "You can channel divine energy to fuel magical effects a number of times per short rest"
-  - 
-name: "Destroy Undead"
+  - name: "Destroy Undead"
     description: "When an undead fails its saving throw against your Turn Undead feature, it is instantly destroyed if its CR is lower than the threshold for your level."
 feats: []
 raceSpells: []
 classSpells: 
-  - 
-name: "Cleric"
+  - name: "Cleric"
     cantripsKnown: 4
     spellSlots: 
-max: 
+      max: 
       - 4
       - 3
       - 3
@@ -284,60 +267,46 @@ max:
       - 0
       - 0
     spells: 
-    - 
-name: "[[5. Mechanics/Spells/Sacred Flame.md|Sacred Flame]]"
+    - name: "[[5. Mechanics/Spells/Sacred Flame.md|Sacred Flame]]"
       level: 0
       isPrepared: true
-    - 
-name: "[[5. Mechanics/Spells/Thaumaturgy.md|Thaumaturgy]]"
+    - name: "[[5. Mechanics/Spells/Thaumaturgy.md|Thaumaturgy]]"
       level: 0
       isPrepared: true
-    - 
-name: "[[5. Mechanics/Spells/Word Of Radiance.md|Word Of Radiance]]"
+    - name: "[[5. Mechanics/Spells/Word Of Radiance.md|Word Of Radiance]]"
       level: 0
       isPrepared: true
-    - 
-name: "[[5. Mechanics/Spells/Mending.md|Mending]]"
+    - name: "[[5. Mechanics/Spells/Mending.md|Mending]]"
       level: 0
       isPrepared: true
-    - 
-name: "[[5. Mechanics/Spells/Cure Wounds.md|Cure Wounds]]"
+    - name: "[[5. Mechanics/Spells/Cure Wounds.md|Cure Wounds]]"
       level: 1
       isPrepared: true
-    - 
-name: "[[5. Mechanics/Spells/Healing Word.md|Healing Word]]"
+    - name: "[[5. Mechanics/Spells/Healing Word.md|Healing Word]]"
       level: 1
       isPrepared: true
-    - 
-name: "[[5. Mechanics/Spells/Detect Evil And Good.md|Detect Evil And Good]]"
+    - name: "[[5. Mechanics/Spells/Detect Evil And Good.md|Detect Evil And Good]]"
       level: 1
       isPrepared: true
-    - 
-name: "[[5. Mechanics/Spells/Spiritual Weapon.md|Spiritual Weapon]]"
+    - name: "[[5. Mechanics/Spells/Spiritual Weapon.md|Spiritual Weapon]]"
       level: 2
       isPrepared: true
-    - 
-name: "[[5. Mechanics/Spells/Zone Of Truth.md|Zone Of Truth]]"
+    - name: "[[5. Mechanics/Spells/Zone Of Truth.md|Zone Of Truth]]"
       level: 2
       isPrepared: true
-    - 
-name: "[[5. Mechanics/Spells/Silence.md|Silence]]"
+    - name: "[[5. Mechanics/Spells/Silence.md|Silence]]"
       level: 2
       isPrepared: true
-    - 
-name: "[[5. Mechanics/Spells/Spirit Guardians.md|Spirit Guardians]]"
+    - name: "[[5. Mechanics/Spells/Spirit Guardians.md|Spirit Guardians]]"
       level: 3
       isPrepared: true
-    - 
-name: "[[5. Mechanics/Spells/Daylight.md|Daylight]]"
+    - name: "[[5. Mechanics/Spells/Daylight.md|Daylight]]"
       level: 3
       isPrepared: true
-    - 
-name: "[[5. Mechanics/Spells/Revivify.md|Revivify]]"
+    - name: "[[5. Mechanics/Spells/Revivify.md|Revivify]]"
       level: 3
       isPrepared: true
-    - 
-name: "[[5. Mechanics/Spells/Remove Curse.md|Remove Curse]]"
+    - name: "[[5. Mechanics/Spells/Remove Curse.md|Remove Curse]]"
       level: 3
       isPrepared: true
 currencies:
@@ -347,122 +316,102 @@ currencies:
   ep: 0
   pp: 0
 inventory: 
-  - 
-name: "[[5. Mechanics/Items/Cloak Of Protection.md|Cloak Of Protection]]"
+  - name: "[[5. Mechanics/Items/Cloak Of Protection.md|Cloak Of Protection]]"
     type: "Wondrous item"
     quantity: 1
     equipped: true
     isAttuned: true
-  - 
-name: "[[5. Mechanics/Items/Astral Hull Plating.md|Astral Hull Plating]]"
+  - name: "[[5. Mechanics/Items/Astral Hull Plating.md|Astral Hull Plating]]"
     type: "Armor"
     quantity: 1
     equipped: true
     isAttuned: false
-  - 
-name: "[[5. Mechanics/Items/Shield.md|Shield]]"
+  - name: "[[5. Mechanics/Items/Shield.md|Shield]]"
     type: "Armor"
     quantity: 1
     equipped: true
     isAttuned: false
-  - 
-name: "[[5. Mechanics/Items/Javelin.md|Javelin]]"
+  - name: "[[5. Mechanics/Items/Javelin.md|Javelin]]"
     type: "Weapon"
     quantity: 6
     equipped: true
     isAttuned: false
-  - 
-name: "[[5. Mechanics/Items/Mace.md|Mace]]"
+  - name: "[[5. Mechanics/Items/Mace.md|Mace]]"
     type: "Weapon"
     quantity: 1
     equipped: true
     isAttuned: false
-  - 
-name: "[[5. Mechanics/Items/Quarterstaff.md|Quarterstaff]]"
+  - name: "[[5. Mechanics/Items/Quarterstaff.md|Quarterstaff]]"
     type: "Weapon"
     quantity: 1
     equipped: true
     isAttuned: false
-  - 
-name: "[[5. Mechanics/Items/Spear.md|Spear]]"
+  - name: "[[5. Mechanics/Items/Spear.md|Spear]]"
     type: "Weapon"
     quantity: 1
     equipped: false
     isAttuned: false
-  - 
-name: "[[5. Mechanics/Items/Backpack.md|Backpack]]"
+  - name: "[[5. Mechanics/Items/Backpack.md|Backpack]]"
     type: "Other Gear"
     quantity: 1
     equipped: false
     isAttuned: false
-  - 
-name: "[[5. Mechanics/Items/Potion Of Healing.md|Potion Of Healing]]"
+  - name: "[[5. Mechanics/Items/Potion Of Healing.md|Potion Of Healing]]"
     type: "Other Gear"
     quantity: 0
     equipped: false
     isAttuned: false
-  - 
-name: "[[5. Mechanics/Items/Waterskin.md|Waterskin]]"
+  - name: "[[5. Mechanics/Items/Waterskin.md|Waterskin]]"
     type: "Other Gear"
     quantity: 1
     equipped: false
     isAttuned: false
-  - 
-name: "[[5. Mechanics/Items/Smiths Tools.md|Smiths Tools]]"
+  - name: "[[5. Mechanics/Items/Smiths Tools.md|Smiths Tools]]"
     type: "Other Gear"
     quantity: 1
     equipped: false
     isAttuned: false
-  - 
-name: "[[5. Mechanics/Items/Holy Symbol.md|Holy Symbol]]"
+  - name: "[[5. Mechanics/Items/Holy Symbol.md|Holy Symbol]]"
     type: "Other Gear"
     quantity: 1
     equipped: false
     isAttuned: false
-  - 
-name: "[[5. Mechanics/Items/Wand Of Secrets.md|Wand Of Secrets]]"
+  - name: "[[5. Mechanics/Items/Wand Of Secrets.md|Wand Of Secrets]]"
     type: "Wand"
     quantity: 1
     equipped: false
     isAttuned: false
-  - 
-name: "[[5. Mechanics/Items/Bedroll.md|Bedroll]]"
+  - name: "[[5. Mechanics/Items/Bedroll.md|Bedroll]]"
     type: "Other Gear"
     quantity: 1
     equipped: false
     isAttuned: false
-  - 
-name: "[[5. Mechanics/Items/Mess Kit.md|Mess Kit]]"
+  - name: "[[5. Mechanics/Items/Mess Kit.md|Mess Kit]]"
     type: "Other Gear"
     quantity: 1
     equipped: false
     isAttuned: false
-  - 
-name: "[[5. Mechanics/Items/Hempen Rope 50 Feet.md|Hempen Rope 50 Feet]]"
+  - name: "[[5. Mechanics/Items/Hempen Rope 50 Feet.md|Hempen Rope 50 Feet]]"
     type: "Other Gear"
     quantity: 1
     equipped: false
     isAttuned: false
-  - 
-name: "[[5. Mechanics/Items/Tinderbox.md|Tinderbox]]"
+  - name: "[[5. Mechanics/Items/Tinderbox.md|Tinderbox]]"
     type: "Other Gear"
     quantity: 1
     equipped: false
     isAttuned: false
-  - 
-name: "[[5. Mechanics/Items/Torch.md|Torch]]"
+  - name: "[[5. Mechanics/Items/Torch.md|Torch]]"
     type: "Other Gear"
     quantity: 10
     equipped: false
     isAttuned: false
-  - 
-name: "[[5. Mechanics/Items/Masons Tools.md|Masons Tools]]"
+  - name: "[[5. Mechanics/Items/Masons Tools.md|Masons Tools]]"
     type: "Other Gear"
     quantity: 1
     equipped: false
     isAttuned: false
-  - 
-name: "[[5. Mechanics/Items/Tinkers Tools.md|Tinkers Tools]]"
+  - name: "[[5. Mechanics/Items/Tinkers Tools.md|Tinkers Tools]]"
     type: "Other Gear"
     quantity: 1
     equipped: false
