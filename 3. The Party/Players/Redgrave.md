@@ -649,23 +649,16 @@ location:
 ## Spells
 ```dataviewjs
 const result = []
+const spellLevels = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 dv.current().classSpells.map(classSpellConfig => {
   dv.header(3, classSpellConfig.name)
-  classSpellConfig.spellSlots.max.filter(slot => slot > 0).map((slot, index) => {
-    result.push(`>> ### Level ${index+1}
->> **Slots: ${classSpellConfig.spellSlots.max[index]}/${slot}**
->> ${classSpellConfig.spells.filter(spell => spell.level === (index+1)).map(spell => spell.name).join(`\n>> `)}`)
+  spellLevels.forEach(level => {
+    result.push(`>> ### ${level === 0 ? 'Cantrips' : `Level ${level}`}
+>> **Slots: ${classSpellConfig.spellSlots.used[level-1]}/${classSpellConfig.spellSlots.max[level-1]}**
+>> ${classSpellConfig.spells.filter(spell => spell.level === (level)).map(spell => spell.name).join(`\n>> `)}`)
   })
 })
-console.log(`> [!cards|wfull]\n${result.join(`\n>\n`)}`)
 dv.paragraph(`> [!cards|wfull]\n${result.join(`\n>\n`)}`)
-```
-
-```dataviewjs
-const classSpells = dv.current().classSpells[0]
-dv.table(['Level', 'Slots', 'Spells'], classSpells.spellSlots.max.filter(slot => slot > 0).map((slot, index) => {
-  return [`#### Level ${index+1}`, `${classSpells.spellSlots.used[index]}/${slot}`, classSpells.spells.filter(spell => spell.level === index+1).map(spell => spell.name)]
-}))
 ```
 
 <!-- Need to add columns for equipped/attuned -->
