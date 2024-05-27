@@ -198,9 +198,9 @@ Characters can take the treasure and flee, easily outpacing the snake-swollen co
 > A dozen moss-covered menhirs form a near-perfect circle in the spongy earth. These weathered stones range in height from 15 to 18 feet. A couple of them lean inward as if to share some great secret with their inscrutable neighbors. A wary-looking peasant woman lurks behind the tallest stone, a rusty lantern clutched in one gnarled hand and a dagger clutched in the other.
 ^56a
 
-The woman is Muriel Vinshaw, a [[5. Mechanics/Bestiary/Humanoid/Wereraven.md\|wereraven]] (see appendix D) and friend of the Martikov family (see chapters 5 and 12). A resident of Vallaki, Muriel spies on [[4. World Almanac/NPCs/Baba Lysaga.md\|Baba Lysaga]] for her fellow wereravens. However, she avoids the village proper, preferring to lurk on the outskirts. If the characters allow her to speak, Muriel warns them about the dangers of Berez and arms them with the following information:
+The woman is Muriel Vinshaw, a [[5. Mechanics/Bestiary/Humanoid/Wereraven.md\|wereraven]] (see appendix D) and friend of the Martikov family (see chapters 5 and 12). A resident of Vallaki, Muriel spies on [[4. World Almanac/NPCs/Baba Lysaga.md\|Baba Lysaga]] for her fellow wereravens. However, she avoids the village proper, preferring to lurk on the outskirts. If the characters allow her to speak, Muriel warns them about the dangers of Berez and arms them with the following information: ^bc8d56
 
-- Berez was abandoned long ago after the river rose and flooded the village.  
+- Berez was abandoned long ago after the river rose and flooded the village.   ^2de1c0
 - An ancient and powerful hag named [[4. World Almanac/NPCs/Baba Lysaga.md\|Baba Lysaga]] lives in a hut in the middle of the village. When not in her hut, [[4. World Almanac/NPCs/Baba Lysaga.md\|Baba Lysaga]] flies around in a giant skull.  
 - The scarecrows of Berez are murderous creatures under the hag's control. They surround [[4. World Almanac/NPCs/Baba Lysaga.md\|Baba Lysaga]]'s hut and serve as an early warning system.  
 - [[4. World Almanac/NPCs/Baba Lysaga.md\|Baba Lysaga]] periodically sends her scarecrows to attack the Wizard of Wines, a winery and vineyard west of Berez. She's made enemies of the Martikov family, which owns and operates the winery and vineyard.  
