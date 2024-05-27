@@ -653,9 +653,13 @@ const spellLevels = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 dv.current().classSpells.map(classSpellConfig => {
   dv.header(3, classSpellConfig.name)
   spellLevels.forEach(level => {
-    result.push(`>> ### ${level === 0 ? 'Cantrips' : `Level ${level}`}
->> **Slots: ${classSpellConfig.spellSlots.used[level-1]}/${classSpellConfig.spellSlots.max[level-1]}**
->> ${classSpellConfig.spells.filter(spell => spell.level === (level)).map(spell => spell.name).join(`\n>> `)}`)
+    let levelText = ''
+    levelText += `>> ### ${level === 0 ? `Cantrips\n` : `Level ${level}\n`}`
+    if (classSpellConfig.spellSlots.max[level-1] > 0) {
+      levelText += `>> **Slots: ${classSpellConfig.spellSlots.used[level-1]}/${classSpellConfig.spellSlots.max[level-1]}**\n`
+    }
+    levelText += `>> ${classSpellConfig.spells.filter(spell => spell.level === (level)).map(spell => spell.name).join(`\n>> `)}`
+    result.push(levelText)
   })
 })
 dv.paragraph(`> [!cards|wfull]\n${result.join(`\n>\n`)}`)
