@@ -649,15 +649,14 @@ location:
 ## Spells
 > [!cards|dataview wfull]
 > ```dataviewjs
-> const spells = dv.current().maxSpellSlots.map((slot, index) => {
->   return {
->     level: index+1,
->     spells: dv.current().classSpells.filter(spell => spell.level === index+1).map(spell => spell.name),
->     maxSpellSlots: slot,
->     availableSpellSlots: slot - dv.current().usedSpellSlots[index]
->   }
-> }).filter(spellLevelConfig => spellLevelConfig.maxSpellSlots > 0)
-> dv.table(['Name', 'Slots', 'Spells'], spells.map(spell => [`### Level ${spell.level}`, `**Slots: Left ${spell.availableSpellSlots} / Max ${spell.maxSpellSlots}**`, spell.spells]))
+> const result = []
+> dv.current().classSpells.map(classSpellConfig => {
+>   dv.header(3, classSpellConfig.name)
+>   classSpellConfig.spellSlots.max.filter(slot => slot > 0).map((slot, index) => {
+>     result.push(`#### Level ${index+1}\n\n`)
+>   })
+> })
+> return result
 > ```
 
 <!-- Need to add columns for equipped/attuned -->
