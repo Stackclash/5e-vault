@@ -481,8 +481,9 @@
       "equipped": true,
       "canAttune": true,
       "attuned": true,
-      "damageType": null,
-      "armorClass": null
+      "damage": "",
+      "damageType": "",
+      "armorClass": ""
     },
     {
       "name": "Heavy Plating",
@@ -493,7 +494,8 @@
       "equipped": true,
       "canAttune": false,
       "attuned": false,
-      "damageType": null,
+      "damage": "",
+      "damageType": "",
       "armorClass": 16
     },
     {
@@ -505,7 +507,8 @@
       "equipped": true,
       "canAttune": false,
       "attuned": false,
-      "damageType": null,
+      "damage": "",
+      "damageType": "",
       "armorClass": 2
     },
     {
@@ -519,7 +522,7 @@
       "attuned": false,
       "damage": "1d6",
       "damageType": "Piercing",
-      "armorClass": null
+      "armorClass": ""
     },
     {
       "name": "Mace",
@@ -532,7 +535,7 @@
       "attuned": false,
       "damage": "1d6",
       "damageType": "Bludgeoning",
-      "armorClass": null
+      "armorClass": ""
     },
     {
       "name": "Quarterstaff",
@@ -545,7 +548,7 @@
       "attuned": false,
       "damage": "1d6",
       "damageType": "Bludgeoning",
-      "armorClass": null
+      "armorClass": ""
     },
     {
       "name": "Spear",
@@ -558,7 +561,7 @@
       "attuned": false,
       "damage": "1d6",
       "damageType": "Piercing",
-      "armorClass": null
+      "armorClass": ""
     },
     {
       "name": "Backpack",
@@ -569,8 +572,9 @@
       "equipped": false,
       "canAttune": false,
       "attuned": false,
-      "damageType": null,
-      "armorClass": null
+      "damage": "",
+      "damageType": "",
+      "armorClass": ""
     },
     {
       "name": "Potion of Healing",
@@ -581,8 +585,9 @@
       "equipped": false,
       "canAttune": false,
       "attuned": false,
-      "damageType": null,
-      "armorClass": null
+      "damage": "",
+      "damageType": "",
+      "armorClass": ""
     },
     {
       "name": "Waterskin",
@@ -593,8 +598,9 @@
       "equipped": false,
       "canAttune": false,
       "attuned": false,
-      "damageType": null,
-      "armorClass": null
+      "damage": "",
+      "damageType": "",
+      "armorClass": ""
     },
     {
       "name": "Smith's Tools",
@@ -605,8 +611,9 @@
       "equipped": false,
       "canAttune": false,
       "attuned": false,
-      "damageType": null,
-      "armorClass": null
+      "damage": "",
+      "damageType": "",
+      "armorClass": ""
     },
     {
       "name": "Holy Symbol",
@@ -617,8 +624,9 @@
       "equipped": false,
       "canAttune": false,
       "attuned": false,
-      "damageType": null,
-      "armorClass": null
+      "damage": "",
+      "damageType": "",
+      "armorClass": ""
     },
     {
       "name": "Wand of Secrets",
@@ -629,8 +637,9 @@
       "equipped": false,
       "canAttune": false,
       "attuned": false,
-      "damageType": null,
-      "armorClass": null
+      "damage": "",
+      "damageType": "",
+      "armorClass": ""
     },
     {
       "name": "Bedroll",
@@ -641,8 +650,9 @@
       "equipped": false,
       "canAttune": false,
       "attuned": false,
-      "damageType": null,
-      "armorClass": null
+      "damage": "",
+      "damageType": "",
+      "armorClass": ""
     },
     {
       "name": "Mess Kit",
@@ -653,8 +663,9 @@
       "equipped": false,
       "canAttune": false,
       "attuned": false,
-      "damageType": null,
-      "armorClass": null
+      "damage": "",
+      "damageType": "",
+      "armorClass": ""
     },
     {
       "name": "Rope, Hempen (50 feet)",
@@ -665,8 +676,9 @@
       "equipped": false,
       "canAttune": false,
       "attuned": false,
-      "damageType": null,
-      "armorClass": null
+      "damage": "",
+      "damageType": "",
+      "armorClass": ""
     },
     {
       "name": "Tinderbox",
@@ -677,8 +689,9 @@
       "equipped": false,
       "canAttune": false,
       "attuned": false,
-      "damageType": null,
-      "armorClass": null
+      "damage": "",
+      "damageType": "",
+      "armorClass": ""
     },
     {
       "name": "Torch",
@@ -689,8 +702,9 @@
       "equipped": false,
       "canAttune": false,
       "attuned": false,
-      "damageType": null,
-      "armorClass": null
+      "damage": "",
+      "damageType": "",
+      "armorClass": ""
     },
     {
       "name": "Mason's Tools",
@@ -701,8 +715,9 @@
       "equipped": false,
       "canAttune": false,
       "attuned": false,
-      "damageType": null,
-      "armorClass": null
+      "damage": "",
+      "damageType": "",
+      "armorClass": ""
     },
     {
       "name": "Tinker's Tools",
@@ -713,8 +728,9 @@
       "equipped": false,
       "canAttune": false,
       "attuned": false,
-      "damageType": null,
-      "armorClass": null
+      "damage": "",
+      "damageType": "",
+      "armorClass": ""
     }
   ]
 }

@@ -432,16 +432,16 @@ class DnDBeyondCharacter {
         get: () => {
           return this.#data.inventory.map(inv => ({
             name: inv.definition.name,
-            type: inv.definition.filterType,
-            rarity: inv.definition.rarity,
+            type: inv.definition.filterType || '',
+            rarity: inv.definition.rarity || '',
             quantity: inv.quantity,
-            canEquip: inv.definition.canEquip,
+            canEquip: inv.definition.canEquip || false,
             equipped: inv.equipped,
-            canAttune: inv.definition.canAttune,
+            canAttune: inv.definition.canAttune || false,
             attuned: inv.isAttuned,
-            damage: inv.definition.damage?.diceString,
-            damageType: inv.definition.damageType,
-            armorClass: inv.definition.armorClass
+            damage: inv.definition.damage?.diceString || '',
+            damageType: inv.definition.damageType || '',
+            armorClass: inv.definition.armorClass || ''
           }))
         },
         enumerable: true
