@@ -647,16 +647,19 @@ location:
 <!-- Needs fixing to group by class -->
 <!-- Separate sections for class/race spells -->
 ## Spells
+```dataviewjs
+dv.current().classSpells.map(classSpellConfig => {
+  dv.header(3, classSpellConfig.name)
+  dv.paragraph(`> [!cards|dataview wfull]
+  > \`\`\`dataviewjs
+  > dv.current().classSpells[0].name
+  \`\`\``)
+})
+```
+
 > [!cards|dataview wfull]
 > ```dataviewjs
-> const result = []
-> dv.current().classSpells.map(classSpellConfig => {
->   dv.header(3, classSpellConfig.name)
->   classSpellConfig.spellSlots.max.filter(slot => slot > 0).map((slot, index) => {
->     result.push(`#### Level ${index+1}\n\n`)
->   })
-> })
-> return result
+> dv.table(['Level'], )
 > ```
 
 <!-- Need to add columns for equipped/attuned -->
