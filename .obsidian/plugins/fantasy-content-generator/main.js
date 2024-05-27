@@ -19842,6 +19842,28 @@ var FantasyPlugin = class extends import_obsidian5.Plugin {
         this.currentEditor = null;
       }
     });
+    this.addCommand({
+      id: "open-fantasy-generator",
+      name: "Open Fantasy Generator",
+      callback: () => {
+        new GeneratorModal(this.app, (result) => {
+          const copyContent = async () => {
+            try {
+              if (result instanceof Error) {
+                new import_obsidian5.Notice(`${result}`);
+              } else {
+                await navigator.clipboard.writeText(result);
+                new import_obsidian5.Notice(`${result} was copied to the clipboard.`);
+              }
+            } catch (err) {
+              console.error("Failed to copy: ", err);
+              new import_obsidian5.Notice("Failed to copy, Check error in console.");
+            }
+          };
+          copyContent();
+        }, this).open();
+      }
+    });
     this.registerEditorSuggest(new InlineGeneratorSuggester(this.getOptionsForSuggest, this));
     this.addRibbonIcon("book", "Fantasy Generators", (evt) => {
       new GeneratorModal(this.app, (result) => {
