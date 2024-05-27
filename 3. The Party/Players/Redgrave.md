@@ -652,12 +652,13 @@ const result = []
 dv.current().classSpells.map(classSpellConfig => {
   dv.header(3, classSpellConfig.name)
   classSpellConfig.spellSlots.max.filter(slot => slot > 0).map((slot, index) => {
-    result.push(`> ### Level ${index+1}
-> **Slots: ${classSpellConfig.spellSlots.max[index]}/${slot}**
-> ${classSpellConfig.spells.filter(spell => spell.level === (index+1)).map(spell => spell.name).join(`\n> `)}`)
+    result.push(`>> ### Level ${index+1}
+>> **Slots: ${classSpellConfig.spellSlots.max[index]}/${slot}**
+>> ${classSpellConfig.spells.filter(spell => spell.level === (index+1)).map(spell => spell.name).join(`\n>> `)}`)
   })
 })
-dv.paragraph(`> [!cards|wfull]\n${result}`)
+console.log(`> [!cards|wfull]\n${result.join(`\n>\n`)}`)
+dv.paragraph(`> [!cards|wfull]\n${result.join(`\n>\n`)}`)
 ```
 
 ```dataviewjs
