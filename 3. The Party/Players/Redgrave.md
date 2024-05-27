@@ -246,7 +246,7 @@ classSpells:
   - name: "Cleric"
     cantripsKnown: 4
     spellSlots:
-ssmax: 
+max: 
       - 4
       - 3
       - 3
