@@ -1,37 +1,41 @@
 {
-  "url": "https://dndbeyond.com/characters/105635812",
-  "image": "https://www.dndbeyond.com/avatars/36048/643/1581111423-105635812.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp",
-  "name": "Faerah Duskrane",
+  "url": "https://dndbeyond.com/characters/29682199",
+  "image": "https://www.dndbeyond.com/avatars/10846/680/1581111423-29682199.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp",
+  "name": "Redgrave",
   "race": {
-    "name": "Elf",
-    "subRace": "Dark",
-    "fullName": "Dark Elf (Drow)"
+    "name": "Envoy",
+    "subRace": "Warforged",
+    "fullName": "Warforged Envoy"
   },
   "description": {
-    "gender": "Female",
-    "age": 88,
-    "hair": "Silver",
-    "eyes": "Lavender",
-    "skin": "Grey-blue",
-    "height": "5'4",
-    "weight": null,
+    "gender": "",
+    "age": null,
+    "hair": "",
+    "eyes": "Emeralds",
+    "skin": "Metallic with gold engraving",
+    "height": "6'5\"",
+    "weight": 300,
     "size": "Medium"
   },
   "proficiencies": {
     "armor": [
-      "Light Armor"
+      "Light Armor",
+      "Medium Armor",
+      "Shields",
+      "Heavy Armor"
     ],
     "weapons": [
       "Simple Weapons"
     ],
     "tools": [
-      "Thieves' Tools"
+      "Mason's Tools",
+      "Smith's Tools",
+      "Tinker's Tools"
     ],
     "languages": [
       "Common",
-      "Elvish",
-      "Thieves’ Cant",
-      "Undercommon"
+      "Draconic",
+      "Elvish"
     ]
   },
   "level": 6,
@@ -40,7 +44,7 @@
     "current": 45,
     "temporary": 0
   },
-  "armorClass": 16,
+  "armorClass": 23,
   "speeds": {
     "walk": 30,
     "fly": 0,
@@ -50,203 +54,126 @@
   },
   "defenses": {
     "immunities": [
-      "magical-sleep"
+      "disease"
     ],
-    "resistances": []
+    "resistances": [
+      "poison",
+      "fire"
+    ]
   },
-  "initiative": 6,
+  "initiative": -1,
   "passives": {
-    "perception": 14,
-    "investigation": 10,
-    "insight": 11
+    "perception": 17,
+    "investigation": 11,
+    "insight": 17
   },
-  "alignment": "Chaotic Good",
+  "alignment": "Neutral Good",
   "background": {
     "background": {
-      "name": "Outlander",
-      "description": "<p>You grew up in the wilds, far from the comforts of town and technology. You’ve witnessed the migration of herds larger than forests, survived weather more extreme than any city-dweller could comprehend, and enjoyed the solitude of being the only thinking creature for miles in any direction. The wilds are in your blood, whether you were a nomad, an explorer, a recluse, a hunter-gatherer, or even a marauder. Even in places where you don’t know the specific features of the terrain, you know the ways of the wild.</p>"
+      "name": "Guild Artisan / Guild Merchant",
+      "description": "<p>You are a member of an artisan’s guild, skilled in a particular field and closely associated with other artisans. You are a well-established part of the mercantile world, freed by talent and wealth from the constraints of a feudal social order. You learned your skills as an apprentice to a master artisan, under the sponsorship of your guild, until you became a master in your own right.</p>"
     },
-    "backstory": "I was never meant for the underdark, but then Drow really arent' welcome anywhere else. The Lolth-sworn of my kind are weak minded, following mommy dearest like lambs to slaughter. As a child I was always a free thinker and a free spirit. I'd rather explore and make friends than fight to prove my worth. I asked \"why\" too much, I could never blindly obey. It would have gotten me killed if I didn't find out just how dangerous I was to Lolth's agenda. \nWhile others of my kind would kill each other for station and ambition, I dreamt of a life beyond the confines of darkness; a life full of love, acceptance, and kindness. Of course I wouldn't have known what any of that was if my sister hadn't shown me. In secret, we made a little pact of our own. She confided in me that Drow have left the underdark before, so we decided that we would flee together after I had trained. It took years for us to find a way out and plan our escape. We lived a double life of appeasing Lolth while also gaining access to our historic records and the best trainers so I could learn and prepare. Enduring that was a special kind of hell.\nDuring that time I honed my skills in stealth, deception, and sleight of hand. My sister breathed compassion into me for the lambs who got in so deep that they lost any sense of self. \"Their free will was twisted and carved into weapons for Lolth,\" my sister would say to me. \nWe were mere weeks away from enacting our escape plan before my sister was discovered. She was murdered and made an example of. She gave me an amulet just the day before which displayed a crescent moon within a circle. She told me this stone is the color of the sky beyond the underdark. \"Look to the sky and you'll find your way,\" were her last words to me. \nI had no idea how she got the stone or what it meant at the time, but in hindsight, she knew that the plan we made together was a journey I would be walking alone. Since then I have never taken it off. My purpose is clear: release as many people as possible from the clutches of tyranny and oppression.",
-    "organizations": null,
+    "backstory": "Forged in lightning and blood by the dark wizard Eludrax, \"Eight\" was born. The wizard's thirst for eternal life led him not to the cultivation of a new fleshy body, but a perfect one of his own design.\nUsing ancient techniques from lands quite distant, Eludrax forged machines for his allies war efforts. Nothing, however, could keep him from his true life's work.\n\n---\n\nIt was the eighth of Eludrax's shield guardians, and thus aptly named. \n\nMost of of the Lich's constructs bore no soul of their own, merely mindless automatons for his own bidding. He would often pluck lost souls from Limbo and twist and torture them to suit his machinations. \n\nBut the eight were different. They were his personal bodyguards, improved physically in every way, and candidates for his transference of life. Most importantly, they were devoid of soul.\n\nAt the aging dark wizard's command the constructs committed unspeakable atrocities. They were the harbingers of his dirty work, and Eludrax was not above committing horrors in the name of his research.\n\nEight was his magnum opus, and thus his intended vessel. His plan to transfer his own soul into the guardian was made haste, however, as Eludrax awoke one night to an adventurer's group tearing through his laboratory. He commanded Eight to follow, sending the other seven to combat the coming threat. \n\nHe clamored as fast as he could to the dark crystal machine intended to bind his soul into his vessel,  and spilled his blood on the dais with a quick slice to the palm. He grasped Eight's cool metal hand, and forced it onto the crystal. Thus, the dark ritual began. Eludrax's eyes went white as his spirit was ripped from his body and absorbed into the orb. \n\nWhat he miscalculated, however, was that a soul already existed inside his creation. It was faint, beaten down by years of cruelty and transgression, but there nonetheless.\n\nThe Lich's powerful spirit growled menacingly as it reached out to pluck the soul from Eight. Before he could, however, a burst of radiance appeared to encapsulate the soul. Eludrax's fury burned hot, but was not strong enough to pierce the veil of light. \n\nTime was not on the dark wizard's side. The party that'd breached his laboratory had finally made it into this sanctum. The group exchanged quick words, deliberating on their plan of action. Before their sorcerer could cry out, however, the paladin raised her mace and brought it crashing down on the large swirling crystal. As it shattered, the wizard's soul was cast into limbo, spiraling out of the material plane with a guttural scream.\n\n\"Am I...?\" Eight spoke aloud with a sound of relief, before collapsing to the cold stone floor with a hearty thud. \n\n---\n\nEight awoke to the stench of burning and the feel of a warm hand against its cold metal chest. In the distance the tower it'd known as its home, the place of its creation, was fervently ablaze.\n\n\"Can it understand us?\" One of the adventurers pondered out loud. \nEight nodded in response \n\nThe woman whose hand was pulsating over it with life magic leaned in a bit closer to its face.\n\"So, do you have a name?\" She asked in a soft voice, curiously, as if she were talking to a child.\n\nEight looked down at the ground, then back at the burning spire behind him. \n\n\"Redgrave,\" it muttered quietly, then returned its gaze to hers. \n\n\"My name is Redgrave.\"\n\n\"Like that tower?\" One of the men in the group asked questioningly. \n\n\"Yes,\" the forged known formerly as Eight responded.\n\"So that I may never forget what happened here.\" \n",
+    "organizations": "Forgemaster of Gond\nCleric of The Watchers over the Fallen\nArtisan's Guild Adept\n\n",
     "allies": null,
     "enemies": null,
-    "notes": "Traps: Roll advantage on using/creating traps"
+    "notes": "Since its severing from Eludrax, Redgrave has traveled the countryside with wanderlust. It was eventually taken in by an artisan's guild, and trained even further by their master craftsmen. It was quite gifted in the trade, fitting in relation to its own creation. \n\nIt found its calling in reverence to Gond, father of all smiths. It felt if nothing else, it owed its very existence to the Wonderbringer. It took solace in the fact that every one of its crafts gained it favor with its patron.\n\nLike its former master it was driven to create automatons. Its creations however were on a much smaller scale. It would often forge clockwork toys or pets, and funded its travels by selling them to wealthy families.\n\nIts smithing work in creating and embellishing arms and armor was also quite valued. No matter where it traveled, it was often easy to find work in its trade. \n\nRedgrave had avoided martial combat for years,  mostly because of its dark past. Though as fate would have it, it eventually came to find its place as the quartermaster for a group of battle healers known as the Watchers over the Fallen. It was they who taught Redgrave to embrace the light that'd been within it since the beginning of its creation. They would eventually teach it how to use that light, its god's favor, and wield it like a weapon with one hand and a blessing with the other. Through the radiance of Helm, The Vigilant One, it would be a stalwart shield to his allies.\n\nRedgrave eventually parted ways from the ranks of the Watchers, choosing to forge its own path. Its life's work was to atone for the atrocities it partook in during its servitude to the dark wizard. With peace in the land quickly deteriorating, and dark forces starting to rise once more, Redgrave set out on a new direction. It was going to take the fight to those who subjugate others, and strike them down with the divine wrath granted to it by the gods. \n\n\n"
   },
   "proficiencyBonus": 3,
   "classes": [
     {
-      "name": "Rogue",
-      "subClass": "Swashbuckler",
+      "name": "Cleric",
+      "subClass": "Forge Domain",
       "level": 6
     }
   ],
   "abilityScores": {
     "strength": {
-      "value": 8,
-      "modifier": -1
+      "value": 15,
+      "modifier": 2
     },
     "dexterity": {
-      "value": 19,
-      "modifier": 4
+      "value": 8,
+      "modifier": -1
     },
     "constitution": {
       "value": 14,
       "modifier": 2
     },
     "intelligence": {
-      "value": 10,
-      "modifier": 0
-    },
-    "wisdom": {
       "value": 12,
       "modifier": 1
     },
+    "wisdom": {
+      "value": 18,
+      "modifier": 4
+    },
     "charisma": {
-      "value": 14,
-      "modifier": 2
+      "value": 10,
+      "modifier": 0
     }
   },
   "savingThrows": {
     "strength": {
-      "value": -1,
-      "baseValue": -1,
+      "value": 3,
+      "baseValue": 2,
       "proficiency": false
     },
     "dexterity": {
-      "value": 7,
-      "baseValue": 4,
-      "proficiency": true
+      "value": 0,
+      "baseValue": -1,
+      "proficiency": false
     },
     "constitution": {
-      "value": 2,
+      "value": 3,
       "baseValue": 2,
       "proficiency": false
     },
     "intelligence": {
-      "value": 3,
-      "baseValue": 0,
-      "proficiency": true
-    },
-    "wisdom": {
-      "value": 1,
+      "value": 2,
       "baseValue": 1,
       "proficiency": false
     },
+    "wisdom": {
+      "value": 8,
+      "baseValue": 4,
+      "proficiency": true
+    },
     "charisma": {
-      "value": 2,
-      "baseValue": 2,
-      "proficiency": false
+      "value": 4,
+      "baseValue": 0,
+      "proficiency": true
     },
     "notes": [
-      "Advantage against being charmed"
+      "Advantage Against Poison"
     ]
   },
   "skills": {
     "acrobatics": {
-      "value": 10,
-      "baseValue": 4,
-      "proficiency": true,
-      "expertise": true,
+      "value": -1,
+      "baseValue": -1,
+      "proficiency": false,
+      "expertise": false,
       "disadvantage": false,
       "advantage": false
     },
     "animal-handling": {
-      "value": 1,
-      "baseValue": 1,
+      "value": 4,
+      "baseValue": 4,
       "proficiency": false,
       "expertise": false,
       "disadvantage": false,
       "advantage": false
     },
     "arcana": {
-      "value": 0,
-      "baseValue": 0,
+      "value": 1,
+      "baseValue": 1,
       "proficiency": false,
       "expertise": false,
       "disadvantage": false,
       "advantage": false
     },
     "athletics": {
-      "value": 2,
-      "baseValue": -1,
-      "proficiency": true,
-      "expertise": false,
-      "disadvantage": false,
-      "advantage": false
-    },
-    "deception": {
-      "value": 2,
-      "baseValue": 2,
-      "proficiency": false,
-      "expertise": false,
-      "disadvantage": false,
-      "advantage": false
-    },
-    "history": {
-      "value": 0,
-      "baseValue": 0,
-      "proficiency": false,
-      "expertise": false,
-      "disadvantage": false,
-      "advantage": false
-    },
-    "insight": {
-      "value": 1,
-      "baseValue": 1,
-      "proficiency": false,
-      "expertise": false,
-      "disadvantage": false,
-      "advantage": false
-    },
-    "intimidation": {
-      "value": 2,
-      "baseValue": 2,
-      "proficiency": false,
-      "expertise": false,
-      "disadvantage": false,
-      "advantage": false
-    },
-    "investigation": {
-      "value": 0,
-      "baseValue": 0,
-      "proficiency": false,
-      "expertise": false,
-      "disadvantage": false,
-      "advantage": false
-    },
-    "medicine": {
-      "value": 1,
-      "baseValue": 1,
-      "proficiency": false,
-      "expertise": false,
-      "disadvantage": false,
-      "advantage": false
-    },
-    "nature": {
-      "value": 0,
-      "baseValue": 0,
-      "proficiency": false,
-      "expertise": false,
-      "disadvantage": false,
-      "advantage": false
-    },
-    "perception": {
-      "value": 4,
-      "baseValue": 1,
-      "proficiency": true,
-      "expertise": false,
-      "disadvantage": true,
-      "advantage": false
-    },
-    "performance": {
-      "value": 2,
-      "baseValue": 2,
-      "proficiency": false,
-      "expertise": false,
-      "disadvantage": false,
-      "advantage": false
-    },
-    "persuasion": {
       "value": 5,
       "baseValue": 2,
       "proficiency": true,
@@ -254,7 +181,7 @@
       "disadvantage": false,
       "advantage": false
     },
-    "religion": {
+    "deception": {
       "value": 0,
       "baseValue": 0,
       "proficiency": false,
@@ -262,26 +189,106 @@
       "disadvantage": false,
       "advantage": false
     },
-    "sleight-of-hand": {
-      "value": 10,
+    "history": {
+      "value": 1,
+      "baseValue": 1,
+      "proficiency": false,
+      "expertise": false,
+      "disadvantage": false,
+      "advantage": false
+    },
+    "insight": {
+      "value": 7,
       "baseValue": 4,
       "proficiency": true,
-      "expertise": true,
+      "expertise": false,
+      "disadvantage": false,
+      "advantage": false
+    },
+    "intimidation": {
+      "value": 0,
+      "baseValue": 0,
+      "proficiency": false,
+      "expertise": false,
+      "disadvantage": false,
+      "advantage": false
+    },
+    "investigation": {
+      "value": 1,
+      "baseValue": 1,
+      "proficiency": false,
+      "expertise": false,
+      "disadvantage": false,
+      "advantage": false
+    },
+    "medicine": {
+      "value": 4,
+      "baseValue": 4,
+      "proficiency": false,
+      "expertise": false,
+      "disadvantage": false,
+      "advantage": false
+    },
+    "nature": {
+      "value": 1,
+      "baseValue": 1,
+      "proficiency": false,
+      "expertise": false,
+      "disadvantage": false,
+      "advantage": false
+    },
+    "perception": {
+      "value": 7,
+      "baseValue": 4,
+      "proficiency": true,
+      "expertise": false,
+      "disadvantage": false,
+      "advantage": false
+    },
+    "performance": {
+      "value": 0,
+      "baseValue": 0,
+      "proficiency": false,
+      "expertise": false,
+      "disadvantage": false,
+      "advantage": false
+    },
+    "persuasion": {
+      "value": 3,
+      "baseValue": 0,
+      "proficiency": true,
+      "expertise": false,
+      "disadvantage": false,
+      "advantage": false
+    },
+    "religion": {
+      "value": 4,
+      "baseValue": 1,
+      "proficiency": true,
+      "expertise": false,
+      "disadvantage": false,
+      "advantage": false
+    },
+    "sleight-of-hand": {
+      "value": -1,
+      "baseValue": -1,
+      "proficiency": false,
+      "expertise": false,
       "disadvantage": false,
       "advantage": false
     },
     "stealth": {
-      "value": 10,
-      "baseValue": 4,
-      "proficiency": true,
-      "expertise": true,
-      "disadvantage": false,
+      "value": -1,
+      "baseValue": -1,
+      "proficiency": false,
+      "expertise": false,
+      "disadvantage": true,
       "advantage": false
     },
     "survival": {
       "value": 4,
-      "baseValue": 1,
-      "proficiency": true,
+      "baseValue": 4,
+      "proficiency": false,
       "expertise": false,
       "disadvantage": false,
       "advantage": false
@@ -289,158 +296,229 @@
   },
   "racialTraits": [
     {
-      "name": "Keen Senses",
-      "description": "You have proficiency in the Perception skill."
+      "name": "Warforged Resilience",
+      "description": "You have advantage on saving throws against being poisoned, and you have resistance to poison damage. You are immune to disease. You don’t need to eat, drink, or breathe. You don’t need to sleep and don’t suffer the effects of exhaustion due to lack of rest, and magic can’t put you to sleep."
     },
     {
-      "name": "Fey Ancestry",
-      "description": "You have advantage on saves against being charmed, and magic can’t put you to sleep."
+      "name": "Integrated Protection",
+      "description": "Your body has built-in defensive layers, which determine your armor class."
     },
     {
-      "name": "Trance",
-      "description": "You don't need to sleep, but meditate semiconsciously for 4 hours a day. While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep."
+      "name": "Sentry's Rest",
+      "description": "When you take a long rest, you must spend at least 6 hours in an inactive state rather than sleeping. In this state, you appear inert, but it doesn’t render you unconscious, and you can see and hear as normal."
     },
     {
-      "name": "Superior Darkvision",
-      "description": "You can see in darkness (shades of gray) up to 120 ft."
+      "name": "Ability Score Increase",
+      "description": "Two different ability scores of your choice increase by 1."
     },
     {
-      "name": "Sunlight Sensitivity",
-      "description": "You have disadvantage on attack rolls and on Perception checks that rely on sight when you, your target, or whatever you are trying to perceive is in direct sunlight."
+      "name": "Specialized Design",
+      "description": "You gain one skill proficiency, one tool proficiency, and fluency in one language of your choice."
     },
     {
-      "name": "Drow Magic",
-      "description": "You know the dancing lights cantrip. [3rd] You can cast faerie fire once per long rest. [5th] You can cast the darkness spell once per long rest. CHA is your spellcasting ability."
-    },
-    {
-      "name": "Drow Weapon Training",
-      "description": "You have proficiency with rapiers, shortswords, and hand crossbows."
+      "name": "Integrated Tool",
+      "description": "A chosen tool you are proficient with is integrated into your body, and you double your proficiency bonus for any ability checks you make with it. You must have your hands free to use this integrated tool."
     }
   ],
   "classFeatures": [
     {
-      "name": "Fancy Footwork",
-      "description": "During your turn, if you make a melee attack against a creature, that creature can’t make opportunity attacks against you for the rest of your turn."
+      "name": "Domain Spells",
+      "description": "You gain domain spells based on your cleric level."
     },
     {
-      "name": "Rakish Audacity",
-      "description": "You add your CHA modifier (2) to your initiative rolls. You don’t need advantage on the attack roll to use your Sneak Attack against a creature if you are within 5 ft. of it, no other creatures are within 5 ft. of you, and you don’t have disadvantage on the attack roll."
+      "name": "Bonus Proficiencies",
+      "description": "You gain proficiency with heavy armor and smith’s tools."
     },
     {
-      "name": "Expertise",
-      "description": "Your proficiency bonus is doubled for any ability check you make for two chosen proficiencies. [6th] Choose two additional proficiencies."
+      "name": "Blessing of the Forge",
+      "description": "At the end of a long rest, you can imbue magic into a weapon or armor by touching a nonmagical version. Until your next long rest or you die, the object grants a +1 bonus to either AC or attack and damage rolls. You can't use this feature again until you finish a long rest."
     },
     {
-      "name": "Sneak Attack",
-      "description": "Once per turn, you can deal an extra {{scalevalue}} damage to one creature you hit with an attack with a finesse or ranged weapon if you have advantage on the attack roll. You don’t need advantage on the attack roll if another enemy of the target is within 5 ft. of it, that enemy isn’t incapacitated, and you don’t have disadvantage on the attack roll."
+      "name": "Channel Divinity: Artisan's Blessing",
+      "description": "You can use your Channel Divinity to conduct an hour-long ritual that crafts a nonmagical item that must include some metal: a simple or martial weapon, a suit of armor, ten pieces of ammunition, a set of tools, or another metal object. The thing you create can be something that is worth no more than 100 gp."
     },
     {
-      "name": "Thieves’ Cant",
-      "description": "You have learned thieves’ cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. It takes four times longer to convey such a message than it does to speak the same idea plainly."
+      "name": "Soul of the Forge",
+      "description": "You gain resistance to fire damage and while wearing heavy armor, you gain a +1 bonus to AC."
     },
     {
-      "name": "Cunning Action",
-      "description": "You can take a bonus action on each of your turns to take the Dash, Disengage, or Hide action."
+      "name": "Spellcasting",
+      "description": "You can cast prepared cleric spells using WIS as your spellcasting modifier (Spell DC 15, Spell Attack 7) and prepared cleric spells as rituals if they have the ritual tag. You can use a holy symbol as a spellcasting focus."
     },
     {
-      "name": "Uncanny Dodge",
-      "description": "When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack’s damage against you."
+      "name": "Divine Domain",
+      "description": "You choose a divine domain that grants you additional spells and other features related to your deity."
     },
     {
-      "name": "Expertise",
-      "description": "Your proficiency bonus is doubled for any ability check you make that uses any of the chosen proficiencies."
+      "name": "Channel Divinity",
+      "description": "You can channel divine energy to fuel magical effects a number of times per short rest"
+    },
+    {
+      "name": "Destroy Undead",
+      "description": "When an undead fails its saving throw against your Turn Undead feature, it is instantly destroyed if its CR is lower than the threshold for your level."
     }
   ],
   "feats": [],
   "spells": {
-    "race": [
+    "race": [],
+    "class": [
       {
-        "name": "Dancing Lights",
-        "level": 0,
-        "isPrepared": true
-      },
-      {
-        "name": "Faerie Fire",
-        "level": 1,
-        "isPrepared": false
-      },
-      {
-        "name": "Darkness",
-        "level": 2,
-        "isPrepared": false
+        "name": "Cleric",
+        "cantripsKnown": 4,
+        "spellSlots": {
+          "max": [
+            4,
+            3,
+            3,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "used": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "spells": [
+          {
+            "name": "Sacred Flame",
+            "level": 0,
+            "isPrepared": true
+          },
+          {
+            "name": "Thaumaturgy",
+            "level": 0,
+            "isPrepared": true
+          },
+          {
+            "name": "Word of Radiance",
+            "level": 0,
+            "isPrepared": true
+          },
+          {
+            "name": "Mending",
+            "level": 0,
+            "isPrepared": true
+          },
+          {
+            "name": "Cure Wounds",
+            "level": 1,
+            "isPrepared": true
+          },
+          {
+            "name": "Healing Word",
+            "level": 1,
+            "isPrepared": true
+          },
+          {
+            "name": "Detect Evil and Good",
+            "level": 1,
+            "isPrepared": true
+          },
+          {
+            "name": "Spiritual Weapon",
+            "level": 2,
+            "isPrepared": true
+          },
+          {
+            "name": "Zone of Truth",
+            "level": 2,
+            "isPrepared": true
+          },
+          {
+            "name": "Silence",
+            "level": 2,
+            "isPrepared": true
+          },
+          {
+            "name": "Spirit Guardians",
+            "level": 3,
+            "isPrepared": true
+          },
+          {
+            "name": "Daylight",
+            "level": 3,
+            "isPrepared": true
+          },
+          {
+            "name": "Revivify",
+            "level": 3,
+            "isPrepared": true
+          },
+          {
+            "name": "Remove Curse",
+            "level": 3,
+            "isPrepared": true
+          }
+        ]
       }
-    ],
-    "class": []
+    ]
   },
   "currencies": {
-    "cp": 106,
-    "sp": 0,
-    "gp": 6,
+    "cp": 0,
+    "sp": 498,
+    "gp": 0,
     "ep": 0,
     "pp": 0
   },
   "inventory": [
     {
-      "name": "Studded Leather",
+      "name": "Cloak of Protection",
+      "type": "Wondrous item",
+      "quantity": 1,
+      "equipped": true,
+      "isAttuned": true
+    },
+    {
+      "name": "Heavy Plating",
       "type": "Armor",
       "quantity": 1,
       "equipped": true,
       "isAttuned": false
     },
     {
-      "name": "Dagger",
-      "type": "Weapon",
+      "name": "Shield",
+      "type": "Armor",
       "quantity": 1,
-      "equipped": false,
+      "equipped": true,
       "isAttuned": false
     },
     {
-      "name": "Dagger",
+      "name": "Javelin",
+      "type": "Weapon",
+      "quantity": 6,
+      "equipped": true,
+      "isAttuned": false
+    },
+    {
+      "name": "Mace",
       "type": "Weapon",
       "quantity": 1,
-      "equipped": false,
+      "equipped": true,
       "isAttuned": false
     },
     {
       "name": "Quarterstaff",
       "type": "Weapon",
       "quantity": 1,
-      "equipped": false,
-      "isAttuned": false
-    },
-    {
-      "name": "Shortbow",
-      "type": "Weapon",
-      "quantity": 1,
       "equipped": true,
       "isAttuned": false
     },
     {
-      "name": "Rapier",
+      "name": "Spear",
       "type": "Weapon",
       "quantity": 1,
       "equipped": false,
-      "isAttuned": false
-    },
-    {
-      "name": "Scimitar",
-      "type": "Weapon",
-      "quantity": 1,
-      "equipped": true,
-      "isAttuned": false
-    },
-    {
-      "name": "Scimitar",
-      "type": "Weapon",
-      "quantity": 1,
-      "equipped": true,
-      "isAttuned": false
-    },
-    {
-      "name": "Arrows",
-      "type": "Other Gear",
-      "quantity": 20,
-      "equipped": true,
       "isAttuned": false
     },
     {
@@ -451,93 +529,51 @@
       "isAttuned": false
     },
     {
-      "name": "Clothes, Traveler's",
+      "name": "Potion of Healing",
+      "type": "Other Gear",
+      "quantity": 0,
+      "equipped": false,
+      "isAttuned": false
+    },
+    {
+      "name": "Waterskin",
       "type": "Other Gear",
       "quantity": 1,
       "equipped": false,
       "isAttuned": false
     },
     {
-      "name": "Hunting Trap",
-      "type": "Other Gear",
-      "quantity": 3,
-      "equipped": false,
-      "isAttuned": false
-    },
-    {
-      "name": "Pouch",
+      "name": "Smith's Tools",
       "type": "Other Gear",
       "quantity": 1,
       "equipped": false,
       "isAttuned": false
     },
     {
-      "name": "Thieves' Tools",
+      "name": "Holy Symbol",
       "type": "Other Gear",
       "quantity": 1,
       "equipped": false,
       "isAttuned": false
     },
     {
-      "name": "Ball Bearings (bag of 1,000)",
-      "type": "Other Gear",
-      "quantity": 1000,
+      "name": "Wand of Secrets",
+      "type": "Wand",
+      "quantity": 1,
       "equipped": false,
       "isAttuned": false
     },
     {
-      "name": "Bell",
+      "name": "Bedroll",
       "type": "Other Gear",
       "quantity": 1,
       "equipped": false,
       "isAttuned": false
     },
     {
-      "name": "Candle",
-      "type": "Other Gear",
-      "quantity": 5,
-      "equipped": false,
-      "isAttuned": false
-    },
-    {
-      "name": "Crowbar",
+      "name": "Mess Kit",
       "type": "Other Gear",
       "quantity": 1,
-      "equipped": false,
-      "isAttuned": false
-    },
-    {
-      "name": "Hammer",
-      "type": "Other Gear",
-      "quantity": 1,
-      "equipped": false,
-      "isAttuned": false
-    },
-    {
-      "name": "Lantern, Hooded",
-      "type": "Other Gear",
-      "quantity": 1,
-      "equipped": false,
-      "isAttuned": false
-    },
-    {
-      "name": "Oil (flask)",
-      "type": "Other Gear",
-      "quantity": 2,
-      "equipped": false,
-      "isAttuned": false
-    },
-    {
-      "name": "Piton",
-      "type": "Other Gear",
-      "quantity": 10,
-      "equipped": false,
-      "isAttuned": false
-    },
-    {
-      "name": "Rations (1 day)",
-      "type": "Other Gear",
-      "quantity": 5,
       "equipped": false,
       "isAttuned": false
     },
@@ -556,16 +592,23 @@
       "isAttuned": false
     },
     {
-      "name": "Waterskin",
+      "name": "Torch",
+      "type": "Other Gear",
+      "quantity": 10,
+      "equipped": false,
+      "isAttuned": false
+    },
+    {
+      "name": "Mason's Tools",
       "type": "Other Gear",
       "quantity": 1,
       "equipped": false,
       "isAttuned": false
     },
     {
-      "name": "String",
+      "name": "Tinker's Tools",
       "type": "Other Gear",
-      "quantity": 10,
+      "quantity": 1,
       "equipped": false,
       "isAttuned": false
     }

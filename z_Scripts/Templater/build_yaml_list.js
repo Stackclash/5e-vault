@@ -1,3 +1,6 @@
+// const tp = app.plugins.getPlugin("dataview").api
+console.log(app)
+
 const build_object_yaml_list = (tp, object, spaces, config) => {
   return Object.entries(object).reduce((accum, [key, value]) => {
     let itemString

@@ -1,6 +1,7 @@
 const dv = app.plugins.getPlugin("dataview").api
 
 module.exports = (text, path) => {
+    console.log(text,path)
     const searchTerms = text.replace(/[\(\)']/gm,'').replace(/s$/, '').split(' ')
     const scores = dv.pages(`"${path}"`).array().reduce((accum, page) => {
         let score = 0
