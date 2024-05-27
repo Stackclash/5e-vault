@@ -47,9 +47,9 @@ proficiencies:
   tools: <% tp.user.build_yaml_list(character.proficiencies.tools, 4) %>
   languages: <% tp.user.build_yaml_list(character.proficiencies.languages, 4) %>
 speed: <% character.speeds.walk %>
-defenses:
-  immunities: <% tp.user.build_yaml_list(character.defenses.immunities, 4) %>
-  resistances: <% tp.user.build_yaml_list(character.defenses.resistances, 4) %>
+defences:
+  immunities: <% tp.user.build_yaml_list(character.defences.immunities, 4) %>
+  resistances: <% tp.user.build_yaml_list(character.defences.resistances, 4) %>
 background:
   background:
     name:  
@@ -292,7 +292,7 @@ location:
 > ## Defences
 > | **Imunities** | **Resistances** |
 > |:---:|:---:|
-> | `$=dv.current().defenses.immunities.length > 0 ? dv.current().defenses.immunities : ""` | `$=dv.current().defenses.resistances.length > 0 ? dv.current().defenses.resistances : ""` |
+> | `$=dv.current().defences.immunities.length > 0 ? dv.current().defences.immunities : ""` | `$=dv.current().defences.resistances.length > 0 ? dv.current().defences.resistances : ""` |
 
 > [!cards|dataview wfull]
 > ## Classes

@@ -221,7 +221,7 @@ class DnDBeyondCharacter {
         get: () => this.#data.race.weightSpeeds.normal,
         enumerable: true
       },
-      defenses: {
+      defences: {
         get: () => ({
           immunities: this.modifiers.filter(mod => mod.type === 'immunity').map(mod => mod.subType),
           resistances: this.modifiers.filter(mod => mod.type === 'resistance').map(mod => mod.subType)
@@ -433,9 +433,15 @@ class DnDBeyondCharacter {
           return this.#data.inventory.map(inv => ({
             name: inv.definition.name,
             type: inv.definition.filterType,
+            rarity: inv.definition.rarity,
             quantity: inv.quantity,
+            canEquip: inv.definition.canEquip,
             equipped: inv.equipped,
-            isAttuned: inv.isAttuned
+            canAttune: inv.definition.canAttune,
+            attuned: inv.isAttuned,
+            damage: inv.definition.damage.diceString,
+            damageType: inv.definition.damageType,
+            armorClass: inv.definition.armorClass
           }))
         },
         enumerable: true
