@@ -651,9 +651,9 @@ location:
 dv.current().classSpells.map(classSpellConfig => {
   dv.header(3, classSpellConfig.name)
   dv.paragraph(`> [!cards|dataview wfull]
-  > \`\`\`dataviewjs
-  > dv.current().classSpells[0].name
-  \`\`\``)
+> \`\`\`dataviewjs
+> dv.table(['Text'], dv.pages('"1. DM Stuff/Tools"').map(tst => [tst.file.name]))
+\`\`\``)
 })
 ```
 
