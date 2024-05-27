@@ -245,17 +245,17 @@ raceSpells: []
 classSpells: 
   - name: "Cleric"
     cantripsKnown: 4
-    spellSlots: 
-	    max: 
-	      - 4
-	      - 3
-	      - 3
-	      - 0
-	      - 0
-	      - 0
-	      - 0
-	      - 0
-	      - 0
+    spellSlots:
+ssmax: 
+      - 4
+      - 3
+      - 3
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
       used: 
       - 0
       - 0
