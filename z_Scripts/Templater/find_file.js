@@ -1,7 +1,6 @@
 const dv = app.plugins.getPlugin("dataview").api
 
 module.exports = (text, path) => {
-    console.log(text,path)
     const searchTerms = text.replace(/[\(\)']/gm,'').replace(/s$/, '').split(' ')
     const scores = dv.pages(`"${path}"`).array().reduce((accum, page) => {
         let score = 0
@@ -22,7 +21,7 @@ module.exports = (text, path) => {
 
         return accum
     }, []).sort((a, b) => b.score - a.score)
-    console.log(text, scores)
+    // console.log(text, scores)
 
     return scores[0].score === 0 || scores.filter(item => item.score === scores[0].score).length > 5 || scores[0].value.file.name.length > text.length * 2 ?
         text :
