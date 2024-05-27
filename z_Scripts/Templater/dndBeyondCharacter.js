@@ -439,7 +439,7 @@ class DnDBeyondCharacter {
             equipped: inv.equipped,
             canAttune: inv.definition.canAttune,
             attuned: inv.isAttuned,
-            damage: inv.definition.damage.diceString,
+            damage: inv.definition.damage?.diceString,
             damageType: inv.definition.damageType,
             armorClass: inv.definition.armorClass
           }))

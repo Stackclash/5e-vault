@@ -16,6 +16,8 @@ const build_object_yaml_list = (object, spaces, config, startWithNewLine) => {
       itemString = `${key}: ${build_array_yaml_list(value, spaces+2, config)}`
     } else if (typeof value === 'object') {
       itemString = `${key}: ${build_object_yaml_list(value, spaces+2, config, true)}`
+    } else if (value === null || value === undefined) {
+      itemString = `${key}: ""`
     } else {
       itemString = `${key}: ${value}`
     }
@@ -49,6 +51,8 @@ const build_array_yaml_list = (list, spaces, config) => {
         itemString = `- ${item}`
       } else if (typeof item === 'object') {
         itemString = `- ${build_object_yaml_list(item, spaces, config, false)}`
+      } else if (value === null || value === undefined) {
+        itemString = `- ""`
       }
 
       result.push(itemString.padStart(spaces + itemString.length))

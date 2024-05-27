@@ -52,7 +52,7 @@
     "swim": 0,
     "climb": 0
   },
-  "defenses": {
+  "defences": {
     "immunities": [
       "disease"
     ],
@@ -475,142 +475,246 @@
     {
       "name": "Cloak of Protection",
       "type": "Wondrous item",
+      "rarity": "Uncommon",
       "quantity": 1,
+      "canEquip": true,
       "equipped": true,
-      "isAttuned": true
+      "canAttune": true,
+      "attuned": true,
+      "damageType": null,
+      "armorClass": null
     },
     {
       "name": "Heavy Plating",
       "type": "Armor",
+      "rarity": "Common",
       "quantity": 1,
+      "canEquip": true,
       "equipped": true,
-      "isAttuned": false
+      "canAttune": false,
+      "attuned": false,
+      "damageType": null,
+      "armorClass": 16
     },
     {
       "name": "Shield",
       "type": "Armor",
+      "rarity": "Common",
       "quantity": 1,
+      "canEquip": true,
       "equipped": true,
-      "isAttuned": false
+      "canAttune": false,
+      "attuned": false,
+      "damageType": null,
+      "armorClass": 2
     },
     {
       "name": "Javelin",
       "type": "Weapon",
+      "rarity": "Common",
       "quantity": 6,
+      "canEquip": true,
       "equipped": true,
-      "isAttuned": false
+      "canAttune": false,
+      "attuned": false,
+      "damage": "1d6",
+      "damageType": "Piercing",
+      "armorClass": null
     },
     {
       "name": "Mace",
       "type": "Weapon",
+      "rarity": "Common",
       "quantity": 1,
+      "canEquip": true,
       "equipped": true,
-      "isAttuned": false
+      "canAttune": false,
+      "attuned": false,
+      "damage": "1d6",
+      "damageType": "Bludgeoning",
+      "armorClass": null
     },
     {
       "name": "Quarterstaff",
       "type": "Weapon",
+      "rarity": "Common",
       "quantity": 1,
+      "canEquip": true,
       "equipped": true,
-      "isAttuned": false
+      "canAttune": false,
+      "attuned": false,
+      "damage": "1d6",
+      "damageType": "Bludgeoning",
+      "armorClass": null
     },
     {
       "name": "Spear",
       "type": "Weapon",
+      "rarity": "Common",
       "quantity": 1,
+      "canEquip": true,
       "equipped": false,
-      "isAttuned": false
+      "canAttune": false,
+      "attuned": false,
+      "damage": "1d6",
+      "damageType": "Piercing",
+      "armorClass": null
     },
     {
       "name": "Backpack",
       "type": "Other Gear",
+      "rarity": "Common",
       "quantity": 1,
+      "canEquip": true,
       "equipped": false,
-      "isAttuned": false
+      "canAttune": false,
+      "attuned": false,
+      "damageType": null,
+      "armorClass": null
     },
     {
       "name": "Potion of Healing",
       "type": "Other Gear",
+      "rarity": "Common",
       "quantity": 0,
+      "canEquip": false,
       "equipped": false,
-      "isAttuned": false
+      "canAttune": false,
+      "attuned": false,
+      "damageType": null,
+      "armorClass": null
     },
     {
       "name": "Waterskin",
       "type": "Other Gear",
+      "rarity": "Common",
       "quantity": 1,
+      "canEquip": false,
       "equipped": false,
-      "isAttuned": false
+      "canAttune": false,
+      "attuned": false,
+      "damageType": null,
+      "armorClass": null
     },
     {
       "name": "Smith's Tools",
       "type": "Other Gear",
+      "rarity": "Common",
       "quantity": 1,
+      "canEquip": false,
       "equipped": false,
-      "isAttuned": false
+      "canAttune": false,
+      "attuned": false,
+      "damageType": null,
+      "armorClass": null
     },
     {
       "name": "Holy Symbol",
       "type": "Other Gear",
+      "rarity": "Common",
       "quantity": 1,
+      "canEquip": false,
       "equipped": false,
-      "isAttuned": false
+      "canAttune": false,
+      "attuned": false,
+      "damageType": null,
+      "armorClass": null
     },
     {
       "name": "Wand of Secrets",
       "type": "Wand",
+      "rarity": "Uncommon",
       "quantity": 1,
+      "canEquip": true,
       "equipped": false,
-      "isAttuned": false
+      "canAttune": false,
+      "attuned": false,
+      "damageType": null,
+      "armorClass": null
     },
     {
       "name": "Bedroll",
       "type": "Other Gear",
+      "rarity": "Common",
       "quantity": 1,
+      "canEquip": false,
       "equipped": false,
-      "isAttuned": false
+      "canAttune": false,
+      "attuned": false,
+      "damageType": null,
+      "armorClass": null
     },
     {
       "name": "Mess Kit",
       "type": "Other Gear",
+      "rarity": "Common",
       "quantity": 1,
+      "canEquip": false,
       "equipped": false,
-      "isAttuned": false
+      "canAttune": false,
+      "attuned": false,
+      "damageType": null,
+      "armorClass": null
     },
     {
       "name": "Rope, Hempen (50 feet)",
       "type": "Other Gear",
+      "rarity": "Common",
       "quantity": 1,
+      "canEquip": false,
       "equipped": false,
-      "isAttuned": false
+      "canAttune": false,
+      "attuned": false,
+      "damageType": null,
+      "armorClass": null
     },
     {
       "name": "Tinderbox",
       "type": "Other Gear",
+      "rarity": "Common",
       "quantity": 1,
+      "canEquip": false,
       "equipped": false,
-      "isAttuned": false
+      "canAttune": false,
+      "attuned": false,
+      "damageType": null,
+      "armorClass": null
     },
     {
       "name": "Torch",
       "type": "Other Gear",
+      "rarity": "Common",
       "quantity": 10,
+      "canEquip": false,
       "equipped": false,
-      "isAttuned": false
+      "canAttune": false,
+      "attuned": false,
+      "damageType": null,
+      "armorClass": null
     },
     {
       "name": "Mason's Tools",
       "type": "Other Gear",
+      "rarity": "Common",
       "quantity": 1,
+      "canEquip": false,
       "equipped": false,
-      "isAttuned": false
+      "canAttune": false,
+      "attuned": false,
+      "damageType": null,
+      "armorClass": null
     },
     {
       "name": "Tinker's Tools",
       "type": "Other Gear",
+      "rarity": "Common",
       "quantity": 1,
+      "canEquip": false,
       "equipped": false,
-      "isAttuned": false
+      "canAttune": false,
+      "attuned": false,
+      "damageType": null,
+      "armorClass": null
     }
   ]
 }
