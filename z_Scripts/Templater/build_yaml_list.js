@@ -1,7 +1,7 @@
-// const tp = app.plugins.getPlugin("dataview").api
-console.log(app)
+const tp = app.plugins.getPlugin("templater-obsidian").templater.current_functions_object
+console.log(tp)
 
-const build_object_yaml_list = (tp, object, spaces, config) => {
+const build_object_yaml_list = (object, spaces, config) => {
   return Object.entries(object).reduce((accum, [key, value]) => {
     let itemString
 
@@ -30,7 +30,8 @@ const build_object_yaml_list = (tp, object, spaces, config) => {
   }, []).join(`\n`)
 }
 
-module.exports = (tp, list, spaces, config) => {
+const build_array_yaml_list = (list, spaces, config) => {
+  console.log(list,spaces,config)
   let result = []
   if (list.length > 0) {
     list.forEach(item => {
@@ -51,3 +52,5 @@ module.exports = (tp, list, spaces, config) => {
   }
   return result
 }
+
+module.exports = build_array_yaml_list

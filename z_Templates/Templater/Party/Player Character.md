@@ -42,7 +42,7 @@ passives:
   investigation: <% character.passives.investigation %>
   insight: <% character.passives.insight %>
 proficiencies:
-  armor: <% tp.user.build_yaml_list(tp, character.proficiencies.armor, 4) %>
+  armor: <% tp.user.build_yaml_list(character.proficiencies.armor, 4) %>
   weapons: <% tp.user.build_yaml_list(character.proficiencies.weapons, 4) %>
   tools: <% tp.user.build_yaml_list(character.proficiencies.tools, 4) %>
   languages: <% tp.user.build_yaml_list(character.proficiencies.languages, 4) %>
@@ -59,7 +59,7 @@ background:
   allies: 
   enemies: 
   notes: 
-classes: <% tp.user.build_yaml_list(tp, character.classes, 2, {name: '5. Mechanics/Classes', subClass: '5. Mechanics/Classes'}) %>
+classes: <% tp.user.build_yaml_list(character.classes, 2, {name: '5. Mechanics/Classes', subClass: '5. Mechanics/Classes'}) %>
 abilityScores:
   strength:
     value: <% character.abilityScores.strength.value %>
@@ -219,7 +219,7 @@ currencies:
   gp: <% character.currencies.gp %>
   ep: <% character.currencies.ep %>
   pp: <% character.currencies.pp %>
-inventory: <% tp.user.build_yaml_list(tp, character.inventory, 2, {name: '5. Mechanics/Items'}) %>
+inventory: <% tp.user.build_yaml_list(character.inventory, 2, {name: '5. Mechanics/Items'}) %>
 ideal: 
 bond: 
 flaw: 
