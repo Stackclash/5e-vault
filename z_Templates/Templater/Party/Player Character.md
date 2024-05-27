@@ -59,7 +59,7 @@ background:
   allies: 
   enemies: 
   notes: 
-classes: <% tp.user.build_class_yaml_list(tp, character.classes, '5. Mechanics/Classes', 2) %>
+classes: <% tp.user.build_class_yaml_list(tp, character.classes, 2, {name: '5. Mechanics/Classes', subClass: '5. Mechanics/Classes'}) %>
 abilityScores:
   strength:
     value: <% character.abilityScores.strength.value %>
@@ -212,14 +212,14 @@ racialTraits: <% tp.user.build_yaml_list(character.racialTraits, 2) %>
 classFeatures: <% tp.user.build_yaml_list(character.classFeatures, 2) %>
 feats: <% tp.user.build_yaml_list(character.feats, 2) %>
 raceSpells: <% tp.user.build_yaml_list(character.spells.race, 2) %>
-classSpells: <% tp.user.build_spell_yaml_list(tp, character.spells.class, '5. Mechanics/Spells', 2) %>
+classSpells: <% tp.user.build_yaml_list(character.spells.class, 2, {name: '5. Mechanics/Spells'}) %>
 currencies:
   cp: <% character.currencies.cp %>
   sp: <% character.currencies.sp %>
   gp: <% character.currencies.gp %>
   ep: <% character.currencies.ep %>
   pp: <% character.currencies.pp %>
-inventory: <% tp.user.build_inventory_yaml_list(tp, character.inventory, '5. Mechanics/Items', 2) %>
+inventory: <% tp.user.build_yaml_list(tp, character.inventory, 2, {name: '5. Mechanics/Items'}) %>
 ideal: 
 bond: 
 flaw: 
