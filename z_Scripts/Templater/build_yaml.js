@@ -12,7 +12,7 @@ const build_object_yaml = (object, spaces, config, startWithNewLine) => {
         finalValue = tp.user.find_file(finalValue, config[key])
       }
 
-      itemString = `${key}: "${finalValue}"`
+      itemString = `${key}: "${finalValue.replaceAll('\\', '\\\\')}"`
     } else if (Array.isArray(value)) {
       console.log(key, value, 'array')
       itemString = `${key}: ${build_array_yaml(value, spaces+2, config)}`
