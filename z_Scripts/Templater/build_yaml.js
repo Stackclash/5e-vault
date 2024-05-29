@@ -1,29 +1,23 @@
 const tp = app.plugins.getPlugin("templater-obsidian").templater.current_functions_object
 
 const build_object_yaml = (object, spaces, config, startWithNewLine) => {
-  console.log('Object',object,spaces,config,startWithNewLine)
   const result = Object.entries(object).reduce((accum, [key, value]) => {
     let itemString
 
     if (typeof value === 'string') {
-      console.log(key, value, 'string')
       let finalValue = value
       if (config && typeof config === 'object' && config.hasOwnProperty(key)) {
         finalValue = tp.user.find_file(finalValue, config[key])
       }
-
+      if (key ==='backstory') console.log(finalValue.replace('"', '\\"'))
       itemString = `${key}: "${finalValue.replaceAll('\\', '\\\\')}"`
     } else if (Array.isArray(value)) {
-      console.log(key, value, 'array')
       itemString = `${key}: ${build_array_yaml(value, spaces+2, config)}`
     } else if (value === null || value === undefined) {
-      console.log(key, value, 'null')
       itemString = `${key}: ""`
     } else if (typeof value === 'object') {
-      console.log(key, value, 'object')
       itemString = `${key}: ${build_object_yaml(value, spaces+2, config, true)}`
     } else {
-      console.log(key, value, 'default')
       itemString = `${key}: ${value}`
     }
 
@@ -46,7 +40,6 @@ const build_object_yaml = (object, spaces, config, startWithNewLine) => {
 
 const build_array_yaml = (list, spaces, config) => {
   let result = []
-  console.log('Array',list, spaces, config)
   if (list.length > 0) {
     list.forEach(item => {
       let itemString
