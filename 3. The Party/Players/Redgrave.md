@@ -651,14 +651,13 @@ location:
 const result = []
 const spellLevels = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 dv.current().classSpells.map((classSpellConfig, classIndex) => {
+  const classSpellLevels = spellLevels.filter(level => classSpellConfig.spellSlots.max[level-1] > 0)
   dv.header(3, classSpellConfig.name)
-  spellLevels.forEach(level => {
+  classSpellLevels.forEach((level, levelIndex) => {
     let levelText = ''
-    if (classSpellConfig.spellSlots.max[level-1] > 0) {
-      levelText += `>> ### ${level === 0 ? `Cantrips\n` : `Level ${level}\n`}`
-      // levelText += `>> **Slots: ${classSpellConfig.spellSlots.used[level-1]}/${classSpellConfig.spellSlots.max[level-1]}**\n`
-      levelText += `>>\`INPUT[slider(minValue(0),maxValue(${classSpellConfig.spellSlots.max[level-1]})):classSpells[${classIndex}].spellSlots.used[${level-1}]]\`\n`
-    }
+    levelText += `>> ### ${level === 0 ? `Cantrips` : `Level ${level}`}\n`
+    // levelText += `>> **Slots: ${classSpellConfig.spellSlots.used[level-1]}/${classSpellConfig.spellSlots.max[level-1]}**\n`
+    levelText += `>>\`INPUT[slider(minValue(0),maxValue(${classSpellConfig.spellSlots.max[levelIndex]})):classSpells[${classIndex}].spellSlots.used[${levelIndex}]]\`\n`
     levelText += `>> ${classSpellConfig.spells.filter(spell => spell.level === (level)).map(spell => spell.name).join(`\n>> `)}`
     result.push(levelText)
   })
