@@ -42,14 +42,14 @@ passives:
   investigation: <% character.passives.investigation %>
   insight: <% character.passives.insight %>
 proficiencies:
-  armor: <% tp.user.build_yaml_list(character.proficiencies.armor, 4) %>
-  weapons: <% tp.user.build_yaml_list(character.proficiencies.weapons, 4) %>
-  tools: <% tp.user.build_yaml_list(character.proficiencies.tools, 4) %>
-  languages: <% tp.user.build_yaml_list(character.proficiencies.languages, 4) %>
+  armor: <% tp.user.build_yaml_list(tp, character.proficiencies.armor, 4) %>
+  weapons: <% tp.user.build_yaml_list(tp, character.proficiencies.weapons, 4) %>
+  tools: <% tp.user.build_yaml_list(tp, character.proficiencies.tools, 4) %>
+  languages: <% tp.user.build_yaml_list(tp, character.proficiencies.languages, 4) %>
 speed: <% character.speeds.walk %>
 defences:
-  immunities: <% tp.user.build_yaml_list(character.defences.immunities, 4) %>
-  resistances: <% tp.user.build_yaml_list(character.defences.resistances, 4) %>
+  immunities: <% tp.user.build_yaml_list(tp, character.defences.immunities, 4) %>
+  resistances: <% tp.user.build_yaml_list(tp, character.defences.resistances, 4) %>
 background:
   background:
     name:  
@@ -59,7 +59,7 @@ background:
   allies: 
   enemies: 
   notes: 
-classes: <% tp.user.build_yaml_list(character.classes, 2, {name: '5. Mechanics/Classes', subClass: '5. Mechanics/Classes'}) %>
+classes: <% tp.user.build_yaml_list(tp, character.classes, 2, {name: '5. Mechanics/Classes', subClass: '5. Mechanics/Classes'}) %>
 abilityScores:
   strength:
     value: <% character.abilityScores.strength.value %>
@@ -98,7 +98,7 @@ savingThrows:
   charisma:
     value: <% character.savingThrows.charisma.value %>
     proficiency: <% character.savingThrows.charisma.proficiency %>
-  notes: <% tp.user.build_yaml_list(character.savingThrows.notes, 4) %>
+  notes: <% tp.user.build_yaml_list(tp, character.savingThrows.notes, 4) %>
 skills:
   acrobatics:
     value: <% character.skills.acrobatics.value %>
@@ -208,18 +208,18 @@ skills:
     expertise: <% character.skills.survival.expertise %>
     advantage: <% character.skills.survival.advantage %>
     disadvantage: <% character.skills.survival.disadvantage %>
-racialTraits: <% tp.user.build_yaml_list(character.racialTraits, 2) %>
-classFeatures: <% tp.user.build_yaml_list(character.classFeatures, 2) %>
-feats: <% tp.user.build_yaml_list(character.feats, 2) %>
-raceSpells: <% tp.user.build_yaml_list(character.spells.race, 2) %>
-classSpells: <% tp.user.build_yaml_list(character.spells.class, 2, {name: '5. Mechanics/Spells'}) %>
+racialTraits: <% tp.user.build_yaml_list(tp, character.racialTraits, 2) %>
+classFeatures: <% tp.user.build_yaml_list(tp, character.classFeatures, 2) %>
+feats: <% tp.user.build_yaml_list(tp, character.feats, 2) %>
+raceSpells: <% tp.user.build_yaml_list(tp, character.spells.race, 2) %>
+classSpells: <% tp.user.build_yaml_list(tp, character.spells.class, 2, {name: '5. Mechanics/Spells'}) %>
 currencies:
   cp: <% character.currencies.cp %>
   sp: <% character.currencies.sp %>
   gp: <% character.currencies.gp %>
   ep: <% character.currencies.ep %>
   pp: <% character.currencies.pp %>
-inventory: <% tp.user.build_yaml_list(character.inventory, 2, {name: '5. Mechanics/Items'}) %>
+inventory: <% tp.user.build_yaml_list(tp, character.inventory, 2, {name: '5. Mechanics/Items'}) %>
 ideal: 
 bond: 
 flaw: 
