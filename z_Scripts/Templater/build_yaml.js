@@ -3,10 +3,10 @@ const tp = app.plugins.getPlugin("templater-obsidian").templater.current_functio
 const build_object_yaml = (object, spaces, config, startWithNewLine) => {
   console.log('Object',object,spaces,config,startWithNewLine)
   const result = Object.entries(object).reduce((accum, [key, value]) => {
-    console.log(key)
     let itemString
 
     if (typeof value === 'string') {
+      console.log(key, value, 'string')
       let finalValue = value
       if (config && typeof config === 'object' && config.hasOwnProperty(key)) {
         finalValue = tp.user.find_file(finalValue, config[key])
@@ -14,12 +14,16 @@ const build_object_yaml = (object, spaces, config, startWithNewLine) => {
 
       itemString = `${key}: "${finalValue}"`
     } else if (Array.isArray(value)) {
+      console.log(key, value, 'array')
       itemString = `${key}: ${build_array_yaml(value, spaces+2, config)}`
-    } else if (typeof value === 'object') {
-      itemString = `${key}: ${build_object_yaml(value, spaces+2, config, true)}`
     } else if (value === null || value === undefined) {
+      console.log(key, value, 'null')
       itemString = `${key}: ""`
+    } else if (typeof value === 'object') {
+      console.log(key, value, 'object')
+      itemString = `${key}: ${build_object_yaml(value, spaces+2, config, true)}`
     } else {
+      console.log(key, value, 'default')
       itemString = `${key}: ${value}`
     }
 
