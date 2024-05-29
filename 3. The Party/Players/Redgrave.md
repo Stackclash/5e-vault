@@ -246,7 +246,69 @@ classSpells:
   - name: "Cleric"
     cantripsKnown: 4
     spellSlots: 
-    spells: []
+      max: 
+      - 4
+      - 3
+      - 3
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      used: 
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+    spells: 
+    - name: "[[5. Mechanics/Spells/Sacred Flame.md|Sacred Flame]]"
+      level: 0
+      isPrepared: true
+    - name: "[[5. Mechanics/Spells/Thaumaturgy.md|Thaumaturgy]]"
+      level: 0
+      isPrepared: true
+    - name: "[[5. Mechanics/Spells/Word Of Radiance.md|Word Of Radiance]]"
+      level: 0
+      isPrepared: true
+    - name: "[[5. Mechanics/Spells/Mending.md|Mending]]"
+      level: 0
+      isPrepared: true
+    - name: "[[5. Mechanics/Spells/Cure Wounds.md|Cure Wounds]]"
+      level: 1
+      isPrepared: true
+    - name: "[[5. Mechanics/Spells/Healing Word.md|Healing Word]]"
+      level: 1
+      isPrepared: true
+    - name: "[[5. Mechanics/Spells/Detect Evil And Good.md|Detect Evil And Good]]"
+      level: 1
+      isPrepared: true
+    - name: "[[5. Mechanics/Spells/Spiritual Weapon.md|Spiritual Weapon]]"
+      level: 2
+      isPrepared: true
+    - name: "[[5. Mechanics/Spells/Zone Of Truth.md|Zone Of Truth]]"
+      level: 2
+      isPrepared: true
+    - name: "[[5. Mechanics/Spells/Silence.md|Silence]]"
+      level: 2
+      isPrepared: true
+    - name: "[[5. Mechanics/Spells/Spirit Guardians.md|Spirit Guardians]]"
+      level: 3
+      isPrepared: true
+    - name: "[[5. Mechanics/Spells/Daylight.md|Daylight]]"
+      level: 3
+      isPrepared: true
+    - name: "[[5. Mechanics/Spells/Revivify.md|Revivify]]"
+      level: 3
+      isPrepared: true
+    - name: "[[5. Mechanics/Spells/Remove Curse.md|Remove Curse]]"
+      level: 3
+      isPrepared: true
 currencies:
   cp: 0
   sp: 498
@@ -585,16 +647,26 @@ location:
 <!-- Needs fixing to group by class -->
 <!-- Separate sections for class/race spells -->
 ## Spells
-> [!cards|dataview wfull]
-> ```dataviewjs
-> dv.current().classSpells.map(classSpellConfig => {
->   dv.header(3, classSpellConfig.name)
->   classSpellConfig.max.filter(slot => slot > 0).map((slot, index) => {
->     dv.span(`#### Level ${index+1}`)
->     dv.span('Test')
->   })
-> })
-> ```
+```dataviewjs
+const result = []
+const spellLevels = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+dv.current().classSpells.map((classSpellConfig, classIndex) => {
+  const classSpellLevels = spellLevels.filter(level => classSpellConfig.spellSlots.max[level-1] > 0 || level === 0)
+  dv.header(3, classSpellConfig.name)
+  classSpellLevels.forEach(level => {
+    let levelText = ''
+    levelText += `>> ### ${level === 0 ? `Cantrips` : `Level ${level}`}\n`
+    if (level > 0) {
+      const totalSlots = classSpellConfig.spellSlots.max[level-1]
+      const usedSlots = classSpellConfig.spellSlots.used[level-1]
+      levelText += `>> ${`<input type="checkbox" disabled=true checked=true/>`.repeat(usedSlots)}${`<input type="checkbox" disabled=true/>`.repeat(totalSlots-usedSlots)}\n>>\n`
+    }
+    levelText += `>> ${classSpellConfig.spells.filter(spell => spell.level === (level)).map(spell => spell.name).join(`\n>>\n>> `)}`
+    result.push(levelText)
+  })
+})
+dv.paragraph(`> [!cards|wfull]\n${result.join(`\n>\n`)}`)
+```
 
 <!-- Need to add columns for equipped/attuned -->
 ## Weapons

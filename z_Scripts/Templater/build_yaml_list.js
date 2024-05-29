@@ -12,9 +12,9 @@ const build_object_yaml_list = (tp, object, spaces, config, startWithNewLine) =>
 
       itemString = `${key}: "${finalValue}"`
     } else if (Array.isArray(value)) {
-      itemString = `${key}: ${build_array_yaml_list(value, spaces+2, config)}`
+      itemString = `${key}: ${build_array_yaml_list(tp, value, spaces+2, config)}`
     } else if (typeof value === 'object') {
-      itemString = `${key}: ${build_object_yaml_list(value, spaces+2, config, true)}`
+      itemString = `${key}: ${build_object_yaml_list(tp, value, spaces+2, config, true)}`
     } else if (value === null || value === undefined) {
       itemString = `${key}: ""`
     } else {
