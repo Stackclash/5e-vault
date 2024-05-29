@@ -12,7 +12,7 @@ image: https://www.dndbeyond.com/avatars/10846/680/1581111423-29682199.jpeg?widt
 race: "[[5. Mechanics/Races/Warforged.md|Warforged]]"
 description:
   gender: 
-  age: null
+  age: 
   hair: 
   eyes: Emeralds
   skin: Metallic with gold engraving
@@ -24,38 +24,38 @@ passives:
   investigation: 11
   insight: 17
 proficiencies:
-  armor: 
-    - "Light Armor"
-    - "Medium Armor"
-    - "Shields"
-    - "Heavy Armor"
-  weapons: 
-    - "Simple Weapons"
-  tools: 
-    - "Mason's Tools"
-    - "Smith's Tools"
-    - "Tinker's Tools"
-  languages: 
-    - "Common"
-    - "Draconic"
-    - "Elvish"
+  armor:
+    - Light Armor
+    - Medium Armor
+    - Shields
+    - Heavy Armor
+  weapons:
+    - Simple Weapons
+  tools:
+    - Mason's Tools
+    - Smith's Tools
+    - Tinker's Tools
+  languages:
+    - Common
+    - Draconic
+    - Elvish
 speed: 30
 defences:
-  immunities: 
-    - "disease"
-  resistances: 
-    - "poison"
-    - "fire"
+  immunities:
+    - disease
+  resistances:
+    - poison
+    - fire
 background:
   background:
-    name:  
+    name: 
     description: 
   backstory: 
   organizations: 
   allies: 
   enemies: 
   notes: 
-classes: 
+classes:
   - name: "[[5. Mechanics/Classes/Cleric.md|Cleric]]"
     subClass: "[[5. Mechanics/Classes/Cleric Forge Domain.md|Cleric Forge Domain]]"
     level: 6
@@ -97,8 +97,8 @@ savingThrows:
   charisma:
     value: 4
     proficiency: true
-  notes: 
-    - "Advantage Against Poison"
+  notes:
+    - Advantage Against Poison
 skills:
   acrobatics:
     value: -1
@@ -208,117 +208,117 @@ skills:
     expertise: false
     advantage: false
     disadvantage: false
-racialTraits: 
-  - name: "Warforged Resilience"
-    description: "You have advantage on saving throws against being poisoned, and you have resistance to poison damage. You are immune to disease. You don’t need to eat, drink, or breathe. You don’t need to sleep and don’t suffer the effects of exhaustion due to lack of rest, and magic can’t put you to sleep."
-  - name: "Integrated Protection"
-    description: "Your body has built-in defensive layers, which determine your armor class."
-  - name: "Sentry's Rest"
-    description: "When you take a long rest, you must spend at least 6 hours in an inactive state rather than sleeping. In this state, you appear inert, but it doesn’t render you unconscious, and you can see and hear as normal."
-  - name: "Ability Score Increase"
-    description: "Two different ability scores of your choice increase by 1."
-  - name: "Specialized Design"
-    description: "You gain one skill proficiency, one tool proficiency, and fluency in one language of your choice."
-  - name: "Integrated Tool"
-    description: "A chosen tool you are proficient with is integrated into your body, and you double your proficiency bonus for any ability checks you make with it. You must have your hands free to use this integrated tool."
-classFeatures: 
-  - name: "Domain Spells"
-    description: "You gain domain spells based on your cleric level."
-  - name: "Bonus Proficiencies"
-    description: "You gain proficiency with heavy armor and smith’s tools."
-  - name: "Blessing of the Forge"
-    description: "At the end of a long rest, you can imbue magic into a weapon or armor by touching a nonmagical version. Until your next long rest or you die, the object grants a +1 bonus to either AC or attack and damage rolls. You can't use this feature again until you finish a long rest."
+racialTraits:
+  - name: Warforged Resilience
+    description: You have advantage on saving throws against being poisoned, and you have resistance to poison damage. You are immune to disease. You don’t need to eat, drink, or breathe. You don’t need to sleep and don’t suffer the effects of exhaustion due to lack of rest, and magic can’t put you to sleep.
+  - name: Integrated Protection
+    description: Your body has built-in defensive layers, which determine your armor class.
+  - name: Sentry's Rest
+    description: When you take a long rest, you must spend at least 6 hours in an inactive state rather than sleeping. In this state, you appear inert, but it doesn’t render you unconscious, and you can see and hear as normal.
+  - name: Ability Score Increase
+    description: Two different ability scores of your choice increase by 1.
+  - name: Specialized Design
+    description: You gain one skill proficiency, one tool proficiency, and fluency in one language of your choice.
+  - name: Integrated Tool
+    description: A chosen tool you are proficient with is integrated into your body, and you double your proficiency bonus for any ability checks you make with it. You must have your hands free to use this integrated tool.
+classFeatures:
+  - name: Domain Spells
+    description: You gain domain spells based on your cleric level.
+  - name: Bonus Proficiencies
+    description: You gain proficiency with heavy armor and smith’s tools.
+  - name: Blessing of the Forge
+    description: At the end of a long rest, you can imbue magic into a weapon or armor by touching a nonmagical version. Until your next long rest or you die, the object grants a +1 bonus to either AC or attack and damage rolls. You can't use this feature again until you finish a long rest.
   - name: "Channel Divinity: Artisan's Blessing"
     description: "You can use your Channel Divinity to conduct an hour-long ritual that crafts a nonmagical item that must include some metal: a simple or martial weapon, a suit of armor, ten pieces of ammunition, a set of tools, or another metal object. The thing you create can be something that is worth no more than 100 gp."
-  - name: "Soul of the Forge"
-    description: "You gain resistance to fire damage and while wearing heavy armor, you gain a +1 bonus to AC."
-  - name: "Spellcasting"
-    description: "You can cast prepared cleric spells using WIS as your spellcasting modifier (Spell DC 15, Spell Attack 7) and prepared cleric spells as rituals if they have the ritual tag. You can use a holy symbol as a spellcasting focus."
-  - name: "Divine Domain"
-    description: "You choose a divine domain that grants you additional spells and other features related to your deity."
-  - name: "Channel Divinity"
-    description: "You can channel divine energy to fuel magical effects a number of times per short rest"
-  - name: "Destroy Undead"
-    description: "When an undead fails its saving throw against your Turn Undead feature, it is instantly destroyed if its CR is lower than the threshold for your level."
+  - name: Soul of the Forge
+    description: You gain resistance to fire damage and while wearing heavy armor, you gain a +1 bonus to AC.
+  - name: Spellcasting
+    description: You can cast prepared cleric spells using WIS as your spellcasting modifier (Spell DC 15, Spell Attack 7) and prepared cleric spells as rituals if they have the ritual tag. You can use a holy symbol as a spellcasting focus.
+  - name: Divine Domain
+    description: You choose a divine domain that grants you additional spells and other features related to your deity.
+  - name: Channel Divinity
+    description: You can channel divine energy to fuel magical effects a number of times per short rest
+  - name: Destroy Undead
+    description: When an undead fails its saving throw against your Turn Undead feature, it is instantly destroyed if its CR is lower than the threshold for your level.
 feats: []
 raceSpells: []
-classSpells: 
-  - name: "Cleric"
+classSpells:
+  - name: Cleric
     cantripsKnown: 4
-    spellSlots: 
-      max: 
-      - 4
-      - 3
-      - 3
-      - 0
-      - 0
-      - 0
-      - 0
-      - 0
-      - 0
-      used: 
-      - 0
-      - 0
-      - 0
-      - 0
-      - 0
-      - 0
-      - 0
-      - 0
-      - 0
-    spells: 
-    - name: "[[5. Mechanics/Spells/Sacred Flame.md|Sacred Flame]]"
-      level: 0
-      isPrepared: true
-    - name: "[[5. Mechanics/Spells/Thaumaturgy.md|Thaumaturgy]]"
-      level: 0
-      isPrepared: true
-    - name: "[[5. Mechanics/Spells/Word Of Radiance.md|Word Of Radiance]]"
-      level: 0
-      isPrepared: true
-    - name: "[[5. Mechanics/Spells/Mending.md|Mending]]"
-      level: 0
-      isPrepared: true
-    - name: "[[5. Mechanics/Spells/Cure Wounds.md|Cure Wounds]]"
-      level: 1
-      isPrepared: true
-    - name: "[[5. Mechanics/Spells/Healing Word.md|Healing Word]]"
-      level: 1
-      isPrepared: true
-    - name: "[[5. Mechanics/Spells/Detect Evil And Good.md|Detect Evil And Good]]"
-      level: 1
-      isPrepared: true
-    - name: "[[5. Mechanics/Spells/Spiritual Weapon.md|Spiritual Weapon]]"
-      level: 2
-      isPrepared: true
-    - name: "[[5. Mechanics/Spells/Zone Of Truth.md|Zone Of Truth]]"
-      level: 2
-      isPrepared: true
-    - name: "[[5. Mechanics/Spells/Silence.md|Silence]]"
-      level: 2
-      isPrepared: true
-    - name: "[[5. Mechanics/Spells/Spirit Guardians.md|Spirit Guardians]]"
-      level: 3
-      isPrepared: true
-    - name: "[[5. Mechanics/Spells/Daylight.md|Daylight]]"
-      level: 3
-      isPrepared: true
-    - name: "[[5. Mechanics/Spells/Revivify.md|Revivify]]"
-      level: 3
-      isPrepared: true
-    - name: "[[5. Mechanics/Spells/Remove Curse.md|Remove Curse]]"
-      level: 3
-      isPrepared: true
+    spellSlots:
+      max:
+        - 4
+        - 3
+        - 3
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+      used:
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+    spells:
+      - name: "[[5. Mechanics/Spells/Sacred Flame.md|Sacred Flame]]"
+        level: 0
+        isPrepared: true
+      - name: "[[5. Mechanics/Spells/Thaumaturgy.md|Thaumaturgy]]"
+        level: 0
+        isPrepared: true
+      - name: "[[5. Mechanics/Spells/Word Of Radiance.md|Word Of Radiance]]"
+        level: 0
+        isPrepared: true
+      - name: "[[5. Mechanics/Spells/Mending.md|Mending]]"
+        level: 0
+        isPrepared: true
+      - name: "[[5. Mechanics/Spells/Cure Wounds.md|Cure Wounds]]"
+        level: 1
+        isPrepared: true
+      - name: "[[5. Mechanics/Spells/Healing Word.md|Healing Word]]"
+        level: 1
+        isPrepared: true
+      - name: "[[5. Mechanics/Spells/Detect Evil And Good.md|Detect Evil And Good]]"
+        level: 1
+        isPrepared: true
+      - name: "[[5. Mechanics/Spells/Spiritual Weapon.md|Spiritual Weapon]]"
+        level: 2
+        isPrepared: true
+      - name: "[[5. Mechanics/Spells/Zone Of Truth.md|Zone Of Truth]]"
+        level: 2
+        isPrepared: true
+      - name: "[[5. Mechanics/Spells/Silence.md|Silence]]"
+        level: 2
+        isPrepared: true
+      - name: "[[5. Mechanics/Spells/Spirit Guardians.md|Spirit Guardians]]"
+        level: 3
+        isPrepared: true
+      - name: "[[5. Mechanics/Spells/Daylight.md|Daylight]]"
+        level: 3
+        isPrepared: true
+      - name: "[[5. Mechanics/Spells/Revivify.md|Revivify]]"
+        level: 3
+        isPrepared: true
+      - name: "[[5. Mechanics/Spells/Remove Curse.md|Remove Curse]]"
+        level: 3
+        isPrepared: true
 currencies:
   cp: 0
   sp: 498
   gp: 0
   ep: 0
   pp: 0
-inventory: 
+inventory:
   - name: "[[5. Mechanics/Items/Cloak Of Protection.md|Cloak Of Protection]]"
-    type: "Wondrous item"
-    rarity: "Uncommon"
+    type: Wondrous item
+    rarity: Uncommon
     quantity: 1
     canEquip: true
     equipped: true
@@ -328,8 +328,8 @@ inventory:
     damageType: ""
     armorClass: ""
   - name: "[[5. Mechanics/Items/Astral Hull Plating.md|Astral Hull Plating]]"
-    type: "Armor"
-    rarity: "Common"
+    type: Armor
+    rarity: Common
     quantity: 1
     canEquip: true
     equipped: true
@@ -339,8 +339,8 @@ inventory:
     damageType: ""
     armorClass: 16
   - name: "[[5. Mechanics/Items/Shield.md|Shield]]"
-    type: "Armor"
-    rarity: "Common"
+    type: Armor
+    rarity: Common
     quantity: 1
     canEquip: true
     equipped: true
@@ -350,52 +350,52 @@ inventory:
     damageType: ""
     armorClass: 2
   - name: "[[5. Mechanics/Items/Javelin.md|Javelin]]"
-    type: "Weapon"
-    rarity: "Common"
+    type: Weapon
+    rarity: Common
     quantity: 6
     canEquip: true
     equipped: true
     canAttune: false
     attuned: false
-    damage: "1d6"
-    damageType: "Piercing"
+    damage: 1d6
+    damageType: Piercing
     armorClass: ""
   - name: "[[5. Mechanics/Items/Mace.md|Mace]]"
-    type: "Weapon"
-    rarity: "Common"
+    type: Weapon
+    rarity: Common
     quantity: 1
     canEquip: true
     equipped: true
     canAttune: false
     attuned: false
-    damage: "1d6"
-    damageType: "Bludgeoning"
+    damage: 1d6
+    damageType: Bludgeoning
     armorClass: ""
   - name: "[[5. Mechanics/Items/Quarterstaff.md|Quarterstaff]]"
-    type: "Weapon"
-    rarity: "Common"
+    type: Weapon
+    rarity: Common
     quantity: 1
     canEquip: true
     equipped: true
     canAttune: false
     attuned: false
-    damage: "1d6"
-    damageType: "Bludgeoning"
+    damage: 1d6
+    damageType: Bludgeoning
     armorClass: ""
   - name: "[[5. Mechanics/Items/Spear.md|Spear]]"
-    type: "Weapon"
-    rarity: "Common"
+    type: Weapon
+    rarity: Common
     quantity: 1
     canEquip: true
     equipped: false
     canAttune: false
     attuned: false
-    damage: "1d6"
-    damageType: "Piercing"
+    damage: 1d6
+    damageType: Piercing
     armorClass: ""
   - name: "[[5. Mechanics/Items/Backpack.md|Backpack]]"
-    type: "Other Gear"
-    rarity: "Common"
+    type: Other Gear
+    rarity: Common
     quantity: 1
     canEquip: true
     equipped: false
@@ -405,8 +405,8 @@ inventory:
     damageType: ""
     armorClass: ""
   - name: "[[5. Mechanics/Items/Potion Of Healing.md|Potion Of Healing]]"
-    type: "Other Gear"
-    rarity: "Common"
+    type: Other Gear
+    rarity: Common
     quantity: 0
     canEquip: false
     equipped: false
@@ -416,8 +416,8 @@ inventory:
     damageType: ""
     armorClass: ""
   - name: "[[5. Mechanics/Items/Waterskin.md|Waterskin]]"
-    type: "Other Gear"
-    rarity: "Common"
+    type: Other Gear
+    rarity: Common
     quantity: 1
     canEquip: false
     equipped: false
@@ -427,8 +427,8 @@ inventory:
     damageType: ""
     armorClass: ""
   - name: "[[5. Mechanics/Items/Smiths Tools.md|Smiths Tools]]"
-    type: "Other Gear"
-    rarity: "Common"
+    type: Other Gear
+    rarity: Common
     quantity: 1
     canEquip: false
     equipped: false
@@ -438,8 +438,8 @@ inventory:
     damageType: ""
     armorClass: ""
   - name: "[[5. Mechanics/Items/Holy Symbol.md|Holy Symbol]]"
-    type: "Other Gear"
-    rarity: "Common"
+    type: Other Gear
+    rarity: Common
     quantity: 1
     canEquip: false
     equipped: false
@@ -449,8 +449,8 @@ inventory:
     damageType: ""
     armorClass: ""
   - name: "[[5. Mechanics/Items/Wand Of Secrets.md|Wand Of Secrets]]"
-    type: "Wand"
-    rarity: "Uncommon"
+    type: Wand
+    rarity: Uncommon
     quantity: 1
     canEquip: true
     equipped: false
@@ -460,8 +460,8 @@ inventory:
     damageType: ""
     armorClass: ""
   - name: "[[5. Mechanics/Items/Bedroll.md|Bedroll]]"
-    type: "Other Gear"
-    rarity: "Common"
+    type: Other Gear
+    rarity: Common
     quantity: 1
     canEquip: false
     equipped: false
@@ -471,8 +471,8 @@ inventory:
     damageType: ""
     armorClass: ""
   - name: "[[5. Mechanics/Items/Mess Kit.md|Mess Kit]]"
-    type: "Other Gear"
-    rarity: "Common"
+    type: Other Gear
+    rarity: Common
     quantity: 1
     canEquip: false
     equipped: false
@@ -482,8 +482,8 @@ inventory:
     damageType: ""
     armorClass: ""
   - name: "[[5. Mechanics/Items/Hempen Rope 50 Feet.md|Hempen Rope 50 Feet]]"
-    type: "Other Gear"
-    rarity: "Common"
+    type: Other Gear
+    rarity: Common
     quantity: 1
     canEquip: false
     equipped: false
@@ -493,8 +493,8 @@ inventory:
     damageType: ""
     armorClass: ""
   - name: "[[5. Mechanics/Items/Tinderbox.md|Tinderbox]]"
-    type: "Other Gear"
-    rarity: "Common"
+    type: Other Gear
+    rarity: Common
     quantity: 1
     canEquip: false
     equipped: false
@@ -504,8 +504,8 @@ inventory:
     damageType: ""
     armorClass: ""
   - name: "[[5. Mechanics/Items/Torch.md|Torch]]"
-    type: "Other Gear"
-    rarity: "Common"
+    type: Other Gear
+    rarity: Common
     quantity: 10
     canEquip: false
     equipped: false
@@ -515,8 +515,8 @@ inventory:
     damageType: ""
     armorClass: ""
   - name: "[[5. Mechanics/Items/Masons Tools.md|Masons Tools]]"
-    type: "Other Gear"
-    rarity: "Common"
+    type: Other Gear
+    rarity: Common
     quantity: 1
     canEquip: false
     equipped: false
@@ -526,8 +526,8 @@ inventory:
     damageType: ""
     armorClass: ""
   - name: "[[5. Mechanics/Items/Tinkers Tools.md|Tinkers Tools]]"
-    type: "Other Gear"
-    rarity: "Common"
+    type: Other Gear
+    rarity: Common
     quantity: 1
     canEquip: false
     equipped: false
@@ -542,8 +542,8 @@ flaw:
 likes: 
 dislikes: 
 party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
-condition:
-location:
+condition: 
+location: 
 ---
 `$="![Char Image\|clear left circle hsmall wsmall lp](" + dv.current().image + ")"`
 > [!infobox|left clear n-th]
@@ -654,10 +654,10 @@ dv.current().classSpells.map((classSpellConfig, classIndex) => {
   dv.header(3, classSpellConfig.name)
   spellLevels.forEach(level => {
     let levelText = ''
-    levelText += `>> ### ${level === 0 ? `Cantrips\n` : `Level ${level}\n`}`
     if (classSpellConfig.spellSlots.max[level-1] > 0) {
+      levelText += `>> ### ${level === 0 ? `Cantrips\n` : `Level ${level}\n`}`
       // levelText += `>> **Slots: ${classSpellConfig.spellSlots.used[level-1]}/${classSpellConfig.spellSlots.max[level-1]}**\n`
-      levelText += `\`INPUT[slider(minValue(0),maxValue(${classSpellConfig.spellSlots.max[level-1]})):classSpells[${classIndex}].spellSlots.used[${level-1}]]\``
+      levelText += `>>\`INPUT[slider(minValue(0),maxValue(${classSpellConfig.spellSlots.max[level-1]})):classSpells[${classIndex}].spellSlots.used[${level-1}]]\`\n`
     }
     levelText += `>> ${classSpellConfig.spells.filter(spell => spell.level === (level)).map(spell => spell.name).join(`\n>> `)}`
     result.push(levelText)
