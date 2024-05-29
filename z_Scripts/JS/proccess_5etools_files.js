@@ -43,7 +43,7 @@ const config = {
 
                 newFileName = newFileName
                     .replaceAll(/(^|[\/\\\-])([a-z0-9])(?!mg[\/\\]|oken[\/\\])/g, (oldText, separator, letter) => separator === '-' ? ' '+letter.toUpperCase() : separator+letter.toUpperCase())
-                    .replace(/\s*(HB|DMG|MM|VRGR|XGE|VGM|TCE|MPMM|MTF|CoS|SaF|ERLW|Hhhvi|Hhhvii|Hhhviii|Hhbh|VEoR)$/i, '')
+                    .replace(/\s*(HB|DMG|MM|VRGR|XGE|VGM|TCE|MPMM|MTF|CoS|SaF|ERLW|Hhhvi|Hhhvii|Hhhviii|Hhbh|VEoR|FMp1|WEL)$/i, '')
                 
                 return newFileName
             }
