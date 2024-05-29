@@ -10,6 +10,7 @@ proficiency: 3
 url: https://dndbeyond.com/characters/29682199
 image: https://www.dndbeyond.com/avatars/10846/680/1581111423-29682199.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
 race: "[[5. Mechanics/Races/Warforged.md|Warforged]]"
+alignment: "Neutral Good"
 description:
   gender: 
   age: null
@@ -46,15 +47,7 @@ defences:
   resistances: 
     - "poison"
     - "fire"
-background:
-  background:
-    name:  
-    description: 
-  backstory: 
-  organizations: 
-  allies: 
-  enemies: 
-  notes: 
+background: []
 classes: 
   - name: "[[5. Mechanics/Classes/Cleric.md|Cleric]]"
     subClass: "[[5. Mechanics/Classes/Cleric Forge Domain.md|Cleric Forge Domain]]"
@@ -257,9 +250,9 @@ classSpells:
       - 0
       - 0
       used: 
-      - 1
-      - 1
-      - 1
+      - 0
+      - 0
+      - 0
       - 0
       - 0
       - 0

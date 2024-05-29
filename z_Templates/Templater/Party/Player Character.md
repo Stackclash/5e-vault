@@ -28,6 +28,7 @@ proficiency: <% character.proficiencyBonus %>
 url: <% character.url %>
 image: <% character.image %>
 race: "<% tp.user.find_file(character.race.fullName, '5. Mechanics/Races') %>"
+alignment: "<% character.alignment %>"
 description:
   gender: <% character.description.gender %>
   age: <% character.description.age %>
@@ -50,15 +51,7 @@ speed: <% character.speeds.walk %>
 defences:
   immunities: <% tp.user.build_yaml_list(tp, character.defences.immunities, 4) %>
   resistances: <% tp.user.build_yaml_list(tp, character.defences.resistances, 4) %>
-background:
-  background:
-    name:  
-    description: 
-  backstory: 
-  organizations: 
-  allies: 
-  enemies: 
-  notes: 
+background: <% tp.user.build_yaml_list(tp, character.background, 2) %>
 classes: <% tp.user.build_yaml_list(tp, character.classes, 2, {name: '5. Mechanics/Classes', subClass: '5. Mechanics/Classes'}) %>
 abilityScores:
   strength:
