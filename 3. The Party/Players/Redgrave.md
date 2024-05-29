@@ -675,15 +675,21 @@ const weapons = dv.current().inventory.filter(inv => inv.type === 'Weapon')
 
 dv.table([
   'Name',
+  'Equipped',
+  'Attuned',
   'One Handed Damage',
   'Two Handed Damage',
-  'Range'
+  'Range',
+  'Damage Type'
   ], weapons.map(inv => {
   return [
     inv.name,
+    inv.equipped ? '✅' : '❌',
+    inv.attuned ? '✅' : '❌',
     dv.page(inv.name.path)['one-hand-damage'],
     dv.page(inv.name.path)['two-hand-damage'],
     dv.page(inv.name.path).range,
+    inv.damageType
   ]
 }))
 ```
