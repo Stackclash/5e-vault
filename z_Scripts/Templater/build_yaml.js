@@ -39,7 +39,6 @@ const build_object_yaml = (object, spaces, config, startWithNewLine) => {
 }
 
 const build_array_yaml = (list, spaces, config) => {
-  console.log(list,spaces,config)
   let result = []
   if (list.length > 0) {
     list.forEach(item => {
@@ -64,6 +63,14 @@ const build_array_yaml = (list, spaces, config) => {
   return result
 }
 
-const build_yaml = 
+const build_yaml = (item, spaces, config) => {
+  if (Array.isArray(item)) {
+    return build_array_yaml(item, spaces, config)
+  } else if (typeof item === 'object') {
+    return build_object_yaml(item, spaces, config, true)
+  } else {
+    console.log(`Error for finding result for ${JSON.stringify(item)}`)
+  }
+}
 
 module.exports = build_yaml

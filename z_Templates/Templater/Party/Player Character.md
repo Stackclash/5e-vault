@@ -29,22 +29,22 @@ url: <% character.url %>
 image: <% character.image %>
 race: "<% tp.user.find_file(character.race.fullName, '5. Mechanics/Races') %>"
 alignment: "<% character.alignment %>"
-description: <% tp.user.build_yaml(tp, character.description, 2) %>
+description: <% tp.user.build_yaml(character.description, 2) %>
 passives:
   perception: <% character.passives.perception %>
   investigation: <% character.passives.investigation %>
   insight: <% character.passives.insight %>
 proficiencies:
-  armor: <% tp.user.build_yaml(tp, character.proficiencies.armor, 4) %>
-  weapons: <% tp.user.build_yaml(tp, character.proficiencies.weapons, 4) %>
-  tools: <% tp.user.build_yaml(tp, character.proficiencies.tools, 4) %>
-  languages: <% tp.user.build_yaml(tp, character.proficiencies.languages, 4) %>
+  armor: <% tp.user.build_yaml(character.proficiencies.armor, 4) %>
+  weapons: <% tp.user.build_yaml(character.proficiencies.weapons, 4) %>
+  tools: <% tp.user.build_yaml(character.proficiencies.tools, 4) %>
+  languages: <% tp.user.build_yaml(character.proficiencies.languages, 4) %>
 speed: <% character.speeds.walk %>
 defences:
-  immunities: <% tp.user.build_yaml(tp, character.defences.immunities, 4) %>
-  resistances: <% tp.user.build_yaml(tp, character.defences.resistances, 4) %>
-background: <% tp.user.build_yaml(tp, character.background, 2) %>
-classes: <% tp.user.build_yaml(tp, character.classes, 2, {name: '5. Mechanics/Classes', subClass: '5. Mechanics/Classes'}) %>
+  immunities: <% tp.user.build_yaml(character.defences.immunities, 4) %>
+  resistances: <% tp.user.build_yaml(character.defences.resistances, 4) %>
+background: <% tp.user.build_yaml(character.background, 2) %>
+classes: <% tp.user.build_yaml(character.classes, 2, {name: '5. Mechanics/Classes', subClass: '5. Mechanics/Classes'}) %>
 abilityScores:
   strength:
     value: <% character.abilityScores.strength.value %>
@@ -83,7 +83,7 @@ savingThrows:
   charisma:
     value: <% character.savingThrows.charisma.value %>
     proficiency: <% character.savingThrows.charisma.proficiency %>
-  notes: <% tp.user.build_yaml(tp, character.savingThrows.notes, 4) %>
+  notes: <% tp.user.build_yaml(character.savingThrows.notes, 4) %>
 skills:
   acrobatics:
     value: <% character.skills.acrobatics.value %>
@@ -193,18 +193,18 @@ skills:
     expertise: <% character.skills.survival.expertise %>
     advantage: <% character.skills.survival.advantage %>
     disadvantage: <% character.skills.survival.disadvantage %>
-racialTraits: <% tp.user.build_yaml(tp, character.racialTraits, 2) %>
-classFeatures: <% tp.user.build_yaml(tp, character.classFeatures, 2) %>
-feats: <% tp.user.build_yaml(tp, character.feats, 2) %>
-raceSpells: <% tp.user.build_yaml(tp, character.spells.race, 2) %>
-classSpells: <% tp.user.build_yaml(tp, character.spells.class, 2, {name: '5. Mechanics/Spells'}) %>
+racialTraits: <% tp.user.build_yaml(character.racialTraits, 2) %>
+classFeatures: <% tp.user.build_yaml(character.classFeatures, 2) %>
+feats: <% tp.user.build_yaml(character.feats, 2) %>
+raceSpells: <% tp.user.build_yaml(character.spells.race, 2) %>
+classSpells: <% tp.user.build_yaml(character.spells.class, 2, {name: '5. Mechanics/Spells'}) %>
 currencies:
   cp: <% character.currencies.cp %>
   sp: <% character.currencies.sp %>
   gp: <% character.currencies.gp %>
   ep: <% character.currencies.ep %>
   pp: <% character.currencies.pp %>
-inventory: <% tp.user.build_yaml(tp, character.inventory, 2, {name: '5. Mechanics/Items'}) %>
+inventory: <% tp.user.build_yaml(character.inventory, 2, {name: '5. Mechanics/Items'}) %>
 ideal: 
 bond: 
 flaw: 
