@@ -30,180 +30,21 @@ image: <% character.image %>
 race: "<% tp.user.find_file(character.race.fullName, '5. Mechanics/Races') %>"
 alignment: "<% character.alignment %>"
 description: <% tp.user.build_yaml(character.description, 2) %>
-passives:
-  perception: <% character.passives.perception %>
-  investigation: <% character.passives.investigation %>
-  insight: <% character.passives.insight %>
-proficiencies:
-  armor: <% tp.user.build_yaml(character.proficiencies.armor, 4) %>
-  weapons: <% tp.user.build_yaml(character.proficiencies.weapons, 4) %>
-  tools: <% tp.user.build_yaml(character.proficiencies.tools, 4) %>
-  languages: <% tp.user.build_yaml(character.proficiencies.languages, 4) %>
+passives: <% tp.user.build_yaml(character.passives, 2) %>
+proficiencies: <% tp.user.build_yaml(character.proficiencies, 2) %>
 speed: <% character.speeds.walk %>
-defences:
-  immunities: <% tp.user.build_yaml(character.defences.immunities, 4) %>
-  resistances: <% tp.user.build_yaml(character.defences.resistances, 4) %>
+defences: <% tp.user.build_yaml(character.defences, 2) %>
 background: <% tp.user.build_yaml(character.background, 2) %>
 classes: <% tp.user.build_yaml(character.classes, 2, {name: '5. Mechanics/Classes', subClass: '5. Mechanics/Classes'}) %>
-abilityScores:
-  strength:
-    value: <% character.abilityScores.strength.value %>
-    modifier: <% character.abilityScores.strength.modifier %>
-  dexterity:
-    value: <% character.abilityScores.dexterity.value %>
-    modifier: <% character.abilityScores.dexterity.modifier %>
-  constitution:
-    value: <% character.abilityScores.constitution.value %>
-    modifier: <% character.abilityScores.constitution.modifier %>
-  intelligence:
-    value: <% character.abilityScores.intelligence.value %>
-    modifier: <% character.abilityScores.intelligence.modifier %>
-  wisdom:
-    value: <% character.abilityScores.wisdom.value %>
-    modifier: <% character.abilityScores.wisdom.modifier %>
-  charisma:
-    value: <% character.abilityScores.charisma.value %>
-    modifier: <% character.abilityScores.charisma.modifier %>
-savingThrows:
-  strength:
-    value: <% character.savingThrows.strength.value %>
-    proficiency: <% character.savingThrows.strength.proficiency %>
-  dexterity:
-    value: <% character.savingThrows.dexterity.value %>
-    proficiency: <% character.savingThrows.dexterity.proficiency %>
-  constitution:
-    value: <% character.savingThrows.constitution.value %>
-    proficiency: <% character.savingThrows.constitution.proficiency %>
-  intelligence:
-    value: <% character.savingThrows.intelligence.value %>
-    proficiency: <% character.savingThrows.intelligence.proficiency %>
-  wisdom:
-    value: <% character.savingThrows.wisdom.value %>
-    proficiency: <% character.savingThrows.wisdom.proficiency %>
-  charisma:
-    value: <% character.savingThrows.charisma.value %>
-    proficiency: <% character.savingThrows.charisma.proficiency %>
-  notes: <% tp.user.build_yaml(character.savingThrows.notes, 4) %>
-skills:
-  acrobatics:
-    value: <% character.skills.acrobatics.value %>
-    proficiency: <% character.skills.acrobatics.proficiency %>
-    expertise: <% character.skills.acrobatics.expertise %>
-    advantage: <% character.skills.acrobatics.advantage %>
-    disadvantage: <% character.skills.acrobatics.disadvantage %>
-  animal-handling:
-    value: <% character.skills['animal-handling'].value %>
-    proficiency: <% character.skills['animal-handling'].proficiency %>
-    expertise: <% character.skills['animal-handling'].expertise %>
-    advantage: <% character.skills['animal-handling'].advantage %>
-    disadvantage: <% character.skills['animal-handling'].disadvantage %>
-  arcana:
-    value: <% character.skills.arcana.value %>
-    proficiency: <% character.skills.arcana.proficiency %>
-    expertise: <% character.skills.arcana.expertise %>
-    advantage: <% character.skills.arcana.advantage %>
-    disadvantage: <% character.skills.arcana.disadvantage %>
-  athletics:
-    value: <% character.skills.athletics.value %>
-    proficiency: <% character.skills.athletics.proficiency %>
-    expertise: <% character.skills.athletics.expertise %>
-    advantage: <% character.skills.athletics.advantage %>
-    disadvantage: <% character.skills.athletics.disadvantage %>
-  deception:
-    value: <% character.skills.deception.value %>
-    proficiency: <% character.skills.deception.proficiency %>
-    expertise: <% character.skills.deception.expertise %>
-    advantage: <% character.skills.deception.advantage %>
-    disadvantage: <% character.skills.deception.disadvantage %>
-  history:
-    value: <% character.skills.history.value %>
-    proficiency: <% character.skills.history.proficiency %>
-    expertise: <% character.skills.history.expertise %>
-    advantage: <% character.skills.history.advantage %>
-    disadvantage: <% character.skills.history.disadvantage %>
-  insight:
-    value: <% character.skills.insight.value %>
-    proficiency: <% character.skills.insight.proficiency %>
-    expertise: <% character.skills.insight.expertise %>
-    advantage: <% character.skills.insight.advantage %>
-    disadvantage: <% character.skills.insight.disadvantage %>
-  intimidation:
-    value: <% character.skills.intimidation.value %>
-    proficiency: <% character.skills.intimidation.proficiency %>
-    expertise: <% character.skills.intimidation.expertise %>
-    advantage: <% character.skills.intimidation.advantage %>
-    disadvantage: <% character.skills.intimidation.disadvantage %>
-  investigation:
-    value: <% character.skills.investigation.value %>
-    proficiency: <% character.skills.investigation.proficiency %>
-    expertise: <% character.skills.investigation.expertise %>
-    advantage: <% character.skills.investigation.advantage %>
-    disadvantage: <% character.skills.investigation.disadvantage %>
-  medicine:
-    value: <% character.skills.medicine.value %>
-    proficiency: <% character.skills.medicine.proficiency %>
-    expertise: <% character.skills.medicine.expertise %>
-    advantage: <% character.skills.medicine.advantage %>
-    disadvantage: <% character.skills.medicine.disadvantage %>
-  nature:
-    value: <% character.skills.nature.value %>
-    proficiency: <% character.skills.nature.proficiency %>
-    expertise: <% character.skills.nature.expertise %>
-    advantage: <% character.skills.nature.advantage %>
-    disadvantage: <% character.skills.nature.disadvantage %>
-  perception:
-    value: <% character.skills.perception.value %>
-    proficiency: <% character.skills.perception.proficiency %>
-    expertise: <% character.skills.perception.expertise %>
-    advantage: <% character.skills.perception.advantage %>
-    disadvantage: <% character.skills.perception.disadvantage %>
-  performance:
-    value: <% character.skills.performance.value %>
-    proficiency: <% character.skills.performance.proficiency %>
-    expertise: <% character.skills.performance.expertise %>
-    advantage: <% character.skills.performance.advantage %>
-    disadvantage: <% character.skills.performance.disadvantage %>
-  persuasion:
-    value: <% character.skills.persuasion.value %>
-    proficiency: <% character.skills.persuasion.proficiency %>
-    expertise: <% character.skills.persuasion.expertise %>
-    advantage: <% character.skills.persuasion.advantage %>
-    disadvantage: <% character.skills.persuasion.disadvantage %>
-  religion:
-    value: <% character.skills.religion.value %>
-    proficiency: <% character.skills.religion.proficiency %>
-    expertise: <% character.skills.religion.expertise %>
-    advantage: <% character.skills.religion.advantage %>
-    disadvantage: <% character.skills.religion.disadvantage %>
-  sleight-of-hand:
-    value: <% character.skills['sleight-of-hand'].value %>
-    proficiency: <% character.skills['sleight-of-hand'].proficiency %>
-    expertise: <% character.skills['sleight-of-hand'].expertise %>
-    advantage: <% character.skills['sleight-of-hand'].advantage %>
-    disadvantage: <% character.skills['sleight-of-hand'].disadvantage %>
-  stealth:
-    value: <% character.skills.stealth.value %>
-    proficiency: <% character.skills.stealth.proficiency %>
-    expertise: <% character.skills.stealth.expertise %>
-    advantage: <% character.skills.stealth.advantage %>
-    disadvantage: <% character.skills.stealth.disadvantage %>
-  survival:
-    value: <% character.skills.survival.value %>
-    proficiency: <% character.skills.survival.proficiency %>
-    expertise: <% character.skills.survival.expertise %>
-    advantage: <% character.skills.survival.advantage %>
-    disadvantage: <% character.skills.survival.disadvantage %>
+abilityScores: <% tp.user.build_yaml(character.abilityScores, 2) %>
+savingThrows: <% tp.user.build_yaml(character.savingThrows, 2) %>
+skills: <% tp.user.build_yaml(character.skills, 2) %>
 racialTraits: <% tp.user.build_yaml(character.racialTraits, 2) %>
 classFeatures: <% tp.user.build_yaml(character.classFeatures, 2) %>
 feats: <% tp.user.build_yaml(character.feats, 2) %>
 raceSpells: <% tp.user.build_yaml(character.spells.race, 2) %>
 classSpells: <% tp.user.build_yaml(character.spells.class, 2, {name: '5. Mechanics/Spells'}) %>
-currencies:
-  cp: <% character.currencies.cp %>
-  sp: <% character.currencies.sp %>
-  gp: <% character.currencies.gp %>
-  ep: <% character.currencies.ep %>
-  pp: <% character.currencies.pp %>
+currencies: <% tp.user.build_yaml(character.currencies, 2) %>
 inventory: <% tp.user.build_yaml(character.inventory, 2, {name: '5. Mechanics/Items'}) %>
 ideal: 
 bond: 
