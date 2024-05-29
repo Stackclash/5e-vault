@@ -1,7 +1,9 @@
 const tp = app.plugins.getPlugin("templater-obsidian").templater.current_functions_object
 
 const build_object_yaml = (object, spaces, config, startWithNewLine) => {
+  console.log('Object',object,spaces,config,startWithNewLine)
   const result = Object.entries(object).reduce((accum, [key, value]) => {
+    console.log(key)
     let itemString
 
     if (typeof value === 'string') {
@@ -40,6 +42,7 @@ const build_object_yaml = (object, spaces, config, startWithNewLine) => {
 
 const build_array_yaml = (list, spaces, config) => {
   let result = []
+  console.log('Array',list, spaces, config)
   if (list.length > 0) {
     list.forEach(item => {
       let itemString
